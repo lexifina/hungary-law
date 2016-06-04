@@ -4,7 +4,7 @@
 
 a) felvétel a kamarába, valamint a kamarai tagság megszűnésének megállapítása,
 
-b) jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység engedélyezése gazdálkodó szervezet (szervezet) számára, valamint az engedély megszűnésének megállapítása,
+b) felvétel a könyvvizsgáló cégek nyilvántartásába, valamint az abból való törlés,
 
 c) felvétel a harmadik országbeli könyvvizsgálók és a harmadik országbeli könyvvizsgáló gazdálkodók jegyzékébe, valamint törlés ezen jegyzékekből,
 

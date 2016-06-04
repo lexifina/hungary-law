@@ -1,7 +1,3 @@
-## II. Fejezet
-
-## A KAMARAI TAG KÖNYVVIZSGÁLÓ
-
 ## Kamarai tagság keletkezése
 
 10. § (1) Természetes személyként jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet Magyarország területén az végezhet, aki a kamara tagja és rendelkezik az ezt igazoló könyvvizsgálói igazolvánnyal.

@@ -1,4 +1,4 @@
-27. § (1) A szüneteltetés időtartama alatt a kamarai tag könyvvizsgálóra nem vonatkoznak a 11. § (1) bekezdésének a), e)–g) pontjában, valamint az 53. §-ban foglalt előírások.
+27. § (1) A szüneteltetés időtartama alatt a kamarai tag könyvvizsgálóra nem vonatkoznak a 11. § (1) bekezdésének a), c)–e) pontjában, valamint az 53. §-ban foglalt előírások.
 
 (2) A szüneteltető kamarai tag könyvvizsgálót – a (3) bekezdésben foglaltak kivételével – nem illetik meg a kamarai tagságból eredő jogok, és nem terhelik az abból fakadó kötelezettségek.
 
@@ -18,4 +18,6 @@ f) köteles megtartani a kamara önkormányzati szabályzataiban a szüneteltet�
 
 g) köteles haladéktalanul, de legkésőbb tizenöt napon belül bejelenteni, ha a 33. § (1) bekezdésében felsorolt adataiban változás következett be,
 
-h) köteles teljesíteni a 189. § (6) bekezdése szerinti adatszolgáltatást.
+h) köteles teljesíteni a 189. § (6) bekezdése szerinti adatszolgáltatást,
+
+i) köteles részt venni az őt érintő minőségellenőrzésen, illetve a kamarai minőségellenőrzésen.

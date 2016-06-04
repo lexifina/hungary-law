@@ -14,7 +14,7 @@ f) cím, telefon-, telefaxszám, elektronikus levélcím,
 
 g) az iskolai végzettséget, valamint a szakképesítést igazoló oklevél száma, kelte, a kiállító neve,
 
-h) a 49. § szerinti minősítés,
+h) a 49. § szerinti minősítés, a minősítés megszerzésének, illetve visszavonásának időpontja,
 
 i) azon könyvvizsgáló cég neve, címe, internetes honlapjának címe, nyilvántartási száma, amelynek tevékenységében a kamarai tag könyvvizsgáló részt vesz,
 

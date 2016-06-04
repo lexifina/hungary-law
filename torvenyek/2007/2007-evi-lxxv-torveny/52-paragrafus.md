@@ -4,7 +4,11 @@ a) a minősített kamarai tag könyvvizsgáló, könyvvizsgáló cég azt kéri,
 
 b) a minősítés előírt feltételei a továbbiakban már nem állnak fenn,
 
-c) a minősítést megvonták.
+c) minőségellenőrzés során hozott jogerős határozatban a minősítést megvonták,
+
+d) kamarai minőség-ellenőrzés során hozott jogerős határozatban a minősítés megvonását kezdeményezték,
+
+e) fegyelmi eljárás során keretében a minősítés megvonását kezdeményezték.
 
 (2) A minősítés visszavonása tekintetében a közfelügyeleti hatóság jár el. Az eljárás megindítását – az ok megjelölésével – az érintett állami szerv is kérheti.
 

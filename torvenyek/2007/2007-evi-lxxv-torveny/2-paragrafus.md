@@ -52,7 +52,7 @@ b) minden olyan, az a) pont hatálya alá nem tartozó gazdálkodó, amelyet jog
 
 21. Mentor: az a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgáló, aki a könyvvizsgáló jelöltet a szakmai tapasztalatok elsajátításában segíti.
 
-22. Nemzetközi könyvvizsgálati standardok: a Nemzetközi Könyvvizsgálati és Bizonyosságot Nyújtó Szolgáltatási Standardok Testület [International Auditing and Assurance Standard Board (IAASB)] által kibocsátott és elfogadott Nemzetközi Könyvvizsgálati Standardok [International Standards on Auditing (ISA)] és kapcsolódó állásfoglalások, valamint egyéb standardok, amelyek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységhez kapcsolódnak.
+22. Nemzetközi könyvvizsgálati standardok: az IFAC által a Nemzetközi Könyvvizsgálati és Bizonyosságot Nyújtó Szolgáltatási Standardok Testületen [International Auditing and Assurance Standard Board (IAASB)] keresztül kibocsátott Nemzetközi Könyvvizsgálati Standardok [International Standards on Auditing (ISA)], 1. sz. Nemzetközi Minőségellenőrzési Standard és más kapcsolódó standardok, amelyek a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységhez kapcsolódnak.
 
 23. Szabályozott piac: a tőkepiacról szóló törvényben meghatározott fogalom.
 
@@ -63,3 +63,15 @@ b) minden olyan, az a) pont hatálya alá nem tartozó gazdálkodó, amelyet jog
 26. Európai Gazdasági Térség állama: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
 
 27. Munkaviszony jellegű jogviszony: minden olyan, munkaviszonynak, közalkalmazotti, köztisztviselői jogviszonynak, szolgálati viszonynak nem minősülő jogviszony, melyben a munkaviszonyra jellemző tartalmi elemek meghatározó jelleggel érvényesülnek. Munkaviszonyra jellemző tartalmi elemek különösen: a folyamatos és személyes munkavégzési jelleg, a rendszeres díjazási jogosultság, a rendelkezésre állási kötelezettség, az alá-fölé rendeltségi viszony (betagozódás a szervezeti hierarchiába), az irányítási, utasításadási és ellenőrzési jog (vezetői jellegű jogviszony esetén), a munkavégzés időtartamának, a munkaidő beosztásának meghatározása, a munkavégzés helyének megjelölése, a munkaeszközök és nyersanyagok, valamint a munkavégzés egyéb feltételeinek biztosítása.
+
+28. Illetékes hatóság: a 2006/43/EK európai parlamenti és tanácsi irányelv 2. cikk 10. pontja szerinti szerv.
+
+29. Fő könyvvizsgáló partner
+
+a) az a kamarai tag könyvvizsgáló, akit a könyvvizsgáló cég meghatározott könyvvizsgálói megbízatás tekintetében a könyvvizsgáló cég nevében elvégzendő jogszabályi kötelezettségen alapuló könyvvizsgálat elsőrendű felelőseként jelölt ki, vagy
+
+b) csoportkönyvvizsgálat esetében legalább az a kamarai tag könyvvizsgáló, akit a könyvvizsgáló cég a csoport szintjén a jogszabályi kötelezettségen alapuló könyvvizsgálat elvégzésének elsőrendű felelőseként jelölt ki, és az a kamarai tag könyvvizsgáló, akit a jelentős leányvállalatok szintjén elsőrendű felelősként jelöltek ki, vagy
+
+c) az a kamarai tag könyvvizsgáló, aki a független könyvvizsgálói jelentést aláírja.
+
+30. Szoros kapcsolat: a 2003/6/EK európai parlamenti és tanácsi irányelvnek az elfogadott piaci gyakorlatok, az árualapú származtatott ügyletekre vonatkozó bennfentes információ fogalommeghatározása, a bennfentesek jegyzékének összeállítása, a vezető tisztségviselők ügyleteinek bejelentése és a gyanús ügyletek bejelentése tekintetében történő végrehajtásáról szóló 2004/72/EK bizottsági irányelv 1. cikk (2) bekezdése szerinti fogalom.

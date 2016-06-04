@@ -27,3 +27,5 @@ b) fegyelmi vétség elkövetésének alapos gyanúja esetén fegyelmi eljárás
 (8) A kamara a határozatában foglaltak teljesítését e § rendelkezései szerint ellenőrizheti.
 
 (9) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég köteles az ellenőrzés lefolytatását elősegíteni, a kamara felhívásaiban, határozataiban foglaltakat teljesíteni, az ellenőrzés lefolytatását lehetővé tenni.
+
+(10) A közfelügyeleti hatóság e törvényben foglalt feladatainak ellátása során a pénzmosás és terrorizmus finanszírozása megelőzésének és megakadályozásának érdekében együttműködik a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló törvény szerinti pénzügyi információs egységként működő hatósággal.

@@ -1,10 +1,10 @@
 ## A minőségellenőrzés lefolytatása
 
-173/B. § (1) Minőségellenőrzést kell lefolytatni legalább 3 évente a kamarai tag könyvvizsgálónál, a könyvvizsgáló cégnél, ha az közérdeklődésre számot tartó gazdálkodóra vonatkozóan végez jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet.
+173/B. § (1) Minőségellenőrzést kell lefolytatni kockázatelemzés alapján és legalább 3 évente a kamarai tag könyvvizsgálónál, a könyvvizsgáló cégnél, ha az közérdeklődésre számot tartó gazdálkodóra vonatkozóan végez jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet. A minőségellenőrzés a kamarai tag könyvvizsgáló vagy könyvvizsgáló cég által folytatott tevékenység terjedelmének és összetettségének megfelelő, és azzal arányos.
 
 (2) Az (1) bekezdésben meghatározott időtartamba nem számít bele az az időszak, amelyben a kamarai tag könyvvizsgáló szüneteltette a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátását.
 
-(3) A minőségellenőrzés tekintetében a közfelügyeleti hatóság jár el. A közfelügyeleti hatóság a minőségellenőrzés lefolytatására a közérdeklődésre számot tartó gazdálkodó éves beszámolójáról szóló könyvvizsgálói jelentés kibocsátását követő 3 naptári éven belül jogosult, azzal, hogy a minőségellenőrzés azt az időszakot fedi le, amely időszakban a kamarai tag könyvvizsgáló, könyvvizsgáló cég rendelkezett közérdeklődésre számot tartó gazdálkodóval megkötött jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására irányuló megbízással.
+(3) A minőségellenőrzést a közfelügyeleti hatóság folytatja le. A minőségellenőrzés azt az időszakot fedi le, amely időszakban a kamarai tag könyvvizsgáló, könyvvizsgáló cég rendelkezett közérdeklődésre számot tartó gazdálkodóval megkötött jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátására irányuló megbízással.
 
 (4) Rendkívüli minőségellenőrzést kell lefolytatni, ha azt
 
@@ -26,7 +26,7 @@ c) az ellenőr és az ellenőrzés alá vont kamarai tag egymásnak nem közeli 
 
 d) az ellenőrrel szemben az a)–c) pontban támasztott követelmények az ellenőr közeli hozzátartozója tekintetében is teljesülnek,
 
-e) legalább két év eltelt annak megszűnésétől számítva, hogy az ellenőr az ellenőrzés alá vont jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel tulajdonosi, munkavállalói vagy munkaviszony jellegű jogviszonyban volt,
+e) legalább három év eltelt annak megszűnésétől számítva, hogy az ellenőr az ellenőrzés alá vont jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet ellátó kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel tulajdonosi, munkavállalói vagy munkaviszony jellegű jogviszonyban volt,
 
 f) az ellenőr nem áll olyan kamarai tagsági jogviszonyban, amely alapján jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorolható,
 
@@ -44,8 +44,8 @@ g) az ellenőr nem áll könyvvizsgálóval vagy könyvvizsgáló céggel tulajd
 
 (12) Az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég az ellenőrzés során köteles az ellenőrrel együttműködni, a helyszíni ellenőrzés feltételeit biztosítani.
 
-(13) Ha a közfelügyeleti hatóság úgy ítéli meg, hogy az adott minőségellenőrzés lebonyolításához szükséges, közreműködőként a (6) bekezdés e) pontjában foglaltaknak megfelelő kamarai minőségellenőrök, valamint az adott minőségellenőrzéshez szükséges speciális szaktudással rendelkező személyek is bevonhatók. A minőségellenőrzésben közreműködőként részt vevő kamarai minőségellenőrök és más személyek a minőségellenőrzés során önálló írásos véleményt nem készítenek.
+(13) A Rendelet 21. cikke alapján, ha a közfelügyeleti hatóság úgy ítéli meg, hogy az adott minőségellenőrzés lebonyolításához szükséges, közreműködőként a (6) bekezdés e) pontjában foglaltaknak megfelelő kamarai minőségellenőrök, valamint az adott minőségellenőrzéshez szükséges speciális szaktudással rendelkező személyek is bevonhatók. A minőségellenőrzésben közreműködőként részt vevő kamarai minőségellenőrök és más személyek a minőségellenőrzés során önálló írásos véleményt nem készítenek, döntéshozatalban nem vesznek részt.
 
 (14) A kamara a minőségellenőrzés lefolytatásához szükséges dokumentumokat, nyilvántartásokat a közfelügyeleti hatóság kérelmére tizenöt napon belül átadja a közfelügyeleti hatóságnak.
 
-(15) Minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az ellenőrzés megindításától számított 60 nap.
+(15) Minőségellenőrzés és rendkívüli minőségellenőrzés során a határozat meghozatalára nyitva álló határidő az ellenőrzés megindításától számított 60 nap. A közfelügyeleti hatóság az ügyintézési határidőt indokolt esetben egy alkalommal, legfeljebb 21 nappal meghosszabbíthatja, amelyről az ügyfelet értesíteni kell.

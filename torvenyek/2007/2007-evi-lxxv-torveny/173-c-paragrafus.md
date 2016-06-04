@@ -16,7 +16,7 @@ a) kötelezés továbbképzésen való részvételre,
 
 b) figyelmeztetés az előírásoknak nem megfelelő gyakorlat megszüntetésére,
 
-c) fegyelmi eljárás kezdeményezése,
+c)
 
 d) kötelezés könyvvizsgálat ismételt elvégzésére vagy a könyvvizsgálói jelentés visszavonására,
 
@@ -30,7 +30,21 @@ g) jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyako
 
 (7b) A (7) bekezdés g) pontja szerinti eltiltás 3 évig terjedhet.
 
-(8) Ha az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységét a (6) bekezdés szerinti kötelezettségek figyelmen kívül hagyásával végezte, ellene a közfelügyeleti hatóság a kamara illetékes testületénél fegyelmi eljárást kezdeményez.
+(7c) Az intézkedések típusának és szintjének meghatározásakor az alábbi körülményeket kell figyelembe venni:
+
+a) a jogsértés súlyosságát és időtartamát;
+
+b) a felelősség mértékét;
+
+c) a pénzügyi lehetőségek mértékét (különösen a könyvvizsgáló cég teljes árbevételében vagy a kamarai tag könyvvizsgáló éves jövedelmében kifejezve);
+
+d) az elért nyereség vagy elkerült veszteség összegét;
+
+e) az eljárásban való együttműködés mértékét;
+
+f) a könyvvizsgáló cég vagy kamarai tag könyvvizsgáló által elkövetett korábbi jogsértéseket.
+
+(8)
 
 (9) A közfelügyeleti hatóság a közérdeklődésre számot tartó gazdálkodók jogszabályi kötelezettségen alapuló könyvvizsgálatát ellátó könyvvizsgálók, könyvvizsgáló cégek nem megfelelt eredménnyel zárult minőségellenőrzése esetén annak tényéről és az alkalmazott intézkedésekről értesíti a kamarát, a Budapesti Értéktőzsde Zrt.-t, illetve az érintett állami szervet.
 
@@ -39,3 +53,7 @@ g) jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyako
 (11) Amennyiben a könyvvizsgálat (10) bekezdés szerinti ismételt elvégzésére 90 napon belül nem kerül sor, az ellenőrzés alá vont kamarai tag könyvvizsgáló, könyvvizsgáló cég köteles a kibocsátott könyvvizsgálói jelentést visszavonni.
 
 (12) A közfelügyeleti hatóság a jogszabályi kötelezettségen alapuló könyvvizsgálói szolgáltatást igénybe vevők vagy a tőkepiacról szóló 2001. évi CXX. törvény szerinti befektetők érdekét veszélyeztető helyzet észlelése esetén a közfelügyeleti hatóság intézkedéseiről tájékoztathatja a Budapesti Értéktőzsde Zrt.-t, illetve az érintett állami szervet.
+
+(13) A kamarai tag könyvvizsgáló, könyvvizsgáló cég belső minőségbiztosítási rendszerének minőségellenőrzése során a közfelügyeleti hatóság által hozott jogerős határozatban foglaltakat a határozat közlésétől számított 12 hónapon belül végrehajtja. A végrehajtást a közfelügyeleti hatóság vizsgálhatja.
+
+(14) Ha a közfelügyeleti hatóság megállapítja, hogy az ellenőrzött kamarai tag könyvvizsgáló, könyvvizsgáló cég a könyvvizsgálói tevékenységét a (13) bekezdésben foglalt kötelezettségek teljesítése nélkül végezte, a (7) bekezdés szerinti intézkedések alkalmazhatók.

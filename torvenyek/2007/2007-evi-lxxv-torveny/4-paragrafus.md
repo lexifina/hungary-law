@@ -6,13 +6,13 @@
 
 (3)
 
-(4) A 2006/43/EK irányelv alkalmazásában a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásának engedélyezése, a kamarai tagok és a könyvvizsgáló cégek nyilvántartásba vétele, a minőségbiztosítás, a fegyelmi eljárások, a harmadik országbeli könyvvizsgálók és harmadik országbeli könyvvizsgáló gazdálkodók jegyzékbe vétele tekintetében a kamara minősül illetékes hatóságnak.
+(4)
 
 (5) A kamara
 
 a) ellátja a jogkörébe tartozó közigazgatási hatósági ügyek intézését,
 
-b) a közfelügyeleti hatóság jóváhagyásával megalkotja és naprakészen tartja a könyvvizsgálati, valamint az átvilágítási megbízásokra, a bizonyosságot nyújtó megbízásokra, a kapcsolódó szolgáltatásokra és a belső minőségellenőrzésre vonatkozó nemzeti standardokat,
+b) közfelügyeleti hatóság jóváhagyásával megalkotja és naprakészen tartja a könyvvizsgálati, valamint az átvilágítási megbízásokra, a bizonyosságot nyújtó megbízásokra, a kapcsolódó szolgáltatásokra és a belső minőségellenőrzésre, könyvvizsgálók, könyvvizsgáló cégek belső szervezetére és a könyvvizsgáló munka megszervezésére vonatkozó nemzeti standardokat,
 
 c) meghatározza az okleveles könyvvizsgálói szakképesítés szakmai és vizsgáztatási követelményeit, ellátja a vizsgáztatási feladatokat, és a képzés irányításával, felügyeletével kapcsolatos hatósági feladatokat, meghatározza a szakképesítés tartalmi kereteit, szabályozza a képzésben közreműködő szervezetek feladatait, gondoskodik a feladatellátás minőségbiztosításáról,
 
@@ -32,7 +32,7 @@ i)
 
 a) megalkotja a kamara alapszabályát, továbbá a kamara önkormányzati szabályzatait,
 
-b) működteti a kamarai tag könyvvizsgálók és a könyvvizsgáló cégek jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenysége minőségbiztosításának rendszerét,
+b) működteti a kamarai tag könyvvizsgálók és a könyvvizsgáló cégek jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenysége minőségbiztosításának rendszerét azon kamarai tag könyvvizsgálók, könyvvizsgáló cégek tekintetében, akik/amelyek nem látnak el közérdeklődésre számot tartó gazdálkodónál jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet,
 
 c) véleményezi azokat a törvényeket és más jogszabályokat, amelyek a könyvvizsgálók működésének, tevékenységének feltételeit meghatározzák, a kamara feladatait és működését közvetlenül érintik,
 

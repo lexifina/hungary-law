@@ -18,6 +18,8 @@ h) javaslat előkészítése a kamara, illetve a miniszter részére a könyvviz
 
 i) miniszteri, illetve közfelügyeleti törvényességi felügyeleti eljárás kezdeményezése.
 
+(1a) Az intézkedések típusának és szintjének meghatározásakor a 173/C. § (7c) pontjában foglalt körülményeket kell figyelembe venni.
+
 (2) Az (1) bekezdés e) pontja szerinti pénzbírság összege kamarai tag könyvvizsgáló esetén 100 ezer forinttól 100 millió forintig, könyvvizsgáló cég esetén 100 ezer forinttól 500 millió forintig terjedhet. A pénzbírságból befolyó bevételek a közfelügyeleti hatóság bevételeit képezik azzal, hogy azt a könyvvizsgálói közfelügyelet működésére kell felhasználni.
 
 (3) Az (1) bekezdés g) pontja szerinti eltiltás 3 évig terjedhet.

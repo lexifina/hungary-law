@@ -1,4 +1,4 @@
-50. § (1) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég 49. § szerinti minősítéséről a közfelügyeleti hatóság dönt. A minősítés iránti kérelem elbírálásáért az ügyfél igazgatási szolgáltatási díjat köteles fizetni. Az igazgatási szolgáltatási díj a közfelügyelet hatóság bevétele. Az igazgatási szolgáltatási díj fizetésének részletes szabályait a miniszter rendeletben állapítja meg.
+50. § (1) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég 49. § szerinti minősítéséről a közfelügyeleti hatóság dönt.
 
 (1a) A 49. § szerinti minősítés iránti kérelmet az 1., illetve 2. melléklet szerinti adattartalommal kell a közfelügyeleti hatósághoz benyújtani.
 
@@ -20,7 +20,7 @@ a) igazolja, hogy van legalább egy olyan, a megfelelő minősítéssel rendelke
 
 b) vállalja, hogy működése során az a kamarai tag könyvvizsgáló, aki a könyvvizsgáló cég nevében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végez olyan gazdálkodó tekintetében, amelyre vonatkozóan a minősítést külön jogszabály előírja, rendelkezik a megfelelő minősítéssel.
 
-(4) A (2) és (3) bekezdés szerinti kérelem elbírálása során ki kell kérni az érintett állami szerv egyetértését, továbbá figyelembe kell venni a kérelmező tekintetében lefolytatott minőségellenőrzés(ek), kamarai minőségellenőrzés(ek) eredményét, valamint a kérelmezővel szemben lefolytatott fegyelmi eljárásokat.
+(4) A 49/A. § a)–d) és f)–g) pontjában meghatározott minősítés megadása iránti kérelem elbírálása során ki kell kérni a pénz-, tőke- és biztosításpiaci szervezeteket, pénztárakat érintően a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank egyetértését, továbbá figyelembe kell venni a kérelmező tekintetében lefolytatott minőségellenőrzés(ek), kamarai minőségellenőrzés(ek) eredményét, valamint a kérelmezővel szemben lefolytatott fegyelmi eljárásokat.
 
 (5) A minősítés megadását meg kell tagadni,
 

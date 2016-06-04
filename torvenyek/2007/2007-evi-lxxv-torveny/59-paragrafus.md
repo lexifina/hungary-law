@@ -1,1 +1,0 @@
-59. § Külön jogszabály a közérdeklődésre számot tartó gazdálkodó tekintetében jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végző kamarai tag könyvvizsgálóra, könyvvizsgáló cégre az e törvényben foglaltaknál szigorúbb előírásokat is meghatározhat.

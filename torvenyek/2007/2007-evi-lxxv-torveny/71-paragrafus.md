@@ -1,6 +1,4 @@
-71. § (1) A kamara – közhiteles hatósági nyilvántartásnak minősülő – elkülönített jegyzéket vezet a harmadik országbeli könyvvizsgáló gazdálkodókról.
-
-(2) A kamara jegyzékébe – kérelem alapján, a vonatkozó külön előírások figyelembevételével – fel kell venni azt a harmadik országbeli könyvvizsgáló gazdálkodót, amely megfelel a következő feltételeknek:
+71. § (1) A közfelügyeleti hatóság kérelemre a 68. § (1) bekezdés szerinti engedélyt bocsát ki annak a harmadik országbeli könyvvizsgáló gazdálkodó részére, amely
 
 a) a legfőbb irányító (vezető) szerve tagjainak többsége eleget tesz e törvény kamarai tagként való nyilvántartásba vételre vonatkozó követelményeivel egyenértékű előírásoknak,
 
@@ -10,20 +8,16 @@ c) a könyvvizsgálói tevékenységet az Európai Unióban elfogadott nemzetkö
 
 d) a könyvvizsgálói tevékenység során a függetlenség, az objektivitás, a pártatlanság és a könyvvizsgálat díja tekintetében az e törvényben foglaltakkal egyenértékű szabályok szerint jár el,
 
-e) honlapján éves átláthatósági jelentést tesz közzé az e törvényben szabályozott módon és esetben, vagy ezzel egyenértékű közzétételi követelményeknek tesz eleget,
+e) honlapján éves átláthatósági jelentést tesz közzé az e törvényben szabályozott módon és esetben, vagy ezzel egyenértékű közzétételi követelményeknek tesz eleget.
 
-f) a kamara alapszabályában és önkormányzati szabályzataiban foglalt, a harmadik országbeli könyvvizsgáló gazdálkodóra vonatkozó előírásokat magára kötelezőnek ismeri el,
+(2) A közfelügyeleti hatóság a harmadik országbeli könyvvizsgáló gazdálkodó 68. § (1) bekezdés szerinti engedélyét visszavonja, amennyiben:
 
-g) vállalja a kamara által meghatározott hozzájárulási díj megfizetését,
+a) azt a harmadik országbeli könyvvizsgáló gazdálkodó kéri,
 
-h) az előírt igazgatási szolgáltatási díjat megfizette.
+b) fegyelmi eljárás keretében a harmadik országbeli könyvvizsgáló gazdálkodó jegyzékből való törlését rendelték el,
 
-(3) Az (1) bekezdés szerinti jegyzékből törölni kell a harmadik országbeli könyvvizsgáló gazdálkodót, ha
+c) a harmadik országbeli könyvvizsgáló gazdálkodó továbbiakban már nem felel meg az (1) bekezdésben foglalt követelményeknek,
 
-a) azt kéri,
+d) a harmadik országbeli könyvvizsgáló gazdálkodó megszűnt.
 
-b) fegyelmi eljárás keretében a jegyzékből való törlését rendelték el,
-
-c) a továbbiakban már nem felel meg a (2) bekezdésben foglalt követelményeknek,
-
-d) megszűnt.
+(3) Az engedély visszavonásáról szóló (2) bekezdés szerinti jogerős döntéséről a közfelügyeleti hatóság haladéktalanul tájékoztatja a kamara felvételi bizottságát

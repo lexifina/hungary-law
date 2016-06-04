@@ -12,6 +12,8 @@
 
 a) olyan fegyelmi vétség miatt, amelynek elkövetésétől számítva 5 év eltelt,
 
-b) ha a fegyelmi vétségnek a kamara elnöke tudomására jutásától számítva 12 hónap eltelt és a kamarai tag könyvvizsgáló, a könyvvizsgáló cég ellen nem indult büntetőeljárás.
+b) ha a fegyelmi vétségnek a kamara elnöke tudomására jutásától számítva 12 hónap eltelt és a kamarai tag könyvvizsgáló, a könyvvizsgáló cég ellen nem indult büntetőeljárás,
+
+c) olyan fegyelmi vétség miatt, amelyre a közfelügyeleti hatóság által lefolytatott, 173/B. § (1) bekezdése szerinti minőségellenőrzés, 173/B. § (4) bekezdés szerinti rendkívüli minőségellenőrzés kiterjedhet.
 
 (6) Az a fegyelmi vétség, amely bűncselekmény törvényi tényállását valósítja meg, a bűncselekménnyel együtt évül el.

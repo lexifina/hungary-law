@@ -2,4 +2,4 @@
 
 (2) A közfelügyeleti hatóság az (1) bekezdés szerinti eljárása során jogosult megismerni és kezelni a közfelügyelet hatálya alá tartozó személy és a vele kapcsolatba hozható személyek személyes adatait. Ha az (1) bekezdés szerinti iratok, könyvek, adathordozók (a továbbiakban e bekezdés alkalmazásában együtt: adathordozó) az eljárás tárgyával össze nem függő személyes adatot is tartalmaznak és az adatok elkülönítése az adathordozó eljárásban való felhasználhatóságának sérelme nélkül nem lehetséges, az adathordozóval érintett minden személyes adat kezelésére jogosult a közfelügyeleti hatóság, azonban az eljárás tárgyával össze nem függő személyes adatok megvizsgálására csak addig a mértékig jogosult, ameddig meggyőződik arról, hogy az adat nem függ össze az eljárás tárgyával.
 
-(3)
+(3) Az (1) bekezdés szerinti eljárás során a határozat meghozatalára nyitva álló határidő az eljárás megindításától számított 60 nap. A közfelügyeleti hatóság az ügyintézési határidőt indokolt esetben egy alkalommal, legfeljebb 21 nappal meghosszabbíthatja, amelyről az ügyfelet értesíteni kell.

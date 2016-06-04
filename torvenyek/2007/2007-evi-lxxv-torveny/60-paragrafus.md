@@ -1,6 +1,6 @@
 ## A jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység felelősségi szabályai
 
-60. § (1) A kamarai tag könyvvizsgálót (ideértve a könyvvizsgáló cég nevében eljáró kamarai tag könyvvizsgálót is), a könyvvizsgáló céget az e törvényben meghatározott fegyelmi felelősség terheli a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység megfelelő ellátásáért (szakmai felelősség).
+60. § (1) A kamarai tag könyvvizsgálót (ideértve a könyvvizsgáló cég nevében eljáró kamarai tag könyvvizsgálót is), a könyvvizsgáló céget az e törvényben meghatározott felelősség terheli a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység megfelelő ellátásáért (szakmai felelősség).
 
 (2) A kamarai tag könyvvizsgáló, a könyvvizsgáló cég a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátása körében okozott kár megtérítéséért a Polgári Törvénykönyvről szóló törvény kártérítési felelősségre vonatkozó általános szabályai szerinti felelősséggel tartozik (anyagi felelősség).
 

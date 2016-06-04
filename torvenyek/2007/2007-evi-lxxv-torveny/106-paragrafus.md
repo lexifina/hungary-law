@@ -14,8 +14,8 @@ c) azon kamarai tag könyvvizsgálók számára kialakított szakmai továbbkép
 
 (3) A szakmai továbbképzési rendszer célja a szakmai kompetencia folyamatos fenntartása és fejlesztése.
 
-(4) A szakmai továbbképzési rendszer keretében lebonyolításra kerülő továbbképzések programját és időtartamát az oktatási bizottság javaslata alapján a kamara elnöksége határozza meg.
+(4) A szakmai továbbképzési rendszer keretében lebonyolításra kerülő továbbképzések programját és időtartamát az oktatási bizottság javaslata alapján – a közfelügyeleti hatóság jóváhagyásával – a kamara elnöksége határozza meg.
 
 (5) A szakmai továbbképzési rendszerben való részvétel elmulasztása az e törvényben és a kamara etikai szabályzatában meghatározott jogkövetkezményekkel jár.
 
-(6) A szakmai továbbképzési rendszer irányítására, szervezésére, ellenőrzésére, a teljesítés igazolására és a továbbképzési díj fizetésére vonatkozó részletes szabályokat a kamara szakmai továbbképzési szabályzata tartalmazza.
+(6) A szakmai továbbképzési rendszer irányítására, szervezésére, ellenőrzésére, a teljesítés igazolására és a továbbképzési díj fizetésére vonatkozó részletes szabályokat a kamara szakmai továbbképzési szabályzata tartalmazza. A kamara szakmai továbbképzési szabályzatát a közfelügyeleti hatóság hagyja jóvá.

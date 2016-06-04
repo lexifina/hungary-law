@@ -12,7 +12,7 @@ e) az elsődleges kapcsolattartó személy neve,
 
 f) minden irodai helyiség címe, ahol tevékenységet folytat,
 
-g) a 49. § szerinti minősítés,
+g) a 49. § szerinti minősítés, a minősítés megszerzésének, illetve visszavonásának időpontja,
 
 h) azon kamarai tag könyvvizsgálók neve és nyilvántartási száma, akik a könyvvizsgáló cég tevékenységében részt vesznek,
 
@@ -28,7 +28,9 @@ m) a minőségbiztosítással, valamint a hozzájárulási díj fizetésével ka
 
 n) nyilvántartási szám és a nyilvántartásba vételt végző hatóság neve, ha az Európai Gazdasági Térség más államában is nyilvántartásba vették könyvvizsgáló cégként,
 
-o) a nyilvántartásba vételt végző hatóság neve és – ha van – a nyilvántartási szám, amennyiben harmadik országban könyvvizsgáló gazdálkodóként nyilvántartásba vették.
+o) a nyilvántartásba vételt végző hatóság neve és – ha van – a nyilvántartási szám, amennyiben harmadik országban könyvvizsgáló gazdálkodóként nyilvántartásba vették,
+
+p) a kérelemben megjelölt Európai Gazdasági Térség államának illetékes hatóságának neve és – ha van – a könyvvizsgáló cég kérelemben megjelölt nyilvántartási száma, ha a könyvvizsgáló céget a 35/A. § alapján vették nyilvántartásba.
 
 (2) A könyvvizsgáló cégek nyilvántartása tartalmazza a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység végzésének engedélyezéséért, a minőségbiztosításért, a fegyelmi eljárásért, valamint a közfelügyeletért felelős szervek nevét és címét is.
 

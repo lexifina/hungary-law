@@ -1,4 +1,4 @@
-185. § (1) A könyvvizsgálói közfelügyeleti rendszert olyan módon kell finanszírozni, hogy az hatékonyan működjön.
+185. § (1) A könyvvizsgálói közfelügyeleti rendszert olyan módon kell finanszírozni, hogy az hatékonyan működjön. A közfelügyeleti rendszer működtetésében részt vevő szervezetnek az e törvényben meghatározott közfelügyeleti feladatok ellátásához szükséges erőforrásokkal kell rendelkeznie.
 
 (2) A kamarai tag könyvvizsgálóknak, a könyvvizsgáló cégeknek a rendszer finanszírozásában való részvétele nem eredményezheti a könyvvizsgálói közfelügyeleti rendszer objektivitásának, pártatlanságának és függetlenségének csorbulását.
 

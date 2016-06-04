@@ -8,8 +8,12 @@ b) a minőségellenőr, valamint az ellenőrzés alá vont kamarai tag könyvviz
 
 c) a minőségellenőr és az ellenőrzés alá vont kamarai tag egymásnak nem közeli hozzátartozói,
 
-d) a minőségellenőrrel szemben az a)–c) pontokban támasztott követelmények a minőségellenőr közeli hozzátartozója tekintetében is teljesülnek.
+d) legalább három év eltelt annak megszűnésétől számítva, hogy a minőségellenőr az ellenőrzés alá vont kamarai tag könyvvizsgálóval vagy könyvvizsgáló céggel tulajdonosi, munkavállalói vagy munkaviszony jellegű jogviszonyban volt,
+
+e) a minőségellenőrrel szemben az a)–c) pontokban támasztott követelmények a minőségellenőr közeli hozzátartozója tekintetében is teljesülnek.
 
 (3) A bizottság szervezeti és működési szabályzata a minőségellenőrök kijelölésére vonatkozóan további függetlenségi és összeférhetetlenségi szabályokat tartalmazhat.
+
+(3a) A minőségellenőrnek nyilatkozatot kell tenni a függetlenségi és összeférhetetlenségi követelményeknek való megfeleléséről.
 
 (4) A bizottság szervezeti és működési szabályzatában kell meghatározni azokat az adatokat, információkat, iratokat, amelyeket az ellenőrzés lefolytatása érdekében előzetesen a bizottság vagy a minőségellenőr rendelkezésére kell bocsátani.
