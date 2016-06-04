@@ -1,0 +1,5 @@
+12. § A Posta tv. 54. §-a a következő (5) és (6) bekezdéssel egészül ki:
+
+„(5) Az egyetemes postai szolgáltató, a közvetlen vagy közvetett tulajdonában álló gazdasági társaság és a velük szoros kapcsolatban álló vállalkozás a törvény vagy az érintett hozzájárulása alapján kezelt, közösen használt informatikai rendszerben nyilvántartott, valamely természetes személy ügyfél azonosítására szolgáló adatot az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései alapján helyesbíti, ha tudomására jut, hogy az adat nem felel meg a valóságnak. Nem felel meg a valóságnak az adat különösen akkor, ha az adat megváltozásának tényét vagy az adat helytelenségét és a valóságnak megfelelő adatot okirattal vagy személyes nyilatkozattal igazolták.
+
+(6) Az (5) bekezdést a nem természetes személy ügyfélről az egyetemes postai szolgáltató, a közvetlen vagy közvetett tulajdonában álló gazdasági társaság és a velük szoros kapcsolatban álló vállalkozás által kezelt adatokra is alkalmazni kell.”

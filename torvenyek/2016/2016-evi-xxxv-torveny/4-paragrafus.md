@@ -1,0 +1,3 @@
+4. § A Posta tv. a következő 27/A. §-sal egészül ki:
+
+„27/A. § Az egyetemes postai szolgáltató az olyan településeken történő szolgáltatásnyújtás biztosítása érdekében, amelyek bejelentett lakóhely szerinti népességszáma nem haladja meg a tízezret, pénzügyi intézménnyel is köthet olyan szerződést, amely alapján a pénzügyi intézmény az 5. §-ban meghatározott postai szolgáltatást, postai szolgáltatásokhoz kapcsolódó, kiegészítő fiókbérleti szolgáltatást, postai értékcikk forgalmazást, továbbá a kizárólag az egyetemes postai szolgáltató által forgalmazott értékpapírokkal kapcsolatos szolgáltatást, valamint illetékbélyeg-továbbértékesítést végez.”

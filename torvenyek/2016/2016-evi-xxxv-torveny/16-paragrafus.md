@@ -1,0 +1,9 @@
+16. § A 13. § a közösségi postai szolgáltatások belső piacának fejlesztésére és a szolgáltatások minőségének javítására vonatkozó közös szabályokról szóló, 1997. december 15-i 97/67/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+
+Áder János s. k.,
+
+köztársasági elnök
+
+Lezsák Sándor s. k.,
+
+az Országgyűlés alelnöke

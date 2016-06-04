@@ -1,0 +1,3 @@
+9. § A Posta tv. 47. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) Ha a postai szolgáltató általános szerződési feltételeiben nem rendelkezik a (2) bekezdés szerint, vagy ha a feladó az értéknyilvánításban megjelölt összegként a tényleges kereskedelmi értéknél magasabb összeget tüntetett fel, úgy az értéknyilvánításban megjelölt összeg helyett a postai küldemény tartalmának tényleges kereskedelmi értékét, ha az értéknyilvánításban megjelölt összeg alacsonyabb a tényleges kereskedelmi értéknél, úgy az értéknyilvánításban megjelölt összeget kell a kártérítési átalány számítása során alapul venni.”

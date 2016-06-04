@@ -1,0 +1,1 @@
+14. § A Posta tv. 48. § (3) bekezdés nyitó szövegrészében a „Nem terheli a postai szolgáltatót az időgarantált postai küldemény késedelmes kézbesítéséért” szövegrész helyébe a „Nem terheli a postai szolgáltatót kártérítési felelősség az időgarantált postai küldemény késedelmes kézbesítéséért” szöveg lép.
