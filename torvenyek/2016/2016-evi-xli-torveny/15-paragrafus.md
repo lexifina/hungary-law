@@ -1,6 +1,6 @@
 15. § Hatályát veszti a Vgtv.
 
-a) 29. § (7) bekezdése,
+a)
 
 b) 31/A. §-ában az „a környezetvédelmi, természetvédelmi, valamint” szövegrész,
 
