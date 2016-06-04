@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-237-00-00
 | 2016-03-21 | 2015. évi CCXV. törvény | 2013-237-00-00.24 |
 | 2016-05-01 | 2016. évi XXVI. törvény | 2013-237-00-00.25 |
 | 2016-05-31 | 2015. évi CCXV. törvény | 2013-237-00-00.26 |
+| 2016-06-04 | 2016. évi XLIV. törvény | 2013-237-00-00.27 |

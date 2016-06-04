@@ -12,7 +12,7 @@ d) a befolyásoló részesedéssel rendelkező tag a könyvvizsgáló cégben k�
 
 (2) Az (1) bekezdés c)–d) pontjában foglalt korlátozásokat a könyvvizsgáló közeli hozzátartozójára is alkalmazni kell.
 
-(3) A hitelintézet természetes személy könyvvizsgálójának megbízatása legfeljebb öt évig tarthat, és a megbízatás lejártát követő harmadik év után lehet újabb megbízási szerződést kötni ugyanazon könyvvizsgálóval. A könyvvizsgálói társaság által alkalmazott (munkavállaló, vezető tisztségviselő, munkavégzésre kötelezett tag) könyvvizsgáló legfeljebb öt évig láthat el könyvvizsgálói feladatokat ugyanannál a hitelintézetnél, és a megbízatás lejártát követő harmadik év után láthatja el újra – ugyanannál a hitelintézetnél – a feladatát.
+(3)
 
 (4) Az (1) bekezdésben előírtakon túlmenően további követelmény a hitelintézeti természetes személy könyvvizsgálóval szemben, hogy
 
