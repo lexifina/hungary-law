@@ -16,9 +16,11 @@ c) állatitatási, haltenyésztési,
 
 d) természetvédelmi,
 
-e) gazdasági,
+e) öntözési,
 
-f) egyéb (így például sport, rekreációs, üdülési, fürdési, idegenforgalmi célú)
+f) gazdasági,
+
+g) egyéb (így például sport, rekreációs, üdülési, fürdési, idegenforgalmi célú)
 
 vízhasználat.
 

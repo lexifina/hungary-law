@@ -12,4 +12,10 @@
 
 (7) Az intézőbizottság és az ellenőrző bizottság elnökét és tagjait – az alakuló taggyűlés kivételével – a taggyűlés választja meg. Az intézőbizottság elnöke a víziközmű társulat elnöke.
 
+(7a) Nem választható az intézőbizottság, valamint az ellenőrző bizottság tagjává és elnökévé, aki
+
+a) a beruházással érintett önkormányzat alkalmazottja, tisztségviselője, valamint ezeknek a Polgári Törvénykönyv szerinti közeli hozzátartozója,
+
+b) a beruházás kivitelezésében közreműködő vállalkozó vagy vállalkozás vezető tisztségviselője.
+
 (8) Az intézőbizottság és az ellenőrző bizottság ügyrendjét maga állapítja meg.

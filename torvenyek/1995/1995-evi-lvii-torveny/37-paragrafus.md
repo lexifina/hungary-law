@@ -5,3 +5,5 @@
 (3) A víziközmű társulat tartozásaiért saját vagyonával felel. A tagok a víziközmű társulat tartozásaiért nem felelnek.
 
 (4) Ha a víziközmű társulat közfeladatát teljesítette, a vízgazdálkodási társulatokról szóló kormányrendelet szerinti elszámolási eljárásra, ha a közfeladat teljesítése nélkül jogutód nélkül megszűnik, a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti végelszámolásra kerül sor.
+
+(5) Az elszámolási eljárás keretében a víziközmű társulatnak az alapszabályban foglaltak szerint el kell számolnia a működésére fordított összeggel, valamint a tagok vonatkozásában a beszedett érdekeltségi hozzájárulással, figyelembe véve az időközben elnyert önerő támogatást.

@@ -117,3 +117,5 @@ b) belvíztározó: a belvíz összegyűjtésére szolgáló természetes határ
 42. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 
 43. árvízi lefolyási sáv: a nagyvízi meder azon része, amely az árvíz és a jég elvezetésében részt vesz, mely lehet elsődleges, másodlagos és átmeneti lefolyási sáv.
+
+44. ökológiai vízhasználat: a természeti rendszerek fennmaradásához, megóvásához szükséges vízmennyiség igénybevétele.

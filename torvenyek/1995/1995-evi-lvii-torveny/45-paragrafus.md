@@ -94,11 +94,11 @@ j) egyes kiemelt jelentőségű vízilétesítmények rendszeres műszaki megfig
 
 k) a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó részletes szabályoknak;
 
-l) a vízkészletjárulék kiszámításának, a számításnál alkalmazandó szorzószámoknak és a befizetés rendjének;
+l) a vízkészletjárulék kiszámításának, a 15/C. § (1a) bekezdésére alapított kedvezményeknél a mérlegelési szempontoknak, a számításnál alkalmazott szorzószámoknak és a befizetés rendjének;
 
 m) az igazgatási szolgáltatási díj fizetésére kötelezett eljárások, a vízügyi igazgatási szervek díjfizetési mentességével érintett eljárások, igazgatási jellegű szolgáltatások és bejelentések körének, továbbá a fizetendő díj mértékének, valamint a fizetésre vonatkozó egyéb szabályoknak az adópolitikáért felelős miniszterrel egyetértésben;
 
-n) az országos árvízi kockázatkezelési tervnek – a helyi önkormányzatokért felelős, a területfejlesztésért felelős, a területrendezésért felelős, a földügyért felelős, a közlekedésért felelős miniszterrel egyetértésben –;
+n)
 
 o)
 
@@ -113,3 +113,5 @@ rendeletben történő megállapítására.
 (10) A 15. § (7) bekezdése szerinti rendelkezést legkésőbb 2010. december 22-ig kell végrehajtani.
 
 (11) Felhatalmazást kap a Kormány, hogy rendeletben jelölje ki a vízügyi hatóságot vagy hatóságokat, valamint a vízügyi igazgatási szervet vagy szerveket.
+
+(12) Felhatalmazást kap a települési önkormányzat, hogy – amennyiben a beruházás műszaki átadása már megtörtént – a víziközmű beruházással érintett területre kiterjedő hatállyal önkormányzati rendeletben állapítsa meg az utólagos csatlakozás műszaki és pénzügyi feltételeit, valamint az utólagos csatlakozásért fizetendő hozzájárulás mértékét. Az önkormányzati rendeletben fizetési kötelezettség nem írható elő abban az esetben, ha az érintett érdekeltségi egység után társulati érdekeltségi hozzájárulás már megállapításra került, de annak befizetése nem történt meg.

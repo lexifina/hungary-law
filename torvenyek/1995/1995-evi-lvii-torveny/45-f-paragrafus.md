@@ -1,4 +1,4 @@
-45/F. § (1) Ha a vízügyi igazgatási szerv a 45/D. § (2) bekezdés b) pontja szerinti vizsgálat eredményeképpen megállapítja, hogy a belvízelvezetést vagy öntözővíz-továbbítást akadályozó vízfolyás- vagy csatornaszakasz átvétele szükséges, kezdeményezi a vízügyi hatóságnál magának üzemeltetőként, fenntartóként történő kijelölését.
+45/F. § (1) Ha a vízügyi igazgatási szerv a szakmai vizsgálat eredményeképpen megállapítja, hogy a belvízelvezetést vagy öntözővíz-továbbítást akadályozó vízfolyás- vagy csatornaszakasz átvétele szükséges, kezdeményezi a vízügyi hatóságnál magának üzemeltetőként, fenntartóként történő kijelölését.
 
 (2) Ha az üzemeltetési szerződés megkötésére az (1) bekezdés szerinti kijelölési kezdeményezést követően kerül sor, a vízügyi igazgatási szerv a kijelölés iránti kérelmét visszavonja és a vízügyi hatóság az eljárást megszünteti.
 

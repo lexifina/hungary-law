@@ -15,3 +15,11 @@
 (6) Az alapszabály módosításához, a víziközmű társulat megszüntetéséhez, más víziközmű társulattal történő egyesüléséhez, illetve szétválásához a taggyűlés több mint 50%-ának szavazatával meghozott határozatára van szükség.
 
 (7) Ha a taggyűlés nem határozatképes, az első üléstől számított 8 napon belüli időpontra összehívott második ülés az eredeti napirenden szereplő ügyekben a megjelentek számára és az érdekeltségi arányra tekintet nélkül határozatképes.
+
+(8) A víziközmű társulat érdekeltségi egységei számának megváltoztatásához az alapszabály módosítása szükséges.
+
+(9) Ha
+
+a) az érdekeltségi területen belül az érdekeltségi egységek számában következik be változás, a módosításra a (6) bekezdés az irányadó, vagy
+
+b) az érdekeltségi területhez újabb terület kíván csatlakozni, ahhoz a víziközmű társulat meglévő tagjai több mint 50%-ának hozzájárulása, és a csatlakozni kívánó érdekeltségi egységek tagjai 2/3-ának elhatározása a víziközmű társulathoz való csatlakozásra és részükről az alapszabály ennek megfelelő módosítása szükséges, valamint az újonnan csatlakozó érdekeltségi egységek tagjai több mint felének el kell fogadnia a már megválasztott ügyvezetőt és ellenőrző szerveket.
