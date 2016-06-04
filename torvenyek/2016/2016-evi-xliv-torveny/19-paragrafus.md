@@ -1,0 +1,13 @@
+19. § A Kkt. 48. §-a helyébe a következő rendelkezés lép:
+
+„48. § (1) A csoportkönyvvizsgáló felülvizsgálja és értékeli a harmadik országbeli könyvvizsgáló, a harmadik országbeli könyvvizsgáló gazdálkodó által a csoport könyvvizsgálata céljából végzett könyvvizsgálói munkát, és dokumentálja a könyvvizsgálók által elvégzett munka jellegét, időzítését és mértékét, ideértve az könyvvizsgálók könyvvizsgálati dokumentáció vonatkozó részeinek a csoportkönyvvizsgáló általi felülvizsgálatát.
+
+(2) Az (1) bekezdés alkalmazásában a csoportkönyvvizsgáló abban az esetben támaszkodhat harmadik országbeli könyvvizsgáló, a harmadik országbeli könyvvizsgáló gazdálkodó munkájára, ha megszerzi az érintett harmadik országbeli könyvvizsgáló, a harmadik országbeli könyvvizsgáló gazdálkodó hozzájárulását a vonatkozó dokumentációnak az összevont (konszolidált) éves beszámoló könyvvizsgálata során való átadásához.
+
+(3) Amennyiben a csoportkönyvvizsgáló nem képes eleget tenni az (1) bekezdésben foglalt kötelezettségnek, meg kell hoznia a szükséges intézkedéseket és tájékoztatnia kell a közfelügyeleti hatóságot.
+
+(4) A (3) bekezdés szerinti intézkedésnek minősül a jogszabályi kötelezettségen alapuló könyvvizsgálat során további könyvvizsgálati eljárások elvégzése az érintett leányvállalatnál, akár közvetlenül, akár a feladatok kiszervezése útján.
+
+(5) Minőségellenőrzés vagy más vizsgálat esetén, jogszabály eltérő rendelkezésének hiányában, a csoportkönyvvizsgáló felelős a harmadik országbeli könyvvizsgáló, a harmadik országbeli könyvvizsgáló gazdálkodó által végzett könyvvizsgálói munka dokumentációjának – ideértve a csoport könyvvizsgálatára vonatkozó munkaanyagokat is – a közfelügyeleti funkciót gyakorló szervhez – kérelemre – történő eljuttatásáért, ha az összevont (konszolidált) éves beszámolóban szereplő valamely gazdálkodó tekintetében harmadik országbeli könyvvizsgáló, harmadik országbeli könyvvizsgáló gazdálkodó látta el a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet.
+
+(6) Az (5) bekezdésben foglaltak teljesítése érdekében a csoportkönyvvizsgálónak meg kell őriznie a dokumentáció egy példányát, vagy meg kell állapodnia a harmadik országbeli könyvvizsgálóval, a harmadik országbeli könyvvizsgáló gazdálkodóval, hogy azokhoz kérelem esetén megfelelően és korlátozásmentesen hozzáférhessen, vagy bármilyen egyéb megfelelő intézkedést tehessen. Ha jogi vagy egyéb akadályok miatt a dokumentáció a harmadik országból nem kerülhet a csoportkönyvvizsgálóhoz, a csoportkönyvvizsgálónak dokumentálnia kell annak bizonyítékát, hogy megtette a megfelelő lépéseket az (5) bekezdés szerinti dokumentációhoz való hozzáférés érdekében, valamint a felmerülő akadályokat.”
