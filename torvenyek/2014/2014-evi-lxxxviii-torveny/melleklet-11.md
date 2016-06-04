@@ -17,25 +17,3 @@
 ## A 191. § (4) bekezdésében meghatározott tájékoztató esetén alkalmazandó címek az alábbiak:
 
 ## (bg) «Покана за предявяванена вземане. Спазете срока»
-
-## (es) «Convocatoria para la presentación de créditos. Plazos aplicables»
-
-## (cs) «Výzva k přihlášení pohledávky. Závazné lhůty»
-
-## (da) «Opfordring til anmeldelse af fordringer. Vær opmærksom på fristerne»
-
-## (de) «Aufforderung zur Anmeldung einer Forderung. Etwaige Fristen beachten!»
-
-## (et) «Nõude esitamise kutse. Järgitavad tähtajad»
-
-## (el) «Προ’σκληση για αναγγελι’α απαιτη’σεως. Προσοχή’ στις προθεσμι’ες»
-
-## (en) «Invitation to lodge a claim. Time limits to be observed»
-
-## (fr) «Invitation à produire une créance. Délais à respecter»
-
-## (it) «Invito alľinsinuazione di un cedito. Termine da osservare»
-
-## (lv) «Uzaicinājums iesniegt prasïjumu. Termini, kas jāievēro»
-
-## (It) «Kvietimas pateikti reikalavimą. Privalomieji terminai»

@@ -18,6 +18,8 @@
 
 8. a 2003/71/EK és a 2009/138/EK irányelvnek, valamint az 1060/2009/EK, az 1094/2010/EU és az 1095/2010/EU rendeletnek az európai felügyeleti hatóság (Európai Biztosítás- és Foglalkoztatóinyugdíj-hatóság) és az európai felügyeleti hatóság (Európai Értékpapír-piaci Hatóság) hatásköre tekintetében történő módosításáról szóló 2014. április 16-i 2014/51/EU európai parlamenti és tanácsi irányelvnek,
 
-9. a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek
+9. a 2011/16/EU tanácsi irányelvnek az adózás területére vonatkozó kötelező automatikus információcsere tekintetében történő módosításáról szóló 2014. december 9-i 2014/107/EU tanácsi irányelvnek,
+
+10. az éves és összevont (konszolidált) éves beszámolók jog szerinti könyvvizsgálatáról szóló 2006/43/EK irányelv módosításáról szóló, 2014. április 16-i 2014/56/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
