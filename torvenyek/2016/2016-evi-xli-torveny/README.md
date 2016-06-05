@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-41-00-00
 | --- | --- | --- |
 | 2016-06-04 | 2016. évi XLI. törvény | 2016-41-00-00.0 (közlönyállapot) |
 | 2016-06-04 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-41-00-00.1 |
+| 2016-06-05 | 2010. évi CXXX. törvény | 2016-41-00-00.2 |

@@ -2,6 +2,4 @@
 
 a)
 
-b) 31/A. §-ában az „a környezetvédelmi, természetvédelmi, valamint” szövegrész,
-
-c) 45. § (8) bekezdés n) pontja.
+b)–c)
