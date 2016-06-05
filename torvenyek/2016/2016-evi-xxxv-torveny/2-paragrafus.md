@@ -1,3 +1,0 @@
-2. § A Posta tv. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) Az egyetemes postai szolgáltatás keretében a szolgáltatónak biztosítania kell a feladó rendelkezése alapján a (2) bekezdés a) és c) pontjában meghatározott postai küldeményekhez az ajánlott, továbbá a (2) bekezdés a)–c) pontjában meghatározott postai küldeményekhez a tértivevény, illetve értéknyilvánítás-szolgáltatás igénybevételét, valamint a 19. § szerinti Egyetemes Postai Közszolgáltatási Szerződésben meghatározottak szerint az ott meghatározott fajtájú könyvelt küldeményekhez a nyomon követhető kezelést. Az egyetemes postai szolgáltató az Egyetemes Postai Közszolgáltatási Szerződésben közérdekből egyéb többletszolgáltatások nyújtására is kötelezhető.”
