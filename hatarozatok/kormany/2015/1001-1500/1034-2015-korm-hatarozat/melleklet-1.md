@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 2. az Áht. 21. § (6) bekezdése alapján 2459,4 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
+## 2.[^1] az Áht. 21. § (6) bekezdése alapján 2459,4 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -18,7 +18,7 @@
 
 ## Felelős: nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere
 
-## Határidő: 2016. június 30.
+## Határidő: 2016. június 30., a Keleti Partnerséghez kapcsolódó fejlesztési programok támogatása Ukrajnában előirányzat javára átcsoportosított 140,0 millió forint tekintetében 2017. június 30.
 
 ## 3. egyetért azzal, hogy a belügyminiszter a 2. pont szerinti, a Mesepark projekt megvalósítására felhasználható támogatást külön pályázat és kérelem benyújtása nélkül, vissza nem térítendő támogatás formájában, előfinanszírozás keretében és egy összegben nyújtsa Budapest Főváros Önkormányzata (a továbbiakban: Önkormányzat) részére, valamint a támogatás felhasználásának és elszámolásának részletes feltételeiről támogatási megállapodást kössön az Önkormányzattal;
 
@@ -133,3 +133,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1256/2016. (VI. 6.) Korm. határozat 3. pontja szerint módosított szöveg.
