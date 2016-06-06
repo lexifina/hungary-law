@@ -10,7 +10,7 @@
 
 ## Felelős: külgazdasági és külügyminiszter
 
-## Határidő: 2016. június 30.[^1]
+## Határidő: 2017. június 30.[^1]
 
 1. melléklet az 1590/2014. (X. 21.) Korm. határozathoz
 
@@ -74,4 +74,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A határozat az 1298/2015. (V. 13.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^1]: A határozat az 1256/2016. (VI. 6.) Korm. határozat 2. pontja szerint módosított szöveg.
