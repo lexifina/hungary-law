@@ -1,5 +1,11 @@
 ## 3. Az egyetemes postai szolgáltató költségszámítására vonatkozó egyedi szabályok
 
-5. § (1) A költségszámítási rendszernek a tevékenységen alapuló költségszámítási módszer elvén kell működnie.
+5. §[^6] (1) Az egyetemes postai szolgáltatónak az egyéb bevételek és ráfordítások nélküli üzemi (üzleti) tevékenység eredménye szintjéig elszámolt költségeket és ráfordításokat elsődlegesen a Postatv. 58. § (4) bekezdés a) pontja szerinti közvetlen hozzárendeléssel, az ok-okozati elv figyelembevételével kell felosztania.
 
-(2) A költségeket és ráfordításokat azok felmerülésének tevékenység alapú elemzése alapján kell felosztani, és az egyetemes postai szolgáltató tevékenységeit elemezve kell a szolgáltatások érdekében felmerült tevékenységeken keresztül átvezetni a szolgáltatásokra vagy termékcsoportokra.
+(2) Azokat a költségeket, amelyek felosztása az (1) bekezdés szerint nem lehetséges, a teljesen felosztott költségek módszerének érvényesülése érdekében, a tevékenységen alapuló költségszámítás eljárásának alkalmazásával kell kimutatni.
+
+(3) A (2) bekezdés alkalmazása során az egyéb bevételeket és ráfordításokat, valamint az általános költségeket a Postatv. 58. § (4) bekezdés b) pont ba) és bb) alpontjainak megfelelő alkalmazásával kell kimutatni.
+
+(4) A (3) bekezdés szerinti felosztást követően, az egyéb bevételek és ráfordítások egyenlegét, valamint az általános költségeket a Postatv. 58. § (4) bekezdés b) pont bc) alpontjának megfelelő alkalmazásával kell kimutatni.
+
+[^6]: Az 5. § a 16/2016. (VI. 6.) MvM rendelet 3. §-ával megállapított szöveg.
