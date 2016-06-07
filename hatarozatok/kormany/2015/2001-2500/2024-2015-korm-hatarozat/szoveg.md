@@ -2,7 +2,7 @@ A Kormány
 
 1. üdvözli a Magyarországi Autonóm Orthodox Izraelita Hitközség kiemelt fejlesztései, beruházásai és programjai megvalósításának szándékát;
 
-2. egyetért azzal, hogy a Wesselényi Utcai Családi Napközi, Bölcsőde, Óvoda, Általános Iskola, Gimnázium és Szakiskola fenntartására a Magyarországi Autonóm Orthodox Izraelita Hitközség – a Miniszterelnökséget vezető miniszter által nyújtott költségvetési támogatásként – a 2016. évben 68,0 millió Ft támogatásban részesüljön, ennek érdekében felhívja a nemzetgazdasági minisztert a szükséges forrás Miniszterelnökség fejezetben történő biztosítására;
+2.[^1] egyetért azzal, hogy a Wesselényi Utcai Családi Napközi, Bölcsőde, Óvoda, Általános Iskola, Gimnázium és Szakiskola (a továbbiakban: Intézmény) fenntartásán kívüli, azonban az Intézményhez kapcsolódó, valamint egyéb feladataira a Magyarországi Autonóm Orthodox Izraelita Hitközség – a Miniszterelnökséget vezető miniszter által nyújtott költségvetési támogatásként – a 2016. évben 68,0 millió Ft támogatásban részesüljön, ennek érdekében felhívja a nemzetgazdasági minisztert a szükséges forrás Miniszterelnökség fejezetben történő biztosítására;
 
 Felelős: nemzetgazdasági miniszter
 
@@ -41,3 +41,5 @@ Miniszterelnökséget vezető miniszter
 nemzetgazdasági miniszter
 
 Határidő: 2016. március 31.
+
+[^1]: A 2. pont az 1280/2016. (VI. 7.) Korm. határozat szerint módosított szöveg.
