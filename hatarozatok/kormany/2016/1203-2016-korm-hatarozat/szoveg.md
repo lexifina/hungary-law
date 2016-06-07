@@ -24,11 +24,11 @@ j) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. 
 
 2. A Kormány az 1. pontban meghatározottak érdekében
 
-a) felhatalmazza a földművelésügyi minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a földrészletek értékesítésére 2016. június 3. napjáig sor kerülhessen;
+a)[^1] felhatalmazza a földművelésügyi minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy az árverések meghirdetésére 2016. július 31. napjáig sor kerülhessen;
 
 Felelős: földművelésügyi miniszter
 
-Határidő: az árverések lezárására 2016. június 3. napjáig folyamatos
+Határidő: az árverések meghirdetése 2016. július 31. napjáig folyamatos
 
 b) felhívja a földművelésügyi minisztert, hogy tegye meg a szükséges intézkedéseket, hogy a Nemzeti Földalapkezelő Szervezet a fővárosi és megyei kormányhivatalokkal kösse meg, vagy szükség szerint módosítsa az együttműködési megállapodásokat annak érdekében, hogy azok a Nemzeti Földalapkezelő Szervezet közreműködőjeként az árveréseket lebonyolítsák;
 
@@ -46,6 +46,7 @@ Határidő: azonnal
 
 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-4–5.[^1]
+4–5.[^2]
 
-[^1]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont a) alpontja az 1254/2016. (VI. 6.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
