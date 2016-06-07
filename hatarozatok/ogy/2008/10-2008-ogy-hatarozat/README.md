@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-10-30-4
 | 2008-02-28 | 2008-10-30-41.1 | 10/2008. (II. 28.) OGY határozat |
 | 2010-07-22 | 2008-10-30-41.2 | 63/2010. (VII. 27.) OGY határozat |
 | 2014-02-13 | 2008-10-30-41.3 | 7/2014. (II. 18.) OGY határozat |
+| 2016-06-07 | 2008-10-30-41.4 | 10/2016. (VI. 8.) OGY határozat |
