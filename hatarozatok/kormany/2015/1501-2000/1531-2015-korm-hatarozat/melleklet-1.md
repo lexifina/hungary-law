@@ -10,7 +10,7 @@
 
 ## Felelős: nemzetpolitikáért felelő miniszterelnök-helyettes
 
-## Határidő: 2016. június 30., a kolozsvári Bornemissza–Szilvássy Ház felújítása céljából biztosított 942,4 millió forint tekintetében 2017. június 30.
+## Határidő: 2017. június 30.
 
 ## 2. felhívja a nemzetgazdasági minisztert, hogy 2016. évben 130 millió forintot biztosítson a célok megvalósítására;
 
@@ -94,4 +94,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1182/2016. (IV. 11.) Korm. határozat 7. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1182/2016. (IV. 11.) Korm. határozat 7. pontja, az 1281/2016. (VI. 7.) Korm. határozat 1. pontja szerint módosított szöveg.
