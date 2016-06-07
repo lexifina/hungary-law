@@ -10,7 +10,7 @@
 
 ## Felelős: nemzetpolitikáért felelő miniszterelnök-helyettes
 
-## Határidő: 2016. június 30.
+## Határidő: 2016. szeptember 30.[^1]
 
 1. melléklet az 1532/2015. (VII. 31.) Korm. határozathoz
 
@@ -81,3 +81,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határozat az 1281/2016. (VI. 7.) Korm. határozat 2. pontja szerint módosított szöveg.
