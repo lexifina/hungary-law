@@ -1,0 +1,208 @@
+# A Kormány 123/2016. (VI. 7.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 79. szám, 2016. június 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/580da91b709dc4971b78d6b7bfbdc964c98f530d/dokumentumok/908beb99baf981975e714d88f9f8a2307d17a08c/letoltes)
+
+---
+
+A Kormány 123/2016. (VI. 7.) Korm. rendelete
+a perkapu szolgáltatás bevezetéséhez szükséges, valamint egyéb, az elektronikus ügyintézéssel kapcsolatos
+kormányrendeletek módosításáról
+A Kormány a polgári perrendtartásról szóló 1952. évi III. törvény 395. § (3) bekezdés b) pontjában,
+az 1. § (4) bekezdése és a 2. § tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi
+CXL. törvény 175. § (3) bekezdés d) pontjában,
+a 3. § (1) és (4) bekezdése tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi
+CXL. törvény 175. § (1) bekezdés c) pontjában,
+a 3. § (2) és (3) bekezdése tekintetében az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében,
+a 3. alcím tekintetében a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény
+174. § (1) bekezdés b) pontjában, valamint 175. § (3) bekezdés d) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó
+szolgáltatásokról szóló 83/2012. (IV. 21.) Korm. rendelet módosítása
+1. § (1) A szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról
+szóló 83/2012. (IV. 21.) Korm. rendelet (a továbbiakban: Szeüsz. rendelet) 120. § (2) bekezdése a következő f) ponttal
+egészül ki:
+[Az (1) bekezdés szerinti szolgáltatás része]
+„f) a gazdálkodó szervezeteknek és a jogi képviselőknek a 155/B. § (2) bekezdés szerinti eljárások során történő
+kapcsolattartását elősegítő perkapu.”
+
+(2) A Szeüsz. rendelet 136. §-a a következő (4) bekezdéssel egészül ki:
+„(4) Fővárosi és megyei kormányhivatal a saját beadványai elkészítésére, illetve a rajta keresztül továbbítandó
+beadványok fogadására – ha törvény eltérően nem rendelkezik – a kormányhivatal űrlapkezelésre rendszeresített
+műszaki megoldását alkalmazhatja.”
+(3) A Szeüsz. rendelet a következő 43/A. alcímmel egészül ki:
+„43/A. Elektronikus kapcsolattartás polgári peres eljárások során
+155/A. § (1) A polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) szerinti eljárásokban a felek,
+illetve képviselőik (a továbbiakban együtt: fél) számára a 120. § (2) bekezdés a), b) és d) pontja szerinti szolgáltatások
+elérésére az elektronikus kapcsolattartás érdekében a perkapu szolgáltatás is igénybe vehető.
+(2) A perkapu felhasználója a fél. A perkapun keresztül ténylegesen tevékenységet végző személy kizárólag
+ügyfélkapuval már rendelkező (azonosított) természetes személy lehet.
+(3) A perkapu regisztrációja osztott. A szolgáltató kizárólag a perkapu kezelésére az adott félnél felhatalmazott
+természetes személyt (a továbbiakban: perkapu-megbízott) tartja nyilván, az adott fél nevében elektronikus
+kapcsolattartásra jogosult további felhasználók regisztrációját a perkapu-megbízott végzi. Ehhez a szolgáltató
+egységes eszközrendszert (programrendszert) és megfelelően védett tárhelyet biztosít.
+155/B. § (1) A perkapu szolgáltatás igénybe vételéhez a félnek csatlakoznia kell a szolgáltató rendszeréhez.
+(2) A csatlakozó felek a csatlakozást követően lehetőséget kapnak a Pp. elektronikus kapcsolattartásra
+vonatkozó szabályai szerint a bíróságoknak, a Pp. 340/B. § (2) bekezdésében említett közigazgatási szerveknek,
+a Pp. 341/J. § (3) bekezdésében említett jegyzőknek az ÁBT szolgáltatásban rendszeresített formátumú elektronikus
+űrlapok továbbítására, azok beküldésével összefüggő elektronikus tértivevények fogadására, illetve a bíróságoktól
+egyéb elektronikus dokumentumok fogadására.
+155/C. § (1) A perkapu-megbízott a részére biztosított regisztrációs felületen a fél képviseletére feljogosított
+személyek nevét és az ügyfélkapu regisztrációnál megadott elektronikus levelezési címét rögzíti az ügyfélkapujuk
+egyértelmű hozzárendelése érdekében. A regisztráció eredményeként a perkapu-megbízott átadja a felhasználónak
+a perkapuhoz tartozó azonosítót és jelszót, illetve – ha ilyen van – azonosító eszközt.
+(2) A perkapu-megbízott a fél nevében elektronikus kapcsolattartásra jogosult személyek jogosultságára vonatkozó
+korlátozásokat, illetve jogosultságokat is rögzíthet. A jogosultság korlátozható időben, a kommunikáció irányára
+(fogadás vagy küldés) és a kapcsolat alanyára (szervezetre) vagy ezek kombinációjára vonatkozóan.
+(3) A fél nevében történő eljárási jogosultság megszűnésekor a perkapu-megbízott törli a nyilvántartásból
+a korábban feljogosított személy azonosító adatait, illetve a hozzáférési jogosultságait.
+(4) A fél a perkapu-megbízott jogosultságának megszűnéséről 5 munkanapon belül, az új perkapu-megbízott
+bejelentésével egyidejűleg köteles értesíteni a szolgáltatót.
+(5) A szolgáltató a perkapu-megbízottakról történeti nyilvántartást vezet, hogy tanúsítani lehessen, hogy adott
+időszakban ki volt feljogosítva a perkapu kezelésére.
+155/D. § (1) A perkapuhoz csak értesítési tárhely tartozik. A fél köteles gondoskodni arról, hogy az értesítési
+tárhelyre érkezett üzenetek átvételre kerüljenek.
+(2) A perkapuba érkezett üzenetek átvételükkel, de legkésőbb az érkezést követő 30. napon törlésre kerülnek azzal,
+hogy átvétel hiányában az üzenetküldés tényét a perkapuban a kézbesítéstől számított 180. napig a fél lekérdezheti.
+(3) Ha a tárhelyen 3 napnál régebben tárolt és át nem vett üzenet van, a következő munkanap kezdetén, illetve
+– átvétel hiányában – a törlést megelőző munkanapon a szolgáltató üzenetet küld a perkapu-megbízott
+elektronikus levelezési címére.
+155/E. § (1) A perkapu megszűnik, ha
+a) a fél ezt kéri,
+b) a fél nevében elektronikus kapcsolattartásra jogosult személyek egyike sem használja a perkapu szolgáltatásait
+365 napon keresztül és abban át nem vett üzenet nincs.
+(2) A perkapu a kapu megszűnésének bejelentésétől, illetve az (1) bekezdés b) pontja szerinti inaktivitási idő leteltét
+követő naptól nem fogad dokumentumokat.
+(3) A szolgáltató a létező és megszűnt perkapuk megnevezését és státuszát a honlapon közzéteszi.
+155/F. § A perkapu létesítése és fenntartása díjmentes.
+155/G. § (1) A szolgáltató a perkapuval rendelkező fél számára elektronikus szervezeti postafiókot hoz létre.
+(2) A szolgáltató a BEDSZ továbbítási szolgáltatás igénybevételével teszi lehetővé az igénybe vevők számára
+a felhasználói elektronikus űrlap küldését és válaszdokumentum fogadását.
+
+155/H. § A félnek a küldemény átvételére jogosult meghatalmazottjának kell tekinteni azt a dokumentumot vagy
+tértivevényt (küldeményt) fogadó személyt, aki részére a fél vagy a perkapu-megbízott az adott perkapuhoz
+hozzáférést biztosított.
+155/I. § Ha a perkapu szolgáltatást a fél nem böngészőn keresztül, hanem erre szolgáló, automatizált célrendszerrel
+használja, a 155/G. § (1) bekezdés szerinti postafiókhoz hozzáférést biztosító azonosító bizalmas kezelése a fél
+felelősségébe tartozik.
+155/J. § Az ezen alcímben nem szabályozott eljárási kérdésekben – a 148. § (3) bekezdés g) pontja kivételével –
+a 145–150. § rendelkezéseit kell alkalmazni azzal, hogy a hivatali kapu alatt perkaput, a csatlakozott szervezet
+alatt a Pp. szerinti felet kell érteni. A 148. § (1) bekezdésének e) pontjában foglaltakkal ellentétben a perkapu
+vonatkozásában a kulcsgeneráló és titkosító szolgáltatást a szolgáltató nem az általános nyomtatványkitöltő
+program részeként biztosítja.
+155/K. § (1) Ha a Pp. az űrlapbenyújtás támogatási szolgáltatás mellett
+a) közigazgatási szerv azonosítását biztosító szolgáltatást ír elő, a fél hivatali kaput,
+b) a Legfőbb Ügyészség azonosítását biztosító szolgáltatást ír elő, a Legfőbb Ügyészség hivatali kaput,
+c) a gazdálkodó szervezet képviseletét ellátó személy teljes körű azonosítását biztosító szolgáltatást ír elő, a fél
+ügyfélkaput
+használ.
+(2) Ha a Pp. az (1) bekezdés szerinti azonosítási szolgáltatásokat nem jelöli meg, a fél perkaput is használhat.
+(3) Gazdálkodó szervezet a 155/B. § (2) bekezdésében megjelölt eljárásokban a kapcsolattartásra hivatali kaput is
+használhat, ha azzal 2016. június 30-án rendelkezik.
+155/L. § A Pp. 340/B. § (2) bekezdése vonatkozásában űrlapbenyújtás támogatási szolgáltatásnak minősül a fővárosi
+és megyei kormányhivatal űrlapkezelésre rendszeresített műszaki megoldása.
+155/M. § Nem gazdálkodó szervezetként vagy jogi képviselőként eljáró természetes személy, ha az eljárás során
+a bírósággal elektronikusan kívánja a kapcsolatot tartani ügyfélkaput és perkaput egyaránt használhat. Perkapu
+használata esetén a perkapu-megbízott személye azonos a perkapu-felhasználójával.”
+(4) A Szeüsz. rendelet 44. alcíme helyébe a következő alcím lép:
+„44. Azonosításra visszavezetett dokumentumhitelesítés
+156. § (1) Az azonosításra visszavezetett dokumentumhitelesítés szabályozott elektronikus ügyintézési szolgáltatás.
+(2) A szolgáltatás nyújtható
+a) az ügyfél nyilatkozatának hitelesítésére,
+b) a hatóság nevében eljáró személy nyilatkozatának hitelesítésére.
+(3) A szolgáltatás keretében a SZEÜSZ szolgáltató
+a) ügyfél által rendelkezésre bocsátott nyilatkozatot az általa igazolt személyhez rendeli, majd a személyhez
+rendelést hitelesen igazolja;
+b) hivatali programrendszer által rendelkezésre bocsátott nyilatkozatot a programrendszer által igazolt hivatalos
+személyhez rendeli, és a személyhez rendelést hitelesen igazolja.
+(4) A SZEÜSZ szolgáltató a személyhez rendelésről kiállított igazolást elektronikus dokumentumba, vagy az igazolást
+az elektronikus dokumentumhoz kapcsolt záradékba foglalja és azt a rendelkezésre bocsátott nyilatkozattal együtt
+legalább fokozott biztonságú elektronikus aláírással vagy bélyegzővel és időbélyegzővel hitelesíti.
+(5) A személyhez rendelésnél
+a) ügyfél esetében a 156/A. §,
+b) a hatóság nevében eljáró személy esetében a 156/B. §
+rendelkezései alapján kell eljárni.
+156/A. § (1) A SZEÜSZ szolgáltató a nyilatkozattevő személyt legalább az elektronikus ügyintézés részletes
+szabályairól szóló rendeletben meghatározott, névhez kötött azonosítás szabályai szerint azonosítja. A SZEÜSZ
+szolgáltató által kiállított igazolás vagy záradék tartalmazza
+a) a nyilatkozattevő nevét és a rendelkezésére álló további igazolt azonosító adatok közül a nyilatkozattevő
+által megjelölt és a SZEÜSZ szolgáltató által az azonosítási szolgáltatónál vagy az összerendelési nyilvántartás
+igénybevételével lekérdezett adatokat, valamint
+b) a nyilatkozat további azonosító adatait.
+(2) Ha az ügyfél az (1) bekezdés a) pontja alapján valamely azonosító adat feltüntetését igényelte, a hozzájárulása
+megadottnak tekintendő az érintett adatnak az igénybe vett azonosítási szolgáltatónál, illetve az összerendelési
+nyilvántartás igénybevételével történő lekérdezéséhez.
+
+(3) Ha a dokumentumot több személyhez kell rendelni, a SZEÜSZ szolgáltató az egyes személyekhez rendelés során
+az (1) és (2) bekezdés megfelelő alkalmazásával jár el.
+(4) Az (1) bekezdés szerinti igazolást a hatóságok kötelesek elfogadni annak hiteles igazolására, hogy az érintett
+nyilatkozat a nyilatkozattevőtől származik, a SZEÜSZ szolgáltató által elvégzett azonosítás szintjét is figyelembe
+véve.
+156/B. § (1) A SZEÜSZ szolgáltató részére a nyilatkozattevő személyére vonatkozó azonosító adatokat a hitelesítést
+kérő hivatali programrendszer adja át a hivatali programrendszerben alkalmazott hivatali felhasználó azonosítási
+rendszer alapján.
+(2) A SZEÜSZ szolgáltató által kiállított igazolás vagy záradék tartalmazza
+a) a nyilatkozattevő nevét, beosztását, szervezeti egységét, a szervezet megnevezését és a nyilatkozattevő
+szervezeten belüli egyedi azonosítóját,
+b) a nyilatkozat további azonosító adatait.
+(3) Ha a dokumentumot több személyhez kell rendelni, a SZEÜSZ szolgáltató az egyes személyekhez rendelés során
+az (1) és (2) bekezdés megfelelő alkalmazásával jár el.
+(4) A 156. § (2) bekezdés b) pontja szerint hitelesített okirat közokirat.”
+2. §
+A Szeüsz. rendelet
+a) 74. § c) pontjában a „gépi elektronikus aláíráshoz kapcsolódó tanúsítvány kibocsátása” szövegrész helyébe
+az„elektronikus bélyegző tanúsítványának kibocsátása”szöveg,
+b) 115. § (1) bekezdésében az „az elektronikus aláírás közigazgatási használatához kapcsolódó
+követelményekről és az elektronikus kapcsolattartás egyes szabályairól szóló jogszabályban” szövegrész
+helyébe az „az elektronikus ügyintézés céljára felhasználható elektronikus aláíráshoz és bélyegzőhöz
+kapcsolódó követelményekről szóló kormányrendeletben”szöveg,
+c) 116. § (2) bekezdésében az „A szervezeti tanúsítványokkal” szövegrész helyébe az „Az elektronikus
+bélyegzőkkel”szöveg,
+d) 117. § (3) bekezdésében az „az elektronikus aláírás közigazgatási használatához kapcsolódó
+követelményekről szóló jogszabályban” szövegrész helyébe az „az elektronikus ügyintézés céljára
+felhasználható elektronikus aláíráshoz és bélyegzőhöz kapcsolódó követelményekről szóló
+kormányrendeletben”szöveg
+lép.
+2. Az egyes, az elektronikus ügyintézéshez kapcsolódó szervezetek kijelöléséről szóló
+84/2012. (IV. 21.) Korm. rendelet módosítása
+3. § (1) Az egyes, az elektronikus ügyintézéshez kapcsolódó szervezetek kijelöléséről szóló 84/2012. (IV. 21.) Korm. rendelet
+(a továbbiakban: R1.) a következő 5/c. alcímmel egészül ki:
+„5/c. A perkapu szolgáltatás szolgáltatója
+7/D. § A Kormány a perkapu szolgáltatás szolgáltatójaként a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t
+jelöli ki.”
+(2) Az R1. a következő 5/d. alcímmel egészül ki:
+„5/d. Az„eIDAS”csomópont üzemeltetője
+7/E. § A Kormány a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és
+bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 910/2014. európai
+parlamenti és tanácsi rendelet 12. cikkének (8) bekezdése szerinti átjárhatósági keretről szóló 2015. szeptember
+8-i (EU) 2015/1501 bizottsági végrehajtási rendelete 2. cikkének 2. pontja szerinti csomópont-üzemeltetőként
+a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t jelöli ki.”
+(3) Az R1. a következő 10. §-sal egészül ki:
+„10. § E rendelet 5/d. alcíme a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus
+azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló
+910/2014. európai parlamenti és tanácsi rendelet 12. cikkének (8) bekezdése szerinti átjárhatósági keretről szóló
+2015. szeptember 8-i (EU) 2015/1501 bizottsági végrehajtási rendeletének végrehajtását szolgálja.”
+(4) Hatályát veszti az R1. 6. § (4) bekezdése.
+
+3. Az elektronikus ügyintézés részletes szabályairól szóló 85/2012. (IV. 21.) Korm. rendelet módosítása
+4. § (1) Az elektronikus ügyintézés részletes szabályairól szóló 85/2012. (IV. 21.) Korm. rendelet (a továbbiakban: R2.) 38. §-a
+a következő (4) és (5) bekezdéssel egészül ki:
+„(4) A hatóság az (1) bekezdés szerinti hiteles elektronikus irattá alakítás során az elektronikus dokumentumot
+a) legalább fokozott biztonságú elektronikus aláírással vagy bélyegzővel, vagy
+b) a hatóság nevében eljáró személyhez fűzött azonosításra visszavezetett dokumentumhitelesítés szolgáltatással
+hitelesíti.
+(5) A hatósági eljárás során – ideértve a hatósági határozat bírósági felülvizsgálatát – (4) bekezdés szerint hitelesített
+elektronikus irat bizonyító ereje az eredeti irat bizonyító erejével azonos.”
+(2) Az R2. 46. §-a a következő d) ponttal egészül ki:
+(Ha jogszabály a kiadmányozó aláírását, illetve bélyegzőlenyomatát követeli meg, úgy elektronikus formátumban
+történő kiadmányozás esetében ez az alábbiak szerint teljesíthető:)
+„d) a kiadmányozó személyéhez fűzött azonosításra visszavezetett dokumentumhitelesítés szolgáltatással.”
+4. Záró rendelkezések
+5. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) Az 1. és 2. §, a 3. § (1)–(3) bekezdése, valamint a 4. § 2016. július 1-jén lép hatályba.
+6. §
+E rendelet 3. § (2) bekezdése a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus
+azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló
+910/2014. európai parlamenti és tanácsi rendelet 12. cikkének (8) bekezdése szerinti átjárhatósági keretről szóló
+2015. szeptember 8-i (EU) 2015/1501 bizottsági végrehajtási rendeletének végrehajtását szolgálja.
+ Orbán Viktor s. k.,
+ miniszterelnök

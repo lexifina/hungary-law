@@ -1,0 +1,350 @@
+# A Kormány 127/2016. (VI. 7.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 79. szám, 2016. június 7. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/580da91b709dc4971b78d6b7bfbdc964c98f530d/dokumentumok/908beb99baf981975e714d88f9f8a2307d17a08c/letoltes)
+
+---
+
+A Kormány 127/2016. (VI. 7.) Korm. rendelete
+a 2014–2020 programozási időszakra rendelt források felhasználására vonatkozó uniós versenyjogi
+értelemben vett állami támogatási szabályokról szóló 255/2014. (X. 10.) Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 32. pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A 2014–2020 programozási időszakra rendelt források felhasználására vonatkozó uniós versenyjogi értelemben
+vett állami támogatási szabályokról szóló 255/2014. (X. 10.) Korm. rendelet [a továbbiakban: 255/2014. (X. 10.)
+Korm. rendelet] 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A 651/2014/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet,
+az 1408/2013/EU bizottsági rendelet és a 360/2012/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag
+átlátható formában nyújtható.”
+2. §
+A 255/2014. (X. 10.) Korm. rendelet 7. §-a a következő 28. és 29. ponttal egészül ki:
+(Ha a 6. § szerinti célra nyújtott támogatás állami támogatásnak minősül, a 6. §)
+„28. 19. pontja alapján sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás,
+29. 5. és 6. pontja alapján az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben
+végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás”
+(nyújtható.)
+
+3. §
+A 255/2014. (X. 10.) Korm. rendelet 9. §-a a következő 32. ponttal egészül ki:
+(Ha a 8. § szerinti célra nyújtott támogatás állami támogatásnak minősül, a 8. §)
+„32. 5. és 6. pontja alapján az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben
+végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás”
+(nyújtható.)
+4. §
+A 255/2014. (X. 10.) Korm. rendelet 15. §-a a következő 15. ponttal egészül ki:
+(Ha a 14. § szerinti célra nyújtott támogatás állami támogatásnak minősül, a 14. §)
+„15. 8. pontja alapján sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás”
+(nyújtható.)
+5. §
+A 255/2014. (X. 10.) Korm. rendelet 17/A. §-a helyébe a következő rendelkezés lép:
+„17/A. § A 651/2014/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet
+és az 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.”
+6. §
+A 255/2014. (X. 10.) Korm. rendelet 17/B. § 7. pontja a következő g) alponttal egészül ki:
+(A Vidékfejlesztési Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek:
+az erdőterület fejlesztésére és az erdő életképességének javítására irányuló beruházás:)
+„g) az erdészeti technológiákra, valamint erdei termékek feldolgozására és piaci értékesítésére irányuló
+beruházások,”
+7. § (1) A 255/2014. (X. 10.) Korm. rendelet 17/C. § 10. pontja helyébe a következő rendelkezés lép:
+(Ha a 17/B. § szerinti célra nyújtott támogatás állami támogatásnak minősül, a 17/B. §)
+„10. 1., 5., 6. pontja, 7. pont d) és f) alpontja, 11. és 12. pontja alapján csekély összegű támogatás,”
+(nyújtható.)
+(2) A 255/2014. (X. 10.) Korm. rendelet 17/C. §-a a következő 25–27. ponttal egészül ki:
+(Ha a 17/B. § szerinti célra nyújtott támogatás állami támogatásnak minősül, a 17/B. §)
+„25. 1. pontja alapján a vidéki térségekben működő kkv-k számára tudástranszferhez és tájékoztatási
+tevékenységekhez nyújtott támogatás,
+26. 2. pontja alapján a vidéki térségekben működő kkv-k számára tanácsadási szolgáltatásokhoz nyújtott támogatás,
+27. 6. pont b) alpontja alapján közszolgáltatás ellentételezésére nyújtott támogatás”
+(nyújtható.)
+8. § (1) A 255/2014. (X. 10.) Korm. rendelet 19. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A 12–18., 22., 50–54., 68. és 69. alcím szerinti támogatás kis- és középvállalkozás vagy a támogatást kis- és
+középvállalkozásnak továbbadó vállalkozás, a 66. alcím szerinti támogatás a 103/Q. § (2) bekezdés a) pontja szerinti
+esetben kis- és középvállalkozás részére nyújtható.”
+(2) A 255/2014. (X. 10.) Korm. rendelet 19. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A 67. alcím szerinti támogatás elsődleges mezőgazdasági termeléssel foglalkozó kis- és középvállalkozás részére
+nyújtható.”
+9. §
+A 255/2014. (X. 10.) Korm. rendelet 23/A. §-a helyébe a következő rendelkezés lép:
+„23/A. § Az Atr. 18. § (2) bekezdés e) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi
+támogatást, ha
+a) a támogatás összege
+1. erdőtelepítéshez és fásításhoz nyújtott támogatás esetén erdő, illetve fás terület létesítésére irányuló projektenként,
+2. agrárerdészeti rendszerhez nyújtott támogatás esetén projektenként,
+3. az erdei ökoszisztémák ellenálló képessége és környezeti értéke növelését célzó beruházáshoz nyújtott támogatás
+esetén beruházási projektenként,
+4. erdőgazdálkodási technológiára, valamint erdei termék feldolgozására, mobilizálására és értékesítésére irányuló
+beruházáshoz nyújtott támogatás esetén beruházási projektenként,
+5. a mezőgazdasági termék nem mezőgazdasági termékké való feldolgozásával vagy a gyapottermeléssel kapcsolatos
+beruházáshoz nyújtott támogatás esetén beruházási projektenként
+meghaladja a 7,5 millió eurónak megfelelő forintösszeget,
+
+b) a támogatás összege az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott,
+tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás esetén kedvezményezettenként
+és projektenként meghaladja az 500 000 eurónak megfelelő forintösszeget.”
+10. §
+A 255/2014. (X. 10.) Korm. rendelet 50. alcíme helyébe a következő alcím lép:
+„50. A mezőgazdasági csekély összegű támogatás
+103/A. § (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági
+rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában
+a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 15 000 eurónak megfelelő
+forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését és 5. cikkét,
+valamint az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban
+nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet
+(a továbbiakban: 717/2014/EU bizottsági rendelet) 3. cikk (5)–(8) bekezdését és 5. cikkét.
+(2) A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély
+összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
+(3) Az 1408/2013/EU bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglaltak kivételével nem lehet
+kedvezményezett az a vállalkozás, amely az igényelt támogatást az 1408/2013/EU bizottsági rendelet 1. cikk
+(1) bekezdésében meghatározott kivételek szerint használná fel.
+(4) Hitel vagy kezességvállalás formájában nyújtott támogatás esetén – az 1408/2013/EU bizottsági rendelet
+4. cikk (3) bekezdés b) pontja szerinti esetben – nem lehet kedvezményezett az a vállalkozás, amelyet kollektív
+fizetésképtelenségi eljárás alá vontak vagy hitelezői kérelemre kollektív fizetésképtelenségi eljárás alá lenne
+vonható, valamint az a nagyvállalkozás, amely B-hitelminősítésnek megfelelő helyzetnél rosszabb helyzetben van.
+(5) A támogatás az általános csekély összegű támogatással az 1407/2013/EU bizottsági rendelet 3. cikk
+(2) bekezdésében meghatározott felső határig halmozható, feltéve, hogy az elsődleges mezőgazdasági
+termelőtevékenységhez nem ítélhető meg az 1407/2013/EU bizottsági rendelet alapján nyújtott csekély összegű
+támogatás.
+(6) A támogatás a halászati és akvakultúra ágazatban nyújtott csekély összegű támogatással a 717/2014/EU
+bizottsági rendeletben meghatározott felső határig halmozható, feltéve, hogy az elsődleges mezőgazdasági
+termelőtevékenységhez nem ítélhető meg a halászati és akvakultúra ágazatban nyújtott csekély összegű támogatás.
+(7) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási
+célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná
+a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott
+legmagasabb támogatási intenzitást vagy összeget.
+(8) A támogatást nyújtó az 1408/2013/EU bizottsági rendelet 5. cikk (1) bekezdésében meghatározott feltételek
+teljesülését a Mezőgazdasági és Vidékfejlesztési Hivatal által vezetett mezőgazdasági csekély összegű (de minimis)
+támogatások nyilvántartása alapján ellenőrzi.”
+11. §
+A 255/2014. (X. 10.) Korm. rendelet 103/C. § (1) bekezdés d) pontja a következő de) alponttal egészül ki:
+[A tudástranszferhez és tájékoztatási tevékenységhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban:
+támogatás) keretében
+valamely beruházáshoz kapcsolódó bemutató program esetén:]
+„de) a megvalósíthatósági tanulmány költsége – ide értve, ha a megvalósíthatósági tanulmány eredménye alapján
+nem merül fel a da) és a db) alpont szerinti költség,”
+(számolható el.)
+12. §
+A 255/2014. (X. 10.) Korm. rendelet 103/D. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) A támogatás egyéni vagy csoportos formában valósítható meg.”
+13. §
+A 255/2014. (X. 10.) Korm. rendelet 103/N. §-a a következő (9) bekezdéssel egészül ki:
+„(9) Az erdő gazdasági értékének növeléséhez kapcsolódó beruházás indokoltságát az erdő egy vagy több üzem
+tekintetében várható értéknövekedése bemutatásával szükséges alátámasztani.”
+
+14. §
+A 255/2014. (X. 10.) Korm. rendelet 103/O. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Támogatás erdőgazdálkodó és az erdészeti szaporítóanyagokról szóló 110/2003. (X. 21.) FVM rendelet 1. §
+(3) bekezdés c) pontja szerinti szervezet részére nyújtható.”
+15. §
+A 255/2014. (X. 10.) Korm. rendelet IV. Fejezete a következő 67–69. alcímmel egészül ki:
+„67. Az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott,
+tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás
+103/R. § (1) Az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi
+eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás (ezen alcím vonatkozásában
+a továbbiakban: támogatás) esetén a beruházásnak az alábbi célkitűzések egyikéhez kapcsolódnia kell:
+a) a mezőgazdasági üzem összteljesítményének és fenntarthatóságának javítása,
+b) a természeti környezet minőségének, a higiéniai körülményeknek vagy az állatjólét színvonalának javítása, feltéve, hogy
+az érintett beruházás normái szigorúbbak a hatályos uniós előírásoknál,
+c) a mezőgazdaság fejlesztéséhez, átalakításához és korszerűsítéséhez kapcsolódó infrastruktúra kiépítése és fejlesztése,
+d) agrár-környezetvédelmi, illetve az éghajlattal kapcsolatos célkitűzések teljesítése, a biológiai sokféleséggel
+összefüggésben a fajok és az élőhelyek védettségi állapotának megőrzése, illetve valamely Natura 2000 terület vagy
+egyéb, a Vidékfejlesztési Programban meghatározott, jelentős természeti értéket képviselő rendszer közjóléti értékének
+növelése, feltéve, hogy a beruházás nem termelési célra irányul,
+e) a természeti katasztrófák, természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenségek, állatbetegségek
+vagy növénykárosítók által károsított termelési potenciál helyreállítása, vagy
+f) a természeti katasztrófák, természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenségek, állatbetegségek
+vagy növénykárosítók általi károkozás megelőzése.
+(2) A támogatás feltétele, hogy
+a) a beruházást elsődleges mezőgazdasági termeléssel foglalkozó kis- és középvállalkozás valósítsa meg, vagy a beruházás
+olyan tárgyi eszközt, illetve olyan immateriális javat érintsen, amelyet elsődleges mezőgazdasági termeléssel foglalkozó
+kis- és középvállalkozás használ, és
+b) a támogatás odaítéléséről szóló döntés időpontját megelőzően a környezeti hatásvizsgálati és az egységes
+környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet szerinti eljárás lefolytatásra kerüljön.
+(3) A támogatás nem nyújtható az 1308/2013/EU európai parlamenti és tanácsi rendeletben megállapított valamely tiltás
+vagy korlátozás – ide értve a kizárólag az 1308/2013/EU európai parlamenti és tanácsi rendeletben szabályozott uniós
+támogatásra vonatkozó esetet is – megszegésével.
+(4) A támogatás nyújtása nem korlátozódhat meghatározott mezőgazdasági termékekre irányuló beruházásra azzal,
+hogy a belső piacon jelentkező túlkínálat miatt vagy felvevőpiac hiányában egyes mezőgazdasági termékek kizárhatók
+a támogatás alkalmazási köréből.
+103/S. § (1) A bioüzemanyag vagy a megújuló energiaforrásból származó energia mezőgazdasági üzemen belül
+történő előállításához kapcsolódó beruházáshoz támogatás akkor nyújtható, ha
+a) az előállított üzemanyag- vagy energiamennyiség nem lépi túl a mezőgazdasági üzem átlagos évi üzemanyag-
+vagy energiafogyasztását,
+b) bioüzemanyag előállítására irányuló beruházás esetén
+ba) az üzemanyag-termelő létesítmény termelési kapacitása nem haladja meg a mezőgazdasági üzem átlagos éves
+közlekedési célú üzemanyag-fogyasztásának megfelelő szintet, és
+bb) az előállított bioüzemanyag nem értékesíthető a piacon,
+c) a mezőgazdasági üzemben hőenergia és villamos energia megújuló forrásból történő előállítására irányuló
+beruházás esetén
+ca) az energiatermelő létesítmény csak a kedvezményezett saját energiaszükségletének fedezésére szolgál, és
+termelési kapacitása nem haladja meg a mezőgazdasági üzem és az ahhoz kapcsolódó mezőgazdasági háztartás
+átlagos éves kombinált hőenergia- és villamosenergia-fogyasztását,
+cb) az előállított villamos energia hálózatba történő eladásának mértéke nem lépi túl az energiatermelő létesítmény
+átlagos éves fogyasztását, és
+cc) az előállított energia megfelel a 2009/28/EK európai parlamenti és tanácsi irányelv 17. cikk (2)–(6) bekezdésében
+meghatározott fenntarthatósági kritériumoknak.
+(2) Ha a beruházást saját bioüzemanyag- és energiaszükségletük fedezése céljából több kedvezményezett hajtja
+végre, az átlagos éves fogyasztást valamennyi kedvezményezett átlagos éves fogyasztásának összegeként kell
+meghatározni.
+
+(3) Az energiát fogyasztó vagy termelő, valamely megújuló energiához kapcsolódó infrastruktúrára irányuló
+beruházásnak meg kell felelnie a nemzeti energiahatékonysági szabványoknak.
+(4) Az elsődlegesen biomassza-alapú villamosenergia-termelésre irányuló beruházás akkor támogatható, ha
+a nemzeti előírás szerinti arányban hőenergiát is hasznosít.
+103/T. § (1) A támogatási intenzitás nem haladhatja meg
+a) a közép-magyarországi régióban megvalósuló beruházáshoz kapcsolódó elszámolható költségek 40%-át,
+b) az észak-magyarországi, az észak-alföldi, a dél-alföldi, a dél-dunántúli, a közép dunántúli és a nyugat-dunántúli
+régióban megvalósuló beruházásoz kapcsolódó elszámolható költségek 50%-át.
+(2) A támogatási intenzitás 20 százalékponttal növelhető
+a) a fiatal mezőgazdasági termelő vagy olyan mezőgazdasági termelő esetén, aki a támogatási kérelem
+benyújtásának időpontját megelőző öt évben kezdte meg tevékenységét,
+b) a kollektív beruházás, valamint az 1305/2013/EU európai parlamenti és tanácsi rendeletben előírt több
+intézkedésre is kiterjedő integrált projekt esetén,
+c) a természeti és egyéb sajátos hátránnyal rendelkező területeken megvalósuló beruházás esetén,
+d) a „Mezőgazdasági termelékenység és fenntarthatóság” európai innovációs partnerségről szóló bizottsági
+közlemény (COM/2012/079) alapján támogatott műveletek esetén, vagy
+e) a 103/R. § (1) bekezdés b) pontjához kapcsolódó beruházás esetén kizárólag arra a többletköltségre vonatkozóan,
+amely a hatályos uniós előírásokat meghaladó szint eléréséhez szükséges a termelési kapacitás növekedésének
+eredményezése nélkül.
+(3) A támogatási intenzitás mindannyiszor növelhető a (2) bekezdés szerinti értékkel, ahány eset a (2) bekezdés
+a)–e) pontjában meghatározottak közül fennáll. A támogatási intenzitás legfeljebb az elszámolható költségek
+90%-áig növelhető.
+(4) A támogatási intenzitás legfeljebb
+a) a 103/R. § (1) bekezdés d) és e) pontjához kapcsolódó beruházás esetén az elszámolható költségek 100%-áig,
+b) a 103/R. § (1) bekezdés f) pontjához kapcsolódó beruházás esetén
+ba) az elszámolható költségek 80%-áig, vagy
+bb) ha a beruházást több kedvezményezett közösen valósítja meg, az elszámolható költségek 100%-áig
+növelhető.
+103/U. § (1) A támogatás keretében
+1. a 103/C. § (1) bekezdés d) pontja szerinti költség,
+2. a 103/R. § (1) bekezdés d) pontjához kapcsolódó beruházás keretében felmerülő költség,
+3. az öntözéshez kapcsolódó beruházás költsége, ha
+a) a 2000/60/EK európai parlamenti és tanácsi irányelv 13. cikkében meghatározott vízgyűjtő-gazdálkodási terv
+az Európai Bizottsághoz bejelentésre került,
+b) a vonatkozó intézkedési program részletesen ismerteti – a vízgyűjtő-gazdálkodási terv értelmében és a 2000/60/EK
+európai parlamenti és tanácsi irányelv 11. cikkével összhangban hatályba lépő – a mezőgazdasági ágazat szempontjából
+releváns intézkedéseket,
+c) rendelkezésre áll olyan vízfogyasztásmérő rendszer, amely a támogatott beruházás vonatkozásában lehetővé teszi
+a vízfogyasztás mérését, vagy a vízfogyasztásmérő rendszer a beruházás részeként kerül kiépítésre, és
+d) a beruházás eredményeként a vízfelhasználás a korábbi szinthez képest legalább 25%-kal csökken,
+4. a 103/R. § (1) bekezdés e) pontjához kapcsolódó beruházás esetén az a költség, amely a mezőgazdasági termelési
+potenciál károsító események bekövetkezése előtti szintre történő visszaállítása kapcsán merül fel,
+5. a 103/R. § (1) bekezdés f) pontja szerinti intézkedés költsége
+számolható el.
+(2) Nem támogatható az (1) bekezdés 3. pontjában felsorolt feltételeket teljesítő, öntözéssel kapcsolatos olyan
+beruházás, amely olyan felszín alatti vagy felszíni víztestet érint, amely a vonatkozó vízgyűjtő-gazdálkodási tervben
+vízmennyiséggel kapcsolatos ok miatt „jó” minősítésnél rosszabb minősítésű, valamint olyan felszín alatti vagy
+felszíni víztestet érintő beruházás, amely az öntözött területek nettó növekedését eredményezi.
+(3) Az (1) bekezdés 3. pontjában meghatározott feltételeket nem kell alkalmazni
+a) a már meglévő öntözőberendezés energiahatékonyságát érintő,
+b) tározó létrehozására irányuló,
+c) felszín alatti vagy felszíni víztestet nem érintő újrahasznosított víz használatára irányuló
+beruházásra.
+
+(4) Nem nyújtható támogatás
+a) forgótőke finanszírozásához,
+b) termelési jog, támogatási jogosultság, egynyári növény vásárlása, illetve telepítése finanszírozásához,
+c) vízelvezetési munkálat finanszírozásához,
+d) az uniós szabványoknak való megfelelést szolgáló beruházás finanszírozásához a fiatal mezőgazdasági termelők
+számára a gazdálkodói tevékenységük megkezdésétől számított huszonnégy hónapon belül nyújtott támogatás
+kivételével,
+e) állatok vásárlásának finanszírozásához a 103/R. § (1) bekezdés e) és f) pontjához kapcsolódó beruházás
+kivételével.
+68. A vidéki térségekben működő kkv-k számára tanácsadási szolgáltatásokhoz nyújtott támogatás
+103/V. § (1) A vidéki térségekben működő kkv-k számára tanácsadási szolgáltatások igénybevételéhez nyújtott
+támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén
+a) a tanácsadás a Vidékfejlesztési Program keretében
+aa) az Európai Mezőgazdasági Vidékfejlesztési Alapból (a továbbiakban: EMVA) társfinanszírozott támogatásként
+vagy
+ab) az aa) alpont szerinti támogatáshoz biztosított kiegészítő nemzeti finanszírozásként,
+kell nyújtani, és
+b) a támogatásnak meg kell egyeznie a Vidékfejlesztési Programban szereplő vidékfejlesztési intézkedéssel.
+(2) A tanácsadás a kedvezményezett gazdasági és környezeti teljesítményével összefüggő kérdésekre terjedhet ki.
+(3) A támogatás vonatkozásában közvetlen kifizetés a tanácsadási szolgáltató részére teljesíthető.
+(4) A támogatás összege tanácsadásonként nem haladhatja meg az 1500 eurónak megfelelő forintösszeget.
+69. A vidéki térségekben működő kkv-k számára tudástranszferhez és tájékoztatási tevékenységekhez
+nyújtott támogatás
+103/Z. § (1) A vidéki térségekben működő kkv-k számára tudástranszferhez és tájékoztatási tevékenységekhez
+nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén
+a) a támogatást a Vidékfejlesztési Program keretében
+aa) az EMVA-ból társfinanszírozott támogatásként, vagy
+ab) az aa) alpont szerinti támogatáshoz biztosított kiegészítő nemzeti finanszírozásként
+kell nyújtani, és
+b) a támogatásnak meg kell egyeznie a Vidékfejlesztési Programban szereplő vidékfejlesztési intézkedéssel.
+(2) A támogatási intenzitás nem haladhatja meg
+a) középvállalkozások esetén az elszámolható költségek 60%-át,
+b) mikro- és kisvállalkozások esetén az elszámolható költségek 70%-át.
+(3) A támogatás keretében
+a) a tudástranszfer vagy a tájékoztatási tevékenység megszervezésének és lebonyolításának költsége,
+b) a résztvevők utazási és szállásköltsége, napidíja,
+c) a 103/C. § (1) bekezdés d) pontja szerinti költség
+számolható el.
+(4) A támogatás vonatkozásában közvetlen kifizetés a tudástranszfert vagy a tájékoztatási tevékenységet
+megvalósító szolgáltató részére teljesíthető.
+(5) A támogatásnak – objektív módon meghatározott feltételek alapján – az érintett területen működő valamennyi
+támogatható vállalkozás számára hozzáférhetőnek kell lennie.”
+16. §
+A 255/2014. (X. 10.) Korm. rendelet 105. §-a a következő g) ponttal egészül ki:
+(E rendelet)
+„g) 17/C. § 20. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági
+ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU
+bizottsági rendelet (HL L 352., 2013.12.24., 9. o.)”
+(hatálya alá tartozó támogatást tartalmaz.)
+17. §
+A 255/2014. (X. 10.) Korm. rendelet
+
+1. 1. § f) pontjában a „Környezet és Energetikai Hatékonyság” szövegrész helyébe a „Környezeti és
+Energiahatékonysági”szöveg,
+ 2. 5. § 1. pontjában a„10. és 13.”szövegrész helyébe a„10., 13. és 15.”szöveg,
+
+ 3. 5. § 20. pontjában a„10. és 13.”szövegrész helyébe a„10., 13. és 15.”szöveg,
+ 4. 5. § 21. pontjában a„10. és 13.”szövegrész helyébe a„10., 13. és 15.”szöveg,
+ 5. 5. § 22. pontjában a„10. és 13.”szövegrész helyébe a„10., 13. és 15.”szöveg,
+ 6. 7. § 1. pontjában a„19. és 22.”szövegrész helyébe a„19., 22. és 23.”szöveg,
+ 7. 7. § 12. pontjában a„18., 22. és 24.”szövegrész helyébe a„18. és 22–24.”szöveg,
+ 8. 7. § 24. pontjában a„21. és 23.”szövegrész helyébe a„13. és 21–23.”szöveg,
+ 9. 7. § 25. pontjában a„13., 21. és 23.”szövegrész helyébe a„13. és 21–23.”szöveg,
+10. 9. alcímében a„Környezet és Energetikai Hatékonyság” szövegrész helyébe a„Környezeti és Energiahatékonysági”
+szöveg,
+11. 14. §-ában a „Környezet és Energetikai Hatékonyság” szövegrész helyébe a „Környezeti és Energiahatékonysági”
+szöveg,
+12. 17/C. § 11. pontjában a„pont a) alpontja”szövegrész helyébe a„pontja”szöveg,
+13. 17/C. § 13. pontjában a„4. pontja és 6. pont b) alpontja”szövegrész helyébe a„4. és 6. pontja”szöveg,
+14. 17/C. § 17. pontjában a„d)”szövegrész helyébe a„g)”szöveg,
+15. 17/C. § 20. pontjában az „a mezőgazdasági ágazatban a termelői csoport vagy szervezet tevékenysége
+megkezdéséhez nyújtott”szövegrész helyébe a„mezőgazdasági csekély összegű”szöveg,
+16. 17/C. § 24. pontjában a„4.”szövegrész helyébe a„4. és 6.”szöveg,
+17. 19. § (1) bekezdés b) pontjában a„48. és 49.”szövegrész helyébe a„48–50.”szöveg,
+18. 19. § (2) bekezdés a) pontjában a „meghatározott akvakultúra-termékek” szövegrész helyébe a „meghatározott
+halászati és akvakultúra-termékek”szöveg, a„30–66.”szövegrész helyébe a„30–69.”szöveg,
+19. 19. § (2) bekezdés b) pontjában az„55–66.”szövegrész helyébe az„55–65.”szöveg,
+20. 19. § (2) bekezdés g) pontjában a„49–54.”szövegrész helyébe a„49–54. és 67.”szöveg,
+21. 19. § (4) bekezdésében a „63. és” szövegrész helyébe a „63. alcím és a” szöveg, a „támogatás mikro-” szövegrész
+helyébe a„támogatás a 103/Q. § (2) bekezdés b) pontja szerinti esetben mikro-”szöveg,
+22. 20. § (1) bekezdésében a „támogatás csak akkor” szövegrész helyébe a „támogatás – a 16., 17., 26–28., 41. és
+43. alcím szerinti támogatás, valamint az 57. alcím szerinti támogatás a 103/H. § (1) bekezdés d) pontja szerinti
+elszámolható költség tekintetében nyújtandó támogatás kivételével – csak akkor”szöveg,
+23. 24. § e) pontjában az„50–66.”szövegrész helyébe az„50–69.”szöveg,
+24. 75. § (2) bekezdésében a„meg támogatás”szövegrész helyébe a„meg és nem fizethető ki támogatás”szöveg,
+25. 87. § (1) bekezdésében a „beruházást olyan területen valósítják meg” szövegrész helyébe a „beruházás olyan
+területre irányul”szöveg,
+26. 100. § (4) bekezdésében az „esetén nem” szövegrész helyébe az „esetén – az 1407/2013/EU bizottsági rendelet
+4. cikk (3) bekezdés b) pontja szerinti esetben – nem”szöveg,
+27. 103/C. § (1) bekezdés d) pont dc) alpontjában az„a da)”szövegrész helyébe az„a lízing kivételével a da)”szöveg,
+28. 103/N. § (8) bekezdésében a„tanácsi irányelv”szövegrész helyébe a„tanácsi irányelv (a továbbiakban: 2009/28/EK
+európai parlamenti és tanácsi irányelv)”szöveg, a„(2)–(7)”szövegrész helyébe a„(2)–(6)”szöveg,
+29. 103/Q. § (2) bekezdés a) pontjában az „azon” szövegrész helyébe az „azon kis- és középvállalkozásnak minősülő”
+szöveg,
+30. 103/Q. § (2) bekezdés b) pontjában a „mezőgazdasági termelő” szövegrész helyébe a „mikro- és kisvállalkozás”
+szöveg,
+31. 105. § a) pontjában az„1–22. és 26.”szövegrész helyébe az„1–22., 26. és 28.”szöveg, az„1–11.”szövegrész helyébe
+az„1–11. és 15.”szöveg, a„17/B. § 4. és 6.”szövegrész helyébe a„17/C. § 7., 11–14. és 24.”szöveg,
+32. 105. § b) pontjában a„17/B. § 5., 6., 11. és 12.”szövegrész helyébe a„17/C. § 10.”szöveg,
+33. 105. § d) pontjában a„4.”szövegrész helyébe a„4. pontja, valamint 17/C. § 25.”szöveg,
+34. 105. § f) pontjában a „17/B. § 1–3., 5. és 7–10.” szövegrész helyébe a „7. § 29. pontja, 9. § 32. pontja, valamint
+a 17/C. § 1–6., 8–9., 15–23., 26. és 27.”szöveg, a„19–22.”szövegrész helyébe a„14., 20–22.”szöveg, a„42., 44. és 45.”
+szövegrész helyébe a„42. és 44–47.”szöveg
+lép.
+18. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
