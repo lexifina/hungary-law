@@ -1,0 +1,3 @@
+1. A Kormány visszavonja az erdélyi oktatási és kulturális célú programok, beruházások megvalósításának finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1531/2015. (VII. 31.) Korm. határozat 1. pontjában a „2016. június 30., a kolozsvári Bornemissza–Szilvássy Ház felújítása céljából biztosított 942,4 millió forint tekintetében” szövegrészt.
+
+2. A felvidéki kulturális célú beruházások, fejlesztések támogatásának finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1532/2015. (VII. 31.) Korm. határozatban a „2016. június 30.” szövegrész helyébe a „2016. szeptember 30.” szöveg lép.
