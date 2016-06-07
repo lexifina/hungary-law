@@ -60,11 +60,7 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: 2015. szeptember 30.
 
-f) felhívja a nemzeti fejlesztési minisztert, hogy a miniszterelnöki megbízottal együttműködve a közúti közlekedésről szóló törvény felhatalmazása alapján készítse elő a közúti szállítmányozói és a fuvarszervezői tevékenység végzésének feltételeit szabályozó kormányrendeletet;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2015. december 31.
+f)[^1]
 
 5. a magyar fuvarozóknak egyes nyugat-európai országok piacvédelmi intézkedéseivel szembeni hatékonyabb védelme érdekében
 
@@ -174,10 +170,7 @@ nemzetgazdasági miniszter
 
 Határidő: 2016. március 31.
 
-16. felhívja a nemzeti fejlesztési minisztert, hogy az érintett miniszterek bevonásával, illetve a miniszterelnöki megbízottal együttműködve a közúti árufuvarozás környezetterhelésének csökkentése érdekében dolgozza ki a city-logisztika rendszer kialakításának és fejlesztésének koncepcióját.
+16.[^2]
 
-Felelős: nemzeti fejlesztési miniszter
-
-érintett miniszterek
-
-Határidő: 2016. március 31.
+[^1]: A 4. pont f) alpontját az 1269/2016. (VI. 7.) Korm. határozat 3. pontja visszavonta.
+[^2]: A 16. pontot az 1269/2016. (VI. 7.) Korm. határozat 3. pontja visszavonta.
