@@ -52,7 +52,11 @@
 
 7.3. a miniszter által kijelölt államtitkár vagy helyettes államtitkár, ha a miniszter által vezetett minisztériumban irányító hatóság nem működik,
 
-7.4. az igazoló hatóság vezetője.
+7.4. az igazoló hatóság vezetője,
+
+7.5.[^2] a turizmussal kapcsolatos állami feladatok koordinálásáért felelős kormánybiztos,
+
+7.6.[^3] a Magyar Turisztikai Ügynökség vezérigazgatója.
 
 8. Az FKB ülésének állandó meghívottjai
 
@@ -92,6 +96,8 @@
 
 20. Ez a határozat a közzétételét követő napon lép hatályba.
 
-21.[^1]
+21.[^4]
 
-[^1]: A 21. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7. pont 7.5. pontját az 1255/2016. (VI. 6.) Korm. határozat 12. pontja iktatta be.
+[^3]: A 7. pont 7.6. pontját az 1255/2016. (VI. 6.) Korm. határozat 12. pontja iktatta be.
+[^4]: A 21. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
