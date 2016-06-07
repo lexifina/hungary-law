@@ -4,4 +4,6 @@ Héber Verát a Végrehajtás Operatív Program Monitoring Bizottsága elnöki t
 
 Dányi Gábort, az Európai Uniós Fejlesztések Koordinációjáért Felelős Helyettes Államtitkárát a Végrehajtás Operatív Program Monitoring Bizottsága elnökévé – 2016. március 1-jei hatállyal – kinevezem.
 
-2. Hatályát veszti a Végrehajtás Operatív Program Monitoring Bizottsága elnökének felmentéséről és új elnök kinevezéséről szóló 48/2014. (VI. 3.) ME határozat.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

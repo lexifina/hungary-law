@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-59-30-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-06-06 | 2016-59-30-63.1 | 59/2016. (VI. 6.) ME határozat |
+| 2016-06-07 | 2016-59-30-63.2 | 2010: CXXX. törvény |
