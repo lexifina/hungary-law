@@ -6,8 +6,10 @@ dr. Horváth Viktóriát, a Nemzetgazdasági Minisztérium helyettes államtitk�
 
 felmentem, és
 
-dr. Ruszinkó Ádámot a Nemzetgazdasági Minisztérium helyettes államtitkárává
+dr. Ruszinkó Ádámot a Nemzeti Fejlesztési Minisztérium[^1] helyettes államtitkárává
 
 – 2014. szeptember 9-ei hatállyal –
 
 kinevezem.
+
+[^1]: A 66/2016. (VI. 7.) ME határozat alapján módosított szöveg.
