@@ -8,12 +8,11 @@
 
 1.4. a 2015. évi költségvetési maradványok egy részének felhasználásáról szóló 1174/2016. (IV. 11.) Korm. határozat 1. pontjában meghatározottaktól eltérően úgy dönt, hogy a XVIII. Külgazdasági és Külügyminisztérium fejezetnél keletkezett, 2015. évi kötelezettségvállalással nem terhelt költségvetési maradványokból 5 123 501 ezer forint felhasználását engedélyezi.
 
-2. A bosznia-hercegovinai és szerbiai árvíz utáni újjáépítés támogatásának finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1590/2014. (X. 21.) Korm. határozatban a „2016. június 30.” szövegrész helyébe a „2017. június 30.” szöveg lép.
-
-3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1034/2015. (I. 30.) Korm. határozat 2. pontjában a „2016. június 30.” szövegrész helyébe a „2016. június 30., a Keleti Partnerséghez kapcsolódó fejlesztési programok támogatása Ukrajnában előirányzat javára átcsoportosított 140,0 millió forint tekintetében 2017. június 30.” szöveg lép.
+2–3.[^1]
 
 4. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1557/2015. (VIII. 7.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XVIII. Külgazdasági és Külügyminisztérium fejezet, 7. Fejezeti kezelésű előirányzatok cím, 4. Nemzetközi fejlesztési együttműködés és humanitárius segélyezés alcím, 2. Humanitárius segélyezés jogcímcsoport javára a K3. Dologi kiadások kiemelt előirányzatra javára átcsoportosított 15,0 millió forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-5. A Határozatban a „2016. június 30.” szövegrész helyébe a „2017. június 30.” szöveg lép.
+5–6.[^2]
 
-6. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és a 2015. évi költségvetési maradványok egy részének felhasználásáról szóló 1100/2016. (III. 1.) Korm. határozat 1. pontjában a „2017. január 31.” szövegrész helyébe a „2017. január 31., a Demokrácia Központ Közalapítvány – Tom Lantos Intézet támogatása előirányzat javára átcsoportosított 80,0 millió forint tekintetében 2017. június 30.” szöveg lép.
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
