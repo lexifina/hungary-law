@@ -1,1 +1,0 @@
-## 15. § A bányafelügyelet, illetőleg a rendőrség közbiztonságot érintő veszélyhelyzet vagy e rendelet hatálya alá tartozó robbanóanyagok jogosulatlan birtoklása vagy használata esetén köteles intézkedni a jogosulatlan birtoklás és használat megakadályozására.
