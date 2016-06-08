@@ -1,11 +1,17 @@
-## 6. § Az Interreg V–A Szlovákia–Magyarország Együttműködési Program vonatkozásában
+## 6. §[^1] Az Interreg V–A Szlovákia–Magyarország Együttműködési Program vonatkozásában
 
-a) az auditor csoport magyar tagja: az EUTAF,
+a) irányító hatóság: a miniszter,
 
-b) közös titkárság: a Széchenyi Programiroda,
+b) igazoló hatóság: a kincstár,
 
-c) nemzeti hatóság: a miniszter,
+c) audit hatóság: az EUTAF,
 
-d) hitelesítési tevékenységre kijelölt szervezet: a Széchenyi Programiroda és
+d) közös titkárság: a Széchenyi Programiroda,
 
-e) a program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás biztosítója: a miniszter.
+e) nemzeti hatóság: a miniszter,
+
+f) hitelesítési tevékenységre kijelölt szervezet: a Széchenyi Programiroda, és
+
+g) a program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás biztosítója: a miniszter.
+
+[^1]: A 6. § a 128/2016. (VI. 7.) Korm. rendelet 1. §-ával megállapított szöveg.
