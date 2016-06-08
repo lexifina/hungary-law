@@ -6,4 +6,6 @@ Felelős: államháztartásért felelős miniszter
 
 honvédelemért felelős miniszter
 
-2. a honvédelmi kiadások és a hosszú távú tervezés feltételeinek megteremtését szolgáló költségvetési források biztosításáról szóló 1046/2012. (II. 29.) Korm. határozatot visszavonja.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
