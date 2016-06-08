@@ -10,9 +10,9 @@
 
 ## 6. Ez a határozat 2016. január 1-jén lép hatályba.
 
-## 7.[^1]
+## 7.[^2]
 
-1. melléklet az 1987/2015. (XII. 28.) Korm. határozathoz
+1. melléklet az 1987/2015. (XII. 28.) Korm. határozathoz[^3]
 
 A 2016. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
@@ -82,7 +82,7 @@ A 2016. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 31. | SOF integrációs felkészítés | MH ÖHP | Magyarország | I–IV. n. é. | 60 |
 
-| 32. | CIMIC/PSYOPS felkészítési rendezvények | MH ÖHP | NATO/EU tagállam | I–IV. n. é. | 80 |
+| 32. | CIMIC/PSYOPS felkészítési rendezvények | MH ÖHP | NATO/EU tagállam, Magyarország | I–IV. n. é. | 100 |
 
 | 33. | NRF ABV felderítő szakasz szintentartó rendezvényei | MH ÖHP | NATO/EU tagállam | I–IV. n. é. | 50 |
 
@@ -98,7 +98,7 @@ A 2016. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 39. | NCISG/3 NSB (DCM-E) híradó felkészítések (Nemzeti telepíthető híradó század felkészítései) | MH ÖHP | NATO/EU tagállam | I–IV. n. é. | 250 |
 
-| 40. | GRIFFIN STRIKE 2016 Joint Fire Support Training | MH ÖHP | Németország | I–II. n. é. | 10 |
+| 40. | GRIFFIN STRIKE 2016 Joint Fire Support Training | MH ÖHP | Németország | I–IV. n. é. | 10 |
 
 | 41. | Joint Fire Observer felkészítés | MH ÖHP | Németország NATO/EU tagállam | I–IV. n. é. | 10 |
 
@@ -143,6 +143,10 @@ A 2016. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 | 61. | STEADFAST FOUNT | MH LK | Törökország | III. n. é. | 50 |
 
 | 62. | Joint Logistic Multinational Training | MH LK | Németország Magyarország | III–IV. n. é. | 10 |
+
+| 63. | KHAAN QUEST 2016 | MH ÖHP | Mongólia | II. n. é. | 15 |
+
+| 64. | ARGONAUT 2016 | MH ÖHP | Ciprus | II. n. é. | 15 |
 
 2. Az MH és külföldi fegyveres erők részvételével tervezett két- és többoldalú megállapodásokon alapuló gyakorlatok és kiképzések
 
@@ -264,6 +268,12 @@ A 2016. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 58. | Georgia Battalion Mission Rehearsal Exercise (GEO MRE) | MH LZ | Németország | III. n. é. | 300 |
 
+| 59. | Bison Counter 2016 | MH AA | Svédország | III–IV. n. é. | 10 |
+
+| 60. | WARPAINT RIDE 2016 | MH ÖHP | Magyarország | II–III. n. é. | 600 |
+
+| 61. | PANTHER STRIKE 2016 | MH ÖHP | Magyarország | II–III. n. é. | 250 |
+
 3. Magyarország területén és légterén történő áthaladások és átrepülések
 
 | Fsz. | A tevékenység megnevezése | A feladat tervezett időpontja | Engedélyezett létszám |
@@ -302,4 +312,5 @@ A 2016. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
 
 | 17. | Szövetséges felderítő légijárművek áthaladása a magyar légtérben | I–IV. n. é. | – |
 
-[^1]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet az 1274/2016. (VI. 7.) Korm. határozat 1. pontja szerint módosított szöveg.
