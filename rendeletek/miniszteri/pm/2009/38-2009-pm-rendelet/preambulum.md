@@ -1,1 +1,0 @@
-A közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvény 82. § (1) bekezdés m) pontjában kapott felhatalmazás alapján, a pénzügyminiszter feladat- és hatásköréről szóló 169/2006. (VII. 28.) Korm. rendelet 1. § b) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
