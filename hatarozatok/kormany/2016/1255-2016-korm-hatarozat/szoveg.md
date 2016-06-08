@@ -56,10 +56,6 @@ c) a főpolgármester által kijelölt személy.
 
 11. Ez a határozat a közzétételét követő napon lép hatályba.
 
-12. A Fejlesztéspolitikai Koordinációs Bizottságról szóló 1013/2016. (I. 20.) Korm. határozat 7. pontja a következő 7.5. és 7.6. alponttal egészül ki:
+12.[^1]
 
-(Az FKB tagja)
-
-„7.5. a turizmussal kapcsolatos állami feladatok koordinálásáért felelős kormánybiztos,
-
-7.6. a Magyar Turisztikai Ügynökség vezérigazgatója.”
+[^1]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
