@@ -1,3 +1,3 @@
-11. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^183]
+11. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^184]
 
-[^183]: A 11. melléklet a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 11. pontja szerint módosított szöveg.
+[^184]: A 11. melléklet a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 11. pontja szerint módosított szöveg.
