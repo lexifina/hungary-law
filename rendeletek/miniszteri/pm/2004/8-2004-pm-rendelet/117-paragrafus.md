@@ -1,4 +1,4 @@
-117. § (1)[^540] A lefoglalásról készített jegyzőkönyvnek az adózás rendjéről szóló törvény 103. § (7) bekezdésében foglaltakon túl tartalmaznia kell
+117. § (1)[^542] A lefoglalásról készített jegyzőkönyvnek az adózás rendjéről szóló törvény 103. § (7) bekezdésében foglaltakon túl tartalmaznia kell
 
 a) a lefoglalást végző vámhatóság megnevezését;
 
@@ -12,11 +12,11 @@ e) a lefoglalt termékkel kapcsolatos intézkedéseket, a tárolás helyét, mó
 
 f) a lefoglalást elszenvedő panaszjogára való felhívást.
 
-(2)[^541] A lefoglalt termék értékeként a termékre vonatkozóan kötött jogügylet igazolásául szolgáló okiraton (számla, vámokmány, adás-vételi szerződés stb.) feltüntetett érték, ennek hiányában a lefoglalást szenvedő által adott értéknyilatkozat adata vehető figyelembe. Amennyiben a lefoglalást szenvedő nem ad értéknyilatkozatot, vagy az általa adott értéknyilatkozat a piaci árakra tekintettel nem fogadható el, a lefoglalt termék értékét a vámhatóság becsléssel állapítja meg.
+(2)[^543] A lefoglalt termék értékeként a termékre vonatkozóan kötött jogügylet igazolásául szolgáló okiraton (számla, vámokmány, adás-vételi szerződés stb.) feltüntetett érték, ennek hiányában a lefoglalást szenvedő által adott értéknyilatkozat adata vehető figyelembe. Amennyiben a lefoglalást szenvedő nem ad értéknyilatkozatot, vagy az általa adott értéknyilatkozat a piaci árakra tekintettel nem fogadható el, a lefoglalt termék értékét a vámhatóság becsléssel állapítja meg.
 
 (3) A jegyzőkönyvet az eljárásban közreműködők aláírják. A lefoglalást elszenvedő aláírásának hiánya a lefoglalásnak nem akadálya, de az aláírás megtagadását a jegyzőkönyvben fel kell tüntetni.
 
 (4) A jegyzőkönyv egy példányát át kell adni a lefoglalt termék tulajdonosának, illetve ha nem a tulajdonos birtokában van, akkor birtokosának.
 
-[^540]: A 117. § (1) bekezdése a 41/2015. (XII. 30.) NGM rendelet 113. §-ával megállapított szöveg.
-[^541]: A 117. § (2) bekezdése a 41/2015. (XII. 30.) NGM rendelet 113. §-ával megállapított szöveg.
+[^542]: A 117. § (1) bekezdése a 41/2015. (XII. 30.) NGM rendelet 113. §-ával megállapított szöveg.
+[^543]: A 117. § (2) bekezdése a 41/2015. (XII. 30.) NGM rendelet 113. §-ával megállapított szöveg.

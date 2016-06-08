@@ -108,7 +108,7 @@
 
 ## 5.3. zárókészlet összesen:
 
-13. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^628]
+13. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^630]
 
 FELHASZNÁLÓI ENGEDÉLY
 
@@ -116,4 +116,4 @@ A vámhatóság megnevezése:
 
 A felhasználói engedély jövedéki száma:
 
-[^628]: A 13. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (3) bekezdése, a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (3) és (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, a 22/2013. (VI. 27.) NGM rendelet 14. § (3) bekezdése, a 76/2013. (XII. 31.) NGM rendelet 22. § (16) bekezdése, a 41/2015. (XII. 30.) NGM rendelet 127. § (2) bekezdés 13. pontja szerint módosított szöveg.
+[^630]: A 13. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (3) bekezdése, a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (3) és (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, a 22/2013. (VI. 27.) NGM rendelet 14. § (3) bekezdése, a 76/2013. (XII. 31.) NGM rendelet 22. § (16) bekezdése, a 41/2015. (XII. 30.) NGM rendelet 127. § (2) bekezdés 13. pontja szerint módosított szöveg.

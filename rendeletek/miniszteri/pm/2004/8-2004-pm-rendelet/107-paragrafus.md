@@ -1,4 +1,4 @@
-107. §[^459] (1) A megsemmisülési jegyzőkönyvnek tartalmaznia kell
+107. §[^460] (1) A megsemmisülési jegyzőkönyvnek tartalmaznia kell
 
 a) a vizsgálatot végző vámhatóság megnevezését;
 
@@ -22,4 +22,4 @@ a) a megsemmisülés tényét annak felfedése után haladéktalanul nem jelente
 
 b) a vámhatóság vizsgálatáig nem tárta fel a megsemmisülés körülményeit, illetve nem gondoskodott a helyszín biztosításáról, valamint a további megsemmisülés megakadályozásáról.
 
-[^459]: A 107. § a 41/2015. (XII. 30.) NGM rendelet 106. §-ával megállapított szöveg.
+[^460]: A 107. § a 41/2015. (XII. 30.) NGM rendelet 106. §-ával megállapított szöveg.

@@ -70,6 +70,6 @@
 
 |  | (bélyegzője) |
 
-10. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^625]
+10. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^627]
 
-[^625]: A 10. számú melléklet a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, a 76/2013. (XII. 31.) NGM rendelet 22. § (13) bekezdése, a 41/2015. (XII. 30.) NGM rendelet 127. § (2) bekezdés 12. pontja szerint módosított szöveg.
+[^627]: A 10. számú melléklet a 34/2005. (X. 28.) PM rendelet 1. § (2) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (3) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése, a 76/2013. (XII. 31.) NGM rendelet 22. § (13) bekezdése, a 41/2015. (XII. 30.) NGM rendelet 127. § (2) bekezdés 12. pontja szerint módosított szöveg.

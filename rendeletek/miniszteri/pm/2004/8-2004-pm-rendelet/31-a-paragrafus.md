@@ -1,6 +1,6 @@
-## Egyéb bejelentési, nyilvántartás-vezetési kötelezettség[^175]
+## Egyéb bejelentési, nyilvántartás-vezetési kötelezettség[^176]
 
-31/A. §[^176] (1) A Jöt. 62/A. § (1) bekezdése szerinti, más tagállamból más tagállamba vagy harmadik országba irányuló, belföldön áthaladó ömlesztett ásványolaj szállításának bejelentését a 29. számú melléklet szerinti adattartalmú, a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumban kell a vámhatósághoz írásban benyújtani.
+31/A. §[^177] (1) A Jöt. 62/A. § (1) bekezdése szerinti, más tagállamból más tagállamba vagy harmadik országba irányuló, belföldön áthaladó ömlesztett ásványolaj szállításának bejelentését a 29. számú melléklet szerinti adattartalmú, a vámhatóság internetes honlapjáról letöltött és kinyomtatott formátumban kell a vámhatósághoz írásban benyújtani.
 
 (2) Az (1) bekezdés szerinti esetben a bejelentés – a vámhatóság által rendszeresített formanyomtatványon – a bejelentő választása szerint angol, német és francia nyelven is megtehető.
 
@@ -28,5 +28,5 @@ e) a tevékenység befejezésének tervezett időpontját.
 
 (6) Az (5) bekezdés szerinti bejelentésben megadott adatok változását és a rekultivációs tevékenység befejezését legkésőbb a változás, illetve a befejezés napján be kell jelenteni a vámhatósághoz.
 
-[^175]: A 31/A. §-t megelőző alcímet az 54/2011. (XII. 29.) NGM rendelet 21. §-a iktatta be, szövege az 52/2012. (XII. 29.) NGM rendelet 20. §-ával megállapított szöveg.
-[^176]: A 31/A. §-t az 54/2011. (XII. 29.) NGM rendelet 21. §-a iktatta be, szövege a 41/2015. (XII. 30.) NGM rendelet 42. §-ával megállapított szöveg.
+[^176]: A 31/A. §-t megelőző alcímet az 54/2011. (XII. 29.) NGM rendelet 21. §-a iktatta be, szövege az 52/2012. (XII. 29.) NGM rendelet 20. §-ával megállapított szöveg.
+[^177]: A 31/A. §-t az 54/2011. (XII. 29.) NGM rendelet 21. §-a iktatta be, szövege a 41/2015. (XII. 30.) NGM rendelet 42. §-ával megállapított szöveg.

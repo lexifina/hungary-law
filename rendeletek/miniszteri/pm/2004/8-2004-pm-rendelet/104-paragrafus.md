@@ -2,7 +2,7 @@
 
 104. § (1) Az adóraktár engedélyese a Jöt. 13. § (3) bekezdés e) pontja, az adómentes felhasználó a Jöt. 13. § (5) bekezdés d) pontja alapján az adómegállapítási és adófizetési kötelezettség alól csak akkor mentesülhet véglegesen, ha a jövedéki termék megsemmisítését a (2) és (3) bekezdésben meghatározott módon végzi.
 
-(2)[^451] Az adómegállapítási és adófizetési kötelezettség alóli mentesülés szempontjából a jövedéki termékek megsemmisítése
+(2)[^452] Az adómegállapítási és adófizetési kötelezettség alóli mentesülés szempontjából a jövedéki termékek megsemmisítése
 
 a) a dohánygyártmány esetében elégetéssel, szétbontással és idegen vagy szennyező anyaggal való összekeveréssel, illetve szennyező folyadékkal való leöntéssel, eláztatással, továbbá darálással, tüzelési célra történő brikettálással, komposztálással,
 
@@ -18,16 +18,16 @@ f) az ásványolaj esetében a vonatkozó környezetvédelmi előírások betart
 
 ## történhet.
 
-(3)[^452] A megsemmisítést a vámhatóság ellenőrzése mellett oly módon kell elvégezni, hogy a megsemmisítést követően jövedéki terméket ne lehessen visszanyerni.
+(3)[^453] A megsemmisítést a vámhatóság ellenőrzése mellett oly módon kell elvégezni, hogy a megsemmisítést követően jövedéki terméket ne lehessen visszanyerni.
 
-(4)[^453]
+(4)[^454]
 
-(5)[^454] Jövedéki termék megsemmisítési céllal adóraktárból, adómentes felhasználótól szennyvíztisztító, hulladékhasznosító telepre, égetőműbe olyan szállítólevéllel szállítható, amely tartalmazza a jövedéki termék megnevezését, KN-kódját, mennyiségét az adó alapjaként meghatározott mennyiségi egységben, valamint a vámhatóság által alkalmazott azonosító jelek számát és megnevezését.
+(5)[^455] Jövedéki termék megsemmisítési céllal adóraktárból, adómentes felhasználótól szennyvíztisztító, hulladékhasznosító telepre, égetőműbe olyan szállítólevéllel szállítható, amely tartalmazza a jövedéki termék megnevezését, KN-kódját, mennyiségét az adó alapjaként meghatározott mennyiségi egységben, valamint a vámhatóság által alkalmazott azonosító jelek számát és megnevezését.
 
-(6)[^455] A jövedéki termék nem adóraktárban történő megsemmisítése esetén a vámhatóság a szállítólevélen igazolja a betárolás és a megsemmisítés megtörténtét.
+(6)[^456] A jövedéki termék nem adóraktárban történő megsemmisítése esetén a vámhatóság a szállítólevélen igazolja a betárolás és a megsemmisítés megtörténtét.
 
-[^451]: A 104. § (2) bekezdése a 41/2015. (XII. 30.) NGM rendelet 103. § (1) bekezdésével megállapított szöveg.
-[^452]: A 104. § (3) bekezdése a 41/2015. (XII. 30.) NGM rendelet 103. § (1) bekezdésével megállapított szöveg.
-[^453]: A 104. § (4) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte.
-[^454]: A 104. § (5) bekezdése a 41/2015. (XII. 30.) NGM rendelet 103. § (2) bekezdésével megállapított szöveg.
-[^455]: A 104. § (6) bekezdése a 41/2015. (XII. 30.) NGM rendelet 103. § (2) bekezdésével megállapított szöveg.
+[^452]: A 104. § (2) bekezdése a 41/2015. (XII. 30.) NGM rendelet 103. § (1) bekezdésével megállapított szöveg.
+[^453]: A 104. § (3) bekezdése a 41/2015. (XII. 30.) NGM rendelet 103. § (1) bekezdésével megállapított szöveg.
+[^454]: A 104. § (4) bekezdését a 45/2005. (XII. 26.) PM rendelet – a Magyar Közlöny 2005. évi 171. számában megjelent helyesbítésnek megfelelő – 25. § (2) bekezdése hatályon kívül helyezte.
+[^455]: A 104. § (5) bekezdése a 41/2015. (XII. 30.) NGM rendelet 103. § (2) bekezdésével megállapított szöveg.
+[^456]: A 104. § (6) bekezdése a 41/2015. (XII. 30.) NGM rendelet 103. § (2) bekezdésével megállapított szöveg.

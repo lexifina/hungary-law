@@ -1,6 +1,6 @@
 ## Részleges denaturálás
 
-61. § (1)[^302] A Jöt. 68. §-ában előírt részleges denaturáláshoz – a (3) bekezdésben foglalt eltéréssel – az alkoholtermék tiszta etil-alkohol-tartalmára vonatkoztatva legalább
+61. § (1)[^303] A Jöt. 68. §-ában előírt részleges denaturáláshoz – a (3) bekezdésben foglalt eltéréssel – az alkoholtermék tiszta etil-alkohol-tartalmára vonatkoztatva legalább
 
 a) 0,001 tömegszázalék denatónium benzoátot (a továbbiakban: I. típusú részleges denaturálószer),
 
@@ -24,11 +24,11 @@ c) a III. típusú részleges denaturálószer alkalmazása esetén 0,5 liter me
 
 ## kell hozzákeverni.
 
-(3)[^303] Az alkoholtermék részleges denaturálása az (1)–(2) bekezdésben foglaltakon kívül a 89. § (1) bekezdése szerinti esetben a vámhatóság által engedélyezett, az adómentes felhasználó keretengedélyében rögzített más eljárással is lehetséges, amennyiben annak eredményeként a denaturált alkoholtermék élvezeti cikként való felhasználásra alkalmatlanná válik.
+(3)[^304] Az alkoholtermék részleges denaturálása az (1)–(2) bekezdésben foglaltakon kívül a 89. § (1) bekezdése szerinti esetben a vámhatóság által engedélyezett, az adómentes felhasználó keretengedélyében rögzített más eljárással is lehetséges, amennyiben annak eredményeként a denaturált alkoholtermék élvezeti cikként való felhasználásra alkalmatlanná válik.
 
-(4)[^304] A részleges denaturálás – a (7) bekezdésben foglalt eltéréssel – csak szeszüzemben és – a megbízható adós által üzemeltetett üzem kivételével – csak a vámhatóság ellenőrzése mellett végezhető. A részleges denaturálás időpontját a szeszüzem a vámhatósághoz legalább 2 nappal korábban köteles bejelenteni.
+(4)[^305] A részleges denaturálás – a (7) bekezdésben foglalt eltéréssel – csak szeszüzemben és – a megbízható adós által üzemeltetett üzem kivételével – csak a vámhatóság ellenőrzése mellett végezhető. A részleges denaturálás időpontját a szeszüzem a vámhatósághoz legalább 2 nappal korábban köteles bejelenteni.
 
-(5)[^305] A részleges denaturálásról két példányban jegyzőkönyvet kell készíteni, amelynek első példánya a szeszüzem, második példánya a vámhatóság példánya. A jegyzőkönyvnek tartalmazni kell
+(5)[^306] A részleges denaturálásról két példányban jegyzőkönyvet kell készíteni, amelynek első példánya a szeszüzem, második példánya a vámhatóság példánya. A jegyzőkönyvnek tartalmazni kell
 
 a) a szeszüzem jövedéki számát;
 
@@ -44,17 +44,17 @@ e) a részlegesen denaturált alkoholtermék liter, kilogramm és hektoliterfok 
 
 (7) A IV. és V. típusú részleges denaturálószerrel az alkoholtermék denaturálása az etil-acetát és az acetoklór termék előállítását végző keretengedéllyel rendelkező adómentes felhasználó telephelyén is elvégezhető, a (4)–(5) bekezdés rendelkezéseinek értelemszerű alkalmazása mellett.
 
-(8)[^306] Az I., II., III. típusú részleges denaturálószert a szeszüzem szerzi be. A IV. és V. típusú részleges denaturálószert, amennyiben annak bekeverése a szeszüzemben történik, az adómentes felhasználó bocsátja a szeszüzem rendelkezésére. A (3) bekezdés szerinti esetben engedélyezett egyéb denaturálószert az adómentes felhasználó szerzi be és bocsátja a szeszüzem rendelkezésére.
+(8)[^307] Az I., II., III. típusú részleges denaturálószert a szeszüzem szerzi be. A IV. és V. típusú részleges denaturálószert, amennyiben annak bekeverése a szeszüzemben történik, az adómentes felhasználó bocsátja a szeszüzem rendelkezésére. A (3) bekezdés szerinti esetben engedélyezett egyéb denaturálószert az adómentes felhasználó szerzi be és bocsátja a szeszüzem rendelkezésére.
 
 (9) A részlegesen denaturált alkoholtermék alkoholtartalmának el kell érni a 92 térfogatszázalékot.
 
-(10)[^307] A szeszüzem a részlegesen denaturált alkoholtermékről olyan bizonylatot állít ki az adómentes felhasználónak, amely tartalmazza a részlegesen denaturált alkoholtermék mennyiségét hektoliterfokban, literben és kilogrammban, a felhasznált denaturálószer megnevezését és 100 hektoliterfok alkoholtermékhez hozzákevert mennyiségét grammban vagy literben. A bizonylatot két példányban kell kiállítani, és annak egy példányát az adómentes felhasználó részére átadni.
+(10)[^308] A szeszüzem a részlegesen denaturált alkoholtermékről olyan bizonylatot állít ki az adómentes felhasználónak, amely tartalmazza a részlegesen denaturált alkoholtermék mennyiségét hektoliterfokban, literben és kilogrammban, a felhasznált denaturálószer megnevezését és 100 hektoliterfok alkoholtermékhez hozzákevert mennyiségét grammban vagy literben. A bizonylatot két példányban kell kiállítani, és annak egy példányát az adómentes felhasználó részére átadni.
 
 (11) A részlegesen denaturált alkoholt az egyéb alkoholterméktől elkülönítve kell a szeszüzemben tárolni. A nem ugyanazon denaturálószerrel denaturált alkoholterméket összekeverni tilos.
 
-[^302]: A 61. § (1) bekezdés nyitó szövegrésze a 46/2004. (XII. 29.) PM rendelet 12. §-ával megállapított, a 45/2014. (XII. 30.) NGM rendelet 14. § 8. pontja szerint módosított szöveg.
-[^303]: A 61. § (3) bekezdése a 41/2015. (XII. 30.) NGM rendelet 68. §-ával megállapított szöveg.
-[^304]: A 61. § (4) bekezdése a 41/2015. (XII. 30.) NGM rendelet 68. §-ával megállapított szöveg.
-[^305]: A 61. § (5) bekezdése a 41/2015. (XII. 30.) NGM rendelet 68. §-ával megállapított szöveg.
-[^306]: A 61. § (8) bekezdése a 22/2013. (VI. 27.) NGM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^307]: A 61. § (10) bekezdése a 22/2013. (VI. 27.) NGM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^303]: A 61. § (1) bekezdés nyitó szövegrésze a 46/2004. (XII. 29.) PM rendelet 12. §-ával megállapított, a 45/2014. (XII. 30.) NGM rendelet 14. § 8. pontja szerint módosított szöveg.
+[^304]: A 61. § (3) bekezdése a 41/2015. (XII. 30.) NGM rendelet 68. §-ával megállapított szöveg.
+[^305]: A 61. § (4) bekezdése a 41/2015. (XII. 30.) NGM rendelet 68. §-ával megállapított szöveg.
+[^306]: A 61. § (5) bekezdése a 41/2015. (XII. 30.) NGM rendelet 68. §-ával megállapított szöveg.
+[^307]: A 61. § (8) bekezdése a 22/2013. (VI. 27.) NGM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^308]: A 61. § (10) bekezdése a 22/2013. (VI. 27.) NGM rendelet 4. § (2) bekezdésével megállapított szöveg.

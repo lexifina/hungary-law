@@ -8,11 +8,11 @@ b) az adóraktár vagy adómentes üzem műszaki berendezéseinek és felszerel�
 
 c) együttműködik az ellenőrzéssel megbízottakkal és részükre a szükséges felvilágosítást megadja.
 
-(2)[^420] A hatósági felügyelet folyamatos jelenléttel és vizsgálattal való ellátása esetén az adóraktár engedélyese, az adómentes felhasználó gondoskodik az ellenőrzéssel megbízottak részére az adóraktár, az adómentes üzem területén megfelelő irodahelyiség és pihenőszoba rendelkezésre bocsátásáról és azok fűtéséről, világításáról, takarításáról, valamint a vámhatóság által telepített technikai eszközök biztonságos tárolásáról, az azok üzemeltetéséhez szükséges feltételekről.
+(2)[^421] A hatósági felügyelet folyamatos jelenléttel és vizsgálattal való ellátása esetén az adóraktár engedélyese, az adómentes felhasználó gondoskodik az ellenőrzéssel megbízottak részére az adóraktár, az adómentes üzem területén megfelelő irodahelyiség és pihenőszoba rendelkezésre bocsátásáról és azok fűtéséről, világításáról, takarításáról, valamint a vámhatóság által telepített technikai eszközök biztonságos tárolásáról, az azok üzemeltetéséhez szükséges feltételekről.
 
 (3) Az (1), (2) bekezdésben meghatározott feltételeket az adóraktár engedélyesének, adómentes felhasználónak ellenszolgáltatás nélkül, saját költségére és veszélyére kell az ellenőrzéssel megbízottak rendelkezésére bocsátania.
 
-(4)[^421] A vámhatóság az adóraktár helyi körülményeinek figyelembevételével az adó megfizetésének biztosítása érdekében a hatósági felügyelet folyamatos jelenléttel és vizsgálattal való gyakorlásához az (1) bekezdés szerinti részletes előírásokat határozhat meg, melyeket az engedélyben – annak kiadása vagy módosítása során – kell rögzíteni.
+(4)[^422] A vámhatóság az adóraktár helyi körülményeinek figyelembevételével az adó megfizetésének biztosítása érdekében a hatósági felügyelet folyamatos jelenléttel és vizsgálattal való gyakorlásához az (1) bekezdés szerinti részletes előírásokat határozhat meg, melyeket az engedélyben – annak kiadása vagy módosítása során – kell rögzíteni.
 
-[^420]: A 90. § (2) bekezdése a 44/2009. (XII. 29.) PM rendelet 30. §-ával megállapított szöveg.
-[^421]: A 90. § (4) bekezdése a 41/2015. (XII. 30.) NGM rendelet 91. §-ával megállapított szöveg.
+[^421]: A 90. § (2) bekezdése a 44/2009. (XII. 29.) PM rendelet 30. §-ával megállapított szöveg.
+[^422]: A 90. § (4) bekezdése a 41/2015. (XII. 30.) NGM rendelet 91. §-ával megállapított szöveg.

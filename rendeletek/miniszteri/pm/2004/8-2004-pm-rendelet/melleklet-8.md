@@ -110,6 +110,6 @@
 
 |  |  | a kérelmező aláírása (bélyegzője) |
 
-8. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^623]
+8. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^625]
 
-[^623]: A 8. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a, az 54/2011. (XII. 29.) NGM rendelet 28. § (5) bekezdése, a 76/2013. (XII. 31.) NGM rendelet 22. § (10) bekezdése, a 41/2015. (XII. 30.) NGM rendelet 127. § (2) bekezdés 10. pontja szerint módosított szöveg.
+[^625]: A 8. számú melléklet a 46/2004. (XII. 29.) PM rendelet 27. §-ának (2)–(3) bekezdése, a 40/2007. (XII. 29.) PM rendelet 40. § (6) bekezdése, a 17/2009. (IX. 29.) PM rendelet 19. § (2) bekezdése, a 17/2011. (IV. 19.) NGM rendelet 56. § (3) bekezdése és 57. §-a, az 54/2011. (XII. 29.) NGM rendelet 28. § (5) bekezdése, a 76/2013. (XII. 31.) NGM rendelet 22. § (10) bekezdése, a 41/2015. (XII. 30.) NGM rendelet 127. § (2) bekezdés 10. pontja szerint módosított szöveg.

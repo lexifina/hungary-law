@@ -16,6 +16,6 @@ g) a kiszállító raktárhelyiség vezetőjének (megbízottjának) és a gépj
 
 (2) A terítőjárati szállítólevél szigorú számadású, két példányban kiállítandó bizonylat, amelynek eredeti példánya a szállítmányt kíséri, a másik példánya a kiszállító raktár jövedéki nyilvántartásának bizonylata.
 
-(3)[^567] A terítőjárati szállítólevél a 126. § (1) bekezdés a) és c) pontja szerinti terméket értékesítő terítőjárat esetén 7 napig, illetve a 126. § (1) bekezdés b) pontja szerinti esetben a kiszállítás kelte napjának 24 órájáig érvényes.
+(3)[^569] A terítőjárati szállítólevél a 126. § (1) bekezdés a) és c) pontja szerinti terméket értékesítő terítőjárat esetén 7 napig, illetve a 126. § (1) bekezdés b) pontja szerinti esetben a kiszállítás kelte napjának 24 órájáig érvényes.
 
-[^567]: A 128. § (3) bekezdése a 45/2014. (XII. 30.) NGM rendelet 14. § 15. pontja szerint módosított szöveg.
+[^569]: A 128. § (3) bekezdése a 45/2014. (XII. 30.) NGM rendelet 14. § 15. pontja szerint módosított szöveg.

@@ -26,6 +26,6 @@
 
 ## 6. Zárókészlet (a tárgyhó utolsó napján):
 
-12. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^627]
+12. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^629]
 
-[^627]: A 12. számú melléklet a 76/2013. (XII. 31.) NGM rendelet 22. § (15) bekezdésével megállapított szöveg.
+[^629]: A 12. számú melléklet a 76/2013. (XII. 31.) NGM rendelet 22. § (15) bekezdésével megállapított szöveg.

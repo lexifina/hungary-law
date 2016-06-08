@@ -1,4 +1,4 @@
-## 53. §[^250] A palackozott szesz és szeszes ital litermennyiségét a kiszerelések űrtartalma és darabszáma szorzataként, valódi szeszfokát a kiszerelések feltüntetett szeszfok alapján kell megállapítani.
+## 53. §[^251] A palackozott szesz és szeszes ital litermennyiségét a kiszerelések űrtartalma és darabszáma szorzataként, valódi szeszfokát a kiszerelések feltüntetett szeszfok alapján kell megállapítani.
 
 54. § (1) A gyártott szesz és szeszes ital hektoliterfok mennyiségét szakértői vizsgálat alapján kell megállapítani, ha
 
@@ -14,13 +14,13 @@ e) a készletben lévő szesz és szeszes ital valódi szeszfoka, minősége, fa
 
 f) gyanú merül fel arra, hogy az előállított szeszbe cukrot vagy ízesítő anyagot (aromát) kevertek.
 
-(2)[^251] Ha a próbaszesz mennyisége a szakértői vizsgálathoz sem elég, a gyártott szesz hektoliterfok mennyiségét a bérfőzési napló adatai alapján kell megállapítani.
+(2)[^252] Ha a próbaszesz mennyisége a szakértői vizsgálathoz sem elég, a gyártott szesz hektoliterfok mennyiségét a bérfőzési napló adatai alapján kell megállapítani.
 
-(3)[^252] Az (1) bekezdés a)–c) pontjában meghatározott esetekben a szakértői vizsgálat céljára a hivatalos mintát a vámhatóság az ellenőrzött adóraktár felelős üzem vezetőjének jelenlétében, a mintavételi szabályzat előírásai szerint veszi, de azt az adóraktár engedélyesének kell a kijelölt szakértőhöz eljuttatnia. A kijelölt szakértő alatt az illetékes miniszter által kijelölt laboratóriumot, és a hivatalos közlönyben közzétett, valamint a Nemzeti Akkreditálási Testület által megbízott laboratóriumokat kell érteni.
+(3)[^253] Az (1) bekezdés a)–c) pontjában meghatározott esetekben a szakértői vizsgálat céljára a hivatalos mintát a vámhatóság az ellenőrzött adóraktár felelős üzem vezetőjének jelenlétében, a mintavételi szabályzat előírásai szerint veszi, de azt az adóraktár engedélyesének kell a kijelölt szakértőhöz eljuttatnia. A kijelölt szakértő alatt az illetékes miniszter által kijelölt laboratóriumot, és a hivatalos közlönyben közzétett, valamint a Nemzeti Akkreditálási Testület által megbízott laboratóriumokat kell érteni.
 
-(4)[^253] Abban az esetben, ha hivatalos mintavétel az (1) bekezdés d)–f) pontjaiban meghatározott okok miatt történt, a mintát, valamint a szakértői eredmény kifogásolása esetén az ellenmintát minden esetben a vámhatóság köteles a kijelölt laboratóriumba eljuttatni.
+(4)[^254] Abban az esetben, ha hivatalos mintavétel az (1) bekezdés d)–f) pontjaiban meghatározott okok miatt történt, a mintát, valamint a szakértői eredmény kifogásolása esetén az ellenmintát minden esetben a vámhatóság köteles a kijelölt laboratóriumba eljuttatni.
 
-[^250]: Az 53. § a 76/2013. (XII. 31.) NGM rendelet 21. § 5–6. pontja szerint módosított szöveg.
-[^251]: Az 54. § (2) bekezdése a 46/2004. (XII. 29.) PM rendelet 27. §-ának (3) bekezdése, az 52/2012. (XII. 29.) NGM rendelet 45. § 3. pontja szerint módosított szöveg.
-[^252]: Az 54. § (3) bekezdése a 41/2015. (XII. 30.) NGM rendelet 62. §-ával megállapított szöveg.
-[^253]: Az 54. § (4) bekezdése a 41/2015. (XII. 30.) NGM rendelet 62. §-ával megállapított szöveg.
+[^251]: Az 53. § a 76/2013. (XII. 31.) NGM rendelet 21. § 5–6. pontja szerint módosított szöveg.
+[^252]: Az 54. § (2) bekezdése a 46/2004. (XII. 29.) PM rendelet 27. §-ának (3) bekezdése, az 52/2012. (XII. 29.) NGM rendelet 45. § 3. pontja szerint módosított szöveg.
+[^253]: Az 54. § (3) bekezdése a 41/2015. (XII. 30.) NGM rendelet 62. §-ával megállapított szöveg.
+[^254]: Az 54. § (4) bekezdése a 41/2015. (XII. 30.) NGM rendelet 62. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-7. §[^44] (1) A vámhatóság az adóraktári engedély iránti kérelmet – a (2) és (3) bekezdésben foglalt eltéréssel – elutasítja, ha a kérelmező:
+7. §[^45] (1) A vámhatóság az adóraktári engedély iránti kérelmet – a (2) és (3) bekezdésben foglalt eltéréssel – elutasítja, ha a kérelmező:
 
 a) a jövedéki termék mennyiségi számbavételének és minősége megállapításának feltételeit (műszerek, berendezések, hitelesített mérőeszközök – a Jöt.-ben foglalt kivétellel –, hitelesített tartályok stb.) nem biztosította;
 
@@ -18,4 +18,4 @@ g) a Jöt. 35. §-ában és 36. §-ában foglalt egyéb feltételeknek nem felel
 
 (3) A vámhatóság a tiszta növényiolaj-gyártó adóraktár esetében az adóraktári engedély iránti kérelmet elutasítja, ha a kérelmező az 5/B. §-ban foglalt feltételeknek nem felel meg.
 
-[^44]: A 7. § a 41/2015. (XII. 30.) NGM rendelet 25. §-ával megállapított szöveg.
+[^45]: A 7. § a 41/2015. (XII. 30.) NGM rendelet 25. §-ával megállapított szöveg.

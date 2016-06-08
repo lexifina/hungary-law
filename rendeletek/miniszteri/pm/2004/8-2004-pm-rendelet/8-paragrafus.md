@@ -1,10 +1,10 @@
-8. § (1)[^45] A Jöt. 37. § (7)–(8) bekezdésének és 48/C. §-ának alkalmazásában az adóraktári (egyszerűsített adóraktári) engedélykérelemben megadott, valamint az adóraktári engedélyben [a betétlap(ok)ban] foglalt adatokat érintő minden változást, módosítást bejelentési kötelezettséggel járó változásnak kell tekinteni.
+8. § (1)[^46] A Jöt. 37. § (7)–(8) bekezdésének és 48/C. §-ának alkalmazásában az adóraktári (egyszerűsített adóraktári) engedélykérelemben megadott, valamint az adóraktári engedélyben [a betétlap(ok)ban] foglalt adatokat érintő minden változást, módosítást bejelentési kötelezettséggel járó változásnak kell tekinteni.
 
-(2)[^46] A bejelentési kötelezettséggel járó változást a vámhatósághoz a változás bekövetkeztétől számított 15 napon belül, illetve a Jöt. 48/C. §-a szerinti jogutódlás esetén legkésőbb a cégbejegyzési vagy változásbejegyzési kérelem cégbírósághoz történő benyújtásának napját követő 5. munkanapig – a borkísérő okmány aláírására jogosultak személyének változása esetén legkésőbb a következő munkanapon – be kell jelenteni. A bejelentés az 1. számú melléklet, 1/A. számú melléklet vagy az 1/B. számú melléklet szerinti adattartalmú, a vámhatóság által az engedélykérelemre rendszeresített és az internetes honlapjáról letöltött és kinyomtatott formátumú nyomtatványon teljesíthető. A Jöt. 37. § (8) bekezdése szerinti bejelentés engedély módosítása iránti kérelemnek, minden egyéb bejelentés változásbejelentésnek minősül függetlenül attól, hogy a bejelentés nyomán szükséges-e az engedélyt módosítani.
+(2)[^47] A bejelentési kötelezettséggel járó változást a vámhatósághoz a változás bekövetkeztétől számított 15 napon belül, illetve a Jöt. 48/C. §-a szerinti jogutódlás esetén legkésőbb a cégbejegyzési vagy változásbejegyzési kérelem cégbírósághoz történő benyújtásának napját követő 5. munkanapig – a borkísérő okmány aláírására jogosultak személyének változása esetén legkésőbb a következő munkanapon – be kell jelenteni. A bejelentés az 1. számú melléklet, 1/A. számú melléklet vagy az 1/B. számú melléklet szerinti adattartalmú, a vámhatóság által az engedélykérelemre rendszeresített és az internetes honlapjáról letöltött és kinyomtatott formátumú nyomtatványon teljesíthető. A Jöt. 37. § (8) bekezdése szerinti bejelentés engedély módosítása iránti kérelemnek, minden egyéb bejelentés változásbejelentésnek minősül függetlenül attól, hogy a bejelentés nyomán szükséges-e az engedélyt módosítani.
 
-(2a)[^47] Ha a dohánygyártmány adóraktár-engedélyes dohánygyártmány gyártására alkalmas gép tesztelését végzi, a tesztelendő gépek tekintetében az (1) bekezdés szerinti változások közül kizárólag a 69. § (2) bekezdése szerinti nyilvántartásában még nem szereplő új típusú gép tesztelését kell a (2) bekezdés szerint bejelentenie.
+(2a)[^48] Ha a dohánygyártmány adóraktár-engedélyes dohánygyártmány gyártására alkalmas gép tesztelését végzi, a tesztelendő gépek tekintetében az (1) bekezdés szerinti változások közül kizárólag a 69. § (2) bekezdése szerinti nyilvántartásában még nem szereplő új típusú gép tesztelését kell a (2) bekezdés szerint bejelentenie.
 
-(3)[^48] A változásbejelentéshez és az adóraktári engedély (egyszerűsített adóraktári engedély) módosítása iránti kérelemhez csatolni kell:
+(3)[^49] A változásbejelentéshez és az adóraktári engedély (egyszerűsített adóraktári engedély) módosítása iránti kérelemhez csatolni kell:
 
 a) a változással érintett eredeti adóraktári engedélyt [betétlapo(ka)t];
 
@@ -16,20 +16,20 @@ d) a Jöt. 39. § (1) bekezdés a) pontjában foglalt esetben az adóraktár eng
 
 (4) További adóraktár, illetve egyszerűsített adóraktár működtetése iránti kérelme esetén
 
-a)[^49] az adóraktár-engedélyesnek az adóraktárként működtetni kívánt üzemi helyiségre, a 2. § (1) bekezdés e)–m) pontjában,
+a)[^50] az adóraktár-engedélyesnek az adóraktárként működtetni kívánt üzemi helyiségre, a 2. § (1) bekezdés e)–m) pontjában,
 
 b) az egyszerűsített adóraktár engedélyesének az egyszerűsített adóraktárként működtetni kívánt üzemi helyiségre a 3. § (1) bekezdésének c), f) és g) pontjában
 
 ## meghatározott dokumentációt, okiratot kell csatolnia.
 
-(5)[^50]
+(5)[^51]
 
-(6)[^51] A vámhatóság az engedély módosítása iránti kérelemben vagy a változás-bejelentésben foglaltak alapján az adóraktári (egyszerűsített adóraktári) engedélyt vagy a betétlapot – szükség esetén mindkettőt – bevonja, és új adóraktári (egyszerűsített adóraktári) engedélyt vagy betétlapot ad ki.
+(6)[^52] A vámhatóság az engedély módosítása iránti kérelemben vagy a változás-bejelentésben foglaltak alapján az adóraktári (egyszerűsített adóraktári) engedélyt vagy a betétlapot – szükség esetén mindkettőt – bevonja, és új adóraktári (egyszerűsített adóraktári) engedélyt vagy betétlapot ad ki.
 
-[^45]: A 8. § (1) bekezdése a 38/2008. (XII. 31.) PM rendelet 15. § (3) bekezdése szerint módosított szöveg.
-[^46]: A 8. § (2) bekezdése a 41/2015. (XII. 30.) NGM rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^47]: A 8. § (2a) bekezdését a 20/2015. (VII. 28.) NGM rendelet 2. §-a iktatta be.
-[^48]: A 8. § (3) bekezdése az 52/2012. (XII. 29.) NGM rendelet 12. § (2) bekezdésével megállapított szöveg.
-[^49]: A 8. § (4) bekezdés a) pontja a 76/2013. (XII. 31.) NGM rendelet 21. § 1. pontja szerint módosított szöveg.
-[^50]: A 8. § (5) bekezdését az 52/2012. (XII. 29.) NGM rendelet 47. § 1. pontja hatályon kívül helyezte.
-[^51]: A 8. § (6) bekezdése a 41/2015. (XII. 30.) NGM rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^46]: A 8. § (1) bekezdése a 38/2008. (XII. 31.) PM rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^47]: A 8. § (2) bekezdése a 41/2015. (XII. 30.) NGM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^48]: A 8. § (2a) bekezdését a 20/2015. (VII. 28.) NGM rendelet 2. §-a iktatta be.
+[^49]: A 8. § (3) bekezdése az 52/2012. (XII. 29.) NGM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^50]: A 8. § (4) bekezdés a) pontja a 76/2013. (XII. 31.) NGM rendelet 21. § 1. pontja szerint módosított szöveg.
+[^51]: A 8. § (5) bekezdését az 52/2012. (XII. 29.) NGM rendelet 47. § 1. pontja hatályon kívül helyezte.
+[^52]: A 8. § (6) bekezdése a 41/2015. (XII. 30.) NGM rendelet 26. § (2) bekezdésével megállapított szöveg.

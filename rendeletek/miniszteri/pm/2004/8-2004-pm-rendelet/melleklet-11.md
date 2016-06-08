@@ -68,6 +68,6 @@
 
 |  | a vámhatóság aláírása (bélyegzője) |
 
-11. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^626]
+11. számú melléklet a 8/2004. (III. 10.) PM rendelethez[^628]
 
-[^626]: A 11. számú melléklet a 76/2013. (XII. 31.) NGM rendelet 22. § (14) bekezdésével megállapított szöveg.
+[^628]: A 11. számú melléklet a 76/2013. (XII. 31.) NGM rendelet 22. § (14) bekezdésével megállapított szöveg.

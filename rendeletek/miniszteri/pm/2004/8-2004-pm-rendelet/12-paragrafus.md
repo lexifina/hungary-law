@@ -1,4 +1,4 @@
-## 12. §[^68] A vámhatóság a keretengedély iránti kérelmet elutasítja, ha
+## 12. §[^69] A vámhatóság a keretengedély iránti kérelmet elutasítja, ha
 
 a) az adózatlan jövedéki termék mennyiségi számbavételének és minősége megállapításának feltételei [műszerek, berendezések, hitelesített mérőeszközök és tartályok (kivéve a Jöt. 53. § (1) bekezdés b) és d) pontja szerinti tevékenység során használt tartályokat)] nem biztosítottak;
 
@@ -10,4 +10,4 @@ d) a tevékenység folytatására, illetve az adózatlan jövedéki termékek fe
 
 e) a kérelmező a Jöt. 42. § (4) bekezdés a)–b) pontja értelmében szükséges egyéb feltételeknek nem felel meg.
 
-[^68]: A 12. § a 41/2015. (XII. 30.) NGM rendelet 28. §-ával megállapított szöveg.
+[^69]: A 12. § a 41/2015. (XII. 30.) NGM rendelet 28. §-ával megállapított szöveg.

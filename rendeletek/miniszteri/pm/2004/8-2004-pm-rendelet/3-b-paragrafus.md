@@ -1,4 +1,4 @@
-## 3/B. §[^37] A Jöt. 58. § (1) bekezdés k) pontja szerinti tiszta növényiolaj-gyártó adóraktári engedély iránti kérelméhez csatolni kell
+## 3/B. §[^38] A Jöt. 58. § (1) bekezdés k) pontja szerinti tiszta növényiolaj-gyártó adóraktári engedély iránti kérelméhez csatolni kell
 
 a) a társasági szerződést (alapító okiratot, alapszabályt) vagy a vállalkozói, illetve őstermelői igazolványt;
 
@@ -10,4 +10,4 @@ d) a felajánlott jövedéki biztosíték vagy a jövedéki biztosíték nyújt�
 
 e) az e rendeletben előírt nyilvántartások mintáját vagy az azokra vonatkozó számítógépes nyilvántartások leírását.
 
-[^37]: A 3/B. §-t az 52/2012. (XII. 29.) NGM rendelet 9. §-a iktatta be.
+[^38]: A 3/B. §-t az 52/2012. (XII. 29.) NGM rendelet 9. §-a iktatta be.

@@ -1,4 +1,4 @@
-5/A. §[^40] (1)[^41] A kísérleti előállítást végző üzemre adóraktári engedélyt a vámhatóság abban az esetben ad ki, ha
+5/A. §[^41] (1)[^42] A kísérleti előállítást végző üzemre adóraktári engedélyt a vámhatóság abban az esetben ad ki, ha
 
 a) a kérelmező nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt;
 
@@ -10,5 +10,5 @@ d) az adóraktárként szolgáló hely és annak berendezése (műszaki, technik
 
 (2) A kísérleti előállítást végző üzemre az adóraktári engedély határozott időre szóló érvényességgel, legfeljebb a kísérleti fejlesztés kezdő napjától a kísérleti fejlesztés időtartamának lejártát követő 30. napig terjedő időszakra adható ki.
 
-[^40]: Az 5/A. §-t a 40/2007. (XII. 29.) PM rendelet 5. §-a iktatta be.
-[^41]: Az 5/A. § (1) bekezdése a 41/2015. (XII. 30.) NGM rendelet 24. §-ával megállapított szöveg.
+[^41]: Az 5/A. §-t a 40/2007. (XII. 29.) PM rendelet 5. §-a iktatta be.
+[^42]: Az 5/A. § (1) bekezdése a 41/2015. (XII. 30.) NGM rendelet 24. §-ával megállapított szöveg.
