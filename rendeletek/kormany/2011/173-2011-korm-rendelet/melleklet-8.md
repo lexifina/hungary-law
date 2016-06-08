@@ -42,7 +42,7 @@
 
 | 21. | Zala Megyei Rendőr-főkapitányság | 10049006-01451650-00000000 |
 
-8. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^95]
+8. melléklet a 173/2011. (VIII. 24.) Korm. rendelethez[^96]
 
 (.... sz.) EU–MEGFELELŐSÉGI NYILATKOZAT*
 
@@ -66,4 +66,4 @@
 
 * Amennyiben a pirotechnikai termékre több olyan európai uniós jogi aktus alkalmazandó, amely EU-megfelelőségi nyilatkozatot ír elő, az annak való megfelelés érdekében egyetlen EU-megfelelőségi nyilatkozatot állítanak ki. Ez a nyilatkozat tartalmazza az érintett európai uniós jogi aktusok azonosítását, ideértve közzétételük hivatkozásait is.
 
-[^95]: A 8. mellékletet a 100/2015. (IV. 20.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^96]: A 8. mellékletet a 100/2015. (IV. 20.) Korm. rendelet 27. § (2) bekezdése iktatta be.

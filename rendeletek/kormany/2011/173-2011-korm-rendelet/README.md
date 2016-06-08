@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-173-20-
 | 2013-12-13 | 2011-173-20-22.7 | 447/2013. (XI. 28.) Korm. rendelet |
 | 2015-03-05 | 2011-173-20-22.8 | 300/2014. (XII. 5.) Korm. rendelet |
 | 2015-05-21 | 2011-173-20-22.9 | 100/2015. (IV. 20.) Korm. rendelet |
+| 2016-06-08 | 2011-173-20-22.10 | 122/2016. (VI. 7.) Korm. rendelet |
