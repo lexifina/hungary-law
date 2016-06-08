@@ -1,0 +1,9 @@
+## 3. § A vámszabálysértések eljárási szabályairól, valamint felderítése és elbírálása végrehajtásának részletes szabályairól szóló 32/2012. (XII. 4.) NGM rendelet 2. §-ában az „a közösségi vámjog végrehajtásáról szóló 2003. évi CXXVI. törvényben,” szövegrész helyébe az „az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvényben,” szöveg lép.
+
+## 4. Az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény végrehajtásáról szóló 39/2013. (IX. 24.) NGM rendelet módosítása
+
+4. § (1) Az áruknak TIR-igazolvánnyal történő nemzetközi fuvarozására vonatkozó vámegyezmény végrehajtásáról szóló 39/2013. (IX. 24.) NGM rendelet (a továbbiakban: R1.) 1. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az Uniós Vámkódex létrehozásáról szóló 952/2013/EU európai parlamenti és tanácsi rendelet egyes rendelkezéseinek végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2015. november 24-i 2015/2447/EU Bizottsági végrehajtási rendelet 163. cikke értelmében a garanciavállaló egyesülettől az Egyezményben meghatározott felelőssége alapján TIR-igazolványonként legfeljebb 60 000 EUR összegnek megfelelő mértékű vámtartozás és egyéb teher követelhető nemzeti valutában (forint) kifejezve. A vámtartozás és egyéb teher összegét a TIR-igazolvány fedezete alatt lebonyolított árutovábbítási eljárással összefüggésben felfedett jogsértő cselekmény elkövetésének időpontjában, ettől eltérő esetben – a jogsértő cselekmény elkövetése időpontjának ismerete hiányában – a TIR-igazolvány elfogadásának napján érvényes MNB deviza árfolyam alapján kell megállapítani, figyelemmel az Uniós Vámkódex létrehozásáról szóló, 2013. október 9-i 952/2013/EU európai parlamenti és tanácsi rendelet 77–79. cikkeiben foglaltakra.”
+
+(2) Az R1. 2. § (3) bekezdésében az „együttes adóigazolást” szövegrész helyébe az „adóigazolást” szöveg lép.
