@@ -1,0 +1,13 @@
+## 26. § Az engedélyező hatóság a 22–24. §-ban rögzített információk tekintetében a tagállamok közötti információcsere megvalósulása érdekében a tagállamok közigazgatási hatóságai közötti kölcsönös segítségnyújtásról, valamint a vám- és mezőgazdasági jogszabályok helyes alkalmazásának biztosítása érdekében e hatóságok és a Bizottság együttműködéséről szóló 1997. március 13-i 515/97/EK tanácsi rendelet adatvédelmi szabályainak figyelembevételével kapcsolatot tart a többi tagállam illetékes hatóságaival, és kérésre a többi tagállam, valamint a Bizottság rendelkezésére bocsátja az engedéllyel rendelkező gazdasági szereplőkre vonatkozó naprakész információkat.
+
+## IV. Fejezet
+
+## TERMÉKAZONOSÍTÁS
+
+## 12. A robbanóanyagok azonosítása és nyomon követhetősége
+
+27. § (1) A gazdasági szereplők a robbanóanyagok egyedi azonosítását és nyomon követhetőségét biztosító rendszert (a továbbiakban: rendszer) alkalmaznak, amely figyelembe veszi a robbanóanyagok méretét, alakját és tervezését, kivéve, ha a robbanóanyag jellemzőiből és bizonyos tényezőkből, például a robbanóanyag alacsony detonációs hatásából, felhasználási módjából és az adott robbanóanyaggal való visszaélés esetleges hatásainak csekély biztonsági kockázatából eredő alacsony kockázati szint miatt nincs szükség egyedi azonosító feltüntetésére. A rendszer nem vonatkozik a robbantólyukba való közvetlen betöltéshez csomagolatlanul vagy szivattyús kocsikban szállított és átadott robbanóanyagokra, valamint a robbantás helyszínén gyártott robbanóanyagokra, amelyeket közvetlenül a gyártásuk után töltenek be.
+
+(2) A rendszer biztosítja a robbanóanyagok egyedi azonosítását és nyomon követhetőségét lehetővé tevő adatok – akár elektronikus eszközök révén történő – gyűjtését és tárolását, valamint egy olyan egyedi azonosító elhelyezését a robbanóanyagon vagy annak csomagolásán, amely lehetővé teszi az ilyen adatokhoz való hozzáférést. Ezek az adatok a robbanóanyag egyedi azonosításához kapcsolódnak, ideértve a gazdasági szereplők birtokában lévő robbanóanyag tárolásának helyét, valamint a gazdasági szereplők azonosító adatait.
+
+(3) A (2) bekezdésben meghatározott adatok logikai rendszerezettségét, az adattárolás megfelelő működését, az adatok tárolásának biztonságosságát időközönként felül kell vizsgálni, és meg kell óvni az adatokat a véletlen vagy szándékos rongálódástól vagy megsemmisüléstől. Ezeket az adatokat a nyilvántartásba vett üzletkötéstől, illetve robbanóanyagok használata és elhelyezése esetén a használattól vagy elhelyezéstől számítva az ellátási láncon és az életcikluson keresztül meg kell őrizni, még akkor is, ha a gazdasági szereplő felhagyott a kereskedelmi tevékenységgel. A dokumentumokat az illetékes hatóságok kérésére rendelkezésre kell bocsátani.
