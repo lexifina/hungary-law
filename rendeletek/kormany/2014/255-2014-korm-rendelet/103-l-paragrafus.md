@@ -1,4 +1,4 @@
-## 61. [^155] Az erdészeti ágazatban megvalósuló tudástranszferhez és tájékoztatási tevékenységhez nyújtott támogatás
+## 61. [^180] Az erdészeti ágazatban megvalósuló tudástranszferhez és tájékoztatási tevékenységhez nyújtott támogatás
 
 103/L. § (1) Az erdészeti ágazatban megvalósuló tudástranszferhez és tájékoztatási tevékenységhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) készségek elsajátításához kapcsolódó tevékenységhez, rövid időtartamra szóló erdőgazdálkodási csereprogram és erdőlátogatás lebonyolításához, valamint bemutató és tájékoztatási tevékenységhez nyújtható.
 
@@ -22,4 +22,4 @@ d) a szakmai tanulmányút, csereprogram és gyakornoki program esetén mikro- v
 
 (6) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 100%-át.
 
-[^155]: A 61. alcímet (103/L. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^180]: A 61. alcímet (103/L. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.

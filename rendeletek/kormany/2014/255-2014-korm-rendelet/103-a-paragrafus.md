@@ -1,35 +1,19 @@
-## 50. [^144] A termelői csoport vagy szervezet tevékenysége megkezdéséhez nyújtott támogatás
+## 50. [^166] A mezőgazdasági csekély összegű támogatás
 
-103/A. § (1) A termelői csoport vagy szervezet tevékenysége megkezdéséhez nyújtott támogatásban (ezen alcím vonatkozásában a továbbiakban: támogatás) az a termelői csoport vagy szervezet részesülhet, amelyet az érintett hatóság az üzleti terve alapján hivatalosan elismert.
+103/A. § (1) Az egy és ugyanazon vállalkozásnak minősülő vállalkozások részére az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, Magyarországon odaítélt csekély összegű támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) bruttó támogatástartalma nem haladhatja meg a 15 000 eurónak megfelelő forintösszeget, figyelembe véve az 1408/2013/EU bizottsági rendelet 3. cikk (8) és (9) bekezdését és 5. cikkét, valamint az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: 717/2014/EU bizottsági rendelet) 3. cikk (5)–(8) bekezdését és 5. cikkét.
 
-(2) A támogatás keretében
+(2) A támogatás odaítélése során az adott pénzügyi évben, valamint az előző két pénzügyi év alatt odaítélt csekély összegű támogatások bruttó támogatástartalmának összegét kell figyelembe venni.
 
-a) helyiségek bérleti díja,
+(3) Az 1408/2013/EU bizottsági rendelet 1. cikk (2) és (3) bekezdésében foglaltak kivételével nem lehet kedvezményezett az a vállalkozás, amely az igényelt támogatást az 1408/2013/EU bizottsági rendelet 1. cikk (1) bekezdésében meghatározott kivételek szerint használná fel.
 
-b) az irodai berendezés – ide értve a számítógépes hardvert és szoftvert is – beszerzésének költsége,
+(4) Hitel vagy kezességvállalás formájában nyújtott támogatás esetén – az 1408/2013/EU bizottsági rendelet 4. cikk (3) bekezdés b) pontja szerinti esetben – nem lehet kedvezményezett az a vállalkozás, amelyet kollektív fizetésképtelenségi eljárás alá vontak vagy hitelezői kérelemre kollektív fizetésképtelenségi eljárás alá lenne vonható, valamint az a nagyvállalkozás, amely B-hitelminősítésnek megfelelő helyzetnél rosszabb helyzetben van.
 
-c) az igazgatási személyzet költsége, valamint
+(5) A támogatás az általános csekély összegű támogatással az 1407/2013/EU bizottsági rendelet 3. cikk (2) bekezdésében meghatározott felső határig halmozható, feltéve, hogy az elsődleges mezőgazdasági termelőtevékenységhez nem ítélhető meg az 1407/2013/EU bizottsági rendelet alapján nyújtott csekély összegű támogatás.
 
-d) az általános, jogi és igazgatási költség
+(6) A támogatás a halászati és akvakultúra ágazatban nyújtott csekély összegű támogatással a 717/2014/EU bizottsági rendeletben meghatározott felső határig halmozható, feltéve, hogy az elsődleges mezőgazdasági termelőtevékenységhez nem ítélhető meg a halászati és akvakultúra ágazatban nyújtott csekély összegű támogatás.
 
-## számolható el.
+(7) A támogatás nem halmozható azonos elszámolható költségek vagy azonos kockázatfinanszírozási célú intézkedés vonatkozásában nyújtott állami támogatással, ha az így halmozott összeg meghaladná a csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott legmagasabb támogatási intenzitást vagy összeget.
 
-(3) A támogatás összege a termelői csoport vagy szervezet ekként történő elismerésétől számított öt év alatt nem érheti el az 500 000 eurónak, az első évben a 100 000 eurónak megfelelő forintösszeget.
+(8) A támogatást nyújtó az 1408/2013/EU bizottsági rendelet 5. cikk (1) bekezdésében meghatározott feltételek teljesülését a Mezőgazdasági és Vidékfejlesztési Hivatal által vezetett mezőgazdasági csekély összegű (de minimis) támogatások nyilvántartása alapján ellenőrzi.
 
-(4) Nem nyújtható támogatás
-
-a) olyan termelői csoport vagy szervezet részére, amelynek célja egy vagy több mezőgazdasági üzem vezetése, de tagjai továbbra is egyéni termelőnek minősülnek,
-
-b) olyan mezőgazdasági együttműködés részére, amely különböző feladatokat (pl. kölcsönös segítségnyújtás, mezőgazdasági helyettesítési és üzemvezetési szolgáltatás) lát el az egyes tagjai üzemeiben anélkül, hogy részt venne a kínálatnak a piaci igényekhez történő igazítására irányuló közös tevékenységben,
-
-c) olyan termelői csoport vagy szervezet részére, amelynek célkitűzései összeegyeztethetetlenek a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1308/2013/EU európai parlamenti és tanácsi rendelet) 152. cikk (1) bekezdés c) pontjában és (3) bekezdésében, valamint 156. cikkében foglalt rendelkezésekkel.
-
-(5) Ha helyiség vásárlására kerül sor, elszámolható költségnek a piaci áron számított, a (7) bekezdés szerinti időtartamra vetített bérleti díj minősül.
-
-(6) A támogatás azzal a feltétellel nyújtható, hogy – a termelői csoport vagy szervezet hivatalos elismerése időpontjától számított öt éven belül – az érintett hatóság ellenőrzi az (1) bekezdés szerinti üzleti terv célkitűzései teljesülését.
-
-(7) A termelői csoport vagy szervezet működésének első öt évében támogatható. A támogatást átalányösszegű támogatásként, éves részletekben, fokozatosan csökkenő mértékben kell kifizetni. A támogatás utolsó részlete csak akkor fizethető ki, ha az (1) bekezdés szerinti üzleti terv végrehajtásra került.
-
-(8) A termelői csoport vagy szervezet keretében elfogadott megállapodásnak, döntésnek és összehangolt magatartásnak meg kell felelnie az 1308/2013/EU európai parlamenti és tanácsi rendelet 206–210. cikke szerinti rendelkezéseknek.
-
-[^144]: Az 50. alcímet (103/A. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^166]: Az 50. alcímet (103/A. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be, szövege a 127/2016. (VI. 7.) Korm. rendelet 10. §-ával megállapított szöveg.

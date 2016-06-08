@@ -6,7 +6,7 @@
 
 1. acélipar: a 651/2014/EU bizottsági rendelet 2. cikk 43. pontja szerinti ipar,
 
-1a.[^2] agrárerdészeti rendszer: a 702/2014/EU bizottsági rendelet 2. cikk (23) bekezdése szerinti földhasználati rendszer,
+1a.[^3] agrárerdészeti rendszer: a 702/2014/EU bizottsági rendelet 2. cikk (23) bekezdése szerinti földhasználati rendszer,
 
 2. alapkutatás: a 651/2014/EU bizottsági rendelet 2. cikk 84. pontja szerinti kísérleti vagy elméleti munka,
 
@@ -30,11 +30,11 @@
 
 12. diszkont kamatláb: az Atr. 2. § 3. pontja szerinti kamatláb,
 
-12a.[^3] egyéb kedvezőtlen éghajlati jelenség: a 702/2014/EU bizottsági rendelet 2. cikk (17) bekezdése szerinti éghajlati jelenség,
+12a.[^4] egyéb kedvezőtlen éghajlati jelenség: a 702/2014/EU bizottsági rendelet 2. cikk (17) bekezdése szerinti éghajlati jelenség,
 
 13. egy és ugyanazon vállalkozás: az 1407/2013/EU bizottsági rendelet 2. cikk (2) bekezdése szerinti vállalkozás,
 
-13a.[^4] egységköltség: az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról és az 1083/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1303/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1303/2013/EU európai parlamenti és tanácsi rendelet) 67. cikk (1) bekezdés b) pontja szerinti támogatási forma,
+13a.[^5] egységköltség: az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról és az 1083/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1303/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1303/2013/EU európai parlamenti és tanácsi rendelet) 67. cikk (1) bekezdés b) pontja szerinti támogatási forma,
 
 14. együttműködéshez kötődő tanácsadás: a 651/2014/EU bizottsági rendelet 2. cikk 64. pontja szerinti tanácsadás,
 
@@ -58,11 +58,11 @@
 
 24. energiahatékony távfűtés és távhűtés: a 651/2014/EU bizottsági rendelet 2. cikk 124. pontja szerinti távfűtés és távhűtés,
 
-24a.[^5] ex situ gyűjtemény: a 702/2014/EU bizottsági rendelet 42. cikk (4) bekezdés d) pontja szerinti gyűjtemény,
+24a.[^6] ex situ gyűjtemény: a 702/2014/EU bizottsági rendelet 42. cikk (4) bekezdés d) pontja szerinti gyűjtemény,
 
-24b.[^6] ex situ megőrzés: a 702/2014/EU bizottsági rendelet 42. cikk (4) bekezdés c) pontja szerinti tevékenység,
+24b.[^7] ex situ megőrzés: a 702/2014/EU bizottsági rendelet 42. cikk (4) bekezdés c) pontja szerinti tevékenység,
 
-24c.[^7] élelmiszer: a 702/2014/EU bizottsági rendelet 2. cikk (63) bekezdése szerinti élelmiszer,
+24c.[^8] élelmiszer: a 702/2014/EU bizottsági rendelet 2. cikk (63) bekezdése szerinti élelmiszer,
 
 25. élelmiszeralapú bioüzemanyag: a 651/2014/EU bizottsági rendelet 2. cikk 113. pontja szerinti üzemanyag,
 
@@ -104,15 +104,15 @@ a) független szakértő értékelésével alá tudja támasztani, hogy a belát
 
 b) esetén a támogatás nyújtását megelőző három év legalább egyikében a működési költségek legalább 10%-át kutatás-fejlesztési költségek teszik ki,
 
-42a.[^8] in situ megőrzés: a 702/2014/EU bizottsági rendelet 42. cikk (4) bekezdés a) pontja szerinti tevékenység,
+42a.[^9] in situ megőrzés: a 702/2014/EU bizottsági rendelet 42. cikk (4) bekezdés a) pontja szerinti tevékenység,
 
 43. ipari kutatás: a 651/2014/EU bizottsági rendelet 2. cikk 85. pontja szerinti tervezett kutatás vagy kritikus vizsgálat,
 
 44. kapcsolt energiatermelés: a 651/2014/EU bizottsági rendelet 2. cikk 108. pontja szerinti energiatermelés,
 
-44a.[^9] katasztrófaesemény: a 702/2014/EU bizottsági rendelet 2. cikk (19) bekezdése szerinti esemény,
+44a.[^10] katasztrófaesemény: a 702/2014/EU bizottsági rendelet 2. cikk (19) bekezdése szerinti esemény,
 
-44b.[^10] kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó: az a beruházó, amely a kérelmet benyújtó beruházóval a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) szerinti anya- vagy leányvállalati kapcsolatban áll,
+44b.[^11] kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó: az a beruházó, amely a kérelmet benyújtó beruházóval a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) szerinti anya- vagy leányvállalati kapcsolatban áll,
 
 45. kezességvállalás: a 651/2014/EU bizottsági rendelet 2. cikk 67. pontja szerinti kötelezettségvállalás,
 
@@ -134,7 +134,7 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 
 54. környezetvédelem: a 651/2014/EU bizottsági rendelet 2. cikk 101. pontja szerinti tevékenység,
 
-54a.[^11] közösségvezérelt helyi fejlesztés (LEADER): az 1303/2013/EU európai parlamenti és tanácsi rendelet 32–35. cikke, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1305/2013/EU európai parlamenti és tanácsi rendelet) 42–44. cikke szerinti fejlesztés,
+54a.[^12] közösségvezérelt helyi fejlesztés (LEADER): az 1303/2013/EU európai parlamenti és tanácsi rendelet 32–35. cikke, valamint az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1305/2013/EU európai parlamenti és tanácsi rendelet) 42–44. cikke szerinti fejlesztés,
 
 55. közszolgáltatás: az EUMSz 106. cikk (2) bekezdése szerinti általános gazdasági érdekű szolgáltatás,
 
@@ -162,9 +162,9 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 
 67. megváltozott munkaképességű munkavállaló: a 651/2014/EU bizottsági rendelet 2. cikk 3. pontja szerinti munkavállaló,
 
-67a.[^12] mezőgazdasági ágazat: a 702/2014/EU bizottsági rendelet 2. cikk (3) bekezdése szerinti ágazat,
+67a.[^13] mezőgazdasági ágazat: a 702/2014/EU bizottsági rendelet 2. cikk (3) bekezdése szerinti ágazat,
 
-67b.[^13] mezőgazdasági háztartás tagja: a 702/2014/EU bizottsági rendelet 2. cikk (46) bekezdése szerinti természetes vagy jogi személy,
+67b.[^14] mezőgazdasági háztartás tagja: a 702/2014/EU bizottsági rendelet 2. cikk (46) bekezdése szerinti természetes vagy jogi személy,
 
 68. mezőgazdasági termék: a 651/2014/EU bizottsági rendelet 2. cikk 11. pontja szerinti termék,
 
@@ -172,15 +172,15 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 
 70. mezőgazdasági termék forgalmazása: a 651/2014/EU bizottsági rendelet 2. cikk 8. pontja szerinti tevékenység,
 
-70a.[^14] mezőgazdasági termék nem mezőgazdasági termékké való feldolgozása: a 702/2014/EU bizottsági rendelet 2. cikk (56) bekezdése szerinti tevékenység,
+70a.[^15] mezőgazdasági termék nem mezőgazdasági termékké való feldolgozása: a 702/2014/EU bizottsági rendelet 2. cikk (56) bekezdése szerinti tevékenység,
 
-70b.[^15] mezőgazdasági üzem: a 702/2014/EU bizottsági rendelet 2. cikk (8) bekezdése szerinti üzem,
+70b.[^16] mezőgazdasági üzem: a 702/2014/EU bizottsági rendelet 2. cikk (8) bekezdése szerinti üzem,
 
-70c.[^16] minőségrendszerben való részvételből eredő állandó költség: a 702/2014/EU bizottsági rendelet 2. cikk (44) bekezdése szerinti költség,
+70c.[^17] minőségrendszerben való részvételből eredő állandó költség: a 702/2014/EU bizottsági rendelet 2. cikk (44) bekezdése szerinti költség,
 
 71. multifunkcionális szabadidős létesítmény: a 651/2014/EU bizottsági rendelet 55. cikk (3) bekezdése szerinti létesítmény,
 
-72.[^17] működési eredmény: a beruházásnak az Sztv. 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevételek és diszkontált működési költségek (pl. személyi jellegű ráfordítás, anyagköltség, szerződéses szolgáltatás, a távközlés, az energia és a karbantartás költsége, bérleti díj, adminisztrációs költség, kivéve az olyan értékcsökkenési és a finanszírozási költséget, amelyet beruházási támogatásból már fedeztek) közötti pozitív előjelű különbség,
+72.[^18] működési eredmény: a beruházásnak az Sztv. 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevételek és diszkontált működési költségek (pl. személyi jellegű ráfordítás, anyagköltség, szerződéses szolgáltatás, a távközlés, az energia és a karbantartás költsége, bérleti díj, adminisztrációs költség, kivéve az olyan értékcsökkenési és a finanszírozási költséget, amelyet beruházási támogatásból már fedeztek) közötti pozitív előjelű különbség,
 
 73. nagyberuházás: az az induló beruházás vagy új gazdasági tevékenység végzésére irányuló induló beruházás, amelyhez kapcsolódóan az elszámolható költségek összege az összeszámítási szabályt figyelembe véve jelenértéken meghaladja az 50 millió eurónak megfelelő forintösszeget,
 
@@ -192,17 +192,17 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 
 77. nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás,
 
-77a.[^18] növénykárosító: a 702/2014/EU bizottsági rendelet 2. cikk (18) bekezdése szerinti kártevő,
+77a.[^19] növénykárosító: a 702/2014/EU bizottsági rendelet 2. cikk (18) bekezdése szerinti kártevő,
 
-78.[^19] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
+78.[^20] összeszámítási szabály: a nagyberuházás elszámolható költségei kiszámításakor egyetlen beruházásnak kell tekinteni a kérelemben szereplő beruházást és a kérelmet benyújtó beruházó, valamint a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó által a kérelemben szereplő beruházás megkezdésétől számított háromszor háromszázhatvanöt napos időszakon belül a kérelemben szereplő beruházással azonos megyében megkezdett, regionális beruházási támogatásban részesülő beruházást,
 
 79. passzív szélessávú infrastruktúra: a 651/2014/EU bizottsági rendelet 2. cikk 137. pontja szerinti infrastruktúra,
 
 80. pénzügyi közvetítő: a 651/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti pénzügyi intézmény,
 
-80a.[^20] rövid ellátási lánc: az 1305/2013/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés második albekezdés m) pontja szerinti ellátási lánc,
+80a.[^21] rövid ellátási lánc: az 1305/2013/EU európai parlamenti és tanácsi rendelet 2. cikk (1) bekezdés második albekezdés m) pontja szerinti ellátási lánc,
 
-81.[^21] saját forrás: a kedvezményezett által a projekthez igénybe vett, állami támogatást, valamint az Európai Unió intézményei, ügynökségei, közös vállalkozásai vagy más szervei által központilag kezelt, a tagállam ellenőrzése alá közvetlenül vagy közvetve nem tartozó uniós finanszírozást nem tartalmazó forrás,
+81.[^22] saját forrás: a kedvezményezett által a projekthez igénybe vett, állami támogatást, valamint az Európai Unió intézményei, ügynökségei, közös vállalkozásai vagy más szervei által központilag kezelt, a tagállam ellenőrzése alá közvetlenül vagy közvetve nem tartozó uniós finanszírozást nem tartalmazó forrás,
 
 82. sajáttőke-befektetés: közvetlen vagy pénzügyi közvetítőn keresztül történő közvetett tőkejuttatás egy vállalkozás számára a vállalkozásban a megfelelő arányú részesedés megszerzése ellenében,
 
@@ -244,11 +244,11 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 
 101. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz,
 
-101a.[^22] termelői csoport vagy szervezet: a 702/2014/EU bizottsági rendelet 2. cikk (43) bekezdése szerinti csoport vagy szervezet,
+101a.[^23] termelői csoport vagy szervezet: a 702/2014/EU bizottsági rendelet 2. cikk (43) bekezdése szerinti csoport vagy szervezet,
 
-101b.[^23] természeti katasztrófa: a 702/2014/EU bizottsági rendelet 2. cikk (9) bekezdése szerinti természeti jelenség,
+101b.[^24] természeti katasztrófa: a 702/2014/EU bizottsági rendelet 2. cikk (9) bekezdése szerinti természeti jelenség,
 
-101c.[^24] természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség: a 702/2014/EU bizottsági rendelet 2. cikk (16) bekezdése szerinti éghajlati jelenség,
+101c.[^25] természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség: a 702/2014/EU bizottsági rendelet 2. cikk (16) bekezdése szerinti éghajlati jelenség,
 
 102. tőkejuttatás: a 651/2014/EU bizottsági rendelet 2. cikk 70. pontja szerinti juttatás,
 
@@ -280,26 +280,26 @@ c) új termék- vagy földrajzi piacra való belépés céljából készített �
 
 (4) Pénzügyi előzményekkel nem rendelkező induló vállalkozás esetén az (1) bekezdés 42. pont b) alpontja szerinti arányt a folyó pénzügyi időszak független könyvvizsgáló által hitelesített pénzügyi kimutatásában kell kimutatni.
 
-[^2]: A 2. § (1) bekezdés 1a. pontját a 271/2015. (IX. 10.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^3]: A 2. § (1) bekezdés 12a. pontját a 271/2015. (IX. 10.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^4]: A 2. § (1) bekezdés 13a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (3) bekezdése iktatta be.
-[^5]: A 2. § (1) bekezdés 24a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (4) bekezdése iktatta be.
-[^6]: A 2. § (1) bekezdés 24b. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (4) bekezdése iktatta be.
-[^7]: A 2. § (1) bekezdés 24c. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (4) bekezdése iktatta be.
-[^8]: A 2. § (1) bekezdés 42a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (5) bekezdése iktatta be.
-[^9]: A 2. § (1) bekezdés 44a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (6) bekezdése iktatta be.
-[^10]: A 2. § (1) bekezdés 44b. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (6) bekezdése iktatta be.
-[^11]: A 2. § (1) bekezdés 54a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (7) bekezdése iktatta be.
-[^12]: A 2. § (1) bekezdés 67a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (8) bekezdése iktatta be.
-[^13]: A 2. § (1) bekezdés 67b. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (8) bekezdése iktatta be.
-[^14]: A 2. § (1) bekezdés 70a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (9) bekezdése iktatta be.
-[^15]: A 2. § (1) bekezdés 70b. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (9) bekezdése iktatta be.
-[^16]: A 2. § (1) bekezdés 70c. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (9) bekezdése iktatta be.
-[^17]: A 2. § (1) bekezdés 72. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 1. pontja szerint módosított szöveg.
-[^18]: A 2. § (1) bekezdés 77a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (10) bekezdése iktatta be.
-[^19]: A 2. § (1) bekezdés 78. pontja a 271/2015. (IX. 18.) Korm. rendelet 2. § (11) bekezdésével megállapított szöveg.
-[^20]: A 2. § (1) bekezdés 80a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (12) bekezdése iktatta be.
-[^21]: A 2. § (1) bekezdés 81. pontja a 271/2015. (IX. 18.) Korm. rendelet 2. § (13) bekezdésével megállapított szöveg.
-[^22]: A 2. § (1) bekezdés 101a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be.
-[^23]: A 2. § (1) bekezdés 101b. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be.
-[^24]: A 2. § (1) bekezdés 101c. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be.
+[^3]: A 2. § (1) bekezdés 1a. pontját a 271/2015. (IX. 10.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^4]: A 2. § (1) bekezdés 12a. pontját a 271/2015. (IX. 10.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^5]: A 2. § (1) bekezdés 13a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (3) bekezdése iktatta be.
+[^6]: A 2. § (1) bekezdés 24a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^7]: A 2. § (1) bekezdés 24b. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^8]: A 2. § (1) bekezdés 24c. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^9]: A 2. § (1) bekezdés 42a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (5) bekezdése iktatta be.
+[^10]: A 2. § (1) bekezdés 44a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (6) bekezdése iktatta be.
+[^11]: A 2. § (1) bekezdés 44b. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (6) bekezdése iktatta be.
+[^12]: A 2. § (1) bekezdés 54a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (7) bekezdése iktatta be.
+[^13]: A 2. § (1) bekezdés 67a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (8) bekezdése iktatta be.
+[^14]: A 2. § (1) bekezdés 67b. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (8) bekezdése iktatta be.
+[^15]: A 2. § (1) bekezdés 70a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (9) bekezdése iktatta be.
+[^16]: A 2. § (1) bekezdés 70b. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (9) bekezdése iktatta be.
+[^17]: A 2. § (1) bekezdés 70c. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (9) bekezdése iktatta be.
+[^18]: A 2. § (1) bekezdés 72. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 1. pontja szerint módosított szöveg.
+[^19]: A 2. § (1) bekezdés 77a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (10) bekezdése iktatta be.
+[^20]: A 2. § (1) bekezdés 78. pontja a 271/2015. (IX. 18.) Korm. rendelet 2. § (11) bekezdésével megállapított szöveg.
+[^21]: A 2. § (1) bekezdés 80a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (12) bekezdése iktatta be.
+[^22]: A 2. § (1) bekezdés 81. pontja a 271/2015. (IX. 18.) Korm. rendelet 2. § (13) bekezdésével megállapított szöveg.
+[^23]: A 2. § (1) bekezdés 101a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be.
+[^24]: A 2. § (1) bekezdés 101b. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be.
+[^25]: A 2. § (1) bekezdés 101c. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be.

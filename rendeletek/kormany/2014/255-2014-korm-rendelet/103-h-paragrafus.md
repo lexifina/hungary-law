@@ -1,4 +1,4 @@
-## 57. [^151] Az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség, egyéb kedvezőtlen éghajlati jelenség, növénykárosító vagy katasztrófaesemény által okozott erdőkár megelőzéséhez és elhárításához nyújtott támogatás
+## 57. [^176] Az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség, egyéb kedvezőtlen éghajlati jelenség, növénykárosító vagy katasztrófaesemény által okozott erdőkár megelőzéséhez és elhárításához nyújtott támogatás
 
 103/H. § (1) Az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség, egyéb kedvezőtlen éghajlati jelenség, növénykárosító vagy katasztrófaesemény által okozott erdőkár megelőzéséhez és elhárításához nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében
 
@@ -32,4 +32,4 @@ b) az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlí
 
 (7) A növénykárosító által okozott erdőkár megelőzéséhez nyújtott támogatás esetén a növénykárosítóval való fertőzöttség bekövetkezésének kockázatát igazolni szükséges.
 
-[^151]: Az 57. alcímet (103/H. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^176]: Az 57. alcímet (103/H. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.

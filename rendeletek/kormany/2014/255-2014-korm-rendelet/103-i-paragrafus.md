@@ -1,4 +1,4 @@
-## 58. [^152] Az erdei ökoszisztémák ellenálló képessége és környezeti értéke növelését célzó beruházáshoz nyújtott támogatás
+## 58. [^177] Az erdei ökoszisztémák ellenálló képessége és környezeti értéke növelését célzó beruházáshoz nyújtott támogatás
 
 103/I. § (1) Az erdei ökoszisztémák ellenálló képessége és környezeti értéke növelését célzó beruházáshoz nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) esetén a beruházásnak környezetvédelmi célokra, ökoszisztéma-szolgáltatások nyújtására, az érintett területen lévő erdő vagy erdős terület közjóléti értéke növelése céljából vállalt kötelezettségek teljesítésére, illetve az ökoszisztémák éghajlatváltozás-mérséklési képességének javítására kell irányulnia, figyelemmel a hosszú távon jelentkező gazdasági előnyökre.
 
@@ -20,4 +20,4 @@ e) az erdőgazdálkodási terv vagy azzal egyenértékű eszköz kidolgozásána
 
 (4) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 100%-át.
 
-[^152]: Az 58. alcímet (103/I. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^177]: Az 58. alcímet (103/I. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.

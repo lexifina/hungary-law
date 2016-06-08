@@ -27,3 +27,7 @@
 13. 1–5. és 7–10. pontja alapján csekély összegű közszolgáltatási támogatás,
 
 14. 1–5. és 7–10. pontja alapján közszolgáltatásért járó ellentételezés
+
+15.[^119] 8. pontja alapján sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás
+
+[^119]: A 15. § 15. pontját a 127/2016. (VI. 7.) Korm. rendelet 4. §-a iktatta be.
