@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-319-20-
 | --- | --- | --- |
 | 2015-10-31 | 2015-319-20-22.1 | 319/2015. (X. 30.) Korm. rendelet |
 | 2016-03-04 | 2015-319-20-22.2 | 40/2016. (III. 3.) Korm. rendelet |
+| 2016-06-08 | 2015-319-20-22.3 | 131/2016. (VI. 7.) Korm. rendelet |
