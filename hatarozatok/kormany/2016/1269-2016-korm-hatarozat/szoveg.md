@@ -14,4 +14,6 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-3. az 1560/2015. (VIII. 7.) Korm. határozat 4. pont f) alpontját, valamint 16. pontját visszavonja.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
