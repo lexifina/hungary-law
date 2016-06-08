@@ -1,6 +1,6 @@
 ## Eljárási szabályok
 
-6/A. §[^41] (1) A 3–5. §-ban meghatározott támogatások kérelemre nyújthatók.
+6/A. §[^44] (1) A 3–5. §-ban meghatározott támogatások kérelemre nyújthatók.
 
 (2) A kérelmet a tervezett közfoglalkoztatás helye, az 5. § esetében a foglalkoztatás helye szerint illetékes járási hivatalhoz, több járási hivatal illetékességi területén megvalósuló közfoglalkoztatás, illetve foglalkoztatás esetén a közfoglalkoztató, az 5. § esetében a vállalkozás székhelye szerint illetékes járási hivatalhoz kell benyújtani.
 
@@ -24,4 +24,4 @@ f) a foglalkoztatni kívánt személy álláskeresőként eltöltött idejét.
 
 (6) A támogatási időszak meghosszabbítása esetén a közfoglalkoztatási jogviszony is meghosszabbítható a közfoglalkoztatási program végéig.
 
-[^41]: A 6/A. §-t a 472/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
+[^44]: A 6/A. §-t a 472/2015. (XII. 29.) Korm. rendelet 3. §-a iktatta be.
