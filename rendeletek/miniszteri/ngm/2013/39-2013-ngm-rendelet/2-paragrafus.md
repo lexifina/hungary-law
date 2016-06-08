@@ -6,8 +6,10 @@ a) a) és c) pontjában foglaltakat külön jogszabály alapján a nemzetközi k
 
 b) b) pontjában foglaltak alatt a Nemzetközi Közúti Fuvarozók Szervezete (a továbbiakban: nemzetközi szervezet) által a garanciavállaló egyesületek nevében megkötött, a vámhatóságok jogos követeléseinek kielégítésére szolgáló és Magyarországon a vámhatóság által elfogadott biztosítási szerződést kell érteni.
 
-(3) Az Egyezmény 9. melléklet II. rész 2. bekezdésében foglaltak alapján a kérelmezőnek az adóhatóság és vámhatóság által kiadott, 30 napnál nem régebbi, az adózás rendjéről szóló törvény szerinti együttes adóigazolást kell benyújtania arról, hogy nincs nyilvántartott tartozása. Továbbá írásban nyilatkoznia kell arról is, hogy nem áll csőd, felszámolási, végelszámolási, kényszertörlési, illetve kényszervégelszámolási eljárás alatt.
+(3)[^2] Az Egyezmény 9. melléklet II. rész 2. bekezdésében foglaltak alapján a kérelmezőnek az adóhatóság és vámhatóság által kiadott, 30 napnál nem régebbi, az adózás rendjéről szóló törvény szerinti adóigazolást kell benyújtania arról, hogy nincs nyilvántartott tartozása. Továbbá írásban nyilatkoznia kell arról is, hogy nem áll csőd, felszámolási, végelszámolási, kényszertörlési, illetve kényszervégelszámolási eljárás alatt.
 
 (4) Az Egyezmény 38. cikke értelmében a vámhatóság az Egyezmény 9. melléklet II. részében meghatározott feltételek teljesítése esetén is – ideiglenesen vagy véglegesen – az Egyezmény rendelkezéseinek kedvezményéből kizárhatja azt, aki a nemzetközi közúti árufuvarozásra vonatkozó jogszabályokat, illetve a vámjogszabályokat súlyosan megszegte.
 
 (5) A TIR-igazolvány használatára vonatkozó eljárás rendjét, valamint a végrehajtás során alkalmazható szigorú elszámolású formanyomtatványok mintáit, használatát, hamisítás elleni védelmét és megőrzését az azt kibocsátó nemzetközi szervezet állapítja meg és a nemzeti tagegyesülete útján ellenőrzi.
+
+[^2]: A 2. § (3) bekezdése a 17/2016. (VI. 7.) NGM rendelet 4. § (2) bekezdése szerint módosított szöveg.
