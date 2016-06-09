@@ -1,4 +1,4 @@
-17/K. § (1) A szövetkezeti hitelintézet kötvénykibocsátásához, tőkéjének leszállításához illetve felemeléséhez a Takarékbank Zrt. kifejezett, előzetes, írásbeli hozzájárulása is szükséges. A Takarékbank Zrt. a 17/Q. § (4) bekezdésében foglalt esetekben jogosult illetve köteles megtagadni a hozzájárulást illetve akkor is, ha a tervezett intézkedés a betétesek érdekeit veszélyeztetheti.
+17/K. § (1) A szövetkezeti hitelintézet kötvénykibocsátásához, tőkéjének leszállításához illetve felemeléséhez a Központi Bank kifejezett, előzetes, írásbeli hozzájárulása is szükséges. A Központi Bank a 17/Q. § (4) bekezdésében foglalt esetekben jogosult illetve köteles megtagadni a hozzájárulást illetve akkor is, ha a tervezett intézkedés a betétesek érdekeit veszélyeztetheti.
 
 (2) Szövetkezeti hitelintézet esetében a cégjegyzésre – ideértve a fizetési számla feletti rendelkezést is – és a szövetkezet nevében pénzügyi szolgáltatási tevékenységgel kapcsolatos kötelezettségvállalásra két igazgatósági tag, illetve két ügyvezető együttesen jogosult.
 
@@ -6,7 +6,7 @@
 
 (4) A szövetkezeti hitelintézet igazgatóságában legalább egy belső tagnak kell lennie.
 
-(5) A szövetkezeti hitelintézet legalább egy belső ellenőrt foglalkoztat. A szövetkezeti hitelintézet írásban megállapodhat arról, hogy a belső ellenőr más pénzügyi intézménnyel közös foglalkoztatása ellen nem emel kifogást. Ugyanazon személy legfeljebb három szövetkezeti hitelintézetnél, pénzügyi vállalkozásnál, illetve pénzforgalmi intézménynél foglalkoztatható belső ellenőrként.
+(5) A szövetkezeti hitelintézet legalább egy belső ellenőrt foglalkoztat.
 
 (6) A Hpt. 260. §-ában előírtakon túlmenően további követelmény a szövetkezeti hitelintézeti természetes személy könyvvizsgálóval szemben, hogy
 
@@ -18,7 +18,7 @@ c) az egy tulajdonosi csoporthoz tartozó szövetkezeti hitelintézettől, befek
 
 (7) A hitelintézeti könyvvizsgáló társaságokkal szemben a Hpt. 260 §-ában foglaltakon túlmenően további követelmény, hogy a könyvvizsgálói társaságon belül a (6) bekezdésben foglalt követelményeknek megfelelő könyvvizsgáló – egyidejűleg – legfeljebb öt szövetkezeti hitelintézetnél láthat el könyvvizsgálói feladatot.
 
-(8) A könyvvizsgálónak a Hpt. 263. § (1) bekezdésében foglaltakra vonatkozó megállapításait külön kiegészítő jelentésben kell rögzítenie, és ezt az érintett szövetkezeti hitelintézet igazgatóságának, az ügyvezetőnek, a felügyelő bizottság elnökének, a Felügyeletnek valamint a Takarékbank Zrt.-nek legkésőbb a tárgyévet követő év május 31-éig meg kell küldenie.
+(8) A könyvvizsgálónak a Hpt. 263. § (1) bekezdésében foglaltakra vonatkozó megállapításait külön kiegészítő jelentésben kell rögzítenie, és ezt az érintett szövetkezeti hitelintézet igazgatóságának, az ügyvezetőnek, a felügyelő bizottság elnökének, a Felügyeletnek valamint a Központi Banknak legkésőbb a tárgyévet követő év május 31-éig meg kell küldenie.
 
 (9) A szövetkezeti hitelintézet által a Hpt. 208. §-a szerint fizetendő felügyeleti díj a Hpt. 208. § (3) bekezdés szerinti alapdíjként kétszázezer forint és a (10) bekezdésben szereplő változó díj.
 

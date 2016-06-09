@@ -1,6 +1,6 @@
 17/H. § (1) Szövetkezeti hitelintézet csak az Integrációs Szervezet tagjaként működhet és folyamatosan köteles teljesíteni a 3. § (2) bekezdéséből és az e törvényből fakadó egyéb kötelezettségeit is.
 
-(2) A szövetkezeti hitelintézet alapszabálya a Takarékbank Zrt. által meghatározott mintaalapszabálynak megfelelően módosítható, illetve ha a Takarékbank Zrt. új minta alapszabályt ad ki, a szövetkezeti hitelintézet alapszabályát köteles legkésőbb 60 napon belül annak megfelelően módosítani.
+(2) A szövetkezeti hitelintézet alapszabálya a Központi Bank által meghatározott mintaalapszabálynak megfelelően módosítható, illetve ha a Központi Bank új minta alapszabályt ad ki, a szövetkezeti hitelintézet alapszabályát köteles legkésőbb 60 napon belül annak megfelelően módosítani.
 
 (3) A szövetkezet formában működő szövetkezeti hitelintézet esetében a tag csak a szövetkezet tagját hatalmazhatja meg a közgyűlésen történő képviseletre azzal, hogy egy tag kizárólag egy további tagot képviselhet.
 

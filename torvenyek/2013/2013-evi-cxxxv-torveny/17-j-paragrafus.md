@@ -4,4 +4,4 @@ a) a külön törvényben szabályozott tagi kölcsön nyújtásának feltétele
 
 b) meg kell határoznia azokat az alapelveket, amelyek révén üzletpolitikai kedvezményeket nyújt a tagoknak, amennyiben nem kizárólag tagoknak nyújt szolgáltatásokat.
 
-(2) Szövetkezeti hitelintézet számviteli törvény szerinti beszámolójának elfogadásához a Takarékbank Zrt. előzetes jóváhagyása szükséges.
+(2) Szövetkezeti hitelintézet számviteli törvény szerinti beszámolójának elfogadásához a Központi Bank előzetes jóváhagyása szükséges.

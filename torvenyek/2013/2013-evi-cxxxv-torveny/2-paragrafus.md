@@ -12,6 +12,6 @@
 
 (4) Az Integrációs Szervezet kötelező intézményvédelmi szervezet.
 
-(5) Az Integrációs Szervezet alapszabályát az Integrációs Szervezet közgyűlése fogadja el a 20/A. § (8) bekezdése alapján.
+(5) Az Integrációs Szervezet alapszabályát az Integrációs Szervezet közgyűlése fogadja el a.
 
 (6) Az Integrációs Szervezet működésével kapcsolatos adatok az információs önrendelkezési jogról és az információszabadságról szóló 2011. évi CXII. törvény 27. § (2) bekezdés e) pontja szerint minősülnek.
