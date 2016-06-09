@@ -34,7 +34,7 @@ fg) tárgyi eszköz fejlesztéséhez, beszerzéséhez
 
 használható fel;
 
-g)[^6] támogatási időszak: 3 egymást követő naptári év. A következő támogatási időszak az előző támogatási időszak lejártakor kezdődik;
+g)[^6] támogatási időszak: 1 naptári év. A következő támogatási időszak az előző támogatási időszak lejártakor kezdődik;
 
 h)[^7] igazgatóság: a Magyar Államkincstár területi szerve;
 
@@ -49,7 +49,7 @@ h)[^7] igazgatóság: a Magyar Államkincstár területi szerve;
 [^3]: Az 1. § (2) bekezdés d) pontját a 279/2009. (XII. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 317/2012. (XI. 13.) Korm. rendelet 13. § (2) bekezdése szerint módosított szöveg.
 [^4]: Az 1. § (2) bekezdés e) pontját a 279/2009. (XII. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^5]: Az 1. § (2) bekezdés f) pontját a 279/2009. (XII. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^6]: Az 1. § (2) bekezdés g) pontját a 279/2009. (XII. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^6]: Az 1. § (2) bekezdés g) pontját a 279/2009. (XII. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 116/2016. (VI. 6.) Korm. rendelet 26. §-ával megállapított szöveg.
 [^7]: Az 1. § (2) bekezdés h) pontját a 279/2009. (XII. 9.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 357/2010. (XII. 30.) Korm. rendelet 16. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^8]: Az 1. § (3) bekezdését a 371/2007. (XII. 23.) Korm. rendelet 11. § (3) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 279/2009. (XII. 9.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^9]: Az 1. § (4) bekezdését a 321/2006. (XII. 23.) Korm. rendelet 9. § (1) bekezdése iktatta be, szövege a 362/2008. (XII. 31.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 78. § (3) bekezdés a) pontja szerint módosított szöveg.
