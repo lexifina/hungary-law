@@ -1,4 +1,4 @@
-12. §[^13] (1) A rehabilitációs hatóság a személyes vizsgálatot mellőzheti, ha
+12. §[^14] (1) A rehabilitációs hatóság a személyes vizsgálatot mellőzheti, ha
 
 a) a rehabilitációs hatóság vagy jogelődje által kiállított, az érintett személy rendelkezésére álló szakvéleményben, szakhatósági állásfoglalásban vagy határozatban foglaltak szerint az érintett személy állapota végleges,
 
@@ -20,4 +20,4 @@ c) az érintett személy állapota a rendelkezésre álló orvosi dokumentáció
 
 (8) A kiegészítő egészségügyi és a képességfelmérő vizsgálat elvégzésére a rehabilitációs hatóság együttműködési megállapodást köthet a megfelelő személyi és tárgyi feltételekkel rendelkező szolgáltatóval.
 
-[^13]: A 12. § a 247/2015. (IX. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^14]: A 12. § a 247/2015. (IX. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
