@@ -2,9 +2,9 @@
 
 217. § (1) Az OBA
 
-a) a hitelintézet tevékenységi engedélye 33. § (1) bekezdésében meghatározott visszavonásáról hozott határozat közlésének,
+a) a hitelintézet tevékenységi engedélye 33. § (1) bekezdésében meghatározott visszavonásáról hozott határozat közlésének vagy
 
-b) a Felügyelet a Szhitv. 17/T. § (5) bekezdése alapján hozott határozata közlésének vagy
+b)
 
 c) a felszámolási eljárás kezdeményezése esetén a bíróság felszámolást elrendelő végzése közzétételének
 

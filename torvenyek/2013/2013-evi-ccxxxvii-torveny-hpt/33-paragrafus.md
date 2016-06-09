@@ -10,6 +10,6 @@ a) a bíróság elrendeli a hitelintézet felszámolását,
 
 b) a hitelintézet az OBA-val fennálló tagsági jogviszonya kizárással megszűnt,
 
-c) a Szhitv.-ben meghatározott Integrációs Szervezetnek tagja és a Szhitv.-ben meghatározott, engedély visszavonásra vonatkozó feltétel teljesül.
+c)
 
 (3) Hitelintézet tevékenységi engedélyét a Felügyelet a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter jóváhagyásával vonhatja vissza.
