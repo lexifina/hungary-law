@@ -6,7 +6,7 @@
 
 a) a szociális intézmény, a gyermekjóléti és gyermekvédelmi intézmény intézményvezetője, valamint az intézményvezető helyettese,
 
-b) a Nemzeti Család- és Szociálpolitikai Intézet (a továbbiakban: Intézet) főigazgatója, igazgatója és
+b)[^25] a Család-, Ifjúság- és Népesedéspolitikai Intézet (a továbbiakban: Intézet) főigazgatója, igazgatója és
 
 c) az Intézet gazdasági vezetője.
 
@@ -20,7 +20,8 @@ c) az (1) bekezdés a) pontja szerinti intézmény gazdasági vezetője, a vezet
 
 d) az Intézet igazgatóhelyettese, főosztályvezetője, osztályvezetője és csoportvezetője.
 
-(3)[^25] A magasabb vezető beosztásra történő megbízás feltétele az (1) bekezdés b) és c) pontja szerinti megbízás kivételével legalább öt év felsőfokú végzettséget vagy felsőfokú szakmai képesítést igénylő, a gyermekvédelem, a szociális ellátás, az egészségügyi ellátás, illetve a közoktatás területén betöltött munkakörben szerzett szakmai gyakorlat.
+(3)[^26] A magasabb vezető beosztásra történő megbízás feltétele az (1) bekezdés b) és c) pontja szerinti megbízás kivételével legalább öt év felsőfokú végzettséget vagy felsőfokú szakmai képesítést igénylő, a gyermekvédelem, a szociális ellátás, az egészségügyi ellátás, illetve a közoktatás területén betöltött munkakörben szerzett szakmai gyakorlat.
 
 [^24]: A 3. § a 60/2011. (IV. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^25]: A 3. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 31. § (2) bekezdése szerint módosított szöveg.
+[^25]: A 3. § (1) bekezdés b) pontja a 116/2016. (VI. 6.) Korm. rendelet 15. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^26]: A 3. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 31. § (2) bekezdése szerint módosított szöveg.
