@@ -1,4 +1,4 @@
-4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^218]
+4. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^231]
 
 ## KÉRELEM
 
@@ -76,7 +76,9 @@ az ápolási díj megállapítására
 
 1.2.3.3.1. ⬜ részesülök és annak havi összege: .....................,
 
-1.2.3.3.2. ⬜ nem részesülök;
+1.2.3.3.2. ⬜ nem részesülök, de részemre más rendszeres pénzellátás megállapítására irányuló eljárás van folyamatban,
+
+1.2.3.3.3. ⬜ nem részesülök és részemre más rendszeres pénzellátás megállapítására irányuló eljárás nincs folyamatban;
 
 1.2.3.4. az ápolási tevékenységet:
 
@@ -102,7 +104,7 @@ végzem (a megfelelő aláhúzandó);
 
 ⬜ ha rendelkezik a rehabilitációs hatóság érvényes és hatályos, az ápolt személy tekintetében elvégzett komplex minősítés eredményéről kiállított szakvéleményével, szakhatósági állásfoglalásával, bizottsági állásfoglalásával, határozatával vagy hatósági bizonyítványával és azt a kérelemhez csatolta.
 
-1.2.6. Ha az 1.2.5. alpont szerinti irattal rendelkezik, de azt nem csatolta a kérelemhez, kérjük, adja meg annak a rehabilitációs szakigazgatási szervnek a megnevezését és címét, amelyik az ápolt személy komplex minősítésének eredményéről szóló iratot kiállította:
+1.2.6. Ha az 1.2.5. alpont szerinti irattal rendelkezik, de azt nem csatolta a kérelemhez, kérjük, adja meg annak a rehabilitációs hatóságnak a megnevezését és címét, amelyik az ápolt személy komplex minősítésének eredményéről szóló iratot kiállította:
 
 2. Az ápolt személyre vonatkozó adatok
 
@@ -184,4 +186,4 @@ e) lakáson belül – segédeszköz igénybevételével is – közlekedni.
 
 4.4.2. a kiemelt ápolási díjra való jogosultságot megalapozó körülményekről szóló miniszteri rendelet szerinti igazolást.
 
-[^218]: A 4. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § d) pontjával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 12. § (2) bekezdése, a 69/2014. (III. 13.) Korm. rendelet 13. § b) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § d) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés v) pontja, a 417/2015. (XII. 23.) Korm. rendelet 29. § b) pontja szerint módosított szöveg.
+[^231]: A 4. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § d) pontjával megállapított, az 509/2013. (XII. 29.) Korm. rendelet 12. § (2) bekezdése, a 69/2014. (III. 13.) Korm. rendelet 13. § b) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § d) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés v) pontja, a 417/2015. (XII. 23.) Korm. rendelet 29. § b) pontja, a 116/2016. (VI. 6.) Korm. rendelet 23. § (2) bekezdés d) pontja szerint módosított szöveg.

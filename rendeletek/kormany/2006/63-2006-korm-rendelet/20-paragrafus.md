@@ -1,3 +1,3 @@
-20. §[^107]
+20. §[^113]
 
-[^107]: A 20. §-t a 24/2015. (II. 20.) Korm. rendelet 28. § h) pontja hatályon kívül helyezte.
+[^113]: A 20. §-t a 24/2015. (II. 20.) Korm. rendelet 28. § h) pontja hatályon kívül helyezte.

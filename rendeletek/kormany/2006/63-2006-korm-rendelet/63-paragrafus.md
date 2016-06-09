@@ -1,3 +1,3 @@
-## 62. §[^208] A szociális és gyermekvédelmi ellátások országos nyilvántartásáról szóló 392/2013. (XI. 12.) Korm. rendelettel megállapított 1. § (1) bekezdését, 5/A. §-t, 35. § (1) bekezdését, valamint 2. számú mellékletet, 2/A. számú mellékletet, 3. számú mellékletet, 4. számú mellékletet, 9. számú mellékletet és 12. számú mellékletet a 2013. december 15-ét követően indult ügyekben kell alkalmazni.
+63. §[^219]
 
-[^208]: A 62. §-t a 392/2013. (XI. 12.) Korm. rendelet 13. §-a iktatta be.
+[^219]: A 63. §-t az 509/2013. (XII. 29.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 116/2016. (VI. 6.) Korm. rendelet 25. § b) pontja.

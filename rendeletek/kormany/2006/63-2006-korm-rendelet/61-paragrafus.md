@@ -1,3 +1,3 @@
-## 60. §[^206] Az egyes kormányrendeleteknek a pénzbeli és természetbeni szociális ellátásokkal összefüggő módosításáról szóló 331/2011. (XII. 29.) Korm. rendelettel megállapított 21. § (2) bekezdésben, valamint (5)–(7) bekezdésben foglaltakat a 2012. március hónapjában folyósításra kerülő – ide értve a rendelet hatálybalépésekor már fennálló jogosultság alapján folyósított – normatív lakásfenntartási támogatások tekintetében kell először alkalmazni.
+61. §[^217]
 
-[^206]: A 60. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 341. pontja hatályon kívül helyezte, újonnan a 331/2011. (XII. 29.) Korm. rendelet 15. §-a iktatta be.
+[^217]: A 61. §-t a 116/2016. (VI. 6.) Korm. rendelet 25. § b) pontja hatályon kívül helyezte.

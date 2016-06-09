@@ -1,3 +1,3 @@
-19. §[^106]
+19. §[^112]
 
-[^106]: A 19. §-t a 358/2010. (XII. 30.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte.
+[^112]: A 19. §-t a 358/2010. (XII. 30.) Korm. rendelet 15. § f) pontja hatályon kívül helyezte.

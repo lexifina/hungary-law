@@ -1,4 +1,4 @@
-3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^217]
+3. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^230]
 
 ## KÉRELEM
 
@@ -132,13 +132,13 @@ A kérelmező, valamint házastársa (élettársa) és a velük egy háztartásb
 
 3.1.2. jelölje aláhúzással, ha
 
-a) rendelkezik a Nemzeti Rehabilitációs és Szociális Hivatal vagy a rehabilitációs szakigazgatási szerv érvényes és hatályos szakvéleményével vagy szakhatósági állásfoglalásával az egészségi állapotról, egészségkárosodásról vagy a megváltozott munkaképességről, és ezt csatolta vagy
+a) rendelkezik a Nemzeti Rehabilitációs és Szociális Hivatal vagy a rehabilitációs hatóság érvényes és hatályos szakvéleményével vagy szakhatósági állásfoglalásával az egészségi állapotról, egészségkárosodásról vagy a megváltozott munkaképességről, és ezt csatolta,
 
-b) vakok személyi járadékában részesül, és csatolta a Magyar Államkincstár területileg illetékes Igazgatóságának igazolását annak folyósításáról, vagy
+b) vakok személyi járadékában részesül, és csatolta a családtámogatásokkal kapcsolatos feladatkörében eljáró fővárosi és megyei kormányhivatal igazolását annak folyósításáról, vagy
 
 c) fogyatékossági támogatásban részesül.
 
-3.1.3. Amennyiben Ön vakok személyi járadékában részesül, azonban a Magyar Államkincstár Igazgatóságának erre vonatkozó igazolását nem csatolta, kérjük, adja meg az ellátást folyósító hatóság megnevezését és címét:
+3.1.3. Amennyiben Ön vakok személyi járadékában részesül, azonban a családtámogatásokkal kapcsolatos feladatkörében eljáró fővárosi és megyei kormányhivatal erre vonatkozó igazolását nem csatolta, kérjük, adja meg az ellátást folyósító hatóság megnevezését és címét:
 
 3.2. Kérjük, hogy
 
@@ -148,7 +148,9 @@ c) fogyatékossági támogatásban részesül.
 
 a) annak az állami foglalkoztatási szervként eljáró járási hivatalnak az igazolását, amely a munkanélküli járadékot, álláskeresési járadékot, álláskeresési segélyt, vállalkozói járadékot folyósította, vagy amellyel a kérelem benyújtása előtt együttműködött;
 
-b) a korábban folyósított szociális ellátások megszüntetéséről hozott határozatot vagy az ellátást korábban folyósító szerv igazolását.
+b) a korábban folyósított szociális ellátások megszüntetéséről hozott határozatot vagy az ellátást korábban folyósító szerv igazolását;
+
+c) annak a rehabilitációs hatóságnak az igazolását, amellyel a kérelem benyújtása előtt együttműködött.
 
 3.2.3. Amennyiben Ön e jogcímen kéri az aktív korúak ellátására való jogosultság megállapítását és köznevelési intézményben tanulmányokat folytató, 14 év alatti gyermekével él egy háztartásban, kérjük, alább külön jelölje, ha csatolta a köznevelési intézmény igazolását arról, hogy a gyermek napközbeni ellátását nem tudja biztosítani:
 
@@ -160,9 +162,17 @@ a) a 3.2.2. pont a) alpontjában foglalt igazolást nem csatolta, kérjük, adja
 
 b) a 3.2.2. pont b) alpontjában foglalt határozatot, igazolást nem csatolta, kérjük, adja meg a korábbi szociális ellátást megszüntető szerv megnevezését és címét:
 
+c) a 3.2.2. pont c) alpontjában foglalt igazolást nem csatolta, kérjük, adja meg annak a rehabilitációs hatóságnak a megnevezését és címét, amellyel Ön együttműködött:
+
 3.3. Kérjük, hogy
 
 ⬜ itt jelölje be, ha Ön az elmúlt három évben aktív korúak ellátásában részesült.
+
+3.4. Más rendszeres pénzellátás megállapítására irányuló esetleges eljárás státusza:
+
+3.4.1. ⬜ az aktív korúak ellátásának megállapítására irányuló jelen kérelem benyújtásakor más rendszeres pénzellátás megállapítására irányuló eljárás is folyamatban van;
+
+3.4.2. ⬜ az aktív korúak ellátásának megállapítására irányuló jelen kérelem benyújtásakor más rendszeres pénzellátás megállapítására irányuló eljárás nincs folyamatban.
 
 4. Nyilatkozatok
 
@@ -170,7 +180,7 @@ b) a 3.2.2. pont b) alpontjában foglalt határozatot, igazolást nem csatolta, 
 
 4.1.1. a szociális hatáskört gyakorló szerv – az állami adóhatóság útján – ellenőrizheti a kérelemben közölt jövedelmi adatok valódiságát,
 
-4.1.2. köteles vagyok a feltüntetett adatokban bekövetkezett változást 15 napon belül bejelenteni az eljáró hatóságnak.
+4.1.2. köteles vagyok a feltüntetett adatokban bekövetkezett változást 15 napon belül, valamint a más rendszeres pénzellátás megállapítására irányuló eljárás indítását 8 napon belül bejelenteni az eljáró hatóságnak.
 
 4.2. Hozzájárulok a kérelemben szereplő adatoknak a szociális igazgatási eljárás során történő felhasználásához.
 
@@ -190,7 +200,7 @@ Felelősségem tudatában kijelentem, hogy
 
 4.3.6. vállalom az elhelyezkedésem érdekében szükséges, az állami foglalkoztatási szervnél történő nyilvántartásba vételt és az állami foglalkoztatási szervvel való együttműködést,
 
-4.3.7. vállalom az együttműködésre kijelölt szervvel való együttműködést,
+4.3.7.
 
 4.3.8. a kérelemben közölt adatok a valóságnak megfelelnek.
 
@@ -242,7 +252,7 @@ nélkül, amennyiben ez az állapot a gyermek 25. életévének betöltését me
 
 5.2. A jövedelmi adatok kitöltéséhez:
 
-5.2.1. „Jövedelem”: a személyi jövedelemadóról szóló törvény szerint meghatározott, belföldről vagy külföldről származó – megszerzett – vagyoni érték (bevétel), ideértve a jövedelemként figyelembe nem vett bevételt és az adómentes jövedelmet is, továbbá az a bevétel, amely után az egyszerűsített vállalkozói adóról, illetve az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni.
+5.2.1. „Jövedelem”: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szjatv.) szerint meghatározott, belföldről vagy külföldről származó – megszerzett – vagyoni érték (bevétel), ideértve az Szjatv. 27. § (1) bekezdés b) pontjában meghatározott bevételt, valamint az Szjatv. 1. számú melléklete szerinti adómentes bevételt, továbbá az a bevétel, amely után az egyszerűsített vállalkozói adóról szóló törvény, a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvény vagy az egyszerűsített közteherviselési hozzájárulásról szóló törvény szerint adót, illetve hozzájárulást kell fizetni.
 
 5.2.2. A jövedelmi adatok alatt havi nettó jövedelmet kell érteni. A nettó jövedelem kiszámításánál a bevételt az elismert költségekkel és a befizetési kötelezettséggel csökkentett összegben kell feltüntetni.
 
@@ -252,7 +262,7 @@ nélkül, amennyiben ez az állapot a gyermek 25. életévének betöltését me
 
 5.2.3. Ha a magánszemély az egyszerűsített vállalkozói adó vagy egyszerűsített közteherviselési hozzájárulás alapjául szolgáló bevételt szerez, a bevétel csökkenthető a személyi jövedelemadóról szóló törvény szerint elismert költségnek minősülő igazolt kiadásokkal, ennek hiányában a bevétel 40%-ával. Ha a mezőgazdasági őstermelő adóévi őstermelésből származó bevétele nem több a kistermelés értékhatáránál (illetve ha részére támogatást folyósítottak, annak a folyósított támogatással növelt összegénél), akkor a bevétel csökkenthető az igazolt költségekkel, továbbá a bevétel 40%-ának megfelelő összeggel vagy a bevétel 85%-ának, illetve állattenyésztés esetén 94%-ának megfelelő összeggel.
 
-5.2.4. Nem minősül jövedelemnek, így nem kell feltüntetni a jövedelmek között az önkormányzati segélyt, a rendkívüli települési támogatást, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást és az a melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a tizenharmadik havi nyugdíjat, a szépkorúak jubileumi juttatását, a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, az alkalmi munkavállalói könyvvel történő munkavégzés, az egyszerűsített foglalkoztatás, valamint az adórendszeren kívüli keresettel járó háztartási munka havi ellenértékét, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást.
+5.2.4. Nem minősül jövedelemnek, így nem kell feltüntetni a jövedelmek között a rendkívüli települési támogatást, a lakásfenntartási támogatást, az adósságcsökkentési támogatást, valamint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez, a gyógyszerkiadások viseléséhez és a lakhatási kiadásokhoz kapcsolódó hátralékot felhalmozó személyek részére nyújtott települési támogatást, a rendszeres gyermekvédelmi kedvezmény keretében nyújtott támogatást és az a melletti pótlékot, a nevelőszülők számára fizetett nevelési díjat és külön ellátmányt, az anyasági támogatást, a tizenharmadik havi nyugdíjat, a szépkorúak jubileumi juttatását, a súlyos mozgáskorlátozott személyek pénzbeli közlekedési kedvezményeit, a vakok személyi járadékát és a fogyatékossági támogatást, a fogadó szervezet által az önkéntesnek külön törvény alapján biztosított juttatást, az alkalmi munkavállalói könyvvel történő munkavégzés, az egyszerűsített foglalkoztatás, valamint az adórendszeren kívüli keresettel járó háztartási munka havi ellenértékét, a házi segítségnyújtás keretében társadalmi gondozásért kapott tiszteletdíjat, az energiafelhasználáshoz nyújtott támogatást. Nem minősül továbbá jövedelemnek a szociális szövetkezet (ide nem értve az iskolaszövetkezetet) tagja által a szövetkezetben végzett tevékenység ellenértékeként megszerzett, a személyi jövedelemadóról szóló törvény alapján adómentes bevétel, az életvitelszerűen lakott ingatlan eladása, valamint az életvitelszerűen lakott ingatlanon fennálló vagyoni értékű jog átruházása esetén az eladott ingatlan, illetve átruházott vagyoni értékű jog ellenértékének azon része, amelyből az eladást vagy átruházást követő egy éven belül az eladó vagy átruházó saját, vagy közeli hozzátartozója életvitelszerű, tényleges lakhatásának célját szolgáló ingatlan vagy vagyoni értékű jog vásárlására kerül sor, valamint az elengedett tartozás, illetve a megszűnt kötelezettség, ha a tartozás elengedésére vagy a kötelezettség megszűnésére a természetes személyek adósságrendezési eljárásában, továbbá közüzemi szolgáltatás szolgáltatója, illetve pénzügyi intézmény által, az adós megélhetését veszélyeztető szociális helyzete miatt került sor.
 
 5.2.5. A jövedelemszámításnál figyelmen kívül kell hagyni a közfoglalkoztatásból származó havi jövedelemnek a foglalkoztatást helyettesítő támogatás összegét meghaladó részét.
 
@@ -276,7 +286,7 @@ kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
 5.2.8.4. Nyugellátás és egyéb nyugdíjszerű rendszeres szociális ellátások: öregségi, özvegyi és szülői nyugdíj, árvaellátás, baleseti hozzátartozói nyugellátások, korhatár előtti ellátás, szolgálati járandóság, a balettművészeti életjáradék, az átmeneti bányászjáradék, rokkantsági ellátás, rehabilitációs ellátás, bányász dolgozók egészségkárosodási járadéka, rokkantsági járadék, rehabilitációs járadék, politikai rehabilitációs ellátások, házastársi pótlék, házastárs után járó jövedelempótlék, közszolgálati járadék.
 
-5.2.8.5. Önkormányzat, járási hivatal és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, a rendszeres szociális segély, az egészségkárosodási és gyermekfelügyeleti támogatás, a foglalkoztatást helyettesítő támogatás, az ápolási díj; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
+5.2.8.5. Önkormányzat, járási hivatal és munkaügyi szervek által folyósított ellátások: különösen az időskorúak járadéka, az egészségkárosodási és gyermekfelügyeleti támogatás, a foglalkoztatást helyettesítő támogatás, az ápolási díj; munkanélküli járadék, álláskeresési járadék, álláskeresési segély, képzési támogatásként folyósított keresetpótló juttatás.
 
 5.2.8.6. Egyéb jövedelem: például az ösztöndíj, szakképzéssel összefüggő pénzbeli juttatások, a felzárkózást elősegítő megélhetési támogatás, a nevelőszülői díj, szociális gondozói díj, végkielégítés és állampapírból származó jövedelem, ingatlan és ingó tárgyak értékesítéséből, vagyoni értékű jog átruházásából származó jövedelem, életjáradékból, föld és más ingatlan bérbeadásából származó jövedelem, illetve minden olyan jövedelem, amely az előző sorokban nem került feltüntetésre.
 
@@ -298,7 +308,7 @@ c) fogyatékossági támogatásban részesül.
 
 5.3.2.2. az 5.3.1. pont b) alpontjában meghatározott esetben
 
-a) mellékelni kell a Magyar Államkincstár illetékes területi szervének igazolását arról, hogy a vak személy vakok személyi járadékában részesül, vagy
+a) mellékelni kell a családtámogatásokkal kapcsolatos feladatkörében eljáró fővárosi és megyei kormányhivatal igazolását arról, hogy a vak személy vakok személyi járadékában részesül, vagy
 
 b) meg kell adni a folyósító szerv nevét és címét.
 
@@ -332,4 +342,4 @@ d) az 5.3.3. pont d) és e) alpontjában meghatározott esetben: a korábban meg
 
 a törvényes képviselője jogosult az aláírásra.
 
-[^217]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított, a 69/2014. (III. 13.) Korm. rendelet 13. § a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § c) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés u) pontja, a 417/2015. (XII. 23.) Korm. rendelet 28. §-a szerint módosított szöveg.
+[^230]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított, a 69/2014. (III. 13.) Korm. rendelet 13. § a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § c) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés u) pontja, a 417/2015. (XII. 23.) Korm. rendelet 28. §-a, a 116/2016. (VI. 6.) Korm. rendelet 23. § (2) bekezdés c) pontja szerint módosított szöveg.

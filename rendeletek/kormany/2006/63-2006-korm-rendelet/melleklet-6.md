@@ -18,6 +18,6 @@
 
 ## munkahelyének címe
 
-6. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^220]
+6. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^233]
 
-[^220]: A 6. számú melléklet a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés n) pontja szerint módosított szöveg.
+[^233]: A 6. számú melléklet a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés n) pontja szerint módosított szöveg.

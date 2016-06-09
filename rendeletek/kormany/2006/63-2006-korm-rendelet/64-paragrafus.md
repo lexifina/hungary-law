@@ -1,3 +1,3 @@
-## 63. §[^209] Az ápolási díj megállapítása vagy felülvizsgálata iránt 2014. január 1-jén folyamatban lévő ügyben a kérelmet benyújtó személy vagy az ápolási díj jogosultja a 25/A. § (1) bekezdés a) vagy b) pontja szerinti igazolás valamelyikének benyújtásával kérheti a kiemelt ápolási díjra való jogosultság megállapítását.
+64. §[^220]
 
-[^209]: A 63. §-t az 509/2013. (XII. 29.) Korm. rendelet 11. §-a iktatta be.
+[^220]: A 64. §-t a 69/2014. (III. 13.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 116/2016. (VI. 6.) Korm. rendelet 25. § b) pontja.

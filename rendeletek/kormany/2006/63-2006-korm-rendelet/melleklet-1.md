@@ -1,6 +1,6 @@
-## 68. §[^213] A területi államigazgatási szervezetrendszer átalakításával összefüggő egyes kormányrendeletek módosításáról szóló 70/2015. (III. 30.) Korm. rendelettel megállapított rendelkezéseket a 2015. április 1-jén folyamatban lévő hatósági ügyekben is alkalmazni kell.
+## 68. §[^226] A területi államigazgatási szervezetrendszer átalakításával összefüggő egyes kormányrendeletek módosításáról szóló 70/2015. (III. 30.) Korm. rendelettel megállapított rendelkezéseket a 2015. április 1-jén folyamatban lévő hatósági ügyekben is alkalmazni kell.
 
-1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^214]
+1. számú melléklet a 63/2006. (III. 27.) Korm. rendelethez[^227]
 
 ## Vagyonnyilatkozat
 
@@ -20,61 +20,187 @@ I. A kérelmező személyes adatai
 
 ## Társadalombiztosítási Azonosító Jele:
 
-II. A kérelmező és a vele együttélő közeli hozzátartozójának, lakásfenntartási támogatás esetén a háztartás valamennyi tagjának vagyona
+II. A kérelmező és a vele együtt élő közeli hozzátartozójának vagyona
 
 ## A. Ingatlanok
 
-1. Lakástulajdon és lakótelek-tulajdon (vagy állandó, illetve tartós használat): címe: ................. város/község ................... út/utca .................... hsz. alapterülete: ........... m2, tulajdoni hányad: ..........................., a szerzés ideje: ................ év
+1. Lakástulajdon és lakótelek-tulajdon (vagy állandó, illetve tartós használat):
 
-Becsült forgalmi érték:* .......................................... Ft
+– címe: ............................................................................................................................... város/község
 
-Haszonélvezeti joggal terhelt: igen nem (a megfelelő aláhúzandó)
+................................................................................................. út/utca .................... hsz.,
 
-2. Üdülőtulajdon és üdülőtelek-tulajdon (vagy állandó, illetve tartós használat): címe: ....................... város/község .................................. út/utca .................... hsz. alapterülete: ........... m2, tulajdoni hányad: ...................., a szerzés ideje: ................ év
+– alapterülete: ........... m2,
 
-Becsült forgalmi érték:* .............................................. Ft
+– tulajdoni hányad: ...........................,
 
-3. Egyéb, nem lakás céljára szolgáló épület-(épületrész-)tulajdon (vagy állandó használat): megnevezése (zártkerti építmény, műhely, üzlet, műterem, rendelő, garázs stb.): ............................ címe: ...................................... város/község ........................... út/utca .................... hsz. alapterülete: ........... m2, tulajdoni hányad: ................., a szerzés ideje: ................ év
+– a szerzés ideje: ................ év.
 
-Becsült forgalmi érték:* .............................................. Ft
+Becsült forgalmi érték:* .......................................... Ft
 
-4. Termőföldtulajdon (vagy állandó használat): megnevezése: .......................... címe: ........................................ város/község .............................. út/utca .................... hsz. alapterülete: ........... m2, tulajdoni hányad: ...................., a szerzés ideje: ................ év
+Az ingatlan-nyilvántartásba az ingatlanra vonatkozóan bejegyzett terhek, korlátolt dologi jogok, vagyoni értékű jogok vagy feljegyzett tények:
 
-Becsült forgalmi érték:* .............................................. Ft
+................................ (pl. haszonélvezet, jelzálogjog, elidegenítési és terhelési tilalom, használati jogok, szolgalom).
 
-II. Egyéb vagyontárgyak
+2. Üdülőtulajdon és üdülőtelek-tulajdon (vagy állandó, illetve tartós használat):
 
-Gépjármű:
+– címe: .................................................................................................................................. város/község
 
-a) személygépkocsi: ......................................... típus .................. rendszám
+................................................................................................. út/utca .................... hsz.,
 
-szerzés ideje, valamint a gyártás éve: .............................................................
+– alapterülete: ........... m2,
 
-Becsült forgalmi érték:** ...................................... Ft
+– tulajdoni hányad: ...........................,
 
-b) tehergépjármű, autóbusz, motorkerékpár, vízi- vagy egyéb jármű: ................................ típus ..................... rendszám
+– a szerzés ideje: ................ év.
 
-szerzés ideje, valamint a gyártás éve: .................................................................
+Becsült forgalmi érték:* .......................................... Ft
 
-Becsült forgalmi érték:** ............................................ Ft
+Az ingatlan-nyilvántartásba az ingatlanra vonatkozóan bejegyzett terhek, korlátolt dologi jogok, vagyoni értékű jogok vagy feljegyzett tények:
 
-Kijelentem, hogy a fenti adatok a valóságnak megfelelnek. Hozzájárulok a nyilatkozatban szereplő adatoknak a szociális igazgatási eljárásban történő felhasználásához, kezeléséhez.
+................................ (pl. haszonélvezet, jelzálogjog, elidegenítési és terhelési tilalom, használati jogok, szolgalom).
+
+3. Egyéb, nem lakás céljára szolgáló épület- vagy épületrész-tulajdon (vagy állandó használat):
+
+– megnevezése ........................................................ (pl. zártkerti építmény, műhely, üzlet, műterem, rendelő, garázs),
+
+– címe: .................................................................................................................................. város/község
+
+................................................................................................. út/utca .................... hsz.,
+
+– alapterülete: ........... m2,
+
+– tulajdoni hányad: ...........................,
+
+– a szerzés ideje: ................ év.
+
+Becsült forgalmi érték:* .......................................... Ft
+
+Az ingatlan-nyilvántartásba az ingatlanra vonatkozóan bejegyzett terhek, korlátolt dologi jogok, vagyoni értékű jogok vagy feljegyzett tények:
+
+................................ (pl. haszonélvezet, jelzálogjog, elidegenítési és terhelési tilalom, használati jogok, szolgalom).
+
+4. Termőföldtulajdon (vagy állandó használat):
+
+– megnevezése: ......................................................................................................................
+
+– címe: ............................................................................................................................... város/község
+
+............................................. út/utca .................... hsz., (pontos cím hiányában: ............... helyrajzi szám),
+
+– alapterülete: ........... m2,
+
+– tulajdoni hányad: ...........................,
+
+– a szerzés ideje: ................ év.
+
+Becsült forgalmi érték:* .......................................... Ft
+
+Az ingatlan-nyilvántartásba az ingatlanra vonatkozóan bejegyzett terhek, korlátolt dologi jogok, vagyoni értékű jogok vagy feljegyzett tények:
+
+................................ (pl. haszonélvezet, jelzálogjog, elidegenítési és terhelési tilalom, használati jogok, szolgalom).
+
+B. Egyéb vagyontárgyak
+
+Gépjármű adatai:
+
+a) személygépkocsi: ......................................................................... típus .................. rendszám
+
+a szerzés ideje, valamint a gyártás éve: ........................................................................................
+
+Becsült forgalmi érték:** .......................................... Ft
+
+Gépjárműre bejegyzett terhek, gépjárművet terhelő vagyoni értékű jogok:
+
+................................................................................. (pl. elidegenítési és terhelési tilalom, bejegyzett üzemben tartói jog).
+
+A gépjárművet mozgáskorlátozottságra tekintettel tartják fenn:
+
+igen nem
+
+(a megfelelő aláhúzandó).
+
+b) tehergépjármű, autóbusz, motorkerékpár, vízi- vagy egyéb jármű:
+
+................................................................................................................ típus .................. rendszám
+
+a szerzés ideje, valamint a gyártás éve: .............................................................................................
+
+Becsült forgalmi érték:** .......................................... Ft
+
+Gépjárműre bejegyzett terhek, gépjárművet terhelő vagyoni értékű jogok:
+
+................................................................................. (pl. elidegenítési és terhelési tilalom, bejegyzett üzemben tartói jog).
+
+III. Nyilatkozatok
+
+1. Felelősségem tudatában kijelentem [a megfelelő aláhúzandó, és a b) pont szerinti esetben kitöltendő], hogy
+
+a) pénzforgalmi számlával nem rendelkezem, vagy
+
+b) az alábbi pénzforgalmi számlával rendelkezem (valamennyi megjelölendő):
+
+|  | – Pénzforgalmi szolgáltató neve: |
+
+|  | pénzforgalmi számla száma: |
+
+|  | pénzforgalmi számlán kezelt összeg |
+
+|  | – Pénzforgalmi szolgáltató neve: |
+
+|  | pénzforgalmi számla száma: |
+
+|  | pénzforgalmi számlán kezelt összeg |
+
+|  | – Pénzforgalmi szolgáltató neve: |
+
+|  | pénzforgalmi számla száma: |
+
+|  | pénzforgalmi számlán kezelt összeg |
+
+|  | – Pénzforgalmi szolgáltató neve: |
+
+|  | pénzforgalmi számla száma: |
+
+|  | pénzforgalmi számlán kezelt összeg |
+
+2. Felelősségem tudatában kijelentem [a megfelelő aláhúzandó, és a b) pont szerinti esetben kitöltendő], hogy a velem együttélő közeli hozzátartozóm
+
+a) pénzforgalmi számlával nem rendelkezik, vagy
+
+b) az alábbi pénzforgalmi számlával rendelkezik (valamennyi megjelölendő):
+
+|  | – Pénzforgalmi szolgáltató neve: |
+
+|  | pénzforgalmi számla száma: |
+
+|  | pénzforgalmi számlán kezelt összeg |
+
+|  | – Pénzforgalmi szolgáltató neve: |
+
+|  | pénzforgalmi számla száma: |
+
+|  | pénzforgalmi számlán kezelt összeg |
+
+|  | – Pénzforgalmi szolgáltató neve: |
+
+|  | pénzforgalmi számla száma: |
+
+|  | pénzforgalmi számlán kezelt összeg |
+
+|  | – Pénzforgalmi szolgáltató neve: |
+
+|  | pénzforgalmi számla száma: |
+
+|  | pénzforgalmi számlán kezelt összeg |
+
+3. Tudomásul veszem, hogy az ellátásra való jogosultság feltételeinek megállapítása érdekében a hatóság a fentiekben megjelölt pénzforgalmi szolgáltató felé megkereséssel élhet a pénzforgalmi számlán kezelt összeg tekintetében.
+
+4. Kijelentem, hogy a fenti adatok a valóságnak megfelelnek. Hozzájárulok a nyilatkozatban szereplő adatoknak a szociális igazgatási eljárásban történő felhasználásához, kezeléséhez.
 
 Kelt: .......... év .............................. hó ............ nap
 
-........................................
+| ................................................ aláírás |
 
-aláírás
-
-Megjegyzés:
-
-Ha a kérelmező vagy családtagja bármely vagyontárgyból egynél többel rendelkezik, akkor a vagyonnyilatkozat megfelelő pontját a vagyontárgyak számával egyezően kell kitölteni. Amennyiben a vagyonnyilatkozatban feltüntetett vagyon nem a Magyarország területén van, a forgalmi értéket a vagyon helye szerinti állam hivatalos pénznemében is fel kell tüntetni.
-
-__________
-
-* Becsült forgalmi értékként az ingatlannak a településen szokásos forgalmi értékét kell feltüntetni.
-
-** Becsült forgalmi értékként a jármű kora és állapota szerinti értékét kell feltüntetni.
-
-[^213]: A 68. §-t a 70/2015. (III. 30.) Korm. rendelet 76. § (11) bekezdése iktatta be.
-[^214]: Az 1. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 453. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^226]: A 68. §-t a 70/2015. (III. 30.) Korm. rendelet 76. § (11) bekezdése iktatta be.
+[^227]: Az 1. számú melléklet a 116/2016. (VI. 6.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.

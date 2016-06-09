@@ -1,3 +1,3 @@
-## 61. §[^207] A 2012. december hónapra járó, január hónapban folyósítandó időskorúak járadéka, az Szt. 41. § (1) bekezdése, valamint 43/A. §-a szerinti ápolási díj folyósításáról a jegyző, a 2012. december hónapra járó, január hónapban folyósítandó a hajléktalan személy részére megállapított időskorúak járadéka folyósításáról a fővárosi főjegyző gondoskodik.
+62. §[^218]
 
-[^207]: A 61. §-t a 182/2009. (IX. 10.) Korm. rendelet 454. §-a hatályon kívül helyezte, újonnan a 352/2012. (XII. 13.) Korm. rendelet 3. § (7) bekezdése iktatta be.
+[^218]: A 62. §-t a 392/2013. (XI. 12.) Korm. rendelet 13. §-a iktatta be, hatályon kívül helyezte a 116/2016. (VI. 6.) Korm. rendelet 25. § b) pontja.

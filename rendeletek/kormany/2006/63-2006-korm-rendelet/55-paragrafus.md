@@ -1,3 +1,3 @@
-55–56. §[^204]
+55–56. §[^213]
 
-[^204]: Az 55–56. §-t a 24/2015. (II. 20.) Korm. rendelet 28. § r) pontja hatályon kívül helyezte.
+[^213]: Az 55–56. §-t a 24/2015. (II. 20.) Korm. rendelet 28. § r) pontja hatályon kívül helyezte.
