@@ -1,5 +1,0 @@
-## 9. § A Magyar Művészeti Akadémia Székháza kialakítását szolgáló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 319/2015. (X. 30.) Korm. rendelet (a továbbiakban: R.) a következő 4/A. §-sal egészül ki:
-
-## „4/A. § (1) Az 1. § (1) bekezdése szerinti építésügyi hatósági eljárásokban – a (2) bekezdésben foglaltak figyelembevételével – a Beruházással érintett telkeket rendezettnek kell tekinteni abban az esetben is, amennyiben az 1. § (1) bekezdése szerinti ingatlanokat érintő telekegyesítés, illetve a Budapest VI. kerület 29634 és 29636 helyrajzi számú ingatlant érintő, a településrendezési eszközöknek megfelelő telekhatár-rendezés még nem történt meg.
-
-## (2) A Beruházás megvalósításához kapcsolódó használatbavételi engedély kiadásának feltétele az (1) bekezdés szerinti ingatlanok tekintetében a telekegyesítés és a településrendezési eszközöknek megfelelő telekhatár-rendezés végrehajtása, valamint annak az ingatlan-nyilvántartásba történő bejegyzése.”
