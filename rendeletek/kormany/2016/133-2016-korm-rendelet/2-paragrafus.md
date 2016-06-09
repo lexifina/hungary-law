@@ -1,0 +1,1 @@
+## „(3a) A miniszter előterjesztésében ismerteti, hogy a kérelmet megalapozottnak tartja, és milyen okból. A Kormány irányítása alatt nem álló szervezet által benyújtott mentesítési kérelmet a miniszter – egyet nem értése esetén – véleményével ellátva terjeszti a Munkacsoport elé.”
