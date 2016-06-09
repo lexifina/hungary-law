@@ -1,0 +1,3 @@
+## 17. § A pénzbeli és természetbeni szociális ellátások igénylésének és megállapításának, valamint folyósításának részletes szabályairól szóló 63/2006. (III. 27.) Korm. rendelet (a továbbiakban: Pr.) 4. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) A vagyoni helyzet vizsgálatakor nem kell figyelembe venni az Szt. 4. § (1a) bekezdés 11. pont szerinti – az életvitelszerűen lakott ingatlan eladása, valamint az életvitelszerűen lakott ingatlanon fennálló vagyoni értékű jog átruházása esetén az eladott ingatlan, illetve átruházott vagyoni értékű jog ellenértékeként a pénzforgalmi számlára befizetett – összeget.”
