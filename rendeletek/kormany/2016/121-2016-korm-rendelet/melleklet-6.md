@@ -364,7 +364,7 @@
 
 6. melléklet a 121/2016. (VI. 7.) Korm. rendelethez
 
-## (XXXX. sz.) EU-MEGFELELŐSÉGI NYILATKOZAT[^1]
+## (XXXX. sz.) EU-MEGFELELŐSÉGI NYILATKOZAT[^2]
 
 1. … szám (termék-, típus-, tétel- vagy sorozatszám):
 
@@ -388,4 +388,4 @@ A nyilatkozatot a nevében és megbízásából írták alá:
 
 (név, beosztás) (aláírás):
 
-[^1]: A gyártótól függ, hogy megszámozza-e a megfelelőségi nyilatkozatot.
+[^2]: A gyártótól függ, hogy megszámozza-e a megfelelőségi nyilatkozatot.
