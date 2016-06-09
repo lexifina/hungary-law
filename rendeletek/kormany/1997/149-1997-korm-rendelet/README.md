@@ -43,3 +43,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-149-20-
 | 2015-09-01 | 1997-149-20-22.60 | 275/2008. (XI. 21.) Korm. rendelet |
 | 2015-10-02 | 1997-149-20-22.61 | 284/2015. (IX. 29.) Korm. rendelet |
 | 2016-01-01 | 1997-149-20-22.62 | 419/2015. (XII. 23.) Korm. rendelet |
+| 2016-06-09 | 1997-149-20-22.63 | 116/2016. (VI. 6.) Korm. rendelet |

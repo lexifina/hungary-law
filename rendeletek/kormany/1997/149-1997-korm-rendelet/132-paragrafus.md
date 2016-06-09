@@ -1,4 +1,4 @@
-132. § (1)[^818] A gyámhivatal annak a nagykorú személynek,
+132. § (1)[^823] A gyámhivatal annak a nagykorú személynek,
 
 a) akit a bíróság cselekvőképességet érintő gondnokság alá helyezett, gondnokot, kivételesen több gondnokot vagy helyettes gondnokot,
 
@@ -10,16 +10,16 @@ d) akinek az ügyében más eljáró szerv, személy megkeresi, a feltételek fe
 
 rendel.
 
-(2)[^819]
+(2)[^824]
 
-(3)[^820]
+(3)[^825]
 
-(4)[^821]
+(4)[^826]
 
-(5)[^822] Az eseti gondnok és az ügygondnok kirendelése iránt a jegyző intézkedik, ha erre az előtte folyó eljárásban van szükség.
+(5)[^827] Az eseti gondnok és az ügygondnok kirendelése iránt a jegyző intézkedik, ha erre az előtte folyó eljárásban van szükség.
 
-[^818]: A 132. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 68. §-ával megállapított szöveg.
-[^819]: A 132. § új (2) bekezdését a 203/2003. (XII. 10.) Korm. rendelet 11. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2)–(4) bekezdés számozását (3)–(5) bekezdésre változtatva. A 132. § (2) bekezdését a 70/2014. (III. 13.) Korm. rendelet 87. § (1) bekezdés l) pontja hatályon kívül helyezte.
-[^820]: A 132. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 203/2003. (XII. 10.) Korm. rendelet 11. § (2) bekezdése. A 132. § (3) bekezdését a 70/2014. (III. 13.) Korm. rendelet 87. § (1) bekezdés l) pontja hatályon kívül helyezte.
-[^821]: A 132. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 203/2003. (XII. 10.) Korm. rendelet 11. § (2) bekezdése. A 132. § (4) bekezdését a 70/2014. (III. 13.) Korm. rendelet 87. § (1) bekezdés l) pontja hatályon kívül helyezte.
-[^822]: A 132. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 203/2003. (XII. 10.) Korm. rendelet 11. § (2) bekezdése. A 132. § (5) bekezdése a 275/2008. (XI. 21.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^823]: A 132. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 68. §-ával megállapított szöveg.
+[^824]: A 132. § új (2) bekezdését a 203/2003. (XII. 10.) Korm. rendelet 11. § (2) bekezdése iktatta be, egyidejűleg az eredeti (2)–(4) bekezdés számozását (3)–(5) bekezdésre változtatva. A 132. § (2) bekezdését a 70/2014. (III. 13.) Korm. rendelet 87. § (1) bekezdés l) pontja hatályon kívül helyezte.
+[^825]: A 132. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 203/2003. (XII. 10.) Korm. rendelet 11. § (2) bekezdése. A 132. § (3) bekezdését a 70/2014. (III. 13.) Korm. rendelet 87. § (1) bekezdés l) pontja hatályon kívül helyezte.
+[^826]: A 132. § eredeti (3) bekezdésének számozását (4) bekezdésre változtatta a 203/2003. (XII. 10.) Korm. rendelet 11. § (2) bekezdése. A 132. § (4) bekezdését a 70/2014. (III. 13.) Korm. rendelet 87. § (1) bekezdés l) pontja hatályon kívül helyezte.
+[^827]: A 132. § eredeti (4) bekezdésének számozását (5) bekezdésre változtatta a 203/2003. (XII. 10.) Korm. rendelet 11. § (2) bekezdése. A 132. § (5) bekezdése a 275/2008. (XI. 21.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.

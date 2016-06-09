@@ -1,6 +1,6 @@
 ## A határozat tartalma
 
-102. §[^692] (1) A nevelésbe vételt elrendelő határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
+102. §[^693] (1) A nevelésbe vételt elrendelő határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
 
 a) a gyermek ideiglenes gondozási helyének meghatározását,
 
@@ -26,7 +26,7 @@ f) annak megállapítását, hogy a gyermek szülőjének szülői felügyeleti 
 
 g) a gyermek örökbefogadhatóságának tényét az azt megalapozó ok megjelölésével,
 
-h)[^693] a kapcsolattartásra jogosult szülővel vagy más hozzátartozóval való kapcsolattartás szabályozását és a kapcsolattartásra jogosult szülő figyelmeztetését a Gyvt. 80. § (3) és (4) bekezdése, továbbá a Ptk. 4:124. §-a szerinti jogkövetkezményekre,
+h)[^694] a kapcsolattartásra jogosult szülővel vagy más hozzátartozóval való kapcsolattartás szabályozását és a kapcsolattartásra jogosult szülő figyelmeztetését a Gyvt. 80. § (3) és (4) bekezdése, továbbá a Ptk. 4:124. §-a szerinti jogkövetkezményekre,
 
 i) a gyermeknek az ideiglenes gondozási helyére történő vitele időpontjára és módjára vonatkozó rendelkezést [Gyvt. 78. § (5) bek.] és a szülő vagy a gyermeket gondozó más személy kötelezését arra, hogy a gyermek átadásával egyidejűleg a gyermek TAJ kártyáját, iskolai bizonyítványát, diákigazolványát és egyéb fontos dokumentációját adja át a gyermekvédelmi gyámnak vagy a gyermeket gondozó nevelőszülőnek, illetve intézmény képviselőjének,
 
@@ -36,17 +36,17 @@ k) a fellebbezésre tekintet nélküli végrehajthatóság kimondását,
 
 l) tájékoztatást arról, hogy a nevelésbe vétellel a gyermek halmozottan hátrányos helyzetűnek minősül,
 
-m)[^694] megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogás fenntartását vagy megszüntetését,
+m)[^695] megelőző pártfogás alatt álló gyermek esetén a megelőző pártfogás fenntartását vagy megszüntetését,
 
-n)[^695] a gyermekjogi képviselő elérhetőségéről való tájékoztatást.
+n)[^696] a gyermekjogi képviselő elérhetőségéről való tájékoztatást.
 
-(1a)[^696] A gyámhivatal a megelőző pártfogás fenntartása esetén
+(1a)[^697] A gyámhivatal a megelőző pártfogás fenntartása esetén
 
 a) az (1) bekezdés szerinti döntésében rendelkezik a 91/M. §-ban foglaltakról is, egyidejűleg felhívja a gyermek gyermekvédelmi gyámját és gondozási helyét a megelőző pártfogó felügyelővel való együttműködésre, és
 
 b) döntéséről értesíti a pártfogó felügyelői szolgálatot – indokolt esetben – új megelőző pártfogó felügyelő kirendelése érdekében.
 
-(1b)[^697] A kísérő nélküli kiskorú nevelésbe vételét elrendelő határozat az (1) bekezdés h) pontja keretében azt tartalmazza, hogy nincs Magyarország területén olyan hozzátartozó, aki tekintetében a kapcsolattartást szabályozni lehetne. A gyámhivatal egyidejűleg felhívja a kísérő nélküli kiskorú gyermekvédelmi gyámját, hogy ha kapcsolattartásra jogosult hozzátartozó létezéséről szerez tudomást, segítse a korlátozottan cselekvőképes kísérő nélküli kiskorút a kapcsolattartás szabályozása iránti kérelme előterjesztésében, vagy cselekvőképtelen kísérő nélküli kiskorú esetén a gyermek nevében terjessze elő a kérelmet.
+(1b)[^698] A kísérő nélküli kiskorú nevelésbe vételét elrendelő határozat az (1) bekezdés h) pontja keretében azt tartalmazza, hogy nincs Magyarország területén olyan hozzátartozó, aki tekintetében a kapcsolattartást szabályozni lehetne. A gyámhivatal egyidejűleg felhívja a kísérő nélküli kiskorú gyermekvédelmi gyámját, hogy ha kapcsolattartásra jogosult hozzátartozó létezéséről szerez tudomást, segítse a korlátozottan cselekvőképes kísérő nélküli kiskorút a kapcsolattartás szabályozása iránti kérelme előterjesztésében, vagy cselekvőképtelen kísérő nélküli kiskorú esetén a gyermek nevében terjessze elő a kérelmet.
 
 (2) A nevelésbe vételről szóló határozat meghozatalával egyidejűleg a gyámhivatal közli a gyermek ideiglenes gondozási helyét és a gyermekvédelmi gyám kirendelésének tényét
 
@@ -62,9 +62,9 @@ c) – ha a gyermek rendszeres gyermekvédelmi kedvezményre jogosult – a gyer
 
 (5) A gyermek örökbefogadhatósága tényének megállapítása esetén a határozat indokolása tartalmazza a szülői felügyeleti jogot megszüntető bírói ítélet számát és jogerőre emelkedésének időpontját, vagy a szülő gyermekének örökbefogadásához tett hozzájáruló nyilatkozatának időpontját, vagy a szülő halálának időpontját.
 
-[^692]: A 102. § a 97/2013. (III. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^693]: A 102. § (1) bekezdés h) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 72. pontja szerint módosított szöveg.
-[^694]: A 102. § (1) bekezdés m) pontját a 353/2014. (XII. 29.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^695]: A 102. § (1) bekezdés n) pontját a 353/2014. (XII. 29.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^696]: A 102. § (1a) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 15. § (2) bekezdése iktatta be.
-[^697]: A 102. § (1b) bekezdését a 284/2015. (IX. 29.) Korm. rendelet 4. §-a iktatta be.
+[^693]: A 102. § a 97/2013. (III. 29.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^694]: A 102. § (1) bekezdés h) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 72. pontja szerint módosított szöveg.
+[^695]: A 102. § (1) bekezdés m) pontját a 353/2014. (XII. 29.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^696]: A 102. § (1) bekezdés n) pontját a 353/2014. (XII. 29.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^697]: A 102. § (1a) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^698]: A 102. § (1b) bekezdését a 284/2015. (IX. 29.) Korm. rendelet 4. §-a iktatta be.

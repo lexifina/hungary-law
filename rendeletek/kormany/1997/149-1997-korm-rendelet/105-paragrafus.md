@@ -1,6 +1,6 @@
-## A határozat tartalma[^717]
+## A határozat tartalma[^718]
 
-105. §[^718] (1) A gyermek gondozási helyének meghatározására irányuló eljárás eredményeként hozott határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
+105. §[^719] (1) A gyermek gondozási helyének meghatározására irányuló eljárás eredményeként hozott határozat rendelkező része a 14. §-ban foglaltakon kívül tartalmazza
 
 a) a gyermek gondozási helyének
 
@@ -12,7 +12,7 @@ történő megállapítását, az ellátás kezdő időpontját,
 
 b) a gyermekvédelmi gyám személyének megállapítását, ennek hiányában a gyermek számára gyermekvédelmi gyám kirendelését és tájékoztatását a gyermek gyámságával kapcsolatos jogairól és kötelezettségeiről,
 
-c)[^719] a kapcsolattartásra jogosult szülővel vagy más hozzátartozóval való kapcsolattartásra vonatkozó szabályokat, és a kapcsolattartásra jogosult szülő figyelmeztetését a Gyvt. 80. § (3) és (4) bekezdése, továbbá a Ptk. 4:124. §-a szerinti jogkövetkezményekre,
+c)[^720] a kapcsolattartásra jogosult szülővel vagy más hozzátartozóval való kapcsolattartásra vonatkozó szabályokat, és a kapcsolattartásra jogosult szülő figyelmeztetését a Gyvt. 80. § (3) és (4) bekezdése, továbbá a Ptk. 4:124. §-a szerinti jogkövetkezményekre,
 
 d) a gyermek ellátási szükségletének és annak kezdő időpontja megállapítását,
 
@@ -42,22 +42,22 @@ k) a gyermek lakóhelyének, és ha szükséges, tartózkodási helyének megál
 
 l) a fellebbezésre tekintet nélküli végrehajthatóság kimondását,
 
-m)[^720] megelőző pártfogás alatt álló gyermek esetében a megelőző pártfogás fenntartását vagy megszüntetését.
+m)[^721] megelőző pártfogás alatt álló gyermek esetében a megelőző pártfogás fenntartását vagy megszüntetését.
 
-(1a)[^721] A gyámhivatal a megelőző pártfogás fenntartása esetén az (1) bekezdés szerinti döntésében rendelkezik a 91/M. §-ban foglaltakról is, egyidejűleg felhívja a gyermek gyermekvédelmi gyámját és gondozási helyét a megelőző pártfogó felügyelővel való együttműködésre.
+(1a)[^722] A gyámhivatal a megelőző pártfogás fenntartása esetén az (1) bekezdés szerinti döntésében rendelkezik a 91/M. §-ban foglaltakról is, egyidejűleg felhívja a gyermek gyermekvédelmi gyámját és gondozási helyét a megelőző pártfogó felügyelővel való együttműködésre.
 
-(1b)[^722] A kísérő nélküli kiskorú gondozási helyének meghatározására irányuló eljárás eredményeként hozott határozat az (1) bekezdés c) pontja keretében azt tartalmazza, hogy nincs Magyarország területén olyan hozzátartozó, aki tekintetében a kapcsolattartást szabályozni lehetne. A gyámhivatal egyidejűleg felhívja a kísérő nélküli kiskorú gyermekvédelmi gyámját, hogy ha kapcsolattartásra jogosult hozzátartozó létezéséről szerez tudomást, segítse a korlátozottan cselekvőképes kísérő nélküli kiskorút a kapcsolattartás szabályozása iránti kérelme előterjesztésében, vagy cselekvőképtelen kísérő nélküli kiskorú esetén a gyermek nevében terjessze elő a kérelmet.
+(1b)[^723] A kísérő nélküli kiskorú gondozási helyének meghatározására irányuló eljárás eredményeként hozott határozat az (1) bekezdés c) pontja keretében azt tartalmazza, hogy nincs Magyarország területén olyan hozzátartozó, aki tekintetében a kapcsolattartást szabályozni lehetne. A gyámhivatal egyidejűleg felhívja a kísérő nélküli kiskorú gyermekvédelmi gyámját, hogy ha kapcsolattartásra jogosult hozzátartozó létezéséről szerez tudomást, segítse a korlátozottan cselekvőképes kísérő nélküli kiskorút a kapcsolattartás szabályozása iránti kérelme előterjesztésében, vagy cselekvőképtelen kísérő nélküli kiskorú esetén a gyermek nevében terjessze elő a kérelmet.
 
 (2) A gyámhivatal a gondozási díjról külön határozatban is rendelkezhet.
 
 (3) A gondozási helyről szóló határozat meghozatalával egyidejűleg a gyámhivatal közli a családtámogatási ellátást és az árvaellátást folyósító szervvel, továbbá a gyermeket ellátó védőnővel a gyermek gondozási helyét, feltéve, hogy az eltér az ideiglenes gondozási helytől.
 
-(4)[^723] Megelőző pártfogás alatt álló gyermek esetén a gyámhivatal a határozatát közli a pártfogó felügyelői szolgálattal.
+(4)[^724] Megelőző pártfogás alatt álló gyermek esetén a gyámhivatal a határozatát közli a pártfogó felügyelői szolgálattal.
 
-[^717]: A 105. §-t megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 36. §-a iktatta be.
-[^718]: A 105. § a 97/2013. (III. 29.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^719]: A 105. § (1) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 73. pontja szerint módosított szöveg.
-[^720]: A 105. § (1) bekezdés m) pontját a 353/2014. (XII. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be.
-[^721]: A 105. § (1a) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^722]: A 105. § (1b) bekezdését a 284/2015. (IX. 29.) Korm. rendelet 6. §-a iktatta be.
-[^723]: A 105. § (4) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 16. § (3) bekezdése iktatta be.
+[^718]: A 105. §-t megelőző alcímet a 97/2013. (III. 29.) Korm. rendelet 36. §-a iktatta be.
+[^719]: A 105. § a 97/2013. (III. 29.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^720]: A 105. § (1) bekezdés c) pontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 73. pontja szerint módosított szöveg.
+[^721]: A 105. § (1) bekezdés m) pontját a 353/2014. (XII. 29.) Korm. rendelet 16. § (1) bekezdése iktatta be.
+[^722]: A 105. § (1a) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^723]: A 105. § (1b) bekezdését a 284/2015. (IX. 29.) Korm. rendelet 6. §-a iktatta be.
+[^724]: A 105. § (4) bekezdését a 353/2014. (XII. 29.) Korm. rendelet 16. § (3) bekezdése iktatta be.

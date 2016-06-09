@@ -32,7 +32,7 @@ h)[^486] tájékoztatást a gyámhivatalnak a megelőlegezett gyermektartásdíj
 
 (1a)[^487] A gyermektartásdíj megelőlegezése tárgyában hozott, az Szt. 18/B. §-ában meghatározott országos nyilvántartásban rögzítendő döntésnek a Ket. 72. §-ában meghatározottakon kívül tartalmaznia kell az ügy elbírálási azonosítóját is.
 
-(2)[^488] A gyámhivatal a határozatát közli a kötelezett munkáltatójával, a végrehajtást foganatosító bírósággal, illetve az önálló bírósági végrehajtóval, a jogosult és a kötelezett lakcíme szerint illetékes ügyészséggel, a kötelezett lakcíme szerint illetékes jegyzővel, mint adóhatósággal (a továbbiakban: adóhatóság), valamint a megelőlegezett gyermektartásdíjat folyósító fővárosi és megyei kormányhivatallal (a 73–76. § alkalmazásában a továbbiakban: folyósító szerv).
+(2)[^488] A gyámhivatal a határozatát közli a kötelezett munkáltatójával, a végrehajtást foganatosító bírósággal, illetve az önálló bírósági végrehajtóval, a jogosult és a kötelezett lakcíme szerint illetékes ügyészséggel, a kötelezett lakcíme szerint illetékes állami adóhatósággal, valamint a megelőlegezett gyermektartásdíjat folyósító fővárosi és megyei kormányhivatallal (a 73–76. § alkalmazásában a továbbiakban: folyósító szerv).
 
 (3)[^489] A Gyvt. 24. §-ának (3) bekezdésében foglaltak alapján történő felfüggesztés esetén a gyámhivatal harminc napon belül megindítja a felülvizsgálatot annak érdekében, hogy a gyermektartásdíj megelőlegezésének feltételei fennállnak-e. Amennyiben a megelőlegezés feltételei nem állnak fenn, úgy a megelőlegezést meg kell szüntetni.
 
@@ -40,9 +40,9 @@ h)[^486] tájékoztatást a gyámhivatalnak a megelőlegezett gyermektartásdíj
 
 (5)[^491] Amennyiben a bíróság a megelőlegezés időtartama alatt a tartásdíj összegét felemeli vagy leszállítja, a gyámhivatal a kötelezett, a gyermek törvényes képviselője bejelentésére, illetve hivatalból is jogosult a megelőlegezett gyermektartásdíj összegét, a bíróság jogerős határozatának megfelelően, az ítélet jogerőre emelkedésének napjától – a jogosultsági feltételek újbóli vizsgálata nélkül – felemelni, illetve csökkenteni.
 
-(6)[^492] A folyósító szerv a megelőlegezett gyermektartásdíjról, annak kamatáról és a folyósítással felmerült költségekről negyedévente tájékoztatja a kötelezett lakcíme szerinti adóhatóságot a hátralékos összeg adók módjára történő behajtása végett.
+(6)[^492] A folyósító szerv a megelőlegezett gyermektartásdíjról, annak kamatáról és a folyósítással felmerült költségekről negyedévente tájékoztatja a kötelezett lakcíme szerinti állami adóhatóságot a hátralékos összeg adók módjára történő behajtása végett.
 
-(7)[^493] A gyámhivatal a kötelezett által a Gyvt. 24. § (8) bekezdése szerint megtérítendő összeg tekintetében tudomására jutott változásokról – a folyósító szerv közreműködésével – haladéktalanul tájékoztatja az adóhatóságot.
+(7)[^493] A gyámhivatal a kötelezett által a Gyvt. 24. § (8) bekezdése szerint megtérítendő összeg tekintetében tudomására jutott változásokról – a folyósító szerv közreműködésével – haladéktalanul tájékoztatja az állami adóhatóságot.
 
 [^477]: A 72. § a 315/2005. (XII. 25.) Korm. rendelet 49. §-ával megállapított, a 70/2014. (III. 13.) Korm. rendelet 87. § (1) bekezdés i) pontja szerint módosított szöveg.
 [^478]: A 73. § a 14/2003. (II. 12.) Korm. rendelet 36. §-ával megállapított szöveg. E módosító rendelet 98. §-ának (1) bekezdése alapján a 2003. február 15. napja után indult ügyekben kell alkalmazni, a folyamatban lévő első és másodfokú ügyekben a korábbi rendelkezések az irányadóak.
@@ -55,9 +55,9 @@ h)[^486] tájékoztatást a gyámhivatalnak a megelőlegezett gyermektartásdíj
 [^485]: A 73. § (1) bekezdésének g) pontját a 315/2005. (XII. 25.) Korm. rendelet 50. §-a iktatta be, szövege a 173/2009. (VIII. 29.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^486]: A 73. § (1) bekezdés h) pontját a 173/2009. (VIII. 29.) Korm. rendelet 27. § (1) bekezdése iktatta be, szövege az 509/2013. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^487]: A 73. § (1a) bekezdését a 24/2015. (II. 20.) Korm. rendelet 3. §-a iktatta be.
-[^488]: A 73. § (2) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^488]: A 73. § (2) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 116/2016. (VI. 6.) Korm. rendelet 10. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^489]: A 73. § (3) bekezdése a 360/2010. (XII. 30.) Korm. rendelet 25. § 15. pontja szerint módosított szöveg.
 [^490]: A 73. § (4) bekezdése a 173/2009. (VIII. 29.) Korm. rendelet 27. § (3) bekezdésével megállapított szöveg. E módosító rendelet 61. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
 [^491]: A 73. § (5) bekezdése a 203/2003. (XII. 10.) Korm. rendelet 16. § (4) bekezdésének g) pontja szerint módosított szöveg.
-[^492]: A 73. § (6) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^493]: A 73. § (7) bekezdését a 70/2014. (III. 13.) Korm. rendelet 51. §-a iktatta be.
+[^492]: A 73. § (6) bekezdése a 352/2012. (XII. 13.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 116/2016. (VI. 6.) Korm. rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^493]: A 73. § (7) bekezdését a 70/2014. (III. 13.) Korm. rendelet 51. §-a iktatta be, szövege a 116/2016. (VI. 6.) Korm. rendelet 10. § (1) bekezdés b) pontja szerint módosított szöveg.

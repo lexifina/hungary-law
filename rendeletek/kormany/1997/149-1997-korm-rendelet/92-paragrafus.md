@@ -2,11 +2,11 @@
 
 ## Családba fogadással kapcsolatos ügyek
 
-92. §[^650] (1) A családbafogadás iránti eljárás során a gyámhivatal
+92. §[^651] (1) A családbafogadás iránti eljárás során a gyámhivatal
 
 a) az eljárás megindulását követő nyolc napon belül
 
-aa)[^651] meghallgatásra idézi a Ptk. 4:187. § (1) bekezdésében, a Gyvt. 81. § (1a) bekezdésében és 128. §-ában meghatározott személyeken kívül a családbafogadó személyt, illetve személyeket, valamint a kérelmezőt értesíti a meghallgatás időpontjáról,
+aa)[^652] meghallgatásra idézi a Ptk. 4:187. § (1) bekezdésében, a Gyvt. 81. § (1a) bekezdésében és 128. §-ában meghatározott személyeken kívül a családbafogadó személyt, illetve személyeket, valamint a kérelmezőt értesíti a meghallgatás időpontjáról,
 
 ab) intézkedik a környezettanulmány beszerzése érdekében, ha azt nem a gyámhivatal végzi el,
 
@@ -18,5 +18,5 @@ d) megvizsgálja a szülő(k) által megnevezett családbafogadó személy(ek) a
 
 (2) A gyámhivatal abban az esetben is engedélyezheti a családbafogadást, ha a különélő másik szülő a szabályszerű idézés ellenére nem jelent meg a meghallgatáson, különösen amennyiben a különélő szülő nem tart kapcsolatot a gyermekével.
 
-[^650]: A 92. § a 97/2013. (III. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^651]: A 92. § (1) bekezdés a) pont aa) alpontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 70. pontja szerint módosított szöveg.
+[^651]: A 92. § a 97/2013. (III. 29.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^652]: A 92. § (1) bekezdés a) pont aa) alpontja a 70/2014. (III. 13.) Korm. rendelet 86. § (1) bekezdés 70. pontja szerint módosított szöveg.

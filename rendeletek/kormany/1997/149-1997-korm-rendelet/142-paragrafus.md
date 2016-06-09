@@ -1,3 +1,0 @@
-142. § (1)[^868] Ha a gyám vagy a gondnok működése ellen kifogás nem merül fel, azonban más személy kirendelése a gyámolt vagy a gondnokolt érdekeit tekintve kedvezőbb, a gyám felmentésére irányuló eljárás megindítására a gyámság alatt álló, korlátozottan cselekvőképes gyermek, a gondnok felmentésére irányuló eljárás megindítására a cselekvőképességében részlegesen korlátozott nagykorú személy is jogosult. Az eljárást a gyámhivatal hivatalból is megindíthatja a gyámi, gondnoki tisztséget a jövőben vállalni kívánó személy kezdeményezésére.
-
-[^868]: A 142. § (1) bekezdése a 70/2014. (III. 13.) Korm. rendelet 74. § (1) bekezdésével megállapított szöveg.

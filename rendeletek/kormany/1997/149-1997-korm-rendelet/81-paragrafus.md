@@ -8,4 +8,13 @@
 
 (5) A Minisztérium minden hónap 25-éig a folyósító szerv rendelkezésére bocsátja a (4) bekezdés szerinti összeget.
 
+(6)[^516] A folyósító szerv
+
+a) a Gyvt. 26/A. § (1) és (3) bekezdése szerint, valamint
+
+b) a Gyvt. 26/B. § (5) bekezdés b) pontja szerint
+
+megtérített összeget köteles visszafizetni a központi költségvetésnek.
+
 [^515]: A 81. § a 352/2012. (XII. 13.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^516]: A 81. § (6) bekezdését a 116/2016. (VI. 6.) Korm. rendelet 5. §-a iktatta be.

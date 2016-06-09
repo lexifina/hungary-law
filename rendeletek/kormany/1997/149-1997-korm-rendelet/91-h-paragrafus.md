@@ -1,4 +1,4 @@
-91/H. §[^624] (1)[^625] A gyámhivatal az iskoláztatási támogatás szüneteltetése szükségességének felülvizsgálata során tájékoztatást kér a nevelési-oktatási intézmény igazgatójától arról, hogy
+91/H. §[^625] (1)[^626] A gyámhivatal az iskoláztatási támogatás szüneteltetése szükségességének felülvizsgálata során tájékoztatást kér a nevelési-oktatási intézmény igazgatójától arról, hogy
 
 a) a felülvizsgálattal érintett időszakban a gyermek (fiatal felnőtt) hány kötelező tanórai foglalkozást mulasztott igazolatlanul és
 
@@ -12,8 +12,8 @@ b) a tárgyév szeptember 1-je, ha a szüneteltetést elrendelő döntés joger�
 
 (3) A Gyvt. 68/A. § (2) bekezdése b) pontjának alkalmazásában az utolsó felülvizsgálattól számított egy hónapot az utolsó felülvizsgálattal érintett időszak utolsó napját követő naptól kell számítani.
 
-(4)[^626] A gyámhivatal a felülvizsgálati eljárás során hozott határozatáról – védelembe vett gyermek esetén – tájékoztatja a család- és gyermekjóléti központot.
+(4)[^627] A gyámhivatal a felülvizsgálati eljárás során hozott határozatáról – védelembe vett gyermek esetén – tájékoztatja a család- és gyermekjóléti központot.
 
-[^624]: A 91/H. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^625]: A 91/H. § (1) bekezdés nyitó szövegrésze a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^626]: A 91/H. § (4) bekezdése a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés c) pontja, a 419/2015. (XII. 23.) Korm. rendelet 14. § 25. pontja szerint módosított szöveg.
+[^625]: A 91/H. §-t a 237/2010. (IX. 13.) Korm. rendelet 8. §-a iktatta be, szövege a 236/2012. (VIII. 30.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^626]: A 91/H. § (1) bekezdés nyitó szövegrésze a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^627]: A 91/H. § (4) bekezdése a 236/2012. (VIII. 10.) Korm. rendelet 7. § (2) bekezdés c) pontja, a 419/2015. (XII. 23.) Korm. rendelet 14. § 25. pontja szerint módosított szöveg.
