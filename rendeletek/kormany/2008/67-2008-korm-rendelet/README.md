@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-67-20-2
 | 2014-01-01 | 2008-67-20-22.6 | 62/2009. (III. 28.) Korm. rendelet |
 | 2014-09-05 | 2008-67-20-22.7 | 62/2009. (III. 28.) Korm. rendelet |
 | 2016-01-01 | 2008-67-20-22.8 | 118/2008. (V. 8.) Korm. rendelet |
+| 2016-06-09 | 2008-67-20-22.9 | 116/2016. (VI. 6.) Korm. rendelet |
