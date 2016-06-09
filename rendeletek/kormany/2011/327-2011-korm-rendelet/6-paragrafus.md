@@ -1,36 +1,45 @@
 ## 4. A megváltozott munkaképességű személyek ellátásainak megállapítása
 
-6. § (1) A megváltozott munkaképességű személyek ellátásainak megállapítása – az Mmtv. 32. (1) bekezdésében és 33. § (1) bekezdésében foglalt kivétellel – kérelemre történik.
+6. §[^12] (1) A megváltozott munkaképességű személyek ellátásainak megállapítása – az Mmtv. 19. § (1) bekezdésében foglaltak kivételével – kérelemre történik.
 
-(2)[^12] A Hivatal által rendszeresített, a kérelem benyújtására szolgáló adatlapot és elektronikus űrlapot a Hivatal, valamint a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni.
+(2) A Hivatal által rendszeresített, a kérelem benyújtására szolgáló adatlapot és elektronikus űrlapot a Hivatal, valamint a fővárosi és megyei kormányhivatalok honlapján közzé kell tenni.
 
 (3) Az adatlap és az elektronikus űrlap tartalmazza a kérelmező
 
 a) természetes személyazonosító adatait,
 
-b) társadalombiztosítási azonosító jelét és
+b) lakóhelyét, tartózkodási helyét és elérhetőségét,
 
-c) adóazonosító jelét, amennyiben a kérelmező Rehabilitációs kártyát igényel,
+c) társadalombiztosítási azonosító jelét,
 
-d)[^13] erre vonatkozó igénye esetén a közlekedőképességének vizsgálatára vonatkozó kérelmet.
+d) adóazonosító jelét, amennyiben a kérelmező Rehabilitációs kártyát igényel,
 
-(4) A kérelemhez csatolni kell
+e) nyilatkozatait, amelyek a megváltozott munkaképességű személyek ellátásainak megállapításához szükségesek,
+
+f) erre vonatkozó igénye esetén a közlekedőképességének vizsgálatára vonatkozó kérelmét.
+
+(4) A (3) bekezdés e) pontjában foglaltak keretében a kérelmező nyilatkozik arról, hogy
+
+a) a kérelem benyújtásának időpontjában keresőtevékenységet vagy iskolai tanulmányokat folytat-e, illetve a keresőtevékenység és az iskolai tanulmányok megszűnésének időpontjáról,
+
+b) egészségkárosodása üzemi baleset vagy foglalkozási megbetegedés következménye-e,
+
+c) 2011. december 31-én az Mmtv. 2. § (2) bekezdés b) pontja szerinti ellátásban részesült-e, vagy az ellátásra jogosultságát megállapították, de annak folyósítása 2011. december 31-én szünetelt,
+
+d) rendszeres pénzellátásban részesül-e, ha igen, mely ellátásban,
+
+e) a jogosultsági feltételek fennállása esetén a Rehabilitációs kártya kiállítását igényli-e.
+
+(5) Az adatlaphoz csatolni kell
 
 a) a keresőtevékenység megszűnése esetén a megszűnés időpontját igazoló okiratot vagy annak másolatát,
 
-b) a társadalombiztosítási nyilvántartásban nem szereplő jogviszonyok bizonyításához felhasználni kívánt iratot,
+b) az Mmtv. 2. § (2) bekezdés a) pontjában meghatározottak fennállása esetén az iskolai tanulmányok folytatását vagy megszűnésének időpontját igazoló okiratot vagy annak másolatát,
 
-c) a kérelmező jövedeleméről szóló igazolást,
+c) a társadalombiztosítási nyilvántartásban nem szereplő jogviszonyok bizonyításához felhasználni kívánt iratot,
 
-d) a kérelmező nyilatkozatát arról, hogy az Mmtv. szerinti rendszeres pénzellátásban (a továbbiakban: rendszeres pénzellátás) nem részesül,
+d) a kérelmező egészségi állapotával kapcsolatos, a Nemzeti Rehabilitációs és Szociális Hivatalról szóló kormányrendelet szerinti dokumentumokat, és
 
-e) a kérelmező nyilatkozatát arról, hogy a jogosultsági feltételek fennállása esetén a Rehabilitációs kártya kiállítását igényli-e és
+e) a közlekedőképesség vizsgálatára vonatkozó kérelem esetén a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat.
 
-f)[^14] a kérelmező egészségi állapotával kapcsolatos, a Nemzeti Rehabilitációs és Szociális Hivatalról szóló kormányrendelet szerinti dokumentumokat,
-
-g)[^15] a közlekedőképesség vizsgálatára vonatkozó kérelem esetén a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat.
-
-[^12]: A 6. § (2) bekezdése a 95/2012. (V. 15.) Korm. rendelet 46. § (11) bekezdés b) és c) pontja szerint módosított szöveg, alkalmazására lásd e módosító rendelet 23. §-át.
-[^13]: A 6. § (3) bekezdés d) pontját a 61/2012. (III. 30.) Korm. rendelet 17. § (1) bekezdése iktatta be.
-[^14]: A 6. § (4) bekezdés f) pontja a 95/2012. (V. 15.) Korm. rendelet 46. § (3) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 184. § (4) bekezdés e) pontja szerint módosított szöveg.
-[^15]: A 6. § (4) bekezdés g) pontját a 61/2012. (III. 30.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^12]: A 6. § a 117/2016. (VI. 6.) Korm. rendelet 2. §-ával megállapított szöveg.

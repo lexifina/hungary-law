@@ -1,3 +1,3 @@
-## 21. §[^48]
+## 11. [^46] A megváltozott munkaképességű személyek ellátásaival kapcsolatos felelősségi szabályok
 
-[^48]: A 21. §-t a 95/2012. (V. 15.) Korm. rendelet 46. § (12) bekezdés f) pontja hatályon kívül helyezte, alkalmazására lásd e módosító rendelet 23. §-át.
+[^46]: A 11. alcím címe a 117/2016. (VI. 6.) Korm. rendelet 12. §-ával megállapított szöveg.

@@ -1,5 +1,5 @@
-## 22. §[^49] A megváltozott munkaképességű személyek ellátásában részesülő személy halálának hónapját követően belföldi pénzforgalmi szolgáltatónál vezetett fizetési számlára átutalt jogalap nélküli ellátásnak a fizetési számla terhére történő visszafizetésére a pénzforgalmi szolgáltatót a rehabilitációs hatóság kötelezi, feltéve, hogy a fizetési számla feletti rendelkezésre más személy nem jogosult, és a visszautalás a fizetési számla terhére megtörténhet. Amennyiben a fizetési számla felett rendelkezésre jogosult személy ismert, a rehabilitációs hatóság a követelését – fizetésre kötelező határozat kibocsátásával – akkor is e személlyel szemben érvényesíti, ha a jogalap nélkül kiutalt ellátást az elhunyt személy fizetési számlájáról még nem vették fel.
+## 22/G. §[^54] Az Mmtv. 20/D. § b) pontja szerinti megtérítésre kötelező határozatot a rehabilitációs hatóság a jogerőre emelkedését követően haladéktalanul megküldi a Nyugdíjfolyósító Igazgatóság részére.
 
 ## 12. Záró rendelkezések
 
-[^49]: A 22. § a 95/2012. (V. 15.) Korm. rendelet 46. § (9) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 184. § (4) bekezdés h) pontja szerint módosított szöveg.
+[^54]: A 22/G. §-t a 117/2016. (VI. 6.) Korm. rendelet 13. §-a iktatta be.

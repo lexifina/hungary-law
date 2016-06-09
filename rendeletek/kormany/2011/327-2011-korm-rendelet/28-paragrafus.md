@@ -1,0 +1,3 @@
+## 27. §[^61] 2016. évben a Hivatal a támogatható szolgáltatások és képzések adatait – a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet és a Nemzeti Rehabilitációs és Szociális Hivatalról szóló 74/2015. (III. 30.) Korm. rendelet módosításáról szóló 117/2016. (VI. 6.) Korm. rendelettel megállapított 21/A. § (2) bekezdésében, 21/I. § (1) bekezdésében és 21/K. § (1) bekezdésében foglaltaktól eltérően – 2016. július 15-éig teszi közzé a Hivatal által üzemeltetett elektronikus felületen.
+
+[^61]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 117/2016. (VI. 6.) Korm. rendelet 14. §-a iktatta be.
