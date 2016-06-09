@@ -1,4 +1,4 @@
-20. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^59]
+20. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^61]
 
 ## A Magyar Élelmiszerkönyv 1-3-2001/111számú előírása az emberi fogyasztásra szánt egyes cukortermékekről
 
@@ -180,7 +180,7 @@ b) hamu esetében 0,0018%-nak, az 1265/69/EGK rendelet melléklete A. fejezetén
 
 c) oldatban mért szín esetén 7,5 ICUMSA-egységnek, az 1265/69/EGK rendelet melléklete A. fejezetének 3. pontja szerint meghatározva.
 
-[^59]: A 20. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
+[^61]: A 20. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be.
 [^(1)]: A termék csomagolásán a zárójelben lévő megnevezést nem kell feltüntetni.
 [^(3)]: A „fehér” jelző használható az olyan cukoroldat megnevezésében, amelynek a színe nem haladja meg a 25 ICUMSA egységet a B. rész (c) pontja szerint meghatározva
 [^(4)]: A „fehér” jelző használható olyan invertcukor-oldat és invertcukor-szirup megnevezésében, amelynek: – a vezetőképesség-méréssel meghatározott hamuja nem haladja meg a 0,1%-ot, – oldatban mért színe nem haladja meg a 25 ICUMSA egységet, a B rész c) pontja szerinti módszerrel meghatározva.
