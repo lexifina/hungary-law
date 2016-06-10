@@ -1,0 +1,3 @@
+3. § Az Éhvt. 10/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Vállalkozások – ideértve az egyéni vállalkozót is – csak a klímavédelemért felelős hatóság által kiadott képesítési igazolás birtokában jogosultak bármilyen, az 517/2014/EU európai parlamenti és tanácsi rendeletben meghatározott fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységet végezni. A képesítési igazolás a vállalkozásnak a klímavédelemért felelős hatóság által vezetett adatbázisban történő regisztrációját és a vállalkozó által a klímavédelemért felelős hatósághoz benyújtott megfelelési nyilatkozat elfogadását követően kerül kiállításra.”
