@@ -7,11 +7,3 @@ b) az 517/2014/EU európai parlamenti és tanácsi rendelet alapján a fluortart
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (2) A 2. alcím az üvegházhatású gázok uniós kibocsátáskereskedelmi rendszeréhez piaci stabilizációs tartalék EU kibocsátáskereskedelmi rendszerében történő létrehozásáról és működéséről, továbbá a 2003/87/EK irányelv módosításáról szóló, 2015. október 6-i 2015/1814/EU európai parlamenti és tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
