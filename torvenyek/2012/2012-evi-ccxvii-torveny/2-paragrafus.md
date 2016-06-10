@@ -106,4 +106,10 @@ c) a közösségi rendszer egyoldalú kiterjesztése folytán került a törvén
 
 40. részleges működésbeszüntetés: ha egy mérvadó létesítményrész tevékenységi szintjét egy adott naptári évben a létesítményrésznek kiosztott mennyiség kiszámításához használt kezdeti tevékenységi szinthez képest az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerint legalább 50%-kal, vagy legalább 75%-kal vagy 90%-kal csökkenti,
 
-41. részleges működésbeszüntetést követő újraindítás: olyan jelentős változás, amikor a működését beszüntetett létesítményrész tevékenységi szintje ismét meghaladja az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerinti kezdeti tevékenységi szintjének 25%-át, illetve 50%-át kitevő küszöbértéket.
+41. részleges működésbeszüntetést követő újraindítás: olyan jelentős változás, amikor a működését beszüntetett létesítményrész tevékenységi szintje ismét meghaladja az e törvény végrehajtására kiadott kormányrendeletben meghatározottak szerinti kezdeti tevékenységi szintjének 25%-át, illetve 50%-át kitevő küszöbértéket,
+
+42. szezonális üzemmód: rendszeresen idényszerű, időszakos ütemtervet követve üzemeltetett létesítmény működési jellemzője; nem ideértve a folyamatosan (normál üzemmódban) üzemeltetett, készenléti- vagy tartalék üzemmódban működő létesítményeket,
+
+44. üzemszerű működés kezdete: a 2011/278/EU európai bizottsági határozat 3. cikk n) pontja szerinti időpont,
+
+45. megváltozott működés kezdete: a 2011/278/EU európai bizottsági határozat 3. cikk o) pontja szerinti időpont.

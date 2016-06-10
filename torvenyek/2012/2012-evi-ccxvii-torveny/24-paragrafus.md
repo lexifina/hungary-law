@@ -1,8 +1,8 @@
 ## 8. Az ÜHG-egységek visszaadása
 
-24. § (1) Az üzemeltető köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű kibocsátási egységet a tárgyévet követő év április 30-ig visszaadni a Magyar Állam részére. A visszaadási kötelezettség teljesítéséhez az üzemeltető a más tagállam hatáskörrel rendelkező hatósága által kiadott kibocsátási egységet is felhasználhatja. A visszaadott kibocsátási egységeket a jegyzékkezelő a forgalmi jegyzékből törli.
+24. § (1) Az üzemeltető köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű kibocsátási egységet a tárgyévet követő év április 30-ig visszaadni a 389/2013/EU bizottsági rendelet 67. cikkének megfelelően. A visszaadási kötelezettség teljesítéséhez az üzemeltető a más tagállam hatáskörrel rendelkező hatósága által kiadott kibocsátási egységet is felhasználhatja.
 
-(2) A légi jármű üzembentartó köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű ÜHG-egységet a tárgyévet követő év április 30-ig visszaadni az állam részére. A visszaadott ÜHG-egységeket a jegyzékkezelő a forgalmi jegyzékből törli.
+(2) A légi jármű üzembentartó köteles a nyomon követett és hitelesített tárgyévi kibocsátásának megfelelő mennyiségű ÜHG-egységet a tárgyévet követő év április 30-ig a 389/2013/EU bizottsági rendelet 67. cikkének megfelelően visszaadni.
 
 (3) Ha
 

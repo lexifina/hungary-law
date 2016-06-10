@@ -5,3 +5,5 @@
 (3) A 32. § és 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető vagy a légi jármű üzembentartó a jelentési vagy hitelesítési kötelezettségének, vagy az ÜHG-egységek visszaadására irányuló kötelezettségének részben vagy egészben nem tesz eleget, a hatóság az üzemeltető vagy a légi jármű üzembentartó nevét és a kötelességszegés tényét honlapján nyilvánosságra hozza.
 
 (4) A 32. § és 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül az üzemeltető és a légi jármű üzembentartó köteles az elmulasztott ÜHG-egységekkel egyező mennyiségű ÜHG-egységet a tárgyévet követő második év április 30-ig az állam részére visszaadni. Ennek elmulasztása esetén a tárgyévet követő harmadik évben az üzemeltető és a légi jármű üzembentartó számláján a mulasztással érintett mennyiséggel csökkentett mennyiségű ÜHG-egység kerül jóváírásra.
+
+(5) A visszaadás elmulasztása esetén a hatóság zárolja az üzemeltető vagy a légi jármű üzembentartó forgalmi jegyzékbeli számláját. A zárolást a jegyzékkezelő akkor oldja fel, ha a (4) bekezdésben előírt ÜHG-egység visszaadásra kerül.

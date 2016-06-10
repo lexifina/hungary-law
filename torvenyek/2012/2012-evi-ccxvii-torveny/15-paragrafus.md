@@ -12,6 +12,6 @@
 
 (6) A térítésmentes kibocsátási-egység kiosztása több lépésben is végrehajtható.
 
-(7) A tárgyévi ingyenesen kiosztásra kerülő ÜHG-egységmennyiségeket a miniszter az általa vezetett minisztérium honlapján közleményben teszi közzé és gondoskodik annak Hivatalos Értesítőben való közzétételéről.
+(7) A tárgyévi ingyenesen kiosztásra megállapított ÜHG-egységmennyiségeket a miniszter az általa vezetett minisztérium honlapján közleményben teszi közzé és gondoskodik annak Hivatalos Értesítőben való közzétételéről.
 
-(8) A szén-dioxid-kibocsátásáthelyezés kockázatának jelentős mértékben kitett ágazatok és alágazatok listájának módosulása esetén a miniszter a Kormány által az e törvény végrehajtására kiadott kormányrendeletben foglaltaknak megfelelően módosítja a Nemzeti Végrehajtási Intézkedést.
+(8) A szén-dioxid-kibocsátásáthelyezés kockázatának jelentős mértékben kitett ágazatok és alágazatok listájának módosulása esetén a miniszter a Kormány által az e törvény végrehajtására kiadott kormányrendeletben foglaltaknak megfelelően módosítja a Nemzeti Végrehajtási Intézkedést, az Európai Bizottság által jóváhagyott új belépő kérelemnek megfelelő vagy jelentős változást tartalmazó táblázatot.

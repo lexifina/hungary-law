@@ -8,6 +8,6 @@
 
 (4) Az állam tulajdonában lévő ÜHG-egységek árverés útján történő értékesítésére Magyarország a tagállamok által az 1031/2010/EU bizottsági rendelet 26. cikk (1) és (2) bekezdésének megfelelően kiválasztott aukciós platformot veszi igénybe.
 
-(5) A térítés ellenében kiosztott (értékesített) ÜHG-egységek számlatulajdonosok forgalmi jegyzékbeli számláin történő jóváírásáról a miniszter a jegyzékkezelő útján gondoskodik.
+(5)
 
 (6) Az ÜHG-egységek térítés ellenében történő kiosztása (értékesítése) során az Nvtv. átlátható szervezetre vonatkozó rendelkezéseit nem kell alkalmazni.

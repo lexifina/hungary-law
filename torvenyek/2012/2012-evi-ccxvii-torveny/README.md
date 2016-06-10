@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-217-00-00
 | 2014-12-31 | 2014. évi LXXXIX. törvény | 2012-217-00-00.13 |
 | 2015-01-15 | 2014. évi LXXXIX. törvény | 2012-217-00-00.14 |
 | 2015-07-10 | 2015. évi XCV. törvény | 2012-217-00-00.15 |
+| 2016-06-10 | 2016. évi LI. törvény | 2012-217-00-00.16 |

@@ -2,13 +2,13 @@
 
 (2) A kibocsátási engedély visszavonásig hatályos.
 
-(3) A hatóság a kibocsátási engedélyt rendszeresen, de legalább ötévente felülvizsgálja. A hatóság a felülvizsgálatot végzéssel rendeli el. Ha a hatóság a vizsgálat eredményeképpen megállapítja, hogy
+(3) A hatóság a kibocsátási engedélyt rendszeresen, de legalább ötévente felülvizsgálja. A hatóság a felülvizsgálatot hatósági ellenőrzés keretében végzi. Ha a hatóság az ellenőrzés eredményeképpen megállapítja, hogy
 
-a) az engedély kiadásakor megállapított feltételek megváltoztak, az engedély módosítása iránt intézkedik, amelynek eredményeként ugyanazon engedélyazonosító alatt új kibocsátási engedélyt ad ki,
+a) az engedély kiadásakor megállapított feltételek megváltoztak, felhívja az üzemeltetőt az engedély módosítása iránti kérelem benyújtására, és ugyanazon engedélyazonosító alatt új kibocsátási engedélyt ad ki,
 
 b) az engedély kiadásához szükséges valamely feltétel nem áll fenn, a kibocsátási engedélyt visszavonja,
 
-c) az engedély kiadásához szükséges valamennyi feltétel változatlanul fennáll, az engedélyt végzéssel hatályában fenntartja.
+c) az engedély kiadásához szükséges valamennyi feltétel változatlanul fennáll, ennek ténye a hatósági ellenőrzést lezáró jegyzőkönyvben rögzítésre kerül.
 
 (3a) A hatóság a kibocsátási engedélyben végrehajtott módosításról, illetve az engedély visszavonásáról tájékoztatja az államháztartásért felelős minisztert (a továbbiakban: miniszter). A miniszter tájékoztatja a hatóságot minden olyan, az üzemeltetők és a légi jármű üzembentartók működésével kapcsolatos adatról, amely adatot közvetlenül a miniszterhez nyújtottak be, és az adat megismerése a hatóság e törvény és a végrehajtására kiadott kormányrendelet szerinti feladat- és hatáskörébe tartozik.
 
@@ -22,7 +22,7 @@ b) a létesítmény azonosító adatai,
 
 c) a létesítményben folytatott tevékenységre, az alkalmazott technológiára és az engedélyezett kibocsátásra vonatkozó adatok,
 
-d) a hatóság által jóváhagyott nyomonkövetési terv,
+d) üzemeltető által benyújtott nyomonkövetési terv jóváhagyása,
 
 e) a jelentési követelmények és
 
