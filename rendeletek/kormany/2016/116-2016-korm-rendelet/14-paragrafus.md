@@ -1,9 +1,9 @@
-## 13. §[^4]
+## 13. §[^8]
 
-14. § (1)[^5]
+14. § (1)[^9]
 
-(2)[^6]
+(2)[^10]
 
-[^4]: A 13. § a 33. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
-[^5]: A 14. § (1) bekezdése a 33. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
-[^6]: A 14. § (2) bekezdése a 33. § (3) bekezdése alapján 2016. december 1-jén lép hatályba.
+[^8]: A 13. § a 33. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+[^9]: A 14. § (1) bekezdése a 33. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+[^10]: A 14. § (2) bekezdése a 33. § (3) bekezdése alapján 2016. december 1-jén lép hatályba.

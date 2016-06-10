@@ -1,3 +1,3 @@
-## 12. §[^3]
+## 12. §[^7]
 
-[^3]: A 12. § a 33. § (3) bekezdése alapján 2016. december 1-jén lép hatályba.
+[^7]: A 12. § a 33. § (3) bekezdése alapján 2016. december 1-jén lép hatályba.
