@@ -16,6 +16,8 @@ a) a 2003/87/EK európai parlamenti és tanácsi irányelv, valamint a 280/2004/
 
 b) az üvegházhatást okozó gázok kibocsátásának nyomon követésére és bejelentésére, valamint az éghajlatváltozással kapcsolatos egyéb információk nemzeti és uniós szintű bejelentésére szolgáló rendszerről, valamint a 280/2004/EK határozat hatályon kívül helyezéséről szóló, 2013. május 21-i 525/2013/EU európai parlamenti és tanácsi rendelet
 
-c) a fluortartalmú üvegházhatású gázokról és a 842/2006/EK rendelet hatályon kívül helyezéséről szóló, 2014. április 16-i 517/2014/EU európai parlamenti és tanácsi rendelet
+c) a fluortartalmú üvegházhatású gázokról és a 842/2006/EK rendelet hatályon kívül helyezéséről szóló, 2014. április 16-i 517/2014/EU európai parlamenti és tanácsi rendelet,
+
+d) az 517/2014/EU európai parlamenti és tanácsi rendelet alapján a fluortartalmú üvegházhatású gázokat tartalmazó, helyhez kötött hűtő-, légkondicionáló és hőszivattyú-berendezések, valamint a hűtőkamionok és -pótkocsik fluortartalmú üvegházhatású gázokat tartalmazó hűtőegységei tekintetében a természetes személyek képesítésére, valamint a fluortartalmú üvegházhatású gázokat tartalmazó, helyhez kötött hűtő-, légkondicionáló és hőszivattyú-berendezések tekintetében a vállalatok képesítésére vonatkozó minimumkövetelmények és kölcsönös elismerési feltételek meghatározásáról, 2015. november 17-ei 2015/2067 bizottsági végrehajtási rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.

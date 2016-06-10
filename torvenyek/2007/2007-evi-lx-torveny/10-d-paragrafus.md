@@ -1,9 +1,7 @@
-10/D. § (1) 2015. január 1. napjától csak azon, az Európai Unió területén letelepedett gyártók és importőrök jogosultak fluorozott szénhidrogéneket tartalmazó berendezéseket és termékeket forgalomba hozni Magyarország területén, amelyek eleget tesznek az uniós jogi aktusban meghatározott nyilatkozattételi és nyilvántartásba-vételi kötelezettségüknek és az Európai Bizottság által kiosztott forgalombahozatali kvótában részesülnek.
+10/D. § (1) A gyártók és importőrök fluortartalmú üvegházhatású gázokat csak az 517/2014/EU európai parlamenti és tanácsi rendeletben foglaltak szerint hozhatnak forgalomba Magyarország területén.
 
 (2) Magyarország területén az uniós jogi aktusban meghatározott termékeket és berendezéseket az ott rögzítettek szerint lehet forgalomba bocsátani és az ott meghatározott adattartalommal rendelkező címkével kell ellátni.
 
 (3) Az uniós jogi aktusban rögzített tilalmak alá eső termékek és berendezések esetében a klímavédelemért felelős hatóság útján az Európai Bizottság felé forgalombahozatali mentességi kérelem nyújtható be. A kérelem benyújtásának részletes szabályait az e törvény végrehajtására kiadott kormányrendelet határozza meg.
 
-(4) Azon vállalkozásokkal szemben, amelyek a forgalomba hozatalra, címkézésre vonatkozó, a fluortartalmú üvegházhatású gázokról szóló uniós jogi aktusban meghatározott kötelezettségeket megszegik, annak nem vagy nem megfelelően tesznek eleget, a 10/H. §-ban és a 10/I. §-ban, valamint az e törvény végrehajtására kiadott kormányrendeletben megállapított jogkövetkezmények alkalmazásának van helye.
-
-(5) Vállalkozás Magyarország területén fluortartalmú üvegházhatású gázokkal kereskedelmi export- és importtevékenységet az Európai Unión kívüli harmadik országgal és az Európai Unió tagállamával kizárólag megfelelő képesítés birtokában, fluorozott szénhidrogénekkel előtöltött berendezések tekintetében pedig az uniós jogi aktusban meghatározottak szerint folytathat a klímavédelemért felelős hatóság által vezetett adatbázisban történt regisztrációt és adatszolgáltatást követően a 10/G. §-ban és az e törvény végrehajtására kiadott kormányrendeletben meghatározott adattartalommal és módon.
+(4)–(5)

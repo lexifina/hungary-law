@@ -46,4 +46,4 @@
 
 22. kibocsátási jogosultság: a kiotói egység, valamint az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti ÜHG-egység és ESD-egység;
 
-23. klímavédelmi bírság: a fluortartalmú üvegházhatású gázokkal kapcsolatos jogszabály, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusa vagy hatósági határozat előírásainak megsértése esetére az e törvény végrehajtására kiadott kormányrendeletben meghatározott mértékű bírság a fluortartalmú üvegházhatású gázokkal kapcsolatos tevékenységek végzése, valamint az ilyen fajta gázokkal működtetett berendezések és létesítmények üzemeltetése kapcsán.
+23.

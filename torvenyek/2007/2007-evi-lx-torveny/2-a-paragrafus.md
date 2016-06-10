@@ -1,0 +1,1 @@
+2/A. § Az e törvényben nem meghatározott, a fluortartalmú üvegházhatású gázokra vonatkozó fogalmak esetében az 517/2014/EU európai parlamenti és tanácsi rendelet 2. cikkében és a rendelet végrehajtására kiadott uniós jogi normákban meghatározottak az irányadóak.

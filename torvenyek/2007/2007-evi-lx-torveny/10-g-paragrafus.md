@@ -50,7 +50,7 @@ cc) a bírság kiszabása mellőzésének ténye, figyelmeztetés ténye,
 
 cd) a regisztrációs és felügyeleti díj összege és megfizetésének ténye, behajtás állapota,
 
-ce) a természetes személy képesítését, képzettségét igazoló kártya száma, kiállítás dátuma, gazdálkodó szervezetek esetében megfelelő képesítéssel rendelkező munkatársaknak az a) pontban rögzített adatai és képesítést, képzettséget igazoló kártya száma,
+ce) a természetes személy képesítését, képzettségét igazoló tanúsítvány száma, kiállítás dátuma, vállalkozás esetében megfelelő képesítéssel rendelkező munkatársnak az a) pontban rögzített adatai és képesítést, képzettséget igazoló tanúsítvány száma,
 
 cf) természetes személy esetében legmagasabb iskolai végzettség, OKJ-bizonyítvány száma, OKJ-végzettség kódja,
 
@@ -69,3 +69,5 @@ ck) minden egyéb olyan adat, amelynek jelentésére és nyilvántartására az 
 (4) A klímavédelemért felelős hatóság az F-Gáz ügyfélazonosítóval rendelkező ügyfelek számára biztosítja az elektronikus kapcsolattartást és ügyintézést, amelynek részletes szabályait miniszteri rendelet állapítja meg.
 
 (5) Az adatbázisban tárolt, F-Gáz ügyfélazonosítóhoz tartozó személyes adatokat a tevékenység megszűnését vagy megszüntetését követő 5 év elteltével törölni kell.
+
+(6) Az energiapolitikáért felelős miniszter felügyelete alatt álló klímavédelemért felelős hatóság döntése ellen fellebbezésnek helye nincs.
