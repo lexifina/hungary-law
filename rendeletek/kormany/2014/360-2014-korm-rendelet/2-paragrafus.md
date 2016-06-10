@@ -1,1 +1,0 @@
-## 1. § A 2015. évre vonatkozó, a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerinti minimális vagyonvédelmi szolgáltatási rezsióradíj (a továbbiakban: minimális vagyonvédelmi szolgáltatási rezsióradíj) általános forgalmi adó nélküli legkisebb mértéke 1929 forint/óra.
