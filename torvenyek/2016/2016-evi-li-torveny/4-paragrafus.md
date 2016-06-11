@@ -1,3 +1,0 @@
-4. § Az Éhvt. 10/B. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A klímavédelemért felelős hatóság e törvény végrehajtására kiadott kormányrendelet szerinti hatósági eljárás keretében elismeri az Európai Unió más tagállamában kiadott képesítéseket. A képesítés elismerése érdekében a képesített személy, valamint a képesített vállalkozás köteles benyújtani a kiállított képesítési, képzési igazolást. A klímavédelemért felelős hatóság az elismerési eljárást soron kívül, 8 munkanapon belül folytatja le, amelynek eredményéről a képesített személyt, valamint a képesített vállalkozást haladéktalanul értesíti.”

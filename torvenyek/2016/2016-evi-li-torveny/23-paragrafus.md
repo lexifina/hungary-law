@@ -1,3 +1,0 @@
-23. § Az Ügkr. 5. §-a a következő (3a) bekezdéssel egészül ki:
-
-„(3a) A korábbi üzemeltető köteles valamennyi olyan adatot az új üzemeltető rendelkezésére bocsátani, amely ahhoz szükséges, hogy az új üzemeltető arra az évre (tárgyévre) vonatkozóan, amikor az üzemeltető személyében változás következett be, a 10. § (1) bekezdésének megfelelő éves kibocsátását tartalmazó hitelesített kibocsátási jelentéstételi kötelezettségének eleget tudjon tenni. A korábbi üzemeltető ezen adatátadási kötelezettségének határideje a korábbi üzemeltetőnek a létesítmény üzemeltetésével kapcsolatos tevékenysége megszűnésétől számított 30 nap.”
