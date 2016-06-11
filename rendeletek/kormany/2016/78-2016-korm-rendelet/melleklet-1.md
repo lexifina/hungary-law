@@ -1,4 +1,4 @@
-## 4. § Hatályát veszti a 2015. évre vonatkozó, a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenység szabályairól szóló törvény szerinti minimális vagyonvédelmi szolgáltatási rezsióradíj mértékéről szóló 360/2014. (XII. 30.) Korm. rendelet.
+## 4. §[^2]
 
 1. melléklet a 78/2016. (IV. 11.) Korm. rendelethez
 
@@ -99,3 +99,5 @@ A minimális vagyonvédelmi szolgáltatási rezsióradíj egyes elemei
 | 9. ÖSSZESEN | 61 |
 
 | MINDÖSSZESEN | 1929 |
+
+[^2]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

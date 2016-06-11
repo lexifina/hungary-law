@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-78-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-06-10 | 2016-78-20-22.1 | 78/2016. (IV. 11.) Korm. rendelet |
+| 2016-06-11 | 2016-78-20-22.2 | 44/2017. (III. 17.) Korm. rendelet |
