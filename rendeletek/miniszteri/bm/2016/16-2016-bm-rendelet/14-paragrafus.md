@@ -1,0 +1,13 @@
+14. § (1) A közcélú szennyvízelvezető, -tisztító műbe bebocsátott, a tisztítás alatt álló, valamint a tisztított szennyvíz és a szennyvíziszap fizikai, kémiai, biológiai, bakteriológiai, szükség szerinti toxikológiai vizsgálatát a közcélú szennyvízelvezető, -tisztító mű üzemeltetője végzi vagy végezteti az önellenőrzési tervnek megfelelően.
+
+(2) A vizsgálat kiterjed a közcélú szennyvízelvezető műbe bebocsátott szennyvíz minőségére, a közcélú szennyvízelvezető, -tisztító mű megjelölt pontjain történő mintavételekre, a közcélú szennyvíztisztító műtárgyak hatásfokvizsgálatával járó minőség-ellenőrzésre, továbbá az újrafelhasználásra kerülő tisztított szennyvíz és a szennyvíziszap mennyiségi, valamint fizikai, kémiai és biológiai vizsgálatára is.
+
+(3) Mezőgazdasági felhasználásra csak olyan tisztított szennyvíz és kezelt szennyvíziszap adható át, amelynek minősége megfelel a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendeletben meghatározott minőségi követelményeknek, és rendelkezik talajvédelmi hatósági engedéllyel, vagy forgalomba hozatali és felhasználási engedéllyel.
+
+(4) A közüzemi szennyvízelvezetés-szolgáltatáshoz szükséges hatóság által előírt laboratóriumi vizsgálatokról a közcélú szennyvízelvezető, -tisztító mű üzemeltető saját maga vagy kiszervezés keretében megbízott, vizsgálati jogosultsággal rendelkező akkreditált laboratórium útján gondoskodik.
+
+(5) Belső ellenőrzés elvégzéséhez fenntartott saját, nem akkreditált üzemviteli laboratórium esetén a vizsgálatok tárgyi feltételeinek biztosításáról, így legalább két laboratóriumi helyiség kialakításáról, az előírt műszerek, felszerelések meglétéről, a vizsgálatot végző személyek számára a vonatkozó műszaki előírások hozzáférhetőségéről a közcélú szennyvízelvezető, -tisztító mű üzemeltetőnek gondoskodnia kell.
+
+(6) Saját, nem akkreditált üzemviteli laboratórium esetén a közcélú szennyvízelvezető, -tisztító mű üzemeltetőnek a laboratóriumi munka megbízhatóságának ellenőrzésére olyan belső vizsgálati rendszert kell működtetnie, amely alkalmas a vizsgálati minták azonosítására, a vizsgálati módszerek belső ellenőrzésére, az eszközök és műszerek karbantartásának, továbbá a vizsgálati eredményeknek az ellenőrzésére és nyilvántartására. A rendszer működtetéséért a laboratórium vezetője a felelős.
+
+(7) A közcélú szennyvízelvezető, -tisztító mű üzemeltető az elvezetett vagy a tisztított szennyvíz minőségében bekövetkezett hátrányos változás észlelésekor az okok felderítése és a minőségromlás megszüntetése érdekében köteles haladéktalanul intézkedni az illetékes vízügyi hatóság és a területi vízügyi igazgatási szerv egyidejű tájékoztatása mellett, szükség esetén közigazgatási hatósági eljárást kezdeményezni.

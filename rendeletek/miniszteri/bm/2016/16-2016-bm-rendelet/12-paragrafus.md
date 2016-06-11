@@ -1,0 +1,11 @@
+12. § (1) A közcélú szennyvízelvezető, -tisztító mű üzemeltetője a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendeletben előírtak, valamint a vízjogi üzemeltetési engedélyben foglaltaknak megfelelően gondoskodik a közcélú szennyvízelvezető műbe bebocsátott szennyvíz – egyesített rendszer esetén a szennyvíz és a csapadékvíz – elvezetéséről, megfelelő tisztításáról és ártalommentes elhelyezéséről.
+
+(2) Az (1) bekezdésben meghatározott feladatok ellátása során a közcélú szennyvízelvezető, -tisztító mű üzemeltető gondoskodik annak ellenőrzéséről, hogy a közcélú szennyvízelvezető műbe csak a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben előírt, olyan összetételű – szükség szerint előtisztított – szennyvizet vezessenek be, amelynek tisztítására a mű kialakított, engedélyezett tisztítás-technológiai eljárása rendeltetésszerű működés mellett alkalmas, állagára nem káros, és az ott dolgozók egészségét, testi épségét nem veszélyezteti.
+
+(3) A közcélú szennyvízelvezető, -tisztító művet úgy kell üzemeltetni, hogy kiépítési jellemzőinek megfelelő mértékben alkalmas legyen a közművel, illetve nem közművel összegyűjtött háztartási szennyvíz fogadására, és az egyedi zárt szennyvíztárolóból származó szennyvíz előírt mértékű tisztítására, elégítse ki a vízgazdálkodási, biztonságtechnikai, víz-, környezet- és természetvédelmi követelményeket.
+
+(4) A közcélú szennyvízelvezető, -tisztító mű üzemeltetője köteles a keletkező szennyvíziszapot a szennyvízelvezető és -tisztító mű vízjogi üzemeltetési vagy fennmaradási engedélyében előírtaknak megfelelően kezelni, és hasznosítani vagy elhelyezni.
+
+(5) A keletkező szennyvíziszap, rácsszemét és homok üzemszerű eltávolításánál a közcélú szennyvízelvezető, -tisztító mű üzemeltetője gondoskodik arról, hogy a kezelés és a szállítás a környezeti elemekben csak a határértékeknek megfelelő környezetterhelést eredményezzen.
+
+(6) A közcélú szennyvízelvezető, -tisztító mű üzemeltetését szolgáló berendezések, műszerek, informatikai rendszerek folyamatos működéséről és fenntartásáról a közcélú szennyvízelvezető, -tisztító mű üzemeltetője gondoskodik.

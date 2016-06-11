@@ -1,0 +1,5 @@
+13. § (1) A közcélú szennyvízelvezető mű működésében keletkezett hibák elhárítása során, illetve a karbantartási vagy fejlesztési munkák alatt a szennyvíz továbbvezetéséről folyamatosan gondoskodni kell.
+
+(2) A közcélú szennyvízelvezető, -tisztító mű üzemeltetésével összefüggő, a környezetet károsító, vagy annak közvetlen veszélyével járó üzemzavart a közcélú szennyvízelvezető, -tisztító mű üzemeltető haladéktalanul bejelenti az illetékes környezetvédelmi hatóságnak, az ellátásért felelősnek, a víziközmű tulajdonosának, az illetékes vízügyi hatóságnak és a területi vízügyi igazgatási szervnek. Ha a közcélú szennyvízelvezető, -tisztító műből kijutó szennyezés emberi egészséget veszélyeztet, a közcélú szennyvízelvezető, -tisztító mű üzemeltetője, az illetékes népegészségügyi szervet, természetvédelmi védelem alatt álló terület veszélyeztetése esetén az illetékes természetvédelmi hatóságot is értesíti.
+
+(3) Hibaelhárítás, karbantartás után a közcélú szennyvízelvezető, -tisztító mű, illetve annak valamennyi érintett egysége a hatósági engedélyekben, illetve más rendelkezésekben meghatározott műszaki feltételek megléte esetén helyezhető ismételten üzembe.
