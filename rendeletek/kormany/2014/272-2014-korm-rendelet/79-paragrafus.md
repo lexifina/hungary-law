@@ -1,10 +1,10 @@
 79. § (1) A támogatási szerződésnek tartalmaznia kell legalább
 
-a)[^347] a támogatott tevékenység meghatározását, pénzügyi eszköz kivételével a projektszintű mérföldköveket, a műszaki-szakmai tartalom leírását, a teljesítendő indikátorokat és azok célértékeit, teljesítésük határidejét, valamint a projektre vonatkozó horizontális követelmények egyértelmű, nyomon követhető meghatározását,
+a)[^352] a támogatott tevékenység meghatározását, pénzügyi eszköz kivételével a projektszintű mérföldköveket, a műszaki-szakmai tartalom leírását, a teljesítendő indikátorokat és azok célértékeit, teljesítésük határidejét, valamint a projektre vonatkozó horizontális követelmények egyértelmű, nyomon követhető meghatározását,
 
-b)[^348] a támogatás összegét, a támogatási intenzitást, a támogatási kategóriát és az elszámolható költségeket, pénzügyi eszköz esetében a nyújtott forrás, vállalt kezesség összegét,
+b)[^353] a támogatás összegét, a támogatási intenzitást, a támogatási kategóriát és az elszámolható költségeket, pénzügyi eszköz esetében a nyújtott forrás, vállalt kezesség összegét,
 
-c)[^349] a projekt fizikai befejezésének, megvalósításának határidejét,
+c)[^354] a projekt fizikai befejezésének, megvalósításának határidejét,
 
 d) a támogatás rendelkezésre bocsátásának módját, feltételeit, ütemezését a kedvezményezett által benyújtott, az irányító hatóság által elfogadott költségterv alapján,
 
@@ -18,15 +18,15 @@ h) a támogatással kapcsolatos iratok, valamint a támogatás felhasználását
 
 i) az e rendelet szerinti adatszolgáltatásokhoz szükséges adatok és az azokban bekövetkező változások irányító hatóság felé történő bejelentésének kötelezettségét, a bejelentési kötelezettség elmulasztásának következményeit,
 
-j)[^350] a jogviszony megszüntetésének egyes eseteit,
+j)[^355] a jogviszony megszüntetésének egyes eseteit,
 
 k) az „A kedvezményezett nem követhet el, nem engedélyezhet, illetve harmadik személyt nem jogosíthat fel olyan cselekményekre, amely a közélet tisztaságára vonatkozó, valamint a korrupció-ellenes jogszabályok megsértését eredményezi. A kedvezményezett nem fogadhat el, nem ajánlhat fel és nem adhat az eljáró harmadik személynek ajándékot, illetve pénzbeli vagy nem pénzbeli juttatást” szövegű korrupció-ellenes záradékot.
 
-l)[^351] visszatérítendő támogatás esetén azokat a végrehajtási feltételeket, amelyek teljesülésének figyelembevételével az irányító hatóság a visszatérítéssel érintett támogatás arányát a záró kifizetési kérelem jóváhagyásakor meghatározza,
+l)[^356] visszatérítendő támogatás esetén azokat a végrehajtási feltételeket, amelyek teljesülésének figyelembevételével az irányító hatóság a visszatérítéssel érintett támogatás arányát a záró kifizetési kérelem jóváhagyásakor meghatározza,
 
-m)[^352] visszatérítendő támogatás esetén a végrehajtási feltételek teljesülésekor alkalmazandó visszafizetési szabályokat és a visszafizetés indikatív ütemezését.
+m)[^357] visszatérítendő támogatás esetén a végrehajtási feltételek teljesülésekor alkalmazandó visszafizetési szabályokat és a visszafizetés indikatív ütemezését.
 
-(1a)[^353] A szakpolitikai mutató nem teljesítéséért a kedvezményezett nem szankcionálható.
+(1a)[^358] A szakpolitikai mutató nem teljesítéséért a kedvezményezett nem szankcionálható.
 
 (2) A kedvezményezett a támogatási szerződésbe foglalva köteles nyilatkozni arról, hogy
 
@@ -50,11 +50,11 @@ db) – ha a da) pont szerinti beszámítás nem lehetséges – a központi kö
 
 e) ha ellene jogerős végzéssel végelszámolási, felszámolási-, csőd- vagy egyéb, a megszüntetésére irányuló, jogszabályban meghatározott eljárást rendelnek el, azt az irányító hatóságnak bejelenti,
 
-f)[^354] ha az Atr. 2. § 1. pont a)–d) alpontja szerinti csekély összegű (de minimis) támogatást igényel, a folyamatban lévő és az azt megelőző két pénzügyi év során részére megítélt csekély összegű (de minimis) támogatásnak mennyi volt a támogatástartalma.
+f)[^359] ha az Atr. 2. § 1. pont a)–d) alpontja szerinti csekély összegű (de minimis) támogatást igényel, a folyamatban lévő és az azt megelőző két pénzügyi év során részére megítélt csekély összegű (de minimis) támogatásnak mennyi volt a támogatástartalma.
 
-(2a)[^355] Pénzügyi eszközök esetén a (2) bekezdés d) pontját nem kell alkalmazni.
+(2a)[^360] Pénzügyi eszközök esetén a (2) bekezdés d) pontját nem kell alkalmazni.
 
-(2b)[^356] EMVA forrásból származó támogatás esetén
+(2b)[^361] EMVA forrásból származó támogatás esetén
 
 a) a megítélt támogatást a kifizető ügynökség a 908/2014/EU bizottsági rendelet 28. cikke alapján a kedvezményezettet terhelő, az intézkedésekkel összefüggő tartozás összegéig visszatarthatja, és ezzel a tartozás megfizetettnek minősül, és
 
@@ -62,13 +62,13 @@ b) ha a kedvezményezettnek köztartozása vagy a kifizető ügynökséggel szem
 
 (3) A támogatási szerződés jogszabály által nem rendezett kérdéseket is szabályozhat. A támogatói okirat kizárólag jogszabályi rendelkezésen, a felhíváson vagy a kedvezményezett korábbi előzetes nyilatkozatán alapuló kérdésekről rendelkezhet. Támogatói okirat alkalmazása esetén a kedvezményezett a (2) bekezdésben foglaltakról a támogatási kérelem benyújtásával egyidejűleg nyilatkozik.
 
-[^347]: A 79. § a) pontja a 144/2015. (VI. 12.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
-[^348]: A 79. § b) pontja a 144/2015. (VI. 12.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
-[^349]: A 79. § (1) bekezdés c) pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 18. pontja szerint módosított szöveg.
-[^350]: A 79. § (1) bekezdés j) pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 19. pontja szerint módosított szöveg.
-[^351]: A 79. § (1) bekezdés l) pontját a 466/2015. (XII. 29.) Korm. rendelet 24. §-a iktatta be.
-[^352]: A 79. § (1) bekezdés m) pontját a 466/2015. (XII. 29.) Korm. rendelet 24. §-a iktatta be.
-[^353]: A 79. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 47. § (2) bekezdése iktatta be.
-[^354]: A 79. § (2) bekezdés f) pontja a 98/2016. (V. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^355]: A 79. § (2a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 47. § (4) bekezdése iktatta be.
-[^356]: A 79. § (2b) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 47. § (4) bekezdése iktatta be, szövege a 98/2016. (V. 13.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.
+[^352]: A 79. § a) pontja a 144/2015. (VI. 12.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^353]: A 79. § b) pontja a 144/2015. (VI. 12.) Korm. rendelet 47. § (1) bekezdésével megállapított szöveg.
+[^354]: A 79. § (1) bekezdés c) pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 18. pontja szerint módosított szöveg.
+[^355]: A 79. § (1) bekezdés j) pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 19. pontja szerint módosított szöveg.
+[^356]: A 79. § (1) bekezdés l) pontját a 466/2015. (XII. 29.) Korm. rendelet 24. §-a iktatta be.
+[^357]: A 79. § (1) bekezdés m) pontját a 466/2015. (XII. 29.) Korm. rendelet 24. §-a iktatta be.
+[^358]: A 79. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 47. § (2) bekezdése iktatta be.
+[^359]: A 79. § (2) bekezdés f) pontja a 98/2016. (V. 13.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
+[^360]: A 79. § (2a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 47. § (4) bekezdése iktatta be.
+[^361]: A 79. § (2b) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 47. § (4) bekezdése iktatta be, szövege a 98/2016. (V. 13.) Korm. rendelet 27. § (2) bekezdésével megállapított szöveg.

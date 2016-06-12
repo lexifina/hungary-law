@@ -1,29 +1,29 @@
-117. § (1)[^499] A támogatási előlegnyújtás ütemezésének igazodnia kell a projekt megvalósítása során a költségek felmerüléséhez.
+117. § (1)[^504] A támogatási előlegnyújtás ütemezésének igazodnia kell a projekt megvalósítása során a költségek felmerüléséhez.
 
-(2)[^500] A támogatási előleg igénylésére és folyósítására több részletben is sor kerülhet.
+(2)[^505] A támogatási előleg igénylésére és folyósítására több részletben is sor kerülhet.
 
 (3) A több részletben történő folyósításra akkor kerülhet sor, ha
 
 a) a kedvezményezett több részletben igényli a támogatási előleget, vagy
 
-b)[^501] kedvezményezett egy összegben igényli a támogatási előleget, de a projekt költségeinek felmerülését mérlegelve az irányító hatóság a részletekben történő folyósítás mellett dönt.
+b)[^506] kedvezményezett egy összegben igényli a támogatási előleget, de a projekt költségeinek felmerülését mérlegelve az irányító hatóság a részletekben történő folyósítás mellett dönt.
 
 (4) Támogatási előleg több részletben történő folyósítása esetén a több részletben igényelt és folyósított előleg együttes összege nem haladhatja meg a támogatási szerződésben meghatározott mértéket, illetve összeget.
 
-(5)[^502]
+(5)[^507]
 
 (6) Ha a kedvezményezett a támogatási előlegigénylési kérelmét a támogatási szerződés hatálybalépése előtt benyújtja, az előlegigénylés beérkezési dátumának a támogatási szerződés hatálybalépése minősül.
 
-(7)[^503] A kedvezményezett a XXIII. fejezet szerint köteles visszafizetni a támogatási előleget, ha nem nyújt be igénylést időközi kifizetésre a támogatási előleg – vagy több részletben történő előlegfolyósítás esetén annak első részlete – kifizetésétől számított nyolc hónapon belül, illetve a benyújtott kifizetési igénylés vagy más körülmény – így különösen a helyszíni ellenőrzés tapasztalatai – a támogatás nem rendeltetésszerű felhasználását bizonyítja.
+(7)[^508] A kedvezményezett a XXIII. fejezet szerint köteles visszafizetni a támogatási előleget, ha nem nyújt be igénylést időközi kifizetésre a támogatási előleg – vagy több részletben történő előlegfolyósítás esetén annak első részlete – kifizetésétől számított nyolc hónapon belül, illetve a benyújtott kifizetési igénylés vagy más körülmény – így különösen a helyszíni ellenőrzés tapasztalatai – a támogatás nem rendeltetésszerű felhasználását bizonyítja.
 
-(7a)[^504] A támogatási előleggel való teljes elszámolást követően az előleg a még el nem számolt támogatásnak a 116. § (2) és (3) bekezdése szerinti mértékéig, illetve összegéig újra igényelhető, ha erre a felhívás, illetve a támogatási szerződés lehetőséget biztosít.
+(7a)[^509] A támogatási előleggel való teljes elszámolást követően az előleg a még el nem számolt támogatásnak a 116. § (2) és (3) bekezdése szerinti mértékéig, illetve összegéig újra igényelhető, ha erre a felhívás, illetve a támogatási szerződés lehetőséget biztosít.
 
-(8)[^505] A támogatási előleggel legkésőbb a záró kifizetési igénylésben el kell számolni oly módon, hogy a támogatási előleg teljes összege erejéig rendelkezésre álljon a kedvezményezett által kifizetési igénylés keretében benyújtott, alátámasztó dokumentumokkal igazolt és az irányító hatóság vagy a kifizető ügynökség által elfogadott költség.
+(8)[^510] A támogatási előleggel legkésőbb a záró kifizetési igénylésben el kell számolni oly módon, hogy a támogatási előleg teljes összege erejéig rendelkezésre álljon a kedvezményezett által kifizetési igénylés keretében benyújtott, alátámasztó dokumentumokkal igazolt és az irányító hatóság vagy a kifizető ügynökség által elfogadott költség.
 
-[^499]: A 117. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
-[^500]: A 117. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
-[^501]: A 117. § (3) bekezdés b) pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 24. pontja szerint módosított szöveg.
-[^502]: A 117. § (5) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 25. pontja hatályon kívül helyezte.
-[^503]: A 117. § (7) bekezdése a 42/2016. (III. 9.) Korm. rendelet 4. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^504]: A 117. § (7a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 68. § (2) bekezdése iktatta be.
-[^505]: A 117. § (8) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg.
+[^504]: A 117. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^505]: A 117. § (2) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
+[^506]: A 117. § (3) bekezdés b) pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 24. pontja szerint módosított szöveg.
+[^507]: A 117. § (5) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 25. pontja hatályon kívül helyezte.
+[^508]: A 117. § (7) bekezdése a 42/2016. (III. 9.) Korm. rendelet 4. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^509]: A 117. § (7a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 68. § (2) bekezdése iktatta be.
+[^510]: A 117. § (8) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 68. § (2) bekezdésével megállapított szöveg.
