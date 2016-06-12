@@ -1,22 +1,23 @@
-## 43–44. §[^11]
+## 43–44. §[^9]
 
-45. § (1)[^12]
+45. § (1)[^10]
 
 (2) A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet
 
-1–7.[^13]
+1–7.[^11]
 
-8–9.[^14]
+8. 36.3. pont d) alpontjában a „szereplő” szövegrész helyébe a „szereplő közgyűlése vagy kijelölt bizottsága” szöveg,
 
-10–57.[^15]
+9. 36.5. pont d) alpontjában a „szereplő” szövegrész helyébe a „szereplő közgyűlése vagy kijelölt bizottsága” szöveg,
+
+10–57.[^12]
 
 ## lép.
 
-(3)–(5)[^16]
+(3)–(5)[^13]
 
-[^11]: A 43–44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^12]: A 45. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^13]: A 45. § (2) bekezdés 1–7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^14]: A 45. § (2) bekezdés 8–9. pontja a 47. § (2) bekezdése alapján 2016. június 12-én lép hatályba.
-[^15]: A 45. § (2) bekezdés 10–57. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 45. § (3)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 43–44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 45. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 45. § (2) bekezdés 1–7. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 45. § (2) bekezdés 10–57. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 45. § (3)–(5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-## 46. §[^17]
+## 46. §[^14]
 
 47. § (1) Ez a rendelet – a (2) és (3) bekezdésben meghatározott kivétellel – a kihirdetését követő napon lép hatályba.
 
@@ -6,4 +6,4 @@
 
 (3) A 26. § (3) bekezdése és a 42. § a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló törvény hatálybalépésének a napján lép hatályba.
 
-[^17]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
