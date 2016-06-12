@@ -1,13 +1,6 @@
-14. § (1) 2018. január 1. napjától Magyarország területén fluorozott szénhidrogénekkel előtöltött termékek és berendezések csak az alábbi feltételek együttes teljesülése esetén bocsáthatóak forgalomba:
+14. § (1)[^48]
 
-a) a forgalmazó által forgalomba kerülő fluorozott szénhidrogén mennyiség az Európai Bizottság által meghatározott kvótarendszerben a tárgyévre vonatkozóan beszámításra került,
+(2)[^49] A gyártó és az importőr az 517/2014/EU európai parlamenti és tanácsi rendelet 14. cikk (2) bekezdése szerinti megfelelőségi nyilatkozatot és a teljes körű megfelelési dokumentációt a forgalomba hozatalt követő öt évig köteles megőrizni, és azt ellenőrzés során a Hatóság rendelkezésére bocsátani.
 
-b) a forgalmazó az Európai Bizottság által működtetett elektronikus kvóta-nyilvántartásban regisztrálta magát,
-
-c) a forgalmazó az a) és a b) pontra vonatkozóan a gyártó vagy importőr által kiállított megfelelőségi nyilatkozattal és teljes körű megfelelési dokumentációval rendelkezik,
-
-d) az importőr által kiállított megfelelési dokumentációt és megfelelőségi nyilatkozatot akkreditált hitelesítő szervezet ellenőrizte a tárgyév március 31. napjáig,
-
-e) a forgalmazó regisztrált az adatbázisban, jelentéstételi és adatszolgáltatási kötelezettségének a jelen rendeletben és az 517/2014/EU európai parlamenti és tanácsi rendeletben foglaltak eleget tesz.
-
-(2) A gyártó és az importőr a megfelelőségi nyilatkozatot és a teljes körű megfelelési dokumentációt öt évig köteles megőrizni, és azt ellenőrzés során a Hatóság rendelkezésére bocsátani.
+[^48]: A 14. § (1) bekezdését a 112/2016. (V. 27.) Korm. rendelet 30. § 9. pontja hatályon kívül helyezte.
+[^49]: A 14. § (2) bekezdése a 112/2016. (V. 27.) Korm. rendelet 11. §-ával megállapított szöveg.

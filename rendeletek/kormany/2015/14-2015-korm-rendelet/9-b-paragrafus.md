@@ -1,4 +1,4 @@
-9/B. §[^10] (1) A 9/A. § (1) bekezdés szerinti vállalkozás 9/A. § (6) bekezdésében foglalt felelőssége akkor szűnik meg, ha a tevékenysége során bármilyen módon birtokába került alkalmazás a képesített vállalkozás vagy a végfelhasználó birtokaként jelenik meg az adatbázisban.
+9/B. §[^39] (1) A 9/A. § (1) bekezdés szerinti vállalkozás 9/A. § (6) bekezdésében foglalt felelőssége akkor szűnik meg, ha a tevékenysége során bármilyen módon birtokába került alkalmazás a képesített vállalkozás vagy a végfelhasználó birtokaként jelenik meg az adatbázisban.
 
 (2) Ha a 9/A. § (1) bekezdés szerinti vállalkozás az alkalmazást nem a megbízásában meghatározott képesített vállalkozásnak vagy végfelhasználónak adja át, meg kell győződnie arról, hogy az átvevő az alkalmazás birtoklására e rendelet szerint jogosult.
 
@@ -10,4 +10,4 @@
 
 (6) A Hatóság a 9/A. § (1) bekezdés szerinti vállalkozástól tájékoztató adatot, összefoglalót, igazolást, jelentést kérhet.
 
-[^10]: A 9/B. §-t a 389/2015. (XII. 8.) Korm. rendelet 3. §-a iktatta be.
+[^39]: A 9/B. §-t a 389/2015. (XII. 8.) Korm. rendelet 3. §-a iktatta be.

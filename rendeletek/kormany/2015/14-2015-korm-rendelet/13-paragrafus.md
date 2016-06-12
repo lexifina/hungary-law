@@ -1,13 +1,9 @@
-## 10. Fluorozott szénhidrogénekkel előtöltött berendezések forgalomba hozatala Magyarország területén
+## 10.[^45]
 
-13. § (1) 2017. január 1. napjától Magyarország területén fluorozott szénhidrogénekkel előtöltött hűtő-, légkondicionáló és hőszivattyú-berendezéseket forgalomba hozni az alábbi feltételek együttes teljesülése esetén lehet:
+13. § (1)[^46] Magyarország területén fluorozott szénhidrogénekkel előtöltött berendezések csak az 517/2014/EU európai parlamenti és tanácsi rendeletben foglaltak szerint hozhatók forgalomba.
 
-a) a forgalmazó által forgalomba hozott fluorozott szénhidrogén mennyiség az Európai Bizottság által meghatározott kvótarendszerben a tárgyévre vonatkozóan beszámításra került,
+(2)[^47]
 
-b) a forgalmazó az Európai Bizottság által működtetett elektronikus kvóta-nyilvántartásban regisztrálta magát,
-
-c) a forgalmazó az a) és a b) pontra vonatkozóan a gyártó vagy importőr által kiállított megfelelőségi nyilatkozattal és teljes körű megfelelési dokumentációval rendelkezik,
-
-d) a forgalmazó regisztrált az adatbázisban, jelentéstételi és adatszolgáltatási kötelezettségének a jelen rendeletben és az 517/2014/EU európai parlamenti és tanácsi rendeletben foglaltak eleget tesz.
-
-(2) A gyártó és az importőr a megfelelőségi nyilatkozatot és a teljes körű megfelelési dokumentációt öt évig köteles megőrizni, és azt ellenőrzés során a Hatóság rendelkezésére bocsátani.
+[^45]: A 10. alcím címét a 112/2016. (V. 27.) Korm. rendelet 30. § 7. pontja hatályon kívül helyezte.
+[^46]: A 13. § (1) bekezdése a 112/2016. (V. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^47]: A 13. § (2) bekezdését a 112/2016. (V. 27.) Korm. rendelet 30. § 8. pontja hatályon kívül helyezte.
