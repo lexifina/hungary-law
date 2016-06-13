@@ -14,4 +14,6 @@
 
 | 5. | Nemzeti Közlekedési Hatóság |
 
-2. melléklet a 22/2014. (IV. 18.) NFM rendelethez
+2. melléklet a 22/2014. (IV. 18.) NFM rendelethez[^3]
+
+[^3]: A 2. melléklet a 16/2016. (VI. 8.) NFM rendelet 2. §-ával megállapított szöveg.

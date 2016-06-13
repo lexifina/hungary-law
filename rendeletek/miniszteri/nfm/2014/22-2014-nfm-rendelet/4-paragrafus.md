@@ -20,4 +20,8 @@ h) közreműködés a vasúti, közúti, vízi és légi járművek fényeinek, 
 
 i) közreműködés az ország védelmi szempontjából fontos energiahordozók készletezésében, forgalmuk szabályozásában vagy korlátozásában honvédelmi vonatkozású különleges jogrendi időszak esetében;
 
-j) közreműködés a polgári légtérben működő légiforgalmi irányítás katonai felügyeletre történő átállásában honvédelmi vonatkozású különleges jogrendi időszak esetében.
+j) közreműködés a polgári légtérben működő légiforgalmi irányítás katonai felügyeletre történő átállásában honvédelmi vonatkozású különleges jogrendi időszak esetében;
+
+k)[^1] közreműködés a lakosság létfenntartása szempontjából nélkülözhetetlen termelési és szolgáltatási feladatok végrehajtásában a honvédelmi vonatkozású különleges jogrendi időszak esetében.
+
+[^1]: A 4. § k) pontját a 16/2016. (VI. 8.) NFM rendelet 1. §-a iktatta be.
