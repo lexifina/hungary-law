@@ -1,12 +1,12 @@
-## Zajmonitor rendszer létesítése[^25]
+## Zajmonitor rendszer létesítése[^45]
 
-13. §[^26] (1) A zajterhelés rendszeres és folyamatos ellenőrzése érdekében a repülőtér üzemben tartója állandó mérőpontokon kihelyezett mikrofonok és mobil mérőegység üzembeállításával zajmonitor rendszert köteles működtetni minden olyan esetben, ha az alábbi feltételek valamelyike teljesül:
+13. §[^46] (1) A zajterhelés rendszeres és folyamatos ellenőrzése érdekében a repülőtér üzemben tartója állandó mérőpontokon kihelyezett mikrofonok és mobil mérőegység üzembeállításával zajmonitor rendszert köteles működtetni minden olyan esetben, ha az alábbi feltételek valamelyike teljesül:
 
 a) a zajgátló védőövezeten az A és a B jelű övezetekben levő lakások, valamint az R. 10. §-ának (2) bekezdésében említett intézmények száma együttesen több, mint 200,
 
 b) a zajgátló védőövezetek számításánál zajcsökkentő fel- és leszállási eljárásokat vettek figyelembe,
 
-c) a légiközlekedési hatóság a (2) vagy (3) bekezdés szerinti korlátozásokat írt elő, és ezek betartásának ellenőrzéséhez szükségesnek ítéli zajmonitor rendszer létesítését,
+c)[^47] a légiközlekedési hatóság a 12. § (2) vagy (3) bekezdése szerinti korlátozásokat írt elő, és ezek betartásának ellenőrzéséhez szükségesnek ítéli zajmonitor rendszer létesítését,
 
 d) a repülőtér létesítési engedélyében kötelezően elő van írva.
 
@@ -30,5 +30,6 @@ a) új repülőtér létesítése vagy meglévő repülőtér jelentős mérték
 
 b) meglevő repülőtéren, az e rendelet hatálybalépése miatt szükségessé váló zajmonitor rendszer kiépítését vagy szükségessé váló bővítését a zajgátló védőövezet kijelölésétől számított másfél éven belül végre kell hajtani. A légiközlekedési hatóság a zajmonitor rendszer kiépítésére másfél éven túli határidőt is előírhat, ha a zajgátló védőövezetben a zajvédelmi intézkedések végrehajtása az R. 17. §-ának (5) bekezdése szerinti program alapján történik.
 
-[^25]: A 13. § előtti címet a 36/2004. (III. 31.) GKM–KvVM e. r. 10. §-a iktatta be.
-[^26]: A 13. § a 36/2004. (III. 31.) GKM–KvVM e. r. 10. §-ával megállapított szöveg.
+[^45]: A 13. § előtti címet a 36/2004. (III. 31.) GKM–KvVM e. r. 10. §-a iktatta be.
+[^46]: A 13. § a 36/2004. (III. 31.) GKM–KvVM e. r. 10. §-ával megállapított szöveg.
+[^47]: A 13. § (1) bekezdés c) pontja a 17/2016. (VI. 10.) NFM rendelet 6. § r) pontja szerint módosított szöveg.
