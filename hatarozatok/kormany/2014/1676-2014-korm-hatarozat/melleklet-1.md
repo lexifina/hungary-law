@@ -24,7 +24,7 @@
 
 ## Felelős: földművelésügyi miniszter, honvédelmi miniszter, külgazdasági és külügyminiszter, nemzetpolitikáért felelős miniszterelnök-helyettes a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2015. június 30., a Földművelésügyi Minisztérium részére átcsoportosított összeg tekintetében 2016. január 31., a Külgazdasági és Külügyminisztérium részére átcsoportosított összeg tekintetében 2016. június 30.
+## Határidő: 2015. június 30., a Földművelésügyi Minisztérium részére átcsoportosított összeg tekintetében 2016. január 31., a Külgazdasági és Külügyminisztérium részére a Magyar–Kínai kapcsolatok felvételének évfordulójával kapcsolatos feladatokra átcsoportosított 74,4 millió forint tekintetében 2016. december 31., a külképviseleti nyitásokkal kapcsolatban átcsoportosított 2173,6 millió forint tekintetében 2017. június 30.
 
 ## 2.[^2]
 
@@ -180,7 +180,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont záró szövegrésze az 1520/2015. (VII. 27.) Korm. határozat 24. pontja szerint módosított szöveg.
+[^1]: Az 1. pont záró szövegrésze az 1520/2015. (VII. 27.) Korm. határozat 24. pontja, az 1301/2016. (VI. 13.) Korm. határozat 2. pontja szerint módosított szöveg.
 [^2]: A 2. pontot az 1741/2015. (X. 13.) Korm. határozat 4. pontja visszavonta.
 [^3]: A 4–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
