@@ -1,8 +1,8 @@
-## A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóság kijelölése[^165]
+## A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóság kijelölése[^166]
 
-7/A. §[^166] (1) A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóságként a Kormány a (2)–(5) bekezdés szerinti ügyek vonatkozásában a Hatóságot jelöli ki.
+7/A. §[^167] (1) A közlekedési sajátos építményfajták építésfelügyeletét ellátó hatóságként a Kormány a (2)–(5) bekezdés szerinti ügyek vonatkozásában a Hatóságot jelöli ki.
 
-(2)[^167] Első fokú építésfelügyeleti hatóságként
+(2)[^168] Első fokú építésfelügyeleti hatóságként
 
 a) a 4. § (2) bekezdés hatálya alá tartozó közúti közlekedési építmények tekintetében az Útügyi, Vasúti és Hajózási Hivatal,
 
@@ -20,13 +20,13 @@ d) a 4. § (5a) bekezdés hatálya alá tartozó közúti közlekedési építm�
 
 (5) Első fokú építésfelügyeleti hatóságként a víziközlekedési építmények vonatkozásában az Útügyi, Vasúti és Hajózási Hivatal jár el.
 
-(6)[^168] Másodfokú építésfelügyeleti hatóságként
+(6)[^169] Másodfokú építésfelügyeleti hatóságként
 
 a) a (2) bekezdés a) és d) pontjai, a (3)–(5) bekezdés szerinti ügyek vonatkozásában a Központ,
 
 b) a (2) bekezdés b)–c) pontjai szerinti ügyek vonatkozásában a fővárosi és megyei kormányhivatal
 
-[^165]: A 7/A. §-t megelőző alcímet a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be.
-[^166]: A 7/A. §-t a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^167]: A 7/A. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 84. § (10) bekezdésével megállapított szöveg.
-[^168]: A 7/A. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 84. § (11) bekezdésével megállapított szöveg.
+[^166]: A 7/A. §-t megelőző alcímet a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be.
+[^167]: A 7/A. §-t a 105/2009. (V. 14.) Korm. rendelet 3. §-a iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^168]: A 7/A. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 84. § (10) bekezdésével megállapított szöveg.
+[^169]: A 7/A. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 84. § (11) bekezdésével megállapított szöveg.

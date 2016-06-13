@@ -142,17 +142,19 @@ d) a légiközlekedés földi létesítményeire és – a kizárólag katonai r
 
 57.[^119] részt vesz a léginavigációs szolgálatok és a hálózati funkciók teljesítményrendszerének létrehozásáról szóló 2013. május 3-i 390/2013/EU bizottsági végrehajtási rendeletben (a továbbiakban: 390/2013/EU bizottsági végrehajtási rendelet) meghatározott követelményeknek megfelelő, funkcionális légtérblokk szintjén létrehozandó teljesítménytervek kidolgozásában, majd a tervre vonatkozó javaslatot továbbítja a közlekedésért felelős miniszter részére, aki a tervet annak elfogadása esetén továbbítja az Európai Bizottsághoz,
 
-58.[^120] a 139/2014/EU bizottsági rendelet 3. cikk (1) bekezdésének megfelelően kijelölt illetékes hatóságként gondoskodik a 139/2014/EU bizottsági rendelet 3. cikk (6) bekezdésében, 6. cikk (2)–(4) bekezdésében, 7. cikk (2) és (3) bekezdésében, valamint II. mellékletében meghatározott feladatok végrehajtása és a hatálya alá tartozó repülőterek repülőtérrendjeinek jóváhagyása.
+58.[^120] a 139/2014/EU bizottsági rendelet 3. cikk (1) bekezdésének megfelelően kijelölt illetékes hatóságként gondoskodik a 139/2014/EU bizottsági rendelet 3. cikk (6) bekezdésében, 6. cikk (2)–(4) bekezdésében, 7. cikk (2) és (3) bekezdésében, valamint II. mellékletében meghatározott feladatok végrehajtása és a hatálya alá tartozó repülőterek repülőtérrendjeinek jóváhagyása,
 
-(6)[^121] Az (5) bekezdés 8. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
+59.[^121] az 598/2014/EU európai parlamenti és tanácsi rendelet 3. cikk (1) bekezdésének megfelelően kijelölt illetékes hatóságként gondoskodik az 598/2014/EU európai parlamenti és tanácsi rendeletben meghatározott, a légijárművek zajának kezelésére, az egyes repülőterek zajhelyzetének értékelésére, az üzemeltetési korlátozások bevezetésére és a bizottság értesítésére vonatkozó feladatok végrehajtásáról.
 
-(7)–(9)[^122]
+(6)[^122] Az (5) bekezdés 8. pontjában megjelölt légiközlekedési akadálynak minősül minden olyan, a környezetéből kiemelkedő természeti objektum, építmény vagy mozgó tárgy, amely a légiközlekedés számára veszélyt jelenthet, ezért nyilvántartása és jelzéssel való ellátása indokolt.
 
-(10)[^123]
+(7)–(9)[^123]
 
-(10a)[^124]
+(10)[^124]
 
-(11)[^125] Ha
+(10a)[^125]
+
+(11)[^126] Ha
 
 a) a repülőtér zajgátló védőövezetének kijelölésére irányuló,
 
@@ -164,7 +166,7 @@ d) a légijármű üzemben tartási feltételeinek vizsgálatára, ellenőrzés�
 
 ## eljárás során az ügyfél a kérelmet hiányosan nyújtotta be, a légiközlekedési hatóság tizenöt napon belül bocsátja ki a hiánypótlási felhívást.
 
-(12)[^126]
+(12)[^127]
 
 [^81]: Az 5. § (2) bekezdése a 326/2010. (XII. 27.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^82]: Az 5. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
@@ -206,9 +208,10 @@ d) a légijármű üzemben tartási feltételeinek vizsgálatára, ellenőrzés�
 [^118]: Az 5. § (5) bekezdés 56. pontját a 389/2014. (XII. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^119]: Az 5. § (5) bekezdés 57. pontját a 389/2014. (XII. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be.
 [^120]: Az 5. § (5) bekezdés 58. pontját a 349/2015. (XI. 24.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^121]: Az 5. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^122]: Az 5. § (7)–(9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 79. § d) pontja, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^123]: Az 5. § új (10) bekezdését a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (10) bekezdés számozását (11) bekezdésre változtatva. Az 5. § (10) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 79. § d) pontja hatályon kívül helyezte, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^124]: Az 5. § (10a) bekezdését a 212/2012. (VII. 30.) Korm. rendelet 2. § (4) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 79. § d) pontja, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^125]: Az 5. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, számozását (11) bekezdésre változtatta a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése, szövege a 323/2012. (XI. 16.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^126]: Az 5. § (12) bekezdését a 169/2010. (V. 11.) Korm. rendelet 48. § (4) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 79. § d) pontja, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^121]: Az 5. § (5) bekezdés 59. pontját a 135/2016. (VI. 10.) Korm. rendelet 8. §-a iktatta be.
+[^122]: Az 5. § (6) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^123]: Az 5. § (7)–(9) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 79. § d) pontja, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^124]: Az 5. § új (10) bekezdését a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (10) bekezdés számozását (11) bekezdésre változtatva. Az 5. § (10) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 79. § d) pontja hatályon kívül helyezte, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^125]: Az 5. § (10a) bekezdését a 212/2012. (VII. 30.) Korm. rendelet 2. § (4) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 79. § d) pontja, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^126]: Az 5. § (10) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 486. § (2) bekezdése iktatta be, számozását (11) bekezdésre változtatta a 350/2009. (XII. 30.) Korm. rendelet 3. § (2) bekezdése, szövege a 323/2012. (XI. 16.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^127]: Az 5. § (12) bekezdését a 169/2010. (V. 11.) Korm. rendelet 48. § (4) bekezdése iktatta be, hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 79. § d) pontja, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
