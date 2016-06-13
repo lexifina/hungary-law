@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-1178-30
 | 2014-09-16 | 2013-1178-30-22.3 | 1515/2014. (IX. 16.) Korm. határozat |
 | 2014-12-19 | 2013-1178-30-22.4 | 1515/2014. (IX. 16.) Korm. határozat |
 | 2015-07-27 | 2013-1178-30-22.5 | 1520/2015. (VII. 27.) Korm. határozat |
+| 2016-06-13 | 2013-1178-30-22.6 | 1301/2016. (VI. 13.) Korm. határozat |
