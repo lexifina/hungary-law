@@ -1,0 +1,3 @@
+## 1. § A repülőterek környezetében létesítendő zajgátló védőövezetek kijelölésének, hasznosításának és megszüntetésének szabályairól szóló 176/1997. (X. 11.) Korm. rendelet (a továbbiakban: R1.) 21. §-a a következő (5a) bekezdéssel egészül ki:
+
+## „(5a) A légiközlekedési hatóság a repülőtér zajgátló védőövezetének kijelölési eljárása során, továbbá a repülőtér üzemben tartója által a környezeti zaj értékeléséről és kezeléséről szóló kormányrendelet szerinti stratégiai zajtérképek készítése és intézkedési tervben foglaltak végrehajtása során a (4) bekezdés, valamint az 598/2014/EU parlamenti és tanácsi rendelet 6. cikk (1) bekezdése és I. melléklete alapján rendszeresen értékeli a repülőtér zajhelyzetét.”
