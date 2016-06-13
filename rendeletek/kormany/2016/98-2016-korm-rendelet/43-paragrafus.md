@@ -1,3 +1,3 @@
-## 42. §[^8]
+## 42. §[^11]
 
-[^8]: A 42. § a 47. § (3) bekezdése alapján a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló törvény hatálybalépésének a napján lép hatályba.
+[^11]: A 42. § a 145/2016. (VI. 13.) Korm. rendelet 11. §-a alapján nem lép hatályba.

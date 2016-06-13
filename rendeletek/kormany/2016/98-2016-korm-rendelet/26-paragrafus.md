@@ -1,9 +1,9 @@
-## 22–25. §[^4]
+## 22–25. §[^7]
 
-26. § (1)–(2)[^5]
+26. § (1)–(2)[^8]
 
-(3)[^6]
+(3)[^9]
 
-[^4]: A 22–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 26. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 26. § (3) bekezdése a 47. § (3) bekezdése alapján a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló törvény hatálybalépésének a napján lép hatályba.
+[^7]: A 22–25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 26. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 26. § (3) bekezdése a 145/2016. (VI. 13.) Korm. rendelet 11. §-a alapján nem lép hatályba.
