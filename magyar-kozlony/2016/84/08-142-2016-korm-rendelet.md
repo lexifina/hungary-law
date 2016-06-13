@@ -1,0 +1,88 @@
+# A Kormány 142/2016. (VI. 13.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 84. szám, 2016. június 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e48cc1f6c78c15f01cd816c220aad9efe6a6075c/dokumentumok/816f9315744f31b79ffea2f2876fc57633495a99/letoltes)
+
+---
+
+A Kormány 142/2016. (VI. 13.) Korm. rendelete
+a polgári nemzetbiztonsági szolgálatok költségvetésének és gazdálkodásának egyes speciális szabályairól
+szóló 130/2011. (VII. 18.) Korm. rendelet módosításáról
+A Kormány
+az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 28. és 29. pontjában,
+a 2–4. § és a 8. § tekintetében az állami vagyonról szóló 2007. évi CVI. törvény 71. § (1) bekezdés h) pontjában
+kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+A polgári nemzetbiztonsági szolgálatok költségvetésének és gazdálkodásának egyes speciális szabályairól szóló
+130/2011. (VII. 18.) Korm. rendelet (a továbbiakban: R.) 2. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A Szolgálatok házipénztárába befolyt bevételeket értékhatártól függetlenül a kincstári egységes számlára
+nem kell befizetni, ugyanakkor – ha szükséges – gondoskodni kell a bevételeknek megfelelő összegű előirányzat-
+módosítások végrehajtásáról, azzal, hogy a bevételek – a bevételi előirányzaton felüli többletbevétel kivételével –
+addig is közvetlenül felhasználhatók a kiadások teljesítésére. A Szolgálatoknak a házipénztár forgalmáról külön
+bejelentési kötelezettségük nincs a Kincstár részére.”
+2. §
+Az R. 4. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) A Szolgálatok a használatukban, hasznosításukban, vagyonkezelésükben vagy tulajdonosi joggyakorlásuk
+alatt álló állami vagyonról saját hatáskörben vezetnek részletes nyilvántartást. A Szolgálatok a nemzetbiztonsági
+
+szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 63. § (5) bekezdése szerinti azon ingatlan
+és ingó vagyonelemek összességéről, amelyek tekintetében a Szolgálatok gyakorolják a tulajdonosi jogok
+és kötelezettségek összességét, összesített adatszolgáltatást nyújtanak a Magyar Nemzeti Vagyonkezelő
+Zártkörűen Működő Részvénytársaságnak (a továbbiakban: MNV Zrt.), azzal, hogy az adatszolgáltatás tartalmáról
+az MNV Zrt.-vel kötött külön megállapodásban kell rendelkezni.
+(2) A Szolgálatok az állami vagyonról – ideértve az Nbtv. 63. § (5) bekezdése szerinti vagyonelemeket is –
+az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet (a továbbiakban: Áhsz.) 5. mellékletének
+adataiból az „Eszközök” alcím betűvel és római számmal jelölt sorainak megfelelő adattartalommal küldenek
+adatot az MNV Zrt.-nek, illetve – e rendeletben foglalt eltérésekkel – a vonatkozó jogszabályok alapján adatkérésre
+felhatalmazott szerveknek.”
+3. § (1) Az R. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A Szolgálatok a vagyonkezelésükben lévő és feladataik ellátásához feleslegessé vált ingatlanokat
+a vagyonkezelési szerződésben meghatározottak szerint adhatják bérbe.”
+(2) Az R. 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az értékesítés szándéka és ténye a Szolgálatok főigazgatójának kezdeményezése alapján a miniszter előzetes
+jóváhagyásával hozható nyilvánosságra, ha a Szolgálatok a vagyonkezelésükben lévő, feladataik ellátásához
+feleslegessé vált, az Áhsz. szerinti vagyontárgyakat saját hatáskörben értékesítik.”
+4. §
+Az R. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az Nbtv. 63. § (5) bekezdése szerinti vagyont a Szolgálatok saját hatáskörben értékesíthetik. Ettől a Szolgálatok
+főigazgatója a miniszter jóváhagyásával térhet el.”
+5. § (1) Az R. 7. § (3) bekezdés utolsó mondata helyébe a következő rendelkezés lép:
+„A mindenkori költségvetés végrehajtásáról szóló törvény összeállításához a Szolgálatok szöveges indokolást
+készítenek és azt a fejezetet irányító szerv részére megküldik.”
+(2) Az R. 7. § (6) bekezdése a következő második mondattal egészül ki:
+„Az Ávr. 5. mellékletében foglalt táblázat 21. sorában meghatározott, az időközi költségvetési jelentést alátámasztó
+főkönyvi kivonatot a Szolgálatok nem küldik meg a Kincstárnak.”
+(3) Az R. 7. §-a a következő (9) bekezdéssel egészül ki:
+„(9) Kizárólag a fejezetet irányító szervnek és az Országgyűlés nemzetbiztonsági ügyekkel foglalkozó bizottságának
+megküldött adatszolgáltatások tartalmazhatnak a Szolgálatok létszámára vonatkozóan „hivatásos” és
+„közalkalmazott”felosztásnál részletesebb bontású adatokat.”
+6. § (1) Az R. 11. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) A (3) bekezdésben szereplő számlákról kizárólag olyan vagyon beszerzését szolgáló kiadások teljesíthetőek,
+amelyek felett azok megszerzését követően az Nbtv. 63. § (5) bekezdése alapján a Szolgálatok gyakorolják
+a tulajdonosi jogok és kötelezettségek összességét.”
+(2) Az R. 11. § (8) bekezdése helyébe a következő rendelkezés lép:
+„(8) A Szolgálatok a speciális bevételeket és kiadásokat készpénzben is teljesíthetik, amelyhez a házipénztárban
+a) az áthúzódó feladatok fedezetére év végén elkülönített módon készpénzt tarthatnak,
+b) az alkalmazottak elszámolási kötelezettséggel előleget vehetnek fel,
+c) a tárgyévet követő év január 15. napjáig történő kifizetést a tárgyév terhére kell elszámolni.”
+7. §
+Az R.
+a) 5. § (2) bekezdésében az „a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban:
+Nbtv.)”szövegrész helyébe az„az Nbtv.”,
+b) 7. § (5) bekezdésében az „államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet (a továbbiakban:
+Áhsz.)”szövegrész helyébe az„Áhsz.”,
+c) 7. § (8) bekezdés
+ca) 5. pontjában a„K511.”szövegrész helyébe a„K512”,
+cb) 8. pontjában a„K88”szövegrész helyébe a„K89”,
+cc) 11. pontjában a„B410”szövegrész helyébe a„B411”,
+
+cd) 13. pontjában a„B63”szövegrész helyébe a„B65”,
+ce) 14. pontjában a„B73”szövegrész helyébe a„B75”,
+d) 11. § (9) bekezdésében a„B410.”szövegrész helyébe a„B411.”
+szöveg lép.
+8. §
+Hatályát veszti az R. 6. § (2) bekezdése.
+9. §
+Ez a rendelet 2016. július 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

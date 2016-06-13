@@ -1,0 +1,189 @@
+# A Kormány 139/2016. (VI. 13.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 84. szám, 2016. június 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e48cc1f6c78c15f01cd816c220aad9efe6a6075c/dokumentumok/816f9315744f31b79ffea2f2876fc57633495a99/letoltes)
+
+---
+
+A Kormány 139/2016. (VI. 13.) Korm. rendelete
+a pénzügyi közvetítőrendszert érintő egyes kormányrendeletek módosításáról
+A Kormány
+az önkéntes kölcsönös biztosító pénztárakról szóló 1993. évi XCVI. törvény 78. § (1)–(4) bekezdésében,
+a 3. alcím tekintetében a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető
+tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvény 180. § (1) bekezdés a) pontjában,
+a 4. alcím tekintetében a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 290. § (1) bekezdés
+a) pontjában, és a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 30. § b) pontjában,
+az 5. alcím tekintetében a fogyasztónak nyújtott hitelről szóló 2009. évi CLXII. törvény 30. § a) pontjában,
+a 6. alcím tekintetében a kollektív befektetési formákról és kezelőikről, valamint egyes pénzügyi tárgyú törvények módosításáról
+szóló 2014. évi XVI. törvény 201. § (1) bekezdés b) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. Az önkéntes kölcsönös egészség- és önsegélyező pénztárak egyes gazdálkodási szabályairól szóló
+268/1997. (XII. 22.) Korm. rendelet módosítása
+1. §
+Az önkéntes kölcsönös egészség- és önsegélyező pénztárak egyes gazdálkodási szabályairól szóló 268/1997.
+(XII. 22.) Korm. rendelet (a továbbiakban: Ebr.) 1. §-a helyébe a következő rendelkezés lép:
+„1. § A rendelet hatálya az Öpt. 1. § (1) bekezdés a) pontjában meghatározott önkéntes kölcsönös biztosító
+pénztárak közül az Öpt. 10. § (1) bekezdés b), c) és d) pontjában meghatározott egészségpénztárakra, önsegélyező
+pénztárakra, valamint egészség- és önsegélyező pénztárakra (a továbbiakban: pénztár), valamint az Öpt. 1. §
+(1) bekezdés b) pontjában meghatározott szervekre és szervezetekre terjed ki.”
+
+2. §
+Az Ebr. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A pénztár a letétkezelési feladatok ellátásával a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint
+az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározottak szerinti letétkezelés szolgáltatás
+nyújtására feljogosított hitelintézetet köteles megbízni. Nem köteles letétkezelőt megbízni az a pénztár, amelynek
+tárgyévi nyitómérlegében a fedezeti és likviditási alap együttes állománya nem haladja meg a 100 millió forintot, és
+amely a vagyonát kizárólag az 1. számú melléklet 1. pont a)–c) alpontja szerinti eszközökben tartja.”
+3. §
+Az Ebr. 14. § (3) bekezdés c) pontja helyébe a következő rendelkezés lép:
+(Amennyiben a pénztár tárgyévi nyitómérlegében a fedezeti és likviditási alap együttes állománya meghaladja
+a 100 millió forintot, úgy a pénztár a vagyonkezelést abban az esetben végezheti vagyonkezelő megbízása nélkül
+önállóan, ha)
+„c) a vagyonkezelési tevékenység irányítására olyan értékpapír-forgalmazásra jogosító szakmai vizsgával rendelkező
+− egymilliárd forintnál nagyobb saját kezelésű befektetett eszközök esetében vele munkaviszonyban álló −
+személyt alkalmaz, aki szakirányú felsőfokú végzettséggel (egyetemen vagy főiskolán szerzett jogi, államigazgatási,
+közgazdasági vagy pénzügyi diploma, oklevél, illetve könyvvizsgálói végzettség) és legalább 3 év szakmai
+gyakorlattal rendelkezik.”
+4. §
+Az Ebr. 21/B. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) Az (1) bekezdéstől eltérően – a végelszámolás alatt álló pénztárak esetében – a tagsági jogviszonyt átlépéssel,
+kilépéssel megszüntető tagokra az Öpt.-ben meghatározott kifizetési, átutalási határidők az irányadóak.”
+5. §
+Az Ebr. 25. §-a helyébe a következő rendelkezés lép:
+„25. § Amennyiben a pénztár tárgyévi nyitómérlegében a fedezeti és likviditási alap együttes állománya nem haladja
+meg a 100 millió forintot (a továbbiakban: szabályozási szint), a pénztár befektetéseire a 2. számú mellékletben
+foglaltak nem vonatkoznak, ugyanakkor a pénztár a pénztári alapok befektetett eszközeit csak az 1. számú melléklet
+1. pont a)–c) alpontja szerinti eszközökben és az 1. számú melléklet 1. pont d1)–d4) alpontjában meghatározott
+befektetési formákba fektetheti.”
+6. §
+Az Ebr. 22. § (3) bekezdésében az „az éves és hosszú távú pénzügyi terv” szövegrész helyébe az „a pénzügyi terv”
+szöveg lép.
+7. §
+Hatályát veszti az Ebr. 20. § (2) bekezdésében az„éves”szövegrész.
+2. Az önkéntes kölcsönös nyugdíjpénztárak befektetési és gazdálkodási szabályairól szóló
+281/2001. (XII. 26.) Korm. rendelet módosítása
+8. §
+Az önkéntes kölcsönös nyugdíjpénztárak befektetési és gazdálkodási szabályairól szóló 281/2001. (XII. 26.)
+Korm. rendelet (a továbbiakban: Öbr.) 25. § (1) bekezdés d) és e) pontja helyébe a következő rendelkezések lépnek:
+(A pénztár minden évben, legkésőbb a pénzügyi évet követő év június 30-áig köteles nyilvánosságra hozni:)
+„d) a pénztár fedezeti tartalékának tárgyévi nyitó és záró értékét,
+e) a pénztár fedezeti tartalékának tárgyévi eszközcsoportonkénti százalékos megoszlását az év elején és végén,”
+9. § (1) Az Öbr. 29/A. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) A (2) bekezdéstől eltérően − a végelszámolás alatt álló pénztárak esetében – az átlépéssel, egyösszegű
+felvétellel kapcsolatosan az Öpt.-ben meghatározott kifizetési, átutalási határidők az irányadóak.”
+(2) Az Öbr. 29/A. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) A (3) bekezdéstől eltérően − a végelszámolás alatt álló pénztárak esetében – az átlépéssel, egyösszegű
+felvétellel kapcsolatosan az Öpt.-ben meghatározott kifizetési, átutalási határidők az irányadóak.”
+10. §
+Az Öbr.
+a) 9. § (2) bekezdésében az „− az állampapírok és a nyílt végű befektetési alap befektetési jegyeinek, valamint
+a jelzáloglevelek kivételével −” szövegrész helyébe az „− az állampapírok, a nyílt végű befektetési alap
+befektetési jegyei, a jelzáloglevelek, valamint pénztárak egyesülése esetén az 1. számú melléklet 1. pont
+e5) alpontjában meghatározott részvények kivételével −”szöveg,
+
+b) 31. § (2) bekezdésében az „az éves és hosszú távú pénzügyi terv” szövegrész helyébe az „a pénzügyi terv”
+szöveg,
+c) 1. számú melléklet 8. pontjában az „A pénztár értékelését végző könyvvizsgálója” szövegrész helyébe
+az„Az eszköz értékelését végző könyvvizsgáló”szöveg,
+d) 3. számú melléklet II. Értékelési szabályok rész 5. pont e) alpontjában az „azt követően az értékelő
+könyvvizsgáló által”szövegrész helyébe az„azt követően az 1. számú melléklet 8. pontnak megfelelő értékelő
+könyvvizsgáló által”szöveg
+lép.
+11. §
+Hatályát veszti az Öbr.
+a) 26. § (2) bekezdésében az„éves”szövegrész,
+b) 4/A. számú melléklete.
+3. A befektetési és az árutőzsdei szolgáltatási tevékenység, az értékpapír letéti őrzés, az értékpapír
+letétkezelés, valamint az elszámolóházi tevékenység végzéséhez szükséges személyi, tárgyi, technikai
+és biztonsági feltételekről szóló 283/2001. (XII. 26.) Korm. rendelet módosítása
+12. §
+A befektetési és az árutőzsdei szolgáltatási tevékenység, az értékpapír letéti őrzés, az értékpapír letétkezelés,
+valamint az elszámolóházi tevékenység végzéséhez szükséges személyi, tárgyi, technikai és biztonsági feltételekről
+szóló 283/2001. (XII. 26.) Korm. rendelet 8. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(Az épületen belüli őrzés-védelmet a következők szerint kell megoldani:)
+„a) üzemi idő alatt őrszolgálatról kell gondoskodni ott, ahol a készpénz vagy a nyomdai úton előállított értékpapírok
+negyedév átlagában számított napi átlagos forgalma a százmillió forintot meghaladja;”
+4. A körültekintő lakossági hitelezés feltételeiről és a hitelképesség vizsgálatáról szóló
+361/2009. (XII. 30.) Korm. rendelet módosítása
+13. §
+A körültekintő lakossági hitelezés feltételeiről és a hitelképesség vizsgálatáról szóló 361/2009. (XII. 30.)
+Korm. rendelet
+a) 1. § (3) bekezdés a) pontjának nyitó szövegrészében a „meglévő hitelei módosítására,” szövegrész helyébe
+a„meglévő hitelei a hitelező által felszámított díjtól mentes módosítására,”szöveg,
+b) 1. § (3) bekezdés b) pontjában az „új hitel nyújtására,” szövegrész helyébe az „új hitel a hitelező által
+felszámított díjtól mentes nyújtására,”szöveg
+lép.
+5. A teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló
+83/2010. (III. 25.) Korm. rendelet módosítása
+14. §
+A teljes hiteldíj mutató meghatározásáról, számításáról és közzétételéről szóló 83/2010. (III. 25.) Korm. rendelet
+(a továbbiakban: Thmr.) 3. § (3) bekezdés b) és c) pontja helyébe a következő rendelkezések lépnek:
+(A THM számításánál nem vehető figyelembe:)
+„b) a késedelmi kamat, ide nem értve a kézizálog fedezete mellett nyújtott hitel esetében a hitelszerződés
+megkötését követő 30 napon belül fizetendő késedelmi kamatot,
+c) egyéb olyan fizetési kötelezettség, amely a hitelszerződésben vállalt kötelezettség nem teljesítéséből származik,
+ide nem értve a kézizálog fedezete mellett nyújtott hitel esetében a hitelszerződés megkötését követő 30 napon
+belül teljesítendő fizetési kötelezettséget,”
+15. § (1) A Thmr. 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A THM számításánál – az (1a) bekezdésben meghatározott kivétellel – azt kell figyelembe venni, hogy
+a hitelszerződés a hitelszerződés szerinti futamidő alatt a hitelszerződés szerint kerül teljesítésre. Szükség esetén,
+ha a THM meghatározásához szükséges feltételek a hitelszerződés érvényességi ideje alatt változhatnak vagy egyes
+elemei nem számszerűsíthetőek, a THM-et a (2) bekezdésben meghatározott feltételek figyelembevételével kell
+kiszámítani.”
+
+(2) A Thmr. 4. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) Kézizálog fedezete mellett nyújtott, 30 napnál rövidebb futamidejű hitel esetében a THM-et akként kell
+kiszámítani, hogy a teljes tartozás visszafizetésére a 30. napon kerül sor.”
+(3) A Thmr. 4. § (2) bekezdés c) pont cb) alpontja helyébe a következő rendelkezés lép:
+[A THM kiszámításánál a következő számítási módszert kell alkalmazni:
+c) olyan határozatlan idejű hitelszerződés esetén, amely nem minősül fizetési számlához kapcsolódó hitelnek és nem
+áthidaló hitel,]
+„cb) – ha a fogyasztó az első lehívás után egy hónappal kezdi el törleszteni a tőkét egyenlő havi részletekben,
+beleértve azon esetet is, amikor a tőketartozást minden egyes fizetési időszakban egyetlen részletben teljes
+összegben vissza kell fizetni – a teljes tőkeösszeg egymást követő lehívásait és visszafizetéseit a hitelnek
+a ca) alpontban meghatározott futamidejére vonatkozóan kell figyelembe venni, és”
+(4) A Thmr. 4. § (2) bekezdés f) pont fa) alpontja helyébe a következő rendelkezés lép:
+[A THM kiszámításánál a következő számítási módszert kell alkalmazni:
+f) olyan hitelszerződés esetén, amely nem minősül fizetési számlához kapcsolódó hitelnek, áthidaló hitelnek,
+ingatlanértékhez kötött tőketörlesztésű hitelnek és nem tartozik a c) pont hatálya alá,]
+„fa) – ha a tőketörlesztés időpontja vagy összege nem állapítható meg – a törlesztést a hitelszerződésben
+meghatározott legkorábbi időpontban és a hitelszerződésben meghatározott legalacsonyabb összegben történő
+megvalósulással kell figyelembe venni, illetve”
+(5) A Thmr. 4. § (2) bekezdés g) pontja helyébe a következő rendelkezés lép:
+(A THM kiszámításánál a következő számítási módszert kell alkalmazni:)
+„g) fizetési számlához kapcsolódó hitel esetén, ha a hitel időtartama nem ismert, a THM-et akként kell kiszámítani,
+hogy a teljes hitelösszeg a hitelszerződés teljes időtartamára lehívásra kerül azzal, hogy ha a hitel futamideje nem
+ismert, a THM számításakor a hitel futamidejét három hónapnak kell tekinteni;”
+(6) A Thmr. 4. § (2) bekezdés j) pontja helyébe a következő rendelkezés lép:
+(A THM kiszámításánál a következő számítási módszert kell alkalmazni:)
+„j) ha a hitelszerződés szerint a hitel kamata az első időszakra rögzített kamat, és ezt követően új hitelkamatot
+fognak megállapítani, amit rendszeres időközönként hozzáigazítanak a megállapodás szerinti mutatóhoz a rögzített
+kamatozású időszakot követően, a megállapodás szerinti mutató tekintetében a THM kiszámításakor érvényes
+értékén alapuló kamattal, mint változatlan kamattal kell számolni;”
+(7) A Thmr. 4. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A (2) bekezdés c) pontja alkalmazásában a határozatlan idejű hitelszerződés konkrét futamidő nélküli hitel,
+ideértve azokat a hiteleket, amelyek esetében a kölcsönt egy adott időszakon belül vagy egy adott időszakot
+követően teljes összegben vissza kell fizetni, de a visszafizetést követően a kölcsön újra lehívható.”
+6. A kollektív befektetési formák befektetési és hitelfelvételi szabályairól szóló 78/2014. (III. 14.)
+Korm. rendelet módosítása
+16. §
+A kollektív befektetési formák befektetési és hitelfelvételi szabályairól szóló 78/2014. (III. 14.) Korm. rendelet 42. §
+(2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az (1) bekezdésben meghatározott kölcsön, továbbá minden egyéb, az alap befektetési politikájának megfelelő
+ügylet fedezeteként, vagy az alap befektetési politikájának megfelelő ügylet megvalósítása céljából az ingatlanalap
+a tulajdonában lévő ingatlant megterhelheti, arra és ingatlantársaságbeli részesedésére jelzálogjogot, elidegenítési
+és terhelési tilalmat, illetve az ingatlantársaságbeli részesedését megtestesítő értékpapírra óvadékot alapíthat,
+vételi jogot engedhet. Az (1) bekezdésben meghatározott kölcsön, továbbá minden egyéb, az alap befektetési
+politikájának megfelelő ügylet fedezeteként, vagy az alap befektetési politikájának megfelelő ügylet megvalósítása
+céljából az ingatlanalap a tulajdonában lévő ingatlan elidegenítéséből, hasznosításából, vagyonbiztosításából
+származó követelésére zálogjogot, fizetésiszámla-követelésén óvadéki jogot alapíthat.”
+
+7. Záró rendelkezések
+17. §
+Ez a rendelet 2016. július 1-jén lép hatályba.
+18. §
+Az 5. alcím a 2008/48/EK európai parlamenti és tanácsi irányelv I. mellékletében található, a teljeshiteldíj-mutató
+kiszámításához alkalmazandó további felvetésekről szóló II. rész módosításáról szóló, 2011. november 14-i 2011/90/EU
+bizottsági irányelvnek való megfelelést szolgálja.
+ Orbán Viktor s. k.,
+ miniszterelnök
