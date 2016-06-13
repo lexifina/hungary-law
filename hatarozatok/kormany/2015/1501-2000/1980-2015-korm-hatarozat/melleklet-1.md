@@ -1,6 +1,6 @@
 ## 1. A Kormány
 
-## a) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (6) bekezdésében biztosított jogkörében eljárva 8672,7 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
+## a)[^2] az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 21. § (6) bekezdésében biztosított jogkörében eljárva 8672,7 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint;
 
 ## Az átcsoportosítás tekintetében
 
@@ -12,7 +12,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, belügyminiszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere az általa irányított fejezetet érintő előirányzat-átcsoportosítás tekintetében
 
-## Határidő: 2016. június 30., a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcímcsoportra átcsoportosított összeg tekintetében 2015. december 31.
+## Határidő: 2016. június 30., a Külképviseletek igazgatása cím részére átcsoportosított összeg tekintetében 2017. június 30., a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcímcsoportra átcsoportosított összeg tekintetében 2015. december 31.
 
 ## b) az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva elrendeli a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 26. Tulajdonosi joggyakorlással kapcsolatos bevételek és kiadások cím, 2. Tulajdonosi joggyakorlással kapcsolatos kiadások alcím, 1. Tőkeemelés jogcímcsoporttal történő kiegészítését;
 
@@ -54,8 +54,9 @@
 
 ## i) egyetért azzal, hogy az egyes kiemelt sportegyesületek 2013. évi sportfejlesztési elképzeléseinek támogatásáról, továbbá a 2014–2020. évre vonatkozó sportfejlesztési feladataikkal összefüggő kormányzati intézkedésekről szóló 1835/2013. (XI. 15.) Korm. határozat 2. pontjában meghatározott feladatokon túl, a biztosított összeg a Magyar Testgyakorlók Körének adósságkonszolidációjára is felhasználható.
 
-## 2–5.[^2]
+## 2–5.[^3]
 
 1. melléklet az 1980/2015. (XII. 23.) Korm. határozathoz
 
-[^2]: A 2–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont a) alpontja az 1301/2016. (VI. 13.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^3]: A 2–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
