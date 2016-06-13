@@ -12,7 +12,7 @@
 
 ## Felelős: Nemzeti Emlékezet Bizottságának Hivatala elnöke, Miniszterelnökséget vezető miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere a fejezetüket érintő átcsoportosítások tekintetében
 
-## Határidő: 2016. június 30., az Emberi Erőforrás Támogatáskezelő cím javára átcsoportosított 196,6 millió forint és a Szovjetunióba hurcolt politikai foglyok és kényszermunkások emlékéve programjainak támogatása jogcímcsoport javára átcsoportosított 733,4 millió forint tekintetében 2017. június 30.
+## Határidő: 2016. június 30., a Külgazdasági és Külügyminisztérium fejezet részére átcsoportosított összeg tekintetében 2016. december 31., az Emberi Erőforrás Támogatáskezelő cím javára átcsoportosított 196,6 millió forint és a Szovjetunióba hurcolt politikai foglyok és kényszermunkások emlékéve programjainak támogatása jogcímcsoport javára átcsoportosított 733,4 millió forint tekintetében 2017. június 30.
 
 ## 3–6.[^2]
 
@@ -208,7 +208,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 2. pont az 1182/2016. (IV. 11.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^1]: A 2. pont záró szövegrésze az 1182/2016. (IV. 11.) Korm. határozat 9. pontja, az 1301/2016. (VI. 13.) Korm. határozat 3. pontja szerint módosított szöveg.
 [^2]: A 3–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
