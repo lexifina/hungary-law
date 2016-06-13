@@ -2,9 +2,9 @@
 
 ## Értelmező rendelkezések
 
-## 28. §[^38] E rendelet alkalmazásában:
+## 28. §[^41] E rendelet alkalmazásában:
 
-a)[^39] légiközlekedési hatóság:
+a)[^42] légiközlekedési hatóság:
 
 aa) állami repülések céljára szolgáló repülőtér, illetve közös felhasználású katonai és polgári repülőtér esetében a katonai légügyi hatóság,
 
@@ -20,5 +20,5 @@ bb) érvényes, jogerős és végrehajtható építési engedéllyel rendelkező
 
 c) megfelelő passzív akusztikai védelem: az épületek védendő helységeire vonatkozó belsőtéri zaj határérték kielégítését biztosító épületszerkezetek kialakítása, szerkezeti elemek beépítése.
 
-[^38]: A 28. § az 53/2004. (III. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^39]: A 28. § a) pontja a 168/2007. (VI. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^41]: A 28. § az 53/2004. (III. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^42]: A 28. § a) pontja a 168/2007. (VI. 28.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
