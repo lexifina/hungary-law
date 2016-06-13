@@ -1,3 +1,0 @@
-## 16. § A Korm. rendelet 19. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) Az F-ÜHG közeget és helyszíni hűtőköri szerelést igénylő előtöltött készüléket kereskedelmi célú felhasználás keretében értékesítő vállalkozás az adatbázisban rögzíti a vásárolt, eladott F-ÜHG közegek, készülékek típusonkénti mennyiségéről, a vásárlásra jogosult vállalkozás adatait. Végfelhasználónak történő értékesítés esetén az értékesítésre jogosult vállalkozás az adatbázisban rögzíti a 22. § szerinti tanúsítvány alapján a telepítés helyét és a tanúsítványt kiállító képesített vállalkozás adatait. Az e bekezdés szerinti adatokat az értékesítésre jogosult vállalkozás a vásárlást vagy értékesítést követő 8 munkanapon belül rögzíti az adatbázisban.”

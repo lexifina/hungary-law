@@ -1,3 +1,0 @@
-## 13. § A Korm. rendelet 17. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az 517/2014/EU európai parlamenti és tanácsi rendelet 5. cikke szerinti berendezések üzemeltetői a hivatkozott uniós rendeletben foglaltak szerint kötelesek gondoskodni szivárgásészlelő rendszer telepítéséről, üzemeltetéséről, annak felügyeletéről és ellenőrzéséről. A telepítésről és az ellenőrzésekről készült jelentéseket a Hatóság adatbázisába is fel kell tölteni a telepítést és az ellenőrzést követő 8 munkanapon belül. A jelentésnek az 517/2014/EU európai parlamenti és tanácsi rendelet 6. cikk (1) bekezdésében foglalt adatokon túlmenően tartalmaznia kell a HR szektorba tartozó szivárgásészlelők esetében a telepítési helyét, rendszerét, az ellenőrzés tényét és eredményét.”
