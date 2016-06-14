@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-456-20-
 | 2015-12-30 | 2015-456-20-22.1 | 456/2015. (XII. 29.) Korm. rendelet |
 | 2016-01-01 | 2015-456-20-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-01-02 | 2015-456-20-22.3 | 2010: CXXX. törvény |
+| 2016-06-14 | 2015-456-20-22.4 | 2010: CXXX. törvény |
