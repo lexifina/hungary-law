@@ -4,26 +4,36 @@
 
 (2) A tervezési programban rögzíteni kell minden olyan fontos tényt, amelyet a tervezés során figyelembe kell venni. A tervezési programban vizsgálni kell a megújuló energiaforrások használatának lehetőségét, és igény szerint rögzíteni kell a vagyonbiztonsági elvárások mértékét.
 
-(3) A tervezési program tartalmazza a tervezési feladat részletes leírását, megnevezve az építési tevékenységet. A tervezési programban a tervezés tárgyától függően ismertetni kell
+(3)[^18] A tervezési programban – amelyet az építtető és tervező közösen készít elő – a tervezés tárgyától és nagyságrendjétől függően ismertetni kell
 
-a) a beruházás költségkeretét,
+a) tervezési feladat részletes leírását, az építési tevékenység megnevezését,
 
-b) a tervezés előzményeit,
+b) a tervezés előzményeit – előkészítő dokumentációk, tanulmánytervek adatait,
 
-c) a kiindulási adatokat,
+c) az elvárt – az OTÉK előírásainak megfelelő vagy attól szigorúbb – követelményeket, beleértve az élettartalmi igényeket,
 
-d) a helyszínt,
+d) az elvárt követelményeknek való megfelelőség igazolásának módját, az alkalmazandó szabványok vagy azokkal egyenértékű számítási-méretezési eljárások és hivatkozások, jogszabályok, előírások, szabályzatok körét,
 
-e) a helyiségigényeket és funkcionális kapcsolatokat,
+e) a beruházás költségkeretét, rögzített költségkeret esetén a költségelemzés módszerét, az építtető részéről a költségkeret túllépés jóváhagyásának feltételeit, vagy költségkeret csökkentés esetén az elvárások, követelmények módosítási szabályait,
 
-f) a járművek elhelyezésére vonatkozó igényeket és információkat,
+f) a helyszín bemutatását,
 
-g) az akadálymentesítésre vonatkozó információkat,
+g) a helyiségigényeket és funkcionális kapcsolatokat,
 
-h) a közműellátottság mértékét, és
+h) az építményben üzemelendő technológiákat,
 
-i) az egyéb meghatározó követelmények általános szempontjait,
+i) a közútkapcsolati, parkolási igényeket és információkat,
 
-j)[^15] műemlék esetén az értékleltár és az építéstörténeti kutatási dokumentáció alapján rögzített műemlékvédelmi szempontokat.
+j) a közmű és energia ellátási igényeket, módokat,
 
-[^15]: A 16. § (3) bekezdés j) pontját a 62/2014. (III. 6.) Korm. rendelet 45. § (1) bekezdése iktatta be.
+k) az akadálymentesítésre vonatkozó információkat,
+
+l) műemlék és nyilvántartott műemléki érték esetén az értékleltár és az építéstörténeti tudományos dokumentáció alapján rögzített műemlékvédelmi szempontokat,
+
+m) a szükséges szakági tervezők, szakértők körét,
+
+n) az egyéb meghatározó követelmények általános szempontjait,
+
+o) a tervezendő építmény használatának, üzemeltetésének, karbantartásának feltételeit.
+
+[^18]: A 16. § (3) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.

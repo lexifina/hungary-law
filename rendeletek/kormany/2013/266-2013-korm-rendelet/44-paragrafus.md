@@ -16,7 +16,7 @@ f) szakszerűtlen vagy valótlan tartalmú építészeti-műszaki tartalmú doku
 
 (2) A területi kamara titkára
 
-a)[^40] a szakmagyakorlót 20 000 forint bírsággal sújtja, ha az (1) bekezdés a)–b) és e) pontjában foglaltakat a figyelmeztetés ellenére sem teljesíti,
+a)[^45] a szakmagyakorlót 20 000 forint bírsággal sújtja, ha az (1) bekezdés a)–b) és e) pontjában foglaltakat a figyelmeztetés ellenére sem teljesíti,
 
 b) az építésfelügyeleti hatóság számított építményértéket tartalmazó megkeresése alapján a felelős műszaki vezetőt, az építési műszaki ellenőrt az összeférhetetlenségi szabályok megsértése miatt bírsággal sújtja, melynek mértéke 100 000 forint összegezve a számított építményérték 20 millió forintot meghaladó részének 0,5%-val, de legfeljebb 300 000 forint.
 
@@ -56,10 +56,10 @@ f) az építésfelügyeleti hatóság az R2. 1. melléklet I. táblázat 16. pon
 
 g) a tevékenység folytatásához szükséges jogosultsága felfüggesztésének időtartama alatt végez szakmagyakorlási tevékenységet,
 
-h)[^41] az építészeti-műszaki tervező a (4) bekezdés h) pontja szerinti felfüggesztő határozat jogerőssé válásától számított hat hónapon belül sem igazolja díjfizetési kötelezettségének teljesítését,
+h)[^46] az építészeti-műszaki tervező a (4) bekezdés h) pontja szerinti felfüggesztő határozat jogerőssé válásától számított hat hónapon belül sem igazolja díjfizetési kötelezettségének teljesítését,
 
-i) ha az R1. 9/A. §-a szerinti ellenőrzés során a független ellenőrző szervezet megállapítja, hogy az energetikai tanúsító tanúsítvány két besorolással eltér a tényleges értéktől.[^42]
+i) ha az R1. 9/A. §-a szerinti ellenőrzés során a független ellenőrző szervezet megállapítja, hogy az energetikai tanúsító tanúsítvány két besorolással eltér a tényleges értéktől.[^47]
 
-[^40]: A 44. § (2) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 21. pontja szerint módosított szöveg.
-[^41]: A 44. § (5) bekezdés h) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 22. pontja szerint módosított szöveg.
-[^42]: Az Alkotmánybíróság a 26/2017. (X. 17.) AB határozat 1. pontjával megállapította, hogy a 2016. december 31. napjáig hatályos 44. § (5) bekezdés i) pont alaptörvény-ellenes volt.
+[^45]: A 44. § (2) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 21. pontja szerint módosított szöveg.
+[^46]: A 44. § (5) bekezdés h) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 22. pontja szerint módosított szöveg.
+[^47]: Az Alkotmánybíróság a 26/2017. (X. 17.) AB határozat 1. pontjával megállapította, hogy a 2016. december 31. napjáig hatályos 44. § (5) bekezdés i) pont alaptörvény-ellenes volt.

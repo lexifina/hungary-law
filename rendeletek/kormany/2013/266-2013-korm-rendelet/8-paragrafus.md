@@ -1,4 +1,4 @@
-8. § (1)[^7] A képesítési követelmény teljesítésének vizsgálata során, ha a szakképzettséget igazoló oklevélből a szakirány, illetve annak a szakmagyakorlási tevékenységet megalapozó szintje nem állapítható meg, akkor az oklevél szakirányáról az engedélyezési eljárás során a Magyar Mérnöki Kamara vagy a Magyar Építész Kamara (a továbbiakban együtt: országos kamara) által működtetett szakértői testület jogosult szakértőként véleményt nyilvánítani, amelyet a jogosultság megállapításakor a területi kamara figyelembe vesz.
+8. § (1)[^7] A képesítési követelmény teljesítésének vizsgálata során, ha a szakképzettséget igazoló oklevélből a szakirány, illetve annak a szakmagyakorlási tevékenységet megalapozó szintje nem állapítható meg, akkor az oklevél szakirányáról továbbá az igazolt szakképzettség és a teljesített kreditszámok figyelembevételével a kérelmező számára adható jogosultságról az engedélyezési eljárás során a Magyar Mérnöki Kamara vagy a Magyar Építész Kamara (a továbbiakban együtt: országos kamara) által működtetett szakértői testület jogosult szakértőként véleményt nyilvánítani, amelyet a jogosultság megállapításakor a területi kamara figyelembe vesz.
 
 (2)[^8] A szakértői testület elnökét és két tagját a feladatkörében érintett országos kamara jelöli. A szakértői testület tagja továbbá az építésügyért felelős miniszter (a továbbiakban: miniszter) által megbízott személy, valamint tagja az adott szak szerint érintett, az országos kamarák által felkért felsőoktatási intézmény képviselője. A szakértői testület működési rendjét ügyrendjében állapítja meg.
 
@@ -12,5 +12,5 @@ a) a szakképzettségek szakirányúsága szempontjából már megvizsgált és 
 
 b) a szakirányú továbbképzés körében kibocsátott szakirányú szakképzettségek megnevezését, a beszámítható kreditérték meghatározását.
 
-[^7]: A 8. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 3. pontja szerint módosított szöveg.
+[^7]: A 8. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 3. pontja, a 156/2016. (VI. 13.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
 [^8]: A 8. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 47. § 4. pontja szerint módosított szöveg.

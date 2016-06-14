@@ -1,4 +1,4 @@
-9. § (1)[^9] Szakmai gyakorlati időként a jogosultság megszerzéséhez szükséges végzettségi szintet és szakirányú felsőfokú szakképzettséget igazoló okirat megszerzését követően, a kérelmezett szakmagyakorlási tevékenységi területnek, szakterületnek, részszakterületnek megfelelő szakmai gyakorlat folytatásának időtartamát kell figyelembe venni.
+9. § (1)[^9] Szakmai gyakorlati időként a jogosultság megszerzéséhez szükséges végzettségi szint megszerzését követően, a kérelmezett szakmagyakorlási tevékenységi területnek, szakterületnek, részszakterületnek megfelelő szakmai gyakorlat folytatásának időtartamát kell figyelembe venni.
 
 (2) A településrendezési tervezési jogosultság megállapításához az 1. melléklet szerinti szakmai gyakorlati idő tartalmát
 
@@ -38,6 +38,6 @@ f) építésügyi igazgatási,
 
 g) az építésüggyel kapcsolatos kutatási, fejlesztési
 
-[^9]: A 9. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 44. § (1) bekezdésével megállapított szöveg.
+[^9]: A 9. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 44. § (1) bekezdésével megállapított, a 156/2016. (VI. 13.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
 [^10]: A 9. § (3) bekezdése a 62/2014. (III. 6.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
 [^11]: A 9. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 48. § a) pontja szerint módosított szöveg.
