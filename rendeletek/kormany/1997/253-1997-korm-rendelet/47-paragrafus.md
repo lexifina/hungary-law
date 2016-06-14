@@ -1,6 +1,6 @@
 ## Szennyvíz- és csapadékvíz-elvezetés
 
-47. § (1)[^167]
+47. § (1)[^170]
 
 (2) Közcsatorna hiányában kommunális szennyvíz külön jogszabályban foglaltak szerint elszikkasztható.
 
@@ -20,4 +20,4 @@
 
 (10) A telekről csapadékvizet a közterületi nyílt vízelvezető árokba csak zártszelvényű vezetékben és az utcai járdaszint alatt szabad kivezetni. Amennyiben a vízelvezető árok a közút tartozéka, úgy abba a környezetéből – a telkekről – csapadékvíz bevezetése csak az út kezelőjének hozzájárulásával történhet.
 
-[^167]: A 47. § (1) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 29. pontja hatályon kívül helyezte.
+[^170]: A 47. § (1) bekezdését a 90/2012. (IV. 26.) Korm. rendelet 31. § 29. pontja hatályon kívül helyezte.

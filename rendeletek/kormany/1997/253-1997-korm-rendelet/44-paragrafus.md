@@ -2,7 +2,7 @@
 
 44. § (1) A telek határvonalain – eltérő jogszabályi rendelkezés hiányában – kerítés létesíthető.
 
-(2)[^161]
+(2)[^164]
 
 (3) A kerítésnek teljes egészében a saját telken kell állnia. Ha a kerítést a telek hátsó határvonalán az arra kötelezettek közösen létesítik, ettől eltérően is megállapodhatnak.
 
@@ -10,7 +10,7 @@
 
 (5) A telek homlokvonalán álló kerítésen a közterület használatát veszélyeztető megoldást (pl. szögesdrótot) csak a gyalogjáró szintje felett legalább 2,00 m magasságban és a kerítés belső oldalán szabad alkalmazni.
 
-(6)[^162] A telek határvonalain létesíthető kerítés kialakítását – a helyi sajátosságokra is figyelemmel – a helyi építési szabályzat meghatározhatja. Ennek hiányában tömör kerítés csak legfeljebb 2,50 m magassággal létesíthető. Amennyiben a telek határvonalán támfal építése is szükséges, a támfalon tömör kerítés csak akkor építhető, ha a támfal és a tömör kerítés együttes magassága a 3,0 m-t nem haladja meg.
+(6)[^165] A telek határvonalain létesíthető kerítés kialakítását – a helyi sajátosságokra is figyelemmel – a helyi építési szabályzat meghatározhatja. Ennek hiányában tömör kerítés csak legfeljebb 2,50 m magassággal létesíthető. Amennyiben a telek határvonalán támfal építése is szükséges, a támfalon tömör kerítés csak akkor építhető, ha a támfal és a tömör kerítés együttes magassága a 3,0 m-t nem haladja meg.
 
 (7) Kerítés létesítésének elrendelése esetén a telek tulajdonosa (kezelője, használója) a telek homlokvonalán, továbbá – eltérő jogszabályi rendelkezés hiányában – az útról nézve a jobb oldali telekhatáron és a hátsó telekhatárnak ettől az oldaltól mért fele hosszán köteles megépíteni és fenntartani (3. ábra).
 
@@ -30,8 +30,8 @@
 
 (15) Elrendelés nélkül létesített kerítést annak tulajdonosa bármikor elbonthatja.
 
-(16)[^163] A honvédelmi és a katonai, valamint a nemzetbiztonsági építmény elhelyezésére szolgáló telek telekhatárán, annak tulajdonosának (kezelőjének, használójának) kerítést kell létesítenie. A kerítés nyomvonalában az őrzést biztosító építmény, illetve a kerítésre őrzést biztosító jelzőrendszer eleme elhelyezhető. Ezen telek esetében a (14) bekezdésben foglaltaktól – a külön használatú telekrész használatához szükséges műszaki megoldás építésügyi hatósági engedélyezése mellett – el lehet térni.
+(16)[^166] A honvédelmi és a katonai, valamint a nemzetbiztonsági építmény elhelyezésére szolgáló telek telekhatárán, annak tulajdonosának (kezelőjének, használójának) kerítést kell létesítenie. A kerítés nyomvonalában az őrzést biztosító építmény, illetve a kerítésre őrzést biztosító jelzőrendszer eleme elhelyezhető. Ezen telek esetében a (14) bekezdésben foglaltaktól – a külön használatú telekrész használatához szükséges műszaki megoldás építésügyi hatósági engedélyezése mellett – el lehet térni.
 
-[^161]: A 44. § (2) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte.
-[^162]: A 44. § (6) bekezdésének harmadik mondata a 182/2008. (VII. 14.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^163]: A 44. § (16) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 15. § (2) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^164]: A 44. § (2) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 52. § (6) bekezdése hatályon kívül helyezte.
+[^165]: A 44. § (6) bekezdésének harmadik mondata a 182/2008. (VII. 14.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^166]: A 44. § (16) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 15. § (2) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.

@@ -1,7 +1,7 @@
 ## Szellőzők
 
-69. § (1)[^243] A légcsere (a friss levegő be-, illetőleg az elhasznált, vagy szennyezett levegő kivezetése) céljára szolgáló szerkezeteket és részeit a rendeltetésének megfelelően, a tűzvédelmi előírások betartása mellett kell tervezni (méretezni) és megvalósítani.
+69. § (1)[^246] A légcsere (a friss levegő be-, illetőleg az elhasznált, vagy szennyezett levegő kivezetése) céljára szolgáló szerkezeteket és részeit a rendeltetésének megfelelően, a tűzvédelmi előírások betartása mellett kell tervezni (méretezni) és megvalósítani.
 
 (2) A gravitációs szellőzés céljára – a közvetlen szabadba nyíló nyílászárókon túlmenően – légakna, légudvar, szellőzőkürtő, szellőzőcsatorna, illetőleg homlokzati szellőzőrács létesíthető.
 
-[^243]: A 69. § (1) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 32. § 20. pontja szerint módosított szöveg.
+[^246]: A 69. § (1) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 32. § 20. pontja szerint módosított szöveg.

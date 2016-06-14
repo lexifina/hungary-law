@@ -1,6 +1,6 @@
-## Különleges beépítésre nem szánt terület[^92]
+## Különleges beépítésre nem szánt terület[^94]
 
-30/B. §[^93] (1) A különleges beépítésre nem szánt területbe azok a területek tartoznak, amelyeken az elhelyezhető építmények rendeltetésük miatt jelentős hatást gyakorolnak a környezetükre vagy a környezetük megengedett külső hatásaitól is védelmet igényelnek.
+30/B. §[^95] (1) A különleges beépítésre nem szánt területbe azok a területek tartoznak, amelyeken az elhelyezhető építmények rendeltetésük miatt jelentős hatást gyakorolnak a környezetükre vagy a környezetük megengedett külső hatásaitól is védelmet igényelnek.
 
 (2) Különleges beépítésre nem szánt terület
 
@@ -24,7 +24,7 @@ i) az egyéb, a 26–30/A. §-ban foglaltak egyikébe sem sorolható, helyi saj�
 
 (3) A (2) bekezdésben felsorolt különleges beépítésre nem szánt területen a terület rendeltetésszerű használatát szolgáló építmény helyezhető el.
 
-(4) A különleges beépítésre nem szánt területen épület – legfeljebb 5%-ig – a helyi építési szabályzatban megengedett beépítettséggel helyezhető el.
+(4)[^96] A különleges beépítésre nem szánt területen épület – legfeljebb 10%-ig – a helyi építési szabályzatban megengedett beépítettséggel helyezhető el.
 
 (5) A (2) bekezdés h) pontjában meghatározott burkolt köztér, fásított köztér és sétány legkisebb zöldfelületi aránya, valamint megengedett legnagyobb beépítettségének mértéke a sajátos használatok szerint a következő:
 
@@ -36,5 +36,6 @@ ba) a megengedett legnagyobb beépítettség: 5%,
 
 bb) a legkisebb zöldfelület: 20%.
 
-[^92]: A 30/B. §-t megelőző alcímet a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be.
-[^93]: A 30/B. §-t a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^94]: A 30/B. §-t megelőző alcímet a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be.
+[^95]: A 30/B. §-t a 182/2008. (VII. 14.) Korm. rendelet 7. §-a iktatta be, szövege a 90/2012. (IV. 26.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^96]: A 30/B. § (4) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 1. § (2) bekezdés h) pontja szerint módosított szöveg.
