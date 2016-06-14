@@ -54,6 +54,10 @@ f) 14. § (8a) és (11) bekezdését, valamint a 15. § (2) bekezdését a Módr
 
 g) 16. § (14) bekezdését a Módr4. hatálybalépésekor[^140] folyamatban lévő, 2013–2014-es támogatási időszaktól jóváhagyott sportfejlesztési programokkal összefüggésben kiállított igazolások tekintetében
 
+## is alkalmazni kell.
+
+(16)[^141] E rendeletnek a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet módosításáról szóló 141/2016. (VI. 13.) Korm. rendelettel (a továbbiakban: Módr5.) megállapított 14. § (4b) bekezdését a Módr5. hatálybalépésekor[^142] folyamatban lévő, 2013–2014-es támogatási időszaktól jóváhagyott sportfejlesztési programok megvalósítása során is alkalmazni kell.
+
 [^115]: A 16. § (2) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 568. §-a hatályon kívül helyezte.
 [^116]: A 16. § (3a) bekezdését a 268/2011. (XII. 16.) Korm. rendelet 7. §-a iktatta be.
 [^117]: A hatálybalépés időpontja 2011. december 17.
@@ -80,3 +84,5 @@ g) 16. § (14) bekezdését a Módr4. hatálybalépésekor[^140] folyamatban lé
 [^138]: A hatálybalépés időpontja 2016. május 3.
 [^139]: A hatálybalépés időpontja 2016. május 3.
 [^140]: A hatálybalépés időpontja 2016. május 3.
+[^141]: A 16. § (16) bekezdését a 141/2016. (VI. 13.) Korm. rendelet 3. §-a iktatta be.
+[^142]: A hatálybalépés időpontja 2016. június 14.

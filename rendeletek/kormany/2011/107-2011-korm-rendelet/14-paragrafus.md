@@ -14,7 +14,7 @@ b) a támogatott szervezetre, ha a részben lehívott támogatás teljes összeg
 
 (4a)[^93] Az (1a) bekezdés a) vagy b) pontjában meghatározott támogatás igénybevételére jogosult szervezet vagy támogatott szervezet a (4) bekezdésben meghatározott igazolás benyújtása nélkül is kérelmezheti a jóváhagyást végző szervezetnél a sportfejlesztési program további meghosszabbítását.
 
-(4b)[^94] A támogatott szervezet – a 15. §-ban foglaltak kivételével, a (4a) bekezdésben foglaltakra is tekintettel – a sportcélú ingatlan-fejlesztést érintő tárgyi eszköz beruházás, felújítás esetén a jóváhagyást végző szervezetnél az adott támogatási időszak vonatkozásában a tárgyévet követő év május 1. napjától kérelmezheti a sportfejlesztési program összesen legfeljebb 2 támogatási időszakkal történő meghosszabbítását.
+(4b)[^94] A támogatott szervezet – a 15. §-ban foglaltak kivételével, a (4a) bekezdésben foglaltakra is tekintettel – a sportcélú ingatlan-fejlesztést érintő tárgyi eszköz beruházás, felújítás esetén a jóváhagyást végző szervezetnél az adott támogatási időszak vonatkozásában a tárgyévet követő év május 1. napjától kérelmezheti a sportfejlesztési program összesen legfeljebb 4 támogatási időszakkal történő meghosszabbítását.
 
 (5) Ha a jóváhagyást végző szervezet a szakszövetség, a támogatott szervezet a (4) bekezdés szerinti kérelem 1 példányát az ellenőrző szervezet részére is megküldi.
 
@@ -43,7 +43,7 @@ b) a támogatott szervezetre, ha a részben lehívott támogatás teljes összeg
 [^91]: A 14. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 567. § c) pontja szerint módosított szöveg.
 [^92]: A 14. § (4) bekezdése a 134/2013. (V. 9.) Korm. rendelet 9. § (2) bekezdésével megállapított szöveg.
 [^93]: A 14. § (4a) bekezdését az 503/2013. (XII. 29.) Korm. rendelet 2. § (10) bekezdése iktatta be.
-[^94]: A 14. § (4b) bekezdését a 170/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be.
+[^94]: A 14. § (4b) bekezdését a 170/2015. (VI. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 141/2016. (VI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^95]: A 14. § (6) bekezdése a 96/2016. (V. 2.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^96]: A 14. § (6a) bekezdését a 134/2013. (V. 9.) Korm. rendelet 9. § (4) bekezdése iktatta be.
 [^97]: A 14. § (7) bekezdése az 503/2013. (XII. 29.) Korm. rendelet 2. § (12) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 567. § d) pontja szerint módosított szöveg.
