@@ -24,7 +24,7 @@
 
 ## 13. Az építményekkel szemben támasztott követelmények
 
-## 14.[^28]
+## 14.[^28] Az egyszerű bejelentéshez kötött építési tevékenység
 
 ## 15. Építésügyi fogalomrendszer
 
@@ -96,5 +96,5 @@
 
 A) ÉPÍTÉSÜGYI TÉMAKÖRÖK
 
-[^28]: Az 1. melléklet A) rész 14. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés a) pontja hatályon kívül helyezte.
+[^28]: Az 1. melléklet A) rész 14. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés a) pontja hatályon kívül helyezte, újonnan a 156/2016. (VI. 13.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^29]: Az 1. melléklet A) rész 20–22. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés a) pontja hatályon kívül helyezte.

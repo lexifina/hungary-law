@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-487-20-
 | 2014-11-17 | 2013-487-20-22.3 | 280/2014. (XI. 14.) Korm. rendelet |
 | 2015-03-12 | 2013-487-20-22.4 | 38/2015. (III. 11.) Korm. rendelet |
 | 2015-04-01 | 2013-487-20-22.5 | 70/2015. (III. 30.) Korm. rendelet |
+| 2016-06-14 | 2013-487-20-22.6 | 38/2015. (III. 11.) Korm. rendelet |

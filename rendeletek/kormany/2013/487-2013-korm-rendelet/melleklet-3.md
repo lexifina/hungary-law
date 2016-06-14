@@ -32,7 +32,7 @@
 
 ## 17. Az építésügyi szabványok alkalmazása
 
-## 18.[^30]
+## 18.[^30] Az egyszerű bejelentéshez kötött építési tevékenység
 
 ## 19. Építésügyi fogalomrendszer
 
@@ -108,7 +108,7 @@
 
 3. melléklet a 487/2013. (XII. 17.) Korm. rendelethez[^33]
 
-[^30]: A 2. melléklet A) rész 18. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte.
+[^30]: A 2. melléklet A) rész 18. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte, újonnan a 156/2016. (VI. 13.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^31]: A 2. melléklet A) rész 21. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte.
 [^32]: A 2. melléklet A) rész 28. pontját a 38/2015. (III. 11.) Korm. rendelet 25. § (16) bekezdés b) pontja hatályon kívül helyezte.
 [^33]: A 3. melléklet a 280/2014. (XI. 14.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 38/2015. (III. 11.) Korm. rendelet 25. § (13) bekezdése szerint módosított szöveg.
