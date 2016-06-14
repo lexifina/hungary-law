@@ -16,4 +16,6 @@ nemzeti fejlesztési miniszter
 
 Határidő: felmerülés ütemében
 
-4. visszavonja az Országos Villamos Teherelosztó épületének állami tulajdonba kerüléséhez szükséges intézkedésekről szóló 1554/2015. (VIII. 7.) Korm. határozatot.
+4.[^2]
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
