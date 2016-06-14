@@ -1,4 +1,4 @@
-19. § (1)[^50]
+19. § (1)[^62]
 
 (2) Az építésügyi hatóság, ha a helyszíni szemléjén megállapítja, hogy a tervezett építési tevékenységet engedély nélkül megkezdték, haladéktalanul, de legkésőbb a szemlét követő
 
@@ -18,7 +18,7 @@ c) figyelmeztető és tájékoztató rész.
 
 a) az ÉTDR ügy- és iratazonosítót,
 
-b)[^51] a tervezett építési tevékenységgel érintett telek címét, helyrajzi számát, mezőgazdasági birtoktest esetén az ahhoz tartozó valamennyi telek helyrajzi számát,
+b)[^63] a tervezett építési tevékenységgel érintett telek címét, helyrajzi számát, mezőgazdasági birtoktest esetén az ahhoz tartozó valamennyi telek helyrajzi számát,
 
 c) az építési tevékenység rövid leírását, az építmény rendeltetését, az önálló rendeltetési egység számát és rendeltetésének megjelölését,
 
@@ -32,7 +32,7 @@ g) a települési önkormányzat polgármesterének településképi vélemény�
 
 h) az engedély hatályát,
 
-i)[^52] a 2015. december 31-ét követően benyújtott, az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet hatálya alá eső új és nem közel nulla vagy annál kedvezőbb energiaigényű épületre vonatkozó kérelem esetén azt a feltételt, hogy
+i)[^64] a 2015. december 31-ét követően benyújtott, az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet hatálya alá eső új és nem közel nulla vagy annál kedvezőbb energiaigényű épületre vonatkozó kérelem esetén azt a feltételt, hogy
 
 ia) a hatóságok használatára szánt vagy tulajdonukban lévő épület esetében 2018. december 31-ig,
 
@@ -58,11 +58,11 @@ a) figyelmeztetést arra, hogy az építtető építési tevékenységet csak a 
 
 b) figyelmeztetést arra, hogy az építési engedély polgári jogi igényt nem dönt el,
 
-c)[^53] figyelmeztetést arra vonatkozóan, hogy a létrehozott építmény csak használatbavételi engedély kiadását vagy tudomásulvételt követően, és – a kéményseprő-ipari közszolgáltatásról szóló törvényben meghatározott esetben – szén-monoxid érzékelő berendezés elhelyezése után használható,
+c)[^65] figyelmeztetést arra vonatkozóan, hogy a létrehozott építmény csak használatbavételi engedély kiadását vagy tudomásulvételt követően, és – a kéményseprő-ipari közszolgáltatásról szóló törvényben meghatározott esetben – szén-monoxid érzékelő berendezés elhelyezése után használható,
 
-d)[^54] figyelmeztetést arra, hogy nyilvántartott műemléki értéken, műemléken az egyes, építési engedély nélkül végezhető tevékenységekhez – külön jogszabályban meghatározott esetekben – az örökségvédelmi hatósághoz történő bejelentése vagy az örökségvédelmi hatóság engedélye is szükséges,
+d)[^66]
 
-e)[^55] tájékoztatást arról, hogy az építőipari kivitelezési tevékenység végzése az építtetői fedezetkezelés hatálya alá tartozik-e,
+e)[^67] tájékoztatást arról, hogy az építőipari kivitelezési tevékenység végzése az építtetői fedezetkezelés hatálya alá tartozik-e,
 
 f) tájékoztatást arról, hogy az építésügyi hatósági engedély nem mentesíti az építtetőt az építési tevékenység megkezdéséhez az egyéb jogszabályokban előírt engedélyek, hozzájárulások vagy nyilatkozatok megszerzésének kötelezettsége alól,
 
@@ -70,14 +70,14 @@ g) tájékoztatást az engedély hatálya meghosszabbításának módjáról, fe
 
 h) tájékoztatást arról, hogy a jogorvoslatra nyitva álló idő alatt az ügyfél az engedélyezés tárgyát képező építészeti-műszaki dokumentációba milyen módon tekinthet be,
 
-i)[^56] a (4) bekezdés i) pontjában meghatározott épületek esetén figyelmeztetést arra, hogy az ott meghatározott határnapot követően az épületet az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerinti közel nulla energiaigényű épületként kell kialakítani.
+i)[^68] a (4) bekezdés i) pontjában meghatározott épületek esetén figyelmeztetést arra, hogy az ott meghatározott határnapot követően az épületet az épületek energetikai jellemzőinek meghatározásáról szóló miniszteri rendelet szerinti közel nulla energiaigényű épületként kell kialakítani.
 
 (7) Az építésügyi hatóság a határozaton feltünteti az értesítettek körét a 20. § (2) bekezdésében foglaltak szerint.
 
-[^50]: A 19. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 3. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^51]: A 19. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (9) bekezdésével megállapított szöveg.
-[^52]: A 19. § (4) bekezdés i) pontját a 262/2015. (IX. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^53]: A 19. § (6) bekezdés c) pontja a 440/2013. (XI. 20.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^54]: A 19. § (6) bekezdés d) pontja a 38/2015. (III. 11.) Korm. rendelet 18. § (5) bekezdésével megállapított szöveg.
-[^55]: A 19. § (6) bekezdés e) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés a) pontja szerint módosított szöveg.
-[^56]: A 19. § (6) bekezdés i) pontját a 262/2015. (IX. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^62]: A 19. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 3. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^63]: A 19. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (9) bekezdésével megállapított szöveg.
+[^64]: A 19. § (4) bekezdés i) pontját a 262/2015. (IX. 14.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^65]: A 19. § (6) bekezdés c) pontja a 440/2013. (XI. 20.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^66]: A 19. § (6) bekezdés d) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § g) pontja hatályon kívül helyezte.
+[^67]: A 19. § (6) bekezdés e) pontja a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés a) pontja szerint módosított szöveg.
+[^68]: A 19. § (6) bekezdés i) pontját a 262/2015. (IX. 14.) Korm. rendelet 1. § (2) bekezdése iktatta be.

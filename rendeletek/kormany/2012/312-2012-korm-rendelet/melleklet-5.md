@@ -1,6 +1,6 @@
-5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^209]
+5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^224]
 
-## Szakhatósági dokumentációk tartalma építésügyi hatósági engedélyezéshez
+## Szakhatósági vagy szakkérdés vizsgálatára alkalmas dokumentációk tartalma építésügyi hatósági engedélyezéshez
 
 I. A természet- és tájvédelmi szakhatóság állásfoglalásának megkéréséhez szükséges dokumentumok
 
@@ -28,11 +28,11 @@ I. A természet- és tájvédelmi szakhatóság állásfoglalásának megkérés
 
 2.2. Természetvédelmi oltalom alatt nem álló külterületi ingatlan esetében csak a 2.1.1-2.1.5. pontban foglalt dokumentáció szükséges.
 
-II. A környezetvédelmi szakhatóság állásfoglalásának megkéréséhez szükséges dokumentáció
+II. A környezetvédelmi szakhatóság állásfoglalásának megkéréséhez vagy szakkérdéshez szükséges dokumentáció
 
 ## Ha zajjal járó tevékenységekre irányuló hatósági engedélyezési eljárásokban a környezetvédelmi hatóság szakhatóságként jár el, akkor az építészeti-műszaki dokumentációnak a zaj- és rezgésvédelmi szabályozás tekintetében a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet 2. számú mellékletében meghatározott tartalmú zaj elleni védelemről szóló munkarészt kell tartalmaznia.
 
-III. A közlekedési szakhatóság állásfoglalásának megkéréséhez szükséges dokumentáció az építési, fennmaradási engedélyezési eljárás esetén
+III. A közlekedési szakhatóság állásfoglalásának megkéréséhez vagy szakkérdéshez szükséges dokumentáció az építési, fennmaradási engedélyezési eljárás esetén
 
 1. Közúti közlekedési szakterületi szempontból:
 
@@ -106,7 +106,7 @@ IV. A műszaki biztonsági szakhatóság állásfoglalásának megkéréséhez s
 
 3. A felvonókról, mozgólépcsőkről és mozgójárdákról szóló kormányrendelet (a továbbiakban: Rendelet) hatálya alá tartozó berendezések esetében, az 1. és 2. pontban meghatározottaktól eltérően a Rendeletben, a kérelemhez előírt tartalmú dokumentáció és nyilatkozat.
 
-V. A bányafelügyelet szakhatósági állásfoglalásának megkéréséhez szükséges dokumentáció
+V. A bányafelügyelet szakhatósági állásfoglalásának megkéréséhez vagy szakkérdéshez szükséges dokumentáció
 
 1. Építési, összevont építési és fennmaradási engedélyezési eljárás esetén, ha az építési terület felszínmozgás-veszélyes, illetve bányászati tevékenységgel (alábányászott) érintett, a talajvizsgálati jelentés és geotechnikai vizsgálat összefoglalása.
 
@@ -168,4 +168,34 @@ A tűzvédelmi dokumentáció tartalma
 
 2.2. Helyszínrajz, melyen feltüntetik az engedélyezéssel érintett építményt és a szomszédos építményeket, valamint a közöttük lévő távolságot.
 
-[^209]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a, a 146/2014. (V. 5.) Korm. rendelet 35. § (2) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 45. § (1) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a szerint módosított szöveg.
+VII. A műemléki érték védelmével kapcsolatos szakhatósági állásfoglaláshoz vagy szakkérdések vizsgálatához szükséges dokumentáció
+
+1. Szakhatósági állásfoglaláshoz szükséges dokumentáció műemléki jelentőségű területen, műemlék történeti tájon vagy világörökségi területen álló építmény esetén
+
+1.1. az építészeti műszaki dokumentáció a közterületről feltáruló vagy madártávlati látványtervet, a meglévő (a változtatás előtti) állapotra vonatkozó fotódokumentációt és az érintett műemléki terület fényképi ábrázolását is tartalmazza;
+
+1.2. a meglévő (a változtatás előtti) állapotra vonatkozó fotódokumentációt és az érintett műemléki területnek fényképi ábrázolását tartalmazza;
+
+1.3. fotódokumentáció is szükséges.
+
+2. Szakkérdés vizsgálatához szükséges dokumentáció
+
+2.1. Az építési engedélyezési eljáráshoz, örökségvédelmi engedéllyel egybefoglalt eljárásban a nyilvántartott műemléki érték, műemlék bővítése vagy műemlék telkén létesítendő új építmény esetén, a beavatkozással érintett részre vonatkozóan az építészeti műszaki dokumentációnak – a 8. melléklet III. rész 2–4. pontjában meghatározottakon túl – alábbiakat kell tartalmaznia:
+
+2.1.1. a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló 39/2015. (III. 11.) Korm. rendelet 9. melléklet II. rész A. pontjában meghatározott állapotdokumentációt,
+
+2.1.2. a nyilvántartott műemléki érték, műemlék vagy műemlék telkén új építmény építése esetén külön jogszabályban meghatározott tartalmú építéstörténeti tudományos dokumentációt,
+
+2.1.3. a védett építmény bővítése esetén amennyiben tetőszerkezetének megerősítése, terhének növekedésével járó átalakítása esetén az elemek teljes vagy részleges cseréjének, megerősítésének rajzi mellékleteken történő tételes feltüntetését, amennyiben az építmény fa- és faalapú anyagokat is tartalmaz faanyagvédelmi szakvéleményt.
+
+2.2. A fennmaradási engedélyezési eljáráshoz a nyilvántartott műemléki érték, a műemlék vagy a műemlék telkén álló építmény esetében az építészeti műszaki dokumentációnak – a 8. melléklet III. rész 7. pontjában meghatározottakon túl – fotódokumentációt is tartalmaznia kell.
+
+2.3. A bontási engedélyezési eljáráshoz nyilvántartott műemléki érték, műemlék részleges bontása vagy műemlék telkén álló építmény bontása esetén az építészeti műszaki dokumentációnak a beavatkozással érintett részre vonatkozóan – a 8. melléklet III. rész 6. pontjában meghatározottakon túl – alábbiakat kell tartalmaznia:
+
+2.3.1. a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló 39/2015. (III. 11.) Korm. rendelet 9. melléklet II. rész A. pontjában meghatározott állapotdokumentációt,
+
+2.3.2. nyilvántartott műemléki érték, műemlék esetén a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló 39/2015. (III. 11.) Korm. rendelet 9. melléklet II. rész D. pontjában meghatározott építéstörténeti tudományos dokumentációt,
+
+2.3.3. nyilvántartott műemléki érték, műemlék esetén a tartószerkezeti szakértői vagy amennyiben releváns egyéb épületdiagnosztikai szakvéleményt.
+
+[^224]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a, a 146/2014. (V. 5.) Korm. rendelet 35. § (2) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 45. § (1) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a, a 156/2016. (VI. 13.) Korm. rendelet 12. § (11) bekezdése, 13. § 27–30. pontja szerint módosított szöveg.

@@ -18,10 +18,10 @@ bb) az építési tevékenység helye szerinti települési önkormányzat polg�
 
 (3) A jogerős döntést közölni kell az építtetővel vagy meghatalmazottjával.
 
-(4)[^72]
+(4)[^84]
 
 (5) Az építésügyi hatóság a jogerőre emelkedés napját az ÉTDR-ben rögzíti és az engedélyezésre benyújtott építészeti-műszaki dokumentációt elektronikus engedélyezési záradékkal látja el.
 
 (6) Az elvi építési keretengedélyezési eljárás során hozott jogerős döntés a hozzá tartozó, engedélyezési záradékkal ellátott építészeti-műszaki dokumentációban foglaltakkal együtt hatályos.
 
-[^72]: A 26. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 6. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^84]: A 26. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 6. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

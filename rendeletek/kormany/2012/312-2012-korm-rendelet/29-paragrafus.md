@@ -4,7 +4,7 @@
 
 ## 22. Az összevont telepítési eljárás esetköre és általános szabályai
 
-29. §[^74] (1) Az építtető – a sajátos építményfajták kivételével – az összevont telepítési eljárás lefolytatását kérelmezheti, ha az építési beruházás megvalósításához az alábbi eljárások, vagy azok egy részének lefolytatása szükséges:
+29. §[^86] (1) Az építtető – a sajátos építményfajták kivételével – az összevont telepítési eljárás lefolytatását kérelmezheti, ha az építési beruházás megvalósításához az alábbi eljárások, vagy azok egy részének lefolytatása szükséges:
 
 a) a településrendezési eszköz készítésének, módosításának egyeztetési eljárása,
 
@@ -50,4 +50,4 @@ b) az (1) bekezdés c pont cb) alpontja, h) és i) pontja szerinti eljárásokat
 
 (7) Ha az összevont telepítési eljárás keretében az (1) bekezdés c) pontja szerinti eljárás kerül lefolytatásra, e tekintetben a környezet- és természetvédelmi szakkérdések vizsgálata során megfelelően alkalmazandók a Khvr.-ben meghatározott eljárási cselekményekre vonatkozó rendelkezések is.
 
-[^74]: A 29. § a 70/2015. (III. 30.) Korm. rendelet 206. § (10) bekezdésével megállapított szöveg.
+[^86]: A 29. § a 70/2015. (III. 30.) Korm. rendelet 206. § (10) bekezdésével megállapított szöveg.

@@ -28,13 +28,13 @@ a) az építtetővel vagy meghatalmazottjával,
 
 b) az építésfelügyeleti hatósággal az ÉTDR-en keresztül,
 
-c)[^57] az illetékes környezetvédelmi és természetvédelmi hatósággal, valamint a területi vízügyi hatósággal, ha az építési engedélyezési eljárás környezetvédelmi vagy egységes környezethasználati engedély köteles építményre vonatkozott,
+c)[^69] az illetékes környezetvédelmi és természetvédelmi hatósággal, valamint a területi vízügyi hatósággal, ha az építési engedélyezési eljárás környezetvédelmi vagy egységes környezethasználati engedély köteles építményre vonatkozott,
 
-d)[^58] a munkavédelmi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatallal, ha az építési tevékenységgel érintett építmény azbesztet tartalmaz,
+d)[^70] a munkavédelmi hatósági hatáskörében eljáró fővárosi és megyei kormányhivatallal, ha az építési tevékenységgel érintett építmény azbesztet tartalmaz,
 
 e) mindazokkal, akiknek értesítését jogszabály előírja.
 
-(4)[^59]
+(4)[^71]
 
 (5) Az építési engedély jogerőre emelkedése esetén az építésügyi hatóság a jogerőre emelkedés napját az ÉTDR-ben rögzíti és az engedélyezésre benyújtott építészeti-műszaki dokumentációt elektronikus engedélyezési záradékkal látja el.
 
@@ -42,6 +42,6 @@ e) mindazokkal, akiknek értesítését jogszabály előírja.
 
 (7) Az építésügyi hatóság – az építési engedélykérelemben erre irányuló külön kérelem esetén – a jogerős építési engedélyt és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációt a jogerőre emelkedés időpontjának tudomásra jutásától számított három napon belül az építtető vagy meghatalmazottjának a kapcsolattartás módjára megjelölt rendelkezésének megfelelően megküldi.
 
-[^57]: A 20. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 123. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 4. pontja szerint módosított szöveg.
-[^58]: A 20. § (3) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 4. pontja szerint módosított szöveg.
-[^59]: A 20. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 4. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^69]: A 20. § (3) bekezdés c) pontja az 527/2013. (XII. 30.) Korm. rendelet 123. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 4. pontja szerint módosított szöveg.
+[^70]: A 20. § (3) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 4. pontja szerint módosított szöveg.
+[^71]: A 20. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 4. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

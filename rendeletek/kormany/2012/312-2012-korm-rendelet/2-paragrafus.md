@@ -4,7 +4,7 @@
 
 ## 2. Elektronikus tárhely biztosítása
 
-2. § (1)[^2] Az építésügyi hatósági engedély, az építésfelügyeleti hatósági tudomásulvétel iránti kérelem elektronikus úton történő benyújtásához, papír alapon történő benyújtása esetén a kérelem és jogszabályban előírt mellékleteinek feltöltéséhez az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer (a továbbiakban: ÉTDR) az építtető részére közvetlenül a kérelem benyújtása előtt elektronikus feltöltő tárhelyet biztosít.
+2. § (1)[^2] Az építésügyi hatósági engedély iránti kérelem elektronikus úton történő benyújtásához, papír alapon történő benyújtása esetén a kérelem és jogszabályban előírt mellékleteinek feltöltéséhez az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszer (a továbbiakban: ÉTDR) az építtető részére közvetlenül a kérelem benyújtása előtt elektronikus feltöltő tárhelyet biztosít.
 
 (2) Az építésügyi hatósági engedély iránti kérelem elektronikus úton történő benyújtását megelőzően az (1) bekezdésben foglaltakon túlmenően az építtető az építésügyi hatósághoz benyújtott külön kérelmére, az abban kérelmezett időtartamra
 
@@ -26,7 +26,7 @@ c) építésügyi hatósági szolgáltatás kérelmezéséhez szükséges dokume
 
 (7)[^5] Az építészeti-műszaki dokumentáció, az előzetes szakhatósági állásfoglalás, az építészeti-műszaki tervtanács véleménye, valamint a települési (fővárosban a kerületi) önkormányzat polgármesterének vagy a fővárosi önkormányzat főpolgármesterének (a továbbiakban együtt: települési önkormányzat polgármestere) településképi véleménye és az egyéb dokumentumok elektronikus tárhelyre történő feltöltése önmagában az engedélyezési eljárást nem indítja meg.
 
-[^2]: A 2. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 1. pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 1. pontja, a 156/2016. (VI. 13.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
 [^3]: A 2. § (4) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 2. pontja szerint módosított szöveg.
 [^4]: A 2. § (5) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § (7) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.

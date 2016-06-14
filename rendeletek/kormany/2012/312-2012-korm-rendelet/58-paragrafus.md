@@ -10,17 +10,11 @@
 
 (2) Az építésfelügyeleti hatóság
 
-a) kérelemre hatósági eljárást folytat le
-
-aa)[^154]
-
-ab) a bontási tevékenység
-
-megkezdésének tudomásulvételére,
+a)[^169]
 
 b) a 62. §-ban foglaltak szerint ellenőrzi vagy ellenőrizheti
 
-ba)[^155] a bontási tevékenység megkezdésének tudomásulvétele nélkül vagy az építésfelügyeleti hatóság tiltása ellenére végzett építési tevékenységet,
+ba)[^170]
 
 bb) az építőipari kivitelezési tevékenység folytatását,
 
@@ -28,19 +22,17 @@ bc) azt, hogy az építési folyamat résztvevői rendelkeznek-e a tevékenység
 
 bd) az építőipari kivitelezési dokumentáció meglétét,
 
-be) az építési napló vezetését és annak tartalmát,
+be)[^171] az építési napló meglétét, vezetését és annak tartalmát,
 
 bf) az építtetői fedezetkezelőre vonatkozó előírások betartását.
 
-(3)[^156] Az építésfelügyeleti hatóság ellenőrzi a meglévő építmények körében a jogszabályban előírt jókarbantartási kötelezettség teljesítését, valamint műemléken, nyilvántartott műemléki értéken azt, hogy az építmény műszaki állapota nem veszélyezteti-e a védett műemléki értékeket.
+(3)[^172] Az építésfelügyeleti hatóság ellenőrzi a meglévő építmények körében a jogszabályban előírt jókarbantartási kötelezettség teljesítését, valamint műemléken, nyilvántartott műemléki értéken azt, hogy az építmény műszaki állapota nem veszélyezteti-e a védett műemléki értékeket.
 
-(4) Az építésfelügyeleti hatóság felkutatja
+(4)[^173] Az építésfelügyeleti hatóság hatósági ellenőrzés keretében vizsgálja
 
-a) a szabálytalan építési tevékenységeket,
+a) az Étv. 48. §-a szerinti szabálytalan tevékenységeket, valamint
 
-b) az építési vagy bontási engedély nélkül vagy bontási tudomásulvétel nélkül végzett építési tevékenységeket,
-
-c) az építési engedély nélkül végezhető építési tevékenység esetén a településrendezési tervek, valamint a helyi építési szabályzat és az országos építési követelmények megsértésével végzett építési tevékenységeket.
+b) azon építési engedélyhez vagy az Étv. 33/A. §-a szerinti egyszerű bejelentéshez nem kötött építési tevékenységet, amelyet a helyi építési szabályzat és az országos építési követelmények megsértésével végeztek.
 
 (5) Az építésfelügyeleti hatóság a (4) bekezdésben meghatározott ellenőrzéséhez, a tényállás tisztázásához az ÉMO alkalmazásával adatokat szerezhet be, előzmény iratokat és állapotdokumentumokat vizsgálhat.
 
@@ -48,6 +40,8 @@ c) az építési engedély nélkül végezhető építési tevékenység esetén
 
 (7) A speciális vizsgálatok elvégzése érdekében az építésfelügyeleti hatóság az Étv. 53/A. § (3) bekezdésében meghatározott szakértő vagy minőség-ellenőrző szerv közreműködését is igénybe veheti.
 
-[^154]: Az 58. § (2) bekezdés a) pont aa) alpontját a 109/2013. (IV. 9.) Korm. rendelet 4. § (12) bekezdés c) pontja hatályon kívül helyezte.
-[^155]: Az 58. § (2) bekezdés b) pont ba) alpontja a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 20. pontja szerint módosított szöveg.
-[^156]: Az 58. § (3) bekezdése a 38/2015. (III. 11.) Korm. rendelet 18. § (9) bekezdésével megállapított szöveg.
+[^169]: Az 58. § (2) bekezdés a) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § o) pontja hatályon kívül helyezte.
+[^170]: Az 58. § (2) bekezdés b) pont ba) alpontját a 156/2016. (VI. 13.) Korm. rendelet 14. § p) pontja hatályon kívül helyezte.
+[^171]: Az 58. § (2) bekezdés b) pont be) alpontja a 156/2016. (VI. 13.) Korm. rendelet 13. § 21. pontja szerint módosított szöveg.
+[^172]: Az 58. § (3) bekezdése a 38/2015. (III. 11.) Korm. rendelet 18. § (9) bekezdésével megállapított szöveg.
+[^173]: Az 58. § (4) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.

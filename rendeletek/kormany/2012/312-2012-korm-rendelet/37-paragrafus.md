@@ -6,7 +6,7 @@
 
 (3) Az építésügyi hatóság a kérelem elbírálása során vizsgálja, hogy a tervezett eltérés, az érintett szakhatóság állásfoglalása, illetve a rendeltetésszerű és biztonságos használat követelményeinek figyelembevételével engedélyezhető-e.
 
-(4)[^87]
+(4)[^99]
 
 (5) A határozat három fő részből áll:
 
@@ -42,4 +42,4 @@ d) a jogorvoslatra nyitva álló idő alatt az ügyfél az engedélyezés tárgy
 
 (10) Az önállóan előterjesztett kérelemben hozott jogerős eltérési engedély egy évig hatályos és a hatálya nem hosszabbítható meg.
 
-[^87]: A 37. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 9. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^99]: A 37. § (4) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 9. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

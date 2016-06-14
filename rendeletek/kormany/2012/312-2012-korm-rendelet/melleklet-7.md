@@ -90,7 +90,7 @@
 
 | 37. | A gyógykezelés céljára szolgáló építmény, illetve önálló rendeltetési egység esetén. | A biztonságos betegellátáshoz szükséges orvosszakmai és ápolásszakmai feltételek meglétének vizsgálatával, valamint az épület egyéb, önálló rendeltetési egységei higiénés, közegészségügyi járványügyi biztonsága megteremtésével kapcsolatos szakkérdések. | a) építési, b) összevont (építési engedélyezési szakaszában), c) az engedély hatályának meghosszabbítási, d) használatbavételi, e) fennmaradási engedélyezési eljárás | fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatal | népegészségügyi feladatkörben eljáró fővárosi és megyei kormányhivatal |
 
-| 38. | A kulturális örökségvédelmi hatósági nyilvántartásban szereplő műemléki jelentőségű területen vagy világörökségi területen új épület építése vagy meglévő épület építésügyi hatósági engedélyhez kötött bővítése, átalakítása vagy bontása esetén. | Annak elbírálása kérdésében, hogy az építési tevékenység a kulturális örökség vagy a világörökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | a) építési, b) bontási, c) összevont (elvi építési keretengedélyezési szakaszában), d) az engedély hatályának meghosszabbítási, e) használatbavételi, f) fennmaradási engedélyezési eljárás | fővárosi és megyei kormányhivatal örökségvédelmi hatáskörben eljáró járási (fővárosi kerületi) hivatala | örökségvédelmi hatáskörben eljáró Budapest Főváros Kormányhivatala, kizárási feltétel fennállása esetén a kulturális örökség védelméért felelős miniszter |
+| 38. | A kulturális örökségvédelmi hatósági nyilvántartásban szereplő műemléki jelentőségű területen, műemlék történeti tájon vagy világörökségi területen új épület építése vagy meglévő épület építésügyi hatósági engedélyhez kötött bővítése, átalakítása vagy bontása esetén. | Annak elbírálása kérdésében, hogy az építési tevékenység a kulturális örökség vagy a világörökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | a) építési, b) bontási, c) összevont (elvi építési keretengedélyezési szakaszában), d) az engedély hatályának meghosszabbítási, e) használatbavételi, f) fennmaradási engedélyezési eljárás | fővárosi és megyei kormányhivatal örökségvédelmi hatáskörben eljáró járási (fővárosi kerületi) hivatala | örökségvédelmi hatáskörben eljáró Budapest Főváros Kormányhivatala, kizárási feltétel fennállása esetén a kulturális örökség védelméért felelős miniszter |
 
 ## II. táblázat
 
@@ -174,9 +174,9 @@
 
 | 16. | A gyógykezelés céljára szolgáló építmény, illetve önálló rendeltetési egység esetén. | A biztonságos betegellátáshoz szükséges orvosszakmai és ápolásszakmai feltételek meglétének vizsgálatával, valamint az épület egyéb, önálló rendeltetési egységei higiénés, közegészségügyi járványügyi biztonsága megteremtésével kapcsolatos szakkérdések. | a) építési, b) összevont (építési engedélyezési szakaszában), c) az engedély hatályának meghosszabbítási, d) használatbavételi, e) fennmaradási engedélyezési eljárás |
 
-| 17. | A kulturális örökségvédelmi hatósági nyilvántartásban szereplő műemléki jelentőségű területen, világörökségi területen, nyilvántartott műemléki érték vagy műemlék telkén új épület építése vagy meglévő épület építésügyi hatósági engedélyhez kötött bővítése, átalakítása vagy bontása esetén. | Annak elbírálása kérdésében, hogy az építési tevékenység a kulturális örökség vagy a világörökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | a) építési, b) bontási, c) összevont (elvi építési keretengedélyezési szakaszában), d) az engedély hatályának meghosszabbítási, e) használatbavételi, f) fennmaradási engedélyezési eljárás |
+| 17. | A kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott műemléki értéket, műemléket érintően, továbbá műemlék telkén, műemléki jelentőségű területen, műemlék történeti tájon vagy világörökségi területen új épület építése vagy meglévő épület építésügyi hatósági engedélyhez kötött bővítése, átalakítása vagy bontása esetén. | Annak elbírálása kérdésében, hogy az építési tevékenység a kulturális örökség vagy a világörökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | a) építési, b) bontási, c) összevont (elvi építési keretengedélyezési szakaszában), d) az engedély hatályának meghosszabbítási, e) használatbavételi, f) fennmaradási engedélyezési eljárás |
 
-7. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^211]
+7. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^226]
 
 I. Az összevont telepítési eljárásban benyújtandó mellékletek
 
@@ -260,4 +260,4 @@ III. Az összevont telepítési eljárásban vizsgálandó szakkérdés
 
 | 3. | Egységes környezethasználati engedélyhez kötött tervezett tevékenység esetén. | A környezetszennyezés megelőzése, a környezet terhelésének csökkentése érdekében mi az elérhető legjobb technika. |
 
-[^211]: A 7. melléklet a 70/2015. (III. 30.) Korm. rendelet 206. § (24) bekezdésével megállapított szöveg.
+[^226]: A 7. melléklet a 70/2015. (III. 30.) Korm. rendelet 206. § (24) bekezdésével megállapított szöveg.

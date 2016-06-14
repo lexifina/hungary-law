@@ -1,4 +1,4 @@
-33. § (1)[^78]
+33. § (1)[^90]
 
 (2) Ha a településrendezési eszköz véleményezési eljárása is a THSZ-ben kerül lefolytatásra, akkor a szakhatóságok állásfoglalásának a településrendezési eszköz elfogadásával kapcsolatos – a településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló kormányrendeletben foglaltak szerinti tartalmú – véleményt is tartalmaznia kell.
 
@@ -20,7 +20,7 @@ f) környezetvédelmi engedély vagy egységes környezethasználati engedély,
 
 g) a településrendezési eszközzel kapcsolatos vélemény.
 
-(5)[^79] A telepítési engedély tárgyában hozott döntés rendelkező része a Ket. 72. § (2) bekezdésében foglaltakon kívül – a (4) bekezdés szerinti tartalomtól függően – tartalmazza:
+(5)[^91] A telepítési engedély tárgyában hozott döntés rendelkező része a Ket. 72. § (2) bekezdésében foglaltakon kívül – a (4) bekezdés szerinti tartalomtól függően – tartalmazza:
 
 a) az ÉTDR ügy- és iratazonosítót,
 
@@ -52,7 +52,7 @@ ac) a régészeti feltárás a telepítési engedély kézhezvétele után megke
 
 ad) az engedélyezett végleges más célú termőföld felhasználást, erdő igénybevételt, környezethasználatot és a kérelmezett tevékenységet, a telepítési engedélyben meghatározott időn belül és csak a jogerős integrált építési engedély birtokában szabad megkezdeni és folytatni,
 
-ae)[^80] a telekalakítási engedély alapján a változás ingatlan-nyilvántartáson való átvezetése csak az integrált építési engedély végrehajthatóvá válása után kérhető, és az átvezetés megtörténtét az építtető az építőipari kivitelezési tevékenység megkezdésekor az építési naplóban történő rögzítéssel igazolni köteles,
+ae)[^92] a telekalakítási engedély alapján a változás ingatlan-nyilvántartáson való átvezetése csak az integrált építési engedély végrehajthatóvá válása után kérhető, és az átvezetés megtörténtét az építtető az építőipari kivitelezési tevékenység megkezdésekor az építési naplóban történő rögzítéssel igazolni köteles,
 
 af) a telepítési engedély nem mentesíti az építtetőt a környezethasználat és az építési tevékenység megkezdéséhez az egyéb jogszabályokban előírt engedélyek, hozzájárulások vagy nyilatkozatok megszerzésének kötelezettsége alól,
 
@@ -64,6 +64,6 @@ ba) a földvédelmi és az erdővédelmi járulékot az előírt határidőre be
 
 bb) az előírt régészeti feltárást a kivitelezés megkezdéséig be kell fejezni.
 
-[^78]: A 33. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 7. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^79]: A 33. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 206. § (15) bekezdésével megállapított szöveg.
-[^80]: A 33. § (6) bekezdés a) pont ae) alpontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 5. pontja szerint módosított szöveg.
+[^90]: A 33. § (1) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 181. § 7. pontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^91]: A 33. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 206. § (15) bekezdésével megállapított szöveg.
+[^92]: A 33. § (6) bekezdés a) pont ae) alpontja a 70/2015. (III. 30.) Korm. rendelet 206. § (22) bekezdés 5. pontja szerint módosított szöveg.

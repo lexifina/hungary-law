@@ -1,4 +1,4 @@
-## 27. §[^73] Az elvi építési keretengedély a jogerőssé válásának napjától számított egy évig hatályos. Az építtető az elvi építési keretengedély hatályossága alatt kezdeményezheti az építési engedélyezési szakasz lefolytatását. Az elvi építési keretengedély hatályát az építtető kérelmére az építésügyi hatóság az 52. §-ban meghatározott feltételek teljesülése esetén hosszabbítja meg.
+## 27. §[^85] Az elvi építési keretengedély a jogerőssé válásának napjától számított egy évig hatályos. Az építtető az elvi építési keretengedély hatályossága alatt kezdeményezheti az építési engedélyezési szakasz lefolytatását. Az elvi építési keretengedély hatályát az építtető kérelmére az építésügyi hatóság az 52. §-ban meghatározott feltételek teljesülése esetén hosszabbítja meg.
 
 ## 21. Építési engedélyezési szakasz
 
@@ -18,4 +18,4 @@ b) az (1) bekezdés esetén, az országos építési követelményektől való e
 
 (5) Az építésügyi hatóság – az építtetőnek az összevont eljárás iránti kérelmébe foglalt erre irányuló külön kérelme alapján – a jogerős építési engedélyt és a hozzá tartozó engedélyezési záradékkal ellátott építészeti-műszaki dokumentációt a jogerőre emelkedés tudomásra jutásától számított három napon belül az építtető erről szóló rendelkezésének megfelelő módon megküldi az építtetőnek vagy meghatalmazottjának.
 
-[^73]: A 27. § a 262/2015. (IX. 14.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^85]: A 27. § a 262/2015. (IX. 14.) Korm. rendelet 3. §-ával megállapított szöveg.

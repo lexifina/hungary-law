@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^207]
+1. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^222]
 
 ## Építési engedély nélkül végezhető építési tevékenységek
 
@@ -136,4 +136,4 @@ f) újjáépíteni.
 
 34. Közterületen, filmforgatáshoz kapcsolódó építmény létesítése.
 
-[^207]: Az 1. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 17–19. pontja, a 205/2013. (VI. 14.) Korm. rendelet 9. §-a, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés a) pontja, a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 29. pontja, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a, a 38/2015. (III. 11.) Korm. rendelet 18. § (12) bekezdés b) pontja, (13) bekezdés a) pontja, a 441/2015. (XII. 28.) Korm. rendelet 180. § 14. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^222]: Az 1. melléklet a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 17–19. pontja, a 205/2013. (VI. 14.) Korm. rendelet 9. §-a, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés a) pontja, a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 29. pontja, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a, a 38/2015. (III. 11.) Korm. rendelet 18. § (12) bekezdés b) pontja, (13) bekezdés a) pontja, a 441/2015. (XII. 28.) Korm. rendelet 180. § 14. pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
