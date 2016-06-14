@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1316-30
 | 2013-09-04 | 2010-1316-30-22.14 | 1603/2013. (IX. 3.) Korm. határozat |
 | 2014-07-09 | 2010-1316-30-22.15 | 1692/2012. (XII. 29.) Korm. határozat |
 | 2014-11-21 | 2010-1316-30-22.16 | 1664/2014. (XI. 20.) Korm. határozat |
+| 2016-06-14 | 2010-1316-30-22.17 | 1296/2016. (VI. 13.) Korm. határozat |
