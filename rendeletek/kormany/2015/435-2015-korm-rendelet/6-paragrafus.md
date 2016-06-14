@@ -12,6 +12,6 @@ d) negyedévente jelentést készít a miniszter részére a tevékenységéről
 
 e) ellát minden olyan feladatot, amelyet jogszabály, kormányhatározat vagy a tulajdonosi joggyakorló utasításával a hatáskörébe utal.
 
-(2)[^7] A Társaság a támogatást igénylő konzorcium konzorciumvezetőjeként eljárva előkészíti az 1. § szerinti projektet. A Társaság a támogatást igénylő – a támogatási szerződés megkötését követően kedvezményezett – konzorcium konzorciumvezetőjeként ellátja az 1. § szerinti projekt megvalósításával összefüggő projektmenedzsment feladatokat, lebonyolítja a beszerzési és közbeszerzési eljárásokat, valamint ellátja a műszaki ellenőri feladatokat.
+(2)[^8] A Társaság a támogatást igénylő konzorcium konzorciumvezetőjeként eljárva előkészíti az 1. § szerinti projektet. A Társaság a támogatást igénylő – a támogatási szerződés megkötését követően kedvezményezett – konzorcium konzorciumvezetőjeként ellátja az 1. § szerinti projekt megvalósításával összefüggő projektmenedzsment feladatokat, lebonyolítja a beszerzési és közbeszerzési eljárásokat, valamint ellátja a műszaki ellenőri feladatokat.
 
-[^7]: A 6. § (2) bekezdése a 43/2016. (III. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^8]: A 6. § (2) bekezdése a 43/2016. (III. 9.) Korm. rendelet 3. §-ával megállapított szöveg.

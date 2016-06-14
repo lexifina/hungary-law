@@ -10,6 +10,6 @@
 
 (4) A Társaság az 1. § szerinti projektek megvalósításából nem szerezhet vagyont, a létrehozott vagyont és az előállított szellemi terméket térítésmentesen át kell adnia más konzorciumi tag részére.
 
-(5)[^8] Ha az 1. § szerinti projekt megvalósításával összefüggésben el nem számolható költség merül fel, azt az a konzorciumi tag köteles finanszírozni, amelynél az adott költség felmerült, azzal, hogy a bírságot, büntetést az a konzorciumi tag viseli, amelynek a bírságra, büntetésre okot adó esemény felróható.
+(5)[^9] Ha az 1. § szerinti projekt megvalósításával összefüggésben el nem számolható költség merül fel, azt az a konzorciumi tag köteles finanszírozni, amelynél az adott költség felmerült, azzal, hogy a bírságot, büntetést az a konzorciumi tag viseli, amelynek a bírságra, büntetésre okot adó esemény felróható.
 
-[^8]: A 7. § (5) bekezdése a 43/2016. (III. 9.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^9]: A 7. § (5) bekezdése a 43/2016. (III. 9.) Korm. rendelet 4. §-ával megállapított szöveg.

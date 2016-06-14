@@ -6,26 +6,26 @@
 
 2. kedvezményezett: a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 14. pontja szerinti szervezet,
 
-2a.[^2] kiemelt projekt: a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 16. pontja szerinti projekt,
+2a.[^3] kiemelt projekt: a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 16. pontja szerinti projekt,
 
 3. konzorcium: a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 19. pontja szerinti együttműködés,
 
 4. konzorciumvezető: konzorcium kedvezményezett esetén a konzorciumi szerződésben ekként nevesített személy,
 
-5.[^3] közszféra szervezet: a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 23. pontja szerinti szervezet,
+5.[^4] közszféra szervezet: a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 23. pontja szerinti szervezet,
 
-5a.[^4] szakaszolt projekt: a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 49. pontja szerinti projekt,
+5a.[^5] szakaszolt projekt: a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 49. pontja szerinti projekt,
 
-5b.[^5] szakpolitikai felelős: a 272/2014. (XI. 5.) Korm. rendelet 2. mellékletében meghatározott, a 272/2014. (XI. 5.) Korm. rendelet 18. §-a szerinti feladatokat ellátó személy,
+5b.[^6] szakpolitikai felelős: a 272/2014. (XI. 5.) Korm. rendelet 2. mellékletében meghatározott, a 272/2014. (XI. 5.) Korm. rendelet 18. §-a szerinti feladatokat ellátó személy,
 
 6. támogatási szerződés: a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 54. pontja szerinti szerződés,
 
 7. végső kedvezményezett: a 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 66. pontja szerinti kedvezményezett,
 
-8.[^6]
+8.[^7]
 
-[^2]: A 2. § 2a. pontját a 43/2016. (III. 9.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^3]: A 2. § 5. pontja a 43/2016. (III. 9.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § 5a. pontját a 43/2016. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^5]: A 2. § 5b. pontját a 43/2016. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^6]: A 2. § 8. pontját a 43/2016. (III. 9.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
+[^3]: A 2. § 2a. pontját a 43/2016. (III. 9.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^4]: A 2. § 5. pontja a 43/2016. (III. 9.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § 5a. pontját a 43/2016. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^6]: A 2. § 5b. pontját a 43/2016. (III. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^7]: A 2. § 8. pontját a 43/2016. (III. 9.) Korm. rendelet 5. § b) pontja hatályon kívül helyezte.
