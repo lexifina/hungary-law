@@ -1,25 +1,33 @@
 ## 42. Támogatási előleg további szabályai
 
-116. § (1)[^499] Támogatási előleg indokolt esetben, a támogatott tevékenység elindításához és likviditásának biztosításához szükséges legkisebb összegben a támogatási szerződésben meghatározott összegben és mértékben nyújtható a kedvezményezett részére. Az előleget hazai és európai uniós forrásból, az ESB-alapokból támogatott adott intézkedés, illetve projekt szerinti finanszírozási arányban kell nyújtani.
+116. § (1)[^501] Támogatási előleg indokolt esetben, a támogatott tevékenység elindításához és likviditásának biztosításához szükséges legkisebb összegben a támogatási szerződésben meghatározott összegben és mértékben nyújtható a kedvezményezett részére, a (2) bekezdés c) pontja kivételével. Az előleget hazai és európai uniós forrásból, az ESB-alapokból támogatott adott intézkedés, illetve projekt szerinti finanszírozási arányban kell nyújtani.
 
-(2)[^500] A támogatási előleg mértéke és összege nem haladhatja meg a megítélt támogatás összegének
+(2)[^502] A támogatási előleg mértéke a megítélt támogatás összegének legfeljebb
 
-a) 25%-át, de legfeljebb egymilliárd forintot,
+a) 50%-a, de természetes személy, mikro-, kis- és középvállalkozás, civil szervezet, egyházi jogi személy, nonprofit gazdasági társaság kedvezményezett esetén legfeljebb egymilliárd forint,
 
-b) belföldi természetes személy, mikro-, kis- és középvállalkozás, közszféra szervezet, civil szervezet, egyházi jogi személy, nonprofit gazdasági társaság és köztestület kedvezményezett esetén 50%-át, de legfeljebb egymilliárd forintot,
+b) 75%-a kutatás-fejlesztés esetén,
 
-c) kutatás, műszaki fejlesztés esetén 75%-át, de legfeljebb egymilliárd forintot,
+c) 100%-a központi, helyi önkormányzati vagy köztestületi költségvetési szerv, közvetlen vagy közvetett többségi állami tulajdonban álló gazdasági társaság, helyi önkormányzat, köztestület kedvezményezett esetén, ha a kedvezményezett
 
-d) EMVA forrás esetén 50%-át.
+ca) a fizetési számláit az Áht. alapján a kincstárban köteles vezetni, vagy az európai uniós forrásból nyújtott költségvetési támogatások kezelésére a kincstárnál külön fizetési számlával rendelkezik, vagy
 
-(3)[^501] A (2) bekezdésben meghatározott összeghatárt és százalékos mértéket a támogatói döntést követően a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja kezdeményezésére az államháztartásért felelős miniszter egyetértésével az európai uniós források felhasználásáért felelős miniszter megemelheti, ha a kedvezményezett – vagy technikai segítségnyújtási projektek esetén az irányító hatóság – a támogatási előlegnyújtás ütemezését alátámasztó likviditási tervet készít, és a magasabb támogatási előleg mértékének szükségességét megalapozottan indokolja.
+cb) megítélt támogatásának összege nem éri el az ötszázmillió forintot.
 
-(4)[^502] Egyszeri elszámolás esetén támogatási előleg nem igényelhető.
+(3)[^503] A (2) bekezdés a) és b) pontjában meghatározott százalékos mértéket, illetve összeghatárt a támogatási döntést követően a Kormány európai uniós források felhasználásával kapcsolatos irányító hatósági feladatok ellátására kijelölt tagja az államháztartásért felelős miniszter egyetértésével megemelheti, ha a kedvezményezett – vagy technikai segítségnyújtási projektek esetén az irányító hatóság – a támogatási előlegnyújtás ütemezését alátámasztó likviditási tervet készít, és a magasabb támogatási előleg mértékének szükségességét megalapozottan indokolja.
 
-(5)[^503] Támogatási előleg kizárólag a támogatási szerződésben utófinanszírozásúként rögzített elszámolható költség vonatkozásában igényelhető.
+(3a)[^504] A (2) bekezdés c) pontja szerinti, kincstári körbe vagy a kincstári körön kívüli számlatulajdonosok körébe nem tartozó kedvezményezett akkor köteles kincstári fizetési számlát nyitni, ha az adott támogatás keretében igénybe vett és igénybe venni szándékozott támogatási előlegei összesített mértéke meghaladja a (2) bekezdés a) pontja, kutatás-fejlesztés esetén a (2) bekezdés b) pontja szerinti mértéket.
 
-[^499]: A 116. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 50. § 19. pontja szerint módosított szöveg.
-[^500]: A 116. § (2) bekezdése a 42/2016. (III. 9.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^501]: A 116. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 67. § (2) bekezdésével megállapított, a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 18. pontja szerint módosított szöveg.
-[^502]: A 116. § (4) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^503]: A 116. § (5) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 30. §-ával megállapított szöveg.
+(3b)[^505] A (2) bekezdés c) pontja szerinti kincstári fizetési számlára kifizetett támogatási előlegek tekintetében kizárólag a támogatott projektek megvalósítása érdekében adható fizetési megbízás vagy gyakorolható más rendelkezési jog.
+
+(4)[^506] Egyszeri elszámolás esetén támogatási előleg nem igényelhető.
+
+(5)[^507] Támogatási előleg kizárólag a támogatási szerződésben utófinanszírozásúként rögzített elszámolható költség vonatkozásában igényelhető.
+
+[^501]: A 116. § (1) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 50. § 19. pontja, a 145/2016. (VI. 13.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^502]: A 116. § (2) bekezdése a 145/2016. (VI. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^503]: A 116. § (3) bekezdése a 145/2016. (VI. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^504]: A 116. § (3a) bekezdését a 145/2016. (VI. 13.) Korm. rendelet 4. §-a iktatta be.
+[^505]: A 116. § (3b) bekezdését a 145/2016. (VI. 13.) Korm. rendelet 4. §-a iktatta be.
+[^506]: A 116. § (4) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^507]: A 116. § (5) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 30. §-ával megállapított szöveg.

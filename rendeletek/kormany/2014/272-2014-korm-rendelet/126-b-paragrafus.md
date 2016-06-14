@@ -1,6 +1,6 @@
-## 126/A. §[^549] A kedvezményezett a kifizetési igénylés keretében nem nyújthat be olyan, készpénzben kiegyenlített elszámoló bizonylatot, amelynek az – általános forgalmi adó felszámítása esetén az általános forgalmi adóval növelt – ellenértéke meghaladja az irányító hatóság által meghatározott összeget, de legfeljebb az 1,5 millió forintot.
+## 126/A. §[^555] A kedvezményezett a kifizetési igénylés keretében nem nyújthat be olyan, készpénzben kiegyenlített elszámoló bizonylatot, amelynek az – általános forgalmi adó felszámítása esetén az általános forgalmi adóval növelt – ellenértéke meghaladja az irányító hatóság által meghatározott összeget, de legfeljebb az 1,5 millió forintot.
 
-## 45/A. [^550] Egységes kérelemmel benyújtott kifizetési igénylés
+## 45/A. [^556] Egységes kérelemmel benyújtott kifizetési igénylés
 
 126/B. § (1) Egységes kérelem keretében benyújtandó kifizetési igénylést a felhívásban meghatározott határidő és ütemezés szerint, a felhívásban meghatározott mellékletekkel kell benyújtani.
 
@@ -10,5 +10,5 @@
 
 (4) A (2) bekezdés szerinti kifizetési igénylés esetén a záró kifizetési igénylés szabályait kell megfelelően alkalmazni.
 
-[^549]: A 126/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 74. §-a iktatta be, szövege a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 23. pontja szerint módosított szöveg.
-[^550]: A 45/A. alcímet (126/B. §-t) a 466/2015. (XII. 29.) Korm. rendelet 31. §-a iktatta be.
+[^555]: A 126/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 74. §-a iktatta be, szövege a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 23. pontja szerint módosított szöveg.
+[^556]: A 45/A. alcímet (126/B. §-t) a 466/2015. (XII. 29.) Korm. rendelet 31. §-a iktatta be.

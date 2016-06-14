@@ -2,7 +2,7 @@
 
 ## KÖZÖSSÉGVEZÉRELT HELYI FEJLESZTÉS (CLLD) ESZKÖZ HASZNÁLATÁRA VONATKOZÓ SZABÁLYOK
 
-71. §[^322] (1) A közösségvezérelt helyi fejlesztés:
+71. §[^324] (1) A közösségvezérelt helyi fejlesztés:
 
 a) konkrét, szubregionális területekre összpontosít,
 
@@ -12,7 +12,7 @@ c) integrált és ágazatközi, területi alapú helyi fejlesztési stratégiák
 
 d) kialakítása a helyi szükségletek és lehetőségek figyelembevételével történik, és kiterjed a helyi környezet innovatív jellemzőire, a hálózatépítésre és adott esetben az együttműködésre.
 
-(2)[^323] Közösségvezérelt helyi fejlesztések (CLLD) folyamatának elindítása érdekében az irányító hatóság regisztrációs felhívást tesz közzé HACS-ok megalakulásának ösztönzésére. A felhívás tartalmazza a regisztráció feltételeit. A regisztrációs feltételeknek megfelelt HACS-okat az irányító hatóság nyilvántartásba veszi. A HACS-nak meg kell jelölnie egy jogképes és cselekvőképes munkaszervezetet: a HACS vagy kiválaszt a csoporton belül egy non-profit szervezetként működő partnert, amely az igazgatási és pénzügyi kérdésekben a vezető partner lesz, vagy pedig a tagok egy közös non-profit szervezetet hoznak létre.
+(2)[^325] Közösségvezérelt helyi fejlesztések (CLLD) folyamatának elindítása érdekében az irányító hatóság regisztrációs felhívást tesz közzé HACS-ok megalakulásának ösztönzésére. A felhívás tartalmazza a regisztráció feltételeit. A regisztrációs feltételeknek megfelelt HACS-okat az irányító hatóság nyilvántartásba veszi. A HACS-nak meg kell jelölnie egy jogképes és cselekvőképes munkaszervezetet: a HACS vagy kiválaszt a csoporton belül egy non-profit szervezetként működő partnert, amely az igazgatási és pénzügyi kérdésekben a vezető partner lesz, vagy pedig a tagok egy közös non-profit szervezetet hoznak létre.
 
 (3) Az irányító hatóság a regisztrációs szempontoknak megfelelt HACS-ok számára felhívást tesz közzé közösségvezérelt helyi fejlesztési stratégia (a továbbiakban: HFS) megalkotására. A felhívás előkészítésére, meghirdetésre, módosítására és felfüggesztésére a 45–53. §-t kell alkalmazni.
 
@@ -64,5 +64,5 @@ f) azt, hogy a működési költség a (6) bekezdés szerinti megállapodásban 
 
 (12) A (9) bekezdés b) pontja szerinti támogatási szerződés alapján folyósított támogatás felhasználható a munkaszervezetnél felmerült előkészítési költségekre, a közösségvezérelt helyi fejlesztési stratégia végrehajtásának irányításához kapcsolódó működési költségekre, valamint az érdekeltek közötti információcsere megkönnyítése, a közösségvezérelt HFS megvalósítás előmozdítása és HFS-monitoring költségeire (együtt: működési költségek).
 
-[^322]: A 71. § a 466/2015. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^323]: A 71. § (2) bekezdése a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 26. pontja szerint módosított szöveg.
+[^324]: A 71. § a 466/2015. (XII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^325]: A 71. § (2) bekezdése a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 26. pontja szerint módosított szöveg.

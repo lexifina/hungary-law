@@ -1,4 +1,4 @@
-## 43/A. [^514] A szállítói előleg további szabályai
+## 43/A. [^518] A szállítói előleg további szabályai
 
 118/A. § (1) Szállítói finanszírozás esetén a kedvezményezett a közte és a szállító közötti szerződés alapján a szállítói előleg elszámolható összegére jutó támogatásra nyújthat be előlegigénylési kérelmet. Az előleget az irányító hatóság közvetlenül a szállító részére folyósítja.
 
@@ -10,4 +10,7 @@
 
 (5) A szállítói előleggel való elszámolás rész-, illetve végszámlával történik.
 
-[^514]: A 43/A. alcímet (118/A. §) a 144/2015. (VI. 12.) Korm. rendelet 69. §-a iktatta be.
+(6)[^519] A szállítói előleget vissza kell követelni, ha a kedvezményezett nem nyújt be igénylést időközi kifizetésre a szállítói előleg – vagy több részletben történő előlegfolyósítás esetén annak első részlete – kifizetésétől számított 12 hónapon belül, valamint ha a benyújtott kifizetési igénylés vagy más körülmény – így különösen helyszíni ellenőrzés megállapítása – a támogatás nem rendeltetésszerű felhasználását bizonyítja.
+
+[^518]: A 43/A. alcímet (118/A. §) a 144/2015. (VI. 12.) Korm. rendelet 69. §-a iktatta be.
+[^519]: A 118/A. § (6) bekezdését a 145/2016. (VI. 13.) Korm. rendelet 5. §-a iktatta be.

@@ -8,14 +8,14 @@ b) a támogatás folyósítását a kedvezményezett vagy szállító milyen pé
 
 (3) Az MNB által nem jegyzett pénznemben kiállított elszámoló bizonylat esetén a kapcsolódó támogatási összeget a számlán megjelölt fizikai teljesítés időpontjában érvényes, az Európai Központi Bank által közzétett középárfolyamon kell euróra átváltani. A monitoring és információs rendszer biztosítja ezen összegek forintra történő átszámítását a fizikai teljesítés időpontjában érvényes hivatalos MNB középárfolyamon.
 
-(4)[^572] Ha az elszámoló bizonylat nem tartalmazza a fizikai teljesítés dátumát, vagy folyamatos teljesítésű tevékenységről szól, úgy a számlán szereplő összeget az elszámoló bizonylat keltezésének napján érvényes, az MNB által közzétett, hivatalos devizaárfolyamon kell átszámítani forintra. Ha utófinanszírozási módban a kedvezményezett előleget fizetett, az előleg támogatástartalma a rész- vagy végszámlán szereplő fizikai teljesítés napján érvényes, a MNB által közzétett, hivatalos devizaárfolyamon kerül forintra átszámításra. Ha az előleghez kapcsolódó rész- vagy végszámlán nem szerepel a teljesítés dátuma, akkor az előlegszámla teljesítése a hozzá kapcsolódó rész- vagy végszámla keltének napja lesz.
+(4)[^579] Ha az elszámoló bizonylat nem tartalmazza a fizikai teljesítés dátumát, vagy folyamatos teljesítésű tevékenységről szól, úgy a számlán szereplő összeget az elszámoló bizonylat keltezésének napján érvényes, az MNB által közzétett, hivatalos devizaárfolyamon kell átszámítani forintra. Ha utófinanszírozási módban a kedvezményezett előleget fizetett, az előleg támogatástartalma a rész- vagy végszámlán szereplő fizikai teljesítés napján érvényes, a MNB által közzétett, hivatalos devizaárfolyamon kerül forintra átszámításra. Ha az előleghez kapcsolódó rész- vagy végszámlán nem szerepel a teljesítés dátuma, akkor az előlegszámla teljesítése a hozzá kapcsolódó rész- vagy végszámla keltének napja lesz.
 
-(5)[^573] Szállítói finanszírozás esetén a szállító és a kedvezményezett forinttól eltérő devizában kötött szerződésének támogatási összegét a szerződésben megnevezett devizában fizeti ki a támogató. A támogatási összegnek – a támogatás nyilvántartása céljából – az EFK-n forintban terhelt összeget kell tekinteni.
+(5)[^580] Szállítói finanszírozás esetén a szállító és a kedvezményezett forinttól eltérő devizában kötött szerződésének támogatási összegét a szerződésben megnevezett devizában fizeti ki a támogató. A támogatási összegnek – a támogatás nyilvántartása céljából – az EFK-n forintban terhelt összeget kell tekinteni.
 
 (6) Szállítói előleg igénylése esetén a devizában kötött szállítói szerződést, az előlegbekérőt, az előlegszámlát, a rész- vagy végszámlát az (1) bekezdés szerint kell forintban nyilvántartani.
 
-(7)[^574] A felhívás eltérő rendelkezése hiányában a devizában kiállított elszámoló bizonylatokat összesítőn nem lehet elszámolni.
+(7)[^581] A felhívás eltérő rendelkezése hiányában a devizában kiállított elszámoló bizonylatokat összesítőn nem lehet elszámolni.
 
-[^572]: A 131. § (4) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^573]: A 131. § (5) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 28. pontja szerint módosított szöveg.
-[^574]: A 131. § (7) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 53. § (1) bekezdés 21. pontja szerint módosított szöveg.
+[^579]: A 131. § (4) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^580]: A 131. § (5) bekezdése a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 28. pontja szerint módosított szöveg.
+[^581]: A 131. § (7) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 53. § (1) bekezdés 21. pontja szerint módosított szöveg.

@@ -10,6 +10,6 @@ d) a kérelem indokoltságát alátámasztó egyéb tényeket, illetve körülm�
 
 (2) A kérelemben új – a szabálytalansági eljárás során nem vizsgált – tényekre és körülményekre is lehet hivatkozni.
 
-(3)[^690]
+(3)[^697]
 
-[^690]: A 167. § (3) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 54. § (1) bekezdés 9. pontja hatályon kívül helyezte.
+[^697]: A 167. § (3) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 54. § (1) bekezdés 9. pontja hatályon kívül helyezte.

@@ -1,17 +1,17 @@
 70. § (1) Az országos kihatású projekt esetén a 46–61. § rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni.
 
-(2)[^315] A projekt szakmai tartalma szerinti felelős irányító hatóság vezetője az általa benyújtott éves fejlesztési keret elfogadását követően a VEKOP-ra eső támogatási keretösszeg feletti rendelkezési jogot az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet [a továbbiakban: 549/2013. (XII. 30.) Korm. rendelet] alapján gyakorolja. A projekt szakmai tartalma szerinti felelős irányító hatóságra e támogatási keretösszeg tekintetében a 12. alcímet kell alkalmazni.
+(2)[^317] A projekt szakmai tartalma szerinti felelős irányító hatóság vezetője az általa benyújtott éves fejlesztési keret elfogadását követően a VEKOP-ra eső támogatási keretösszeg feletti rendelkezési jogot az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet [a továbbiakban: 549/2013. (XII. 30.) Korm. rendelet] alapján gyakorolja. A projekt szakmai tartalma szerinti felelős irányító hatóságra e támogatási keretösszeg tekintetében a 12. alcímet kell alkalmazni.
 
-(3)–(4)[^316]
+(3)–(4)[^318]
 
-(5)[^317] Országos kihatású projekt esetén a támogatási szerződést a projekt szakmai tartalmáért felelős irányító hatóság köti meg.
+(5)[^319] Országos kihatású projekt esetén a támogatási szerződést a projekt szakmai tartalmáért felelős irányító hatóság köti meg.
 
-(6)[^318]
+(6)[^320]
 
-(7)[^319] A monitoring és információs rendszerben a támogatási kérelemmel, a döntéssel és a projekt lebonyolításával kapcsolatos adatokat – programonkénti megbontásban – a projekt szakmai tartalmáért felelős irányító hatóság rögzíti és kezeli.
+(7)[^321] A monitoring és információs rendszerben a támogatási kérelemmel, a döntéssel és a projekt lebonyolításával kapcsolatos adatokat – programonkénti megbontásban – a projekt szakmai tartalmáért felelős irányító hatóság rögzíti és kezeli.
 
-[^315]: A 70. § (2) bekezdése a 98/2016. (V. 13.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^316]: A 70. § (3)–(4) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 15. pontja hatályon kívül helyezte.
-[^317]: A 70. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 76. pontja szerint módosított szöveg.
-[^318]: A 70. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 15. pontja hatályon kívül helyezte.
-[^319]: A 70. § (7) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 77. pontja szerint módosított szöveg.
+[^317]: A 70. § (2) bekezdése a 98/2016. (V. 13.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^318]: A 70. § (3)–(4) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 15. pontja hatályon kívül helyezte.
+[^319]: A 70. § (5) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 76. pontja szerint módosított szöveg.
+[^320]: A 70. § (6) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 101. § 15. pontja hatályon kívül helyezte.
+[^321]: A 70. § (7) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 77. pontja szerint módosított szöveg.
