@@ -1,0 +1,3 @@
+1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja azokat az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek az Algyő közigazgatási területén elhelyezkedő, az ingatlan-nyilvántartás szerinti 01747/8 helyrajzi számú területből megosztással kialakítandó földrészleten megvalósításra kerülő szulfátüzem és az ahhoz kapcsolódó építmények, infrastrukturális fejlesztések megvalósítására irányuló beruházással függenek össze.
+
+(2) Az (1) bekezdés alkalmazásában a beruházással összefüggőnek kell tekinteni mindazokat a közigazgatási hatósági ügyeket, amelyek az (1) bekezdés szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek.
