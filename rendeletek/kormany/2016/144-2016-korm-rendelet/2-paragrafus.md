@@ -1,0 +1,129 @@
+## 1. § A Klebelsberg Intézményfenntartó Központ fenntartásában működő egyes szakképzési feladatot ellátó köznevelési intézmények fenntartóváltásával összefüggő intézkedésekről szóló 120/2015. (V. 21.) Korm. rendelet (a továbbiakban: R.) a következő 1/A. és 1/B. §-sal egészül ki:
+
+## „1/A. § (1) Klebelsberg Intézményfenntartó Központ fenntartásában működő
+
+## a) Mezőkövesdi Szent László Gimnázium és Közgazdasági Szakközépiskola (3400 Mezőkövesd, Mátyás király út 146.),
+
+## b) Sátoraljaújhelyi Kossuth Lajos Gimnázium és Szakképző Iskola (3980 Sátoraljaújhely, Deák utca 10.),
+
+## c) Sátoraljaújhelyi Kossuth Lajos Gimnázium és Szakképző Iskola Trefort Ágoston Szakképző Tagiskolája (3980 Sátoraljaújhely, Fejes István utca 14.),
+
+## d) Budai Középiskola (1126 Budapest, Márvány utca 32.),
+
+## e) Fejér Megyei Vajda János Gimnázium és Szakközépiskola (2060 Bicske, Kossuth tér 3.),
+
+## f) Fejér Megyei Vajda János Gimnázium és Szakközépiskola (2060 Bicske, Kisfaludy utca 27.),
+
+## g) Mosonmagyaróvári Bolyai János Általános Iskola, Informatikai és Közgazdasági Szakközépiskola (9200 Mosonmagyaróvár, Régi Vámház tér 6.),
+
+## h) Mosonmagyaróvári Bolyai János Általános Iskola, Informatikai és Közgazdasági Szakközépiskola (9200 Mosonmagyaróvár, Szent István király út 6.),
+
+## i) Berettyóújfalui Arany János Gimnázium, Egészségügyi Szakképző és Közgazdasági Szakközépiskola (4100 Berettyóújfalu, Kossuth utca 35.),
+
+## j) Százhalombattai Széchenyi István Szakközépiskola és Gimnázium (2440 Százhalombatta, Iskola utca 3.),
+
+## k) Tinódi Sebestyén Gimnázium és Idegenforgalmi, Vendéglátói Szakképző Iskola (9600 Sárvár, Móricz Zsigmond utca 2.),
+
+## l) Boronkay György Műszaki Szakközépiskola, Gimnázium és Kollégium (2600 Vác, Brusznyai Árpád utca 1.),
+
+## m) Békés Megyei Harruckern János Óvoda, Általános Iskola, Speciális Szakiskola, Gimnázium, Szakképző Iskola, Alapfokú Művészeti Iskola és Kollégium (5700 Gyula, Karácsony János utca 13.),
+
+## n) Békés Megyei Harruckern János Óvoda, Általános Iskola, Speciális Szakiskola, Gimnázium, Szakképző Iskola, Alapfokú Művészeti Iskola és Kollégium (5700 Gyula, Szent István út 69.),
+
+## o) Békés Megyei Harruckern János Óvoda, Általános Iskola, Speciális Szakiskola, Gimnázium, Szakképző Iskola, Alapfokú Művészeti Iskola és Kollégium (5742 Elek, Szent István utca 2.)
+
+## az ellátott köznevelési feladat más szervezeti formában történő hatékony ellátása céljából 2016. július 1-jével kiválik a Klebelsberg Intézményfenntartó Központból és a szakképzésért és felnőttképzésért felelős miniszter által fenntartott illetékes szakképzési centrumba olvad be, és annak tagintézményeként, illetve tagintézmény telephelyeként folytatja működését.
+
+## (2) A szakképzésért és felnőttképzésért felelős miniszter fenntartásában működő
+
+## a) Király Endre Ipari Szakközépiskola, Szakiskola és Kollégium (2600 Vác, Naszály út 29.), valamint
+
+## b) Haller János Általános Iskola, Szakközépiskola és Szakiskola (9231 Máriakálnok, Rákóczi út 4.) általános iskolai feladatellátását biztosító telephelye
+
+## az ellátott köznevelési feladat más szervezeti formában történő hatékony ellátása céljából 2016. július 1-jével kiválik az illetékes szakképzési centrumból és a Klebelsberg Intézményfenntartó Központba olvad be.
+
+## (3) A 2. melléklet 116., 117–118., 166., 167., 170., 185., 188. és 206. sorában meghatározott, a Klebelsberg Intézményfenntartó Központ fenntartásában működő, szakképzési feladatot is ellátó többcélú köznevelési intézményekben iskolarendszerű szakképzési évfolyam utoljára a 2016/2017. tanévben indítható.
+
+## (4) A Klebelsberg Intézményfenntartó Központ fenntartásában működő Hajnóczy József Gimnázium, Humán Szakközépiskola és Kollégium Dr. Hegedüs T. András Tagintézménye két feladatellátási helyével (OM 037923, 5000 Szolnok, Bajcsy-Zsilinszky út 2., és 5000 Szolnok, Lomb utca 8/A.) – az ellátott köznevelési feladat más szervezeti formában történő hatékony ellátása céljából – 2016. július 1-jével kiválik a Klebelsberg Intézményfenntartó Központból és a szakképzésért és felnőttképzésért felelős miniszter által fenntartott illetékes szakképzési centrumba olvad be, és annak egyik tagintézménye telephelyeként folytatja működését.
+
+## 1/B. § (1) Az 1/A. § (1) és (4) bekezdésében meghatározott kiválással érintett köznevelési intézmények tekintetében
+
+## a) a Klebelsberg Intézményfenntartó Központ az átalakítás időpontjáig a költségvetési kiadási előirányzatainak a fenntartóváltással érintett köznevelési intézményekre jutó arányos része terhére – az európai uniós forrásból megvalósuló beruházások kivételével – beruházást, felújítást érintően új kötelezettséget nem vállalhat, a kiválással érintett köznevelési intézményeket érintő foglalkoztatásra irányuló jogviszonyt a szakképzésért és felnőttképzésért felelős miniszter egyetértésével létesíthet vagy szüntethet meg,
+
+## b) az átalakítás időpontját megelőző teljesítési időpontra vonatkozó követelések és vállalt kötelezettségek az átalakítás időpontjáig a Klebelsberg Intézményfenntartó Központot illetik meg, illetve terhelik,
+
+## c) az oktatásért felelős miniszter a Klebelsberg Intézményfenntartó Központ alapító okiratának módosításáról 2016. június 24-éig gondoskodik; e határnap eredménytelen eltelte esetén a kincstár a Klebelsberg Intézményfenntartó Központ átalakítását e rendelet alapján az átalakítás időpontjával hivatalból jegyzi be a törzskönyvi nyilvántartásba,
+
+## d) a Klebelsberg Intézményfenntartó Központ jogutódja az illetékes szakképzési centrum,
+
+## e) a Klebelsberg Intézményfenntartó Központ foglalkoztatotti állományából a pedagógus munkakörben, a nevelő-oktató munkát közvetlenül segítő munkakörben és a gazdasági, ügyviteli, műszaki és kisegítő munkakörben foglalkoztatottak a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 24. § (3) bekezdése szerint kerülnek a szakképzési centrum állományába,
+
+## f) az átadás-átvételi eljárást a Klebelsberg Intézményfenntartó Központ és az illetékes szakképzési centrumok folytatják le, azzal, hogy átadás-átvételi megállapodást kötnek; a megállapodásban rendezni kell az átalakítás időpontjával le nem zárható követelések és kötelezettségek elszámolásának állományát,
+
+## g) az átadás-átvételi megállapodáshoz kapcsolódóan a Klebelsberg Intézményfenntartó Központ a 2016. június 30-ai állapotnak megfelelően átadja az átvételre kerülő közfeladattal kapcsolatosan
+
+## ga) a köznevelési intézményre vonatkozó szakmai alapdokumentumokat,
+
+## gb) a kötelezettségvállalásokra és a vagyonra (ideértve az ingatlan és ingó eszköz- és infrastruktúra állományra, informatikai és egyéb adatbázisra) vonatkozó nyilvántartást és ezek alapbizonylatait,
+
+## gc) az e) pont szerinti foglalkoztatottak személyi anyagait, vagyonnyilatkozatait, a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott nemzetbiztonsági ellenőrzés alapján készített szakvéleményeket, valamint a szakképzéssel és felnőttképzéssel kapcsolatban keletkezett további iratokat,
+
+## gd) a tanulói jogviszonnyal kapcsolatban keletkezett személyi- és tanügyi dokumentumokat,
+
+## ge) a 2016/2017. tanévre vonatkozó szakmaszerkezeti döntésről és a 2016/2017. tanévben induló képzések tanulmányi ösztöndíjra jogosító szakképesítéseiről szóló 297/2015. (X. 13.) Korm. rendeletben a 2016/2017. tanévre a Klebelsberg Intézményfenntartó Központra megállapított keretszámokat az adott intézményre vonatkozóan,
+
+## h) a kiválással érintett köznevelési intézményt érintő hazai, illetve európai uniós forrásból finanszírozott olyan projektek átadás-átvételéről, amelynek kedvezményezettje a Klebelsberg Intézményfenntartó Központ, átadás-átvételi megállapodásban kell rendelkezni,
+
+## i) a kiválással érintett köznevelési intézményt érintő hazai, illetve európai uniós forrásból finanszírozott, az átalakítás időpontjában befejezettnek nem minősülő projektek (a továbbiakban: átvételre kerülő projektek) tekintetében a záró kifizetési igénylés és záró beszámoló támogató általi elfogadását, illetve a támogatás folyósítását követő napon a Klebelsberg Intézményfenntartó Központ helyébe a szakképzési centrum lép; az átvételre kerülő projektek átadás-átvételéről és az átvételre kerülő projektekkel kapcsolatos fenntartási kötelezettség szakképzési centrum általi teljesítéséről a projekt befejezését követően külön átadás-átvételi megállapodásban kell rendelkezni,
+
+## j) az átvételre kerülő projektek tekintetében a záró kifizetési igénylés és záró beszámoló támogató általi elfogadása, illetve a támogatás folyósítása napjáig a Klebelsberg Intézményfenntartó Központ vállal kötelezettségeket és teljesíti azokat,
+
+## k) a kiválással érintett köznevelési intézményt érintő hazai, illetve európai uniós forrásból finanszírozott, az átalakítás időpontjában befejezettnek minősülő projektek tekintetében az átalakítás időpontjától a Klebelsberg Intézményfenntartó Központ helyébe a szakképzési centrum lép,
+
+## l) az i) és a k) pontok szerinti hazai, illetve európai uniós forrásból finanszírozott projektek tekintetében a támogató a támogatási szerződés módosításáról a támogatás felhasználásának rendjéről szóló, vonatkozó jogszabályban meghatározottak szerint gondoskodik.
+
+## (2) Az 1/A. § (2) bekezdésében meghatározott kiválással érintett köznevelési intézmények tekintetében
+
+## a) az illetékes szakképzési centrum az átalakítás időpontjáig a költségvetési kiadási előirányzatainak a fenntartóváltással érintett köznevelési intézményekre jutó arányos része terhére – az európai uniós forrásból megvalósuló beruházások kivételével – beruházást, felújítást érintően új kötelezettséget nem vállalhat, a kiválással érintett köznevelési intézményeket érintő foglalkoztatásra irányuló jogviszonyt az oktatásért felelős miniszter egyetértésével létesíthet vagy szüntethet meg,
+
+## b) az átalakítás időpontját megelőző teljesítési időpontra vonatkozó követelések és vállalt kötelezettségek az átalakítás időpontjáig az illetékes szakképzési centrumot illetik meg, illetve terhelik,
+
+## c) a szakképzésért és felnőttképzésért felelős miniszter az illetékes szakképzési centrum alapító okiratának módosításáról 2016. június 24-éig gondoskodik; e határnap eredménytelen eltelte esetén a kincstár az illetékes szakképzési centrum átalakítását e rendelet alapján az átalakítás időpontjával hivatalból jegyzi be a törzskönyvi nyilvántartásba,
+
+## d) a szakképzési centrum jogutódja a Klebelsberg Intézményfenntartó Központ,
+
+## e) az illetékes szakképzési centrum foglalkoztatotti állományából a pedagógus munkakörben, a nevelő-oktató munkát közvetlenül segítő munkakörben és a gazdasági, ügyviteli, műszaki és kisegítő munkakörben foglalkoztatottak a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 24. § (3) bekezdése szerint kerülnek a Klebelsberg Intézményfenntartó Központ állományába,
+
+## f) az átadás-átvételi eljárást az illetékes szakképzési centrumok és a Klebelsberg Intézményfenntartó Központ folytatják le, azzal, hogy átadás-átvételi megállapodást kötnek; a megállapodásban kell rendezni az átalakítás időpontjával le nem zárható követelések és kötelezettségek elszámolásának állományát,
+
+## g) az átadás-átvételi megállapodáshoz kapcsolódóan az illetékes szakképzési centrum a 2016. június 30-ai állapotnak megfelelően átadja az átvételre kerülő közfeladattal kapcsolatosan
+
+## ga) a köznevelési intézményre vonatkozó alapító okiratot,
+
+## gb) a kötelezettségvállalásokra és a vagyonra (ideértve az ingatlan és ingó eszköz- és infrastruktúra állományra, informatikai és egyéb adatbázisra) vonatkozó nyilvántartást és ezek alapbizonylatait,
+
+## gc) az e) pont szerinti foglalkoztatottak személyi anyagait, vagyonnyilatkozatait, a nemzetbiztonsági szolgálatokról szóló törvényben meghatározott nemzetbiztonsági ellenőrzés alapján készített szakvéleményeket, valamint a szakképzéssel és felnőttképzéssel kapcsolatban keletkezett további iratokat,
+
+## gd) a tanulói jogviszonnyal kapcsolatban keletkezett személyi- és tanügyi dokumentumokat,
+
+## h) a kiválással érintett köznevelési intézményt érintő hazai, illetve európai uniós forrásból finanszírozott olyan projektek átadás-átvételéről, amelynek kedvezményezettje az illetékes szakképzési centrum az átadás-átvételi megállapodásban kell rendelkezni,
+
+## i) a kiválással érintett köznevelési intézményt érintő hazai, illetve európai uniós forrásból finanszírozott, az átalakítás időpontjában befejezettnek nem minősülő projektek (a továbbiakban: átvételre kerülő projektek) tekintetében a záró kifizetési igénylés és záró beszámoló támogató általi elfogadását, illetve a támogatás folyósítását követő napon a szakképzési centrum helyébe a Klebelsberg Intézményfenntartó Központ lép. Az átvételre kerülő projektek átadás-átvételéről és az átvételre kerülő projektekkel kapcsolatos fenntartási kötelezettség Klebelsberg Intézményfenntartó Központ általi teljesítéséről a projekt befejezését követően külön átadás-átvételi megállapodásban kell rendelkezni,
+
+## j) az átvételre kerülő projektek tekintetében a záró kifizetési igénylés és záró beszámoló támogató általi elfogadása, illetve a támogatás folyósítása napjáig a szakképzési centrum vállal kötelezettségeket és teljesíti azokat,
+
+## k) a kiválással érintett köznevelési intézményt érintő hazai, illetve európai uniós forrásból finanszírozott, az átalakítás időpontjában befejezettnek minősülő projektek tekintetében az átalakítás időpontjától a szakképzési centrum helyébe a Klebelsberg Intézményfenntartó Központ lép,
+
+## l) az i) és a k) pontok szerinti hazai, illetve európai uniós forrásból finanszírozott projektek tekintetében a támogató a támogatási szerződés módosításáról a támogatás felhasználásának rendjéről szóló, vonatkozó jogszabályban meghatározottak szerint gondoskodik.”
+
+## 2. § Hatályát veszti az R.
+
+a) 1. § (3) bekezdése,
+
+b) 1. mellékletében foglalt táblázat 276. és 441. sora,
+
+c) 2. mellékletében foglalt táblázat 18., 24–25., 30., 88–89., 104–105., 106., 169., 189. sora,
+
+d) 3. melléklete,
+
+e) 4. mellékletében foglalt táblázat 56., 59., 60., 90. sora.
