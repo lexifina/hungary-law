@@ -6074,6 +6074,6 @@
 
 | 12.3 | Válaszkésleltetés |
 
-2. melléklet a 275/2013. (VII. 16.) Korm. rendelethez[^4]
+2. melléklet a 275/2013. (VII. 16.) Korm. rendelethez[^5]
 
-[^4]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

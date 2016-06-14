@@ -12,7 +12,7 @@ d) a jogszabályokban az építési termékre, valamint a tervezett épületszer
 
 ## figyelembevételével határozza meg.
 
-(2)[^1] Ha a beépítendő termék teljesítményére jogszabály követelményt állapít meg, építészeti-műszaki dokumentáció hiányában az építési termékek elvárt műszaki teljesítményét az (1) bekezdésben meghatározott szempontok figyelembevételével az építőipari kivitelezési tevékenységről szóló kormányrendelet szerint a kivitelezési szerződésben kell meghatározni.
+(2)[^2] Ha a beépítendő termék teljesítményére jogszabály követelményt állapít meg, építészeti-műszaki dokumentáció hiányában az építési termékek elvárt műszaki teljesítményét az (1) bekezdésben meghatározott szempontok figyelembevételével az építőipari kivitelezési tevékenységről szóló kormányrendelet szerint a kivitelezési szerződésben kell meghatározni.
 
 (3) Ha a tervező egy bizonyos, egyértelműen beazonosítható építési terméket jelöl meg, az egyben az elvárt műszaki teljesítmény meghatározását is jelenti, azzal, hogy ilyen esetben a termék műszaki előírásában foglalt összes teljesítménykategória lényegesnek tekintendő és az elvárt műszaki teljesítmény ezek szintje, osztálya vagy leírása.
 
@@ -40,4 +40,4 @@ f) a létesítendő épületgépészeti rendszerek (fűtési, hűtési, gépi sz
 
 (7) A (6) bekezdésben meghatározott feltételektől a tervező a beépítés feltételeinek függvényében eltérhet.
 
-[^1]: A 4. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^2]: A 4. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 49. §-a szerint módosított szöveg.
