@@ -1,3 +1,0 @@
-## „(12) A légiközlekedési hatóságnak bármely új, a repülőtéren bevezetni tervezett üzemeltetési korlátozás esetében tájékoztatást kell adnia minden érdekelt félnek, beleértve a választott korlátozás indoklását az 598/2014/EU parlamenti és tanácsi rendelet 6. cikk (2) bekezdés d) pontja szerinti eljárás keretében.
-
-## (13) Ha a légiközlekedési hatóság a fő kereskedelmi repülőtéren új üzemeltetési korlátozás bevezetéséről dönt, az 598/2014/EU parlamenti és tanácsi rendelet 8. cikk (1) bekezdése szerint értesíti az Európai Unió tagállamainak légiközlekedési hatóságát, az Európai Bizottságot és az érdekelt feleket.”
