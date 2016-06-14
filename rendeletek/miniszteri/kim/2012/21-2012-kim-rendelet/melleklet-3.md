@@ -130,7 +130,7 @@
 
 |  |  | 382 | Költségvetési rend szerint gazdálkodó, önkormányzati költségvetési körbe tar tozó szerv |
 
-|  |  | 383 | Állami felsőoktatási intézmény által fenntartott közoktatási, köznevelési intézmény |
+|  |  | 383 |  |
 
 |  | 39 |  | Költségvetési technikai kódok |
 
@@ -243,6 +243,8 @@
 |  |  | 591 | Egyesülés |
 
 |  |  | 593 | Lakásszövetkezet |
+
+|  |  | 595 | Nemzeti otthonteremtési közösség |
 
 |  |  | 599 | Egyéb, jogi személyiségű nonprofit szervezet |
 
