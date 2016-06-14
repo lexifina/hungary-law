@@ -218,7 +218,7 @@
 
 ## 15.4. tercier oldali névleges feszültség (kV).
 
-23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^466]
+23/a. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^469]
 
 Kérelem szociálisan rászoruló személyként a védendő fogyasztók nyilvántartásába
 
@@ -386,8 +386,4 @@ d) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
 
 e) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 19. §-a szerinti rendszeres gyermekvédelmi kedvezményben részesül,
 
-f) a Gyvt. 25. §-a szerinti otthonteremtési támogatásban részesült, a támogatás megállapításától számított 3 éven keresztül, vagy
-
-g) a Gyvt. 54. §-a szerinti nevelőszülő, hivatásos nevelőszülő, aki saját háztartásában neveli a gondozásába helyezett átmeneti vagy tartós nevelésbe vett gyermeket.
-
-[^466]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A Vhr. 23/a. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (13) bekezdése, a 24/2015. (II. 20.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.
+[^469]: A Vhr. 23. számú mellékletének helyébe a 20/2009. (I. 30.) Korm. rendelet 4. § (2) bekezdése alapján a 23/a. és 23/b. számú melléklet lépett. A Vhr. 23/a. számú melléklete a 378/2011. (XII. 31.) Korm. rendelet 31. § (13) bekezdése, a 24/2015. (II. 20.) Korm. rendelet 32. § a) pontja szerint módosított szöveg.

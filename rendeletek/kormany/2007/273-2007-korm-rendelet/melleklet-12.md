@@ -1,3 +1,3 @@
-12. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^427]
+12. számú melléklet a 273/2007. (X. 19.) Korm. rendelethez[^430]
 
-[^427]: A Vhr. 12. számú melléklete a 75/2011. (V. 2.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^430]: A Vhr. 12. számú melléklete a 75/2011. (V. 2.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
