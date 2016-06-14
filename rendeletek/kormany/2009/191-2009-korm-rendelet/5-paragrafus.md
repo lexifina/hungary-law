@@ -34,7 +34,17 @@ e) építtetői fedezetkezelő közreműködése esetén az építtetői fedezet
 
 f) az építőipari kivitelezési tevékenység szerinti építési műszaki ellenőr nevét, nyilvántartási számát és névjegyzéki jelét.
 
-(7)[^47]
+(7)[^47] Az Étv. 33/A. §-a szerinti lakóépület építése esetén – a számított építményérték mértékére való tekintet nélkül – az építési munkaterületen a közterületről jól látható helyen fel kell tüntetni
+
+a) az építtető nevét, megnevezését,
+
+b) az építőipari kivitelezési tevékenység tárgyát, kezdési és várható befejezési időpontját,
+
+c) a fővállalkozó kivitelező megnevezését és nyilvántartási számát,
+
+d) az építészeti-műszaki tervező nevét, névjegyzéki jelölését,
+
+e) a tervezői művezető nevét, névjegyzéki jelölését.
 
 (8)[^48]
 
@@ -45,5 +55,5 @@ f) az építőipari kivitelezési tevékenység szerinti építési műszaki ell
 [^44]: Az 5. § (5a) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 336/2013. (IX. 20.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^45]: Az 5. § (5b) bekezdését a 336/2013. (IX. 20.) Korm. rendelet 8. §-a iktatta be.
 [^46]: Az 5. § (6) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 3. pontja szerint módosított szöveg.
-[^47]: Az 5. § (7) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 93. § c) pont cb) alpontja hatályon kívül helyezte.
+[^47]: Az 5. § (7) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 93. § c) pont cb) alpontja hatályon kívül helyezte, újonnan a 156/2016. (VI. 13.) Korm. rendelet 9. § (1) bekezdése iktatta be.
 [^48]: Az 5. § (8) bekezdését a 109/2013. (IV. 9.) Korm. rendelet 2. § (21) bekezdés a) pontja hatályon kívül helyezte.

@@ -250,39 +250,29 @@
 
 ## 8. Műemlékvédelmi munkarész
 
-## Örökségvédelmi hatóság által meghatározott esetekben és tartalommal:
+## 1. Az örökségvédelmi hatóság által meghatározott esetekben és a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott tartalmú alábbi részekkel:
 
-## 8.1. Az építéstörténeti tudományos dokumentáció aktualizálása.
+## 1.1. az építéstörténeti tudományos dokumentáció aktualizálása;
 
-## 8.2. Archív tervek és fényképek másolata.
+## 1.2. ha a műemlékkel kapcsolatos építési beruházás védett történeti kertre vagy műemlék telkén lévő védett kertre is kiterjed, kerttörténeti tudományos dokumentáció;
 
-## 8.3. Épületkutatási dokumentáció.
+## 1.3. épületkutatási terv vagy kutatási dokumentáció;
 
-## 8.4. Épületdiagnosztikai vizsgálatok.
+## 1.4. épületdiagnosztikai vizsgálatok és szakvélemények;
 
-## 8.5. Ha a műemlékkel kapcsolatos építési beruházás az építési engedély szerint restaurálási tevékenységet is tartalmaz, a műemlékvédelmi munkarész tartalmazza a 8.1. pontban foglaltakon túl a következő dokumentumokat:
+## 1.5. ha a műemlékkel kapcsolatos építési beruházás restaurálási tevékenységet is tartalmaz, restaurálási terv vagy dokumentáció.
 
-## 8.5.1. a restaurálás tárgyának felmérése, állapotleírása, fotódokumentáció a látható károsodásokkal,
+## 2. Műemlékvédelmi kiviteli (részlet)tervek:
 
-## 8.5.2. restaurátori kutatási dokumentáció külön jogszabályban meghatározott tartalommal,
+## 2.1. külső homlokzatok helyreállítási (részlet)tervei,
 
-## 8.5.3. az esetleges korábbi restaurálások dokumentációja,
+## 2.2. a belső falak és a mennyezetek, padlók, tetőzetek helyreállítási (részlet)tervei,
 
-## 8.5.4. restaurálási terv (az előírt beavatkozások, eljárások, a felhasználandó anyagok leírása, esztétikai helyreállítási javaslat),
+## 2.3. a kutatási dokumentációkon (a műemléki restaurátori vagy épületkutatási dokumentációkon és az épületdiagnosztikai vizsgálatokon) alapuló, a történeti tartó- és épületszerkezetek, illetve más tartozékok és alkotórészek helyreállítására (szükség esetén megerősítésére, pótlására, rekonstrukciójára vagy cseréjére) vonatkozó (részlet)tervek, csomópontok, az épületdíszítés tervei, a nyílászárók (részlet)tervei a profilokkal,
 
-## 8.5.5. a kezelések várható eredményei és kockázata.
+## 2.4. színezési tervek, burkolatok (részlet)tervei (pl. kiosztás, felületképzés, kezelés),
 
-## 8.6. Műemlékvédelmi kiviteli (részlet)tervek:
-
-## 8.6.1. külső homlokzatok helyreállítási (részlet)tervei,
-
-## 8.6.2. a belső falak és a mennyezetek, padlók, tetőzetek helyreállítási (részlet)tervei,
-
-## 8.6.3. kutatási dokumentációkon (a műemléki épületkutatási dokumentációkon és az épületdiagnosztikai vizsgálatokon) alapuló, a történeti tartó- és épületszerkezetek, illetve más tartozékok és alkotórészek helyreállítására (szükség esetén megerősítésére, pótlására, rekonstrukciójára vagy cseréjére) vonatkozó (részlet)tervek, csomópontok, az épületdíszítés tervei, a nyílászárók (részlet)tervei a profilokkal,
-
-## 8.6.4. színezési tervek, burkolatok (részlet)tervei, pl.: kiosztás, felületképzés, kezelés stb.,
-
-## 8.6.5. kerttörténeti tudományos dokumentáción, régészeti módszerekkel történő kutatásról szóló kutatási dokumentáción alapuló, a történeti kertépítészeti elemek és a növényzet helyreállítására (szükség esetén pótlására, rekonstrukciójára vagy cseréjére) vonatkozó (részlet)tervek.
+## 2.5. kerttörténeti tudományos dokumentáción, régészeti módszerekkel történő kutatásról szóló kutatási dokumentáción alapuló, a történeti kertépítészeti elemek és a növényzet helyreállítására (szükség esetén pótlására, rekonstrukciójára vagy cseréjére) vonatkozó (részlet)tervek.
 
 ## 9. Részletes, minden szakágra kiterjedő tételes költségvetés-kiírás, mennyiségi kimutatással.
 
@@ -294,6 +284,20 @@
 
 ## 10.2. a kivitelezési tevékenység végzéséhez szükséges – tervezői koordinátor által ellenőrzött – munkabiztonsági és egészségvédelmi tervet.
 
-2. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^308]
+## 11. Konszignációk
 
-[^308]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 91. § b) pontjával megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (19) bekezdése, a (20) bekezdés 19. pontja, valamint a (21) bekezdés i) pontja, a 336/2013. (IX. 20.) Korm. rendelet 16. § d)–f) pontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 34–35. pontja szerint módosított szöveg.
+## 12. Bontástechnológiai munkarész
+
+## A munkarész tartalmazza
+
+## 12.1. a veszély elhárítását és bontás utáni állagvédelmet is megoldó tartószerkezeti műszaki leírást,
+
+## 12.2. a bontástechnológiai műszaki leírást,
+
+## 12.3. szükség szerint segédszerkezetek és állagmegóvó szerkezetek terveit.
+
+## 13. Belsőépítészeti munkarész
+
+2. melléklet a 191/2009. (IX. 15.) Korm. rendelethez[^317]
+
+[^317]: A 2. melléklet a 322/2012. (XI. 16.) Korm. rendelet 91. § b) pontjával megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (19) bekezdése, a (20) bekezdés 19. pontja, valamint a (21) bekezdés i) pontja, a 336/2013. (IX. 20.) Korm. rendelet 16. § d)–f) pontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 34–35. pontja szerint módosított szöveg.

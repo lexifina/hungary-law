@@ -1,8 +1,8 @@
-18. § (1)[^147] Az építtető köteles gondoskodni arról, hogy az építőipari kivitelezési tevékenység szerződés szerinti ellenértékének megfelelő – a fedezet forrásaként figyelembe vehető – fedezet a kivitelezési szerződés hatályának beálltakor igazolhatóan rendelkezésére álljon.
+18. § (1)[^151] Az építtető köteles gondoskodni arról, hogy az építőipari kivitelezési tevékenység szerződés szerinti ellenértékének megfelelő – a fedezet forrásaként figyelembe vehető – fedezet a kivitelezési szerződés hatályának beálltakor igazolhatóan rendelkezésére álljon.
 
-(2)[^148] Az építőipari kivitelezési tevékenység fedezetének forrása saját erő, hitel vagy pénzkölcsön, pályázati támogatás, valamint költségvetési előirányzat lehet. A kivitelezési szerződésben a hitel vagy pénzkölcsön összegét hitel- vagy kölcsönszerződéssel, illetve a pályázati támogatás összegét támogatási döntéssel szükséges igazolni.
+(2)[^152] Az építőipari kivitelezési tevékenység fedezetének forrása saját erő, hitel vagy pénzkölcsön, pályázati támogatás, valamint költségvetési előirányzat lehet. A kivitelezési szerződésben a hitel vagy pénzkölcsön összegét hitel- vagy kölcsönszerződéssel, illetve a pályázati támogatás összegét támogatási döntéssel szükséges igazolni.
 
-(3)[^149] A fedezetkezelői számlát az építtetőnek legkésőbb a kivitelezési szerződés hatályának beálltáig kell megnyitnia. Az építtető köteles a kivitelezési szerződésben meghatározott kivitelezési szakasz kivitelezésének megkezdése időpontjáig a teljesítés (részteljesítés) szerződés szerinti ellenértékének fedezetét – ami a fedezetkezelői számlára történő befizetés vagy olyan pénzügyi eszköz értéke képezhet, amely biztosítja az ellenérték határidőre történő kifizethetőségét – az építtetői fedezetkezelő kizárólagos rendelkezése alá helyezni. A fővállalkozó kivitelező köteles – ha az építtetővel a kivitelezési szerződésben rögzítve kikötötték – az általa vállalt biztosíték összege felett az építtetői fedezetkezelő kizárólagos rendelkezését biztosítani.
+(3)[^153] A fedezetkezelői számlát az építtetőnek legkésőbb a kivitelezési szerződés hatályának beálltáig kell megnyitnia. Az építtető köteles a kivitelezési szerződésben meghatározott kivitelezési szakasz kivitelezésének megkezdése időpontjáig a teljesítés (részteljesítés) szerződés szerinti ellenértékének fedezetét – ami a fedezetkezelői számlára történő befizetés vagy olyan pénzügyi eszköz értéke képezhet, amely biztosítja az ellenérték határidőre történő kifizethetőségét – az építtetői fedezetkezelő kizárólagos rendelkezése alá helyezni. A fővállalkozó kivitelező köteles – ha az építtetővel a kivitelezési szerződésben rögzítve kikötötték – az általa vállalt biztosíték összege felett az építtetői fedezetkezelő kizárólagos rendelkezését biztosítani.
 
 (4) A (3) bekezdés szerinti, az építőipari kivitelezési tevékenység ellenértékének határidőre történő kifizethetőségét biztosító pénzügyi eszköz
 
@@ -14,17 +14,17 @@ c) olyan pénzügyi eszköz, amely esetében a hitelezési kockázat kezelésér
 
 d) az építőipari kivitelezés megvalósítására biztosított költségvetési előirányzat,
 
-e)[^150] uniós vagy hazai forrásból származó pályázati támogatási szerződés,
+e)[^154] uniós vagy hazai forrásból származó pályázati támogatási szerződés,
 
 f) hitel- vagy kölcsönszerződés alapján adott kivitelezési szakaszra meghatározott, visszavonhatatlan folyósítást biztosító hitel- vagy kölcsönösszeg
 
-g)[^151] hitelintézet által nyújtott garancia, vagy
+g)[^155] hitelintézet által nyújtott garancia, vagy
 
-h)[^152] biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvény
+h)[^156] biztosítási szerződés alapján kiállított – készfizető kezességvállalást tartalmazó – kötelezvény
 
 lehet,
 
-(4a)[^153] Az európai uniós vagy költségvetési forrásból történő támogatás esetén a támogatás folyósítása a fedezetkezelői számlára akkor történhet, ha
+(4a)[^157] Az európai uniós vagy költségvetési forrásból történő támogatás esetén a támogatás folyósítása a fedezetkezelői számlára akkor történhet, ha
 
 a) a támogatási finanszírozásának módja szállítói finanszírozás,
 
@@ -32,13 +32,13 @@ b) a támogatás számlák kifizetéséhez kapcsolódik vagy
 
 c) előleg folyósítására kerül sor.
 
-(4b)[^154] A (4a) bekezdés a) pontja esetén a szállító kifizetése a fedezetkezelői számla közbeiktatásával, az építtetői fedezetkezelésre vonatkozó rendelkezések szerint történik.
+(4b)[^158] A (4a) bekezdés a) pontja esetén a szállító kifizetése a fedezetkezelői számla közbeiktatásával, az építtetői fedezetkezelésre vonatkozó rendelkezések szerint történik.
 
-(4c)[^155] Az építtetői fedezetkezelő a (3) bekezdés szerinti feltételek teljesülését a (4) bekezdésben felsorolt pénzügyi eszközök tekintetében az általa közzétettek szerint vizsgálja. Az ellenérték fedezetének építtetői fedezetkezelő rendelkezése alá helyezését
+(4c)[^159] Az építtetői fedezetkezelő a (3) bekezdés szerinti feltételek teljesülését a (4) bekezdésben felsorolt pénzügyi eszközök tekintetében az általa közzétettek szerint vizsgálja. Az ellenérték fedezetének építtetői fedezetkezelő rendelkezése alá helyezését
 
-a)[^156] a (4) bekezdés d) pontja szerinti költségvetési előirányzat, és a (4) bekezdés e) pontja szerinti hazai forrásból származó pályázati támogatás esetén legkésőbb a kivitelezési szerződés szerinti fizetési határnapot megelőző 30. napig az építtetői fedezetbiztosítási számlára történő utalással,
+a)[^160] a (4) bekezdés d) pontja szerinti költségvetési előirányzat, és a (4) bekezdés e) pontja szerinti hazai forrásból származó pályázati támogatás esetén legkésőbb a kivitelezési szerződés szerinti fizetési határnapot megelőző 30. napig az építtetői fedezetbiztosítási számlára történő utalással,
 
-b)[^157] a (4) bekezdés e) pontja szerinti uniós forrásból származó pályázati támogatás esetén legkésőbb a számlán szereplő fizetési határidőt megelőző 30. napig a fedezetkezelői számlára utalással
+b)[^161] a (4) bekezdés e) pontja szerinti uniós forrásból származó pályázati támogatás esetén legkésőbb a számlán szereplő fizetési határidőt megelőző 30. napig a fedezetkezelői számlára utalással
 
 kell teljesíteni.
 
@@ -48,17 +48,17 @@ a) az építtetőnek az építőipari kivitelezési tevékenység fedezetének b
 
 b) a kivitelezőnek az általa nyújtott teljesítési biztosíték befizetéssel teljesített összegét.
 
-(6)[^158] Ha az építtető nem helyezi az előírt határidőre a fővállalkozó kivitelező teljesítésének vagy részteljesítésének szerződés szerint fedezetét az építtetői fedezetkezelő rendelkezése alá és az építésfelügyeleti hatóság a kivitelezési tevékenység folytatását nem állította le, a fővállalkozó kivitelező jogosult a kivitelezési tevékenységet harminc napra felfüggeszteni. Ha az építtető a felfüggesztés időtartama leteltéig sem biztosítja a soron következő kivitelezői teljesítés fedezetét, a fővállalkozó kivitelező jogosult az építtetővel kötött kivitelezési szerződést felmondani, vagy a teljesítési határidőt a felfüggesztés időtartamával meghosszabbítani a munkavégzés felfüggesztése miatt felmerült költségeinek építtető általi megtérítése mellett.
+(6)[^162] Ha az építtető nem helyezi az előírt határidőre a fővállalkozó kivitelező teljesítésének vagy részteljesítésének szerződés szerint fedezetét az építtetői fedezetkezelő rendelkezése alá és az építésfelügyeleti hatóság a kivitelezési tevékenység folytatását nem állította le, a fővállalkozó kivitelező jogosult a kivitelezési tevékenységet harminc napra felfüggeszteni. Ha az építtető a felfüggesztés időtartama leteltéig sem biztosítja a soron következő kivitelezői teljesítés fedezetét, a fővállalkozó kivitelező jogosult az építtetővel kötött kivitelezési szerződést felmondani, vagy a teljesítési határidőt a felfüggesztés időtartamával meghosszabbítani a munkavégzés felfüggesztése miatt felmerült költségeinek építtető általi megtérítése mellett.
 
 (7) A fővállalkozó kivitelező a teljesítési biztosítékot
 
-a)[^159]
+a)[^163]
 
-b)[^160] a 17. § (2) bekezdés b) pont szerinti esetben a kivitelezési szerződésben meghatározott biztosítéknak a fedezetkezelői számlára történő utalás megjelölésével
+b)[^164] a 17. § (2) bekezdés b) pont szerinti esetben a kivitelezési szerződésben meghatározott biztosítéknak a fedezetkezelői számlára történő utalás megjelölésével
 
 teljesítheti.
 
-(8)[^161] Az építtetői fedezetkezelő a fedezetkezelői számláról kizárólag
+(8)[^165] Az építtetői fedezetkezelő a fedezetkezelői számláról kizárólag
 
 a) a fedezetkezelői szerződésben meghatározott fővállalkozó kivitelezői fizetési számlára, engedményezés esetén a fővállalkozó kivitelező által megjelölt fizetési számlára,
 
@@ -70,18 +70,18 @@ d) az építtetői fedezetkezelő fizetési számlájára
 
 teljesíthet kifizetést.
 
-[^147]: A 18. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
-[^148]: A 18. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 4. pontja szerint módosított szöveg.
-[^149]: A 18. § (3) bekezdése a 182/2010. (V. 14.) Korm. rendelet 7. § 15. pontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
-[^150]: A 18. § (4) bekezdés e) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 16. pontja szerint módosított szöveg.
-[^151]: A 18. § (4) bekezdés g) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (13) bekezdése iktatta be.
-[^152]: A 18. § (4) bekezdés h) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (13) bekezdése iktatta be.
-[^153]: A 18. § (4a) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (14) bekezdése iktatta be.
-[^154]: A 18. § (4b) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (14) bekezdése iktatta be.
-[^155]: A 18. § (4c) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (14) bekezdése iktatta be.
-[^156]: A 18. § (4c) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
-[^157]: A 18. § (4c) bekezdés b) pontja a 4/2011. (I. 28.) Korm. rendelet 126. § (1) bekezdés 3. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 127. §-át.
-[^158]: A 18. § (6) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (15) bekezdésével megállapított, a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
-[^159]: A 18. § (7) bekezdés a) pontját a 266/2013. (VII. 11.) Korm. rendelet 55. § g) pont gg) alpontja hatályon kívül helyezte.
-[^160]: A 18. § (7) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
-[^161]: A 18. § (8) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (16) bekezdésével megállapított szöveg.
+[^151]: A 18. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
+[^152]: A 18. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 4. pontja szerint módosított szöveg.
+[^153]: A 18. § (3) bekezdése a 182/2010. (V. 14.) Korm. rendelet 7. § 15. pontja, a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
+[^154]: A 18. § (4) bekezdés e) pontja a 182/2010. (V. 14.) Korm. rendelet 7. § 16. pontja szerint módosított szöveg.
+[^155]: A 18. § (4) bekezdés g) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (13) bekezdése iktatta be.
+[^156]: A 18. § (4) bekezdés h) pontját a 182/2010. (V. 14.) Korm. rendelet 5. § (13) bekezdése iktatta be.
+[^157]: A 18. § (4a) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (14) bekezdése iktatta be.
+[^158]: A 18. § (4b) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (14) bekezdése iktatta be.
+[^159]: A 18. § (4c) bekezdését a 182/2010. (V. 14.) Korm. rendelet 5. § (14) bekezdése iktatta be.
+[^160]: A 18. § (4c) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
+[^161]: A 18. § (4c) bekezdés b) pontja a 4/2011. (I. 28.) Korm. rendelet 126. § (1) bekezdés 3. pontja szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 127. §-át.
+[^162]: A 18. § (6) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (15) bekezdésével megállapított, a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
+[^163]: A 18. § (7) bekezdés a) pontját a 266/2013. (VII. 11.) Korm. rendelet 55. § g) pont gg) alpontja hatályon kívül helyezte.
+[^164]: A 18. § (7) bekezdés b) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 1. pontja szerint módosított szöveg.
+[^165]: A 18. § (8) bekezdése a 182/2010. (V. 14.) Korm. rendelet 5. § (16) bekezdésével megállapított szöveg.

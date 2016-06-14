@@ -2,7 +2,7 @@
 
 13. § (1) Az építési munkaterületen végzett építési-szerelési munkát – a (8) bekezdésben foglaltak kivételével – felelős műszaki vezető irányítja.
 
-(2)[^86] A felelős műszaki vezető tevékenysége a vállalkozó (alvállalkozó) kivitelező kivitelezési szerződésében vállalt építőipari kivitelezési tevékenységnek vagy meghatározott részének irányítására terjed ki.
+(2)[^88] A felelős műszaki vezető tevékenysége a vállalkozó kivitelező kivitelezési szerződésében vállalt építőipari kivitelezési tevékenységnek vagy meghatározott részének irányítására terjed ki.
 
 (3) A felelős műszaki vezető feladata:
 
@@ -14,7 +14,7 @@ c) az építőipari kivitelezési tevékenység munkafolyamatainak szakszerű me
 
 d) a kivitelezés során a minőségi követelmények biztosítása, a technológiai, a munkavédelmi és az egészségügyi előírások betartatása,
 
-e)[^87] a kitűzés helyességének, valamint a geotechnikai és egyéb vizsgálatok megtörténtének ellenőrzése,
+e)[^89] a kitűzés helyességének, valamint a geotechnikai és egyéb vizsgálatok megtörténtének ellenőrzése,
 
 f) a minőségi vizsgálatok és mintavételek elvégeztetése,
 
@@ -24,7 +24,7 @@ h) a kivitelezési tervektől eltérő, nem építési (létesítési) engedély
 
 i) az építőipari kivitelezési tevékenység befejezésekor, az építési napló alapján az 5. melléklet szerinti hulladék nyilvántartó lap kitöltése és az építtetőnek történő átadása,
 
-j)[^88] az építmény használatbavételi (fennmaradási) engedélyezéséhez, tudomásulvételéhez a felelős műszaki vezetőnek szakterületére vonatkozó – 14. § szerinti tartalmú – nyilatkozat megtétele,
+j)[^90] az építmény használatbavételi (fennmaradási) engedélyezéséhez, tudomásulvételéhez a felelős műszaki vezetőnek szakterületére vonatkozó – 14. § szerinti tartalmú – nyilatkozat megtétele,
 
 k) az átadás-átvételi eljárásban és a használatbavételi engedélyezési eljárásban való közreműködés és az ehhez szükséges nyilatkozatok megtétele,
 
@@ -36,25 +36,25 @@ lb) a teljesítésigazolás alapján számlázható összeget,
 
 lc) a szerződésben meghatározott alvállalkozói díj és a teljesítésigazolásban megjelölt számlázható összeg eltérése esetén az eltérés indoklását,
 
-m)[^89] az alvállalkozói teljesítésigazolás
+m)[^91] az alvállalkozói teljesítésigazolás
 
 ma) kiállítása és átadása vagy megküldése az alvállalkozó részére,
 
-mb)[^90] rögzítése az építési naplóban,
+mb)[^92] rögzítése az építési naplóban,
 
 az alvállalkozó kivitelező által megküldött, teljesítésről szóló értesítés kézhezvételétől – ha szerződés vagy jogszabály átadás-átvételi eljárást határoz meg, ennek lezárásától – számított, szerződésben meghatározott, de legfeljebb tizenöt munkanapon belül,
 
-n)[^91] értesíteni az illetékes környezetvédelmi és természetvédelmi hatóságot arról, hogy az építési munkaterületen keletkezett építési-bontási hulladék mennyisége eléri az építési és bontási hulladék kezelésének részletes szabályairól szóló jogszabályban előírt küszöbértéket,
+n)[^93] értesíteni az illetékes környezetvédelmi és természetvédelmi hatóságot arról, hogy az építési munkaterületen keletkezett építési-bontási hulladék mennyisége eléri az építési és bontási hulladék kezelésének részletes szabályairól szóló jogszabályban előírt küszöbértéket,
 
-o)[^92] annak ellenőrzése, hogy az építménybe csak a tervező által a kivitelezési dokumentációban meghatározott, az Étv. 41. §-a szerinti, legalább az elvárt műszaki teljesítményű építési termék kerüljön beépítésre, és a szakszerű beépítés ellenőrzése,
+o)[^94] annak ellenőrzése, hogy az építménybe csak a tervező által a kivitelezési dokumentációban meghatározott, az Étv. 41. §-a szerinti, legalább az elvárt műszaki teljesítményű építési termék kerüljön beépítésre, és a szakszerű beépítés ellenőrzése,
 
-p)[^93] az építési naplóban történő rögzítés mellett a tervező által a kivitelezési dokumentációban megjelölt építési termék helyett a megadottal azonos vagy annál jobb teljesítményértékű helyettesítő építési termék kiválasztása a tervező jóváhagyásával és az építtető egyetértésével.
+p)[^95] az építési naplóban történő rögzítés mellett a tervező által a kivitelezési dokumentációban megjelölt építési termék helyett a megadottal azonos vagy annál jobb teljesítményértékű helyettesítő építési termék kiválasztása a tervező jóváhagyásával és az építtető egyetértésével.
 
-(4)[^94] A felelős műszaki vezető természetes építőanyagok és a bontott építési termékek – szükség szerint szakértővel történő – vizsgálatát követően dönt azok kezeléséről, építési célra való megfelelősségéről, ismételt felhasználhatóságáról, beépíthetőségéről. Döntését az építési naplóba be kell jegyeznie.
+(4)[^96] A felelős műszaki vezető természetes építőanyagok és a bontott építési termékek – szükség szerint szakértővel történő – vizsgálatát követően dönt azok kezeléséről, építési célra való megfelelősségéről, ismételt felhasználhatóságáról, beépíthetőségéről. Döntését az építési naplóba be kell jegyeznie.
 
-(5)[^95] A fővállalkozó kivitelező felelős műszaki vezetőjének feladata az (1)–(4) bekezdésben meghatározottakon túlmenően
+(5)[^97] A fővállalkozó kivitelező felelős műszaki vezetőjének feladata az (1)–(4) bekezdésben meghatározottakon túlmenően
 
-a)[^96] az alvállalkozó kivitelezővel, az alvállalkozó kivitelezők felelős műszaki vezetőivel és a szakági felelős műszaki vezetőkkel való együttműködés, a velük történő egyeztetések koordinálása, tevékenységük összehangolása,
+a)[^98] az alvállalkozó kivitelezővel, az alvállalkozó kivitelezők felelős műszaki vezetőivel és a szakági felelős műszaki vezetőkkel való együttműködés, a velük történő egyeztetések koordinálása, tevékenységük összehangolása,
 
 b) a használatbavételi engedélyezési eljáráshoz szükséges felelős műszaki vezetői nyilatkozat megadása az alvállalkozói és a szakági felelős műszaki vezetői nyilatkozatok alapján.
 
@@ -62,17 +62,17 @@ b) a használatbavételi engedélyezési eljáráshoz szükséges felelős műsz
 
 (7) A felelős műszaki vezető egyes tevékenységek (pl. munkahelyi irányítás), illetve építési-szerelési szakterületek irányításával a tevékenységnek megfelelő – külön jogszabály szerinti – képesítéssel rendelkező személyt is megbízhat.
 
-(8)[^97] Az építőipari kivitelezési munka jellegének megfelelő szakképesítéssel rendelkező szakmunkás felelős műszaki vezető irányítása nélkül is végezhet olyan – építési engedélyhez nem kötött építményt, építményrészt érintő – építőipari kivitelezési tevékenységet, melynek teljesítéséhez nem vesz igénybe további alvállalkozót.
+(8)[^99] Építőipari kivitelezési tevékenységet az építési szakmunka jellegének megfelelő szakképesítéssel, részszakképesítéssel rendelkező szakmunkás felelős műszaki vezető irányítása nélkül is végezhet, ha az építési tevékenység építési engedélyhez vagy az Étv. 33/A. §-a szerinti egyszerű bejelentéshez nem kötött.
 
-[^86]: A 13. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja szerint módosított szöveg.
-[^87]: A 13. § (3) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 10. pontja szerint módosított szöveg.
-[^88]: A 13. § (3) bekezdés j) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 7. pont 7.1. alpontja szerint módosított szöveg.
-[^89]: A 13. § (3) bekezdés m) pontja a 322/2012. (XI. 16.) Korm. rendelet 69. §-ával megállapított szöveg.
-[^90]: A 13. § (3) bekezdés m) pont mb) alpontja a 62/2014. (III. 6.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
-[^91]: A 13. § (3) bekezdés n) pontját a 311/2009. (XII. 28.) Korm. rendelet 19. §-a iktatta be, szövege a 322/2012. (XI. 16.) Korm. rendelet 92. § f) pont fa) alpontja és az 527/2013. (XII. 30.) Korm. rendelet 76. §-a, a 70/2015. (III. 30.) Korm. rendelet 139. §-a szerint módosított szöveg.
-[^92]: A 13. § (3) bekezdés o) pontját a 322/2012. (XI. 16.) Korm. rendelet 70. § (1) bekezdése iktatta be.
-[^93]: A 13. § (3) bekezdés p) pontját a 322/2012. (XI. 16.) Korm. rendelet 70. § (1) bekezdése iktatta be.
-[^94]: A 13. § (4) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 7. pont 7.2. alpontja szerint módosított szöveg.
-[^95]: A 13. § (5) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 7. pont 7.3. alpontja szerint módosított szöveg.
-[^96]: A 13. § (5) bekezdés a) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § f) pont fb) alpontja szerint módosított szöveg.
-[^97]: A 13. § (8) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 70. § (2) bekezdésével megállapított, a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 7. pont 7.4. alpontja szerint módosított szöveg.
+[^88]: A 13. § (2) bekezdése a 62/2014. (III. 6.) Korm. rendelet 12. § 3. pontja, a 156/2016. (VI. 13.) Korm. rendelet 11. § a) pontja szerint módosított szöveg.
+[^89]: A 13. § (3) bekezdés e) pontja a 62/2014. (III. 6.) Korm. rendelet 12. § 10. pontja szerint módosított szöveg.
+[^90]: A 13. § (3) bekezdés j) pontja a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 7. pont 7.1. alpontja szerint módosított szöveg.
+[^91]: A 13. § (3) bekezdés m) pontja a 322/2012. (XI. 16.) Korm. rendelet 69. §-ával megállapított szöveg.
+[^92]: A 13. § (3) bekezdés m) pont mb) alpontja a 62/2014. (III. 6.) Korm. rendelet 13. § c) pontja szerint módosított szöveg.
+[^93]: A 13. § (3) bekezdés n) pontját a 311/2009. (XII. 28.) Korm. rendelet 19. §-a iktatta be, szövege a 322/2012. (XI. 16.) Korm. rendelet 92. § f) pont fa) alpontja és az 527/2013. (XII. 30.) Korm. rendelet 76. §-a, a 70/2015. (III. 30.) Korm. rendelet 139. §-a szerint módosított szöveg.
+[^94]: A 13. § (3) bekezdés o) pontját a 322/2012. (XI. 16.) Korm. rendelet 70. § (1) bekezdése iktatta be.
+[^95]: A 13. § (3) bekezdés p) pontját a 322/2012. (XI. 16.) Korm. rendelet 70. § (1) bekezdése iktatta be.
+[^96]: A 13. § (4) bekezdése a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 7. pont 7.2. alpontja szerint módosított szöveg.
+[^97]: A 13. § (5) bekezdés nyitó szövegrésze a 109/2013. (IV. 9.) Korm. rendelet 2. § (20) bekezdés 7. pont 7.3. alpontja szerint módosított szöveg.
+[^98]: A 13. § (5) bekezdés a) pontja a 322/2012. (XI. 16.) Korm. rendelet 92. § f) pont fb) alpontja szerint módosított szöveg.
+[^99]: A 13. § (8) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 9. § (6) bekezdésével megállapított szöveg.
