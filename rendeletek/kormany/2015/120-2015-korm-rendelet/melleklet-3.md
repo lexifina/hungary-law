@@ -36,7 +36,7 @@
 
 | 17. | Borsod- Abaúj- Zemplén | Bőcs | 029112 | Bőcsi Általános Iskola és Szakiskola, Alapfokú Művészeti Iskola | 3574 Bőcs, Munkácsy Mihály utca 7. | SZ | 001 | KLIK |
 
-| 18. | Borsod- Abaúj- Zemplén | Mezőkövesd | 029292 | Mezőkövesdi Szent László Gimnázium és Közgazdasági Szakközépiskola | 3400 Mezőkövesd, Mátyás király út 146. | SZ | 001 | KLIK |
+| 18. |  |  |  |  |  |  |  |  |
 
 | 19. | Borsod- Abaúj- Zemplén | Miskolc | 029308 | Miskolci Bartók Béla Zeneművészeti Szakközépiskola | 3530 Miskolc, Bartók Béla tér 1. | SZ | 001 | KLIK |
 
@@ -48,9 +48,9 @@
 
 | 23. | Borsod- Abaúj- Zemplén | Encs | 200598 | Encsi Váci Mihály Gimnázium, Szakközépiskola és Kollégium | 3861 Encs, Petőfi út 64. | TH | 002 | KLIK |
 
-| 24. | Borsod- Abaúj- Zemplén | Sátoraljaújhely | 200600 | Sátoraljaújhelyi Kossuth Lajos Gimnázium és Szakképző Iskola | 3980 Sátoraljaújhely, Deák utca 10. | SZ | 001 | KLIK |
+| 24. |  |  |  |  |  |  |  |  |
 
-| 25. | Borsod- Abaúj- Zemplén | Sátoraljaújhely | 200600 | Sátoraljaújhelyi Kossuth Lajos Gimnázium és Szakképző Iskola Trefort Ágoston Szakképző Tagiskolája | 3980 Sátoraljaújhely, Fejes István utca 14. | TI | 008 | KLIK |
+| 25. |  |  |  |  |  |  |  |  |
 
 | 26. | Borsod- Abaúj- Zemplén | Ózd | 200599 | Ózdi József Attila Gimnázium, Szakközépiskola és Kollégium | 3600 Ózd, Bem út 14. | SZ | 001 | KLIK |
 
@@ -60,7 +60,7 @@
 
 | 29. | Borsod- Abaúj- Zemplén | Tiszaújváros | 029265 | Tiszaújvárosi Eötvös József Gimnázium, Szakközépiskola és Kollégium Középiskolai Kollégiuma | 3580 Tiszaújváros, Munkácsy Mihály út 26.-28. | TI | 002 | KLIK |
 
-| 30. | Budapest | Budapest | 200411 | Budai Középiskola | 1126 Budapest, Márvány u. 32. | SZ | 001 | KLIK |
+| 30. |  |  |  |  |  |  |  |  |
 
 | 31. | Budapest | Budapest | 035445 | Nemes Nagy Ágnes Művészeti Szakközépiskola | 1115 Budapest, Thallóczy Lajos u. 1. | SZ | 001 | KLIK |
 
@@ -176,9 +176,9 @@
 
 | 87. | Csongrád | Mórahalom | 029633 | Móra Ferenc Általános Iskola, Szakképző Iskola és Kollégium | 6782 Mórahalom, Millenniumi sétány 17. | TH | 013 | KLIK |
 
-| 88. | Fejér | Bicske | 030200 | Fejér Megyei Vajda János Gimnázium és Szakközépiskola | 2060 Bicske, Kossuth tér 3. | SZ | 001 | KLIK |
+| 88. |  |  |  |  |  |  |  |  |
 
-| 89. | Fejér | Bicske | 030200 | Fejér Megyei Vajda János Gimnázium és Szakközépiskola | 2060 Bicske, Kisfaludy utca 27. | TH | 005 | KLIK |
+| 89. |  |  |  |  |  |  |  |  |
 
 | 90. | Fejér | Székesfehérvár | 039554 | Székesfehérvári Hermann László Zeneművészeti Szakközépiskola és Alapfokú Művészeti Iskola | 8000 Székesfehérvár, Városház tér 3. | SZ | 001 | KLIK |
 
@@ -208,11 +208,11 @@
 
 | 103. | Győr- Moson- Sopron | Győr | 030531 | Szabadhegyi Magyar-Német Két Tanítási Nyelvű Általános Iskola és Középiskola | 9028 Győr, Konini út 2-4. | SZ | 011 | KLIK |
 
-| 104. | Győr- Moson- Sopron | Mosonmagyaróvár | 030734 | Mosonmagyaróvári Bolyai János Általános Iskola, Informatikai és Közgazdasági Szakközépiskola | 9200 Mosonmagyaróvár, Régi Vámház tér 6. | SZ | 001 | KLIK |
+| 104. |  |  |  |  |  |  |  |  |
 
-| 105. | Győr- Moson- Sopron | Mosonmagyaróvár | 030734 | Mosonmagyaróvári Bolyai János Általános Iskola, Informatikai és Közgazdasági Szakközépiskola | 9200 Mosonmagyaróvár, Szent István király 6. | TH | 002 | KLIK |
+| 105. |  |  |  |  |  |  |  |  |
 
-| 106. | Hajdú-Bihar | Berettyóújfalu | 031214 | Berettyóújfalui Arany János Gimnázium, Egészségügyi Szakképző és Közgazdasági Szakközépiskola | 4100 Berettyóújfalu, Kossuth u. 35. | SZ | 003 | KLIK |
+| 106. |  |  |  |  |  |  |  |  |
 
 | 107. | Hajdú-Bihar | Debrecen | 031231 | Kodály Zoltán Zeneművészeti Szakközépiskola és Zeneiskola - Alapfokú Művészeti Iskola | 4024 Debrecen, Vár u. 1. | SZ | 001 | KLIK |
 
@@ -338,7 +338,7 @@
 
 | 168. | Pest | Törökbálint | 032616 | Bálint Márton Általános Iskola és Középiskola Tagintézménye | 2045 Törökbálint, Köztársaság tér 8. | TI | 001 | KLIK |
 
-| 169. | Pest | Százhalombatta | 032609 | Százhalombattai Széchenyi István Szakközépiskola és Gimnázium | 2440 Százhalombatta, Iskola u. 3. | SZ | 001 | KLIK |
+| 169. |  |  |  |  |  |  |  |  |
 
 | 170. | Pest | Szigetszentmiklós | 100527 | Kardos István Általános Iskola és Közgazdasági Szakközépiskola | 2310 Szigetszentmiklós, Tököli út 30/A. | SZ | 001 | KLIK |
 
@@ -378,7 +378,7 @@
 
 | 188. | Vas | Bük | 036659 | Felsőbüki Nagy Pál Általános Iskola és Szakiskola | 9737 Bük, Eötvös József utca 1-3. | SZ | 001 | KLIK |
 
-| 189. | Vas | Sárvár | 038150 | Tinódi Sebestyén Gimnázium és Idegenforgalmi, Vendéglátói Szakképző Iskola | 9600 Sárvár, Móricz Zsigmond utca 2. | SZ | 001 | KLIK |
+| 189. |  |  |  |  |  |  |  |  |
 
 | 190. | Vas | Szombathely | 036734 | Szombathelyi Művészeti Szakközépiskola | 9700 Szombathely, Paragvári utca 77. | SZ | 002 | KLIK |
 
@@ -416,6 +416,6 @@
 
 | 207. | Zala | Lenti | 037631 | Gönczi Ferenc Gimnázium és Szakközépiskola | 8960 Lenti, Zrínyi Miklós utca 5. | SZ | 001 | KLIK |
 
-3. melléklet a 120/2015. (V. 21.) Korm. rendelethez[^3]
+3. melléklet a 120/2015. (V. 21.) Korm. rendelethez[^6]
 
-[^3]: A 3. melléklet a 146/2015. (VI. 12.) Korm. rendelet 11. § (6) bekezdésével megállapított szöveg.
+[^6]: A 3. mellékletet a 144/2016. (VI. 13.) Korm. rendelet 2. § d) pontja hatályon kívül helyezte.

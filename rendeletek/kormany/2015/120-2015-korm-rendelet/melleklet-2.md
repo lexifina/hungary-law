@@ -556,7 +556,7 @@
 
 | 275. | Győr- Moson- Sopron | Mosonmagyaróvár | 030496 | Haller János Általános Iskola, Szakközépiskola és Szakiskola | 9200 Mosonmagyaróvár, Szent István király út 97. | TH | 002 | NGM |
 
-| 276. | Győr- Moson- Sopron | Mosonmagyaróvár | 030496 | Haller János Általános Iskola, Szakközépiskola és Szakiskola | 9231 Máriakálnok, Rákóczi út 4. | TH | 003 | NGM |
+| 276. |  |  |  |  |  |  |  |  |
 
 | 277. | Győr- Moson- Sopron | Mosonmagyaróvár | 030744 | Hunyadi Mátyás Szakközépiskola és Szakiskola | 9200 Mosonmagyaróvár, Dr. Gyárfás József utca 3. | SZ | 001 | NGM |
 
@@ -886,7 +886,7 @@
 
 | 440. | Pest | Vác | 032620 | Király Endre Ipari Szakközépiskola, Szakiskola és Kollégium | 2600 Vác, Naszály út 18. | TH | 006 | NGM |
 
-| 441. | Pest | Vác | 032620 | Király Endre Ipari Szakközépiskola, Szakiskola és Kollégium | 2600 Vác, Naszály út 29. | TH | 009 | NGM |
+| 441. |  |  |  |  |  |  |  |  |
 
 | 442. | Pest | Vác | 032613 | Selye János Humán Szakközépiskola | 2600 Vác Jávorszky sétány 2. | SZ | 001 | NGM |
 
@@ -1130,4 +1130,6 @@
 
 | 560. | Zala | Zalaegerszeg | 037671 | Deák Ferenc és Széchenyi István Szakközépiskola és Szakiskola Zrínyi utcai telephelye | 8900 Zalaegerszeg Zrínyi utca 1. | TH | 003 | megszűnt, de még nem törölt feladatellátási hely |
 
-2. melléklet a 120/2015. (V. 21.) Korm. rendelethez
+2. melléklet a 120/2015. (V. 21.) Korm. rendelethez[^5]
+
+[^5]: A 2. melléklet a 144/2016. (VI. 13.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
