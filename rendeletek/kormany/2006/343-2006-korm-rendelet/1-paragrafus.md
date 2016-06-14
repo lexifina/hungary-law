@@ -46,7 +46,7 @@ f) a közigazgatási hatósági eljárás és szolgáltatás általános szabál
 
 (9) Építésügyi Szolgáltatási Pontként az 1. melléklet III. részében meghatározott városi és 5000 fő lakosságszám feletti települési önkormányzat a következő építésügyi szolgáltatási feladatokat látja el:
 
-a) információszolgáltatás az állampolgárok részére az építésügyi hatósági ügyintézésük elősegítése érdekében,
+a)[^10] információszolgáltatás az állampolgárok részére az építésügyi hatósági ügyintézésük és az Étv. 33/A. §-a szerinti lakóépület építésének elősegítése érdekében,
 
 b) az építésügyi feladatok intézéséhez az állampolgári kérelmek átvételének és továbbításának, hiánypótlás befogadásának, nyilatkozatok felvételének és továbbításának, digitalizálásának és feltöltésének biztosítása az építésügyi hatósági engedélyezési eljárást támogató elektronikus dokumentációs rendszerbe (a továbbiakban: ÉTDR),
 
@@ -65,3 +65,4 @@ e) települési önkormányzati egyéb műszaki, üzemeltetési feladatok.
 [^7]: Az 1. § (5a) bekezdését a 70/2015. (III. 30.) Korm. rendelet 91. § (3) bekezdése iktatta be.
 [^8]: Az 1. § (6) bekezdését a 358/2013. (X. 9.) Korm. rendelet 2. § (5) bekezdés a) pontja hatályon kívül helyezte, újonnan a 38/2015. (III. 11.) Korm. rendelet 10. § (1) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 91. § (2) bekezdésével megállapított szöveg.
 [^9]: Az 1. § (8) bekezdése a 358/2013. (X. 9.) Korm. rendelet 2. § (4) bekezdése szerint módosított szöveg.
+[^10]: Az 1. § (9) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

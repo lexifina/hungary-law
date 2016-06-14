@@ -1,3 +1,3 @@
-3. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^81]
+3. melléklet a 343/2006. (XII. 23.) Korm. rendelethez[^82]
 
-[^81]: A 3. mellékletet a 311/2009. (XII. 28.) Korm. rendelet 24. § (3) bekezdés b) pontja hatályon kívül helyezte.
+[^82]: A 3. mellékletet a 311/2009. (XII. 28.) Korm. rendelet 24. § (3) bekezdés b) pontja hatályon kívül helyezte.
