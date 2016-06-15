@@ -140,6 +140,44 @@
 
 ## 3.3. Ha egy adott mintában valamelyik érték túllépése tapasztalható, az illetékes népegészségügyi szerv, valamint az élelmiszerlánc-felügyeleti szerv meghatározza, hogy milyen mértékben szükséges a mintavételt megismételni annak biztosításához, hogy a mért értékek az egész évi átlagos aktivitási koncentráció szempontjából reprezentatívak legyenek.
 
+## 4. A saját célú ivóvízművek esetén vizsgálandó vízminőségi paraméterek:
+
+## 4.1. Organoleptikus paraméterek: szín, szag, íz, zavarosság
+
+## 4.2. Hőmérséklet
+
+## 4.3. Escherichia coli
+
+## 4.4. Coliform baktériumok
+
+## 4.5. Telepszám 22 °C
+
+## 4.6. Fekális Enterococcus
+
+## 4.7. pH
+
+## 4.8. Vezetőképesség
+
+## 4.9. Ammónium
+
+## 4.10. Nitrit
+
+## 4.11. Nitrát
+
+## 4.12. Keménység
+
+## 4.13. Klorid
+
+## 4.14. Kémiai oxigénigény (KOIps)
+
+## 4.15. Vas
+
+## 4.16. Mangán
+
+## 4.17. Lúgosság
+
+## 4.18. Fertőtlenítéssel összefüggő paraméterek
+
 ## B) Minimális mintavételi és vizsgálati gyakoriság vízellátó hálózat vagy élelmiszer előállításra használt ivóvíz esetében
 
 ## A víznyerő helyek (kutak), a vízkezelési technológia, a vízellátó rendszerbe betáplálás vagy más hálózati pont (pl. tárolók) mintázása is célszerű, azonban az itt vett minták az alábbi követelmény teljesítése szempontjából nem vehetők figyelembe.

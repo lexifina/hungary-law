@@ -312,4 +312,4 @@
 
 2. számú melléklet a 201/2001. (X. 25.) Korm. rendelethez[^108]
 
-[^108]: A 2. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 364/2014. (XII. 30.) Korm. rendelet 50. § (2) bekezdése, a 313/2015. (X. 28.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^108]: A 2. számú melléklet a 430/2013. (XI. 15.) Korm. rendelet 12. § (2) bekezdésével megállapított, a 364/2014. (XII. 30.) Korm. rendelet 50. § (2) bekezdése, a 313/2015. (X. 28.) Korm. rendelet 7. § (2) bekezdése, a 100/2016. (V. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.

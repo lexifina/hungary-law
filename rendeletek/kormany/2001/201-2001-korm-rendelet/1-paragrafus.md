@@ -14,7 +14,7 @@ d)[^3] arra a vízre, amelyet kizárólag olyan célra használnak, amely nem je
 
 e) a közösségi használatra szánt vizekben – beleértve az ivóvizet, a használati meleg vizet és a medencés fürdővizet – alkalmazott biocid termékekre.
 
-(2a)[^4] E rendeletet nem kell alkalmazni
+(2a)[^4] Ha e rendelet vagy a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendelet másként nem rendelkezik, e rendeletet nem kell alkalmazni
 
 a) az 50 személynél kevesebbet ellátó vagy
 
@@ -29,5 +29,5 @@ egyedi vízellátásból származó ivóvízre, ha azt nem kereskedelmi vagy kö
 [^1]: Az 1. § (1) bekezdése a 430/2013. (XI. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 430/2013. (XI. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (2) bekezdés d) pontja a 70/2015. (III. 30.) Korm. rendelet 52. § (3) bekezdése szerint módosított szöveg.
-[^4]: Az 1. § (2a) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^4]: Az 1. § (2a) bekezdését a 430/2013. (XI. 15.) Korm. rendelet 1. § (2) bekezdése iktatta be, nyitó szövegrésze a 100/2016. (V. 13.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^5]: Az 1. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 51. pontja, a 351/2010. (XII. 30.) Korm. rendelet 86. §-a, a 430/2013. (XI. 15.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
