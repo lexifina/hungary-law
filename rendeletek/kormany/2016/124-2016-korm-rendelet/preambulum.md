@@ -1,0 +1,1 @@
+A Kormány az igazságügyi szakértőkről szóló 2016. évi XXIX. törvény 139. § (1) bekezdés c) és d) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
