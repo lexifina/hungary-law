@@ -46,7 +46,7 @@
 
 ## ed) a védőidomok, védőterületek leírása (ezek határoló vonalainak térképi ábrázolása a földhivatal nyilvántartás egységeihez igazítva. A belső és külső védőterületek ábrázolása az ingatlan-nyilvántartási térkép másolatán, de legalább 1:4000-es méretarányban. Az ezen kívüli területek ábrázolása 1:10 000-es, kivételes esetekben 1:25 000-es méretarányú térképeken);
 
-## ee) a szennyezőforrások ismertetése a 3. számú melléklet szerinti csoportosításban. (A vízkészlet állapotát befolyásoló létesítmények és tevékenységek, a szennyezőforrások jelentőségével arányos bemutatása, értékelve a vízkészletek állapotára gyakorolt hatásukat.);
+## ee) a szennyezőforrások ismertetése a 5. számú melléklet szerinti csoportosításban. (A vízkészlet állapotát befolyásoló létesítmények és tevékenységek, a szennyezőforrások jelentőségével arányos bemutatása, értékelve a vízkészletek állapotára gyakorolt hatásukat.);
 
 ## ef) a biztonságba helyezéshez szükséges intézkedések bemutatása (beleértve azok végrehajtásának tervezett módját, ütemezését és várható költségeit):
 
@@ -127,6 +127,22 @@
 ## 5. Kútfejakna méretei (m):
 
 ## 6. Megjegyzés:
+
+## 7. A kivitelező adatai és nyilatkozata:
+
+## Alulírott …………………………………………… (név), ……………………………… (személyi igazolvány száma) a …………………………… nyilvántartási számú vízkútfúró végzettséggel rendelkezem.*
+
+## A fúráshoz használt berendezés ………………… számú, …………………………, mint bányafelügyeleti hatóság által kiadott Mélyfúrási Alkalmassági Bizonyítvánnyal vagy ………………… EK megfelelőséggel rendelkezik.*
+
+## Érvényessége: ……… év, ……………… hónap.
+
+## A közölt adatok a valóságnak megfelelnek. A kút létesítéséhez szükséges berendezések, eszközök és alapanyagok rendelkezésemre állnak.
+
+## ………………………………
+
+## (aláírás)
+
+## * A dokumentumok hiteles másolatát csatolni szükséges.
 
 ## II. Vízellátó művek esetén
 
@@ -354,7 +370,7 @@
 
 ## 7. hidrológiai (egyesített rendszer esetén) hidraulikai és technológiai számítások.
 
-## III/A.[^40] A közműves szennyvízelvezető és tisztítóműbe történő bebocsátást megelőző előtisztítás esetén:
+## III/A.[^49] A közműves szennyvízelvezető és tisztítóműbe történő bebocsátást megelőző előtisztítás esetén:
 
 ## 1. Műszaki leírás
 
@@ -376,7 +392,7 @@
 
 ## f) jogszabályban meghatározott védőtávolságok, illetve az erre vonatkozó adatok;
 
-## g)[^41] a próbaüzemi előírások, a próbaüzemi, kezelési és karbantartási előírások, a próbaüzem alatt keletkező szennyvíz elhelyezésének rendezését is beleértve.
+## g)[^50] a próbaüzemi előírások, a próbaüzemi, kezelési és karbantartási előírások, a próbaüzem alatt keletkező szennyvíz elhelyezésének rendezését is beleértve.
 
 ## 2. Áttekintő helyszínrajz M: 1:5000 vagy 1:1000
 
@@ -434,9 +450,9 @@
 
 ## 5. az öntözőtelep műtárgyainak általános terve;
 
-## 6.[^42] a talajvédelmi terv.
+## 6.[^51] a talajvédelmi terv.
 
-## IV/A.[^43] A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendeletben meghatározott egynyári öntözés esetén:
+## IV/A.[^52] A vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó általános szabályokról szóló kormányrendeletben meghatározott egynyári öntözés esetén:
 
 ## 1. műszaki leírás:
 
@@ -742,38 +758,7 @@
 
 3. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez
 
-## A vízügyi szakhatósági állásfoglaláshoz szükséges mellékletek tartalma
-
-## 1. Műszaki leírás
-
-## a) a tervezett létesítmény leírása és műszaki adatai,
-
-## b) a létesítmény kapcsolódása vagy érintési pontok meghatározása a vízilétesítményekkel,
-
-## c) az elhelyezésre vonatkozó úgynevezett abszolút magassági adatokat,
-
-## d) a létesítmény vízilétesítményekre gyakorolt hatása.
-
-## 2. Átnézetes helyszínrajz
-
-## M=1:25 000 vagy 1:10 000 méretarányban, a tervbe vett létesítmény és a meglevő vízilétesítmények feltüntetésével.
-
-## 3. Részletes helyszínrajz
-
-## M=1:10 000, 1:4000 vagy 1:2000 méretarányban, a tervbe vett létesítmény, a meglévő vízilétesítmények és vízgazdálkodási magassági adatok feltüntetésével.
-
-## 4. Keresztezési műtárgyak részletterve
-
-## M=1:100 vagy 1:200 méretarányban, feltüntetve a keresztezett létesítmény minden műszaki jellemzőjét, fenékszint, levezetési szint, rézsűfenék szélesség, vízhozam, keresztezési magassági elhelyezés, védőtávolság, egyéb adatok.
-
-## 5. Vonalas létesítmények esetén a hossz-szelvényt a részletes helyszínrajznak megfelelő méretarányban, az úgynevezett abszolút magassági adatok feltüntetésével.
-
-## 6. Pontszerű létesítmények (így például kutak, szikkasztók, zárt gyűjtők, közműpótló létesítmények) esetében a létesítmény részlettervét, a vízgazdálkodási és a létesítményre vonatkozó műszaki paraméterek feltüntetésével.
-
-3. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^44]
-
-[^40]: A 2. számú melléklet III/A. pontját a 39/2001. (XI. 23.) KöViM rendelet 1. §-a iktatta a szövegbe.
-[^41]: A 2. számú melléklet III/A. pontjának 1.g) alpontja a 21/2002. (IV. 25.) KöViM rendelet 14. §-a (7) bekezdésének b) pontjával megállapított szöveg.
-[^42]: A 2. számú melléklet IV. pont 6. alpontja a 109/2012. (X. 15.) VM rendelet 1. §-ával megállapított szöveg.
-[^43]: A 2. számú melléklet IV/A. pontját a 109/2012. (X. 15.) VM rendelet 1. §-a iktatta be.
-[^44]: Az újabb 3. számú melléklet a 123/1997. (VII. 18.) Korm. rendelet 6. számú melléklete alapján került beiktatásra.
+[^49]: A 2. számú melléklet III/A. pontját a 39/2001. (XI. 23.) KöViM rendelet 1. §-a iktatta a szövegbe.
+[^50]: A 2. számú melléklet III/A. pontjának 1.g) alpontja a 21/2002. (IV. 25.) KöViM rendelet 14. §-a (7) bekezdésének b) pontjával megállapított szöveg.
+[^51]: A 2. számú melléklet IV. pont 6. alpontja a 109/2012. (X. 15.) VM rendelet 1. §-ával megállapított szöveg.
+[^52]: A 2. számú melléklet IV/A. pontját a 109/2012. (X. 15.) VM rendelet 1. §-a iktatta be.

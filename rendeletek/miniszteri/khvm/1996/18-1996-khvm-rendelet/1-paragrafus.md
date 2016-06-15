@@ -6,7 +6,10 @@ b)[^1] ha a tervezett vízimunka, a vízilétesítmény megépítése vagy a ví
 
 c) a megbízás alapján eljáró tervező esetén, a megbízás másolatát vagy az arról szóló igazolást,
 
-d)[^2] a 4. számú melléklet szerinti, az igazgatási szolgáltatási díj megállapítására és megfizetésére vonatkozó nyilatkozatot
+d)[^2] a 4. számú melléklet szerinti, az igazgatási szolgáltatási díj megállapítására és megfizetésére vonatkozó nyilatkozatot,
+
+e)[^3] amennyiben a tervezett vízimunka, vízhasználat, vízilétesítmény állami tulajdonban lévő vízkészletet vagy vízilétesítményt, felszín alatti vizek víztartó képződményeit vagy felszíni vizek medrét érinti, vagy arra közvetlen hatással van, akkor a működési területével érintett vízügyi igazgatási szerv vagyonkezelői hozzájárulását
 
 [^1]: Az 1. § b) pontját a 3/2005. (II. 22.) KvVM rendelet 9. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 38/2011. (V. 18.) VM rendelet 1. § (1) bekezdése iktatta be.
 [^2]: Az 1. § d) pontját a 67/2014. (XII. 17.) BM rendelet 1. §-a iktatta be.
+[^3]: Az 1. § e) pontját a 19/2016. (VI. 8.) BM rendelet 1. §-a iktatta be.

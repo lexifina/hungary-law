@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-18-20-6
 | 2014-12-25 | 1996-18-20-6B.18 | 67/2014. (XII. 17.) BM rendelet |
 | 2015-09-15 | 1996-18-20-6B.19 | 67/2014. (XII. 17.) BM rendelet |
 | 2016-01-01 | 1996-18-20-6B.20 | 75/2015. (XII. 22.) BM rendelet |
+| 2016-06-15 | 1996-18-20-6B.21 | 19/2016. (VI. 8.) BM rendelet |
