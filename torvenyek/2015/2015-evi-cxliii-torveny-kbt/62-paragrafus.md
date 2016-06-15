@@ -90,6 +90,8 @@ f) emberkereskedelem vagy kényszermunka esetén az emberkereskedelem megelőzé
 
 kell érteni.
 
+(5a) Az (1) bekezdés n) pontját a közbeszerzési eljárásban nem kell alkalmazni, ha a Kormány a verseny biztosítása érdekében annak alkalmazása alól az ajánlatkérő kezdeményezésére a közbeszerzésekért felelős miniszter előterjesztése alapján hozott egyedi határozatában felmentést adott. A felmentést az ajánlatkérő kizárólag a közbeszerzési eljárás megkezdését megelőzően, akkor kérheti, ha a közbeszerzési eljárással érintett piac gazdasági szereplőinek jelentős része az (1) bekezdés n) pontja szerinti kizáró ok hatálya alatt áll, ide nem értve azon gazdasági szereplőket, amelyek a 64. § szerinti öntisztázás alapján nem zárhatók ki a közbeszerzési eljárásból. Az ajánlatkérő az eljárást megindító felhívásban feltünteti, hogy a közbeszerzési eljárásban az (1) bekezdés n) pontja szerinti kizáró okot a Kormány határozatára tekintettel nem alkalmazza.
+
 (6) Az ajánlatkérő az eljárást megindító felhívásban köteles hivatkozni az (1) és (2) bekezdésben foglalt kizáró okokra.
 
 (7) Az ajánlatkérő – az érintett ajánlattevő, részvételre jelentkező, alvállalkozó, alkalmasság igazolásában részt vevő szervezet nevének és címének (székhelyének, lakóhelyének) az eljárás tárgyának és azonosítójának, valamint a kizárás és a kizárt gazdasági szereplő erről való tudomásszerzése időpontjának megjelölésével – köteles tájékoztatni a Közbeszerzési Hatóságot az (1) bekezdés i) és j) pontja szerinti kizárásról és a kizárás időpontjáról.
