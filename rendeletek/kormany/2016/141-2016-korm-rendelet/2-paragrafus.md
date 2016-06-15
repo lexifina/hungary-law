@@ -1,3 +1,0 @@
-## 1. § A látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló 107/2011. (VI. 30.) Korm. rendelet (a továbbiakban: Korm. rendelet) 14. § (4b) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4b) A támogatott szervezet – a 15. §-ban foglaltak kivételével, a (4a) bekezdésben foglaltakra is tekintettel – a sportcélú ingatlan-fejlesztést érintő tárgyi eszköz beruházás, felújítás esetén a jóváhagyást végző szervezetnél az adott támogatási időszak vonatkozásában a tárgyévet követő év május 1. napjától kérelmezheti a sportfejlesztési program összesen legfeljebb 4 támogatási időszakkal történő meghosszabbítását.”
