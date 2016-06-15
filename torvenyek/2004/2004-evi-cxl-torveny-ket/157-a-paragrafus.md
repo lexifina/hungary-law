@@ -4,7 +4,7 @@
 
 (3) A szakhatóság viseli a szakhatósági állásfoglalás módosításával okozott többletköltségeket, kivéve, ha a szakhatósági állásfoglalás módosítását jogszabályváltozás tette szükségessé.
 
-(4) A hatóság a szakértői díj jogerősen megállapított összeg letéttel fedezett részét – ha törvény eltérően nem rendelkezik – a szakértő által benyújtott számla alapján tizenöt napon belül kiutalja. Ha a letét nem fedezi a szakértői díjat, kérelemre indult eljárás esetén a hatóság kötelezi az ügyfelet a szakértői díj viselésére és a még szükséges összeg letétbe helyezésére.
+(4) Ha a letét nem fedezi a szakértői díjat, kérelemre indult eljárás esetén a hatóság kötelezi az ügyfelet a szakértői díj viselésére és a még szükséges összeg letétbe helyezésére.
 
 (5) Az iratbetekintést kérő viseli az iratbetekintési jog gyakorlásával okozott költséget.
 
