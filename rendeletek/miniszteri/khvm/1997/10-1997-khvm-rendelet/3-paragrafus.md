@@ -120,10 +120,10 @@ meghatározása.
 
 (10) A védekezési szervezetek személyi beosztásaiban bekövetkezett változásokat folyamatosan át kell vezetni.
 
-(11)[^6] A védekezési tervek elkészítésére, továbbá módosítására kizárólag a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló kormányrendelet alapján árvízmentesítés, árvízvédelem, folyó- és tószabályozás, sík- és dombvidéki vízrendezés, belvízvédelem, öntözés részterületen szakértői jogosultsággal rendelkező személy vehető igénybe.
+(11)[^6] A védekezési tervek elkészítésére, továbbá módosítására kizárólag az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendelet alapján területi vízgazdálkodás építmények tervezési részszakterületen tervezői jogosultsággal rendelkező személy vehető igénybe, aki köteles a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló kormányrendelet alapján árvízmentesítés, árvízvédelem, folyó- és tószabályozás, sík- és dombvidéki vízrendezés, belvízvédelem, öntözés részterületre vonatkozó szakértőt a tervezésbe bevonni.
 
 [^2]: A 3. § (7) bekezdésének bevezető mondata az 1/2004. (II. 6.) KvVM rendelet 5. §-ának (1) bekezdésével megállapított szöveg, a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^3]: A 3. § (7) bekezdés a) pontja a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés b) és c) pontja szerint módosított szöveg.
 [^4]: A 3. § (7) bekezdés c) pontja a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés d) pontja szerint módosított szöveg.
 [^5]: A 3. § (9) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés d) pontja szerint módosított szöveg.
-[^6]: A 3. § (11) bekezdését a 80/2011. (VIII. 3.) VM rendelet 2. §-a iktatta be.
+[^6]: A 3. § (11) bekezdését a 80/2011. (VIII. 3.) VM rendelet 2. §-a iktatta be, szövege a 19/2016. (VI. 8.) BM rendelet 10. §-ával megállapított szöveg.
