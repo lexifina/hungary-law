@@ -84,9 +84,15 @@
 
 ## 42.[^28] Papír alapú hiteles földhasználati lap másolat kiadása iránti kérelem
 
+## 43.[^29] Elektronikus Egészségügyi Szolgáltatási Tér önrendelkezési nyilatkozattal kapcsolatos bejelentés
+
+## 44.[^30] Elektronikus Egészségügyi Szolgáltatási Tér önrendelkezési nyilatkozattal kapcsolatos bejegyzésekről való tájékoztatás kérése
+
 2. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
 [^25]: Az 1. melléklet 39. pontját a 414/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
 [^26]: Az 1. melléklet 40. pontját a 414/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
 [^27]: Az 1. melléklet 41. pontját a 414/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be, szövege a 93/2016. (V. 2.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^28]: Az 1. melléklet 42. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^29]: Az 1. melléklet 43. pontját a 143/2016. (VI. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^30]: Az 1. melléklet 44. pontját a 143/2016. (VI. 13.) Korm. rendelet 1. § (1) bekezdése iktatta be.

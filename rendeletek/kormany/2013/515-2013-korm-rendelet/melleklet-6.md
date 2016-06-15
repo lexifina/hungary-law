@@ -20,20 +20,20 @@
 
 ## 10. Cégbejegyzési és változásbejegyzési eljárásról tájékoztatás
 
-## 11.[^937] Egységes elektronikuskártya-kibocsátási keretrendszer kártyafelhasználói regisztráció
+## 11.[^939] Egységes elektronikuskártya-kibocsátási keretrendszer kártyafelhasználói regisztráció
 
-## 12.[^938] Ügyintézési rendelkezés tétele
+## 12.[^940] Ügyintézési rendelkezés tétele
 
-## 13.[^939] Megtett ügyintézési rendelkezésről szóló igazolás kiadásának kérése
+## 13.[^941] Megtett ügyintézési rendelkezésről szóló igazolás kiadásának kérése
 
-## 14.[^940] Ügyfélkapu-regisztráció birtokában internethasználat biztosítása a személyiadat- és lakcímnyilvántartás tekintetében adatszolgáltatások alanyára vonatkozó tájékoztatás iránti kérelem elektronikus úton történő benyújtásához
+## 14.[^942] Ügyfélkapu-regisztráció birtokában internethasználat biztosítása a személyiadat- és lakcímnyilvántartás tekintetében adatszolgáltatások alanyára vonatkozó tájékoztatás iránti kérelem elektronikus úton történő benyújtásához
 
-## 15.[^941] Internethasználat és elérés biztosítása a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásához
+## 15.[^943] Internethasználat és elérés biztosítása a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartásához
 
 6. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
-[^937]: Az 5. melléklet 11. pontját a 194/2015. (VII. 21.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^938]: Az 5. melléklet 12. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^939]: Az 5. melléklet 13. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^940]: Az 5. melléklet 14. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^941]: Az 5. melléklet 15. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^939]: Az 5. melléklet 11. pontját a 194/2015. (VII. 21.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^940]: Az 5. melléklet 12. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^941]: Az 5. melléklet 13. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^942]: Az 5. melléklet 14. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^943]: Az 5. melléklet 15. pontját a 444/2015. (XII. 28.) Korm. rendelet 1. § (5) bekezdése iktatta be.
