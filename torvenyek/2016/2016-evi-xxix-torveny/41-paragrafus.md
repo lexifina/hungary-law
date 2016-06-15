@@ -1,0 +1,3 @@
+41. § (1) Ha a szakértő a vizsgálat során az adott eljárás tárgyát nem képező, személy elleni erőszakos, korrupciós vagy hivatali bűncselekmény elkövetésére utaló körülményről vagy olyan bűncselekmény elkövetésének szándékáról szerez tudomást, amely más személy életét, testi épségét vagy egészségét veszélyeztetné, köteles a tudomására jutott adatokat a nyomozó hatóságnak bejelenteni.
+
+(2) Ha a szakértő tevékenysége során olyan körülményt észlel, amely más személy életét, testi épségét vagy egészségét veszélyezteti, köteles az érintett szakterületet felügyelő közigazgatási szervnél bejelentést tenni.

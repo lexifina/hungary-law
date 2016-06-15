@@ -1,0 +1,1 @@
+27. § Ha a társaság működési forma megváltoztatása vagy egyesülés útján szűnt meg, és a jogutód társaság a 23. § (1) bekezdésében foglalt feltételeknek megfelel, a névjegyzéket vezető hatóság a társaság kérelmére a jogutódlást a névjegyzékben átvezeti.

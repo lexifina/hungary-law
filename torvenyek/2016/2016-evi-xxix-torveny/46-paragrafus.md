@@ -1,0 +1,1 @@
+46. § A munkáltató vagy a megbízó a munkavégzésre irányuló jogviszonyban álló igazságügyi szakértőt a hatóság idézése alapján az eljárási cselekményeknél való megjelenéshez, a tárgyaláson való részvételhez és a szemle lefolytatásához, vizsgálat elvégzéséhez szükséges időre köteles a munkavégzés alól mentesíteni.

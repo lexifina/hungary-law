@@ -1,0 +1,1 @@
+158. § A Kamara hivatala köteles gondoskodni a területi kamarák székhelyén 2016. november 30. napjáig az ügyfélszolgálati pontok felállításáról. Az ügyfélszolgálati pontokra vonatkozó részletes szabályokat a Kamara ideiglenes szervezeti és működési szabályzata tartalmazza.

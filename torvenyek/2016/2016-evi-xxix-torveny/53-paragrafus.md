@@ -1,0 +1,3 @@
+53. § (1) A szakértő a magánszakértői vélemény elkészítése során rendelkezésére bocsátott vagy tudomására jutott személyes adatokat a megbízás teljesítése céljából csak az érintett személy előzetes írásbeli hozzájárulásával jogosult kezelni. A hozzájárulás megadását vélelmezni vagy kiterjesztően értelmezni nem lehet.
+
+(2) A szakértőt a magánszakértői vélemény elkészítése során tudomására jutott tényekre és adatokra nézve titoktartási kötelezettség terheli, az ügyre vonatkozó tényekről és adatokról csak a megbízó, az adatok kezelésére jogosult más szerv vagy személy, továbbá – a szakvélemény eljárásban történő felhasználása esetén – a hatóság részére nyújtható tájékoztatás.

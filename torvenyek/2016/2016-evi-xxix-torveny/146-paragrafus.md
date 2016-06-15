@@ -1,0 +1,7 @@
+146. § (1) A Kamara első tisztségviselőit általános, egyenlő választójog alapján, közvetlenül, négy évre választják, titkos szavazással.
+
+(2) A választói névjegyzékbe felvett igazságügyi szakértő választhat (a továbbiakban: aktív választójog), és amennyiben jogszabály nem zárja ki, választható. Szavazni csak személyesen lehet. A választáson minden szavazásra jogosultnak egy szavazata van, minden szavazat egyenlő.
+
+(3) A területi kamarák aktív választójoggal rendelkező tagjai az ügyvivő testület elnöke által összehívott közgyűlésen az igazságügyi szakértői szakterületekről, valamint az azokhoz kapcsolódó képesítési és egyéb szakmai feltételekről szóló rendeletben meghatározott területeken bejegyzett igazságügyi szakértők közül 2016. július 1. napjáig, a felsorolt területek mindegyikén tíz-tíz küldöttet választanak. A közgyűlés a megjelent igazságügyi szakértők számára tekintet nélkül határozatképes.
+
+(4) A küldöttgyűlés száznegyven küldöttből áll azzal, hogy a küldöttek megválasztásánál a bejegyzett igazságügyi szakértők területi eloszlására, valamint az egyes szakterületek létszámára figyelemmel kell lenni. A küldötté válás feltétele legalább a területi kamarák nyilvántartásában szereplő igazságügyi szakértők tíz százalékának ajánlása. Nem lehet küldött a területi kamara elnöke és elnökhelyettese. A közgyűlésen megválasztott küldöttek jegyzékét az ügyvivő testület elnöke haladéktalanul megküldi a miniszter részére.

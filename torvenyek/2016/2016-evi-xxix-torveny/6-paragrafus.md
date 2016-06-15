@@ -1,0 +1,1 @@
+6. § A névjegyzéket vezető hatóság hivatalból, hatósági ellenőrzés keretében ellenőrzi azt, hogy az igazságügyi szakértő megfelel-e az 5. § (2) bekezdés a) pontjában meghatározott feltételeknek, valamint azt, hogy vele szemben nem áll fenn az 5. § (3) bekezdés a) pontjában meghatározott kizáró ok.

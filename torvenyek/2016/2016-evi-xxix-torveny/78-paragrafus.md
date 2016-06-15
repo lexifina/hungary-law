@@ -1,0 +1,1 @@
+78. § A Kamara elnöke az alapszabályt és a Kamara szervezeti és működési szabályzatát jóváhagyás végett a miniszternek, iránymutatásait és egyéb szabályzatait tájékoztatás végett a miniszternek és a szakterületet felügyelő miniszternek megküldi az elfogadástól számított tizenöt napon belül.
