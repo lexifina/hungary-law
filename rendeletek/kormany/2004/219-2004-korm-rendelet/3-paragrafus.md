@@ -60,13 +60,9 @@ b) megelőzze, minimalizálja a keletkező szennyező anyagok felszín alatti v�
 
 27. közvetlen vízkivétel felszín alatti vízből: az a tevékenység, melynek során nyomás- vagy vízszintcsökkentést okozva vesznek ki vizet a felszín alatti vízből (így például: termelőkút, galéria, drén, forrásküszöb-süllyesztés);
 
-28. magánszemélyek háztartási igényeit meg nem haladó tevékenység: a tevékenység akkor, ha
+28.[^17] magánszemélyek háztartási igényeit meg nem haladó tevékenység: a tevékenység akkor, ha
 
-a) a külön jogszabály[^17] szerint a települési önkormányzat jegyzőjének vízgazdálkodási hatáskörébe tartozóan:
-
-aa) a természetes személyek által elhelyezett – kizárólag házi, kommunális – szennyvíz mértéke nem haladja meg az 500 m3/év mennyiséget,
-
-ab) a felszín alóli vízkitermelés nem haladja meg az 500 m3/év értéket és az kizárólag talajvizet vesz igénybe, partiszűrésű, a karszt- vagy rétegvízkészletet nem;
+a) a vízgazdálkodási hatósági jogkör gyakorlásáról szóló kormányrendelet szerint a települési önkormányzat jegyzőjének vízgazdálkodási hatáskörébe tartozik, vagy
 
 b) a vegyes állattartás esetében összesen 5 számosállat/ingatlan, baromfi esetében 3 számosállat/ingatlan mértéket egyidejűleg nem haladja meg;
 
@@ -143,7 +139,7 @@ b) felszín alatti víz mennyiségi állapotában okozott jelentősen kedvezőtl
 [^14]: A 3. § 18. pontja a 92/2007. (IV. 26.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^15]: A 3. § 19. pontja a 367/2004. (XII. 26.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^16]: A 3. § 21. pontját a 302/2008. (XII. 17.) Korm. rendelet 19. § (1) bekezdése hatályon kívül helyezte.
-[^17]: A vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet.
+[^17]: A 3. § 28. pontja a 100/2016. (V. 13.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^18]: A 3. § 29. pontja a 302/2008. (XII. 17.) Korm. rendelet 19. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
 [^19]: A 3. § 30. pontja a 302/2008. (XII. 17.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
 [^20]: A 3. § 32. pontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
