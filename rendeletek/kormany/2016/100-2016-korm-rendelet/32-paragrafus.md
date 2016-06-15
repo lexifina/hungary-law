@@ -1,0 +1,3 @@
+## 31. § Magyarország települési szennyvíz-elvezetési és -tisztítási helyzetét nyilvántartó Településsoros Jegyzékről és Tájékoztató Jegyzékről, valamint a szennyvíz-elvezetési agglomerációk lehatárolásáról szóló 379/2015. (XII. 8.) Korm. rendelet (a továbbiakban: R6.) 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A működési területével érintett vízügyi igazgatóság a szennyvíz-elvezetési agglomeráció lehatárolásának felülvizsgálatára vonatkozó szakmai véleményét az illetékes Területi Vízgazdálkodási Tanács (a továbbiakban: TVT) illetékes szakmai bizottságának állásfoglalására figyelemmel alakítja ki.”

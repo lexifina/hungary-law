@@ -1,0 +1,3 @@
+## 1. § A vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet (a továbbiakban: R1.) 3. §-a a következő (3b) bekezdéssel egészül ki:
+
+## „(3b) Nem szükséges a (2) bekezdés szerinti személy hozzájárulása a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 101. § (4) bekezdésében foglaltak végrehajtását szolgáló, a felszín alatti vizek védelméről szóló kormányrendelet szerinti környezeti kármentesítési célú vízilétesítmény vízjogi engedélyezési eljárása során. Ebben az esetben a vízjogi létesítési engedély idegen ingatlan birtokbavételére nem jogosít, az építéssel összefüggésben támasztható polgári jogi igényt nem dönti el és nem mentesít egyéb engedély megszerzésének kötelezettsége alól.”

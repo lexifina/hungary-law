@@ -1,0 +1,3 @@
+## 11. § A felszíni vizek minősége védelmének szabályairól szóló 220/2004. (VII. 21.) Korm. rendelet (a továbbiakban: R2.) 34. §-a a következő (6) bekezdéssel egészül ki:
+
+## „(6) Azon szolgáltató esetében, aki a 2003. évi uniós csatlakozási szerződés X. melléklet 8. Környezetvédelem fejezet B. Vízminőség alcím 1. pontjában foglalt derogációval összefüggő kötelezettsége teljesítésének végrehajtását az Európai Unió társfinanszírozásával valósítja meg, 2018. december 31-ig a fizetendő vízszennyezési bírság összege – a szennyező anyag kibocsátási határérték feletti kibocsátása után – a számított teljes bírság 3%-a.”
