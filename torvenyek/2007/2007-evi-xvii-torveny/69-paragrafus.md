@@ -6,7 +6,7 @@
 
 69. § (1) Az intézkedésben való részvétellel összefüggésben megállapított jogosultság vagy az igénybe vett támogatás egésze vagy egy része jogosulatlannak minősül, amennyiben az ügyfél:
 
-a) valótlan tényt közöl,
+a) támogatási feltétel vonatkozásában valótlan tényt közöl,
 
 b) adatot eltitkol,
 

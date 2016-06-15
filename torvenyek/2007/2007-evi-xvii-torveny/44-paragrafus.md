@@ -18,11 +18,11 @@ a) a földhasználati nyilvántartásba földhasználóként bejegyzett,
 
 b) a családi gazdaságokról vezetett nyilvántartásba családi gazdálkodóként bejegyzett vagy családi gazdaság alapításáról szóló megállapodással rendelkezik és abban családi gazdálkodóként szerepel,
 
-c) haszonbérleti, felesbérleti, részesművelési, szívességi földhasználati vagy alhaszonbérleti szerződés, továbbá – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 70. §-a vagy 76. §-a szerinti – használati rendről szóló megállapodás alapján földhasználó,
+c) haszonbérleti, felesbérleti, részesművelési, szívességi földhasználati, rekreációs célú földhasználati vagy alhaszonbérleti szerződés, továbbá – a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 70. §-a vagy 76. §-a szerinti – használati rendről szóló megállapodás, valamint bíróság ideiglenes intézkedése alapján földhasználó, továbbá honvédelmi rendeltetésű terület esetében annak használatára szerződés alapján jogosult,
 
 d) az ingatlan-nyilvántartásba vagyonkezelőként, haszonélvezőként vagy a Polgári Törvénykönyvről szóló 2013. évi V. törvény 5:159. §-a szerinti használat jogának jogosultjaként bejegyzett,
 
-e) az ingatlan-nyilvántartásba tulajdonosként bejegyzett,
+e) az ingatlan-nyilvántartásba tulajdonosként vagy szövetkezeti földhasználat jogosultjaként bejegyzett,
 
 f) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvény 42. § (2) bekezdés c) pontja szerinti esetben az a személy, aki a földhasználati nyilvántartásba bejegyzett földhasználóval kötött írásbeli megállapodással rendelkezik,
 

@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-17-00-00
 | 2015-03-30 | 2015. évi XII. törvény | 2007-17-00-00.32 |
 | 2015-07-03 | 2015. évi XCIX. törvény | 2007-17-00-00.33 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2007-17-00-00.34 |
+| 2016-06-15 | 2016. évi LX. törvény | 2007-17-00-00.35 |
