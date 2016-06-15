@@ -1,4 +1,4 @@
-## 7. § Hatályát veszti a SPINTO-TDM Szerszámtervező és Gyártó Kft. Miskolc területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 61/2016. (III. 25.) Korm. rendelet.
+## 7. §[^1]
 
 1. melléklet a 154/2016. (VI. 13.) Korm. rendelethez
 
@@ -49,3 +49,5 @@
 22. azok az 1–21. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, használatbavételéhez, üzembe helyezéséhez, üzemeltetéséhez és működtetéséhez szükségesek,
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
