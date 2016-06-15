@@ -1,0 +1,3 @@
+## 10. § Az árvíz- és a belvízvédekezésről szóló 10/1997. (VII. 17.) KHVM rendelet (a továbbiakban: R2.) 3. § (11) bekezdése helyébe a következő rendelkezés lép:
+
+## „(11) A védekezési tervek elkészítésére, továbbá módosítására kizárólag az építésügyi és az építésüggyel összefüggő szakmagyakorlási tevékenységekről szóló kormányrendelet alapján területi vízgazdálkodás építmények tervezési részszakterületen tervezői jogosultsággal rendelkező személy vehető igénybe, aki köteles a környezetvédelmi, természetvédelmi, vízgazdálkodási és tájvédelmi szakértői tevékenységről szóló kormányrendelet alapján árvízmentesítés, árvízvédelem, folyó- és tószabályozás, sík- és dombvidéki vízrendezés, belvízvédelem, öntözés részterületre vonatkozó szakértőt a tervezésbe bevonni.”
