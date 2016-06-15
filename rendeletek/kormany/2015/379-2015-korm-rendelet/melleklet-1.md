@@ -1,4 +1,4 @@
-## 12. §[^1]
+## 12. §[^3]
 
 1. melléklet a 379/2015. (XII. 8.) Korm. rendelethez
 
@@ -152,4 +152,4 @@ d) a gazdaságossági számítást a teljes életciklus-szemlélet érvényesít
 
 5.8. Az előnyök és hátrányok értékelésénél az 5.3–5.7. pontokban leírt feltételek teljesülése a meghatározó.
 
-[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
