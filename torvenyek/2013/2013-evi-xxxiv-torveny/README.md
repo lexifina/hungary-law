@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-34-00-00
 | 2015-03-19 | 2015. évi VII. törvény | 2013-34-00-00.13 |
 | 2015-12-24 | 2015. évi CCXXVI. törvény | 2013-34-00-00.14 |
 | 2016-05-01 | 2015. évi CCXXVII. törvény | 2013-34-00-00.15 |
+| 2016-06-15 | 2016. évi XXIX. törvény | 2013-34-00-00.16 |
