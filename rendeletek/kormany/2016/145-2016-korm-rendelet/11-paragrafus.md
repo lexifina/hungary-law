@@ -1,1 +1,3 @@
-## 10. § Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 201/G. §-ában az „és a 201/H. §-ban” szövegrész.
+## 10. §[^9]
+
+[^9]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

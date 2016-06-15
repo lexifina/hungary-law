@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-145-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-06-14 | 2016-145-20-22.1 | 145/2016. (VI. 13.) Korm. rendelet |
+| 2016-06-15 | 2016-145-20-22.2 | 2010: CXXX. törvény |
