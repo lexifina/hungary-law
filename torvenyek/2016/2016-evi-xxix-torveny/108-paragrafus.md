@@ -1,5 +1,1 @@
-108. § (1) A fegyelmi eljárás kezdeményezésére irányuló kérelmet a fegyelmi bizottság elnöke a fegyelmi bizottsághoz érkezésétől számított nyolc napon belül megvizsgálja, és a (2) és (3) bekezdésben foglaltak szerint intézkedik vagy a kérelmet elutasítja, ha annak 109. § szerinti feltételei fennállnak.
-
-(2) Ha a kérelem nem tartalmazza a 106. § (1) bekezdésében előírt tartalmi elemeket, illetve a kérelemhez nem csatolták a 106. § (2) bekezdésében meghatározott mellékleteket, a fegyelmi bizottság elnöke azt a hiányok megjelölése mellett – nyolcnapos határidő tűzésével – hiánypótlásra küldi vissza azzal a figyelmeztetéssel, hogy a kérelmet elutasítja, ha a kezdeményező a felhívásban felsorolt hiányokat nem pótolja.
-
-(3) Ha a kérelem megfelel a törvény rendelkezéseinek, továbbá ha a kezdeményező a kérelem hiányait a megadott határidőben pótolta, a fegyelmi bizottság elnöke határozattal kijelöli az eljáró fegyelmi tanácsot. A határozatot kézbesíteni kell a kezdeményezőnek és a fegyelmi eljárás alá vont igazságügyi szakértőnek; a fegyelmi eljárás alá vont igazságügyi szakértő példányához a kérelmet és annak mellékleteit is csatolni kell.
+108–131. §
