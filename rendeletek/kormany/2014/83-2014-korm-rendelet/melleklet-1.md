@@ -1,4 +1,4 @@
-## 24. §[^2]
+## 24. §[^25] E rendeletnek az egyes vízgazdálkodási és vízvédelmi tárgyú kormányrendeletek módosításáról szóló 100/2016. (V. 13.) Korm. rendelettel (a továbbiakban: Mód. Kr. 1.) megállapított 1. § 9. és 9a. pontját, 3. § (1) bekezdését, 5. § (3) bekezdés a) pontját, (4) és (5) bekezdését, 13. § (2)–(12) bekezdését, 14. és 15. §-át, 16. § (1) és (3) bekezdését, valamint 17. § (1) bekezdését a Mód. Kr. 1. hatálybalépésekor[^26] folyamatban lévő nagyvízi mederkezelési tervdokumentációk összeállítása során is alkalmazni kell.
 
 1. melléklet a 83/2014. (III. 14.) Korm. rendelethez
 
@@ -162,4 +162,5 @@
 
 5.12. Területhasználati előírások térképi ábrázolása
 
-[^2]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 100/2016. (V. 13.) Korm. rendelet 25. §-a iktatta be.
+[^26]: A hatálybalépés időpontja 2016. június 15.

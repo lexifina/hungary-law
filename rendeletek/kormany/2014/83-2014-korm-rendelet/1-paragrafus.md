@@ -26,7 +26,9 @@ d) áramlási holttér: területrész, ahol nincs áramlás, de mint tározó t�
 
 8. mértékadó árvízszint: az árvízvédelmi művek, valamint a folyók medrét, a hullámteret és a nyílt árteret keresztező építmények tervezésénél és megvalósításánál figyelembe veendő, a vízgazdálkodásért felelős miniszter által megállapított árvízszint;
 
-9. nagyvízi mederkezelési terv: az 1. melléklet szerinti tervdokumentáció alapján készülő miniszteri rendelet, amely a nagyvízi meder kezelésének módját, feltételeit rögzítő, a folyó teljes hosszára vonatkozó célállapot elérése, illetve fenntartása érdekében szükséges előírásokat és intézkedéseket, valamint helyszínrajzokat és térképi mellékleteket tartalmazza;
+9.[^1] nagyvízi mederkezelési terv: az 1. melléklet szerinti tervdokumentáció alapján készülő miniszteri rendelet, amely tartalmazza a nagyvízi meder kezelésének módját és feltételeit rögzítő, a folyó teljes hosszára vonatkozó célállapot elérése, illetve fenntartása érdekében szükséges előírásokat és intézkedéseket, helyszínrajzokat és térképi mellékleteket, továbbá meghatározza a levezető sávokat és az ingatlanok egyes sávok által való tényleges érintettségét;
+
+9a.[^2] nagyvízi mederkezelési tervdokumentáció: a nagyvízi mederkezelési terv alapjául szolgáló, az 1. melléklet szerint elkészítendő dokumentáció;
 
 10. nyári gát: a hullámtéren épült vízilétesítmény, a fővédvonalnál alacsonyabb töltés, amely a mértékadó árvízszintnél alacsonyabb és ezért gyakoribb árvíz ellen véd;
 
@@ -49,3 +51,6 @@ b) a természetes állóvizek feltöltődése során kialakult vizenyős, mocsar
 c) a dombvidéki patakok, állandó vagy időszakos vízfolyások, völgyek, vízmosások által érintett olyan területek, amelyekre az időszakos elöntés jellemző,
 
 d) a folyók elhagyott ősmedrei, a folyókat kísérő, a jelenlegi medertől távolabb elhelyezkedő olyan vonulatok, terepmélyedések, amelyek eredete a folyó egykori medrére vezethető vissza.
+
+[^1]: Az 1. § 9. pontja a 100/2016. (V. 13.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 9a. pontját a 100/2016. (V. 13.) Korm. rendelet 20. § (2) bekezdése iktatta be.
