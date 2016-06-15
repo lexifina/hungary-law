@@ -1,1 +1,0 @@
-30/D. § A szakértői módszertani levél a Hivatalos Értesítőben történő közzétételétől a kirendelő szerv számára tájékoztatásul, a szakértőnek pedig a szakértő tevékenység ellátása során iránymutatásul szolgál. Ha a szakértő a szakértői módszertani levélben foglaltaktól eltér, azt a szakvéleményben meg kell indokolnia.

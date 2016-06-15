@@ -1,1 +1,0 @@
-18/B. § Az igazságügyi szakértő köteles a szakértői tevékenysége gyakorlásához szükséges rendszeres szakmai továbbképzésen részt venni, és a miniszter rendeletében előírt képzési kötelezettség teljesítését igazolni.

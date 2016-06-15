@@ -1,1 +1,0 @@
-15. § A munkáltató a munkaviszonyban álló igazságügyi szakértőt a hatóság idézése alapján az eljárási cselekményeknél való megjelenéshez, a tárgyaláson való részvételhez, illetőleg a szemle (vizsgálat) elvégzéséhez szükséges időre köteles a munkavégzés alól mentesíteni.
