@@ -6,7 +6,7 @@
 
 | 2. | 1. Elvi vízjogi engedély [a vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet 2. §] | 60 000 |
 
-| 3. | 2. Vízjogi létesítési engedély, fennmaradási engedély [72/1996. (V. 22.) Korm. rendelet 3. és 15. §] |  |
+| 3. | 2. Vízjogi létesítési engedély, fennmaradási engedély és megszüntetési engedély [72/1996. (V. 22.) Korm. rendelet 3., 4/A. és 15. §] |  |
 
 | 4. | 2.1. Vízkárelhárítás, vízrendezés, folyó- és tószabályozás (ideértve a vízkormányzást biztosító zsilipek és duzzasztó művek vízilétesítményeit, továbbá a tavak, duzzasztóművek, vízkivételt biztosító zsilipek, kisvízierőművek létesítését, fennmaradását is) – a beruházás bruttó költségéhez igazodva létesítményenként |  |
 
@@ -18,7 +18,7 @@
 
 | 8. | d) 100 000 000 Ft felett | 720 000 |
 
-| 9. | 2.2. Vízhasználat [Vgtv. 1. számú melléklet 23. pont], kivéve a 2.3–2.9. pontokban foglalt eseteket |  |
+| 9. | 2.2. Vízhasználat [Vgtv. 1. számú melléklet 23. pont], kivéve a 2.3–2.11. pontokban foglalt eseteket |  |
 
 | 10. | a) 5 m3/nap mennyiségig | 40 000 |
 
@@ -118,9 +118,13 @@
 
 | 58. | 2.9.3. Kút eltömedékelése | 2.9.1 és 2.9.2. pontokban megállapított díjtételek 50%-a |
 
+| 58a. | 2.10. Vízjogi létesítési, megszüntetési vagy fennmaradási engedély talaj- vagy parti szűrésű vízkészletet hasznosító kútra 500 m3/év mennyiségű vízhasználatig [72/1996. (V. 22.) Korm. rendelet 3. és 15. §, kivéve 24. § (1) bekezdés a) pont] | 5000 |
+
+| 58b. | 2.11. Saját célú ivóvízmű vízjogi létesítési, megszüntetési vagy fennmaradási engedélye [147/2010. (IV. 29.) Korm. rendelet 16/A. §] | 2.6. pontban megállapított díjtételek 25%-a |
+
 | 59. | 3. Vízvezetési szolgalom, vízhasználati szolgalom alapítása – az érintett ingatlanok számához igazodva [72/1996. (V. 22.) Korm. rendelet 6–7. §, 2011. évi CCIX. törvény 80. §] | 7000/ingatlan |
 
-| 60. | 4. Vízbázis védőterület kijelölés önálló eljárásban [72/1996. (V. 22.) Korm. rendelet 9. § (2) bekezdés] |  |
+| 60. | 4. Vízbázis védőterület önálló kijelölésére irányuló eljárás [72/1996. (V. 22.) Korm. rendelet 9. § (2) bekezdés] |  |
 
 | 61. | 4.1. Belső vagy külső védőterület, illetve azok együttes kijelölése |  |
 

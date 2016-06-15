@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-13-20-0
 | --- | --- | --- |
 | 2015-04-01 | 2015-13-20-0A.1 | 13/2015. (III. 31.) BM rendelet |
 | 2015-04-02 | 2015-13-20-0A.2 | 2010: CXXX. törvény |
+| 2016-06-15 | 2015-13-20-0A.3 | 19/2016. (VI. 8.) BM rendelet |
