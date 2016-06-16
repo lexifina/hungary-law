@@ -4,7 +4,7 @@
 
 2. beszámoló: a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Szt.), vagy a felhatalmazása alapján kiadott jogszabály szerinti beszámoló, kivéve az összevont (konszolidált) éves beszámolót;
 
-3. bevétel: e törvény III. Fejezetének alkalmazásában az értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei és a rendkívüli bevételek összege, vagy a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó egyszerűsített vállalkozói adóalany esetén az egyszerűsített vállalkozói adó alapja, a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó kisadózó vállalkozás esetén a 12. pont alapján meghatározott összeg;
+3. bevétel: e törvény III. Fejezetének alkalmazásában az értékesítés nettó árbevétele, egyéb bevételek, pénzügyi műveletek bevételei, vagy a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó egyszerűsített vállalkozói adóalany esetén az egyszerűsített vállalkozói adó alapja, a kisvállalati adó hatálya alá bejelentkező, az Szt. hatálya alá nem tartozó kisadózó vállalkozás esetén a 12. pont alapján meghatározott összeg;
 
 4. egyéni cég: az egyéni vállalkozóról és az egyéni cégről szóló 2009. évi CXV. törvényben egyéni cégként meghatározott jogalany;
 
@@ -36,7 +36,7 @@ g) a kisadózó vállalkozáson kívül más vállalkozásban nem kiegészítő 
 
 11. kisadózó: a kisadózó vállalkozások tételes adóját jogszerűen választó egyéni vállalkozó esetében az egyéni vállalkozó mint magánszemély, egyéni cég esetén annak tagja, közkereseti társaság és betéti társaság esetén a társaság kisadózóként bejelentett tagja;
 
-12. kisadózó vállalkozás bevétele: a kisadózó vállalkozás által a vállalkozási tevékenységével összefüggésben bármely jogcímen és bármely formában mástól megszerzett vagyoni érték, ideértve a tevékenység végzéséhez kapott támogatást és a külföldön is adóköteles bevételt azzal, hogy nem bevétel
+12. kisadózó vállalkozás bevétele: a kisadózó vállalkozás által a vállalkozási tevékenységével összefüggésben bármely jogcímen és bármely formában mástól megszerzett vagyoni érték, ideértve a tevékenység végzéséhez kapott támogatást és a külföldön is adóköteles bevételt, valamint az az összeg, amelyet az adóalany az általa kibocsátott bizonylat alapján az adóalanyisága megszűnése napjáig még nem szerzett meg azzal, hogy nem bevétel
 
 a) az áthárított általános forgalmi adó,
 
@@ -46,7 +46,9 @@ c) az adózó által korábban átadott vagyoni érték az adóalany részére n
 
 d) az a vagyoni érték, amelynek a megszerzése alapjául szolgáló jogviszony keletkezésének napjára vonatkozóan megállapított szokásos piaci árát az adóalany köteles megfizetni,
 
-e) jogszabály vagy jogerős bírósági, illetve hatósági határozat alapján kapott nem jövedelempótló kártérítés, kártalanítás, továbbá az adóalany vállalkozási (gazdasági) tevékenységéhez használt vagyontárgy károsodására vagy megsemmisülésére tekintettel a károkozótól, annak felelősségbiztosítójától vagy harmadik személytől a káreseménnyel kapcsolatosan kapott vagyoni érték, továbbá az adóalany biztosítójától elemi kárra tekintettel kapott kártérítés összege
+e) jogszabály vagy jogerős bírósági, illetve hatósági határozat alapján kapott nem jövedelempótló kártérítés, kártalanítás, továbbá az adóalany vállalkozási (gazdasági) tevékenységéhez használt vagyontárgy károsodására vagy megsemmisülésére tekintettel a károkozótól, annak felelősségbiztosítójától vagy harmadik személytől a káreseménnyel kapcsolatosan kapott vagyoni érték, továbbá az adóalany biztosítójától elemi kárra tekintettel kapott kártérítés összege,
+
+f) a költségek fedezetére vagy fejlesztési célra folyósított támogatás
 
 azzal, hogy a külföldi pénznemben keletkezett bevételét a Magyar Nemzeti Bank (a továbbiakban: MNB) a bevétel megszerzésének időpontjában irányadó hivatalos devizaárfolyamának, olyan külföldi pénznem esetén, amely nem szerepel az MNB hivatalos devizaárfolyam-lapján, az MNB által közzétett, euróban megadott árfolyam alapulvételével kell forintra átszámítani;
 
@@ -85,3 +87,5 @@ b) a 19. pont b) alpontja szerinti kedvezményezett foglalkoztatott esetében sz
 A kedvezmény részmunkaidős foglalkoztatás esetén legfeljebb az a) pont szerinti esetben 100 ezer, a b) pont szerinti esetben 50 ezer forintnak a részmunkaidő és a teljes munkaidő arányában csökkentett része után érvényesíthető;
 
 21. részmunkaidős foglalkoztatás: az a foglalkoztatás, amelynek munkaszerződésben meghatározott időtartama nem éri el a betöltött munkakörre érvényes teljes munkaidőt.
+
+22. költségek fedezetére vagy fejlesztési célra folyósított támogatás: a költségek fedezetére vagy fejlesztési célra folyósított olyan támogatás, amelyet a magánszemély kizárólag a ténylegesen felmerült, igazolt kiadásainak a folyósítóval történő elszámolási kötelezettsége mellett kap, ideértve az Európai Mezőgazdasági Vidékfejlesztési Alapból a fiatal mezőgazdasági termelők számára nyújtandó támogatások részletes feltételeiről szóló miniszteri rendelet szerinti támogatást is.

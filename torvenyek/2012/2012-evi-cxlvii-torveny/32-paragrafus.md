@@ -5,3 +5,5 @@
 (3) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 13. §, 20. § (1), (2) bekezdés, (4) bekezdés h) pont, (5) bekezdés f) pont, g) pont, h) pont, (6) bekezdés f) pont, (13) bekezdés c) pont, 26. § (2) bekezdés és 28/A. § rendelkezését a 2013. adóévre vonatkozóan is alkalmazni kell.
 
 (4) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvénnyel megállapított 23. § (5) bekezdés rendelkezését a 2013. adóévre az adózó választása szerint alkalmazza.
+
+(5) Az állami adó- és vámhatóság e törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított módosításairól 2016. november 1-jéig tájékoztatást nyújt az érintett adózónak.
