@@ -60,6 +60,8 @@ d) között a 6. § (5) bekezdése szerinti viszony áll fenn;
 
 e) egymás közeli hozzátartozói, vagy az a)–d) alpontokban meghatározottak közeli hozzátartozója;
 
+13/A. összes hasznos alapterület: az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet 1. számú mellékletének 2016. január 1-jén hatályos 34., 46., 46a. és 88. pontjai által meghatározott alapterület;
+
 14. pénz: a névértéken elfogadott pénz;
 
 15. pénzhelyettesítő eszköz: utalvány, egyéb fizetési megbízás vagy ígérvény – ide nem értve a pénzt és a készpénz-helyettesítő fizetési eszközt –, ha azzal a kötelezett pénztartozást térít meg, feltéve, hogy annak jogosult általi elfogadásával a jogosult eredeti pénzkövetelése a kötelezettel szemben megszűnik;
