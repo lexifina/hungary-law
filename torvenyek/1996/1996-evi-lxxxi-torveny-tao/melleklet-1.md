@@ -64,7 +64,7 @@ d) az a)–c) alpontban nem említett szellemi termékre, tárgyi eszközre (ide
 
 13.
 
-14. Az adóév utolsó napján kis- és középvállalkozásnak minősülő adózó a korábban még használatba nem vett, a műszaki gépek, berendezések és – a személygépkocsi kivételével – a járművek között nyilvántartott tárgyi eszköz üzembe helyezése adóévében a bekerülési érték 100 százalékának megfelelő értékcsökkenési leírást érvényesíthet, amennyiben a tárgyi eszközt a jogszabályban megnevezett leghátrányosabb térségek, települések valamelyikében helyezi üzembe. A tárgyi eszköz adózás előtti eredmény csökkentéseként figyelembe vett bekerülési értékének 1 százaléka, jármű esetében 3 százaléka az állami támogatásokra vonatkozó rendelkezések alkalmazásában
+14. Az adóév utolsó napján kis- és középvállalkozásnak minősülő adózó a korábban még használatba nem vett, a műszaki gépek, berendezések és – a személygépkocsi kivételével – a járművek között nyilvántartott tárgyi eszköz üzembe helyezése adóévében a bekerülési érték 100 százalékának megfelelő értékcsökkenési leírást érvényesíthet, amennyiben a tárgyi eszközt a jogszabályban megnevezett szabad vállalkozási zóna területén helyezi üzembe. A tárgyi eszköz adózás előtti eredmény csökkentéseként figyelembe vett bekerülési értékének 1 százaléka, jármű esetében 3 százaléka az állami támogatásokra vonatkozó rendelkezések alkalmazásában
 
 a) ha a beruházás elsődleges mezőgazdasági termelést szolgál, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló rendeletben foglalt támogatásnak minősül,
 

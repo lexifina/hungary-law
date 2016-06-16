@@ -44,7 +44,7 @@ j) a sikeres szakmai vizsgát tett – az i) pontban említett – szakképző i
 
 k)–l)
 
-ly)
+ly) a kisajátítás, valamint a kisajátítási tervben szereplő ingatlanra megkötött adásvétel során kapott ellenérték és az érintett eszköz könyv szerinti értéke közötti pozitív különbözet az adózás előtti eredményben való megjelenése adóévében,
 
 m)
 

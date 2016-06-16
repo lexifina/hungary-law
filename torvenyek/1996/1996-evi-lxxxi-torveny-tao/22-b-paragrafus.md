@@ -36,17 +36,15 @@ b) olyan új gazdasági tevékenység végzésére irányuló induló beruházá
 
 (2) Az adókedvezményt az adózó e törvény és a kormányrendelet előírásai alapján maga állapítja meg. A (2a) bekezdésben meghatározott beruházás esetén az adózó az adókedvezményt a Kormány – Európai Bizottság engedélyén alapuló – határozata alapján, a határozatban meghatározott feltételek szerint veheti igénybe. A Kormány a határozatot az adózó kérelmére, a kérelemben bemutatott fejlesztési program és az Európai Bizottság engedélye alapján hozza meg, ha a fejlesztési program és a kérelem megfelel az e törvényben és a kormányrendeletben meghatározott valamennyi feltételnek.
 
-(2a) Az adókedvezmény igénybe vételének feltétele a Kormány – Európai Bizottság engedélyén alapuló – határozata, amennyiben
+(2a) Az adókedvezmény igénybevételének feltétele a Kormány – Európai Bizottság engedélyén alapuló – határozata, ha
 
-a) a beruházáshoz igényelt összes állami támogatás meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás kaphat;
+a) a beruházáshoz igényelt összes állami támogatás meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszegű elszámolható költségű beruházás kaphat;
 
-b) kis- és középvállalkozás által a Közép-Magyarország régióban (ide nem értve a Közép-Magyarország régió kormányrendeletben meghatározott támogatható településeit) megvalósított beruházáshoz igényelt összes állami támogatás jelenértéken, beruházásonként meghaladja a 7,5 millió eurónak megfelelő forintösszeget;
+b) kis- és középvállalkozás által a Közép-Magyarország régióban (ide nem értve a Közép-Magyarország régió kormányrendeletben meghatározott támogatható településeit) megvalósított beruházáshoz igényelt összes állami támogatás jelenértéken, adózónként meghaladja a 7,5 millió eurónak megfelelő forintösszeget;
 
-c)
+c) az adózó vagy kapcsolt vállalkozása a kérelem, bejelentés benyújtását megelőző két naptári évben, a kérelem, bejelentés benyújtását követően, és a beruházás befejezését követő két naptári évig azonos vagy hasonló tevékenységet szüntet meg az Európai Gazdasági Térség területén, vagy tervezi ilyen tevékenység megszüntetését.
 
-d) az adózó a kérelem benyújtását megelőző két naptári évben azonos vagy hasonló tevékenységet szüntetett meg az Európai Gazdasági Térség területén, vagy tervezi, hogy a beruházás befejezését követő két naptári éven belül ilyen tevékenységet szüntet meg.
-
-(2b) Az adózó a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kérelmet a kormányrendeletben előírt formában és tartalommal az adópolitikáért felelős miniszterhez nyújtja be. A kérelmet a benyújtást, hiánypótlás esetén a hiánypótlás benyújtását követő 90 napon belül kell a Kormány elé terjeszteni; a határidő egy alkalommal, legfeljebb 90 nappal meghosszabbítható. A (2a) bekezdésben felsorolt esetekben, a kérelem Kormány elé terjesztését megelőzően az adópolitikáért felelős miniszter – a Támogatásokat Vizsgáló Iroda közreműködésével – megkéri az Európai Bizottság engedélyét, azzal, hogy az ügyintézési határidőbe nem számít bele az Európai Bizottság megkeresésének napjától az Európai Bizottság válaszának megérkezéséig terjedő időtartam. Ha a kérelem nem felel meg a kormányrendeletben előírt formának vagy tartalomnak, és az adózó a hiányt felszólítás ellenére nem pótolja, az adópolitikáért felelős miniszter határozatban elutasítja a kérelmet.
+(2b) Az adózó a (2a) bekezdésben meghatározott esetekben az adókedvezmény iránti kérelmet a kormányrendeletben előírt formában és tartalommal az adópolitikáért felelős miniszterhez nyújtja be. A kérelmet a benyújtást, hiánypótlás esetén a hiánypótlás benyújtását követő 90 napon belül kell a Kormány elé terjeszteni; a határidő egy alkalommal, legfeljebb 90 nappal meghosszabbítható. A (2a) bekezdésben felsorolt esetekben, a kérelem Kormány elé terjesztését megelőzően az adópolitikáért felelős miniszter – a az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet szabályaival összhangban – megkéri az Európai Bizottság engedélyét, azzal, hogy az ügyintézési határidőbe nem számít bele az Európai Bizottság megkeresésének napjától az Európai Bizottság válaszának megérkezéséig terjedő időtartam. Ha a kérelem nem felel meg a kormányrendeletben előírt formának vagy tartalomnak, és az adózó a hiányt felszólítás ellenére nem pótolja, az adópolitikáért felelős miniszter határozatban elutasítja a kérelmet.
 
 (3) Az adókedvezmény igénybevételének feltétele, hogy az adózó a beruházás megkezdése előtt
 
@@ -98,7 +96,7 @@ b) az elszámolt, évesített bérköltség kisvállalkozásnál legalább az ad
 
 (17) Az adózó a kormányrendeletben meghatározott adatokat társasági adóbevallásában beruházásonként feltünteti.
 
-(18) Az adópolitikáért felelős miniszter a (3) bekezdésben meghatározott adatokról évente tájékoztatást nyújt az állami adóhatóság részére. Az adóhatóság a rendelkezésére álló valamennyi adatról adózónként és beruházásonként haladéktalanul tájékoztatja a kincstárt, amely a kapott adatok felhasználásával, megkeresésre – törvénnyel kihirdetett nemzetközi szerződésben előírt tájékoztatási kötelezettség teljesítése érdekében – a miniszter részére adatot szolgáltat. A kincstár által a tájékoztatás révén megszerzett adatra az adózás rendjéről szóló törvénynek az adótitokra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
+(18) Az adópolitikáért felelős miniszter a (3) bekezdésben meghatározott adatokat havonta közli az állami adó- és vámhatósággal. Az állami adó- és vámhatóság a rendelkezésére álló valamennyi adatról adózónként és beruházásonként haladéktalanul tájékoztatja a kincstárt, amely a kapott adatok felhasználásával, megkeresésre – törvénnyel kihirdetett nemzetközi szerződésben előírt tájékoztatási kötelezettség teljesítése érdekében – a miniszter részére adatot szolgáltat. A kincstár által a tájékoztatás révén megszerzett adatra az adózás rendjéről szóló törvénynek az adótitokra vonatkozó rendelkezéseit kell megfelelően alkalmazni.
 
 (19) A fejlesztési adókedvezmény a kérelem, bejelentés benyújtásakor hatályos rendelkezéseknek megfelelően vehető igénybe.
 

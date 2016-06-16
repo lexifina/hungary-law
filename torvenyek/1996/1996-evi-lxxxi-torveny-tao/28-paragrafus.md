@@ -6,7 +6,7 @@
 
 28. § (1)
 
-(2) A belföldi illetőségű adózó és a külföldi vállalkozó a társasági adó megállapításakor az adóalapot úgy módosítja, hogy az ne tartalmazza a külföldön adóztatható jövedelmet, ha nemzetközi szerződés így rendelkezik, azzal, hogy a külföldön adóztatható jövedelmet a belföldi illetőségű adózó és a külföldi vállalkozó többi jövedelme utáni társasági adó megállapításakor figyelembe kell venni, ha nemzetközi szerződés ezt lehetővé teszi.
+(2) A belföldi illetőségű adózó és a külföldi vállalkozó a társasági adó megállapításakor az adóalapot úgy módosítja, hogy az ne tartalmazza a külföldön adóztatható jövedelmet, ha nemzetközi szerződés így rendelkezik. A külföldön adóztatható jövedelmet a belföldi illetőségű adózó és a külföldi vállalkozó többi jövedelme utáni társasági adó megállapításakor figyelembe kell venni, ha nemzetközi szerződés ezt lehetővé teszi (a továbbiakban: progresszív mentesítés). Progresszív mentesítéskor a belföldi illetőségű adózó és a külföldi vállalkozó a társasági adó megállapításakor a külföldön adóztatható jövedelemre jutó adót az összes jövedelemre megállapított, számított társasági adó és az adóalap hányadosaként meghatározott átlagos adókulccsal számítja ki. Az átlagos adókulcsot két tizedesjegyre kerekítve kell figyelembe venni.
 
 (3) A (2) bekezdésben nem említett esetben a belföldi illetőségű adózó és a külföldi vállalkozó a társasági adóból adóvisszatartás formájában levonhatja a külföldön fizetett (fizetentő), a társasági adónak megfelelő adót.
 

@@ -38,6 +38,8 @@ d) az alapítványnál, a közalapítványnál, az egyesületnél, a köztestül
 
 (4) A (2) és (3) bekezdésben foglaltakat figyelembe véve kell alkalmazni a 16., a 18. és a 28. §-ok,valamint a VII. fejezet rendelkezéseit.
 
+(4a) Az alapítvány, a közalapítvány, az egyesület, a köztestület a (2) bekezdés f) pontja, valamint a (3) bekezdés c) és d) pontja alapján akkor is módosítja az adózás előtti eredményét, ha az adóévben nincs gazdasági-vállalkozási tevékenysége.
+
 (5) Az egyházi jogi személy az adóalap megállapításakor a vállalkozási tevékenység adóévi adózás előtti nyereségének azzal a részével is csökkentheti a vállalkozási tevékenység adózás előtti eredményét, amelyet kulturális, nevelési, oktatási, felsőoktatási, szociális és egészségügyi, gyermek- és ifjúságvédelmi, sport, tudományos és műemlékvédelmi tevékenység, továbbá a hitéleti célú ingatlanfenntartás bevételt meghaladó költsége, ráfordítása fedezetére használ fel, továbbá az e célból lekötött tartalékba helyezett összeggel.
 
 (6) A közhasznú szervezetként besorolt alapítvány, közalapítvány, egyesület, köztestület és felsőoktatási intézmény adóalapja az (1)–(4) bekezdés alapján meghatározott összegnek a (7) bekezdésben előírt aránnyal számított része.
