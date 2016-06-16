@@ -4,7 +4,9 @@
 
 a) táppénzben, baleseti táppénzben, csecsemőgondozási díjban, gyermekgondozási díjban részesül;
 
-b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, ápolási díj folyósítása alatt a tag személyes közreműködését, az egyházi szolgálati viszonyban álló egyházi személy egyházi szolgálatát, illetőleg az egyéni vállalkozó, a mezőgazdasági őstermelő e tevékenységét személyesen folytatja.
+b) gyermekgondozást segítő ellátásban, gyermeknevelési támogatásban, ápolási díjban részesül, kivéve, ha a gyermekgondozást segítő ellátás, ápolási díj folyósítása alatt a tag személyes közreműködését, az egyházi szolgálati viszonyban álló egyházi személy egyházi szolgálatát, illetőleg az egyéni vállalkozó, a mezőgazdasági őstermelő e tevékenységét személyesen folytatja;
+
+c) csecsemőgondozási díjban, gyermekgondozási díjban és gyermekgondozást segítő ellátásban egyidejűleg részesül.
 
 (2) A kifizető a tagjával (ideértve az egyházi szolgálati viszonyban álló egyházi személyt is) fennálló jogviszonya alapján őt terhelő adó alapjának, az egyéni vállalkozó, a mezőgazdasági őstermelő az őt saját maga után terhelő adó alapjának megállapításkor az adóalap megállapításának különös szabályai hatálya alá tartozó esetben nem veszi számításba a hónapnak azt a napját, amelyre a tagja, illetőleg maga az egyéni vállalkozó, a mezőgazdasági őstermelő
 

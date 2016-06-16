@@ -24,7 +24,7 @@ a) a munkaviszony;
 
 b) a szövetkezet és természetes személy tagja között fennálló, a tag részére munkavégzési kötelezettséget eredményező vállalkozási és megbízási jogviszony, kivéve az iskolaszövetkezet és a nappali rendszerű oktatás keretében tanulmányokat folytató tanuló, hallgató tagja között fennálló ilyen jogviszonyt – 25. életévének betöltéséig a tanulói, hallgatói jogviszonya szünetelésének időtartama alatt is –;
 
-c) a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, a közös vállalat, az egyesülés, az európai gazdasági egyesülés, a szabadalmi ügyvivői társaság, a szabadalmi ügyvivői iroda és természetes személy tagja között fennálló, a tagnak a jogi személy, az egyéb szervezet tevékenységében való személyes közreműködési kötelezettséget eredményező tagi jogviszony (ideértve a nem munkaviszony keretében ellátott vezető tisztségviselői jogviszonyt is);
+c) az a) pont alá nem tartozó, a közkereseti társaság, a betéti társaság, a korlátolt felelősségű társaság, a közös vállalat, az egyesülés, az európai gazdasági egyesülés, a szabadalmi ügyvivői társaság, a szabadalmi ügyvivői iroda és természetes személy tagja között fennálló, a tagnak a jogi személy, az egyéb szervezet tevékenységében való személyes közreműködési kötelezettséget eredményező tagi jogviszony (ideértve a nem munkaviszony keretében ellátott vezető tisztségviselői jogviszonyt is);
 
 d) az ügyvédi iroda, a közjegyzői iroda, a végrehajtói iroda, az egyéni cég és természetes személy tagja között fennálló tagi jogviszony;
 
@@ -32,7 +32,7 @@ e) a gazdálkodó szervezet és a tanuló között tanulószerződés alapján f
 
 f) az egyházi jogi személy és az egyházi szolgálati viszonyban álló egyházi személy között fennálló jogviszony;
 
-g)
+g) állami projektértékelői jogviszony;
 
 h) a személyi jövedelemadóról szóló törvény szerinti nem önálló tevékenység vagy önálló tevékenység (ide nem értve a közérdekű önkéntes tevékenységről szóló törvény hatálya alá tartozó közérdekű önkéntes tevékenységet, az egyéni vállalkozói tevékenységet, a mezőgazdasági őstermelői tevékenységet, a bérbeadói tevékenységet és az európai parlamenti képviselő e tevékenységét) végzésének alapjául szolgáló, az a)–f) pont hatálya alá nem tartozó olyan jogviszony, amely alapján a tevékenységet Magyarországon vagy a szociális biztonsági rendszerek koordinálásáról szóló közösségi rendelet hatálya alá tartozó másik tagállam területén végzik.
 
@@ -54,7 +54,7 @@ b) a külföldi állam Magyarországra akkreditált diplomáciai és konzuli ké
 
 c) a nemzetközi szervezet nemzetközi szerződés alapján mentességet élvező tisztviselője, alkalmazottja részére kifizetett, juttatott bevétel;
 
-d) a belföldön állandó lakóhellyel, szokásos tartózkodási hellyel, székhellyel, telephellyel, fiókteleppel, kereskedelmi képviselettel vagy a jogszabályban előírt belföldi nyilvántartásba bejegyzésre kötelezett más hasonló telephellyel nem rendelkező kifizető által Magyarországon kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében munkaviszonyban foglalkoztatott olyan – bevándorolt vagy letelepedett jogállással nem rendelkező – magánszemély részére kifizetett, juttatott bevétel (ideértve a munkaszerződésben meghatározott alapbért is), aki harmadik állam állampolgára, feltéve, hogy a foglalkoztatás időtartama nem haladja meg a két évet, valamint az említett feltételek szerinti korábbi foglalkoztatásától számítva a foglalkoztatás ismételt megkezdéséig legalább három év már eltelt;
+d) a külföldi kifizető által Magyarországon kiküldetés, kirendelés vagy munkaerő-kölcsönzés keretében munkaviszonyban foglalkoztatott olyan – bevándorolt vagy letelepedett jogállással nem rendelkező – magánszemély részére kifizetett, juttatott bevétel (ideértve a munkaszerződésben meghatározott alapbért is), aki harmadik állam állampolgára, feltéve, hogy a foglalkoztatás időtartama nem haladja meg a két évet, valamint az említett feltételek szerinti korábbi foglalkoztatásától számítva a foglalkoztatás ismételt megkezdéséig legalább három év már eltelt; e rendelkezés olyan harmadik államból kiküldött személy esetében is alkalmazható, aki a harmadik államban fennálló biztosítását igazolja, függetlenül attól, hogy a kiküldött személy állampolgársága szerinti állammal Magyarországnak szociális biztonsági egyezménye áll fenn, továbbá olyan harmadik államból kiküldött személy esetében is alkalmazható, aki a harmadik államban fennálló biztosítását igazolja és nem tartozik a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló uniós rendeletek hatálya alá.
 
 e) a kifizető által megállapított és folyósított társadalombiztosítási ellátás, valamint az általa folyósított szociális ellátásból a szociális igazgatásról és a szociális ellátásokról szóló törvény szerint nem a kifizetőt terhelő rész;
 

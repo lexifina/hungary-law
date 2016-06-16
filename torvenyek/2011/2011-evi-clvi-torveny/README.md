@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-156-00-00
 | 2015-06-19 | 2015. évi LXXIV. törvény | 2011-156-00-00.28 |
 | 2015-07-01 | 2015. évi LXI. törvény | 2011-156-00-00.29 |
 | 2016-01-01 | 2015. évi CCXXIII. törvény | 2011-156-00-00.30 |
+| 2016-06-16 | 2016. évi LXVI. törvény | 2011-156-00-00.31 |
