@@ -4,16 +4,6 @@
 
 (2) E törvénynek a Módtv.5-tel megállapított 132. § (1) bekezdését a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
 
-(2) Az Art. 218. §-a a következő (3) bekezdéssel egészül ki:
+(2)
 
-(3) E törvénynek a Módtv.5-tel megállapított végrehajtásra vonatkozó rendelkezéseit
-
-a) a Módtv.5 hatálybalépésekor még el nem rendelt, és
-
-b) a Módtv.5 hatálybalépésekor folyamatban lévő
-
-végrehajtási eljárásokban is alkalmazni kell.”
-
-(3) Az Art. 218. §-a a következő (4) bekezdéssel egészül ki:
-
-(4) E törvénynek a Módtv.5-tel megállapított 35. § (7)–(9) bekezdése a 2016. szeptember 1-jét követő részesedés átruházások esetén alkalmazható.
+(3)

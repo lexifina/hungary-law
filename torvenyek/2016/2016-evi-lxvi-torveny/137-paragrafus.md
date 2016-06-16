@@ -1,6 +1,6 @@
 137. § Hatályát veszti a Tbj.
 
-1. 11/A. §,
+1.
 
 2. 16. § (3) bekezdésében az „s)” szövegrész,
 
