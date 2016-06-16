@@ -16,6 +16,8 @@ b) minden olyan személy, akit a szabályozott ingatlanbefektetési elővállalk
 
 6. TEÁOR: az e törvény hatályba lépésekor hatályos Gazdasági Tevékenységek Osztályozási Rendszere.
 
-7. Szabad pénzeszköz: a látra szóló és a lekötött bankbetéteknek, az Európai Gazdasági Térségről szóló Megállapodásban részes államok vagy a Gazdasági Együttműködési és Fejlesztési Szervezet tagállama által kibocsátott állampapíroknak, a nemzetközi pénzügyi intézmény által kibocsátott hitelviszonyt megtestesítő értékpapíroknak és az elismert tőkepiacra bevezetett értékpapíroknak a szabályozott ingatlanbefektetési társaság éves beszámolójának mérlegében kimutatott értéke.
+7. szabad pénzeszköz: a látra szóló és a lekötött bankbetéteknek, az Európai Gazdasági Térségről szóló Megállapodásban részes államok vagy a Gazdasági Együttműködési és Fejlesztési Szervezet tagállama által kibocsátott állampapíroknak, a nemzetközi pénzügyi intézmény által kibocsátott hitelviszonyt megtestesítő értékpapíroknak és az elismert tőkepiacra bevezetett értékpapíroknak a szabályozott ingatlanbefektetési társaság, továbbá a szabályozott ingatlanbefektetési társaság projekttársasága esetében a projekttársaság éves beszámolójának mérlegében kimutatott értéke,
 
-8. Elvárt osztalék: a szabályozott ingatlanbefektetési társaság külön jogszabályban meghatározottak szerint osztalékként kifizethető eredményének 90%-a.
+8. elvárt osztalék: a szabályozott ingatlanbefektetési társaság külön jogszabályban meghatározottak szerint osztalékként kifizethető eredményének 90%-a, továbbá a szabályozott ingatlanbefektetési társaság projekttársasága esetében a projekttársaság külön jogszabályban meghatározottak szerint osztalékként kifizethető eredményének 100%-a,
+
+9. kereskedési nap: a tőkepiacról szóló 2001. évi CXX. törvényben (a továbbiakban: Tpt.) meghatározott fogalom.
