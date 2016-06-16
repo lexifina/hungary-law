@@ -1,3 +1,3 @@
-## „ae) közösségi bormarketing tevékenységhez kapcsolódó támogatások tekintetében a Magyar Turisztikai Ügynökség Zrt.-t”
+## 6–7. §[^1]
 
-## [jelöli ki.]
+[^1]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
