@@ -6,7 +6,7 @@
 
 a) az állam kivételével az adózó örököse az örökrésze erejéig, több örökös esetében örökrészük arányában,
 
-b) a megajándékozott, az adózó által az adókötelezettsége keletkezését követően okirattal juttatott ajándék erejéig, kivéve, ha az ingyenes előnytől neki fel nem róható módon elesett,
+b) a megajándékozott, az adózó által az adókötelezettsége keletkezését követően okirattal juttatott ajándék értékének erejéig, kivéve, ha az ingyenes előnytől neki fel nem róható módon elesett,
 
 c) az adózó jogutódja,
 

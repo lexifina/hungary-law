@@ -68,13 +68,15 @@ j) az élelmiszerlánc-felügyeleti szervet a felügyeleti díj bevallásának �
 
 k) a Gazdasági Versenyhivatalt, ha a tájékoztatás törvényben meghatározott feladata ellátásához szükséges.
 
-l) az online pénztárgép forgalmazót, valamint a mobil szolgáltatót, ha a tájékoztatás az online pénztárgép és NAV szervere közötti kommunikáció fenntartásával, a pénztárgép által történő adatszolgáltatás küldésének biztosításával összefüggő, jogszabályban előírt kötelezettség teljesítéséhez szükséges.
+l) az online pénztárgép forgalmazót, valamint a mobil szolgáltatót, ha a tájékoztatás az online pénztárgép és NAV szervere közötti kommunikáció fenntartásával, a pénztárgép által történő adatszolgáltatás küldésének biztosításával összefüggő, jogszabályban előírt kötelezettség teljesítéséhez szükséges;
+
+m) a közbeszerzési hatóságot, ha a tájékoztatás a törvényben meghatározott feladata ellátásához szükséges.
 
 (8) Az állami adó- és vámhatóság a NAV nyomozó hatóságát tájékoztatja az adótitokról a bűncselekmények megelőzése, az adott bűncselekmény felderítése és nyomozása során a bűnüldözési feladatok teljesítése érdekében, valamint a büntető eljárás megindítása vagy lefolytatása céljából.
 
 (9) Az adóhatóság negyedévenként, a tárgynegyedévet követő hó 15. napjáig – a támogatás ellenőrzésének és nyilvántartásának céljából – tájékoztatja az agrárpolitikáért felelős minisztert, a mezőgazdasági igazgatási szervet, valamint a mezőgazdasági és vidékfejlesztési támogatási szervet a kiutalt, valamint a visszatartási jog gyakorlása keretében visszatartott, illetőleg a személyi jövedelemadóról szóló törvény 3. §-ának 41. pontjában meghatározott és 39. §-ának (1) bekezdése alapján igénybevett támogatás összegéről. Az adóhatóság a tájékoztatást adózónként, az adózók azonosítására alkalmas módon teljesíti.
 
-(10) Az állami adó- és vámhatóság a csekély összegű (de minimis) támogatások összegéről adózónként az adóbevallás határidejét követő 90 napon belül adatot szolgáltat a kincstárnak, amely az adatokat az országos támogatási monitoring rendszerben rögzíti.
+(10) Az adóhatóság a csekély összegű (de minimis) támogatások összegéről adózónként az adóbevallás határidejét követő 90 napon belül adatot szolgáltat a kincstárnak, amely az adatokat az országos támogatási monitoring rendszerben rögzíti.
 
 (11) Az állami adó- és vámhatóság az államháztartásról szóló törvény felhatalmazása alapján az államháztartási szervek és a közvállalkozások közötti pénzügyi kapcsolatok átláthatóságáról, valamint az egyes vállalkozásokon belüli pénzügyi átláthatóságról szóló kormányrendeletben meghatározott adatokat, dokumentumokat az Európai Bizottságnak megküldi, illetőleg rendelkezésre bocsátja.
 

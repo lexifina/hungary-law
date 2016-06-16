@@ -50,9 +50,7 @@ E) Az önkormányzat jegyzőjének adatszolgáltatása
 
 Az önkormányzat jegyzője az általa kiadott (visszavont, módosított) jövedéki termékkel folytatott kereskedelmi tevékenységre jogosító működési engedélyről 15 napon belül adatot szolgáltat az állami adó- és vámhatóságnak.
 
-F) Nyugdíjat, rehabilitációs járadékot, korhatár előtti ellátást, szolgálati járandóságot, balettművészeti életjáradékot, átmeneti bányászjáradékot folyósító szerv adatszolgáltatása
-
-A nyugdíjat, rehabilitációs járadékot, korhatár előtti ellátást, szolgálati járandóságot, balettművészeti életjáradékot, átmeneti bányászjáradékot folyósító szerv – az állami adó- és vámhatóságnak az Art. 31. §-ának (2) bekezdése szerinti bevallásban lévő adatok alapján a nyugdíj, korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék vagy átmeneti bányászjáradék mellett munkát vállaló személyekre a természetes személyazonosító adatok és az adóazonosító jel feltüntetésével az adóévet követő év január 31. napjáig teljesített elektronikus adatszolgáltatása alapján – az előzőekben megjelölt adatok feltüntetésével az adóévet követő év február 15. napjáig az állami adó- és vámhatóság felé elektronikus úton adatot szolgáltat a kifizetett nyugellátás, rehabilitációs járadék, korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék, átmeneti bányászjáradék adóévi összegéről. Az állami adó- és vámhatóság a kiegészítő tevékenységet folytató egyéni vállalkozókra az előzőekben meghatározott feltételek szerinti adatszolgáltatást az adóévet követő év március 15-ig, a nyugdíjat, rehabilitációs járadékot, korhatár előtti ellátást, szolgálati járandóságot, balettművészeti életjáradékot, átmeneti bányászjáradékot folyósító szerv pedig március 31-ig teljesíti.
+F)
 
 G) Hatósági adatszolgáltatás
 
@@ -194,6 +192,4 @@ b) azon települési önkormányzat, amely az a) pont szerinti intézményt nem 
 
 4. Amennyiben az 1. pontban említett adatok tekintetében változás következik be, akkor a változással érintett adatok vonatkozásában az adatszolgáltatást a tárgyhónapot követő hónap 25. napjáig kell teljesíteni.
 
-S) A biztosító adatszolgáltatása
-
-A biztosító 2015. április 30-áig adatot szolgáltat az állami adó- és vámhatóságnak az Európai Unió más tagállamában illetőséggel rendelkező személy részére életbiztosítási szerződés alapján történő teljesítésről.
+S)

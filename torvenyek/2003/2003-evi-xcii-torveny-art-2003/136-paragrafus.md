@@ -36,4 +36,4 @@ végzés ellen.
 
 (5) A fellebbezésre jogosult a fellebbezési határidőn belül a fellebbezési jogáról lemondhat. A fellebbezési jogról való lemondást tartalmazó nyilatkozat nem vonható vissza.
 
-(6) Az elkésett fellebbezést, a fellebbezésre nem jogosulttól származó fellebbezést, valamint az önálló fellebbezéssel meg nem támadható végzés ellen irányuló fellebbezést az elsőfokú adóhatóság érdemi vizsgálat nélkül elutasítja.
+(6) Az elkésett fellebbezést, a fellebbezésre nem jogosulttól származó fellebbezést, valamint az önálló fellebbezéssel meg nem támadható végzés ellen irányuló fellebbezést az első fokon döntést hozó adóhatóság érdemi vizsgálat nélkül elutasítja.

@@ -22,11 +22,11 @@ c) az adószám megállapítása iránti kérelem benyújtásának napján a vez
 
 (3) A (2) bekezdés ac) pontja alkalmazásában nem tekinthető jogerősnek az adószám törlését kimondó határozata, ha a bírósági felülvizsgálat megindítására nyitva álló határidő még nem telt el, illetőleg az adózó által kezdeményezett, a határozat felülvizsgálatára irányuló bírósági eljárás jogerősen nem zárult le.
 
-(4) Amennyiben az állami adó- és vámhatóság az adószám megállapítását a (2) bekezdés szerint megtagadta, az a vezető tisztségviselő, vagy tag, akire tekintettel az állami adó- és vámhatóság az adózó adószámát megtagadta, az adószám megállapítását megtagadó határozat adózóval történő közlésétől számított 8 napon belül kimentési kérelmet terjeszthet elő. A határidő jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
+(4) Amennyiben az állami adó- és vámhatóság az adószám megállapítását a (2) bekezdés szerint megtagadta, az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámát megtagadta, az adószám megállapítását megtagadó határozat adózóval történő közlésétől számított 8 napon belül kimentési kérelmet terjeszthet elő. A határidő jogvesztő, elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
 (5) Az állami adó- és vámhatóság az adószám megállapításának megtagadása tárgyában hozott határozatot visszavonja, és az adószámot megállapítja, ha
 
-a) az adószám megállapítását a (2) bekezdés aa), ab), vagy b) pontja alapján tagadta meg és az a vezető tisztségviselő, vagy tag, akire tekintettel az állami adó- és vámhatóság az adózó adószámának megállapítását megtagadta, a (4) bekezdés szerinti kérelmére indult eljárásban bizonyítja, hogy
+a) az adószám megállapítását a (2) bekezdés aa), ab), vagy b) pontja alapján tagadta meg és az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámának megállapítását megtagadta, a (4) bekezdés szerinti kérelmére indult eljárásban bizonyítja, hogy
 
 aa) az adószám megállapításának megtagadására okot adó tartozást az azt felhalmozó adózó azért nem tudta kiegyenlíteni, mert az általa teljesített termékértékesítés vagy szolgáltatásnyújtás ellenértékét egy vagy több vevő, illetőleg megrendelő részben vagy egészben nem egyenlítette ki, és
 
@@ -34,19 +34,21 @@ ab) a vevőkkel, megrendelőkkel szemben fennálló – illetőleg a felszámol�
 
 ac) az adótartozást felhalmozó adózó a követelések érvényesítése érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható.
 
-b) az adószám megállapítását a (2) bekezdés aa) vagy b) pontja alapján tagadta meg, és az a vezető tisztségviselő, vagy tag, akire tekintettel az állami adó- és vámhatóság az adózó adószámának megállapítását megtagadta, a (4) bekezdés szerinti kérelmére indult eljárásban, a kérelem benyújtásával egyidejűleg igazolja, hogy a kizáró ok alapjául szolgáló adótartozás már nem áll fenn.
+b) az adószám megállapítását a (2) bekezdés aa) vagy b) pontja alapján tagadta meg, és az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámának megállapítását megtagadta, a (4) bekezdés szerinti kérelmére indult eljárásban, a kérelem benyújtásával egyidejűleg igazolja, hogy a kizáró ok alapjául szolgáló adótartozás már nem áll fenn.
 
-(6) Az állami adó- és vámhatóság az adószám megállapításának megtagadása tárgyában hozott határozatot visszavonja, és az adószámot megállapítja akkor is, ha az adószám megállapítását a (2) bekezdés ac) pontja alapján tagadta meg, és az a vezető tisztségviselő, vagy tag, akire tekintettel az állami adó- és vámhatóság az adózó adószámát megtagadta,
+(6) Az állami adó- és vámhatóság az adószám megállapításának megtagadása tárgyában hozott határozatot visszavonja, és az adószámot megállapítja akkor is, ha az adószám megállapítását a (2) bekezdés ac) pontja alapján tagadta meg, és az a vezető tisztségviselő, cégvezető, tag vagy részvényes, akire tekintettel az állami adó- és vámhatóság az adózó adószámát megtagadta,
 
-a) az adószám megtagadására okot adó adószám törléssel érintett adózóban (e bekezdés alkalmazásában: törölt adózó) tagi jogviszonnyal nem rendelkezett, és
+a) az adószám megtagadására okot adó adószám törléssel érintett adózóban (e bekezdés alkalmazásában: törölt adózó) tagi, részvényesi jogviszonnyal nem rendelkezett, és
 
-b) a (4) bekezdés szerinti kérelmére indult eljárásban okirattal bizonyítja, hogy vezető tisztségviselőként a törölt adózó jogszerű működésének helyreállítása érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
+b) a (4) bekezdés szerinti kérelmére indult eljárásban okirattal bizonyítja, hogy vezető tisztségviselőként, vagy cégvezetőként a törölt adózó jogszerű működésének helyreállítása érdekében úgy járt el, ahogy az az adott helyzetben általában elvárható.
+
+(6a) A (6) bekezdés alkalmazásában kimentési oknak minősül, ha az adószám törléséről szóló határozat jogerőre emelkedésére tekintettel indult cégbírósági törvényességi felügyeleti eljárás arra figyelemmel került megszüntetésre, hogy az adózó a cég törvényes működését helyre állította.
 
 (7) Az állami adó- és vámhatóság jogosult a (4) bekezdés szerinti kérelemben foglaltak valódiságát – így különösen a tartozást felhalmozó adózó által teljesített termékértékesítés, szolgáltatásnyújtás tényleges megvalósulását – a (2) bekezdés aa) alpontja, valamint b) pontja szerinti adótartozással rendelkező adózónál, illetőleg az (5) bekezdés a) pontja szerinti vevőnél, megrendelőnél vizsgálni, illetőleg e tekintetben a korábbi ellenőrzések eredményeit felhasználni.
 
 (8) A (4) bekezdés szerinti kérelem elbírálására nyitva álló határidőbe nem számít bele a (7) bekezdés szerinti ellenőrzés(ek) időtartama.
 
-(9) Az állami adó- és vámhatóság az adószámot a 17. § (1) bekezdés b) pontja szerinti bejelentéstől számított 1 munkanapon belül állapítja meg, ha a cégbíróság által közölt adóazonosító szám alapján folytatott vizsgálat eredményeképpen a (2) bekezdésben meghatározott akadályok egyike sem valószínűsíthető ezen határidőn belül, egyébként az adószám megállapítása, vagy megtagadása tárgyában a 17. § (1) bekezdés b) pontja szerinti bejelentéstől számított 8 munkanapon belül dönt. Ennek során felszólíthatja az adózó vezető tisztségviselőjét, illetve tagját arra, hogy nyilatkozzon a (2) bekezdésben meghatározott akadály fennállásáról. Az állami adó- és vámhatóság elektronikus úton értesíti a cégbíróságot, ha az adózó adószámának megállapítására nem került sor az 1 munkanapos határidőn belül.
+(9) Az állami adó- és vámhatóság az adószámot a 17. § (1) bekezdés b) pontja szerinti bejelentéstől számított 1 munkanapon belül állapítja meg, ha a cégbíróság által közölt adóazonosító szám alapján folytatott vizsgálat eredményeképpen a (2) bekezdésben meghatározott akadályok egyike sem valószínűsíthető ezen határidőn belül, egyébként az adószám megállapítása, vagy megtagadása tárgyában a 17. § (1) bekezdés b) pontja szerinti bejelentéstől számított 8 munkanapon belül dönt. Ennek során felszólíthatja az adózó vezető tisztségviselőjét, cégvezetőjét, tagját, illetve részvényesét arra, hogy nyilatkozzon a (2) bekezdésben meghatározott akadály fennállásáról. Az állami adó- és vámhatóság elektronikus úton értesíti a cégbíróságot, ha az adózó adószámának megállapítására nem került sor az 1 munkanapos határidőn belül.
 
 (10) Ha az állami adó- és vámhatóság az adószám megállapítását megtagadja, úgy az előtársaság adókötelezettségeinek teljesítéséért az előtársaság tagjai (részvényesei) egyetemlegesen felelnek. Mulasztás esetén az állami adó- és vámhatóság a mulasztási bírságot – magánszemély esetén a magánszemély adózókra meghatározott bírságmérték alkalmazásával – valamennyi tagra (részvényesre) kiszabhatja.
 

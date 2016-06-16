@@ -11,3 +11,11 @@ c) az értékesítésnek az adózó érdekkörén kívül eső okból bekövetke
 d) haladéktalanul, a külön jogszabályban meghatározott adattartalomban bekövetkezett bármely változást.
 
 (2) Az (1) bekezdés a) pontja szerinti bejelentés igazgatási szolgáltatási díjköteles. A díj mértéke 30 000 Ft, amelyet az állami adó- és vámhatóság által meghatározott számla javára kell megfizetni.
+
+(3) Nem kell igazgatási szolgáltatási díjat fizetni, ha az automataberendezés üzemeltetője olyan automataberendezés kapcsán tesz bejelentést, amelyre az automataberendezés korábbi üzemeltetője már bejelentést tett, és ezen bejelentéshez kapcsolódóan
+
+a) az igazgatási szolgáltatási díj teljes összege megfizetésre, és
+
+b) az automataberendezés gyártási száma bejelentésre
+
+került.

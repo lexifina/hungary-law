@@ -1,6 +1,6 @@
 ## Az adó feltételes megállapítása
 
-132. § (1) Az adópolitikáért felelős miniszter az adózó kérelmére – az általa közölt, jövőbeni ügyletre, vagy jövőbeni ügyletnek nem minősülő ügyletre vonatkozó részletes tényállás alapján – a kérelemben megjelölt adókötelezettségre vagy annak hiányára vonatkozó konkrét kérdés(ek) vonatkozásában megállapítja az adózó adókötelezettségét vagy annak hiányát. Az adó feltételes megállapítására irányuló kérelemként nem terjeszthető elő szokásos piaci ár megállapítására irányuló kérelem. Jövőbeni és jövőbeni ügyletnek nem minősülő ügyletre vonatkozó kérelem egy kérelemként nem terjeszthető elő. Az adópolitikáért felelős miniszter jövőbeni ügyletnek minősülő folyamatos teljesítésű ügylet esetén csak az általános forgalmi adó adónemet érintő adókötelezettséget vagy annak hiányát állapítja meg.
+132. § (1) Az adópolitikáért felelős miniszter az adózó kérelmére – az általa közölt, jövőbeni ügyletre, vagy jövőbeni ügyletnek nem minősülő ügyletre vonatkozó részletes tényállás alapján – a kérelemben megjelölt adókötelezettségre vagy annak hiányára vonatkozó konkrét kérdés(ek) vonatkozásában megállapítja az adózó adókötelezettségét vagy annak hiányát. Az adó feltételes megállapítására irányuló kérelemként nem terjeszthető elő szokásos piaci ár megállapítására irányuló kérelem egyetlen adónem tekintetében sem. Jövőbeni és jövőbeni ügyletnek nem minősülő ügyletre vonatkozó kérelem egy kérelemként nem terjeszthető elő. Az adópolitikáért felelős miniszter jövőbeni ügyletnek minősülő folyamatos teljesítésű ügylet esetén csak az általános forgalmi adó adónemet érintő adókötelezettséget vagy annak hiányát állapítja meg.
 
 (1a) A kérelem benyújtásakor jövőbeni ügyletnek nem minősülő ügylet vonatkozásában feltételes adómegállapítás csak a társasági adóval, a személyi jövedelemadóval, a kisvállalati adóval és a helyi iparűzési adóval összefüggésben kérhető és a kérelem csak a kérelemmel érintett adónemre és adómegállapítási időszakra vonatkozó bevallás benyújtásáig, de legkésőbb a bevallás határidejéig nyújtható be. A határidő elmulasztása esetén igazolási kérelem benyújtásának nincsen helye.
 
@@ -29,6 +29,8 @@ vonatkozóan kéri a tartós feltételes adómegállapítás alkalmazhatósága 
 (5) A kérelem jogszabályban előírt nyomtatványon nyújtható be. A kérelemhez csatolni kell az adózó nyilatkozatát arról, hogy a kérelem vagy hasonló kérelme ügyében nincs és korábban sem volt folyamatban tudomása szerint ellenőrzés, hatósági eljárás vagy bírósági eljárás.
 
 (5a) Kutatás-fejlesztési tevékenység minősítését is igénylő feltételes adómegállapítás iránti kérelem esetén csatolni kell a kutatás-fejlesztési tevékenység minősítésével összefüggő eljárás lefolytatására hatáskörrel rendelkező hatóság előzetes minősítést tartalmazó határozatának másolati példányát.
+
+(5b) A számviteli törvényben meghatározott IFRS-ek szerinti számviteli elszámolás minősítését is igénylő feltételes adómegállapítás iránti kérelem esetén a kérelemhez csatolni kell a Magyar Könyvvizsgálói Kamarának a számviteli elszámolás minősítésére vonatkozó szakértői véleményét.
 
 (6) A kérelem díjköteles, a díj mértéke:
 
