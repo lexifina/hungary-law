@@ -16,7 +16,7 @@ c) a kárpótlásról szóló törvényekben szabályozott vételi jog gyakorlá
 
 d) helyi önkormányzattól vásárolt lakás estében a szerződésben szereplő tényleges vételár;
 
-e) a 60. § (3) bekezdése szerinti ráépítés, létesítés, alapterület-növelés megszerzésére fordított összeg a használatbavételi (fennmaradási) engedély jogerőre emelkedésének napjáig, illetve a használatbavételi (fennmaradási) engedélyben megjelölt feltételek teljesítésének határidejéig, a 60. § (4) bekezdése szerinti esetben a tényleges használatbavételig, ennek hiányában az átruházásig kibocsátott, az építő (építtető) magánszemély vagy házastársa nevére kiállított számla szerinti érték, de legalább a beépített anyag-érték;
+e) a 60. § (3) bekezdése szerinti ráépítés, létesítés, alapterület-növelés megszerzésére fordított összeg a használatbavételi (fennmaradási) engedély jogerőre emelkedésének napjáig, a használatbavételi (fennmaradási) engedélyben megjelölt feltételek teljesítésének határidejéig, a használatbavétel tudomásulvételének, illetve az egyszerű bejelentés alapján épített épület esetében a felépítés megtörténtét igazoló hatósági bizonyítvány kiállításának napjáig, a 60. § (4) bekezdése szerinti esetben a tényleges használatbavételig, ennek hiányában az átruházásig kibocsátott, az építő (építtető) magánszemély vagy házastársa nevére kiállított számla szerinti érték, de legalább a beépített anyag-érték;
 
 f) az illeték-kiszabáshoz figyelembe vett érték, ha
 
@@ -42,7 +42,7 @@ vagy
 
 (3a) Ha az ingatlan értékesítése – kivéve, ha a magánszemély a bevételt egyéni vállalkozói tevékenysége keretében szerzi meg – gazdasági tevékenység [3. § 46. pont] keretében történik, az (1)–(3) bekezdés rendelkezései szerint megállapított jövedelem önálló tevékenységből származó jövedelemnek minősül.
 
-(4) Az ingatlan, ingatlanra vonatkozó vagyoni értékű jog átruházásából származó jövedelem, ha az átruházás a megszerzés évében vagy az azt követő öt évben történik, az (1)–(2) bekezdés rendelkezései szerint kiszámított összeg (e § alkalmazásában: számított összeg). Ezt követően a jövedelmet úgy kell megállapítani, hogy a számított összeget csökkenteni kell, ha az átruházás – a megszerzés évét követő évet első évnek tekintve –,
+(4) Az ingatlan, ingatlanra vonatkozó vagyoni értékű jog átruházásából származó jövedelem, ha az átruházás a megszerzés évében vagy az azt követő öt évben történik, az (1)–(3) bekezdés szerint kiszámított összeg (e § alkalmazásában: számított összeg). Ezt követően a jövedelmet úgy kell megállapítani, hogy a számított összeget csökkenteni kell, ha az átruházás – a megszerzés évét követő évet első évnek tekintve –,
 
 a) a hatodik évben történik, a számított összeg 10 százalékával,
 

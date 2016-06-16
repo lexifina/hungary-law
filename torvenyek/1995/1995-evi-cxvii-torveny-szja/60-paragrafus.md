@@ -4,7 +4,7 @@
 
 (3) Az (1) bekezdés rendelkezésétől eltérően, az ingatlan tulajdonban (birtokban) tartásának időszakában a 2007. december 31-ét követően az ingatlanon létesített épített-ingatlan (épület, épületrész, építmény, építményrész) esetében – ideértve a megszerzéskor, illetőleg az említett időpont előtt meglévő épített-ingatlan helyett létesített (újjáépített, leválasztott, megosztott) épített-ingatlan esetét is –, valamint a megszerzéskor, illetőleg az említett időpont előtt meglévő épített-ingatlan helyiségei hasznos alapterületének hat négyzetmétert meghaladó növelése esetében a szerzést
 
-a) az utolsó használatbavételi (fennmaradási) engedélyről szóló határozat jogerőre emelkedésének időpontjával,
+a) az utolsó használatbavételi (fennmaradási) engedélyről szóló határozat jogerőre emelkedésének időpontjával, a használatbavétel tudomásulvételének időpontjával, illetve az egyszerű bejelentés alapján épített épület esetében a felépítés megtörténtét igazoló hatósági bizonyítvány kiállításának időpontjával
 
 vagy a bevételnek a ráépítés, létesítés, alapterület-növelés megszerzésére fordított összegével arányos megosztásával választható, hogy
 
@@ -12,4 +12,4 @@ b) a földterület (telek), valamint az ingatlan tulajdonjogának megszerzéseko
 
 kell azonosnak tekinteni.
 
-(4) Az olyan, használatbavételi (fennmaradási) engedéllyel még nem rendelkező épített-ingatlan, illetőleg alapterület-bővítés esetében, amelynek létesítése az ingatlanra kiadott legutolsó használatbavételi (fennmaradási) engedélyről szóló határozat jogerőre emelkedésének keltét követően, illetőleg ettől függetlenül is a tulajdonban (birtokban) tartás időszakában történt, a (3) bekezdés rendelkezését az említett épített-ingatlan, alapterület-bővítés tekintetében azzal az eltéréssel kell alkalmazni, hogy a hitelt érdemlően bizonyított tényleges használatbavétel évét vagy, ha a tényleges használatbavétel éve hitelt érdemlően nem állapítható meg, illetve nem történt meg, az átruházás évét kell a megszerzés évének tekinteni.
+(4) Az olyan, használatbavételi (fennmaradási) engedéllyel még nem rendelkező épített-ingatlan, illetőleg alapterület-bővítés esetében, amelynek létesítése az ingatlanra kiadott legutolsó használatbavételi (fennmaradási) engedélyről szóló határozat jogerőre emelkedésének keltét, a használatbavétel tudomásulvételének időpontját, illetve az egyszerű bejelentés alapján épített épület esetében a felépítés megtörténtét igazoló hatósági bizonyítvány kiállításának időpontját követően, illetőleg ettől függetlenül is a tulajdonban (birtokban) tartás időszakában történt, a (3) bekezdés rendelkezését az említett épített-ingatlan, alapterület-bővítés tekintetében azzal az eltéréssel kell alkalmazni, hogy a hitelt érdemlően bizonyított tényleges használatbavétel évét vagy, ha a tényleges használatbavétel éve hitelt érdemlően nem állapítható meg, illetve nem történt meg, az átruházás évét kell a megszerzés évének tekinteni.

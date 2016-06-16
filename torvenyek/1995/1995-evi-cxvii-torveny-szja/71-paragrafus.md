@@ -28,9 +28,9 @@ g) az iskolarendszerű képzési költsége munkáltató által történő átv�
 
 (2) Béren kívüli juttatásnak minősül
 
-a) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, valamint – ha a juttató a volt munkáltató (annak jogutódja) – a nyugdíjban részesülő magánszemélynek és közeli hozzátartozójának, továbbá az elhunyt munkavállaló közeli hozzátartozójának a juttató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
+a) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgatónak, valamint – ha a juttató a volt munkáltató (annak jogutódja) – a nyugdíjban részesülő magánszemélynek és közeli hozzátartozójának, továbbá az elhunyt munkavállaló közeli hozzátartozójának a juttató tulajdonában, vagyonkezelésében lévő üdülőben nyújtott üdülési szolgáltatás révén juttatott jövedelemből az adóévben személyenként a minimálbér összegét meg nem haladó rész;
 
-b) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára, valamint – ha a juttató a volt munkáltató (vagy annak jogutódja) – a nyugdíjban részesülő magánszemélynek választása szerint
+b) a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgatónak a juttatás alapjául szolgáló jogviszony minden megkezdett hónapjára, valamint – ha a juttató a volt munkáltató (vagy annak jogutódja) – a nyugdíjban részesülő magánszemélynek választása szerint
 
 ba) munkahelyi (üzemi) étkeztetésnek minősülő szolgáltatás keretében a munkáltató telephelyén működő étkezőhelyen megvalósuló ételfogyasztás formájában juttatott jövedelemből a havi 12 ezer 500 forintot meg nem haladó rész [ideértve a kizárólag az adott munkáltató telephelyén működő munkahelyi (üzemi) étkezőhelyen az említett értékben és célra felhasználható – a munkáltató vagy az étkezőhelyet üzemeltető személy által kibocsátott – utalványt, elektronikus adathordozót is], és/vagy
 

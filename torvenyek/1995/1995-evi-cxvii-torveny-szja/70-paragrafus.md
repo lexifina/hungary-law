@@ -12,7 +12,7 @@ a) a munkáltató által
 
 aa) valamennyi munkavállaló (ideértve a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatóhoz kirendelt munkavállalót is), vagy
 
-ab) az előbbiek és/vagy elhunyt munkavállaló közeli hozzátartozója, szakképző iskolai tanuló, kötelező szakmai gyakorlaton lévő hallgató, nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló –, vagy
+ab) az előbbiek és/vagy elhunyt munkavállaló közeli hozzátartozója, szakképző iskolai tanuló, kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató, nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló –, vagy
 
 ac) az előbbiek és/vagy közeli hozzátartozóik
 
@@ -22,7 +22,7 @@ b) a munkáltató által valamennyi munkavállaló (e rendelkezés alkalmazásá
 
 ba) több munkavállaló, vagy
 
-bb) az előbbiek és/vagy elhunyt munkavállaló közeli hozzátartozója, szakképző iskolai tanuló, kötelező szakmai gyakorlaton lévő hallgató, nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló –, vagy
+bb) az előbbiek és/vagy elhunyt munkavállaló közeli hozzátartozója, szakképző iskolai tanuló, kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató, nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló –, vagy
 
 bc) az előbbiek és/vagy közeli hozzátartozóik
 
@@ -42,7 +42,7 @@ ab) a szakszervezet a tagjának, a nyugdíjas tagjának, a tag, az elhunyt tag (
 
 ac) a volt munkáltató vagy annak jogutódja a nyugdíjban részesülő magánszemélynek és közeli hozzátartozójának,
 
-ad) a kifizető a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak
+ad) a kifizető a szakképző iskolai tanulónak, kötelező szakmai gyakorlatának ideje alatt a hallgatónak, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgatónak
 
 juttatja, továbbá az aa)–ad) pontban nem említett esetben akkor, ha a juttatás olyan magánszemélynek történik, akinek a kifizetőtől az adóévben nem származik más jövedelme;
 

@@ -70,7 +70,7 @@ valamint más magánszemély javára megállapodás alapján nyugellátásra jog
 
 18. az egyéni vállalkozói tevékenységhez jogszabály vagy nemzetközi szerződés rendelkezése alapján kapott támogatás jogszerű felhasználásával teljesített kiadás alapján meghatározott költség, akkor is, ha a kiadás részben a magánszemély személyes vagy családi szükségletét szolgálja (ha azonban a támogatás csak részben nyújt fedezetet a kiadásra, akkor e rendelkezés alapján a kiadásnak csak a támogatásból fedezett része alapján számolható el költség);
 
-19. a hivatali, üzleti utazás esetén az utazásra, a szállás díjára, külföldi kiküldetés esetén az utazásra, a szállás díjára fordított kiadás, továbbá az erről szóló kormányrendelet szerint naponta számított igazolás nélkül elismert költség azzal, hogy e pont rendelkezése nem alkalmazható abban az esetben, ha az utazásra vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti;
+19. a hivatali, üzleti utazás esetén az utazásra, a szállás díjára, külföldi kiküldetés esetén az utazásra, a szállás díjára fordított kiadás, a külföldi kiküldetéshez kapcsolódó elismert költségekről szóló kormányrendelet és a belföldi hivatalos kiküldetést teljesítő munkavállaló költségtérítéséről szóló kormányrendelet szerint naponta számított igazolás nélkül elismert költség azzal, hogy e pont rendelkezése nem alkalmazható abban az esetben, ha az utazásra vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti;
 
 20. ha az egyéni vállalkozó alkalmazottat foglalkoztat, akkor annak hivatali üzleti utazására is a 19. pont rendelkezései szerint kell eljárni;
 
@@ -200,7 +200,7 @@ n) Az egyéni vállalkozó a kizárólag film- és videogyártást szolgáló g�
 
 o) A tárgyi eszköz üzembe helyezésének (rendeltetésszerű használatba vételének) – az üzembe helyezés elmaradása esetén kiselejtezésének, elidegenítésének vagy a nyilvántartásból bármely más ok miatt történő kivezetésének – időpontjában elszámolt értékcsökkenési leírásnak kell tekinteni – és az egyedi részletező nyilvántartásban is ennek megfelelően kell rögzíteni – a tárgyi eszköz megszerzése vagy előállítása érdekében teljesített beruházási kiadásnak megfelelően a fejlesztési tartalék-nyilvántartásból kivezetett összeget.
 
-p) A 250 főnél kevesebb alkalmazottat foglalkoztató egyéni vállalkozó a korábban még használatba nem vett, a műszaki gépek, berendezések és a – személygépkocsi kivételével – a járművek között nyilvántartott tárgyi eszköznek az üzembe helyezés időpontjára megállapított beruházási költségét az üzembe helyezés adóévében jogosult egy összegben költségként elszámolni, amennyiben a tárgyi eszközt a jogszabályban megnevezett leghátrányosabb térségek, települések valamelyikében helyezi üzembe. Az értékcsökkenési leírásként így figyelembe vett összeg 1 százaléka, jármű esetében 3 százaléka az állami támogatásokra vonatkozó rendelkezések alkalmazásában az egyéni vállalkozó választása szerint
+p) A 250 főnél kevesebb alkalmazottat foglalkoztató egyéni vállalkozó a korábban még használatba nem vett, a műszaki gépek, berendezések és a – személygépkocsi kivételével – a járművek között nyilvántartott tárgyi eszköznek az üzembe helyezés időpontjára megállapított beruházási költségét az üzembe helyezés adóévében jogosult egy összegben költségként elszámolni, amennyiben a tárgyi eszközt szabad vállalkozási zóna területén helyezi üzembe. Az értékcsökkenési leírásként így figyelembe vett összeg 1 százaléka, jármű esetében 3 százaléka az állami támogatásokra vonatkozó rendelkezések alkalmazásában az egyéni vállalkozó választása szerint
 
 pa) agrár csoportmentességi (ABER) támogatásnak vagy mezőgazdasági csekély összegű (de minimis) támogatásnak minősül, ha a beruházás elsődleges mezőgazdasági termelést szolgál,
 
@@ -629,3 +629,65 @@ azzal, hogy a magánszemély az adóév egy negyedévén belül a negyedév els�
 3.
 
 4.
+
+5. A saját tulajdonú nem kizárólag üzemi célú jármű – kivéve a személygépkocsit – beszerzési árával szemben a II. fejezet szerint átalányban érvényesíthető értékcsökkenési leírás. Az 1. pontban nem említett személygépkocsi esetén az átalány szerinti elszámolás a következő módon érvényesíthető: a II. fejezetben említett nyilvántartás vezetése mellett az éves bevételnek 1 százaléka, de legfeljebb egy személygépkocsi beszerzési árának a 10 százaléka vehető figyelembe, illetőleg a hivatkozott pontban meghatározott átalány címén egyébként elszámolt költség ezzel az összeggel növelhető. Egy adott személygépkocsi értéke alapján csak egy ízben, a használatbavétel évében vehető figyelembe ez az átalány. Más költségek az üzemi használattal arányosan számolhatók el az 1. pont vonatkozó rendelkezése szerint.
+
+6. Saját tulajdonú személygépkocsi esetében az üzemanyagköltségen kívül az 5. pontban foglaltak helyett és minden más költség (pl. fenntartás, javítás, felújítás) címén 9 Ft/km (általános személygépkocsi-normaköltség) elszámolása választható.
+
+7. A nem saját tulajdonú kizárólag üzemi célra használt jármű (kivéve a személygépkocsit) esetében elszámolható az üzemi használatra eső
+
+a) igazolt bérleti vagy lízingdíj (ez alól kivételt képez a személygépkocsi bérleti vagy lízingdíja),
+
+b) az 1. pont szerinti üzemanyag-fogyasztás,
+
+c) számla szerinti egyéb költség, amennyiben azok a bérleti szerződés alapján a bérbevevőt terhelik.
+
+8. A személygépkocsi bérleti vagy lízing díja címén a költségként figyelembe vehető összeg több személygépkocsi esetén sem haladhatja meg a vállalkozói bevétel 1 százalékát, egyébként ilyen címen az egyéni vállalkozó költséget nem számolhat el. Az utóbbi rendelkezés alól kivételt képeznek az 1. pontban említett személygépkocsik, amelyek esetében a bérleti díj, illetőleg a vonatkozó rendelkezés szerint a lízing díja elszámolható. A nem saját tulajdonú személygépkocsi üzemi célú használata esetén elszámolható az üzemi használatra eső
+
+a) 1. pont szerinti üzemanyag-fogyasztás,
+
+b) számla szerinti egyéb költség,
+
+amennyiben az a szerződés alapján az egyéni vállalkozót terheli.
+
+9. A költségelszámolás bármelyik módjának alkalmazásánál szükséges járművenként – az 5. számú melléklet II. 7. pontjában meghatározott – külön útnyilvántartás vezetése, továbbá abban járművenként az üzemi célú futás kezdő és záró kilométeróra állásának a feljegyzése. Költség kizárólag az e pont szerint igazolt üzemi célú futásteljesítmény után számolható el, kivéve azt a futásteljesítményt, amelyre nézve az egyéni vállalkozó magánszemélynek kifizető egyébként kiküldetési rendelvény alapján hivatali, üzleti utazás címén bevételnek nem számító költségtérítést fizetett.
+
+10. Az egyéni vállalkozónak az 1. és 6. pont szerinti költségelszámolási módszerek közötti választása valamennyi általa használt személygépkocsira és a teljes adóévre vonatkozik. Amennyiben a személygépkocsi mellett más járműveinek költségeit is elszámolja, az nem zárja ki, hogy az összes személygépkocsijára egységesen alkalmazza a 6. pont szerinti elszámolási módszert. A 7–8. pont szerinti személygépkocsi-használat utáni költségelszámolás esetén a saját tulajdonú személygépkocsira vonatkozóan sem választható a 6. pont szerinti elszámolás.
+
+11. A 9. pontban foglaltaktól eltérően, az egyéni vállalkozó az útnyilvántartás vezetése helyett havi 500 kilométer utat számolhat el átalányban a személygépkocsi használata címén a költségek 6. pont szerinti figyelembevételével, függetlenül az üzemeltetett személygépkocsik számától. Ezt az elszámolási módszert is csak a teljes adóévre – illetőleg az adóéven belül az egyéni vállalkozói tevékenység teljes időtartamára – lehet alkalmazni.
+
+12. Az egyéni vállalkozó a saját tulajdonú gépjármű tulajdonjogát e törvény bizonylatmegőrzésre vonatkozó szabályainak betartásával, a kötelező gépjármű felelősségbiztosítás befizetését igazoló szelvénnyel igazolja.
+
+13.
+
+IV. A jövedelem megállapításakor költségként figyelembe nem vehető kiadások:
+
+1.
+
+2. a pénzügyi ellenőrzés alapján megállapított adórövidítésből, egyéb jogszabály megsértéséből keletkező befizetés (bírság, késedelmi pótlék stb.), kivéve az önellenőrzési pótlékot, és az olyan adóra vonatkozó adóhiányt, amely jogszerű teljesítés esetén egyébként költségként elszámolható lett volna;
+
+3. a bármilyen címen felvett hitelre (kölcsönre) visszafizetett összeg;
+
+4. azok a befizetési kötelezettségek, amelyekkel összefüggésben a magánszemély adócsökkentést vett igénybe;
+
+5. a tagdíjak, ha törvény másként nem rendelkezik;
+
+6. a közcélú adományok;
+
+7. azok a kiadások, amelyek az I–III. fejezetben és az általános, valamint a vállalkozói tevékenységre vonatkozó rendelkezések között említett költségek esetében az ott leírt rendelkezéseknek (mértékek, feltételek stb.) nem felelnek meg;
+
+8. az egyéni vállalkozó személyi jövedelemadója, vállalkozói személyi jövedelemadója és a vállalkozói osztalékalap után fizetett személyi jövedelemadója;
+
+9. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint nem megállapodás alapján fizetett saját nyugdíjjárulék és egészségbiztosítási járulék, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint nem megállapodás alapján és nem kiegészítésként fizetett saját tagdíj;
+
+10. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint megállapodás alapján nyugellátásra jogosító szolgálati idő és nyugdíjalapot képező jövedelem szerzése céljából a saját maga javára fizetett összeg, a magánnyugdíjról és a magánnyugdíjpénztárakról szóló törvény rendelkezései szerint megállapodás alapján a saját maga javára fizetett magánnyugdíjpénztári tagdíj és annak kiegészítése;
+
+11. a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló törvény rendelkezései szerint megállapodás alapján fizetett egészségbiztosítási járulék;
+
+12. az értékcsökkenési leírás alapjába beszámító, a tárgyi eszköz, a nem anyagi javak üzembe helyezéséig felmerült kiadás, valamint a felújítási költséget képező kiadások, ha azokkal az egyéni vállalkozó az értékcsökkenési leírás alapját növeli;
+
+13. a vissza nem térítendő munkáltatói támogatás, ide nem értve a lakáscélú munkáltatói támogatást (1. számú melléklet 2. pont 2.7. alpont), valamint a magánszemélynek segély címén juttatott összeget;
+
+14. a magánszemély bevétele (jövedelme) után külföldön megfizetett, a személyi jövedelemadónak megfelelő adó.
+
+15. az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint létesített munkaviszonyban foglalkoztatott részére a vállalkozó által az egy napi munkáért kifizetett munkabérből a minimálbér napi összegének kétszeresét meghaladó mértékű kifizetés.

@@ -18,9 +18,11 @@ g) nemzetközi szerződés hatályában a nem önálló munka, ennek hiányában
 
 h) a nevelőszülői foglalkoztatási jogviszonyban végzett tevékenység,
 
-i) az országgyűlési képviselői tevékenység, valamint
+i) az országgyűlési képviselői tevékenység,
 
-j) a nemzetiségi szószólói tevékenység.
+j) a nemzetiségi szószólói tevékenység, valamint
+
+k) az állami projektértékelői jogviszony.
 
 (2) A nem önálló tevékenységből származó jövedelmet az e tevékenységből származó bevételből a 25–27. § rendelkezései szerint kell kiszámítani.
 

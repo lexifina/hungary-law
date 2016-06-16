@@ -16,7 +16,7 @@ b) jövedelempótló kártérítési járadék, feltéve, hogy a rá irányadó 
 
 1.4. az intézeti vagy állami nevelésbe vett kiskorú családban való gondozásáért, neveléséért, valamint a gyógyintézet által ápolásra kihelyezett beteg gondozásáért a gyógyintézettől kapott díj, illetve térítés;
 
-1.5. az intézeti, állami nevelést követően kapott, jogszabályban meghatározott önálló életkezdési támogatás;
+1.5.
 
 1.6. a fogvatartottnak a fogvatartás ideje alatt a büntetés-végrehajtási szervezetről szóló törvény szerint a büntetés-végrehajtási szerv által biztosított foglalkoztatásából származó bevétele, továbbá a büntetés-végrehajtási szerv által – szakfeladatai körében – a fogvatartott részére adott juttatás, valamint a szociálisan rászoruló szabadult részére nyújtott szociális segély.
 
@@ -176,7 +176,7 @@ a) nappali tagozaton az őt megillető juttatásként kifizetett
 
 – diákotthoni (kollégiumi) elhelyezését kiváltó lakhatási támogatás összege,
 
-b) nappali tagozaton a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
+b) nappali tagozaton a gyakorlati képzés idejére, duális képzés esetén az elméleti és a gyakorlati képzés idejére kifizetett juttatás, díjazás értékéből havonta a hónap első napján érvényes havi minimálbért meg nem haladó része;
 
 c) folyósított Klebelsberg Képzési Ösztöndíj, Magyar Sportcsillagok Ösztöndíj, nemzeti felsőoktatási kiválóság ösztöndíj;
 
@@ -220,7 +220,7 @@ b) a munkáltató a szolgáltatást bármely, vagy – ha a pályázat a jogosul
 
 c) a szolgáltatás igénybevétele nem minősül a tevékenység ellenértékének,
 
-azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekintet alá a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatóhoz kirendelt munkavállaló, az előbbiek és/vagy az elhunyt munkavállaló közeli hozzátartozója, a szakképző iskolai tanuló, a kötelező szakmai gyakorlaton lévő hallgató, a nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló, valamint az utóbbi magánszemély közeli hozzátartozói.
+azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekintet alá a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatóhoz kirendelt munkavállaló, az előbbiek és/vagy az elhunyt munkavállaló közeli hozzátartozója, a szakképző iskolai tanuló, a kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató, a nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló, valamint az utóbbi magánszemély közeli hozzátartozói.
 
 4.26. a szakiskolai és szakközépiskolai képzésbe történő bekapcsolódást célzó, a társadalmi felzárkózást elősegítő „Út a szakmaválasztáshoz” program keretében, európai uniós forrás terhére adományozott tanulói ösztöndíj.
 
@@ -231,6 +231,10 @@ azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekinte
 4.29. a Nemzeti Tehetség Program keretében a kiemelkedően tehetséges fiatalok és a kiemelkedő tehetséggondozó magánszemélyek számára pályázatban meghatározott feltételekkel és módon folyósított ösztöndíj.
 
 4.30. a közfoglalkoztatottakat a közfoglalkoztatottak elhelyezkedési juttatásáról szóló kormányrendelet alapján megillető elhelyezkedési juttatás a kifizetés időpontjától függetlenül.
+
+4.31. a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal által a tudományos fokozattal rendelkező kutatók számára pályázatban meghatározott feltételekkel és módon folyósított ösztöndíj-támogatás;
+
+4.32. a Kormány által alapított, kutató-, fejlesztő- és szellemi központ feladatait ellátó költségvetési szerv által folyósított ösztöndíj.
 
 5.
 
@@ -348,7 +352,7 @@ a) a befektetési eszközzel végzett ügylet nyeresége,
 
 b) a befektetési eszköz hozama, kivéve az osztalékból származó jövedelmet;
 
-7.17. az államháztartás valamely alrendszerének költségvetése terhére és/vagy az Európai Unió valamely pénzügyi alapjából támogatott felnőttképzésben, illetve munkaerőpiaci képzésben résztvevő magánszemély számára jogszabály, pályázat, programterv alapján elnyert forrás felhasználására vonatkozó kötelezettségek betartása mellett nyújtott képzési támogatás (kivéve a keresetkiegészítést és a keresetpótló juttatást), felnőttképzési szolgáltatás, a képzés időszaka alatt juttatott étkezési, közlekedési és szállás költségtérítés, megélhetési támogatás.
+7.17. az államháztartás valamely alrendszerének költségvetése terhére és/vagy az Európai Unió valamely pénzügyi alapjából támogatott felnőttképzésben, illetve munkaerőpiaci képzésben résztvevő magánszemély számára jogszabály, pályázat, programterv alapján elnyert forrás felhasználására vonatkozó kötelezettségek betartása mellett nyújtott képzési támogatás (kivéve a keresetkiegészítést és a keresetpótló juttatást), felnőttképzési szolgáltatás, a képzés időszaka alatt biztosított étkezés, közlekedés, szállás, valamint az ilyen jogcímen adott költségtérítés, megélhetési támogatás.
 
 7.18. jogszabály alapján hitelintézetnél elhelyezett gyámhatósági betét kamata, a gyámhatóság döntése, kötelezése alapján befektetési szolgáltatónál elhelyezett értékpapír kamatjövedelemnek minősülő hozama;
 
@@ -391,6 +395,10 @@ c) a hitelezőkkel kötött megállapodásban, egyezségben, a bíróság által
 7.30. az egyes fogyasztói kölcsönszerződésekből eredő követelések forintra átváltásával kapcsolatos kérdések rendezéséről szóló törvény rendelkezéseinek végrehajtásával összefüggésben megszűnt kötelezettség.
 
 7.31. a magyarországi Holokauszt Emlékévhez kapcsolódó kezdeményezések támogatását célzó Civil Alap – 2014. pályázati program keretében magánszemély részére pályázat alapján elnyert támogatások, függetlenül a kifizetés időpontjától.
+
+7.32. az a magánszemély által megszerzett bevétel, amelyet a tulajdonában álló műemlék más személy – így különösen az érdekkörébe tartozó társas vállalkozás – által történő ingyenes felújítása, jókarbantartása formájában szerez, azzal, hogy e rendelkezés alkalmazásában a magánszemély tulajdonában álló műemlékkel esik egy tekintet alá az a műemlék is, amelyet a magánszemély hosszú távú – 15 évet meghaladó időtartamú – bérleti, vagyonkezelési szerződés alapján jogosult használni;
+
+7.33. az az összeg, amelyet a magánszemély mint kérelmező ügyfél, a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény rendelkezései szerint a hatóság által hozott függő hatályú döntés alapján kap.
 
 8. A nem pénzben kapott juttatások közül adómentes:
 
@@ -502,7 +510,7 @@ b) a kifizető által ugyanazon magánszemélynek az adóévben legfeljebb 50 ez
 
 8.34.
 
-8.35. a helyi és/vagy nemzetiségi önkormányzat, az egyesület, az alapítvány, a közalapítvány, az egyházi jogi személy által a lakosság, a közösség széles körét érintő (nem zártkörű), azonos részvételi feltételekkel szervezett kulturális, hagyományőrző, sport, szabadidős és más hasonló közösségi rendezvényen helyben nyújtott szolgáltatás, helyi fogyasztásra juttatott étel, ital, valamint – legfeljebb a rendezvény összes költségének 10 százalékáig terjedő együttes értékben – résztvevőnként azonos értékű, ajándék.
+8.35. a helyi önkormányzat, a nemzetiségi önkormányzat, az egyesület, az alapítvány,a közalapítvány, az egyházi jogi személy által a lakosság, a közösség széles körét érintő (nem zártkörű), azonos részvételi feltételekkel szervezett kulturális, hagyományőrző, sport, szabadidős és más hasonló közösségi rendezvényen helyben nyújtott szolgáltatás, helyi fogyasztásra juttatott étel, ital, valamint – legfeljebb a rendezvény összes költségének 10 százalékáig terjedő együttes értékben – résztvevőnként azonos értékű ajándék, továbbá az ilyen rendezvényeken ingyenesen közreműködők részére biztosított étkezési szolgáltatás;
 
 8.36. a könyvtári, a levéltári, a múzeumi, az egyéb kulturális, illetve alkotó- vagy előadó-művészeti tevékenységet folytató szervezet tevékenységi körébe tartozó ingyenesen nyújtott szolgáltatása (ide nem értve, ha azt más személy megrendelésére teljesíti);
 
