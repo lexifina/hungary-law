@@ -6,7 +6,7 @@
 
 Tbj. 44. § (1) A 4. § szerinti foglalkoztató, az egyéni vállalkozó, az őstermelő, valamint az 56/A. § szerinti munkavállaló, foglalkoztatott (a továbbiakban együtt: nyilvántartásra kötelezett) kötelesek a jogszabályban meghatározott nyilvántartás vezetésére és az Art. 31. §-ának (2) bekezdésében meghatározott adatokról a bevallásukban adatszolgáltatás teljesítésére.
 
-(2) A mezőgazdasági őstermelő az 5. § (1) bekezdésének i) pontjában meghatározott körülmények fennállásáról az őstermelői igazolvány igénylésével, illetőleg a családi gazdaság nyilvántartásba vétele iránti kérelem benyújtásával egyidejűleg nyilatkozik a mezőgazdasági igazgatási szervnek. A mezőgazdasági őstermelő a biztosítási kötelezettségét érintő változást annak bekövetkezését követő 15 napon belül jelenti be az állami adóhatóságnak.
+(2)
 
 (3) A foglalkoztató a biztosítási jogviszonnyal kapcsolatos bejelentési kötelezettségét az Art. 16. §-ában foglaltaknak megfelelően az állami adóhatóságnak teljesíti.
 

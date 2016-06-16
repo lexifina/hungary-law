@@ -1,3 +1,1 @@
 Tbj. 65/E. § Az esedékességet követően a 2015. január 1-jét megelőző időszakra kifizetett (juttatott) járulékalapot képező jövedelmekre a 2014. december 31-én hatályos 18. § (1) bekezdés e) pontját, 19. § (6) bekezdését, 20/A. §-át, 27. § (5) bekezdését, 29. § (8) bekezdését, valamint az egyes adótörvények módosításáról szóló 2007. évi CXXVI. törvény XXVII. Fejezetét kell alkalmazni.
-
-## Melléklet az 1997. évi LXXX. törvényhez

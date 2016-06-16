@@ -12,4 +12,4 @@ Tbj. 41. § (1) A 40. §-ban említett nyilvántartások tartalmazzák a fogla
 
 (6) Az állami adóhatóság a (3) bekezdésben foglaltakon túl az Art. 16. §-ának (3) bekezdése a)–i) pontjában meghatározott adatokat a társadalombiztosítási igazgatási szervnek átadja. Amennyiben a felhasználás során a felhasználó igazgatási szervnek eltérő tény, adat jut tudomására, erről köteles az állami adóhatóságot értesíteni.
 
-(7) A mezőgazdasági igazgatási szerv a mezőgazdasági őstermelő biztosítási kötelezettségét érintő, nyilvántartásában szereplő új adatokról, az adatok változásáról a járulékfizetési kötelezettség ellenőrzése érdekében negyedévenként, a negyedévet követő hónap 20. napjáig adatot szolgáltat az állami adóhatóságnak. Az adatszolgáltatás tartalmáról és módjáról az állami adóhatóság megállapodást köt a mezőgazdasági igazgatási szervvel.
+(7)

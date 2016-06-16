@@ -6,6 +6,6 @@ Tbj. 54. § (1) Az igazgatási szervek – jogszabályban meghatározott hatá
 
 a) a járulék utólagos megállapítása nélkül az egészségbiztosítási szerv,
 
-b) a járulék utólagos megállapítása mellett az állami adóhatóság jogosult. A határozat elleni jogorvoslatra a Tny. tv., az Eb. tv., illetőleg az Art. rendelkezéseit kell megfelelően alkalmazni.
+b) a biztosítottat terhelő járulék, foglalkoztatottnak minősülő biztosított esetében a foglalkoztatót terhelő járulék utólagos megállapítása mellett az állami adóhatóság jogosult. A határozat elleni jogorvoslatra a Tny. tv., az Eb. tv., illetőleg az Art. rendelkezéseit kell megfelelően alkalmazni.
 
 (3) A (2) bekezdés a) pontjában meghatározott igazgatási szervek – igényelbírálási eljárásuk során – ellenőrizhetik a járulékfizetési kötelezettség teljesítését és a mulasztásról értesítik az állami adóhatóságot.
