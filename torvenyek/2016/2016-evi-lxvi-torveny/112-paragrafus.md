@@ -1,0 +1,7 @@
+112. § Az Itv. „Hatálybaléptető és átmeneti rendelkezések” alcíme a következő 99/L–99/N. §-sal egészül ki:
+
+„99/L. § Ha a végrehajtást kérő a jegyző – illetékmentesen kiállított – okiratával igazolja, hogy az eljárási illetéket a lakóingatlan lefoglalásának bejelentésével összefüggésben fizette meg, akkor a megfizetett illetéket kérelmére az állami adóhatóság visszatéríti.
+
+99/M. § Ha a cég a cégbíróság változásbejegyző végzésével, továbbá a legfőbb szerv tőkeemelésről és a cég Polgári Törvénykönyv szerinti továbbműködéséről szóló határozatának másolatával igazolja, hogy az eljárási illetéket a Polgári Törvénykönyv rendelkezéseinek való megfelelés érdekében kezdeményezett tőkeemelés – 2014. március 15. és 2016. március 9. között történő – bejelentése és e tőkeemelés bejelentésével egyidejűleg bejelentett más változás bejegyzése iránti eljárás után fizette meg, akkor a megfizetett illetékből a Polgári Törvénykönyv szerinti továbbműködéséhez nem kapcsolódó változásbejegyzés illetékét meghaladó részt a – legkésőbb 2017. március 15-éig előterjesztett – kérelmére az állami adóhatóság visszatéríti.
+
+99/N. § A 26. § (1) bekezdés p) pontjának az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított rendelkezését a hatálybalépése napján az állami adóhatóság által jogerősen még el nem bírált illetékügyekben is alkalmazni kell.”

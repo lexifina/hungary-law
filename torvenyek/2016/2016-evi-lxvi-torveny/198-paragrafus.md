@@ -1,0 +1,5 @@
+198. § Az Art. a következő 223. §-sal egészül ki:
+
+„223. § (1) Az adószámmal nem rendelkező adózó a 2015. december 31-ig jogerőre emelkedett, adó feltételes megállapítását tartalmazó határozat alapjául szolgáló tényállás megvalósulására irányuló ellenőrzés iránti kérelmet nyújthat be az adóhatósághoz 2016. július 31-ig. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye. Az ellenőrzést az adóhatóság a kérelem benyújtását követő két hónapon belül megindítja.
+
+(2) Ha az (1) bekezdés szerint az adózó kérelmére megindított ellenőrzés során az adóhatóság azt állapította meg, hogy a feltételes adómegállapítás az adóhatóságra a tényállás megváltozása miatt nem kötelező, akkor az ellenőrzést lezáró határozatában megállapítja a feltételes adómegállapítás iránti kérelemben meghatározott ügylet keretében az adózó által 2015. december 31-ig megszerzett, a jövedelemszerzés időpontjában hatályos jogszabályi rendelkezések szerint adóköteles jövedelmet terhelő adót is. Az adót az adóhatóság a jövedelemszerzés időpontjában hatályos jogszabályok szerinti legalacsonyabb adómérték szerint állapítja meg.”

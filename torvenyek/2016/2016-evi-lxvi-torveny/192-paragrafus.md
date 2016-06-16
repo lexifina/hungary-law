@@ -1,0 +1,3 @@
+192. § Az Art. a következő 181/C. §-sal egészül ki:
+
+„181/C. § E törvény 52. § (12) bekezdésének és 7. számú melléklet 1–18. pontjának az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló törvénnyel (a továbbiakban: Módtv.5) történő hatályon kívül helyezése, valamint a Módtv.5-tel megállapított 7. számú melléklet 19. pontja a megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003/48/EK irányelv hatályon kívül helyezéséről szóló, 2015. november 10-i 2015/2060/EU tanácsi irányelvnek való megfelelést szolgálja.”

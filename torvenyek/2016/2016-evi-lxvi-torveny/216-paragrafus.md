@@ -1,0 +1,3 @@
+216. § Az Szt. 154. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) Közzétételi kötelezettségének azzal tesz eleget a vállalkozó, a külföldi székhelyű vállalkozás magyarországi fióktelepe, ha az éves beszámolót, az egyszerűsített éves beszámolót, az anyavállalat az összevont (konszolidált) éves beszámolót, kötelező könyvvizsgálat esetén a könyvvizsgálói záradékot vagy a záradék megadásának elutasítását is tartalmazó független könyvvizsgálói jelentéssel együtt a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvényben meghatározott módon a céginformációs szolgálatnak megküldi.”

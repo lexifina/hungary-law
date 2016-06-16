@@ -1,0 +1,1 @@
+265. § A 26. § 10. pontja és 4. számú melléklet 2. pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187 2014.06.26. 1–78. o.) 1–14. és 17. cikkei hatálya alá tartozó támogatást tartalmaz.

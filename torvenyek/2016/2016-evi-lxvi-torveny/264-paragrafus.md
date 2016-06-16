@@ -1,0 +1,1 @@
+264. § A 27. § (1) bekezdés 2. pont, a 199. § (2) bekezdés, a 201. § (1) bekezdés 1. és 4. pont a megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003/48/EK irányelv hatályon kívül helyezéséről szóló 2015/2060/EU tanácsi irányelvnek való megfelelést szolgálja.

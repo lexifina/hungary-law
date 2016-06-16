@@ -1,0 +1,3 @@
+132. § A Tbj. 45. §-a helyébe a következő rendelkezés lép:
+
+„45. § A kisadózó vállalkozások tételes adójának alanya a biztosítási kötelezettségének bejelentését a kisadózó vállalkozások tételes adójáról és a kisvállalati adóról szóló törvényben meghatározottak szerint a főállású kisadózói státuszának bejelentésével teljesíti.”
