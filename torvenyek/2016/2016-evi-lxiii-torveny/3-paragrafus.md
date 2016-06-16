@@ -1,1 +1,0 @@
-3. § A Kbt. 5. § (3) bekezdés nyitó szövegrészében a „támogatásból megvalósuló beszerzés” szövegrész helyébe a „vissza nem térítendő támogatásból – ide nem értve a kombinált pénzügyi eszközöket – megvalósuló beszerzés” szöveg lép.
