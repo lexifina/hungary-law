@@ -1,0 +1,1 @@
+A Kormány a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 30. § (10) bekezdésében kapott felhatalmazás alapján, Magyarország Alaptörvénye 15. cikk (3) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
