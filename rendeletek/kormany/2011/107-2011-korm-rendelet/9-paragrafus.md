@@ -28,9 +28,9 @@ d) a támogatás végső kedvezményezettje a Tao. tv. 22/C. § (5) bekezdéséb
 
 (10)[^68] A támogatott szervezet a támogatást kizárólag a jóváhagyó szervezet által kiállított igazolásban vagy támogatási igazolásban meghatározottak szerinti jogcímre, az abban meghatározott mértékben használhatja fel. A támogatott szervezet az önrészt a sportfejlesztési program megvalósításával összhangban, a szükséges mértékben úgy köteles rendelkezésre bocsátani, hogy annak teljes összege a támogatási időszakban felhasználásra kerüljön.
 
-(11)[^69] A támogató a támogatás juttatásáért a támogatott szervezet részéről semmilyen ellenszolgáltatásra nem jogosult, az ezzel ellentétes megállapodás semmis. Ilyen megállapodás esetén a támogató nem jogosult a Tao. tv. 22/C. § (2) bekezdése szerinti adókedvezmény igénybevételére sem.
+(11)[^69]
 
-(12)[^70] A támogató a szponzori szerződés keretében történő kiegészítő sportfejlesztési támogatás juttatásáért a támogatott szervezet részéről ellenszolgáltatásra jogosult. Az erre vonatkozó szerződés a támogató Tao. tv. 22/C. § (2) bekezdésében meghatározott adókedvezmény igénybevételére való jogosultságát nem érinti.
+(12)[^70]
 
 [^61]: A 9. § (1) bekezdése a 134/2013. (V. 9.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 96/2016. (V. 2.) Korm. rendelet 12. § j) pontja szerint módosított szöveg.
 [^62]: A 9. § (2) bekezdés a) pontja a 96/2016. (V. 2.) Korm. rendelet 12. § k) pontja szerint módosított szöveg.
@@ -40,5 +40,5 @@ d) a támogatás végső kedvezményezettje a Tao. tv. 22/C. § (5) bekezdéséb
 [^66]: A 9. § (6) bekezdése a 76/2012. (IV. 13.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 96/2016. (V. 2.) Korm. rendelet 12. § k) pontja szerint módosított szöveg.
 [^67]: A 9. § (7) bekezdése a 96/2016. (V. 2.) Korm. rendelet 12. § l) pontja szerint módosított szöveg.
 [^68]: A 9. § (10) bekezdése a 76/2012. (IV. 13.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 96/2016. (V. 2.) Korm. rendelet 12. § m) pontja szerint módosított szöveg.
-[^69]: A 9. § (11) bekezdése a 134/2013. (V. 9.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^70]: A 9. § (12) bekezdését a 134/2013. (V. 9.) Korm. rendelet 4. § (4) bekezdése iktatta be.
+[^69]: A 9. § (11) bekezdését a 162/2016. (VI. 15.) Korm. rendelet 1. §-a hatályon kívül helyezte.
+[^70]: A 9. § (12) bekezdését a 134/2013. (V. 9.) Korm. rendelet 4. § (4) bekezdése iktatta be, hatályon kívül helyezte a 162/2016. (VI. 15.) Korm. rendelet 1. §-a.

@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-107-20-
 | 2015-06-30 | 2011-107-20-22.15 | 170/2015. (VI. 30.) Korm. rendelet |
 | 2016-05-03 | 2011-107-20-22.16 | 96/2016. (V. 2.) Korm. rendelet |
 | 2016-06-14 | 2011-107-20-22.17 | 170/2015. (VI. 30.) Korm. rendelet |
+| 2016-06-16 | 2011-107-20-22.18 | 162/2016. (VI. 15.) Korm. rendelet |
