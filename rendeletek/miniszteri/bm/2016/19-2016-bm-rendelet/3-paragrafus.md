@@ -1,3 +1,0 @@
-## „(5) Nem szükséges a (4) bekezdés szerinti tervezői jogosultság igazolása a vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet 24. § (1) bekezdés a) pontja szerinti engedélyezési eljárások esetében, ha a kút kivitelezője a felszín alatti vízkészletekbe történő beavatkozás és a vízkútfúrás szakmai követelményeiről szóló 101/2007. (XII. 23.) KvVM rendelet 13. § (2) bekezdés szerinti végzettséggel rendelkezik.
-
-## (6) A vízgazdálkodási hatósági jogkör gyakorlásáról szóló 72/1996. (V. 22.) Korm. rendelet 24. § (1) bekezdés a) pontjának hatálya alá nem tartozó kút iránti kérelemhez a 2. számú melléklet I/B.) pontja szerinti tervet kell csatolni.”

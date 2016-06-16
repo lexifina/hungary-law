@@ -1,3 +1,0 @@
-## 6. § Az R1. a következő 12/A. §-sal egészül ki:
-
-## „12/A. § E rendeletnek az egyes vízgazdálkodási tárgyú miniszteri rendeletek módosításáról szóló 19/2016. (VI. 8.) BM rendelettel (a továbbiakban: Mód. R. 1.) megállapított 1. § e) pontját, 2. § (1) bekezdés d), i), f) és k) pontját, (2) bekezdését, (3) bekezdés b) pontját, (5) és (6) bekezdését, 3. § (3) bekezdését, 5/A. §-át, 6. § k) pont kc) alpontját, 2. számú melléklet I/A. fejezet 1. pont e) pont ee) alpontját és I/B. fejezet 7. pontját, 5. számú mellékletét a Mód. R. 1. hatálybalépésekor első fokon még el nem bírált ügyekben és a megismételt eljárásokban is alkalmazni kell.”
