@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-5-00-00
 | 2015-04-01 | 2015. évi VI. törvény | 2006-5-00-00.48 |
 | 2015-09-01 | 2015. évi CVII. törvény | 2006-5-00-00.49 |
 | 2016-01-01 | 2015. évi CXCIV. törvény | 2006-5-00-00.50 |
+| 2016-06-16 | 2016. évi LXVI. törvény | 2006-5-00-00.51 |
