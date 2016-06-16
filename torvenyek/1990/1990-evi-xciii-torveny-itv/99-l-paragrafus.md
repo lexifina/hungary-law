@@ -1,0 +1,1 @@
+99/L. § Ha a végrehajtást kérő a jegyző – illetékmentesen kiállított – okiratával igazolja, hogy az eljárási illetéket a lakóingatlan lefoglalásának bejelentésével összefüggésben fizette meg, akkor a megfizetett illetéket kérelmére az állami adóhatóság visszatéríti.

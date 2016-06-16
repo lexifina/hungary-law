@@ -8,7 +8,7 @@ b) ingatlan:a föld és a földdel alkotórészi kapcsolatban álló minden dolo
 
 c) ingó: a fizetőeszköz, az értékpapír, a gazdálkodó szervezetben fennálló vagyoni betét, valamint mindaz, ami ingatlannak nem minősülő dolog;
 
-d) vagyoni értékű jog: a földhasználat, a haszonélvezet, a használat joga – ideértve az üdülőhasználati jogot és a szállás időben megosztott használati jogát is –, továbbá a vagyonkezelői jog, az önálló orvosi tevékenység praxisjoga, az üzembentartói jog, továbbá ingyenes vagyonszerzés esetén a követelés;
+d) vagyoni értékű jog: a földhasználat, a haszonélvezet, a használat joga – ideértve az üdülőhasználati jogot és a szállás időben megosztott használati jogát is –, továbbá a vagyonkezelői jog, az üzembentartói jog, továbbá ingyenes vagyonszerzés esetén a követelés;
 
 e) forgalmi érték: az a pénzben kifejezett érték, amely a vagyontárgy eladása esetén az illetékkötelezettség keletkezésekor volt állapotában – a vagyontárgyat terhelő adósságok, továbbá az ingatlanon a vagyonszerző javára az elidegenítéskor megszűnő bérleti jog figyelembevétele nélkül – árként általában elérhető, azzal, hogy:
 
@@ -54,7 +54,7 @@ od) ha a megszerzett gazdálkodó szervezet és az ingatlantulajdonnal rendelkez
 
 oe) a részesedés arányának meghatározásakor a közvetlen és közvetett részesedéseket együttesen kell figyelembe venni;
 
-p)
+p) használatbavételi engedély: az épített környezet alakításáról és védelméről szóló törvény szerinti használatbavételi engedély és az egyszerű bejelentéshez kötött épület felépítésének megtörténtét tanúsító hatósági bizonyítvány;
 
 r) természeti katasztrófa: az ár- és belvíz, a földcsuszamlás, valamint a földrengés;
 

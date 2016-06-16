@@ -1,0 +1,1 @@
+99/N. § A 26. § (1) bekezdés p) pontjának az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított rendelkezését a hatálybalépése napján az állami adóhatóság által jogerősen még el nem bírált illetékügyekben is alkalmazni kell.

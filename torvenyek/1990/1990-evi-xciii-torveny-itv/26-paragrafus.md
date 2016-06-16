@@ -40,13 +40,13 @@ n) a birtokösszevonási célú földcsere keretében létrejött megállapodás
 
 o) az ügyvédi iroda olyan átalakulással (egyesülés,szétválás) bekövetkező vagyonszerzése, amikor a létrejövő iroda (irodák) a korábbinak jogutódja(i) lesz(nek);
 
-p) a termőföldnek a földműves általi, ellenérték fejében történő megszerzése, feltéve, ha a birtokbaadástól, de legkésőbb az illetékkötelezettség keletkezését követő 12. hónap utolsó napjától számítva 5 évig
+p) a termőföldnek a földműves általi, ellenérték fejében történő megszerzése, feltéve, ha a birtokbaadástól, de legkésőbb az illetékkötelezettség keletkezését követő 12. hónap utolsó napjától – vagyoni értékű joggal terhelt termőföld szerzése esetén a vagyoni értékű jog megszűnésétől, megszüntetésétől, de legkésőbb az illetékkötelezettség keletkezését követő 5. év utolsó napjától – számítva 5 évig
 
 pa) a termőföld tulajdonjogát nem idegeníti el,
 
 pb) a termőföldön vagyoni értékű jogot nem alapít, és
 
-pc) a termőföldet egyéni vállalkozóként, mezőgazdasági őstermelőként vagy családi gazdálkodóként mező-, illetve erdőgazdasági tevékenység céljára hasznosítja.
+pc) a termőföldet egyéni vállalkozóként, mezőgazdasági őstermelőként vagy családi gazdálkodóként mező-, illetve erdőgazdasági tevékenység céljára hasznosítja;
 
 q) ingatlannak, illetve a 18. § (2) bekezdésének h) pontja szerinti vagyoni betétnek a társasági adóról és az osztalékadóról szóló törvény szerinti kedvezményezett eszközátruházás keretében történő átruházása, az alábbi feltételek együttes teljesülése esetén:
 
@@ -86,7 +86,7 @@ származik.
 
 (1a) Mentes a visszterhes vagyonátruházási illeték alól:
 
-a) a gépjárműadóról szóló törvény szerinti autóbusz, nyerges vontató és tehergépjármű, továbbá a pótkocsi gazdálkodó szervezet általi megszerzése;
+a) a gépjárműadóról szóló törvény szerinti autóbusz, nyerges vontató és tehergépjármű, továbbá a pótkocsi tulajdonjogának, vagyoni értékű jogának gazdálkodó szervezet általi megszerzése;
 
 b) a lakástulajdon magánszemély bérlő vagy annak magánszemély örököse általi megvásárlása, ha a lakás a lakásbérleti szerződés megkötéséig a magánszemély bérlő tulajdonában állt, és a tulajdonjogot a lakásbérleti szerződés megkötése érdekében adták át a bérbeadónak;
 
@@ -140,11 +140,11 @@ b) a gépjármű-forgalmazást a nyilatkozattétel adóévében kezdő vállalko
 
 (11) Abban az esetben, ha a 23/A. § szerinti kedvezményes illetékmérték alkalmazására egyébként jogosult vagyonszerző valamely ingatlan szerzésével kapcsolatban az (1) bekezdés a) pontjában meghatározott nyilatkozatot tesz, ezen illetékkötelezettségére a továbbiakban kizárólag e nyilatkozathoz kapcsolódó rendelkezések vonatkoznak. Ilyen esetben erre a vagyonszerzésre a 23/A. § rendelkezései nem alkalmazhatók.
 
-(12) Mentes a visszterhes vagyonátruházási illeték alól az önálló orvosi tevékenység praxisjogának megszerzése, ha az átruházó az önálló orvosi tevékenységről szóló törvény erejénél fogva, az említett törvény hatálybalépésétől volt jogosult az önálló orvosi tevékenység gyakorlására. Az illetékmentességre való jogosultságot az önálló orvosi tevékenység praxisjogát szerző magánszemélynek kell igazolnia az állami adóhatóságnál legkésőbb a fizetési meghagyás jogerőre emelkedéséig.
+(12)
 
 (13) Az (1) bekezdés f) pontjában meghatározott mentesség, illetve kedvezmény feltételeinek teljesülését – amennyiben az az adásvételi szerződésből nem állapítható meg – a vagyonszerzőnek kell az állami adóhatóságnál a vállalkozó e feltételek teljesüléséről szóló nyilatkozatával igazolni legkésőbb a fizetési meghagyás jogerőre emelkedéséig.
 
-(14) Az állami, helyi önkormányzati tulajdonban lévő forgalomképtelen műemlék vagy műemléki jellegű ingatlan (ingatlan együttes) haszonélvezeti jogának, az ingatlan helyreállítása, fejlesztése és az ezt követő állagmegóvása ellenében történő megszerzése esetén visszterhes vagyonátruházási illetéket nem kell fizetni.
+(14) Az állami, helyi önkormányzati tulajdonban lévő forgalomképtelen műemlék ingatlan (ingatlan együttes) haszonélvezeti jogának, az ingatlan helyreállítása, fejlesztése és az ezt követő állagmegóvása ellenében történő megszerzése esetén visszterhes vagyonátruházási illetéket nem kell fizetni.
 
 (15) A magánszemély vagyonszerző első lakástulajdonának (tulajdoni hányadának) megszerzése esetén az állami adóhatóság a vagyonszerző kérelmére – a kérelemben megjelölt időtartamra, de legfeljebb az esedékességtől számított 12 hónapra – havonként egyenlő részletekben teljesítendő pótlékmentes részletfizetést engedélyez. Ha a vagyonszerző az esedékes részlet befizetését nem teljesíti, a tartozás egy összegben esedékessé válik. Ez esetben az állami adóhatóság a tartozás fennmaradó részére az eredeti esedékesség napjától késedelmi pótlékot számít fel.
 
@@ -160,17 +160,27 @@ E rendelkezés alkalmazásában hivatásos sportszervezetnek minősül a nem lá
 
 (17) Ha az (1) bekezdés i) és r) pontjaiban meghatározott vagyonszerző, illetve az (1) bekezdés r) pontjában meghatározott vagyonszerzőnek a sportcélú ingatlan létesítésére e törvény alapján köteles jogutódja a (16) bekezdésben meghatározott esetben a de minimis támogatás, illetve a regionális beruházási támogatás feltételeinek nem felel meg, a mentesség alkalmazásának hiányában járó illeték, illetve a megállapított, de meg nem fizetett illeték megfizetésére a 87. § (4)–(5) bekezdéseit kell megfelelően alkalmazni.
 
-(18) Az (1) bekezdés p) pontja szerinti illetékmentesség alkalmazásában nem minősül elidegenítésnek a kisajátítás, a kisajátítás alapjául szolgáló közérdekű célra történő elidegenítés és a birtokösszevonási célú földcsere, továbbá nem minősül vagyoni értékű jog alapításának a termőföld használatának, hasznosításának közeli hozzátartozó javára történő átengedése, feltéve, hogy a közeli hozzátartozó a vagyonszerző helyett földművesként mező-, illetve erdőgazdasági tevékenység céljára hasznosítja a termőföldet, és az 5 éves időtartam hátralévő részében az (1) bekezdés p) pontja szerinti feltételeket vállalja.
+(18) Az (1) bekezdés p) pontja szerinti illetékmentesség alkalmazásában
+
+a) nem minősül elidegenítésnek
+
+aa) a kisajátítás,
+
+ab) a kisajátítás alapjául szolgáló közérdekű célra történő elidegenítés és
+
+ac) a birtokösszevonási célú földcsere,
+
+b) nem minősül az (1) bekezdés p) pont pb)–pc) alpontjaiban foglalt feltételek megszegésének a termőföld használatának, hasznosításának a Polgári Törvénykönyv szerinti közeli hozzátartozó (a továbbiakban e bekezdés alkalmazásában: közeli hozzátartozó) javára történő átengedése, feltéve, hogy a vagyonszerző helyett a közeli hozzátartozó földművesként mező-, illetve erdőgazdasági tevékenység céljára hasznosítja a termőföldet, és az 5 éves időtartam hátralévő részében az (1) bekezdés p) pontja szerinti feltételeket vállalja.
 
 (18a) Az (1) bekezdés p) pontja szerinti feltételek vállalásáról a vagyonszerzőnek legkésőbb a fizetési meghagyás jogerőre emelkedéséig kell nyilatkoznia az állami adóhatóságnál. Ha a vagyonszerző az eredetileg vállalt 5 év letelte előtt
 
 a) a termőföldet – a (18) bekezdésben meghatározott tulajdonszerzési módok kivételével – elidegeníti,
 
-b) a termőföldön – használatának, hasznosításának a (18) bekezdésben meghatározott közeli hozzátartozója javára, az ott meghatározott módon történő átengedése kivételével – vagyoni értékű jogot alapít, vagy
+b) a termőföldön – használatának, hasznosításának a (18) bekezdés szerinti közeli hozzátartozója javára, az ott meghatározott módon történő átengedése kivételével – vagyoni értékű jogot alapít, vagy
 
-c) a termőföldet saját maga vagy a (18) bekezdésben meghatározott közeli hozzátartozója igazolhatóan nem mező-, illetve erdőgazdasági tevékenység céljára hasznosítja,
+c) a termőföldet saját maga vagy a (18) bekezdés szerinti közeli hozzátartozója igazolhatóan nem mező-, illetve erdőgazdasági tevékenység céljára hasznosítja,
 
-az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyonszerző elhalálozásának az esetét. Ha a vagyonszerző vagy a (18) bekezdésben meghatározott közeli hozzátartozója által vállalt feltételek csak a termőföld meghatározott tulajdoni hányada tekintetében teljesültek, az egyébként járó illeték kétszeresét kizárólag azon tulajdoni hányad vonatkozásában kell megfizetni, amelyre a feltételek nem teljesültek.
+az egyébként járó illeték kétszeresét kell megfizetnie, kivéve a vagyonszerző elhalálozásának az esetét. Ha a vagyonszerző vagy a (18) bekezdés szerinti közeli hozzátartozója által vállalt feltételek csak a termőföld meghatározott tulajdoni hányada tekintetében teljesültek, az egyébként járó illeték kétszeresét kizárólag azon tulajdoni hányad vonatkozásában kell megfizetni, amelyre a feltételek nem teljesültek.
 
 (19) Az (1) bekezdés y) pontja szerinti illetékmentesség alkalmazása során, ha a magánszemély egy éven belül több lakástulajdont cserél, vásárol, illetve értékesít, minden egyes lakáscserével, lakásvásárlással szemben – a szerzést közvetlenül megelőző vagy követő, azonos jogcímű – egyetlen értékesítést lehet figyelembe venni. Az (1) bekezdés y) pontja szerinti illetékmentesség, valamint e bekezdés alkalmazása során nem minősül tehernek a lakástulajdonhoz kapcsolódó haszonélvezet, használat joga. Az (1) bekezdés y) pontjában meghatározott illetékmentességi rendelkezést lakástulajdonhoz kapcsolódó vagyoni értékű jog magánszemélyek általi megszerzésekor megfelelően kell alkalmazni.
 

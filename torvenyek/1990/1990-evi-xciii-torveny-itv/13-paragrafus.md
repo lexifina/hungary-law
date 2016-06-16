@@ -12,6 +12,6 @@
 
 (6) Ha a hagyatékban, ajándékban, gépjármű, illetőleg pótkocsi is van, ennek értékét az egyéb hagyaték, ajándék tiszta értékének kiszámításánál figyelmen kívül kell hagyni.
 
-(7) Az önálló orvosi tevékenység praxisjogának ajándékozása esetén az illeték alapja a praxisjognak – terhekkel nem csökkentett – értéke.
+(7)
 
 (8)

@@ -4,7 +4,7 @@
 
 (2) Ingatlanok tulajdonjogának cseréje esetén az illeték alapja — a 21. §-ban foglaltak kivételével — a cserével megszerzett ingatlan forgalmi értéke.
 
-(3) Az önálló orvosi tevékenység praxisjogának megszerzése esetén az illeték alapja a működtetési jognak – terhekkel nem csökkentett – értéke.
+(3)
 
 (4) Tartási, életjáradéki vagy öröklési szerződés alapján történő vagyonszerzés esetén az illeték alapja a megszerzett vagyon forgalmi értéke.
 

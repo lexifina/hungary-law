@@ -58,7 +58,7 @@ IV. A másolat és kivonat illetéke
 
 2. Illetékmentes – az elektronikus úton benyújtott adóbevallások kivételével – az adóbevallás másolata.
 
-3.
+3. Illetékmentes a feljelentő részére a szóban tett feljelentésről készített jegyzőkönyv másolatának, az írásban tett feljelentés megtételét igazoló irat másolatának, továbbá a sértett részére a kihallgatásáról, valamint a sértett lakóhelyén, tartózkodási helyén, továbbá a bűncselekmény, szabálysértés helyszínén folytatott helyszíni szemléről készült jegyzőkönyv másolatának egyszeri kiadása.
 
 4. Illetékmentes az a hitelesített vagy nem hitelesített másolat, amely illetékmentes eljáráshoz szükséges.
 

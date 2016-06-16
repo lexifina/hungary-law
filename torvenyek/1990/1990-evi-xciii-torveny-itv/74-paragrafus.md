@@ -1,6 +1,6 @@
 ## A bírósági eljárási illeték megfizetése
 
-74. § (1) A bírósági eljárási illetéket illetékbélyeggel az eljárást kezdeményező iraton kell megfizetni, kivéve, ha jogszabály más fizetési módot is megenged, vagy ha az illeték viseléséről a bíróság az eljárást befejező határozatában dönt.
+74. § (1) A bírósági eljárási illetéket – a technikai feltételek megléte esetén – elektronikus fizetési és elszámolási rendszeren keresztül vagy illetékbélyeggel az eljárást kezdeményező iraton kell megfizetni, kivéve, ha jogszabály más fizetési módot is megenged, vagy ha az illeték viseléséről a bíróság az eljárást befejező határozatában dönt.
 
 (1a) A 10 000 forintot meghaladó eljárási illeték kiszabás alapján készpénz-átutalási megbízás útján vagy az állami adóhatóság által meghatározott számlaszámra átutalással, illetve amennyiben erre lehetőség van, bankkártyával is megfizethető. Ebben az esetben az illetékköteles iratot annak egy másolatával az illetékes állami adóhatósághoz kell benyújtani. Az állami adóhatóság az irat illetékkiszabásra történő bemutatását az eredeti iraton igazolja, és arra felvezeti az ügy adóhatósági ügyszámát is. Az állami adóhatóság az e bejelentés alapján hozott fizetési meghagyást – annak jogerőre emelkedését követő 8 munkanapon belül – az eljáró bíróságnak is megküldi.
 

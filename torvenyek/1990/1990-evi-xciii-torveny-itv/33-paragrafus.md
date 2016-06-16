@@ -82,7 +82,7 @@ történik a kiállítása;
 
 22. a költségmentesség engedélyezése iránti eljárás, valamint a költségmentesség feltételei fennállásának igazolásához kiállított irat;
 
-23. az adó és járulék ügyben az adóhatóságnál, vámigazgatási ügyben a vámhatóságnál kezdeményezett első fokú eljárás – ideértve más hatóság adó, adó jellegű kötelezettség megállapításával kapcsolatos ilyen eljárását is –, kivéve az adó-, a vám-, az illeték- és a társadalombiztosítási kötelezettség teljesítéséről szóló igazolás kiadása, valamint az adó- és értékbizonyítvány kiállítása iránt kezdeményezett eljárást;
+23. az adó és járulék ügyben az adóhatóságnál, vámigazgatási ügyben a vámhatóságnál kezdeményezett első fokú eljárás – ideértve más hatóság adó, adó jellegű kötelezettség megállapításával kapcsolatos ilyen eljárását is –, kivéve az adó- és értékbizonyítvány kiállítása iránt kezdeményezett eljárást;
 
 24. a kárpótlási eljárás, a részaránytulajdonnal kapcsolatos eljárás és az ilyen eljárásokhoz szükséges irat, a kisajátítási eljárás, a kisajátítási járulékos költségek megtérítésére irányuló eljárás, valamint a kisajátítási kérelem benyújtására kötelezés iránti eljárás;
 
@@ -152,4 +152,6 @@ történik a kiállítása;
 
 57. a népi iparművészeti igazolvánnyal kapcsolatos eljárás;
 
-58. jelnyelvi tolmács névjegyzékbe vételével kapcsolatos eljárás.
+58. jelnyelvi tolmács névjegyzékbe vételével kapcsolatos eljárás;
+
+59. a közérdekű önkéntes tevékenységről szóló törvény alapján a fogadó szervek bejelentésére és nyilvántartásba vételére irányuló eljárás, a nyilvántartásba vett adatok változásának bejelentésére irányuló eljárás és a közérdekű önkénteseket foglalkoztató szervezetek nyilvántartásából való törlésére irányuló eljárás.

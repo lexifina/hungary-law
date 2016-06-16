@@ -8,7 +8,7 @@
 
 73. § (1) A közigazgatási hatósági eljárási illetéket
 
-a) az eljárás megindításakor az eljárást kezdeményező iraton illetékbélyeggel vagy
+a) az eljárás megindításakor – a technikai feltételek megléte esetén – elektronikus fizetési és elszámolási rendszeren keresztül vagy az eljárást kezdeményező iraton illetékbélyeggel vagy
 
 b) átutalással, az átutalás közleményrovatában az ügyfél neve, lakcíme vagy székhelye, valamint a bb) alpont esetén az ügyszám feltüntetésével
 
