@@ -1,1 +1,0 @@
-## „30a. szennyvíziszap-kezelés: fizikai, biológiai, kémiai, hőkezeléses vagy egyéb olyan megfelelő eljárás – beleértve a biogáz-előállítást, komposztálást is – vagy eljárások sora, melynek célja a szennyvíziszap hasznosíthatóságának, ártalmatlanításának a biztosítása, valamint fertőzőképességének a megszüntetése, hogy minősége a hatósági előírásoknak megfeleljen.”

@@ -1,1 +1,0 @@
-## „(4) Amennyiben az adott folyószakaszra nem terjed ki a nagyvízi mederkezelési terv hatálya, az (1) bekezdés szerinti vizsgálatot követően a folyószakasz mederkezelője akkor járulhat hozzá az építmény elhelyezéshez, ha a kérelem”
