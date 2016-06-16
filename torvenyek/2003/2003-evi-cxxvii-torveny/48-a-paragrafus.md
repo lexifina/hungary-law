@@ -1,4 +1,6 @@
-48/A. § (1) Jövedéki ügyekben nem kell alkalmazni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 71. § (2) bekezdés a) pontjában, valamint 71. § (7) bekezdésében foglaltakat, és az újrafelvételi eljárásra vonatkozó szabályait.
+48/A. § (1) Jövedéki ügyekben nem kell alkalmazni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 71. § (7) bekezdésében foglaltakat, és az újrafelvételi eljárásra vonatkozó szabályait.
+
+(1a) E törvény vagy e törvény végrehajtási rendelete szerinti engedélyezési eljárásban nem alkalmazható a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 71/A. § (2) bekezdés c) pontja.
 
 (2) Nem lehet elektronikus úton intézni:
 
