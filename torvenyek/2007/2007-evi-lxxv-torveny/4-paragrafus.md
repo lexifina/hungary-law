@@ -28,6 +28,8 @@ h) dönt a kamarai tag könyvvizsgálók, a könyvvizsgáló cégek fegyelmi üg
 
 i)
 
+j) Szakértői véleményt alakít ki az adózás rendjéről szóló törvény 132. § (5b) bekezdése alapján az IFRS-ek szerinti számviteli elszámolás minősítését is igénylő feltételes adómegállapítás iránti kérelem esetén, a számviteli elszámolás minősítésére vonatkozóan.
+
 (6) A kamara a tagok képviseletében különösen az alábbi feladatokat látja el:
 
 a) megalkotja a kamara alapszabályát, továbbá a kamara önkormányzati szabályzatait,
