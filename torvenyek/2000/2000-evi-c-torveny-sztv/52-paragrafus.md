@@ -6,7 +6,7 @@
 
 (3) Az évenként elszámolandó értékcsökkenés összegének évek közötti – (2) bekezdés szerinti – felosztásánál figyelembe lehet venni az adott eszköz használatával elért bevételt terhelő egyéb, az eszköz beszerzésével összefüggő, de bekerülési értéknek nem minősülő ráfordításokat (az üzembe helyezés utáni kamatot, a devizahitelek árfolyamveszteségét), az eszköz folyamatos használatával kapcsolatos karbantartási költségeket az egyedi eszköznek – az adott vállalkozási tevékenységre jellemző körülmények alapján számított – várható hasznos élettartamán belül, amennyiben az összemérés elvének érvényesülése azt indokolja.
 
-(4) A befejezett kísérleti fejlesztés, a befejezett alapítás-átszervezés aktivált értékét 5 év vagy ennél rövidebb idő alatt, az üzleti vagy cégértéket legalább 5 év, de legfeljebb 10 év alatt lehet leírni, amennyiben ezek hasznos élettartamát nem lehet megbecsülni.
+(4) A befejezett kísérleti fejlesztés, a befejezett alapítás-átszervezés aktivált értékét 5 év vagy ennél rövidebb idő alatt, az üzleti vagy cégértéket legalább 5 év, de legfeljebb 10 év alatt kell leírni, amennyiben ezek hasznos élettartamát nem lehet megbecsülni.
 
 (5) Nem számolható el terv szerinti értékcsökkenés a földterület, a telek (a bányaművelésre, veszélyes hulladék tárolására igénybe vett földterület, telek kivételével), az erdő, a képzőművészeti alkotás, a régészeti lelet bekerülési (beszerzési) értéke után, és az üzembe nem helyezett beruházásnál.
 

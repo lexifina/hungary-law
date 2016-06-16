@@ -24,7 +24,7 @@ j) a vagyonrendelőnél a kezelt vagyon részbeni vagy teljes kiadásakor a keze
 
 k) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaságba bevitt, értékpapírnak vagy részesedésnek nem minősülő vagyontárgyak nyilvántartás szerinti (könyv szerinti) értékének és a létesítő okiratban meghatározott értékének a különbözetét, amennyiben a nyilvántartás szerinti érték a több;
 
-l) behajthatatlannak nem minősülő, elengedett követelés könyv szerinti értékét;
+l) behajthatatlannak nem minősülő, a forgóeszközök között kimutatott – vásárolt követelésnek nem minősülő – elengedett követelés könyv szerinti értékét;
 
 m) a tartozásátvállalás során – ellentételezés nélkül – átvállalt kötelezettség szerződés (megállapodás) szerinti összegét – a 33. § (1) bekezdésének figyelembevételével –a tartozást átvállalónál;
 
@@ -38,7 +38,7 @@ p) a térítés nélkül átadott, részesedésnek vagy értékpapírnak nem min
 
 a) a 41. § (1)–(2) és (4) bekezdése szerint az üzleti évben képzett céltartalék összegét, a képzett céltartalékot növelő összeget;
 
-b) a behajthatatlan követelésnek az üzleti évben leírt összegét;
+b) a forgóeszközök között kimutatott – vásárolt követelésnek nem minősülő – követelésnek behajthatatlan követelésként az üzleti évben leírt összegét;
 
 c) az immateriális jószág, a tárgyi eszköz közvetlen értékesítésekor azok könyv szerinti értékét;
 

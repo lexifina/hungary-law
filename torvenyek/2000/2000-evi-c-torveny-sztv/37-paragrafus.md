@@ -26,7 +26,9 @@ e) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaság
 
 f) a tőkekivonással megvalósított jegyzett tőke leszállításához kapcsolódó – a jegyzett tőke leszállításával arányos – eredménytartalék-kivonás összegét,
 
-g) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály alapján eredménytartalékkal szemben átadott pénzeszközök, eszközök értékét, ide értve a gazdasági társaság, szövetkezet tagsági jogviszony megszűnésének időpontjában fennálló vagyonának a megszűnt tagsági jogviszonyra jutó része a jegyzett tőke, a tőketartalék és az eredménytartalék arányos részét meghaladó összegét is.
+g) a pénzmozgással, illetve az eszközmozgással egyidejűleg a jogszabály alapján eredménytartalékkal szemben átadott pénzeszközök, eszközök értékét, ide értve a gazdasági társaság, szövetkezet tagsági jogviszony megszűnésének időpontjában fennálló vagyonának a megszűnt tagsági jogviszonyra jutó része a jegyzett tőke, a tőketartalék és az eredménytartalék arányos részét meghaladó összegét is,
+
+h) a még be nem fizetett pénzbeli vagyoni hozzájárulás teljesítéseként (a jegyzett, de még be nem fizetett tőke feltöltésére) a külön jogszabályban meghatározottak szerint átvezetett összeget.
 
 (3) A 35. § (3) bekezdése szerinti vállalkozónál az eredménytartalék (1) bekezdés b) pontja szerinti növekedésének, a (2) bekezdés b) és f) pontja szerinti csökkenésének bizonylata a létesítő okirat, annak módosítása, illetve a közgyűlési, az alapítói, a taggyűlési határozat, könyvviteli elszámolását a tőkeemelésről, a tőkeleszállításról szóló létesítő okiratnak, illetve módosításának a cégjegyzékbe történt bejegyzése időpontjával kell végrehajtani.
 

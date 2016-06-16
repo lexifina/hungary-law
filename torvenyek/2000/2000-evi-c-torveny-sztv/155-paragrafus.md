@@ -36,6 +36,8 @@ f) a közérdeklődésre számot tartó gazdálkodó.
 
 (7) A (6) bekezdés szerinti könyvvizsgálatra a Magyar Könyvvizsgálói Kamara tagja vagy a Magyar Könyvvizsgálói Kamaránál nyilvántartásba bejegyzett könyvvizsgáló cég választható.
 
+(7a) Semmis a vállalkozóra vonatkozó olyan szerződéses rendelkezés vagy egyéb jognyilatkozat, amely a könyvvizsgálati kötelezettség körébe eső tevékenységre történő kijelölés tekintetében a legfőbb szervet meghatározott könyvvizsgáló, könyvvizsgáló cég vagy könyvvizsgáló cégcsoport választására kötelezi.
+
 (8) Az összevont (konszolidált) éves beszámoló kötelező felülvizsgálatára, a (7) bekezdésnek megfelelően bejegyzett könyvvizsgálót, könyvvizsgáló céget az anyavállalat tulajdonosai választják. A könyvvizsgálót, könyvvizsgáló céget a konszolidálásra kerülő üzleti év mérlegfordulónapja előtt a (6) bekezdésben foglaltak szerinti időpontban kell megválasztani.
 
 (9) Ha az összevont (konszolidált) éves beszámoló felülvizsgálatára a (8) bekezdés szerint nem választottak könyvvizsgálót, könyvvizsgáló céget, akkor az anyavállalat könyvvizsgálójának, könyvvizsgáló cégének a feladata az összevont (konszolidált) éves beszámoló felülvizsgálata is. Erről az anyavállalat könyvvizsgálójával, könyvvizsgáló cégével írásban, a (8) bekezdés szerinti időpontig kell megállapodni.

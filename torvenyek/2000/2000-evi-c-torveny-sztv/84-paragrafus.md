@@ -16,7 +16,7 @@ f) a tulajdonosnál (a tagnál) a gazdasági társaság jegyzett tőkéjének le
 
 (2a) Részesedésekből származó bevételként kell elszámolni, de halasztott bevételként időbelileg el kell határolni a 77. § (4) bekezdés szerinti tételeket, amennyiben azok a befektetett pénzügyi eszközök között kimutatott részesedéshez kapcsolódnak. A halasztott bevételt a kapcsolódó ráfordítás felmerülésekor – azzal arányosan – kell elszámolni részesedésekből származó bevételként.
 
-(3) Befektetett pénzügyi eszközökből származó bevételként, árfolyamnyereségként kell kimutatni:
+(3) Befektetett pénzügyi eszközökből (értékpapírokból, kölcsönökből) származó bevételként, árfolyamnyereségként kell kimutatni:
 
 a) a befektetett pénzügyi eszközök között kimutatott adott kölcsön (ideértve a bankbetétet is), hitelviszonyt megtestesítő kamatozó értékpapír után kapott (esedékes, járó) kamat összegét, továbbá a befektetett pénzügyi eszközök között kimutatott hitelviszonyt megtestesítő kamatozó értékpapír értékesítésekor az eladási árban lévő kamat összegét;
 

@@ -30,13 +30,15 @@ h) a könyvvizsgáló véleményét arról, hogy az üzleti jelentés összhangb
 
 i) a könyvvizsgáló nyilatkozatát arra vonatkozóan, hogy tudomására jutott-e bármely lényegesnek tekinthető hibás közlés az üzleti jelentésben és az összevont (konszolidált) üzleti jelentésben, és ha igen, akkor a szóban forgó hibás közlés milyen jellegű;
 
-j) a könyvvizsgáló véleményét a 95/B. § (2) bekezdés e) és f) pontja alapján összeállított információkról, valamint a könyvvizsgáló nyilatkozatát arról, hogy rendelkezésre bocsátották-e a 95/B. § (2) bekezdés a)–d), és g) pontjában említett információkat;
+j) a könyvvizsgáló véleményét a 95/B. § (2) bekezdés e) és f) pontja alapján összeállított információkról, valamint a könyvvizsgáló nyilatkozatát arról, hogy rendelkezésre bocsátották-e a 95/B. § (2) bekezdés a)–d), g) és h) pontjában említett információkat;
 
 k) a könyvvizsgálói jelentés keltezését;
 
 l) a könyvvizsgálatért személyében felelős könyvvizsgáló nevét, aláírását, kamarai bejegyzési (nyilvántartási) számát;
 
-m) könyvvizsgáló cég esetén – az l) pontban foglaltak mellett – a társaság képviseletére jogosult személy nevét, aláírását, a társaság megnevezését, székhelyét, kamarai nyilvántartási számát is.
+m) könyvvizsgáló cég esetén – az l) pontban foglaltak mellett – a társaság képviseletére jogosult személy nevét, aláírását, a társaság megnevezését, székhelyét, kamarai nyilvántartási számát is;
+
+n) a könyvvizsgáló nyilatkozatát arról, hogy az üzleti jelentés tartalmazza-e a 95/C. §, illetve a 134. § (5) bekezdés szerinti nem pénzügyi kimutatást.
 
 (5a) A közérdeklődésre számot tartó gazdálkodók éves beszámolójára, egyszerűsített éves beszámolójára, továbbá összevont (konszolidált) éves beszámolójára vonatkozó független könyvvizsgálói jelentés tekintetében az (5) bekezdésen túl az 537/2014/EU Rendelet 10. cikkében foglaltakat kell alkalmazni.
 

@@ -14,7 +14,11 @@ b) végelszámolása, felszámolása, illetve kényszertörlési eljárása eset
 
 (3) Az (1) bekezdés szerinti áttérés (visszatérés) időpontja az (1) bekezdés a) vagy b) pontjában szereplő feltételek bekövetkezését követő bármely üzleti év első napja.
 
-(4) A (2) bekezdés szerinti áttérés (visszatérés) időpontja a (2) bekezdés a) vagy b) pontjában bekövetkezett eseményt követő üzleti év első napja.
+(4) A (2) bekezdés szerinti áttérés (visszatérés) időpontja
+
+a) a (2) bekezdés a) pontja szerinti esetben a feltételek bekövetkezését követő üzleti év első napja,
+
+b) a (2) bekezdés b) pontja szerinti esetben a végelszámolás, a felszámolás, illetve a kényszertörlési eljárás kezdő időpontja.
 
 (5) Az áttérés (a visszatérés) napjával nyitómérleget és nyitó leltárt kell készíteni. Az áttérés (a visszatérés) üzleti évének könyvviteli nyilvántartásait a nyitómérleg alapján kell megnyitni.
 

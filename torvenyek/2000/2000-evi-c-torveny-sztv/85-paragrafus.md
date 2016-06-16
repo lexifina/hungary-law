@@ -14,17 +14,17 @@ f) a tulajdonosnál (a tagnál) a gazdasági társaság jegyzett tőkéjének le
 
 g) a térítés nélkül átadott befektetett eszközök között kimutatott részesedések nyilvántartás szerinti értékét.
 
-(1a) Befektetett pénzügyi eszközök ráfordításaként, árfolyamveszteségeként kell kimutatni:
+(1a) Befektetett pénzügyi eszközök (értékpapírok, kölcsönök) ráfordításaként, árfolyamveszteségeként kell kimutatni:
 
 a) a befektetett pénzügyi eszközök között kimutatott és eladott, beváltott hitelviszonyt megtestesítő értékpapír – kamatozó értékpapírnál az eladási árában lévő kamattal, diszkont értékpapírnál a 84. § (3) bekezdés d) pontja szerint elszámolt kamattal csökkentett – eladási ára, illetve névértéke és könyv szerinti értéke közötti – veszteségjellegű – különbözetet az értékesítéskor, illetve a beváltáskor;
 
-b) a térítés nélkül átadott, befektetett pénzügyi eszközök között kimutatott értékpapírok és kölcsönök összegének nyilvántartás szerinti értékét;
+b) a térítés nélkül átadott, hiányzó, megsemmisült, a befektetett pénzügyi eszközök között kimutatott értékpapírok, valamint a térítés nélkül átadott, elengedett, behajthatatlannak minősített, a befektetett pénzügyi eszközök között kimutatott kölcsönök könyv szerinti értékét;
 
 c) a befektetett pénzügyi eszközök között kimutatott befektetési jegyek eladásakor, beváltásakor a nettó eszközérték és a könyv szerinti érték különbözetében realizált veszteséget;
 
 d) a gazdasági társaság tulajdonosánál (tagjánál) a gazdasági társaságba bevitt, befektetett pénzügyi eszközök között kimutatott értékpapír vagy kölcsön nyilvántartás szerinti értékének és a létesítő okiratban meghatározott értékének a különbözetét, amennyiben a nyilvántartás szerinti érték a több.
 
-(2) Fizetendő kamatok és kamatjellegű ráfordítások között kell kimutatni, függetlenül attól, hogy azt hitelintézet, más gazdálkodó vagy magánszemély részére kell fizetni:
+(2) Fizetendő (fizetett) kamatok és kamatjellegű ráfordítások között kell kimutatni, függetlenül attól, hogy azt hitelintézet, más gazdálkodó vagy magánszemély részére kell fizetni:
 
 a) a hosszú, illetve a rövid lejáratú kötelezettségek között nyilvántartott kölcsönök, hitelek, kötvénykibocsátásból és más hitelviszonyt megtestesítő értékpapír kibocsátásból fennálló tartozások, váltótartozások után fizetett, fizetendő (esedékes) kamat összegét az eszközök bekerülési értékében elszámolt, figyelembe vett kamat kivételével;
 
@@ -64,7 +64,7 @@ k) a nem kamatfedezeti célú, egyéb fedezeti ügyletek (határidős, opciós, 
 
 l) a vásárolt eladási opcióért fizetett opciós díjat, a lejáratkor le nem hívott vételi opcióért fizetett opciós díjat, és a forgatási célú értékpapír beszerzéséhez kapcsolódóan felmerült, lehívott vételi opció opciós díját, ha ez utóbbit a vállalkozó a 61. § (2) bekezdése szerint a beszerzési értékben nem veszi figyelembe;
 
-m) a behajthatatlannak minősített vásárolt követelés leírt összegét, továbbá a vásárolt követelés könyv szerinti értékének azon részét, amelyre a befolyt pénzbevétel nem nyújt fedezetet;
+m) a térítés nélkül átadott, elengedett, behajthatatlannak minősített, a forgóeszközök között kimutatott vásárolt követelés, valamint a hiányzó, megsemmisült, a forgóeszközök között kimutatott értékpapír könyv szerinti értékét, továbbá a vásárolt követelés könyv szerinti értékének azon részét, amelyre a befolyt összeg nem nyújt fedezetet;
 
 n) a vásárolt követelés értékesítésekor az eladási ár és a könyv szerinti érték közötti – veszteségjellegű – különbözetet;
 
@@ -80,7 +80,7 @@ t) az 59/A–59/F. §-ok szerinti valós értéken történő értékelés alkal
 
 u) az 59/A–59/F. §-ok szerinti valós értéken értékelt kereskedési célú, mérlegben szereplő pénzügyi eszközök negatív értékelési különbözetét;
 
-v) a 85. § (1) és (1a) bekezdésében meghatározott gazdasági események veszteségjellegű eredményeit, amennyiben azok a forgóeszközök között kimutatott részesedésekhez, értékpapírokhoz kapcsolódnak, kivéve a befektetési jegyek eladásakor, beváltásakor a nettó eszközérték és a könyv szerinti érték különbözetében realizált veszteséget, amelyet a fizetendő kamatok és kamatjellegű ráfordítások között kell elszámolni.
+v) a 85. § (1) és (1a) bekezdésében meghatározott gazdasági események veszteségjellegű eredményeit, amennyiben azok a forgóeszközök között kimutatott részesedésekhez, értékpapírokhoz és vásárolt követelésekhez kapcsolódnak, kivéve a befektetési jegyek eladásakor, beváltásakor a nettó eszközérték és a könyv szerinti érték különbözetében realizált veszteséget, amelyet a fizetendő kamatok és kamatjellegű ráfordítások között kell elszámolni.
 
 (4)
 

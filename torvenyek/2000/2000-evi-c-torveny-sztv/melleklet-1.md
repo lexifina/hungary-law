@@ -164,7 +164,7 @@ I. Hátrasorolt kötelezettségek
 
 1. Hátrasorolt kötelezettségek kapcsolt vállalkozással szemben
 
-2. Hátrasorolt kötelezettségek jelentős tulajdoni viszonyban lévő vállalkozással szemben
+2. Hátrasorolt kötelezettségek jelentős tulajdoni részesedési viszonyban lévő vállalkozással szemben
 
 3. Hátrasorolt kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
 
@@ -194,7 +194,7 @@ III. Rövid lejáratú kötelezettségek
 
 1. Rövid lejáratú kölcsönök
 
-– ebből: az átváltozt5atható és átváltozó kötvények
+– ebből: az átváltoztatható és átváltozó kötvények
 
 2. Rövid lejáratú hitelek
 
@@ -206,7 +206,7 @@ III. Rövid lejáratú kötelezettségek
 
 6. Rövid lejáratú kötelezettségek kapcsolt vállalkozással szemben
 
-7. Rövid lejáratú kötelezettségek jelentős tulajdoni viszonyban lévő vállalkozásokkal szemben
+7. Rövid lejáratú kötelezettségek jelentős tulajdoni részesedési viszonyban lévő vállalkozásokkal szemben
 
 8. Rövid lejáratú kötelezettségek egyéb részesedési viszonyban lévő vállalkozással szemben
 

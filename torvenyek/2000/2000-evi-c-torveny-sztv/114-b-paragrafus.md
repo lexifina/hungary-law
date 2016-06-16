@@ -16,7 +16,7 @@ c) jegyzett, de be nem fizetett tőke: az IFRS-ek szerinti jegyzett tőkéből a
 
 d) tőketartalék: a saját tőke minden olyan elemének összege, amely nem felel meg az IFRS-ek szerinti jegyzett tőke, a jegyzett, de be nem fizetett tőke, az eredménytartalék, az értékelési tartalék, az adózott eredmény vagy a lekötött tartalék fogalmának;
 
-e) eredménytartalék: az IFRS-ek szerinti éves beszámolóban kimutatott, korábbi évek halmozott – és a tulajdonosok részére még ki nem osztott – adózott eredménye, amely az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti egyéb átfogó jövedelmet nem tartalmazhat, csökkentve a fizetett pótbefizetés IFRS-ek szerint eszközként kimutatott összegével, és a fel nem használt fejlesztési tartaléknak a kapcsolódó, az IAS 12 Nyereségadók című standard alapján számított halasztott adóval csökkentett összegével;
+e) eredménytartalék: az IFRS-ek szerinti éves beszámolóban kimutatott, korábbi évek halmozott – és a tulajdonosok részére még ki nem osztott – adózott eredmény, ideértve az IFRS-ek szerint a felhalmozott eredmény javára vagy terhére elszámolt összegeket is, amely az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti egyéb átfogó jövedelmet – az átsorolási módosítások kivételével – nem tartalmazhat. Az így keletkezett összeget csökkenteni kell a fizetett pótbefizetés IFRS-ek szerint eszközként kimutatott összegével, és a fel nem használt fejlesztési tartaléknak a kapcsolódó, az IAS 12 Nyereségadók című standard alapján számított halasztott adóval csökkentett összegével;
 
 f) értékelési tartalék: az IAS 1 Pénzügyi kimutatások prezentálása című standard szerinti átfogó jövedelem kimutatásban szereplő egyéb átfogó jövedelem halmozott és tárgyévi egyéb átfogó jövedelmet is tartalmazó összege;
 
@@ -28,4 +28,4 @@ h) lekötött tartalék: a kapott pótbefizetés IFRS-ek szerint kötelezettség
 
 a) a cégbíróságon bejegyzett tőke összegének és az IFRS-ek szerinti jegyzett tőke összegének egyeztetését;
 
-b) az osztalékfizetésre rendelkezésre álló szabad eredménytartalékot, amely az utolsó beszámolóval lezárt üzleti év tárgyévi adózott eredményét is magában foglaló eredménytartalék összegének az IAS 40 Befektetési célú ingatlanok című standard szerinti befektetési célú ingatlanok valós érték növekedése miatti elszámolt – halmozott – nem realizált nyereség összegével csökkentett összege.
+b) az osztalékfizetésre rendelkezésre álló szabad eredménytartalékot, amely az utolsó beszámolóval lezárt üzleti év tárgyévi adózott eredményét is magában foglaló eredménytartalék összegének az IAS 40 Befektetési célú ingatlanok című standard szerinti befektetési célú ingatlanok valós érték növekedése miatti elszámolt – halmozott – nem realizált nyereség összegével csökkentett és a kapcsolódó IAS 12 Nyereségadók című standard alapján elszámolt nyereségadó halmozott összegével növelt összege.

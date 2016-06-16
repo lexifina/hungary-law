@@ -78,7 +78,7 @@ d) a tulajdonosokkal (a részvényesekkel) kötött szerződés (vagy a létesí
 
 1. ellenőrzés: a jóváhagyásra jogosult testület által elfogadott beszámolóval lezárt üzleti év(ek) adatainak – a gazdálkodó, illetve az adóhatóság általi – utólagos ellenőrzése az önellenőrzés, illetve az adóhatósági ellenőrzés keretében;
 
-2. ellenőrzés megállapítása: az ellenőrzés során feltárt, az eszközöket-forrásokat, az eredményt, a saját tőkét érintő hibák és hibahatások, amelyek a beszámolóval lezárt üzleti évvel (évekkel) kapcsolatosak, a hatályos jogszabályi előírások nem vagy nem megfelelő alkalmazásából, helytelen értelmezéséből, vagy nem megengedett, tiltott cselekmény elkövetéséből származnak. Ilyen hibának és hibahatásnak minősül a szerződésmódosítással, a számviteli bizonylatok módosításával dokumentált, beszámolóval lezárt üzleti évet, éveket érintő gazdasági események könyvviteli elszámolásban rögzítendő jellemzőinek utólagos módosítása is;
+2. ellenőrzés megállapítása: az ellenőrzés során feltárt, az eszközöket-forrásokat, az eredményt, a saját tőkét érintő hibák és hibahatások, amelyek a beszámolóval lezárt üzleti évvel (évekkel) kapcsolatosak, a hatályos jogszabályi előírások nem vagy nem megfelelő alkalmazásából, helytelen értelmezéséből, vagy nem megengedett, tiltott cselekmény elkövetéséből származnak. A számviteli elszámolás szempontjából az ellenőrzés megállapításával egy tekintet alá esik a szerződésmódosítással, a számviteli bizonylatok módosításával dokumentált, beszámolóval lezárt üzleti évet, éveket érintő gazdasági események könyvviteli elszámolásban rögzítendő jellemzőinek utólagos módosítása is;
 
 3. jelentős összegű hiba: ha a hiba feltárásának évében, a különböző ellenőrzések során, egy adott üzleti évet érintően (évenként külön-külön) feltárt hibák és hibahatások – eredményt, saját tőkét növelő-csökkentő – értékének együttes (előjeltől független) összege meghaladja a számviteli politikában meghatározott értékhatárt. Minden esetben jelentős összegű a hiba, ha a hiba feltárásának évében az ellenőrzések során – ugyanazon évet érintően – megállapított hibák, hibahatások eredményt, saját tőkét növelő-csökkentő értékének együttes (előjeltől független) összege meghaladja az ellenőrzött üzleti év mérlegfőösszegének 2 százalékát, illetve ha a mérlegfőösszeg 2 százaléka nem haladja meg az 1 millió forintot, akkor az 1 millió forintot;
 
@@ -130,9 +130,9 @@ A behajthatatlanság tényét és mértékét bizonyítani kell.
 
 (5) E törvény alkalmazásában
 
-1. üzleti vagy cégérték: a megvásárolt társaságért, annak üzletágáért, telephelyéért, üzlethálózatáért fizetett ellenérték és a tételesen állományba vett egyes eszközök piaci értékének a tételesen állományba vett, átvállalt kötelezettségek – e törvény szerinti értékeléssel meghatározott – értékével csökkentett értéke közötti különbözet, ha a fizetett ellenérték magasabb;
+1. üzleti vagy cégérték: a megvásárolt üzletágért, telephelyért, üzlethálózatért fizetett ellenérték és a tételesen állományba vett egyes eszközök piaci értékének a tételesen állományba vett, átvállalt kötelezettségek – e törvény szerinti értékeléssel meghatározott – értékével csökkentett értéke közötti különbözet, ha a fizetett ellenérték magasabb;
 
-2. negatív üzleti vagy cégérték: a megvásárolt társaságért, annak üzletágáért, telephelyéért, üzlethálózatáért fizetett ellenérték és a tételesen állományba vett egyes eszközök piaci értékének tételesen állományba vett, átvállalt kötelezettségek – e törvény szerinti értékeléssel meghatározott – értékével csökkentett összege közötti különbözet, ha a fizetett ellenérték alacsonyabb, és ez a különbözet a megszerzett immateriális javak, tárgyi eszközök, készletek reális értékének arányos csökkentésével sem szűnik meg;
+2. negatív üzleti vagy cégérték: a megvásárolt üzletágért, telephelyért, üzlethálózatért fizetett ellenérték és a tételesen állományba vett egyes eszközök piaci értékének a tételesen állományba vett, átvállalt kötelezettségek – e törvény szerinti értékeléssel meghatározott – értékével csökkentett összege közötti különbözet, ha a fizetett ellenérték alacsonyabb;
 
 3. többségi befolyás, minősített többséget biztosító befolyás: a Polgári Törvénykönyv gazdasági társaságokra vonatkozó rendelkezéseiben meghatározott fogalom;
 
@@ -292,7 +292,7 @@ A fedezeti hatékonyság mérésének (vizsgálatának) módszerét és időpont
 
 2. IFRS-ek: a nemzetközi számviteli standardok alkalmazásáról szóló, 2002. július 19-i 1606/2002/EK európai parlamenti és tanácsi rendeletben foglalt eljárás alapján az Európai Unió Hivatalos Lapjában rendeleti formában kihirdetett nemzetközi számviteli standardok.
 
-3. kisebb méretű hitelintézet: az a hitelintézet, amelynek a 2015. évben induló üzleti évről készített, könyvvizsgáló által felülvizsgált éves beszámolója mérlegének mérlegfőösszege nem éri el az 5 milliárd forintot, kivéve a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény alapján összevont alapú felügyelet alá tartozó csoportba tartozó hitelintézetet.
+3.
 
 (11) E törvény exportra, importra vonatkozó rendelkezéseinek alkalmazásában:
 

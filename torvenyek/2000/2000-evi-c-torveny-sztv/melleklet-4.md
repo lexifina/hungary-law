@@ -38,7 +38,7 @@ III. Eredménytartalék
 
 IV. Lekötött tartalék
 
-V. Egyszerűsített beszámoló adózott eredménye
+V. Adózott eredmény
 
 D. Tartalék
 

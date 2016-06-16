@@ -20,7 +20,7 @@ c) a jogvédelemben nem részesülő, de titkosságuk révén monopolizált szel
 
 függetlenül attól, hogy használatba vették-e azokat vagy sem.
 
-(8) Üzleti vagy cégértékként kell kimutatni cégvásárlás esetén a jövőbeni gazdasági haszon reményében teljesített – a 3. § (5) bekezdés 1. pontjában meghatározott – többletkifizetés összegét.
+(8) Üzleti vagy cégértékként kell kimutatni a jövőbeni gazdasági haszon reményében teljesített – a 3. § (5) bekezdés 1. pontjában meghatározott – többletkifizetés összegét.
 
 (9) Az immateriális javakra adott előlegként kell kimutatni az ilyen címen a szállítóknak átutalt (megfizetett, kiegyenlített) – a levonható előzetesen felszámított általános forgalmi adót nem tartalmazó – összeget.
 

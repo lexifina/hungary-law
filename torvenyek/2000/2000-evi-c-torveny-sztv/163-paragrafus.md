@@ -1,6 +1,6 @@
 ## A könyvviteli rendszerek változtatása
 
-163. § (1) Az egyszeres könyvvitelről a kettős könyvvitelre történő áttéréskor az egyszerűsített mérleg alapján kell a nyitómérleget elkészíteni úgy, hogy a mérleg főösszege ne változzon meg. A nyitómérleg eredménytartalék sorába az egyszerűsített mérlegben kimutatott eredménytartalék és tartalék együttes összegét kell beállítani. Az egyszerűsített adózott eredményt a nyitómérlegben az adózott eredmény sorban kell szerepeltetni. Nyitás után
+163. § (1) Az egyszeres könyvvitelről a kettős könyvvitelre történő áttéréskor az egyszerűsített mérleg alapján kell a nyitómérleget elkészíteni úgy, hogy a mérleg főösszege ne változzon meg. A nyitómérleg eredménytartalék sorába az egyszerűsített mérlegben kimutatott eredménytartalék és tartalék együttes összegét kell beállítani. Az egyszerűsített mérlegben kimutatott adózott eredményt a nyitómérlegben az adózott eredmény sorban kell szerepeltetni. Nyitás után
 
 a) a vevők – fizetendő általános forgalmi adót nem tartalmazó – állományával azonos összegű árbevételt el kell számolni az eredménytartalékkal szemben;
 

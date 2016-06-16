@@ -80,7 +80,7 @@ Ebből: kapcsolt vállalkozásnak adott
 
 Ebből: kapcsolt vállalkozásnak adott
 
-21. Részesedések, értékpapírok, bankbetétek értékvesztése
+21. Részesedések, értékpapírok, tartósan adott kölcsönök, bankbetétek értékvesztése
 
 22. Pénzügyi műveletek egyéb ráfordításai
 
