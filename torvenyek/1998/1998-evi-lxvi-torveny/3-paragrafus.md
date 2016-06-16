@@ -1,4 +1,4 @@
-3. § (1) A kifizető, – kifizető hiányában, vagy ha a kifizető az adó (adóelőleg) alapját képező jövedelem után adót (adóelőleget) nem köteles megállapítani – a jövedelmet szerző magánszemély 27 százalékos mértékű egészségügyi hozzájárulást fizet az adóévben kifizetett, juttatott, a személyi jövedelemadóról szóló 1995. évi CXVII. törvény (a továbbiakban: Szja tv.) szerinti
+3. § (1) A kifizető, – kifizető hiányában, vagy ha a kifizető az adó (adóelőleg) alapját képező jövedelem után adót (adóelőleget) nem köteles megállapítani – a jövedelmet szerző magánszemély 27 százalékos mértékű egészségügyi hozzájárulást fizet az adóévben kifizetett, juttatott, az Szja tv. szerinti
 
 a) összevont adóalapba tartozó jövedelemnél az adó (adóelőleg) alap számításánál figyelembe vett jövedelem,
 
