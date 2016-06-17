@@ -1,9 +1,0 @@
-## 2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
-
-1. melléklet a 8/2016. (VI. 15.) HM rendelethez
-
-1. A Rendelet 1. mellékletében foglalt táblázat G:7 mezője helyébe a következő mező lép:
-
-|  | (Kifizetésben részesülők köre) |
-
-| (302724) | 1. Magyar Hadtudományi Társaság 2. Honvédség és Társadalom Baráti Kör Országos Szövetsége 3. Honvédségi Nyugdíjas Klubok Országos Szövetsége 4. Magyar Tartalékosok Szövetsége 5. Magyar Cserkészszövetség 6. Magyar Huszár és Katonai Hagyományőrző Szövetség 7. Budapesti Honvéd Sportegyesület 8. Honvéd Sportegyesületek Országos Szövetsége 9. Hadirokkantak, Hadiözvegyek és Hadiárvák Országos Nemzeti Szövetsége 10. Vak Hadigondozottak Országos Egyesülete 11. Magyar Hadigondozottak Országos Nemzeti Szövetsége 12. Honvéd Kulturális Egyesület 13. Magyar Atlanti Tanács 14. Honvédségi Dolgozók Szakszervezete 15. Honvédszakszervezet 16. Csapatok Érdekvédelmi Szövetsége 17. Bajtársi Egyesületek Országos Szövetsége 18. Vigyázók Had- és Kultúrtörténeti Egyesület 19. Batthyány Lovas Bandérium Hagyományőrző Közhasznú Egyesület 20. Občianské Združenie Gloria Victis (Gloria Victis Polgári Társulás) 21. Asociatia Exploratori Transilvaneni (Erdélyi Kutatócsoport Egyesület) 22. Magyarországi Jogsértettek Egyesülete 23. Szolnoki Fúvósegyüttes és Huszárzenekar 24. Asociatia Szentegyházi Hagyományőrző Huszár Egyesület (Szentegyházi Hagyományőrző Huszár Egyesület) 25. Nagy Háború Kutatásáért Közhasznú Alapítvány 26. Magyar Hadisírgondozó Szövetség 27. Skultéty László Katonai Lovas Hagyományokat Támogató Egyesület 28. Doni Bajtársi és Kegyeleti Szövetség 29. Honvéd Hagyományőrző Egyesület 30. Eötvös József Börtönügyi Egyesület 31. Keskenyúton Délvidéki Tragédiánk 1944-45 Alapítvány 32. Magyar Katonai Jogi és Hadijogi Társaság 33. Bakonyi Poroszkálók Hagyományőrző- és Sportegyesület 34. Kapunyitás Közhasznú Alapítvány 35. Halhatatlan Magyar Sportolók Egyesülete |
