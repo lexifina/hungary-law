@@ -1,3 +1,0 @@
-159. § Az Art. 24/F. §-a a következő (7) bekezdéssel egészül ki:
-
-„(7) Ha az adózó a 24/F. § (1) bekezdése szerinti tartalommal kitöltött kérdőívet az adószám e § szerinti törléséről szóló határozat kiadmányozásáig visszaküldi az állami adó- és vámhatóságnak, akkor az adószám törlését elrendelő határozat kiadmányozásának nincs helye. Amennyiben az adózó az adószám törlését elrendelő határozat kiadmányozását követően, annak jogerőre emelkedéséig visszaküldi a 24/F. § (1) bekezdése szerinti tartalommal kitöltött kérdőívet, vagy a visszaküldésről az állami adó- és vámhatóság a kiadmányozást követően szerez tudomást, az állami adó- és vámhatóság a határozatot visszavonja.”

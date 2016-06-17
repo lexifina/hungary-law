@@ -1,3 +1,0 @@
-129. § A Tbj. 30/A. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-„(3) A mezőgazdasági őstermelő a magasabb összegű társadalombiztosítási ellátások megszerzése érdekében nyilatkozattal vállalhatja, hogy a 19. § (3) bekezdésében meghatározott természetbeni és pénzbeli egészségbiztosítási járulékot, valamint a nyugdíjjárulékot az (1)–(2) bekezdésben meghatározott járulékalapnál magasabb összeg után fizeti meg. A mezőgazdasági őstermelő a magasabb járulékalap választásáról a negyedévre tett járulékbevallásában nyilatkozik az állami adóhatóságnak az adóévre vonatkozóan. A nyilatkozat az Art. szerinti végrehajtható okiratnak minősül.”

@@ -6,6 +6,6 @@ b)
 
 c)–e)
 
-f) 8/A. számú melléklete a 11. melléklet szerint
+f)
 
 módosul.

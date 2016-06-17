@@ -1,3 +1,0 @@
-144. § Az Eat. a következő 463/B. §-sal egészül ki:
-
-„463/B. § Az e fejezet alapján érvényesíthető kedvezmények egy adott hónap tekintetében egyszeresen vehetők igénybe ugyanazon kifizető és magánszemély között ismételten létesített munkaviszony során. Az ugyanazon kifizető és magánszemély között egyidejűleg fennálló több munkaviszony esetében az e fejezet alapján érvényesíthető kedvezmények egy adott hónap tekintetében egyszeresen vehetők igénybe. Az e fejezet alapján érvényesíthető kedvezmények igénybevételét ugyanazon kifizető és magánszemély között ismételten létrejött munkaviszonyok során az elsőként létrejött munkaviszony, az egyidejűleg fennálló munkaviszonyok esetében a kifizető döntése alapozza meg.”

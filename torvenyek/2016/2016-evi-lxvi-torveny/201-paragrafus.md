@@ -2,9 +2,7 @@
 
 1.
 
-2. 3. számú melléklet F) pontja,
-
-3. 3. számú melléklet S) pontja,
+2–3.
 
 4.
 
