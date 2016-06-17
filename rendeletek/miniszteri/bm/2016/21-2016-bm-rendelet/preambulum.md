@@ -1,0 +1,1 @@
+A kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény 8. § (2) bekezdésben kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 28. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
