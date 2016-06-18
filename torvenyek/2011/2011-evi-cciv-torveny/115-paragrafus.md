@@ -4,7 +4,7 @@
 
 (2) Az oktatási hivatal
 
-a) a 2010. január 1-jén már nyilvántartásba vett felsőoktatási intézményt – ha az nem kapott működési engedélyt – 2015. január 1-jén törli a nyilvántartásából,
+a)
 
 b) a 2010. január 2-án kezdődő és e törvény hatálybalépésének időpontjával záródó időszakban nyilvántartásba vett felsőoktatási intézményt – ha az nem kapott működési engedélyt – a nyilvántartásba vétel időpontjától számított öt év elteltét követően – de legkésőbb 2017. szeptember 1-jén – törli a nyilvántartásából,
 
@@ -24,9 +24,9 @@ c)
 
 (4e)
 
-(5) A (4) bekezdésben foglaltak teljesítése céljából a felsőoktatási intézmény önállóan vagy más felsőoktatási intézménnyel, illetve felsőoktatási intézmény alapítására jogosulttal együttműködve új négyéves intézményfejlesztési tervet fogad el Az intézmény a tervben javaslatot tehet a fenntartónak a felsőoktatási tevékenység más intézményi keretek között történő folytatására is. Az előkészítésbe a fenntartó képviselőjét be kell vonni. Az intézményfejlesztési tervet legkésőbb 2012. június 30-ig meg kell küldeni a fenntartó részére.
+(5)
 
-(6) A 13. § (5) bekezdésében foglalt megbízási követelményeket a 2013. szeptember 1-je után kiírt pályázatokra kell alkalmazni.
+(6)
 
 (7) A 2005. évi felsőoktatási törvény szerint nemzetközi jogállású felsőoktatási intézményként működő intézmények működési engedélyét az oktatási hivatal 2017. szeptember 1-jéig köteles felülvizsgálni, módosítani, illetve az e törvénynek megfelelő működési feltételek teljesülése hiányában a miniszternél kezdeményezni az állami elismerés visszavonását.
 

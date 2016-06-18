@@ -2,7 +2,7 @@
 
 (2) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 9. § (3a) bekezdésére tekintettel az oktatási hivatal 2017. szeptember 1-jéig jelentést készít az oktatásért felelős miniszter számára, hogy az 1. melléklet szerinti főiskolák közül melyek felelnek meg az alkalmazott tudományok egyetemére előírt feltételeknek.
 
-(3) A konzisztórium tagjainak megbízásáig e törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 13/A. § (2) bekezdés b) pontját és 13/B–13/D. §-át nem kell alkalmazni.
+(3)
 
 (4) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 15. § (4) bekezdését és 52. § (6) bekezdését olyan módon kell alkalmazni, hogy 2016. augusztus 31. után „Legum Magister” vagy „Master of Laws” (rövidítve: LL.M) címre jogosító mesterképzésre épülő mesterszakra hallgató nem vehető fel, a korábban mesterképzésre épülő mesterszakon kiadott oklevél által tanúsított végzettség és szakképzettség, valamint LL.M. cím az oklevél jogosultja által a továbbiakban is használható. A 2016. augusztus 31. előtt megkezdett LL.M. címre jogosító mesterképzésre épülő mesterképzések a 2015. augusztus 31-én hatályos rendelkezések szerint legfeljebb 2017. augusztus 31-ig fejezhetők be.
 

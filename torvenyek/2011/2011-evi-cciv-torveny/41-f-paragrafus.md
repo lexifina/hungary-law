@@ -8,7 +8,7 @@ c) a jelentkező meghalt,
 
 d) az eljárás folytatására okot adó körülmény már nem áll fenn,
 
-e) a jelentkező a díjfizetési kötelezettségének részben vagy egészben az erre irányuló felhívás ellenére az erre tűzött határidő alatt nem tesz eleget,
+e)
 
 f) a jelentkező a hiánypótlásra való felhívásnak nem tesz eleget.
 

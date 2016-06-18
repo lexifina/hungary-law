@@ -2,7 +2,7 @@
 
 (2) A felsőoktatásról szóló 2005. évi CXXXIX. törvény (a továbbiakban: 2005. évi felsőoktatási törvény) alapján megkezdett képzéseket – folyamatos képzésben – változatlan szakmai követelmények, és vizsgarend keretében, változatlan oklevél kiadásával, bizonyítvány kiállításával kell befejezni. A 2005. évi felsőoktatási törvény alapján a felsőoktatási információs rendszer keretében nyilvántartott személyes adatokat – ha e törvény eltérően nem rendelkezik – a felsőoktatási információs rendszer működtetéséért felelős szerv a 2005. évi felsőoktatási törvény 35. § (4) bekezdésében meghatározott határidőig jogosult kezelni.
 
-(3) E törvény 67. § (5) bekezdésében foglaltakat a 2010. január 1-jén már folyamatban lévő székhelyen kívüli alap- és mesterképzések tekintetében olyan módon kell alkalmazni, hogy a képzésre felvett hallgatók a felsőoktatási intézményben tanulmányaikat változatlan feltételek mellett fejezhetik be, a székhelyen kívüli képzésre új hallgató azonban már nem vehető fel.
+(3)
 
 (4)–(5)
 
