@@ -18,11 +18,11 @@ d) a felnőttképzési normatív támogatás részletes szabályait.
 
 a) a 3. § (4) bekezdése szerinti igazgatási szolgáltatási díjak mértékét, beszedésének, kezelésének, nyilvántartásának és felhasználásának szabályait, valamint az engedéllyel rendelkező intézmények ellenőrzése során kiszabott bírság befizetésének rendjét,
 
-b) a felnőttképzési szakértői és felnőttképzési programszakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a szakértői tevékenységre irányuló bejelentés adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, a felnőttképzési szakértők és a felnőttképzési programszakértők díjazására vonatkozó rendelkezéseket, valamint a Felnőttképzési Szakértői Bizottság feladataira és működésére, tagjainak megbízására, felmentésére és díjazására vonatkozó részletes szabályokat,
+b) a felnőttképzési szakértői és felnőttképzési programszakértői tevékenység folytatásának részletes feltételeit, a felnőttképzési szakterületeket, a szakértői tevékenységre irányuló bejelentés adattartalmát, a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket, a felnőttképzési szakértők és a felnőttképzési programszakértők díjazására vonatkozó rendelkezéseket, valamint a Felnőttképzési Szakértői Bizottság feladataira és működésére, tagjainak megbízására, felmentésére, díjazására és összeférhetetlenségére vonatkozó részletes szabályokat,
 
 c) az OKJ-ba tartozó szakképesítések esetén a gyakorlati képzés teljesítésének és ellenőrzésének részletes szabályait,
 
-d) a felnőttképzési minőségbiztosítási keretrendszert,
+d) a felnőttképzési minőségbiztosítási keretrendszert, a felnőttképzést folytató intézmények külső értékelésére vonatkozó részletes szabályokat, valamint a külső értékelést végző szervezetek kijelölésének szabályait,
 
 e) a felnőttképzési szakmai programkövetelmények, valamint a felnőttképzési nyelvi programkövetelmények nyilvántartásba vételéhez szükséges szakmai végzettségek és nyelvi képzettségek azonosítóval ellátott besorolási szempontjait, a nyilvántartásba vétel követelményeit és eljárási rendjét, valamint a szakmai végzettség megszerzését igazoló dokumentum tartalmát és formáját,
 

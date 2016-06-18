@@ -6,4 +6,4 @@
 
 (4) Az FSZB elnökét és tagjait a miniszter nevezi ki és menti fel. A kinevezés visszavonásig, de legfeljebb négyéves időtartamra érvényes. A miniszter az FSZB elnökét a felnőttképzési szakértők közül nevezi ki.
 
-(5) Az FSZB feladataira és működésére, tagjainak megbízására, felmentésére és díjazására vonatkozó részletes szabályokat miniszteri rendelet határozza meg.
+(5) Az FSZB feladataira és működésére, tagjainak megbízására, felmentésére, díjazására és összeférhetetlenségére vonatkozó részletes szabályokat miniszteri rendelet határozza meg.
