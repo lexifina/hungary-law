@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-154-00-00
 | 2015-08-01 | 2015. évi CXXIII. törvény | 1997-154-00-00.73 |
 | 2015-10-28 | 2015. évi CLXIII. törvény | 1997-154-00-00.74 |
 | 2016-01-01 | 2015. évi CCXXIV. törvény | 1997-154-00-00.75 |
+| 2016-06-18 | 2016. évi LXVII. törvény | 1997-154-00-00.76 |
