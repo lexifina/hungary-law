@@ -24,4 +24,4 @@ foglalkoztatott munkavállaló számára osztható be.
 
 (2) Az (1) bekezdés a) pont tekintetében a 102. § (3) bekezdése megfelelően irányadó.
 
-(3) Ha a készenléti jellegű munkakörben foglalkoztatott munkavállaló részére vasárnapra rendes munkaidőt osztottak be, számára a közvetlenül megelőző szombatra rendes munkaidő nem osztható be.
+(3)

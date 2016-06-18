@@ -1,16 +1,14 @@
-209. § (1) A vezető munkaszerződése e törvény Második Részében foglalt rendelkezésektől – a (2) bekezdés kivételével – eltérhet.
+209. § (1) A vezető munkaszerződése e törvény Második Részében foglalt rendelkezésektől – a (2) és (3) bekezdésben meghatározott kivétellel – eltérhet.
 
 (2) A vezető munkaszerződése
 
 a) az 55. § (1) bekezdés b), c) és e) pontjában,
 
-b) 65. § (3) bekezdés a), b) és e) pontjában,
+b) a 65. § (3) bekezdés a), b) és e) pontjában,
 
-c) a 113. § (3) bekezdésében,
+c) a 113. § (3) bekezdésében, valamint
 
-d) a 127. §-ban, valamint
-
-e) a (3) bekezdésben
+d) a 127. §-ban és a 128. §-ban
 
 foglaltaktól nem térhet el.
 

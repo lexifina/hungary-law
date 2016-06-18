@@ -4,7 +4,7 @@ a) ha a munkavállaló a rendes munkaidőben történő munkavégzésre kizáró
 
 b) a rendkívüli munkaidőre
 
-ba) a 101. § (1) bekezdés d), e) vagy i) pontban meghatározott munkavállalónak,
+ba) az a) pontban meghatározott munkavállalónak,
 
 bb) ha a munkavállaló a 101. § (1) bekezdés alapján rendes munkaidőben történő munkavégzésre nem kötelezhető.
 
