@@ -1,9 +1,8 @@
-## 4–7. §[^3]
+## 4–7. §[^2]
 
-8. § (1)[^4]
+8. § (1)[^3]
 
-(2)[^5]
+(2) A 272/2014. (XI. 5.) Korm. rendelet 201/H. §-a a következő (4) bekezdéssel egészül ki:
 
-[^3]: A 4–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 8. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: A 8. § (2) bekezdése a 12. § (2) bekezdése alapján a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló törvény hatálybalépésének napján lép hatályba.
+[^2]: A 4–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
