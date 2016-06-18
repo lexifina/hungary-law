@@ -1,5 +1,3 @@
-## 21. § Hatályát veszti a kéményseprő-ipari közszolgáltatás ellátásának szakmai szabályairól szóló 63/2012. (XII. 11.) BM rendelet.
-
 1. melléklet a 21/2016. (VI. 9.) BM rendelethez
 
 I. Ellenőrzés
