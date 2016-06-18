@@ -68,13 +68,13 @@ c) a Társadalmi Megújulás Operatív Program társfinanszírozásra szolgáló
 
 d) a külön jogszabályban meghatározott közfoglalkoztatás támogatására fordítható pénzeszközöket,
 
-e) az adórendszer átalakítása miatt kiegészítő munkáltatói támogatásra fordítható pályázati pénzeszközöket,
+e)
 
-f) a Nyugdíjbiztosítási Alapnak átadandó pénzeszközöket,
+f)
 
-g) a kincstár által terhelt, a számlavezetéssel kapcsolatos működési kiadásokat.
+g) a kincstár által terhelt, a számlavezetéssel kapcsolatos működési kiadásokat, valamint a megszűnt jogcímekhez kapcsolódó kifizetéseket,
 
-h) a kötelező legkisebb munkabér és a garantált bérminimum emeléséből 2013. első félévében adódó többletterhekhez igénybe vehető támogatásra fordítható pénzeszközöket.
+h)
 
 i)
 
