@@ -1,0 +1,1 @@
+19/P. § A Kttv.-nek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel (a továbbiakban: 2016. évi LXVII. törvény) megállapított 70. § (3) bekezdését a 2016. évi LXVII. törvény hatálybalépését követően közölt, munkaviszonyt megszüntető jognyilatkozatra kell alkalmazni.

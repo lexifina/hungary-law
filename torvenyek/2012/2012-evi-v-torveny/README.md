@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-5-00-00
 | 2015-04-15 | 2015. évi XXXII. törvény | 2012-5-00-00.22 |
 | 2016-01-01 | 2015. évi CCIII. törvény | 2012-5-00-00.23 |
 | 2016-01-30 | 1/2016. (I. 29.) AB határozat | 2012-5-00-00.24 |
+| 2016-06-18 | 2016. évi LXVII. törvény | 2012-5-00-00.25 |
