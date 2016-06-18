@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1990-87-00-00
 | 2013-01-01 | 2012. évi CLIX. törvény | 1990-87-00-00.43 |
 | 2013-04-01 | 2011. évi CC. törvény | 1990-87-00-00.44 |
 | 2013-07-15 | 2013. évi LXXI. törvény | 1990-87-00-00.45 |
+| 2016-06-18 | 2016. évi LXVII. törvény | 1990-87-00-00.46 |

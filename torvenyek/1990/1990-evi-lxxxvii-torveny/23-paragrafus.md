@@ -116,15 +116,9 @@ testülete
 
 |
 
-SZJ’03 72.30.21
-
 |
 
-A céginformációs szolgálat által biztosított céginformáció elektronikus adattovábbításának ára
-
 |
-
-igazságügyért felelős miniszter és az államháztartásért felelős miniszter
 
 |
 
