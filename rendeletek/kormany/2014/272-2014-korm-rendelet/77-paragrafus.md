@@ -30,6 +30,12 @@ c) az a) és b) pont alá nem tartozó esetben a kedvezményezett nyilatkozatát
 
 (5)[^347] Ha a kedvezményezett természetes személy vagy mikro-, kis- és középvállalkozás, az önerő rendelkezésre állásáról – választása szerint – a (4) bekezdés szerinti igazoló dokumentum benyújtása nélkül kizárólag a (3) bekezdés c) pontja szerint nyilatkozhat, amelyben vállalja, hogy a projekt megvalósítása során biztosítani fogja az önerő rendelkezésre állását.
 
+(6)[^348] Az (5) bekezdés szerinti esetben, ha a kedvezményezett a jogosulatlanul igénybe vett költségvetési támogatással összefüggésben keletkező visszafizetési kötelezettségét az irányító hatóság által meghatározott határnapig nem teljesíti, illetve annak részletekben történő teljesítése esetén a részletfizetési kötelezettségét elmulasztja, és a visszafizetendő összeget nem lehet tőle behajtani, az irányító hatóság kezdeményezi
+
+a) az állami adóhatóságnál a kedvezményezett és a kedvezményezettben többségi befolyással rendelkező szervezet adószámának törlését, vagy
+
+b) természetes személy kedvezményezett esetén a 164. § (3) bekezdés e) pontja szerinti kizárását az e rendelet hatálya alá tartozó támogatások igénybevételéből.
+
 [^340]: A 77. § (1) bekezdés a) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 14. pontja szerint módosított szöveg.
 [^341]: A 77. § (1) bekezdés d) pontja a 144/2015. (VI. 12.) Korm. rendelet 45. §-ával megállapított szöveg.
 [^342]: A 77. § (1) bekezdés e) pontját a 144/2015. (VI. 12.) Korm. rendelet 45. §-a iktatta be.
@@ -38,3 +44,4 @@ c) az a) és b) pont alá nem tartozó esetben a kedvezményezett nyilatkozatát
 [^345]: A 77. § (3a) bekezdését a 303/2015. (X. 16.) Korm. rendelet 4. §-a iktatta be.
 [^346]: A 77. § (4) bekezdése a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 28. pontja szerint módosított szöveg.
 [^347]: A 77. § (5) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 23. §-a iktatta be, szövege a 98/2016. (V. 13.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^348]: A 77. § (6) bekezdését a 145/2016. (VI. 13.) Korm. rendelet 3. §-a iktatta be.
