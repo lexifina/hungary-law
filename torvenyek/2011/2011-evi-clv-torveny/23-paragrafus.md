@@ -14,7 +14,7 @@ c)
 
 (2) Felhatalmazást kap a szakképzésért és felnőttképzésért felelős miniszter, hogy – az államháztartásért felelős miniszterrel és az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg
 
-a) az alaprészből a 12. § d), h), i) és j) pontja szerinti célra nyújtott támogatásokkal összefüggésben a támogatás és díjazás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre, továbbá a támogatásra irányuló pályázatok kiírására és elbírálására vonatkozó szabályokat,
+a) az alaprészből a 12. § d), h), és i) pontja szerinti célra nyújtott támogatásokkal összefüggésben a támogatás és díjazás mértékére, feltételeire, folyósítására, valamint a támogatás felhasználásáról történő elszámolásra és ellenőrzésre, továbbá a támogatásra irányuló pályázatok kiírására és elbírálására vonatkozó szabályokat,
 
 b) az alaprészből felnőttképzési célra nyújtott támogatások részletes szabályait,
 

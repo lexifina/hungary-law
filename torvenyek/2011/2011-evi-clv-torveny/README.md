@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-155-00-00
 | 2015-09-01 | 2015. évi LXVI. törvény | 2011-155-00-00.13 |
 | 2015-12-31 | 2015. évi LXVI. törvény | 2011-155-00-00.14 |
 | 2016-01-01 | 2015. évi LXVI. törvény | 2011-155-00-00.15 |
+| 2016-06-18 | 2016. évi LXVII. törvény | 2011-155-00-00.16 |

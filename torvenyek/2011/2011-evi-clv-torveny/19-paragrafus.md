@@ -8,7 +8,7 @@
 
 (7) Az alaprész központi keretéből támogatás nyújtható a gazdasági kamaráknak – a gazdasági kamaráknak nyújtott támogatási kereten belül, a gazdasági kamarák szakképzési feladatellátásában megállapodás alapján együttműködő országos gazdasági érdek-képviseleti szervezeteknek – a gazdasági kamarákról szóló törvényekben, valamint a szakképzésről szóló törvényben meghatározott feladataik, továbbá a szakképesítésért felelős miniszterrel kötött megállapodásban foglalt szakképzési feladatok ellátására.
 
-(8) Az (5)–(7) és a (9)–(17) bekezdés alapján kapott támogatásokat egyéb bevételként kell elszámolni.
+(8)
 
 (9) Az alaprész központi keretéből – kérelemre – támogatás nyújtható az állami szakképzési és felnőttképzési szerv, az országos gazdasági érdekképviseletek, a szakképzés és felnőttképzés fejlesztésében közreműködő közalapítványok és szakmai szervezetek részére a szakképzés és felnőttképzés fejlesztéssel összefüggő feladataik ellátásához, valamint – pályázat útján – országos szakmai tanulmányi versenyek szervezéséhez.
 
