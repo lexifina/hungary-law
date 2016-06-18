@@ -1,5 +1,0 @@
-122. § (1) A 120. § (2) bekezdése szerinti apportálással a Társaság tulajdonába kerülő ingatlan vagyonelemeken e törvény erejénél fogva az apportálásnak a cégjegyzékbe történő bejegyzéséről szóló cégbírósági végzés jogerőre emelkedésének napjától számított 5 évig elidegenítési tilalom áll fenn. Az elidegenítési tilalomnak az állam javára szóló ingatlan-nyilvántartásba történő feljegyzését az MNV Zrt. kérelmezi a 120. § (2) bekezdése szerinti végzés jogerőre emelkedését követően.
-
-(2) Az élelmiszerlánc-felügyeletért felelős miniszter az elidegenítési tilalom hatálya alatt – a Tokaji Borvidék Hegyközségi Tanácsának kezdeményezésére – egyedi döntéssel hozzájárulhat az (1) bekezdés szerint elidegenítési tilalom hatálya alatt álló ingatlanok elidegenítéséhez azzal, hogy a vagyonelemek elidegenítésének ellenértékét a 120. § (1) bekezdésében meghatározott közfeladat ellátására kell fordítani.
-
-(3) A 120. § (1) bekezdése alapján ingyenesen tulajdonba adott vagyon tekintetében nem kell alkalmazni a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (4) bekezdés b) pontját.

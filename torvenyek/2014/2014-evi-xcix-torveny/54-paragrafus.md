@@ -1,4 +1,4 @@
-54. § Az államháztartásról szóló 2011. évi CXCV. törvény
+54. §
 
 1–45.
 
