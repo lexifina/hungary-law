@@ -8,4 +8,4 @@
 
 ## van folyamatban. A kincstár az eljárását legfeljebb az a)–c) pont szerinti eljárás befejezéséig – ideértve a másodfokú eljárást, a közigazgatási döntés bírósági felülvizsgálatát, a Kúria felülvizsgálati eljárását és a megismételt eljárást is – függesztheti fel.”
 
-55. § A gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 147. § (1) bekezdése helyébe a következő rendelkezés lép:
+### 55. §

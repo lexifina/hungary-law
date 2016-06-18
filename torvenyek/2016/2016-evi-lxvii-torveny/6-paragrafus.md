@@ -4,7 +4,7 @@
 
 1. 10. § (2) bekezdésében a „megegyezik az adósságot keletkeztető ügylet összegével” szövegrész helyébe a „nem haladja meg az adósság összegét” szöveg,
 
-2. 10. § (3) bekezdés c) pont ca) alpontjában a „megnyert támogatás” szövegrész helyébe az „elnyert, fejlesztési célú támogatás” szöveg,
+2.
 
 3. 10/D. § (1) bekezdés b) pontjában a „futamidejű vagy nagyobb ügyletértékű, vagy” szövegrész helyébe a „futamidejű, nagyobb ügyletértékű, megváltozik az adósságot keletkeztető ügylet célja,” szöveg,
 

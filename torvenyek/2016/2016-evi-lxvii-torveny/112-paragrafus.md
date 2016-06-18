@@ -1,3 +1,3 @@
 ## „(3b) Az egyházi és magánfenntartó – a központi költségvetésről szóló törvényben biztosított – támogatásával kapcsolatos hatósági eljárásokban nem kell meghozni a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntést, valamint a hatóság vezetője az e bekezdés szerinti eljárás ügyintézési határidejét annak letelte előtt indokolt esetben, az indokok megjelölésével egy alkalommal, legfeljebb huszonegy nappal végzésben meghosszabbíthatja.”
 
-112. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény 6. melléklete az 5. melléklet szerint módosul.
+### 112. §

@@ -1,11 +1,3 @@
-## „10/A. § Az önkormányzat a Kormány előzetes hozzájárulásával kizárólag
-
-## a) jogerős és végrehajtható bírósági határozatban foglalt fizetési kötelezettségének teljesítésére, és
-
-## b) a központi költségvetésből nyújtott európai uniós vagy más nemzetközi szervezettől elnyert, nem fejlesztési célú pályázata önrészének biztosítására
-
-## köthet naptári éven túli futamidejű működési célú adósságot keletkeztető ügyletet.”
-
 3. § (1) A Magyarország gazdasági stabilitásáról szóló 2011. évi CXCIV. törvény 10/B. § (2) bekezdése helyébe a következő rendelkezés lép:
 
 ## „(2) Az önkormányzat kezesség-, illetve garanciavállalásához a Kormány abban az esetben járul hozzá, ha

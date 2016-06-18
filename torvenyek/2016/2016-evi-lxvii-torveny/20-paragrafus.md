@@ -16,6 +16,6 @@
 
 3. 109. § (1) bekezdés 15. pontjában az „ideértve az a) és b) ponttal összefüggésben az európai strukturális és beruházási alapokból származó források felhasználására vonatkozó sajátos szabályait,” szövegrész,
 
-4. 109. § (1) bekezdés 31. pontjában az „ , a központi költségvetésből nyújtott nemzetiségi célú támogatásoknak” szövegrész,
+4.
 
 5. 109. § (5) bekezdés a) pont ag) alpontjában az „az európai uniós forrásból nyújtott költségvetési támogatások esetében a közreműködő szervezetet,” szövegrész.
