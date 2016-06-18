@@ -34,7 +34,7 @@ bm) a 18. életévét be nem töltött versenyző javára a sporttevékenységé
 
 (2) Felhatalmazást kap a sportpolitikáért felelős miniszter, hogy rendeletben állapítsa meg
 
-a) az egyes sportcélú ingatlanok tulajdoni helyzetének rendezéséről szóló 1996. évi LXV. törvény 5. §-ának (5) bekezdésében meghatározott méltányossági hozzájárulás iránti kérelemhez csatolandó okiratok, tervek és adatok körét, valamint a méltányossági eljárás szabályait,
+a)
 
 b) a sportági stratégiai fejlesztési koncepciók egységes követelményrendszerét,
 

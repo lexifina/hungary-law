@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2015-12-23 | 2015. évi CCXVIII. törvény | 2004-1-00-00.50 |
 | 2016-03-10 | 2016. évi II. törvény | 2004-1-00-00.51 |
 | 2016-04-12 | 2016. évi XVIII. törvény | 2004-1-00-00.52 |
+| 2016-06-18 | 2016. évi LXVII. törvény | 2004-1-00-00.53 |
