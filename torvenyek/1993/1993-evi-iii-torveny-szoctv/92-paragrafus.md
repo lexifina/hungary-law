@@ -2,7 +2,7 @@
 
 a) a fenntartó önkormányzat,
 
-b) ha a fenntartó önkormányzati társulás, akkor a társulási megállapodásban erre kijelölt települési önkormányzat a társulási megállapodásban meghatározottak szerint
+b) ha a fenntartó önkormányzati társulás, akkor a társulási megállapodásban megjelölt székhely szerinti települési önkormányzat a társulási megállapodásban meghatározottak szerint
 
 rendeletet alkot.
 
