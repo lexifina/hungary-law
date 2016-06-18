@@ -1,6 +1,6 @@
 ## 62. Zárszámadás az államháztartás központi alrendszerében
 
-90. § (1) A Kormány a zárszámadásról szóló törvényjavaslatot a költségvetési évet követő nyolcadik hónap utolsó napjáig az Országgyűlés elé terjeszti. A Kormány a zárszámadásról szóló törvényjavaslatot, a társadalombiztosítás pénzügyi alapjairól és az elkülönített állami pénzalapokról készített éves költségvetési beszámolókat a zárszámadásról szóló törvényjavaslat Országgyűlés elé történő beterjesztését két hónappal megelőzően megküldi az Állami Számvevőszéknek. A zárszámadásról szóló törvényjavaslatot az Országgyűlés az Állami Számvevőszék jelentésével együtt tárgyalja meg.
+90. § (1) A Kormány a zárszámadásról szóló törvényjavaslatot a költségvetési évet követő év szeptember 30-áig az Országgyűlés elé terjeszti. A Kormány a zárszámadásról szóló törvényjavaslatot, a társadalombiztosítás pénzügyi alapjairól és az elkülönített állami pénzalapokról készített éves költségvetési beszámolókat a zárszámadásról szóló törvényjavaslat Országgyűlés elé történő beterjesztését két hónappal megelőzően megküldi az Állami Számvevőszéknek. A zárszámadásról szóló törvényjavaslatot az Országgyűlés az Állami Számvevőszék jelentésével együtt tárgyalja meg.
 
 (2) A zárszámadásról szóló törvényben jóvá kell hagyni a költségvetési hiány finanszírozásának vagy a költségvetési többlet felhasználásának módját.
 
@@ -14,7 +14,7 @@ c) a Gst. 2. § (2)–(4) bekezdése szerinti bontásban az államadósságot, �
 
 d) az állami kezességek, állami garanciák és állami viszontgaranciák állományát,
 
-e) az állam tulajdonában álló gazdálkodó szervezetek működéséből származó kötelezettségeket, a részesedések alakulását,
+e) az állam tulajdonában álló részesedések, valamint az állam többségi befolyása alatt álló gazdasági társaságok kötelezettségállománya alakulását,
 
 f) a középtávú tervezés során figyelembe vett makrogazdasági és költségvetési előrejelzés értékelését,
 

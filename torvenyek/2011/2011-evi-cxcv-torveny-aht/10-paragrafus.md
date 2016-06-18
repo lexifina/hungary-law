@@ -6,7 +6,7 @@
 
 (3)
 
-(4) A költségvetési szerv – a (4a) és (4b) bekezdésben meghatározott kivétellel – gazdasági szervezettel rendelkezik. A gazdasági szervezetet a Kormány rendeletében meghatározott képesítéssel rendelkező gazdasági vezető irányítja.
+(4) A költségvetési szerv – a (4a) és (4b) bekezdésben meghatározott kivétellel – gazdasági szervezettel rendelkezik. A gazdasági szervezetet a Kormány rendeletében meghatározott képesítéssel rendelkező gazdasági vezető vezeti.
 
 (4a) A gazdasági szervezet feladatait, ha a költségvetési szerv éves átlagos statisztikai állományi létszáma a 100 főt nem éri el,
 

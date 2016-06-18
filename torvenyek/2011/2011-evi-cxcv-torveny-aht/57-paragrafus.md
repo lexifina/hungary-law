@@ -4,7 +4,7 @@
 
 ## 40. A helyi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások igénylése
 
-57. § (1) A helyi önkormányzat az általános működéséhez és ágazati feladataihoz kapcsolódó támogatásokat (e Fejezet alkalmazásában a továbbiakban: támogatás) a kincstár útján igényli, azok módosítását a kincstár útján kezdeményezi, és azokról a kincstár útján mond le.
+57. § (1) A helyi önkormányzat az általános működéséhez és ágazati feladataihoz kapcsolódó támogatásokat (e Fejezet alkalmazásában a továbbiakban: támogatás) a kincstár útján igényli, azok módosítását a kincstár útján kezdeményezi, azokról a kincstár útján mond le, és az éves költségvetési beszámolót megalapozó végleges adatszolgáltatást a kincstár útján teljesíti.
 
 (2) A kincstár a rendelkezésére álló adatok alapján, illetve helyszíni ellenőrzés során ellenőrzi a támogatások igénylésének és módosításának megalapozottságát.
 

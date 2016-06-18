@@ -4,15 +4,17 @@
 
 (1a) Az (1) bekezdés szerinti hitel, kölcsön nyújtásához, átütemezéséhez a Vtv. 3. § (2) bekezdés a) pontja szerinti és az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaság esetén az államháztartásért felelős miniszter és a kormányzati tevékenység összehangolásáért felelős miniszter, egyéb gazdasági társaság esetén az államháztartásért felelős miniszter és az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyása szükséges.
 
-(2) Az állam tulajdonában álló gazdasági társaságnak az állam nevében tőkeemelést, pótbefizetést és támogatást – a szakmai feladatok ellátásához nyújtott támogatás kivételével –
+(2) Az állam tulajdonában álló gazdasági társaságnak az állam nevében tőkeemelést, pótbefizetést és támogatást – a szakmai feladatok ellátásához nyújtott támogatás kivételével – a Vtv. 3. § (2) bekezdés a) pontjában és a (2a) bekezdés a) pontja szerinti miniszteri rendeletben kijelölt tulajdonosi joggyakorló, valamint az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaság esetén a kormányzati tevékenység összehangolásáért felelős miniszter, más esetben az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyásával lehet nyújtani. A jóváhagyásról az államháztartásért felelős miniszter és az állami támogatások versenyszempontú ellenőrzéséért felelős szerv írásos véleményének ismeretében kell dönteni.
+
+(2a) A (2) bekezdés szerinti, pénzben teljesített tőkeemelést, pótbefizetést, támogatást
 
 a) a törvényben vagy miniszteri rendeletben kijelölt tulajdonosi joggyakorló a központi költségvetésről szóló törvényben e célra megtervezett központi kezelésű előirányzatok terhére,
 
-b) az Nvt. 8. § (7) bekezdése szerinti meghatalmazott az MNV Zrt. útján
+b) az Nvt. 8. § (7) bekezdése szerinti meghatalmazott az MNV Zrt. útján, a (2b) bekezdésben meghatározottak szerint
 
-teljesíthet, a Vtv. 3. § (2) bekezdés a) pontja szerinti és az MFB Zrt. tulajdonosi joggyakorlása alatt álló gazdasági társaság esetén a kormányzati tevékenység összehangolásáért felelős miniszter, más esetekben az állami vagyon felügyeletéért felelős miniszter előzetes jóváhagyásával. A jóváhagyásról az államháztartásért felelős miniszter és az állami támogatások versenyszempontú ellenőrzéséért felelős szerv írásos véleményének ismeretében kell dönteni.
+teljesíthet.
 
-(2a) A (2) bekezdés b) pontja szerinti tőkeemeléshez, pótbefizetéshez, támogatáshoz szükséges kiadási előirányzatot az Nvt. 8. § (7) bekezdése szerinti, az államháztartás központi alrendszerébe tartozó meghatalmazott költségvetéséből a 14. § (4) bekezdés b) pontja szerinti fejezetbe a 33. § (3) és (4) bekezdése szerint át kell csoportosítani. Ha az Nvt. 8. § (7) bekezdése szerinti meghatalmazott az államháztartás központi alrendszerén kívüli szervezet, a (2) bekezdés b) pontja szerinti tőkeemeléshez, pótbefizetéshez, támogatáshoz szükséges összeget megfizeti az állam számára, amelyet a 14. § (4) bekezdés b) pontja szerinti fejezet bevételeként kell elszámolni. Az erre a célra befizetett összeggel a fejezet forrásjuttatás biztosítására szolgáló költségvetési kiadási előirányzatait a fejezetet irányító szerv módosíthatja.
+(2b) A (2a) bekezdés b) pontja szerinti tőkeemeléshez, pótbefizetéshez, támogatáshoz szükséges kiadási előirányzatot az Nvt. 8. § (7) bekezdése szerinti, az államháztartás központi alrendszerébe tartozó meghatalmazott költségvetéséből a 14. § (4) bekezdés b) pontja szerinti fejezetbe a 33. § (3) és (4) bekezdése szerint át kell csoportosítani. Ha az Nvt. 8. § (7) bekezdése szerinti meghatalmazott az államháztartás központi alrendszerén kívüli szervezet, a (2a) bekezdés b) pontja szerinti tőkeemeléshez, pótbefizetéshez, támogatáshoz szükséges pénzösszeget megfizeti az állam számára, amelyet a 14. § (4) bekezdés b) pontja szerinti fejezet bevételeként kell elszámolni. Az erre a célra befizetett összeggel a fejezet forrásjuttatás biztosítására szolgáló költségvetési kiadási előirányzatait a fejezetet irányító szerv módosíthatja.
 
 (3) Az állami vagyonnal való gazdálkodás során a tulajdonosi joggyakorló saját nyilvántartásaiban nem számolhatja el az állam nevében végzett műveletek hatását.
 

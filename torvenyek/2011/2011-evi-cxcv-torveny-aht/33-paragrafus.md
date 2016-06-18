@@ -20,7 +20,7 @@ bd) az az államháztartás központi alrendszerébe tartozó költségvetési s
 
 be) az európai uniós források felhasználásához kapcsolódik vagy
 
-bf) elkülönített állami pénzalap javára feladatátadással kapcsolatban szükséges.
+bf) elkülönített állami pénzalap és fejezeti kezelésű előirányzat javára feladatátadással kapcsolatban szükséges.
 
 (4) A (3) bekezdés alapján
 

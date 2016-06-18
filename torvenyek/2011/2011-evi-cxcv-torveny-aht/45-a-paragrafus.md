@@ -1,4 +1,10 @@
-45/A. § (1) Az állam Magyarország területén székhellyel rendelkező, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény alapján banknak minősülő hitelintézetben a piaci magánbefektető elv alapján, jogi és adózási megfelelőségi vizsgálat lefolytatását követően, középtávú üzleti tervvel alátámasztott alaptőke-felemeléssel, a központi költségvetésről szóló törvényben biztosított költségvetési kiadási előirányzat terhére tulajdonosi részesedést szerezhet.
+45/A. § (1) Az állam Magyarország területén székhellyel rendelkező, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény alapján banknak minősülő hitelintézetben az alaptőke felemelése útján tulajdonosi részesedést szerezhet, ha
+
+a) érvényesül a piaci magánbefektető elve,
+
+b) ezt a bank középtávú üzleti terve alátámasztja, és
+
+c) sor kerül jogi és pénzügyi megfelelőségi vizsgálat lefolytatására.
 
 (2) Az alaptőke felemelésére vonatkozó, valamint az állam tulajdonszerzésének bejegyzésére irányuló jogügylet tekintetében, továbbá a hatósági és bírósági eljárásokban az államot a gazdaságpolitikáért felelős miniszter képviseli.
 
