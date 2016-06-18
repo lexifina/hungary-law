@@ -1,1 +1,0 @@
-15/B. § A Módtv.-vel megállapított 6. § (4) bekezdés e) pontja szerinti adatokat az egészségügyi szolgáltatóknak első alkalommal 2014. július 1-jéig kell bejelenteni az egészségügyi államigazgatási szerv részére.
