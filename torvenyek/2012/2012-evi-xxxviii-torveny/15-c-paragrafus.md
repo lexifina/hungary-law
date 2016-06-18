@@ -1,1 +1,1 @@
-15/C. § Az egyes egészségügyi tárgyú törvények módosításáról szóló 2012. évi CCXII. törvénnyel megállapított 5. § (1a) bekezdését az annak hatálybalépésekor folyamatban lévő ügyekre is alkalmazni kell.
+15/C. §

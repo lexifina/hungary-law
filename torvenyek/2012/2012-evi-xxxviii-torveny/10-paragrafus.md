@@ -1,9 +1,3 @@
 ## 4. Az átvett intézmények foglalkoztatottai és a települési önkormányzati hivataloknál foglalkoztatott köztisztviselők
 
-10. § (1) Az átvételre kerülő egészségügyi intézmény működtetését, irányítását ellátó, a települési önkormányzatnál foglalkoztatott köztisztviselők és munkavállalók (a továbbiakban együtt: foglalkoztatottak) a kijelölt szerv állományába kerülnek át, kivéve, ha a kijelölt szerv vezetője az érintett személy foglalkoztatásához nem járul hozzá. Az átvételről e törvény hatálybalépését követő 90. napig köteles nyilatkozni a kijelölt szerv vezetője. Az át nem vett foglalkoztatottak álláshelyei a kijelölt szerv állományába kerülnek át.
-
-(2) A közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény (a továbbiakban: Kttv.) 72. §-ától, illetve 229. § (3) bekezdésétől eltérően nem alakul át a köztisztviselő jogviszonya, ha a kijelölt szerv vezetője az (1) bekezdés alapján az átadással érintett köztisztviselő foglalkoztatásához nem járul hozzá. Ebben az esetben a közszolgálati jogviszony vagy a munkaviszony e törvény erejénél fogva az átadás időpontjában, vagy – ha ez az átadás időpontjánál későbbi – a kijelölt szerv vezetője nyilatkozatának kiadmányozása napját követő napon megszűnik. A jogviszony megszűnéséről a foglalkoztatottat az átadás vagy – ha ez az átadás időpontjánál későbbi – a nyilatkozat kiadmányozása napjával írásban értesíteni kell. A jogviszony megszűnésével kapcsolatos eljárásokra és a foglalkoztatottat megillető járandóságokra a Kttv.-nek az államigazgatási szerv jogutód nélküli megszűnése esetére irányadó rendelkezéseit kell alkalmazni azzal, hogy a jogviszony megszűnésével összefüggésben a felügyeleti szerv által ellátandó munkáltatói feladatokat a kijelölt szerv látja el.
-
-(3) A tulajdonjog és fenntartói jog átszállása nem érinti az egészségügyi intézmény által alkalmazottak közalkalmazotti jogviszonyát, illetve munkaviszonyát.
-
-(4) A tulajdonjog és fenntartói jog átszállása nem érinti az egészségügyi szolgáltatónál az egészségügyi tevékenység végzésében egyéb jogviszony keretében közreműködő egészségügyi dolgozó munkavégzésre irányuló jogviszonyát.
+10. §

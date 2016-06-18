@@ -1,1 +1,1 @@
-7. § Az európai uniós társfinanszírozású projektek tekintetében a kedvezményezett önkormányzat jogutóda a fejlesztéssel érintett átvett intézmény. A jogutódlás, valamint a fenntartóváltozás miatti szerződésmódosítást az átvett intézmény az átadás-átvétel időpontjától számított 30 napon belül kezdeményezi a támogatónál, illetve a közreműködő szervezetnél.
+7. §
