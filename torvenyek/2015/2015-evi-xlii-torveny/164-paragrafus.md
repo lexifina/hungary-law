@@ -2,7 +2,7 @@
 
 (2) A rendvédelmi szerv az előlegnyújtásból eredő követelését a hivatásos állomány tagjának illetményéből levonhatja. Az illetményből való levonásra egyebekben a bírósági végrehajtás szabályai az irányadók.
 
-(3) A jogalap nélkül kifizetett illetmény hatvan napon belül írásbeli fizetési felszólítással visszakövetelhető a hivatásos állomány tagjától. Az általános elévülési időn belül visszakövetelhető a jogalap nélkül felvett illetmény, ha annak alaptalanságáról a hivatásos állomány tagja tudott vagy tudnia kellett volna.
+(3) A jogalap nélkül kifizetett illetmény hatvan napon belül az előlegnyújtásból eredő követelésre vonatkozó szabályok szerint visszakövetelhető a hivatásos állomány tagjától. Az általános elévülési időn belül visszakövetelhető a jogalap nélkül felvett illetmény, ha annak alaptalanságáról a hivatásos állomány tagja tudott vagy tudnia kellett volna.
 
 (4) Engedményezésnek csak pénzkövetelés esetén van helye. A levonásmentes illetményrész nem engedményezhető, és a hivatásos állomány tagja az illetményre vonatkozó igényéről előre nem mondhat le. A levonásmentes illetményrész a bírósági végrehajtásról szóló jogszabály alapján teljesíthető levonások után fennmaradó illetményrész.
 

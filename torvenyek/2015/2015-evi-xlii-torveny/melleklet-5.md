@@ -89,9 +89,3 @@
 ## b) tőrm. – törzsőrmester
 
 ## c) ftőrm. – főtörzsőrmester
-
-## d) zls. – zászlós
-
-## e) tzls. – törzszászlós
-
-## f) ftzls. – főtörzszászlós

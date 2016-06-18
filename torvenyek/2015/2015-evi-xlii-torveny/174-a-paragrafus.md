@@ -1,0 +1,1 @@
+174/A. § Ha az 58. § (5) bekezdése szerint kinevezett területi vagy helyi szerv vezetőjének a 171. § (1) bekezdés a) pontja szerinti elhelyezésének biztosításához különös szolgálati érdek fűződik, a rendvédelmi szerv az állam nevében eljárva kizárólag az ingatlan zártvégű pénzügyi lízing útján történő megszerzése céljából adósságot keletkeztető ügyletet köthet.
