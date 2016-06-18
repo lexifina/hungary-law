@@ -92,7 +92,11 @@ a munkáltató a kormánytisztviselő részére más, nemzetbiztonsági ellenőr
 
 (5) Ha a rendőrségről szóló törvény az e törvényben meghatározott munkavégzési szabályra külön ellenőrzési lehetőséget teremt az államigazgatási szerv kormánytisztviselői tekintetében, a kormányzati szolgálati jogviszony létesítésének és fenntartásának feltétele az ellenőrzéshez való hozzájárulás.
 
-(6) Jogszabály – vagy jogszabály által meghatározott esetben a munkáltatói jogkör gyakorlója – a kormányzati szolgálati jogviszony létesítését az (1) bekezdésben foglaltakon túlmenően meghatározott iskolai végzettséghez és szakképzettséghez, szakképesítéshez, munkaköri követelményhez, illetve gyakorlati idő letöltéséhez, valamint egészségi és pszichikai alkalmassághoz, továbbá képességhez kötheti.
+(6) Jogszabály vagy jogszabály által meghatározott esetben a munkáltatói jogkör gyakorlója
+
+a) a kormányzati szolgálati jogviszony létesítését az (1) bekezdésben foglaltakon túlmenően meghatározott iskolai végzettséghez és szakképzettséghez, szakképesítéshez, munkaköri követelményhez, illetve gyakorlati idő letöltéséhez, valamint egészségi és pszichikai alkalmassághoz, továbbá képességhez kötheti,
+
+b) a kizárólag helyszíni hatósági ellenőrzési tevékenység ellátására irányuló kormányzati szolgálati jogviszony létesítéséhez követelményként – a 40. § (2) bekezdésétől eltérően – középiskolai végzettséget is megállapíthat.
 
 (6a) Nem nevezhető ki kormánytisztviselőnek a 7. § (1) bekezdés a) pontjában meghatározott öregségi nyugdíjra való jogosultsággal rendelkező személy, kivéve ha a Kormány a munkáltató kérelmére hozzájárul a kormánytisztviselő foglalkoztatásához.
 

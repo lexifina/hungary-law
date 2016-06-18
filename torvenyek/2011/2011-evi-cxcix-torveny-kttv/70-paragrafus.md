@@ -20,8 +20,8 @@ időtartama alatt.
 
 (2) Az (1) bekezdés szerinti védelem alkalmazása szempontjából a felmentés közlésének időpontja az irányadó.
 
-(3) Az (1) bekezdés a) és f) pontjában meghatározott körülményre a kormánytisztviselő csak akkor hivatkozhat, ha erről a munkáltatót tájékoztatta.
+(3) Az (1) bekezdés a) és f) pontjában meghatározott körülményre a kormánytisztviselő csak akkor hivatkozhat, ha erről a munkáltatót tájékoztatta. A felmentés közlését követő kormánytisztviselői tájékoztatás esetén a munkáltató a felmentést a kormányzati szolgálati jogviszony megszűnéséig írásban visszavonhatja.
 
 (4) Az (1) bekezdés c) pontja szerinti védelem a fizetés nélküli szabadság igénybevétele nélkül azt a szülőt illeti meg, aki a fizetés nélküli szabadságot utoljára igénybe vette.
 
-(5) Az (1) bekezdés c) pontjában meghatározott védelem az anyát illeti meg, ha a fizetés nélküli szabadságot mindkét szülő igénybe veszi.
+(5)

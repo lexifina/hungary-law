@@ -187,11 +187,3 @@ A tartalékállományba helyezett közszolgálati tisztviselők nyilvántartás�
 ## 7. feladatkörhöz/munkakörhöz tartozó főbb feladatok
 
 ## 8. a megszűnés módja
-
-## IV.
-
-## 1. az alkalmazó közigazgatási szerv neve és címe
-
-## 2. a tartalékállományba helyezés időpontja
-
-## 3. a tartalékállományba helyezés időtartama
