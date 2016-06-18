@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-48-00-00
 | 2015-07-03 | 2015. évi LXXIX. törvény | 1993-48-00-00.65 |
 | 2015-12-10 | 34/2015. (XII. 9.) AB határozat | 1993-48-00-00.66 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 1993-48-00-00.67 |
+| 2016-06-18 | 2016. évi LXVII. törvény | 1993-48-00-00.68 |
