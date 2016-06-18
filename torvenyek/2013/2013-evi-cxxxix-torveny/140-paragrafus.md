@@ -160,11 +160,9 @@ cg) a Bit. 310. § (4)–(5) bekezdése szerinti vizsgálatról és az annak ala
 
 ch) a Bit. 335. § (8)–(9) bekezdése szerinti vizsgálatról és az annak alapján hozott határozatról,
 
-ci) a Bit. 350. § (3) bekezdése szerinti közös határozatról,
+ci)–cj)
 
-cj) a Bit. 351. § (9) bekezdése és 352. § (3) bekezdése szerinti információkról,
-
-ck) a Bit. 279. § (5) bekezdésében és a 284. § (3) bekezdésében meghatározott tájékoztatás megtagadásának, továbbá a Bit. 289. § (3) és (4) bekezdésében meghatározott intézkedéseknek a számáról és típusáról;
+ck)
 
 d) az Európai Bankbizottságot a harmadik országban székhellyel rendelkező hitelintézet magyarországi fióktelepére kiadott tevékenységi engedélyről,
 
