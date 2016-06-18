@@ -11,3 +11,5 @@
 (6) A köztulajdonban álló gazdasági társaságnak az e törvény hatálybalépését megelőzően kötött, a 2. § (7) bekezdésében meghatározott közzétételi kötelezettség hatálya alá eső szerződésekkel kapcsolatos adatait első alkalommal 2010. március 1-jéig kell közzétenni.
 
 (7) E törvény 5–7. §-át a Magyar Nemzeti Bankra, annak felügyelőbizottsági tagjaira, illetve a Magyar Nemzeti Bankkal munkaviszonyban álló személyekre nem kell alkalmazni.
+
+(8) A Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel (a továbbiakban: Módtv2.) megállapított 7/I. § (2) és (3) bekezdésének rendelkezéseit a Módtv2. hatálybalépését megelőzően keletkezett adatok, megkötött szerződések és adat megismerése iránt benyújtott igények tekintetében, valamint a Módtv2. hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.

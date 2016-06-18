@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-122-00-00
 | 2013-11-30 | 2013. évi CXCVI. törvény | 2009-122-00-00.10 |
 | 2014-12-24 | 2014. évi XCI. törvény | 2009-122-00-00.11 |
 | 2015-07-10 | 2015. évi XCIV. törvény | 2009-122-00-00.12 |
+| 2016-06-18 | 2016. évi LXVII. törvény | 2009-122-00-00.13 |
