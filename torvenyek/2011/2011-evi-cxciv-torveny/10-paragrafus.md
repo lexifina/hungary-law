@@ -1,6 +1,6 @@
 10. § (1) Az önkormányzat érvényesen kizárólag a Kormány előzetes hozzájárulásával vállalhat a Polgári Törvénykönyv szerinti kezességet és garanciát, valamint köthet adósságot keletkeztető ügyletet.
 
-(2) Települési önkormányzat adósságot keletkeztető ügyletet csak abban az esetben köthet, ha a hatályos helyi adó rendelete alapján a helyi iparűzési adót vagy a helyi adókról szóló törvény szerinti vagyoni típusú adók közül legalább az egyiket vagy a magánszemélyek kommunális adóját bevezette. E rendelkezést nem kell alkalmazni a települési önkormányzat olyan adósságot keletkeztető ügyletére, amelyhez nincs szükség a Kormány hozzájárulására, illetve amelynek célja meglévő adósság visszafizetése, ha annak összege megegyezik az adósságot keletkeztető ügylet összegével.
+(2) Települési önkormányzat adósságot keletkeztető ügyletet csak abban az esetben köthet, ha a hatályos helyi adó rendelete alapján a helyi iparűzési adót vagy a helyi adókról szóló törvény szerinti vagyoni típusú adók közül legalább az egyiket vagy a magánszemélyek kommunális adóját bevezette. E rendelkezést nem kell alkalmazni a települési önkormányzat olyan adósságot keletkeztető ügyletére, amelyhez nincs szükség a Kormány hozzájárulására, illetve amelynek célja meglévő adósság visszafizetése, ha annak összege nem haladja meg az adósság összegét.
 
 (3) Nincs szükség a Kormány hozzájárulására az önkormányzat
 
