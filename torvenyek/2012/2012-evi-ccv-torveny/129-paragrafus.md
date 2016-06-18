@@ -13,3 +13,5 @@
 (6) Az illetmény késedelmes folyósítása esetén, ha az a Honvédség hibájából következik be, az állomány tagja a Polgári Törvénykönyvről szóló törvény szerinti késedelmi kamatra jogosult.
 
 (7) Az állomány tagja részére a folyósított illetményről részletes, írásbeli elszámolást kell adni, amelyből mind a kiszámítás helyessége, mind a levonások jogcíme és összege ellenőrizhető.
+
+(8) Az állomány tagját, ha az illetmény tárgyhónapra vonatkozó elszámolását követően bekövetkező ok miatt az elszámolás módosítása szükséges, a tárgyhónapra vonatkozó illetményelszámolás módosításáról legkésőbb a következő havi illetmény elszámolásakor tájékoztatni kell. Az illetménykülönbözetet a következő havi illetménnyel egyidejűleg ki kell fizetni.
