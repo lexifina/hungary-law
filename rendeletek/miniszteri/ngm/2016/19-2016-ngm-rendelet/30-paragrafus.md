@@ -1,0 +1,3 @@
+30. § (1) Amennyiben a 29. § (2) bekezdésében rögzített eljárás befejezését követően kifogást emelnek a piacfelügyeleti hatóság valamelyik intézkedésével szemben vagy ha a Bizottság úgy ítéli meg, hogy a nemzeti intézkedés ellentétes az európai uniós jogszabályokkal, a piacfelügyeleti hatóság intézkedik az indokolatlan intézkedés visszavonásáról.
+
+(2) Amennyiben a nemzeti intézkedés a Bizottság döntése alapján indokolt, akkor a piacfelügyeleti hatóság meghozza a szükséges intézkedéseket, hogy a nem megfelelő nem automatikus működésű mérleget kivonja piacáról, és erről tájékoztatja a Bizottságot.

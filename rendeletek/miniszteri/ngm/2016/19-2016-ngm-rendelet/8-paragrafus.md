@@ -1,0 +1,13 @@
+## 7. A forgalmazó kötelezettségei
+
+8. § (1) A nem automatikus működésű mérleg forgalmazása előtt a forgalmazó ellenőrzi, hogy a terméken elhelyezésre került-e a CE-jelölés és a kiegészítő metrológiai jelölés, mellékelték-e hozzá a szükséges dokumentációt, a használati utasítást és a biztonsági tájékoztatót az adott tagállam hivatalos nyelvén, ahol a terméket forgalmazzák, valamint, hogy a gyártó és az importőr betartotta-e az 5. § (5) és (6) bekezdésében, illetve a 7. § (3) bekezdésében meghatározott követelményeket.
+
+(2) Amennyiben a forgalmazó úgy ítéli meg vagy okkal feltételezi, hogy a nem automatikus működésű mérleg nem felel meg az 1. mellékletben előírt alapvető követelményeknek, nem forgalmazhatja a nem automatikus működésű mérleget mindaddig, amíg azt megfelelővé nem tették. Amennyiben a nem automatikus működésű mérleg kockázatot jelent, a forgalmazó tájékoztatja erről a gyártót vagy az importőrt, valamint a piacfelügyeleti hatóságokat.
+
+(3) Az 1. § (3) bekezdés g) pontjában felsorolt alkalmazásokra szánt, nem automatikus működésű mérleg forgalomba hozatalakor a forgalmazó ellenőrzi, hogy a gyártó és az importőr megfelel-e az 5. § (5) és (6) bekezdésében, valamint a 7. § (3) bekezdésében szereplő követelményeknek.
+
+(4) A forgalmazó biztosítja, hogy amíg az 1. § (3) bekezdésében felsorolt alkalmazásokra szánt, nem automatikus működésű mérleg a felelősségi körébe tartozik, a tárolás és a szállítás körülményei ne veszélyeztessék az 1. mellékletben meghatározott alapvető követelményeknek való megfelelését.
+
+(5) Az a forgalmazó, amelynek tudomására jut, hogy az általa forgalmazott, nem automatikus működésű mérleg nem felel meg e rendelet követelményeinek, gondoskodik arról, hogy meghozzák a szükséges kiigazító intézkedéseket a nem automatikus működésű mérleg megfelelőségének biztosítására, adott esetben kivonják a forgalomból vagy visszahívják. Amennyiben a nem automatikus működésű mérleg kockázatot jelent, a forgalmazó erről – és különösen a megfelelés hiányának és a meghozott kiigazító intézkedések részleteiről – haladéktalanul tájékoztatja azon tagállamok illetékes nemzeti hatóságait, amelyekben a szóban forgó eszközt forgalmazták.
+
+(6) A forgalmazó köteles piacfelügyeleti hatóság felhívására a nem automatikus működésű mérleg megfelelőségének igazolásához szükséges összes dokumentumot a piacfelügyeleti hatóság felhívásától számított nyolc napon belül rendelkezésre bocsátani. A forgalmazó köteles együttműködni a piacfelügyeleti hatósággal minden olyan intézkedés terén, amelyet az általa forgalomba hozott, nem automatikus működésű mérleg jelentette kockázatok kiküszöbölése érdekében tesz vagy javasol.
