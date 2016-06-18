@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-50-00-00
 | 2015-01-01 | 2014. évi XCIII. törvény | 2013-50-00-00.6 |
 | 2015-07-16 | 2015. évi CXXX. törvény | 2013-50-00-00.7 |
 | 2016-01-01 | 2015. évi CCXXII. törvény | 2013-50-00-00.8 |
+| 2016-06-18 | 2016. évi LXVII. törvény | 2013-50-00-00.9 |
