@@ -1,1 +1,1 @@
-1. § Az 1. mellékletben meghatározott gazdasági társaság (a továbbiakban: társaság) által ellátott feladat központi költségvetési szerv általi átvételére és a társaság megszüntetésére e törvény alapján kerül sor.
+### 1. §
