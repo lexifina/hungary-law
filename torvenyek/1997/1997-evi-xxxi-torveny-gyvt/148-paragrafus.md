@@ -8,7 +8,7 @@ a) a gyermekek napközbeni ellátása esetén a megállapodás megkötésekor,
 
 b) a gyermekek átmeneti gondozása és utógondozói ellátás esetén legkésőbb az ellátás igénybevételétől számított harminc napon belül.
 
-(4) A személyi térítési díj – a gyermekétkeztetés kivételével – nem haladhatja meg az intézményi térítési díj összegét. Ha az intézményi térítési díj számítása nem eredményez pozitív számot, a személyi térítési díj összege nulla.
+(4) A személyi térítési díj – a gyermekétkeztetés kivételével – nem haladhatja meg az intézményi térítési díj összegét.
 
 (5) A személyi térítési díj összege önkormányzati intézmény esetén a fenntartó rendeletében, más fenntartó esetén a fenntartó képviseletére jogosult testület, személy írásbeli döntésében foglaltak szerint csökkenthető, illetve elengedhető, ha a kötelezett jövedelmi viszonyai ezt indokolttá teszik.
 
