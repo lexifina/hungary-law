@@ -16,7 +16,7 @@ b) összehangolja a különböző területfejlesztési célokat szolgáló álla
 
 c) pénzügyi támogatást nyújt az országos területfejlesztési koncepcióban meghatározott területfejlesztési programok megvalósításához;
 
-d) dönt – az e törvény 20. § (2) bekezdés a) pontjában és (4) bekezdés a) pontjában meghatározott – a területfejlesztést szolgáló központi és térségi pénzeszközök arányáról.
+d)
 
 e) meghatározza a területfejlesztést szolgáló pénzügyi eszközök, az igénybe vehető kedvezmények felhasználási szabályait;
 
@@ -28,11 +28,11 @@ h) ösztönzi a fejlesztési programok készítését és a térségi összefog�
 
 i) elősegíti és támogatja az ország határmenti térségeinek a szomszédos országokkal való együttműködését, az európai regionális együttműködést;
 
-j) négyévente beszámol az Országgyűlésnek az ország területi folyamatainak alakulásáról és a területfejlesztési politika, valamint a területrendezési tervek érvényesítésének hatásairól;
+j) négyévente beszámol az Országgyűlésnek az ország területi folyamatainak alakulásáról és a területfejlesztési politika, a területrendezési tervek érvényesítésének hatásairól, a területfejlesztést szolgáló pénzeszközök felhasználásáról, valamint a nemzetközi és határmenti területfejlesztési és területrendezési tevékenységéről;
 
 k) gondoskodik az országos területi információs rendszer működtetéséről és ennek keretében a tervek nyilvántartásáról;
 
-l) rendeletben meghatározza a miniszterek területfejlesztéssel és területrendezéssel összefüggő feladatait és a miniszterek közötti folyamatos koordináció szabályait;
+l) meghatározza a területfejlesztést és a területrendezést segítő pénzügyi eszközök és a forrásfelhasználás szabályait;
 
 m) jelöli az Európai Unió Régiók Bizottságába Magyarország képviselőit;
 
@@ -40,4 +40,8 @@ n) meghatározza a kedvezményezett járások és települések besorolását, v
 
 o) az európai uniós tervezési ciklusoknak megfelelően felülvizsgálja a kedvezményezett járások és települések körét.
 
-p) dönt a regionális támogatási térkép koncepciójáról.
+p) dönt a regionális támogatási térkép koncepciójáról;
+
+q) meghatározza a térségi fejlesztési tanács létrehozásával, működésével, sajátos gazdálkodásával kapcsolatos feladatokat és szabályokat, a térségi fejlesztési tanács szervezeti és működési rendjének általános szabályait;
+
+r) meghatározza a megyei önkormányzatok és a térségi fejlesztési tanácsok területfejlesztési tevékenységében végzett beszámolási kötelezettségét, valamint a területfejlesztés érdekegyeztetési és konzultációs fórumainak működését.

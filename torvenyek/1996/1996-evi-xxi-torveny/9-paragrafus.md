@@ -18,12 +18,6 @@ h)–i)
 
 j)
 
-(2) A miniszterek feladataik ellátása során érvényesítik az e törvényen rögzített célokat, részt vesznek a területfejlesztéssel összefüggő és szakterületüket érintő kormányzati feladatok ellátásában. Így különösen:
-
-a) részt vesznek a területfejlesztési koncepciók és programok feladatkörüket érintő munkarészeinek kidolgozásában és érvényesítésében;
-
-b) évente tájékoztatják a Kormányt a feladatkörükben végzett fejlesztések főbb mutatóiról;
-
-c) részt vesznek a területrendezési tervek készítésében, gondoskodnak azok – feladat- és hatáskörüket érintő – munkarészeinek kidolgozásáról és érvényesítéséről.
+(2) A miniszterek feladataik ellátása során érvényesítik az e törvényben rögzített célokat, részt vesznek a területfejlesztéssel és a területrendezéssel összefüggő és szakterületüket érintő kormányzati feladatok ellátásában, különösen a területfejlesztési koncepciók és programok, területrendezési tervek feladatkörüket érintő munkarészeinek kidolgozásában, összehangolásában és érvényesítésében.
 
 (3)

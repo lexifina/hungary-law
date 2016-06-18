@@ -8,7 +8,7 @@ b) összehangolja a vidékfejlesztési stratégiákat és akciókat a megyei, t�
 
 c) egyetértési jogkört gyakorol a vidékfejlesztési stratégiák, akciók jóváhagyását megelőzően,
 
-d) a vidékfejlesztési források felhasználásával kapcsolatban közreműködői szervezeti feladatokat lát el a regionális fejlesztési ügynökség útján,
+d) a vidékfejlesztési források felhasználásával kapcsolatban közreműködői szervezeti feladatokat lát el,
 
 e) elláthatja a helyi akciócsoportok, a közösségvezérelt helyi fejlesztésben érintett szervezetek munkaszervezeti feladatait,
 

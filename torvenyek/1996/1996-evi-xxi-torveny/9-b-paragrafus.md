@@ -2,7 +2,7 @@
 
 a) koncepciókat és javaslatokat készít az országos területfejlesztési politika megalapozására, annak célkitűzéseit érvényesíti tervezési, szervező és információs feladataiban;
 
-b) kidolgozza az országos fejlesztési és területfejlesztési koncepciót, összehangolja az országos és térségi területfejlesztési koncepciókat és programokat;
+b) kidolgozza az országos fejlesztési és területfejlesztési koncepciót, valamint a nemzetközi együttműködési kötelezettségből adódó, az országhatáron átnyúló és több országot érintő koncepciókat és programokat, továbbá összehangolja az országos és térségi területfejlesztési koncepciókat és programokat;
 
 c) elősegíti a területi tervek, valamint a területi tervek és az ágazati tervek összhangját;
 
@@ -10,7 +10,7 @@ d) a Kormány részére javaslatot tesz a régiók területi lehatárolására, 
 
 e)
 
-f) gondoskodik a területfejlesztéssel kapcsolatos információs rendszerről, az adatszolgáltatás rendjéről és a területfejlesztés szakmai követelményeiről;
+f) gondoskodik a területfejlesztéssel kapcsolatos információs rendszerről, az adatszolgáltatás rendjéről;
 
 g) kezeli a területfejlesztési célok megvalósítását közvetlenül szolgáló fejezeti kezelésű előirányzatot és koordinálja a területfejlesztési célok megvalósítását közvetetten szolgáló fejezeti kezelésű előirányzatok felhasználását;
 
@@ -23,3 +23,5 @@ j) összehangolja a közigazgatási szervek területfejlesztéssel kapcsolatos t
 k) javaslatot tesz a szabad vállalkozási zónák kijelölésére, működésük szabályozására;
 
 l) kidolgozza a regionális támogatási térkép koncepcióját.
+
+m) javaslatot tesz a térségi fejlesztési tanács létrehozásával, működésével, sajátos gazdálkodásával kapcsolatos feladatokra és szabályokra, a térségi fejlesztési tanács szervezeti és működési rendjének általános szabályaira, valamint a területfejlesztés érdekegyeztetési és konzultációs fórumainak működésére.

@@ -8,7 +8,7 @@
 
 a) határozattal elfogadja az országos fejlesztési és területfejlesztési koncepciót, ennek keretében megállapítja a területfejlesztési politikát meghatározó irányelveket, célokat, hosszú távú prioritásokat, a kiemelt térségek körét, valamint a területfejlesztési támogatások és a decentralizáció elveit;
 
-b) beszámoltatja a Kormányt a területfejlesztési politika végrehajtásáról;
+b)
 
 c) elfogadja a területfejlesztés eszköz- és intézményrendszerének átfogó szabályait;
 
@@ -18,8 +18,6 @@ e)
 
 f) az éves költségvetési törvény elfogadása során dönt a területfejlesztést és területrendezést szolgáló pénzeszközökről és ezzel egyidejűleg egyes pénzügyi kedvezményekről;
 
-g) évente beszámoltatja a Kormányt a területfejlesztést szolgáló pénzeszközök felhasználásáról;
-
-h) beszámoltatja a Kormányt a nemzetközi és határmenti területfejlesztési és területrendezési tevékenységéről;
+g)–h)
 
 i) meghatározza a területfejlesztéssel kapcsolatos önkormányzati feladatokat és ezek forrásait.
