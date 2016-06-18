@@ -4,7 +4,7 @@
 
 (3) E törvény hatálybalépésekor folyamatban lévő 58. § szerinti fegyelmi eljárásokat a Kt. vonatkozó rendelkezései alapján kell befejezni.
 
-(4) E törvény hatálybalépését követően a fenntartó négy hónapon belül felülvizsgálja a közoktatásról szóló 1993. évi LXXIX. törvény 2012. augusztus 31-én hatályos szövege szerinti közoktatási intézmény alapító okiratát, annak érdekében, hogy megfeleljen az e törvényben foglaltaknak, és megküldi a törzskönyvi nyilvántartást vezető szervnek, a hivatalnak vagy a kormányhivatalnak. Ha a közoktatásról szóló 1993. évi LXXIX. törvény alapján a köznevelési intézmény a nyilvántartásba vételét követően megkezdhette működését és e törvény szerint működési engedéllyel kell rendelkeznie, a fenntartó köteles 2013. április 30-ig működési engedély iránti kérelmet benyújtani vagy a közoktatási intézményt megszüntetni.
+(4)
 
 (5) A fejlesztő nevelés, nevelés-oktatás 15. § (2) bekezdés szerinti ellátása 2014. szeptember 1-jétől kötelező. Eddig az időpontig az érintett tanulók részére a fejlesztő iskolai oktatás a Kt. szabályai szerint is megszervezhető. A korai fejlesztés és gondozás, valamint a fejlesztő felkészítés 2013. január 1-jéig bölcsődei gondozás, fogyatékosok ápoló, gondozó otthonában nyújtott gondozás, gyermekotthonban nyújtott gondozás, gyógypedagógiai tanácsadás, korai fejlesztés és gondozás keretében biztosított fejlesztés és gondozás, konduktív pedagógiai ellátás keretében is ellátható.
 
@@ -12,25 +12,23 @@
 
 (7) A 35/A. § szerinti hit- és erkölcstan órát az iskolai nevelés-oktatás első és ötödik évfolyamán, valamint a hat évfolyammal működő gimnáziumban a hetedik évfolyamon 2013. szeptember 1-jétől kezdődően felmenő rendszerben kell megszervezni.
 
-(8) A hivatal a köznevelés-fejlesztési tervet első alkalommal 2013. április 30-ig készíti el.
+(8)
 
 (9) Az állami feladatellátásban közreműködő, a fenntartói jogot gyakorló állami intézményfenntartó központ megjelölését a KIR-ben 2013. március 2-áig át kell vezetni.
 
 (10) Az e törvény hatálybalépésekor működő pedagógiai-szakmai szolgáltatást ellátó intézmények 2013. szeptember 1-jétől feladatukat az oktatásért felelős miniszter szakmai irányításával láthatják el.
 
-(11) E törvény hatálybalépése és 2012. december 31-e között a települési önkormányzati fenntartású köznevelési intézmény vezetőjének megbízására, valamint a megbízás visszavonására vonatkozó jogot a fenntartó gyakorolja.
+(11)
 
 (12) Az e törvény hatálybalépésekor már működő hat vagy nyolc évfolyamos gimnáziumnak a külön jogszabályban meghatározott emelt szintű követelményeknek a 2016/2017. tanév végéig kell megfelelniük.
 
 (13) Az e törvény hatálybalépésekor működő nyelvi előkészítő évfolyamon, továbbá – a nemzetiségi nevelés-oktatás kivételével – a két tanítási nyelvű nevelés-oktatásban a 2016/2017. tanév végéig teljesíteni kell a külön jogszabályban meghatározott feltételeket. A külön jogszabályban meghatározott feltételeket nem teljesítő intézményekben a nyelvi előkészítő évfolyam vagy a két tanítási nyelven folyó oktatás felmenő rendszerben megszűnik.
 
-(14) Az iskola 2013. március 31-ig felülvizsgálja a pedagógiai programját annak érdekében, hogy a kerettantervről szóló jogszabály, valamint e törvény rendelkezéseinek megfeleljen. A szakképző iskola a szakmai programmal, szakképzési kerettantervvel kapcsolatos felülvizsgálatot 2013. május 20-ig végzi el.
-
-(15) A nevelési-oktatási intézmény 2013. március 31-ig felülvizsgálja és módosítja az SZMSZ-ét annak érdekében, hogy megfeleljen az e törvényben és a végrehajtási rendeletben foglaltaknak.
+(14)–(15)
 
 (16) Az a pedagógus, aki e törvény hatálybalépésekor az ötvenkettedik életévét betöltötte, pedagógus-továbbképzésben történő részvételre nem kötelezhető.
 
-(17) A 2012/2013. tanítási év végéig fejlesztőpedagógus-munkakörben foglalkoztatható az is, aki pedagógus-továbbképzés keretében elsajátította a szükséges ismereteket.
+(17)
 
 (18) A 4. melléklet szerinti osztály-, csoportlétszámokat és a 47. § (7) bekezdésében foglaltakat első alkalommal a 2013/2014. tanévtől felmenő rendszerben kell alkalmazni.
 
@@ -74,11 +72,7 @@ közalkalmazott illetménye, munkavállaló munkabére a 65. § (9a) bekezdésé
 
 (24) A 74. § (4)–(6) bekezdését 2013. január 1-jétől kell alkalmazni azzal, hogy
 
-a) a települési önkormányzat – a 76. § (4) bekezdésében foglaltaktól eltérően – első alkalommal 2012. november 15-ig nyújthatja be
-
-aa) a 74. § (5) bekezdése szerinti kérelmet, amennyiben 2013. január 1-jétől a működtetést az államtól képes átvállalni, vagy
-
-ab) a 74. (4) bekezdése szerinti kérelmet, amennyiben 2013. január 1-jétől a működtetést nem képes vállalni,
+a)
 
 b) a 74. § (4) és (5) bekezdése alkalmazásában a települési önkormányzat saját tulajdonában álló vagyonnak minősül az a vagyon is, amely a települési önkormányzat illetékességi területén van és 2012. szeptember 30-án intézményi társulás vagy többcélú kistérségi társulás tulajdonában volt.
 
@@ -86,7 +80,7 @@ b) a 74. § (4) és (5) bekezdése alkalmazásában a települési önkormányza
 
 (26) A 21. § (2) bekezdésben előírt, a nem állami szerv által alapított intézmények nyilvántartásba vételére vonatkozó feltételeket azon nevelési-oktatási intézmények esetében kell alkalmazni, amelyek működésüket 2013. szeptember 1-je után kezdik meg.
 
-(27) Amennyiben a 73. § (3) bekezdése szerinti intézményi tanács nem jött létre, a 73. § (4) bekezdése szerinti intézményi tanács alakuló ülését az érintett iskola intézményvezetője a nemzeti köznevelésről szóló 2011. évi CXC. törvény módosításáról szóló 2013. évi CXXXVII. törvény hatálybalépését követő negyvenöt napon belül hívja össze.
+(27)
 
 (28) Az értelmi fogyatékos tanulók képességét fejlesztő szakiskola a 13. § (6) bekezdése szerinti előkészítő szakiskolai kilencedik évfolyamot utoljára a 2013/2014. tanévben, tizedik évfolyamot utoljára a 2014/2015. tanévben indíthat.
 

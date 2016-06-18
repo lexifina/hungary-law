@@ -34,9 +34,9 @@ a) a nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél kev
 
 b) a nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél több ideje van, e törvény hatálybalépésének napjától számított öt év után csak akkor foglalkoztatható tovább pedagógus-munkakörben, ha tanulmányait a felsőfokú pedagógus-szakképzettséget nyújtó oktatásban megkezdte.
 
-(11) A Kt. alapján létrehozott Országos Köznevelési Tanács, valamint tagjainak megbízatása 2013. szeptember 1-jén megszűnik.
+(11)
 
-(12) 2012. szeptember 3-án jogutód nélkül megszűnik az Országos Diákjogi Tanács, Országos Szülői Érdek-képviseleti Tanács.
+(12)
 
 (13) Ha a munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, óvodapszichológusként, iskolapszichológusként ötéves határozott időre alkalmazható az is, aki pszichológus végzettséggel és szakképzettséggel rendelkezik, de nem rendelkezik a szükséges pedagógus vagy szakpszichológus szakképzettséggel vagy szakiránnyal, feltéve, hogy öt éven belül vállalja a munkakör betöltéséhez szükséges szakképzettség, szakvizsga megszerzését.
 

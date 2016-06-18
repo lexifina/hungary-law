@@ -38,3 +38,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-190-00-00
 | 2015-09-01 | 2013. évi CXXXVII. törvény | 2011-190-00-00.31 |
 | 2015-09-02 | 2010. évi CXXX. törvény | 2011-190-00-00.32 |
 | 2016-01-01 | 2015. évi CCVI. törvény | 2011-190-00-00.33 |
+| 2016-06-18 | 2016. évi LXVII. törvény | 2011-190-00-00.34 |

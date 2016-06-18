@@ -32,7 +32,7 @@ g) működő vezetési modellt, nevelés- és oktatásszervezést,
 
 h) elfogadott pedagógus végzettséget és szakképzettséget.
 
-(9) Az óvodapedagógiai program, kerettanterv a (8) bekezdésben meghatározott körben eltérhet az e törvényben meghatározottaktól, valamint az e törvény végrehajtására kiadott jogszabályoktól azzal a megkötéssel, hogy az alternatív intézmények költségvetési támogatásának alapja óvodapedagógiai programjukban, kerettantervükben foglalt kötelező feladatellátás, ezen felül a működésükkel járó többletköltségekhez központi költségvetési többlettámogatás nem igényelhető.
+(9) Az óvodapedagógiai program, kerettanterv a (8) bekezdésben meghatározott körben eltérhet az e törvényben, valamint az e törvény felhatalmazása alapján megalkotott jogszabályban meghatározottaktól.
 
 (10) A (8) bekezdés alkalmazásában alternatív óvoda, alternatív iskola az az óvoda, iskola, amely nem hagyományos pedagógiai módszerekkel végzi nevelő és oktató munkáját. Az engedély iránti kérelmet, ha van olyan hálózat, szervezet, amelyik az alternatív óvodát, iskolát képviseli, a hálózat, szervezet, ha nincs ilyen hálózat, szervezet, az intézmény fenntartója jogosult benyújtani.
 
