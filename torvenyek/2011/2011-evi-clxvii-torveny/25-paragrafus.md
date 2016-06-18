@@ -1,3 +1,3 @@
-25. § (1) A 2013. január 1-jén a Tny. 83/C. § (1) bekezdése szerinti jogviszonyban álló, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személy a Tny. 83/C. § (1) bekezdése szerinti jogviszony fennállásának tényét 2013. április 30-áig köteles bejelenteni a nyugdíjfolyósító szervnek.
+25. § (1)
 
 (2) A 2013. január 1-jén a Tny. 83/C. § (1) bekezdése szerinti jogviszonyban álló személy korhatár előtti ellátását, szolgálati járandóságát, – az előadó-művészeti szervezetek támogatásáról és sajátos foglalkoztatási szabályairól szóló 2008. évi XCIX. törvény 43/B. § (2) bekezdésében foglaltakra tekintettel – balettművészeti életjáradékát és – a bányászatról szóló 1993. évi XLVIII. törvény 49/C. § (2) bekezdésében foglaltakra tekintettel – átmeneti bányászjáradékát – ha a Tny. 83/C. § (1) bekezdése szerinti jogviszonya továbbra is fennáll – 2013. július 1-jétől kell szüneteltetni.
