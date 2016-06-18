@@ -1,0 +1,3 @@
+## „(6) Az elkülönített állami pénzalap költségvetési bevételeit és költségvetési kiadásait tartalmazó fejezet az elkülönített állami pénzalap működéséről szóló törvényben meghatározott tartalmú, továbbá a központi költségvetésről szóló törvényben az elkülönített állami pénzalap számára előírt befizetési kötelezettség fedezetéül szolgáló költségvetési kiadási előirányzatokat, valamint az elkülönített állami pénzalap működéséről szóló törvényben meghatározott tartalmú költségvetési bevételi előirányzatokat cím, alcím szerinti bontásban tartalmazza.”
+
+8. § Az államháztartásról szóló 2011. évi CXCV. törvény 28/A. § (3) bekezdése helyébe a következő rendelkezés lép:
