@@ -1,3 +1,5 @@
-## 35. § Hatályát veszti a nem-automatikus működésű mérlegek méréstechnikai követelményeiről és megfelelőségének tanúsításáról szóló 62/2004. (IV. 24.) GKM rendelet.
+## 35. §[^1]
 
 1. melléklet a 19/2016. (VI. 17.) NGM rendelethez
+
+[^1]: A 35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
