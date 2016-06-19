@@ -1,0 +1,1 @@
+26. § Olimpiai célú kisajátítás esetében az Olimpiai és Paralimpiai Játékok rendezési jogának elnyerését követően az állam javára, saját nevében kisajátítást kérőnek minősül az olimpiai megvalósítási hatóság.

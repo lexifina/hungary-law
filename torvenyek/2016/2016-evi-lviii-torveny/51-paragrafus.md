@@ -1,0 +1,9 @@
+51. § Az olimpiai megvalósítási hatóság és a biztonsági szerv a III. Fejezet hatálybalépését követő huszadik napon kezdi meg a működését. A Kormány a biztonsági szerv kijelöléséről és működtetéséről a III. Fejezet hatálybalépését követő tizenötödik naptól gondoskodik.
+
+Áder János s. k.,
+
+köztársasági elnök
+
+Kövér László s. k.,
+
+az Országgyűlés elnöke
