@@ -2,4 +2,4 @@
 
 a) a Pályázat időszaka alatt a Budapest 2024 Zrt. képviselője; továbbá
 
-b) az Olimpiai és Paralimpiai Játékok rendezési jogának elnyerését követően az Olimpiai és Paralimpiai Játékok Szervezőbizottsága képviselője, továbbá az olimpiai megvalósítási hatóság képviselője.
+b)
