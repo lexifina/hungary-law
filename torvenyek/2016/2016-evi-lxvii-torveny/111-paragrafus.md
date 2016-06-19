@@ -1,3 +1,0 @@
-## „(2) A köznevelési feladatokat az állam intézmény alapításával és fenntartásával, továbbá az egyházi köznevelési intézmény, a nemzetiségi önkormányzat fenntartásában álló vagy a magán köznevelési intézmény útján látja el, a fenntartóval az állam köznevelési szerződést köthet. Az óvodai nevelésről, a nemzetiséghez tartozók óvodai neveléséről, a többi gyermekkel, tanulóval együtt nevelhető, oktatható sajátos nevelési igényű gyermekek óvodai neveléséről a települési önkormányzat vagy társulása intézmény alapítása és fenntartása vagy köznevelési szerződés révén gondoskodik.”
-
-111. § A nemzeti köznevelésről szóló 2011. évi CXC. törvény a következő 96. §-a a következő (3b) bekezdéssel egészül ki:

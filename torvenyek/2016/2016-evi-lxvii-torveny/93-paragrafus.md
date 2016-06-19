@@ -1,1 +1,0 @@
-93. § A köztulajdonban álló gazdasági társaságok takarékosabb működéséről szóló 2009. évi CXXII. törvény 2. § (3) bekezdésében az „A köztulajdonban álló gazdasági társaság” szövegrész helyébe az „A 7/I. §-ban foglaltak kivételével a köztulajdonban álló gazdasági társaság” szöveg lép.

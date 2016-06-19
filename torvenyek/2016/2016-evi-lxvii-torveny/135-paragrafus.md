@@ -1,3 +1,1 @@
-## „(8) Az állomány tagját, ha az illetmény tárgyhónapra vonatkozó elszámolását követően bekövetkező ok miatt az elszámolás módosítása szükséges, a tárgyhónapra vonatkozó illetményelszámolás módosításáról legkésőbb a következő havi illetmény elszámolásakor tájékoztatni kell. Az illetménykülönbözetet a következő havi illetménnyel egyidejűleg ki kell fizetni.”
-
-135. § A honvédek jogállásáról szóló 2012. évi CCV. törvény 130. § (2) bekezdésében az „írásbeli felszólítással vagy fizetési meghagyással” szövegrész helyébe az „az előlegnyújtásból eredő követelésre vonatkozó szabályok szerint” szöveg lép.
+### 135. §

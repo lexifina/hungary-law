@@ -1,3 +1,0 @@
-## „174/A. § Ha az 58. § (5) bekezdése szerint kinevezett területi vagy helyi szerv vezetőjének a 171. § (1) bekezdés a) pontja szerinti elhelyezésének biztosításához különös szolgálati érdek fűződik, a rendvédelmi szerv az állam nevében eljárva kizárólag az ingatlan zártvégű pénzügyi lízing útján történő megszerzése céljából adósságot keletkeztető ügyletet köthet.”
-
-142. § A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 164. § (3) bekezdésében az „írásbeli fizetési felszólítással” szövegrész helyébe az „az előlegnyújtásból eredő követelésre vonatkozó szabályok szerint” szöveg lép.
