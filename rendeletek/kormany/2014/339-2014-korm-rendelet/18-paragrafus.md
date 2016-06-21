@@ -1,3 +1,6 @@
-## 17. § Az ivóvízminőség-javító projektek megvalósításával összefüggő feladatok ellátása érdekében az Országos Vízügyi Főigazgatóság – az állami szervek közti átadás-átvételi eljárásra vonatkozó szabályoknak megfelelően – a Társaság részére 2015. október 31-ig elektronikus formában teljes körűen átadja a KEHOP keretében megvalósuló ivóvízminőség-javító projektek 2007–2013 programozási időszakban elérhető uniós források felhasználásával elkészített valamennyi dokumentumát.
+## 17/A. §[^18] A 7/A. § rendelkezéseit az Európai Unió vagy más nemzetközi szervezet felé vállalt kötelezettséggel összefüggő, a 2007–2013 programozási időszakban a Kormány által a nemzeti fejlesztési miniszter hatáskörébe utalt beruházások, valamint a 2014–2020 programozási időszakban a szennyvízelvezetési és -tisztítási, a hulladékgazdálkodási és az ivóvízminőség-javító beruházások megvalósításáról szóló 339/2014. (XII. 19.) Korm. rendelet módosításáról szóló 159/2016. (VI. 13.) Korm. rendelet hatálybalépésekor[^19] folyamatban lévő eljárásokban is alkalmazni kell.
 
 ## 11. Módosító rendelkezések
+
+[^18]: A 17/A. §-t a 159/2016. (VI. 13.) Korm. rendelet 3. §-a iktatta be.
+[^19]: A hatálybalépés napja 2016. június 21.
