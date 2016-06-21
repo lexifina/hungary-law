@@ -18,6 +18,6 @@ b) az Nkt. 7. § (1) bekezdés b)–e), valamint g) pontjában meghatározott is
 
 (4) A miniszter az oktatásirányítási feladatok megvalósítása érdekében, továbbá egyes sajátos köznevelési feladatok megvalósításához a (3) bekezdésben foglaltaktól eltérő kerettantervet is készíthet.
 
-(5)[^6] Az alternatív nevelés-oktatást folytató iskola kerettanterve az Nkt. 9. § (8)–(10) bekezdéseire figyelemmel eltérhet a 3–5. §-okban meghatározottaktól. Ezen iskolának nem kell alkalmaznia továbbá a Rendelet 4. § (2) bekezdés a)–b) pontjait.
+(5)[^19] Az alternatív nevelés-oktatást folytató iskola kerettanterve az Nkt. 9. § (8)–(10) bekezdéseire figyelemmel eltérhet a 3–5. §-okban meghatározottaktól. Ezen iskolának nem kell alkalmaznia továbbá a Rendelet 4. § (2) bekezdés a)–b) pontjait.
 
-[^6]: Az 5. § (5) bekezdése a 23/2013. (III. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^19]: Az 5. § (5) bekezdése a 23/2013. (III. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
