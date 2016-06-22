@@ -10,16 +10,16 @@
 
 (2b) A közvámraktárként üzemeltetett földgáztárolóban történt földgáztulajdon-átruházásokról és a közvámraktári földgázkészlet-változásokról a földgáztárolói engedélyes köteles a Hivatalt haladéktalanul tájékoztatni.
 
-(3) A felhasználók részére földgázt olyan gazdasági társaság vagy az Európai Unió tagállamában, illetve az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban székhellyel rendelkező külföldi vállalkozás belföldön bejegyzett fióktelepe értékesíthet, amely erre a Hivataltól engedélyt kapott.
+(3) A felhasználók részére földgázt olyan földgázipari vállalkozás értékesíthet, amely erre a Hivataltól földgáz-kereskedelmi engedélyt kapott.
 
-(4) Korlátozott földgáz-kereskedelmi engedélyt az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban gazdasági társaságként bejegyzett, ott jogszerűen földgáz-kereskedelmi tevékenységet folytató külföldi gazdálkodó szervezet kap, amely
+(4) Korlátozott földgáz-kereskedelmi engedélyt azon külföldi földgázipari vállalkozás kaphat, amely az Európai Unió tagállamának vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely más államban nyilvántartásba vételre került, jogszerűen földgáz-kereskedelmi tevékenységet folytat, és amely
 
-a) Magyarország területén történő elérhetőségét kézbesítési megbízott útján biztosítja, és
+a) Magyarország területén történő elérhetőségét kézbesítési megbízott útján biztosítja, valamint
 
-b) megfelel a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott feltételeknek.
+b) megfelel a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott feltételeknek, és azt hitelt érdemlően igazolja.
 
-(4a) Korlátozott földgáz-kereskedelmi engedély megszerzésére jogosult továbbá az a belföldi szakosított hitelintézet tulajdonában álló belföldön bejegyzett gazdasági társaság, amely megfelel a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott feltételeknek.
+(4a) Korlátozott földgáz-kereskedelmi engedély megszerzésére jogosult a (4) bekezdésben foglaltakon felül a belföldön nyilvántartásba vett Ptk. szerinti gazdasági társaság, az egyéni vállalkozóról és az egyéni cégről szóló törvény szerinti egyéni cég, továbbá a szövetkezet, az európai részvénytársaság, amely megfelel az e törvény és a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben meghatározott feltételeknek.
 
 (5) A korlátozott földgáz-kereskedelmi engedélyes a szervezett földgázpiacon történő értékesítés kivételével a felhasználó részére földgázt nem értékesíthet.
 
-(6) A korlátozott földgáz-kereskedelmi engedélyesre a földgázkereskedőre vonatkozó szabályokat kell alkalmazni a 28/A–29/A. §-ban, a 31–31/C. §-ban, a 62. § (2) bekezdés a) pontjában, a 63. § (1) bekezdésében, a 113. §-ban és a 122–123. §-ban foglaltak kivételével.
+(6) A korlátozott földgáz-kereskedelmi engedélyesre a földgázkereskedőre vonatkozó szabályokat kell alkalmazni a 28/A–31/C. §-ban, a 62. § (2) bekezdés a) pontjában, a 63. § (1) bekezdésében, a 113. §-ban és a 122–123. §-ban foglaltak kivételével.

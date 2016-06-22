@@ -1,6 +1,6 @@
 107/B. § (1)
 
-(2) Az egyetemes szolgáltatási, valamint a 141/C. § alapján történő felajánlási célra termelt hazai termelésű földgáz hatósági árát úgy kell megállapítani, hogy az biztosítsa az egyetemes szolgáltatók által ellátott felhasználók és a 141/C. § (2) bekezdése szerinti földgázkereskedő által ellátott, egyetemes szolgáltatásra jogosult felhasználók költséghatékony ellátását.
+(2)
 
 (3) A 103. § (2) bekezdés f) pontja szerint kihirdetett hazai termelésű földgáz árat legmagasabb árnak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon el lehet térni.
 

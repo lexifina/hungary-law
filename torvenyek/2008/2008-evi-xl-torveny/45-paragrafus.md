@@ -1,6 +1,6 @@
 45. § (1) A végső menedékes szolgáltatás jogintézményének alkalmazhatósága érdekében a földgázkereskedők esetében a Csődtv.-t az e törvényben meghatározott eltérésekkel kell alkalmazni.
 
-(2) A földgázkereskedő gazdálkodó szervezet vezetője a csődeljárás vagy a felszámolási eljárás lefolytatása iránti kérelmének bírósághoz történő benyújtásával egyidejűleg, illetve a hitelező által kezdeményezett felszámolási eljárás esetén a bíróság által küldött értesítés kézhezvételét követően haladéktalanul tájékoztatja a Hivatalt.
+(2) A földgázkereskedő vezetője a csődeljárás vagy a felszámolási eljárás lefolytatása iránti kérelmének bírósághoz történő benyújtásával egyidejűleg, illetve a hitelező által kezdeményezett felszámolási eljárás esetén a bíróság által küldött értesítés kézhezvételét követően haladéktalanul tájékoztatja a Hivatalt.
 
 (3) A bíróság a földgázkereskedő adóssal szembeni felszámolási eljárásnak a Csődtv. 22. §-ának (2) bekezdése szerinti hivatalból történő megindítása esetén az eljárás megindításával egyidejűleg tájékoztatja a Hivatalt.
 

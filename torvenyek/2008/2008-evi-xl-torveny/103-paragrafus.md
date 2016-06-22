@@ -14,9 +14,9 @@ c) az egyetemes szolgáltató által a felhasználó vagy a rendszerhasználó i
 
 d) az egyetemes szolgáltatás 107. § (3) bekezdése szerinti ára
 
-e) a 141. § (3) bekezdése, a 141/A. §, a 141/C. § és a 141/J. § szerinti felajánlási ár,
+e) a 141. § (3) bekezdése, a 141/A. § és a 141/J. § szerinti felajánlási ár,
 
-f) az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkből termelt földgáz (a továbbiakban: hazai termelésű földgáz) ára az egyetemes szolgáltatás keretében földgázt vételező felhasználók, valamint a 141/C. § (2) bekezdése szerinti földgázkereskedő által ellátott, egyetemes szolgáltatásra jogosult felhasználók ellátásához szükséges – miniszteri rendeletben meghatározott – mennyiség mértékéig,
+f) az 1998. január 1. előtt termelésbe állított szénhidrogén mezőkből termelt földgáz (a továbbiakban: hazai termelésű földgáz) ára az egyetemes szolgáltatás keretében földgázt vételező felhasználók ellátásához szükséges – miniszteri rendeletben meghatározott – mennyiség mértékéig,
 
 g) a vezetékes PB-gáz szolgáltatás és a PB-gáz tartályban történő értékesítésének lakossági PB-gáz fogyasztó által fizetendő ára, valamint
 

@@ -18,7 +18,7 @@ h) a szerződésszegés esetei és jogkövetkezményei, különös tekintettel a
 
 i) a lakossági fogyasztó, illetve egyéb felhasználók panaszai benyújtásának és ügyintézésének lehetőségéről, módjáról és határidejéről való tájékoztatás, valamint a fogyasztóvédelemről szóló törvényben meghatározott, a fogyasztói jogvita egyezségen alapuló rendezésének megkísérlésére, továbbá ennek eredménytelensége esetén az ügy eldöntésére irányuló eljárások kezdeményezésének módja és feltételei, továbbá
 
-j) a külön díj ellenében nyújtott szolgáltatások megnevezése és feltételei,
+j) a külön díj ellenében végzett szolgáltatások megnevezése és feltételei,
 
 k) annak a földgázelosztónak a megnevezése, székhelye, amelynek rendszeréhez a felhasználó közvetve vagy közvetlenül csatlakozik,
 

@@ -1,15 +1,9 @@
-104/A. § (1) A rendszerhasználati díj, a 106. § szerinti külön díj és az egyetemes szolgáltatás ára miniszteri rendeletben, valamint a csatlakozási díjnak a Hivatal elnöke által kiadott rendeletben meghatározott elemeinek szabályozása legalább kétéves legfeljebb hatéves árszabályozási ciklusokkal történik, amelynek kezdő időpontját és időtartamát a Hivatal elnöke rendeletben állapítja meg. A Hivatal az árszabályozási ciklus indulását megelőzően, az árszabályozási ciklus kezdő időpontját és időtartamát meghatározó rendelet kihirdetését követően költség-felülvizsgálatot végez,.
+104/A. § (1) A rendszerhasználati díj, a külön díjak, valamint a csatlakozási díj a Hivatal elnökének rendeletében meghatározott elemeinek szabályozása négyéves árszabályozási ciklusokkal történik.
 
-(2) Az árszabályozási ciklusra érvényes szabályokat az árszabályozási ciklus indulását megelőzően a miniszter
+(2) Az egyetemes szolgáltatás ára miniszteri rendeletben meghatározott elemeinek szabályozása négyéves árszabályozási ciklusokkal történik.
 
-a) a rendszerhasználati díj esetében a 105. § (2) bekezdése,
+(3) Az árszabályozási ciklusra érvényes szabályokat az árszabályozási ciklus indulását megelőzően a miniszter az egyetemes szolgáltatás ára esetében a 107. § (3) bekezdése szerinti rendeletben, az egyetemes szolgáltató által a felhasználó igénye alapján vagy a felhasználó szerződésszegése esetén külön díj esetében végzett szolgáltatások díjai esetében a 106/A. § (1) bekezdése szerinti rendeletben állapítja meg.
 
-b)
+(4) A Hivatal az egyetemes szolgáltatás árának megállapítására és az árszabályozási ciklusra érvényes szabályokra vonatkozó javaslatát a következő árszabályozási ciklus kezdetét legalább 40 nappal megelőzően megküldi a miniszter részére.
 
-c) a külön díj esetében a 106. §, és
-
-d) az egyetemes szolgáltatás árának esetében a 107. § (3) bekezdése
-
-szerinti rendeletben állapítja meg.
-
-(3) A Hivatal az (1) bekezdésben meghatározott díj vagy ár megállapításának szabályaira vonatkozó javaslatát a következő árszabályozási ciklus kezdete előtt legalább 4 hónappal a honlapján nyilvánosságra hozza, és ezzel egyidejűleg kezdeményezi a miniszternél rendelettel történő kihirdetését.
+(5) A Hivatal az (1) és (2) bekezdés szerinti árszabályozási ciklus indulását megelőzően eszköz- és költség-felülvizsgálatot végez.
