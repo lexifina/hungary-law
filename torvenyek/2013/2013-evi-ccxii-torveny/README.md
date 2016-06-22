@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-212-00-00
 | 2015-12-11 | 2015. évi CLXXXI. törvény | 2013-212-00-00.19 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2013-212-00-00.20 |
 | 2016-01-06 | 2015. évi CCXX. törvény | 2013-212-00-00.21 |
+| 2016-06-22 | 2016. évi LXI. törvény | 2013-212-00-00.22 |
