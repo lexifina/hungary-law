@@ -32,7 +32,7 @@ b) egyszeri kötbért fizetni a (4) bekezdés d) pontjában
 
 meghatározott szerződésszegés esetén.
 
-(6) A hálózati csatlakozási és a hálózathasználati szerződés érvénytelensége, illetve a szerződések vonatkozásában fennálló felelősség tekintetében, amennyiben jelen törvény eltérő rendelkezést nem tartalmaz, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.) megfelelő rendelkezéseit kell alkalmazni. A szavatossági igények körében azonban a hálózati engedélyest terheli annak bizonyítása, hogy az előírt minőségű és biztonságos energia ellátás érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható volt.
+(6) A hálózati csatlakozási és a hálózathasználati szerződés érvénytelensége, illetve a szerződések vonatkozásában fennálló felelősség tekintetében, amennyiben jelen törvény eltérő rendelkezést nem tartalmaz, a Ptk. megfelelő rendelkezéseit kell alkalmazni. A szavatossági igények körében azonban a hálózati engedélyest terheli annak bizonyítása, hogy az előírt minőségű és biztonságos energia ellátás érdekében úgy járt el, ahogy az az adott helyzetben tőle elvárható volt.
 
 (7) A felek – a szerződés teljesítése során – kötelesek egymást megfelelően tájékoztatni, beleértve a szerződés lényeges tartalmát érintő, 3 hónapon belül általuk tervezett változtatásokat is.
 

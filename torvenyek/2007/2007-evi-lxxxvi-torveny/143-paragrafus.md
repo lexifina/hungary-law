@@ -1,6 +1,6 @@
 143. § (1) Az egyetemes szolgáltatást méltányos, könnyen és tisztán összehasonlítható, átlátható árszabások alkalmazásával, külön jogszabályban meghatározott típusú termékcsomagok biztosításával kell megvalósítani.
 
-(2) Az egyetemes szolgáltatás árát a villamosenergia-piaci árak, továbbá a hatékonyan működő engedélyes gazdálkodó szervezetek indokolt működési és tőkeköltsége, valamint összehasonlító elemzések alapján kell meghatározni úgy, hogy a legkisebb költség elvének érvényre juttatása érdekében a szabályozás által érintett engedélyeseket gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze.
+(2) Az egyetemes szolgáltatás árát a villamosenergia-piaci árak, továbbá a hatékonyan működő engedélyesek indokolt működési és tőkeköltsége, valamint összehasonlító elemzések alapján kell meghatározni úgy, hogy a legkisebb költség elvének érvényre juttatása érdekében a szabályozás által érintett engedélyeseket gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze.
 
 (3) Az egyetemes szolgáltató által az (1) bekezdés szerint kötelezően nyújtott termékcsomagokat, a kötelezően nyújtott egyetemes szolgáltatás árát, az áralkalmazási feltételeket, valamint az árszabályozás kereteit – a 143/A. § (1) bekezdésében foglaltaknak megfelelően – a Hivatal javaslata alapján a miniszter rendeletben állapítja meg. A Hivatal a javaslatát a rendelet tervezett hatálybalépését megelőzően legalább 40 nappal megküldi a miniszternek.
 
