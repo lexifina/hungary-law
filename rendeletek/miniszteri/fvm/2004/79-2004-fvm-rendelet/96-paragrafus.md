@@ -8,7 +8,9 @@
 
 (3a)[^156] E rendeletnek a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény végrehajtásának szabályairól szóló 79/2004. (V. 4.) FVM rendelet módosításáról szóló 14/2016. (III. 2.) FM rendelet hatálybalépését[^157] megelőző napon hatályos 2. §-át a vad védelmével, a vadgazdálkodással, valamint a vadászattal összefüggő egyes törvények módosításáról szóló 2015. évi CLXXXIII. törvény hatálybalépése[^158] előtt kialakított vadászterületek tekintetében 2017. március 1-ig alkalmazni kell.
 
-(4)[^159] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
+(3b)[^159] A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény végrehajtásának szabályairól szóló 79/2004. (V. 4.) FVM rendelet módosításáról szóló 41/2016. (VI. 22.) FM rendelettel [a továbbiakban: 41/2016. (VI. 22.) FM rendelet] megállapított rendelkezéseket a 41/2016. (VI. 22.) FM rendelet hatálybalépésekor[^160] folyamatban lévő ügyekben is alkalmazni kell.
+
+(4)[^161] Ez a rendelet a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) az Európai Parlament és a Tanács 2009/147/EK irányelve (2009. november 30.) a vadon élő madarak védelméről, 6–9. cikk, II. melléklet, V. melléklet;
 
@@ -19,4 +21,6 @@ b) a Tanács 92/43/EGK irányelve (1992. május 21.) a természetes élőhelyek,
 [^156]: A Vhr. 96. § (3a) bekezdését a 14/2016. (III. 2.) FM rendelet 6. §-a iktatta be.
 [^157]: A hatálybalépés napja 2016. március 3.
 [^158]: A hatálybalépés napja 2016. január 1.
-[^159]: A Vhr. 96. § (4) bekezdése a 65/2015. (X. 26.) FM rendelet 1. §-ával megállapított szöveg.
+[^159]: A Vhr. 96. § (3b) bekezdését a 41/2016. (VI. 22.) FM rendelet 2. §-a iktatta be.
+[^160]: A hatálybalépés napja 2016. június 23.
+[^161]: A Vhr. 96. § (4) bekezdése a 65/2015. (X. 26.) FM rendelet 1. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## I.[^175]
+## I.[^177]
 
 ## ÁLLAMI VADÁSZJEGY
 
@@ -12,7 +12,7 @@
 
 ## MINTA első és második oldala
 
-## II.[^176]
+## II.[^178]
 
 ## ÁLLAMI VADÁSZATI ENGEDÉLY
 
@@ -36,8 +36,8 @@
 
 | a jogosult megnevezése | kódszáma | helye | ideje | faj megnevezése | ivar | db | azonosítójel | egyéb |
 
-15. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^177]
+15. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^179]
 
-[^175]: A Vhr. 14. számú melléklet I. része az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
-[^176]: A Vhr. 14. számú melléklet II. része az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
-[^177]: A Vhr. 15. számú mellékletét a 126/2013. (XII. 17.) VM rendelet 19. §-a hatályon kívül helyezte, újonnan a 14/2016. (III. 2.) FM rendelet 9. §-a iktatta be.
+[^177]: A Vhr. 14. számú melléklet I. része az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^178]: A Vhr. 14. számú melléklet II. része az 56/2005. (VI. 25.) FVM rendelet 29. §-ának (1) bekezdésével megállapított szöveg, alkalmazási rendelkezések tekintetében lásd e módosító rendelet 30. § (2)–(4) bekezdését és 31. §-át.
+[^179]: A Vhr. 15. számú mellékletét a 126/2013. (XII. 17.) VM rendelet 19. §-a hatályon kívül helyezte, újonnan a 14/2016. (III. 2.) FM rendelet 9. §-a iktatta be.
