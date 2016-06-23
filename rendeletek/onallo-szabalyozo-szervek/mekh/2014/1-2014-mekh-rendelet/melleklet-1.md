@@ -1,4 +1,6 @@
-1. melléklet az 1/2014. (III. 4.) MEKH rendelethez[^12]
+## 11. §[^13] E rendeletnek a Magyar Energetikai és Közmű-szabályozási Hivatal igazgatási szolgáltatási díjainak mértékéről, valamint az igazgatási szolgáltatási, a felügyeleti díjak és egyéb bevételek beszedésére, kezelésére, nyilvántartására és visszatérítésére vonatkozó szabályokról szóló 1/2014. (III. 4.) MEKH rendelet módosításáról szóló 3/2016. (VI. 22.) MEKH rendelettel megállapított 7/A. §-át a folyamatban lévő ügyekben is alkalmazni kell.
+
+1. melléklet az 1/2014. (III. 4.) MEKH rendelethez[^14]
 
 Igazgatási szolgáltatási díjak
 
@@ -694,4 +696,5 @@ G.) Energiahatékonysággal kapcsolatos hatósági eljárások igazgatási szolg
 
 | 7 | pozitív eredményű költség-haszon elemzés esetén kiadott kötelező határozat végrehajtása alóli felmentési kérelem elbírálása | 200 |
 
-[^12]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a szerint módosított szöveg.
+[^13]: A 11. §-t a 3/2016. (VI. 22.) MEKH rendelet 1. § (2) bekezdése iktatta be.
+[^14]: Az 1. melléklet a 10/2014. (XI. 6.) MEKH rendelet 6. §-a, az 5/2015. (VIII. 7.) MEKH rendelet 2. §-a, az 1/2016. (IV. 15.) MEKH rendelet 1. §-a szerint módosított szöveg.
