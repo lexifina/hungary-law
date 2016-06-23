@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Egészségügyi Világszervezet között az Egészségügyi Világszervezet Budapesti Központjának létrehozásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
