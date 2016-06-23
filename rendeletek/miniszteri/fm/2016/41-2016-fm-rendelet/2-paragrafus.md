@@ -1,0 +1,5 @@
+## 1. § A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény végrehajtásának szabályairól szóló 79/2004. (V. 4.) FVM rendelet (a továbbiakban: Vhr.) 7/E. §-a helyébe a következő rendelkezés lép:
+
+## „7/E. § (1) A Vtv. 14. § (1) bekezdésében meghatározott hirdetmény a vadászati hatósághoz való beérkezés időpontjának (hónap, nap, óra, perc) a vadászati hatóság általi feltüntetésével tehető közzé a vadászati hatóság hirdetőtábláján. A Vtv. 11/C. § (1) bekezdése szerinti jogerő beálltáról a vadászati hatóság a honlapján és a Vtv. 11/A. § (4) bekezdése szerinti módon tájékoztatást tesz közzé.
+
+## (2) Ha a Vtv. 12. § (1) bekezdésében meghatározottak nyilvántartásba vételére irányuló hatósági eljárásban a döntés meghozatala előtt ugyanazon vadászterület vonatkozásában több kérelem is benyújtásra került, a vadászati hatóság a kérelmeket az (1) bekezdésben foglalt időpont szerinti sorrendben vizsgálja meg, és a sorrendben korábbi, a Vtv.-ben és e rendeletben foglaltaknak megfelelő kérelem alapján a nyilvántartásba vételt elvégzi, a további kérelmeket elutasítja.”
