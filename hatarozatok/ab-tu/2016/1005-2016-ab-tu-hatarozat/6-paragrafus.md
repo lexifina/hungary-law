@@ -1,0 +1,3 @@
+## 5. § Az Ügyrend 32. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) Ha a jogerős döntést megtámadó alkotmányjogi panaszt az Alkotmánybíróság a Kúria folyamatban lévő eljárására tekintettel visszautasította, majd a Kúria a felülvizsgálati kérelmet, illetve indítványt elutasító döntést hozott a hiánypótlás vagy kiegészítés elmaradása, vagy a felülvizsgálatra nyitva álló határidő indítványozó általi elmulasztása miatt, vagy azért, mert a felülvizsgálat kizárt, akkor a Kúria ezen döntését az Abtv. 26. § (1) bekezdése vagy 27. §-a alapján megtámadó – és az Abtv. 30. § (1) bekezdésében foglalt határidőn belül benyújtott – alkotmányjogi panaszt, amennyiben az a jogerős döntésre is kiterjed, nem lehet elkésettnek tekinteni e határozat vonatkozásában.”
