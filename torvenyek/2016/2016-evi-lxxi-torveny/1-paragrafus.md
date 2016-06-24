@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Montenegrónak az Észak-atlanti Szerződéshez való csatlakozásáról szóló Jegyzőkönyv (a továbbiakban: Csatlakozási Jegyzőkönyv) kötelező hatályának elismerésére.
