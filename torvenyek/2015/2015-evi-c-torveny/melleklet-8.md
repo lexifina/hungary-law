@@ -1168,6 +1168,6 @@ Kiegészítő rendelkezések:
 
 V. A bölcsődei ellátásban részesülő gyermekek ingyenes étkezetése
 
-A 41. § (1) bekezdésében meghatározott fenntartót kiegészítő támogatás illeti meg az általa étkeztetett, bölcsődei ellátásban részesülő, a Gyvt. 151. § (5) bekezdés a) pontja szerint a gyermekétkeztetést ingyenesen igénybe vevő gyermekek után.
+A 41. § (1) bekezdésében meghatározott fenntartót kiegészítő támogatás illeti meg az általa étkeztetett, bölcsődei ellátásban részesülő, a Gyvt. 21/B. § (1) bekezdés a) pontja szerint a gyermekétkeztetést ingyenesen igénybe vevő gyermekek után.
 
-A kiegészítő támogatás fajlagos összege 28 400/fő/év.
+A kiegészítő támogatás fajlagos összege 28 400/fő/év. A kiegészítő támogatás igénylésekor és elszámolásakor a 2. melléklet, Kiegészítő szabályok 5. pont m) alpontjában foglaltakat kell alkalmazni azzal, hogy a bölcsődében 2016. január 1-je és december 31-e között a naponta ténylegesen ellátásban részesülő gyermekek száma alapján összesített gondozási napok számát el kell osztani 230-cal.

@@ -9,3 +9,5 @@
 (4) A Nemzeti Kutatási, Fejlesztési és Innovációs Alap a 2016. évben a központi költségvetés javára összesen 17 000,0 millió forintot ad át a kutatás-fejlesztési tevékenység Nemzeti Kutatási, Fejlesztési és Innovációs Alapon kívüli finanszírozásához. A befizetési kötelezettséget negyedévente, az éves előirányzat 25%-ával kell teljesíteni.
 
 (5) A Paksi Atomerőmű Zrt. 2016. évi befizetési kötelezettsége a Központi Nukleáris Pénzügyi Alapba 21 294,1 millió forint, amelyet havonta egyenlő részletekben köteles átutalni a Központi Nukleáris Pénzügyi Alap fizetési számlájára.
+
+(6) A szakképzésért és felnőttképzésért felelős miniszter által fenntartott szakképző iskolák működési költségéhez való hozzájárulás céljára a LXIII. Nemzeti Foglalkoztatási Alap fejezet, 2. Szakképzési és felnőttképzési támogatások cím előirányzatának terhére a központi költségvetés javára 2016. évben 3000,0 millió forintot ad át. A befizetési kötelezettséget egy összegben, 2016. októberben kell teljesíteni.

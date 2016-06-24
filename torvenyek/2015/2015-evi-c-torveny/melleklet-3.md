@@ -128,7 +128,7 @@ Előirányzat: 500,0 millió forint
 
 Az előirányzat a települési önkormányzatok pénzügyi-gazdálkodási feladatai ellátása feltételeinek javítását szolgálja. A támogatást a települési önkormányzatok pályázati úton igényelhetik.
 
-A támogatás az államháztartási adatszolgáltatások teljesítésében közreműködő dolgozók személyi juttatásaira, továbbképzésére, az önkormányzat által alkalmazott könyvelő programokra fordítható.
+A támogatás az államháztartási adatszolgáltatások teljesítésében közreműködő dolgozók személyi juttatásaira, továbbképzésére, az önkormányzat által alkalmazott könyvelő programokra, az adatszolgáltatásokhoz kötődő eszközbeszerzésre fordítható.
 
 A támogatásról az államháztartásért felelős miniszter dönt. A vissza nem térítendő támogatás folyósítása előfinanszírozás keretében, egy összegben történik, felhasználásának határideje tárgyév december 31-e.
 
@@ -159,6 +159,14 @@ A támogatás folyósítása előfinanszírozás keretében, egy összegben tör
 a) vissza nem térítendő támogatás, melynek felhasználási határideje a tárgyévet követő év november 30-a, kivéve, ha a támogatói okirat más határidőt állapít meg,
 
 b) visszatérítendő támogatás, melynek visszafizetési határideje a támogatói okiratban szereplő határidő, de legfeljebb a tárgyévet követő év november 30-a.
+
+8. A kéményseprő-ipari közszolgáltatás helyi önkormányzat általi ellátásának támogatása
+
+Előirányzat: 100,0 millió forint
+
+Az előirányzat azon helyi önkormányzat támogatására szolgál, amely a kéményseprő-ipari tevékenységről szóló 2015. évi CCXI. törvény 10. § (1) bekezdés a) pontja szerint a közszolgáltatási szerződés lejártáig a közszolgáltatást biztosítja. A támogatást a helyi önkormányzat pályázati úton igényelheti a közszolgáltatás 2015. július 1-jei állapot szerinti közszolgáltatási díjának megtérítésére. Az igényelhető összeget a közszolgáltatási díjból befolyó bevétel csökkenti.
+
+A támogatásról a helyi önkormányzatokért felelős miniszter dönt. A vissza nem térítendő támogatás folyósítása előfinanszírozás keretében, a kéményseprő-ipari közszolgáltatás tárgyévi térítésmentes ellátásához szükséges becsült adat alapján egy összegben történik, felhasználásának határideje tárgyév december 31-e.
 
 II. Helyi önkormányzatok felhalmozási célú költségvetési támogatásai
 
@@ -212,7 +220,7 @@ Az előirányzatból a települési önkormányzat pályázati úton támogatás
 
 − megyei jogú városok esetében 50,0 millió forint,
 
-−10 000 fő lakosságszám feletti városok esetében 30,0 millió forint,
+−10 000 fő lakosságszámú vagy azt meghaladó települések esetében 30,0 millió forint,
 
 −10 000 fő lakosságszám alatti települések esetében 15,0 millió forint.
 
@@ -324,9 +332,9 @@ A támogatásról tárcaközi bizottság javaslata alapján az államháztartás
 
 8. Adósságkonszolidációban nem részesült települési önkormányzatok fejlesztéseinek támogatása
 
-Előirányzat: 12 500,0 millió forint
+Előirányzat: 25 000,0 millió forint
 
-Az előirányzatból a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 76/C. §-a szerinti, a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 72–74/A. §-ai, és a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: 2014. évi költségvetési törvény) 67–68. §-ai szerinti önkormányzati adósságátvállalásban részt nem vett vagy törlesztési célú támogatásban nem részesült települési önkormányzat pályázati úton támogatást igényelhet a tulajdonában lévő
+Az előirányzatból a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 76/C. §-a szerinti, a Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 72–74/A. §-ai, és a Magyarország 2014. évi központi költségvetéséről szóló 2013. évi CCXXX. törvény (a továbbiakban: 2014. évi költségvetési törvény) 67–68. §-ai szerinti önkormányzati adósságátvállalásban részt nem vett vagy törlesztési célú támogatásban nem részesült települési önkormányzat pályázati úton támogatást igényelhet
 
 a) a település belterületén út, híd vagy járda építésére, felújítására, karbantartására,
 
@@ -334,7 +342,7 @@ b) vízrendezési és csapadékelvezetési rendszer kiépítésére, felújítá
 
 c) köztemető felújítására, ravatalozó építésére illetve felújítására, temetőközlekedési utak építésére, felújítására,
 
-d) olyan épület felújítására, fejlesztésére, energetikai korszerűsítésére, amely
+d) olyan épület felújítására, fejlesztésére, illetve energetikai korszerűsítésére és szükség esetén megvásárlására, amely
 
 da) igazgatási tevékenységet,
 
@@ -344,11 +352,13 @@ dc) kulturális tevékenységet vagy
 
 dd) szociális vagy egészségügyi
 
-feladatellátást szolgál,
+feladatellátást szolgál, vagy a jövőben fog szolgálni,
 
 e) településrendezési tervek készítésére, valamint
 
 f) munkahely-teremtési programok megvalósítására.
+
+Az a)–d) pont szerinti a d) pont szerinti vásárláson kívüli pályázati cél a települési önkormányzat saját tulajdonában lévő vagyontárgyon valósítható meg.
 
 A támogatás összege
 
@@ -370,7 +380,7 @@ A támogatás összege
 
 – 10 000 fő feletti lakosságszámú település esetében legfeljebb 200 000 000 forint.
 
-Az önkormányzat által a 2014. évi költségvetési törvény 3. melléklet 10.a) pontja szerinti és a 2015. évi költségvetési törvény 3. melléklet II.10. pontja szerinti előirányzatból elnyert támogatások összege és az e jogcímen igényelhető támogatás együttes összege nem haladhatja meg a lakosságszám szerinti támogatás kétszeresét.
+Az e jogcímen igényelhető támogatás akkor haladhatja meg az előzőek szerinti támogatási összeget, ha az önkormányzat által a 2014. évi költségvetési törvény 3. melléklet 10.a) pontja szerinti, valamint a 2015. évi költségvetési törvény 3. melléklet II.10. pontja szerinti előirányzatból elnyert támogatás és az e jogcímen igényelt támogatás együttes összege nem haladja meg a lakosságszám szerinti támogatás kétszeresét.
 
 A támogatás összegének meghatározása a 2013. január 1-jei lakosságszám alapján történik.
 
@@ -416,7 +426,7 @@ A pénzügyi gondnok díjának folyósításáról – a bíróság díjmegálla
 
 IV. Egyedi önkormányzati támogatások
 
-Előirányzat: 8 275,8 millió forint
+Előirányzat: 9 325,8 millió forint
 
 Az előirányzat szolgál a következő költségvetési támogatások 2016. évi ütemének forrásául:
 
@@ -426,13 +436,13 @@ b) legfeljebb 620,0 millió forint illeti meg Budapest Főváros XII. kerület H
 
 c) legfeljebb 700,0 millió forint illeti meg Csurgó Város Önkormányzatát a Sótonyi László Sport és Szabadidőcentrum felújítása és bővítése céljára,
 
-d) legfeljebb 5 000,0 millió forint illeti meg Budapest Főváros Önkormányzatát a Pannon Park beruházási projekt 2016. évi munkálatainak megvalósítására,
+d) legfeljebb 5 450,0 millió forint illeti meg Budapest Főváros Önkormányzatát a Pannon Park beruházási projekt 2016. évi munkálatainak megvalósítására,
 
 e) legfeljebb 500,0 millió forint illeti meg Pécs Megyei Jogú Város Önkormányzatát – a Zsolnay Örökség Kezelő Nonprofit Kft.-n keresztül – a pécsi Zsolnay Kulturális Negyed és a Kodály Központ üzemeltetéséhez és programjainak megvalósításához,
 
 f) legfeljebb 605,8 millió forint illeti meg Veszprém Megyei Jogú Város Önkormányzatát a Veszprém Aréna multifunkcionális sport- és rendezvénycsarnok építési beruházásával összefüggő tőke- és kamattartozás átvállalásáról szóló 1056/2014. (II. 11.) Korm. határozat 5. pontja alapján a Veszprém Aréna építési beruházásával összefüggő tőke- és kamattörlesztő-részletek átvállalásához,
 
-g) legfeljebb 400,0 millió forint illeti meg Mezőkövesd Város Önkormányzatát a mezőkövesdi tanuszoda beruházás megvalósításához,
+g) legfeljebb 400,0 millió forint illeti meg Mezőkövesd Város Önkormányzatát a mezőkövesdi tanuszoda beruházás megvalósításához, továbbá legfeljebb 600 millió forint illeti meg a Zsóry Gyógy- és Strandfürdő fejlesztésének megvalósításához,
 
 h) legfeljebb 300,0 millió forint illeti meg Budapest Főváros II. Kerületi Önkormányzatot a pesthidegkúti uszoda beruházás megvalósításához.
 
@@ -460,7 +470,7 @@ Az e)–f) pontok szerinti támogatások teljes összegének folyósítása a sz
 
 V. Önkormányzati elszámolások
 
-Előirányzat: 15 112,9 millió forint
+Előirányzat: 13 682,9 millió forint
 
 1. Az önkormányzati elszámolások előirányzatát növeli
 
@@ -492,7 +502,7 @@ c) az államháztartásról szóló jogszabályok alapján költségvetési évb
 
 d) a helyi önkormányzatok által az Áht. 83. § (6a) bekezdésében felsorolt, költségvetési évet megelőző éveket terhelő kötelezettségek költségvetési évben történő teljesítése esetén a költségvetési évet megelőző években felfüggesztett támogatások összege.
 
-4. Az előirányzat szolgál a 2015. évi költségvetési törvény 3. melléklet III.5. pontjában szereplő azon költségvetési támogatások le nem hívott részének forrásául, amelyek esetében 2015. évben csak az előleg kifizetése történt meg. E támogatások 2016. évi folyósítására csak abban az esetben kerülhet sor, ha az önkormányzat a 2015. évben kapott támogatással (előleggel) legkésőbb 2016. november 15-éig elszámol. A támogatás felhasználási határideje 2017. december 31.
+4. Az előirányzat szolgál a 2015. évi költségvetési törvény 3. melléklet III.5. pontjában szereplő azon költségvetési támogatások le nem hívott részének forrásául, amelyek esetében 2015. évben csak az előleg kifizetése történt meg. A 2015-ben le nem hívott, de 2016-ban esedékessé váló támogatások vonatkozásában a támogató jogosult a 2015. évi támogatási szerződés, illetve kiadott támogatói okirat módosítására. E támogatások 2016. évi folyósítására csak abban az esetben kerülhet sor, ha az önkormányzat a 2015. évben kapott támogatással (előleggel) legkésőbb 2016. november 15-éig elszámol. A támogatás felhasználási határideje 2017. december 31.
 
 5. Az előirányzat szolgál fedezetül a helyi önkormányzat és társulása által megvalósítandó európai uniós fejlesztési célú pályázataihoz szükséges saját forrás kiegészítésére a korábbi években megítélt és támogatási szerződésben rögzített központi költségvetési támogatásból adódó fizetési kötelezettségek teljesítésére.
 
@@ -510,7 +520,7 @@ VII. Kiegészítő szabályok:
 
 a) az I.1. pont szerinti jogcím esetében a vízgazdálkodásért felelős miniszter az államháztartásért felelős miniszter és a szociál- és nyugdíjpolitikáért felelős miniszter egyetértésével,
 
-b) az I.2., I.3. és II.8. pontok szerinti jogcímek esetében a helyi önkormányzatokért felelős miniszter az államháztartásért felelős miniszter egyetértésével,
+b) az I.2., I.3., I.8. és II.8. pontok szerinti jogcímek esetében a helyi önkormányzatokért felelős miniszter az államháztartásért felelős miniszter egyetértésével,
 
 c) az I.5. és II.2. pontok szerinti jogcímek esetében a közlekedésért felelős miniszter a helyi önkormányzatokért felelős miniszter és az államháztartásért felelős miniszter egyetértésével,
 
@@ -539,3 +549,5 @@ c) a II.5. pont szerinti jogcímek esetében a kultúráért felelős miniszter.
 4. Ahol e melléklet a támogatás felhasználási határidejét nem rögzíti, ott az Áht. szerinti szabályozás alkalmazandó.
 
 5. A 2014. évi költségvetési törvény 3. melléklet 10.a) pontja szerinti és a 2015. évi költségvetési törvény 3. melléklet II.10. pontja szerinti jogcímeken kapott támogatások felhasználási határideje 2018. december 31.
+
+6. Ahol e melléklet nem rögzíti, hogy az Áht. szerinti támogató a kedvezményezettel a támogatás felhasználásának részletes szabályairól támogatási szerződést köt, azon előirányzatok esetében az Áht. szerinti támogató támogatói okiratot bocsát ki.

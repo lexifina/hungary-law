@@ -1,6 +1,6 @@
 41. § (1) Az Országgyűlés a szociális, gyermekjóléti, gyermekvédelmi közfeladatot ellátó intézményt, szolgáltatást fenntartó egyházi jogi személy, civil szervezet, közalapítvány, országos nemzetiségi önkormányzat, települési vagy területi nemzetiségi önkormányzat, gazdasági társaság, és a humánszolgáltatást alaptevékenységként végző, az Szja tv. hatálya alá tartozó egyéni vállalkozó (a továbbiakban együtt: nem állami szociális fenntartó) részére támogatást állapít meg a következők szerint:
 
-a) a támogatás a nem állami szociális fenntartót a települési önkormányzatok 2. melléklet III. pont 3. alpont b)–k) pontjában és III. pont 5. alpont a) pontjában meghatározott támogatásaival azonos jogcímeken, összegben és feltételek mellett illeti meg,
+a) a támogatás a nem állami szociális fenntartót a települési önkormányzatok 2. melléklet III. pont 3. alpont c)–k) pontjában és III. pont 5. alpont a) pontjában meghatározott támogatásaival azonos jogcímeken, összegben és feltételek mellett illeti meg,
 
 b) – a hajléktalanok átmeneti intézményei kivételével – a nem állami szociális fenntartó, ha a Szoctv. 57. § (2) bekezdése, valamint a Gyvt. 15. § (2) bekezdés c) pontja és (3) bekezdés a), illetve b) pontja szerinti feladatot lát el, a 8. melléklet I. és II. pont szerinti támogatásra jogosult,
 

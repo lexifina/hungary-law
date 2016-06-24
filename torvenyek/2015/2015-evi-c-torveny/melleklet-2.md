@@ -658,7 +658,7 @@ Ts1, Ts2 = 2015/2016., illetve 2016/2017. nevelési évben az óvodapedagógusok
 
 S1; S2 = 2015/2016., illetve 2016/2017. nevelési évben az óvodapedagógusok nevelő munkáját közvetlenül segítők b) alpont szerinti száma, levonva a PS1, illetve a PS2 értékét,
 
-PS1; PS2 = 2015/2016., illetve 2016/2017. nevelési évben a pedagógus szakképzettséggel rendelkező, az óvodapedagógusok nevelő munkáját közvetlenül segítők száma,
+PS1; PS2 = 2015/2016., illetve 2016/2017. nevelési évben a pedagógus szakképzettséggel rendelkező, az óvodapedagógusok nevelő munkáját közvetlenül segítők száma, ideértve a felsőfokú végzettséggel rendelkező, a 20/2012. (VIII. 31.) EMMI rendelet 179. § (1) bekezdés b) pontja szerinti kisgyermeknevelőket is
 
 ÁBp = óvodapedagógus átlagbér elismert összege,
 
@@ -686,7 +686,7 @@ FAJLAGOS ÖSSZEG:
 
 70 000 forint/fő/év
 
-A támogatás a települési önkormányzatot a nem a közvetlen szakmai feladatellátásban dolgozók béréhez, az óvodai nevelést biztosító, jogszabályban foglalt eszközök és felszerelések beszerzéséhez, valamint a feladatellátásra szolgáló épület és annak infrastruktúrája folyamatos működtetéséhez szükséges kiadásokhoz kapcsolódóan illeti meg az általa fenntartott óvodában nevelt - az 1. a) alpontban figyelembe vett - gyermeklétszám után.
+A támogatás a települési önkormányzatot a nem a közvetlen szakmai feladatellátásban dolgozók béréhez, az óvodai nevelést biztosító, jogszabályban foglalt eszközök és felszerelések beszerzéséhez, a feladatellátásra szolgáló épület és annak infrastruktúrája folyamatos működtetéséhez, karbantartásához szükséges kiadásokhoz kapcsolódóan illeti meg az általa fenntartott óvodában nevelt - az 1. a) alpontban figyelembe vett - gyermeklétszám után.
 
 A létszám meghatározásakor minden gyermeket egy főként kell figyelembe venni.
 
@@ -2038,7 +2038,7 @@ felső határ
 
 |
 
-5000
+6 500
 
 |
 
@@ -2046,7 +2046,7 @@ felső határ
 
 |
 
-25
+30
 
 |
 
@@ -2054,11 +2054,11 @@ felső határ
 
 |
 
-5 001
+6 501
 
 |
 
-8 500
+9 500
 
 |
 
@@ -2074,11 +2074,11 @@ felső határ
 
 |
 
-8 501
+9 501
 
 |
 
-10 000
+11 000
 
 |
 
@@ -2094,11 +2094,11 @@ felső határ
 
 |
 
-10 001
+11 001
 
 |
 
-12 000
+13 000
 
 |
 
@@ -2114,11 +2114,11 @@ felső határ
 
 |
 
-12 001
+13 001
 
 |
 
-15 000
+15 500
 
 |
 
@@ -2134,11 +2134,11 @@ felső határ
 
 |
 
-15 001
+15 501
 
 |
 
-18 000
+18 500
 
 |
 
@@ -2154,7 +2154,7 @@ felső határ
 
 |
 
-18 001
+18 501
 
 |
 
@@ -2598,7 +2598,7 @@ Finanszírozás kezdő hónapja
 
 II.1., II.2.,
 
-II.3., II.5., III.5. a)-b)
+II.3., II.5.,
 
 |
 
@@ -2614,7 +2614,9 @@ II.3., II.5., III.5. a)-b)
 
 |
 
-III.3., III.4.
+III.3., III.4.;
+
+III.5.
 
 |
 
@@ -2624,7 +2626,9 @@ III.3., III.4.
 
 2016. július;
 
-III.4. esetében 2016. augusztus
+III.4. és III.5. esetében
+
+2016. augusztus
 
 |
 
@@ -3134,7 +3138,7 @@ c) Az I.1. pont szerinti támogatás elszámolásának államháztartásról sz�
 
 d) Amennyiben az OSAP I.1.bb)-bd) alpont szerinti támogatást megalapozó adatok magasabbak, mint az ezen időpont szerinti tényleges adatok, úgy az OSAP adatszolgáltatás – 2016. június 30-áig történő – javítása alapján az I.1.bb)-bd) alpontokhoz kapcsolódó támogatásokban történő változások finanszírozása augusztus hónaptól történik.
 
-e) Az I.1.b) alpont szerinti támogatások megállapításakor a kiválással érintett önkormányzatnak a FÖMI adatbázis I.1.ba) alpont szerinti és az OSAP I.1.bb)-bd) alpont szerinti adatait lakosságarányosan meg kell osztani a 2015. évben megalakult önkormányzattal.
+e) Az I.1.b) alpont szerinti támogatások megállapításakor a kiválással érintett önkormányzatnak a FÖMI adatbázis I.1.ba) alpont szerinti és az OSAP I.1.bb)–bd) alpont szerinti adatait lakosságarányosan meg kell osztani a 2014. évben megalakult önkormányzattal. Amennyiben a 2014. évben megalakult önkormányzat és az az önkormányzat, amelyből kivált megállapodik az I.1.b) és I.1.e) alpont támogatást megalapozó adatok két település közötti megbontásáról, úgy e támogatásokat az önkormányzatok egymás között pénzeszközátadással rendezik.
 
 f) Az I. pontban szereplő támogatásokra vonatkozó felhasználási szabályok:
 
@@ -3264,7 +3268,9 @@ b) A Nkt. szerint létrehozott óvoda-bölcsőde többcélú intézmény esetéb
 
 c) A II. jogcím szerinti támogatásokra vonatkozó felhasználási szabályok
 
-A II.1-II.3. és II.5. jogcímek szerinti támogatások kizárólag a támogatással érintett óvodaintézmények működési és felhalmozási kiadásaira, valamint az óvodai nevelésben részt vevő gyermekek étkeztetési kiadásaira használhatók fel. A támogatás szempontjából kizárólag a „Óvodai nevelés, ellátás szakmai feladatai”, a „Sajátos nevelési igényű gyermekek óvodai nevelésének, ellátásának szakmai feladatai”, a „Nemzetiségi óvodai nevelés, ellátás szakmai feladatai”, az „Óvodai nevelés, ellátás működtetési feladatai”, valamint a „Gyermekétkeztetés köznevelési intézményben” kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
+A II.1–II.3. és II.5. jogcímek szerinti támogatások kizárólag a támogatással érintett óvodaintézmények működési és felhalmozási kiadásaira, valamint az óvodai nevelésben részt vevő gyermekek étkeztetési kiadásaira használhatók fel. A támogatás szempontjából kizárólag a „Óvodai nevelés, ellátás szakmai feladatai”, a „Sajátos nevelési igényű gyermekek óvodai nevelésének, ellátásának szakmai feladatai”, a „Nemzetiségi óvodai nevelés, ellátás szakmai feladatai”, az „Óvodai nevelés, ellátás működtetési feladatai”, valamint a „Gyermekétkeztetés köznevelési intézményben” kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
+
+A II.4. jogcím szerinti támogatás szempontjából kizárólag a „Köznevelési intézmény 1–4. évfolyamán tanulók nevelésével, oktatásával összefüggő működtetési feladatok”, a „Köznevelési intézmény 5–8. évfolyamán tanulók nevelésével, oktatásával összefüggő működtetési feladatok”, a „Gimnázium és szakképző iskola tanulóinak közismereti és szakmai elméleti oktatásával összefüggő működtetési feladatok”, valamint a „Köznevelési intézményben tanulók kollégiumi, externátusi nevelése” kormányzati funkciókon elszámolt kiadások vehetők figyelembe.
 
 5. A III. jogcím szerinti támogatásokra vonatkozó speciális kiegészítő szabályok
 
@@ -3406,7 +3412,7 @@ l) Amennyiben a III.4. jogcím szerinti szociális szakosított ellátást, gyer
 
 m) A III.5. jogcím szempontjából az óvodai, iskolai, kollégiumi és externátusi étkeztetést igénybe vevő gyermekek, tanulók 2016. évi becsült átlaglétszáma és az étkezési napok száma alapján tervezhető, illetve igényelhető a támogatás. Az intézményi étkeztetésben részt vevők számának megállapításánál egy fő – függetlenül attól, hogy többszöri étkezésben is részt vesz – csak egy létszámként és egy intézménynél szerepelhet. Az igényjogosultság szempontjából egy fő létszámnak az a gyermek, tanuló számít, akinek naponta legalább a déli, többfogásos, meleg főétkezés biztosított. Az elszámolás dokumentuma az élelmezési nyilvántartás illetve térítési díj-kedvezményre való jogosultság esetén az azt alátámasztó irat is.
 
-Az étkezésben részt vevők naptári évre, naponként összesített éves létszámát el kell osztani óvodai étkeztetés esetén 221 nappal, kollégiumi, externátusi étkeztetés esetén 201 nappal, iskolai étkeztetés esetén 186 nappal. A nyári szünidőben szervezett napközi ellátáshoz (üdültetéshez, táboroztatáshoz, egyéb szabadidős programhoz) kapcsolódóan biztosított szervezett étkeztetésben részt vevők létszáma az előbbi számításokban nem vehető figyelembe.
+Az étkezésben részt vevők naptári évre, naponként összesített éves létszámát el kell osztani óvodai étkeztetés esetén 221 nappal, kollégiumi, externátusi étkeztetés esetén 201 nappal, iskolai étkeztetés esetén 186 nappal. A szünidőben szervezett ellátás (ideértve az üdültetés, táboroztatás, egyéb szabadidős program keretében szervezett, illetve egyéb szünidei étkeztetéseket is) résztvevőinek létszáma az előbbi számításokban nem vehető figyelembe.
 
 A Gyvt. alapján szervezett, a települési önkormányzat által fenntartott (napos, hetes) bölcsődében elhelyezett gyermekek esetében az intézményi gyermekétkeztetésben ellátottak számának meghatározása: tervezéskor az ellátottak éves becsült számának figyelembevételével meghatározott gondozási napok száma osztva 230-cal, elszámolásnál a havi jelentőlapok szerinti, naponta ténylegesen ellátásban részesülő gyermekek száma alapján összesített éves gondozási napok száma osztva 230-cal.
 
@@ -3420,13 +3426,13 @@ na) a III.1. jogcím szerinti támogatás kizárólag az abban meghatározott c�
 
 A támogatás szempontjából kizárólag az egységes rovatrend „Ellátottak pénzbeli juttatásai” megfelelő rovatain elszámolt kiadások vehetők figyelembe,
 
-nb) a III.2. jogcím szerinti támogatás a III.1. jogcím szerinti ellátások önrészére, a III.3. és III.5. jogcímek szerinti feladatokra, a közfoglalkoztatási feladatok egyéb állami támogatással nem fedezett részére, az intézményi gyermekétkeztetés térítési díjának szociális alapon történő egyedi mérséklésére vagy elengedésére, az önkormányzati helyi hatáskörű pénzbeli és természetbeni ellátások nyújtására, valamint az állampolgárok lakáshoz jutásának települési önkormányzatok általi, szociális alapon történő támogatására használható. A támogatás szempontjából kizárólag az „Ellátottak pénzbeli juttatásai” megfelelő rovatain, illetve a „Rövid időtartamú közfoglalkoztatás”, a „Start-munka program - Téli közfoglalkoztatás”, a „Hosszabb időtartamú közfoglalkoztatás”, a „Közfoglalkoztatás mobilitását szolgáló támogatás (közhasznú kölcsönző részére)”, az „Országos közfoglalkoztatási program”, a „Közfoglalkoztatási mintaprogram”, a „Lakáshoz jutást segítő támogatások”, a „Lakóingatlan szociális célú bérbeadása, üzemeltetése”, a „Lakásfenntartással, lakhatással összefüggő ellátások” kormányzati funkciókon, valamint az oc) és oe) pontokban szereplő kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
+nb) a III.2. jogcím szerinti támogatás a III.1. jogcím szerinti ellátások önrészére, a III.3. és III.5. jogcímek szerinti feladatokra, a közfoglalkoztatási feladatok egyéb állami támogatással nem fedezett részére, az intézményi gyermekétkeztetés térítési díjának szociális alapon történő egyedi mérséklésére vagy elengedésére, az önkormányzati helyi hatáskörű pénzbeli és természetbeni ellátások nyújtására, valamint az állampolgárok lakáshoz jutásának települési önkormányzatok általi, szociális alapon történő támogatására használható. A támogatás szempontjából kizárólag az „Ellátottak pénzbeli juttatásai” megfelelő rovatain, illetve a „Rövid időtartamú közfoglalkoztatás”, a „Start-munka program - Téli közfoglalkoztatás”, a „Hosszabb időtartamú közfoglalkoztatás”, a „Közfoglalkoztatás mobilitását szolgáló támogatás (közhasznú kölcsönző részére)”, az „Országos közfoglalkoztatási program”, a „Közfoglalkoztatási mintaprogram”, a „Lakáshoz jutást segítő támogatások”, a „Lakóingatlan szociális célú bérbeadása, üzemeltetése”, a „Lakásfenntartással, lakhatással összefüggő ellátások” kormányzati funkciókon, valamint az nc) és ne) pontokban szereplő kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
 
-nc) a III.3.a)-k) alpontok között átcsoportosítás hajtható végre. A támogatás szempontjából kizárólag a „Család- és gyermekjóléti szolgáltatás”, „Család- és gyermekjóléti központ”, a „Szociális étkeztetés”, a „Házi segítségnyújtás”, a „Falugondnoki, tanyagondnoki szolgáltatás”, az „Idősek, demens betegek nappali ellátása”, a „Fogyatékossággal élők nappali ellátása”, a „Pszichiátriai betegek nappali ellátása”, a „Szenvedélybetegek nappali ellátása”, a „Hajléktalanok nappali ellátása”, a „Gyermekek napközbeni ellátása”, a „Hajléktalanok átmeneti ellátása” kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
+nc) a III.3.a)-k) alpontok között átcsoportosítás hajtható végre. A támogatás szempontjából kizárólag a „Család- és gyermekjóléti szolgáltatás”, „Család- és gyermekjóléti központ”, a „Szociális étkeztetés”, a „Házi segítségnyújtás”, a „Falugondnoki, tanyagondnoki szolgáltatás”, az „Idősek nappali ellátása”, a „Demens betegek nappali ellátása”, a „Fogyatékossággal élők nappali ellátása”, a „Pszichiátriai betegek nappali ellátása”, a „Szenvedélybetegek nappali ellátása”, a „Hajléktalanok nappali ellátása”, a „Gyermekek bölcsődei ellátása”, a „Gyermekek napközbeni ellátása”, a „Hajléktalanok átmeneti ellátása” kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
 
-nd) a III.4. jogcím szerinti támogatás a támogatással érintett intézmények működési és felhalmozási kiadásaira fordítható, azzal, hogy a III.4.a) és III.4.b) alpontok között átcsoportosítás hajtható végre. E támogatást az önkormányzat a családok átmeneti otthonából év közben kikerülők otthontalanságának megszüntetéséhez is felhasználhatja. A támogatás szempontjából kizárólag a „Gyermekek átmeneti ellátása”, az „Időskorúak, demens betegek átmeneti ellátása”, „Időskorúak, demens betegek tartós bentlakásos ellátása”, „Hajléktalanok tartós bentlakásos ellátása” kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
+nd) a III.4. jogcím szerinti támogatás a támogatással érintett intézmények működési és felhalmozási kiadásaira fordítható, azzal, hogy a III.4.a) és III.4.b) alpontok között átcsoportosítás hajtható végre. E támogatást az önkormányzat a családok átmeneti otthonából év közben kikerülők otthontalanságának megszüntetéséhez is felhasználhatja. A támogatás szempontjából kizárólag a „Gyermekek átmeneti ellátása”, az „Időskorúak átmeneti ellátása”, a „Demens betegek átmeneti ellátása”, az „Időskorúak tartós bentlakásos ellátása”, a „Demens betegek tartós bentlakásos ellátása”, „Hajléktalanok tartós bentlakásos ellátása” kormányzati funkciókon elszámolt kiadások vehetők figyelembe,
 
-ne) a III.5. jogcím szerinti támogatás kizárólag az étkeztetés teljes önköltségére (annak megszervezésével összefüggő valamennyi költségre, ideértve a felhalmozási jellegű kiadásokat is) számolható el, azzal, hogy a III.5.a)-c) alpontok szerinti támogatások egymás között átcsoportosíthatók. A támogatás szempontjából kizárólag a „Gyermekétkeztetés köznevelési intézményben”, a „Gyermekétkeztetés bölcsődében, fogyatékosok nappali intézményében” és „Intézményen kívüli gyermekétkeztetés” kormányzati funkción elszámolt kiadások vehetők figyelembe.
+ne) a III.5. jogcím szerinti támogatás kizárólag az étkeztetés teljes önköltségére (annak megszervezésével összefüggő valamennyi költségre, ideértve a felhalmozási jellegű kiadásokat is) számolható el, azzal, hogy a III.5.a)–b) alpontok szerinti támogatások egymás között átcsoportosíthatók. A III.5.a)–b) alpontok szerinti támogatás szempontjából kizárólag a „Gyermekétkeztetés köznevelési intézményben”, valamint a „Gyermekétkeztetés bölcsődében, fogyatékosok nappali intézményében” kormányzati funkciókon elszámolt kiadások, míg a III.5.c) pont szerinti támogatás szempontjából az „Intézményen kívüli gyermekétkeztetés” kormányzati funkción elszámolt kiadások vehetők figyelembe.
 
 nf) a III.6. jogcím szerinti támogatást a települési önkormányzat kizárólag a 2016. évi január-december hónapokban kifizetendő ágazati pótlékra és annak közterheire használhatja fel.
 

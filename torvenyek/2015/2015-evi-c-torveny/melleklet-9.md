@@ -37,21 +37,3 @@ Igénylésnél: a feladatmutatók tervezett száma, de legfeljebb a Szoctv. alap
 Elszámolásnál: a teljesített feladatmutató, de legfeljebb a befogadott feladatmutató.
 
 Kiegészítő rendelkezések:
-
-1. A támogatást az a fenntartó veheti igénybe, amely az adott szolgáltatás tekintetében a szolgáltatói nyilvántartásba jogerősen be van jegyezve.
-
-2. Halmozott fogyatékosság: a fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról szóló 1998. évi XXVI. törvény (a továbbiakban: Fot.) 23. § (1) bekezdés f)-g) pontja szerinti fogyatékosság, valamint a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESzCsM rendelet (a továbbiakban: R.) 1. számú melléklet I. Rész M) pontja szerinti fogyatékosság, továbbá ha az ellátottnak az R. 1. számú melléklet I. Rész K) pont 1. alpontja, 2. alpontja, vagy az I. Rész L) – II. Rész N) pontjában foglalt fogyatékosságok közül legalább két fogyatékossága van;
-
-3. Autizmus: a Fot. 23. § (1) bekezdés d) pontja szerinti fogyatékosság, valamint az R. 1. számú melléklet II. Rész N) pont 1. alpontja szerinti fogyatékosság;
-
-4. Kötelezően teljesítendő feladatmutató: támogató szolgáltatás esetén évi 3000 feladategység, közösségi alapellátások esetén éves átlagban 40 fő, nem egész évben történő támogatás esetén ezek időarányos része;
-
-5. A teljesített feladatmutató meghatározása során nem vehető figyelembe
-
-a) pszichiátriai betegek részére nyújtott közösségi alapellátás esetén az a BNO 10 kódkönyv F 20-29 vagy 31-33 diagnóziskódba nem besorolható ellátottakkal teljesített feladatmutató, amely éves szinten meghaladja az összes figyelembe vehető feladatmutató 10 százalékát,
-
-b) szenvedélybetegek részére nyújtott közösségi alapellátás esetén az a BNO 10 kódkönyv F 10-19 diagnóziskódba nem besorolható ellátottakkal teljesített feladatmutató, amely éves szinten meghaladja az összes figyelembe vehető feladatmutató 30 százalékát,
-
-c) támogató szolgáltatás és közösségi alapellátás esetén az adott napon az azzal az ellátottal teljesített feladatmutató, aki ugyanazon a napon a Szoctv. 20/C. § (2) bekezdésének és a Gyvt. 139. § (3) bekezdésének hatálya alá nem tartozó
-
-ca) gyermekjóléti alapellátásban – a gyermekjóléti szolgáltatás kivételével –,

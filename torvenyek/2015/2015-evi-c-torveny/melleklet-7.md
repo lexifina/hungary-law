@@ -432,7 +432,7 @@ amely a főiskolai végzettségű Pedagógus I. kategóriába sorolt pedagógus 
 
 V. KIEGÉSZÍTŐ TÁMOGATÁS AZ ÓVODAI ELLÁTÁSBAN RÉSZESÜLŐ GYERMEKEK INGYENES ÉTKEZTETÉSÉHEZ
 
-A 40. § (1) bekezdés f) pontjában meghatározott fenntartót kiegészítő támogatás illeti meg az óvodai ellátásban részesülő, a Gyvt. 151. § (5) bekezdés a) pontja szerint a gyermekétkeztetést ingyenesen igénybe vevő gyermekek után.
+A 40. § (1) bekezdés f) pontjában meghatározott fenntartót kiegészítő támogatás illeti meg az óvodai ellátásban részesülő, a Gyvt. 21/B. § (1) bekezdés a) pontja szerint a gyermekétkeztetést ingyenesen igénybe vevő gyermekek után.
 
 A kiegészítő támogatás fajlagos összege 28 400 forint/fő/év.
 
@@ -523,3 +523,5 @@ A Magyar Államkincstár fenntartó székhelye szerinti illetékes igazgatóság
 21. A pedagógus szakképzettséggel rendelkező, a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottak számított létszámán azok teljes munkaidőre átszámított létszámát kell érteni, továbbá, ha munkakörük több köznevelési alapfeladat ellátásához is kapcsolódik, az I. pont 3. alpont a) pontjai közül azon jogcímen kell őket figyelembe venni, ahol a legmagasabb az intézményben nevelt, oktatott gyermekek, tanulók létszáma.
 
 22. A nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottaknak az I. pont 3. alpont a) és b) pont szerinti támogatásban elismert létszámuk együttes összege megegyezik a pedagógusok előmeneteli rendszeréről és a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény köznevelési intézményekben történő végrehajtásáról szóló 326/2013. (VIII. 30.) Korm. rendelet 4. mellékletében meghatározott finanszírozott létszámmal.
+
+23. Az V. pontban meghatározott kiegészítő támogatás igénylésekor és elszámolásakor a 2. melléklet, Kiegészítő szabályok 5. pont m) alpontjában foglaltakat kell alkalmazni azzal, hogy a 2016. január 1-je és december 31-e között ingyenesen étkezők naponként összesített létszámát el kell osztani 221 nappal.

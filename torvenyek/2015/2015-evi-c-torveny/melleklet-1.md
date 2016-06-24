@@ -1168,13 +1168,13 @@ Fejezeti tartalék
 
 |
 
-450,0
+525,0
 
 |
 
 |
 
-450,0
+525,0
 
 |
 
@@ -1194,7 +1194,7 @@ Fejezeti tartalék
 
 |
 
-26 756,0
+26 831,0
 
 |
 
@@ -1202,7 +1202,7 @@ Fejezeti tartalék
 
 |
 
-26 051,0
+26 126,0
 
 |
 
@@ -3840,7 +3840,7 @@ I. fejezet összesen:
 
 |
 
-115 212,8
+115 287,8
 
 |
 
@@ -3848,7 +3848,7 @@ I. fejezet összesen:
 
 |
 
-31 126,1
+31 201,1
 
 |
 
@@ -7696,7 +7696,7 @@ A helyi önkormányzatok kiegészítő támogatásai
 
 |
 
-107 374,7
+119 594,7
 
 |
 
@@ -7746,7 +7746,7 @@ IX. fejezet összesen:
 
 |
 
-662 041,7
+674 261,7
 
 |
 
@@ -9666,7 +9666,7 @@ Miniszterelnökség
 
 |
 
-15 654,9
+18 654,9
 
 |
 
@@ -9978,7 +9978,7 @@ Felújítások
 
 |
 
-233,7
+3 233,7
 
 |
 
@@ -10754,7 +10754,7 @@ Nemzeti Örökség Intézete
 
 |
 
-317,6
+1 419,5
 
 |
 
@@ -10818,7 +10818,7 @@ Személyi juttatások
 
 |
 
-192,4
+401,5
 
 |
 
@@ -10854,7 +10854,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-55,6
+102,4
 
 |
 
@@ -10890,7 +10890,7 @@ Dologi kiadások
 
 |
 
-73,3
+847,1
 
 |
 
@@ -10958,7 +10958,7 @@ Beruházások
 
 |
 
-6,5
+78,7
 
 |
 
@@ -11622,11 +11622,11 @@ Fővárosi, megyei kormányhivatalok és járási kormányhivatalok
 
 |
 
-43 976,5
+38 976,5
 
 |
 
-122 037,4
+128 547,9
 
 |
 
@@ -11866,7 +11866,7 @@ Beruházások
 
 |
 
-637,3
+2 147,8
 
 |
 
@@ -12242,7 +12242,7 @@ Nemzeti Közszolgálati Egyetem
 
 |
 
-4 344,2
+4 844,2
 
 |
 
@@ -12378,7 +12378,7 @@ Dologi kiadások
 
 |
 
-2 290,4
+2 790,4
 
 |
 
@@ -13932,13 +13932,13 @@ Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának
 
 |
 
-1 647,5
+5 312,0
 
 |
 
 |
 
-1 647,5
+5 312,0
 
 |
 
@@ -14330,6 +14330,38 @@ AVICENNA Kutatási Nonprofit Kft. működésének támogatása
 
 |
 
+|
+
+78
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Modern Városok Program
+
+|
+
+50 000,0
+
+|
+
+|
+
+50 000,0
+
+|
+
+|
+
 2
 
 |
@@ -14492,15 +14524,15 @@ Fejezeti stabilitási tartalék
 
 |
 
-255 898,0
+315 674,9
 
 |
 
-53 062,7
+48 062,7
 
 |
 
-202 835,3
+267 612,2
 
 |
 
@@ -14906,7 +14938,7 @@ Rendkívüli kormányzati intézkedések
 
 |
 
-100 000,0
+120 000,0
 
 |
 
@@ -14932,7 +14964,7 @@ Országvédelmi Alap
 
 |
 
-70 000,0
+80 000,0
 
 |
 
@@ -15064,7 +15096,7 @@ Különféle kifizetések
 
 |
 
-331 425,5
+361 425,5
 
 |
 
@@ -15280,6 +15312,38 @@ Az MFB Zrt. rábízott vagyonához kapcsolódó tanácsadói, értékbecslői, j
 
 |
 
+4
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Az MFB Zrt. rábízott vagyonába tartozó társaságok tőkeemelése
+
+|
+
+7 000,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 |
 
 |
@@ -15290,15 +15354,15 @@ XI. fejezet összesen:
 
 |
 
-702 112,5
+798 889,4
 
 |
 
-53 069,8
+48 069,8
 
 |
 
-203 842,2
+268 619,1
 
 |
 
@@ -15734,9 +15798,11 @@ Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
 |
 
-20 792,6
+16 092,6
 
 |
+
+4 700,0
 
 |
 
@@ -16306,13 +16372,13 @@ Beruházások
 
 |
 
-Állami Ménesgazdaság
+Ménesgazdaságok
 
 |
 
 |
 
-231,7
+3 631,7
 
 |
 
@@ -16380,7 +16446,7 @@ Személyi juttatások
 
 |
 
-104,5
+218,1
 
 |
 
@@ -16416,7 +16482,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-33,3
+63,8
 
 |
 
@@ -16452,7 +16518,7 @@ Dologi kiadások
 
 |
 
-277,1
+3 322,8
 
 |
 
@@ -16556,7 +16622,7 @@ Beruházások
 
 |
 
-30,0
+240,2
 
 |
 
@@ -16588,7 +16654,7 @@ Mezőgazdasági és Vidékfejlesztési Hivatal
 
 |
 
-14 646,3
+16 646,3
 
 |
 
@@ -16724,7 +16790,7 @@ Dologi kiadások
 
 |
 
-3 766,6
+5 766,6
 
 |
 
@@ -20266,6 +20332,38 @@ Lovas rendezvények támogatása
 
 |
 
+|
+
+34
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Tokaji Borvidéken megvalósuló szakmai feladatok támogatása
+
+|
+
+3 000,0
+
+|
+
+|
+
+3 000,0
+
+|
+
+|
+
 4
 
 |
@@ -20722,13 +20820,13 @@ Folyó kiadások és jövedelemtámogatások
 
 |
 
-75 471,0
+86 911,0
 
 |
 
 |
 
-75 471,0
+86 911,0
 
 |
 
@@ -21146,15 +21244,15 @@ Fejezeti stabilitási tartalék
 
 |
 
-216 802,6
+236 642,6
 
 |
 
-40 431,3
+39 131,3
 
 |
 
-176 371,3
+197 511,3
 
 |
 
@@ -21254,15 +21352,15 @@ XII. fejezet összesen:
 
 |
 
-217 352,6
+237 192,6
 
 |
 
-40 431,3
+39 131,3
 
 |
 
-176 371,3
+197 511,3
 
 |
 
@@ -22142,7 +22240,7 @@ Honvéd Vezérkar közvetlen szervezetei
 
 |
 
-61 693,6
+62 787,7
 
 |
 
@@ -22278,7 +22376,7 @@ Dologi kiadások
 
 |
 
-24 094,5
+25 188,6
 
 |
 
@@ -22524,7 +22622,7 @@ MH ÖHP és alárendelt szervezetei
 
 |
 
-82 506,3
+83 342,2
 
 |
 
@@ -22588,7 +22686,7 @@ Személyi juttatások
 
 |
 
-60 142,0
+60 675,8
 
 |
 
@@ -22624,7 +22722,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-15 513,3
+15 585,4
 
 |
 
@@ -22660,7 +22758,7 @@ Dologi kiadások
 
 |
 
-6 893,0
+7 123,0
 
 |
 
@@ -24032,7 +24130,7 @@ XIII. fejezet összesen:
 
 |
 
-299 057,0
+300 987,0
 
 |
 
@@ -24040,7 +24138,7 @@ XIII. fejezet összesen:
 
 |
 
-267 109,0
+269 039,0
 
 |
 
@@ -25022,7 +25120,7 @@ Büntetés-végrehajtás
 
 |
 
-55 379,6
+56 622,7
 
 |
 
@@ -25086,7 +25184,7 @@ Személyi juttatások
 
 |
 
-28 276,7
+28 453,7
 
 |
 
@@ -25122,7 +25220,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-6 389,2
+6 437,0
 
 |
 
@@ -25158,7 +25256,7 @@ Dologi kiadások
 
 |
 
-17 414,5
+17 460,9
 
 |
 
@@ -25298,7 +25396,7 @@ Beruházások
 
 |
 
-5 739,4
+6 711,3
 
 |
 
@@ -27724,7 +27822,7 @@ Vízügyi Igazgatóságok
 
 |
 
-23 636,3
+24 723,4
 
 |
 
@@ -27928,7 +28026,7 @@ Beruházások
 
 |
 
-806,5
+1 893,6
 
 |
 
@@ -28378,13 +28476,13 @@ Kormányzati infokommunikációs szolgáltatások
 
 |
 
-21 501,1
+28 487,0
 
 |
 
 |
 
-21 501,1
+28 487,0
 
 |
 
@@ -29162,6 +29260,66 @@ Belügyi Alapok technikai költségkerete
 
 |
 
+A tömeges bevándorlás kezeléséhez kapcsolódó kiadások
+
+|
+
+1 000,0
+
+|
+
+|
+
+1 000,0
+
+|
+
+|
+
+22
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+A terrorellenes intézkedések megvalósításához kapcsolódó kiadások
+
+|
+
+10 000,0
+
+|
+
+|
+
+10 000,0
+
+|
+
+|
+
+23
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 Fejezeti stabilitási tartalék
 
 |
@@ -29192,7 +29350,7 @@ Fejezeti stabilitási tartalék
 
 |
 
-532 453,9
+552 770,0
 
 |
 
@@ -29200,7 +29358,7 @@ Fejezeti stabilitási tartalék
 
 |
 
-504 963,0
+525 279,1
 
 |
 
@@ -29246,7 +29404,7 @@ XIV. fejezet összesen:
 
 |
 
-532 508,9
+552 825,0
 
 |
 
@@ -29254,7 +29412,7 @@ XIV. fejezet összesen:
 
 |
 
-504 963,0
+525 279,1
 
 |
 
@@ -30594,6 +30752,238 @@ Beruházások
 
 |
 
+7
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Szakképzési Centrumok
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Működési költségvetés
+
+|
+
+|
+
+|
+
+14 753,3
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Személyi juttatások
+
+|
+
+6 706,7
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Munkaadókat terhelő járulékok és szociális hozzájárulási adó
+
+|
+
+1 322,6
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+3
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Dologi kiadások
+
+|
+
+5 888,8
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+4
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Ellátottak pénzbeli juttatásai
+
+|
+
+835,2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
 8
 
 |
@@ -31452,6 +31842,38 @@ Szakképzési rendszer átalakításával kapcsolatos kiadások
 
 |
 
+|
+
+14
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Kezelőszemélyzet nélküli automaták bekötésének támogatása
+
+|
+
+1 500,0
+
+|
+
+|
+
+1 500,0
+
+|
+
+|
+
 3
 
 |
@@ -31595,6 +32017,38 @@ Területfejlesztéssel összefüggő feladatok
 |
 
 470,6
+
+|
+
+|
+
+|
+
+5
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Pest megyei fejlesztések
+
+|
+
+2 000,0
+
+|
+
+|
+
+2 000,0
 
 |
 
@@ -31813,6 +32267,38 @@ Nemzetgazdasági támogatások
 |
 
 15 000,0
+
+|
+
+|
+
+|
+
+8
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Irinyi Terv iparstratégiai támogatásai
+
+|
+
+2 000,0
+
+|
+
+|
+
+2 000,0
 
 |
 
@@ -32190,6 +32676,36 @@ Fejezeti stabilitási tartalék
 
 |
 
+48
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Pénztárgépek cseréjének és átalakításának támogatása
+
+|
+
+1 500,0
+
+|
+
+|
+
+1 500,0
+
+|
+
+|
+
 |
 
 |
@@ -32204,7 +32720,7 @@ XV. fejezet összesen:
 
 |
 
-102 987,8
+124 741,1
 
 |
 
@@ -32212,7 +32728,7 @@ XV. fejezet összesen:
 
 |
 
-72 131,3
+93 884,6
 
 |
 
@@ -32370,7 +32886,7 @@ XVI. NEMZETI ADÓ- és VÁMHIVATAL
 
 |
 
-Nemzeti Adó- és Vámhivatal igazgatása
+Nemzeti Adó- és Vámhivatal
 
 |
 
@@ -32380,7 +32896,7 @@ Nemzeti Adó- és Vámhivatal igazgatása
 
 |
 
-124 408,4
+130 561,2
 
 |
 
@@ -32656,7 +33172,7 @@ Beruházások
 
 |
 
-337,9
+6 490,7
 
 |
 
@@ -33386,7 +33902,7 @@ XVI. fejezet összesen:
 
 |
 
-139 438,2
+145 591,0
 
 |
 
@@ -33394,7 +33910,7 @@ XVI. fejezet összesen:
 
 |
 
-136 192,5
+142 345,3
 
 |
 
@@ -36650,6 +37166,38 @@ Kiemelt célú beruházások támogatása
 
 |
 
+10
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Vasúthálózat fejlesztése
+
+|
+
+1 000,0
+
+|
+
+|
+
+1 000,0
+
+|
+
+|
+
+|
+
 12
 
 |
@@ -37096,6 +37644,198 @@ Kiemelt közúti projektek
 
 |
 
+|
+
+30
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Közúthálózat felújítása
+
+|
+
+69 300,0
+
+|
+
+|
+
+69 300,0
+
+|
+
+|
+
+|
+
+31
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+A budapesti elővárosi közlekedés átmeneti likviditásának biztosítása és támogatása
+
+|
+
+6 000,0
+
+|
+
+|
+
+6 000,0
+
+|
+
+|
+
+|
+
+32
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Tengelysúlymérő-rendszer és kapcsolódó beruházások
+
+|
+
+7 500,0
+
+|
+
+|
+
+7 500,0
+
+|
+
+|
+
+|
+
+34
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Határ menti közúti fejlesztések előkészítése
+
+|
+
+1 000,0
+
+|
+
+|
+
+1 000,0
+
+|
+
+|
+
+|
+
+35
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Kulcsfontosságú budapesti közlekedési beruházások előkészítése
+
+|
+
+2 197,0
+
+|
+
+|
+
+2 197,0
+
+|
+
+|
+
+|
+
+36
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Budai vasúti közlekedés fejlesztése
+
+|
+
+930,0
+
+|
+
+|
+
+930,0
+
+|
+
+|
+
 33
 
 |
@@ -37277,6 +38017,38 @@ Intézményi kezességi díjtámogatások
 |
 
 1 003,6
+
+|
+
+|
+
+|
+
+23
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Kisvárdai Várfürdő és környéke fejlesztése
+
+|
+
+1 200,0
+
+|
+
+|
+
+1 200,0
 
 |
 
@@ -37988,6 +38760,38 @@ Bányabezárás
 
 |
 
+|
+
+19
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Balaton Területfejlesztési koncepció és Stratégiai Program
+
+|
+
+2 000,0
+
+|
+
+|
+
+2 000,0
+
+|
+
+|
+
 39
 
 |
@@ -38238,6 +39042,38 @@ Tanuszoda-fejlesztési program
 
 |
 
+|
+
+30
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Tatabányai multifunkcionális csarnok beruházás
+
+|
+
+500,0
+
+|
+
+|
+
+500,0
+
+|
+
+|
+
 40
 
 |
@@ -38388,6 +39224,36 @@ Fejezeti stabilitási tartalék
 
 |
 
+51
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+A XIV. Nyári Európai Ifjúsági Olimpiai Fesztivál megrendezésével összefüggő infrastrukturális fejlesztések
+
+|
+
+6 180,7
+
+|
+
+|
+
+6 180,7
+
+|
+
+|
+
 |
 
 |
@@ -38402,7 +39268,7 @@ Fejezeti stabilitási tartalék
 
 |
 
-603 544,5
+701 352,2
 
 |
 
@@ -38410,7 +39276,7 @@ Fejezeti stabilitási tartalék
 
 |
 
-519 134,9
+616 942,6
 
 |
 
@@ -38606,7 +39472,7 @@ Vasúti személyszállítás korábbi költségtérítéseinek elszámolása
 
 |
 
-2 263,8
+4 000,0
 
 |
 
@@ -38636,7 +39502,7 @@ Autóbusszal végzett személyszállítás korábbi költségtérítéseinek els
 
 |
 
-2 263,8
+6 626,5
 
 |
 
@@ -38686,7 +39552,7 @@ Peres ügyek
 
 |
 
-275 839,0
+281 937,9
 
 |
 
@@ -38790,7 +39656,7 @@ XVII. fejezet összesen:
 
 |
 
-879 383,5
+983 290,1
 
 |
 
@@ -38798,7 +39664,7 @@ XVII. fejezet összesen:
 
 |
 
-519 134,9
+616 942,6
 
 |
 
@@ -38966,7 +39832,7 @@ Külgazdasági és Külügyminisztérium központi igazgatása
 
 |
 
-7 660,1
+7 837,1
 
 |
 
@@ -39030,7 +39896,7 @@ Személyi juttatások
 
 |
 
-4 888,7
+5 003,5
 
 |
 
@@ -39066,7 +39932,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-1 354,1
+1 380,3
 
 |
 
@@ -39102,7 +39968,7 @@ Dologi kiadások
 
 |
 
-1 419,8
+1 455,8
 
 |
 
@@ -39310,7 +40176,7 @@ Külképviseletek igazgatása
 
 |
 
-48 962,3
+55 697,3
 
 |
 
@@ -39374,7 +40240,7 @@ Személyi juttatások
 
 |
 
-26 442,2
+26 454,2
 
 |
 
@@ -39446,7 +40312,7 @@ Dologi kiadások
 
 |
 
-19 943,4
+20 230,8
 
 |
 
@@ -39514,7 +40380,7 @@ Beruházások
 
 |
 
-2 172,3
+8 116,7
 
 |
 
@@ -39550,7 +40416,7 @@ Felújítások
 
 |
 
-300,0
+791,2
 
 |
 
@@ -39854,7 +40720,7 @@ Balassi Intézet
 
 |
 
-5 073,5
+5 231,6
 
 |
 
@@ -39918,7 +40784,7 @@ Személyi juttatások
 
 |
 
-3 039,2
+3 074,5
 
 |
 
@@ -39954,7 +40820,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-558,7
+573,5
 
 |
 
@@ -39990,7 +40856,7 @@ Dologi kiadások
 
 |
 
-1 958,1
+2 066,1
 
 |
 
@@ -40748,6 +41614,70 @@ Demokrácia Központ Közalapítvány-Tom Lantos Intézet támogatása
 
 |
 
+|
+
+7
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Határmenti gazdaságfejlesztési programok
+
+|
+
+3 500,0
+
+|
+
+|
+
+3 500,0
+
+|
+
+|
+
+|
+
+8
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Kárpátaljai gazdaságfejlesztési stratégia támogatása
+
+|
+
+2 110,0
+
+|
+
+|
+
+2 110,0
+
+|
+
+|
+
 3
 
 |
@@ -41098,7 +42028,7 @@ Fejezeti stabilitási tartalék
 
 |
 
-106 787,6
+119 467,7
 
 |
 
@@ -41106,7 +42036,7 @@ Fejezeti stabilitási tartalék
 
 |
 
-98 562,1
+111 242,2
 
 |
 
@@ -41286,7 +42216,7 @@ XVIII. fejezet összesen:
 
 |
 
-156 787,6
+169 467,7
 
 |
 
@@ -41294,7 +42224,7 @@ XVIII. fejezet összesen:
 
 |
 
-98 562,1
+111 242,2
 
 |
 
@@ -45082,7 +46012,7 @@ Egyetemek, főiskolák
 
 |
 
-153 075,0
+159 645,0
 
 |
 
@@ -45358,7 +46288,7 @@ Beruházások
 
 |
 
-25 018,2
+31 518,2
 
 |
 
@@ -45430,7 +46360,7 @@ Egyéb felhalmozási célú kiadások
 
 |
 
-71,2
+141,2
 
 |
 
@@ -47992,7 +48922,7 @@ Művészeti intézmények
 
 |
 
-11 672,1
+12 459,3
 
 |
 
@@ -48232,7 +49162,7 @@ Beruházások
 
 |
 
-773,4
+1 560,6
 
 |
 
@@ -48300,7 +49230,7 @@ Országos Mentőszolgálat
 
 |
 
-3 119,7
+5 119,7
 
 |
 
@@ -48504,7 +49434,7 @@ Beruházások
 
 |
 
-2 250,0
+4 250,0
 
 |
 
@@ -49352,7 +50282,7 @@ Klebelsberg Intézményfenntartó Központ
 
 |
 
-549 264,9
+640 764,9
 
 |
 
@@ -49416,7 +50346,7 @@ Személyi juttatások
 
 |
 
-404 484,7
+442 484,7
 
 |
 
@@ -49452,7 +50382,7 @@ Munkaadókat terhelő járulékok és szociális hozzájárulási adó
 
 |
 
-109 167,5
+119 367,5
 
 |
 
@@ -49488,7 +50418,7 @@ Dologi kiadások
 
 |
 
-45 612,7
+85 512,7
 
 |
 
@@ -49525,6 +50455,110 @@ Ellátottak pénzbeli juttatásai
 |
 
 2 000,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Felhalmozási költségvetés
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+6
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Beruházások
+
+|
+
+2 000,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+7
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Felújítások
+
+|
+
+1 400,0
 
 |
 
@@ -49804,13 +50838,13 @@ Köznevelési célú humánszolgáltatás és működési támogatás
 
 |
 
-166 016,4
+165 316,4
 
 |
 
 |
 
-166 016,4
+165 316,4
 
 |
 
@@ -50144,13 +51178,13 @@ Köznevelés speciális feladatainak támogatása
 
 |
 
-86,7
+786,7
 
 |
 
 |
 
-86,7
+786,7
 
 |
 
@@ -50337,6 +51371,38 @@ I. világháborús centenáriumi megemlékezések
 |
 
 1 000,0
+
+|
+
+|
+
+|
+
+4
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Peres ügyek
+
+|
+
+1 600,0
+
+|
+
+|
+
+1 600,0
 
 |
 
@@ -51416,13 +52482,13 @@ A kábítószer-fogyasztás megelőzésével kapcsolatos feladatok
 
 |
 
-351,5
+741,5
 
 |
 
 |
 
-351,5
+741,5
 
 |
 
@@ -52674,6 +53740,38 @@ Egyházi fenntartású egészségügyi intézmények kiegészítő támogatása
 
 |
 
+|
+
+27
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+A Betegápoló Irgalmasrend projektjeinek finanszírozása
+
+|
+
+780,0
+
+|
+
+|
+
+780,0
+
+|
+
+|
+
 23
 
 |
@@ -53158,6 +54256,38 @@ Sport népszerűsítésével összefüggő kiadások
 
 |
 
+26
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Magyar Kézilabda Szövetség szakmai feladatainak támogatása
+
+|
+
+1 900,0
+
+|
+
+|
+
+1 900,0
+
+|
+
+|
+
+|
+
 28
 
 |
@@ -53240,13 +54370,13 @@ Kiemelt sportegyesületek működésének támogatása
 
 |
 
-1 700,0
+3 400,0
 
 |
 
 |
 
-1 700,0
+3 400,0
 
 |
 
@@ -53952,13 +55082,13 @@ Gazdasági társaságok által ellátott kulturális feladatok támogatása
 
 |
 
-7 989,9
+9 229,7
 
 |
 
 |
 
-7 989,9
+9 229,7
 
 |
 
@@ -55580,6 +56710,38 @@ A Budai Vigadó felújításának támogatása
 
 |
 
+|
+
+11
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Bartók Év
+
+|
+
+161,9
+
+|
+
+|
+
+161,9
+
+|
+
+|
+
 51
 
 |
@@ -56002,13 +57164,13 @@ Egyházi közösségi célú programok és beruházások támogatása
 
 |
 
-650,0
+1 870,0
 
 |
 
 |
 
-650,0
+1 870,0
 
 |
 
@@ -57356,13 +58518,13 @@ Nemzetiségi intézmények támogatása beruházásra, felújításra, pályáza
 
 |
 
-882,4
+1 282,4
 
 |
 
 |
 
-882,4
+1 282,4
 
 |
 
@@ -57386,13 +58548,13 @@ Fejezeti stabilitási tartalék
 
 |
 
-13 797,9
+7 797,9
 
 |
 
 |
 
-13 797,9
+7 797,9
 
 |
 
@@ -57412,7 +58574,7 @@ Fejezeti stabilitási tartalék
 
 |
 
-2 324 509,7
+2 428 758,6
 
 |
 
@@ -57420,7 +58582,7 @@ Fejezeti stabilitási tartalék
 
 |
 
-1 410 375,7
+1 514 624,6
 
 |
 
@@ -57552,7 +58714,7 @@ Anyasági támogatás
 
 |
 
-Gyermekgondozási segély
+Gyermekgondozást segítő ellátás
 
 |
 
@@ -58618,7 +59780,7 @@ XX. fejezet összesen:
 
 |
 
-3 011 947,7
+3 116 196,6
 
 |
 
@@ -58626,7 +59788,347 @@ XX. fejezet összesen:
 
 |
 
-1 410 375,7
+1 514 624,6
+
+|
+
+Cím szám
+
+|
+
+Al-
+
+cím szám
+
+|
+
+Jog-
+
+cím-
+
+csop.
+
+szám
+
+|
+
+Jog-
+
+cím
+
+szám
+
+|
+
+Elő-
+
+ir.
+
+csop.
+
+szám
+
+|
+
+Kie-
+
+melt
+
+előir.
+
+szám
+
+|
+
+Cím
+
+név
+
+|
+
+Al-
+
+cím
+
+név
+
+|
+
+Jog-
+
+cím-
+
+csop.
+
+név
+
+|
+
+Jog-
+
+cím
+
+név
+
+|
+
+Elő-
+
+ir.
+
+csop.
+
+név
+
+|
+
+XXI. FEJEZET
+
+|
+
+2016. évi előirányzat
+
+|
+
+Kiemelt előirányzat neve
+
+|
+
+Kiadás
+
+|
+
+Bevétel
+
+|
+
+Támogatás
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+XXI. MINISZTERELNÖKI KABINETIRODA
+
+|
+
+|
+
+|
+
+|
+
+20
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fejezeti kezelésű előirányzatok
+
+|
+
+|
+
+|
+
+|
+
+|
+
+1
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Célelőirányzatok
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+2
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Kormányzati kommunikációval és konzultációval kapcsolatos feladatok
+
+|
+
+6 300,0
+
+|
+
+|
+
+6 300,0
+
+|
+
+|
+
+|
+
+3
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Konzultációk kiadásai
+
+|
+
+2 000,0
+
+|
+
+|
+
+2 000,0
+
+|
+
+|
+
+|
+
+6
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Fejezeti általános tartalék
+
+|
+
+1 500,0
+
+|
+
+|
+
+1 500,0
+
+|
+
+|
+
+|
+
+7
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+MK felügyelete alá tartozó szervezetek és szakmai programok támogatása
+
+|
+
+1 800,0
+
+|
+
+|
+
+1 800,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+XXI. fejezet összesen:
+
+|
+
+11 600,0
+
+|
+
+|
+
+11 600,0
 
 |
 
@@ -62842,6 +64344,66 @@ Központi kezelésű felújítások
 
 |
 
+14
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+MTA Agrártudományi Kutatóközpont fejlesztése
+
+|
+
+500,0
+
+|
+
+|
+
+500,0
+
+|
+
+|
+
+15
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+MTA Agrártudományi Kutatóközpont Látogatóközpont
+
+|
+
+400,0
+
+|
+
+|
+
+400,0
+
+|
+
+|
+
 |
 
 |
@@ -62856,7 +64418,7 @@ XXXIII. fejezet összesen:
 
 |
 
-56 194,8
+57 094,8
 
 |
 
@@ -62864,7 +64426,7 @@ XXXIII. fejezet összesen:
 
 |
 
-37 393,2
+38 293,2
 
 |
 
@@ -66046,7 +67608,7 @@ Társasági adó
 
 |
 
-400 500,0
+689 911,8
 
 |
 
@@ -66548,7 +68110,7 @@ Fogyasztáshoz kapcsolt adók
 
 |
 
-3 351 850,0
+3 388 850,0
 
 |
 
@@ -66576,7 +68138,7 @@ Jövedéki adó
 
 |
 
-952 200,0
+984 450,0
 
 |
 
@@ -66740,7 +68302,7 @@ Személyi jövedelemadó
 
 |
 
-1 658 400,0
+1 694 475,0
 
 |
 
@@ -66796,7 +68358,7 @@ Lakossági illetékek
 
 |
 
-121 700,0
+148 601,0
 
 |
 
@@ -67282,6 +68844,34 @@ Nemzeti Kutatási, Fejlesztési és Innovációs Alap befizetése
 
 |
 
+|
+
+5
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Nemzeti Foglalkoztatási Alap befizetése
+
+|
+
+|
+
+3 000,0
+
+|
+
+|
+
 7
 
 |
@@ -67598,7 +69188,7 @@ Egyéb lakástámogatások
 
 |
 
-104 000,0
+154 000,0
 
 |
 
@@ -68067,6 +69657,36 @@ Fuvarozók kamattámogatása
 |
 
 40,0
+
+|
+
+|
+
+|
+
+|
+
+|
+
+28
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Filmszakmai közvetett támogatások mozgókép törvény szerinti kiegészítő finanszírozása
+
+|
+
+1 000,0
 
 |
 
@@ -69352,7 +70972,7 @@ Költségvetési támogatás
 
 |
 
-95 000,0
+79 785,0
 
 |
 
@@ -69382,7 +71002,7 @@ Munkahelyvédelmi akciótervvel összefüggő hozzájárulás NFA-nak
 
 |
 
-105 769,9
+52 884,9
 
 |
 
@@ -69410,7 +71030,7 @@ Bethlen Gábor Alap támogatása
 
 |
 
-11 807,5
+12 157,5
 
 |
 
@@ -69546,11 +71166,11 @@ XLII. fejezet összesen:
 
 |
 
-1 223 762,5
+1 207 012,5
 
 |
 
-7 781 945,9
+8 206 583,7
 
 |
 
@@ -70450,7 +72070,7 @@ A Nemzeti Eszközkezelő Zrt. által végrehajtott ingatlanvásárlások és ing
 
 |
 
-15 500,0
+25 500,0
 
 |
 
@@ -70482,7 +72102,7 @@ Az MNV Zrt. ingatlan-beruházásai, ingatlanvásárlásai
 
 |
 
-11 700,0
+16 121,4
 
 |
 
@@ -70514,7 +72134,7 @@ A FINA Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnoksá
 
 |
 
-27 272,7
+30 522,7
 
 |
 
@@ -71238,7 +72858,7 @@ Az állam tulajdonosi felelősségével kapcsolatos környezetvédelmi feladatok
 
 |
 
-5 500,0
+10 500,0
 
 |
 
@@ -71764,7 +73384,7 @@ XLIII. fejezet összesen:
 
 |
 
-149 747,9
+172 419,3
 
 |
 
@@ -73236,7 +74856,7 @@ Szakképzési és felnőttképzési támogatások
 
 |
 
-13 819,0
+16 819,0
 
 |
 
@@ -73662,7 +75282,7 @@ Szakképzési hozzájárulás
 
 |
 
-56 996,1
+59 996,1
 
 |
 
@@ -73740,7 +75360,33 @@ Költségvetési támogatás
 
 |
 
-95 000,0
+79 785,0
+
+|
+
+|
+
+38
+
+|
+
+|
+
+|
+
+|
+
+|
+
+|
+
+Szociális hozzájárulási adó Nemzeti Foglalkoztatási Alapot megillető hányada
+
+|
+
+|
+
+68 100,0
 
 |
 
@@ -73766,7 +75412,7 @@ Munkahelyvédelmi akciótervvel összefüggő hozzájárulás
 
 |
 
-105 769,9
+52 884,9
 
 |
 
@@ -73788,11 +75434,11 @@ LXIII. fejezet összesen:
 
 |
 
-484 177,1
+487 177,1
 
 |
 
-463 742,4
+466 742,4
 
 |
 
@@ -74202,7 +75848,7 @@ Eseti támogatás
 
 |
 
-11 807,5
+12 157,5
 
 |
 
@@ -74336,7 +75982,7 @@ Egyéb támogatások
 
 |
 
-1 721,1
+2 071,1
 
 |
 
@@ -74412,11 +76058,11 @@ LXV. fejezet összesen:
 
 |
 
-11 807,5
+12 157,5
 
 |
 
-11 807,5
+12 157,5
 
 |
 
@@ -79928,7 +81574,7 @@ Központi hivatali szerv
 
 |
 
-8 403,5
+8 420,2
 
 |
 
@@ -80168,7 +81814,7 @@ Beruházások
 
 |
 
-200,0
+216,7
 
 |
 
@@ -80192,7 +81838,7 @@ Beruházások
 
 |
 
-8 828,1
+8 844,8
 
 |
 
@@ -80200,7 +81846,7 @@ Beruházások
 
 |
 
-8 403,5
+8 420,2
 
 |
 
@@ -80220,7 +81866,7 @@ LXXII. fejezet összesen:
 
 |
 
-1 963 689,6
+1 963 706,3
 
 |
 
@@ -80228,4 +81874,4 @@ LXXII. fejezet összesen:
 
 |
 
-8 403,5
+8 420,2

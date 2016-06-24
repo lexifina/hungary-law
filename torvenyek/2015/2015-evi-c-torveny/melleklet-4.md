@@ -1486,6 +1486,34 @@ Víz-, környezeti és természeti katasztrófa kárelhárítás (20. cím, 1. a
 
 |
 
+108a
+
+|
+
+|
+
+|
+
+|
+
+A tömeges bevándorlás kezeléséhez kapcsolódó kiadások (20. cím, 21. alcím)
+
+|
+
+108b
+
+|
+
+|
+
+|
+
+|
+
+A terrorellenes intézkedések megvalósításához kapcsolódó kiadások (20. cím, 22. alcím)
+
+|
+
 109
 
 |
@@ -1688,6 +1716,20 @@ Hit- és erkölcstan oktatás és tankönyvtámogatás (20. cím, 2. alcím, 4. 
 
 |
 
+123a
+
+|
+
+|
+
+|
+
+|
+
+Peres ügyek (20. cím, 5. alcím, 4. jogcímcsoport)
+
+|
+
 124
 
 |
@@ -1725,6 +1767,20 @@ XLII. A KÖLTSÉGVETÉS KÖZVETLEN BEVÉTELEI ÉS KIADÁSAI fejezetben
 |
 
 Átmeneti hulladék-közszolgáltatással kapcsolatos kiadások (32. cím, 1. alcím, 25. jogcímcsoport)
+
+|
+
+126a
+
+|
+
+|
+
+|
+
+|
+
+Filmszakmai közvetett támogatások mozgókép törvény szerinti kiegészítő finanszírozása (32. cím, 1. alcím, 28. jogcímcsoport)
 
 |
 

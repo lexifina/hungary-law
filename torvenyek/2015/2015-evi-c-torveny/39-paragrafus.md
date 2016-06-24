@@ -21,3 +21,5 @@ b) a települési önkormányzat a tárgyévet megelőző év decemberében nem 
 (8) A kincstár a (7) bekezdésben 2016. évre meghatározott befizetési kötelezettséggel érintett helyi önkormányzat számára folyósítandó támogatás havi összegéből a nettó finanszírozás során havonként egyenlő részletekben levonja a megfizetendő összeget.
 
 (9) Ha a helyi önkormányzatot a (2) bekezdés alapján a nettó finanszírozás keretében megillető adott havi források a (6) és (7) bekezdés szerint levonandó összegekre nem nyújtanak fedezetet, a kincstár az Áht. 83. § (3) bekezdése alapján jár el. Ha az önkormányzatnak 2016. december 15-én bármilyen elmaradása van az (5) bekezdés szerinti befizetési kötelezettsége tekintetében, a kincstár a meg nem fizetett összegre a kötelezett fizetési számlájára beszedési megbízást nyújt be.
+
+(10) A Magyarország 2013. évi központi költségvetéséről szóló 2012. évi CCIV. törvény 3. melléklet 10. pont f) alpontja alapján nyújtott támogatás felhasználásának és elszámolásának határideje 2017. december 31.

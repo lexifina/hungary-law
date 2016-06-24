@@ -10,7 +10,7 @@ előirányzatainak év közbeni megváltoztatására.
 
 (2) Az Országgyűlés magának tartja fenn a jogot az I. Országgyűlés fejezet, 24. Nemzeti Választási Iroda cím előirányzatainak csökkentésére.
 
-(3) Az Országgyűlés – az államháztartásról szóló 2011. CXCV. törvény (a továbbiakban: Áht.) 30. § (3) bekezdése és 40. § (4) bekezdése szerinti esetek, valamint a fejezetet irányító szervek vezetőinek a költségvetési fejezetek között együttesen kezdeményezett előirányzat-átcsoportosítása kivételével – magának tartja fenn a jogot
+(3) Az Országgyűlés – az Áht. 30. § (3) bekezdése és 40. § (4) bekezdése szerinti esetek, valamint a fejezetet irányító szervek vezetőinek a költségvetési fejezetek között együttesen kezdeményezett előirányzat-átcsoportosítása kivételével – magának tartja fenn a jogot
 
 a) az I. Országgyűlés fejezet, a II. Köztársasági Elnökség fejezet, a III. Alkotmánybíróság fejezet, a IV. Alapvető Jogok Biztosának Hivatala fejezet, az V. Állami Számvevőszék fejezet, a VI. Bíróságok fejezet, a VIII. Ügyészség fejezet, a XXX. Gazdasági Versenyhivatal fejezet, a XXXIII. Magyar Tudományos Akadémia fejezet és a XXXIV. Magyar Művészeti Akadémia fejezet kiadási és bevételi előirányzatai főösszegének,
 
