@@ -3,11 +3,3 @@
 (2) Az 1–12. § az Európai Bizottság – az Európai Unió működéséről szóló szerződés 108. cikke szerinti – jóváhagyó határozatának meghozatalát követő 8. napon lép hatályba.
 
 (3) Az 1–12. § hatálybalépésének naptári napját az energiapolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
