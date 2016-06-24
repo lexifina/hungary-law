@@ -8,7 +8,7 @@
 
 3. hozam: az értékpapírszámla-vezető által a kárrendezésre jogosultnak ténylegesen jóváírt
 
-a) kamat összege,
+a) kamat összegéből a kárrendezésre jogosult által ténylegesen elért jövedelem,
 
 b) eladási és vételi ár különbözete a lejárat előtt az 1. § (1) bekezdése szerinti befektetési szolgáltató által visszavásárolt kötvény esetén,
 
