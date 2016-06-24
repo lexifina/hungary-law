@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad Magyarország Kormánya és a Ghánai Köztársaság Kormánya között a diplomata és szolgálati útlevéllel rendelkező állampolgáraik vízummentességéről szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
