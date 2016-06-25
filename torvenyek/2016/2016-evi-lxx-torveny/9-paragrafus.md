@@ -1,0 +1,3 @@
+9. § A Törvény a következő 20. §-sal egészül ki:
+
+„20. § E törvénynek a Budapesten megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztésről szóló törvény módosításáról szóló 2016. évi LXX. törvénnyel (a továbbiakban: 2016. évi LXX. törvény) megállapított rendelkezéseit a 2016. évi LXX. törvény hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
