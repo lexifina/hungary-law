@@ -18,7 +18,9 @@ d) a beruházással kapcsolatos további beépítési szabályokat, és a beruh�
 
 e) a létesítményfejlesztési ingatlannal kapcsolatos további építési követelményeket,
 
-f) a beruházás keretében megvalósuló egyes létesítmények tekintetében az építtető személyét
+f) a beruházás keretében megvalósuló egyes létesítmények tekintetében az építtető személyét,
+
+g) – amennyiben előre nem látható ok miatt indokolttá válik – valamely világbajnoksági versenyhelyszín helyett más helyszín kijelölését és az így kijelölt póthelyszín tekintetében alkalmazandó sajátos településrendezési és településfejlesztési szabályokat és a létesítményfejlesztés sajátos építési követelményeit
 
 rendelettel állapítsa meg.
 

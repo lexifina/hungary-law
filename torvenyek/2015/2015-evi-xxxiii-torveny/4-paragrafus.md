@@ -1,1 +1,1 @@
-4. § A beruházás kapcsán indított közbeszerzési eljárások során a közbeszerzési hirdetményekkel kapcsolatos ügyintézési határidő egy munkanap.
+4. § A 3. §-ban meghatározott közbeszerzési eljárások során a közbeszerzési hirdetménnyel kapcsolatos ügyintézési határidő egy munkanap.
