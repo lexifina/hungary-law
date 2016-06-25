@@ -5,11 +5,3 @@
 „r) a Nemzeti Ménesbirtok és Tangazdaság vagyonáról, a Nemzeti Ménesbirtok és Tangazdaság feletti tulajdonosi joggyakorlás módjáról szóló szabályokat a Nemzeti Ménesbirtok és Tangazdaságról szóló törvény”
 
 (állapítja meg.)
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
