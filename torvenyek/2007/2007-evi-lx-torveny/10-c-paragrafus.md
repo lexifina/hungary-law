@@ -22,9 +22,9 @@ b) éves klímavédelmi felügyeleti díjat fizetni.
 
 (5) A (2) és (3) bekezdés szerinti felügyeleti díj éves mértéke a fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendeletben meghatározott
 
-a) HR-I és NK kategória esetén 31 000 forint,
+a) HR-I, NK hűtőközeg, NK berendezés, E-I képesített természetes személy alkalmazottal rendelkező vállalkozás és T kategória esetén 31 000 forint,
 
-b) HR-IV, MR-I és VE kategória esetén 26 000 forint,
+b) HR-IV, MR-I és VE hűtőközeg, VE berendezés esetén 26 000 forint,
 
 c) HR-II és MR-II kategória esetén 21 000 forint
 
