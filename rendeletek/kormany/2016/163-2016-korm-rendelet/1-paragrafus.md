@@ -1,0 +1,1 @@
+## 1. A Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges egyes létesítmények építtetőjének kijelöléséről, valamint a toronyugrás céljából létesítendő óriás ugrótorony létesítését szolgáló ingatlanok meghatározásáról szóló 451/2015. (XII. 28.) Korm. rendelet módosítása
