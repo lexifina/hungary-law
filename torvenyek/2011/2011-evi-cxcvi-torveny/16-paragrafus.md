@@ -48,6 +48,8 @@ p) a közutak kezelésével, fejlesztésével, fenntartásával, működtetésé
 
 q) a Magyar Export-Import Bank Zrt. és a Magyar Exporthitel Biztosító Zrt. feletti tulajdonosi joggyakorlás módját a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló törvény
 
+r) a Nemzeti Ménesbirtok és Tangazdaság vagyonáról, a Nemzeti Ménesbirtok és Tangazdaság feletti tulajdonosi joggyakorlás módjáról szóló szabályokat a Nemzeti Ménesbirtok és Tangazdaságról szóló törvény
+
 állapítja meg.
 
 (2) A nemzetiségi önkormányzatok vagyonáról és vagyongazdálkodásának részletes szabályairól a nemzetiségek jogairól szóló törvény rendelkezik.
