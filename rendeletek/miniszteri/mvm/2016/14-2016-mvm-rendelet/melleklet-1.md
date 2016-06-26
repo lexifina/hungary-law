@@ -1,4 +1,4 @@
-## 15. § Hatályát veszti a 46/2015. (XI. 2.) MvM rendelet.
+## 15. §[^1]
 
 1. melléklet a 14/2016. (V. 25.) MvM rendelethez
 
@@ -73,3 +73,5 @@ Alulírott kérelmező büntetőjogi felelősségem tudatában nyilatkozom, hogy
 .........................................................................
 
 kérelmező aláírása
+
+[^1]: A 15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
