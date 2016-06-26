@@ -1,5 +1,0 @@
-2. § A Törvény 1. §-a helyébe a következő rendelkezés lép:
-
-„1. § (1) E törvény hatálya az 1. mellékletben felsorolt ingatlanokra, az ezekből az ingatlanokból telekalakítási eljárások során kialakított ingatlanokra, valamint azokon a Budapesten és Balatonfüreden megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság (a továbbiakban: világbajnokság) megrendezéséhez szükséges, illetve azzal összefüggő, azt kiszolgáló beruházásokra és felújítási tevékenységre – ide értve a közterületi, közmű és árvízvédelmi beruházásokat is – (a továbbiakban együtt: beruházás), a beruházással összefüggő beszerzésekre és a beruházással összefüggő közigazgatási hatósági eljárásokra, valamint a világbajnokság megrendezésével és szervezésével összefüggő egyéb beszerzésekre terjed ki.
-
-(2) A beruházás megvalósítása, a világbajnokság megrendezése és szervezése kiemelkedően fontos közérdek, a beruházás megvalósítása, illetve a világbajnokság megrendezése és szervezése érdekében kötendő szerződések halasztást nem tűrő, kiemelkedően fontos közérdek célját szolgáló szerződésnek tekinthetőek, amelyek teljesítéséhez kiemelkedően fontos közérdek fűződik.”
