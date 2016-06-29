@@ -2,7 +2,7 @@
 
 (2) A települési gyűjtőhelyet az önkormányzatnak vagy az általa megbízott vállalkozónak olyan helyen kell létesítenie, hogy az a környezetére köz- és állategészségügyi, valamint környezetvédelmi szempontból veszélyt ne jelentsen, bűz- illetve szagterhelést ne okozzon.
 
-(3)[^18] A települési gyűjtőhelynek az Állat-egészségügyi Szabályzat kiadásáról szóló miniszteri rendelet szerinti nagylétszámú állattartó teleptől (a továbbiakban: nagylétszámú állattartó telep), vágóhídtól, élelmiszer-előállító üzemtől, élelmiszert árusító kereskedelmi egységtől, vendéglátó-ipari egységtől vagy egyéb élelmiszeripari létesítménytől való minimális távolságát az alkalmazott technológia (hűtéssel vagy hűtés nélkül, a konténer tárolására szolgáló épület típusa, a szennyvízkezelés módja) alapján a járási hivatal határozza meg. A gyűjtőhelynek közútról az időjárási viszonyoktól függetlenül jól megközelíthetőnek kell lennie. A gyűjtőhelyet legalább 150 cm magas kerítéssel és zárható kapuval kell ellátni.
+(3)[^19] A települési gyűjtőhelynek az Állat-egészségügyi Szabályzat kiadásáról szóló miniszteri rendelet szerinti nagylétszámú állattartó teleptől (a továbbiakban: nagylétszámú állattartó telep), vágóhídtól, élelmiszer-előállító üzemtől, élelmiszert árusító kereskedelmi egységtől, vendéglátó-ipari egységtől vagy egyéb élelmiszeripari létesítménytől való minimális távolságát az alkalmazott technológia (hűtéssel vagy hűtés nélkül, a konténer tárolására szolgáló épület típusa, a szennyvízkezelés módja) alapján a járási hivatal határozza meg. A gyűjtőhelynek közútról az időjárási viszonyoktól függetlenül jól megközelíthetőnek kell lennie. A gyűjtőhelyet legalább 150 cm magas kerítéssel és zárható kapuval kell ellátni.
 
 (4) A települési gyűjtőhelyen olyan – akár könnyűszerkezetes – építményt kell létesíteni, amely alkalmas az állati eredetű melléktermékek gyűjtésére szolgáló konténer, a takarításhoz, fertőtlenítéshez szükséges eszközök, vegyszerek tárolására, illetve – ha egyébként nem megoldott – kielégíti a személyzet alapvető személyi higiéniai szükségleteit.
 
@@ -10,9 +10,9 @@
 
 (6) A települési gyűjtőhelyen olyan személyt kell alkalmazni, aki alkalmas a szakmai és az alapvető nyilvántartási, adatszolgáltatási, valamint a bizonylat-kiállítási feladatok ellátására.
 
-(7)[^19] A települési gyűjtőhely üzemeltetője köteles működési szabályzatot készíteni, és azt a járási hivatalnak megküldeni. A települési gyűjtőhely üzemeltetője köteles gondoskodni a 17. § (3) bekezdésében előírt jelentési kötelezettség teljesítéséről.
+(7)[^20] A települési gyűjtőhely üzemeltetője köteles működési szabályzatot készíteni, és azt a járási hivatalnak megküldeni. A települési gyűjtőhely üzemeltetője köteles gondoskodni a 17. § (3) bekezdésében előírt jelentési kötelezettség teljesítéséről.
 
 (8) A települési gyűjtőhelynek rendelkeznie kell olyan mérleggel, amely legalább a kis és közepes testű állatok testtömegének lemérésére alkalmas.
 
-[^18]: A 13. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 9. pontja szerint módosított szöveg.
-[^19]: A 13. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 6. pontja szerint módosított szöveg.
+[^19]: A 13. § (3) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 9. pontja szerint módosított szöveg.
+[^20]: A 13. § (7) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 6. pontja szerint módosított szöveg.

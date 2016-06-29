@@ -38,7 +38,7 @@
 
 ## cégszerű aláírás
 
-6. melléklet a 45/2012. (V. 8.) VM rendelethez[^65]
+6. melléklet a 45/2012. (V. 8.) VM rendelethez[^66]
 
 Jelentés a ………… évben szállított állati melléktermékről
 
@@ -56,4 +56,4 @@ Telephely azonosító száma:
 
 | Feldolgozott állati melléktermék |  |  |  |
 
-[^65]: A 6. mellékletet a 36. § (2) bekezdése hatályon kívül helyezte, újonnan a 46/2015. (VIII. 7.) FM rendelet 63. § (2) bekezdése iktatta be.
+[^66]: A 6. mellékletet a 36. § (2) bekezdése hatályon kívül helyezte, újonnan a 46/2015. (VIII. 7.) FM rendelet 63. § (2) bekezdése iktatta be.

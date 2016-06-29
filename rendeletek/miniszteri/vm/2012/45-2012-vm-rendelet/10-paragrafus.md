@@ -8,6 +8,6 @@
 
 (4) A fentieknél nagyobb mennyiségű, illetve a nagyobb egyedi testtömegű állatok hulláját közvetlenül vagy a 12. §-ban foglaltakkal összhangban települési állati melléktermék gyűjtőhelyen (a továbbiakban: települési gyűjtőhely) keresztül az 1069/2009/EK európai parlamenti és tanácsi rendelet előírásai szerint engedélyezett létesítménybe kell szállítani.
 
-(5)[^15] Azon állati eredetű melléktermékek, amelyek szállítása állategészségügyi vagy közegészségügyi kockázattal jár, a helyszínen vagy a megyei kormányhivatal készenléti tervében – helyrajzi szám szerint – megjelölt helyen a járási hivatal engedélyével és a környezetvédelmi szempontok figyelembevételével elföldelhetők.
+(5)[^16] Azon állati eredetű melléktermékek, amelyek szállítása állategészségügyi vagy közegészségügyi kockázattal jár, a helyszínen vagy a megyei kormányhivatal készenléti tervében – helyrajzi szám szerint – megjelölt helyen a járási hivatal engedélyével és a környezetvédelmi szempontok figyelembevételével elföldelhetők.
 
-[^15]: A 10. § (5) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 5. és 9. pontja szerint módosított szöveg.
+[^16]: A 10. § (5) bekezdése a 151/2012. (XII. 29.) VM rendelet 56. § b) pontja, a 46/2015. (VIII. 7.) FM rendelet 64. § 5. és 9. pontja szerint módosított szöveg.
