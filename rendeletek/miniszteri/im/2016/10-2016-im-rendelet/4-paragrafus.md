@@ -1,0 +1,1 @@
+## 3. § A Nemzeti Választási Iroda ellenőrzi, hogy a szervező a rendelkezésére bocsátott összes aláírásgyűjtő ívet leadta-e. Ha a szervező nem adta le a rendelkezésére bocsátott összes aláírásgyűjtő ívet, ennek tényét és a hiányzó ívek számát a Nemzeti Választási Iroda jelzi a Nemzeti Választási Bizottságnak.

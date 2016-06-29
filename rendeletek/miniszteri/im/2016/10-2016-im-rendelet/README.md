@@ -1,0 +1,9 @@
+# 10/2016. (VI. 28.) IM rendelet
+
+a népszavazás kezdeményezése során a választási irodák hatáskörébe tartozó feladatokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-10-20-06
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-06-29 | 2016-10-20-06.1 | 10/2016. (VI. 28.) IM rendelet |
