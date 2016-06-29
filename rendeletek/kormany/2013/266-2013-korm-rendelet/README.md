@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-266-20-
 | 2015-07-05 | 2013-266-20-22.10 | 168/2015. (VI. 30.) Korm. rendelet |
 | 2016-01-01 | 2013-266-20-22.11 | 62/2014. (III. 6.) Korm. rendelet |
 | 2016-06-14 | 2013-266-20-22.12 | 156/2016. (VI. 13.) Korm. rendelet |
+| 2016-06-29 | 2013-266-20-22.13 | 156/2016. (VI. 13.) Korm. rendelet |

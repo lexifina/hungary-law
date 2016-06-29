@@ -24,11 +24,11 @@ b) az építésfelügyeleti hatóság számított építményértéket tartalmaz
 
 (4) A területi kamara titkára megtiltja a szakmagyakorlási tevékenység folytatását
 
-a) legfeljebb hat hónap időtartamra, ha az építésfelügyeleti hatóság – az építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet (a továbbiakban: R2.) 1. melléklet I. táblázat 16. pontjában meghatározott jogsértő cselekmény kivételével – három éven belül legalább kettő alkalommal jogerősen építésfelügyeleti bírsággal sújtotta,
+a)[^46] legfeljebb hat hónap időtartamra, ha az építésfelügyeleti hatóság – az építésfelügyeleti bírságról szóló 238/2005. (X. 25.) Korm. rendelet (a továbbiakban: R2.) 1. mellékletben foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény kivételével – három éven belül legalább kettő alkalommal jogerősen építésfelügyeleti bírsággal sújtotta,
 
-b) legfeljebb egy év időtartamra, ha az építésfelügyeleti hatóság – az R2. 1. melléklet I. táblázat 16. pontjában meghatározott jogsértő cselekmény kivételével – egy éven belül kettő alkalommal jogerősen bírsággal sújtotta,
+b)[^47] legfeljebb egy év időtartamra, ha az építésfelügyeleti hatóság – az R2. 1. mellékletben foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény kivételével – egy éven belül kettő alkalommal jogerősen bírsággal sújtotta,
 
-c) legalább egy év időtartamra, ha az építésfelügyeleti hatóság az R2. 1. melléklet I. táblázat 16. pontjában meghatározott jogsértő cselekmény miatt jogerősen építésfelügyeleti bírsággal sújtotta,
+c)[^48] legalább egy év időtartamra, ha az építésfelügyeleti hatóság az R2. 1. mellékletben foglalt táblázat 13. pontjában meghatározott jogsértő cselekmény miatt jogerősen építésfelügyeleti bírsággal sújtotta,
 
 d) ha a területi kamara etikai-fegyelmi bizottsága jogerős döntésével felfüggesztette a szakmagyakorló kamarai tagságát, akkor annak időtartamáig,
 
@@ -56,10 +56,13 @@ f) az építésfelügyeleti hatóság az R2. 1. melléklet I. táblázat 16. pon
 
 g) a tevékenység folytatásához szükséges jogosultsága felfüggesztésének időtartama alatt végez szakmagyakorlási tevékenységet,
 
-h)[^46] az építészeti-műszaki tervező a (4) bekezdés h) pontja szerinti felfüggesztő határozat jogerőssé válásától számított hat hónapon belül sem igazolja díjfizetési kötelezettségének teljesítését,
+h)[^49] az építészeti-műszaki tervező a (4) bekezdés h) pontja szerinti felfüggesztő határozat jogerőssé válásától számított hat hónapon belül sem igazolja díjfizetési kötelezettségének teljesítését,
 
-i) ha az R1. 9/A. §-a szerinti ellenőrzés során a független ellenőrző szervezet megállapítja, hogy az energetikai tanúsító tanúsítvány két besorolással eltér a tényleges értéktől.[^47]
+i) ha az R1. 9/A. §-a szerinti ellenőrzés során a független ellenőrző szervezet megállapítja, hogy az energetikai tanúsító tanúsítvány két besorolással eltér a tényleges értéktől.[^50]
 
 [^45]: A 44. § (2) bekezdés a) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 21. pontja szerint módosított szöveg.
-[^46]: A 44. § (5) bekezdés h) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 22. pontja szerint módosított szöveg.
-[^47]: Az Alkotmánybíróság a 26/2017. (X. 17.) AB határozat 1. pontjával megállapította, hogy a 2016. december 31. napjáig hatályos 44. § (5) bekezdés i) pont alaptörvény-ellenes volt.
+[^46]: A 44. § (4) bekezdés a) pontja a 156/2016. (VI. 13.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
+[^47]: A 44. § (4) bekezdés b) pontja a 156/2016. (VI. 13.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
+[^48]: A 44. § (4) bekezdés c) pontja a 156/2016. (VI. 13.) Korm. rendelet 16. § g) pontja szerint módosított szöveg.
+[^49]: A 44. § (5) bekezdés h) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 22. pontja szerint módosított szöveg.
+[^50]: Az Alkotmánybíróság a 26/2017. (X. 17.) AB határozat 1. pontjával megállapította, hogy a 2016. december 31. napjáig hatályos 44. § (5) bekezdés i) pont alaptörvény-ellenes volt.
