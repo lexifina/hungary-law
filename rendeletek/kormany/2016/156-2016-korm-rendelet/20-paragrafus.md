@@ -1,4 +1,4 @@
-## 19. §[^14]
+## 19. §[^11]
 
 ## 11. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 2. és a 3. alcím, a 11. § f) pontja, a 16. § g) pontja, valamint az 1. melléklet az e rendelet kihirdetését követő 16. napon lép hatályba.
 
-[^14]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

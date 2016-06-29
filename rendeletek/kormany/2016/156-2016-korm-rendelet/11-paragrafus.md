@@ -1,11 +1,10 @@
-## 9–10. §[^5]
+## 9–10. §[^4]
 
 ## 11. § Az R3.
 
-a)–e)[^6]
+a)–e)[^5]
 
-f)[^7]
+f) 37. § (1) bekezdés a) pont ab) alpontjában az „1. melléklet I. táblázat 16. pontjában vagy 1. melléklet II. táblázat 10. pontjában” szövegrész helyébe az „1. mellékletében foglalt táblázat 13. pontjában” szöveg,
 
-[^5]: A 9–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 11. § a)–e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^7]: A 11. § f) pontja a 20. § (2) bekezdése alapján 2016. június 29-én lép hatályba.
+[^4]: A 9–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 11. § a)–e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
