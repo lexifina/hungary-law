@@ -1,147 +1,71 @@
-## I. táblázat
+## Az építőipari kivitelezési tevékenységhez kapcsolódó jogsértő cselekmények esetén megállapítható bírság összegek
 
-## A fővállalkozói szerződéshez, illetve a fővállalkozói munkavégzéshez kapcsolódó jogsértő cselekmények esetén megállapítható bírság összegek
+|  | A | B | C | D | E | F | G | H | I |
 
-| A fővállalkozói szerződéshez, illetve a fővállalkozói munkavégzéshez kapcsolódó jogsértő cselekmények | A bírság összegének meghatározása (az 1/A. § szerinti számított építményérték az 1. és 2. pontban 50 millió, a 3., 4. és az 5. pontban a tervezőre vonatkozóan 5 millió, az 5. pontban az építési műszaki ellenőrre és a felelős műszaki vezetőre és a 6-16. pontban 20 millió forintot meghaladó része: SZÉ) |
+| 1 | Az építőipari kivitelezési tevékenység kapcsolódó jogsértő cselekmények | A bírság összegének meghatározása (az l/A. § szerinti számított építményérték a 3. és a 4. pontban 50 millió, az 5. pontban a tervezőre vonatkozóan 5 millió, az 5–13. pontban 20 millió forintot meghaladó része: SZÉ) |
 
-| Építtető | Építési műszaki ellenőr | Fővállalkozó kivitelező | Fővállalkozó kivitelező felelős műszaki vezetője | Kivitelezési dokumentációt készítő tervező (a továbbiakban: tervező) |
+| 2 | Építtető | Tervező | Tervezői művezető | Építési műszaki ellenőr | Fővállalkozó kivitelező | Megrendelő vállalkozó kivitelező | Alvállalkozó kivitelező | Felelős műszaki vezető |
 
-| 1. Építési műszaki ellenőr közreműködésének mellőzése, jogszabályban előírt kötelezettség esetén | 100.000 Ft + 0,005xSZÉ legfeljebb 500.000 Ft |  |  |  |  |
+| 3 | Tervezői művezető közreműködésének mellőzése, jogszabályban előírt kötelezettség esetén | 100 000 Ft + 0,005×SZÉ legfeljebb 500 000 Ft |  |  |  |  |  |  |  |
 
-| 2. Az építési műszaki ellenőr nem rendelkezik megfelelő jogosultsággal | 100.000 Ft + 0,003xSZÉ legfeljebb 250.000 Ft | 100.000 Ft + 0,005xSZÉ legfeljebb 500.000 Ft |  |  |  |
+| 4 | Építési műszaki ellenőr közreműködésének mellőzése, jogszabályban előírt kötelezettség esetén | 100 000 Ft + 0,005×SZÉ legfeljebb 500 000 Ft |  |  |  |  |  |  |  |
 
-| 3. Nem megfelelő jogosultsággal rendelkező tervező foglalkoztatása, foglalkoztatás elfogadása, ha építtető a foglalkoztató | 100.000 Ft + 0,005xSZÉ legfeljebb 250.000 Ft |  |  |  | 150.000 Ft + 0,01xSZÉ legfeljebb 500.000 Ft |
+| 5 | Az engedélyezési dokumentáció és a kivitelezési dokumentáció összhangjának hiánya | 80 000 Ft + 0,003×SZÉ legfeljebb 300 000 Ft | 100 000 Ft + 0,01×SZÉ legfeljebb 500 000 Ft |  | 80 000 Ft + 0,003×SZÉ legfeljebb 300 000 Ft | 80 000 Ft + 0,003×SZÉ legfeljebb 300 000 Ft |  |  |  |
 
-| 4. Nem megfelelő jogosultsággal rendelkező tervező foglalkoztatása, foglalkoztatás elfogadása, ha kivitelező a foglalkoztató |  |  | 100.000 Ft + 0,005xSZÉ legfeljebb 300.000 Ft |  | 150.000 Ft + 0,01xSZÉ legfeljebb 500.000 Ft |
+| 6 | Építőipari kivitelezési tevékenység végzése kivitelezési dokumentáció nélkül | 80 000 Ft + 0,003×SZÉ legfeljebb 300 000 Ft |  |  | 80 000 Ft + 0,003×SZÉ legfeljebb 300 000 Ft | 100 000 Ft + 0,005×SZÉ legfeljebb 500 000 Ft |  |  | 80 000 Ft + 0,003×SZÉ legfeljebb 300 000 Ft |
 
-| 5. Az engedélyezési dokumentáció és a kivitelezési dokumentáció összhangjának hiánya |  | 80.000 Ft + 0,003xSZÉ legfeljebb 300.000 Ft |  | 80.000 Ft + 0,003xSZÉ legfeljebb 300.000 Ft | 100.000 Ft + 0,01xSZÉ legfeljebb 500.000 Ft |
+| 7 | Kivitelezési dokumentációtól eltérő kivitelezés | 80 000 Ft + 0,003×SZÉ legfeljebb 200 000 Ft |  |  | 80 000 Ft + 0,003×SZÉ legfeljebb 200 000 Ft | 150 000 Ft + 0,005×SZÉ legfeljebb 500 000 Ft |  |  | 100 000 Ft + 0,005×SZÉ legfeljebb 400 000 Ft |
 
-| 7. Építőipari kivitelezési tevékenység végzése kivitelezési dokumentáció nélkül | 100.000 Ft + 0,005xSZÉ legfeljebb 500.000 Ft | 80.000 Ft + 0,003xSZÉ legfeljebb 300.000 Ft | 100.000 Ft + 0,005xSZÉ legfeljebb 500.000 Ft | 80.000 Ft + 0,003xSZÉ legfeljebb 300.000 Ft |  |
+| 8 | Az építési főnapló készenlétbe helyezésének vagy megnyitásának a hiánya | 80 000 Ft + 0,003×SZÉ legfeljebb 200 000 Ft |  |  |  | 200 000 Ft + 0,01×SZÉ legfeljebb 1 500 000 Ft |  |  |  |
 
-| 8. Nem megfelelő jogosultsággal rendelkező kivitelezővel vállalkozási jogviszony létesítése | 80.000 Ft + 0,003xSZÉ legfeljebb 300.000 Ft |  | 100.000 Ft + 0,01xSZÉ legfeljebb 600.000 Ft |  |  |
+| 9 | Az építési alnapló készenlétbe helyezésének vagy megnyitásának a hiánya |  |  |  |  |  | 80 000 Ft + 0,003×SZÉ legfeljebb 200 000 Ft | 200 000 Ft + 0,01×SZÉ legfeljebb 1 000 000 Ft |  |
 
-| 9. Építőipari kivitelezési tevékenység végzése felelős műszaki vezető nélkül, a jogszabályi kötelezettség fennállása esetén |  | 80.000 Ft + 0,003xSZÉ legfeljebb 250.000 Ft | 150.000 Ft + 0,01xSZÉ legfeljebb 1.000.000 Ft |  |  |
+| 10 | Építőipari kivitelezési tevékenység végzése felelős műszaki vezető nélkül, a jogszabályi kötelezettség fennállása esetén | 80 000 Ft + 0,003×SZÉ legfeljebb 250 000 Ft |  |  | 80 000 Ft + 0,003×SZÉ legfeljebb 250 000 Ft | 150 000 Ft + 0,01×SZÉ legfeljebb 1 000 000 Ft | 100 000 Ft + 0,005×SZÉ legfeljebb 300 000 Ft | 150 000 Ft + 0,01×SZÉ legfeljebb 500 000 Ft |  |
 
-| 10. Nem megfelelő jogosultsággal rendelkező felelős műszaki vezető foglalkoztatása, foglalkoztatás elfogadása |  |  | 100.000 Ft + 0,005xSZÉ legfeljebb 500.000 Ft | 100.000 Ft + 0,005xSZÉ legfeljebb 500.000 Ft |  |
+| 11 | Építési szakmunka végeztetése vagy végzése a tevékenységre előírt szakmai feltétel hiányában, foglalkoztatott személyenként megállapítva |  |  |  |  | 150 000 Ft + 0,004×SZÉ legfeljebb 500 000 Ft | 150 000 Ft + 0,004×SZÉ legfeljebb 400 000 Ft | 80 000 Ft + 0,003×SZÉ legfeljebb 200 000 Ft |  |
 
-| 11. Építési szakmunka végeztetése vagy végzése a tevékenységre előírt szakmai feltétel hiányában, foglalkoztatott személyenként megállapítva |  |  | 150.000 Ft + 0,004xSZÉ legfeljebb 500.000 Ft | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft |  |
+| 12 | Szakszerűtlen kivitelezés, ezen belül a nem megfelelő teljesítményű építési termékek vagy szerkezetek felhasználása, beépítése | 80 000 Ft + 0,003×SZÉ legfeljebb 200 000 Ft |  |  | 80 000 Ft + 0,003×SZÉ legfeljebb 200 000 Ft | 100 000 Ft + 0,005×SZÉ legfeljebb 500 000 Ft |  |  | 150 000 Ft + 0,005×SZÉ legfeljebb 800 000 Ft |
 
-| 13. Szakszerűtlen kivitelezés, ezen belül a nem megfelelő teljesítményű építési termékek vagy szerkezetek felhasználása, beépítése |  | 80 000 Ft + 0,003xSZÉ legfeljebb 200 000 Ft | 150 000 Ft + 0,005xSZÉ legfeljebb 800 000 Ft | 100 000 Ft + 0,005xSZÉ legfeljebb 500 000 Ft |  |
+| 13 | Az állékonyságot, az életet vagy egészséget veszélyeztető állapot előidézése | 200 000 Ft + 0,005×SZÉ legfeljebb 800 000 Ft |  |  | 200 000 Ft + 0,005×SZÉ legfeljebb 800 000 Ft | 400 000 Ft + 0,006×SZÉ legfeljebb 1 500 000 Ft |  |  | 500 000 Ft + 0,015×SZÉ legfeljebb 5 000 000 Ft |
 
-| 14. Kivitelezési dokumentációtól vagy ennek hiányában engedélyezési dokumentációtól eltérő kivitelezés |  | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft | 150.000 Ft + 0,005xSZÉ legfeljebb 500.000 Ft | 100.000 Ft + 0,005xSZÉ legfeljebb 400.000 Ft |  |
+| 14 | Nem megfelelő jogosultsággal rendelkező tervező foglalkoztatása, foglalkoztatás elfogadása, ha építtető a foglalkoztató | 100 000 Ft | 150 000 Ft |  |  |  |  |  |  |
 
-| 15. Az építési főnapló készenlétbe helyezésének vagy megnyitásának a hiánya | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft |  | 200.000 Ft + 0,01xSZÉ legfeljebb 1.500.000 Ft |  |  |
+| 15 | Nem megfelelő jogosultsággal rendelkező tervező foglalkoztatása, foglalkoztatás elfogadása, ha kivitelező a foglalkoztató |  | 150 000 Ft |  |  | 100 000 Ft |  |  |  |
 
-| 16. Az állékonyságot, az életet vagy egészséget veszélyeztető állapot előidézése |  | 200.000 Ft + 0,005xSZÉ legfeljebb 800.000 Ft | 500.000 Ft + 0,015xSZÉ legfeljebb 5.000.000 Ft | 400.000 Ft + 0,006xSZÉ legfeljebb 1.500.000 Ft |  |
+| 16 | Tervezői művezető nem rendelkezik megfelelő jogosultsággal | 100 000 Ft |  | 100 000 Ft |  |  |  |  |  |
 
-| 17. Az építőipari kivitelezési tevékenység megkezdésére vonatkozó bejelentési és adatszolgáltatási kötelezettség elmulasztása | 60.000 Ft |  |  |  |  |
+| 17 | Az építési műszaki ellenőr nem rendelkezik megfelelő jogosultsággal | 100 000 Ft |  |  | 100 000 Ft |  |  |  |  |
 
-| 18. Írásbeli kivitelezési szerződés hiánya | 100.000 Ft |  | 100.000 Ft |  |  |
+| 18 | Nem megfelelő jogosultsággal rendelkező kivitelezővel vállalkozási jogviszony létesítése | 100 000 Ft |  |  |  | 100 000 Ft | 100 000 Ft |  |  |
 
-| 19. A kivitelezési dokumentáció készítésére vonatkozó írásbeli tervezési szerződés hiánya | 80.000 Ft |  |  |  | 80.000 Ft |
+| 19 | Nem megfelelő jogosultsággal rendelkező felelős műszaki vezető foglalkoztatása, foglalkoztatás elfogadása |  |  |  |  | 100 000 Ft | 100 000 Ft | 100 000 Ft | 100 000 Ft |
 
-| 20. Nem bejelentett vállalkozó kivitelezővel történt szerződés | 80.000 Ft |  |  |  |  |
+| 20 | Az építőipari kivitelezési tevékenység megkezdésére vonatkozó bejelentési és adatszolgáltatási kötelezettség elmulasztása | 60 000 Ft |  |  |  |  |  |  |  |
 
-| 21. Az építési napló vezetésére vonatkozó követelmények megsértése |  |  | 80.000 Ft |  |  |
+| 21 | A kivitelezési dokumentáció készítésére vonatkozó írásbeli tervezési szerződés hiánya | 150 000 Ft | 150 000 Ft |  |  |  |  |  |  |
 
-| 22. Kivitelezési dokumentáció készítésére vonatkozó írásbeli szerződés hiánya, ha ez a kivitelező a feladata |  |  | 80.000 Ft |  | 80.000 Ft |
+| 22 | Írásbeli tervezői művezetői szerződés hiánya | 100 000 Ft |  | 100 000 Ft |  |  |  |  |  |
 
-| 23. Építtetői fedezetkezelés hatálya alá tartozó építőipari kivitelezési tevékenység megkezdése fedezetkezelői szerződés hiányában | 500.000 Ft |  |  |  |  |
+| 23 | Írásbeli kivitelezési szerződés hiánya | 100 000 Ft |  |  |  | 100 000 Ft | 100 000 Ft | 100 000 Ft |  |
 
-| 24. Az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15) Korm. rendelet 5. § (6) bekezdése szerinti tábla kihelyezésének elmulasztása | 50.000 Ft |  |  |  |  |
+| 24 | A névjegyzéket vezető szervnek nem bejelentett vállalkozó kivitelezővel történt szerződés | 80 000 Ft |  |  |  | 80 000 Ft | 80 000 Ft |  |  |
 
-## II. táblázat
+| 25 | Kivitelezési dokumentáció készítésére vonatkozó írásbeli szerződés hiánya, ha ez a kivitelező feladata |  | 150 000 Ft |  |  | 150 000 Ft |  |  |  |
 
-## Az alvállalkozói szerződéshez, illetve az alvállalkozói munkavégzéshez kapcsolódó jogsértő cselekmények esetén megállapítható bírság összegek
+| 26 | Az építési napló vezetésére vonatkozó követelmények megsértése |  |  |  |  | 80 000 Ft | 80 000 Ft | 80 000 Ft |  |
 
-| Az alvállalkozói szerződéshez, illetve az alvállalkozói munkavégzéshez kapcsolódó jogsértő cselekmények | A bírság összegének meghatározása (az 1-10. pontban az 1/A. § szerinti számított építményérték 20 millió forintot meghaladó része: SZÉ) |
+| 27 | Az építési napló bejegyzésére vonatkozó követelmények megsértése | 80 000 Ft |  | 80 000 Ft | 80 000 Ft |  |  |  |  |
 
-| Megrendelő vállalkozó kivitelező | A megrendelő vállalkozó kivitelező felelős műszaki vezetője | Alvállalkozó kivitelező | Az alvállalkozó felelős műszaki vezetője | Építési műszaki ellenőr |
+| 28 | Az Étv. 33/A. §-a szerinti egyszerű bejelentés esetén a tervezői művezető legalább hat alkalmának nem teljesítése |  |  | 80 000 Ft |  |  |  |  |  |
 
-| 1. Építőipari kivitelezési tevékenység végzése kivitelezési dokumentáció nélkül |  |  | 100.000 Ft + 0,005xSZÉ legfeljebb 300.000 Ft | 80.000 Ft + 0,003xSZÉ legfeljebb 150.000 Ft |  |
+| 29 | Az építőipari kivitelezési tevékenységről szóló 191/2009. (IX. 15.) Korm. rendelet 5. § (6) vagy (7) bekezdése szerinti tájékoztatás elmulasztása | 50 000 Ft |  |  |  |  |  |  |  |
 
-| 2. Nem megfelelő jogosultsággal rendelkező kivitelező foglalkoztatása, foglalkoztatás elfogadása | 80.000 Ft + 0,005xSZÉ legfeljebb 300.000 Ft |  | 100.000 Ft + 0,01xSZÉ legfeljebb 600.000 Ft |  |  |
+| 30 | Építtetői fedezetkezelés hatálya alá tartozó építőipari kivitelezési tevékenység megkezdése fedezetkezelői szerződés hiányában | 500 000 Ft |  |  |  |  |  |  |  |
 
-| 3. Építőipari kivitelezési tevékenység végzése felelős műszaki vezető nélkül | 100.000 Ft + 0,005xSZÉ legfeljebb 300.000 Ft | 50.000 Ft + 0,003xSZÉ legfeljebb 150.000 Ft | 150.000 Ft + 0,01xSZÉ legfeljebb 500.000 Ft |  |  |
+| 31 | Építtetői fedezetkezelés hatálya alá tartozó építési beruházás esetén az alvállalkozó kivitelező a teljesítésének megkezdéséig nem kapja meg a megrendelő vállalkozó kivitelezőtől az elektronikus alvállalkozói nyilvántartáshoz használatát biztosító jelszót |  |  |  |  |  | 150 000 Ft |  |  |
 
-| 4. Nem megfelelő jogosultsággal rendelkező felelős műszaki vezető foglalkoztatása, foglalkoztatás elfogadása |  |  | 100.000 Ft + 0,005xSZÉ legfeljebb 400.000 Ft | 100.000 Ft + 0,005xSZÉ legfeljebb 400.000 Ft |  |
+| 32 | Építtetői fedezetkezelés hatálya alá tartozó építési beruházás esetén az alvállalkozó kivitelező - használatot biztosító jelszó birtokában - nem rögzíti szerződésének adatait az elektronikus alvállalkozói nyilvántartásban |  |  |  |  |  |  | 80 000 Ft |  |
 
-| 5. Építési szakmunka végeztetése vagy végzése a tevékenységre előírt szakmai feltétel hiányában, szabálytalanul foglalkoztatott személyenként megállapítva |  |  | 150.000 Ft + 0,004xSZÉ legfeljebb 400.000 Ft | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft |  |
+2. melléklet a 238/2005. (X. 25.) Korm. rendelethez[^45]
 
-| 7. Szakszerűtlen kivitelezés, ezen belül a nem megfelelő teljesítményű építési termékek vagy szerkezetek felhasználása, beépítése |  | 80 000 Ft + 0,003xSZÉ legfeljebb 200 000 Ft | 150 000 Ft + 0,005xSZÉ legfeljebb 500 000 Ft | 100 000 Ft + 0,005xSZÉ legfeljebb 300 000 Ft | 80 000 Ft + 0,003xSZÉ legfeljebb 200 000 Ft |
-
-| 8. Kivitelezési dokumentációtól vagy ennek hiányában engedélyezési dokumentációtól eltérő kivitelezés |  | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft | 150.000 Ft + 0,005xSZÉ legfeljebb 500.000 Ft | 100.000 Ft + 0,005xSZÉ legfeljebb 400.000 Ft | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft |
-
-| 9. Az építési alnapló készenlétbe helyezésének vagy megnyitásának a hiánya | 80.000 Ft + 0,003xSZÉ legfeljebb 200.000 Ft |  | 200.000 Ft + 0,01xSZÉ legfeljebb 1.000.000 |  |  |
-
-| 10. Az állékonyságot, az életet vagy egészséget veszélyeztető állapot előidézése | 200.000 Ft + 0,005xSZÉ legfeljebb 1.000.000 Ft | 100.000 Ft + 0,005xSZÉ legfeljebb 500.000 Ft | 250.000 Ft + 0,0015xSZÉ legfeljebb 3.000.000 Ft | 150.000 Ft + 0,006xSZÉ legfeljebb 800.000 Ft | 100.000 Ft + 0,005xSZÉ legfeljebb 500.000 Ft |
-
-| 11. Írásbeli kivitelezési szerződés hiánya | 100.000 Ft |  | 100.000 Ft |  |  |
-
-| 12. Nem bejelentett vállalkozó kivitelezővel történt szerződés | 80.000 Ft |  |  |  |  |
-
-| 13. Az építési napló vezetésére vonatkozó követelmények megsértése |  |  | 80.000 Ft |  |  |
-
-| 14. Építtetői fedezetkezelés hatálya alá tartozó építési beruházás esetén az alvállalkozó kivitelező a teljesítésének megkezdéséig nem kapja meg a megrendelő vállalkozó kivitelezőtől az elektronikus alvállalkozói nyilvántartáshoz használatát biztosító jelszót | 150.000 Ft |  |  |  |  |
-
-| 15. Építtetői fedezetkezelés hatálya alá tartozó építési beruházás esetén az alvállalkozó kivitelező – használatot biztosító jelszó birtokában – nem rögzíti szerződésének adatait az elektronikus alvállalkozói nyilvántartásban |  |  | 80.000 Ft |  |  |
-
-2. melléklet a 238/2005. (X. 25.) Korm. rendelethez[^38]
-
-## Adatlap építésfelügyeleti bírsághoz
-
-1. Építtető neve:
-
-Címe:   ir.szám .................................. város (község) ............................................ utca ............ házszám
-
-............................. emelet ............. ajtó
-
-2. Megbírságolt neve, névjegyzéki jelölése, illetve nyilvántartási száma:
-
-építtető, kiviteli terv készítője, kivitelező, felelős műszaki vezető, építési műszaki ellenőr*
-
-Címe: .................. ir.szám ........................................ város (község) ...................................... utca   házszám
-
-.............................. emelet ............ ajtó
-
-3. Építmény helye: ....................................... város (község) ............................................. utca   házszám
-
-.............................. helyrajzi szám
-
-4. A bírságot kiszabó elsőfokú építésfelügyeleti hatóság megnevezése:
-
-Címe:   megye ................ ir.száma .................................................. város (község)
-
-................................................................... utca ................. szám
-
-Számlaszáma:
-
-5. Másodfokon eljárt építésfelügyeleti hatóság megnevezése:
-
-Címe: ....................................................... megye ................ ir.száma  város (község)
-
-................................................................... utca ................. szám
-
-Számlaszáma:
-
-6. A bírságot kiszabó elsőfokú határozat száma: ......................................................... kelte:
-
-Jogerős és végrehajthatóvá válás dátuma: .................................., a bírság összege:   azaz
-
-Ft, befizetés határideje: ................................................................
-
-7. Egyösszegű befizetési határidőt módosító végzés száma:   kelte: ...................................
-
-Az új egyösszegű befizetés határideje: ........................... év   hó ............. nap
-
-8. Befizetés pontos dátuma: ........................ év ...................................... hó ............. nap
-
-9. Végrehajtás elrendelésének dátuma (Nemzeti Adó- és Vámhivatal felé): ........................ év ........................................... hó nap
-
-P. H.
-
-...................................
-
-aláírás
-
-[^38]: A 2. számú mellékletet a 246/2006. (XII. 5.) Korm. rendelet 6. §-a iktatta be, szövege a 311/2009. (XII. 28.) Korm. rendelet 25. § (3) bekezdés b) pontja, a 322/2012. (XI. 16.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^45]: A 2. számú mellékletet a 246/2006. (XII. 5.) Korm. rendelet 6. §-a iktatta be, a 156/2016. (VI. 13.) Korm. rendelet 5. §-a hatályon kívül helyezte.
