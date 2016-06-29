@@ -80,6 +80,10 @@ i. Magyarország Főkonzulátusa, Ungvár
 
 j.[^13] Magyarország Főkonzulátusa, Eszék
 
+k.[^14] Magyarország Nagykövetsége, Kijev
+
+l.[^15] Magyarország Főkonzulátusa, Lendva
+
 [^7]: A 24. §-t a 27/2015. (X. 16.) IM rendelet 2. §-a iktatta be.
 [^8]: Az 1. melléklet 1. pont a. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
 [^9]: Az 1. melléklet 1. pont g. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
@@ -87,3 +91,5 @@ j.[^13] Magyarország Főkonzulátusa, Eszék
 [^11]: Az 1. melléklet 1. pont p. alpontja a 38/2013. (XII. 30.) Korm. rendelet 14. §-ával megállapított szöveg. be.
 [^12]: Az 1. melléklet 1. pont u. alpontját a 38/2013. (XII. 30.) Korm. rendelet 15. §-a hatályon kívül helyezte.
 [^13]: Az 1. melléklet 2. pont j. alpontját a 38/2013. (XII. 30.) Korm. rendelet 13. §-a iktatta be.
+[^14]: Az 1. melléklet 2. pont k. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
+[^15]: Az 1. melléklet 2. pont l. alpontját a 9/2016. (VI. 28.) IM rendelet 28. §-a iktatta be.
