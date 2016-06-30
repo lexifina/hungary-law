@@ -2,7 +2,7 @@
 
 10. § (1)[^40] Az igazságügyi szakértő, az igazságügyi szakértői intézmény és a szaktanácsadó részére a számlával nem igazolható, de szükségszerűen felmerülő költségeinek (posta, telefon, irodaszer stb.) fedezésére költségátalányt kell megállapítani. A költségátalány a szakértő munkadíjának 35%-a, de legfeljebb százezer forint.
 
-(2)[^41] Az (1) bekezdésben foglaltakon túlmenően a költségátalány
+(2)[^41] Az (1) bekezdésben foglaltak mellett a tételes költségátalány
 
 a) igazságügyi és hatósági boncolás vagy csontvázlelet orvos szakértői vizsgálata esetén hatvanezer forint;
 
@@ -27,5 +27,5 @@ h) kábítószer-vizsgálat biológiai anyagból, illetve szubsztanciából vegy
 (5) A jelenléti díj után költségátalány nem számítható fel.
 
 [^40]: A 10. § (1) bekezdése az 5/2000. (II. 29.) IM rendelet 2. §-ával megállapított szöveg. A 10. § (1) bekezdésének utolsó mondatát a 33/2007. (VI. 22.) IRM rendelet 32. §-ának c) pontja hatályon kívül helyezte.
-[^41]: A 10. § (2) bekezdése a 65/2007. (XII. 23.) IRM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.
+[^41]: A 10. § (2) bekezdése a 65/2007. (XII. 23.) IRM rendelet 6. §-ával megállapított, nyitó szövegrésze a 14/2016. (VI. 29.) IM rendelet 3. §-a szerint módosított szöveg.
 [^42]: A 10. § (4) bekezdését a 2/1990. (I. 11.) IM rendelet 6. § (3) bekezdésének b) pontja hatályon kívül helyezte.
