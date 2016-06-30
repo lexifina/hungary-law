@@ -1,0 +1,1 @@
+A hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény 290. § (2) bekezdés c) és h) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 14. pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
