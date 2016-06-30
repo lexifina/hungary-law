@@ -1,1 +1,0 @@
-## 29. § Más szervnél történő szolgálati feladat ellátása miatt a ht. állomány rendelkezési állományba helyezett tagja soron történő előléptetéséről, fizetési fokozatba előresorolásáról a főigazgató intézkedik. A járandóságok változásáról, azok összegéről a ht. állomány tagját és a szolgálati helyet a döntést követően haladéktalanul tájékoztatni kell.
