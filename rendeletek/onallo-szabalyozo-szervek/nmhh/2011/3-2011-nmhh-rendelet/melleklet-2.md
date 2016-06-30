@@ -230,7 +230,7 @@
 
 |  | 6 | 38 | Üzleti hálózatok |
 
-|  | 7 | 40 | Kedvezményes díjazású szolgáltatás |
+|  | 7 |  |  |
 
 |  | 8 | 50 | Mobil rádiótelefon szolgáltatás |
 
@@ -286,7 +286,7 @@
 
 ## Elsődleges számhasználat: a földrajzi szám csak a körzetszámhoz tartozó földrajzi számozási területen elhelyezett előfizetői hozzáférési ponthoz rendelhető, amelyen keresztül a helyhez kötött telefonszolgáltatás folyamatosan biztosított. Másodlagos számhasználat: a földrajzi számon az elsődleges számhasználat mellett, az elsődleges számhasználatra feljogosított szolgáltató lehetővé teheti a telefonszolgáltatás igénybevételét IP alapú adatátvitelt biztosító előfizetői hozzáférési ponton is.
 
-## Földrajzi számon díjmentes, kedvezményes díjazású és emelt díjas szolgáltatás, valamint nomadikus telefonszolgáltatás nem nyújtható.
+## Földrajzi számon díjmentes, és emelt díjas szolgáltatás, valamint nomadikus telefonszolgáltatás nem nyújtható.
 
 ## 2.3. Mobil számok (SHS = 20, 30, 31, 50, 70)
 
@@ -306,7 +306,7 @@
 
 ## 2.3.3. A használat feltételei
 
-## A mobil számon kedvezményes díjazású és emelt díjas szolgáltatás, nomadikus telefonszolgáltatás, valamint – amennyiben az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa eltérően nem rendelkezik – díjmentes szolgáltatás nem nyújtható.
+## A mobil számon emelt díjas szolgáltatás, nomadikus telefonszolgáltatás, valamint – amennyiben az Európai Unió általános hatályú, közvetlenül alkalmazandó kötelező jogi aktusa eltérően nem rendelkezik – díjmentes szolgáltatás nem nyújtható.
 
 ## 2.4. Nomadikus telefonszolgáltatás számai (SHS = 21)
 
@@ -324,31 +324,9 @@
 
 ## 2.4.3. A használat feltételei
 
-## Az előfizetői számokon helyhez kötött telefonszolgáltatás, mobil rádiótelefon szolgáltatás, különleges díjazású (a díjmentes, a kedvezményes díjazású, az emelt díjas) szolgáltatás nem nyújtható.
+## Az előfizetői számokon helyhez kötött telefonszolgáltatás, mobil rádiótelefon szolgáltatás, díjmentes és emelt díjas szolgáltatás nem nyújtható.
 
-## 2.5. Kedvezményes díjazású szolgáltatás számai (ún. kék számok) (SHS = 40)
-
-## 2.5.1. Leírás
-
-## Lehetővé teszi a telefonhálózatból a 2. § 2. pontban meghatározott kedvezményes díjazású szolgáltatások elérését.
-
-## 2.5.2. A számok felépítése
-
-## A kedvezményes díjazású szolgáltatás száma szolgáltatás kijelölő számból és előfizetői számból áll:
-
-|  |  | 40 abc def |
-
-| ahol: | 40 | a kedvezményes díjazású szolgáltatást jelölő SHS, |
-
-|  | abc def | előfizetői szám 100 000-999 999 között. |
-
-## 2.5.3. A használat feltételei
-
-## A szolgáltatónak kötelessége, hogy a hálózatából kedvezményes díjazású szolgáltatások elérésére kezdeményezett hívások hívó által fizetendő, az általános forgalmi adót (a továbbiakban: áfa) tartalmazó hívásdíját az általános szerződési feltételeiben közzétegye. A szolgáltató a hívó fél által fizetendő díjat úgy köteles meghatározni, hogy az ne haladja meg a hatóság által az érintett szolgáltatókkal történő egyeztetést követően – évente január 31-ig – a hatóság internetes honlapján közzétett díjat.
-
-## A számhasználó kérésére – kereskedelmi okból – a szolgáltatónak korlátoznia kell a kedvezményes díjazású szolgáltatás nemzetközi hálózatból, valamint meghatározott belföldi KS-sel, illetve SHS-sel azonosított számtartományokból való elérését.
-
-## A kedvezményes díjazású szolgáltatás szám számhasználója által kezdeményezett hívásoknál a kedvezményes díjazású szolgáltatás szám a hívottnál hívószám kijelzés szolgáltatással a hívó telefonszámaként nem jeleníthető meg.
+## 2.5.
 
 ## 2.6. Internet-hozzáférési szolgáltatás számai (SHS = 51)
 
@@ -512,7 +490,7 @@
 
 |  | 9 | 137* | lelki segítő és támogató szolgáltatás számok |
 
-|  | 10 | 14* | különös díjazású országos számok |
+|  | 10 | 14* | díjmentes szolgáltatás rövid számok |
 
 |  | 11 | 15* | közvetítő választó előtétek (KVE) |
 
@@ -696,23 +674,21 @@
 
 ## Az elektronikus hírközlési szolgáltatók az adománygyűjtés hívásonkénti, illetve üzenetenkénti költségére legfeljebb az érintett szolgáltatókkal történő egyeztetést követően a hatóság által a 135d, illetve 136de számtartományokra megállapított és a hatóság honlapján közzétett összeget számíthatják fel. A 135d és 136de számokra az emelt díjas, díjkorlátos szolgáltatásra előírt, 2. § 3a. pont és az 1. melléklet 2.8.3. és 2.8.4. pont szerinti feltételeket kell alkalmazni. Amennyiben az előfizető az adománygyűjtő számok elérhetőségének letiltását kérte, a szolgáltatónak a letiltást díjmentesen biztosítania kell a 135d és 136de rövidszámokra.
 
-## 3.9. Különös díjazású országos számok
+## 3.9. Díjmentes szolgáltatás rövid számok
 
 ## 3.9.1. Leírás
 
-## Rövid számok, amelyek díjmentes vagy kedvezményes díjazású szolgáltatások országos elérését teszik lehetővé.
+## Rövid számok, amelyek díjmentes szolgáltatások országos elérését teszik lehetővé.
 
 ## 3.9.2. A számok felépítése
 
-| Négyjegyű számok: | 140d, 141d, 142d, 143d, 144d |
+|  | Négyjegyű számok: | 140d, 141d, 142d, 143d, 144d |
 
-| Ötjegyű számok: | 145de, 146de, 147de, 148de, 149de |
+|  | Ötjegyű számok: | 145de, 146de, 147de, 148de, 149de |
 
 ## 3.9.3. A használat feltételei
 
-## A számhasználó a szolgáltatás hívószámával együtt köteles közzétenni, hogy a szám elérése a hívó számára díjmentes vagy kedvezményes díjazású.
-
-## A kedvezményes díjazású szolgáltatások hívásdíjára az 1. melléklet 2.5.3. pontjában leírt feltételeket kell alkalmazni.
+## A hívás és üzenetküldés díját a számhasználó fizeti. A hívás és üzenetküldés a hívó fél részére díjmentes.
 
 ## 3.10. Közvetítő választó előtét
 
@@ -752,7 +728,7 @@
 
 ## A 17c(d)(e) formátumú számokon a szolgáltató saját hálózatában saját előfizetői részére nyújtott szolgáltatásai érhetők el. A szolgáltatás más szolgáltató hálózatából csak abban az esetben érhető el, ha az adott szolgáltató jogosult ugyanazon rövid szám használatára ugyanannak a szolgáltatásnak az eléréséhez.
 
-## A számokon emelt díjas szolgáltatás nem nyújtható. Kedvezményes díjazású szolgáltatás csak a 2. § 2. pontjában és az 1. melléklet 2.5.3. pontjában előírt feltételek szerint nyújtható.
+## A számokon emelt díjas szolgáltatás nem nyújtható. A szolgáltató minden esetben köteles a szolgáltatás hívószámának közzétételével együtt a hívó fél által fizetendő, áfát tartalmazó díj mértékét is (hívásonkénti vagy percenkénti díj, vagy az üzenetküldés díja) nyilvánosságra hozni.
 
 ## 3.12. Közérdekű tájékoztató és támogató szolgáltatások számai
 

@@ -2,7 +2,7 @@
 
 1. Beszédcélú elektronikus hírközlő hálózat: olyan nyilvánosan elérhető elektronikus hírközlő hálózat, amely alkalmas hálózati végpontok közötti beszédre, továbbá más kommunikációra, és amely belföldi vagy nemzetközi számozási terven alapuló hívásirányítással lehetővé teszi belföldi és nemzetközi hívások kezdeményezését és fogadását.
 
-2.[^2] Kedvezményes díjazású szolgáltatás: olyan szolgáltatás, amely a számhasználónak vagy az általa információt, tartalmat nyújtó szolgáltatásnak az elérését a hívó fél számára a normál hívásdíjnál kedvezőbb díj ellenében teszi lehetővé azáltal, hogy a hívás díja a hívó és hívott fél között megoszlik. A kedvezményes díjazású szolgáltatás hívásának megosztott díjából a hívó fél a saját szolgáltatója által meghatározott, rögzített díjat fizeti, amely nem haladhatja meg a hatóság internetes honlapján közzétett díjat. A kedvezményes díjazású szolgáltatás hívásának megosztott díjából a hívott számhasználó – a hívás fogadásáért – a saját szolgáltatója által megállapított díjat fizeti, amelynek mértéke függhet attól, hogy a hívást milyen (helyhez kötött, mobil vagy nemzetközi) hálózatból kezdeményezték.
+2.[^2]
 
 3.[^3] Emelt díjas szolgáltatás: olyan szolgáltatás, amely a beszédcélú elektronikus hírközlő hálózatból értéknövelt, különösen információt, tartalmat, kényelmi funkciót nyújtó szolgáltatások elérését teszi lehetővé emelt díjas indított hívás, vagy emelt díjas indított, vagy fogadott üzenetek útján. Az emelt díjas szolgáltatás igénybevételének díja magában foglalja az értéknövelt szolgáltatás díját is. Az emelt díjas szolgáltatás a szolgáltatás tartalma és díja szerint lehet emelt díjas, díjkorlátos szolgáltatás, vagy emelt díjas, díjkorlátmentes szolgáltatás vagy emelt díjas felnőtt szolgáltatás.
 
@@ -20,7 +20,7 @@
 
 7.[^10] Számhasználati jogviszony: Az elektronikus hírközlő hálózatok azonosítóival kapcsolatos gazdálkodás rendjéről szóló rendeletben meghatározott számhasználati jogviszony.
 
-[^2]: A 2. § 2. pontja a 17/2013. (X. 14.) NMHH rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (2) pontját az 1/2016. (I. 15.) NMHH rendelet 19. § (2) bekezdése hatályon kívül helyezte.
 [^3]: A 2. § 3. pontja az 1/2016. (I. 15.) NMHH rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § 3a. pontját a 17/2013. (X. 14.) NMHH rendelet 9. § (3) bekezdése iktatta be.
 [^5]: A 2. § 3b. pontját a 17/2013. (X. 14.) NMHH rendelet 9. § (3) bekezdése iktatta be.
