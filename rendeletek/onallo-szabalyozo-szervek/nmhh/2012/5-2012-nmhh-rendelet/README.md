@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-5-20-3H
 | 2012-02-02 | 2012-5-20-3H.2 | 2010: CXXX. törvény |
 | 2013-10-22 | 2012-5-20-3H.3 | 17/2013. (X. 14.) NMHH rendelet |
 | 2014-01-01 | 2012-5-20-3H.4 | 17/2013. (X. 14.) NMHH rendelet |
+| 2016-06-30 | 2012-5-20-3H.5 | 17/2013. (X. 14.) NMHH rendelet |

@@ -16,7 +16,7 @@
 
 | 6 | díjmentes szolgáltatás szám (SHS=80) | 180 |
 
-| 7 | kedvezményes díjazású szolgáltatás szám (SHS=40) | 180 |
+| 7 | díjmentes szolgáltatás szám (SHS = 40) | 180 |
 
 | 8 | emelt díjas, díjkorlátos szolgáltatás szám (SHS=91) | 600 |
 
@@ -40,9 +40,9 @@
 
 | 18 | lelki segítő és támogató szolgáltatás szám (137de) | 0 |
 
-| 19 | különös díjazású 4-jegyű országos szám (14cd) | 900 000 |
+| 19 | díjmentes szolgáltatás 4-jegyű rövid szám (14cd) | 900 000 |
 
-| 20 | különös díjazású 5-jegyű országos szám (14cde) | 600 000 |
+| 20 | díjmentes szolgáltatás 5-jegyű rövid szám (14cde) | 600 000 |
 
 | 21 | közvetítő választó előtét (15cd) (első előtét) | 1 320 000 |
 
@@ -82,4 +82,4 @@
 
 | 39 | nemzeti összekötő hálózat jelzéspont kód (NISPC) | 66 000 |
 
-[^2]: Az 1. melléklet a 17/2013. (X. 14.) NMHH rendelet 12. §-ával megállapított, a 13. §-a szerint módosított szöveg.
+[^2]: Az 1. melléklet a 17/2013. (X. 14.) NMHH rendelet 12. §-ával megállapított, a 13. §-a, az 1/2016. (I. 15.) NMHH rendelet 16. §-a szerint módosított szöveg.
