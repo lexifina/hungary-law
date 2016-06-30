@@ -52,6 +52,6 @@
 
 | 25. történeti kertek | a) okleveles tájépítészmérnök vagy b) okleveles tájépítész és kertművész |
 
-9. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^129]
+9. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^136]
 
-[^129]: A 9. számú melléklet a 21/2014. (III. 13.) KIM rendelet 16. § (10) bekezdés a) pontjával megállapított szöveg.
+[^136]: A 9. számú melléklet a 21/2014. (III. 13.) KIM rendelet 16. § (10) bekezdés a) pontjával megállapított szöveg.

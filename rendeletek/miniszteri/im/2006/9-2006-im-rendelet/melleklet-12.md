@@ -54,6 +54,6 @@
 
 | 2. idegenforgalom | a) egyetemi vagy főiskolai szintű felsőoktatásban alapképzésben szerzett végzettség és az OKJ-ben szereplő idegenvezető szakképesítés vagy b) egyetemi vagy főiskolai szintű felsőoktatásban alapképzésben szerzett végzettség és az OKJ-ben szereplő idegenforgalmi menedzser szakképesítés vagy c) egyetemi vagy főiskolai szintű felsőoktatásban alapképzésben szerzett végzettség és az OKJ-ben szereplő idegenforgalmi szakmenedzser szakképesítés vagy d) közgazdász idegenforgalmi és szálloda szakon vagy e) közgazdász gazdálkodási szakon vagy f) egyetemi szakközgazdász, turizmus szakon vagy g) turizmus szakértő vagy h) főiskolai szakközgazdász, idegenforgalmi és szálloda vállalkozási szakon vagy i) idegenforgalmi és szálloda vállalkozási szakértő” |
 
-12. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^132]
+12. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^139]
 
-[^132]: A 12. számú mellékletet a 31/2006. (XII. 21.) IRM rendelet 9. §-a iktatta be, szövege a 32/2008. (XII. 31.) IRM rendelet 18. § (4) bekezdésével megállapított, valamint a 8/2009. (IV. 8.) IRM rendelet 3. § (2) bekezdésének c) pontja, az 50/2009. (IX. 28.) IRM rendelet 17. § (4) bekezdés j) pontja, a 21/2014. (III. 13.) KIM rendelet 16. § (11) bekezdés i)–j) pontja szerint módosított szöveg.
+[^139]: A 12. számú mellékletet a 31/2006. (XII. 21.) IRM rendelet 9. §-a iktatta be, szövege a 32/2008. (XII. 31.) IRM rendelet 18. § (4) bekezdésével megállapított, valamint a 8/2009. (IV. 8.) IRM rendelet 3. § (2) bekezdésének c) pontja, az 50/2009. (IX. 28.) IRM rendelet 17. § (4) bekezdés j) pontja, a 21/2014. (III. 13.) KIM rendelet 16. § (11) bekezdés i)–j) pontja szerint módosított szöveg.

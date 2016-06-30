@@ -58,6 +58,6 @@
 
 | 11. vízrendezés és belvízmentesítés | a) okleveles építőmérnök vagy b) építőmérnök vagy c) főiskolai szakmérnök, árvíz- és belvízvédelmi szakon |
 
-8. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^128]
+8. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^135]
 
-[^128]: A 8. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdésével megállapított, a 32/2008. (XII. 31.) IRM rendelet 18. § (5) bekezdése, a 21/2014. (III. 13.) KIM rendelet 16. § (11) bekezdés g)–h) pontja és (12) bekezdés h) pontja szerint módosított szöveg.
+[^135]: A 8. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdésével megállapított, a 32/2008. (XII. 31.) IRM rendelet 18. § (5) bekezdése, a 21/2014. (III. 13.) KIM rendelet 16. § (11) bekezdés g)–h) pontja és (12) bekezdés h) pontja szerint módosított szöveg.

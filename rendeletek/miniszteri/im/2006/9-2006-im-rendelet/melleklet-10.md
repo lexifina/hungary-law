@@ -28,6 +28,6 @@
 
 | 10. tanácsadó pszichológia | okleveles pszichológus és tanácsadó szakpszichológia szakvizsga” |
 
-10. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^130]
+10. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^137]
 
-[^130]: A 10. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése, a 32/2008. (XII. 31.) IRM rendelet 18. § (6) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. § (3)–(4) bekezdését.
+[^137]: A 10. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése, a 32/2008. (XII. 31.) IRM rendelet 18. § (6) bekezdése szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 19. § (3)–(4) bekezdését.

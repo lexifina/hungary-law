@@ -176,6 +176,6 @@
 
 | 39. használati cikkek piaci ár- és értékbecslése | egyetemi vagy főiskolai szintű alapképzésben szerzett végzettség és a) az OKJ-ben szereplő műtárgy becsüs szakképesítés vagy b) az OKJ-ben szereplő bútor-szőnyeg becsüs szakképesítés vagy c) az OKJ-ben szereplő festmény becsüs szakképesítés vagy d) az OKJ-ben szereplő híradástechnikai becsüs szakképesítés vagy e) az OKJ-ben szereplő ékszerbecsüs szakképesítés |
 
-6. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^126]
+6. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^133]
 
-[^126]: A 6. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 19. § (3)–(4) bekezdését.
+[^133]: A 6. számú melléklet a 32/2008. (XII. 31.) IRM rendelet 18. § (4) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 19. § (3)–(4) bekezdését.

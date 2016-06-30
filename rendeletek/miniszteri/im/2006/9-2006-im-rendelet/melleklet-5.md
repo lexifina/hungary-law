@@ -68,7 +68,7 @@
 
 | 32. termőföld talajvédelme | a) okleveles agrárkémikus agrármérnök vagy b) okleveles erdőmérnök vagy c) környezetgazdálkodási szakmérnök vagy d) meliorációs szakmérnök vagy e) talajtani szakmérnök |
 
-| 33. termőföld-értékbecslés | OKJ-ban szereplő ingatlanvagyon-értékelő és –közvetítő szakképesítés és a) okleveles agrármérnök vagy b) okleveles kertészmérnök vagy c) meliorációs mérnök vagy d) okleveles erdőrmérnök vagy e) ingatlan-nyilvántartási szervező |
+| 33. termőföld-forgalmazás, termőföld-értékbecslés | OKJ-ban szereplő ingatlanvagyon-értékelő és –közvetítő szakképesítés és a) okleveles agrármérnök vagy b) okleveles kertészmérnök vagy c) meliorációs mérnök vagy d) okleveles erdőrmérnök vagy e) ingatlan-nyilvántartási szervező |
 
 | 34. vadgazdálkodási tervezés | a) vadgazda mérnök vagy b) vadgazdálkodási szakmérnök |
 
@@ -80,6 +80,6 @@
 
 | 38. faanyagszármazás | a) okleveles erdőmérnök vagy b) okleveles faipari mérnök” |
 
-5. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^125]
+5. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^132]
 
-[^125]: Az 5. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése és a 25. § (2) bekezdésének d)–e) pontja, a 32/2008. (XII. 31.) IRM rendelet 18. § (3) és (7) bekezdése, 19. § (8) bekezdés i) pontja, a 8/2009. (IV. 8.) IRM rendelet 3. § (2) bekezdésének a)–b) pontja, az 50/2009. (IX. 28.) IRM rendelet 16. § (3)–(4) bekezdése, továbbá a 17. § (3) bekezdés i) pontja, a 31/2012. (VI. 29.) KIM rendelet 13. § (5) bekezdés c)–d) pontja, a 21/2014. (III. 13.) KIM rendelet 16. § (9) bekezdés d) pontja szerint módosított szöveg.
+[^132]: Az 5. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése és a 25. § (2) bekezdésének d)–e) pontja, a 32/2008. (XII. 31.) IRM rendelet 18. § (3) és (7) bekezdése, 19. § (8) bekezdés i) pontja, a 8/2009. (IV. 8.) IRM rendelet 3. § (2) bekezdésének a)–b) pontja, az 50/2009. (IX. 28.) IRM rendelet 16. § (3)–(4) bekezdése, továbbá a 17. § (3) bekezdés i) pontja, a 31/2012. (VI. 29.) KIM rendelet 13. § (5) bekezdés c)–d) pontja, a 21/2014. (III. 13.) KIM rendelet 16. § (9) bekezdés d) pontja szerint módosított szöveg.

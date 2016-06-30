@@ -54,6 +54,6 @@
 
 | 25. munkavédelem gazdasági elemzése | a) egyetemi szakmérnök, munkavédelmi szakon vagy b) munkavédelmi szakember |
 
-4. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^124]
+4. számú melléklet a 9/2006. (II. 27.) IM rendelethez[^131]
 
-[^124]: A 4. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése, a 32/2008. (XII. 31.) IRM rendelet 18. § (2) bekezdése, 19. § (7) bekezdés g) pontja, (8) bekezdés h) pontja, az 50/2009. (IX. 28.) IRM rendelet 16. § (2) bekezdése, a 31/2012. (VI. 29.) KIM rendelet 13. § (5) bekezdés b) pontja, a 21/2014. (III. 13.) KIM rendelet 16. § (9) bekezdés c) pontja és (12) bekezdés e)–f) pontja szerint módosított szöveg.
+[^131]: A 4. számú melléklet a 46/2007. (IX. 29.) IRM rendelet 24. § (1) bekezdése, a 32/2008. (XII. 31.) IRM rendelet 18. § (2) bekezdése, 19. § (7) bekezdés g) pontja, (8) bekezdés h) pontja, az 50/2009. (IX. 28.) IRM rendelet 16. § (2) bekezdése, a 31/2012. (VI. 29.) KIM rendelet 13. § (5) bekezdés b) pontja, a 21/2014. (III. 13.) KIM rendelet 16. § (9) bekezdés c) pontja és (12) bekezdés e)–f) pontja, a 14/2016. (VI. 29.) IM rendelet 9. § c) pontja szerint módosított szöveg.
