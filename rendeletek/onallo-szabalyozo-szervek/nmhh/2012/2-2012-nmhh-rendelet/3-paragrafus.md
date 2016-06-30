@@ -14,7 +14,7 @@ a) saját hálózatában díjmentesen hívható ügyfélszolgálati, illetve egy
 
 b) előre beállított, megszakítható automatikus jelzés és azt követő – legalább a hívást végződtető szolgáltatót és a hívás tarifájának részletes elérhetőségét tartalmazó – a hívó fél által manuálisan bármikor megszakítható automatikus tájékoztatás útján tehet eleget.
 
-(3)[^4] A szolgáltatónak biztosítania kell a kedvezményes díjazású szolgáltatás, a díjmentes szolgáltatás, az emelt díjas szolgáltatás (SHS = 90, 91), valamint a nomadikus telefonszolgáltatás előfizetői számainak hordozhatóságát, e rendeletnek megfelelően.
+(3)[^4] A szolgáltatónak biztosítania kell a , a díjmentes szolgáltatás, az emelt díjas szolgáltatás (SHS = 90, 91), valamint a nomadikus telefonszolgáltatás előfizetői számainak hordozhatóságát, e rendeletnek megfelelően.
 
 (4) A helyhez kötött telefonszolgáltatást nyújtó szolgáltató lehetővé teheti az előfizetői szám megtartását előfizetője kérésére a számozási körzeten belül az igénybevétel helyének megváltoztatása illetve a szolgáltatás nyújtás technológiájának megváltozása esetén.
 
@@ -42,5 +42,5 @@ c) postai cím.
 
 (13) Az átvevő szolgáltató a számhordozás kezdeményezésekor az előfizető részére ideiglenes számot biztosíthat.
 
-[^4]: A 3. § (3) bekezdése az 1/2016. (I. 15.) NMHH rendelet 11. §-ával megállapított szöveg.
+[^4]: A 3. § (3) bekezdése az 1/2016. (I. 15.) NMHH rendelet 11. §-ával megállapított, a 19. § (2) bekezdése szerint módosított szöveg.
 [^5]: A 3. § (8) bekezdése a 13/2012. (IX. 28.) NMHH rendelet 1. § (1) bekezdésével megállapított szöveg.
