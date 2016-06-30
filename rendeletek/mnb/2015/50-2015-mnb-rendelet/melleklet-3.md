@@ -308,7 +308,7 @@
 
 ## 8. Eljárás nemleges adatszolgáltatás esetén
 
-## Amennyiben az adott tárgyidőszakra valamely adatszolgáltatás egyetlen táblájában sincs jelentendő adat, akkor az adatszolgáltatónak adatszolgáltatási kötelezettségét – e rendelet eltérő rendelkezése hiányában – nemleges jelentés beküldésével kell teljesítenie. Az adatszolgáltató a nemleges jelentést az adott adatszolgáltatásra irányadó, az 1. mellékletben meghatározott gyakorisággal és határidőre, az I. B. 4. pontban, továbbá a 3. melléklet 3. pontja szerinti, az MNB honlapján közzétett technikai segédletben foglaltaknak megfelelően köteles beküldeni.
+## Amennyiben az adott tárgyidőszakra valamely adatszolgáltatás egyetlen táblájában sincs jelentendő adat, akkor az adatszolgáltatónak adatszolgáltatási kötelezettségét – e rendelet eltérő rendelkezése hiányában – nemleges jelentés beküldésével kell teljesítenie. Az adatszolgáltató a nemleges jelentést az adott adatszolgáltatásra irányadó, az 1. mellékletben meghatározott gyakorisággal és határidőre, az I. B. 3.2. és 3.3. pontban, továbbá a 3. melléklet 3. pontja szerinti, az MNB honlapján közzétett technikai segédletben foglaltaknak megfelelően köteles beküldeni.
 
 ## F. Fogalmak
 
@@ -772,7 +772,7 @@
 
 ## II. A SZOLGÁLTATANDÓ INFORMÁCIÓKHOZ KAPCSOLÓDÓ TÁBLÁK ÉS AZ AZOK KITÖLTÉSÉRE VONATKOZÓ RENDELKEZÉSEK
 
-## 20152C20000050_9
+## 20152C20000050_10
 
 3. melléklet a 50/2015. (XII. 9.) MNB rendelethez[^6]
 
