@@ -44,7 +44,7 @@ l) a polgári peres eljárás elektronikus beadványai űrlapjának adatait, tar
 
 m) az ügyész polgári eljárásbeli részvételével kapcsolatos költség előlegezésének és viselésének részletes szabályait az államháztartásért és az állami vagyon felügyeletéért felelős miniszterrel egyetértésben rendeletben szabályozza,
 
-n) a bíróságokkal való elektronikus kapcsolattartás és az elektronikus bírósági iratkezelés részletes szabályait rendeletben állapítsa meg.
+n) az elektronikus bírósági iratkezelés részletes szabályait rendeletben állapítsa meg.
 
 (5)
 

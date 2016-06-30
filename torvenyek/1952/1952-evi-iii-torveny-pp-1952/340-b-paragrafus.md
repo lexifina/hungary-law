@@ -8,9 +8,9 @@
 
 (4) Az elsőfokú közigazgatási határozatot hozó szerv köteles gondoskodni
 
-a) a felülvizsgálni kért határozat alapjául szolgáló ügy iratainak digitalizálásáról, ha a keresetlevél elektronikusan került előterjesztésre,
+a)
 
-b) a hozzá benyújtott keresetlevél és a mellékleteit képező papír alapú okiratok digitalizálásáról, valamint a papír alapú okiratok megőrzéséről, továbbá a felülvizsgálni kért határozat alapjául szolgáló ügy iratainak digitalizálásáról, ha a keresetlevél papír alapon került előterjesztésre.
+b) a hozzá benyújtott keresetlevél és a mellékleteit képező papír alapú okiratok digitalizálásáról, valamint a papír alapú okiratok megőrzéséről, ha a keresetlevél papír alapon került előterjesztésre.
 
 (5) A bíróság a felperessel való első kapcsolatfelvétel során papír alapon kézbesít. A kézbesítéssel egyidejűleg a bíróság felhívja a felperest arra, hogy ha elektronikus útra kötelezett, beadványait, okirati bizonyítékait kizárólag elektronikus úton nyújthatja be, és tájékoztatja a nem elektronikus úton történő benyújtás jogkövetkezményeiről.
 
