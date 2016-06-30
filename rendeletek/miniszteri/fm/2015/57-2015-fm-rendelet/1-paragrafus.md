@@ -36,4 +36,8 @@ c) amelynek gyártásától a támogatási kérelem benyújtásáig két évnél
 
 11. üzembe helyezés: a gépekről és az 1995/16/EK irányelv módosításáról szóló, 2006. május 17-i 2006/42/EK európai parlamenti és tanácsi irányelv 2. cikk k) pontjának megfelelő üzembe helyezés;
 
-12. üzemeltetési hely: a gép, technológiai berendezés üzemeltetési, vagy hűtőtérrel rendelkező tehergépjármű tárolási helye, amelyet az MVH-hoz bejelentettek.
+12. üzemeltetési hely: a gép, technológiai berendezés üzemeltetési, vagy hűtőtérrel rendelkező tehergépjármű tárolási helye, amelyet az MVH-hoz bejelentettek;
+
+13.[^1] mezőgazdasági termék feldolgozása: mezőgazdasági terméken végrehajtott bármely olyan művelet, amelynek eredményeként keletkező termék szintén mezőgazdasági termék, kivéve a mezőgazdasági üzem által végzett, az állati vagy növényi eredetű termék első eladásának előkészítéséhez szükséges tevékenységeket.
+
+[^1]: Az 1. § 13. pontját a 44/2016. (VI. 29.) FM rendelet 1. §-a iktatta be.
