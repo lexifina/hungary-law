@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-10-20-0
 | 2012-08-28 | 2006-10-20-06.11 | 39/2012. (VIII. 27.) KIM rendelet |
 | 2015-04-01 | 2006-10-20-06.12 | 20/2014. (XII. 23.) IM rendelet |
 | 2016-01-01 | 2006-10-20-06.13 | 43/2015. (XII. 30.) IM rendelet |
+| 2016-06-30 | 2006-10-20-06.14 | 43/2009. (IX. 22.) IRM rendelet |
