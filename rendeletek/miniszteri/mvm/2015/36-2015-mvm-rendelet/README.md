@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-36-20-6
 | --- | --- | --- |
 | 2015-07-23 | 2015-36-20-6N.1 | 36/2015. (VII. 22.) MvM rendelet |
 | 2015-07-24 | 2015-36-20-6N.2 | 2010: CXXX. törvény |
+| 2016-06-30 | 2015-36-20-6N.3 | 18/2016. (VI. 29.) MvM rendelet |
