@@ -24,7 +24,7 @@ e)[^13] a 135 illetve 136 kezdőszámú számtartományokban az elektronikus hí
 
 f)[^14] a 116, valamint a 137 kezdőszámú számtartományban az elektronikus hírközlési szolgáltatók által elszámolható legmagasabb hívásköltséget,
 
-g)[^15] az emelt díjas, díjkorlátos szolgáltatás, valamint a kedvezményes díjazású szolgáltatás igénybevétele esetén a hívó fél által fizetendő legmagasabb díjat,
+g)[^15] az emelt díjas, díjkorlátos szolgáltatás igénybevétele esetén a hívó fél által fizetendő legmagasabb díjat,
 
 h)[^16] az egyes földrajzi számozási területekhez tartozó települések felsorolását.
 
@@ -41,7 +41,7 @@ h)[^16] az egyes földrajzi számozási területekhez tartozó települések fel
 [^12]: A 3. § (3) bekezdés c) pontja az 1/2012. (I. 3.) NMHH rendelet 5. § (1) bekezdése szerint módosított szöveg.
 [^13]: A 3. § (3) bekezdés e) pontja az 1/2012. (I. 3.) NMHH rendelet 5. § (1) bekezdése szerint módosított szöveg.
 [^14]: A 3. § (3) bekezdés f) pontját az 1/2012. (I. 3.) NMHH rendelet 1. § (3) bekezdése iktatta be, szövege a 17/2013. (X. 14.) NMHH rendelet 7. §-a szerint módosított szöveg.
-[^15]: A 3. § (3) bekezdés g) pontját az 1/2012. (I. 3.) NMHH rendelet 1. § (3) bekezdése iktatta be, szövege a 17/2013. (X. 14.) NMHH rendelet 7. §-a szerint módosított szöveg.
+[^15]: A 3. § (3) bekezdés g) pontját az 1/2012. (I. 3.) NMHH rendelet 1. § (3) bekezdése iktatta be, szövege az 1/2016. (I. 15.) NMHH rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^16]: A 3. § (3) bekezdés h) pontját az 1/2012. (I. 3.) NMHH rendelet 1. § (3) bekezdése iktatta be.
 [^17]: A 3. § (4) bekezdése az 1/2012. (I. 3.) NMHH rendelet 6. §-a szerint módosított szöveg.
 [^18]: A 3. § (6) bekezdését a 17/2013. (X. 14.) NMHH rendelet 2. §-a iktatta be.

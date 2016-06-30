@@ -8,7 +8,7 @@
 
 ## A mobil hálózati kód kijelölését és a visszavonását a hatóság bejelenti a Nemzetközi Távközlési Egyesület (International Telecommunication Union, a továbbiakban: ITU) ITU TSB igazgatójának.
 
-## 1.2.[^72] Azonosító használat
+## 1.2.[^73] Azonosító használat
 
 ## Mobil hálózati kód jelölhető ki azon szolgáltatók számára, amelyeket a hatóság mobil rádiótelefon-szolgáltatás nyújtására az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásba bejegyzett, valamint azon vállalkozás számára, amelyet a Kormány GSM-R rendszer működtetésére és a szolgáltatás nyújtására kijelölt.
 
@@ -26,4 +26,4 @@
 
 3. melléklet a 2/2011. (IX. 26.) NMHH rendelethez
 
-[^72]: A 2. melléklet 1.2. pontja az 1/2012. (I. 3.) NMHH rendelet 4. § (7) bekezdésével megállapított, az 1/2016. (I. 15.) NMHH rendelet 6. § b) pontja szerint módosított szöveg.
+[^73]: A 2. melléklet 1.2. pontja az 1/2012. (I. 3.) NMHH rendelet 4. § (7) bekezdésével megállapított, az 1/2016. (I. 15.) NMHH rendelet 6. § b) pontja szerint módosított szöveg.

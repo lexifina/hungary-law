@@ -22,12 +22,13 @@ d) a számhasználó által a szerződés tárgyát képező hívószámon vagy 
 
 e) a számhasználó által a szerződés tárgyát képező hívószámon vagy hívószámokon nyújtani kívánt szolgáltatás igénybevételének módját (hanghívás, üzenetküldés);
 
-f) a jelen rendelet 1. mellékletének 2.7 és 2.8 pontja szerinti szolgáltatások esetén a szerződés tárgyát képező hívószám vagy hívószámok hívásának díját;
+f)[^52] a jelen rendelet 1. mellékletének 2.8 pontja szerinti szolgáltatások esetén a szerződés tárgyát képező hívószám vagy hívószámok hívásának díját;
 
-g)[^52] amennyiben a számhasználó a szerződés tárgyát képező hívószámon, vagy hívószámokon emelt díjas szolgáltatást kíván nyújtani, a 16/B. – 16/E. §-aiban meghatározott kötelező tartalmi elemeket.
+g)[^53] amennyiben a számhasználó a szerződés tárgyát képező hívószámon, vagy hívószámokon emelt díjas szolgáltatást kíván nyújtani, a 16/B. – 16/E. §-aiban meghatározott kötelező tartalmi elemeket.
 
 (3) Amennyiben a számhasználati jogviszony tárgyát képező azonosító használatát a jelen rendelet alapján a kijelölési engedély jogosultja felfüggeszti, és a számhasználó a felfüggesztésre okot adó körülményt 30 napon belül nem szünteti meg, a kijelölési engedély jogosultja a számhasználati szerződést rendkívüli felmondással 15 napos felmondási idővel felmondhatja.
 
 [^50]: A 16/A. §-t megelőző alcímet az 1/2012. (I. 3.) NMHH rendelet 2. § (1) bekezdése iktatta be.
 [^51]: A 16/A. §-t az 1/2012. (I. 3.) NMHH rendelet 2. § (1) bekezdése iktatta be.
-[^52]: A 16/A. § (2) bekezdés g) pontja a 17/2013. (X. 14.) NMHH rendelet 8. §-a szerint módosított szöveg.
+[^52]: A 16/A. § (2) bekezdés f) pontja az 1/2016. (I. 15.) NMHH rendelet 19. § (2) bekezdése szerint módosított szöveg.
+[^53]: A 16/A. § (2) bekezdés g) pontja a 17/2013. (X. 14.) NMHH rendelet 8. §-a szerint módosított szöveg.

@@ -64,15 +64,15 @@
 
 ## A kijelölési engedély jogosultja jogosult a számára kijelölt számmezőből – a hordozott számok kivételével – az előfizetői számot meghatározni és a szám használatára az előfizetőt az előfizetői szerződés keretében feljogosítani.
 
-## 1.3. Különleges díjazású szolgáltatások számai (SHS = 40, 80, 90, 91)
+## 1.3. Díjmentes és emelt díjas szolgáltatások számai (SHS = 80, 90, 91)
 
 ## 1.3.1. A gazdálkodás rendje
 
-## A kedvezményes díjazású szolgáltatás, a díjmentes szolgáltatás és az emelt díjas szolgáltatás számait a hatóság 1000-es számmezőkben köti le, jelöli ki és vonja vissza.
+## A díjmentes szolgáltatás és az emelt díjas szolgáltatás számait a hatóság 1000-es számmezőkben köti le, jelöli ki és vonja vissza.
 
 ## 1.3.2. Számmező használat
 
-## Díjmentes szolgáltatás, kedvezményes díjazású szolgáltatás, és emelt díjas szolgáltatás előfizetői számmező azon szolgáltató számára köthető le és jelölhető ki, amelyet helyhez kötött telefonszolgáltatás vagy mobil rádiótelefon-szolgáltatás vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+## Díjmentes szolgáltatás és emelt díjas szolgáltatás előfizetői számmező azon szolgáltató számára köthető le és jelölhető ki, amelyet helyhez kötött telefonszolgáltatás vagy mobil rádiótelefon-szolgáltatás vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
 ## A kijelölési engedély jogosultja jogosult a számára kijelölt számmezőből – a hordozott számok kivételével – előfizetői számot meghatározni és a szám használatára a számhasználót számhasználati jogviszony keretében feljogosítani.
 
@@ -178,9 +178,9 @@
 
 ## A közzétett adománygyűjtő szám minden olyan elektronikus hírközlési szolgáltató részére kijelölhető, amely rendelkezik a számhoz tartozó szervezet írásbeli meghatalmazásával, gondoskodik a hívószámok elérhetőségéről, és amelyet a hatóság helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus telefonszolgáltatás nyújtására az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
-## 2.7. Különös díjazású országos számok
+## 2.7. Díjmentes szolgáltatás rövid számok
 
-## A 14cd(e) formátumú, díjmentes vagy kedvezményes díjazású országos szám azon szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
+## A 14cd(e) formátumú, díjmentes szolgáltatás rövid szám azon szolgáltató számára jelölhető ki, amelyet helyhez kötött telefonszolgáltatás, vagy mobil rádiótelefon-szolgáltatás, vagy nomadikus telefonszolgáltatás nyújtására a hatóság az elektronikus hírközlési szolgáltatókról vezetett nyilvántartásába bejegyzett.
 
 ## A kijelölési engedély jogosultja a szolgáltatás nyújtásához a szám használatára számhasználót számhasználati jogviszony keretében feljogosíthat.
 
@@ -212,6 +212,6 @@
 
 ## Egy emelt díjas rövid szám több szolgáltatónak is kijelölhető, ha a rövid számon emelt díjas szolgáltatást nyújtó számhasználó a kijelölési engedélyben meghatározott szolgáltatás nyújtására több elektronikus hírközlési szolgáltatóval számhasználati jogviszonyt létesít.
 
-2. melléklet a 2/2011. (IX. 26.) NMHH rendelethez[^71]
+2. melléklet a 2/2011. (IX. 26.) NMHH rendelethez[^72]
 
-[^71]: A 2. melléklet az 1/2012. (I. 3.) NMHH rendelet 4. § (7) bekezdése szerint módosított szöveg.
+[^72]: A 2. melléklet az 1/2012. (I. 3.) NMHH rendelet 4. § (7) bekezdése szerint módosított szöveg.
