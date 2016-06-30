@@ -4,7 +4,8 @@
 
 1. § (1)[^1]
 
-(2)[^2]
+(2) Az R1 3. § (3) bekezdés g) pontja helyébe a következő rendelkezés lép:
+
+(A hatóság honlapján közzéteszi:)
 
 [^1]: Az 1. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. § (2) bekezdése a 17. § (2) bekezdése alapján 2016. június 30-án lép hatályba.
