@@ -4,4 +4,6 @@
 
 11. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) Hatályát veszti a népszavazás kezdeményezése során a választási irodák hatáskörébe tartozó feladatokról szóló 37/2013. (XII. 30.) KIM rendelet.
+(2)[^1]
+
+[^1]: A 11. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
