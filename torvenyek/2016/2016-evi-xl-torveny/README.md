@@ -1,0 +1,7 @@
+# 2016. évi XL. törvény a polgári perrendtartásról szóló 1952. évi III. törvény, valamint az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-40-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2016-06-30 | 2016. évi XL. törvény | 2016-40-00-00.0 (közlönyállapot) |
