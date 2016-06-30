@@ -150,10 +150,10 @@
 
 ## Az értékmódosító tényezők értékmódosító hatása a fajlagos alapérték 30%-os mértékét csak kivételes esetben, legfeljebb az alapérték 50%-ával haladhatja meg. Ilyenkor az értékelőt indokolási kötelezettség terheli.
 
-2. számú melléklet a 25/1997. (VIII. 1.) PM rendelethez[^17]
+2. számú melléklet a 25/1997. (VIII. 1.) PM rendelethez[^20]
 
 ## Hozamszámításon alapuló értékelési módszer
 
 A hozamszámításon alapuló értékelés az ingatlan jövőbeni hasznainak és az ezek megszerzése érdekében felmerülő kiadások különbségéből (tiszta jövedelmek) vezeti le az értéket. Az érték megállapítása azon az elven alapszik, hogy bármely eszköz értéke annyi, mint a belőle származó tiszta jövedelmek jelenértéke. A hozamszámítás lépései összefoglalva:
 
-[^17]: A 2. számú melléklet a 26/2005. (VIII. 11.) PM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 5. §-ának (3) bekezdése alapján a rendelkezést a jelzálog-hitelintézet választása szerint alkalmazni lehet a 2005. november 9. napján folyamatban lévő értékelésekre is.
+[^20]: A 2. számú melléklet a 26/2005. (VIII. 11.) PM rendelet 4. §-ával megállapított szöveg, e módosító rendelet 5. §-ának (3) bekezdése alapján a rendelkezést a jelzálog-hitelintézet választása szerint alkalmazni lehet a 2005. november 9. napján folyamatban lévő értékelésekre is.
