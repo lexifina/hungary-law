@@ -1,0 +1,1 @@
+## 23. § A szolgálati viszony megszüntetésére irányuló javaslathoz – ha ezt fegyelmi okból, méltatlanságból vagy bírósági határozat alapján kezdeményezik – csatolni kell a fegyelmi eljárást lezáró határozat, a méltatlanságot kimondó határozat vagy a bírósági határozat egy példányát is.

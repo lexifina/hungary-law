@@ -1,0 +1,7 @@
+15. § (1) Az áthelyezési kérelmet a hivatásos állomány tagja a fogadó szervezeti egység állományilletékes parancsnokának címezve, szolgálati úton terjeszti elő.
+
+(2) Az átadó szervezeti egység állományilletékes parancsnoka a kérelem megküldésével egyidejűleg jelzi a fogadó szervezeti egység állományilletékes parancsnoka részére, ha az áthelyezés veszélyezteti a szolgálati feladatok folyamatos és rendeltetésszerű ellátását.
+
+(3) A fogadó szervezeti egység állományilletékes parancsnoka az áthelyezési kérelem kézhezvételétől számított tizenöt napon belül nyilatkozik az átvételről vagy annak elutasításáról. A fogadó szervezeti egység állományilletékes parancsnoka a várható szolgálati beosztásba helyezésről tájékoztatja az átadó szervezeti egység állományilletékes parancsnokát.
+
+(4) A Hszt. 57. § (1) bekezdésében foglaltak szerinti, az áthelyezés szolgálati érdekből – legfeljebb négy hónapra – történő elhalasztása esetén az átadó szervezeti egység állományilletékes parancsnoka az elhalasztásról szóló döntésről a szolgálati érdeket alátámasztó indokok megjelölésével írásban tájékoztatja a hivatásos állomány tagját és a fogadó szervezeti egység állományilletékes parancsnokát. Ha az áthelyezést a hivatásos állomány tagja kérte, a halasztás időtartamát az áthelyezésre irányuló kérelemnek a szolgálati elöljáróhoz történő benyújtásától, ha az áthelyezést a fogadó szervezeti egység kérte, a fogadó szervezeti egység megkeresésének az átadó szervezeti egységhez érkezésétől kell számítani.
