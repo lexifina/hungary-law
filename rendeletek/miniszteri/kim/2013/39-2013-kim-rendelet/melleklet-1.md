@@ -8,11 +8,11 @@
 
 a) 1 darab asztali PC (min. dual core processor, CINT2006 Rates baseline min. 60 pont, CFP2006 Rates baseline min. 70 pont, minimum 4 GB memória, minimum 250 GB HDD vagy ezzel egyenértékű háttértár, DVD olvasó),
 
-b) MS Windows XP vagy későbbi verzió, vagy LINUX operációs rendszer,
+b)[^14] MS Windows 7 vagy későbbi verzió, vagy LINUX operációs rendszer,
 
 c) 1 darab nagyméretű LCD monitor (minimum 26”),
 
-d)[^8] 1 darab legalább 9.5”-os táblaszámítógép (több profilt kezelni képes operációs rendszer, az ügyintéző és az ügyfél számára is kényelmes használatot biztosító lopás elleni rögzítés),
+d)[^15] 1 darab elektronikus szolgáltatások nyújtását lehetővé tevő táblaszámítógép vagy azzal egyenértékű informatikai eszköz (a továbbiakban együtt: táblaszámítógép) (legalább 9.5”-os érintő képernyő, az ügyintéző és az ügyfél számára is kényelmes használatot biztosító lopás elleni rögzítés),
 
 e) IVÜSZ szolgáltatáshoz web-kamera és headset.
 
@@ -20,11 +20,11 @@ e) IVÜSZ szolgáltatáshoz web-kamera és headset.
 
 a) 1 darab asztali PC (min. dual core processor, CINT2006 Rates baseline min. 60 pont, CFP2006 Rates baseline min. 70 pont, minimum 4 GB memória, minimum 250 GB HDD vagy ezzel egyenértékű háttértár, DVD olvasó),
 
-b) MS Windows XP vagy későbbi verzió, vagy LINUX operációs rendszer.
+b)[^16] MS Windows 7 vagy későbbi verzió, vagy LINUX operációs rendszer,
 
 3. Munkahely páronként:
 
-a)[^9] legalább minden két, azonos virtuális hálózatba tartozó, közvetlen ügyfélkiszolgálásba bevont munkahelyhez scannelést biztosító multifunkciós nyomtató (másolás, adf, duplex nyomtatás, hálózati nyomtatás, maximális méretek, szélesség × mélység: 50 cm × 50 cm, MS Windows és LINUX operációs rendszer támogatás).
+a)[^17] legalább minden két, azonos virtuális hálózatba tartozó, közvetlen ügyfélkiszolgálásba bevont munkahelyhez digitalizálást (szkennelést) biztosító multifunkciós nyomtató (másolás, adf, duplex nyomtatás, hálózati nyomtatás, maximális méretek, szélesség × mélység: 50 cm × 50 cm, MS Windows és LINUX operációs rendszer támogatás).
 
 4. A kormányablak irodára:
 
@@ -40,66 +40,72 @@ e) NTG hálózaton belüli zárt, IP telefon rendszer és készülékek,
 
 f) védett WIFI hálózat legalább az ügyfélfogadást végző munkahelyeket lefedve (beleértve a potenciálisan ügyfélfogadásra bevont helyeket is),
 
-g)[^10] legalább 1 darab A3 formátumot előállítani képes hálózati multifunkciós nyomtató, MS Windows és LINUX operációs rendszer támogatással,
+g)[^18] legalább 1 darab A3 formátumot előállítani képes hálózati multifunkciós nyomtató, MS Windows és LINUX operációs rendszer támogatással,
 
 h) ügyfélhívó rendszer (a legalább 5 kiszolgáló munkahellyel rendelkező kormányablak esetében),
 
-i)[^11] bankkártyás fizetést lehetővé tevő POS terminál és PIN-pad az okmánykiadással összefüggő feladatokat végző munkahelyek legalább 90%-ánál, és legalább egy okmánykiadáshoz nem kapcsolódó ügyfélkiszolgálást végző munkahelyen.
+i)[^19] bankkártyás fizetést lehetővé tevő POS terminál és PIN-pad az okmánykiadással összefüggő feladatokat végző munkahelyek legalább 90%-ánál, és legalább egy okmánykiadáshoz nem kapcsolódó ügyfélkiszolgálást végző munkahelyen,
 
-5. Informatikai szolgáltatások, amelyek elérését az okmánykiadással összefüggő virtuális hálózatba kötött gépek kivételével minden munkaállomáson és táblaszámítógépen elérhetővé kell tenni:
+j)[^20] legalább egy okmánykiadáshoz nem kapcsolódó ügyfélkiszolgálást végző munkahelyen adathordozóról történő adatfeltöltési elérhetőség biztosítása az Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszer (ÉTDR) felé,
 
-a) internet elérés kereső szolgáltatás használatához,
+k)[^21] a kormányablakok számára jogszabályban előírt feladatok elvégzéséhez szükséges szakrendszerek elérése az NTG hálózaton.
 
-b) egységes kormányhivatali iratkezelő, illetve munkafolyamat kezelőrendszer elérése,
+5.[^22] Informatikai szolgáltatások, amelyek elérését az okmánykiadással összefüggő virtuális hálózatba kötött gépek kivételével minden munkaállomáson elérhetővé kell tenni:
 
-c) tudástár,
+a) internetelérés egyes szakrendszeri funkciók használatához nyomtatási lehetőség biztosításával,
 
-d) ügyfélhívó,
+b) hozzáférés internetes kereső szolgáltatáshoz,
 
-e) központi időpontfoglaló.
+c) kormányhivatali egységes levelező rendszer,
 
-6. Informatikai szolgáltatások, amelyek elérését az okmánykiadással összefüggő virtuális hálózatba kötött gépek kivételével minden munkaállomáson elérhetővé kell tenni:
+d) kormányhivatali egységes csoportmunka támogató rendszer (ha van),
 
-a) internet elérés egyes szakrendszeri funkciók eléréséhez és kereső szolgáltatás használatához,
+e) kormányhivatali egységes intranet (ha van),
 
-b) kormányhivatali egységes levelező rendszer,
+f) irodai programcsomag (szövegszerkesztő, táblázatkezelő),
 
-c) kormányhivatali csoportmunka támogató rendszer,
+g) munkafolyamat kezelő (ügyintézői felület),
 
-d) kormányhivatali intranet (ha van),
+h) interaktív virtuális ügyfélszolgálat (IVÜSZ) szolgáltatás,
 
-e) irodai programcsomag (szövegszerkesztő, táblázatkezelő),
+i) az Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszer (ÉTDR) elérése,
 
-f) ügyintézői felület,
+j) kormányhivatali egységes iratkezelő rendszer,
 
-g) interaktív virtuális ügyfélszolgálat (IVÜSZ) szolgáltatás,
+k) tudástár,
 
-h)[^12] az Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszer (ÉTDR) elérése adathordozóról történő adatfeltöltési elérhetőség biztosításával,
+l) ügyfélhívó,
 
-i)[^13] kormányhivatali pénzügyi-gazdálkodási rendszer.
+m) központi időpontfoglaló,
 
-7. Informatikai szolgáltatások, amelyek elérését a munkaállomáshoz tartozó táblaszámítógépen elérhetővé kell tenni:
+n) elektronikus dokumentum ügyintéző általi hitelesítési lehetősége (azonosításra visszavezetve vagy egyéb megoldással).
 
-a)[^14] irat megtekintési, AVDH irathitelesítési szolgáltatás elérése (csak ügyintézői munkaállomás felől kezdeményezhető módon),
+6.[^23] Informatikai szolgáltatások, amelyek elérését az okmánykiadással összefüggő virtuális magánhálózatba (VPN) kötött gépekhez rendelt táblaszámítógépen elérhetővé kell tenni:
 
-b) ügyfél-elégedettség mérés,
+a) kormányhivatali és járási hivatali iratkezelő,
 
-c)[^15]
+b) tudástár,
 
-d)[^16] ÁNYK űrlap kitöltésének és benyújtásának biztosítása,
+c) ügyfélhívó,
 
-e)[^17] az Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszer (ÉTDR) elérése (adathordozóról történő dokumentum feltöltési szolgáltatások kivételével),
+d) központi időpontfoglaló.
 
-f)[^18] SINOSZ KONTAKT videó jelnyelvi tolmácsszolgálat rendszer.
+7.[^24] Informatikai szolgáltatások, amelyek elérését az okmánykiadással összefüggő virtuális magánhálózatba (VPN) kötött gépek kivételével a munkaállomáshoz tartozó táblaszámítógépen elérhetővé kell tenni:
 
-[^8]: Az 1. melléklet 1. pont d) alpontja a 11/2015. (II. 27.) MvM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^9]: Az 1. melléklet 3. pont a) alpontja a 11/2015. (II. 27.) MvM rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^10]: Az 1. melléklet 4. pont g) alpontja a 11/2015. (II. 27.) MvM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^11]: Az 1. melléklet 4. pont i) alpontját a 11/2015. (II. 27.) MvM rendelet 2. § (4) bekezdése iktatta be.
-[^12]: Az 1. melléklet 6. pont h) alpontját a 11/2015. (II. 27.) MvM rendelet 2. § (5) bekezdése iktatta be.
-[^13]: Az 1. melléklet 6. pont i) alpontját a 11/2015. (II. 27.) MvM rendelet 2. § (5) bekezdése iktatta be.
-[^14]: Az 1. melléklet 7. pont a) alpontja a 11/2015. (II. 27.) MvM rendelet 2. § (6) bekezdésével megállapított szöveg.
-[^15]: Az 1. melléklet 7. pont c) alpontját a 11/2015. (II. 27.) MvM rendelet 3. § (1) bekezdése hatályon kívül helyezte.
-[^16]: Az 1. melléklet 7. pont d) alpontját a 11/2015. (II. 27.) MvM rendelet 2. § (7) bekezdése iktatta be.
-[^17]: Az 1. melléklet 7. pont e) alpontját a 11/2015. (II. 27.) MvM rendelet 2. § (7) bekezdése iktatta be.
-[^18]: Az 1. melléklet 7. pont f) alpontját a 11/2015. (II. 27.) MvM rendelet 2. § (7) bekezdése iktatta be.
+a) irat megtekintési, AVDH irathitelesítési szolgáltatás elérése (csak ügyintézői munkaállomás felől kezdeményezhető módon),
+
+b) ügyfélelégedettség-mérés,
+
+c) az Építésügyi hatósági engedélyezési eljárásokat Támogató elektronikus Dokumentációs Rendszer (ÉTDR) elérése (adathordozóról történő dokumentum feltöltési szolgáltatások kivételével).
+
+[^14]: Az 1. melléklet 1. pont b) alpontja a 19/2016. (VI. 29.) MvM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^15]: Az 1. melléklet 1. pont d) alpontja a 19/2016. (VI. 29.) MvM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^16]: Az 1. melléklet 2. pont b) alpontja a 19/2016. (VI. 29.) MvM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^17]: Az 1. melléklet 3. pont a) alpontja a 11/2015. (II. 27.) MvM rendelet 2. § (2) bekezdésével megállapított, a 19/2016. (VI. 29.) MvM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^18]: Az 1. melléklet 4. pont g) alpontja a 11/2015. (II. 27.) MvM rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^19]: Az 1. melléklet 4. pont i) alpontját a 11/2015. (II. 27.) MvM rendelet 2. § (4) bekezdése iktatta be.
+[^20]: Az 1. melléklet 4. pont j) pontját a 19/2016. (VI. 29.) MvM rendelet 5. § (1) bekezdése iktatta be.
+[^21]: Az 1. melléklet 4. pont k) pontját a 19/2016. (VI. 29.) MvM rendelet 5. § (1) bekezdése iktatta be.
+[^22]: Az 1. melléklet 5. pontja a 19/2016. (VI. 29.) MvM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^23]: Az 1. melléklet 6. pontja a 19/2016. (VI. 29.) MvM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^24]: Az 1. melléklet 7. pontja a 19/2016. (VI. 29.) MvM rendelet 5. § (1) bekezdésével megállapított szöveg.

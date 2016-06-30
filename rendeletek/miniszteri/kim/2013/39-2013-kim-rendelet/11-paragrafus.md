@@ -1,31 +1,14 @@
 ## 6. Záró rendelkezések
 
-11. § (1)[^3] A kormányablaknak a rendeletben foglalt feltételeknek való megfelelést a (2)–(5) bekezdésben meghatározott kivételekkel legkésőbb 2014. szeptember 30-ig kell teljesítenie.
+11. § (1)[^10] A kormányablaknak a rendeletben foglalt feltételeknek való megfelelést a (2)–(5) bekezdésben meghatározott kivételekkel legkésőbb 2014. szeptember 30-ig kell teljesítenie.
 
-(2) A kormányablaknak legkésőbb 2014. december 31-re kell teljesítenie az alábbi követelményeknek való megfelelést:
+(2)–(3)[^11]
 
-a)[^4] 1. melléklet 4. f) pontban előírtak
+(4)[^12] A kihelyezett kormányablak szolgáltatást biztosító települési ügysegédi szolgálatnak – az (5) bekezdés szerinti kivétellel – a 4. melléklet szerinti követelményt legkésőbb 2016. december 31. napjáig kell teljesíteni.
 
-b) 1. melléklet 5. b) pontban előírtak
+(5)[^13] A kihelyezett kormányablak szolgáltatást biztosító települési ügysegédi szolgálatnak a 4. melléklet 2. pont c) alpontja szerinti követelményt legkésőbb 2017. december 31. napjáig kell teljesíteni.
 
-c) 1. melléklet 6. b) pontban előírtak
-
-d) 1. melléklet 6. c) pontban előírtak
-
-e)[^5]
-
-(3) A kormányablaknak legkésőbb 2015. december 31-re kell teljesítenie az alábbi követelményeknek való megfelelést:
-
-a) 1. melléklet 6. g) pontban előírtak
-
-b) 1. melléklet 7. c) pontban előírtak
-
-(4)[^6] A kormányablaknak a 4. melléklet 1.c), a 4.a), a 4.b), a 4.d), a 4.g), a 4.h) és 4.i) pontja szerinti követelményt legkésőbb 2015. december 31-ig kell teljesíteni.
-
-(5)[^7] A kormányablaknak a 4. melléklet 2.c) pontja szerinti követelményt legkésőbb 2016. december 31-ig kell teljesíteni.
-
-[^3]: A 11. § (1) bekezdése a 18/2015. (III. 31.) MvM rendelet 3. § (3) bekezdése szerint módosított szöveg.
-[^4]: A 11. § (2) bekezdés a) pontja a 8/2014. (II. 12.) KIM rendelet 1. § (2) bekezdése szerint módosított szöveg.
-[^5]: A 11. § (2) bekezdés e) pontját a 8/2014. (II. 12.) KIM rendelet 1. § (3) bekezdés a) pontja hatályon kívül helyezte.
-[^6]: A 11. § (4) bekezdését a 18/2015. (III. 31.) MvM rendelet 3. § (2) bekezdése iktatta be.
-[^7]: A 11. § (5) bekezdését a 18/2015. (III. 31.) MvM rendelet 3. § (2) bekezdése iktatta be.
+[^10]: A 11. § (1) bekezdése a 18/2015. (III. 31.) MvM rendelet 3. § (3) bekezdése szerint módosított szöveg.
+[^11]: A 11. § (2)–(3) bekezdését a 19/2016. (VI. 29.) MvM rendelet 6. §-a hatályon kívül helyezte.
+[^12]: A 11. § (4) bekezdését a 18/2015. (III. 31.) MvM rendelet 3. § (2) bekezdése iktatta be, szövege a 19/2016. (VI. 29.) MvM rendelet 4. §-ával megállapított szöveg.
+[^13]: A 11. § (5) bekezdését a 18/2015. (III. 31.) MvM rendelet 3. § (2) bekezdése iktatta be, szövege a 19/2016. (VI. 29.) MvM rendelet 4. §-ával megállapított szöveg.
