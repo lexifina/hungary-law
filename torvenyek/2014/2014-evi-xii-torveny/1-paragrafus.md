@@ -1,1 +1,0 @@
-1. § A Magyar Művészeti Akadémiáról szóló 2011. évi CIX. törvény módosításáról szóló 2014. évi X. törvény (a továbbiakban: Módtv.) – a Módtv. 23. § (1) bekezdésétől eltérően, a Módtv. 23. § (2) és (3) bekezdésében meghatározott kivétellel – 2014. március 1-jén lép hatályba.
