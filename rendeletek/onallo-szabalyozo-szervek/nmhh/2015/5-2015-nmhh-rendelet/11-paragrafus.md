@@ -1,5 +1,6 @@
-## 10. §[^1]
+## 10. §[^2]
 
-11. § A 10. § 2016. június 30. napján hatályát veszti.
+11. §[^3]
 
-[^1]: A 10. § a 11. § alapján hatályát vesztette.
+[^2]: A 10. § a 11. § alapján hatályát vesztette.
+[^3]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
