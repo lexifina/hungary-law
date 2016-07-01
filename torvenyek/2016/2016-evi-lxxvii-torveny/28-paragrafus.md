@@ -1,0 +1,3 @@
+28. § (1) A Ptké. 49. § (3) bekezdésének az a rendelkezése, amely szerint a Ptk. hatálybalépése előtt kötött zálogszerződéssel létrejött jelzálogjogot a zálogjogosult a Ptk. hatálybalépését követően a különvált zálogjogra vonatkozó szabályok szerint a biztosított követelés nélkül is átruházhatja, 2016. október 1. napjától nem alkalmazható.
+
+(2) A 2016. október 1. napját megelőzően kötött ingatlanra vonatkozó jelzálogszerződéssel alapított jelzálogjog és az említett időpontot megelőzően – jelzálogjognak biztosított követelés nélküli átruházásával – létrejött különvált zálogjog a 29. § szerint átalakításos önálló zálogjoggá alakítható át.
