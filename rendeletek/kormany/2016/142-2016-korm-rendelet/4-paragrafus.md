@@ -1,0 +1,1 @@
+## „(3) Az értékesítés szándéka és ténye a Szolgálatok főigazgatójának kezdeményezése alapján a miniszter előzetes jóváhagyásával hozható nyilvánosságra, ha a Szolgálatok a vagyonkezelésükben lévő, feladataik ellátásához feleslegessé vált, az Áhsz. szerinti vagyontárgyakat saját hatáskörben értékesítik.”
