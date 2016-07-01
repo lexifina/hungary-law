@@ -36,23 +36,17 @@ d)[^50]
 
 e)–f)[^51]
 
-g)[^52] a honvédelemért felelős miniszter által vezetett minisztérium,
+g)–j)[^52]
 
-h) az Információs Hivatal,
-
-i)[^53] az Alkotmányvédelmi Hivatal,
-
-j) a Nemzetbiztonsági Szakszolgálat,
-
-k)[^54]
+k)[^53]
 
 l) az Országgyűlés Hivatala.
 
-(5)[^55] Amennyiben a családtámogatási ellátás iránti kérelem benyújtását közvetlenül megelőzően a kérelmező részére vagy ugyanazon gyermekre tekintettel más – a (4) bekezdés szerinti – kifizetőhely folyósít vagy folyósított családtámogatási ellátást, az ügyben keletkezett iratok beszerzése iránt az ONYF Központot kell megkeresni.
+(5)[^54] Amennyiben a családtámogatási ellátás iránti kérelem benyújtását közvetlenül megelőzően a kérelmező részére vagy ugyanazon gyermekre tekintettel más – a (4) bekezdés szerinti – kifizetőhely folyósít vagy folyósított családtámogatási ellátást, az ügyben keletkezett iratok beszerzése iránt az ONYF Központot kell megkeresni.
 
-(6)[^56]
+(6)[^55]
 
-(7)[^57]
+(7)[^56]
 
 [^36]: A 4/A. §-t a 204/2000. (XII. 11.) Korm. rendelet 2.§-a iktatta be, hatályon kívül helyezte a 236/2012. (VIII. 30.) Korm. rendelet 18. § (3) bekezdés a) pontja.
 [^37]: A 4/B. §-t a 321/2006. (XII. 23.) Korm. rendelet 11. §-a iktatta be, szövege a 394/2007. (XII. 27.) Korm. rendelet 2. §-ával megállapított szöveg.
@@ -70,9 +64,8 @@ l) az Országgyűlés Hivatala.
 [^49]: A 4/B. § (4) bekezdés a)–c) pontját a 340/2008. (XII. 30.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
 [^50]: A 4/B. § (4) bekezdés d) pontját a 323/2009. (XII. 29.) Korm. rendelet 14. § (1) bekezdés b) pont ba) alpontja hatályon kívül helyezte.
 [^51]: A 4/B. § (4) bekezdés e)–f) pontját a 340/2008. (XII. 30.) Korm. rendelet 25. § (2) bekezdése hatályon kívül helyezte.
-[^52]: A 4/B. § (4) bekezdés g) pontja a 221/2014. (IX. 4.) Korm. rendelet 191. §-ával megállapított szöveg.
-[^53]: A 4/B. § (4) bekezdés i) pontja a 236/2010. (IX. 13.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
-[^54]: A 4/B. § (4) bekezdés k) pontját a 332/2011. (XII. 29.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
-[^55]: A 4/B. § (5) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés i) pontja szerint módosított szöveg.
-[^56]: A 4/B. § (6) bekezdését a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének c) pontja hatályon kívül helyezte.
-[^57]: A 4/B. § (7) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^52]: A 4/B. § (4) bekezdés g)–j) pontját a 417/2015. (XII. 23.) Korm. rendelet 23. § (2) bekezdése hatályon kívül helyezte.
+[^53]: A 4/B. § (4) bekezdés k) pontját a 332/2011. (XII. 29.) Korm. rendelet 6. § a) pontja hatályon kívül helyezte.
+[^54]: A 4/B. § (5) bekezdése a 176/2009. (VIII. 29.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 36. § (9) bekezdés i) pontja szerint módosított szöveg.
+[^55]: A 4/B. § (6) bekezdését a 176/2009. (VIII. 29.) Korm. rendelet 19. § (4) bekezdésének c) pontja hatályon kívül helyezte.
+[^56]: A 4/B. § (7) bekezdését a 236/2012. (VIII. 30.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
