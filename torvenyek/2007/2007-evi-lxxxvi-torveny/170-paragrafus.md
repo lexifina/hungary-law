@@ -78,7 +78,7 @@
 
 37. a közvilágításra vonatkozó részletes szabályokat, valamint a közvilágítási berendezéseknek az elosztó hálózat tartószerkezetein és létesítményeiben történő elhelyezésével, üzemeltetésével összefüggő kérdéseket rendező, az elosztó hálózati engedélyes és a közvilágításra kötelezett közötti szerződés minimális tartalmi és formai követelményeit,
 
-38. a végső menedékes kijelölésére, tevékenységére, jogaira és kötelezettségeire, valamint feladatai ellátására vonatkozó részletes szabályokat,
+38. a végső menedékes kijelölésére, tevékenységére, jogaira és kötelezettségeire, feladatai ellátására, valamint a korábbi egyetemes szolgáltató vagy villamosenergia-kereskedő működési engedélyében meghatározott jogai gyakorlása korlátozására, az engedély visszavonására, továbbá a fogyasztásmérő-berendezés leolvasására és az elszámolásra vonatkozó részletes szabályokat,
 
 39. a hálózati engedélyesek által készítendő megfelelési program és megfelelési jelentés részletes szabályait, valamint az átviteli rendszerirányítónál működő megfelelési ellenőr szakmai alkalmasságára vonatkozó feltételeket, jogköreire és feladataira vonatkozó részletes szabályokat,
 
@@ -100,7 +100,7 @@
 
 48. a villamosenergia-kereskedő által az átvételi kötelezettség alá eső villamos energia átvétele és megfizetése alóli mentesség céljából az egyetemes szolgáltatásra jogosult felhasználó részére biztosítandó szolgáltatásokat,
 
-49. az elektromos gépjármű töltésére vonatkozó engedélyre, a töltőállomás üzemeltető jogaira és kötelezettségeire, az elektromos gépjármű töltésére, valamint a töltőállomás-üzemeltető és a felhasználó közötti jogviszonyra vonatkozó szabályokat
+49. az elektromos gépjármű töltésére vonatkozó engedélyre, a töltőállomás üzemeltető jogaira és kötelezettségeire, az elektromos gépjármű töltésére, valamint a töltőállomás-üzemeltető és az elektromos gépjármű töltését igénybe vevő közötti jogviszonyra vonatkozó szabályokat
 
 rendeletben állapítsa meg.
 

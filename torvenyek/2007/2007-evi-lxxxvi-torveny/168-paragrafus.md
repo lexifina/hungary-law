@@ -50,7 +50,7 @@ j) az átadó egyetemes szolgáltató engedélyét visszavonó határozat és az
 
 (9) A Hivatal köteles határozatait nyilvánosan közzétenni.
 
-(10) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat, a más engedélyes kijelölési eljárás során hozott határozat kivételével – a határozatot jogosult megváltoztatni.
+(10) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat, a más engedélyes kijelölési eljárás során hozott határozat, továbbá a végső menedékes kijelölési eljárásban hozott határozat kivételével – a határozatot jogosult megváltoztatni.
 
 (11) A Hivatal jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi kérelem.
 
@@ -64,7 +64,7 @@ j) az átadó egyetemes szolgáltató engedélyét visszavonó határozat és az
 
 (15a) Bírósági felülvizsgálat iránti kérelem esetén nincs helye a végrehajtás felfüggesztésének, ha a határozat
 
-a)
+a) végső menedékes kijelölési eljárás során az engedélyes egyes engedélyesi jogait korlátozza, az engedélyét visszavonja vagy végső menedékest jelöl ki,
 
 b) a kiegyenlítő energia meghatározásának módját és elszámolásának feltételeit hagyja jóvá,
 

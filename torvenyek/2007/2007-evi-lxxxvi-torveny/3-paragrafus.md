@@ -24,15 +24,15 @@
 
 7a. Elektromos gépjármű: elektromos erőátviteli rendszerrel felszerelt gépjármű, amelynek meghajtása elsődlegesen villamos motorral történik és a motor a villamos energiát külsőleg újratölthető belső elektromos energiatároló rendszerből nyeri;
 
-7b. Elektromos gépjármű töltése: az elektromos gépjármű energiatárolójának
+7b. Elektromos gépjármű töltése: az elektromos gépjármű energiatárolójának töltése
 
-a) töltése céljából villamos energia értékesítése vagy az energiatároló cseréje az elektromos gépjármű energiatárolójának villamos energiával történő feltöltésére alkalmas töltőállomáson az elektromos gépjármű üzemeltetője vagy használója részére,
+a) vagy az energiatároló cseréje az elektromos gépjármű energiatárolójának villamos energiával történő feltöltésére alkalmas töltőállomáson,
 
-b) töltése a lakossági fogyasztó saját mért felhasználói berendezésén keresztül, amely tevékenység nem irányul gazdasági haszonszerzésre,
+b) a lakossági fogyasztó saját mért felhasználói berendezésén keresztül, amely tevékenység nem irányul gazdasági haszonszerzésre,
 
-c) töltése a nem lakossági felhasználó saját mért felhasználói berendezésén keresztül, ha a tevékenység nem irányul haszonszerzésre,
+c) a nem lakossági felhasználó saját mért felhasználói berendezésén keresztül, ha a tevékenység nem irányul haszonszerzésre,
 
-d) töltése céljából villamos energia értékesítése a felhasználó mért magánvezetékére csatlakozó, az elektromos gépjármű energiatárolójának villamos energiával történő töltésére alkalmas töltőállomáson keresztül;
+d) a felhasználó mért magánvezetékére csatlakozó, az elektromos gépjármű energiatárolójának villamos energiával történő töltésére alkalmas töltőállomáson keresztül;
 
 8. Elosztás: villamos energiának az elosztó hálózatokon történő továbbítása, a felhasználókhoz történő eljuttatása, illetve az ehhez kapcsolódó minden olyan műszaki és gazdasági tevékenység, amely a villamos energia megfelelő minőségű továbbítása érdekében szükséges;
 

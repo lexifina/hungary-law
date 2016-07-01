@@ -10,7 +10,17 @@ a) a hálózati kapacitások esetleges jövőbeni korlátaira hivatkozva, vagy
 
 b) az új csatlakozási pont miatt szükséges, csatlakozási pont közelében történő hálózat fejlesztés járulékos költségei miatt.
 
-(3b) Felhasználó az átviteli hálózatra csak 132 kV-nál nagyobb feszültségszinten csatlakozhat.
+(3b) Felhasználó az átviteli hálózatra csak akkor csatlakozhat, ha a csatlakozás a villamosenergia-ellátás biztonságát, a villamosenergia-szolgáltatás előírt minőségét és az átviteli rendszerirányítást nem veszélyezteti és
+
+a) a csatlakozás feszültségszintje 132 kV-nál nagyobb, vagy
+
+b) 132 kV-os feszültségszintre történő csatlakozás esetén, ha
+
+ba) a felhasználó rendelkezik az átviteli rendszerirányító nyilatkozatával, amely szerint a csatlakozást a hálózatból vételezett teljesítmény nagysága indokolja és az átviteli átalakító- és kapcsolóberendezésben történő csatlakozás költsége alacsonyabb az elosztóhálózatra történő csatlakozás költségénél,
+
+bb) a felhasználó felhasználási helye a csatlakozási pontként szolgáló átviteli átakító- és kapcsolóberendezés közvetlen szomszédságában álló ingatlanon található, valamint
+
+bc) a felhasználás célja a nemzeti adatvagyon körébe tartozó állami nyilvántartások adatfeldolgozásának biztosításáról szóló kormányrendeletben felsorolt nyilvántartás működtetése.
 
 (4) A Hivatal a rendszerhasználó kérelmére felülvizsgálja a csatlakozás megtagadásának jogszerűségét. Amennyiben a csatlakozás megtagadása nem a (2)–(3) bekezdésben meghatározott jogszabályi előírásoknak megfelelően történt, a Hivatal az érintett hálózati engedélyest határozatban kötelezi az átviteli, illetve elosztó hálózathoz való csatlakozás biztosítására.
 
