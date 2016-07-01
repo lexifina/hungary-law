@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-255-20-
 | 2015-09-19 | 2014-255-20-22.2 | 271/2015. (IX. 18.) Korm. rendelet |
 | 2015-12-29 | 2014-255-20-22.3 | 445/2015. (XII. 28.) Korm. rendelet |
 | 2016-06-08 | 2014-255-20-22.4 | 127/2016. (VI. 7.) Korm. rendelet |
+| 2016-07-01 | 2014-255-20-22.5 | 271/2015. (IX. 18.) Korm. rendelet |

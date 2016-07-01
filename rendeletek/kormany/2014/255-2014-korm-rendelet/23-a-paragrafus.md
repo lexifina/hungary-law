@@ -1,4 +1,4 @@
-## 23/A. §[^144] Az Atr. 18. § (2) bekezdés e) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha
+## 23/A. §[^144] Az Atr. 18. § (2) bekezdés d) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha
 
 a) a támogatás összege
 
@@ -16,4 +16,4 @@ meghaladja a 7,5 millió eurónak megfelelő forintösszeget,
 
 b) a támogatás összege az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás esetén kedvezményezettenként és projektenként meghaladja az 500 000 eurónak megfelelő forintösszeget.
 
-[^144]: A 23/A. §-t a 271/2015. (IX. 18.) Korm. rendelet 11. §-a iktatta be, szövege a 127/2016. (VI. 7.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^144]: A 23/A. §-t a 271/2015. (IX. 18.) Korm. rendelet 11. §-a iktatta be, szövege a 127/2016. (VI. 7.) Korm. rendelet 9. §-ával megállapított, nyitó szövegrésze a 177/2016. (VII. 1.) Korm. rendelet 9. §-a szerint módosított szöveg.
