@@ -13,3 +13,7 @@ gyakorol.
 (2) A Hjt. 196. §-ának alkalmazása esetén a HVKF (1) bekezdés c) pontja szerinti egyidejű tájékoztatása kizárt.
 
 (3) A KNBSZ főigazgatójának munkáltatói jogkörét a miniszter magához vonhatja.
+
+(4)[^161] A KNBSZ személyügyi szerve vezetőjének munkáltatói jogköreit a főigazgató magához vonhatja.
+
+[^161]: A 167. § (4) bekezdését a 10/2016. (VI. 29.) HM rendelet 26. §-a iktatta be.

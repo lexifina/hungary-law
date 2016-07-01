@@ -1,4 +1,4 @@
-4. §[^13] (1) Az illetmény megállapítására vonatkozó munkáltatói jogkört az állományilletékes parancsnok gyakorolja.
+4. §[^20] (1) Az illetmény megállapítására vonatkozó munkáltatói jogkört az állományilletékes parancsnok gyakorolja.
 
 (2) Az illetmény-megállapítás munkáltatói jogkörét az állományilletékes honvédelmi szervezet személyügyi szervének vezetője gyakorolja, ha a megállapításra kerülő illetményelemre való jogosultság, illetve annak mértéke, összege törvényben, illetve rendeletben – az állományilletékes parancsnok mérlegelési jogkörétől független módon – meghatározott. E rendelkezés nem alkalmazható a személyügyi szerv vezetője illetményének megállapítására.
 
@@ -18,6 +18,19 @@ e) a Tábori Lelkészi Szolgálat vezetőinek.
 
 (5) A szolgálati viszony megszűnésével, megszüntetésével összefüggő járandóságok megállapításakor az (1)–(3) bekezdésben meghatározottak szerint kell eljárni.
 
-(6) Illetmény-megállapításnak nem minősülő illetményváltozásról szóló értesítés kiadására vonatkozó munkáltatói jogkört az állományilletékes honvédelmi szervezet személyügyi szervének vezetője gyakorolja.
+(6)[^21] Az illetmény-megállapításnak nem minősülő illetményváltozásról szóló értesítés kiadására vonatkozó munkáltatói jogkört
 
-[^13]: A 4. § a 4/2015. (VI. 22.) HM rendelet 2. §-ával megállapított szöveg.
+a) a miniszter gyakorolja a HVKF és a KNBSZ főigazgatója tekintetében,
+
+b) a HVKF gyakorolja a központi személyügyi szerv vezetője tekintetében,
+
+c) a KNBSZ főigazgatója gyakorolja a KNBSZ személyügyi szervének vezetője tekintetében,
+
+d) a központi személyügyi szerv vezetője gyakorolja a (3) bekezdés c)–e) pontja szerinti vezetők tekintetében,
+
+e) az elöljáró parancsnok személyügyi szervének vezetője gyakorolja az állományilletékes parancsnok és az állományilletékes honvédelmi szervezet személyügyi szervének vezetője tekintetében,
+
+f) az állományilletékes honvédelmi szervezet személyügyi szervének vezetője gyakorolja az állomány a)–e) pontja alá nem tartozó tagja tekintetében.
+
+[^20]: A 4. § a 4/2015. (VI. 22.) HM rendelet 2. §-ával megállapított szöveg.
+[^21]: A 4. § (6) bekezdése a 10/2016. (VI. 29.) HM rendelet 4. §-ával megállapított szöveg.

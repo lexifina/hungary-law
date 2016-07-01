@@ -6,9 +6,9 @@
 
 (4) A Hjt. 77. § (1) bekezdése szerinti kezdő beosztások esetén a várakozási idő leteltekor a főhadnaggyá, vagy törzsőrmesterré történő előléptetésre legalább „C” teljesítményszintű teljesítményértékelés, valamint – a teljesítményértékelésben szereplő – kompetencia alapú munkamagatartás-értékelés és az egyéb kompetenciák külön-külön legalább 40%-ot elérő értékelése esetén kerülhet sor.
 
-(5)[^82] A tisztesi állomány tagjának előléptetése vagy kinevezése esetén az egy éven belül készített teljesítményértékelése figyelembe vehető.
+(5)[^104] A tisztesi állomány tagjának előléptetése vagy kinevezése esetén az egy éven belül készített teljesítményértékelése figyelembe vehető.
 
-(6)[^83] A Hjt. 83. § (5) bekezdése szerinti kinevezéshez a kinevezés évében készített, legalább „B” teljesítményszintű teljesítményértékelés szükséges.
+(6)[^105] A Hjt. 83. § (5) bekezdése szerinti kinevezéshez a kinevezés évében készített, legalább „B” teljesítményszintű teljesítményértékelés szükséges.
 
-[^82]: A 93. § (5) bekezdését a 4/2015. (VI. 22.) HM rendelet 17. §-a iktatta be.
-[^83]: A 93. § (6) bekezdését a 4/2015. (VI. 22.) HM rendelet 17. §-a iktatta be.
+[^104]: A 93. § (5) bekezdését a 4/2015. (VI. 22.) HM rendelet 17. §-a iktatta be.
+[^105]: A 93. § (6) bekezdését a 4/2015. (VI. 22.) HM rendelet 17. §-a iktatta be.

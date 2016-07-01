@@ -1,29 +1,11 @@
-107/F. § (1) A fokozati vizsgán elért eredményt %-os formában kell mérni.
+107/F. § (1) Az állomány fokozati vizsgára kötelezett tagjának a fokozati vizsgát legkésőbb a vizsgakötelezettség évének – vagy a (3) bekezdés szerint engedélyezett halasztás évének – október 31. napjáig kell letennie.
 
-(2) A tiszti és az altiszti állomány tagja sikeres fokozati vizsgát tesz, ha eredménye
+(2) Ha az állomány tagja a fokozati vizsgát az (1) bekezdés szerinti határidőben nem teszi le, vagy sikertelen vizsgát tesz, fennálló szolgálati viszonya a vizsgatételi kötelezettség évének utolsó napján szűnik meg.
 
-a) I. fokozat estén az 50%-ot,
+(3) A (2) bekezdéstől eltérően, ha az állomány tagja a tárgyévi vizsgakötelezettségének nem tett eleget, indokolt kérelmére a munkáltatói jogkört gyakorló szolgálati érdekből fokozati vizsgánként legfeljebb két alkalommal, alkalmanként egy-egy év halasztást engedélyezhet, azzal, hogy az engedély megadása nem érinti a várakozási idő meghosszabbítása tárgyában a Hjt. 86. § (3) bekezdése szerint meghozható döntést.
 
-b) II. fokozat esetén a 60%-ot,
+(4) A (3) bekezdés szerinti kérelem a vizsgakötelezettség évében, november 1-je és november 25-e között nyújtható be. A határidő jogvesztő.
 
-c) III. fokozat esetén a 70%-ot, és
+(5) A munkáltatói jogkört gyakorló az állomány tagjára vonatkozó döntését legkésőbb a vizsgakötelezettség évének november 30. napjáig, a benyújtott kérelmen hozza meg.
 
-d) IV. fokozat esetén a 75%-ot
-
-eléri vagy meghaladja.
-
-(3) A legénységi állomány tagja sikeres fokozati vizsgát tesz, ha eredménye
-
-a) I. fokozat estén az 50%-ot,
-
-b) II. fokozat esetén a 60%-ot, és
-
-c) III. fokozat esetén a 70%-ot,
-
-eléri vagy meghaladja.
-
-(4) Fokozati vizsga évente egy alkalommal tehető, amely sikertelen vizsga esetén az adott évben egyszer megismételhető.
-
-(5) Sikertelennek minősül a vizsga az állomány tagja igazolatlan távolmaradása esetén is.
-
-(6) A fokozati vizsgák eredményét legkésőbb a vizsga évének november 15. napjáig a KGIR-ban rögzíteni kell.
+(6) Az állomány tiszti és altiszti tagja számára engedélyezett halasztásról a vizsgakötelezettség évének december 15. napjáig a Katonai Vizsgaközpontot tájékoztatni kell.

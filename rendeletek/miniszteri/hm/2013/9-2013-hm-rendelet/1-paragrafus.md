@@ -68,6 +68,8 @@ o)[^6] Magyarországon kívül települő, szövetségesi területen vagy légt�
 
 14. szakmai felelős: a miniszter által kijelölt, a munkakörök betöltéséhez szükséges szakmai követelmények, az előmenetel szakmai feltételei és a képzési követelmények meghatározásáért felelős honvédelmi szervezet,
 
+14a.[^9] személyügyi szerv vezetője: a honvédelmi szervezet személyügyi feladatok végrehajtásáért felelős szervezeti elemének vezetője, vagy – ennek hiányában – a központi személyügyi szerv vezetője által belső rendelkezésben kijelölt szakmai elöljáró vagy felettes,
+
 15. szolgálati beosztás: az állomány tagja és az önkéntes tartalékos katona által betöltött munkakör,
 
 16. tanulmányi támogatás: a Honvédség által az állomány tagja részére vezénylés vagy tanulmányi szerződés alapján, tanulmányai folytatásához nyújtott támogatás.
@@ -80,3 +82,4 @@ o)[^6] Magyarországon kívül települő, szövetségesi területen vagy légt�
 [^6]: Az 1. § 10. pont o) alpontját a 4/2015. (VI. 22.) HM rendelet 1. §-a iktatta be.
 [^7]: Az 1. § 11. pontja a 10/2015. (VII. 30.) HM rendelet 82. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 80. §-át.
 [^8]: Az 1. § 13. pontját a 4/2015. (VI. 22.) HM rendelet 29. § a) pontja hatályon kívül helyezte.
+[^9]: Az 1. § 14a. pontját a 10/2016. (VI. 29.) HM rendelet 1. §-a iktatta be.

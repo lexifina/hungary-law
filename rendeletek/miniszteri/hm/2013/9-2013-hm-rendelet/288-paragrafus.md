@@ -1,3 +1,3 @@
-288. §[^177]
+288. §[^216]
 
-[^177]: A 287–288. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^216]: A 287–288. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

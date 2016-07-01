@@ -1,6 +1,4 @@
-## 50. § A Hjt. 46. § (1) bekezdés j) pontja szerinti önhibán kívüli oknak minősül különösen az, ha az állomány tagja a Hjt. 116. § (1) bekezdése, vagy a Hjt. 117. §-a szerint egy évet meghaladó illetmény nélküli szabadságot vesz igénybe.
-
-## 16. [^53] Vezénylés szolgálati feladat ellátására és képzésre
+## 16. [^71] Vezénylés szolgálati feladat ellátására és képzésre
 
 51. § (1) A halaszthatatlan szolgálati feladat kivételével az állomány tagját a Hjt. 49. §-a szerinti vezénylésről annak kezdete előtt legkésőbb tíz nappal tájékoztatni kell.
 
@@ -10,4 +8,4 @@
 
 (4) A Hjt. 42. § (2) bekezdés a) pontjában meghatározott, 30 napot meg nem haladó vezénylés esetén – ideértve az azonos és más helységbe történő vezénylést is – a munkáltató döntéséről az egyes költségtérítésekről szóló miniszteri rendelet szerinti kiküldetési rendelvény készül.
 
-[^53]: A 16. alcím (51. §) a 4/2015. (VI. 22.) HM rendelet 12. §-ával megállapított szöveg.
+[^71]: A 16. alcím (51. §) a 4/2015. (VI. 22.) HM rendelet 12. §-ával megállapított szöveg.

@@ -12,9 +12,9 @@ folytatja le.
 
 (2) Az állományba vételi okmány és szerződés egy eredeti példányát legkésőbb a szolgálati viszony létesítésének napján az állomány tagjának át kell adni.
 
-(3)[^35] Az állományba vételt követően a honvédelmi szervezet személyügyi szervének vezetője a szolgálatteljesítés első napján, de legkésőbb harminc napon belül – a Hjt. 92. §-ára figyelemmel – megállapítja a szolgálati idő kezdő napját.
+(3)[^48] Az állományba vételt követően a honvédelmi szervezet személyügyi szervének vezetője a szolgálatteljesítés első napján, de legkésőbb harminc napon belül – a Hjt. 92. §-ára figyelemmel – megállapítja a szolgálati idő kezdő napját.
 
-(4)[^36] A (3) bekezdés szerint megállapított szolgálati idő kezdő nap módosítására hivatalból vagy az érintett személy kezdeményezésére a Hjt. 92. §-ára figyelemmel kerülhet sor. A szolgálati idő kezdő napjának módosítására
+(4)[^49] A (3) bekezdés szerint megállapított szolgálati idő kezdő nap módosítására hivatalból vagy az érintett személy kezdeményezésére a Hjt. 92. §-ára figyelemmel kerülhet sor. A szolgálati idő kezdő napjának módosítására
 
 a) az állományilletékes honvédelmi szervezet személyügyi szervének vezetője, vagy annak hiányában a központi személyügyi szerv vezetője jogosult,
 
@@ -24,5 +24,5 @@ c) a HVKF jogosult a központi személyügyi szerv vezetője esetén, és
 
 d) a miniszter jogosult a HVKF, a KNBSZ főigazgatója, valamint a Tábori Lelkészi Szolgálat vezetői esetén.
 
-[^35]: A 20. § (3) bekezdését a 4/2015. (VI. 22.) HM rendelet 7. §-a iktatta be.
-[^36]: A 20. § (4) bekezdését a 4/2015. (VI. 22.) HM rendelet 7. §-a iktatta be.
+[^48]: A 20. § (3) bekezdését a 4/2015. (VI. 22.) HM rendelet 7. §-a iktatta be.
+[^49]: A 20. § (4) bekezdését a 4/2015. (VI. 22.) HM rendelet 7. §-a iktatta be.

@@ -12,10 +12,10 @@ e) a javaslattevő beosztását és
 
 f) az érintett személy nyilatkozatát a szolgálati viszonyával kapcsolatos javaslatról.
 
-(2)[^21] Ha a munkáltatói jogkör gyakorlója döntését döntési lapon hozza meg, a javaslati lap – a 6. § (2) bekezdése kivételével – a döntési lap mellékletét képezi.
+(2)[^30] Ha a munkáltatói jogkör gyakorlója döntését döntési lapon hozza meg, a javaslati lap – a 6. § (2) bekezdése kivételével – a döntési lap mellékletét képezi.
 
 (3) Ha a személyügyi eljárás az állomány tagja kérelmére indul, a kérelmet a javaslati laphoz csatolni kell.
 
 (4) Ha az állomány tagja különös méltánylást érdemlő egyéni érdeke figyelembe vételét kéri, ennek tényét a javaslati lapon rögzíteni kell. A javaslati laphoz csatolni kell a 12. § (1) bekezdése szerinti igazolást.
 
-[^21]: A 8. § (2) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 10. pontja szerint módosított szöveg.
+[^30]: A 8. § (2) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 10. pontja szerint módosított szöveg.
