@@ -44,8 +44,7 @@
 
 a)[^1]
 
-b) 2. melléklet I. E. 8. pontjában az „I. B. 4.” szövegrész helyébe az „I. B. 3.2. és 3.3.” szöveg,
-
-c) 2. melléklet II. pontjának az AL7 MNB azonosító kódú adatszolgáltatásra vonatkozó kitöltési előírások II. pontjában, az SL2, SL3, SL4, SL5, SL6 MNB azonosító kódú adatszolgáltatásokra vonatkozó kitöltési előírások II.2. pontjában, a P51 MNB azonosító kódú adatszolgáltatásra vonatkozó kitöltési előírások I.2. és I.3. pontjában, a W08 MNB azonosító kódú adatszolgáltatásra vonatkozó kitöltési előírások I.3. pontjában, valamint a W12 MNB azonosító kódú adatszolgáltatásra vonatkozó kitöltési előírások 3. pontjában az „ERA” szövegrész helyébe az „EBEAD” szöveg
+b)–c)[^2]
 
 [^1]: A 6. § (1) bekezdés a) pontja a 7. § (2) bekezdése alapján 2016. augusztus 1-jén lép hatályba.
+[^2]: A 6. § (1) bekezdés b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
