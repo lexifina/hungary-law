@@ -38,6 +38,6 @@
 
 | 18. | legénységi állománycsoport | „A”–„B” fizetési osztály | kormányzati ügykezelő | 1,3 |
 
-2. melléklet a 18/2013. (IX. 5.) HM rendelethez[^99]
+2. melléklet a 18/2013. (IX. 5.) HM rendelethez[^101]
 
-[^99]: A 2. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (2) bekezdése, a 3/2015. (VI. 17.) HM rendelet 4. § (1) bekezdése szerint módosított szöveg.
+[^101]: A 2. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (2) bekezdése, a 3/2015. (VI. 17.) HM rendelet 4. § (1) bekezdése szerint módosított szöveg.
