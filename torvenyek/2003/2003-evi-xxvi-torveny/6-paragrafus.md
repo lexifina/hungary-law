@@ -16,7 +16,7 @@ f) az építmények által igénybe vett térség más térségi területfelhasz
 
 (2) A kiemelt térségi és megyei területfelhasználási kategóriákon belül a települési területfelhasználási egységek kijelölése során a következő szabályokat kell alkalmazni:
 
-a) az erdőgazdálkodási térséget legalább 85%-ban erdőterület területfelhasználási egységbe kell sorolni;
+a) az erdőgazdálkodási térséget legalább 75%-ban erdőterület területfelhasználási egységbe kell sorolni;
 
 b) a mezőgazdasági térséget legalább 85%-ban mezőgazdasági terület, beépítésre szánt különleges honvédelmi terület, beépítésre nem szánt különleges honvédelmi terület vagy természetközeli terület területfelhasználási egységbe kell sorolni, a térségben nagyvárosias lakóterület és vegyes terület területfelhasználási egység nem jelölhető ki;
 
