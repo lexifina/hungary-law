@@ -2,7 +2,7 @@
 
 83. § (1) A vadászati hatóság határozata alapján vadgazdálkodási bírságot köteles fizetni a vadászatra jogosult akkor, ha
 
-a) az e törvényben, illetve a külön jogszabályban meghatározott adatszolgáltatási kötelezettségének nem tesz eleget;
+a) az e törvényben, illetve a külön jogszabályban meghatározott adatszolgáltatási kötelezettségének nem, vagy nem megfelelően, illetve valótlan adattartalommal tesz eleget;
 
 b) az általa vagy hozzájárulásával szervezett vadászaton a vadat a vadászati hatóság engedélye nélkül, vadászati idényen kívül, vadászati tilalom vagy vadászati korlátozás idején ejtik el, vagy fogják be;
 
@@ -16,19 +16,21 @@ f) nem, vagy nem az e törvényben foglaltaknak megfelelően tesz eleget a vadga
 
 g) a vadgazdálkodási szabályokat megsérti;
 
-h) az általa vagy hozzájárulásával szervezett vadászat vonatkozásában a vadászat rendjére vonatkozó előírásokat megsérti.
+h) az általa vagy hozzájárulásával szervezett vadászat vonatkozásában a vadászat rendjére vonatkozó előírásokat megsérti;
+
+i) nem a jogszabályban foglaltaknak megfelelően gondoskodik a vadászat alkalmával a vadászterület jellegének megfelelő, vadászatra kiképzett vadászkutyáról.
 
 (2)
 
-(3) A vadgazdálkodási bírság mértéke:
+(3) A vadgazdálkodási bírság mértéke
 
-a) az (1) bekezdés a) pontja szerinti esetben az eset súlyától és ismétlődésétől függően legalább tízezer, legfeljebb százezer forint lehet,
+a) az (1) bekezdés a) és i) pontja és az (5) és (6) bekezdés szerinti esetben a cselekmény súlyától és ismétlődésétől függően legalább ötvenezer, legfeljebb egymillió forint,
 
-b) az (1) bekezdés b) pontja szerinti esetben a vadgazdálkodási bírság mértéke trófeás vad esetében a trófea értékétől függően egyedenként legalább húszezer, legfeljebb kétmillió forint, míg nőivarú egyed és egyéb vadfaj esetében a vad fajától függően egyedenként legalább tízezer, legfeljebb kétszázezer forint lehet,
+b) az (1) bekezdés b) pontja szerinti esetben a vadgazdálkodási bírság mértéke trófeás vad esetében a trófea értékétől függően egyedenként legalább százezer, legfeljebb ötmillió forint, míg nőivarú egyed és egyéb vadfaj esetében a vad fajától függően egyedenként legalább ötvenezer, legfeljebb egymillió forint,
 
 c) az (1) bekezdés c) pontja szerinti esetben trófeánként ötvenezer forint,
 
-d) az (1) bekezdés d)–h) pontjai szerinti esetekben a cselekmény súlyától függően legalább százezer és legfeljebb kétmillió forint lehet. Ezekben az esetekben a vadgazdálkodási bírság ismételten is kiszabható.
+d) az (1) bekezdés d)–h) pontja szerinti esetekben a cselekmény súlyától függően legalább százezer és legfeljebb ötmillió forint. Ezekben az esetekben a vadgazdálkodási bírság ismételten is kiszabható.
 
 (4) Az (1) bekezdés g) pontja szerint a vadgazdálkodási szabályok megsértésének minősül, ha a vadászatra jogosult:
 
@@ -49,3 +51,7 @@ eb) a hivatásos vadász alkalmazására vonatkozó kötelezettségének a vadá
 f) elmulasztja a vadászati engedéllyel rendelkező vadász egyéni lőjegyzékébe bejegyezni a vadászterület kódszámát;
 
 g) a vadtenyésztési tevékenységet engedély nélkül folytatja, a vadat engedély nélkül vagy az engedélyben foglaltaktól eltérően tart zárt térben, vadat vadászterületek között engedély nélkül szállít vagy vadat vadászterületre engedély nélkül helyez ki.
+
+(5) A 82. § (1) és (2) bekezdése szerinti tilalommal érintett egyed elejtése a vadgazdálkodási szabályok megsértésének minősül és a vadászatra jogosult vadgazdálkodási bírságot köteles fizetni. A vadgazdálkodási bírságot minden tilalommal érintett trófeás vad egyede után ismétlődően kell kiszabni.
+
+(6) A vadászati hatóság határozata alapján vadgazdálkodási bírságot köteles fizetni, aki a zárttéri vadtartás szabályait megsérti vagy a vadászterületen vadászati hatósági engedély nélkül létesít a vad mozgását befolyásoló, tartós telepítésű kerítést.

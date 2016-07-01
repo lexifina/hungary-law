@@ -1,1 +1,1 @@
-23. § A vadaskert kerítésének fenntartásakor folyamatosan biztosítani kell, hogy a kerítéssel elzárt területről az engedélyben meghatározott vad ne törhessen ki, illetve hogy oda természetes úton ne jusson be. E feltételek teljesítésének felróható okból való elmulasztása a vadgazdálkodási szabályok megsértésének minősül.
+### 23. §

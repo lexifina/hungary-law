@@ -1,6 +1,22 @@
 ## Vadászati eszközök
 
-67. § (1) Vadat csak vadászati célra engedélyezett – legalább negyvenöt centiméter csőhosszúságú – vadászlőfegyverrel lehet elejteni.
+67. § (1) Vadat
+
+a) vadászati célra engedélyezett – legalább negyvenöt centiméter csőhosszúságú – vadászlőfegyverrel,
+
+b) legalább negyvenöt centiméter csőhosszúságú elöltöltő fegyverrel,
+
+c) az előírt követelményeknek megfelelő vadászíjjal és vadászvesszővel,
+
+d) solymászatra engedélyezett ragadozó madárral,
+
+e) agarászatra engedélyezett magyar agárral, vagy
+
+f) jogszerű csapdázási módszerrel
+
+lehet elejteni, illetve elfogni.
+
+(1a) Az (1) bekezdéstől eltérően a hivatásos vadász – kegyelemlövés céljából – a számára engedélyezett maroklőfegyver használatával is elejtheti a vadat.
 
 (2) Vadászíjjal történő vadászat esetében gímszarvast, dámszarvast, muflont, vaddisznót és őzet kizárólag 222,7 newton húzóerőt meghaladó vadászíjjal és arra alkalmas vadászvesszővel lehet elejteni.
 
@@ -8,6 +24,8 @@
 
 (4) Altató-, bénítólövedékes fegyvert csak a vadászati hatóság előzetes engedélyével, erre képesített vadász használhat.
 
-(5) A vadászat alkalmával – az azt alkalmazó felelősségére – a vad keresésére, felkutatására csak olyan vadászkutya alkalmazható, amelyet igazoltan vadászatra képeztek. A vadászkutya fajtacsoport tenyésztésének, nyilvántartásának, teljesítményvizsgálatának és használatának részletes szabályait a miniszter az e törvény felhatalmazása alapján kiadott rendeletben állapítja meg.
+(5) A vadászat alkalmával – az azt alkalmazó felelősségére – a vad keresésére, felkutatására, valamint elfogására csak olyan vadászkutya alkalmazható, amelyet igazoltan vadászatra képeztek.
+
+(5a) A vadászatra jogosult hozzájárulásával a vadászaton, a vadászatba történő bevezetés céljából a 2 évesnél fiatalabb vadászkutya is alkalmazható.
 
 (6) A vadászatra jogosult köteles a vadászat alkalmával a vadászterület jellegének megfelelő, vadászatra kiképzett vadászkutyáról gondoskodni.

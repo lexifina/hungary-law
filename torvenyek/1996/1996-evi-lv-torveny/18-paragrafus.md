@@ -6,12 +6,12 @@
 
 (4) A vadászati hatóság nem hagyja jóvá a vadászati jog haszonbérletére kötött szerződést, amennyiben nem biztosított:
 
-a) hogy a vadászterületen egy vadászra legalább száz hektár vadászterület-hányad jusson;
+a)
 
 b) a vadgazdálkodási üzemtervben foglaltak – ideértve annak természetvédelmi előírásait is – végrehajtása, továbbá
 
 c) hogy a haszonbérleti díj mértékét nem a 17. § (2) bekezdésében foglaltak figyelembevételével állapították meg.
 
-(5) A vadászati hatóság a (4) bekezdés a) pontja szerinti feltételtől eltérhet, amennyiben a vadászati jog szakszerű gyakorlása vagy hasznosítása egyébként biztosítható.
+(5)
 
 (6) A vadászati jog haszonbérletével kapcsolatos vadászati hatósági határozat bírósági felülvizsgálata során a Polgári perrendtartásnak a közigazgatási perekre vonatkozó szabályai szerint eljáró bíróság a határozatot megváltoztathatja.

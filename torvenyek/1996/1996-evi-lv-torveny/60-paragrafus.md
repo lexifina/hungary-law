@@ -8,7 +8,7 @@ b) nem áll vadászjegyet visszavonó határozat hatálya alatt; továbbá
 
 c) a vadászat során másnak okozott károk fedezetére szolgáló érvényes vadászati felelősségbiztosítással rendelkezik.
 
-(2) A vadászjegyet és a névre szóló új, hitelesített egyéni lőjegyzéket a kamara a korábban kiadott egyéni lőjegyzék bevonását követően állítja ki.
+(2) A vadászjegyet a Vadászkamara állítja ki.
 
 (3) A vadászjegy csak az egyéni lőjegyzék bemutatását követően hosszabbítható meg.
 

@@ -10,7 +10,7 @@ c) aki a vadat szándékosan kínozza;
 
 d) a vadász, ha az általa sebzett vagy az egyébként súlyosan beteg vad elejtése céljából nem teszi meg a szükséges intézkedéseket;
 
-e) aki a vadat tiltott vadászati eszközzel, illetve módon fogja vagy pusztítja el;
+e) aki a vadat tiltott vadászati eszközzel, illetve módon fogja vagy pusztítja el, illetve jogosulatlanul a vad elejtésére irányuló tevékenységet folytat;
 
 f) aki a vadat tiltott módon zaklatja;
 
@@ -22,8 +22,8 @@ i) a vadász, ha a vadászjegy, az egyéni lőjegyzék, a hivatásos vadász szo
 
 j) aki a vadászkutya vezetőjeként a vadászat megkezdésekor a jogszabályban előírt megkülönböztető jelzéssel a vadászkutyát nem látja el.
 
-(2) Az (1) bekezdés a)–f) és i)–j) pontjai esetében a vadvédelmi bírság mértéke legalább tízezer forint, legfeljebb kétszázezer forint lehet. A vadvédelmi bírság ismételten is kiszabható.
+(2) Az (1) bekezdés a)–f), i) és j) pontja esetében a vadvédelmi bírság mértéke legalább ötvenezer forint, legfeljebb egymillió forint. A vadvédelmi bírság ismételten is kiszabható.
 
-(3) Az (1) bekezdés g) és h) pontjai szerinti esetben a vadvédelmi bírság mértéke esetenként és a cselekmény súlyától függően legalább ötvenezer és legfeljebb egymillió forint lehet.
+(3) Az (1) bekezdés g) és h) pontja szerinti esetben a vadvédelmi bírság mértéke esetenként és a cselekmény súlyától függően legalább százezer és legfeljebb ötmillió forint.
 
 (4) A törvény alkalmazásában jogosulatlan vadászatnak minősül a 64. § (1) bekezdésében felsorolt igazolások hiányában történő, továbbá a vadászatra jogosult hozzájárulása nélküli vadászat, valamint az, ha a vadász az általa elejtett vadat e törvénynek megfelelően nem jelöli meg.

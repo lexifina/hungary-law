@@ -12,7 +12,7 @@
 
 (5) A gímszarvas, a dámszarvas, a muflon, a vaddisznó, illetve az őz elejtésének minősül az első halálos lövés leadása.
 
-(6) Az (5) bekezdésben nem említett vad elejtésének minősül a vad helybenmaradását eredményező lövés leadása, illetve ragadozó madárral történő elfogása.
+(6) Az (5) bekezdésben nem említett vad elejtésének minősül a vad helybenmaradását eredményező lövés leadása, illetve ragadozó madárral vagy vadászkutyával történő elfogása.
 
 (7) A vad elfogásának minősül annak mozgásképtelenné tétele útján élve történő birtokbavétele.
 

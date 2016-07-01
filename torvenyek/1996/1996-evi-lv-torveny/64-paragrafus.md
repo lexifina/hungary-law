@@ -2,12 +2,18 @@
 
 a) a vadászjegyet vagy a vadászati engedélyt (a továbbiakban együtt: engedély),
 
-b) az egyéni lőjegyzéket,
+b) az e törvényben meghatározott vadfaj vadászata esetén az azonosító jelet,
 
-c) az e törvényben írt vadfaj vadászata esetén az azonosítójelet, továbbá
+c) vadászlőfegyverrel történő vadászat esetén a vadászlőfegyver-tartási engedélyt,
 
-d) vadászlőfegyverrel történő vadászat esetén a vadászlőfegyver-tartási engedélyt, vagy ragadozó madárral történő vadászat esetén a ragadozó madárral való vadászatra jogosító engedélyt
+d) ragadozó madárral történő vadászat esetén a ragadozó madárral való vadászatra jogosító engedélyt,
 
-a vadászat alkalmával köteles állandóan magánál tartani, és azt a jogosult, a hivatásos vadász, a vadászati hatóság, a rendőri szerv, valamint a természetvédelmi hatóság felhívására bemutatni.
+e) elöltöltő fegyverrel történő vadászat esetén az elöltöltő fegyver vadászati célú használatára jogosító engedélyt,
+
+f) vadászíjjal történő vadászat esetén a vadászíjászatra feljogosító kiegészítő vizsga teljesítésének igazolását, és
+
+g) magyar agárral történő vadászat esetén az agarászatra feljogosító kiegészítő vizsga teljesítésének igazolását
+
+a vadászat alkalmával köteles magánál tartani, és azt a vadászatra jogosult képviselője, a hivatásos vadász, a tájegységi fővadász, a vadászati, természetvédelmi hatóság vagy a rendőrség felhívására bemutatni.
 
 (2) Aki az (1) bekezdésben felsorolt dokumentumok bármelyikének hiányában vadászik, azt az ellenőrzésre jogosult személy a vadászatból azonnali hatállyal kizárja.

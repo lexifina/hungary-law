@@ -21,3 +21,5 @@ c) az emlősök kotorékainak és egyéb zárt búvóhelyek füstképzéssel tö
 (5) Nem minősül a (4) bekezdés b) pontja szerinti gyűjtésnek a vadászatra jogosult által fészekmentés céljából végzett vadvédelmi tevékenység.
 
 (6) A vadászati hatóság a külön jogszabályban meghatározott, az Európai Unió jogi aktusa által védelemben részesített vadászható vadfajnak (a továbbiakban: közösségi jelentőségű vadászható vadfaj) nem minősülő vadászható vadfaj vonatkozásában a (4) bekezdés c) pontjában szereplő tevékenységet a 38/A. § (1) bekezdésének a)–g) pontjában felsorolt feltételeken kívül állat-egészségügyi, vadvédelmi, illetve állományszabályozási okból engedélyezheti.
+
+(7) Magyarország állatföldrajzi környezetében nem honos vadfaj vadászati célú telepítését a vadászati hatóság csak vadaskertbe engedélyezheti. A vadászati hatóság idegenhonos inváziós faj telepítését nem engedélyezi.
