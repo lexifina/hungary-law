@@ -66,7 +66,7 @@ i) az ingatlan-nyilvántartásban mocsárként nyilvántartott földterületet,
 
 22. nettó árbevétel:
 
-a) a számviteli törvényben meghatározott értékesítés nettó árbevétele (egyszeres könyvvitelt vezető vállalkozó esetében: a pénzügyileg rendezett nettó árbevétel és a nem pénzben kiegyenlített értékesítés nettó árbevételének együttes összege), csökkentve a társasági adóról és az osztalékadóról szóló törvény szerinti jogdíjból származó, árbevételként elszámolt ellenértékkel, a jövedéki adó fizetésére kötelezett vállalkozó esetében az adóhatósággal elszámolt – az egyéb szolgáltatások értékeként, illetve az egyéb ráfordítások között kimutatott – jövedéki adó összegével, továbbá az egyéb ráfordítások között kimutatott, az adóhatósággal elszámolt regisztrációs adó, energiaadó, népegészségügyi termékadóról szóló törvény szerinti alkoholos ital utáni népegészségügyi termékadó összegével, feltéve, ha az így elszámolt regisztrációs adó, energiaadó, népegészségügyi termékadó összege az értékesítés nettó árbevételét növelte, valamint a külön jogszabály szerinti felszolgálási díj árbevételként elszámolt összegével, a b)-h) alpontokban foglalt eltérésekkel,
+a) a számviteli törvényben meghatározott értékesítés nettó árbevétele (egyszeres könyvvitelt vezető vállalkozó esetében: a pénzügyileg rendezett nettó árbevétel és a nem pénzben kiegyenlített értékesítés nettó árbevételének együttes összege), csökkentve a jogdíjból származó, árbevételként elszámolt ellenértékkel, a jövedéki adó fizetésére kötelezett vállalkozó esetében az adóhatósággal elszámolt – az egyéb szolgáltatások értékeként, illetve az egyéb ráfordítások között kimutatott – jövedéki adó összegével, továbbá az egyéb ráfordítások között kimutatott, az adóhatósággal elszámolt regisztrációs adó, energiaadó, népegészségügyi termékadóról szóló törvény szerinti alkoholos ital utáni népegészségügyi termékadó összegével, feltéve, ha az így elszámolt regisztrációs adó, energiaadó, népegészségügyi termékadó összege az értékesítés nettó árbevételét növelte, valamint a külön jogszabály szerinti felszolgálási díj árbevételként elszámolt összegével, a b)-h) alpontokban foglalt eltérésekkel,
 
 b) a hitelintézeteknél és pénzügyi vállalkozásoknál: a kapott kamatok és kamatjellegű bevételek csökkentve a fizetett kamatokkal és kamatjellegű ráfordításokkal és a pénzügyi lízingbe adott eszköz beszerzési értékével, azzal, hogy e beszerzési értékre tekintettel az adóalap nem csökkenthető, növelve az egyéb pénzügyi szolgáltatás bevételeivel, a befektetési szolgáltatások bevételeivel és a nem pénzügyi és befektetési szolgáltatás bevételével. Fedezeti ügyletek esetén az alapügylet (fedezett tétel) nyereségének/veszteségének és az ahhoz tartozó fedezeti ügylet veszteségének/nyereségének nyereségjellegű különbözete tartozik a nettó árbevételbe. A számviteli törvény szerinti kereskedési célú származékos ügyletek esetében azok eredményének összevont különbözete tartozik a nettó árbevételbe, ha az nyereségjellegű,
 
@@ -160,7 +160,13 @@ d) a bizalmi vagyonkezelésbe adott vagyon esetén a kezelt vagyonba tartozó ha
 
 50. melléképület, melléképületrész: a lakás, az üdülő elhelyezésére szolgáló telken lévő és a lakás, üdülő szokásos használatához szükséges, de huzamos emberi tartózkodásra részben és ideiglenesen sem szolgáló, tüzelő, lom, szerszám, kerékpár, babakocsi tárolására szolgáló épület vagy épületrész, ide nem értve a gépjárműtárolót. A többlakásos lakóépületben lévő lakás esetén a lakástulajdonhoz tartozó, 5 m2 hasznos alapterületet meg nem haladó, lomok, szerszámok, tüzelő tárolására szolgáló helyiség, feltéve, hogy az az épületen belül, de a lakástól elkülönítve helyezkedik el, valamint lakóépületben az osztatlan közös tulajdonban lévő közlekedő és tároló-helyiség, akkor, ha azt a tulajdonközösség közösen használja;
 
-51.
+51. jogdíj:
+
+a) a szabadalom, a használatiminta-oltalom, a növényfajta-oltalom, a kiegészítő oltalmi tanúsítvány, a mikroelektronikai félvezető termékek topográfiájának oltalma és a szerzői jogi védelemben részesülő szoftver hasznosítási engedélyéből, felhasználási engedélyéből, valamint
+
+b) az a) pontban említett kizárólagos jogok értékesítéséből
+
+származó ellenérték (bevétel);
 
 52.
 
