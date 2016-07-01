@@ -2,7 +2,7 @@
 
 a) a Földforgalmi tv. szerint a földhasználati jogosultság megszerzése feltételeként vállalt, a Földforgalmi tv. 42. § (5) bekezdésében meghatározott, a mezőgazdasági üzemközpont létesítésére vonatkozó kötelezettségét az ott meghatározott időn belül teljesíti, és
 
-b)[^40] a mezőgazdasági üzemközpont adatait – a (2) és (3) bekezdésben meghatározott időponttól számított 15 napon belül – bejelenti a járási hivatalhoz.
+b)[^46] a mezőgazdasági üzemközpont adatait – a (2) és (3) bekezdésben meghatározott időponttól számított 15 napon belül – bejelenti a járási hivatalhoz.
 
 (2) Az (1) bekezdés b) pontjában foglalt 15 napos határidő számításának kezdő napja a mezőgazdasági üzemközpont
 
@@ -16,9 +16,10 @@ b) használati jogának megszerzése esetén – a (3) bekezdés szerinti eltér
 
 (4) Az (1) bekezdés b) pontjában előírt bejelentés során a 8. §-ban foglaltakat kell alkalmazni.
 
-(5)[^41] Az (1) bekezdésben foglalt együttes feltételek fennállása esetén az adatlapon az újonnan alapított mezőgazdasági termelőszervezet státuszra való utalás törlését a mezőgazdasági üzemközpont adatainak bejegyzésével egyidejűleg kell a járási hivatalnak elvégeznie.
+(5)[^47] Az (1) bekezdésben foglalt együttes feltételek fennállása esetén az adatlapon az újonnan alapított mezőgazdasági termelőszervezet státuszra való utalás törlését a mezőgazdasági üzemközpont adatainak bejegyzésével egyidejűleg kell a járási hivatalnak elvégeznie.
 
-(6) Az (1) bekezdés b) pontjában foglalt határidő elmulasztása esetén a 12. § (6)–(7) bekezdésében foglaltakat kell alkalmazni.
+(6)[^48] Az (1) bekezdés b) pontjában foglalt határidő elmulasztása esetén a 12. § (6) bekezdésében foglaltakat kell alkalmazni.
 
-[^40]: A 17. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 244. § b) pontja szerint módosított szöveg.
-[^41]: A 17. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 244. § g) pontja szerint módosított szöveg.
+[^46]: A 17. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 244. § b) pontja szerint módosított szöveg.
+[^47]: A 17. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 244. § g) pontja szerint módosított szöveg.
+[^48]: A 17. § (6) bekezdése a 136/2016. (VI. 13.) Korm. rendelet 12. §-a szerint módosított szöveg.

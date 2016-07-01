@@ -48,9 +48,9 @@
 
 ## b) a cégnek minősülő szervezet esetében az aláírási címpéldányt, illetve az aláírási mintát a cégnyilvántartás tartalmazza-e.
 
-## II.[^55] A kérelem benyújtására szolgáló nyomtatványon a járási hivatal által feltüntetendő tartalmi elemek:
+## II.[^62] A kérelem benyújtására szolgáló nyomtatványon a járási hivatal által feltüntetendő tartalmi elemek:
 
-## 1.[^56] A járási hivatal bélyegzője.
+## 1.[^63] A járási hivatal bélyegzője.
 
 ## 2. A kérelem érkezési ideje.
 
@@ -100,9 +100,9 @@ b) az adatlap szemle-másolata.
 
 4. A kérelmező aláírása.
 
-II.[^57] A kérelem benyújtására szolgáló nyomtatványon a járási hivatal által feltüntetendő tartalmi elemek:
+II.[^64] A kérelem benyújtására szolgáló nyomtatványon a járási hivatal által feltüntetendő tartalmi elemek:
 
-1.[^58] A járási hivatal bélyegzője.
+1.[^65] A járási hivatal bélyegzője.
 
 2. A kérelem érkezési ideje.
 
@@ -110,7 +110,7 @@ II.[^57] A kérelem benyújtására szolgáló nyomtatványon a járási hivatal
 
 4. Az ügyintéző aláírása.
 
-[^55]: A 3. melléklet II. pont nyutó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
-[^56]: A 3. melléklet II. pont 1. alpontja a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
-[^57]: A 4. melléklet II. pont nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
-[^58]: A 4. melléklet II. pont 1. alpontja a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
+[^62]: A 3. melléklet II. pont nyutó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
+[^63]: A 3. melléklet II. pont 1. alpontja a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
+[^64]: A 4. melléklet II. pont nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
+[^65]: A 4. melléklet II. pont 1. alpontja a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
