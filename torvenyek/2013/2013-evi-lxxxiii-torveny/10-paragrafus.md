@@ -20,4 +20,4 @@ b) a pénzügyi konglomerátum élén nem áll anyavállalat,
 
 valamint a pénzügyi konglomerátum legjelentősebb pénzügyi ágazatában a legnagyobb mérlegfőösszege egy magyarországi székhellyel rendelkező szabályozott vállalkozásnak van.
 
-(5) A (2)–(4) bekezdéstől eltérően, az érintett felügyeleti hatóságokkal történt megállapodás alapján a Felügyelet elláthatja a koordinátori feladatokat, valamint felkérhet más érintett felügyeleti hatóságot a koordinátori feladatok ellátására, ha az a pénzügyi konglomerátum csoportszerkezete vagy a különböző országokbeli tevékenységének aránya alapján indokolt. A döntés meghozatala előtt ki kell kérni az érintett pénzügyi konglomerátum véleményét.
+(5) A (2)–(4) bekezdéstől eltérően, az érintett felügyeleti hatóságokkal történt megállapodás alapján a Felügyelet elláthatja a koordinátori feladatokat, valamint felkérhet más érintett felügyeleti hatóságot a koordinátori feladatok ellátására, ha az a pénzügyi konglomerátum csoportszerkezete vagy a különböző országokbeli tevékenységének 5%-ot meghaladó aránya alapján indokolt. A döntés meghozatala előtt ki kell kérni az érintett pénzügyi konglomerátum véleményét.
