@@ -2,13 +2,13 @@
 
 a) a feladatainak ellátására – a reá irányadó öregségi nyugdíjkorhatár betöltését megelőző öt év kivételével – megfelelt fokozatú minősítést kap, és
 
-b) a következő besorolási fokozathoz jogszabályban előírt feltételeket, vagy
+b) a következő besorolási fokozathoz jogszabályban előírt feltételeket, és
 
 c) az államigazgatási szerv által írásban meghatározott feltételeket teljesítette.
 
 (2) A kormányzati szolgálati jogviszonyban töltött idő 117. § szerinti számításánál a munkavégzési kötelezettséggel nem járó, megszakítás nélkül hat hónapot meghaladó időtartamot – kivéve a sor- és tartalékos katonai, polgári szolgálat idejét, a tizennégy éven aluli gyermek ápolásának, gondozásának céljából, valamint a tartós külszolgálatot teljesítő dolgozó házastársa által igénybe vett fizetés nélküli szabadság teljes időtartamát – figyelmen kívül kell hagyni.
 
-(3) A kormánytisztviselőnek fogalmazó besorolásához egy éven belül, előadó besorolásához két éven belül kell közigazgatási alapvizsgát tennie. Közigazgatási alapvizsgát – ha jogszabály előírja – nem kormányzati szolgálati jogviszonyban álló is tehet.
+(3) A kormánytisztviselőnek fogalmazó besorolásához egy éven belül, előadó besorolásához két éven belül kell közigazgatási alapvizsgát tennie. Közigazgatási alapvizsgát – ha jogszabály előírja – nem kormányzati szolgálati jogviszonyban álló is tehet. E törvény alkalmazásában közigazgatási alapvizsga alatt az állami tisztviselőkről szóló törvény alapján szerzett közigazgatási tanulmányok szakirányú szakképzettséget és kormányzati tanulmányok szakirányú szakképzettséget is érteni kell.
 
 (4) A közigazgatási alapvizsga letételére előírt határidőbe nem számít be a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés, valamint a tartós külszolgálat időtartama.
 
@@ -17,6 +17,8 @@ c) az államigazgatási szerv által írásban meghatározott feltételeket telj
 (6) A Kormány rendeletben állapítja meg a közigazgatási alapvizsga alóli mentesítés eseteit.
 
 (7) A pályakezdőként kinevezett kormánytisztviselőnek a tanácsos besorolási fokozatba soroláshoz közigazgatási szakvizsgát kell tennie. Közigazgatási szakvizsga hiányában a kormánytisztviselő nem sorolható a tanácsos besorolási fokozatba.
+
+(7a) E törvény alkalmazásában közigazgatási szakvizsga alatt az állami tisztviselőkről szóló törvény alapján szerzett közigazgatási tanulmányok szakirányú szakképzettséget és kormányzati tanulmányok szakirányú szakképzettséget is érteni kell.
 
 (8) Közigazgatási szakvizsgát az az I. besorolási osztályba sorolt kormánytisztviselő tehet, aki közigazgatási alapvizsgát tett vagy az alól mentesült és közigazgatási szervnél szerzett legalább kétéves gyakorlattal rendelkezik. A vezető kormánytisztviselő közigazgatási szervnél szerzett gyakorlat nélkül is tehet közigazgatási szakvizsgát.
 

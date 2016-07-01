@@ -4,9 +4,9 @@
 
 (2) Ha a kormánytisztviselő a munkáltató intézkedése alapján munkakörébe nem tartozó munkát végez, s az eredeti munkakörét is ellátja, illetményén felül külön díjazás (helyettesítési díj) is megilleti.
 
-(3) A helyettesítési díj mértéke időarányosan a helyettesítő kormánytisztviselő illetményének 25–50%-áig terjedhet. A helyettesítési díj mértékét a hivatali szervezet vezetője állapítja meg. A helyettesítési díj a helyettesítés első napjától jár.
+(3) A helyettesítési díj mértéke időarányosan a helyettesített kormánytisztviselő illetményének 25–50%-áig terjedhet. A helyettesítési díj mértékét a hivatali szervezet vezetője állapítja meg. A helyettesítési díj a helyettesítés első napjától jár.
 
-(4) A kormánytisztviselő akkor is jogosult a helyettesítési díjra, ha tartósan távol lévő kormánytisztviselőt helyettesít, illetve részben vagy egészben többletfeladatként betöltetlen munkakört lát el.
+(4) A kormánytisztviselő akkor is jogosult a helyettesítési díjra, ha tartósan távol lévő kormánytisztviselőt helyettesít, illetve részben vagy egészben többletfeladatként betöltetlen munkakört lát el. Ha a kormánytisztviselő részben vagy egészben többletfeladatként betöltetlen munkakört lát el, a helyettesítési díj mértéke a helyettesítő kormánytisztviselő illetményének 25–50%-áig terjedhet.
 
 (5) Nem jár helyettesítési díj, ha
 

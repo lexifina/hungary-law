@@ -16,7 +16,7 @@ illetménynek megfelelő összeg.
 
 (3) A jubileumi jutalomra jogosító idő megállapításánál
 
-a) az e törvény és a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) hatálya alá tartozó munkáltatónál munkaviszonyban, közszolgálati és kormánytisztviselői jogviszonyban eltöltött időt,
+a) az e törvény, a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény (a továbbiakban: Ktv.), a kormánytisztviselők jogállásáról szóló 2010. évi LVIII. törvény (a továbbiakban: Ktjv.) és az állami tisztviselőkről szóló 2016. évi LII. törvény hatálya alá tartozó munkáltatónál munkaviszonyban, közszolgálati, kormánytisztviselői és állami szolgálati jogviszonyban,
 
 b) a Kjt. hatálya alá tartozó szervnél munkaviszonyban, közalkalmazotti jogviszonyban töltött időt,
 

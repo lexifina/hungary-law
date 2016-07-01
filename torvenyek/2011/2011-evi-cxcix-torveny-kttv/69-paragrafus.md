@@ -28,11 +28,11 @@ g) húsz év: nyolchavi
 
 a) a jogelőd munkáltatónál – ideértve jogviszonyváltás esetén az átadó munkáltatónál – ,
 
-b) áthelyezés esetén a költségvetési szervnél kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszonyban, hivatásos szolgálati jogviszonyban, illetve 1992. július 1-jéig bármely munkáltatónál munkaviszonyban,
+b) áthelyezés esetén a költségvetési szervnél kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, hivatásos szolgálati jogviszonyban, állami szolgálati jogviszonyban, illetve 1992. július 1-jéig bármely munkáltatónál munkaviszonyban,
 
-c)
+c) átminősítés esetén a hivatásos szolgálati viszonyban
 
-d) átminősítés esetén a hivatásos szolgálati viszonyban eltöltött idő is.
+eltöltött idő is.
 
 (6) Az (5) bekezdésben meghatározottak kivételével a végkielégítésre való jogosultság feltétele, hogy a kormányzati szolgálati jogviszony folyamatosan fennálljon a jogviszony megszüntetéséig.
 
@@ -44,7 +44,7 @@ b) a korábbi kötelező heti munkaidejéhez képest rövidebb vagy hosszabb het
 
 c) a korábbi határozatlan idejű alkalmazás helyett határozott idejűt ajánlanak fel,
 
-d) az új munkahely és a lakóhely között – tömegközlekedési eszközzel – történő oda- és visszautazás ideje naponta a két órát, illetve 10 éven aluli gyermeket nevelő kormánytisztviselő esetében a másfél órát meghaladja.
+d) az új munkahely és a lakóhely között – tömegközlekedési eszközzel – történő oda- és visszautazás ideje naponta a három órát, illetve 10 éven aluli gyermeket nevelő kormánytisztviselő esetében a két órát meghaladja.
 
 Az a) pont alkalmazása szempontjából akkor is a kormánytisztviselő besorolása szerinti illetményt kell figyelembe venni, ha besorolása szerinti illetményénél magasabb illetményben, címadományozásban részesült, főtanácsadói, tanácsadói munkakört töltött be.
 

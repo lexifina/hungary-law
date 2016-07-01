@@ -4,11 +4,11 @@
 
 a) a rendelkezési állományú katona megfelel az e törvényben – ideértve a 41. §-t is –, illetve e törvény végrehajtására kiadott jogszabályban a munkakör betöltéséhez előírt képesítési feltételeknek, valamint
 
-b) az új munkahely és a lakóhely között – tömegközlekedési eszközzel – történő oda- és visszautazás ideje naponta a két órát nem haladja meg.
+b) az új munkahely és a lakóhely között – tömegközlekedési eszközzel – történő oda- és visszautazás ideje naponta a három órát nem haladja meg.
 
 (3) Amennyiben a rendelkezési állományú katona végzettsége nem felel meg a munkakör betöltéséhez előírt képesítési feltételeknek, a 41. § (1) bekezdés a) pontjában meghatározott tanulmányait a Magyar Honvédség költségére végzi.
 
-(4) A (3) bekezdés szerinti képzés költségeit a kormányzati szolgálati jogviszonyt létesített rendelkezési állományú katona köteles megtéríteni a Magyar Honvédség részére, ha neki felróható okból a képzést elmulasztja, illetve az előírt követelményeket nem teljesíti, vagy ha hivatalvesztés fegyelmi büntetéssel, méltatlanság jogcímén alapuló felmentéssel szűnt meg a kormányzati szolgálati jogviszonya, valamint a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 70. § (6) bekezdésére tekintettel kell megszüntetni a jogviszonyát.
+(4) A (3) bekezdés szerinti képzés költségeit a kormányzati szolgálati jogviszonyt létesített rendelkezési állományú katona köteles megtéríteni a Magyar Honvédség részére, ha neki felróható okból a képzést elmulasztja, illetve az előírt követelményeket nem teljesíti, vagy ha hivatalvesztés fegyelmi büntetéssel, méltatlanság jogcímén alapuló felmentéssel szűnt meg a kormányzati szolgálati jogviszonya, valamint a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 71/A. § (1) bekezdésére tekintettel kell megszüntetni a jogviszonyát.
 
 (5) A kormányzati szolgálati jogviszonyt létesített rendelkezési állományú katona kötelezi magát, hogy a képesítés megszerzése után legalább a képzés időtartamával azonos időtartamon keresztül kormányzati szolgálati jogviszonyát lemondással nem szünteti meg. Amennyiben a rendelkezési állományú katona ezt a kötelezettségét megszegi, a (3) bekezdés szerinti képzés időarányos költségeit köteles megtéríteni a Magyar Honvédség részére.
 

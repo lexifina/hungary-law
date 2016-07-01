@@ -5,3 +5,5 @@ a) betegség miatti keresőképtelenség, legfeljebb azonban a betegszabadság l
 b) a hozzátartozó otthoni gondozása céljából kapott fizetés nélküli szabadság.
 
 (2) Az (1) bekezdésben meghatározott védelem nem vonatkozik a kormánytisztviselő jogviszonyának felmentéssel történő megszüntetésére, ha a kormánytisztviselő nyugdíjasnak minősül.
+
+(3) A 70. § (1) bekezdésében, valamint az (1) bekezdésben meghatározott védelem nem vonatkozik a kormánytisztviselő jogviszonyának felmentéssel történő megszüntetésére, ha a felmentést a 63. § (2) bekezdés d) vagy f) pontjában foglaltak szerint a kormánytisztviselő kérelmezi.
