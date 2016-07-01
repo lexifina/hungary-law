@@ -1,3 +1,3 @@
-4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^100]
+4. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^101]
 
-[^100]: A 4. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 117. § (3) bekezdésével megállapított, a 441/2015. (XII. 28.) Korm. rendelet 100. § (2) bekezdése szerint módosított szöveg, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^101]: A 4. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 117. § (3) bekezdésével megállapított, a 441/2015. (XII. 28.) Korm. rendelet 100. § (2) bekezdése, a 99/2016. (V. 13.) Korm. rendelet 6. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 5. § (2) bekezdését.

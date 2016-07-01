@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-382-20-
 | 2015-07-03 | 2007-382-20-22.24 | 171/2015. (VI. 30.) Korm. rendelet |
 | 2016-01-01 | 2007-382-20-22.25 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-01-14 | 2007-382-20-22.26 | 405/2015. (XII. 15.) Korm. rendelet |
+| 2016-07-01 | 2007-382-20-22.27 | 441/2015. (XII. 28.) Korm. rendelet |

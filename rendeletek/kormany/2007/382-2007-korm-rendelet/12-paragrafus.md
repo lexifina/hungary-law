@@ -1,4 +1,4 @@
-## 11. §[^25]
+## 11. §[^26]
 
 ## Vezetékjog
 
@@ -8,4 +8,4 @@
 
 (3) Az előkészítő eljárás során vizsgálni kell a terület- és településrendezési tervekkel való összhangot, valamint figyelemmel kell lenni az ingatlantulajdonos ingatlanát érintő – okirattal, különösen elvi építési engedéllyel vagy építési engedéllyel igazolt – középtávú terveire.
 
-[^25]: A 11. §-t és az azt megelőző alcímet a 441/2015. (XII. 28.) Korm. rendelet 101. § b) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^26]: A 11. §-t és az azt megelőző alcímet a 441/2015. (XII. 28.) Korm. rendelet 101. § b) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

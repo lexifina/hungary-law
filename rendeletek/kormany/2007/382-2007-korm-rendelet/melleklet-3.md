@@ -1,4 +1,4 @@
-3. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^96]
+3. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^97]
 
 ## Műszaki dokumentáció
 
@@ -34,7 +34,7 @@
 
 2.1. Az 1.1–1.9. pontokban felsorolt dokumentációk.
 
-3.[^97]
+3.[^98]
 
 4. Vezetékjog engedélyezéséhez szükséges dokumentáció
 
@@ -86,7 +86,7 @@ d) a tervezésre jogosultsággal rendelkezik [névjegyzéki (nyilvántartási) s
 
 6.1. Vezetékjog fennállását és keletkezésének időpontját, vagy a közcélú hálózat meglétét és létesítésének időpontját igazoló dokumentum.
 
-6.2.[^98] A hálózati engedélyes nyilatkozata arra vonatkozóan, hogy a közcélú hálózat a vonatkozó műszaki-biztonsági követelményeknek megfelel.
+6.2.[^99] A hálózati engedélyes nyilatkozata arra vonatkozóan, hogy a közcélú hálózat a vonatkozó műszaki-biztonsági követelményeknek megfelel.
 
 A létesítendő hálózat (vezeték) nyomvonalát, tartószerkezeteinek helyét, az általuk elfoglalt terület nagyságát, a hálózat (vezeték) biztonsági övezeteként kijelölt területsávot illető vezetékjog (szolgalmi jog) bejegyzéséhez szükséges változási vázrajzot az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység részletes szabályairól szóló rendelet szerint kell elkészíteni.
 
@@ -126,7 +126,7 @@ c) a vonatkozó jogszabályokban és a szakhatósági hozzájárulásokban fogla
 
 8.3. Az esetleges próbaüzem eredményeiről szóló nyilatkozat, valamint az üzembe helyezési eljárásról készült hitelesített jegyzőkönyv a jelenléti ívvel és annak mellékletei.
 
-9.[^99] Közcélú hálózat, a termelői vezeték, a magánvezeték, a közvetlen vezeték és azok tartószerkezeten elhelyezett, illetve külső kezelőterű átalakító vagy kapcsoló berendezésének üzemeltetési engedélyezéséhez, valamint az üzembe helyezési eljárás lefolytatásáról szóló bejelentéséhez szükséges dokumentáció
+9.[^100] Közcélú hálózat, a termelői vezeték, a magánvezeték, a közvetlen vezeték és azok tartószerkezeten elhelyezett, illetve külső kezelőterű átalakító vagy kapcsoló berendezésének üzemeltetési engedélyezéséhez, valamint az üzembe helyezési eljárás lefolytatásáról szóló bejelentéséhez szükséges dokumentáció
 
 9.1. A felelős műszaki vezető (vezetők) nyilatkozata arról, hogy
 
@@ -182,7 +182,7 @@ c) a tervezés során milyen szabványokat, műszaki irányelveket alkalmazott (
 
 d) a tervezésre jogosultsággal rendelkezik [névjegyzéki (nyilvántartási) számának feltüntetése].
 
-[^96]: A 3. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § b) pontjával megállapított szöveg.
-[^97]: A 3. számú melléklet 3. pontját a 441/2015. (XII. 28.) Korm. rendelet 101. § c) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^98]: A 3. számú melléklet 6.2. pontja a 405/2015. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^99]: A 3. számú melléklet 9. pont nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 100. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^97]: A 3. számú melléklet a 245/2012. (VIII. 31.) Korm. rendelet 11. § b) pontjával megállapított szöveg.
+[^98]: A 3. számú melléklet 3. pontját a 441/2015. (XII. 28.) Korm. rendelet 101. § c) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^99]: A 3. számú melléklet 6.2. pontja a 405/2015. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^100]: A 3. számú melléklet 9. pont nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 100. § (1) bekezdésével megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
