@@ -1,6 +1,4 @@
-## delegál.
-
-18/B. § (1)[^16] A DKT tagjait és elnökét a miniszter három évre bízza meg. A megbízás egy alkalommal meghosszabbítható. A tagságnak a megbízatási idő lejártát megelőző megszűnése esetén a delegáló testület, szervezet az eredeti tag megbízatásából hátralévő időtartamra új tagot delegál.
+18/B. § (1)[^18] A DKT tagjait és elnökét a miniszter három évre bízza meg. A megbízás egy alkalommal meghosszabbítható. A tagságnak a megbízatási idő lejártát megelőző megszűnése esetén a delegáló testület, szervezet az eredeti tag megbízatásából hátralévő időtartamra új tagot delegál.
 
 (2) A DKT működését az általa elfogadott és a miniszter által jóváhagyott ügyrend alapján folytatja.
 
@@ -8,4 +6,4 @@
 
 (4) A DKT elnökének nevét, tagjainak névsorát Magyarország – valamint a minisztérium – hivatalos lapjában, továbbá a minisztérium honlapján közzé kell tenni.
 
-[^16]: A 18/B. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^18]: A 18/B. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 8. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-18. § (1) Az FTT ellátja az Nftv. 46. § (5) bekezdésben meghatározott feladatát.
+18. § (1)[^14]
 
-(2) Az FTT az (1) bekezdésben meghatározott feladatai mellett
+(2)[^15] Az FTT
 
 a) szakértői tevékenysége keretében felméri a felsőoktatással, a felsőoktatási képzéssel kapcsolatos társadalmi, gazdasági és munkaerő-piaci igényeket és szükségleteket,
 
@@ -11,3 +11,6 @@ c) a miniszter felkérésére
 ca) egyedi szakértői véleményt ad,
 
 cb) az oktatáspolitikai döntéseket megalapozó elemzéseket készít, kutatást végez.
+
+[^14]: A 18. § (1) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^15]: A 18. § (2) bekezdés nyitó szövegrésze a 169/2016. (VII. 1.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
