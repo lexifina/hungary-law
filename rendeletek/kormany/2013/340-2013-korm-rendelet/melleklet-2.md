@@ -1,5 +1,3 @@
-## Előzetes engedélyezési kötelezettség alá tartozó egészségügyi ellátások a határon átnyúló egészségügyi ellátás keretében végzett külföldi gyógykezeléseknél
-
 | A | B |
 
 | I. | Az előzetes engedélyezési kötelezettség alá tartoznak az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet (a továbbiakban: R.) alapján a következő ellátások: |

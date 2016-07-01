@@ -1,4 +1,4 @@
-## Külföldi gyógykezelés az uniós rendeletek alapján – bírálati lap
+## 3K67702_0
 
 | Kérelem elbírálásának adatai |
 
@@ -87,3 +87,5 @@
 | Egyéb megjegyzés: |
 
 4. melléklet a 340/2013. (IX. 25.) Korm. rendelethez
+
+Külföldi gyógykezelés határon átnyúló egészségügyi ellátás keretében – bírálati lap

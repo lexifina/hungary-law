@@ -1,5 +1,3 @@
-## a finanszírozására.
-
 2. § (1) A külföldi gyógykezelésre jogosult személy külföldi gyógykezelést
 
 a) a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló európai uniós rendeletek (a továbbiakban: uniós rendeletek) rendelkezései szerint,
@@ -8,7 +6,7 @@ b) az Ebtv. 5/B. § s) pont sb) alpontja szerinti határon átnyúló egészség
 
 c) az Ebtv. 28. § (1) bekezdése és a 9. § szerint méltányosságból
 
-## vehet igénybe.
+vehet igénybe.
 
 (2) A külföldi gyógykezelésre jogosult személy külföldi gyógykezelést
 

@@ -1,3 +1,5 @@
+## 5K26961M_0
+
 | Kérelem külföldi egészségügyi ellátásra |  |
 
 | Kérelem általános adatai: |  |
@@ -107,3 +109,5 @@
 ## A kérelem benyújtójának aláírása
 
 3. melléklet a 340/2013. (IX. 25.) Korm. rendelethez
+
+Külföldi gyógykezelés az uniós rendeletek alapján – bírálati lap

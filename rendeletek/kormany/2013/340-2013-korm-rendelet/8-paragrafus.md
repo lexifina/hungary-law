@@ -4,7 +4,7 @@
 
 a) a magyar jogszabályok szerint beutalóköteles ellátások esetében az ellátásra vonatkozó és a jogszabályoknak megfelelő módon kiállított beutalót vagy annak másolatát, és
 
-b)[^5] az eredeti külföldi számlát, a számla fordítását és az annak kiegyenlítésére vonatkozó igazolást, továbbá ha a számlából nem állapíthatóak meg az igénybe vett egészségügyi szolgáltatás hazai szabályok szerinti elszámolásához szükséges adatok az ellátott betegségre, az elvégzett szolgáltatásokra, az ellátás időtartamára vonatkozóan, akkor az ezen adatokat tartalmazó zárójelentést és ennek fordítását.
+b)[^5] a külföldi számlát vagy ennek másolatát, a számla fordítását és az annak kiegyenlítésére vonatkozó igazolást, továbbá ha a számlából nem állapíthatóak meg az igénybe vett egészségügyi szolgáltatás hazai szabályok szerinti elszámolásához szükséges adatok az ellátott betegségre, az elvégzett szolgáltatásokra, az ellátás időtartamára vonatkozóan, akkor az ezen adatokat tartalmazó zárójelentést és ennek fordítását.
 
 (3) Az (1) bekezdésben foglaltaktól eltérően, ha a belföldi költség mértékéig történő megtérítést gyógyszer és gyógyászati segédeszköz esetében nem egyéb egészségügyi szolgáltatás igénybevételéhez kapcsolódóan kérelmezik, a költségek megtérítésének feltétele, hogy a külföldi gyógykezelésre jogosult személy a megtérítési kérelméhez csatolja
 
@@ -28,7 +28,7 @@ Az OEP a tájékoztatását a kérelem kézhezvételétől számított 8 napon b
 
 (7)[^8] A megjelenési esetenként 2000 Ft finanszírozási értéket nem meghaladó megtérítés iránti kérelem nem teljesíthető. Egy megjelenési esetnek számít fogorvosi ellátás, gondozóintézeti ellátás, járóbeteg-szakellátás – ideértve a CT, MRI vizsgálatokat, az orvosi klinikai laboratóriumi, mikrobiológiai, a molekuláris biológiai vizsgálatokat – esetén az egy napon, egy szolgáltatónál, egy szakmában elvégzett ellátás. Gyógyszer, gyógyászati segédeszköz megtérítése iránti kérelem esetén az orvosi rendelvényenként 2000 Ft Egészségbiztosítási Alap támogatási értéket meg nem haladó megtérítés iránti kérelem nem teljesíthető.
 
-[^5]: A 8. § (2) bekezdés b) pontja a 413/2015. (XII. 23.) Korm. rendelet 68. § a) pontja szerint módosított szöveg.
+[^5]: A 8. § (2) bekezdés b) pontja a 413/2015. (XII. 23.) Korm. rendelet 68. § a) pontja, a 172/2016. (VII. 1.) Korm. rendelet 69. §-a szerint módosított szöveg.
 [^6]: A 8. § (4) bekezdés nyitó szövegrésze a 413/2015. (XII. 23.) Korm. rendelet 68. § b) pontja szerint módosított szöveg.
 [^7]: A 8. § (5) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 70. § a) pontja hatályon kívül helyezte.
 [^8]: A 8. § (7) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 68. § c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## Külföldi gyógykezelés határon átnyúló egészségügyi ellátás keretében – bírálati lap
+## 3K67704_0
 
 | Kérelem elbírálásának adatai |
 
@@ -77,3 +77,5 @@
 | Egyéb megjegyzés: |
 
 5. melléklet a 340/2013. (IX. 25.) Korm. rendelethez
+
+Tagozat véleménye külföldi gyógykezelés igénybevételére irányuló kérelemről
