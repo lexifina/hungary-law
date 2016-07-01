@@ -1,3 +1,0 @@
-98. § A Bv. tv. 14. § (5) bekezdése a következő szöveggel lép hatályba:
-
-„(5) A szabadságvesztés és a kényszerintézkedés foganatosítása az elzárás, a közérdekű munka, a közérdekű munka helyébe lépő szabadságvesztés, a pénzbüntetés helyébe lépő szabadságvesztés és a javítóintézeti nevelés végrehajtását megszakítja. A javítóintézeti nevelés foganatosítása az elzárás és a közérdekű munka végrehajtását megszakítja. Az elzárás foganatosítása a közérdekű munka végrehajtását megszakítja. Az elzárás, a közérdekű munka, a közérdekű munka helyébe lépő szabadságvesztés és a pénzbüntetés helyébe lépő szabadságvesztés végrehajtása az értesítőlapoknak a végrehajtásért felelős szervhez érkezésének sorrendjében történik.”

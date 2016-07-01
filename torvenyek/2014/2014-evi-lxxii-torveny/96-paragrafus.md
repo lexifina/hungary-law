@@ -1,5 +1,0 @@
-96. § A Bv. tv. 13. § (1) és (2) bekezdése a következő szöveggel lép hatálya:
-
-„13. § (1) Az élet, a testi épség és az egészség elleni szándékos, ötévi vagy azt meghaladó szabadságvesztéssel büntetendő bűncselekmények (Btk. XV. Fejezet), valamint a nemi élet szabadsága és a nemi erkölcs elleni bűncselekmények (Btk. XIX. Fejezet) sértettjét kérelmére értesíteni kell az előzetesen letartóztatott szabadon bocsátásáról vagy szökéséről, az elítélt véglegesen vagy feltételesen történő szabadon bocsátásáról és a szabadságvesztés végrehajtásának félbeszakításáról, továbbá szökéséről, illetve javítóintézeti nevelés esetén a fiatalkorú végleges vagy ideiglenes elbocsátásáról, valamint a javítóintézet engedély nélküli elhagyásáról.
-
-(2) A kérelmet a büntetőügyben eljáró bíróságnál, előzetesen letartóztatott esetén a büntetőügyben eljáró ügyésznél kell benyújtani, és abban meg kell jelölni, hogy milyen lakcímre kéri a sértett az értesítést. A sértett a kérelmét a bírósághoz, vagy az ügyészhez történő bejelentésével visszavonhatja.”
