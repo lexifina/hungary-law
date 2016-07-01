@@ -8,4 +8,8 @@ a) a kiadmányozó külön jogszabályban meghatározott követelményeknek megf
 
 b) a szervezet nevében történő gépi aláírással és időbélyegzővel, az ügyintéző neve mellett „s.k.” jelzéssel, vagy
 
-c) az iraton az iratérvényességi nyilvántartásban történő nyilvántartás tényének feltüntetésével és az ügyintéző neve mellett „s.k.” jelzéssel.
+c) az iraton az iratérvényességi nyilvántartásban történő nyilvántartás tényének feltüntetésével és az ügyintéző neve mellett „s.k.” jelzéssel,
+
+d)[^16] a kiadmányozó személyéhez fűzött azonosításra visszavezetett dokumentumhitelesítés szolgáltatással.
+
+[^16]: A 46. § d) pontját a 123/2016. (VI. 7.) Korm. rendelet 4. § (2) bekezdése iktatta be.
