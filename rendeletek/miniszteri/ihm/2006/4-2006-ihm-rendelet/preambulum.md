@@ -1,1 +1,0 @@
-Az elektronikus aláírásról szóló 2001. évi XXXV. törvény (a továbbiakban: Eat.) 27. §-a (2) bekezdésének c) pontjában, valamint az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 67. §-ának (2) bekezdésében foglalt felhatalmazás alapján – a pénzügyminiszterrel egyetértésben – a következőket rendelem el:
