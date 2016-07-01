@@ -1,5 +1,17 @@
 ## 6. A kéményseprő-ipari tevékenységhez szükséges formanyomtatványok
 
-10. §[^10]
+10. § (1) A kéményseprő-ipari tevékenységet ellátó a 3. §-ban, valamint a 8. § (2) bekezdésében meghatározott és elvégzett feladatokról szóló, elektronikus vagy papír alapú tanúsítványt a 2. mellékletben meghatározott tartalommal tölti ki, társasház és lakásszövetkezeti lakóépület esetén egyrészt a külön tulajdonban lévő önálló rendeltetési egységre, másrészt a társasházi, lakásszövetkezeti közös tulajdonban lévő ingatlanrészre. A papír alapon kitöltött tanúsítvány egy példányát vagy az elektronikus úton rögzített tanúsítványról készített, a 3. melléklet szerinti papír alapú kivonat egy példányát a kéményseprő-ipari tevékenységet ellátó az ingatlan tulajdonosának, annak távollétében az ingatlan használójának, társasházi és lakásszövetkezeti közös tulajdonban lévő ingatlanrész esetén a társasház közös képviselőjének és a lakásszövetkezet elnökének, megrendelés esetén a megrendelőnek igazolt módon átadja. Társasház, lakásszövetkezeti lakóépület esetén a kéményseprő-ipari szerv, a Kstv. 10. § (3) bekezdése szerinti szolgáltató a külön tulajdonban lévő önálló rendeltetési egységben található égéstermék-elvezető műszaki felülvizsgálatának eredményéről annak elvégzésétől számított harminc napon belül tájékoztatja a közös képviselőt, a lakásszövetkezet elnökét.
 
-[^10]: A 10. § a 19. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+(2) A kéményseprő-ipari tevékenységet ellátó a helyszíni műszaki vizsgálatok eredményéről szóló szakmai nyilatkozatot a 4. mellékletben meghatározott tartalommal tölti ki, társasház és lakásszövetkezeti lakóépület esetén egyrészt a külön tulajdonban lévő önálló rendeltetési egységre, másrészt a társasházi, lakásszövetkezeti közös tulajdonban lévő ingatlanrészre.
+
+(3) A kéményseprő-ipari tevékenységet ellátó a tervezett vagy tervezéssel érintett égéstermék-elvezető műszaki megoldásának megfelelőségével összefüggő, megrendelt vizsgálatról szóló szakmai nyilatkozatot az 5. mellékletben meghatározott tartalommal tölti ki.
+
+(4) A kéményseprő-ipari tevékenységet ellátó a tanúsítványokat és szakmai nyilatkozatokat olvashatóan, e rendelet mellékletei szerinti jelölések alkalmazásával tölti ki. A papír alapú tanúsítványokat és szakmai nyilatkozatokat legalább két példányban kell elkészíteni.
+
+(5) A kéményseprő-ipari tevékenységet ellátó a kiadott tanúsítványok, szakmai nyilatkozatok, valamint a Kstv. 3. § (1) bekezdésében és a Kstv. 10. § (5) bekezdésében meghatározott értesítés egy példányát öt évig, a 7. § (4), (6) és (7) bekezdésében, valamint a 8. § (3) bekezdésében meghatározott műszaki vizsgálatokra vonatkozó nyilatkozatát a használatbavételig, de legalább öt évig megőrzi.
+
+(6) A kéményseprő-ipari szerv a Kstv. 2. § (4)–(5) bekezdésében meghatározott tevékenységet közfeladatként látja el, ezért a 2. melléklet szerinti tanúsítványt, a 3. melléklet szerinti kivonatot, valamint a 4–5. melléklet szerinti szakmai nyilatkozatokat – a számvitelről szóló 2000. évi C. törvény előírásainak megfelelő – kiegészítő adattartalommal együtt alkalmazza. A kéményseprő-ipari szerv a kiegészítő adattartalmat normatív utasításban rögzíti.
+
+(7) A kéményseprő-ipari tevékenységet ellátó a tűzvédelmi hatóság megkeresésére elvégzett feladatok eredményéről szóló tanúsítvány vagy szakmai nyilatkozat egy példányát a tűzvédelmi hatóság részére a helyszínen átadja vagy a vizsgálatot követő munkanapon továbbítja.
+
+(8) A Kstv. 3. § (1) bekezdése szerinti, a sormunkáról szóló első értesítés hirdetményi úton való közlése esetén a kéményseprő-ipari szerv és a Kstv. 10. § (3) bekezdése szerinti szolgáltató a 9. melléklet szerinti hirdetményt a helyben szokásos módon, a címzett számára jól láthatóan helyezi ki.

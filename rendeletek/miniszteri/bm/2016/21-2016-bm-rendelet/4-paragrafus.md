@@ -1,3 +1,3 @@
-4. §[^4]
+4. § (1) A kéményseprő-ipari szerv, a Kstv. 10. § (3) bekezdése szerinti szolgáltató a sormunkák ütemezésére a tárgyévet megelőző év december 31-ig éves kéményseprő-ipari ütemtervet készít havi bontásban, amelyet ügyfélszolgálati irodáiban, valamint honlapján közzétesz és arról a helyi önkormányzatot írásban tájékoztatja. A kéményseprő-ipari ütemtervet a helyi önkormányzat a helyben szokásos módon a kézhezvételét követően haladéktalanul közzéteszi.
 
-[^4]: A 3–5. § a 19. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+(2) A kéményseprő-ipari szolgáltatónak a tevékenység végzésétől a Kstv. 7. § (7) bekezdés b) pont bb) alpontja szerinti eltiltása esetén az eltiltás időtartama alatt a kéményseprő-ipari tevékenységet a kéményseprő-ipari szerv látja el a kéményseprő-ipari szervre meghatározott szabályok szerint.
