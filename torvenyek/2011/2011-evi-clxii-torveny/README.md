@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-162-00-00
 | 2015-04-08 | 2015. évi XXXII. törvény | 2011-162-00-00.20 |
 | 2015-06-19 | 2015. évi LXXI. törvény | 2011-162-00-00.21 |
 | 2015-07-01 | 2015. évi XLII. törvény | 2011-162-00-00.22 |
+| 2016-07-01 | 2016. évi LXIV. törvény | 2011-162-00-00.23 |
