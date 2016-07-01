@@ -1,4 +1,4 @@
-## 34. §[^12]
+## 34. §[^11]
 
 ## 7. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 27. §, a 28. § (1) bekezdése és az 1. melléklet 2017. január 1-jén lép hatályba.
 
-[^12]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

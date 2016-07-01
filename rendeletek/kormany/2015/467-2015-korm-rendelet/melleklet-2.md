@@ -1,3 +1,3 @@
-2–3. melléklet a 467/2015. (XII. 29.) Korm. rendelethez[^14]
+2–3. melléklet a 467/2015. (XII. 29.) Korm. rendelethez[^13]
 
-[^14]: A 2–3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 2–3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
