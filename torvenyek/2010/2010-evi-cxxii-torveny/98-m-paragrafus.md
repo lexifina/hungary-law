@@ -1,3 +1,1 @@
-98/M. § (1) Ha a 2013. december 31-én a Nemzeti Adó- és Vámhivatal személyi állományában álló kormánytisztviselő, pénzügyőr, illetve ügykezelő NAV Mód. IV. tv. 324. §-ával, illetve 343. § 34–36. pontjával módosított összeférhetetlenségi szabályok alapján 2014. január 1-jével összeférhetetlen helyzetbe kerül vagy engedélykérelem terheli, az összeférhetetlenségi okot köteles 2014. január 31-ig a munkáltatói jogkör gyakorlójának írásban bejelenteni, illetve az engedély iránti kérelmet előterjeszteni. Egyebekben – a (2) bekezdésre is figyelemmel – a 33/F. § (1)–(2) bekezdését kell alkalmazni azzal az eltéréssel, hogy az ott meghatározott határidő helyett az összeférhetetlenséget 90 napon belül kell megszüntetni.
-
-(2) Az (1) bekezdés szerinti engedélykérelem elutasítása esetén az elutasításról szóló írásbeli döntés egyúttal tartalmazza az összeférhetetlenség megszüntetésére vonatkozó felszólítást is.
+### 98/M. §

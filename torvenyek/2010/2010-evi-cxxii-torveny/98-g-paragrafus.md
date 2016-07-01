@@ -1,1 +1,0 @@
-98/G. § Annak a pénzügyőrnek, akinek az illetményét az 5. számú mellékletnek a NAV Mód. II. tv. 27. §-ával történő hatályon kívül helyezése érinti, illetménye nem lehet kevesebb, mint a 2012. augusztus 31-én hatályos illetménye.

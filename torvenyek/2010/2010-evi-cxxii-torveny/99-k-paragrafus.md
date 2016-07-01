@@ -1,0 +1,1 @@
+99/K. § A 2016. július 1-jét követően létesített jogviszony esetén a kormánytisztviselő, a pénzügyőr illetményét a 99/D. § alkalmazásával úgy kell megállapítani, mintha a jogviszony létesítése 2016. június 30-án történt volna.

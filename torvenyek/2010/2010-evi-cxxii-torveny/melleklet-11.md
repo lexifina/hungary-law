@@ -38,7 +38,7 @@ Minősítési lap
 
 ## b) eredményei:
 
-## 7. Szempontok a feltételek és feladatok teljesítésének megítéléséhez [az a–p) pontok mindegyike 1–5-ig pontozandó: Kiemelkedő (5), Átlag feletti (4), Átlagos (3), Átlag alatti (2), Nem kielégítő (1)]
+## 7. Szempontok a feltételek és feladatok teljesítésének megítéléséhez [az a–p) pontok mindegyike 1–5-ig pontozandó: Kivételes (5), Jó (4), Átlagos (3), Átlag alatti (2), Elfogadhatatlan (1)]
 
 ## a) szakmai ismeret és jártasság,
 
@@ -80,13 +80,15 @@ Minősítési lap
 
 ## 9. A minősített alkalmasságának megítélése (a 7–8. pontban megjelölt szempontok alapján és a 6. pont figyelembevételével):
 
-## 1. Kiválóan megfelelt,
+## 1. Kivételes,
 
-## 2. Megfelelt,
+## 2. Jó,
 
-## 3. Kevésbé felelt meg,
+## 3. Átlagos,
 
-## 4. Nem felelt meg.
+## 4. Átlag alatti,
+
+## 5. Elfogadhatatlan.
 
 ## 10. A minősítés indokolása:
 
@@ -103,3 +105,7 @@ Minősítési lap
 ## Dátum, és a minősített aláírása:
 
 ## Az érdekképviseleti szerv észrevételei:
+
+## Dátum, és az érdekképviseleti szerv tisztségviselőjének neve, aláírása:
+
+## Tisztsége:

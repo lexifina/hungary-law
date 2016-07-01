@@ -22,6 +22,22 @@ i) szervezeti egység: a szerv azon szervezeti eleme, amelyet osztályvezető (i
 
 j) kormányzati szolgálati jogviszonyra, hivatásos szolgálati jogviszonyra (együtt: szolgálati jogviszonyra) vonatkozó szabály: az e törvényben, a Kttv.-ben, a Hszt.-ben, valamint az ezen törvények végrehajtására kiadott rendeletben, továbbá az e törvényben meghatározott tárgykörökben a foglalkoztatási szabályzatban meghatározott rendelkezés;
 
+k) állománytáblázat: a NAV szerveinek szervezeti egységeit, az adott szervnél betölthető munkaköröket, azok besorolását, továbbá a hivatásos munkakörök tekintetében az azokban rendszeresített rendfokozatokat meghatározó dokumentum,
+
+l) szervezeti állománytáblázat: a NAV egészére vonatkozó, a NAV valamennyi szervének állománytáblázatát magában foglaló összesített állománytáblázat,
+
+m) alacsonyabb vezetői munkakör: az a vezetői munkakör, amely a betöltött vezetői munkakörhöz képest alacsonyabb besorolási kategóriába tartozik,
+
+n) alacsonyabb besorolású munkakör: az a munkakör, amely a betöltött munkakörnél alacsonyabb besorolási osztályba vagy besorolási kategóriába tartozik, továbbá a vezetői munkakört betöltők esetében a nem vezetői munkakör vagy az alacsonyabb vezetői munkakör is,
+
+o) azonos vezetői munkakör: az a vezetői munkakör, amelynek besorolási kategóriája megegyezik a betöltött munkakör besorolási kategóriájával,
+
+p) azonos besorolású munkakör: az a munkakör, amely a betöltött munkakörrel azonos besorolási osztályba és besorolási kategóriába tartozik;
+
+q) magasabb vezetői munkakör: az a vezetői munkakör, amely a betöltött vezetői munkakör besorolási kategóriájánál magasabb besorolási kategóriába tartozik;
+
+r) magasabb besorolású munkakör: az a munkakör, amely a betöltött munkakörnél magasabb besorolási osztályba vagy magasabb besorolási kategóriába tartozik vagy magasabb vezetői munkakörnek minősül, továbbá a nem vezetői munkakört betöltők esetében a vezetői munkakör is.
+
 (1a) E törvény, valamint a NAV személyi állományának jogviszonyát szabályozó más jogszabályok alkalmazásában pénzügyi nyomozó:
 
 a) az a pénzügyőr, aki a NAV bűnmegelőzési, bűnüldözési, bűnfelderítési és nyomozati feladatait látja el,
@@ -48,7 +64,7 @@ b) szervezeti egységet említ, azon a NAV tekintetében a központi szerveket, 
 
 c) beosztási illetményt említ, azon a NAV tekintetében az e törvény szerinti alapilletményt;
 
-d) alapilletményt említ, azon a NAV tekintetében az e törvény szerinti alapilletmény és rendfokozati illetmény együttes összegét;
+d) alapilletményt említ, azon a NAV tekintetében az e törvény szerinti alapilletmény, közszolgálati pótlék és időpótlék együttes összegét;
 
 e) szolgálati beosztást említ, azon a NAV tekintetében munkakört;
 
@@ -66,7 +82,7 @@ kell érteni.
 
 (7a) Ahol a Kttv., illetve a Hszt. közeli hozzátartozóról vagy hozzátartozóról rendelkezik, azon a NAV kormánytisztviselőjének, kormányzati ügykezelőjének, illetve a pénzügyőrnek a (7) bekezdés szerinti közeli hozzátartozóját, illetve hozzátartozóját kell érteni.
 
-(8) Illetmény alatt az alapilletmény, az illetménykiegészítés, a pótlékok tekintetében a rendszeres pótlékok, valamint – pénzügyőr esetén – a rendfokozati illetmény együttes összegét kell érteni
+(8) Illetmény alatt az alapilletmény, az időpótlék, a közszolgálati pótlék, továbbá az idegennyelv-tudási pótlék, valamint a korrekciós díj együttes összegét kell érteni:
 
 a) az érvénytelenség jogkövetkezményeire,
 
@@ -82,10 +98,12 @@ f) a tanulmányi célú mentesítésre,
 
 g) a fegyelmi és a kártérítési felelősségre,
 
-h) a kormányzati szolgálati jogviszonnyal, hivatásos szolgálati jogviszonnyal össze nem függő bűncselekménnyel kapcsolatos eljárás keretében való állásból való felfüggesztésre
+h) a kormányzati szolgálati jogviszonnyal, hivatásos szolgálati jogviszonnyal össze nem függő bűncselekménnyel kapcsolatos eljárás keretében való állásból való felfüggesztésre,
 
-i) a jogviszony jogellenes megszüntetésére
+i) a jogviszony jogellenes megszüntetésére,
+
+j) a végkielégítésre
 
 vonatkozó rendelkezések alkalmazásában.
 
-(9) A (8) bekezdés alkalmazásában rendszeres pótlék alatt a vezetői pótlékot, továbbá amennyiben megállapításának feltételei egyébként fennállnak, az idegennyelv-tudási pótlékot és a veszélyességi pótlékot kell érteni.
+(9) A 22. § (2) bekezdés b) pontja alkalmazásában közvetlen kinevezés, ha az érintett jogviszonya a NAV-nál a 22. § (2) bekezdés b) pontban meghatározott szervnél fennálló jogviszonyának megszűnését követő első munkanapon jön létre.

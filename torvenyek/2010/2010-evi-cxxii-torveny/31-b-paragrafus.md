@@ -1,9 +1,29 @@
-## Címzetes címek
+## Végkielégítés
 
-31/B. § (1) Az állami adó- és vámhatóság vezetője a tartósan kiemelkedő munkát végző felsőfokú iskolai végzettségű kormánytisztviselőnek, amennyiben közigazgatási szakvizsgával rendelkezik, valamint a tartósan kiemelkedő munkát végző felsőfokú iskolai végzettségű pénzügyőrnek címzetes vezetőtanácsosi, címzetes főtanácsosi, címzetes vezető-főtanácsosi, a középiskolai végzettségű kormánytisztviselőnek és pénzügyőrnek címzetes főmunkatársi címet adományozhat.
+31/B. § (1) A végkielégítés összege, ha a kormánytisztviselő, illetve a pénzügyőr kormányzati szolgálati jogviszonyban, illetve hivatásos szolgálati jogviszonyban töltött ideje legalább
 
-(2) Címzetes vezető-tanácsosi cím a legalább öt, címzetes főtanácsosi cím a legalább tizenkettő, címzetes vezető-főtanácsosi cím a legalább húsz, címzetes főmunkatársi cím a legalább tizennyolc év kormányzati szolgálati jogviszonyban, hivatásos szolgálati jogviszonyban töltött idővel rendelkező kormánytisztviselőnek, illetve pénzügyőrnek adományozható.
+a) három év: egyhavi,
 
-(3) A kormánytisztviselő és a pénzügyőr a címzetes vezető-tanácsosi címmel a vezető-tanácsos besorolási fokozat 7-es fizetési fokozatába, a címzetes főtanácsosi címmel a főtanácsos besorolási fokozat 11-es fizetési fokozatába, a címzetes vezető-főtanácsosi címmel a vezető-főtanácsos besorolási fokozat 14-es fizetési fokozatába, a címzetes főmunkatársi címmel a főmunkatárs besorolási fokozat 14-es fizetési fokozatába, a pénzügyi nyomozó II. munkakört betöltő a főmunkatárs besorolási fokozat 15-ös fizetési fokozatába kerül. Ha a kormánytisztviselő, illetve a pénzügyőr a jogviszonyban töltött idő alapján eléri a címmel járó besorolási, fizetési fokozatot, akkor a cím megszűnik és a kormánytisztviselő, illetve a pénzügyőr további előmenetelére az általános szabályok az irányadók.
+b) öt év: kéthavi,
 
-(4) Ha a kormánytisztviselő, illetve a pénzügyőr jogviszonya nyugdíjazás miatt szűnik meg, a besorolására, valamint a cím viselésére, vezetői munkakörére utaló megnevezést nyugdíjasként is viselheti.
+c) nyolc év: háromhavi,
+
+d) tíz év: négyhavi,
+
+e) tizenhárom év: öthavi,
+
+f) tizenhat év: hathavi,
+
+g) húsz év: nyolchavi,
+
+h) huszonöt év: kilenchavi,
+
+i) harminc év: tízhavi
+
+illetményének megfelelő összeg.
+
+(2) A végkielégítés mértéke négyhavi illetmény összegével emelkedik, ha a kormánytisztviselő kormányzati szolgálati jogviszonya, illetve a pénzügyőr hivatásos szolgálati jogviszonya az öregségi nyugdíjra való jogosultság megszerzését megelőző öt éven belül szűnik meg. Nem illeti meg az emelt összegű végkielégítés a kormánytisztviselőt, illetve a pénzügyőrt, ha valamelyik jogcímen korábban már emelt összegű végkielégítésben részesült. A kifizetett végkielégítés összegét fel kell tüntetni a közszolgálati igazoláson.
+
+(3) E § alkalmazásában a pénzügyőrök tekintetében a Hszt. szerinti hivatásos szolgálati időt kell figyelembe venni.
+
+(4) A végkielégítésre egyebekben a Kttv., illetve a Hszt. végkielégítésre vonatkozó szabályait kell alkalmazni.

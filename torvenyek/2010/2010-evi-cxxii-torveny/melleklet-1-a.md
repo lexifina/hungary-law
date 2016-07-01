@@ -1,9 +1,5 @@
+## (középiskolai végzettségű kormánytisztviselők és pénzügyőrök)
+
+## | 1. | Fizetési fokozat | Jogviszony időtartama (év) | Várakozási idő a fizetési fokozatban (év) | Besorolási kategóriák és az illetményalapra vetített szorzószámuk | 2. | A | B | C | D | 3. | 1 | 0–2 | 2 | 4,70 | | | | 4. | 2 | 2–5 | 3 | 4,80 | 5,30 | 5,80 | | 5. | 3 | 5–9 | 4 | 4,90 | 5,40 | 5,90 | 6,90 | 6. | 4 | 9–13 | 4 | 5,10 | 5,60 | 6,10 | 7,10 | 7. | 5 | 13–17 | 4 | ,5,30 | 5,80 | 6,30 | 7,30 | 8. | 6 | 17–21 | 4 | 5,50 | 6,00 | 6,50 | 7,50 | 9. | 7 | 21–25 | 4 | 5,70 | 6,20 | 6,70 | 7,70 | 10. | 8 | 25–29 | 4 | 5,90 | 6,40 | 6,90 | 7,90 | 11. | 9 | 29–33 | 4 | 6,10 | 6,60 | 7,10 | 8,10 | 12. | 10 | 33–37 | 4 | 6,30 | 6,80 | 7,30 | 8,30 | 13. | 11 | 37–40 | 3 | 6,50 | 7,00 | 7,50 | 8,50 | 14. | 12 | 40–43 | 3 | 6,60 | 7,10 | 7,60 | 8,60 | 15. | 13 | 43 felett | | 6,70 | 7,20 | 7,70 | 8,70
+
 1/A. számú melléklet a 2010. évi CXXII. törvényhez
-
-I. BESOROLÁSI OSZTÁLY
-
-## (pénzügyi nyomozó I. munkakört betöltő)
-
-## | | A | B | C | D | 1 | Besorolási fokozat megnevezése | Fizetési fokozat | Jogviszony időtartama (év) | Szorzószám | 2 | Gyakornok | 1 | 0–1 | 3,10 | 3 | Fogalmazó | 2 | 1–2 | 4,60 | 4 | | 3 | 2–3 | 4,65 | 5 | Tanácsos | 4 | 3–4 | 4,80 | 6 | | 5 | 4–6 | 4,85 | 7 | | 6 | 6–8 | 4,90 | 8 | Vezető-tanácsos | 7 | 8–10 | 5,10 | 9 | | 8 | 10–12 | 5,20 | 10 | | 9 | 12–14 | 5,30 | 11 | | 10 | 14–16 | 5,40 | 12 | Főtanácsos | 11 | 16–19 | 5,60 | 13 | | 12 | 19–22 | 5,70 | 14 | | 13 | 22–25 | 5,80 | 15 | Vezető-főtanácsos | 14 | 25–29 | 6,00 | 16 | | 15 | 29–33 | 6,05 | 17 | | 16 | 33–37 | 6,10 | 18 | | 17 | 37 év felett | 6,15
-
-II. BESOROLÁSI OSZTÁLY

@@ -1,33 +1,11 @@
-20/C. § (1) A pénzügyőr a 7/A. sz. melléklet szerinti rendfokozati állománycsoportjába tartozó rendfokozattal rendelkezik. A rendfokozatban való előmenetel a magasabb rendfokozatba történő előléptetéssel és kinevezéssel valósul meg. A pénzügyőr előléptethető
+20/C. § (1) A pénzügyőr soron kívül eggyel magasabb rendfokozatba kinevezhető, előléptethető, ha a rendfokozatban történő előléptetés, kinevezés legfeljebb egy fizetési fokozatban történő előresorolással jár együtt, és a magasabb rendfokozathoz szükséges képzettséggel rendelkezik, továbbá az utolsó teljesítményértékelés eredménye „kivételes”.
 
-a) soron,
+(2) Az (1) bekezdés szerinti magasabb rendfokozatba kinevezésre, előléptetésre a besorolási kategórián belül egy alkalommal kerülhet sor.
 
-b) soron kívül,
+(3) A kijelölt miniszter az (1) bekezdésben meghatározott feltételek nélkül is soron kívül eggyel magasabb rendfokozatba és ezzel együtt magasabb fizetési fokozatba léptetheti elő a pénzügyőrt, ha a szolgálat teljesítésében kimagasló helytállást tanúsított.
 
-c) a (7)–(8) bekezdésben meghatározott egyéb okból.
+(4) A (3) bekezdés szerinti esetben a pénzügyőrt az adott rendfokozathoz tartozó legalacsonyabb fizetési fokozatba kell sorolni.
 
-(2) A soron következő rendfokozatba elő kell léptetni a pénzügyőrt, ha megfelel az alábbi együttes feltételeknek:
+(5) Az (1) és (3) bekezdés szerinti esetben a pénzügyőr mindaddig nem léphet magasabb fizetési fokozatba, illetve egyidejűleg magasabb rendfokozatba, ameddig a jogviszonyban töltött ideje, vagy a munkáltatói intézkedés alapján arra jogosultságot nem szerez.
 
-a) a munkakörére előírt iskolai végzettséggel és szakképesítéssel rendelkezik, továbbá az előírt egyéb képzési követelményeket teljesítette,
-
-b) a rendfokozatára megállapított várakozási ideje letelt.
-
-(3) A várakozási időt a rendfokozatba kinevezésről, illetve az előléptetésről szóló okmányban meghatározott naptól kell számítani. A várakozási időbe az 1 évet meghaladó illetmény nélküli szabadság időtartama – a gyermekgondozás céljából igénybe vett illetmény nélküli szabadságot kivéve – nem számít bele.
-
-(4) Nem léptethető elő a pénzügyőr
-
-a) a rendfokozatot érintő fegyelmi büntetés, vagy bírósági ítélet végrehajtásának tartama alatt,
-
-b) ha ellene büntető, vagy fegyelmi eljárás van folyamatban,
-
-c) a részére meghatározott végzettség megszerzéséig, illetve képzési követelmény teljesítéséig, amennyiben a képzési követelményt a munkáltató kötelezése ellenére önhibájából nem teljesítette.
-
-(5) Ha a pénzügyőrt a (4) bekezdés b) pontja miatt nem léptették elő és az eljárás nem végződött rendfokozatot érintő büntetés kiszabásával, az eljárás jogerős befejezésekor a várakozási idő leteltének napjával elő kell léptetni.
-
-(6) A pénzügyőr soron kívül eggyel magasabb rendfokozatba előléptethető, ha a magasabb rendfokozathoz szükséges iskolai végzettséggel (szakképesítéssel) és „kiválóan megfelelt” minősítéssel rendelkezik, és a meglévő rendfokozatában eltöltendő várakozási időnek legalább a fele eltelt.
-
-(7) A nyugállományba vonulással egyidejűleg eggyel magasabb rendfokozatba lehet előléptetni a pénzügyőrt, ha a nyugállományba helyezésére a hivatásos szolgálat felső korhatárának elérésével, illetőleg 20 évi szolgálat után szolgálati kötelmekkel összefüggő rokkantság miatt került sor, és szolgálati feladatait kiemelkedő eredményességgel látta el.
-
-(8) Eggyel magasabb rendfokozatba kell előléptetni, kinevezni a hősi halottá nyilvánított tisztet, főtisztet és tábornokot. A hősi halottá nyilvánított, tisztnél alacsonyabb rendfokozatú személyt hadnagyi rendfokozatba kell kinevezni.
-
-(9) A rendfokozatokat és a rendfokozati várakozási időket a 7/A. számú melléklet tartalmazza.
+(6) Ha a pénzügyőrt alacsonyabb besorolású munkakörbe nevezik ki, és az új munkakör besorolási kategóriájához rendelt fizetési fokozata szerinti rendfokozata alacsonyabb a viselt rendfokozatánál, a pénzügyőr továbbra is a magasabb rendfokozat viselésére jogosult.

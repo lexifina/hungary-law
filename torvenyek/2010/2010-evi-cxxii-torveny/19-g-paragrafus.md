@@ -1,1 +1,5 @@
-19/G. § A kormánytisztviselőt, illetve a pénzügyőrt a munkaköre betöltéséhez szükséges iskolai végzettségének és a 20/A. § (1) bekezdése szerinti jogviszonyban eltöltött idejének megfelelően kell besorolni.
+## A kormánytisztviselő és a pénzügyőr besorolása
+
+19/G. § (1) A tervezett munkakörbe történő kinevezés előtt a munkáltatói jogkör gyakorlója megvizsgálja, hogy az érintett rendelkezik-e a munkakör ellátásához szükséges iskolai végzettséggel, megfelel-e az alkalmassági és a munkakör betöltéséhez előírt egyéb követelményeknek, megállapítja a fizetési fokozat meghatározásához figyelembe vehető jogviszonyban töltött idejét, továbbá pénzügyőr esetében a besorolás alapján viselhető rendfokozatot. Munkakörbe kinevezni – jogszabály eltérő rendelkezése hiányában – csak azt lehet, aki megfelel a munkakör betöltésére előírt feltételeknek és a munkakör besorolási osztályához rendelt követelményeknek.
+
+(2) A munkáltatói jogkör gyakorlója a munkakörbe kinevezéskor az (1) bekezdésben meghatározottak alapján besorolja az érintettet, megállapítja a fizetési fokozatát és pénzügyőr esetében a rendfokozatát. Ha a pénzügyőr viselt rendfokozata alacsonyabb a besorolás szerintinél, a munkáltatói jogkör gyakorlója a pénzügyőrt a rendfokozatba kinevezi, előlépteti vagy kinevezésre, előléptetésre előterjeszti az arra jogosulthoz.

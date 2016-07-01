@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-122-00-00
 | 2016-01-07 | 2015. évi CCXXV. törvény | 2010-122-00-00.27 |
 | 2016-05-01 | 2016. évi XIII. törvény | 2010-122-00-00.28 |
 | 2016-05-06 | 2016. évi XXXIII. törvény | 2010-122-00-00.29 |
+| 2016-07-01 | 2016. évi LXVI. törvény | 2010-122-00-00.30 |

@@ -1,13 +1,9 @@
 1. számú melléklet a 2010. évi CXXII. törvényhez
 
-I. BESOROLÁSI OSZTÁLY (felsőfokú iskolai végzettségű kormánytisztviselők és pénzügyőrök)
+I. BESOROLÁSI OSZTÁLY
 
-## | | A | B | C | D | | Besorolási fokozat megnevezése | Fizetési fokozat | Jogviszony időtartama (év) | Szorzószám | 1 | Gyakornok | 1 | 0–1 | 3,10 | 2 | Fogalmazó | 2 | 1–2 | 3,20 | 3 | | 3 | 2–3 | 3,30 | 4 | Tanácsos | 4 | 3–4 | 3,50 | 5 | | 5 | 4–6 | 3,70 | 6 | | 6 | 6–8 | 3,90 | 7 | Vezető-tanácsos | 7 | 8–10 | 4,20 | 8 | | 8 | 10–12 | 4,40 | 9 | | 9 | 12–14 | 4,60 | 10 | | 10 | 14–16 | 4,80 | 11 | Főtanácsos | 11 | 16–19 | 5,10 | 12 | | 12 | 19–22 | 5,20 | 13 | | 13 | 22–25 | 5,30 | 14 | Vezető-főtanácsos | 14 | 25–29 | 5,60 | 15 | | 15 | 29–33 | 5,70 | 16 | | 16 | 33–37 | 5,80 | 17 | | 17 | 37 év felett | 6,00
+## (felsőfokú iskolai végzettségű kormánytisztviselők és pénzügyőrök)
 
-II. BESOROLÁSI OSZTÁLY (középiskolai végzettségű kormánytisztviselők és pénzügyőrök)
+## | 1. | Fizetési fokozat | Jogviszony időtartama (év) | Várakozási idő a fizetési fokozatban (év) | Besorolási kategóriák és az illetményalapra vetített szorzószámuk | 2. | A | B | C | D | E | 3. | 1 | 0–1 | 1 | 7,40 | | | | | 4. | 2 | 1–3 | 2 | 7,50 | 8,80 | | | | 5. | 3 | 3–5 | 2 | 7,60 | 8,90 | 9,70 | 10,10 | | 6. | 4 | 5–9 | 4 | 7,70 | 9,00 | 9,80 | 10,20 | 10,60 | 7. | 5 | 9–13 | 4 | 8,00 | 9,30 | 10,10 | 10,50 | 10,90 | 8. | 6 | 13–17 | 4 | 8,30 | 9,60 | 10,40 | 10,80 | 11,20 | 9. | 7 | 17–21 | 4 | 8,60 | 9,90 | 10,70 | 11,10 | 11,50 | 10. | 8 | 21–25 | 4 | 8,90 | 10,20 | 11,00 | 11,40 | 11,80 | 11. | 9 | 25–29 | 4 | 9,20 | 10,50 | 11,30 | 11,70 | 12,10 | 12. | 10 | 29–33 | 4 | 9,50 | 10,80 | 11,60 | 12,00 | 12,40 | 13. | 11 | 33–37 | 4 | 9,80 | 11,10 | 11,90 | 12,30 | 12,70 | 14. | 12 | 37–40 | 3 | 10,10 | 11,40 | 12,20 | 12,60 | 13,00 | 15. | 13 | 40 felett | | 10,40 | 11,70 | 12,50 | 12,90 | 13,30
 
-## | 1 | A | B | C | D | 2 | Besorolási fokozat megnevezése | Fizetési fokozat | Jogviszony időtartama (év) | Szorzószám | 3 | Gyakornok | 1 | 0-2 | 2,70 | 4 | Előadó | 2 | 2-4 | 2,80 | 5 | | 3 | 4-6 | 2,90 | 6 | | 4 | 6-8 | 3,10 | 7 | | 5 | 8-10 | 3,15 | 8 | | 6 | 10-12 | 3,20 | 9 | Főelőadó | 7 | 12-15 | 3,40 | 10 | | 8 | 15-18 | 3,50 | 11 | | 9 | 18-21 | 3,55 | 12 | | 10 | 21-24 | 3,60 | 13 | | 11 | 24-27 | 3,70 | 14 | | 12 | 27-29 | 3,75 | 15 | | 13 | 29-31 | 3,80 | 16 | Főmunkatárs | 14 | 31-33 | 4,00 | 17 | | 15 | 33-35 | 4,50 | 18 | | 16 | 35-37 | 4,70 | 19 | | 17 | 37-40 | 4,90 | 20 | | 18 | 40 év felett | 5,10
-
-III. BESOROLÁSI OSZTÁLY (ügykezelők)
-
-IV. BESOROLÁSI OSZTÁLY (fizikai alkalmazottak)
+II. BESOROLÁSI OSZTÁLY

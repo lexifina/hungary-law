@@ -8,7 +8,7 @@ ab) a munkaköre ellátására alkalmatlanná vált,
 
 és részére megfelelő munkakör nem biztosítható;
 
-b) minősítése „nem felelt meg” fokozata alapján a munkaköre ellátására alkalmatlanná vált.
+b) minősítése „elfogadhatatlan” fokozata alapján a munkaköre ellátására alkalmatlanná vált.
 
 (1a) Ha a pénzügyőr egészségi, pszichikai vagy fizikai állapota alapján – nem önhibájából – a hivatásos szolgálatra vagy munkaköre ellátására alkalmatlanná vált, a munkáltató köteles a pénzügyőr részére az állapotának, végzettségének megfelelő másik, elsősorban hivatásos munkakört, betölthető hivatásos munkakör hiányában nem hivatásos munkakört felajánlani. Ha a munkáltatónál nincs megfelelő betöltetlen munkakör, úgy számára – a szerv vezetőjének hozzájárulásával – a NAV más szervénél is felajánlható az állapotának, végzettségének megfelelő másik hivatásos, illetve nem hivatásos munkakör. A pénzügyőrt az (1) bekezdés a) pontja alapján akkor lehet felmenteni nem önhibából bekövetkezett egészségi, pszichikai vagy fizikai alkalmatlanság esetén, ha
 

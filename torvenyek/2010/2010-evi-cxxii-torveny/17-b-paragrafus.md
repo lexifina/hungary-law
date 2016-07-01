@@ -12,9 +12,9 @@ a) az érintett az e törvényben, illetve a végrehajtására kiadott jogszabá
 
 b) a munkakör az e törvény szerinti előmenetel alapján a NAV-val kormányzati szolgálati jogviszonyban vagy hivatásos szolgálati jogviszonyban állóval nem tölthető be.
 
-(6) A Hszt. 54. § (4)–(9) bekezdését azzal az eltéréssel kell alkalmazni, hogy a pénzügyőr részére a NAV adott szervénél kell felajánlani másik, végzettségének megfelelő, de nemzetbiztonsági ellenőrzés alá nem eső hivatásos munkakört, feltéve, hogy felajánlható munkakörrel rendelkezik.
+(6)
 
-(7) A Hszt. 63. § (3) bekezdés d) pontját és (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a pénzügyőr az e törvény szerinti rendfokozati illetményre jogosult.
+(7) A Hszt. 63. § (3) bekezdés d) pontját és (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy a pénzügyőr az e törvény szerinti közszolgálati pótlékra jogosult.
 
 (8) meghatározott szervhez hivatásos munkakör betöltésére vezényelt pénzügyőr illetményére és illetményjellegű juttatásaira, teljesítményértékelésére, minősítésére, pihenőidejére, a fegyelmi felelősségre vonásra, a kártérítésre, a személyiségi jogi jogsértésének jogkövetkezményeire, elismerések elnyerésére és viselésére, képzésére, továbbképzésére és előmenetelére e törvény szabályait kell alkalmazni.
 
@@ -36,6 +36,8 @@ b) a tartalékos-nyilvántartás kezelésével kapcsolatos részletszabályokat.
 
 (15) A Hszt. 147. § (7) bekezdését azzal az eltéréssel kell alkalmazni, hogy a rendelkezés azon pénzügyőr tekintetében alkalmazandó, akit az állásából e törvény rendelkezései alapján felfüggesztettek.
 
-(16) A Hszt. 165. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a Hszt. 165. § (1) bekezdés b–d) pontjában meghatározott okból visszatartott távolléti díjat a kamataival utólag akkor kell kifizetni, ha a büntetőeljárás felmentéssel zárul.
+(16) A Hszt. 168. § (1) bekezdés alkalmazásában rendszeres illetménypótlék az idegennyelv-tudási pótlék.
 
 (17) A Hszt. 168. § (1) bekezdés alkalmazásában rendszeres illetménypótlék a vezetői pótlék, az idegennyelv-tudási pótlék és a veszélyességi pótlék.
+
+(18) A Hszt. 123. § (1) bekezdését azzal az eltéréssel kell alkalmazni, hogy a NAV tv. 20. §-ában meghatározott feltételek teljesülése ellenére sem léptethető elő a pénzügyőr a Hszt. 123. § (1) bekezdésében meghatározott esetekben.

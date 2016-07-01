@@ -1,6 +1,6 @@
 18/A. § (1) A munkáltatói jogkör gyakorlója a kijelölt miniszter rendeletében meghatározott szempontok figyelembevételével a kormányzati szolgálati jogviszony létesítését pszichikai alkalmassághoz kötheti.
 
-(2) A kormánytisztviselő – a kijelölt miniszter rendeletében meghatározottak szerint – soron kívüli pszichikai alkalmassági vizsgálatra kötelezhető. A pénzügyi nyomozói munkakörben foglalkoztatott kormánytisztviselő pszichikai alkalmasságát a kijelölt miniszter rendeletében meghatározott időszakonként ellenőrizni kell.
+(2) A kormánytisztviselő – a kijelölt miniszter rendeletében meghatározottak szerint – soron kívüli pszichikai alkalmassági vizsgálatra kötelezhető.
 
 (3) Amennyiben a kormánytisztviselő
 

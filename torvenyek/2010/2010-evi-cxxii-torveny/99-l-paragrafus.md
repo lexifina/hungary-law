@@ -1,0 +1,3 @@
+99/L. § (1) E törvény alapján a kormánytisztviselőt, pénzügyőrt fizetési fokozatban és vezetői fizetési fokozatban első alkalommal 2018. január 1-jei hatállyal lehet előresorolni, abban az esetben, ha a fizetési fokozatban és vezetői fizetési fokozatban előresoroláshoz szükséges feltételekkel rendelkezik.
+
+(2) A kormánytisztviselő, a pénzügyőr 2016. július 1-jén jogviszonyban álló azon tagjának, akinek a fizetési fokozathoz és vezetői fizetési fokozathoz meghatározott várakozási ideje az (1) bekezdésben meghatározott határidő előtt letelne, a fizetési fokozatra előírt várakozás ideje a 2018. január 1-jéig hátralévő időtartammal meghosszabbodik.

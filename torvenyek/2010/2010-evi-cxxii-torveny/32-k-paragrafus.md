@@ -4,23 +4,27 @@
 
 (2) Az I. besorolási osztályba tartozó kormánytisztviselő, illetve pénzügyőr esetében a pótszabadság mértéke évente:
 
-a) fogalmazó besorolásnál 3 munkanap,
+a) 2 évig terjedő jogviszonyban töltött idő után 3 munkanap,
 
-b) tanácsos besorolásnál 5 munkanap,
+b) 3–8 év jogviszonyban töltött idő után 5 munkanap,
 
-c) vezető-tanácsos besorolásnál 7 munkanap,
+c) 9–16 év jogviszonyban töltött idő után 7 munkanap,
 
-d) főtanácsos besorolásnál 9 munkanap,
+d) 17–24 év jogviszonyban töltött idő után 9 munkanap,
 
-e) vezető-főtanácsos besorolásnál 11 munkanap.
+e) 25–31 év jogviszonyban töltött idő után 11 munkanap,
+
+f) 32–39 év jogviszonyban töltött idő után 12 munkanap,
+
+g) 40 év és annál hosszabb jogviszonyban töltött idő után 13 munkanap.
 
 (3) A II. besorolási osztályba tartozó kormánytisztviselő, illetve pénzügyőr esetében a pótszabadság mértéke évente:
 
-a) előadó besorolásnál 5 munkanap,
+a) 2–12 éves jogviszonyban töltött idő után 5 munkanap,
 
-b) főelőadó besorolásnál 8 munkanap,
+b) 13–28 éves jogviszonyban töltött idő után 8 munkanap,
 
-c) főmunkatárs besorolásnál 10 munkanap.
+c) 29 év és annál hosszabb jogviszonyban töltött idő után 10 munkanap.
 
 (4) Ügykezelő és munkavállaló esetében a pótszabadság mértéke évente:
 
@@ -32,9 +36,9 @@ c) 21–30 éves jogviszony esetén 4 munkanap,
 
 d) 30 éves jogviszony felett 5 munkanap.
 
-(4a) A (4) bekezdés alkalmazásában az ügykezelő és a munkavállaló jogviszonyát a 20/A. §-ban foglaltak szerint kell megállapítani.
+(4a) A (4) bekezdés alkalmazásában az ügykezelő és a munkavállaló jogviszonyban eltöltött idejét a 20. §-ban foglaltak alkalmazásával kell megállapítani.
 
-(5) Figyelemmel a 32/Q. § (3) bekezdésben foglaltakra is, a hosszabb tartamú pótszabadság a kormánytisztviselőnek, illetve a pénzügyőrnek abban az évben jár először, amelyben a (2), illetve (3) bekezdésben meghatározott besorolást eléri; az ügykezelőnek, illetve a munkavállalónak pedig abban az évben jár először, amelyben a (4) bekezdésben meghatározott időtartamú jogviszonyt betölti.
+(5) Figyelemmel a 32/Q. § (3) bekezdésben foglaltakra is, a hosszabb tartamú pótszabadság az érintettnek abban az évben jár először, amelyben a (2)–(4) bekezdésben meghatározott időtartamú jogviszonyt betölti.
 
 (6) A vezetői pótszabadság mértéke évente
 

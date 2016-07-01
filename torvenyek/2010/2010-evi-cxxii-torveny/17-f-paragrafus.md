@@ -1,4 +1,4 @@
-17/F. § (1) A méltatlansági eljárás során a Hszt. 222–224. §-a alkalmazásában állományilletékes parancsnokon a munkáltatói jogkör gyakorlóját kell érteni, azzal, hogy e törvény 33/J. § (4) bekezdését és (6) bekezdés a)–c) pontját megfelelően alkalmazni kell, a (6) bekezdés d) pontja szerinti esetben pedig az eljárni jogosult az állami adó- és vámhatóság vezetője. A vezénylés tartama alatt a 17/D. § (4) bekezdése az irányadó.
+17/F. § (1) A méltatlansági eljárás során a Hszt. 222–224. §-a alkalmazásában állományilletékes parancsnokon a munkáltatói jogkör gyakorlóját kell érteni, azzal, hogy e törvény 33/J. § (4) bekezdését és (6) bekezdés a)–c) pontját megfelelően alkalmazni kell, a (6) bekezdés d) pontja, továbbá a 17/M. § (3) bekezdése szerinti esetben pedig az eljárni jogosult az állami adó- és vámhatóság vezetője. A vezénylés tartama alatt a 17/D. § (4) bekezdése az irányadó.
 
 (2) A Hszt. 223. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a vizsgálatra e törvény
 

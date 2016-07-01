@@ -22,6 +22,8 @@ j) a szolgálatképes állapot megállapítása érdekében a befolyásoltság k
 
 k) a technikai ellenőrzés alkalmazásának feltételeit, az alkalmazható eszközök körét és a technikai ellenőrzés alkalmazására vonatkozó eljárási szabályokat,
 
-l) a könnyített szolgálatban foglalkoztatottak által betölthető munkaköröket, valamint az e körből kizárt tevékenységeket és kapcsolódó mentesítéseket.
+l) a könnyített szolgálatban foglalkoztatottak által betölthető munkaköröket, valamint az e körből kizárt tevékenységeket és kapcsolódó mentesítéseket,
+
+m) az egyes munkakörökben a közszolgálati pótlék mértékét.
 
 (2)

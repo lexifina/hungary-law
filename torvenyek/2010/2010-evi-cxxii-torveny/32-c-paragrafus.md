@@ -30,7 +30,7 @@ A fenti adatokban bekövetkezett változásokról az érintett haladéktalanul k
 
 (6) Amennyiben az érintett
 
-a) kormányzati szolgálati jogviszonya a Kttv. 39. § (4a) bekezdése, 42. § (8) bekezdése, 60. § (1) bekezdés c), i) pontja, (2) bekezdés c) pontja, 63. § (2) bekezdés a)–b) pontja, illetve e törvény 33/F. § (1) bekezdése alapján,
+a) kormányzati szolgálati jogviszonya a Kttv. 39. § (4a) bekezdése, , 60. § (1) bekezdés c), i) pontja, (2) bekezdés c) pontja, 63. § (2) bekezdés a)–b) pontja, illetve e törvény 33/F. § (1) bekezdése alapján,
 
 b) hivatásos szolgálati jogviszonya a Hszt. 80. § (1) bekezdés f)–g) pontja, (2) bekezdés b) vagy h) pontja, a 86. § (2) bekezdés a) pontja alapján – ez esetben az egészségi, pszichikai vagy fizikai állapota miatti megszűnés kivételével –, továbbá a 86. § (2) bekezdés b)–d) pontja, illetve e törvény 17/A. § (1) bekezdése vagy 33/F. § (1) bekezdése alapján
 

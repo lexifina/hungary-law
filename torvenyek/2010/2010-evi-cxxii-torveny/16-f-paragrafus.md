@@ -1,6 +1,6 @@
 ## Az alaki kötöttség
 
-16/F. § (1) A kormányzati szolgálati jogviszonyt, hivatásos szolgálati jogviszonyt érintő minden lényeges, továbbá e törvény, vagy a Kttv., illetve a Hszt. szerint írásbeliséghez kötött jognyilatkozatot és megállapodást írásba kell foglalni. A kormánytisztviselő, a pénzügyőr, az ügykezelő kérésére a munkáltatónak a jognyilatkozatát akkor is írásba kell foglalnia, ha az egyébként nem kötelező.
+16/F. § (1) A kormányzati szolgálati jogviszonyt, hivatásos szolgálati jogviszonyt érintő minden lényeges jognyilatkozatot és megállapodást írásba kell foglalni. A kormánytisztviselő, a pénzügyőr, az ügykezelő kérésére a munkáltatónak a jognyilatkozatát akkor is írásba kell foglalnia, ha az egyébként nem kötelező.
 
 (2) Amennyiben a jognyilatkozatot, megállapodást írásba kellett foglalni, úgy a jognyilatkozatot módosítani vagy visszavonni, illetve a megállapodást módosítani vagy megszüntetni is csak írásban lehet.
 

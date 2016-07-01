@@ -1,7 +1,15 @@
-23. § (1) Az illetménykiegészítés mértékét a 4. számú melléklet tartalmazza.
+23. § (1) A közszolgálati pótlék a kormánytisztviselőnek, illetve a pénzügyőrnek a jogviszony létesítésével vállalt többletkötelezettségek, továbbá a pénzügyőrök tekintetében a hivatásos munkakörrel járó többlet-igénybevétel és -terhelés ellentételezését szolgálja. Mértékét e törvény végrehajtási rendelete az illetményalap 50–650%-a közötti mértékben állapítja meg.
 
-(2)
+(2) A közszolgálati pótlék mértékének megállapításánál
 
-(3)
+a) a feladatellátás sajátosságaiból adódó valós és rendszeresen jelentkező kockázatot, ide értve akár az életet, testi épséget, egészséget érintő kockázatot is,
 
-(4) A 4. számú melléklet esetén a vetítési alap az alapilletmény.
+b) a munkavégzés külső körülményeit,
+
+c) a feladat ellátásához kapcsolódó belső körülményeket, a belső eljárási szabályok szigorúságát, kötöttségét,
+
+d) a szakmai irányításból adódó többletfelelősséget, magasabb szakmai követelményeket,
+
+e) pénzügyőrök tekintetében az a)–d) pontokon túl a fegyverrel való szolgálatteljesítés, fegyverhasználattal vagy annak lehetőségével járó helyzetek gyakoriságát, továbbá a más kényszerítőeszközök alkalmazásának lehetőségével járó helyzetek gyakoriságát
+
+kell figyelembe venni.

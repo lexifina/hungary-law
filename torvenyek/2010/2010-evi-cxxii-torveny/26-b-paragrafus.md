@@ -2,11 +2,11 @@
 
 (2) A kormánytisztviselő, illetve a pénzügyőr egészségügyi pótlékra jogosult, ha a munkavégzésre munkaideje nagyobb részében egészségkárosító kockázatok között kerül sor, vagy egészségének védelme csak olyan egyéni védőeszköz állandó vagy tartós használatával valósítható meg, amely az érintett számára fokozott megterhelést jelent. A pótlék mértéke az illetményalap 45%-a.
 
-(3) Veszélyességi pótlékra jogosult az a pénzügyőr, aki olyan munkakört tölt be, amelynek ellátásával kapcsolatos szolgálati tevékenység – a hivatásos szolgálattal járó általános kockázaton túl – életveszéllyel is járhat, és amely alapján olyan feladatokat lát el, amelyet életet, testi épséget, szabadságot jelentős mértékben veszélyeztető helyzetben folyamatosan kell végezni, illetve olyan állandó készenléti helyzetben, amelyben a bekövetkező feladat végrehajtására azonnali, felkészülési idő nélkül való beavatkozást kell biztosítani. A pótlék mértéke az illetményalap 45%-a.
+(3)
 
-(4) Gépjárművezetői pótlékra az jogosult, aki a NAV jelzésével és megkülönböztető jelzéssel ellátott gépjárművet rendszeresen, legalább havonta négy alkalommal vezet, és rendelkezik a megkülönböztető jelzés használatához szükséges pályaalkalmassági vizsgával. A pótlék mértéke az illetményalap 13%-a.
+(4)
 
-(5) A (2) és (3) bekezdés szerinti pótlékra jogosító munkaköröket az állami adó- és vámhatóság vezetője határozza meg.
+(5) A (2) bekezdés szerinti pótlékra jogosító munkaköröket az állami adó- és vámhatóság vezetője határozza meg.
 
 (6) A kormánytisztviselő, a pénzügyőr, az ügykezelő a napi munkaidőn túl teljesített készenlét esetén a készenlét időtartamára készenléti pótlékra jogosult. A készenléti pótlék mértéke teljesített óránként az illetményalap 0,25%-a.
 

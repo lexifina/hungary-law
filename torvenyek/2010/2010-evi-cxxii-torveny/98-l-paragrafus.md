@@ -1,3 +1,1 @@
-98/L. § (1) Az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2013. évi CC. törvény (a továbbiakban: NAV Mód. IV. tv.) 303. §-ával megállapított 17/D. § (6) bekezdését a 2014. január 1-jén folyamatban lévő vezénylés esetén is alkalmazni kell azzal, hogy az érintett a 2014. január 1-jétől hatályos új rendelkezés alapján járó illetményre 2014. január 1-jétől jogosult.
-
-(2) A NAV Mód. IV. tv. 310. §-ával módosított 18/D. § (3) bekezdését a 2014. január 1-jén folyamatban lévő átirányítás esetén is alkalmazni kell azzal, hogy az érintett a módosított rendelkezés alapján járó illetményre 2014. január 1-jétől jogosult.
+### 98/L. §

@@ -1,3 +1,3 @@
-21. § (1) Az egyes osztályok emelkedő számú fizetési fokozataihoz növekvő szorzószámok tartoznak. A szorzószám és az illetményalap szorzata határozza meg az egyes osztályok különböző fokozataihoz tartozó alapilletményt.
+21. § (1) Az alapilletmény a kormánytisztviselő, illetve a pénzügyőr besorolása alapján megállapított fizetési fokozathoz tartozó illetményszorzó és az illetményalap szorzata.
 
-(2) A besorolási osztályokat és a fizetési fokozatokat az 1. számú melléklet, a pénzügyi nyomozó I. és pénzügyi nyomozó II. munkakört betöltők tekintetében az 1/A. számú melléklet tartalmazza.
+(2) Az alapilletmény megállapításához szükséges illetményszorzókat az 1. számú melléklet, a vezetői munkakört betöltők tekintetében a 3. számú melléklet határozza meg.

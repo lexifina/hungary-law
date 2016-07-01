@@ -6,9 +6,9 @@ b) pénz- és tárgyjutalom,
 
 c) fizetési fokozatban eltöltendő várakozási időnek egy évvel történő csökkentése,
 
-d) besorolási, illetve fizetési fokozatban egy fokozattal történő előresorolás,
+d) fizetési fokozatban egy fokozattal történő előresorolás,
 
-e) rendfokozatban történő soron kívüli előléptetés,
+e) eggyel magasabb rendfokozatba soron kívüli előléptetés,
 
 f) Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvénnyel alapított kitüntetés, illetve a törvényben kapott felhatalmazás alapján alapított kitüntető cím, díj, oklevél, plakett vagy más elismerés.
 

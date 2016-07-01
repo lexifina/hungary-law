@@ -2,6 +2,6 @@
 
 a) más vezetői munkakört tölt be, alapilletményét az új vezetői munkaköre szerint,
 
-b) nem vezetői munkakört tölt be, alapilletményét a 20. § szerinti besorolása alapján
+b) nem vezetői munkakört tölt be, alapilletményét a 19/G–19/H. § szerinti besorolása alapján
 
 kell megállapítani.
