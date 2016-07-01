@@ -1,0 +1,1 @@
+## 10. § A bizalmi felügyelet által vezetett nyilvántartásokban szereplő adatok közül nyilvános a 2. § (1) bekezdése szerinti adat, valamint a 2. § (2) bekezdés a)–d) pontjában meghatározott iratok, továbbá az adattartalom érvényességi ideje.
