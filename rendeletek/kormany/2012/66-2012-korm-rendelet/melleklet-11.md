@@ -2,6 +2,8 @@
 
 ## új pszichoaktív anyag, illetve ismert kábítószer, pszichotróp anyag vagy új pszichoaktív anyag új visszaélési formájának megjelenéséről
 
+## 2K07003_0
+
 | BEJELENTŐLAP új pszichoaktív anyag/ismert kábítószer, pszichotróp anyag vagy új pszichoaktív anyag új visszaélési formájának megjelenéséről |
 
 | 1. Bejelentő szerv/intézmény: Hivatkozási szám: Bejelentés dátuma: |
@@ -56,11 +58,11 @@
 
 ## (IV. 2.) Korm. rendelet 28. § (1) bekezdése alapján kötelező.
 
-## A nyomtatvány 1. példányát az Europol Nemzeti Irodának[^115], 2. példányát a Nemzeti Drog Fókuszpontnak[^116] (Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ – Reitox National Focal Point), 3. példányát az Országos Addiktológiai Centrumnak[^117] kell megküldeni. A 4. példányt a beküldő szerv/intézmény megtartja saját dokumentációjában.
+## A nyomtatvány 1. példányát az Europol Nemzeti Irodának[^120], 2. példányát a Nemzeti Drog Fókuszpontnak[^121] (Nemzeti Kábítószer Adatgyűjtő és Kapcsolattartó Központ – Reitox National Focal Point), 3. példányát az Országos Addiktológiai Centrumnak[^122] kell megküldeni. A 4. példányt a beküldő szerv/intézmény megtartja saját dokumentációjában.
 
 ## Mindazon kérdésekre, melyekre vonatkozóan tényszerű információk, illetve adatok, vizsgálati eredmények állnak rendelkezésre, a válaszokat értelemszerűen: szövegesen, vagy számszerűen, illetve a megfelelő négyzet megjelölésével kell megadni! A kitöltéssel kapcsolatban a Tanács 2005/387/IB Határozatának EMCDDA-Europol jelentési ívet és annak kitöltési útmutatóját tartalmazó melléklete az irányadó.
 
-11. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^118]
+11. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^123]
 
 Kérelem, illetve igazolás ellenőrzött anyagok szállítására rendkívüli, gyógyászati célú felhasználáshoz
 
@@ -198,7 +200,7 @@ Hatósági bélyegző (Authority stamp)
 
 aláírás (Authority's signature)
 
-[^115]: Europol Nemzeti Iroda címe: 1139 Budapest, Teve u. 4-6.
-[^116]: Nemzeti Drog Fókuszpont címe: 1097 Budapest, Gyáli út 2-6.
-[^117]: Országos Addiktológiai Centrum címe: 1097 Budapest, Nagyvárad tér 2.
-[^118]: A 11. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § l) pontja szerint módosított szöveg.
+[^120]: Europol Nemzeti Iroda címe: 1139 Budapest, Teve u. 4-6.
+[^121]: Nemzeti Drog Fókuszpont címe: 1097 Budapest, Gyáli út 2-6.
+[^122]: Országos Addiktológiai Centrum címe: 1097 Budapest, Nagyvárad tér 2.
+[^123]: A 11. melléklet a 413/2015. (XII. 23.) Korm. rendelet 43. § l) pontja szerint módosított szöveg.

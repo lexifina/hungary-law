@@ -1,6 +1,6 @@
 ## 2. A rendelet hatálya
 
-2. §[^6] (1) E rendelet hatálya kiterjed
+2. §[^10] (1) E rendelet hatálya kiterjed
 
 a) kábítószerekkel és pszichotróp anyagokkal, valamint új pszichoaktív anyagokkal végezhető, a 3. § (1) bekezdésében meghatározott tevékenységekre,
 
@@ -10,17 +10,17 @@ c) kábítószerek és pszichotróp anyagok, valamint új pszichoaktív anyagok 
 
 d) kábítószernek és pszichotróp anyagnak az egészségügyi szolgáltató, valamint az állatgyógyászati intézmény és állatgyógyászati készítmények kiskereskedelmi forgalmazója, magán-állatorvos és állatorvost alkalmazó telep, állatkert, vadaspark által történő megrendelésére,
 
-e)[^7] az engedélyesnél, a nyilvántartásba vett bejelentőnél, az egészségügyi szolgáltatónál, továbbá a bentlakásos szociális intézményben végzett rendészeti ellenőrzésre,
+e)[^11] az engedélyesnél, a nyilvántartásba vett bejelentőnél, az egészségügyi szolgáltatónál, továbbá a bentlakásos szociális intézményben végzett rendészeti ellenőrzésre,
 
 f) kábítószerekkel és pszichotróp anyagokkal, valamint új pszichoaktív anyagokkal végzett klinikai vizsgálatok és orvostudományi, valamint tudományos célú kutatások engedélyezésére,
 
-g)[^8] azon anyagokra, amelyek a D) jegyzéken szerepelnek,
+g)[^12] azon anyagokra, amelyek a D) jegyzéken szerepelnek,
 
-h)[^9] a bentlakásos szociális intézményeknél a kábítószerek és pszichotróp anyagok tárolására, felhasználására, selejtezésére vonatkozó nyilvántartásra.
+h)[^13] a bentlakásos szociális intézményeknél a kábítószerek és pszichotróp anyagok tárolására, felhasználására, selejtezésére vonatkozó nyilvántartásra.
 
 (2) E rendelet hatálya az (1) bekezdés d)–f) pontjában meghatározott eljárásokon túl az egészségügyi szolgáltatókra akkor terjed ki, ha e rendelet kifejezetten így rendelkezik.
 
-[^6]: A 2. § a 254/2013. (VII. 5.) Korm. rendelet 47. §-ával megállapított szöveg.
-[^7]: A 2. § (1) bekezdés e) pontja a 413/2015. (XII. 23.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
-[^8]: A 2. § (1) bekezdés g) pontját az 520/2013. (XII. 30.) Korm. rendelet 87. §-a iktatta be, szövege a 367/2014. (XII. 30.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^9]: A 2. § (1) bekezdés h) pontját a 413/2015. (XII. 23.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^10]: A 2. § a 254/2013. (VII. 5.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^11]: A 2. § (1) bekezdés e) pontja a 413/2015. (XII. 23.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^12]: A 2. § (1) bekezdés g) pontját az 520/2013. (XII. 30.) Korm. rendelet 87. §-a iktatta be, szövege a 367/2014. (XII. 30.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^13]: A 2. § (1) bekezdés h) pontját a 413/2015. (XII. 23.) Korm. rendelet 35. § (2) bekezdése iktatta be.

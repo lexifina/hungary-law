@@ -1,5 +1,3 @@
-## Jelentés a K1, K2 és a P1, P2 jegyzéken szereplő anyagok, valamint a kábítószertartalmú kivételek és az új pszichoaktív anyagok negyedéves importjáról, illetve a P3, P4 jegyzéken szereplő anyagok éves importjáról
-
 | Hatóanyag neve: | 20....... év |
 
 | Negyedéves jelentés |  |
@@ -10,6 +8,6 @@
 
 | Készítmény (doboz, db) | Hatóanyag (gramm vízmentes bázis) |
 
-6. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^111]
+6. melléklet a 66/2012. (IV. 2.) Korm. rendelethez[^116]
 
-[^111]: A 6. melléklet a 137/2012. (VI. 29.) Korm. rendelet 90. §-a, a 30/2015. (II. 25.) Korm. rendelet 65. § b) pontja szerint módosított szöveg.
+[^116]: A 6. melléklet a 137/2012. (VI. 29.) Korm. rendelet 90. §-a, a 30/2015. (II. 25.) Korm. rendelet 65. § b) pontja szerint módosított szöveg.
