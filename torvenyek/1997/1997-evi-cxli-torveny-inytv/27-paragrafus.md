@@ -16,6 +16,8 @@ b) a nyilvántartás tárgyát képező épület, építmény létesítését, i
 
 (4) A jogosult – a (3) bekezdésben meghatározott határidőben – köteles bejelenteni nevének (cégnevének), illetve lakcímének (székhelyének vagy telephelyének) megváltozását. A bejelentésében a jogosult személyi azonosítóját, illetve statisztikai azonosítóját is fel kell tüntetni.
 
+(4a) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a bejelentő kéri – a (3) bekezdés szerinti határidőben értesíti az ingatlanügyi hatóságot. Az ingatlanügyi hatóság a közhiteles nyilvántartást vezető szerv értesítése alapján az adatváltozást hivatalból átvezeti.
+
 (5) Nincs szükség külön bejelentésre, ha a (3) és (4) bekezdés szerinti változás hatósági határozaton alapul, illetőleg a tulajdonjog, a vagyonkezelői jog változásával kapcsolatos, feltéve, hogy ennek bejegyzését az érdekelt harminc napon belül kéri.
 
 (6) Az ingatlan adataiban hatósági határozattal, a település közigazgatási, illetve belterületi határának módosításával kapcsolatban bekövetkezett változások átvezetése iránt az erről szóló döntést hozó szerv keresi meg az ingatlanügyi hatóságot.

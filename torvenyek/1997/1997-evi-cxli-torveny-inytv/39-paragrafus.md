@@ -2,7 +2,7 @@
 
 ## Hiánypótlás
 
-39. § (1) Ha a kérelemnek, illetőleg mellékletének vagy a bejegyzés alapjául szolgáló okiratnak pótolható hiányossága van – ideértve az igazgatási szolgáltatási díj meg nem fizetését is –, a kérelmezőt tizenöt napon belül fel kell hívni a hiány pótlására. Ha a kérelemnek, illetőleg mellékletének vagy a bejegyzés alapjául szolgáló okiratnak pótolható hiányossága van, de a kérelmet a rangsorban előrébb álló kérelem miatt függőben kell tartani, a hiánypótlási felhívást a rangsorban megelőző kérelem elbírálásának napjától számított tizenöt napon belül kell kiadni.
+39. § (1) Ha a kérelemnek, illetve mellékletének vagy a bejegyzés alapjául szolgáló okiratnak pótolható hiányossága van – ideértve az igazgatási szolgáltatási díj meg nem fizetését is –, a kérelmezőt tizenöt napon belül fel kell hívni a hiány pótlására. Ha a kérelemnek, illetve mellékletének vagy a bejegyzés alapjául szolgáló okiratnak pótolható hiányossága van, de a kérelmet a rangsorban előrébb álló kérelem miatt, vagy kérelemre a tulajdonjog-bejegyzési engedély benyújtásáig függőben kell tartani, a hiánypótlási felhívást a rangsorban megelőző kérelem elbírálásának napjától, illetve a tulajdonjog-bejegyzési engedély benyújtásának napjától számított tizenöt napon belül kell kiadni.
 
 (2) Ha az ingatlanügyi hatóság megítélése szerint a kérelmet részben el kell utasítani, a kérelmezőt nyilatkozattételre kell felhívni, hogy a kérelmet teljesíthető részében fenntartja-e.
 
