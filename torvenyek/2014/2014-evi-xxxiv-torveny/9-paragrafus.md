@@ -1,3 +1,0 @@
-9. § A reklámadó tv. 10. §-a a következő szöveggel lép hatályba:
-
-„10. § Az adóalany csökkentheti a 2014. évben kezdődő adóév adóalapját – legfeljebb annak erejéig – a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 17. § (1) bekezdése vagy az Szja tv. 49/B. § (7) bekezdése szerinti elhatárolt veszteség 50%-ával, feltéve, hogy a 2013. évben kezdődő üzleti évben az adóalany adózás előtti eredményének összege nulla vagy negatív.”
