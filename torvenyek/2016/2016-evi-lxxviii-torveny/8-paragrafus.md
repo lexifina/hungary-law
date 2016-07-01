@@ -14,7 +14,7 @@ f) 58. § (2) bekezdésében az „a vízpart-rehabilitációs tanulmánytervek 
 
 g) 58. § (4) bekezdése,
 
-h) 59. § (1) bekezdésében az „ , első felülvizsgálatukat követően a partvonal-szabályozási és vízpart-rehabilitációs tervekkel” szövegrész,
+h)
 
 i) 59. § (2) bekezdése,
 

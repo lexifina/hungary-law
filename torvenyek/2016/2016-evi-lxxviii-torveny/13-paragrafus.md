@@ -7,11 +7,3 @@
 (3) A 4. §, a 7. § c) és d) pontjai, valamint a 8. § h) pontja 2017. január 1-jén lép hatályba.
 
 (4) A 9. § (2) és (3) bekezdése, a 10. § (2) bekezdése, valamint a 11. § a)–c) pontja 2017. június 30-án lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
