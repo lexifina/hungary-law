@@ -1,8 +1,8 @@
 2. § E törvény alkalmazásában:
 
-1. foglalkoztatásra irányuló jogviszony: az állami vezetői szolgálati jogviszony, kormányzati szolgálati jogviszony, a közszolgálati, a közalkalmazotti jogviszony, valamint a munkaviszony;
+1. foglalkoztatásra irányuló jogviszony: az állami vezetői szolgálati jogviszony, kormányzati szolgálati jogviszony, az állami szolgálati jogviszony, a közszolgálati, a közalkalmazotti jogviszony, valamint a munkaviszony;
 
-2. programban részt vevő: az az 1. §-ban meghatározott állami vezető, kormánytisztviselő, köztisztviselő, kormányzati ügykezelő, közszolgálati ügykezelő, közalkalmazott vagy munkavállaló, aki megfelel a 3. § (1) bekezdésében előírt feltételeknek, továbbá az 1. § (3) bekezdésének b) pontjában meghatározott személy;
+2. programban részt vevő: az az 1. §-ban meghatározott állami vezető, kormánytisztviselő, állami tisztviselő, köztisztviselő, kormányzati ügykezelő, állami ügykezelő, közszolgálati ügykezelő, közalkalmazott vagy munkavállaló, aki megfelel a 3. § (1) bekezdésében előírt feltételeknek, továbbá az 1. § (3) bekezdésének b) pontjában meghatározott személy;
 
 3. közszférában jogviszonyban töltött idő:
 
@@ -14,7 +14,9 @@ c) az 1. § (1) bekezdés c) pontjában meghatározott közigazgatási szervnél
 
 d) az 1. § (1) bekezdés d) pontjában meghatározott munkáltató munkavállalója esetén a munkaviszony, közalkalmazotti jogviszony, közszolgálati jogviszony tartama,
 
-e) az 1. § (3) bekezdésének b) pontjában meghatározott személy esetében a munkaviszony, közalkalmazotti jogviszony, közszolgálati jogviszony időtartama;
+e) az 1. § (3) bekezdésének b) pontjában meghatározott személy esetében a munkaviszony, közalkalmazotti jogviszony, közszolgálati jogviszony időtartama,
+
+f) az állami tisztviselő és az állami ügykezelő esetében az Áttv. 4. § a) pontjában állami szolgálati jogviszonyként elismert idő.
 
 4. korábbi illetmény: a programban résztvevőnek a prémiumévek programba történő belépését közvetlenül megelőző tizenkét egész havi – a munkáltatóval fennállt ennél rövidebb időtartamú jogviszony esetén a jogviszony teljes időtartama alatti összes egész havi – illetményének, munkabérének havi átlaga az alábbiak szerint:
 
@@ -26,7 +28,9 @@ c) munkavállalók esetén a személyi alapbér és a rendszeres bérpótlékok,
 
 d) állami vezetők esetén a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 51. §-ában, továbbá a Kttv. 219. §-ában és 224. §-ában meghatározott alapilletmény, illetménykiegészítés és vezetői illetménypótlék,
 
-e) az 1. § (3) bekezdésének b) pontjában meghatározott személy esetében az őt külön jogszabály alapján megillető díj
+e) az 1. § (3) bekezdésének b) pontjában meghatározott személy esetében az őt külön jogszabály alapján megillető díj,
+
+f) állami tisztviselő esetében az Áttv. 19. §-a alapján megállapított illetmény
 
 együttes összege. A rendszeres illetménypótlékot az Mt. 147. §-ában és a 151. § (2)–(4) bekezdésében foglaltak megfelelő alkalmazásával kell megállapítani;
 

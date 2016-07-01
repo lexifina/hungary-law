@@ -8,7 +8,7 @@ c) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakba
 
 d) a 4/A., az 5. és a 6/A. § kivételével az állam tulajdonában lévő vállalkozói vagyon értékesítéséről szóló 1995. évi XXXIX. törvény 2007. szeptember 24-én hatályos mellékletében felsorolt, azon 100%-os állami tulajdonú munkáltatókra és azok munkavállalóira, amelyekre a prémiumévek programot a munkáltató főtevékenysége szerint feladatkörrel rendelkező miniszter rendeletével kiterjeszti,
 
-e)
+e) az állami tisztviselőkről szóló 2016. évi LII. törvény (a továbbiakban: Áttv.) hatálya alá tartozó állami tisztviselőkre, állami ügykezelőkre, valamint munkáltatójukra.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően, a 2. § 4. c) pontjában, a 4/A. §-ban, illetve a 6/A. §-ban foglaltak hatálya kiterjed valamennyi, költségvetési fenntartási körbe nem tartozó munkavállalóra és munkáltatójukra.
 
