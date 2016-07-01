@@ -12,7 +12,7 @@ nemzeti fejlesztési miniszter
 
 Határidő: folyamatos
 
-3. egyetért azzal, hogy a Beruházás építtetője a Moholy-Nagy Művészeti Egyetem legyen, azzal, hogy a Beruházással kapcsolatban biztosítani szükséges az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1359/2014. (VI. 30.) Korm. határozatban foglaltak érvényesülését;
+3.[^1] egyetért azzal, hogy a Beruházás építtetője a Moholy-Nagy Művészeti Egyetem legyen, azzal, hogy a Beruházással kapcsolatban biztosítani szükséges az egyes kiemelt budapesti beruházásokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1329/2016. (VII. 1.) Korm. határozat 5. pontjában foglaltak érvényesülését;
 
 Felelős: emberi erőforrások minisztere
 
@@ -68,6 +68,7 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: folyamatos
 
-9.[^1]
+9.[^2]
 
-[^1]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 3. pont az 1329/2016. (VII. 1.) Korm. határozat 11. pontja szerint módosított szöveg.
+[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
