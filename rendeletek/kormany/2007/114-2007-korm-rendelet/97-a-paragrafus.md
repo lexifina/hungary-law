@@ -1,20 +1,20 @@
-## Rendőrség szakhatósági eljárása[^253]
+## Rendőrség szakhatósági eljárása[^260]
 
-97/A. §[^254] (1)[^255] A Kormány a harmadik országbeli állampolgár ideiglenes letelepedési engedélyének, nemzeti letelepedési engedélyének, illetve EK letelepedési engedélyének megadása iránti eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország közbiztonságát – elsőfokon a megyei rendőr-főkapitányságot, másodfokon az Országos Rendőr-főkapitányságot szakhatóságként jelöli ki.
+97/A. §[^261] (1)[^262] A Kormány a harmadik országbeli állampolgár ideiglenes letelepedési engedélyének, nemzeti letelepedési engedélyének, illetve EK letelepedési engedélyének megadása iránti eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország közbiztonságát – elsőfokon a megyei rendőr-főkapitányságot, másodfokon az Országos Rendőr-főkapitányságot szakhatóságként jelöli ki.
 
 (2) A regionális igazgatóság az ideiglenes letelepedési engedély első ízben történő kiadása, a nemzeti letelepedési engedély vagy az EK letelepedési engedély iránti kérelmet benyújtó harmadik országbeli állampolgár központi idegenrendészeti nyilvántartásban kezelt adatait továbbítja a jövőbeni lakóhely szerint illetékes megyei rendőr-főkapitányság részére. Az illetékes megyei rendőr-főkapitányság megkeresésére a regionális igazgatóság a kérelemhez csatolt okiratokba betekintést biztosít, illetve azokról másolatot készít.
 
-(3)[^256]
+(3)[^263]
 
 (4) Ha a szakhatósági állásfoglalás megküldését követően a harmadik országbeli állampolgárra vonatkozóan a szakhatóság érdekkörében olyan adat merül fel, amely a korábbi szakhatósági hozzájárulás visszavonását indokolja, a szakhatóság új szakhatósági állásfoglalását a regionális igazgatóságnak haladéktalanul megküldi.
 
-(5)[^257]
+(5)[^264]
 
-(6)[^258]
+(6)[^265]
 
-[^253]: A 97/A. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 54. § (2) bekezdése iktatta be.
-[^254]: A 97/A. §-t a 290/2010. (XII. 21.) Korm. rendelet 54. § (2) bekezdése iktatta be.
-[^255]: A 97/A. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^256]: A 97/A. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § d) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^257]: A 97/A. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § d) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^258]: A 97/A. § (6) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 18. §-a iktatta be, , hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 91. § d) pontja, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^260]: A 97/A. §-t megelőző alcímet a 290/2010. (XII. 21.) Korm. rendelet 54. § (2) bekezdése iktatta be.
+[^261]: A 97/A. §-t a 290/2010. (XII. 21.) Korm. rendelet 54. § (2) bekezdése iktatta be.
+[^262]: A 97/A. § (1) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^263]: A 97/A. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § d) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^264]: A 97/A. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § d) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^265]: A 97/A. § (6) bekezdését a 409/2012. (XII. 28.) Korm. rendelet 18. §-a iktatta be, , hatályon kívül helyezte a 441/2015. (XII. 28.) Korm. rendelet 91. § d) pontja, ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

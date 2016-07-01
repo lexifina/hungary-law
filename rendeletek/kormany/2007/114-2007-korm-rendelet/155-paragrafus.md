@@ -9,3 +9,7 @@
 (4) A harmadik országbeli állampolgár úti okmányát a bejelentkezés teljesítésekor a regionális igazgatóságon be kell mutatni. A regionális igazgatóság a bejelentett szálláshely címének valódiságát a személyi adat- és lakcímnyilvántartás címnyilvántartásában ellenőrizheti.
 
 (5) A harmadik országbeli állampolgár a szálláshely bejelentésének tényét a bejelentőlap második példányával igazolja.
+
+(6)[^411] Ha a harmadik országbeli állampolgár a tartózkodási engedély kiadása vagy meghosszabbítása iránti eljárás során vendégkönyv vezetésére köteles szálláshelynek minősülő szálláshelyet jelöl meg, a harmadik országbeli állampolgárt bejelentési kötelezettségét a (2)–(5) bekezdésben foglaltak szerint teljesíti.
+
+[^411]: A 155. § (6) bekezdését a 113/2016. (V. 30.) Korm. rendelet 52. §-a iktatta be.

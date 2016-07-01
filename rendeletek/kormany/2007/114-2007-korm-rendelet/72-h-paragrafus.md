@@ -1,28 +1,86 @@
-## 72/G. §[^189] A 72/D–72/F. §-ban meghatározottakon túl az ideiglenes tartózkodási engedély kiállítására a 47. és 48. §-t, a 49. § (1) bekezdését, az 50. §-t és az 53–55. §-t kell megfelelően alkalmazni.
+## 72/G. §[^185] A 72/D–72/F. §-ban meghatározottakon túl az ideiglenes tartózkodási engedély kiállítására a 47. és 48. §-t, a 49. § (1) bekezdését, az 50. §-t és az 53–55. §-t kell megfelelően alkalmazni.
 
-## Az összevont kérelmezési eljárásra vonatkozó szabályok[^190]
+## Az összevont kérelmezési eljárásra vonatkozó szabályok[^186]
 
-72/H. §[^191] (1) Az összevont kérelmezési eljárásban a kérelem benyújtására és elbírálására a 31. §-ban, a 32. § a) pontjában, a 33. §-ban, a 36. §-ban, a 41–48. §-ban, a 49. § (1) bekezdésében, valamint az 50–55. §-ban foglalt rendelkezéseket kell alkalmazni.
+72/H. §[^187] (1) Az összevont kérelmezési eljárásban a kérelem benyújtására és elbírálására a 31. §-ban, a 32. § a) pontjában, a 33. §-ban, a 36. §-ban, a 41–48. §-ban, a 49. § (1) bekezdésében, valamint az 50–55. §-ban foglalt rendelkezéseket kell alkalmazni.
 
-(2)[^192] A Kormány az összevont kérelmezési eljárásban – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár magyarországi munkavállalását támogatja-e – elsőfokú eljárásban a munkavégzés helye szerint illetékes kormányhivatalt, másodfokú eljárásban a foglalkoztatáspolitikáért felelős minisztert szakhatóságként jelöli ki.
+(2)[^188] A Kormány az összevont kérelmezési eljárásban – a (3a) bekezdésben meghatározott esetek kivételével – annak megállapítása kérdésében, hogy a harmadik országbeli állampolgár magyarországi munkavállalását támogatja-e, elsőfokú eljárásban a munkavégzés helye szerint illetékes kormányhivatalt, másodfokú eljárásban a foglalkoztatáspolitikáért felelős minisztert szakhatóságként jelöli ki.
 
-(3)[^193]
+(3)[^189] A (2) bekezdésben foglaltaktól eltérően, ha
 
-(4)[^194] Amennyiben a harmadik országbeli állampolgár Magyarország területén foglalkoztatásra irányuló jogviszony keretében történő foglalkoztatása engedélyezési kötelezettség alól mentes, vagy a foglalkoztatásához nem kerül sor munkaerőpiaci helyzet vizsgálatára, a kormányhivatal a szakhatósági állásfoglalását tíz napon belül adja meg a regionális igazgatóságnak.
+a) a munka természetéből adódóan a munkavégzés több megye területére terjedhet ki, a munkavégzés megkezdésének helye szerinti kormányhivatal,
+
+b) a harmadik országbeli állampolgárt a foglalkoztató több – különböző megye területén lévő – telephelyén kívánja foglalkoztatni, a foglalkoztató székhelye szerinti kormányhivatal
+
+## jár el.
+
+(3a)[^190] A (2) és (3) bekezdés szerinti kormányhivatal szakhatóságként nem működik közre az összevont kérelmezési eljárásban, ha a harmadik országbeli állampolgár
+
+a) munkavégzését posztdoktori foglalkoztatásra irányuló pályázat, valamint a Bolyai János Kutatási Ösztöndíj alapján a pályázat, valamint az ösztöndíj keretében látja el;
+
+b) bevett egyház belső szabályzatában meghatározott, az egyházi jogi személy szolgálatában álló, egyházi szolgálatot sajátos egyházi szolgálati viszonyban, munkaviszonyban vagy egyéb jogviszonyban teljesítő természetes személy (egyházi személy);
+
+c) olyan kutatási tevékenységet végez, amely – a Magyar Tudományos Akadémia által kiállított igazolás szerint – a Magyarország és más állam között létrejött nemzetközi szerződés hatálya alá tartozik;
+
+d) olyan magyarországi kutatási tevékenységet végez, amelyet a harmadik országbeli állampolgár kutatókat fogadó kutatószervezetek akkreditációjáról, valamint a fogadási megállapodásról szóló kormányrendelet rendelkezései szerint, akkreditált kutató szervezettel kötött fogadási megállapodás alapján folytat;
+
+e) hivatásos sportoló, aki sporttevékenységét munkavégzés keretében folytatja;
+
+f) hivatásos edző, aki sporttevékenységre való felkészítő tevékenységet végez;
+
+g) az 1999. évi CXVII. törvénnyel kihirdetett, az Észak-Atlanti Szerződés tagállamai közötti, fegyveres erőik jogállásáról szóló 1951. június 19-én Londonban kelt Megállapodás (a továbbiakban: NATO-SOFA Megállapodás) részes államainak a NATO-SOFA Megállapodás I. Cikk 1. pont a) és b) alpontjában meghatározott és Magyarország területén szolgálati célból tartózkodó fegyveres ereje és polgári állománya tagjának közeli hozzátartozója;
+
+h) a Tv. 19. §-ában meghatározott családegyesítő családtagja, feltéve, hogy az összevont kérelmezési eljárásban benyújtott tartózkodási engedély kérelmét megelőzően legalább egy éve családi együttélés biztosítása céljából kiadott, érvényes tartózkodási engedéllyel jogszerűen Magyarország területén tartózkodik és a családegyesítő fél foglalkoztatása engedélymentes;
+
+i) a menekültként, oltalmazottként elismert személy családtagja vagy a menekültként elismert kísérő nélküli kiskorú szülője, ennek hiányában gyámja, feltéve, hogy az összevont kérelmezési eljárásban benyújtott tartózkodási engedély kérelmét megelőzően családi együttélés biztosítása céljából kiadott, érvényes tartózkodási engedéllyel rendelkezik; vagy
+
+j) Magyarországgal szomszédos országból származik és a Nemzetgazdasági Minisztérium közleményében meghatározott foglalkoztatásokban dolgozik, ideértve a munkaerő-kölcsönzés útján történő foglalkoztatást is.
+
+(4)[^191] Ha a harmadik országbeli állampolgár Magyarország területén foglalkoztatásra irányuló jogviszony keretében történő foglalkoztatása engedélyezési kötelezettség alól mentes vagy a foglalkoztatásához nem kerül sor munkaerőpiaci helyzet vizsgálatára, a kormányhivatal – a (4a) bekezdésben meghatározott kivétellel – a szakhatósági állásfoglalását tíz napon belül adja meg a regionális igazgatóságnak.
+
+(4a)[^192] Ha a harmadik országbeli állampolgár Magyarország területén történő foglalkoztatása a (10) bekezdésben meghatározott, a Tv. 88. § (2) bekezdése szerinti foglalkoztatónál (a továbbiakban: kiemelt foglalkoztató) valósul meg, a kormányhivatal a szakhatósági állásfoglalását nyolc napon belül adja meg a regionális igazgatóságnak.
+
+(4b)[^193] Ha a harmadik országbeli állampolgár Magyarország területén történő foglalkoztatása a (3a) bekezdés alapján mentes a szakhatóság vizsgálata alól, a regionális igazgatóság a következő adatok közlésével értesíti a munkavégzés helye szerint illetékes kormányhivatalt az összevont engedély kiállításáról:
+
+a) a foglalkoztató megnevezése, adószáma, statisztikai törzsszáma, főtevékenysége TEÁOR-száma,
+
+b) a harmadik országbeli állampolgár állampolgársága, neme, életkora, iskolai végzettsége,
+
+c) a munkavégzés helye,
+
+d) a munkakör (FEOR-szám),
+
+e) a tartózkodási engedély érvényességének ideje,
+
+f) a (3a) bekezdésben meghatározott mentességet megalapozó ok.
 
 (5) Ha a szakhatósági állásfoglalás megküldését követően az eljárás során a harmadik országbeli állampolgár foglalkoztatására vonatkozóan a szakhatóság tudomására jutott olyan adat merül fel, amely a korábbi szakhatósági hozzájárulás visszavonását indokolja, a szakhatóság új szakhatósági állásfoglalását a regionális igazgatóságnak haladéktalanul megküldi.
 
 (6) Ha a harmadik országbeli állampolgár a Tv. 29/A. § (3) bekezdésében meghatározott engedéllyel rendelkezik és meghatározott foglalkoztatóval történő foglalkoztatási jogviszonyt kíván létesíteni, a Tv. 29/A. § (9) bekezdésében meghatározott bejelentési kötelezettségét a szálláshelye szerint illetékes regionális igazgatóságon köteles teljesíteni.
 
-(7) Ha a harmadik országbeli állampolgár a Tv. 29/A. § (3) bekezdés a)–c) pontjában meghatározott engedéllyel rendelkezik, a Tv. 29/A. § (9) bekezdésében foglalt bejelentési kötelezettség teljesítésével egy időben köteles tartózkodási engedély iránti kérelmet is előterjeszteni a szálláshelye szerint illetékes regionális igazgatóságon az összevont engedély kiállítása érdekében.
+(7)[^194] Ha a harmadik országbeli állampolgár a Tv. 29/A. § (3) bekezdés a)–c) pontjában meghatározott engedéllyel rendelkezik, illetve keresőtevékenység folytatása vagy munkavállalás céljából kiadott tartózkodási engedéllyel rendelkezik és foglalkoztatására a korábbitól eltérő foglalkoztatónál vagy eltérő feltételekkel kerül sor, a Tv. 29/A. § (9) bekezdésében foglalt bejelentési kötelezettség teljesítésével egy időben köteles tartózkodási engedély iránti kérelmet is előterjeszteni a szálláshelye szerint illetékes regionális igazgatóságon az összevont engedély kiállítása érdekében.
 
 (8) Ha a harmadik országbeli állampolgár a Tv. 29/A. § (3) bekezdés d) pontjában meghatározott engedéllyel rendelkezik, a Tv. 29/A. § (9) bekezdésében foglalt bejelentési kötelezettség teljesítését követően a szálláshely szerint illetékes regionális igazgatóság hivatalból eljárást indít az összevont engedély kiállítása érdekében. A Tv. 29/A. § (3) bekezdés d) pontjában meghatározott engedély összevont engedélyként történő kiállítása érdekében a harmadik országbeli állampolgár köteles kitölteni a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 25/2007. (V. 31.) IRM rendeletben meghatározott adatlapot, továbbá az adatlaphoz mellékelnie kell egy darab arcfényképet.
 
-(9) A (6)–(8) bekezdésben foglalt eljárás során a harmadik országbeli állampolgár köteles mellékelni az 59. § (1) bekezdésében meghatározott okiratot. A harmadik országbeli állampolgár a (7) bekezdésben meghatározott eljárás során, ha az érvényes tartózkodási engedély kiadásának alapjául szolgáló, a Tv. 13. § (1) bekezdés a)–c) és e)–g) pontjában foglalt feltételek nem változtak meg, a kérelmezőnek a változatlan feltételekre vonatkozó dokumentumokat nem kell ismételten csatolnia.
+(9)[^195] A (6)–(8) bekezdésben foglalt eljárás során a harmadik országbeli állampolgár köteles mellékelni az 59. § (4) bekezdésében meghatározott okiratot. A harmadik országbeli állampolgár a (7) bekezdésben meghatározott eljárás során, ha az érvényes tartózkodási engedély kiadásának alapjául szolgáló, a Tv. 13. § (1) bekezdés a)–c) és e)–g) pontjában foglalt feltételek nem változtak meg, a kérelmezőnek a változatlan feltételekre vonatkozó dokumentumokat nem kell ismételten csatolnia.
 
-[^189]: A 72/G. §-t a 130/2012. (VI. 26.) Korm. rendelet 1. §-a iktatta be.
-[^190]: A 72/H. §-t megelőző alcímet a 446/2013. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
-[^191]: A 72/H. §-t a 446/2013. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
-[^192]: A 72/H. § (2) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 7. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 101. § e) pontja szerint módosított szöveg.
-[^193]: A 72/H. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § b) pontja hatályon kívül helyezte, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^194]: A 72/H. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 101. § d) pontja szerint módosított szöveg.
+(10)[^196] Kiemelt foglalkoztatónak minősül:
+
+a) a Kormánnyal érvényes stratégiai partnerségi megállapodással rendelkező foglalkoztató,
+
+b) az a foglalkoztató, amely a Nemzetgazdasági Minisztérium közleményében meghatározott foglalkozásokban Magyarországgal szomszédos országból származó harmadik országbeli állampolgárt kíván Magyarországon foglalkoztatni,
+
+c) az a foglalkoztató, amely nemzetgazdasági szempontból kiemelt beruházást valósít meg.
+
+[^185]: A 72/G. §-t a 130/2012. (VI. 26.) Korm. rendelet 1. §-a iktatta be.
+[^186]: A 72/H. §-t megelőző alcímet a 446/2013. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^187]: A 72/H. §-t a 446/2013. (XI. 28.) Korm. rendelet 7. §-a iktatta be.
+[^188]: A 72/H. § (2) bekezdése a 113/2016. (V. 30.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^189]: A 72/H. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 91. § b) pontja hatályon kívül helyezte, újonnan a 113/2016. (V. 30.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^190]: A 72/H. § (3a) bekezdését a 113/2016. (V. 30.) Korm. rendelet 35. § (2) bekezdése iktatta be.
+[^191]: A 72/H. § (4) bekezdése a 113/2016. (V. 30.) Korm. rendelet 35. § (3) bekezdésével megállapított szöveg.
+[^192]: A 72/H. § (4a) bekezdését a 113/2016. (V. 30.) Korm. rendelet 35. § (5) bekezdése iktatta be.
+[^193]: A 72/H. § (4b) bekezdését a 113/2016. (V. 30.) Korm. rendelet 35. § (5) bekezdése iktatta be.
+[^194]: A 72/H. § (7) bekezdése a 113/2016. (V. 30.) Korm. rendelet 35. § (6) bekezdésével megállapított szöveg.
+[^195]: A 72/H. § (9) bekezdése a 113/2016. (V. 30.) Korm. rendelet 35. § (7) bekezdésével megállapított szöveg.
+[^196]: A 72/H. § (10) bekezdését a 113/2016. (V. 30.) Korm. rendelet 35. § (8) bekezdése iktatta be.
