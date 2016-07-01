@@ -1,8 +1,6 @@
-## 16. §[^11]
-
 1. melléklet a 35/2011. (III. 21.) Korm. rendelethez
 
-## Az ellátás igénybevételének egészségügyi feltételei és kizáró okai
+Az ellátás igénybevételének egészségügyi feltételei és kizáró okai
 
 1. Az ellátás csak a következő feltételek együttes fennállása esetén vehető igénybe:
 
@@ -77,5 +75,3 @@ h) fekvési rendellenesség: medence végű fekvés, haránt- vagy ferdefekvés,
 i) idő előtti burokrepedés, ha a szülés nem indul el spontán 12 órán belül, vagy a magzatvíz meconiumos,
 
 j) igazolt B típusú streptococcus fertőzés.
-
-[^11]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

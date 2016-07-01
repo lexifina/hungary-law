@@ -6,7 +6,7 @@
 
 (3)[^10] A szülést követő 72 óra elteltével a felelős személy és a gyermekgyógyász két példányban elkészíti a (2) bekezdésben meghatározott, az intézeten kívül született újszülöttről szóló vizsgálati lapot, a felelős személy pedig kitölti a 6. melléklet szerinti, az intézeten kívüli szülésről szóló összefoglalót.
 
-(4) A felelős személy a szülészeti eseményt követő 48 órán belül két példányban kiállítja az újszülött anyakönyvezéséhez szükséges, a 7. mellékletben meghatározott, az intézeten kívüli születés tényéről szóló igazolást, és átadja azt az anya részére. A felelős személy az intézeten kívül született újszülöttről szóló vizsgálati lap és az intézeten kívüli szülésről szóló összefoglaló egy példányát átadja a házi gyermekorvosnak.
+(4)[^11] A felelős személy a szülészeti eseményt követő 48 órán belül két példányban kiállítja az újszülött anyakönyvezéséhez szükséges, a 7. mellékletben meghatározott, az intézeten kívüli születés tényéről szóló igazolást, és átadja azt az anya részére. A felelős személy az intézeten kívül született újszülöttről szóló vizsgálati lap és az intézeten kívüli szülésről szóló összefoglaló egy példányát átadja a házi gyermekorvosnak, valamint elektronikus úton megküldi a védőnőnek.
 
 (5) A 4. melléklet szerinti adatlap egy példánya, a szülési naplónak az adott szülésre vonatkozó adatai, az intézeten kívül született újszülöttről szóló vizsgálati lap egy példánya és az intézeten kívüli szülésről szóló összefoglaló egy példánya az egészségügyi dokumentáció részét képezi. Az egészségügyi dokumentációt az egészségügyi szolgáltató őrzi meg azzal, hogy az intézeten kívüli szülésről szóló összefoglaló egy példányát átadja az anya részére.
 
@@ -23,3 +23,4 @@ c) a megszerzett gyakorlat időszaka és a szülések száma,
 d) a szakmai gyakorlatot igazoló szervezeti egység vezetőjének aláírása.
 
 [^10]: A 12. § (3) bekezdése az 520/2013. (XII. 30.) Korm. rendelet 83. §-ával megállapított szöveg.
+[^11]: A 12. § (4) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 45. §-a szerint módosított szöveg.

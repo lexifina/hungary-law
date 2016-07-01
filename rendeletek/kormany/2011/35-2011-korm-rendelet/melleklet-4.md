@@ -1,5 +1,3 @@
-## Tárgyi és higiénés feltételek
-
 ## 1. Eszközök:
 
 ## 1. a magzati szívműködés regisztrálására alkalmas, Doppler elven működő szívhang regisztráló,
@@ -66,7 +64,7 @@
 
 ## 32. mérőszalag.
 
-## 2.[^13] Gyógyszerek*:
+## 2.[^14] Gyógyszerek*:
 
 ## 1. oxytotikus hatású szerek (Oxytocin, ergot alkaloida),
 
@@ -98,7 +96,7 @@
 
 ## 6. szülésre alkalmas tiszta ágy.
 
-## * Csak szülész-nőgyógyász szakorvos esetén.[^14]
+## * Csak szülész-nőgyógyász szakorvos esetén.[^15]
 
 4. melléklet a 35/2011. (III. 21.) Korm. rendelethez
 
@@ -204,5 +202,5 @@ Az adatlapot négy példányban kell kitölteni!
 
 ** Csak orvos helyettes felelős személy esetén kell lepecsételni.
 
-[^13]: A 3. melléklet 2. pontja a 325/2011. (XII. 28.) Korm. rendelet 95. §-a szerint módosított szöveg.
-[^14]: A 3. melléklet végjegyzetét a 325/2011. (XII. 28.) Korm. rendelet 95. §-a iktatta be.
+[^14]: A 3. melléklet 2. pontja a 325/2011. (XII. 28.) Korm. rendelet 95. §-a szerint módosított szöveg.
+[^15]: A 3. melléklet végjegyzetét a 325/2011. (XII. 28.) Korm. rendelet 95. §-a iktatta be.

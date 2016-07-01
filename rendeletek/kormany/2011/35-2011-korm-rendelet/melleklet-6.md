@@ -164,9 +164,9 @@
 
 | P. H. | P. H. |
 
-6. melléklet a 35/2011. (III. 21.) Korm. rendelethez[^16]
+6. melléklet a 35/2011. (III. 21.) Korm. rendelethez[^17]
 
-## Összefoglaló adatlap intézeten kívüli szülésről
+Összefoglaló adatlap intézeten kívüli szülésről
 
 ## Szolgáltató neve:
 
@@ -204,4 +204,4 @@
 
 V. Az újszülött adatai
 
-[^16]: A 6. melléklet az 520/2013. (XII. 30.) Korm. rendelet 85. § c) pontja szerint módosított szöveg.
+[^17]: A 6. melléklet az 520/2013. (XII. 30.) Korm. rendelet 85. § c) pontja szerint módosított szöveg.
