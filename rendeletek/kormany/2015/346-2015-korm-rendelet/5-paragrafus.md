@@ -1,1 +1,0 @@
-## 4. § A 43/2015. Korm. rendelet 88. § (2) bekezdés a) pontja az „a biztosítókról és a biztosítási tevékenységről szóló 2003. évi LX. törvény 235. § d) pontja szerint megállapított” szövegrész helyett az „alkalmazott” szöveggel lép hatályba.
