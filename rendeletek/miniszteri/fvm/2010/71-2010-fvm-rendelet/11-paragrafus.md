@@ -4,9 +4,9 @@
 
 (3) A 6. § (1) bekezdése, valamint a 9. § (1) bekezdése 2011. január 1-jén lépnek hatályba.
 
-(4)[^47]
+(4)[^48]
 
-(5)[^48]
+(5)[^49]
 
-[^47]: A 11. § (4) bekezdését az (5) bekezdés hatályon kívül helyezte.
-[^48]: A 11. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^48]: A 11. § (4) bekezdését az (5) bekezdés hatályon kívül helyezte.
+[^49]: A 11. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

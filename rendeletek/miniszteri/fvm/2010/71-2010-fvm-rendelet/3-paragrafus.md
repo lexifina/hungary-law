@@ -16,5 +16,8 @@ d) rendészeti feladatokat ellátó szakszemélyzet esetében a 2. § (2a) bekez
 
 e) kizárólag szakfeladatokat ellátó erdészeti szakszemélyzet esetében egy 3x4 cm méretű arcfényképet.
 
+(3)[^9] A NÉBIH az erdészeti szakszemélyzet vagy a jogosult erdészeti szakszemélyzet (a továbbiakban együtt: szakszemélyzet) kérelmére annak családi és utónevét, jellemző működési területét és elérhetőségét a honlapján közzéteszi.
+
 [^7]: A 3. § (1) bekezdése a 102/2013. (XI. 4.) VM rendelet 3. §-ával megállapított szöveg.
 [^8]: A 3. § (2) bekezdése a 102/2013. (XI. 4.) VM rendelet 3. §-ával megállapított szöveg.
+[^9]: A 3. § (3) bekezdését a 27/2016. (IV. 11.) FM rendelet 6. §-a iktatta be.

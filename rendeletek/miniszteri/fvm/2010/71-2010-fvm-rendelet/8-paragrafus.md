@@ -46,7 +46,7 @@ b) a (2) bekezdésben foglalt tényállás a szakszemélyzet nyilvánvaló elír
 
 c) olyan tervezett tevékenységekről szóló erdőgazdálkodói bejelentést ellenjegyez, amelyek nincsenek összhangban az erdőtervben foglaltakkal,
 
-d) szándékosan olyan elvégzett tevékenységről szóló erdőgazdálkodói bejelentést ellenjegyez, amelynek tartalma nem felel meg az elvégzett tevékenységnek,
+d)[^34] szándékosan olyan elvégzett tevékenységről szóló erdőgazdálkodói bejelentést ellenjegyez, amelynek tartalma nem felel meg az elvégzett tevékenységnek, vagy az ellenjegyzés jogszabályban rögzített szabályait más módon megszegi,
 
 e) a 7. § (1) bekezdés b) pontja szerinti továbbképzésen, annak meghirdetésétől számított 6 hónapon belül a meghirdetett időpontokban egyszer sem vett részt,
 
@@ -54,7 +54,7 @@ f) a fakitermelés Evt. 74. § (1) vagy (2) bekezdésében, vagy a természet v�
 
 g) a fakitermelés Evt. 73. § (2) bekezdésében vagy a Tvt. 33. § (4) bekezdésében foglalt időbeli korlátozást figyelmen kívül hagyó, a Vhr. 42. § (1) bekezdés szerinti műveleti lapot állít ki.
 
-(5)[^34]
+(5)[^35]
 
 [^23]: A 8. § (1) bekezdése a 102/2013. (XI. 4.) VM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^24]: A 8. § (1a) bekezdését a 102/2013. (XI. 4.) VM rendelet 9. § (2) bekezdése iktatta be.
@@ -67,4 +67,5 @@ g) a fakitermelés Evt. 73. § (2) bekezdésében vagy a Tvt. 33. § (4) bekezd�
 [^31]: A 8. § (2) bekezdés f) pontja a 102/2013. (XI. 4.) VM rendelet 14. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^32]: A 8. § (3a) bekezdését a 102/2013. (XI. 4.) VM rendelet 9. § (3) bekezdése iktatta be.
 [^33]: A 8. § (4) bekezdése a 102/2013. (XI. 4.) VM rendelet 9. § (4) bekezdésével megállapított szöveg.
-[^34]: A 8. § (5) bekezdését a 45/2013. (VI. 3.) VM rendelet 5. § (9) bekezdése hatályon kívül helyezte.
+[^34]: A 8. § (4) bekezdés d) pontja a 27/2016. (IV. 11.) FM rendelet 8. §-ával megállapított szöveg.
+[^35]: A 8. § (5) bekezdését a 45/2013. (VI. 3.) VM rendelet 5. § (9) bekezdése hatályon kívül helyezte.
