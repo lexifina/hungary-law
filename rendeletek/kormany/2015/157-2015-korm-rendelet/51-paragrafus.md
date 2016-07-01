@@ -1,4 +1,4 @@
-## 50. §[^31]
+## 50. §[^30]
 
 ## 30. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 11. § (2) bekezdés és a 27. § (1) bekezdés 2016. július 1-jén lép hatályba.
 
-[^31]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
