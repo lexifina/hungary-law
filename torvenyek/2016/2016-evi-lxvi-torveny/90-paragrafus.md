@@ -1,1 +1,9 @@
-90. §
+90. § A Htv. VI. Fejezete a következő 51/B. §-sal egészül ki:
+
+„51/B. § (1) Az önkormányzatnak az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel beiktatott 7. § g) pontot első alkalommal a 2017. január 1-jén hatályban lévő adórendeleti szabályokra kell alkalmaznia.
+
+(2) Ha az iparűzési adó alanya a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 29/A. § (29)–(30) bekezdései alapján csökkenti az adózás előtti eredményt, akkor a nettó árbevétel megállapítása során – utoljára a 2021. június 30-áig lezáruló adóévben – a jogdíjból származó, árbevételként elszámolt ellenértéknek tekintheti a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 2016. június 30-án hatályos 4. § 20. pontja szerinti jogdíjból származó, árbevételként elszámolt ellenértéket.
+
+(3) A (2) bekezdés alkalmazható akkor is, ha a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 29/A. § (29)–(30) bekezdései csak azért nem alkalmazhatóak, mert az adóalany adózás előtti eredménye nulla vagy negatív.
+
+(4) Ha az iparűzési adó alanyának a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény 2016. június 30-án hatályos 4. § 20. pontja szerinti jogdíjból származó árbevétele a szerzői jogi törvény által védett szerzői műhöz és a szerzői joghoz kapcsolódó jog által védett teljesítményhez fűződő vagyoni jogok átruházásáról szóló, hatósági nyilvántartásba vétel alapját képező, a nyilvántartást vezető hatóság részére benyújtott, 2015. július 1. és 2016. június 30. között hatályossá váló szerződés alapján keletkezik, akkor az a nettó árbevétel megállapítása során – utoljára a 2017. december 31-éig lezáruló adóévben – jogdíjból származó, árbevételként elszámolt ellenértéknek tekinthető.”

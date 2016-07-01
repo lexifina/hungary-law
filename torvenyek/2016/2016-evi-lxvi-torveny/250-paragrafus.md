@@ -1,0 +1,11 @@
+250. § A NAV tv. 32/Y. § a következő (1a)–(1e) bekezdéssel egészül ki:
+
+„(1a) Az értékelést tárgyév február 15-ig meghatározott teljesítménykövetelmény alapján kell elvégezni. Az értékelés eredményeként a teljesítmény „kivételes”, „jó”, „átlagos”, „átlag alatti”, illetve „elfogadhatatlan” fokozatú lehet. Az érintett a teljesítményértékelésre észrevételt tehet.
+
+(1b) Az (1) bekezdéstől eltérően év közben is teljesítményértékelést kell végezni belső áthelyezés, illetve szervezeti egység váltás esetén, valamint akkor is, ha a kormánytisztviselő, a pénzügyőr munkaköre év közben megváltozik. Ilyen esetben a tárgyév hátralévő részére új egyéni teljesítménykövetelményt kell kitűzni és a tárgyévi teljesítményértékelés során az évközi teljesítményértékelés eredményét figyelembe kell venni. Nem kell új teljesítménykövetelményt kitűzni, ha a szervezeti egység váltás nem jár a munkakör megváltozásával.
+
+(1c) Az (1b) bekezdéstől eltérően nem lehet a tárgyév hátralévő részére új egyéni teljesítménykövetelményt kitűzni és tárgyévi teljesítményértékelést készíteni, ha a belső áthelyezéstől, illetve a szervezeti egység váltástól vagy a munkakör év közbeni változásától számítva az év végéig 3 hónapnál kevesebb idő van hátra. Ilyen esetben az évközi teljesítményértékelés minősül tárgyévi teljesítményértékelésnek.
+
+(1d) Az (1) bekezdéstől eltérően a munkáltatói jogkör gyakorlójának mérlegelése alapján – ha az érintettnek a tárgyévben az értékelést közvetlenül megelőző legalább 3 egybefüggő hónap teljesítménye értékelhető – év közben is végezhető teljesítményértékelés, ha a munkakörre való alkalmatlanság merül fel. Ilyen esetben a tárgyévi teljesítményértékelés során az évközi teljesítményértékelés eredményét figyelembe kell venni, függetlenül attól, hogy a kinevezés, illetve a hivatásos szolgálati jogviszony módosítására sor kerül-e, ide nem értve az (1e) bekezdés szerinti esetet.
+
+(1e) Ha az (1d) bekezdés szerinti eljárás következtében a (4) bekezdés szerinti minősítés alapján a 18/B. § (2) bekezdés e) pontja szerinti belső áthelyezésre, alacsonyabb besorolású munkakörbe helyezésre vagy szervezeti egységváltásra kerül sor, úgy a tárgyév hátralévő része tekintetében az (1b) és (1c) bekezdés megfelelő alkalmazásával kell eljárni.”
