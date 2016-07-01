@@ -1,0 +1,3 @@
+## 28. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet (a továbbiakban: R8.) 7. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) Az Nftv. 77. § (4) bekezdése szerinti képzés magyar felsőoktatási intézmény által történő indításának nyilvántartásba vételét a magyar felsőoktatási intézmény vezetője kérelmezi. A kérelemhez mellékelni kell a külföldi felsőoktatási intézmény és a képzés állami elismertségének, továbbá az Nftv. 77. § (4) bekezdésében előírt feltételek meglétének igazolását, valamint a külföldi és a magyar felsőoktatási intézmény által a képzés megszervezésére vonatkozóan megkötött megállapodást.”
