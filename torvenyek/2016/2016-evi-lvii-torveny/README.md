@@ -1,0 +1,7 @@
+# 2016. évi LVII. törvény egyes törvényeknek a terrorveszélyhelyzettel kapcsolatos módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-57-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2016-07-01 | 2016. évi LVII. törvény | 2016-57-00-00.0 (közlönyállapot) |
