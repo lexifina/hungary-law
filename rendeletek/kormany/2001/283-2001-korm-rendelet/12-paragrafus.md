@@ -1,4 +1,4 @@
-12. §[^19] (1) A szolgáltató és a központi értéktári, illetve központi szerződő fél tevékenységet végző szervezet
+12. §[^21] (1) A szolgáltató és a központi értéktári, illetve központi szerződő fél tevékenységet végző szervezet
 
 a) az ötmillió forintot meg nem haladó összértéket beépített vagy rögzített páncélszekrényben köteles tárolni,
 
@@ -12,4 +12,4 @@ b) ötvenmillió forint összérték felett hatósági engedéllyel rendelkező 
 
 (3) Az értékhatár megállapításánál az értékpapír és egyéb érték esetében a forgalmi érték az irányadó.
 
-[^19]: A 12. § nyitó szövegrésze a 468/2015. (XII. 29.) Korm. rendelet 2. § h) pontja szerint módosított szöveg.
+[^21]: A 12. § nyitó szövegrésze a 468/2015. (XII. 29.) Korm. rendelet 2. § h) pontja szerint módosított szöveg.

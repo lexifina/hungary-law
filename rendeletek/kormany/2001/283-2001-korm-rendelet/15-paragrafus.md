@@ -1,3 +1,3 @@
-## 14. §[^20]
+## 14. §[^22]
 
-[^20]: A 14. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1006. pontja hatályon kívül helyezte.
+[^22]: A 14. §-t és az azt megelőző alcímet a 118/2008. (V. 8.) Korm. rendelet 1. § 1006. pontja hatályon kívül helyezte.
