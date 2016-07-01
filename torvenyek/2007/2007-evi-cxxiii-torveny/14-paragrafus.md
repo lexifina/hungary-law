@@ -12,4 +12,4 @@ a) a helyiségben gyakorolt tevékenységét – a kisajátítási tárgyaláson
 
 b) tulajdonában (vagyonkezelésében, használatában) ugyanabban a városban (községben) olyan más, nem lakás céljára szolgáló helyiség van, amely megfelelő a tevékenység folytatására.
 
-(4) Ha a jogosult a felajánlott és – szakértői vélemény alapján – megfelelő cserelakást, illetve cserehelyiséget nem fogadja el, részére a cserelakás vagy cserehelyiség helyett pénzbeli kártalanításról kell dönteni.
+(4) Ha a jogosult a felajánlott és megfelelő cserelakást, illetve cserehelyiséget nem fogadja el, részére a cserelakás vagy cserehelyiség helyett pénzbeli kártalanításról kell dönteni.

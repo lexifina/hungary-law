@@ -4,6 +4,6 @@
 
 (3) Az ingatlan tulajdonosa (vagyonkezelője, használója) köteles tűrni, hogy az engedélyezett előmunkálatokat elvégezzék, az ezzel okozott kár megtérítéséért a kisajátítást kérő és az előmunkálatokat végző egyetemlegesen felelős.
 
-(4) A kisajátítási hatóság az előmunkálatokat engedélyező határozatában a kisajátítást kérő kérelmére – a kártalanításra vonatkozó szakvélemény elkészítése céljából – szakértőt rendel ki.
+(4) A kisajátítási hatóság az előmunkálatokat engedélyező határozatában a kisajátítást kérő kérelmére – ha a kisajátítási hatóság nem rendelkezik a szükséges szakértelemmel – a kártalanításra vonatkozó szakvélemény elkészítése céljából szakértőt rendel ki.
 
 (5) Az előmunkálati engedélyben meghatározott munkálatok során okozott, illetve azzal összefüggésben keletkezett károkért járó kártalanítást – a kisajátítási kártalanítás szabályainak alkalmazásával – a kisajátítási hatóság állapítja meg.
