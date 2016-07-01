@@ -96,7 +96,7 @@ b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény s
 
 19. nevelési év: az óvodában szeptember 1-jétől a következő év augusztus 31-éig tartó időszak,
 
-20. nevelőtestület: a nevelési-oktatási intézményben közalkalmazotti jogviszony, munkaviszony keretében pedagógus-munkakörben, valamint a felsőfokú végzettséggel rendelkező, nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottak közössége,
+20. nevelőtestület: a nevelési-oktatási intézményben közalkalmazotti jogviszony, munkaviszony, egyházi szolgálati jogviszony keretében pedagógus-munkakörben, valamint a felsőfokú végzettséggel rendelkező, nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottak közössége,
 
 21. óraadó: megbízási szerződés keretében legfeljebb heti tíz óra vagy foglalkozás megtartására alkalmazott pedagógus, oktató,
 

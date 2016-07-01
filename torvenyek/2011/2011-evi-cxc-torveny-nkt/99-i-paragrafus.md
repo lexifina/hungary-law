@@ -1,0 +1,1 @@
+99/I. § Az állami intézményfenntartó központ, illetve a tankerületi központ jogi személyiséggel rendelkező szervezeti egységeit a közbeszerzés becsült értékének meghatározására vonatkozó szabályok alkalmazásakor gazdasági szervezettel és önálló működési költségvetéssel rendelkező szervezeti egységnek kell tekinteni.

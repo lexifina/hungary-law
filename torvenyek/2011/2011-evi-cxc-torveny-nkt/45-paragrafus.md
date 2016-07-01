@@ -2,7 +2,7 @@
 
 45. § (1) Magyarországon – az e törvényben meghatározottak szerint – minden gyermek köteles az intézményes nevelés-oktatásban részt venni, tankötelezettségét teljesíteni.
 
-(2) A gyermek abban az évben, amelynek augusztus 31. napjáig a hatodik életévét betölti, legkésőbb az azt követő évben tankötelessé válik. Az a gyermek, akinek esetében azt a szakértői bizottság javasolja, további egy nevelési évig az óvodában részesül ellátásban, és ezt követően válik tankötelessé. A tankötelezettség teljesítése a tanév első tanítási napján kezdődik. Ha a gyermek az iskolába lépéshez szükséges fejlettséget korábban eléri, a kormányhivatal a szülő kérelmére szakértői bizottság véleménye alapján engedélyezheti, hogy a gyermek hatéves kor előtt megkezdje tankötelezettségének teljesítését.
+(2) A gyermek abban az évben, amelynek augusztus 31. napjáig a hatodik életévét betölti, legkésőbb az azt követő évben tankötelessé válik. Az a gyermek, akinek esetében azt a szakértői bizottság javasolja, további egy nevelési évig az óvodában részesül ellátásban, és ezt követően válik tankötelessé. A tankötelezettség teljesítése a tanév első tanítási napján kezdődik. Ha a gyermek az iskolába lépéshez szükséges fejlettséget korábban eléri, a járási hivatal a szülő kérelmére szakértői bizottság véleménye alapján engedélyezheti, hogy a gyermek hatéves kor előtt megkezdje tankötelezettségének teljesítését.
 
 (3) A tankötelezettség annak a tanévnek a végéig tart, amelyben a tanuló a tizenhatodik életévét betölti. A sajátos nevelési igényű tanuló tankötelezettsége meghosszabbítható annak a tanítási évnek a végéig, amelyben a huszonharmadik életévét betölti. A tankötelezettség meghosszabbításáról a szakértői bizottság szakértői véleménye alapján az iskola igazgatója dönt.
 

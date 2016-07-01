@@ -32,7 +32,7 @@ d) a nevelési-oktatási intézmény átszervezésével
 
 kapcsolatban.
 
-(8)
+(8) A köznevelési intézmény fenntartója az intézkedés tervezett végrehajtása éve februárjának utolsó munkanapjáig kezdeményezheti egy másik köznevelési intézmény fenntartójánál, hogy az általa fenntartott intézmény fenntartói jogait és kötelezettségeit a következő tanévtől adja át.
 
 (9) Ha a nevelési-oktatási intézmény alapító okirata, szakmai alapdokumentuma tartalmazza a nemzetiségi nevelési-oktatási feladat ellátását, feltéve, hogy e feladatot az intézmény ténylegesen ellátja, akkor a települési önkormányzat, az állami fenntartó az intézmény
 

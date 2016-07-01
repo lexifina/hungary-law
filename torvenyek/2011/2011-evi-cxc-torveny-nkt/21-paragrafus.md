@@ -36,6 +36,8 @@ k) az önálló költségvetéssel rendelkező intézmény esetében a gazdálko
 
 (4) A nyilvántartásba vétellel összefüggő költségeket a kérelem benyújtója viseli. A bejegyzett adatokban bekövetkezett változásokat – a (2) bekezdésben meghatározottak szerint – nyolc napon belül be kell jelenteni. A nyilvántartás fennálló és törölt adatai, továbbá az alapító okirat, szakmai alapdokumentum nyilvánosak, azokat bárki megtekintheti, azokról feljegyzést készíthet, valamint elektronikus úton is hozzáférhetők.
 
+(4a) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a kérelem benyújtója kéri – a (4) bekezdés szerinti határidőben értesíti költségvetési szerv esetén a törzskönyvi nyilvántartást vezető szervet, az állami intézményfenntartó központ és az állami felsőoktatási intézmény által fenntartott intézmény esetében a hivatalt, más esetben a köznevelési intézmény székhelye szerint illetékes fővárosi és megyei kormányhivatalt.
+
 (5) A nyilvántartás tartalmazza
 
 a) a köznevelési intézmény
