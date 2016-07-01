@@ -8,4 +8,4 @@
 
 6. melléklet a 9/2007. (III. 6.) IRM rendelethez[^21]
 
-[^21]: A 6. melléklet a 6/2015. (III. 6.) BM rendelet 7. § (5) bekezdésével megállapított szöveg.
+[^21]: A 6. melléklet a 18/2016. (V. 24.) BM rendelet 3. §-ával megállapított szöveg.

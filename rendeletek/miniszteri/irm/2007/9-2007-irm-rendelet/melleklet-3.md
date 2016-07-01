@@ -152,7 +152,7 @@
 
 ## 64. A papír alapú anyakönyv pótlása
 
-## 65. Külföldiek anyakönyvezésére vonatkozó speciális szabályok
+## 65. Külföldiek anyakönyvezésére vonatkozó speciális szabályok (külföldi állampolgárok Magyarországon történt anyakönyvi eseményeinek rögzítése: személynév, településnév anyakönyvezése).
 
 ## 66. A nemzetközi magánjogi szabályok alkalmazása az anyakönyvi igazgatásban (a nemzetközi magánjog fogalma, személyes jog fogalma, a többes állampolgárokra, a menekültekre és hontalanokra vonatkozó rendelkezések, a külföldi elemet tartalmazó házasságkötésekre vonatkozó szabályok, a külföldön történt örökbefogadások magyarországi elismerésére vonatkozó szabályok, egyéb, magyar állampolgárokat érintő külföldi határozatok elismerésére vonatkozó szabályok)
 
@@ -176,4 +176,4 @@
 
 3. melléklet a 9/2007. (III. 6.) IRM rendelethez[^18]
 
-[^18]: A 3. melléklet a 6/2015. (III. 6.) BM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^18]: A 3. melléklet a 6/2015. (III. 6.) BM rendelet 7. § (3) bekezdésével megállapított, a 18/2016. (V. 24.) BM rendelet 2. §-a szerint módosított szöveg.
