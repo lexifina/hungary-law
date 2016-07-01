@@ -54,4 +54,6 @@ fd) járóbeteg-szakellátásban a heti rendelési időt napi bontásban.
 
 (5) A nyilvántartásba vett egészségügyi szolgáltató vagy a szabadfoglalkozású jogviszonyban álló személy vagy szervezet a (2) bekezdésben foglaltak változását 8 napon belül bejelenti az egészségügyi államigazgatási szervnek. Az egészségügyi államigazgatási szerv a változást a hatósági nyilvántartáson átvezeti és erről a bejelentő személyt vagy szervezetet értesíti.
 
+(5a) Az (5) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a nyilvántartásba vett egészségügyi szolgáltató vagy a szabadfoglalkozású jogviszonyban álló személy vagy szervezet kéri – az (5) bekezdés szerinti határidőben értesíti az egészségügyi államigazgatási szervet.
+
 (6) Az egészségügyi államigazgatási szervnek a bejelentés alapján egészségügyi szolgáltatóként közhiteles nyilvántartásba vételre irányuló, kérelemre lefolytatott eljárásáért vagy igazgatási szolgáltatásáért – az egészségügyért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.

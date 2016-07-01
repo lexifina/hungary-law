@@ -40,7 +40,7 @@ q) megállapítja, összehangolja, nyilvántartja és közzéteszi a gyógyszert
 
 r) közvetlenül és haladéktalanul intézkedik, ha az ellátási kötelezettséggel rendelkező egészségügyi szolgáltatónál hirtelen fellépő ok miatt a betegellátás átmeneti fennakadásáról értesül. Az intézkedéssel párhuzamosan értesíti az érintett szolgáltató fenntartóját, illetve az Országos Mentőszolgálatot.
 
-(2) Az egészségügyi államigazgatási szerv az (1) bekezdés h), i) és o) pontjaiban foglalt feladatokat külön jogszabályban foglaltak szerint látja el.
+(2) Az egészségügyi államigazgatási szerv az (1) bekezdés h)–i), o) és q) pontjában foglalt feladatokat külön jogszabályban foglaltak szerint látja el.
 
 (3) Az (1) bekezdés e) pontja szerinti nyilvántartás a (4) bekezdés a) pont ac) alpontja; b)–d) pontja, valamint e) pont eb) alpontja szerinti adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
