@@ -1,6 +1,6 @@
 5. melléklet a 78/2008. (IV. 3.) Korm. rendelethez
 
-## A fürdővizek profilja
+A fürdővizek profilja
 
 1. A fürdővíz-profil az alábbiakat tartalmazza:
 
@@ -30,7 +30,7 @@ f) az ellenőrzési pont elhelyezkedését.
 
 |  | A felülvizsgálandó szempontok (az 1. pont és alpontjai) | a)–f) | a)–f) | a)–f) |  |
 
-Abban az esetben, ha a fürdővizet előzetesen a „kiváló” osztályba sorolták, a fürdővíz profilját csak akkor kell felülvizsgálni, és ha szükséges, frissíteni, ha az osztályozás „jó”, „tűrhető” vagy „kifogásolt” minősítésre változik. A felülvizsgáltnak le kell fednie az 1. pontban említett összes szempontot.
+## Abban az esetben, ha a fürdővizet előzetesen a „kiváló” osztályba sorolták, a fürdővíz profilját csak akkor kell felülvizsgálni, és ha szükséges, frissíteni, ha az osztályozás „jó”, „tűrhető” vagy „kifogásolt” minősítésre változik. A felülvizsgáltnak le kell fednie az 1. pontban említett összes szempontot.
 
 3. Abban az esetben, ha a fürdővíz területén vagy annak közelében jelentős építési munka folyik, vagy az infrastruktúra jelentősen megváltozik, a fürdővíz profilját frissíteni kell a következő fürdési idény kezdete előtt.
 

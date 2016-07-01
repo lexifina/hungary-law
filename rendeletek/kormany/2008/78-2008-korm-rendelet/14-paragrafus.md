@@ -8,7 +8,7 @@ ab) a kijelölt fürdőhelyek,
 
 ac) tartós fürdési tilalom alá eső fürdővizek
 
-## listájáról,
+listájáról,
 
 b) minden egyes fürdőhelyre magállapított fürdési idény első és utolsó napjáról,
 
@@ -24,7 +24,7 @@ a) a fürdővíz jelentős vagy tartós minőségromlására vagy ennek lehetős
 
 b)[^61] a 7. § (5) bekezdése szerinti rövid távú szennyezés miatt figyelmen kívül hagyható mintákról szükséges tájékoztatás, az erre vonatkozó döntést követő 24 órán belül
 
-## a megyei népegészségügyi szakigazgatási szervbe és az OKI-ba eljusson.
+a megyei népegészségügyi szakigazgatási szervbe és az OKI-ba eljusson.
 
 (2a)[^62] A rövid távú szennyezések e rendeletben előírt kezelése érdekében az Országos Meteorológiai Szolgálat gondoskodik az ilyen szennyezésnek kitett vizeket érintő jelentősebb csapadékesemények lehetőség szerinti előjelzéséről és a legalább 15 mm-es csapadékesemények bekövetkezésének visszaigazolásáról. Az Országos Meteorológiai Szolgálat az előrejelzést és az utólagos tájékoztatást a járási népegészségügyi intézetnek küldi meg. A rövid távú szennyezési veszélynek kitett fürdővizek listájáról az Országos Meteorológiai Szolgálatot az OTH tájékoztatja.
 

@@ -24,7 +24,7 @@ b) az Escherichia coli száma meghaladja az 1500/100 ml-t, vagy
 
 c)[^34] az 1. melléklet 3–5. paramétereinek értékei egyaránt meghaladják a tűrhető vízminőségre előírt határértékeket,
 
-## a járási népegészségügyi intézet a fürdőhely üzemeltetésének szüneteltetését haladéktalanul elrendeli.
+a járási népegészségügyi intézet a fürdőhely üzemeltetésének szüneteltetését haladéktalanul elrendeli.
 
 (7) A (6) bekezdésben foglalt intézkedés irányadó akkor is, ha a fürdőhely üzemeltetése nem felel meg az e rendeletben foglalt feltételeknek.
 
