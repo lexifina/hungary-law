@@ -1,3 +1,3 @@
-30. §[^410] Az Ebtv. 47. §-ának (3) bekezdése szerinti esetben a táppénzfolyósítás megszüntetéséről a táppénzfolyósító szerv intézkedik a biztosítottat keresőképtelen állományban tartó orvos, valamint az ellenőrző főorvos külön jogszabály szerinti vizsgálatot követő javaslatára.
+30. §[^417] Az Ebtv. 47. § (3) bekezdése szerinti esetben a táppénzfolyósítás megszüntetéséről a táppénzfolyósító szerv intézkedik a szakértő főorvosnak, valamint a felülvéleményező főorvosnak a keresőképtelenség és keresőképesség orvosi elbírálásáról és annak ellenőrzéséről szóló kormányrendelet szerinti vizsgálatot követő javaslatára.
 
-[^410]: A Vhr. 30. §-a a 232/1998. (XII. 30.) Korm. rendelet 10. §-ával megállapított, valamint a 252/2003. (XII. 23.) Korm. rendelet 15. §-ának (3) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 130. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^417]: A Vhr. 30. §-a a 172/2016. (VII. 1.) Korm. rendelet 10. §-ával megállapított szöveg.
