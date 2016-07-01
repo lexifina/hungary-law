@@ -16,6 +16,8 @@ A Balaton kiemelt üdülőkörzetbe tartozó parti és partközeli települések
 
 7. Balatonakali
 
+7a. Balatonakarattya
+
 8. Balatonalmádi
 
 9. Balatonberény

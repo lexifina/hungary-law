@@ -1,12 +1,12 @@
-6. § (1) E § alkalmazásában zöldterület: a balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett területre készült vízpart-rehabilitációs tanulmánytervben, illetve első felülvizsgálatát követően a partvonal-szabályozási és vízpart-rehabilitációs tervben zöldterület települési területfelhasználási egységbe sorolt terület.
+6. § (1) E § alkalmazásában zöldterület: a balatoni vízpart-rehabilitációs szabályozási követelményekkel érintett területre készült vízpart-rehabilitációs tanulmánytervben zöldterület települési területfelhasználási egységbe sorolt terület.
 
 (2) Zöldterületen más települési területfelhasználási egység csak az átsorolni kívánt zöldterülettel legalább azonos alapterületű új zöldterület kijelölésével és az alábbi feltételek egyidejű megléte esetén jelölhető ki:
 
 a) az átsorolni kívánt zöldterület nem tartozik természetvédelmi oltalom alá,
 
-b) a vízpart-rehabilitációs tervben kijelölt közhasználatú parti sétány hossza nem csökkenhet,
+b) a vízpart-rehabilitációs tanulmánytervben kijelölt közhasználatú parti sétány hossza nem csökkenhet,
 
-c) a vízpart-rehabilitációs tervben kijelölt közhasználatú parti sétány legalább 10 m szélességgel a természetes vízparti vegetáció sérelme nélkül biztosítható,
+c) a vízpart-rehabilitációs tanulmánytervben kijelölt közhasználatú parti sétány legalább 10 m szélességgel a természetes vízparti vegetáció sérelme nélkül biztosítható,
 
 d) az újonnan kijelölt zöldterület a települési önkormányzat vagy a magyar állam tulajdonában van,
 

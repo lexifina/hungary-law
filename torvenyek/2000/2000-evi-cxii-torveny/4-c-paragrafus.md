@@ -18,7 +18,7 @@ f) Budapest–Székesfehérvár–Nagykanizsa–Murakeresztúr–(Horvátország
 
 g) a Hajmáskér–Balatonfűzfő között tervezett egyéb országos törzshálózati vasútvonal területigényét – a Szabadbattyán–Tapolca egyéb országos törzshálózati vasútvonal balatonkenesei szakaszának a csúszásveszélyeztetettsége miatt – biztosítani kell;
 
-h) a vitorláskikötő-hálózat bővítése a vízpart-rehabilitációs tanulmánytervek, első felülvizsgálatukat követően a partvonal-szabályozási és vízpart-rehabilitációs tervek alapján történhet;
+h) a vitorláskikötő-hálózat bővítése a vízpart-rehabilitációs tanulmánytervek alapján történhet;
 
 i) a meglévő repülőterek a 2/4. sz. melléklet szerint megtartandók és fejlesztendők.
 

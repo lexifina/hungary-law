@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2000-112-00-00
 | 2013-06-01 | 2013. évi XLVII. törvény | 2000-112-00-00.18 |
 | 2014-01-01 | 2013. évi XLVII. törvény | 2000-112-00-00.19 |
 | 2014-12-26 | 2014. évi XCVIII. törvény | 2000-112-00-00.20 |
+| 2016-07-01 | 2016. évi LXXVIII. törvény | 2000-112-00-00.21 |

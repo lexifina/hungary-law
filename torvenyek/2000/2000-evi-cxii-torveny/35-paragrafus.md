@@ -16,7 +16,7 @@ f)
 
 g) a védett természeti területen található nádasban osztályba sorolástól függetlenül, természetvédelmi kezelés kivételével – amelynek módját a természetvédelmi kezelési terv határozza meg – tilos a kotrás, valamint minden olyan tevékenység, amely a nádas állományát veszélyezteti, vagy károsítja;
 
-h) a tómeder nádasában, a kihirdetett vízpart-rehabilitációs tanulmánytervek – első felülvizsgálatukat követően a partvonal-szabályozási és vízpart-rehabilitációs tervek – által kijelölt kikötésre alkalmas partszakaszokon engedéllyel rendelkező kikötők esetén legfeljebb 5 méter széles bejáró, valamint a meglévő közhasználatú strandok előtt, fövenyes strandszakasz kialakítása érdekében, a IV–V. osztályú nádasban, legfeljebb 30 méter széles bejáró a vízügyi hatóság engedélyével fenntartható;
+h) a tómeder nádasában, a kihirdetett vízpart-rehabilitációs tanulmánytervek által kijelölt kikötésre alkalmas partszakaszokon engedéllyel rendelkező kikötők esetén legfeljebb 5 méter széles bejáró, valamint a meglévő közhasználatú strandok előtt, fövenyes strandszakasz kialakítása érdekében, a IV–V. osztályú nádasban, legfeljebb 30 méter széles bejáró a vízügyi hatóság engedélyével fenntartható;
 
 i) az az üzemeltetési engedélyköteles vízi jármű, amely nem rendelkezik üzemeltetési engedéllyel és kiépített kikötőben kikötőhellyel, a tómeder területén nem tárolható;
 

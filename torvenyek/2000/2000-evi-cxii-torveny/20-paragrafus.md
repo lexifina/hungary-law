@@ -1,6 +1,6 @@
-20. § (1) A kiemelt üdülőkörzet valamennyi parti településén a belterülethez csatlakozó parthossz legkevesebb 30%-án legalább 5 méter széles közhasználatú parti sétány helye biztosítandó a vízpart-rehabilitációs tanulmánytervek – első felülvizsgálatukat követően partvonal-szabályozási és vízpart-rehabilitációs tervek – alapján felülvizsgált településrendezési eszközökben, figyelemmel a természetes vegetáció megtartására.
+20. § (1) A kiemelt üdülőkörzet valamennyi parti településén a belterülethez csatlakozó parthossz legkevesebb 30%-án legalább 5 méter széles közhasználatú parti sétány helye biztosítandó a vízpart-rehabilitációs tanulmánytervek alapján felülvizsgált településrendezési eszközökben, figyelemmel a természetes vegetáció megtartására.
 
-(2) A vízpart-rehabilitációs tanulmánytervekkel – első felülvizsgálatukat követően partvonal-szabályozási és vízpart-rehabilitációs tervekkel – közterületbe sorolt területekre vonatkozóan a települési önkormányzatokat – külön jogszabályban meghatározottak szerinti védett természeti területeken az államot – elővásárlási jog illeti meg.
+(2) A vízpart-rehabilitációs tanulmánytervekkel közterületbe sorolt területekre vonatkozóan a települési önkormányzatokat – külön jogszabályban meghatározottak szerinti védett természeti területeken az államot – elővásárlási jog illeti meg.
 
 (3) A (2) bekezdésben meghatározott területre készült vízpart-rehabilitációs szabályozási követelmények alapján felülvizsgált és módosított településrendezési eszközök alapján meghatározott ingatlanokra, a települési önkormányzat kérelmére, az elővásárlási jogot az ingatlan-nyilvántartásba be kell jegyezni.
 
