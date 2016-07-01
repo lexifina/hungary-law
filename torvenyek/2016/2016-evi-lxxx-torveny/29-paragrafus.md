@@ -1,0 +1,3 @@
+29. § Az Nkt. 27. §-a a következő (11c) bekezdéssel egészül ki:
+
+„(11c) Ha a művészeti felsőoktatási intézmény által fenntartott nyolc évfolyamos gimnáziumban a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 101. § (7) bekezdése szerinti előkészítő jogviszony alapján a művészeti felsőoktatási intézménybe való belépésre való felkészítés keretében a tanuló részére legalább heti 15 tanóra van biztosítva, a mindennapos testnevelés az előkészítő jogviszony alapján a művészeti felsőoktatási intézménybe való belépésre való felkészítés keretében biztosított művészeti szakmai képzéssel váltható ki.”
