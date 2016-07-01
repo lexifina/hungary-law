@@ -1,1 +1,0 @@
-Az elektronikus aláírásról szóló 2001. évi XXXV. törvény (a továbbiakban: Eat.) 27. §-a (2) bekezdésének a) pontjában foglalt felhatalmazás alapján az elektronikus aláírással kapcsolatos szolgáltatásokra és ezek szolgáltatóira vonatkozó részletes követelményekről a következőket rendelem el:
