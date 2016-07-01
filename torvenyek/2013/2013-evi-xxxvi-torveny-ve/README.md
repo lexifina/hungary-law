@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-36-00-00
 | 2015-01-01 | 2014. évi CI. törvény | 2013-36-00-00.9 |
 | 2016-01-15 | 2015. évi CCXIX. törvény | 2013-36-00-00.10 |
 | 2016-06-01 | 2015. évi CCXIX. törvény | 2013-36-00-00.11 |
+| 2016-07-01 | 2010. évi CXXX. törvény | 2013-36-00-00.12 |
