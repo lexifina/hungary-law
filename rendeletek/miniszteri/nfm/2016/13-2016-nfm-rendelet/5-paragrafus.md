@@ -14,10 +14,18 @@
 
 (7) Ha a Koordináló szerv azt állapítja meg, hogy a közszolgáltató nem adta át valamennyi haszonanyagát a Koordináló szerv által kijelölt szervezetnek, úgy a Koordináló szerv az erre vonatkozó írásbeli értesítést követő szolgáltatási díjfizetési időszakban a közszolgáltatónak fizetendő szolgáltatási díjból levonhatja az át nem adott haszonanyag mennyiségére vetített, a Koordináló szerv és a haszonanyag átvételére jogosult szervezet között létrejött szerződése alapján megállapított összeget.
 
-(8)–(9)[^1]
+(8) Ha a közszolgáltató igazolja, hogy a (7) bekezdésben foglalt megállapítást követően a haszonanyagot átadta a Koordináló szerv által kijelölt szervezetnek a levont összeget az igazolás elfogadását követő szolgáltatási díjfizetési időszakban a Koordináló szerv a közszolgáltatónak fizetendő szolgáltatási díjban biztosítja.
+
+(9) Ha a Koordináló szerv az adatszolgáltatásból, illetve az ellátásért felelős teljesítési igazolásából vagy a közszolgáltató által közzétett beszámolóból azt állapítja meg, hogy tartósan
+
+a) a közszolgáltató az általa vagyonkezelt – az ellátásért felelősnél a hulladékgazdálkodási közszolgáltatás teljesítéséhez rendelkezésre álló – létesítményekre, eszközökre, berendezésekre vonatkozó amortizáció mértékét nem képezte meg,
+
+b) az ellátásért felelős által a közszolgáltató rendelkezésére bocsátott eszközök, berendezések, létesítmények használatáért az ellátásért felelős által megállapított összeget nem fizette meg, vagy
+
+c) a közszolgáltató a jogszabályban, hatósági engedélyeiben előírt céltartalékot nem vagy nem megfelelő mértékben képezte meg,
+
+és az a hulladékgazdálkodási közszolgáltatás biztonságos és fenntartható ellátását veszélyezteti, a meg nem képzett vagy meg nem fizetett összeget a Koordináló szerv a szolgáltatási díjból mindaddig visszatartja, amíg a közszolgáltató hitelt érdemlően nem igazolja, hogy az összeget megképezte, vagy megfizette.
 
 (10) A Koordináló szerv a (9) bekezdés szerinti összegeket elkülönítetten tartja nyilván.
 
 (11) Ha a közszolgáltatási szerződés megszűnéséig az adott közszolgáltatási szerződéssel összefüggő (9) bekezdés szerinti visszatartott összegeknek a közszolgáltató részére történő kifizetésére nem kerül sor, úgy a közszolgáltatási szerződés megszűnésekor a közszolgáltató és az ellátásért felelős elszámolása tekintetében a Koordináló szerv ezen összegeket az ellátásért felelős részére fizeti meg.
-
-[^1]: Az 5. § (8)–(9) bekezdése a 7. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
