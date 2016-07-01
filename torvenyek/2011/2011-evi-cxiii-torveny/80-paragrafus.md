@@ -44,4 +44,6 @@ t) szövetséges fegyveres erők: a kölcsönös katonai segítségnyújtás kö
 
 u) szövetségi légtér: több szövetséges állam légterét békében is átfedő, védelmi célú, légtér-szuverenitási felségjog-érvényesítési terület,
 
-v) katonai hatóság: a honvédelmi és a katonai célú ingatlanok, azok védőterületei, valamint az ott végzett tevékenységek vonatkozásában – jogszabályban meghatározott hatósági jogkörében eljárva – hatósági vagy szakhatósági feladatokat ellátó honvédségi szervezet.
+v) katonai hatóság: a honvédelmi és a katonai célú ingatlanok, azok védőterületei, valamint az ott végzett tevékenységek vonatkozásában – jogszabályban meghatározott hatósági jogkörében eljárva – hatósági vagy szakhatósági feladatokat ellátó honvédségi szervezet,
+
+w) felhasználás: a Honvédség részvétele az erőszakos cselekmények elhárításában szükségállapot és terrorveszélyhelyzet idején.

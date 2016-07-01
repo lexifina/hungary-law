@@ -22,6 +22,6 @@ h) közreműködik a gazdaságfelkészítés és -mozgósítás helyi feladatain
 
 (3) A polgármester az (1) bekezdésben meghatározott feladatok teljesítése érdekében a helyi védelmi bizottság rendelkezései szerint együttműködik más települések polgármestereivel.
 
-(4) A polgármester a védelmi igazgatási feladatait a járási hivatal közreműködésével látja el. A honvédelmi feladatok ellátása érdekében, a szükséges mértékben, munkaidő-korlátozás nélkül a járási hivatal minden kormánytisztviselője és munkavállalója rendkívüli túlmunkára kötelezhető.
+(4) A polgármester a védelmi igazgatási feladatait a járási hivatal közreműködésével látja el. A honvédelmi feladatok ellátása érdekében, a szükséges mértékben, munkaidő-korlátozás nélkül a járási hivatal minden állami tisztviselője, állami ügykezelője és munkavállalója rendkívüli munkavégzésre kötelezhető.
 
 (5) A polgármester e §-ban meghatározott feladatának végrehajtásához szükséges költségek és kiadások fedezetére állami támogatás biztosítható.

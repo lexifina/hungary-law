@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-113-00-00
 | 2015-04-01 | 2015. évi VI. törvény | 2011-113-00-00.14 |
 | 2015-09-22 | 2015. évi CXLII. törvény | 2011-113-00-00.15 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2011-113-00-00.16 |
+| 2016-07-01 | 2016. évi LVII. törvény | 2011-113-00-00.17 |

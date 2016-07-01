@@ -10,7 +10,7 @@ d) a honvédelem szempontjából fokozott védelmet igénylő létesítmények �
 
 e) egyes kijelölt létesítmények őrzése és védelme,
 
-f) részvétel a szükségállapot idején az erőszakos cselekmények elhárításában (a továbbiakban: felhasználás),
+f) felhasználás,
 
 g) talált robbanótestek tűzszerészeti mentesítése, és egyéb tűzszerészeti feladatok térítés ellenében való végrehajtása,
 

@@ -16,4 +16,4 @@ g) biztosítja a védelmi igazgatási szervek működésének feltételeit, és 
 
 h) a honvédelmi felkészítés feladatainak gyakorlása és ellenőrzése céljából a Kormány jóváhagyásával gyakorlatot vezethet a polgármesterek, valamint a honvédelemben közreműködő szervek közreműködésével.
 
-(2) A megyei védelmi bizottság elnöke a védelmi igazgatási feladatait a Kormány általános hatáskörű területi államigazgatási szervének közreműködésével látja el. A honvédelmi feladatok ellátása érdekében, a szükséges mértékben, munkaidő-korlátozás nélkül a Kormány általános hatáskörű területi államigazgatási szervének kormánytisztviselője és munkavállalója rendkívüli munkavégzésre kötelezhető.
+(2) A megyei védelmi bizottság elnöke a védelmi igazgatási feladatait a Kormány általános hatáskörű területi államigazgatási szervének közreműködésével látja el. A honvédelmi feladatok ellátása érdekében, a szükséges mértékben, munkaidő-korlátozás nélkül a Kormány általános hatáskörű területi államigazgatási szervének kormánytisztviselője, kormányzati ügykezelője, állami tisztviselője, állami ügykezelője és munkavállalója rendkívüli munkavégzésre kötelezhető.

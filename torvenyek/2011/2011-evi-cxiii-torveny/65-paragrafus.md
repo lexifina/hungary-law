@@ -6,7 +6,7 @@
 
 a) szünetel a Honvédség hivatásos állományába történő felvétel, továbbá a hivatásos szolgálati viszony lemondással nem szüntethető meg,
 
-b) a szolgálati idő kezdete és vége a megelőző védelmi helyzethez, rendkívüli állapothoz vagy szükségállapothoz igazodóan szabályozható,
+b) a szolgálati idő kezdete és vége a megelőző védelmi helyzethez, terrorveszélyhelyzethez, rendkívüli állapothoz vagy szükségállapothoz igazodóan szabályozható,
 
 c) a rendfokozatba történő előléptetésre eltérő szabályok állapíthatók meg, valamint a szolgálat teljesítéséért és érdemeik elismeréséül érdemrendek, érdemérmek és emlékérmek alapíthatók,
 
