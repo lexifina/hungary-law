@@ -2,7 +2,7 @@
 
 2. § E törvény alkalmazásában
 
-1. alapjogviszony: fennálló kormányzati szolgálati, közszolgálati, közalkalmazotti jogviszony, valamint többségi állami befolyás alatt álló gazdasági társasággal fennálló munkaviszony;
+1. alapjogviszony: fennálló kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszony, valamint többségi állami befolyás alatt álló gazdasági társasággal fennálló munkaviszony;
 
 2. állami projektértékelői jogviszony: közfeladat ellátása céljából létrehozott, munkavégzésre irányuló különös jogviszony, amelyben az érintett alapjogviszonnyal rendelkezik, és amelyre a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) rendelkezéseit nem kell alkalmazni;
 
