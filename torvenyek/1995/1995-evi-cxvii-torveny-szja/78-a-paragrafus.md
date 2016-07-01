@@ -1,16 +1,14 @@
 ## Nyilatkozatok
 
-78/A. § (1) A magánszemély az őstermelői igazolvány kiváltásához és érvényesítéséhez kormányrendeletben meghatározott előírások szerint nyilatkozatot ad az igazolvány kiállítójának a következőkről:
+78/A. § (1) A magánszemély az őstermelői igazolvány kiállításához, érvényesítéséhez, cseréjéhez és módosításához az igazolványt kiállító Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarának (a továbbiakban: Agrárkamara) a vonatkozó kormányrendeletben meghatározott előírások szerint megadja és igazolja a 81/A. § (2) bekezdés a) és b) pontja, valamint az e) pont ea) alpontja szerinti adatokat, és nyilatkozik arról, hogy
 
-a) a termelésre és a saját termelésű termékek értékesítésére vonatkozó adatairól;
+a) közös igazolvány esetén mi a családtagi minősége;
 
-b) arról, hogy rendelkezik olyan saját gazdasággal, amely alkalmas a nyilatkozat szerinti termelés és értékesítés elérésére, ideértve azt is, hogy erdei melléktermékek gyűjtése esetén van a terület feletti rendelkezési jogot gyakorlótól erre vonatkozó hozzájárulása;
+b) saját gazdasággal rendelkezik, a 81/A. § (2) bekezdés f) pont fa)–ff) alpontja szerinti adatok megadásával;
 
-c) arról, hogy rendelkezési jogosultsága van a termelési eszközök (ideértve a bérelt eszközöket is), a termelés szervezése és a termelés eredményének felhasználása felett;
+c) az erdei melléktermékek gyűjtése esetén rendelkezik a terület feletti rendelkezési jogot gyakorlótól a gyűjtésre vonatkozóan beszerzett hozzájárulással;
 
-d) arról is, hogy folyamatosan részt vesz a gazdaság, a termelési eszközök működtetésében, ha és amennyiben más őstermelővel (őstermelőkkel) együtt olyan őstermelői tevékenységet folytat – ideértve a (2) bekezdésben említett közös tevékenységet is –, amellyel kapcsolatban mindannyian ugyanazon gazdaságra, termelési eszközökre vonatkozóan nyilatkoztak a b) és c) pont szerint;
-
-e) a nyilatkozatnak tartalmaznia kell a saját termeléshez rendelkezésre álló (saját vagy bérelt) használt földterület helyét, nagyságát művelési áganként, vetésszerkezetét, valamint az állattartását és az állattartásra alkalmas épületek adatait.
+d) folyamatosan részt vesz a gazdaság, a termelési eszközök működtetésében, amennyiben más őstermelővel együtt olyan őstermelői tevékenységet folytat, beleértve a (2) bekezdés szerinti közös őstermelői tevékenységet is, amellyel kapcsolatban mindannyian ugyanazon gazdaságra, termelési eszközökre vonatkozóan nyilatkoztak az b) és c) pont tekintetében.
 
 (2) A magánszemély az (1) bekezdésben említett nyilatkozat kiegészítéseként, a vele közös háztartásban élő családtagjával (családtagjaival) együttes nyilatkozatot tehet arról, hogy a 6. számú melléklet 2. pontjában meghatározott módon és feltételekkel közös őstermelői igazolvány (a továbbiakban: közös igazolvány) kiváltásával kívánja folytatni az őstermelői tevékenységét (a továbbiakban: közös őstermelői tevékenység). Ebben az esetben minden egyes családtagnak az őstermelői jövedelmére ugyanazon adózási módot kell választania, továbbá a közös őstermelői tevékenység időszakában egymással munkaviszonyban, munkavégzésre irányuló egyéb jogviszonyban nem állhatnak, a segítő családtagra vonatkozó rendelkezéseket egymásra vonatkozóan nem alkalmazhatják. Az együttes nyilatkozat feltétele, hogy az azt tevők az általános forgalmi adózás tekintetében is ugyanazon adózási módot alkalmazzák.
 

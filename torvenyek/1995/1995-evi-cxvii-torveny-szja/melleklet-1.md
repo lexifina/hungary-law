@@ -582,7 +582,7 @@ b) összege, ha az átruházás a szövetkezetekről szóló 1992. évi I. törv
 
 c) összege, ha a magánszemély a termőföldet regisztrációs számmal rendelkező állattenyésztést folytató olyan magánszemélynek adja el, aki a termőföldet egyéni vállalkozóként, mezőgazdasági őstermelőként legalább 5 évig az állattartó telep takarmánytermelése céljából használja, vagy azt az őt alkalmazó mezőgazdasági társas vállalkozásnak az állattenyésztés takarmánybiztosítása érdekében legalább 10 évre bérbe adja,
 
-azzal, hogy az a)-c) pont alkalmazásában az 5 vagy 10 éves időszak kezdőnapja a birtokbaadás napja, de legkésőbb az adásvételi szerződés keltét követő 12. hónap utolsó napja;
+azzal, hogy az a)-c) pont alkalmazásában az 5 vagy 10 éves időszak kezdőnapja a birtokbaadás napja, de legkésőbb az adásvételi szerződés keltét követő 12. hónap utolsó napja, vagy ha a termőföld harmadik féllel kötött szerződés alapján haszonbérletben van, a haszonbérleti szerződés lejártát követő december 31.;
 
 d) az a)-c) pontban nem említett esetben, ha az átruházás
 

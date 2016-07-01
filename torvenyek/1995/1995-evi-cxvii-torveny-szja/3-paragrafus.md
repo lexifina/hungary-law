@@ -42,7 +42,7 @@ db) a da) alpontban nem tartozó esetben a belföldön végzett tevékenységér
 
 dc) a db) alponttól eltérően, az olyan jövedelem tekintetében, amely nemzetközi forgalomban üzemeltetett járművön belföldön kívül (is) teljesített szolgálat ellenértéke, az az állam, amely az ilyen jövedelmet nemzetközi szerződés vagy viszonosság alapján adóztathatja, más esetben a magánszemély illetősége szerinti állam;
 
-e) közszolgálati, közalkalmazotti, bírósági, igazságügyi alkalmazotti vagy ügyészségi szolgálati jogviszony, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának hivatásos szolgálati jogviszonya, továbbá az említett jogviszonyok bármelyikének megfelelő, külföldi jog szerinti jogviszony alapján megszerzett jövedelem esetében – a d) alpontban foglaltaktól függetlenül – a munkáltató (a munkaadó) illetősége szerinti állam;
+e) kormányzati szolgálati, közszolgálati, állami szolgálati, közalkalmazotti, bírói, igazságügyi alkalmazotti vagy ügyészségi szolgálati jogviszony, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának hivatásos szolgálati jogviszonya, továbbá az említett jogviszonyok bármelyikének megfelelő, külföldi jog szerinti jogviszony alapján megszerzett jövedelem esetében – a d) alpontban foglaltaktól függetlenül – a munkáltató (a munkaadó) illetősége szerinti állam;
 
 f) jogi személy, egyéb szervezet vezető tisztségviselőjeként, felügyelő bizottsága tagjaként megszerzett jövedelem esetében – az a) és d) alpontban foglaltaktól függetlenül – a jogi személy, az egyéb szervezet székhelye szerinti állam; vezető tisztségviselő a jogi személy, az egyéb szervezet törvényes képviseletére jogosult magánszemély (például az üzletvezetésre jogosult tag, az ügyvezető, a cégvezető);
 
@@ -134,23 +134,13 @@ g)
 
 h)
 
-18. Mezőgazdasági őstermelő: az a 16. életévét betöltött, nem egyéni vállalkozó magánszemély, aki a saját gazdaságában a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenységet folytat, és ennek igazolására őstermelői igazolvánnyal rendelkezik, ideértve az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemélyt és e magánszemélynek a családi gazdaságban nem foglalkoztatottként közreműködő családtagját is, mindegyikre vonatkozóan a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenysége(i)nek bevétele (jövedelme) tekintetében.
+18. Mezőgazdasági őstermelő: az a 16. életévét betöltött, belföldön lévő saját gazdaságában a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenységet (a továbbiakban: őstermelői tevékenység) folytató, ezen tevékenysége tekintetében nem egyéni vállalkozó magánszemély, aki ennek igazolására őstermelői igazolvánnyal rendelkezik, ideértve az erre a célra létesített nyilvántartásban családi gazdálkodóként bejegyzett magánszemélyt és e magánszemélynek a családi gazdaságban nem foglalkoztatottként közreműködő családtagját is, mindegyikre vonatkozóan a 6. számú mellékletben felsorolt termékek előállítására irányuló tevékenysége(i)nek bevétele (jövedelme) tekintetében. E rendelkezés alkalmazásában
 
-a) Saját gazdaság alatt a termelést ténylegesen végző magánszemély rendelkezési jogosultságát kell érteni az eszközei (ideértve a bérelt eszközöket is), a termelés szervezése és – a vetőmag-bértermelés, a bérnevelés, a bérhizlalás és a kihelyezett állat tartása esetének kivételével – a termelés eredményének felhasználása felett.
+a) saját gazdaság alatt a termelést ténylegesen végző magánszemély rendelkezési jogosultságát kell érteni a termelési eszközei (ideértve a bérelt földterületet, eszközöket is), a termelés szervezése és – a vetőmag-bértermelés, a bérnevelés, a bérhizlalás és a kihelyezett állat tartása esetének kivételével – a termelés eredményének felhasználása felett;
 
-b) Őstermelői igazolvány az őstermelői tevékenységből származó bevételek nyilvántartására alkalmas, hitelesített, kormányrendelet által előírt eljárási rendben kiadott, illetve érvényesített igazolvány, amely tartalmazza
+b) őstermelői igazolvány az őstermelői tevékenységből származó bevételek nyilvántartására alkalmas, hitelesített, kormányrendelet által előírt adattartalommal, az ott meghatározott eljárási rendben kiadott, illetve érvényesített igazolvány;
 
-ba) a mezőgazdasági őstermelő azonosító adatait;
-
-bb)
-
-bc)
-
-bd) az adókötelezettség teljesítéséhez szükséges egyéb a kormányrendeletben meghatározott adatokat.
-
-A mezőgazdasági őstermelői tevékenység kezdetének az őstermelői igazolványban feltüntetett időpontot kell tekinteni.
-
-c) vetőmagbértermelés, bérnevelés, bérhizlalás, kihelyezett állattartás esetén őstermelői tevékenységből származó bevétel a termék vagy állat teljes átvételi (bruttó) ára azzal, hogy a jövedelem megállapításakor a termék vagy állat kihelyezési értéke költségként érvényesíthető.
+c) vetőmag-bértermelés, bérnevelés, bérhizlalás, kihelyezett állattartás esetén őstermelői tevékenységből származó bevétel a termék vagy állat teljes átvételi (bruttó) ára azzal, hogy a jövedelem megállapításakor a termék vagy állat kihelyezési értéke költségként érvényesíthető.
 
 19. Mezőgazdasági kistermelő: az a mezőgazdasági őstermelő, akinek az e tevékenységéből az adóévben megszerzett bevétele a 8 millió forintot nem haladja meg.
 
@@ -276,7 +266,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 52.
 
-53. Termőföld haszonbérbeadása: a termőföld, illetve halastó magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, bérleti díj ellenében mező-, erdőgazdasági, illetve halászati hasznosításra történő földterület-bérbeadás.
+53. Termőföld haszonbérbe adása: a termőföld, illetve halastó magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, bérleti díj ellenében mező-, erdőgazdasági, illetve halászati hasznosításra történő földterület-bérbeadás, továbbá erdő művelési ágban nyilvántartott föld hasznosításának a tulajdonos által az erdőbirtokossági társulatban fennálló tagsági viszonya alapján az erdőbirtokossági társulat részére történő átadása.
 
 54. Beruházási költség: az e törvény szerint költségként elismert, igazolt, a tárgyi eszköz, a nem anyagi javak üzembe helyezése érdekében az üzembe helyezés napjáig felmerült, az előírt nyilvántartásban feltüntetett kiadás.
 
