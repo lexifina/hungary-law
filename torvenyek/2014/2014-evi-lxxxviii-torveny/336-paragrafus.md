@@ -8,7 +8,7 @@ a) az összevont (konszolidált) alapon számított szavatolótőke,
 
 b) az összevont (konszolidált) alapon számított szavatolótőke-szükséglet.
 
-(3) A (2) bekezdés b) pontja szerinti érték minimuma az anyavállalati vagy részesedési viszonnyal rendelkező biztosító vagy viszontbiztosító minimális szavatolótőke-szükséglete és a leányvállalati vagy olyan biztosító vagy viszontbiztosító, amelyben egy vállalkozás részesedési viszonnyal rendelkezik, minimális szavatolótőke-szükséglete.
+(3) A (2) bekezdés b) pontja szerinti érték minimuma az anyavállalati vagy részesedési viszonnyal rendelkező biztosító vagy viszontbiztosító minimális tőkeszükséglete és a leányvállalati vagy olyan biztosító vagy viszontbiztosító, amelyben egy vállalkozás részesedési viszonnyal rendelkezik, minimális tőkeszükséglete.
 
 (4) A szavatolótőke és a szavatolótőke-szükséglet meghatározása során a részesedési viszonyban lévő vállalkozás, az anyavállalat és a leányvállalat esetén az összevont (konszolidált) beszámolók összeállítása során használt százalékos arányok kerülnek alkalmazásra.
 

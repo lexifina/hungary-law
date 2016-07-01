@@ -12,7 +12,7 @@
 
 a) a biztosító vagy viszontbiztosító részvénytársaság, biztosító vagy viszontbiztosító szövetkezet és a kölcsönös biztosító egyesület esetén az igazgatóság tagjai és a felügyelőbizottság tagjai,
 
-b) fióktelep formájában működő biztosító vagy viszontbiztosító esetén a cégjegyzékbe bejegyzett képviselő.
+b) harmadik országbeli biztosító vagy viszontbiztosító magyarországi fióktelepe formájában működő biztosító vagy viszontbiztosító esetén a cégjegyzékbe bejegyzett képviselő.
 
 (2) A százfős taglétszámot egy naptári éven keresztül átlagosan meg nem haladó kölcsönös biztosító egyesület esetén vezető állású személy az alapszabályban meghatározott elnevezéstől függetlenül
 

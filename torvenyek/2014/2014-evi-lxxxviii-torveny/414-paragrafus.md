@@ -8,9 +8,11 @@ b) annak igazolását, hogy a végzett tevékenységhez igazodó egyedi azonosí
 
 c) a Felügyelet felé fennálló adatszolgáltatási kötelezettség teljesítéséhez szükséges tárgyi feltételek meglétét igazoló dokumentumokat,
 
-d) a biztosításközvetítői tevékenység irányításáért felelős természetes személy foglalkoztatásának igazolását.
+d) a biztosításközvetítői tevékenység irányításáért felelős természetes személy foglalkoztatásának igazolását,
 
-(2) Az alkuszi engedély iránti kérelemhez – az (1) bekezdésben foglaltakon túl – mellékelni kell a tevékenységével kapcsolatban okozott károk fedezetére szolgáló felelősségbiztosítási szerződés megkötésének vagy a vagyoni biztosíték meglétének igazolását.
+e) a tevékenységével kapcsolatban okozott károk fedezetére szolgáló felelősségbiztosítási szerződés megkötésének vagy a vagyoni biztosíték meglétének igazolását.
+
+(2)
 
 (3) Ha a Felügyelet a többes ügynöki és az alkuszi tevékenység irányításáért felelős természetes személy foglalkoztatásának engedélyezéséről a többes ügynöki és az alkuszi tevékenységi engedélyezés tárgyában induló eljárásban dönt, az (1) bekezdésben meghatározott kérelemhez mellékelni kell a 416. § (1) bekezdésében meghatározott dokumentumokat.
 

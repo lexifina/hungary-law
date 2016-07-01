@@ -16,6 +16,8 @@ g) részesedés- vagy ellenőrző befolyásszerzésével kapcsolatosan feltétel
 
 h) kézbesítési megbízottal nem rendelkezik (külföldi kérelmező esetén).
 
+(1a) Az (1) bekezdés szerinti elutasításról szóló határozatát a Felügyelet az ügyintézési határidő lejárta előtt köteles meghozni azzal, hogy a határozatot a meghozatalát követő legkésőbb két munkanapon belül, de még az ügyintézési határidő lejárta előtt írásban közölni is köteles a kérelmezővel.
+
 (2) Az engedély iránti kérelem benyújtásának elmulasztása, a kérelem elutasítása, a bejelentési kötelezettség elmulasztása, illetve az adatszolgáltatás megtagadása esetén a részesedésszerzésre, ellenőrző befolyásszerzésre vagy az előny biztosítására irányuló szerződésből, vagy az előnyt biztosító egyéb bekövetkezett jogi tényből származó szavazati jogok gyakorlását a Felügyelet a megfelelő törvényes feltételek biztosításáig megtilthatja.
 
 (3) Ha a Felügyelet az érdemi döntését határidőben nem hozza meg, a kérelmező engedély hiányában is részesedést vagy ellenőrző befolyást szerez, kivéve, ha a Felügyelet a (2) bekezdésben foglalt jogával él.

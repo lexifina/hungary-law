@@ -6,6 +6,6 @@ b) 1 876 000 euró vagyoni biztosítékkal
 
 rendelkezni.
 
-(2) Az alkusz szakmai felelősségbiztosításának és vagyoni biztosítékának az alkuszi tevékenységgel összefüggésben okozott, de a felelősségbiztosítási szerződés vagy a vagyoni biztosítékra vonatkozó szerződés megszűnését követően bekövetkezett vagy a károsult által ezt követően bejelentett károkra és sérelemdíj iránti igényekre is ki kell terjednie.
+(2) Az alkusz szakmai felelősségbiztosításának és vagyoni biztosítékának az alkuszi tevékenységgel összefüggésben okozott, de a felelősségbiztosítási szerződés vagy a vagyoni biztosítékra vonatkozó szerződés megszűnését követő öt éven belül bekövetkezett és bejelentett károkra és sérelemdíj iránti igényekre is ki kell terjednie.
 
 (3) A felelősségbiztosítási szerződés minimális tartalmi követelményeit a Kormány rendeletben állapítja meg.

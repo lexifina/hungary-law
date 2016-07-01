@@ -12,7 +12,7 @@
 
 (2) A Felügyelet az (1) bekezdésben meghatározott esetben az állományátruházás sikeres lebonyolítása céljából felügyeleti biztost rendel ki, vagy a már kijelölésre került felügyeleti biztos megbízólevelét haladéktalanul módosítja.
 
-(3) A felügyeleti biztos – a biztosító képviseletében – az állományátruházás lebonyolítása érdekében a kijelölését, vagy a megbízólevél módosítását követő harminc napon belül, állományátruházásra irányuló megállapodás megkötése céljából, ajánlattételre hívja fel az átruházandó szerződéses állomány vagy állományok művelésére jogosító tevékenységi engedéllyel rendelkező, Magyarország területén székhellyel rendelkező biztosítókat és a tagállami biztosítók magyarországi fióktelepeit.
+(3) A felügyeleti biztos – a biztosító képviseletében – az állományátruházás lebonyolítása érdekében a kijelölését, vagy a megbízólevél módosítását követő harminc napon belül, állományátruházásra irányuló megállapodás megkötése céljából, ajánlattételre hívja fel az átruházandó szerződéses állomány vagy állományok művelésére jogosító tevékenységi engedéllyel rendelkező, Magyarország területén székhellyel rendelkező biztosítókat, tagállami és harmadik országbeli biztosítók magyarországi fióktelepeit.
 
 (4) A (3) bekezdésben meghatározott felhívásnak tartalmaznia kell:
 
@@ -24,8 +24,12 @@ b) az átruházandó állományhoz kapcsolódó biztosítástechnikai tartaléko
 
 (6) A felügyeleti biztos a felhívásban megjelölt határidőt követő tizenöt napon belül dönt, hogy melyik biztosítóval állapodik meg az állományátruházásról. Több ajánlat esetén versenytárgyalás is tartható. A felügyeleti biztos a (9) bekezdésben foglaltakkal összhangban azon ajánlatot fogadhatja el, amely – a biztosítottak érdekeinek védelmére és az átadó biztosító pénzügyi helyzetére is tekintettel – az ajánlatban fogalt összes feltételek figyelembevételével a legkedvezőbb. Ugyanazon kötelezettségekből álló állomány esetében az alacsonyabb értéken megvalósítható átruházás tekintendő kedvezőbbnek.
 
+(6a) Ha a (3)–(6) bekezdésben meghatározott intézkedések nem vezettek eredményre, akkor a Felügyelet az intézkedés megtételének sikertelenségéről a honlapján tájékoztatót tesz közzé, amelyben tájékoztatja az állománnyal kapcsolatban érintett szerződéssel rendelkező szerződőket a 188. § (2) és (3) bekezdésében meghatározott rendelkezések gyakorlati következményeiről.
+
 (7) A (6) bekezdésben meghatározott döntés meghozatalát követően a felügyeleti biztos és az átvevő biztosító haladéktalanul köteles a 256. § (1) bekezdésében meghatározott kérelmet a Felügyelethez benyújtani. A kérelemről a Felügyelet soron kívül, de legkésőbb a kérelem beérkezését követően tizenöt munkanapon belül határoz, kivéve, ha az átvevő biztosító székhelye Magyarország területén kívül van.
 
 (8) Ha az átvevő biztosító székhelye Magyarország területén kívül van, akkor a Felügyelet ügyintézési határidejére az eljárására vonatkozó általános szabályok az irányadók.
 
 (9) Ha a biztosító állománya csak egy részének átruházására kerül sor, akkor a biztosító azon hitelezője, amelynek biztosítási szerződésből eredő követelése van a biztosítóval szemben, nem kerülhet hátrányosabb helyzetbe ahhoz képest, mintha a biztosító az állományátruházás nélkül felszámolásra kerülne. Ennek való megfelelés érdekében úgy kell eljárni, hogy az átruházásra kerülő állományra jutó, (4) bekezdés b) pontja szerinti tartalékok és eszközök mértéke ne haladja meg a biztosító teljes állományára jutó tartalékok és eszközök mértékét.
+
+(10) Az e § szerinti intézkedés eredményeként bekövetkezett vagyonátadás adó- és illetékmentes.

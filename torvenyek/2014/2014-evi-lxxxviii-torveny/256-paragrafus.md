@@ -14,7 +14,7 @@ e) a magyarországi székhelyű átvevő biztosító esetén, annak bemutatásá
 
 ea) az átvett állomány szavatolótőke-szükséglet fedezetéhez szükséges figyelembe vehető szavatoló tőkével, vagy
 
-eb) a hatodik rész hatálya alá tartozó biztosító esetén az átvett állományhoz szükséges minimális szavatoló tőkével.
+eb) a hatodik rész hatálya alá tartozó biztosító esetén az átvett állományhoz szükséges minimális tőke szükségletnek megfelelő szavatoló tőkével.
 
 (2) Másik tagállamban létesített biztosító vagy viszontbiztosító részére történő állományátruházás esetén az (1) bekezdés e) pontja szerinti igazolást nem kell csatolni.
 

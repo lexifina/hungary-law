@@ -4,7 +4,9 @@ a) ügyfélfogadásra alkalmas helyiség tulajdonjogával, használati vagy bér
 
 b) a végzett tevékenységhez igazodó egyedi azonosítására alkalmas folyamatos nyilvántartással,
 
-c) a Felügyelet felé fennálló adatszolgáltatási kötelezettség teljesítéséhez szükséges tárgyi feltételekkel.
+c) a Felügyelet felé fennálló adatszolgáltatási kötelezettség teljesítéséhez szükséges tárgyi feltételekkel,
+
+d) a tevékenység végzéséhez szükséges személyi feltétellel.
 
 (2) Az alkusz köteles biztosításközvetítői tevékenysége irányításáért felelős természetes személyt munkaviszony keretében foglalkoztatni.
 
@@ -14,7 +16,7 @@ a) büntetlen előéletű,
 
 b) az alábbi szakmai követelmények valamelyikének megfelel:
 
-ba) felsőfokú végzettséggel rendelkezik és biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, az államigazgatás pénzügyi vagy gazdasági területén vagy a megfelelő szakmai érdek-képviseleti szervnél legalább három évig biztosításszakmai vezető beosztást töltött be vagy biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, az államigazgatásban pénzügyi, illetve gazdasági területen vagy a megfelelő szakmai érdek-képviseleti szervnél összesen ötéves, biztosításszakmai beosztásban eltöltött munkaviszonnyal, közszolgálati, kormányzati szolgálati jogviszonnyal vagy munkavégzésre irányuló egyéb jogviszonnyal rendelkezik; vagy
+ba) felsőfokú végzettséggel rendelkezik és biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, az államigazgatás pénzügyi vagy gazdasági területén vagy a megfelelő szakmai érdek-képviseleti szervnél legalább három évig biztosításszakmai vezető beosztást töltött be vagy biztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, az államigazgatásban pénzügyi, illetve gazdasági területen vagy a megfelelő szakmai érdek-képviseleti szervnél összesen ötéves, biztosításszakmai beosztásban eltöltött munkaviszonnyal, közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonnyal vagy munkavégzésre irányuló egyéb jogviszonnyal rendelkezik; vagy
 
 bb) középfokú végzettséggel rendelkezik és biztosítónál vagy biztosításközvetítést folytató gazdálkodó szervezetnél legalább hét éven át biztosításszakmai vezetői beosztást töltött be,
 

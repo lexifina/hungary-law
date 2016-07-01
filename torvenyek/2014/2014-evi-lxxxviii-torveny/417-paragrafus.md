@@ -1,6 +1,6 @@
 ## 180. A harmadik országban székhellyel rendelkező biztosításközvetítő által létesíteni kívánt fióktelep tevékenységének engedélyezése
 
-417. § (1) Harmadik országbeli biztosításközvetítő fióktelepe esetén a többes ügynöki vagy alkuszi tevékenység megkezdésére vonatkozó engedély iránti kérelemnek a 414. § (1)–(2) bekezdésében meghatározott követelményeken túl tartalmaznia kell:
+417. § (1) Harmadik országbeli biztosításközvetítő fióktelepe esetén a többes ügynöki vagy alkuszi tevékenység megkezdésére vonatkozó engedély iránti kérelemnek a 414. § (1) bekezdésében meghatározott követelményeken túl tartalmaznia kell:
 
 a) a harmadik országban székhellyel rendelkező vállalkozás alapító okiratát, tevékenységi engedélyének másolatát, az előző három év auditált mérlegét,
 

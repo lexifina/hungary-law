@@ -16,7 +16,7 @@ b) egy felelősségbiztosítási szerződésből vagy egy biztosítási szerződ
 
 (7) Ha a biztosító közbenső mérleg szerinti vagyoni helyzete – a 183. § (2) bekezdés a) pontjában meghatározott kötelezettségek és a 183. § (2) bekezdés b) pontjában meghatározott kötelezettségek (4) bekezdés szerinti kielégítése után – nem nyújt fedezetet 183. § (2) bekezdés c) pontjában meghatározott kötelezettségek (6) bekezdés szerinti kielégítésére, a biztosító a rendelkezésre álló vagyont a 183. § (2) bekezdés c) pontjában meghatározott követelések azonos arányában osztja fel e hitelezők között.
 
-(8) Ha a biztosító közbenső mérleg szerinti vagyoni helyzete – a 183. § (2) bekezdés a) pontjában meghatározott kötelezettségek kielégítése és a 183. § (2) bekezdés b) pontjában meghatározott kötelezettségek (4) bekezdés szerinti kielégítése, továbbá a 180. § (2) bekezdés c) pontjában meghatározott kötelezettségek (6) bekezdés szerinti kielégítése után – fedezetet nyújt
+(8) Ha a biztosító közbenső mérleg szerinti vagyoni helyzete – a 183. § (2) bekezdés a) pontjában meghatározott kötelezettségek kielégítése és a 183. § (2) bekezdés b) pontjában meghatározott kötelezettségek (4) bekezdés szerinti kielégítése, továbbá a 183. § (2) bekezdés c) pontjában meghatározott kötelezettségek (6) bekezdés szerinti kielégítése után – fedezetet nyújt
 
 a) a (4) és (6) bekezdésben meghatározott követelések (4) bekezdés a) és b) pontjában, valamint a (6) bekezdésben meghatározott értékhatár feletti részére, és
 

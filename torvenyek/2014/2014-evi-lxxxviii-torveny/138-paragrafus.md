@@ -20,9 +20,9 @@ i) az egészségügyről szóló 1997. évi CLIV. törvény 108. § (2) bekezdé
 
 j) törvényben meghatározott feltételek megléte esetén a titkosszolgálati eszközök alkalmazására, titkos információgyűjtésre felhatalmazott szervvel,
 
-k) a viszontbiztosítóval, valamint együttbiztosítás esetén a kockázatvállaló biztosítókkal,
+k) a viszontbiztosítóval, a csoport másik vállalkozásával, valamint együttbiztosítás esetén a kockázatvállaló biztosítókkal,
 
-l) az e törvényben szabályozott adattovábbítások során átadott adatok tekintetében a kötvénynyilvántartást vezető kötvénynyilvántartó szervvel,
+l) törvényben szabályozott adattovábbítások során átadott adatok tekintetében a kötvénynyilvántartást vezető kötvénynyilvántartó szervvel, a kártörténeti nyilvántartást vezető kárnyilvántartó szervvel, továbbá a járműnyilvántartásban nem szereplő gépjárművekkel kapcsolatos közúti közlekedési igazgatási feladatokkal összefüggő hatósági ügyekben a közlekedési igazgatási hatósággal, valamint a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalával,
 
 m) az állományátruházás keretében átadásra kerülő biztosítási szerződési állomány tekintetében – az erre irányuló megállapodás rendelkezései szerint – az átvevő biztosítóval,
 
@@ -36,19 +36,21 @@ q) a feladatkörében eljáró alapvető jogok biztosával,
 
 r) a feladatkörében eljáró Nemzeti Adatvédelmi és Információszabadság Hatósággal,
 
-s) a bonus-malus rendszer, az abba való besorolás, illetve a káresetek igazolásának részletes szabályairól szóló miniszteri rendeletben meghatározott kártörténeti adatra és bonus-malus besorolásra nézve a rendeletben szabályozott esetekben a biztosítóval
+s) a bonus-malus rendszer, az abba való besorolás, illetve a káresetek igazolásának részletes szabályairól szóló miniszteri rendeletben meghatározott kártörténeti adatra és bonus-malus besorolásra nézve a rendeletben szabályozott esetekben a biztosítóval,
 
-szemben, ha az a)–j), n) és s) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a p)–s) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
+t) a mezőgazdasági biztosítási szerződés díjához nyújtott támogatást igénybe vevő biztosítottak esetében az agrárkár-megállapító szervvel, a mezőgazdasági igazgatási szervvel, az agrárkár-enyhítési szervvel, valamint az agrárpolitikáért felelős miniszter által vezetett minisztérium irányítása alatt álló, gazdasági elemzésekkel foglalkozó intézménnyel
+
+szemben, ha az a)–j), n), s) és t) pontban megjelölt szerv vagy személy írásbeli megkereséssel fordul hozzá, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját, azzal, hogy a p)–s) pontban megjelölt szerv vagy személy kizárólag a kért adatok fajtáját, az adatkérés célját és jogalapját köteles megjelölni. A cél és a jogalap igazolásának minősül az adat megismerésére jogosító jogszabályi rendelkezés megjelölése is.
 
 (2) Az (1) bekezdés e) pontja alapján a biztosítási titok megtartásának kötelezettsége abban az esetben nem áll fenn, ha adóügyben, az adóhatóság felhívására a biztosítót törvényben meghatározott körben nyilatkozattételi kötelezettség, vagy ha biztosítási szerződésből eredő adókötelezettség alá eső kifizetésről törvényben meghatározott adatszolgáltatási kötelezettség terheli.
 
-(2a) A biztosítási titok megtartásának kötelezettsége nem áll fenn a Hpt.-ben meghatározott pénzügyi intézménnyel szemben a pénzügyi szolgáltatásból eredő követeléshez kapcsolódó biztosítási szerződés vonatkozásában, ha a pénzügyi intézmény írásbeli megkereséssel fordul a biztosítóhoz, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját, az adatkérés célját és jogalapját.
+(2a) A biztosítási titok megtartásának kötelezettsége nem áll fenn a Hpt.-ben meghatározott pénzügyi intézménnyel szemben a pénzügyi szolgáltatásból eredő követeléshez kapcsolódó biztosítási szerződés vonatkozásában, ha a pénzügyi intézmény írásbeli megkereséssel fordul a biztosítóhoz, amely tartalmazza az ügyfél nevét vagy a biztosítási szerződés megjelölését, a kért adatok fajtáját és az adatkérés célját.
 
 (3) Nem jelenti a biztosítási titok sérelmét, ha a biztosító által az adóhatóság felé történő adatszolgáltatás a Magyarország Kormánya és az Amerikai Egyesült Államok Kormánya között a nemzetközi adóügyi megfelelés előmozdításáról és a FATCA szabályozás végrehajtásáról szóló Megállapodás kihirdetéséről, valamint az ezzel összefüggő egyes törvények módosításáról szóló 2014. évi XIX. törvény (a továbbiakban: FATCA-törvény) alapján az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény (a továbbiakban: Aktv.) 43/B–43/C. §-ában foglalt kötelezettség teljesítésében merül ki.
 
 (3a) Nem jelenti a biztosítási titok sérelmét, ha a biztosító által az adóhatóság felé történő adatszolgáltatás az Aktv. 43/H. §-ában foglalt kötelezettség, valamint a FATCA-törvény alapján az Aktv. 43/B. és 43/C. §-ában foglalt kötelezettség teljesítésében merül ki.
 
-(4) A biztosító vagy a viszontbiztosító az (1) és (6) bekezdésekben, a 137. §-ban, a 138. §-ban és a 140. §-ban meghatározott esetekben és szervezetek felé az ügyfelek személyes adatait továbbíthatja.
+(4) A biztosító vagy a viszontbiztosító az (1) és (6) bekezdésekben, a 137. §-ban, a 140. §-ban és a 141. §-ban meghatározott esetekben és szervezetek felé az ügyfelek személyes adatait továbbíthatja.
 
 (5) A biztosítási titoktartási kötelezettség az eljárás keretén kívül az (1) bekezdésben meghatározott szervek alkalmazottaira is kiterjed.
 

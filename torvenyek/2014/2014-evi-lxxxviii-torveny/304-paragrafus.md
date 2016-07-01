@@ -24,7 +24,7 @@ j) nem teljesíti a minimális tőkeszükségletre vonatkozó szabályokat és a
 
 (2) A harmadik országbeli biztosító fióktelepe esetén – az (1) bekezdésben foglaltakon túlmenően – a tevékenységi engedély akkor is visszavonásra kerül, ha a harmadik országbeli biztosító tevékenységi engedélyét a székhely szerinti felügyeleti hatóság visszavonta.
 
-(3) Az engedély visszavonása után új biztosítási szerződés nem köthető, a már létező biztosítási szerződésekben a biztosító által vállalt kötelezettségek nem növelhetők, és a biztosítási szerződések nem hosszabbíthatók meg.
+(3) Az engedély visszavonása után új biztosítási szerződés nem köthető, a már létező biztosítási szerződések feltételeiben a biztosító által vállalt kötelezettségek nem növelhetők, és a biztosítási szerződések nem hosszabbíthatók meg. A biztosítási szerződésből eredő kötelezettségeket a tevékenységi engedély visszavonása után is teljesíteni kell.
 
 (4) Az engedély visszavonásával egyidejűleg a Felügyelet köteles minden olyan intézkedés megtételére, amely a biztosítottak érdekének védelmét szolgálja. Ennek keretében korlátozhatja vagy megtilthatja a biztosító eszközei feletti szabad rendelkezést.
 

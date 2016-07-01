@@ -4,7 +4,7 @@
 
 a) a büntetlen előéletet igazoló dokumentumot,
 
-b) a 389. § (3) bekezdésében, illetve a 400. § (3) bekezdésében meghatározott követelmények igazolását,
+b) a 389. § (3) bekezdés b) és e) pontjában, illetve a 400. § (3) bekezdés b) és e) pontjában meghatározott követelmények igazolását,
 
 c) a kérelmező arra vonatkozó nyilatkozatát, hogy kizárólag az adott biztosításközvetítőnél folytatja tevékenységét, és biztosítóval nem áll munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban.
 

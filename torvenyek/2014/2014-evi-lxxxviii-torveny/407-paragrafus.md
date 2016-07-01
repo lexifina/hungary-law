@@ -54,6 +54,6 @@ f) az ügynök esetén a közvetített termékek 1. és 2. számú melléklet sz
 
 g) státusza (aktív, inaktív).
 
-(5) A Felügyelet a (3) és (4) bekezdésben meghatározott adatokat biztosításközvetítői tevékenység megszűnését követő öt évig kezelheti.
+(5) A Felügyelet a (3) és (4) bekezdésben meghatározott adatokat biztosításközvetítői tevékenység megszűnését követő tíz évig kezelheti.
 
 (6) Az (1) bekezdésben meghatározott nyilvántartással érintett személyes adatok tekintetében az adatkezelő a Felügyelet.

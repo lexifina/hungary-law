@@ -8,7 +8,7 @@
 
 a) fizetési kötelezettségét pénzügyi fedezet hiányában nem képes teljesíteni,
 
-b) biztosítástechnikai tartalékai – ideértve a számviteli biztosítástechnikai tartalékokat is – nem érik el a szükséges mértéket, vagy e tartalékok fedezete nem kielégítő, továbbá az illeszkedési kiigazítást alkalmazó biztosító vagy viszontbiztosító már nem tudja teljesíteni az illeszkedési kiigazításra vonatkozó feltételeket,
+b) biztosítástechnikai tartalékai – ideértve a számviteli biztosítástechnikai tartalékokat is – annak megállapításakor nem érik el a szükséges mértéket, vagy a számviteli biztosítástechnikai tartalékok fedezete nem kielégítő, továbbá az illeszkedési kiigazítást alkalmazó biztosító vagy viszontbiztosító már nem tudja teljesíteni az illeszkedési kiigazításra vonatkozó feltételeket,
 
 c) nem teljesíti – a e törvényben meghatározottak szerint – a szavatolótőke-szükségletet, vagy ha ennek kockázata a következő három hónapban fennáll,
 

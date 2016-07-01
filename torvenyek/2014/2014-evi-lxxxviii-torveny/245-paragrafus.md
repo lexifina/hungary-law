@@ -18,6 +18,6 @@ g) üzleti terve, az engedély iránti kérelemhez mellékelt egyéb irat, tová
 
 a) az (1) bekezdés e)–g) pontban meghatározottaknak nem felel meg,
 
-b) nem rendelkezik a 218. §-ban foglalt minimális biztonsági tőkével, illetve az üzleti tervében foglaltak szerinti tevékenység folytatásához a minimális szavatoló tőkével,
+b) nem rendelkezik a 218. §-ban foglalt minimális biztonsági tőkével, illetve az üzleti tervében foglaltak szerinti tevékenység folytatásához a minimális tőke szükségletnek megfelelő szavatoló tőkével,
 
 (3) A XVIII. Fejezetben meghatározott kisbiztosító-egyesület esetében a (2) bekezdésben meghatározott szabályok a 231–236. §-ban meghatározott eltérések figyelembevételével alkalmazandók.

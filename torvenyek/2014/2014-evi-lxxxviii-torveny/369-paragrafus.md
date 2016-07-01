@@ -16,7 +16,7 @@
 
 a) büntetlen előéletű,
 
-b) felsőfokú végzettséggel vagy a 9. mellékletben meghatározott szakképesítéssel vagy a biztosításközvetítői hatósági képzés és vizsgáztatás rendjéről szóló miniszteri rendeletben meghatározott hatósági vizsgával rendelkezik, és
+b) felsőfokú végzettséggel vagy a 9. mellékletben meghatározott szakképesítéssel vagy a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági vizsgával rendelkezik, és
 
 c) a 376. § (2) bekezdésében meghatározott szakmai továbbképzési kötelezettségnek eleget tesz.
 
@@ -32,4 +32,4 @@ b) az alkuszi és többes ügynöki tevékenységet végző természetes személ
 
 birtokában végezheti a biztosításközvetítői tevékenységét.
 
-(7) Az a természetes személy, aki a biztosításközvetítői hatósági képzés és vizsgáztatás rendjéről szóló miniszteri rendeletben meghatározott hatósági vizsga birtokában biztosításközvetítői tevékenység végzésére jogosult lenne, de a felügyeleti nyilvántartásból történő törléstől vagy – nyilvántartásba vétel hiányában – a hatósági vizsga letételétől számított öt év már eltelt, abban az esetben vehető fel a felügyeleti nyilvántartásba, ha újból hatósági vizsgát tesz.
+(7) Az a természetes személy, aki a pénzügyi szolgáltatás közvetítői, a biztosításközvetítői és a tőkepiaci üzletkötői hatósági képzéssel és hatósági vizsgával összefüggő feladatokról szóló miniszteri rendeletben meghatározott hatósági vizsga birtokában biztosításközvetítői tevékenység végzésére jogosult lenne, de a felügyeleti nyilvántartásból történő törléstől vagy – nyilvántartásba vétel hiányában – a hatósági vizsga letételétől számított öt év már eltelt, abban az esetben vehető fel a felügyeleti nyilvántartásba, ha újból hatósági vizsgát tesz.

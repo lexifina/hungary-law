@@ -12,7 +12,7 @@ ab) a balesetbiztosítási szerződésből vagy a biztosítási szerződés bale
 
 ac) a felelősségbiztosítási szerződésből vagy a biztosítási szerződés felelősségbiztosítási kockázatainak fedezetéből eredő, személyi sérüléssel összefüggésben felmerült, a felszámolás kezdő időpontjáig bekövetkezett biztosítási események alapján elismert szolgáltatások, ideértve a károsultat vagy a károsulttal szemben tartásra jogosult hozzátartozót illető járadékfizetési szolgáltatásokat (e alpont tekintetében a Kártalanítási Alapot, a Kártalanítási Számlát és a Nemzeti Irodát megillető követelések kivételével);
 
-b) az életbiztosítási szerződésből eredő kötelezettségek, továbbá a felelősségbiztosításból eredő kötelezettségek (e pont tekintetében az a) pontban meghatározott kötelezettségek kivételével);
+b) az életbiztosítási szerződésből eredő kötelezettségek, továbbá a felelősségbiztosításból eredő kötelezettségek (e pont tekintetében az a) pontban meghatározott kötelezettségek kivételével és a Kártalanítási Alapot, a Kártalanítási Számlát és a Nemzeti Irodát megillető követelések kivételével);
 
 c) a felszámolás kezdő időpontjáig bekövetkezett biztosítási események alapján elismert szolgáltatások, ide nem értve az a) és b) pontban meghatározott szolgáltatásokat (e pont tekintetében a Kártalanítási Alapot, a Kártalanítási Számlát és a Nemzeti Irodát megillető követelések kivételével);
 

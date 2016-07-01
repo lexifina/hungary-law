@@ -1,4 +1,4 @@
-71. § (1) A könyvvizsgáló köteles a biztosító vagy a viszontbiztosító első számú vezetőjét haladéktalanul tájékoztatni, ha e törvény vagy a biztosítási tevékenységre vonatkozó jogszabályok megsértését észleli, így különösen, ha a biztosítástechnikai tartalékok mértéke vagy eszközfedezete nem kielégítő.
+71. § (1) A könyvvizsgáló köteles a biztosító vagy a viszontbiztosító első számú vezetőjét haladéktalanul tájékoztatni, ha e törvény vagy a biztosítási tevékenységre vonatkozó jogszabályok megsértését észleli, így különösen, ha a biztosítástechnikai tartalékok mértéke vagy vizsgálatkor a számviteli biztosítástechnikai tartalékok eszközfedezete nem kielégítő.
 
 (2) A könyvvizsgáló köteles vizsgálatának eredményéről a biztosítóval vagy a viszontbiztosítóval egyidejűleg a Felügyeletet haladéktalanul írásban tájékoztatni, ha olyan tényeket állapított meg, amelyek alapján
 

@@ -4,7 +4,7 @@
 
 321. § (1) A Felügyelet a pénzügyi közvetítő rendszer felügyeletével kapcsolatos feladatai ellátása céljából szükséges mértékben adatot kezelhet, ideértve az e törvényben meghatározott körben kezelt személyes adatot is.
 
-(2) A Felügyelet határozattal nyilvántartásba veszi a biztosító és a viszontbiztosító következő adatait:
+(2) A Felügyelet nyilvántartásba veszi a biztosító és a viszontbiztosító következő adatait:
 
 a) név, székhely,
 
@@ -26,7 +26,7 @@ i) a h) pontban felsoroltak vezetésével megbízott személyek azonosító adat
 
 j) az a)–i) pontban felsorolt adatokban történt változások.
 
-(3) A Felügyelet határozattal nyilvántartásba veszi
+(3) A Felügyelet nyilvántartásba veszi
 
 a) a csoport- vagy a kiegészítő felügyelet alá tartozó biztosítóval vagy viszontbiztosítóval szoros kapcsolatban álló személy adatait,
 

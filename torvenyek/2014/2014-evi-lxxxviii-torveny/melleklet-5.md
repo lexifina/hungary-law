@@ -20,11 +20,11 @@
 
 ## 10. a többlethozam visszajuttatásának mértékét és módját;
 
-## 11. a 159. § (1) bekezdésre vonatkozó tájékoztatást, továbbá a panasz – annak jellege szerint – a Felügyelethez vagy a békéltető testületekhez való előterjesztésének lehetőségét, illetve tájékoztatást a bírói út igénybevételének lehetőségéről;
+## 11. a 159. § (1) bekezdésre vonatkozó tájékoztatást, továbbá a panasz – annak jellege szerint – a Felügyelethez vagy a békéltető testületekhez való előterjesztésének lehetőségét (a székhely, telefonos és internetes elérhetőség, valamint a levelezési cím feltüntetésével), illetve tájékoztatást a bírói út igénybevételének lehetőségéről;
 
 ## 12. harmadik országbeli biztosító fióktelepével kötött szerződés esetén azt, hogy jogvita esetén mely ország bírósága jár el, milyen anyagi és eljárási jogszabályok alkalmazásával, továbbá az eljárás nyelvének meghatározását;
 
-## 13. azon szervezetek felsorolását, amelyeknek a biztosító az ügyfelek adatait, a 134–142. §, a 146–151. § rendelkezései alapján továbbíthatja;
+## 13. azon szervezetek felsorolását, amelyeknek a biztosító az ügyfelek adatait, a 135–142. § és a 147–151. § rendelkezései alapján továbbíthatja;
 
 ## 14. a szerződésre irányadó jog megjelölését vagy természetes személlyel kötendő nem-életbiztosítási szerződés esetén a szerződésre irányadó jog vonatkozásában – amennyiben az a felek által választható – a jogválasztás lehetőségét és a biztosító által irányadó jogként alkalmazni javasolt jog megjelölését;
 

@@ -188,7 +188,7 @@ bd) minden egyéb olyan esetben, amely nem tartozik kifejezetten a ba)–bc) alp
 
 67. különleges célú gazdasági egység: olyan, tagállamban engedélyezett – biztosítónak vagy viszontbiztosítónak nem minősülő – vállalkozás, amely jogosult átvállalni a kockázatot a biztosítóktól és viszontbiztosítóktól, és amely teljes mértékben viseli a kockázat költségterheit egy hitelviszonyt megtestesítő értékpapír-kibocsátásból származó bevételből vagy valamilyen más finanszírozási mechanizmus által;
 
-68. különleges célú gazdasági eszköz: a különleges célú gazdasági egység által kibocsátott eszköz, amely esetében a kibocsátó – hitelviszonyt megtestesítő értékpapírból vagy más finanszírozási mechanizmusból eredő – kötelezettségei alárendeltek az ilyen eszközzel kapcsolatos viszontbiztosítási kötelezettségeknek;
+68. különleges célú gazdasági eszköz: a különleges célú gazdasági egység által kibocsátott eszköz, amely esetében a kibocsátó – hitelviszonyt megtestesítő értékpapírból vagy más finanszírozási mechanizmusból eredő – kötelezettségei alárendeltek az ilyen eszközzel kapcsolatos biztosítási vagy viszontbiztosítási kötelezettségeknek;
 
 69. leányvállalat: minden olyan vállalkozás, amelynek működésére egy másik vállalkozás ellenőrző befolyást gyakorol. A leányvállalat valamennyi leányvállalatát az anyavállalat leányvállalatának kell tekinteni;
 

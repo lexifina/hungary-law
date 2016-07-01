@@ -12,7 +12,7 @@
 
 (6) A felszámolás megindításának kezdeményezéséről szóló, a (2) bekezdésben meghatározott döntés ellen
 
-a) a biztosító vagy viszontbiztosító alapítói vagy tagsági jogait gyakorló legfőbb szerv képviselője, és
+a) a biztosító alapítói vagy tagsági jogait gyakorló legfőbb szerv képviselője, és
 
 b) bármely olyan személy, aki a 183. § (2) bekezdésében meghatározott biztosítási szerződésből eredő követelés jogosultja
 

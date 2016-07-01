@@ -36,4 +36,4 @@ kapcsolatos, a biztosítók és a viszontbiztosítók szavatolótőkéjéről é
 
 (10) A kockázati profil jelentős változását követően elvégzett saját kockázat- és szavatolótőke-értékelési rendszer értékelés eredményéről a biztosító vagy a viszontbiztosító harminc napon belül tájékoztatja a Felügyeletet.
 
-(11) A kockázat- és szavatolótőke-értékelési rendszer nem a biztosítóval vagy a viszontbiztosítóval szemben támasztott hatósági tőkekövetelmény kiszámítására szolgál. A minimális szavatolótőke-szükséglet számítására kizárólag a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben meghatározott követelményeknek megfelelően kerülhet sor.
+(11) A kockázat- és szavatolótőke-értékelési rendszer nem a biztosítóval vagy a viszontbiztosítóval szemben támasztott hatósági tőkekövetelmény kiszámítására szolgál. A szavatolótőke-szükséglet számítására kizárólag a biztosítók és a viszontbiztosítók szavatolótőkéjéről és biztosítástechnikai tartalékairól szóló kormányrendeletben meghatározott követelményeknek megfelelően kerülhet sor.

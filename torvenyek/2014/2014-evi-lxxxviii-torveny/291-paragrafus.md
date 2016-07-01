@@ -46,7 +46,7 @@ ld) pénzügyi helyzetének megőrzésére vagy javítására;
 
 m) előírhatja a hatodik rész hatálya alá
 
-ma) nem tartozó biztosító vagy viszontbiztosító részére pénzügyi terv vagy pénzügyi helyreállítási terv, vagy
+ma) nem tartozó biztosító vagy viszontbiztosító részére pénzügyi terv vagy helyreállítási terv, vagy
 
 mb) tartozó kisbiztosító részére szanálási terv, pénzügyi terv, pénzügyi helyreállítási terv
 
@@ -93,3 +93,7 @@ u) előírhatja a biztosító és a viszontbiztosító számára a biztosítási
 (6) Az (1) bekezdésben meghatározott intézkedések alkalmazása során a Felügyelet a biztosító és a viszontbiztosító biztonságos, illetve jogszabályoknak megfelelő működésének a biztosítása vagy helyreállítása érdekében jár el.
 
 (7) A meghozott intézkedésnek szükségesnek és alkalmasnak kell lenni a (6) bekezdésben meghatározott érdekek megvalósítására, továbbá az intézkedés meghozatalának az okszerűségét az intézkedésről szóló határozat indokolásában teljeskörűen meg kell határozni.
+
+(8) Az (1) bekezdés p) pontjában meghatározott intézkedés alkalmazására akkor is sor kerülhet, ha a biztosító vagy a viszontbiztosító működésében tapasztalható tények alapján megalapozottan feltehető, hogy a tények észlelésétől számított egy éven belül a biztosító vagy a viszontbiztosító nem fog megfelelni az e törvény és a biztosítási vagy a viszontbiztosítási tevékenység folytatására vonatkozó egyéb jogszabályok előírásainak, és ez veszélyezteti a biztosítottak érdekeit.
+
+(9) A Felügyelet a különleges célú gazdasági egységek kötelezettségének teljesítése, valamint annak érdekében, hogy a különleges célú gazdasági egység tevékenysége az ezen tevékenységekre vonatkozó jogszabályoknak és a Felügyelet határozatainak megfeleljen, az (1) bekezdés a)–e), h), r) és t) pontjában meghatározott intézkedéseket alkalmazhatja azzal, hogy ahol a rendelkezés biztosítót említ, azon a különleges célú gazdasági egységet kell érteni.

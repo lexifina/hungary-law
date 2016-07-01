@@ -8,7 +8,7 @@ b) a biztosítási tevékenység – ideértve az aktív és passzív viszontbiz
 
 c) az előzetes mérlegtervet,
 
-d) a biztosítási és viszontbiztosítási szerződésből eredő kötelezettségek és a minimális szavatolótőke-szükséglet fedezetéhez szükséges pénzügyi eszközök várható alakulását,
+d) a biztosítási és viszontbiztosítási szerződésből eredő kötelezettségek, a minimális tőkeszükséglet és a szavatolótőke-szükséglet fedezetéhez szükséges pénzügyi eszközök várható alakulását,
 
 e) a viszontbiztosításra vonatkozó átfogó terveket.
 

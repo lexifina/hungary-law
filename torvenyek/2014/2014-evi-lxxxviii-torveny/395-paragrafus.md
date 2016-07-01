@@ -22,7 +22,7 @@ ca) korábban biztosítónál, viszontbiztosítónál, biztosításközvetítői
 
 cb) öt évig biztosításközvetítőként működött, vagy
 
-cc) a ca)–cb) pontban meghatározott szervnél összesen ötéves szakmai munkaviszonnyal, köztisztviselői jogviszonnyal vagy munkavégzésre irányuló egyéb jogviszonnyal rendelkezik.
+cc) a ca)–cb) alpontban meghatározott szervnél összesen ötéves szakmai munkaviszonnyal, közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonnyal vagy munkavégzésre irányuló egyéb jogviszonnyal rendelkezik.
 
 (3) A (2) bekezdés b) és c) pontjában meghatározott követelmény helyett vezérügynöki tevékenységet végző természetes személy és a vezérügynöki tevékenység irányítója az a természetes személy is lehet, aki
 

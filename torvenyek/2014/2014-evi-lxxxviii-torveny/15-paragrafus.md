@@ -1,10 +1,10 @@
-15. § (1) A biztosító szövetkezet vagy a viszontbiztosító szövetkezet volt tagja vagy jogutódja részére az elszámolás alapján kifizetést nem lehet teljesíteni, ha ennek következtében a biztosító nem felelne meg a
+15. § (1) A biztosító szövetkezet vagy a viszontbiztosító szövetkezet volt tagja vagy jogutódja részére az elszámolás alapján kifizetést nem lehet teljesíteni, ha ennek következtében
 
-a) minimális tőkeszükségletre vagy
+a) a biztosító nem rendelkezik a szavatolótőke-szükségletet fedező figyelembe vehető szavatoló tőkével,
 
-b) a hatodik rész hatálya alá tartozó biztosító esetén a minimális szavatoló tőkére
+b) a hatodik rész hatálya alá tartozó biztosító nem rendelkezik a minimális szavatolótőke-szükségletnek megfelelő szavatoló tőkével, vagy
 
-vonatkozó előírásoknak, vagy biztosítási szükséghelyzet következne be.
+c) biztosítási szükséghelyzet következne be.
 
 (2) Az (1) bekezdés alapján a kifizetés legfeljebb négy évig halasztható.
 
