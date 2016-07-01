@@ -10,10 +10,10 @@
 
 5. 90. § (5) bekezdése,
 
-6. 110. § (1) bekezdés 1. pontja,
+6.
 
 7. 115. § (9)–(16) bekezdése,
 
 8. 116. § (11) bekezdése,
 
-9. 117. § (1) és (3) bekezdése.
+9.

@@ -1,4 +1,4 @@
-71. § (1) Az Nftv. 1. melléklete helyébe a 3. melléklet lép.
+71. § (1)
 
 (2) Az Nftv. 3. melléklete a 4. melléklet szerint módosul.
 

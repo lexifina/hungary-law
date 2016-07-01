@@ -17,11 +17,3 @@
 (7) A 24. §, a 27. §, a 33. § (1)–(2) bekezdése, a 45. § 3. pontja 2017. szeptember 1-jén lép hatályba.
 
 (8) A 26. § 2018. szeptember 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke

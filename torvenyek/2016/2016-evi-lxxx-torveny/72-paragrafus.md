@@ -2,11 +2,11 @@
 
 a) 12. § (3) bekezdés h) pont he) alpontjában, 64. § (5) bekezdésében, 85/A. § (1) bekezdés c) pontjában, 85/C. § a) pont ab) alpontjában, 110. § (1) bekezdés 21. pontjában és 114/D. § (1) bekezdés c) pontjában a „köztársasági” szövegrész helyébe a „nemzeti felsőoktatási”,
 
-b) 17. § (1) bekezdésében a „háromszáz” szövegrész helyébe a „kettőszáz”,
+b)
 
 c) 48/R. § (1) bekezdés b) pontjában a „más kérelmet nem terjesztett elő, vagy az e kérelmek tárgyában hozott jogerős döntésben foglaltaknak határidőre” szövegrész helyébe a „más kérelme tárgyában hozott jogerős döntésben foglalt kötelezettségének határidőre”,
 
-d) 51. § (5) bekezdésében a „szakképzettség megnevezését,” szövegrész helyébe a „szakképzettség megnevezését, az oklevél minősítését,”,
+d)
 
 e) 52. § (7) bekezdésében a „dr. jur,” szövegrész helyébe a „dr. jur.,”,
 
