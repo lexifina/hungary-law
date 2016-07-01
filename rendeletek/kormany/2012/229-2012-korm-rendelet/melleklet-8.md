@@ -1,4 +1,4 @@
-8. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^169]
+8. melléklet a 229/2012. (VIII. 28.) Korm. rendelethez[^170]
 
 A köznevelési intézményeket működtető települési önkormányzatok finanszírozási körébe tartozó
 
@@ -56,4 +56,4 @@ dologi kiadások és bevételek köre
 
 | 25 | Általános forgalmi adó visszatérülései, visszatérítései a működtető önkormányzat felelősségi körébe tartozóan vásárolt, kiszámlázott, értékesített termékek és szolgáltatások után, beleértve a fordított adó miatti visszatérüléseket is |
 
-[^169]: A 8. mellékletet a 26/2013. (II. 12.) Korm. rendelet 2. §-a iktatta be.
+[^170]: A 8. mellékletet a 26/2013. (II. 12.) Korm. rendelet 2. §-a iktatta be.
