@@ -1,6 +1,6 @@
 67/V. § (1) A VPSZ vezető tisztségviselője, felügyelőbizottságának tagja, vezető állású munkavállalója, valamint a díjszabási vagy kapacitáselosztási feladatait ellátó munkavállalója
 
-a) a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyt, vasúti társasággal vagy annak kapcsolt vállalkozásával munkaviszonyt, illetőleg munkavégzésre irányuló egyéb jogviszonyt nem létesíthet,
+a) a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyt, állami szolgálati jogviszonyt, vasúti társasággal vagy annak kapcsolt vállalkozásával munkaviszonyt, valamint munkavégzésre irányuló egyéb jogviszonyt nem létesíthet,
 
 b) vasúti társaságban vagy annak kapcsolt vállalkozásában részesedést nem szerezhet,
 
@@ -10,7 +10,7 @@ d) munkaszerződésében vagy megbízási szerződésében foglalt jogait és k�
 
 (2) A VPSZ vezető tisztségviselőjének, felügyelőbizottsága tagjának, vezető állású munkavállalójának, valamint a díjszabási vagy kapacitáselosztási feladatait ellátó munkavállalójának a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója
 
-a) a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyt nem létesíthet,
+a) a vasúti igazgatási szervvel kormányzati szolgálati jogviszonyt, állami szolgálati jogviszonyt nem létesíthet,
 
 b) vasúti társaságban vagy annak kapcsolt vállalkozásában részesedést nem szerezhet,
 

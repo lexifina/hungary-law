@@ -6,6 +6,6 @@
 
 (3) A vasúti igazgatási szerv a piac felügyeletével kapcsolatos tevékenysége során hivatalból is ellenőrizheti a 79/B. § (1) bekezdésében meghatározottakat, valamint ellenőrzi, hogy a hálózati üzletszabályzat tartalmaz-e diszkriminatív rendelkezéseket vagy felruházza-e a pályahálózat-működtetőt vagy a VPSZ-t olyan mérlegelési jogkörrel, amelyet fel lehet használni a kapacitásfoglalásra jogosultakkal szembeni hátrányos megkülönböztetésre.
 
-(4) A vasúti igazgatási szerv a (2) és (3) bekezdés szerinti tevékenysége során szakértőt vehet igénybe. A szakértőre a vasúti igazgatási szerv kormánytisztviselőjére vonatkozó összeférhetetlenségi szabályokat kell alkalmazni.
+(4) A vasúti igazgatási szerv a (2) és (3) bekezdés szerinti tevékenysége során szakértőt vehet igénybe. A szakértőre a vasúti igazgatási szerv kormánytisztviselőjére, állami tisztviselőjére vonatkozó összeférhetetlenségi szabályokat kell alkalmazni.
 
 (5) A vasúti igazgatási szerv felügyeleti és ellenőrzési terv alapján és azon kívül is hivatalból vagy kérelemre folytat felügyeleti tevékenységet.
