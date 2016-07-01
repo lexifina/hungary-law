@@ -50,7 +50,7 @@ a) nem áll a 13. § (2) bekezdés c)–e) pontja szerinti kizáró ok hatálya 
 
 b) legalább középfokú mezőgazdasági szakirányú szakképzettséggel rendelkezik, valamint
 
-c) a közigazgatási alapvizsgát letette, vagy vállalja, hogy kinevezése esetén e vizsgát a Hegyközségek Nemzeti Tanácsának főtitkára által meghatározott határidőn – de megválasztásától számított legkésőbb egy éven – belül leteszi.
+c) a közigazgatási alapvizsgát letette, vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel rendelkezik, vagy vállalja, hogy kinevezése esetén a közigazgatási alapvizsgát a Hegyközségek Nemzeti Tanácsának főtitkára által meghatározott határidőn – de megválasztásától számított legkésőbb egy éven – belül leteszi.
 
 (9) A (8) bekezdés c) pontja szerinti határidő elmulasztása esetén a hegybíró foglalkoztatási jogviszonya megszűnik.
 

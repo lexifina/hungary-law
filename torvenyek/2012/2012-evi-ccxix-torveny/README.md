@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-219-00-00
 | 2015-08-01 | 2015. évi XCVIII. törvény | 2012-219-00-00.10 |
 | 2015-12-23 | 2015. évi CCXVIII. törvény | 2012-219-00-00.11 |
 | 2016-01-01 | 2015. évi XCVIII. törvény | 2012-219-00-00.12 |
+| 2016-07-01 | 2016. évi LXIV. törvény | 2012-219-00-00.13 |
