@@ -306,14 +306,22 @@ II. Oktatói, nevelői és képzést támogató beosztások
 
 | 12. | E | gyakorlati oktató (szakoktató) | 100 |  |
 
-| 13. | D | tudományos munkatárs | 100 |  |
+| 13. | E | osztályvezető-helyettes | 100 |  |
 
-| 14. | D | mesterkiképző | 100 |  |
+| 14. | E | alosztályvezető | 100 |  |
 
-| 15. | C | tudományos segédmunkatárs | 100 |  |
+| 15. | E | kiemelt főreferens | 100 |  |
 
-| 16. | C | kiképző | 100 |  |
+| 16. | D | tudományos munkatárs | 100 |  |
+
+| 17. | D | mesterkiképző | 100 |  |
+
+| 18. | D | csoportvezető |  |  |
+
+| 19. | C | tudományos segédmunkatárs | 100 |  |
+
+| 20. | C | kiképző | 100 |  |
 
 III. Kiképzői beosztások
 
-[^7]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja szerint módosított szöveg.
+[^7]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a szerint módosított szöveg.
