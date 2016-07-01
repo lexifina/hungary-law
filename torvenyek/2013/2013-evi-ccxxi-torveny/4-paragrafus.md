@@ -12,4 +12,6 @@
 
 (7) A regisztrált felhasználó a (2) bekezdésben meghatározott személyazonosító adataiban bekövetkezett változást köteles haladéktalanul bejelenteni. A változás átvezetése során megfelelően alkalmazni kell a regisztrációra vonatkozó szabályokat.
 
+(7a) A (7) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a regisztrált felhasználó kéri – a (7) bekezdés szerinti határidőben értesíti a MOKK-ot.
+
 (8) A közjegyző a felhasználói regisztrációt az e célra szolgáló felületen előterjesztett kérelemre megszünteti, feltéve, hogy a regisztrált felhasználó a hitelbiztosítéki rendszerben nyilvántartott hitelbiztosítéki nyilatkozat által – ide nem értve a törölt nyilatkozatot – már nem érintett.
