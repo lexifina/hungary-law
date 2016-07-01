@@ -1,4 +1,4 @@
-## 27. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+## 28. §[^2] E rendeletnek az egyes honvédelmi miniszteri rendeletek módosításáról szóló 9/2016. (VI. 29.) HM rendelettel megállapított 17. § (2) bekezdés c) pontját 2016. április 1-jétől kell alkalmazni.
 
 1. melléklet a 20/2013. (IX. 16.) HM rendelethez
 
@@ -361,3 +361,5 @@ Megjegyzés:
 (5) Önkéntes tartalékos katona részére helyettesíthető cikként PVC körgallér is kiadható
 
 (6) Helyettesíthető cikként 2008 M általános bakancs is kiadható
+
+[^2]: A 28. §-t a 9/2016. (VI. 29.) HM rendelet 9. §-a iktatta be.
