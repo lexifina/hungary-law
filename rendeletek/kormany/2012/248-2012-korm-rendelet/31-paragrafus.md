@@ -1,3 +1,3 @@
-31. §[^48]
+31. §[^50]
 
-[^48]: A 26–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^50]: A 26–33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

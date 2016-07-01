@@ -6,19 +6,11 @@
 
 (4) A részletfizetési időszakban felmerülő mentesítési tényekre alapozott mentesítést a Hivatal a fennálló tartozásra nyújt.
 
-(5) Mentesítési kérelem
-
-a) az Nftv. 48/A. § a) pontja szerinti kötelezettség teljesítése alól a képzési és kimeneti követelmények szerinti másfélszeres idő elteltéig,
-
-b) az Nftv. 48/A. § b) pontja szerinti kötelezettség alól az oklevélszerzést követő huszadik év elteltéig bármikor,
-
-c) az Nftv. 48/A. § c) és d) pontja alapján megállapított jogerős visszatérítési kötelezettség esetén az Nftv. 48/P. §-a szerinti határozatban közölt esedékesség napjáig (visszatérítési kötelezettség határideje)
-
-nyújtható be.
+(5)[^29]
 
 (6) A visszatérítési kötelezettséget megállapító határozat tartalmazza a mentesítési kérelem benyújtásának módját és naptári napban megállapított határidejét.
 
-(7)[^29] A (volt) magyar állami ösztöndíjas hallgatónak mentességi ok fennállásának bizonyítására a kérelemhez csatolnia kell az alábbi dokumentumokat:
+(7)[^30] A (volt) magyar állami ösztöndíjas hallgatónak mentességi ok fennállásának bizonyítására a kérelemhez csatolnia kell az alábbi dokumentumokat:
 
 a) megváltozott munkaképesség esetén a rehabilitációs hatóság érvényes és hatályos szakhatósági állásfoglalását, szakvéleményét, bizottsági állásfoglalását, határozatát vagy hatósági bizonyítványát az egészségi állapot minősítésének eredményéről,
 
@@ -30,20 +22,22 @@ d) szülés esetén a gyermek(ek) születési anyakönyvi kivonatát,
 
 e) kettő vagy több gyermek nevelésére tekintettel a gyermekek és az ügyfél azonos lakcímét igazoló hatósági igazolványát vagy a gyermekek elhelyezéséről szóló gyámhatósági vagy bírósági határozatot.
 
-(7a)[^30] Az iratokat a (volt) magyar állami ösztöndíjas hallgató bemutatja a Hivatalnak, benyújtja a dokumentumok közjegyző által hitelesített másolati példányát, vagy az iratok egyszerű másolati példányának benyújtása mellett büntetőjogi felelősséggel nyilatkozik azok hitelességéről.
+(7a)[^31] Az iratokat a (volt) magyar állami ösztöndíjas hallgató bemutatja a Hivatalnak, benyújtja a dokumentumok közjegyző által hitelesített másolati példányát, vagy az iratok egyszerű másolati példányának benyújtása mellett büntetőjogi felelősséggel nyilatkozik azok hitelességéről.
 
 (8) A mentesítési kérelem benyújtásának a visszatérítési kötelezettséget megállapító jogerős döntés végrehajtására halasztó hatálya van. A teljesítési idő meghosszabbodik a mentesítésre irányuló eljárás időtartamával, ha a Hivatal a mentesítési kérelmet elutasítja vagy a mentesítésre irányuló eljárást megszünteti.
 
-(9) Az Nftv. 48/R. §-a szerinti végrehajtási eljárás alatt bekövetkezett mentesítési tényekre mentesítési kérelem nyújtható be.
+(9)[^32] Az Nftv. 48/R. §-a szerinti végrehajtási eljárás befejezéséig mentesítési kérelem nyújtható be. Az Nftv. 48/N. § (3) bekezdése szerint teljesített munkavégzés beszámítására irányuló kérelmet az Nftv. 48/R. §-a szerinti végrehajtási eljárás befejezéséig lehet benyújtani, azzal, hogy az esedékességet követően e kérelemmel csak egyszer lehet élni.
 
 (10) Az Nftv. 48/O. §-a szerinti tartós betegségre tekintettel mentesítésben az részesül, aki a családok támogatásáról szóló 1998. évi LXXXIV. törvény 4. § f) pont fb) alpontja szerinti állapotát, illetve a magasabb összegű családi pótlékra jogosultságát tartós betegségére tekintettel igazolja.
 
-(11)[^31] Az Nftv. 48/O. §-a szerinti megváltozott munkaképességre tekintettel az mentesül, aki a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 2. § (1) bekezdése szerinti állapotát igazolja.
+(11)[^33] Az Nftv. 48/O. §-a szerinti megváltozott munkaképességre tekintettel az mentesül, aki a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 2. § (1) bekezdése szerinti állapotát igazolja.
 
-(12)[^32]
+(12)[^34]
 
 [^28]: A 9. § a 87/2015. (IV. 9.) Korm. rendelet 75. § (6) bekezdésével megállapított szöveg.
-[^29]: A 9. § (7) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^30]: A 9. § (7a) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 27. §-a iktatta be.
-[^31]: A 9. § (11) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 28. § 2. pontja szerint módosított szöveg.
-[^32]: A 9. § (12) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 29. § 2. pontja hatályon kívül helyezte.
+[^29]: A 9. § (5) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 14. § b) pontja hatályon kívül helyezte.
+[^30]: A 9. § (7) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^31]: A 9. § (7a) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 27. §-a iktatta be.
+[^32]: A 9. § (9) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^33]: A 9. § (11) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 28. § 2. pontja szerint módosított szöveg.
+[^34]: A 9. § (12) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 29. § 2. pontja hatályon kívül helyezte.

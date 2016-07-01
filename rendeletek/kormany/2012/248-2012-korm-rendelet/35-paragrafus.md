@@ -2,6 +2,6 @@
 
 ## 363/2011. (XII. 30.) Korm. rendelet módosítása
 
-35. §[^52]
+35. §[^54]
 
-[^52]: A 35–37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^54]: A 35–37. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
