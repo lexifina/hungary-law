@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-51-20-2
 | 2014-09-01 | 2007-51-20-22.15 | 220/2014. (VIII. 29.) Korm. rendelet |
 | 2015-04-17 | 2007-51-20-22.16 | 87/2015. (IV. 9.) Korm. rendelet |
 | 2015-07-01 | 2007-51-20-22.17 | 363/2011. (XII. 30.) Korm. rendelet |
+| 2016-07-01 | 2007-51-20-22.18 | 169/2016. (VII. 1.) Korm. rendelet |

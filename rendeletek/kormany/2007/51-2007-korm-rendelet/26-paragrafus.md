@@ -14,7 +14,7 @@ c) doktori képzésben részt vevő hallgatók esetében a költségvetési tör
 
 (4)[^75] Az államilag támogatott alap- és mesterképzésben, valamint doktori képzésben Magyarországon tanulmányokat folytató nem magyar állampolgárságú hallgató, akinek esetében ezt két- vagy többoldalú nemzetközi szerződés előírja, évi 12 hónapra jogosult kollégiumi elhelyezésre. A két- vagy többoldalú nemzetközi szerződés alapján Magyarországon önköltséges tanulmányokat folytató nem magyar állampolgárságú hallgató évi 12 hónapra jogosult kollégiumi elhelyezésre, amelynek díját a miniszteri ösztöndíjából fizeti.
 
-(5)[^76] A nemzetközi szerződés alapján Magyarországon tanulmányokat folytató személyekről a Balassi Intézet tájékoztatja a felsőoktatási intézményeket.
+(5)[^76]
 
 (6)[^77]
 
@@ -24,6 +24,6 @@ c) doktori képzésben részt vevő hallgatók esetében a költségvetési tör
 [^73]: A 26. § (1) bekezdése a 220/2014. (VIII. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
 [^74]: A 26. § (2) bekezdésének a) pontját a 372/2007. (XII. 23.) Korm. rendelet 32. § g) pontja hatályon kívül helyezte.
 [^75]: A 26. § (4) bekezdése a 220/2014. (VIII. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^76]: A 26. § (5) bekezdése a 198/2008. (VIII. 4.) Korm. rendelet 25. § (2) bekezdés d) pontja szerint módosított szöveg, e módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
+[^76]: A 26. § (5) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 3. § b) pontja hatályon kívül helyezte.
 [^77]: A 26. § (6) bekezdését a 220/2014. (VIII. 29.) Korm. rendelet 10. § f) pontja hatályon kívül helyezte.
 [^78]: A 26. § (7) bekezdését a 233/2007. (IX. 4.) Korm. rendelet 2. § (4) bekezdésének e) pontja iktatta be, szövege a 198/2008. (VIII. 4.) Korm. rendelet 25. § (3) bekezdés d) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 25. § (5) bekezdése alapján a folyamatban levő eljárásokra is alkalmazni kell.
