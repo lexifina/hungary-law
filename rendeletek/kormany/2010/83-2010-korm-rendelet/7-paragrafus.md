@@ -12,6 +12,6 @@ d) ha a hitelező a jelzáloghitelt vagy az ingatlanon alapított önálló zál
 
 e) ha a helyszíni szemlék száma előre nem határozható meg, két szemle díját kell figyelembe venni.
 
-(2)[^27]
+(2)[^32]
 
-[^27]: A 7. § (2) bekezdését a 468/2015. (XII. 29.) Korm. rendelet 16. § c) pontja hatályon kívül helyezte.
+[^32]: A 7. § (2) bekezdését a 468/2015. (XII. 29.) Korm. rendelet 16. § c) pontja hatályon kívül helyezte.
