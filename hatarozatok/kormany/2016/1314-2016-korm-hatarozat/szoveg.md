@@ -26,4 +26,6 @@ Határidő: 2017-re vonatkozóan: 2016. december 31.
 
 2018–2020 között: a központi költségvetés éves tervezése keretében
 
-6. visszavonja a Nemzeti Szabadidős-Egészség Sportpark Programról, valamint a nyugat-magyarországi utánpótlás-nevelési centrum megvalósítási koncepciójáról és a szükséges pénzügyi fedezet biztosításáról, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1526/2014. (IX. 18.) Korm. határozat módosításáról szóló 1249/2016. (V. 25.) Korm. határozat 1–3. pontját.
+6.[^1]
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
