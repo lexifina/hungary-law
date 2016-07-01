@@ -16,7 +16,7 @@ f) a kijelölt szervezetek kijelölést követő ellenőrzésének szabályait �
 
 rendeletben határozza meg.
 
-(2) Felhatalmazást kap a termékre vonatkozó forgalmazási követelmény tekintetében szabályozási feladatkörrel rendelkező miniszter, hogy
+(2) Felhatalmazást kap a termékre vonatkozó forgalmazási követelmény tekintetében szabályozási feladatkörrel rendelkező miniszter vagy önálló szabályozó szerv vezetője, hogy
 
 a) a kijelölt szervezetekkel szembeni, az adott termékszabályozás sajátosságaival összefüggő különös követelményeket – ideértve a felelősségbiztosítás mértékét, továbbá a szakmai képzettségi és szakmai gyakorlati követelményeket –,
 
