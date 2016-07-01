@@ -6,6 +6,6 @@ b) gondoskodik a megyei, fővárosi védelmi bizottság munkaszervezetének műk
 
 c) gondoskodik a megyei, fővárosi védelmi bizottság infokommunikációs rendszere és egyéb, katasztrófavédelmi célú elektronikus hírközlési kommunikációs rendszere működőképességének folyamatos biztosításáról,
 
-d)[^29] a megyei, fővárosi védelmi bizottság illetékességi területén működő helyi védelmi bizottság elnökét feladat végrehajtására utasíthatja.
+d)[^35] a megyei, fővárosi védelmi bizottság illetékességi területén működő helyi védelmi bizottság elnökét feladat végrehajtására utasíthatja.
 
-[^29]: A 26. § d) pontját a 267/2013. (VII. 11.) Korm. rendelet 5. §-a iktatta be.
+[^35]: A 26. § d) pontját a 267/2013. (VII. 11.) Korm. rendelet 5. §-a iktatta be.

@@ -1,4 +1,4 @@
-10. § (1) A Honvéd Vezérkar főnöke szakirányítja
+10. § (1)[^25] A Honvéd Vezérkar főnöke szakirányítja
 
 a) a Honvédség alkalmazásával,
 
@@ -8,14 +8,18 @@ c) a Honvédség kiegészítésével,
 
 d) a hadrafoghatósággal,
 
-e) a kiképzéssel, a felkészítéssel és a katonai fegyelemmel,
+e) a kiképzéssel és a felkészítéssel,
 
 f) a Honvédség egészségügyi tevékenységével,
 
-g) a műveleti egységesítéssel és szabványosítással, és
+g) a műveleti egységesítéssel és szabványosítással,
 
-h) a nemzeti doktrínarendszer összehangolásával és az egyes nemzeti doktrínák fejlesztésével
+h) a nemzeti doktrínarendszer összehangolásával és az egyes nemzeti doktrínák fejlesztésével,
+
+i) a katonai fegyelemmel
 
 ## kapcsolatos felső szintű feladatok végrehajtását.
 
 (2) A Honvéd Vezérkar főnöke az (1) bekezdés f) pontja szerinti szakterület szakirányítását a Honvédség kijelölt parancsnoka, vezetője útján, az (1) bekezdés g) és h) pontja szerinti szakterület szakirányítását pedig a Honvéd Vezérkar főnökének helyettese útján gyakorolja.
+
+[^25]: A 10. § (1) bekezdése a 168/2016. (VII. 1.) Korm. rendelet 4. §-ával megállapított szöveg.

@@ -18,7 +18,7 @@
 
 9.[^12] a humánpolitikai intézmény- és eszközrendszerrel, így különösen az illetmény- és juttatási rendszerrel, a rekonverzió elveivel, a hosszú távú humánpolitikai intézkedésekkel összefüggő feladatok végrehajtását, továbbá a korrupció elleni tevékenység ágazati összehangolását,
 
-10.[^13] a felsőoktatás, a közoktatás, a szakképzés, a tudományos kutatás Honvédséget érintő felső szintű feladatainak végrehajtását,
+10.[^13] a nemzeti felsőoktatás Honvédséget érintő felső szintű feladatainak végrehajtását,
 
 11. az állami célú légiközlekedéssel összefüggő felső szintű döntések előkészítését,
 
@@ -64,7 +64,13 @@
 
 32. a nemzetgazdaság védelmi felkészítésének minisztériumi feladait,
 
-33–36.[^17]
+33.[^17] a tudományos kutatás Honvédséget érintő felső szintű feladatainak végrehajtását,
+
+34.[^18] az Európai Uniós programok támogatásával kapcsolatos feladatok végrehajtását, és
+
+35.[^19] a nemzeti köznevelés és a szakképzés Honvédséget érintő felső szintű feladatainak végrehajtását.
+
+36.[^20]
 
 (2) A közigazgatási államtitkár a minisztérium hivatali szervezetének vezetőjeként
 
@@ -88,8 +94,11 @@ f) gyakorolja a jogszabályokban és a közjogi szervezetszabályozó eszközök
 
 [^11]: A 6. § (1) bekezdés 6. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^12]: A 6. § (1) bekezdés 9. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^13]: A 6. § (1) bekezdés 10. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^13]: A 6. § (1) bekezdés 10. pontja a 168/2016. (VII. 1.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^14]: A 6. § (1) bekezdés 29. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
 [^15]: A 6. § (1) bekezdés 30. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
 [^16]: A 6. § (1) bekezdés 31. pontja a 111/2015. (IV. 30.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^17]: A 6. § (1) bekezdés 33–36. pontját a 111/2015. (IV. 30.) Korm. rendelet 1. § (7) bekezdése iktatta be, a 6/2016. (II. 8.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^17]: A 6. § (1) bekezdés 33. pontját újonnan a 168/2016. (VII. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^18]: A 6. § (1) bekezdés 34. pontját újonnan a 168/2016. (VII. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^19]: A 6. § (1) bekezdés 35. pontját újonnan a 168/2016. (VII. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^20]: A 6. § (1) bekezdés 36. pontját a 111/2015. (IV. 30.) Korm. rendelet 1. § (7) bekezdése iktatta be, a 6/2016. (II. 8.) Korm. rendelet 3. §-a hatályon kívül helyezte.

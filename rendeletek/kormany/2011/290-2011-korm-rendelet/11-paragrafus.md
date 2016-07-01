@@ -8,7 +8,7 @@
 
 4. irányítja a Honvédelmi Katasztrófavédelmi Rendszer feladatkörébe utalt részeit,
 
-5.[^21] a Hvt. 37. § (3) bekezdésében meghatározott létszámnak megfelelően engedélyezi a Honvédségnek a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdése szerinti feladatok végrehajtására történő igénybevételét, továbbá meghatározza a kirendelt erők eszközeit, fegyverzetét és az erőalkalmazás szabályait,
+5.[^26] a Hvt. 37. § (3) bekezdésében meghatározott létszámnak megfelelően engedélyezi a Honvédségnek a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdése szerinti feladatok végrehajtására történő igénybevételét, továbbá meghatározza a kirendelt erők eszközeit, fegyverzetét és az erőalkalmazás szabályait,
 
 6. irányítja a híradó, informatikai és információvédelmi stratégia, és szolgáltatási rendszer kialakítását, a Magyar Honvédség Kormányzati Célú Elkülönült Hírközlő Hálózata, valamint a Magyar Honvédség Vezetési Információs Rendszere tervezését, fejlesztését, a szolgáltatások folyamatos biztosítását, üzemeltetését, fenntartását,
 
@@ -60,4 +60,4 @@ e) vezeti a humánszolgálat kiépítésével, működési feltételei megteremt
 
 (3) A Honvéd Vezérkar főnöke a feladat- és hatáskörébe tartozó ügyekben képviseli a Honvédséget, gyakorolja a jogszabályokban és a közjogi szervezetszabályozó eszközökben hatáskörébe utalt jogköröket, továbbá ellátja mindazokat a feladatokat, amelyekkel a miniszter eseti jelleggel megbízza.
 
-[^21]: A 11. § (1) bekezdés 5. pontja a 273/2015. (IX. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^26]: A 11. § (1) bekezdés 5. pontja a 273/2015. (IX. 21.) Korm. rendelet 2. §-ával megállapított szöveg.

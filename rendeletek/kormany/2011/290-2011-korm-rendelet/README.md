@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-290-20-
 | 2015-09-22 | 2011-290-20-22.14 | 273/2015. (IX. 21.) Korm. rendelet |
 | 2016-01-01 | 2011-290-20-22.15 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-02-09 | 2011-290-20-22.16 | 154/2014. (VI. 18.) Korm. rendelet |
+| 2016-07-01 | 2011-290-20-22.17 | 168/2016. (VII. 1.) Korm. rendelet |
