@@ -1,3 +1,3 @@
-## 3. §[^2]
+## 3. § Az R1. 91. § (4) bekezdése helyébe a következő rendelkezés lép:
 
-[^2]: A 3. § a 32. § (2) bekezdése alapján 2016. július 1. napján lép hatályba.
+## „(4) A minősítő vizsga eredménye a vizsga évét közvetlenül követő két előmeneteli tervezési időszakban vehető figyelembe.”
