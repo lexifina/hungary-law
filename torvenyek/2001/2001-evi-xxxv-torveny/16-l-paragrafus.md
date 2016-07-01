@@ -1,3 +1,0 @@
-## Az igénybe vevő kötelezettségei
-
-16/L. § Amennyiben az érvényességi láncnak az elektronikusan aláírt elektronikus dokumentum nem része, úgy – a szolgáltatási szabályzat ellenkező rendelkezése hiányában – az igénybe vevő köteles a szolgáltató felhívására a szolgáltatási szabályzatban meghatározott időközönként és esetekben az elektronikusan aláírt elektronikus dokumentumnak a Hatóság határozata szerinti, elfogadott kriptográfiai algoritmus alkalmazásával képzett lenyomatát a szolgáltató számára átadni. Ha az igénybe vevő e kötelezettségének a szolgáltató felhívása ellenére nem tesz eleget, úgy a szolgáltató mentesül a 16/M. §-ban szabályozott felelőssége alól.
