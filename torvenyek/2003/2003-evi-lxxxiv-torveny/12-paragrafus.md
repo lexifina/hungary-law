@@ -1,4 +1,4 @@
-12. § (1) Ha az egészségügyi szolgáltató tevékenysége az Mt. 90. § a) pontja alapján megszakítás nélküli (a továbbiakban: megszakítás nélkül működő egészségügyi szolgáltató), az alkalmazott egészségügyi dolgozó egészségügyi tevékenységet
+12. § (1) Ha az egészségügyi szolgáltató tevékenysége az Munka Törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 90. § a) pontja alapján megszakítás nélküli (a továbbiakban: megszakítás nélkül működő egészségügyi szolgáltató), az alkalmazott egészségügyi dolgozó egészségügyi tevékenységet
 
 a) műszakbeosztás szerinti munkarendben,
 

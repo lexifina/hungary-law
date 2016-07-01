@@ -1,4 +1,4 @@
-13. § (1) Az alkalmazott egészségügyi dolgozóval a munkaidő-beosztást, amely tartalmazza az egészségügyi ügyelet és a készenlét beosztását is – kollektív szerződés eltérő rendelkezése hiányában – az Mt. 110. § (6) bekezdésében foglaltaktól eltérően legalább egy hónappal korábban és legalább egy hónapra előre, írásban kell közölni.
+13. § (1) Az alkalmazott egészségügyi dolgozóval a munkaidő-beosztást, amely tartalmazza az egészségügyi ügyelet és a készenlét beosztását is – kollektív szerződés eltérő rendelkezése hiányában – az Mt. 110. § (6) bekezdésében foglaltaktól eltérően legalább 15 nappal korábban és legalább egy hónapra előre, írásban kell közölni.
 
 (2) Kollektív szerződés az (1) bekezdés szerinti írásbeli közlés módját, formáját – különös tekintettel a közzététel helyben szokásos módjára vagy az elektronikus úton történő közlés lehetőségére – szabályozhatja.
 

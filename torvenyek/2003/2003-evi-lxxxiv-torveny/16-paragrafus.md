@@ -1,6 +1,6 @@
-## Közszolgálati jogviszony, kormányzati szolgálati jogviszony és szolgálati viszony
+## Közszolgálati jogviszony, kormányzati szolgálati jogviszony, állami szolgálati jogviszony és szolgálati viszony
 
-16. § (1) Az egészségügyi dolgozó közszolgálati jogviszony, kormányzati szolgálati jogviszony keretében csak az őt foglalkoztató közigazgatási szerv tevékenységével összefüggő egészségügyi tevékenység végzésére jogosult.
+16. § (1) Az egészségügyi dolgozó közszolgálati jogviszony, kormányzati szolgálati jogviszony, állami szolgálati jogviszony keretében csak az őt foglalkoztató közigazgatási szerv tevékenységével összefüggő egészségügyi tevékenység végzésére jogosult.
 
 (2) Az egészségügyi dolgozó jogosult egészségügyi tevékenység végzése céljából a külön törvényben nevesített szervekkel szolgálati viszonyt létesíteni.
 
@@ -23,5 +23,3 @@ kell érteni.
 (8) A Hjt. hatálya alá tartozók esetében a 11/A. § (4) bekezdésben foglaltak végrehajtásához az érintett orvosok esetében meg kell állapítani, hogy amennyiben közalkalmazotti jogviszonyban állnának, akkor iskolai végzettségüknek és közalkalmazotti jogiszonyban figyelembe vehető szolgálati idejüknek megfelelően mely Kjt. szerinti besorolási osztályba és fizetési fokozatba tartoznának.
 
 (9) A (4) bekezdésben foglaltakon túl a Hjt. hatálya alá tartozók esetében a 15/A. §-ban foglaltakat is alkalmazni kell.
-
-Jövedelemkiegészítés közalkalmazotti vagy kormányzati szolgálati jogviszonyban álló egészségügyi dolgozók illetményének és pénzellátásának együttfolyósítási tilalmára tekintettel
