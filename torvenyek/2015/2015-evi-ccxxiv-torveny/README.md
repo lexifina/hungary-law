@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-224-00-00
 | 2016-05-06 | 2016. évi XXXIV. törvény | 2015-224-00-00.9 |
 | 2016-05-20 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-224-00-00.10 |
 | 2016-05-21 | 2010. évi CXXX. törvény | 2015-224-00-00.11 |
+| 2016-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-224-00-00.12 |
