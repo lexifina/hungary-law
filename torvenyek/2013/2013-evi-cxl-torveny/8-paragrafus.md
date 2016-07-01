@@ -38,6 +38,8 @@ fedezetére vehető igénybe a végrehajtás szabályai szerint, ha az engedély
 
 (7) A fémkereskedő az engedélyben rögzített adatok változását haladéktalanul bejelenti a fémkereskedelmi hatósághoz, abban az esetben is, ha az egyébként az engedély módosítását nem igényli.
 
+(7a) A (7) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a fémkereskedő kéri – haladéktalanul értesíti a hivatalt.
+
 (8) Ha a fémkereskedő további telephely működtetését, vagy az engedélyezett tevékenység bővítését vagy szűkítését kéri, az engedélye módosítására irányuló kérelmet nyújt be.
 
 (9) Az e törvény szerinti engedélyt kérelmező egyéni vállalkozó, kérelmező szervezet vezetője, vezető tisztségviselője az engedély iránti kérelem benyújtásával egyidejűleg a fémkereskedelmi hatóság részére hatósági bizonyítvánnyal igazolja azt a tényt, hogy vele szemben nem áll fenn a 6. § (2) bekezdésében meghatározott kizáró ok, vagy az engedély iránti kérelem benyújtásakor már mentesült a büntetett előélethez fűződő hátrányok alól, vagy kéri, hogy e tények fennállására vonatkozó adatokat a bűnügyi nyilvántartó szerv a fémkereskedelmi hatóság részére – annak az e törvény szerinti engedély birtokában folytatható tevékenység engedélyezése iránti kérelem elbírálása céljából benyújtott adatigénylése alapján – továbbítsa. A fémkereskedelmi hatóság az e bekezdés alapján megismert személyes adatokat az engedélyezési eljárás jogerős befejezéséig kezeli.
