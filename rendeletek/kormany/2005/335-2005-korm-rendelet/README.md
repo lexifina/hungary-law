@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-335-20-
 | 2015-03-01 | 2005-335-20-22.15 | 30/2015. (II. 25.) Korm. rendelet |
 | 2015-03-25 | 2005-335-20-22.16 | 62/2015. (III. 24.) Korm. rendelet |
 | 2015-05-01 | 2005-335-20-22.17 | 113/2015. (IV. 30.) Korm. rendelet |
+| 2016-07-01 | 2005-335-20-22.18 | 113/2015. (IV. 30.) Korm. rendelet |

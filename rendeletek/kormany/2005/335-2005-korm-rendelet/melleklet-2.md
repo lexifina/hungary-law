@@ -58,11 +58,11 @@ m)[^167] feladóhoz visszaérkezett tértivevények;
 
 n)[^168] a fővárosi és megyei kormányhivatal családtámogatási és lakáscélú állami támogatási feladataival kapcsolatos küldemények;
 
-o)[^169] a földhivatalok, valamint a Földmérési és Távérzékelési Intézet feladatairól, illetékességi területéről, továbbá egyes földhivatali eljárások részletes szabályairól szóló 373/2014. (XII. 31.) Korm. rendelet I. Fejezete szerint meghatározott földügyi igazgatási feladatok körébe tartozó küldemények.
+o)[^169]
 
 [^164]: A 2. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
 [^165]: A 2. melléklet II. pont f) alpontja a 34/2015. (II. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
 [^166]: A 2. melléklet II. pont l) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
 [^167]: A 2. melléklet II. pont m) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
 [^168]: A 2. melléklet II. pont n) alpontját a 62/2015. (III. 24.) Korm. rendelet 11. § (5) bekezdése iktatta be.
-[^169]: A 2. melléklet II. pont o) alpontját a 113/2015. (IV. 30.) Korm. rendelet 5. §-a iktatta be.
+[^169]: A 2. melléklet II. pont o) alpontját a 113/2015. (IV. 30.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte ugyanezen módosító rendelet 7. §-a.
