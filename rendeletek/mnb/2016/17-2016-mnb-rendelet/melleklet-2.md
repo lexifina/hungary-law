@@ -1,4 +1,4 @@
-2. melléklet a 17/2016. (V. 11.) MNB rendelethez[^5]
+2. melléklet a 17/2016. (V. 11.) MNB rendelethez[^4]
 
 1. Az R. 2. melléklet II. pontjában az L11 MNB azonosító kódú adatszolgáltatás 03. táblája helyébe a következő 03. tábla lép:
 
@@ -38,4 +38,4 @@ Természetes személyek anonimizált jövedelmi és munkatörténet adatai
 
 Az ONYF az általa kezelt, egyedi szintű, a természetes személyek jövedelmét leíró, valamint a munkahelyükre és foglalkoztatottságukra vonatkozó, anonimizált adatokat az MNB-vel megkötött, mindenkor hatályos adatátadási szerződésnek megfelelően, az adatokat személyes jellegüktől megfosztva és anonim kapcsolati kóddal ellátva köteles megküldeni az MNB részére.”
 
-[^5]: A 2. melléklet 1–3. pontja a 6. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+[^4]: A 2. melléklet 1–3. pontja a 6. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
