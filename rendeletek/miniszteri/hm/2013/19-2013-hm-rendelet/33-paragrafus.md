@@ -1,4 +1,6 @@
-## VI. Fejezet[^23]
+## téríthető meg.
+
+## VI. Fejezet[^24]
 
 ## A BANKSZÁMLA – HOZZÁJÁRULÁS
 
@@ -12,4 +14,4 @@
 
 (5) Az (1) bekezdés szerinti bankszámla-hozzájárulás a jogosult részére csak egy jogcímen fizethető ki.
 
-[^23]: A VI. Fejezet (33. §) a 4/2014. (III. 20.) HM rendelet 4. §-ával megállapított szöveg.
+[^24]: A VI. Fejezet (33. §) a 4/2014. (III. 20.) HM rendelet 4. §-ával megállapított szöveg.
