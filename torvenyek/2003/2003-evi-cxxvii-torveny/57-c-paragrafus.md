@@ -8,6 +8,8 @@ kereskedelmi gázolaj után literenként 7 Ft visszaigényelhető.
 
 (2) Az (1) bekezdés szerinti adó-visszaigénylésre – figyelemmel a (3) bekezdés rendelkezésére is – a 7. § 51. pontjában meghatározott gépjármű vagy nyerges járműszerelvény (a továbbiakban együtt: kereskedelmi jármű) vámhatóság által e célból nyilvántartásba vett üzembentartója, illetve – bérelt kereskedelmi jármű esetében – bérbe vevője jogosult. A jogosult a nyilvántartásba vétel iránti kérelmet az adóvisszaigénylési jogosultság első ízben történő érvényesítése előtt legalább 30 nappal köteles benyújtani a vámhatósághoz. A kérelemnek tartalmaznia kell a jogosult adószámát, valamint képviselője természetes személyazonosító adatait, személyazonosításra alkalmas okmányának számát. A jogosult a vámhatóság által nyilvántartásba vett adatok változását legkésőbb a változás bekövetkezésétől számított 10 napon belül köteles a vámhatósághoz bejelenteni.
 
+(2a) A (2) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a jogosult kéri – a (2) bekezdésben meghatározott határidőn belül értesíti a vámhatóságot.
+
 (3) A belföldön székhellyel, telephellyel vagy fiókteleppel nem rendelkező, kereskedelmi járművet üzemeltető személy esetében e § rendelkezése a más tagállamban vagy EFTA-országban (azaz Norvégiában, Svájcban, Liechtensteinben vagy Izlandon) regisztrált és ott kiadott nemzetközi fuvarozási engedéllyel rendelkező személyre alkalmazható.
 
 (4) Az adó-visszaigénylési jog

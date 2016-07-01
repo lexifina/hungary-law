@@ -1,0 +1,1 @@
+130. § Katasztrófa esetén a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló törvény szerinti megyei, fővárosi védelmi bizottságok elnökei, illetve az érintett területek polgármesterei felhatalmazást kapnak arra, hogy az üzemanyag-ellátás biztosítására a vámhatóság bevonásával e törvény előírásaitól eltérően is intézkedhetnek.

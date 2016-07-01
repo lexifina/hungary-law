@@ -42,6 +42,8 @@ a 38. § (4) bekezdésének figyelembevételével.
 
 (7) Az adóraktár engedélyese az engedélykérelemben megadott, illetve az engedélyben rögzített adatok változását haladéktalanul köteles a vámhatósághoz bejelenteni, abban az esetben is, ha az egyébként az adóraktári engedély módosítását nem igényli.
 
+(7a) A (7) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az adóraktár engedélyese kéri – haladéktalanul értesíti a vámhatóságot.
+
 (8) Ha az adóraktár engedélyese további adóraktár működtetését, vagy adóraktárában az engedélyezett tevékenység bővítését vagy szűkítését kéri, az adóraktári engedélye módosítására irányuló kérelmet kell benyújtania.
 
 (9)
