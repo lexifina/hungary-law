@@ -10,6 +10,6 @@ c) a kitoloncolási őrizet törvényességének bírósági felülvizsgálata �
 
 (3) A közlés tényét és időpontját jegyzőkönyvbe kell foglalni, és azt az ügyféllel alá kell íratni.
 
-(4) Ha az ügyfél ismeretlen helyen tartózkodik – az (5) bekezdésben foglalt eltéréssel –, a határozat és a végzés közlése hirdetményi úton történik. Kézbesítési ügygondnok kirendelésének nincs helye.
+(4) Ha az ügyfél ismeretlen helyen tartózkodik, a határozat és a végzés közlése hirdetményi úton történik. Kézbesítési ügygondnok kirendelésének nincs helye. A hirdetményt kizárólag a döntést hozó hatóság hirdetőtábláján kell kifüggeszteni és a jogszabályban meghatározott honlapon kell közzétenni.
 
-(5) Ha a beutazási és tartózkodási tilalmat a 38. § (1) bekezdése alapján rendelték el, a határozat rendelkező részét jogszabályban meghatározott honlapon kell közzétenni. A közzététel napján a határozatot közöltnek kell tekinteni.
+(5) Ha az ügyfél ismeretlen helyen tartózkodik és a beutazási és tartózkodási tilalmat a 38. § (1) bekezdése alapján vagy a 40. § (2) bekezdés c) pontja alapján elrendelt kiutasításhoz kapcsolódóan rendelték el, a (4) bekezdéstől eltérően a hirdetményi úton történő közlés a határozat rendelkező részének a jogszabályban meghatározott honlapon való közzétételével történik és e közzététel napján a határozatot közöltnek kell tekinteni.

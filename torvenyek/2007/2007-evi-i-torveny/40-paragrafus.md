@@ -8,7 +8,7 @@ a) aki Magyarország területének elhagyására vonatkozó kötelezettségének
 
 b) akinek a beutazási vagy a tartózkodási joga nem áll fenn, de aki ennek ellenére a beutazási vagy a tartózkodási joga igazolása céljából az eljáró hatóság előtt hamis adatra vagy valótlan tényre hivatkozott,
 
-c) akinek beutazása vagy tartózkodása valódi, közvetlen és súlyos veszélyt jelent Magyarország nemzetbiztonságára.
+c) akinek beutazása vagy tartózkodása valódi, közvetlen és súlyos veszélyt jelent Magyarország közrendjére, köz- vagy nemzetbiztonságára.
 
 (3) Az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból törvényben meghatározott érdek védelmével kapcsolatos feladatuk ellátása céljából a kormányrendeletben meghatározott rendvédelmi szervek is kezdeményezhetik. Ha az idegenrendészeti kiutasítást a (2) bekezdés c) pontjában foglalt okból rendelik el, a beutazási és tartózkodási tilalom időtartamára – a feladat- és hatáskörüket érintő esetben – a kormányrendeletben meghatározott rendvédelmi szervek javaslatot tesznek.
 

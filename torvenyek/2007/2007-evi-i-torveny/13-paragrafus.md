@@ -5,3 +5,5 @@
 a) kötelező katonai szolgálat vagy
 
 b) egyszeri, legfeljebb tizenkét hónapig folyamatosan fennálló fontos ok, különösen terhesség, szülés, súlyos betegség, tanulmányok folytatása, szakképzés vagy kiküldetés.
+
+(3) Az eljáró hatóság a tartózkodási joggal felhagyás tényét megállapító határozatban az EGT-állampolgár vagy a családtag részére kiállított, tartózkodási jogot igazoló okmány érvénytelenségét megállapítja és az okmányt visszavonja.

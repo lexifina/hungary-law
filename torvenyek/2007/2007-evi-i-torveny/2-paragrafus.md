@@ -20,9 +20,9 @@ bg) a kiskorú magyar állampolgár felett szülői felügyeleti joggal rendelke
 
 bh) akinek az eljáró hatóság családtagként való beutazását és tartózkodását engedélyezi,
 
-bi) az EGT-állampolgár harmadik országbeli állampolgár élettársa, amennyiben magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített,
+bi) az EGT-állampolgár élettársa, amennyiben magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített,
 
-bj) a magyar állampolgár harmadik országbeli állampolgár élettársa, amennyiben magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített;
+bj) a magyar állampolgár élettársa, amennyiben magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített;
 
 c) keresőtevékenységet folytat:
 

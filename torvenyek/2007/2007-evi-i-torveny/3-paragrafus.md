@@ -18,6 +18,6 @@ b) – abban az országban, ahonnan érkeznek – az EGT-állampolgár eltartott
 
 (5) A beutazásra a személyek határátlépésére irányadó szabályok közösségi kódexének létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: Schengeni határ-ellenőrzési kódex) foglalt szabályokat is alkalmazni kell.
 
-(6) Az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter által – a közbiztonság és a nemzetbiztonság védelme érdekében – meghatározott esetekben a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki.
+(6)
 
 (7) A központi vízumhatóság a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiadásához való hozzájárulás megadása előtt köteles egyeztetni azon schengeni államok központi hatóságaival, amelyek az egyeztetést kérik.

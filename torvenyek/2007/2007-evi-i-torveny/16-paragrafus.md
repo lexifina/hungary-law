@@ -12,7 +12,7 @@ d) az állandó tartózkodásra jogosult szülőnek Magyarország területén sz
 
 (2) Állandó tartózkodásra jogosult
 
-a) a magyar állampolgár családtagja – a házastárs kivételével –, ha megszakítás nélkül legalább egy éve magyar állampolgárral családi életközösségben él,
+a) a magyar állampolgár családtagja – a házastárs, valamint a 8. § (1) bekezdés a) pontja alapján tartózkodásra jogosult személy kivételével –, ha megszakítás nélkül legalább egy éve magyar állampolgárral családi életközösségben él,
 
 b) a magyar állampolgár házastársa, feltéve, hogy a házasságot a kérelem benyújtását megelőzően legalább két éve megkötötték, és azóta életközösségük folyamatosan fennáll.
 
