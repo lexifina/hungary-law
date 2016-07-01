@@ -12,7 +12,7 @@ c) a háziorvosi ügyeleti szolgáltatásra szerződéssel rendelkező szolgált
 
 d)[^36] a fogászati alapellátást nyújtó szolgáltató díjazásából az adott ellátás után járó teljesítménydíj 10%-a, de legfeljebb 1000 forint
 
-## kerül levonásra.
+kerül levonásra.
 
 (4)[^37] A háziorvosi, a házi gyermekorvosi, a háziorvosi ügyeleti szolgáltató és a fogászati alapellátást nyújtó egészségügyi szolgáltató a Vhr. 12/B. §-ában előírt ellenőrzési kötelezettség teljesítése esetén, ellátási esetenként 50 forint ellenőrzési díjra jogosult. A díjazás szempontjából ellátási esetnek minősül az adott ellátási formában egy biztosított egy napon történt ellátása.
 

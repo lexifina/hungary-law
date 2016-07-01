@@ -58,3 +58,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2015-07-22 | 1999-43-20-22.128 | 192/2015. (VII. 21.) Korm. rendelet |
 | 2015-10-01 | 1999-43-20-22.129 | 192/2015. (VII. 21.) Korm. rendelet |
 | 2016-01-01 | 1999-43-20-22.130 | 413/2015. (XII. 23.) Korm. rendelet |
+| 2016-07-01 | 1999-43-20-22.131 | 172/2016. (VII. 1.) Korm. rendelet |

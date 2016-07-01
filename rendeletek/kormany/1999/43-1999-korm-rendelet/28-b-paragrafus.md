@@ -1,4 +1,4 @@
-28/B. §[^317] (1)[^318]
+28/B. §[^313] (1)[^314]
 
 (2) Az aktív fekvőbeteg-szakellátás területén
 
@@ -12,11 +12,11 @@ d) az 1900 tüdőgyógyászat szakma III. progresszivitási szintjén
 
 szakmaspecifikus őrzőt működtető egészségügyi szolgáltató 300 000 Ft havi fix összegű díjra jogosult szakmánként azzal, hogy a díjazás nem növelhető több, azonos szakmához tartozó őrző működtetése esetén.
 
-(2a)[^319] Az egészségügyi szolgáltató a 2012. december 31-ét követő intézményi integrációt megelőzően önálló egészségügyi szolgáltatóként működő telephelye után is jogosult a (2) bekezdés szerinti díjazásra, ha arra a telephely az integrációt megelőzően jogosult volt.
+(2a)[^315] Az egészségügyi szolgáltató a 2012. december 31-ét követő intézményi integrációt megelőzően önálló egészségügyi szolgáltatóként működő telephelye után is jogosult a (2) bekezdés szerinti díjazásra, ha arra a telephely az integrációt megelőzően jogosult volt.
 
-(3)[^320] A (2) bekezdés szerinti díjazás fedezetére az 5. számú melléklet szerinti összevont szakellátás előirányzata szolgál.
+(3)[^316] A (2) bekezdés szerinti díjazás fedezetére az 5. számú melléklet szerinti összevont szakellátás előirányzata szolgál.
 
-[^317]: A 28/B. §-t újonnan a 447/2012. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
-[^318]: A 28/B. § (1) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.
-[^319]: A 28/B. § (2a) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 23. §-a iktatta be, szövege a 192/2015. (VII. 21.) Korm. rendelet 26. § k) pontja szerint módosított szöveg.
-[^320]: A 28/B. § (3) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 26. § l) pontja szerint módosított szöveg.
+[^313]: A 28/B. §-t újonnan a 447/2012. (XII. 29.) Korm. rendelet 21. §-a iktatta be.
+[^314]: A 28/B. § (1) bekezdését a 192/2015. (VII. 21.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.
+[^315]: A 28/B. § (2a) bekezdését a 254/2013. (VII. 5.) Korm. rendelet 23. §-a iktatta be, szövege a 192/2015. (VII. 21.) Korm. rendelet 26. § k) pontja szerint módosított szöveg.
+[^316]: A 28/B. § (3) bekezdése a 192/2015. (VII. 21.) Korm. rendelet 26. § l) pontja szerint módosított szöveg.
