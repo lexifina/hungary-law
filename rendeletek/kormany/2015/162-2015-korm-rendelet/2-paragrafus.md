@@ -1,12 +1,10 @@
-## terjed ki.
-
 ## 2. Értelmező rendelkezések
 
 ## 2. § E rendelet alkalmazásában:
 
 1. akkreditáció: az ENKK által lefolytatott minősítési eljárás, amelynek során az egészségügyi szolgáltató jogosultságot szerez szakorvos, szakfogorvos, szakgyógyszerész, szakpszichológus jelöltek képzésére egy meghatározott szakképesítés vonatkozásában, és amely adott intézményre, illetve a képzési program egészére, vagy a képzési program egyes – miniszteri rendeletben meghatározott – képzési elemeire vonatkozik,
 
-2.[^1] elsődleges képzőhely: a támogatott szakképzésben az ENKK által a szakképzés lefolytatására munkavégzési helyként elsődlegesen kijelölt, az adott szakképzés vonatkozásában akkreditációval rendelkező egészségügyi szolgáltató, ideértve az egyetemeket is,
+2.[^1] elsődleges képzőhely: a támogatott szakképzésben az ENKK által a szakképzés lefolytatására munkavégzési helyként elsődlegesen kijelölt, az adott szakképzés vonatkozásában akkreditációval rendelkező egészségügyi szolgáltató, ideértve az egyetemeket és az igazságügyi orvostan szakképzést biztosító szolgáltatókat is,
 
 3. jelölt: a rezidens, valamint a költségtérítéses szakképzésben részt vevő személy,
 
@@ -20,4 +18,4 @@
 
 8. támogatott szakképzés: a rezidens képzésével és foglalkoztatásával összefüggő költségeket központi költségvetési forrásból biztosító szakképzés.
 
-[^1]: A 2. § 2. pontja a 333/2015. (XI. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^1]: A 2. § 2. pontja a 333/2015. (XI. 10.) Korm. rendelet 1. §-ával megállapított, a 172/2016. (VII. 1.) Korm. rendelet 77. § a) pontja szerint módosított szöveg.

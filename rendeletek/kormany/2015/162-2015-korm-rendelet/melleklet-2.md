@@ -1,6 +1,6 @@
 2. melléklet a 162/2015. (VI. 30.) Korm. rendelethez
 
-## Beszámoló a fiatal szakorvosok támogatásának biztosításához a fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltató által igénybe vett támogatásról
+Beszámoló a fiatal szakorvosok támogatásának biztosításához a fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltató által igénybe vett támogatásról
 
 1. A fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltatóra vonatkozó adatok
 

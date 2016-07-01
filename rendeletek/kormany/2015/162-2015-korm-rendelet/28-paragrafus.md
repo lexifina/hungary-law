@@ -30,13 +30,13 @@ a) a 8. § (1) bekezdése szerinti esetekben az ott meghatározott körülmény 
 
 b) a vállalási időszakban összesen legfeljebb 12 hónap időtartamra
 
-## szüneteltethető.
+szüneteltethető.
 
 (6) A pályázatnak a (2) bekezdés alapján meghatározott szempontok szerinti értékelését követően a rezidens és a szakgyógyszerész-jelölt RTP-be történő felvételéről az ENKK elnöke dönt.
 
-(6a)[^18] Az ENKK az RTP-be a (6) bekezdés alapján felvett rezidenssel és szakgyógyszerész-jelölttel szerződést köt, amely szerződés meghatározza a 26. § (5) bekezdése szerinti nyilatkozattétel és az ösztöndíj kifizetésének részletes szabályait is.
+(6a)[^25] Az ENKK az RTP-be a (6) bekezdés alapján felvett rezidenssel és szakgyógyszerész-jelölttel szerződést köt, amely szerződés meghatározza a 26. § (5) bekezdése szerinti nyilatkozattétel és az ösztöndíj kifizetésének részletes szabályait is.
 
-(7)[^19] Ha a rezidens és a szakgyógyszerész-jelölt a (3) bekezdés c) és d) pontja szerinti vállalását nem teljesíti vagy a 26. § (6) bekezdése szerinti ellenőrzése alapján az ENKK megállapítja, hogy a rezidens, illetve a szakgyógyszerész-jelölt nyilatkozata alapján jogosulatlanul került sor az ösztöndíj kifizetésére, az államháztartásról szóló törvény rendelkezéseire figyelemmel a rezidens, illetve a szakgyógyszerész-jelölt a részére folyósított ösztöndíj visszafizetésére köteles.
+(7)[^26] Ha a rezidens és a szakgyógyszerész-jelölt a (3) bekezdés c) és d) pontja szerinti vállalását nem teljesíti vagy ha a 22. §-ban meghatározott feltételek megállapítására kerül sor, továbbá ha a 26. § (6) bekezdése szerinti ellenőrzése alapján az ENKK megállapítja, hogy a rezidens, illetve a szakgyógyszerész-jelölt nyilatkozata alapján jogosulatlanul került sor az ösztöndíj kifizetésére, az államháztartásról szóló törvény rendelkezéseire figyelemmel a rezidens, illetve a szakgyógyszerész-jelölt a részére folyósított ösztöndíj visszafizetésére köteles.
 
-[^18]: A 28. § (6a) bekezdését a 90/2016. (IV. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^19]: A 28. § (7) bekezdése a 90/2016. (IV. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^25]: A 28. § (6a) bekezdését a 90/2016. (IV. 29.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^26]: A 28. § (7) bekezdése a 90/2016. (IV. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 172/2016. (VII. 1.) Korm. rendelet 77. § f) pontja szerint módosított szöveg.

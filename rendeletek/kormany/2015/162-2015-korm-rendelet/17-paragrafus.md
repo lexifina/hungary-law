@@ -30,6 +30,6 @@ e) az egészségügyi dolgozók demográfiai adatainak, valamint az azokból lev
 
 f) egyes állami kötelezettségvállalásból fakadó feladatok teljesítésének
 
-## a figyelembevételével kerül sor.
+a figyelembevételével kerül sor.
 
 (4) A szakorvosi képzés tekintetében az (1) bekezdés szerinti közzététellel egyidejűleg, az ott meghatározott időtartamra vonatkozóan a miniszter a (2) bekezdés b) pontja szerinti keretszámok vonatkozásában meghatározza és az ENKK a honlapján közzéteszi fővárosi és megyénkénti bontásban a hiányszakmák körét. A miniszter a (2) bekezdés a) pontja, valamint d) és e) pontja szerinti keretszámok tekintetében is meghatározza, hogy az ott megjelölt szakmák mely megyében minősülnek hiányszakmának.

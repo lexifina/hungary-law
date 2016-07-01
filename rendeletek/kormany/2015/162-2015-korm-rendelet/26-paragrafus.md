@@ -12,18 +12,19 @@ b) egyes, a miniszter által meghatározott speciális szakterületeken a szakk�
 
 c) az egészségügyi ellátás szempontjából hiányszakmának minősülő területen elhelyezkedő rezidensek részére hiányszakmás ösztöndíjat
 
-## [az a)–c) pont szerinti ösztöndíj a továbbiakban együtt: ösztöndíj] alapít.
+[az a)–c) pont szerinti ösztöndíj a továbbiakban együtt: ösztöndíj] alapít.
 
 (2) Az ösztöndíj időtartama az adott rezidensnek, valamint szakgyógyszerész-jelöltnek az egyes szakképesítések képzési követelményeit meghatározó miniszteri rendeletben meghatározott szakképzési idejéből az ösztöndíj odaítélésekor hátralévő időtartam.
 
-(3)[^15] A 9. § (1) bekezdés a) pontja szerinti nyilvántartáshoz kapcsolódó elektronikus felületen a képzőhely és az egyetem havonta köteles igazolni a jelölt teljesítését.
+(3)[^21] A 9. § (1) bekezdés a) pontja szerinti nyilvántartáshoz kapcsolódó elektronikus felületen a képzőhely és az egyetem havonta köteles igazolni a jelölt teljesítését.
 
-(4) A hiányszakmás ösztöndíjra a szakképzését a 17. § (4) bekezdése szerinti hiányszakmában megkezdő jelölt jelentkezhet.
+(4)[^22] A hiányszakmás ösztöndíjra az a rezidens nyújthat be pályázatot, aki a szakképzését az ösztöndíj meghirdetésének évében a 17. § (4) bekezdése szerinti hiányszakmában kezdte meg, vagy hiányszakmára szakot, illetve egészségügyi szolgáltatót váltott.
 
-(5)[^16] Az ösztöndíjak folyósításának feltétele, hogy a rezidens és a szakgyógyszerész-jelölt az egyedi azonosítását követően elektronikus úton nyilatkozzon arról, hogy a képzési tervében foglaltaknak megfelelően adott hónap vonatkozásában teljesítette a szakképzését.
+(5)[^23] Az ösztöndíjak folyósításának feltétele, hogy a rezidens és a szakgyógyszerész-jelölt az egyedi azonosítását követően elektronikus úton nyilatkozzon arról, hogy a képzési tervében foglaltaknak megfelelően adott hónap vonatkozásában teljesítette a szakképzését.
 
-(6)[^17] Az (5) bekezdés szerinti nyilatkozattétel jogszerűségét az ENKK a (3) bekezdés szerinti képzőhelyi és egyetemi adatszolgáltatás alapján folyamatosan ellenőrzi.
+(6)[^24] Az (5) bekezdés szerinti nyilatkozattétel jogszerűségét az ENKK a (3) bekezdés szerinti képzőhelyi és egyetemi adatszolgáltatás alapján folyamatosan ellenőrzi.
 
-[^15]: A 26. § (3) bekezdése a 90/2016. (IV. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^16]: A 26. § (5) bekezdését a 90/2016. (IV. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^17]: A 26. § (6) bekezdését a 90/2016. (IV. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^21]: A 26. § (3) bekezdése a 90/2016. (IV. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^22]: A 26. § (4) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 73. §-ával megállapított szöveg.
+[^23]: A 26. § (5) bekezdését a 90/2016. (IV. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^24]: A 26. § (6) bekezdését a 90/2016. (IV. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
