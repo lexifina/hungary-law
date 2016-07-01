@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-1-00-00
 | 2015-04-01 | 2015. évi VIII. törvény | 2010-1-00-00.3 |
 | 2015-08-01 | 2015. évi CXI. törvény | 2010-1-00-00.4 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2010-1-00-00.5 |
+| 2016-07-01 | 2016. évi LXIV. törvény | 2010-1-00-00.6 |
