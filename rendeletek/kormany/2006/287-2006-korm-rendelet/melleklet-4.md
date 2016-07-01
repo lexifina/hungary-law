@@ -46,7 +46,7 @@
 
 ## Zala megye.
 
-## 4. Debreceni Egyetem Orvos- és Egészségtudományi Centrum Sebészeti Klinika (4012 Debrecen, Nagyerdei körút 98.)
+## 4.[^64] Debreceni Egyetem Klinikai Központ Sebészeti Klinika (4012 Debrecen, Nagyerdei körút 98.)
 
 ## Illetékességi terület:
 
@@ -108,6 +108,7 @@
 
 ## Zala megye.
 
-4. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^63]
+4. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^65]
 
-[^63]: A 4. számú melléklet a 370/2007. (XII. 23.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^64]: A 3. számú melléklet A) rész 4. pontja a 172/2016. (VII. 1.) Korm. rendelet 28. §-a szerint módosított szöveg.
+[^65]: A 4. számú melléklet a 370/2007. (XII. 23.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
