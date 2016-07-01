@@ -81,3 +81,21 @@ a gyógyszertár megnyitását követő legalább öt éven keresztül. A da)–
 (11) Ha a (10) bekezdés szerint sem lehet dönteni a pályázat nyerteséről, az a pályázó nyer, akinek pályázata korábban került benyújtásra az egészségügyi államigazgatási szerv részére. E bekezdés tekintetében benyújtásnak kell tekintetni a postára adást is.
 
 (12) A (6) bekezdés szerinti létesítési határozatot az egészségügyi államigazgatási szerv visszavonja, ha a gyógyszertár működtetését a létesítési határozatban rögzített határnapig nem kezdik meg.
+
+(13) Érvénytelen a pályázat, ha
+
+a) a pályázó a pályázat benyújtására nem jogosult,
+
+b) a pályázat hiányosan került benyújtásra,
+
+c) a pályázat nem felel meg a pályázati felhívásban foglaltaknak, vagy
+
+d) azt határidőn túl nyújtották be.
+
+(14) Az érvénytelen pályázatot benyújtó pályázó a pályázati eljárásban, illetve annak további szakaszában nem vehet részt.
+
+(15) Eredménytelen a pályázati eljárás, ha
+
+a) nem érkezett pályázat vagy
+
+b) nem érkezett érvényes pályázat.

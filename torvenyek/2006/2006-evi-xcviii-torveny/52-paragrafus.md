@@ -8,6 +8,8 @@
 
 (4) A kézigyógyszertárban tartható gyógyszereket csak közforgalmú gyógyszertárból lehet beszerezni. A kézigyógyszertár ellátására elsősorban a háziorvos működési engedélyében megjelölt telephelyhez legközelebb található közforgalmú gyógyszertárral köthető megállapodás. Egy közforgalmú gyógyszertár legfeljebb négy kézigyógyszertár ellátására köthet megállapodást.
 
+(4a) Ha a legközelebb eső közforgalmú gyógyszertárral a megállapodás nem jön létre, más – a közúton történő megközelítés figyelembevételével közelebb eső, de a létesíteni kívánt kézigyógyszertártól legfeljebb 30 km távolságra működő – közforgalmú gyógyszertárral köthető gyógyszerellátásra megállapodás.
+
 (5) A háziorvos a kézigyógyszertárból csak a nyilvántartásában szereplő beteg részére és csak az általa rendelt gyógyszert szolgáltathatja ki a sürgős szükség esetét kivéve.
 
 (6) A külön jogszabály szerinti – árhoz nyújtott támogatással történő gyógyszerrendelésre jogosító – szerződésben az egészségbiztosítási szerv a szakmailag megalapozott, hatékony és gazdaságos gyógyszerrendelés szakmai szabályaira figyelemmel meghatározhatja a háziorvos kézigyógyszertárából kiszolgáltatható közfinanszírozott gyógyszerek körét.
