@@ -40,7 +40,7 @@
 
 ## 1. okmányazonosító (elnevezése, száma);
 
-## 2. név – családi és utónév (nevek) –;
+## 2. név - családi és utónév (nevek) -;
 
 ## 3. születési helye (település, ország);
 
@@ -62,7 +62,7 @@
 
 ## 12. megjegyzés [„EGT-állampolgár családtagja”];
 
-## 13. egyéb megjegyzés [az EGT-állampolgár tartózkodási jogcíme].
+## 13. egyéb megjegyzés [„tartózkodási kártya EGT állampolgár családtagja részére”/ „residence card issued to family members of EEA citizens”].
 
 ## b) magyar állampolgár harmadik ország állampolgárságával rendelkező családtagja részére
 
@@ -94,10 +94,6 @@
 
 ## 10. géppel olvasható terület.
 
-## 2. név – családi és utónév (nevek) –;
-
-## 3. születési helye (település, ország);
-
 ## 3. Állandó tartózkodási kártya
 
 ## Az okmány megnevezése: állandó tartózkodási kártya
@@ -107,6 +103,10 @@
 ## Az okmány adattartalma a következő:
 
 ## 1. az okmányazonosító (elnevezése, száma);
+
+## 2. név - családi és utónév (nevek) -;
+
+## 3. születési helye (település, ország);
 
 ## 4. születési ideje;
 
@@ -120,9 +120,9 @@
 
 ## 9. érvényességi idő;
 
-## 10. hátoldalon kiegészítő információ: csak érvényes személyi igazolvánnyal vagy úti okmánnyal (harmadik ország állampolgárságával rendelkező családtag esetén úti okmánnyal) együtt érvényes.
+## 10. hátoldalon kiegészítő információ: Csak érvényes személyi igazolvánnyal vagy úti okmánnyal (harmadik ország állampolgárságával rendelkező családtag esetén úti okmánnyal) együtt érvényes./Valid together with a valid personal identification document or travel document. (In case of third country national family member only with valid travel document.)
 
-7. melléklet a 25/2007. (V. 31.) IRM rendelethez[^47]
+7. melléklet a 25/2007. (V. 31.) IRM rendelethez[^58]
 
 ## 1M40933O_0
 
@@ -158,4 +158,4 @@ I. Alulírott
 
 II. Alulírott
 
-[^47]: A 7. melléklet a 68/2011. (XII. 30.) BM rendelet 24. § b) pontja szerint módosított szöveg.
+[^58]: A 7. melléklet a 68/2011. (XII. 30.) BM rendelet 24. § b) pontja szerint módosított szöveg.

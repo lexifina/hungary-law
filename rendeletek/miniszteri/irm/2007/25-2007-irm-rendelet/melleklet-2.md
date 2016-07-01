@@ -1,110 +1,108 @@
 ## ADATLAP A REGISZTRÁCIÓS IGAZOLÁS KIÁLLÍTÁSÁHOZ ÉS A LAKÓHELY BEJELENTÉSÉHEZ
 
-| Az okmánykiadás kezdeményezésének dátuma: |  |  |  |  |
+| Az okmánykiadás kezdeményezésének dátuma: | Gépi ügyszám: ⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜ |
 
-| ____ év __ hónap __ nap |  | Gépi ügyszám: /_/_/_/_/_/_/_/_/_/_/ |
+| ____ év ____ hónap ____ nap |  |
 
-| Az okmány kiállításának jogalapja: |  |  |  |  |
+| Az okmány kiállításának jogalapja: |  |
 
-| ⬜ keresőtevékenység folytatása |  |  |  |  |
+| □ keresőtevékenység folytatása □ tanulmányok folytatása |  |  |  |
 
-| ⬜ tanulmányok folytatása |  |  |  |  |
+| □ családtag □ egyéb |  |  |  |
 
-| ⬜ családtag |  |  |  |  |
+| Kérelmező telefonszáma: |  | [A kérelmező (törvényes képviselő) saját kezű aláírás mintája] |  |
 
-| ⬜ egyéb |  |  |  |  |
-
-|  |  | [A kérelmező (törvényes képviselő) saját kezű aláírás mintája] Az aláírásnak teljes terjedelmével a keretvonalon belülre kell esni! |
+| Kérelmező e-mail címe: |  | Az aláírásnak teljes terjedelmével a keretvonalon belülre kell esni! |  |
 
 | I. Tartózkodásra jogosult személy adatai |
 
 |  | A jogosult neve |  |
 
-| 1. Családi neve: | ____________________________________ |
+| 1. Családi neve: |  |
 
-| 2. Utóneve(i): | ____________________________________ |
+| 2. Utóneve(i): |  |
 
 |  | Előző vagy születési neve |  |
 
-| 3. Családi neve: | ____________________________________ |
+| 3. Családi neve: |  |
 
-| 4. Utóneve(i): | ____________________________________ |
+| 4. Utóneve(i): |  |
 
 |  | Anyja születési neve |  |
 
-| 5. Családi neve: | ____________________________________ |
+| 5. Családi neve: |  |
 
-| 6. Utóneve(i): | ____________________________________ |
+| 6. Utóneve(i): |  |
 
 |  | Születési helye |  |
 
-| 7. Ország: | ____________________________________ |
+| 7. Ország: |  |
 
-| 8. Település: | ____________________________________ |
+| 8. Település: |  |
 
-| 9. Születési ideje: | ____ év __ hónap __ nap |
+| 9. Születési ideje: | ____ év ____ hónap ____ nap |
 
-| 10. Neme: | Férfi ⬜ | Nő: ⬜ |
+| 10. Neme: | Férfi □ | Nő: □ |
 
-| 11. Állampolgársága: | ____________________________________ |
+| 11. Állampolgársága: |  |
 
-| 12. Családi állapota: | ⬜ Nőtlen/Hajadon | ⬜ Házas | ⬜ Özvegy |
+| 12. Családi állapota: | □Nőtlen/Hajadon | □Házas | □Özvegy |
 
-|  | ⬜ Elvált |  |  |
+|  | □Elvált |  |  |
 
 | II. Úti okmányának vagy személyazonosító igazolványának adatai |
 
-| 21. Nevezze meg okmányának típusát: | ⬜ úti okmány ⬜ személyazonosító igazolvány |
+| 21. Nevezze meg okmányának típusát: | □úti okmány □személyazonosító igazolvány |
 
-| 22. Okmányának száma: | _________________ |
+| 22. Okmányának száma: |  |
 
-| 23. Úti okmány típusa: | ⬜ Magánútlevél | ⬜ Szolgálati útlevél | ⬜ Diplomata útlevél |
+| 23. Úti okmány típusa: | □Magánútlevél | □Szolgálati útlevél | □Diplomata útlevél |
 
-|  | ⬜ Egyéb, éspedig |  |  |
+|  | □Egyéb, éspedig | ____ |
 
 |  | Az okmány kiállításának helye |  |
 
-| 24. Ország: | ____________________________________ |
+| 24. Ország: |  |
 
-| 25. Település: | ____________________________________ |
+| 25. Település: |  |
 
-| 26. Kiállítási ideje: | ____ év __ hónap __ nap |
+| 26. Kiállítási ideje: | ____ év ____ hónap ____ nap |
 
-| 27. Érvényessége: | ____ év __ hónap __ nap |
+| 27. Érvényessége: | ____ év ____ hónap ____ nap |
 
 | III. Magyarországi lakóhelye |
 
-| 31. Irányítószám: | ____ |
+| 31. Irányítószám: |  |
 
-| 32. Település: | ____________________________________ Kerület: __ |
+| 32. Település: | Kerület: |
 
-| 33. Közterület neve: | ____________________________________ |
+| 33. Közterület neve: |  |
 
-| 34. Közterület jellege (út, utca, tér stb.): | ____________________________________ |
+| 34. Közterület jellege (út, utca, tér stb.): |  |
 
-| 35. Házszám / Helyrajzi szám: | ____________________________________ |
+| 35. Házszám / Helyrajzi szám: |  |
 
-| Épület: ____ | Lépcsőház: ____ | Emelet: __ | Ajtó: ____ |
+| Épület: | Lépcsőház: | Emelet: | Ajtó: |
 
-| 36. A lakcímre való bejelentkezés jogalapja: ⬜ Kijelentem, hogy a feltüntetett lakás felett tulajdonjoggal rendelkezem. ⬜ Mellékelem a feltüntetett lakás tulajdonosának vagy a lakás használatára egyéb jogcímen jogosultnak a hozzájáruló nyilatkozatát. |
+| 36. A lakcímre való bejelentkezés jogalapja: □Kijelentem, hogy a feltüntetett lakás felett tulajdonjoggal rendelkezem. □Mellékelem a feltüntetett lakás tulajdonosának vagy a lakás használatára egyéb jogcímen jogosultnak a hozzájáruló nyilatkozatát. |
 
 | IV. Egyéb adatok |
 
 | 41. Rendelkezik-e a magyarországi tartózkodás idejére egészségbiztosítással? |
 
-| ⬜ Igen ⬜ Nem, az egészbiztosítási szolgáltatások fedezetéről magam gondoskodom. |
+| □Igen □Nem, az egészségbiztosítási szolgáltatások fedezetéről magam gondoskodom. |
 
 | 42. Tudomása szerint szenved-e gyógykezelésre szoruló HIV/AIDS, továbbá tbc, hepatitis B, luesz, lepra, hastífusz fertőző betegségekben, illetve hordozza-e szervezetében a HIV, a hepatitis B, valamint a hastífusz vagy paratífusz kórokozóit? |
 
-| Igen ⬜ | Nem ⬜ |
+| Igen □ | Nem □ |
 
-| 43. Amennyiben a fenti megbetegedésekben szenved, fertőzőképes, illetve kórokozó hordozó állapotban van, részesül-e kötelező és rendszeres egészségügyi ellátásban? |
+| 43. Ha a fenti megbetegedésekben szenved, fertőzőképes, illetve kórokozó hordozó állapotban van, részesül-e kötelező és rendszeres egészségügyi ellátásban? |
 
-| Igen ⬜ | Nem ⬜ |
+| Igen □ | Nem □ |
 
 | 44. Magyarországra érkezését megelőző állandó vagy szokásos tartózkodási helye: Ország: Település: Közterület neve: |
 
-| 45. Amennyiben felhagy a tartózkodási jog gyakorlásával, illetve tartózkodási joga megszűnését követően melyik országba utazik tovább? Ország: |
+| 45. Ha felhagy a tartózkodási jog gyakorlásával, illetve tartózkodási joga megszűnését követően melyik országba utazik tovább? Ország: |
 
 | Kijelentem, hogy az előzőekben leírt adatok a valóságnak megfelelnek. |
 
@@ -118,12 +116,12 @@
 
 | Kiadott okmány száma: | ________________ |
 
-| A regisztrációs igazolást átvettem. |  |
+| A regisztrációs igazolást átvettem. |
 
 | Kelt: ........................................... | .......................................... (a kérelmező aláírása) |
 
 | Az illetékbélyeg helye: |
 
-2. melléklet a 25/2007. (V. 31.) IRM rendelethez[^42]
+2. melléklet a 25/2007. (V. 31.) IRM rendelethez[^53]
 
-[^42]: A 2. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^53]: A 2. melléklet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés b) pontjával megállapított szöveg.

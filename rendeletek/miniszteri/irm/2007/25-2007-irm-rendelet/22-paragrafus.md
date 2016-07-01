@@ -1,1 +1,0 @@
-## 21. § A harmadik országbeli állampolgár tartózkodási okmányának cseréje iránti kérelmet az e rendelet 21. mellékletében meghatározott formanyomtatványon, a tartózkodási okmány pótlása iránti kérelmet az e rendelet 22. mellékletében meghatározott formanyomtatványon kell benyújtani.

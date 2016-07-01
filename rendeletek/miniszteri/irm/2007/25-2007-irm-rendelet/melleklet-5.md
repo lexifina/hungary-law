@@ -96,6 +96,6 @@
 
 | Az illetékbélyeg helye: |
 
-5. melléklet a 25/2007. (V. 31.) IRM rendelethez[^45]
+5. melléklet a 25/2007. (V. 31.) IRM rendelethez[^56]
 
-[^45]: Az 5. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^56]: Az 5. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (5) bekezdésével megállapított szöveg.

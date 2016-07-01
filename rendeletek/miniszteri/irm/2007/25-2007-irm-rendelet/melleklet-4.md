@@ -1,131 +1,155 @@
 ## ADATLAP AZ ÁLLANDÓ TARTÓZKODÁSI KÁRTYA KIÁLLÍTÁSÁHOZ, MEGHOSSZABBÍTÁSÁHOZ
 
-| Az okmánykiadás/hosszabbítás kezdeményezésének dátuma: |  |  |  |  |
+## 6K07481_0
 
-| ____ év __ hónap __ nap |  | Gépi ügyszám: /_/_/_/_/_/_/_/_/_/_/ |
+| Az okmánykiadás/hosszabbítás kezdeményezésének dátuma: | Gépi ügyszám: ⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜_⎜ |
 
-| Az okmány átvételének helye: |  |  |  |  |
+| ______ év ______ hónap ____ nap |  |
 
-| ⬜ A kérelmező az okmányt a kiállító hatóságnál veszi át. |  |  |  |  |  |
+| Az adatlap célja: |  |  |  |
 
-| ⬜ A kérelmező az okmány postai úton történő megküldését kéri. |  |  | Arcfénykép |  |
+| □ Okmány kiállítása. □ Okmány meghosszabbítása. |
 
-| Az okmány kiállításának jogalapja: |  |  |  |  |
+|  |  | Arcfénykép |  |
 
-| ⬜ EGT-állampolgár |  |  |  |  |
+| Az okmány átvételének helye: |  |  |  |
 
-| ⬜ EGT-állampolgár családtagja |  |  |  |  |
+| □ A kérelmező az okmányt a kiállító hatóságnál veszi át. |  |  |  |  |  |
 
-| ⬜ magyar állampolgár családtagja |  |  |  |  |
+| □ A kérelmező az okmány postai úton történő megküldését kéri. |  |  |  |
 
-| Az Adatlap célja: |  |  |  |  |
+| E-mail cím: |  |  |  |
 
-| ⬜ Okmány kiállítása |  |  |  |  |
+| Telefonszám: |  |  |  |
 
-| ⬜ Okmány meghosszabbítása |  | [A kérelmező (törvényes képviselő) saját kezű aláírás mintája] Az aláírásnak teljes terjedelmével a keretvonalon belülre kell esni! |
+|  |  | [A kérelmező (törvényes képviselő) saját kezű aláírás mintája] |  |
+
+|  |  | Az aláírásnak teljes terjedelmével a keretvonalon belülre kell esni! |  |
 
 | I. Tartózkodásra jogosult személy adatai |
 
 |  | A jogosult neve |  |
 
-| 1. Családi neve: | ____________________________________ |
+| Családi neve: |  |
 
-| 2. Utóneve(i): | ____________________________________ |
+| Utóneve(i): |  |
 
 |  | Előző vagy születési neve |  |
 
-| 3. Családi neve: | ____________________________________ |
+| Családi neve: |  |
 
-| 4. Utóneve(i): | ____________________________________ |
+| Utóneve(i): |  |
 
 |  | Anyja születési neve |  |
 
-| 5. Családi neve: | ____________________________________ |
+| 5. Családi neve: |  |
 
-| 6. Utóneve(i): | ____________________________________ |
+| 6. Utóneve(i): |  |
 
 |  | Születési helye |  |
 
-| 7. Ország: | ____________________________________ |
+| 7. Ország: |  |
 
-| 8. Település: | ____________________________________ |
+| 8. Település: |  |
 
-| 9. Születési ideje: | ____ év __ hónap __ nap |
+| 9. Születési ideje: | ____év ____hónap ____nap |
 
-| 10. Neme: | Férfi ⬜ | Nő: ⬜ |
+| 10. Neme: | Férfi □ | Nő: □ |
 
-| 11. Állampolgársága: | ____________________________________ |
+| 11. Állampolgársága: |  |
 
-| 12. Családi állapota: | ⬜ Nőtlen/Hajadon | ⬜ Házas | ⬜ Özvegy |
+| 12. Családi állapota: | □Nőtlen/Hajadon | □Házas | □Özvegy |
 
-|  | ⬜ Elvált |  |  |
+|  | □Elvált |  |  |
 
-| II. Úti okmányának vagy személyazonosító igazolványának adatai |  |
+| II. Úti okmányának vagy személyazonosító igazolványának adatai |
 
-| 21. Nevezze meg okmányának típusát: | ⬜ úti okmány ⬜ személyazonosító igazolvány |
+| 21. Nevezze meg okmányának típusát: | □úti okmány □személyazonosító igazolvány |
 
-| 22. Okmányának száma: | ____________________________________ |
+| 22. Okmányának száma: |  |
 
-| 23. Úti okmány típusa: | ⬜ Magánútlevél | ⬜ Szolgálati útlevél | ⬜ Diplomata útlevél |
+| 23. Úti okmány típusa: | □Magánútlevél | □Szolgálati útlevél | □Diplomata útlevél |
 
-|  | ⬜ Egyéb, éspedig |  |  |
+|  | □Egyéb, éspedig | ____ |
 
 |  | Az okmány kiállításának helye |  |
 
-| 24. Ország: | ____________________________________ |
+| 24. Ország: |  |
 
-| 25. Település: | ____________________________________ |
+| 25. Település: |  |
 
-| 26. Kiállítási ideje: | ____ év __ hónap __ nap |
+| 26. Kiállítási ideje: | ____ év ____ hónap ____ nap |
 
-| 27. Érvényessége: | ____ év __ hónap __ nap |
+| 27. Érvényessége: | ____ év ____ hónap ____ nap |
 
-| III. Meghosszabbítás esetén a jelenlegi állandó tartózkodási kártya adatai |  |
+| III. Meghosszabbítás esetén a jelenlegi tartózkodási kártya adatai |
 
-| 31. Jelenlegi okmányának száma: | ____________________________________ |
+| 31. Jelenlegi okmányának száma: |  |
 
-| 32. Kiállítási ideje: | ____ év __ hónap __ nap |
+| 32. Kiállítási ideje: | ____ év ____ hónap ____ nap |
 
-| 33. Érvényessége: ____ év __ hónap __ nap |  |
+| 33. Érvényessége: ____ év ____ hónap ____ nap |  |
 
 | IV. Magyarországi lakóhelye |
 
-| 41. Irányítószám: | ____ |
+| 41. Irányítószám: |  |
 
-| 42. Település: | ____________________________________ Kerület: __ |
+| 42. Település: |  | Kerület: |
 
-| 43. Közterület neve: | ____________________________________ |
+| 43. Közterület neve: |  |
 
-| 44. Közterület jellege (út, utca, tér stb.): | ____________________________________ |
+| 44. Közterület jellege (út, utca, tér stb.): |  |
 
-| 45. Házszám / Helyrajzi szám: | ____________________________________ |
+| 45. Házszám / Helyrajzi szám: |  |
 
-| Épület: ____ | Lépcsőház : ____ | Emelet: __ | Ajtó: __ |
+| Épület: | Lépcsőház : | Emelet: | Ajtó: |
 
-| V. A tartózkodás jogszerűségét, tartamát és folyamatosságát alátámasztó tények felsorolása (A megnevezett tényeket alátámasztó okiratok, iratok csatolása szükséges!) |
+| 46. A lakcímre való bejelentkezés jogalapja: □Kijelentem, hogy a feltüntetett lakás felett tulajdonjoggal rendelkezem. □Mellékelem a feltüntetett lakás tulajdonosának vagy a lakás használatára egyéb jogcímen jogosultnak a hozzájáruló nyilatkozatát. |
 
-| Amennyiben magyar állampolgár vagy EGT-állampolgár családtagjaként kérelmezi az állandó tartózkodási kártya kiállítását vagy meghosszabbítását, a családtag adatai: 46. Családi neve: 47. Utóneve (i): Születési helye: 48. Ország: 49. Település: 50. Születési ideje: év hó nap 51. Neme: 52. Állampolgársága: 53. Rokonsági foka: ⬜ szülő ⬜ gyermek ⬜ házastárs ⬜ Élettárs, amennyiben magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített ⬜ egyéb 54. Magyarországra érkezését megelőző állandó vagy szokásos tartózkodási helye: Ország: Település: Közterület neve: |
+| V. A tartózkodás jogszerűségét, tartamát és folyamatosságát alátámasztó tények megjelölése (A megnevezett tényeket alátámasztó okiratok, iratok csatolása szükséges!) |
 
-| 55. Amennyiben felhagy a tartózkodási jog gyakorlásával, illetve a tartózkodási joga megszűnését követően melyik országba utazik tovább? Ország: |
+| □ EGT-állampolgár, aki 5 éven át megszakítás nélkül, jogszerűen Magyarország területén tartózkodott | □ családtag, aki 5 éven át megszakítás nélkül, jogszerűen Magyarország területén tartózkodott | □ személy, aki az EGT- állampolgárra vagy a magyar állampolgárra tekintettel fennmaradó joggal rendelkezik, és 5 éven át megszakítás nélkül, jogszerűen Magyarország területén tartózkodott | □ állandó tartózkodásra jogosult szülőnek Magyarországon született gyermeke | □ magyar állampolgár családtagja – házastárs, valamint a 8. § (1) bekezdés a) pontja alapján tartózkodásra jogosult személy kivételével –, ha megszakítás nélkül legalább egy éve a magyar állampolgárral családi életközösségben él □ magyar állampolgár házastársa, feltéve, hogy a házasságot a kérelem benyújtását megelőzően legalább két éve megkötötték, és azóta életközösségük folyamatos |
+
+| Ha magyar állampolgár vagy EGT-állampolgár családtagjaként kérelmezi az állandó tartózkodási kártya kiállítását vagy meghosszabbítását, a családtag adatai: 51. Családi neve: 52. Utóneve (i): Születési helye: 53. Ország: 54. Település: 55. Születési ideje: ____ év ____ hó ____nap 56. Neme: |
+
+| 57. Állampolgársága: 58. Rokonsági foka: □szülő □gyermek □házastárs □ Élettárs, ha magyar hatóság vagy az Európai Unió más tagállamának hatósága előtt regisztrált élettársi kapcsolatot létesített □egyéb 59. Magyarországra érkezését megelőző állandó vagy szokásos tartózkodási helye: Ország: Település: Közterület neve: |
+
+| Ha felhagy a tartózkodási jog gyakorlásával, illetve a tartózkodási joga megszűnését követően melyik országba utazik tovább? Ország: ____ |
 
 | Kelt: _________________________ | _________________________________ aláírás |
 
-| Hatóság tölti ki! |  |
+| Hatóság tölti ki! |
 
-| A kérelmező részére az állandó tartózkodási kártya kiállítását/meghosszabbítását ⬜⬜⬜⬜ év ⬜⬜ hónap ⬜⬜ napig tartó érvényességgel/ határozatlan ideig engedélyezem. |
+| A kérelmező részére az állandó tartózkodási kártya kiállítását/meghosszabbítását _________ év ______ hónap ______napig tartó érvényességgel/ határozatlan ideig engedélyezem. |
 
 | Kelt: ............................................................. | ................................................... (aláírás, pecsét) |
 
-| Kiadott okmány száma: | _________________ |
+| Kiadott okmány száma: |  |
 
 | Az állandó tartózkodási kártyát átvettem. |  |
 
 | Kelt: ........................................... | .......................................... (a kérelmező aláírása) |
 
-| Hosszabbítás esetén az előző állandó tartózkodási kártya száma: .......................... |
+| Hosszabbítás esetén az előző állandó tartózkodási kártya száma: |
 
 | Az illetékbélyeg helye: |
 
-4. melléklet a 25/2007. (V. 31.) IRM rendelethez[^44]
+| A kérelem elutasítása esetén |
 
-[^44]: A 4. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (4) bekezdésével megállapított szöveg.
+| Elutasító határozat száma: |
+
+| Az elutasítás kelte: ______év _____ hónap ___ nap |
+
+| Az elutasítás indoka (röviden): |
+
+| Az eljárás megszüntetése esetén |
+
+| A megszüntető döntés száma: |
+
+| A döntés kelte: ______év _____ hónap ___ nap |
+
+| A döntés indoka (röviden): |
+
+4. melléklet a 25/2007. (V. 31.) IRM rendelethez[^55]
+
+[^55]: A 4. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (4) bekezdésével megállapított szöveg.
