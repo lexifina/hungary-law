@@ -1,4 +1,4 @@
-13. § (1) Összeférhetetlen a kamarai tisztséggel, ha valaki a növényvédelmi szakigazgatásban vezetőként osztályvezető, illetve annál magasabb beosztásban közszolgálati jogviszonyban áll, valamint politikai pártban tisztséget tölt be.
+13. § (1) Összeférhetetlen a kamarai tisztséggel, ha valaki a növényvédelmi szakigazgatásban vezetőként osztályvezető, illetve annál magasabb beosztásban közszolgálati, kormányzati szolgálati, vagy állami szolgálati jogviszonyban áll, valamint politikai pártban tisztséget tölt be.
 
 (2) Kamarai tisztségviselő azonos kamarai szervezetben egyéb tisztséget nem tölthet be. Kamarai tisztségre választható minden kamarai tag, feltéve, ha vele szemben összeférhetetlenségi ok nem áll fenn.
 
