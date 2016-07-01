@@ -1,4 +1,4 @@
-22. § (1) A légi jármű üzembentartó köteles azt a bejelentés alapjául szolgáló esemény napjától számított 45 napon belül a miniszternek és a hatóságnak bejelenteni, ha
+22. § (1) A légi jármű üzembentartó köteles azt a bejelentés alapjául szolgáló esemény napjától számított 45 napon belül a hatóságnak bejelenteni, ha
 
 a) a légi jármű üzembentartó több légi jármű üzembentartóra szétvált,
 
