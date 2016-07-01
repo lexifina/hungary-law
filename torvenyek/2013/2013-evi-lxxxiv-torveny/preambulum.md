@@ -1,1 +1,0 @@
-A közigazgatási hatósági eljárások racionalizálása és fejlesztése, a hatósági nyilvántartások közhitelességének megteremtése, valamint a szolgáltató közigazgatás kiterjesztése érdekében az Országgyűlés a következő törvényt alkotja.
