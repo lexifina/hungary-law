@@ -1,1 +1,5 @@
-26. §
+26. § Az Szt. 8. § (2) és (3) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(2) A szakképzési kerettantervet a szakképzésért és felnőttképzésért felelős miniszter a szakközépiskolai képzés kilencedik-tizenegyedik évfolyamán szakképesítésenként a szakmai elméletre, továbbá az iskolai tanműhelyben folyó vagy a gazdálkodó szervezetnél szervezhető szakmai gyakorlati képzésre adja ki. A kerettantervnek biztosítania kell, hogy a szakközépiskolában a kötelező tanórai foglalkozások megtartásához a kilencedik-tizenegyedik évfolyamon együttesen rendelkezésre álló időkeret harminchárom százaléka a Nemzeti alaptantervben meghatározottak átadásához álljon rendelkezésre.
+
+(3) A szakképzési kerettantervet a szakképzésért és felnőttképzésért felelős miniszter a szakgimnáziumokban a kilencedik-tizenkettedik évfolyamon ágazatonként és szakképesítésenként a szakmai elméleti, továbbá a szakmai gyakorlati, valamint szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamon a szakmai elméleti, továbbá a szakmai gyakorlati oktatásra adja ki. A kerettantervnek biztosítania kell, hogy a szakgimnáziumokban a kilencedik-tizenkettedik évfolyamon a kötelező tanórai foglalkozások megtartásához együttesen rendelkezésre álló időkeret legalább hatvan százaléka a Nemzeti alaptantervben meghatározottak átadásához álljon rendelkezésre.”
