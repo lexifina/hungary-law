@@ -8,7 +8,7 @@
 
 (3)–(5)
 
-(6) A Budapesti Agglomeráció Területrendezési Tervét legalább 5 évente felül kell vizsgálni.
+(6)
 
 (7) E törvény végrehajtására a területfejlesztésről és a területrendezésről szóló 1996. évi XXI. törvényben foglalt eljárási szabályok irányadóak.
 
