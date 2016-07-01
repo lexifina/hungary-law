@@ -21,3 +21,5 @@ g) névjegyzékbe való felvételéről szóló határozat számát,
 h) szolgáltatási szerződése lejáratának időpontját.
 
 (2) A jogi segítő a névjegyzékben szerepelő adataiban bekövetkezett változásokról a jogi segítségnyújtó szolgálatot nyolc napon belül köteles értesíteni.
+
+(3) A (2) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a jogi segítő kéri – a (2) bekezdés szerinti határidőben értesíti a jogi segítségnyújtó szolgálatot.
