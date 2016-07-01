@@ -2,12 +2,12 @@
 
 9. § (1) Ez a rendelet – a (2) bekezdésben meghatározott kivétellel – 2007. július 1-jén lép hatályba.
 
-(2)[^12] E rendelet 3. § (3) bekezdés b) pontja Magyarországot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon lép hatályba.
+(2)[^10] E rendelet 3. § (3) bekezdés b) pontja Magyarországot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon lép hatályba.
 
-(3)[^13]
+(3)[^11]
 
-(4)[^14]
+(4)[^12]
 
-[^12]: A 9. § (2) bekezdése a 68/2011. (XII. 30.) BM rendelet 26. § (2) bekezdése szerint módosított szöveg.
-[^13]: A 9. § (3) bekezdését az 51/2007. (XII. 11.) IRM rendelet 7. § (4) bekezdése hatályon kívül helyezte.
-[^14]: A 9. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 11. pontja hatályon kívül helyezte.
+[^10]: A 9. § (2) bekezdése a 68/2011. (XII. 30.) BM rendelet 26. § (2) bekezdése szerint módosított szöveg.
+[^11]: A 9. § (3) bekezdését az 51/2007. (XII. 11.) IRM rendelet 7. § (4) bekezdése hatályon kívül helyezte.
+[^12]: A 9. § (4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 20. §-ának 11. pontja hatályon kívül helyezte.

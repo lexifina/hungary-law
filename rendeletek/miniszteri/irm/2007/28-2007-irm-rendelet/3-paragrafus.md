@@ -2,20 +2,22 @@
 
 (2) Ha az eljárás szóbeli kérelem alapján is lefolytatható, az igazgatási szolgáltatási díj lerovására szolgáló illetékbélyeget az eljárásban létrejött és a hatóságnál maradó iratra kell felragasztani.
 
-(3) Elsősorban euróban vagy más konvertibilis valutában, kivételesen a kérelem előterjesztésének helye szerinti állam törvényes fizetőeszközével, a konzuli díjakra vonatkozó külön jogszabályban meghatározott módon kell megfizetni
+(3)[^4] Elsősorban euróban vagy más konvertibilis valutában, kivételesen a kérelem előterjesztésének helye szerinti állam törvényes fizetőeszközével, a konzuli díjakra vonatkozó jogszabályban meghatározott módon kell megfizetni
 
 a) az egyszeri utazásra jogosító úti okmány kiadásának díját,
 
-b)[^4] a tartózkodási engedély kiadására és a tartózkodási engedély átvételére jogosító vízum kiadására irányuló és a fellebbezési eljárás díját,
+b) a tartózkodási engedély kiadására, a tartózkodásra jogosító okmány pótlására és a tartózkodási engedély átvételére jogosító vízum kiadására irányuló és a fellebbezési eljárás díját,
 
-c)[^5] a három hónapot meg nem haladó tartózkodásra jogosító vízum iránti kérelem elutasítása, megsemmisítése, vagy visszavonása tárgyában hozott döntés elleni fellebbezés díját,
+c) a száznyolcvan napon belül kilencven napot meg nem haladó, tervezett (a továbbiakban: kilencven napot meg nem haladó, tervezett) tartózkodásra jogosító vízum iránti kérelem elutasítása, megsemmisítése vagy visszavonása tárgyában hozott döntés elleni fellebbezés díját,
 
-d)[^6] a kishatárforgalmi engedély iránti kérelem tárgyában hozott döntés elleni fellebbezés díját
+d) a kishatárforgalmi engedély iránti kérelem és a kishatárforgalmi engedély visszavonása tárgyában hozott döntés elleni fellebbezés díját,
+
+e) a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízumokmány pótlására irányuló eljárás díját,
+
+f) a nemzeti letelepedési engedély kiadására irányuló eljárás díját,
 
 ## ha a kérelmet a konzuli tisztviselőnél terjesztik elő.
 
 (4) A bejelentési kötelezettségek teljesítése díjmentes.
 
-[^4]: A 3. § (3) bekezdés b) pontja a 12/2010. (XII. 23.) BM rendelet 21. § (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § (3) bekezdés c) pontját a 12/2010. (XII. 23.) BM rendelet 21. § (2) bekezdése iktatta be.
-[^6]: A 3. § (3) bekezdés d) pontját a 12/2010. (XII. 23.) BM rendelet 21. § (2) bekezdése iktatta be.
+[^4]: A 3. § (3) bekezdése a 23/2016. (VI. 29.) BM rendelet 12. §-ával megállapított szöveg.

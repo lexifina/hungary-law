@@ -1,4 +1,4 @@
-2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^18]
+2. melléklet a 28/2007. (V. 31.) IRM rendelethez[^16]
 
 ## Az egyes eljárások díja
 
@@ -11,6 +11,14 @@ I. Vízumdíjak
 | 3. Szezonális munkavállalási vízum kiadására irányuló eljárás díja | 40 EUR |
 
 | 4. Kishatárforgalmi engedély tárgyában hozott döntés elleni fellebbezés díja külképviseleten előterjesztett fellebbezés esetén | 10 EUR |
+
+| 5. Kishatárforgalmi engedély visszavonása tárgyában hozott döntés elleni fellebbezés díja külképviseleten előterjesztett fellebbezés esetén | 10 EUR |
+
+| 6. Kishatárforgalmi engedély visszavonása tárgyában hozott döntés elleni fellebbezés díja belföldön előterjesztett fellebbezés esetén | 3 000 Ft |
+
+| 7. A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiállítására irányuló eljárás díja külképviseleten előterjesztett okmány pótlása iránti kérelem esetén | 3 000 Ft-nak megfelelő EUR (2016. június hónap utolsó – a Magyar Nemzeti Bank által közzétett –hivatalos középárfolyamon átszámítva) |
+
+| 8. A kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum kiállítására irányuló eljárás díja belföldön előterjesztett okmány pótlása iránti kérelem esetén | 3 000 Ft |
 
 II. Tartózkodási engedéllyel összefüggő igazgatási szolgáltatási díjak
 
@@ -33,6 +41,8 @@ II. Tartózkodási engedéllyel összefüggő igazgatási szolgáltatási díjak
 | 9. EU Kék Kártya kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 10 000 Ft |
 
 | 10. EU Kék Kártya kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 10 000 Ft |
+
+| 11. Tartózkodásra jogosító okmány pótlására és a tartózkodási engedély átvételére jogosító vízum kiállítására irányuló eljárás díja külképviseleti kérelmezés esetén | 3 000 Ft-nak megfelelő EUR (2016. június hónap utolsó – a Magyar Nemzeti Bank által közzétett –hivatalos középárfolyamon átszámítva) |
 
 III. Bevándorolt, illetve letelepedett státuszt igazoló okmányokkal összefüggő
 
@@ -73,6 +83,10 @@ III. Bevándorolt, illetve letelepedett státuszt igazoló okmányokkal összef�
 | 17. EK letelepedési engedély kiállítására irányuló eljárás díja az okmány pótlása iránti kérelem esetén | 10 000 Ft |
 
 | 18. EK letelepedési engedély kiállítására irányuló eljárás díja az okmány cseréje iránti kérelem esetén | 10 000 Ft |
+
+| 19. Nemzeti letelepedési engedély kiadására irányuló eljárás díja külképviseleti kérelmezés esetén | 3 000 Ft-nak megfelelő EUR (2016. június hónap utolsó – a Magyar Nemzeti Bank által közzétett –hivatalos középárfolyamon átszámítva) |
+
+| 20. Tartózkodásra jogosító okmány pótlására és a tartózkodási engedély átvételére jogosító vízum kiállítására irányuló eljárás díja külképviseleti kérelmezés esetén | 3 000 Ft-nak megfelelő EUR (2016. június hónap utolsó – a Magyar Nemzeti Bank által közzétett –hivatalos középárfolyamon átszámítva) |
 
 IV. Úti okmányok kiállításával kapcsolatos igazgatási szolgáltatási díjak
 
@@ -126,4 +140,4 @@ VI. Egyéb igazgatási szolgáltatási díjak
 
 | 2. Fellebbezési kérelem díja | 5 500 Ft |
 
-[^18]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 3. §-ával megállapított, a 27/2011. (VIII. 24.) BM rendelet 6. §-a szerint módosított szöveg.
+[^16]: A 2. melléklet az 1/2011. (II. 18.) BM rendelet 3. §-ával megállapított, a 27/2011. (VIII. 24.) BM rendelet 6. §-a, a 23/2016. (VI. 29.) BM rendelet 14. § (1) bekezdése szerint módosított szöveg.
