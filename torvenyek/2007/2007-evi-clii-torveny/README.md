@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-152-00-00
 | 2014-03-15 | 2014. évi XV. törvény | 2007-152-00-00.13 |
 | 2015-01-01 | 2014. évi LXXXV. törvény | 2007-152-00-00.14 |
 | 2015-07-01 | 2015. évi XLII. törvény | 2007-152-00-00.15 |
+| 2016-07-01 | 2016. évi LXIV. törvény | 2007-152-00-00.16 |
