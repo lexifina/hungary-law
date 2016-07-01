@@ -2,7 +2,7 @@
 
 a) köztársasági elnök, miniszterelnök, a Kormány tagja, államtitkár, közigazgatási államtitkár, helyettes államtitkár, főpolgármester, főpolgármester-helyettes, polgármester, alpolgármester, megyei közgyűlés elnöke és alelnöke, országgyűlési képviselő, az Európai Parlament tagja,
 
-b) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
+b) helyi vagy megyei önkormányzati képviselő, kormánytisztviselő, állami tisztviselő, párt országos vagy területi szervezetének tisztségviselője vagy politikai párttal foglalkoztatásra irányuló jogviszonyban álló személy,
 
 c) a Hivatal engedélyesi, felügyeleti körébe tartozó vállalkozás vezető tisztségviselője, vezető testületének tagja, felügyelő bizottsági tagja, kivéve ha a jogviszony (tagság) jogszabályi felhatalmazás vagy kijelölés alapján áll fenn,
 
