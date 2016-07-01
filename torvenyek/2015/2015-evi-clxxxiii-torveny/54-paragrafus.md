@@ -6,7 +6,7 @@
 
 3.
 
-4.
+4. 65. § (3) bekezdésében „ , az (1) bekezdés b) pontja szerinti esetben a felelősség megállapításának időpontját és okát”,
 
 5–6.
 
@@ -18,11 +18,19 @@ szövegrész.
 
 1–3.
 
-4–5.
+4. 18. § (4) bekezdés a) pontja,
+
+5. 18. § (5) bekezdése,
 
 6–7.
 
-8–11.
+8. 21. § (2) bekezdés b) pontja,
+
+9. „Vadaskert létesítése”, „Vadaspark létesítése”, „Vadfarm létesítése” alcíme és 22–25/A. §-a,
+
+10. „Tiltott vadászati módok” alcíme és 30–33. §-a,
+
+11. „Tiltott vadászati eszközök” alcíme és 68. §-a,
 
 12.
 
@@ -30,4 +38,6 @@ szövegrész.
 
 15.
 
-16–17.
+16. 67. § (5) bekezdés második mondata,
+
+17. 71. § (3) és (4) bekezdése.
