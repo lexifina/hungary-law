@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-113-20-
 | --- | --- | --- |
 | 2015-05-01 | 2015-113-20-22.1 | 113/2015. (IV. 30.) Korm. rendelet |
 | 2015-05-02 | 2015-113-20-22.2 | 2010: CXXX. törvény |
+| 2016-07-01 | 2015-113-20-22.3 | 2010: CXXX. törvény |

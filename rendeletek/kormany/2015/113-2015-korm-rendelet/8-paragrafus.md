@@ -1,3 +1,1 @@
-## 7. §[^2]
-
-[^2]: A 7. § a 9. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+## 7. § Hatályát veszti az R. 2. melléklet II. pont o) alpontja.
