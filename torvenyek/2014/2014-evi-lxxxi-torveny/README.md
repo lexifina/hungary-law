@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-81-00-00
 | --- | --- | --- |
 | 2014-12-09 | 2014. évi LXXXI. törvény | 2014-81-00-00.0 (közlönyállapot) |
 | 2014-12-09 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-81-00-00.1 |
+| 2016-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2014-81-00-00.2 |
