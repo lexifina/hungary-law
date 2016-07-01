@@ -12,9 +12,10 @@
 
 (6)[^34]
 
-(7) E rendelettől a közigazgatási, rendészeti és katonai képzési területhez tartozó képzések tekintetében jogszabály eltérhet.
+(7)[^35] E rendelettől az államtudományi képzési területhez tartozó képzések tekintetében jogszabály eltérhet.
 
 [^31]: A 20. § (3) bekezdését a 139/2015. (VI. 9.) Korm. rendelet 14. § c) pont cd) alpontja hatályon kívül helyezte.
 [^32]: A 20. § (4) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 24. § 8. pontja hatályon kívül helyezte.
 [^33]: A 20. § (5) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 22. §-ával megállapított szöveg.
 [^34]: A 20. § (6) bekezdését a 139/2015. (VI. 9.) Korm. rendelet 14. § c) pont cd) alpontja hatályon kívül helyezte.
+[^35]: A 20. § (7) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 9. §-a szerint módosíott szöveg.
