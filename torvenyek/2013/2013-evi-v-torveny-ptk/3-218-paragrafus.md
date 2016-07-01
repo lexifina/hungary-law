@@ -2,4 +2,4 @@
 
 (1) A részvények forgalomba hozatala zártkörűen vagy nyilvánosan történhet.
 
-(2) Zártkörűen működő részvénytársaság részvényei nyilvánosan nem hozhatók forgalomba.
+(2) Zártkörűen működő részvénytársaság részvényei – a részvénytársaság működési formájának megváltoztatásához kapcsolódó forgalomba hozatalt kivéve – nyilvánosan nem hozhatók forgalomba.

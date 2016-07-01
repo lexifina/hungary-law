@@ -29,13 +29,3 @@ j) az egyes részvényesi jogok gyakorlásáról a tőzsdén jegyzett társaság
 k) a fizetési és értékpapír-elszámolási rendszerekben az elszámolások véglegességéről szóló 98/26/EK irányelvnek és a pénzügyi biztosítékokról szóló megállapodásokról szóló 2002/47/EK irányelvnek a kapcsolódó rendszerek és hitelkövetelések tekintetében történő módosításáról szóló 2009. május 6-i 2009/44/EK európai parlamenti és tanácsi irányelvnek;
 
 l) az egész Közösségre kiterjedő egységes biztosítékok kialakítása érdekében a tagállamok által a társasági tagok és harmadik személyek érdekei védelmében a Szerződés 48. cikkének második bekezdése szerinti társaságoknak előírt biztosítékok összehangolásáról szóló 2009. szeptember 16-i 2009/101/EK európai parlamenti és tanácsi irányelvnek;
-
-m) a társasági jog területén az egyszemélyes korlátolt felelősségű társaságokról szóló 2009. szeptember 16-i 2009/102/EK európai parlamenti és tanácsi irányelvnek;
-
-n) a 77/91/EGK, a 78/855/EGK, a 82/891/EGK tanácsi irányelvnek és a 2005/56/EK irányelvnek az egyesülések és szétválások esetében alkalmazandó jelentéstételi és dokumentációs kötelezettségek tekintetében történő módosításáról szóló 2009. szeptember 16-i 2009/109/EK európai parlamenti és tanácsi irányelvnek;
-
-o) a kereskedelmi ügyletekhez kapcsolódó késedelmes fizetések elleni fellépésről szóló 2011. február 16-i 2011/7/EU európai parlamenti és tanács irányelvnek;
-
-p) a részvénytársaságok egyesüléséről szóló 2011. április 5-i 2011/35/EU európai parlamenti és tanácsi irányelvnek;
-
-q) a fogyasztók jogairól, a 93/13/EGK tanácsi irányelv és az 1999/44/EK európai parlamenti és tanácsi irányelv módosításáról, valamint a 85/577/EGK tanácsi irányelv és a 97/7/EK európai parlamenti és tanácsi irányelv hatályon kívül helyezéséről szóló 2011. október 25-i 2011/83/EU európai parlamenti és tanácsi irányelvnek;

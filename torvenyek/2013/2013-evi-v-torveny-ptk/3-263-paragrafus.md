@@ -4,7 +4,7 @@
 
 a) a közbenső mérleg alapján megállapítható, hogy a társaság rendelkezik osztalék fizetéséhez szükséges fedezettel;
 
-b) a kifizetés nem haladja meg az utolsó beszámoló szerinti üzleti év könyveinek lezárása óta kimutatott, az előző üzleti évi adózott eredménnyel kiegészített szabad eredménytartalék összegét; és
+b) a kifizetés nem haladja meg a közbenső mérlegben kimutatott adózott eredménnyel kiegészített szabad eredménytartalék összegét; és
 
 c) a társaságnak a helyesbített saját tőkéje a kifizetés folytán nem csökken az alaptőke összege alá.
 

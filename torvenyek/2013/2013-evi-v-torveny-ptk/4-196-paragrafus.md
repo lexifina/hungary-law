@@ -2,7 +2,7 @@
 
 (1) A tartási kötelezettség - ha e törvény eltérően nem rendelkezik - az egyenesági rokonokat terheli egymással szemben.
 
-(2) Tartási kötelezettsége áll fenn elsősorban a szülőnek a gyermekével és a gyermeknek a szülőjével szemben.
+(2) Tartási kötelezettsége áll fenn elsősorban a szülőnek a gyermekével és a nagykorú gyermeknek a rászoruló szülőjével szemben.
 
 (3) Ha a tartásra jogosult gyermeknek tartásra kötelezhető szülője nincs, eltartása távolabbi felmenőire hárul.
 
