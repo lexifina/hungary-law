@@ -10,13 +10,13 @@ a) a vonatkozó jogszabályok alapján ellátja a hivatásos állományba jelent
 
 b) elvégzi
 
-ba) a közszolgálati tisztviselőkről szóló törvény szerinti, az (1a) bekezdésben meghatározott feladatkörrel rendelkező kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők,
+ba) a közszolgálati tisztviselőkről szóló törvény, valamint az állami tisztviselőkről szóló törvény szerinti, az (1a) bekezdésben meghatározott feladatkörrel rendelkező kormányzati szolgálati jogviszonyban álló kormánytisztviselők és kormányzati ügykezelők, valamint állami szolgálati jogviszonyban álló állami tisztviselők és állami ügykezelők,
 
 bb) a rendőrség, az Országgyűlési Őrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, a Nemzeti Adó- és Vámhivatal, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány Nemzeti Biztonsági Felügyelethez (a továbbiakban: NBF) és a Szervezett Bűnözés elleni Koordinációs Központhoz vezényelt tagjai,
 
-bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, valamint közalkalmazotti jogviszonyban álló tagjai,
+bc) a bb) alpontban meghatározott szervek, az idegenrendészeti hatóság, a menekültügyi hatóság, az állampolgársági ügyekben eljáró szerv, valamint a Kormány által rendeletben meghatározott befogadó állomás kormánytisztviselői, köztisztviselői, állami szolgálati, valamint közalkalmazotti jogviszonyban álló tagjai,
 
-bd) az NBF kivételével a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok a bb) és bc) alpontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá az NBF kivételével a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, köztisztviselői és közalkalmazottai, továbbá
+bd) az NBF kivételével a bb) és bc) alpontban meghatározott szervek irányítását ellátó minisztériumok a bb) és bc) alpontban meghatározott szervek irányításával, ellenőrzésével kapcsolatos szervezeti egységeinek, továbbá az NBF kivételével a bb) és bc) alpontban meghatározott szervek bűnüldözési és államigazgatási adatkezelését, pénzügyi és gazdasági ellátását, kiképzését és oktatását végző szervek rendeltetésszerű működése körében eljáró kormánytisztviselői, állami tisztviselői, köztisztviselői és közalkalmazottai, továbbá
 
 be) a Kormány által a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény alapján nemzetbiztonsági célból létrehozott kabinet, valamint az annak munkáját segítő testület – politikai vezetőnek nem minősülő – tagjai, továbbá a tagok helyettesítésére jogosult és a titkársági feladatokat ellátó személyek
 
@@ -24,7 +24,7 @@ be) a Kormány által a központi államigazgatási szervekről, valamint a Korm
 
 c) felderíti a b) pontban megjelölt védett állománnyal összefüggő, külön jogszabályban meghatározott bűncselekményeket.
 
-(1a) Megbízhatósági vizsgálat alá az a kormánytisztviselő és kormányzati ügykezelő vonható, aki döntés előkészítésére, döntésre vagy ellenőrzésre jogosult
+(1a) Megbízhatósági vizsgálat alá az a kormánytisztviselő és kormányzati ügykezelő, továbbá állami tisztviselő és állami ügykezelő vonható, aki döntés előkészítésére, döntésre vagy ellenőrzésre jogosult
 
 a) állampolgársági eljárással, menekültügyi eljárással, idegenrendészeti eljárással, szabálysértési eljárással, koncessziós eljárással, kisajátítási eljárással, építésügyi hatósági eljárással, munkavédelmi hatósági eljárással, munkaügyi ellenőrzéssel, ingatlan-nyilvántartási hatósági eljárással összefüggő ügyben,
 

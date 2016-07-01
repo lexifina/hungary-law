@@ -10,9 +10,11 @@ b) kormánytisztviselőkből,
 
 c) igazságügyi alkalmazottakból,
 
-d) közalkalmazottakból, valamint
+d) közalkalmazottakból,
 
-e) a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkavállalókból
+e) a munka törvénykönyvéről szóló törvény hatálya alá tartozó munkavállalókból, valamint,
+
+f) tisztjelöltekből
 
 állhat.
 
