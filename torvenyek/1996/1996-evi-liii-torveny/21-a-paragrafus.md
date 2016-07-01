@@ -1,0 +1,1 @@
+21/A. § Ha az épített környezet alakításáról és védelméről szóló törvény szerinti építési munka végzése során természeti érték kerül elő, a kivitelező köteles azt a természetvédelmi hatóságnak haladéktalanul bejelenteni, és a természeti értéket és a természeti érték előkerülésének helyszínét a hatósági intézkedésig érintetlenül hagyni.
