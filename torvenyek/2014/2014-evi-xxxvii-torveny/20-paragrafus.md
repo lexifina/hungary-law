@@ -10,7 +10,7 @@ c) a szanálás alatt álló intézmény vezető állású személyétől a veze
 
 d) a szanálás alatt álló intézmény fizetésképtelenségének vagy várható fizetésképtelenségének okait fel kell tárni;
 
-e) az azonos hitelezői osztályba tartozó hitelezők azonos elbánásban részesülnek;
+e) az azonos hitelezői osztályba tartozó hitelezők e törvény eltérő rendelkezése hiányában azonos elbánásban részesülnek;
 
 f) egyetlen tulajdonos vagy hitelező sem viselhet annál nagyobb – a szanálási intézkedések alkalmazásával közvetlenül összefüggő – veszteséget, mint amelyet akkor viselt volna, ha az intézményt felszámolják; és
 

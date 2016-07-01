@@ -42,4 +42,4 @@ j) dönt – a szanálási feladatkörében eljáró MNB előterjesztése alapj�
 
 (6) Az igazgatótanács az Alappal kapcsolatos feladatainak végrehajtása során igénybe veheti az OBA és – a monetáris finanszírozás tilalmába nem ütköző módon – az MNB szolgáltatásait.
 
-(7) Az Alap önálló munkaszervezettel nem rendelkezik, az operatív feladatokat elkülönítetten az OBA munkaszervezete látja el az OBA ügyvezető igazgatójának irányítása mellett azzal, hogy az Alap az operatív feladatok ellátására az OBA munkavállalóival megbízási szerződést is köthet.
+(7) Az Alap önálló munkaszervezettel nem rendelkezik, az operatív feladatokat elkülönítetten az OBA munkaszervezete látja el az OBA ügyvezető igazgatójának irányítása mellett.

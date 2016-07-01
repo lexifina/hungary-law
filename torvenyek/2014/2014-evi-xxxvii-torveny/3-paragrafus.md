@@ -52,6 +52,8 @@
 
 24. EU-szintű vegyes pénzügyi holding társaság anyavállalat: az 575/2013/EU rendeletben ekként meghatározott fogalom;
 
+24a. fedezett kötelezettség: olyan kötelezettség, amelynek teljesítését jelzálogjog, kézizálog, visszatartási jog vagy más biztosíték fedezi, ideértve a repoügyletekből és más tulajdonjog-átruházási biztosítékról szóló megállapodásból származó kötelezettséget is;
+
 25. felhígulás: tulajdoni hányad csökkenése annak következtében, hogy új tagsági részesedést megtestesítő instrumentumok kerülnek kibocsátásra;
 
 26. felmondási jog: a szerződés felmondására irányuló jog, a kötelezettségek esedékességének előrehozására, lezárására, egymással szemben való elszámolására vagy nettósítására irányuló jog vagy az egyik szerződő fél fizetési kötelezettségét felfüggesztő, módosító vagy megszüntető bármely hasonló rendelkezés, illetve olyan rendelkezés, amely megakadályozza egy szerződés szerinti követelés esedékessé válását;

@@ -1,14 +1,18 @@
 ## 48. A szanálási jogosultságok gyakorlása
 
-92. § (1) A szanálási feladatkörében eljáró MNB megfelelő eszközökkel és intézkedési lehetőségekkel rendelkezik a szanálás alatt álló intézmény felett a szanálás alatt álló intézmény
+92. § (1) A szanálási célok elérése és a szanálási intézkedések alkalmazása céljából a szanálási eljárás elrendelésétől annak megszűnéséig a szanálási feladatkörében eljáró MNB gyakorolja a szanálás alatt álló intézmény tulajdonosainak, valamint vezetésének a szanálás alá volt intézmény feletti minden irányítási jogosultságait
 
-a) működtetése érdekében ideértve az intézmény tulajdonosainak minden jogosultságát, valamint a szanálás alatt álló intézmény vezetése, tevékenységeinek folytatása és szolgáltatásainak nyújtása fenntartását, valamint
+a) a szanálás alatt álló intézmény működtetése, tevékenységeinek és szolgáltatásainak folytatása, és
 
-b) eszközeinek és tulajdonának kezelése és az azok feletti rendelkezés fenntartása céljából.
+b) a szanálás alatt álló intézmény eszközeinek és vagyonának kezelése és elidegenítése
 
-(2) Az (1) bekezdésben meghatározott célok eléréséért a szanálási feladatkörében eljáró MNB közvetlenül vagy általa megbízott személy révén tehet lépéseket.
+érdekében.
 
-(3) A szanálási feladatkörében eljáró MNB egyedi alapon dönt arról, hogy a szanálási intézkedést az (1) és (2) bekezdésben meghatározott módszerek révén végre tudja-e megfelelően hajtani
+(2) A szanálási feladatkörében eljáró MNB az (1) bekezdésben meghatározott tulajdonosi és vezetési jogosultságokat közvetlenül vagy az általa megbízott személy révén gyakorolja, ideértve a szanálás alatt álló intézmény részvényeiből és más tagsági részesedéseiből származó szavazati jogosultságok gyakorlását is. A részvények és más tagsági részesedések tulajdonosai szavazati jogukat a szanálási eljárás alatt nem gyakorolják.
+
+(3) A szanálási feladatkörében eljáró MNB a szanálás alatt álló intézmény tulajdonosait és vezetését megillető irányítási jogosultságok gyakorlása nélkül, közigazgatási hatósági döntések révén is megteheti a szanálás céljának elérése érdekében szükséges szanálási intézkedéseket, valamint meghatározhatja a szanálás alá vont intézmény tulajdonosai és vezetése által gyakorolható irányítási jogosultságok körét.
+
+(4) A szanálási feladatkörében eljáró MNB
 
 a) a szanálási célokra,
 
@@ -16,6 +20,6 @@ b) a szanálásra vonatkozó általános elvekre,
 
 c) a szanálás alatt álló intézmény egyedi körülményeire, és
 
-d) a határokon átnyúló tevékenységű csoportok hatékony szanálásának előmozdítására
+d) a határon átnyúló tevékenységű csoportok hatékony szanálása előmozdításának szükségességére
 
-tekintettel.
+tekintettel dönt arról, hogy az (1)–(3) bekezdésben meghatározott módszerek közül melyekkel tudja a leghatékonyabban végrehajtani a szanálási intézkedéseket.

@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdés szerinti értesítés tartalmazza legalább
 
-a) a szanálási intézkedést, és
+a) azon hatósági döntés másolatát, amely révén a hatáskörök gyakorlására sor kerül, és
 
 b) azt az időpontot, amelytől kezdve a szanálási intézkedés hatályos.
 

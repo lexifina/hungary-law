@@ -11,3 +11,5 @@ b) egy vagy több szanálás alatt álló intézmény összes vagy egyes eszköz
 (3) Ha a Szanálási Alap rendelkezésére álló pénzeszközök nem teszik lehetővé áthidaló intézmény alkalmazását, akkor az áthidaló intézmény az állam tulajdonában vagy ellenőrző befolyása alatt is működhet.
 
 (4) Az áthidaló intézmény eszköz alkalmazásakor a szanálási feladatkörében eljáró MNB-nek biztosítania kell, hogy az áthidaló intézményre átruházott kötelezettségek összértéke ne legyen nagyobb a szanálás alatt álló intézménytől átvett vagy más forrásokból kiegészített vagyoni eszközök összértékénél.
+
+(5) Az (1) bekezdés szerinti átruházáshoz az áthidaló intézmény egyetértésén kívül nincs szükség a szanálás alatt álló intézmény tulajdonosának vagy bármely egyéb személynek az egyetértésére, és az átruházás során e törvény áthidaló intézmény alkalmazására vonatkozó szabályait kell alkalmazni.

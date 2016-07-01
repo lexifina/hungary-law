@@ -18,7 +18,11 @@ g) az átvevő szerződéses jogutóddá történő kijelölésére.
 
 (2) A szanálási feladatkörében eljáró MNB akkor gyakorolhatja az (1) bekezdésben meghatározott jogosultságokat, ha úgy ítéli meg, hogy azok szükségesek a szanálási intézkedés hatékonyságának biztosítása, illetve egy vagy több szanálási cél megvalósítása érdekében.
 
-(3) A szanálási feladatkörében eljáró MNB a szanálási jogosultságok gyakorlása során előírhatja olyan üzletmenet folytonosságát biztosító intézkedések alkalmazását, amelyek szükségesek a szanálási intézkedés hatékonyságának és annak a biztosításához, hogy az átvevő működtetni tudja az átruházott üzleti tevékenységet.
+(3) A szanálási feladatkörében eljáró MNB a szanálási jogosultságok gyakorlása során olyan üzletmenet folytonosságot biztosító intézkedéseket alkalmazhat, amelyek szükségesek a szanálási intézkedés hatékonyságának és annak a biztosításához, hogy az átvevő működtetni tudja az átruházott üzleti tevékenységet, ideértve azt is, hogy
+
+a) a szanálás alá vont intézmény bármely átruházott pénzügyi instrumentuma, jogosultsága, eszköze vagy kötelezettsége tekintetében a folyamatosság biztosítása érdekében az átvevőt a szanálás alatt álló intézmény helyébe léptetheti minden olyan szerződésben, amelyben a szanálás alatt álló intézmény akár kifejezetten, akár közvetve szerepel;
+
+b) a szanálás alá vont intézmény bármely átruházott pénzügyi instrumentumával, jogosultságával, eszközével vagy kötelezettségével kapcsolatos bármilyen jogi eljárásban kezdeményezheti az átvevő szanálás alatt álló intézmény helyébe léptetését, amely kezdeményezés alapján a helyébe léptetést foganatosítani kell.
 
 (4) Az (1) bekezdés d) pontjában és a (3) bekezdésben foglalt jogosultságok nem érintik
 
