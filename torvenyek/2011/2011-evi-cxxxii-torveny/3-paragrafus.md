@@ -1,6 +1,6 @@
 3. § E törvény alkalmazásában
 
-1. államtudományi és közigazgatási felsőoktatás: a köztisztviselői és kormánytisztviselői életpályára felkészítő államtudományi és alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok, ideértve az államtudományi doktori cím használatára jogosító osztatlan szakot is;
+1. államtudományi és közigazgatási felsőoktatás: a kormánytisztviselői, állami tisztviselői és a köztisztviselői életpályára felkészítő államtudományi és alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok, ideértve az államtudományi doktori cím használatára jogosító osztatlan szakot is;
 
 2. rendészeti felsőoktatás: a rendészeti ágazat szakembereinek felkészítése érdekében indított alapképzési szakok, valamint a hozzájuk kapcsolódó mesterképzési szakok;
 

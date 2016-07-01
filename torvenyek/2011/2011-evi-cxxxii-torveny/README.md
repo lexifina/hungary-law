@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-132-00-00
 | 2015-07-01 | 2015. évi XIII. törvény | 2011-132-00-00.15 |
 | 2015-07-21 | 2015. évi CXXXII. törvény | 2011-132-00-00.16 |
 | 2015-09-01 | 2015. évi CXXXII. törvény | 2011-132-00-00.17 |
+| 2016-07-01 | 2015. évi CXXXII. törvény | 2011-132-00-00.18 |

@@ -16,6 +16,6 @@ g) szakmai területen vagy szakmai szervnél meghatározott idejű gyakorlat, il
 
 h) vezetői, illetve elöljárói támogató nyilatkozat,
 
-i) végzettség, szakképzettség, szakképesítés, képesítés, szaktanfolyami vizsga, közigazgatási vizsga megléte vagy megkezdése, továbbá
+i) végzettség, szakképzettség, szakképesítés, képesítés, szaktanfolyami vizsga, közigazgatási vizsga, közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség megléte vagy megkezdése, továbbá
 
 j) a pályaalkalmassági vizsgálatok részeként pályaalkalmassági orientációs beszélgetésen való megfelelés.
