@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-144-20-
 | 2013-09-04 | 2012-144-20-2Y.4 | 72/2013. (VIII. 27.) VM rendelet |
 | 2014-01-01 | 2012-144-20-2Y.5 | 132/2013. (XII. 23.) VM rendelet |
 | 2015-04-01 | 2012-144-20-2Y.6 | 15/2015. (III. 31.) FM rendelet |
+| 2016-07-01 | 2012-144-20-2Y.7 | 43/2016. (VI. 28.) FM rendelet |

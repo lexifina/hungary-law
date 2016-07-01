@@ -8,9 +8,9 @@
 
 ## A hulladékká vált PCB, PCB-vel szennyezett berendezés, valamint tárgy ártalmatlanítására szolgáló műveletek
 
-1. A hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 2. melléklete szerinti D8 művelet.
+1.[^12] A hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló 43/2016. (VI. 28.) FM rendelet (a továbbiakban: miniszteri rendelet) 1. melléklete szerinti D8 művelet.
 
-2. A Ht. 2. melléklete szerinti D9 művelet a következők szerint:
+2.[^13] A miniszteri rendelet 1. melléklete szerinti D9 művelet a következők szerint:
 
 a) desztillálás,
 
@@ -18,12 +18,16 @@ b) fázisszeparáció (pl. emulzióbontás),
 
 c) egyéb (a hulladék kémiai tulajdonságaival összhangban lévő fizikai-kémiai kezelések).
 
-3. A Ht. 2. melléklete szerinti D10 művelet a következők szerint:
+3.[^14] A miniszteri rendelet 1. melléklete szerinti D10 művelet a következők szerint:
 
 a) égetés veszélyes-hulladékégető műben,
 
 b) egyéb termikus ártalmatlanítás (pl. plazmaégetés).
 
-4. A Ht. 2. mellékletében meghatározott D15 művelet.
+4.[^15] A miniszteri rendelet 1. mellékletében meghatározott D15 művelet.
 
 [^11]: A 2. melléklet a 72/2013. (VIII. 27.) VM rendelet 7. §-ával megállapított szöveg.
+[^12]: A 2. melléklet 1. pontja a 43/2016. (VI. 28.) FM rendelet 4. § a) pontja szerint módosított szöveg.
+[^13]: A 2. melléklet 2. pont nyitó szövegrésze a 43/2016. (VI. 28.) FM rendelet 4. § b) pontja szerint módosított szöveg.
+[^14]: A 2. melléklet 3. pont nyitó szövegrésze a 43/2016. (VI. 28.) FM rendelet 4. § b) pontja szerint módosított szöveg.
+[^15]: A 2. melléklet 4. pontja a 43/2016. (VI. 28.) FM rendelet 4. § c) pontja szerint módosított szöveg.
