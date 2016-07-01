@@ -16,17 +16,19 @@ f) szülő nő, illetve újszülött/koraszülött első egészségügyi szakell
 
 (3) Egészségügyi intézmény akkor lehet a Mentőszolgálat által végzett mentés helyszíne, ha ott a beteg állapotának megfelelő ellátás személyi és/vagy tárgyi feltételek hiányában nem biztosítható.
 
-(4) Ha a bejelentés alapján nem dönthető el egyértelműen, hogy mentőegység kiküldése szükséges-e, a Mentőszolgálat eljáró alkalmazottja köteles haladéktalanul intézkedni a beteg orvosi ellátása iránt.
+(4)[^7] A mentésirányítást ellátó személy a bejelentés tartalma és az összes körülmény értékelése alapján dönt a mentés szükségességéről és megteszi a mentésről szóló miniszteri rendeletben meghatározott intézkedéseket.
 
-(5) Ha a beteg azonnali orvosi ellátásra szorul, az orvos, illetve mentőtiszt nélküli mentőegység a helyszíni viszonyok függvényében segélykocsit kér, vagy a beteget haladéktalanul bemutatja a legközelebbi orvosnak (háziorvos, ügyeletes orvos, rendelőintézeti, illetve kórházi orvos). A mentőegység a továbbiakban az orvos utasítása szerint jár el.
+(5)[^8] Az orvos nélküli mentőegység – a mentésirányítást ellátó személlyel közreműködve – a mentésről szóló miniszteri rendeletben meghatározottak szerint felméri a beteg állapotát, és ezt követően intézkedik a beteg megfelelő ellátásáról.
 
 (6) A Mentőszolgálat a sürgősségi betegellátás keretében földi és légi mentési feladatokat lát el.
 
-(7)[^7] A Mentőszolgálat légi mentési feladatait az általa alapított, egyszemélyes vagyonkezelésében és szakmai felügyelete alatt álló OMSZ Magyar Légimentő Nonprofit Korlátolt Felelősségű Társaság útján látja el.
+(7)[^9] A Mentőszolgálat légi mentési feladatait az általa alapított, egyszemélyes vagyonkezelésében és szakmai felügyelete alatt álló OMSZ Magyar Légimentő Nonprofit Korlátolt Felelősségű Társaság útján látja el.
 
 (8) A Mentőszolgálat feladatkörében országosan működteti a sürgősségi segélyhívó szám(ok)hoz kapcsolódó mentésirányítási rendszert.
 
-(9)[^8] A Mentőszolgálat Budapest és Pest megye területén ellátja az egészségügyről szóló 1997. évi CLIV. törvény 93. § (3)–(6) bekezdésén alapuló sürgősségi ügyeleti ellátással kapcsolatos feladatokat.
+(9)[^10] A Mentőszolgálat Budapest és Pest megye területén ellátja az egészségügyről szóló 1997. évi CLIV. törvény 93. § (3)–(6) bekezdésén alapuló sürgősségi ügyeleti ellátással kapcsolatos feladatokat.
 
-[^7]: A 6. § (7) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 368. § b) pontja szerint módosított szöveg.
-[^8]: A 6. § (9) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 45. §-a iktatta be.
+[^7]: A 6. § (4) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^8]: A 6. § (5) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^9]: A 6. § (7) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 368. § b) pontja szerint módosított szöveg.
+[^10]: A 6. § (9) bekezdését az 520/2013. (XII. 30.) Korm. rendelet 45. §-a iktatta be.
