@@ -1,4 +1,4 @@
-16. § (1)[^29] A pénztár befektetési politikáját az igazgatótanács alakítja ki és fogadja el. A befektetési politika kötelező tartalmi elemei a következők:
+16. § (1)[^30] A pénztár befektetési politikáját az igazgatótanács alakítja ki és fogadja el. A befektetési politika kötelező tartalmi elemei a következők:
 
 a) a pénztári vagyon – ideértve saját járadékot folyósító pénztár esetén a szolgáltatási tartalékot is – befektetésének célja, alapelvei, a befektetési politikában érvényre juttatandó pénztártagi és pénztári érdekek, ingatlanbefektetéssel rendelkező pénztár esetén az ingatlanokkal kapcsolatos pénztári stratégia meghatározása,
 
@@ -18,15 +18,15 @@ e) a pénztár befektetéssel foglalkozó alkalmazottai, a letétkezelő, a vagy
 
 (5) A befektetési politikát megvalósító személyek/megbízottak részére a befektetési politika rájuk vonatkozó részét vagyonkezelési irányelvekbe kell foglalni. A vagyonkezelési irányelvek kötelező tartalmi eleme a kezelt portfolió vonatkozásában megengedett befektetési eszközök portfolión belüli minimum és maximum arányai és a kezelt portfolióra vonatkozó referencia indexek meghatározása.
 
-(6)[^30] A vagyonkezelési irányelvek esetében referencia index alatt értendő a kezelt portfólió jellemző összetételét tükröző tőkepiaci index vagy több tőkepiaci index kombinációja, melynek adott időszak alatti változása összehasonlítható a kezelt portfólió adott időszak alatti, az adott portfólióval kapcsolatos pénzáramlást figyelembe vevő vagyonkezelői hozamrátával. A vagyonkezelési irányelvekben foglalt referencia indexeknek összességében összhangban kell állniuk a pénztárszintű befektetési politika referencia indexével.
+(6)[^31] A vagyonkezelési irányelvek esetében referencia index alatt értendő a kezelt portfólió jellemző összetételét tükröző tőkepiaci index vagy több tőkepiaci index kombinációja, melynek adott időszak alatti változása összehasonlítható a kezelt portfólió adott időszak alatti, az adott portfólióval kapcsolatos pénzáramlást figyelembe vevő vagyonkezelői hozamrátával. A vagyonkezelési irányelvekben foglalt referencia indexeknek összességében összhangban kell állniuk a pénztárszintű befektetési politika referencia indexével.
 
-(7)[^31] A befektetési politikát a pénztár a tevékenységi engedély hatálybalépését követő 180 napon belül egy alkalommal köteles – az annak elfogadását követő 15 napon belül – a Felügyelethez benyújtani. A pénztár ugyancsak köteles az alapszabálynak – a saját járadékszolgáltatás lehetőségét tartalmazó – módosítását követő 15 napon belül, a szolgáltatási tartalék eszközeinek befektetésére vonatkozó rendelkezésekkel kiegészített befektetési politikát a Felügyelet részére megküldeni. A Felügyelet megvizsgálja, hogy a benyújtott befektetési politika megfelel-e a vonatkozó jogszabályi előírásoknak.
+(7)[^32] A befektetési politikát a pénztár a tevékenységi engedély hatálybalépését követő 180 napon belül egy alkalommal köteles – az annak elfogadását követő 15 napon belül – a Felügyelethez benyújtani. A pénztár ugyancsak köteles az alapszabálynak – a saját járadékszolgáltatás lehetőségét tartalmazó – módosítását követő 15 napon belül, a szolgáltatási tartalék eszközeinek befektetésére vonatkozó rendelkezésekkel kiegészített befektetési politikát a Felügyelet részére megküldeni. A Felügyelet megvizsgálja, hogy a benyújtott befektetési politika megfelel-e a vonatkozó jogszabályi előírásoknak.
 
 (8) Az igazgatótanács legalább évente köteles döntést hozni a befektetési politika fenntartása vagy módosítása kérdésében. A meghozott döntésről az igazgatótanács legkésőbb a pénztár közgyűlésének soron következő ülésén ad tájékoztatást.
 
 (9) A pénztár az éves beszámoló kiegészítő mellékletében köteles beszámolni a tárgyévre vonatkozó befektetési politikáról, annak teljesítéséről, illetve a befektetési politikával kapcsolatos jövőbeni elképzeléseiről.
 
-(10)[^32] A pénztár aktuális befektetési politikáját
+(10)[^33] A pénztár aktuális befektetési politikáját
 
 a) a pénztárba belépni kívánó magánszeméllyel meg kell ismertetni,
 
@@ -34,10 +34,10 @@ b) a pénztártaggal kérésére, a pénztár alapszabályában szabályozott m�
 
 c) a (8) bekezdés szerinti döntést követő 8 munkanapon belül a Felügyelet által üzemeltetett közzétételi helyen közzé kell tenni.
 
-(11)[^33] A pénztár befektetett eszközeinek összetételét a pénzügyi tervben rögzített pénzmozgások figyelembevételével kell meghatározni.
+(11)[^34] A pénztár befektetett eszközeinek összetételét a pénzügyi tervben rögzített pénzmozgások figyelembevételével kell meghatározni.
 
-[^29]: A 16. § (1) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^30]: A 16. § (6) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^31]: A 16. § (7) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^32]: A 16. § (10) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
-[^33]: A 16. § (11) bekezdését a 302/2002. (XII. 27.) Korm. rendelet 2. §-a iktatta a szövegbe.
+[^30]: A 16. § (1) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^31]: A 16. § (6) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^32]: A 16. § (7) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^33]: A 16. § (10) bekezdése a 470/2015. (XII. 29.) Korm. rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^34]: A 16. § (11) bekezdését a 302/2002. (XII. 27.) Korm. rendelet 2. §-a iktatta a szövegbe.

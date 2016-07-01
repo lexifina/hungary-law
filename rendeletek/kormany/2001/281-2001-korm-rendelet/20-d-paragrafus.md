@@ -1,15 +1,15 @@
-20/D. §[^51] (1)[^52] A pénztár a megbízását követő 15 napon belül a Felügyeletnek jóváhagyás végett bejelenti az értékelő személyét, és – a (3) bekezdésben foglaltak figyelembevételével – csatolja
+20/D. §[^52] (1)[^53] A pénztár a megbízását követő 15 napon belül a Felügyeletnek jóváhagyás végett bejelenti az értékelő személyét, és – a (3) bekezdésben foglaltak figyelembevételével – csatolja
 
-a)[^53] természetes személy esetén a végzettségét és gyakorlatát igazoló dokumentumok hiteles másolatát;
+a)[^54] természetes személy esetén a végzettségét és gyakorlatát igazoló dokumentumok hiteles másolatát;
 
 b) társaság esetén az eljáró személy a) pontban felsorolt dokumentumait, továbbá a társaságra vonatkozó következő adatokat: a társaság neve, székhelye, az alapítás időpontja, a cégbejegyzés száma, helye és ideje, a tevékenységi kör meghatározása, a működés időtartama, az üzleti év, az alaptőkéje, tulajdonosi köre, a vezető tisztségviselők fontosabb személyi és szakmai adatai, gazdálkodásuk fontosabb adatai (előző három év mérlege), alkalmazotti létszáma, feladata.
 
-(2)[^54] A megbízást jóváhagyottnak kell tekinteni, ha a Felügyelet harminc napon belül nem dönt.
+(2)[^55] A megbízást jóváhagyottnak kell tekinteni, ha a Felügyelet harminc napon belül nem dönt.
 
-(3)[^55] Ha a pénztár nem csatolja az (1) bekezdés b) pontjában felsorolt adatokat, a Felügyelet az adatok szolgáltatása érdekében megkeresi az adatokról nyilvántartást vezető hatóságot.
+(3)[^56] Ha a pénztár nem csatolja az (1) bekezdés b) pontjában felsorolt adatokat, a Felügyelet az adatok szolgáltatása érdekében megkeresi az adatokról nyilvántartást vezető hatóságot.
 
-[^51]: A 20/D. §-t a 259/2003. (XII. 24.) Korm. rendelet 1. §-a iktatta a szövegbe.
-[^52]: A 20/D. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 682. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^53]: A 20/D. § (1) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 686. § (1) bekezdésének 12. pontja szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^54]: A 20/D. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 249. §-ával megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (28) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
-[^55]: A 20/D. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 682. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^52]: A 20/D. §-t a 259/2003. (XII. 24.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^53]: A 20/D. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 682. § (2) bekezdése szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^54]: A 20/D. § (1) bekezdésének a) pontja a 182/2009. (IX. 10.) Korm. rendelet 686. § (1) bekezdésének 12. pontja szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^55]: A 20/D. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 249. §-ával megállapított, a 289/2010. (XII. 21.) Korm. rendelet 3. § (28) bekezdése szerint módosított szöveg. Ez utóbbi módosító rendelet 7. §-a alapján a 2011. január 1-jét követően indult ügyekben és megismételt eljárásokban kell alkalmazni.
+[^56]: A 20/D. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 682. § (1) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2010. január 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

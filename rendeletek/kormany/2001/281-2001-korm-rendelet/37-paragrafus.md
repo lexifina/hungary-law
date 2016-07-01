@@ -1,3 +1,3 @@
-## 36. §[^105]
+## 36. §[^110]
 
-[^105]: A 36. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1008. pontja hatályon kívül helyezte.
+[^110]: A 36. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1008. pontja hatályon kívül helyezte.
