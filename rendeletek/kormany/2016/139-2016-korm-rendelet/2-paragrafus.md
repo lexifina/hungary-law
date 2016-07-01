@@ -1,0 +1,3 @@
+## 1. § Az önkéntes kölcsönös egészség- és önsegélyező pénztárak egyes gazdálkodási szabályairól szóló 268/1997. (XII. 22.) Korm. rendelet (a továbbiakban: Ebr.) 1. §-a helyébe a következő rendelkezés lép:
+
+## „1. § A rendelet hatálya az Öpt. 1. § (1) bekezdés a) pontjában meghatározott önkéntes kölcsönös biztosító pénztárak közül az Öpt. 10. § (1) bekezdés b), c) és d) pontjában meghatározott egészségpénztárakra, önsegélyező pénztárakra, valamint egészség- és önsegélyező pénztárakra (a továbbiakban: pénztár), valamint az Öpt. 1. § (1) bekezdés b) pontjában meghatározott szervekre és szervezetekre terjed ki.”

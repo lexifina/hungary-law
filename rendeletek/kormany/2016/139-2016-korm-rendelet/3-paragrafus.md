@@ -1,0 +1,3 @@
+## 2. § Az Ebr. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A pénztár a letétkezelési feladatok ellátásával a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározottak szerinti letétkezelés szolgáltatás nyújtására feljogosított hitelintézetet köteles megbízni. Nem köteles letétkezelőt megbízni az a pénztár, amelynek tárgyévi nyitómérlegében a fedezeti és likviditási alap együttes állománya nem haladja meg a 100 millió forintot, és amely a vagyonát kizárólag az 1. számú melléklet 1. pont a)–c) alpontja szerinti eszközökben tartja.”
