@@ -1,0 +1,1 @@
+## „(4) Ha a 3. § (1) bekezdés d) pontja szerinti adatok bármelyike megváltozik, erről a támogatást nyújtó köteles haladéktalanul, de legkésőbb a változás időpontját követő tizenöt napon belül tájékoztatni a minisztert.”
