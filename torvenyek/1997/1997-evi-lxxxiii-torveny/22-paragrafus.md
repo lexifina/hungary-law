@@ -16,7 +16,7 @@ c) a megfelelő feltételekkel rendelkező, bármely más – a biztosított lak
 
 (3) A biztosított a gyógyászati segédeszköz próbájával, illetve kiszolgáltatásával kapcsolatos utazási költségeinek támogatására akkor jogosult, ha a gyógyászati segédeszközt a tartózkodási helyéhez legközelebb eső, a rendelt gyógyászati segédeszköz kiszolgáltatására az egészségbiztosítóval szerződött forgalmazónál szerzi be.
 
-(4) A fogyatékos gyermek korai fejlesztését és gondozását, fejlesztő felkészítését nyújtó intézmény igénybevételével kapcsolatban felmerült utazási költségekhez támogatás jár.
+(4) A sajátos nevelési igényű gyermek korai fejlesztését és gondozását, fejlesztő felkészítését nyújtó intézmény igénybevételével kapcsolatban felmerült utazási költségekhez támogatás jár.
 
 (5) A betegségek megelőzését és korai felismerését szolgáló szervezett szűrővizsgálat igénybevételével kapcsolatban felmerült utazási költséghez támogatás jár. A biztosított a támogatásra akkor jogosult, ha a jogszabályban meghatározott szűrővizsgálatot behívás alapján vette igénybe.
 

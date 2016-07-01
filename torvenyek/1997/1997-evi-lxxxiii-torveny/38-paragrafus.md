@@ -16,7 +16,9 @@ g) az egészségbiztosító és a szolgáltató közötti szerződésben foglalt
 
 (2) Gyógyászati ellátás támogatással történő nyújtásának az ellenőrzése során az egészségbiztosító az (1) bekezdés c)–d) pontjában foglaltakat vizsgálja.
 
-(3) Ha az (1)–(2) bekezdés alapján megállapításra kerül, hogy a kiszolgáltató, forgalmazó vagy az ellátást nyújtó a támogatás elszámolására vonatkozó szabályokat megszegte, az az így elszámolt támogatásnak a fizetési kötelezettség megállapításakor érvényes jegybanki alapkamat kétszeresével növelt összegét visszatéríti. Nem kell megfizetni a kamatot, ha annak összege az 1000 forintot nem éri el. A visszatérítési kötelezettség a támogatás jogalap nélküli elszámolását követő 5 éven belül támogatás elszámolása során is érvényesíthető.
+(3) Ha az (1) és (2) bekezdés alapján megállapításra kerül, hogy a kiszolgáltató, forgalmazó vagy az ellátást nyújtó a támogatás elszámolására vonatkozó szabályokat megszegte, valamint beszerzéssel és készlettel nem igazolta az elszámolt mennyiséget, az így elszámolt támogatásnak a fizetési kötelezettség megállapításakor érvényes jegybanki alapkamat kétszeresével növelt összegét visszatéríti a fizetési felszólításban megjelölt határidőn belül. Nem kell megfizetni a kamatot, ha annak összege az 1000 forintot nem éri el. A visszatérítési kötelezettség a támogatás jogalap nélküli elszámolását követő 5 éven belül támogatás elszámolása során is érvényesíthető.
+
+(3a) A (3) bekezdés szerinti, beszerzéssel és készlettel történő igazolási kötelezettség nem vonatkozik az egyedi méretvétel alapján gyártott gyógyászati segédeszköz kiszolgáltatójára.
 
 (4) Amennyiben a kiszolgáltató, forgalmazó vagy az ellátást nyújtó a támogatás elszámolására vonatkozó előírásokat
 

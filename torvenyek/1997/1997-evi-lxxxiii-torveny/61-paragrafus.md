@@ -27,3 +27,5 @@
 (9) A biztosított írásbeli kérelmére a csecsemőgondozási díj, illetve a gyermekgondozási díj folyósítását szüneteltetni kell.
 
 (10) A jogosult halála esetén a fel nem vett ellátást a vele közös háztartásban együtt élt házastárs, gyermek, unoka, szülő, nagyszülő és testvér egymást követő sorrendben, ezek hiányában az örökös veheti fel a halál napjától vagy a hagyatéki végzés jogerőre emelkedése napjától számított egy éven belül.
+
+(11) A 40. § (3) bekezdése, a 42/B. § (4) bekezdése és a 65. § (3a) bekezdése szerinti eljárások során a Ket. 71/A. § (4) bekezdésének alkalmazásakor a kérelem beérkezésének napja alatt a kérelem elbírálására vonatkozó határidő kezdő napját kell érteni.

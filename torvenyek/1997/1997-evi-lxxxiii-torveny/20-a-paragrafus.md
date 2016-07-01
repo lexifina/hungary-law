@@ -12,7 +12,7 @@
 
 (7) A betegfogadási lista az adott egészségügyi ellátásra előjegyzett biztosítottak családi és utónevét, társadalombiztosítási azonosító jelét valamint az ellátásra történő jelentkezés és az ellátás igénybevételének pontosan meghatározott időpontját és helyét tartalmazza.
 
-(8) A betegfogadási lista külön jogszabályban meghatározottak szerint összesített statisztikai adatait – kizárólag személyazonosításra alkalmatlan módon – az egészségbiztosító honlapján közzé kell tenni.
+(8)
 
 (9) Az országos várólista-nyilvántartás az intézményi várólista alapján ellátást igénybe vevő biztosítottnak az (1) bekezdés szerinti személyazonosító adatait, egyedi azonosítóját, az igénybevételre kerülő ellátás megjelölését, az ellátást nyújtó egészségügyi szolgáltató megnevezését és az ismertté válása esetén az ellátás igénybevételének időpontját tartalmazza. Az országos várólista-nyilvántartás az adatokat betegútszervezés céljából az ellátás elvégzésének az ellátást nyújtó egészségügyi szolgáltató általi – külön jogszabályban foglaltak szerinti – jelentéséig tartalmazhatja. Betegútelemzés és a kapacitáskihasználtság elemzése céljából személyazonosításra alkalmatlan módon további négy évig kezelhetőek az adatok.
 

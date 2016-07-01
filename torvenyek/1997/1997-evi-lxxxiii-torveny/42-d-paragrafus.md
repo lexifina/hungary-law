@@ -2,7 +2,7 @@
 
 a) a (2) és (3) bekezdés szerinti esetben a naptári napi alap 70%-a,
 
-b) a (4) bekezdés szerinti esetben a naptári napi jövedelem 70%-a,
+b)
 
 de legfeljebb havonta a mindenkori minimálbér kétszeresének 70%-a.
 

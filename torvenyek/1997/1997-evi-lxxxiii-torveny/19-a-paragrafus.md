@@ -2,7 +2,9 @@
 
 (1a) Az (1) bekezdés szerinti eljárásban a kérelmet – az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelveiről, feltételrendszeréről és részletes szabályairól, valamint a már befogadott technológiák körének felülvizsgálatáról és módosításáról szóló kormányrendeletben meghatározott adattartalmú nyomtatvány vagy elektronikus űrlap kitöltésével – papír alapon és elektronikus adathordozón is be kell nyújtani.
 
-(1b) Ha a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő előzetes befogadása iránti kérelem új eszközt nem igénylő új orvosi eljárásra irányul, az ügyintézési határidő hatvan nap.
+(1b) Ha a gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő előzetes befogadása iránti kérelem új eszközt igénylő, illetve új eszközt nem igénylő új orvosi eljárásra vagy korábban befogadott eszköz, orvosi eljárás új indikációban való alkalmazására irányul, az ügyintézési határidő hatvan nap.
+
+(1c) A gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő előzetes befogadása iránti kérelmek esetén az egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásának alapelveiről, feltételrendszeréről és részletes szabályairól, valamint a már befogadott technológiák körének felülvizsgálatáról és módosításáról szóló kormányrendelet alapján véleményezésre jogosult szervek az egészségbiztosító által részükre megküldött kérelmekhez kapcsolódó véleményeiket a kérelem kézhezvételétől számított 30 napon belül küldik meg a véleményt kérő egészségbiztosító részére.
 
 (2) A gyógyító-megelőző eljárások során alkalmazott egészségügyi technológiák egészségbiztosítási finanszírozásba történő befogadásához kapcsolódó egyes eljárásokért – az egészségbiztosításért felelős miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott – igazgatási szolgáltatási díjat kell fizetni.
 

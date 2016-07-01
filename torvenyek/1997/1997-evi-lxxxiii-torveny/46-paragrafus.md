@@ -6,9 +6,11 @@ b) egyévesnél fiatalabb gyermek szoptatása, illetőleg otthoni ápolása és 
 
 c) egyévesnél idősebb, de háromévesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként nyolcvannégy naptári napon át;
 
-d) háromévesnél idősebb, de hatévesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként negyvenkettő, egyedülállónak nyolcvannégy naptári napon át;
+d) háromévesnél idősebb, de hatévesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként a szülőnek negyvenkettő, egyedülálló szülőnek nyolcvannégy naptári napon át;
 
-e) hatévesnél idősebb, de tizenkét évesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként tizennégy, egyedülállónak huszonnyolc naptári napon át.
+e) hatévesnél idősebb, de tizenkét évesnél fiatalabb gyermek otthoni ápolása és – a gyermek fekvőbeteg-szakellátást nyújtó intézményben történő kezelése esetén – a fekvőbeteg-szakellátást nyújtó intézményben történő tartózkodás címén évenként és gyermekenként a szülőnek tizennégy, egyedülálló szülőnek huszonnyolc naptári napon át.
+
+(1a) Ha a biztosított szülő a gyermek ápolása címén igényel táppénzt, előzményként a gyermek előző születésnapjától a gyermek következő születésnapjáig eltöltött táppénzes napokat kell figyelembe venni.
 
 (2) Az (1) bekezdésben foglaltaktól eltérően a biztosított, ha részére külön törvény rendelkezése szerint betegszabadság jár, a 44. § a) és f) pontjában említett keresőképtelenség esetében táppénzre legkorábban a betegszabadságra való jogosultság lejártát követő naptól jogosult.
 

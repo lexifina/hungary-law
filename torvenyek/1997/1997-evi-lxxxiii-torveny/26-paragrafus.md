@@ -30,7 +30,11 @@ d) az (1) bekezdés c) pontja szerinti gyógyászati segédeszközre, amennyiben
 
 (4) Nem nyújtható az (1) bekezdés c) pontja szerinti támogatás
 
-a) olyan gyógyszerhez, amelyre vonatkozóan a Gyftv. szerinti támogatásba való befogadást a méltányossági kérelem benyújtását megelőző 5 évben kérelmezte, és az egészségbiztosítási szerv elutasító határozatot hozott, kivéve, ha az elutasítás költségvetési fedezet hiányán alapult,
+a) olyan gyógyszerhez, amelyre vonatkozóan a Gyftv. szerinti támogatásba való befogadást a méltányossági kérelem benyújtását megelőző 5 évben kérelmezte, és az egészségbiztosítási szerv elutasító határozatot hozott, kivéve,
+
+aa) ha az elutasítás költségvetési fedezet hiányán alapult, vagy
+
+ab) ha a forgalomba hozatali engedély jogosultja a gyógyszer – azonos indikációba történő – befogadása iránti kérelmet az elutasítást követően ismételten benyújtotta az egészségbiztosítóhoz,
 
 b) olyan, Magyarországon az adott indikációra forgalomba hozatali engedéllyel rendelkező gyógyszerhez, amely esetén
 
