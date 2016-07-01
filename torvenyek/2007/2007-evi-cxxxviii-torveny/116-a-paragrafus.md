@@ -1,4 +1,4 @@
-116/A. § (1) A befektetési vállalkozás, az árutőzsdei szolgáltató a szabályozott piacon, multilaterális kereskedési rendszerben megbízás végrehajtását megvalósító üzletkötésre olyan, vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyt köteles alkalmazni, akit a befektetési vállalkozás, az árutőzsdei szolgáltató vagy a közvetítő előzetes kérelme alapján a Felügyelet nyilvántartásba vett.
+116/A. § (1) A befektetési vállalkozás, az árutőzsdei szolgáltató a szabályozott piacon, multilaterális kereskedési rendszerben megbízás végrehajtását megvalósító üzletkötésre olyan, vele munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban álló személyt köteles alkalmazni, akit a befektetési vállalkozás, az árutőzsdei szolgáltató előzetes kérelme alapján a Felügyelet nyilvántartásba vett.
 
 (2) Az (1) bekezdés szerinti személyekről vezetett névjegyzékbe a Felügyelet azt a személyt jegyzi be, aki
 

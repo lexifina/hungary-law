@@ -6,26 +6,24 @@ b) pénzügyi intézménynél,
 
 c) értéktőzsdén, árutőzsdén,
 
-d)
+d) befektetési alapkezelőnél,
 
-e) befektetési alap-kezelőnél,
+e) kockázati tőkealap-kezelőnél,
 
-f) kockázati tőkealap-kezelőnél,
+f) az MNB-nél,
 
-g) az MNB-nél,
+g) az ÁKK Zrt.-nél, a kincstárnál,
 
-h) az ÁKK Zrt.-nél, a kincstárnál,
+h) közigazgatási szervnél,
 
-i) közigazgatási szervnél,
+i) árutőzsdei szolgáltatónál,
 
-j) árutőzsdei szolgáltatónál,
+j) központi értéktárnál, vagy
 
-k) központi értéktárnál, vagy
+k) központi szerződő félnél,
 
-l) központi szerződő félnél,
+l) biztosítónál vagy nyugdíjpénztárnál
 
-m) biztosítónál vagy nyugdíjpénztárnál,
-
-tisztségviselőként, köztisztviselőként, kormánytisztviselőként, vagy alkalmazottként befektetési vagy pénzügyi szakterületen eltöltött idő.
+tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami tisztviselőként, vagy alkalmazottként befektetési vagy pénzügyi szakterületen eltöltött idő.
 
 (2) Külföldön szerzett szakmai gyakorlat akkor vehető figyelembe, ha a szakirányú szakmai gyakorlat megszerzésére az (1) bekezdésben meghatározott szervezeteknek megfelelő intézménynél, illetve nemzetközi pénzügyi intézménynél került sor.

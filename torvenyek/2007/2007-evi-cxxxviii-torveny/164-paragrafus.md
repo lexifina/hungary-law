@@ -10,7 +10,7 @@ b) a befektetési szolgáltatási tevékenység, kiegészítő szolgáltatás, a
 
 c) a Felügyelet által kirendelt szakértő, illetve felügyeleti biztos közreműködésével kapcsolatban felmerült költségek megtérítésére kötelezhet,
 
-d) a befektetési vállalkozás és az árutőzsdei szolgáltató vezető állású személyének és könyvvizsgálójának felmentését, az alkalmazott felelősségre vonását kezdeményezheti,
+d) a befektetési vállalkozás és az árutőzsdei szolgáltató vezető állású személyének és könyvvizsgálójának felmentését, a befektetési vállalkozás és az árutőzsdei szolgáltató alkalmazottjának felelősségre vonását kezdeményezheti,
 
 e) a befektetési vállalkozás és az árutőzsdei szolgáltató igazgatóságát rendkívüli közgyűlés összehívására kötelezheti, és arra kötelező napirend megtárgyalását írhatja elő,
 

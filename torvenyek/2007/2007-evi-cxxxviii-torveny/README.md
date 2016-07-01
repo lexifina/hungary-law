@@ -32,3 +32,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-138-00-00
 | 2016-01-01 | 2015. évi CCXV. törvény | 2007-138-00-00.39 |
 | 2016-01-02 | 2015. évi CCV. törvény | 2007-138-00-00.40 |
 | 2016-06-04 | 2016. évi XLIV. törvény | 2007-138-00-00.41 |
+| 2016-07-01 | 2016. évi LIII. törvény | 2007-138-00-00.42 |
