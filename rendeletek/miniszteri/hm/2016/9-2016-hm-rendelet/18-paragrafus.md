@@ -1,0 +1,3 @@
+## 17. § Az R5. a következő 79/A. §-sal egészül ki:
+
+## „79/A. § A honvéd altiszt-jelölt a Hvt. 36. § (1) bekezdés h) pontja szerinti feladat végrehajtásáért a feladatban való folyamatos részvételének 15. napjától kezdődő időszakra pótlékra jogosult. A pótlék mértékére a Hjt. 8. melléklet II. A honvéd altiszt-jelölt ösztöndíja alcím IV. pontját kell alkalmazni. A pótlék alapját képező tevékenység nyilvántartására, valamint a pótlék megállapítására a 79. §-ban foglaltakat kell alkalmazni azzal, hogy katasztrófavédelemmel összefüggő feladat alatt a Hvt. 36. § (1) bekezdés h) pontja szerinti feladatot kell érteni.”

@@ -1,0 +1,3 @@
+## 3. § A kondicionáló-kiképzési, valamint a katonai kiképzési és oktatási célú rendezvényekről, továbbá a regeneráló pihenés és a rekreáció rendjéről szóló 13/2013. (VIII. 21.) HM rendelet (a továbbiakban: R2.) a következő 20/A. §-sal egészül ki:
+
+## „20/A. § Az MH központi személyügyi szerv vezetője az 1. melléklet szerinti belföldi egyéni és családos igényjogosulti térítési díj összegét legfeljebb 20%-os mértékben csökkentheti, ha az igénybevett szolgáltatás ideje alatt az MH rekreációt végző szervezeténél olyan zajártalommal járó tevékenységek – különösen építési, felújítási munkálatok – folynak, amelyek korlátozzák a szolgáltatások zavartalan igénybevételét.”
