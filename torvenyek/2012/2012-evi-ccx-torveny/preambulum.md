@@ -1,1 +1,0 @@
-Az Országgyűlés a törvényesen és átláthatóan működő, a közszolgáltatásokat maradéktalanul biztosító állam működési feltételeinek a megteremtése, a helyi államigazgatási rendszer megújítása, a szolgáltató közigazgatás erősítése, valamint a közigazgatási hatósági eljárások ügyfélbarát jellegének és hatékonyságának növelése érdekében a következő törvényt alkotja:
