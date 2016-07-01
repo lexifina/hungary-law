@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-25-00-00
 | 2015-03-01 | 2014. évi XCIX. törvény | 1996-25-00-00.26 |
 | 2015-09-01 | 2014. évi XCIX. törvény | 1996-25-00-00.27 |
 | 2015-12-24 | 2015. évi CCXXVI. törvény | 1996-25-00-00.28 |
+| 2016-07-01 | 2015. évi CCXI. törvény | 1996-25-00-00.29 |

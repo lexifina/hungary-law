@@ -6,7 +6,7 @@ Az alapvető lakossági szolgáltatások
 
 1. A kegyeleti közszolgáltatás biztosítása, szociális temetésről való gondoskodás (a temetőkről és a temetkezésről szóló 1999. évi XLIII. törvény)
 
-2. A kéményseprő-ipari közszolgáltatás ellátásának biztosítása (a kéményseprő-ipari közszolgáltatásról szóló 2012. évi XC. törvény)
+2.
 
 3. A hulladékgazdálkodási közszolgáltatás ellátásának biztosítása (a hulladékról szóló 2012. évi CLXXXV. törvény)
 
