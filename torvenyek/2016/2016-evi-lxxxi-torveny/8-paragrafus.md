@@ -1,0 +1,1 @@
+8. § A Tszt. 18/C. § (1) bekezdésében az „ármegállapítás során figyelembe vett könyv szerinti bruttó eszközérték és az e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott nyereségtényező szorzatának mértékét” szövegrész helyébe az „e törvény felhatalmazása alapján kiadott miniszteri rendeletben meghatározott mértéket” szöveg lép.

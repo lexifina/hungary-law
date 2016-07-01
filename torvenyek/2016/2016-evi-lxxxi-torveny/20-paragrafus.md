@@ -1,0 +1,3 @@
+20. § A Get. 59. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A Hivatal az 55. § (1) bekezdés b) pontja szerinti piacon jelentős piaci erővel rendelkező engedélyesnek a lefolytatott piacelemzés eredménye alapján, az adott piacon a kellően hatékony verseny kialakulásának elősegítéséhez igazodó indokolt esetben előírhatja az átláthatóság biztosítása érdekében a határozatában foglaltaknak megfelelő bontású és részletezettségű – így különösen a szolgáltatási árat, a fizetési formákat, valamint a szolgáltatóváltáshoz kapcsolódó ügyintézési kötelezettségeket tartalmazó – a nem szervezett piacon történő értékesítés esetén alkalmazandó mintaajánlat készítését. A mintaajánlattól a szerződő felek közös megegyezéssel eltérhetnek.”
