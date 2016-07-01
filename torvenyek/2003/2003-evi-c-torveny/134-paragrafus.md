@@ -4,7 +4,7 @@
 
 (2) Az előfizetői szerződés szolgáltató általi felmondásának felmondási ideje a (6)–(7), illetve a (13) bekezdésben meghatározottak kivételével nem lehet kevesebb mint 60 nap.
 
-(3) A szolgáltató az előfizetői szerződés felmondását írásban, tértivevényes levélben, amennyiben az előfizetői szerződésben az előfizető hozzájárult, olyan elektronikus dokumentumban vagy elektronikus levélben köteles megküldeni, amelynek kézbesítése hitelesen igazolható, kivéve, ha az előfizetőt a felmondásról azért nem tudja így értesíteni, mert a szolgáltatás sajátosságai következtében a szolgáltató nem rendelkezik az előfizető e módon történő értesítéséhez szükséges adatokkal. Ez utóbbi esetben a szolgáltató az előfizetőt a szerződés felmondásáról a 144. § (4) bekezdésében meghatározott egyéb módon is értesítheti.
+(3) A szolgáltató az előfizetői szerződés felmondását írásban, tértivevényes levélben, vagy amennyiben az előfizetői szerződésben az előfizető hozzájárult, olyan elektronikus dokumentumban vagy elektronikus levélben köteles megküldeni, amelynek kézbesítése hitelt érdemlően igazolható, kivéve, ha az előfizetőt a felmondásról azért nem tudja így értesíteni, mert a szolgáltatás sajátosságai következtében a szolgáltató nem rendelkezik az előfizető ilyen módon történő értesítéséhez szükséges adatokkal. Ez utóbbi esetben a szolgáltató az előfizetőt a szerződés felmondásáról a 144. § (4) bekezdésében meghatározott egyéb módon is értesítheti.
 
 (4) Ha a felmondás indoka az előfizető szerződésszegése, és az előfizető a felmondási idő alatt a szerződésszegést megszünteti, az előfizetői szerződés nem szűnik meg a szolgáltató felmondásával. Erről a szolgáltató köteles az előfizetőt haladéktalanul értesíteni.
 
@@ -26,7 +26,15 @@ c) az egyetemes szolgáltatást igénybe vevő előfizető az előfizetői szolg
 
 d) az előfizető a szolgáltatást törvénybe ütköző módon vagy célokra használja.
 
-(7) A szolgáltató az előfizetői szerződést 30 napos felmondási idővel mondhatja fel, amennyiben az előfizető az esedékes díjat a jogkövetkezményekre figyelmeztető első értesítés elküldését legalább 15 nappal követő második értesítés megtörténtét követően sem egyenlítette ki. Nem jogosult a szolgáltató felmondani a szerződést, ha a díjtartozás összege nem haladja meg az előfizető havi előfizetési díjának megfelelő összeget, illetve havi előfizetési díj hiányában vagy tízezer forintnál magasabb havi előfizetési díj esetén a tízezer forintot, vagy ha az előfizető a díjtartozás összegszerűségét vitatja, és a vita rendezése érdekében a Hatósághoz vagy a jogvita elbírálására jogosult más szervezethez kérelmet terjesztett elő, feltéve, hogy az előfizető a szolgáltatás igénybevétele után a nem vitatott, illetve az esedékes, nem vitatott további díjakat folyamatosan megfizeti.
+(7) A szolgáltató az előfizetői szerződést 30 napos felmondási idővel mondhatja fel, amennyiben az előfizető az esedékes díjat a jogkövetkezményekre figyelmeztető első értesítés elküldését legalább 15 nappal követő második értesítés megtörténtét követően sem egyenlítette ki. Nem jogosult a szolgáltató felmondani a szerződést,
+
+a) 10 000 Ft-nál nem magasabb havi előfizetési díj esetén, ha a díjtartozás összege nem haladja meg az előfizető havi előfizetési díjának megfelelő összeget,
+
+b) havi előfizetési díj hiányában vagy 10 000 Ft-nál magasabb havi előfizetési díj esetén, ha a díjtartozás összege nem haladja meg a 10 000 Ft-ot, vagy
+
+c) ha az előfizető a díjtartozás összegszerűségét vitatja, és a vita rendezése érdekében a jogvita elbírálására jogosult szervhez kérelmet terjesztett elő, amelyről másolatban tájékoztatta a szolgáltatót, feltéve, hogy az előfizető a nem vitatott és a szolgáltatás igénybevételéért esedékes díjakat folyamatosan megfizeti.
+
+A szolgáltató köteles az előfizető kérésére a nem vitatott díjak befizetésének lehetőségét biztosítani.
 
 (8) Megszűnik az előfizetővel kötött előfizetői szerződése az előfizetői hozzáférést nyújtó szolgáltatónak a más szolgáltatóval kötött – a helyi hurok teljes átengedésére vonatkozó – szerződésének hatálybalépésével egyidejűleg, amelyről a szolgáltató az előfizetőt értesíteni köteles a megszűnés előtt 15 nappal.
 
@@ -46,7 +54,7 @@ d) a felek közös megegyezésével, figyelemmel a 127. § (4) bekezdésére és
 
 (10b) Az előfizetői szerződés kizárólag az e törvényben és a végrehajtására kiadott jogszabályban foglalt esetekben és módon szűnhet meg, az előfizetői szerződés bármely ezzel ellentétes rendelkezése semmis.
 
-(11) Az előfizetői szerződés megszűnése egyes eseteinek az (1)–(10a) bekezdésben nem szabályozott feltételeit a szolgáltató az általános szerződési feltételekben határozza meg.
+(11) Az előfizetői szerződés megszűnése egyes eseteinek e törvényben és a végrehajtására kiadott jogszabályban nem szabályozott feltételeit a szolgáltató az általános szerződési feltételekben határozza meg.
 
 (12) A szolgáltató – a másik szolgáltató kérelmére – köteles felmondani az előfizetői szerződést, ha a szolgáltató elektronikus hírközlő hálózatát másik szolgáltató használja, vagy a díjat másik szolgáltató helyett szedi be, és
 
@@ -56,9 +64,9 @@ b) a harmadik szolgáltató nem jogosult vagy nem képes a szolgáltatás korlá
 
 (13) A műsorterjesztési szolgáltatásra vonatkozó előfizetői szerződést a szolgáltató akkor is jogosult 15 napos határidővel felmondani, ha az előfizető a (6) bekezdés szerinti jogkövetkezményekre figyelmeztető értesítését követően is jogosulatlanul vételezi a műsorjelet, a beérkező műsorjelet harmadik személynek jogellenesen továbbítja, vagy a kódolt műsorjelet jogosulatlanul dekódolja.
 
-(14) A határozott időtartamú előfizetői szerződés a meghatározott idő elteltével megszűnik. A szerződés megszűnését megelőzően a szolgáltató köteles az előfizetőt a számlalevél mellékletében, számlalevél hiányában írásban, postai úton vagy a szolgáltatás jellegéhez igazodó elektronikus úton tájékoztatni a határozott idejű szerződés megszűnésének időpontjáról. A felek a határozott időtartamú előfizetői szerződésben szabadon megállapodhatnak a határozott időtartamú előfizetői szerződés megszűnését követő új előfizetői szerződés szerződéses feltételeiről, amely esetben a létrejövő új szerződés csak határozatlan időtartamú lehet. A felek a határozott idejű szerződés időtartamának meghosszabbításáról a szerződés megkötésekor és az előfizető kifejezett nyilatkozata esetén a határozott idő elteltét megelőzően szerződésmódosítással dönthetnek. A határozott idejű szerződés rendkívüli felmondásának feltételeit a szolgáltató az általános szerződési feltételekben határozza meg.
+(14) A határozott időtartamú előfizetői szerződés a meghatározott idő elteltével megszűnik. A szerződés megszűnését megelőzően a szolgáltató köteles az előfizetőt a számlalevél mellékletében, számlalevél hiányában írásban, postai úton vagy a szolgáltatás jellegéhez igazodó elektronikus úton tájékoztatni a határozott idejű szerződés megszűnésének időpontjáról. A felek a határozott időtartamú előfizetői szerződésben szabadon megállapodhatnak a határozott időtartamú előfizetői szerződés megszűnését követő új előfizetői szerződés szerződéses feltételeiről, amely esetben a létrejövő új szerződés csak határozatlan időtartamú lehet. A felek a határozott idejű szerződés időtartamának meghosszabbításáról a szerződés megkötésekor és az előfizető kifejezett nyilatkozata esetén a határozott idő elteltét megelőzően szerződésmódosítással dönthetnek. A határozott idejű szerződés felmondásának feltételeit a szolgáltató az általános szerződési feltételekben határozza meg.
 
-(15) Amennyiben az előfizető a határozott időtartamú előfizetői szerződésben kötelezettséget vállalt arra, hogy szolgáltatást vagy a hozzá kapcsolódó terméket igénybe veszi, és a szerződést az ebből eredő kedvezmények figyelembevételével kötötte meg, és a szerződést felmondja a határozott időtartam lejárta előtt, vagy a szolgáltató (6)–(7), illetve (13) bekezdés szerinti felmondására szerződésszegésével okot szolgáltat, a szolgáltató kizárólag az előfizető által igénybe vett kedvezményeket követelheti, a felmondáshoz egyéb hátrányos jogkövetkezményt nem fűzhet. Ebben az esetben a szerződés felmondási ideje legfeljebb 8 nap lehet, a szolgáltató az igénybe vett kedvezményeket a felmondási idő lejártáig jogosult felszámítani.
+(15) Amennyiben az előfizető a határozott időtartamú előfizetői szerződést az ebből eredő kedvezmények figyelembevételével kötötte meg, és a szerződést felmondja a határozott időtartam lejárta előtt, vagy a szolgáltató (6)–(7), illetve (13) bekezdés szerinti felmondására szerződésszegésével okot szolgáltat, a szolgáltató kizárólag az előfizető által igénybe vett kedvezményeket követelheti, a felmondáshoz egyéb hátrányos jogkövetkezményt nem fűzhet. Ebben az esetben a szerződés felmondási ideje legfeljebb 8 nap lehet. A jogkövetkezmény alkalmazására vonatkozó további feltételeket az Elnök rendeletben állapítja meg.
 
 (16) Az előre fizetett díjú előfizetői mobil rádiótelefon szolgáltatások esetében a (14) és (15) bekezdés nem alkalmazható. E szolgáltatások esetében az előfizető általi egyenlegfeltöltés új határozott idejű szerződés ráutaló magatartással történő megkötésének minősül. Az előfizető általi egyenlegfeltöltéssel az előző határozott idejű szerződés megszűnik azzal, hogy az előfizető hívószáma változatlan marad.
 

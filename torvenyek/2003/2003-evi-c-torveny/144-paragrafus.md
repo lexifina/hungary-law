@@ -55,3 +55,5 @@ d) a szolgáltatásokhoz és alkalmazásokhoz való hozzáférés, illetve azok 
 (10) A Hatóság – annak érdekében, hogy az előfizetők és felhasználók megfelelő információkkal rendelkezve a szolgáltatások minőségéről, az árakról és díjszabásokról, összehasonlíthassák az egyes szolgáltatásokat és a választási szabadságnak megfelelően ésszerű döntéseket hozzanak – határozatával előírhatja, hogy a hírközlési szolgáltatók összehasonlításra alkalmas módon az általuk nyújtott szolgáltatások minőségéről, elérhetőségéről, áráról, valamint az összehasonlítást lehetővé tevő, azt megkönnyítő további jellemzőiről adatokat szolgáltassanak a Hatóságnak vagy ilyen adatokat tegyenek közzé.
 
 (11) A Hatóság a hírközlési szolgáltatók által benyújtott információk alapján összehasonlító adatokat tesz közzé, hogy lehetővé tegye a felhasználók és az előfizetők számára, interaktív útmutatók vagy hasonló műszaki megoldások, alkalmazások segítségével a független költségértékelést.
+
+(12) A szolgáltató az elektronikus hírközlésre vonatkozó szabályban foglalt, előfizetői szerződéssel kapcsolatos értesítési, tájékoztatási kötelezettségének egyértelműen és pontosan köteles eleget tenni.

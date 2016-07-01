@@ -26,11 +26,11 @@ f) a megállapodás megkötésére irányuló, a használati jog és szükség s
 
 g) a (2d) és (2f) bekezdésben foglaltakra vonatkozó figyelemfelhívást.
 
-(2c) A hálózatüzemeltető az ajánlat beérkezésétől számított 15 napon belül írásban válaszol az elektronikus hírközlési szolgáltatónak. A válasznak tartalmaznia kell többek között a kérelemben érintett fizikai infrastruktúra átalakítás nélküli alkalmasságára vagy átalakítással alkalmassá tételére vonatkozó nyilatkozatot, az átalakítás költségére vonatkozó becslést, valamint az átalakítás kivitelezésének várható időtartamát.
+(2c) A hálózatüzemeltető az ajánlat beérkezésétől számított 15 napon belül írásban válaszol az elektronikus hírközlési szolgáltatónak. A válasznak tartalmaznia kell többek között az ajánlattal érintett fizikai infrastruktúra átalakítás nélküli alkalmasságára vagy átalakítással alkalmassá tételére vonatkozó nyilatkozatot, az átalakítás költségére vonatkozó becslést, valamint az átalakítás kivitelezésének várható időtartamát. Az átalakítás kivitelezésének időtartama a létesítési megállapodás létrejöttének időpontjától számított 270 napot nem haladhatja meg. Az átalakítás költségére vonatkozó becslés alapjául a fizikai infrastruktúra szükséges átalakításával közvetlen összefüggésben felmerülő indokolt és arra alkalmas dokumentumokkal igazolt költségek szolgálhatnak.
 
 (2d) A hálózatüzemeltető – törvény vagy törvény felhatalmazása alapján kiadott kormányrendelet eltérő rendelkezése hiányában – a (2a) bekezdés szerinti hozzájárulást csak akkor tagadhatja meg, ha
 
-a) a felhasználni kívánt fizikai infrastruktúra objektív műszaki okok miatt nem alkalmas arra, hogy annak felhasználásával a tervezett elektronikus hírközlési építmény a tervezett módon megvalósulhasson,
+a) a felhasználni kívánt fizikai infrastruktúra objektív műszaki okok miatt nem alkalmas arra, hogy annak felhasználásával a tervezett elektronikus hírközlési építmény a tervezett módon megvalósulhasson, azzal, hogy önmagukban az átalakítás szükségessége vagy a fizikai infrastruktúrán már nyújtott szolgáltatások nem minősülnek megtagadást megalapozó objektív műszaki oknak,
 
 b) a létesíteni kívánt elektronikus hírközlési építmény helyigénye az annak létesítésével érintett hálózat meglévő vagy tervezett helyigényével nem egyeztethető össze,
 
@@ -52,7 +52,7 @@ a) az eljárást a hálózatüzemeltető vagy az elektronikus hírközlési szol
 
 b) az eljárás lefolytatására irányuló kérelemhez csatolni kell a (2b) bekezdés szerinti ajánlatot, az annak kézhezvételét igazoló postai tértivevényt vagy a kézhezvételt igazoló más okiratot, valamint – ha rendelkezésre áll – a hálózatüzemeltető nyilatkozatát, továbbá annak indokát és igazolását, hogy a nagy sebességű elektronikus hírközlési hálózat gazdaságosan kizárólag a kérelmező által tervezett módon oldható meg,
 
-c) amennyiben az eljárást az elektronikus hírközlési szolgáltató kezdeményezi, az elektronikus hírközlési építmény elhelyezésére felhasználni kívánt fizikai infrastruktúra felett rendelkezési joggal rendelkező hálózatüzemeltető a Ket. 15. § (1) bekezdésében foglaltak vizsgálata nélkül ügyfélnek minősül,
+c)
 
 d) a Hatóságnak meg kell kísérelnie egyezség létrehozását az ellenérdekű ügyfelek között, ennek érdekében a hálózatüzemeltetőt – 8 napos határidő kitűzésével – az eljárás megindításáról szóló értesítésben a (2d) bekezdés a)–e) pontjai szerinti okok és erre vonatkozó indokai előterjesztésére hívja fel, valamint kötelezi a hálózatüzemeltetőt, hogy mutassa be a rendelkezése alatt álló fizikai infrastruktúra felhasználásával összefüggésben felmerülő költségét és kárát,
 

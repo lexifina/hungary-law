@@ -10,9 +10,9 @@ c) az elektronikus hírközlési feladatokat ellátó szervezetek és a titkos i
 
 d) a kormányzati célú hálózatokra és az ilyen hálózatokkal kapcsolatos elektronikus hírközlési tevékenységre vonatkozó, e törvénytől eltérő szabályokat;
 
-e)
+e) az e törvény szerinti egyablakos információs pontot működtető szervet, valamint az egyablakos információs pont működésére vonatkozó szabályokat;
 
-f)
+f) a nagy sebességű elektronikus hírközlő hálózati elemek építési munkáinak összehangolási kötelezettsége alól mentesülő építési munkák körét, valamint a fizikai infrastruktúrával kapcsolatos átláthatóságra, a közműhálózatok fejlesztésének átláthatóságára, és az épületen belüli fizikai infrastruktúra kiépítésére vonatkozó rendelkezések alkalmazása alóli kivételeket.
 
 (2)
 
@@ -84,6 +84,8 @@ f)
 
 33. a 159/B. § szerinti elektronikus hírközlési szolgáltatók és a kereső- és gyorsítótár-szolgáltatók KEHTA-hoz való kapcsolódásának és elektronikus kapcsolattartásának, valamint a KEHTA-hoz való kapcsolódás alóli mentesülés részletes szabályait;
 
-34. a 149/A. § (3) bekezdése szerinti pályázat eljárási szabályait és a pályázati kiírás részletes tartalmát.
+34.
+
+35. a 83/A. § (1) bekezdés szerinti írásbeli ajánlat kötelező tartalmi elemeit, valamint a Hatóság 83/B. § (1) bekezdése, 90. § (7) bekezdése, 93/A. § (8) bekezdése, 93/B. § (6) bekezdése, 94. § (2f) bekezdése és 99/C. § (2) bekezdése szerinti jogvitás eljárásának eljárási szabályait, a kérelem tartalmi követelményeit, a tényállás tisztázására vonatkozó szabályokat, a hatósági döntés tartalmát, a költségek megállapításának szabályait, az alkalmazandó költségszámítási vagy díjképzési módszer szabályait.
 
 (4) Az Elnök (3) bekezdés szerinti jogalkotási hatáskörébe tartozó, 2011. augusztus 1. napját megelőzően kibocsátott jogszabályok az Elnök által azonos tárgykörben kibocsátott jogszabályok hatálybalépésének napjáig maradnak hatályban, e napig alkalmazhatók.

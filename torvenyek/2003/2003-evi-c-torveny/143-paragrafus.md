@@ -4,7 +4,7 @@
 
 (2) Az előfizetői szerződésekből eredő polgári jogi igények egy év alatt évülnek el, amelyet az (1) bekezdés szerinti esetekben a késedelem, illetve a hibás teljesítés bekövetkezésétől kell számítani.
 
-(3) Az előfizetői szerződés megszegése esetén az elektronikus hírközlési szolgáltató az Elnök által rendeletben meghatározottak szerinti kötbért köteles fizetni.
+(3) Az előfizetői szerződés megszegése esetén az elektronikus hírközlési szolgáltató az Elnök által rendeletben meghatározott esetekben, mértékben és módon kötbért köteles fizetni.
 
 (4) Az előfizetői szerződéssel kapcsolatos hatósági ügy tárgyában (kérelemmel, bejelentéssel) a Hatóság eljárása a hatósági eljárás kezdeményezésére okot adó körülmény bekövetkezésétől számított hat hónapon belül kezdeményezhető.
 

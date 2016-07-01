@@ -18,7 +18,9 @@ f) a Hatósághoz benyújtott referenciaajánlatokról és hálózati szerződé
 
 g) a nem azonosítható hívószámokról;
 
-h) a nem harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezéseinek belföldi forgalomba hozataláról.
+h) a nem harmonizált frekvenciahasználatú rádióalkalmazások rádióberendezéseinek belföldi forgalomba hozataláról;
+
+i) az engedéllyel rendelkező, valamint a bejelentés alapján nyilvántartásba vett elektronikus hírközlési építményekről.
 
 (3) A hatósági nyilvántartásokban szereplő közérdekű adatokat bárki megismerheti, kivéve, ha jogszabály vagy nemzetközi kötelezettségvállalás a hatósági nyilvántartásba való betekintést kifejezetten korlátozza.
 

@@ -10,7 +10,7 @@ c) mobil rádiótelefon szolgáltatás esetén, ha az előfizető mobil rádiót
 
 (a továbbiakban: hordozott szám).
 
-(2) Az előfizetői hozzáférést nyújtó telefon szolgáltató (átadó szolgáltató), amelynek előfizetője szolgáltató változtatás keretében az előfizetői számát egy másik telefon szolgáltatóhoz átviszi (átvevő szolgáltató) köteles a számhordozhatóságról az átvevő szolgáltatóval megállapodni, amennyiben az átvevő az összekapcsolási szerződésekre vonatkozó jogszabályoknak megfelelő ajánlatot tesz.
+(2) A szolgáltató, amelynek előfizetője az előfizetői szerződés megszüntetését – vagy egyes hívószámok esetében módosítását – követően a hívószámát egy másik szolgáltatóhoz viszi át (a továbbiakban: átadó szolgáltató), azzal a szolgáltatóval, amelynek bármely jövőbeni előfizetője az előfizetői szerződés megkötésének keretében számát egy másik szolgáltatótól hozza át (a továbbiakban: átvevő szolgáltató), köteles hálózati szerződés keretében a számhordozhatóság feltételeiről megállapodni, amennyiben az átvevő szolgáltató az átadó szolgáltatónak az ezen szerződésekre irányadó elektronikus hírközlésre vonatkozó szabályoknak megfelelő ajánlatot tesz.
 
 (3) A hordozott számokra irányuló hívás díját a ténylegesen felépülő hívás, illetve szolgáltatás díjának megfelelően kell megállapítani. A hívó fél számára biztosítani kell annak a lehetőségét, hogy a hívás megkezdése előtt tájékozódni tudjon arról, hogy a hívás melyik szolgáltató hálózatában végződik, és annak tarifájáról.
 

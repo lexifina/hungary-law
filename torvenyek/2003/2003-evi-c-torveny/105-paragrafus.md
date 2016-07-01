@@ -4,7 +4,7 @@
 
 (2) A Hatóság a számviteli szétválasztással kapcsolatban előírhatja többek között a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató számára nagykereskedelmi árai és transzferárai átláthatóvá tételét, továbbá egyéb, az átlátható működéssel, illetve az egyenlő elbánással kapcsolatos kötelezettség ellenőrzéséhez szükséges adatok szolgáltatását.
 
-(3) A Hatóság – a külön jogszabályban meghatározott keretek között – meghatározhatja a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató által a számviteli szétválasztásra alkalmazandó elveket, formát és módszereket, illetve a kimutatások tartalmát.
+(3) A Hatóság határozatában meghatározhatja a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató által a számviteli szétválasztásra alkalmazandó elveket, formát és módszereket, illetve a kimutatások tartalmát.
 
 (4) A számviteli szétválasztási kimutatást a szolgáltatótól független könyvvizsgáló évente ellenőrzi a nagykereskedelmi szolgáltatási piacokon jelentős piaci erővel rendelkező szolgáltató költségén, és az elektronikus hírközlésre vonatkozó szabályoknak való megfelelőséget tanúsítja. A könyvvizsgáló tanúsítványát nyilvánosságra kell hozni.
 

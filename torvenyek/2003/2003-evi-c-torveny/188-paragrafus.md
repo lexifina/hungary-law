@@ -6,6 +6,10 @@
 
 1/a. Azonosítás szolgáltatás: olyan kapcsolódó szolgáltatás melyet az előfizető vagy felhasználó személyére vonatkozó adatok igénybevételével nyújtanak.
 
+1/b. Adatkicserélő központ: adatkicserélő szolgáltatás nyújtását lehetővé tévő osztott elektronikus hírközlő hálózat.
+
+1/c. Adatkicserélő szolgáltatás: előfizetők, elektronikus hírközlési szolgáltatók, vagy információs társadalommal összefüggő szolgáltatást nyújtó szolgáltatók által kezdeményezett, illetve fogadott IP alapú adatforgalom továbbítását lehetővé tevő, adatkicserélő központ útján természetes vagy jogi személy adatkicserélő szolgáltató által nyújtott elektronikus hírközlési szolgáltatás.
+
 2. Azonosító: az elektronikus hírközlő hálózat működéséhez, az elektronikus hírközlési szolgáltatások nyújtásához, illetőleg az elektronikus hírközlő hálózatok és szolgáltatások együttműködéséhez szükséges, az információ, illetőleg a jelzés célba juttatására szolgáló, annak címzettjét meghatározó betűkből, számokból, illetve jelekből álló karaktersorozat.
 
 3. Azonosítógazdálkodás: azon állami tevékenységek összessége, mely – a nemzetközi előírások figyelembevételével – a hírközlő hálózatok, illetőleg az elektronikus hírközlési szolgáltatások eléréséhez szükséges azonosítók használatát az egyes szolgáltatók számára rendelkezésre bocsátja. Jelen törvény vonatkozásában a domain név, az e-mail cím és az IP (Internet Protokoll) címekkel kapcsolatos tevékenységek nem tartoznak bele az azonosítógazdálkodási tevékenységbe.
@@ -34,7 +38,9 @@
 
 12. Elektronikus hírközlési építmény: az épített környezet alakításáról és védelméről szóló törvényben meghatározott sajátos építményfajták, az elektronikus hírközléshez szükséges olyan sajátos építmények, amelyek magukba foglalják a vezetékekkel és vezeték nélküli összeköttetésekkel összefüggő – burkoló, tartó, védő, jelző stb. – műtárgyakat, különösen a tartozékokat és a tartószerkezeteket, az antenna-tartószerkezeteket (tornyokat), oszlopokat, alagutakat, kábelszekrényeket, csatornákat, föld alatti és föld feletti jelzőket, védőműtárgyakat, és a nyomvonalas és nyomvonal jellegű elektronikus hírközlési építményeket;
 
-13. Elektronikus hírközlési szolgáltatás: olyan, más részére általában ellenszolgáltatásért végzett szolgáltatás, amely teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon történő átviteléből, és ahol ez értelmezhető, irányításából áll, de nem foglalja magában az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások felhasználásával továbbított tartalmat szolgáltató vagy ilyen tartalom felett szerkesztői ellenőrzést gyakorló szolgáltatásokat, valamint nem foglalja magában az információs társadalommal összefüggő, más jogszabályokban meghatározott szolgáltatásokat, amelyek nem elsősorban az elektronikus hírközlő hálózatokon történő jeltovábbításból állnak.
+12/a. Elektronikus hírközlési építmény építési folyamatának résztvevője: az építőipari kivitelezési tevékenység megkezdésére és folytatására hatósági határozat alapján jogosult építtető, az építésügyi hatósági eljáráshoz és az építőipari kivitelezéshez szükséges tervdokumentáció elkészítéséhez jogosultsággal rendelkező tervező, kivitelező, az építési területen végzett építési-szerelési munkát irányító felelős műszaki vezető, az építőipari kivitelezési tevékenység teljes folyamatában a vonatkozó jogszabályok, hatósági előírások, szabványok, szerződések és a tervdokumentáció betartását elősegítő és ellenőrző építési műszaki ellenőr.
+
+13. Elektronikus hírközlési szolgáltatás: olyan, más részére általában ellenszolgáltatásért végzett szolgáltatás, amely teljesen vagy nagyrészt jeleknek elektronikus hírközlő hálózatokon történő átviteléből, és ahol ez értelmezhető, irányításából áll, ideértve az adatkicserélő szolgáltatást, valamint a nyilvános adatkicserélő szolgáltatást is, de nem foglalja magában az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások felhasználásával továbbított tartalmat szolgáltató vagy ilyen tartalom felett szerkesztői ellenőrzést gyakorló szolgáltatásokat, valamint nem foglalja magában az információs társadalommal összefüggő, más jogszabályokban meghatározott szolgáltatásokat, amelyek nem elsősorban az elektronikus hírközlő hálózatokon történő jeltovábbításból állnak.
 
 14. Elektronikus hírközlési szolgáltató: elektronikus hírközlő hálózat üzemeltetője, valamint elektronikus hírközlési szolgáltatást nyújtó természetes, illetőleg jogi személy.
 
@@ -61,6 +67,12 @@
 25. Előfizetői szolgáltatás: a nyilvánosan elérhető, e törvény értelmében hálózati szolgáltatásnak nem minősülő elektronikus hírközlési szolgáltatás.
 
 25/A. Az Európai Gazdasági Térség tagállama: az Európai Unió tagállama vagy az Európai Gazdasági Térségről szóló megállapodásban részes más állam.
+
+25/B. Építési munka: olyan építési vagy közművesítési munkák, amelyek összességében vett eredménye önmagában alkalmas valamely gazdasági vagy műszaki funkció ellátására, és amely egy fizikai infrastruktúra legalább egy elemét érinti.
+
+25/C. Épületen belüli fizikai infrastruktúra: a végfelhasználói helyen található fizikai infrastruktúra vagy létesítmény, ideértve a vezetékes vagy a vezeték nélküli hozzáférési hálózatok fogadására szánt, közös tulajdonban lévő elemeket is, amennyiben ezek a hozzáférési hálózatok alkalmasak előfizetői szolgáltatás nyújtására és az épület hozzáférési pontjának az elektronikus hírközlő hálózat hálózati végpontjával való összekapcsolására.
+
+25/D. Épület-hozzáférési pont: az épületen belül vagy kívül elhelyezkedő, a szolgáltatók számára hozzáférhető azon fizikai pont, amely lehetővé teszi a nagy sebességű technológia fogadására kész, épületen belüli fizikai infrastruktúrához való fizikai és logikai csatlakozást.
 
 26. Felhasználó: az a természetes személy, jogi személy vagy egyéb szervezet, amely használja vagy igényli az elektronikus hírközlési tevékenységeket, így különösen az elektronikus hírközlési szolgáltatásokat.
 
@@ -229,49 +241,3 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 80. Nagyfrekvenciás villamos berendezés: az elektromágneses energia kis térben való előállítására és hasznosítására szolgáló ipari, tudományos, orvosi, háztartási vagy hasonló célú, nem elektronikus hírközlő berendezés.
 
 80/a. Nagy sebességű elektronikus hírközlő hálózat: legalább 30 Mb/s adatátviteli sebességű, széles sávú hozzáférési szolgáltatások nyújtására képes elektronikus hírközlő hálózat.
-
-81. Nem azonosítható hívószám: az a hívószám, amely az előfizető számára kiállított tételes számlamellékletben személyes adatok védelme érdekében nem szerepel.
-
-82. Nemföldrajzi szám: az ANFT által meghatározott különleges számcsoportba tartozó telefon hívószám, amelyhez tartozó hozzáférés földrajzi helye csak számfordítással állapítható meg.
-
-83. Nemzetközi hívás: olyan hívás, amelyben a hívott előfizető vagy szolgáltatás eléréséhez nemzetközi előtétet kell tárcsázni.
-
-83/a. Nettó árbevétel: a szolgáltató számviteli törvény szerinti nettó árbevétele.
-
-84. Nettó elkerülhető költség: az a költség, amelyet a hatékony szolgáltató az egyetemes szolgáltatási kötelezettség hiányában el tudna kerülni. A nettó elkerülhető költség számításakor figyelembe kell venni azokat a bevételeket és egyéb (közvetett) hasznokat, amelyeket az egyetemes szolgáltatás nyújtásának megszüntetésével a szolgáltató elveszítene.
-
-85. Nyilvános elektronikus hírközlő hálózat: teljesen vagy elsősorban a nyilvánosan elérhető, a hálózati végpontok közötti információátvitelt támogató elektronikus hírközlési szolgáltatások nyújtására használt elektronikus hírközlő hálózat.
-
-86. Nyilvánosan elérhető telefonszolgáltatás (telefonszolgáltatás): olyan, bárki számára rendelkezésre álló elektronikus hírközlési szolgáltatás, amely belföldi vagy nemzetközi számozási tervben szereplő hívószám vagy hívószámok segítségével közvetlenül vagy közvetve lehetővé teszi belföldi vagy belföldi és nemzetközi hívások kezdeményezését és fogadását.
-
-87. Nyilvános telefonhálózat (telefonhálózat): olyan nyilvános elektronikus hírközlő hálózat, amelyen részben vagy egészben nyilvánosan elérhető telefon szolgáltatást nyújtanak, illetve amely alkalmas hálózati végpontok között beszéd, továbbá más kommunikációra, így különösen a telefax és adatkommunikációra.
-
-88. Nyilvános telefonállomás: a nagyközönség rendelkezésére álló távbeszélő végberendezés, amelynek használatára vonatkozóan a fizetőeszköz lehet pénzérme, hitelkártya, illetve előrefizetett kártya, beleértve a hívókódokkal használatos kártyákat.
-
-88/a. Önálló gazdasági egység: olyan önálló szervezeti egység egy elektronikus hírközlési szolgáltató társaság társasági adóról és osztalékadóról szóló törvény és a számvitelről szóló törvény szerinti olyan részlegének összes eszköze és kötelezettsége (ideértve a passzív időbeli elhatárolást is), amely részleg szervezeti szempontból független, a hozzá tartozó vagyonnal működni képes egységet képez.
-
-88/b. Nyomvonalas és nyomvonal jellegű elektronikus hírközlési építmény: olyan elektronikus hírközlési építmény, amelyet az elektronikus hírközlési hálózat vezetékes összeköttetései és ezek burkoló, tartó, védő, jelző műtárgyai képeznek.
-
-89. Összekapcsolás: egyazon vagy különböző elektronikus hírközlési szolgáltatók által használt elektronikus hírközlő hálózatok fizikai és logikai csatlakoztatása, annak érdekében, hogy az egyik szolgáltató felhasználói információt cserélhessenek ugyanezen vagy másik szolgáltató felhasználóival, illetve elérhessenek más szolgáltatók által nyújtott szolgáltatásokat. A szolgáltatást az összekapcsolásban részes felek vagy a hálózatukhoz hozzáféréssel rendelkező más szolgáltatók nyújthatják. Az összekapcsolás a hozzáférés sajátos fajtája, amely nyilvános elektronikus hírközlő hálózatok tulajdon- vagy használati jogával rendelkező szolgáltatók között jön létre.
-
-90. Rádióállomás: egy vagy több adó- vagy vevőberendezés vagy adó- és vevőberendezés-csoport a tartozékokkal együtt, valamely rádiótávközlési szolgálatnak vagy a rádiócsillagászati szolgálatnak egy adott helyen történő megvalósítása céljából.
-
-91. Rádióberendezés: olyan termék vagy egy termék olyan alkotórésze, amely földfelszíni rádiótávközlés vagy űrtávközlés céljára szolgáló rádióspektrum felhasználásával képes rádióhullámok adása, vétele vagy adása és vétele útján távközlésre.
-
-92. Rádióhullám: olyan, a térben mesterséges vezető nélkül terjedő elektromágneses hullám, amelynek frekvenciája nem nagyobb, mint 3000 GHz.
-
-93. Rádióspektrum: a rádióhullámok frekvenciatartománya.
-
-94. Rádiószolgálat: a Nemzetközi Rádiószabályzattal összhangban levő jogszabályban meghatározott rádiótávközlési szolgálat, továbbá a rádiócsillagászati szolgálat.
-
-95. Rádiótávközlő hálózat: olyan elektronikus hírközlő hálózat, amelyben az információátvitel egészben, illetőleg jelentős mértékben rádiófrekvenciás jelek adásával és vételével valósul meg.
-
-96.
-
-97. Referenciaajánlat: a Hatóság határozata alapján a jelentős piaci erővel rendelkező szolgáltató által kötelezően közzétett, a megajánlott hálózati szolgáltatásokat, illetőleg azok jogi, műszaki, pénzügyi feltételeit részletező ajánlat.
-
-98.
-
-99. Segélyhívás: a rendőrség, a mentőszolgálat, a tűzoltóság sürgősségi hívása rövid hívószámmal vagy az európai harmonizált segélyhívószámmal.
-
-99/A. Sikertelen hívás: minden olyan telefonhívás (beleértve a beszédalapú – akár hagyományos, akár IP-alapú – telefonálást, az üzenetrögzítővel való kapcsolatot, a konferenciahívást és az adathívást) vagy kiegészítő szolgáltatás (beleértve a hívástovábbítást és hívásátirányítást), amelynél a hálózati kapcsolat sikeresen létrejött, de a hívás megválaszolatlan maradt (nem fogadott vagy elutasított hívás), illetőleg hálózatkezelői beavatkozás miatt a létrejött kapcsolat automatikusan azonnali bontásra került (foglalt, kikapcsolt vagy más okból nem elérhető állomás hívása).

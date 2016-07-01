@@ -4,9 +4,13 @@
 
 (2) Az ügyfél és az eljárás egyéb résztvevői megjelölhetik – a közérdekből nyilvános, vagy jogszabályban meghatározottak szerint egyébként törvény által védett titoknak nem minősíthető adatok, valamint a (3)–(4) bekezdésben foglaltak kivételével – törvény által védett titok, különösen az üzleti titok védelmére, egyéb méltányolható érdekre, továbbá jelentős hírközléspolitikai, vagy hírközlési piaci versennyel összefüggő szempontra hivatkozással azokat az adatokat, amelyek zárt kezelését szükségesnek tartják. Ebben az esetben az ügyfél és az eljárás egyéb résztvevője köteles olyan iratváltozatot is készíteni, amely az előbbiekben meghatározott adatokat nem tartalmazza.
 
+(2a) Az 55. § szerinti frekvenciahasználati jogosultság megszerzésére irányuló versenyeztetési eljárásban az eljárást lezáró döntés közlésének időpontjáig nem lehet betekinteni a versenyeztetési eljárás kiírási dokumentációja szerinti értékelési szempontként megjelölt, vállalást tartalmazó iratba, továbbá ezen vállalás alátámasztásául szolgáló, a versenyeztetési eljárás kiírási dokumentációjában meghatározott olyan iratba, amelynek megismerése a versenyeztetési eljárás eredményességét, tisztaságát vagy a versenyeztetési eljárás kiírási dokumentációjában meghatározott célját veszélyeztetné.
+
 (3) Referenciaajánlattal kapcsolatos eljárásokban nem minősül üzleti titoknak a referenciaajánlat azon része, amelyet a kötelezett szolgáltató harmadik feleknek a szerződéskötés során, elektronikus hírközlésre vonatkozó szabály alapján általában rendelkezésre bocsátana.
 
 (4) A 40. §-ban meghatározott érdekeltekkel történő egyeztetés során benyújtott észrevételek, valamint az Elnök 62–65. §-ok szerinti eljárásban hozott határozatában kirótt 102. § szerinti átláthatóság kötelezettség körében közzétenni rendelt adatok, információk nem minősülnek, nem minősíthetők üzleti titoknak.
+
+(4a) A 47. § (1) bekezdés b) pontja alapján szolgáltatott adatok közül az előfizetők és a megkötött előfizetői szerződések számával, a szolgáltatás forgalmával (percforgalom, adatmennyiség, darabszám) és elérhetőségével (lefedettségével) kapcsolatos statisztikai adatok, továbbá ezen adatok bármely további megbontás, csoportosítás szerinti részadatai nem minősíthetők üzleti titoknak.
 
 (5) A hatósági ügy tárgyával kapcsolatos tevékenységeik ellátásához szükséges mértékben a zártan kezelt adatokat megismerheti továbbá – a Hatóság mérlegelése szerint – más közigazgatási hatóság vagy állami szerv is, amennyiben biztosítja, hogy az átadott adatok legalább olyan védelemben részesüljenek, mint az átadó hatóságnál.
 

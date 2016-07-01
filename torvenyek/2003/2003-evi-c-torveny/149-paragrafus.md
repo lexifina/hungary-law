@@ -10,6 +10,6 @@ c) a díjmentes szelektív hívásletiltást kimenő hívásokra, kimenő és be
 
 (2) Az egyetemes elektronikus hírközlési szolgáltató köteles biztosítani előrefizetési vagy előrefizetéses rendszert, valamint a csatlakozási/bekapcsolási díjak részletekben történő megfizetését, továbbá az alternatív, kedvezményes díjjakkal kapcsolatos tanácsadást, amennyiben ilyen díjakat is alkalmaz.
 
-(3) Az elektronikus hírközlési szolgáltató a számlák meg nem fizetése esetén arányos, az egyenlő elbánás követelményének megfelelő, és megfelelő módon közzétett intézkedéseket tehet. Ezeknek az intézkedéseknek biztosítaniuk kell, hogy az előfizető előzetesen megfelelő figyelmeztetést kapjon a szolgáltatás nemfizetéséből következő bármilyen korlátozásáról vagy megszakításáról.
+(3) Az elektronikus hírközlési szolgáltató a számlák meg nem fizetése esetén arányos, az egyenlő elbánás követelményének megfelelő, és megfelelő módon közzétett intézkedéseket tehet. Ezeknek az intézkedéseknek biztosítaniuk kell, hogy az előfizető előzetesen megfelelő figyelmeztetést kapjon a szolgáltatás nemfizetéséből eredő jogkövetkezményekről.
 
 (4) A szolgáltató az általános szerződési feltételeiben meghatározott módon köteles biztosítani költségellenőrzés szolgáltatást, beleértve az egyéni előfizetők ingyenes figyelmeztetését is rendellenes fogyasztási szokások vagy túlzott fogyasztás észlelése esetén.
