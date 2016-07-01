@@ -12,7 +12,7 @@ c) e törvény hatálya alá tartozó másik rendvédelmi szervnél szolgálati 
 
 d) a Magyar Honvédség hivatásos és szerződéses katonai állományában töltött időt,
 
-e) az a) és b) pont alá nem tartozó költségvetési szervnél kormányzati szolgálati jogviszonyban vagy közszolgálati jogviszonyban töltött időt, ha a szolgálati viszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlenül kinevezéssel jött létre,
+e) az a) és b) pont alá nem tartozó költségvetési szervnél kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban vagy közszolgálati jogviszonyban töltött időt, ha a szolgálati viszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlenül kinevezéssel jött létre,
 
 f) az a) és b) pont alá nem tartozó költségvetési szervnél közalkalmazotti, igazságügyi alkalmazotti, bírói vagy ügyészi jogviszonyban eltöltött időt, ha a szolgálati viszony e jogviszonyok valamelyikéből áthelyezéssel vagy közvetlenül kinevezéssel jött létre,
 

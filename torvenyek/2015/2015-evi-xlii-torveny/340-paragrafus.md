@@ -8,7 +8,7 @@
 
 2. megállapítsa a miniszter, az országos parancsnok, az országos főigazgató, valamint az állományilletékes parancsnok alárendeltségébe tartozó vezető munkáltatói jogköreit,
 
-3. meghatározza a kormányzati szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezésre, a más rendvédelmi szervhez történő áthelyezésre, valamint a rendvédelmi szervek és a Magyar Honvédség közötti áthelyezésre vonatkozó eljárási szabályokat és az áthelyezett foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket,
+3. meghatározza a kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti szolgálati jogviszonyba történő áthelyezésre, a más rendvédelmi szervhez történő áthelyezésre, valamint a rendvédelmi szervek és a Magyar Honvédség közötti áthelyezésre vonatkozó eljárási szabályokat és az áthelyezett foglalkoztatásával, jogaival és kötelezettségeivel összefüggő kérdéseket,
 
 4. meghatározza a kifogástalan életvitel ellenőrzése végrehajtásának szabályait,
 

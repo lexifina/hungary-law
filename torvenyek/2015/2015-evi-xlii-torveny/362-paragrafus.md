@@ -5,3 +5,5 @@
 (3) A 299. § (2) bekezdésében meghatározott, a főtitkári tisztség betöltésére vonatkozó rendelkezést első alkalommal a fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény módosításáról szóló 2013. évi XXXIX. törvény hatálybalépésekor főtitkári tisztséget betöltő személy főtitkári megbízatásának megszűnését követően alkalmazásra kerülő főtitkár vonatkozásában kell alkalmazni.
 
 (4) A fegyveres szervek hivatásos állományú tagjainak szolgálati viszonyáról szóló 1996. évi XLIII. törvény módosításáról szóló 2013. évi XXXIX. törvény hatálybalépésekor főtitkári tisztséget betöltő személy MRK Elnökségében betöltött tagsága – a főtitkár megbízatásának megszűnéséig – továbbra is fennáll.
+
+(5) A 284–289. § rendelkezéseit a rendészeti alapképzésben részt vevő azon hallgatók esetében kell alkalmazni, akik tanulmányaikat a 2016/2017. tanévben vagy azt követően kezdik meg.

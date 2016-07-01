@@ -6,4 +6,4 @@
 
 (4) A polgári nemzetbiztonsági szolgálatok hivatásos állománya esetében azon szolgálati beosztásban, amelyben idegen nyelv használata szükséges, valamint ahol az idegen nyelv ismerete a szolgálati beosztással járó feladat, az idegennyelv-tudási pótlék mértékét a 160. § (6) bekezdése alapján kell megállapítani.
 
-(5) A 130. § (1) bekezdésétől eltérően a polgári nemzetbiztonsági szolgálatok hivatásos állománya esetében a miniszter által meghatározott szolgálati beosztásokban a rendészeti alapvizsga helyett közigazgatási alapvizsga, továbbá rendészeti szakvizsga helyett közigazgatási szakvizsga teljesítése írható elő.
+(5) A 130. § (1) bekezdésétől eltérően a polgári nemzetbiztonsági szolgálatok hivatásos állománya esetében a miniszter által meghatározott szolgálati beosztásokban a rendészeti alapvizsga helyett közigazgatási alapvizsga, vagy közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség, továbbá rendészeti szakvizsga helyett közigazgatási szakvizsga, vagy közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség teljesítése írható elő.
