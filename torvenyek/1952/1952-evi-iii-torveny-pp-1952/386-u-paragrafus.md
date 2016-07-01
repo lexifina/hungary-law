@@ -1,6 +1,6 @@
 ## Elektronikus kapcsolattartás
 
-386/U. § (1) A perben a beadványokat és azok mellékletét elektronikus úton kell benyújtani. A nem elektronikus úton benyújtott beadványban foglalt nyilatkozat hatálytalan.
+386/U. § (1) A perben a beadványokat és azok okiratnak minősülő mellékleteit elektronikus úton kell benyújtani. A nem elektronikus úton benyújtott beadványban és mellékletében foglalt nyilatkozat hatálytalan.
 
 (2) A perben az elektronikus kapcsolattartásra a 394/C–394/M. §-t kell alkalmazni.
 

@@ -10,7 +10,7 @@ a) a munkajogi igény [Mt. 285. § (1) bekezdés] érvényesítésével kapcsola
 
 b) a közalkalmazotti,
 
-c) kormányzati szolgálati és közszolgálati,
+c) kormányzati szolgálati, állami szolgálati és közszolgálati,
 
 d) a szolgálati és
 

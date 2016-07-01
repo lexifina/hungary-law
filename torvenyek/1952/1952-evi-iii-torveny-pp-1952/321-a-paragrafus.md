@@ -2,12 +2,12 @@
 
 (2) A kötelezett ellentmondását követően
 
-a) az elektronikus kommunikációt választó jogosult vagy képviselője,
+a) az elektronikus kapcsolattartást választó jogosult vagy képviselője,
 
 b) a belföldi székhellyel rendelkező gazdálkodó szervezet jogosult,
 
-c) jogi képviselővel eljáró jogosult esetén, a jogi képviselő
+c) a jogi képviselővel eljáró jogosult a jogi képviselő útján
 
-az ügyre vonatkozó részletes tényállításait és bizonyítékait, továbbá minden egyéb beadványt, okirati bizonyítékot kizárólag elektronikusan, a XXVIII. Fejezetben meghatározottak szerint terjeszthet elő.
+az ügyre vonatkozó részletes tényállításait és okirati bizonyítékait, továbbá minden egyéb beadványt kizárólag elektronikusan, a XXVIII. Fejezetben meghatározottak szerint terjeszthet elő.
 
-(3) Ha a fizetési meghagyásos eljárást követő peres eljárásban a kapcsolattartás a jogosult részéről elektronikus úton történik, és a jogosult az ellentmondás előterjesztését követően az ügyre vonatkozó részletes tényállításait és bizonyítékait a bíróság részére nem elektronikus úton terjeszti elő, a bíróság a pert megszünteti.
+(3) Ha a fizetési meghagyásos eljárást követő peres eljárásban a kapcsolattartás a jogosult részéről elektronikus úton történik, és a jogosult az ellentmondás előterjesztését követően az ügyre vonatkozó részletes tényállításait és okirati bizonyítékait a bíróság részére nem elektronikus úton terjeszti elő, a bíróság a pert megszünteti.

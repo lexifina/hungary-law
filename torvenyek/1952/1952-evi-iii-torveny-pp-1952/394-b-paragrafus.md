@@ -8,7 +8,7 @@
 
 ## Elektronikus kapcsolattartás a féllel
 
-394/B. § (1) A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja, ezen eljárásokban is – a fél vagy a képviselője – a (3) és (4) bekezdésben foglalt kivétellel – a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot és ezek mellékletét (e fejezet alkalmazásában a továbbiakban együtt: beadvány) választása szerint elektronikus úton is benyújthatja.
+394/B. § (1) A polgári perben – és ha törvény más polgári eljárás vonatkozásában előírja, ezen eljárásokban is – a fél vagy a képviselője – a (3) bekezdésben foglalt kivétellel – a keresetlevelet, továbbá minden egyéb beadványt, okirati bizonyítékot és ezek mellékletét (e fejezet alkalmazásában, a továbbiakban együtt: beadvány) választása szerint elektronikus úton is benyújthatja. Ha e törvény lehetővé teszi a beadvány adathordozón történő benyújtását, az e fejezet alkalmazásában elektronikus úton benyújtott beadványnak minősül.
 
 (2) Az (1) bekezdés szerinti elektronikus út választása esetében az eljárás folyamán – ideértve az eljárás minden szakaszát és a rendkívüli perorvoslatot is – a félnek vagy képviselőjének a bírósággal a kapcsolatot elektronikus úton kell tartania és a bíróság is valamennyi bírósági iratot elektronikusan kézbesít a részére. A beadvány elektronikus úton történő benyújtását az (1) bekezdés szerinti elektronikus út vállalásának kell tekintetni. Az elektronikus úton történő kapcsolattartásra vonatkozó bejelentést a fél vagy a jogi képviselő az eljárás bármely szakaszában megteheti az eljáró bíróságnál.
 
@@ -16,7 +16,7 @@
 
 (4)
 
-(5) A bíróság az elektronikus úton benyújtott keresetlevél jogszabályban meghatározott módon készített papír alapú másolatát kézbesíti az alperes részére. A bíróság az alperest tájékoztatja arról, hogy védekezését, nyilatkozatát elektronikus úton is benyújthatja.
+(5) A bíróság az elektronikus úton benyújtott keresetlevél jogszabályban meghatározott módon készített papír alapú másolatát kézbesíti az alperes részére. A bíróság az alperest tájékoztatja arról, hogy ellenkérelmét, viszontkeresetét vagy egyéb nyilatkozatát elektronikus úton is benyújthatja, vagy – ha arra köteles – elektronikus úton köteles benyújtani.
 
 (6) Ha a fél az elektronikus úton való kapcsolattartást választotta, az elektronikus benyújtás alóli kivételt jelenti, ha a bizonyítási eljárásban az okirat papír alapú bemutatása, megtekintése szükséges; erre különösen akkor kerülhet sor, ha az eredetileg papír alapú bizonyítékok nagy mennyisége miatt azok digitalizálása aránytalan nehézséggel járna, vagy ha a papír alapú okirat valódisága vitás. A papír alapú benyújtást a bíróság hivatalból és a fél indítványára is elrendelheti.
 

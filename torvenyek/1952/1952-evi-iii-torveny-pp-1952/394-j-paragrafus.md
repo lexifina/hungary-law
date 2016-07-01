@@ -6,4 +6,4 @@
 
 (4) Azt, hogy a keresetlevél és a beadvány elektronikus benyújtására szolgáló, e törvényben és külön jogszabályban meghatározott módokat és technikai eszközöket jogszerűen alkalmazzák, vélelmezni kell.
 
-(5) Ha a perben a kapcsolattartás elektronikus úton történik, a határidő elmulasztásának következményeit nem lehet alkalmazni, ha a bírósághoz intézett beadványt legkésőbb a határidő utolsó napján elektronikus úton az informatikai követelményeknek megfelelően előterjesztették.
+(5) Ha a perben a kapcsolattartás elektronikus úton történik, a határidő elmulasztásának következményeit nem lehet alkalmazni, ha a bírósághoz intézett beadványt legkésőbb a határidő utolsó napján elektronikus úton az informatikai követelményeknek megfelelően benyújtották. A határidő számítása szempontjából benyújtottnak az a beadvány tekintendő, amelyről a bíróság informatikai rendszere befogadás-visszaigazolást küldött, és adathordozón történő benyújtás esetén a 394/G. § (7) bekezdése szerinti határidő is betartásra került.
