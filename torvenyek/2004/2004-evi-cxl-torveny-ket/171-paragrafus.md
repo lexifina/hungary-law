@@ -51,3 +51,7 @@ b) hatálybalépését megelőzően a Felügyelet részére bejelentést tett sz
 (11) E törvénynek az egyes törvényeknek a közigazgatási hatósági eljárásokkal, az egyes közhiteles hatósági nyilvántartásokkal összefüggő, valamint egyéb törvények módosításáról szóló 2013. évi LXXXIV. törvény 55. §-ával módosított 21. § (1) bekezdés a) pontját e rendelkezés hatálybalépését követően indult, illetve a megismételt eljárásokban kell alkalmazni.
 
 (12) E törvénynek a kormányablakok kialakításával, valamint a fővárosi és megyei kormányhivatalok működésével összefüggő egyes törvények módosításáról szóló 2013. évi CCXVIII. törvénnyel megállapított rendelkezéseit az e rendelkezések hatálybalépését követően indult ügyekben és a megismételt eljárásokban kell alkalmazni.
+
+(13) E törvénynek a közigazgatási bürokráciacsökkentéssel összefüggő törvénymódosításokról szóló 2015. évi CLXXXVI. törvénnyel megállapított rendelkezéseit azok hatálybalépését követően indult eljárásokban kell alkalmazni.
+
+(14) E törvénynek a közigazgatási bürokráciacsökkentés keretében egyes adminisztratív kötelezettségek megszüntetésével összefüggő törvénymódosításokról szóló 2016. évi XXXII. törvénnyel megállapított rendelkezéseit az e rendelkezések hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.

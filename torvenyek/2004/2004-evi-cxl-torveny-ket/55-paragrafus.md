@@ -4,7 +4,7 @@
 
 (3) A hatósági tanú az eljárási cselekmény során történt eseményeket és az általa tapasztalt tényeket a jegyzőkönyv aláírásával igazolja.
 
-(4) Nem lehet hatósági tanú az ügyfél hozzátartozója, az eljáró hatósággal közszolgálati, illetve egyéb munkavégzésre irányuló jogviszonyban álló személy és az eljárási képességgel nem rendelkező személy.
+(4) Nem lehet hatósági tanú az ügyfél hozzátartozója, az eljáró hatósággal közszolgálati, kormányzati szolgálati, állami szolgálati, illetve egyéb munkavégzésre irányuló jogviszonyban álló személy és az eljárási képességgel nem rendelkező személy.
 
 (5) Hatósági tanúként való közreműködésre senki nem kötelezhető.
 

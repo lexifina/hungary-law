@@ -6,7 +6,7 @@
 
 a) az ügyfél, az eljárásban ügyfélként részt vevő szervezet tulajdonosa, tisztségviselője, alkalmazottja, illetve az ügyféllel munkavégzésre irányuló szerződéses kapcsolatban álló személy,
 
-b) a hatósággal vagy a hatóság felügyeleti szervével közszolgálati vagy más, munkavégzésre irányuló jogviszonyban álló személy,
+b) a hatósággal vagy a hatóság felügyeleti szervével közszolgálati, kormányzati szolgálati, állami szolgálati vagy más, munkavégzésre irányuló jogviszonyban álló személy,
 
 c) az, aki személyében vagy hozzátartozója révén érintett az ügyben,
 
