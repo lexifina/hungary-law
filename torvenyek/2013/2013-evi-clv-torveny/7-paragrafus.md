@@ -10,7 +10,7 @@ b) a támogatott személy egyetért hivatásos támogató kirendelésével.
 
 (3) A gyámhatóság hivatásos támogatóul
 
-a) hivatásos támogatói feladatokat ellátó, a Kormány által kijelölt szervvel kormányzati szolgálati jogviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott személyt,
+a) hivatásos támogatói feladatokat ellátó, a Kormány által kijelölt szervvel kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban foglalkoztatott személyt,
 
 b) hivatásos gondnoki feladatokat ellátó személyt vagy
 
@@ -24,7 +24,7 @@ rendelhet ki.
 
 a) az adott támogatott személyek igényeinek figyelembevétele alapján a hivatásos támogatói feladatok ellátását legfeljebb 35 támogatott személy egyidejű ellátása nem veszélyezteti, vagy
 
-b) a hivatásos támogatói feladatokat kormányzati szolgálati jogviszonyban álló személy látja el.
+b) a hivatásos támogatói feladatokat kormányzati szolgálati jogviszonyban vagy állami szolgálati jogviszonyban álló személy látja el.
 
 (6) Az (5) bekezdés b) pontjában meghatározott személy egyidejűleg legfeljebb 45 támogatott személy érdekében járhat el.
 
