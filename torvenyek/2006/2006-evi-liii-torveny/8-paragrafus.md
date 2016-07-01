@@ -1,8 +1,8 @@
 8. § (1) A perben a jogi képviselet kötelező.
 
-(2) A keresetlevél a hatósághoz elektronikus úton is benyújtható. A hatóság a keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt három napon belül továbbítja a bírósághoz, a továbbításra elektronikus úton is sor kerülhet.
+(2) A hatóság az elektronikus úton benyújtott keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt elektronikus úton három napon belül továbbítja a bírósághoz.
 
-(3) A perben a beadványok benyújtása és a hivatalos iratok kézbesítése a Pp.-ben meghatározottak szerint, elektronikus úton is történhet.
+(3) A perben a beadványok benyújtása és a hivatalos iratok kézbesítése a Pp.-ben meghatározottak szerint, elektronikus úton történik.
 
 (3a) Az ingatlanügyi hatóság eljárásával kapcsolatban a (2) és (3) bekezdésben foglaltakat nem kell alkalmazni.
 
