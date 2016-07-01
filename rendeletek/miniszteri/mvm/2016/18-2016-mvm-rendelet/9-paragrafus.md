@@ -5,3 +5,5 @@
 a) a Hszt. 55. § (1) bekezdés a) pontja alapján,
 
 b) a Hszt. 51. § (2)–(4) bekezdésében vagy a Hszt. 335. § (1) bekezdésében meghatározott intézményhez, vagy szervhez történő vezénylés megszüntetése esetén
+
+kerül sor.

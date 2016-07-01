@@ -1,3 +1,3 @@
-## lép.
+39. §[^4]
 
-39. § Hatályát veszti a polgári nemzetbiztonsági szolgálatok hivatásos állományú tagjai szolgálati viszonyának létesítéséről, tartalmáról és megszüntetéséről szóló 1/1997. (II. 26.) TNM rendelet.
+[^4]: A 37–39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
