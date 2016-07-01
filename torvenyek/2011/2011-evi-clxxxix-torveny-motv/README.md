@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-189-00-00
 | 2015-01-22 | 2014. évi XCIII. törvény | 2011-189-00-00.29 |
 | 2015-03-01 | 2014. évi XCIX. törvény | 2011-189-00-00.30 |
 | 2016-01-01 | 2014. évi XCIII. törvény | 2011-189-00-00.31 |
+| 2016-07-01 | 2016. évi LIV. törvény | 2011-189-00-00.32 |

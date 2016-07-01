@@ -10,7 +10,7 @@ ab) egészségügyi intézmény főigazgatója, gazdasági vezetője, orvos, eg�
 
 b) központi államigazgatási szerv vezetője, köztisztviselője;
 
-c) kormánytisztviselő olyan államigazgatási szervnél, amelynek illetékességi területén az adott önkormányzat működik;
+c) állami tisztviselő, kormánytisztviselő olyan államigazgatási szervnél, amelynek illetékességi területén az adott önkormányzat működik;
 
 d) a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat hivatásos vagy szerződéses állományú tagja, rendvédelmi szerv, az Országgyűlési Őrség vagy a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja;
 
