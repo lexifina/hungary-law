@@ -1,5 +1,5 @@
-## 22. §[^23]
+## 22. §[^24]
 
 ## A bányászatról szóló 1993. évi XLVIII. törvény végrehajtásáról szóló 203/1998. (XII. 19.) Korm. rendelet módosítása
 
-[^23]: A 22. § a 45. § (4) bekezdése alapján hatályát vesztette.
+[^24]: A 22. § a 45. § (4) bekezdése alapján hatályát vesztette.

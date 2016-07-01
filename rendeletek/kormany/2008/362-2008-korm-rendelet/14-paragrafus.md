@@ -1,5 +1,5 @@
-## 13. §[^14]
+## 13. §[^15]
 
 ## A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet módosítása
 
-[^14]: A 13. § a 45. § (4) bekezdése alapján hatályát vesztette.
+[^15]: A 13. § a 45. § (4) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 20. §[^21]
+## 20. §[^22]
 
 ## Az Adó- és Pénzügyi Ellenőrzési Hivatalról szóló 273/2006. (XII. 23.) Korm. rendelet módosítása
 
-[^21]: A 20. § a 45. § (4) bekezdése alapján hatályát vesztette.
+[^22]: A 20. § a 45. § (4) bekezdése alapján hatályát vesztette.
