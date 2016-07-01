@@ -14,7 +14,9 @@ f) a hivatásos nevelőszülői jogviszonyban és a nevelőszülői foglalkoztat
 
 g) az e törvény, a köztisztviselők jogállásáról szóló 1992. évi XXIII. törvény, a Ktjv., valamint a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szervnél ösztöndíjas foglalkoztatási jogviszonyban,
 
-h) az állami vezetői szolgálati jogviszonyban
+h) az állami vezetői szolgálati jogviszonyban,
+
+i) az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatónál állami szolgálati jogviszonyban, ösztöndíjas foglalkoztatási jogviszonyban, illetve munkaviszonyban
 
 töltött időt.
 

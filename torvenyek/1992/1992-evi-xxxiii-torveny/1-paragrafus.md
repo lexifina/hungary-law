@@ -8,7 +8,7 @@
 
 (2) A 25/A–25/C. § hatálya – az ott meghatározottak szerint – kiterjed a munkáltatóra és a munkavállalóra, ha a munkáltató egészének vagy egy részének átadására tekintettel a munkaviszony létesítésére e törvény szabályai szerint kerül sor.
 
-(3) A 25/C. § hatálya – az ott meghatározottak szerint – kiterjed a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó munkáltatóra és kormánytisztviselőre, köztisztviselőre, kormányzati és közszolgálati ügykezelőre, valamint a közigazgatási szervnél foglalkoztatott munkavállalóra, ha a munkáltató egészének vagy egy részének átadására tekintettel a kormányzati szolgálati jogviszony, a közszolgálati jogviszony vagy a munkaviszony létesítésére e törvény szabályai szerint kerül sor.
+(3) A 25/C. § hatálya – az ott meghatározottak szerint – kiterjed a közszolgálati tisztviselőkről szóló törvény és az állami tisztviselőkről szóló törvény hatálya alá tartozó munkáltatóra és kormánytisztviselőre, állami tisztviselőre, köztisztviselőre, kormányzati és közszolgálati ügykezelőre, állami ügykezelőre, valamint a közigazgatási szervnél foglalkoztatott munkavállalóra, ha a munkáltató egészének vagy egy részének átadására tekintettel a kormányzati szolgálati jogviszony, az állami szolgálati jogviszony, a közszolgálati jogviszony vagy a munkaviszony létesítésére e törvény szabályai szerint kerül sor.
 
 (4) Az (1) bekezdésben foglaltaktól eltérően e törvény hatálya nem terjed ki a helyi önkormányzat, illetve a költségvetési szerv által közfoglalkoztatás keretében foglalkoztatottra, valamint az egyszerűsített foglalkoztatásról szóló külön törvény alapján foglalkoztatott munkavállalóra.
 
@@ -16,4 +16,4 @@
 
 (6) E törvény alkalmazásában fenntartó a munkáltató alapító szerve vagy az a szerv, amelyre e jogot átruházták, illetve a jogszabály által kijelölt szerv vagy személy. A munkáltató fenntartójának kell tekinteni az önkormányzati társulást és azt az önkormányzatot is, amely megállapodás alapján gyakorolja a fenntartói jogokat.
 
-(7) A 25/F. § hatálya – az ott meghatározottak szerint – kiterjed a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó munkáltatóra és kormánytisztviselőre, köztisztviselőre, kormányzati, illetve közszolgálati ügykezelőre, ha a munkáltató egésze vagy egy része jogszabály rendelkezése folytán a közszolgálati tisztviselőkről szóló törvény hatálya alá kerül.
+(7)

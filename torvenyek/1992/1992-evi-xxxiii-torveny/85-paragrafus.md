@@ -176,7 +176,7 @@ c) a honvédelemért, a büntetés-végrehajtásért, az idegenrendészetért é
 
 d) a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért, az államháztartásért, valamint a honvédelemért felelős miniszter, hogy a pályázat hivatalos lapban vagy egyéb módon való közzétételét, továbbá a pályázati eljárásban részt vevők körét, a pályázatok elbírálására vonatkozó többletkövetelményeket és az eljárás részletes szabályait,
 
-e)
+e) a honvédelemért felelős miniszter, hogy a Magyar Honvédségnél foglalkoztatott közalkalmazottak részére, a honvédségi feladatok ellátásával összefüggésben biztosítható napi átalány illetménypótlékra való jogosultsággal kapcsolatos szabályokat,
 
 f) a honvédelemért, valamint a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy munkakörönként azt a szakmai gyakorlatot, amelynek megléte esetén a 21/A. § (1) bekezdés szerinti próbaidőt nem lehet megállapítani,
 
@@ -190,7 +190,7 @@ j) a honvédelemért, az elektronikus hírközlésért, a foglalkoztatáspolitik
 
 k) a honvédelemért, a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, hogy munkakörönként a napi munkaidőből kötelezően a munkahelyen töltendő időt, továbbá az ezen időtartam alatti munkavégzés egyes sajátos szabályait,
 
-l)
+l) a honvédelemért felelős miniszter, hogy a vezető állású munkavállalóval betöltendő vezetői munkaköröket,
 
 m) a foglalkoztatáspolitikáért, a szakképzésért és felnőttképzésért, a családpolitikáért, szociál- és nyugdíjpolitikáért felelős miniszter, a közigazgatási minőségpolitikáért és személyzetpolitikáért felelős miniszter, az állami vagyon felügyeletéért felelős miniszter, valamint az informatikáért felelős miniszter, hogy munkakörönként, illetve vezetői megbízásonként az illetménynövekedés feltételeit azokban az esetekben, amikor a további szakképzettség, illetve szakképesítés hasznosításának mértéke előre nem határozható meg,
 
@@ -226,7 +226,9 @@ ab) a közalkalmazottak és hozzátartozóik tekintetében a juttatások, költs
 
 ac) a külföldön tanulmányokat folytató, illetve külföldi kiküldetést teljesítő közalkalmazottak pénzbeli járandóságaira vonatkozó részletes szabályokat;
 
-b) az ágazati irányítása, illetve felügyelete alá tartozó közművelődési, közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a formaruha-juttatást.
+b) az ágazati irányítása, illetve felügyelete alá tartozó közművelődési, közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a formaruha-juttatást;
+
+c) az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, köznevelési, kutatási, valamint közművelődési és közgyűjteményi intézmények, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg a honvédségi feladatok ellátásával összefüggésben biztosítható napi átalány illetménypótlékra való jogosultsággal kapcsolatos szabályokat.
 
 (8) Felhatalmazást kap a büntetés-végrehajtásért és a rendészetért felelős miniszter, hogy az ágazati irányítása, illetve felügyelete alá tartozó egészségügyi, felsőoktatási, oktatási, illetve a más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében rendeletben határozza meg
 
