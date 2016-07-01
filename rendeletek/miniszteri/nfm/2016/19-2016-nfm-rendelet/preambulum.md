@@ -1,0 +1,1 @@
+Az ENSZ Éghajlatváltozási Keretegyezménye és annak Kiotói Jegyzőkönyve végrehajtási keretrendszeréről szóló 2007. évi LX. törvény 14. § (6) bekezdés d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 7. pontjában meghatározott feladatkörömben eljárva a következőt rendelem el:
