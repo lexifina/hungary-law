@@ -1,6 +1,8 @@
 ## 4. A koordináció szabályai
 
-4. § (1)–(2)[^1]
+4. § (1) A szolgáltatási díjban a hulladékgazdálkodási közszolgáltatás teljes közvetlen költsége megtérítésre kerül, így a haszonanyag értékesítéséről a Koordináló szerv gondoskodik úgy, hogy a közszolgáltató valamennyi haszonanyagot köteles a Koordináló szerv által kijelölt szervezetnek átadni.
+
+(2) A haszonanyag-értékesítésből eredő bevétel a Koordináló szervet illeti meg.
 
 (3) A Koordináló szerv a hulladékgazdálkodási közszolgáltatási szerződés (a továbbiakban: közszolgáltatási szerződés) Ht. 92/B. § (2) bekezdés szerinti megfelelőségét vizsgálja.
 
@@ -21,5 +23,3 @@ c) közszolgáltató részére a szolgáltatási díjfizetésre vonatkozó rende
 (8) Ha a Koordináló szerv a közszolgáltatási szerződés vagy a módosított közszolgáltatási szerződés tekintetében észleli, hogy az nem felel meg a jogszabályi előírásoknak, ezt jelzi az ellátásért felelősnek. Ha az ellátásért felelős a Koordináló szerv jelzésének kézhezvételét követő 30 napon belül nem módosítja a közszolgáltatási szerződést, úgy a Koordináló szerv jogosult az illetékes hatóságnál eljárását kezdeményezni.
 
 (9) A Koordináló szerv a szolgáltatási díjat csak abban az esetben fizeti meg a közszolgáltatónak, ha a közszolgáltatási szerződés a Ht. 92/B. § (2) bekezdésében és a Ht. végrehajtására kiadott rendeletekben foglaltaknak megfelel.
-
-[^1]: A 4. § (1) bekezdése a 24. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
