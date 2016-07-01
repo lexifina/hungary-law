@@ -2,4 +2,4 @@
 
 ## 2. Az elektronikus ügyintézési felügyelet
 
-[^1]: Az 1. § a 414/2015. (XII. 23.) Korm. rendelet 74. § (4) bekezdése szerint módosított szöveg.
+[^1]: A 1. § a 414/2015. (XII. 23.) Korm. rendelet 74. § (4) bekezdése szerint módosított szöveg.

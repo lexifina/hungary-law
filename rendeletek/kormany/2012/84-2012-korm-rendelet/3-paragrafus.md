@@ -12,10 +12,13 @@ b) a fővárosi és megyei kormányhivatalok járási (fővárosi kerületi) hiv
 
 c) a Magyar Posta Zrt. által Általános Szerződési Feltételeiben meghatározott állandó postai szolgáltatóhelyeken,
 
-d) – az első ügyintézési rendelkezés kivételével – az integrált ügyintézési és tájékoztatási pont keretében biztosított telefonos ügyfélszolgálaton.
+d) – az első ügyintézési rendelkezés kivételével – az integrált ügyintézési és tájékoztatási pont keretében biztosított telefonos ügyfélszolgálaton,
 
-(3)[^4]
+e)[^4] a Nemzeti Adó- és Vámhivatalnál.
+
+(3)[^5]
 
 [^2]: A 3. § az 515/2013. (XII. 30.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
 [^3]: A 3. § (2) bekezdése a 169/2015. (VI. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^4]: A 3. § (3) bekezdését a 169/2015. (VI. 30.) Korm. rendelet 2. § (5) bekezdése hatályon kívül helyezte.
+[^4]: A 3. § (2) bekezdés e) pontját a 169/2015. (VI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^5]: A 3. § (3) bekezdését a 169/2015. (VI. 30.) Korm. rendelet 2. § (5) bekezdése hatályon kívül helyezte.
