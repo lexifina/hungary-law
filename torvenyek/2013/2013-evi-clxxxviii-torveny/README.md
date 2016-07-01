@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-188-00-00
 | 2015-07-24 | 2015. évi CXIX. törvény | 2013-188-00-00.9 |
 | 2015-08-01 | 2014. évi XI. törvény | 2013-188-00-00.10 |
 | 2015-09-01 | 2015. évi CXIX. törvény | 2013-188-00-00.11 |
+| 2016-07-01 | 2015. évi CCXI. törvény | 2013-188-00-00.12 |

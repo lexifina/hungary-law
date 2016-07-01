@@ -20,7 +20,7 @@ d) a víziközmű-szolgáltatás esetében #00FFFF kódszámú (pantone 297; aqu
 
 e) hulladékgazdálkodási közszolgáltatás esetében #32CD32 kódszámú (pantone 802 2x; limegreen),
 
-f) kéményseprő-ipari közszolgáltatás esetén #FFFF00 kódszámú (pantone 102; yellow)
+f)
 
 színárnyalatot kell használni.
 
