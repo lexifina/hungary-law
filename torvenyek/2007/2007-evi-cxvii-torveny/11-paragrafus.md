@@ -8,7 +8,7 @@ b) számviteli rendjéért felelős vezetőt,
 
 c) belső ellenőrt,
 
-d) jogászt, és
+d) vezető jogászt, és
 
 e) befektetésekért felelős vezetőt
 

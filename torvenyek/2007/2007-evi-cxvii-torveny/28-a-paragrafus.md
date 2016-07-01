@@ -14,7 +14,7 @@ fogadja.
 
 (3) Telefonon történő panaszkezelés esetén a foglalkoztatói nyugdíjszolgáltató intézmény biztosítja az ésszerű várakozási időn belüli hívásfogadást és ügyintézést.
 
-(4) Telefonon történő panaszkezelés esetén a foglalkoztatói nyugdíjszolgáltató intézmény és a tag közötti telefonos kommunikációt a foglalkoztatói nyugdíjszolgáltató intézmény hangfelvétellel rögzíti, és a hangfelvételt egy évig megőrzi. Erről a tagot a telefonos ügyintézés kezdetekor tájékoztatni kell. A tag kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
+(4) Telefonon történő panaszkezelés esetén a foglalkoztatói nyugdíjszolgáltató intézmény és a tag közötti telefonos kommunikációt a foglalkoztatói nyugdíjszolgáltató intézmény hangfelvétellel rögzíti, és a hangfelvételt öt évig megőrzi. Erről a tagot a telefonos ügyintézés kezdetekor tájékoztatni kell. A tag kérésére biztosítani kell a hangfelvétel visszahallgatását, továbbá térítésmentesen rendelkezésre kell bocsátani a hangfelvételről készített hitelesített jegyzőkönyvet.
 
 (5) A foglalkoztatói nyugdíjszolgáltató intézmény a szóbeli panaszt – a (6) bekezdésben meghatározott eltéréssel – azonnal megvizsgálja, és szükség szerint orvosolja. Ha a tag a panasz kezelésével nem ért egyet, a foglalkoztatói nyugdíjszolgáltató intézmény a panaszról és az azzal kapcsolatos álláspontjáról jegyzőkönyvet vesz fel, és annak egy másolati példányát a személyesen közölt szóbeli panasz esetén a tagnak átadja, telefonon közölt szóbeli panasz esetén a tagnak – a (7) bekezdésben foglaltakkal egyidejűleg – megküldi, egyebekben az írásbeli panaszra vonatkozó rendelkezések szerint jár el.
 
@@ -22,9 +22,9 @@ fogadja.
 
 (7) A foglalkoztatói nyugdíjszolgáltató intézmény az írásbeli panasszal kapcsolatos, indokolással ellátott álláspontját a panasz közlését követő harminc napon belül megküldi a tagnak.
 
-(8) A panasz elutasítása esetén a nyugdíjszolgáltató intézmény válaszában tájékoztatja a tagot arról, hogy az MNBtv. szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A nyugdíjszolgáltató intézménynek meg kell adnia a Pénzügyi Békéltető Testület levelezési címét.
+(8) A panasz elutasítása esetén a nyugdíjszolgáltató intézmény válaszában tájékoztatja a tagot arról, hogy az MNBtv. szerinti fogyasztóvédelmi rendelkezések megsértése esetén a Felügyeletnél fogyasztóvédelmi eljárást kezdeményezhet, vagy a szerződés létrejöttével, érvényességével, joghatásaival és megszűnésével, továbbá a szerződésszegéssel és annak joghatásaival kapcsolatos jogvita esetén bírósághoz fordulhat, vagy a Pénzügyi Békéltető Testület eljárását kezdeményezheti. A nyugdíjszolgáltató intézménynek meg kell adnia a Pénzügyi Békéltető Testület székhelyét, telefonos és internetes elérhetőségét, valamint a levelezési címét.
 
-(9) A foglalkoztatói nyugdíjszolgáltató intézmény a panaszt és az arra adott választ három évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
+(9) A foglalkoztatói nyugdíjszolgáltató intézmény a panaszt és az arra adott választ öt évig őrzi meg, és azt a Felügyelet kérésére bemutatja.
 
 (10) A foglalkoztatói nyugdíjszolgáltató intézmény a tagok panaszai hatékony, átlátható és gyors kezelésének eljárásáról, a panaszügyintézés módjáról, valamint a (11) bekezdés szerinti nyilvántartás vezetésének szabályairól szabályzatot (a továbbiakban: panaszkezelési szabályzat) készít. A foglalkoztatói nyugdíjszolgáltató intézmény a panaszkezelési szabályzatban tájékoztatja a tagokat a panaszügyintézés helyéről, levelezési címéről, elektronikus levelezési címéről, telefonszámáról és telefaxszámáról.
 

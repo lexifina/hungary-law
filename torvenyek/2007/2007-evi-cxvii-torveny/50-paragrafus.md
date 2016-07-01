@@ -1,6 +1,10 @@
 ## Letétkezelő
 
-50. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a letétkezelési feladatok ellátásával a Bszt.-ben meghatározott letétkezelési szolgáltatásra vonatkozó engedéllyel rendelkező magyarországi székhelyű befektetési vállalkozást, hitelintézetet köteles megbízni.
+50. § (1) A foglalkoztatói nyugdíjszolgáltató intézmény a letétkezelési feladatok ellátásával olyan befektetési vállalkozást, hitelintézetet köteles megbízni, amely
+
+a) tevékenységét a Felügyelet a Bszt.-ben meghatározott letétkezelési szolgáltatásra vonatkozó engedélye alapján végzi, vagy
+
+b) az Európai Unió más tagállamában rendelkezik székhellyel, rendelkezik nyugdíjalapok kezelésére engedéllyel és tevékenységét az egyéb jogszabályban foglaltaknak megfelelően, határon átnyúló szolgáltatás keretében vagy magyarországi fióktelepe útján folytatja.
 
 (2) A foglalkoztatói nyugdíjszolgáltató intézmény befektetési tevékenységéhez kapcsolódó pénzforgalmát a számára letétkezelői szolgáltatást végző hitelintézetnél, kizárólag külön e célra nyitott befektetési számlán köteles bonyolítani.
 

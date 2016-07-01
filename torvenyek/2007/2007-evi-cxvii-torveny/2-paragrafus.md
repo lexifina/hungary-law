@@ -46,7 +46,7 @@
 
 22. munkavállaló: a foglalkoztatóval a 23. pontban meghatározott munkaviszonyban álló személy;
 
-23. munkaviszony: a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) szerinti munkaviszony, továbbá minden olyan, munkavégzésre irányuló jogviszony, amelyre külön törvény szerint az Mt. rendelkezéseit is alkalmazni kell; munkaviszony e törvény alkalmazásában továbbá a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati jogviszony és a közszolgálati jogviszony, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény szerinti közalkalmazotti jogviszony, az ügyészségi szolgálati viszonyról és az ügyészségi adatkezelésről szóló 1994. évi LXXX. törvény szerinti ügyészségi szolgálati viszony, a bírák jogállásáról és javadalmazásáról szóló 1997. évi LXVII. törvény szerinti szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény szerinti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati viszony, a honvédek jogállásáról szóló törvény szerinti szolgálati jogviszony; e törvény alkalmazásában az egyházi személyt is munkaviszonyban állónak kell tekinteni;
+23. munkaviszony: a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) szerinti munkaviszony, továbbá minden olyan, munkavégzésre irányuló jogviszony, amelyre külön törvény szerint az Mt. rendelkezéseit is alkalmazni kell; munkaviszony e törvény alkalmazásában továbbá a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati jogviszony és a közszolgálati jogviszony, az állami tisztviselőkről szóló törvény szerinti állami szolgálati jogviszony, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény szerinti közalkalmazotti jogviszony, az ügyészségről szóló 2011. évi CLXIII. törvény szerinti ügyészségi szolgálati viszony, a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény szerinti szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény szerinti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati viszony, a honvédek jogállásáról szóló törvény szerinti szolgálati viszony; e törvény alkalmazásában az egyházi személyt is munkaviszonyban állónak kell tekinteni;
 
 24. nyugdíjkonstrukció: egy foglalkoztató munkavállalói részére nyújtott foglalkoztatói nyugdíjszolgáltatás feltétel- és teljesítésrendszere;
 
@@ -80,4 +80,8 @@ c) határon átnyúló tevékenység esetében a foglalkoztató székhelye szeri
 
 36. minősített befolyás: a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló 2007. évi CXXXVIII. törvényben meghatározott fogalom;
 
-37. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank.
+37. Felügyelet: a pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank;
+
+38. elektronikus irat: olyan bizonylat, amely megfelel az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben foglalt rendelkezéseknek;
+
+39. elektronikus irat használata: a foglalkoztatói nyugdíjszolgáltató intézmény tagja teljes bizonyító erejű magánokiratba foglalt nyilatkozatban kérheti a foglalkoztatói nyugdíjszolgáltató intézménytől, hogy a foglalkoztatói nyugdíjszolgáltató intézmény a részére átadandó dokumentumokat, nyilatkozatokat, igazolásokat elektronikus iratként küldje meg, illetve tegye elérhetővé számára.

@@ -26,7 +26,7 @@ e) felsőfokú iskolai végzettséggel nem rendelkezik, vagy
 
 f) könyvvizsgálói tevékenységet folytat.
 
-(5) A foglalkoztatói nyugdíjszolgáltató intézmény felügyelőbizottságának tagjai közül a (4) bekezdés c) és d) pontjaiban foglaltak kizárólag a felügyelőbizottság elnökére nézve kötelezőek.
+(5) A foglalkoztatói nyugdíjszolgáltató intézmény felügyelőbizottságának tagjai közül a (4) bekezdés d) pontjában foglaltak kizárólag a felügyelőbizottság elnökére nézve kötelezőek.
 
 (6) Akivel szemben
 

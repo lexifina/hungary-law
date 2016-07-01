@@ -16,6 +16,6 @@ b) ezt a foglalkoztatói nyugdíjszolgáltató intézmény alapszabálya, illet�
 
 c) vagyonkezelési és vagyonértékelési szabályzattal rendelkezik.
 
-(5) A foglalkoztatói nyugdíjszolgáltató intézmény vagyonkezelési tevékenység irányítására olyan büntetlen előéletű személyt alkalmaz, aki szakirányú felsőfokú végzettséggel (egyetemen vagy főiskolán szerzett jogi, államigazgatási, közgazdasági vagy pénzügyi diploma, oklevél, illetőleg könyvvizsgálói végzettség) és legalább öt év szakmai gyakorlattal rendelkezik.
+(5) A foglalkoztatói nyugdíjszolgáltató intézmény vagyonkezelési tevékenység irányítására olyan büntetlen előéletű, befektetésekért felelős vezetőt alkalmaz, aki szakirányú felsőfokú végzettséggel (egyetemen vagy főiskolán szerzett jogi, államigazgatási, közgazdasági vagy pénzügyi diploma, oklevél, illetve könyvvizsgálói végzettség), értékpapír forgalmazásra feljogosító szakmai vizsgával és legalább három év szakmai gyakorlattal rendelkezik.
 
 (6) Nem minősül saját vagyonkezelési tevékenységnek, amennyiben a foglalkoztatói nyugdíjszolgáltató intézmény vagyonkezelésbe ki nem helyezett befektetett eszközei kizárólag házipénztárban, pénzforgalmi számlán, befektetési számlán vannak elhelyezve.

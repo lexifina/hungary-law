@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-117-00-00
 | 2015-07-01 | 2015. évi XLII. törvény | 2007-117-00-00.18 |
 | 2015-07-07 | 2015. évi LXXXV. törvény | 2007-117-00-00.19 |
 | 2016-01-01 | 2015. évi CCXV. törvény | 2007-117-00-00.20 |
+| 2016-07-01 | 2016. évi LIII. törvény | 2007-117-00-00.21 |

@@ -6,7 +6,7 @@
 
 (3) A matematikai tartalék év végére várható értékének eszközfedezetét folyamatosan, de legalább negyedévenként az előre látható kötelezettségeket figyelembe véve meg kell teremteni, és folyamatosan fenn kell tartani annak érdekében, hogy az év végére a szükséges tartalékkal azonos nagyságú, a befektetési előírásoknak megfelelő eszközfedezet a foglalkoztatói nyugdíjszolgáltató intézmény rendelkezésére álljon.
 
-(4) A nyugdíjtechnikai tartalékok tartalmát, képzésének és felhasználásának rendjét a 437. § b) pontja szerint kiadott jogszabályban foglaltak szerint kell meghatározni azzal, hogy
+(4) A nyugdíjtechnikai tartalékok tartalmát, képzésének és felhasználásának rendjét a Bit. 437. § b) pontja szerint kiadott jogszabályban foglaltak szerint kell meghatározni azzal, hogy
 
 a) a meg nem szolgált hozzájárulások és tagi kiegészítések tartaléka tekintetében a meg nem szolgált díjak tartalékára vonatkozó előírásokat,
 
