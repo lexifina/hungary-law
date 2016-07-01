@@ -1,0 +1,1 @@
+## „(2a) Ha a központi vízumhatóság a vízum kiadásához hozzájárult, azonban a vízum kiállítását megelőzően olyan adat, információ vagy dokumentum jut a konzuli tisztviselő tudomására, amely a vízum kiadását nem teszi lehetővé, a konzuli tisztviselő a Vízumkódexben foglaltak szerint a vízumkérelmet elutasítja és a döntésről értesíti a központi vízumhatóságot.”

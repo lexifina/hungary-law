@@ -1,0 +1,1 @@
+## „(3) A harmadik országbeli állampolgár Tv. 35/A. § (1) bekezdése alapján kiadott nemzeti letelepedési engedélyét az országos illetékességgel rendelkező Budapesti és Pest Megyei Regionális Igazgatóság vonhatja vissza.”

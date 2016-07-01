@@ -1,3 +1,3 @@
-## 38–50. §[^19]
+## 50. § Az R3. 115. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^19]: A 38–50. § a 92. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+## „(1) A Tv. 43. § (1) bekezdés e) és f) pontjában meghatározott okból a szabálysértési hatóság, a bíróság, a helyszíni bírság kiszabására jogosult szerv, illetve a vámigazgatási bírság kiszabására jogosult szerv a pénzbírságot kiszabó határozata jogerőre emelkedésétől, illetve a helyszíni bírság kiszabásától számított negyvenhatodik naptól a 114. § (3) bekezdés d) pontja szerinti regionális igazgatóságnak javaslatot tehet önálló beutazási és tartózkodási tilalom elrendelésére.”

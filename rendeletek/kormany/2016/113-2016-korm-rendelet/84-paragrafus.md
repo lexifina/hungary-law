@@ -1,9 +1,12 @@
-## 83. §[^36]
+## 83. §[^22]
 
-84. § (1)[^37]
+84. § (1) Az R5. 20. § (1) bekezdés k) pontja helyébe a következő rendelkezés lép:
 
-(2)[^38]
+(A kormányhivatal szakhatósági állásfoglalásában nem támogatja az összevont engedély kiadását, ha)
 
-[^36]: A 83. § a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
-[^37]: A 84. § (1) bekezdése a 92. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
-[^38]: A 84. § (2) bekezdése a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
+## „k) a harmadik országbeli állampolgár magyarországi foglalkoztatása munkaerő-kölcsönzést valósít meg.”
+
+(2)[^23]
+
+[^22]: A 83. § a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
+[^23]: A 84. § (2) bekezdése a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.

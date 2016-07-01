@@ -1,3 +1,1 @@
-## 19–26. §[^7]
-
-[^7]: A 19–26. § a 92. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+## „(4) A Magyarország területén tartózkodó harmadik országbeli állampolgár tartózkodási engedély kiadása iránti kérelmét a szálláshelye szerint illetékes regionális igazgatóságon terjesztheti elő a Tv. 17/A. §-ban foglaltak szerint.”

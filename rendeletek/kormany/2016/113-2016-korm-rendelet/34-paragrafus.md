@@ -1,3 +1,3 @@
-## 32–33. §[^11]
+## 33. § Az R3. 64. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^11]: A 32–33. § a 92. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+## „(2) A meghívólevél iránti kérelmet külön jogszabályban meghatározott formanyomtatványon a kérelmező lakóhelye, tartózkodási helye vagy szálláshelye, illetve a jogi személy székhelye szerint illetékes regionális igazgatóságon személyesen, jogi személy meghívó esetén meghatalmazott képviselő útján kell benyújtani.”

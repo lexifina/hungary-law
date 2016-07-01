@@ -1,0 +1,1 @@
+## „(5) A (2) bekezdés szerinti bejelentést a Tv. 35/A. § (1) bekezdése alapján nemzeti letelepedési engedélyt szerzett harmadik országbeli állampolgár az országos illetékességgel rendelkező Budapesti és Pest Megyei Regionális Igazgatóságon teljesíti.”

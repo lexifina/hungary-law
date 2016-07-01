@@ -1,3 +1,3 @@
-## 14–16. §[^4]
+## 16. § Az R2. 72. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^4]: A 14–16. § a 92. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+## „(1) A munkáltató székhelye szerint illetékes regionális igazgatóság a Tv. 67. § (1) bekezdésében meghatározott kötelezettségét elmulasztó munkáltatót foglalkoztatottanként ötszázezer forintig terjedő közrendvédelmi bírsággal sújthatja.”

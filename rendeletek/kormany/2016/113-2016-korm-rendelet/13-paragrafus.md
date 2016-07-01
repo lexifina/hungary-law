@@ -1,3 +1,1 @@
-## 3–12. §[^2]
-
-[^2]: A 3–12. § a 92. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
+## „(4) Az EGT állampolgár vagy családtag lakóhelye szerinti regionális igazgatóság az érvénytelen tartózkodási jogot igazoló okmányt – a (2) bekezdés b), e), f) és i) pontjában meghatározott esetek kivételével – a Tv. 13. § (3) bekezdésében, a 15. § (5) bekezdésében és a 19. § (3) bekezdésében foglaltak alapján vonja vissza. A (2) bekezdés a), c)–d) és g)–h) pontjában, valamint a (3) bekezdésben meghatározott esetekben a lakóhely szerint illetékes regionális igazgatóság az érvénytelen tartózkodási jogot igazoló okmányt visszavonja, amelyről az érvénytelenséget megállapító határozatban rendelkezik.”

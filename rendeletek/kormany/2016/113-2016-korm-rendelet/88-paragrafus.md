@@ -1,3 +1,3 @@
-## 85–87. §[^39]
+## 85–87. §[^24]
 
-[^39]: A 85–87. § a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
+[^24]: A 85–87. § a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
