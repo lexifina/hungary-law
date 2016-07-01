@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-153-20-
 | 2014-03-15 | 2009-153-20-82.16 | 22/2014. (III. 14.) VM rendelet |
 | 2015-04-01 | 2009-153-20-82.17 | 15/2015. (III. 31.) FM rendelet |
 | 2015-12-02 | 2009-153-20-82.18 | 75/2015. (XI. 24.) FM rendelet |
+| 2016-07-01 | 2009-153-20-82.19 | 27/2016. (IV. 11.) FM rendelet |

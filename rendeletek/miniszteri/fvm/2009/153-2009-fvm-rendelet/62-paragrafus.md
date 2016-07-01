@@ -1,4 +1,4 @@
-## 61/A. §[^36] A hivatalból indult, illetőleg folytatott erdészeti hatósági eljárás során a helyszíni szemle és a műszeres vizsgálatok költségei, továbbá a tényállás tisztázása során felmerült személyi és dologi költségek egyéb eljárási költségnek minősülnek.
+## 61/A. §[^52] A hivatalból indult, illetőleg folytatott erdészeti hatósági eljárás során a helyszíni szemle és a műszeres vizsgálatok költségei, továbbá a tényállás tisztázása során felmerült személyi és dologi költségek egyéb eljárási költségnek minősülnek.
 
 ## Az erdőgazdálkodási tevékenység elrendelésének szabályai
 
@@ -6,4 +6,4 @@
 
 (2) Az elrendelt erdőgazdálkodási tevékenységgel megbízott vállalkozó a tevékenysége során köteles betartani mindazokat az erdőgazdálkodásra vonatkozó szabályokat, amelyeket az Evt., valamint egyéb jogszabályok az erdőgazdálkodás gyakorlására vonatkozóan előírnak. A megbízott vállalkozó a tevékenysége szakszerűségét jogosult szakszemélyzet alkalmazásával is köteles biztosítani.
 
-[^36]: A 61/A. §-t a 63/2012. (VII. 2.) VM rendelet 12. §-a iktatta be.
+[^52]: A 61/A. §-t a 63/2012. (VII. 2.) VM rendelet 12. §-a iktatta be.
