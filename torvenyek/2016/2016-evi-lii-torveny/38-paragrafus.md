@@ -8,13 +8,7 @@
 
 (terjed ki.)
 
-(2) A Kttv. 1. § b) pontja helyébe a következő rendelkezés lép:
-
-(E törvény hatálya – nemzetközi jogi vagy uniós jogi kötelezettség teljesítése érdekében törvény eltérő rendelkezése hiányában –)
-
-„b) a kormányhivatal és a központi hivatal területi, helyi szerve, továbbá a Kormány által intézményfenntartásra kijelölt szerv,”
-
-(terjed ki.)
+(2)
 
 (3) A Kttv. 6. §-a a következő 1a. ponttal egészül ki:
 
@@ -22,9 +16,7 @@
 
 „1a. állami tisztviselő: a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál az állami tisztviselőkről szóló törvény szerinti jogviszonyban álló személy;”
 
-(4) A Kttv. 6. § 17. pontja helyébe a következő rendelkezés lép:
-
-„17. közigazgatási szerv: az 1. §-ban és a 2. §-ban meghatározott szervek, valamint a fővárosi és megyei kormányhivatal;”
+(4)
 
 (5) A Kttv. 52. § (4) bekezdése helyébe a következő rendelkezés lép:
 

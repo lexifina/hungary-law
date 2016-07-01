@@ -18,15 +18,13 @@ h) 20/E. § (3) bekezdésében a „16-szorosában” szövegrész helyébe a �
 
 lép.
 
-(2) A Khtv. 19/A. § (2) bekezdésében az „a kormánytisztviselő, illetve állami tisztviselő” szövegrész helyébe az „az állami tisztviselő” szöveg lép.
+(2)
 
 (3) A Kttv.
 
 a) 2. §-ában a „Nemzeti Emlékezet Bizottságának Hivatala köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára” szövegrész helyébe a „Nemzeti Emlékezet Bizottságának Hivatala köztisztviselőjének és közszolgálati ügykezelőjének közszolgálati jogviszonyára és a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának állami tisztviselője állami tisztviselői jogviszonyára” szöveg,
 
-b) 2. §-ában a „fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának állami tisztviselője állami tisztviselői jogviszonyára” szövegrész helyébe a „fővárosi és megyei kormányhivatal állami tisztviselőjének állami tisztviselői jogviszonyára” szöveg,
-
-c) 6. § 1a. pontjában a „fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalánál” szövegrész helyébe a „fővárosi és megyei kormányhivatalnál” szöveg,
+b)–c)
 
 d) 6. § 4. pontjában a „közalkalmazotti jogviszony” szövegrész helyébe az „állami szolgálati jogviszony, közalkalmazotti jogviszony” szöveg,
 
