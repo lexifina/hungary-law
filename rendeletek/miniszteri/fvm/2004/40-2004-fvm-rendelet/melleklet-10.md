@@ -1,4 +1,4 @@
-10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^104]
+10. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^105]
 
 I. RÉSZ
 
@@ -24,9 +24,11 @@ I. RÉSZ
 
 | 7. | Lolium x boucheanum Kunth | Hibrid perje | TP 4/1 2011. 6. 23. |
 
-| 8. | Pisum sativum L. | Takarmányborsó | TP 7/2 2010. 3. 11. |
+| 8. | Pisum sativum L. | Takarmányborsó | TP 7/2 rev., 2015.3.11 |
 
 | 9. | Brassica napus L. | Káposztarepce | TP 36/2 2011. 11. 16. |
+
+| 9/a. | Brassica napus L. var. napobrassica (L.) Rchb. | Karórépa | TP 89/1, 2015.3.11. |
 
 | 10. | Cannabis sativa L. | Kender | TP 276/1 2012. 11. 28. |
 
@@ -110,7 +112,7 @@ II. RÉSZ
 
 | 24. | Vicia sativa L. | Tavaszi bükköny | TG 32/7, 2013.3.20. |
 
-| 25. | Brassica napus L. var. napobrassica (L.) Rchb. | Karórépa | TG/89/6rev. 2001. 4. 4. + 2009. 4. 1. |
+| 25. |  |  |  |
 
 | 26. | Raphanus sativus L. var. oleiformis Pers. | Takarmányretek | TG/178/3 2001. 4. 4. |
 
@@ -132,4 +134,4 @@ II. RÉSZ
 
 III. RÉSZ
 
-[^104]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^105]: A 10. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés a) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (1) bekezdése és 10. § e) pontja szerint módosított szöveg.

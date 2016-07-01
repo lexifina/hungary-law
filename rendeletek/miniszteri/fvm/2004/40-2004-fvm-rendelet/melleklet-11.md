@@ -1,6 +1,6 @@
 ## Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^105]
+11. számú melléklet a 40/2004. (IV. 7.) FVM rendelethez[^106]
 
 I. RÉSZ
 
@@ -22,7 +22,7 @@ I. RÉSZ
 
 | 5. | Allium sativum L. | Fokhagyma | TP 162/1 2004. 3. 25. |
 
-| 6. | Allium schoenoprasum L. | Metélő hagyma | TP 198/1 2009. 4. 1. |
+| 6. | Allium schoenoprasum L. | Metélő hagyma | TP 198/2, 2015.3.11. |
 
 | 7. | Apium graveolens L. | Zeller | TP 82/1 2008. 3. 13. |
 
@@ -31,6 +31,8 @@ I. RÉSZ
 | 9. | Asparagus officinalis L. | Spárga | TP 130/2 2011. 2. 16. |
 
 | 10. | Beta vulgaris L. | Cékla, beleértve a cheltenham répát is | TP 60/1 2009. 4. 1. |
+
+| 10/a. | Beta vulgaris L. | Mángold | TP 106/1, 2015.3.11. |
 
 | 11. | Brassica oleracea L. | Leveles kel | TP 90/1 2011. 2. 16. |
 
@@ -60,6 +62,8 @@ I. RÉSZ
 
 | 24. | Cucumis sativus L. | Salátauborka és fürtös uborka | TP 61/2 2008. 3. 13. |
 
+| 24/a. | Cucurbita maxima Duchesne | Sütőtök | TP 155/1, 2015.3.11. |
+
 | 25. | Cucurbita pepo L. | Cukkini | TP 119/1 rev., 2014.3.19. |
 
 | 26. | Cynara cardunculus L. | Articsóka és kardi | TP 184/2, 2013.2.27. |
@@ -78,9 +82,11 @@ I. RÉSZ
 
 | 33. | Phaseolus vulgaris L. | Zöldbab (bokorbab és futóbab) | TP 12/4 2013. 2. 27. |
 
-| 34. | Pisum sativum L. (partim) | Kifejtőborsó, velőborsó és cukorborsó | TP 7/2 2010. 3. 11. |
+| 34. | Pisum sativum L. (partim) | Kifejtőborsó, velőborsó és cukorborsó | TP 7/2 rev., 2015.3.11. |
 
-| 35. | Raphanus sativus L. | Retek, fekete retek | TP 64/2, 2013.2.27. |
+| 35. | Raphanus sativus L. | Retek, fekete retek | TP 64/2 rev., 2015.3.11. |
+
+| 35/a. | Scorzonera hispanica L. | Feketegyökér | TP 116/1, 2015.3.11. |
 
 | 36. | Solanum melongena L. | Padlizsán vagy tojásgyümölcs | TP 117/1 2008. 3. 13. |
 
@@ -102,22 +108,22 @@ II. RÉSZ
 
 |  | Tudományos név | Közismert elnevezés | UPOV előírás |
 
-| 1. | Beta vulgaris L. | Mángold | TG/106/4 2004. 3. 31. |
+| 1. |  |  |  |
 
 | 2. | Brassica rapa L. | Tarlórépa | TG/37/10 2001. 4. 4. |
 
 | 3. | Cichorium intybus L. | Leveles cikória vagy olasz cikória | TG/154/3 1996. 10. 18. |
 
-| 4. | Cucurbita maxima Duchesne | Sütő tök | TG/155/4rev. 2007. 3. 28. +2009. 4. 1. |
+| 4. |  |  |  |
 
 | 5. | Rheum rhabarbarum L. | Rebarbara | TG/62/6 1999. 3. 24. |
 
-| 6. | Scorzonera hispanica L. | Feketegyökér | TG/116/4 2010. 3. 24. |
+| 6. |  |  |  |
 
-| 7. |  |  |  |
+| 7. | Solanum lycopersicum L. x Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. x Solanum peruvianum (L.) Mill.; Solanum lycopersicum L. x Solanum cheesmaniae (L. Ridley) Fosberg | Paradicsom-alanyvesszők | TG/294/1 2013. 3. 20. |
 
 III. RÉSZ
 
 Az I. és II. részben nem szereplő növényfajoknak a nemzeti DUS vizsgálati irányelveknek kell megfelelniük.
 
-[^105]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § g) pontja szerint módosított szöveg.
+[^106]: A 11. számú mellékletet a 70/2006. (IX. 27.) FVM rendelet 3. §-a iktatta be, szövege a 9/2014. (II. 7.) VM rendelet 2. §-ával megállapított, a 4. § (3) bekezdés b) pontja, a 24/2016. (IV. 8.) FM rendelet 8. § (2) bekezdése és 10. § f)–g) pontja szerint módosított szöveg.
