@@ -1,6 +1,12 @@
 47. § (1) A kötvénynyilvántartásból adatot igényelhet:
 
-a) a 46. § (2) bekezdésének b), c) és e) pontjaiban foglalt adatok tekintetében – az e törvényben meghatározott feladatai ellátásához – a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
+a) a 46. § (2) bekezdés
+
+aa) b), c) és e) pontjaiban meghatározott adatok tekintetében – az e törvényben meghatározott feladatai ellátásához –,
+
+ab) d) pontjában meghatározott adatok tekintetében – a károsult személy meghatalmazása alapján, a károsult személy jogának vagy jogos érdekének az érvényesítéséhez szükséges adatok kiadása céljából –
+
+a biztosító, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 
 b) a 46. § (2) bekezdésében foglalt adatok tekintetében – a biztosítással nem rendelkező vagy ismeretlen üzemben tartó gépjárműve által, valamint az ismeretlen gépjárművel okozott károk megtérítése és a károsult követelésének kielégítésével kapcsolatban felmerült összes ráfordítása és költsége visszakövetelése céljából – a Kártalanítási Számla kezelője, az adatigénylés időpontja szerinti és az adatigénylés időpontját megelőző, egy meghatározott időpont szerinti adatokra vonatkozóan;
 

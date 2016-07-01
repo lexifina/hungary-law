@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-62-00-00
 | 2015-10-08 | 2015. évi CXLVII. törvény | 2009-62-00-00.20 |
 | 2016-01-01 | 2014. évi LXXXVIII. törvény | 2009-62-00-00.21 |
 | 2016-03-11 | 2015. évi CCV. törvény | 2009-62-00-00.22 |
+| 2016-07-01 | 2016. évi LIII. törvény | 2009-62-00-00.23 |

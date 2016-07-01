@@ -42,7 +42,13 @@ c) az ismeretlen üzemben tartó gépjárművének vezetőjétől;
 
 d) az ismeretlen gépjármű vezetőjétől, amennyiben ennek személye ismert és a károkozásért felelős;
 
-e) az üzemben tartótól, ha a káresemény a 26. §-ban meghatározott szünetelés ideje alatt következik be.
+e) az üzemben tartótól, ha a káresemény a 26. §-ban meghatározott szünetelés ideje alatt következik be,
+
+f) a vezetőtől, ha a gépjárművet alkoholos vagy a vezetési képességre hátrányosan ható szertől befolyásolt állapotban vezette;
+
+g) a vezetőtől, ha a gépjármű vezetésére jogosító engedéllyel nem rendelkezett;
+
+h) a vezetőtől, ha a kárt segítségnyújtás elmulasztásával, illetve foglalkozás körében elkövetett szándékos veszélyeztetéssel okozta.
 
 (8a) A (6a) bekezdésben meghatározott megtérítés folytán a Kártalanítási Számlára száll át – a kötelező gépjármű-felelősségbiztosítási szerződés, továbbá magyar vagy tagállami jogszabályi rendelkezés alapján – a károsultat
 

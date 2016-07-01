@@ -6,4 +6,4 @@
 
 (3) A (2) bekezdésben meghatározott esetben az üzemben tartó annál a biztosítónál köteles a szerződést – az újrakötött szerződés kockázatviselési kezdetének időpontjában alkalmazandó díjtarifa alapján – megkötni, ahol a szerződése díjnemfizetés miatt szűnt meg.
 
-(4) Az a biztosító, amely a szerződést a biztosítási időszak végére felmondta vagy a szerződés a biztosítási időszak alatt díjnemfizetés miatt szűnt meg, az üzemben tartónak a szerződés megszűnését közvetlenül követő biztosítási időszakra vonatkozó ajánlatát nem köteles elfogadni.
+(4) Az a biztosító, amely a szerződés biztosítási időszak végére történő felmondására nyilatkozatot tett vagy a szerződés a biztosítási időszak alatt díjnemfizetés miatt szűnt meg, az üzemben tartónak a szerződés megszűnését közvetlenül követő biztosítási időszakra vonatkozó ajánlatát nem köteles elfogadni.

@@ -1,6 +1,6 @@
 21. § (1) A biztosítás első díjrészlete, valamint folytatólagos díjrészletei a felek által a szerződésben meghatározott időpontokban esedékesek. Ennek hiányában az első díjrészlet a szerződés létrejöttekor, a folytatólagos díjrészlet pedig az adott díjfizetési időszaknak az első napján esedékes.
 
-(1a) Ha a díj a 23. § (2) bekezdésében meghatározott megváltoztatás esetén módosul, vagy a szerződő fél által már megfizetett díjat jogszabályváltozás folytán utóbb más tartozására kell elszámolni, az üzemben tartó a díjkülönbözetet az esedékes következő biztosítási díjrészlettel együtt – a biztosítási időszakra járó díj teljes megfizetése esetén 30 napos határidővel – köteles megfizetni.
+(1a) Ha a díj a 23. § (2) bekezdésében meghatározott megváltoztatás esetén módosul, vagy a szerződő fél által már megfizetett díjat jogszabályváltozás folytán utóbb más tartozására kell elszámolni, az üzemben tartó a díjkülönbözetet – a felek eltérő megállapodásának hiányában – az esedékes következő biztosítási díjrészlettel együtt – a biztosítási időszakra járó díj teljes megfizetése esetén 30 napos határidővel – köteles megfizetni.
 
 (2) Az egyszeri díjat – a felek eltérő megállapodásának hiányában – a szerződés létrejöttekor kell megfizetni.
 
