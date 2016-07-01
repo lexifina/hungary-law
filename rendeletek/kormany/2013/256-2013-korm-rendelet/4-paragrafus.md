@@ -8,7 +8,7 @@ a) az adott év március 1-je és augusztus 31-e közötti időszakra vonatkozó
 
 b) az adott év szeptember 1-je és az adott évet követő év február 28-a közötti időszakra vonatkozóan az adott év július 1-jei munkáltatói foglalkoztatási adatok alapján
 
-## állapítja meg.
+állapítja meg.
 
 (4)[^13] A (3) bekezdés alapján megállapított vagy az 5. § (2) bekezdésében foglalt bejelentés figyelembe vételével módosított támogatási összeget az OEP havonta utalványozza a munkáltatónak.
 
@@ -16,7 +16,9 @@ b) az adott év szeptember 1-je és az adott évet követő év február 28-a k�
 
 (6)[^15] A munkáltató a ténylegesen kifizetett összegekkel a 6. melléklet szerinti tartalommal számol el az OEP felé.
 
-(7)[^16] A (6) bekezdésben foglalt elszámolás a tárgyévet megelőző év október hónaptól a tárgyév szeptember hónapjáig tartó időszakra a tárgyév október 15-ig esedékes.
+(7)[^16] A (6) bekezdésben foglalt elszámolás a tárgyévet megelőző év szeptember hónaptól a tárgyév augusztus hónapjáig tartó időszakra a tárgyév szeptember 30-áig esedékes.
+
+(8)[^17] Az OEP a munkáltató által igényelt, de a bérnövekedés biztosítására fel nem használt támogatási összeget a (7) bekezdés szerinti elszámolási időpontot követően esedékes támogatási összegből levonja.
 
 [^10]: A 4. § (1) bekezdését a 30/2015. (II. 25.) Korm. rendelet 90. § a) pontja hatályon kívül helyezte.
 [^11]: A 4. § (2) bekezdése a 30/2015. (II. 25.) Korm. rendelet 86. § (1) bekezdésével megállapított szöveg.
@@ -24,4 +26,5 @@ b) az adott év szeptember 1-je és az adott évet követő év február 28-a k�
 [^13]: A 4. § (4) bekezdése a 30/2015. (II. 25.) Korm. rendelet 86. § (1) bekezdésével megállapított szöveg.
 [^14]: A 4. § (5) bekezdése a 413/2015. (XII. 23.) Korm. rendelet 62. § b) pontja szerint módosított szöveg.
 [^15]: A 4. § (6) bekezdése a 30/2015. (II. 25.) Korm. rendelet 86. § (2) bekezdésével megállapított szöveg.
-[^16]: A 4. § (7) bekezdése a 30/2015. (II. 25.) Korm. rendelet 86. § (2) bekezdésével megállapított szöveg.
+[^16]: A 4. § (7) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 65. § (1) bekezdésével megállapított szöveg.
+[^17]: A 4. § (8) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 65. § (2) bekezdése iktatta be.

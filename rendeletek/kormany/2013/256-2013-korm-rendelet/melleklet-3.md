@@ -34,7 +34,7 @@
 
 | 17. | Békés Megyei Körös-menti Szociális Centrum | Szarvas |
 
-| 18. | Békés Megyei Pándy Kálmán Kórház | Gyula |
+| 18. | Békés Megyei Központi Kórház | Gyula |
 
 | 19. | Békés Városi Egyesített Egészségügyi Intézmény és Rendelőintézet | Békés |
 
@@ -90,7 +90,7 @@
 
 | 45. | Deák Jenő Kórház | Tapolca |
 
-| 46. | Debreceni Egyetem Orvos- és Egészségtudományi Centrum | Debrecen |
+| 46. | Debreceni Egyetem Klinikai Központ | Debrecen |
 
 | 47. | Debreceni Egyetem Orvos- és Egészségtudományi Centrum Kazincbarcikai Kórház Nonprofit Kft. | Kazincbarcika |
 
@@ -112,11 +112,11 @@
 
 | 56. | Dr. Kostyán Andor Rendelőintézet | Abony |
 
-| 57. | Dr. Réthy Pál Városi Kórház – Rendelőintézet | Békéscsaba |
+| 57. |  |  |
 
 | 58. | Dr. Romics László Egészségügyi Intézmény | Érd |
 
-| 59. | Dr. Szarka Ödön Kistérségi Egészségügyi Szolgáltató Kft. | Csongrád |
+| 59. | Dr. Szarka Ödön Egyesített Egészségügyi és Szociális Intézmény | Csongrád |
 
 | 60. | Dr. Tábori Lajos Rendelőintézet | Nyergesújfalu |
 
@@ -202,7 +202,7 @@
 
 | 101. | Kátai Gábor Kórház | Karcag |
 
-| 102. | Kemenesaljai Egyesített Kórház | Celldömölk |
+| 102. | Kemenesaljai Egyesített Kórház Celldömölk | Celldömölk |
 
 | 103. | Kenézy Gyula Kórház és Rendelőintézet | Debrecen |
 
@@ -220,13 +220,13 @@
 
 | 110. | Koch Róbert Kórház és Rendelőintézet | Edelény |
 
-| 111. | Komlói Egészségcentrum | Komló |
+| 111. | Komlói Egészségcentrum, Bányászati Utókezelő és Éjjeli Szanatórium Egészségügyi Központ | Komló |
 
 | 112. | Komlós Településszolgáltatási Kft. | Tótkomlós |
 
 | 113. | Koppány-Völgye Kistérség Egészségfejlesztő Központ Nonprofit Kft. | Tab |
 
-| 114. | Kunhegyesi Szakorvosi és Ápolási Intézet | Kunhegyes |
+| 114. |  |  |
 
 | 115. | Kunszentmárton Városi Egészségügyi Központ | Kunszentmárton |
 
@@ -290,7 +290,7 @@
 
 | 145. | Nemzetközi Pető András Közhasznú Nonprofit Kft. | Budapest |
 
-| 146. | Nyírő Gyula Kórház | Budapest |
+| 146. | Nyírő Gyula Kórház – Országos Pszichiátriai és Addiktológiai Intézet | Budapest |
 
 | 147. | Oroszlányi Szakorvosi és Ápolási Intézet | Oroszlány |
 
@@ -298,7 +298,7 @@
 
 | 149. | Nemzeti Egészségfejlesztési Intézet | Budapest |
 
-| 150. | Országos Idegtudományi Intézet | Budapest |
+| 150. | Országos Klinikai Idegtudományi Intézet | Budapest |
 
 | 151. | Országos Korányi TBC és Pulmonológiai Intézet | Budapest |
 
@@ -336,7 +336,7 @@
 
 | 168. | Péterfy Sándor Utcai Kórház – Rendelőintézet és Baleseti Központ | Budapest |
 
-| 169. | Petz Aladár Megyei Oktató Kórház | Győr |
+| 169. | Petz Aladár Megyei Oktató Kórház, Győr | Győr |
 
 | 170. | Pilisvörösvár Városi Önkormányzat Szakorvosi Rendelőintézete | Pilisvörösvár |
 
@@ -374,11 +374,11 @@
 
 | 187. | Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház | Nyíregyháza |
 
-| 188. | Szakorvosi Rendelőintézet Gyömrő | Gyömrő |
+| 188. |  |  |
 
-| 189. | Szakorvosi Rendelőintézet Monor | Monor |
+| 189. |  |  |
 
-| 190. | Szakorvosi Rendelőintézet Nagykáta | Nagykáta |
+| 190. |  |  |
 
 | 191. | Szakorvosi Rendelőintézet Szigetszentmiklós | Szigetszentmiklós |
 
@@ -400,7 +400,7 @@
 
 | 200. | Szent Kozma és Damján Rehabilitációs Szakkórház | Visegrád |
 
-| 201. | Szent László Kórház Sárvár | Sárvár |
+| 201. | Szent László Kórház | Sárvár |
 
 | 202. | Szent Lázár Megyei Kórház | Salgótarján |
 
@@ -468,7 +468,7 @@
 
 | 234. | Velencei-tavi Kistérségi Járóbeteg Szakellátó Közhasznú Nonprofit Kft. | Velence |
 
-| 235. | Veszprém Megyei Tüdőgyógyintézet | Farkasgyepű |
+| 235. | Veszprém Megyei Tüdőgyógyintézet, Farkasgyepű | Farkasgyepű |
 
 | 236. | XIII. Kerületi Egészségügyi Szolgálat Közhasznú Nonprofit Kft. | Budapest |
 
@@ -506,9 +506,11 @@
 
 | 253. | Szegedi Sport és Fürdők Kft. | Szeged |
 
+| 254. | Bácsalmási Egészségügyi Szolgáltató Kft. | Bácsalmás |
+
 3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez
 
-## Igénylő lap az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vehető támogatáshoz
+Igénylő lap az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vehető támogatáshoz
 
 1. A munkáltatóra vonatkozó adatok
 
@@ -526,7 +528,7 @@
 
 1.7. KSH kódja,
 
-1.8.[^39]
+1.8.[^47]
 
 1.9. OEP finanszírozási kód,
 
@@ -576,4 +578,4 @@
 
 4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáért.
 
-[^39]: A 3. melléklet 1.8. pontját a 413/2015. (XII. 23.) Korm. rendelet 63. § c) pontja hatályon kívül helyezte.
+[^47]: A 3. melléklet 1.8. pontját a 413/2015. (XII. 23.) Korm. rendelet 63. § c) pontja hatályon kívül helyezte.

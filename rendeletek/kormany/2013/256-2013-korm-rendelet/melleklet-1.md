@@ -1,5 +1,3 @@
-## 19–22. §[^31]
-
 1. melléklet a 256/2013. (VII. 5.) Korm. rendelethez
 
 1. Az Eütev. 11/A. § (4) bekezdése szerinti orvosi munkakörök:
@@ -152,11 +150,11 @@
 
 2.64. vezető közegészségügyi felügyelő*
 
-2.65.[^32] ápolási igazgató
+2.65.[^40] ápolási igazgató
 
-2.66.[^33] egészségügyi szakoktató
+2.66.[^41] egészségügyi szakoktató
 
-2.67.[^34] mentőhelikopter vezető
+2.67.[^42] mentőhelikopter vezető
 
 3. Az Eütev. 11/A. § (6) bekezdése szerinti, felsőfokú végzettséggel betölthető munkakörök:
 
@@ -174,9 +172,9 @@
 
 3.7. mikrobiológus*
 
-3.8.[^35] fizikus
+3.8.[^43] fizikus
 
-3.9.[^36] kémikus
+3.9.[^44] kémikus
 
 4. Az Eütev. 11/A. § (6a) bekezdése szerinti gyógyszerészi végzettséggel betölthető munkakörök:
 
@@ -198,7 +196,7 @@
 
 5.3. parancsnok helyettes*
 
-5.4.[^37]
+5.4.[^45]
 
 5.5. intézetvezető*
 
@@ -214,10 +212,9 @@ Jelmagyarázat:
 
 ** = a Kjt. vhr. 17. §-ában említett fegyveres szerveknél foglalkoztatott közalkalmazottakra irányadó munkakör.
 
-[^31]: A 19–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^32]: Az 1. melléklet 2. pont 2.65. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^33]: Az 1. melléklet 2. pont 2.66. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^34]: Az 1. melléklet 2. pont 2.67. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^35]: Az 1. melléklet 3. pont 3.8. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^36]: Az 1. melléklet 3. pont 3.9. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
-[^37]: Az 1. melléklet 5. pont 5.4. alpontját a 394/2013. (XI. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^40]: Az 1. melléklet 2. pont 2.65. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^41]: Az 1. melléklet 2. pont 2.66. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^42]: Az 1. melléklet 2. pont 2.67. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^43]: Az 1. melléklet 3. pont 3.8. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^44]: Az 1. melléklet 3. pont 3.9. alpontját a 394/2013. (XI. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
+[^45]: Az 1. melléklet 5. pont 5.4. alpontját a 394/2013. (XI. 14.) Korm. rendelet 5. §-a hatályon kívül helyezte.

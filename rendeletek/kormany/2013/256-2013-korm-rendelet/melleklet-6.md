@@ -30,11 +30,15 @@
 
 | 40–42 | 24 043 | 19 460 | 30 520 | 32 860 | 35 068 | 41 425 | 41 425 | 41 425 | 41 425 | 41 425 |
 
-| 43–45 | 24 043 | 19 460 | 30 520 | 32 860 | 35 068 | 41 425 | 41 425 | 41 425 | 41 425 | 41 425 |
+| 43–45 | 24 043 | 18 111 | 29 467 | 31 422 | 35 427 | 41 425 | 41 425 | 41 425 | 41 425 | 41 425 |
+
+| 46–48 | 24 043 | 16 711 | 28 054 | 29 972 | 35 768 | 41 425 | 41 425 | 41 425 | 41 425 | 41 425 |
+
+| 49–51 | 24 043 | 15 312 | 26 641 | 28 521 | 36 109 | 41 425 | 41 425 | 41 425 | 41 425 | 41 425 |
 
 6. melléklet a 256/2013. (VII. 5.) Korm. rendelethez
 
-## Beszámoló az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vett támogatásról
+Beszámoló az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vett támogatásról
 
 1. A munkáltatóra vonatkozó adatok
 
@@ -52,7 +56,7 @@
 
 1.7. KSH kódja,
 
-1.8.[^41]
+1.8.[^50]
 
 1.9. OEP finanszírozási kód,
 
@@ -90,4 +94,4 @@
 
 4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáért.
 
-[^41]: A 6. melléklet 1.8. pontját a 413/2015. (XII. 23.) Korm. rendelet 63. § d) pontja hatályon kívül helyezte.
+[^50]: A 6. melléklet 1.8. pontját a 413/2015. (XII. 23.) Korm. rendelet 63. § d) pontja hatályon kívül helyezte.
