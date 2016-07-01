@@ -1,6 +1,6 @@
 ## 11. Az erdészeti hatósági eljárásokban közreműködő szakhatóságok
 
-30. § (1)[^85] A kulturális örökségvédelmi hatósági nyilvántartásban szereplő – a NÉBIH részére átadott – EOV vetületű vektoros térképfedvényen lehatárolt nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, vagy műemléki területen vagy nyilvántartott műemléki érték, műemlék területén
+30. § (1)[^93] A kulturális örökségvédelmi hatósági nyilvántartásban szereplő – a NÉBIH részére átadott – EOV vetületű vektoros térképfedvényen lehatárolt nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, vagy műemléki területen vagy nyilvántartott műemléki érték, műemlék területén
 
 a) az erdészeti magánút, műtárgy, csatorna, tározó létesítésére, bővítésére, helyreállítására, korszerűsítésére, megszüntetésére, illetve használatbavételére, fennmaradására irányuló eljárásban,
 
@@ -14,7 +14,7 @@ e) az erdőtelepítési-kivitelezési terv jóváhagyása iránti eljárásban,
 
 ## szakkérdésként kell vizsgálni, hogy a tevékenység, a beruházás vagy a terv a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e.
 
-(2)[^86] A Kormány védett természeti területen található erdő esetén
+(2)[^94] A Kormány védett természeti területen található erdő esetén
 
 a) erdei épület, erdei vasút kivételével minden erdészeti létesítmény létesítésére, bővítésére, felújítására, helyreállítására, korszerűsítésére, lebontására, elmozdítására, illetve használatbavételére, fennmaradására vagy a rendeltetésének megváltoztatására irányuló másodfokú eljárásban,
 
@@ -60,13 +60,13 @@ r) lovas sportverseny rendezésének engedélyezésére irányuló másodfokú e
 
 ## ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, valamint az f), g) és i) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(2a)[^87] Amennyiben az erdőterv megállapítása védett természeti területen az Evt. alapján készített körzeti erdőtervben foglaltak szerint, az adott erdőre vonatkozóan abban rögzített erdőgazdálkodási jogok és kötelezettségek módosítása nélkül, hivatalból történik, és az adott erdőgazdálkodási jogokhoz és kötelezettségekhez kapcsolódóan a védett természeti területek természetvédelmi kezeléséért felelős szerv az Evt. 41. § (9) bekezdése szerinti bejelentéssel nem élt, akkor a szakhatóság (2) bekezdés szerinti bevonása mellőzhető.
+(2a)[^95] Amennyiben az erdőterv megállapítása védett természeti területen az Evt. alapján készített körzeti erdőtervben foglaltak szerint, az adott erdőre vonatkozóan abban rögzített erdőgazdálkodási jogok és kötelezettségek módosítása nélkül, hivatalból történik, és az adott erdőgazdálkodási jogokhoz és kötelezettségekhez kapcsolódóan a védett természeti területek természetvédelmi kezeléséért felelős szerv az Evt. 41. § (9) bekezdése szerinti bejelentéssel nem élt, akkor a szakhatóság (2) bekezdés szerinti bevonása mellőzhető.
 
-(3)[^88] A (2) bekezdés n) pontja szerinti eljárásban a szakhatóság öt napon, a (2) bekezdés o) pontja szerinti eljárásban nyolc napon belül köteles állásfoglalását megadni.
+(3)[^96] A (2) bekezdés n) pontja szerinti eljárásban a szakhatóság öt napon, a (2) bekezdés o) pontja szerinti eljárásban nyolc napon belül köteles állásfoglalását megadni.
 
-(4)[^89] A Kormány védett természeti területen lévő természetes és természetszerű erdő, valamint a természetes és természetszerű erdő, valamint a nem erdő művelési ágú védett területek kétszáz méteres körzetében a fásítás és a szabad rendelkezésű erdő telepítése feltételeinek meghatározására, tiltására irányuló másodfokú eljárásban, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
+(4)[^97] A Kormány védett természeti területen lévő természetes és természetszerű erdő, valamint a természetes és természetszerű erdő, valamint a nem erdő művelési ágú védett területek kétszáz méteres körzetében a fásítás és a szabad rendelkezésű erdő telepítése feltételeinek meghatározására, tiltására irányuló másodfokú eljárásban, ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(5)[^90] A Kormány védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén
+(5)[^98] A Kormány védett természeti területnek nem minősülő Natura 2000 területeken található erdő esetén
 
 a) az erdőterület igénybevételére vonatkozó elvi engedély megadására irányuló másodfokú eljárásban,
 
@@ -78,9 +78,9 @@ d) az erdőtelepítési-kivitelezési terv jóváhagyása iránti másodfokú el
 
 ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e, valamint az a), b) és d) pontban foglaltak esetén annak elbírálása kérdésében, hogy a tevékenység következtében jelentős környezeti hatások feltételezhetők-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(5a)[^91] A Kormány védett természeti területen vagy Natura 2000 területen lévő önerdősülés teljes vagy részleges felszámolására vagy erdőként, illetve szabad rendelkezésű erdőként történő nyilvántartásba vételére irányuló másodfokú eljárásban annak elbírálása kérdésében, hogy az önerdősülés fennmaradása a természet védelmére vonatkozó nemzeti vagy közösségi jogszabályokba ütközik-e, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
+(5a)[^99] A Kormány védett természeti területen vagy Natura 2000 területen lévő önerdősülés teljes vagy részleges felszámolására vagy erdőként, illetve szabad rendelkezésű erdőként történő nyilvántartásba vételére irányuló másodfokú eljárásban annak elbírálása kérdésében, hogy az önerdősülés fennmaradása a természet védelmére vonatkozó nemzeti vagy közösségi jogszabályokba ütközik-e, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(6)[^92] A Kormány tájképvédelmi rendeltetésű erdő esetén
+(6)[^100] A Kormány tájképvédelmi rendeltetésű erdő esetén
 
 a) az erdőterület igénybevételére vonatkozó elvi engedély megadására irányuló másodfokú eljárásban,
 
@@ -92,7 +92,7 @@ d) az erdő elsődleges és további rendeltetése megváltoztatására vonatkoz
 
 ## ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a tájvédelem nemzeti és közösségi jogi követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-(7)[^93] A Kormány partvédelmi és vízvédelmi rendeltetésű erdő esetén
+(7)[^101] A Kormány partvédelmi és vízvédelmi rendeltetésű erdő esetén
 
 a) erdei épület, erdei vasút kivételével minden erdészeti létesítmény létesítésére, bővítésére, felújítására, helyreállítására, korszerűsítésére, lebontására, elmozdítására, illetve használatbavételére, fennmaradására vagy a rendeltetésének megváltoztatására irányuló másodfokú eljárásban,
 
@@ -110,15 +110,15 @@ g) cserjék kivágásának engedélyezése iránti másodfokú eljárásban,
 
 ## ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes környezethasználati engedély nem szükséges – annak elbírálása kérdésében, hogy a tevékenység, a beruházás vagy a terv a partvédelem és a vízvédelem jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e –, országos vízügyi hatóságot szakhatóságként jelöli ki.
 
-(8)[^94] Amennyiben az erdőterv megállapítása partvédelmi és vízvédelmi rendeltetésű erdő esetén az Evt. alapján készített körzeti erdőtervben meghatározott, vagy a körzeti erdőtervezést követően kizárólag az Evt. 40. § (2) bekezdésében foglaltak szerint módosított erdőgazdálkodási jogok és kötelezettségek alapján, hivatalból történik, akkor a szakhatóság (7) bekezdés szerinti bevonása mellőzhető.
+(8)[^102] Amennyiben az erdőterv megállapítása partvédelmi és vízvédelmi rendeltetésű erdő esetén az Evt. alapján készített körzeti erdőtervben meghatározott, vagy a körzeti erdőtervezést követően kizárólag az Evt. 40. § (2) bekezdésében foglaltak szerint módosított erdőgazdálkodási jogok és kötelezettségek alapján, hivatalból történik, akkor a szakhatóság (7) bekezdés szerinti bevonása mellőzhető.
 
-[^85]: A 30. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (5) bekezdésével megállapított szöveg. [E módosító rendelet 191. § (6) bekezdés q) pontjával elrendelt módosítás, amely szerint az „az illetékes fővárosi és a megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala” szövegrész helyébe az „az örökségvédelmi hatáskörében eljáró fővárosi és megyei kormányhivatal” szöveg lép, nem vezethető át.]
-[^86]: A 30. § (2) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
-[^87]: A 30. § (2a) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 169. § (1) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^88]: A 30. § (3) bekezdése a 176/2013. (VI. 3.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^89]: A 30. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
-[^90]: A 30. § (5) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
-[^91]: A 30. § (5a) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 169. § (2) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^92]: A 30. § (6) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
-[^93]: A 30. § (7) bekezdés záró szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 639. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^94]: A 30. § (8) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 169. § (3) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^93]: A 30. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (5) bekezdésével megállapított szöveg. [E módosító rendelet 191. § (6) bekezdés q) pontjával elrendelt módosítás, amely szerint az „az illetékes fővárosi és a megyei kormányhivatal építésügyi és örökségvédelmi hivatala vagy régészet esetén Budapest Főváros Kormányhivatala Építésügyi és Örökségvédelmi Hivatala” szövegrész helyébe az „az örökségvédelmi hatáskörében eljáró fővárosi és megyei kormányhivatal” szöveg lép, nem vezethető át.]
+[^94]: A 30. § (2) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
+[^95]: A 30. § (2a) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 169. § (1) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^96]: A 30. § (3) bekezdése a 176/2013. (VI. 3.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^97]: A 30. § (4) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
+[^98]: A 30. § (5) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
+[^99]: A 30. § (5a) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 169. § (2) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^100]: A 30. § (6) bekezdés záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
+[^101]: A 30. § (7) bekezdés záró szövegrésze a 221/2014. (IX. 4.) Korm. rendelet 639. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^102]: A 30. § (8) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 169. § (3) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

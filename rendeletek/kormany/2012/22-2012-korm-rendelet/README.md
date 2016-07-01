@@ -40,3 +40,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-22-20-2
 | 2015-12-16 | 2012-22-20-22.32 | 406/2015. (XII. 15.) Korm. rendelet |
 | 2016-01-01 | 2012-22-20-22.33 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-03-04 | 2012-22-20-22.34 | 42/2014. (II. 24.) Korm. rendelet |
+| 2016-07-01 | 2012-22-20-22.35 | 37/2016. (III. 3.) Korm. rendelet |

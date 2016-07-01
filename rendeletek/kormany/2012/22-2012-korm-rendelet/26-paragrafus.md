@@ -1,8 +1,8 @@
 ## 9. A vadászati hatósági eljárásokban közreműködő szakhatóságok
 
-## 26. §[^73] A Kormány
+## 26. §[^80] A Kormány
 
-a) a vadászterület természetvédelmi érdekből történő különleges rendeltetésének megállapítása iránti eljárásban – természetvédelmi érdek fennállásának kérdése tekintetében –,
+a)[^81]
 
 b) a Magyarország állatföldrajzi környezetében nem honos állatfaj vadászterületen történő vadászati célú telepítésének engedélyezésére irányuló eljárásban – annak elbírálása kérdésében, hogy a tevékenység a természet védelmére vonatkozó nemzeti és közösségi jogi követelményeknek a kérelemben foglaltak szerint megfelel-e –,
 
@@ -12,4 +12,5 @@ d) a vadaspark védett természeti területen, barlang védőövezetében tört�
 
 az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
-[^73]: A 26. § záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
+[^80]: A 26. § záró szövegrésze az 527/2013. (XII. 30.) Korm. rendelet 112. § a) pontja szerint módosított szöveg.
+[^81]: A 26. § a) pontját a 37/2016. (III. 3.) Korm. rendelet 4. §-a hatályon kívül helyezte.
