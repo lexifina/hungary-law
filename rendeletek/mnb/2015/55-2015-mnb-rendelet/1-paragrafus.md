@@ -4,9 +4,9 @@ a) 2016. december 31-ig
 
 aa) a befektetési egységekhez kötött megtakarítási jellegű életbiztosítási termékek esetében az 1. mellékletben,
 
-ab)[^1]
+ab) a nem befektetési egységekhez kötött (hagyományos) megtakarítási jellegű életbiztosítási termékek esetében a 2. mellékletben,
 
-b)[^2]
+b)[^1]
 
 (2) A biztosító a TKM értékét egy típuspéldára határozza meg, és a számítást a 2–9. §-ban foglalt feltételek alkalmazásával végzi el.
 
@@ -18,5 +18,4 @@ b)[^2]
 
 (6) A TKM értékének számításához szükséges, a biztosítási díj pénznemétől eltérő pénznemű értékeknek a biztosítási díj pénznemére való átváltására a biztosító a TKM értékének számítását megelőző év december 31-én érvényes, a Magyar Nemzeti Bank (a továbbiakban: MNB) által közzétett hivatalos devizaárfolyamot alkalmazza.
 
-[^1]: Az 1. § (1) bekezdés a) pont ab) alpontja az 55/2015. (XII. 22.) MNB rendelet 12. § (3) bekezdése alapján 2016. július 1. napján lép hatályba.
-[^2]: Az 1. § (1) bekezdés b) pontja az 55/2015. (XII. 22.) MNB rendelet 12. § (4) bekezdése alapján 2017. január 1. napján lép hatályba.
+[^1]: Az 1. § (1) bekezdés b) pontja az 55/2015. (XII. 22.) MNB rendelet 12. § (4) bekezdése alapján 2017. január 1. napján lép hatályba.
