@@ -20,15 +20,15 @@ d) létrehozza a megyei önkormányzatokkal, a főváros érintettsége esetén 
 
 e) kidolgoztatja és kiadja
 
-ea) a szakiskolai képzésben szakképesítésenként a szakmai elméletre, továbbá a kilencedik évfolyamon, tanműhelyben folyó szakmai gyakorlatra, továbbá a tizedik és tizenegyedik évfolyamon, gyakorlati képzést folytató szervezetnél szervezett szakmai gyakorlati képzésre,
+ea) a szakközépiskolai képzésben szakképesítésenként a szakmai elméletre, továbbá a kilencedik évfolyamon a tanműhelyben folyó szakmai gyakorlatra, továbbá a tizedik és tizenegyedik évfolyamon a tanműhelyben folyó gyakorlatra és a gyakorlati képzést folytató szervezetnél szervezett szakmai gyakorlati képzésre,
 
-eb) a szakközépiskolákban ágazatonként a kilencedik-tizenkettedik évfolyamra a szakmai elméletre, továbbá a szakmai gyakorlatra, valamint
+eb) a szakgimnáziumokban a kilencedik-tizenkettedik évfolyamon ágazatonként és szakképesítésenként a szakmai elméletre, továbbá a szakmai gyakorlatra, valamint
 
-ec) a szakközépiskolákban szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elméletre, továbbá a szakmai gyakorlatra
+ec) a szakgimnáziumokban szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elmélet, továbbá a szakmai gyakorlat
 
-vonatkozó kötelező szakképzési kerettanterveket,
+kötelező szakképzési kerettanterveit,
 
-f) kezdeményezi a közismereti tárgyak oktatásához a szakiskolákban, továbbá a szakközépiskolákban kötelezően alkalmazandó kerettantervek elkészítését és kiadását az oktatásért felelős miniszternél, valamint
+f) kezdeményezi a közismereti tárgyak oktatásához a szakközépiskolákban, továbbá a szakgimnáziumokban kötelezően alkalmazandó ágazatonként differenciált kerettantervek elkészítését és kiadását az oktatásért felelős miniszternél,
 
 g) közvetlenül – vagy az állami szakképzési és felnőttképzési szerv vezetője útján, a 14. § (2) bekezdésében foglaltak figyelembevételével – valamennyi szakképesítés tekintetében megbízza a szakmai vizsgabizottság elnökét,
 

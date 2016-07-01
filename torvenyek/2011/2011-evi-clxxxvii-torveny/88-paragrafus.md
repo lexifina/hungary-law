@@ -50,4 +50,6 @@ f) a komplex szakmai vizsgán kiadott szakmai bizonyítványok központi elektro
 
 (6) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a szakképesítéseknek az Európai Képesítési Keretrendszerhez kapcsolódó Magyar Képesítési Keretrendszer szerinti szintjeinek meghatározását és besorolását.
 
+(7) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a Szakképzési Hídprogramban résztvevő tanuló ösztöndíjának mértékére, feltételeire, folyósítására, az ösztöndíj folyósításával kapcsolatban felmerült költségek térítésére, az elszámolásra és az ellenőrzésre, valamint a Szakképzési Hídprogramban résztvevő pedagógusok pótlékára vonatkozó szabályokat.
+
 (8) Felhatalmazást kap a Kormány, hogy a szakképző iskolákban oktató, felsőfokú végzettséggel nem rendelkező gyakorlati oktatók besorolásának és előmenetelének részletes szabályait rendeletben határozza meg.

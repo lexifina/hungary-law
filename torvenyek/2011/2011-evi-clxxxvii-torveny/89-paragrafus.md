@@ -8,12 +8,14 @@ c) a komplex szakmai vizsga szervezésére vonatkozó vizsgaszervezési engedél
 
 d) a megyei fejlesztési és képzési bizottság működésének, tagjai delegálásának szabályait, a javaslattételének elveire, szempontjaira és módszereire vonatkozó előírásokat, továbbá azon művészeti, kulturális, kézműves és hagyományőrző szakképesítéseknek a körét, amelyekre a megyei fejlesztési és képzési bizottság javaslattételi jogköre a 81. § (3) bekezdése alapján nem terjed ki,
 
-e) a szakiskolai képzésben szakképesítésenként a szakmai elméletre és a szakmai gyakorlati képzésre vonatkozó kötelező szakképzési kerettanterveket,
+e) a szakközépiskolai képzésben szakképesítésenként a szakmai elméletre és a szakmai gyakorlati képzésre vonatkozó kötelező szakképzési kerettanterveket,
 
-f) a szakközépiskolában ágazatonként a kilencedik-tizenkettedik évfolyamra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket, valamint
+f) a szakgimnáziumban a kilencedik-tizenkettedik évfolyamon ágazatonként és szakképesítésenként a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket,
 
-g) a szakközépiskolában szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket,
+g) a szakgimnáziumban szakképesítésenként az érettségi vizsgát követő szakképzési évfolyamokra a szakmai elméletre, továbbá a szakmai gyakorlatra vonatkozó kötelező szakképzési kerettanterveket,
 
 h) az e)–g) pont alapján kiadott szakképzési kerettanterv bevezetésének és alkalmazásának szabályait,
 
-i) a 31. § (3) bekezdés b) pontja szerinti vendéglátóipari egységeket.
+i) a 31. § (3) bekezdés b) pontja szerinti vendéglátóipari egységeket,
+
+j) a Szakképzési Hídprogram megszervezésének feltételeit, a Szakképzési Hídprogramban folytatott képzéshez szükséges szakképzési kerettanterveket, valamint a Szakképzési Hídprogramba történő bekapcsolódás részletes szabályait az oktatásért felelős miniszter egyetértésével és a társadalmi felzárkózásért felelős miniszter véleményének kikérésével.
