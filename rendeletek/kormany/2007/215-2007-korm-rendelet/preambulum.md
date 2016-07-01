@@ -1,1 +1,0 @@
-A termőföldről szóló 1994. évi LV. törvény 90. §-a (1) bekezdésének e) pontjában, valamint a Nemzeti Földalapról szóló 2001. évi CXVI. törvény 21. §-ában kapott felhatalmazás alapján a Kormány a következőket rendeli el:
