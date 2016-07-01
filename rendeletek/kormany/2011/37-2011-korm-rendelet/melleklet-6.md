@@ -1,3 +1,5 @@
+## 6K03411_0
+
 | I. RÉSZ |
 
 | Az 1388/2014/EU bizottsági rendelet feltételei szerint mentesülő állami támogatásokkal kapcsolatos információk |
@@ -132,27 +134,26 @@
 
 | Kérjük, jelölje és indokolja, hogy miért került sor állami támogatási program létrehozására vagy egyedi támogatás odaítélésére az Európai Tengerügyi és Halászati Alap keretében nyújtott támogatás igénybevétele helyett. | □ A nemzeti operatív program nem tartalmazza a fenti intézkedést □ A nemzeti operatív program keretében rendelkezésre álló pénzeszközök elosztása során alkalmazott fontossági sorrend miatt □ Az Európai Tengerügyi és Halászati Alap keretében már nem állnak rendelkezésre pénzeszközök □ Egyéb (kérjük, nevezze meg): ………… |
 
-6. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^184]
+6. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^176]
 
-1. A kedvezményezett neve, székhelye, adószáma,
+1. A kedvezményezett neve, székhelye, adószáma vagy adóazonosító jele, és közösségi adószáma [a 702/2014/EU bizottsági rendelet hatálya alá tartozó támogatásnál a közösségi adószám és az adószám (adóazonosító jel) megadása nem szükséges],
 
-2.[^185] a vállalkozás mérete,
+2. a kedvezményezett típusa a vonatkozó csoportmentességi rendelet I. melléklete szerint,
 
-3. a beruházás megvalósításának helye (az érintett megye vagy főváros),
+3. a projekt megvalósításának helye (főváros vagy megye),
 
-4. a kedvezményezett szakágazati besorolása (TEÁOR-szám),
+4. a kedvezményezett azon tevékenységének szakágazati besorolása (TEÁOR-szám, ennek hiányában ÖVTJ-kód), amely keretében a támogatást felhasználja (ha nem azonosítható ilyen tevékenység, akkor a kedvezményezett főtevékenységének szakágazati besorolása),
 
-5. bruttó támogatási egyenérték,
+5. a bruttó támogatási egyenérték (támogatástartalom) euróban és forintban, kölcsön, visszafizetendő előlegek, visszatérítendő támogatás és kockázatfinanszírozás esetén a támogatás teljes összege, kezességvállalás esetén az a teljes összeg, amelyre a kezességvállalás vonatkozik,
 
-6. a támogatás formája (vissza nem térítendő támogatás/kamattámogatás, kölcsön/visszafizetendő előlegek/visszatérítendő támogatás, kezességvállalás, adókedvezmény vagy adómentesség, kockázatfinanszírozás, egyéb),
+6. a támogatás formájának megjelölése [a) vissza nem térítendő támogatás, b) kamattámogatás, c) kölcsön, d) visszafizetendő előlegek, e) visszatérítendő támogatás, f) kezességvállalás, g) adókedvezmény, h) adómentesség, i) kockázatfinanszírozás, j) egyéb támogatási forma megnevezése],
 
-7. a támogatás odaítélésének napja,
+7. a támogatás odaítélésének napja (adókedvezmény vagy adómentesség esetén a bevallás esedékességének a napja),
 
-8. a támogatás célja,
+8. a támogatás 1. melléklet szerinti kategóriája,
 
-9. a támogatást nyújtó hatóság megnevezése,
+9. a támogatást nyújtó megnevezése (a 651/2014/EU bizottsági rendelet 16. és 21. cikke szerinti támogatás esetén a megbízott fél és a pénzügyi közvetítő megnevezése),
 
-10. a támogatási program hivatkozási száma.
+10. a támogatás európai bizottsági hivatkozási száma.
 
-[^184]: A 6. mellékletet a 42. § b) pontja hatályon kívül helyezte, újonnan a 158/2014. (VI. 30.) Korm. rendelet 12. § (4) bekezdése iktatta be.
-[^185]: A 6. melléklet 2. pontja a 221/2014. (IX. 4.) Korm. rendelet 554. § f) pontja szerint módosított szöveg.
+[^176]: A 6. mellékletet a 42. § b) pontja hatályon kívül helyezte, újonnan a 158/2014. (VI. 30.) Korm. rendelet 12. § (4) bekezdése iktatta be, szövege a 177/2016. (VII. 1.) Korm. rendelet 7. §-ával megállapított szöveg.

@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-37-20-2
 | 2015-01-01 | 2011-37-20-22.13 | 158/2014. (VI. 30.) Korm. rendelet |
 | 2015-12-29 | 2011-37-20-22.14 | 158/2014. (VI. 30.) Korm. rendelet |
 | 2016-03-04 | 2011-37-20-22.15 | 38/2016. (III. 3.) Korm. rendelet |
+| 2016-07-01 | 2011-37-20-22.16 | 177/2016. (VII. 1.) Korm. rendelet |

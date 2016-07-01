@@ -2,7 +2,7 @@
 
 ## REGIONÁLIS TÁMOGATÁSI TÉRKÉP
 
-25. § (1)[^152] A 2014–2020 közötti időszakra vonatkozó regionális támogatási térképről szóló, 2014. március 11-i SA.37718 (2013/N). számú bizottsági határozattal engedélyezett regionális támogatási térkép szerint nagyvállalkozások esetében a következő maximális támogatási intenzitások alkalmazandók:
+25. § (1)[^140] A 2014–2020 közötti időszakra vonatkozó regionális támogatási térképről szóló, 2014. március 11-i SA.37718 (2013/N). számú bizottsági határozattal engedélyezett regionális támogatási térkép szerint nagyvállalkozások esetében a következő maximális támogatási intenzitások alkalmazandók:
 
 a) az Észak-Magyarország, az Észak-Alföld, a Dél-Alföld és a Dél-Dunántúl régiókban 50%,
 
@@ -16,7 +16,7 @@ da) Abony, Alsónémedi, Áporka, Aszód, Bag, Bernecebaráti, Cegléd, Csemő, 
 
 db) Piliscsaba, Pilisjászfalu, Pilisvörösvár és Solymár településeken 20%.
 
-(2)[^153] Az (1) bekezdés szerinti területi besorolásonként meghatározott támogatási intenzitások – a nagyberuházások kivételével – a kisvállalkozások beruházásai esetében 20 százalékponttal, a középvállalkozások beruházásai esetében 10 százalékponttal növelhetők.
+(2)[^141] Az (1) bekezdés szerinti területi besorolásonként meghatározott támogatási intenzitások – a nagyberuházások kivételével – a kisvállalkozások beruházásai esetében 20 százalékponttal, a középvállalkozások beruházásai esetében 10 százalékponttal növelhetők.
 
 (3) Nagyberuházások esetében az alkalmazható maximális támogatási intenzitás
 
@@ -26,5 +26,5 @@ b) az ötvenmillió euró és a százmillió euró közötti elszámolható köl
 
 c) a százmillió euró feletti elszámolható költségrészre az (1) bekezdésben meghatározott mérték harmincnégy százaléka.
 
-[^152]: A 25. § (1) bekezdése a 158/2014. (VI. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^153]: A 25. § (2) bekezdése a 38/2016. (III. 3.) Korm. rendelet 13. § k) pontja szerint módosított szöveg.
+[^140]: A 25. § (1) bekezdése a 158/2014. (VI. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^141]: A 25. § (2) bekezdése a 38/2016. (III. 3.) Korm. rendelet 13. § k) pontja szerint módosított szöveg.

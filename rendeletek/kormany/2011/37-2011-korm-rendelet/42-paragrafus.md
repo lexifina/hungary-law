@@ -1,3 +1,3 @@
-## 41. §[^171]
+42. §[^164]
 
-[^171]: A 41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^164]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

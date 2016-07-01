@@ -1,3 +1,5 @@
+## 6K03407_0
+
 | I. RÉSZ |
 
 | A 702/2014/EU bizottsági rendelet feltételei szerint mentesülő állami támogatásokkal kapcsolatos információk |
@@ -140,6 +142,6 @@
 
 | A minőségrendszer hatálya alá tartozó gyapottal és élelmiszerekkel kapcsolatos tájékoztatási és promóciós tevékenységekhez nyújtott támogatás (49. cikk) | ...% | ... Ft |
 
-5/B. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^183]
+5/B. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^175]
 
-[^183]: Az 5/B. mellékletet a 38/2016. (III. 3.) Korm. rendelet 11. § (2) bekezdés b) pontja iktatta be.
+[^175]: Az 5/B. mellékletet a 38/2016. (III. 3.) Korm. rendelet 11. § (2) bekezdés b) pontja iktatta be.
