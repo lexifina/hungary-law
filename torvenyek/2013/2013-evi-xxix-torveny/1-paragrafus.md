@@ -1,1 +1,0 @@
-1. § Nem lép hatályba az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2012. évi CLXXVIII. törvény 128. § (2)–(3) bekezdése, 151. §-a, 152. § b) és c) pontja, 256. §-a, 6. és 7. melléklete.
