@@ -1,7 +1,7 @@
-## 54–57. §[^17]
+## 54–57. §[^15]
 
 ## 13. Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló
 
 ## 256/2013. (VII. 5.) Korm. rendelet módosítása
 
-[^17]: Az 54–57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: Az 54–57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
