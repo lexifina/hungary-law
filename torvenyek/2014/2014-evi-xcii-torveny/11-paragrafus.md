@@ -1,1 +1,0 @@
-11. § Nem lép hatályba az adózás rendjéről szóló 2003. évi XCII. törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvény 201. §-ával megállapított 22/E. § (8) bekezdés g) pontja.
