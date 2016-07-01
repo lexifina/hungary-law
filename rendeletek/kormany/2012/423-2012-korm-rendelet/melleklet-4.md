@@ -1,4 +1,4 @@
-4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^140]
+4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^143]
 
 Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámítás szempontjából
 
@@ -48,10 +48,10 @@ Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámít
 
 | 22. | élelmiszeripar | agrár |
 
-| 23. | közszolgálat; egyéb szolgáltatások [az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet hatálybalépése előtti OKJ-rendeletek egyéb szolgáltatások szakmacsoportja szerinti honvéd, rendészeti és privátbiztonsági (pl. személy- és vagyonőr, biztonsági őr) szakképesítések, amelyeket az Oktatási Hivatal a felsőoktatási felvételi eljárás hivatalos honlapján közzétesz] rendészeti asszisztens; társadalombiztosítási és bérügyi szakelőadó szakképesítés | jogi közigazgatási, rendészeti és katonai |
+| 23. | közszolgálat; egyéb szolgáltatások [az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet hatálybalépése előtti OKJ-rendeletek egyéb szolgáltatások szakmacsoportja szerinti honvéd, rendészeti és privátbiztonsági (pl. személy- és vagyonőr, biztonsági őr) szakképesítések, amelyeket az Oktatási Hivatal a felsőoktatási felvételi eljárás hivatalos honlapján közzétesz] rendészeti asszisztens; társadalombiztosítási és bérügyi szakelőadó szakképesítés | jogi államtudományi |
 
 | 24. | sportkommunikátor; fitness-wellness instruktor; sportedző; személyi edző, rekreációs mozgásprogram-vezető | sporttudomány |
 
 | 25. | osztatlan tanári mesterképzési szak: a tanári szakképzettségnek megfelelő alapképzési szak képzési területe az irányadó a szakirányú továbbtanulás meghatározása szempontjából (szakképzettség-páron is csak egyszer kapható többletpont) |
 
-[^140]: A 4. mellékletet a 47/2013. (II. 20.) Korm. rendelet 10. §-a iktatta be, szövege a 345/2015. (XI. 19.) Korm. rendelet 45. § (4) bekezdésével megállapított szöveg.
+[^143]: A 4. mellékletet a 47/2013. (II. 20.) Korm. rendelet 10. §-a iktatta be, szövege a 345/2015. (XI. 19.) Korm. rendelet 45. § (4) bekezdésével megállapított, a 169/2016. (VII. 1.) Korm. rendelet 20. § (2) bekezdése szerint módosított szöveg.

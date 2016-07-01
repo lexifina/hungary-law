@@ -18,7 +18,7 @@ c) az emelt szinten teljesített érettségi vizsgákért legfeljebb 100 éretts
 
 d)[^53] a felsőoktatási szakképzés befejezését igazoló oklevél megszerzését követően, azonos képzési terület szakjára történő jelentkezés esetén
 
-da) jeles záróvizsga eredmény alapján 30 többletpontot,
+da)[^54] jeles záróvizsga eredmény alapján 32 többletpontot,
 
 db) jó záróvizsga eredmény alapján 20 többletpontot,
 
@@ -34,7 +34,8 @@ szerezhet.
 
 (5) Amennyiben egy jelentkező több olyan szakra, képzésre, intézménybe jelentkezik, ahol azonosak a szóbeli alkalmassági vizsga követelményei, a vizsgát csak egyszer, a jelentkezéskor meghatározott elbírálási sorrendben legelőbb jelzett intézményben, szakon kell letenni. Ebben az esetben a szóbeli alkalmassági vizsga eredményét a többi intézményben, szakon is el kell fogadni.
 
-(6)[^54] A felsőfokú végzettséggel rendelkező jelentkezőket – amennyiben alapképzésre, osztatlan képzésre vagy felsőoktatási szakképzésre jelentkeznek – a felsőoktatási intézmények a Tájékoztatóban közzétett módon a felsőfokú végzettséget tanúsító oklevél alapján, az emelt szintű érettségi követelménytől való eltekintéssel is rangsorolhatják. Ebben az esetben az oklevélért adható pontot az oklevél minősítése szerint a 23. § (1) bekezdésében megállapított ponthatár és 400 pont között arányosan kell megállapítani. Az így kapott pontszámhoz a jelentkező által elért összpontszám meghatározása érdekében hozzá kell adni a 20–21. §-ban és a 24. § (1) bekezdésében meghatározott többletpontokat. A jelentkezési kérelem csak akkor minősül a 11. § (2) bekezdés e) pontja szerint hiányosnak, ha a jelentkező az érettségi bizonyítványa és a középiskolai bizonyítványa alapján is kéri a pontszámítás elvégzését.
+(6)[^55] A felsőfokú végzettséggel rendelkező jelentkezőket – amennyiben alapképzésre, osztatlan képzésre vagy felsőoktatási szakképzésre jelentkeznek – a felsőoktatási intézmények a Tájékoztatóban közzétett módon a felsőfokú végzettséget tanúsító oklevél alapján, az emelt szintű érettségi követelménytől való eltekintéssel is rangsorolhatják. Ebben az esetben az oklevélért adható pontot az oklevél minősítése szerint a 23. § (1) bekezdésében megállapított ponthatár és 400 pont között arányosan kell megállapítani. Az így kapott pontszámhoz a jelentkező által elért összpontszám meghatározása érdekében hozzá kell adni a 20–21. §-ban és a 24. § (1) bekezdésében meghatározott többletpontokat. A jelentkezési kérelem csak akkor minősül a 11. § (2) bekezdés b) és e) pontja szerint hiányosnak, ha a jelentkező az érettségi bizonyítványa és a középiskolai bizonyítványa alapján is kéri a pontszámítás elvégzését.
 
 [^53]: A 15. § (3) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 41. §-ával megállapított szöveg.
-[^54]: A 15. § (6) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^54]: A 15. § (3) bekezdés d) pont da) alpontja a 169/2016. (VII. 1.) Korm. rendelet 22. § b) pontja szerint módosított szöveg.
+[^55]: A 15. § (6) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 6. §-ával megállapított, a 169/2016. (VII. 1.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.

@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-423-20-
 | 2015-12-01 | 2012-423-20-22.16 | 345/2015. (XI. 19.) Korm. rendelet |
 | 2015-12-12 | 2012-423-20-22.17 | 392/2015. (XII. 11.) Korm. rendelet |
 | 2016-01-01 | 2012-423-20-22.18 | 345/2015. (XI. 19.) Korm. rendelet |
+| 2016-07-01 | 2012-423-20-22.19 | 345/2015. (XI. 19.) Korm. rendelet |
