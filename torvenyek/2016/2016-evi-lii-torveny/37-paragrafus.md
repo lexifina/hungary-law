@@ -1,0 +1,1 @@
+37. § Az állami szolgálati jogviszony – minisztériumokban, valamint a kormány, illetve a minisztériumok irányítása alatt álló, törvényben meghatározott központi államigazgatási szerveknél irányadó – szabályainak 2018. január 1. napjától történő bevezetéséről, valamint az ezzel összefüggő átmeneti szabályokról törvény rendelkezik.
