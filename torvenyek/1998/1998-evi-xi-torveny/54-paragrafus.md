@@ -18,6 +18,6 @@ b) a felfüggesztés a fegyelmi vétség súlyosságára való tekintettel indok
 
 (5) Ha az első fokú fegyelmi határozat kizárást alkalmazott, és annak végrehajtását nem függesztette fel, a határozatban az ügyvéd tevékenységét a fegyelmi eljárás jogerős befejezéséig fel kell függeszteni. E rendelkezés ellen külön fellebbezésnek van helye, amelynek nincs halasztó hatálya.
 
-(6) Az ügyvédi tevékenység felfüggesztésének időtartama alatt létesített munkaviszony, közalkalmazotti vagy köztisztviselői jogviszony nem ütközik a 6. § (1) bekezdésének a) pontjába.
+(6) Az ügyvédi tevékenység felfüggesztésének időtartama alatt létesített munkaviszony, közalkalmazotti, kormányzati szolgálati, közszolgálati, vagy állami szolgálati jogviszony nem ütközik a 6. § (1) bekezdésének a) pontjába.
 
 (7) A felfüggesztésre a szüneteltetés jogkövetkezményeit kell alkalmazni.

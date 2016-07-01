@@ -2,7 +2,7 @@
 
 6. § (1) Az ügyvéd
 
-a) nem állhat munkaviszonyban, szolgálati viszonyban, munkavégzési kötelezettséggel járó más jogviszonyban; nem lehet közalkalmazott, köztisztviselő, közjegyző és főállású polgármester,
+a) nem állhat munkaviszonyban, szolgálati viszonyban, munkavégzési kötelezettséggel járó más jogviszonyban; nem lehet közalkalmazott, köztisztviselő, kormánytisztviselő, állami tisztviselő, közjegyző és főállású polgármester,
 
 b) nem végezhet személyes közreműködéssel vagy korlátlan anyagi felelősséggel járó vállalkozói tevékenységet.
 
