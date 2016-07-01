@@ -1,0 +1,3 @@
+39. § (1) A tisztjelölti jogviszony megszűnésekor vagy megszüntetésekor a központi szakszolgálat intézkedik annak érdekében, hogy a tisztjelölti szolgálattal járó feladatok átadására és a leszerelés végrehajtására legkésőbb a tisztjelölti jogviszonynak az általános munkarend szerinti munkanapra eső utolsó napján, azonnali hatályú megszüntetés esetén az attól számított öt munkanapon belül sor kerüljön.
+
+(2) Ha a tisztjelölt akadályoztatása miatt vagy közreműködésének hiányában a leszerelés végrehajtása elmarad, a központi szakszolgálat a tisztjelölti jogviszony megszűnését követő tíz napon belül intézkedik annak megállapítására, hogy a tisztjelölt esetlegesen mely – elszámolási kötelezettséggel kiadott – vagyontárgyakkal nem számolt el.

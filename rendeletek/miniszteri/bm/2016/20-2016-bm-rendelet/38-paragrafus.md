@@ -1,0 +1,3 @@
+38. § (1) A gazdasági szerv a megtérítési kötelezettség összegének megállapíthatósága érdekében a képzés költségeinek minősülő pénzbeli juttatások értékéről vezetett adatokat minden tanulmányi félév végén összesíti, és a központi szakszolgálat útján a tisztjelölttel dokumentált módon közli.
+
+(2) A gazdasági szerv az (1) bekezdés szerinti adatokat a tisztjelölti jogviszony megszűnését követően a rendvédelmi szervnél történő szolgálatteljesítésre az ösztöndíjszerződésben vállalt időtartam utolsó napjáig megőrzi. Ha a tisztjelölt a Hszt. 285. § (3) bekezdése alapján a munkáltatói jogkört gyakorló elöljáró hozzájárulásával ezt a kötelezettségét másik rendvédelmi szervnél teljesíti, úgy ezen adatok átadásra kerülnek a másik rendvédelmi szervnek.

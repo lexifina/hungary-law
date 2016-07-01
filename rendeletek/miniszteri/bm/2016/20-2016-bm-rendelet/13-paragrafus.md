@@ -1,0 +1,3 @@
+13. § (1) A tisztjelölt kötelékben és különleges jogrendi helyzetekben történő alkalmazása, szakmai gyakorlata, valamint a rendvédelmi szervnél végrehajtott gyakoroltatása során a szolgálati feladatok ellátásának helye szerinti területi szerv vezetője, vagy e területi szervnél kijelölt szolgálati elöljáró utasításai szerint köteles eljárni. Ennek során tisztjelölti szolgálati feladatát rész-szakképesítésének megfelelően, hivatásos szolgálati jogviszonyban állóval együtt teljesíti.
+
+(2) A rendvédelmi szerv a tanulmányi osztálytól tájékoztatást kérhet a tisztjelölt hallgatói jogairól és kötelezettségeiről a rendvédelmi szervnél teljesítendő szolgálat megszervezése érdekében.

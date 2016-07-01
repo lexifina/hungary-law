@@ -1,0 +1,3 @@
+5. § (1) Az ösztöndíjszerződés tervezetét a központi szakszolgálat terjeszti fel az országos parancsnoknak. Az országos parancsnok aláírását követően a központi szakszolgálat gondoskodik arról, hogy az ösztöndíjszerződést a felvételt nyert személy aláírja, legkésőbb az NKE-re történő beiratkozás napján. Az ösztöndíjszerződés egy példányát a központi szakszolgálat a tanulmányi osztály részére átadja.
+
+(2) Az ösztöndíjszerződés megkötését követően az ösztöndíjszerződés hatálya alatt – ha az szükséges – az ösztöndíjszerződésben nem rendezett, a rendvédelmi szerv döntésétől vagy egyoldalú jognyilatkozatától függő kérdésekről az országos parancsnok munkáltatói intézkedésben rendelkezik.

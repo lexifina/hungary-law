@@ -1,0 +1,3 @@
+## 10. § Ha a tisztjelölt az ösztöndíjszerződés hatálya alatt a rendészeti alapképzésen belül úgy vált szakirányt, hogy az új szakirány másik rendvédelmi szerv érdekkörébe tartozik, a tisztjelölt és az érintett rendvédelmi szervek az ösztöndíjszerződéssel kapcsolatos, a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:208. § (1) bekezdése szerinti szerződésátruházásról háromoldalú megállapodást kötnek, amely a tisztjelölti jogviszony folyamatosságának biztosítása mellett tartalmazza az ösztöndíjszerződésben rögzített követelések és jogok engedményezésére, valamint kötelezettségek tartozásátvállalására vonatkozó rendelkezéseket.
+
+## 3. A tisztjelölti szolgálat
