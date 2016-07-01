@@ -1,3 +1,3 @@
-## 13. §[^10]
+## 13. §[^17] A Patika Hitelprogramban részt vevő gyógyszerész kérelmére az e rendelet alapján 2013. július 1-je és 2016. július 1-je között a Patika Hitelprogram keretében létrejött hitelszerződés alapján fennálló tőketartozásának az egyes egészségügyi és egészségbiztosítási tárgyú kormányrendeletek módosításáról szóló 172/2016. (VII. 1.) Korm. rendelettel megállapított feltételekkel történő kiváltására a hitelt folyósító pénzügyi intézmény – az MFB Zrt. és a támogatást nyújtó szerv egyetértésével – a kérelmezővel új szerződést köthet, feltéve, hogy a hitelszerződésben foglalt feltételeket a hitel felvevője a hitelszerződés megkötése óta maradéktalanul teljesítette.
 
-[^10]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 172/2016. (VII. 1.) Korm. rendelet 63. §-a iktatta be.

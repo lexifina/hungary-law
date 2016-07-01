@@ -1,3 +1,5 @@
+## 3K55068_0
+
 ## TTE = TT/r
 
 ## ahol:
@@ -16,7 +18,7 @@
 
 2. melléklet a 212/2013. (VI. 19.) Korm. rendelethez
 
-## Kamattámogatási kérelem adattartalma
+Kamattámogatási kérelem adattartalma
 
 1. A gyógyszerész neve
 
@@ -26,8 +28,8 @@
 
 4. A gyógyszerész nyilatkozata arról, hogy kamattámogatást kíván igénybe venni
 
-5.[^12]
+5.[^19]
 
 6. Keltezés, aláírás
 
-[^12]: A 2. melléklet 5. pontját a 334/2014. (XII. 18.) Korm. rendelet 5. §-a hatályon kívül helyezte.
+[^19]: A 2. melléklet 5. pontját a 334/2014. (XII. 18.) Korm. rendelet 5. §-a hatályon kívül helyezte.

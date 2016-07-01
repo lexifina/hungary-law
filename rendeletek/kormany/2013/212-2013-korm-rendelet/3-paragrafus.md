@@ -1,6 +1,6 @@
 ## 3. § A kedvezményes hitel vagy kölcsön és a kamattámogatás igénybevételére az a gyógyszerész jogosult, aki
 
-a) tulajdonhányadot kíván szerezni a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban annak érdekében, hogy a Gyftv. 74. § (1) bekezdésében és 83/A. § (1) bekezdésében foglalt feltétel teljesüljön;
+a)[^9] tulajdonhányadot kíván szerezni a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban annak érdekében, hogy a Gyftv. 74. § (1) bekezdésében és 83/A. § (1) bekezdésében foglalt feltétel az 50%-ot el nem érő gyógyszerészi tulajdoni hányad esetén, a gyógyszertárat működtető gazdasági társaságban tulajdoni hányaddal rendelkező más gyógyszerészek tulajdoni hányadával együttesen legalább 50% tulajdoni arányt meghaladóan teljesüljön;
 
 b) nyilatkozik arról, hogy
 
@@ -12,9 +12,9 @@ bc) a hitelkérelem benyújtásának időpontjáig a hitelcéllal érintett gyó
 
 bd) tudomásul veszi, hogy amennyiben a ba) és bb) alpont alapján tett nyilatkozat támogatási adataiban változás következik be a kamattámogatási kérelem benyújtását követően más de minimis támogatás igénybevétele miatt, úgy arról köteles haladéktalanul tájékoztatni a pénzügyi intézményt és a támogatást nyújtó szervet;
 
-c)[^6] csatolja az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet nyolc napnál nem régebbi igazolását arról, hogy a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban mely gyógyszertár tekintetében mely tulajdonos minősül személyi jogos gyógyszerésznek;
+c)[^10] csatolja az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet nyolc napnál nem régebbi igazolását arról, hogy a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságban mely gyógyszertár tekintetében mely tulajdonos minősül személyi jogos gyógyszerésznek;
 
-d)[^7] a Magyarországon megszerzett gyógyszerész oklevél bemutatásával, illetve az Etv. Harmadik része szerinti eljárásban elismert, külföldön megszerzett gyógyszerész oklevél esetén az Egészségügyi Nyilvántartási és Képzési Központ által kiállított elismerő határozat bemutatásával igazolja gyógyszerészi végzettségét;
+d)[^11] a Magyarországon megszerzett gyógyszerész oklevél bemutatásával, illetve az Etv. Harmadik része szerinti eljárásban elismert, külföldön megszerzett gyógyszerész oklevél esetén az Egészségügyi Nyilvántartási és Képzési Központ által kiállított elismerő határozat bemutatásával igazolja gyógyszerészi végzettségét;
 
 e) csatolja a hitelcéllal érintett gyógyszertárat működtető gazdasági társaságnak a legfőbb szerve ülésének jegyzőkönyvében rögzített döntéséről készült másolatot a tulajdonosi szerkezet megváltoztatásáról, amely döntés legalább a következőket tartalmazza:
 
@@ -24,7 +24,9 @@ eb) a társaság döntése arról, hogy az adásvétel után kialakult tulajdoni
 
 ec) abban az esetben, ha az adott gyógyszertárra vonatkozóan a működtetést másik gazdasági társaság veszi át, a társaság döntése a jogutódlásról,
 
-ed) a társaság ülésén megjelent valamennyi tag, köztük a személyi jogos gyógyszerész aláírása;
+ed) a társaság ülésén megjelent valamennyi tag, köztük a személyi jogos gyógyszerész aláírása,
+
+ee)[^12] a hitelt felvenni kívánó gyógyszerész által szerezni kívánt, százalékban kifejezett tulajdoni hányadot;
 
 f) csatolja
 
@@ -36,5 +38,7 @@ g) kötelezettséget vállal arra, hogy a Patika Hitelprogram keretében felvett
 
 h) csatolja nyilatkozatát arról, hogy a gyógyszerészi foglalkozás gyakorlását kizáró ok vele szemben nem áll fenn.
 
-[^6]: A 3. § c) pontja a 192/2015. (VII. 21.) Korm. rendelet 54. §-a szerint módosított szöveg.
-[^7]: A 3. § d) pontja a 30/2015. (II. 25.) Korm. rendelet 81. §-a szerint módosított szöveg.
+[^9]: A 3. § a) pontja a 172/2016. (VII. 1.) Korm. rendelet 60. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. § c) pontja a 192/2015. (VII. 21.) Korm. rendelet 54. §-a szerint módosított szöveg.
+[^11]: A 3. § d) pontja a 30/2015. (II. 25.) Korm. rendelet 81. §-a szerint módosított szöveg.
+[^12]: A 3. § e) pont ee) alpontját a 172/2016. (VII. 1.) Korm. rendelet 60. § (2) bekezdése iktatta be.

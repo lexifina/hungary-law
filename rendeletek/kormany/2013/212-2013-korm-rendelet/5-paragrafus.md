@@ -10,6 +10,9 @@ b) a Patika Hitelprogram keretében felvett hitelhez vagy kölcsönhöz kapcsol�
 
 (4) A hitelfelvevő gyógyszerész legfeljebb a rendelkezésre álló szabad csekély összegű (de minimis) keret figyelembevételével megállapított mértékű hitelben és kamattámogatásban részesülhet, ha az (1) bekezdés szerint a gyógyszerész számára rendelkezésre álló szabad csekély összegű (de minimis) keret nem nyújt fedezetet a hitelkérelemben igényelt hitelhez kapcsolódó kamattámogatás és a kedvezményes hitel vagy kölcsön támogatástartalmára.
 
-(5) A gyógyszerész részére nyújtható hitelösszeg meghatározását megelőzően a pénzügyi intézmény megállapítja a 4. melléklet szerinti képlet alkalmazásával a maximális eseti hitelösszeget.
+(5)[^13] A gyógyszerész részére nyújtható hitelösszeg meghatározását megelőzően a pénzügyi intézmény megvizsgálja a benyújtott üzleti terv alapján a hitelösszeg megalapozottságát.
 
-(6) A 4. melléklet szerinti számításhoz szükséges adatokat könyvvizsgálói ellenjegyzéssel ellátva bocsátja a gyógyszerész a pénzügyi intézmény részére.
+(6)[^14]
+
+[^13]: Az 5. § (5) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 62. §-ával megállapított szöveg.
+[^14]: Az 5. § (6) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 64. §-a hatályon kívül helyezte.
