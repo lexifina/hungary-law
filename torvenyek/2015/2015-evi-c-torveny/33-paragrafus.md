@@ -2,7 +2,7 @@
 
 ## A KÖZPONTI ALRENDSZEREN BELÜLI ELSZÁMOLÁSOK, KAPCSOLATOK
 
-33. § (1) A szociális hozzájárulási adó 2016-ban megfizetett összegének 79,43%-a az Ny. Alapot, 20,57%-a az E. Alapot illeti meg. A szociális hozzájárulási adó megfizetett összegéből az Ny. Alapot és az E. Alapot megillető részt a Nemzeti Adó- és Vámhivatal állapítja meg és naponta utalja át a jogosult számlájára.
+33. § (1) A szociális hozzájárulási adó 2016. évben, július 1-jét követően megfizetett összegének 74,30%-a az Ny. Alapot, 20,53%-a az E. Alapot, 5,17%-a a Nemzeti Foglalkoztatási Alapot illeti meg. A szociális hozzájárulási adó megfizetett összegéből az egyes Alapot megillető részt a Nemzeti Adó- és Vámhivatal állapítja meg és naponta utalja át a jogosult számlájára.
 
 (2) Az államháztartásért felelős miniszter minden negyedévet követő hónap 15. napjáig – az utolsó negyedévben december 20-áig – az állami intézményfenntartási feladatot ellátó szerv költségvetési kiadási és támogatási előirányzatát megemeli a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 5. cím, 3. Köznevelési intézmények működtetésével kapcsolatos önkormányzati befizetések alcímre érkezett befizetések összegével.
 
