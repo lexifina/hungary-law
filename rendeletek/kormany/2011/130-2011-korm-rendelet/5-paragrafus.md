@@ -1,7 +1,11 @@
-5. § (1) A Szolgálatok a használatukban, illetve vagyonkezelésükben lévő és feladataik ellátásához feleslegessé vált ingatlanokat az MNV Zrt. megbízása alapján értékesíthetik, vagy a vagyonkezelési szerződésben meghatározottak szerint adhatják bérbe.
+5. § (1)[^6] A Szolgálatok a vagyonkezelésükben lévő és feladataik ellátásához feleslegessé vált ingatlanokat a vagyonkezelési szerződésben meghatározottak szerint adhatják bérbe.
 
-(2) A Nemzetbiztonsági Szakszolgálat az MNV Zrt. előzetes engedélye és tájékoztatása nélkül jogosult a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény (a továbbiakban: Nbtv.) 8. § (1) bekezdés b) pontja alapján a titkos információgyűjtő, valamint a titkos adatszerző tevékenységhez szükséges különleges technikai eszközöket és anyagokat térítésmentesen biztosítani az erre törvény által feljogosított szervezetek részére.
+(2)[^7] A Nemzetbiztonsági Szakszolgálat az MNV Zrt. előzetes engedélye és tájékoztatása nélkül jogosult az Nbtv. 8. § (1) bekezdés b) pontja alapján a titkos információgyűjtő, valamint a titkos adatszerző tevékenységhez szükséges különleges technikai eszközöket és anyagokat térítésmentesen biztosítani az erre törvény által feljogosított szervezetek részére.
 
-(3) Az ajánlatkérés tényét nem kell nyilvánosságra hozniuk a Szolgálatoknak, amennyiben a használatukban, illetve vagyonkezelésükben lévő, feladataik ellátásához feleslegessé vált, a számvitelről szóló törvény szerinti vagyontárgyakat zártkörű pályázat útján értékesítik.
+(3)[^8] Az értékesítés szándéka és ténye a Szolgálatok főigazgatójának kezdeményezése alapján a miniszter előzetes jóváhagyásával hozható nyilvánosságra, ha a Szolgálatok a vagyonkezelésükben lévő, feladataik ellátásához feleslegessé vált, az Áhsz. szerinti vagyontárgyakat saját hatáskörben értékesítik.
 
 (4) A (3) bekezdésben meghatározott értékesítések során nem kötelező közjegyző igénybevétele, ha az értékesítési folyamatot legalább három főből álló, a Szolgálatok főigazgatói által kinevezett bizottság felügyeli. A bizottság tagja nem lehet olyan személy, aki az értékesítési eljárás eredményében bármilyen okból érdekelt, vagy akitől egyéb okból nem várható el az értékesítési eljárás szabályszerűségének tárgyilagos megítélése.
+
+[^6]: Az 5. § (1) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 5. § (2) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
+[^8]: Az 5. § (3) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.

@@ -6,9 +6,10 @@
 
 (3)[^2] A Kincstár a Szolgálatok számláinak forgalmáról az Állami Számvevőszéken, a Kormányzati Ellenőrzési Hivatalon, az államháztartásért felelős miniszteren és a fejezetet irányító szerv erre feljogosított munkatársain kívül egyéb szervnek, személynek adatot nem szolgáltathat. A számlák egyenlegéről – az Állami Számvevőszék, a Kormányzati Ellenőrzési Hivatal, az államháztartásért felelős miniszter és a fejezetet irányító szerv kivételével – kizárólag a fejezetet irányító miniszter (a továbbiakban: miniszter) engedélyével közölhető adat. A Szolgálatok számláit vezető kincstári fiók a Szolgálatok számláinak forgalmáról a Kincstár más szerveinek sem szolgáltathat adatot.
 
-(4) A Szolgálatok házipénztárába befolyt bevételeket értékhatártól függetlenül a kincstári egységes számlára nem kell befizetni, azokról minden hónap végén – a 7. § (6) bekezdése szerinti adatszolgáltatás részeként – kell elszámolni. Ugyanakkor gondoskodni kell – amennyiben szükséges – a bevételeknek megfelelő összegű előirányzat-módosítások végrehajtásáról. A bevételek – a bevételi előirányzaton felüli többletbevétel kivételével – addig is közvetlenül felhasználhatók a kiadások teljesítésére.
+(4)[^3] A Szolgálatok házipénztárába befolyt bevételeket értékhatártól függetlenül a kincstári egységes számlára nem kell befizetni, ugyanakkor – ha szükséges – gondoskodni kell a bevételeknek megfelelő összegű előirányzat-módosítások végrehajtásáról, azzal, hogy a bevételek – a bevételi előirányzaton felüli többletbevétel kivételével – addig is közvetlenül felhasználhatók a kiadások teljesítésére. A Szolgálatoknak a házipénztár forgalmáról külön bejelentési kötelezettségük nincs a Kincstár részére.
 
 (5) A Szolgálatok házipénztárukban az erről szóló miniszteri utasításban meghatározott összegig tarthatnak készpénzt.
 
 [^1]: A 2. § (2) bekezdése az 553/2013. (XII. 31.) Korm. rendelet 2. §-ével megállapított szöveg.
 [^2]: A 2. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 569. §-a szerint módosított szöveg.
+[^3]: A 2. § (4) bekezdése a 142/2016. (VI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
