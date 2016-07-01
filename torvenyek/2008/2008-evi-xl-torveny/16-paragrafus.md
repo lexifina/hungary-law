@@ -4,7 +4,7 @@ a) a felhasználó a csatlakozóvezetéket, a felhasználói berendezést az él
 
 b) a felhasználó a nyomás alatti szállító- és elosztóvezetéket vagy a csatlakozóvezetéket megbontja, továbbá, amennyiben a felhasználó vagy a megbízásából eljáró, gázszerelőnek nem minősülő személy a fogyasztói vezetéket megbontja,
 
-c) a felhasználó a csatlakozási szerződésben megállapított lényeges kötelezettségének a földgázelosztó írásbeli felszólítása ellenére nem tett eleget, különösen, ha
+c) a felhasználó a csatlakozási vagy elosztóhálózat-használati szerződésben megállapított lényeges kötelezettségének a földgázelosztó írásbeli felszólítása ellenére nem tett eleget, különösen, ha
 
 ca) a nyomásszabályozó vagy a fogyasztásmérő berendezés működését befolyásolja,
 
@@ -18,7 +18,7 @@ d) a felhasználót ellátó földgázkereskedő a földgázelosztónál – a f
 
 e) a felhasználó a fogyasztásmérő berendezést szándékosan vagy gondatlanul megrongálja, a fogyasztásmérő berendezésen, vagy annak ki- és belépő pontján, a kerülővezeték elzáróján, vagy a csatlakozóvezeték egyéb pontjain elhelyezett zárópecsétet (plombát) eltávolítja, illetve ezek sérülését, hiányát a földgázelosztónak vagy a földgázkereskedőnek nem jelenti be,
 
-f) a felhasználó nem rendelkezik hatályos földgáz-kereskedelmi szerződéssel,
+f) a felhasználó nem rendelkezik érvényes elosztóhálózat-használati és kapacitáslekötési szerződéssel, valamint érvényes földgáz-kereskedelmi szerződéssel,
 
 g) a felhasználót ellátó rendszerhasználó vagy a saját jogon eljáró felhasználó nem rendelkezik hatályos szállítói vagy elosztói rendszerhasználati szerződéssel, vagy
 

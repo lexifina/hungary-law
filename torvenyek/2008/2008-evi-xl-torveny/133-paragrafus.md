@@ -56,4 +56,4 @@
 
 (3) Felhatalmazást kap a katasztrófák elleni védekezésért felelős miniszter, hogy rendeletben állapítsa meg a gáz csatlakozóvezetékek és felhasználói berendezések műszaki-biztonsági felülvizsgálata során feltárt hibák kijavítására kötelezésre, a gáz csatlakozóvezetékek és felhasználói berendezések műszaki javításával kapcsolatos mulasztások bejelentésének kezelésére vonatkozó részletes eljárási szabályokat, valamint az eljárás során kirendelt szakértő tevékenysége folytatásának részletes feltételeit.
 
-(4) Felhatalmazást kap a miniszter, hogy a 141/G. § (1) bekezdése szerinti ajánlattétel napját rendeletben határozza meg.
+(4) Felhatalmazást kap a miniszter, hogy a 141/G. § szerinti ajánlattétel napját rendeletben határozza meg.
