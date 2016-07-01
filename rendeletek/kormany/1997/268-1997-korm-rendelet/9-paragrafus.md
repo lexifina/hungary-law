@@ -1,6 +1,6 @@
 ## A pénztári befektetések letéti őrzése és letétkezelése
 
-9. §[^30] (1)[^31] A pénztár a letétkezelési feladatok ellátásával a hitelintézetekről és a pénzügyi vállalkozásokról szóló jogszabályban meghatározottak szerinti letétkezelés kollektív befektetések részére szolgáltatás nyújtására feljogosított hitelintézetet köteles megbízni. Nem köteles letétkezelőt megbízni az a pénztár, amely vagyonát kizárólag az 1. számú melléklet 1. a), 1. b) és 1. c) pontjai szerinti eszközökben tartja.
+9. §[^30] (1)[^31] A pénztár a letétkezelési feladatok ellátásával a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározottak szerinti letétkezelés szolgáltatás nyújtására feljogosított hitelintézetet köteles megbízni. Nem köteles letétkezelőt megbízni az a pénztár, amelynek tárgyévi nyitómérlegében a fedezeti és likviditási alap együttes állománya nem haladja meg a 100 millió forintot, és amely a vagyonát kizárólag az 1. számú melléklet 1. pont a)–c) alpontja szerinti eszközökben tartja.
 
 (2) A pénztár befektetési tevékenységéhez kapcsolódó pénzforgalmát a számára letétkezelői szolgáltatást végző hitelintézetnél, kizárólag külön e célra nyitott befektetési számlán köteles bonyolítani.
 
@@ -31,5 +31,5 @@ k) ellenjegyzi az ingatlanokra vonatkozó adásvételi szerződéseket;
 l) ellenjegyzi az ingatlanértékelő megbízásához szükséges szerződést.
 
 [^30]: A 9. § a 235/2006. (XI. 24.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^31]: A 9. § (1) bekezdése a 335/2008. (XII. 30.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
+[^31]: A 9. § (1) bekezdése a 139/2016. (VI. 13.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^32]: A 9. § (3) bekezdés f) pontja a 314/2009. (XII. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.

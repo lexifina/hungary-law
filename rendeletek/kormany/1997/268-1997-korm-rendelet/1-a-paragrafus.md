@@ -1,4 +1,4 @@
-## 1. §[^2] A rendelet hatálya az Öpt. 1. § (1) bekezdés a) pontjában meghatározott önkéntes kölcsönös biztosító pénztárak közül az Öpt. 10. § (1) bekezdés b) és c) pontjaiban meghatározott egészség-, illetve önsegélyező pénztárakra (a továbbiakban: pénztár), valamint az Öpt. 1. § (1) bekezdés b) pontjában meghatározott szervekre és szervezetekre terjed ki.
+## 1. §[^2] A rendelet hatálya az Öpt. 1. § (1) bekezdés a) pontjában meghatározott önkéntes kölcsönös biztosító pénztárak közül az Öpt. 10. § (1) bekezdés b), c) és d) pontjában meghatározott egészségpénztárakra, önsegélyező pénztárakra, valamint egészség- és önsegélyező pénztárakra (a továbbiakban: pénztár), valamint az Öpt. 1. § (1) bekezdés b) pontjában meghatározott szervekre és szervezetekre terjed ki.
 
 ## 1/A. §[^3] E rendelet alkalmazásában
 
@@ -16,7 +16,7 @@ f)[^7] ellenőrző befolyás: a Hpt.-ben meghatározott fogalom;
 
 g)[^8] részesedési viszony: a Hpt.-ben meghatározott fogalom.
 
-[^2]: Az 1. § a 281/2001. (XII. 26.) Korm. rendelet 38. §-ának (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § a 139/2016. (VI. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^3]: Az 1/A. §-t a 367/2007. (XII. 23.) Korm. rendelet 1. §-a iktatta be.
 [^4]: Az 1/A. § a) pontja a 182/2009. (IX. 10.) Korm. rendelet 131. §-a, a 221/2014. (IX. 4.) Korm. rendelet 183. § a) pontja szerint módosított szöveg.
 [^5]: Az 1/A. § b) pontja a 470/2015. (XII. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
