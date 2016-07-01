@@ -6,7 +6,7 @@
 
 (3) Összeférhetetlen a Pálinka Nemzeti Tanácsban tisztség viselésével, ha a tisztségviselő
 
-a) államigazgatási szervnél folytat főállásban közszolgálati tisztviselői tevékenységet;
+a) államigazgatási szervnél folytat főállásban közszolgálati tisztviselői vagy állami tisztviselői tevékenységet;
 
 b) politikai pártban országos tisztséget tölt be;
 
