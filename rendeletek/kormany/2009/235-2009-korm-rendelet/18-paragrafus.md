@@ -1,6 +1,14 @@
-18. §[^28] (1)[^29] A 16. § a) pontjában említett vizsgálatok és kutatások esetében a megbízó az engedély iránti kérelmet az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltak szerint nyújtja be az ETT TUKEB-hez.
+18. §[^29] (1)[^30] A 16. § a) pontjában említett vizsgálatok és kutatások esetében a megbízó az engedély iránti kérelmet az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltak szerint nyújtja be a 17. § (1) bekezdés a) pont aa) alpontja szerinti esetben az OTH-hoz, a 17. § (1) bekezdés a) pont ab) alpontja szerinti esetben az ETT TUKEB-hez.
 
-(2)[^30] A 16. § a) pontjában említett vizsgálatok és kutatások esetében az engedély iránti kérelem elbírálása során az ETT TUKEB értékeli, hogy
+(1a)[^31] A 17. § (1) bekezdés a) pont aa) alpontjában említett vizsgálatok és kutatások esetében az engedély iránti kérelem elbírálása során az OTH értékeli, hogy a beadott kérelem tárgyául szolgáló vizsgálat valóban beavatkozással nem járó vizsgálat-e.
+
+(1b)[^32] Az (1a) bekezdés alapján benyújtott kérelem elbírálásakor az OTH az ETT HRB szakhatósági állásfoglalását kéri a következő kérdésekben:
+
+a) a tervezett vizsgálat érdemi, szakmai tudományos kérdésfelvetéseket tartalmaz-e és módszerei alkalmasak-e ezek megválaszolására,
+
+b) a betegtájékoztató és a beleegyező nyilatkozat, valamint a toborzás tervezett szövege megfelel-e az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltaknak.
+
+(2)[^33] A 17. § (1) bekezdés a) pont ab) alpontjában említett vizsgálatok és kutatások esetében az engedély iránti kérelem elbírálása során az ETT TUKEB értékeli, hogy
 
 a) a beadott kérelem tárgyául szolgáló vizsgálat valóban beavatkozással nem járó vizsgálat-e,
 
@@ -8,9 +16,9 @@ b) a tervezett vizsgálat érdemi, szakmai tudományos kérdésfelvetéseket tar
 
 c) a betegtájékoztató és a beleegyező nyilatkozat, valamint a toborzás tervezett szövege megfelel-e az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltaknak.
 
-(2a)[^31] A 16. § b) pontjában említett vizsgálatok esetében a megbízó az engedély iránti kérelmet az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltak szerint nyújtja be az ENKK-hoz.
+(2a)[^34] A 16. § b) pontjában említett vizsgálatok esetében a megbízó az engedély iránti kérelmet az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltak szerint nyújtja be az ENKK-hoz.
 
-(2b)[^32] Az ENKK a (2a) bekezdés alapján benyújtott kérelem elbírálásakor értékeli, hogy
+(2b)[^35] Az ENKK a (2a) bekezdés alapján benyújtott kérelem elbírálásakor értékeli, hogy
 
 a) a beadott kérelem tárgyául szolgáló vizsgálat valóban beavatkozással nem járó vizsgálat-e,
 
@@ -22,21 +30,21 @@ d) a vizsgálatban hivatkozott orvostechnikai cél és a használati útmutatób
 
 e) a kérelmező minden tőle elvárhatót megtett-e a váratlan események és balesetek elkerülésére.
 
-(2c)[^33] A (2a) bekezdés alapján benyújtott kérelem elbírálásakor az ENKK az ETT TUKEB szakhatósági állásfoglalását kéri az alábbi kérdésekben:
+(2c)[^36] A (2a) bekezdés alapján benyújtott kérelem elbírálásakor az ENKK az ETT TUKEB szakhatósági állásfoglalását kéri az alábbi kérdésekben:
 
 a) a tervezett vizsgálat érdemi, szakmai tudományos kérdésfelvetéseket tartalmaz-e és módszerei alkalmasak-e ezek megválaszolására,
 
 b) a betegtájékoztató és a beleegyező nyilatkozat, valamint a toborzás tervezett szövege megfelel-e az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltaknak.
 
-(3)[^34] A 16. § c) pontjában említett vizsgálat esetében a megbízó
+(3)[^37] A 16. § c) pontjában említett vizsgálat esetében a megbízó
 
-a)[^35] a 17. § (1) bekezdés b) pont ba) alpontja esetében az engedélyt az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltak szerint az OGYÉI-től,
+a)[^38] a 17. § (1) bekezdés b) pont ba) alpontja esetében az engedélyt az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglaltak szerint az OGYÉI-től,
 
 b) a 17. § (1) bekezdés b) pont bb) alpontja esetében az etikai engedélyt az ETT TUKEB-től
 
 kéri meg.
 
-(4)[^36] Az OGYÉI a 17. § (1) bekezdés b) pont ba) alpontjában említett vizsgálat esetében az engedélyezési eljárás során értékeli, hogy
+(4)[^39] Az OGYÉI a 17. § (1) bekezdés b) pont ba) alpontjában említett vizsgálat esetében az engedélyezési eljárás során értékeli, hogy
 
 a) a vizsgálat lefolytatása nem ösztönöz-e gyógyszerhasználatra,
 
@@ -44,9 +52,9 @@ b) a vizsgálat kialakítása teljesíti-e a vizsgálat célkitűzéseit,
 
 c) a vizsgálat nem minősül-e klinikai vizsgálatnak,
 
-d)[^37]
+d)[^40]
 
-(5)[^38] A 17. § (1) bekezdés b) pont ba) alpontjában említett vizsgálat esetében az OGYÉI megkeresésére az ETT TUKEB szakhatóságként vizsgálja a (6) bekezdés a)–c) pontjában foglaltakat.
+(5)[^41] A 17. § (1) bekezdés b) pont ba) alpontjában említett vizsgálat esetében az OGYÉI megkeresésére az ETT TUKEB szakhatóságként vizsgálja a (6) bekezdés a)–c) pontjában foglaltakat.
 
 (6) A 17. § (1) bekezdés b) pont bb) alpontjában említett vizsgálat esetében az ETT TUKEB értékeli, hogy
 
@@ -58,14 +66,16 @@ c) a vizsgálat a vizsgálat alá vont személy jogait nem sérti-e,
 
 d) a vizsgálat tudományosan megalapozott-e.
 
-[^28]: A 18. § a 137/2012. (VI. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
-[^29]: A 18. § (1) bekezdése a 308/2012. (XI. 6.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^30]: A 18. § (2) bekezdés nyitó szövegrésze a 308/2012. (XI. 6.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
-[^31]: A 18. § (2a) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 4. §-a iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 41. § e) pontja szerint módosított szöveg.
-[^32]: A 18. § (2b) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 4. §-a iktatta be, nyitó szövegrésze a 30/2015. (II. 25.) Korm. rendelet 41. § f) pontja szerint módosított szöveg.
-[^33]: A 18. § (2c) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 4. §-a iktatta be, nyitó szövegrésze a 30/2015. (II. 25.) Korm. rendelet 41. § f) pontja szerint módosított szöveg.
-[^34]: A 18. § (3) bekezdés nyitó szövegrésze a 308/2012. (XI. 6.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^35]: A 18. § (3) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 41. § g) pontja szerint módosított szöveg.
-[^36]: A 18. § (4) bekezdés nyitó szövegrésze a 30/2015. (II. 25.) Korm. rendelet 41. § h) pontja szerint módosított szöveg.
-[^37]: A 18. § (4) bekezdés d) pontját a 308/2012. (XI. 6.) Korm. rendelet 13. § (1) bekezdés c) pontja hatályon kívül helyezte.
-[^38]: A 18. § (5) bekezdése a 30/2015. (II. 25.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
+[^29]: A 18. § a 137/2012. (VI. 29.) Korm. rendelet 55. §-ával megállapított szöveg.
+[^30]: A 18. § (1) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 36. § (1) bekezdésével megállapított szöveg.
+[^31]: A 18. § (1a) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 36. § (2) bekezdése iktatta be.
+[^32]: A 18. § (1b) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 36. § (2) bekezdése iktatta be.
+[^33]: A 18. § (2) bekezdés nyitó szövegrésze a 308/2012. (XI. 6.) Korm. rendelet 12. § c) pontja, a 172/2016. (VII. 1.) Korm. rendelet 41. § a) pontja szerint módosított szöveg.
+[^34]: A 18. § (2a) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 4. §-a iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 41. § e) pontja szerint módosított szöveg.
+[^35]: A 18. § (2b) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 4. §-a iktatta be, nyitó szövegrésze a 30/2015. (II. 25.) Korm. rendelet 41. § f) pontja szerint módosított szöveg.
+[^36]: A 18. § (2c) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 4. §-a iktatta be, nyitó szövegrésze a 30/2015. (II. 25.) Korm. rendelet 41. § f) pontja szerint módosított szöveg.
+[^37]: A 18. § (3) bekezdés nyitó szövegrésze a 308/2012. (XI. 6.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
+[^38]: A 18. § (3) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 41. § g) pontja szerint módosított szöveg.
+[^39]: A 18. § (4) bekezdés nyitó szövegrésze a 30/2015. (II. 25.) Korm. rendelet 41. § h) pontja szerint módosított szöveg.
+[^40]: A 18. § (4) bekezdés d) pontját a 308/2012. (XI. 6.) Korm. rendelet 13. § (1) bekezdés c) pontja hatályon kívül helyezte.
+[^41]: A 18. § (5) bekezdése a 30/2015. (II. 25.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.

@@ -1,6 +1,6 @@
 ## A klinikai vizsgálat engedélyezése
 
-23. § (1)[^54] A klinikai vizsgálatot az OGYÉI (e cím alkalmazásában a továbbiakban: engedélyező) a benyújtott dokumentumok értékelése és a szakhatóság állásfoglalása alapján engedélyezi.
+23. § (1)[^57] A klinikai vizsgálatot az OGYÉI (e cím alkalmazásában a továbbiakban: engedélyező) a benyújtott dokumentumok értékelése és a szakhatóság állásfoglalása alapján engedélyezi.
 
 (2) Az engedély iránti kérelmet a megbízónak két példányban, az Európai Gyógyszerügynökség (a továbbiakban: EMEA) honlapjáról letölthető adatlapon, az ott megjelölt dokumentumok kíséretében kell benyújtania.
 
@@ -20,4 +20,4 @@ f) a vizsgálati készítmény gyógyszerminőségi szempontból emberen törté
 
 g) a külön jogszabály szerinti felelősségbiztosítás megfelelőségét.
 
-[^54]: A 23. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 41. § m) pontja szerint módosított szöveg.
+[^57]: A 23. § (1) bekezdése a 30/2015. (II. 25.) Korm. rendelet 41. § m) pontja szerint módosított szöveg.
