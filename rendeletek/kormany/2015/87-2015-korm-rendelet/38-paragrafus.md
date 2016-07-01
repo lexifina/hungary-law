@@ -1,4 +1,4 @@
-38. § (1)[^63] A beiratkozás a beiratkozási lap kitöltésével és aláírásával kezdeményezhető.
+38. § (1)[^70] A beiratkozás a beiratkozási lap kitöltésével és aláírásával kezdeményezhető.
 
 (2) A beiratkozási lap lehet:
 
@@ -40,14 +40,14 @@ b) a felsőoktatási intézmény és az önköltséges hallgató között létre
 
 c) a felsőoktatási intézmény által kért egyéb nyilatkozatok, és
 
-d)[^64] a képviselő útján beiratkozott hallgató esetén a képviselőnek a képviseletre jogosító okirata.
+d)[^71] a képviselő útján beiratkozott hallgató esetén a képviselőnek a képviseletre jogosító okirata.
 
-(5)[^65] Ha a beiratkozási lap adatai alapján nincs akadálya a jogviszony létesítésének, a felsőoktatási intézmény szabályzatában meghatározott időben – amely nem lehet hosszabb öt munkanapnál – hitelesíti a beiratkozási lapot. A beiratkozás a beiratkozási lap hitelesítésével valósul meg.
+(5)[^72] Ha a beiratkozási lap adatai alapján nincs akadálya a jogviszony létesítésének, a felsőoktatási intézmény szabályzatában meghatározott időben – amely nem lehet hosszabb öt munkanapnál – hitelesíti a beiratkozási lapot. A beiratkozás a beiratkozási lap hitelesítésével valósul meg.
 
 (6) A beiratkozási lap a törzslap melléklete.
 
 (7) A (3) bekezdés g) pont, a (4) bekezdés b) és c) pont szerinti dokumentum a beiratkozás időpontjához képest későbbi időpontban is keletkezhet, ebben az esetben azt a beiratkozási laphoz kell csatolni.
 
-[^63]: A 38. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 77. § (1) bekezdésével megállapított szöveg.
-[^64]: A 38. § (4) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 9. pontja szerint módosított szöveg.
-[^65]: A 38. § (5) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 77. § (2) bekezdésével megállapított szöveg.
+[^70]: A 38. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 77. § (1) bekezdésével megállapított szöveg.
+[^71]: A 38. § (4) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 9. pontja szerint módosított szöveg.
+[^72]: A 38. § (5) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 77. § (2) bekezdésével megállapított szöveg.

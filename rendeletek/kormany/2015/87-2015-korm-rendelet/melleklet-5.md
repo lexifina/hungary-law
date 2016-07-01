@@ -1,12 +1,12 @@
 5. melléklet a 87/2015. (IV. 9.) Korm. rendelethez
 
-## Az alap-, illetve mesterképzés indításának tárgyi és személyi feltételei
+Az alap-, illetve mesterképzés indításának tárgyi és személyi feltételei
 
 1. Alapképzési szak indításának feltételei:
 
 a) az intézmény által kidolgozott tanterv teljesíti a képzési és kimeneti követelményekben leírtakat,
 
-b) az intézmény által kidolgozott tanterv biztosítja a kimeneti kompetenciák (attitűdök, nézetek, önállóság és felelősségvállalás) hallgatók általi elsajátítását, bemutatja a tanulás-támogatás intézményi eszközrendszerét, módszertanát,
+b)[^129] az intézmény által kidolgozott tanterv biztosítja a kimeneti kompetenciák hallgatók általi elsajátítását, bemutatja a tanulás-támogatás intézményi eszközrendszerét, módszertanát,
 
 c) a szakfelelős személye az intézmény teljes munkaidőben foglalkoztatott, tudományos fokozattal rendelkező oktató, aki az Nftv. 26. § (3) bekezdése szerint az érintett felsőoktatási intézményt jelölte meg (a továbbiakban: első helyen foglalkoztatott oktató),
 
@@ -28,13 +28,13 @@ k) a képzés oktatási eszközigénye és a gyakorlati képzés feltételei biz
 
 l) az intézményi könyvtár állománya és szolgáltatásai biztosítják a tantárgyi programok kötelező irodalomjegyzékében felsorolt könyvek és szakirodalom elérhetőségét minden hallgató számára,
 
-m)[^104] a képzés során külföldi részképzés céljából a tantervbe épített, nemzetközi hallgatói mobilitásra felhasználható időszak (a továbbiakban: mobilitási ablak) áll rendelkezésre.
+m)[^130] a képzés során külföldi részképzés céljából a tantervbe épített, nemzetközi hallgatói mobilitásra felhasználható időszak (a továbbiakban: mobilitási ablak) áll rendelkezésre.
 
 2. Mesterképzési szak indításának feltételei:
 
 a) az intézmény által kidolgozott tanterv teljesíti a képzési és kimeneti követelményekben leírtakat,
 
-b) az intézmény által kidolgozott tanterv biztosítja a kimeneti kompetenciák (attitűdök, nézetek, önállóság és felelősségvállalás) hallgatók általi elsajátítását, bemutatja a tanulás-támogatás intézményi eszközrendszerét, módszertanát,
+b)[^131] az intézmény által kidolgozott tanterv biztosítja a kimeneti kompetenciák hallgatók általi elsajátítását, bemutatja a tanulás-támogatás intézményi eszközrendszerét, módszertanát,
 
 c) a szakfelelős személye az intézmény teljes munkaidőben, első helyen foglalkoztatott oktatója, aki tudományos fokozattal és oktatott területén elismert szakmai referenciával (projektvezetés, kutatási eredmény stb.) rendelkezik,
 
@@ -64,4 +64,6 @@ a) minden hallgató számára (előzetes megállapodással) igazoltan biztosíto
 
 b) az egyes tanári szakképzettségeket adó képzésekre teljesülnek a mesterfokozatot adó szak indítására vonatkozó feltételek.
 
-[^104]: Az 5. melléklet 1. pont m) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 16. pontja szerint módosított szöveg.
+[^129]: Az 5. melléklet 1. pont b) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
+[^130]: Az 5. melléklet 1. pont m) alpontja a 345/2015. (XI. 19.) Korm. rendelet 89. § 16. pontja szerint módosított szöveg.
+[^131]: Az 5. melléklet 2. pont b) alpontja a 169/2016. (VII. 1.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.

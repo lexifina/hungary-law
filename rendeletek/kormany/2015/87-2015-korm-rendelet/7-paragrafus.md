@@ -11,3 +11,7 @@ b) a külföldi felsőoktatási intézmény származási ország szerinti állam
 c) az Nftv. 76. § (1) bekezdésében előírt feltételek meglétének igazolását, valamint az Nftv. 76. § (2) bekezdésében előírt, rendelkezésre álló szakértői véleményeket vagy a szakértői vélemények elkészítéséhez szükséges dokumentációt.
 
 (3) A szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató a Magyarország területén végzett határon átnyúló szolgáltatásnyújtás keretében történő felsőoktatási tevékenységének nyilvántartásba vételét a (2) bekezdés a) és b) pontjában felsorolt mellékletek, valamint az Nftv. 76. § (1) bekezdésében előírt feltételek meglétének igazolására szolgáló dokumentumok benyújtásával kérelmezheti.
+
+(4)[^11] Az Nftv. 77. § (4) bekezdése szerinti képzés magyar felsőoktatási intézmény által történő indításának nyilvántartásba vételét a magyar felsőoktatási intézmény vezetője kérelmezi. A kérelemhez mellékelni kell a külföldi felsőoktatási intézmény és a képzés állami elismertségének, továbbá az Nftv. 77. § (4) bekezdésében előírt feltételek meglétének igazolását, valamint a külföldi és a magyar felsőoktatási intézmény által a képzés megszervezésére vonatkozóan megkötött megállapodást.
+
+[^11]: A 7. § (4) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 28. §-a iktatta be.

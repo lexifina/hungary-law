@@ -1,12 +1,10 @@
-## Az intézményi azonosító szám képzésének szabálya
-
 ## A felsőoktatási intézményi azonosító szám „FI” karakterekből, közvetlen utána 5 számjegyből álló jel, amelyben az első 4 számjegy véletlenszerűen kiadott szám. Az első számjegye a nullától különböző számjegy. Az ötödik számjegy ellenőrző ún. CDV kód, melynek képzési algoritmusa az alábbi: a felsőoktatási intézményi azonosító szám első négy számjegyéből a páratlan helyen állókat hárommal, a páros helyen állókat héttel megszorozva, a szorzatokat össze kell adni. Az összeget tízzel elosztva a maradék tekintendő az ötödik, azaz CDV kódnak.
 
 ## A diákotthoni azonosító szám „DO” karakterekből, közvetlen utána 5 számjegyből álló jel, amelyben az első 4 számjegy véletlenszerűen kiadott szám. Az első számjegye a nullától különböző számjegy. Az ötödik számjegy ellenőrző ún. CDV kód, melynek képzési algoritmusa az alábbi: a diákotthoni azonosító első négy számjegyéből a páratlan helyen állókat hárommal, a páros helyen állókat héttel megszorozva, a szorzatokat össze kell adni. Az összeget tízzel elosztva a maradék tekintendő az ötödik, azaz CDV kódnak.
 
 8. melléklet a 87/2015. (IV. 9.) Korm. rendelethez
 
-## A jelentkezői, a hallgatói és az oktatói azonosító szám képzésének szabálya
+A jelentkezői, a hallgatói és az oktatói azonosító szám képzésének szabálya
 
 1. Az azonosító szám tizenegy jegyű szám.
 

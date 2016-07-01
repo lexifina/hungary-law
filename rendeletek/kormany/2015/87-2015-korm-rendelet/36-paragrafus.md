@@ -8,7 +8,7 @@
 
 3. a leckekönyv-nyomtatvány sorszámát és a diákigazolvány sorszámát;
 
-4.[^61] a törzslaphoz kapcsolódó hallgatói jogviszony adatait (keletkezésének és megszűnésének időpontja);
+4.[^68] a törzslaphoz kapcsolódó hallgatói jogviszony adatait (keletkezésének és megszűnésének időpontja);
 
 5. a hallgató képzésének adatait képzésenként (a képzés neve, szintje, munkarendje, nyelve, a képzési és kimeneti követelmények szerinti képzési ideje, telephelye, a képzés megkezdésének időpontja és létrejöttének módja, a határozat száma, a képzés befejezésének időpontja és módja), a képzés – több képzés esetén a képzések – bemeneti feltételeként meghatározott okiratok adatait (az okirat megnevezése, kibocsátó intézmény neve, az okirat száma, kiállításának időpontja), átvétel esetén az átadás adatait (az átadó felsőoktatási intézmény neve, azonosító száma, az átadó intézményben folytatott képzés neve, szintje, munkarendje, nyelve, helye, finanszírozási formája);
 
@@ -70,7 +70,7 @@ c) az oklevél javítására, másodlat kiadására vagy az oklevél érvénytel
 
 (10) A felsőoktatási intézmény a hallgatói jogviszony megszűnésekor papír alapú hitelesített törzslap-kivonatot ad ki
 
-a)[^62] hivatalból a tanulmányát végbizonyítvány (abszolutórium) nélkül befejező hallgató részére, amennyiben legalább egy félévet aktív hallgatóként teljesített,
+a)[^69] hivatalból a tanulmányát végbizonyítvány (abszolutórium) nélkül befejező hallgató részére, amennyiben legalább egy félévet aktív hallgatóként teljesített,
 
 b) kérelemre a végbizonyítványt szerzett, de tanulmányát oklevél megszerzése nélkül befejező hallgató részére,
 
@@ -82,5 +82,5 @@ c) kérelemre a szakirányú továbbképzésben oklevelet szerzett hallgató ré
 
 (13) A (10) bekezdés a) pontja szerint kiadott törzslap-kivonat átadását a törzslapra rá kell vezetni. Az irat átadását átadás-átvételi dokumentumon kell igazolni.
 
-[^61]: A 36. § (2) bekezdés 4. pontja a 345/2015. (XI. 19.) Korm. rendelet 90. § 3. pontja szerint módosított szöveg.
-[^62]: A 36. § (10) bekezdés a) pontja a 345/2015. (XI. 19.) Korm. rendelet 76. §-ával megállapított szöveg.
+[^68]: A 36. § (2) bekezdés 4. pontja a 345/2015. (XI. 19.) Korm. rendelet 90. § 3. pontja szerint módosított szöveg.
+[^69]: A 36. § (10) bekezdés a) pontja a 345/2015. (XI. 19.) Korm. rendelet 76. §-ával megállapított szöveg.

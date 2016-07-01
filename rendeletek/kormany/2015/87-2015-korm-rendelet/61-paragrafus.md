@@ -14,15 +14,16 @@ c) hány olyan hallgató van, aki a lezárt félévvel már igénybe vette az ad
 
 (4) Az önköltséges hallgató csak magyar állami ösztöndíjas képzési formára, a költségtérítéses hallgató csak államilag támogatott képzési formára kérheti átsorolását.
 
-(5) A költségviselési forma változásáról szóló határozatban a felsőoktatási intézménynek – a hallgató Nftv. 47. § (3)–(7) bekezdése szerint rendelkezésre álló támogatási idejének egyidejű megvizsgálásával – meg kell határoznia, hogy a hallgató az átsorolást követően maximálisan hány félév támogatott időt tud igénybe venni.
+(5)[^91]
 
 (6) A magyar állami ösztöndíjra való átsorolást követő első félévre való bejelentkezéskor a hallgató a nyilatkozatot a 9. melléklet 10. pontja szerinti tartalommal, egyedi nyomtatványon teszi meg. A nyilatkozatot a törzslaphoz kell csatolni.
 
 (7) Ha a felvételt nyert jelentkező vagy az átsorolást kérő hallgató a magyar állami (rész)ösztöndíjjal támogatott képzés feltételeit nem vállalja, a felsőoktatási intézménynek fel kell ajánlania a részére ugyanazon képzésre az önköltséges képzésben való részvétel lehetőségét.
 
-(8)[^74] Az Nftv. 48. § (2) bekezdése szerinti átsorolási döntést minden év július 31. napjáig, tanévenként egyszer kell meghozni. Ha az 56. § (1) bekezdése alapján az adott félévhez tartozó kredit teljesítésére július 31-ét követően kerül sor, és a felsőoktatási intézmény betölthető magyar állami ösztöndíjas hellyel rendelkezik, akkor az átsorolási döntést ennek figyelembevételével kell felülvizsgálni és szükség esetén módosítani.
+(8)[^92] Az Nftv. 48. § (2) bekezdése szerinti átsorolási döntést minden év július 31. napjáig, tanévenként egyszer kell meghozni. Ha az 56. § (1) bekezdése alapján az adott félévhez tartozó kredit teljesítésére július 31-ét követően kerül sor, és a felsőoktatási intézmény betölthető magyar állami ösztöndíjas hellyel rendelkezik, akkor az átsorolási döntést ennek figyelembevételével kell felülvizsgálni és szükség esetén módosítani.
 
-(9)[^75] Át kell sorolni az Nftv. 48. §-a szerint azt a hallgatót, aki – ha a felsőoktatási intézmény szervezeti és működési szabályzata ettől magasabb értéket nem állapít meg – nem éri el a 10. melléklet szerinti, képzési területenként meghatározott súlyozott tanulmányi átlagot.
+(9)[^93] Át kell sorolni az Nftv. 48. §-a szerint azt a hallgatót, aki – ha a felsőoktatási intézmény szervezeti és működési szabályzata ettől magasabb értéket nem állapít meg – nem éri el a 10. melléklet szerinti, képzési területenként meghatározott súlyozott tanulmányi átlagot.
 
-[^74]: A 61. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 82. §-ával megállapított szöveg.
-[^75]: A 61. § (9) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 82. §-a iktatta be.
+[^91]: A 61. § (5) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 38. § d) pontja hatályon kívül helyezte.
+[^92]: A 61. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 82. §-ával megállapított szöveg.
+[^93]: A 61. § (9) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 82. §-a iktatta be.
