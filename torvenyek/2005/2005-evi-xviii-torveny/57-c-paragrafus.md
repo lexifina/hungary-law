@@ -1,10 +1,12 @@
-57/C. § (1) A távhőszolgáltató honlapján közzéteszi és a Hivatalnak – az erre a célra fenntartott honlapon való közzététel céljából – haladéktalanul megküldi
+57/C. § (1) A távhőszolgáltató honlapján közzéteszi és a Hivatalnak haladéktalanul megküldi
 
-a) a távhőszolgáltató és a távhőtermelő közötti hővásárlási és ármegállapítási célú megállapodásokat,
+a) a távhőszolgáltató és a távhőtermelő közötti hővásárlási célú,
 
-b) a távhőszolgáltató és a helyi önkormányzat között a helyi önkormányzat területén közszolgáltatás ellátására kötött megállapodásokat,
+b) a távhőszolgáltató és a helyi önkormányzat között a helyi önkormányzat területén közszolgáltatás ellátására kötött, és
 
-c) a távhőszolgáltató és a helyi önkormányzat közötti hőszolgáltatási és ármegállapítási célú megállapodásokat.
+c) a távhőszolgáltató és a helyi önkormányzat közötti hőszolgáltatási célú
+
+megállapodásokat.
 
 (2) Az (1) bekezdésben meghatározott megállapodásokból a távhőszolgáltató törölheti a technológiai eljárásokra, a műszaki megoldásokra, a gyártási folyamatokra, a munkaszervezési és logisztikai módszerekre, továbbá a know-how-ra vonatkozó olyan üzleti titkokat, amelyek megismerése a távhőszolgáltató vagy a távhőtermelő üzleti tevékenységének végzése szempontjából aránytalan sérelmet okozna.
 

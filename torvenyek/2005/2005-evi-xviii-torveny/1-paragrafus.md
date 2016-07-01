@@ -26,4 +26,4 @@ rendelkezéseivel összhangban kell alkalmazni.
 
 a) a saját felhasználási célra hőt termelő létesítményre és
 
-b) a központi költségvetési szervek vagyonkezelésében lévő távhőtermelő és hőszolgáltató létesítményre.
+b)

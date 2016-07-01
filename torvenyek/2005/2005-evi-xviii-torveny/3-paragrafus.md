@@ -32,7 +32,7 @@ l) hőközpont: a hőhordozó közeg kiadására, elosztására, fogadására, �
 
 la) termelői hőközpont: a távhő termelőjénél távhőellátás céljából a hőhordozó közeg kiadására, továbbítására, elosztására, átalakítására, mennyiségének szabályozására, esetenként mérésére szolgáló technológiai berendezés;
 
-lb) szolgáltatói hőközpont: több épület vagy építmény távhővezeték-hálózat útján történő hőellátása céljából, az ellátandó épületeken vagy építményeken kívül, vagy azok egyikében elhelyezett, a hőhordozó közeg fogadására, átalakítására, mennyiségének szabályozására, elosztására, mérésére szolgáló technológiai berendezés. A szolgáltatói hőközpontokkal azonos módon kell kezelni azokat a kazánházakat, melyekből – hőközpont közbeiktatása nélkül – közvetlenül történik a fogyasztók hőellátása;
+lb) szolgáltatói hőközpont: több épület vagy építmény távhővezeték-hálózat útján történő hőellátása céljából, az ellátandó épületeken vagy építményeken kívül, vagy azok egyikében elhelyezett, a hőhordozó közeg fogadására, átalakítására, mennyiségének szabályozására, elosztására, mérésére szolgáló technológiai berendezés;
 
 lc) felhasználói hőközpont: egy épület vagy építmény hőellátása céljából a hőhordozó közeg fogadására, átalakítására, mennyiségének szabályozására, mérésére szolgáló technológiai berendezés;
 
