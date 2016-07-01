@@ -1,17 +1,17 @@
-## Pedagógus- és oktatói kedvezmények megállapítása
+## 16. §[^17]
 
-17. §[^21] (1)[^22] A pedagógus- és oktatói kedvezmények megállapításával és nyilvántartásával összefüggő hatósági ügyekben első fokon az e rendelet melléklete szerint illetékes kormányhivatal jár el.
+## Pedagógus- és oktatói kedvezmények megállapítása[^18]
 
-(2)[^23] A kormányhivatal első fokú hatósági jogkörében eljárva:
+17. §[^19] (1) A pedagógus- és oktatói kedvezmények megállapításával összefüggő hatósági ügyekben első fokon az 1. melléklet szerint illetékes, közoktatási feladatkörében eljáró fővárosi és megyei kormányhivatal, illetve a külképviselet (a továbbiakban együtt: eljáró hatóság) jár el.
 
-a) dönt a pedagógus- és oktatói kedvezményekre való jogosultság megállapításáról;
+(2) Az eljáró hatóság első fokú hatósági jogkörében eljárva
 
-b) vezeti a pedagógus- és oktatói kedvezményekre való jogosultság nyilvántartását (a továbbiakban: nyilvántartás);
+a) dönt a pedagógus- és oktatói kedvezményekre való jogosultság megállapításáról, illetve a kérelem elutasításáról, a jogosultság megállapításának visszavonásáról;
 
-c) adatszolgáltatást teljesít a nyilvántartásból,
+b) értesíti a pedagógus- és oktatói kedvezményekre való jogosultság nyilvántartását (a továbbiakban: nyilvántartás) vezető Hivatalt a jogosultság megállapításáról, a kérelem elutasításáról, illetve a jogosultság megállapításának visszavonásáról;
 
-d) értesíti a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát a kérelem benyújtásáról.
+c) értesíti a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát a kérelem benyújtásáról, továbbá a kérelem sorszámáról.
 
-[^21]: A 17. § és az azt megelőző alcím a 131/2007. (VI. 12.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 10. § (5) bekezdése alapján a rendelkezést a 2007. július 12. napja után megindult ügyekben kell alkalmazni. A folyamatban lévő, pedagógusigazolvány, illetve oktatói kártya iránti kérelmeket a Hivatal a járulékos igazolvány kiállításával, illetve meghosszabbításával teljesíti.
-[^22]: A 17. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 111. § (2) bekezdésével megállapított szöveg.
-[^23]: A 17. § (2) bekezdés nyitó szövegrésze a 351/2010. (XII. 30.) Korm. rendelet 113. § a) pontja szerint módosított szöveg.
+[^17]: A 16. §-t a 136/2016. (VI. 13.) Korm. rendelet 2. § (7) bekezdés a) pontja hatályon kívül helyezte.
+[^18]: A 17. §-t megelőző alcím a 131/2007. (VI. 12.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^19]: A 17. § a 136/2016. (VI. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.

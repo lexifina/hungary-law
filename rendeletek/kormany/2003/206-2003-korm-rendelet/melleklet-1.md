@@ -8,9 +8,9 @@ A Kormánynak a pedagógus- és oktatói kedvezmények megállapítását végz�
 
 | 1 | A fővárosi és megyei kormányhivatal megnevezése | Székhelye | Érintett kör |
 
-| 2 | Győr-Moson-Sopron Megyei Kormányhivatal | Győr | A Szlovák Köztársaságban és a Horvát Köztársaságban lakóhellyel rendelkező jogosultak |
+| 2 | Győr-Moson-Sopron Megyei Kormányhivatal | Győr | A Szlovák Köztársaságban lakóhellyel rendelkező jogosultak |
 
-| 3 | Baranya Megyei Kormányhivatal | Pécs | A Horvát Köztársaságban és a Szlovén Köztársaságban lakóhellyel rendelkező jogosultak |
+| 3 | Baranya Megyei Kormányhivatal | Pécs | A Horvát Köztársaságban, a Szerb Köztársaságban és a Szlovén Köztársaságban lakóhellyel rendelkező jogosultak |
 
 | 4 | Csongrád Megyei Kormányhivatal | Szeged | A Szerb Köztársaságban és Romániában lakóhellyel rendelkező jogosultak |
 
@@ -36,4 +36,4 @@ A Kormánynak a pedagógus- és oktatói kedvezmények megállapítását végz�
 
 [^43]: A 27. §-t a 294/2012. (X. 16.) Korm. rendelet 14. §-a iktatta be.
 [^44]: A hatálybalépés napja 2013. január 1.
-[^45]: Az 1. melléklet a 294/2012. (X. 16.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^45]: Az 1. melléklet a 294/2012. (X. 16.) Korm. rendelet 12. §-ával megállapított, a 136/2016. (VI. 13.) Korm. rendelet 2. § (6) bekezdés d) pontja és (7) bekezdés f) pontja szerint módosított szöveg.
