@@ -1,3 +1,0 @@
-## A szakiskola
-
-27. §

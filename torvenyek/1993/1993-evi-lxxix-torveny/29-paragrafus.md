@@ -1,3 +1,0 @@
-## A szakközépiskola
-
-29. §
