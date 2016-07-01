@@ -14,7 +14,7 @@
 
 (7) Az adók módjára behajtott összeget az adóhatóság haladéktalanul átutalja a köztartozás jogosultjának. Amennyiben a behajtott összeg a fizetésre kötelezettet terhelő tartozások mindegyikére nem nyújt fedezetet, az adóhatóság a bevételt a különböző tartozások arányában számolja el, és utalja át a megkereső hatóságnak.
 
-(8) Az adók módjára behajtandó köztartozásra a végrehajtási eljárás szabályait kell alkalmazni.
+(8) Az adók módjára behajtandó köztartozásra a végrehajtási eljárás szabályait kell alkalmazni azzal, hogy az állami adó- és vámhatóság 200 000 forintot nem meghaladó köztartozás esetén – a 150/A. és a 151. § szerinti intézkedéseken túl – kizárólag hatósági átutalási megbízást, illetve munkabérletiltást foganatosít a tartozás behajtása érdekében, ezek eredménytelensége esetén pedig a 161. § (5) bekezdése szerint jár el. Ha a 200 000 Ft-ot nem meghaladó köztartozás mellett az adózót adótartozás is terheli, az állami adó- és vámhatóság egyéb végrehajtási cselekményeket is foganatosíthat. Ha az eljárás során a jelzálogjog bejegyzését követően egyéb végrehajtási cselekmény foganatosításától eredmény nem várható, az adóhatóság a jelzálogjog fenntartása mellett a 161. § (5) bekezdésében írtak szerint jár el.
 
 (9) Az adók módjára behajtandó köztartozásra az adóhatóság fizetési könnyítést nem engedélyezhet, a tartozást nem mérsékelheti, illetőleg nem minősítheti behajthatatlannak.
 

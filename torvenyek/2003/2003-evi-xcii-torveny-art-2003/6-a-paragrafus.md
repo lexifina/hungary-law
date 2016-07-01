@@ -22,4 +22,8 @@ i) a tárgyévben és az azt megelőző öt évben nem állt és nem áll fokozo
 
 j) nem minősül kockázatos adózónak.
 
+(1a) Az (1) bekezdéstől eltérően az állami adó- és vámhatóság megbízható adózónak minősíti azt a nyilvánosan működő részvénytársaságot, amely az (1) bekezdés b)–j) pontjaiban foglalt együttes feltételeknek megfelel.
+
 (2) Ha az adózó a tárgyévet megelőző öt évben nem működött, illetve nem minősült áfa-regisztrált adóalanynak, az állami adó- és vámhatóság az (1) bekezdés b)–j) pontja szerinti feltételek fennállását a működés megkezdésétől, illetve az áfa-regisztált adóalanyiság kezdetétől vizsgálja.
+
+(3) E § (1) bekezdés b) pontjának alkalmazásában az adózó terhére megállapított összes adókülönbözetet csökkenteni kell a tárgyévben és az azt megelőző öt évben az állami adó- és vámhatóság által az adózó javára megállapított összes adókülönbözettel.

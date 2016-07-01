@@ -2,7 +2,7 @@
 
 161/A. § (1) Az állami adó- és vámhatóság – az e §-ban rögzített eltérésekkel – az adók módjára behajtandó köztartozások behajtására irányadó szabályok szerint az önkormányzati adóhatóság megkeresése alapján végrehajtja az önkormányzati adóhatóság által nyilvántartott helyi adóval, illetve gépjárműadóval összefüggő tartozásokat.
 
-(2) Az önkormányzati adóhatóság havonta, a hónapot követő hó 15. napjáig keresheti meg az állami adó- és vámhatóságot a legalább 10 000 forintot elérő tartozás végrehajtása céljából. A megkeresésben nem kell megjelölni azt a jogszabályt, amely az önkormányzati adóhatóságnál nyilvántartott tartozás végrehajtását lehetővé teszi.
+(2) Az önkormányzati adóhatóság havonta, a hónapot követő hó 15. napjáig keresheti meg az állami adó- és vámhatóságot a legalább 50 000 forintot elérő tartozás végrehajtása céljából. A megkeresésben nem kell megjelölni azt a jogszabályt, amely az önkormányzati adóhatóságnál nyilvántartott tartozás végrehajtását lehetővé teszi.
 
 (3) Az önkormányzati adóhatóság az állami adó- és vámhatóság megkeresése előtt megkísérli a tartozás átvezetéssel és visszatartás útján történő végrehajtását, ha ennek feltételei fennállnak.
 

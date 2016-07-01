@@ -6,4 +6,4 @@
 
 (3) Az adózó költségeit az adózó viseli.
 
-(4) Az (1) és (2) bekezdésben foglalt költségekről az adóhatóság határozatában (végzésében) rendelkezik.
+(4) Az (1) és (2) bekezdés szerinti költségekről – ha törvény eltérően nem rendelkezik – az adóhatóság határozatában (végzésében) rendelkezik.

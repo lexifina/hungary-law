@@ -12,7 +12,9 @@ d) az adatok gyűjtését célzó, illetőleg egyes gazdasági események valód
 
 e) az illetékkötelezettségek teljesítésére vonatkozó,
 
-f) az ellenőrzéssel lezárt időszakra vonatkozó ismételt
+f) az ellenőrzéssel lezárt időszakra vonatkozó ismételt,
+
+g) a feltételes adómegállapítás alapjául szolgáló tényállás megvalósulására vonatkozó
 
 ellenőrzéssel valósítja meg.
 

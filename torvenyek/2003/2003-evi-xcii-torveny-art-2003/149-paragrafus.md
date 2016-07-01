@@ -14,6 +14,8 @@ b) végrehajtható az adóhatósági határozat (végzés), de az abban meghatá
 
 (5) A biztosítási intézkedést elrendelő végzés ellen végrehajtási kifogásnak van helye, amelynek a végzés végrehajtására nincs halasztó hatálya.
 
+(5a) Biztosítási intézkedés keretében az adóhatóság az általa felülvizsgált, az adózót megillető költségvetési támogatást (adó-visszaigénylést, adó-visszatérítést) a biztosítási intézkedést elrendelő végzésben meghatározott kötelezettség erejéig zárolhatja. A zárolt összeg felett az adózó rendelkezési joga a biztosítási intézkedés időtartama alatt szünetel.
+
 (6) A biztosítási intézkedést elrendelő végzés alapján foganatosított végrehajtási cselekményeket a végrehajtási eljárás megindítása után nem kell megismételni. A végrehajtási eljárás alapjául szolgáló határozat (végzés) megsemmisítése esetén a biztosítási intézkedést meg kell szüntetni.
 
 (7) A biztosítási intézkedést elrendelő végzés végrehajtása során elvégzett foglalás hatálya kiterjed a végrehajtási eljárásra is.

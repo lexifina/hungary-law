@@ -1,6 +1,6 @@
 ## Adómérséklés
 
-134. § (1) Az adóhatóság a magánszemély kérelme alapján az őt terhelő adótartozást, valamint a bírság- vagy pótléktartozást mérsékelheti vagy elengedheti, ha azok megfizetése az adózó és a vele együtt élő közeli hozzátartozók megélhetését súlyosan veszélyezteti.
+134. § (1) Az adóhatóság a magánszemély kérelme alapján az őt terhelő adótartozást – a kifizető által a magánszemélytől levont adó- és járuléktartozás kivételével –, valamint a bírság- vagy pótléktartozást mérsékelheti vagy elengedheti, ha azok megfizetése az adózó és a vele együtt élő közeli hozzátartozók megélhetését súlyosan veszélyezteti. Az adóhatóság a mérséklést – az adózó teljesítőképességéhez mérten – az adótartozás egy részének megfizetéséhez kötheti.
 
 (2) Az adóhatóság az (1) bekezdésben foglaltakon túl más személy adóját nem engedheti el, és nem mérsékelheti.
 

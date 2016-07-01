@@ -14,7 +14,17 @@
 
 (4) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy a számla, egyszerűsített számla, nyugta nyomtatványok forgalmazásának, nyilvántartásának szabályait, valamint ezek előállításának, adóigazgatási azonosításra alkalmasságának feltételeit rendeletben határozza meg.
 
-(4a) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az élelmiszer-értékesítést kezelőszemélyzet nélkül végző automata berendezés adókötelezettségével és a bejelentési eljárásért fizetendő igazgatási szolgáltatási díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
+(4a) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy
+
+a) az automataberendezések üzemeltetőinek adókötelezettségével,
+
+b) a bejelentési eljárásért fizetendő igazgatási szolgáltatási díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével,
+
+c) az automataberendezések műszaki követelményeivel, üzemeltetésüknek és szervizelésüknek, valamint az automataberendezésekben rögzített adatok adóhatóság felé történő szolgáltatásával,
+
+d) a felügyeleti szolgáltatóval kapcsolatos követelményekkel és az automataberendezéshez kapcsolódó felügyeleti szolgáltatás minimális tartalmával, a hatósági árral és annak alkalmazási feltételeivel
+
+kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (5) Az adóhatóság a fizetési meghagyást, a fizetési felszólítást és az adóívet nyomtatványon is kiadhatja.
 
@@ -24,7 +34,7 @@
 
 (8) Az állami adóhatóság meghatározza és közzéteszi a rendszeresített nyomtatványok tartalmát és formáját, gondoskodik arról, hogy azok az adózók számára megfelelő időben, könnyen elérhető helyen álljanak rendelkezésre. A bevallási és adatszolgáltatási nyomtatványokat – ideértve az adóhatóság honlapján közzétett informatikai alkalmazásokat – a benyújtásukra előírt határidőt megelőzően legalább 30 nappal kell közzétenni. A térítés ellenében beszerezhető nyomtatványok gyártói kiválasztásának és forgalmazásának részletes szabályait a kormány rendeletben határozza meg.
 
-(9) A 31. § (2) bekezdésében meghatározott bevallás, valamint a 31/B. § szerinti általános forgalmi adó összesítő jelentés benyújtására, illetve a 8. számú melléklet szerint összesítő nyilatkozat benyújtására kötelezett adózó az e kötelezettség keletkezése időpontjától az állami adó- és vámhatósághoz teljesítendő valamennyi bevallási és adatszolgáltatási kötelezettségét, valamint fizetési könnyítési és adómérséklési tárgyú kérelmének előterjesztését, továbbá adóhatósági igazolás kiadására irányuló kérelmének előterjesztését – a 85/A. § (11) bekezdése szerinti igazolás iránti kérelem kivételével – elektronikus úton teljesíti. Az 5/A. § (6) bekezdésében meghatározott, sürgősségi eljárást kérő adózó fizetési könnyítési, valamint adómérséklési tárgyú kérelmének előterjesztését – a 85/A. § (11) bekezdése szerinti igazolás iránti kérelem kivételével – elektronikus úton teljesíti.
+(9) A 31. § (2) bekezdésében meghatározott bevallás, valamint a 31/B. § szerinti általános forgalmi adó összesítő jelentés benyújtására, illetve a 8. számú melléklet szerint összesítő nyilatkozat benyújtására kötelezett adózó az e kötelezettség keletkezése időpontjától az állami adó- és vámhatósághoz teljesítendő valamennyi bevallási és adatszolgáltatási kötelezettségét, valamint fizetési könnyítési és adómérséklési tárgyú kérelmének előterjesztését, módosítását, kiegészítését és visszavonását, továbbá adóhatósági igazolás kiadására irányuló kérelmének előterjesztését – a 85/A. § (11) bekezdése szerinti igazolás iránti kérelem kivételével – elektronikus úton teljesíti. Az 5/A. § (6) bekezdésében meghatározott, sürgősségi eljárást kérő adózó fizetési könnyítési, valamint adómérséklési tárgyú kérelmének előterjesztését – a 85/A. § (11) bekezdése szerinti igazolás iránti kérelem kivételével – elektronikus úton teljesíti.
 
 (10) Az adóazonosító számmal rendelkező adózó az állami adó- és vámhatósághoz teljesítendő bejelentési, változásbejelentési kötelezettségének elektronikus úton is eleget tehet, illetőleg adóügyeiben az adóhatóságnál a (13) bekezdés szerinti beadványait elektronikus úton is előterjesztheti.
 
@@ -129,3 +139,5 @@ részére az állami adóhatóság által teljesített adatátadással érintett
 (33) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy az élelmiszerlánc-felügyeletért felelős miniszter egyetértésével kiadott rendeletben határozza meg az EKAER működésével összefüggésben a kockázatos termékek körét.
 
 (34) Felhatalmazást kap az adópolitikáért felelős miniszter arra, hogy rendeletben állapítsa meg az online pénztárgép éves felülvizsgálatának részletes szabályait.
+
+(35) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg az adóintézkedések formájában megvalósuló állami támogatási programoknak az Európai Unió állami támogatási rendelkezéseivel való összhangját megteremtő szabályozást.

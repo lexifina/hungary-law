@@ -16,4 +16,4 @@ f) az egészségügyi szolgáltatási járulék kötelezettséget tartalmazó be
 
 (2) Az okirat végrehajthatóságához külön intézkedésre (záradékolás, végrehajtási lap kiállítása stb.) nincs szükség.
 
-(3) Az adótartozás után felszámított pótlék, kamat az adótartozásra vonatkozó végrehajtható okirat alapján hajtható végre.
+(3) Az adótartozás után felszámított pótlék, kamat, valamint a végrehajtási költségátalány az adótartozásra vonatkozó végrehajtható okirat alapján hajtható végre.

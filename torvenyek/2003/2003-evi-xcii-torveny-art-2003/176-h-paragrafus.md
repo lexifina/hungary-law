@@ -4,7 +4,11 @@
 
 (3) A hatósági árat alkalmazási feltételeivel együtt az adópolitikáért felelős miniszter állapítja meg.
 
+(3) Ezen alcím alkalmazásában hatósági ár az üzemeltető részére nyújtott, az automataberendezések adatszolgáltatását biztosító valamennyi szolgáltatás ára.
+
 (4) A hatósági ár megállapítása hivatalból történik.
+
+(4) Ezen alcím és a 175. § (4a) bekezdés alkalmazásában üzemeltető a külön jogszabály szerint automataberendezések használatára kötelezett.
 
 (5) A hatósági árat, valamint annak alkalmazási feltételeit a miniszter rendeletben hirdeti ki. A hatósági ár megállapításakor rendelkezni kell arról, hogy a hatósági ár mikor lép hatályba. A hatósági ár a már megkötött szerződésekre is vonatkozik.
 

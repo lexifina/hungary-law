@@ -53,33 +53,3 @@ Távolról is nyújtható szolgáltatásokat nyújtó adózókra vonatkozó kül
 4.1.5.4. azt, aki rendszeresen nem tartja be a különös szabályozás alkalmazására vonatkozó előírásokat.
 
 4.1.6. Az állami adó- és vámhatóság a különös szabályozás hatálya alatt álló adózókra vonatkozó nyilvántartásában az adózóra vonatkozó adatokat a regisztrációs (bejelentési) és bevallási adatok adózó által történő rendelkezésére bocsátásának, illetve az adózó különös szabályok alkalmazhatóságából történő kizárásának, kilépésének naptári éve végétől számított 5 évig nyilvántartja.
-
-4.1.7. A különös szabályozás hatálya alatt, illetve az ennek hatálya alól történő kizárást, kilépést követően is a HÉA-bevallás – különös szabályozás keretében történő – módosítására a bevallás benyújtására nyitva álló határidő lejártát követő 3 évig van lehetőség.
-
-4.2. A HÉA-bevallására, megfizetésére, nyilvántartására vonatkozó különös szabályok
-
-4.2.1. Az adózó minden egyes naptári negyedévre vonatkozóan, elektronikus úton HÉA-bevallást nyújt be – függetlenül attól, hogy nyújtott-e a különös szabályozás hatálya alá tartozó szolgáltatást – azon adómegállapítási időszak végét követő húsz napon belül, amelyre a bevallás vonatkozik.
-
-4.2.2. A HÉA-bevallás tartalmazza:
-
-4.2.2.1. az azonosító számot
-
-4.2.2.2. az adómegállapítási időszakban nyújtott távolról is nyújtható szolgáltatások HÉA nélküli teljes összegét minden egyes olyan teljesítési hely szerinti tagállam tekintetében, amelyben HÉA fizetendő,
-
-4.2.2.3. a vonatkozó HÉA – adómértékek szerint lebontott – teljes összegét,
-
-4.2.2.4. az alkalmazandó HÉA-mértéket minden egyes olyan teljesítési hely szerinti tagállam tekintetében, amelyben a HÉA fizetendő,
-
-4.2.2.5. a fizetendő HÉA teljes összegét minden egyes olyan teljesítési hely szerinti tagállam tekintetében, amelyben a HÉA fizetendő.
-
-4.2.3. A HÉA-bevallást euróban kell elkészíteni, az adómegállapítási időszak utolsó napján érvényes, az Európai Központi Bank által az adott napra vonatkozóan közzétett átváltási árfolyamon. Ha az érintett napon nem tettek közzé átváltási árfolyamot, akkor a következő közzétételi napon kiadott árfolyamot kell alkalmazni.
-
-4.2.4. A HÉA-t a bevallás benyújtásával egy időben, legkésőbb a bevallás benyújtására előírt határidőig, az állami adó- és vámhatóság által közzétett euró bankszámlára euróban, átutalással kell megfizetni, hivatkozva a befizetés alapjául szolgáló HÉA-bevallásra. Bármely, az adózó önhibájából eredő, az adóhatóságot terhelő utalási költség, így különösen a téves, beazonosíthatatlan utalás költsége az adózót terheli.
-
-4.2.5. Az adózó e törvény 44. §-ában megállapított nyilvántartás-vezetési kötelezettségének oly módon tesz eleget, hogy a teljesítési hely adóhatósága által végzett ellenőrzést is lehetővé tegye. Az adózó a nyilvántartást felhívásra elektronikus úton is rendelkezésre bocsátja. A nyilvántartást a távolról is nyújtható szolgáltatás általános forgalmi adóról szóló törvény szerinti teljesítési időpontját magában foglaló naptári év utolsó napjától számított 10 évig kell megőrizni.
-
-5. Belföldön letelepedett adózókra vonatkozó szabályok
-
-5.1. Bejelentkezésre, bejelentésre, változásbejelentésre és nyilvántartásba vételre vonatkozó szabályok
-
-5.1.1. Az adózó a különös szabályozás alkalmazására vonatkozó választásakor az állami adó- és vámhatósághoz bejelenti:

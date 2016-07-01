@@ -4,6 +4,8 @@
 
 (3) Az (1) bekezdés szerinti cselekmény ellátásáért a pályázat nyertesét a külön megállapodásban foglaltak szerint fizetendő ellenérték, de legfeljebb a beszedett adó nyolc százaléka illeti meg.
 
+(3a) Adók módjára behajtandó köztartozásnak a pályázat nyertese útján történő érvényesítése esetén a behajtást kérő köteles az adóhatóság felhívására a (3) bekezdés szerinti jutalék összegét megfizetni. Az adóhatóság eredménytelen felszólítást követően határozattal kötelezi a behajtást kérőt a jutalék összegének megfizetésére. A határozat az adóigazgatási eljárásban végrehajtható okiratnak minősül.
+
 (4) Az adóhatóság a fizetési kötelezettséget megállapító határozatot, illetőleg végrehajtható okiratot (a továbbiakban: megkeresést) a pályázat nyerteséhez negyedévenként küldi meg. A megkeresés továbbítását követő változásról az adóhatóság a pályázat nyertesét haladéktalanul értesíti. Amíg a pályázat nyertese az eljárás eredménytelenségéről nem értesíti az adóhatóságot, a fizetésre kötelezett személy belföldi vagyona ellen végrehajtási cselekmény nem foganatosítható. Amennyiben a pályázat nyertese az eljárás eredményességéről a megkeresés továbbításától számított 6 hónap elteltével nem nyilatkozik, az adóhatóság a fizetésre kötelezett ingatlanára jelzálogjogot jegyezhet be.
 
 (5) Nem szükséges a pályázat nyertesének igénybevétele akkor, ha a fizetésre kötelezett személy a fizetési kötelezettség érvényesítésekor belföldön tartózkodik és a fizetési kötelezettség érvényesítésének egyéb akadálya sincsen, továbbá akkor sem, ha a fizetésre kötelezett személynek e törvény szerinti képviseleti jogosultsággal rendelkező belföldi meghatalmazottja van.
