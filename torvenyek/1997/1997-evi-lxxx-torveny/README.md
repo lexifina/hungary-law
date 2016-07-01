@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-80-00-00
 | 2015-07-01 | 2015. évi XLII. törvény | 1997-80-00-00.77 |
 | 2016-01-01 | 2015. évi CCXXIII. törvény | 1997-80-00-00.78 |
 | 2016-06-16 | 2016. évi LXVI. törvény | 1997-80-00-00.79 |
+| 2016-07-01 | 2016. évi LXIV. törvény | 1997-80-00-00.80 |
