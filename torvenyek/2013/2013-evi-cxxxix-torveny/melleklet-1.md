@@ -1,6 +1,6 @@
 1. melléklet a 2013. évi CXXXIX. törvényhez
 
-## Kötelező elektronikus kapcsolattartással érintett ügyek
+## I. Kötelező elektronikus kapcsolattartással érintett ügyek
 
 ## Az MNB és
 
@@ -14,7 +14,7 @@
 
 ## 3. nyilvános, nyílt végű ingatlanalap tájékoztatója, kezelési szabályzata, hirdetménye és kiemelt befektetői információi jóváhagyására, az ingatlanértékelő megbízásának jóváhagyására,
 
-## 4. nyilvános, zárt végű értékpapír alap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, a kezelési szabályzat jóváhagyására,
+## 4. nyilvános, zárt végű értékpapíralap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, a kezelési szabályzat jóváhagyására,
 
 ## 5. nyilvános, zárt végű ingatlanalap esetén a kibocsátási tájékoztató/alaptájékoztató, hirdetmény közzétételének engedélyezésére, kezelési szabályzat jóváhagyására, az ingatlanértékelő megbízásának jóváhagyására,
 
@@ -40,7 +40,7 @@
 
 ## 6. a cél-ÁÉKBV szétválása vagy másik ÁÉKBV-vel való egyesülése esetén annak engedélyezésére, hogy a gyűjtő-ÁÉKBV eszközeinek legalább 85 százalékát egy másik, nem az egyesülés vagy szétválás eredményeképp létrejött cél-ÁÉKBV kollektív befektetési értékpapírjaiba fektesse,
 
-## 7. a cél-ÁÉKBV szétválása, egyesülése, megszűnése esetén a gyűjtő-ÁÉKBV számára annak engedélyezésére, hogy a Kbftv. 143. § (4) bekezdésének b) pontja, valamint a Kbftv. 143. § (6) bekezdésének c) pontja szerint nem gyűjtő-ÁÉKBV-ként működjön tovább,
+## 7. a cél-ÁÉKBV szétválása, egyesülése, megszűnése esetén a gyűjtő-ÁÉKBV számára annak engedélyezésére, hogy a Kbftv. 143. § (4) bekezdés b) pontja, valamint a Kbftv. 143. § (6) bekezdés c) pontja szerint nem gyűjtő-ÁÉKBV-ként működjön tovább,
 
 ## 8. a cél-ÁÉKBV egyesülése vagy szétválása esetén a gyűjtő-ÁÉKBV törlésére,
 
@@ -110,7 +110,7 @@
 
 ## i) a zártkörű részvénytársasággá alakuló, értékpapírt nyilvánosan forgalomba hozott kibocsátó között a nyilvánosság felé történő adatszolgáltatási kötelezettség alóli mentesítésre,
 
-## j) a nem természetes személy ajánlattevő vagy az általa a Tpt. 68. § (4) bekezdés alapján megbízott befektetési szolgáltató között
+## j) a nem természetes személy ajánlattevő vagy az általa a Tpt. 68. § (4) bekezdése alapján megbízott befektetési szolgáltató között
 
 ## ja) az általuk tett nyilvános vételi ajánlat jóváhagyására,
 
@@ -119,3 +119,35 @@
 ## k) a nyilvánosan forgalomba hozott értékpapír kibocsátója között a szabályozott információ bejelentésére
 
 ## vonatkozó eljárásban kizárólag elektronikus úton történhet a kapcsolattartás.
+
+## II. Elektronikus kapcsolattartással érintett egyéb ügyek
+
+## Az MNB és
+
+## a) a hitelintézet, a hitelintézettel egyenértékű prudenciális szabályozásnak megfelelő pénzügyi vállalkozás, továbbá ezek magyarországi fióktelepe,
+
+## b) a pénzügyi vállalkozás és a pénzügyi vállalkozás magyarországi fióktelepe, valamint a Hpt. hatálya alá tartozó alkusz,
+
+## c) a befektetési vállalkozás, a befektetési vállalkozás magyarországi fióktelepe és az árutőzsdei szolgáltató,
+
+## d) a biztosító, a biztosító magyarországi fióktelepe és a viszontbiztosító,
+
+## e) a független biztosításközvetítő és a többes ügynök,
+
+## f) a befektetési alapkezelő és magyarországi fióktelepe,
+
+## g) a központi szerződő fél, a központi értéktár,
+
+## h) a tőzsde,
+
+## i) a foglalkoztatói nyugdíjszolgáltató intézmény,
+
+## j) az önkéntes nyugdíjpénztár, az önkéntes kölcsönös egészségpénztár és az önkéntes kölcsönös önsegélyező pénztár,
+
+## k) a magánnyugdíjpénztár,
+
+## l) az elektronikuspénz-kibocsátó intézmény, a pénzforgalmi intézmény, az elektronikuspénz-kibocsátó intézmény magyarországi fióktelepe, pénzforgalmi intézmény magyarországi fióktelepe és az utalványkibocsátó, és
+
+## m) a Posta Elszámoló Központot működtető intézmény
+
+## között a 48. § (1) bekezdés b) pontjában meghatározott ellenőrzési eljárásban elektronikus úton is történhet a kapcsolattartás az MNB által elektronikus úton kézbesített irat tekintetében.

@@ -2,7 +2,7 @@
 
 33. § (1) Az MNB elnöke a Monetáris Tanács által meghatározott stratégiai keretek között, a Pénzügyi Stabilitási Tanács döntése alapján rendeletében szabályozza az anticiklikus tőkepuffer képzésének feltételeit.
 
-(2) Az MNB elnöke a Monetáris Tanács által meghatározott stratégiai keretek között, a Pénzügyi Stabilitási Tanács döntése alapján az anticiklikus tőkepufferráta meghatározásához negyedévente irányadó pufferrátát – az anticiklikus tőkepufferráta meghatározásának alapjául szolgáló rátát – állapít meg, amelynél figyelembe veszi
+(2) A Monetáris Tanács által meghatározott stratégiai keretek között, a Pénzügyi Stabilitási Tanács az anticiklikus tőkepufferráta meghatározásához negyedévente irányadó pufferrátát – az anticiklikus tőkepufferráta meghatározásának alapjául szolgáló rátát – állapít meg, amelynél figyelembe veszi
 
 a) a hitelezési ciklus állapotát,
 

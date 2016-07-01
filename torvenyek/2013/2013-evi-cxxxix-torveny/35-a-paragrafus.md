@@ -1,6 +1,6 @@
 ## 23/A. Rendszerszintű vagy makroprudenciális kockázatot csökkentő intézkedések
 
-35/A. § (1) Ha a nem ciklikus, rendszerszintű vagy makroprudenciális kockázatok kialakulásának megelőzése és csökkentése, és a pénzügyi közvetítőrendszer ellenálló képességének növelése indokolja, akkor az MNB elnöke a Monetáris Tanács által meghatározott stratégiai keretek között, a Pénzügyi Stabilitási Tanács döntése alapján rendszerkockázati tőkepufferrátát határozhat meg.
+35/A. § (1) Ha a nem ciklikus, rendszerszintű vagy makroprudenciális kockázatok kialakulásának megelőzése és csökkentése, és a pénzügyi közvetítőrendszer ellenálló képességének növelése indokolja, akkor a Pénzügyi Stabilitási Tanács a Monetáris Tanács által meghatározott stratégiai keretek között rendszerkockázati tőkepufferrátát határozhat meg.
 
 (2) A 141/A. § (1) bekezdésében meghatározott tájékoztatás magában foglalja:
 

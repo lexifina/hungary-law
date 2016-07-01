@@ -35,3 +35,5 @@
 (18) Az MNB a 39. § (1) bekezdés m) pontjában meghatározott feladatai során ellátja az európai hosszú távú befektetési alapokról szóló, 2015. április 29-i 760/2015/EU parlamenti és tanácsi rendelet végrehajtását.
 
 (19) Az MNB a 39. § (1) bekezdés o) pontjában meghatározott feladatai során ellátja a kártyaalapú fizetési műveletek bankközi jutalékairól szóló, 2015. április 29-i 2015/751/EU parlamenti és tanácsi rendelet végrehajtásából származó feladatokat.
+
+(20) Az MNB a 39. § (1) bekezdés h) pontjában meghatározott feladatai során ellátja a piaci visszaélésekről (piaci visszaélésekről szóló rendelet), valamint a 2003/6/EK európai parlamenti és tanácsi irányelv és a 2003/124/EK, a 2003/125/EK és a 2004/72/EK bizottsági irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 596/2014/EU európai parlamenti és tanácsi rendelet végrehajtását.

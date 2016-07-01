@@ -12,6 +12,8 @@ c) az eljárás folytatása lehetetlen,
 
 d) az eljárás folytatására a tanács megítélése szerint bármely okból – ideértve a kérelem megalapozatlanságát is – nincs szükség.
 
+e) a 107. §-ban meghatározott valamely körülmény a tudomására jut.
+
 (4) A tanács az ügy érdemében szótöbbséggel dönt.
 
 (5) A tanács az eljárást az annak megindulását követő kilencven napon belül befejezi, indokolt esetben ezt a határidőt a Pénzügyi Békéltető Testület elnöke legfeljebb harminc nappal meghosszabbíthatja.

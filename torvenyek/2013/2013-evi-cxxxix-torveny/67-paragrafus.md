@@ -8,7 +8,7 @@
 
 (5) Helyszíni ellenőrzés bármely olyan helyen foganatosítható, ahol a tényállás tisztázásához szükséges bizonyíték lelhető fel. Az ellenőrzést végző személy hatásköre gyakorlásának keretei között az ellenőrzés lefolytatásához szükséges helyiségekbe beléphet, az ellenőrzés tárgyával összefüggő iratot, adathordozót, tárgyat, munkafolyamatot figyelemmel kísérhet, megvizsgálhat, az ügyféltől, annak képviselőjétől, továbbá az ellenőrzés helyszínén tartózkodó bármely más személytől felvilágosítást, nyilatkozatot kérhet vagy készíthet, próbaügyletkötést végezhet, továbbá egyéb bizonyítást folytathat le.
 
-(6) A helyszíni ellenőrzés során az MNB jogosult bármilyen adathordozóról fizikai tükörmásolatot készíteni és a tükörmásolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
+(6) A helyszíni ellenőrzés során az MNB jogosult bármilyen adathordozóról – ideértve valamely tárhelyszolgáltató által tárolt adatokat is – fizikai tükörmásolatot vagy hiteles másolatot készíteni és a másolat felhasználásával az adathordozón tárolt adatokat átvizsgálni.
 
 (7) Ha a helyszíni ellenőrzést az MNB informatikai eszköz útján végzi, annak elvégzésére való jogosultság igazolását követően – szükség szerint az informatikai rendszerhez történő hozzáférés technikai és jogosultsági feltételeinek biztosításával – az MNB számára hozzáférést kell biztosítania az adatokhoz.
 

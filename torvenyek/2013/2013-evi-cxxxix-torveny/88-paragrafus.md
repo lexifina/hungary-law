@@ -20,4 +20,6 @@ f) fogyasztóvédelmi bírságot szabhat ki.
 
 a) az MNB-nek a jogsértést megállapító jogerős határozatában előírt kötelezettség teljesítésére megállapított határnap elteltét, illetve határidő lejártát követő hat hónapon belül ugyanaz a szervezet vagy személy ugyanazon jogszabályi rendelkezést ismételten megsértette, vagy
 
-b) a jogsértés a fogyasztók széles körét érinti.
+b) a jogsértés a fogyasztók széles körét érinti,
+
+c) a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet megsérti a 108. § (5) bekezdésében meghatározott együttműködési kötelezettségét és e kötelezettség megsértését alapos okkal nem menti ki.

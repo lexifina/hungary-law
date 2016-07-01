@@ -10,6 +10,4 @@
 
 (6) Ha az ügyfél a (2), (3) és (4) bekezdésben meghatározott eljárás lefolytatása iránti kérelmet hiányosan nyújtotta be, az MNB a kérelmezőt harminc napon belül hiánypótlásra hívja fel.
 
-(7) Ha a hiánytalanul rendelkezésre álló kérelem és mellékletei nem felelnek meg a jogszabályban foglalt feltételeknek, célszerűtlen vagy szakszerűtlen előírást tartalmaznak, az MNB a hiánytalan beérkezést követő harminc napon belül – megfelelő határidő megjelölése mellett – az ügyfelet a kérelem vagy annak melléklete kiegészítésére, illetve módosítására hívja fel.
-
-(8) Az MNB a kérelem kiegészítésének, illetve módosításának elrendelése során figyelmezteti az ügyfelet arra, hogy annak elmulasztása vagy nem megfelelő teljesítése esetén a rendelkezésre álló adatok alapján érdemben bírálja el a kérelmet.
+(7)–(8)

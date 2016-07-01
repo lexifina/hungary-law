@@ -1,14 +1,14 @@
-53. § (1) Az MNB a hatósági eljárásban hozott döntéseivel kapcsolatban a honlapján közzéteszi
+53. § (1) Az MNB a hatósági eljárásban hozott határozataival kapcsolatban a honlapján közzéteszi
 
 a) a határozat számát és tárgyát,
 
 b) a hatósági eljárásban érintett – nem természetes személy – ügyfél nevét és székhelyét,
 
-c) a döntés rendelkező részét, ide nem értve jogerős döntés esetén a jogorvoslatról szóló tájékoztatást,
+c) a határozat rendelkező részét, ide nem értve jogerős határozat esetén a jogorvoslatról szóló tájékoztatást,
 
-d) a döntése ellen indított jogorvoslati eljárás tényét,
+d) a határozata ellen indított jogorvoslati eljárás tényét,
 
-e) a döntése elleni jogorvoslati eljárás során hozott jogerős ítélet rendelkező részét.
+e) a határozata elleni jogorvoslati eljárás során hozott jogerős ítélet rendelkező részét.
 
 (1a) Az (1) bekezdésben meghatározottakat meghaladóan az MNB a Hpt. 185. § és 189–192. §, a Tpt. 400. § (1) bekezdés o) pont 2. alpont, a Tpt. 400. § (1) bekezdés w) pont, a Bszt. 164. §, és a Kbftv. 174/A. § alapján hozott, (1) bekezdés szerint közzétett, jogerős határozatában megjelöli a jogsértő természetes személy nevét is.
 

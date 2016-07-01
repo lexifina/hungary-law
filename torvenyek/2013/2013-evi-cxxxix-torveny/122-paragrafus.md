@@ -1,1 +1,1 @@
-122. § Ha a 39. §-ban meghatározott törvények hatálya alá tartozó személy vagy szervezet megsérti a pénzügyi fogyasztói jogvita rendezésére vonatkozó rendelkezéseket, vele szemben az MNB e törvény szerinti intézkedést alkalmazhat.
+### 122. §

@@ -1,4 +1,4 @@
-74. § (1) Az MNB eljárásában a döntés meghozataláig terjedő időtartamra a végrehajtás felfüggesztésére irányuló kérelemre tekintet nélkül végrehajtható végzésben
+74. § (1) Az MNB eljárásában a döntés meghozataláig terjedő időtartamra az önálló jogorvoslattal meg nem támadható végzésben
 
 a) a 39. §-ban meghatározott, az adott tevékenységre vonatkozó törvény szerinti intézkedést, kivételes intézkedést alkalmazza, ha erre – az érdekeltek jogi vagy gazdasági érdekeinek védelme miatt – halaszthatatlanul szükség van,
 

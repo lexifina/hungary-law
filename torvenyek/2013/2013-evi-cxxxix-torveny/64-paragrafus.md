@@ -34,11 +34,11 @@ d) a szövetkezeti hitelintézetek integrációjáról és egyes gazdasági tár
 
 (5) Az MNB hivatalból témavizsgálatot több személynél és szervezetnél végezhet a 62. § (1) bekezdésben meghatározott az azonos vagy hasonló jellegű jogszabályi rendelkezések betartásának összehangolt és összehasonlító ellenőrzése céljából.
 
-(6) Az MNB rendkívüli célvizsgálatot indít a 39. § hatálya alá tartozó személyeknél és szervezeteknél a 62. § (1) bekezdésben meghatározott jogszabályi rendelkezések súlyos megsértésének megalapozott gyanúja esetén, ha a jogsértés
+(6) Ha a (4) bekezdésben meghatározott célvizsgálat lefolytatása különösen jelentős késedelemmel járna, az MNB rendkívüli célvizsgálatot indít a 39. § hatálya alá tartozó személyeknél és szervezeteknél a 62. § (1) bekezdésében meghatározott jogszabályi rendelkezések súlyos megsértésének megalapozott gyanúja esetén, ha a jogsértés
 
 a) az ügyfelek nagy számát érinti,
 
-b) jelentős rendszerkockázattal jár, vagy
+b) jelentős rendszerkockázattal jár vagy
 
 c) az adott piacba vetett bizalmat általánosan veszélyezteti.
 

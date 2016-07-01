@@ -24,4 +24,4 @@ i) méltányosság iránti kérelem esetén a fogyasztó nyilatkozatát arra von
 
 (4) A kérelemhez csatolni kell a képviselő meghatalmazását, ha a fogyasztó meghatalmazott útján jár el.
 
-(5) Ha a kérelem nem felel meg a (2)–(4) bekezdésben foglaltaknak, a Pénzügyi Békéltető Testület a kérelmet – annak beérkezésétől számított tizenöt napon belül – a hiányok megjelölése mellett pótlás végett a kérelmezőnek visszaküldi.
+(5) Ha a kérelem nem felel meg a (2)–(4) bekezdésben foglaltaknak, a Pénzügyi Békéltető Testület a kérelmet – annak beérkezésétől számított tizenöt munkanapon belül – a hiányok megjelölése mellett pótlás végett a kérelmezőnek visszaküldi.

@@ -14,17 +14,17 @@ ae) határon átnyúló tevékenység bejelentésére,
 
 af) fióktelep létesítésére,
 
-ag) a szabályzatának jóváhagyására vagy módosítására,
+ag) a szabályzatának jóváhagyására vagy módosításának jóváhagyására,
 
 ah) a minősített befolyás engedélyezésére,
 
 ai) a független és függő közvetítő igénybevételéhez szükséges engedélyezésre vagy nyilvántartásba vételre,
 
-aj) a sorozatban kibocsátott értékpapír forgalomba hozatalával kapcsolatos tájékoztatási kötelezettség megszüntetésére,
+aj) a nyilvánosan forgalomba hozott értékpapír kibocsátójának tájékoztatási kötelezettsége megszüntetésére,
 
-ak) a sorozatban kibocsátott értékpapír forgalomba hozatalára és szabályozott piacra történő bevezetésére vagy multilaterális kereskedési rendszerbe történő regisztrálására,
+ak) a sorozatban kibocsátott értékpapír nyilvános forgalomba hozatalához, illetve szabályozott piacra történő bevezetéséhez vagy multilaterális kereskedési rendszerbe történő regisztrálásához szükséges tájékoztató vagy alaptájékoztató és hirdetmény közzétételének engedélyezésére,
 
-al) a nyilvánosan működő társaságban történő befolyásszerzésre
+al) a nyilvánosan működő részvénytársaságban történő befolyásszerzéshez szükséges nyilvános vételi ajánlat jóváhagyására,
 
 irányuló eljárásért fizetendő igazgatási-szolgáltatási díj mértékére, valamint a díj beszedésére, kezelésére, nyilvántartására, visszatérítésére vonatkozó részletes szabályokat.
 
@@ -34,6 +34,6 @@ c) az MNB által elfogadott, illetve a nemzetközi pénzügyi piacokon általáb
 
 d) a 59. § (4) bekezdésében meghatározottak alapján alkalmazandó formanyomtatvány és elektronikus űrlap tartalmára, formájára és benyújtására,
 
-e) az 1. mellékletben meghatározott kötelező elektronikus kapcsolattartással érintett ügyekben a szervezet és az MNB között kizárólagos elektronikus kapcsolattartás rendjére, módjára, tartalmára és formájára, továbbá az MNB által működtetett kézbesítési tárhely működtetésére és használatára
+e) az 1. mellékletben meghatározott elektronikus kapcsolattartással érintett ügyekben a szervezet és az MNB között kizárólagos elektronikus kapcsolattartás rendjére, módjára, tartalmára és formájára, továbbá az MNB által működtetett kézbesítési tárhely működtetésére és használatára
 
 vonatkozó részletes szabályokat.
