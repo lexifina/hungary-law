@@ -7,3 +7,7 @@
 (3) Fokozottan védett növényfaj esetén az OKTF jár el elsőfokú természetvédelmi hatóságként a Tvt. 42. § (3) bekezdés c) és e)–h) pontjában meghatározott esetben országos illetékességgel.
 
 (4) Fokozottan védett állatfaj esetén – ha a védett állatfajokra vonatkozó részletes szabályokat megállapító kormányrendelet eltérően nem rendelkezik – az OKTF jár el a Tvt. 43. § (2) bekezdés a)–k) és m) pontjában foglalt elsőfokú természetvédelmi hatóságként, valamint a Tvt. 78. § (4) bekezdésében foglaltak esetén országos illetékességgel.
+
+(5)[^2] Az OKTF jár el a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 21. § (4) bekezdésében foglalt természetvédelmi hatóságként.
+
+[^2]: A 15. § (5) bekezdését a 37/2016. (III. 3.) Korm. rendelet 7. §-a iktatta be.
