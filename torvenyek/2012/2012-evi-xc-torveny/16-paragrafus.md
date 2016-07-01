@@ -1,1 +1,0 @@
-16. § Az ellátásért felelős önkormányzat a közszolgáltatási díjakat tartalmazó rendeletét felülvizsgálja és szükség szerint módosítja annak érdekében, hogy az 2013. július 1-jén megfeleljen a 10/A. §-ban foglaltaknak és az e törvény végrehajtására vonatkozó jogszabályoknak.
