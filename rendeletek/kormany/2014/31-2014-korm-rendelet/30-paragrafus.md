@@ -14,13 +14,13 @@ az építtető, vagy amennyiben az építtető személye nem ismert, a tulajdono
 
 (3) Az eljárás során az építésügyi hatóság az eljárás megindításáról értesítést és hiánypótlásra felhívást nem bocsát ki, a szakhatóságot nem keresi meg.
 
-(4)[^24] Az építésügyi hatóság az (1) bekezdés szerinti kérelemben az eljárás megindulásától számított nyolc napon belül az előírt feltételek fennállása esetén
+(4)[^25] Az építésügyi hatóság az (1) bekezdés szerinti kérelemben az eljárás megindulásától számított nyolc napon belül az előírt feltételek fennállása esetén
 
 a) az elutasításról határozatban dönt, vagy
 
 b) a szabálytalanságot – bírság kiszabásának mellőzésével – hallgatással tudomásul veszi.
 
-(5)[^25] A (4) bekezdés b) pontja szerinti tudomásulvételt a Ket. szerinti függő hatályú döntésre vonatkozó rendelkezések tekintetében a (4) bekezdés szerinti határidőben meghozott érdemi döntésnek kell tekinteni.
+(5)[^26] A (4) bekezdés b) pontja szerinti tudomásulvételt a Ket. szerinti függő hatályú döntésre vonatkozó rendelkezések tekintetében a (4) bekezdés szerinti határidőben meghozott érdemi döntésnek kell tekinteni.
 
-[^24]: A 30. § (4) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 224. § b) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^25]: A 30. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 223. § (4) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^25]: A 30. § (4) bekezdés nyitó szövegrésze a 441/2015. (XII. 28.) Korm. rendelet 224. § b) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^26]: A 30. § (5) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 223. § (4) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

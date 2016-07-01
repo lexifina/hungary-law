@@ -20,10 +20,10 @@ c) azzal a hatósággal, amely az ügyben szakhatósági állásfoglalást adott
 
 a) az építtetővel vagy meghatalmazottjával,
 
-b)–d)[^17]
+b)–d)[^18]
 
 e) mindazokkal, akiknek értesítését jogszabály előírja.
 
 (4) Az építési engedélyezési eljárás során hozott jogerős döntés a hozzátartozó, engedélyezési záradékkal ellátott tervdokumentációban foglaltakkal együtt hatályos.
 
-[^17]: A 14. § (3) bekezdés b)–d) pontját a 70/2015. (III. 30.) Korm. rendelet 243. § (6) bekezdés b) pontja hatályon kívül helyezte.
+[^18]: A 14. § (3) bekezdés b)–d) pontját a 70/2015. (III. 30.) Korm. rendelet 243. § (6) bekezdés b) pontja hatályon kívül helyezte.

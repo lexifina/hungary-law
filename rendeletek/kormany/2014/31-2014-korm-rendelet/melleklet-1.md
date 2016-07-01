@@ -1,4 +1,4 @@
-## 42. §[^28] E rendelet 2. § 8a., 10a. és 12a–12c. pontja, 11/A. §-a, 12. § (1) bekezdés d) pontja, 12. § (1a)–(1e) bekezdése, valamint 7. melléklete az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 14. cikkének való megfelelést szolgálja.
+## 42. §[^29] E rendelet 2. § 8a., 10a. és 12a–12c. pontja, 11/A. §-a, 12. § (1) bekezdés d) pontja, 12. § (1a)–(1e) bekezdése, valamint 7. melléklete az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 14. cikkének való megfelelést szolgálja.
 
 1. melléklet a 31/2014. (II. 12.) Korm. rendelethez
 
@@ -30,4 +30,4 @@
 
 13. Az érintett közmű-, közút-, vasút-üzemeltetők nyilatkozatai.
 
-[^28]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 122/2015. (V. 26.) Korm. rendelet 42. §-a iktatta be.
+[^29]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 122/2015. (V. 26.) Korm. rendelet 42. §-a iktatta be.

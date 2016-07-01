@@ -1,5 +1,3 @@
-## 3. § A rendelet hatálya alá tartozó építési tevékenység végzéséhez – kormányrendelet eltérő rendelkezése hiányában – az építésügyi hatóság eljárásának lefolytatása szükséges.
-
 ## 4. § Az építésügyi hatóság
 
 a) építési engedélyezési,

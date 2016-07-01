@@ -40,4 +40,6 @@
 
 3. A vasúti pályahálózat működtetői
 
-4. Kéményseprőipari szolgáltató szerv (vállalkozó)
+4.[^33] Kéményseprő-ipari szerv, kéményseprő-ipari szolgáltató, kéményseprő-ipari közszolgáltató
+
+[^33]: A 4. melléklet 4. pontja a 99/2016. (V. 13.) Korm. rendelet 9. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését.
