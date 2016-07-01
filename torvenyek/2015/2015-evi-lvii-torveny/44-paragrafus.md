@@ -34,6 +34,8 @@ m) Magyarországnak az Európai Bizottság felé teljesítendő energiahatékony
 
 n) az energiamegtakarítás összehasonlításakor és összevethető mértékegységre történő átváltásakor alkalmazandó átváltási tényezőket,
 
-o) a 7. § f) pontja szerinti költség-haszon elemzéssel kapcsolatos kötelezettségek megszegése esetén a kiszabható bírság mértékét
+o) a 7. § f) pontja szerinti költség-haszon elemzéssel kapcsolatos kötelezettségek megszegése esetén a kiszabható bírság mértékét,
+
+p) a távhűtés mérésével, elszámolásával, a díjfizetéssel, a számlázással és a felhasználók tájékoztatásával kapcsolatos rendelkezéseket, a felek jogait és kötelezettségeit;
 
 rendeletben állapítsa meg.

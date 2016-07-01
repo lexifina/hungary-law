@@ -66,7 +66,7 @@
 
 30. végrehajtási időszak: az energiahatékonysági célkitűzés végrehajtására rendelkezésre álló, 2014. január 1-jétől 2020. december 31-ig terjedő időszak;
 
-31. végső felhasználó: az a természetes személy vagy szervezet, aki vagy amely saját felhasználására vásárol energiát;
+31. végső felhasználó: az a természetes személy vagy szervezet, aki vagy amely saját felhasználására vásárol energiát; távhűtéssel ellátott épület esetében, ha a távhűtési szolgáltatás a több személy tulajdonában lévő épület valamennyi épületrészében – a közös használatú épületrészek kivételével – mérhető, végső felhasználónak kell tekinteni az egyes épületrészek tulajdonosát is.
 
 32. végsőenergia-fogyasztás: az ipar, a közlekedés, a háztartások, a szolgáltatások és a mezőgazdaság számára szolgáltatott energia, az energiaátalakítási ágazatnak és az energetikai iparnak szolgáltatott energiaszállítás kivételével;
 

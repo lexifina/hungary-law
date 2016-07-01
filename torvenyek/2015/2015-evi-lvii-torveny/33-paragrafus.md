@@ -20,6 +20,8 @@ g) a névjegyzékbe vétel és a névjegyzékből törlés időpontja.
 
 (4) Az energetikai auditáló szervezet a bekövetkezéstől számított 8 napon belül köteles bejelenteni a regisztráló szervezetnek a névjegyzékben nyilvántartott adataiban bekövetkezett változást.
 
+(4a) A (4) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle az energetikai auditáló szervezet kéri – a (4) bekezdés szerinti határidőben értesíti a regisztráló szervezetet.
+
 (5) Ha az energetikai auditáló szervezet a (4) bekezdésben meghatározott kötelezettségét a regisztráló szervezet tudomásszerzését követő 8 napon belül megküldött figyelmeztetése ellenére 8 napon belül sem teljesíti, a Hivatal 100 000 forintig terjedő bírsággal sújtja.
 
 (6) Az energetikai auditáló szervezetet a névjegyzékből törölni kell a Szolgtv. 28. § a) és b) pontjában foglalt esetben, valamint ha az energetikai auditáló szervezet megszűnt.
