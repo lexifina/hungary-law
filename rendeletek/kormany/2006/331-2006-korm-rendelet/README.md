@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-331-20-
 | 2015-04-01 | 2006-331-20-22.27 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-09-01 | 2006-331-20-22.28 | 173/2009. (VIII. 29.) Korm. rendelet |
 | 2015-10-02 | 2006-331-20-22.29 | 284/2015. (IX. 29.) Korm. rendelet |
+| 2016-07-01 | 2006-331-20-22.30 | 173/2009. (VIII. 29.) Korm. rendelet |

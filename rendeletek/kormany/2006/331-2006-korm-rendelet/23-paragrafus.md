@@ -30,7 +30,7 @@ b)[^101] elhelyezte, és számára gyermekvédelmi gyámot rendelt, az ideiglene
 
 (11)[^112] Az örökbefogadás engedélyezéséhez kapcsolódó, a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 46. § (6) bekezdése szerinti határozat meghozatalára az örökbefogadás engedélyezéséről határozatot hozó gyámhivatal illetékes.
 
-(12)[^113] A kisajátításról szóló törvény alapján kirendelt ügygondnok és eseti gondnok kirendelésére az ingatlan fekvése szerinti gyámhivatal illetékes.
+(12)[^113]
 
 (13)[^114] A védelembe vételi eljárás lefolytatására illetékes gyámhivatal intézkedik a családi pótlék természetbeni formában történő nyújtásáról, valamint az iskoláztatási támogatás szüneteltetésének és a szüneteltetés megszüntetésének kezdeményezéséről, az iskoláztatási támogatás szüneteltetésének felülvizsgálatáról.
 
@@ -53,7 +53,7 @@ b)[^101] elhelyezte, és számára gyermekvédelmi gyámot rendelt, az ideiglene
 [^110]: A 23. § (8b) bekezdését a 70/2014. (III. 13.) Korm. rendelet 100. § (4) bekezdése iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 53. § m) pontja, a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés b) pontja szerint módosított szöveg.
 [^111]: A 23. § (10) bekezdését a 275/2008. (XI. 21.) Korm. rendelet 21. §-a iktatta be, szövege a 257/2013. (VII. 5.) Korm. rendelet 23. § (1) bekezdésével megállapított, a 353/2014. (XII. 29.) Korm. rendelet 53. § n) pontja, a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^112]: A 23. § (11) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 50. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
-[^113]: A 23. § (12) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 50. §-a iktatta be, szövege a 154/2013. (V. 24.) Korm. rendelet 12. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^113]: A 23. § (12) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 50. §-a iktatta be, hatályon kívül helyezte a 136/2016. (VI. 13.) Korm. rendelet 3. §-a.
 [^114]: A 23. § (13) bekezdését a 173/2009. (VIII. 29.) Korm. rendelet 50. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 42. § (12) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés a) pontja szerint módosított szöveg.
 [^115]: A 23. § (14) bekezdését a 257/2013. (VII. 5.) Korm. rendelet 23. § (2) bekezdése iktatta be.
 [^116]: A 23. § (15) bekezdését az 509/2013. (XII. 29.) Korm. rendelet 16. §-a iktatta be, szövege a 353/2014. (XII. 29.) Korm. rendelet 53. § o) pontja, a 70/2015. (III. 30.) Korm. rendelet 89. § (7) bekezdés b) pontja szerint módosított szöveg.
