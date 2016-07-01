@@ -30,7 +30,7 @@ bf) vér és vérkészítmény előállítását végző orvos, egyéb egyetemi 
 
 bg) fertőző beteget ellátó, valamint pulmonológiai gondozóban foglalkoztatott orvos és egészségügyi szakdolgozó infektológiai pótléka,
 
-bh)[^21] pszichiátriai osztályon, pszichiátriai, addiktológiai gondozóban dolgozó orvos, ápoló pszichiátriai pótléka,
+bh)[^22] pszichiátriai osztályon, pszichiátriai, addiktológiai gondozóban dolgozó orvos, ápoló pszichiátriai pótléka,
 
 bi) műszakbeosztástól függetlenül, a három műszakos munkahelyen ápolási tevékenységet végző ápolási pótléka,
 
@@ -44,10 +44,10 @@ bm) mosodában, teljes munkaidőben a szennyes ruhák átvételét végző infek
 
 c) a pótlékalap legalább 36%-a valamennyi asszisztensi és szakasszisztensi képesítéssel rendelkező (szak)aszszisztensi munkakörben dolgozó asszisztensi pótléka
 
-## esetében.
+esetében.
 
 (3) A (2) bekezdésben felsorolt pótlékok egymás mellett nem folyósíthatók.
 
 (4) A kollektív szerződés a (2) bekezdésben foglalt eseteken túlmenően – a Kjt. 75. §-a szerinti körben – csak akkor állapíthat meg illetménypótlékot, ha ahhoz a munkáltató költségvetése fedezetet biztosít.
 
-[^21]: A 16. § (2) bekezdés b) pont bh) alpontja a 73/2011. (IV. 29.) Korm. rendelet 8. § (5) bekezdése szerint módosított szöveg.
+[^22]: A 16. § (2) bekezdés b) pont bh) alpontja a 73/2011. (IV. 29.) Korm. rendelet 8. § (5) bekezdése szerint módosított szöveg.

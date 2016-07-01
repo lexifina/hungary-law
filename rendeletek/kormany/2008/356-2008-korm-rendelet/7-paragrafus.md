@@ -1,9 +1,9 @@
 ## [A Kjt. 22/B. §-ához]
 
-## 7. §[^12] A munka törvénykönyvéről szóló 2012. évi I. törvény vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Eftv.) 13. § (1) bekezdésében említett egészségügyi szolgáltató
+## 7. §[^13] A munka törvénykönyvéről szóló 2012. évi I. törvény vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény (a továbbiakban: Eftv.) 13. § (1) bekezdésében említett egészségügyi szolgáltató
 
 a) egyszemélyi felelős vezetőjével, kivéve, ha a vezető az Eftv. 13. § (2) bekezdésében meghatározott személy,
 
 b) az a) pont szerint munkaviszonyban álló vezető irányítása alatt álló intézmény gazdasági igazgatójával.
 
-[^12]: A 7. § nyitó szövegrésze a 135/2012. (VI. 28.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^13]: A 7. § nyitó szövegrésze a 135/2012. (VI. 28.) Korm. rendelet 14. §-a szerint módosított szöveg.

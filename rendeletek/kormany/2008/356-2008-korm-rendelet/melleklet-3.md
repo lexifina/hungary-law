@@ -18,6 +18,6 @@
 
 | 7. | bármely munkakör | amennyiben a munkáltató kötelezte a közalkalmazottat a további képesítés megszerzésére, és az nem biztosít magasabb fizetési osztályba sorolást; vagy a további szakképesítés hasznosítását a munkáltató foglalkozási feltételként a közalkalmazott kinevezésében (kinevezés módosításában, átsorolásában) előírja; mestervizsga. |
 
-3. melléklet a 356/2008. (XII. 31.) Korm. rendelethez[^40]
+3. melléklet a 356/2008. (XII. 31.) Korm. rendelethez[^41]
 
-[^40]: A 3. melléklet a 75/2010. (III. 25.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^41]: A 3. melléklet a 75/2010. (III. 25.) Korm. rendelet 10. § (1) bekezdése szerint módosított szöveg.
