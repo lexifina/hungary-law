@@ -36,7 +36,7 @@ cb) aki súlyosan vagy ismételten megsértette a Felügyelet feladatkörébe es
 
 a) az igazgatótanács és az ellenőrző bizottság tagjaira, valamint az ügyvezetőkre vonatkozó további összeférhetetlenségi szabályokat az alapszabályban kell meghatározni;
 
-b) az ügyvezető a bére és a közgyűlés által jóváhagyott juttatásai kivételével a pénztárral kapcsolatos tevékenységéért ellenszolgáltatást nem fogadhat el.
+b) az ügyvezető a bére és az igazgatótanács által jóváhagyott juttatásai kivételével a pénztárral kapcsolatos tevékenységéért ellenszolgáltatást nem fogadhat el.
 
 (6) Amennyiben a pénztártag alkalmazottja a pénztárnak, nem választható az igazgatótanács és az ellenőrző bizottság tagjának. A pénztár vezető tisztségviselője és ügyvezetője (helyettes ügyvezetője) nem lehet a közgyűlésen meghatalmazott, illetve a küldöttközgyűlésen küldött.
 

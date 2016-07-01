@@ -30,9 +30,9 @@ f) tagsági okirat: a pénztár által kiállított, legalább a belépési nyil
 
 g) pénztári befizetések kedvezménye: a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 44/A. §-a szerint a magánszemély rendelkezése alapján az adóhatóság által a magánszemély javára a pénztárhoz átutalt összeg;
 
-h) elektronikus irat: olyan bizonylat, amely megfelel az elektronikus aláírásról szóló 2001. évi XXXV. törvényben foglalt rendelkezéseknek;
+h) elektronikus irat: olyan bizonylat, amely megfelel az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvényben foglalt rendelkezéseknek;
 
-i) elektronikus irat használata: a pénztártag teljes bizonyító erejű magánokiratba foglalt nyilatkozatban kérheti a pénztártól, hogy a pénztár a részére átadandó dokumentumokat, nyilatkozatokat, igazolásokat elektronikus iratként küldje meg részére;
+i) elektronikus irat használata: amennyiben a pénztár alapszabálya ezt lehetővé teszi, a pénztártag teljes bizonyító erejű magánokiratba foglalt nyilatkozatban kérheti a pénztártól, hogy a pénztár a részére átadandó dokumentumokat (nyilatkozatokat, igazolásokat) elektronikus iratként küldje meg részére;
 
 j) nyílt pénztár: az a pénztár, amely a lehetséges pénztártagok körét – a területi pénztár működési területének meghatározása kivételével – nem korlátozza;
 
@@ -116,7 +116,7 @@ g) gyógyszer és gyógyászati segédeszköz árának támogatása:
 
 10. gyógyvizek és gyógyiszap megvásárlásának támogatása;
 
-11. Az egészségügyi államigazgatási szerv által kiadott engedélyszámmal és forgalomba hozatali engedéllyel rendelkező, gyógyszernek nem minősülő gyógyhatású termékek;
+11. egyéb gyógyszernek nem minősülő gyógyhatású termékek, amelyek a gyógyszernek nem minősülő gyógyhatású anyagok és készítmények nyilvántartásáról és forgalomba hozataláról szóló 10/1987. (VIII. 19.) EüM rendeletben meghatározott követelményeknek megfelelnek;
 
 12. az 1–11. pontokban felsorolt termékek házhoz szállítása;
 
@@ -124,7 +124,7 @@ h) fogyatékos személy: a fogyatékos személyek jogairól és esélyegyenlős�
 
 (7) E törvény alkalmazásában önsegélyező pénztárnál:
 
-a) szociális kockázat: gyermek születésével, beiskolázásával, egészségi állapottal kapcsolatos pénzügyi helyzettel, munkanélküliséggel, halálozással és a Bit.-ben meghatározott tűz- és elemi károkkal kapcsolatos kockázatok;
+a) szociális kockázat: gyermek születésével, beiskolázásával, egészségi állapottal kapcsolatos pénzügyi helyzettel, munkanélküliséggel, halálozással és a biztosítási tevékenységről szóló törvényben meghatározott tűz- és elemi károkkal kapcsolatos kockázatok;
 
 b) időszaki járadék: a pénztártag részére nyújtott rendszeres pénzbeli szolgáltatás, amely az alapszabályban meghatározott esetekben és feltételek szerint határozott időtartamig, illetve legfeljebb a kiváltó esemény megszűnéséig tart;
 

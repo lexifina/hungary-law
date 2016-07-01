@@ -2,7 +2,7 @@
 
 a) valamennyi pénztártípusnál a pénztártevékenység biztonságos folytatására alkalmas irodahelyiség, adószám, elnevezés és legalább mérlegképes könyvelői képesítéssel rendelkező alkalmazott, ha a pénztár nem helyezi ki gazdálkodásának nyilvántartását;
 
-b) a nyugdíjpénztárnál befektetési szakértő vagy érvényes szerződés olyan szolgáltató szervezettel vagy vállalkozással, mely jogosult a pénztár befektetési üzletmenetének végzésére vagy alapjainak befektetésére;
+b) a nyugdíjpénztárnál befektetésekért felelős vezető vagy érvényes szerződés olyan szolgáltató szervezettel vagy vállalkozással, mely jogosult a pénztár befektetési üzletmenetének végzésére vagy alapjainak befektetésére;
 
 c) közösségi szolgáltatást nyújtó önsegélyező pénztárnál, valamint járadékszolgáltató nyugdíjpénztárnál megbízott aktuárius (biztosításmatematikus).
 

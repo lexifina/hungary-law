@@ -28,3 +28,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-96-00-00
 | 2015-07-07 | 2015. évi LXXXV. törvény | 1993-96-00-00.57 |
 | 2015-09-01 | 2015. évi CV. törvény | 1993-96-00-00.58 |
 | 2016-01-01 | 2015. évi CCXV. törvény | 1993-96-00-00.59 |
+| 2016-07-01 | 2016. évi LIII. törvény | 1993-96-00-00.60 |

@@ -1,4 +1,4 @@
-47/B. § (1) Pénztárak közötti átlépés esetén – ideértve a 45/A. § (3) bekezdés a) pontjában foglalt esetet is –, illetve amennyiben valamely okból különböző nyugdíjpénztárakban fennálló tagsági jogviszonyok alatt eltelt várakozási idők összeszámítása szükséges, akkor az érintett tagsági jogviszonyok alatt eltelt várakozási idők összeszámítandók azzal, hogy a párhuzamosan fennálló tagsági jogviszonyok alatt egyidejűleg eltelt várakozási idők csak egyszeresen vehetők figyelembe.
+47/B. § (1) Pénztárak közötti átlépés esetén – ideértve a 45/A. § (4) bekezdés a) pontjában foglalt esetet is –, illetve amennyiben valamely okból különböző nyugdíjpénztárakban fennálló tagsági jogviszonyok alatt eltelt várakozási idők összeszámítása szükséges, akkor az érintett tagsági jogviszonyok alatt eltelt várakozási idők összeszámítandók azzal, hogy a párhuzamosan fennálló tagsági jogviszonyok alatt egyidejűleg eltelt várakozási idők csak egyszeresen vehetők figyelembe.
 
 (2)
 

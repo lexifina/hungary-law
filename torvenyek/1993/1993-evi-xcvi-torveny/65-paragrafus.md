@@ -40,7 +40,11 @@ b) az engedélykérelemben valótlan adatot vagy nyilatkozatot közölt;
 
 c) nem tesz eleget a 64. §-ban foglalt engedélyezési feltételeknek;
 
-d) a pénztártevékenységre vonatkozó jogszabályok rendelkezéseit súlyosan megsérti, a Felügyelet e törvényen alapuló határozatainak nem tesz eleget, és ezáltal a pénztártagok érdekeit súlyosan veszélyezteti;
+d) a pénztártagok érdekeit súlyosan veszélyeztetve
+
+da) a pénztártevékenységre vonatkozó jogszabályok rendelkezéseit súlyosan megsérti vagy
+
+db) a Felügyelet e törvényen alapuló határozatainak nem tesz eleget;
 
 e) az engedélyezetten túlmenően egyéb, engedély nélküli tevékenységet végez;
 

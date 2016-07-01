@@ -38,7 +38,9 @@ r) azon esetek meghatározását, amelyeknél a határozathozatalhoz minősítet
 
 s) a közgyűlési határozatok közzétételének módját;
 
-t) mindazt, amit a törvény vagy a törvény felhatalmazása alapján kiadott jogszabály a pénztár alapszabályába utal, vagy amit a közgyűlés szükségesnek tart.
+t) az elektronikus irat igénylésére vonatkozó elveket, amennyiben a pénztár kiad elektronikus iratot a pénztártag kérésére;
+
+u) mindazt, amit a törvény vagy a törvény felhatalmazása alapján kiadott jogszabály a pénztár alapszabályába utal, vagy amit a közgyűlés szükségesnek tart.
 
 (2) A tagsági kört a társulási elv [3. § (7) bekezdés] betartásával kell meghatározni.
 

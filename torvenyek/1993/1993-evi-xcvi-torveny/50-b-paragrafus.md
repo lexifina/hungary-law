@@ -20,7 +20,7 @@ h) gyógyszer és gyógyászati segédeszköz árának támogatása;
 
 i) közüzemi díjak: finanszírozásának támogatása, amely a földgázellátásról szóló 2008. évi XL. törvényben és a villamos energiáról szóló 2007. évi LXXXVI. törvényben meghatározott védendő fogyasztónak minősülő pénztártag által fizetendő közüzemi díjak (villamos energia, gáz, ivóvíz, csatornadíj) megtérítésére biztosítható. A közüzemi díjak finanszírozására fordítható támogatás havi összege legfeljebb a tárgyév első napján érvényes havi minimálbér 15 százalékának megfelelő összeg lehet;
 
-j) lakáscélú jelzáloghitel törlesztésének támogatása: amelyet a pénztár közvetlenül a folyósító hitelintézet részére fizethet meg, amennyiben a támogatást a pénztártag igényelte. A lakáscélú jelzáloghitel törlesztésére fordítható támogatás havi összege legfeljebb a tárgyév első napján érvényes havi minimálbér 15 százalékának megfelelő összeg lehet;
+j) lakáscélú jelzáloghitel törlesztésének támogatása: amelyet a pénztár a hitelintézet által kiadott, a pénztártag által teljesített hiteltörlesztés befizetését igazoló dokumentum alapján a pénztártag részére fizethet meg, amennyiben a támogatást a pénztártag igényelte. A pénztár közvetlenül a folyósító hitelintézet részére is megfizetheti a támogatást. A lakáscélú jelzáloghitel törlesztésére fordítható támogatás havi összege legfeljebb a tárgyév első napján érvényes havi minimálbér 15 százalékának megfelelő összeg lehet;
 
 k) otthoni gondozás: amelyet a pénztártag vagy közeli hozzátartozója részére a helyi önkormányzat által kiadott működési engedéllyel rendelkező szolgáltató nyújthat;
 

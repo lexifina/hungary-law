@@ -2,7 +2,7 @@
 
 (2) A tagsági jogviszony a várakozási idő letelte előtt a 15. § (1) bekezdésének rendelkezéseivel ellentétben csak a pénztártagnak más pénztárba való átlépése, illetve a pénztár megszűnése esetén szüntethető meg.
 
-(3) A várakozási idő letelte előtt a pénztártag egészség- vagy önsegélyező pénztárba átléphet, ha munkaképességét legalább ötven százalékban elvesztette, illetve legalább negyven százalékos mértékű egészségkárosodást szenvedett, és ebben az állapotában legalább egy évig javulás nem várható, valamint az illetékes hatóság igazolását bemutatja.
+(3) A várakozási idő letelte előtt a pénztártag egészség- vagy önsegélyező, továbbá egészség- és önsegélyező pénztárba átléphet, ha munkaképességét legalább ötven százalékban elvesztette, illetve legalább negyven százalékos mértékű egészségkárosodást szenvedett, és ebben az állapotában legalább egy évig javulás nem várható, valamint az illetékes hatóság igazolását bemutatja.
 
 (4) A pénztártag a várakozási idő letelte után, de még a felhalmozási időszakban az egyéni nyugdíjszámlán lévő összeghez való hozzáférés tekintetében választhat, hogy
 
@@ -29,6 +29,8 @@ e) az egyéni nyugdíjszámláján lévő összeg meghatározott részét egy ö
 f) az egyéni nyugdíjszámláján lévő összeg meghatározott részét egy összegben vagy járadék formájában igénybe veszi és a tagdíjat tovább nem fizeti
 
 azzal, hogy a pénztár köteles az a)–f) pontban foglalt valamennyi lehetőséget biztosítani tagjai számára.
+
+(5a) Amennyiben a tag az (5) bekezdés e) vagy f) pontja szerinti választással él, újabb nyilatkozatot legkorábban egy év elteltével tehet.
 
 (6) Amennyiben a tag az (5) bekezdés a), b), e) vagy f) pont szerinti választással él, tagsági viszonya akkor szűnik meg, amikor a pénztár a taggal szembeni szolgáltatási kötelezettségének maradéktalanul eleget tett.
 
@@ -66,7 +68,7 @@ tartalmazó tájékoztatást (a továbbiakban: pénztári tájékoztatás) a tag
 
 (6h) A pénztártagnak a saját járadék folyósítása alatt bekövetkezett halála esetén a szolgáltatási számlán fennmaradó összeg a kedvezményezettet, annak hiányában az örököst illeti meg.
 
-(6i) A tárgyév december 31. napján 1000 főt meg nem haladó taglétszámmal rendelkező pénztár mentesül a járadékszolgáltatási kötelezettség alól.
+(6i) A tárgyévet megelőző év december 31. napján 1000 főt meg nem haladó taglétszámmal rendelkező pénztár mentesül a járadékszolgáltatási kötelezettség alól.
 
 (6j) Amennyiben a (6i) bekezdés szerinti pénztár saját járadékot kíván folyósítani, illetve biztosítótól életjáradékot kíván vásárolni tagjai részére, úgy ezt az (5)–(6h) bekezdésben foglaltak szerint köteles teljesíteni.
 

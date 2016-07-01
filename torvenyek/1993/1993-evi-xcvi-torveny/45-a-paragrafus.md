@@ -12,7 +12,7 @@ b) egy összegben veheti fel. Felhalmozási időszakban lévő pénztártag eset
 
 (5) A végelszámolás elhatározását követően a pénztár új tagot nem vehet fel, és köteles a végelszámolási eljárást lefolytatni.
 
-(6) A végelszámolás kezdő időpontját követően kezdeményezett átlépések esetén a tagi követelések átutalása csak a végelszámolás lefolytatását követően, a nyilvántartásból való törlést követő 15 napon belül történik meg.
+(6) A végelszámolás kezdő időpontját követően kezdeményezett átlépések, kilépések esetén a tagi követelések átutalása, kifizetése a (10) bekezdésben meghatározottak szerint a végelszámolás lefolytatását követően kerül teljesítésre.
 
 (7) A végelszámoló a végelszámolás kezdő időpontjától számított 30 napon belül kiküldött levelében tájékoztatja a pénztár tagjait a pénztár jogutód nélküli megszűnéséről és 15 napos határidő tűzésével felszólítja a tagokat a (4) bekezdés szerinti nyilatkozat megtételére. Amennyiben a tag a kitűzött időpontig, illetve legkésőbb a végelszámolást lezáró közgyűlés időpontjáig nem nyilatkozik, akkor a követelését a pénztár székhelye szerint illetékes járásbíróságon bírósági letétbe kell helyezni. Ebben az esetben a letétbe helyezés költségeit a tag követeléséből kell megelőlegezni.
 
@@ -20,4 +20,4 @@ b) egy összegben veheti fel. Felhalmozási időszakban lévő pénztártag eset
 
 (9) Amennyiben a (8) bekezdésben meghatározott időpontig a végelszámolás záró mérlegét nem fogadják el, és a végelszámolási eljárást nem fejezik be, akkor a Felügyelet a bíróságnál kezdeményezheti a pénztár felszámolását.
 
-(10) A (4) bekezdésben meghatározott átutalásokat, illetve kifizetéseket a pénztár a vagyonfelosztási javaslat elfogadását követő 15 napon belül köteles teljesíteni. Az átutalás teljesítésével a tagok – ide nem értve az ellenőrző bizottsági tagokat – tagsági jogviszonya megszűnik. A végelszámolás lefolytatását követően fennmaradó vagyont a pénztár – a 13. § (5) bekezdésének megfelelően – az alapszabályban foglaltak szerint a nyilvántartásból való törlést követő 15 napon belül fizeti ki, illetve utalja át.
+(10) A (4) bekezdésben meghatározott átutalásokat, illetve kifizetéseket a pénztár a vagyonfelosztási javaslat elfogadását követő 15 napon belül köteles teljesíteni. Az átutalás, illetve kifizetés teljesítésével a tagok – ide nem értve az ellenőrző bizottsági tagokat – tagsági jogviszonya megszűnik. A végelszámolás lefolytatását követően fennmaradó vagyont a pénztár – a 13. § (5) bekezdésében foglaltaknak megfelelően – az alapszabályban foglaltak szerint a nyilvántartásból való törlést követő 15 napon belül fizeti ki, illetve utalja át.
