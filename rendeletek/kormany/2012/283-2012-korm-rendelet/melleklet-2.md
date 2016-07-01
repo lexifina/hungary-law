@@ -140,35 +140,37 @@
 
 | 2. | műszaki | mérnöktanár (szakirányok: gépészet-mechatronika, elektrotechnika-elektronika, informatika, bio-vegyipar, építő-építészet, könnyűipar, faipar, nyomdaipar, közlekedés, környezetvédelem-vízgazdálkodás, polgári és biztonságvédelem, műszaki-gazdasági) |
 
-| 3. | közgazdasági | közgazdásztanár (szakirányok: közgazdaságtan, pénzügy-számvitel, ügyvitel, vendéglátás-idegenforgalmi, kereskedelem-marketing, vállalkozási ismeretek); |
+| 3. | közgazdasági | közgazdásztanár (szakirányok: közgazdaságtan, pénzügy-számvitel, ügyvitel, vendéglátás-idegenforgalmi, kereskedelem-marketing, vállalkozási ismeretek) |
 
-| 4. | agrár | agrármérnöktanár (szakirányok: mezőgazdaság, mezőgazdasági gépész, élelmiszer, erdészet- és vadgazdálkodás, földmérés, kertészet- és parképítés); |
+| 4. | agrár | agrármérnöktanár (szakirányok: mezőgazdaság, mezőgazdasági gépész, élelmiszer, erdészet- és vadgazdálkodás, földmérés, kertészet- és parképítés) |
 
 | 5. | gyógypedagógia | gyógypedagógia-tanár |
 
-| 6. | zeneművészet1 | zenetanár (szakirányok: zongoratanár, orgonatanár, csembalótanár, hárfatanár, gitártanár, lanttanár, harmonikatanár, cimbalomtanár, hegedűtanár, mélyhegedűtanár, gordonkatanár, gordontanár, fuvolatanár, furulyatanár, oboatanár, klarinéttanár, szaxofontanár, fagott-tanár, kürttanár, trombitatanár, harsonatanár, tubatanár, ütőhangszertanár, magánénektanár, jazz-zongoratanár, jazzgitártanár, jazzbasszusgitár-tanár, jazzbőgőtanár, jazzszaxofontanár, jazztrombitatanár, jazzharsonatanár, jazzdobtanár, jazzénektanár, jazz-zeneszerzéstanár, zeneismeret-tanár, egyházzenetanár, ének-zene tanár.) |
+| 6. | konduktor | konduktortanár |
 
-| 7. |  | zeneművésztanár (szakirányok: zongoraművésztanár, zongorakísérő-korrepetítor tanár, csembalóművész-tanár, orgonaművész-tanár, hárfaművésztanár, gitárművésztanár, cimbalomművész-tanár, harmonikaművész-tanár, hegedűművész-tanár, mélyhegedűművész-tanár, gordonkaművész-tanár, gordonművésztanár, fuvolaművész-tanár, oboaművész-tanár, klarinétművész-tanár, szaxofonművész-tanár, fagottművésztanár, kürtművésztanár, trombitaművész-tanár, harsonaművész-tanár, tubaművésztanár, ütőhangszerművész a tanár, énekművésztanár, régizene csembalóművész-tanár, régizene blockflöteművész-tanár, népi hegedűművész-tanár, népi brácsaművész-tanár, népi bőgő-/cselló-/ütőgardon-/tamburabőgőművész-tanár, népi furulyaművész-tanár, népi klarinét-/tárogatóművész-tanár, népi dudaművésztanár, népi cimbalomművész-tanár, tamburaművész-tanár, népi citera-koboz-tekerőművész-tanár, népi harmonikaművész-tanár, népi énekművész-tanár, népzeneelmélet-tanár, egyházzeneművész-tanár (egyházzene-kóruskarnagy, egyházzene-orgonaművész) zeneszerzőtanár, muzikológus-tanár, zeneelmélet-tanár, kóruskarnagyművész-tanár, ének-zene művésztanár) |
+| 7. | egészségügy | egészségügyi tanár |
 
-| 8. | táncművészet | tánctanár (szakirányok: klasszikus balett, néptánc, moderntánc, kortárstánc, színházi tánc, társastánc, tánctörténet és -elmélet) |
+| 8. | neveléstudomány | pedagógiatanár2 |
 
-| 9. |  | táncművésztanár (szakirány: klasszikus balett, néptánc, moderntánc, kortárstánc, színházi tánc, társastánc) |
+| 9. | zeneművészet1 | zenetanár (szakirányok: zongoratanár, orgonatanár, csembalótanár, hárfatanár, gitártanár, lanttanár, harmonikatanár, cimbalomtanár, hegedűtanár, mélyhegedűtanár, gordonkatanár, gordontanár, fuvolatanár, furulyatanár, oboatanár, klarinéttanár, szaxofontanár, fagott-tanár, kürttanár, trombitatanár, harsonatanár, tubatanár, ütőhangszertanár, magánénektanár, jazz-zongoratanár, jazzgitártanár, jazzbasszusgitár-tanár, jazzbőgőtanár, jazzszaxofontanár, jazztrombitatanár, jazzharsonatanár, jazzdobtanár, jazzénektanár, jazz-zeneszerzéstanár, zeneismeret-tanár, egyházzenetanár, ének-zene tanár) |
 
-| 10. | ipar-, építő-, film- és videoművészet, multimédia | design- és vizuálisművészet-tanár |
+| 10. |  | zeneművésztanár (szakirányok: zongoraművész-tanár, zongorakísérő-korrepetitor tanár, csembalóművész-tanár, orgonaművész-tanár, hárfaművész-tanár, gitárművész-tanár, cimbalomművész-tanár, harmonikaművész-tanár, hegedűművész-tanár, mélyhegedűművész-tanár, gordonkaművész-tanár, gordonművész-tanár, fuvolaművész-tanár, oboaművész-tanár, klarinétművész-tanár, szaxofonművész-tanár, fagottművész-tanár, kürtművész-tanár, trombitaművész-tanár, harsonaművész-tanár, tubaművész-tanár, ütőhangszerművész-tanár, énekművész-tanár, régi-zene csembalóművész-tanár, régi-zene blockflöteművész-tanár, népi hegedűművész-tanár, népi brácsaművész-tanár, népi bőgő-/cselló-/ütőgardon-/tamburabőgőművész-tanár, népi furulyaművész-tanár, népi klarinét-/tárogatóművész-tanár, népi dudaművész-tanár, népi cimbalomművész-tanár, tamburaművész-tanár, népi citera-koboz-tekerőművész-tanár, népi harmonikaművész-tanár, népi énekművész-tanár, népzeneelmélet-tanár, egyházzeneművész-tanár (egyházzene-kóruskarnagy), egyházzeneművész-tanár (egyházzene-orgonaművész), zeneszerzőtanár, muzikológus-tanár, zeneelmélet-tanár, kóruskarnagyművész-tanár, ének-zene művésztanár) |
 
-| 11. | képzőművészet | képzőművésztanár |
+| 11. | táncművészet | tánctanár (szakirányok: klasszikus balett, néptánc, moderntánc, kortárstánc, társastánc, tánctörténet és -elmélet) |
 
-| 12. | színház- és filmművészet | színházművészeti tanár |
+| 12. |  | táncművésztanár (szakirány: klasszikus balett, néptánc) |
 
-| 13. |  | filmművészeti tanár |
+| 13. | ipar-, építő-, film- és videoművészet, multimédia | design- és vizuálisművészet-tanár |
 
-| 14. | egészségügy | egészségügyi tanár |
+| 14. | képzőművészet | képzőművésztanár |
 
-| 15. | neveléstudomány | pedagógiatanár2 |
+| 15. | színház- és filmművészet | színházművészeti tanár |
+
+| 16. | filmművészeti tanár |
 
 ## A szakmai, művészeti tanárszakok (szakirányok) párosítási feltételei
 
-## 1/ Zenetanár szakon osztatlan kétszakos képzésben a zeneismeret-tanár szakirány az ének-zene tanár szakiránnyal párosítható. Zeneművésztanár szakon kétszakos osztatlan képzésben a kóruskarnagyművész-tanár az ének-zene művésztanár vagy a zeneelmélet-tanár szakirányokkal, a zeneelmélet-tanár szakirány az ének-zene művésztanár vagy a kóruskarnagyművész-tanár szakirányokkal, az egyházzeneművész-tanár szakirány az ének-zene művésztanár szakiránnyal, a népi hangszeres-tanár szakirány a népi ének szakiránnyal, a népi hangszeres-tanár és a népi ének szakirányok a népzeneelmélet-tanár szakiránnyal, továbbá a népi hangszeres szakirányok egymással párosíthatók.
+## 1/ Zenetanár szakon osztatlan kétszakos képzésben a zeneismeret-tanár szakirány az ének-zene tanár szakiránnyal párosítható. Zeneművésztanár szakon kétszakos osztatlan képzésben a kóruskarnagyművész-tanár az ének-zene művésztanár vagy a zeneelmélet-tanár szakiránnyal, a zeneelmélet-tanár szakirány az ének-zene művésztanár vagy a kóruskarnagyművész-tanár szakiránnyal, az egyházzeneművész-tanár szakirányok az ének-zene művésztanár szakiránnyal, a népi hangszeres művésztanár szakirányok a népi énekművész-tanár szakiránnyal, a népi hangszeres művésztanár és a népi énekművész-tanár szakirányok a népzeneelmélet-tanár szakiránnyal, továbbá a népi hangszeres művésztanár szakirányok egymással párosíthatók.
 
 ## 2/ A tanárszak csak a szakterülete szerinti nem tanári mesterszakra épülően második, további mesterszakon folyó tanári szakképzettség megszerzésére irányuló képzésben szervezhető meg és egyszakos képzésben is felvehető.
 
@@ -182,11 +184,11 @@
 
 ## A hittanár-nevelőtanár szak párosítási feltételei
 
-## 1/ A hittanár-nevelőtanár szak párosítható közismereti tanárszakkal.”
+## 1/ A hittanár-nevelőtanár szak párosítható közismereti tanárszakkal.
 
 2. melléklet a 283/2012. (X. 4.) Korm. rendelethez
 
-## A tanári felkészítés közös követelményei és az egyes tanárszakok képzési és kimeneti követelményei
+A tanári felkészítés közös követelményei és az egyes tanárszakok képzési és kimeneti követelményei
 
 A képzési és kimeneti követelmények tartalmazzák:
 
