@@ -46,7 +46,7 @@ o) az állami tulajdonban lévő vizek hasznosítására és nyilvántartására
 
 p) a közutak kezelésével, fejlesztésével, fenntartásával, működtetésével kapcsolatos feladatokat a közúti közlekedésről szóló törvény
 
-q) a Magyar Export-Import Bank Zrt. és a Magyar Exporthitel Biztosító Zrt. feletti tulajdonosi joggyakorlás módját a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló törvény
+q) a Magyar Export-Import Bank Zrt. és a Magyar Exporthitel Biztosító Zrt. feletti tulajdonosi joggyakorlás módját a Magyar Export-Import Bank Részvénytársaságról és a Magyar Exporthitel Biztosító Részvénytársaságról szóló törvény,
 
 r) a Nemzeti Ménesbirtok és Tangazdaság vagyonáról, a Nemzeti Ménesbirtok és Tangazdaság feletti tulajdonosi joggyakorlás módjáról szóló szabályokat a Nemzeti Ménesbirtok és Tangazdaságról szóló törvény
 
