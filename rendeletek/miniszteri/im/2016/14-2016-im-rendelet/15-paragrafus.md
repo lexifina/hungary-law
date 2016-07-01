@@ -1,5 +1,6 @@
-## 14. § Az R2 8. § d) pontjában az „a Hivatalos Értesítőben” szövegrész helyébe az „a kormányzati portálon” szöveg lép.
+## 13–14. §[^5]
 
-## 6.[^1]
+## 6.[^6]
 
-[^1]: A 6. alcím (15–17. §) a 18. § (2) bekezdése alapján 2016. szeptember 15-én lép hatályba.
+[^5]: A 13–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 6. alcím (15–17. §) a 18. § (2) bekezdése alapján 2016. szeptember 15-én lép hatályba.
