@@ -1,0 +1,3 @@
+77. § A Gfbt. 57/E. §-a a következő (3) bekezdéssel egészül ki:
+
+„(3) Ha a kötelező gépjármű-felelősségbiztosítási állománnyal kapcsolatos biztosítástechnikai tartalékok fedezetére szolgáló eszközök – Bit. 168. § (2) bekezdésében meghatározott – pótlására kerül sor, a Kártalanítási Alap kezelője megtérítést követelhet a tevékenységi engedély visszavonásával érintett biztosítótól, feltéve, ha a megtérítés nem veszélyezteti a biztosító azon hitelezője igényének kielégítését, amelynek biztosítási szerződésen alapuló követelése van a tevékenységi engedély visszavonásával érintett biztosítóval szemben.”

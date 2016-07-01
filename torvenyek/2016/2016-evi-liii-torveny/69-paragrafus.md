@@ -1,0 +1,3 @@
+69. § A Gfbt. 4. §-a a következő (4a) bekezdéssel egészül ki:
+
+„(4a) Ha az üzemben tartó személye a 7. § (3a) bekezdésében meghatározottak szerint változik, a biztosítási kötelezettség a gépjármű új üzemben tartóját a kockázatviselés 19. § (5a) bekezdésében meghatározott megszűnését követő naptól terheli. Ha a biztosítási szerződést a (6) bekezdésben meghatározottak szerint nem tartották hatályban és az üzemben tartó személye a 7. § (3a) bekezdésében meghatározottak szerint változik, a biztosítási kötelezettség a gépjármű új üzemben tartóját a peres, nemperes eljárásban vagy hatósági eljárásban hozott döntés jogerőre emelkedését követő naptól terheli.”

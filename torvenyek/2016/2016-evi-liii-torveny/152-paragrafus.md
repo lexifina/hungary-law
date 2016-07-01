@@ -1,0 +1,1 @@
+152. § A Szantv. 1. § (4) bekezdésében az „a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.),” szövegrész helyébe az „a Polgári Törvénykönyvről szóló 1959. évi IV. törvény, a Polgári Törvénykönyvről szóló 2013. évi V. törvény (a továbbiakban: Ptk.),” szöveg lép.

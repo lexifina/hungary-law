@@ -1,0 +1,1 @@
+117. § Az Fsztv. 70. § (8) bekezdésében a „Pénzügyi Békéltető Testület levelezési címét” szövegrész helyébe a „Pénzügyi Békéltető Testület székhelyét, telefonos és internetes elérhetőségét, valamint a levelezési címét” szöveg lép.

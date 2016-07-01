@@ -1,0 +1,3 @@
+142. § A Szantv. 36. §-a a következő (4) bekezdéssel egészül ki:
+
+„(4) Az (1) bekezdés szerinti átruházáshoz az átvevő egyetértésén kívül nincs szükség a szanálás alatt álló intézmény tulajdonosának vagy bármely egyéb személynek az egyetértésére, ide nem értve a befolyásoló részesedés szerzésével, elidegenítésével, a meglévő befolyásoló részesedés jogszabályban meghatározott mértéket elérő vagy meghaladó növelésével járó esetben a Felügyeletet, illetve a külföldi illetékes felügyeleti hatóságot. Az átruházás során e törvény vagyonértékesítésre vonatkozó követelményeit is figyelembe kell venni.”
