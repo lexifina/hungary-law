@@ -416,13 +416,11 @@ Békéscsabai Járás
 
 Békési Járás
 
-3.2. Gyomaendrődi Járási Hivatal
-
-Székhely: Dévaványa
-
-Szarvasi Járás
+3.2.[^22] Gyomaendrődi Járási Hivatal
 
 Gyomaendrődi Járás
+
+Szarvasi Járás
 
 Szeghalmi Járás
 
@@ -947,3 +945,5 @@ Letenyei Járás
 19.4. Zalaegerszegi Járási Hivatal
 
 Zalaegerszegi Járás
+
+[^22]: A 2. melléklet 3. pont 3.2. alpontja a 136/2016. (VI. 13.) Korm. rendelet 14. §-ával megállapított szöveg.
