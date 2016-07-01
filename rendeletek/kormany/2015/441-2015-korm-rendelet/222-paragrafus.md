@@ -1,5 +1,5 @@
-## 221. §[^139]
+## 221. §[^137]
 
 ## 134. A kormányablakokról szóló 515/2013. (XII. 30.) Korm. rendelet módosítása
 
-[^139]: A 221. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^137]: A 221. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

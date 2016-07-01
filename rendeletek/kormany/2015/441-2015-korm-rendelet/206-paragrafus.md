@@ -1,5 +1,5 @@
-## 205. §[^129]
+## 205. §[^127]
 
 ## 124. Az energetikai létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 360/2013. (X. 11.) Korm. rendelet módosítása
 
-[^129]: A 205. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^127]: A 205. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

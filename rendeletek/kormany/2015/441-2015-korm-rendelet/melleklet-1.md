@@ -1,3 +1,3 @@
-1–27. melléklet a 441/2015. (XII. 28.) Korm. rendelethez[^167]
+1–27. melléklet a 441/2015. (XII. 28.) Korm. rendelethez[^164]
 
-[^167]: Az 1–27. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^164]: Az 1–27. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

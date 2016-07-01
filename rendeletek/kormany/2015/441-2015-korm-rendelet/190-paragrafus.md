@@ -1,5 +1,5 @@
-## 188–189. §[^118]
+## 188–189. §[^116]
 
 ## 113. A közfeladatot ellátó szerveknél alkalmazható iratkezelési szoftverek megfelelőségét tanúsító szervezetek kijelölésének részletes szabályairól szóló 43/2013. (II. 19.) Korm. rendelet módosítása
 
-[^118]: A 188–189. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^116]: A 188–189. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

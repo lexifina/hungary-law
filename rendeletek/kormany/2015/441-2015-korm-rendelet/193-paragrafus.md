@@ -1,5 +1,5 @@
-## 191–192. §[^120]
+## 191–192. §[^118]
 
 ## 115. A víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet módosítása
 
-[^120]: A 191–192. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^118]: A 191–192. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

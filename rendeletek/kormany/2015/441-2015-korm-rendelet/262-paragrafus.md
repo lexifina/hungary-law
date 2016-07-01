@@ -1,4 +1,4 @@
-## 261. §[^166]
+## 261. §[^163]
 
 ## 159. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 59. § (1) bekezdése, a 99. § (2) bekezdése és a 223. § (1) bekezdése 2016. július 1-jén lép hatályba.
 
-[^166]: A 261. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^163]: A 261. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
