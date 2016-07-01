@@ -1,3 +1,3 @@
-81. §[^286]
+81. §[^287]
 
-[^286]: A 81. §-t és a megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 33. § 10. pontja hatályon kívül helyezte.
+[^287]: A 81. §-t és a megelőző alcímet a 211/2012. (VII. 30.) Korm. rendelet 33. § 10. pontja hatályon kívül helyezte.

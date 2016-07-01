@@ -1,6 +1,6 @@
-## Biztonságos használat és akadálymentesség[^189]
+## Biztonságos használat és akadálymentesség[^190]
 
-54. § (1)[^190] Az építményt és annak részeit úgy kell tervezni, megvalósítani, ehhez az építési terméket, építményszerkezetet és beépített berendezést úgy kell megválasztani és beépíteni, hogy a rendeltetésszerű használathoz biztonságos feltételeket nyújtsanak és ne okozzanak balesetet, sérülést, például
+54. § (1)[^191] Az építményt és annak részeit úgy kell tervezni, megvalósítani, ehhez az építési terméket, építményszerkezetet és beépített berendezést úgy kell megválasztani és beépíteni, hogy a rendeltetésszerű használathoz biztonságos feltételeket nyújtsanak és ne okozzanak balesetet, sérülést, például
 
 a) elcsúszást, elesést (pl. közlekedés közben),
 
@@ -10,17 +10,17 @@ c) leesést (pl. váratlan szintkülönbség, vagy korlát, mellvédfal hiánya,
 
 d) fejsérülést (pl. nem megfelelő szabad belmagasság, szabad keresztmetszet miatt),
 
-e)[^191] ütközést (pl. nem megfelelő megvilágítás, tartalék világítás hiánya, tükröződés miatt, vagy építményen belüli járműmozgásból),
+e)[^192] ütközést (pl. nem megfelelő megvilágítás, tartalék világítás hiánya, tükröződés miatt, vagy építményen belüli járműmozgásból),
 
 f) égési sérülést (pl. védelem nélküli forró felülettől, folyadéktól, gőztől),
 
-g)[^192] áramütést (pl. földelési, szerelési hibából, vagy villámcsapás miatt),
+g)[^193] áramütést (pl. földelési, szerelési hibából, vagy villámcsapás miatt),
 
 h) robbanást (pl. energiahordozó, hőtermelő vezeték, berendezés hibája miatt),
 
 i) elakadást, beszorulást (pl. szűkös méretű terek vagy nyílások miatt).
 
-(2)[^193] Az építmény megvilágítását, a köz- és díszvilágítást, a fényreklámot és a hirdetőberendezést úgy kell elhelyezni és kialakítani, hogy a fényhatás
+(2)[^194] Az építmény megvilágítását, a köz- és díszvilágítást, a fényreklámot és a hirdetőberendezést úgy kell elhelyezni és kialakítani, hogy a fényhatás
 
 a) az építmény és a helyiségek, valamint a környezet rendeltetésszerű és biztonságos használatát ne akadályozza,
 
@@ -30,8 +30,8 @@ c) az emberi egészséget és a környezetet ne károsítsa, és
 
 d) fényszennyezést ne okozzon.
 
-[^189]: Az 54. §-t megelőző alcím a 211/2012. (VII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^190]: Az 54. § (1) bekezdés nyitó szövegrésze a 211/2012. (VII. 30.) Korm. rendelet 32. § 3. pontja szerint módosított szöveg.
-[^191]: Az 54. § (1) bekezdés e) pontja a 211/2012. (VII. 30.) Korm. rendelet 32. § 4. pontja szerint módosított szöveg.
-[^192]: Az 54. § (1) bekezdés g) pontja a 211/2012. (VII. 30.) Korm. rendelet 32. § 5. pontja szerint módosított szöveg.
-[^193]: Az 54. § (2) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^190]: Az 54. §-t megelőző alcím a 211/2012. (VII. 30.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^191]: Az 54. § (1) bekezdés nyitó szövegrésze a 211/2012. (VII. 30.) Korm. rendelet 32. § 3. pontja szerint módosított szöveg.
+[^192]: Az 54. § (1) bekezdés e) pontja a 211/2012. (VII. 30.) Korm. rendelet 32. § 4. pontja szerint módosított szöveg.
+[^193]: Az 54. § (1) bekezdés g) pontja a 211/2012. (VII. 30.) Korm. rendelet 32. § 5. pontja szerint módosított szöveg.
+[^194]: Az 54. § (2) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
