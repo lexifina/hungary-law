@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-21-00-00
 | 2015-04-01 | 2015. évi VIII. törvény | 1996-21-00-00.43 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 1996-21-00-00.44 |
 | 2016-06-18 | 2016. évi LXVII. törvény | 1996-21-00-00.45 |
+| 2016-07-01 | 2016. évi LXXVIII. törvény | 1996-21-00-00.46 |

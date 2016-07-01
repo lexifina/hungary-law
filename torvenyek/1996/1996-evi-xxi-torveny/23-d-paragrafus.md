@@ -18,7 +18,7 @@ területi elhelyezése az állami főépítészi hatáskörében eljáró fővá
 
 (4) A térségi területfelhasználási engedély kiadása csak akkor tagadható meg, ha a térségi területfelhasználási kérelemben szereplő javaslat nincs összhangban az elfogadott országos vagy az adott térségre vonatkozó területrendezési terv előírásaival.
 
-(5) A térségi területfelhasználási engedélykérelmet harminc napon belül kell elbírálni.
+(5) A térségi területfelhasználási engedélykérelmet – az összhang igazolására vonatkozó engedélykérelem kivételével – harminc napon belül kell elbírálni. Az összhang igazolására vonatkozó engedélykérelmet tizenöt napon belül kell elbírálni.
 
 (6) Az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal döntése ellen fellebbezésnek nincs helye. A térségi területfelhasználási engedélykérelemről hozott határozat elleni keresetet a törvényszék soron kívül bírálja el.
 
