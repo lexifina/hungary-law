@@ -6,6 +6,8 @@
 
 (3) A közvetítői díj időbeni ütemezése arányos a közvetített pénzügyi szolgáltatás futamidejével, valamint szerződésszerű teljesítésével. Jelzáloghitel közvetítői tevékenységet végző függő közvetítőt megillető közvetítői díj mértéke nem haladhatja meg az adott jelzáloghitel folyósításakor, illetve ingatlanra vonatkozó pénzügyi lízing nyújtásakor meghatározott tőketartozás (pénzügyi lízing esetében ideértve a maradványértéket is) kettő százalékát. Fennálló jelzáloghitel-szerződés, illetve ingatlanra vonatkozó pénzügyi lízingszerződés módosítása során eljáró függő közvetítő tekintetében a közvetítői díj mértéke nem haladhatja meg a jelzáloghitel-szerződés módosításakor fennálló tőketartozás, illetve lízingszerződés alapján fennálló tartozás (ideértve a maradványértéket is) kettő százalékát. A függő közvetítő a megbízó pénzügyi intézmény felé közvetítői díjat kizárólag az egyedi jelzáloghitelek és lízingszerződések alapján, egyedileg számíthat fel, egyéb módon (így különösen a folyósított állomány alapján) további díjazást nem számíthat fel.
 
+(3a) A (3) bekezdés vonatkozásában közvetítői díjnak kell tekinteni minden olyan pénzben vagy természetben juttatott további térítést, amelyet a közvetítő vagy a közvetítővel kapcsolatban álló harmadik személy a pénzügyi szolgáltatást nyújtó személytől, pénzügyi szolgáltatást nyújtó személy felett ellenőrző befolyással rendelkező személytől vagy az utóbbi ellenőrző befolyása alatt álló más személytől kap bármely pénzügyi szolgáltatási, kiegészítő pénzügyi szolgáltatási, befektetési szolgáltatási és kiegészítő befektetési szolgáltatási tevékenységnek nem minősülő jogviszony alapján, ide nem értve, ha a közvetítő és a pénzügyi szolgáltatást nyújtó személy között ellenőrző befolyásnak minősülő kapcsolat áll fenn, vagy mindketten ugyanazon pénzügyi intézmény ellenőrző befolyása alatt állnak.
+
 (4) A függő közvetítő a pénzügyi szolgáltatás közvetítését megelőzően az ügyfél részére írásban vagy más tartós adathordozón tájékoztatást ad:
 
 a) a cégnevéről, székhelyéről, levelezési címéről és felügyeleti hatóságának megjelöléséről,
@@ -24,6 +26,6 @@ e) arról, hogy nyújt-e hiteltanácsadást, valamint
 
 f) a közvetítővel kapcsolatos panasz kezeléséről, valamint fogyasztó esetében a Pénzügyi Békéltető Testület eljárásának igénybevételére vonatkozó lehetőségről.
 
-(5)
+(5) A függő ügynök az általa megbízott közvetítői alvállalkozó személyét, valamint a közvetítői alvállalkozó megbízásának megszűnését két munkanapon belül bejelenti a megbízó pénzügyi intézménynek annak érdekében, hogy a pénzügyi intézmény teljesíteni tudja a 21. § (2) bekezdésében foglalt kötelezettségét.
 
 (6) A kizárólag magánszemélyek részére a mindennapi élet felszerelési tárgyainak, tartós fogyasztási cikkeinek (ide nem értve a gépjárművet) megvásárlásához nyújtott hitel- és pénzkölcsönt közvetítő függő ügynökre a 74. §-ban foglalt rendelkezéseket nem szükséges alkalmazni.

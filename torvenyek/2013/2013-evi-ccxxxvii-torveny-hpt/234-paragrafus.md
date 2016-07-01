@@ -24,6 +24,8 @@ e) az OBA kártalanítása esetén várható vesztesége.
 
 (1d) A kockázat alapú változó díj megállapításának részletes szabályait az MNB elnöke rendeletben határozza meg.
 
+(1e) Az OBA tájékoztatja az EBH-t a kockázatalapú változó díj megállapítására vonatkozó jóváhagyott szabályokról.
+
 (2) Az (1) bekezdésben meghatározott módon megállapított éves befizetési kötelezettség nem lehet magasabb, mint a tagintézetnél a tárgyévet megelőző december 31-én meglévő,
 
 a) az OBA által biztosított betétek és

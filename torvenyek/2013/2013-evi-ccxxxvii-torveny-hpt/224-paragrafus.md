@@ -2,11 +2,11 @@
 
 224. § (1) Az igazgatótanács
 
-a) irányítja és ellenőrzi az OBA gazdálkodási és egyéb tevékenységét a jogszabályokban foglalt rendelkezések figyelembevételével,
+a) irányítja és ellenőrzi az OBA gazdálkodási és egyéb – ide nem értve az ügyvezető igazgató-helyettes által irányított, illetve az OBA munkaszervezete által jogszabály alapján más jogi személy részére végzett – tevékenységét a jogszabályokban foglalt rendelkezések figyelembevételével,
 
 b) elfogadja az OBA szabályzatait,
 
-c) meghatározza az OBA ügyvezetőjének, megbízottainak, valamint – a Befektető-védelmi Alap igazgatósága javaslatára – az OBA ügyvezetője helyettesének feladatait, megállapítja díjazásukat,
+c) meghatározza az OBA ügyvezetőjének, megbízottainak feladatait, megállapítja díjazásukat,
 
 d) dönt az egyes feladatokra esetileg létrehozott különleges bizottságok összetételéről,
 
@@ -30,6 +30,8 @@ m) határoz a 234. § (6)–(8) bekezdése szerinti megemelt, illetve rendkívü
 
 n) javaslatot tesz a Felügyeletnek a hitelintézetek betétbiztosítással kapcsolatos kötelezettségeinek ellenőrzésére,
 
-o) ellátja az e törvényben meghatározott egyéb feladatokat.
+o) a Befektető-védelmi Alap igazgatóságának javaslatára kinevezi és felmenti az ügyvezető igazgató-helyettest, meghatározza feladatait, megállapítja díjazását,
+
+p) ellátja az e törvényben meghatározott egyéb feladatokat.
 
 (2) Az igazgatótanács feladatainak végrehajtása során igénybe veheti a Felügyelet szolgáltatásait.

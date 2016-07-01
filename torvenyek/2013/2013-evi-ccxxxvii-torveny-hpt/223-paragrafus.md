@@ -19,3 +19,5 @@ e) az OBA ügyvezetője.
 (4) Az igazgatótanács ülése akkor határozatképes, ha tagjainak több mint fele jelen van. Az igazgatótanács a határozatait egyszerű szótöbbséggel hozza. Szavazategyenlőség esetén az elnök szavazata dönt.
 
 (5) Az igazgatótanács tagjai közül évenként elnököt és alelnököt választ. Nem választható elnökké és alelnökké az ügyvezető.
+
+(6) Az igazgatótanács ülésein az OBA ügyvezető igazgató-helyettese tanácskozási joggal vehet részt.

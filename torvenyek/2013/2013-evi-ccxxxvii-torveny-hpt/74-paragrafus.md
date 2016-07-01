@@ -1,4 +1,4 @@
-74. § (1) A közvetítővel, a közvetítői alvállalkozóval – e tevékenységi körében – munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban – a (3) bekezdésben meghatározott eltéréssel – csak olyan természetes személy lehet, aki
+74. § (1) A közvetítővel, a közvetítői alvállalkozóval – e tevékenységi körében – munkaviszonyban, megbízási viszonyban vagy munkavégzésre irányuló egyéb jogviszonyban – a (3) bekezdésben meghatározott eltéréssel – csak olyan természetes személy lehet, aki büntetlen előéletű és
 
 a) szakirányú felsőfokú iskolai végzettséggel, vagy
 
