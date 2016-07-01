@@ -1,4 +1,4 @@
-## 51–52. §[^22]
+## 51–52. §[^21]
 
 ## 22. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) A 23. § (2) bekezdése 2016. július 1-jén lép hatályba.
 
-[^22]: Az 51–52. § a 2010: CXXX törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az 51–52. § a 2010: CXXX törvény 12. § (2) bekezdése alapján hatályát vesztette.

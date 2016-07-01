@@ -2,8 +2,7 @@
 
 23. § (1)[^5]
 
-(2)[^6]
+(2) Hatályát veszti a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdés g)–j) pontja.
 
 [^4]: A 11–22. § a 2010: CXXX törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^5]: A 23. § (1) bekezdése a 2010: CXXX törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^6]: A 23. § (2) bekezdése az 53. § (3) bekezdése alapján 2016. július 1-jén lép hatályba.
