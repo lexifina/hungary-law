@@ -4,11 +4,7 @@
 
 „a) amely szerződést Magyarország vagy EGT-állam területén lévő ingatlanon alapított jelzálogjog biztosít és a kapcsolódó kölcsönrész nyújtása esetén figyelembe vették a 3. § (3) bekezdésében meghatározott szabályokat,”
 
-(2) A Jht. 8. § (4) bekezdés a) pontja helyébe a következő rendelkezés lép:
-
-(Jelzálog-hitelintézet olyan Magyarország területén lévő ingatlanon alapított önálló zálogjogot vásárolhat meg,)
-
-„a) amelyet az eladó hitelintézet jelzáloghitel biztosítékaként a (2) bekezdésben meghatározott valamennyi egyéb feltételnek megfelelően alapított vagy ilyenné átalakított, és”
+(2)
 
 (3) A Jht. 8. § (5a) bekezdés c) pontja helyébe a következő rendelkezés lép:
 

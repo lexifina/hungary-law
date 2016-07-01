@@ -1,3 +1,0 @@
-71. § A Gfbt. 13. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Egy biztosítási esemény vonatkozásában a károsultak számától függetlenül a biztosító dologi károk esetén káreseményenként egymillió-kettőszázhúszezer eurónak megfelelő forintösszeg-határig, személyi sérülés miatti károk esetén káreseményenként hatmillió-hetvenezer eurónak megfelelő forintösszeg-határig köteles helytállni, amely összegek magukban foglalják a káresemény kapcsán bármilyen jogcímen érvényesíthető követeléseket, az igényérvényesítés költségeit (beleértve a jogi képviseleti költségeket is), valamint a teljesítés időpontjáig eltelt időszakra járó kamatokat.”
