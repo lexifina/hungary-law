@@ -7,9 +7,3 @@
 ## A plakett alsó részét záró körív bal és jobb oldalán szimmetrikus, zöld színű tölgyfalevél ékítmények láthatók, amelyek az igazolványszámot fogják közre. A pajzs legalsó részében apró, szabályos négylevelű lóherén két, egymásra helyezett villás végződésű zászlószalag díszítőelem.
 
 5. melléklet a 32/2015. (VI. 16.) BM rendelethez
-
-A Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjai szolgálati jelvényének leírása
-
-A szolgálati jelvény ezüst/szürke színű, köriratában a szolgálat megnevezését és a megalakulásának dátumát tartalmazza, a Friz Quadrata betűtípus nagybetűs változatával szedve.
-
-Középen jobboldalra néző, kiterjesztett szárnyú turulmadár, amely csőrében István-kardot, karmai között pedig lovagi pajzsot és „Fortes fortuna adiuvat” feliratú szalagot tart. A lovagi pajzs 4/4 osztású, egymást váltó piros és ezüst/fehér színű sávozással. A jelvény felső harmada a jelvény sorszámát tartalmazza.
