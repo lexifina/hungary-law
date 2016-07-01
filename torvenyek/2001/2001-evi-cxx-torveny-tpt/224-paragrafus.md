@@ -4,9 +4,9 @@
 
 a) elfogadja az Alap szabályzatait;
 
-b) javaslatot tesz az Országos Betétbiztosítási Alap ügyvezető igazgató helyettesének kinevezésére és felmentésére, valamint díjazására;
+b) javaslatot tesz az Országos Betétbiztosítási Alap igazgatótanácsának az Országos Betétbiztosítási Alap ügyvezető igazgató helyettesének kinevezésére és felmentésére, feladatai meghatározására, valamint díjazására;
 
-c)
+c) dönt az Alap feladatainak végrehajtásával kapcsolatos intézkedésekről, valamint irányítja és ellenőrzi az e törvényben meghatározott feladatoknak az Országos Betétbiztosítási Alap ügyvezető igazgató helyettese irányításával történő végrehajtását;
 
 d) meghatározza a tagsági viszonyból eredő kötelezettségek teljesítése érdekében az Alap tagjai által nyújtandó jelentések tartalmát és gyakoriságát;
 

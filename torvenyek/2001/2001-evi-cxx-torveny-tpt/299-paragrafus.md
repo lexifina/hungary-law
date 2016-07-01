@@ -8,4 +8,4 @@
 
 (3) Tőzsde árualapú ügyletek, deviza valamint határidős kamatláb ügyletek kereskedése esetén legalább egyszázötven millió, egyéb tőzsdei termék kereskedése esetén legalább ötszázmillió forint pénzben befizetett alaptőkével (jegyzett tőkével) alapítható.
 
-(4) Tőzsde alapító tagjaként az alapítás alatt lévő tőzsdében minősített befolyást csak olyan személy szerezhet, aki a 296/B. § (7) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű, és akinek az adóhatósággal, vámhatósággal, illetve a társadalombiztosítási szervvel szemben tartozása nincs.
+(4) Tőzsde alapító tagjaként az alapítás alatt lévő tőzsdében minősített befolyást csak olyan személy szerezhet, aki a 357. § (3) bekezdésében meghatározott bűncselekményi kör tekintetében büntetlen előéletű, és akinek az adóhatósággal, vámhatósággal, illetve a társadalombiztosítási szervvel szemben tartozása nincs.

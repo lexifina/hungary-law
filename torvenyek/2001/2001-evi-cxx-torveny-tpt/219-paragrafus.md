@@ -2,6 +2,6 @@
 
 (2) A befektető szerződéssel alátámasztott követelésének és az Alap tagja által vezetett nyilvántartás adatainak megegyezése esetén, az egyezőség erejéig az Alap kártalanítást állapít meg, és köteles gondoskodni a jogosultnak járó összeg haladéktalan, de legfeljebb az elbírálástól számított kilencven napon belül történő kifizetéséről. Különösen indokolt esetben a kifizetési határidő – a Felügyelet előzetes jóváhagyásával – egy alkalommal és legfeljebb további kilencven nappal meghosszabbítható. A kifizetés időpontjának az a nap tekintendő, amikor a befektető először hozzájuthatott a megállapított kártalanítási összeghez.
 
-(3) Az Alap az e törvényben rögzített feltételek szerint akkor is fizet kártalanítást, ha a befektető részére kártalanítás a (2) bekezdésben írtak szerint nem állapítható meg, viszont követelését jogerős bírósági határozattal igazolja. Ebben az esetben a befektető a határozat jogerőre emelkedését követő kilencven napon belül terjesztheti elő igényét, amelyhez mellékelnie kell a követelést megalapozó határozatot.
+(3) Az Alap az e törvényben rögzített feltételek szerint akkor is fizet kártalanítást, ha a befektető részére kártalanítás a (2) bekezdésben írtak szerint nem állapítható meg, viszont követelését jogerős bírósági határozattal igazolja. Ebben az esetben a befektető a határozat jogerőre emelkedését követő kilencven napon belül terjesztheti elő igényét, amelyhez mellékelnie kell a követelést megalapozó jogerős bírósági határozatot.
 
 (4)

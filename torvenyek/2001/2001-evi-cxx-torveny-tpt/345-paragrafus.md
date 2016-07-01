@@ -10,4 +10,4 @@
 
 (6) Másodlagos értékpapír kibocsátása esetén a felszámolási eljárás során az elsődleges értékpapír a másodlagos értékpapír tulajdonosai által letétbe helyezett, az ügyfelek tulajdonát képező értékpapírként kezelendő, és az nem képezi a felszámolási vagyon részét.
 
-(7) Központi értéktár felszámolása esetén az 575/2013/EU európai parlamenti és tanácsi rendelet szerinti alárendelt kölcsönből eredő tartozást a Cstv. 57. § (1) bekezdésének g) pontjában meghatározott tartozás kielégítését követően kell kielégíteni.
+(7) Központi értéktár felszámolása esetén az 575/2013/EU európai parlamenti és tanácsi rendelet szerinti alárendelt kölcsönből eredő tartozást a Cstv. 57. § (1) bekezdés h) pontjában meghatározott tartozás kielégítését követően kell kielégíteni.

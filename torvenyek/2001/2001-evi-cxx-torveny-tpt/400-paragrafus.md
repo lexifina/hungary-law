@@ -1,6 +1,6 @@
 400. § (1) A Felügyelet az alábbi intézkedéseket, szankciókat alkalmazhatja:
 
-a) a kibocsátót, a felügyelete alá tartozó szervezetet, valamint ezek vezető állású személyét és alkalmazottját, a befolyásszerzőt az értékpapírok forgalomba hozatalára és előállítására, a tájékoztatási kötelezettségének teljesítésére, az auditbizottság létrehozására és működtetésére, a bennfentes információhoz hozzáférő személyekről vezetendő nyilvántartásra, a tőzsde által végzett tevékenységre, a központi szerződő fél által végzett tevékenységre, illetve a központi értéktár által végzett tevékenységre, valamint a nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó jogszabályban, szabályzatban és az engedélyben meghatározott feltételek megsértése esetén figyelmezteti, illetve – ha szükséges – a feltételeknek való megfelelésre határidő kitűzésével felszólítja;
+a) a kibocsátót, a felügyelete alá tartozó szervezetet, valamint ezek vezető állású személyét és alkalmazottját, a befolyásszerzőt, a bennfentes kereskedelmet és piacbefolyásolást elkövető személyt az értékpapírok forgalomba hozatalára és előállítására, a tájékoztatási kötelezettségének teljesítésére, az auditbizottság létrehozására és működtetésére, a bennfentes információhoz hozzáférő személyekről vezetendő nyilvántartásra, a tőzsde által végzett tevékenységre, a központi szerződő fél által végzett tevékenységre, illetve a központi értéktár által végzett tevékenységre, valamint a nyilvánosan működő részvénytársaságban történő befolyásszerzésre vonatkozó jogszabályban, szabályzatban és az engedélyben meghatározott feltételek megsértése esetén figyelmezteti, illetve – ha szükséges – a feltételeknek való megfelelésre határidő kitűzésével felszólítja;
 
 b) az engedély nélkül tőzsdei, a központi szerződő fél által végzett, illetve központi értéktári tevékenység folytatását megtilthatja;
 
@@ -20,7 +20,7 @@ i) meghatározott időre felfüggesztheti a tőzsdei szekcióban történő kere
 
 j) a tőzsde, a központi szerződő fél, a központi értéktár tevékenységi engedélyét visszavonhatja;
 
-k) a kockázati tőkealap-kezelőt meglévő szerződéses kötelezettségeinek más szolgáltató részére történő átadására kötelezheti;
+k)
 
 l) felügyeleti biztost rendelhet ki a tőzsdéhez, központi szerződő félhez illetve a központi értéktárhoz;
 

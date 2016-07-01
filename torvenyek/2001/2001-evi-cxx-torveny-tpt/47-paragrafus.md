@@ -6,7 +6,7 @@
 
 (3) A kibocsátó, illetve az ajánlattevő eltérő rendelkezése hiányában a forgalomba hozatali időszak alatt a forgalomba hozatali helyek a forgalomba hozatal eredményét naponta jelentik a kibocsátónak, illetve az ajánlattevőnek.
 
-(4) Az értékpapír megszerzésére vonatkozó nyilatkozat elfogadására kizárólag az ismertetőben, a tájékoztatóban vagy az alaptájékoztatóban meghirdetett módon (forgalomba hozatali helyeken, a forgalomba hozatalra nyitva álló időtartam alatt, üzleti órákban) kerülhet sor.
+(4) Az értékpapír megszerzésére vonatkozó nyilatkozat átvételére kizárólag az ismertetőben, a tájékoztatóban vagy az alaptájékoztatóban meghirdetett módon (különösen: forgalomba hozatali helyeken, a forgalomba hozatalra nyitva álló időtartam alatt, üzleti órákban vagy elektronikus úton) kerülhet sor.
 
 (5) A befektető személy által a kibocsátónak, az ajánlattevőnek vagy a forgalmazónak átadott személyes adatok – a befektető személy kifejezett hozzájárulása hiányában – az adott értékpapír forgalomba hozatalához nem kapcsolódó célra nem használhatók fel.
 
