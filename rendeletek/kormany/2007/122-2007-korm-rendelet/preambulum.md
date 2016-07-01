@@ -1,1 +1,0 @@
-A Kormány az 1–10. § és a 13. § tekintetében a közbeszerzésekről szóló 2003. évi CXXIX. törvény (a továbbiakban: Kbt.) 404. § (1) bekezdés a) pontjában, a 11–13. § tekintetében a Kbt. 404. § (1) bekezdés e) pontjában kapott felhatalmazás alapján, az Alkotmány 35. § (1) bekezdés b) pontjában megállapított feladatkörében a következőket rendeli el:
