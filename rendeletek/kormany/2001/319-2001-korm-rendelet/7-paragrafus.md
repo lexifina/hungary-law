@@ -1,7 +1,21 @@
-7. §[^21] (1)[^22] A kormányhivatal a jogosultság megállapításával egyidejűleg a jogosult adatait nyilvántartásba veszi.
+7. §[^22] (1) A Hivatal vezeti a diákkedvezményekre való jogosultsággal összefüggő, a (2) bekezdésben meghatározott adatok közhiteles nyilvántartását, amelyből kérelemre adatszolgáltatást teljesít.
 
-(2)[^23] A kérelem adatait a kormányhivatal – a jogosultságok fennállásáig – megőrzi elektronikus adattárában.
+(2) A Hivatal által vezetett nyilvántartás tartalmazza
 
-[^21]: A 7. § a 182/2009. (IX. 10.) Korm. rendelet 261. § (2) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^22]: A 7. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 90. § b) pontja szerint módosított szöveg.
-[^23]: A 7. § (2) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 90. § d) pontja szerint módosított szöveg.
+a) a kérelem sorszámát;
+
+b) a döntést hozó eljáró hatóság megnevezését;
+
+c) a jogosultság megállapításának idejét;
+
+d) az érvényesítés tényét igazoló érvényesítő matrica sorszámát; és
+
+e) az igénylő „Magyar igazolványának” számát.
+
+(3) Az eljáró hatóság a diákkedvezményekre való jogosultság megállapításáról, valamint a jogosultság megállapításának visszavonásáról szóló döntését közli a Hivatallal. A közlés tartalmazza a döntés alapjául szolgáló kérelem sorszámát, az érvényesítés tényét igazoló érvényesítő matrica sorszámát és a „Magyar igazolvány” számát is.
+
+(4) A Hivatal a diákkedvezményekre való jogosultságot a közlést követő három munkanapon belül a nyilvántartásába bejegyzi, valamint a jogosultság megszűnését követően haladéktalanul törli a nyilvántartásából.
+
+(5) A Hivatal a jogosultságnak a nyilvántartásból való törlését követően a diákkedvezményekre való jogosultsághoz kapcsolódó, a (2) bekezdésben meghatározott adatokat öt évig megőrzi.
+
+[^22]: A 7. § a 136/2016. (VI. 13.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.

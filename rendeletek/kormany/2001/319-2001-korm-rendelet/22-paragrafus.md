@@ -1,17 +1,3 @@
-22. §[^53] (1) A készítő külön nyilvántartást vezet, amely tartalmazza:
+## 21. §[^37] A kedvezményekre való jogosultság megállapítását követően az eljáró hatóság jegyzi be a kedvezményekre való jogosultságot az érvényesítő matricának a kérelmező „Magyar igazolványába”, illetve annak pótfüzetébe történő beragasztásával és a „Magyar igazolvány” vagy pótfüzet lebélyegzésével. A bejegyzés érdekében az eljáró hatóság előtt a tanuló, illetve a hallgató személyesen, törvényes képviselője vagy meghatalmazottja útján járhat el. Az eljárás során a „Magyar igazolvány” vagy pótfüzet postai úton is megküldhető az eljáró hatóságnak.
 
-a)[^54] a kormányhivatalnak, vagy a külképviseletnek átadott érvényesítő matricák darabszámát;
-
-b) a kérelem sorszámát.
-
-(2)[^55] A Hivatal, mint a Szátv. 21. § (6) bekezdése szerinti elbíráló hatóság nyilvántartja
-
-a) a kérelembe bejegyzett adatokat,
-
-b) a kérelem sorszámát,
-
-c) a diákkedvezményekre való jogosultság „Magyar igazolványba” történő bejegyzésének tényét.
-
-[^53]: A 22. § a 132/2007. (VI. 12.) Korm. rendelet 16. §-ával megállapított szöveg. E módosító rendelet 19. § (5) bekezdése alapján a rendelkezést a 2007. július 12. napja után indult ügyekben kell alkalmazni. A folyamatban lévő, diákigazolvány iránti kérelmeket a Hivatal a diákigazolvány kiállításával, illetve meghosszabbításával teljesíti.
-[^54]: A 22. § (1) bekezdés a) pontja a 351/2010. (XII. 30.) korm. rendelet 90. § g) pontja szerint módosított szöveg.
-[^55]: A 22. § (2) bekezdés nyitó szövegrésze a 351/2010. (XII. 30.) Korm. rendelet 90. § b) pontja szerint módosított szöveg.
+[^37]: A 21. § a 136/2016. (VI. 13.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
