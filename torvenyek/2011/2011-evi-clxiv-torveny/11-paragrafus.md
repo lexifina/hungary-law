@@ -10,7 +10,7 @@
 
 a) alügyészként, bírósági titkárként, közjegyzőként, ügyvédként, jogtanácsosként, az OKRI-ban kutatóként, nyomozó hatóságnál nyomozóként legalább egy évig ténylegesen dolgozott,
 
-b) a közszolgálati tisztviselőkről szóló törvény (a továbbiakban: Kttv.) 1. § a)–c) pontjában és 2. §-ában meghatározott szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben legalább egy évig ténylegesen dolgozott,
+b) a közszolgálati tisztviselőkről szóló törvény (a továbbiakban: Kttv.) 1. § a)–c) pontjában és 2. §-ában meghatározott, valamint az állami tisztviselőkről szóló 2016. évi LII. törvény hatálya alá tartozó szervnél közigazgatási, illetve jogi szakvizsgához kötött munkakörben legalább egy évig ténylegesen dolgozott,
 
 c) ügyészként, alkotmánybíróként, bíróként működött,
 
@@ -48,7 +48,7 @@ e) akivel szemben a bíróság próbára bocsátást alkalmazott, a próbaidő, 
 
 f) akivel szemben büntetőeljárás – ide nem értve a magánvádas vagy pótmagánvádló vádindítványa alapján indult eljárást – van folyamatban, a büntetőeljárás jogerős bejezéséig,
 
-g) akit ügyészként, bíróként, kormánytisztviselőként, köztisztviselőként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként, igazságügyi alkalmazottként, alügyészként és fogalmazónként, ügyvédként, ügyvédjelöltként, közjegyzőként, közjegyző helyettesként a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
+g) akit ügyészként, bíróként, kormánytisztviselőként, állami tisztviselőként, köztisztviselőként, végrehajtóként, közalkalmazottként, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjaként, igazságügyi alkalmazottként, alügyészként és fogalmazóként, ügyvédként, ügyvédjelöltként, közjegyzőként, közjegyző helyettesként a legsúlyosabb fegyelmi büntetéssel sújtottak, mindaddig, amíg a fegyelmi büntetés hatálya alatt áll,
 
 h) aki külön törvényben szabályozott vagyonnyilatkozat-tételi kötelezettségét megszegte.
 
