@@ -2,19 +2,19 @@
 
 a) munkavégzésre irányuló jogviszony keletkezését igazoló okirattal;
 
-b)[^59] ha a kérelmező gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy tulajdonosaként, ügyvezetőjeként, vezetői, képviseleti vagy felügyeleti szerve tagjaként végzi tevékenységét, érvényes szerződéssel vagy a cégjegyzékbe bejegyzett cég nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozattal;
+b)[^66] ha a kérelmező gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési céllal létrejött – jogi személy tulajdonosaként, ügyvezetőjeként, vezetői, képviseleti vagy felügyeleti szerve tagjaként végzi tevékenységét, érvényes szerződéssel vagy a cégjegyzékbe bejegyzett cég nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozattal;
 
-c)[^60] érvényes vállalkozói igazolvánnyal vagy azzal egyenértékű – más tagállam hatósága által kiállított – vállalkozási tevékenység folytatására jogosító engedéllyel, egyéni vállalkozói igazolvány hiányában egyéni vállalkozói nyilvántartási számmal;
+c)[^67] érvényes vállalkozói igazolvánnyal vagy azzal egyenértékű – más tagállam hatósága által kiállított – vállalkozási tevékenység folytatására jogosító engedéllyel, egyéni vállalkozói igazolvány hiányában egyéni vállalkozói nyilvántartási számmal;
 
 d) munkát kereső személy esetén olyan dokumentumokkal, amelyek alátámasztják, hogy munkát keres, és a keresőtevékenység megkezdése valószínű, vagy
 
 e) egyéb hitelt érdemlő módon.
 
-(1a)[^61] Az (1) bekezdés b) pontja szerinti esetben a cégkivonatot a Tv. alkalmazásában eljáró hatóság a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(1a)[^68] Az (1) bekezdés b) pontja szerinti esetben a cégkivonatot a Tv. alkalmazásában eljáró hatóság a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-(2)[^62] Azon EGT-állampolgárok esetében, akiket Magyarország más elbánásban részesít, mint amit a munkavállalók Közösségen belüli szabad mozgásáról szóló, 1968. október 25-i 1612/68/EGK tanácsi rendelet 1–6. cikke előír, a munkavállalási engedély csatolása is szükséges.
+(2)[^69] Azon EGT-állampolgárok esetében, akiket Magyarország más elbánásban részesít, mint amit a munkavállalók Közösségen belüli szabad mozgásáról szóló, 1968. október 25-i 1612/68/EGK tanácsi rendelet 1–6. cikke előír, a munkavállalási engedély csatolása is szükséges.
 
-[^59]: A 20. § (1) bekezdés b) pontja a 355/2012. (XII. 13.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^60]: A 20. § (1) bekezdés c) pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
-[^61]: A 20. § (1a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 25. § (2) bekezdése iktatta be.
-[^62]: A 20. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^66]: A 20. § (1) bekezdés b) pontja a 355/2012. (XII. 13.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^67]: A 20. § (1) bekezdés c) pontja a 308/2009. (XII. 28.) Korm. rendelet 7. § (3) bekezdése szerint módosított szöveg.
+[^68]: A 20. § (1a) bekezdését a 355/2012. (XII. 13.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^69]: A 20. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.

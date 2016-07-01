@@ -1,6 +1,6 @@
-## 41. §[^95] A Tv. 27. § (2) és (3) bekezdésében meghatározott értesítést a regionális igazgatóság közvetlenül, elektronikus úton teljesíti.
+## 41. §[^106] A Tv. 27. § (2) és (3) bekezdésében meghatározott értesítést a regionális igazgatóság közvetlenül, elektronikus úton teljesíti.
 
-42. §[^96] (1) A regionális igazgatóság és a Rendőrség az úti okmányának, személyazonosító igazolványának, illetve tartózkodási jogát igazoló okmányának eltulajdonítását, vagy elvesztését bejelentő EGT-állampolgárnak vagy családtagnak – az állampolgárság valószínűsítése esetén – díjmentesen igazolást állít ki a bejelentés tényéről.
+42. §[^107] (1) A regionális igazgatóság és a Rendőrség az úti okmányának, személyazonosító igazolványának, illetve tartózkodási jogát igazoló okmányának eltulajdonítását, vagy elvesztését bejelentő EGT-állampolgárnak vagy családtagnak – az állampolgárság valószínűsítése esetén – díjmentesen igazolást állít ki a bejelentés tényéről.
 
 (2) Ha az elveszettnek hitt okmányt a tulajdonosa megtalálja, és részére új úti okmányt vagy tartózkodási jogot igazoló okmányt még nem adtak ki, a tartózkodási jogot ideiglenesen igazoló igazolást köteles a kiállító hatóságnak leadni.
 
@@ -14,5 +14,5 @@
 
 (7) Ha a Tv.-ben meghatározott eljárások során kiadott okmánynak a Hivatal általi körözése indokolt, annak a nyilvántartásba történő bejegyzéséről az okmányt kiállító regionális igazgatóság gondoskodik.
 
-[^95]: A 41. § a 290/2010. (XII. 21.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^96]: A 42. § a 15/2013. (I. 28.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^106]: A 41. § a 290/2010. (XII. 21.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^107]: A 42. § a 15/2013. (I. 28.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.

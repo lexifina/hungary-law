@@ -10,6 +10,6 @@ b) 17. és 18. §-a
 
 ## a Magyar Köztársaságot a schengeni vívmányok teljes körű alkalmazására felhatalmazó tanácsi határozatban meghatározott napon lép hatályba.
 
-(3)–(4)[^150]
+(3)–(4)[^162]
 
-[^150]: A 79. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 94. pontja hatályon kívül helyezte.
+[^162]: A 79. § (3)–(4) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 94. pontja hatályon kívül helyezte.

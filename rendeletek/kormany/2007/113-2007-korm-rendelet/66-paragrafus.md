@@ -2,6 +2,6 @@
 
 66. § (1) A kiutasítás végrehajtása során törekedni kell arra, hogy az a kiutasítottnak a lehető legkevesebb költséget okozza.
 
-(2)[^135] A Tv. 62. §-ában meghatározott megtérítési kötelezettséget a kiutasítást végrehajtó hatóság végzésben rendeli el. A kötelezettséget az elrendeléstől számított három hónapon belül kell teljesíteni.
+(2)[^146] A Tv. 62. §-ában meghatározott megtérítési kötelezettséget a kiutasítást végrehajtó hatóság végzésben rendeli el. A kötelezettséget az elrendeléstől számított három hónapon belül kell teljesíteni. A teljesítési határidő eredménytelen eltelte esetén a Tv. 62. §-ban meghatározott személyek vonatkozásában a közigazgatási végrehajtás szabályait kell alkalmazni.
 
-[^135]: A 66. § (2) bekezdés harmadik mondatát a 182/2009. (IX. 10.) Korm. rendelet 545. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^146]: A 66. § (2) bekezdése a 113/2016. (V. 30.) Korm. rendelet 15. §-ával megállapított szöveg.

@@ -8,11 +8,11 @@
 
 (4) A visszaküldési tilalom vizsgálata az EGT-állampolgárral, illetve a családtaggal szemben elrendelt kitoloncolási őrizet végrehajtását, illetve a kijelölt helyen való tartózkodás kötelezettségét nem érinti.
 
-(5)[^106] Az eljáró hatóság a határozat végrehajtását felfüggeszti és kezdeményezi a humanitárius tartózkodási engedély kiállítását, ha a menekültügyi hatóság véleménye alapján az eljárásában megállapítja a Tv. 34. § (1) bekezdésében foglalt tilalom fennállását.
+(5)[^117] Az eljáró hatóság a határozat végrehajtását felfüggeszti és kezdeményezi a humanitárius tartózkodási engedély kiállítását, ha a menekültügyi hatóság véleménye alapján az eljárásában megállapítja a Tv. 34. § (1) bekezdésében foglalt tilalom fennállását.
 
 (6) A Tv. 34. § (1) bekezdése szerinti tilalom fennállását nem alapozhatja meg az a körülmény, hogy az EGT-állampolgár vagy a családtag részére a származási államának külképviselete nem állítja ki a hazatérésre szolgáló úti okmányt.
 
-(7)[^107] Az eljáró hatóság az (1) bekezdésben foglaltak szerint a visszaküldés akadályának fennállását folyamatosan, de legalább évente felülvizsgálja. A visszaküldés akadályának megszűnése esetén az eljáró hatóság a határozat végrehajtását folytatja.
+(7)[^118] Az eljáró hatóság az (1) bekezdésben foglaltak szerint a visszaküldés akadályának fennállását folyamatosan, de legalább évente felülvizsgálja. A visszaküldés akadályának megszűnése esetén az eljáró hatóság a határozat végrehajtását folytatja.
 
-[^106]: A 45. § (5) bekezdése a 113/2016. (V. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
-[^107]: A 45. § (7) bekezdése a 113/2016. (V. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^117]: A 45. § (5) bekezdése a 113/2016. (V. 30.) Korm. rendelet 13. § (1) bekezdésével megállapított szöveg.
+[^118]: A 45. § (7) bekezdése a 113/2016. (V. 30.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
