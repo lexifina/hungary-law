@@ -218,7 +218,7 @@
 
 ## * Felhasználó igénye szerint, vagy általános szabályok szerint meghatározott külső hőmérséklet alapján végzett fűtési szolgáltatás napjainak száma.
 
-5. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^93]
+5. melléklet a 157/2005. (VIII. 15.) Korm. rendelethez[^94]
 
 A fűtési költségmegosztók jellemzői
 
@@ -242,4 +242,4 @@ dt: a hőleadó készülék közepes hőmérséklete és a helyiség levegője k
 
 3. Fűtési költségmegosztás céljára alkalmazott hőfogyasztás-mérő: a mérőeszközökre vonatkozó egyedi előírásokról szóló rendeletben foglalt követelményeknek megfelelő, a fűtési elosztó hálózat előremenő és visszatérő vezetékébe szakszerűen beépített műszer, amely a felszerelését követő vezetékszakaszon és a hőleadó készülékeken leadott fűtési hőmennyiséget méri, valamint a hőhordozó folyadék által átadott hőmennyiséget a kijelzőjén megjeleníti.
 
-[^93]: A Vhr. 5. számú mellékletét a 104/2011. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^94]: A Vhr. 5. számú mellékletét a 104/2011. (VI. 29.) Korm. rendelet 4. § (2) bekezdése iktatta be.

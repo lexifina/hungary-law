@@ -1,4 +1,4 @@
-17/G. §[^44] (1) A felhasználási helyen a használati melegvíz készítéséhez igénybe vett hőmennyiség és díjának épületrészek közötti megosztására szolgáló díjmegosztási arányok (a továbbiakban: melegvíz-díjmegosztási arányok) meghatározása a felhasználási hely tulajdonosi közösségének – társasház esetében a szervezeti-működési szabályzat, lakásszövetkezetnél az alapszabály rendelkezéseivel összhangban meghozott – döntése alapján a következő módokon történhet:
+17/G. §[^45] (1) A felhasználási helyen a használati melegvíz készítéséhez igénybe vett hőmennyiség és díjának épületrészek közötti megosztására szolgáló díjmegosztási arányok (a továbbiakban: melegvíz-díjmegosztási arányok) meghatározása a felhasználási hely tulajdonosi közösségének – társasház esetében a szervezeti-működési szabályzat, lakásszövetkezetnél az alapszabály rendelkezéseivel összhangban meghozott – döntése alapján a következő módokon történhet:
 
 a) használati melegvíz-költségmegosztók alkalmazásával a használati melegvíz-költségmegosztókon mért fogyasztási adatok alapulvételével a (2) bekezdésben meghatározottak szerint, vagy
 
@@ -40,4 +40,4 @@ b) legkésőbb a használati melegvíz-költségmegosztók leolvasását követ�
 
 (9) A helyszínen végzett leolvasásról vagy pótleolvasásról, valamint a plomba működőképessége és a költségmegosztó sértetlensége helyszíni ellenőrzéséről a leolvasást, ellenőrzést végző, valamint a díjfizető által aláírt – a díjfizető esetleges véleményeltérését is tartalmazó – jegyzőkönyvet kell készíteni. A jegyzőkönyv egy példányát a leolvasást, ellenőrzést végző a díjfizető részére átadja. Ha a díjfizető nem teszi lehetővé a leolvasást, pótleolvasást vagy az ellenőrzést, továbbá ha a jegyzőkönyvet nem írja alá, a leolvasást, ellenőrzést végző ennek tényét a jegyzőkönyvben rögzíti és a jegyzőkönyv egy példányát a díjfizető részére, valamint a tulajdonosi közösség képviselőjének adja át.
 
-[^44]: A Vhr. 17/G. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^45]: A Vhr. 17/G. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
