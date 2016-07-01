@@ -4,7 +4,7 @@
 
 1.1. hatóságok kijelölését, illetékességi területük lehatárolását, feladat- és hatáskörét,
 
-1.2. hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását, az építési folyamat felügyeletét ellátó döntéshozó és döntést előkészítő köztisztviselők és kormánytisztviselők foglalkoztatási feltételeit,
+1.2. hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását, az építési folyamat felügyeletét ellátó döntéshozó és döntést előkészítő köztisztviselők és kormánytisztviselők, valamint állami tisztviselők foglalkoztatási feltételeit,
 
 1.3 hatósági tevékenységet ellátó személyekre vonatkozó összeférhetetlenségi szabályokat,
 
