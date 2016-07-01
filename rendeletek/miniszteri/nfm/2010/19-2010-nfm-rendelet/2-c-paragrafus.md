@@ -1,4 +1,4 @@
-## 2/B. §[^5] A volt közüzemi nagykereskedő által vételre felajánlott és a GET 141/C. § (2) bekezdése szerinti földgázkereskedővel kötött szerződésben meghatározott földgázforrás árát – amely az árképzési rendelet szerint meghatározott egyetemes szolgáltatási árelemeket tartalmazza a nagykereskedői árrés, a szállítási és tárolási díj, a mobilgáz-finanszírozási költség, az elosztási díj és az egyetemes szolgáltatói árrés kivételével – a 10. melléklet tartalmazza. A földgázforrás mennyiségét a 10. melléklet a földgáztárolóból és a nem földgáztárolóból származó mennyiségek szerinti bontásban tartalmazza.
+## 2/B. §[^5]
 
 2/C. §[^6] (1) A GET 141/J. § (1) bekezdése alapján a volt közüzemi nagykereskedő által vételre felajánlott és a GET 141/J. § (3) bekezdése szerinti szerződés keretében az egyetemes szolgáltatók részére értékesítendő földgázforrás mennyiségét és árának mennyiségarányos díjelemét, továbbá a feleket a 11. melléklet tartalmazza. A 11. melléklet szerinti földgázforrás mennyiségarányos díjeleme tartalmazza a nagykereskedői árrés, a mobilgáz-finanszírozás és a szállítás és a tárolás mennyiségarányos költségeinek indokolt mértékét, valamint az árrendeletben szereplő, az egyetemes szolgáltatók által alkalmazandó díjak mértéke alapján meghatározott földgáz árát.
 
@@ -10,7 +10,7 @@
 
 (4) A GET 141/J. § szerinti forrásfelajánlásból igénylő egyetemes szolgáltató köteles a volt közüzemi nagykereskedőnek megadni a felajánlásból történő vételezésének tervezett mennyiségeit havi bontásban.
 
-[^5]: A 2/B. §- t a 43/2014. (X. 18.) NFM rendelet 1. §-a iktatta be.
+[^5]: A 2/B. §- t a 43/2014. (X. 18.) NFM rendelet 1. §-a iktatta be, hatályon kívül helyezte a 20/2016. (VI. 30.) NFM rendelet 4. § a) pontja.
 [^6]: A 2/C. §-t a 37/2015. (VI. 30.) NFM rendelet 8. §-a iktatta be.
 [^7]: A 2/C. § (1a) bekezdését a 6/2016. (III. 30.) NFM rendelet 5. § (2) bekezdése iktatta be.
 [^8]: A 2/C. § (2) bekezdése az 54/2015. (IX. 30.) NFM rendelet 2. §-ával megállapított szöveg.
