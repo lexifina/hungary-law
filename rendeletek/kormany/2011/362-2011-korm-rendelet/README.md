@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-362-20-
 | 2013-07-30 | 2011-362-20-22.11 | 299/2013. (VII. 29.) Korm. rendelet |
 | 2014-03-14 | 2011-362-20-22.12 | 74/2014. (III. 13.) Korm. rendelet |
 | 2016-01-01 | 2011-362-20-22.13 | 392/2015. (XII. 11.) Korm. rendelet |
+| 2016-07-01 | 2011-362-20-22.14 | 169/2016. (VII. 1.) Korm. rendelet |

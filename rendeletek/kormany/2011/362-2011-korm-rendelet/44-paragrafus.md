@@ -1,3 +1,3 @@
-## 43. §[^90]
+44. §[^93]
 
-[^90]: A 43. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^93]: A 44. § a 74/2014. (III. 13.) Korm. rendelet 14. §-a alapján nem lép hatályba.

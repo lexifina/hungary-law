@@ -1,12 +1,10 @@
-## 44. §[^91]
+45. § (1)[^94]
 
-45. § (1)[^92]
+(2)[^95]
 
-(2)[^93]
+(3)[^96]
 
-(3)[^94]
-
-Melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^95]
+Melléklet a 362/2011. (XII. 30.) Korm. rendelethez[^97]
 
 Igazolás
 
@@ -22,9 +20,9 @@ c) az oktatás, képzés tényleges helyének címe (ha az eltér a székhely c�
 
 2) Igazolás típusa:
 
-| diákigazolvány helyett | pedagógusigazolvány helyett | oktatói igazolvány helyett |
+| diákigazolvány helyett | pedagógusigazolvány helyett |  |
 
-| kiállított | kiállított | kiállított |
+| kiállított | kiállított |  |
 
 3) A jogosult
 
@@ -72,8 +70,7 @@ megbízott személynek az aláírása
 
 6 Az igazolás érvényességi ideje a 4) pont a) és c) alpontja esetén 60 nap. A 4) pont b) alpontja esetén a kiadott igazolás érvényességi ideje a jogviszony első félév végén történő megszűnése esetén a megszűnést követő március 31. napja, a jogviszony második félév végén történő megszűnése esetén a megszűnést követő október 31. napja.
 
-[^91]: A 44. § a 74/2014. (III. 13.) Korm. rendelet 14. §-a alapján nem lép hatályba.
-[^92]: A 45. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^93]: A 45. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^94]: A 45. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^95]: A melléklet az 59/2012. (III. 30.) Korm. rendelet 1. § (6), (7) és (8) bekezdése, a 74/2014. (III. 13.) Korm. rendelet 12. § m) pontja szerint módosított szöveg.
+[^94]: A 45. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^95]: A 45. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^96]: A 45. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^97]: A melléklet az 59/2012. (III. 30.) Korm. rendelet 1. § (6), (7) és (8) bekezdése, a 74/2014. (III. 13.) Korm. rendelet 12. § m) pontja, a 169/2016. (VII. 1.) Korm. rendelet 6. § e) pontja szerint módosított szöveg.
