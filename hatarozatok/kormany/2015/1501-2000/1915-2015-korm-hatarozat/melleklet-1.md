@@ -8,11 +8,11 @@
 
 ## Határidő: azonnal
 
-## 2. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az 1. pont szerint átcsoportosított előirányzattal történő elszámolásról, illetve az előirányzat fel nem használt részének Miniszterelnökség részére történő visszafizetéséről.
+## 2.[^1] felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az 1. pont szerint átcsoportosított előirányzattal történő elszámolásról, illetve az előirányzat fel nem használt részének Miniszterelnökség részére történő visszafizetéséről.
 
 ## Felelős: nemzetgazdasági miniszter
 
-## Határidő: 2016. január 31.
+## Határidő: 2016. július 31.
 
 1. melléklet az 1915/2015. (XII. 11.) Korm. határozathoz
 
@@ -77,3 +77,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2. pont az 1328/2016. (VII. 1.) Korm. határozattal megállapított szöveg.
