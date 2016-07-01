@@ -1,8 +1,8 @@
-## 18/A. §[^20]
+## 18/A. §[^21]
 
 ## 6. A Hivatal végzettség elismerésével kapcsolatos feladatai
 
-19. §[^21] (1) A Hivatal ekvivalencia- és információs központként
+19. §[^22] (1) A Hivatal ekvivalencia- és információs központként
 
 a) hatósági jogkörében
 
@@ -40,5 +40,5 @@ c) a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. é
 
 (3) A Hivatal a szakmai képesítések elismerésével kapcsolatos feladataihoz kapcsolódóan statisztikai adatokat szolgáltat az Európai Bizottság részére.
 
-[^20]: A 18/A. §-t a 268/2014. (XI. 3.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 210/2015. (VII. 23.) Korm. rendelet 11. §-a.
-[^21]: A 19. § a 198/2015. (VII. 23.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 8. §-a alapján a 2016. január 1-jén folyamatban levő ügyekben is alkalmazni kell.
+[^21]: A 18/A. §-t a 268/2014. (XI. 3.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 210/2015. (VII. 23.) Korm. rendelet 11. §-a.
+[^22]: A 19. § a 198/2015. (VII. 23.) Korm. rendelet 5. §-ával megállapított szöveg. E módosító rendelet 8. §-a alapján a 2016. január 1-jén folyamatban levő ügyekben is alkalmazni kell.

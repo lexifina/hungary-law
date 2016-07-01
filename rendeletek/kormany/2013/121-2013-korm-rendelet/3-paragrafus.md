@@ -24,6 +24,9 @@ j) a nyelvvizsgáztatással kapcsolatos állami feladatok ellátására,
 
 k) az Európai Képesítési Keretrendszer Nemzeti Kapcsolattartó Pontja feladatainak ellátására, azzal, hogy biztosítja a működéshez szükséges feltételeket, különös tekintettel a Magyar Képesítési Keretrendszer fejlesztéseinek koordinációjára, valamint a tárcaközi szakmai munkacsoport működtetésére,
 
-l) a köznevelési, felsőoktatási és szakképzési rendszer tartalmi és módszertani kutatási és fejlesztési feladatai ellátásában közreműködő szervnek.
+l) a köznevelési, felsőoktatási és szakképzési rendszer tartalmi és módszertani kutatási és fejlesztési feladatai ellátásában közreműködő szervnek,
+
+m)[^4] a szomszédos államokban élő magyarokról szóló 2001. évi LXII. törvényben meghatározott diák-, pedagógus- és oktatói kedvezményekre való jogosultsággal összefüggő adatok közhiteles nyilvántartását vezető szervnek.
 
 [^3]: A 3. § f) pontja a 325/2013. (VIII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § m) pontját a 136/2016. (VI. 13.) Korm. rendelet 8. §-a iktatta be.
