@@ -1,5 +1,3 @@
-## A kutatóegyetem és a kutató kar minősítéshez használt értékelési szempontok
-
 | 1. | Kutatási kapacitások |
 
 | 1.1. | Tudományos fokozattal rendelkező, teljes munkaidőben foglalkoztatott oktatók, kutatók száma és aránya az összes teljes munkaidős oktató, kutató létszámának arányában, tudományterületenként, MTA tag – DSc – CSc/ PhD/DLA bontásban |

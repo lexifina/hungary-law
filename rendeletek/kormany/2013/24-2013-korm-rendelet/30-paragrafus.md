@@ -1,6 +1,4 @@
-## 29. §[^17]
-
-30. § (1) Az Nftv. 10. §-a és a jelen rendelet 2–8. §-a alapján minősített intézményeknek az Nftv. 84. § (2) bekezdés g) pontja és 84/C. §-a alapján adható többlettámogatás az alábbi jogcímeken használható fel:
+30. § (1)[^20] Az Nftv. 10. §-a és a jelen rendelet 2–8. §-a alapján minősített intézményeknek az Nftv. 84. § (2) bekezdés g) pontja és 84/C. §-a alapján adható többlettámogatás az alábbi jogcímeken használható fel:
 
 a) oktatás: az emberi erőforrások mennyiségének és képzettségi szintjének növelése;
 
@@ -10,9 +8,11 @@ c) a kutatási eredmények terjesztése;
 
 d) a technológiaátadásra irányuló tevékenységek, amennyiben e tevékenységek belső természetűek és a belőlük származó összes bevételt az érintett kutatóhelyek elsődleges tevékenységeibe fektetik be ismét;
 
-e) az oktatói és kutató kiválóság elismerése és javadalmazása;
+e) az oktatói és kutató kiválóság elismerése és javadalmazása, ösztöndíjak adományozása, kiegészítése;
 
-f) nemzetközi kapcsolatépítést és államközi megállapodás alapján külföldi hallgatók fogadását szolgáló szervezetfejlesztés.
+f) nemzetközi kapcsolatépítést és államközi megállapodás alapján külföldi hallgatók fogadását szolgáló szervezetfejlesztés;
+
+g) hallgatói kiválóság elismerése, ösztöndíjak adományozása, kiegészítése.
 
 (2) A támogatás nem fordítható olyan oktatási szolgáltatások többletfinanszírozására, amelyek jellegük, finanszírozási struktúrájuk és az egymással versenyben álló magánszervezetek jelenléte miatt gazdaságinak tekintendők. Nem fordíthatók e képzések közvetlen marketing tevékenységére, valamint a képzési költségek és megállapított költségtérítéseinek csökkentésére, továbbá más állami forrásból teljes mértékben támogatott konkrét tevékenységre.
 
@@ -24,12 +24,12 @@ f) nemzetközi kapcsolatépítést és államközi megállapodás alapján külf
 
 (6) Az alkalmazott tudományok főiskoláinak többlettámogatása együttesen a költségvetési törvényben külön jogcímként meghatározott kiválósági támogatási keret legalább 2, legfeljebb 4 százaléka, de intézményenként legfeljebb 2,5 százaléka.
 
-(7)[^18] Az adott intézményt a miniszter az Nftv. 105. § (5) bekezdésében meghatározott tudományos fokozattal rendelkező oktatók és az Nftv. 101. § (9) bekezdése, valamint a 104/B. §-a szerint foglalkoztatott oktatók létszámaránya alapján részesíti támogatásban a (3)–(6) bekezdésben minősítési kategóriánként meghatározott kereteken belül. Kivételt képeznek a 2. § (2) és (3) bekezdése alapján minősített felsőoktatási intézmények, amelyek elkülönített keretét egyedi miniszteri döntéssel kell elosztani a minősített intézmények között.
+(7)[^21] Az adott intézményt a miniszter az Nftv. 105. § (5) bekezdésében meghatározott tudományos fokozattal rendelkező oktatók és az Nftv. 101. § (9) bekezdése, valamint a 104/B. §-a szerint foglalkoztatott oktatók létszámaránya alapján részesíti támogatásban a (3)–(6) bekezdésben minősítési kategóriánként meghatározott kereteken belül. Kivételt képeznek a 2. § (2) és (3) bekezdése alapján minősített felsőoktatási intézmények, amelyek elkülönített keretét egyedi miniszteri döntéssel kell elosztani a minősített intézmények között.
 
-(8)[^19] A számítás alapja az adott évben a felsőoktatási információs rendszer alkalmazotti személyi törzsre vonatkozó nyilvántartása.
+(8)[^22] A számítás alapja az adott évben a felsőoktatási információs rendszer alkalmazotti személyi törzsre vonatkozó nyilvántartása.
 
 (9) A (3)–(8) bekezdésben meghatározott finanszírozási szint – a rendelkezésre álló költségvetési forrásra tekintettel – legfeljebb húsz százalékkal térhet el az előző évitől.
 
-[^17]: A 29. §-t a 220/2014. (VIII. 29.) Korm. rendelet 27. § c) pontja hatályon kívül helyezte.
-[^18]: A 30. § (7) bekezdése a 220/2014. (VIII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^19]: A 30. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 50. §-ával megállapított szöveg.
+[^20]: A 30. § (1) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^21]: A 30. § (7) bekezdése a 220/2014. (VIII. 29.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^22]: A 30. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 50. §-ával megállapított szöveg.
