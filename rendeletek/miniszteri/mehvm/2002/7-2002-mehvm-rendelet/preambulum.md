@@ -1,1 +1,0 @@
-A szakértői működéssel kapcsolatos egyes kérdések szabályozásáról szóló 24/1971. (VI. 8.) Korm. rendelet (a továbbiakban: R.) 2. §-ának (2) bekezdésében foglalt felhatalmazás alapján a következőket rendelem el:
