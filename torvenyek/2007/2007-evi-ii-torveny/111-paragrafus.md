@@ -38,7 +38,9 @@ q) a harmadik országbeli állampolgárok úti okmánnyal történő ellátásá
 
 r) az önálló beutazási és tartózkodási tilalom kezdeményezésére, valamint az önálló beutazási és tartózkodási tilalom időtartama tekintetében javaslattételre jogosult rendvédelmi szerveket;
 
-s) az összevont engedély adattartalmát és kiállításának feltételeit, valamint az összevont kérelmezési eljárás szabályait.
+s) az összevont engedély adattartalmát és kiállításának feltételeit, valamint az összevont kérelmezési eljárás szabályait;
+
+t) a tartózkodási engedély kiadására és meghosszabbítására irányuló kérelem előterjesztésére jogosult foglalkoztatók körét.
 
 (1a) Felhatalmazást kap a Kormány, hogy kijelölje a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló, 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet alapján kiállított tartózkodásra jogosító okmányok biometrikus adatait tartalmazó tároló elemek hitelesítését végző hatóságokat, és az egyes idegenrendészeti eljárásokban szakhatóságként eljáró rendvédelmi szerveket.
 
@@ -56,11 +58,11 @@ e) a harmadik országbeli állampolgárok részére kiállított úti okmányok 
 
 (3) Felhatalmazást kap a külpolitikáért felelős miniszter, hogy az idegenrendészetért és menekültügyért felelős miniszterrel egyetértésben a diplomáciai vagy a nemzetközi jogon alapuló egyéb mentességet élvező személyek ki- és beutazásával, valamint tartózkodásával kapcsolatos egyes szabályokat rendelettel határozza meg.
 
-(4) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter és az igazságügyért felelős miniszter, hogy – az érintett miniszterekkel egyetértésben – az idegenrendészeti őrizet és a kitoloncolás végrehajtásának szabályait rendeletben állapítsa meg.
+(4) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben az idegenrendészeti őrizet és a kitoloncolás végrehajtásának szabályait rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap az egészségügyért felelős miniszter, hogy – az idegenrendészetért és menekültügyért felelős miniszterrel egyetértésben – a közegészséget veszélyeztető betegségeket rendeletben állapítsa meg.
 
-(6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme érdekében –
+(6) Felhatalmazást kap az idegenrendészetért és menekültügyért felelős miniszter, hogy a külpolitikáért felelős miniszterrel, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszterrel, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszterrel egyetértésben rendeletben állapítsa meg azokat az eseteket, amikor – a közbiztonság és a nemzetbiztonság védelme, valamint a Vízumkódexben meghatározottak szerint a migrációs kockázatértékelés, a visszaélések és csalások megelőzése és kiszűrése érdekében –
 
 a) a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki, és
 

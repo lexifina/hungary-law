@@ -32,7 +32,11 @@ csak akkor utasítható ki, ha további tartózkodása a nemzetbiztonságot, a k
 
 (6) Az idegenrendészeti hatóság az eljárás jogerős befejezéséig eltekinthet a kiutasítás elrendelésétől, ha Magyarország területén jogellenesen tartózkodó harmadik országbeli állampolgár tartózkodási engedélyének vagy tartózkodásra jogosító egyéb engedélyének meghosszabbítása folyamatban van.
 
+(6a) A (6) bekezdésben foglaltak nem alkalmazhatóak, ha a harmadik országbeli állampolgár tartózkodási engedély kiadására irányuló kérelmet azt követően terjeszt elő ismételten, hogy korábbi méltányossági és tartózkodási engedély kiadására irányuló kérelmét az idegenrendészeti hatóság elutasította.
+
 (7) Idegenrendészeti kiutasítás, valamint önálló beutazási és tartózkodási tilalom nem alkalmazható olyan bűncselekmény elkövetése miatt, amelynek elbírálása során az eljáró bíróság büntetésként nem rendelt el kiutasítást a harmadik országbeli állampolgárral szemben.
+
+(7a) A harmadik országbeli állampolgár ugyanazon jogsértés elkövetése miatt azonos jogi és ténybeli alapon nem utasítható ki, amennyiben korábban elrendelt kiutasítás hatálya alatt áll, de a kiutasítás végrehajtására még nem került sor. Ez esetben a törvényben foglaltak szerint a kiutasítás végrehajtására haladéktalanul intézkedni kell.
 
 (8) Az Európai Unió tagállama által kiadott, a tagállam területén tartózkodásra jogosító engedéllyel rendelkező harmadik országbeli állampolgár csak akkor utasítható ki, ha
 

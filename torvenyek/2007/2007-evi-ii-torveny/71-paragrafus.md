@@ -6,6 +6,20 @@
 
 (4) A munkáltató öt napon belül köteles bejelenteni az idegenrendészeti hatóságnak, amennyiben a harmadik országbeli állampolgár az engedélyezett munkáját nem kezdi meg, illetve a munkavégzés a munkavállalási engedély érvényességi idején belül megszűnik.
 
+(4a) A munkáltató a (3) és (4) bekezdésben meghatározott bejelentést a következő adatok közlésével köteles teljesíteni:
+
+a) munkáltató adatai (név, cím, székhely, telephely, gazdálkodási forma, cégjegyzékszám),
+
+b) harmadik országbeli állampolgár munkavállaló természetes személyazonosító adatai,
+
+c) harmadik országbeli állampolgár munkavállaló tartózkodásra jogosító engedélyének száma,
+
+d) munkakör,
+
+e) a tényleges munkavégzés megkezdésének, meg nem kezdésének vagy a munkavállalási engedély, vagy az összevont engedély érvényességi idején belül
+
+történő megszűnésének időpontja.
+
 (5) Az idegenrendészeti hatóság az (1)–(4) bekezdésekben meghatározott kötelezettséget elmulasztó munkáltatót a foglalkoztatott harmadik országbeli állampolgárok számával arányos mértékű – jogszabályban meghatározott – közrendvédelmi bírsággal sújtja.
 
 (6) A közrendvédelmi bírság megfizetésének kötelezettsége alól a munkáltató akkor mentesül, ha bizonyítja, hogy az (1)–(4) bekezdésben foglalt ellenőrzési és bejelentési kötelezettségének eleget tett, kivéve, ha tudott, vagy kellő gondosság mellett tudhatott volna arról, hogy az érvényes tartózkodási engedélyként vagy más, tartózkodásra jogosító engedélyként bemutatott okmány hamis volt.

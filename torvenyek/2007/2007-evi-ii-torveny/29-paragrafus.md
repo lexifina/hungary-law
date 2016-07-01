@@ -24,13 +24,19 @@ c) nem áll büntetőeljárás hatálya alatt, illetve nem minősül büntetett 
 
 a) az (1) bekezdés a) pontjában foglalt esetben három év, amely alkalmanként legfeljebb egy évvel meghosszabbítható;
 
-b) az (1) bekezdés b) és d) pontjaiban foglalt esetekben egy év, amely alkalmanként legfeljebb egy évvel meghosszabbítható;
+b) az (1) bekezdés b) és d) pontjában foglalt esetekben egy év, amely alkalmanként legfeljebb egy évvel meghosszabbítható;
 
-c) az (1) bekezdés c) és e) pontjaiban foglalt esetekben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható;
+c) az (1) bekezdés c) pontjában foglalt esetben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható;
 
-d) az (1) bekezdés f) pontjában foglalt esetben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható, a harmadik országbeli állampolgár által a munkáltatójával szemben az elmaradt járandóságának kifizetése érdekében indított eljárás jogerős befejezéséig;
+d) az (1) bekezdés e) pontjában foglalt esetben,
 
-e) az (1a) bekezdés szerinti esetben egy év, amely alkalmanként egy évvel meghosszabbítható.
+da) a db) alpont kivételével legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható;
+
+db) amennyiben a harmadik országbeli állampolgár emberkereskedelem áldozata, hat hónap, amely alkalmanként hat hónappal meghosszabbítható;
+
+e) az (1) bekezdés f) pontjában foglalt esetben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható, a harmadik országbeli állampolgár által a munkáltatójával szemben az elmaradt járandóságának kifizetése érdekében indított eljárás jogerős befejezéséig;
+
+f) az (1a) bekezdés szerinti esetben egy év, amely alkalmanként egy évvel meghosszabbítható.
 
 (3) A humanitárius célból kiadott tartózkodási engedély – a 18. § (1) bekezdésben foglaltaktól eltérően – nem hosszabbítható meg, illetve azt vissza kell vonni, ha
 

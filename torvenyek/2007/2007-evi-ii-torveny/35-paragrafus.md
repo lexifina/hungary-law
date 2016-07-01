@@ -10,13 +10,9 @@ c) bevándorolt, letelepedett, illetve menekültként elismert harmadik országb
 
 d) magyar állampolgár volt, de állampolgársága megszűnt, illetve akinek felmenője magyar állampolgár vagy magyar állampolgár volt;
 
-e) a kérelem benyújtását közvetlenül megelőzően legalább hat hónapja rendelkezik az e törvény 28. § (3) bekezdése alapján kiadott tartózkodási engedéllyel;
+e) bevándorolt, letelepedett, illetve menekültként elismert harmadik országbeli állampolgár kiskorú gyermeke.
 
-f) a kérelem benyújtását közvetlenül megelőzően legalább hat hónapja rendelkezik tartózkodási engedéllyel és a 28. § (4) bekezdése szerinti értékpapírt lejegyezte;
-
-g) bevándorolt, letelepedett, illetve menekültként elismert harmadik országbeli állampolgár kiskorú gyermeke.
-
-(1a) Az (1) bekezdés e) pontja alapján előterjesztett nemzeti letelepedési engedély kiadására irányuló eljárásban – a törvényben meghatározott személyes megjelenési kötelezettség kivételével – a jogi képviselet kötelező.
+(1a)
 
 (2) Nem minősül Magyarország területén történő tartózkodás megszakításának Magyarország területének alkalmanként négy hónapnál rövidebb időre történő elhagyása, amennyiben a külföldi tartózkodások összidőtartama a kérelem benyújtását megelőző három év alatt nem haladja meg a kétszázhetven napot.
 
@@ -26,7 +22,7 @@ g) bevándorolt, letelepedett, illetve menekültként elismert harmadik országb
 
 (5) Nem kaphat nemzeti letelepedési engedélyt az a harmadik országbeli állampolgár, aki büntetett előéletű, és a büntetett előélethez fűződő hátrányok alól nem mentesült.
 
-(6) A nemzeti letelepedési engedély iránti kérelmet
+(6) A nemzeti letelepedési engedély iránti kérelmet – a 35/C. § (1) bekezdésben foglalt kivétellel –
 
 a) az első fokon eljáró hatóság hetven,
 
@@ -34,7 +30,7 @@ b) a másodfokon eljáró hatóság harminc
 
 napon belül bírálja el.
 
-(7) A nemzeti letelepedési engedély kiadása iránti eljárásban a külön jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását
+(7) A nemzeti letelepedési engedély kiadása iránti eljárásban a külön jogszabályban meghatározott hatóság azon szakkérdésben, hogy a harmadik országbeli állampolgár letelepedése veszélyezteti-e Magyarország nemzetbiztonságát vagy közbiztonságát, az állásfoglalását – a 35/C. § (2) bekezdésében foglalt kivétellel –
 
 a) az elsőfokú eljárásban harminc,
 

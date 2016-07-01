@@ -14,6 +14,8 @@ d) a kiutasító határozatban meghatározott határnapot követő napig az Eur�
 
 (3) A kitoloncolást elrendelő önálló határozat vagy végzés ellen a harmadik országbeli állampolgár végrehajtási kifogást terjeszthet elő. A végrehajtási kifogás a határozat közlésétől számított huszonnégy órán belül az elrendelő idegenrendészeti hatóságnál terjeszthető elő.
 
+(3a) A kitoloncolást elrendelő határozatot vagy végzést az idegenrendészeti hatóság módosítja a kitoloncolás végrehajtásának módja tekintetében, amennyiben azt a kitoloncolás végrehajtása során bekövetkezetett változások, így különösen a harmadik országbeli állampolgár magatartása, vagy egyéb, a kitoloncolás végrehajtásának módját befolyásoló tények indokolják. A módosító határozat vagy végzés ellen jogorvoslatnak nincs helye.
+
 (4) Az idegenrendészeti hatóság a végrehajtási kifogást az ügy irataival együtt haladéktalanul megküldi a végrehajtási kifogás elbírálására jogosult hatóságnak, mely a végrehajtási kifogást nyolc napon belül bírálja el.
 
 (5) A harmadik országbeli állampolgár a kitoloncolás foganatosításának módjával szemben végrehajtási kifogást terjeszthet elő.

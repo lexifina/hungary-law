@@ -20,9 +20,9 @@ bd) letelepedési engedéllyel,
 
 be) ideiglenes letelepedési engedéllyel,
 
-bf) nemzeti letelepedési engedéllyel,
+bf) nemzeti letelepedési engedéllyel, vagy
 
-bg) EK letelepedési engedéllyel, vagy
+bg) EK letelepedési engedéllyel;
 
 bh)
 
@@ -36,7 +36,7 @@ f) tartózkodása teljes időtartamára rendelkezik a lakhatását és megélhet
 
 g) az egészségügyi ellátások teljes körére biztosítottnak minősül, vagy egészségügyi ellátásának költségeit biztosítani tudja;
 
-h) nem áll kiutasítás vagy beutazási és tartózkodási tilalom hatálya alatt, illetve beutazása és tartózkodása nem veszélyezteti Magyarország közbiztonságát, nemzetbiztonságát vagy közegészségügyi érdekeit;
+h) nem áll kiutasítás vagy beutazási és tartózkodási tilalom hatálya alatt, illetve beutazása vagy tartózkodása nem veszélyezteti Magyarország közrendjét, közbiztonságát, nemzetbiztonságát vagy közegészségügyi érdekét.
 
 i) nem áll beutazási és tartózkodási tilalmat elrendelő SIS figyelmeztető jelzés hatálya alatt.
 

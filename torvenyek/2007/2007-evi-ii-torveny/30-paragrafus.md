@@ -2,7 +2,7 @@
 
 30. § (1) Ideiglenes tartózkodásra jogosító igazolással kell ellátni azt a harmadik országbeli állampolgárt,
 
-a) aki tartózkodási engedély iránti kérelmet nyújtott be és az engedély kiadásáig nemzeti vízumának vagy korábbi tartózkodási engedélyének érvényességi ideje lejárt, vagy e törvény szerint tartózkodási engedéllyel kell ellátni, továbbá akkor is, ha az 1. § (5) bekezdése alapján terjeszt elő tartózkodási engedély kérelmet;
+a) aki tartózkodási engedély iránti kérelmet nyújtott be és az engedély kiadásáig nemzeti vízumának vagy korábbi tartózkodási engedélyének érvényességi ideje lejárt, vagy e törvény szerint tartózkodási engedéllyel kell ellátni, továbbá akkor is, ha az 1. § (5) bekezdése alapján terjeszt elő tartózkodási engedély-kérelmet, kivéve, ha a tartózkodási engedély kiadása iránti kérelem előterjesztését megelőzően elrendelt kiutasításnak nem tett eleget;
 
 b) aki Magyarország területén ideiglenes letelepedési engedély iránti kérelmet nyújtott be;
 
@@ -32,11 +32,17 @@ b) az (1) bekezdés d) pontjában foglalt esetben a szülő tartózkodásának i
 
 c) az (1) bekezdés e) pontjában foglalt esetben egy hónap, amely nem hosszabbítható meg;
 
-d) az (1) bekezdés i) és j) pontjában foglalt esetben hat hónap, amely alkalmanként hat hónappal meghosszabbítható;
+d) az (1) bekezdés i) és j) pontjában foglalt esetben legfeljebb hat hónap, amely alkalmanként legfeljebb hat hónappal meghosszabbítható;
 
 e) az (1) bekezdés k) pontjában foglalt esetben három hónap, amely nem hosszabbítható meg.
 
-(3) Az (1) bekezdés a) pont alapján ideiglenes tartózkodásra jogosító igazolással ellátott harmadik országbeli állampolgár keresőtevékenységet akkor folytathat, ha keresőtevékenység folytatására jogosító tartózkodási engedély birtokában keresőtevékenység folytatására jogosító tartózkodási engedély iránti kérelmet nyújtott be.
+(3) Az (1) bekezdés a) pontja alapján ideiglenes tartózkodásra jogosító igazolással ellátott harmadik országbeli állampolgár keresőtevékenységet akkor folytathat, ha
+
+a) keresőtevékenység folytatására jogosító tartózkodási engedély birtokában jövedelemszerzési vagy munkavállalási célú tartózkodási engedély iránti kérelmet nyújtott be,
+
+b) jövedelemszerzési vagy munkavállalási célú tartózkodási engedély birtokában jövedelemszerzési vagy munkavállalási célú tartózkodási engedély iránti kérelmet nyújtott be, vagy
+
+c) a 29/A. § (2) vagy (3) bekezdése alapján tartózkodási engedély iránti kérelmet nyújtott be.
 
 (4) Az ideiglenes tartózkodásra jogosító igazolás nem hosszabbítható meg, illetve azt vissza kell vonni, ha a kiállítására okot adó körülmény már nem áll fenn.
 

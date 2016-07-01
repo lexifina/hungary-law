@@ -8,4 +8,8 @@ b) az őrizetből megszökött vagy az idegenrendészeti eljárásban számára 
 
 c) a jogerős kiutasítás végrehajtásának nem tett eleget.
 
-(2) A körözést vissza kell vonni, ha az elrendelésének oka megszűnt.
+(2) A körözést elrendelő határozattal szemben jogorvoslatnak nincs helye.
+
+(3) A körözést kilencven nap elteltével felül kell vizsgálni, és vissza kell vonni, ha a körözés fenntartásától eredmény nem várható.
+
+(4) A körözést vissza kell vonni, ha elrendelésének oka megszűnt.

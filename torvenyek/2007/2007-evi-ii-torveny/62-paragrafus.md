@@ -42,6 +42,6 @@ a) a harmadik országbeli állampolgár engedély nélkül ismeretlen helyre tá
 
 b) a kijelölt helyen való tartózkodás elrendelésének oka megszűnt, vagy
 
-c) a közösségi szálláson vagy befogadó állomáson történő kötelező tartózkodás elrendelésétől számítva két hónap eltelt.
+c)
 
-(9) A kijelölt helyen történő tartózkodást megszüntető határozat ellen a harmadik országbeli állampolgár a (6)–(7) bekezdésben foglaltak szerint élhet jogorvoslattal.
+(9) A kijelölt helyen történő tartózkodást megszüntető határozat ellen a harmadik országbeli állampolgár a (6) és a (7) bekezdésben foglaltak szerint élhet jogorvoslattal, azzal az eltéréssel, hogy a kifogást a megszüntető határozat közlését követő 8 napon belül lehet előterjeszteni.

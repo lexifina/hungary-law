@@ -2,7 +2,7 @@
 
 34. § (1) Az Európai Unió tagállama által a harmadik országok huzamos tartózkodási engedéllyel rendelkező állampolgárainak jogállásáról szóló, 2003. november 25-ei 2003/109/EK irányelv alapján kiállított huzamos tartózkodói jogállást igazoló EK tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár ideiglenes letelepedési engedélyt kap, ha
 
-a) keresőtevékenység folytatása céljából, kivéve a szezonális munkavállalás esetét,
+a) jövedelemszerzés vagy munkavállalás – kivéve a szezonális munkavállalás esetét – céljából,
 
 b) tanulmányok folytatása vagy szakképzés céljából vagy
 
