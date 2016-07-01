@@ -2,7 +2,7 @@
 
 a) a küldeménynek bírósági végrehajtó, jogszabályban meghatározott kézbesítési megbízott, kézbesítési meghatalmazott, kézbesítési ügygondnok, diplomáciai vagy katonai futár által történő kézbesítése;
 
-b) ha bármely személy saját maga vagy szervezet a saját gazdasági vagy egyéb tevékenységével összefüggő tartalmú küldeményét a vele munkaviszonyban, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti vagy egyéb szolgálati viszonyban álló személlyel vagy tagsági jogviszonyban álló magánszeméllyel (ide nem értve a részvényest) kézbesíti vagy kézbesítteti (saját kézbesítés);
+b) ha bármely személy saját maga vagy szervezet a saját gazdasági vagy egyéb tevékenységével összefüggő tartalmú küldeményét a vele munkaviszonyban, kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti jogviszonyban, igazságügyi alkalmazotti vagy egyéb szolgálati viszonyban álló személlyel vagy tagsági jogviszonyban álló magánszeméllyel (ide nem értve a részvényest) kézbesíti vagy kézbesítteti (saját kézbesítés);
 
 c) fizikai formában meg nem jelenő üzenet (közlés, adat, információ) elektronikus úton történő továbbítása a küldésétől a fogadásig;
 
