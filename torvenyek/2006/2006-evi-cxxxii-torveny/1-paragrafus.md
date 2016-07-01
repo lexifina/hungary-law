@@ -71,3 +71,5 @@ s) kapacitás-nyilvántartás: a szakellátási kapacitásokról és a hozzátar
 (3) A (2) bekezdésben foglaltakon túl e törvény alkalmazásában az Eütv. 3. §-a szerinti fogalommeghatározásokat kell figyelembe venni.
 
 (3a) E törvény alkalmazása során a fenntartó alatt a tulajdonost kell érteni abban az esetben, ha az egészségügyi szolgáltató tekintetében a fenntartói jogokat – az egészségügyi szolgáltató alapító dokumentumában rögzítettek szerint – az egészségügyi szolgáltató tulajdonosa gyakorolja.
+
+(3b) A szakellátási kapacitás, illetve az ellátási terület megállapítására, módosítására, átcsoportosítására irányuló – e törvény szerinti – eljárások felfüggeszthetőek, ha a döntés meghozatalához előzetesen többletkapacitás-befogadási eljárást kell lefolytatni.
