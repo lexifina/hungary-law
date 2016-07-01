@@ -62,7 +62,7 @@ e) a szolgálati beosztásra vonatkozó adatok:
 
 ea) a fegyveres szerv megnevezése,
 
-eb) állományviszony (állománykategória),
+eb) a szolgálati viszony jellege, állománycsoport,
 
 ec) rendszeresített rendfokozat, eltérítés,
 
@@ -94,7 +94,7 @@ fe) a KNBSZ esetén a kifogástalan életvitel ellenőrzésével kapcsolatos ada
 
 g) a szolgálat teljesítésének adatai:
 
-ga) állományviszony (állománykategória),
+ga) a szolgálati viszony jellege, állománycsoport,
 
 gb) a szolgálati viszony kezdete, kinevezés ideje,
 

@@ -54,7 +54,7 @@ dc) a fizikai, pszichikai állapotra vonatkozó adatok,
 
 e) a korábbi katonai szolgálat teljesítésének adatai:
 
-ea) az állományviszony,
+ea) a szolgálati viszony jellege,
 
 eb) a szolgálati viszony kezdete, kinevezés ideje,
 

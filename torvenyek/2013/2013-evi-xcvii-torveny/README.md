@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-97-00-00
 | 2013-07-01 | 2010. évi CXXX. törvény | 2013-97-00-00.2 |
 | 2013-07-02 | 2010. évi CXXX. törvény | 2013-97-00-00.3 |
 | 2014-03-15 | 2013. évi CCLII. törvény | 2013-97-00-00.4 |
+| 2016-07-01 | 2016. évi XXXVIII. törvény | 2013-97-00-00.5 |

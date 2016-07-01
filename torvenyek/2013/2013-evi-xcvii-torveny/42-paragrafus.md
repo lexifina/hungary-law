@@ -1,6 +1,6 @@
 ## 25. A katonai nyugdíjas igazolvány kiadásával kapcsolatos adatkezelés
 
-42. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a tényleges állományból nyugállományba helyezett személyek a Honvédség által biztosított ellátások igénybevétele érdekében, jogosultságuk igazolására szolgáló katonai nyugdíjas igazolványának kiadása céljából e személyek a 10. melléklet szerinti adatait kezeli a jogosultság fennállása kezdetétől annak megszűnését követő 5 évig.
+42. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a tényleges állományból nyugállományba helyezett személyek a Honvédség által biztosított ellátások igénybevétele érdekében, jogosultságuk igazolására szolgáló katonai nyugdíjas igazolványának kiadása céljából e személyek 10. melléklet szerinti adatait kezeli a jogosultság fennállása kezdetétől annak megszűnését követő 5 évig.
 
 (2) A katonai nyugdíjas igazolvány tartalmazza
 
@@ -18,7 +18,7 @@ f) a Honvédség emblémáját, és
 
 g) a katonai nyugdíjas igazolvány megnevezést.
 
-(3) A (2) bekezdés a), d) és g) pontja szerinti adatokat a katonai nyugdíjas igazolvány angol és magyar nyelven is tartalmazza.
+(3) A (2) bekezdés a) pontja szerinti adatokat, a (2) bekezdés b) pontja szerinti érvényességi időt, valamint a (2) bekezdés c), d) és g) pontja szerinti adatokat a katonai nyugdíjas igazolvány angol és magyar nyelven is tartalmazza.
 
 (4) A szolgálati járandóságban részesülő nyugállományú katona jogállásához kapcsolódó jogosultságait a katonai nyugdíjas igazolvánnyal gyakorolja.
 

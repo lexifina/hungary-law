@@ -24,7 +24,7 @@ i) tudományos fokozata,
 
 j) idegen nyelv ismerete (szintje, típusa),
 
-k) közigazgatási alapvizsga, közigazgatási szakvizsga és közigazgatási versenyvizsga megszerzésének időpontja, oklevél száma, egyenértékűként elismert vizsga megszerzésének időpontja, oklevél száma, vagy a vizsgák alóli mentesség oka,
+k) közigazgatási alapvizsga, közigazgatási szakvizsga és közigazgatási versenyvizsga, valamint közigazgatási tanulmányok szakirányú szakképzettség, kormányzati tanulmányok szakirányú szakképzettség megszerzésének időpontja, oklevél száma, egyenértékűként elismert vizsga megszerzésének időpontja, oklevél száma, vagy a vizsgák alóli mentesség oka,
 
 l) egyéb tanfolyami végzettségek,
 

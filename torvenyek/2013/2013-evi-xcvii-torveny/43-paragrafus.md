@@ -1,6 +1,6 @@
 ## 26. Az ideiglenes szolgálati igazolvány kiadásával kapcsolatos adatkezelés
 
-43. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a Honvédség hivatásos, szerződéses és önkéntes tartalékos katona állománya részére kiadott, a szolgálati viszony igazolására szolgáló ideiglenes szolgálati igazolványok központi nyilvántartása céljából e személy a 10. melléklet a), b), e), f) és j) pontja szerinti adatait kezeli az ideiglenes szolgálati igazolvány kiadásától a szolgálati viszony megszűnését vagy megszüntetését követő 5 évig.
+43. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a Honvédség hivatásos, szerződéses és önkéntes tartalékos katona állománya részére kiadott, a szolgálati viszony igazolására szolgáló ideiglenes szolgálati igazolványok központi nyilvántartása céljából e személyek 10. melléklet a), b), e), f) és j) pontja szerinti adatait kezeli az ideiglenes szolgálati igazolvány kiadásától a szolgálati viszony megszűnését vagy megszüntetését követő 5 évig.
 
 (2) Az ideiglenes szolgálati igazolvány tartalmazza:
 
@@ -12,7 +12,7 @@ c) a Honvédség emblémáját,
 
 d) az ideiglenes szolgálati igazolvány megnevezést,
 
-e) a „hivatásos, szerződéses vagy önkéntes tartalékos katona” feliratot,
+e) a „hivatásos katona”, „szerződéses katona” vagy „önkéntes tartalékos katona” feliratot,
 
 f) az ideiglenes szolgálati igazolvány egyedi azonosítóját,
 

@@ -1,6 +1,6 @@
 ## 28. A személyi igazolójegy kiadásával kapcsolatos adatkezelés
 
-45. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a honvédek részére a katonai cselekmények időszakában, valamint Magyarország területén kívüli szolgálat teljesítése és nemzetközi szerződés alapján teljesített szolgálat időszakában az azonosítás és segítségnyújtás biztosítása érdekében a személyi igazolójegy kiadása céljából e személyek 10. melléklet b), f) és j) pontja szerinti adatait, továbbá társadalombiztosítási azonosító jelét, vércsoportját és RH faktorát kezeli a szolgálati viszony kezdetétől annak megszűnését vagy megszüntetését követő 5 évig.
+45. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a honvédek részére a különleges jogrend – kivéve a veszélyhelyzet – időszakában, békeidőszakban, valamint Magyarország területén kívüli szolgálat teljesítése és nemzetközi szerződés alapján teljesített szolgálat időszakában az azonosítás biztosítására szolgáló személyi igazolójegy kiadása céljából e személyek 10. melléklet szerinti adatait kezeli a személyi igazolójegy kiadásától a szolgálati viszony megszűnését vagy megszüntetését követő 5 évig.
 
 (2) A személyi igazolójegy tartalmazza
 

@@ -16,6 +16,6 @@ e) ha valaki a honvédelmi célból kijelölt ingatlannal, ingóval, szolgáltat
 
 f) ha valaki a nála lévő hadiruházatot, katonai felszerelési tárgyat a rendeltetésétől eltérő célra használja vagy másnak használatra átadja.
 
-(2) A kormányhivatal a honvédelmi bírság kiszabásával kapcsolatos eljárást a Honvédség katonai igazgatási és központi adatfeldolgozó szervének, a megyei védelmi bizottság elnökének vagy a polgármesternek a kezdeményezése alapján folytatja le.
+(2) A kormányhivatal a honvédelmi bírság kiszabásával kapcsolatos eljárást a Honvédség katonai igazgatási és központi adatfeldolgozó szervének, a megyei védelmi bizottság honvédelmi elnökhelyettesének vagy a polgármesternek a kezdeményezése alapján folytatja le.
 
 (3) A honvédelmi bírság kiszabására irányuló eljárás a (2) bekezdés alapján kezdeményezésre jogosult indítványára a kormányhivatalhoz történt megérkezésétől számított negyvenöt napon belül, de legkésőbb a jogsértés bekövetkezését követő egy éven belül indítható meg.

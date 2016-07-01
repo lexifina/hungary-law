@@ -1,6 +1,6 @@
 ## 27. Hatósági és ellenőri igazolvány kiadásával kapcsolatos adatkezelés
 
-44. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hatósági és ellenőri tevékenységek végrehajtására kijelölt állomány ez irányú jogosultságának igazolására szolgáló igazolványának kiadása céljából a 10. melléklet szerinti adatokat kezeli a jogosultság kezdetétől a jogosultság megszűnését követő 5 évig.
+44. § (1) A Honvédség katonai igazgatási és központi adatfeldolgozó szerve a hatósági és ellenőri tevékenységek végrehajtására kijelölt állomány ez irányú jogosultságának igazolására szolgáló igazolványának kiadása céljából e személyek 10. melléklet szerinti adatait kezeli a jogosultság kezdetétől a jogosultság megszűnését követő 5 évig.
 
 (2) A hatósági és ellenőri igazolvány tartalmazza
 
