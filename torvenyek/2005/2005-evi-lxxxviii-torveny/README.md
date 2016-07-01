@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2005-88-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2005-88-00-00.17 |
 | 2014-07-16 | 2014. évi XXXV. törvény | 2005-88-00-00.18 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2005-88-00-00.19 |
+| 2016-07-01 | 2016. évi XXXII. törvény | 2005-88-00-00.20 |

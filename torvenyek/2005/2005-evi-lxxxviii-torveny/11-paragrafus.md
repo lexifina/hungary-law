@@ -31,3 +31,5 @@ b) az egyéni vállalkozó nem csatolta a (3) bekezdés d) pontja szerinti irato
 (5)
 
 (6) Közhasznú szervezet esetén az adatváltozás bejelentésekor a létesítő okirat másolatát csak akkor kell mellékelni, ha az abban megjelölt cél, illetve tevékenységi kör megváltozott.
+
+(7) Az (1)–(2) bekezdések szerinti változásbejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a fogadó szervezet kéri – az (2) bekezdésben meghatározott határidőn belül értesíti a családpolitikáért felelős minisztert.
