@@ -1,7 +1,7 @@
 ## A végrehajtói szakvizsga lefolytatása
 
-29. § (1)[^86] A végrehajtói szakvizsga a minisztériumban megtartott írásbeli és szóbeli vizsgából áll.
+29. § (1)[^86] A végrehajtói szakvizsga a Jogakadémián megtartott írásbeli és szóbeli vizsgából áll.
 
 (2) A végrehajtói szakvizsga nyelve magyar.
 
-[^86]: A 29. § (1) bekezdése a 6/2008. (III. 1.) IRM rendelet 6. § (1) bekezdése szerint módosított szöveg. E módosító rendelet 7. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^86]: A 29. § (1) bekezdése a 43/2015. (XII. 30.) IM rendelet 2. § (9) bekezdés e) pontja szerint módosított szöveg.
