@@ -4,8 +4,10 @@
 
 a) térítésmentes természetbeni ellátás (élelmezés, szállás), és
 
-b) gyakorlati pótlék, valamint
+b)[^14] a Kjt. 44/A. § (3a) bekezdése szerinti napi átalány illetménypótlék (a továbbiakban: gyakorlati pótlék), valamint
 
 c) a heti pihenőnapon, illetve munkaszüneti napon történt igénybevétel esetén – az a)–b) pontokban foglaltakon felül – másik pihenőnap (pihenőidő) jár, amit az igénybevételt követő hónap végéig kell kiadni.
 
 (3) A gyakorlati pótlék napi mértéke a pótlékalap tíz-húsz százaléka. A pótlékra jogosító munkaköröket, a jogosultság feltételeit és a pótlék mértékét – a közalkalmazott gyakorlaton eltöltött ideje és a munkakörülmények figyelembevételével differenciáltan – kollektív szerződés, ennek hiányában a munkáltató állapítja meg.
+
+[^14]: A 14. § (2) bekezdés b) pontja a 9/2016. (VI. 29.) HM rendelet 2. §-a szerint módosított szöveg.

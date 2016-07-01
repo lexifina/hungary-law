@@ -1,6 +1,6 @@
-## 14/B. §[^15] Munkaidőnek minősül a munkaközi szünet időtartama.
+## 14/B. §[^16] Munkaidőnek minősül a munkaközi szünet időtartama.
 
-14/C. §[^16] (1) A közalkalmazott részére jutalom állapítható meg, ha a munkaköréből származó feladatait huzamos időn keresztül kiemelkedően hajtja végre.
+14/C. §[^17] (1) A közalkalmazott részére jutalom állapítható meg, ha a munkaköréből származó feladatait huzamos időn keresztül kiemelkedően hajtja végre.
 
 (2) A jutalmazásnál a következő szempontokat kell figyelembe venni:
 
@@ -16,5 +16,5 @@ e) ugyanazon kifejtett teljesítményért, megszerzett érdemért csak egy jutal
 
 f) a jutalom megállapítására jogosult, közalkalmazotti jogviszonyban álló vezető önmagát jutalomban nem részesítheti.
 
-[^15]: A 14/B. §-t a 2/2013. (III. 26.) HM rendelet 2. §-a iktatta be.
-[^16]: A 14/C. §-t a 7/2015. (VI. 22.) HM rendelet 86. §-a iktatta be.
+[^16]: A 14/B. §-t a 2/2013. (III. 26.) HM rendelet 2. §-a iktatta be.
+[^17]: A 14/C. §-t a 7/2015. (VI. 22.) HM rendelet 86. §-a iktatta be.
