@@ -2,7 +2,7 @@
 
 (2) A szolgálati igazolvány – e rendelet eltérő rendelkezése hiányában –
 
-a)[^7] a rendvédelmi feladatokat ellátó szerv hivatásos állományába tartozást,
+a)[^8] a rendvédelmi feladatokat ellátó szerv hivatásos állományába tartozást,
 
 b) a rendőrség, a büntetés-végrehajtás, az Alkotmányvédelmi Hivatal, valamint a Nemzetbiztonsági Szakszolgálat hivatásos állományú tagjának fegyverviselésre való jogosultságát,
 
@@ -14,7 +14,9 @@ igazolja.
 
 (4) A rendőrség különleges foglalkoztatási állománya tagjának szolgálati igazolványa a rendőrség hivatásos állományába tartozást és az intézkedésre való jogosultságot igazolja.
 
-(5)[^8] A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 18. § (3) bekezdésében meghatározottak mellett a szolgálati igazolvány tartalmazza
+(4a)[^9] A tisztjelölt szolgálati igazolványa – az általános rendőrségi feladatok ellátására létrehozott szerv tisztjelöltje esetén – a fegyverviselésre való jogosultságot, valamint azt igazolja, hogy a tisztjelölt önálló intézkedésre nem jogosult.
+
+(5)[^10] A rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 18. § (3) bekezdésében meghatározottak mellett a szolgálati igazolvány tartalmazza
 
 a) az adott rendvédelmi szerv címerét, illetve emblémáját,
 
@@ -28,12 +30,17 @@ d) az általános rendőrségi feladatok ellátására létrehozott szerv és a 
 
 e) az igazolvány kitöltésének dátumát,
 
-f) a gépi kódot, valamint
+f)[^11] a gépi kódot,
 
-g) az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat esetében „AZ IGAZOLVÁNY TULAJDONOSA NEMZETBIZTONSÁGI FELADATOT LÁT EL” feliratot.
+g) az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat esetében „AZ IGAZOLVÁNY TULAJDONOSA NEMZETBIZTONSÁGI FELADATOT LÁT EL” feliratot,
 
-(6)[^9] A szolgálati igazolvány adattartalmának leírását és az egyes adatok szolgálati igazolványon történő elhelyezését az 1–7. melléklet tartalmazza.
+h)[^12] a tisztjelölt esetében a tisztjelölti szolgálati jogviszonyra utalást, továbbá a „rendőrség tisztjelöltje” vagy a „katasztrófavédelem tisztjelöltje” feliratot.
 
-[^7]: A 2. § (2) bekezdés a) pontja a 37/2015. (VI. 16.) BM rendelet 59. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^8]: A 2. § (5) bekezdése a 37/2015. (VI. 16.) BM rendelet 55. § (1) bekezdésével megállapított szöveg.
-[^9]: A 2. § (6) bekezdését a 37/2015. (VI. 16.) BM rendelet 55. § (2) bekezdése iktatta be.
+(6)[^13] A szolgálati igazolvány adattartalmának leírását és az egyes adatok szolgálati igazolványon történő elhelyezését az 1–8. melléklet tartalmazza.
+
+[^8]: A 2. § (2) bekezdés a) pontja a 37/2015. (VI. 16.) BM rendelet 59. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 2. § (4a) bekezdését a 20/2016. (VI. 9.) BM rendelet 46. § (2) bekezdése iktatta be.
+[^10]: A 2. § (5) bekezdése a 37/2015. (VI. 16.) BM rendelet 55. § (1) bekezdésével megállapított szöveg.
+[^11]: A 2. § (5) bekezdés f) pontja a 20/2016. (VI. 9.) BM rendelet 46. § (8) bekezdése szerint módosított szöveg.
+[^12]: A 2. § (5) bekezdés h) pontját a 20/2016. (VI. 9.) BM rendelet 46. § (3) bekezdése iktatta be.
+[^13]: A 2. § (6) bekezdését a 37/2015. (VI. 16.) BM rendelet 55. § (2) bekezdése iktatta be, szövege a 20/2016. (VI. 9.) BM rendelet 46. § (7) bekezdés a) pontja szerint módosított szöveg.

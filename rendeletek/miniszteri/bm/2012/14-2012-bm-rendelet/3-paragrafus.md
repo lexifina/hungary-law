@@ -1,6 +1,6 @@
 3. § (1) A szolgálati igazolvány visszavonásig vagy a rajta feltüntetett időpontig érvényes.
 
-(2) A szolgálati igazolványt vissza kell vonni a szolgálati viszony megszűnésekor, vagy ha a szolgálati igazolvány (3) bekezdés szerinti cseréje válik szükségessé. A szolgálati igazolvány visszavonására az állományilletékes parancsnok jogosult.
+(2)[^14] A szolgálati igazolványt vissza kell vonni a szolgálati viszony vagy a tisztjelölti szolgálati viszony megszűnésekor, vagy ha a szolgálati igazolvány (3) bekezdés szerinti cseréje válik szükségessé. A szolgálati igazolvány visszavonására az állományilletékes parancsnok jogosult.
 
 (3) A szolgálati igazolványt ki kell cserélni, ha az azon feltüntetett adatokban változás következett be, megrongálódott vagy érvényességi ideje lejárt. A szolgálati igazolvány birtokosa köteles haladéktalanul jelenteni a helyi személyügyi szervnek, ha a szolgálati igazolványban szereplő adataiban változás következett be, vagy ha az igazolvány megrongálódott.
 
@@ -8,7 +8,7 @@
 
 a) Rendőrségről szóló törvényben meghatározott
 
-aa) általános rendőrségi feladatok ellátására létrehozott szervnél szolgálatot teljesítő hivatásos állományúak esetében az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) személyügyi szerve,
+aa)[^15] általános rendőrségi feladatok ellátására létrehozott szervnél szolgálatot teljesítő hivatásos állományúak, valamint az általános rendőrségi feladatokat ellátó szerv tisztjelöltje esetében az Országos Rendőr-főkapitányság (a továbbiakban: ORFK) személyügyi szerve,
 
 ab) terrorizmust elhárító szervnél szolgálatot teljesítő hivatásos állományúak esetében a Terrorelhárítási Központ (a továbbiakban: TEK) személyügyi szerve,
 
@@ -19,3 +19,6 @@ b) a büntetés-végrehajtási szervezet esetében a Büntetés-végrehajtás Or
 c) a hivatásos katasztrófavédelmi szervek esetében a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság (a továbbiakban: BM OKF) személyügyi szerve,
 
 d) az Alkotmányvédelmi Hivatal (a továbbiakban: AH) és a Nemzetbiztonsági Szakszolgálat (a továbbiakban: NBSZ) állománya esetében a helyi személyügyi szerv
+
+[^14]: A 3. § (2) bekezdése a 20/2016. (VI. 9.) BM rendelet 46. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^15]: A 3. § (4) bekezdés a) pont aa) alpontja a 20/2016. (VI. 9.) BM rendelet 46. § (7) bekezdés c) pontja szerint módosított szöveg.
