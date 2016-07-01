@@ -6,7 +6,7 @@
 
 (3) E rendelet hatálya nem terjed ki:
 
-a)[^3] a természetes személy fizetési nehézsége és késedelme miatt a meglévő hitelei módosítására, átütemezésére, amennyiben ezáltal a hiteltartozás fennálló összege nem növekszik és az új hitel
+a)[^3] a természetes személy fizetési nehézsége és késedelme miatt a meglévő hitelei a hitelező által felszámított díjtól mentes módosítására, átütemezésére, amennyiben ezáltal a hiteltartozás fennálló összege nem növekszik és az új hitel
 
 aa) euróhitel, euró alapú hitel vagy forinthitel, ha az eredeti hitel euró alapú hitel, euróhitel vagy más devizahitel,
 
@@ -14,7 +14,7 @@ ab) forinthitel, ha az eredeti hitel forinthitel,
 
 ac) svájci frank hitel vagy svájci frank alapú hitel, ha az eredeti hitel svájci frank hitel vagy svájci frank alapú hitel;
 
-b)[^4] a már fennálló hitellel, vagy felmondott hitel-, vagy kölcsönügyletből eredő, esedékessé vált tartozással rendelkező természetes személy fizetőképességének biztosítása érdekében ugyanazon hitelnyújtónál, vagy azzal összevont alapú felügyelet hatálya alá tartozó bármely hitelnyújtónál történő új hitel nyújtására, ha az további eladósodottságot csak a fizetőképesség helyreállításával indokolt mértékig eredményez;
+b)[^4] a már fennálló hitellel, vagy felmondott hitel-, vagy kölcsönügyletből eredő, esedékessé vált tartozással rendelkező természetes személy fizetőképességének biztosítása érdekében ugyanazon hitelnyújtónál, vagy azzal összevont alapú felügyelet hatálya alá tartozó bármely hitelnyújtónál történő új hitel a hitelező által felszámított díjtól mentes nyújtására, ha az további eladósodottságot csak a fizetőképesség helyreállításával indokolt mértékig eredményez;
 
 c) kézizálog fedezetű kölcsön nyújtására;
 
@@ -50,8 +50,8 @@ bc) kizárólag svájci frank hitel vagy svájci frank alapú hitel, ha valamenn
 
 [^1]: Az 1. § (1) bekezdése a 348/2011. (XII. 30.) Korm. rendelet 45. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 397/2012. (XII. 20.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (3) bekezdés a) pontja a 348/2011. (XII. 30.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § (3) bekezdés b) pontja a 397/2012. (XII. 20.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (3) bekezdés a) pontja a 348/2011. (XII. 30.) Korm. rendelet 43. § (1) bekezdésével megállapított, nyitó szövegrésze a 139/2016. (VI. 13.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdés b) pontja a 397/2012. (XII. 20.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 139/2016. (VI. 13.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
 [^5]: Az 1. § (3) bekezdés d) pontja az 57/2012. (III. 30.) Korm. rendelet 25. §-a szerint módosított szöveg.
 [^6]: Az 1. § (3) bekezdés e) pontja a 348/2011. (XII. 30.) Korm. rendelet 43. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 1. § (3) bekezdés f) pontját a 341/2011. (XII. 29.) Korm. rendelet 19. §-a iktatta be, szövege a 71/2012. (IV. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
