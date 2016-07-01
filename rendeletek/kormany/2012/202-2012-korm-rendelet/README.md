@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-202-20-
 | 2015-01-01 | 2012-202-20-22.9 | 379/2014. (XII. 31.) Korm. rendelet |
 | 2015-04-10 | 2012-202-20-22.10 | 88/2015. (IV. 9.) Korm. rendelet |
 | 2015-07-01 | 2012-202-20-22.11 | 146/2015. (VI. 12.) Korm. rendelet |
+| 2016-07-01 | 2012-202-20-22.12 | 134/2016. (VI. 10.) Korm. rendelet |

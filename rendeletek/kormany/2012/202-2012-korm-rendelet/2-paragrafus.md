@@ -1,24 +1,25 @@
-## 1/A. §[^2] Az Intézményfenntartó Központ a hatáskörébe tartozó feladatokat az ország egész területére kiterjedő illetékességgel látja el.
+## 1/A. §[^3] Az Intézményfenntartó Központ a hatáskörébe tartozó feladatokat az ország egész területére kiterjedő illetékességgel látja el.
 
-2. §[^3] (1) Az Intézményfenntartó Központ központi szervből és területi szervekből áll.
+2. §[^4] (1) Az Intézményfenntartó Központ központi szervből és területi szervekből áll.
 
 (2) Az Intézményfenntartó Központ területi szerve a járási és a fővárosi kerületi tankerület, valamint a megyeközponti és a fővárosi tankerület.
 
 (3) A megyeközponti tankerület az illetékességi területén lévő járási tankerületet érintő funkcionális feladatokat lát el és gondoskodik a járási tankerületek tevékenységének összehangolásáról.
 
-(4)[^4] A megyeközponti tankerület az illetékességi területén működő, az Intézményfenntartó Központ fenntartásában lévő szakképző iskolák, gimnáziumok, kollégiumok, a pedagógiai szakszolgálati feladatokat ellátó köznevelési intézmények, valamint gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmények és az ilyen feladatokat ellátó többcélú intézmények tekintetében ellátja az Intézményfenntartó Központ szervezeti és működési szabályzatában számára meghatározott egyes fenntartói feladatokat, valamint a székhelye szerinti járási tankerület tekintetében ellátja a járási tankerületi feladatokat.
+(4)[^5] A megyeközponti tankerület az illetékességi területén működő, az Intézményfenntartó Központ fenntartásában lévő szakképző iskolák, gimnáziumok, kollégiumok, a pedagógiai szakszolgálati feladatokat ellátó köznevelési intézmények, valamint gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmények és az ilyen feladatokat ellátó többcélú intézmények tekintetében ellátja az Intézményfenntartó Központ szervezeti és működési szabályzatában számára meghatározott egyes fenntartói feladatokat, valamint a székhelye szerinti járási tankerület tekintetében ellátja a járási tankerületi feladatokat.
 
 (5) A járási tankerület az illetékességi területén működő általános iskolák, alapfokú művészeti iskolák fenntartásával kapcsolatosan ellátja az Intézményfenntartó Központ szervezeti és működési szabályzatában számára meghatározott egyes fenntartói feladatokat.
 
-(6)[^5] A fővárosi tankerület az illetékességi területén működő, az Intézményfenntartó Központ fenntartásában lévő szakképző iskolák, kollégiumok, a pedagógiai szakszolgálati feladatokat ellátó köznevelési intézmények, valamint gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmények és az ilyen feladatokat ellátó többcélú intézmények tekintetében – a (7) bekezdésben foglalt kivételekkel – ellátja az Intézményfenntartó Központ szervezeti és működési szabályzatában számára meghatározott egyes fenntartói feladatokat.
+(6)[^6] A fővárosi tankerület az illetékességi területén működő, az Intézményfenntartó Központ fenntartásában lévő szakképző iskolák, kollégiumok, a pedagógiai szakszolgálati feladatokat ellátó köznevelési intézmények, valamint gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmények és az ilyen feladatokat ellátó többcélú intézmények tekintetében – a (7) bekezdésben foglalt kivételekkel – ellátja az Intézményfenntartó Központ szervezeti és működési szabályzatában számára meghatározott egyes fenntartói feladatokat.
 
 (7) A fővárosi kerületi tankerület az illetékességi területén működő általános iskolák, alapfokú művészeti iskolák és gimnáziumok, valamint a kizárólag ilyen intézményeket és kollégiumokat megában foglaló többcélú intézmények fenntartásával kapcsolatosan ellátja az Intézményfenntartó Központ szervezeti és működési szabályzatában számára meghatározott egyes fenntartói feladatokat.
 
 (8) A járási és fővárosi kerületi tankerület feladatellátása során tevékenységét – az (5) és (7) bekezdésben foglalt feladatok kivételével – a megyeközponti és fővárosi tankerület szakmai és koordinációs iránymutatásainak megfelelően látja el.
 
-(9) Pest megyében a megyeközponti tankerület Cegléd székhellyel működik.
+(9)[^7] Pest megyében a megyeközponti tankerület Érd székhellyel működik.
 
-[^2]: Az 1/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 683. §-a iktatta be.
-[^3]: A 2. § a 379/2014. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^4]: A 2. § (4) bekezdése a 88/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 146/2015. (VI. 12.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
-[^5]: A 2. § (6) bekezdése a 88/2015. (IV. 9.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 146/2015. (VI. 12.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^3]: Az 1/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 683. §-a iktatta be.
+[^4]: A 2. § a 379/2014. (XII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^5]: A 2. § (4) bekezdése a 88/2015. (IV. 9.) Korm. rendelet 1. § (1) bekezdésével megállapított, a 146/2015. (VI. 12.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^6]: A 2. § (6) bekezdése a 88/2015. (IV. 9.) Korm. rendelet 1. § (2) bekezdésével megállapított, a 146/2015. (VI. 12.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
+[^7]: A 2. § (9) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 15. §-a szerint módosított szöveg.
