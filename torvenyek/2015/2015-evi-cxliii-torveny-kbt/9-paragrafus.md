@@ -64,7 +64,7 @@ e) értékpapírok vagy egyéb pénzügyi eszközök kibocsátásával, eladás�
 
 f) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitel- és kölcsönszerződések;
 
-g) munkaszerződés, közszolgálati, kormány-tisztviselői vagy közalkalmazotti jogviszony, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony, ügyészségi szolgálati jogviszony, bírósági jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonya;
+g) munkaszerződés, közszolgálati, kormányzati szolgálati, állami szolgálati, vagy közalkalmazotti jogviszony, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony, ügyészségi szolgálati jogviszony, bírói szolgálati jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonya;
 
 h) nonprofit szervezetek vagy egyesületek által nyújtott, az állampolgárok védelmét szolgáló 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9, 85143000-3 CPV kódok által meghatározott polgári védelmi és veszélymegelőzési szolgáltatás, kivéve a betegszállítási mentőszolgáltatás;
 

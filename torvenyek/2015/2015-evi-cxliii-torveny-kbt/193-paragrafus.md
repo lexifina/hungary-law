@@ -16,7 +16,7 @@ f) gondoskodik a kollégium 168. § (2) bekezdése szerinti véleményének a k�
 
 (3) A közbeszerzési biztosok közszolgálati jogviszonyára a Kttv.-t az e törvény szerinti eltérésekkel kell alkalmazni.
 
-(4) Közbeszerzési biztos az lehet, aki felsőfokú végzettséggel és legalább hároméves szakmai gyakorlattal, valamint közigazgatási, illetve jogi szakvizsgával rendelkezik.
+(4) Közbeszerzési biztos az lehet, aki felsőfokú végzettséggel és legalább hároméves szakmai gyakorlattal, valamint közigazgatási, illetve jogi szakvizsgával, vagy közigazgatási tanulmányok szakirányú szakképzettséggel, vagy kormányzati tanulmányok szakirányú szakképzettséggel rendelkezik.
 
 (5) A (4) bekezdésben meghatározott szakvizsga előírásra a Kttv.-ben meghatározott határidőket megfelelően alkalmazni kell.
 

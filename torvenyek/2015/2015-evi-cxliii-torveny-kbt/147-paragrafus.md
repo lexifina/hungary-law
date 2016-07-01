@@ -14,7 +14,7 @@ b) az ügyfélszervezetben tulajdoni részesedéssel vagy 50%-ot meghaladó mér
 
 c) olyan szervezettel áll munkaviszonyban, egyéb foglalkoztatási jogviszonyban vagy tagsági viszonyban, vagy annak vezető tisztségviselője vagy felügyelőbizottságának tagja, vagy abban tulajdoni részesedéssel vagy 50%-ot meghaladó mértékű közvetett tulajdoni részesedéssel rendelkezik, amely az ügyfélszervezettel rendszeres üzleti kapcsolatban áll;
 
-d) olyan szervezettel áll közszolgálati jogviszonyban, amely az ügyfélszervezet felügyelő szervezete vagy az ügyfélszervezet által felügyelt szervezet, illetve amely az ügyfélszervezet részére támogatást vagy kizárólagos jogot biztosít.
+d) olyan szervezettel áll közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonyban, amely az ügyfélszervezet felügyelő szervezete vagy az ügyfélszervezet által felügyelt szervezet, illetve amely az ügyfélszervezet részére támogatást vagy kizárólagos jogot biztosít.
 
 (3) A közbeszerzési biztos a Közbeszerzési Döntőbizottság elnökének haladéktalanul, de legkésőbb az ok felmerülésétől számított három napon belül köteles bejelenteni, ha vele szemben e §-ban vagy a Ket. 42. §-ának (1), illetve (3) bekezdésében meghatározott kizárási ok áll fenn. A közbeszerzési biztos a bejelentés elmulasztásáért vagy késedelmes teljesítéséért fegyelmi és anyagi felelősséggel tartozik.
 
