@@ -1,6 +1,6 @@
 ## Idegen pénznemben fennálló tartozás átváltása
 
-21/C. § (1) Ha a jelzáloghitel-szerződés alapján fennálló tartozás olyan pénznemben áll fenn, amelyet idegen pénznemnek kell tekinteni, a fogyasztó minden negyedév utolsó napjával egyoldalú jognyilatkozattal dönthet a szerződés alapján fennálló tartozás pénznemének (3) bekezdés a) pontja – vagy ha a hitelszerződés úgy rendelkezik, a (3) bekezdés b) pontja – szerinti módosításáról.
+21/C. § (1) Ha a jelzáloghitel-szerződés olyan pénznemre vonatkozik, amelyet annak igénylése időpontjában idegen pénznemnek kell tekinteni, a fogyasztó minden negyedév utolsó napjával egyoldalú jognyilatkozattal dönthet a szerződés alapján fennálló tartozás pénznemének (3) bekezdés a) pontja – vagy ha a hitelszerződés úgy rendelkezik, a (3) bekezdés b) pontja – szerinti módosításáról.
 
 (2) Idegen pénznemben fennálló tartozás az a tartozás, amelynek
 
@@ -26,4 +26,4 @@ lehet, amelyről a felek a hitelszerződésben rendelkezhetnek.
 
 (8) A tartozás átváltott pénzneme szerinti fizetési kötelezettség a fogyasztó (1) bekezdés szerinti nyilatkozatának a hitelezőhöz történő megérkezését követő második törlesztőrészlet megfizetésének esedékességével áll be.
 
-(9) A felek a hitelszerződésben e § alkalmazásától akkor térhetnek el, ha a hitelező a fogyasztó számára a hitelszerződésben más olyan lehetőséget biztosít, amely alkalmas a fogyasztó kockázati kitettségének olyan mértékű korlátozására, amelynek eredményeként a fogyasztó árfolyamkockázata a tíz százalékot nem haladja meg.
+(9) A felek a hitelszerződésben e § alkalmazásától akkor térhetnek el, ha a hitelező a fogyasztó számára a hitelszerződésben más olyan lehetőséget biztosít, amely alkalmas a fogyasztó kockázati kitettségének olyan mértékű korlátozására, amelynek eredményeként a fogyasztó árfolyamkockázata a húsz százalékot nem haladja meg.

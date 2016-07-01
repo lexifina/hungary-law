@@ -8,7 +8,7 @@ c) a kamatperiódusonként rögzített kamat esetén kamatperiódusonként rögz
 
 kell megállapítani.
 
-(2) A referencia-kamatlábhoz kötött hitelszerződés esetén az átváltott pénznemhez tartozó referencia-kamatlábat, valamint a kamatfelár-változtatási mutatót úgy kell meghatározni, hogy az tartalmilag – így különösen az alapul szolgáló kamatláb futamidejét tekintve – megfeleljen a a tartozás pénzneme módosulását megelőzően alkalmazott referencia-kamatlábnak, valamint kamatfelár-változtatási mutatónak. Ha a módosított referencia-kamatláb a módosítás hatálybalépésének napján magasabb, mint a pénznem módosulását megelőzően alkalmazott referencia-kamatláb, akkor a különbözetet a kamatfelár terhére kell érvényesíteni.
+(2) A referencia-kamatlábhoz kötött hitelszerződés esetén az átváltott pénznemhez tartozó referencia-kamatlábat, valamint a kamatfelár-változtatási mutatót úgy kell meghatározni, hogy az tartalmilag – így különösen az alapul szolgáló kamatláb futamidejét tekintve –megfeleljen a tartozás pénzneme módosulását megelőzően alkalmazott referencia-kamatlábnak, valamint kamatfelár-változtatási mutatónak.
 
 (3) A kamatperiódusonként rögzített hitelkamatozású hitelszerződés esetén a kamatváltoztatási mutatót úgy kell meghatározni, hogy az tartalmilag megfeleljen az eredeti kamatváltoztatási mutatónak.
 

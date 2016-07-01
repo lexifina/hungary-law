@@ -16,7 +16,7 @@ e) a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, va
 
 f) olyan hitelre, amelyet bíróság hoz létre,
 
-g) olyan hitelre, amely fennálló tartozás kamat- és egyéb ellenszolgáltatás-mentes átütemezésére vonatkozik,
+g) olyan hitelre, amely fennálló tartozás díj- és költségmentes átütemezésére, kiváltására vonatkozik,
 
 h) olyan törvényben vagy törvény felhatalmazása alapján kiadott jogszabályban meghatározott közérdeket szolgáló hitelre, amelyet korlátozott körben nyújtanak, és amely kamatmentes, vagy amelyre vonatkozó hitelkamat a piacon szokásos mértéknél alacsonyabb, vagy a piacon szokásos mértékű hitelkamat mellett a piacon szokásos feltételeknél a fogyasztó számára kedvezőbb; ideértve a lakáscélú kölcsönökre vonatkozó állami készfizető kezességről szóló 2009. évi IV. törvényben meghatározott áthidaló kölcsönt, a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló törvényben meghatározott gyűjtőszámlahitelt, valamint a külön jogszabály szerint nyújtott hallgatói hitelt.
 
