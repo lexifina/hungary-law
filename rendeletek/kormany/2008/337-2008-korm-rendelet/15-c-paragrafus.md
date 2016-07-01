@@ -6,7 +6,7 @@ b) a szolgáltatónál lekötött fekvőbeteg-szakellátási kapacitás szakmai 
 
 c) az orvosok létszámadatai vonatkozásában a finanszírozási szerződés adatai alapján félévente
 
-## ellenőrzést végez.
+ellenőrzést végez.
 
 (2) Az (1) bekezdés szerinti ellenőrzéshez szükséges adatokat az OEP az OTH megkeresésére az OTH rendelkezésére bocsátja.
 

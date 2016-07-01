@@ -16,7 +16,7 @@ d) az érintett szakma vagy szakmák köréről,
 
 e) a felmerült kapacitásigény mennyiségéről,
 
-## továbbá mellékelni kell a c) pont szerinti egészségügyi szolgáltató (szolgáltatók) finanszírozási szerződés módosítására vonatkozó beleegyező nyilatkozatát.
+továbbá mellékelni kell a c) pont szerinti egészségügyi szolgáltató (szolgáltatók) finanszírozási szerződés módosítására vonatkozó beleegyező nyilatkozatát.
 
 (4)[^158] Az egészségügyért felelős miniszter a kérelem kézhezvételét követő naptól számított 15 napon belül dönt jóváhagyásáról. Elutasító döntés esetén erről – a döntés indoklásával együtt – értesíti az OTH-t. Jóváhagyást tartalmazó döntés esetén az egészségügyért felelős miniszter a döntést követő munkanapon a jóváhagyott kérelmet megküldi jóváhagyásra az államháztartásért felelős miniszternek. A kérelem tárgyában az államháztartásért felelős miniszter harminc napon belül érdemi választ ad. Elutasítás esetén az érdemi válasz közlése indoklással együtt történik.
 

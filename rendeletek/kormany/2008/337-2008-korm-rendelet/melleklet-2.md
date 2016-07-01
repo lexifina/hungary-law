@@ -1,5 +1,3 @@
-## Többletkapacitásnak minősülő eszközök listája
-
 | EMKI főcsoport | Eszközök megnevezése |
 
 | 06 | Komplex diagnosztikai berendezések főcsoporton belül 0655 Urodinamiás berendezések |
@@ -20,7 +18,7 @@
 
 2. számú melléklet a 337/2008. (XII. 30.) Korm. rendelethez[^242]
 
-## A fekvőbeteg-szakellátásban finanszírozható szakmák köre
+A fekvőbeteg-szakellátásban finanszírozható szakmák köre
 
 A) Aktív fekvőbeteg szakellátás
 

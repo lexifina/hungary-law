@@ -1,5 +1,3 @@
-## 7. §[^115]
-
 ## Az átcsoportosításra vonatkozó szabályok
 
 8. §[^116] (1) A Tv. 7. §-a alapján kezdeményezett átcsoportosítási kérelemhez csatolni kell:
@@ -38,7 +36,7 @@ e) az egészségügyi szolgáltató nyilatkozatát arról, hogy az átcsoportos�
 
 (8b)[^129] A fenntartó a Tv. 5. § (1) bekezdése szerinti tartós ellátási igény csökkenés fennállása nélkül is kezdeményezheti a Tv. 7. § (1), (3) és (4) bekezdése szerinti kapacitás-átcsoportosítást.
 
-(9)[^130] A Tv. 7. § (7) bekezdése szerinti eljárás során az OEP a megkereséstől számított harminc napon belül küldi meg a 8/A. § szerint megállapítható kapacitásmennyiséget is tartalmazó véleményét az OTH részére.
+(9)[^130] A Tv. 7. § (7) bekezdése szerinti eljárás során az OEP a megkereséstől számított tizenöt napon belül küldi meg a 8/A. § szerint megállapítható kapacitásmennyiséget is tartalmazó véleményét az OTH részére.
 
 (9a)[^131] Az OTH nem engedélyezheti a kérelemben foglalt átcsoportosítást, ha
 
@@ -86,7 +84,6 @@ d) az átcsoportosítással kapcsolatos szakmai véleményét, és
 
 e) a 13. § (4) bekezdés c) pontja szerinti – a fenntartó által az OTH rendelkezésére bocsátott – hatásvizsgálatot.
 
-[^115]: A 7. §-t és az azt megelőző alcímet a 363/2010. (XII. 30.) Korm. rendelet 16. § 5. pontja hatályon kívül helyezte.
 [^116]: A 8. § a 360/2009. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^117]: A 8. § (1) bekezdés a) pontja a 164/2012. (VII. 19.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^118]: A 8. § (1a) bekezdését a 164/2012. (VII. 19.) Korm. rendelet 4. § (2) bekezdése iktatta be.
@@ -101,7 +98,7 @@ e) a 13. § (4) bekezdés c) pontja szerinti – a fenntartó által az OTH rend
 [^127]: A 8. § (8) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 15. § 8. pontja, a 447/2012. (XII. 29.) Korm. rendelet 57. §-a szerint módosított szöveg.
 [^128]: A 8. § (8a) bekezdését a 447/2012. (XII. 29.) Korm. rendelet 50. § (2) bekezdése iktatta be, szövege az 520/2013. (XII. 30.) Korm. rendelet 49. § (1) bekezdésével megállapított szöveg.
 [^129]: A 8. § (8b) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 65. § (1) bekezdése iktatta be.
-[^130]: A 8. § (9) bekezdése a 363/2010. (XII. 30.) Korm. rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^130]: A 8. § (9) bekezdése a 172/2016. (VII. 1.) Korm. rendelet 31. §-ával megállapított szöveg.
 [^131]: A 8. § (9a) bekezdését a 363/2010. (XII. 30.) Korm. rendelet 8. § (5) bekezdése iktatta be.
 [^132]: A 8. § (9a) bekezdés f) pontja a 325/2011. (XII. 28.) Korm. rendelet 67. § (2) bekezdésével megállapított szöveg.
 [^133]: A 8. § (9a) bekezdés h) pontja a 254/2013. (VII. 5.) korm. rendelet 38. § (1) bekezdése szerint módosított szöveg.

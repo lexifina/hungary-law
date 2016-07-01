@@ -54,7 +54,7 @@ b) a 3. számú melléklet 16/a. pontja szerinti ellátások, valamint
 
 c) az egynapos ellátások
 
-## esetében.
+esetében.
 
 (5f)[^90] A HIV fertőzött betegek gondozását a jogszabályban nevesített egészségügyi szolgáltatók ellátási terület nélkül végzik.
 

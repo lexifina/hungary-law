@@ -8,7 +8,7 @@ b) európai uniós forrásból vagy más pénzügyi alapból támogatott pályá
 
 c) az a) és a b) pont alá nem tartozó regionális fejlesztések
 
-## megvalósítása többletkapacitások befogadását igényli.
+megvalósítása többletkapacitások befogadását igényli.
 
 (2) Az (1) bekezdés szerinti befogadásnál figyelembe kell venni, hogy a befogadásra kerülő többletkapacitás várható éves teljesítményének finanszírozott összege nem haladhatja meg
 
