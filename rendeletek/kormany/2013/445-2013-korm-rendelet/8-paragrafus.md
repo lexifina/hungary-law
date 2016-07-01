@@ -16,8 +16,8 @@ f) a harmadik országbeli állampolgár foglalkoztatására nem a kérelmet beny
 
 (3) A szezonális foglalkoztatás munkaerő-kölcsönzés keretében is engedélyezhető.
 
-(4)[^14] A (3) bekezdésben meghatározott esetben a kérelmet el kell utasítani az (1) bekezdés a)–e) pontja szerinti esetben, továbbá ha a kölcsönbeadó nem szerepel a kormányhivatal nyilvántartásában.
+(4)[^15] A (3) bekezdésben meghatározott esetben a kérelmet el kell utasítani az (1) bekezdés a)–e) pontja szerinti esetben, továbbá ha a kölcsönbeadó nem szerepel a kormányhivatal nyilvántartásában.
 
 (5) Az (1) bekezdés b) és e) pontjának, valamint a 6. § (2) bekezdés a) és b) pontjának alkalmazásában foglalkoztatón a kölcsönbeadót kell érteni.
 
-[^14]: A 8. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^15]: A 8. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés b) pontja szerint módosított szöveg.

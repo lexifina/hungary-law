@@ -1,4 +1,4 @@
-14. § (1)[^31] A foglalkoztató köteles bejelenteni öt napon belül az illetékes kormányhivatalhoz
+14. § (1)[^32] A foglalkoztató köteles bejelenteni öt napon belül az illetékes kormányhivatalhoz
 
 a) a munkavállalási engedélyhez kötött foglalkoztatás meghiúsulását,
 
@@ -18,7 +18,7 @@ kell tartalmaznia.
 
 (3) A foglalkoztató az engedélyt köteles a foglalkoztatás időtartama alatt, valamint annak megszűnését követően három évig megőrizni, és a hatósági ellenőrzést végző szervnek felmutatni.
 
-(4)[^32] A kormányhivatal az engedélyt visszavonja, ha a harmadik országbeli állampolgár
+(4)[^33] A kormányhivatal az engedélyt visszavonja, ha a harmadik országbeli állampolgár
 
 a) foglalkoztatása meghiúsul vagy megszűnik a foglalkoztatónál,
 
@@ -32,10 +32,10 @@ e) foglalkoztatásának az engedélyben foglalt feltételei már nem állnak fen
 
 f) foglalkoztatása érdekében a foglalkoztató hamis vagy hamisított okiratot nyújtott be,
 
-g)[^33] részére az engedélyben meghatározott foglalkoztatás időtartamát érintően összevont engedély kerül kiadásra.
+g)[^34] részére az engedélyben meghatározott foglalkoztatás időtartamát érintően összevont engedély kerül kiadásra.
 
 (5) Engedély nélkül történő foglalkoztatásnak kell tekinteni azt is, ha a harmadik országbeli állampolgár tevékenységét nem az engedélyben megjelölt foglalkoztatónál végzi, vagy a foglalkoztató a harmadik országbeli állampolgárt nem az engedélyben megjelölt munkahelyen vagy munkakörben foglalkoztatja.
 
-[^31]: A 14. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (1) bekezdésével megállapított szöveg.
-[^32]: A 14. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (2) bekezdésével megállapított szöveg.
-[^33]: A 14. § (4) bekezdés g) pontját a 441/2015. (XII. 28.) Korm. rendelet 216. § (5) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^32]: A 14. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (1) bekezdésével megállapított szöveg.
+[^33]: A 14. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (2) bekezdésével megállapított szöveg.
+[^34]: A 14. § (4) bekezdés g) pontját a 441/2015. (XII. 28.) Korm. rendelet 216. § (5) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
