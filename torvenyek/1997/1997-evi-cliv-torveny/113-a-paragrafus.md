@@ -2,7 +2,7 @@
 
 a) akit a bíróság bármely ügycsoport tekintetében cselekvőképességet részlegesen korlátozó vagy a cselekvőképességet teljesen korlátozó gondnokság alá helyezett,
 
-b) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fűződő hátrányos jogkövetkezmények hatálya alatt, amely miatt egy évet meghaladó végrehajtandó szabadságvesztésre ítélték, vagy aki az egészségügyi tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt áll,
+b) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fűződő hátrányos jogkövetkezmények hatálya alatt, amely miatt egy évet meghaladó végrehajtandó szabadságvesztésre ítélték, vagy aki az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll,
 
 c) akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására véglegesen alkalmatlanná nyilvánított,
 

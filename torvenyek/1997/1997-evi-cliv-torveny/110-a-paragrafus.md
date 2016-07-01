@@ -1,4 +1,4 @@
-110/A. § (1) Az egészségügyi államigazgatási szerv a bizonyítványát, illetve az oklevelét külföldön elismertetni szándékozó személy részére – kérelmére vagy külföldi hatóság megkeresésére – a 110. § (16) bekezdés szerinti, továbbá a működési nyilvántartásban szereplő adatok, valamint a (4) bekezdés szerinti igazolás vagy adatigénylés alapján, külön jogszabályban meghatározottak szerint hatósági bizonyítványt állít ki (a továbbiakban: jó hírnév igazolás).
+110/A. § (1) Az egészségügyi államigazgatási szerv a bizonyítványát, illetve az oklevelét külföldön elismertetni szándékozó személy részére – kérelmére vagy külföldi hatóság megkeresésére – a 110. § (16) bekezdés szerinti, továbbá a működési nyilvántartásban szereplő adatok, valamint a (2) bekezdés a) pontja szerinti tény igazolására irányuló adatigénylés alapján, külön jogszabályban meghatározottak szerint hatósági bizonyítványt állít ki (a továbbiakban: jó hírnév igazolás).
 
 (2) A jó hírnév igazolás az alábbiakat tartalmazza:
 

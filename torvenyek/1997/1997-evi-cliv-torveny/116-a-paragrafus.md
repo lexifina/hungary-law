@@ -48,6 +48,12 @@ c) (5) bekezdés e) pontja szerinti adatokban bekövetkezett változást a szako
 
 a változás bekövetkezésétől számított 15 napon belül köteles bejelenteni az egészségügyi államigazgatási szerv részére.
 
+(7a) A (7) bekezdés a) pontja szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a jelölt kéri – a (7) bekezdés szerinti határidőben értesíti az egészségügyi államigazgatási szervet.
+
+(7b) A (7) bekezdés c) pontja szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a szakorvosképzésért felelős egészségügyi államigazgatási szerv által a munkavégzés helyeként meghatározott egészségügyi szolgáltató, vagy – ha nem szakorvosképzésért felelős egészségügyi államigazgatási szerv a munkáltató – a képzésben részt vevő személyt foglalkoztató egészségügyi szolgáltató kéri – a (7) bekezdés szerinti határidőben értesíti az egészségügyi államigazgatási szervet.
+
 (8) A (4) bekezdés szerinti nyilvántartás adatainak kötelező megőrzési ideje a támogatott szakképesítés megszerzésétől számított 10 év.
 
 (9) Az egészségügyi államigazgatási szerv a (3) bekezdés szerinti szervezési feladatai ellátása érdekében jogosult megismerni a 112. § (4) bekezdés a) és b) pontja szerinti adatokat.
+
+(10) Az egészségügyi államigazgatási szerv a fiatal szakorvosok támogatására működteti a Fiatal Szakorvosok Támogatási Programját.

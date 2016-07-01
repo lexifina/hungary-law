@@ -18,7 +18,9 @@ f) a speciális képzési feladatok ellátására, és
 
 g) az egészségügyi válsághelyzeti ellátási gyakorlatok végrehajtására,
 
-h) a szükséggyógyintézetek elhelyezésére alkalmas ingatlanok előzetes kijelölésére.
+h) a szükséggyógyintézetek elhelyezésére alkalmas ingatlanok előzetes kijelölésére,
+
+i) a felkészülés koordinációjára, a közreműködők nyilvántartására és képességeik alapján történő kategorizálására.
 
 (4) Az egészségügyi válsághelyzeti ellátás tényleges működése kiterjed
 
@@ -26,7 +28,7 @@ a) a kizárólag az egészségügyi válsághelyzet idején hatályos jogszabál
 
 b) az egészségügyi ellátó rendszer szervezetének és működésének szükséges mértékű átalakítására,
 
-c) az egészségügyi válsághelyzet felszámolásához szükséges irányítási és vezetési rend bevezetésére,
+c) az egészségügyi válsághelyzet felszámolásához szükséges irányítási és vezetési koordinációs rend bevezetésére,
 
 d) a betegek egészségügyi ellátására,
 
@@ -36,6 +38,8 @@ f) pótlólagos kapacitások és készletek bevonására,
 
 g) egészségügyi szolgáltató időszakos működtetésére, valamint az egészségügyi szolgáltató működtetését szolgáló ingó és ingatlan vagyontárgy igénybevételére,
 
-h) az egészségügyi válsághelyzet felszámolásához szükséges intézkedések meghozatalára.
+h) az egészségügyi válsághelyzet felszámolásához szükséges intézkedések meghozatalára,
+
+i) a feladatok, erőforrások és eszközök koordinálására.
 
 (5) Az egészségügyi válsághelyzeti ellátásban részt vevőknek az egészségbiztosítás által fedezett összegen felül felmerülő költségeit a központi költségvetés téríti meg.

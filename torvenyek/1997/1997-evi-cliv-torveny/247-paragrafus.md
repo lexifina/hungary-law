@@ -8,7 +8,7 @@ c) a meghatározott időtartamra és helyszínre szóló, egészségügyi tevék
 
 d) a nemzeti vérkészlettel való gazdálkodás, különös tekintettel a vérkészítmények külföldről történő behozatalára, illetőleg külföldre történő kivitelére vonatkozó szabályokat,
 
-e) az egészségügyi válsághelyzeti ellátásra vonatkozó részletes szabályokat, az egészségügyi válsághelyzeti ellátás során megtehető intézkedésekre, az egészségügyi dolgozók kirendelésére, az egészségügyi válsághelyzeti ellátásra való felkészülésre, az egészségügyi válsághelyzet kihirdetésére, megszüntetésére,, az egyes egészségügyi válsághelyzetek kezelésére vonatkozó részletes szabályokat
+e) az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra, az egészségügyi válsághelyzet és veszélyhelyzet kezelésére vonatkozó részletes szabályokat, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátás során megtehető intézkedésekre, az egészségügyi dolgozók kirendelésére, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra való felkészülésre, az egészségügyi válsághelyzet és veszélyhelyzet kihirdetésére, megszüntetésére vonatkozó részletes szabályokat,
 
 f) az egészségügyi szolgáltatók felelősségbiztosítására vonatkozó részletes szabályokat,
 
@@ -35,6 +35,8 @@ mc) a szabadon választható elméleti továbbképzések pontértékét megálla
 md) a szakorvosképzés intézményi akkreditációját végző szervet,
 
 me) a szakképzéshez kapcsolódó támogatások mértékét,
+
+mf) a Rezidens Támogatási Programra, valamint a Fiatal Szakorvosok Támogatási Programjára vonatkozó részletszabályokat,
 
 n) a nem az Etv. 28. §-a szerinti tagállamban egészségügyi felsőfokú szakirányú szakmai képzés során megszerzett képesítést tanúsító oklevelek, bizonyítványok elismerése során eljáró hatóságot,
 
@@ -254,7 +256,9 @@ na) a fertőzés kockázatának csökkentésére és megelőzésére irányuló 
 
 nb) a kockázatbecslés, kockázatelemzés szabályait,
 
-o) az egészségfejlesztési irodák jogállására, feladat- és hatáskörére vonatkozó szabályokat, valamint a járási (fővárosi kerületi) egészségterv tartalmi követelményeit
+o) az egészségfejlesztési irodák jogállására, feladat- és hatáskörére vonatkozó szabályokat, valamint a járási (fővárosi kerületi) egészségterv tartalmi követelményeit,
+
+p) az állami és nem állami szervezetek hazai és nemzetközi egészségügyi segítségnyújtásra vonatkozó szabályokat, valamint az ilyen tevékenységet végzők nyilvántartására és felkészítésére vonatkozó szabályokat,
 
 rendeletben állapítsa meg.
 
@@ -263,3 +267,61 @@ rendeletben állapítsa meg.
 (4a) Felhatalmazást kap az egészségügyért felelős miniszter, hogy rendeletben jelölje ki a 2013. május 1-jén átvételre kerülő egészségügyi intézmény tekintetében fenntartói joggal rendelkező központi államigazgatási szervet.
 
 (5) Felhatalmazást kap
+
+a) a büntetés-végrehajtásért felelős miniszter, valamint a rendészetért felelős miniszter, hogy – a miniszterrel egyetértésben – a fogvatartottak egészségügyi ellátására vonatkozó szabályokat,
+
+b) a miniszter és a rendészetért felelős miniszter, hogy az ittas személyek kijózanítás céljából az illetékes egészségügyi szolgáltatóhoz történő szállításának szabályait,
+
+c) a miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az e törvény szerint
+
+ca) az orvostechnikai eszközökkel és a gyógyászati segédeszközökkel kapcsolatos eljárásokkal – ideértve a szakhatósági eljárást is –, továbbá az egyszer használatos orvostechnikai eszközök újrafelhasználásának jóváhagyási eljárásával összefüggő igazgatási szolgáltatásokért,
+
+cb) az egészségügyi szolgáltatók működési engedélyezésével és hatósági nyilvántartásba vételével kapcsolatosan,
+
+cc) az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartásával összefüggésben,
+
+cd) az orvostudományi kutatás, valamint a beavatkozással nem járó vizsgálat engedélyezési eljárásáért,
+
+ce) az egységes ágazati humánerőforrás-monitoringrendszert működtető szerv részére az igazgatási szolgáltatásainak igénybevételéért,
+
+cf) az egészségügyi szakértők tevékenységének engedélyezéséért,
+
+cg) az egészségfejlesztési programok akkreditációjáért,
+
+ch) a természetes gyógytényezőkkel kapcsolatos egyes eljárásokkal – ideértve a szakhatósági eljárásokat is – összefüggő igazgatási szolgáltatásokért,
+
+ci) a közegészségügyi vagy élelmezés- és táplálkozás-egészségügyi feladatkörben eljáró egészségügyi államigazgatási szervnek az anyatej-helyettesítő és anyatej-kiegészítő tápszerek, a feldolgozott gabonaalapú élelmiszerek és bébiételek, a speciális gyógyászati célra szánt élelmiszerek és testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerek, az étrend-kiegészítők, valamint a vitaminokkal, ásványi anyagokkal és bizonyos egyéb anyagokkal dúsított élelmiszerek bejelentéséért, nyilvántartásba vételéért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerek, a feldolgozott gabonaalapú élelmiszerek és bébiételek, a speciális gyógyászati célra szánt élelmiszerek és testtömeg-szabályozás céljára szolgáló, teljes napi étrendet helyettesítő élelmiszerek csomagolására előírt kötelezettség alóli felmentés engedélyezésére irányuló eljárásáért, az anyatej-helyettesítő és anyatej-kiegészítő tápszerrel kapcsolatos tájékoztató és oktató anyagok (eszközök) engedélyezésére irányuló eljárásáért, az új élelmiszerek elsődleges értékeléséhez szükséges szakvélemények elkészítéséért, az élelmiszerek alkalmi árusításának engedélyezésére irányuló eljárásáért, valamint a vendéglátótermékek végső fogyasztó részére történő kiszállítására irányuló tevékenység engedélyezésére irányuló eljárásáért, igazgatási jellegű szolgáltatásáért,
+
+cj)
+
+ck) egészségügyi államigazgatási szerv által az egészségügyi szakképesítéssel rendelkező személyek alap- és működési nyilvántartása körében kérelemre lefolytatott eljárásért,
+
+fizetendő igazgatási szolgáltatási díjak körét, mértékét, valamint a díjak fizetésére vonatkozó egyéb rendelkezéseket,
+
+d) a miniszter, hogy az oktatásért felelős miniszterrel és a sportpolitikáért felelős miniszterrel egyetértésben a közoktatási intézményekben történő teljeskörű egészségfejlesztésre vonatkozó részletes szabályokat,
+
+e) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben a taktikai medicina – mint a rendőri speciális műveleti feladatok végrehajtása során végezhető egészségügyi tevékenység – szakmai, személyi, tárgyi feltételeit és követelményeit, valamint ezek szakmai tartalmát;
+
+f) a miniszter, hogy – a rendészetért felelős miniszterrel egyetértésben – a rendőri intézkedések kapcsán szükségessé váló, az intézkedéstaktikába épített elsősegélynyújtás képzések részletes tematikáját, az oktatásra jogosultak körét, az oktatásban részt vevők kompetenciáit;
+
+g) a miniszter, hogy – a rendészetért felelős miniszterrel egyetértésben – a halálos tömegszerencsétlenségek áldozatainak nemzetközi szervezetek szabványai szerinti azonosítására irányuló szervezett tevékenységben részt vevők körét, oktatását, feladatrendszerét, riasztási rendjét, tevékenységét, felszerelését, az együttműködés rendjét, a működtetés és a tevékenység részletes szabályait
+
+rendeletben állapítsa meg.
+
+(6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
+
+a) – szabályozási tárgykörben – az Európai Parlament és a Tanács 2005/36/EK irányelve (2005. szeptember 7.) a szakmai képesítések elismeréséről, 21–45. cikk, 56. cikk (2) bekezdése;
+
+b) a Tanács 93/42/EGK irányelve (1993. június 14.) az orvostechnikai eszközökről;
+
+c) az Európai Parlament és a Tanács 2007/47/EK irányelve (2007. szeptember 5.) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról;
+
+d) az Európai Parlament és a Tanács 2004/23/EK irányelve (2004. március 31.) az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról;
+
+e) az Európai Parlament és a Tanács 2010/53/EU irányelve (2010. július 7.) az átültetésre szánt emberi szervekre vonatkozó minőségi és biztonsági előírások megállapításáról;
+
+f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv. 107m. cikk (1)–(4) és (8) bekezdések, 107n. cikk (2) bekezdés;
+
+g) a Bizottság 2015/566/EU irányelve a 2004/23/EK irányelvnek az importált szövetekre és sejtekre vonatkozó minőségi és biztonsági előírások egyenértékűségének ellenőrzését szolgáló eljárások tekintetében történő végrehajtásáról;
+
+i)

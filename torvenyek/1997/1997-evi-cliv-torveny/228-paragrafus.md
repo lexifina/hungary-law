@@ -1,6 +1,6 @@
 ## XIV. Fejezet
 
-## EGÉSZSÉGÜGYI VÁLSÁGHELYZETI ELLÁTÁS
+## EGÉSZSÉGÜGYI VÁLSÁGHELYZETI ÉS EGÉSZSÉGÜGYI VESZÉLYHELYZETI ELLÁTÁS
 
 228. § (1) Egészségügyi válsághelyzet idején a betegek ellátása az egészségügyi válsághelyzeti ellátás keretében történik.
 

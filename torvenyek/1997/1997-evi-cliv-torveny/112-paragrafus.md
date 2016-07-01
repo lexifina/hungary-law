@@ -12,7 +12,7 @@ b) aki a (4) bekezdés foglalt adatok közlését megtagadja,
 
 c) aki – jogszabályban meghatározott esetekben – a megfelelő szakmai nyelvismeret meglétét, vagy aki a 113. § (6) bekezdés esetében a továbbképzési kötelezettsége teljesítését nem igazolja,
 
-d) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fűződő hátrányos jogkövetkezmények hatálya alatt, amely miatt egy évet meghaladó végrehajtandó szabadságvesztésre ítélték, vagy aki az egészségügyi tevékenység folytatását kizáró foglalkoztatástól eltiltás hatálya alatt áll, illetve aki az ezen tények fenn nem állása tekintetében a 112/A. § (1) bekezdés szerinti igazolási kötelezettségét nem teljesíti,
+d) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fűződő hátrányos jogkövetkezmények hatálya alatt, amely miatt egy évet meghaladó végrehajtandó szabadságvesztésre ítélték, vagy aki az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll, illetve aki az ezen tények fenn nem állása tekintetében a 112/A. § (1) bekezdés szerinti igazolási kötelezettségét nem teljesíti,
 
 e) akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására véglegesen alkalmatlanná nyilvánított,
 
@@ -36,7 +36,7 @@ k) aki – feltéve, hogy a törvény kötelező kamarai tagságot ír elő – 
 
 (4) A működési nyilvántartás az alábbi adatokat tartalmazza:
 
-a) az egészségügyi dolgozó neme, természetes személyazonosító adatai, az egészségügyi tevékenység gyakorlása során használt neve, lakóhelye és tartózkodási helye, állampolgársága,
+a) az egészségügyi dolgozó neve, természetes személyazonosító adatai, az egészségügyi tevékenység gyakorlása során használt neve, lakóhelye és tartózkodási helye, állampolgársága,
 
 b) a 115. § (2) bekezdés a), b) és d) pontja szerinti egészségügyi ágazati szakmai képzések keretében megszerzett szakképesítések, valamint szakirányú továbbképzések megnevezése, az erről kiállított bizonyítvány vagy oklevél száma, a kiállítás helye és időpontja, továbbá a kiállító intézmény megnevezése, a képzés nyelve,
 
@@ -76,7 +76,7 @@ használja. Ennek keretében az egészségügyi dolgozó az egészségügyi tev�
 
 (4b) Amennyiben az egészségügyi dolgozó a (4a) bekezdés alapján az egészségügyi tevékenység gyakorlása során a születési nevét kívánja használni, azt annak a működési nyilvántartásba történt bejegyzését követően és kizárólag a (4a) bekezdésben meghatározott esetekben használhatja.
 
-(5) A (4) bekezdés b)–c), e), f) és k) pontja, továbbá a) pontjából az egészségügyi dolgozó neve, illetve az egészségügyi tevékenység gyakorlása során használt neve bárki számára megismerhető adat.
+(5) A (4) bekezdés b)–c), e), f) és k) pontja, továbbá a) pontjából az egészségügyi dolgozó neve, illetve az egészségügyi tevékenység gyakorlása során használt neve, valamint g) pontjából az egészségügyi tevékenység szüneteltetésének ténye bárki számára megismerhető adat.
 
 (6) A működési nyilvántartást vezető szerv a (4) bekezdés j) pontja szerinti adatot a határozat jogerőre emelkedésétől számított két év után, az n) pont szerinti adatot az adat beérkezésétől számított két év után a nyilvántartásból hivatalból törli.
 

@@ -6,4 +6,4 @@
 
 (4) Ha az egészségügyi válsághelyzet több megyét érint, a Kormány határozhat arról, hogy a Magyar Honvédség, a honvédelmi szervek, a rendvédelmi szervek egészségügyi szolgáltatóinál dolgozók a (3) bekezdés szerinti eljárásban kirendelhetők.
 
-(5) A miniszter javaslatára a Kormány meghatározza az egészségügyi válsághelyzet felszámolása érdekében igénybe vehető erőket, eszközöket és szervezeteket.
+(5) A miniszter javaslatára a Kormány meghatározza az egészségügyi válsághelyzet felszámolása érdekében igénybe vehető erőket, eszközöket és szervezeteket, és engedélyezi azok igénybevételét.
