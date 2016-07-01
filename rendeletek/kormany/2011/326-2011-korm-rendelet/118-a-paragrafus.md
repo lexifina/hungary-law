@@ -16,4 +16,7 @@
 
 (8) Az (1) bekezdésben meghatározott adatokban bekövetkezett változást a jogosult 30 napon belül köteles bejelenteni.
 
+(9)[^203] A részleges díjmentességre jogosult természetes személy üzembentartó a mentességi nyilvántartásba történő felvételét elektronikus úton is kezdeményezheti.
+
 [^202]: A 26/A. alcímet (118/A. §) a 467/2015. (XII. 29.) Korm. rendelet 26. § (1) bekezdése iktatta be.
+[^203]: A 118/A. § (9) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 26. § (2) bekezdése iktatta be.
