@@ -1,5 +1,5 @@
-## III. Fejezet[^61]
+## III. Fejezet[^59]
 
 ## A BELÜGYMINISZTÉRIUM ORSZÁGOS KATASZTRÓFAVÉDELMI FŐIGAZGATÓSÁG ÉS ALÁRENDELT SZERVEI HIVATÁSOS ÁLLOMÁNYÁNAK TAGJAIRA, AZ ÖNKORMÁNYZATI TŰZOLTÓSÁGOK, AZ ÖNKÉNTES TŰZOLTÓ EGYESÜLETEK, A LÉTESÍTMÉNYI TŰZOLTÓSÁGOK TAGJAIRA VONATKOZÓ CSOPORTOS ÉLET- ÉS BALESETBIZTOSÍTÁS
 
-[^61]: A III. Fejezet címe a 368/2012. (XII. 17.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^59]: A III. Fejezet címe a 368/2012. (XII. 17.) Korm. rendelet 8. §-ával megállapított szöveg.

@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-259-20-
 | 2015-03-05 | 2011-259-20-22.14 | 435/2013. (XI. 19.) Korm. rendelet |
 | 2016-01-01 | 2011-259-20-22.15 | 443/2015. (XII. 28.) Korm. rendelet |
 | 2016-02-15 | 2011-259-20-22.16 | 443/2015. (XII. 28.) Korm. rendelet |
+| 2016-07-01 | 2011-259-20-22.17 | 347/2012. (XII. 11.) Korm. rendelet |
