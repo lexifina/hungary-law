@@ -1,0 +1,1 @@
+## 2. § E rendelet hatálya nem terjed ki a jogszabály vagy uniós jogi aktus változása miatt kötelező változásbejelentési eljárás, továbbá az R. 3. § (2) bekezdésében meghatározott adatok vonatkozásában tett (változásbejelentésnek nem minősülő, de adatváltozásra vonatkozó) bejelentésre.

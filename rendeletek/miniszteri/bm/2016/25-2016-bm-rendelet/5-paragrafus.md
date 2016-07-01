@@ -1,0 +1,5 @@
+5. § (1) Ha eljárás kezdeményezése nélkül történt díjfizetés, valamint ha az 1. §-ban meghatározott összegnél magasabb díjat fizettek (a továbbiakban együtt: túlfizetés), a díj befizetője kérheti a túlfizetés visszatérítését. Ha a túlfizetést a bizalmi felügyelet észleli, annak visszatérítéséről hivatalból intézkedik.
+
+(2) Ha a visszatérítés kérelemre történik, a kérelemben meg kell jelölni a visszatérítés indokát, a számlatulajdonos nevét, a számlaszámot vagy a postai címet, ahová a kérelmező a visszatérített összeg utalását kéri. Ha a kérelem megalapozott, a díj visszatérítését a bizalmi felügyelet a kérelmező által megjelölt számlaszámra átutalással, vagy a postai címre kiutalással teljesíti a visszatérítési kérelem beérkezését követő harminc napon belül.
+
+(3) Hivatalból történő visszatérítés esetén azt a bizalmi felügyelet a visszatérítésre okot adó körülmény észlelésétől számított 30 napon belül a fizetési számla megterhelését tartalmazó napi kivonaton, a postai készpénz-átutalási megbízás feladását igazoló szelvényrészen vagy ezek másolatán feltüntetett fizetési számlaszámra átutalással, vagy az azon feltüntetett címre történő kiutalással teljesíti.

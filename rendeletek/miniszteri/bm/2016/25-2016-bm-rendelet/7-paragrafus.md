@@ -1,0 +1,1 @@
+## 6. § Az e rendeletben nem szabályozott kérdésekre az illetékekről szóló 1990. évi XCIII. törvény 28. § (2)–(4) bekezdésében, 31. § (2) és (3) bekezdésében foglalt rendelkezéseket kell alkalmazni azzal, hogy ahol e törvény illetékről rendelkezik, azon e rendelet alkalmazásában díjat, ahol illetékfizetési kötelezettséget említ, azon díjfizetési kötelezettséget kell érteni.
