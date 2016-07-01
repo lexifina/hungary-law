@@ -1,21 +1,27 @@
 ## 3a. A köztársasági elnök jogkörei
 
-4/A. § A köztársasági elnök a miniszter előterjesztésére az Alaptörvény 9. cikk (4) bekezdés e) pontjában meghatározott feladatkörében dönt
+4/A. § (1) A köztársasági elnök a miniszter előterjesztésére az Alaptörvény 9. cikk (4) bekezdés e) pontjában meghatározott hatáskörében dönt
 
-a) az első tábornoki rendfokozatba történő kinevezésről, ideértve a határozott időre szóló és a kötelező várakozási idő letelte előtti kinevezést is,
+a) az első tábornoki rendfokozatba történő kinevezésről, ideértve a határozott időre szóló és a kötelező várakozási idő letelte előtti kinevezést is, és
 
-b) tábornok magasabb tábornoki rendfokozatba történő előléptetéséről, ideértve a határozott időre szóló előléptetést is,
+b) tábornok magasabb tábornoki rendfokozatba történő előléptetéséről, ideértve a határozott időre szóló előléptetést is.
 
-c) tábornok szolgálati viszonyának megszüntetéséről,
+(2) A köztársasági elnök a miniszter előterjesztésére az Alaptörvény 9. cikk (4) bekezdés j) pontjában meghatározott hatáskörében dönt
 
-d) tábornok szolgálati viszonya megszűnésének megállapításáról,
+a) hivatásos szolgálati viszony létesítéséről tábornok esetén,
 
-e) tábornokkal szemben a 147. § (1) bekezdés f) vagy g) pontja szerinti fenyítés kiszabásáról,
+b) tábornok szolgálati viszonyának megszüntetéséről,
 
-f) tábornokkal szemben méltatlanság megállapításáról,
+c) tábornok szolgálati viszonya megszűnésének megállapításáról,
 
-g) tábornok szolgálaton kívüli állományba vételéről és annak megszüntetéséről,
+d) tábornokkal szemben a 147. § (1) bekezdés f) vagy g) pontja szerinti fenyítés kiszabásáról,
 
-h) tábornok hivatásos állományba visszavételéről,
+e) tábornokkal szemben méltatlanság megállapításáról,
 
-i) a nyugállományú tábornok egyenruha viselésének, illetve rendfokozat használatának megvonásáról.
+f) tábornok szolgálaton kívüli állományba vételéről és annak megszüntetéséről,
+
+g) tábornok hivatásos állományba visszavételéről, és
+
+h) a nyugállományú tábornok egyenruha viselésének, illetve rendfokozat használatának megvonásáról.
+
+(3) A köztársasági elnök a (2) bekezdésben foglaltak teljesítését megtagadja, ha a jogszabályi feltételek hiányoznak, vagy alapos okkal arra következtet, hogy az az államszervezet demokratikus működésének súlyos zavarát eredményezné.

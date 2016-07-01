@@ -8,7 +8,7 @@ a) a 2002. január 1-je előtt a fegyveres szervek állományában szolgálati v
 
 b) a 2012. január 1-je előtt hatályos szabályok szerint rögzített szolgálati időt
 
-tényleges szolgálati viszonyban töltött időnek kell elismerni. A jubileumi jutalomra való jogosultság, valamint a felmentési idő számítása szempontjából a kormányzati szolgálati, a közszolgálati és a közalkalmazotti jogviszonyban, valamint a 2013. június 30-ig közszolgálati jogviszonyban eltöltött, vagy ilyennek minősített időket, a pótszabadság mértéke szempontjából pedig ezek mellett a munkaviszonyban eltöltött időt is figyelembe kell venni.
+tényleges szolgálati viszonyban töltött időnek kell elismerni. A jubileumi jutalomra való jogosultság, valamint a felmentési idő számítása szempontjából a kormányzati szolgálati, az állami szolgálati, a közszolgálati és a közalkalmazotti jogviszonyban, valamint a 2013. június 30-ig közszolgálati jogviszonyban eltöltött, vagy ilyennek minősített időket, a pótszabadság mértéke szempontjából pedig ezek mellett a munkaviszonyban eltöltött időt is figyelembe kell venni.
 
 (3) Az 1996. szeptember 1-je után létesített szolgálati viszony esetén a szolgálati viszonyban töltött időként csak a sor-, a tartalékos-, a póttartalékos, a továbbszolgáló és a szerződéses katonai, a fegyveres szervnél hivatásos és szerződéses szolgálati viszonyban eltöltött, továbbá a katonai és a rendvédelmi felsőoktatási intézménynél 1996. szeptember 1-jét megelőzően hallgatói, növendéki és a tiszthelyettes-képző szakközépiskolában hallgatói jogviszonyban eltöltött idő vehető figyelembe.
 

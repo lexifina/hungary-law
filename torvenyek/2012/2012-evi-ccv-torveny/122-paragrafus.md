@@ -26,10 +26,12 @@ d) jogszabály alapján meghatározott esetekben kiegészítő illetményből
 
 (6) Amennyiben az (1) bekezdés a) és b) pontja szerinti illetményelemek együttes összege nem éri el a kötelező legkisebb munkabér (minimálbér) és a garantált bérminimum megállapításáról szóló kormányrendelet szerinti minimálbér vagy garantált bérminimum összegét – vagy rész-szolgálatteljesítés esetén annak arányosított részét – a különbözetet kiegészítő illetményként kell megállapítani.
 
-(7) Az állomány tagja nem jogosult illetményre
+(7) Az állomány tagja nem jogosult a (4) bekezdés szerinti illetményre
 
 a) az illetmény nélküli szabadság időtartamára,
 
-b) ha a 46. § (1) bekezdés j) pontja alapján rendelkezési állományba tartozik, vagy
+b) ha a 46. § (1) bekezdés b) pontja alapján rendelkezési állományba tartozik, és illetményére a más szerv foglalkoztatottjaira vonatkozó szabályok az irányadók,
 
-c) a jogellenes távollét időtartamára.
+c) ha a 46. § (1) bekezdés j) pontja alapján rendelkezési állományba tartozik, vagy
+
+d) a jogellenes távollét időtartamára.

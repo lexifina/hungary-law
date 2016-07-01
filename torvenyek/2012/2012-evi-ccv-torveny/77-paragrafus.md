@@ -10,7 +10,7 @@
 
 (3) Szolgálati beosztás betöltése és rendelkezési állományba helyezés nélkül is a Honvédség állományába tartozik a szerződéses pályakezdő.
 
-(4) Az állomány központi államigazgatási szervek, továbbá központi államigazgatási szervek területi és helyi szervei védelmi igazgatással foglalkozó szervezeti elemeinél szolgálatot teljesítő tagjának szolgálati viszonyára az 54. § (1) bekezdés a)–c) pontját, valamint (2) bekezdését kell alkalmazni.
+(4) Az állomány központi államigazgatási szervek védelmi igazgatással foglalkozó szervezeti elemeinél szolgálatot teljesítő tagjának szolgálati viszonyára az 54. § (1) bekezdés a)–c) pontját, valamint (2) bekezdését kell alkalmazni.
 
 (5) Amennyiben nemzetközi szerződés eltérően nem rendelkezik,
 

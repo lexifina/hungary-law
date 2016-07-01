@@ -1,6 +1,6 @@
 ## 109. Az V., a VI. és a VII. Fejezethez kapcsolódó rendelkezések
 
-194. § (1) A hivatásos állomány tagja beleegyezésével, vezényléssel teljesíthet szolgálatot a KNBSZ-nél. Ha a vezénylés szolgálati viszony létesítésével jár, a szolgálati viszonyt létesíteni szándékozó személynek az e Fejezetben foglaltakon túl meg kell felelnie a 31. § és a 33. § előírásainak is. A kinevezési okmány tartalma a 36. § (2) és (3) bekezdésében foglaltaktól eltérhet. A pályázati eljárás sajátos rendjét a főigazgató határozza meg.
+194. § (1) A hivatásos állomány tagja beleegyezésével, vezényléssel teljesíthet szolgálatot a KNBSZ-nél. Ha a vezénylés szolgálati viszony létesítésével jár, a szolgálati viszonyt létesíteni szándékozó személynek az e Fejezetben foglaltakon túl meg kell felelnie a 31. § és a 33. § előírásainak is. A kinevezési okmány tartalma a 36. § (2) és (3) bekezdésében foglaltaktól eltérhet. A pályázati eljárás sajátos rendjét a főigazgató határozza meg. Ha a szolgálati viszony a KNBSZ-nél történő szolgálatteljesítéssel összefüggésben jön létre, legfeljebb hat hónapig terjedő próbaidő köthető ki.
 
 (2) A szolgálatteljesítés feltétele a nemzetbiztonsági alkalmasság, valamint a poligráfos vizsgálaton való részvétel vállalása.
 

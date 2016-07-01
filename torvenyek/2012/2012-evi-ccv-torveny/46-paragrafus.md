@@ -12,7 +12,7 @@ d) a hivatásos állomány azon tagja, aki a KNBSZ-nél teljesít szolgálatot, 
 
 e) az állomány azon tagja, aki külföldön teljesít szolgálatot, melynek időtartama egybefüggően meghaladja az 1 évet, a vezénylés időtartamára, vagy aki 1 évet meghaladó időtartamra hosszabbított külföldi szolgálatot, a meghosszabbítástól annak megszűnéséig,
 
-f) az állomány azon tagja, akivel szemben az a)–e) pont szerinti ok megszűnt, vagy megszüntetésre került, feltéve, hogy szolgálati viszonyban történő továbbfoglalkoztatásra tervezett, megfelelő szolgálati beosztásba helyezéséig, de legfeljebb 1 évig,
+f) az állomány azon tagja, akivel szemben az a)–e), j) vagy m) pont szerinti ok megszűnt, vagy megszüntetésre került, feltéve, hogy szolgálati viszonyban történő továbbfoglalkoztatásra tervezett, megfelelő szolgálati beosztásba helyezéséig, de legfeljebb 1 évig,
 
 g) az állomány azon tagja, aki a szolgálati beosztásának ellátására egészségi vagy pszichikai állapota miatt képtelen, szolgálati viszonyban történő továbbfoglalkoztatásra tervezett, megfelelő szolgálati beosztásba helyezéséig, de legfeljebb 1 évig,
 
@@ -22,11 +22,11 @@ i) az állomány azon tagja, aki a teljesítményértékelése alapján a szolg�
 
 j) az állomány azon tagja, aki 1 évet meghaladóan önhibáján kívüli okból szolgálati feladatait képtelen ellátni, de legfeljebb az ok megszűnéséig,
 
-k) az állomány azon tagja, akinek a szolgálati beosztása a felmentési védelem időtartama alatt megszűnt, megfelelő szolgálati beosztásba helyezéséig, de legfeljebb a felmentési védelem idejére,
+k) az állomány felmentési védelem alá tartozó tagja, aki megfelelő szolgálati beosztásba nem helyezhető, a felmentési védelem idejére,
 
 l) a hivatásos állomány azon tagja, akinek a honvédtiszti alapképzés vagy a katonai szakképzés eredményes befejezésekor megfelelő szolgálati beosztás nem biztosítható, de legfeljebb 1 évig,
 
-m) az állomány azon tagja, aki 1 évet meghaladóan külföldi képzés keretében, vagy hazai oktatási intézmény nappali képzésén tanulmányokat folytat, a képző intézmény által előírt képzési idő tartamára, de legfeljebb a tanulmányai befejezéséig, amennyiben a tanulmány befejezésekor részére szolgálati beosztás nem biztosítható, megfelelő szolgálati beosztásba helyezéséig, de legfeljebb egy évig,
+m) az állomány azon tagja, aki 1 évet meghaladóan külföldi képzés keretében, vagy hazai oktatási intézmény nappali képzésén tanulmányokat folytat, a képző intézmény által előírt képzési idő tartamára, de legfeljebb a tanulmányai befejezéséig,
 
 n) a tábornok, aki a szolgálati viszonya megszűnésére, megszüntetésére vonatkozó előterjesztési javaslattal szemben bírósághoz fordult, a kereset jogerős elbírálásáig,
 
@@ -36,9 +36,9 @@ p) az állomány azon tagja, akinek a szolgálati beosztása létszámcsökkent�
 
 q) az állomány azon tagja, aki az egészségügyi felsőfokú szakirányú szakképzési rendszerben szakorvos-jelöltként vesz részt, az előírt képzési idő tartamára,
 
-r) a hivatásos tiszti állomány legalább százados és a hivatásos altiszti állomány legalább főtörzsőrmesteri rendfokozattal rendelkező tagja, akinek szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, vagy maximális várakozási ideje letelt és annak meghosszabbítására a 86. § (3) bekezdése szerint nem került sor, a kormányzati szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
+r) a hivatásos tiszti állomány legalább százados és a hivatásos altiszti állomány legalább főtörzsőrmesteri rendfokozattal rendelkező tagja, akinek szolgálati beosztása létszámcsökkentés vagy átszervezés következtében megszűnt, vagy maximális várakozási ideje letelt és annak meghosszabbítására a 86. § (3) bekezdése szerint nem került sor, vagy akivel szemben az e) pont szerinti ok megszűnt és továbbfoglalkoztatására nincs lehetőség, a kormányzati szolgálati, az állami szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
 
-s) a hivatásos állomány legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkező tagja, aki egészségi, vagy pszichikai okból katonai szolgálatra alkalmatlan, a kormányzati szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) bekezdésében meghatározott időtartamra,
+s) a hivatásos állomány legalább 25 év tényleges szolgálati viszonyban töltött idővel rendelkező tagja, aki egészségi vagy pszichikai okból katonai szolgálatra alkalmatlan, a kormányzati szolgálati, az állami szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb a 47. § (1) vagy (1a) bekezdésében meghatározott időtartamra,
 
 t) a hivatásos állomány azon tagja, aki legalább 30 év tényleges szolgálati viszonyban töltött idővel rendelkezik, a szolgálat felső korhatárának elérése előtt 5 évvel, de legfeljebb a szolgálat felső korhatáráig (a továbbiakban: nyugdíj előtti rendelkezési állomány),
 

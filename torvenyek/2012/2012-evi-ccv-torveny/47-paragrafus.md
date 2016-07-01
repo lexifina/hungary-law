@@ -16,19 +16,21 @@ g) 16 év után 11 hónapig,
 
 h) 20 év után 14 hónapig,
 
-i) 25 év után 15 hónapig,
+i) 25 év után 16 hónapig,
 
-j) 30 év után 16 hónapig
+j) 30 év után 18 hónapig
 
 tart.
 
+(1a) A hivatásos állomány 46. § (1) bekezdés s) pontja alapján rendelkezési állományba helyezett tagjának kérelmére a rendelkezési állomány (1) bekezdés szerinti időtartama a kormányzati szolgálati, az állami szolgálati, a közszolgálati vagy a közalkalmazotti jogviszonyba történő áthelyezéséig, de legfeljebb további 1 évvel meghosszabbítható. A hivatásos állomány tagja a meghosszabbítás időtartama alatt havonta a rendelkezési állományba helyezését megelőző napon érvényes illetménye felére jogosult.
+
 (2) A hivatásos állomány tagjának szolgálati viszonya
 
-a) e törvény erejénél fogva megszűnik az (1) bekezdés szerinti időtartam utolsó napján vagy
+a) e törvény erejénél fogva megszűnik az (1) vagy (1a) bekezdés szerinti időtartam utolsó napján vagy
 
-b) az (1) bekezdés szerinti időtartam lejárta előtt megszűnik, ha ezt a hivatásos állomány tagja kéri, vagy ha a hivatásos állomány tagja az 59. § (2) bekezdés c) pontja szerint áthelyezésre kerül.
+b) az (1) vagy (1a) bekezdés szerinti időtartam lejárta előtt megszűnik, ha ezt a hivatásos állomány tagja kéri, vagy ha a hivatásos állomány tagja az 59. § (2) bekezdés c) pontja szerint áthelyezésre kerül.
 
-(3) Ha a hivatásos állomány tagja munkaviszony létesítése miatt kéri a szolgálati viszonya megszűnésének megállapítását, az (1) bekezdés szerinti időtartam hátralevő részére számított távolléti díjnak megfelelő összegre jogosult.
+(3) Ha a hivatásos állomány tagja munkaviszony létesítése miatt kéri a szolgálati viszonya megszűnésének megállapítását, az (1) bekezdés szerinti időtartam hátralevő részére számított távolléti díjnak megfelelő összegre, illetve a 47. § (1a) bekezdése szerinti esetben az ott meghatározott összegre jogosult.
 
 (4) A hivatásos állomány tagja, a Honvédség és a kormányzati személyügyi igazgatási feladatokat ellátó szerv a rendelkezési állomány időtartama alatt az 59. § (2) bekezdés c) pontja szerinti áthelyezés elősegítése érdekében kölcsönösen együttműködve kötelesek eljárni.
 

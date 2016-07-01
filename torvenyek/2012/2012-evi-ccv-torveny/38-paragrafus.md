@@ -12,7 +12,7 @@ próbaidőt kell kikötni.
 
 a) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos szolgálati jogviszonyból történő áthelyezéssel jön létre, próbaidőt nem kell kikötni,
 
-b) kormányzati szolgálati jogviszonyból, közszolgálati, közalkalmazotti vagy igazságügyi alkalmazotti jogviszonyból történő áthelyezéssel jön létre, legfeljebb hat hónapig terjedő próbaidő köthető ki.
+b) kormányzati szolgálati jogviszonyból, állami szolgálati jogviszonyból, közszolgálati, közalkalmazotti jogviszonyból vagy igazságügyi alkalmazotti szolgálati jogviszonyból történő áthelyezéssel jön létre, legfeljebb hat hónapig terjedő próbaidő köthető ki.
 
 (3) A próbaidő nem hosszabbítható meg.
 

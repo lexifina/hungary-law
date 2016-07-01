@@ -18,4 +18,4 @@ c) a legénységi állomány tagja állománycsoport váltása
 
 esetén, az a), b) vagy c) pont szerinti áthelyezés, kinevezés napjától.
 
-(6) Az állomány 85/A. § (8) bekezdése szerinti tagja az áthelyezés napjától a (3) bekezdés szerint jogosult honvédelmi szolgálati díjra, ha az áthelyezést követően betöltött beosztáshoz rendszeresített rendfokozathoz tartozó 85/A. § szerinti fokozati vizsgával rendelkezik. Az áthelyezést követően betöltött beosztáshoz rendszeresített rendfokozathoz tartozó fokozati vizsga után járó honvédelmi szolgálati díjra az áthelyezés napjától a fokozati vizsga letétele hiányában is jogosult az állomány áthelyezett tagja, azzal, hogy az áthelyezést követően betöltött beosztáshoz rendszeresített rendfokozathoz tartozó fokozati vizsgakötelezettségének a 85/A. § (8) bekezdés b) pontja szerinti határidőn belül eleget kell tennie.
+(6)

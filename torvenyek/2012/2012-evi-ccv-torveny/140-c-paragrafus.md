@@ -1,1 +1,1 @@
-140/C. § Ha belföldi kiküldetés esetén az utazással töltött idő, vagy annak egy része a szolgálatteljesítési idő szolgálati rend szerinti beosztásán kívülre esik, az utazási idő ezen hányadára az állomány tagja részére miniszteri rendeletben díjazás állapítható meg.
+140/C. § Ha belföldi szolgálati kiküldetés esetén az utazással töltött idő, vagy annak egy része a szolgálatteljesítési idő szolgálati rend szerinti beosztásán kívülre esik, az utazási idő ezen hányadára az állomány tagja részére miniszteri rendeletben díjazás állapítható meg.

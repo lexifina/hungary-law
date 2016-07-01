@@ -1,6 +1,6 @@
 247/K. § (1) A 2015. július 1-jével megállapított illetmény távolléti díjba tartozó illetményelemeinek együttes összege nem lehet kevesebb az állomány tagjának a 2015. június 30-i szabályok szerint a 2015. június 30-án érvényes – beosztási illetmény eltérítés nélkül számított – illetményéből képzett távolléti díjnál. A különbözet összegét illetményfejlesztési kiegészítő illetményként kell részére megállapítani.
 
-(2) Az (1) bekezdés szerint megállapított illetményfejlesztési kiegészítő illetmény összegét csökkenteni kell a későbbi, távolléti díjba tartozó illetményelemek összegének későbbi növekményével.
+(2) Az (1) bekezdés szerint megállapított illetményfejlesztési kiegészítő illetmény összegét csökkenteni kell a távolléti díjba tartozó illetményelemek összegének későbbi növekményével.
 
 (3) A 2015. június 30-ig teljesített, a 2015. június 30-i szabályok szerint eseti illetménypótlékra jogosító tevékenységek utáni eseti illetménypótlék-megállapítást a 2015. június 30-i szabályok szerint kell végrehajtani.
 

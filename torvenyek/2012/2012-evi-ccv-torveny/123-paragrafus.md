@@ -22,7 +22,7 @@ f) az alapilletményt az állomány speciális beosztást betöltő tagja eseté
 
 kell megállapítani.
 
-(5) Az (1)–(4) bekezdéstől eltérően az állomány 46. § (1) bekezdés f)–i), k)–s) pontja alapján rendelkezési állományba tartozó tagjának alapilletményét
+(5) Az (1)–(4) bekezdéstől eltérően az állomány 46. § (1) bekezdés f)–s) pontja, valamint – ha az állomány tagjának illetményére a más szerv foglalkoztatottjaira vonatkozó szabályok irányadóak – b) pontja alapján rendelkezési állományba tartozó tagjának alapilletményét
 
 a) a 46. § (1) bekezdés adott pontja alapján történő rendelkezési állományba helyezést megelőző napon érvényes
 
@@ -30,7 +30,7 @@ aa) e törvény szerinti illetmény-megállapításban szereplő alapilletmény 
 
 ab) ha az aa) alponttól eltérően e törvény alapján magasabb alapilletményben részesült, ez utóbbi alapján, vagy
 
-b) ha az a) pont aa) alpontja alapján nem állapítható meg a beosztás szintje, és nem részesült az a) pont ab) alpontja szerinti magasabb alapilletményben sem, akkor az I. besorolási osztály és a viselt rendfokozatnak megfelelő besorolási kategória alapján
+b) ha az a) pont aa) alpontja alapján nem állapítható meg a besorolás, vagy a rendelkezési állományba helyezést megelőzően betöltött beosztás a VII. besorolási osztályba tartozott, és nem részesült az a) pont ab) alpontja szerinti magasabb alapilletményben sem, akkor az I. besorolási osztály és a viselt rendfokozatnak megfelelő besorolási kategória alapján
 
 kell megállapítani.
 

@@ -18,4 +18,4 @@ g) örökbefogadás előtti kötelező gondozásba helyezés esetén az állomá
 
 (2) Az (1) bekezdés szerinti védelem alkalmazása szempontjából a felmentés közlésének időpontja az irányadó. Az (1) bekezdésben meghatározott körülményre az állomány tagja csak akkor hivatkozhat, ha erről a munkáltatói jogkört gyakorlót tájékoztatta.
 
-(3) Az (1) bekezdés d) pontja szerinti védelem illetmény nélküli szabadság igénybevétele nélkül azt a szülőt illeti meg, aki az illetmény nélküli szabadságot utoljára igénybe vette. A védelem az anyát illeti meg, ha az illetmény nélküli szabadságot mindkét szülő igénybe veszi.
+(3) Az (1) bekezdés d) pontja szerinti védelem illetmény nélküli szabadság igénybevétele nélkül azt a szülőt illeti meg, aki az illetmény nélküli szabadságot utoljára igénybe vette.

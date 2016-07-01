@@ -6,7 +6,7 @@ b) a honvéd altiszt-jelölttel,
 
 c) a legénységi állomány azon tagjával, aki a Honvédség által szervezett, kizárólag katonai munkakör betöltésére jogosító honvéd altiszt-képzést eredményesen befejezte, vagy
 
-d) a legalább 5 év szerződéses tiszti vagy altiszti szolgálati viszonnyal rendelkező személlyel, feltéve, hogy az állománycsoport-váltással nem jár,
+d) a miniszteri rendeletben meghatározottak szerint legalább öt év szerződéses tiszti vagy altiszti szolgálati viszonnyal rendelkező személlyel, feltéve, hogy az állománycsoport-váltással nem jár,
 
 e) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szerv hivatásos állományából áthelyezésre kerülő személlyel.
 
@@ -22,6 +22,6 @@ időtartamra vállalja a szolgálatot.
 
 (4) A (3) bekezdéstől eltérő rövidebb időtartamra is létesíthető szerződéses szolgálati viszony az állomány tartósan távollevő tagjának helyettesítése céljából. A szolgálati viszony időtartamát naptárilag vagy más alkalmas módon, különösen meghatározott szolgálati feladat elvégzéséhez, vagy esemény bekövetkeztéhez kötődően kell meghatározni.
 
-(5) Ha az állomány tagjának szerződéses szolgálati viszonya utoljára az 59. § (1) bekezdés d) pontja szerint szűnt meg, csak öt év időtartam lejártát követően vehető vissza hivatásos vagy szerződéses állományba.
+(5) Ha a szerződéses állomány tagjának szolgálati viszonya utoljára az 59. § (1) bekezdés d) pontja szerint szűnt meg, a szolgálati viszony 5 éven belüli ismételt létesítését miniszteri rendelet szolgálati érdekből kizárhatja vagy a szerződéses szolgálati viszony korábbi megszűnése vonatkozásában kifizetett leszerelési segély, visszailleszkedési támogatás vagy végkielégítés miniszteri rendeletben meghatározottak szerinti, teljes vagy részleges visszafizetéséhez kötheti.
 
-(6) Nem kell az (5) bekezdést alkalmazni a szolgálati viszony létesítésekor abban az esetben, ha a szerződéses szolgálati viszony korábbi megszűnése vonatkozásában a kifizetett leszerelési segély, visszailleszkedési támogatás vagy végkielégítés a szolgálati viszony létesítéséig teljes összegben visszafizetésre került.
+(6)

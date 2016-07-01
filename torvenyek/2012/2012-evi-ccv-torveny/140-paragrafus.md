@@ -32,4 +32,6 @@ l) a sport- és a kulturális szolgáltatások.
 
 (4) Az állomány tagja – kiemelkedő munkateljesítménye alapján – üdülési támogatásban részesíthető. Az üdülési támogatás összege magában foglalja az állomány tagjával közös háztartásban élő házastársa, élettársa, valamint eltartott gyermeke üdülésének támogatását is.
 
-(5) A közszolgálati tisztviselőkről szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és a végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal az állomány tagja is részt vehet, és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.
+(5) A közszolgálati tisztviselőkről szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és a végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal az állomány tagja is részt vehet, és a kormánytisztviselőkre irányadó rendelkezések szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.
+
+(6) A munkáltatói jogkört gyakorló az állomány tagja számára – részben vagy egészben európai uniós forrásból vagy nemzetközi megállapodás alapján egyéb programból származó támogatásból megvalósuló feladatok ellátása érdekében – célfeladatot állapíthat meg, amely alapján az állomány tagja miniszteri rendeletben meghatározottak szerint céljuttatásban részesíthető.

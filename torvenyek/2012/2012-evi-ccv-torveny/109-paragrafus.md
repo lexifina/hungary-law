@@ -22,7 +22,7 @@ h) 30 évnél hosszabb szolgálati viszonyban töltött idő után 9 munkanap.
 
 (3) Ha az állomány tagja felsőfokú iskolai végzettségű, a pótszabadság (2) bekezdés szerinti mértéke 1-1 nappal emelkedik.
 
-(4) Az állomány tagja a folyamatos és átlagon felüli fizikai, pszichikai igénybevételéből származó egészségkárosodás megelőzése, és a fizikai állóképességének megőrzése céljából miniszteri rendeletben meghatározottak szerint külön pótszabadságra jogosult, amely az egészségkárosító veszélynek kitett, miniszteri rendeletben meghatározott beosztásban évente legfeljebb 10 munkanap, repülőgép- és helikoptervezető, fedélzeti szolgálattevő és ejtőernyős, valamint közvetlen életveszélynek kitett tűzszerész, búvár beosztásban évente legfeljebb 14 munkanap.
+(4) Az állomány tagja a folyamatos és átlagon felüli fizikai, pszichikai igénybevételéből származó egészségkárosodás megelőzése, és a fizikai állóképességének megőrzése céljából miniszteri rendeletben meghatározottak szerint külön pótszabadságra jogosult, amely az egészségkárosító kockázatnak kitett, miniszteri rendeletben meghatározott beosztásban évente legfeljebb 10 munkanap, repülőgép- és helikoptervezető, fedélzeti szolgálattevő és ejtőernyős, valamint közvetlen életveszélynek kitett tűzszerész, búvár beosztásban évente legfeljebb 14 munkanap.
 
 (5) Az állomány tagjának a 16 évesnél fiatalabb
 

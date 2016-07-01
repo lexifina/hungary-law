@@ -10,7 +10,7 @@ b) az előléptetésről vagy az első tábornoki rendfokozatba kinevezésről a
 
 c) ha az előléptetésre vagy az első tábornoki rendfokozatba kinevezésre nem kerül sor, az állomány tagját viselt rendfokozatának megfelelő szolgálati beosztásban kell továbbfoglalkoztatni, vagy rendelkezési állományba kell helyezni.
 
-(4) Az állomány speciális beosztást betöltő tagja – az általa betöltött beosztásban elérhető legmagasabb rendfokozat eléréséig – a meghatározott várakozási idő leteltekor, vagy azt követően akkor léptethető elő a következő rendfokozatba, ha rendelkezik a 83. § (2) bekezdés c), d) és f) pontja szerinti feltételekkel.
+(4) Az állomány speciális beosztást betöltő tagját – az általa betöltött beosztásban elérhető legmagasabb rendfokozat eléréséig – a meghatározott várakozási idő leteltekor, vagy azt követően elő kell léptetni a következő rendfokozatba, ha rendelkezik a 83. § (2) bekezdés c), d) és f) pontja szerinti feltételekkel.
 
 (5) Nem nevezhető ki, nem léptethető elő a magasabb rendfokozatba az állomány tagja, ha
 

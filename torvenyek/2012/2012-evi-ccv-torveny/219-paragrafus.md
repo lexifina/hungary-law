@@ -2,7 +2,7 @@
 
 219. § (1) Az önkéntes tartalékos katona a tényleges szolgálatteljesítése időtartamára
 
-a) a szolgálati helye szerinti állománytáblában vagy munkaköri jegyzékben rendszeresített szolgálati beosztásához tartozó besorolási osztálynak és besorolási kategóriának megfelelő alapilletményre,
+a) illetményként a szolgálati helye szerinti állománytáblában vagy munkaköri jegyzékben rendszeresített szolgálati beosztásához tartozó besorolási osztálynak és besorolási kategóriának megfelelő alapilletményre,
 
 b) miniszteri rendeletben meghatározottak szerint laktanyai elhelyezésre, térítésmentes élelmezési és ruházati ellátásra, továbbá egyes szociális támogatásokra és egyes utazási költségeinek a megtérítésére
 

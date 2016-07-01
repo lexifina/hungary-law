@@ -2,7 +2,7 @@
 
 (2) Az állomány más szervhez vezényelt tagjának a más szervnél megállapított illetménye vagy havi alapbérének és rendszeres bérpótlékainak együttes összege nem lehet kevesebb, mint a vezénylését megelőző napon érvényes illetménye alapján a távolléti díjba tartozó illetményelemek figyelembevételével számított összeg.
 
-(3) Az állomány más szervhez vezényelt tagja a 119. és a 120. § szerinti egészségügyi szabadsága idejére e törvény szerint megállapított mértékű illetményre, és esedékességekor a 132. § szerinti jubileumi jutalomra jogosult.
+(3) Az állomány más szervhez vezényelt tagja a 119. és a 120. § szerinti egészségügyi szabadsága idejére e törvény szerint megállapított mértékű illetményre, és esedékességekor az állomány más szervhez vezényelt tagjára irányadó, a vezénylés helye szerinti jogállási törvény alapján, de legalább a 132. § szerinti jubileumi jutalomra jogosult.
 
 (4) Az állomány más szervhez vezényelt tagjának kitüntetésére, fegyelmi felelősségének és méltatlanságának megállapítására, lakhatás-támogatására, egészségügyi ellátására és évi utánpótlási ruházati illetményére a Honvédségnél szolgálati beosztást betöltőkre vonatkozó szabályokat kell alkalmazni.
 

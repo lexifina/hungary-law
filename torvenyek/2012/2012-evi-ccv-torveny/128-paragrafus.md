@@ -12,7 +12,7 @@ d) berepült repülőgépenként, beugrott ejtőernyőnként 20–35%
 
 szerinti mértékben kerül megállapításra.
 
-(3) A fokozott igénybevételi illetménypótlék – a miniszter által rendeletben meghatározott jogcímenként – a honvédelmi illetményalap, vagy – a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti szolgálati feladat ellátása esetén – a távolléti díj százalékában meghatározva
+(3) A fokozott igénybevételi illetménypótlék – a miniszter által rendeletben meghatározott jogcímenként – a honvédelmi illetményalap százalékában meghatározva
 
 a) havonta 20–270%,
 
@@ -21,6 +21,8 @@ b) naponként 5–10% vagy
 c) óránként 0,05–5%
 
 szerinti mértékben kerül megállapításra.
+
+(3a) A fokozott igénybevételi illetménypótlék mértéke a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti szolgálati feladat ellátása esetén a távolléti díj százalékában meghatározva naponként 1–10% lehet.
 
 (4) A (3) bekezdésben foglaltakon túl a 46. § (1) bekezdés a) pontja szerinti rendelkezési állomány tagja havonta az alapilletmény 30%-ának megfelelő összegű fokozott igénybevételi illetménypótlékra jogosult.
 
