@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-205-20-
 | 2015-08-01 | 2015-205-20-22.2 | 2010: CXXX. törvény |
 | 2015-09-01 | 2015-205-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-09-02 | 2015-205-20-22.4 | 2010: CXXX. törvény |
+| 2016-07-01 | 2015-205-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
