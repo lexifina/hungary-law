@@ -2,4 +2,6 @@
 
 (2) A felsőoktatási intézmény vagyonát, valamint a rendelkezésére bocsátott ingó – ideértve szellemi terméket és más vagyoni értékű jogot is – és ingatlan vagyont az alapító okiratban meghatározott feladatainak ellátásához használhatja.
 
-(3) Az állami felsőoktatási intézmény a rendelkezésére bocsátott vagyonnal a 86. §. (3) bekezdésben, valamint az államháztartásról szóló törvényben, és az e törvényben meghatározottak szerint rendelkezhet.
+(3) Az állami felsőoktatási intézmény a rendelkezésére bocsátott vagyonnal – az e törvényben meghatározott eltérésekkel – a központi költségvetési szervekre vonatkozó szabályok szerint rendelkezhet.
+
+(4) Az állami felsőoktatási intézmény a vagyonnal kapcsolatos könyvvezetési és beszámoló-készítési kötelezettségének az államháztartás számviteléről szóló jogszabály szerint köteles eleget tenni, azzal, hogy a vagyonra vonatkozó nyilvántartásban elkülönítve kell nyilvántartani a saját vagyonát, valamint a rendelkezésre bocsátott állami vagyont.

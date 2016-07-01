@@ -10,4 +10,4 @@ a) megbízatási ideje – valamennyi a Hallgatói Önkormányzatok Országos Ko
 
 b) nem tölthet be olyan intézményi társaságban vezető tisztségviselői feladatokat, nem lehet tagja a felügyelőbizottságnak, nem láthat el könyvvizsgálói feladatot, amelyet felsőoktatási intézmény hozott létre, vagy amelyben részesedéssel rendelkezik.
 
-(3) A Hallgatói Önkormányzatok Országos Konferenciáját az oktatási hivatal veszi nyilvántartásba. A Hallgatói Önkormányzatok Országos Konferenciája felett az ügyészség gyakorol törvényességi ellenőrzést. A Hallgatói Önkormányzatok Országos Konferenciája beszámolási és könyvvezetési kötelezettségére az egyéb szervezetekre vonatkozó szabályokat kell alkalmazni.
+(3) A Hallgatói Önkormányzatok Országos Konferenciáját az oktatási hivatal veszi nyilvántartásba. A Hallgatói Önkormányzatok Országos Konferenciája felett az ügyészség gyakorol törvényességi ellenőrzést. A Hallgatói Önkormányzatok Országos Konferenciája beszámolási és könyvvezetési kötelezettségére a számvitelről szóló törvényben az egyéb szervezetekre meghatározott szabályokat kell alkalmazni.

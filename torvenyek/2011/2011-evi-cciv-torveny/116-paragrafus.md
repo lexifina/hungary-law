@@ -18,6 +18,6 @@
 
 (10) E törvénynek – az egyes, a felsőoktatás szabályozására vonatkozó törvények módosításáról szóló 2015. évi CXXXI. törvénnyel megállapított – 60. § (2a) bekezdését és 62. § (2a) bekezdését a 2015. szeptember 1-jét követő választás, tisztségviselői megbízás tekintetében kell alkalmazni.
 
-(11) E törvénynek – az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2015. évi CCVI. törvénnyel megállapított – 40. § (4) bekezdését a folyamatban levő 2016. évi általános felsőoktatási felvételi eljárásra is alkalmazni kell.
+(11)
 
 (12) E törvénynek – az oktatás szabályozására vonatkozó egyes törvények módosításáról szóló 2015. évi CCVI. törvénnyel megállapított – 24. § (6) bekezdése alapján a 2016. január 1-jét követő időszakra vonatkozó minősítésre tekintettel lehet vezetői illetménypótlékot megállapítani.

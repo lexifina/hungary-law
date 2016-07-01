@@ -36,7 +36,7 @@ g) gondoskodik a költségvetési szervként működő felsőoktatási intézmé
 
 h) hozzájárulása szükséges a felsőoktatási intézmény
 
-ha) hatáskörében történő rendszeres pénzjuttatással járó cím, elismerés alapításához,
+ha) hatáskörében történő rendszeres pénzjuttatással járó cím, elismerés alapításához; elismerés, cím alapján rendszeres pénzjuttatás folyósításához,
 
 hb) éves képzési tevékenységének – különösen az indított szakok, a képzés megszervezésének módozatai, a tervezett szakos hallgatói kapacitás – kialakításához;
 

@@ -4,7 +4,7 @@ a) a hallgatói normatíva,
 
 b) a doktori képzésben részt vevők egy főre megállapított támogatási normatívája,
 
-c) a köztársasági ösztöndíjban részesülők normatívája,
+c) a nemzeti felsőoktatási ösztöndíjban részesülők normatívája,
 
 d) a kollégiumi-diákotthoni elhelyezés normatívája,
 

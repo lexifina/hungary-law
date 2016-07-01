@@ -6,7 +6,7 @@ a) alapképzésben egy középfokú, „C” típusú általános nyelvi vagy k�
 
 b) mesterképzésben a képzési és kimeneti követelményekben meghatározott
 
-államilag elismert vagy azzal egyenértékű nyelvvizsgát tett (a továbbiakban: nyelvvizsga). A tantervben a felsőoktatási intézmény meghatározhatja, hogy milyen nyelvekből tett nyelvvizsgát fogad el, azzal a megkötéssel, hogy a középiskolai érettségi bizonyítvány által tanúsított, illetve az érettségi vizsgaként elfogadott nyelvvizsgát általános nyelvi – komplex – nyelvvizsgaként köteles elfogadni.
+államilag elismert vagy azzal egyenértékű nyelvvizsgát tett (a továbbiakban: nyelvvizsga).
 
 (2) Az (1) bekezdésben foglaltakat – a záróvizsga kivételével – nem kell alkalmazni, ha a képzés nyelve nem a magyar nyelv.
 

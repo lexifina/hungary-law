@@ -22,4 +22,4 @@ e) kizárás a felsőoktatási intézményből.
 
 (4) Nem lehet fegyelmi eljárást indítani, ha a fegyelmi vétségről való tudomásszerzés óta egy hónap, illetőleg a vétség elkövetése óta öt hónap már eltelt. E rendelkezések alkalmazásában tudomásszerzés az, amikor az eljárásra okot adó körülmény a fegyelmi eljárás megindítására jogosult tudomására jutott.
 
-(5) A fegyelmi eljárás rendjét a Kormány szabályozza, azzal, hogy a fegyelmi bizottság tagjainak legalább egyharmadát a hallgatói önkormányzat delegálja, valamint az eljárás során a hallgatót meg kell hallgatni, de a fegyelmi tárgyalást akkor is meg lehet tartani, ha a hallgató szabályszerű értesítés ellenére sem jelent meg.
+(5) A fegyelmi eljárás rendjét a felsőoktatási intézmény szervezeti és működési szabályzata határozza meg, azzal, hogy a fegyelmi bizottság tagjainak legalább egyharmadát a hallgatói önkormányzat delegálja, valamint az eljárás során a hallgatót meg kell hallgatni, de a fegyelmi tárgyalást akkor is meg lehet tartani, ha a hallgató szabályszerű értesítés ellenére sem jelent meg.

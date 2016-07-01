@@ -4,7 +4,7 @@ a) az egy főre megállapított hallgatói normatíva 119 000 Ft/év,
 
 b) a doktori képzésben részt vevők egy főre meghatározott támogatási normatívája 1 200 000 Ft/év,
 
-c) a köztársasági ösztöndíjban részesülők normatívája 340 000 Ft/év,
+c) a nemzeti felsőoktatási ösztöndíjban részesülők normatívája 400 000 Ft/év,
 
 d) a kollégiumi-diákotthoni elhelyezés normatívája 116 500 Ft/év,
 

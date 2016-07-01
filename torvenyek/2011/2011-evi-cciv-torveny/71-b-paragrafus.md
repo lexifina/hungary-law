@@ -6,7 +6,7 @@ b) a felsőoktatási intézmény működési engedélyének felülvizsgálatára
 
 c) a felsőoktatási intézmény felsőoktatási szakképzés, alap- és mesterképzés indítására,
 
-d) a doktori iskola létesítésére, megszűnésére,
+d) a doktori iskola létesítésére,
 
 e) a külföldi felsőoktatási intézmény magyarországi működésének engedélyezésére
 

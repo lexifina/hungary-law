@@ -10,7 +10,7 @@ a) az érintett felsőoktatási intézmények abban az államban, amelyben a sz�
 
 b) a kiállított oklevél az érintett országok belső joga szerint felsőoktatásban kiállított oklevélnek minősül,
 
-c) a magyar és a külföldi felsőoktatási intézmény rendelkezik jogosultsággal arra a képzésre, amelynek képzési és kimeneti követelményei megegyeznek a megállapodás tárgyát képező képzés képzési és kimeneti követelményeivel,
+c) a magyar és a külföldi felsőoktatási intézmény rendelkezik képzésindítási jogosultsággal olyan képzési vagy tudományterületen, amely megfeleltethető a megállapodás tárgyát képező közös képzés képzési vagy tudományterületével,
 
 d)
 

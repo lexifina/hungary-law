@@ -4,7 +4,7 @@ a) teljesítmény alapú ösztöndíj kifizetésére, mely lehet
 
 aa) tanulmányi ösztöndíj,
 
-ab) köztársasági ösztöndíj,
+ab) nemzeti felsőoktatási ösztöndíj,
 
 ac) intézményi szakmai, tudományos és közéleti ösztöndíj;
 

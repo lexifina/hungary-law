@@ -32,6 +32,6 @@ c) a döntést megváltoztatja,
 
 d) a döntést megsemmisíti, és a döntéshozót új eljárás lefolytatására utasítja.
 
-(6) A tényállás tisztázására, a határidők számítására, az igazolásra, a határozat alakjára, tartalmára és közlésére, a döntés kérelemre vagy hivatalból történő kijavítására, kicserélésére, kiegészítésére, módosítására vagy visszavonására a Ket. rendelkezéseit kell megfelelően alkalmazni.
+(6) A jogorvoslati kérelem elbírálása során a tényállás tisztázására, a határidők számítására, az igazolásra, a határozat alakjára, tartalmára és közlésére, a döntés kérelemre vagy hivatalból történő kijavítására, kicserélésére, kiegészítésére, módosítására vagy visszavonására a Ket. rendelkezéseit kell megfelelően alkalmazni.
 
 (7) A másodfokú döntés a közléssel jogerős és végrehajtható, kivéve, ha a hallgató a bírósági felülvizsgálatát kérte.

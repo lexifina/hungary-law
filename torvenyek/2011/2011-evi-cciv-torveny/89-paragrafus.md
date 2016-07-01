@@ -1,27 +1,27 @@
 ## 55. A felújítás, beruházás sajátos szabályai
 
-89. § (1) Az állami felsőoktatási intézmény intézményfejlesztési tervének keretei között
+89. § (1) Az állami felsőoktatási intézmény intézményfejlesztési tervének keretei között látja el fejlesztési feladatait.
 
-a) látja el fejlesztési feladatait,
+(2) Az állami felsőoktatási intézmény a vagyonkezelésében lévő állami vagyon tulajdonjogát saját hatáskörben
 
-b)
+a) a Magyar Állam nevében eljárva
 
-(2) Az állami felsőoktatási intézmény a vagyonkezelésében lévő állami vagyon tulajdonjogát saját hatáskörben, a magyar állam nevében eljárva átruházhatja, ami
+aa) az állami vagyon értékesítésére vonatkozó szabályok betartásával,
 
-a) az állami vagyon értékesítésére vonatkozó általános rendelkezések betartásával,
+ab) a vagyon valós piaci értékének megfelelő ellenérték fejében,
 
-b) a vagyon valós piaci értékének megfelelő ellenértéke fejében,
+ac) az állami vagyon felügyeletéért felelős miniszter előzetes hozzájárulásával,
 
-c) az állami vagyon felügyeletéért felelős miniszter előzetes hozzájárulásával,
+ad) a miniszter előzetes értesítése mellett,
 
-d) a miniszter előzetes értesítése mellett,
+ae) ingatlan esetén az ingatlan fekvése szerinti települési – fővárosban az ingatlan fekvése szerinti kerületi, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi – önkormányzat elővásárlási jogának biztosításával, vagy
 
-e) ingatlan esetén az ingatlan fekvése szerinti települési – fővárosban az ingatlan fekvése szerinti kerületi, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi – önkormányzat elővásárlási jogának biztosításával
+b) jogszabályban meghatározott esetben elektronikus árverési rendszer útján
 
-történhet.
+átruházhatja.
 
-(3) Az átruházásról szóló kérelmet a felsőoktatási intézmény részletesen indokolja. Az állami vagyon felügyeletéért felelős miniszter hozzájárulásáról az átruházási szándék írásbeli bejelentésétől számított hatvan napon belül dönt. A hozzájárulás száznyolcvan napig érvényes.
+(3) A (2) bekezdés szerinti vagyonátruházásról szóló kérelmet a felsőoktatási intézmény részletesen indokolja. Az állami vagyon felügyeletéért felelős miniszter a hozzájárulásáról a kérelem beérkezésétől számított hatvan napon belül dönt. A hozzájárulás az állami vagyon felügyeletéért felelős miniszter által meghatározott ideig, de legalább kilencven napig és legfeljebb egy évig érvényes.
 
-(4) Az állami vagyon felügyeletéért felelős miniszter döntéséhez – amennyiben az értékesíteni kívánt vagyon ingatlan – kikéri a Magyar Nemzeti Vagyonkezelő Zrt. (a továbbiakban: MNV Zrt.) tájékoztatását abban a tekintetben, hogy az ingatlan szükséges-e valamely állami szerv, költségvetési szerv elhelyezésére vonatkozó, az állami vagyon felügyeletéért felelős miniszter hozzájárulása iránti kérelem beérkezésekor a MNV Zrt.-hez már bejelentett igényének kielégítéséhez. A felsőoktatási intézmény az állami vagyon felügyeletéért felelős miniszter döntése szerint, a döntéstől számított hatvan napon belül az elhelyezési igény kielégítése érdekében az ingatlanra vonatkozó vagyonkezelési szerződését megszünteti, és az ingatlant átadja az MNV Zrt.-nek.
+(4) Állami ingatlan értékesítése esetén a (3) bekezdés szerinti eljárás során az állami vagyon felügyeletéért felelős miniszter tájékoztatást kér a Magyar Nemzeti Vagyonkezelő Zrt.-től (a továbbiakban: MNV Zrt.), hogy az ingatlanra szükség van-e valamely központi költségvetési szerv elhelyezéséhez. Ha az ingatlanra az elhelyezés biztosítása érdekében szükség van, a felsőoktatási intézmény az állami vagyon felügyeletéért felelős miniszter döntése szerint, az ingatlanra vonatkozó vagyonkezelési szerződését megszünteti, és az ingatlant átadja az MNV Zrt.-nek.
 
-(5) Az átruházási eljárás befejezését követő harminc napon belül az intézmény a nyilvántartásba vétel és elszámolás végett megküldi a szerződést, illetve az eljárás során keletkezett iratokat az állami vagyon felügyeletéért felelős miniszter és tájékoztatásul a miniszter részére. A (2) és (3) bekezdésében foglalt rendelkezések megsértésével kötött szerződés semmis.
+(5) Az átruházási eljárás befejezését követő harminc napon belül az intézmény a nyilvántartásba vétel és elszámolás végett megküldi a szerződést, illetve az eljárás során keletkezett iratokat az állami vagyon felügyeletéért felelős miniszter és tájékoztatásul a miniszter részére. A (2)–(3) bekezdésben foglalt rendelkezések megsértésével kötött szerződés semmis.

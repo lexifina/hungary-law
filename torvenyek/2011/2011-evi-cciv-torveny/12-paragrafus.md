@@ -50,7 +50,7 @@ hc) az oktatói, kutatói és vezetői pályázatok rangsorolásáról, címek, 
 
 hd) a doktori iskola létesítéséről, megszüntetéséről és a doktori képzés indításáról,
 
-he) köztársasági ösztöndíj adományozásának kezdeményezéséről,
+he) nemzeti felsőoktatási ösztöndíj adományozásának kezdeményezéséről,
 
 hf) képzés indításának, illetve megszüntetésének kezdeményezéséről.
 

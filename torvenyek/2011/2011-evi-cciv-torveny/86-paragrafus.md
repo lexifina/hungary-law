@@ -1,8 +1,8 @@
 ## XXV. Fejezet
 
-## AZ INTÉZMÉNY VAGYONGAZDÁLKODÁSA
+## AZ INTÉZMÉNY GAZDÁLKODÁSA
 
-## 54. Általános vagyongazdálkodási szabályok
+## 54. Általános gazdálkodási szabályok
 
 86. § (1) A felsőoktatási intézmény gazdasági tevékenysége körében minden olyan döntést meghozhat, intézkedést megtehet, amely hozzájárul az alapító okiratában meghatározott feladatainak végrehajtásához, feltéve, hogy ezzel nem veszélyezteti az alapfeladatainak végrehajtását, a közpénzek és a közvagyon hatékony felhasználását, így különösen: szerződést köthet, társulhat, gazdálkodó szervezetet alapíthat, a rendelkezésére bocsátott vagyont (a továbbiakban: felsőoktatási intézmény rendelkezésére bocsátott vagyon) használhatja és a vagyonkezelési szerződésében foglaltaknak megfelelően hasznosíthatja.
 

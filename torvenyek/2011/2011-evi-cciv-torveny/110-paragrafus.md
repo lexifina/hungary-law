@@ -78,7 +78,7 @@ g) a záróvizsgák szervezésének rendjét és értékelésének elveit,
 
 20. a felsőoktatási intézmény finanszírozásával, gazdálkodásával kapcsolatos kérdéseket, a magán intézmények gazdálkodásával kapcsolatos kérdéseket,
 
-21. felsőoktatási ösztöndíjak alapítását, odaítélésük feltételeit, rendjét, így különösen a köztársasági ösztöndíj, az esélyegyenlőségi ösztöndíj, valamint a Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíj adományozásának rendjét és feltételeit,
+21. felsőoktatási ösztöndíjak alapítását, odaítélésük feltételeit, rendjét, így különösen a nemzeti felsőoktatási ösztöndíj, az esélyegyenlőségi ösztöndíj, valamint a Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíj adományozásának rendjét és feltételeit,
 
 22. a pedagógus ösztöndíj igénybevételének feltételeit, a pedagógusképzésben az alap- és mesterképzés, valamint az osztatlan képzés szakjait, választható egyenrangú szakpárjait, továbbá a mesterképzés szakosodási rendszerének általános szabályait,
 

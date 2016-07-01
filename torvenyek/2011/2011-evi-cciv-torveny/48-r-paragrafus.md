@@ -2,6 +2,6 @@
 
 a) határidőre nem teljesíti, és
 
-b) a volt magyar állami (rész)ösztöndíjas hallgató részletfizetési vagy e törvényben meghatározott más kérelmet nem terjesztett elő, vagy az e kérelmek tárgyában hozott jogerős döntésben foglaltaknak határidőre nem tesz eleget.
+b) a volt magyar állami (rész)ösztöndíjas hallgató részletfizetési vagy e törvényben meghatározott más kérelme tárgyában hozott jogerős döntésben foglalt kötelezettségének határidőre nem tesz eleget.
 
 (2) Az állami adóhatóság a visszatérítési kötelezettség érvényesítésére folytatott végrehajtási eljárásában a végrehajtási jogot az ingatlan-nyilvántartásba a Magyar Állam javára jegyezteti be.

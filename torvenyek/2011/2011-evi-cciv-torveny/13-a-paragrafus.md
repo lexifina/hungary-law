@@ -27,3 +27,5 @@ rendelkezik.
 (4) A kancellár a felsőoktatási intézménnyel áll közalkalmazotti jogviszonyban, felette a munkáltatói jogokat a miniszter gyakorolja.
 
 (5) A kancellár a (2) bekezdés b), d) és e) pontjában meghatározott jogkörét esetenként vagy az ügyek meghatározott körében az intézmény magasabb vezető, vezető beosztású alkalmazottjára átruházhatja. A kancellár a (2) bekezdés e) pontjában meghatározott hatáskör átruházása során biztosítja a felsőoktatási intézmény magasabb vezetője, vezetője számára a vezetői feladatok ellátásához szükséges hatáskörök gyakorlását. Az átruházott hatáskör gyakorlója a hatáskört nem adhatja tovább.
+
+(6) A kancellár akadályoztatása, érintettsége, a kancellári tisztség átmeneti betöltetlensége esetén a kancellár helyetteseként a szervezeti és működési szabályzatban kijelölt vezető jogosult eljárni.
