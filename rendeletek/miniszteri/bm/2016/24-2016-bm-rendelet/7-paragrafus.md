@@ -1,0 +1,1 @@
+## 6. § Az elektronikus aláírással, bélyegzővel kapcsolatos szolgáltatást nyújtó szolgáltatónak, valamint az időbélyeg szolgáltatónak biztosítania kell a szolgáltatói nyilvános kulcsának sértetlenségét, hitelességét és elérhetőségét. Ennek érdekében a szolgáltatói nyilvános kulcsot interneten is elérhetővé kell tennie.

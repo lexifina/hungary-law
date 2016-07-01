@@ -1,0 +1,1 @@
+## 14. § Az elektronikus dokumentum tartalmát az archiválási szolgáltató, valamint alkalmazottja vagy a megbízásából eljáró személy csak a bizalmi szolgáltatási ügyfél írásbeli engedélyével ismerheti meg.

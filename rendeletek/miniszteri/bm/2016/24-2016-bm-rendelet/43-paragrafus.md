@@ -1,0 +1,11 @@
+43. § (1) Ha a minősített szolgáltató az elektronikus aláírás vagy bélyegző létrehozásához használt adat előállításáról és annak elektronikus aláírást vagy bélyegzőt létrehozó eszközben való elhelyezéséről maga gondoskodik, a (2)–(6) bekezdés szerinti követelményeket is köteles teljesíteni.
+
+(2) A minősített szolgáltató az elektronikus aláírás vagy bélyegző létrehozásához használt adat előállítását fizikailag védett környezetben köteles végezni, kizárólag bizalmi munkakört betöltő személyek részvételével.
+
+(3) A minősített szolgáltató az elektronikus aláírás vagy bélyegző létrehozásához használt adatot csak a tanúsítvány alany elektronikus aláírást vagy bélyegzőt létrehozó eszközében tárolhatja. Ha az elektronikus aláírás vagy bélyegző létrehozásához használt adatot az elektronikus aláírást vagy bélyegzőt létrehozó eszközön kívül hozzák létre, az elektronikus aláírás vagy bélyegző létrehozásához használt adat elektronikus aláírást vagy bélyegzőt létrehozó eszközön kívüli minden másolatát azonnal törölni kell, amint az elektronikus aláírás vagy bélyegző létrehozásához használt adat az elektronikus aláírást vagy bélyegzőt létrehozó eszközbe kerül. Az elektronikus aláírás vagy bélyegző létrehozásához használt adat másolatát a minősített szolgáltató olyan módon köteles törölni, hogy a törölt másolat további használata lehetetlenné váljon.
+
+(4) A minősített szolgáltató biztosítja, hogy az elektronikus aláírás vagy bélyegző létrehozásához használt adathoz mások ne férhessenek hozzá.
+
+(5) A minősített szolgáltató az elektronikus aláírást vagy bélyegzőt létrehozó eszköz használatához szükséges, a tanúsítvány alany hozzáférési jogosultságát ellenőrző adatot (így különösen PIN-kódot) csak abból a célból rögzítheti, hogy azt a tanúsítvány alany számára – másolat megőrzése nélkül – átadhassa.
+
+(6) A minősített szolgáltató az elektronikus aláírást vagy bélyegzőt létrehozó eszközt, valamint az aláíró hozzáférési jogosultságát ellenőrző adatot csak közvetlenül a tanúsítvány alany – bélyegző esetén a tanúsítvány alany által feljogosított természetes személy – számára adhatja át. A minősített szolgáltatónak azt is naplóznia kell, hogy az elektronikus aláírás vagy bélyegző létrehozásához használt adatot mikor adta át az arra jogosultnak.

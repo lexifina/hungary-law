@@ -1,0 +1,1 @@
+## 36. § A minősített szolgáltató biztosítja a visszavonási nyilvántartás, a kibocsátott tanúsítványokat tartalmazó nyilvántartás és a visszavonás-kezelés legalább naptári éves szinten számított 99,9%-os rendelkezésre állását. Egy eseti szolgáltatáskiesés időtartama nem haladhatja meg a három órát.
