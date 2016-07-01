@@ -16,6 +16,8 @@ e) a hivatásos katasztrófavédelmi szerv igényjogosult állományára,
 
 f) az Alkotmányvédelmi Hivatal (a továbbiakban: AH) és a Nemzetbiztonsági Szakszolgálat (a továbbiakban: NBSZ) igényjogosult állományára,
 
-g) a rendvédelmi oktatási intézmény nem hivatásos állományának ösztöndíjas hallgatóira, tanulóira, továbbá
+g)[^1] a rendvédelmi oktatási intézmény nem hivatásos állományának ösztöndíjas hallgatóira – a tisztjelölti állomány kivételével –, tanulóira, továbbá
 
 h) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 2. § 29. pontja szerinti szolgálati nyugdíjasokra.
+
+[^1]: Az 1. § (1) bekezdés g) pontja a 20/2016. (VI. 9.) BM rendelet 45. §-a szerint módosított szöveg.
