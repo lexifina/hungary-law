@@ -1,4 +1,4 @@
-## 2. § A Hjt. 92. § (5) bekezdésében foglaltak alkalmazása szempontjából a szolgálati időbe beszámító időszakokat össze kell számítani, ha a tényleges szolgálati viszony időtartamai között megszakítások vannak.
+## szerinti rendelkezési állományba került áthelyezésre.
 
 ## 3. Az illetménypótlékok általános szabályai
 

@@ -6,6 +6,9 @@ b) a 35. § (1) bekezdés a) pont ab) és ac) alpontja szerinti esetben 100%, é
 
 c) a 35. § (1) bekezdés b) pontja szerinti esetben 75%.
 
-(2) A 35. § (1) bekezdés c) pontja szerinti esetben a pótlék mértéke naponta a honvédelmi illetményalap 6,5%-a.
+(2)[^22]
 
-(3) A (2) bekezdés szerinti esetben a pótlék megállapításának alapja a különleges műveleti kiképzésen résztvevőkről, és az általuk különleges műveleti kiképzésen töltött napokról az állományilletékes parancsnok által írásban kijelölt személy által vezetett nyilvántartás.
+(3)[^23]
+
+[^22]: A 36. § (2) bekezdését a 9/2016. (VI. 29.) HM rendelet 21. §-a hatályon kívül helyezte.
+[^23]: A 36. § (3) bekezdését a 9/2016. (VI. 29.) HM rendelet 21. §-a hatályon kívül helyezte.

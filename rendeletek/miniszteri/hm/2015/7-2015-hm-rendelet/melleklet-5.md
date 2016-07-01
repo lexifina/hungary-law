@@ -14,7 +14,7 @@
 
 | 6 | A légijármű üzemeltetésével nem kapcsolatos, egyéb a fedélzeten elhelyezett berendezések kezelését ellátó beosztás betöltésének idejére | 25 |
 
-5. melléklet a 7/2015. (VI. 22.) HM rendelethez[^23]
+5. melléklet a 7/2015. (VI. 22.) HM rendelethez[^61]
 
 A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 36. § (1) bekezdés h) pontja, valamint (2) bekezdés a) pontja szerinti feladatokban közreműködők fokozott igénybevételi pótlékának napi mértéke a távolléti díj százalékában meghatározva
 
@@ -38,4 +38,4 @@ A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendb
 
 | 9 | – | Az 1. § (1) bekezdés alá tartozók | 3,13 |
 
-[^23]: Az 5. mellékletet a 18/2015. (XII. 22.) HM rendelet 29. §-a iktatta be.
+[^61]: Az 5. mellékletet a 18/2015. (XII. 22.) HM rendelet 29. §-a iktatta be.

@@ -16,6 +16,15 @@ c) egy személy részére ugyanazon kifejtett teljesítményért, tevékenység�
 
 d) a teljesítményjuttatás megállapítására jogosult vezető önmagát teljesítményjuttatásban nem részesítheti.
 
-(3)–(4)[^14]
+(3)[^44] A (2) bekezdés b) pontjának alkalmazása során a távolléti díj helyett
 
-[^14]: A 81. § (3)–(4) bekezdését a 13/2015. (XII. 3.) HM rendelet 5. § b) pontja hatályon kívül helyezte.
+a) honvéd tisztjelölt és honvéd altiszt-jelölt esetében az alapösztöndíj és alapösztöndíj-kiegészítés együttes, és
+
+b) a szolgálati járandóságban részesülő önkéntes tartalékos katona esetében a szolgálati helye szerinti állománytáblában vagy munkaköri jegyzékben rendszeresített szolgálati beosztásához tartozó besorolási osztálynak és besorolási kategóriának megfelelően számított alapilletmény
+
+## összegét kell figyelembe venni.
+
+(4)[^45]
+
+[^44]: A 81. § (3) bekezdését a 13/2015. (XII. 3.) HM rendelet 5. § b) pontja hatályon kívül helyezte, újonnan a 9/2016. (VI. 29.) HM rendelet 18. §-a iktatta be.
+[^45]: A 81. § (4) bekezdését a 13/2015. (XII. 3.) HM rendelet 5. § b) pontja hatályon kívül helyezte.
