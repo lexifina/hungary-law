@@ -14,7 +14,7 @@ cb) az ország területére történő behozatalához, az ország területéről
 
 d) a gáz- és riasztófegyver viseléséhez,
 
-e) a muzeális fegyver gyártásához, javításához, forgalmazásához, valamint sportlövészeti célú használatához, valamint
+e) a muzeális fegyver gyártásához, javításához, forgalmazásához, sportlövészeti célú használatához, illetve az elöltöltő fegyver vadászati célú használatához, valamint
 
 f) a polgári rendeltetésű lőtér, a lőfegyver- és lőszertárolóhely üzemeltetéséhez, valamint lövészetvezetői tevékenység végzéséhez.
 

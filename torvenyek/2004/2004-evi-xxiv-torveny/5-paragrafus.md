@@ -1,6 +1,6 @@
 ## AZ ADATKEZELÉS SZABÁLYAI
 
-5. § (1) A lőfegyverek központi nyilvántartását a Rendőrségről szóló 1994. évi XXXIV. törvényben meghatározottak szerint a rendőrség központi szerve kezeli.
+5. § (1) A lőfegyverek központi nyilvántartását a Rendőrségről szóló 1994. évi XXXIV. törvényben meghatározottak szerint az általános rendőrségi feladatok ellátására létrehozott szerv központi szerve kezeli.
 
 (2) Az erre a feladatra kormányrendeletben kijelölt rendőrségi szerv központi nyilvántartást vezet
 

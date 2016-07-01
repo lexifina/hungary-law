@@ -34,7 +34,7 @@
 
 17. lőfegyverjavítás: a rendeltetésszerű használatnak meg nem felelő lőfegyver fegyverrészének ugyanolyan alkatrészre történő kicserélése, a lőfegyver irányzékán – a rendeltetés szerinti beállítás, illetve a tartozékok rendeltetésszerű, a körülményekhez igazodó cseréje kivételével – végrehajtott módosítás, továbbá a lőfegyver működőképességének helyreállítása;
 
-18. lőfegyver-kereskedő: az a természetes személy, jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet, aki (amely) kereskedelmi vagy egyéb üzleti tevékenységét teljes egészében vagy részben lőfegyver-, lőfegyverdarab- vagy lőszergyártás, kereskedelem, közvetítő kereskedelem, csere, bérbeadás, javítás, hatástalanítás vagy átalakítás területén végzi;
+18. lőfegyver-kereskedő: az a természetes személy, jogi személy, valamint jogi személyiséggel nem rendelkező gazdálkodó szervezet, aki (amely) kereskedelmi vagy egyéb üzleti tevékenységét teljes egészében vagy részben lőfegyver-, lőfegyverdarab-, lőszer-, illetve lőszerelem-gyártás, kereskedelem, közvetítő kereskedelem, csere, bérbeadás, javítás, hatástalanítás vagy átalakítás területén végzi;
 
 19. forgalmazás: lőfegyver, lőszer, illetve egyéb fegyver tulajdonjogának átruházása, bérbeadása, ideértve a kereskedelmi és közvetítő kereskedelmi tevékenységet is;
 

@@ -1,1 +1,7 @@
-13. § A 12. § (2) bekezdésében foglalt nyilvántartást a lőfegyver-kereskedőnek a lőfegyver forgalomba hozatala nyilvántartásának felvételétől számított öt éven át meg kell őriznie.
+13. § A lőfegyver-kereskedőnek
+
+a) a 12. § (2) bekezdés a)–d) pontja szerinti adatokat a lőfegyver forgalomba hozatala nyilvántartásának felvételétől számított öt évig,
+
+b) a 12. § (2) bekezdés e) pontja szerinti adatokat a nyilvántartásba vételtől kezdve folyamatosan
+
+meg kell őriznie.

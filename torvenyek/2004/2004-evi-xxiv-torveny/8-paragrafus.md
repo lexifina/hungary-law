@@ -1,6 +1,6 @@
 8. § Az adattovábbítási nyilvántartás tartalmazza:
 
-a) az érintett személy személyazonosító adatait, illetőleg a szervezet azonosításához szükséges adatokat;
+a) az érintett személy személyazonosító adatait, illetve a szervezet azonosításához szükséges adatokat;
 
 b) az adatkezelő nyilvántartási azonosítóját;
 
