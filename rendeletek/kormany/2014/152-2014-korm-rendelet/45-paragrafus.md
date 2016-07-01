@@ -1,4 +1,4 @@
-## 44. § A miniszter a településüzemeltetésért való felelőssége keretében előkészíti a temetkezési közszolgáltatásra és a kéményseprő közszolgáltatás ellátására vonatkozó jogszabályokat.
+## 44. §[^41] A miniszter a településüzemeltetésért és kéményseprő-ipari tevékenységért való felelőssége keretében előkészíti a temetkezési közszolgáltatásra és a kéményseprő-ipari tevékenység ellátására vonatkozó jogszabályokat.
 
 ## 45. § A miniszter a vízgazdálkodásért való felelőssége keretében előkészíti
 
@@ -29,3 +29,5 @@ l) a települési szennyvízelvezetésre,
 m) a víziközmű-szolgáltatás gazdálkodói tevékenységen kívüli szabályozására
 
 vonatkozó jogszabályokat.
+
+[^41]: A 44. § a 99/2016. (V. 13.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését.

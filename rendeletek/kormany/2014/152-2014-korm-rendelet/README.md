@@ -29,3 +29,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-152-20-
 | 2016-04-26 | 2014-152-20-22.21 | 87/2016. (IV. 25.) Korm. rendelet |
 | 2016-05-01 | 2014-152-20-22.22 | 88/2016. (IV. 29.) Korm. rendelet |
 | 2016-06-15 | 2014-152-20-22.23 | 118/2016. (VI. 6.) Korm. rendelet |
+| 2016-07-01 | 2014-152-20-22.24 | 99/2016. (V. 13.) Korm. rendelet |

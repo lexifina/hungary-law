@@ -56,7 +56,7 @@
 
 27.[^30]
 
-28. településüzemeltetésért,
+28.[^31] településüzemeltetésért, kéményseprő-ipari tevékenységért,
 
 29. vízgazdálkodásért,
 
@@ -67,3 +67,4 @@
 felelős tagja.
 
 [^30]: A 21. § 27. pontját a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.
+[^31]: A 21. § 28. pontja a 99/2016. (V. 13.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését.
