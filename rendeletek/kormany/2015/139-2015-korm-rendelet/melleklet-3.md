@@ -10,13 +10,13 @@
 
 | 4. |  |  | kertészmérnöki | Horticultural Engineering | kertészmérnök | Horticultural Engineer | 6 |
 
-| 5. |  |  | lótenyésztő, lovassport szervező agrármérnöki | Equine Horse Breeding, Equestrian Sport Manager | lótenyésztő, lovassport szervező agrármérnök | Horse Breeding, Equestrian Sport Manager | 6 |
+| 5. |  |  | lótenyésztő, lovassport szervező agrármérnöki | Equine Husbandry and Equestrian Sport Management | lótenyésztő, lovassport szervező agrármérnök | Horse Breeding, Equestrian Sport Manager | 6 |
 
 | 6. |  |  | mezőgazdasági és élelmiszeripari gépészmérnöki | Mechanical Engineering in the Agriculture and Food Industry | mezőgazdasági és élelmiszeripari gépészmérnök | Mechanical Engineer in the Agriculture and Food Industry | 6 |
 
 | 7. |  |  | mezőgazdasági mérnöki | Agricultural Engineering | mezőgazdasági mérnök | Agricultural Engineer | 6 |
 
-| 8. |  |  | mezőgazdasági szakoktató | Agriculture Instruction | mezőgazdasági szakoktató | Agricultural Instructor Specialized in Agriculture | 6 |
+| 8. |  |  | mezőgazdasági szakoktató | Agricultural Instruction | mezőgazdasági szakoktató | Agricultural Instructor | 6 |
 
 | 9. |  |  | szőlész-borász mérnöki | Viticulture and Oenology Engineering | szőlész-borász mérnök | Engineer of Viticulture and Oenology | 6 |
 
@@ -30,9 +30,9 @@
 
 | 14. | Bölcsészettudomány | Arts and Humanities | anglisztika | English and American Studies | anglisztika alapszakos bölcsész | Philologist in English and American Studies | 6 |
 
-| 15. |  |  | germanisztika | German Studies | 1. germanisztika, német alapszakos bölcsész 2. germanisztika, német nemzetiségi alapszakos bölcsész 3. germanisztika, néderlandisztika alapszakos bölcsész 4. germanisztika, skandinavisztika alapszakos bölcsész | 1.Philologist in German Studies, Specialized in German 2.Philologist in German Studies, Specialized in German as Ethnic Minority Studies 3.Philologist in German Studies, Specialized in Netherlandistic Studies 4. Philologist in German Studies, Specialized in Scandinavian Studies | 6 |
+| 15. |  |  | germanisztika | Germanic Studies | 1. germanisztika, német alapszakos bölcsész 2. germanisztika, német nemzetiségi alapszakos bölcsész 3. germanisztika, néderlandisztika alapszakos bölcsész 4. germanisztika, skandinavisztika alapszakos bölcsész | 1. Philologist in Germanic Studies, Specialized in German Studies 2. Philologist in Germanic Studies, Specialized in German as Ethnic Minority Studies 3. Philologist in Germanic Studies, Specialized in Netherlandistic Studies 4. Philologist in Germanic Studies, Specialized in Scandinavian Studies | 6 |
 
-| 16. |  |  | keleti nyelvek és kultúrák | Oriental Languages and Cultures | 1. keleti nyelvek és kultúrák alapszakos bölcsész, altajisztika szakirányon 2. keleti nyelvek és kultúrák alapszakos bölcsész, arab szakirányon 3. keleti nyelvek és kultúrák alapszakos bölcsész, hebraisztika szakirányon 4. keleti nyelvek és kultúrák alapszakos bölcsész, indológia szakirányon 5. keleti nyelvek és kultúrák alapszakos bölcsész, iranisztika szakirányon 6. keleti nyelvek és kultúrák alapszakos bölcsész, japán szakirányon 7. keleti nyelvek és kultúrák alapszakos bölcsész, kínai szakirányon 8. keleti nyelvek és kultúrák alapszakos bölcsész, koreai szakirányon 9. keleti nyelvek és kultúrák alapszakos bölcsész, mongol szakirányon 10. keleti nyelvek és kultúrák alapszakos bölcsész, tibeti szakirányon 11. keleti nyelvek és kultúrák alapszakos bölcsész, török szakirányon 12. keleti nyelvek és kultúrák alapszakos bölcsész, újgörög szakirányon | 1. Philologist in Eastern Languages and Cultures (Altaic Studies) 2. Philologist in Eastern Languages and Cultures (Arabian Studies) 3. Philologist in Eastern Languages and Cultures (Hebrew Studies) 4. Philologist in Eastern Languages and Cultures (Indology Studies) 5. Philologist in Eastern Languages and Cultures (Iranian Studies) 6. Philologist in Eastern Languages and Cultures (Japanese Studies) 7. Philologist in Eastern Languages and Cultures (Chinese Studies) 8. Philologist in Eastern Languages and Cultures (Korean Studies) 9. Philologist in Eastern Languages and Cultures (Mongolian Studies) 10. Philologist in Eastern Languages and Cultures (Tibetan Studies) 11. Philologist in Eastern Languages and Cultures (Turkish Studies) 12. Philologist in Eastern Languages and Cultures (Modern Greek Studies) | 6 |
+| 16. |  |  | keleti nyelvek és kultúrák | Oriental Languages and Cultures | 1. keleti nyelvek és kultúrák alapszakos bölcsész, altajisztika szakirányon 2. keleti nyelvek és kultúrák alapszakos bölcsész, arab szakirányon 3. keleti nyelvek és kultúrák alapszakos bölcsész, hebraisztika szakirányon 4. keleti nyelvek és kultúrák alapszakos bölcsész, indológia szakirányon 5. keleti nyelvek és kultúrák alapszakos bölcsész, iranisztika szakirányon 6. keleti nyelvek és kultúrák alapszakos bölcsész, japán szakirányon 7. keleti nyelvek és kultúrák alapszakos bölcsész, kínai szakirányon 8. keleti nyelvek és kultúrák alapszakos bölcsész, koreai szakirányon 9. keleti nyelvek és kultúrák alapszakos bölcsész, mongol szakirányon 10. keleti nyelvek és kultúrák alapszakos bölcsész, tibeti szakirányon 11. keleti nyelvek és kultúrák alapszakos bölcsész, török szakirányon 12. keleti nyelvek és kultúrák alapszakos bölcsész, újgörög szakirányon | 1. Philologist in Eastern Languages and Cultures (Altaic Studies) 2. Philologist in Eastern Languages and Cultures (Arabian Studies) 3. Philologist in Eastern Languages and Cultures (Hebrew Studies) 4. Philologist in Eastern Languages and Cultures (Indological Studies) 5. Philologist in Eastern Languages and Cultures (Iranian Studies) 6. Philologist in Eastern Languages and Cultures (Japanese Studies) 7. Philologist in Eastern Languages and Cultures (Chinese Studies) 8. Philologist in Eastern Languages and Cultures (Korean Studies) 9. Philologist in Eastern Languages and Cultures (Mongolian Studies) 10. Philologist in Eastern Languages and Cultures (Tibetan Studies) 11. Philologist in Eastern Languages and Cultures (Turkish Studies) 12. Philologist in Eastern Languages and Cultures (Modern Greek Studies) | 6 |
 
 | 17. |  |  | közösségszervezés | Community Coordination | 1. kulturális közösségszervező 2. ifjúsági közösségszervező 3. humánfejlesztő | 1. Cultural Community Coordinator 2. Youth Community Coordinator 3. Human Developer | 6 |
 
@@ -40,7 +40,7 @@
 
 | 19. |  |  | néprajz | Ethnography | néprajz alapszakos bölcsész | Ethnographer | 6 |
 
-| 20. |  |  | ókori nyelvek és kultúrák | Ancient Languages and Cultures | 1.ókori nyelvek és kultúrák alapszakos bölcsész, asszíriológia szakirányon 2.ókori nyelvek és kultúrák alapszakos bölcsész, egyiptológia szakirányon 3.ókori nyelvek és kultúrák alapszakos bölcsész, klasszika-filológia szakirányon | 1.Philologist in Ancient Languages and Cultures (Assyriology) 2.Philologist in Ancient Languages and Cultures (Egyptology) 3.Philologist in Ancient Languages and Cultures (Classic Philology) | 6 |
+| 20. |  |  | ókori nyelvek és kultúrák | Ancient Languages and Cultures | 1.ókori nyelvek és kultúrák alapszakos bölcsész, asszíriológia szakirányon 2.ókori nyelvek és kultúrák alapszakos bölcsész, egyiptológia szakirányon 3.ókori nyelvek és kultúrák alapszakos bölcsész, klasszika-filológia szakirányon | 1.Philologist in Ancient Languages and Cultures (Assyriology) 2.Philologist in Ancient Languages and Cultures (Egyptology) 3.Philologist in Ancient Languages and Cultures (Classical Philology) | 6 |
 
 | 21. |  |  | pedagógia | Pedagogy | pedagógia alapszakos bölcsész | Philologist in Pedagogy | 6 |
 
@@ -96,7 +96,7 @@
 
 | 47. |  |  | turizmus-vendéglátás | Tourism and Catering | közgazdász turizmus–vendéglátás alapképzési szakon | Economist in Tourism and Catering | 6 |
 
-| 48. |  |  | üzleti szakoktató | Vocational Instruction | üzleti szakoktató | Vocational Instructor in Business | 6 |
+| 48. |  |  | üzleti szakoktató | Vocational Instruction in Business | üzleti szakoktató | Vocational Instructor in Business | 6 |
 
 | 49. | Műszaki | Engineering Science | anyagmérnöki | Materials Engineering | anyagmérnök | Materials Engineer | 6 |
 
@@ -144,13 +144,13 @@
 
 | 71. |  |  | vízügyi üzemeltetési mérnöki | Water Operation Engineering | vízügyi üzemeltetési mérnök | Water Operation Engineer | 6 |
 
-| 72. | Orvos- és egészségtudomány | Health Science | ápolás és betegellátás | Nursing and Patient Care | 1. ápoló 2. dietetikus 3. gyógytornász-fizioterapeuta 4. mentőtiszt 5. szülésznő | 1. Nurse 2. Dietitian 3. Physiotherapist 4. Ambulance Officer (Paramedic) 5. Midwife | 6 |
+| 72. | Orvos- és egészség- tudomány | Health Science | ápolás és betegellátás | Nursing and Patient Care | 1. ápoló 2. dietetikus 3. gyógytornász-fizioterapeuta 4. mentőtiszt 5. szülésznő 6. hang-, beszéd- és nyelésterapeuta 7. ergoterapeuta | 1. Nurse 2. Dietitian 3. Physiotherapist 4. Ambulance Officer (Paramedic) 5. Midwife 6. Voice, Speech and Swallowing Therapist 7. Occupational Therapist | 6 |
 
 | 73. |  |  | egészségügyi gondozás és prevenció | Health Care and Disease Prevention | 1. népegészségügyi ellenőr 2. védőnő 3. dentálhigiénikus | 1. Public Health Supervisor, 2. Health Visitor, 3. Dental Hygienest | 6 |
 
 | 74. |  |  | egészségügyi szervező | Health Care Management | egészségügyi szervező | Health Care Manager | 6 |
 
-| 75. |  |  | orvosi diagnosztikai analitikus | Medical Diagnostic Imaging Analysis | orvosi diagnosztikai analitikus | Medical Diagnostic Imaging Analyst | 6 |
+| 75. |  |  | orvosi diagnosztikai analitikus | Medical Diagnostic Analysis | orvosi diagnosztikai analitikus | Medical Diagnostic Analyst | 6 |
 
 | 76. | Pedagógusképzés | Teacher Training | csecsemő- és kisgyermeknevelő | Infant and Early Childhood Education | csecsemő- és kisgyermeknevelő | Infant and Early Childhood Educator | 6 |
 
@@ -164,7 +164,7 @@
 
 | 81. | Sporttudomány | Sport Science | edző | Physical Training | szakedző (megjelölve a sportágat) | Physical Trainer | 6 |
 
-| 82. |  |  | sport- és rekreációszervezés | Sport - and Recreation | 1. rekreációszervező és egészségfejlesztő 2. sportszervező | 1. Recreation Management and Health Promotion 2. Sports management | 6 |
+| 82. |  |  | sport- és rekreációszervezés | Sports and Recreation Management | 1. rekreációszervező és egészségfejlesztő 2. sportszervező | 1. Recreation Manager and Health Promoter 2. Sports Manager | 6 |
 
 | 83. | Természettudomány | Natural Science | biológia | Biology | biológus | Biologist | 6 |
 
@@ -184,7 +184,7 @@
 
 | 91. |  |  | animáció | Animation | animációs tervező | Animator | 6 |
 
-| 92. |  |  | designkultúra | Designculture | designelemző | Designculture Specialist | 6 |
+| 92. |  |  | designkultúra | Design Culture | designelemző | Design Culture Specialist | 6 |
 
 | 93. |  |  | előadó-művészet | Performance | 1. klasszikus zongora előadóművész 2. klasszikus orgona előadóművész 3. klasszikus csembaló előadóművész 4. klasszikus harmonika előadóművész 5. klasszikus hárfa előadóművész 6. klasszikus gitár előadóművész 7. klasszikus lant előadóművész 8. klasszikus cimbalom előadóművész 9. klasszikus hegedű előadóművész 10. klasszikus mélyhegedű előadóművész 11. klasszikus gordonka előadóművész 12. klasszikus gordon előadóművész 13. klasszikus furulya előadóművész 14. klasszikus fuvola előadóművész 15. klasszikus oboa előadóművész 16. klasszikus klarinét előadóművész 17. klasszikus szaxofon előadóművész 18. klasszikus fagott előadóművész 19. klasszikus kürt előadóművész 20. klasszikus trombita előadóművész 21. klasszikus tuba előadóművész 22. klasszikus harsona előadóművész 23. klasszikus ütőhangszeres előadóművész 24. klasszikus ének előadóművész 25. jazz-zongora előadóművész 26. jazzgitár előadóművész 27. jazzbasszusgitár előadóművész 28. jazzbőgő előadóművész 29. jazzszaxofon előadóművész 30. jazztrombita előadóművész 31. jazzharsona előadóművész 32. jazzdob előadóművész 33. jazzének előadóművész 34. zenekar- és kórusvezető előadóművész 35. egyházzene-orgona előadóművész 36. egyházzene-kórusvezető előadóművész 37. népi vonós (hegedű, brácsa, nagybőgő-cselló-ütőgardon) előadóművész 38. népi pengetős (citera-tambura-koboz-tekerő) előadóművész 39. népi fúvós (furulya-duda, klarinét-tárogató) előadóművész 40. népi cimbalom előadóművész 41. népi ének előadóművész | 1. Classical Instrumental Music Performer (Piano) 2. Classical Instrumental Music Performer (Organ) 3. Classical Instrumental Music Performer (Harpsichord) 4. Classical Instrumental Music Performer (Accordion) 5. Classical Instrumental Music Performer (Harp) 6. Classical Instrumental Music Performer (Guitar) 7. Classical Instrumental Music Performer (Lute) 8. Classical Instrumental Music Performer (Cimbalom / Dulcimer) 9. Classical Instrumental Music Performer (Violin) 10. Classical Instrumental Music Performer (Viola) 11. Classical Instrumental Music Performer (Cello) 12. Classical Instrumental Music Performer (Double Bass) 13. Classical Instrumental Music Performer (Recorder) 14. Classical Instrumental Music Performer (Flute) 15. Classical Instrumental Music Performer (Oboe) 16. Classical Instrumental Music Performer (Clarinet) 17. Classical Instrumental Music Performer (Saxophone) 18. Classical Instrumental Music Performer (Bassoon) 19. Classical Instrumental Music Performer (Horn) 20. Classical Instrumental Music Performer (Trumpet) 21. Classical Instrumental Music Performer (Trombone) 22. Classical Instrumental Music Performer (Tuba) 23. Classical Instrumental Music Performer (Percussion) 24. Classical Music Singer 25. Jazz Instrumental Performer (Jazz Piano) 26. Jazz Instrumental Performer (Jazz Guitar) 27. Jazz Instrumental Performer (Jazz Bass Guitar) 28. Jazz Instrumental Performer (Jazz Double Bass) 29. Jazz Instrumental Performer (Jazz Saxophone) 30. Jazz Instrumental Performer (Jazz Trumpet) 31. Jazz Instrumental Performer (Jazz Trombone) 32. Jazz Instrumental Performer (Jazz Drums) 33. Jazz Music Singer 34. Orchestral and Choral Conductor 35. Church Music Performer (Organ) 36. Church Music Performer (Choral Conducting) 37. Folk Music Performer on Bowed Strings (Violin-Viola/Double Bass-Cello-Gardon [Percussion Cello]) 38. Folk Music Performer on Plucked Strings (Zither-Tambura-Koboz [Historical Hungarian Lute] /Rotary Lute [Hurdy-gurdy]) 39. Folk Music Performer on Wind Instruments (Recorder-Bagpipe/Clarinet-Tarogato [Hungarian Folk Clarinet]) 40. Folk Music Performer on Cimbalom 41. Folk Song Performer | 6 |
 
@@ -208,7 +208,7 @@
 
 | 103. |  |  | táncos és próbavezető | Dance and Rehearsal Coaching | táncos és próbavezető | Dancer and Coach | 6 |
 
-| 104. |  |  | tárgyalkotás | Object Design | 1. kerámiatervezés 2. üvegtervezés 3. fémművesség | 1. Ceramic Designer 2. Glass Designer 3. Metal Designer | 6 |
+| 104. |  |  | tárgyalkotás | Object Design | 1. kerámiatervező 2. üvegtervező 3. fémműves | 1. Ceramic Designer 2. Glass Designer 3. Metal Designer | 6 |
 
 | 105. |  |  | televíziós műsorkészítő | Television Production | televíziós műsorkészítő | Television Production Expert | 6 |
 
@@ -224,6 +224,8 @@
 
 | 111. |  |  | kézműves tárgykultúra | Craftsmanship | kézműves tárgykultúra szakember | Craftsman Artist | 6 |
 
-| 112. |  |  | zenekultúra | Musical Culture | zenekultúra szakember | Musical Culture Expert | 6 |
+| 112. |  |  | zenekultúra | Music Culture | zenekultúra szakember | Music Culture Expert | 6 |
 
-3. melléklet a 139/2015. (VI. 9.) Korm. rendelethez
+3. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^20]
+
+[^20]: A 3. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (2) bekezdése szerint módosított szöveg.

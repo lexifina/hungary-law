@@ -1,3 +1,3 @@
-## 11. §[^6]
+12. §[^12]
 
-[^6]: A 11. § a 205/2015. (VII. 23.) Korm. rendelet 17. § a) pontja alapján nem lép hatályba.
+[^12]: A 12–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
