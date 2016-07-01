@@ -4,7 +4,7 @@
 
 (2) A mezőgazdasági igazgatási szerv eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy az ügyintézési határidő negyvenöt nap.
 
-(3) Az eljáró hatóság helyszíni ellenőrzésre feljogosított kormánytisztviselője az e törvényben foglaltak ellenőrzése, valamint a tényállás tisztázásához szükséges bizonyíték fellelése érdekében jogosult
+(3) Az eljáró hatóság helyszíni ellenőrzésre feljogosított kormánytisztviselője, állami tisztviselője az e törvényben foglaltak ellenőrzése, valamint a tényállás tisztázásához szükséges bizonyíték fellelése érdekében jogosult
 
 a) az ellenőrzött helyiségbe, illetve létesítménybe belépni;
 
