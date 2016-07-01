@@ -1,4 +1,4 @@
-7. § (1) A természetes személy és a jogi személy alkalmazottja attól az időponttól válik jogosulttá a közvetítői tevékenység végzésére, amely időponttal a természetes személy vagy a jogi személy a névjegyzékbe bejegyzést nyert.
+7. § (1)
 
 (2) Közvetítői tevékenységet a jogi személynek csak az az alkalmazottja végezhet, aki a névjegyzékben szerepel.
 
