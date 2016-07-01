@@ -40,25 +40,27 @@ a) a közalkalmazottak jogállásáról szóló törvény hatálya alá tartozó
 
 b) a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó közszolgálati tisztviselő,
 
-c) a közigazgatási szervnél foglalkoztatott munkavállaló,
+c) az állami tisztviselőkről szóló törvény hatálya alá tartozó állami tisztviselő, állami ügykezelő,
 
-d) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó szakmai vezető,
+d) a közigazgatási szervnél foglalkoztatott munkavállaló,
 
-e) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány tagja,
+e) a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény hatálya alá tartozó szakmai vezető,
 
-f) a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos és szerződéses állomány tagja,
+f) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó hivatásos állomány tagja,
 
-g) a bírák jogállásáról és javadalmazásáról szóló törvény hatálya alá tartozó foglalkoztatott,
+g) a honvédek jogállásáról szóló törvény hatálya alá tartozó hivatásos és szerződéses állomány tagja,
 
-h) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény hatálya alá tartozó alkalmazott,
+h) a bírák jogállásáról és javadalmazásáról szóló törvény hatálya alá tartozó foglalkoztatott,
 
-i) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény hatálya alá tartozó foglalkoztatott,
+i) az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló törvény hatálya alá tartozó alkalmazott,
 
-j) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 66/A. § (1) bekezdése szerinti nevelőszülői foglalkoztatási jogviszonyban álló személy,
+j) a legfőbb ügyész, az ügyészek és más ügyészségi alkalmazottak jogállásáról és az ügyészi életpályáról szóló törvény hatálya alá tartozó foglalkoztatott,
 
-k) a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló törvény hatálya alá tartozó főállású polgármester,
+k) a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 66/A. § (1) bekezdése szerinti nevelőszülői foglalkoztatási jogviszonyban álló személy,
 
-l) az állam többségi befolyása alatt álló gazdasági társaságnál munkavégzésre irányuló jogviszonyban foglalkoztatott személy.
+l) a polgármesteri tisztség ellátásának egyes kérdéseiről és az önkormányzati képviselők tiszteletdíjáról szóló törvény hatálya alá tartozó főállású polgármester,
+
+m) az állam többségi befolyása alatt álló gazdasági társaságnál munkavégzésre irányuló jogviszonyban foglalkoztatott személy.
 
 8. lakáshitel-szerződés: magyarországi lakóingatlanra alapított jelzálogjog – ideértve az önálló zálogjogként alapított jelzálogjogot is – fedezete mellett a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXXXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdése szerinti fogyasztó és pénzügyi intézmény által kötött hitel- vagy kölcsönszerződés;
 

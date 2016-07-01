@@ -34,3 +34,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-75-00-00
 | 2015-01-01 | 2014. évi CI. törvény | 2011-75-00-00.27 |
 | 2015-07-01 | 2015. évi XLII. törvény | 2011-75-00-00.28 |
 | 2015-07-07 | 2015. évi LXXXV. törvény | 2011-75-00-00.29 |
+| 2016-07-01 | 2016. évi LXIV. törvény | 2011-75-00-00.30 |
