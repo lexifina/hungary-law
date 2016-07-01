@@ -2,11 +2,11 @@
 
 (2) Jelzálog-hitelintézet olyan jelzáloghitel-szerződésből vagy kapcsolódó kölcsönszerződésből eredő követelést vásárolhat meg pénzügyi intézménytől, illetve biztosító részvénytársaságtól,
 
-a) amely szerződést Magyarország vagy EGT-állam területén lévő ingatlanon alapított jelzálogjog biztosít és – amennyiben az adott állam jogrendje az elidegenítési és terhelési tilalom kikötését lehetővé teszi – a jogosult javára elidegenítési és terhelési tilalmat kötöttek ki, vagy a jelzálogjogot alapító szerződésben szerepel az a tájékoztatás, hogy ha a jelzálog-hitelintézet az eredeti jogosult helyébe lép, a jelzálog-hitelintézet javára elidegenítési és terhelési tilalom áll fenn, és a kapcsolódó kölcsönrész nyújtása esetén figyelembe vették a 3. § (3) bekezdésében meghatározott szabályokat,
+a) amely szerződést Magyarország vagy EGT-állam területén lévő ingatlanon alapított jelzálogjog biztosít és a kapcsolódó kölcsönrész nyújtása esetén figyelembe vették a 3. § (3) bekezdésében meghatározott szabályokat,
 
 b) amely az eladó pénzügyi intézmény vagy biztosító részvénytársaság könyvvizsgálója szerint problémamentes minősítésű,
 
-c) amelynek fedezetéül szolgáló ingatlan hitelbiztosítéki értékét a jelzálog-hitelintézet az erre vonatkozó szabályok betartásával állapította meg, és a jelzáloghitel tőkeösszege nem haladja meg a hitelbiztosítéki értéket, a kapcsolódó kölcsönrész tőkeösszege és kamata pedig nem haladja meg az állami készfizető kezességvállalással biztosított összeget, és
+c) amelynek fedezetéül szolgáló ingatlan hitelbiztosítéki értékét a jelzálog-hitelintézet az erre vonatkozó szabályok betartásával állapította meg, és a jelzáloghitel tőkeösszege a refinanszírozás időpontjában nem haladja meg a hitelbiztosítéki értéket, a kapcsolódó kölcsönrész tőkeösszege és kamata pedig nem haladja meg az állami készfizető kezességvállalással biztosított összeget, és
 
 d) amely szerződéseket tartalmazó okiratok megfelelnek a 6. §-ban foglalt követelményeknek függetlenül attól, hogy a 6. § b) pontja szerinti egyoldalú kötelezettségvállaló nyilatkozatot a kölcsön folyósítása előtt vagy azt követően tették.
 
@@ -26,11 +26,11 @@ a) a jelzálog-hitelintézetnek a refinanszírozási jelzáloghitelből eredő t
 
 b) a hitelintézet a refinanszírozási jelzáloghitel nyújtását megelőzően kötelezettséget vállal, hogy az eredeti jelzáloghitel elő- vagy végtörlesztése esetén a refinanszírozási jelzáloghitelt ugyanolyan mértékben haladéktalanul elő- vagy végtörleszti,
 
-c) a hitelintézet javára a különvált zálogjog biztosítására elidegenítési és terhelési tilalmat kötöttek ki, vagy a jelzálogjogot alapító szerződésben szerepel az a tájékoztatás, hogy ha a jelzálog-hitelintézet az eredeti zálogjogosult helyébe lép, a jelzálog-hitelintézet javára elidegenítési és terhelési tilalom áll fenn, és a kapcsolódó kölcsönrész nyújtása esetén figyelembe vették a 3. § (3) bekezdésében meghatározott szabályokat,
+c) a kapcsolódó kölcsönrész nyújtása esetén figyelembe vették a 3. § (3) bekezdésében meghatározott szabályokat,
 
 d) az eredeti jelzáloghitelből eredő követelés az azt biztosító jelzálogjogot átruházó hitelintézet könyvvizsgálója szerint problémamentes minősítésű,
 
-e) az eredeti jelzáloghitel fedezetéül szolgáló ingatlan vagy ingatlanok hitelbiztosítéki értékét a refinanszírozási jelzáloghitelt nyújtó jelzálog-hitelintézet az erre vonatkozó szabályok betartásával állapította meg, és az eredeti jelzáloghitel kölcsönszerződésben meghatározott tőkeösszege nem haladja meg a jelzálog-hitelintézetre átruházott különvált zálogjoggal terhelt ingatlan vagy ingatlanok hitelbiztosítéki értékét, a kapcsolódó kölcsönrész tőkeösszege és kamata pedig nem haladja meg az állami készfizető kezességvállalással biztosított összeget, és
+e) az eredeti jelzáloghitel fedezetéül szolgáló ingatlan vagy ingatlanok hitelbiztosítéki értékét a refinanszírozási jelzáloghitelt nyújtó jelzálog-hitelintézet az erre vonatkozó szabályok betartásával állapította meg, és az eredeti jelzáloghitel a refinanszírozás időpontjában nem haladja meg a jelzálog-hitelintézetre átruházott különvált zálogjoggal terhelt ingatlan vagy ingatlanok hitelbiztosítéki értékét, a kapcsolódó kölcsönrész tőkeösszege és kamata pedig nem haladja meg az állami készfizető kezességvállalással biztosított összeget, és
 
 f) az eredeti jelzáloghitelre vonatkozó szerződéseket tartalmazó okiratok megfelelnek a 6. §-ban foglalt követelményeknek, függetlenül attól, hogy a 6. § b) pontja szerinti egyoldalú kötelezettségvállaló nyilatkozatot a kölcsön folyósítása előtt vagy azt követően tették.
 

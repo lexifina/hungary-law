@@ -2,4 +2,4 @@
 
 a) amellyel a jelzálog-hitelintézet javára kizárólag keretbiztosítéki jelzálogjogot alapítottak, vagy
 
-b) amelynek összes kötelezettje a kölcsön folyósításának megkezdését – szerződésmódosítás esetén a módosítás hatálybalépését – megelőzően közjegyzői okiratba foglalt egyoldalú kötelezettségvállalást tesz a szerződés, illetve a szerződésmódosítás szerinti kötelezettsége fennállásáról és a jelzálog-hitelintézet követelései e szerződések alapján történő kielégítésének tűréséről.
+b) amelynek összes kötelezettje a kölcsön folyósításának megkezdését – szerződésmódosítás esetén a módosítás hatálybalépését – megelőzően közjegyzői okiratba foglalt egyoldalú kötelezettségvállalást tesz a szerződés, illetve a szerződésmódosítás szerinti kötelezettsége fennállásáról.
