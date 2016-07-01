@@ -10,7 +10,7 @@ a) meghatározza a hulladékgazdálkodás országos céljait, melyek a 73. § (1
 
 b) meghatározza a hulladékgazdálkodás fejlesztésének irányait,
 
-c) ellátja az önkormányzatok közötti és a regionális koordinációt,
+c) ellátja az önkormányzatok közötti és a regionális koordinációt, amelynek keretében gondoskodik a közszolgáltatás során elkülönítetten gyűjtött és a vegyes hulladék kezelése során keletkezett hasznosítható hulladék hasznosításának megszervezéséről, továbbá koordinálja a hasznosításra nem kerülő hulladékok ártalmatlanítását,
 
 d) elkészíti az Országos Hulladékgazdálkodási Közszolgáltatási Tervet, amely többek között meghatározza a közszolgáltatás ellátásának optimális területi lehatárolását és az adott területen minimálisan ellátandó közszolgáltatási feladatokat,
 
@@ -36,7 +36,7 @@ b) közszolgáltatási területek szerinti lehatárolására, és
 
 c) szabályozására.
 
-(4) A helyi közszolgáltató, a települési önkormányzat, valamint a hulladékgazdálkodási létesítmény tulajdonosa megad minden adatot és információt, ami a Koordináló szerv feladatkörének gyakorlásához szükséges. A Koordináló szerv kezelheti és részére átadhatók az e bekezdésben és a 38. § (3) bekezdésében meghatározott adatok.
+(4) A helyi közszolgáltató, a települési önkormányzat, a hulladékgazdálkodási létesítmény tulajdonosa, a közszolgáltató részére támogatást nyújtó szerv, valamint a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) megad minden adatot és információt, ami a Koordináló szerv feladatkörének gyakorlásához szükséges. A Koordináló szerv kezelheti és részére átadhatók az e bekezdésben és a 38. § (3) bekezdésében meghatározott adatok.
 
 (5) A (4) bekezdésben meghatározott adatok közül a személyes adatokat a Koordináló szerv az állami hulladékgazdálkodási közfeladat ellátása érdekében kezelheti, nyilvántarthatja. A Koordináló szerv jogosult a számlázási, díjbeszedési, valamint a díjhátralék-kezelési feladatkörében a személyes adatok körére vonatkozó csoportos adatszolgáltatást kérni a járási hivatal illetékes szervétől. Az ennek alapján átvett személyes adatokat a Koordináló szerv az érintettnek a közszolgáltatás igénybevételére vonatkozó kötelezettsége megszűnéséig, a közszolgáltatással összefüggő díjhátralék esetén annak kifizetéséig (behajtásáig) vagy törléséig kezelheti.
 

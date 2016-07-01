@@ -1,6 +1,6 @@
-43. § (1) Ha a gyűjtőedényt a hulladékgazdálkodási közszolgáltatás ellátásának biztosítása céljából közterületen helyezték el, a hulladék a gyűjtőedényben történő elhelyezéssel a közszolgáltató tulajdonába kerül.
+43. § (1) Ha a gyűjtőedényt a hulladékgazdálkodási közszolgáltatás ellátásának biztosítása céljából közterületen helyezték el, a hulladék a gyűjtőedényben történő elhelyezéssel a Koordináló szerv tulajdonába és a közszolgáltató birtokába kerül.
 
-(2) A lomtalanítás során közterületre helyezett hulladék a közszolgáltató tulajdonát képezi.
+(2) A lomtalanítás során közterületre helyezett hulladék a Koordináló szerv tulajdonát képezi és egyben a közszolgáltató birtokába kerül.
 
 (3) Az elkülönített hulladékgyűjtési rendszert a közszolgáltató úgy alakítja ki, hogy
 

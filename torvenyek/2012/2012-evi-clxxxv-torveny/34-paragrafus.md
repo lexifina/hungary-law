@@ -22,4 +22,4 @@ d) a közszolgáltatási tevékenység végzésének időtartamát.
 
 (8) A hulladékgazdálkodási közszolgáltatás teljesítése törvényben vagy kormányrendeletben meghatározott esetekben szüneteltethető vagy korlátozható, valamint az ingatlanhasználó kérésére önkormányzati rendeletben meghatározott esetekben szüneteltethető.
 
-(9) A lakosság tájékoztatása érdekében a hulladékgazdálkodási közszolgáltatási szerződést az Országos Környezetvédelmi Információs Rendszer publikus felületén közzé kell tenni. A települési önkormányzat a közszolgáltatási szerződés közzétételről a helyben szokásos módon gondoskodik.
+(9) A lakosság tájékoztatása érdekében a települési önkormányzat a közszolgáltatási szerződés közzétételről a helyben szokásos módon gondoskodik.

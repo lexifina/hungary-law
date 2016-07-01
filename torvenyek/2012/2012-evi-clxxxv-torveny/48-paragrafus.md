@@ -1,12 +1,12 @@
 48. § (1) A hulladékgazdálkodási közszolgáltatási díjra vonatkozó rendelkezések betartását a Hivatal ellenőrzi. E rendelkezések megsértése esetében a Hivatal határozattal
 
-a) megtiltja a jogszabálysértő díj további alkalmazását, és kötelezi a közszolgáltatót a jogszerű ellenérték alkalmazására,
+a) megtiltja a jogszabálysértő díj további alkalmazását, és kötelezi a Koordináló szervet, illetve a közszolgáltatót a jogszerű ellenérték alkalmazására,
 
-b) kötelezi a közszolgáltatót a rendelkezések megsértésével elért többletbevétel jegybanki alapkamat tárgyévi éves átlagával növelt összegének
+b) kötelezi a Koordináló szervet, illetve a közszolgáltatót a rendelkezések megsértésével elért többletbevétel jegybanki alapkamat tárgyévi éves átlagával növelt összegének
 
 ba) a sérelmet szenvedett fél részére történő visszatérítésére, vagy
 
-bb) az általa nyújtott hulladékgazdálkodási közszolgáltatással érintett valamennyi ingatlanhasználó részére történő visszatérítésére, ha a sérelmet szenvedett fél személye nem állapítható meg, valamint
+bb) a közszolgáltató által nyújtott, a hulladékgazdálkodási közszolgáltatással érintett valamennyi ingatlanhasználó részére történő visszatérítésére, ha a sérelmet szenvedett fél személye nem állapítható meg,
 
 c) bírságot szabhat ki.
 

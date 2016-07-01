@@ -4,7 +4,7 @@
 
 1. anyagában történő hasznosítás: bármilyen hasznosítási művelet az energetikai hasznosítás kivételével;
 
-2. ártalmatlanítás: minden olyan kezelési művelet, amely nem hasznosítás; a művelet abban az esetben is ártalmatlanítás, ha az másodlagos jelleggel anyag- vagy energiakinyerést eredményez; az ártalmatlanítási műveletek nem kimerítő listáját a 2. melléklet tartalmazza;
+2. ártalmatlanítás: minden olyan kezelési művelet, amely nem hasznosítás; a művelet abban az esetben is ártalmatlanítás, ha az másodlagos jelleggel anyag- vagy energiakinyerést eredményez;
 
 3. biohulladék: a biológiailag lebomló, parkokból származó vagy kerti hulladék, háztartásokban, éttermekben, étkeztetőkben és kiskereskedelmi tevékenységet folytató létesítményekben képződő élelmiszer- és konyhai hulladék, valamint az ezekhez hasonló, élelmiszer-feldolgozó üzemekben képződő hulladék;
 
@@ -42,7 +42,7 @@
 
 19. gyűjtőhely: az átvételi hely, a hulladékgyűjtő pont, a hulladékgyűjtő udvar, valamint a munkahelyi gyűjtőhely és az üzemi gyűjtőhely;
 
-20. hasznosítás: bármely kezelési művelet, amelynek fő eredménye az, hogy a hulladék hasznos célt szolgál annak révén, hogy olyan más anyagok helyébe lép, amelyeket egyébként valamely konkrét funkció betöltésére használtak volna, vagy amelynek eredményeként a hulladékot oly módon készítik elő, hogy ezt a funkciót akár az üzemben, akár a szélesebb körű gazdaságban betölthesse; a hasznosítási műveletek nem kimerítő listáját a 3. melléklet tartalmazza;
+20. hasznosítás: bármely kezelési művelet, amelynek fő eredménye az, hogy a hulladék hasznos célt szolgál annak révén, hogy olyan más anyagok helyébe lép, amelyeket egyébként valamely konkrét funkció betöltésére használtak volna, vagy amelynek eredményeként a hulladékot oly módon készítik elő, hogy ezt a funkciót akár az üzemben, akár a szélesebb körű gazdaságban betölthesse;
 
 21. háztartási hulladék: a háztartásokban képződő vegyes, elkülönítetten gyűjtött, valamint lomhulladék, ideértve a lakásokban, lakóingatlanokban, a pihenés, üdülés céljára használt helyiségekben, valamint a lakóházak közös használatú helyiségeiben és területein képződő hulladékot;
 
@@ -100,7 +100,7 @@ c) az anyagok és a termékek veszélyesanyag-tartalmát;
 
 41. szállítás: a hulladék telephelyen kívüli mozgatása;
 
-42. tárolás: a hulladéknak a gyűjtő, a kereskedő, illetve a hulladékkezelő telephelyén történő, valamint telephelyén kívüli átvételét, összegyűjtését, majd telephelyre történő szállítását követő ideiglenes elhelyezése a további hulladékgazdálkodási tevékenységek elvégzése érdekében, kivéve a hulladékkezelő létesítményben képződött hulladék ugyanazon hulladékkezelő létesítményben történő elhelyezését, valamint a 2. melléklet szerinti D12 ártalmatlanítási műveletet;
+42. tárolás: a hulladéknak a gyűjtő, a kereskedő, illetve a hulladékkezelő telephelyén történő, valamint telephelyén kívüli átvételét, összegyűjtését, majd telephelyre történő szállítását követő ideiglenes elhelyezése a további hulladékgazdálkodási tevékenységek elvégzése érdekében, kivéve a hulladékkezelő létesítményben képződött hulladék ugyanazon hulladékkezelő létesítményben történő elhelyezését, valamint a hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló miniszteri rendelet szerinti D12 ártalmatlanítási műveletet;
 
 43. települési hulladék: a háztartási és a háztartási hulladékhoz hasonló szilárd hulladék;
 

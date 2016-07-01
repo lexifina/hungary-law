@@ -1,4 +1,4 @@
-## 27. A hulladék besorolása, tájékoztató
+## 27. A hulladék besorolása, a melléktermék megfelelőségének igazolása
 
 63. § (1) A hulladék termelője, vagy – ha az nem állapítható meg – a hulladék birtokosa a hulladékot típus és jelleg szerint a hulladékjegyzékről szóló miniszteri rendeletben meghatározottak szerint besorolja.
 

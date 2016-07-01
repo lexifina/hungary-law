@@ -4,6 +4,6 @@
 
 (3) Ha hulladékgazdálkodással kapcsolatos környezetvédelmi, közegészségügyi veszélyhelyzet, súlyos kötelezettségszegés vagy ennek lehetősége szükségessé teszi, a környezetvédelmi hatóság haladéktalanul és előzetes bejelentés nélkül helyszíni ellenőrzést is tart.
 
-(4) A melléktermékként előállított, felhasznált vagy forgalmazott, illetve tárolt anyag vagy tárgy 8. §-ban meghatározott feltételeknek való megfelelését a termék megfelelőségének és biztonságának ellenőrzéséért felelős hatóság, illetve piacának felügyeletéért felelős hatóság ellenőrzi.
+(4) A melléktermékként előállított, felhasznált vagy forgalmazott, illetve tárolt anyag vagy tárgy 8. §-ban meghatározott feltételeknek való megfelelését a környezetvédelmi hatóság, továbbá a termék megfelelőségének és biztonságának ellenőrzéséért felelős hatóság, illetve piacának felügyeletéért felelős hatóság ellenőrzi.
 
 (5) A (4) bekezdésben meghatározott hatóság tájékoztatja a gyártó telephelye szerint illetékes környezetvédelmi hatóságot, ha megállapítja, hogy a melléktermékként előállított, felhasznált vagy forgalmazott, illetve tárolt anyag vagy tárgy nem felel meg a 8. § szerinti feltételeknek.

@@ -12,7 +12,7 @@ azt a környezetvédelmi hatóság a hulladékgazdálkodási bírsággal kapcsol
 
 (3) Ha a jogsértés a tevékenység vagy mulasztás súlyára, az elkövetés vagy kötelezettségszegés következményeire tekintettel annyira csekély, hogy bírság alkalmazása szükségtelen, a bírság kiszabása mellőzhető.
 
-(4) Ha a hulladékgazdálkodási bírság megfizetésére kötelezett a kiszabott bírságot megállapító határozat kiadásáig az eredeti állapotot helyreállítja, illetve a jogellenes állapotot megszünteti, a környezetvédelmi hatóság – az (5) bekezdésben meghatározott kivétellel – a bírságot kérelemre csökkentheti, ha a bírság célja csökkentett összeggel is elérhető.
+(4) Ha a hulladékgazdálkodási bírság megfizetésére kötelezett a kiszabott bírság megfizetésére előírt határidő lejárta előtt az eredeti állapotot helyreállítja, illetve a jogellenes állapotot megszünteti, a környezetvédelmi hatóság – az (5) bekezdésben meghatározott kivétellel – a bírságot kérelemre csökkentheti, ha a bírság célja csökkentett összeggel is elérhető.
 
 (5) A hulladékgazdálkodási bírság
 

@@ -153,5 +153,3 @@
 ## Az alkalmazandó módszerek megtalálhatók a vegyi anyagok regisztrálásáról, értékeléséről, engedélyezéséről és korlátozásáról (REACH) szóló 1907/2006/EK európai parlamenti és a tanácsi rendelet értelmében alkalmazandó vizsgálati módszerek megállapításáról szóló, 2008. május 30-i 440/2008/EK bizottsági rendeletben és az Európai Szabványügyi Bizottság (European Committee for Standardization, CEN) egyéb, kapcsolódó feljegyzéseiben vagy más, nemzetközileg elismert vizsgálati módszerekben és útmutatásokban.
 
 2. melléklet a 2012. évi CLXXXV. törvényhez
-
-Ártalmatlanítási műveletek

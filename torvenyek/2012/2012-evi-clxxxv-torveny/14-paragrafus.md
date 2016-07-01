@@ -2,7 +2,9 @@
 
 a) a természetes személy ingatlanhasználó az elkülönítetten gyűjtött háztartási hulladékot hulladékgyűjtő pontra, hulladékgyűjtő udvarba, átvételi helyre vagy hulladékkezelő létesítménybe szállítja, valamint
 
-b) a gyártó, a forgalmazó az átvételi kötelezettséggel érintett hulladékot hulladékkezelő létesítménybe szállítja.
+b) a gyártó, a forgalmazó az átvételi kötelezettséggel érintett hulladékot hulladékkezelő létesítménybe szállítja,
+
+c) a gazdálkodó szervezet nem üzletszerűen, alkalmilag, az elkülönítetten gyűjtött hulladékát saját járművével, másik telephelyén levő üzemi gyűjtőhelyre vagy átvételi helyre, hulladékgyűjtő pontra, hulladékgyűjtő udvarba, valamint hulladékkezelőhöz szállítja.
 
 (2) A hulladék szállítója felelős a hulladék rendeltetési helyére történő biztonságos eljuttatásáért.
 

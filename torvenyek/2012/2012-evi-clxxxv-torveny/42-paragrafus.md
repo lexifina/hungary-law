@@ -12,7 +12,7 @@ e) gondoskodik az a)–d) pontban meghatározott hulladékgazdálkodási közszo
 
 f) a hulladékgazdálkodási közszolgáltatással érintett hulladékgazdálkodási létesítményt üzemelteti, és
 
-g) – jogszabály eltérő rendelkezése hiányában – legalább negyedévente, utólag a hulladékgazdálkodási díj fizetésére kötelezett ingatlanhasználó vagy tőle a fizetési kötelezettséget jogszerűen átvállaló személy vagy önkormányzat részére számlát állít ki.
+g) – jogszabály eltérő rendelkezése hiányában – a hulladékgazdálkodási közszolgáltatáson túli szolgáltatás ellenértékéről – a szolgáltatás teljesítéséhez igazodóan, de legalább negyedévente – a hulladékgazdálkodási díj fizetésére kötelezett ingatlanhasználó vagy tőle a fizetési kötelezettséget jogszerűen átvállaló személy vagy önkormányzat részére számlát állít ki.
 
 (2) Ha a közszolgáltató hulladékkezelő létesítménnyel, illetve a közszolgáltatás körébe tartozó hulladék kezelésére alkalmas berendezéssel nem rendelkezik, a közszolgáltatás körébe tartozó hulladék kezeléséről a hulladék hulladékkezelőnek történő átadása útján gondoskodik. Ebben az esetben a hulladékkezelőnek nem szükséges minősítési engedéllyel rendelkeznie.
 

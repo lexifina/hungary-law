@@ -6,7 +6,7 @@
 
 2. a termelési hulladék, valamint az elkülönítetten gyűjtött háztartási hulladékhoz hasonló hulladék képződésének megelőzésével, és a termelési hulladék, valamint az elkülönítetten gyűjtött háztartási hulladékhoz hasonló hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
-3. a veszélyes hulladék képződésének megelőzésével kapcsolatos tevékenységek és a veszélyes hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének feltételeit, valamint a Hulladékminősítő Bizottságra vonatkozó részletes szabályokat;
+3. a veszélyes hulladék képződésének megelőzésével kapcsolatos tevékenységek és a veszélyes hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek végzésének feltételeit;
 
 4. a hulladékgazdálkodási tevékenységek nyilvántartásba vételével, engedélyezésével kapcsolatos előírásokat, valamint az engedélyek és a nyilvántartás tartalmi követelményeit;
 
@@ -30,7 +30,7 @@
 
 14. a gépjárművek hulladékká válását megelőző tevékenységek, valamint a hulladékká vált gépjárművekkel kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
-15. az építési-bontási hulladék képződésének megelőzésével kapcsolatos tevékenységek, valamint az építési-bontási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
+15. az építési-bontási hulladék képződésének megelőzésével kapcsolatos tevékenységek, az építési-bontási törmelék újrahasználatának, valamint az építési-bontási hulladékkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
 16. a szennyvíziszapok és a szennyvíziszapkomposzt mezőgazdasági felhasználásának és a szennyvíziszapokkal kapcsolatos hulladékgazdálkodási tevékenységek részletes szabályait;
 
@@ -76,7 +76,7 @@
 
 1. a veszélyes és nem veszélyes hulladéktípusokat tartalmazó hulladékjegyzéket, és a hulladék veszélyességét eredményező tulajdonságok megállapítására vonatkozó részletes szabályokat;
 
-2.
+2. a hulladékstátusz megszűnésének megállapítására vonatkozó részletes műszaki feltételeket;
 
 3. a hulladéklerakás technikai követelményeit, a betelt lerakók lezárásának és utógondozásának technikai feltételeit, valamint részletes szabályait;
 
@@ -90,7 +90,7 @@
 
 8. a hulladékgazdálkodással kapcsolatos egységes információs rendszer kialakításának részletes szabályait;
 
-9.
+9. a hasznosítási műveleteket és az energetikai hasznosítás feltételeként meghatározott energiahatékonysági mutató megállapítására vonatkozó szabályokat, valamint az ártalmatlanítási műveleteket;
 
 10. a hulladékgazdálkodási engedélyre és a nyilvántartásba vételre vonatkozó felügyeleti díjjal kapcsolatos részletes szabályokat.
 

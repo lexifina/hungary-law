@@ -22,7 +22,7 @@ h) a hulladék átvételi helyen, illetve az átvételre kötelezettnek történ
 
 útján gondoskodik.
 
-(2a) Ha a hulladék kezeléséről a hulladékbirtokos a (2) bekezdés b)–h) pontja szerint gondoskodik, a kezelésre vonatkozó kötelezettség akkor tekinthető teljesítettnek, ha a hulladék a gyűjtő, a kereskedő, a hulladékkezelő vagy a közszolgáltató tulajdonába kerül.
+(2a) Ha a hulladék kezeléséről a hulladékbirtokos a (2) bekezdés b)–h) pontja szerint gondoskodik, a kezelésre vonatkozó kötelezettség akkor tekinthető teljesítettnek, ha a hulladék a gyűjtő, a kereskedő, a hulladékkezelő vagy a Koordináló szerv tulajdonába vagy a közszolgáltató tulajdonába, illetve birtokába kerül.
 
 (3) Jogszabályban meghatározott esetekben a hulladékká vált terméket a hulladékbirtokos az átvételre kötelezettnek adja át.
 
