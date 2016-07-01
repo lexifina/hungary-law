@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1993-146-20-
 | 2015-01-01 | 1993-146-20-22.35 | 345/2014. (XII. 23.) Korm. rendelet |
 | 2015-04-01 | 1993-146-20-22.36 | 13/1999. (II. 1.) Korm. rendelet |
 | 2016-01-01 | 1993-146-20-22.37 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2016-07-01 | 1993-146-20-22.38 | 113/2016. (V. 30.) Korm. rendelet |

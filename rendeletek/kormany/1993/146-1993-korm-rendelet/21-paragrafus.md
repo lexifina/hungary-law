@@ -4,51 +4,54 @@
 
 (3)[^147] A menekültügyi hatóság a menekült és az oltalmazott jogállását elismerő határozat kiállításától számított öt napon belül a menekült és az oltalmazott nyilvántartásba vétele érdekében a nyilvántartásba vételhez szükséges személyi- és lakcímadatokat elektronikus úton továbbítja a menekült és az oltalmazott lakóhelye szerint illetékes járási hivatalnak. Az adatok nyilvántartásba vételéről a járási hivatal hatósági igazolványt ad ki.
 
-(4)[^148] A külföldön letelepedni szándékozó polgár esetében a konzuli tisztviselőnél előterjesztett, a külföldi letelepedésre vonatkozó nyilatkozatot és a külföldön letelepedni szándékozó polgár által személyesen, törvényes képviselő vagy meghatalmazott útján vagy postai úton leadott hatósági igazolványt a konzuli tisztviselő haladéktalanul megküldi a központi szervnek. A központi szerv a nyilatkozatot és a hatósági igazolványt feldolgozás, illetve további intézkedés céljából haladéktalanul megküldi az érintett polgár lakó- vagy tartózkodási helye szerint illetékes járási hivatalnak.
+(3a)[^148] A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 35/A. § (1) bekezdése alapján a nemzeti letelepedési engedéllyel rendelkező letelepedett jogállású polgár a magyarországi lakóhelyére történő beköltözésétől számított öt napon belül köteles a lakóhely szerinti járási hivatalnál a nyilvántartásba vételhez szükséges személyi és lakcímadatokat bejelenteni. A személyi adatok igazolása az idegenrendészeti hatóság által kiadott letelepedett jogállást igazoló okmány, valamint az érintett személyi adatairól kiállított hatósági bizonyítvány bemutatásával teljesíthető. Az adatok nyilvántartásba vételéről a járási hivatal hatósági igazolványt ad ki.
 
-(5)[^149] Az állampolgársági eskü vagy fogadalom letételének kitűzött időpontjáról az anyakönyvvezető vagy a konzuli tisztviselő a kitűzést követő nyolc napon belül értesíti a központi szervet.
+(4)[^149] A külföldön letelepedni szándékozó polgár esetében a konzuli tisztviselőnél előterjesztett, a külföldi letelepedésre vonatkozó nyilatkozatot és a külföldön letelepedni szándékozó polgár által személyesen, törvényes képviselő vagy meghatalmazott útján vagy postai úton leadott hatósági igazolványt a konzuli tisztviselő haladéktalanul megküldi a központi szervnek. A központi szerv a nyilatkozatot és a hatósági igazolványt feldolgozás, illetve további intézkedés céljából haladéktalanul megküldi az érintett polgár lakó- vagy tartózkodási helye szerint illetékes járási hivatalnak.
 
-(6)[^150] A honosítási, visszahonosítási okirat kiadásáról és a honosítási, visszahonosítási eljárásban engedélyezett névmódosításról, továbbá arról a tényről, hogy a honosítási, visszahonosítási okirat hatályát vesztette az állampolgársági ügyekben eljáró szerv haladéktalanul értesíti a központi szervet.
+(5)[^150] Az állampolgársági eskü vagy fogadalom letételének kitűzött időpontjáról az anyakönyvvezető vagy a konzuli tisztviselő a kitűzést követő nyolc napon belül értesíti a központi szervet.
 
-(6a)[^151] Az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető a magyar állampolgárság megszerzését, és a magyarországi lakóhellyel rendelkező polgár okirattal igazolt vagy nyilatkozata szerinti nőtlen vagy hajadon családi állapotát haladéktalanul átvezeti a nyilvántartáson.
+(6)[^151] A honosítási, visszahonosítási okirat kiadásáról és a honosítási, visszahonosítási eljárásban engedélyezett névmódosításról, továbbá arról a tényről, hogy a honosítási, visszahonosítási okirat hatályát vesztette az állampolgársági ügyekben eljáró szerv haladéktalanul értesíti a központi szervet.
 
-(6b)[^152] Az állampolgársági ügyekben eljáró szerv a magyar állampolgárság megszűnésének tényét és időpontját, valamint – ha az eskü vagy fogadalom letételére a külképviselet vezetője előtt került sor – a honosított polgár okirattal igazolt vagy nyilatkozata szerinti nőtlen vagy hajadon családi állapotát haladéktalanul átvezeti a nyilvántartáson.
+(6a)[^152] Az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes anyakönyvvezető a magyar állampolgárság megszerzését, és a magyarországi lakóhellyel rendelkező polgár okirattal igazolt vagy nyilatkozata szerinti nőtlen vagy hajadon családi állapotát haladéktalanul átvezeti a nyilvántartáson.
 
-(6c)[^153] Az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes konzuli tisztviselő a magyar állampolgárság megszerzését haladéktalanul átvezeti a nyilvántartáson.
+(6b)[^153] Az állampolgársági ügyekben eljáró szerv a magyar állampolgárság megszűnésének tényét és időpontját, valamint – ha az eskü vagy fogadalom letételére a külképviselet vezetője előtt került sor – a honosított polgár okirattal igazolt vagy nyilatkozata szerinti nőtlen vagy hajadon családi állapotát haladéktalanul átvezeti a nyilvántartáson.
 
-(7)[^154] A menekültügyi hatóság haladéktalanul értesíti a központi szervet
+(6c)[^154] Az állampolgársági eskü vagy fogadalom letételének helye szerint illetékes konzuli tisztviselő a magyar állampolgárság megszerzését haladéktalanul átvezeti a nyilvántartáson.
+
+(7)[^155] A menekültügyi hatóság haladéktalanul értesíti a központi szervet
 
 a) a menekült vagy az oltalmazott jogállásának jogerős megszűnéséről,
 
 b) a menekült vagy az oltalmazott külföldön bekövetkezett elhalálozásáról.
 
-(8)[^155] Az idegenrendészeti hatóság haladéktalanul értesíti a központi szervet
+(8)[^156] Az idegenrendészeti hatóság haladéktalanul értesíti a központi szervet
 
 a) a bevándorolt vagy a letelepedett jogállásának jogerős megszűnéséről,
 
 b) a bevándorolt vagy a letelepedett külföldön bekövetkezett elhalálozásáról.
 
-(9)[^156] Az idegenrendészeti hatóság haladéktalanul értesíti a központi szervet a szabad mozgás és tartózkodás jogával rendelkező személy nyilvántartásba vételéhez szükséges személyi- és lakcímadatokról.
+(9)[^157] Az idegenrendészeti hatóság haladéktalanul értesíti a központi szervet a szabad mozgás és tartózkodás jogával rendelkező személy nyilvántartásba vételéhez szükséges személyi- és lakcímadatokról.
 
-(9a)[^157] Az állampolgársági ügyekben eljáró szerv haladéktalanul értesíti a központi szervet a Magyarország területén élő, az Nytv. 4. § (2c) bekezdése szerinti magyar állampolgárok nyilvántartásba vételéhez szükséges személyi- és lakcímadatokról.
+(9a)[^158] Az állampolgársági ügyekben eljáró szerv haladéktalanul értesíti a központi szervet a Magyarország területén élő, az Nytv. 4. § (2c) bekezdése szerinti magyar állampolgárok nyilvántartásba vételéhez szükséges személyi- és lakcímadatokról.
 
-(9b)[^158] A hazai anyakönyvezést végző hatóság haladéktalanul értesíti a központi szervet a Magyarország területén élő, az Nytv. 4. § (2d) bekezdése szerinti magyar állampolgárok nyilvántartásba vételéhez szükséges személyi- és lakcímadatokról.
+(9b)[^159] A hazai anyakönyvezést végző hatóság haladéktalanul értesíti a központi szervet a Magyarország területén élő, az Nytv. 4. § (2d) bekezdése szerinti magyar állampolgárok nyilvántartásba vételéhez szükséges személyi- és lakcímadatokról.
 
-(10)[^159] A járási hivatal gondoskodik a nyilvántartási ügyben saját hatáskörében, valamint az illetékes területi szerv és a bíróság értesítése alapján az e szervek által hozott jogerős és végrehajtható határozatokban foglaltaknak a nyilvántartáson történő átvezetéséről.
+(10)[^160] A járási hivatal gondoskodik a nyilvántartási ügyben saját hatáskörében, valamint az illetékes területi szerv és a bíróság értesítése alapján az e szervek által hozott jogerős és végrehajtható határozatokban foglaltaknak a nyilvántartáson történő átvezetéséről.
 
 [^144]: Az R. 21. §-a a 13/1999. (II. 1.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^145]: Az R. 21. § (1) bekezdése a 417/2012. (XII. 29.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
 [^146]: Az R. 21. § új (2) bekezdését a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (2) bekezdése iktatta be, egyidejűleg az eredeti (2)–(8) bekezdés számozását (3)–(9) bekezdésre változtatva. A (2) bekezdés a 417/2012. (XII. 29.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
 [^147]: Az R. 21. § eredeti (2) bekezdésének számozását a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (2) bekezdése (3) bekezdésre változtatta, szövege a 417/2012. (XII. 29.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^148]: Az R. 21. § eredeti (3) bekezdésének számozását a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (2) bekezdése (4) bekezdésre változtatta, szövege a 417/2012. (XII. 29.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
-[^149]: Az R. 21. § eredeti (4) bekezdésének számozását a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (2) bekezdése (5) bekezdésre változtatta. Az R. 21. § (5) bekezdése a 340/2010. (XII. 28.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^150]: Az R. 21. § eredeti (5) bekezdésének számozását a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (2) bekezdése (6) bekezdésre változtatta, szövege a 26/2011. (III. 10.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^151]: Az R. 21. § (6a) bekezdését a 340/2010. (XII. 28.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 26/2011. (III. 10.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^152]: Az R. 21. § (6b) bekezdését a 340/2010. (XII. 28.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 26/2011. (III. 10.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
-[^153]: Az R. 21. § (6c) bekezdését a 26/2011. (III. 10.) Korm. rendelet 13. § (3) bekezdése iktatta be.
-[^154]: Az R. 21. § (6) bekezdés számozását a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (2) bekezdése (7) bekezdésre változtatta, szövege a 81/2012. (IV. 18.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
-[^155]: Az R. 21. §-ának új (7) bekezdését a 9/2004. (I. 31.) Korm. rendelet 6. § (2) bekezdése iktatta be, számozását a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (2) bekezdése (8) bekezdésre változtatta, szövege a 81/2012. (IV. 18.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
-[^156]: Az R. 21. § új (9) bekezdését a 115/2007. (V. 24.) Korm. rendelet 1. § (9) bekezdése iktatta be, egyidejűleg az eredeti (9) bekezdésének számozását (10) bekezdésre változtatta, szövege a 81/2012. (IV. 18.) Korm. rendelet 26. § (4) bekezdésével megállapított szöveg.
-[^157]: Az R. 21. § (9a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
-[^158]: Az R. 21. § (9b) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
-[^159]: Az R. 21. § (9) – eredetileg (7) – bekezdése a 230/2000. (XII. 23.) Korm. rendelet 16. §-ával megállapított szöveg, számozását (10) bekezdésre változtatta a 115/2007. (V. 24.) Korm. rendelet 1. § (9) bekezdése, szövege a 417/2012. (XII. 29.) Korm. rendelet 40. § g) pontja, a 39. § b) pontja szerint módosított szöveg.
+[^148]: Az R. 21. § (3a) bekezdését a 113/2016. (V. 30.) Korm. rendelet 1. §-a iktatta be.
+[^149]: Az R. 21. § eredeti (3) bekezdésének számozását a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (2) bekezdése (4) bekezdésre változtatta, szövege a 417/2012. (XII. 29.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^150]: Az R. 21. § eredeti (4) bekezdésének számozását a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (2) bekezdése (5) bekezdésre változtatta. Az R. 21. § (5) bekezdése a 340/2010. (XII. 28.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^151]: Az R. 21. § eredeti (5) bekezdésének számozását a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (2) bekezdése (6) bekezdésre változtatta, szövege a 26/2011. (III. 10.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^152]: Az R. 21. § (6a) bekezdését a 340/2010. (XII. 28.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 26/2011. (III. 10.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^153]: Az R. 21. § (6b) bekezdését a 340/2010. (XII. 28.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 26/2011. (III. 10.) Korm. rendelet 13. § (2) bekezdésével megállapított szöveg.
+[^154]: Az R. 21. § (6c) bekezdését a 26/2011. (III. 10.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+[^155]: Az R. 21. § (6) bekezdés számozását a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (2) bekezdése (7) bekezdésre változtatta, szövege a 81/2012. (IV. 18.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^156]: Az R. 21. §-ának új (7) bekezdését a 9/2004. (I. 31.) Korm. rendelet 6. § (2) bekezdése iktatta be, számozását a 191/2004. (VI. 12.) Korm. rendelet 48. §-ának (2) bekezdése (8) bekezdésre változtatta, szövege a 81/2012. (IV. 18.) Korm. rendelet 26. § (3) bekezdésével megállapított szöveg.
+[^157]: Az R. 21. § új (9) bekezdését a 115/2007. (V. 24.) Korm. rendelet 1. § (9) bekezdése iktatta be, egyidejűleg az eredeti (9) bekezdésének számozását (10) bekezdésre változtatta, szövege a 81/2012. (IV. 18.) Korm. rendelet 26. § (4) bekezdésével megállapított szöveg.
+[^158]: Az R. 21. § (9a) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^159]: Az R. 21. § (9b) bekezdését a 417/2012. (XII. 29.) Korm. rendelet 25. § (2) bekezdése iktatta be.
+[^160]: Az R. 21. § (9) – eredetileg (7) – bekezdése a 230/2000. (XII. 23.) Korm. rendelet 16. §-ával megállapított szöveg, számozását (10) bekezdésre változtatta a 115/2007. (V. 24.) Korm. rendelet 1. § (9) bekezdése, szövege a 417/2012. (XII. 29.) Korm. rendelet 40. § g) pontja, a 39. § b) pontja szerint módosított szöveg.
