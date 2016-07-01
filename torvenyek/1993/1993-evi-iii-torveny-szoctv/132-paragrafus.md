@@ -30,7 +30,7 @@ m) a szociális foglalkoztatás engedélyezésének és ellenőrzésének, valam
 
 n) a szociális hatóság és a szociális szakértői szerv kijelölését;
 
-o)
+o) az idősek otthonában nyújtott tartós szakápolás igénybevételének módját és annak egyéb feltételeit,
 
 p) a szenvedélybetegek részére nyújtott alacsonyküszöbű ellátás és az utcai szociális munka finanszírozásának rendjére vonatkozó részletes szabályokat;
 

@@ -50,3 +50,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1993-3-00-00
 | 2016-05-01 | 2016. évi XXVI. törvény | 1993-3-00-00.99 |
 | 2016-06-01 | 2016. évi XXXIX. törvény | 1993-3-00-00.100 |
 | 2016-06-18 | 2016. évi LXVII. törvény | 1993-3-00-00.101 |
+| 2016-07-01 | 2016. évi XXXIV. törvény | 1993-3-00-00.102 |
