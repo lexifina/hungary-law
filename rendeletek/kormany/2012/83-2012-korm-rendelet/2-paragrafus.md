@@ -12,7 +12,7 @@
 
 4. folytonos védelem: az időben változó körülmények és viszonyok ellenére is megszakítás nélkül megvalósuló védelem,
 
-4a.[^1] gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó,
+4a.[^2] gazdálkodó szervezet: a gazdasági társaság, az európai részvénytársaság, az egyesülés, az európai gazdasági egyesülés, az európai területi társulás, a szövetkezet, a lakásszövetkezet, az európai szövetkezet, a vízgazdálkodási társulat, az erdőbirtokossági társulat, az állami vállalat, az egyéb állami gazdálkodó szerv, az egyes jogi személyek vállalata, a közös vállalat, a végrehajtói iroda, a közjegyzői iroda, az ügyvédi iroda, a szabadalmi ügyvivői iroda, az önkéntes kölcsönös biztosító pénztár, a magánnyugdíjpénztár, az egyéni cég, továbbá az egyéni vállalkozó,
 
 5. kockázattal arányos védelem: olyan védelem, mely biztosítja, hogy egy kellően nagy időintervallumban a védelem költségei arányosak legyenek a potenciális kárértékkel,
 
@@ -36,4 +36,4 @@ c) a képzett lenyomat alapján az elvárható biztonsági szinten belül nem le
 
 12. zárt védelem: az összes releváns fenyegetést figyelembe vevő védelem.
 
-[^1]: A 2. § 4a. pontját a 169/2015. (VI. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^2]: A 2. § 4a. pontját a 169/2015. (VI. 30.) Korm. rendelet 1. § (1) bekezdése iktatta be.

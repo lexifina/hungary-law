@@ -1,4 +1,4 @@
-## 9. [^11] Elektronikus ügyintézési szolgáltató regisztrációja
+## 9. [^12] Elektronikus ügyintézési szolgáltató regisztrációja
 
 13. § (1) A Ket. 172. § d) pontja szerinti elektronikus ügyintézéssel kapcsolatos szolgáltatást nyújtó szolgáltató (a továbbiakban: elektronikus ügyintézési szolgáltató) a szolgáltatás nyújtásának megkezdése előtt köteles elektronikus úton regisztrálni a felügyelet erre a célra kialakított on-line felületén (a továbbiakban: eüsz szolgáltatói regisztráció). Az eüsz szolgáltatói regisztráció nem kötelezi az elektronikus ügyintézési szolgáltatót az elektronikus ügyintézéssel kapcsolatos szolgáltatás nyújtásra.
 
@@ -32,4 +32,4 @@ törli a szolgáltatót a névjegyzékből.
 
 (8) Az eüsz szolgáltatói regisztráció díjmentes.
 
-[^11]: A 9. alcím (13. §) az 515/2013. (XII. 30.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.
+[^12]: A 9. alcím (13. §) az 515/2013. (XII. 30.) Korm. rendelet 30. § (3) bekezdésével megállapított szöveg.

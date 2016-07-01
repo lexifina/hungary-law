@@ -1,4 +1,4 @@
-## 47/D. [^92] Központi érkeztetési ügynök
+## 47/D. [^96] Központi érkeztetési ügynök
 
 170/E. § (1) A központi érkeztetési ügynök (a továbbiakban: KÉÜ) jogszabályi előírás vagy a közfeladatot ellátó szervvel való megállapodás alapján és annak keretei között a közfeladatot ellátó szerv javára ellátja a közfeladatot ellátó szerv részére elektronikus úton érkezett küldemények átvétele, felbontása és érkeztetése tekintetében a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló kormányrendeletben meghatározott, valamint a (3)–(5) bekezdés szerinti feladatokat.
 
@@ -26,4 +26,4 @@ g) a dokumentum, valamint az érkeztetési nyilvántartás adatainak – az irat
 
 (6) A KÉÜ a küldemény átvétele, felbontása és érkeztetése során a közfeladatot ellátó szerv adatfeldolgozójaként jár el.
 
-[^92]: A 47/D. alcímet (170/E. §) az 515/2013. (XII. 30.) Korm. rendelet 30. § (18) bekezdése iktatta be.
+[^96]: A 47/D. alcímet (170/E. §) az 515/2013. (XII. 30.) Korm. rendelet 30. § (18) bekezdése iktatta be.

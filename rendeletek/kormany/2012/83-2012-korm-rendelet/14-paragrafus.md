@@ -2,7 +2,7 @@
 
 14. § (1) A felügyelet a SZEÜSZ-ök egységes nyújtása és igénybevétele, az együttműködési képesség biztosítása érdekében ajánlásokat bocsát ki.
 
-(2)[^12] A felügyelet az ajánlások tervezetét véleményezteti az informatikáért felelős miniszterrel.
+(2)[^13] A felügyelet az ajánlások tervezetét véleményezteti az informatikáért felelős miniszterrel.
 
 (3) Az ajánlások tervezetét a felügyelet a kormány által kötelezően nyújtandó szabályozott elektronikus ügyintézési szolgáltatást nyújtó szolgáltatók számára elektronikus levélben véleményezésre megküldi, valamint szakmai és társadalmi vitára közzéteszi.
 
@@ -10,4 +10,4 @@
 
 (5) A felügyelet az elfogadott ajánlásokat nyilvánosan, elektronikus úton közzéteszi. A közzétételi kötelezettség a visszavont, módosított ajánlások minden korábbi állapotára is vonatkozik.
 
-[^12]: A 14. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 658. §-ával megállapított szöveg.
+[^13]: A 14. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 658. §-ával megállapított szöveg.

@@ -1,24 +1,27 @@
-## 155. § Törvényi kötelezés nélkül nyitott ügyfélkapu, illetve hivatali kapu esetében az érintett természetes személy adatkezelésre vonatkozó beleegyező nyilatkozata feltétele az ügyfélkapu létrehozásának, illetve hivatali kapu adott tisztviselőhöz történő hozzárendelésének.
+## 155/M. § Nem gazdálkodó szervezetként vagy jogi képviselőként eljáró természetes személy, ha az eljárás során a bírósággal elektronikusan kívánja a kapcsolatot tartani ügyfélkaput és perkaput egyaránt használhat. Perkapu használata esetén a perkapu-megbízott személye azonos a perkapu-felhasználójával.
 
-## 44. Azonosításra visszavezetett dokumentumhitelesítés
+## 44. [^87] Azonosításra visszavezetett dokumentumhitelesítés
 
-156. § (1) Az azonosításra visszavezetett dokumentumhitelesítés szabályozott elektronikus ügyintézési szolgáltatás. A szolgáltatás keretében a SZEÜSZ szolgáltató az ügyfél által rendelkezésre bocsátott nyilatkozatot az általa igazolt személyhez rendeli, majd a személyhez rendelést hitelesen igazolja.
+156. § (1) Az azonosításra visszavezetett dokumentumhitelesítés szabályozott elektronikus ügyintézési szolgáltatás.
 
-(2)[^80] A SZEÜSZ szolgáltató a nyilatkozattevő személyt legalább az elektronikus ügyintézés részletes szabályairól szóló rendeletben meghatározott, névhez kötött azonosítás szabályai szerint azonosítja.
+(2) A szolgáltatás nyújtható
 
-(3)[^81] A SZEÜSZ szolgáltató a személyhez rendelésről kiállított igazolást elektronikus dokumentumba, vagy az igazolást az elektronikus dokumentumhoz kapcsolt záradékba foglalja és azt a rendelkezésre bocsátott nyilatkozattal együtt külön jogszabályban meghatározott szervezeti aláírással és időbélyegzővel hitelesíti. Az igazolás vagy záradék tartalmazza:
+a) az ügyfél nyilatkozatának hitelesítésére,
 
-a) a nyilatkozattevő nevét és a rendelkezésére álló további igazolt azonosító adatok közül a nyilatkozattevő által megjelölt és a SZEÜSZ szolgáltató által az azonosítási szolgáltatónál vagy az összerendelési nyilvántartás igénybevételével lekérdezett adatokat, valamint
+b) a hatóság nevében eljáró személy nyilatkozatának hitelesítésére.
 
-b) a nyilatkozat további azonosító adatait.
+(3) A szolgáltatás keretében a SZEÜSZ szolgáltató
 
-(3a)[^82] Ha az ügyfél a (3) bekezdés a) pontja alapján valamely azonosító adat feltüntetését igényelte, a hozzájárulása megadottnak tekintendő az érintett adatnak az igénybe vett azonosítási szolgáltatónál, illetve az összerendelési nyilvántartás igénybevételével történő lekérdezéséhez.
+a) ügyfél által rendelkezésre bocsátott nyilatkozatot az általa igazolt személyhez rendeli, majd a személyhez rendelést hitelesen igazolja;
 
-(3b)[^83] Ha a dokumentumot több személyhez kell rendelni, a SZEÜSZ szolgáltató az egyes személyekhez rendelés során az (1)–(3a) bekezdés megfelelő alkalmazásával jár el.
+b) hivatali programrendszer által rendelkezésre bocsátott nyilatkozatot a programrendszer által igazolt hivatalos személyhez rendeli, és a személyhez rendelést hitelesen igazolja.
 
-(4) A (3) bekezdés szerinti igazolást a hatóságok kötelesek elfogadni annak hiteles igazolására, hogy az érintett nyilatkozat a nyilatkozattevőtől származik, a SZEÜSZ szolgáltató által elvégzett azonosítás szintjét is figyelembe véve.
+(4) A SZEÜSZ szolgáltató a személyhez rendelésről kiállított igazolást elektronikus dokumentumba, vagy az igazolást az elektronikus dokumentumhoz kapcsolt záradékba foglalja és azt a rendelkezésre bocsátott nyilatkozattal együtt legalább fokozott biztonságú elektronikus aláírással vagy bélyegzővel és időbélyegzővel hitelesíti.
 
-[^80]: A 156. § (2) bekezdése az 515/2013. (XII. 30.) Korm. rendelet 30. § (16) bekezdésével megállapított szöveg.
-[^81]: A 156. § (3) bekezdése az 515/2013. (XII. 30.) Korm. rendelet 30. § (16) bekezdésével megállapított szöveg.
-[^82]: A 156. § (3a) bekezdését az 515/2013. (XII. 30.) Korm. rendelet 30. § (16) bekezdése iktatta be.
-[^83]: A 156. § (3b) bekezdését az 515/2013. (XII. 30.) Korm. rendelet 30. § (16) bekezdése iktatta be.
+(5) A személyhez rendelésnél
+
+a) ügyfél esetében a 156/A. §,
+
+b) a hatóság nevében eljáró személy esetében a 156/B. §
+
+[^87]: A 44. alcím (156–156/B. §) a 123/2016. (VI. 7.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.

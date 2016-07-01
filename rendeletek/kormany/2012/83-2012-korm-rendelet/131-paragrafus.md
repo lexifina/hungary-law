@@ -1,4 +1,4 @@
-## 123–130. §[^78]
+## 123–130. §[^83]
 
 131. § (1) A hatóság az ÁBT szolgáltatás azonosítási szolgáltatását önállóan, az űrlap benyújtástól függetlenül is igénybe veheti.
 
@@ -8,4 +8,4 @@
 
 (4) A továbbítandó személyes adatok kezelésére jogszabály alapján jogot nem szerzett igénybevevőnek történő adattovábbítás előtt, megfelelő tájékoztatás mellett, minden esetben kérni kell a felhasználó hozzájárulását az azonosító adatok továbbításához. Az adatok továbbítására csak a felhasználó hozzájárulásával kerül sor.
 
-[^78]: A 123–130. §-t a 414/2015. (XII. 23.) Korm. rendelet 73. § (8) bekezdése hatályon kívül helyezte.
+[^83]: A 123–130. §-t a 414/2015. (XII. 23.) Korm. rendelet 73. § (8) bekezdése hatályon kívül helyezte.

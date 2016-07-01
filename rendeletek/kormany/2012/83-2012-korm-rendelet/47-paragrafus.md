@@ -2,7 +2,7 @@
 
 47. § (1) A hatóság képviseletében eljáró természetes személyek közül
 
-a)[^27] nemzetbiztonsági ellenőrzés alá eső jogviszonyban álló személyek számára kizárólag jogszabályban kijelölt államigazgatási szerv,
+a)[^28] nemzetbiztonsági ellenőrzés alá eső jogviszonyban álló személyek számára kizárólag jogszabályban kijelölt államigazgatási szerv,
 
 b) hatóság vagy más közhatalmat gyakorló szervezet nevében kiadmányozási joggal rendelkező vagy egyébként jognyilatkozat tételére jogosult személy számára kizárólag jogszabályban kijelölt államigazgatási szerv vagy a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések sajátos szabályairól szóló kormányrendelet alapján igénybe vett szervezet
 
@@ -20,4 +20,4 @@ b) egyéb esetben csak jogszabályban kijelölt állami szervezet vagy a minős�
 
 (4) A TASZ keretében a jogszabályban kijelölt szervezetnek biztosítania kell a közhiteles nyilvántartásban nem szereplő természetes személy és szervezet ügyfelek részére a 45. § (2) bekezdés d) pontja szerinti azonosítási technika alkalmazhatóságát.
 
-[^27]: A 47. § (1) bekezdés a) pontja a 303/2013. (VII. 31.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.
+[^28]: A 47. § (1) bekezdés a) pontja a 303/2013. (VII. 31.) Korm. rendelet 17. § (2) bekezdése szerint módosított szöveg.

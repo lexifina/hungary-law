@@ -44,6 +44,6 @@ d) különösen indokolt esetben, az ügyfelek védelme érdekében a SZEÜSZ sz
 
 (5) A felügyelet a (3)–(4) bekezdésben felsorolt intézkedés megtétele során figyelembe veszi a megállapított mulasztásnak az ügyfelekre és az érintett szervek működésére, továbbá intézkedésének az ügyfelekre gyakorolt hatását, valamint – adott esetben – más szolgáltatásra való átállás lehetőségét, annak költségét és időigényét.
 
-(6)[^13]
+(6)[^14]
 
-[^13]: A 16. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 174. §-a hatályon kívül helyezte.
+[^14]: A 16. § (6) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 174. §-a hatályon kívül helyezte.

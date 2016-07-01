@@ -1,4 +1,4 @@
-## 43. §[^26]
+## 43. §[^27]
 
 ## 44. § TASZ vagy KAÜ keretében az azonosítás végrehajtása során az azonosítási szolgáltató köteles az azonosítást kérő részére tájékoztatást adni:
 
@@ -10,4 +10,4 @@ c) az alkalmazott azonosítási technikáról,
 
 d) az alkalmazott azonosítás biztonsági szintjéről.
 
-[^26]: A 43. §-t a 414/2015. (XII. 23.) Korm. rendelet 73. § (8) bekezdése hatályon kívül helyezte.
+[^27]: A 43. §-t a 414/2015. (XII. 23.) Korm. rendelet 73. § (8) bekezdése hatályon kívül helyezte.

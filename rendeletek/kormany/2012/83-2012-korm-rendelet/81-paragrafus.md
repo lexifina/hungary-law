@@ -4,7 +4,7 @@ a) legalább fokozott biztonságú elektronikus aláírással ellátott üzenete
 
 b) zárt rendszerek közti zárt, hitelesített kapcsolatot, vagy
 
-c)[^38] más, az e-közigazgatásért felelős miniszter által meghatározott hitelesítési megoldást
+c)[^39] más, az e-közigazgatásért felelős miniszter által meghatározott hitelesítési megoldást
 
 alkalmaz.
 
@@ -22,4 +22,4 @@ d) a kérelem és az automatikus adatelérési szolgáltatás nyújtásának vag
 
 e) az automatikus adatelérési szolgáltatás elérésének a módját.
 
-[^38]: A 81. § (1) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 659. §-ával megállapított szöveg.
+[^39]: A 81. § (1) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 659. §-ával megállapított szöveg.
