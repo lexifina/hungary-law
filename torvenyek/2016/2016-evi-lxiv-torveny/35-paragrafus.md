@@ -1,0 +1,9 @@
+## 23. A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény módosítása
+
+35. § (1) A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény (a továbbiakban: 1997. évi LXXXIII. törvény) 27. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A (2) bekezdésben foglaltaktól eltérően a közszolgálati, kormányzati szolgálati, állami szolgálati vagy közalkalmazotti jogviszonyban álló tartósan harmadik államban foglalkoztatott biztosított, a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke által indokoltan igénybe vett egészségügyi ellátás külföldön felmerült és igazolt költségének 85 százalékát az egészségbiztosító megtéríti. Ha a Magyarországon történő ellátás és a haza- és visszaszállítás vagy utazás együttes költsége nem éri el a külföldi ellátás költségeinek 85 százalékát, az egészségbiztosító a haza- és visszaszállítás vagy utazás költségét teljes mértékben megtéríti. Ha az e bekezdés hatálya alá tartozó személy – a sürgős szükség esetét kivéve – az ellátás céljából történő haza- és visszaszállítást vagy utazást nem vállalja, az egészségbiztosító a külföldön igénybe vett ellátás költségeit a belföldi költségmértéknek megfelelően téríti meg.”
+
+(2) Az 1997. évi LXXXIII. törvény 27. § (7) bekezdése helyébe a következő rendelkezés lép:
+
+„(7) A (3) bekezdéstől eltérően a közszolgálati, kormányzati szolgálati, állami szolgálati vagy közalkalmazotti jogviszonyban álló tartósan valamely EGT tagállamban foglalkoztatott biztosított, a vele együtt ott tartózkodó eltartott házastársa, élettársa és gyermeke választhat, hogy a kiküldetés helye szerinti EGT tagállamban az egészségügyi szolgáltatást az uniós rendeletek rendelkezései szerint veszi igénybe vagy az általa igénybe vett egészségügyi ellátás költségeinek (5) bekezdés szerinti megtérítését kéri az egészségbiztosítótól.”
