@@ -1,4 +1,4 @@
-2. melléklet a 110/2016. (V. 25.) Korm. rendelethez
+2. melléklet a 110/2016. (V. 25.) Korm. rendelethez[^2]
 
 ## Munkáltatói igazolás alapjogviszony fennállásáról
 
@@ -34,13 +34,15 @@
 
 2.8. Munkakör/beosztás:
 
-2.9. Jelenlegi jogviszonya*: □ kormánytisztviselő
+2.9. Jelenlegi jogviszonya*: ⬜ kormánytisztviselő
 
-□ köztisztviselő
+⬜ állami tisztviselő
 
-□ közalkalmazott
+⬜ köztisztviselő
 
-□ munkavállaló
+⬜ közalkalmazott
+
+⬜ munkavállaló
 
 2.10. Jelenlegi jogviszonyának kezdete:
 
@@ -93,3 +95,5 @@ Munkáltató cégszerű aláírása
 Aláíró neve nyomtatott betűkkel
 
 * A megfelelő részt kérjük kitölteni, jelölni.
+
+[^2]: A 2. melléklet a 136/2016. (VI. 13.) Korm. rendelet 17. §-a szerint módosított szöveg.
