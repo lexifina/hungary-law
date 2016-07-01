@@ -2,7 +2,7 @@
 
 a) 2. és 3. melléklete, valamint
 
-b) 5. melléklete.
+b)
 
 (2) Hatályát veszti a Ht.
 
@@ -12,6 +12,6 @@ b) 2. § (1) bekezdés 20. pontjában az „a hasznosítási műveletek nem kime
 
 c) 34. § (9) bekezdésében a „hulladékgazdálkodási közszolgáltatási szerződést az Országos Környezetvédelmi Információs Rendszer publikus felületén közzé kell tenni. A” szövegrész,
 
-d) 68. § (5) bekezdés b) pontjában a „fajtájára,” szövegrész,
+d)
 
 e) 88. § (1) bekezdés 3. pontjában a „ , valamint a Hulladékminősítő Bizottságra vonatkozó részletes szabályokat” szövegrész.

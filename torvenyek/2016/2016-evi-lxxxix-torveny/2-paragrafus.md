@@ -6,7 +6,7 @@ b) 55. § (3) bekezdésében a „veszélyes és nem veszélyes hulladékként e
 
 c) 27. alcím címében a „tájékoztató” szövegrész helyébe az „a melléktermék megfelelőségének igazolása”,
 
-d) 69. § (6) bekezdésében az „az 5. melléklet 2. pontjában foglalt táblázat 4. pontjában” szövegrész helyébe a „68. § (2) bekezdésében”,
+d)
 
 e) 82. § (4) bekezdésében a „termék megfelelőségének” szövegrész helyébe a „környezetvédelmi hatóság, továbbá a termék megfelelőségének”,
 
