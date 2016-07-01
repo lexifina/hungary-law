@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-16-00-00
 | 2015-11-26 | 2015. évi CLXII. törvény | 2014-16-00-00.18 |
 | 2016-01-01 | 2015. évi CCXV. törvény | 2014-16-00-00.19 |
 | 2016-03-18 | 2015. évi CCXV. törvény | 2014-16-00-00.20 |
+| 2016-07-01 | 2016. évi LIII. törvény | 2014-16-00-00.21 |

@@ -228,4 +228,4 @@ III. A közreműködő szervezetekre vonatkozó részletes információk
 
 13. Az adott tárgykörre vonatkozó egyéb információk
 
-A fenti tagolást összevont tájékoztató esetében a 138. §-ban írtakra is tekintettel, értelemszerűen kell alkalmazni.
+A fenti tagolást a 70. § (3) bekezdés c) pontjában írtakra is tekintettel, értelemszerűen kell alkalmazni.

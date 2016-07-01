@@ -250,7 +250,7 @@ XI. Közreműködő szervezetekre vonatkozó alapinformációk
 
 59. Harmadik személyre kiszervezett tevékenységek leírása, az esetleges összeférhetetlenségek bemutatása
 
-A fenti tagolást összevont kezelési szabályzat esetében a 138. §-ban írtakra is tekintettel, értelemszerűen kell alkalmazni.
+A fenti tagolást a 70. § (3) bekezdés c) pontjában írtakra is tekintettel, értelemszerűen kell alkalmazni.
 
 60. ÁÉKBV esetén a letétkezelő kötelezettségeinek leírása, az esetleges összeférhetetlenségek ismertetése, a letétkezelő által kiszervezett feladatok leírása, valamint nyilatkozat arra vonatkozóan, hogy kérelemre az ÁÉKBV-alapkezelő a befektetők rendelkezésre bocsátja az 53. pontban valamint az e pontban részletezett információkat.
 
