@@ -6,6 +6,6 @@
 
 (3) Az Alap székhelye megegyezik a BEVA székhelyével.
 
-(4) Az Alap önálló munkaszervezettel nem rendelkezik, az operatív feladatokat elkülönítetten az Országos Betétbiztosítási Alap munkaszervezete látja el az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettesének irányításával.
+(4) Az Alap önálló munkaszervezettel nem rendelkezik, az operatív feladatokat az Országos Betétbiztosítási Alap elkülönített munkaszervezete látja el az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettesének irányításával.
 
 (5) Az Alap gazdálkodását az Állami Számvevőszék ellenőrzi.

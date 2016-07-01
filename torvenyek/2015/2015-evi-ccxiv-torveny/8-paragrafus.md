@@ -10,6 +10,8 @@ d) dönt az Alap működéséhez szükséges kötvénykibocsátásról, kölcsö
 
 e) meghatározza a BEVA tagok által teljesítendő éves befizetés összegét, és figyelemmel kíséri a befizetések szabályszerűségét,
 
-f) elfogadja az Alap éves számviteli beszámolóját és az Alap tevékenységének befejezését megelőzően elfogadja a záró beszámolót, valamint
+f) elfogadja az Alap éves számviteli beszámolóját és az Alap tevékenységének befejezését megelőzően elfogadja a záró beszámolót,
 
-g) ellátja a jogszabályban meghatározott egyéb feladatokat.
+g) dönt az Alap feladatainak végrehajtásával kapcsolatos intézkedésekről, valamint irányítja és ellenőrzi az e törvényben meghatározott feladatoknak az Országos Betétbiztosítási Alap ügyvezető igazgató-helyettese irányításával történő végrehajtását, valamint
+
+h) ellátja az e törvényben meghatározott egyéb feladatokat.
