@@ -59,3 +59,5 @@ a) a jogorvoslattal érintett döntésre vonatkozó (10) bekezdés szerinti info
 b) a jogorvoslati eljárás során hozott hatósági döntést vagy bírósági határozatot, annak rövid indokolását, valamint
 
 c) a közzététel napját.
+
+(12) A gyógyszerészeti államigazgatási szerv a hatósági ellenőrzés és az ellenőrzési eljárás során a (3) bekezdés a)–d) pontjában foglaltakat ideiglenes intézkedésként is meghozhatja.

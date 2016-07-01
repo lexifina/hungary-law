@@ -16,7 +16,7 @@
 
 (8) A tevékenységi engedély iránti kérelmet benyújtó nem magyar állampolgár személy a külön jogszabályban meghatározott hatóság részére az állampolgársága szerinti ország – hatósági bizonyítvány kiállítására vonatkozó – előírásainak megfelelően kiállított érvényes hatósági bizonyítvány hiteles fordításával igazolja azt a tényt, hogy büntetlen előéletű, és nem áll a (4) vagy (5) bekezdésben meghatározott foglalkozástól eltiltás hatálya alatt.
 
-(9) Az egészségügyi államigazgatási szerv a kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal végezhető tevékenységekről kiadott engedélyekről közhiteles hatósági nyilvántartást vezet.
+(9) Az egészségügyi államigazgatási szerv a kábítószerekkel, pszichotróp anyagokkal és új pszichoaktív anyagokkal végezhető tevékenységekről kiadott engedélyekről nyilvántartást vezet, amely a (10) bekezdés b)–d) pontja tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (10) A (9) bekezdés szerinti nyilvántartás tartalmazza a gazdálkodó szervezet:
 
@@ -30,7 +30,9 @@ d) engedélyének számát és érvényességi idejét,
 
 e) tevékenységének jellegét,
 
-f) cégjegyzékszámát vagy az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát.
+f) cégjegyzékszámát, nem gazdasági társaságként működő gazdálkodó szervezet esetén a bírósági nyilvántartásba-vételi számát, vagy költségvetési szerv esetén a törzskönyvi számát.
+
+g) kábítószer felelősének nevét.
 
 (11) Az egészségügyi államigazgatási szerv a díszítő mák és kannabisz exportját, importját, transzferét végző, a tisztítatlan mákszalmamaradványokkal szennyezett mákmagot felvásárló, illetve annak tisztítását végző, valamint ipari mákszalmát, kifejtetlen máktokot és kannabiszt továbbhasznosítás céljából tároló, továbbá új pszichoaktív anyagot ipari célra használó, exportáló, importáló, új pszichoaktív anyag transzferét és forgalmazását végző gazdálkodó szervezetekről nyilvántartást vezet.
 
@@ -50,9 +52,9 @@ c) a tevékenység jellegének és helyének pontos megjelölését,
 
 d) a kábítószerért felelős személy megnevezését,
 
-e) a cégjegyzékszámot vagy az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát.
+e) a cégjegyzékszámot, az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát vagy költségvetési szerv esetén a törzskönyvi számát.
 
-(13) A (11) bekezdés szerinti nyilvántartás a (12) bekezdés b)–d) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(13) A (11) bekezdés szerinti nyilvántartás a (12) bekezdés a)–c) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
 (14) Az egészségügyi államigazgatási szerv a kábítószerek, pszichotróp anyagok és új pszichoaktív anyagok szállítmányozását végző gazdálkodó szervezetekről nyilvántartást vezet.
 
@@ -70,6 +72,6 @@ c) a tevékenység jellegének pontos megjelölését,
 
 d) a kábítószerért felelős személy megnevezését,
 
-e) a cégjegyzékszámot vagy az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát.
+e) a cégjegyzékszámot, az egyéni vállalkozókról vezetett hatósági nyilvántartásba vétel számát vagy költségvetési szerv esetén a törzskönyvi számát.
 
-(16) A (14) bekezdés szerinti nyilvántartás a (15) bekezdés b) és c) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.
+(16) A (14) bekezdés szerinti nyilvántartás a (15) bekezdés b)–d) pontja szerinti adatai tekintetében közhiteles hatósági nyilvántartásnak minősül.

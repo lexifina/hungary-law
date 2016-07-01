@@ -8,7 +8,7 @@
 
 (4) A gyógyszerészeti államigazgatási szerv a tudomására jutott farmakovigilanciával kapcsolatos adatokat értékeli, és amennyiben sürgős intézkedést tart szükségesnek, értesíti az európai uniós tagállamokat és az Európai Gyógyszerügynökséget. Amennyiben az Európai Gyógyszerügynökség nem folytat le sürgős uniós eljárást, a gyógyszerészeti államigazgatási szerv megteszi a (7) és (8) bekezdés szerinti szükséges intézkedéseket. Az intézkedésekről, és az azok alapját képező adatokról a gyógyszerészeti államigazgatási szerv a bejelentőt, a forgalomba hozatali engedély jogosultját, valamint hirdetmény útján az egészségügyi szolgáltatókat is értesíti, és az intézkedéseiről szóló döntését honlapján is nyilvánosan közzéteszi.
 
-(5) A gyógyszerészeti államigazgatási szerv a gyógyszer forgalmazását felfüggesztheti, és megtilthatja a gyógyszer alkalmazását, ha
+(5) A gyógyszerészeti államigazgatási szerv a gyógyszer forgalmazását felfüggesztheti, elrendelheti annak a forgalomból történő kivonását, illetve visszahívását és megtilthatja a gyógyszer alkalmazását, ha
 
 a) a tudomására jutott adatok arra utalnak, hogy a gyógyszer az egészségre káros,
 
@@ -18,7 +18,7 @@ c) a tudomására jutott adatok arra utalnak, hogy a gyógyszerrel kapcsolatban 
 
 d) a gyógyszer mennyiségi és minőségi összetétele nem felel meg a forgalomba hozatali engedélyben meghatározott követelményeknek,
 
-e) a gyógyszer összetevőinek ellenőrzését, továbbá a gyártási folyamat közbenső fázisában szükséges ellenőrzést nem végezték el, vagy ha a gyógyszer nem felel meg az egyéb, a gyártási engedély kiállításával kapcsolatos követelményeknek vagy kötelezettségeknek,
+e) a gyógyszer összetevőinek ellenőrzését, továbbá a gyártási folyamat közbenső fázisában szükséges ellenőrzést nem végezték el, vagy ha a gyógyszer nem felel meg az egyéb, a gyártási engedély kiállításával vagy a gyógyszer hatóanyagával kapcsolatos követelményeknek vagy kötelezettségeknek,
 
 f) a forgalomba hozatali engedély vagy annak megújítása iránti kérelem alátámasztására benyújtott adatok pontatlanok, vagy nem módosították azokat,
 
