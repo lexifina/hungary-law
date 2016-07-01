@@ -1,9 +1,9 @@
-19. §[^81] (1)[^82] Földhasználati lapot elektronikus másolatként a járási hivatal a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásaira az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvényben meghatározott jogosultak részére, adatátviteli vonalon keresztül szolgáltat.
+19. §[^82] (1)[^83] Földhasználati lapot elektronikus másolatként a járási hivatal a számítógépes ingatlan-nyilvántartási rendszer szolgáltatásaira az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvényben meghatározott jogosultak részére, adatátviteli vonalon keresztül szolgáltat.
 
 (2) Az elektronikus másolatot fokozott biztonságú elektronikus aláírással és a következő szöveget tartalmazó záradékkal kell ellátni: „A földhasználati lap tartalma a kiadás időpontjában megegyezik a földhasználati nyilvántartási adatbázisban található adatokkal. Ez az elektronikus dokumentum kinyomtatva nem minősül hiteles bizonyító erejű dokumentumnak”.
 
-(3)[^83]
+(3)[^84]
 
-[^81]: A 19. § a 252/2009. (XI. 16.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2010. január 1-jét követően indult földhasználati eljárásokra kell alkalmazni.
-[^82]: A 19. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 116. § c) pontja szerint módosított szöveg.
-[^83]: A 19. § (3) bekezdését a 252/2009. (XI. 16.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 473/2013. (XII. 12.) Korm. rendelet 15. § c) pontja.
+[^82]: A 19. § a 252/2009. (XI. 16.) Korm. rendelet 3. §-ával megállapított szöveg, e módosító rendelet 8. § (1) bekezdése alapján a 2010. január 1-jét követően indult földhasználati eljárásokra kell alkalmazni.
+[^83]: A 19. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 116. § c) pontja szerint módosított szöveg.
+[^84]: A 19. § (3) bekezdését a 252/2009. (XI. 16.) Korm. rendelet 4. §-a iktatta be, hatályon kívül helyezte a 473/2013. (XII. 12.) Korm. rendelet 15. § c) pontja.
