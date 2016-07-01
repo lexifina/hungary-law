@@ -6,7 +6,7 @@
 
 a) az általa folytatott tevékenységet azonnal abbahagyni,
 
-b) a jegyző útján a Hivatalnak azt haladéktalanul bejelenteni, amely arról haladéktalanul tájékoztatja a mentő feltárás elvégzésére a 22. § (5) bekezdése szerint feltárásra jogosult intézményt és a hatóságot, valamint
+b) a hatóság útján a Hivatalnak azt haladéktalanul bejelenteni, amely arról haladéktalanul tájékoztatja a mentő feltárás elvégzésére a 22. § (5) bekezdése szerint jogosult intézményt, valamint
 
 c) a tevékenységet szüneteltetni, továbbá a helyszín és a lelet őrzéséről – a felelős őrzés szabályai szerint – a feltárásra jogosult intézmény intézkedéséig gondoskodni.
 
