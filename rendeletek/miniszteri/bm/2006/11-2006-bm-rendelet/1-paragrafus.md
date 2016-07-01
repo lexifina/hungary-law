@@ -2,4 +2,7 @@
 
 (2) E rendelet rendelkezéseit a szolgálati beosztást be nem töltő (rendelkezési állományban lévő) hivatásos állományra is megfelelően alkalmazni kell.
 
+(3)[^2] E rendelet I., II. és IV. Részét az V. Részben meghatározott eltérésekkel a rendvédelmi szerv tisztjelölti állományára is megfelelően alkalmazni kell.
+
 [^1]: Az 1. § a 37/2015. (VI. 16.) BM rendelet 26. §-ával megállapított szöveg.
+[^2]: Az 1. § (3) bekezdését a 20/2016. (VI. 9.) BM rendelet 44. § (1) bekezdése iktatta be.

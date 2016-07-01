@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-11-20-0
 | 2015-07-01 | 2006-11-20-0A.12 | 37/2015. (VI. 16.) BM rendelet |
 | 2015-12-17 | 2006-11-20-0A.13 | 37/2015. (VI. 16.) BM rendelet |
 | 2016-01-02 | 2006-11-20-0A.14 | 68/2015. (XII. 16.) BM rendelet |
+| 2016-07-01 | 2006-11-20-0A.15 | 20/2016. (VI. 9.) BM rendelet |

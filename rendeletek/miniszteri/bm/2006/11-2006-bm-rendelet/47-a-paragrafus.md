@@ -1,4 +1,4 @@
-## III/A. RÉSZ[^91]
+## III/A. RÉSZ[^92]
 
 ## A BECSÜLETBÍRÓSÁG
 
@@ -14,4 +14,4 @@ d) a Nemzetbiztonsági Szakszolgálatnál, valamint
 
 e) az Alkotmányvédelmi Hivatalnál
 
-[^91]: A III/A. részt (47/A–47/C. §-t) a 68/2015. (XII. 16.) BM rendelet 1. §-a iktatta be.
+[^92]: A III/A. részt (47/A–47/C. §-t) a 68/2015. (XII. 16.) BM rendelet 1. §-a iktatta be.

@@ -4,6 +4,6 @@
 
 (2) A póteljárás befejezését követően kiegészítő iratismertetést kell tartani és kiegészítő jelentést készíteni. Az újabb személyes meghallgatás tárgyában a 26. § szerint kell eljárni.
 
-(3)[^56]
+(3)[^57]
 
-[^56]: A 27. § (3) bekezdését a 37/2015. (VI. 16.) BM rendelet 39. § (2) bekezdés c) pontja hatályon kívül helyezte.
+[^57]: A 27. § (3) bekezdését a 37/2015. (VI. 16.) BM rendelet 39. § (2) bekezdés c) pontja hatályon kívül helyezte.

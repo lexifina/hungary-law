@@ -1,0 +1,5 @@
+48/C. § (1) A 15. § (1) bekezdésében meghatározott képviselő fogalmába az ott meghatározottakon túl az eljárás alá vont meghatalmazása alapján a fegyelmi eljárásban a tisztjelölt képviseletében eljáró kari hallgatói önkormányzatot is érteni kell.
+
+(2) A 17. § (2) bekezdésétől eltérően tisztjelölt esetében a fegyelemsértés súlyára tekintettel a beosztásból felfüggesztésnek akkor van helye, ha a kialakult joggyakorlat alapján előreláthatólag a fegyelmi felelősség megállapítása esetén kizárás fenyítés kiszabása várható.
+
+(3) A 36. § (3) bekezdésétől eltérően szabálysértés fegyelmi jogkörben történő elbírálásánál a tisztjelölt esetében nem alkalmazható pénzbírság helyett elsősorban az Nftv. 55. § (2) bekezdés c) pontja szerinti fenyítést kell kiszabni. A 36. § (3a) bekezdését a tisztjelöltek vonatkozásában akként kell alkalmazni, hogy az ott meghatározott feltételek esetében az Nftv. 55. § (2) bekezdés c) pontja szerinti fenyítés alapján történő csökkentés vagy megvonás együttes összege lehetőség szerint megegyezzen a helyszíni bírság összegével.
