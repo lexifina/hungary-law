@@ -1,4 +1,4 @@
-## 9–15. §[^1]
+## 15. § A faanyag kereskedelmi lánc szereplője a fatermék-készletet érintő átminősítést, továbbá ha a faanyag-készlet nyilvántartása vagy értékesítése a korábbihoz képest eltérő mértékegységben történik, az átváltási tényező számításának módját dokumentálja.
 
 ## 4. Jelentéstételi és tájékoztatási kötelezettség
 
@@ -17,5 +17,3 @@ c) a faanyag kereskedelmi lánccal kapcsolatosan végzett ellenőrzések végreh
 a honlapján közzéteszi.
 
 (4) A 995/2010/EU európai parlamenti és tanácsi rendelet 13. cikkében meghatározott, a faanyag kereskedelmi lánc szereplői részére történő technikai segítségnyújtást és információs útmutatást az erdészeti hatóság – a faanyag kereskedelmi lánc valamennyi szereplőjének érdekét, valamint a fenntartható erdőgazdálkodásból és a fatermesztésből származó fatermék előállításának és forgalmazásának elősegítését szem előtt tartva – tájékoztatások, képzések és oktatás biztosításával teljesíti.
-
-[^1]: A 9–15. § a 17. § (2) bekezdése alapján 2016. július 1-jén lép hatályba.
