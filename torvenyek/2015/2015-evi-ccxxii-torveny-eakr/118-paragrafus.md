@@ -1,1 +1,1 @@
-118. §
+118. § A megfelelőségértékelő szervezetek tevékenységéről szóló 2009. évi CXXXIII. törvény 13. § (2) bekezdésében a „szabályozási feladatkörrel rendelkező miniszter” szövegrész helyébe a „szabályozási feladatkörrel rendelkező miniszter vagy önálló szabályozó szerv vezetője” szöveg lép.

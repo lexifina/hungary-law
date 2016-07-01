@@ -8,7 +8,7 @@
 
 a)–f)
 
-g)
+g) az elektronikus ügyintézés céljaira felhasználható elektronikus aláírásokra, az elektronikus aláíráshoz tartozó tanúsítványokra, illetve az azokkal összefüggésben nyújtott elektronikus aláírással kapcsolatos szolgáltatásokra vonatkozó sajátos követelményeket,
 
 h)
 
@@ -28,7 +28,7 @@ e) az országos telefonos ügyfélszolgálatot működtető szervet.
 
 a)–k)
 
-l)
+l) a 104. § (1) bekezdés szerinti bejelentés részletes szabályait,
 
 m)–n)
 
@@ -38,6 +38,6 @@ m)–n)
 
 a)–b)
 
-c)
+c) a 104. § (1) bekezdése szerinti szervet.
 
 (6)

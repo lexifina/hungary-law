@@ -6,7 +6,7 @@
 
 1. § E törvény alkalmazásában
 
-1. ÁNYK űrlapbenyújtás támogatási szolgáltatás: a jogszabályban meghatározott szerv vagy szolgáltató meghatározott technikai előírásoknak megfelelő elektronikus űrlapok ügyfél általi kitöltését, elektronikus ügyintézést biztosító szervhez való elektronikus azonosítással egybekötött benyújtását biztosító szolgáltatás;
+1. űrlapbenyújtás támogatási szolgáltatás: a jogszabályban meghatározott szerv vagy szolgáltató meghatározott technikai előírásoknak megfelelő elektronikus űrlapok ügyfél általi kitöltését, elektronikus ügyintézést biztosító szervhez való elektronikus azonosítással egybekötött benyújtását biztosító szolgáltatás;
 
 2. archiválási szolgáltatás: az elektronikus dokumentumok hosszú távú megőrzésére vonatkozó szolgáltatás, amely magában foglalja a belső piacon történő elektronikus tranzakciókhoz kapcsolódó elektronikus azonosításról és bizalmi szolgáltatásokról, valamint az 1999/93/EK irányelv hatályon kívül helyezéséről szóló 2014. július 23-i 910/2014/EU európai parlamenti és tanácsi rendelet (a továbbiakban: eIDAS Rendelet) 3. cikk 16. pont c) alpontja szerinti bizalmi szolgáltatást is;
 
@@ -136,7 +136,7 @@ l) a Kormány által rendeletben meghatározott ügyek e törvény szerinti elek
 
 44. tanúsítvány: az elektronikus aláírás tanúsítvány, az elektronikus bélyegző tanúsítvány és a weboldal-hitelesítő tanúsítvány, valamint mindazon, a bizalmi szolgáltatás keretében a szolgáltató által kibocsátott elektronikus igazolás, amely tartalmazza a tanúsítványra vonatkozó érvényesítési adatot és a tanúsítvány használatához szükséges kapcsolódó adatokat, és amely elektronikus dokumentum megbízhatóan védve van a kibocsátáskor és az érvényességi ideje alatt rendelkezésre álló technológiákkal elkövetett hamisítás ellen;
 
-45. tartós adathordozó: olyan eszköz, amely a címzett számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését. Ilyen eszköz különösen a papír, az USB kulcs, a CD-ROM, a DVD, a memória kártya, a számítógép merevlemeze;
+45. tartós adathordozó: olyan eszköz, amely a címzett számára lehetővé teszi a neki címzett adatoknak az adat céljának megfelelő ideig történő tartós tárolását és a tárolt adatok változatlan formában és tartalommal történő megjelenítését. Ilyen eszköz különösen az USB kulcs, a CD-ROM, a DVD, a memória kártya, a számítógép merevlemeze;
 
 46. természetes személy: nem gazdálkodó szervezetként eljáró, a polgári törvénykönyvről szóló törvény szerinti természetes személy;
 
