@@ -856,7 +856,7 @@
 
 ## 427.[^349] Szennyvíziszap-komposzt mezőgazdasági felhasználásának engedélyezése iránti kérelem
 
-## 428.[^350] Hígtrágya termőföldön történő felhasználásának engedélyezése iránti kérelem
+## 428.[^350] Hígtrágya termőföldön történő felhasználására irányuló szándék bejelentése
 
 ## 429.[^351] Nem mezőgazdasági eredetű nem veszélyes hulladék termőföldön történő felhasználásának engedélyezése iránti kérelem
 
@@ -1550,7 +1550,7 @@
 [^347]: A 3. melléklet 425. pontját a 77/2016. (IV. 6.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^348]: A 3. melléklet 426. pontját a 77/2016. (IV. 6.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^349]: A 3. melléklet 427. pontját a 77/2016. (IV. 6.) Korm. rendelet 1. § (1) bekezdése iktatta be.
-[^350]: A 3. melléklet 428. pontját a 77/2016. (IV. 6.) Korm. rendelet 1. § (1) bekezdése iktatta be.
+[^350]: A 3. melléklet 428. pontját a 77/2016. (IV. 6.) Korm. rendelet 1. § (1) bekezdése iktatta be, szövege a 136/2016. (VI. 13.) Korm. rendelet 10. §-a szerint módosított szöveg.
 [^351]: A 3. melléklet 429. pontját a 77/2016. (IV. 6.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^352]: A 3. melléklet 430. pontját a 77/2016. (IV. 6.) Korm. rendelet 1. § (1) bekezdése iktatta be.
 [^353]: A 3. melléklet 431. pontját a 77/2016. (IV. 6.) Korm. rendelet 1. § (1) bekezdése iktatta be.
