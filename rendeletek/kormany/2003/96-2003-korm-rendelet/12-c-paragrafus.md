@@ -1,4 +1,4 @@
-12/C. §[^72] (1) Az egészségügyi államigazgatási szerv a személyes közreműködőt törli a hatósági nyilvántartásból, ha
+12/C. §[^73] (1) Az egészségügyi államigazgatási szerv a személyes közreműködőt törli a hatósági nyilvántartásból, ha
 
 a) a személyes közreműködő bejelenti a tevékenységének megszüntetését,
 
@@ -14,7 +14,7 @@ a) a személyes közreműködést igénybe vevő egészségügyi szolgáltató b
 
 b) a személyes közreműködést igénybe vevő egészségügyi szolgáltató vagy annak – a személyes közreműködéssel érintett – szervezeti egysége megszűnik.
 
-(3)[^73] A hatósági nyilvántartásból történő törlésről a törlés időpontjában a személyes közreműködőt igénybe vevő szolgáltató működési engedélyének kiadására a 7. § (2) bekezdése alapján hatáskörrel rendelkező egészségügyi államigazgatási szerv dönt. A hatósági nyilvántartásból történő törlésről az egészségügyi államigazgatási szerv a személyes közreműködőt értesíti.
+(3)[^74] A hatósági nyilvántartásból történő törlésről a törlés időpontjában a személyes közreműködőt igénybe vevő szolgáltató működési engedélyének kiadására a 7. § (2) bekezdése alapján hatáskörrel rendelkező egészségügyi államigazgatási szerv dönt. A hatósági nyilvántartásból történő törlésről az egészségügyi államigazgatási szerv a személyes közreműködőt értesíti.
 
-[^72]: A 12/C. §-t a 40/2014. (II. 24.) Korm. rendelet 13. §-a iktatta be.
-[^73]: A 12/C. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 48. § c) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^73]: A 12/C. §-t a 40/2014. (II. 24.) Korm. rendelet 13. §-a iktatta be.
+[^74]: A 12/C. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 48. § c) pontja szerint módosított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

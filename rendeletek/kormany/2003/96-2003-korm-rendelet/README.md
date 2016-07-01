@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-96-20-2
 | 2015-04-01 | 2003-96-20-22.36 | 174/2012. (VII. 26.) Korm. rendelet |
 | 2015-07-22 | 2003-96-20-22.37 | 364/2014. (XII. 30.) Korm. rendelet |
 | 2016-01-01 | 2003-96-20-22.38 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2016-07-01 | 2003-96-20-22.39 | 172/2016. (VII. 1.) Korm. rendelet |
