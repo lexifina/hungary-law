@@ -22,7 +22,9 @@ i)
 
 j) a törvény 24. § (15) bekezdésében foglalt megszüntetéssel, a megszüntetés napjával;
 
-k) a 30/A. § (4) bekezdésében, a 83. § (7) bekezdésében és a 84. § (4) bekezdésében foglalt esetben a pénztártag társadalombiztosítási nyugdíjrendszerbe történő visszalépése esetén a nyugdíj megállapítását megelőző nappal
+k) a 30/A. § (4) bekezdésében foglalt esetben a pénztártag társadalombiztosítási nyugdíjrendszerbe történő visszalépése esetén a pénztártag egyéni számlaegyenlege visszalépő tagi kifizetésekkel csökkentett összegének a Nyugdíjbiztosítási Alap részére történő átutalását megelőző nappal;
+
+l) a 83. § (7) bekezdésében és a 84. § (4) bekezdésében foglalt esetben a pénztártag egyéni számlaegyenlege visszalépő tagi kifizetésekkel csökkentett összegének a Nyugdíjbiztosítási Alap részére történő átutalását megelőző nappal
 
 szűnik meg.
 

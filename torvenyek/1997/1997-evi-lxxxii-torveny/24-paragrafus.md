@@ -12,9 +12,9 @@ az átadó pénztár az átlépés tényleges költségeinek fedezetére a tag k
 
 (4)–(6)
 
-(7) A 23. § (1) bekezdés d) pontja szerinti esetben a társadalombiztosítási nyugdíjrendszerbe történő visszalépési szándékáról a pénztártag a társadalombiztosítási nyugdíjigény benyújtásával egyidejűleg írásban nyilatkozik a nyugdíjbiztosítási igazgatási szerv részére. A nyugdíjbiztosítási igazgatási szerv a benyújtást követően írásban értesíti az érintett magánnyugdíjpénztárat a pénztártag visszalépési szándékának bejelentéséről és a nyugdíj megállapításának kezdő időpontjáról, valamint a megállapítást követően a társadalombiztosítási nyugellátás összegének a Tny. 12. § (7) bekezdése alapján számított összegéről. A nyugdíjbiztosítási igazgatási szervnek a társadalombiztosítási nyugellátás összegéről szóló értesítését követően a magánnyugdíjpénztár haladéktalanul, írásban tájékoztatja a pénztártagot az egyéni számlakövetelés alapján számított életjáradék várható összegéről. Amennyiben a pénztártag a visszalépésről dönt, a pénztárhoz benyújtja visszalépési kérelmét, melyet az haladéktalanul továbbít a nyugdíjbiztosítási igazgatási szerv részére. A visszalépési kérelem a nyugdíjigény elbírálása tárgyában hozott első fokú határozat közlését követő legfeljebb 30 napon belül nyújtható be.
+(7)
 
-(8) A társadalombiztosítási nyugellátás összegének – a Tny. 12. §-a (6) bekezdésén alapuló – megállapításáról a nyugdíjbiztosítási igazgatási szerv értesíti a magánnyugdíjpénztárat. A pénztár a tag tagdíj-kiegészítéssel csökkentett követelését a Tbj. 45. § (4) bekezdésében foglaltak szerint köteles átutalni a Nyugdíjbiztosítási Alap részére.
+(8)
 
 (9)
 

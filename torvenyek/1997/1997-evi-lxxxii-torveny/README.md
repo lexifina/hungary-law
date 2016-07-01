@@ -35,3 +35,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-82-00-00
 | 2015-07-07 | 2015. évi LXXXV. törvény | 1997-82-00-00.64 |
 | 2015-09-01 | 2015. évi CV. törvény | 1997-82-00-00.65 |
 | 2016-01-01 | 2014. évi LXXXVIII. törvény | 1997-82-00-00.66 |
+| 2016-07-01 | 2016. évi LIII. törvény | 1997-82-00-00.67 |

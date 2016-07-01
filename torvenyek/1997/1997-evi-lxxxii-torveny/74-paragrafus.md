@@ -18,6 +18,6 @@ a) a vagyonkezelő nem rendelkezik a vagyonkezelési tevékenység végzéséhez
 
 b) a vagyonkezelési szerződés nem tartalmazza az (1) bekezdésben foglaltakat.
 
-(4) A vagyonkezelési tevékenység szerződésben megállapított ellenértékének kereskedési költségek (jutalékok) nélkül számított éves összege 2009. és 2010. évben nem haladhatja meg a kezelésre átadott vagyon(rész) napi bruttó piaci értékei számtani átlagának 0,8 százalékát, 2011. évtől 0,2 százalékát. Az előzőekben meghatározottaknál magasabb ellenérték kikötése semmis.
+(4) A vagyonkezelési tevékenység szerződésben megállapított ellenértékének kereskedési költségek (jutalékok) nélkül számított éves összege 2009. és 2010. évben nem haladhatja meg a kezelésre átadott vagyon(rész) napi bruttó piaci értékei számtani átlagának 0,8 százalékát, 2011. évtől 0,2 százalékát. Az előzőekben meghatározottaknál magasabb ellenérték kikötése semmis. A pénztár költségként a tagok egyéni számlája tárgyévet megelőző év utolsó napján fennálló egyenlegének 0,3 százalékát számolhatja el, abban az esetben, ha a vagyonkezelési tevékenység ellenértékét ebbe a költségbe beszámítja.
 
 (5) A (4) bekezdésben foglaltakat nem kell alkalmazni, ha a pénztár nyilvántartásba vétele a tárgyévben, vagy az azt megelőző három naptári évben történt.

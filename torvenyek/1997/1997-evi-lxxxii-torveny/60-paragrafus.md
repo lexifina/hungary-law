@@ -4,7 +4,7 @@
 
 (3) A likviditási tartalék bevételei:
 
-a) tagok által fizetett tagdíj, valamint az ideiglenesen (gyes, gyed, sorkatonai szolgálat stb. miatt) munkajövedelemmel nem rendelkező tag részére befizetett tagdíj célú támogatás az SzMSz-ben vagy a pénzügyi tervben meghatározott része,
+a) tagok által fizetett tagdíj, valamint az ideiglenesen (gyes, gyed, sorkatonai szolgálat stb. miatt) munkajövedelemmel nem rendelkező tag részére befizetett tagdíj célú támogatás az SzMSz-ben és a pénzügyi tervben meghatározott része,
 
 b)
 

@@ -2,7 +2,7 @@
 
 (2) A működéssel kapcsolatos bevételek:
 
-a) tagok által fizetett tagdíj, valamint az ideiglenesen (gyes, gyed, sorkatonai szolgálat stb. miatt) munkajövedelemmel nem rendelkező tag részére befizetett tagdíj célú támogatásnak az SzMSz-ben vagy a pénzügyi tervben meghatározott része,
+a) tagok által fizetett tagdíj, valamint az ideiglenesen (gyes, gyed, sorkatonai szolgálat stb. miatt) munkajövedelemmel nem rendelkező tag részére befizetett tagdíj célú támogatásnak az SzMSz-ben és a pénzügyi tervben meghatározott része,
 
 b)
 
@@ -16,7 +16,7 @@ f) vagyonkezelő, ingatlanfejlesztést, ingatlanüzemeltetést, ingatlankezelés
 
 g) az adminisztrációs és nyilvántartási, járadékszolgáltatási feladatokat ellátó szervezetben meglévő részesedésből származó, a működésre fordítható bevétel,
 
-h) egyéb működésre fordítható bevételek.
+h) egyéb működésre fordítható bevételek, valamint a 74. § (4) bekezdés szerinti költségnek a vagyonkezelési tevékenység ellenértékét meghaladó része.
 
 (3) A működéssel kapcsolatos költségek, ráfordítások között kell elszámolni:
 
