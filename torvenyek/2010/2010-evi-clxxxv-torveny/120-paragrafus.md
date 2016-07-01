@@ -20,6 +20,6 @@ delegál.
 
 (7) A megüresedett helyet az erre jogosult szerv vagy személy harminc napon belül köteles betölteni.
 
-(8) Az NHIT elnöke, alelnöke és tagja lehet kormánytisztviselő vagy köztisztviselő.
+(8) Az NHIT elnöke, alelnöke és tagja lehet kormánytisztviselő, állami tisztviselő vagy köztisztviselő.
 
 (9) Az NHIT elnöke az államtitkár illetménye hatvanöt százalékának megfelelő mértékű, az NHIT alelnöke az államtitkár illetménye hatvan százalékának megfelelő mértékű, míg az NHIT tagja az államtitkár illetménye ötvenöt százalékának megfelelő mértékű tiszteletdíjban részesül kinevezésétől megbízatása megszűnéséig, továbbá az elnök, az alelnök és a tagok költségtérítésre jogosultak.
