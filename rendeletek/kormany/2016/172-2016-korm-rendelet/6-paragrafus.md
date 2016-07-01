@@ -1,0 +1,5 @@
+## 5. § Az Ebtv.vhr. 11/C. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+
+## „(3) Az OEP a kérelmet érdemi vizsgálat nélkül elutasító végzését, az eljárást megszüntető végzését, továbbá a határozatát közli a beavatkozást elvégző egészségügyi szolgáltatóval és – ha ismert – a kezelőorvossal.
+
+## (4) A biztosított által fizetendő térítési díj átvállalására kizárólag az OEP egyedi méltányossági határozata alapján kerülhet sor az abban foglalt feltételek teljesülése esetén. Az átvállalt térítési díj összegét az OEP a beavatkozás elvégzése után, a kórházi zárójelentés, ambuláns lap, kórtörténeti összefoglaló vagy az engedélyezett ellátás jellegéből adódóan szükséges egyéb dokumentum, valamint a beavatkozás, illetve a felhasználásra került anyag, eszköz költségét igazoló számla – szolgáltató által történő – megküldését követően utalványozza az egészségügyi szolgáltató részére. A számlának tartalmaznia kell a biztosított nevét, TAJ-át, valamint a beavatkozás időpontját és az azt végző orvos aláírását, pecsétjét.”

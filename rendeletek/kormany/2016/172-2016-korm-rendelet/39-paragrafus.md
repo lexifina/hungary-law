@@ -1,0 +1,3 @@
+## 38. § A Kutatás R. 21. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Ha az ellenőrzés során megállapítást nyer, hogy a beavatkozással nem járó vizsgálat folytatása nem felel meg az engedélyben, a vizsgálati tervben, illetve az emberen végzett orvostudományi kutatásokról szóló miniszteri rendeletben foglalt feltételeknek, a 17. § (1) bekezdés a) pont aa) alpontjában említett vizsgálatok és kutatások esetében az OTH, a 17. § (1) bekezdés a) pont ab) alpontjában említett vizsgálatok és kutatások esetében az ETT TUKEB, a 16. § b) pontjában említett vizsgálat esetében az ENKK, a 16. § c) pontjában említett vizsgálat esetében az OGYÉI a beavatkozással nem járó vizsgálatot haladéktalanul felfüggeszti vagy megszünteti.”

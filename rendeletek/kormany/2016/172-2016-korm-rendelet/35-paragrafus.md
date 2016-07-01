@@ -1,0 +1,3 @@
+## 34. § Az emberen végzett orvostudományi kutatások, az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló 235/2009. (X. 20.) Korm. rendelet (a továbbiakban: Kutatás R.) 11. §-a a következő (3a) bekezdéssel egészül ki:
+
+## „(3a) Ha a kutatási terv lényeges módosítása a 7. §-ban felsoroltakat is érinti, az etikai bizottság a módosított vizsgálati terv tekintetében is külön szakhatósági állásfoglalást ad ki.”

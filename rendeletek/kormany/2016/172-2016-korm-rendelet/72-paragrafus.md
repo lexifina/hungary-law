@@ -1,0 +1,1 @@
+## „(1a) A háziorvostan szakképzésben részt vevő rezidens azon gyakorlati elemeket, amelyekre az egyetem akkreditált, az egyetemtől eltérő képzőhelyen az egyetem engedélyével abban az esetben töltheti, ha lakóhelyére vagy tartózkodási helyére figyelemmel a szakképzés egyes elemeinek letöltése más akkreditált egészségügyi szolgáltatónál számára kedvezőbb.”

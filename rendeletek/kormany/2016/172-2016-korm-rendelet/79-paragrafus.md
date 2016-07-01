@@ -1,0 +1,1 @@
+## 78. § A természetes fürdővizek minőségi követelményeiről, valamint a természetes fürdőhelyek kijelöléséről és üzemeltetéséről szóló 78/2008. (IV. 3.) Korm. rendelet 7. melléklet 6. pontjában a „díjmentesen” szövegrész helyébe az „azon kijelölt természetes fürdőhelyek esetében, ahol a belépés belépődíj ellenében lehetséges, díjmentesen” szöveg lép.

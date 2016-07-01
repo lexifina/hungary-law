@@ -1,0 +1,1 @@
+## „(7) Ha az OEP ellenőrzése során megállapítja, hogy a fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltató jogosulatlanul vette igénybe vagy használta fel a kiutalt támogatási összeget, a jogosulatlanul igénybe vett vagy felhasznált támogatást a tárgyhónapot követő hónapban esedékes támogatási összegből levonja.”

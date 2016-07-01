@@ -1,0 +1,1 @@
+## „(8) Az OEP a munkáltató által igényelt, de a bérnövekedés biztosítására fel nem használt támogatási összeget a (7) bekezdés szerinti elszámolási időpontot követően esedékes támogatási összegből levonja.”
