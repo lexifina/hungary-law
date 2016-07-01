@@ -16,7 +16,7 @@ b) a regionális tisztifőorvos számára megállapított hatásköröket a megy
 
 c)[^119] a regionális tisztifőgyógyszerész számára megállapított hatásköröket a megyei, illetve fővárosi tisztifőgyógyszerész
 
-## gyakorolja.
+gyakorolja.
 
 (5)[^120] Az (1) és (2) bekezdéstől eltérően a korábban a regionális intézetek által végzett egyes feladatok részleges átvevője az alapító okirat szerint az OTH, melynek tekintetében a számára jogszabályban megállapított feladat- és hatáskörök és a feladatellátáshoz kapcsolódó jogviszonyokat illetően a regionális intézet jogutódjának tekintendő.
 

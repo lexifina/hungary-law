@@ -1,5 +1,3 @@
-## 24. §
-
 ## 12. A gyógyszerészeti államigazgatási szerv eljárásában szakhatóságként közreműködő szervek
 
 ## 25. § A Kormány

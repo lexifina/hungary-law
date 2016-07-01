@@ -16,7 +16,7 @@ a)[^92] 15. § (1)–(3a), (7) és (8a) bekezdése alkalmazásában az érintett
 
 b)[^93]
 
-## jelöli ki.
+jelöli ki.
 
 (5)[^94] Egészségügyi államigazgatási szervként a Kormány a tevékenység végzésének helye szerint járási hivatalt jelöli ki a Kbtv.
 
@@ -24,7 +24,7 @@ a) 29. § (1) bekezdésének,
 
 b) 32. § (1) bekezdés a) pontjának
 
-## alkalmazásában.
+alkalmazásában.
 
 (6)[^95]
 

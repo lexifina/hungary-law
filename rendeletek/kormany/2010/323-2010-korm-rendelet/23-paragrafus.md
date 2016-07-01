@@ -46,7 +46,7 @@ d) az engedélyezett, illetőleg a regisztrált biocid termék további forgalma
 
 e) a biocid termék vagy biocid termékben való felhasználásra szánt hatóanyag kísérlet vagy vizsgálat céljára történő forgalomba hozatalának és felhasználásának engedélyezése iránti eljárásban
 
-## a biocid termék és hatóanyaga, valamint a nem hatóanyag anyagainak a nem cél élő szervezetekre gyakorolt ökotoxikológiai hatásának vizsgálata, továbbá az anyagok környezeti sorsának és viselkedésének vizsgálata kérdésében az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
+a biocid termék és hatóanyaga, valamint a nem hatóanyag anyagainak a nem cél élő szervezetekre gyakorolt ökotoxikológiai hatásának vizsgálata, továbbá az anyagok környezeti sorsának és viselkedésének vizsgálata kérdésében az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőséget szakhatóságként jelöli ki.
 
 (8) A Kormány a sírhely hamvasztáshoz szükséges megnyitására vonatkozó engedélyezési eljárásban, külön jogszabályban meghatározott rendkívüli halálesetkor és az eltemetéstől számított 25 éven belül – annak elbírálására, hogy a rendkívüli halálesethez kapcsolódó nyomozási feladatok a hamvasztást követően biztosíthatók-e –, első fokú eljárásban az elhalálozás helye szerint illetékes rendőrkapitányságot, másodfokú eljárásban az elhalálozás helye szerint illetékes rendőr-főkapitányságot szakhatóságként jelöli ki.
 

@@ -1,4 +1,4 @@
-## 18/A. §[^83]
+## 18/A. §[^83] A Kormány népegészségügyi szervként az OGYÉI-t, az iskolai egészségfejlesztési programok tekintetében a Nemzeti Egészségfejlesztési Intézetet jelöli ki a népegészségügyi termékadóról szóló 2011. évi CIII. törvény 1. § 19. pontjában meghatározott feladat ellátására.
 
 ## 9. Hatósági eljárás, illetékesség
 
@@ -12,7 +12,9 @@ b)[^86] ha első fokon a kormányhivatal, kirendeltség vagy – ha jogszabály 
 
 c) amennyiben első fokon az országos tisztifőorvos járt el, a külön jogszabály szerinti jogorvoslati hatóság
 
-[^83]: A 18/A. §-t a 325/2011. (XII. 28.) Korm. rendelet 82. §-a iktatta be, hatályon kívül helyezte a 30/2015. (II. 25.) Korm. rendelet 56. § e) pontja.
+hatáskörébe tartozik.
+
+[^83]: A 18/A. §-t újonnan a 172/2016. (VII. 1.) Korm. rendelet 43. §-a iktatta be.
 [^84]: A 19. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés e) pontja szerint módosított szöveg.
 [^85]: A 19. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés a) és e) pontja szerint módosított szöveg.
 [^86]: A 19. § (2) bekezdés b) pontja a 364/2014. (XII. 30.) Korm. rendelet 89. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés a) pontja szerint módosított szöveg.

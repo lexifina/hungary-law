@@ -18,6 +18,8 @@ g)[^69] az Eüak. 16/A. § (2)–(4) bekezdése,
 
 h) az Eüak. 19. § (1) és (2) bekezdése
 
+szerinti feladatok ellátására.
+
 [^65]: A 13. § nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés b) pontja szerint módosított szöveg.
 [^66]: A 13. § (6) bekezdés b)–c) pontját a 325/2011. (XII. 28.) Korm. rendelet 87. § f) pontja hatályon kívül helyezte.
 [^67]: A 13. § e) pontja a 137/2012. (VI. 29.) Korm. rendelet 65. §-ával megállapított szöveg.

@@ -2,8 +2,8 @@
 
 (2) Az (1) bekezdés szerinti esetben az engedély iránti kérelemhez mellékelni kell a környezeti hatások jelentőségének vizsgálatára szolgáló – a Khvr.-ben meghatározott – adatlapot.
 
-(3)[^102] Az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján az eljárást felfüggeszti, ha az eljárásban a környezetvédelmi és természetvédelmi hatáskörében eljáró kormányhivatal szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek. A felfüggesztésről szóló végzésnek tartalmaznia kell a szakhatóságként eljáró környezetvédelmi és természetvédelmi hatáskörében eljáró kormányhivatal megnevezését, valamint állásfoglalása rendelkező részét és indokolását.
+(3)[^102] Az OGYÉI a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alapján az eljárást felfüggeszti, ha az eljárásban a környezetvédelmi és természetvédelmi hatáskörében eljáró kormányhivatal szakhatósági állásfoglalásában megállapította, hogy a tevékenység várható környezeti hatásai jelentősek. A felfüggesztésről szóló végzésnek tartalmaznia kell a szakhatóságként eljáró környezetvédelmi és természetvédelmi hatáskörében eljáró kormányhivatal megnevezését, valamint állásfoglalása rendelkező részét és indokolását.
 
 [^100]: A 25/A. §-t a 82/2011. (V. 18.) Korm. rendelet 61. §-a iktatta be.
 [^101]: A 25/A. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés f) pontja szerint módosított szöveg.
-[^102]: A 25/A. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés g) pontja szerint módosított szöveg.
+[^102]: A 25/A. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 164. § (13) bekezdés g) pontja, a 172/2016. (VII. 1.) Korm. rendelet 44. § b) pontja szerint módosított szöveg.
