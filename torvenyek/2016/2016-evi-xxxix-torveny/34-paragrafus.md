@@ -1,3 +1,0 @@
-34. § A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 9. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az idegenrendészetért és menekültügyért felelős miniszter, a külpolitikáért felelős miniszter, a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, valamint a polgári hírszerzési tevékenység irányításáért felelős miniszter által – a közbiztonság és a nemzetbiztonság védelme, valamint a Vízumkódexben meghatározottak szerint a migrációs kockázatértékelés, a visszaélések és csalások megelőzése és kiszűrése érdekében – meghatározott esetekben a kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízum csak a központi vízumhatóság hozzájárulásával adható ki.”
