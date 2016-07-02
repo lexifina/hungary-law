@@ -1,1 +1,1 @@
-23. § A Ptk. 3:186. § (1) bekezdés b) pontjában és a 3:263. § (1) bekezdés b) pontjában „az utolsó beszámoló szerinti üzleti év könyveinek lezárása óta kimutatott, az előző üzleti évi” szövegrész helyébe „a közbenső mérlegben kimutatott” szöveg lép.
+23. §
