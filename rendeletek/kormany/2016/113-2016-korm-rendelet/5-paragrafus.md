@@ -1,3 +1,0 @@
-## 4. § Az R2. a következő 15. §-sal egészül ki:
-
-## „15. § Az úti okmánya elvesztését, eltulajdonítását, megsemmisítését bejelentő harmadik ország állampolgárságával rendelkező családtag elvesztett, eltulajdonított, megsemmisült úti okmányában található kilencven napot meg nem haladó, tervezett tartózkodásra jogosító érvényes vízumát a harmadik ország állampolgárságával rendelkező családtag kérelmére az illetékes konzuli tisztviselő vagy magyarországi tartózkodás esetén a tartózkodási helye szerint illetékes regionális igazgatóság az érvényes úti okmányában haladéktalanul, legkésőbb a kérelem előterjesztésétől számított 2 napon belül az eredeti vízumbélyegen szereplő adatokkal pótolja.”

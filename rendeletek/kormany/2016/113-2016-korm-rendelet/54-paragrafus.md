@@ -1,5 +1,3 @@
-## „(8) Ha a jogerős döntéssel visszavont vagy megsemmisített vízumokmány Hivatal általi körözése indokolt és a visszavonásáról vagy megsemmisítésről a konzuli tisztviselő, a külpolitikáért felelős miniszter vagy a Rendőrség döntött, annak a nyilvántartásba történő bejegyzéséről a döntést hozó hatóság értesítése alapján a harmadik országbeli állampolgár által a vízumkérelemben megjelölt szálláshely szerint illetékes regionális igazgatóság gondoskodik.
+## 52–53. §[^21]
 
-## (9) Ha az (1) bekezdésben foglalt bejelentés a konzuli tisztviselőnél történik, a harmadik országbeli állampolgár a tartózkodásra jogosító engedély pótlása iránti kérelmet a konzuli tisztviselőnél is előterjesztheti. A konzuli tisztviselő a kérelmet haladéktalanul felterjeszti az okmányt kiállító regionális igazgatósághoz.
-
-## (10) Ha a regionális igazgatóság a tartózkodásra jogosító okmány pótlása iránti kérelemnek helyt ad, egyidejűleg tartózkodási engedély átvételére jogosító vízum kiadását is engedélyezi és erről értesíti a konzuli tisztviselőt. A tartózkodási engedély átvételére jogosító vízumot – a regionális igazgatóság döntése alapján – a konzuli tisztviselő adja ki.”
+[^21]: Az 52–53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

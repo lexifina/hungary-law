@@ -1,1 +1,3 @@
-## „(4) A Magyarország területén tartózkodó harmadik országbeli állampolgár tartózkodási engedély kiadása iránti kérelmét a szálláshelye szerint illetékes regionális igazgatóságon terjesztheti elő a Tv. 17/A. §-ban foglaltak szerint.”
+## 19–26. §[^7]
+
+[^7]: A 19–26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

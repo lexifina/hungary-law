@@ -1,3 +1,3 @@
-## 27. §[^3]
+## 27. §[^8]
 
-[^3]: A 27. § a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
+[^8]: A 27. § a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
