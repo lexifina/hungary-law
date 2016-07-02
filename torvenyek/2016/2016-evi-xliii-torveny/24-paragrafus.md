@@ -1,3 +1,0 @@
-24. § Az Eht. 150. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A szolgáltató, amelynek előfizetője az előfizetői szerződés megszüntetését – vagy egyes hívószámok esetében módosítását – követően a hívószámát egy másik szolgáltatóhoz viszi át (a továbbiakban: átadó szolgáltató), azzal a szolgáltatóval, amelynek bármely jövőbeni előfizetője az előfizetői szerződés megkötésének keretében számát egy másik szolgáltatótól hozza át (a továbbiakban: átvevő szolgáltató), köteles hálózati szerződés keretében a számhordozhatóság feltételeiről megállapodni, amennyiben az átvevő szolgáltató az átadó szolgáltatónak az ezen szerződésekre irányadó elektronikus hírközlésre vonatkozó szabályoknak megfelelő ajánlatot tesz.”
