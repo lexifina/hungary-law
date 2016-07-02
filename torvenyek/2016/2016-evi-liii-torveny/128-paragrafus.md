@@ -1,3 +1,0 @@
-128. § A Hpt. 226. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az OBA tevékenységének operatív irányítását az ügyvezető, a Befektető-védelmi Alappal kapcsolatos operatív feladatok irányítását az ügyvezető helyettese látja el. Az ügyvezető igazgató-helyettes által irányított, elkülönített munkaszervezetben feladatokat ellátó munkavállalók kivételével az ügyvezető gyakorolja az OBA alkalmazottai felett a munkáltatói jogokat. Az ügyvezető igazgató-helyettes által irányított, elkülönített munkaszervezetben feladatokat ellátó munkavállalók feletti munkáltatói jogokat az ügyvezető igazgató-helyettese gyakorolja.”

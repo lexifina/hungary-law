@@ -1,3 +1,1 @@
-34. § A Tpt. 35. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-„(5) A forgalomba hozatali eljárás lezárásáig, illetve a szabályozott piacon a kereskedés megkezdéséig a kereskedelmi kommunikációt a Felügyelethez a nyilvánosságra hozatalával egyidejűleg be kell nyújtani. A Felügyelet a kereskedelmi kommunikáció nyilvánosságra hozatalát, illetve további nyilvános közlését megtiltja, ha annak tartalma ellentétes vagy félrevezető információt tartalmaz a benyújtott, illetve közzétételre engedélyezett tájékoztatóban foglaltakhoz képest, vagy egyébként a tisztességtelen kereskedelmi gyakorlat Fttv.-ben meghatározott tilalmába ütközik.”
+34. §

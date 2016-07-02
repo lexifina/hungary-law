@@ -1,5 +1,0 @@
-111. § Az MNBtv. 54. alcíme a következő 183/H. §-sal egészül ki:
-
-„183/H. § (1) Az e törvény – a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvénnyel megállapított – 58. § (2) bekezdésében meghatározott szervezetek legkésőbb 2017. január 1-jéig kötelesek az elektronikus kapcsolattartással érintett egyéb ügyekben a szervezet és az MNB között elektronikus kapcsolattartás rendjére, módjára, tartalmára és formájára, továbbá az MNB által működtetett kézbesítési tárhely működtetésére és használatára vonatkozó részletes szabályokat tartalmazó rendeletben meghatározott követelményeknek eleget tenni, az ehhez szükséges regisztrációt elvégezni.
-
-(2) Az e törvény – a pénzügyi közvetítőrendszert érintő egyes törvények módosításáról szóló 2016. évi LIII. törvénnyel megállapított – 58. § (2) bekezdésében meghatározott szervezetek az (1) bekezdésben meghatározott rendelet követelményeinek való megfelelést és az ehhez szükséges regisztrációt követően, de legkésőbb 2017. január 1-jétől kötelesek elektronikus kapcsolattartásra.”

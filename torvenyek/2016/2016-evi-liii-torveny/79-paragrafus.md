@@ -1,1 +1,0 @@
-79. § Hatályát veszti a Gfbt. 34. § (1) bekezdés c) pontjában az „(alkoholos befolyásoltságnak tekinthető a 0,8 ezreléket meghaladó véralkoholszint, illetve a 0,5 mg/l értéket meghaladó légalkohol szint)” szövegrész.
