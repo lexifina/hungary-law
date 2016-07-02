@@ -1,3 +1,0 @@
-## 16. § Az R5. 76. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A honvéd tisztjelölt a Hvt. 36. § (1) bekezdés h) pontja szerinti feladat végrehajtásáért a feladatban való folyamatos részvételének 15. napjától kezdődő időszakra pótlékra jogosult. A pótlék mértékére a Hjt. 8. melléklet I. A honvéd tisztjelölt ösztöndíja alcím IV. pontját kell alkalmazni. A pótlék alapját képező tevékenység nyilvántartására, valamint a pótlék megállapítására a (3) bekezdésben foglaltakat kell alkalmazni azzal, hogy katasztrófavédelemmel összefüggő feladat alatt a Hvt. 36. § (1) bekezdés h) pontja szerinti feladatot kell érteni.”

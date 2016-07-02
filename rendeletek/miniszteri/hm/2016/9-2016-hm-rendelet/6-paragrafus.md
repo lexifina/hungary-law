@@ -1,3 +1,0 @@
-## 5. § A külföldi szolgálatot teljesítők egyes járandóságairól szóló 18/2013. (IX. 5.) HM rendelet (a továbbiakban: R3.) 35. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A 15–17. §-t, a 18. § (1) bekezdés személyi ingóságra vonatkozó rendelkezéseit, a 18. § (2) bekezdés a) és d) pontját, a 18. § (3) bekezdés a) pontjának és (4) bekezdésének személyi ingóságra vonatkozó rendelkezéseit, a 18. § (5) bekezdését, a 25. §-t, a 26. §-t akkor kell alkalmazni, ha az EU-beosztást betöltő részére az EU hasonló juttatást nem biztosít. Ez esetben a 30. §-t is alkalmazni kell azzal az eltéréssel, hogy az utazási előleg összege 6000 EUR, amit legkésőbb a folyósítást követő 12 hónapon belül kell a Honvédség részére visszatéríteni.”

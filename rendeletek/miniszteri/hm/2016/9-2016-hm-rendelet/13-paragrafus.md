@@ -1,1 +1,0 @@
-## „b) nem végezte el a különleges műveleti alaptanfolyamot, de a beosztása ellátásából adódóan rendszeresen részt vesz a 34. BL KMZ alapfeladatához kötődő tevékenység támogatásában és szerepel a (2) bekezdés szerinti jegyzékben.”
