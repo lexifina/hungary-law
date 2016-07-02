@@ -1,3 +1,0 @@
-35. § Az Eütev. a következő 34. §-sal egészül ki:
-
-„34. § Az egyes egészségügyet érintő törvények módosításáról szóló 2016. évi XXXIV. törvénnyel megállapított 15/A. §-ban foglaltakat az egészségügyi felsőfokú szakirányú szakképzésüket 2015. július 1-jét követően megkezdőkre kell alkalmazni.”
