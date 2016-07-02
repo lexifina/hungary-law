@@ -1,3 +1,0 @@
-185. § Az Art. 164. §-a a következő (2a) bekezdéssel egészül ki:
-
-„(2a) Ha bíróság az adómegállapításhoz való jog elévülési idején túl az adózó adókötelezettségét érintő jogerős döntést hoz, az adózó az adókötelezettsége rendezése érdekében a már elévült adómegállapítási időszak tekintetében is jogosult önellenőrzés benyújtására. Az önellenőrzéssel érintett kötelezettség ellenőrzésére az adóhatóság az önellenőrzés beérkezésétől számított egy éven belül jogosult. Ha a bíróság ítéletével érintett adómegállapítási időszak már ellenőrzéssel lezárt, az adókötelezettséget az adóhatóság az adózó kérelmére ismételt ellenőrzés keretében rendezi.”

@@ -1,3 +1,1 @@
-188. § Az Art. 174/A. § a következő (3) bekezdéssel egészül ki:
-
-„(3) Ha az adózó a beszámoló letétbehelyezési, illetve közzétételi kötelezettségét az adószám e § szerinti törléséről szóló határozat kiadmányozásáig teljesíti, akkor az adószám törlését elrendelő határozat kiadmányozásának nincs helye. Amennyiben az adózó az adószám törlését elrendelő határozat kiadmányozását követően, annak jogerőre emelkedéséig teljesíti a beszámoló letétbehelyezési, illetve közzétételi kötelezettségét vagy annak teljesítéséről az állami adó- és vámhatóság a kiadmányozást követően szerez tudomást, az állami adó- és vámhatóság a határozatot visszavonja.”
+188–191. §

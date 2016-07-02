@@ -4,6 +4,6 @@
 
 1–3.
 
-4. 52. § 22. pont a) alpontjában a „társasági adóról és az osztalékadóról szóló törvény szerinti” szövegrész,
+4.
 
 5.
