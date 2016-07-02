@@ -1,3 +1,1 @@
-67. § Az Ekt. 21. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) A munkaviszonyban, közalkalmazotti, közszolgálati, kormányzati szolgálati, állami szolgálati vagy igazságügyi alkalmazotti szolgálati jogviszonyban álló (a továbbiakban együtt: foglalkoztatott) kamarai tag által elkövetett etikai vétség gyanúja esetén a területi szervezet etikai bizottsága a munkáltatót írásban értesíti. A munkáltató az álláspontjáról, valamint a megtett intézkedéséről a kamarát köteles 30 napon belül, de legkésőbb – ha annak külön törvény szerint helye van – a fegyelmi eljárás lefolytatására irányadó határidő lejártát követő 5 napon belül tájékoztatni.”
+### 67. §

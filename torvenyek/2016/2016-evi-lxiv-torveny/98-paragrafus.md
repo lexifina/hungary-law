@@ -1,5 +1,3 @@
 ## 59. Az államháztartásról szóló 2011. évi CXCV. törvény módosítása
 
-98. § Az államháztartásról szóló 2011. évi CXCV. törvény 11/F. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az állami feladat átvétele miatt bekövetkező jogállásváltozás (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás) esetén, ha a munkavállaló a közalkalmazottak jogállásáról szóló törvény, a közszolgálati tisztviselőkről szóló törvény, az állami tisztviselőkről szóló törvény, a honvédek jogállásáról szóló törvény vagy a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény (ezen alcím alkalmazásában a továbbiakban: jogállási törvény) hatálya alá tartozó átvevő költségvetési szervhez kerül, a munkaviszonya – a (3)–(4), (6) és a (10) bekezdésben foglalt kivétellel – az állami feladat átvételének időpontjában (ezen alcím alkalmazásában a továbbiakban: jogállásváltozás időpontja) közalkalmazotti, kormányzati szolgálati, állami szolgálati, hivatásos szolgálati vagy szerződéses szolgálati jogviszonnyá alakul át.”
+### 98. §

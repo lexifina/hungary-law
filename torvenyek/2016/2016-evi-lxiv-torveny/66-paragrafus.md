@@ -1,5 +1,1 @@
-66. § Az Ekt. 14/A. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(3) Aki egészségügyi tevékenységet közszolgálati, kormányzati szolgálati, állami szolgálati jogviszony keretében eljárva, nem kizárólag egészségügyi képesítéshez kötött munkakörben végez, kérheti kamarai tagsága szüneteltetését, vagy – amennyiben kamarai tagsággal nem rendelkezik – e jogviszonya keretében az egészségügyi tevékenységet kamarai tagság nélkül is végezheti. Ha a közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonyban álló személy további – nem közszolgálati, kormányzati szolgálati, állami szolgálati – jogviszonyban is egészségügyi tevékenységet végez vagy kíván végezni, e további jogviszonyában az egészségügyi tevékenység végzésének feltétele a kamarai tagság. Ez utóbbi esetben a közszolgálati, kormányzati szolgálati, állami szolgálati jogviszony keretében végzett egészségügyi tevékenységgel összefüggésben valamennyi kamarai tagságból eredő jog és kötelezettség szünetel.
-
-(4) A (3) bekezdésben foglaltaktól eltérően az, akinek közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonyban munkaköri feladatai körébe tartozik a szakmai kamara véleményezési jogával érintett jogszabály, illetve egyéb döntés meghozatala vagy érdemi előkészítése, e jogviszonya fennállása alatt kamarai tagsága e törvény erejénél fogva szünetel.”
+### 66. §

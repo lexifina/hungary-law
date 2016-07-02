@@ -1,3 +1,1 @@
-103. § Az Ogytv. 97. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A képviselői megbízatás időtartama – ideértve a képviselői megbízatás megszűnését követően biztosított ellátás időtartamát is – a társadalombiztosítás ellátásaira való jogosultság szempontjából heti 40 órás foglalkoztatással járó munkaviszonyban töltött időnek, illetve nyugdíjra jogosító szolgálati időnek számít. A munkaviszonyt a kormányzati szolgálati, állami szolgálati, közszolgálati, közalkalmazotti, valamint bírói és ügyészségi szolgálati jogviszony számításánál e jogviszonyban töltött szolgálati időnek kell beszámítani. A munkaviszonyt a honvédek jogállásáról szóló törvény, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati jogviszony számításánál e szolgálati jogviszonyban töltött szolgálati időnek kell beszámítani.”
+### 103. §

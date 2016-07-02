@@ -1,5 +1,3 @@
 ## 60. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény módosítása
 
-99. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 71. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A MAB-nak húsz tagja van. Kilenc tagot delegál a miniszter, kettő tagot a Magyar Tudományos Akadémia, egy tagot a Magyar Művészeti Akadémia, három tagot a Magyar Rektori Konferencia, kettő tagot a felsőoktatási intézményt fenntartó egyházi jogi személyek, egy tagot a Magyar Kereskedelmi és Iparkamara, egy tagot a Hallgatói Önkormányzatok Országos Konferenciája, egy tagot a Doktoranduszok Országos Szövetsége. A tagoknak – a Doktoranduszok Országos Szövetsége és a Hallgatói Önkormányzatok Országos Konferenciája által delegált tag kivételével – tudományos fokozattal kell rendelkezniük. A delegálók a delegálás során egyeztetni kötelesek a nagyobb tudományterületek arányos képviselete érdekében. Nem lehet a MAB tagja, aki a Felsőoktatási Tervezési Testület tagja, rektor, kancellár, közszolgálati tisztviselő, kormánytisztviselő vagy állami tisztviselő.”
+### 99. §

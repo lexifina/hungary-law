@@ -1,7 +1,3 @@
 ## 37. A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény módosítása
 
-68. § A foglalkoztatói nyugdíjról és intézményeiről szóló 2007. évi CXVII. törvény 2. § 23. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában)
-
-„23. munkaviszony: a munka törvénykönyvéről szóló törvény (a továbbiakban: Mt.) szerinti munkaviszony, továbbá minden olyan, munkavégzésre irányuló jogviszony, amelyre külön törvény szerint az Mt. rendelkezéseit is alkalmazni kell; munkaviszony e törvény alkalmazásában továbbá a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati szolgálati jogviszony és a közszolgálati jogviszony, az állami tisztviselőkről szóló törvény szerinti állami szolgálati jogviszony, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény szerinti közalkalmazotti jogviszony, az ügyészségről szóló 2011. évi CLXIII. törvény szerinti ügyészségi szolgálati viszony, a bírák jogállásáról és javadalmazásáról szóló 2011. évi CLXII. törvény szerinti szolgálati viszony, az igazságügyi alkalmazottak szolgálati jogviszonyáról szóló 1997. évi LXVIII. törvény szerinti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti szolgálati viszony, a honvédek jogállásáról szóló törvény szerinti szolgálati viszony; e törvény alkalmazásában az egyházi személyt is munkaviszonyban állónak kell tekinteni;”
+### 68. §

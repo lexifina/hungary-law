@@ -1,3 +1,1 @@
-70. § A Vnyt. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Annak, aki vagyonnyilatkozat-tételi kötelezettségének a teljesítését megtagadja, a vagyonnyilatkozat-tételi kötelezettséget megalapozó megbízatását vagy jogviszonyát – az arra vonatkozó, külön jogszabályban meghatározott megszüntetési okoktól függetlenül – meg kell szüntetni, és a jogviszony megszűnésétől számított három évig közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonyt nem létesíthet, valamint az e törvény szerinti vagyonnyilatkozat-tételi kötelezettséget megalapozó munkakört, feladatkört, tevékenységet vagy beosztást nem láthat el.”
+### 70. §
