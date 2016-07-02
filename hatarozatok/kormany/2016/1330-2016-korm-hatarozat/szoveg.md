@@ -32,4 +32,6 @@ d) közreműködik a mozgóképszakmát érintő kormány-előterjesztések elő
 
 8. Ez a határozat 2016. július 1-jén lép hatályba.
 
-9. Hatályát veszti a nemzeti filmipar fejlesztéséért felelős kormánybiztos kinevezéséről és feladatairól szóló 1360/2014. (VI. 30.) Korm. határozat.
+9.[^2]
+
+[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
