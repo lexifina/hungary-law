@@ -1,8 +1,8 @@
-3. §[^9] (1) Az üzemeltető a harmadik kereskedési időszakban minden tárgyévet követő év január 20-ig
+3. §[^21] (1) Az üzemeltető a harmadik kereskedési időszakban minden tárgyévet követő év január 20-ig
 
 a) a létesítmény kapacitásával, tevékenységi szintjével és működésével kapcsolatos, az Ügkr. tv. 2. § 13., 40. és 41. pontjában foglaltaknak megfelelő jelentős, a tárgyévben bekövetkezett tényleges változásról akkreditált hitelesítő szervezet által hitelesített formanyomtatvány benyújtásával,
 
-b) az Ügkr. tv. 2. § 12., 13., 40. és 41. pontjában foglaltaknak megfelelő, továbbá a 12. § (1) bekezdése szerinti, a tárgyévet követő évre vonatkozó bármely tervezett változásról cégszerű aláírással ellátva, írásban, postai úton, valamint
+b)[^22] az Ügkr. tv. 2. § 12., 13., 40. és 41. pontjában foglaltaknak megfelelő, továbbá a 12. § (1) bekezdése, valamint a 12/A. § (1) és (3) bekezdése szerinti, a tárgyévet követő évre vonatkozó bármely tervezett változásról cégszerű aláírással ellátva, írásban, postai úton, valamint
 
 c) ha a létesítményben a tárgyévre vonatkozóan nem történt a térítésmentesen kiosztandó kibocsátási egységek mennyiségét csökkentő, az a) pontban hivatkozott tényleges jelentős változás, akkor ennek tényéről cégszerű aláírással ellátva, írásban, postai úton
 
@@ -40,4 +40,8 @@ b) ha a létesítményre vonatkozóan jelentős változás miatti adatszolgálta
 
 (10) Az e § szerinti adatszolgáltatási és jelentéstételi kötelezettségek teljesítéséhez a miniszter jogosult önálló elektronikus rendszert létrehozni az üzemeltetők megfelelő tájékoztatása mellett.
 
-[^9]: A 3. § a 131/2015. (V. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+(11)[^23] A miniszter az (1) bekezdés a) pontja szerinti kötelezettség megfelelő teljesítésének ellenőrzését a hatósággal együttműködve végzi. A hatóság az együttműködés keretében folyamatosan tájékoztatást ad a miniszternek.
+
+[^21]: A 3. § a 131/2015. (V. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^22]: A 3. § (1) bekezdés b) pontja a 178/2016. (VII. 1.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^23]: A 3. § (11) bekezdését a 178/2016. (VII. 1.) Korm. rendelet 4. §-a iktatta be.

@@ -1,6 +1,6 @@
 ## A kibocsátási engedély tartalmi követelményei
 
-## A kibocsátási engedély az alábbiakat tartalmazza:[^62]
+## A kibocsátási engedély az alábbiakat tartalmazza:[^85]
 
 ## a) ÜHG engedélyazonosító;
 
@@ -8,17 +8,17 @@
 
 ## c) a létesítmény azonosító adatai;
 
-## d)[^63] a létesítmény névleges kapacitása a 2. melléklet szerinti, tevékenység-specifikus mértékegységben;
+## d)[^86] a létesítmény névleges kapacitása a 2. melléklet szerinti, tevékenység-specifikus mértékegységben;
 
 ## e) a villamosenergia- és hőtermelés során használt technológia;
 
-## f)[^64] az engedélyezett üvegházhatású gáz (vagy gázok) megjelölése;
+## f)[^87] az engedélyezett üvegházhatású gáz (vagy gázok) megjelölése;
 
 ## g) a környezethasználat feltételeit megállapító, alapul szolgáló engedély megnevezése;
 
 ## h) a létesítményben folytatott tevékenység leírása;
 
-## i) az engedélyezett kibocsátási kategória (TIER A; TIER B; TIER C);
+## i)[^88] az engedélyezett kibocsátási kategória (A; B; C);
 
 ## j) az engedélyezett üvegházhatású gázkibocsátások nyomon követésére jóváhagyott általános és létesítményspecifikus módszertan és intézkedések (jóváhagyott nyomon követési terv):
 
@@ -40,9 +40,11 @@
 
 ## k) az eseti adatszolgáltatási kötelezettség megállapítása;
 
-## l) az üzemeltető azon kötelezettségének megállapítása, mely szerint minden év április 30-ig köteles a nyomon követett előző évi kibocsátásainak megfelelő mennyiségű kibocsátási egységet visszaadni.
+## l) az üzemeltető azon kötelezettségének megállapítása, mely szerint minden év április 30-ig köteles a nyomon követett előző évi kibocsátásainak megfelelő mennyiségű kibocsátási egységet visszaadni;
 
-4. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^65]
+## m)[^89] a létesítmény üzemmódjának megnevezése tartalék, készenléti, vagy szezonális üzemmód esetén.
+
+4. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^90]
 
 1. A számlavezetési díj mértéke és alapja üzemeltetői számla esetében
 
@@ -74,7 +76,9 @@
 
 Az üzemeltetői számla esetében a díjfizetés alapja a tárgyévre a létesítmény részére térítésmentesen kiosztott kibocsátási egység mennyisége [kibocsátási egységmennyiség (db)/év] létesítményenként, a nemzeti kiosztási táblával összhangban.
 
-[^62]: A 3. melléklet nyitó szövegrésze a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
-[^63]: A 3. melléklet d) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^64]: A 3. melléklet f) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
-[^65]: A 4. melléklet a 329/2013. (IX. 3.) Korm. rendelet 23. § (3) bekezdése, a 131/2015. (V. 27.) Korm. rendelet 17. § (3) bekezdése szerint módosított szöveg.
+[^85]: A 3. melléklet nyitó szövegrésze a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^86]: A 3. melléklet d) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^87]: A 3. melléklet f) pontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (2) bekezdésével megállapított szöveg.
+[^88]: A 3. melléklet i) pontja a 178/2016. (VII. 1.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^89]: A 3. melléklet m) pontját a 178/2016. (VII. 1.) Korm. rendelet 8. § (3) bekezdése iktatta be.
+[^90]: A 4. melléklet a 329/2013. (IX. 3.) Korm. rendelet 23. § (3) bekezdése, a 131/2015. (V. 27.) Korm. rendelet 17. § (3) bekezdése szerint módosított szöveg.

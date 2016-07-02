@@ -1,4 +1,4 @@
-21. §[^43] (1) A bezárás, jelentős kapacitáscsökkentés vagy részleges működés-beszüntetés bejelentésének elmulasztása esetén, amennyiben a mulasztás a bezárt, kapacitását jelentősen csökkentett vagy működését részlegesen beszüntetett létesítmény üzemeltetője számára olyan kibocsátási egységek jóváírását eredményezi az adott létesítményhez rendelt üzemeltetői számlán, amelyekre egyébként az üzemeltető már nem lett volna jogosult, a (2)–(6) bekezdésben meghatározott eljárásrend követendő.
+21. §[^65] (1) A bezárás, jelentős kapacitáscsökkentés vagy részleges működés-beszüntetés bejelentésének elmulasztása esetén, amennyiben a mulasztás a bezárt, kapacitását jelentősen csökkentett vagy működését részlegesen beszüntetett létesítmény üzemeltetője számára olyan kibocsátási egységek jóváírását eredményezi az adott létesítményhez rendelt üzemeltetői számlán, amelyekre egyébként az üzemeltető már nem lett volna jogosult, a (2)–(6) bekezdésben meghatározott eljárásrend követendő.
 
 (2) A miniszter hivatalból indított eljárás keretében határozatban, a határozat kézhezvételétől számított 15 napos határidő tűzésével kötelezi az üzemeltetőt a mulasztás okára történő nyilatkozattételre, egyidejűleg újabb – legalább 30 napos – határidő tűzésével kötelezi az üzemeltetőt a benyújtani elmulasztott adatok benyújtására, továbbá a bejelentés elmulasztása miatt az üzemeltető részére jogosulatlanul jóváírt többlet térítésmentes kibocsátási egységnek a hatóság (5) bekezdés szerinti határozatát követő visszautalására.
 
@@ -14,4 +14,4 @@ b) a visszautalás napjáig napi 20 000-től 100 000 forintig terjedő bírság 
 
 (6) A hatóság a miniszteri döntés alapján indított eljárásról és annak eredményéről a minisztert az eljárást lezáró döntés megküldésével értesíti.
 
-[^43]: A 21. § a 131/2015. (V. 27.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^65]: A 21. § a 131/2015. (V. 27.) Korm. rendelet 14. §-ával megállapított szöveg.

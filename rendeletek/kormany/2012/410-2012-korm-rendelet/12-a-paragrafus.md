@@ -1,4 +1,4 @@
-12/A. §[^23] (1) Beolvadás legalább két létesítmény egy létesítménnyé történő egyesülése a (6) bekezdésben foglalt feltételek együttes teljesülése esetében. Beolvadás esetében a beolvadó létesítmény a létesítmény bezárásaként, a beolvadással érintett másik létesítmény tevékenységi szintjének bővítéseként minősül. A beolvadással összefüggésben a kiosztandó kibocsátási egységmennyiség meghatározása és a kérelem elbírálása az (5)–(11) bekezdésben meghatározott minősített eljárásban történik.
+12/A. §[^45] (1) Beolvadás legalább két létesítmény egy létesítménnyé történő egyesülése a (6) bekezdésben foglalt feltételek együttes teljesülése esetében. Beolvadás esetében a beolvadó létesítmény a létesítmény bezárásaként, a beolvadással érintett másik létesítmény tevékenységi szintjének bővítéseként minősül. A beolvadással összefüggésben a kiosztandó kibocsátási egységmennyiség meghatározása és a kérelem elbírálása az (5)–(11) bekezdésben meghatározott minősített eljárásban történik.
 
 (2) Létesítményeknek az (1) bekezdésben meghatározottaktól eltérő beolvadása esetében a kiosztandó kibocsátási egységmennyiség meghatározására és a kérelem elbírálására az általános eljárási szabályok alkalmazandóak.
 
@@ -32,4 +32,4 @@ c) a beolvadást követően a létesítmény ugyanazon azonosítóval rendelkez�
 
 (11) Az Európai Bizottság jóváhagyását követően a miniszter határozatban megállapítja a létesítményeknek térítésmentesen kiosztható kibocsátási egységek módosított mennyiségét és a jegyzékkezelő útján gondoskodik a módosított és jóváhagyott kibocsátási egységek üzemeltető számláján történő jóváírásáról.
 
-[^23]: A 12/A. §-t a 131/2015. (V. 27.) Korm. rendelet 9. §-a iktatta be.
+[^45]: A 12/A. §-t a 131/2015. (V. 27.) Korm. rendelet 9. §-a iktatta be.
