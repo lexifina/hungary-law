@@ -1,4 +1,4 @@
-2. melléklet az 1084/2016. (II. 29.) Korm. határozathoz
+2. melléklet az 1084/2016. (II. 29.) Korm. határozathoz[^5]
 
 A Környezeti és Energiahatékonysági Operatív Program nevesített kiemelt projektjei
 
@@ -66,7 +66,7 @@ A Környezeti és Energiahatékonysági Operatív Program nevesített kiemelt pr
 
 | 31. | KEHOP- 1.3.0. | Belvízi szivattyútelepek fejlesztése és rekonstrukciója | Országos Vízügyi Főigazgatóság és az érintett vízügyi igazgatóságok konzorciuma | 0,82 | – | 2016 | A projekttel szembeni szakmai elvárás a belvízi szivattyútelepek fejlesztési és rekonstrukciós munkáinak elvégzése országos szinten, amely munkálatok eredményeként javulnak a vízkészletekkel történő fenntartható gazdálkodás feltételei. |
 
-| 32. | KEHOP- 1.3.0. | Belvízcsatornák fejlesztése és rekonstrukciója | Országos Vízügyi Főigazgatóság és az érintett vízügyi igazgatóságok konzorciuma | 5,20 | – | 2016 | A projekttel szembeni szakmai elvárás a belvíz-elvezető csatornák fejlesztési és rekonstrukciós munkáinak elvégzése országos szinten, amely munkálatok eredményeként javulnak a vízkészletekkel történő fenntartható gazdálkodás feltételei. |
+| 32. | KEHOP- 1.3.0. | Belvízcsatornák fejlesztése és rekonstrukciója | Országos Vízügyi Főigazgatóság és az érintett vízügyi igazgatóságok konzorciuma | 5,24 | – | 2016 | A projekttel szembeni szakmai elvárás a belvíz-elvezető csatornák fejlesztési és rekonstrukciós munkáinak elvégzése országos szinten, amely munkálatok eredményeként javulnak a vízkészletekkel történő fenntartható gazdálkodás feltételei. |
 
 | 33. | KEHOP- 1.3.0. | Körösladányi duzzasztó rekonstrukciója | Országos Vízügyi Főigazgatóság és a Körös-vidéki Vízügyi Igazgatóság konzorciuma | 1,38 | – | Megtörtént 2015-ben | A projekttel szembeni szakmai elvárás a körösladányi duzzasztó rekonstrukciós munkálatainak elvégzése, amely munkálatok eredményeként javulnak a vízkészletekkel történő fenntartható gazdálkodás feltételei. |
 
@@ -84,7 +84,7 @@ A Környezeti és Energiahatékonysági Operatív Program nevesített kiemelt pr
 
 | 40. | KEHOP- 1.3.0. | Tájgazdálkodási infrastruktúra fejlesztése a Beregben és benne a Beregi árvízszint-csökkentő tározó területén | Országos Vízügyi Főigazgatóság és a Felső-Tisza-vidéki Vízügyi Igazgatóság konzorciuma | 1,20 | – | Megtörtént 2015-ben | A projekttel szembeni szakmai elvárás a tájgazdálkodási célú infrastruktúra kiépítése a Beregi-tározó területén és környezetében |
 
-| 41. | KEHOP- 1.3.0. | Vízvisszatartás és tájhasználat-váltás tervezése az Ős-Dráva Programban | Országos Vízügyi Főigazgatóság és a Dél-dunántúli Vízügyi Igazgatóság konzorciuma | 9,00 | – | 2016 | A projekttel szembeni szakmai elvárás a vízvisszatartással, illetve tájhasználat-váltással kapcsolatos infrastruktúra kiépítése az Ormánság területén. |
+| 41. | KEHOP- 1.3.0. | Vízvisszatartás és tájhasználat-váltás tervezése az Ős-Dráva Programban | Országos Vízügyi Főigazgatóság és a Dél-dunántúli Vízügyi Igazgatóság konzorciuma | 11,22 | – | 2016 | A projekttel szembeni szakmai elvárás a vízvisszatartással, illetve tájhasználat-váltással kapcsolatos infrastruktúra kiépítése az Ormánság területén. |
 
 | 42. | KEHOP- 1.3.0. | Tiszalöki vízlépcső és hajózsilip rekonstrukciója | Országos Vízügyi Főigazgatóság és az Észak-magyarországi Vízügyi Igazgatóság konzorciuma | 3,50 | – | Megtörtént 2015-ben | A projekttel szembeni szakmai elvárás a Tiszalöki vízlépcső kiemelt jelentőségű nagyműtárgy rekonstrukciója, amelynek révén a vízkészletekkel történő fenntartható gazdálkodás feltételei javulnak. |
 
@@ -94,15 +94,15 @@ A Környezeti és Energiahatékonysági Operatív Program nevesített kiemelt pr
 
 | 45. | KEHOP- 1.3.1. | Komplex Tisza-tó Projekt | Országos Vízügyi Főigazgatóság, a Közép-Tisza-vidéki Vízügyi Igazgatóság, Tiszántúli Vízügyi Igazgatóság és Körös-Vidéki Vízügyi Igazgatóság konzorciuma | 2,40 | – | Megtörtént 2015-ben | A projekttel szembeni szakmai elvárás a Keleti-főcsatorna rekonstrukciós munkálatainak elvégzése, amely munkálatok eredményeként javul a víztest VKI szerinti állapota. (Szakaszolt projekt második szakaszának megvalósítása.) |
 
-| 46. | KEHOP- 1.4.0. | Rába-völgy projekt, a térség árvízvédelmének kiépítése | Országos Vízügyi Főigazgatóság, az Észak-dunántúli Vízügyi Igazgatóság és a Nyugat-dunántúli Vízügyi Igazgatóság konzorciuma | 3,50 | – | 2016 | A projekttel szembeni szakmai elvárás a vizek okozta kártételekkel szembeni ellenálló képesség javítása a Rába-völgyben. |
+| 46. | KEHOP- 1.4.0. | Rába-völgy projekt, a térség árvízvédelmének kiépítése | Országos Vízügyi Főigazgatóság, az Észak-dunántúli Vízügyi Igazgatóság és a Nyugat-dunántúli Vízügyi Igazgatóság konzorciuma | 3,60 | – | 2016 | A projekttel szembeni szakmai elvárás a vizek okozta kártételekkel szembeni ellenálló képesség javítása a Rába-völgyben. |
 
-| 47. | KEHOP- 1.4.0. | VTT Felső-Tisza árvízvédelmi rendszerének kiépítése Tisza-Túr tározó | Országos Vízügyi Főigazgatóság és a Felső-Tisza-vidéki Vízügyi Igazgatóság konzorciuma | 27,21 | – | 2016 | A projekttel szembeni szakmai elvárás a Vásárhelyi Terv Továbbfejlesztése (a továbbiakban: VTT) program keretében a Felső-Tisza árvízi biztonságának javítása árapasztó rendszer kiépítésével. |
+| 47. | KEHOP- 1.4.0. | VTT Felső-Tisza árvízvédelmi rendszerének kiépítése Tisza-Túr tározó | Országos Vízügyi Főigazgatóság és a Felső-Tisza-vidéki Vízügyi Igazgatóság konzorciuma | 27,30 | – | 2016 | A projekttel szembeni szakmai elvárás a Vásárhelyi Terv Továbbfejlesztése (a továbbiakban: VTT) program keretében a Felső-Tisza árvízi biztonságának javítása árapasztó rendszer kiépítésével. |
 
-| 48. | KEHOP- 1.4.0. | VTT Közép-tiszai tározó kiépítése, Inérháti tározó | Országos Vízügyi Főigazgatóság és az Észak-magyarországi Vízügyi Igazgatóság konzorciuma | 29,86 | – | 2016 | A projekttel szembeni szakmai elvárás a VTT program keretében a Közép-Tisza árvízi biztonságának javítása árapasztó tározó építésével. |
+| 48. | KEHOP- 1.4.0. | VTT Közép-tiszai tározó kiépítése, Inérháti tározó | Országos Vízügyi Főigazgatóság és az Észak-magyarországi Vízügyi Igazgatóság konzorciuma | 30,49 | – | 2016 | A projekttel szembeni szakmai elvárás a VTT program keretében a Közép-Tisza árvízi biztonságának javítása árapasztó tározó építésével. |
 
 | 49. | KEHOP- 1.4.0. | VTT Hullámtér rendezése az Alsó-Tiszán | Országos Vízügyi Főigazgatóság és az Alsó-Tisza-vidéki Vízügyi Igazgatóság konzorciuma | 4,00 | – | Megtörtént 2015-ben | A projekttel szembeni szakmai elvárás a VTT program keretében a Tisza-völgy árvízi biztonságának javítása a hullámterek vízlevezető képességének javításával. |
 
-| 50. | KEHOP- 1.4.0. | VTT Hullámtér rendezése a Közép-Tiszán | Országos Vízügyi Főigazgatóság és a Közép-Tisza-vidéki Vízügyi Igazgatóság konzorciuma | 13,00 | – | 2016 | A projekttel szembeni szakmai elvárás a VTT program keretében a Tisza-völgy árvízi biztonságának javítása a hullámterek vízlevezető képességének javításával. |
+| 50. | KEHOP- 1.4.0. | VTT Hullámtér rendezése a Közép-Tiszán | Országos Vízügyi Főigazgatóság és a Közép-Tisza-vidéki Vízügyi Igazgatóság konzorciuma | 14,16 | – | 2016 | A projekttel szembeni szakmai elvárás a VTT program keretében a Tisza-völgy árvízi biztonságának javítása a hullámterek vízlevezető képességének javításával. |
 
 | 51. | KEHOP- 1.4.0. | Nagyműtárgyak fejlesztése és rekonstrukciója | Országos Vízügyi Főigazgatóság és az Alsó-Duna-völgyi Vízügyi Igazgatóság konzorciuma | 10,00 | – | Megtörtént 2015-ben | A projekttel szembeni szakmai elvárás a kiemelt jelentőségű, a folyók életét befolyásoló nagyműtárgyak fejlesztése és rekonstrukciója Magyarország árvízi veszélyeztetettségének csökkenése érdekében. |
 
@@ -120,9 +120,9 @@ A Környezeti és Energiahatékonysági Operatív Program nevesített kiemelt pr
 
 | 58. | KEHOP- 1.4.0. | Árvízvédelmi védvonalak mértékadó árvízszintre történő kiépítése, védvonalak terhelésének csökkentése a Körösökön | Országos Vízügyi Főigazgatóság és Körös-Vidéki Vízügyi Igazgatóság konzorciuma | 3,00 | – | 2016 | A projekttel szembeni szakmai elvárás a VTT program keretében az árvízi biztonság javítása a védvonalak mértékadó szintre történő kiépítésével. |
 
-| 59. | KEHOP- 1.4.0. | Sajó-Hernád árvízvédelmi fejlesztése | Országos Vízügyi Főigazgatóság és az Észak-magyarországi Vízügyi Igazgatóság konzorciuma | 2,20 | – | Megtörtént 2015-ben | A projekttel szembeni szakmai elvárás az árvízi veszélyeztetettség csökkenése, az árvízvédelem fejlesztése a Sajó-Hernád völgyében. |
+| 59. | KEHOP- 1.4.0. | Sajó-Hernád árvízvédelmi fejlesztése | Országos Vízügyi Főigazgatóság és az Észak-magyarországi Vízügyi Igazgatóság konzorciuma | 2,23 | – | Megtörtént 2015-ben | A projekttel szembeni szakmai elvárás az árvízi veszélyeztetettség csökkenése, az árvízvédelem fejlesztése a Sajó-Hernád völgyében. |
 
-| 60. | KEHOP- 1.4.0. | Esztergom árvízvédelmének fejlesztése I. ütem | Országos Vízügyi Főigazgatóság és az Észak-dunántúli Vízügyi Igazgatóság konzorciuma | 9,00 | – | 2016 | A projekttel szembeni szakmai elvárás Esztergom város árvízi biztonságának növelése a meglévő védvonal fejlesztése révén. |
+| 60. | KEHOP- 1.4.0. | Esztergom árvízvédelmének fejlesztése I. ütem | Országos Vízügyi Főigazgatóság és az Észak-dunántúli Vízügyi Igazgatóság konzorciuma | 9,03 | – | 2016 | A projekttel szembeni szakmai elvárás Esztergom város árvízi biztonságának növelése a meglévő védvonal fejlesztése révén. |
 
 | 61. | KEHOP- 1.4.0. | Az üzemirányítási és a monitoring hálózat fejlesztése | Országos Vízügyi Főigazgatóság, a Felső-Tisza-vidéki Vízügyi Igazgatóság, a Közép-Tisza-vidéki Vízügyi Igazgatóság és az Észak-magyarországi Vízügyi Igazgatóság konzorciuma | 2,50 | – | 2016 | A projekttel szembeni szakmai elvárás a VTT program keretében megépült árvízszint-csökkentő tározók biztonságos működési feltételeinek biztosítása érdekében monitoring és üzemirányítási feltételek kiépítése. |
 
@@ -134,15 +134,15 @@ A Környezeti és Energiahatékonysági Operatív Program nevesített kiemelt pr
 
 | 65. | KEHOP- 1.4.1. | Duna-menti árvízvédelmi beruházások Visegrádon | Visegrád Város Önkormányzata | 0,76 | – | Megtörtént 2015-ben | A projekttel szembeni szakmai elvárás a Környezet és Energia Operatív Program (a továbbiakban: KEOP) keretében támogatott projekt második szakaszának megvalósítása, Visegrád város árvízi biztonságának fejlesztése. |
 
-| 66. | KEHOP- 1.5.0. | Záportározók építése a Baranya csatorna vízgyűjtőjén | Országos Vízügyi Főigazgatóság és a Dél-dunántúli Vízügyi Igazgatóság Konzorciuma | 1,88 | – | Megtörtént 2015-ben | A mellékvízfolyások által szállított vizek következményeként a Baranya-csatorna vízhozama jelentős, így a projekttel szembeni szakmai elvárás e vízhozam csökkentése záportározók építésével, az árvíz kockázatok csökkentése érdekében. |
+| 66. | KEHOP- 1.5.0. | Záportározók építése a Baranya csatorna vízgyűjtőjén | Országos Vízügyi Főigazgatóság és a Dél-dunántúli Vízügyi Igazgatóság Konzorciuma | 1,91 | – | Megtörtént 2015-ben | A mellékvízfolyások által szállított vizek következményeként a Baranya-csatorna vízhozama jelentős, így a projekttel szembeni szakmai elvárás e vízhozam csökkentése záportározók építésével, az árvíz kockázatok csökkentése érdekében. |
 
 | 67. | KEHOP- 1.5.0. | Záportározó építési program – Vas és Zala megye | Országos Vízügyi Főigazgatóság és a Nyugat-dunántúli Vízügyi Igazgatóság Konzorciuma | 1,85 | – | Megtörtént 2015-ben | A projekttel szembeni szakmai elvárás a völgyfenéki települések árvízi biztonságának növelése, víz okozta károk megelőzése, csökkentése, hét település védbiztonságának növelése. |
 
 | 68. | KEHOP- 1.5.0 | Séd-Nádor-Gaja vízrendszer rehabilitációja I. ütem | Országos Vízügyi Főigazgatóság és a Közép-dunántúli Vízügyi Igazgatóság Konzorciuma | 1,90 | – | Megtörtént 2015-ben | A projekttel szembeni szakmai elvárás a tározói kapacitás bővítése az árvízi biztonság és a mezőgazdasági vízszolgáltatás biztonságának érdekében. |
 
-| 69. | KEHOP- 1.5.0. | A Váli-völgy vízrendezési feladatai | Országos Vízügyi Főigazgatóság és a Közép-dunántúli Vízügyi Igazgatóság konzorciuma | 3,50 | – | Megtörtént 2015-ben | A projekttel szembeni szakmai elvárás a Váli-völgy dombvidéki vízrendezési mintaprojekt keretében megvalósuló fejlesztésekkel a völgyfenéki települések árvízi biztonságának növelése, a vízgyűjtő ökológiai állapota és a vízrendszer vízkészlet-gazdálkodása mennyiségi és minőségi értelemben vett javítása. |
+| 69. | KEHOP- 1.5.0. | A Váli-völgy vízrendezési feladatai | Országos Vízügyi Főigazgatóság és a Közép-dunántúli Vízügyi Igazgatóság konzorciuma | 3,65 | – | Megtörtént 2015-ben | A projekttel szembeni szakmai elvárás a Váli-völgy dombvidéki vízrendezési mintaprojekt keretében megvalósuló fejlesztésekkel a völgyfenéki települések árvízi biztonságának növelése, a vízgyűjtő ökológiai állapota és a vízrendszer vízkészlet-gazdálkodása mennyiségi és minőségi értelemben vett javítása. |
 
-| 70. | KEHOP- 1.5.0. | Szombathely és a környező települések árvízi védelmét szolgáló dozmati víztározó megépítése | Országos Vízügyi Főigazgatóság és a Nyugat-dunántúli Vízügyi Igazgatóság Konzorciuma | 2,00 | – | 2016 | A projekt eredményeként megvalósuló tározó segítségével javul Szombathely és a környező települések árvízi biztonsága. |
+| 70. | KEHOP- 1.5.0. | Szombathely és a környező települések árvízi védelmét szolgáló dozmati víztározó megépítése | Országos Vízügyi Főigazgatóság és a Nyugat-dunántúli Vízügyi Igazgatóság Konzorciuma | 2,04 | – | 2016 | A projekt eredményeként megvalósuló tározó segítségével javul Szombathely és a környező települések árvízi biztonsága. |
 
 | 71. | KEHOP- 1.6.0. | Tűzoltó gépjárműfecskendők rendszerbe állítása | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | 14,50 | – | Megtörtént 2015-ben | A projekttel szembeni szakmai elvárás a klímaváltozás hatásai miatt bekövetkező egyre gyakoribb káresetek miatt a katasztrófavédelmi szervek reagálóképességének hatékonyabbá tétele, a klímaváltozás okozta káresetek elhárítására felkészültebb, modernebb eszközökkel az állampolgárok élet- és vagyonbiztonságának megőrzése érdekében. |
 
@@ -859,3 +859,5 @@ A Környezeti és Energiahatékonysági Operatív Program nevesített kiemelt pr
 | 427. | KEHOP- 5.2.6. | Tanuszodák épületenergetikai fejlesztése | Nemzeti Sportközpontok a 435/2015. (XII. 28.) Korm. rendelet szerint | 2,00 | – | 2016 | A fejlesztés célja az energiahatékonyságról, a 2009/125/EK és a 2010/30/EU irányelv módosításáról, valamint a 2004/8/EK és a 2006/32/EK irányelv hatályon kívül helyezéséről szóló, 2012. október 25-i 2012/27/EU európai parlamenti és tanácsi irányelv 7. cikkében foglaltak teljesítése. A korszerűsítésre kerülő épületeknek a fejlesztés után meg kell felelniük a szigorodó, költségoptimalizált követelményszintnek, amelyet az épületek energiahatékonyságáról szóló, 2010. május 19-i 2010/31/EU európai parlamenti és tanácsi irányelv, valamint az épületek energetikai jellemzőinek meghatározásáról szóló 7/2006. (V. 24.) TNM rendelet ír elő. |
 
 | 428. | KEHOP- 5.4.2. | Zöldkarikás Játékok – Komplex szemléletformálási program | Nemzeti Fejlesztési Minisztérium | 1,00 | – | 2016 | Széleskörű lakossági energiatudatos- és környezeti szemléletformáló kampánnyal kísért országos vetélkedő- és rendezvénysorozat (helyi, területi, országos szinteken) megszervezése a 6-18 éves korosztály számára. Cél az egész ország területén a gyermek korosztály elérése- és bevonása (aktív elérés), rajtuk keresztül a felnőtt lakosság környezettudatos szemléletformálásának megvalósítása. |
+
+[^5]: A 2. melléklet az 1323/2016. (VII. 1.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.

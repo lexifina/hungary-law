@@ -6,7 +6,7 @@
 
 ## c) hozzájárul a Környezeti és Energiahatékonysági Operatív Program 1. prioritása vonatkozásában tervezett eredményességi tartalék tekintetében felhívás meghirdetéséhez,
 
-## d) jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 1. prioritása meghirdethető keretének 12,86 milliárd forinttal történő növelését azzal, hogy az ezen alpontban meghatározott összegre kötelezettség nem vállalható,
+## d)[^1] jóváhagyja a Környezeti és Energiahatékonysági Operatív Program 1. prioritása meghirdethető keretének 17,38 milliárd forinttal történő növelését azzal, hogy az ezen alpontban meghatározott összegre kötelezettség nem vállalható,
 
 ## e) felhívja a belügyminisztert, a földművelésügyi minisztert és a nemzeti fejlesztési minisztert, hogy
 
@@ -22,19 +22,13 @@
 
 ## Határidő: folyamatos
 
-## f) felhívja a nemzeti fejlesztési minisztert, hogy – a nemzetgazdasági miniszter bevonásával – tegyen javaslatot a Kormány részére a 2. mellékletben foglalt táblázat D:41 mezőjében meghatározott indikatív támogatási kereten felül további kétmilliárd forint támogatás biztosítása érdekében, a 2. mellékletben foglalt táblázat 41. sora szerinti projekt megvalósítása céljából.
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## nemzetgazdasági miniszter
-
-## Határidő: e határozat soron következő módosítása során
+## f)[^2]
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^1]
+## 3.[^3]
 
-1. melléklet az 1084/2016. (II. 29.) Korm. határozathoz
+1. melléklet az 1084/2016. (II. 29.) Korm. határozathoz[^4]
 
 A Környezeti és Energiahatékonysági Operatív Program 2016. évre szóló éves fejlesztési kerete
 
@@ -50,15 +44,15 @@ A Környezeti és Energiahatékonysági Operatív Program 2016. évre szóló é
 
 | 4. | KEHOP- 1.2.1. | Helyi klímastratégiák kidolgozása, valamint a klímatudatosságot erősítő szemléletformálás | 1,59 | standard | 2016. február |
 
-| 5. | KEHOP- 1.3.0. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása | 76,28 | kiemelt | Meghirdetve 2015. október 12-én |
+| 5. | KEHOP- 1.3.0. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása | 78,54 | kiemelt | Meghirdetve 2015. október 12-én |
 
 | 6. | KEHOP- 1.3.1. | Fenntartható vízgazdálkodás infrastrukturális feltételeinek javítása – szakaszolt projektek | 8,90 | kiemelt | Meghirdetve 2015. július 30-án |
 
-| 7. | KEHOP- 1.4.0. | Árvízvédelmi fejlesztések | 179,59 | kiemelt | Meghirdetve 2015. október 6-án |
+| 7. | KEHOP- 1.4.0. | Árvízvédelmi fejlesztések | 181,63 | kiemelt | Meghirdetve 2015. október 6-án |
 
 | 8. | KEHOP- 1.4.1. | Árvízvédelmi fejlesztések – szakaszolt projektek | 0,76 | kiemelt | Meghirdetve 2015. július 30-án |
 
-| 9. | KEHOP- 1.5.0. | Dombvidéki vízgazdálkodás fejlesztése | 11,13 | kiemelt | Meghirdetve 2015. október 12-én |
+| 9. | KEHOP- 1.5.0. | Dombvidéki vízgazdálkodás fejlesztése | 11,35 | kiemelt | Meghirdetve 2015. október 12-én |
 
 | 10. | KEHOP- 1.6.0. | Katasztrófavédelmi rendszerek fejlesztése | 44,93 | kiemelt | Meghirdetve 2015. október 22-én |
 
@@ -158,4 +152,7 @@ A Környezeti és Energiahatékonysági Operatív Program 2016. évre szóló é
 
 | 19. | KEHOP- 5.4.2. | Zöldkarikás Játékok – Komplex szemléletformálási program | 1,00 | kiemelt | Meghirdetve 2015. december 1-jén |
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont d) alpontja az 1323/2016. (VII. 1.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 1. pont f) alpontját az 1323/2016. (VII. 1.) Korm. határozat 4. pontja hatályon kívül helyezte.
+[^3]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 1. melléklet az 1323/2016. (VII. 1.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
