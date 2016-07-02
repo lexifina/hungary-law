@@ -1,10 +1,12 @@
-9. §[^55] (1) Az esélyteremtő ösztöndíjak esetében
+## 8. §[^46]
+
+9. §[^47] (1)[^48] Az 1. § (2) bekezdés a)–c) pontjai szerinti esélyteremtő ösztöndíjak esetében
 
 a) a tanuló ösztöndíjban és – nem pénzügyi – mentori támogatásban;
 
 b) a mentor ösztöndíjban
 
-## részesül [a továbbiakban a) és b) pontok együtt: ösztöndíjasok].
+## részesül [az a) és b) pontok a továbbiakban együtt: ösztöndíjasok].
 
 (2) A mentor ösztöndíjának a pályázati kiírásban meghatározott részére – a (3) bekezdésben foglaltakat kivéve – akkor válik jogosulttá, ha az általa mentorált tanuló előző év végi tanulmányi átlagát a pályázati kiírásban meghatározott mértéket meghaladóan nem rontotta és
 
@@ -12,7 +14,7 @@ a) az Út a középiskolába ösztöndíj esetében az általa mentorált
 
 aa) 7. évfolyamos tanuló felsőbb évfolyamba lép, vagy
 
-ab) 8. évfolyamos tanuló középiskolába vagy szakiskolába felvételt nyert,
+ab)[^49] 8. évfolyamos tanuló középfokú iskolába felvételt nyert,
 
 b) az Út az érettségihez ösztöndíj esetében a mentorált tanuló
 
@@ -32,12 +34,19 @@ cb) sikeres szakmai vizsgát tett.
 
 (5) Ha a korábban esélyteremtő ösztöndíjban részesült tanuló és mentora a soron következő tanévben együtt és ugyanabban az alprogramban folytatni kívánja az ösztöndíjas jogviszonyt, új pályázatot nem kell benyújtaniuk. A tanuló és a mentor az ösztöndíjas jogviszony fenntartására vonatkozó szándékukat írásban jelzik a köznevelési intézmény felé, és egyidejűleg nyilatkoznak arról is, hogy a korábbi pályázatban hivatkozott – az ösztöndíjas jogviszony alapjául szolgáló – feltételek a jogviszony létrejöttekor hatályos vagy a nyilatkozat megtételekor hatályos szabályozás alapján továbbra is fennállnak. Ha a korábban esélyteremtő ösztöndíjban részesült tanuló és mentora más alprogramban kíván részt venni, új pályázatot kell benyújtaniuk.
 
-(6) Amennyiben a tanuló vagy a mentor tekintetében az ösztöndíjra való jogosultság valamely feltétele – a 3. § (1) bekezdésben meghatározott, a szociális rászorultságot alátámasztó feltételek kivételével – megszűnik, a köznevelési intézmény, állami fenntartású intézmény esetében az állami intézményfenntartó központ a tanulóval, valamint annak mentorával megkötött ösztöndíjszerződést – több tanulót mentoráló mentor esetén az érintett tanulóra vonatkozó részben – egyoldalúan megszünteti, és erről a lebonyolító szervet 8 munkanapon belül értesíti. A köznevelési intézmény, állami fenntartású intézmény esetében az állami intézményfenntartó központ az ösztöndíjszerződést azon hónap utolsó napjával szünteti meg, amely hónapban az ösztöndíjra való jogosultság feltétele megszűnik.
+(6)[^50] Ha a tanuló vagy a mentor tekintetében az ösztöndíjra való jogosultság valamely feltétele – a 3. § (1) bekezdésében meghatározott, a szociális rászorultságot alátámasztó feltételek kivételével – megszűnik, az ösztöndíjassal szerződő fél (köznevelési intézmény, lebonyolító szerv, állami fenntartású intézmény esetében a fenntartó) a tanulóval, valamint annak mentorával megkötött ösztöndíjszerződést – több tanulót mentoráló mentor esetén az érintett tanulóra vonatkozó részben – egyoldalúan megszünteti, és erről – amennyiben nem a lebonyolító a szerződő fél – a lebonyolító szervet 8 munkanapon belül értesíti. Az ösztöndíjszerződést azon hónap utolsó napjával kell megszüntetni, amely hónapban az ösztöndíjra való jogosultság feltétele megszűnik.
 
-(7) Amennyiben a 3. § (1) bekezdésben meghatározott, a szociális rászorultságot alátámasztó valamely feltétel megszűnik az ösztöndíjas jogviszony időtartama alatt, az az ösztöndíjas jogviszony fennállását nem érinti.
+(7)[^51] Amennyiben a szociális rászorultságot alátámasztó valamely feltétel megszűnik az ösztöndíjas jogviszony időtartama alatt, az az ösztöndíjas jogviszony fennállását nem érinti.
 
-(8) Amennyiben a tanuló vagy a mentor tekintetében az ösztöndíjra való jogosultság valamely feltétele az ösztöndíjas jogviszony létrejöttét megelőzően szűnik meg – ideértve a 9. § (5) bekezdésében meghatározott, az ösztöndíjas jogviszony folytatására vonatkozó rendelkezéseket is –, a köznevelési intézmény, állami fenntartású intézmény esetében az állami intézményfenntartó központ a tanulóval, valamint annak mentorával az ösztöndíjszerződést nem köti meg, és erről a lebonyolító szervet 8 munkanapon belül értesíti.
+(8)[^52] Amennyiben a tanuló vagy a mentor tekintetében az ösztöndíjra való jogosultság valamely feltétele az ösztöndíjas jogviszony létrejöttét megelőzően szűnik meg – ideértve a 9. § (5) bekezdésében meghatározott, az ösztöndíjas jogviszony folytatására vonatkozó rendelkezéseket is –, az ösztöndíjasokkal szerződő fél (lebonyolító szerv, vagy a köznevelési intézmény, vagy a fenntartó) a tanulóval, valamint annak mentorával az ösztöndíjszerződést nem köti meg, és amennyiben az ösztöndíjasokkal szerződő fél nem a lebonyolító szerv, akkor a szerződéskötés elmaradásáról a lebonyolító szervet 8 munkanapon belül értesíti.
 
-(9) A tanuló az ösztöndíjszerződés megkötését megelőzően és az ösztöndíjas jogviszony időtartama alatt az adott tanévben indokolt esetben két alkalommal mentorváltást kezdeményezhet a lebonyolító szervnél, ebben az esetben a tanuló és törvényes képviselője írásbeli indokolt kérelméhez csatolni kell az átvevő személy mentori pályázatát. Amennyiben a lebonyolító szerv engedélyezi, erről értesíti a köznevelési intézményt vagy állami fenntartású intézmény esetében az állami intézményfenntartó központot és kezdeményezi az ösztöndíj szerződések módosítását, illetve megkötését. Mentorváltás esetén az 5. § (1) bekezdésében meghatározott tanulói létszám nem léphető túl.
+(9)[^53] A tanuló az ösztöndíjszerződés megkötését megelőzően és az ösztöndíjas jogviszony időtartama alatt az adott tanévben indokolt esetben két alkalommal mentorváltást kezdeményezhet a lebonyolító szervnél. A tanuló és törvényes képviselője írásbeli indokolt kérelméhez csatolni kell az átvevő személy mentori pályázatát. Ha a lebonyolító szerv a mentorváltást engedélyezi, kezdeményezi az ösztöndíjszerződés módosítását, illetve megkötését. Mentorváltás esetén az 5. § (1) bekezdésében meghatározott tanulói létszám nem léphető túl.
 
-[^55]: A 9. § az 58/2014. (III. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^46]: A 8. §-t a 171/2016. (VII. 1.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^47]: A 9. § az 58/2014. (III. 4.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^48]: A 9. § (1) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^49]: A 9. § (2) bekezdés a) pont ab) alpontja a 171/2016. (VII. 1.) Korm. rendelet 10. §-a szerint módosított szöveg.
+[^50]: A 9. § (6) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^51]: A 9. § (7) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^52]: A 9. § (8) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^53]: A 9. § (9) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-1. § (1)[^1] Az Útravaló Ösztöndíjprogram (a továbbiakban: Ösztöndíjprogram) célja, hogy – a (2) bekezdés a)–c) pontjában meghatározott esetekben – esélyt teremtsen a hátrányos helyzetben levő tanulók iskolai sikerességéhez – a (2) bekezdés e) pontjában meghatározott esetben – támogassa a természettudományos érdeklődésű tanulók tehetséggondozását.
+1. § (1)[^1] Az Útravaló Ösztöndíjprogram (a továbbiakban: Ösztöndíjprogram) célja, hogy – a (2) bekezdés a)–d) pontjában meghatározott esetekben – esélyt teremtsen a hátrányos helyzetben levő tanulók és hallgatók tanulmányi sikerességéhez, illetve – a (2) bekezdés e) pontjában meghatározott esetben – támogassa a természettudományos érdeklődésű tanulók tehetséggondozását.
 
 (2)[^2] Az Ösztöndíjprogram a következő alprogramokból áll:
 
@@ -12,12 +12,12 @@ d)[^3] Út a diplomához ösztöndíj- és önköltség-támogatási program, am
 
 e) Út a tudományhoz alprogram, amelynek célja a természettudományok, a műszaki tudományok és a matematika területe iránt kiemelt érdeklődést mutató tanulók tehetséggondozása.
 
-(3)[^4] Az Ösztöndíjprogram céljának megvalósulását a tanulók köznevelési intézményei és mentorok segítik.
+(3)[^4] Az Ösztöndíjprogram 1. § (2) bekezdés a)–c) és e) pontjai szerinti alprogramok céljának megvalósulását a tanulók köznevelési intézményei és mentorok segítik.
 
-(4)[^5] A 3–5. §-t, a 6. § (1), (2), (3) és (4) bekezdését, a 7. §-t, a 8. §-t, a 9. § (1)–(3), (8) és (12)–(14) bekezdését, valamint a 10. §-t nem kell alkalmazni az Út a diplomához ösztöndíj- és önköltség-támogatási programra.
+(4)[^5] Az Út a diplomához ösztöndíj- és önköltség-támogatási programra az 1. § (1) és (2) bekezdését, a 2. §-t, a 6. § (2a) bekezdését, a 9. § (7) bekezdését, valamint a 11/A. §-t kell alkalmazni.
 
-[^1]: Az 1. § (1) bekezdése a 207/2013. (VI. 17.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § (1) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (2) bekezdés d) pontja a 207/2013. (VI. 17.) Korm. rendelet 12. § b) és c) pontja, az 58/2014. (III. 4.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
-[^4]: Az 1. § (3) bekezdése a 222/2012. (VIII. 15.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.
-[^5]: Az 1. § (4) bekezdése a 207/2013. (VI. 17.) Korm. rendelet 1. §-ával megállapított, az 58/2014. (III. 4.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (3) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^5]: Az 1. § (4) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
