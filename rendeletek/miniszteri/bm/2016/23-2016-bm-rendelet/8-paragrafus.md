@@ -1,3 +1,3 @@
-## 7. § A szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló 2007. évi I. törvény, valamint a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 25/2007. (V. 31.) IRM rendelet III/A. Fejezete a következő 25/B. §-sal egészül ki:
+## 3–7. §[^4]
 
-## „25/B. § Ha EGT-állampolgár és a magyar állampolgár vízumkötelezett harmadik ország állampolgárságával rendelkező családtagja, illetve a harmadik országbeli állampolgár az úti okmányát elvesztette, megsemmisült vagy azt eltulajdonították, az úti okmányában található kilencven napot meg nem haladó, tervezett tartózkodásra jogosító érvényes vízumát a harmadik ország állampolgárságával rendelkező családtag, illetve a harmadik országbeli állampolgár kérelmére az illetékes konzuli tisztviselő, vagy magyarországi tartózkodás esetén a szálláshelye szerint illetékes regionális igazgatóság az e rendelet 40. mellékletében meghatározott formanyomtatványon benyújtott kérelemre pótolja.”
+[^4]: A 3–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
