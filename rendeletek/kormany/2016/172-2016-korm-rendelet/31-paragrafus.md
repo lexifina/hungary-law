@@ -1,3 +1,5 @@
-## „(6) A Mentőszolgálat mentőjárműveit mentésre, rendezvények egészségügyi biztosítására, mozgóőrségre, helyszínbiztosításra, külföldi beteg- és szervszállításra, továbbá külföldi és belföldi szervátültetéssel kapcsolatos sürgős szállításra lehet igénybe venni. A Mentőszolgálat betegszállító járműveit belföldi betegszállításra lehet igénybe venni. A Mentőszolgálat főigazgatója vagy az általa megbízott személy rendkívül indokolt esetben a mentő és a betegszállító járművek más célú igénybevételét is engedélyezheti.”
-
 ## 6. Az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény végrehajtásáról szóló 337/2008. (XII. 30.) Korm. rendelet módosítása
+
+31. §[^30]
+
+[^30]: A 31–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

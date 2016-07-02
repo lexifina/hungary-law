@@ -1,3 +1,3 @@
-## 11. § Az Ebtv.vhr. 32. §-a a következő (2a) bekezdéssel egészül ki:
+12. §[^12]
 
-## „(2a) Egészségügyi szolgáltatásra való jogosultság szempontjából üzemi balesetnek számít az egyszerűsített foglalkoztatásról szóló 2010. évi LXXV. törvény 7. § (2) bekezdésében említett foglalkoztatás keretében végzett munka közben elszenvedett baleset.”
+[^12]: Az 1–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

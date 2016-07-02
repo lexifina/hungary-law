@@ -1,1 +1,3 @@
-## „(10) A kormányhivatal a menetjegy, valamint a (3) bekezdésben felsorolt beutalásra jogosult által kiállított és az egészségügyi szolgáltatónál történő megjelenés leigazolásával ellátott utazási utalvány együttes benyújtása alapján, a kérelmező részére járó viteldíj árát utólag megtéríti. Az egészségügyi szolgáltatónál történő megjelenés napjától eltérő dátumról szóló menetjegyet abban az esetben lehet megtéríteni, ha az utazás az egészségügyi szolgáltatás igénybevételét megelőző vagy azt követő napon történt.”
+4. §[^4]
+
+[^4]: Az 1–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

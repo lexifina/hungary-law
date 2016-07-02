@@ -1,11 +1,3 @@
-## 43. § Az ÁNTSZ r. 8. alcíme a következő 18/A. §-sal egészül ki:
+44. §[^43]
 
-## „18/A. § A Kormány népegészségügyi szervként az OGYÉI-t, az iskolai egészségfejlesztési programok tekintetében a Nemzeti Egészségfejlesztési Intézetet jelöli ki a népegészségügyi termékadóról szóló 2011. évi CIII. törvény 1. § 19. pontjában meghatározott feladat ellátására.”
-
-## 44. § Az ÁNTSZ r.
-
-a) 15. § (3) bekezdésében az „Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetet” szövegrész helyébe az „OGYÉI-t” szöveg,
-
-b) 25/A. § (3) bekezdésében az „Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI)” szövegrész helyébe az „OGYÉI” szöveg
-
-lép.
+[^43]: A 42–44. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

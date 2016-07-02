@@ -1,1 +1,3 @@
-## „(1a) A háziorvostan szakképzésben részt vevő rezidens azon gyakorlati elemeket, amelyekre az egyetem akkreditált, az egyetemtől eltérő képzőhelyen az egyetem engedélyével abban az esetben töltheti, ha lakóhelyére vagy tartózkodási helyére figyelemmel a szakképzés egyes elemeinek letöltése más akkreditált egészségügyi szolgáltatónál számára kedvezőbb.”
+72. §[^71]
+
+[^71]: A 71–77. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

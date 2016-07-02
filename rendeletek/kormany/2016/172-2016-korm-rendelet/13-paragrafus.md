@@ -1,3 +1,3 @@
-## 12. § Az Ebtv.vhr. 40. § (2) bekezdése helyébe a következő rendelkezés lép:
+13. §[^13]
 
-## „(2) A tájékoztatóban foglaltak betartását a kormányhivatal, illetve a kormányhivatalok, mint kifizetőhelyek tekintetében az OEP ellenőrzi.”
+[^13]: Az 1–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

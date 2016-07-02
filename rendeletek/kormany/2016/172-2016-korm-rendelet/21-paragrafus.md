@@ -1,5 +1,3 @@
-## 21. § Hatályát veszti a Kr.
+21. §[^21]
 
-a) 28/C. § (5) bekezdése,
-
-b) 29/B. § (3)–(8) bekezdése.
+[^21]: A 17–21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

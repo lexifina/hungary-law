@@ -1,3 +1,3 @@
-## 62. § A 212/2013. Korm. rendelet 5. § (5) bekezdése helyébe a következő rendelkezés lép:
+63. §[^62]
 
-## „(5) A gyógyszerész részére nyújtható hitelösszeg meghatározását megelőzően a pénzügyi intézmény megvizsgálja a benyújtott üzleti terv alapján a hitelösszeg megalapozottságát.”
+[^62]: A 62–64. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

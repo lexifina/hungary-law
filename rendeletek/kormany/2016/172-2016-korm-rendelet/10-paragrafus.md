@@ -1,1 +1,3 @@
-## „(5) A fennálló biztosítási jogviszony kezdőnapjának a pénzbeli ellátásra való jogosultság kezdő napján fennálló biztosítási jogviszony első napja minősül. Az Ebtv. 39/A. § (1) bekezdésének alkalmazásánál a fennálló biztosítási jogviszony kezdő napja nem változik, ha az ellátásra jogosult a biztosítási jogviszony megszűnését követő harminc napon belül ugyanannál a foglalkoztatónál, ugyanolyan jogviszony alapján ismét biztosítottá válik. Törvény szerinti jogutódlás esetén a biztosítási jogviszony kezdő napja megegyezik a jogelődnél létesített biztosítási jogviszony kezdő napjával.”
+10. §[^10]
+
+[^10]: Az 1–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

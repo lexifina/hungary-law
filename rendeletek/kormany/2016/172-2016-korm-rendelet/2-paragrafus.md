@@ -1,5 +1,3 @@
-## 1. § A kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény végrehajtásáról szóló 217/1997. (XII. 1.) Korm. rendelet (a továbbiakban: Ebtv.vhr.) 1. § (2) bekezdés d) pontja helyébe a következő rendelkezés lép:
+2. §[^2]
 
-## (E rendelet alkalmazásában)
-
-## „d) számítási időszak: az irányadó időszakon belül az Ebtv. 48. § (1)–(4) bekezdésében, baleseti táppénz esetén az Ebtv. 55. § (7) bekezdésében meghatározott időszak azon naptári napjai, amelyre pénzbeli egészségbiztosítási járulékalapot képező jövedelmet vallottak be, amely időszak legfeljebb azon hónapig tarthat, ameddig a biztosított jövedelméről a bevallás benyújtásra került,”
+[^2]: Az 1–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

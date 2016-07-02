@@ -1,3 +1,3 @@
-## 39. § A Kutatás R. 27. §-a a következő (4) bekezdéssel egészül ki:
+40. §[^39]
 
-## „(4) Ha a vizsgálati terv lényeges módosítása a 24. § (1) bekezdésében felsoroltakat is érinti, a módosított vizsgálati terv tekintetében az etikai bizottság szakhatósági állásfoglalást ad ki.”
+[^39]: A 34–41. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

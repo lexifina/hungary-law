@@ -1,1 +1,3 @@
-## „(8) Az OEP a munkáltató által igényelt, de a bérnövekedés biztosítására fel nem használt támogatási összeget a (7) bekezdés szerinti elszámolási időpontot követően esedékes támogatási összegből levonja.”
+66. §[^65]
+
+[^65]: A 65–67. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

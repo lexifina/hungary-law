@@ -1,3 +1,3 @@
-## 4. § Az Ebtv.vhr. 11/B. § (4) bekezdése helyébe a következő rendelkezés lép:
+5. §[^5]
 
-## „(4) Ugyanolyan egészségügyi szolgáltatásra vonatkozó ismételt méltányossági kérelem esetén a (3) bekezdésben foglaltakat kell alkalmazni azzal, hogy a (3) bekezdés a) pontjában meghatározottak tekintetében csak a megelőző kérelem benyújtása óta eltelt időszakban bekövetkezett állapot változást dokumentáló leleteket szükséges csatolni.”
+[^5]: Az 1–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

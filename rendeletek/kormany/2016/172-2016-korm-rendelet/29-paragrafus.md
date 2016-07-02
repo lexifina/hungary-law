@@ -1,3 +1,5 @@
-## 28. § A Vr. 3. számú melléklet A) rész 4. pontjában, valamint 4. számú melléklet A) rész 4. pontjában és B) részében a „Debreceni Egyetem Orvos- és Egészségtudományi Centrum” szövegrész helyébe a „Debreceni Egyetem Klinikai Központ” szöveg lép.
-
 ## 5. Az Országos Mentőszolgálatról szóló 322/2006. (XII. 23.) Korm. rendelet módosítása
+
+29. §[^28]
+
+[^28]: A 29–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 16. § Hatályát veszti az Ebtv.vhr.
+16. §[^16]
 
-a) 39. § (1) és (1a) bekezdése,
-
-b) 47. § (3) bekezdése.
+[^16]: Az 1–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
