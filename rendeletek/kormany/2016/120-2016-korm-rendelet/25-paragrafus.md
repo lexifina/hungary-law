@@ -1,1 +1,3 @@
-25. § Hatályát veszti a közúti árutovábbítási szerződésekről szóló 2/1981. (I. 31.) MT rendelet.
+25. §[^1]
+
+[^1]: A 25. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
