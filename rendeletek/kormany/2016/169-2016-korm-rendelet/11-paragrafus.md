@@ -1,5 +1,3 @@
-## 10. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény végrehajtásához szükséges egyes rendelkezésekről szóló 248/2012. (VIII. 31.) Korm. rendelet (a továbbiakban: R3.) 5/A. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+11. §[^11]
 
-## „(1) Ha a (volt) magyar állami (rész)ösztöndíjas hallgató az Nftv. 48/N. § (3) bekezdése alapján – az Nftv. 48/P. §-a szerinti határozatban közölt esedékesség napjáig – benyújtott kérelmében vállalja, hogy a magyar állami (rész)ösztöndíjjal folytatott tanulmányi idővel megegyező időtartamban hazai munkaviszonyt tart fenn, a kérelemről hozott döntés jogerőre emelkedésének napjától az állami (rész)ösztöndíjjal folytatott tanulmányi idővel megegyező időtartamot követő háromszázhatvanötödik napig teljesítheti a hazai munkaviszony fenntartási kötelezettségét.
-
-## (2) Az Nftv. 48/A. § b) pontja és 48/N. § (3) bekezdése szerinti munkavégzési kötelezettségbe az ügyfél kérelmére be kell számítani a hallgatói jogviszony megszűnését követően a kérelmező által igazolt, hazai munkavégzésre irányuló jogviszonyt. Ez esetben a hazai munkaviszony fenntartási kötelezettség teljesítésének (1) bekezdés szerinti határideje a hallgatói jogviszony megszűnését követő naptól számítandó.”
+[^11]: A 10–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

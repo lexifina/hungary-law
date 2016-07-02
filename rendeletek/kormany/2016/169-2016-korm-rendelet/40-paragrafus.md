@@ -1,9 +1,3 @@
-## „(7) A hitéleti képzési területen alapképzési szakon az MKKR 6. szintjének megfelelő, mesterképzési szakon az MKKR 7. szintjének megfelelő végzettség és szakképzettség szerezhető.
+40. §[^42]
 
-## (8) Az Nftv. 15. § (6) bekezdésében és az 51. § (5) bekezdésében meghatározottakkal összhangban, a szakirányú továbbképzés szervezésének általános feltételeiről szóló 10/2006. (IX. 25.) OKM rendelet szerinti,
-
-## a) alapfokozatot követő, valamint alap- és mesterfokozatot követő szakirányú továbbképzésben az MKKR 6. szintjének megfelelő,
-
-## b) kizárólag mesterfokozatot követő szakirányú továbbképzésben az MKKR 7. szintjének megfelelő
-
-## szakképzettség szerezhető.”
+[^42]: A 39–42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,3 @@
-## 14. § Hatályát veszti az R3.
+14. §[^14]
 
-a) 5/A. § (3) bekezdésében az „ismételten” szövegrész,
-
-b) 9. § (5) bekezdése.
+[^14]: A 10–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

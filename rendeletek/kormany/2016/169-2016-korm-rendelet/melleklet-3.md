@@ -1,5 +1,3 @@
-## 1. Az R5. 1. melléklet I. rész 5. pontjában a „Közigazgatási, rendészeti és katonai” szövegrész helyébe az „Államtudományi” szöveg lép.
+3. melléklet a 169/2016. (VII. 1.) Korm. rendelethez[^47]
 
-## 2. Az R5. 1. melléklet II. A) rész 5. pontjában a „Közigazgatási, rendészeti és katonai” szövegrész helyébe az „Államtudományi”szöveg lép.
-
-3. melléklet a 169/2016. (VII. 1.) Korm. rendelethez
+[^47]: Az 1–9. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

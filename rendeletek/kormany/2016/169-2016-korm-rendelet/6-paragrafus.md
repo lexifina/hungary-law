@@ -1,11 +1,3 @@
-## 6. § Hatályát veszti az R2.
+6. §[^6]
 
-a) 1. § (1) bekezdés c) pontja,
-
-b) 12. § (1) bekezdés c) pontja,
-
-c) 12., 13. és 14. alcíme,
-
-d) 34. § (1) bekezdés c) pontjában az „és a 30. § (8) bekezdésében” szövegrész,
-
-e) Mellékletében az „oktatói igazolvány helyett kiállított” szövegrész.
+[^6]: A 4–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

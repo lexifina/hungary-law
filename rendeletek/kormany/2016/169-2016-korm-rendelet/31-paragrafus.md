@@ -1,3 +1,3 @@
-## 30. § Az R8. 21. § (3) bekezdése helyébe a következő rendelkezés lép:
+31. §[^31]
 
-## „(3) A felsőoktatási szakképzés, valamint felsőoktatási szakképzés szakirányának indítása nyilvántartásba vételének kezdeményezése tekintetében a 18. § (3) bekezdését kell alkalmazni.”
+[^31]: A 28–31. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
