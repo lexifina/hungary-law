@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-66-00-00
 | 2016-01-01 | 2015. évi CXCI. törvény | 2015-66-00-00.11 |
 | 2016-01-02 | 2010. évi CXXX. törvény | 2015-66-00-00.12 |
 | 2016-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-66-00-00.13 |
+| 2016-07-02 | 2010. évi CXXX. törvény | 2015-66-00-00.14 |
