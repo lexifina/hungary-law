@@ -62,8 +62,6 @@ i) a vonatkozó kormányhatározatok, jogszabályok végrehajtását, illetve az
 
 10. Ez a határozat 2016. július 1-jén lép hatályba.
 
-11. A Moholy-Nagy Művészeti Egyetem MOME Campus – Kreatív Innovációs és Tudáspark kialakítása állami beruházás egyes kérdéseiről szóló 1438/2014. (VII. 31.) Korm. határozat 3. pontjában az „az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1359/2014. (VI. 30.) Korm. határozatban” szövegrész helyébe az „az egyes kiemelt budapesti beruházásokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1329/2016. (VII. 1.) Korm. határozat 5. pontjában” szöveg lép.
+11–13.[^1]
 
-12. A FINA Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság Budapesten történő megrendezéséhez szükséges egyes létesítmény-fejlesztéshez kapcsolódó feladatokról szóló 1138/2015. (III. 11.) Korm. határozat 2. pontjában az „az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1359/2014. (VI. 30.) Korm. határozat 2. és 3. pontjában” szövegrész helyébe az „az egyes kiemelt budapesti beruházásokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1329/2016. (VII. 1.) Korm. határozat 5. pontjában” szöveg lép.
-
-13. Hatályát veszti az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos kinevezéséről és feladatairól szóló 1359/2014. (VI. 30.) Korm. határozat.
+[^1]: A 11–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
