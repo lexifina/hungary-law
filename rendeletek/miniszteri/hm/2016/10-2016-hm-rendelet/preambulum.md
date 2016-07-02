@@ -1,1 +1,0 @@
-A honvédek jogállásáról szóló 2012. évi CCV. törvény 238. § (2) bekezdés 1., 3., 4., 9., 18., 19., 24. és 31. pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 77. §-ában meghatározott feladatkörömben eljárva a következőket rendelem el:
