@@ -8,4 +8,4 @@
 
 (4) Nem lép hatályba a földgázellátásról szóló 2008. évi XL. törvény módosításáról szóló 2015. évi V. törvény 19. §-a és 25. §-ának (2) bekezdése.
 
-(5) Hatályát veszti a földgázellátásról szóló 2008. évi XL. törvény módosításáról szóló 2015. évi V. törvény.
+(5)
