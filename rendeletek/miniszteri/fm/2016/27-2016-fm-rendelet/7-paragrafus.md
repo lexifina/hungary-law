@@ -1,3 +1,0 @@
-## 6. § Az erdészeti szakszemélyzet és a jogosult erdészeti szakszemélyzet nyilvántartásba vételének és nyilvántartásból való törlésének, továbbképzésének, szolgálati tevékenységének részletes szabályairól, valamint az erdészeti hatósági és igazgatási feladatokat ellátó személyek szolgálati tevékenységének egyes szabályairól szóló 71/2010. (V. 13.) FVM rendelet (a továbbiakban: R.) 3. §-a a következő (3) bekezdéssel egészül ki:
-
-## „(3) A NÉBIH az erdészeti szakszemélyzet vagy a jogosult erdészeti szakszemélyzet (a továbbiakban együtt: szakszemélyzet) kérelmére annak családi és utónevét, jellemző működési területét és elérhetőségét a honlapján közzéteszi.”
