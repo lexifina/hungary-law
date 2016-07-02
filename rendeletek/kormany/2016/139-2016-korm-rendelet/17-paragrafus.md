@@ -1,5 +1,0 @@
-## 16. § A kollektív befektetési formák befektetési és hitelfelvételi szabályairól szóló 78/2014. (III. 14.) Korm. rendelet 42. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) Az (1) bekezdésben meghatározott kölcsön, továbbá minden egyéb, az alap befektetési politikájának megfelelő ügylet fedezeteként, vagy az alap befektetési politikájának megfelelő ügylet megvalósítása céljából az ingatlanalap a tulajdonában lévő ingatlant megterhelheti, arra és ingatlantársaságbeli részesedésére jelzálogjogot, elidegenítési és terhelési tilalmat, illetve az ingatlantársaságbeli részesedését megtestesítő értékpapírra óvadékot alapíthat, vételi jogot engedhet. Az (1) bekezdésben meghatározott kölcsön, továbbá minden egyéb, az alap befektetési politikájának megfelelő ügylet fedezeteként, vagy az alap befektetési politikájának megfelelő ügylet megvalósítása céljából az ingatlanalap a tulajdonában lévő ingatlan elidegenítéséből, hasznosításából, vagyonbiztosításából származó követelésére zálogjogot, fizetésiszámla-követelésén óvadéki jogot alapíthat.”
-
-## 7. Záró rendelkezések
