@@ -1,0 +1,1 @@
+## „(2a) Az esélyteremtő ösztöndíjak valamennyi alprogramjába az újonnan belépő ösztöndíjas tanulók/hallgatók legalább felének roma származásúnak kell lennie. Ha e követelmény a pályázati kiírásokban foglalt feltételeknek megfelelő pályázatok csekély száma miatt nem teljesíthető, a fennmaradó keret terhére nem roma származású pályázók is részesülhetnek támogatásban.”
