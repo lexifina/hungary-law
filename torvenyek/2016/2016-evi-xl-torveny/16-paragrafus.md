@@ -2,7 +2,7 @@
 
 16. § (1)
 
-(2) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 1. § 45. pontjában az „a papír, az USB kulcs” szövegrész helyébe az „az USB kulcs” szöveg lép.
+(2)
 
 (3) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény
 
@@ -22,4 +22,4 @@ g) 113. (3) bekezdésével módosítandó Pp. 196. § (1) bekezdés f) pontja a 
 
 lép hatályba.
 
-(4) Hatályát veszti az 1. § 1. pontjában az „ÁNYK” szövegrész.
+(4)
