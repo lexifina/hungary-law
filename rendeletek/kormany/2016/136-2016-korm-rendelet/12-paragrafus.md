@@ -1,1 +1,0 @@
-## „(6) Ha a nyilvántartásba vett földműves, mezőgazdasági termelőszövetkezet, illetve újonnan alapított mezőgazdasági termelőszervezet adataiban bekövetkezett változásról – változásbejelentés hiányában – a járási hivatal tudomást szerez, akkor az adatváltozást hivatalból átvezeti.”
