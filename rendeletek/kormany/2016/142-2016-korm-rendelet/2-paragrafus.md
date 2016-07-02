@@ -1,3 +1,0 @@
-## 1. § A polgári nemzetbiztonsági szolgálatok költségvetésének és gazdálkodásának egyes speciális szabályairól szóló 130/2011. (VII. 18.) Korm. rendelet (a továbbiakban: R.) 2. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-## „(4) A Szolgálatok házipénztárába befolyt bevételeket értékhatártól függetlenül a kincstári egységes számlára nem kell befizetni, ugyanakkor – ha szükséges – gondoskodni kell a bevételeknek megfelelő összegű előirányzat-módosítások végrehajtásáról, azzal, hogy a bevételek – a bevételi előirányzaton felüli többletbevétel kivételével – addig is közvetlenül felhasználhatók a kiadások teljesítésére. A Szolgálatoknak a házipénztár forgalmáról külön bejelentési kötelezettségük nincs a Kincstár részére.”
