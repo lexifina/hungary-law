@@ -1,5 +1,5 @@
-## 250. §[^154]
-
 ## 150. A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet módosítása
 
-[^154]: A 250. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+251. §[^255]
+
+[^255]: A 251. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

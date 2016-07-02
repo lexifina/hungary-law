@@ -1,7 +1,7 @@
-## 39. §[^28]
-
 ## 29. Az ivóvíz minőségi követelményeiről és az ellenőrzés rendjéről szóló
 
 ## 201/2001. (X. 25.) Korm. rendelet módosítása
 
-[^28]: A 39. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+40. §[^41]
+
+[^41]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

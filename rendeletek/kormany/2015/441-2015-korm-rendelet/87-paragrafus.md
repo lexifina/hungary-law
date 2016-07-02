@@ -1,5 +1,5 @@
-## 84–86. §[^55]
-
 ## 55. A természetben okozott károsodás mértékének megállapításáról, valamint a kármentesítés szabályairól szóló 91/2007. (IV. 26.) Korm. rendelet módosítása
 
-[^55]: A 84–86. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+87. §[^89]
+
+[^89]: A 87–88. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 110. §[^70]
-
 ## 68. Az építési beruházások megvalósításához szükséges eljárások integrált intézésének részletes szabályairól és a közreműködő hatóságok kijelöléséről szóló 194/2009. (IX. 15.) Korm. rendelet módosítása
 
-[^70]: A 110. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+111. §[^115]
+
+[^115]: A 111. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

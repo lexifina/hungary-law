@@ -1,5 +1,5 @@
-## 136–137. §[^86]
-
 ## 84. A zenés, táncos rendezvények működésének biztonságosabbá tételéről szóló 23/2011. (III. 8.) Korm. rendelet módosítása
 
-[^86]: A 136–137. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+138. §[^142]
+
+[^142]: A 138. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,5 +1,5 @@
-## 245–247. §[^152]
-
 ## 148. A környezetvédelmi és természetvédelmi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló 71/2015. (III. 30.) Korm. rendelet módosítása
 
-[^152]: A 245–247. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+248. §[^252]
+
+[^252]: A 248–249. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
