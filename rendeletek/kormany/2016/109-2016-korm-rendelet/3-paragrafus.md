@@ -1,7 +1,0 @@
-## 2. § A Nemzeti Hírközlési Hatóság eljárásában közreműködő szakhatóságok kijelöléséről, valamint egyes szakhatósági közreműködések megszüntetéséről és módosításáról szóló 362/2008. (XII. 31.) Korm. rendelet a következő 1/B. §-sal egészül ki:
-
-## „1/B. § A Kormány a Hatóság az elektronikus hírközlésről szóló 2003. évi C. törvény 83/B. § (1) bekezdése szerinti eljárásában, a 83/B. § (5) bekezdésében meghatározott esetben, a 83/A. § (4) bekezdése szerinti megtagadási okok, a hálózatüzemeltetőnél keletkező, az építési munkák összehangolásából eredő többletköltségek, valamint az építési munkák összehangolása érdekében alkalmazandó tisztességes és megkülönböztetéstől mentes feltételek megalapozottsága tekintetében a földgáz infrastruktúra, a víziközmű, országos közút, helyi közút, valamint a közforgalom elől el nem zárt magánút, vasúti, hajózási és reptéri infrastruktúra esetén szakhatóságként az 1/A. § (1) bekezdésében megjelölt szakhatóságokat jelöli ki. A távhő-, valamint villamosenergia-infrastruktúra esetén a megtagadási okok, valamint az építési munkák összehangolása érdekében alkalmazandó tisztességes és megkülönböztetéstől mentes feltételek megalapozottsága tekintetében szakhatóságként a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatalt, az építési munkák összehangolásából eredő többletköltségek megalapozottsága tekintetében a Magyar Energetikai és Közmű-szabályozási Hivatalt jelöli ki.”
-
-## 3. Záró rendelkezés
-
-3. § Ez a rendelet 2016. július 1-jén lép hatályba.
