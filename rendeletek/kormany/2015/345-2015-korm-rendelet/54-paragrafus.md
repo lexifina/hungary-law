@@ -1,5 +1,5 @@
-## 53. §[^29]
+## 53. §[^30]
 
 ## 11. Az Oktatási Hivatalról szóló 121/2013. (IV. 26.) Korm. rendelet módosítása
 
-[^29]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: Az 53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
