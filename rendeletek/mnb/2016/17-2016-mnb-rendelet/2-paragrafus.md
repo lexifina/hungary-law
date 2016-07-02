@@ -1,3 +1,3 @@
-## 1. § A jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 50/2015. (XII. 9.) MNB rendelet (a továbbiakban: R.) a következő 5. §-sal egészül ki:
+## 1. §[^2]
 
-## „5. § Az adatszolgáltató az L11 MNB azonosító kódú adatszolgáltatást e rendeletnek a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 50/2015. (XII. 9.) MNB rendelet módosításáról és egyes rendelkezései hatályba nem lépéséről szóló 17/2016. (V. 11.) MNB rendelet 2. melléklet 1–3. pontjával megállapított rendelkezései szerint első alkalommal 2016 harmadik negyedévére mint tárgyidőszakra vonatkozóan teljesíti.”
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
