@@ -1,1 +1,0 @@
-## 6. § A Felügyelet a piaci gyakorlat elfogadása előtt, illetve egy korábban elfogadott piaci gyakorlat el nem fogadott piaci gyakorlattá minősítése előtt kikéri a piaci szereplők, az érintett hatóságok és szükség esetén más tagállam felügyeleti hatóságának véleményét.
