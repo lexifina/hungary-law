@@ -1,1 +1,3 @@
-## „(4) Önköltség-támogatási komponens keretében pályázatot nyújthat be az a magyar állampolgár, aki nappali, esti vagy levelező munkarendű magyar állami részösztöndíjas, önköltséges, Magyarország területén működő felsőoktatási intézményben alap-, mester- vagy osztatlan képzésen vagy felsőoktatási szakképzésben hallgatói jogviszonnyal rendelkezik, vagy a pályázat kiírásának évében jelentkezését ilyen képzésre beadta amennyiben az adott szintű végzettséggel még nem rendelkezik, vagy azonos szintű más képzésben nem vesz részt és az Nftv. szerint hátrányos vagy halmozottan hátrányos helyzetűnek minősül vagy utógondozásban, utógondozói ellátásban részesül.”
+## 3–8. §[^4]
+
+[^4]: A 3–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
