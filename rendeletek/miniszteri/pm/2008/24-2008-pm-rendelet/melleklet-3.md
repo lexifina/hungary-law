@@ -42,9 +42,9 @@
 
 ## 3.4.2. az összevont (konszolidált) vezetőségi jelentés megbízható képet ad a kibocsátó és a konszolidációba bevont vállalkozások helyzetéről, fejlődéséről és teljesítményéről, ismertetve pénzügyi év hátralevő hat hónapját érintő főbb kockázatokat és bizonytalansági tényezőket.
 
-## 3.5.[^11] Amennyiben a kibocsátó a nemzetközi számviteli standardok alkalmazásáról szóló 2002. július 19-i 1606/2002/EK európai parlamenti és tanácsi rendelet 4. cikke hatálya alá tarozik, akkor a 3.1. pont helyett az Európai Unió Hivatalos Lapjában rendeleti formában kihirdetett nemzetközi számviteli standardoknak megfelelően állítja össze az összevont (konszolidált) féléves beszámolóját.
+## 3.5.[^17] Amennyiben a kibocsátó a nemzetközi számviteli standardok alkalmazásáról szóló 2002. július 19-i 1606/2002/EK európai parlamenti és tanácsi rendelet 4. cikke hatálya alá tarozik, akkor a 3.1. pont helyett az Európai Unió Hivatalos Lapjában rendeleti formában kihirdetett nemzetközi számviteli standardoknak megfelelően állítja össze az összevont (konszolidált) féléves beszámolóját.
 
-3. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^12]
+3. melléklet a 24/2008. (VIII. 15.) PM rendelethez[^18]
 
-[^11]: A 2. melléklet 3.5. pontja a 18/2012. (VII. 13.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^12]: A 3. melléklet a 21/2010. (V. 12.) PM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^17]: A 2. melléklet 3.5. pontja a 18/2012. (VII. 13.) NGM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^18]: A 3. mellékletet a 21/2016. (VI. 29.) NGM rendelet 23. § b) pontja hatályon kívül helyezte.
