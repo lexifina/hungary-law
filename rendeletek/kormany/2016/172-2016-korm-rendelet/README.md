@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-172-20-
 | --- | --- | --- |
 | 2016-07-01 | 2016-172-20-22.1 | 172/2016. (VII. 1.) Korm. rendelet |
 | 2016-07-02 | 2016-172-20-22.2 | 2010: CXXX. törvény |
+| 2016-07-03 | 2016-172-20-22.3 | 2010: CXXX. törvény |

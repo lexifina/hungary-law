@@ -1,5 +1,5 @@
 ## 13. A közforgalmú gyógyszertárakban a gyógyszerészi tulajdonarány növelésének elősegítéséről szóló 212/2013. (VI. 19.) Korm. rendelet módosítása
 
-58. §[^57]
+58. §[^58]
 
-[^57]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^58]: Az 58. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
