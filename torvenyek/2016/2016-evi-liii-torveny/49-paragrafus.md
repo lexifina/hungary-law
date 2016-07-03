@@ -2,10 +2,10 @@
 
 a)–b)
 
-c)
+c) XXI/A. Fejezete,
 
 d)
 
-e)
+e) 451. § (2) bekezdés q), r), s) pontjai,
 
 f)
