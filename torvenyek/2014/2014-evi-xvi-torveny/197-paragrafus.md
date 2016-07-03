@@ -44,7 +44,7 @@ c) az európai uniós támogatások felhasználásának szabályszerűségét el
 
 szemben.
 
-(4) Nem jelenti az üzleti titok sérelmét a Tpt. 205. §-ban meghatározott bejelentési kötelezettség teljesítése.
+(4) Nem jelenti az üzleti titok sérelmét az 596/2014/EU rendeletben és annak kiegészítő jogszabályaiban meghatározott, a piaci visszaélés megelőzését és felderítését szolgáló bejelentési kötelezettség teljesítése.
 
 (5) Nem lehet üzleti titokra hivatkozással visszatartani az információt a közérdekű adatok nyilvánosságára és a közérdekből nyilvános adatra vonatkozó, külön törvényben meghatározott adatszolgáltatási és tájékoztatási kötelezettség esetén.
 

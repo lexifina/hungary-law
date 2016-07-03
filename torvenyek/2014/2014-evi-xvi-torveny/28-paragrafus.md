@@ -26,7 +26,7 @@ ac) ügylet ellentétben áll az ÁÉKBV-alapkezelő e törvényben vagy a Bszt.
 
 b) harmadik személy részére történő, az érintett személy munkaköri kötelezettségét meghaladó tanácsadás vagy harmadik személy biztatása arra, hogy pénzügyi eszközökre vonatkozó olyan ügyletbe kezdjen, amely ha az érintett személy személyes ügylete lenne, vonatkozna rá az a) pont vagy a Bszt. 77. §-ának (1) és (2) bekezdése, illetve a folyamatban lévő megbízásokra vonatkozó információkkal való visszaélésnek minősülne;
 
-c) a Tpt. 203. § (1) bekezdés b) pontjában meghatározott esetnek nem minősülő információ vagy vélemény harmadik személy részére történő, az érintett személy munkaköri kötelezettségét meghaladó módon való közlése, amennyiben az érintett személy tisztában van vagy tőle elvárható gondossággal tisztában kellene lennie, hogy e közlés eredményeként a harmadik személy
+c) információ vagy vélemény az 596/2014/EU rendeletben meghatározott jogszerű magatartásnak nem minősülő, az érintett személy munkaköri kötelezettségét meghaladó módon történő közlése harmadik személy részére, amennyiben az érintett személy tisztában van vagy tőle elvárható gondossággal tisztában kellene lennie, hogy e közlés eredményeként a harmadik személy
 
 ca) pénzügyi eszközre vonatkozóan olyan ügyletbe kezdene, amely ha az érintett személy személyes ügylete lenne, vonatkozna rá e bekezdés a) pontja vagy a Bszt. 77. §-ának (1)–(2) bekezdése, illetve a folyamatban lévő megbízásokra vonatkozó információkkal való visszaélésnek minősülne vagy
 
