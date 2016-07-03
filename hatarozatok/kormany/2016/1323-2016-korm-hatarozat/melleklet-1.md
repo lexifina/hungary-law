@@ -42,45 +42,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat [a továbbiakban: 1084/2016. (II. 29.) Korm. határozat]
-
-## a) 1. pont d) alpontjában a „12,86” szövegrész helyébe a „17,38” szöveg,
-
-## b) 1. melléklet 1. pontjában foglalt táblázat
-
-## ba) C:5 mezőjében a „76,28” szövegrész helyébe a „78,54” szöveg,
-
-## bb) C:7 mezőjében a „179,59” szövegrész helyébe a „181,63” szöveg,
-
-## bc) C:9 mezőjében a „11,13” szövegrész helyébe a „11,35” szöveg,
-
-## c) 2. mellékletében foglalt táblázat
-
-## ca) D:32 mezőjében az „5,20” szövegrész helyébe az „5,24” szöveg,
-
-## cb) D:41 mezőjében a „9,00” szövegrész helyébe a „11,22” szöveg,
-
-## cc) D:46 mezőjében a „3,50” szövegrész helyébe a „3,60” szöveg,
-
-## cd) D:47 mezőjében a „27,21” szövegrész helyébe a „27,30” szöveg,
-
-## ce) D:48 mezőjében a „29,86” szövegrész helyébe a „30,49” szöveg,
-
-## cf) D:50 mezőjében a „13,00” szövegrész helyébe a „14,16” szöveg,
-
-## cg) D:59 mezőjében a „2,20” szövegrész helyébe a „2,23” szöveg,
-
-## ch) D:60 mezőjében a „9,00” szövegrész helyébe a „9,03” szöveg,
-
-## ci) D:66 mezőjében az „1,88” szövegrész helyébe az „1,91” szöveg,
-
-## cj) D:69 mezőjében a „3,50” szövegrész helyébe a „3,65” szöveg,
-
-## ck) D:70 mezőjében a „2,00” szövegrész helyébe a „2,04” szöveg
-
-## lép.
-
-## 4. Hatályát veszti az 1084/2016. (II. 29.) Korm. határozat 1. pont f) alpontja.
+## 3–4.[^1]
 
 1. melléklet az 1323/2016. (VII. 1.) Korm. határozathoz
 
@@ -91,3 +53,5 @@
 | 2. | KEHOP-1.4.0-15- 2016-00011 | VTT Felső-Tisza árvízvédelmi rendszerének kiépítése, Tisza-Túr tározó | az Országos Vízügyi Főigazgatóság és a Felső-Tisza-vidéki Vízügyi Igazgatóság konzorciuma | 27 296 659 117 | A Tisza-Túr tározó projekt célja a szükséges árvízvédelmi biztonság megteremtése a Felső-Tisza országhatárhoz közeli szakaszán kialakított, hozzávetőlegesen 45 millió köbméter árapasztó kapacitású tározó létesítésével, összhangban a Vásárhelyi Terv továbbfejlesztése (a továbbiakban: VTT) komplex program célkitűzéseivel. A projekt megvalósulása több mint 130 ezer ember nagyobb árvízi biztonságát szolgálja, míg a közvetetten érintett lakosszám 210 ezer fő. |
 
 | 3. | KEHOP-1.4.0-15- 2016-00013 | VTT Közép-tiszai tározó kiépítése, Inérháti tározó | az Országos Vízügyi Főigazgatóság és az Észak-Magyarországi Vízügyi Igazgatóság konzorciuma | 30 481 572 594 | Az Inérháti tározó projekt célja a VTT komplex program eddigi tapasztalatainak hasznosításával a Tisza-völgy árvízi biztonságának javítása, illetve a hozzávetőlegesen 163 millió köbméter kapacitású tározó megépítése által a Tisza teljes hazai szakaszán a rendkívüli árhullámok csúcsvízszintjeinek csökkentése. A projekt megvalósulása több mint 250 ezer ember nagyobb árvízi biztonságát szolgálja, míg a közvetetten érintett lakosszám meghaladja a 970 ezer főt. |
+
+[^1]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
