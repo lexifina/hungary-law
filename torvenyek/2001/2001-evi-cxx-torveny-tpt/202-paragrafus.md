@@ -1,11 +1,13 @@
-## Piacbefolyásolás
+202. § (1) A Felügyelet honlapjának elkülönült részén, könnyen hozzáférhető módon közzéteszi
 
-202. § Piacbefolyásolásnak minősül
+a) a jogsértésről szóló bejelentések átvételére és nyomon követésére, valamint a kijelölt munkatársakkal való kapcsolatfelvételre szolgáló kommunikációs csatornákat, így különösen a telefonszámokat és a biztonságos postai és elektronikus elérhetőséget, amely biztosítja a bejelentések bizalmas kezelését;
 
-a) olyan ügylet kötése vagy ügylet kötésére megbízásadás, amely hamis vagy félrevezető jelzéseket ad vagy adhat az adott pénzügyi eszköz keresleti vagy kínálati viszonyairól, árfolyamáról;
+b) a jogsértésről szóló bejelentésekre vonatkozó eljárásokat;
 
-b) olyan ügylet kötése vagy ügylet kötésére való megbízásadás, amely az adott pénzügyi eszköz árfolyamát mesterséges vagy rendellenes szinten rögzíti;
+c) a jogsértésről szóló bejelentések bizalmas kezelésére vonatkozó szabályozást;
 
-c) olyan ügylet kötése vagy ügylet kötésére megbízásadás, amely színlelt, illetve amelyben bármilyen más formájú megtévesztéshez, manipulációhoz folyamodnak; vagy
+d) a munkaszerződés alapján foglalkoztatott személyek védelmére szolgáló eljárásokat;
 
-d) megalapozatlan, félrevezető, hamis információ közlése, híresztelése, nyilvánosságra hozása vagy nyilvános közlése, feltéve, hogy az információt terjesztő személy az információ megalapozatlan, félrevezető, hamis mivoltának tudatában van vagy az adott helyzetben elvárható gondossággal eljárva tudatában kellett volna lennie.
+e) nyilatkozatot arra vonatkozóan, hogy az 596/2014/EU rendelettel összhangban nyújtott tájékoztatás nem minősül az információközlés bármely, szerződésben, jogalkotási, szabályozási vagy igazgatási rendelkezésben meghatározott korlátozása megsértésének, és azért a bejelentő személy semmilyen módon nem vonható felelősségre.
+
+(2) A telefonos elérhetőség mellett azt is fel kell tüntetni, ha a telefonszám felhívása esetén a hívás rögzítésre kerül.

@@ -6,8 +6,6 @@
 
 ## A BENNFENTES KERESKEDELEM ÉS A PIACBEFOLYÁSOLÁS TILALMA
 
-199. § E rész rendelkezéseit kell alkalmazni minden olyan pénzügyi eszközzel kapcsolatos cselekményre,
+199. § (1) E rész rendelkezéseit az 596/2014/EU rendelet alkalmazási körében foglalt pénzügyi eszközökre, ügyletekre és referenciaértékekre vonatkozóan, a rendeletben meghatározott körben kell alkalmazni.
 
-a) amelyet Magyarország területén követtek el, vagy
-
-b) amelyeket külföldön követtek el, ha annak hatása Magyarország területén érvényesülhet.
+(2) A bennfentes kereskedelemre és piacbefolyásolásra az e törvényben nem szabályozott kérdésekben az 596/2014/EU rendeletet kell alkalmazni.

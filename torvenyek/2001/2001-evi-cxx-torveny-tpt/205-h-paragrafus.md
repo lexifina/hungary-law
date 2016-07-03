@@ -1,5 +1,0 @@
-205/H. § (1) Ha az érintett személy a befektetési ajánlást nem nyomtatott formában közli, a 205/B. § (1) bekezdés b) pontjában, (2)–(3) bekezdésében, a 205/C. § (4)–(5) bekezdésében, illetve a 205/D. § (1)–(2) bekezdésében, (4) bekezdésének b)–e) pontjában és (5)–(7) bekezdésében foglalt adat, információ egy feltétel és korlátozás nélkül hozzáférhető honlapon is közzétehető, ha a befektetési ajánlás egyértelműen és feltűnő módon megjelöli ezt a tényt és tartalmazza a honlap címét.
-
-(2) A 205/C. § (4) bekezdésének a)–d) pontjában és a 205/D. § (1)–(2) és (5)–(7) bekezdésében meghatározottak befektetési ajánlásban történő közlésétől kizárólag terjedelmi okok miatt és akkor lehet eltekinteni, ha az alkalmazott módszertan vagy az értékelés alapja nem változott, valamint ezek az (1) bekezdésben meghatározott honlapon közzétételre kerülnek.
-
-(3) Az (1)–(2) bekezdésben foglaltak nem alkalmazhatóak az érintett személynek a befektetési ajánlás tárgyát képező pénzügyi eszközhöz fűződő pénzügyi érdekeltségére vonatkozó adatra.

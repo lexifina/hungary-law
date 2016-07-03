@@ -1,19 +1,9 @@
-## XXII. Fejezet
+## A munkaszerződés alapján foglalkoztatott személyek védelme
 
-## FELÜGYELETI EGYÜTTMŰKÖDÉS
+206. § (1) A Felügyelet olyan eljárásokat vezet be, amelyek biztosítják az 596/2014/EU rendelet megsértését bejelentő vagy megsértésével vádolt, munkaszerződés alapján foglalkoztatott személyek diszkriminációval vagy más tisztességtelen bánásmóddal szembeni védelmével foglalkozó hatóságokkal történő hatékony információcseréjét és együttműködését.
 
-206. § (1) A Felügyelet a tagállamok felügyeleti hatóságainak kérésére haladéktalanul rendelkezésre bocsátja a bennfentes kereskedelem és a piacbefolyásolás tárgyában kért adatokat.
+(2) Az (1) bekezdésben meghatározott eljárások magukban foglalják legalább az alábbiakat:
 
-(2) A Felügyelet a bennfentes kereskedelem és a piacbefolyásolás tárgyában külföldi felügyeleti hatóság adatátadás iránti megkeresésének teljesítését megtagadhatja, ha:
+a) a bejelentő személyek tájékoztatása a tisztességtelen bánásmóddal szembeni jogorvoslati lehetőségekről, így különösen a kártérítési igények érvényesítésének lehetőségéről;
 
-a)
-
-b) az adott ügyben bírósági eljárás van folyamatban, illetőleg
-
-c) az adott ügyben már jogerős ítéletet hoztak.
-
-(3) A Felügyelet a (2) bekezdésben meghatározott megkeresés megtagadása esetén a külföldi felügyeleti hatóságnak tájékoztatást ad a (2) bekezdés b) pontja szerinti eljárásról, illetve a (2) bekezdés c) pontjában foglalt jogerős ítéletről.
-
-(4) Ha a Felügyelet tudomására jut, hogy az Európai Unió másik tagállamában bennfentes kereskedelemmel, illetőleg piacbefolyásolással kapcsolatos cselekményeket követnek vagy követtek el, értesíti az illetékes felügyeleti hatóságot.
-
-(5) A Felügyelet adatkezelésére, adatközlésére és adattovábbítására e törvény 392–394. §-ában foglaltakat és külön jogszabály előírásait kell alkalmazni.
+b) a bejelentő személyek Felügyelet általi támogatása bármely, a tisztességtelen bánásmód miatti jogorvoslati eljárás során, például oly módon, hogy a bejelentő személyt visszaélést bejelentő személyként igazolja a munkaügyi jogvitákban.

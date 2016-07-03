@@ -1,21 +1,23 @@
-204. § (1) E rész alkalmazásában elfogadott piaci gyakorlat azon eljárások és cselekmények összessége, amelyek a piaci résztvevők által ismertek és alkalmazottak, az adott piacon az általánosan elfogadott szakmai elvek alapján elvárhatóak.
+## A bejelentések átvételére szolgáló kommunikációs csatornák
 
-(2) A Felügyelet az (1) bekezdésben, valamint a 202. §-ban meghatározott magatartások vizsgálatakor a körülmények összességét mérlegelve jár el, s az általa figyelembe veendő körülményeket külön jogszabály állapítja meg.
+204. § (1) A Felügyelet a jogsértésről szóló bejelentések átvétele és nyomon követése céljára független és önálló kommunikációs csatornákat jelöl ki, amelyek biztonságosak, és biztosítják a bizalmas kezelést (a továbbiakban: kijelölt kommunikációs csatornák).
 
-(3) Az elfogadott piaci gyakorlat alapján a piaci szereplők tudomására hozandó információnak minősül az olyan információ, amely
+(2) A kijelölt kommunikációs csatornákat akkor lehet függetlennek és önállónak tekinteni, ha az alábbi feltételek mindegyike teljesül:
 
-a) a mindennapos gyakorlat szerint a piaci szereplők részére rendelkezésre áll, vagy
+a) elkülönülnek a Felügyelet általános kommunikációs csatornáitól, ezen belül azoktól, amelyeken keresztül a Felügyelet belső, valamint harmadik felekkel folytatott kommunikációját folytatja a szokásos működése során;
 
-b) a jogszabályok, piaci szabályzatok, piaci szokványok, szerződési kötelezettség szerint a szabályozott piacon közzéteendő.
+b) a kommunikációs csatornákat oly módon alakítják ki és működtetik, hogy biztosítják az információk teljességét, sértetlenségét és bizalmas jellegét, továbbá megakadályozzák a jogosulatlan hozzáférést;
 
-(4)
+c) lehetővé teszik az információk tartós tárolását a 205. §-sal összhangban a későbbi vizsgálatok érdekében.
 
-(5) E rész rendelkezéseinek alkalmazása során pénzügyi eszköznek minősül:
+(3) A kijelölt kommunikációs csatornák lehetővé teszik a tényleges vagy lehetséges jogsértések bejelentését az alábbi módokon:
 
-a) a pénzügyi eszköz, az egyéb tőzsdei termék és bármilyen más eszköz, amelyet szabályozott piacra bevezettek, vagy amelynek bevezetésére vonatkozóan az ilyen piacon történő forgalmazás engedélyezése iránti kérelmet nyújtottak be,
+a) a jogsértésről szóló, postai vagy elektronikus úton tett bejelentés;
 
-b) az az eszköz, amelyet szabályozott piacra nem vezettek be, de értéke az a) pontban felsorolt valamelyik eszköz értékétől vagy árfolyamától függ,
+b) a jogsértésről szóló szóbeli bejelentés telefonon, függetlenül attól, hogy rögzítésre kerül-e vagy sem;
 
-c) a nyilvánosan forgalomba hozott értékpapír a rendszeres, illetve rendkívüli tájékoztatási kötelezettség megszűnéséig.
+c) személyes ügyintézés a kijelölt munkatársakkal való személyes találkozó útján.
 
-(6) E rész rendelkezéseinek alkalmazása során a befektetési jegy kibocsátójának a befektetési alap kezelője minősül.
+(4) A Felügyelet a jogsértésről szóló bejelentés átvétele előtt vagy legkésőbb annak átvételekor a bejelentő személy rendelkezésére bocsátja a 202. §-ban felsorolt információkat.
+
+(5) A Felügyelet a nem a kijelölt kommunikációs csatornán beérkezett jogsértésről szóló bejelentést módosítás nélkül, haladéktalanul továbbítja a kijelölt munkatársakhoz, a kijelölt kommunikációs csatornákat használva.

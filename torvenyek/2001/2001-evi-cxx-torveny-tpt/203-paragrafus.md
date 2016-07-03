@@ -1,27 +1,11 @@
-## Kivételek a tilalom alól
+203. § (1) A 202. § (1) bekezdés b) pontjában említett, a jogsértésről szóló bejelentésekre alkalmazandó eljárások leírásának tartalmaznia kell az alábbiakat:
 
-203. § (1) Nem minősül bennfentes kereskedelemnek
+a) tájékoztatás a bejelentések anonim módon történő benyújtásának lehetőségéről;
 
-a) az az ügylet, amelyet a bennfentes információ birtokba jutásának időpontját megelőzően kötött megállapodás alapján teljesítenek;
+b) tájékoztatás arról, hogy a Felügyelet az információk pontosítására, illetve további információk nyújtására kérheti a bejelentő személyt;
 
-b) a bennfentes információ átadása, amennyiben azt a bennfentes személy beosztásából kifolyólag, munkavégzése vagy szokásos feladatainak elvégzése során szolgáltatta.
+c) a jogsértésről szóló bejelentés eredményével kapcsolatos visszajelzés típusai, tartalma és határideje;
 
-(2) Nem minősül piacbefolyásolásnak, ha a 202. § a)–b) pontjában foglaltak megvalósulása esetén:
+d) a jogsértésről szóló bejelentések bizalmas kezelésére vonatkozó szabályozás, ezen belül azon körülmények részletes leírása, amelyek mellett a bejelentő személy bizalmas adatai az 596/2014/EU rendelet 27., 28. és 29. cikkével összhangban közölhetők.
 
-a) az ügyletet kötő, illetve a megbízást adó bizonyítja, hogy az ügylet megkötéséhez, illetve a megbízás adásához méltányolható érdeke fűződött, és
-
-b) a megbízás megfelel az adott szabályozott piac elfogadott piaci gyakorlatának.
-
-(3) Nem minősül bennfentes kereskedelemnek és piacbefolyásolásnak a részvényvisszavásárlási program keretében történő ügyletkötés, és pénzügyi eszközök árfolyamának stabilizálása érdekében kötött ügylet, ha azt a Bizottság 2273/2003/EK rendeletében szabályozott módon hajtják végre.
-
-(4) A kibocsátó – jogos érdekei sérelmének megelőzése érdekében – saját felelősségére késleltetheti a bennfentes információk nyilvánosságra hozatalát, ha
-
-a) a késleltetés nem okozza a nyilvánosság félrevezetését,
-
-b) a kibocsátó haladéktalanul bejelenti a Felügyeletnek a késleltetés tényét, és
-
-c) a kibocsátó biztosítja a szóban forgó információ bizalmas kezelését.
-
-(5) A bennfentes információ nyilvánosságra hozatalának a (4) bekezdés alapján történő, kibocsátó általi késleltetésére vonatkozó részletes szabályokat külön jogszabály állapítja meg.
-
-(6)
+(2) Az (1) bekezdés d) pontjában említett részletes leírásnak egyértelműen ki kell térnie arra, hogy bizonyos rendkívüli esetekben az adatok bizalmas kezelése nem biztosítható, így különösen abban az esetben, ha az adatok közlése az uniós vagy hazai jogszabályok által előírt szükséges és arányos kötelezettség, ezen jogrendszerek megfelelő biztosítékai mellett, például vizsgálatok vagy bírósági eljárások során vagy mások szabadságának védelme érdekében, ideértve a bejelentett személy védelemhez való jogát.

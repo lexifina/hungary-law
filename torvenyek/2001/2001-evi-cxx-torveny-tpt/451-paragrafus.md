@@ -60,11 +60,7 @@ o)
 
 p)
 
-q) a piacbefolyásolásra utaló magatartások minősítésekor figyelembe veendő körülményeket;
-
-r) az elfogadott piaci gyakorlat megállapításának részletes szabályait;
-
-s) a bennfentes információ nyilvánosságra hozatalának kibocsátó általi késleltetésére vonatkozó részletes szabályokat;
+q)–s)
 
 t) a belső ellenőrzési rendszerekre, eljárásokra vonatkozó részletes szabályokat;
 

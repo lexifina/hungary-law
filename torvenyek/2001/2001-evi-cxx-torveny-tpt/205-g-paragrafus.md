@@ -1,3 +1,0 @@
-205/G. § (1) A 205/E–205/F. §-ban meghatározottakon túlmenően a befektetési vállalkozás, a hitelintézet vagy az ezek számára munkaviszony vagy munkavégzésre irányuló egyéb jogviszony keretében tevékenységet végző természetes személy a más személy által készített befektetési ajánlás terjesztésekor köteles egyértelműen és feltűnő módon feltüntetni a befektetési vállalkozás, illetve a hitelintézet felügyeletét ellátó, illetékes felügyeleti hatóság megnevezését.
-
-(2) Az (1) bekezdésben meghatározott esetben a befektetési ajánlás terjesztőjére megfelelően alkalmazni kell a 205/D. § (4)–(7) bekezdését, ha befektetési ajánlás készítője a 205/D. § (4)–(7) bekezdésében meghatározottakat nem közli.

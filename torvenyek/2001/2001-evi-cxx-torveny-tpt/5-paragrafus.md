@@ -50,6 +50,10 @@ b) a XIX/A. és XIX/B. Fejezet alkalmazásában minden olyan vállalkozás, amel
 
 22. befolyásszerzés: a céltársaság szavazati jogot megtestesítő részvényének, illetőleg szavazati jognak a megszerzése, ideértve a szavazati jogot biztosító részvényre vonatkozó vételi jog, visszavásárlási jog, határidős vételi megállapodás érvényesítését vagy a szavazati jog használati, haszonélvezeti jog alapján történő gyakorlását, valamint azt, ha a befolyás nem a befolyásszerző közvetlenül erre irányuló magatartása révén, hanem egyéb körülmények – így különösen jogutódlás vagy a részvénytársaságnak a részvényesek szavazati jogát érintő, a szavazati arányokat módosító határozata vagy a szavazati jogok feléledése – következtében, illetve összehangoltan eljáró személyek e célból megvalósított együttműködésének eredményeképpen jön létre,
 
+22a. bejelentett személy: az a személy, akit a bejelentő személy az 596/2014/EU rendelet megsértésével vagy megsértésének szándékával vádol,
+
+22b. bejelentő személy: az a személy, aki az 596/2014/EU rendelet tényleges vagy lehetséges megsértését jelenti be a Felügyeletnek,
+
 23. biztosító: a Bit.-ben meghatározott fogalom, továbbá a XIX/B. Fejezet alkalmazásában biztosítónak tekintendő a Bit.-ben meghatározott harmadik országbeli biztosító is,
 
 24.
@@ -157,6 +161,8 @@ b) mindazon devizakülföldi, amely a saját joga alapján ilyennek tekintendő,
 63. jegyzés: az értékpapír forgalomba hozatala során az értékpapírt megszerezni szándékozó befektetőnek az értékpapír megszerzésére irányuló, feltétetlen és visszavonhatatlan nyilatkozata, amellyel az ajánlatot elfogadja és kötelezettséget vállal az ellenszolgáltatás teljesítésére,
 
 64. jegyzett tőke: az Szmt.-ben meghatározott tőke, valamint a dotációs tőke,
+
+64a. jogsértésről szóló bejelentés: a bejelentő személy által a Felügyelethez eljuttatott bejelentés az 596/2014/EU rendelet tényleges vagy lehetséges megsértéséről,
 
 65. kapcsolt vállalkozás: a vállalkozás anyavállalata és leányvállalata, a vállalkozás anyavállalatának leányvállalata, a vállalkozásban minősített befolyással rendelkező tulajdonos vagy olyan vállalkozás, amelyben a vállalkozás vagy a vállalkozás tulajdonosa, felügyelőbizottsági tagja, vezető tisztségviselője, vagy ezek közeli hozzátartozója minősített befolyással rendelkezik,
 
