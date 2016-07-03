@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-181-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-07-02 | 2016-181-20-22.1 | 181/2016. (VII. 1.) Korm. rendelet |
+| 2016-07-03 | 2016-181-20-22.2 | 2010: CXXX. törvény |
