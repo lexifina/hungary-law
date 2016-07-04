@@ -10,7 +10,7 @@ A 2014–2020 programozási időszakban az egyes európai uniós alapokból szá
 
 5. Tállai Andrást, a Nemzetgazdasági Minisztérium parlamenti államtitkárát a Terület- és Településfejlesztési Operatív Program monitoring bizottsága,
 
-6. Glattfelder Bélát, a Nemzetgazdasági Minisztérium gazdaságszabályozásért felelős államtitkárát a Versenyképes Közép-Magyarország Operatív Program monitoring bizottsága,
+6.[^1]
 
 7. dr. Kovács Zoltánt, a Miniszterelnökség területi közigazgatásért felelős államtitkárát a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program monitoring bizottsága,
 
@@ -23,3 +23,5 @@ b) a Magyar Halgazdálkodási Operatív Program monitoring bizottsága, és
 c) a Partnerségi Megállapodás monitoring bizottsága
 
 elnökévé kinevezem.
+
+[^1]: A 6. pontot a 73/2016. (VII. 4.) ME határozat 2. pontja visszavonta.
