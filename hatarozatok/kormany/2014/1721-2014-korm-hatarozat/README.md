@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-1721-30
 | 2015-10-13 | 2014-1721-30-22.5 | 1520/2015. (VII. 27.) Korm. határozat |
 | 2015-12-11 | 2014-1721-30-22.6 | 1924/2015. (XII. 11.) Korm. határozat |
 | 2016-04-11 | 2014-1721-30-22.7 | 1520/2015. (VII. 27.) Korm. határozat |
+| 2016-07-04 | 2014-1721-30-22.8 | 1520/2015. (VII. 27.) Korm. határozat |
