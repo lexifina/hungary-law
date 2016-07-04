@@ -22,7 +22,7 @@
 
 ## Határidő: 2016. december 31., az Agrármarketing célelőirányzat jogcímcsoport javára átcsoportosított 150,0 millió forint tekintetében 2017. június 30.
 
-## 1.3. az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 152. § (5) bekezdésében biztosított jogkörében eljárva engedélyezi a 2015. évi kötelezettségvállalással nem terhelt költségvetési maradványokból az I. Országgyűlés fejezet 5. Közbeszerzési Hatóság címnél keletkezett 384 211 ezer forint, a XI. Miniszterelnökség fejezetnél keletkezett 2 652 773 ezer forint, a XII. Földművelésügyi Minisztérium fejezetnél keletkezett 5 147 000 ezer forint, a XIV. Belügyminisztérium fejezetnél keletkezett 5 373 839 ezer forint, a XV. Nemzetgazdasági Minisztérium fejezetnél keletkezett 250 000 ezer forint, a XVII. Nemzeti Fejlesztési Minisztérium fejezetnél keletkezett 36 846 291 ezer forint, a XX. Emberi Erőforrások Minisztériuma fejezetnél keletkezett 124 559 ezer forint felhasználását;
+## 1.3.[^2] az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 152. § (5) bekezdésében biztosított jogkörében eljárva engedélyezi a 2015. évi kötelezettségvállalással nem terhelt költségvetési maradványokból az I. Országgyűlés fejezet 5. Közbeszerzési Hatóság címnél keletkezett 384 211 ezer forint, a XI. Miniszterelnökség fejezetnél keletkezett 2 652 773 ezer forint, a XII. Földművelésügyi Minisztérium fejezetnél keletkezett 5 147 000 ezer forint, a XIV. Belügyminisztérium fejezetnél keletkezett 5 373 839 ezer forint, a XVII. Nemzeti Fejlesztési Minisztérium fejezetnél keletkezett 36 846 291 ezer forint, a XX. Emberi Erőforrások Minisztériuma fejezetnél keletkezett 124 559 ezer forint felhasználását, valamint az Ávr. 153. §-ában biztosított jogkörében eljárva engedélyezi a 2015. évi kötelezettségvállalással terhelt, de meghiúsult kötelezettségvállalás miatt kötelezettségvállalással nem terhelt költségvetési maradványokból a XV. Nemzetgazdasági Minisztérium fejezetnél keletkezett 250 000 ezer forint felhasználását;
 
 ## 1.4. az Áht. 33. § (2) bekezdésében biztosított jogkörében eljárva az 1.3. pontban felhasználásra engedélyezett összegekből a 2. melléklet szerinti átcsoportosítást rendeli el;
 
@@ -36,19 +36,20 @@
 
 ## Határidő: azonnal
 
-## 2.[^2]
+## 2.[^3]
 
 ## 3. A Kormány az Áht. 33. § (1) bekezdésében biztosított jogkörében eljárva a Kvtv. 1. melléklet XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 3. Agrár célelőirányzatok alcím, 34. Tokaji Borvidék Hegyközségi Tanácsa szakmai feladatainak támogatása jogcímcsoport megnevezését 34. Tokaji Borvidéken megvalósuló szakmai feladatok támogatása megnevezésre változtatja.
 
-## 4.[^3]
+## 4.[^4]
 
 ## 5. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, az Országvédelmi Alapból történő előirányzat-átcsoportosításról, a pártalapítványok tartalékának átcsoportosításáról, az Összevont szakellátás jogcím előirányzatának megemeléséről és egyes kormányhatározatok módosításáról szóló 1812/2014. (XII. 19.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 11. Sportlétesítmények fejlesztése és fenntartása jogcímcsoport, 2. Állami, önkormányzati és egyéb sportlétesítmények fejlesztése, fenntartása jogcím javára átcsoportosított 1 285 800 ezer forintból 407 215 ezer a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 24. Sportlétesítmények fejlesztése és kezelése alcím, 11. Sportlétesítmények fejlesztése és fenntartása jogcímcsoport, 2. Állami, önkormányzati és egyéb sportlétesítmények fejlesztése, fenntartása jogcím, K5. Egyéb működési célú kiadások kiemelt előirányzat és 878 585 ezer forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 6.[^4]
+## 6.[^5]
 
 1. melléklet az 1049/2016. (II. 15.) Korm. határozathoz
 
 [^1]: Az 1. pont 1.2. alpontja az 1225/2016. (V. 2.) Korm. határozat 6. pontja szerint módosított szöveg.
-[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont 1.3. alpontja az 1340/2016. (VII. 4.) Korm. határozat 11. pontjával megállapított szöveg.
+[^3]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
