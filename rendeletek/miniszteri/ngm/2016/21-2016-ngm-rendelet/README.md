@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-21-20-2
 | 2016-06-30 | 2016-21-20-2X.1 | 21/2016. (VI. 29.) NGM rendelet |
 | 2016-07-01 | 2016-21-20-2X.2 | 2010: CXXX. törvény |
 | 2016-07-03 | 2016-21-20-2X.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2016-07-04 | 2016-21-20-2X.4 | 2010: CXXX. törvény |

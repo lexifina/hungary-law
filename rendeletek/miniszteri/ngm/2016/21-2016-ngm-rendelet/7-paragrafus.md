@@ -1,1 +1,0 @@
-## „(2) A kibocsátó ugyanazt a szerkesztés nélküli, szabályozott információt küldi meg a média, az információtárolási rendszer számára és teszi közzé a honlapján. A média számára megküldött szabályozott információba az éves és a féléves jelentés az információtárolási rendszeren kívüli internetes hivatkozással is beépíthető.”

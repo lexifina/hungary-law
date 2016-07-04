@@ -1,5 +1,3 @@
-## „1.30. Az 596/2014/EU rendelet 3. cikk (1) bekezdésének 25. és 26. pontjaiban meghatározott vezető feladatokat ellátó személyeknek és a velük szoros kapcsolatban álló személyeknek az 596/2014/EU rendelet 19. cikk (1) bekezdésében és a Bizottságnak (EU) az 596/2014/EU európai parlamenti és tanácsi rendeletnek a harmadik országok egyes állami szervei és központi bankjai részére biztosított mentesség, a piaci manipuláció jelei, a közzétételi küszöbértékek, a késleltetésekkel kapcsolatos értesítések tekintetében illetékes hatóság, a tilalmi időszak alatti kereskedésre vonatkozó engedélyek és a vezető tisztségviselők értesítési kötelezettséggel járó ügyleteinek típusai tekintetében történő kiegészítéséről szóló 2016/522 felhatalmazáson alapuló rendeletének 10. cikkében megjelölt ügyleteiről az 596/2014/EU rendelet 19. cikk (6) bekezdésben megjelölt adatokat, amennyiben az ilyen ügyletek összértéke az 596/2014/EU rendelet 19. cikk (8) bekezdésében foglalt értékhatárt egy naptári éven belül elérte.”
+3. melléklet a 21/2016. (VI. 29.) NGM rendelethez[^25]
 
-3. melléklet a 21/2016. (VI. 29.) NGM rendelethez[^22]
-
-[^22]: A 3. melléklet a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
+[^25]: A 3. melléklet a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.

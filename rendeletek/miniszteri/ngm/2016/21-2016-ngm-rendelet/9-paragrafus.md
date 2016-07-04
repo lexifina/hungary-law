@@ -1,3 +1,5 @@
-## 8. § A 24/2008. (VIII. 15.) PM rendelet 4. melléklete a 2. melléklet szerint módosul.
+## 5–8. §[^2]
 
 ## 3. A bonus-malus rendszer, az abba való besorolás, illetve a kártörténeti igazolások kiadásának szabályairól szóló 21/2011. (VI. 10.) NGM rendelet módosítása
+
+[^2]: Az 5–8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
