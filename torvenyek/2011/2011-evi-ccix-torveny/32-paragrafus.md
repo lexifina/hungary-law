@@ -10,7 +10,7 @@ ab) a víziközmű-szolgáltató gazdasági-pénzügyi ellehetetlenülése, fize
 
 ac) a víziközmű-szolgáltató tevékenységét nem a jogszabályi előírásoknak megfelelően folytatja, és ez közvetlenül veszélyezteti a biztonságos ellátást vagy a felhasználók ellátása azt megköveteli, vagy
 
-ad) a Hivatal a víziközmű-szolgáltató engedélyét a 38. § (1) bekezdés c) vagy e) pontja alapján visszavonta, és
+ad) a Hivatal a víziközmű-szolgáltatói vagy a vonatkozó működési engedélyt visszavonta, és
 
 b) az ellátásért felelős a víziközmű-szolgáltatás biztosításáról nem gondoskodott.
 
@@ -20,6 +20,6 @@ b) az ellátásért felelős a víziközmű-szolgáltatás biztosításáról ne
 
 (3) A közérdekű üzemeltető a kijelöléssel érintett ellátási területre vonatkozóan mentesül a felügyeleti díj fizetésének kötelezettsége alól, továbbá e tevékenysége körében felmerülő közműhasználati díj mértékét a Hivatal állapítja meg.
 
-(4) A közérdekű üzemeltető kijelölési határozatban foglaltak szerinti birtokba lépésével egyidejűleg, az érintett víziközmű-rendszerre vonatkozóan fennálló korábbi üzemeltetési jogviszony hatályát veszti.
+(4) A közérdekű üzemeltető kijelölési határozatban foglaltak szerinti birtokba lépésével egyidejűleg, az érintett víziközmű-rendszerre vonatkozóan fennálló korábbi üzemeltetési jogviszony, valamint a működési engedély hatályát veszti.
 
 (5) A közérdekű üzemeltető tevékenységére – eltérő rendelkezés hiányában – a víziközmű-szolgáltatásra vonatkozó rendelkezéseket kell megfelelően alkalmazni.

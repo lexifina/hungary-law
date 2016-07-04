@@ -6,7 +6,7 @@
 
 (4) Az üzemeltetési szerződést a pályázat nyertesével kell megkötni.
 
-(5) A 9. § (2) bekezdés szerinti esetben, a víziközmű-rendszer működtetése körében a tulajdonosi jogok gyakorlása tekintetében, az állami vagyonról szóló törvény rendelkezéseit kell alkalmazni.
+(5)
 
 (6) Vagyonkezelési, továbbá bérleti-üzemeltetési szerződés kizárólag olyan víziközmű-szolgáltató társasággal (a továbbiakban: szerződött víziközmű-szolgáltató) jöhet létre:
 

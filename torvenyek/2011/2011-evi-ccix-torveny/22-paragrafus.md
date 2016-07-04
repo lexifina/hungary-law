@@ -1,8 +1,8 @@
-22. § (1) A szerződött víziközmű-szolgáltató az üzemeltetési szerződés vagy annak módosítása egy aláírt példányát az aláírástól számított harminc napon belül jóváhagyásra megküldi a Hivatalnak. A Hivatal az üzemeltetési szerződést e törvénynek és a felhatalmazása alapján kiadott jogszabályoknak való megfelelőség tekintetében vizsgálja.
+22. § (1) A szerződött víziközmű-szolgáltató az üzemeltetési szerződés vagy annak módosítása egy eredeti, aláírt példányát a szerződés létrejöttét követő 30 napon belül a működési engedélyének megszerzésére vagy módosítására irányuló kérelemével együtt megküldi a Hivatalnak.
 
 (2)
 
-(3) A Hivatal jóváhagyó határozata az üzemeltetési szerződés megtámadásának más törvényes lehetőségét nem érinti.
+(3)
 
 (4) Ha az üzemeltetési szerződés felmondással szűnik meg, az ellátásért felelős azt a megszüntető nyilatkozat hatályosulását követő 8 napon belül a Hivatalnak bejelenti.
 

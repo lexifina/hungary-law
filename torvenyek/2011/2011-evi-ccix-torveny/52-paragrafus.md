@@ -4,7 +4,7 @@
 
 (2a) Az (1) és (2) bekezdéstől eltérően a víziközmű-szolgáltatási díj elszámolásának alapja a mellékvízmérőkön mért fogyasztás, ha
 
-a) a bekötési vízmérő mellett az elkülönített vízhasználók elkülönített vízhasználati helye és más vízvételi helyek kizárólag hiteles, plombával vagy záró bélyeggel ellátott mellékvízmérőkkel és hatályos mellékszolgáltatási szerződéssel rendelkeznek, és
+a) valamennyi elkülönített vízhasználói hely hatályos mellékszolgáltatási szerződéssel rendelkezik és az ivóvízvételi helyek fogyasztását kizárólag hiteles, plombával vagy záró bélyeggel ellátott mellékvízmérőkkel mérik, és.
 
 b) a mellékvízmérőkön és a bekötési vízmérőn mért fogyasztási adatok, valamint a helyszíni ellenőrzés alapján a csatlakozó hálózati szakaszon a karbantartás elmaradására visszavezethető vízveszteség vagy az elszámolatlan vízvétel lehetősége kizárható.
 

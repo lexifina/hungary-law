@@ -6,6 +6,6 @@
 
 (4) A tényleges felhasználási adatok ismeretében, lakossági díjon kell elszámolni
 
-a) a távhő-szolgáltatónak lakossági használati melegvíz előállítása céljából szolgáltatott ivóvizet,
+a) a távhő-szolgáltatónak lakossági használati melegvíz előállítása céljából szolgáltatott ivóvizet és az ehhez kapcsolódó szennyvíz-elvezetés és -tisztítási szolgáltatást,
 
 b) lakásbérlők tényleges víziközmű-szolgáltatás igénybevételét a bérlakás üzemeltetését végző gazdálkodó szervezettel szemben.

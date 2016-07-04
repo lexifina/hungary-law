@@ -1,29 +1,13 @@
 ## 13. Kötelezettségek megszegése, víziközmű-szolgáltatás engedély nélküli végzése
 
-38. § (1) A Hivatal a víziközmű-szolgáltató e törvényben, a végrehajtására kiadott jogszabályokban vagy a Hivatal által kiadott határozatokban meghatározott kötelezettségeinek megszegése esetében
+38. § (1) A víziközmű-szolgáltató a Hivatalt haladéktalanul értesíti, ha a víziközmű-szolgáltatói vagy működési engedélyében meghatározott feltételt vagy a számára előírt kötelezettséget harminc napot meghaladó időtartamon keresztül nem teljesíti.
 
-a) a jogkövetkezményekre való utalás mellett írásban felszólítja a víziközmű-szolgáltatót a kötelezettségei betartására,
+(2) A Hivatal megvizsgálja a víziközmű-szolgáltató értesítésében foglalt körülményt, és ha az az ellátásbiztonságot, az élet-, egészség-, üzem- vagy vagyonbiztonságot vagy a környezetet közvetlenül és súlyosan nem veszélyezteti,
 
-b) bírságot szabhat ki a jogsértés tárgyi súlyára tekintettel,
+a) kötelezi a víziközmű-szolgáltatót a jogellenesség megszüntetésére, és
 
-c) az engedélyt módosíthatja vagy visszavonhatja, ha a víziközmű-szolgáltató az a) pont szerinti felszólítás és a b) pont szerinti bírság kiszabása ellenére nem szünteti meg a jogsértést vagy nem teljesíti kötelezettségét,
+b) bírságot szabhat ki a jogsértés tárgyi súlyára tekintettel.
 
-d) az engedélyt módosítja, ha az engedély kiadásának feltételei már nem állnak fenn, és engedélymódosítással a jogszerű állapot helyreállítható,
+(3) Az (1) bekezdésben meghatározott értesítési kötelezettség elmulasztása esetében a (2) bekezdés b) pontja szerinti jogkövetkezménytől eltekinteni nem lehet.
 
-e) az engedélyt visszavonja, ha
-
-ea) a víziközmű-szolgáltató a kötelezettségeinek nem képes eleget tenni,
-
-eb) a víziközmű-szolgáltató a víziközművet az ellátás biztonságát, élet-, egészség-, üzem- vagy vagyonbiztonságot vagy a környezetet közvetlenül és súlyosan veszélyeztető módon üzemelteti,
-
-ec) az engedély kiadásának feltételei már nem állnak fenn, és engedélymódosítással a jogszerű állapot nem állítható helyre,
-
-ed) a 36. § (1) bekezdésében meghatározott jogszabály megváltozását követően, a megváltozott feltételeknek a víziközmű-szolgáltató a jogszabályban biztosított felkészülési időt követően nem tesz eleget, vagy
-
-ee) az engedélyt megtévesztéssel, valótlan adatok szolgáltatásával vagy más jogszabálysértő módon szerezték meg.
-
-(2) A Hivatal az (1) bekezdés c)–e) pontjában foglalt jogkövetkezménnyel egyidejűleg az (1) bekezdés b) pontja szerinti jogkövetkezményt is alkalmazhatja.
-
-(3) A Hivatal az ellátásért felelőssel szemben jogszabályban vagy a Hivatal által kiadott határozatban meghatározott kötelezettségeinek megszegése esetében az (1) bekezdés a)–b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
-
-(4) A folyamatos és biztonságos ellátás érdekében az üzemeltetési szerződés megszűnéséig, valamint a felszámolás vagy a végelszámolás befejezéséig a víziközmű-szolgáltatást és az annak teljesítéséhez szükséges tevékenységeket folyamatosan fenn kell tartani.
+(4) Ha a víziközmű-szolgáltató a jogellenességet a (2) bekezdés a) pontja szerinti intézkedésben foglaltak szerint nem szünteti meg maradéktalanul és póthatáridőt sem kér a teljesítésre, vagy a késedelem indokát a Hivatal megalapozatlannak tartja, a Hivatal a víziközmű-szolgáltatói engedélyt, vagy a működési engedélyt módosítja vagy visszavonja.

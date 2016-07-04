@@ -8,17 +8,17 @@ a) a víziközmű-rendszer megnevezését és a Hivatal által képzett azonosí
 
 b) a víziközmű-szolgáltatási ágazat megnevezését és a víziközmű-rendszer 2. § 23. pont szerinti besorolását,
 
-c) a felhasználók számosságát kifejező, a víziközmű-szolgáltatói működési engedélyben a Hivatal által megállapított, a tárgyév január 1-jén fennálló felhasználói egyenértéket,
+c) a felhasználók számosságát kifejező, a működési engedélyben a Hivatal által megállapított, a tárgyév január 1-jén fennálló felhasználói egyenértéket,
 
 d) a víziközmű tulajdonosainak nevét és tulajdoni részesedését,
 
 e) a víziközmű működésében érintett ellátásért felelős(ök) nevét, ha a működésben több ellátásért felelős is érdekelt, azt is, hogy a képviseletüket ki látja el,
 
-f) a víziközművet üzemeltető víziközmű-szolgáltató nevét.
+f) a működési engedély számát és az engedélyes víziközmű-szolgáltató nevét.
 
 (4) Az ellátásért felelősök nyilvántartása az egyes ellátásért felelősökre nézve tartalmazza:
 
-a) a tulajdonába tartozó víziközmű-rendszerek megnevezését, amelyekre a Hivatal víziközmű-szolgáltatói működési engedélyt adott,
+a) a tulajdonába tartozó víziközmű-rendszerek megnevezését, amelyekre a Hivatal működési engedélyt adott,
 
 b) a víziközmű-rendszerek Hivatal által képzett azonosító kódjait.
 
@@ -26,7 +26,7 @@ b) a víziközmű-rendszerek Hivatal által képzett azonosító kódjait.
 
 a) a víziközmű-szolgáltató tulajdonosi szerkezetét (ideértve különösen a tulajdonosok nevét és tulajdoni részesedését),
 
-b) a működési engedély kiadásáról rendelkező határozat számát,
+b) a víziközmű-szolgáltatói, valamint a működési engedély kiadásáról rendelkező határozat számát,
 
 c) a működtetett víziközmű-rendszerek Hivatal által képzett azonosító kódjait és az ezekre vonatkozó üzemeltetési jogviszony (ide értve a közérdekű üzemeltetői jogviszonyt is) típusát.
 

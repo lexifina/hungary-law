@@ -1,25 +1,33 @@
 ## II. Fejezet
 
-## A VÍZIKÖZMŰVEKKEL KAPCSOLATOS FELADAT- ÉS HATÁSKÖRÖK
+## A VÍZIKÖZMŰ-SZOLGÁLTATATÁS HATÓSÁGI FELADATAI
 
-3. § (1) Az e törvényben meghatározott kivételekkel a víziközművekkel kapcsolatos hatósági feladatokat a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) látja el.
+## 2/a. A Magyar Energetikai és Közmű-szabályozási Hivatalra vonatkozó szabályok
 
-(2) Az elszámolásra, számlázásra, díjfizetésre vagy mérésre, valamint a víziközmű-szolgáltatás korlátozásával vagy felfüggesztésével kapcsolatos, jogszabályban és üzletszabályzatban foglalt rendelkezések lakossági felhasználókkal szembeni megsértése esetén a fogyasztóvédelmi hatóság jár el. A fogyasztóvédelmi hatóság eljárására a fogyasztóvédelemről szóló törvényt (a továbbiakban: Fgytv.) kell alkalmazni azzal, hogy az e törvény szerinti lakossági felhasználó az Fgytv. alkalmazásában fogyasztónak minősül akkor is, ha nem természetes személy.
+3. § (1) A víziközmű-szolgáltatással összefüggő hatósági feladatokat az e törvényben meghatározott kivételekkel a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) látja el.
 
-(3) A felhasználók tájékoztatására vonatkozó rendelkezések lakossági felhasználókkal szembeni megsértése esetén az eljárás lefolytatására a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáról szóló törvényben (a továbbiakban: Fttv.) meghatározott hatóság jogosult. Az eljáró hatóság eljárására az Fttv.-ben meghatározott szabályokat kell alkalmazni azzal, hogy az e törvény szerinti lakossági felhasználó az Fttv. alkalmazásában fogyasztónak minősül akkor is, ha nem természetes személy.
+(2) A Hivatal eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szabályait az e törvényben meghatározott kivételekkel kell alkalmazni.
 
-(4) A (2) és a (3) bekezdésben említett rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
+(3) Az ügyintézési határidő a Hivatal eljárásaiban a (4) bekezdésben foglalt kivétellel 60 nap.
 
-(5) A fogyasztóvédelmi hatóság az eljárása során az Fgytv.-ben foglalt jogkövetkezményeken kívül – jogsértés megállapítása esetén – az alábbi jogkövetkezményeket is alkalmazhatja:
+(4) Az ügyintézési határidő a Hivatal
 
-a) a víziközmű-szolgáltató üzletszabályzatának a (2) és (3) bekezdés szerinti eljárás tárgyát érintő rendelkezései betartására kötelezés;
+a) 5/A. § (3) bekezdés szerinti eljárásában 135 nap,
 
-b) a víziközmű-szolgáltató olyan jogsértése esetén, amelyhez jogszabály vagy üzletszabályzat jogkövetkezményt rendel, a jogkövetkezmény megállapítása és teljesítésének előírása; vagy
+b) 5/F. § (6) bekezdés és a 16. § (3) bekezdés szerinti eljárásában 21 nap,
 
-c) a 73. § b) pontjában meghatározott esetkörön kívül, ha a lakossági felhasználót visszatérítés illeti meg, az annak teljesítésére való kötelezés.
+c) 31/B. § szerinti eljárásában 30 nap,
 
-(6) A víziközmű-szolgáltatókkal szemben felmerülő panaszok ügyében – a (2)–(4) bekezdésben foglaltak kivételével – a Hivatal jár el.
+d) 36. § szerinti eljárásában 135 nap,
 
-(7) A (2)–(6) bekezdés szerinti hatósági eljárást megelőzően a felhasználó köteles panaszával igazolható módon a víziközmű-szolgáltatóhoz fordulni.
+e) 37. § és 37/A. § (2)–(7) bekezdés szerinti eljárásában 90 nap.
 
-(8) Az ivóvíz-szolgáltatás korlátozás jogszerűségével összefüggésben az illetékes népegészségügyi szerv, továbbá a víziközmű-rendszerbe való bekötésre kötelezéssel összefüggésben a fővárosi és megyei kormányhivatal járási (főváros kerületi) hivatala (továbbiakban: járási hivatal) jár el.
+(5) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Hivatal a kérelem beérkezését követő naptól számított harminc napon belül hiánypótlási felhívást bocsát ki.
+
+(6) Ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amelyben az eljárás más szerv hatáskörébe tartozik, vagy a Hivatalnak az adott üggyel szorosan összefüggő más hatósági döntése nélkül megalapozottan nem dönthető el, a Hivatal az eljárást felfüggeszti. Amennyiben a más szerv előtti eljárás megindítására az ügyfél jogosult, erre őt megfelelő határidő kitűzése mellett fel kell hívni. Ha az ügyfél a felhívásnak nem tesz eleget, a Hivatal az eljárást megszünteti.
+
+(7) A Hivatal a függő hatályú döntésében a kérelmezett jog gyakorlásáról nem rendelkezik.
+
+(8) A Hivatal jogerős határozatait – a személyes adatok kivételével – a honlapján közzéteszi.
+
+(9) A Hivatal eljárásában történő szakhatósági közreműködésért a szakhatóság részére igazgatási szolgáltatási díjat kell fizetni.

@@ -2,7 +2,7 @@
 
 14. § (1) A víziközmű-szolgáltatás fenntartásához szükséges ingó és ingatlan víziközmű működtető eszközöket a víziközmű-szolgáltató biztosítja.
 
-(2) Ha valamely ingatlan víziközmű működtető eszköz és víziközmű-jelleggel is rendelkezik, és az ingatlan megosztása nem lehetséges, vita esetében az ingatlant víziközműnek kell tekinteni.
+(2)
 
 (3) A víziközmű-szolgáltató a víziközmű működtető eszközöket elkülönítetten tartja nyilván.
 

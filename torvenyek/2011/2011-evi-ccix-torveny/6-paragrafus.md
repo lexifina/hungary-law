@@ -1,16 +1,14 @@
-## III. Fejezet
-
-## A VÍZIKÖZMŰ-SZOLGÁLTATÁS ESZKÖZEI
-
 ## 3. A víziközművek tulajdonjoga
 
-6. § (1) Víziközmű kizárólag az állam és települési önkormányzat tulajdonába tartozhat.
+6. § (1) Víziközmű kizárólag az állam vagy települési önkormányzat tulajdonában állhat.
 
 (2) Ha a víziközmű idegen ingatlanon fekszik, a vízgazdálkodásról szóló törvényben meghatározott vízvezetési szolgalmi jog gyakorlása – a víziközmű üzemeltetési tevékenységéhez indokolt mértékben – a víziközmű-szolgáltatót megilleti. A víziközmű-szolgáltató viselni köteles a joggyakorlás következtében felmerülő terheket.
 
-(3) Az állami tulajdonú víziközmű felett a Magyar Államot megillető tulajdonosi jogok és kötelezettségek összességét az állami vagyon felügyeletéért felelős miniszter gyakorolja, aki e feladatát a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján látja el.
+(3) Az állami tulajdonú víziközmű felett az államot megillető tulajdonosi jogok és kötelezettségek összességét a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) gyakorolja.
 
-(4) Az (5) bekezdésben meghatározott kivétellel víziközműnek minősül, és kizárólagosan e törvényben foglaltak szerint működtethető a funkcióját tekintve a 2. § 20. pont a) és b) alpontjában foglaltaknak is eleget tevő közcélú vízilétesítmény, amely legalább huszonöt, a települési belterületen lévő lakossági felhasználó ellátását biztosítja.
+(3a) A víziközművek vagyonbiztosításáról annak vagyonkezelője, ennek hiányában a tulajdonosa köteles gondoskodni. A vagyonbiztosítás díja vagyonkezelés esetén a vagyonkezelőt, vagyonkezelés hiányában a tulajdonost terheli. A tulajdonos az őt terhelő vagyonbiztosítási díjat a víziközmű-rendszer üzemeltetésbe adásából származó bevételei terhére is finanszírozhatja.
+
+(4) Az (5) bekezdésben meghatározott kivétellel víziközműnek minősül, és kizárólagosan e törvényben foglaltak szerint működtethető a funkcióját tekintve a 2. § 20. pont a) és b) alpontjában foglaltaknak is eleget tevő közcélú vízilétesítmény, amely legalább huszonöt lakossági felhasználó ellátását biztosítja.
 
 (5) Nem lehet víziközműnek minősíteni, és víziközmű-szolgáltatás keretében működtetni azt a vízilétesítményt amely:
 

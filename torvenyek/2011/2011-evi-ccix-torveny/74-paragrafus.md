@@ -12,11 +12,11 @@
 
 3. az üzemeltetési szerződés megkötésére irányuló pályázat kiírásának feltételeit, a pályázati kiírás közzétételének szabályait és minimális tartalmi követelményeit, valamint a pályázati eljárás szabályait;
 
-4. az üzemeltetési szerződések kötelező tartalmi elemeit, benyújtásuk formai követelményeit;
+4. a víziközmű-szolgáltatói engedély kérelem, az üzemeltetési szerződések és a működési engedély kérelem kötelező tartalmi elemeit, benyújtásuk formai követelményeit;
 
 5. a közérdekű üzemeltető kijelölésére, jogaira és kötelezettségeire vonatkozó részletes szabályokat, valamint a víziközmű-szolgáltatás biztosításához szükséges szerződésekre vonatkozó részletes rendelkezéseket;
 
-6. az engedélyezés és a hozzájárulás részletes szabályait, a kérelem formai és tartalmi, továbbá az engedély tartalmi követelményeit, az engedélyes tevékenység folytatásának, valamint az engedély kiadásának, módosításának és visszavonásának feltételeit, továbbá a víziközmű-szolgáltató jogait és kötelezettségeit;
+6. a Hivatal hatáskörébe tartozó hatósági tevékenység részletes szabályait, a kérelem formai és tartalmi, továbbá az engedély tartalmi követelményeit, az engedélyes tevékenység folytatásának, valamint az engedély kiadásának, módosításának és visszavonásának feltételeit, továbbá a víziközmű-szolgáltató jogait és kötelezettségeit;
 
 7.
 
@@ -52,6 +52,10 @@
 
 23. az ideiglenes szolgáltatásra vonatkozó átmeneti díjkérelem tartalmi és formai követelményeit, az átmeneti díj meghatározásánál figyelembe vehető ráfordítások körét
 
+24. a közhiteles víziközmű-térképi nyilvántartást vezető hatóságot, a hatóság hatáskörére és illetékességére vonatkozó részletes szabályokat, továbbá közhiteles hatósági nyilvántartás tartalmát, az abba történő bejegyzés, valamint az onnan való törlés során alkalmazható bizonyítási eszközök körét;
+
+25. a víziközmű-üzemeltetési tevékenységek kiszervezésére vonatkozó részletes szabályokat
+
 rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben
@@ -72,7 +76,7 @@ rendeletben állapítsa meg.
 
 9. állapítsa meg a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat;
 
-10. állapítsa meg a víziközmű-szolgáltató által a felhasználók igénye alapján külön díj ellenében végzendő szolgáltatások körét és annak díjait, a felhasználók számára ingyenesen biztosítandó szolgáltatások legszűkebb körét, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait.
+10. állapítsa meg a víziközmű-szolgáltató által a felhasználók igénye alapján külön díj ellenében végzendő szolgáltatások körét és annak díjait, a felhasználók számára külön díj felszámítása nélkül biztosítandó szolgáltatások legszűkebb körét, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait.
 
 (3) Felhatalmazást kap a vízgazdálkodásért felelős miniszter, hogy rendeletben szabályozza a Hivatal eljárásában történő szakhatósági közreműködésért a szakhatóság részére fizetendő igazgatási szolgáltatási díj mértékét és megfizetésének szabályait.
 

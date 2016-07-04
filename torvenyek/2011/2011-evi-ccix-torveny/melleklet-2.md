@@ -6,13 +6,13 @@ A kiszabható bírságok összege
 
 ## 1. A kiszabható bírság összege:
 
-## a) a 40/B. § (1) bekezdés a) pont aa) alpontja esetében az állam esetében 25 millió forint, települési önkormányzat esetében a helyi önkormányzat pénzforgalmi teljesítési adatairól adott tárgyévet két évvel megelőző évi beszámolójában szereplő – az általa irányított költségvetési szervekkel összevontan számítandó – költségvetési kiadások és költségvetési bevételek közül a kisebb összegének 0,5%-a, de legfeljebb 25 millió forint,
+## a) a 40/B. § (1) bekezdés a) pont aa) és ac) alpontja esetében az állam esetében 25 millió forint, települési önkormányzat esetében a helyi önkormányzat pénzforgalmi teljesítési adatairól adott tárgyévet két évvel megelőző évi beszámolójában szereplő – az általa irányított költségvetési szervekkel összevontan számítandó – költségvetési kiadások és költségvetési bevételek közül a kisebb összegének 0,5%-a, de legfeljebb 25 millió forint,
 
 ## b) a 40/B. § (1) bekezdés a) pont ab) alpontja esetében legalább a jogsértően kezelt vagy felhasznált használati díj összege, legfeljebb a jogsértően kezelt vagy felhasznált használati díj kétszerese,
 
 ## c) a 40/B. § (1) bekezdés b) pont bb)–bd) alpontja esetében legfeljebb 25 millió forint,
 
-## d) a 40/B. § (1) bekezdés c) pontja esetében legfeljebb 10 millió forint.
+## d) a 40/B. § (1) bekezdés c) pont ca) alpontja esetében legfeljebb 1 millió forint, cb) és cc) alpontja esetében legfeljebb 10 millió forint.
 
 ## 2. A kiszabható bírság összege a 40/B. § (2) bekezdés c) pont esetében a víziközmű-szolgáltató árbevételének 1%-a, de legfeljebb 50 millió forint.
 

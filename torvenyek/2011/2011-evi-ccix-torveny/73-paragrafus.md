@@ -1,6 +1,6 @@
 ## 22. Díjfelügyelet
 
-73. § A víziközmű-szolgáltatás díjaira vonatkozó rendelkezések betartását a Hivatal ellenőrzi. A rendelkezések megsértése esetében a Hivatal határozattal
+73. § A víziközmű-szolgáltatás díjára, valamint a 72/A. § szerint megállapított díjakra vonatkozó rendelkezések betartását a Hivatal ellenőrzi. A rendelkezések megsértése esetében a Hivatal határozattal
 
 a) megtiltja a jogszabálysértő díj további alkalmazását, és kötelezi a víziközmű-szolgáltatót a jogszerű ellenérték alkalmazására,
 

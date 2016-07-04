@@ -26,7 +26,7 @@ c) a víziközmű-szolgáltató a felhasználót az (1) bekezdésben meghatároz
 
 d) a felhasználási hely fekvése szerint illetékes népegészségügyi szervet a (4) bekezdésben foglaltak szerint értesítette.
 
-(4) A lakossági felhasználó (3) bekezdés c) pontja szerinti első felszólítása postai vagy a lakossági felhasználó általi átvétel igazolására alkalmas egyéb – a felhasználó előzetes hozzájárulása esetén elektronikus – módon, a felfüggesztés vagy a korlátozás lehetőségére vonatkozó második felszólítása tértivevényes levélben történik. Az illetékes népegészségügyi szervet a második felszólítással egyidejűleg, legalább 8 nappal az intézkedés bevezetését megelőzően kell értesíteni.
+(4) A lakossági felhasználó (3) bekezdés c) pontja szerinti első felszólítása – a felhasználó elektronikus úton történő kapcsolattartásra is kiterjedő előzetes és kifejezett hozzájárulása esetén – elektronikusan, postai vagy a lakossági felhasználó általi átvétel igazolására alkalmas más egyéb módon, a felfüggesztés vagy a korlátozás lehetőségére vonatkozó második felszólítása tértivevényes levélben történik. Az illetékes népegészségügyi szervet a második felszólítással egyidejűleg, legalább 8 nappal az intézkedés bevezetését megelőzően kell értesíteni.
 
 (5) A létfenntartási és közegészségügyi vízigények teljesítéséhez szükséges ivóvízellátást a víziközmű-szolgáltató a kormányrendeletben meghatározottak szerint biztosítja.
 
@@ -38,6 +38,8 @@ d) a felhasználási hely fekvése szerint illetékes népegészségügyi szerve
 
 (9) A víziközmű-szolgáltató az e §-ban foglalt tevékenységei körében felmerülő költségeit – a (6) bekezdésben foglaltak kivételével – azzal a felhasználóval szemben jogosult érvényesíteni, akivel szemben fennálló közszolgáltatási szerződése körében azok felmerültek.
 
-(10) A közegészségügyi követelmények teljesítéséhez szükséges ivóvízellátás akkor biztosított, ha az ivóvízellátás legalább 20 l/fő/nap mennyiségben, négy emeletnél nem magasabb vagy lifttel rendelkező lakóépület esetén legfeljebb 150 m távolságon belüli, négy emeletnél magasabb lakóépületben pedig négy emeletnél nem nagyobb szintkülönbséggel járó vízvételezési lehetőséggel (közkifolyóról, tűzcsapról, szállított vízből) adott.
+(10) A közegészségügyi követelmények teljesítéséhez szükséges ivóvízellátás akkor biztosított, ha az ivóvízellátás legalább 20 l/fő/nap mennyiségben a lakóhelytől számítottan legfeljebb 150 méter, közterületen megteendő távolságon belül elérhető. Négy emeletnél magasabb lifttel – vagy üzemképes lifttel – nem rendelkező lakóépület esetében négy emeletnél nem nagyobb szintkülönbséggel kell a közegészségügyi követelmények teljesítéséhez szükséges ivóvízellátást biztosítani.
 
-(11) Ivóvizet kizárólag a közkifolyókról vételező természetes személyek számára az ivóvízellátást legalább 20 liter/fő/nap mennyiségben, legfeljebb 300 m távolságon belül szükséges biztosítani.
+(11) Közszolgáltatási szerződés hiányában közműves ivóvizet a közkifolyókról vagy más vízvételi helyről rendszeresen vételező természetes személyek számára az ivóvízellátást legalább 20 liter/fő/nap mennyiségben, a lakóhelytől számítottan legfeljebb 300 méter, közterületen megteendő távolságon belül szükséges biztosítani.
+
+(12) A közegészségügyi ivóvízigénye kielégítése érdekében eljáró lakossági felhasználó az üzemképes lift használatában nem korlátozható.
