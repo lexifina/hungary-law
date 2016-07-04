@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-51-20-2
 | 2016-01-02 | 2015-51-20-2C.2 | 2010: CXXX. törvény |
 | 2016-02-09 | 2015-51-20-2C.3 | 3/2016. (II. 8.) MNB rendelet |
 | 2016-04-01 | 2015-51-20-2C.4 | 3/2016. (II. 8.) MNB rendelet |
+| 2016-07-04 | 2015-51-20-2C.5 | 21/2016. (VI. 29.) MNB rendelet |

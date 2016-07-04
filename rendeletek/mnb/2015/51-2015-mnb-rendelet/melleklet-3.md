@@ -1,6 +1,6 @@
 ## 20152C20000051_9
 
-3. melléklet az 51/2015. (XII. 9.) MNB rendelethez[^7]
+3. melléklet az 51/2015. (XII. 9.) MNB rendelethez[^8]
 
 A hitelintézet és a hitelintézeti típusú EGT–fióktelep felügyeleti jelentéseire vonatkozó részletes kitöltési előírások
 
@@ -1196,7 +1196,7 @@ A 2A0522101 sorban külön ki kell emelni a pénzügyi szervezetek különadój�
 
 2A06 Általános igazgatási költségek (Hitkr. 2. melléklet 8. tétel)
 
-Ebben a tételcsoportban kell kimutatni a hitelintézet működésével (pénzügyi és befektetési szolgáltatásával) kapcsolatos összes általános, banküzemi költséget (az aktívált saját teljesítmények itt nem szerepelhetnek[^8]).
+Ebben a tételcsoportban kell kimutatni a hitelintézet működésével (pénzügyi és befektetési szolgáltatásával) kapcsolatos összes általános, banküzemi költséget (az aktívált saját teljesítmények itt nem szerepelhetnek[^9]).
 
 A 2A061 Személyi jellegű ráfordítások [Hitkr. 2. melléklet 8. a) tétel] soron belül elkülönítetten kell kimutatni a bérköltségeket (2A0611) [Hitkr. 2. melléklet 8. aa) tétel], a személyi jellegű egyéb kifizetéseket (2A0612) (Hitkr. 2. melléklet 8. ab) tétel) és a bérjárulékokat (2A0613) [Hitkr. 2. melléklet 8. ac) tétel].
 
@@ -1686,11 +1686,11 @@ A hitelintézetnek meg kell bontania az egyenletes törlesztőrészleten belül 
 
 A táblák oszlopai
 
-Az a) Lejárt oszlopban kell kimutatni a vonatkozási időszak végéig esedékessé vált, de ki nem fizetett tőke-, kamat- és egyéb követeléseket könyv szerinti bruttó értéken, a mérlegben való nyilvántartás időpontjáig.[^9] Lejárt tételként kell feltüntetni azokat a mérlegben szereplő betéteket, illetve a hitelintézet által kibocsátott értékpapírokat és azok kamatát, járulékát is, amelyeket a lejárat után (az esedékességkor) az ügyfelek nem váltottak ki.
+Az a) Lejárt oszlopban kell kimutatni a vonatkozási időszak végéig esedékessé vált, de ki nem fizetett tőke-, kamat- és egyéb követeléseket könyv szerinti bruttó értéken, a mérlegben való nyilvántartás időpontjáig.[^10] Lejárt tételként kell feltüntetni azokat a mérlegben szereplő betéteket, illetve a hitelintézet által kibocsátott értékpapírokat és azok kamatát, járulékát is, amelyeket a lejárat után (az esedékességkor) az ügyfelek nem váltottak ki.
 
 A b) – j) oszlopokban a lejárattal rendelkező tételeket a hátralévő esedékesség (futamidő) szerint kell kimutatni a szerződés törlesztési ütemezésének, teljesítési határidejének vagy a termék lejárati esedékességének megfelelően. Az oszlopokban a lejárati sáv felső értékét az időintervallumba tartozónak kell tekinteni az alsó érték a megelőző lejárati sáv felső értékét követő 1. nap.
 
-Az eszközök közül azokat a tételeket, amelyek a beszámolás (hónap vége) időpontjától számítva legfeljebb 7 napon belül ténylegesen visszafizetésre, beváltásra, eladásra (pl. értékpapír) kerültek, és már nem lehet (mert megszűnt) a szerződés szerinti időintervallumba besorolni, azokat az 1-30 napig terjedő oszlopban és a megfelelő sorban kell feltüntetni az adatszolgáltatás során.[^10] Ezzel analóg módon kell kezelni a beszámolás napja előtt vagy napján megkötött, de a beszámolás napján pénzügyileg még nem teljesített értékpapír és spot, vagy tom-next devizakonverziós ügyleteket az alkalmazott számviteli politikának megfelelően (kötésnapos, vagy értéknapos könyvelés). A forrás oldalon lévő tételek besorolásánál azokat a tételeket (betéteket), amelyeknél a lekötés – a szerződésnek megfelelően – folyamatosan meghosszabbítódik, abban az oszlopban kell feltüntetni, amelyik időszakra a lejárat köttetett.[^11]
+Az eszközök közül azokat a tételeket, amelyek a beszámolás (hónap vége) időpontjától számítva legfeljebb 7 napon belül ténylegesen visszafizetésre, beváltásra, eladásra (pl. értékpapír) kerültek, és már nem lehet (mert megszűnt) a szerződés szerinti időintervallumba besorolni, azokat az 1-30 napig terjedő oszlopban és a megfelelő sorban kell feltüntetni az adatszolgáltatás során.[^11] Ezzel analóg módon kell kezelni a beszámolás napja előtt vagy napján megkötött, de a beszámolás napján pénzügyileg még nem teljesített értékpapír és spot, vagy tom-next devizakonverziós ügyleteket az alkalmazott számviteli politikának megfelelően (kötésnapos, vagy értéknapos könyvelés). A forrás oldalon lévő tételek besorolásánál azokat a tételeket (betéteket), amelyeknél a lekötés – a szerződésnek megfelelően – folyamatosan meghosszabbítódik, abban az oszlopban kell feltüntetni, amelyik időszakra a lejárat köttetett.[^12]
 
 A k) oszlopban a konkrét lejárathoz (esedékességhez) nem kötődő tételeket kell feltüntetni.
 
@@ -2146,7 +2146,7 @@ Kiegészítő információk
 
 A CASHFLOW701 Nostro számlaállományok soron devizanemenként kérjük megadni a nostro számlaállományoknak az adatszolgáltatás teljesítésének napját megelőző vonatkozási napi (T napi) záró-állományát. A külföldi devizák esetén az átszámítás árfolyama az adatszolgáltatás napját megelőző vonatkozási napi (T napi) hivatalos MNB devizaárfolyam. Ezen a soron a leányvállalatnál lévő nostro számlák egyenlegeit nem kell figyelembe venni.
 
-A CASHFLOW702 MNB által, monetáris politikai ügyletek keretében elfogadható fedezetek soron az MNB monetáris politikai műveletei során felajánlható értékpapírok befogadási értékét kell megadni. Az e soron megadandó érték nem foglalja magában az MNB-n kívüli partnerek javára zárolt állományokat és az MNB javára O/N ügyleteknél hosszabb lejáratú hitelek fedezeteként zárolt értékpapírokat. A pénzforgalom fedezetére, az MNB javára limitként zárolt, de ki nem használt állományt szerepeltetni kell. A tábla első oszlopában az adatszolgáltatás teljesítésének napján (T+1. munkanapon) felajánlható fedezetek befogadási értékét (figyelembe véve a tárgynapon szerződés szerint bekövetkező változásokat is), a további oszlopokban pedig a változásokat (pl. repóügyletek lejárata miatti felszabadítás, értékpapír-lejárat) kell jelenteni. Az e soron szereplő tételek nem tartalmazzák az EKB, illetve az eurorendszer központi bankjai által, monetáris politikai ügyletek keretében elfogadható értékpapírok állományát.[^12]
+A CASHFLOW702 MNB által, monetáris politikai ügyletek keretében elfogadható fedezetek soron az MNB monetáris politikai műveletei során felajánlható értékpapírok befogadási értékét kell megadni. Az e soron megadandó érték nem foglalja magában az MNB-n kívüli partnerek javára zárolt állományokat és az MNB javára O/N ügyleteknél hosszabb lejáratú hitelek fedezeteként zárolt értékpapírokat. A pénzforgalom fedezetére, az MNB javára limitként zárolt, de ki nem használt állományt szerepeltetni kell. A tábla első oszlopában az adatszolgáltatás teljesítésének napján (T+1. munkanapon) felajánlható fedezetek befogadási értékét (figyelembe véve a tárgynapon szerződés szerint bekövetkező változásokat is), a további oszlopokban pedig a változásokat (pl. repóügyletek lejárata miatti felszabadítás, értékpapír-lejárat) kell jelenteni. Az e soron szereplő tételek nem tartalmazzák az EKB, illetve az eurorendszer központi bankjai által, monetáris politikai ügyletek keretében elfogadható értékpapírok állományát.[^13]
 
 A CASHFLOW703 Stand-by hitelkeretek soron csak a visszavonhatatlan, szerződött, még le nem hívott hitelkereteket kell jelenteni.
 
@@ -2544,7 +2544,7 @@ Ezt a táblát csak a lakás-takarékpénztáraknak kell kitölteni az Ltpt. hat
 
 A táblákban lakás-takarékpénztárakra vonatkozó jogszabályok betartásának ellenőrzéséhez szolgáló adatokat kell jelenteni.
 
-A megfelelő oszlopban az összegeket millió forintban (három tizedes jegyig), az arányszámokat (kiszámított hányadot) százalékban (százalékjel nélkül) két tizedes pontosságig kell kimutatni.[^13]
+A megfelelő oszlopban az összegeket millió forintban (három tizedes jegyig), az arányszámokat (kiszámított hányadot) százalékban (százalékjel nélkül) két tizedes pontosságig kell kimutatni.[^14]
 
 A tábla sorai
 
@@ -2810,7 +2810,7 @@ A megtakarítási év (beszámolás) időpontját a táblában a Megtakarítás 
 
 A tábla egy évet és annak tizenkét hónapját öleli fel.
 
-A negyedévenként esedékes adatszolgáltatást a negyedév végi adatok alapján kell kitölteni, és az aktuális év táblája mindig bővül az éppen aktuális negyedév hónapjainak adataival. Az adott év adatairól – tekintettel a lehetséges felmondásokra, módosításokra, illetve a teljesítéssel megszűnésekre is – addig kell a jelentést küldeni, amíg az összes adott évi szerződés valamilyen módon meg nem szűnik. [^14]
+A negyedévenként esedékes adatszolgáltatást a negyedév végi adatok alapján kell kitölteni, és az aktuális év táblája mindig bővül az éppen aktuális negyedév hónapjainak adataival. Az adott év adatairól – tekintettel a lehetséges felmondásokra, módosításokra, illetve a teljesítéssel megszűnésekre is – addig kell a jelentést küldeni, amíg az összes adott évi szerződés valamilyen módon meg nem szűnik. [^15]
 
 Az adott módozatnál az első évre vonatkozó jelentést az adott évben attól a hónaptól kell kitölteni, amelyik hónapban az első megtakarított állomány (betét elhelyezés) kezdődött. A szerződés (megtakarítás) kezdete az ÁSZF-ben foglaltak alapján a számlanyitási díj befizetésének időpontja. Azokba a hónapokat jelző oszlopokba, ahol az adott módozatnál még nem történt befizetés (nincs állomány), nullát kell írni.
 
@@ -2998,7 +2998,7 @@ A részletező sorokban a minősített befolyással rendelkező tulajdonoshoz ka
 
 A tulajdonosokhoz kapcsolódó ügyleteknél a beszámolási időszakra vonatkozó negyedév alatt fennálló (és a mérlegadatok között bruttó, illetve nettó értéken kimutatott) kihelyezések és kötelezettségek negyedéves átlagos állományát a 21, illetve 22 sorban kell feltüntetni.
 
-Külön ki kell emelni és a 211, illetve 221 sorban szerepeltetni a kapcsolt vállalkozásokkal[^15] szembeni követelések és kötelezettségek negyedéves átlagos állományát.
+Külön ki kell emelni és a 211, illetve 221 sorban szerepeltetni a kapcsolt vállalkozásokkal[^16] szembeni követelések és kötelezettségek negyedéves átlagos állományát.
 
 7C3 Befektetésekhez kapcsolódó ügyletek állománya
 
@@ -3116,70 +3116,12 @@ A Tájékoztató adatok a bel- és külföldi ingatlanfejlesztési, ingatlanvás
 
 A 7F13 sorban a Cash flow-t nem termelő konstrukciókat (telek jellegű és befejezetlen építés alatt álló konstrukciók) kell kimutatni.
 
-A "cash flow-t nem termelő konstrukció" a projektfinanszírozási hitel státuszbeli megkülönböztetésének és folyamatosan felülvizsgálandó (dinamikus) sornak minősül. Ez azt jelenti, hogy amennyiben az adatszolgáltatás vonatkozási időszakában a projektfinanszírozási hitellel finanszírozott befektetés még nem fejeződött be, és aktuális státusza szerint jövedelmet nem termel,a hitelintézetnek a kockázatvállalás megítélésénél fokozott mértékben kell támaszkodnia a gazdasági elemzéssel számszerűsített adatokra. Amikor a befektetés befejeződik, a projekt cash-flow-t termelővé válik (akár értékesítésből megtérül, akár bérbe adják, akár egyéb módon hasznosítják pl. az ingatlant) és a hitel kikerül ebből a kockázatos körből.
-
-A 7F14 sorban a speciális törlesztési konstrukciójú hitelek adatait kell jelenteni, ebből a kiemelt soron a balloon és bulett típusú konstrukciókat.
-
-A 7F141 és 7F241 sorban az összes balloon vagy bullet törlesztésű vállalati hitelállományból csak a projektfinaszírozási hitelek közé tartozó balloon, bullet vállalati hiteleket kell jelenteni.
-
-A kitöltési előírások nem tartalmaznak a hitelintézetekre egységes törlesztési előírásokat a ballon és a bullet típusú hitelekre vonatkozóan, mivel a hitelintézet kockázati étvágyától függ, hogy milyen tőketörlesztési ütemezés jelent számára a belső szabályzatai szerint jelentősnek minősíthető kockázatot. A felügyeleti jelentés iránymutatása szerint
-
-• a balloon payment konstrukcióba azok az ügyletek sorolandók, ahol a tőketörlesztés 60%-a, vagy annál nagyobb arányú része a futamidő végén, vagy a futamidő utolsó szakaszában esedékes, a futamidő alatt a kamatok és díjak ütemezett fizetése történik;
-
-• a bullet típusú finanszírozás esetén a futamidő alatt a kamatok és díjak megfizetése történik, míg a futamidő végén történő egyösszegű tőketörlesztésre kerül sor (100% balloon).
-
-A türelmi idő a balloon, vagy bullet fogalommal nincs közvetlen kapcsolatban. A konstrukciókra a türelmi időszak szerződéses rögzítése nem jellemző, eltérően a normál törlesztésű hitelekétől.
-
-7G Önálló zálogjog adatai
-
-Az önálló zálogjog alkalmazásával kapcsolatos tevékenységre vonatkozó információszolgáltatás.
-
-Az önálló zálogjogról a Ptk. rendelkezik.
-
-A tábla sorai
-
-A 7G11-7G32 sorig az adatokat a negyedév végén fennálló állományoknak megfelelően kell kimutatni.
-
-A 7G11 sorban a hitelintézet eszközei között vagyoni értékű jogként szereplő önálló zálogjogokat kell szerepeltetni.
-
-A 7G111-7G113 sorban az önálló zálogjogból származó vagyoni értékű jogokat a keletkezés alapján kell megbontani.
-
-Az önálló jelzálogjog jelzálog-hitelintézet részére történő értékesítésénél a Jht. 8. §-ában foglaltak szerint kell eljárni. Az önálló jelzálogjog más személy részére történő értékesítésénél a halasztott fizetésre vonatkozó általános szabályok az irányadók.
-
-A 7G121 sorban a jelzálog-hitelintézetnél az önálló jelzálogjog megvásárlása és egyidejű halasztott fizetéssel való viszonteladása miatti éven túli követeléseket kell feltüntetni. Éven túli követelésnek kell minősíteni ebből a szempontból az adott évben esedékes részt is. E sorban csak a jelzálog-hitelintézetek tüntethetnek fel adatot.
-
-A 7G122 sorban az önálló jelzálogjog más személy részére, halasztott fizetéssel történő értékesítése miatti fennálló követelés könyv szerinti értékét kell szerepeltetni.
-
-A 7G21 sorban a hitelintézeteknél az önálló jelzálogjog jelzálog-hitelintézet részére történő értékesítése és egyidejű halasztott fizetéssel való visszavásárlása miatti a jelzálog-hitelintézettel szemben éven túli tartozások összegét kell szerepeltetni. E szempontból éven túli tartozásnak minősülnek az adott évben megfizetendő tartozások is.
-
-A 7G22 sorban a vagyoni értékű önálló zálogjogok halasztott fizetéssel történő megvásárlása miatt fennálló kötelezettségeket kell szerepeltetni.
-
-A Ptk. értelmében az önálló zálogjog – ranghelyének megtartása mellett a nyilvántartásba történő bejegyzéssel – követelést biztosító zálogjoggá, ez utóbbi pedig önálló zálogjoggá a felek erre irányuló megállapodásával átváltoztatható.
-
-Ha az önálló zálogjog követelés biztosítékául szolgál, a zálogjogból való kielégítés mértéke – azaz a zálogszerződésben meghatározott összeg, valamint annak járulékai – független a követeléstől, és a zálogkötelezettel való elszámolási kötelezettséget a biztosítéki szerződésnek kell tartalmaznia. (A követelést biztosító zálogjognál a kielégítés mértéke a követeléssel együtt mozog.) A követelést biztosító önálló zálogjogot a zálogszerződésben meghatározott összeg és járulékai erejéig a „0”-ás számlaosztályban kell nyilvántartani.
-
-A 7G31 sorban az önálló zálogjoggal kiváltott követeléseknél a nyilvántartások alapján azoknak a követeléseknek az összértékét kell szerepeltetni, amelyek helyébe a vagyoni értékek közé kerülő önálló zálogjogok léptek. A követelés értékét a követelést önálló zálogjoggá átalakító szerződésben szereplő meghatározott érték alapján kell kimutatni.
-
-A 7G32 sorban a fedezetként szereplő önálló zálogjogoknak a zálogszerződésben meghatározott, a járulékok nélküli összegét kell szerepeltetni.
-
-A 7G321 sorban a jelzálog-hitelintézetnek értékesített, és egyidejűleg halasztott fizetéssel visszavásárolt önálló jelzálogjogokat kell szerepeltetni.
-
-A 7G322 sorban a hitelintézetnél fedezetként szereplő, és nem értékesített önálló jelzálogjogok összértékét kell bemutatni.
-
-A 7G33 sorban az év eleje óta értékesített önálló jelzálogjogok összesített értékét kell szerepeltetni. A jelzálog-hitelintézeti halasztott fizetésű és visszavásárlásos ügylet keretében értékesített önálló zálogjogok értéke e sorban nem szerepelhet.
-
-A 7G34 sorban az év eleje óta követelést biztosító zálogjoggá átalakított önálló jelzálogjogok összesített értékét kell szerepeltetni.
-
-7HT, 7HA, 7HB A hitelintézet által nyújtott hitelek állományának alakulása
-
-A táblákban kell részletezni a hitelintézet által nyújtott hitelek állományának (1AB5) alakulását befolyásoló tranzakciókat (folyósítás, törlesztés, leírás, elengedés, vásárlás, eladás).
-
-[^7]: A 3. melléklet a 3/2016. (II. 8.) MNB rendelet 3. §-a szerint módosított szöveg.
-[^8]: Ha a hitelintézet a saját teljesítményű eszközeit aktiválja, az aktivált előállítási költségek (közvetlen önköltség) az eredménykimutatásban, az általános igazgatási költségek között már nem szerepelnek az alábbi könyvelési lépések eredőjeként: 1. Növeli az általános igazgatási költségeket a Saját előállítású eszközök előállítási költségeinek elszámolása a felmerüléskor (Tartozik: 5… számlák, Követel: 4… számlák). 2.A saját előállítású eszközök aktiválásakor csökken az általános igazgatási költségek az elszámolt előállítási költségekkel azonos értékben, mivel a Saját előállítású eszközök állományba vételét (Tartozik: 13… számlák) az 5-ös számlaosztályon belüli Aktivált saját teljesítmények értéke számlával szemben (Követel: 58 … számlák) kell végrehajtani a számviteli szabályoknak megfelelően.
-[^9]: A lejárt oszlopban csak a már esedékessé vált, de az esedékesség időpontjáig meg nem fizetett tőke, kamat és egyéb követeléseket kell szerepeltetni. A vonatkozási dátumot követően esedékes követelések pénzáramlásai a Lejárt tételek miatti korrekciók blokkban kerülnek kivezetésre.
-[^10]: Ezek a tételek gyakorlatilag az úton lévő tételeket tartalmazzák.
-[^11]: Ez esetben egy három hónapos, folyamatosan megújuló lekötött betétet a hátralévő lejárat szerint, azaz szerződéskötéskor pl. a 31-90 napos kategóriába kell besorolni.
-[^12]: CASHFLOW702 és CASHFLOW708 sorokhoz kapcsolódóan az MNB által elfogadható fedezetek köre és befogadási értékeik megtalálhatóak a http://www.mnb.hu/monetaris-politika/a-monetaris-politikai-eszkoztar/fedezetertekeles oldalon.
-[^13]: Pl. ha az érték 124 ezer Ft, akkor a mezobe 0,124, illetve, ha a mutató 0,46451, akkor 46,45 lesz a beírandó adat.
-[^14]: Pl. A 2003. évi szerződések – tekintettel a nyolc éves futamidejű szerződésekre is – legalább 2011. I. negyedévéig biztosan jelentendők.
-[^15]: Kapcsolt vállalkozások a Számv. tv. szerint kapcsolt vállalkozásként meghatározott vállalkozások.
+[^8]: A 3. melléklet a 3/2016. (II. 8.) MNB rendelet 3. §-a szerint módosított szöveg.
+[^9]: Ha a hitelintézet a saját teljesítményű eszközeit aktiválja, az aktivált előállítási költségek (közvetlen önköltség) az eredménykimutatásban, az általános igazgatási költségek között már nem szerepelnek az alábbi könyvelési lépések eredőjeként: 1. Növeli az általános igazgatási költségeket a Saját előállítású eszközök előállítási költségeinek elszámolása a felmerüléskor (Tartozik: 5… számlák, Követel: 4… számlák). 2.A saját előállítású eszközök aktiválásakor csökken az általános igazgatási költségek az elszámolt előállítási költségekkel azonos értékben, mivel a Saját előállítású eszközök állományba vételét (Tartozik: 13… számlák) az 5-ös számlaosztályon belüli Aktivált saját teljesítmények értéke számlával szemben (Követel: 58 … számlák) kell végrehajtani a számviteli szabályoknak megfelelően.
+[^10]: A lejárt oszlopban csak a már esedékessé vált, de az esedékesség időpontjáig meg nem fizetett tőke, kamat és egyéb követeléseket kell szerepeltetni. A vonatkozási dátumot követően esedékes követelések pénzáramlásai a Lejárt tételek miatti korrekciók blokkban kerülnek kivezetésre.
+[^11]: Ezek a tételek gyakorlatilag az úton lévő tételeket tartalmazzák.
+[^12]: Ez esetben egy három hónapos, folyamatosan megújuló lekötött betétet a hátralévő lejárat szerint, azaz szerződéskötéskor pl. a 31-90 napos kategóriába kell besorolni.
+[^13]: CASHFLOW702 és CASHFLOW708 sorokhoz kapcsolódóan az MNB által elfogadható fedezetek köre és befogadási értékeik megtalálhatóak a http://www.mnb.hu/monetaris-politika/a-monetaris-politikai-eszkoztar/fedezetertekeles oldalon.
+[^14]: Pl. ha az érték 124 ezer Ft, akkor a mezobe 0,124, illetve, ha a mutató 0,46451, akkor 46,45 lesz a beírandó adat.
+[^15]: Pl. A 2003. évi szerződések – tekintettel a nyolc éves futamidejű szerződésekre is – legalább 2011. I. negyedévéig biztosan jelentendők.
+[^16]: Kapcsolt vállalkozások a Számv. tv. szerint kapcsolt vállalkozásként meghatározott vállalkozások.

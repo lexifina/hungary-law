@@ -788,6 +788,6 @@
 
 ## A forgalmi típusú jelentéseknél az adott tábla kitöltési előírásainak eltérő rendelkezése hiányában a forintra átszámítás az ügylet napján érvényes árfolyammal történik az intézmény számviteli politikájában lefektetetteknek megfelelően.
 
-2. melléklet az 51/2015. (XII. 9.) MNB rendelethez[^6]
+2. melléklet az 51/2015. (XII. 9.) MNB rendelethez[^7]
 
-[^6]: A 2. melléklet a 3/2016. (II. 8.) MNB rendelet 2. §-a szerint módosított szöveg.
+[^7]: A 2. melléklet a 3/2016. (II. 8.) MNB rendelet 2. §-a szerint módosított szöveg.
