@@ -52,7 +52,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, belügyminiszter, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter, külgazdasági és külügyminiszter, emberi erőforrások minisztere
 
-## Határidő: 2015. június 30., a XV. Nemzetgazdasági Minisztérium fejezet, 8. Magyar Államkincstár cím részére átcsoportosított 700,0 millió forint tekintetében 2015. szeptember 30., a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 9. Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport részére átcsoportosított 2500,0 millió forint tekintetében és a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 47. Megváltozott munkaképességű munkavállalók foglalkoztatásának támogatása alcímre átcsoportosított 2669,8 millió forint tekintetében 2016. június 30.
+## Határidő: 2015. június 30., a XV. Nemzetgazdasági Minisztérium fejezet, 8. Magyar Államkincstár cím részére átcsoportosított 700,0 millió forint tekintetében 2015. szeptember 30., a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 47. Megváltozott munkaképességű munkavállalók foglalkoztatásának támogatása alcímre átcsoportosított 2669,8 millió forint tekintetében 2016. június 30., a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 55. Egyházi célú központi költségvetési hozzájárulások alcím, 9. Egyházi közösségi célú programok és beruházások támogatása jogcímcsoport részére átcsoportosított 2500,0 millió forint tekintetében 2016. december 30.
 
 ## 6.[^5] A Kormány egyetért azzal, hogy a belügyminiszter a Kvtv. helyi önkormányzatok támogatásait tartalmazó költségvetési fejezetéből a 2. és 3. pont szerinti támogatások felhasználásának és elszámolásának feltételeiről támogatási megállapodást köt Kenderes Város Önkormányzatával, valamint Hejőkürt Község Önkormányzatával és Jászfényszaru Város Önkormányzatával.
 
@@ -109,7 +109,7 @@
 [^1]: Az 1. pont az 1870/2014. (XII. 31.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
 [^2]: A 3. pont a) alpontját az 1870/2014. (XII. 31.) Korm. határozat 2. pontja visszavonta.
 [^3]: A 4. pont az 1182/2016. (IV. 11.) Korm. határozat 11. pontja, az 1245/2016. (V. 18.) Korm. határozat 10. pontja szerint módosított szöveg.
-[^4]: Az 5. pont az 1182/2016. (IV. 11.) Korm. határozat 12. pontja szerint módosított szöveg.
+[^4]: Az 5. pont az 1182/2016. (IV. 11.) Korm. határozat 12. pontja, az 1340/2016. (VII. 4.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^5]: A 6. pont az 1870/2014. (XII. 31.) Korm. határozat 3. pont b) alpontja szerint módosított szöveg.
 [^6]: A 7. pont az 1870/2014. (XII. 31.) Korm. határozat 3. pont c) alpontja szerint módosított szöveg.
 [^7]: A 11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
