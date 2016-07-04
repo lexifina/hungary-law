@@ -10,4 +10,4 @@
 
 5. 39. §-a.
 
-(2) Hatályát veszti a Vksztv. 45. § (4) és (5) bekezdése.
+(2)
