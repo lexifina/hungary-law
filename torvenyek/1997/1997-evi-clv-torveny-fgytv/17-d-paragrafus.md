@@ -34,7 +34,7 @@ b) a képzési tevékenység bejelentését megelőző 5 évben nem szerepelt az
 
 (9) Fogyasztóvédelmi referens foglalkoztatására köteles vállalkozás a (3) bekezdés b) pontja szerinti képzést nem szervezhet.
 
-(10) A (9) bekezdés szerinti bejelentésnek tartalmaznia kell:
+(10) A (8) bekezdés szerinti bejelentésnek tartalmaznia kell:
 
 a) annak igazolását, hogy a képzéshez szükséges infrastruktúra a szervező rendelkezésre áll,
 

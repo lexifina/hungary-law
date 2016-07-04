@@ -20,7 +20,7 @@ a) az ügyfélszolgálat működésére vonatkozóan további részletes szabál
 
 b) az ellátott fogyasztók számára és földrajzi eloszlására figyelemmel indokolt esetben a (2) bekezdés a) pontjától eltérő nyitva tartást írhat elő, ha a hét egy munkanapján a meghosszabbított nyitva tartás 20 óráig, vagy külön törvényben meghatározott ügyfélszolgálati fiókiroda esetében 18 óráig biztosított.
 
-(5) A 17/A. §-tól eltérően az ügyfélszolgálat minden esetben köteles a vállalkozás panasszal kapcsolatos álláspontját és intézkedéseit indokolással ellátva írásba foglalni, és a fogyasztónak a panasz beérkezését követő tizenöt napon belül megküldeni, kivéve, ha a fogyasztó panaszát szóban közli és a vállalkozás az abban foglaltaknak nyomban eleget tesz.
+(5) A 17/A. §-tól eltérően az ügyfélszolgálat minden esetben köteles a vállalkozás panasszal kapcsolatos álláspontját és intézkedéseit indokolással ellátva írásba foglalni, és a fogyasztónak a panasz beérkezését követő tizenöt napon belül megküldeni, kivéve, ha a fogyasztó panaszát szóban közli és a vállalkozás az abban foglaltaknak nyomban eleget tesz. A korábbi, érdemben megválaszolt panasz tartalmával azonos tartalmú, ugyanazon fogyasztó által tett, ismételt, új információt nem tartalmazó panasz, valamint az azonosíthatatlan személy által tett fogyasztói panasz kivizsgálását a vállalkozás mellőzheti.
 
 (6) Az (5) bekezdés szerinti válaszadási határidő helyszíni vizsgálat vagy valamely hatóság megkeresésének szükségessége esetén egy alkalommal legfeljebb tizenöt nappal meghosszabbítható. A válaszadási határidő meghosszabbításáról és annak indokáról a fogyasztót írásban, a válaszadási határidő letelte előtt tájékoztatni kell.
 
