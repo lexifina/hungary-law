@@ -1,0 +1,5 @@
+27. § (1) Minden tag jogosult személyesen vagy meghatalmazott képviselő útján a közös jogkezelő szervezet közgyűlésén részt venni, szavazati jogát gyakorolni, a közgyűlés rendjének megfelelően felszólalni, kérdéseket feltenni, javaslatokat és észrevételeket tenni.
+
+(2) Ha a közös jogkezelő szervezet különböző jogosulti csoportok javára végez közös jogkezelési tevékenységet, a közös jogkezelő szervezet alapszabályának biztosítania kell a különböző jogosulti csoportok megfelelő és arányos képviseletét a döntéshozatali folyamatban.
+
+(3) A közgyűlésen való részvétel vagy szavazás céljából adott meghatalmazást közokiratba vagy teljes bizonyító erejű magánokiratba kell foglalni. A meghatalmazott személy köteles a meghatalmazó utasítása szerint eljárni. A tag nem adhat érvényesen képviseleti meghatalmazást másik jogosulti csoportba tartozó tag részére. Ha a közös jogkezelő szervezet alapszabálya másként nem rendelkezik, egy meghatalmazott legfeljebb egy meghatalmazó nevében járhat el. A meghatalmazás minden esetben kizárólag egy meghatározott közgyűlésen való képviseletre szólhat.
