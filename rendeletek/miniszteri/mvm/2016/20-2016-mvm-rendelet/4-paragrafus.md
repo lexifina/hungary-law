@@ -1,0 +1,11 @@
+4. § (1) A Becsületbíróság összehívását annak kezdeményezője (a továbbiakban: kérelmező) a szolgálati út betartásával előterjesztett írásbeli kérelmével kezdeményezheti. Szabályszerű kezdeményezés esetén a sérelmezett elsőfokú döntést hozó elöljáró összehívja a Becsületbíróságot. Ha a kezdeményezés nem szabályszerű, erről a sérelmezett döntést hozó elöljáró nyolc napon belül tájékoztatja a kérelmezőt.
+
+(2) A sérelmezett döntést hozó elöljáró a kérelem megérkezését követő három munkanapon belül kijelöli a névjegyzékről a Becsületbíróság tagjait. A sérelmes döntést hozó elöljáró közvetlen alárendeltje nem jelölhető ki. A Becsületbíróság összeállítása során a Hszt. 227. § (4) bekezdése alkalmazása szempontjából a címzetes rendfokozatot viselő esetén a címzetes rendfokozatot kell figyelembe venni.
+
+(3) A sérelmezett döntést hozó elöljáró a Becsületbíróság elnökének kijelölése céljából a kérelem megérkezését követő három munkanapon belül megkeresi a Magyar Rendvédelmi Kar (a továbbiakban: MRK) Elnökségét. A megkeresésnek tartalmaznia kell a Becsületbíróság kijelölt tagjainak nevét és rendfokozatát, a kérelmező nevét és rendfokozatát, valamint azt, hogy milyen ügyben kérte a Becsületbíróság összehívását.
+
+(4) Az MRK Elnöksége a megkeresés megérkezését követő tíz napon belül kijelöli a Becsületbíróság elnökét és erről tájékoztatja a megkeresőt, aki haladéktalanul felterjeszti a főigazgatóhoz a Becsületbíróság kijelölt elnökének és tagjainak nevét. A felterjesztés alapján a főigazgató az adott ügyre szóló megbízólevelet ad ki.
+
+(5) Ha a főigazgató a megbízólevél kiadásának jogszabályi akadályát észleli, erre felhívja a jelölő figyelmét, egyéb esetben kiállítja a megbízólevelet. A főigazgató a Becsületbíróság elnökével és tagjaival, valamint a kérelmezővel közli a döntését. Ha kifogás előterjesztésére kerül sor és ennek következtében a Becsületbíróság feladatának ellátására új személyt jelölnek, a főigazgató a korábbi megbízólevelet visszavonja, valamint helyette újat állít ki. A megbízatásról a megbízottat, valamint azokat kell értesíteni, akik a megbízatás ellen kifogással élhetnek.
+
+(6) A Becsületbíróság elnöke, illetve tagja elleni kifogást – a megbízásról szóló értesítést követő két munkanapon beül – a jelölő személynél kell előterjeszteni.
