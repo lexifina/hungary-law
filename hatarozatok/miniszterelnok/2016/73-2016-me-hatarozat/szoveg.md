@@ -4,4 +4,6 @@ a) Glattfelder Bélát a Versenyképes Közép-Magyarország Operatív Program m
 
 b) Cseresnyés Pétert, a Nemzetgazdasági Minisztérium munkaerőpiacért és képzésért felelős államtitkárát a Versenyképes Közép-Magyarország Operatív Program monitoring bizottsága elnökévé – 2016. május 1-jei hatállyal – kinevezem.
 
-2. Visszavonom a 2014–2020 programozási időszak egyes operatív programjai monitoring bizottsági elnökeinek kinevezéséről szóló 21/2015. (III. 12.) ME határozat 6. pontját.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
