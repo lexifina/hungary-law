@@ -1,1 +1,0 @@
-110. § A közös jogkezelő szervezet a közös jogkezelési tevékenységével összefüggésben féléves rendszerességgel adatszolgáltatásra köteles az SZTNH felé. Az adatszolgáltatás tartalmát és módját a Kormány rendeletben határozza meg.

@@ -1,3 +1,0 @@
-131. § (1) A bírósági felülvizsgálati kérelem az SZTNH-nál nyújtható be, amely azt a jogkezeléssel kapcsolatos hatósági ügy irataival együtt – a (2) bekezdésben szabályozott eset kivételével – tizenöt napon belül továbbítja a bírósághoz. Ha az eljárásban ellenérdekű ügyfél is részt vett, az SZTNH a bírósági felülvizsgálati kérelem továbbításáról egyidejűleg az ellenérdekű ügyfelet is értesíti.
-
-(2) Ha a bírósági felülvizsgálati kérelem elvi jelentőségű jogkérdést vet fel, az SZTNH e kérdésben írásbeli nyilatkozatot tehet, és azt a bírósági felülvizsgálati kérelemmel, valamint a jogkezeléssel kapcsolatos hatósági ügy irataival együtt harminc napon belül továbbítja a bírósághoz.

@@ -1,3 +1,0 @@
-51. § (1) A hitelezők követeléseinek kiegyenlítését követően fennmaradó vagyonnak az 50. § szerinti jogdíjvagyonon kívüli részét (különösen a közös jogkezelő szervezet működéséhez szükséges tárgyi eszközöket) az alapszabályban meghatározott, belföldön letelepedett közös jogkezelő szervezetnek kell átadni.
-
-(2) Ha az alapszabály nem határoz meg kedvezményezett közös jogkezelő szervezetet, az (1) bekezdés szerinti vagyont a megszűnt közös jogkezelő szervezet által képviselt azon jogosultak között kell – a jogosultaknak kifizetett jogdíjak arányában – felosztani, akik a megszűnést megelőző öt évben jogdíjkifizetésben részesültek.

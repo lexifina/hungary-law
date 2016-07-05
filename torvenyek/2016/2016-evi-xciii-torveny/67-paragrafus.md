@@ -1,9 +1,0 @@
-67. § (1) A több tagállam területére kiterjedő hatályú felhasználási engedélyeket adó közös jogkezelő szervezet az érintett felhasználó részére elektronikus úton küld számlát, és – a vonatkozó jogszabályok keretei között – felajánlja legalább egy olyan formátum használatát, amely figyelembe veszi a nemzetközi vagy uniós szinten kialakított önkéntes iparági normákat vagy gyakorlatokat.
-
-(2) A számlán a 63. § (2) bekezdése szerinti adatok alapján fel kell tüntetni a részben vagy egészben engedélyezett zeneműveket és jogokat, valamint a zeneművek tényleges felhasználásait, feltéve, hogy ez az érintett felhasználó által szolgáltatott információk és az információszolgáltatásra használt formátum alapján lehetséges. Ha a több tagállam területére kiterjedő hatályú felhasználási engedélyeket adó közös jogkezelő szervezet a számlát a vonatkozó jogszabályoknak és iparági normáknak megfelelően állítja ki, az érintett felhasználó nem tagadhatja meg a számla elfogadását annak formátuma miatt.
-
-(3) A több tagállam területére kiterjedő hatályú felhasználási engedélyeket adó közös jogkezelő szervezet a zeneművek tényleges online felhasználására vonatkozó, 66. § szerinti jelentést követően késedelem nélkül megküldi a pontos számlát az érintett felhasználó részére, kivéve, ha ez a felhasználónak felróható okból nem lehetséges.
-
-(4) A több tagállam területére kiterjedő hatályú felhasználási engedélyeket adó közös jogkezelő szervezetnek megfelelő eljárásokkal kell rendelkeznie annak érdekében, hogy az érintett felhasználó kifogást emelhessen a számla pontosságát illetően, beleértve azt az esetet is, amikor a felhasználó ugyanazon zeneművel kapcsolatos ugyanazon online felhasználásra vonatkozó ugyanazon jog tekintetében egy vagy több közös jogkezelő szervezettől tévesen több számlát kap.
-
-(5) E § alkalmazásában számlán egyéb, a jogdíj megfizetéséhez szükséges adatokat tartalmazó bizonylatot is érteni kell.

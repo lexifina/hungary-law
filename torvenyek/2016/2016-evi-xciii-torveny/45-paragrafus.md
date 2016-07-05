@@ -1,7 +1,0 @@
-45. § (1) A közös jogkezelő szervezet az NKA számára történő átadással használhatja fel bevételét kulturális célokra. A támogatási politika kulturális célú felhasználásról szóló rendelkezéseinek összhangban kell állniuk a Nemzeti Kulturális Alapról szóló törvényben meghatározott támogatási célokkal. A kulturális célú felhasználásra szánt bevételt legkésőbb az ilyen felhasználásról szóló döntés meghozatalának évére vonatkozó éves beszámoló elfogadását követő 60 napon belül kell az NKA számára átadni.
-
-(2) Az Szjt. 20. és 21. §-ban meghatározott díjakat megállapító közös jogkezelő szervezet köteles a 44. § (1) bekezdése szerinti összeget kulturális célokra az éves beszámoló elfogadását követő 60 napon belül az NKA számára átadni. Az NKA az átvett összeget a Nemzeti Kulturális Alapról szóló törvényben foglalt támogatási célokra használja fel az Szjt. 20. § (4)–(5) és 21. § (6) bekezdésében meghatározott jogosulti csoportok javára.
-
-(3) A közös jogkezelő szervezet köteles a 42. § alapján ki nem fizethetőnek minősülő jogdíjbevétel 90%-át kulturális célokra az éves beszámoló elfogadását követő 60 napon belül az NKA számára átadni. Az NKA a közös jogkezelő szervezettől átvett összeget a Nemzeti Kulturális Alapról szóló törvényben foglalt támogatási célokra használja fel az adott összeget átadó közös jogkezelő szervezet által képviselt jogosulti csoportok javára.
-
-(4) A 43. § (2) bekezdésében foglalt követelményeket az e § alapján az NKA részére átadott bevételek NKA általi felhasználása során is alkalmazni kell.

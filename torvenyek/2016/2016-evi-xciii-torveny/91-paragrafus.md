@@ -1,1 +1,0 @@
-91. § A 89. § (1) bekezdése és a 90. § (1) bekezdése szerinti megállapodást, valamint a 89. § (2) bekezdése és a 90. § (2) bekezdése szerinti kijelölést a megállapodást jóváhagyó vagy a kijelölést megállapító határozat jogerőre emelkedésekor hatályos díjszabás időbeli hatályát követő időszak tekintetében lehet alkalmazni.
