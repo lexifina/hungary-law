@@ -1,6 +1,6 @@
 115/L. § A szellemi tulajdon területén folyó nemzetközi, illetve európai együttműködésben a Hivatal – együttműködve az érintett központi államigazgatási szervekkel – különösen a következő képviseleti és egyéb szakmai feladatokat látja el:
 
-a) részt vesz a Szellemi Tulajdon Világszervezete, az Európai Szabadalmi Szervezet, a Belső Piaci Harmonizációs Hivatal, a Közösségi Növényfajta-hivatal vezető és egyéb testületeinek, a Kereskedelmi Világszervezet TRIPS Tanácsának, valamint – a tárgykör szerint felelős miniszter általános vagy eseti felhatalmazása alapján – más nemzetközi szervezetek tevékenységében;
+a) részt vesz a Szellemi Tulajdon Világszervezete, az Európai Szabadalmi Szervezet, az Európai Unió Szellemi Tulajdoni Hivatala, a Közösségi Növényfajta-hivatal vezető és egyéb testületeinek, a Kereskedelmi Világszervezet TRIPS Tanácsának, valamint – a tárgykör szerint felelős miniszter általános vagy eseti felhatalmazása alapján – más nemzetközi szervezetek tevékenységében;
 
 b) gondoskodik az Európai Szabadalmi Szervezet tagállamait megillető jogok gyakorlásáról és az azokat terhelő kötelezettségek teljesítéséről, és ellátja az európai szabadalmi rendszer működtetéséből a nemzeti szabadalmi hatóságra háruló feladatokat;
 

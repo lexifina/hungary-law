@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-33-00-00
 | 2014-10-29 | 2013. évi CLIX. törvény | 1995-33-00-00.31 |
 | 2015-03-01 | 2014. évi XCIX. törvény | 1995-33-00-00.32 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 1995-33-00-00.33 |
+| 2016-07-05 | 2016. évi XCIII. törvény | 1995-33-00-00.34 |
