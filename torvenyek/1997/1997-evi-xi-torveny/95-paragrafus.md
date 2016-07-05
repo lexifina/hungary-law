@@ -4,7 +4,7 @@
 
 ## A védjegyperekre irányadó szabályok
 
-95. § (1) A védjegybitorlás miatt indított perekben, a 14. §, illetve a 19. § (5) bekezdése alapján a védjegynek a képviselő, illetve az ügynök általi használatától való eltiltás iránt, illetve a védjegyoltalmi igény vagy a védjegyoltalom átruházása iránt indított perekben, valamint a közösségi védjegyrendelet [76/A. § a) pont] 110. és 111. cikke, illetve 165. cikkének (5) bekezdése alapján a közösségi védjegy használatától való eltiltás iránt indított perekben a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik. E perekben a Fővárosi Törvényszék a 78. § (2) bekezdésében meghatározott összetételű tanácsban jár el.
+95. § (1) A védjegybitorlás miatt indított perekben, a 14. §, illetve a 19. § (5) bekezdése alapján a védjegynek a képviselő, illetve az ügynök általi használatától való eltiltás iránt, illetve a védjegyoltalmi igény vagy a védjegyoltalom átruházása iránt indított perekben, valamint az európai uniós védjegyrendelet [76/A. § a) pont] 110. és 111. cikke, illetve 165. cikkének (5) bekezdése alapján az európai uniós védjegy használatától való eltiltás iránt indított perekben a Fővárosi Törvényszék kizárólagos illetékességgel rendelkezik. E perekben a Fővárosi Törvényszék a 78. § (2) bekezdésében meghatározott összetételű tanácsban jár el.
 
 (2) Védjegybitorlás miatt indított perekben az ideiglenes intézkedést – az ellenkező valószínűsítéséig – a kérelmező különös méltánylást érdemlő jogvédelméhez szükségesnek kell tekinteni, ha a kérelmező igazolja, hogy a védjegy oltalom alatt áll, és ő a védjegy jogosultja vagy olyan használója, aki jogosult saját nevében fellépni a bitorlással szemben.
 

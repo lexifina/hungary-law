@@ -8,7 +8,7 @@ b) az Európai Parlament és a Tanács 2008/95/EK irányelve (2008. október 22.
 
 (2) Ez a törvény megállapítja a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket:
 
-a) a közösségi védjegyről szóló, 2009. február 26-i 207/2009/EK tanácsi rendelet;
+a) a közösségi védjegyről szóló, 2009. február 26-i 207/2009/EK tanácsi rendelet és az azt módosító 2015/2424/EU európai parlamenti és tanácsi rendelet;
 
 b) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU európai parlamenti és tanácsi rendelet;
 
