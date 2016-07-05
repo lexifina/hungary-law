@@ -1,3 +1,0 @@
-9. § A Vksztv. 18. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az ellátásért felelős vagy – ha a használati díj kezelését megállapodás szerint a víziközmű-szolgáltató végzi – a víziközmű-szolgáltató a tárgyévet követő év március 31. napjáig benyújtja a Hivatalnak a tárgyévben fizetett használati díj felhasználására vonatkozó elszámoló jelentését, amely tartalmazza a víziközmű-fejlesztésre felhasznált összeget és annak műszaki tartalmát, továbbá annak pénzintézeti igazolását, hogy az ellátásért felelős, vagy a víziközmű-szolgáltató melyik elkülönített számláján mekkora összeg áll rendelkezésre. Az elszámoló jelentés tartalmi és formai követelményeit a Hivatal a honlapján közzéteszi.”

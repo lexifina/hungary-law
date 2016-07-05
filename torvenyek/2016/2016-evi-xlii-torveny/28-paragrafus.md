@@ -1,1 +1,0 @@
-28. § Hatályát veszti a Vksztv. 2. § 26. pontjában a „különösen a víziközmű műszaki értelemben vett napi üzemben tartása, karbantartása és javítása, közszolgáltatási szerződés-kötés, számlázás, ügyfélszolgálat működtetése,” szövegrész.
