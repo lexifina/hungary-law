@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2016. június 30.[^1]
+## Határidő: 2017. június 30.[^1]
 
 1. melléklet az 1542/2013. (VIII. 15.) Korm. határozathoz
 
@@ -94,4 +94,4 @@ Költségvetési év: 2013.
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
-[^1]: Az 1520/2015. (VII. 27.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^1]: Az 1348/2016. (VII. 6.) Korm. határozat 3. pontja szerint módosított szöveg.
