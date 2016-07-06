@@ -1,0 +1,1 @@
+## 1. Alapvető szabályok
