@@ -22,7 +22,7 @@
 
 ## Határidő: azonnal
 
-## 3. az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva 2 285 771 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint.
+## 3.[^1] az Áht. 21. § (6) bekezdésében biztosított jogkörében eljárva 2 285 771 ezer forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Kvtv. 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -34,7 +34,7 @@
 
 ## Felelős: a miniszterelnök kabinetfőnöke
 
-## Határidő: 2016. június 30.
+## Határidő: 2016. december 31.
 
 1. melléklet az 1790/2015. (X. 30.) Korm. határozathoz
 
@@ -145,3 +145,5 @@ XXXIV. Magyar Művészeti Akadémia
 | Fejezet Állami Számvevőszék Magyar Államkincstár Nemzetgazdasági Minisztérium | 1 példány 1 példány 1 példány 2 példány | időarányos teljesítményarányos egyéb: | azonnal | 2 425 271 |  |  |  |  | 2 425 271 |
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
+
+[^1]: A 3. pont az 1348/2016. (VII. 6.) Korm. határozat 8. pontja szerint módosított szöveg.
