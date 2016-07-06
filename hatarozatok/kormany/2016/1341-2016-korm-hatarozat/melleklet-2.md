@@ -1,0 +1,387 @@
+## „1. melléklet az 1037/2016. (II. 9.) Korm. határozathoz
+
+## Az EFOP éves fejlesztési kerete
+
+## 1. Az együttműködő társadalomról szóló 1. prioritás
+
+|  | A | B | C | D | E |
+
+| 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
+
+| 2. | EFOP-1.1.1-15 | Megváltozott munkaképességű emberek támogatása | 10,00 | kiemelt | Meghirdetve 2015. októberben |
+
+| 3. | EFOP-1.1.2-16 | Nő az esély – képzés és foglalkoztatás | 4,05 | kiemelt | Meghirdetve 2016. áprilisban |
+
+| 4. | EFOP-1.1.3-16 | Nő az esély – foglalkoztatás | 3,15 | egyszerűsített | 2016. július |
+
+| 5. | EFOP 1.1.4-16 | Elsőként lakhatás | 1,40 | standard | 2016. július |
+
+| 6. | EFOP-1.2.1-16 | Védőháló a családokért | 6,20 | standard | Meghirdetve 2016. februárban |
+
+| 7. | EFOP-1.2.2-16 | Ifjúsági programok támogatása | 1,00 | standard | Meghirdetve 2016. februárban |
+
+| 8. | EFOP-1.2.3-15 | Komplex ifjúsági fejlesztések – új nemzedék újratöltve | 5,00 [ebből Versenyképes Közép-Magyarország Operatív Program (a továbbiakban: VEKOP): 1,50] | kiemelt | Meghirdetve 2015. októberben |
+
+| 9. | EFOP-1.2.4-16 | Kríziskezelő szolgálatok fejlesztése | 1,16 (ebből VEKOP: 0,35) | kiemelt | 2016. július |
+
+| 10. | EFOP-1.2.5-16 | Biztos menedék | 1,64 | standard | 2016. július |
+
+| 11. | EFOP-1.2.6-16 | Családbarát ország | 7,00 (ebből VEKOP: 1,35) | kiemelt | 2016. július |
+
+| 12. | EFOP-1.2.7-16 | Gyermekvédelmi szakellátásban, javítóintézetekben elhelyezettek önálló életkezdési feltételeinek javítása | 1,05 | standard | 2016. július |
+
+| 13. | EFOP-1.2.8-16 | Nők a családban és a munkahelyen | 3,00 | kiemelt | 2016. szeptember |
+
+| 14. | EFOP-1.2.9-16 | Nők a családban és a munkahelyen (standard) | 9,00 | standard | 2016. december |
+
+| 15. | EFOP-1.2.10-16 | Mentorprogram koraszülöttek részére | 2,00 | standard | 2016. június |
+
+| 16. | EFOP-1.2.11-16 | Esély Otthon | 2,00 | standard | 2016. december |
+
+| 17. | EFOP-1.3.1-16 | Cselekvő közösségek – aktív közösségi szerepvállalás | 3,00 | kiemelt | Meghirdetve 2016. januárban |
+
+| 18. | EFOP-1.3.2-16 | Roma mentorhálózat fejlesztése | 2,00 | kiemelt | 2016. szeptember |
+
+| 19. | EFOP-1.3.3-16 | Fogvatartottak reintegrációja | 3,50 | kiemelt | 2016. június |
+
+| 20. | EFOP-1.3.4-16 | Közös értékeink – sokszínű társadalom | 1,00 | standard | 2016. szeptember |
+
+| 21. | EFOP-1.3.5-16 | Társadalmi szerepvállalás erősítése a közösségek fejlesztésével | 14,00 | standard | 2016. szeptember |
+
+| 22. | EFOP-1.3.6-16 | Ifjúsági kisközösségi együttműködések támogatása | 2,60 (ebből VEKOP: 0,50) | kiemelt | 2016. szeptember |
+
+| 23. | EFOP-1.3.7-16 | A társadalmi kohézió erősítése az egyházak közösségfejlesztő tevékenységeinek bővítésével | 8,00 | standard | 2016. december |
+
+| 24. | EFOP-1.4.1-16 | Integrált gyermekprogramok szakmai támogatása | 3,00 | kiemelt | Meghirdetve 2016. januárban |
+
+| 25. | EFOP-1.4.2-16 | Integrált térségi gyermekprogramok | 15,00 | standard | Meghirdetve 2016. áprilisban |
+
+| 26. | EFOP-1.4.3-16 | Jó kis hely - Biztos Kezdet Gyerekházak és kistelepülési komplex gyermekprogramok támogatása | 5,50 | standard | 2016. július |
+
+| 27. | EFOP-1.5.1-16 | Kísérleti program a leginkább elmaradott járások területi felzárkózása érdekében | 2,00 | standard | 2016. december |
+
+| 28. | EFOP-1.5.2-16 | Humán szolgáltatások fejlesztése térségi szemléletben | 80,00 | standard | 2016. augusztus |
+
+| 29. | EFOP-1.5.3-16 | Humán szolgáltatások fejlesztése térségi szemléletben – kiemelt térségek | 20,00 | standard | 2016. augusztus |
+
+| 30. | EFOP-1.6.1-16 | Felzárkózási együttműködések támogatása | 2,20 (ebből VEKOP: 0,22) | kiemelt | 2016. július |
+
+| 31. | EFOP-1.6.2-16 | Szegregált élethelyzetek felszámolása komplex programokkal (ESZA) | 22,00 | standard | 2016. augusztus |
+
+| 32. | EFOP-1.8.1-16 | Komplex népegészségügyi szűrések | 6,57 (ebből VEKOP: 1,97) | kiemelt | Meghirdetve 2016. januárban |
+
+| 33. | EFOP-1.8.2-16 | Az alapellátás és népegészségügy rendszerének átfogó fejlesztése | 25,00 (ebből VEKOP: 5,40) | kiemelt | 2016. szeptember |
+
+| 34. | EFOP-1.8.4-16 | Nemzeti egészségügyi program a gyermekek megszületéséért | 2,50 (ebből VEKOP: 0,75) | kiemelt | 2016. szeptember |
+
+| 35. | EFOP-1.8.5-16 | Prevenciós célú egészségfejlesztés a köznevelésben | 2,00 | kiemelt | 2016. december |
+
+| 36. | EFOP-1.8.6-16 | A felnőtt lakosság prevenciós célú egészségfejlesztése a szabadidősport révén | 2,00 | kiemelt | 2016. december |
+
+| 37. | EFOP-1.8.7-16 | Célzott prevenciós programok a szenvedélybetegségek megelőzése érdekében | 3,00 | standard | 2016. december |
+
+| 38. | EFOP-1.8.8-16 | Betegbiztonság növelését célzó komplex fejlesztések az egészségügyi ellátórendszerben | 3,50 | kiemelt | 2016. december |
+
+| 39. | EFOP-1.9.1-16 | Szociális intézmény férőhely kiváltási szakmai koordinációs műhely kialakítása | 2,50 (ebből VEKOP: 0,45) | kiemelt | Meghirdetve 2016. februárban |
+
+| 40. | EFOP-1.9.2-16 | A fogyatékos személyek számára nyújtott szakmai és közszolgáltatások hozzáférhetőségének kialakítása, fejlesztése | 3,30 (ebből VEKOP: 0,99) | kiemelt | 2016. szeptember |
+
+| 41. | EFOP-1.9.3-16 | A foglalkoztatási rehabilitáció szakmai folyamatainak fejlesztése | 4,20 (ebből VEKOP: 1,26) | kiemelt | 2016. szeptember |
+
+| 42. | EFOP-1.9.4-16 | A szociális ágazat módszertani és információs rendszereinek megújítása | 5,80 (ebből VEKOP: 1,74) | kiemelt | 2016. szeptember |
+
+| 43. | EFOP-1.9.5-16 | A koragyermekkori intervenció ágazatközi fejlesztése | 5,70 (ebből VEKOP: 1,71) | kiemelt | 2016. július |
+
+| 44. | EFOP-1.9.6-16 | Elektronikus egészségügyi ágazati fejlesztések | 14,00 | kiemelt | 2016. szeptember |
+
+| 45. | EFOP 1.9.7-16 | Kísérő szolgáltatások nyújtása a rászoruló személyek számára | 1,00 | kiemelt | 2016. szeptember |
+
+| 46. | EFOP-1.10.1-16 | Ápoló tanulók részére pályaválasztást támogató ösztöndíjas program | 4,40 (ebből VEKOP: 1,32) | kiemelt | 2016. július |
+
+| 47. | EFOP-1.11.1-16 | Tematikus együttműködés erősítése a Kárpát-medence EU-tagállamaival | 4,80 | kiemelt | 2016. szeptember |
+
+| 48. | EFOP-1.11.2-16 | Tematikus együttműködés erősítése a Kárpát-medence nem EU-tagállamaival | 1,20 | kiemelt | 2016. szeptember |
+
+## 2. Az infrastrukturális beruházások a társadalmi együttműködés erősítése érdekében című 2. prioritás
+
+|  | A | B | C | D | E |
+
+| 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
+
+| 2. | EFOP-2.1.1-16 | Gyermekotthonok kiváltása, korszerűsítése, hiányzó gyermekotthoni kapacitások létrehozása | 2,94 | standard | Meghirdetve 2016. áprilisban |
+
+| 3. | EFOP-2.1.2-16 | Gyerekesély programok infrastrukturális háttere | 5,50 | standard | 2016. július |
+
+| 4. | EFOP-2.2.1-16 | Gyermek sürgősségi, baleseti ellátás fejlesztése | 10,00 (ebből VEKOP: 1,35) | kiemelt | Meghirdetve 2016. áprilisban |
+
+| 5. | EFOP-2.2.2-16 | Intézményi ellátásról a közösségi alapú szolgáltatásokra való áttérés fejlesztése – intézményi férőhely kiváltás | 35,00 | standard | 2016. szeptember |
+
+| 6. | EFOP-2.2.3-16 | Átmeneti és rehabilitációs intézmények korszerűsítése | 3,80 | standard | 2016. szeptember |
+
+| 7. | EFOP-2.2.4-16 | Területi gyermekvédelmi szakszolgáltatási feladatok infrastrukturális feltételeinek javítása | 1,00 (ebből VEKOP: 0,10) | kiemelt | 2016. szeptember |
+
+| 8. | EFOP-2.2.5-16 | Egységes ápolási eszközpark kialakítása | 8,00 | kiemelt | 2016. szeptember |
+
+| 9. | EFOP-2.2.6-16 | Pszichiátriai ellátórendszer strukturált fejlesztése | 5,00 (ebből VEKOP: 0,81) | kiemelt | 2016. szeptember |
+
+| 10. | EFOP-2.2.7-16 | Gyermek és ifjúságpszichiátria, addiktológiai és mentálhigiénés ellátórendszer infrastrukturális feltételeinek fejlesztése | 6,00 | kiemelt | 2016. szeptember |
+
+| 11. | EFOP-2.2.8-16 | Egészségügyi szakellátók szállóinak fejlesztése | 10,00 | kiemelt | 2016. szeptember |
+
+| 12. | EFOP-2.2.9-16 | Klinikai skill laborok fejlesztése | 8,00 | kiemelt | 2016. szeptember |
+
+| 13. | EFOP-2.2.10-16 | Diagnosztikai és orvosi laboratóriumi hálózat infrastrukturális feltételeinek javítása | 9,81 | kiemelt | 2016. szeptember |
+
+| 14. | EFOP-2.2.11-16 | Hiányzó egészségügyi és szociális humán szolgáltatások fejlesztése megyei szinten, illetve a kiemelt fejlesztési térségekben | 14,00 | standard | 2016. december |
+
+| 15. | EFOP-2.2.12-16 | Pszichiátriai és addiktológiai gondozóhálózat fejlesztése | 4,00 | kiemelt | 2016. december |
+
+| 16. | EFOP-2.2.13-16 | Aktív fekvőbeteg-ellátási forma kiváltása az egynapos sebészeti ellátás rendszerének fejlesztésével | 8,00 | kiemelt | 2016. december |
+
+| 17. | EFOP-2.4.1-16 | Szegregált élethelyzetek felszámolása komplex programokkal (ERFA) | 22,85 | standard | 2016. augusztus |
+
+## 3. A gyarapodó tudástőkéről szóló 3. prioritás
+
+|  | A | B | C | D | E |
+
+| 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
+
+| 2. | EFOP-3.1.1-14 | Kisgyermekkori nevelés támogatása | 3,00 | kiemelt | Meghirdetve 2014. októberben |
+
+| 3. | EFOP-3.1.2-16 | A pedagógusok módszertani felkészítése a végzettség nélküli iskolaelhagyás megelőzése érdekében | 6,90 | kiemelt | 2016. szeptember |
+
+| 4. | EFOP 3.1.3-16 | Társadalmi felzárkózási és integrációs köznevelési intézkedések támogatása | 4,20 | kiemelt | Meghirdetve 2016. májusban |
+
+| 5. | EFOP-3.1.4-15 | Ösztöndíj és mentorálási támogatás hátrányos helyzetű tanulóknak – útravaló ösztöndíjprogram | 6,00 (ebből VEKOP: 1,80) | kiemelt | Meghirdetve 2015. októberben |
+
+| 6. | EFOP-3.1.5-16 | A lemorzsolódással veszélyeztetett intézmények támogatása | 10,00 | kiemelt | 2016. szeptember |
+
+| 7. | EFOP-3.1.6-16 | A köznevelés esélyteremtő szerepének erősítése | 6,55 | standard | 2016. szeptember |
+
+| 8. | EFOP-3.1.7-16 | Esélyteremtés a köznevelésben | 3,00 | kiemelt | 2016. július |
+
+| 9. | EFOP-3.2.1-15 | Tehetségek Magyarországa | 6,50 | kiemelt | Meghirdetve 2015. decemberben |
+
+| 10. | EFOP-3.2.2-16 | A köznevelés tartalmi szabályozóinak és pedagógiai módszertani eszköztárának fejlesztése | 6,00 (ebből VEKOP: 1,80) | kiemelt | Meghirdetve 2016. januárban |
+
+| 11. | EFOP-3.2.3-16 | Digitális környezet a köznevelésben | 8,46 | kiemelt | 2016. szeptember |
+
+| 12. | EFOP-3.2.4-16 | Digitális kompetencia fejlesztése | 34,94 | kiemelt | 2016. december |
+
+| 13. | EFOP-3.2.5-16 | Pályaorientáció, kiemelten az MTMI készségek és kompetenciák fejlesztése a köznevelés rendszerében | 10,00 | kiemelt | 2016. szeptember |
+
+| 14. | EFOP-3.2.6-16 | A tanulók képességkibontakoztatásának elősegítése a köznevelési intézményekben | 2,00 | kiemelt | 2016. december |
+
+| 15. | EFOP-3.2.7-16 | A sportkataszter és sztenderdizáció az egészséges életvitelt szolgáló sportszolgáltatásokhoz való hozzáférés érdekében | 0,70 | kiemelt | 2016. december |
+
+| 16. | EFOP-3.2.8-16 | T.E.S.I 2.0 – A testnevelés és sport tehetséggondozás minőségi fejlesztése | 3,40 | kiemelt | 2016. július |
+
+| 17. | EFOP-3.2.9-16 | Óvodai és iskolai szociális segítő tevékenység fejlesztése | 1,70 | standard | 2016. július |
+
+| 18. | EFOP-3.3.1-15 | Tanoda programok támogatása | 5,00 | standard | Meghirdetve 2015. szeptemberben |
+
+| 19. | EFOP-3.3.2-16 | Kulturális intézmények a köznevelés eredményességéért | 5,00 | standard | 2016. július |
+
+| 20. | EFOP-3.3.3-16 | Országos múzeumi és könyvtári központi fejlesztés | 2,00 (ebből VEKOP: 0,60) | kiemelt | 2016. július |
+
+| 21. | EFOP-3.3.4-16 | Társadalmi kohézió erősítése az anyanyelvi nevelésben és a kultúrában alkalmazott mindennapi kompetencia fejlesztési eszközökkel | 1,19 | kiemelt | 2016. december |
+
+| 22. | EFOP-3.4.1-16 | Roma szakkollégiumok támogatása | 1,20 | standard | Meghirdetve 2015. októberben |
+
+| 23. | EFOP-3.4.2-15 | Campus Mundi – felsőoktatási mobilitási és nemzetköziesítési program támogatása | 9,20 (ebből VEKOP: 2,30) | kiemelt | Meghirdetve 2015. szeptemberben |
+
+| 24. | EFOP-3.4.3-16 | Felsőoktatási intézményi fejlesztések a felsőfokú oktatás minőségének és hozzáférhetőségének együttes javítása érdekében | 24,00 | standard | 2016. augusztus |
+
+| 25. | EFOP-3.4.4-16 | Pályaorientáció, valamint a matematikai, természettudományos, informatikai, műszaki szakok népszerűsítése a felsőoktatásban | 8,00 | standard | 2016. augusztus |
+
+| 26. | EFOP-3.4.5-16 | Rendszerszintű fejlesztések és hozzáférés bővítését szolgáló ágazati programok a felsőoktatásban | 5,92 (ebből VEKOP: 1,48) | kiemelt | 2016. szeptember |
+
+| 27. | EFOP-3.5.1-16 | Duális és kooperatív felsőoktatási képzések, felsőoktatási szakképzési és szakirányú továbbképzések fejlesztése | 3,70 | standard | 2016. szeptember |
+
+| 28. | EFOP-3.6.1-16 | Intelligens szakosodást szolgáló intézményi fejlesztések | 20,00 | standard | Meghirdetve 2016. májusban |
+
+| 29. | EFOP-3.6.2-16 | Tematikus kutatási hálózati együttműködések | 15,94 | standard | 2016. szeptember |
+
+| 30. | EFOP-3.6.3-16 | Felsőoktatási hallgatók tudományos műhelyeinek és programjainak támogatása | 10,88 (ebből VEKOP: 2,72) | standard | 2016. szeptember |
+
+| 31. | EFOP-3.7.1-16 | Aktívan a tudásért | 6,30 | standard | 2016. szeptember |
+
+| 32. | EFOP-3.7.2-16 | Az egész életen át tartó tanulást megalapozó fejlesztések | 2,50 (ebből VEKOP: 0,75) | kiemelt | 2016. szeptember |
+
+| 33. | EFOP-3.8.1-14 | Felzárkóztató egészségügyi ápoló szakképzési program | 1,90 | kiemelt | Meghirdetve 2014. októberben |
+
+| 34. | EFOP-3.8.2-16 | Szociális humán erőforrás fejlesztése | 12,00 | kiemelt | Meghirdetve 2016. áprilisban |
+
+| 35. | EFOP-3.9.1-16 | Humán kapacitások fejlesztése térségi szemléletben | 80,00 | standard | 2016. augusztus |
+
+| 36. | EFOP-3.9.2-16 | Humán kapacitások fejlesztése térségi szemléletben – kiemelt térségek | 20,00 | standard | 2016. augusztus |
+
+| 37. | EFOP-3.10.1-16 | Tematikus együttműködés erősítése a köznevelés és a felsőoktatás terén a Kárpát-medence EU- tagállamaival | 5,30 | kiemelt | 2016. szeptember |
+
+| 38. | EFOP-3.10.2-16 | Tematikus együttműködés erősítése a köznevelés és a felsőoktatás terén a Kárpát-medence nem EU-tagállamaival | 1,70 | kiemelt | 2016. szeptember |
+
+## 4. Az infrastrukturális beruházások a gyarapodó tudástőke érdekében című 4. prioritás
+
+|  | A | B | C | D | E |
+
+| 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
+
+| 2. | EFOP-4.1.1-15 | Egyes egyházi infrastrukturális fejlesztések | 14,42 | standard | Meghirdetve 2015. decemberben |
+
+| 3. | EFOP-4.1.2-16 | Az iskolarendszer térségi fejlesztése | 80,00 | kiemelt | 2016. szeptember |
+
+| 4. | EFOP-4.1.3-16 | Köznevelési intézmények infrastrukturális fejlesztése | 16,24 | standard | 2016. szeptember |
+
+| 5. | EFOP-4.1.4-16 | A köznevelés támogató szerepének erősítése | 5,00 | standard | 2016. szeptember |
+
+| 6. | EFOP-4.1.5-16 | Kulturális intézmények tanulást segítő infrastrukturális fejlesztései | 5,00 | standard | 2016. szeptember |
+
+| 7. | EFOP 4.2.1-16 | Felsőoktatási infrastruktúra fejlesztése | 29,00 | standard | 2016. augusztus |
+
+## ”
+
+2. melléklet az 1341/2016. (VII. 5.) Korm. határozathoz
+
+„2. melléklet az 1037/2016. (II. 9.) Korm. határozathoz
+
+Az EFOP nevesített kiemelt projektjei
+
+|  | A | B | C | D | E | F | G |
+
+| 1. | Felhívás azonosító jele | Projekt megnevezése | Támogatást igénylő neve | Projekt indikatív támogatási kerete (Mrd Ft) | Magyarország központi költségvetéséből megtéríthető indikatív önerő (Mrd Ft) | Projekt benyújtásának várható ideje | Szakmai elvárások |
+
+| 2. | EFOP-1.1.1-15 | Megváltozott munkaképességű emberek támogatása | Nemzeti Rehabilitációs és Szociális Hivatal (konzorciumvezető) Szociális és Gyermekvédelmi Főigazgatóság | 10,00 | – | Megtörtént 2015-ben | A projekt célja a megváltozott munkaképességű személyek nyílt munkaerő-piaci integrációjának elősegítése foglalkozási rehabilitációs szolgáltatások nyújtásával, a foglalkoztatásuk ösztönzése, képzettségi szintjük növelése, valamint a megváltozott munkaképességű személyeket foglalkoztatni képes munkaadók szemléletének formálása. |
+
+| 3. | EFOP-1.1.2-16 | Nő az esély – képzés és foglalkoztatás | Türr István Képző és Kutató Intézet (konzorciumvezető) Szociális és Gyermekvédelmi Főigazgatóság | 4,05 | – | 2016 | A projekt célja a célcsoport – elsősorban a roma nők – tagjainak képzése és felkészítése a közszolgáltatást végző intézményekben (pl. szociális, gyermekjóléti és gyermekvédelmi, köznevelési, egészségügyi, közművelődési) való foglalkoztatásra, továbbá a munkaerő-piaci elhelyezkedés elősegítése a foglalkoztatás támogatásával. |
+
+| 4. | EFOP-1.2.3-15 | Komplex ifjúsági fejlesztések – új nemzedék újratöltve | Új Nemzedék Központ Nonprofit Közhasznú Korlátolt Felelősségű Társaság | 5,00 (ebből VEKOP: 1,50) | – | Megtörtént 2015-ben | A projekt célja az ifjúsági szakterület országos és területi tevékenységének szakmai összehangolása. A projekt keretében az ifjúsági szolgáltatások elérhetővé válnak a hátrányos helyzetű célcsoportok számára, emellett hatékony ifjúságtámogatási-rendszer kialakítására is sor kerül. További cél a fiatalok elhelyezkedési esélyeinek növelése, valamint a közösségben való szerepvállalás támogatásával, egymás megismerésével az előítélet mentes köz- és egyéni gondolkodás, szemlélet kialakítása. |
+
+| 5. | EFOP-1.2.4-16 | Kríziskezelő szolgáltatások fejlesztése | Család-, Ifjúság- és Népesedéspolitikai Intézet | 1,16 (ebből VEKOP: 0,35) | – | 2016 | A projekt célja a lelki segély, krízisintervenciós és mentálhigiénés segítség nyújtásának biztosítása, a bántalmazottak akut krízishelyzetből történő kilépésének segítése telefonon és online felületen keresztül, a szolgálatok humán és infrastrukturális fejlesztése, működésének hatékonyabbá tétele, továbbá a gyermekvédelmi jelzőrendszer tagjainak képzése. |
+
+| 6. | EFOP-1.2.6-16 | Családbarát ország | Család-, Ifjúság- és Népesedéspolitikai Intézet | 4,50 (ebből VEKOP: 1,35) | – | 2016 | A projekt célja a családhoz, a gyermekvállaláshoz kapcsolódó szemléletformálás, a családi szféra társadalmi jelentőségének és a prevencióban betöltött szerepének tudatosítása, a családi kohézió növelése, valamint a generációkon átívelő együttműködés előmozdítása. |
+
+| 7. | EFOP-1.2.6-16 | Családbarát ország – fejlesztések a fejlesztendő régiókban | Család-, Ifjúság- és Népesedéspolitikai Intézet | 2,50 | – | 2016 | A projekt célja családhoz, a gyermekvállaláshoz kapcsolódó szemléletformálás, a családi szféra társadalmi jelentőségének és a prevencióban betöltött szerepének tudatosítása, a családi kohézió növelése és a generációkon átívelő együttműködés előmozdítása. |
+
+| 8. | EFOP-1.2.8-16 | Nők a családban és a munkahelyen | Család-, Ifjúság- és Népesedéspolitikai Intézet | 3,00 | – | 2016 | A projekt célja a kisgyermekes anyák munkaerőpiacra történő visszalépésének elősegítése a kompetenciafejlesztésen, át- és továbbképzések megvalósításán, valamint a rugalmas munkavégzés lehetőségeinek megismertetésén keresztül. További cél olyan területek felé orientálni a célcsoportot, ahol könnyebben összeegyeztethető a munka és a családi élet, és ahol eleve kismértékű a női részvétel, ugyanakkor nemzetgazdasági szempontból az érintett ágazat fejlesztése szükséges (pl. az IT, a műszaki területek vagy a kiváló nyelvtudást igénylő szektorok). |
+
+| 9. | EFOP-1.3.1-16 | Cselekvő közösségek – aktív közösségi szerepvállalás | Szabadtéri Néprajzi Múzeum (konzorciumvezető) Országos Széchényi Könyvtár, Nemzeti Művelődési Intézet | 3,00 | – | 2016 | A projekt célja a kulturális intézmények felkészítése működésük társadalmiasítására, valamint a közösségfejlesztési folyamatok és önkéntes programok megvalósítására, és ezen keresztül a közösségek, az egyének önálló cselekvési szándékának és képességének erősítése, a közösségi, együttélési konfliktusok oldása. |
+
+| 10. | EFOP-1.3.2-16 | Roma mentorhálózat fejlesztése | Megyei roma, illetve cigány nemzetiségi önkormányzatok konzorciuma | 2,00 | – | 2016 | A projekt célja a roma személyeket érintő fejlesztési programok mentorálással történő szakmai támogatása. |
+
+| 11. | EFOP-1.3.3-16 | Fogvatartottak reintegrációja | Belügyminisztérium (konzorciumvezető) Büntetés-végrehajtás Országos Parancsnoksága | 3,50 | – | 2016 | A projekt célja a fogvatartottak foglalkoztathatósági helyzetének javítása, a helyi közösségek befogadóképességének növelése, valamint a bűnismétlés kockázatának csökkentése. |
+
+| 12. | EFOP-1.3.6-16 | Ifjúsági kisközösségi együttműködések támogatása | Emberi Erőforrás Támogatáskezelő | 2,60 (ebből VEKOP: 0,50) | – | 2016 | A projekt célja az ifjúsági közösségnevelés módszertanán alapuló, munka- és szakmaorientált helyi szervezetek létrehozása és fejlesztése, hálózati működésük megteremtése, alulról jövő kezdeményezéseik és az innovációk támogatása, mindehhez kortárs segítő és támogató háttér kialakítása. További cél a települési, helyi megtartó erőt támogató aktív, kisközösségi nevelésen alapuló ifjúsági közösségek kialakítása és a meglévő közösségek fejlesztése, a fiatalok bevonását elősegítő tevékenységek biztosítása, illetve a kisközösségi ifjúságnevelés pedagógiai módszertani kiterjesztésével a hazai pedagógiai kultúra pozitív változásának elősegítése. A projekt kiterjed a Kárpát-medencei ifjúsági közösségekre. |
+
+| 13. | EFOP-1.4.1-16 | Integrált gyermekprogramok szakmai támogatása | Nemzeti Rehabilitációs és Szociális Hivatal (konzorciumvezető), Türr István Képző és Kutató Intézet, Magyar Tudományos Akadémia Társadalomtudományi Kutatóközpont, Magyar Máltai Szeretetszolgálat, Szociális és Gyermekvédelmi Főigazgatóság | 3,00 | – | 2016 | A projekt célja a gyermekek esélyeit növelő helyi fejlesztések megalapozása, valamint a helyi szakemberek képzésének, továbbképzésének, és folyamatos szakmai támogatásuk biztosítása. További cél a szakmai és közösségi hálózatok építése, az együttműködések és meglévő tudásbázis fejlesztése, valamint kutatások, elemzések, értékelések elvégzése. |
+
+| 14. | EFOP-1.6.1-16 | Felzárkózási együttműködések támogatása | Türr István Képző és Kutató Intézet (konzorciumvezető), Szociális és Gyermekvédelmi Főigazgatóság | 2,20 (ebből VEKOP: 0,22) | – | 2016 | A projekt célja a komplex telepprogramok és a települési leszakadási folyamatok megfordítását segítő beavatkozások szakmai támogatása és társadalmi elfogadottságuk elősegítése. Emellett a projekt hozzájárul a területi együttműködések kialakításához, kiterjesztéséhez és az együttműködő partnerek munkájának összehangolásához, valamint a roma nők aktívabb és tudatosabb közösségi, társadalmi és közéleti szerepvállalásához. |
+
+| 15. | EFOP-1.8.1-16 | Komplex népegészségügyi szűrések | Országos Tisztifőorvosi Hivatal | 6,57 (ebből VEKOP: 1,97) | – | Megtörtént 2016-ban | A projekt célja a szervezett vastag- és végbélszűrés országos kiterjesztése, az emlő- és méhnyakszűrésen történő részvételi arány legalább 60%-ra növelése, valamint a szájüregi szűrés és melanoma szűrés minta jellegű megvalósítása. További cél a teljes szűrési rendszer szakmai, finanszírozási áttekintése és jogi újraszabályozása. |
+
+| 16. | EFOP-1.8.2-16 | Az alapellátás és a népegészségügy rendszerének átfogó fejlesztése (alapellátás és népegészségügy rendszer fejlesztés) | Országos Tisztifőorvosi Hivatal (konzorciumvezető) Nemzeti Egészségfejlesztési Intézet | 18,00 (ebből VEKOP: 5,40) | – | 2016 | A projekt hármas céllal bír: 1. minőségében megújult komplex egészségügyi alapellátási és népegészségügyi rendszer létrehozása: egészségügyi alapellátási és népegészségügyi feladatok összehangolása az egészségügyi ellátás betegségcentrikus és a népegészségügy egészségcentrikus szemléletmódjának ötvözésével, 2. a népegészségügyi szolgáltatásokhoz, ismeretekhez való hozzáférés javítása, illetve a megelőzés és egészségfejlesztés, valamint 3. olyan eszközrendszer- és ellátás-fejlesztési lehetőségek kidolgozása, amelyek lehetővé teszik a mentális problémák megelőzését, azok időbeli kiszűrését, kezelését. |
+
+| 17. | EFOP-1.8.2-16 | Az alapellátás és a népegészségügy rendszerének átfogó fejlesztése (népegészségügy helyi kapacitás fejlesztés) | Országos Tisztifőorvosi Hivatal (konzorciumvezető) Nemzeti Egészségfejlesztési Intézet | 7,00 | – | 2016 | A program célja a kialakított közösségi egészségszervezési funkciók és a helyi egészségfejlesztési funkciók meglévő kapacitásainak kibővítése a le nem fedett földrajzi területeken, továbbá cél az egészségfejlesztés feladatrendszerére a mentális egészségfejlesztés funkcióinak helyi szintű ráépítése. |
+
+| 18. | EFOP-1.8.4-16 | Nemzeti egészségügyi program a gyermekek megszületéséért | Állami Egészségügyi Ellátó Központ (konzorciumvezető) Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központ, Család-, Ifjúság- és Népesedéspolitikai Intézet | 2,50 (ebből VEKOP: 0,75) | – | 2016 | A program célja a meddőség megelőzésével, a reprodukciós zavarokban szenvedő párok kivizsgáláshoz és terápiás eljárásokhoz való hozzáférésének javításával, a sikertelen terhességek okainak speciális vizsgálatával és személyre szabott kezelésével, a várandósok fokozott védelmével, továbbá a lakosság tájékoztatásának szélesebbé tételével évről évre folyamatosan növelni az egészségesen megszületett újszülöttek számát. |
+
+| 19. | EFOP-1.8.5-16 | Prevenciós célú egészségfejlesztés a köznevelésben | Pécsi Tudományegyetem (konzorciumvezető) Debreceni Egyetem, Szegedi Tudományegyetem | 2,00 | – | 2017 | A projekt célja az egészség megőrzése és fejlesztése érdekében innovatív módszerek kidolgozása – kapcsolódva az EIT Health KIC programhoz –, amely a fiatalok egészséges életmódhoz kapcsolódó hozzáállását, felkészültségét javítja különböző területeken (táplálkozás, mozgás, alvás, dohányzás, alkohol, stressz kezelés stb.) |
+
+| 20. | EFOP-1.8.6-16 | A felnőtt lakosság prevenciós célú egészségfejlesztése a szabadidősport révén | Debreceni Egyetem (konzorciumvezető) Pécsi Tudományegyetem, Szegedi Tudományegyetem, Eszterházy Károly Egyetem, Nyugat-magyarországi Egyetem, Nyíregyházi Egyetem | 2,00 | – | 2017 | A projekt célja a felnőttkorú lakosság elérése szabadidős sportprogramokkal és rendszeres testmozgásra ösztönzése az egészség megőrzése érdekében. |
+
+| 21. | EFOP-1.8.8-16 | Betegbiztonság növelését célzó komplex fejlesztések az egészségügyi ellátórendszerben | Állami Egészségügyi Ellátó Központ (konzorciumvezető) Országos Tisztifőorvosi Hivatal | 3,50 | 1,50 | 2017 | A betegbiztonság az egészségügyi ellátás során potenciálisan bekövetkező, elkerülhető egészségkárosodással szembeni védelem. Ehhez kapcsolódóan a kiemelt projekt célja a szervezeti kultúra fejlesztése (és ezen belül a személyzet képzése és felkészítése), valamint a veszélyforrásokra figyelmet szentelő szemlélet megteremtése. Emellett a kiemelt projekt célja a lakosság szemléletének megváltoztatása, azon ajánlott magatartásformák és cselekvések elsajátításának elősegítése, melyek a betegek részéről segítik ezen kockázatok elkerülését vagy kezelését. |
+
+| 22. | EFOP-1.9.1-16 | Szociális intézményi férőhely kiváltási szakmai koordinációs műhely kialakítása | Fogyatékos Személyek Esélyegyenlőségéért Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 2,50 (ebből VEKOP: 0,45) | – | Megtörtént 2016-ban | A projekt célja a szociális intézményi férőhely-kiváltás szakmai támogatása. |
+
+| 23. | EFOP-1.9.2-16 | A fogyatékos személyek számára nyújtott szakmai és közszolgáltatások hozzáférhetőségének kialakítása, fejlesztése | Fogyatékos Személyek Esélyegyenlőségéért Közhasznú Nonprofit Korlátolt Felelősségű Társaság | 3,30 (ebből VEKOP: 0,99) | – | 2016 | A projekt célja a fogyatékos személyek (pl. hallássérült, siket-vak, autizmusban szenvedő) életminőségének javításához és munkaerő-piaci elhelyezkedésének elősegítéséhez szükséges szolgáltatási rendszer minőségének és hozzáférhetőségének javítása, valamint módszertani fejlesztések és képzések megvalósítása. |
+
+| 24. | EFOP-1.9.3-16 | A foglalkoztatási rehabilitáció szakmai folyamatainak fejlesztése | Nemzeti Rehabilitációs és Szociális Hivatal (konzorciumvezető) Szociális és Gyermekvédelmi Főigazgatóság | 4,20 (ebből VEKOP: 1,26) | – | 2017 | A projekt célja a folyamatok egyszerűsítése, a hatósági eljárások időtartamának csökkentése. A központi hatósági nyilvántartás révén a rehabilitációs hatóságon túl, más – egészségkárosodáson alapuló – ellátást, illetve foglalkoztatást ösztönző kedvezményeket megállapító szervek is hozzáférnek a minősítés eredményeihez eljárásaik megalapozása érdekében. A projekt célja továbbá a folyamatszabályozás, az érintett szervezetek tevékenységei szinergiáinak megteremtése tudásmegosztáson, szervezet-fejlesztésen és a meglevő kapacitások és erőforrások szélesebb körű felhasználásán keresztül. |
+
+| 25. | EFOP-1.9.4-16 | A szociális ágazat módszertani és információs rendszereinek megújítása | Nemzeti Rehabilitációs és Szociális Hivatal (konzorciumvezető) Szociális és Gyermekvédelmi Főigazgatóság | 5,80 (ebből VEKOP: 1,74) | – | 2016 | A projekt célja szolgáltatók számára közvetlenül elérhető, elsősorban gyakorlati ismeretátadásra alkalmas szakmatámogatás fejlesztése, a mindennapi szakmai munkát támogató tevékenység fejlesztése, az interakció, a területtel való folyamatos párbeszéd erősítése, valamint a magyarországi longitudinális (követéses) születési kohorszvizsgálat lefolytatása, valamint az óvodai és iskolai szociális segítő tevékenység módszertani támogatása. |
+
+| 26. | EFOP-1.9.5-16 | A koragyermekkori intervenció ágazatközi fejlesztése | Család-, Ifjúság- és Népesedéspolitikai Intézet (konzorciumvezető) Országos Tisztifőorvosi Hivatal, Klebelsberg Intézményfenntartó Központ, Nemzeti Rehabilitációs és Szociális Hivatal, Szociális és Gyermekvédelmi Főigazgatóság | 5,70 (ebből VEKOP: 1,71) | – | 2016 | A projekt célja a korai intervencióban érintett szakmaterületek közötti kapcsolódási pontok kialakítása, illetve a különböző ágazati irányítás alá tartozó intézményes szereplőket összekötő közös irányelvek, protokollok alkalmazása és egy egységes mérési, értékelési rendszer bevezetése. Emellett cél a szakemberek kompetenciáinak növelése, egységes szemléletük formálása és a gyermekekkel foglalkozó szolgáltatásokhoz való hozzáférés javítása. |
+
+| 27. | EFOP-1.9.6-16 | Elektronikus egészségügyi ágazati fejlesztések | Állami Egészségügyi Ellátó Központ (konzorciumvezető) Országos Tisztifőorvosi Hivatal, Országos Egészségbiztosítási Pénztár, Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet, NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság | 14,00 | 6,00 | 2016 | A projekt célja – a Nemzeti Infokommunikációs Stratégia céljainak megfelelő komplex fejlesztési program végrehajtása által – az egészségügyi ágazat hatékonyságának és lakosság részére nyújtott szolgáltatásainak minőségfejlesztése. |
+
+| 28. | EFOP-1.9.7-16 | Kísérő szolgáltatások nyújtása a rászoruló személyek számára | Nemzeti Rehabilitációs és Szociális Hivatal (konzorciumvezető) Szociális és Gyermekvédelmi Főigazgatóság | 1,00 | – | 2016 | A projekt célja a Rászoruló Személyeket Támogató Operatív Program keretében elért célcsoporttagok számára kiegészítő személyes szolgáltatások nyújtása. |
+
+| 29. | EFOP-1.10.1-16 | Ápoló tanulók részére pályaválasztást támogató ösztöndíjas program | Egészségügyi Nyilvántartási és Képzési Központ | 4,40 (ebből VEKOP: 1,32) | – | 2016 | A projekt célja az egészségügyi pályát, a szakdolgozói munkakört választó fiatalok számának növelése, valamint az egészségügyi szolgáltatók működését veszélyeztető, nagymértékű humánerőforrás hiány középtávú csökkentése. |
+
+| 30. | EFOP-1.11.1-16 | Tematikus együttműködés erősítése a Kárpát-medence EU-tagállamaival | Állami Egészségügyi Ellátó Központ (konzorciumvezető) Országos Tisztifőorvosi Hivatal, Szociális és Gyermekvédelmi Főigazgatóság, Nemzetstratégiai Kutatóintézet | 4,80 | – | 2016 | A projekt célja a lakosság egészség-tudatosságának növelése, valamint az egyéni és közösségi felelősségvállalás erősítése, a lelki és testi egészség megőrzése érdekében programok megvalósítása, szakemberek továbbképzése, valamint szervezetfejlesztés, illetve társadalmi felzárkózási és ifjúsági programok megvalósítása. |
+
+| 31. | EFOP-1.11.2-16 | Tematikus együttműködés erősítése a Kárpát-medence nem EU-tagállamaival | Állami Egészségügyi Ellátó Központ (konzorciumvezető) Országos Tisztifőorvosi Hivatal, Szociális és Gyermekvédelmi Főigazgatóság, Nemzetstratégiai Kutatóintézet | 1,20 | – | 2016 | A projekt célja a lakosság egészség-tudatosságának növelése, valamint az egyéni és közösségi felelősségvállalás erősítése, a lelki és testi egészség megőrzése érdekében programok megvalósítása, szakemberek továbbképzése, valamint szervezetfejlesztés, illetve társadalmi felzárkózási és ifjúsági programok megvalósítása. |
+
+| 32. | EFOP-2.2.1-16 | Gyermek sürgősségi, baleseti ellátás fejlesztése – országos | Állami Egészségügyi Ellátó Központ (konzorciumvezető) Heim Pál Gyermekkórház | 4,50 (ebből VEKOP: 1,35) | – | 2016 | A projekt célja országos, legmagasabb progresszivitási szintű gyermekbaleseti és gyermeksürgősségi ellátó központ (III.a. szint), és vidéki ellátást biztosító országos háromszintű (I. szint, II. szint és III. szint) gyermekbaleseti és gyermeksürgősségi ellátóhálózat létrehozása, továbbá gyermektraumatológia kialakítása. |
+
+| 33. | EFOP-2.2.1-16 | Gyermek sürgősségi, baleseti ellátás fejlesztése | Állami Egészségügyi Ellátó Központ (konzorciumvezető) Debreceni Egyetem, Pécsi Tudományegyetem, Szegedi Tudományegyetem, Petz Aladár Megyei Oktató Kórház, Győr, Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház | 5,50 | – | 2016 | A projekt célja országos, legmagasabb progresszivitási szintű gyermekbaleseti és gyermeksürgősségi ellátó központ (III.a. szint), és vidéki ellátást biztosító országos háromszintű (I. szint, II. szint és III. szint) gyermekbaleseti és gyermeksürgősségi ellátóhálózat létrehozása, továbbá gyermektraumatológia kialakítása. |
+
+| 34. | EFOP 2.2.4-16 | Területi gyermekvédelmi szakszolgáltatási feladatok infrastrukturális feltételeinek javítása | Szociális és Gyermekvédelmi Főigazgatóság | 1,00 (ebből VEKOP: 0,10) | – | 2016 | A beavatkozás célja a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény alapján kötelezően működő területi gyermekvédelmi szakszolgálatok épületeinek, tárgyi feltételeinek korszerűsítése a szakmai feladatellátás hatékonyabbá tétele érdekében. |
+
+| 35. | EFOP-2.2.5-16 | Egységes ápolási eszközpark kialakítása | Állami Egészségügyi Ellátó Központ (konzorciumvezető) Debreceni Egyetem, Pécsi Tudományegyetem, Szegedi Tudományegyetem | 8,00 | – | 2016 | A projekt célja az országban működő aktív, krónikus, rehabilitációs és ápolási osztályokon az azonos esélyegyenlőséget biztosító ápolás biztosítása a megfelelő ápolási eszközellátottság javításával. Ezáltal elősegíthető az ápolással kapcsolatos ellátási eredményesség és a betegbiztonság növelése, valamint az ápolással összefüggő munkabiztonsági kockázatok csökkentése. |
+
+| 36. | EFOP-2.2.6-16 | Pszichiátriai ellátórendszer strukturált fejlesztése (biztonsági pszichiátriai részleg kialakítása) | Állami Egészségügyi Ellátó Központ | 2,70 (ebből VEKOP 0,81) | – | 2016 | A projekt általános célja a pszichiátriai és addiktológiai betegek részére olyan infrastrukturális körülmények biztosítása, amely megfelelő kereteket és szakmai feltételeket biztosít az ellátó szakmai munkához és az adekvát kezelésekhez. A projekt további célja a biztonsági pszichiátriai egység kialakítása: a violens magatartású betegek kezelése érdekében a szigorú biztonsági standardoknak megfelelően felszerelt pszichiátriai osztályok létrehozása. |
+
+| 37. | EFOP-2.2.6-16 | Pszichiátriai ellátórendszer strukturált fejlesztése (pszichiátria és addiktológiai szakellátások minőségének és hozzáférésének javítása) | Állami Egészségügyi Ellátó Központ | 2,30 | – | 2016 | A projekt általános célja a pszichiátriai és addiktológiai betegek részére olyan infrastrukturális körülmények biztosítása, amely megfelelő kereteket és szakmai feltételeket biztosít az ellátó szakmai munkához és az adekvát kezelésekhez. A projekt célja a pszichiátria és addiktológiai szakellátások minőségének, hozzáférésének és hatékonyságának javítása. |
+
+| 38. | EFOP-2.2.7-16 | Gyermek és ifjúságpszichiátria, addiktológiai és mentálhigiénés ellátórendszer infrastrukturális feltételeinek fejlesztése | Állami Egészségügyi Ellátó Központ (konzorciumvezető) Debreceni Egyetem, Pécsi Tudományegyetem, Szegedi Tudományegyetem | 6,00 | – | 2016 | A projekt célja a működéshez szükséges struktúra és minimum feltételek biztosítása mellett olyan regionális koordinációs központok kialakítása, amelyek hatékony kommunikációt biztosítanak a jellemzően multiszektoriális ellátás színterei (elsődleges, másodlagos és harmadlagos prevenció) között. A koordinációs központok révén biztosítható az átlátható beteg beutalási rend és betegutak, valamint a progresszív ellátás elvének gyakorlati megvalósulása. |
+
+| 39. | EFOP-2.2.8-16 | Egészségügyi szakellátók szállóinak fejlesztése | Állami Egészségügyi Ellátó Központ | 10,00 | – | 2016 | A projekt célja az egészségügyi szakdolgozók, szakképzésben részt vevő orvosok, szakorvosok alapvető szükségleteinek kielégítése, fiziológiai igényeik és biztonságérzetük megteremtése, lakhatási körülményeik javítása, elhelyezési lehetőségeik bővítése, amely vonzóbbá teszi a felkínált munkahelyeket, kulturált életkörülményeket és jövőképet teremt a munkavállalók számára, az egészségügyi intézmények vezetői számára pedig újabb eszközt biztosít az új dolgozók felvételére, hiányzó állások betöltésére, jól teljesítő dolgozók megtartására, illetve hiányszakmák betöltésére. |
+
+| 40. | EFOP-2.2.9-16 | Klinikai skill laborok fejlesztése | Állami Egészségügyi Ellátó Központ (konzorciumvezető) Egészségügyi Nyilvántartási és Képzési Központ, Debreceni Egyetem, Pécsi Tudományegyetem, Szegedi Tudományegyetem | 8,00 | – | 2016 | A projekt célja olyan demonstrációs egységek kialakítása és felszerelése egészségügyi szolgáltató intézményeknél, amelyek lehetőséget biztosítanak a szakképzésben és a továbbképzésben részt vevő egészségügyi szakdolgozók, valamint az orvosképzésben és az orvos továbbképzésben részesülők számára az ápolás-gondozás és egyéb, invazív és noninvazív beavatkozások gyakorlására. |
+
+| 41. | EFOP-2.2.10-16 | Diagnosztikai és orvosi laboratóriumi hálózat infrastrukturális feltételeinek javítása | Állami Egészségügyi Ellátó Központ | 9,81 | – | 2016 | A projekt célja egyrészt a patológiai diagnosztikai tevékenység feltételeinek és a hazai patológiai osztályok (beleértve a megyei és országos centrumokat is) infrastrukturális felszereltségének, műszerezettségének javítása, másrészt a heterogén orvosi laboratóriumi rendszer egységesítési feltételeinek megteremtése és a meglévő humánerőforrás optimális kihasználása. |
+
+| 42. | EFOP-2.2.12-16 | Pszichiátriai és addiktológiai gondozóhálózat fejlesztése | Állami Egészségügyi Ellátó Központ (konzorciumvezető) Debreceni Egyetem, Pécsi Tudományegyetem, Szegedi Tudományegyetem | 4,00 | – | 2017 | A projekt célja a pszichiátria és addiktológiai szakellátások minőségének, valamint az azokhoz való hozzáférés javítása és ezáltal a lakosság mentális egészségi állapotának fejlesztése, összhangban az Egészséges Magyarország 2014–2020 egészségügyi ágazati stratégia célkitűzéseivel. Speciális célok továbbá: pszichiátriai és addiktológiai betegek lakossághoz közeli egészségügyi ellátásához való hozzáférésének javítása, a pszichiátriai és addiktológiai fekvőbeteg szakellátás lehetséges lerövidítése, kiváltása, a gondozóintézeti gondozás ellátási minőségének és hatékonyságának javítása, valamint a humán kompetenciák fejlesztése. |
+
+| 43. | EFOP-2.2.13-16 | Aktív fekvőbeteg-ellátási forma kiváltása az egynapos sebészeti ellátás rendszerének fejlesztésével | Állami Egészségügyi Ellátó Központ | 8,00 | – | 2017 | A projekt célja a 12 órán belül távozó betegek arányának növelése, ennek érdekében komplex – legalább 4 szakmás - egynapos szervezeti egységek kialakítása, az ezen ellátások arányának növeléséhez szükséges infrastrukturális és humánerőforrás szükségletek megteremtése, valamint a nem orvosi okok miatt jelenleg egynapos ellátásban nem részesülő betegek minél nagyobb arányának bevonása. |
+
+| 44. | EFOP-3.1.1-14 | Kisgyermekkori nevelés támogatása | Oktatási Hivatal (konzorciumvezető) Család-, Ifjúság- és Népesedéspolitikai Intézet, Szegedi Tudományegyetem | 3,00 | – | Megtörtént 2015-ben | A projekt célja az óvoda és a családi napközi esélyteremtő szerepének és hátránykompenzációs képességének erősítése képzésekkel és támogató szolgáltatásokkal, kiemelt figyelemmel a 3 éves kortól kötelező óvodai nevelés szakmai támogatására, és az Óvodai nevelés országos alapprogramban rögzített hátránycsökkentő szerep eredményes megvalósítására hátránycsökkentő óvodai fejlesztő programok kidolgozásával és (tovább)fejlesztésével, családközpontú jó gyakorlatok összegyűjtésével és elterjesztésével, valamint a szakemberek fejlesztésével. |
+
+| 45. | EFOP-3.1.2-16 | A pedagógusok módszertani fejlesztése a végzettség nélküli iskolaelhagyás megelőzése érdekében | Oktatási Hivatal (konzorciumvezető) Eszterházy Károly Egyetem Pécsi Tudományegyetem, Eötvös Loránd Tudományegyetem, Nyugat-magyarországi Egyetem, Szegedi Tudományegyetem, Debreceni Egyetem, Nyíregyházi Egyetem, Miskolci Egyetem | 6,90 | 2,96 | 2016 | A kiemelt projekt célja a pedagógusok képzése és felkészítése a végzettség nélküli iskolaelhagyás hatékony kezelése és megelőzése érdekében alkalmazható módszertani ismeretek elsajátítása vonatkozásában. |
+
+| 46. | EFOP-3.1.3-16 | Társadalmi felzárkózási és integrációs köznevelési intézkedések támogatása | Türr István Képző és Kutató Intézet (konzorciumvezető) Oktatási Hivatal | 4,20 | – | 2016 | A projekt célja az esélyegyenlőség érvényesülésének elősegítése az óvodai nevelésben. Ennek keretében a projekt hozzájárul ahhoz, hogy a köznevelési intézményrendszer alkalmassá váljon a hátrányos helyzetű gyermekek eredményes nevelésére, támogassa a gyermekek óvodai beilleszkedését és későbbi iskolai sikerességét, valamint a pedagógiai módszerekben való megújulás által képes legyen a hátrányos helyzetű gyermekek eredményes integrált nevelésére. |
+
+| 47. | EFOP-3.1.4-15 | Ösztöndíj és mentorálási támogatás hátrányos helyzetű tanulóknak – Útravaló ösztöndíjprogram | Türr István Képző és Kutató Intézet (konzorciumvezető) Klebelsberg Intézményfenntartó Központ, Emberi Erőforrás Támogatáskezelő | 6,00 (ebből VEKOP: 1,80) | – | Megtörtént 2015-ben | A program célja, hogy legalább 9000 fő hátrányos helyzetű, elsősorban roma tanuló vegyen részt az Útravaló ösztöndíjprogramban és részesüljön a program szerinti mentorálásban. Biztosítani kell a program egészének monitoringját, továbbá a bevont mentorok szakmai támogatását. |
+
+| 48. | EFOP-3.1.5-16 | A lemorzsolódással veszélyeztetett intézmények támogatása | Oktatási Hivatal | 10,00 | – | 2016 | A kiemelt projekt célja a végzettség nélküli iskolaelhagyás megelőzése és csökkentése, a köznevelés hátránykompenzációs és esélyteremtő képességének növelése. A kiemelt projekt hozzájárul a minőségi oktatáshoz való hozzáférés javításához, az oktatási egyenlőtlenségek csökkentéséhez. |
+
+| 49. | EFOP-3.1.7-16 | Esélyteremtés a köznevelésben | Türr István Képző és Kutató Intézet (konzorciumvezető) Nyugat-magyarországi Egyetem Regionális Pedagógiai Szolgáltató és Kutató Központ | 3,00 | 1,29 | 2016 | A projekt célja a köznevelési intézményekben az esélyteremtő nevelést lehetővé tevő módszertani kultúra fejlesztése. A projekt keretében komplex, helyi viszonyokra reagáló, gyakorlatközpontú intézmény- és szolgáltatásfejlesztés, valamint szolgáltatási tartalomfejlesztés valósul meg a már meglévő ismeretek, tapasztalatok, módszertani háttér, képzések és emberi erőforrás alkalmazásával a befogadó oktatás-, nevelés megteremtése érdekében. |
+
+| 50. | EFOP-3.2.1-15 | Tehetségek Magyarországa | Új Nemzedék Központ Nonprofit Közhasznú Korlátolt Felelősségű Társaság (konzorciumvezető) Magyar Tehetségsegítő Szervezetek Szövetsége | 6,50 | – | Megtörtént 2016-ban | A projekt célja hatékony tehetségtámogató szolgáltatások bevezetése, képzésszinteken átívelő tehetségkövetés lehetőségének megteremtése, a matematikai, természettudományi, műszaki és humán tehetségterületek fejlesztési lehetőségeinek bővítése, népszerűsítése, valamint mérések és fejlesztő szolgáltatások biztosítása. |
+
+| 51. | EFOP-3.2.2-16 | A köznevelés tartalmi szabályozóinak és pedagógiai módszertani eszköztárának fejlesztése | Oktatáskutató és Fejlesztő Intézet (konzorciumvezető) Oktatási Hivatal, Szegedi Tudományegyetem, Eszterházy Károly Egyetem, Magyar Tudományos Akadémia, Eötvös Loránd Tudományegyetem | 6,00 (ebből VEKOP: 1,80) | – | 2016 | A kiemelt projekt célja a köznevelés tartalmi szabályozóinak megfelelő tankönyvek, taneszközök fejlesztésének folytatása és a hiányos ellátottságú műveltségterületek, tantárgyak, évfolyamok esetében tankönyvek fejlesztése, valamint digitális tartalomfejlesztés megvalósítása, és a Nemzeti Köznevelési Portál fejlesztése. Emellett a kiemelt projekt szolgálja a vizsgarendszer feladatállományának karbantartását, a mérés-értékelést, valamint a keletkezett mérési eredmények folyamatos értékelését, elemzését. A projekt célja továbbá a mérési eredmények visszacsatolásával és a tanítási gyakorlatba beépítésével a lemorzsolódás és a végzettség nélküli iskolaelhagyás csökkentése. |
+
+| 52. | EFOP-3.2.3-16 | Digitális környezet a köznevelésben | Klebelsberg Intézményfenntartó Központ (konzorciumvezető) Nemzeti Információs Infrastruktúra Fejlesztési Intézet | 8,46 | 3,64 | 2016 | A kiemelt projekt célja a korszerű informatikai infrastruktúra biztosítása a köznevelési intézmények számára a pedagógiai célok elérése érdekében, és ennek keretében a köznevelési intézményi hálózati rendszerek fejlesztése (kapacitásbővítést biztosító infrastruktúra és wifi hálózatok kiépítése az intézményekben). |
+
+| 53. | EFOP-3.2.4-16 | Digitális kompetencia fejlesztése | Klebelsberg Intézményfenntartó Központ (konzorciumvezető) Nemzeti Információs Infrastruktúra Fejlesztési Intézet | 34,94 | – | 2017 | A projekt célja a köznevelési intézmények – részletes helyzetfelmérésen alapuló – informatikai fejlesztése, eszközellátottságának javítása. Emellett a projekt célja a digitális kompetenciák fejlesztése, különösen a matematikai, természettudományos, informatikai és műszaki pályákra való felkészüléshez szükséges keretek biztosítása érdekében. |
+
+| 54. | EFOP-3.2.5-16 | Pályaorientáció, kiemelten az MTMI készségek és kompetenciák fejlesztése a köznevelés rendszerében | Klebelsberg Intézményfenntartó Központ (konzorciumvezető), Oktatási Hivatal, Magyar Tudományos Akadémia | 10,00 | – | 2016 | A projekt célja a pályaorientáció megerősítése a köznevelési intézményrendszerben különösen a matematikai, természettudományos, informatikai és műszaki pályák választásának népszerűsítése és ahhoz kapcsolód kompetenciák fejlesztése révén. Cél továbbá az algoritmikus gondolkodás fejlesztésének támogatása. A projekt széleskörű szakmai és társadalmi összefogás kialakításával valósul meg, az érintett tantárgyakhoz fűződő tanulási viszony javítása révén, amely a köznevelés valamennyi szereplőjének (tanuló, pedagógus, szülő és intézmény) bevonását teszi lehetővé. A projekt lehetőséget biztosít – a pályaorientációs és készségfejlesztő programok megvalósítása érdekében – a szünidei és nyári táborokban keretében szervezett programokon való részvételre. |
+
+| 55. | EFOP-3.2.6-16 | A tanulók képességkibon- takoztatásának elősegítése a köznevelési intézményekben | Magyar Képzőművészeti Egyetem (konzorciumvezető) Moholy-Nagy Művészeti Egyetem, Magyar Táncművészeti Főiskola, Liszt Ferenc Zeneművészeti Egyetem, Színház- és Filmművészeti Egyetem | 2,00 | – | 2017 | A kiemelt projekt célja a köznevelési intézmények (kivéve a Nemzetgazdasági Minisztérium illetékességébe tartozó szakképzési centrumok fenntartásában lévő intézmények) művészetpedagógiai módszertani megújítása és művészeti eszköztárának bővítése a méltányos és minőségi oktatáshoz való egyenlő hozzáférés biztosítása, valamint a köznevelés eredményességének, hatékonyságának erősítése érdekében. |
+
+| 56. | EFOP-3.2.7-16 | A sportkataszter és sztenderdizáció az egészséges életvitelt szolgáló sportszolgálta- tásokhoz való hozzáférés érdekében | Országos Tisztifőorvosi Hivatal | 0,70 | 0,30 | 2017 | A projekt célja olyan adatbázis kialakítása, amely lehetővé teszi a mindennapos testneveléshez és a köznevelésen túlmutató testmozgáshoz, valamint a felnőttek szabadidős testmozgásához rendelkezésre álló humán és infrastrukturális kapacitások optimális felhasználását, ezzel elérhetővé téve a minőségi szolgáltatások való hozzáférést. |
+
+| 57. | EFOP-3.2.8-16 | T.E.S.I. – 2.0 – Beavatkozások a minőségi (inkluzív) testnevelés oktatás és képzés megvalósítása érdekében | Magyar Diáksport Szövetség | 1,40 | 0,60 | 2016 | A projekt célja a mindennapos iskolai testnevelés folyamatos, minőségi alapokon nyugvó fejlesztése a köznevelés területének szabályozási, tartalmi és szakmódszertani típusú megújításával, a szakértők és szolgáltatók felkészítésével a minőségi testnevelés-oktatás támogatására és nyomon követésére, valamint a testnevelés tanítására jogosító képzések és képesítések megújításával. |
+
+| 58. | EFOP-3.2.8-16 | Tehetséggondozás sport által | Magyar Diáksport Szövetség | 2,00 | – | 2016 | A projekt célja a gyermekek tehetséggondozása a sport által, az iskolás korú gyermekek bevezetése a sportos, mozgás-gazdag életmódba, a rendszeres fizikai aktivitást végző gyermekek számának növelése, a társadalmi és szociális különbségek csökkentése és ezáltal a társadalmi befogadás erősítése. |
+
+| 59. | EFOP-3.3.3-16 | Országos múzeumi és könyvtári központi fejlesztés | Szabadtéri Néprajzi Múzeum (konzorciumvezető) Fővárosi Szabó Ervin Könyvtár | 2,00 (ebből VEKOP: 0,60) | – | 2016 | A projekt célja egyrészt a múzeumi területen a szakmai továbbképzések rendszerének fejlesztése és a múzeumok felkészítése a nem formális és informális oktatásba történő intenzívebb bekapcsolódásra, másrészt a könyvtári területen az országos könyvtári rendszer alkalmassá tétele a köznevelés hatékonyságát és eredményességét szolgáló új típusú kompetencia (pl. olvasási és digitális írástudás) és készségfejlesztő (pl. szövegértés és információkeresés), tanulást támogató szolgáltatások nyújtására. |
+
+| 60. | EFOP-3.3.4-16 | Társadalmi kohézió erősítése az anyanyelvi nevelésben és a kultúrában alkalmazott mindennapi kompetenciafejlesztési eszközökkel | Hagyományok Háza | 1,19 | 0,51 | 2017 | A kiemelt projekt célja a magyar népmese, a mesei gondolkodás és nevelés népszerűsítése, beépítése a közneveléshez kapcsolódó formális és informális képzések, szolgáltatások kereteibe, valamint a kulturális szakemberek képzését, tudás- és kompetenciabővítését szolgáló folyamatokba, rendszerekbe. |
+
+| 61. | EFOP-3.4.2-15 | Campus Mundi – felsőoktatási mobilitási és nemzetköziesítési program | Tempus Közalapítvány | 9,20 (ebből VEKOP: 2,30) | – | Megtörtént 2015-ben | A projekt célja a felsőoktatásban részt vevő hallgatók nemzetközi mobilitásának támogatása, emellett a felsőoktatási intézmények nemzetköziesítésének ösztönzése, nemzetközi megjelenésének és külföldi hallgatókat bevonzó képességének növelése. |
+
+| 62. | EFOP-3.4.5-16 | Rendszerszintű fejlesztések és hozzáférés bővítését szolgáló ágazati programok a felsőoktatásban | Oktatási Hivatal (konzorciumvezető) Nemzeti Információs Infrastruktúra Fejlesztési Intézet | 5,92 (ebből VEKOP: 1,48) | – | 2016 | A projekt célja a felsőfokúnak megfelelő szintű oktatásban való részvétel növelése, annak minőségének és hozzáférhetőségének javítását szolgáló központi mérési értékelési rendszerek bővítése, fejlesztése, kiterjesztése: pályakövetés és köznevelési kimenetek összekapcsolása, a bemeneti és a kimeneti kompetenciamérés, kredit előrehaladás, lemorzsolódás, szociális dimenziómérés, felvételi rendszer korszerűsítése, valamint a tanulmányi rendszerek közmű átalakítása. A projekt keretében a matematikai, természettudományos, informatikai, műszaki (MTMI40) szakokra való jelentkezést és bennmaradást szolgáló program szakmai támogatása, a tudományos és felsőoktatási tartalmakhoz való hozzáférés növelése, azok központi, elektronikus közzétételének bővítése, valamint nemzetközi összehasonlításban elismert tananyagok fordítása és közzététele is megvalósul. |
+
+| 63. | EFOP-3.7.2-16 | Az egész életen át tartó tanulást megalapozó fejlesztések | Nemzeti Művelődési Intézet (konzorciumvezető) Hagyományok Háza, Országos Széchényi Könyvtár | 2,50 (ebből VEKOP: 0,75) | – | 2016 | A projekt célja a dokumentum- és információszolgáltatás országos rendszerének továbbfejlesztése és összehangolása, az oktatás, képzés és tanulás támogatása új könyvtári szolgáltatás (Országos Dokumentum és Információ Szolgáltató Rendszer – ODIR) kialakításával és az LLL (egész életen át tartó tanulás) célrendszerét támogató kulturális-könyvtári tartalmak elektronikus formában történő elérésének növelésével. Emellett a projekt keretében valósul meg a közösségi művelődés társadalmi-gazdasági fejlesztő hatásának növelése érdekében a hatás-mérés rendszerének, a kompetenciafejlesztő hatást indikálható módon mérő módszertannak a fejlesztése és bevezetése. |
+
+| 64. | EFOP-3.8.1-14 | Felzárkóztató egészségügyi ápoló szakképzési program | Egészségügyi Nyilvántartási és Képzési Központ | 1,90 | – | Megtörtént 2015-ben | A projekt célja az egészségügyi ellátórendszerben dolgozó, régi típusú, általános ápoló és általános asszisztens szakképesítésű, de további szakképesítéssel nem rendelkező egészségügyi szakdolgozók képzettségének szintre hozásához, és az OKJ-s ápolói képesítés megszerzéséhez képzések biztosítása, továbbá a kedvezményezett egészségügyi intézményben dolgozó érintett személyek képzéseken való részvételének biztosítása, egyúttal a folyamatos ápolói tevékenység fenntartása. |
+
+| 65. | EFOP-3.8.2-16 | Szociális humán erőforrás fejlesztése | Nemzeti Rehabilitációs és Szociális Hivatal (konzorciumvezető) Szociális és Gyermekvédelmi Főigazgatóság | 12,00 | – | 2016 | A projekt célja a komplex szociális életpályamodell kidolgozása, a szociális és gyermekjóléti, gyermekvédelmi területen dolgozók felkészítése, vezetői képzések megvalósítása, továbbá magas minőségű szolgáltató-hálózat kialakítása. |
+
+| 66. | EFOP-3.10.1-16 | Tematikus együttműködés erősítése a köznevelés és a felsőoktatás terén a Kárpát-medence EU-tagállamaival | Oktatási Hivatal (konzorciumvezető) Nemzetstratégiai Kutatóintézet | 5,30 | – | 2016 | A projekt célja a makroregionális képzési és csereprogramok megvalósítása, tehetséggondozás a köznevelésben és a felsőoktatásban, mentori tevékenységek folytatása, valamint határokon átívelő, tematikus felsőoktatási tudáshálózatok kiépítése. További cél közös képzési programok lebonyolítása, tapasztalatcsere, felsőfokú szakképzési, valamint alap- és mesterképzési közös mintaprogramok, illetve szakmai gyakorlati képzőhelyek hálózatának kialakítása. A projekt keretében megvalósul a fiatalok pályaválasztási döntéseit segítő komplex szolgáltatások biztosítása, a vidéki gazdálkodói életmódra való nevelési programok kidolgozása, megjelenítése a köznevelésben és a felsőoktatásban. Cél a fiatalok helyben maradása, köznevelési intézmények, illetve az ezeket összefogó civil szervezetek Kárpát-medencei hálózati együttműködésének kialakítása, fejlesztése. |
+
+| 67. | EFOP-3.10.2-16 | Tematikus együttműködés erősítése a köznevelés és a felsőoktatás terén a Kárpát-medence nem EU-tagállamaival | Oktatási Hivatal (konzorciumvezető) Nemzetstratégiai Kutatóintézet | 1,70 | – | 2016 | A projekt célja Kárpát-medencei szintű felsőoktatási képzési és kutatási együttműködések támogatása, a hálózati együttműködés feltételeinek kialakítása, a két- és háromnyelvű akkreditált felsőoktatási programok bővítése, valamint bővítésének előmozdítása; szakmai gyakorlati képzőhelyek hálózatának makroregionális szintű kialakítása. További cél a fiatalok pályaválasztási döntéseit segítő komplex szolgáltatások biztosítása a köznevelésben; tananyagok és taneszközök fejlesztése, valamint közös pedagógiai módszerek kialakítása és tudásátadás. Emellett a projekt segít a végzettség nélküli iskolaelhagyás csökkentésében és az esélyegyenlőség megteremtése érdekében a köznevelésben, illetve a vajdasági, a kárpátaljai felsőoktatási módszertani és tartalmi oktatási anyagok kidolgozásában. |
+
+| 68. | EFOP-4.1.2-16 | Az iskolarendszer térségi fejlesztése | Klebelsberg Intézményfenntartó Központ (konzorciumvezető) fenntartói feladatot ellátó felsőoktatási intézmények és minisztériumok | 80,00 | – | 2016 | A projekt célja a köznevelési intézményrendszer fejlesztése, valós igényekre alapozott kapacitásbővítése, valamint az érintett intézmények megújuló pedagógiai, módszertani programjához, és a mindennapos testnevelés infrastrukturális feltételeinek megteremtéséhez illeszkedő funkcionális feladatellátási helyek kialakítása. |
+
+”
