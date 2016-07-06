@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2016. december 31.
+## Határidő: 2017. június 30.[^1]
 
 1. melléklet az 1070/2016. (II. 25.) Korm. határozathoz
 
@@ -73,3 +73,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1348/2016. (VII. 6.) Korm. határozat 4. pontja szerint módosított szöveg.
