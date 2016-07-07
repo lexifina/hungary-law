@@ -1,5 +1,3 @@
-## Tételek és normatívák az országos népszavazáson
-
 | Jogcím | Normatíva |
 
 | Kód | Név | Egység | Ft/egység |
@@ -217,3 +215,5 @@
 | 35105 | Munkaadókat terhelő járulékok és szociális hozzájárulási adó fizetési kötelezettség központnál. |  |  |
 
 2. melléklet a 11/2016. (VI. 28.) IM rendelethez
+
+Tételek és normatívák az országos népszavazáson megismételt szavazásnál
