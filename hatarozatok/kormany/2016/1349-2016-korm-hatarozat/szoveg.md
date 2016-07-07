@@ -1,1 +1,0 @@
-Az egykori koncentrációs táborok felszabadításának 70. évfordulója alkalmából tartandó külföldi megemlékezésekkel és egyéb programokkal kapcsolatos előirányzat-átcsoportosításról szóló 1577/2015. (IX. 4.) Korm. határozatban a „2016. június 30.” szövegrész helyébe a „2017. június 30.” szöveg lép.
