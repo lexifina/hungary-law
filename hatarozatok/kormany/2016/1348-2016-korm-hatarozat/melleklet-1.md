@@ -14,17 +14,15 @@
 
 ## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1168/2015. (III. 24.) Korm. határozat 1. pontja szerint a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 57. Kulturális fejlesztési, örökségvédelmi és egyéb feladatok ellátásának támogatása gazdasági társaságok részére jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 100,0 millió forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 3. A fertődi Esterházy-kastély rekonstrukciójához a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1542/2013. (VIII. 15.) Korm. határozatban a „2016. június 30.” szövegrész helyébe a „2017. június 30.” szöveg lép.
-
-## 4. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1070/2016. (II. 25.) Korm. határozatban a „2016. december 31.” szövegrész helyébe a „2017. június 30.” szöveg lép.
+## 3–4.[^1]
 
 ## 5. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1049/2016. (II. 15.) Korm. határozat szerint a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 74. Egyes kiemelt rekonstrukciók és szakmai programok támogatása jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat javára átcsoportosított 68,0 millió forintból 28,9 millió forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 6. A Budai Várban található Karmelita kolostor átépítéséhez időarányosan szükséges források biztosításáról és a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1434/2014. (VII. 31.) Korm. határozat 1. pontjában a „2016. június 30.” szövegrész helyébe a „2017. június 30.” szöveg lép.
+## 6.[^2]
 
 ## 7. A Plácido Domingo és Renée Fleming budapesti fellépésének megvalósításáról szóló 1311/2016. (VI. 13.) Korm. határozatban (a továbbiakban: Határozat) foglaltaktól eltérően a Kormány úgy dönt, hogy a Határozat alapján biztosítandó forrás Plácido Domingo és más meghívott fellépők 2016. augusztus 10-i budapesti fellépésének megvalósítására használható fel.
 
-## 8. A Miniszterelnökség költségvetési fejezetből történő előirányzat-átcsoportosításról szóló 1790/2015. (X. 30.) Korm. határozat 3. pontjában a „2016. június 30.” szövegrész helyébe a „2016. december 31.” szöveg lép.
+## 8.[^3]
 
 ## 9. A Kormány egyetért azzal, hogy a karitatív szervezetek támogatása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1659/2015. (IX. 15.) Korm. határozat szerint biztosított 199,5 millió forintból 9 945 377 forint a XX. Emberi Erőforrások Minisztériuma fejezet, 30. Fejezeti kezelésű előirányzatok cím, 25. Társadalmi, civil és non-profit szervezetek működési támogatása jogcímcsoport, 21. Karitatív tevékenységet végző szervezetek támogatása jogcímen, a Johannita Segítő Szolgálat támogatására használható fel, mely összeg elszámolási és felhasználási határideje 2017. március 31.
 
@@ -229,3 +227,7 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
