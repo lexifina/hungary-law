@@ -4,4 +4,6 @@ A Kormány
 
 2. felhatalmazza az emberi erőforrások miniszterét, hogy a jelentést az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezmény Titkársága részére juttassa el;
 
-3. visszavonja az Egészségügyi Világszervezet Dohányzás-ellenőrzési Keretegyezmény 21. cikke szerinti jelentés jóváhagyásáról szóló 1244/2014. (IV. 18.) Korm. határozatot.
+3.[^2]
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
