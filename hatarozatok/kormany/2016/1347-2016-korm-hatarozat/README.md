@@ -1,0 +1,9 @@
+# 1347/2016. (VII. 6.) Korm. határozat
+
+a Rászoruló Személyeket Támogató Operatív Program éves fejlesztési keretének megállapításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1347-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-07-07 | 2016-1347-30-22.1 | 1347/2016. (VII. 6.) Korm. határozat |
