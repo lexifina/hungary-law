@@ -1,0 +1,1 @@
+40. § Hatályát veszti az európai üzemi tanács létrehozásáról, illetve a munkavállalók tájékoztatását és a velük való konzultációt szolgáló eljárás kialakításáról szóló 2003. évi XXI. törvény 1. § (5) bekezdése.
