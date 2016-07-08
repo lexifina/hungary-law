@@ -8,9 +8,9 @@
 
 1/A. Baleset: az emberi szervezetet ért olyan egyszeri külső hatás, amely a sérült akaratától függetlenül, hirtelen vagy aránylag rövid idő alatt következik be és sérülést, mérgezést vagy más (testi, lelki) egészségkárosodást, illetőleg halált okoz.
 
-1/B. EK-megfelelőségi nyilatkozat: a gyártó írásbeli nyilatkozata, hogy a védőeszköz a mintának és az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló külön jogszabály előírásainak megfelel.
+1/B. egyéni védőeszköz EK-megfelelőségi nyilatkozat: a gyártó írásbeli nyilatkozata, hogy a védőeszköz a mintának és az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló külön jogszabály előírásainak megfelel.
 
-1/C. EK-típustanúsítvány: megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a védőeszköz a mintán elvégzett EK típusvizsgálat alapján megfelel az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló külön jogszabály előírásainak.
+1/C. egyéni védőeszköz EK típustanúsítvány: megfelelőségértékelő szervezetek tevékenységéről szóló törvényben meghatározott bejelentett szervezet által kiadott dokumentum annak igazolására, hogy a védőeszköz a mintán elvégzett EK típusvizsgálat alapján megfelel az egyéni védőeszközök követelményeiről és megfelelőségének tanúsításáról szóló külön jogszabály előírásainak.
 
 1/D. Foglalkozási megbetegedés: a munkavégzés, a foglalkozás gyakorlása közben bekövetkezett olyan heveny és idült, valamint a foglalkozás gyakorlását követően megjelenő vagy kialakuló idült egészségkárosodás, amely
 
@@ -18,7 +18,7 @@ a) a munkavégzéssel, a foglalkozással kapcsolatos, a munkavégzés, a munkafo
 
 b) a munkavállalónak az optimálisnál nagyobb vagy kisebb igénybevételének a következménye.
 
-1/E. Fokozott expozíció: a munkavállaló szervezetében a munkavégzés során, a foglalkozás gyakorlása közben vagy azzal összefüggésben a külön jogszabályban meghatározott biológiai határértékeket meghaladó koncentrációja vagy mértéke, illetve zaj esetében 4000 Hz-en a 30 dB halláscsökkenés mindkét fülön.
+1/E. Fokozott expozíció: a munkavállaló szervezetében a munkavégzés során, a foglalkozás gyakorlása közben vagy azzal összefüggésben a munkahelyek kémiai biztonságáról szóló miniszteri rendeletben meghatározott foglalkozási vegyi expozíció esetén vizsgálandó biológiai expozíciós (hatás) mutatók biológiai határértékeket meghaladó koncentrációja vagy mértéke, illetve zaj esetében 4000 Hz-en a 30 dB halláscsökkenés bármely fülön.
 
 1/F. Kockázat: a veszélyhelyzetben a sérülés vagy az egészségkárosodás valószínűségének és súlyosságának együttes hatása.
 
@@ -46,7 +46,7 @@ b) valamely érzékszerv, érzékelőképesség, illetve a reprodukciós képess
 
 c) orvosi vélemény szerint életveszélyes sérülést, egészségkárosodást;
 
-d) súlyos csonkulást, hüvelykujj vagy kéz, láb két vagy több ujja nagyobb részének elvesztését (továbbá ennél súlyosabb esetek);
+d) hüvelykujj vagy kéz, láb két vagy több ujja nagyobb részének elvesztését, továbbá ennél súlyosabb csonkulást okozott, illetve;
 
 e) beszélőképesség elvesztését vagy feltűnő eltorzulást, bénulást, illetőleg elmezavart okozott.
 

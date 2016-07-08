@@ -26,7 +26,7 @@ c) rendeletben határozza meg a honvédségi szervezeteknél, a honvédelemért 
 
 a) rendeletben határozza meg
 
-aa) az egyéni védőeszköz EK-megfelelőségi nyilatkozata, EK-típustanúsítványa kiadásának, valamint az egyéni védőeszközök minőségét biztosító rendszer, továbbá a gyártás minőségirányítási rendszere ellenőrzésének;
+aa) az egyéni védőeszköz egyéni védőeszköz EK-megfelelőségi nyilatkozata, egyéni védőeszköz EK típustanúsítványa kiadásának, valamint az egyéni védőeszközök minőségét biztosító rendszer, továbbá a gyártás minőségirányítási rendszere ellenőrzésének;
 
 ab) a munkahelyi biztonsági és egészségvédelmi jelzések alkalmazásának;
 
@@ -124,6 +124,8 @@ c) a Tanács 89/391/EGK irányelve a munkavállalók munkahelyi biztonságának 
 
 d) az Európai Parlament és a Tanács 2007/30/EK irányelve a gyakorlati végrehajtásra vonatkozó jelentések egyszerűsítése és ésszerűsítése érdekében a 89/391/EGK tanácsi irányelv, annak egyedi irányelvei, valamint a 83/477/EGK, a 91/383/EGK, a 92/29/EGK és a 94/33/EK tanácsi irányelv módosításáról,
 
-e) a munkavállalók által a munkájuk során használt munkaeszközök biztonsági és egészségvédelmi minimumkövetelményeiről [második egyedi irányelv a 89/391/EGK irányelv 16. cikkének (1) bekezdése értelmében] szóló 89/655/EGK tanácsi irányelv.
+e) a munkavállalók által a munkájuk során használt munkaeszközök biztonsági és egészségvédelmi minimumkövetelményeiről [második egyedi irányelv a 89/391/EGK irányelv 16. cikkének (1) bekezdése értelmében] szóló 89/655/EGK tanácsi irányelv,
+
+f) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló 96/71/EK irányelv érvényesítéséről és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2014. május 15-i 2014/67/EU európai parlament és tanács irányelv.
 
 (7)–(8)

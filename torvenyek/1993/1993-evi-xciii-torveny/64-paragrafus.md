@@ -8,7 +8,7 @@
 
 (3) A munkáltató a munkabalesetek, foglalkozási megbetegedések és fokozott expozíciók esetén a sérült, megbetegedett, illetve fokozott expozícióban érintett következő személyes adatait rögzíti: név (ideértve a születési nevet is), anyja neve, társadalombiztosítási azonosító jele (taj-száma), születési hely és időpont, nem, állampolgárság, lakóhely (lakcím). A munkáltató esetében az adószámot kell feltüntetni, amennyiben adószámmal nem rendelkezik, személyes adataként saját adóazonosító jelét is rögzítenie kell.
 
-(4) A munkáltatónak a munkaképtelenséggel járó munkabalesetet haladéktalanul ki kell vizsgálnia, és a kivizsgálás eredményét munkabaleseti jegyzőkönyvben kell rögzítenie. A munkaképtelenséget nem eredményező munkabaleset körülményeit is tisztázni kell.
+(4) A munkáltatónak a munkaképtelenséggel járó munkabalesetet haladéktalanul ki kell vizsgálnia, és a kivizsgálás eredményét munkabaleseti jegyzőkönyvben kell rögzítenie. A kivizsgálás megkezdéséről a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosát tájékoztatni kell. A kivizsgálásban történő orvosi közreműködésről a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosa dönt. Súlyos munkabaleset esetén a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának részt kell venni a kivizsgálásban. A munkaképtelenséget nem eredményező munkabaleset körülményeit is tisztázni kell.
 
 (5) A munkáltató köteles a súlyos munkabalesetet a munkavédelmi hatóságnak [84. § (2) bekezdés] azonnal bejelenteni.
 

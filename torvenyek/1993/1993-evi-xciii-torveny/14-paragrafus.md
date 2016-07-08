@@ -8,8 +8,10 @@ c) a munkavédelmi előírások végrehajtásának elősegítése, különösen 
 
 d) a nevelés és az oktatás területén a biztonságos életvitelre, a szakmai oktatás területén az egészséget nem veszélyeztető és a biztonságos munkavégzés szabályaira vonatkozó ismeretanyag meghatározása;
 
-e) a nemzetgazdaság munkavédelmi helyzetének évenkénti áttekintése, a megállapítások nyilvánosságra hozatala, a munkavédelmi információs rendszer kialakítása és működtetése.
+e) a nemzetgazdaság munkavédelmi helyzetének évenkénti áttekintése, a megállapítások jelentésben történő összegzése, a munkavédelmi információs rendszer kialakítása és működtetése.
 
 (2) Az állam részt vesz a munkavédelemben érintett nemzetközi szervezetek munkájában, együttműködik más államokkal a munkavédelmi feladatok összehangolása végett, jelentést tesz a munkavállalók biztonságát és egészségét érintő közösségi szabályok végrehajtásáról.
 
 (3) Az állam az (1) és (2) bekezdésben foglalt feladatait a munkavállalók és munkáltatók érdekképviseleti szerveivel együttműködve valósítja meg.
+
+(4) A nemzetgazdaság munkavédelmi helyzetéről szóló jelentést a foglalkoztatáspolitikáért felelős miniszter a tárgyévet követő év szeptember 30-áig teszi közzé.

@@ -22,9 +22,11 @@ g) a veszélyes munkahelyen, veszélyes munkaeszközzel, vagy veszélyes technol
 
 h) a külön jogszabályok szerint előírt foglalkoztatási tilalom megszegése;
 
-i) a megengedett értéket meghaladó expozícióban történő foglalkoztatás; továbbá
+i) a megengedett értéket meghaladó expozícióban történő foglalkoztatás a szükséges védelem hiányában; továbbá
 
 j) a rákkeltő expozícióval járó tevékenység esetére a külön jogszabály által előírt mérések elmulasztása.
+
+k) a veszélyes munkahelyen, veszélyes munkaeszközzel vagy veszélyes technológiai folyamatban végzett munka esetére a munkavédelemre vonatkozó szabályban előírtnál kevesebb munkavállalói létszám foglalkoztatása.
 
 (3) A munkavédelmi bírság összege 50 000 Ft-tól 10 000 000 Ft-ig terjedhet.
 
