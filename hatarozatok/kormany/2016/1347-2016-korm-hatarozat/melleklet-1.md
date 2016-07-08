@@ -6,6 +6,8 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. Hatályát veszti a Rászoruló Személyeket Támogató Operatív Program 2015. évre szóló éves fejlesztési keretének megállapításáról szóló 1119/2015. (III. 6.) Korm. határozat.
+## 3.[^1]
 
 1. melléklet az 1347/2016. (VII. 6.) Korm. határozathoz
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
