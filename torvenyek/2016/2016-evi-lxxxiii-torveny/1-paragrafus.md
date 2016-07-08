@@ -1,0 +1,1 @@
+1. § A földgázellátásról szóló 2008. évi XL. törvény 48. § (4) bekezdésében az „a villamos energiáról szóló 2007. évi LXXXVI. törvény szerinti átviteli rendszerirányítóra” szövegrész helyébe az „a rendszerirányítást végző szállítási rendszerüzemeltetőre és a villamos energiáról szóló 2007. évi LXXXVI. törvény szerinti átviteli rendszerirányítóra” szöveg lép.
