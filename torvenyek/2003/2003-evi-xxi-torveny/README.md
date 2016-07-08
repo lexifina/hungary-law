@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-21-00-00
 | 2011-08-01 | 2011. évi CV. törvény | 2003-21-00-00.4 |
 | 2012-07-01 | 2012. évi LXXXVI. törvény | 2003-21-00-00.5 |
 | 2013-01-01 | 2012. évi CCXI. törvény | 2003-21-00-00.6 |
+| 2016-07-08 | 2016. évi LXXIX. törvény | 2003-21-00-00.7 |

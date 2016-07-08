@@ -32,4 +32,4 @@ d) a belföldi munkavállalók képviselőinek védelme
 
 tekintetében abban az esetben is, ha a központi vezetés, vagy – ha a közösségi szinten működő vállalkozás székhelye, illetve vállalkozáscsoport esetén az ellenőrző vállalkozás székhelye nem tagállamban van, de – a központinak alárendelt vezetése (irányított vezetés); a vállalkozás, illetve vállalkozáscsoport képviselete; vagy képviselő megjelölése hiányában a vállalkozás azon telephelye, illetve a vállalkozáscsoport azon vállalkozása, mely a tagállamban a legnagyobb számú munkavállalót foglalkoztatja más tagállamban található.
 
-(5) E törvény hatálya nem terjed ki a (3) bekezdés a)–d) pontjában foglalt vállalkozás tengeri kereskedelmi hajóján foglalkoztatott munkavállalóra.
+(5)
