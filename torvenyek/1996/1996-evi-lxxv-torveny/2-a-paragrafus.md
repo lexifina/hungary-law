@@ -7,3 +7,5 @@
 a) az adott év kiemelt ellenőrzési, vizsgálati céljait,
 
 b) az ellenőrizendő főbb tevékenységi köröket, szakmákat vagy ágazatokat.
+
+(4) Az ellenőrzési irányelvek meghatározása, valamint az ellenőrzések végrehajtása során biztosítani kell, hogy azok ne legyenek megkülönböztető jellegűek és aránytalanok, valamint érvényesüljön az egyenlő bánásmód követelménye.

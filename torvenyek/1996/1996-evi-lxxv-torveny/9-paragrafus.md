@@ -28,4 +28,4 @@ a) a honvédelemért felelős miniszter, hogy rendeletben állapítsa meg a honv
 
 b) a rendvédelmi szervet irányító miniszter, hogy rendeletben állapítsa meg a 3. § alkalmazásának eltérő szabályait, valamint a munkaügyi hatósági jogkör gyakorlóját a rendvédelmi szerveknél és az önkormányzati tűzoltóságnál,
 
-c) a büntetés-végrehajtásért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkaügyi ellenőrzés eljárási szabályait, valamint a 3. § és 6. § alkalmazásának eltérő szabályait.
+c) a büntetés-végrehajtásért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben állapítsa meg a büntetés-végrehajtási intézetekben fogvatartottak tekintetében a munkaügyi ellenőrzés eljárási szabályait, valamint a 2/A. §, 3. § és 6. § alkalmazásának eltérő szabályait.

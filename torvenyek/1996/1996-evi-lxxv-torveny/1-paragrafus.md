@@ -2,15 +2,17 @@
 
 a) arra a természetes és jogi személyre, aki, illetve amely a tizennyolcadik életévét betöltött természetes személyt foglalkoztatásra irányuló jogviszony – ideértve az egyszerűsített foglalkoztatásra vagy alkalmi munkára létesített munkaviszonyt is –, továbbá harmadik országbeli állampolgárt vagy fiatal munkavállalót foglalkoztatásra irányuló jogviszony, illetve a (4) bekezdésben meghatározott jogviszonyok alapján foglalkoztat,
 
-b) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) XVI. fejezetében meghatározott munkaerő-kölcsönzés esetén a kölcsönbeadóra és a kölcsönbevevőre
+b) a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) XVI. fejezetében meghatározott munkaerő-kölcsönzés esetén a kölcsönbeadóra és a kölcsönbevevőre, valamint az iskolaszövetkezet által nyújtott szolgáltatás esetén az iskolaszövetkezetre és a szolgáltatás fogadójára
 
 (a továbbiakban együtt: foglalkoztató).
 
-(2) Az (1) bekezdésben foglaltakon túlmenően e törvény hatálya kiterjed
+(2) Az (1) bekezdésben foglaltakon túlmenően a törvény hatálya kiterjed
 
-a)
+a) a külföldön letelepedett és határokon átnyúló szolgáltatásnyújtás céljából munkavállalót Magyarországra küldő munkáltatóra (a továbbiakban: külföldi munkáltató),
 
-b) a külföldi munkáltató munkavállalójának az Mt. 295. §-a alapján történő munkavégzésére.
+b) a külföldi munkáltató munkavállalójának az Mt. 295. § alapján történő munkavégzésére.
+
+(2a) A törvény hatálya kiterjed az Mt. hatálya alá nem tartozó munkáltatóra, a nemzetközi magánjog szabályai szerint imperatív rendelkezések, valamint azon jogszabályi rendelkezések tekintetében, amelyektől az Mt. szabályai szerint megállapodás útján nem lehet eltérni.
 
 (3) E törvény alkalmazásában – a (4) bekezdésben foglalt kivétellel – foglalkoztatásra irányuló jogviszonynak minősül minden olyan jogviszony, amelyben a szolgáltatás tárgya a foglalkoztató részére ellenérték fejében végzett munka.
 
@@ -27,6 +29,10 @@ d) a szövetkezet tagjának a szövetkezet részére kifejtett személyes közre
 e) az önálló kereskedelmi ügynöki szerződés alapján végzett munka.
 
 (5) A munkaügyi hatóság jogosult hatósági ellenőrzés során megállapított tényállás alapján a foglalkoztató és a részére munkát végző személy közötti, illetve a munkavállalónak munkavégzés céljából történő átengedése alapjául szolgáló jogviszony, valamint a tényleges foglalkoztatás alapján létrejött kapcsolat minősítésére. Ehhez a foglalkoztatónak rendelkezésre kell bocsátania mindazokat a bizonyítékokat, amelyek alapján megállapítható, hogy a részére végzett munka a (4) bekezdés szerinti jogviszonyok alapján, vagy ellenérték nélkül történt.
+
+(5a) A munkaügyi hatóság az 1. mellékletben meghatározott értékelési szempontok alapján vizsgálja a határokon átnyúló szolgáltatásnyújtás keretében kiküldött munkavállaló magyarországi munkavégzését. Ennek eredményeként a munkaügyi hatóság jogosult annak megállapítására, hogy a munkavállaló nem minősül kiküldött munkavállalónak.
+
+(5b) A külföldi munkáltató és a jogosult (belföldi foglalkoztató) köteles a munkaügyi hatóság rendelkezésére bocsátani mindazokat az adatokat, amelyek az (5a) bekezdés szerinti ellenőrzés elvégzéséhez szükségesek.
 
 (6) Olyan munkahelyen, ahol különböző foglalkoztatók alkalmazásában álló munkavállalókat egyidejűleg foglalkoztatnak, és a munkaügyi ellenőrzés eredményeként valamely foglalkoztató személye nem állapítható meg, az (5) bekezdés vonatkozásában – az ellenkező bizonyításáig – vélelmezni kell, hogy az érintett munkavállalók foglalkoztatója az, aki a tevékenységet a munkahelyen ténylegesen irányítja.
 

@@ -14,7 +14,9 @@ f) eltiltja a foglalkoztatót tevékenysége folytatásától, ha foglalkoztatá
 
 g) a 3. § (1) bekezdés a) pontjában foglalt, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó jogsértés megállapítása esetén a gyermek veszélyeztetettsége miatt jelzéssel él a gyermekjóléti szolgálatnál, vagy
 
-h) a további jogsértés megelőzésének érdekében – a b) pont alkalmazhatóságának hiányában – megállapítja a munkáltató jogsértését.
+h) a további jogsértés megelőzésének érdekében – a b) pont alkalmazhatóságának hiányában – megállapítja a munkáltató jogsértését,
+
+j) kötelezi a foglalkoztatót a 3. § (1a) bekezdés szerinti megkeresés teljesítéséhez szükséges adatok szolgáltatására.
 
 (2) A munkaügyi hatóság az (1) bekezdés a) pontjában foglalt határozatának munkaügyi okból fellebbezésre tekintet nélküli végrehajtását is elrendelheti.
 
@@ -27,3 +29,5 @@ a) társadalombiztosítási nyugellátásban részesülő személy foglalkoztat�
 b) megváltozott munkaképességű személyek ellátásaiban részesülő személy foglalkoztatásával összefüggésben került sor, a jogsértést megállapító jogerős döntését közli a rehabilitációs hatósággal.
 
 (5) Ha a jogsértést korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő személynek a foglalkoztatásra irányuló jogviszony létesítéséhez szükséges jognyilatkozat hiányában történő foglalkoztatásával követik el, a munkaügyi hatóság a jogsértést megállapító jogerős határozatát közli a korhatár előtti ellátást, illetve a szolgálati járandóságot megállapító szervvel.
+
+(6) A munkaügyi hatóság haladéktalanul tájékoztatja az érintett EGT-állam illetékes hatóságát, ha a munkaügyi ellenőrzés során az 1. § (2) bekezdése szerinti munkavállaló foglalkoztatási körülményei az EGT-állam illetékes hatóságának hatáskörébe tartozó szabálytalanságra utalnak.

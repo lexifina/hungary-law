@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-75-00-00
 | 2015-04-01 | 2015. évi VIII. törvény | 1996-75-00-00.46 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 1996-75-00-00.47 |
 | 2016-07-01 | 2016. évi XXXIX. törvény | 1996-75-00-00.48 |
+| 2016-07-08 | 2016. évi LXXIX. törvény | 1996-75-00-00.49 |

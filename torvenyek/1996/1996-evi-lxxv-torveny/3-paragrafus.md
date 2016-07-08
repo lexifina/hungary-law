@@ -10,7 +10,7 @@ d)
 
 e) a nők, a fiatalkorúak és a megváltozott munkaképességűek foglalkoztatásával kapcsolatos jogszabályok,
 
-f) a munka- és pihenőidőre a munkaviszonyra vonatkozó szabályban előírt rendelkezések,
+f) a munka- és pihenőidőre az Mt. XI. fejezetében, valamint munkaviszonyra vonatkozó szabályban előírt rendelkezések,
 
 g) a jogszabályban, kollektív szerződésben vagy a miniszter által az ágazatra, alágazatra kiterjesztett kollektív szerződésben megállapított munkabér mértékére, valamint a munkabér védelmére vonatkozó rendelkezések,
 
@@ -41,6 +41,8 @@ s) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáró
 t)
 
 megtartására.
+
+(1a) A munkaügyi ellenőrzés kiterjed a más EGT-állam területén határokon átnyúló szolgáltatást nyújtó, Magyarországon letelepedett foglalkoztató tekintetében – a szolgáltatás-nyújtással érintett EGT-állam hatósága részéről érkezett megkeresés teljesítéséhez szükséges mértékben – a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvényben meghatározottak szerint a foglalkoztató tevékenységével, az általa foglalkoztatott munkavállalók foglalkoztatási jogviszonyával kapcsolatos adatok beszerzésére.
 
 (2) Az (1) bekezdés g) pontjával kapcsolatos munkaügyi ellenőrzés az Mt. 136–137. §-ában, 138. § (4)–(6) bekezdésében, 139–145. §-ában, 146. § (1)–(3) bekezdésében, 147. § (1) bekezdésében, 153–165. §-ában foglalt rendelkezések megtartására terjed ki.
 

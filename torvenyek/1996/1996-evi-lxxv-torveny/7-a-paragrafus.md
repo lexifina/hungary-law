@@ -30,6 +30,8 @@ c) a (4) bekezdésben foglalt esetben a minimálbér kétszeresének
 
 megfelelő összeg terheli a foglalkoztatót.
 
+(5a) A (2)–(5) bekezdés szerinti kötelezettség a foglalkoztatót annyi esetben terheli, ahány foglalkoztatott tekintetében az engedély nélküli foglalkoztatást megállapították.
+
 (6) Ha a munkaügyi hatóság a foglalkoztatót az (1)–(5) bekezdés alapján a központi költségvetésbe történő befizetésre kötelezte, ugyanezen jogsértés miatt munkaügyi bírság nem szabható ki.
 
 (7) A munkaügyi hatóság a 3. § (1) bekezdés i) pontja szerinti, a harmadik országbeli állampolgár magyarországi foglalkoztatását érintő jogsértés megállapítása esetén a jogerős határozatát közli az idegenrendészeti hatósággal.
