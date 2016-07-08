@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-4-00-00
 | 2016-01-01 | 2015. évi CCXXIII. törvény | 1991-4-00-00.103 |
 | 2016-06-18 | 2016. évi LXVII. törvény | 1991-4-00-00.104 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 1991-4-00-00.105 |
+| 2016-07-08 | 2016. évi LXXIX. törvény | 1991-4-00-00.106 |

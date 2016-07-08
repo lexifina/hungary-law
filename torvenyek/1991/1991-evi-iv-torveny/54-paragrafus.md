@@ -90,7 +90,7 @@ i)
 
 (14a) Az álláskereső aktív munkahelykereső tevékenysége és álláskeresőként való nyilvántartása – a (18) bekezdésben foglaltak figyelembe vételével – szünetel, ha az álláskereső
 
-a) az állami foglalkoztatási szerv által támogatott, vagy az állami felnőttképzési szerv által szervezett képzésben vesz részt,
+a) az állami foglalkoztatási szerv által támogatott, vagy az állami felnőttképzési intézmény által szervezett képzésben vesz részt,
 
 b) rövid, 120 napot meg nem haladó időtartamú keresőtevékenységet (kivéve az egyszerűsített foglalkoztatást) folytat,
 

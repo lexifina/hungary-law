@@ -8,7 +8,7 @@ b) munkanélküli járadékot említ, azon az álláskeresési járadékot és a
 
 érteni kell.
 
-(3) A 2005. november 1-jét megelőzően megállapított, és ebben az időpontban folyósított munkanélküli ellátást a 2005. október 31-én hatályos szabályok szerint tovább kell folyósítani azzal, hogy az ellátás folyósítása során a 2005. november 1-jétől a munkaügyi központ kirendeltségével való együttműködésre az álláskeresővel kötött álláskeresési megállapodásra vonatkozó szabályokat kell megfelelően alkalmazni.
+(3) A 2005. november 1-jét megelőzően megállapított, és ebben az időpontban folyósított munkanélküli ellátást a 2005. október 31-én hatályos szabályok szerint tovább kell folyósítani azzal, hogy az ellátás folyósítása során a 2005. november 1-jétől az állami foglalkoztatási szervvel való együttműködésre az álláskeresővel kötött álláskeresési megállapodásra vonatkozó szabályokat kell megfelelően alkalmazni.
 
 (4) Annak részére, akinek munkanélküli járadékra, nyugdíj előtti munkanélküli segélyre, álláskeresést ösztönző juttatásra való jogosultsága 2005. november 1-jét megelőzően keletkezik, és ezen ellátásokra való kérelmét legkésőbb 2005. október 31-én benyújtja, ezen ellátásokat a 2005. október 31-én hatályos szabályok szerint kell megállapítani.
 

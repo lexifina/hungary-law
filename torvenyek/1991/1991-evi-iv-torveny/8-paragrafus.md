@@ -1,4 +1,4 @@
-8. § (1) Az Országgyűlés szabályozza a munkanélküliség megelőzését, illetőleg csökkentését szolgáló foglalkoztatási eszközöket, az álláskeresőket megillető juttatásokat, a munkaerőpiaci szervezetrendszert, valamint ezek finanszírozásának módját.
+8. § (1) Az Országgyűlés szabályozza a munkanélküliség megelőzését, illetőleg csökkentését szolgáló foglalkoztatási eszközöket, az álláskeresőket megillető juttatásokat, valamint ezek finanszírozásának módját.
 
 (2) A Kormány döntéseinek előkészítése, valamint végrehajtása során figyelembe veszi azok foglalkoztatáspolitikai összefüggéseit és következményeit. Ennek megfelelően feladatainak ellátása során
 
@@ -38,7 +38,7 @@ c) szociális hozzájárulási adó fizetésével hozzájárul az álláskereső
 
 a) képviselői útján részt vesz a foglalkoztatási érdekegyeztetésben,
 
-b) együttműködik a munkaerőpiaci szolgáltató szervvel, valamint a munkaadóval, mérlegeli a felajánlott átképzési, foglalkoztatási lehetőségeket, együttműködik új munkahely felkutatásában,
+b) együttműködik az állami foglalkoztatási szervvel, valamint a munkaadóval, mérlegeli a felajánlott átképzési, foglalkoztatási lehetőségeket, együttműködik új munkahely felkutatásában,
 
 c) álláskeresők támogatásának biztosítására járulékot fizet.
 

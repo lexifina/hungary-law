@@ -10,4 +10,4 @@ b) kiadási előirányzatok tárgyévben fel nem használt része.
 
 (4) Amennyiben a tárgyévet megelőző év végén a Nemzeti Foglalkoztatási Alap megállapított záró állománya a likviditási tartalék szintjét meghaladta, úgy az e szint fölötti rész tárgyévi felhasználásáról a miniszter az államháztartásért felelős miniszter egyetértésével dönt az (1) bekezdésben foglaltakra figyelemmel.
 
-(5) A Társadalmi Megújulás Operatív Program keretében uniós forrás terhére megvalósuló program finanszírozása érdekében a Nemzeti Foglalkoztatási Alap záró állományában jelentkező, tárgyévben fel nem használt pénzeszköz – a miniszternek az államháztartásért felelős miniszterrel egyetértésben meghozott döntése alapján – a tárgyévet követően felhasználható.
+(5) A Nemzeti Foglalkoztatási Alap előfinanszírozásával, uniós forrás terhére megvalósuló program finanszírozása érdekében a Nemzeti Foglalkoztatási Alap záró állományában jelentkező, tárgyévben fel nem használt pénzeszköz – a miniszternek az államháztartásért felelős miniszter egyetértésével meghozott döntése alapján – a tárgyévet követően felhasználható.

@@ -40,6 +40,6 @@ időtartamával.
 
 (10) A (8) bekezdésben foglaltak nem alkalmazhatók, ha az álláskereső az álláskeresési járadék folyósítása alatt ugyanazzal a munkaadóval létesít munkaviszonyt, amellyel az álláskeresési járadék megállapítását megelőzően utoljára munkaviszonyban állt.
 
-(11) Ha az álláskereső részére az állami foglalkoztatási szerv (illetőleg annak kirendeltsége) a (8) bekezdésben meghatározott összeget kifizette, úgy kell tekinteni, hogy az álláskereső az álláskeresési járadék folyósítási idejét kimerítette.
+(11) Ha az álláskereső részére az állami foglalkoztatási szerv a (8) bekezdésben meghatározott összeget kifizette, úgy kell tekinteni, hogy az álláskereső az álláskeresési járadék folyósítási idejét kimerítette.
 
 (12) Ha az állami foglalkoztatási szerv a szociális biztonsági rendszerek koordinálásáról és annak végrehajtásáról szóló rendeletek hatálya alá tartozó álláskereső részére ideiglenes ellátást állapít meg, az ellátás addig folyósítható, amíg az – álláskeresési járadék vagy álláskeresési segély megállapításához szükséges – az Európai Gazdasági Térség másik tagállamában szerzett jogosultsági időre, valamint szakmai jövedelemre, bérre vagy átlagkeresetre, valamint az igénybe vett munkanélküli ellátásra vonatkozó bizonyíték rendelkezésre nem áll. Az ideiglenes ellátás folyósításának időtartama nem haladhatja meg a 60 napot.
