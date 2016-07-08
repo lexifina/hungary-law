@@ -30,7 +30,7 @@ b) az 1992. július 1-jét megelőzően fennállt munkaviszony teljes időtartam
 
 c) a sor- vagy tartalékos katonai szolgálatban, illetve a polgári szolgálatban, valamint
 
-d) az (1) bekezdés f) pontja alá nem tartozó foglalkoztatónál ösztöndíjas foglalkoztatási jogviszonyban
+d) az (1) bekezdés g) pontja alá nem tartozó foglalkoztatónál ösztöndíjas foglalkoztatási jogviszonyban
 
 eltöltött időt.
 

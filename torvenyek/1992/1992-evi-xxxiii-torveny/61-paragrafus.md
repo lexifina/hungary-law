@@ -18,21 +18,21 @@ ca) a „B” fizetési osztály bb) pontjában említett szakképesítésre ép
 
 cb)
 
-cc) a középiskola utolsó évfolyamának elvégzését igénylő szakképesítéshez kötött munkakör,
+cc) a középfokú végzettséget igénylő szakképesítéshez kötött munkakör,
 
-cd) a középiskolai végzettséghez kötött munkakör;
+cd) az érettségi végzettséghez kötött munkakör;
 
 d) a „D” fizetési osztályba
 
 da) a „C” fizetési osztály cb)–cc) pontjában említett szakképesítésre épülő szakképesítéshez kötött munkakör,
 
-db) a középiskolai végzettséget igénylő szakképesítéshez kötött munkakör;
+db) az érettségi végzettséget igénylő szakképesítéshez kötött munkakör;
 
 e) az „E” fizetési osztályba
 
 ea) az egyetemi, főiskolai végzettséget nem tanúsító felsőfokú szakképesítéshez, felsőoktatási szakképzésben szerzett szakképzettséghez kötött munkakör,
 
-eb) a középiskolai végzettséghez kötött akkreditált iskolai rendszerű felsőfokú szakképesítéshez kötött munkakör;
+eb) az érettségi végzettséghez kötött akkreditált iskolai rendszerű felsőfokú szakképesítéshez kötött munkakör;
 
 f) az „F” fizetési osztályba
 

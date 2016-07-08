@@ -43,3 +43,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1992-33-00-00
 | 2016-01-01 | 2015. évi CCVI. törvény | 1992-33-00-00.101 |
 | 2016-05-06 | 2016. évi XXXIII. törvény | 1992-33-00-00.102 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 1992-33-00-00.103 |
+| 2016-07-08 | 2016. évi LXXIX. törvény | 1992-33-00-00.104 |
