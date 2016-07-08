@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-18-00-00
 | 2014-08-01 | 2013. évi CCL. törvény | 2004-18-00-00.27 |
 | 2015-08-01 | 2015. évi XCVIII. törvény | 2004-18-00-00.28 |
 | 2016-01-01 | 2015. évi XCVIII. törvény | 2004-18-00-00.29 |
+| 2016-07-08 | 2016. évi LXXXVIII. törvény | 2004-18-00-00.30 |

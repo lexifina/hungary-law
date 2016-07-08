@@ -4,7 +4,7 @@
 
 13/A. § (1) Az 1308/2013/EU rendelet alapján oltalom alatt álló földrajzi jelzéssel rendelkező bort az ott meghatározott feltételek mellett lehet készíteni, amennyiben:
 
-a) meghatározott termőhelyen fekvő, legfeljebb 120 hl/ha seprős újbor hozamú szőlőültetvény terméséből készítik,
+a) meghatározott termőhelyen fekvő, legfeljebb 160 hl/ha seprős újbor hozamú szőlőültetvény terméséből készítik,
 
 b) természetes alkoholtartalma nem kisebb 8 térfogatszázaléknál (% vol).
 
