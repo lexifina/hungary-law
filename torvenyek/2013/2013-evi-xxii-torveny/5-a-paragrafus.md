@@ -1,0 +1,3 @@
+5/A. § (1) A Hivatal a feladatai ellátásához kapcsolódóan, az integrációs folyamatok előmozdítása érdekében nemzetközi együttműködés keretében a külföldi szabályozó hatóságokkal együttműködési megállapodást köthet, törvény rendelkezései szerint információkat cserélhet.
+
+(2) A Hivatal az (1) bekezdés szerinti nemzetközi együttműködés keretében az egyes külföldi szabályozó hatóságok részvételével működő, Magyarországon megalakult és budapesti székhelyű – a tagjai közötti együttműködést és az információcserét, az energiaszabályozás fejlesztését céljául tűző – Energiaszabályozók Regionális Egyesülete (Energy Regulators Regional Association, a továbbiakban: ERRA) tagja lehet.
