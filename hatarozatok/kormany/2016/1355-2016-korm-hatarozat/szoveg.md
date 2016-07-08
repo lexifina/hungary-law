@@ -46,4 +46,6 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
 
-6. visszavonja a Balaton Területfejlesztési Koncepció (2014–2030) és a Balaton Területfejlesztési Stratégiai Program elfogadásáról, valamint a Balaton Kiemelt Üdülőkörzet területén a 2014–2020-as uniós és hazai forrásokból megvalósuló beruházásokról szóló 1821/2015. (XI. 12.) Korm. határozatot.
+6.[^1]
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
