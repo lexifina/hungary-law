@@ -6,8 +6,8 @@ b) a tag halálával,
 
 c) a tag írásos lemondásával,
 
-d)[^19] a tag visszahívásának kezdeményezése esetén, ha a miniszter a megbízást visszavonja.
+d)[^21] a tag visszahívásának kezdeményezése esetén, ha a miniszter a megbízást visszavonja.
 
 (2) Visszahívás kezdeményezésére a delegáló jogosult.
 
-[^19]: A 18/C. § (1) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^21]: A 18/C. § (1) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
