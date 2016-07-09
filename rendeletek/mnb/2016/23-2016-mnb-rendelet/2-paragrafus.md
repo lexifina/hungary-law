@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme 925 ezrelék finomságú ezüstből készült, súlya 24 gramm, átmérője 37 mm, széle recézett.
+
+(2) Az emlékérme előlapján, körvonal által határolt középmezőben egy Szombathelyen feltárt ókeresztény lámpafüggesztő ábrázolása látható. Az emlékérme szélén, felső köriratban a „MAGYARORSZÁG” felirat, alsó köriratban a „10 000” értékjelzés és a „FORINT” felirat olvasható. A felső és az alsó köriratot bal oldalon a „BP.” verdejel, jobb oldalon a „2016” verési évszám választja el egymástól. A verdejelben legalább tízszeres nagyítás esetén látható, a verdejel adott betűjével megegyező betűket ábrázoló mikroírás került elhelyezésre. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben – ólomüvegablakot megjelenítő keretben – Szent Márton köpenymegosztási jelenetének ábrázolása látható. Az ábrázolás alsó szélén Lebó Ferenc tervezőművész mesterjegye található. Az emlékérme szélén, köriratban a „SZENT MÁRTON SZÜLETÉSÉNEK 1700. ÉVFORDULÓJA” felirat olvasható, lent egy díszítő motívum látható. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
