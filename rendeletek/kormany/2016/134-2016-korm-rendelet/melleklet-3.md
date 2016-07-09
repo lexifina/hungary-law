@@ -206,7 +206,7 @@
 
 | Nyíradonyi tankerület |
 
-| 31 | Berettyóújfalui | Hajdúszoboszlói tankerület |
+| 31 | Püspökladányi | Hajdúszoboszlói tankerület |
 
 | Berettyóújfalui tankerület |
 
@@ -414,6 +414,6 @@
 
 | Letenyei tankerület |
 
-3. melléklet a 134/2016. (VI. 10.) Korm. rendelethez[^8]
+3. melléklet a 134/2016. (VI. 10.) Korm. rendelethez[^9]
 
-[^8]: A 3. melléklet a 14. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^9]: A 3. melléklet a 14. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
