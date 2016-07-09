@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-85-00-00
 | --- | --- | --- |
 | 2016-07-08 | 2016. évi LXXXV. törvény | 2016-85-00-00.0 (közlönyállapot) |
 | 2016-07-08 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-85-00-00.1 |
+| 2016-07-09 | 2010. évi CXXX. törvény | 2016-85-00-00.2 |
