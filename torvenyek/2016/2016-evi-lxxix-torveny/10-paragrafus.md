@@ -1,3 +1,0 @@
-10. § Az Mvt. 64. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A munkáltatónak a munkaképtelenséggel járó munkabalesetet haladéktalanul ki kell vizsgálnia, és a kivizsgálás eredményét munkabaleseti jegyzőkönyvben kell rögzítenie. A kivizsgálás megkezdéséről a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosát tájékoztatni kell. A kivizsgálásban történő orvosi közreműködésről a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosa dönt. Súlyos munkabaleset esetén a foglalkozás-egészségügyi alapszolgáltatást biztosító szolgálat orvosának részt kell venni a kivizsgálásban. A munkaképtelenséget nem eredményező munkabaleset körülményeit is tisztázni kell.”
