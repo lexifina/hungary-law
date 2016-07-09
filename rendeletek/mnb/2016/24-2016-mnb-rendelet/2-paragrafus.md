@@ -1,0 +1,5 @@
+2. § (1) Az emlékérme réz (75%) és nikkel (25%) ötvözetéből készült, súlya 23,7 gramm, átmérője 37 mm, széle recézett.
+
+(2) Az emlékérme előlapján, jobb oldalon a szombathelyi Szent Márton-templom épülete részletének ábrázolása látható. Az emlékérme bal oldalán, egymás alatti vízszintes sorokban a „2000” értékjelzés, a „FORINT” felirat, a „BP.” verdejel és a „2016” verési évszám olvasható. A verdejelben legalább tízszeres nagyítás esetén látható, a verdejel adott betűjével megegyező betűket ábrázoló mikroírás került elhelyezésre. Az emlékérme szélén, felső köriratban a „MAGYARORSZÁG” felirat olvasható. Az emlékérme előlapjának képét az 1. melléklet tartalmazza.
+
+(3) Az emlékérme hátlapján, a középmezőben Szent Márton ábrázolása látható, egy gyógyult beteg társaságában. Az emlékérme szélén, köriratban, fent a „SZENT MÁRTON”, lent a „SAVARIA”, jobb oldalon az „A. D. 316” felirat olvasható. A feliratokat jobb oldalon Tóth Zoltán tervezőművész mesterjegye választja el egymástól. Az emlékérme hátlapjának képét a 2. melléklet tartalmazza.
