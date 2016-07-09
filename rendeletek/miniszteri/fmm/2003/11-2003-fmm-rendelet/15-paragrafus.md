@@ -10,9 +10,9 @@ b) biztosítja, hogy zuhanás esetén a fékerő nem ér el olyan határértéke
 
 c) a zuhanás megállítása után a munkavállalót olyan helyzetben rögzíti, hogy a lezuhant munkavállaló saját maga a szándékolt helyre tudjon jutni, illetőleg amelyben a segítségnyújtás szükség esetén megvárható.
 
-(3) Kizárólag olyan lezuhanásgátlók használhatók, amelyek az esetleges zuhanás során nem nyílnak ki, és nem deformálódnak.
+(3)[^40]
 
-(4) Alpintechnika során bármilyen tevékenység csak a lezuhanásgátló rendszerben szabályosan alkalmazott, véletlen kinyílás vagy kioldódás ellen biztosított (önzáró) eszközzel, illetve biztosítással végezhető úgy, hogy a biztosítás a kötél terhelésének megszűnése esetén sem oldódhat fel.
+(4)[^41]
 
 (5) A lezuhanásgátló rendszerben a keresztirányú terhelődés elkerülése érdekében megfelelő módszerrel (pl. gumikarika vagy ragasztószalag használatával) meg kell akadályozni az alkalmazott karabinerek véletlen elfordulását.
 
@@ -20,7 +20,7 @@ c) a zuhanás megállítása után a munkavállalót olyan helyzetben rögzíti,
 
 (7) A teljes testhevederzetnek bármely zuhanást gátló eszközzel, illetőleg az ülőpaddal történő összekötésére energia elnyelését biztosító eszközként energiaelnyelőt, 9 milliméternél nem vékonyabb dinamikus kötelet vagy kantárt szabad használni, csatlakozó közbeiktatásával.
 
-(8)[^32] Zuhanást gátló eszközként visszahúzható vagy vezérelt típusú lezuhanásgátló egyaránt használható.
+(8)[^42] Zuhanást gátló eszközként visszahúzható vagy vezérelt típusú lezuhanásgátló egyaránt használható.
 
 (9) A mászógép karabinere csatlakozásra szolgáló nyílásának a terhelés irányával párhuzamosnak kell lennie.
 
@@ -28,6 +28,9 @@ c) a zuhanás megállítása után a munkavállalót olyan helyzetben rögzíti,
 
 (11) Az alpintechnika során kizárólag olyan csatlakozó használható, amelynek terhelhetősége a felületén feltüntetésre került és kiképzése lehetővé teszi, hogy benne két kötél biztonságosan elhelyezhető legyen. Kézi rögzítésű csatlakozó csak akkor használható, ha a munkavégzés során nem kell gyakran átcsatlakoztatni.
 
-(12) Az ülőpadot az ereszkedő kötélhez megfelelő teherbírású statikus kötéllel vagy hevederrel kell biztonságosan rögzíteni. Az ülőpad a rögzítési ponthoz történő csatlakoztatás (biztosítás), illetve munkahelyzet-beállító deréköv helyettesítésére nem alkalmazható. Az ülőpad alatt keresztbe vezetett kötélgyűrűnek és az alkalmazott csomónak meg kell felelnie a várható igénybevételnek.
+(12)[^43] Az ülőpadot az ereszkedő kötélhez megfelelő teherbírású kötéllel vagy hevederrel kell biztonságosan rögzíteni. Az ülőpad a rögzítési ponthoz történő csatlakoztatás (biztosítás), illetve munkahelyzet-beállító deréköv helyettesítésére nem alkalmazható. Az ülőpad alatt keresztbe vezetett kötélgyűrűnek és az alkalmazott csomónak meg kell felelnie a várható igénybevételnek.
 
-[^32]: A 15. § (8) bekezdése a 45/2013. (X. 14.) NGM rendelet 10. §-ával megállapított szöveg.
+[^40]: A 15. § (3) bekezdését a 18/2016. (VI. 9.) NGM rendelet 9. § d) pontja hatályon kívül helyezte.
+[^41]: A 15. § (4) bekezdését a 18/2016. (VI. 9.) NGM rendelet 9. § d) pontja hatályon kívül helyezte.
+[^42]: A 15. § (8) bekezdése a 45/2013. (X. 14.) NGM rendelet 10. §-ával megállapított szöveg.
+[^43]: A 15. § (12) bekezdése a 18/2016. (VI. 9.) NGM rendelet 9. § e) pontja szerint módosított szöveg.

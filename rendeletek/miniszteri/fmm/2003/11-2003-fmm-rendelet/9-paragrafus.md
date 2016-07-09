@@ -1,17 +1,9 @@
 ## Az alpintechnika személyi feltételei
 
-9. § (1)[^25] Alpintechnikát csak olyan személy végezhet, aki
+9. §[^31] (1) Alpintechnikát csak az az ipari alpinista, ipari alpinista segéd, illetve ipari alpinista gyakornok végezhet, aki az előzetes és időszakos munkaköri, illetve szakmai alkalmasság orvosi vizsgálata alapján arra alkalmas.
 
-a) a 18. életévét betöltötte,
+(2) Ipari alpinista segéd és ipari alpinista gyakornok alpintechnikát csak ipari alpinista irányítása és felügyelete mellett végezhet.
 
-b) az Országos Képzési Jegyzékben meghatározott Ipari alpinista elnevezésű szakképesítéssel vagy ipari alpintechnika végzésére jogosító, jogszabály alapján elismert, vagy honosított külföldi bizonyítvánnyal vagy oklevéllel rendelkezik.
+(3) Az (1) bekezdés szerinti feltételeken túlmenően elölmászást csak az e tevékenységre kiképzett ipari alpinista végezhet.
 
-(2) Az (1) bekezdés szerinti feltételeken túlmenően
-
-a) különleges mentési feladatot olyan munkavállaló irányíthat, aki mentési gyakorlattal is rendelkezik,
-
-b) munkairányítással csak mentési és munkairányítói gyakorlattal is rendelkező munkavállaló bízható meg,
-
-c) előmászást csak az e tevékenységre kiképzett munkavállaló végezhet.
-
-[^25]: A 9. § (1) bekezdése a 45/2013. (X. 14.) NGM rendelet 7. §-ával megállapított szöveg.
+[^31]: A 9. § a 18/2016. (VI. 9.) NGM rendelet 6. §-ával megállapított szöveg.
