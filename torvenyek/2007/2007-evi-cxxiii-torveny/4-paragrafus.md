@@ -52,7 +52,7 @@ h) elektronikus hírközlési szolgáltatás céljából, ha az elektronikus hí
 
 i) örökségvédelem céljából, ha védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely örökségvédelmi érdekei másként nem biztosíthatóak, így különösen, ha
 
-ia) az érintett ingatlanon olyan tevékenység folyik, amely kisajátítás hiányában a védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely megsemmisülését eredményezi,
+ia) az érintett ingatlanon olyan tevékenység folyik, amely kisajátítás hiányában a védetté nyilvánított régészeti lelőhely vagy műemlék, továbbá a nemzeti emlékhely megsemmisülését eredményezi, vagy amely által az a veszély fenyeget, hogy a védelem alapját képező értékeit helyreállíthatatlanul elveszti;
 
 ib) a védetté nyilvánított régészeti lelőhely vagy műemlék feltárása, védőövezetének kialakítása, megközelítése másként nem lehetséges,
 

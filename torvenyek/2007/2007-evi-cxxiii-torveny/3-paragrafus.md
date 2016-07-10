@@ -6,7 +6,7 @@ b) az ingatlan tulajdonjogának megszerzése adásvétel vagy csere útján nem 
 
 c) a közérdekű cél megvalósítására kizárólag az adott ingatlanon kerülhet sor, illetve ha a közérdekű cél megvalósítására több ingatlan alkalmas, annak más ingatlanon való megvalósítása a tulajdon nagyobb sérelmével járna; és
 
-d) a kisajátítással biztosított tevékenység közösségi előnyei a tulajdon elvonásával okozott kárt jelentősen meghaladják. Ennek mérlegelése során a kisajátítási hatóság a közérdekű tevékenység jelentőségét, így különösen a terület fejlődésére gyakorolt hatását, a tevékenységgel, szolgáltatással ellátásra kerülők számát, a foglalkoztatásra gyakorolt hatását és az ingatlan jellemzőit kell egybevetnie, örökségvédelmi érték, természetvédelmi érték esetén annak jelentőségét és a tulajdonelvonás arányosságát kell vizsgálnia.
+d) a kisajátítással biztosított tevékenység közösségi előnyei a tulajdon elvonásával okozott kárt jelentősen meghaladják. Ennek mérlegelése során a kisajátítási hatóság a közérdekű tevékenység jelentőségét, így különösen a terület fejlődésére gyakorolt hatását, a tevékenységgel, szolgáltatással ellátásra kerülők számát, a foglalkoztatásra gyakorolt hatását és az ingatlan jellemzőit kell egybevetnie, a kulturális örökség védett elemei aktuális állapotát, veszélyeztetettségének mértékét, természetvédelmi érték esetén annak jelentőségét és a tulajdonelvonás arányosságát kell vizsgálnia.
 
 (2) Az adásvételi vagy csereszerződés megkötését meghiúsultnak kell tekinteni, ha
 
