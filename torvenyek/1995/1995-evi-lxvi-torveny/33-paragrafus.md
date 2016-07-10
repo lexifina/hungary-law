@@ -1,4 +1,4 @@
-33. § (1) A kulturális örökségvédelmi hatóság (a továbbiakban: hatóság), a kulturális örökség védelméről szóló törvény alapján – a (2) bekezdésben felsorolt kivételekkel – védett levéltári anyaggá nyilváníthatja a nem levéltárban, muzeális intézményben és könyvtárban őrzött, 50 évnél régebben keletkezett maradandó értékű magániratokat, továbbá a keletkezés idejétől függetlenül:
+33. § (1) A kulturális javak hatósági feladatkörében eljáró kulturális örökség hatósága (a továbbiakban: hatóság), a kulturális örökség védelméről szóló törvény alapján – a (2) bekezdésben felsorolt kivételekkel – védett levéltári anyaggá nyilváníthatja a nem levéltárban, muzeális intézményben és könyvtárban őrzött, 50 évnél régebben keletkezett maradandó értékű magániratokat, továbbá a keletkezés idejétől függetlenül:
 
 a) a társadalmi, politikai, gazdasági, kulturális és tudományos életben jelentős szerepet betöltő személyek irathagyatékát;
 
