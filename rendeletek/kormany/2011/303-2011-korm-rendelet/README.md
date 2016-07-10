@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-303-20-
 | 2013-05-22 | 2011-303-20-22.2 | 146/2013. (V. 14.) Korm. rendelet |
 | 2014-04-02 | 2011-303-20-22.3 | 104/2014. (III. 25.) Korm. rendelet |
 | 2015-03-12 | 2011-303-20-22.4 | 104/2014. (III. 25.) Korm. rendelet |
+| 2016-07-10 | 2011-303-20-22.5 | 173/2016. (VII. 1.) Korm. rendelet |
