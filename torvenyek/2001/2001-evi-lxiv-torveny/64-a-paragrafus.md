@@ -1,1 +1,1 @@
-64/A. § A kulturális örökség védelmével kapcsolatos tudományos feladatok ellátásában a jogszabályban kijelölt szervek vesznek részt.
+64/A. § A miniszter vita esetén dönt arról, hogy valamely tárgy, létesítmény vagy jelenség a kulturális örökség körébe tartozik-e.

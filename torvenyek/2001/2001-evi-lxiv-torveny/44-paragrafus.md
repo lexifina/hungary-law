@@ -1,17 +1,19 @@
+## A műemlékek hasznosítására és tulajdonjogának átruházására irányuló jogügyletek
+
 44. § (1) A miniszter jóváhagyása szükséges
 
-a) az állami tulajdonban álló műemlék tulajdonjogának bármely jogcímen való átruházásához és megterheléséhez,
+a) az olyan jogügylethez, melynek alapján a nemzeti vagyon körébe tartozó műemlék tulajdonjoga átruházásra kerül, vagy az egyéb módon kikerül a nemzeti vagyon köréből, vagy azon osztott tulajdon létesül,
 
-b) az állami tulajdonban álló műemlék vagyonkezelőjének kijelöléséhez vagy annak megváltoztatásához,
+b) az olyan jogügylethez, amely az állami vagyon körébe tartozó műemléket – a jogszabályban foglaltak szerint, közérdekből alapított használati jog, vezetékjog, szolgalom kivételével – megterheli, biztosítékul adja,
 
-c) vagyonkezelő hiányában az állami tulajdonban álló műemlék hasznosítására irányuló bármely jogügylethez,
+c) az állami tulajdonban álló műemlék vagyonkezelőjének kijelöléséhez vagy annak megváltoztatásához,
 
-d) bármely olyan jogügylethez, amelynek következtében az állam vagy az önkormányzat tulajdonjoga megszűnik a műemlék felett.
+d) vagyonkezelő hiányában az állami tulajdonban álló műemlék hasznosítására irányuló bármely jogügylethez.
 
-(2) Jóváhagyás hiányában a jogügylet érvénytelen.
+(2) Az (1) bekezdés szerinti előzetes jóváhagyás a jogügylet érvényességi kelléke.
 
-(3) A miniszteri jognyilatkozat kormányrendeletben meghatározott határidőn belüli kiadásának igazolt elmaradását hozzájárulásnak kell tekinteni. A hozzájárulást megtagadó jognyilatkozat bírósági úton pótolható.
+(3) A miniszter jóváhagyását megtagadhatja, ha az (1) bekezdésben meghatározott jogügylet a védettséget megalapozó értéket veszélyezteti, vagy az a védett érték egységes tulajdonosi szerkezetének kialakítását, egységes hasznosítását nem szolgálja.
 
-(4) Állami vagy önkormányzati tulajdonban álló műemlék ingatlannal kapcsolatos, az (1) bekezdéssel összefüggő bejegyzéshez a miniszternek a jogügyletre vonatkozó hozzájáruló jognyilatkozata szükséges.
+(4) A nemzeti vagyon körébe tartozó műemlék ingatlannal kapcsolatos, az (1) bekezdés a)–c) pontja szerinti jogügylettel összefüggő ingatlan-nyilvántartási kérelem kötelező mellékletét képezi a miniszter hozzájáruló jognyilatkozata.
 
 (5) Ha a műemlék – a Tv. alapján – az állami tulajdon fenntartása mellett az önkormányzat ingyenes használatába került, a Tv. 27. § (4) bekezdésében foglalt körülmények megváltozása vagy az ott megadott feltételek nem teljesítése esetén a miniszter jogosult az ingyenes használati jog felülvizsgálatára, megvonására.

@@ -2,4 +2,4 @@
 
 (2) A műemlék jogszabályban meghatározott környezete műemléki környezetnek minősül.
 
-(3) Ha a helyi építési szabályzattal érintett terület utóbb válik műemléki jelentőségű területté vagy műemléki környezetté, úgy a védettséget kihirdető miniszteri rendelet hatálybalépésétől számított 6 hónapon belül a helyi építési szabályzatban a védettség tartalmának megfelelő változtatásokat át kell vezetni.
+(3)

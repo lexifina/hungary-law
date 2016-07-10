@@ -1,6 +1,6 @@
 ## III. RÉSZ
 
-## A HIVATAL ÉS A HATÓSÁG FELADATAI
+## A HATÓSÁG FELADATAI
 
 62. § A hatóság feladata a kulturális örökség elemei megőrzésének, fenntartható használatának elősegítése és támogatása. Ennek érdekében ellátja:
 

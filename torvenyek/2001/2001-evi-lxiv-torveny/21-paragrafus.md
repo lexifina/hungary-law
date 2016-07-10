@@ -4,11 +4,11 @@
 
 21. § (1) A próbafeltárás célja
 
-a) a régészeti érdekű területek régészeti érintettségének megállapítása az előzetes régészeti dokumentáció készítése során végzett próbafeltárás kivételével,
+a) a terület régészeti érintettségének megállapítása,
 
-b) a nyilvántartott régészeti lelőhely védetté nyilvánításának előkészítése során a lelőhelyek védelmi fokozatának megállapítása és osztályozása,
+b) régészeti lelőhelyek állapotának felmérése, jellegének, térbeli kiterjedésének és rétegsorainak megállapítása,
 
-c) tervásatás esetén a régészeti lelőhelyek állapotának felmérése, jellegének, térbeli kiterjedésének és rétegsorainak megállapítása,
+c) a nyilvántartott régészeti lelőhely védetté nyilvánításának előkészítése során a lelőhelyek védelmi fokozatának megállapítása és osztályozása,
 
 d) megelőző feltárás esetén a veszélyeztető forrásoknak, valamint a megelőző feltárás módjának és mértékének meghatározása,
 

@@ -6,4 +6,4 @@
 
 (3) A hatóság az (1) és (2) bekezdésben foglaltaktól eltérően is rendelkezhet.
 
-(4) A régészeti emlékek kezeléséről – a feltárás eredményének, a terület adottságainak, a tervezett fejlesztés, beruházás műszaki tartalmának ismeretében – külön jogszabály rendelkezik.
+(4) A régészeti emlékek kezeléséről – a feltárás eredményének, a terület adottságainak, a földmunkával járó, tervezett beruházás műszaki tartalmának ismeretében – külön jogszabály rendelkezik.

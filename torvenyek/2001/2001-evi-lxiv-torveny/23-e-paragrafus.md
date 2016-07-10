@@ -2,15 +2,19 @@
 
 23/E. § (1) A nagyberuházást megelőző feltárás elvégzésére csak a terület rendelkezésre állása esetén köthető szerződés.
 
-(2) A nagyberuházást megelőző feltárást csak akkreditált, feltárásra jogosult intézmény (a továbbiakban: akkreditált intézmény) vagy a Hivatal végezheti jogszabályban meghatározottak szerint.
+(2) A nagyberuházást megelőző feltárást csak akkreditált, feltárásra jogosult intézmény (a továbbiakban: akkreditált intézmény) vagy a jogszabályban kijelölt örökségvédelmi szerv végezheti jogszabályban meghatározottak szerint.
 
-(3) A megelőző feltárás elvégzésébe az akkreditált intézmény vagy a Hivatal a gyűjtőterületén érintett területi múzeumot vagy a gyűjtőterületén érintett megyei hatókörű városi múzeumot – annak kapacitása erejéig – bevonhatja.
+(2a) A beruházó a szerződéskötés szándékáról a feltárási projekttervben megjelölt, feltárásra jogosult akkreditált intézményt és a jogszabályban kijelölt örökségvédelmi szervet egyidejűleg értesíti, elektronikus úton is.
 
-(4) Régészeti feladatellátás jogszabályban meghatározottak szerinti elvégzésébe kizárólag akkreditált intézmény vagy akkreditált szervezet vonható be. Akkreditált szervezet a megelőző feltárás elvégzésében csak az akkreditált intézmény vagy a Hivatal alvállalkozójaként vehet részt.
+(2b) Ha az akkreditált intézmény a megelőző feltárásra vonatkozó szerződést a 22. § (11) bekezdésében meghatározott 15 napos határidőn belül nem köti meg, akkor a jogszabályban kijelölt örökségvédelmi szerv gondoskodik a régészeti feladatellátás elvégzéséről.
+
+(3) A megelőző feltárás elvégzésébe az akkreditált intézmény vagy a jogszabályban kijelölt örökségvédelmi szerv a gyűjtőterületén érintett területi múzeumot vagy a gyűjtőterületén érintett megyei hatókörű városi múzeumot – annak kapacitása erejéig – bevonhatja.
+
+(4) Régészeti feladatellátás jogszabályban meghatározottak szerinti elvégzésébe kizárólag akkreditált intézmény vagy akkreditált szervezet vonható be. Akkreditált szervezet a megelőző feltárás elvégzésében csak az akkreditált intézmény vagy a jogszabályban kijelölt örökségvédelmi szerv alvállalkozójaként vehet részt.
 
 (5) Nagyberuházás megvalósítása esetén a kivitelezés földmunkái régészeti megfigyelés mellett végezhetőek.
 
-(6) A nagyberuházáshoz kapcsolódó régészeti megfigyelést akkreditált intézménynek kell végezni a feltárás vezetőjének irányításával.
+(6) A nagyberuházáshoz kapcsolódó régészeti megfigyelést jogszabályban meghatározottak szerint akkreditált intézménynek vagy a jogszabályban kijelölt örökségvédelmi szervnek kell végezni.
 
 (7) A régészeti megfigyelés során előkerülő régészeti lelőhelyek feltárási módjáról és feltételeiről jogszabályban meghatározottak szerint a hatóság dönt.
 

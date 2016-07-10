@@ -1,10 +1,12 @@
-63. § (1) A nyilvántartott műemléki értéken, a műemléken végzett építési tevékenységek esetén az építésügyi hatóság jogszabályban meghatározott esetekben és módon építésügyi hatósági engedélyezési és kötelezési eljárást folytat le, ellenőrzést végez.
+63. § (1) A védett műemléki értéken végzett építési tevékenységek esetén az építésügyi és építésfelügyeleti hatóság jogszabályban meghatározott esetekben és módon építésügyi hatósági engedélyezési és kötelezési eljárást folytat le, ellenőrzést végez.
 
 (2)
 
-(3) A hatóság engedélyezi az építésügyi hatósági vagy más hatósági engedélyhez nem kötött – jogszabályban meghatározott – tevékenységeket.
+(3) A hatóság engedélyezi vagy tudomásul veszi az építésügyi hatósági vagy más hatósági engedélyhez nem kötött – jogszabályban meghatározott – tevékenységeket.
 
-(4) Műemlékvédelmi érdekből a hatóságnak a műemlék felújítási, helyreállítási munkáinak engedélyezése során az országos építésügyi szabályoktól és a kötelezően alkalmazandó szabványoktól való eltérést a műemléki értékek megőrzése érdekében előnyben kell részesítenie, a nyilvántartott műemléki érték esetében pedig ezen szabályoktól és szabványoktól eltérhet. Az eltérés akkor engedélyezhető, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel vagy az élet- és vagyonbiztonság más módon biztosítható.
+(4) Műemlékvédelmi érdek érvényesítése céljából a műemlék fenntartása, különösen helyreállítása során az országos építési követelményektől, a településrendezési eszközöktől, annak részeként a helyi építési szabályzattól a tervezés folyamán és a hatósági eljárásban el lehet térni. A nemzeti szabványoktól való eltérést a műemléki értékek megőrzése érdekében előnyben kell részesíteni, ha az alkalmazandó megoldás az élet- és vagyonbiztonság követelményeinek megfelel, vagy az élet- és vagyonbiztonság más módon biztosítható.
+
+(4a) A (4) bekezdés értelmezésében a műemlékvédelmi érdek alatt a védett műemléki érték megőrzését, fenntartását biztosító védelem és azt elősegítő közérdekű szempontok együttesét kell érteni.
 
 (5) A hatóság az örökségvédelmi felügyelet keretében
 

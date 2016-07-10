@@ -333,3 +333,55 @@ Egri Vár
 |
 
 cím: 3300 Eger, Vár 1.
+
+|
+
+|
+
+14.
+
+|
+
+Nagycenk, Széchenyi-kastély műemléki együttese
+
+|
+
+cím: 9485 Nagycenk, Kiscenki út 3.
+
+|
+
+|
+
+15.
+
+|
+
+Szigetvár, vár
+
+|
+
+cím: 7900 Szigetvár, Vár utca
+
+|
+
+|
+
+16.
+
+|
+
+Esztergom, Várhegy és Víziváros
+
+|
+
+A Főszékesegyház (Bazilika) épülete
+
+cím: 2500 Esztergom, Szent István tér 1.,
+
+a királyi palota maradványa és a vár épületei
+
+cím: 2500 Esztergom, Szent István tér 2., valamint
+
+az Érseki Palota épülete: a Prímási Levéltár, a Simor Érseki Könyvtár és a Keresztény Múzeum
+
+cím: 2500 Esztergom, Bercsényi utca 2.

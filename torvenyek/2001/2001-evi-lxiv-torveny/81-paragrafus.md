@@ -14,7 +14,7 @@ f) kártalanítás;
 
 g) a régészeti emlék vagy lelet felfedezőjének jutalmazása;
 
-h) a műemlékek, kiemelten a veszélyeztetett műemlékek helyreállításának támogatása;
+h) a műemlékek, kiemelten a veszélyeztetett műemlékek állagmegóvásának, helyreállításának vagy jókarbantartásának támogatása;
 
 i) a műemlékek fennmaradását és méltó hasznosítását is szolgáló helyi önkormányzati fejlesztési programok támogatása;
 
@@ -24,7 +24,7 @@ k) a határon túli magyar vonatkozású kulturális örökséggel kapcsolatos f
 
 l) nyilvántartási feladatok;
 
-m) a Hivatal által a 21. § (1) bekezdés a) pontja alapján végzett próbafeltárások finanszírozása;
+m) a 21. § (1) bekezdés a) pontja alapján végzett próbafeltárások finanszírozása;
 
 n) örökségvédelmi érdekű tudományos kutatási feladatok ellátására és szervezésére;
 

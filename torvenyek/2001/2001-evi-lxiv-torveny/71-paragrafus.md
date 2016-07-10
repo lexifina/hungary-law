@@ -1,6 +1,6 @@
 ## Nyilvántartások
 
-71. § (1) A Hivatal vezeti
+71. § (1) A hatóság vezeti
 
 a) a régészeti lelőhelyek,
 
@@ -10,11 +10,11 @@ c) a védetté nyilvánított régészeti lelőhelyek,
 
 d) a műemléki értékek, a műemlékek, a műemléki jelentőségű területek, a műemléki környezetek és a történeti tájak,
 
-e) a világörökségi és a világörökségi várományosi helyszínek
+e) a világörökségi és a világörökségi várományos helyszínek és területek
 
 központi, közhiteles nyilvántartását, amely tartalmazza az a)–e) pontban meghatározottakkal összefüggő adatokat.
 
-(2) A Hivatal központi nyilvántartást vezet
+(2) A hatóság központi nyilvántartást vezet
 
 a) a védetté nyilvánított kulturális javakról,
 

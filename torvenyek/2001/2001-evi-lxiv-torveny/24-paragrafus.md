@@ -6,12 +6,12 @@
 
 a) az általa folytatott tevékenységet azonnal abbahagyni,
 
-b) a hatóság útján a Hivatalnak azt haladéktalanul bejelenteni, amely arról haladéktalanul tájékoztatja a mentő feltárás elvégzésére a 22. § (5) bekezdése szerint jogosult intézményt, valamint
+b) a jegyző útján a hatóságnak azt haladéktalanul bejelenteni, amely arról haladéktalanul tájékoztatja a mentő feltárás elvégzésére a 22. § (5) bekezdése szerint feltárásra jogosult intézményt, valamint
 
 c) a tevékenységet szüneteltetni, továbbá a helyszín és a lelet őrzéséről – a felelős őrzés szabályai szerint – a feltárásra jogosult intézmény intézkedéséig gondoskodni.
 
 (3) A feltárásra jogosult intézmény köteles a mentő feltárást haladéktalanul megkezdeni, és folyamatosan – az elvárható ütemben – végezni, az előkerült régészeti leletet ideiglenesen elhelyezni.
 
-(4) Ha a mentő feltárást nem lehet 30 nap alatt elvégezni, a hatóság hivatalból vagy a Hivatal javaslatára ideiglenesen védetté nyilváníthatja a földterületet.
+(4) Ha a mentő feltárást nem lehet 30 nap alatt elvégezni, a hatóság hivatalból vagy a feltárást végző intézmény javaslatára ideiglenesen védetté nyilváníthatja a földterületet.
 
-(5) A feltárást végző intézmény köteles a feltárás befejezését követő 30 napon belül a lelőhely ismertté vált adatait jogszabályban meghatározott módon bejelenteni. A lelőhelyet a Hivatal nyolc napon belül nyilvántartásba veszi.
+(5) A feltárást végző intézmény köteles a feltárás befejezését követő 30 napon belül a lelőhely ismertté vált adatait jogszabályban meghatározott módon bejelenteni. A lelőhelyet a hatóság nyolc napon belül nyilvántartásba veszi.

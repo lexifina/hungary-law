@@ -20,9 +20,9 @@ h) szabályozza a nagyberuházásokkal kapcsolatos régészeti feladatellátás 
 
 i) meghatározza a régészeti feltárásra vonatkozó szerződésre irányuló múzeumi ajánlattétel adattartalmát, a régészeti feltárásra irányuló szerződés kötelező elemeit, valamint a megelőző feltárás módszerei alkalmazásának eseteit és szabályait;
 
-j) meghatározza a védetté nyilvánított régészeti lelőhelyek és a műemlékek ellenőrzésének szabályait;
+j) meghatározza a védetté nyilvánított régészeti lelőhelyek és a védett műemléki értékek ellenőrzésének szabályait;
 
-k) meghatározza azokat a nyilvántartott régészeti lelőhelyeket, amelyeket a földmunkával járó fejlesztésekkel, beruházásokkal el kell kerülni, a régészeti feltárások részletes szabályait, a régészeti feltárásra alkalmas nap fogalmát, valamint az elektronikus lelőhely-bejelentés szabályait;
+k) meghatározza azokat a nyilvántartott régészeti lelőhelyeket, amelyeket a földmunkával járó beruházásokkal el kell kerülni, a régészeti feltárások részletes szabályait, a régészeti feltárásra alkalmas nap fogalmát, valamint az elektronikus lelőhely-bejelentés szabályait;
 
 l) meghatározza a feltáráson előkerülő, a helyszínen meg nem őrizhető régészeti emlékek, valamint a műemléktől elvált alkotórészek, tartozékok, berendezési tárgyak elhelyezésének szabályait;
 
@@ -30,13 +30,13 @@ m) meghatározza a régészeti feltárásra vonatkozó jogszabályi vagy a felt�
 
 n) szabályozza az örökségvédelemmel kapcsolatos szakértői tevékenységek szakmagyakorlási feltételeit, ennek keretében a szakértői tevékenység bejelentésének és a szakértők nyilvántartásának adattartalmát, valamint a bejelentésre és a nyilvántartás vezetésére vonatkozó részletes eljárási szabályokat, a szakértők igénybevételének eseteit, továbbá a szakértői tevékenységre jogszabályban vagy hatósági határozatban előírt kötelezettségek be nem tartása esetén alkalmazandó jogkövetkezményeket;
 
-o) meghatározza a védelem alá vonni tervezett lelőhelyen, a lelőhely régészeti övezetéhez tartozó területen, a műemléki jelentőségű területen, továbbá a műemléki környezetben és történeti táj területén álló ingatlanok, a műemlék ingatlanok tulajdonosai és az egyéb érintett személyek vonatkozásában az értesítési kötelezettséget;
+o)
 
 p)
 
 q) meghatározza, hogy mely ingatlanok minősülnek, illetve jelölhetők ki műemléki környezetnek;
 
-r) meghatározza az örökségvédelmi engedélyhez kötött tevékenységeket és az e tevékenységekkel kapcsolatos követelményeket;
+r) meghatározza az örökségvédelmi engedélyhez vagy tudomásulvételhez kötött tevékenységeket és az e tevékenységekkel kapcsolatos követelményeket;
 
 s) meghatározza a műemlékek tudományos kutatásának, értékvizsgálatának szabályait, az építéstörténeti kutatási dokumentáció kötelező tartalmi elemeit;
 
@@ -44,13 +44,13 @@ t) állapítsa meg a kiemelt nemzeti emlékhely nemzeti kulturális értéke meg
 
 u) állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság véleményének kikérésével – a kiemelt nemzeti emlékhely területére vonatkozó közterület-használat szabályait és díjait.
 
-v) meghatározza az örökségvédelmi tanácsadó testületek működtetésével kapcsolatos feladatokat;
+v)
 
 w) szabályozza a fémkereső műszer használatát;
 
-x) állapítsa meg a nyilvántartott műemléki érték, a műemlék, a műemléki terület fenntartására és méltó használatára, a műemléki értéket érintő tevékenységek támogatására vonatkozó szabályokat;
+x) állapítsa meg a védett műemléki érték fenntartására és méltó használatára, a műemléki értéket érintő tevékenységek támogatására vonatkozó szabályokat;
 
-y) állapítsa meg a műemléki értéket érintő engedélyhez kötött tevékenységek végzésének szabályait.
+y) állapítsa meg a műemléki értéket érintő örökségvédelmi engedély iránti kérelemhez vagy bejelentéshez kötött tevékenységek végzésének szabályait.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben megállapítsa
 
@@ -74,7 +74,7 @@ i) a nyilvántartott régészeti lelőhelyek védetté nyilvánítását és a v
 
 j) az örökségvédelem körében a hatósági és egyéb nyilvántartás szabályait és a hatósági nyilvántartással összefüggő igazgatási szolgáltatási díj mértékét és a fizetésre vonatkozó egyéb szabályokat;
 
-k)
+k) az örökségvédelmi tanácsadó testületek működtetésével kapcsolatos feladatokat és szabályokat;
 
 l)
 

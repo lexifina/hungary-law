@@ -11,3 +11,7 @@ c) a Magyar Nemzeti Múzeum gondoskodik, ha az a)–b) pont szerint a gyűjtőte
 (3) A Magyar Nemzeti Múzeum által végzett tervásatás esetén a leletanyag végleges befogadására a Magyar Nemzeti Múzeum jogosult.
 
 (4) A befogadó múzeumot illeti meg a végleges leletbefogadás költségeinek megfelelő összeg, amely a befogadott leletek mennyiségével arányos egyszeri költségek, különösen a gyűjteményi alapleltárba vétele és a raktárkapacitás bővítésének fedezetére szolgál.
+
+(5) Ha a feltárást nem a befogadó múzeum végzi, a végleges leletbefogadás költségeiről a feltáró intézmény és a befogadó múzeum a kultúráért felelős miniszter e törvény felhatalmazása alapján kiadott, az elsődleges leletfeldolgozás és a leletanyag végleges befogadásának szabályaira vonatkozó rendeletében meghatározottak szerint megállapodást köt.
+
+(6) Előzetes régészeti dokumentáció keretében végzett régészeti feltárás esetén előkerült leletanyag végleges befogadásáért legfeljebb a feltárás régészeti költségének 10%-áig terjedő összeg illeti meg a befogadó múzeumot e kötelezettsége teljesítésekor.

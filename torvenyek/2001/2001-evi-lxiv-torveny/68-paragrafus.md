@@ -1,4 +1,4 @@
-68. § (1) A hatóság a 63. § (3) bekezdésben meghatározott tevékenységek vonatkozásában kulturális örökségvédelmi érdekből elrendelheti:
+68. § (1) A hatóság kulturális örökségvédelmi érdekből elrendelheti:
 
 a) a védetté nyilvánított kulturális örökséghez tartozó javak felülvizsgálatát, felújítását, helyreállítását;
 

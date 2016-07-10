@@ -14,4 +14,6 @@ soron kívül, a jogszabályban meghatározott tartalmú értékvizsgálat alapj
 
 (4) Az ideiglenes védelem megszűnik a határozatban megjelölt időtartam elteltével, illetve a műemlékké nyilvánításról szóló rendelet hatálybalépésével.
 
+(4a) Az ideiglenes műemléki védettség ismételten nem rendelhető el.
+
 (5) Ha a hatóság a műemlékké nyilvánítás előkészítése során megállapítja, hogy a védetté nyilvánítás nem indokolt, az ideiglenes védettséget meg kell szüntetni. Az ideiglenes műemléki védettség elrendeléséről és megszüntetéséről a 29. § (3) bekezdésében felsoroltakat értesíteni kell.

@@ -12,4 +12,4 @@ d) a védetté nyilvánítás indokát,
 
 e) a földrészlet és a régészeti védőövezet helyrajzi számát,
 
-f) az állam elővásárlási jogáról szóló tájékoztatást.
+f) az állam elővásárlási joga fennállásának tényét.

@@ -2,7 +2,11 @@
 
 22. § (1) A nyilvántartott régészeti lelőhelynek a beruházással kapcsolatos földmunkával érintett részén megelőző régészeti feltárást kell végezni.
 
-(2) A földmunkával járó beruházások előkészítése során előzetes régészeti dokumentáció készíthető, különösen a földterület-kiválasztáshoz és nyomvonal-kijelöléshez. Nem nagyberuházás esetén a beruházó az előzetes régészeti dokumentáció készítésével a feltárásra jogosult intézményt bízhat meg.
+(2) A földmunkával járó beruházások előkészítése során előzetes régészeti dokumentáció készíthető, különösen a földterület-kiválasztáshoz és nyomvonal-kijelöléshez. Nem nagyberuházás esetén a beruházó az előzetes régészeti dokumentáció készítésével feltárásra jogosult intézményt bízhat meg.
+
+(2a) A földmunkával járó, nagyberuházásnak nem minősülő, új nyomvonalú, külterületi közútépítések előkészítése során a beruházó a régészeti érintettség felderítése érdekében a feltárásra jogosult intézménnyel előzetes régészeti dokumentációt köteles készíttetni a kerékpárút kivételével.
+
+(2b) A nagyberuházásnak nem minősülő, földmunkával járó beruházások előkészítése során az előzetes régészeti dokumentáció tartalmi elemeire a 23/C. § (2) és (5) bekezdésében, valamint a 23/D. § (1) és (2) bekezdésében foglaltakat kell alkalmazni.
 
 (3) A nyilvántartási adatok és – ha rendelkezésre áll – az előzetes régészeti dokumentáció adatai, valamint a beruházás régészeti örökségre gyakorolt hatása alapján a védettségi fokozat figyelembevételével a hatóság – jogszabályban meghatározottak szerint – a megelőző feltárás keretében
 

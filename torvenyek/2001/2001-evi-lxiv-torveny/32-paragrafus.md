@@ -8,8 +8,8 @@ b) a védetté nyilvánított műemléki érték meghatározását, a védelem c
 
 c) a védelem fajtáját (műemlék, műemléki terület),
 
-d) az egyedileg védett ingatlanra (ingatlanrészre) vonatkozó, elővásárlási joggal kapcsolatos rendelkezést,
+d) az egyedileg védett ingatlanra (ingatlanrészre) vonatkozó, elővásárlási joggal kapcsolatos rendelkezést, ha a védetté nyilvánítást megalapozó érték kiemelkedő jelentősége indokolja,
 
-e) a műemléknek az örökségvédelmi bírság szerinti számítási kategóriájába és a védelem kormányrendeletben meghatározott további szempontjai szerinti kategóriába sorolását,
+e) a műemléknek kormányrendeletben meghatározott szempontjai szerinti kategóriába sorolását,
 
 f) a műemlék ingatlan (ingatlanrész) és a műemléki terület meghatározását, az azonosításához szükséges helyrajzi adatokkal.

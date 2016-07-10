@@ -28,6 +28,6 @@ e) a régészet szakon mesterképzés folytatására jogosult felsőoktatási in
 
 f) a Magyar Tudományos Akadémia Bölcsészettudományi Kutatóközpont Régészeti Intézete, valamint
 
-g) a Hivatal.
+g) a jogszabályban kijelölt örökségvédelmi szerv.
 
 (5) A jogszabályi vagy a feltárási engedélyben foglalt előírások megszegése esetén a hatóság – jogszabályban meghatározottak szerint – a feltárást leállítja vagy a régészeti feltárásra vonatkozó engedélyt visszavonja, jogszabályban meghatározott esetekben örökségvédelmi bírság kiszabásáról rendelkezik.

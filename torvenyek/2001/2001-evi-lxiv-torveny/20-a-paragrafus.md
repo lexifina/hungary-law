@@ -1,4 +1,4 @@
-20/A. § (1) Fémkereső műszer használata – a hivatás gyakorlásához jogszabályban meghatározott módon szükséges használat kivételével – hatósági engedély alapján végezhető tevékenység.
+20/A. § (1) Fémkereső műszer használata – a hivatás gyakorlásához jogszabályban meghatározott módon szükséges használat kivételével – hatósági engedély alapján végezhető feltárási tevékenység.
 
 (2) A hivatás gyakorlásához szükséges használatot jogszabályban meghatározott módon be kell jelenteni.
 
