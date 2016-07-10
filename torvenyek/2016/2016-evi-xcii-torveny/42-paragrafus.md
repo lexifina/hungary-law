@@ -1,0 +1,1 @@
+42. § A Kstv. 3. § (1) bekezdés d) pontjában a „kell egybevetnie, örökségvédelmi érték, természetvédelmi” szövegrész helyébe a „kell egybevetnie, a kulturális örökség védett elemei aktuális állapotát, veszélyeztetettségének mértékét, természetvédelmi” szöveg lép.

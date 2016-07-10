@@ -1,0 +1,3 @@
+40. § A Kstv. 24/C. §-a helyébe a következő rendelkezés lép:
+
+„24/C. § A 18. §-ban foglalt esetben a kisajátítási eljárást a kisajátítást kérő kérelmére – legfeljebb a kárelhárítási intézkedések végrehajtásához szükséges időtartamra – fel kell függeszteni. Az eljárást a kisajátítást kérő kérelmére, de legkésőbb a kárelhárítási intézkedések befejezését követően folytatni kell. Ha a kisajátítást kérő a kárelhárítási intézkedések befejezését megelőzően vagy azzal egyidejűleg nem kérte az eljárás folytatását, a kárelhárítási intézkedések befejezését köteles a kisajátítási hatóság részére haladéktalanul bejelenteni.”
