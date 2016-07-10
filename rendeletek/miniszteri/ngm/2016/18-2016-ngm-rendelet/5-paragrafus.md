@@ -1,3 +1,0 @@
-## 4. § Az R1. 5. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A munkáltató a 4. §-ban meghatározott kötelezettségeinek teljesítéséhez köteles ipari alpinistát (a továbbiakban: munkairányító) írásban kijelölni és igénybe venni. A munkairányító elsődleges feladata az egészséget nem veszélyeztető és a biztonságos munkavégzés követelményeit figyelembe véve a munkaterület kijelölése, kialakításának meghatározása és a munkáltató által előírt alpintechnikai módszer szerinti munkavégzés irányítása. A munkairányító jelenléte nélkül a munkaterületen alpintechnikai tevékenység nem folytatható.”
