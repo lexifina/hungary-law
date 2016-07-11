@@ -58,17 +58,13 @@ szerkezeti részt tartalmazó vegyületek, amelyekben
 
 1.18. az 1.11. és az 1.13. szerinti vegyületek karboxilát részének oxigénatomjához,
 
-1.18.1. (ciklusos alkil)-, fenil-, benzil-, naftil- vagy kinolincsoport kapcsolódik.
+1.19. az 1.1–1.7. szerinti fenil-, benzil- és naftilcsoport, illetve az 1.18.1. szerinti fenil-, benzil-, naftil- és kinolincsoport
 
-1.19. az 1.1–1.7. szerinti fenil- és naftilcsoport, illetve az 1.18.1. szerinti fenil-, benzil-, naftil- és kinolincsoport
-
-1.19.1. egy vagy több 1–4 szénatomos alkilcsoportot vagy
+1.19.1. egy vagy több 1-4 szénatomos alkilcsoportot vagy
 
 1.19.2. metoxi- vagy etoxicsoportot vagy
 
-1.19.3. azido-, dimetilamino-, fenil-, hidroxi-, hidroximetil-, nitro- vagy cianocsoportot, vagy egy, illetve több halogénatomot
-
-tartalmazhat.
+1.19.3. azido-, dimetilamino-, fenil-, hidroxi-, hidroximetil-, nitro- vagy cianocsoportot, vagy egy, illetve több halogénatomot tartalmazhat.
 
 1.20. az 1.12. és 1.14. szerinti vegyületek karboxamid részének nitrogénatomja
 
@@ -83,6 +79,14 @@ tartalmazhat.
 1.20.5. (ciklusos alkil)-, fenil-, benzil-, naftil- vagy kinolincsoportot tartalmaz
 
 1.21. az 1.8., 1.9., 1.10. és 1.18.1. és 1.20.5. szerinti (ciklusos alkil)-csoport egy vagy több 3–10 szénatomos gyűrűből áll és egy vagy több 1–3 szénatomos alkilcsoportot vagy halogénatomot tartalmazhat.
+
+1.22. az 1.20.5. szerinti fenil-, benzil-, naftil- és kinolincsoport
+
+1.22.1. egy vagy több 1-4 szénatomos alkilcsoportot vagy
+
+1.22.2. metoxi- vagy etoxicsoportot vagy
+
+1.22.3. azido-, dimetilamino-, fenil-, hidroxi-, hidroximetil-, nitro- vagy cianocsoportot, vagy egy, illetve több halogénatomot tartalmazhat.
 
 2. Azok a katinon (2-amino-1-fenilpropán-1-on) szerkezeti részt tartalmazó vegyületek, a bupropion, kivételével, amelyekben
 
@@ -164,11 +168,11 @@ tartalmazhat.
 
 | 12. | RH-34 | 3-[2-(2-methoxybenzylamino) ethyl]-1H-quinazoline-2,4-dione |
 
-| 13. | MTP, methcathinone thiophen analog | 2-(methylamino)-1-(thiophen-2-yl)propan-1-one |
+| 13. |  |  |
 
-| 14. | N-ethylnorketamine | 2-(2-chlorophenyl)-2-(ethylamino)cyclohexanone |
+| 14. |  |  |
 
-| 15. | AM-1248 azepane isomer | adamant-1-yl[1-(1-methylazepan-3-yl)-1H-indol-3-yl] methanone |
+| 15. |  |  |
 
 | 16. | 4-benzylpiperidine | 4-(phenylmethyl)piperidine |
 
@@ -238,8 +242,16 @@ tartalmazhat.
 
 | 49. | TH-PVP | 2-(pyrrolidin-1-yl)-1-(5,6,7,8- tetrahydronaphthalen-2-yl)pentan-1-one |
 
+| 50. | izopropilfenidát (isopropylphenidate) | propan-2-yl phenyl(piperidin-2-yl)acetate |
+
+| 51. | metamnetamin (methylnaphetamine, N-methyl-PAL-287, MNT, MNA) | N-methyl-1-(naphthalen-2-yl)propan-2-amine |
+
+| 52. | dezklórketamin, (deschloroketamine, 2-(phenyl)-2-(methylamino)-cyclohexanone) | 2-(methylamino)-2-phenylcyclohexanone |
+
+| 53. | 1P-LSD; (1-propionyl-d-lysergic acid diethylamide) | N,N-diethyl-7-methyl-4-propanoyl-6,6a,8, 9-tetrahydroindolo[4,3-fg]quinoline-9-carboxamide |
+
 5.2. az ebben a jegyzékben felsorolt anyagok sztereoizomerjei, ha kémiai szerkezetük alapján azok léteznek;
 
 5.3. az ebben a jegyzékben felsorolt anyagok sói, beleértve az 5.2. alpontban említett sztereoizomerek sóit, ha ilyen sók léteznek.
 
-[^1]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 17/2015. (III. 30.) EMMI rendelet 1. §-a, a 35/2015. (VII. 10.) EMMI rendelet 1. §-a, a 3/2016. (I. 22.) EMMI rendelet 1. §-a, a 13/2016. (VII. 8.) EMMI rendelet 3. §-a szerint módosított szöveg.
