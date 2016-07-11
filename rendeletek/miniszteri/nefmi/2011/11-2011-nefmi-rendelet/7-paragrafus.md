@@ -1,3 +1,3 @@
-## 6/A. §[^13] Az orvosok gyógyszerrendelése értékelésének tekintetében 2015. év első félévében a 2014. év második félévében hatályos 2. melléklet szerinti célértékek alkalmazandók.
+## 6/A. §[^13]
 
-[^13]: A 6/A. §-t a 3/2015. (I. 14.) EMMI rendelet 33. §-a iktatta be.
+[^13]: A 6/A. §-t a 3/2015. (I. 14.) EMMI rendelet 33. §-a iktatta be, hatályon kívül helyezte a 13/2016. (VII. 8.) EMMI rendelet 2. §-a.
