@@ -18,7 +18,7 @@ g) minden projekthez két értékelőt kell rendelni,
 
 h) ha a két értékelő értékelésének eredménye között az eltérés 30%-nál nagyobb, akkor újraértékelést kell elrendelni,
 
-i) az értékelők részére projektmérettől függő, differenciált díjazás kerüljön kialakításra, azzal, hogy a díjazás nem haladhatja meg az értékelő éves illetményének, munkabérének kétszeresét,
+i)[^2] az értékelők részére projektmérettől függő, differenciált díjazás kerüljön kialakításra, azzal, hogy a díjazás nem haladhatja meg az értékelő alapjogviszonya szerint megállapított, éves rendszeres illetményének, munkabérének kétszeresét, kivéve, ha a szakértői névsorban az adott tématerületen nincs szükséges számú, megfelelő szakértelemmel rendelkező értékelő
 
 j) az értékelők díjazása tagállami forrásból kerüljön finanszírozásra,
 
@@ -35,3 +35,5 @@ Határidő: azonnal
 Felelős: nemzetgazdasági miniszter
 
 Határidő: a felmerülés ütemében folyamatosan
+
+[^2]: Az 1. pont i) alpontja az 1370/2016. (VII. 13.) Korm. határozat szerint módosított szöveg.
