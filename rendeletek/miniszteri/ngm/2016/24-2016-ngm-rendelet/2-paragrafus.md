@@ -1,0 +1,1 @@
+## 1. § A Nemzeti Adó- és Vámhivatalnál (a továbbiakban: NAV) foglalkoztatott kormánytisztviselő és pénzügyőr az 1–3. mellékletben meghatározott munkakörökben és az ott meghatározott mértékben jogosult közszolgálati pótlékra.

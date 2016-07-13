@@ -1,0 +1,1 @@
+## 2. § E rendelet alkalmazásában alapfeladat ellátására létrehozott munkakör a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény (a továbbiakban: NAV tv.) 13. § (1) bekezdés a) és b) pontjában, a (2) bekezdés f) és j) pontjában, valamint a (4)–(9) bekezdésében meghatározott feladatok végrehajtása céljából létrehozott munkakörök.
