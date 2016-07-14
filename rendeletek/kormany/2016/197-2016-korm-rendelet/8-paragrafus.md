@@ -1,0 +1,1 @@
+## 7. § Hatályát veszti a Budapest II. kerület, Margit körút 85–87. szám alatti ingatlan bontásával és közpark létrehozásával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 261/2013. (VII. 10.) Korm. rendelet.
