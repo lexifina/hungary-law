@@ -94,7 +94,7 @@
 
 | 46. | 2014. évi I. törvény a Magyarország Kormánya és Georgia Kormánya között a nemzetközi közúti személyszállításról és árufuvarozásról szóló Megállapodás kihirdetéséről |
 
-13. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^66]
+13. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^68]
 
 A jogszabályban rögzített vizsgáztatási technológia és ügyrend megsértése esetén
 
@@ -104,4 +104,4 @@ A jogszabályban rögzített vizsgáztatási technológia és ügyrend megsért�
 
 | 2. | A közlekedési hatóság engedélye nélkül átalakított jármű időszakos vizsgálata során alkalmas minősítést igazoló hatósági bizonyítvány (Műszaki adatlap) kiadása | 200 000 |
 
-[^66]: A 13. mellékletet a 138/2013. (V. 10.) Korm. rendelet 11. § (4) bekezdése iktatta be.
+[^68]: A 13. mellékletet a 138/2013. (V. 10.) Korm. rendelet 11. § (4) bekezdése iktatta be.

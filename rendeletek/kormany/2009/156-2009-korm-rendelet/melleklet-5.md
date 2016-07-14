@@ -112,7 +112,7 @@
 
 | L4 | A járművezetői kártya elvesztéséről vagy eltulajdonításáról azon tagállam hatáskörrel rendelkező hatóságánál teendő hivatalos bejelentés elmulasztása, amelynek területén a kártyalopás történt | 300 000 | járművezető |
 
-5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^55]
+5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^57]
 
 1. táblázat
 
@@ -296,4 +296,4 @@ A mezőgazdasági vegyszerek és üzemanyagok mezőgazdasági vontatóval vagy l
 
 | 16. | A járművezetőnek nincs érvényes vizsga igazolása | 40 000 | szállító (fuvarozó), járművezető |
 
-[^55]: Az 5. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^57]: Az 5. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.

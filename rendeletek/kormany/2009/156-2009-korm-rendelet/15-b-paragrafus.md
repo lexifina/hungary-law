@@ -1,0 +1,18 @@
+## 15/A. §[^41] A Kkt. 20. § (7) bekezdése szerinti pénzkövetelés biztosításának összegét az e rendelet alapján kiszabható bírsággal megegyező összegben kell meghatározni.
+
+15/B. §[^42] (1) A közlekedési hatóság ellenőrzése során próbavásárlás elvégzésére közreműködő személyt vehet igénybe megbízási szerződéssel, amelyben a közreműködő személy hozzájárul a természetes személyazonosító adatai kezeléséhez.
+
+(2) A közlekedési hatóság a közreműködő személy által a szolgáltatás igénybevételére irányuló próbavásárlással is ellenőrizheti a szolgáltatás szabályszerűségét.
+
+(3) A közreműködő személy a megbízási szerződés alapján megbízási díjra jogosult.
+
+(4) A közreműködő személy részére a közlekedési hatóság igazolványt állít ki, amellyel kapcsolatban kezeli a közreműködő személy természetes személyazonosító adatait.
+
+(5) A közreműködő személyre az ügyintézőre vonatkozó kizárási szabályokat kell alkalmazni.
+
+(6) Próbavásárlás esetén a közreműködő személy a próbavásárlás befejezésekor igazolja jogosultságát.
+
+(7) Szolgáltatás próbavásárlása esetén a szolgáltatás díja eljárási költség, amelyet az előírt követelményeknek meg nem felelő szolgáltatás nyújtója visel.
+
+[^41]: A 15/A. §-t a 192/2016. (VII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^42]: A 15/B. §-t a 192/2016. (VII. 13.) Korm. rendelet 2. §-a iktatta be.
