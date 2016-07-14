@@ -1,1 +1,0 @@
-A szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény 132. § (2) bekezdés f) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 48. § 13. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:

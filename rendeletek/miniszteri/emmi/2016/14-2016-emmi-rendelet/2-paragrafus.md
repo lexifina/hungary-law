@@ -1,3 +1,0 @@
-## 1. § A személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló 9/2000. (VIII. 4.) SZCSM rendelet (a továbbiakban: Tkr.) 13. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) A vizsgajogot elnyert intézmény öt évig jogosult szociális alap- és szakvizsga szervezésére (a továbbiakban: vizsgajog időtartama). Ha a vizsgajog időtartama alatt bekövetkezett változás folytán a vizsgajogot elnyert intézmény nem teljesíti a (3) bekezdésben foglalt feltételeket, a vizsgajog megszűnik. Ezt a tényt a vizsgajogot elnyert intézmény haladéktalanul köteles bejelenteni a Hivatalnak. A vizsgajog megszűnését a Hivatal állapítja meg.”
