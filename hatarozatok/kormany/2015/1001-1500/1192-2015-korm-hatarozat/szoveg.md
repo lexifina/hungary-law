@@ -1,4 +1,4 @@
-1.[^1] A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. § (1) bekezdésében meghatározott feladatkörében eljárva a 2015. évi Milánói Világkiállításon (a továbbiakban: világkiállítás) való magyar részvétellel kapcsolatos összkormányzati feladatok végrehajtása koordinációjának ellátására 2015. április 1. napjától 2016. június 30. napjáig Szőcs Gézát kormánybiztossá (a továbbiakban: kormánybiztos) nevezi ki.
+1.[^1] A Kormány a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló 2010. évi XLIII. törvény 31. § (1) bekezdésében meghatározott feladatkörében eljárva a 2015. évi Milánói Világkiállításon (a továbbiakban: világkiállítás) való magyar részvétellel kapcsolatos összkormányzati feladatok végrehajtása koordinációjának ellátására 2015. április 1. napjától 2016. szeptember 30. napjáig Szőcs Gézát kormánybiztossá (a továbbiakban: kormánybiztos) nevezi ki.
 
 2. A kormánybiztos az 1. pont szerinti feladatkörében:
 
@@ -30,6 +30,6 @@ Határidő: folyamatosan
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: Az 1. pont az 1743/2015. (X. 13.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1360/2016. (VII. 13.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^2]: A 2. pont f) alpontját az 1743/2015. (X. 13.) Korm. határozat 1. pontja iktatta be.
 [^3]: A 2. pont g) alpontját az 1743/2015. (X. 13.) Korm. határozat 1. pontja iktatta be.
