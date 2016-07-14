@@ -28,7 +28,7 @@
 
 | 13. | Budapest Bozsik Stadion labdarúgó sportlétesítmény-fejlesztése | Nemzeti Sportközpontok | Budapest közigazgatási területén fekvő, 168207 helyrajzi számú ingatlan |
 
-| 14. | Budapest Illovszky Rudolf Stadion labdarúgó sportlétesítmény-fejlesztése | Vasas Sport Club | Budapest XIII. kerület közigazgatási területén fekvő, 26085/1123 helyrajzi számú ingatlan |
+| 14. |  |  |  |
 
 | 15. | Paks labdarúgó sportlétesítmény-fejlesztése | Paks Város Önkormányzata | Paks közigazgatási területén fekvő, 2132 és 2133 helyrajzi számú ingatlanok |
 
