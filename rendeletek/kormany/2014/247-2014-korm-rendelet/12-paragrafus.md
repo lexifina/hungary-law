@@ -1,33 +1,33 @@
-## 5. Saját hatáskörben megvalósított közbeszerzés
+## 5. [^21] Beszerzésre és szponzorációra vonatkozó igények
 
-12. § (1) Az érintett szervezet a Kbt.-vel összhangban, a Hivatal előzetes jóváhagyásával saját hatáskörben akkor valósíthatja meg a kormányzati kommunikációs feladatainak ellátásával összefüggő közbeszerzését, ha
+12. § (1) Az érintett szervezet köteles a Hivatal részére a Nemzeti Kommunikációs Hivatal Központosított Közbeszerzési Portálján keresztül jóváhagyásra megküldeni a beszerzési igényét a beszerzési eljárás megkezdését megelőzően legalább 10 nappal. A Hivatalhoz kizárólag olyan beszerzésre vonatkozóan nyújtható be igény, amely az éves összesített beszerzési tervben és a negyedéves beszerzési tervben is szerepel, továbbá amelynek megvalósításához a Hivatal a 9. § (4) bekezdés a)–c) pontjai szerint hozzájárult.
 
-a) a szükséges közbeszerzés megvalósítása előre nem látható okból rendkívül sürgőssé válik és a hatályos keretmegállapodás vagy közbeszerzési szerződés alapján a közbeszerzés határidőre nem lenne megvalósítható, vagy
+(2) A Hivatal a beszerzésre vonatkozó igény beérkezését követő 10 napon belül dönt az adott kormányzati kommunikációs feladat megvalósíthatóságáról. A határidőbe nem számít bele a (3) bekezdés e) pontja szerinti hiánypótlás időtartama.
 
-b) a szükséges közbeszerzés vonatkozásában nincs hatályos keretmegállapodás vagy szerződés,
+(3) Az (1) bekezdés szerint bejelentett beszerzésre vonatkozó igény tekintetében a Hivatal az alábbi döntéseket hozhatja:
 
-c)[^24] a beszerzés összes körülménye alapján a Hivatal elnöke indokoltnak látja.
+a) a beszerzés megvalósításához a (4) bekezdés szerinti valamely feltétel fennállására tekintettel hozzájárul,
 
-(2) Az érintett szervezet a saját hatáskörben megvalósítani kívánt közbeszerzés körülményeiről, indokoltságáról és szükségszerűségéről a közbeszerzés megkezdése előtt 8 munkanappal a Hivatalt írásban tájékoztatni köteles. Ha a saját hatáskörben megvalósítani kívánt közbeszerzés feltételeinek fennállása a bejelentésből nem állapítható meg, a Hivatal a bejelentés kézhezvételétől számított 5 napon belül az érintett szervezetet további adatközlésre szólíthatja fel.
+b) meghatározza azokat a feltételeket, illetve megjelöli azokat a szükséges módosításokat, amelyek teljesítése esetén a beszerzés megvalósításához a (4) bekezdés szerinti valamely feltétel fennállására tekintettel hozzájárul,
 
-(3) Az érintett szervezet saját hatáskörben megvalósítani kívánt közbeszerzésének megvalósítása tekintetében a Hivatal a következő döntéseket hozhatja:
+c) a beszerzés megvalósításához a 10. § szerinti közbeszerzési eljárás Hivatal általi lefolytatásával hozzájárul,
 
-a) a saját hatáskörben történő közbeszerzést az (1) bekezdésben meghatározott feltételek fennállására tekintettel jóváhagyja,
+d) a beszerzés megvalósításához nem járul hozzá, vagy
 
-b)[^25] meghatározza azokat a feltételeket, illetve megjelöli azokat a szükséges módosításokat, amelyek teljesítése esetén a saját hatáskörben történő közbeszerzés lefolytatásához hozzájárul,
+e) határidő tűzésével további információkat kér.
 
-c)[^26] a saját hatáskörben történő közbeszerzés lefolytatásához nem járul hozzá és az (1) bekezdésben foglaltak fennállására tekintettel a közbeszerzési eljárást lefolytatja,
+(4) Az érintett szervezet a Hivatal (3) bekezdés a) vagy b) pontja szerinti előzetes hozzájárulásával saját hatáskörben akkor valósíthatja meg beszerzését, ha
 
-d) a saját hatáskörben történő közbeszerzés lefolytatásához – az (1) bekezdésben meghatározott feltételek hiányára tekintettel – nem járul hozzá,
+a) a beszerzés megvalósítása előre nem látható okból rendkívül sürgőssé válik és a hatályos keretmegállapodás alapján a beszerzés határidőre nem lenne megvalósítható,
 
-e)[^27] 15 napos határidő tűzésével további információkat kér.
+b) a beszerzés vonatkozásában nincs hatályos keretmegállapodás, vagy
 
-(4)[^28] Az érintett szervezet a saját hatáskörben megvalósított közbeszerzés eredményeként megkötött közbeszerzési szerződést, hivatkozva a saját hatáskörű közbeszerzést megalapozó körülményekre, a Hivatal részére a közbeszerzési szerződés aláírását követő 5 munkanapon belül megküldi. A Hivatal vezetője döntése ellenére megkötött szerződés semmis.
+c) a beszerzés összes körülménye alapján a Hivatal elnöke indokoltnak látja.
 
-(5) Az érintett szervezet a saját hatáskörben megvalósítani kívánt közbeszerzés becsült értékének kiszámítása során mindazon beszerzések értékét köteles egybeszámítani, amelyek vonatkozásában fennállnak a Kbt.-ben meghatározott feltételek, függetlenül attól, hogy azokat a központosított közbeszerzési rendszer keretében vagy saját hatáskörben szerezte be.
+(5) Amennyiben a Hivatal a beszerzésre vonatkozóan a 9. § (4) bekezdés b) pontja szerinti döntést hozta, abban az esetben a beszerzésre vonatkozóan benyújtott igény a (3) bekezdés a) pontja szerint kerül elbírálásra.
 
-[^24]: A 12. § (1) bekezdés c) pontját a 475/2015. (XII. 29.) Korm. rendelet 12. §-a iktatta be.
-[^25]: A 12. § (3) bekezdés b) pontja a 475/2015. (XII. 29.) Korm. rendelet 22. § d) pontja szerint módosított szöveg.
-[^26]: A 12. § (3) bekezdés c) pontja a 475/2015. (XII. 29.) Korm. rendelet 22. § c) pontja szerint módosított szöveg.
-[^27]: A 12. § (3) bekezdés e) pontját a 475/2015. (XII. 29.) Korm. rendelet 13. §-a iktatta be.
-[^28]: A 12. § (4) bekezdése a 475/2015. (XII. 29.) Korm. rendelet 14. §-ával megállapított szöveg.
+(6) A beszerzés kizárólag a Hivatal (3) bekezdés a)–c) pontjai szerinti hozzájárulása esetén valósítható meg. A Hivatal döntése ellenére megkötött szerződés semmis.
+
+(7) Az érintett szervezetnek a megvalósítani kívánt beszerzés becsült értékét a Kbt. becsült értékre vonatkozó rendelkezéseire figyelemmel kell megállapítania.
+
+[^21]: Az 5. alcím (12–13. §) a 189/2016. (VII. 13.) Korm. rendelet 9. §-ával megállapított szöveg.

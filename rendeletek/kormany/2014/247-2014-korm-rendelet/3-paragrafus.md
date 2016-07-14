@@ -2,8 +2,9 @@
 
 3. § (1) A Hivatalt elnök vezeti.
 
-(2) Az elnök tevékenységének segítésére a miniszter – a Hivatal elnökének javaslatára – határozatlan időtartamra elnökhelyettest nevezhet ki.
+(2)[^3] Az elnök tevékenységének segítésére az elnök határozatlan időtartamra elnökhelyettest nevezhet ki.
 
 (3) A Kormány a kormányzati kommunikációs feladatok ellátásával kapcsolatos központosított közbeszerzések tekintetében ajánlatkérésre feljogosított szervezetként a Hivatalt jelöli ki.
 
 [^2]: A 2. § a 306/2015. (X. 26.) Korm. rendelet 15. §-a szerint módosított szöveg.
+[^3]: A 3. § (2) bekezdése a 189/2016. (VII. 13.) Korm. rendelet 2. §-ával megállapított szöveg.

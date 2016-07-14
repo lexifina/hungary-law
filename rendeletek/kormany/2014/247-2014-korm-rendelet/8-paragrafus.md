@@ -1,15 +1,17 @@
-8. §[^11] (1) Az érintett szervezet – a Hivatal által meghatározott útmutató alapján – az 1. mellékletben meghatározott kommunikációs szolgáltatások és az azokhoz kapcsolódó termékek közbeszerzésére vonatkozóan
+8. §[^9] (1) Az érintett szervezet köteles a Hivatal által meghatározott útmutató alapján az 1. mellékletben meghatározott kommunikációs szolgáltatásokra vonatkozó
 
-a) a tárgyévet megelőző év december 15-ig a Kbt. szerinti éves összesített közbeszerzési tervét, illetve beszerzési tervét, valamint szponzorációs költségkeret-tervét,
+a) éves összesített beszerzési tervet és szponzorációs költségkerettervet a tárgyévet megelőző év december 15. napjáig,
 
-b) minden naptári negyedév utolsó napját megelőző 15. napig, a rendkívüli sürgősséget igénylő közbeszerzés esetén haladéktalanul a következő negyedévben megvalósítandó kommunikációs szolgáltatások és termékek közbeszerzésére vonatkozó – műszaki leírást is tartalmazó – igényeit,
+b) negyedéves beszerzési tervet a tárgyi negyedévet megelőző hónap 15. napjáig,
 
-c) a Hivatal kérésére a kormányzati kommunikációs feladattal összefüggő megrendelésre vonatkozó dokumentumokat
+c) beszerzésre vonatkozó igényét a megvalósítás megkezdését megelőzően legalább 10 nappal,
 
-## a Hivatalnak megküldi.
+d) rendkívüli sürgősséget igénylő beszerzésre vonatkozó igényét haladéktalanul,
 
-(2) A Hivatal a beérkezett dokumentumok vizsgálatát követően határozhat arról is, hogy bejelentési kötelezettség előírása mellett az érintett szervezet esetében a tárgyévi közbeszerzések tekintetében felmentést ad a jóváhagyásra történő megküldés kötelezettsége alól.
+e) szponzorációra irányuló igényét a megvalósítás megkezdését megelőzően legalább 10 nappal
 
-(3) A Hivatal a beérkezett dokumentumok vizsgálatát követően határozhat arról is, hogy az érintett szervezet tekintetében milyen egyedi összeget állapít meg. Az érintett szervezetet a megállapított összeg alatti közbeszerzések esetén bejelentési, míg a megállapított összeg feletti közbeszerzések esetén jóváhagyásra megküldési kötelezettség terheli.
+## a Nemzeti Kommunikációs Hivatal Központosított Közbeszerzési Portálján keresztül megküldeni.
 
-[^11]: A 8. § a 475/2015. (XII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
+(2) Amennyiben a Hivatal a rendkívüli sürgősségű eljárást az eset összes körülményei alapján nem tartja indokoltnak, a beszerzési igényt elutasítja. Az elutasítás nem akadálya a beszerzési igény (1) bekezdés a)–c) pontjai szerinti ismételt előterjesztésének.
+
+[^9]: A 8. § a 189/2016. (VII. 13.) Korm. rendelet 6. §-ával megállapított szöveg.

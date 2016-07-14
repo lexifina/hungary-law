@@ -1,23 +1,19 @@
-13. § (1)[^29] Az érintett szervezet a saját hatáskörben megvalósított közbeszerzési eljárás esetén
+13. § (1) Az érintett szervezet köteles a Hivatal részére a Nemzeti Kommunikációs Hivatal Központosított Közbeszerzési Portálján keresztül megküldeni
 
-a) a megkötött közbeszerzési szerződést,
+a) a megvalósított beszerzés eredményeképpen kötött szerződést, valamint
 
-b) a közbeszerzési szerződés módosításainak tervezetét, a módosítás indokolását, az azt alátámasztó valamennyi dokumentumot, valamint
+b) a szerződés teljesítésének elismeréséről szóló teljesítésigazolás adatait
 
-c) az elismerés megtagadásáról szóló nyilatkozat tervezetét indokolással és az azt alátámasztó dokumentumokkal együtt
+azok aláírását követő 8 napon belül.
 
-## a Hivatal számára a dokumentumok előkészítését követő 5 napon belül megküldi.
+(2) Az érintett szervezet köteles a Hivatal részére megküldeni
 
-(2)[^30] A Hivatal, amennyiben a 12. § (3) bekezdés b) pontja alapján feltételként hivatali ellenőrzést kötött ki, legfeljebb 8 munkanapon belül tehet észrevételt, kiegészítést, valamint módosítási javaslatot az (1) bekezdés b) és c) pontjában foglalt, valamint a 10. és 11. §-ban szabályozott közbeszerzési eljárás eredményeként kötött közbeszerzési szerződés teljesítésére vonatkozó dokumentumokkal kapcsolatban.
+a) a szerződés lényeges elemeire – különösen a szolgáltatás tartalmára és összegszerűségére – vonatkozó módosításának tervezetét, a módosítás indokolását és az azt alátámasztó dokumentumokat,
 
-(3)[^31]
+b) a szerződés teljesítése elismerésének megtagadásáról szóló nyilatkozat tervezetét indokolással és az azt alátámasztó dokumentumokat
 
-(4)[^32] A Hivatal vezetőjének hozzájárulása hiányában a szerződés a szolgáltatás tartalma és összegszerűsége tekintetében nem módosítható, a közbeszerzés a módosult feltételekkel csak új közbeszerzési eljárásban valósítható meg.
+azok elkészítését követő 8 napon belül.
 
-(5)[^33] A szerződés érvényesen megköthető, amennyiben a Hivatal vezetője a döntést a 13. § (2) bekezdés szerinti határidőben nem hozza meg.
+(3) A Hivatal a kézhezvételtől számított 15 napon belül tehet észrevételt, kiegészítést, valamint módosítási javaslatot a (2) bekezdésben foglalt dokumentumokkal kapcsolatban.
 
-[^29]: A 13. § (1) bekezdése a 475/2015. (XII. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
-[^30]: A 13. § (2) bekezdése a 475/2015. (XII. 29.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^31]: A 13. § (3) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 22. § g) pontja hatályon kívül helyezte.
-[^32]: A 13. § (4) bekezdése a 475/2015. (XII. 29.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^33]: A 13. § (5) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
+(4) A 12. §-ban meghatározott kötelezettségek rendszeres, vagy ismételt megsértése esetén a központi beszerző szerv jelzése alapján a Hivatal irányítását ellátó miniszter az igénybejelentésért, valamint az adatszolgáltatásért felelős személy(ek) fegyelmi és kártérítési felelősségre vonását kezdeményezheti a fegyelmi jogkör gyakorlójánál.

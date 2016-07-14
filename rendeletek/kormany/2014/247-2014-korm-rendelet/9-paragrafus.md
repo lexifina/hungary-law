@@ -1,41 +1,23 @@
-9. § (1) Az érintett szervezet a 7–8. §-ban foglalt kötelezettségei mellett, azokkal összhangban a következő negyedévben megvalósítandó kommunikációs feladatairól összesített tájékoztatót készít, amely tartalmazza a kormányzati kommunikációs feladatai tervezett
+9. §[^10] (1) Az érintett szervezet köteles a negyedéves beszerzési tervét a tárgyi negyedévet megelőző hónap 15. napjáig a Hivatal részére a Nemzeti Kommunikációs Hivatal Központosított Közbeszerzési Portálján keresztül jóváhagyásra megküldeni. Az adott negyedéves beszerzési tervben kizárólag olyan beszerzés szerepelhet, amelyet az éves összesített beszerzési terv is tartalmaz.
 
-a) célját, indokait,
+(2) A Hivatal a negyedéves beszerzési terv beérkezését követő 15 napon belül dönt az adott kormányzati kommunikációs feladat megvalósíthatóságáról, és annak a kormányzati kommunikációs irányokkal való összhangjáról. A határidőbe nem számít bele a (4) bekezdés e) pontja szerinti hiánypótlás időtartama.
 
-b) megvalósításának ütemezését,
+(3) A Hivatal az érintett szervezet által tervezett kormányzati kommunikációs feladat szakmai tartalmának megismerése érdekében további adatokat kérhet, vagy egyeztetést kezdeményezhet az érintett szervezettel. További adatkérés vagy egyeztetés kezdeményezése esetén a (2) bekezdés szerinti határidő kezdő napja az adatok beérkezését vagy az egyeztetés megtartását követő nap.
 
-c) kommunikációs eszközeit, módszereit, valamint
+(4) A Hivatal a negyedéves beszerzési terv vizsgálatát követően az abban szereplő tervezett beszerzések vonatkozásában a következő döntéseket hozhatja:
 
-d) költségvetését.
+a) a beszerzés megvalósításához hozzájárul,
 
-(2) Az érintett szervezet az összesített tájékoztatót a Hivatal részére jóváhagyásra megküldi.
+b) a beszerzés megvalósításához hozzájárul és az érintett szervezet számára felmentést ad a beszerzésre vonatkozó igény jóváhagyásra történő megküldésének kötelezettsége alól,
 
-(3)[^12] A Hivatal az összesített tájékoztató beérkezését követő 15 napon belül állást foglal az adott kormányzati kommunikációs feladat végrehajthatóságáról, és annak a kormányzati kommunikációs irányokkal való összhangjáról. Indokolt esetben a Hivatal a határidőt további 5 nappal meghosszabbíthatja azzal, hogy ebbe az (5) bekezdés d) pontban foglalt határidő nem számít bele.
+c) meghatározza azokat a feltételeket, illetve megjelöli azokat a szükséges módosításokat, amelyek teljesítése esetén a beszerzés megvalósításához hozzájárul,
 
-(4) A Hivatal az érintett szervezet által tervezett kormányzati kommunikációs feladat szakmai tartalmi kérdéseinek megismerése, valamint a Hivatal álláspontjának egyeztetése érdekében további adatokat kérhet az érintett szervezettől vagy egyeztetést kezdeményezhet az érintett szervezettel. Ez esetben a (3) bekezdés szerinti határidőt az adatok beérkezésének vagy az egyeztetés megtartásának napjától kell számítani.
+d) a beszerzés megvalósításához nem járul hozzá, vagy
 
-(5) A kormányzati kommunikációs feladat tervezett megvalósítására vonatkozó tájékoztatás vizsgálatát követően a Hivatal vezetője a következő döntéseket hozhatja:
+e) határidő tűzésével további információkat kér.
 
-a) az összesített tájékoztatót vagy annak meghatározott részét jóváhagyja és a kormányzati kommunikációs feladatok megvalósításához hozzájárul,
+(5) Az érintett szervezet kizárólag a Hivatal (4) bekezdés a)–c) pontjai szerinti hozzájárulása esetén nyújthat be beszerzésre vonatkozó igényt.
 
-b)[^13] meghatározza azokat a feltételeket, illetve megjelöli azokat a szükséges módosításokat, amelyek teljesítése esetén az összesített tájékoztatóban foglalt kormányzati kommunikációs feladatok megvalósításához hozzájárul,
+(6) Ha az elbírált negyedéves beszerzési tervben szereplő valamely beszerzés adataiban változás áll be, azt a Hivatal részére haladéktalanul meg kell küldeni jóváhagyásra a Nemzeti Kommunikációs Hivatal Központosított Közbeszerzési Portálján keresztül. Az érintett szervezet a beszerzést a Hivatal megváltozott adatokra vonatkozó – a (2) és (3) bekezdés szerinti határidőben történő – (4) bekezdés a)–c) pontjai szerinti hozzájárulását követően valósíthatja meg.
 
-c) az összesített tájékoztatóban foglalt kormányzati kommunikációs feladatok megvalósításához nem járul hozzá,
-
-d)[^14] határidő tűzésével további információkat kér.
-
-(6) Az érintett szervezet a Hivatal vezetőjének egyetértése nélkül a kormányzati kommunikációs feladat megvalósítását nem kezdheti meg, közbeszerzési igényt nem nyújthat be a Hivatal számára.
-
-(7) Ha a jóváhagyott összesített tájékoztató elemeiben változás áll be, arról a Hivatalt haladéktalanul tájékoztatni kell. Az érintett szervezet a Hivatalnak a megváltozott feltételekre vonatkozó – a (3) bekezdés szerinti határidőben történő – jóváhagyását követően folytathatja a kommunikációs feladat végrehajtását.
-
-(8) Az összesített tájékoztatóban nem szereplő, az összesített tájékoztató készítésekor előre nem látható okból felmerülő kormányzati kommunikációs feladat megvalósítását a Hivatal egyedileg hagyja jóvá.
-
-(9)[^15] A Hivatal vezetője – a (3) bekezdés szerinti határidőn belül meghozott – döntése ellenére megkötött szerződés semmis.
-
-(10)[^16] A szerződés érvényesen megköthető, amennyiben a Hivatal vezetője a döntést a (3) bekezdés szerinti határidőn belül nem hozza meg.
-
-[^12]: A 9. § (3) bekezdése a 475/2015. (XII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^13]: A 9. § (5) bekezdés b) pontja a 475/2015. (XII. 29.) Korm. rendelet 22. § c)–d) pontja szerint módosított szöveg.
-[^14]: A 9. § (5) bekezdés d) pontját a 475/2015. (XII. 29.) Korm. rendelet 8. §-a iktatta be.
-[^15]: A 9. § (9) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
-[^16]: A 9. § (10) bekezdését a 475/2015. (XII. 29.) Korm. rendelet 9. §-a iktatta be.
+[^10]: A 9. § a 189/2016. (VII. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
