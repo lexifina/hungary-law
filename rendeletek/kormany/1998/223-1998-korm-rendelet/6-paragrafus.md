@@ -1,15 +1,15 @@
-## 5/B. §[^77] A szülők által egyenlő időszakokban felváltva gondozott gyermek (személy) után járó családi pótlék megosztására irányuló igény esetén a családi pótlék iránti kérelemhez csatolni kell a Cst. 9. § (4) bekezdése szerinti jogerős bírósági döntést.
+## 5/B. §[^78] A szülők által egyenlő időszakokban felváltva gondozott gyermek (személy) után járó családi pótlék megosztására irányuló igény esetén a családi pótlék iránti kérelemhez csatolni kell a Cst. 9. § (4) bekezdése szerinti jogerős bírósági döntést.
 
-6. § (1)[^78] Arra a hónapra, amelyben a családi pótlékra való jogosultság megszűnik, még az ellátást folyósítani kell.
+6. § (1)[^79] Arra a hónapra, amelyben a családi pótlékra való jogosultság megszűnik, még az ellátást folyósítani kell.
 
-(2)[^79] Ha ugyanabban a hónapban a gyermek után más személy válik jogosulttá a családi pótlékra, az új jogosultnak a jogosultság beálltát követő hónaptól jár az ellátás.
+(2)[^80] Ha ugyanabban a hónapban a gyermek után más személy válik jogosulttá a családi pótlékra, az új jogosultnak a jogosultság beálltát követő hónaptól jár az ellátás.
 
-(3)[^80]
+(3)[^81]
 
-(4)[^81] A Cst. 37. § (1) bekezdésének alkalmazásában a gyám családi pótlékra való jogosultságának feltételei fennállnak, ha a gyámrendelő határozatban foglaltak szerint a gyám a gyámrendelés tényleges időpontját megelőzően a gyermekről saját háztartásában gondoskodott, feltéve, hogy erre az időtartamra vonatkozóan más személy nem részesült családi pótlékban.
+(4)[^82] A Cst. 37. § (1) bekezdésének alkalmazásában a gyám családi pótlékra való jogosultságának feltételei fennállnak, ha a gyámrendelő határozatban foglaltak szerint a gyám a gyámrendelés tényleges időpontját megelőzően a gyermekről saját háztartásában gondoskodott, feltéve, hogy erre az időtartamra vonatkozóan más személy nem részesült családi pótlékban.
 
-[^77]: Az 5/B. §-t a 359/2010. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
-[^78]: A 6. § (1) bekezdése a 238/2002. (XI. 8.) Korm. rendelet 9. § (3) bekezdésének c) pontja szerint módosított szöveg.
-[^79]: A 6. § (2) bekezdése a 238/2002. (XI. 8.) Korm. rendelet 9. § (3) bekezdésének c) pontja szerint módosított szöveg.
-[^80]: A 6. § (3) bekezdését a 417/2015. (XII. 23.) Korm. rendelet 23. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^81]: A 6. § (4) bekezdését a 69/2014. (III. 13.) Korm. rendelet 4. §-a iktatta be.
+[^78]: Az 5/B. §-t a 359/2010. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^79]: A 6. § (1) bekezdése a 238/2002. (XI. 8.) Korm. rendelet 9. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^80]: A 6. § (2) bekezdése a 238/2002. (XI. 8.) Korm. rendelet 9. § (3) bekezdésének c) pontja szerint módosított szöveg.
+[^81]: A 6. § (3) bekezdését a 417/2015. (XII. 23.) Korm. rendelet 23. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^82]: A 6. § (4) bekezdését a 69/2014. (III. 13.) Korm. rendelet 4. §-a iktatta be.
