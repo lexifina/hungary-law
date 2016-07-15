@@ -24,6 +24,6 @@ j) a bejelentési kérelem mellékleteinek felsorolását;
 
 k) a bejelentő, illetve mindegyik bejelentő vagy a képviselő aláírását.
 
-(2)[^3] A bejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában díjtalanul beszerezhető formanyomtatvány kitöltésével is elkészíthető.
+(2)[^5] A bejelentési kérelem a Szellemi Tulajdon Nemzeti Hivatalában díjtalanul beszerezhető formanyomtatvány kitöltésével is elkészíthető.
 
-[^3]: A 2. § (2) bekezdése a 27/2010. (XII. 28.) KIM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^5]: A 2. § (2) bekezdése a 27/2010. (XII. 28.) KIM rendelet 5. § (1) bekezdése szerint módosított szöveg.

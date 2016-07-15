@@ -1,9 +1,9 @@
 ## A változtató nyilatkozat
 
-5. § (1) A változtató nyilatkozatot három azonos példányban kell benyújtani.
+5. §[^13] (1) A változtató nyilatkozatot egy példányban kell benyújtani.
 
-(2) A változtató nyilatkozatnak egyértelműen azonosítható módon kell tartalmaznia, hogy az ábrázolás mely része nem tartozik a mintához. A nyilatkozat szöveges kifejtés helyett vagy mellett magyarázó ábrát is tartalmazhat.
+(2) Az Fmtv. 48. § (2) bekezdésében meghatározott változtató nyilatkozatnak egyértelműen azonosítható módon kell tartalmaznia, hogy az ábrázolás mely része nem tartozik a mintához. A nyilatkozathoz mellékelni kell a minta olyan ábrázolását, amelyből egyértelműen megállapítható, hogy a bejelentő a korábbi ábrázolás mely részeire nem igényel oltalmat. A 4. § (2)–(6) bekezdését erre az ábrázolásra is alkalmazni kell.
 
-(3)[^6] Indokolt esetben a Szellemi Tulajdon Nemzeti Hivatala felhívhatja a bejelentőt, hogy a változtató nyilatkozatot – a mintaoltalom megadásának meghirdetése és a mintaoltalmi nyilvántartásokban való feltüntetés céljából – az ábrázolás megfelelő módosítása útján is tegye meg.
+(3) A (2) bekezdés rendelkezéseit a mintaoltalom jogosultjának a megsemmisítési eljárásban tett, a mintaoltalom változtatással való fenntartását vagy korlátozását kezdeményező nyilatkozatára is megfelelően alkalmazni kell.
 
-[^6]: Az 5. § (3) bekezdése a 27/2010. (XII. 28.) KIM rendelet 5. § (2) bekezdése, a 30/2012. (VI. 25.) KIM rendelet 3. §-a szerint módosított szöveg.
+[^13]: Az 5. § a 15/2016. (VI. 29.) IM rendelet 3. §-ával megállapított szöveg.
