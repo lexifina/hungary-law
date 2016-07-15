@@ -1,0 +1,1 @@
+## 22. § Ez a rendelet a meghatározott feszültséghatáron belüli használatra tervezett elektromos berendezések forgalmazására vonatkozó tagállami jogszabályok harmonizációjáról szóló, 2014. február 26-i 2014/35/EU európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.

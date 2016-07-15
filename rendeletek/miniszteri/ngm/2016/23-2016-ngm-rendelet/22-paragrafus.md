@@ -1,0 +1,1 @@
+## 21. § Az egyes villamossági termékek biztonsági követelményeiről és az azoknak való megfelelőség értékeléséről szóló 79/1997. (XII. 31.) IKIM rendeletnek megfelelő és az e rendelet hatálybalépése előtt forgalomba hozott termékek forgalmazhatók és üzembe helyezhetők.
