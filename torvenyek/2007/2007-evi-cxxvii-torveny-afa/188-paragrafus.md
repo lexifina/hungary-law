@@ -22,7 +22,7 @@ c) az aa) alpont alá nem tartozó beépített ingatlan (ingatlanrész) és ehhe
 
 ca) első rendeltetésszerű használatbavétele még nem történt meg, vagy
 
-cb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásul vétele és az értékesítés között még nem telt el 2 év,
+cb) első rendeltetésszerű használatbavétele megtörtént, de az arra jogosító hatósági engedély jogerőre emelkedése vagy használatbavétel-tudomásulvételi eljárás esetén a használatbavétel hallgatással történő tudomásulvétele és az értékesítés között még nem telt el 2 év, vagy beépítése az épített környezet alakításáról és védelméről szóló törvény szerinti egyszerű bejelentés alapján valósult meg, és a beépítés tényét igazoló hatósági bizonyítvány kiállítása és az értékesítés között még nem telt el 2 év,
 
 d) az aa) alpont alá nem tartozó építési telek (telekrész) értékesítése,
 
