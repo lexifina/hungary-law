@@ -1,4 +1,4 @@
-## 23. § Hatályát veszti az egyes villamossági termékek biztonsági követelményeiről és az azoknak való megfelelőség értékeléséről szóló 79/1997. (XII. 31.) IKIM rendelet.
+## 23. §[^1]
 
 1. melléklet a 23/2016. (VII. 7.) NGM rendelethez
 
@@ -21,3 +21,5 @@
 8. Speciális villamossági termékek hajókon, repülőgépeken vagy vasúton való felhasználásra, amelyek megfelelnek az olyan nemzetközi szervek által összeállított biztonsági rendelkezéseknek, amelyekben a tagállamok részt vesznek.
 
 9. Szakembereknek szánt, rendelésre készült értékelő felszerelések, amelyeket kizárólag kutatási és fejlesztési létesítményekben lehet használni kutatási és fejlesztési célból.
+
+[^1]: A 23. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
