@@ -28,7 +28,7 @@ f) a b)–d) alpontokban foglaltaktól eltérően az éves beszámolóját, a k�
 
 5. bejelentett részesedés: a belföldi jogszabályok alapján létrejött jogi személyben és külföldi személyben (kivéve az ellenőrzött külföldi társaságot) szerzett legalább 10 százalék mértékű, valamint minden további megszerzett részesedés (részesedés értékének a növekedése), feltéve, hogy az adózó a részesedés megszerzését (ide nem értve a részesedés értékének a növekedését) a szerzést követő 75 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; a 10 százalékot meghaladóan szerzett részesedés bejelentésének feltétele, hogy az adózó a legalább 10 százalékos mértékű részesedését bejelentette az adóhatósághoz; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 75 napon belül jogosult bejelentést tenni azokról a részesedésekről, amelyeket a belföldi illetőség megszerzése előtt szerzett;
 
-5/a. bejelentett immateriális jószág: jogdíjbevételre jogosító immateriális jószág (szellemi termék, vagyoni értékű jog) szerzése, előállítása feltéve, hogy az adózó a szerzést, előállítást követő 60 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatályosulásának napja, előállítás napjának a használatba vétel napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 60 napon belül jogosult bejelentést tenni azokról a jogdíjbevételre jogosító immateriális jószágokról, amelyeket a belföldi illetőség megszerzése előtt szerzett vagy állított elő;
+5a. bejelentett immateriális jószág: a megszerzett, előállított jogdíjra jogosító immateriális jószág, feltéve, hogy az adózó a szerzést, előállítást követő 60 napon belül bejelenti az adóhatóságnak; a határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye; e rendelkezés alkalmazásában szerzés időpontjának a cégbírósági bejegyzés napja, cégbírósági bejegyzés hiányában az alapul szolgáló jogügylet hatálybalépésének napja, előállítás napjának a használatbavétel napja minősül; az üzletvezetés helyére tekintettel belföldi illetőségű adózó e rendelkezést azzal az eltéréssel alkalmazza, hogy az első jognyilatkozat megtételének napját követő 60 napon belül jogosult bejelentést tenni azokról a jogdíjra jogosító immateriális jószágokról, amelyeket a belföldi illetőség megszerzése előtt szerzett vagy állított elő;
 
 6. belföld: Magyarország területe, ideértve a vámszabad- és a tranzitterületet is;
 
@@ -118,15 +118,11 @@ e) nem kell e rendelkezéseket alkalmazni, ha az adózó vagy a csoporthoz tarto
 
 20. jogdíj:
 
-a) a szabadalom, a más iparjogvédelmi oltalomban részesülő szellemi alkotás és a know-how hasznosítási engedélye,
+a) a szabadalom, a használatiminta-oltalom, a növényfajta-oltalom, a kiegészítő oltalmi tanúsítvány, a mikroelektronikai félvezető termékek topográfiájának oltalma és a szerzői jogi védelemben részesülő szoftver hasznosítási engedélyéből, felhasználási engedélyéből és a ritka betegségek gyógyszerévé minősítésből (a továbbiakban: kizárólagos jogok) származó eredmény,
 
-b) a védjegy, a kereskedelmi név, az üzleti titok használati engedélye,
+b) az a) pontban említett kizárólagos jogok értékesítéséből, nem pénzbeli vagyoni hozzájárulásként történő kivezetéséből származó eredmény, valamint
 
-c) a szerzői jogi törvény által védett szerzői mű és a szerzői joghoz kapcsolódó jog által védett teljesítmény felhasználási engedélye, valamint
-
-d) az a) és c) pontban említett iparjogvédelmi és szerzői jogi oltalmi tárgyakhoz fűződő vagyoni jogok átruházása
-
-fejében a jogosult által kapott ellenérték;
+c) a termékértékesítésből és a szolgáltatásnyújtásból származó eredmény a) pontban említett kizárólagos jogok értékéhez kapcsolódó hányada;
 
 21. jövedelem: az e törvényben az adó alapjaként meghatározott összeg;
 

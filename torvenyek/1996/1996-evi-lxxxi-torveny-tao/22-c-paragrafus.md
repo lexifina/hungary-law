@@ -64,6 +64,8 @@ eb) képzéssel összefüggő feladatokra.
 
 (2) Az adózó a (3) bekezdés szerint a részére kiállított támogatási igazolásban szereplő összegig – döntése szerint – a támogatás (juttatás) adóéve és az azt követő adóévek adójából, de utoljára a támogatás (juttatás) naptári évét követő hatodik naptári évben lezáruló adóév adójából – feltéve, hogy a támogatási igazolás kiállítására irányuló kérelemnek a támogatás igénybevételére jogosult szervezet általi benyújtásakor az adózónak nincs lejárt köztartozása – adókedvezményt vehet igénybe, függetlenül attól, hogy e támogatással nem növeli adózás előtti eredményét az adóalap megállapításakor.
 
+(2a) A támogató az (1) bekezdés szerinti támogatás juttatásáért a támogatott szervezet részéről – szponzori szerződés keretében juttatott kiegészítő sportfejlesztési támogatás kivételével – ellenszolgáltatásra nem jogosult, az ezzel ellentétes megállapodás semmis. Ilyen megállapodás esetén a támogató nem jogosult sem a (2) bekezdés szerinti adókedvezményre, sem a 24/B. § szerinti jóváírásra.
+
 (3) Az adókedvezmény támogatási igazolás alapján vehető igénybe. Az adókedvezmény igénybevételének feltétele, hogy az adózó – jogszabályban meghatározottak szerint –
 
 a) az (5) bekezdés i) pontja szerinti támogatási szándéknyilatkozatot a támogatás igénybevételére jogosult szervezet részére a támogatási igazolás iránti kérelem benyújtását megelőzően kiállítja, továbbá a támogatási igazolás kiállítását követően a támogatási igazolásban szereplő összegű támogatást és a (3a) és (3b) bekezdésben meghatározott kiegészítő sportfejlesztési támogatást (a továbbiakban: kiegészítő sportfejlesztési támogatás) a (3a) bekezdés szerint arra jogosult szervezet számára átutalja, valamint
@@ -93,6 +95,8 @@ a) a támogatást (juttatást) nyújtó köztartozásmentes adózó megnevezés�
 b) a kedvezményre jogosító támogatás (juttatás) összegét, valamint
 
 c) – jogcímenként – a támogatott szervezet önálló fizetési számlájának számát.
+
+(3g) A támogató a szponzori szerződés keretében történő kiegészítő sportfejlesztési támogatás juttatásáért a támogatott szervezet részéről ellenszolgáltatásra jogosult. Az erre vonatkozó szerződés a támogató (2) bekezdésben meghatározott adókedvezmény igénybevételére való jogosultságát és a támogató 24/B. § szerinti jóváírás igénybevételére való jogosultságát nem érinti.
 
 (4) A támogatási igazolások összértéke nem haladhatja meg a támogatott szervezet jóváhagyott, adott támogatási időszakra vonatkozó sportfejlesztési programjában szereplő,
 
@@ -201,3 +205,5 @@ b) a helyi önkormányzat törzsvagyonának részét képező ingatlanon valósu
 (9a) Az (1) bekezdés b)–d) pontjában meghatározott támogatás igénybevételére jogosult szervezet kérelme esetén a látvány-csapatsport országos sportági szakszövetsége a jelenértékén legalább 300 millió forint értékű sportfejlesztési program esetében az e törvény felhatalmazása alapján kiadott kormányrendelet alapján a sportpolitikáért felelős miniszter és az adópolitikáért felelős miniszter véleményét figyelembe véve hoz döntést. A sportpolitikáért felelős miniszter és az adópolitikáért felelős miniszter az erre irányuló megkereséstől számított 10 napon belül közli álláspontját a látvány-csapatsport országos sportági szakszövetsége vezetőjével. A miniszteri vélemények közötti eltérés esetén a sportfejlesztési program e törvény szerinti támogatására vonatkozó jóváhagyó döntést megelőzően a látvány-csapatsport országos sportági szakszövetsége vezetője a sportpolitikáért felelős miniszter útján a Kormány döntését kéri. Ebben az esetben a látvány-csapatsport országos sportági szakszövetsége vezetője a Kormány döntésének megfelelően hagyja jóvá vagy utasítja el a sportfejlesztési program e törvény szerinti támogatását, és az erről szóló döntést közli a támogatás igénybevételére jogosult szervezettel.
 
 (10) Az e § alapján folyó sportfejlesztési program jóváhagyására, valamint a támogatási igazolás kiállítására irányuló eljárás tekintetében a támogatás igénybevételére jogosult szervezet a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó rendelkezései alapján elektronikus úton tart kapcsolatot a sportfejlesztési program jóváhagyását, valamint a támogatási igazolás kiállítását végző szervezettel.
+
+(11) A beszerzéskor 100 ezer forintot meghaladó bekerülési értékű nyilvántartásba vett tárgyi eszköz a könyv szerinti érték leírásáig nem idegeníthető el, nem terhelhető meg, kivéve annak indoklásával és a jóváhagyást végző szervezet előzetes írásbeli hozzájárulásával.

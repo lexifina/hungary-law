@@ -55,3 +55,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-81-00-00
 | 2016-04-12 | 2016. évi XVIII. törvény | 1996-81-00-00.100 |
 | 2016-04-26 | 2016. évi XV. törvény | 1996-81-00-00.101 |
 | 2016-06-16 | 2016. évi LXVI. törvény | 1996-81-00-00.102 |
+| 2016-07-16 | 2016. évi LXVI. törvény | 1996-81-00-00.103 |

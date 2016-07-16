@@ -6,7 +6,7 @@ a) kettős könyvvitelt vezető adózónál a várható kötelezettségekre és 
 
 b) az adóévben az adózás előtti eredmény terhére elszámolt terv szerinti értékcsökkenési leírás (ideértve az egy összegben elszámolt értékcsökkenési leírást is) és az adózás előtti eredmény terhére elszámolt terven felüli értékcsökkenés, továbbá az immateriális jószág, a tárgyi eszköz állományból bármely jogcímen történő kivezetésekor – kivéve, ha az kedvezményezett eszközátruházás miatt következik be, és teljesülnek a 16. § (13)–(15) bekezdésében előírt feltételek – vagy a forgóeszközök közé való átsorolásakor, valamint egyszeres könyvvitelt vezetőnél az eszközhöz kapcsolódó kötelezettség részleges vagy teljes elengedésekor, átvállalásakor az eszköz könyv szerinti értékének a készletre vett hulladékanyag, haszonanyag értékét meghaladó része, feltéve minden esetben, hogy az eszköz értékcsökkenését az adózó a számvitelről szóló törvény szerint az adózás előtti eredmény terhére számolta el,
 
-c)
+c) az adóévet megelőző adóévben a 7. § (1) bekezdés s) pontja alkalmazására tekintettel az ugyanazon jogdíjra jogosító immateriális jószágon realizált jogdíjból származó, a 7. § (22)–(24) bekezdése szerinti arányszámmal megállapított veszteség 50 százaléka,
 
 d) az a költségként, ráfordításként elszámolt, az adózás előtti eredmény csökkenéseként számításba vett összeg – ideértve az immateriális javak és tárgyi eszközök értékcsökkenési leírását is –, amely nincs összefüggésben a vállalkozási, a bevételszerző tevékenységgel, különös tekintettel a 3. számú mellékletben foglaltakra,
 
@@ -44,7 +44,7 @@ a) az ellenőrzött külföldi társaságban fennálló részesedésre az adóé
 
 b) a bejelentett részesedéshez kapcsolódó, az adóévben ráfordításként elszámolt értékvesztés, árfolyamveszteség, a részesedés bármely jogcímen történő kivezetése (ide nem értve az átalakulás, egyesülés, szétválás miatti elszámolást) következtében elszámolt veszteség, árfolyamveszteség (figyelembe véve az üzleti vagy cégérték kivezetése következtében elszámolt ráfordítást is),
 
-n) a bejelentett immateriális jószág bármely jogcímen történő kivezetése (ide nem értve az átalakulás, egyesülés, szétválás miatti elszámolást) következtében elszámolt veszteség,
+n) a bejelentett immateriális jószág bármely jogcímen történő kivezetése (ide nem értve az átalakulás, egyesülés, szétválás miatti elszámolást) következtében elszámolt, a 7. § (22)–(24) bekezdése szerinti arányszámmal megállapított veszteség,
 
 o) a forintról devizára, devizáról forintra, vagy devizáról más devizára való áttérés során a tőketartalék növeléseként elszámolt átszámítási különbözetek összege az áttérést követő adóévben,
 
