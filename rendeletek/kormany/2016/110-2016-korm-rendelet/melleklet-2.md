@@ -1,4 +1,4 @@
-2. melléklet a 110/2016. (V. 25.) Korm. rendelethez[^2]
+2. melléklet a 110/2016. (V. 25.) Korm. rendelethez[^3]
 
 ## Munkáltatói igazolás alapjogviszony fennállásáról
 
@@ -12,7 +12,7 @@
 
 1.4. Adószáma:
 
-1.5. Nyilvántartási szám:
+1.5. Nyilvántartási szám (pl. törzskönyvi, cégjegyzékszám):
 
 1.6. A munkáltató törvényes képviselőjének adatai (név, beosztás, telefonszám):
 
@@ -26,57 +26,49 @@
 
 2.4. Anyja neve:
 
-2.5. Személyazonosító igazolvány száma:
+2.5. Munkahelyi telefonszáma:
 
-2.6. Állandó lakcíme:
+2.6. Munkakör/beosztás:
 
-2.7. Munkahelyi telefonszáma:
+2.7. Jelenlegi jogviszonya*: □ kormányzati szolgálati jogviszony
 
-2.8. Munkakör/beosztás:
+□ állami szolgálati jogviszony
 
-2.9. Jelenlegi jogviszonya*: ⬜ kormánytisztviselő
+□ közszolgálati jogviszony
 
-⬜ állami tisztviselő
+□ közalkalmazotti jogviszony
 
-⬜ köztisztviselő
+□ munkaviszony
 
-⬜ közalkalmazott
+2.8. Jelenlegi jogviszonyának kezdete:
 
-⬜ munkavállaló
+2.9. Kinevezés/munkaszerződés típusa*: □ Határozatlan idejű
 
-2.10. Jelenlegi jogviszonyának kezdete:
+□ Határozott idejű: …………………………-ig.
 
-2.11. Kinevezés/munkaszerződés típusa*: □ Határozatlan idejű
-
-□ Határozott idejű:
-
-……………………………………………………-ig.
-
-2.12. Igazolom, hogy fent nevezett munkatársunk felmentés/felmondás hatálya alatt
+2.10. Igazolom, hogy fent nevezett munkatársunk felmentés/felmondás hatálya alatt
 
 □ áll
 
 □ nem áll.*
 
-2.13. Nyilatkozom, hogy fenti jogviszonyára tekintettel munkatársunk hatósági bizonyítvánnyal igazolta, hogy
+2.11. Nyilatkozom, hogy fenti jogviszonyára tekintettel munkatársunk
 
-□ büntetlen előéletű, valamint
-
-□ tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt nem áll.*
+□ hatósági bizonyítvánnyal igazolta, hogy büntetlen előéletű
 
 vagy
 
-□ Nyilatkozom, hogy munkatársunk nem hatósági erkölcsi bizonyítványhoz kötött munkakörben dolgozik.*
+□ nem hatósági erkölcsi bizonyítványhoz kötött munkakörben dolgozik.*
 
-2.14. Igazolom, hogy az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény (a továbbiakban: Vnyt.) alapján, a foglalkoztatottnak fenti jogviszonya tekintetében a Vnyt. 3. § (…) bekezdés …) pont …) alpontja alapján vagyonnyilatkozat-tételi kötelezettsége □ áll fenn □ nem áll fenn*;
+2.12. Igazolom, hogy az egyes vagyonnyilatkozat-tételi kötelezettségekről szóló 2007. évi CLII. törvény (a továbbiakban: Vnyt.) szerint a foglalkoztatottnak fenti jogviszonya tekintetében a Vnyt. 3. § (…) bekezdés …) pont …) alpontja alapján vagyonnyilatkozat-tételi kötelezettsége □ áll fenn □ nem áll fenn*;
 
 Amennyiben kötelezett:
 
-Vagyonnyilatkozat-tételi kötelezettségének eleget tett: ………………… év ……… hó … nap
+Vagyonnyilatkozat-tételi kötelezettségének eleget tett: …… év ……………… hó … nap
 
-Következő vagyonnyilatkozat-tétel esedékessége: ………………… év ……… hó … nap
+Következő vagyonnyilatkozat-tétel esedékessége: …… év ……….……….. hó … nap
 
-2.15. Igazolom, hogy fent nevezett havi bruttó illetménye/munkabére a jelen igazolás kiállítását megelőző hónapra: …………………………. Ft, azaz ……………………………. forint.
+2.13. Igazolom, hogy fent nevezett havi megállapított, rendszeres bruttó illetménye/munkabére a jelen igazolás kiállítását megelőző hónapra: …………………………. Ft, azaz ……………………………. forint.
 
 Ezt az igazolást fent nevezett munkatársunk részére az állami projektértékelői jogviszonyról, valamint egyes kapcsolódó törvények módosításáról szóló 2016. évi XXXIII. törvény 2. § 1. pontja, valamint a 3. § (2) bekezdés c) pontja alapján állami projektértékelői jogviszony létesítése céljából állítottam ki.
 
@@ -86,14 +78,14 @@ Kelt: …………………………… (hely), …… év …………………
 
 P. H.
 
-……………………………………………
+|  | .................................................................. |
 
-Munkáltató cégszerű aláírása
+|  | Munkáltató cégszerű aláírása |
 
-……………………………………………
+|  | ..................................................................... |
 
-Aláíró neve nyomtatott betűkkel
+|  | Aláíró neve nyomtatott betűkkel |
 
 * A megfelelő részt kérjük kitölteni, jelölni.
 
-[^2]: A 2. melléklet a 136/2016. (VI. 13.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^3]: A 2. melléklet a 199/2016. (VII. 15.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 4. §-át.

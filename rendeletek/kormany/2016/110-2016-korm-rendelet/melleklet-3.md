@@ -1,4 +1,4 @@
-3. melléklet a 110/2016. (V. 25.) Korm. rendelethez
+3. melléklet a 110/2016. (V. 25.) Korm. rendelethez[^4]
 
 ## Nyilatkozatok állami projektértékelői jogviszony létesítéséhez
 
@@ -32,8 +32,18 @@ büntetőjogi felelősségem tudatában nyilatkozom, hogy
 
 8. hozzájárulok ahhoz, hogy az alapjogviszony szerinti munkáltatóm tájékoztassa a Miniszterelnökséget a fennálló foglalkoztatási alapjogviszonyomról, illetve annak megszűnéséről.
 
+9. rendelkezem érvényes személyazonosító igazolvánnyal, lakcímet igazoló hatósági igazolvánnyal, társadalombiztosítási azonosító jelét igazoló hatósági igazolvánnyal és adóigazolvánnyal;
+
+10. rendelkezem felsőfokú iskolai végzettségemet igazoló oklevéllel vagy az állam által elismert szakképesítést tartalmazó bizonyítvánnyal;
+
+11. rendelkezem a „Szakértői tématerülettel kapcsolatos adatok” funkcióban általam megjelölendő tématerületnek, tématerületeknek megfelelő, legalább hároméves szakmai tapasztalattal;
+
+12. tudomásul veszem, hogy a 9–11. pontban megnevezett igazolványokat, okmányokat, dokumentumokat, igazolásokat eredeti, másolati vagy elektronikus formában ellenőrzés céljából a munkáltató a nyilatkozattételt követően bekérheti.
+
 Kelt: …………………………… (hely), …… év …………………… hó … napján.
 
 ………………………………………
 
 pályázó
+
+[^4]: A 3. melléklet a 199/2016. (VII. 15.) Korm. rendelet 2. § (3) bekezdése szerint módosított szöveg, alkalmazására lásd e módosító rendelet 4. §-át.
