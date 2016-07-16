@@ -4,7 +4,7 @@
 
 a) azon munkakör esetében, amely a Kjt. 61. § (1) bekezdése szerinti „A”–„E” fizetési osztályba történő besorolással tölthető be,
 
-b)[^10] a 2. számú melléklet I.1. pontja szerinti asszisztens munkakör, II.1. pontjában foglalt szakgondozó, kisgyermeknevelő, valamint III.A. pontja szerinti élelmezésvezető munkakör esetében.
+b)[^10] a 2. számú melléklet I.1. pontja szerinti asszisztens munkakör, II.1. pontjában foglalt szakgondozó, kisgyermeknevelő, a III.A. pontja szerinti élelmezésvezető és a 2/a. számú melléklet II.1. pontja szerinti kisgyermeknevelő munkakör esetében.
 
 (2)[^11]
 
@@ -65,7 +65,7 @@ c)[^17] magasabb vezetői beosztás esetén a szakmai érdek-képviseleti szöve
 [^7]: Az 1/A. §-t megelőző jogszabályi hivatkozást a 224/2007. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
 [^8]: Az 1/A. §-t a 224/2007. (VIII. 31.) Korm. rendelet 1. §-a iktatta be.
 [^9]: Az 1/A. § (1) bekezdése a 326/2008. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^10]: Az 1/A. § (1) bekezdés b) pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^10]: Az 1/A. § (1) bekezdés b) pontja a 191/2016. (VII. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^11]: Az 1/A. § (2) bekezdését a 326/2008. (XII. 29.) Korm. rendelet 9. § (2) bekezdés a) pontja hatályon kívül helyezte.
 [^12]: Az 1/A. § (3) bekezdése a 349/2012. (XII. 12.) Korm. rendelet 21. §-ával megállapított szöveg.
 [^13]: Az 1/A. § (5) bekezdése a 224/2007. (VIII. 31.) Korm. rendelet 8. § (4) bekezdése alapján 2007. december 31-én hatályát vesztette.

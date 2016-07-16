@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-257-20-
 | 2016-01-01 | 2000-257-20-22.25 | 418/2015. (XII. 23.) Korm. rendelet |
 | 2016-06-09 | 2000-257-20-22.26 | 418/2015. (XII. 23.) Korm. rendelet |
 | 2016-07-01 | 2000-257-20-22.27 | 116/2016. (VI. 6.) Korm. rendelet |
+| 2016-07-16 | 2000-257-20-22.28 | 191/2016. (VII. 13.) Korm. rendelet |
