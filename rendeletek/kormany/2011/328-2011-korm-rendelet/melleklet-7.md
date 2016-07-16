@@ -70,7 +70,7 @@
 
 ## (Arra az esetre vonatkozik, ha a kötelezett a kedvezményt a Nyilatkozat 1. pont f) alpontjában foglaltak alapján kívánja igénybe venni.)
 
-## 1. A feltétel csak bölcsődei ellátásban vagy óvodai nevelésben részesülő gyermek esetén alapozza meg a normatív kedvezményre való jogosultságot, ha a családban az egy főre jutó havi jövedelem összege nem haladja meg a kötelező legkisebb munkabér nettó összegének 130%-át [2015. évben a 89 408 Ft-ot].
+## 1. A feltétel csak bölcsődei ellátásban vagy óvodai nevelésben részesülő gyermek esetén alapozza meg a normatív kedvezményre való jogosultságot, ha a családban az egy főre jutó havi jövedelem összege nem haladja meg a kötelező legkisebb munkabér nettó összegének 130%-át [2016. évben a 95 960 Ft-ot].
 
 ## 2. A nyilatkozat megtételekor figyelembe veendő személyek köre: a kérelem benyújtásának időpontjában közös háztartásban élő családtagként kell figyelembe venni az egy lakásban együtt lakó, ott bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező
 
@@ -106,7 +106,7 @@
 
 ## 9. A családban az egy főre jutó havi jövedelem összegének kiszámítása: a család összes nettó jövedelme [a 2. pont szerinti személyek 3. pont szerinti jövedelmének együttes összege] csökkentve a fizetett gyermektartásdíj összegével, majd osztva a jövedelemszámításnál figyelembe veendő személyek számával [2. pont].
 
-7. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^48]
+7. melléklet a 328/2011. (XII. 29.) Korm. rendelethez[^50]
 
 NYILATKOZAT a Gyvt. 21/C. §-a szerinti szünidei gyermekétkeztetés igénybevételéhez
 
@@ -142,4 +142,4 @@ más törvényes képviselő) aláírása
 
 4 Kizárólag abban az esetben töltendő, amennyiben a jogosult az adott szünet, zárva tartás vonatkozásában az előző oszlopban nemmel nyilatkozott. Ez esetben azon munkanapok felsorolása szükséges, amelyek tekintetében – az adott szünidei gyermekétkeztetés időtartamán belül – a jogosult kéri az étkeztetés biztosítását.
 
-[^48]: A 7. mellékletet a 431/2015. (XII. 23.) Korm. rendelet 7. § (2) bekezdés a) pontja iktatta be.
+[^50]: A 7. mellékletet a 431/2015. (XII. 23.) Korm. rendelet 7. § (2) bekezdés a) pontja iktatta be.
