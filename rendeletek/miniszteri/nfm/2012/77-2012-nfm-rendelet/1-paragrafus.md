@@ -1,4 +1,4 @@
-## 1. §[^1] Az állami vagyonról szóló 2007. évi CVI. törvény 3. § (2a) bekezdés b) pontja alapján:
+## 1. §[^1] Az állami vagyonról szóló 2007. évi CVI. törvény (a továbbiakban: Vtv.) 3. § (2a) bekezdés b) pontja alapján:
 
 a) az ANTENNA HUNGÁRIA Magyar Műsorszóró és Rádióhírközlési Zártkörűen Működő Részvénytársaság;
 
@@ -38,7 +38,7 @@ r)[^4] az MFK Magyar Fejlesztési Központ Nonprofit Korlátolt Felelősségű T
 
 felett az államot megillető tulajdonosi jogok és kötelezettségek összessége gyakorlójának 2018. december 31-ig a Nemzeti Fejlesztési Minisztériumot jelölöm ki.
 
-[^1]: Az 1. § a 46/2014. (XI. 19.) NFM rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § a 46/2014. (XI. 19.) NFM rendelet 1. §-ával megállapított, nyitó szövegrésze a 22/2016. (VII. 15.) NFM rendelet 2. §-a szerint módosított szöveg.
 [^2]: Az 1. § p) pontját a 9/2015. (III. 5.) NFM rendelet 1. §-a iktatta be.
 [^3]: Az 1. § q) pontját újonnan a 9/2016. (IV. 25.) NFM rendelet 1. §-a iktatta be.
 [^4]: Az 1. § r) pontját a 9/2015. (III. 5.) NFM rendelet 1. §-a iktatta be.
