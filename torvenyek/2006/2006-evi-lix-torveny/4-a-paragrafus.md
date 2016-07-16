@@ -4,7 +4,7 @@
 
 (2) A pénzügyi szervezet a különadót az adóév március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
 
-(3) A 2010–2014. között jogelőd nélkül létrejött egyéb pénzügyi szervezet, a 2014. december 31-et követően jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó a különadót az utolsó rendelkezésre álló beszámolóval lezárt üzleti év adatai alapján az adóév szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – szeptember 10-éig és december 10-éig – megfizeti.
+(3) A 2009. december 31-ét követően jogelőd nélkül létrejött pénzügyi szervezet, valamint a naptári évtől eltérő üzleti évet alkalmazó adózó a különadót az adóévet megelőző második adóévi beszámolóval lezárt üzleti év adatai alapján az adóév szeptember 10-éig megállapítja, az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint két egyenlő részletben – szeptember 10-éig és december 10-éig – megfizeti.
 
 (4) A különadó alapja
 
@@ -54,7 +54,7 @@ ce)
 
 (8) A jogutód a jogutódlással 2011. január 1-jét követően megszűnő adózó – a jogutódlással történő megszűnés adóévében hatályos rendelkezések szerint megállapított – különadó fizetési kötelezettségét – első ízben a jogutódlást követő adóévben – március 10-éig megállapítja és az esedékességének megfelelő részletezésben külön nyomtatványon bevallja, valamint negyedévenként, a negyedév utolsó hónapjának 10. napjáig négy egyenlő részletben megfizeti.
 
-(8a) A (8) bekezdéstől eltérően a hitelintézet a (8) bekezdés rendelkezéseit a 2014. december 31-ét követő jogutódlással történő megszűnésre alkalmazza, figyelembe véve a (11) bekezdésben foglaltakat is.
+(8a) A hitelintézet a (8) bekezdést a (11) bekezdésben foglaltakra figyelemmel alkalmazza.
 
 (9) A megszűnő, vagy a különadó hatálya alól bármely más okból kikerülő pénzügyi szervezet a különadóval összefüggő minden olyan adókötelezettségét, amelynek teljesítésére előírt határidő korábban nem telt le, a megszűnését, illetőleg a különadó hatálya alól történő kikerülését követő 30. napig teljesíti.
 
@@ -72,7 +72,11 @@ e)
 
 (11) Az a hitelintézet, amely az adóévben befektetési szolgáltatási tevékenységet végez, vagy kiegészítő szolgáltatást nyújt, ezen tevékenységek vonatkozásában külön adókötelezettséget állapít meg a (4) bekezdés 3. pontjának és a (6) bekezdés c) pontjának megfelelő alkalmazásával az adóévi beszámoló adataira figyelemmel. Ezen tevékenységek vonatkozásában a különadót a hitelintézet az adóévet követő adóév szeptember 10-ig állapítja meg, vallja be és két egyenlő részletben – szeptember 10-ig és december 10-ig – megfizeti.
 
-(12)–(20)
+(12) Az a hitelintézet, amely a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi CCXVII. törvény (a továbbiakban: Hpt.) 6. § (1) bekezdés 89. pontja szerinti pénzügyi lízing tevékenységet végez, az e § szerinti adókötelezettségét ezen tevékenysége vonatkozásában a pénzügyi vállalkozásokra vonatkozó rendelkezések megfelelő alkalmazásával, az adóévet megelőző második adóévi éves beszámoló adatai alapján állapítja meg. Az a hitelintézet, amely a Hpt. 6. § (1) bekezdés 89. pontja szerinti pénzügyi lízing tevékenységet jogutódlásra tekintettel végzi, e bekezdés szerinti adókötelezettségét a (8) bekezdésre figyelemmel állapítja meg.
+
+(13) Az a hitelintézet, amely a Hpt. 6. § (1) bekezdés 89. pontja szerinti pénzügyi lízing tevékenység adókötelezettsége vonatkozásában a (12) bekezdés szerint állapítja meg adókötelezettségét, a (4) bekezdés 1. pontja szerinti adókötelezettsége megállapításánál a pénzügyi lízing tevékenységet nem veszi figyelembe.
+
+(14)–(20)
 
 (21)–(29)
 

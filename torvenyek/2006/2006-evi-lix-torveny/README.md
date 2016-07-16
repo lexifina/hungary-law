@@ -21,3 +21,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-59-00-00
 | 2014-12-31 | 2013. évi CC. törvény | 2006-59-00-00.21 |
 | 2015-01-01 | 2014. évi LXXIV. törvény | 2006-59-00-00.22 |
 | 2016-01-01 | 2015. évi LXXXI. törvény | 2006-59-00-00.23 |
+| 2016-07-16 | 2016. évi LXVI. törvény | 2006-59-00-00.24 |
