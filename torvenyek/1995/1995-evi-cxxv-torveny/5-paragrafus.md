@@ -40,4 +40,6 @@ m) a Nemzeti Biztonsági Felügyelet megkeresésére elvégzi a hatáskörébe t
 
 n) elvégzi a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti előzetes minősítést, beszerzési eljáráshoz kötődő minősítést, valamint saját minősített beszerzései tekintetében elvégezheti a szükséges kiegészítő ellenőrzést,
 
-o) végzi az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerint kártyakibocsátás engedélyezését kérők ellenőrzését és az ezzel kapcsolatos feladatokat.
+o) végzi az egységes elektronikuskártya-kibocsátási keretrendszerről szóló törvény szerint kártyakibocsátás engedélyezését kérők ellenőrzését és az ezzel kapcsolatos feladatokat;
+
+p) felderíti és elhárítja a Magyarország nemzetbiztonságát veszélyeztető, a g) pont szerinti kérelmekhez kapcsolódó, Magyarországra jogellenesen belépő, itt tartózkodó, illetve ezt elősegítő, és ilyen módon az ország nemzetbiztonságát veszélyeztető személyek, csoportok leplezett tevékenységét;

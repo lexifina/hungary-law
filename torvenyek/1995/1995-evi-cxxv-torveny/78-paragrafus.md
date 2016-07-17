@@ -18,6 +18,8 @@ c) a Katonai Nemzetbiztonsági Szolgálat hatáskörébe tartozik, a honvédelem
 
 egyetértésével kiadott rendeletben állapítsák meg a nemzetbiztonsági ellenőrzés alá eső munkaköröket.
 
+(1b) Felhatalmazást kap a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter, hogy a Terrorelhárítási Információs és Bűnügyi Elemző Központ és az utasadat szolgáltatója közötti kapcsolattartás, valamint adatátadás módját rendeletben szabályozza.
+
 (2) Felhatalmazást kap a miniszter, hogy utasításban megállapítsa:
 
 a) a szolgálatra való alkalmasság különleges feltételeit, az alkalmassági feltételek ellenőrzésének szabályait;

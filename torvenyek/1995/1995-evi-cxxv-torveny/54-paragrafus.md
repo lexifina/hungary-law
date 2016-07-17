@@ -22,4 +22,6 @@ i) az 56. §-ban foglaltakon kívül beszélgetést lehallgathatnak, az észlelt
 
 j) hírközlési rendszerekből és egyéb adattároló eszközökből információkat gyűjthetnek.
 
+(1a) Az (1) bekezdés f) és g) pontjában meghatározott feladat ellátása céljából a nemzetbiztonsági szolgálatok a 41. § (1) bekezdésben meghatározott nyilvántartásokban adatot helyezhetnek el.
+
 (2) Rendvédelmi szerv és a Nemzeti Adó- és Vámhivatal fedőintézményként, okmánya fedőokmányként csak az illetékes miniszter és az érintett szervezet országos vezetőjének tájékoztatásával alkalmazható.

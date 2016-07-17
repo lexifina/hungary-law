@@ -4,6 +4,6 @@
 
 (3) A nemzetbiztonsági szolgálatok feladataik ellátása során együttműködhetnek természetes személyekkel, jogi személyekkel vagy jogi személyiséggel nem rendelkező szervezetekkel. Az együttműködés részletes szabályait – a törvényi előírások keretei között – külön megállapodások rögzíthetik.
 
-(4) A nemzetbiztonsági szolgálatok nemzetközi megállapodások és kötelezettségvállalások alapján együttműködhetnek külföldi titkosszolgálatokkal.
+(4) A nemzetbiztonsági szolgálatok nemzetközi megállapodások és kötelezettségvállalások alapján együttműködhetnek külföldi titkosszolgálatokkal. A Terrorelhárítási Információs és Bűnügyi Elemző Központ az előzőeken túlmenően – a polgári nemzetbiztonsági szolgálatok irányításáért felelős miniszter jóváhagyásával – közvetlenül kapcsolatot tarthat fenn nemzetközi szervezetekkel, külföldi állam rendőri, közigazgatási, bűnüldöző, nemzetbiztonsági, vagy e célok elősegítésére létrehozott szervével.
 
 (5) A nemzetbiztonsági szolgálatok a biztonsági követelmények érvényesítése érdekében a társadalombiztosítási, egészségügyi, adóelszámolási, költségvetési, pénzügyi, statisztikai adatszolgáltatással, a maradandó értékű irat védelme érdekében végzett levéltári ellenőrzéssel, valamint a speciális működési költségek körébe tartozó valutafelhasználással kapcsolatos eljárási szabályokat – a törvényi előírások keretei között – az illetékes szervezetekkel külön megállapodásban rögzítik.

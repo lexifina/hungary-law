@@ -14,16 +14,18 @@ f) ellátja az objektumai műveleti védelmének és személyi állománya, vala
 
 g) elvégezheti a saját minősített beszerzései tekintetében a minősített adatot, az ország alapvető biztonsági, nemzetbiztonsági érdekeit érintő vagy a különleges biztonsági intézkedést igénylő beszerzések szabályairól szóló kormányrendelet szerinti kiegészítő ellenőrzést,
 
-h) törvény által titkos adatszerzésre, titkos információgyűjtésre jogosult szervek erre vonatkozó megkeresésére – az adatkezelő megjelölésével – segítséget nyújthat a titkos adatszerzésre, titkos információgyűjtésre jogosult adatkezelő szervtől történő, az adatkérő által jogszerűen kezelhető adat igényléséhez.
+h) törvény által titkos adatszerzésre, titkos információgyűjtésre jogosult szervek erre vonatkozó megkeresésére – az adatkezelő megjelölésével – segítséget nyújthat a titkos adatszerzésre, titkos információgyűjtésre jogosult adatkezelő szervtől történő, az adatkérő által jogszerűen kezelhető adat igényléséhez,
+
+i) jogszabály rendelkezései szerint ellátja az állami és önkormányzati szervek elektronikus információbiztonságával kapcsolatos információbiztonsági feladatokat.
 
 (2) A Nemzetbiztonsági Szakszolgálat kormányzati tájékoztató tevékenységet nem folytathat.
 
-(3) A Nemzetbiztonsági Szakszolgálat szolgáltató szervezet, az 54. § (1) bekezdésében meghatározott eszközöket és módszereket – az e) pont kivételével – saját kezdeményezésre csak az (1) bekezdés a) és f) pontjában meghatározott feladatai ellátása érdekében alkalmazhatja.
+(3) A Nemzetbiztonsági Szakszolgálat, az 54. § (1) bekezdésében meghatározott tevékenységet, eszközöket és módszereket saját kezdeményezésre csak az (1) bekezdés a) és f) pontjában meghatározott feladatai ellátása érdekében végezheti, illetve alkalmazhatja.
 
-(4) A Nemzetbiztonsági Szakszolgálat az 54. § (1) bekezdés e) pontjában, valamint – a 71. § (8) bekezdésében foglaltak kivételével – az 56. §-ban meghatározott titkos információgyűjtés eszközeit és módszereit saját kezdeményezésre nem alkalmazhatja.
+(4) A Nemzetbiztonsági Szakszolgálat az 56. §-ban meghatározott titkos információgyűjtés eszközeit és módszereit – az (1) bekezdés f) pontjában meghatározott feladat ellátása kivételével – saját kezdeményezésre nem alkalmazhatja.
 
 (5) A Nemzetbiztonsági Szakszolgálat által teljesített szolgáltatások – az (1) bekezdés e) pontjában meghatározott igazságügyi szakértői tevékenységet kivéve – térítésmentesek.
 
 (6) A titkos információgyűjtésre, illetve a titkos adatszerzésre felhatalmazott szervek és a Nemzetbiztonsági Szakszolgálat közötti együttműködés rendjét a Kormány határozza meg.
 
-(7) A Nemzetbiztonsági Szakszolgálat a megkeresések teljesítésekor – a nemzetközi bűnügyi együttműködés keretében végzett határon átnyúló megfigyelés kivételével – kizárólag Magyarország területén tevékenykedhet.
+(7)

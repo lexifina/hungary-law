@@ -10,7 +10,7 @@ a) a megrendelő szervezet írásbeli megkeresését a szükséges engedéllyel,
 
 b) a megkeresésben megjelölt személyek azonosításához szükséges személyes adatokat,
 
-c) az adott ügyben alkalmazott titkos információgyűjtés, illetve titkos adatszerzés eszközeinek és módszereinek leírását, valamint
+c) az adott ügyben alkalmazott titkos információgyűjtés, illetve titkos adatszerzés eszközeinek és módszereinek leírását, valamint a személyes adatnak nem minősülő, műveleti értékkel bíró információkat, technikai adatokat,
 
 d) a megrendelő szervezet részére továbbított adathordozók jegyzékét.
 

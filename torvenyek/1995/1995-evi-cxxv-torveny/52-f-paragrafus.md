@@ -1,0 +1,5 @@
+52/F. § (1) A kormányzati tájékoztató tevékenységhez, az elemző-értékelő tevékenységhez, valamint a Terrorelhárítási Információs és Bűnügyi Elemző Központ igazgatásához kapcsolódó adatokat elkülönítetten kell kezelni.
+
+(2) A Terrorelhárítási Információs és Bűnügyi Elemző Központ az elemző-értékelő tevékenység, illetve a kormányzati tájékoztató tevékenység céljából az általa kezelt adatokat tartalmazó, elkülönített adatkezelési rendszereket egymással és más adatkezelési rendszerrel összekapcsolva, meghatározott feladat teljesítése érdekében egyedi adatkezelést végezhet. Az összekapcsolás során keletkezett olyan új adatokat, amelyek az elemző-értékelő tevékenység, illetve a kormányzati tájékoztató tevékenység során nem kerülnek felhasználásra, haladéktalanul törölni kell.
+
+(3) A Terrorelhárítási Információs és Bűnügyi Elemző Központ által kezelt adatot haladéktalanul törölni kell akkor is, ha az együttműködő szervtől beszerzett adatot az együttműködő szerv a saját adatkezelési rendszeréből törölte. Az együttműködő szerv az adat törléséről közvetlen elektronikus adatkapcsolat útján tájékoztatja a Terrorelhárítási Információs és Bűnügyi Elemző Központot.
