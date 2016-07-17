@@ -262,23 +262,23 @@
 
 8. Büntetés-végrehajtás Országos Parancsnoksága és az irányítása alá tartozó szervek
 
-9. Szervezett Bűnözés Elleni Koordinációs Központ
+9.[^15] Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
 10. Terrorelhárítási Központ
 
 11. Nemzeti Védelmi Szolgálat
 
-12.[^15] Országos Vízügyi Főigazgatóság és a vízügyi igazgatóságok
+12.[^16] Országos Vízügyi Főigazgatóság és a vízügyi igazgatóságok
 
-13.[^16] Bevándorlási és Állampolgársági Hivatal
+13.[^17] Bevándorlási és Állampolgársági Hivatal
 
-14.[^17] Bevándorlási és Állampolgársági Hivatal Menekültügyi Őrzött Befogadó Központ, Békéscsaba
+14.[^18] Bevándorlási és Állampolgársági Hivatal Menekültügyi Őrzött Befogadó Központ, Békéscsaba
 
-15.[^18] Bevándorlási és Állampolgársági Hivatal Befogadó Állomás, Bicske
+15.[^19] Bevándorlási és Állampolgársági Hivatal Befogadó Állomás, Bicske
 
-16.[^19] Belügyminisztérium Nemzetközi Oktatási Központ
+16.[^20] Belügyminisztérium Nemzetközi Oktatási Központ
 
-17.[^20] Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala
+17.[^21] Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala
 
 [^6]: Az 1. melléklet 2. pontja a 4/2016. (I. 22.) BM rendelet 1. pontjával megállapított szöveg.
 [^7]: Az 1. melléklet 4. pontja a 4/2016. (I. 22.) BM rendelet 1. pontjával megállapított szöveg.
@@ -289,9 +289,10 @@
 [^12]: Az 1. melléklet 27. pont l) pontját a 61/2014. (XII. 12.) BM rendelet 3. §-a iktatta be.
 [^13]: Az 1. melléklet 32. pontját a 4/2016. (I. 22.) BM rendelet 1. pontja iktatta be.
 [^14]: A 2. melléklet 5. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^15]: A 2. melléklet 12. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^16]: A 2. melléklet 13. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^17]: A 2. melléklet 14. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^18]: A 2. melléklet 15. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^19]: A 2. melléklet 16. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^20]: A 2. melléklet 17. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^15]: A 2. melléklet 9. pontja a 29/2016. (VII. 15.) BM rendelet 4. §-ával megállapított szöveg.
+[^16]: A 2. melléklet 12. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^17]: A 2. melléklet 13. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^18]: A 2. melléklet 14. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^19]: A 2. melléklet 15. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^20]: A 2. melléklet 16. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^21]: A 2. melléklet 17. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
