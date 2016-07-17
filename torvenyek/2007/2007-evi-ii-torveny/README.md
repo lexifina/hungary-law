@@ -39,3 +39,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-2-00-00
 | 2016-06-01 | 2016. évi XXXIX. törvény | 2007-2-00-00.39 |
 | 2016-07-01 | 2016. évi XXXIX. törvény | 2007-2-00-00.40 |
 | 2016-07-05 | 2016. évi XCIV. törvény | 2007-2-00-00.41 |
+| 2016-07-17 | 2016. évi LXIX. törvény | 2007-2-00-00.42 |
