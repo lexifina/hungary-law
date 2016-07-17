@@ -1,3 +1,3 @@
-## 12. § A Gytr. 4. §-a a következő (1a) bekezdéssel egészül ki:
+## 11–12. §[^8]
 
-## „(1a) Ha az intézményi térítési díj számítása nem eredményez pozitív számot, a személyi térítési díj összege nulla.”
+[^8]: A 11–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
