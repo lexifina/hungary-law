@@ -1,6 +1,6 @@
 ## 49. § A Kormány a nemzetiségi önkormányzatok törvényességi felügyeletének szakmai irányítására a minisztert jelöli ki.
 
-50. §[^44] (1) A miniszter a családpolitikáért való felelőssége keretében előkészíti a családok támogatásával, a család- és népesedéspolitikai eszközök kialakításával és működtetésével, a gyermeket vállaló és nevelő szülők támogatásával, a munka és a család összeegyeztetésének és összekapcsolásának biztosításával, valamint a nemzedékek közötti együttműködés erősítésével összefüggő jogszabályokat.
+50. §[^45] (1) A miniszter a családpolitikáért való felelőssége keretében előkészíti a családok támogatásával, a család- és népesedéspolitikai eszközök kialakításával és működtetésével, a gyermeket vállaló és nevelő szülők támogatásával, a munka és a család összeegyeztetésének és összekapcsolásának biztosításával, valamint a nemzedékek közötti együttműködés erősítésével összefüggő jogszabályokat.
 
 (2) A miniszter a családpolitikáért való felelőssége keretében
 
@@ -16,4 +16,4 @@ e) koordinálja az idősek érdekeit szolgáló nemzetközi egyezmények végreh
 
 f) koordinálja a nők és férfiak társadalmi egyenlőségének előmozdításával kapcsolatos feladatokat és figyelemmel kíséri a női jogok érvényesülését.
 
-[^44]: Az 50. § a 221/2014. (IX. 4.) Korm. rendelet 824. §-ával megállapított szöveg.
+[^45]: Az 50. § a 221/2014. (IX. 4.) Korm. rendelet 824. §-ával megállapított szöveg.

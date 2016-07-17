@@ -16,6 +16,6 @@ c) ellátja az oktatási koordinációval kapcsolatos feladatokat,
 
 d) működteti az országos vizsgarendszert.
 
-e)[^47] közreműködik a Nemzeti Köznevelési Infrastruktúra Fejlesztési Programhoz kapcsolódó, a nemzeti fejlesztési miniszter hatáskörébe tartozó tanterem, tornaterem és tanuszoda fejlesztési feladatok ellátásában, valamint ellátja a köznevelési intézménnyel egybeépített vagy azzal azonos ingatlanon elhelyezkedő tanterem és tornaterem üzemeltetési, továbbá egyéb iskolaüzemeltetési feladatokat.
+e)[^48] közreműködik a Nemzeti Köznevelési Infrastruktúra Fejlesztési Programhoz kapcsolódó, a nemzeti fejlesztési miniszter hatáskörébe tartozó tanterem, tornaterem és tanuszoda fejlesztési feladatok ellátásában, valamint ellátja a köznevelési intézménnyel egybeépített vagy azzal azonos ingatlanon elhelyezkedő tanterem és tornaterem üzemeltetési, továbbá egyéb iskolaüzemeltetési feladatokat.
 
-[^47]: Az 59. § (2) bekezdés e) pontját a 464/2015. (XII. 29.) Korm. rendelet 1. §-a iktatta be.
+[^48]: Az 59. § (2) bekezdés e) pontját a 464/2015. (XII. 29.) Korm. rendelet 1. §-a iktatta be.

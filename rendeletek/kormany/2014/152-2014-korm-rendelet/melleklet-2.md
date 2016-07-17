@@ -62,7 +62,7 @@
 
 |  | 10 | Országos Rendőr-főkapitányság és az irányítása alá tartozó szervek | irányítás |
 
-|  | 11 | Szervezett Bűnözés Elleni Koordinációs Központ | irányítás |
+|  | 11 | Terrorelhárítási Információs és Bűnügyi Elemző Központ | irányítás |
 
 |  | 12 | Terrorelhárítási Központ | irányítás |
 

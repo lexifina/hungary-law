@@ -8,7 +8,7 @@ c) végzi a vízminőségi kárelhárítás végrehajtásának az irányításá
 
 d) irányítja az integrált folyógazdálkodási feladatok végzését a vízgyűjtő-gazdálkodás keretein belül, valamint – a közlekedésért felelős miniszterrel együttműködve – gondoskodik a hajóút-kitűzési és a víziút-fenntartási tevékenységekről,
 
-e)[^42] ellátja a vízgazdálkodási társulatokkal kapcsolatos szakmai feladatokat,
+e)[^43] ellátja a vízgazdálkodási társulatokkal kapcsolatos szakmai feladatokat,
 
 f) gondoskodik a természetes nagy tavakon, többcélú tározókon a vízügyi intézkedési tervek végrehajtásáról, meghatározza a part-, meder- és vízszint-szabályozási feladatokat, a partvonal-szabályozási feladatokat,
 
@@ -28,4 +28,4 @@ m) ellátja az országhatárokon átterjedő vízszennyezésekkel kapcsolatos fe
 
 n) gondoskodik a szomszédos országokkal létesített vízgazdálkodási egyezmények végrehajtásáról.
 
-[^42]: A 46. § e) pontja a 221/2014. (IX. 4.) Korm. rendelet 823. §-ával megállapított szöveg.
+[^43]: A 46. § e) pontja a 221/2014. (IX. 4.) Korm. rendelet 823. §-ával megállapított szöveg.
