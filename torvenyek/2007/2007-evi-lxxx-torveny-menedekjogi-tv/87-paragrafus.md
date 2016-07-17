@@ -34,7 +34,7 @@ p) a 2014–2020 közötti programozási időszakban a Belső Biztonsági Alapb�
 
 igényelhetnek adatot.
 
-(1a) Az e fejezetben meghatározott nyilvántartásokból a szervezett bűnözés elleni koordinációs központ az utasadatok kockázatelemzése céljából igényelhet adatot.
+(1a) Az e fejezetben meghatározott nyilvántartásokból a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából igényelhet adatot.
 
 (2) A menekültügyi hatóság – a személyiadat- és lakcímnyilvántartásba történő felvétel, illetve a személyazonosító igazolvánnyal, valamint a személyi azonosítót és lakcímet igazoló hatósági igazolvánnyal történő ellátás céljából az érintett személy törvényben meghatározott adatainak közlésével – a menekültként vagy oltalmazottként történő elismerésről tájékoztatja az érintett leendő lakóhelye szerint illetékes járási hivatalt.
 
