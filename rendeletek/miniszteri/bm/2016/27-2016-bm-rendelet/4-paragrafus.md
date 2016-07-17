@@ -1,0 +1,1 @@
+## 3. § Ha a parancsnok a nyomozás során észleli, hogy a terhelt bűncselekménye vagy több bűncselekmény esetén azok valamelyike nem tartozik a nyomozási hatáskörébe, a feljelentést, továbbá az eljárás során keletkezett iratokat három napon belül megküldi a katonai ügyésznek.
