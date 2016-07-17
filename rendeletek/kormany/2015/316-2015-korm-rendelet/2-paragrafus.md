@@ -16,7 +16,7 @@ f) az Alkotmányvédelmi Hivatal,
 
 g) a Nemzeti Védelmi Szolgálat,
 
-h) a Szervezett Bűnözés Elleni Koordinációs Központ,
+h)[^1] a Terrorelhárítási Információs és Bűnügyi Elemző Központ,
 
 i) a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala,
 
@@ -61,3 +61,5 @@ c) amennyiben a b) alpont szerinti feladatkörrel rendelkező miniszter nem áll
 7. minősített adat: a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pontjában meghatározott adat;
 
 8. tömeges bevándorlás okozta válsághelyzet: a menedékjogról szóló 2007. évi LXXX. törvény (a továbbiakban: Met.) 80/A. §-ában foglaltak alapján, a Kormány által elrendelt helyzet.
+
+[^1]: A 2. § 1. pont h) alpontja a 186/2016. (VII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
