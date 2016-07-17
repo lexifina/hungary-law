@@ -1,6 +1,6 @@
-## 35–36. §[^53]
+## 35–36. §[^55]
 
-1. melléklet a 70/2011. (XII. 30.) BM rendelethez[^54]
+1. melléklet a 70/2011. (XII. 30.) BM rendelethez[^56]
 
 ## A munkavédelmi szakképesítésű személyek és a munkavédelmi felügyeletet ellátó
 
@@ -52,6 +52,8 @@ személyek létszáma, a szakképesítési követelmények és a munkavégzés n
 
 | 14. | Alkotmányvédelmi Hivatal | munkavédelmi felügyelő | felsőfokú | 1/teljes* |
 
+| 14/a. | Terrorelhárítási és Információs Bűnügyi Elemző Központ | munkavédelmi felügyelő | felsőfokú | 1/teljes* |
+
 | 15. | Rendészeti Szakközépiskolák | munkavédelmi felügyelő | középfokú | 1/rész* |
 
 | 16. | A rendvédelmi szervek helyi szervei | egészségvédelmi megbízott | a rendelet 2. § c) pontja szerinti képzési tematika alapján tett vizsga | 1/rész |
@@ -82,5 +84,5 @@ Ahol felsőfokú munkavédelmi szakképesítésű személy alkalmazása kötelez
 
 * A 3. pontban meghatározottak szerint, a kötelezően foglalkoztatandó szakember mellett munkavállalói létszámhoz igazítandó azzal, hogy minden megyében és megyei jogállású szervnél kötelező felsőfokú végzettségű munkavédelmi szakember foglalkoztatása.
 
-[^53]: A 35–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^54]: Az 1. melléklet a 43/2012. (VIII. 23.) BM rendelet 17. § szerint módosított szöveg.
+[^55]: A 35–36. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^56]: Az 1. melléklet a 43/2012. (VIII. 23.) BM rendelet 17. §-a, a 29/2016. (VII. 15.) BM rendelet 12. §-a szerint módosított szöveg.
