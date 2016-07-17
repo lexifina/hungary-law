@@ -14,7 +14,11 @@ c) más állam alkotmányos, társadalmi vagy gazdasági rendjét megváltoztass
 
 a (4) bekezdésben meghatározott személy elleni erőszakos, közveszélyt okozó vagy fegyverrel kapcsolatos bűncselekményt követ el, bűntett miatt tíz évtől húsz évig terjedő vagy életfogytig tartó szabadságvesztéssel büntetendő.
 
-(2) Az (1) bekezdés szerint büntetendő, aki az a) pontban meghatározott célból jelentős anyagi javakat kerít hatalmába, és azok sértetlenül hagyását vagy visszaadását állami szervhez vagy nemzetközi szervezethez intézett követelés teljesítésétől teszi függővé.
+(2) Az (1) bekezdés szerint büntetendő, aki az a) pontban meghatározott célból
+
+a) jelentős anyagi javakat kerít hatalmába, és azok sértetlenül hagyását vagy visszaadását állami szervhez vagy nemzetközi szervezethez intézett követelés teljesítésétől teszi függővé, vagy
+
+b) terrorista csoportot szervez.
 
 (3) Korlátlanul enyhíthető annak a büntetése, aki
 
