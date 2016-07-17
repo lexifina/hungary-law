@@ -8,10 +8,11 @@ c) a képernyős szemüveggel történő ellátásba nem tartozó, látásjavít
 
 ## kapcsolatos költségtérítésre jogosultak.
 
-(2) A vezényléssel szolgálatot teljesítő hivatásos állományú esetében a fogászati költségek, valamint a szemüvegkészítés vagy kontaktlencse vásárlás költségeinek megtérítése a foglalkoztató belügyi szervet terheli. A Szervezett Bűnözés Elleni Koordinációs Központ esetében a kifizetés a vezénylő belügyi szerv költségvetésének terhére történik.
+(2)[^4] A vezényléssel szolgálatot teljesítő hivatásos állományú esetében a fogászati költségek, valamint a szemüvegkészítés vagy kontaktlencse vásárlás költségeinek megtérítése a foglalkoztató belügyi szervet terheli.
 
 (3) A hivatásos állomány tagja és a közalkalmazott a próbaidő tartama alatt nem jogosult az e rendelet szerinti költségtérítésre.
 
 (4) A nyugállományú szociális helyzetére figyelemmel, a szociális gondozás keretében a fogászati ellátással, valamint látásjavító szemüvegkészítéssel vagy kontaktlencse vásárlással kapcsolatos költségeihez e rendelet szerint nyújtható költségtámogatás.
 
 [^3]: A 2. § (1) bekezdése a 13/2014. (II. 25.) BM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 2. § (2) bekezdése a 29/2016. (VII. 15.) BM rendelet 27. §-ával megállapított szöveg.
