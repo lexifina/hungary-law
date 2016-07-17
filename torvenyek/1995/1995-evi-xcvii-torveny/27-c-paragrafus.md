@@ -46,6 +46,6 @@ kezelheti.
 
 (4) Az (1) bekezdésben meghatározott adatok – a foglaló kezdeményezése alapján – mindaddig megváltoztathatók, amíg az érintett járatra történő utasfelvételi eljárás be nem fejeződik.
 
-(5) A személyszállítást végző légifuvarozó köteles az (1) bekezdésben meghatározott adatok közül a rendelkezésére álló adatokat a járat tervezett indulási ideje előtt 12 órával, valamint az utasfelvételi eljárás befejezését követően, közvetlenül a légi jármű felszállása után haladéktalanul továbbítani a szervezett bűnözés elleni koordinációs központnak az utasadat-információs tevékenységéhez kapcsolódó feladatellátáshoz.
+(5) A személyszállítást végző légifuvarozó köteles az (1) bekezdésben meghatározott adatok közül a rendelkezésére álló adatokat a járat tervezett indulási ideje előtt 12 órával, valamint az utasfelvételi eljárás befejezését követően, közvetlenül a légi jármű felszállása után haladéktalanul továbbítani a Terrorelhárítási Információs és Bűnügyi Elemző Központnak az utasadat-információs tevékenységéhez kapcsolódó feladatellátáshoz.
 
 (6) A személyszállítást végző légifuvarozó köteles az utasokat az adatok felvételével egyidejűleg tájékoztatni az adatok átadásáról, kezelőjéről, az adatkezelés céljáról, időtartamáról és az esetleges adatfeldolgozóról, valamint az utasról kezelt adatokról való tájékozódás és az adatok helyesbítésének jogáról, továbbá arról, hogy adatait mely szervnek és milyen célból továbbíthatja.
