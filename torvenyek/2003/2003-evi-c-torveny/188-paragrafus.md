@@ -239,5 +239,3 @@ b) amelyek egyes vállalkozásoknak nem objektív, arányos és hátrányos megk
 79. Nagyfrekvenciás mellékhatás: olyan nagyfrekvenciás jel, amely különféle célú berendezésekben (készülékekben, eszközökben, járművekben stb.) szikrakisülés, gázkisülés vagy félvezetős szabályozás melléktermékeként keletkezik.
 
 80. Nagyfrekvenciás villamos berendezés: az elektromágneses energia kis térben való előállítására és hasznosítására szolgáló ipari, tudományos, orvosi, háztartási vagy hasonló célú, nem elektronikus hírközlő berendezés.
-
-80/a. Nagy sebességű elektronikus hírközlő hálózat: legalább 30 Mb/s adatátviteli sebességű, széles sávú hozzáférési szolgáltatások nyújtására képes elektronikus hírközlő hálózat.

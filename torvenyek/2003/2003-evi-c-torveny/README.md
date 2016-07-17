@@ -42,3 +42,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-100-00-00
 | 2015-11-28 | 2015. évi CLXXXVIII. törvény | 2003-100-00-00.57 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2003-100-00-00.58 |
 | 2016-07-01 | 2016. évi XLIII. törvény | 2003-100-00-00.59 |
+| 2016-07-17 | 2016. évi LXIX. törvény | 2003-100-00-00.60 |
