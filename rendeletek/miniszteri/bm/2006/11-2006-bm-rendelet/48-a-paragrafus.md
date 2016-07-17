@@ -1,4 +1,4 @@
-## V. RÉSZ[^103]
+## V. RÉSZ[^106]
 
 ## A TISZTJELÖLTI ÁLLOMÁNYRA VONATKOZÓ SPECIÁLIS RENDELKEZÉSEK
 
@@ -6,4 +6,4 @@
 
 (2) A rendvédelmi szerv tisztjelöltjeire nem alkalmazható a 2. § (2) bekezdése, az 5. és 6. §, a 7. § (2) és (3) bekezdése, a 12. §, a 34. § (2)–(7) bekezdése, a 36. § (5)–(7) bekezdése, valamint a 37. §.
 
-[^103]: Az V. részt (48/A–48/C. §) a 20/2016. (VI. 9.) BM rendelet 44. § (2) bekezdése iktatta be.
+[^106]: Az V. részt (48/A–48/C. §) a 20/2016. (VI. 9.) BM rendelet 44. § (2) bekezdése iktatta be.

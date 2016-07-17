@@ -1,17 +1,20 @@
-## III/A. RÉSZ[^92]
+## III/A. RÉSZ[^94]
 
 ## A BECSÜLETBÍRÓSÁG
 
-## 47/A. § A hivatásos állománynak a Becsületbíróság tagjaként eljárni jogosult tagjairól a nevet, a rendfokozatot, a szolgálati helyet és a szolgálati beosztást rögzítő névjegyzéket
+## 47/A. §[^95] A hivatásos állománynak a Becsületbíróság tagjaként eljárni jogosult tagjairól a nevet, a rendfokozatot, a szolgálati helyet és a szolgálati beosztást rögzítő névjegyzéket
 
 a) az Országos Rendőr-főkapitányságon,
 
-b) az Országos Katasztrófavédelmi Főigazgatóságon,
+b) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságon,
 
 c) a Büntetés-végrehajtás Országos Parancsnokságán,
 
-d) a Nemzetbiztonsági Szakszolgálatnál, valamint
+d) a Nemzetbiztonsági Szakszolgálatnál,
 
-e) az Alkotmányvédelmi Hivatalnál
+e) az Alkotmányvédelmi Hivatalnál, valamint
 
-[^92]: A III/A. részt (47/A–47/C. §-t) a 68/2015. (XII. 16.) BM rendelet 1. §-a iktatta be.
+f) a Terrorelhárítási Információs és Bűnügyi Elemző Központnál
+
+[^94]: A III/A. részt (47/A–47/C. §-t) a 68/2015. (XII. 16.) BM rendelet 1. §-a iktatta be.
+[^95]: A 47/A. § a 29/2016. (VII. 15.) BM rendelet 2. §-ával megállapított szöveg.
