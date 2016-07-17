@@ -1,4 +1,4 @@
-2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^2]
+2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^4]
 
 ## Az általános rendőrségi feladatok ellátására létrehozott szerv szolgálati beosztásai
 
@@ -1040,4 +1040,4 @@ Egyéb rövidítések:
 
 | RRI: | Repülőtéri Rendőr Igazgatóság |
 
-[^2]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja szerint módosított szöveg.
+[^4]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja szerint módosított szöveg.

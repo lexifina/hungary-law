@@ -54,7 +54,7 @@
 
 ## KML: Katasztrófavédelmi mobil laborok
 
-6. melléklet a 30/2015. (VI. 16.) BM rendelethez[^6]
+6. melléklet a 30/2015. (VI. 16.) BM rendelethez[^8]
 
 ## A büntetés-végrehajtási szervezet szolgálati beosztásai
 
@@ -230,4 +230,4 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^6]: A 6. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § e) pontja szerint módosított szöveg.
+[^8]: A 6. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § e) pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 a) a Belügyminisztériumnál: 145 fő,
 
-b) a Szervezett Bűnözés Elleni Koordinációs Központnál: 41 fő,
+b)[^1]
 
 c) a rendészeti szakközépiskoláknál: 250 fő,
 
@@ -15,3 +15,5 @@ e) a Közszolgálati Személyzetfejlesztési Főigazgatóságnál: 25 fő
 ## lehet.
 
 (3) A (2) bekezdés szerinti létszámkeretbe nem kell beszámítani az európai uniós forrásból finanszírozott státusz terhére foglalkoztatott hivatásos állományút.
+
+[^1]: A 8. § (2) bekezdés b) pontját a 29/2016. (VII. 15.) BM rendelet 38. § a) pontja hatályon kívül helyezte.

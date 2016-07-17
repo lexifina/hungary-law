@@ -126,4 +126,6 @@
 
 ## Budapesti Fegyház és Börtön, Fővárosi Büntetés-végrehajtási Intézet, Pálhalmai Országos Büntetés-végrehajtási Intézet, Sopronkőhidai Fegyház és Börtön, Szegedi Fegyház és Börtön, Szombathelyi Országos Büntetés-végrehajtási Intézet, Állampusztai Országos Büntetés-végrehajtási Intézet, Közép-dunántúli Országos Büntetés-végrehajtási Intézet, Márianosztrai Fegyház és Börtön, Tiszalöki Országos Büntetés-végrehajtási Intézet, Váci Fegyház és Börtön
 
-7. melléklet a 30/2015. (VI. 16.) BM rendelethez
+7. melléklet a 30/2015. (VI. 16.) BM rendelethez[^9]
+
+[^9]: A 7. melléklet a 29/2016. (VII. 15.) BM rendelet 38. § c) pontja szerint módosított szöveg.

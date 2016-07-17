@@ -1,4 +1,4 @@
-## 17. §[^1]
+## 17. §[^3]
 
 1. melléklet a 30/2015. (VI. 16.) BM rendelethez
 
@@ -108,4 +108,4 @@ II. Eljárásrend
 
 4. Ha indokolt az új szolgálati beosztás létrehozása, a Belügyminisztérium humánigazgatási szerve javaslatot tesz a rendszeresített szolgálati beosztások módosítására, az erre vonatkozó jogszabály előkészítésére.
 
-[^1]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

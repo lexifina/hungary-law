@@ -2,4 +2,6 @@
 
 10. § (1) Ha a 7. és 8. mellékletben meghatározott szolgálati beosztást a belügyminiszter által irányított polgári nemzetbiztonsági szolgálatok hivatásos állományába tartozó tölti be, a hivatásos pótlék mértéke 250%.
 
-(2) A Szervezett Bűnözés Elleni Központban a belügyminiszter által vezényelt hivatásos állomány esetében a hivatásos pótlék mértéke 250%.
+(2)[^2]
+
+[^2]: A 10. § (2) bekezdését a 29/2016. (VII. 15.) BM rendelet 38. § b) pontja hatályon kívül helyezte.

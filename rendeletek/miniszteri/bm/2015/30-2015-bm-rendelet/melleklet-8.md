@@ -50,22 +50,6 @@
 
 ## 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
 
-|  | A | B | C | D | E |
-
-| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alap- feladat |
-
-| 3. | kiemelt vezető | központi szerv vezetője (tábornok) | főigazgató | 250 |  |
-
-| 4. | központi szerv vezetőjének helyettes (tábornok) | főigazgató-helyettes | 250 |  |
-
-| 5. | közép-vezető | szakirányító 2 | főosztályvezető | 250 |  |
-
-| 6. | beosztott vezető | főosztályvezető- helyettes 1 | főosztályvezető-helyettes | 250 | 250 |
-
-| 7. | osztályvezető 1 | osztályvezető | 250 | 250 |
-
 ## B) A rendészeti szakközépiskolák szolgálati beosztásai
 
 ## 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
@@ -244,7 +228,7 @@
 
 | 5. | gépkocsivezető |  | 100 |
 
-8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^7]
+8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^10]
 
 ## A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztások, azok besorolási kategóriája
 
@@ -324,4 +308,4 @@ II. Oktatói, nevelői és képzést támogató beosztások
 
 III. Kiképzői beosztások
 
-[^7]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a szerint módosított szöveg.
+[^10]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a szerint módosított szöveg.
