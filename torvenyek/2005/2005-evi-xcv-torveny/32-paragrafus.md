@@ -4,7 +4,7 @@
 
 (2)
 
-(3) A 4. § (2) bekezdést e törvény hatálybalépését követően indult engedélyezési eljárásokban kell alkalmazni azzal, hogy annak a gyógyszergyártónak, amely saját előállítású termékeivel gyógyszer-nagykereskedelmi tevékenységet is folytatni kíván, a – gyógyszer-nagykereskedelemre vonatkozó – külön jogszabály szerinti személyi és tárgyi feltételeknek 2006. március 1-jéig meg kell felelnie. Ennek tényét a gyógyszerészeti államigazgatási szervnek be kell jelenteni. 2006. március 1. után csak az a gyógyszergyártó folytathat nagykereskedelmi tevékenységet, amely bejelentési kötelezettségének eleget tett.
+(3)
 
 (4) Felhatalmazást kap a Kormány, hogy
 
