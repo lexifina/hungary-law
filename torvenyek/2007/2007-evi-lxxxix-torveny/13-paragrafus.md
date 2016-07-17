@@ -1,1 +1,1 @@
-13. § Belső határon a határátlépés ellenőrzésének ideiglenes visszaállítását a Kormány rendeletben hirdeti ki.
+13. § A belső határon a határátlépés ellenőrzésének ideiglenes visszaállítását – a Közösségi Kódex 25. cikkében megjelölt valamely feltétel kivételével – a Kormány rendeletben hirdeti ki. A Közösségi Kódex 25. cikkében megjelölt valamely feltétel fennállása esetén, a belső határon a határátlépés ellenőrzésének azonnali visszaállítását a határrendészetért felelős miniszter rendeletével hirdeti ki.

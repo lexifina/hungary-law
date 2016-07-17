@@ -6,4 +6,4 @@
 
 (3) Ideiglenes határátkelőhelya Kormány rendeletében meghatározott célból, a cél megvalósításához szükséges időtartamra, engedéllyel nyitható. Az ideiglenes határátkelőhely megnyitásának, működésének feltételeit a Kormány rendeletben állapítja meg, amelyben kijelöli az eljárásra jogosult szervet.
 
-(4) A határátkelőhely, határátlépési pont működését az országos rendőrfőkapitány legfeljebb negyvennyolc órára szüneteltetheti, ha a határátlépés ellenőrzésének feltételei haladéktalanul el nem hárítható átmeneti működési zavar miatt nem biztosíthatóak.
+(4) A határátkelőhely, határátlépési pont működését az országos rendőrfőkapitány legfeljebb negyvennyolc órára szüneteltetheti, ha a határátlépés ellenőrzésének feltételei haladéktalanul el nem hárítható átmeneti működési zavar vagy más elháríthatatlan külső ok miatt nem biztosíthatóak. A működés szüneteltetését – a feltételek fennállása esetén – az országos rendőrfőkapitány további legfeljebb negyvennyolc órával meghosszabbíthatja.
