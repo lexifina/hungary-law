@@ -1,0 +1,1 @@
+## „16. országos parancsnok: a 17. pontban meghatározott szervezeti egység vezetője, valamint az egyéni teljesítményértékelés ajánlott elemeire és minősítésére vonatkozó rendelkezések tekintetében az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, valamint a Terrorelhárítási Információs és Bűnügyi Elemző Központ vezetője;”

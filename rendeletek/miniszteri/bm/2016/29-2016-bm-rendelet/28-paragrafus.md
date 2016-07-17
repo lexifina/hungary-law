@@ -1,0 +1,3 @@
+## 27. § A belügyminiszter irányítása alatt álló fegyveres szervek hivatásos állományú tagjainak, közalkalmazottainak és a hivatásos állományból nyugállományba helyezettek fogászati ellátással, valamint szemüvegkészítéssel kapcsolatos költségeinek megtérítéséről, illetve támogatásban részesítéséről szóló 11/2013. (IV. 23.) BM rendelet 2. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A vezényléssel szolgálatot teljesítő hivatásos állományú esetében a fogászati költségek, valamint a szemüvegkészítés vagy kontaktlencse vásárlás költségeinek megtérítése a foglalkoztató belügyi szervet terheli.”

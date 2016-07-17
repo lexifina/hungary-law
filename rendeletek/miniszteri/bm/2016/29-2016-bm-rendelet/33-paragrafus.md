@@ -1,0 +1,3 @@
+## 32. § A belügyminiszter irányítása alatt álló egyes fegyveres szervek hivatásos állományú tagjai teljesítményértékelésének ajánlott elemeiről, az ajánlott elemek alkalmazásához kapcsolódó eljárási szabályokról, a minősítés rendjéről és a szervezeti teljesítményértékelésről szóló 26/2013. (VI. 26.) BM rendelet 2. § 2. pontjában a „Szervezett Bűnözés Elleni Koordinációs Központ” szövegrész helyébe a „Terrorelhárítási Információs és Bűnügyi Elemző Központ” szöveg lép.
+
+## 15. A belügyminiszter irányítása alatt álló fegyveres szervek tekintetében a dohányzás, a dohányzóhelyek kijelölésének és a dohánytermékek forgalmazásának részletes szabályairól szóló 48/2013. (VIII. 21.) BM rendelet módosítása

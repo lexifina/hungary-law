@@ -1,0 +1,1 @@
+## „bn) a belügyi szervekhez, valamint a Nemzeti Közszolgálati Egyetem Rendészettudományi Karhoz kirendelt és vezényelt dolgozók vonatkozásában a kirendelés vagy vezénylés szerinti munkáltatói jogkör gyakorlója szerinti, a ba)–bm) alpontban felsorolt szervek.”
