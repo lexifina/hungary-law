@@ -1,4 +1,4 @@
-18. §[^73] (1) A 3. melléklet II. pontjában felsorolt felhasználók szolgáltatási igényét, valamint a 3. melléklet I. pontjában felsorolt felhasználók (központi finanszírozású kör) esetében a közszolgáltatási szerződés által le nem fedett egyedi igényeket – az 5. § (6) bekezdésének megfelelően – a kormányzati célú hírközlési szolgáltató a felhasználókkal kötött egyedi felhasználói szerződés alapján elégíti ki.
+18. §[^74] (1)[^75] A 3. melléklet II. táblázata szerinti felhasználók szolgáltatási igényét, valamint a 3. melléklet I. táblázata szerinti felhasználók (központi finanszírozású kör) esetében a közszolgáltatási szerződés által le nem fedett egyedi igényeket – az 5. § (6) bekezdésének megfelelően – a kormányzati célú hírközlési szolgáltató a felhasználókkal kötött egyedi felhasználói szerződés alapján elégíti ki.
 
 (2) A közszolgáltatási szerződés által le nem fedett egyedi igények költségvetési fedezetét a felhasználó biztosítja.
 
@@ -6,4 +6,8 @@
 
 (4) Az egyedi felhasználói szerződés megkötéséig a kormányzati célú hírközlési szolgáltató a közszolgáltatási szerződésben rögzített feladatokat látja el, a közszolgáltatási szerződésben rögzített feltételekkel.
 
-[^73]: A 18. § a 169/2013. (V. 29.) Korm. rendelet 22. §-ával megállapított szöveg.
+(5)[^76] A kormányzati célú hírközlési szolgáltató térítés ellenében biztosítja a más jogszabályban előírt, EDR-rel kapcsolatos kötelezettség teljesítéséhez szükséges szolgáltatásokat.
+
+[^74]: A 18. § a 169/2013. (V. 29.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^75]: A 18. § (1) bekezdése a 188/2016. (VII. 13.) Korm. rendelet 15. § c) pontja szerint módosított szöveg.
+[^76]: A 18. § (5) bekezdését a 188/2016. (VII. 13.) Korm. rendelet 9. §-a iktatta be.

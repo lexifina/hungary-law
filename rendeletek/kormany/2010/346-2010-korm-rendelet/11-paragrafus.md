@@ -18,7 +18,9 @@
 
 9.[^56] különös VPN használati szabályzat: a jóváhagyott általános VPN használati szabályzatban foglaltak alapján kiadott, az egyes felhasználó vonatkozásában az EDR használatára vonatkozó egyedi feltételeket rögzítő szabályzat;
 
-10.[^57] CE eszköz: olyan végponton kihelyezett aktív hálózati eszköz, úgynevezett CE (Customer Edge) router, mely az egyes végpontok közötti hálózati forgalmat irányítja.
+10.[^57] általános EDR használati szabályzat: az EDR-eszközök használatbavételének, valamint a VPN-ek üzemeltetésének és használatának általános szabályait, valamint a minimum használati követelményeket meghatározó, a kormányzati célú hírközlési szolgáltató által kiadott – az EDR rendszert használókra kötelező – szabályzat;
+
+11.[^58] EDR üzemeltetési szabályzat: a kormányzati célú hírközlési szolgáltató által létrehozott VPN Központi Menedzser Szervezet által kiadott, e szervezet működtetését meghatározó szabályzat, amely rendelkezik e szervezet üzemeltetése mellett a VPN gazda szervezetek részére a VPN-ek, valamint a VPN-nek közötti működtetés és jogosultság-kiosztás alapvető szabályairól.
 
 [^49]: A 11. § 1–2. pontját a 169/2013. (V. 29.) Korm. rendelet 33. § (2) bekezdés b) pontja hatályon kívül helyezte.
 [^50]: A 11. § 3. pontja a 169/2013. (V. 29.) Korm. rendelet 32. § (15) bekezdése szerint módosított szöveg.
@@ -28,4 +30,5 @@
 [^54]: A 11. § 7. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
 [^55]: A 11. § 8. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
 [^56]: A 11. § 9. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
-[^57]: A 11. § 10. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be.
+[^57]: A 11. § 10. pontját a 169/2013. (V. 29.) Korm. rendelet 16. §-a iktatta be, szövege a 188/2016. (VII. 13.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^58]: A 11. § 11. pontját a 188/2016. (VII. 13.) Korm. rendelet 3. § (2) bekezdése iktatta be.

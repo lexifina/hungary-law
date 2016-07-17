@@ -18,7 +18,7 @@ h)[^17] az a)–g) pontban meghatározottak által felhatalmazott, a hálózatot
 
 i)[^18] a kormányzati célú hírközlési szolgáltató,
 
-j)[^19] az EDR vonatkozásában kizárólag a rendelet 3. mellékletében meghatározott és a 17. § (6) bekezdése alapján csatlakozásra feljogosított felhasználók.
+j)[^19] az EDR vonatkozásában kizárólag a 3. mellékletben meghatározott és a 17. § (7) bekezdése alapján csatlakozásra feljogosított felhasználók.
 
 (2)[^20] A (4) és (5) bekezdésben foglalt kivétellel, valamint ha törvény vagy kormányrendelet eltérően nem rendelkezik, a központi államigazgatási szervek és területi szerveik, a fővárosi és megyei kormányhivatalok, az állami fenntartásban, illetve tulajdonban álló egészségügyi intézmények, országos gyógyintézetek, az (1) bekezdés g) pontja szerinti felhasználók, valamint a rendvédelmi szervek az elektronikus hírközlési szolgáltatásra vonatkozó igényeiket a kormányzati célú hírközlési szolgáltató által nyújtott kormányzati célú hírközlési szolgáltatások útján kötelesek kielégíteni, elektronikus hírközlési szolgáltatást nem nyújthatnak és elektronikus hírközlő hálózatot vagy berendezést csak a jelen rendeletben meghatározott feltételek szerint üzemeltethetnek.
 
@@ -42,6 +42,6 @@ b) egyedi körülményektől és feltételektől függetlenül milyen elektronik
 [^16]: A 4. § (1) bekezdés g) pontját a 169/2013. (V. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be.
 [^17]: A 4. § (1) bekezdés h) pontját a 169/2013. (V. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be.
 [^18]: A 4. § (1) bekezdés i) pontját a 169/2013. (V. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be.
-[^19]: A 4. § (1) bekezdés j) pontját a 169/2013. (V. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^19]: A 4. § (1) bekezdés j) pontját a 169/2013. (V. 29.) Korm. rendelet 10. § (2) bekezdése iktatta be, szövege a 188/2016. (VII. 13.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^20]: A 4. § (2) bekezdése a 169/2013. (V. 29.) Korm. rendelet 10. § (3) bekezdésével megállapított szöveg.
 [^21]: A 4. § (4) bekezdése a 169/2013. (V. 29.) Korm. rendelet 10. § (4) bekezdésével megállapított szöveg.
