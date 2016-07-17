@@ -18,7 +18,15 @@ ae) a tűzfegyver fődarab e törvény szerinti megnevezése, gyártási száma,
 
 af) a lőszer azonosítását lehetővé tevő adatok, valamint
 
-b) a gyártó által gyártott és raktározott lőfegyverről, tűzfegyver fődarabról, lőszerről – a gyártásra jogosító engedély érvényességi idejének lejártától számított húsz évig – az a) pont ad)–af) alpontjában meghatározott adattartalommal, a lőfegyver műszaki érvényességének kivételével.
+b) a gyártó által gyártott és raktározott lőfegyverről, tűzfegyver fődarabról, lőszerről – a gyártásra jogosító engedély érvényességi idejének lejártától számított húsz évig – az a) pont ad)–af) alpontjában meghatározott adattartalommal, a lőfegyver műszaki érvényességének kivételével,
+
+c) a hatástalanított lőfegyverek hatástalanítását igazoló tanúsítványokról – a hatástalanítás időpontjától számított húsz évig – a következő adattartalommal:
+
+ca) – a műszaki érvényesség időtartamának kivételével – a hatástalanított lőfegyver 5. § (2) bekezdés a) pont ad) alpontjában meghatározott adatai,
+
+cb) a hatástalanítás időpontja, valamint
+
+cc) a hatástalanított lőfegyver hatástalanítását igazoló tanúsítvány száma.
 
 (2a) A (2) bekezdésben meghatározott nyilvántartás – a természetes személyazonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősül.
 
