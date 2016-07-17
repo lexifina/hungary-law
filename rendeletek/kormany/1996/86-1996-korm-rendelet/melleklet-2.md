@@ -260,7 +260,7 @@
 
 ## 1.98.[^100] fogyasztóvédelmi hatóság igazolványa;
 
-## 1.99.[^101] a Szervezett Bűnözés Elleni Koordinációs Központ által kibocsátott szolgálati és munkáltatói igazolványok;
+## 1.99.[^101]
 
 ## 1.100.[^102] a Nemzeti Élelmiszerlánc-biztonsági Hivatal által kiadott kormánytisztviselői igazolvány;
 
@@ -507,7 +507,7 @@ III. Az okmányvédelmi kategóriák és az okmányinformatikai védelmi kategó
 [^98]: Az 1. számú melléklet III. rész 1. pont 1.94. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^99]: Az 1. számú melléklet III. rész 1. pont 1.95. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
 [^100]: Az 1. melléklet III. fejezet 1. pont 1.98. alpontja a 351/2010. (XII. 30.) Korm. rendelet 30. § f) pontjával megállapított szöveg.
-[^101]: Az 1. számú melléklet III. rész 1. pont 1.99. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^101]: Az 1. számú melléklet III. rész 1. pont 1.99. alpontját a 186/2016. (VII. 13.) Korm. rendelet 1. §-a hatályon kívül helyezte.
 [^102]: Az 1. számú melléklet III. rész 1. pont 1.100. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 23/2012. (II. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^103]: Az 1. számú melléklet III. rész 1. pont 1.101. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
 [^104]: Az 1. számú melléklet III. rész 1. pont 1.102. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 174/2012. (VII. 26.) Korm. rendelet 8. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 19. § e) pontja szerint módosított szöveg.
