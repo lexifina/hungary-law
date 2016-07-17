@@ -14,7 +14,7 @@ e) a rendőrségről szóló törvényben meghatározott belső bűnmegelőzési
 
 f) a Nemzetközi Bűnügyi Együttműködési Központ a 84. § b) pontjában meghatározott feladatai ellátása céljából,
 
-g) a szervezett bűnözés elleni koordinációs központ az utasadatok kockázatelemzése céljából.
+g) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából.
 
 (2) A rendőrség jogosult közvetlen hozzáféréssel átvenni a következő adatokat:
 
