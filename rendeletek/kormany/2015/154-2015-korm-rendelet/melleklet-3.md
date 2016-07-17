@@ -2,10 +2,8 @@
 
 | 1. | Önálló állománytáblázattal rendelkező szervezeti egység | Állományilletékes parancsnok |
 
-| 2. | a 3. és 4. sorban foglaltak kivételével a főigazgató közvetlen alárendeltségében működő szervezeti elemek | főigazgató |
+| 2. | Terrorelhárítási Információs és Bűnügyi Elemző Központ | főigazgató |
 
-| 3. | a főigazgató-helyettes közvetlen alárendeltségében működő szervezeti elem | főigazgató-helyettes |
+3. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^23]
 
-| 4. | az igazgató közvetlen alárendeltségében működő szervezeti elemek | igazgató |
-
-3. melléklet a 154/2015. (VI. 19.) Korm. rendelethez
+[^23]: A 3. melléklet a 186/2016. (VII. 13.) Korm. rendelet 15. §-a szerint módosított szöveg.

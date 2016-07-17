@@ -120,4 +120,12 @@ VIII. Alkotmányvédelmi Hivatal
 
 IX. Nemzetbiztonsági Szakszolgálat
 
-[^21]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a szerint módosított szöveg.
+|  | A | B | C |
+
+| 1. | Központi szerv | Területi szerv | Helyi szerv |
+
+| 2. | Nemzetbiztonsági Szakszolgálat | – | – |
+
+X. Terrorelhárítási Információs és Bűnügyi Elemző Központ
+
+[^21]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a szerint módosított szöveg.

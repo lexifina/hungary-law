@@ -22,6 +22,8 @@
 
 | 10. | Nemzetbiztonsági Szakszolgálat | „nemzetbiztonsági” | „nb.” |
 
-4. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^23]
+| 11. | Terrorelhárítási Információs és Bűnügyi Elemző Központ | „nemzetbiztonsági” | „nb.” |
 
-[^23]: A 4. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg.
+4. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^24]
+
+[^24]: A 4. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg.

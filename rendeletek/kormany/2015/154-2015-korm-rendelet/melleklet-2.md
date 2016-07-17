@@ -2,7 +2,7 @@
 
 | 1. | Központi szerv | Területi szerv | Helyi szerv |
 
-| 2. | Nemzetbiztonsági Szakszolgálat | – | – |
+| 2. | Terrorelhárítási Információs és Bűnügyi Elemző Központ | – | – |
 
 2. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^22]
 
@@ -118,4 +118,16 @@ VIII. Alkotmányvédelmi Hivatal
 
 IX. Nemzetbiztonsági Szakszolgálat
 
-[^22]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
+|  | A | B |
+
+| 1. | Önálló állománytáblázattal rendelkező szervezeti egység | Állományilletékes parancsnok |
+
+| 2. | a 3. és 4. sorban foglaltak kivételével a főigazgató közvetlen alárendeltségében működő szervezeti elemek | főigazgató |
+
+| 3. | a főigazgató-helyettes közvetlen alárendeltségében működő szervezeti elem | főigazgató-helyettes |
+
+| 4. | az igazgató közvetlen alárendeltségében működő szervezeti elemek | igazgató |
+
+X. Terrorelhárítási Információs és Bűnügyi Elemző Központ
+
+[^22]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a szerint módosított szöveg.
