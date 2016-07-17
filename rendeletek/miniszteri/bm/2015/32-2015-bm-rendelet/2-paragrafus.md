@@ -4,4 +4,6 @@
 
 (3) A szolgálati jelvény tulajdonosa a rendvédelmi szerv, birtokosa a hivatásos állomány tagja, aki a szolgálati jelvényt dokumentáltan, aláírásával igazoltan átveszi, amely őt a szolgálati viszony megszűnéséig – a rendeletben meghatározott kivétellel – megilleti.
 
-(4) A szolgálati jelvény leírását az 1–5. melléklet tartalmazza.
+(4)[^2] A szolgálati jelvény leírását az 1–5. és a 7. melléklet tartalmazza.
+
+[^2]: A 2. § (4) bekezdése a 29/2016. (VII. 15.) BM rendelet 42. §-a szerint módosított szöveg.
