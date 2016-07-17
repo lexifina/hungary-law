@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-75-00-00
 | 2015-07-01 | 2015. évi LXXVI. törvény | 1999-75-00-00.29 |
 | 2016-01-01 | 2015. évi CLXXIX. törvény | 1999-75-00-00.30 |
 | 2016-01-07 | 2015. évi CCXXV. törvény | 1999-75-00-00.31 |
+| 2016-07-17 | 2016. évi LXIX. törvény | 1999-75-00-00.32 |

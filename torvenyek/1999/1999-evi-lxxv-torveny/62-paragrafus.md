@@ -1,6 +1,6 @@
 ## Felhatalmazó szabályok
 
-62. § (1) Felhatalmazást kap a Szervezett Bűnözés Elleni Koordinációs Központ irányításáért felelős miniszter, hogy a Szervezett Bűnözés Elleni Koordinációs Központ és az utasadat szolgáltatója közötti kapcsolattartás, valamint adatátadás módját rendeletben szabályozza.
+62. § (1)
 
 (2) Felhatalmazást kap az egészségügyért felelős miniszter, hogy – a prostitúció kezelésének közrendvédelmi szabályai érvényesülése érdekében – rendeletben szabályozza az egészségügyi vizsgálatok, illetve az ilyen vizsgálatokat folytató egészségügyi intézmények körét, a nemi úton terjedő betegségek létét vagy hiányát tanúsító orvosi igazolás tartalmi követelményét, kiadásának rendjét.
 
@@ -10,4 +10,4 @@
 
 (5)
 
-(6) Felhatalmazást kap a Kormány, hogy rendeletben kijelölje a szervezett bűnözés elleni koordinációs központot, valamint rendeletben megállapítsa a működésére, személyi állományára, valamint az együttműködésben résztvevők jogaira és kötelezettségeire vonatkozó részletes szabályokat.
+(6)
