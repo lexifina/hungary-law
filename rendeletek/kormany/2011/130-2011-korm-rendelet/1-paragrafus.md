@@ -1,11 +1,15 @@
 ## 1. A rendelet hatálya
 
-## 1. § A rendelet hatálya kiterjed a polgári nemzetbiztonsági szolgálatokra, így
+## 1. §[^1] A rendelet hatálya
 
 a) az Információs Hivatalra,
 
-b) az Alkotmányvédelmi Hivatalra, és
+b) az Alkotmányvédelmi Hivatalra,
 
-c) a Nemzetbiztonsági Szakszolgálatra
+c) a Nemzetbiztonsági Szakszolgálatra és
 
-(a továbbiakban együtt: Szolgálatok).
+d) a Terrorelhárítási Információs és Bűnügyi Elemző Központra
+
+[a továbbiakban a)–d) pont együtt: Szolgálatok] terjed ki.
+
+[^1]: Az 1. § a 186/2016. (VII. 13.) Korm. rendelet 4. §-ával megállapított szöveg.
