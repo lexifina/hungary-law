@@ -24,7 +24,7 @@ c) – ha az (1) bekezdés szerinti határozat jogerőre emelkedett és a filmel
 
 kérelmére a közvetett támogatás igénybevételére jogosító támogatási igazolást ad ki. Amennyiben a közvetett támogatás forrását biztosító szervezet a közvetett támogatást a Tao. tv. 24/A. § (3) bekezdés a) pontja alapján az MNF részére történő felajánlás formájában biztosítja, a Hivatal a közvetett támogatás igénybevételére jogosító támogatási igazolást nem állít ki. A Hivatal a Tao. tv. 24/A. § (16) bekezdés a) pontja szerint igazolást a közvetett támogatás forrását biztosító szervezet és a felajánlás fogadására jogosult filmelőállító vagy filmgyártó vállalkozás együttes kérelmére állítja ki.
 
-(4) A támogatási igazolás kiállításának feltétele, hogy a filmalkotás előállítója, illetve gyártója nyilatkozatban vállalja az állam támogatóként történő feltüntetését a filmalkotás végefőcímében. A feltüntetés módját a társadalompolitika összehangolásáért felelős miniszter határozza meg.
+(4) A költségellenőrzést lezáró határozat, valamint a támogatási igazolás kiállításának feltétele, hogy a filmalkotás előállítója, illetve gyártója vállalja az állam támogatóként történő feltüntetését a filmalkotás végefőcímében az Elnök által rendeletben meghatározott módon.
 
 (5) A támogatási igazolás kiadása iránti
 
@@ -32,7 +32,9 @@ a) kérelemben – ha a közvetett támogatás forrását biztosító szervezet 
 
 b) kérelemhez – ha azt a Hivatal az MNF kérelmére adja ki – csatolni kell az MNF és a közvetett támogatás forrását biztosító szervezet között létrejött megállapodást, továbbá a közvetett támogatás forrásának a kincstárnál e célra vezetett letéti számlára (a továbbiakban: letéti számla) történt megfizetést igazoló, a kincstár által kiállított okiratot,
 
-c) a kérelemhez csatolni kell a (2) bekezdésben meghatározott iratokat.
+c) a kérelemhez csatolni kell a (2) bekezdésben meghatározott iratokat,
+
+d) kérelemhez, ha azt költségellenőrzési eljárás előzte meg, csatolni kell a 14. § (7) bekezdésben meghatározott hozzájárulás megfizetését igazoló iratot.
 
 (6) A támogatási igazolás tartalmazza
 
@@ -43,6 +45,10 @@ b) a filmalkotás címét és nyilvántartási számát,
 c) a kérelemben feltüntetett időszakot és a közvetlen filmgyártás költségeinek erre az időszakra eső összegét
 
 d) a Tao. tv. 22. § (3) bekezdése és a Tao. tv. 24/A. § (3) bekezdés a) pontja szerinti adókedvezményre jogosító közvetett támogatás összegét.
+
+(6a) A 31/D. § (9) bekezdésében meghatározott esetben az MNF a filmelőállítóval vagy a filmgyártó vállalkozással kötött megállapodás alapján jogosult a 14. § (7) bekezdése szerinti összeget a letéti számláról közvetlenül az MNF-nek a kincstárnál e célra vezetett számlájára átutalni.
+
+(6b) A (6a) bekezdés körébe nem tartozó esetekben a filmelőállító vagy filmgyártó vállalkozás a 14. § (7) bekezdése szerinti összeget a Hivatal által lefolytatott költségellenőrzési eljárásban hozott határozat jogerőre emelkedésétől számított hatvan napon belül fizeti meg az MNF-nek a kincstárnál e célra vezetett számlájára. Ennek elmulasztása esetén a Hivatal a filmelőállítót a 28. § szerinti nyilvántartásból törli.
 
 (7) Az MNF kérelmére kiadott támogatási igazolás kizárólag a (6) bekezdés a) és d) pontjában meghatározott adatokat tartalmazza.
 

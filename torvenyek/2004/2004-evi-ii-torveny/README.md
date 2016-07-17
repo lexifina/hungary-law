@@ -23,3 +23,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-2-00-00
 | 2015-12-31 | 2015. évi CCXII. törvény | 2004-2-00-00.30 |
 | 2016-01-01 | 2015. évi CLXXXVII. törvény | 2004-2-00-00.31 |
 | 2016-07-01 | 2016. évi XXXII. törvény | 2004-2-00-00.32 |
+| 2016-07-17 | 2016. évi LXVII. törvény | 2004-2-00-00.33 |

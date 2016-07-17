@@ -32,7 +32,7 @@ a Hivatal a nyilvántartásba vett természetes személyt vagy szervezetet törl
 
 (11) A Hivatal a nyilvántartásba vett természetes személyt és szervezetet az e törvényben meghatározott esetekben hivatalból vagy a nyilvántartásba vett kérelmére törli a nyilvántartásból. Hivatalból való törlésnek van helye
 
-a) a (7) bekezdésben, a 19/I. § (2) és (3) bekezdésében, és a 26/C. § (2) bekezdésében meghatározott esetben, és
+a) a (7) bekezdésben, a 19/I. § (2) és (3) bekezdésében, a 26/C. § (2) bekezdésében és a 31/C. § (6b) bekezdésében meghatározott esetekben, és
 
 b) akkor, ha a nyilvántartásba vétel megtagadásának lett volna helye, azonban a megtagadási ok a nyilvántartásba vételt követően jutott a Hivatal tudomására vagy az nyilvántartásba vételt követően merül fel.
 
