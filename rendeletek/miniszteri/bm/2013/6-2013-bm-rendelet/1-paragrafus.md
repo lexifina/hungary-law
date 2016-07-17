@@ -6,19 +6,21 @@ a)[^1] érdekképviselet: a Magyar Rendvédelmi Kar és a rendvédelmi feladatok
 
 b)[^2] rendvédelmi feladatokat ellátó szerv:
 
-ba) a rendőrség általános rendőrségi feladatok ellátására létrehozott szerve,
+ba) az általános rendőrségi feladatok ellátására létrehozott szerv,
 
-bb) a rendőrség belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerve,
+bb) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv,
 
-bc) a rendőrség terrorizmust elhárító szerve,
+bc) a terrorizmust elhárító szerv,
 
 bd) a büntetés-végrehajtási szervezet,
 
 be) a hivatásos katasztrófavédelmi szerv,
 
-bf) az Alkotmányvédelmi Hivatal, valamint
+bf) az Alkotmányvédelmi Hivatal,
 
-bg) a Nemzetbiztonsági Szakszolgálat;
+bg) a Nemzetbiztonsági Szakszolgálat, valamint
+
+bh) a Terrorelhárítási Információs és Bűnügyi Elemző Központ;
 
 c) igényjogosult:
 
@@ -47,7 +49,7 @@ g)[^10] személyügyi szolgálat: a rendvédelmi feladatokat ellátó szervnél 
 h)[^11] központi gondozott: a hősi halottá vagy a szolgálat halottjává, valamint a Belügyminisztérium halottjává minősített elhunyt özvegye, valamint a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény szerinti árvaellátásra jogosult.
 
 [^1]: Az 1. § a) pontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
-[^2]: Az 1. § b) pont nyitó szövegrésze a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
+[^2]: Az 1. § b) pontja a 29/2016. (VII. 15.) BM rendelet 25. §-ával megállapított szöveg.
 [^3]: Az 1. § c) pont ca) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § c) pont cb) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § a) pontja szerint módosított szöveg.
 [^5]: Az 1. § c) pont cd) alpontja a 37/2015. (VI. 16.) BM rendelet 70. § b) pontja szerint módosított szöveg.
