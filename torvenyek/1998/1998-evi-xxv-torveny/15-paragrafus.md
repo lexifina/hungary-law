@@ -1,3 +1,0 @@
-## Intézeti gyógyszerellátás
-
-15. §

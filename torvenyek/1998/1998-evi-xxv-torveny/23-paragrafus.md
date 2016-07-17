@@ -1,3 +1,0 @@
-## Vegyes rendelkezések
-
-23. §

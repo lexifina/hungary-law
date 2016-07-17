@@ -1,3 +1,0 @@
-## Gyógyszer-nagykereskedelem
-
-13. §
