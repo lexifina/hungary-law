@@ -12,6 +12,6 @@ b) Magyarországi Falumegújítási Díj a fenntartható falufejlesztés kivál�
 
 c) Magyarországi Falumegújítási Díj a falumegújítás több területén elért kimagasló teljesítményért.
 
-(4)[^5] Oklevél elismerésben részesülhetnek a saját régiójukból tovább nem jutott, de megfelelő pályaművet benyújtó önkormányzatok. Az oklevél szövege: „a falumegújításban tett különleges teljesítményért”.
+(4)[^7] Oklevél elismerésben részesülhetnek a saját régiójukból tovább nem jutott, de megfelelő pályaművet benyújtó önkormányzatok. Az oklevél szövege: „a falumegújításban tett különleges teljesítményért”.
 
-[^5]: A 7. § (4) bekezdése az 51/2014. (XI. 26.) BM rendelet 16. § a) pontja szerint módosított szöveg.
+[^7]: A 7. § (4) bekezdése az 51/2014. (XI. 26.) BM rendelet 16. § a) pontja szerint módosított szöveg.

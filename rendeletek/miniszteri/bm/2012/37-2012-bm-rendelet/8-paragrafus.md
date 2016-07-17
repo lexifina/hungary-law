@@ -18,8 +18,8 @@ f) a helyi önkormányzatok eredményes működésének
 
 elősegítése területén kiemelkedő munkát végeztek.
 
-(3)[^6] A Helyi Önkormányzatokért Miniszteri Díjban évente 3 természetes személy és 3 szervezet részesíthető.
+(3)[^8] A Helyi Önkormányzatokért Miniszteri Díjban évente 3 természetes személy és 3 szervezet részesíthető.
 
 (4) A díj átadására a Helyi Önkormányzatok Napja (szeptember 30.) alkalmával kerül sor.
 
-[^6]: A 8. § (3) bekezdése az 51/2014. (XI. 26.) BM rendelet 2. §-ával megállapított szöveg.
+[^8]: A 8. § (3) bekezdése az 51/2014. (XI. 26.) BM rendelet 2. §-ával megállapított szöveg.
