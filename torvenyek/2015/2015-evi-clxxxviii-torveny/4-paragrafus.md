@@ -26,7 +26,7 @@ h) az a)–g) pontban meghatározott adathoz rendelt technikai kapcsoló számot
 
 (5) Ha az adatközlésre kötelezett szerv a természetes személyhez kapcsolódóan új arcképmást vesz nyilvántartásba, a (2) bekezdés szerinti eljárást az új arcképmás nyilvántartásba vételétől számított három napon belül lefolytatja.
 
-(6) Az adatközlésre kötelezett szerv értesíti a központi szervet azon arckép profil technikai kapcsoló számáról, melyhez tartozóan az adott arckép profil képzésétől számítottan
+(6) Az adatközlésre kötelezett szerv értesíti a központi szervet azon arckép profil technikai kapcsoló számáról, amelyhez tartozóan az általa kezelt arcképmás a nyilvántartásból törlésre került, valamint azon arckép profil technikai kapcsoló számáról, amelyhez tartozóan az általa kezelt arcképmás nyilvántartásba vételétől számított
 
 a) az (1) bekezdés a) pontjában meghatározott esetben 15 év,
 
@@ -42,6 +42,6 @@ f) az (1) bekezdés f) pontjában meghatározott esetben 10 év,
 
 g) az (1) bekezdés g) pontjában meghatározott esetben 15 év
 
-eltelt, amennyiben az adatközlésre kötelezett szerv az adott személyhez tartozó újabb arckép profilhoz rendelten technikai kapcsoló számot képzett.
+eltelt és az adott személyhez tartozó újabb arcképmáshoz rendelten technikai kapcsoló számot képzett.
 
-(7) A központi szerv az adatközlésre kötelezett szerv (6) bekezdésben meghatározott értesítése alapján haladéktalanul törli a nyilvántartásból a korábbi arckép profilt, valamint az adatközlésre kötelezett szerv az ezen arckép profilhoz kapcsolódóan általa nyilvántartott technikai kapcsoló számot.
+(7) A központi szerv az adatközlésre kötelezett szerv (6) bekezdésben meghatározott értesítése alapján haladéktalanul törli a nyilvántartásból az értesítésben megjelölt technikai kapcsoló számot és az ahhoz tartozó, általa kezelt arckép profilt, valamint az adatközlésre kötelezett szerv az ezen arckép profil alapjául szolgáló arcképmáshoz kapcsolódóan általa nyilvántartott technikai kapcsoló számot.

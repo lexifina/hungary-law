@@ -6,7 +6,7 @@
 
 (3) A (2) bekezdés szerinti összehasonlítást követően a központi szerv az összehasonlítás eredményét kiértékeli.
 
-(4) A (3) bekezdés szerinti feladata ellátása során a központi szerv jogosult az arckép profilhoz rendelt technikai kapcsoló szám felhasználásával az adatközlésre kötelezett szervtől az arckép profil alapjául szolgáló arcképmást, valamint ahhoz tartozóan az arcképmás felvételezésének dátumát, az arcképmáshoz tartozó személy születési évét és nemét igényelni közvetlen adatkapcsolat útján.
+(4) A (3) bekezdés szerinti feladata ellátása során a központi szerv jogosult az arckép profilhoz rendelt technikai kapcsoló szám felhasználásával az adatközlésre kötelezett szervtől az arckép profil alapjául szolgáló arcképmást, valamint ahhoz tartozóan az arcképmás nyilvántartásba vételének dátumát, az arcképmáshoz tartozó személy születési évét és nemét igényelni közvetlen adatkapcsolat útján.
 
 (5) A (3) bekezdésben meghatározott kiértékelési tevékenység elvégzését követően a központi szerv az (1) és (4) bekezdésben megjelölt, részére átadott adatokat haladéktalanul törli.
 
