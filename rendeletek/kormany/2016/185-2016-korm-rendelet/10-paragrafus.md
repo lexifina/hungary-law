@@ -1,0 +1,1 @@
+## 9. § Ha a titkos információgyűjtésre felhatalmazott szervezetek a titkos információgyűjtés során a metaadatokat az alkalmazásszolgáltatótól közvetlenül kérelmezik, az adatátadás rendjére az 5–8. § rendelkezéseit kell megfelelően alkalmazni.
