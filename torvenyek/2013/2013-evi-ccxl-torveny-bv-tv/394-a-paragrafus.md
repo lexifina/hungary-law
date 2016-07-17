@@ -1,0 +1,1 @@
+394/A. § A terrorfenyegetettség miatt a büntetés-végrehajtási szerveknél elrendelt 1–2-es fokozatok esetén az előzetes letartóztatás végrehajtása során a 154/A. § rendelkezései megfelelően alkalmazandók.
