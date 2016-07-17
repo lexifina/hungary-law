@@ -64,6 +64,8 @@ g) a pénzügyi információs egységként működő hatóság a Pmt.-ben meghat
 
 (4) Az írásbeli megkeresésben meg kell jelölni azt az ügyfelet vagy bankszámlát, akiről vagy amelyről a (2) bekezdésben megjelölt szerv vagy hatóság a banktitok kiadását kéri, valamint a kért adatok fajtáját és az adatkérés célját, kivéve, ha a feladatkörében eljáró Felügyelet helyszíni ellenőrzést folytat.
 
+(4a) Ha törvény másként nem rendelkezik, akkor a (2) bekezdésben meghatározott esetben a pénzügyi intézmény a nyomozó hatóság és az ügyészség írásbeli megkeresésére tizenöt munkanapon belül, a nemzetbiztonsági szolgálat írásbeli megkeresésére kettő munkanapon belül szolgáltatja a kért adatot.
+
 (5) Nem kell a (4) bekezdés szerinti adatokat az írásbeli megkeresésében megjelölni, ha a Gazdasági Versenyhivatal előzetes értesítés nélkül helyszíni szemlét vagy helyszíni kutatást tart. Ezekben az esetekben a Gazdasági Versenyhivatal megkeresését a helyszínen közli.
 
 (6) A (2) és (3) bekezdés szerint adatkérésre jogosult a rendelkezésére bocsátott adatokat kizárólag arra a célra használhatja fel, amelyet az adatkéréskor megjelölt.
