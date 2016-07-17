@@ -1,4 +1,4 @@
-91/L. § (1) A rendőrség a jogszerű tartózkodás időtartamának ellenőrzése céljából a határátlépéstől számított öt évig a határrendészeti adatállományban kezeli a határon átlépő, külön törvény szerinti harmadik országbeli állampolgárok
+91/L. § (1) A rendőrség a jogszerű tartózkodás időtartamának ellenőrzése, bűnüldözési és bűnmegelőzési célból a határátlépéstől számított öt évig a határrendészeti adatállományban kezeli a határon átlépő, külön törvény szerinti harmadik országbeli állampolgárok
 
 a) családi és utónevét,
 
@@ -8,9 +8,11 @@ c) nemét,
 
 d) állampolgárságát,
 
-e) úti okmányának számát, típusát és
+e) úti okmányának számát, típusát,
 
-f) vízumának számát, típusát.
+f) vízumának számát, típusát és
+
+g) határátlépés során használt gépjárműve rendszámát.
 
 (2) A rendőrség az (1) bekezdés szerinti nyilvántartásból törvényben meghatározott feladat teljesítése érdekében adatot szolgáltat a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, továbbá a nemzetbiztonsági szolgálatoknak.
 

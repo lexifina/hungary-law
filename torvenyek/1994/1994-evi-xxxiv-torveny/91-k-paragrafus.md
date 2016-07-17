@@ -20,7 +20,9 @@ h) Schengeni Információs Rendszer,
 
 i) a szabálysértésekről vezetett nyilvántartás, valamint
 
-j) az INTERPOL FIND hálózati adatbázis által elérhető nyilvántartások.
+j) az INTERPOL FIND hálózati adatbázis által elérhető nyilvántartások,
+
+k) a tartózkodási engedélyekre vonatkozó idegenrendészeti résznyilvántartás.
 
 (2) A szabad mozgás és tartózkodás jogával rendelkező személyek államhatáron történő átlépésekor az (1) bekezdésben felsorolt nyilvántartásokban történő ellenőrzést szúrópróbaszerűen alkalmazzák.
 

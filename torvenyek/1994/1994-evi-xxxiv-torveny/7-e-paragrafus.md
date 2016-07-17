@@ -28,11 +28,11 @@ ac) végzi
 
 összefüggésben elkövetett bűncselekményeket elkövető személyekkel, csoportokkal, szervezetekkel szembeni megelőzési, felderítési feladatokat,
 
-ad) a terrorizmus elleni küzdelem keretében – Magyarország nemzetbiztonsági érdekei érvényesítésének elősegítése érdekében – megelőzi, felderíti és elhárítja azokat a törekvéseket, amelyek Magyarország területén terrorcselekmény elkövetésére irányulnak,
+ad) megelőzi, felderíti és elhárítja azokat a törekvéseket, amelyek Magyarország területén terrorcselekmény elkövetésére irányulnak, továbbá részt vesz az aa) alpontban foglalt bűncselekmények közvetlen következményeinek elhárításához szükséges, e törvényben meghatározott intézkedések végrehajtásában,
 
 b) a jogszabályban meghatározottak szerint kizárólagos hatáskörrel – a Nemzeti Adó- és Vámhivatal esetében annak felkérésére – végzi egyes veszélyes személyek elfogását,
 
-c) a – jogszabályban meghatározott – kiemelten védett vezetők tekintetében személyvédelmi feladatokat lát el,
+c) jogszabályban meghatározottak szerint egyes védett személyek tekintetében személyvédelmi feladatokat lát el és egyes kijelölt létesítmények tekintetében létesítményvédelmet gyakorol,
 
 d) a rendészetért felelős miniszternek a külpolitikáért felelős miniszter egyetértésével meghozott döntése alapján – a hatályos nemzetközi normák betartásával – közreműködik a magyar állampolgárok életét, testi épségét Magyarország területén kívül közvetlenül fenyegető háborús cselekmények, fegyveres konfliktusok, valamint terrorista és túszejtő akciók esetén a bajba jutott magyar állampolgárok mentésében, hazatérésük biztosításában, az evakuálás végrehajtásában, e célból együttműködik az Európai Unió tagállamaival és szerveivel, az Észak-atlanti Szerződés Szervezetének szerveivel, illetve az érintett nemzetközi szervezetekkel, valamint az érintett külföldi állam hatóságaival, valamint
 
@@ -53,3 +53,5 @@ személy- és létesítményvédelmét, e célból együttműködik az Európai 
 (4) A terrorizmust elhárító szerv, ha bűnüldözési tevékenysége során bűncselekmény elkövetésének gyanúját észleli, haladéktalanul feljelentést tesz a nyomozás teljesítésére külön jogszabály alapján hatáskörrel és illetékességgel rendelkező nyomozó hatóságnál vagy az ügyésznél, és átadja az általa összegyűjtött adatokat. Nem köteles feljelentést tenni és átadni az adatokat, ha azzal veszélyeztetné az (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott feladata ellátását.
 
 (5) A terrorizmust elhárító szerv (1) bekezdés a) pont ad) alpontjában, valamint e) pontjában meghatározott tevékenységére az Nbtv. 11. § (5) bekezdését, 14. § (1)–(2) bekezdését, (4) bekezdés a)–f) pontját, (5) bekezdését, 15. § (3) bekezdését, 16. §-át, 18. §-át, valamint 27. § (4) bekezdését megfelelően alkalmazni kell.
+
+(6) A terrorizmust elhárító szerv (1) bekezdés f) pontjában meghatározott tevékenységében, a Kormány döntése alapján meghatározott időtartamra – a hatályos nemzetközi normák betartásával – a Magyar Honvédség közreműködhet.
