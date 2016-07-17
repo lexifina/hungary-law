@@ -8,7 +8,7 @@
 
 2. bejelentés-köteles továbbképzési program alapján folyó továbbképzés: a nyilvántartásba vett bejelentés-köteles továbbképzési program alapján folyó továbbképzési tevékenység, amely magában foglalja a képzésszervezési feladatok ellátását, valamint az oktatáshoz szükséges személyi és tárgyi feltételek biztosítását;
 
-3.[^1] belügyi szerv: a Belügyminisztérium, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 1. § (1) bekezdésében meghatározott – a belügyminiszter irányítása alatt álló – rendvédelmi feladatokat ellátó szervek, a Közszolgálati Személyzetfejlesztési Főigazgatóság (a továbbiakban: KSZF), a Belügyminisztérium Nemzetközi Oktatási Központ és a Szervezett Bűnözés Elleni Koordinációs Központ;
+3.[^1] belügyi szerv: a Belügyminisztérium, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 1. § (1) bekezdésében meghatározott – a belügyminiszter irányítása alatt álló – rendvédelmi feladatokat ellátó szervek, a Közszolgálati Személyzetfejlesztési Főigazgatóság (a továbbiakban: KSZF), a Belügyminisztérium Nemzetközi Oktatási Központ;
 
 4. egyéni továbbképzési terv: a hivatásos állomány tagja részére a belügyi szerv által a tárgyévre előírt továbbképzési kötelezettségek és egyéni fejlesztési igények teljesítését biztosító képzési terv;
 
@@ -28,5 +28,5 @@
 
 12.[^2] továbbképzési programminősítés: a felsőoktatási, az akkreditált felnőttképzési, továbbá a köznevelési intézmény (a továbbiakban együtt: intézményi akkreditációval rendelkező képzőintézmények) által fejlesztett továbbképzési programok kérelemre történő, minőségi megfelelőségének tanúsítása.
 
-[^1]: Az 1. § 3. pontja a 37/2015. (VI. 16.) BM rendelet 65. §-ával megállapított szöveg.
+[^1]: Az 1. § 3. pontja a 37/2015. (VI. 16.) BM rendelet 65. §-ával megállapított, a 29/2016. (VII. 15.) BM rendelet 24. §-a szerint módosított szöveg.
 [^2]: Az 1. § 12. pontja a 37/2015. (VI. 16.) BM rendelet 69. § (1) bekezdés 1. pontja szerint módosított szöveg.
