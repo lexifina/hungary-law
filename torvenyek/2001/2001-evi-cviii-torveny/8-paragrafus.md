@@ -1,4 +1,4 @@
-8. § (1) A 2. § la) pontjában meghatározott közvetítő szolgáltató akkor nem felel a továbbított információért, ha
+8. § (1) A 2. § l) pont la) alpontjában, valamint m) pontjában meghatározott közvetítő szolgáltató akkor nem felel a továbbított információért, ha
 
 a) nem a szolgáltató kezdeményezi az információ továbbítását;
 

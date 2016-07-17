@@ -14,7 +14,7 @@ e) Információ: bármely, elektronikus úton feldolgozható, tárolható, tová
 
 f) Információs társadalommal összefüggő szolgáltatás: elektronikus úton, távollevők részére, rendszerint ellenszolgáltatás fejében nyújtott szolgáltatás, amelyhez a szolgáltatás igénybe vevője egyedileg fér hozzá;
 
-g) Magyarország területére irányuló szolgáltatás: minden olyan szolgáltatás, melyről a használt nyelv, a pénznem és egyéb körülmények alapján valószínűsíthető, hogy magyarországi igénybevevők számára kívánják elérhetővé tenni;
+g) Magyarország területére irányuló szolgáltatás: minden olyan szolgáltatás, melyről a használt nyelv, a pénznem és egyéb körülmények alapján valószínűsíthető, hogy magyarországi igénybe vevők számára kívánják elérhetővé tenni; továbbá az m) pont szerinti alkalmazásszolgáltató valamennyi olyan információs társadalommal összefüggő szolgáltatása, amely Magyarországon elérhető, függetlenül attól, hogy az alkalmazásszolgáltató Magyarországon letelepedett, vagy bármilyen formában engedélyezett-e, vagy attól, hogy a hozzáférés során akár a szolgáltató, akár a felhasználó egyértelműen azonosítható-e.
 
 h) Magyarország területéről nyújtott szolgáltatás: Magyarország területén lévő székhelyén, telephelyén vagy lakóhelyén az adott információs társadalommal összefüggő szolgáltatással kapcsolatos tényleges tevékenységet végző szolgáltató által nyújtott információs társadalommal összefüggő szolgáltatás;
 
@@ -34,7 +34,9 @@ lc) az igénybe vevő által biztosított információt tárolja (tárhelyszolg�
 
 ld) információk megtalálását elősegítő segédeszközöket biztosít az igénybe vevő számára (keresőszolgáltatás);
 
-m)
+le) alkalmazásszolgáltató.
+
+m) Alkalmazásszolgáltató: az a természetes, illetve jogi személy vagy jogi személyiséggel nem rendelkező más szervezet, aki, vagy amely elektronikus hírközlő hálózat felhasználásával valamilyen szoftverhez vagy hardverhez való hozzáférést, szoftveres alkalmazást, valamint kapcsolódó szolgáltatásokat biztosít specifikus szoftveren vagy webes felületen több felhasználó számára, időben korlátozott vagy korlátlan módon, havi- vagy használat alapú ellenszolgáltatás fejében vagy ingyenes formában.
 
 n) Letelepedett szolgáltató: állandó telephellyel rendelkező szolgáltató, amely határozatlan ideig tényleges gazdasági tevékenységként nyújt információs társadalommal összefüggő szolgáltatást. Az, hogy a szolgáltatás nyújtásához szükséges műszaki eszközök rendelkezésre állnak, illetve az ehhez szükséges technológiákat alkalmazzák, önmagában nem minősül állandó letelepedésnek;
 

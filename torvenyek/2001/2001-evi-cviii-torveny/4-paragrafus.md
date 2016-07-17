@@ -1,5 +1,3 @@
-## Az információs társadalommal összefüggő szolgáltatással kapcsolatos adatszolgáltatás
-
 4. § A szolgáltató köteles elektronikus úton közvetlenül és folyamatosan, könnyen hozzáférhető módon legalább a következő adatokat közzétenni:
 
 a) a szolgáltató nevét,
