@@ -8,7 +8,7 @@ c)[^8] jogi, közigazgatási, rendészeti vagy katonai képzési területhez tar
 
 d) rendvédelmi oktatási intézményben rendészeti tárgyú szakképesítést vagy végzettséget, vagy arra jogosult képző intézményben felsőfokú végzettségre épülő rendészeti tárgyú szakképesítést vagy végzettséget szerzett,
 
-e)[^9] jogszabály – az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat hivatásos állománya esetében jogszabály vagy miniszteri utasítás – alapján rendészeti végzettségként elismert, a Hszt. hatálya alá tartozó rendvédelmi feladatokat ellátó szerv képzési rendszerében 1996. szeptember 1-jét követően szerzett – szakképzettségnek nem minősülő – rendészeti végzettséggel rendelkezik,
+e)[^9] jogszabály – az Alkotmányvédelmi Hivatal, a Terrorelhárítási Információs és Bűnügyi Elemző Központ és a Nemzetbiztonsági Szakszolgálat hivatásos állománya esetében jogszabály vagy miniszteri utasítás – alapján rendészeti végzettségként elismert, a Hszt. hatálya alá tartozó rendvédelmi feladatokat ellátó szerv képzési rendszerében 1996. szeptember 1-jét követően szerzett – szakképzettségnek nem minősülő – rendészeti végzettséggel rendelkezik,
 
 f) rendészeti oktatási intézményben 2010. június 1-jét követően rendészeti tárgyú rész-szakképesítést szerzett,
 
@@ -21,5 +21,5 @@ g)[^10] a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja és a Nemz
 (4) A rendészeti alapvizsgával rendelkező személy a jogszabályban meghatározott közigazgatási alapvizsga-kötelezettség teljesítése alól mentesül.
 
 [^8]: A 4. § (1) bekezdés c) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
-[^9]: A 4. § (1) bekezdés e) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
+[^9]: A 4. § (1) bekezdés e) pontja a 186/2016. (VII. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^10]: A 4. § (1) bekezdés g) pontját a 325/2014. (XII. 15.) Korm. rendelet 18. §-a iktatta be.

@@ -256,7 +256,7 @@ III. Nemzetbiztonsági Szakszolgálat
 
 IV. Nemzeti Védelmi Szolgálat
 
-V. Szervezett Bűnözés Elleni Koordinációs Központ
+## V.[^31] Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
 ## II.11. RENDŐRSÉGI IGAZGATÁS
 
@@ -301,3 +301,4 @@ IV. Áruosztályozás és áruismereti feladatok
 V. Büntető- és szabálysértési jogi feladatok
 
 [^30]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^31]: A 2. melléklet II. 10. NEMZETBIZTONSÁGI IGAZGATÁS cím V. pontja a 186/2016. (VII. 13.) Korm. rendelet 7. §-a szerint módosított szöveg.
