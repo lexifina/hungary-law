@@ -1,0 +1,1 @@
+## 11. § A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 1. melléklet B) Belügyminiszter című táblázat A:11 mezőjében a „Szervezett Bűnözés Elleni Koordinációs” szövegrész helyébe a „Terrorelhárítási Információs és Bűnügyi Elemző” szöveg lép.
