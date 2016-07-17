@@ -1,10 +1,10 @@
-5. § (1)[^7] Annak a dolgozónak a lakásépítése, lakásvásárlása támogatható, akinek magának, házastársának vagy élettársának, valamint kiskorú gyermekének, együttköltöző családtagjának – a (4) bekezdésben foglaltakon kívül – lakástulajdona, lakásra vonatkozó állandó használati joga, haszonélvezeti joga nincs, állami, önkormányzati tulajdonban lévő lakásra vonatkozó bérleti jogviszonya nem áll fenn, vagy a tulajdonában lévő lakást az újabb lakás szerzése érdekében elidegeníti, az állami, önkormányzati tulajdonban lévő lakásra vonatkozó lakásbérleti, lakáshasználati jogviszonyát megszünteti.
+5. § (1)[^9] Annak a dolgozónak a lakásépítése, lakásvásárlása támogatható, akinek magának, házastársának vagy élettársának, valamint kiskorú gyermekének, együttköltöző családtagjának – a (4) bekezdésben foglaltakon kívül – lakástulajdona, lakásra vonatkozó állandó használati joga, haszonélvezeti joga nincs, állami, önkormányzati tulajdonban lévő lakásra vonatkozó bérleti jogviszonya nem áll fenn, vagy a tulajdonában lévő lakást az újabb lakás szerzése érdekében elidegeníti, az állami, önkormányzati tulajdonban lévő lakásra vonatkozó lakásbérleti, lakáshasználati jogviszonyát megszünteti.
 
 (2) A dolgozó lakásának bővítése, korszerűsítése akkor támogatható, ha a dolgozónak, a házastársának vagy élettársának, kiskorú gyermekének a bővíteni, korszerűsíteni kívánt lakásán kívül – a (4) bekezdésben foglaltakon kívül – más lakástulajdona, lakásra vonatkozó haszonélvezeti joga, állandó használati joga vagy bérleti jogviszonya nincs.
 
 (3) E rendelet alkalmazásában a lakástulajdonnal egy tekintet alá esik a dolgozó, illetve a vele együttköltöző családtagja által gazdasági társaság tagjaként a társaság részére vagyoni hozzájárulásként rendelkezésre bocsátott lakás, valamint az építési és használatbavételi (fennmaradási) engedélyben meghatározott céltól vagy a rendeltetésétől tartósan eltérő célra használható lakás.
 
-(4)[^8] Támogatást vehet igénybe az a dolgozó is,
+(4)[^10] Támogatást vehet igénybe az a dolgozó is,
 
 a) aki házastársával vagy élettársával, kiskorú gyermekével, együttköltöző családtagjával együttesen legfeljebb 50%-os tulajdoni hányaddal rendelkezik egy olyan lakásban, amely tulajdonközösség megszüntetése vagy öröklés útján került a tulajdonukba, vagy
 
@@ -14,5 +14,5 @@ c) akinek, illetve házastársának vagy élettársának, kiskorú gyermekének,
 
 (5) Az élettárs a házastárssal egy tekintet alá esik, ha a munkáltatói kölcsönnel épített, vásárolt, bővített, korszerűsített lakásra résztulajdont szerez, vagy résztulajdonos.
 
-[^7]: Az 5. § (1) bekezdése a 15/2016. (V. 11.) BM rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
-[^8]: Az 5. § (4) bekezdése a 15/2016. (V. 11.) BM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
+[^9]: Az 5. § (1) bekezdése a 15/2016. (V. 11.) BM rendelet 7. § (1) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
+[^10]: Az 5. § (4) bekezdése a 15/2016. (V. 11.) BM rendelet 7. § (2) bekezdésével megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.

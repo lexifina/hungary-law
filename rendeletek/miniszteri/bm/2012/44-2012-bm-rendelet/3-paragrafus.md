@@ -6,7 +6,7 @@ b)[^4] helyi lakásügyi szerv:
 
 ba) a Belügyminisztérium Pénzügyi Erőforrás-gazdálkodási Főosztály: a Belügyminisztérium hivatali szervezetében a saját dolgozói állomány vonatkozásában,
 
-bb) a Készenléti Rendőrség: a saját, valamint külön megállapodás alapján az Országos Rendőr-főkapitányság állománya vonatkozásában, továbbá a rendészeti szakközépiskolák, Nemzeti Bűnügyi Együttműködési Központ, a Rendőrségi Oktatási és Kiképző Központ, a Repülőtéri Rendőr Igazgatóság, a Közszolgálati Személyzetfejlesztési Főigazgatóság, a BM Nemzetközi Oktatási Központ, a Szervezett Bűnözés Elleni Koordinációs Központ, a Nemzeti Védelmi Szolgálat, a Bűnügyi Szakértői és Kutatóintézet dolgozói állománya vonatkozásában,
+bb)[^5] a Készenléti Rendőrség: a saját, valamint külön megállapodás alapján az Országos Rendőr-főkapitányság állománya vonatkozásában, továbbá a rendészeti szakközépiskolák, a Nemzeti Bűnügyi Együttműködési Központ, a Rendőrségi Oktatási és Kiképző Központ, a Repülőtéri Rendőr Igazgatóság, a Közszolgálati Személyzetfejlesztési Főigazgatóság, a BM Nemzetközi Oktatási Központ, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Nemzeti Védelmi Szolgálat, a Bűnügyi Szakértői és Kutatóintézet dolgozói állománya vonatkozásában,
 
 bc) a Budapesti Rendőr-főkapitányság: a saját dolgozói állománya vonatkozásában,
 
@@ -30,6 +30,8 @@ bl) a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala: 
 
 bm) a Terrorelhárítási Központ: a saját dolgozói állománya vonatkozásában,
 
-bn) a belügyi szervekhez, valamint a Nemzeti Közszolgálati Egyetem Rendészettudományi Karhoz kirendelt és vezényelt dolgozók vonatkozásában a munkáltatói jogkör gyakorlója szerinti, a ba)–bm) alpontokban felsorolt szervek.
+bn)[^6] a belügyi szervekhez, valamint a Nemzeti Közszolgálati Egyetem Rendészettudományi Karhoz kirendelt és vezényelt dolgozók vonatkozásában a kirendelés vagy vezénylés szerinti munkáltatói jogkör gyakorlója szerinti, a ba)–bm) alpontban felsorolt szervek.
 
 [^4]: A 3. § b) pontja a 15/2016. (V. 11.) BM rendelet 6. §-ával megállapított szöveg. E módosító rendelet 21. §-a alapján a 2016. május 12-ét követően indított belügyi rendelkezésű lakásigénylési ügyekre kell alkalmazni.
+[^5]: A 3. § b) pont bb) alpontja a 29/2016. (VII. 15.) BM rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^6]: A 3. § b) pont bn) alpontja a 29/2016. (VII. 15.) BM rendelet 21. § (2) bekezdésével megállapított szöveg.
