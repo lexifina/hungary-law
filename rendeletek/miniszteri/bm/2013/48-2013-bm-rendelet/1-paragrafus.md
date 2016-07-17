@@ -12,8 +12,10 @@ e) a hivatásos katasztrófavédelmi szervre,
 
 f) az Alkotmányvédelmi Hivatalra,
 
-g) a Nemzetbiztonsági Szakszolgálatra [a továbbiakban az a)–g) pont együtt: rendvédelmi szerv] és
+g) a Nemzetbiztonsági Szakszolgálatra,
 
-h) a rendvédelmi szervek állományának a hivatásos állományú, kormányzati szolgálati, közszolgálati, igazságügyi alkalmazotti, közalkalmazotti jogviszonyban és munkaviszonyban álló tagjaira
+h) a Terrorelhárítási Információs és Bűnügyi Elemző Központra [az a)–h) pontban meghatározottak a továbbiakban együtt: rendvédelmi szerv] és
 
-[^1]: Az 1. § a 37/2015. (VI. 16.) BM rendelet 79. §-ával megállapított szöveg.
+i) a rendvédelmi szervek állományának a hivatásos állományú, kormányzati szolgálati, közszolgálati, igazságügyi alkalmazotti, közalkalmazotti jogviszonyban és munkaviszonyban álló tagjaira
+
+[^1]: Az 1. § a 29/2016. (VII. 15.) BM rendelet 33. §-ával megállapított szöveg.
