@@ -46,7 +46,7 @@
 
 22. Nemzeti Védelmi Szolgálat
 
-23. Szervezett Bűnözés Elleni Koordinációs Központ
+23.[^162] Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
 24. Rendőrség, Független Rendészeti Panasztestület
 
@@ -66,7 +66,7 @@
 
 32. Országos Vízügyi Főigazgatóság
 
-33.[^162] Egészségügyi Nyilvántartási és Képzési Központ
+33.[^163] Egészségügyi Nyilvántartási és Képzési Központ
 
 34. Emberi Erőforrás Támogatáskezelő
 
@@ -118,10 +118,11 @@
 
 58. Országos Atomenergia Hivatal
 
-59.[^163] Nemzeti Szakképzési és Felnőttképzési Hivatal
+59.[^164] Nemzeti Szakképzési és Felnőttképzési Hivatal
 
 [^159]: Az 1. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
 [^160]: Az 1. melléklet 12. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
 [^161]: Az 1. melléklet 19. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^162]: Az 1. melléklet 33. pontja a 30/2015. (II. 25.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^163]: Az 1. melléklet 59. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^162]: Az 1. melléklet 23. pontja a 186/2016. (VII. 13.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^163]: Az 1. melléklet 33. pontja a 30/2015. (II. 25.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^164]: Az 1. melléklet 59. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
