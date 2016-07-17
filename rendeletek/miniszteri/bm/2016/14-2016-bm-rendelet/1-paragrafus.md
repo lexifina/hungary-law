@@ -14,10 +14,11 @@ d) a büntetés-végrehajtási szervezet igényjogosult állományára,
 
 e) a hivatásos katasztrófavédelmi szerv igényjogosult állományára,
 
-f) az Alkotmányvédelmi Hivatal (a továbbiakban: AH) és a Nemzetbiztonsági Szakszolgálat (a továbbiakban: NBSZ) igényjogosult állományára,
+f)[^1] az Alkotmányvédelmi Hivatal (a továbbiakban: AH), a Nemzetbiztonsági Szakszolgálat (a továbbiakban: NBSZ), valamint a Terrorelhárítási Információs és Bűnügyi Elemző Központ (a továbbiakban: TIBEK) igényjogosult állományára,
 
-g)[^1] a rendvédelmi oktatási intézmény nem hivatásos állományának ösztöndíjas hallgatóira – a tisztjelölti állomány kivételével –, tanulóira, továbbá
+g)[^2] a rendvédelmi oktatási intézmény nem hivatásos állományának ösztöndíjas hallgatóira – a tisztjelölti állomány kivételével –, tanulóira, továbbá
 
 h) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 2. § 29. pontja szerinti szolgálati nyugdíjasokra.
 
-[^1]: Az 1. § (1) bekezdés g) pontja a 20/2016. (VI. 9.) BM rendelet 45. §-a szerint módosított szöveg.
+[^1]: Az 1. § f) pontja a 29/2016. (VII. 15.) BM rendelet 44. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés g) pontja a 20/2016. (VI. 9.) BM rendelet 45. §-a szerint módosított szöveg.

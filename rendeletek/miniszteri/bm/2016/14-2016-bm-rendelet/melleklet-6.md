@@ -1,8 +1,8 @@
-6. melléklet a 14/2016. (V. 10.) BM rendelethez
+6. melléklet a 14/2016. (V. 10.) BM rendelethez[^10]
 
-## Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Nemzeti Védelmi Szolgálat hivatásos állományára, valamint a Közszolgálati Személyzetfejlesztési Főigazgatósághoz és a Belügyminisztérium Nemzetközi Oktatási Központhoz vezényelt hivatásos állományra vonatkozó ruházati ellátási normák
+## Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Nemzeti Védelmi Szolgálat hivatásos állományára, valamint a Közszolgálati Személyzetfejlesztési Főigazgatósághoz és a Belügyminisztérium Nemzetközi Oktatási Központhoz vezényelt hivatásos állományra vonatkozó ruházati ellátási normák
 
-1. Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Nemzeti Védelmi Szolgálat tábornoki állományának, valamint a Közszolgálati Személyzetfejlesztési Főigazgatósághoz és a Belügyminisztérium Nemzetközi Oktatási Központhoz vezényelt tábornoki állomány ruházati ellátási normája:
+1. Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, a Nemzeti Védelmi Szolgálat tábornoki állományának, valamint a Közszolgálati Személyzetfejlesztési Főigazgatósághoz és a Belügyminisztérium Nemzetközi Oktatási Központhoz vezényelt tábornoki állomány ruházati ellátási normája:
 
 |  | A | B | C | D |
 
@@ -44,8 +44,10 @@ aa) T1: Tábornoki alapellátási norma (férfi)
 
 ab) T2: Tábornoki alapellátási norma (női)
 
-2. Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat és a Nemzeti Védelmi Szolgálat hivatásos állományának főtiszti, tiszti, zászlósi és tiszthelyettesi rendfokozati állománycsoportba tartozó tagjának ruházati normabesorolása minden esetben polgári ruhás alapellátási norma, amely norma kizárólag polgári ruhapénzt tartalmaz.
+2. Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ és a Nemzeti Védelmi Szolgálat hivatásos állományának főtiszti, tiszti, zászlósi és tiszthelyettesi rendfokozati állománycsoportba tartozó tagjának ruházati normabesorolása minden esetben polgári ruhás alapellátási norma, amely norma kizárólag polgári ruhapénzt tartalmaz.
 
-3. Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat hivatásos állománya az objektumőri feladatok ellátása esetén a szolgálati feladatokat formaruhában látja el.
+3. Az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, a Terrorelhárítási Információs és Bűnügyi Elemző Központ hivatásos állománya az objektumőri feladatok ellátása esetén a szolgálati feladatokat formaruhában látja el.
 
 4. A Közszolgálati Személyzetfejlesztési Főigazgatósághoz és a Belügyminisztérium Nemzetközi Oktatási Központhoz vezényelt főtiszti, tiszti, zászlósi és tiszthelyettesi rendfokozati állománycsoportba tartozó hivatásos állomány tagjának ruházati normabesorolása minden esetben polgári ruhás alapellátási norma, amelynek tartalma megegyezik a vezénylő rendvédelmi feladatokat ellátó szerv részére meghatározott polgári ruhás alapellátási normában szereplő ruházati termékekkel és felszerelési cikkekkel.
+
+[^10]: A 6. melléklet a 29/2016. (VII. 15.) BM rendelet 45. § d) pontja szerint módosított szöveg.
