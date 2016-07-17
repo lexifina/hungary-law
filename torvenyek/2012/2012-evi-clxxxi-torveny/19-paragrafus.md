@@ -22,6 +22,8 @@ dc) a gépjármű forgalmi engedélye, valamint
 
 dd) a gépjármű hatósági jelzése,
 
-e) a szervezett bűnözés elleni koordinációs központ az utasadatok kockázatelemzése céljából a személyekre vonatkozó figyelmeztető jelzéseket érintően.
+e) a Terrorelhárítási Információs és Bűnügyi Elemző Központ az utasadatok kockázatelemzése céljából a személyekre vonatkozó figyelmeztető jelzéseket érintően,
+
+f) a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 5. §-ában meghatározott feladatkörök végrehajtására kijelölt nemzetbiztonsági szolgálat, alaptevékenységi feladatai ellátásához a figyelmeztető jelzések teljes körét érintően.
 
 (2) Az (1) bekezdésben meghatározott hatóságok a SIS II rendszerben tárolt adatokat kizárólag a jogszabályban meghatározott feladataik ellátása érdekében használhatják fel, a SIS II Rendelet, valamint a 1986/2006/EK európai parlamenti és tanácsi rendelet szabályaival összhangban.
