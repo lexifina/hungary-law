@@ -12,6 +12,6 @@ b) kidolgozza az ország katasztrófaveszélyeztetettségére, a katasztrófák 
 
 c) kapcsolatot tart a kiemelt informatikai és távközlési szolgáltatókkal, a kritikus infrastruktúra elemek üzemeltetőivel, valamint az országos médiaszolgáltatókkal,
 
-d)[^4] meghatározza a hivatásos katasztrófavédelmi szerv helyi szerve vezetője 25. § (4) bekezdése szerinti véleményének kialakítása során irányadó szempontokat.
+d)[^6] meghatározza a hivatásos katasztrófavédelmi szerv helyi szerve vezetője 25. § (4) bekezdése szerinti véleményének kialakítása során irányadó szempontokat.
 
-[^4]: A 12. § d) pontját a 11/2014. (II. 21.) BM rendelet 1. §-a iktatta be.
+[^6]: A 12. § d) pontját a 11/2014. (II. 21.) BM rendelet 1. §-a iktatta be.

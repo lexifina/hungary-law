@@ -1,6 +1,6 @@
-## 7.[^2]
+## 7.[^4]
 
-11. §[^3]
+11. §[^5]
 
-[^2]: A 7. alcímet a 24/2012. (V. 8.) BM rendelet 19. §-a hatályon kívül helyezte.
-[^3]: A 11. §-t a 24/2012. (V. 8.) BM rendelet 19. §-a hatályon kívül helyezte.
+[^4]: A 7. alcímet a 24/2012. (V. 8.) BM rendelet 19. §-a hatályon kívül helyezte.
+[^5]: A 11. §-t a 24/2012. (V. 8.) BM rendelet 19. §-a hatályon kívül helyezte.

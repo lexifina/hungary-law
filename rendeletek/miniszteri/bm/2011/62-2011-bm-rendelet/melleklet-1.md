@@ -1,3 +1,3 @@
-1. melléklet a 62/2011. (XII. 29.) BM rendelethez[^16]
+1. melléklet a 62/2011. (XII. 29.) BM rendelethez[^18]
 
-[^16]: Az 1. mellékletet a 61/2012. (XII. 11.) BM rendelet 5. §-a iktatta be.
+[^18]: Az 1. mellékletet a 61/2012. (XII. 11.) BM rendelet 5. §-a iktatta be.
