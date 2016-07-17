@@ -6,14 +6,14 @@
 
 a) az általános rendőrségi feladatok ellátására létrehozott szerv,
 
-b) a Terrorelhárítási Központ,
+b) a terrorizmust elhárító szerv,
 
-c) a Nemzeti Védelmi Szolgálat,
+c) a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv,
 
 d) a büntetés-végrehajtási szervezet, valamint
 
 e) a hivatásos katasztrófavédelmi szerv
 
-szervezeti teljesítményértékelésére, továbbá az a)–e) pont szerinti rendvédelmi feladatokat ellátó szerv, az Alkotmányvédelmi Hivatal és a Nemzetbiztonsági Szakszolgálat hivatásos állományának egyéni teljesítményértékelése ajánlott elemeire és minősítésére terjed ki.
+szervezeti teljesítményértékelésére, továbbá az a)–e) pont szerinti rendvédelmi feladatokat ellátó szerv, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, valamint a Terrorelhárítási Információs és Bűnügyi Elemző Központ hivatásos állományának egyéni teljesítményértékelése ajánlott elemeire és minősítésére terjed ki.
 
-[^1]: Az 1. § záró szövegrésze a 76/2015. (XII. 22.) BM rendelet 18. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § a 29/2016. (VII. 15.) BM rendelet 30. §-ával megállapított szöveg.
