@@ -1,3 +1,0 @@
-## 7. § A rendészeti alapvizsgáról és a rendészeti szakvizsgáról, a Rendészeti Alap- és Szakvizsga Bizottságról, valamint a rendészeti alapvizsga vizsgabiztosi és a rendészeti szakvizsga vizsgabizottsági névjegyzékről szóló 274/2012. (IX. 28.) Korm. rendelet 2. melléklet II. 10. NEMZETBIZTONSÁGI IGAZGATÁS cím V. pontjában a „Szervezett Bűnözés Elleni Koordinációs” szövegrész helyébe a „Terrorelhárítási Információs és Bűnügyi Elemző” szöveg lép.
-
-## 7. Az egyes rendvédelmi szervek létfontosságú rendszerei és létesítményei azonosításáról, kijelöléséről és védelméről, valamint a Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet módosításáról szóló 512/2013. (XII. 29.) Korm. rendelet módosítása
