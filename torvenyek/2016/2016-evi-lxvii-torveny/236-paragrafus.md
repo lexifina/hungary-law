@@ -2,6 +2,6 @@
 
 236. § Hatályát veszti
 
-1. az emberi felhasználásra kerülő gyógyszerekről szóló 1998. évi XXV. törvény,
+1.
 
 2–6.

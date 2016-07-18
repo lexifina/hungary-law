@@ -1,3 +1,1 @@
-## „36/I. § Az MNF és a saját honlappal rendelkező települési önkormányzat köteles a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel megállapított 34. § (3) bekezdése szerinti díjtételeit – az e törvényben meghatározott közzétételi kötelezettségen túl – 2016. szeptember 30. napjáig a honlapján közzétenni. A települési önkormányzatok 2016. szeptember 30. napjáig kötelesek a 34. § (5) bekezdése szerinti rendeleteiket e törvénynek a Magyarország 2017. évi központi költségvetésének megalapozásáról szóló 2016. évi LXVII. törvénnyel módosított rendelkezéseivel összhangba hozni.”
-
 ### 84. §
