@@ -1,7 +1,3 @@
 ## 10. A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény módosítása
 
-65. § A Schengeni Információs Rendszer második generációja keretében történő információcseréről, továbbá egyes rendészeti tárgyú törvények ezzel, valamint a Magyary Egyszerűsítési Programmal összefüggő módosításáról szóló 2012. évi CLXXXI. törvény (a továbbiakban: SIS II. tv.) 11. § (7) és (8) bekezdése helyébe a következő rendelkezések lépnek:
-
-„(7) Ha a körözést elrendelő szerv a 10. § (1) bekezdés a) vagy c) pontja szerinti járműről olyan bejegyzést helyez el a körözési nyilvántartási rendszerbe, amelynek adattartalma kiterjed az állandó rendszámtáblára is, az állandó rendszámtáblára külön nem kell elhelyezni (4) bekezdés a) pontja szerinti figyelmeztető jelzést.
-
-(8) Az (1)–(4) bekezdés szerinti tárgy lefoglalás vagy büntetőeljárásban bizonyítékként való felhasználás céljából elrendelt körözéséről, a körözési nyilvántartási rendszert működtető szerv elektronikus úton értesíti a figyelmeztető jelzés elhelyezésére hatáskörrel rendelkező központi idegenrendészeti nyilvántartás adatkezelő szervet, személyiadat- és lakcímnyilvántartást kezelő központi szervet, központi útiokmány-nyilvántartó szervet vagy központi közúti közlekedési nyilvántartó szervet az okmány vagy hatósági jelzés érvénytelenítésének a központi nyilvántartásba történő bejegyzése és a figyelmeztető jelzés elhelyezése céljából.”
+65–67. §
