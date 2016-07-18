@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-48-20-8
 | 2014-01-30 | 2004-48-20-82.17 | 5/2014. (I. 27.) VM rendelet |
 | 2014-03-15 | 2004-48-20-82.18 | 22/2014. (III. 14.) VM rendelet |
 | 2016-04-16 | 2004-48-20-82.19 | 24/2016. (IV. 8.) FM rendelet |
+| 2016-07-18 | 2004-48-20-82.20 | 16/2011. (III. 2.) VM rendelet |

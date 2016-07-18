@@ -1,4 +1,4 @@
-3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^194]
+3. számú melléklet a 48/2004. (IV. 21.) FVM rendelethez[^195]
 
 A takarmánynövény-vetőmagvak forgalomba hozatali feltételei
 
@@ -1484,38 +1484,4 @@ Magtermő évben
 
 | Egyéb követelmények: | Az új telepítésű szaporító területeit be kell jelenteni és egy alkalommal akkor is ellenőrizni kell, ha azokon a vetés évében magot nem termesztenek. |
 
-| A vizsgálat tárgya | Egység | SE | Elit | I. |
-
-| szaporítási fok |
-
-| 1 | 2 | 3 |
-
-| Elválasztósáv, legalább | méter | 2 |
-
-| Izolációs távolság őszi rozstól és egyéb évelő rozs fajtától | 1000 | 1000 | 500 |
-
-| Gyomosság, legfeljebb | mintaszám | 2 |
-
-| Fejlettség, legalább Kiegyenlítettség, legalább Kultúrállapot, legalább | értékszám | 3 |
-
-| Idegen faj Őszi rozs a mintaterek átlagában, legfeljebb | növény db | 0 | 2 | 4 |
-
-| Idegen fajta, a mintaterek átlagában, legfeljebb | 2 | 5 | 10 |
-
-| Idegen kultúr- és gyomnövények a mintaterek átlagában, összesen legfeljebb repcsényretek (Raphanus raphanistrum), Melampyrum spp., Agrostemma githago apró szulák (Convolvulus arvensis), a mintaterek átlagában, legfeljebb galaj fajok (Galium spp.) vadzab fajok (Avena spp.) | 5 0 0 | 10 0,3 0,3 | 20 3 2 |
-
-| Gombabetegségek a mintaterek átlagában, legfeljebb fuzárium (Fusarium spp.) | kalász% | 15 |
-
-| Szárrozsda (Puccinia graminis) | értékszám | 2 |
-
-| Anyarozs (Claviceps purpurea) Ustilago spp., Tilletia spp. | kalász db | 100 |
-
-III. A vetőmagvizsgálat és minősítés részletes minőségi követelményei
-
-1. Mintavétel
-
-A mintavételt az egységes nemzetközi előírások – az ISTA szabályzata – szerint kell elvégezni.
-
-A csírázóképességi mintát a tiszta anyagból kell képezni és annak legalább 400 szemet kell tartalmaznia.
-
-[^194]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése szerint módosított szöveg.
+[^195]: A 3. számú melléklet a 16/2011. (III. 2.) VM rendelet 31. § (2) bekezdésével megállapított, az 5/2014. (I. 27.) VM rendelet 4. § (2) bekezdése, a 24/2016. (IV. 8.) FM rendelet 23. § (2) bekezdése szerint módosított szöveg.
