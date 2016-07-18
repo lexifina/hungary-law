@@ -1,3 +1,0 @@
-## 42. § A belügyminiszter irányítása alatt álló rendvédelmi szervek szolgálati jelvényeinek rendszeresítésével, valamint az ilyen szerveknél szolgálati jogviszonyban álló személyek szolgálati jelvénnyel történő ellátásának rendjével összefüggő szabályokról szóló 32/2015. (VI. 16.) BM rendelet 2. § (4) bekezdésében az „1–5. melléklet” szövegrész helyébe az „1–5. és a 7. melléklet” szöveg lép.
-
-## 21. A belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos szolgálati viszonyban álló tagjai illetményének és egyéb juttatásainak megállapításáról, valamint a folyósítás szabályairól szóló 33/2015. (VI. 16.) BM rendelet módosítása
