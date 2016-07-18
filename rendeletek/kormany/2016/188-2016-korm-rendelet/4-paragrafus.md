@@ -1,1 +1,0 @@
-## „11. EDR üzemeltetési szabályzat: a kormányzati célú hírközlési szolgáltató által létrehozott VPN Központi Menedzser Szervezet által kiadott, e szervezet működtetését meghatározó szabályzat, amely rendelkezik e szervezet üzemeltetése mellett a VPN gazda szervezetek részére a VPN-ek, valamint a VPN-nek közötti működtetés és jogosultság-kiosztás alapvető szabályairól.”
