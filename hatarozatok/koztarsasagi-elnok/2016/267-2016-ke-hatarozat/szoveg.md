@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés e) pontja, valamint a honvédek jogállásáról szóló 2012. évi CCV. törvény 4/A. § (1) bekezdés a) pontja és 57. §-a alapján – a honvédelmi miniszter javaslatára – a 384/2013. (IX. 5.) KE határozatot akként módosítom, hogy a határozatban a „2016. szeptember 14-éig” szövegrész helyébe a „2016. július 31-éig” szöveg lép, egyúttal az Alaptörvény 9. cikk (4) bekezdés e) pontja, valamint a honvédek jogállásáról szóló 2012. évi CCV. törvény 4/A. § (1) bekezdés a) pontja alapján – a honvédelmi miniszter javaslatára – dr. Kopcsó Istvánt 2016. augusztus 1-jei hatállyal dandártábornokká kinevezem.
+
+KEH ügyszám: IV-6/04139-2/2016.
