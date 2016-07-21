@@ -1,0 +1,469 @@
+## 1. elfogadja az 1. melléklet I. pontjában szereplő, az ENSZ Emberi Jogi Tanács Egyetemes Időszakos Felülvizsgálati Eljárása (UPR) keretében Magyarország 2. felülvizsgálata során a tagállamok által tett ajánlásokat;
+
+## 2. részben elfogadja az 1. melléklet II. pontjában szereplő, az ENSZ Emberi Jogi Tanács Egyetemes Időszakos Felülvizsgálati Eljárása (UPR) keretében Magyarország 2. felülvizsgálata során a tagállamok által tett ajánlásokat;
+
+## 3. nem fogadja el az 1. melléklet III. pontjában szereplő, az ENSZ Emberi Jogi Tanács Egyetemes Időszakos Felülvizsgálati Eljárása (UPR) keretében Magyarország 2. felülvizsgálata során a tagállamok által tett ajánlásokat;
+
+## 4. felhívja az igazságügyi minisztert, hogy gondoskodjon valamennyi ajánlásnak a kormányzati portálon[^1] történő közzétételéről;
+
+## Felelős: igazságügyi miniszter
+
+## Határidő: 2016. július 31.
+
+## 5. felhívja a külgazdasági és külügyminisztert, hogy az ajánlások elfogadásáról, részbeni elfogadásáról, illetve visszautasításáról – rövid angol nyelvű indoklás kíséretében – írásban értesítse a UPR Titkárságát.
+
+## Felelős: külgazdasági és külügyminiszter
+
+## Határidő: 2016. július 31.
+
+1. melléklet az 1374/2016. (VII. 21.) Korm. határozathoz
+
+I. Elfogadásra javasolt ajánlások (az ajánlásokat tartalmazó A/HRC/WG.6/25/L.6 ENSZ közgyűlési dokumentum számozása szerint):
+
+6. Ratify the Council of Europe Convention on preventing and combating violence against women and domestic violence
+
+13. Consider acceding to the UN Convention on Enforced Disappearances
+
+14. Accelerate the process of accession to the International Convention for the Protection of All Persons from Enforced Disappearance
+
+15. Ratify the International Convention for the Protection of All Persons from Enforced Disappearance
+
+16. Step up the process of consultations concerning the accession to ICPPED, as previously recommended
+
+20. Fully align domestic legislation with the Rome Statute of the ICC through explicit provisions on the duty to cooperate promptly and fully with the Court
+
+21. Continue further improvement of the protection and promotion of human rights in the country
+
+22. Continue to provide protection to the family as the natural and fundamental unit of the society
+
+26. Assess the compatibility of its policies and laws with its international obligations including all core principles of human rights to which Hungary is a party
+
+27. Continue the efforts to harmonize national legislation with international standards in the field of human rights
+
+28. Continue to promote and protect the fundamental freedoms and human rights of all its citizens
+
+29. Deepen its commitment with the International Criminal Court through adapting its national legislation to the Rome Statute
+
+30. Consider developing Human Rights Indicators as suggested by the OHCHR as an instrument that allows for a more precise and coherent evaluation of national human rights policies
+
+31. Consider increasing the funding of the National Preventive Mechanism, in order to support its work and the detention monitoring activities
+
+32. Provide adequate resources and functional independence to the Equal Treatment Authority
+
+33. Continue to implement measures to protect the rights of the child
+
+34. Enhance measures to protect the rights of children, women and other vulnerable groups
+
+35. Consider establishing independent mechanism for monitoring children's rights and providing necessary financial resources for its functioning
+
+36. Ensure consultation processes which allow a public debate and interaction with the independent civil society, with sufficient time during the drafting of new laws and public policies
+
+37. Engage in consultation with pro-transparency organisations and other relevant stakeholders prior to developing or implementing new legislation on Freedom of Information
+
+38. Refrain from targeting or restricting the activities of civil society organisations based on their political affiliation or their receipt of foreign funding
+
+39. Adopt measures to comply with provisions of the new Constitution including on combating discrimination and ensuring equal participation in political and public affairs by all citizens
+
+40. Improve both formal and informal dialogue and public consultation between the Government and civil society, including on proposed legislation with an impact on human rights
+
+41. Continue with the efforts aimed at ensuring timely cooperation with treaty bodies, regarding the submission of its over-due national reports
+
+42. Submit overdue reports to CERD, Committee on Economic, Social and Cultural Rights and to the Human Rights Committee
+
+43. Intensify efforts aimed at implementing recommendations of treaty bodies and special procedures including CEDAW, CRC, CRPD, Special Rapporteur on Racism and the Working Group on Arbitrary Detention
+
+44. Take appropriate measures to progressively reduce the existing backlog of overdue reports to the UN Treaty Bodies
+
+45. Submit overdue reports to the Human Rights Committee, CESCR and CAT
+
+50. Continue to implement National Social Inclusion Strategy
+
+51. Take all the necessary measures to fully implement the National Social Inclusion Strategy
+
+52. Enact comprehensive legislation that fully guarantees the application of the principle of non-discrimination and to ensure the full enjoyment of all human rights by every member of society
+
+54. Take effective measures to address the needs of women belonging to minorities, such as Roma women, in order to eliminate all forms of discrimination against them
+
+55. Provide the national mechanism for the promotion of gender equality of adequate human and financial resources to enable it to effectively fulfil its mandate
+
+56. Address the discriminatory situation of women belonging to minorities, including Roma women
+
+57. Take further measures to reduce the inequality between sexes, sensitize the population in this regard and ensure that these measures are effectively implemented
+
+62. Take concrete measures to improve access to decent work for all women, eliminate all discrimination against women at work, and create more socioeconomic opportunities for disenfranchised women
+
+64. Continue to make efforts to ensure women's participation in political life and in decision-making
+
+67. Continue the implementation of Roma integration policies in all social economic cultural political and educational sectors
+
+69. Strengthen its measures to combat racism and discrimination in all its forms against migrants and asylum seekers
+
+70. Take all necessary measures to eliminate racial discrimination and segregation of Roma in education
+
+71. Implement a comprehensive plan of action envisaged to protect the rights and improve the life conditions of women and children pertaining to ethnic minorities
+
+72. Step up the efforts to combat all forms of discrimination and favour equality of opportunities and treatment, with special care and attention to those who are in a more vulnerable situation, such as persons belonging to the Roma community
+
+73. Step up efforts to address discrimination and social exclusion faced by persons belonging to the Roma minority with particular emphasis on integrated schooling and social housing
+
+75. Continue to pay special attention to issues related to the elimination of discrimination of the Roma who study in the education system
+
+77. Take effective measures to ensure the Hungarian National Police and the hate-crimes expert net improve the enforcement of laws against hate crimes, including by allocating sufficient resources; undertaking thorough investigations and prosecution; and by providing training for the front-line law enforcement
+
+78. Protect persons who are marginalized and most vulnerable from intolerance, xenophobia, and other forms of discrimination
+
+84. Undertake further steps to promote efforts to overcome residual social discrimination against Roma and other ethnic minorities
+
+89. Intensify efforts to combat discrimination and ill-treatment of Roma and eliminate segregation of Roma girls in the educational system
+
+92. Continue its efforts to integrate the adult Roma population in the labour market and the Roma children and young people in the regular education system
+
+93. Ensure that, in the context of the new legislation adopted in 2011, following the UPR 2011 recommendations, the self-governments truly represents the persons of national minorities on whose behalf they act
+
+94. Include specific components in public policies and budgets to address the needs of persons belonging to minorities, including Roma women and children
+
+95. Adopt more policies and allocate more resources specifically directed towards Roma women and children
+
+97. Carry out the work to eliminate expressions of hatred, racial and religious discrimination
+
+98. Intensify national efforts to prevent and eliminate all manifestations of anti-Semitism and take resolute measures to condemn hate speech, including against Roma
+
+99. Take action against the worrying increase and public use of hate speech, most often addressed at migrants, asylum seekers but also civil society organizations and vulnerable groups
+
+102. Apply effectively policies against racism and hate speech
+
+103. Implement effectively its legislation and policies against hate speech and hate crimes with particular focus on the human rights protection of Roma, Jews, LGBTIs and other vulnerable groups
+
+104. Ensure that the constitutional amendment prohibiting speech that would violate the dignity of the Hungarian nation cannot be used to silence criticism and limit freedom of expression as guaranteed under the ICCPR
+
+108. Identify efforts to combat all forms of discrimination and to ensure that hate crimes motivated by racism, xenophobia or other forms of discrimination are effectively investigated and perpetrators are brought to justice
+
+110. Enhance inter-ethnic, inter-religious, and inter-cultural understanding within the society, and ensure access to justice for victims of racial hatred or violence
+
+111. Further strengthen measures to combat hate speech and hate crime
+
+112. Strengthen measures to avoid hate speeches of all kinds in political messages and in the media
+
+113. Combat hate speech and statements stigmatizing refugees and asylum seekers
+
+114. Prevent and combat racism and hate speech, including through human rights education and training, and by promoting tolerance
+
+115. Enhance its efforts to prevent and root out all kind of national and ethnic intolerance, as well as condemn any incitement to ethnic and religious hatred and hate speech against the Roma in particular
+
+116. Implement strategies aimed at tackling hate speech and xenophobia in all its forms
+
+117. Continue to fight anti-Semitism, and to oppose any attempt to relativize or rehabilitate anti-Semite policies in past and present
+
+132. Continue efforts, including by raising awareness, in order to prevent domestic violence and violence against women
+
+134. Strengthen efforts to combat violence against women, inter alia, by ratifying the Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence
+
+136. Adopt a National Action Plan on Security Council Resolution 1325 on Women, Peace and Security
+
+139. Take concrete measures to protect child victims of sexual exploitation and prostitution
+
+142. Enact laws and legislation aiming at combating human trafficking
+
+143. Ensure the prosecution and punishment of perpetrators of human trafficking, and provide adequate assistance and protection services to victims
+
+144. Continue its efforts in order to strengthen the protection of victims of trafficking
+
+145. Take steps to reduce and prevent trafficking and provide adequate incentives and protection to victims
+
+146. Take additional measures to combat trafficking in human beings
+
+147. Intensify efforts to effectively prevent trafficking in women and girls and strengthen measures for the rehabilitation and social integration of victims of trafficking
+
+148. Take measures to ensure the effective investigation and prosecution of human trafficking cases and establish remedy procedures for the victims
+
+149. Strengthen mechanisms to prevent the trafficking in boys and girls and provide the support needed for victims of trafficking to be reintegrated into society
+
+150. Take concrete measures to ensure the independence of the Constitutional Court and the protection of human rights and fundamental freedoms, and that political pressure is not being applied to judicial decision-making
+
+154. Continue efforts for the reintegration of former child offenders in the society
+
+161. Give full consideration to the recommendations of the UN Special Rapporteur on the Situation of Human Rights Defenders
+
+164. Review and abolish all legal provisions that restrict the rights of human rights defenders promoting the rights of the Roma community
+
+165. Ensure the prompt and independent investigation of all alleged violations against human rights defenders
+
+166. Positively consider and implement the recommendations presented by the special rapporteur on human rights defenders
+
+167. Remove all administrative and legislative provisions that restrict the rights of the Human Rights Defenders and ensure that civil society organizations can operate freely and without discrimination or undue restriction
+
+168. Take steps to ensure that civil society organizations freely can access and utilize funding, including from foreign sources
+
+175. Ensure that the implementation of objectives set up in the 2014 National Strategy on Public Education are in line with the objectives and goals of the SDG's
+
+176. Ensure the inclusion of human rights and especially children's rights in the public education system, raising awareness about human rights in general
+
+177. Strengthen efforts to provide access to education, labour market and public life for persons with disabilities
+
+178. Continue the path regarding positive results achieved in ensuring the rights and equal opportunities of persons with disabilities by, inter alia, allocating sufficient resources for the development of an inclusive education system for children with disabilities and providing sufficient and adequate support services in local communities to enable persons with disabilities to live independently
+
+181. Consolidate programmes to ensure a system of inclusive education for children with disabilities throughout the country
+
+182. Take further measures to improve access of persons with disabilities to social, economic and cultural life and combat discrimination on the grounds of disability
+
+183. Adopt measures in order for any health decision to depend upon the free and informed consent of the concerned disabled person
+
+185. Decriminalize the access to its territory for persons wishing to file a request for asylum, and process the asylum applications individually and in a non-discriminatory fashion, in compliance with its international obligations
+
+221. Increase level of ODA
+
+II. Részben elfogadásra javasolt ajánlások:
+
+1. Widen the scope of international obligations through accession to the remaining international treaties, such as ICRMW and ICPPED and OP-CRC-IC, OP-CESCR
+
+2. Consider ratifying the ICRMW, ILO Convention 189, and the Optional Protocol to the Convention on the Rights of the Child
+
+3. Accept the competence of the Committee on Enforced Disappearances, in conformity with Articles 31 and 32 of the ICPPED
+
+4. Consider ratifying the International Convention on the Protection of All Persons from Enforced Disappearance, the Optional Protocol to the Covenant on Economic, Social and Cultural Rights and the International Convention on the Protection of the Rights of all Migrant Workers and Members of their Families
+
+5. Become party to the International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families, the Rome Statute of the International Criminal Court, the Conventions on the refugees and stateless persons, the ILO Convention 169 and the Convention to fight discrimination in Education
+
+8. Ratify the Istanbul Convention without delay
+
+23. Develop and implement a National Action Plan on Human Rights to further ensure systematic and comprehensive approach for the promotion and protection of human rights, with the full engagement of the civil society
+
+25. Step up efforts to establish a mechanism to monitor measures to help address and ameliorate the conditions of women and children
+
+46. Continue to strengthen measures to promote tolerance and respect for cultural diversity and to counter prejudice, stereotypes, discrimination, racism and Islamophobia
+
+47. Reconsider policies on family, gender equality and non-discrimination
+
+48. Continue efforts to sensitize the public to combat discrimination on all grounds online to ensure that all rights are respected
+
+49. Continue efforts in following up and monitoring any discrimination based on sex, race or any other form
+
+53. Intensify activities aimed at overcoming gender stereotypes
+
+58. Continue to take action towards a comprehensive gender equality strategy and introduce effective legislative measures to increase women's participation in political life and decision-making
+
+59. Redouble its efforts towards combating stereotypical division of gender roles in family and society
+
+60. Adopt a comprehensive law on domestic violence
+
+61. Take further steps to address root causes that affect the rights of women belonging to disadvantaged groups
+
+63. Introduce effective legislative measures to increase women's participation in political life and decision-making
+
+65. Establish effective legislative measures, such as quotas, to improve the participation of women in political life and decision-making processes
+
+66. Adopt a comprehensive, human rights based gender equality strategy
+
+68. Support the gender integration in all spheres of life
+
+74. Establish a comprehensive integration strategy for migrants, with specific measures to prevent and eliminate racism, racial discrimination, xenophobia and intolerance against migrants irrespective of their status
+
+76. Take measures to eliminate any discrimination and segregation in the education system against Roma children
+
+80. Continue to take specific measures to prevent and eliminate racism, racial discrimination, xenophobia and intolerance against migrants, refugees and asylum seekers
+
+81. Take resolute measures to put an end, without further delay, to the continuing segregation of Roma children at school
+
+82. Take active measures to prevent actual segregation of Roma students in public and private schools
+
+83. Redouble efforts to prevent and eliminate racial discrimination, xenophobia and the intolerance against migrants, refugees and asylum seekers
+
+85. Take effective steps to end discrimination against Roma in education, health, employment, housing and access to services with a special focus on ending continued segregation of Roma children at schools
+
+86. Strengthen its efforts to promote tolerance and cultural understanding of the Roma population in the aim of eliminating discrimination including in regard to access to education and employment and participation in politics
+
+87. Step up efforts to effectively prevent and combat discrimination of persons belonging to national minorities, in particular regarding their access to education and health care
+
+88. Take further steps to eliminate discrimination against the Roma population, especially in the field of education, health, employment, housing and access to services
+
+90. Take measures to prevent and eliminate racism, racial discrimination, xenophobia and others
+
+91. Continue the work to further social and economic integration of the Roma population, reduce direct and indirect school segregation of Roma children and actively promote Roma participation in society through education
+
+96. Continue the efforts to combat hate speech, racism, xenophobia and all forms of discrimination against refugees and migrants
+
+100. Intensify its efforts to combat xenophobia, islamophobia and refugee hatred, and take the necessary measures to condemn hate speech
+
+101. Take resolute measures to condemn hate speech, racial discrimination, xenophobia and intolerance against all minority groups, migrants and asylum seekers
+
+105. Take all the necessary measures to combat violence linked to racial discrimination, as well as hate crimes and speeches, including against refugees and migrants
+
+106. Cease anti-immigration campaigns and rhetoric of incitement to hatred, xenophobia and anti-Semitism and take measures to fight against hate speech and hate crimes in general
+
+107. Adopt a hate crime investigation protocol and ensure that victims of hate crimes have effective access to the mechanisms of justice and redress
+
+109. Further step up efforts to publicly condemn hate speech, including against Roma
+
+118. Adopt and implement a comprehensive strategy and action plan to tackle discrimination based on sexual orientation and gender identity
+
+119. Adopt a strategy and a comprehensive plan of action to counter discrimination based on sexual orientation and gender identity
+
+120. Take comprehensive measures to counter discrimination on the grounds of sexual orientation and gender identity
+
+121. Fight against discrimination based on the origin, gender and sexual orientation, by continuing its efforts in the implementation of the existing instruments
+
+122. Adopt a comprehensive strategy in order to combat discrimination based on sexual orientation and gender identity
+
+123. Raise the legal age of marriage for women and men to 18 years
+
+124. Follow the recommendations of the 2014 OSCE election observation missions's final report
+
+127. Intensify efforts to prevent overcrowding in prisons
+
+129. Reduce the length of the initial pre-trial detention phase
+
+130. Consider adopting a law on domestic violence and criminalizing different types of violence against women
+
+131. Take additional measures to effectively combat violence against women and promote the participation of women in political life and their insertion in the professional life
+
+133. Promote public policies to prevent violence against women and girls, including domestic violence and sexual violence
+
+135. Establish a law to criminalise all forms of violence against women
+
+137. Define rape criminally based on the lack of voluntary consent in addition to reinforcing and making more accessible to victims the health care services
+
+138. Criminalize different types of violence against women, to amend the Criminal Code to ensure that rape is defined according to the CEDAW recommendations
+
+140. Abandon the practice of corporal punishment of children and encourage non-violent forms of discipline
+
+152. Continue to pursue implementation of the UN Basic Principles on the Independence of the Judiciary and repeal all provisions of national law that restrict the Constitutional Court's jurisdiction
+
+153. Take necessary measures for strengthening its specialized juvenile justice system in compliance with the Convention on the Rights of the Child
+
+155. Remedy the shortcomings in the media law as expressed by the Venice Commission
+
+157. Take concrete steps to promote pluralism of the media and their independent work, including the exercise of their watchdog function
+
+158. Take the necessary measures to promote media pluralism and fight threats against freedom of the press and freedom of expression
+
+159. Take appropriate measures to further relax restrictions on the freedom of the media
+
+160. Amend the media law in line with previous recommendations to ensure that all media laws are in line with the right to freedom of opinion and expression
+
+162. Take measures allowing the exercise of the lawful activities of human rights defenders, in a favourable legal and administrative environment
+
+163. Implement recommendations made by UN Special Rapporteur on Freedom of Peaceful Assembly and Association regarding governmental oversight and regulations of NGOs
+
+169. Maintain its commitment to the realization of the right to work for all including through technical and vocational training for young people
+
+170. Provide greater support for poor families and children and reduce social inequality
+
+171. Take further steps to ensure better labour market access and access to basic social and health services for marginalized women, including women with disabilities, Roma women and migrant women
+
+172. Continue to enhance access to sexual and reproductive health services for women, in particular women with disabilities, women with low income, women with HIV/AIDS, and women living in the rural areas
+
+173. Effectively implement ongoing national policy to guarantee quality education for minority
+
+174. Ensure that the standards of education in national minorities' languages as well as teaching of minorities languages are the same as the general standards of education in the country
+
+179. Review all relevant legislations, including the State's new Fundamental Law to ensure that all persons with disabilities have a right to vote, and that they can participate in political and public life on an equal basis with others
+
+180. Review legislations to ensure that all persons with disabilities have a right to vote, and that they can participate in political and public life
+
+184. Take all steps necessary to ensure that the right to seek asylum is guaranteed for asylum seekers coming to Hungary and that the principle of non-refoulement is respected
+
+186. Ensure that migrant and asylum-seeking women receive adequate assistance
+
+188. Advance in measures of assistance and promotion of the rights of migrants, refugees and asylum seekers, in compliance with current international standards
+
+189. Reform its legislation to ensure full respect of the principle of non-refoulement
+
+190. Ensure that its legal framework and actions concerning asylum seekers, refugees, and migrants comply with Hungary's international human rights obligations, including with regard to procedural safeguards. This includes repealing those amendments to Hungary's Asylum Law, Law on Criminal Procedure and Criminal Code that are inconsistent with its international human rights obligations
+
+191. Seek alternatives to detaining asylum seekers and migrants, particularly children. Take immediate and effective measures to ensure that conditions of detention are fully consistent with UN Standard Minimum Rules for the Treatment of Prisoners
+
+192. Develop actions that improve the living conditions of asylum seekers and prevent discrimination on the grounds of nationality or country of origin
+
+193. Continue to improve the living conditions of migrants, refugees and asylum seekers
+
+194. Ensure the inclusion of a human rights approach in the measures to address the migrant situation, taking into particular account the situation of vulnerable population
+
+195. Apply a dignified and human treatment that respects the universal principles of human rights for people in situation of human mobility, whether migrants or refugees, with special emphasis on strengthening and implementing policies to address trafficking of persons from a holistic approach , particularly regarding women, children and other vulnerable groups, as well as to combat all forms of discrimination, with measures including complaint an denunciation mechanisms for victims that enable them to achieve reparations.
+
+196. Ensure that all issues related to migration, asylum seeking and border management are addressed in accordance with respective obligations under applicable international law
+
+197. Fully respect its obligations under international law by guaranteeing the right to seek asylum through an individual, effective process without discrimination
+
+198. Improve the capacity to guarantee every person the possibility to request international protection in a legal way, and create conditions for the medical psychological treatment of asylum seekers, especially those who were victims of torture and violence
+
+199. Fully implement international Conventions and standards for the protection of refugees and asylum seekers
+
+201. Take immediate action to improve national asylum system, including by elaborating a national action plan, to avoid continuation of harsh conditions of detention and treatment of asylum seekers and refugees
+
+202. Ensure the prompt and impartial investigation of any excessive use of force in policing the border operations, including by the military
+
+203. Work together with the other European States to improve the conditions and treatment given to asylum seekers and refugees
+
+204. Make every effort to pay due attention to the human rights of asylum seekers and to avoid using disproportionate force on migrants and refugees
+
+205. Redouble efforts in order to guarantee the respect of the human rights of migrants, including persons under irregular situation
+
+206. Implement with no exception the principle of non-refoulement in the context of asylum seeking procedures
+
+208. Comply with the principle of non-refoulement
+
+209. Take measures to work towards improving the living conditions for refugees and asylum seekers
+
+210. Strengthen efforts in addressing issues of irregular migrants in the country in line with international human rights law obligations
+
+211. Improve the living conditions of asylum seekers and step up efforts directed towards improving the treatment of asylum seekers and refugees
+
+212. Take all the necessary steps to address the placing of asylum-seeking and migrant children in detention, including by repealing relevant legislation allowing for the detention of families accompanied by children
+
+213. Review legislation on the rights of migrants and asylum seekers in accordance with Hungary's obligations under international and European Law and to better apply existing internal rules, namely those related to the handling of unaccompanied children
+
+214. Make efforts to ensure transparency and consideration for human rights, in particular those of women and children, in its treatment of migrants and refugees
+
+215. Ensure that enforcement authorities comply with international human rights obligations in the treatment of migrants and asylum seekers, and expedite the judicial process to avoid prolonged detention of migrants and asylum seekers
+
+216. Continue the efforts to improve the treatment of migrants and asylum seekers
+
+217. Take steps to ensure that detention of asylum-seekers is used only in exceptional cases, the procedure for detention is transparent and comprehensible, and that detainees have access to effective legal remedy
+
+218. Continue to fulfil its international human rights obligations regarding asylum seekers, refugees and migrants
+
+219. Strengthen its efforts to improve the detention conditions of migrants and asylum seekers, including by refraining from excessive use of force, ill-treatment, and prolongation of detention periods; and also to adopt a comprehensive integration strategy for their early stage integration
+
+III. Elfogadásra nem javasolt ajánlások:
+
+7. Withdraw its reservation on pertinent articles of the ICERD, ICESCR, ICCPR and the Optional Protocol to the CRC on armed conflict
+
+9. Sign and ratify ICRMW
+
+10. Ratify the International Convention on the Protection of the Rights of all Migrant Workers and Members of their Families
+
+11. Consider ratifying the ICRMW
+
+12. Ratify ICRMW, as previously recommended
+
+17. Ratify the Optional Protocol to the Convention on the Rights of the Child on a communication procedure
+
+18. Ratify the Optional Protocol to the International Covenant on Economic, Social and Cultural Rights
+
+19. Ratify the OP-ICESCR
+
+24. Ensure that its policies, legislation, regulations and enforcement measures effectively serve to prevent and address the heightened risk of business involvement in abuses in conflict situations, which includes situations of foreign occupation
+
+79. Lift the measures in force that imply the discrimination and rejection of migrants and refugees, in particular those concerning to the use of force against them
+
+125. Reinstate juvenile courts and raise the age of criminal responsibility to 14 years, for all crimes, in line with international standards
+
+126. Amend the legislation on the protection of families in order to widen the definition of family
+
+128. Take measures to address the persistence of preventive detention in police centres and the high risk of ill-treatment
+
+141. Consider raising the age of criminal responsibility from 12 to 14 years, even for the most serious crimes
+
+151. Implement reforms on judicial independence and rule of law recommended by the International Bar Association Human Rights Institute in 2015
+
+156. Revise transparency laws to reinstate a freedom of information parliamentary ombudsman, and ex ante reclaiming of labor costs for processing information requests, and limit public institutions'authority to refuse access to public data
+
+187. Eliminate detention in penitentiary establishments of asylum seekers and refugees
+
+200. Actively participate in the refugee resettlement / humanitarian admission process directly from Turkey to the EU, as this is actually the only way to save lives and crack down criminal networks of smugglers
+
+207. Repeal the amendments to the Criminal Code that criminalizes “illegal entry” and introduces “transit zones” at the border and a list of “safe countries”
+
+220. Revise the national list of safe countries in order to avoid the high number of unadmitted requests that have been pointed out by the Helsinki Committee of Hungary
+
+[^1]: http://emberijogok.kormany.hu/magyarorszag-es-az-ensz-egyetemes-idoszakos-emberi-jogi-felulvizsgalata
