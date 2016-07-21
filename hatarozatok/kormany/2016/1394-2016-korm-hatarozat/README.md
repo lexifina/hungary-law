@@ -1,0 +1,9 @@
+# 1394/2016. (VII. 21.) Korm. határozat
+
+Magyarország Kormánya és Dunaújváros Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1394-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-07-21 | 2016-1394-30-22.1 | 1394/2016. (VII. 21.) Korm. határozat |
