@@ -12,7 +12,7 @@
 
 ## e) a bejelentés kitöltésének dátuma.
 
-2. melléklet a 318/2013. (VIII. 28.) Korm. rendelethez[^8]
+2. melléklet a 318/2013. (VIII. 28.) Korm. rendelethez[^12]
 
 Hulladéklerakási járulék adatszolgáltatási lap
 
@@ -38,4 +38,4 @@ i) az adatszolgáltatás kitöltésének dátuma;
 
 j) fizetendő hulladéklerakási járulék az adott telephelyen összesen (Ft).
 
-[^8]: A 2. melléklet a 310/2014. (XII. 11.) Korm. rendelet 18. § (5) bekezdésével megállapított szöveg.
+[^12]: A 2. melléklet a 310/2014. (XII. 11.) Korm. rendelet 18. § (5) bekezdésével megállapított szöveg.

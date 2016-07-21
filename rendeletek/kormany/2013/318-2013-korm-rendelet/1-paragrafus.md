@@ -4,10 +4,11 @@
 
 (2) A bejelentés alapján az OKTF a kötelezettet nyilvántartásba veszi és a kötelezettekről nyilvántartást vezet.
 
-(3) A kötelezett a bejelentést követően az 1. mellékletben meghatározott adatokban vagy körülményekben bekövetkezett változásokat a változás bekövetkeztétől számított 15 napon belül az OKTF-nek – a változás tényét igazoló dokumentum csatolásával egyidejűleg – bejelenti.
+(3)[^2] A kötelezett a bejelentést követően az 1. mellékletben meghatározott adatokban vagy körülményekben bekövetkezett változásokat – ideértve a járulékfizetési kötelezettség megszűnését is – a változás bekövetkeztétől számított 15 napon belül az OKTF-nek – a változás tényét igazoló dokumentum csatolásával egyidejűleg – bejelenti.
 
 (4) Az OKTF a kötelezettet törli a nyilvántartásból, ha a bejelentés feltételei már nem állnak fenn.
 
 (5) A nyilvántartásba vételi, az adatmódosítási és a törlés iránti bejelentést a környezet védelmének általános szabályairól szóló törvény adatszolgáltatási kötelezettségre vonatkozó előírásai szerint kell benyújtani.
 
 [^1]: Az 1. § a 310/2014. (XII. 11.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (3) bekezdése a 196/2016. (VII. 13.) Korm. rendelet 3. § (2) bekezdés a) pontja szerint módosított szöveg.

@@ -28,6 +28,6 @@ l) a hulladéklerakási járulék befizetési kötelezettségének körében fel
 
 (2) A környezetvédelemért felelős miniszter az (1) bekezdés k) és l) pontjában meghatározott feladatra a hulladéklerakási járulékból befolyt összeg tárgyévi pénzforrásainak 10%-át, de legfeljebb 2 milliárd forintot használhat fel.
 
-(3)[^3]
+(3)[^4]
 
-[^3]: A 3. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 753. §-a hatályon kívül helyezte.
+[^4]: A 3. § (3) bekezdését a 221/2014. (IX. 4.) Korm. rendelet 753. §-a hatályon kívül helyezte.
