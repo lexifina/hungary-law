@@ -1,8 +1,8 @@
 20. § (1) A saját jogú ellenőrzésben bizonyítási eszközök és bizonyítékok különösen: az iratok, pénzügyi, banki bizonylatok, számla, számlakivonat, szakértői vélemények, a nyilatkozat, a helyszíni ellenőrzés során rögzített adatok, tények, a helyszíni leltározás, szabályzat szerint vett minta.
 
-(2)[^68] Az állami hulladékgazdálkodást közvetítő szervezet a saját jogú ellenőrzése során jogosult idő- és helymeghatározással ellátott eszközzel hang, kép és mozgókép rögzítésére, az így szerzett adat bizonyítékként való felhasználására.
+(2)[^69] Az állami hulladékgazdálkodást közvetítő szervezet a saját jogú ellenőrzése során jogosult idő- és helymeghatározással ellátott eszközzel hang, kép és mozgókép rögzítésére, az így szerzett adat bizonyítékként való felhasználására.
 
-(3)[^69] Az állami hulladékgazdálkodást közvetítő szervezet a saját jogú ellenőrzése során mintát vehet. A mintát és a mintavételhez szükséges edényt – díjmentesen – az ellenőrzött bocsátja rendelkezésre.
+(3)[^70] Az állami hulladékgazdálkodást közvetítő szervezet a saját jogú ellenőrzése során mintát vehet. A mintát és a mintavételhez szükséges edényt – díjmentesen – az ellenőrzött bocsátja rendelkezésre.
 
 (4) A mintavételi jegyzőkönyv tartalmazza:
 
@@ -22,8 +22,8 @@ g) a minták mennyiségét és azonosítási jeleit, és
 
 h) a mintavevők aláírását és bélyegzőlenyomatát.
 
-(5)[^70] A mintavételi jegyzőkönyvet 3 példányban kell kiállítani, melynek első példánya az állami hulladékgazdálkodást közvetítő szervezet példánya, másodpéldánya a mintát kíséri, harmadpéldánya az ellenőrzött példánya.
+(5)[^71] A mintavételi jegyzőkönyvet 3 példányban kell kiállítani, melynek első példánya az állami hulladékgazdálkodást közvetítő szervezet példánya, másodpéldánya a mintát kíséri, harmadpéldánya az ellenőrzött példánya.
 
-[^68]: A 20. § (2) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^69]: A 20. § (3) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^70]: A 20. § (5) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^69]: A 20. § (2) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^70]: A 20. § (3) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^71]: A 20. § (5) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.

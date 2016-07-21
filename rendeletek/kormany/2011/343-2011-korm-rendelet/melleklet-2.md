@@ -718,6 +718,6 @@
 
 |  | 600 | – kenőolaj hulladéka |
 
-2. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^119]
+2. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^120]
 
-[^119]: A 2. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.
+[^120]: A 2. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg.

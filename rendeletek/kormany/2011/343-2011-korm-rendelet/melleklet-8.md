@@ -1,4 +1,4 @@
-8. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^148]
+8. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^149]
 
 Nyilvántartásba vételi adatok az újrahasználható csomagolószerek Főfelügyelőséghez történő bejelentéséhez
 
@@ -56,4 +56,4 @@ Nyilvántartásba vételi adatok az újrahasználható csomagolószerek Főfelü
 
 5.13. keltezés, cégszerű aláírás.
 
-[^148]: A 8. melléklet a 139/2013. (V. 13.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^149]: A 8. melléklet a 139/2013. (V. 13.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

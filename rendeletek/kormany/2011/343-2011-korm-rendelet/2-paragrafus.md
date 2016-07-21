@@ -22,10 +22,11 @@ d) az egységnyi végtermék előállításához felhasználásra kerülő alapa
 
 (7)[^6]
 
-(8) Hulladékká vált egyéb kőolajtermékből a hulladékról szóló 2012. évi CLXXXV. törvény (a továbbiakban: Ht.) 3. mellékletében meghatározott R9 eljárással előállított termékdíjköteles termék forgalomba hozatala esetén a kötelezett – a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendeletben meghatározottakon túl – a forgalomba hozott termékdíjköteles termék vonatkozásában nyilvántartást vezet, amely tartalmazza a vevő nevét, címét, adószámát, továbbá a forgalomba hozatalhoz kapcsolódóan kiállított számla vagy egyéb bizonylat sorszámát és kiállításának dátumát.
+(8)[^7] Hulladékká vált egyéb kőolajtermékből a hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló 43/2016. (VI. 28.) FM rendelet 2. mellékletében meghatározott R9 eljárással előállított termékdíjköteles termék forgalomba hozatala esetén a kötelezett – a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendeletben meghatározottakon túl – a forgalomba hozott termékdíjköteles termék vonatkozásában nyilvántartást vezet, amely tartalmazza a vevő nevét, címét, adószámát, továbbá a forgalomba hozatalhoz kapcsolódóan kiállított számla vagy egyéb bizonylat sorszámát és kiállításának dátumát.
 
 [^2]: A 2. § az 529/2013. (XII. 30.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^3]: A 2. § (1) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 1. pontja hatályon kívül helyezte.
 [^4]: A 2. § (2) bekezdése a 41/2014. (II. 24.) Korm. rendelet 4. §-a szerint módosított szöveg.
 [^5]: A 2. § (5) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 1. pontja hatályon kívül helyezte.
 [^6]: A 2. § (7) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 1. pontja hatályon kívül helyezte.
+[^7]: A 2. § (8) bekezdése a 196/2016. (VII. 13.) Korm. rendelet 1. § (1) bekezdése szerint módosított szöveg.

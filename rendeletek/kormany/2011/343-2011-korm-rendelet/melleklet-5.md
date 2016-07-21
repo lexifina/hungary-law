@@ -1,6 +1,6 @@
 ## A bevallás teljesítéséhez szükséges adattartalmi követelmények
 
-## I.[^124] Alapadatok
+## I.[^125] Alapadatok
 
 ## A kötelezett adatai
 
@@ -10,7 +10,7 @@
 
 ## 2. Termékkörönként tárgyidőszakban összesen fizetendő termékdíj összege
 
-## 3.[^125] A Ktdt. 12/A. § (3) és (4) bekezdés szerinti előleg
+## 3.[^126] A Ktdt. 12/A. § (3) és (4) bekezdés szerinti előleg
 
 ## III. A termékdíj-fizetési kötelezettség nem egyéni hulladékkezelés esetén
 
@@ -24,7 +24,7 @@
 
 ## b) Termékdíjtételek
 
-## c)[^126]
+## c)[^127]
 
 ## d) Környezetvédelmi termékdíj-fizetési kötelezettség összege soronként és összesen
 
@@ -44,7 +44,7 @@
 
 ## d) környezetvédelmi termékdíj-fizetési kötelezettség összege soronként és összesen.
 
-## V.[^127] Visszaigényelhető termékdíj
+## V.[^128] Visszaigényelhető termékdíj
 
 ## 1. Visszaigényelhető termékdíj összegének megállapítása:
 
@@ -86,7 +86,7 @@
 
 ## f) egyéni hulladékkezelés keretében kezelt mennyiség.
 
-## VII.[^128] A termékdíj-kötelezettség átvállalására vonatkozó adatok
+## VII.[^129] A termékdíj-kötelezettség átvállalására vonatkozó adatok
 
 ## 1. Átvállalással érintett termék adatai:
 
@@ -112,7 +112,7 @@
 
 ## h) csomagolóanyag kiskereskedelmi értékesítője által átvett mennyiség.
 
-## VIII.[^129] A nyilatkozattal átadott termékdíj-kötelezettség átadása
+## VIII.[^130] A nyilatkozattal átadott termékdíj-kötelezettség átadása
 
 ## 1. Kötelezett neve, adószáma
 
@@ -136,13 +136,13 @@
 
 ## e) a Ktdt. 3. § (6) bekezdés cb) pontja alapján átadott mennyiség.
 
-## f)[^130] a Ktdt. 3. § (6) bekezdés d) pontja alapján átadott mennyiség,
+## f)[^131] a Ktdt. 3. § (6) bekezdés d) pontja alapján átadott mennyiség,
 
-## g)[^131] a Ktdt. 3. § (6) bekezdés e) pontja alapján átadott mennyiség,
+## g)[^132] a Ktdt. 3. § (6) bekezdés e) pontja alapján átadott mennyiség,
 
-## h)[^132] a Ktdt. 3. § (6) bekezdés f) pontja alapján átadott mennyiség.
+## h)[^133] a Ktdt. 3. § (6) bekezdés f) pontja alapján átadott mennyiség.
 
-## IX.[^133] A gépjármű termékdíjköteles alkotórészei, tartozékai után fizetendő termékdíjátalány
+## IX.[^134] A gépjármű termékdíjköteles alkotórészei, tartozékai után fizetendő termékdíjátalány
 
 ## 1. KT kódja,
 
@@ -158,7 +158,7 @@
 
 ## d) a termékdíjátalány összege soronként és összesen (Ft).
 
-5. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^134]
+5. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^135]
 
 ## A nyilvántartás minimális adattartalma
 
@@ -172,9 +172,9 @@ A termékdíjköteles termék:
 
 3. vámtarifaszáma,
 
-4.[^135] egységnyi mennyisége (kg), gépjármű esetében darabszáma,
+4.[^136] egységnyi mennyisége (kg), gépjármű esetében darabszáma,
 
-5.[^136] termékdíj-tétele és összege,
+5.[^137] termékdíj-tétele és összege,
 
 6. eredete (belföldi gyártású, külföldről behozott),
 
@@ -182,16 +182,16 @@ A termékdíjköteles termék:
 
 8. a termékdíj megfizetésének napja.
 
-[^124]: A 4. melléklet I. pontja a 407/2015. (XII. 15.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
-[^125]: A 4. melléklet II. pont 3. alpontját a 407/2015. (XII. 15.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^126]: A 4. melléklet III. pont 3. alpont c) alpontját a 407/2015. (XII. 15.) Korm. rendelet 9. §-a hatályon kívül helyezte.
-[^127]: A 4. melléklet V. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
-[^128]: A 4. melléklet VII. pontja a 139/2013. (V. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított, nyitó szövegrésze a 407/2015. (XII. 15.) Korm. rendelet 8. § g) pontja szerint módosított szöveg.
-[^129]: A 4. melléklet VIII. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
-[^130]: A 4. melléklet VIII. pont 3. alpont f) pontját az 529/2013. (XII. 30.) Korm. rendelet 12. § (6) bekezdése iktatta be.
-[^131]: A 4. melléklet VIII. pont 3. alpont g) alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^132]: A 4. melléklet VIII. pont 3. alpont h) alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^133]: A 4. melléklet IX. pontját a 407/2015. (XII. 15.) Korm. rendelet 7. § (2) bekezdése iktatta be.
-[^134]: Az 5. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (7) bekezdésével megállapított szöveg.
-[^135]: Az 5. melléklet 4. pontja a 407/2015. (XII. 15.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^136]: Az 5. melléklet 5. pontja a 407/2015. (XII. 15.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^125]: A 4. melléklet I. pontja a 407/2015. (XII. 15.) Korm. rendelet 8. § f) pontja szerint módosított szöveg.
+[^126]: A 4. melléklet II. pont 3. alpontját a 407/2015. (XII. 15.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^127]: A 4. melléklet III. pont 3. alpont c) alpontját a 407/2015. (XII. 15.) Korm. rendelet 9. §-a hatályon kívül helyezte.
+[^128]: A 4. melléklet V. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^129]: A 4. melléklet VII. pontja a 139/2013. (V. 13.) Korm. rendelet 3. § (2) bekezdésével megállapított, nyitó szövegrésze a 407/2015. (XII. 15.) Korm. rendelet 8. § g) pontja szerint módosított szöveg.
+[^130]: A 4. melléklet VIII. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^131]: A 4. melléklet VIII. pont 3. alpont f) pontját az 529/2013. (XII. 30.) Korm. rendelet 12. § (6) bekezdése iktatta be.
+[^132]: A 4. melléklet VIII. pont 3. alpont g) alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^133]: A 4. melléklet VIII. pont 3. alpont h) alpontját a 386/2014. (XII. 31.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^134]: A 4. melléklet IX. pontját a 407/2015. (XII. 15.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^135]: Az 5. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (7) bekezdésével megállapított szöveg.
+[^136]: Az 5. melléklet 4. pontja a 407/2015. (XII. 15.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^137]: Az 5. melléklet 5. pontja a 407/2015. (XII. 15.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.

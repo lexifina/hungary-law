@@ -1,8 +1,8 @@
-17. § (1)[^60] A saját jogú ellenőrzés lefolytatásáról az ellenőrzést megelőzően az állami hulladékgazdálkodást közvetítő szervezet írásban értesíti (a továbbiakban: előzetes bejelentés) az ellenőrzöttet, kivéve, ha ezzel az ellenőrzés célját, vagy eredményességét veszélyeztetné.
+17. § (1)[^61] A saját jogú ellenőrzés lefolytatásáról az ellenőrzést megelőzően az állami hulladékgazdálkodást közvetítő szervezet írásban értesíti (a továbbiakban: előzetes bejelentés) az ellenőrzöttet, kivéve, ha ezzel az ellenőrzés célját, vagy eredményességét veszélyeztetné.
 
 (2) Az előzetes bejelentés tartalmazza:
 
-a)[^61] az állami hulladékgazdálkodást közvetítő szervezet megnevezését, az értesítés iktatószámát,
+a)[^62] az állami hulladékgazdálkodást közvetítő szervezet megnevezését, az értesítés iktatószámát,
 
 b) az ellenőrzött ügyfél megnevezését, székhelyét, adószámát, szerződés számát,
 
@@ -14,11 +14,11 @@ e) az ellenőrzés elrendelésére jogosult aláírását, a szervezet bélyegz�
 
 (3) Helyszíni ellenőrzés a tevékenységgel érintett székhelyen, illetve telephelyen, a tevékenység végzése idején folytatható.
 
-(4)[^62] Ha az ellenőrzött a Ktdt. 20. § (1) bekezdés d) pontja szerinti tevékenységéhez más személy, szervezet ingatlanát veszi igénybe, az ingatlan tulajdonosának hozzájárulását az ellenőrzöttnek kell biztosítania.
+(4)[^63] Ha az ellenőrzött a Ktdt. 20. § (1) bekezdés d) pontja szerinti tevékenységéhez más személy, szervezet ingatlanát veszi igénybe, az ingatlan tulajdonosának hozzájárulását az ellenőrzöttnek kell biztosítania.
 
-(5)[^63] Az ellenőrzésről, valamint az ellenőrzött, illetve az ellenőrzött közreműködője, alvállalkozója szóbeli nyilatkozatáról jegyzőkönyv készül, mely tartalmazza:
+(5)[^64] Az ellenőrzésről, valamint az ellenőrzött, illetve az ellenőrzött közreműködője, alvállalkozója szóbeli nyilatkozatáról jegyzőkönyv készül, mely tartalmazza:
 
-a)[^64] az állami hulladékgazdálkodást közvetítő szervezet megnevezését, a jegyzőkönyv iktatószámát, az ellenőrzést végzők nevét;
+a)[^65] az állami hulladékgazdálkodást közvetítő szervezet megnevezését, a jegyzőkönyv iktatószámát, az ellenőrzést végzők nevét;
 
 b) a szolgáltatás-megrendelés kedvezményezettje nevét, székhelyét, szerződésének számát;
 
@@ -38,8 +38,8 @@ h) az ellenőrzést végzők és az ellenőrzött aláírását.
 
 (7) Az ellenőrzött által vitatott jegyzőkönyvi megállapítások tisztázása érdekében szakmai egyeztetést kell tartani, amelyről kiegészítő jegyzőkönyvet kell felvenni.
 
-[^60]: A 17. § (1) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^61]: A 17. § (2) bekezdés a) pontja a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
-[^62]: A 17. § (4) bekezdése az 529/2013. (XII. 30.) Korm. rendelet 13. § 4. pontja szerint módosított szöveg.
-[^63]: A 17. § (5) bekezdés nyitó szövegrésze az 57/2014. (III. 4.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
-[^64]: A 17. § (5) bekezdés a) pontja a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^61]: A 17. § (1) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^62]: A 17. § (2) bekezdés a) pontja a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^63]: A 17. § (4) bekezdése az 529/2013. (XII. 30.) Korm. rendelet 13. § 4. pontja szerint módosított szöveg.
+[^64]: A 17. § (5) bekezdés nyitó szövegrésze az 57/2014. (III. 4.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
+[^65]: A 17. § (5) bekezdés a) pontja a 368/2014. (XII. 30.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.

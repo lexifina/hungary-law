@@ -1,3 +1,3 @@
-4. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^123]
+4. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^124]
 
-[^123]: A 4. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg.
+[^124]: A 4. melléklet a 366/2012. (XII. 17.) Korm. rendelet 41. § (2) bekezdésével megállapított szöveg.
