@@ -60,7 +60,7 @@
 
 (3)[^16] A Magyar Élelmiszerkönyv (Codex Alimentarius Hungaricus) I. kötetének nemzeti termékleírásokat tartalmazó kötelező előírásait e rendelet következő mellékleteiben adom ki:
 
-a) a húskészítményekről szóló 12. melléklet,
+a)[^17] a húskészítményekről és egyes előkészített húsokról szóló 12. melléklet,
 
 b) a tejtermékekről szóló 13. melléklet.
 
@@ -80,3 +80,4 @@ b) a tejtermékekről szóló 13. melléklet.
 [^14]: Az 1. § (2) bekezdés 35. pontját a 26/2011. (IV. 7.) VM rendelet 1. §-a iktatta be.
 [^15]: Az 1. § (2) bekezdés 36. pontját a 10/2014. (IX. 18.) FM rendelet 1. §-a iktatta be.
 [^16]: Az 1. § (3) bekezdése a 37/2010. (IV. 13.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^17]: Az 1. § (3) bekezdés a) pontja a 48/2016. (VII. 18.) FM rendelet 1. §-ával megállapított szöveg.

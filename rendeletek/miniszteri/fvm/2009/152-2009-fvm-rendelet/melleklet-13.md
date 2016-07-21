@@ -1,761 +1,965 @@
-## A Magyar Élelmiszerkönyv 1-3/13-1 számú előírása a húskészítményekről
+## A Magyar Élelmiszerkönyv 1-3/13-1 számú előírása a húskészítményekről és egyes előkészített húsokról
 
-## A Magyar Élelmiszerkönyv 1-3/13-1 számú előírása a húskészítményekről
+## A RÉSZ
 
-## A rész
+## ÁLTALÁNOS RENDELKEZÉSEK
 
-## I. 1. Ez az előírás a III. fejezet 4. pont szerinti húskészítményekre vonatkozik, célja a fogyasztók, a gazdasági szereplők és a piaci verseny tisztaságának védelme.
+## I.
 
-## 2. Az előírásban meghatározott húskészítmény megnevezések a Magyarországon forgalomba hozott termékek esetében csak akkor használhatók, ha megfelelnek az előírásban rögzített követelményeknek.
+## 1. Ez az előírás a III. fejezet 3. pontja szerinti húskészítményekre és a III. fejezet 4. pontja szerinti előkészített húsokra vonatkozik.
 
-## 3. Az ebben az előírásban meghatározott technikai jellegű előírásoknak nem kell megfelelnie azon termékeknek, amelyeket az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások a fogyasztók védelme vonatkozásában az ezen előírásban meghatározottal egyenértékű védelmet nyújtanak.
+## 2. Az előírásban meghatározott húskészítmény és előkészített hús megnevezések a Magyarországon forgalomba hozott termékek esetében csak akkor használhatók, ha megfelelnek az előírásban meghatározott követelményeknek.
 
-## II. 1. A húskészítmények előállításához, a vonatkozó jogszabályoknak, ajánlásoknak, ezek hiányában a szokásos jó üzemi, kereskedelmi gyakorlatnak megfelelő minőségű összetevők használhatók fel.
+## 3. Az előírás nem terjed ki a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU európai parlamenti és tanácsi rendelet alapján eredetmegjelölésként vagy földrajzi jelzésként oltalom alatt álló, valamint hagyományos különleges termékként bejegyzett húskészítményekre.
 
-## 2. A húskészítmények csomagolására csak a vonatkozó jogszabályoknak megfelelő csomagolóanyag és védőgáz használható fel.
+## 4. Az ebben az előírásban meghatározott technikai jellegű előírásoknak nem kell megfelelnie azon termékeknek, amelyeket az Európai Unió valamely tagállamában vagy Törökországban állítottak elő, illetve hoztak forgalomba, vagy az Európai Gazdasági Térségről szóló megállapodásban részes valamely EFTA-államban állítottak elő, az ott irányadó előírásoknak megfelelően, feltéve, hogy az irányadó előírások a fogyasztók védelme vonatkozásában az ezen előírásban meghatározottal egyenértékű védelmet nyújtanak.
 
-## 3. A húskészítmények tárolását, szállítását a vonatkozó jogszabályoknak, ajánlásoknak, ezek hiányában a szokásos jó gyakorlatnak megfelelően kell végezni.
+## II.
 
-## III. Ezen előírás vonatkozásában:
+## 1. A felhasználható anyagok szempontjából húsnak minősülnek az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, 2004. április 29-i 853/2004/EK európai parlamenti és tanácsi rendelet (ezen előírás vonatkozásában a továbbiakban: 853/2004/EK európai parlamenti és tanácsi rendelet) I. mellékletének 1.1. pontjában meghatározott állatok élelmezési célra alkalmas részei, beleértve a vért is.
 
-## 1. Hús
+## 2. A „hús” megnevezésű összetevő jelölésére a fogyasztók élelmiszerekkel kapcsolatos tájékoztatásáról, az 1924/2006/EK és az 1925/2006/EK európai parlamenti és tanácsi rendelet módosításáról és a 87/250/EGK bizottsági irányelv, a 90/496/EGK tanácsi irányelv, az 1999/10/EK bizottsági irányelv, a 2000/13/EK európai parlamenti és tanácsi irányelv, a 2002/67/EK és a 2008/5/EK bizottsági irányelv és a 608/2004/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2011. október 25-i 1169/2011/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1169/2011/EU európai parlamenti és tanácsi rendelet) előírásai irányadóak.
 
-## a) a felhasználható anyagok szempontjából: az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, az Európai Parlament és a Tanács 853/2004/EK rendelete I. mellékletének 1.1. pontja szerint
+## 3. A hústartalom meghatározása a húskészítmények hústartalmának mennyiségi jelölésére és a hústartalom mennyiségének meghatározására szolgáló útmutató alapján történik.
 
-## b) a „hús” megnevezésű összetevő jelölése szempontjából: az élelmiszerek jelölésére vonatkozó jogszabály szerint
+## 4. Jelölési szempontból húsnak minősül a gépi csontozású hús [angolul: Mechanically Deboned Meat (MDM)] vagy az íntalanított hús [angolul: Mechanically Desinewed Meat (DSM)] is, így a hústartalomba beszámítható, külön jelölése nem szükséges, amennyiben megfelelnek az alábbi meghatározásoknak:
 
-## 2. Gépi csontozású hús
+## 4.1. gépi csontozású hús: az előállítási művelet a csontos húsból a csont gépi úton történő eltávolítására korlátozódik, és nem a csontozást követően visszamaradt csontról történő további húskinyerésre irányul;
 
-## Olyan termék, amelyet fogyasztásra feltétel nélkül alkalmasnak minősített baromfiból, vágóállatból vagy ezek részeiről mechanikai eszközökkel úgy nyernek, hogy az izomszerkezet nem sérül vagy módosul, a darált húséra jellemző marad. Szemcsemérete minimum 3 mm.
+## 4.2. íntalanított hús: a kézi, vagy a fent leírtaknak megfelelően elvégzett gépi csontozás útján nyert friss húst egy erre szolgáló berendezéssel (így különösen Baader vagy egyéb berendezés) kezelik.
 
-## 3. Csontokról mechanikusan lefejtett hús (MSM)
+## 5. Nem számít a jelölés szempontjából húsnak a 853/2004/EK európai parlamenti és tanácsi rendelet I. mellékletének 1.14. pontja szerint mechanikailag szétválasztott hús, azaz csontokról mechanikusan lefejtett hús [angolul: Mechanically Separated Meat, MSM] (a továbbiakban: csontokról mechanikusan lefejtett hús). A csontokról mechanikusan lefejtett hús nem számítható be a hústartalomba, és nem jelölhető az 1169/2011/EU európai parlamenti és tanácsi rendelet VII. melléklet B. rész 17. pontja szerint. A csontokról mechanikusan lefejtett hús külön jelölése szükséges az 1169/2011/EU európai parlamenti és tanácsi rendelet VII. melléklet B. rész 18. pontja szerint.
 
-## Az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, az Európai Parlament és a Tanács 853/2004/EK rendelete I. mellékletének 1.14. pontja szerint
+## 6. A B és C részben szereplő termékcsoportok és termékek esetében csontokról mechanikusan lefejtett húst nem lehet felhasználni, kivéve, ha a B és C rész erről másként rendelkezik.
 
-## 4. Húskészítmény
+## III.
 
-## Az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, az Európai Parlament és a Tanács 853/2004/EK rendelete I. mellékletének 7.1. szerint.
+## Ezen előírás vonatkozásában:
 
-## 5. Pácolás
+## 1. Aprítás: olyan, a termék összetevőitől és jellegétől függő művelet, melynek célja a termékre jellemző szemcseméret, metszéslap és állomány kialakítása.
 
-## a) Pácolás
+## 2. Bevonatok: a termékek felületének egyenletes bevonására alkalmazott anyag (így különösen fűszer, viasz, egyéb fogyasztható vagy nem fogyasztható bevonat).
 
-## A húskészítményt tartósítás, íz- és színkialakítás céljából étkezési sót, nitriteket és/vagy nitrátokat és más összetevőket tartalmazó oldatba merítik vagy felületüket ezen anyagok keverékével bedörzsölik és pácérettségig érlelik.
+## 3. Előkészített hús: a 853/2004/EK európai parlamenti és tanácsi rendelet I. mellékletének 1.15. pontja szerinti fogalom.
 
-## b) Gyorspácolás
+## 4. Érlelés:
 
-## A húskészítmény egyes alapanyagaiba íz- és színkialakítás céljából étkezési sót, nitriteket és/vagy nitrátokat és más összetevőket tartalmazó páclevet injektálnak és/vagy vákuum alatt vagy anélkül a szöveti részekbe juttatnak.
+## 4.1. lassú érlelés: a termékek megfelelő kémiai összetételét és ízanyagait kialakító – érlelésszabályozó nélkül, elsősorban a szárításhoz kapcsolódó – vízaktivitás csökkentéssel járó technológiai folyamatok összessége; vagy
 
-## 6. Füstölés és a füstölt íz kialakítása
+## 4.2. gyorsérlelés: olyan mikrobiológiai (starterkultúra) vagy kémiai eredetű anyagok alkalmazása (a továbbiakban: érlelés-szabályozók), amelyek elősegítik a termékek szabályozott, gyorsított érlelését.
 
-## a) Füstölés
+## 5. Friss hús: a 853/2004/EK európai parlamenti és tanácsi rendelet I. mellékletének 1.10. pontja szerinti fogalom.
 
-## Olyan művelet, amelynek célja az előállított füsttel a húskészítmények füstölt ízének és színének kialakítása, az eltarthatóság növelése, a termék jellegének kialakítása. A füst előállítása történhet keményfa közvetlen elégetésével vagy füstaromából annak regenerálásával.
+## 6. Füst ízesítés: olyan művelet, melyben a vonatkozó rendelkezéseknek megfelelő füstaromát a termékbe, termékre juttatják (így különösen bekeverés, injektálás, felületi kezelés, bemerítés útján). Az ilyen módon előállított termék megnevezése: „füst ízesítésű …”.
 
-## b) Füst ízesítés
+## 7. Füstölés: olyan művelet, amelynek célja az előállított füsttel a termékek füstölt ízének és színének kialakítása, az eltarthatóság növelése, a termék jellegének kialakítása. A füstölés keményfa közvetlen, tökéletlen elégetésével történik, az ilyen módon előállított termék megnevezése: „füstölt …”.
 
-## Olyan művelet, melyben a vonatkozó rendelkezéseknek megfelelő füstaromát a húskészítménybe juttatják (bekeverés, injektálás stb.)
+## A füstölés az alábbi módokon végezhető:
 
-## 7. Aprítás: olyan, a húskészítmény összetevőitől és jellegétől függő művelet, melynek célja a húskészítmény szemcséinek méretbeállítása.
+## 7.1. hideg füsttel történő füstölés: 20 °C alatti hőmérsékleten végzett füstölés, amely időtartamának megfelelően lehet:
 
-## 8. Érlelés
+## 7.1.1. hagyományos hosszú hidegfüstölés, melynek során a terméket hosszabb ideig szakaszosan egész vékony, híg füsttel füstölik,
 
-## a) Érlelés
+## 7.1.2. rövid hideg füstölési eljárás, melynek során a terméket – megfelelő átpirosodás során – sűrű, hideg füsttel füstölik néhány napig;
 
-## A húskészítmények megfelelő kémiai összetételét és ízanyagait kialakító – érlelésgyorsító nélkül, elsősorban a szárításhoz kapcsolódó – vízaktivitás csökkentéssel járó technológiai folyamatok összessége.
+## 7.2. meleg füstölés: 40–60 °C között terjedő hőmérsékleten végzett füstölés;
 
-## b) Gyorsérlelés
+## 7.3. forró füstölés: 60–85 °C között terjedő hőmérsékleten végzett füstölés. A füst hatására a termék viszonylag rövid idő alatt jellegzetes füstölt színűvé és ízűvé válik, a folyamat alatt a termékek átpirosodása is végbemegy, de a termék maghőmérséklete 68 °C alatti.
 
-## Olyan mikrobiológiai (starterkultúra) vagy kémiai eredetű anyagok alkalmazása, amelyek elősegítik a húskészítmények szabályozott, gyorsabb érlelését.
+## 8. Hőkezelés: a húskészítmények legelterjedtebb tartósítási módja, amely egyúttal állomány kialakításra és színstabilizálásra is szolgál; a hőközlő közeg víz, vízgőz (főzés), vagy levegő, zsiradék (sütés).
 
-## 9. Érlelésszabályozók: Olyan mikrobiológiai (starterkultúra) vagy kémiai eredetű anyagok, amelyek elősegítik a húskészítmények szabályozott,gyorsabb érlelését.
+## 9. Húskészítmény: a 853/2004/EK európai parlamenti és tanácsi rendelet I. mellékletének 7.1. pontja szerinti fogalom.
 
-## 10. Fagyasztás: Olyan művelet, melynek során a termék minden pontjának hőmérséklete –12 °C vagy annál kisebb lesz.
+## 10. Húspép (prád): friss hús az adott termékhez tartozó technológiának megfelelően aprítva, víz és szükség szerint az élelmiszer-adalékanyagokról szóló, 2008. december 16-i 1333/2008/EK európai parlamenti és tanácsi rendelet (ezen előírás vonatkozásában a továbbiakban: 1333/2008/EK európai parlamenti és tanácsi rendelet) szerint engedélyezett élelmiszer-adalékanyag felhasználásával készült kötőanyag.
 
-## 11. Töltés: Olyan művelet, melynek során különböző berendezésekkel a húskészítmény megfelelő formájának/adagjának kialakítására természetes vagy mesterséges burokba, formába juttatják a megfelelően előkészített összetevőket.
+## 11. Kötőszöveti fehérjetartalom: a hidroxi-prolin-tartalom nyolcszorosa, tömegszázalékban kifejezve.
 
-## 12. Hőkezelés: A húskészítmények legelterjedtebb tartósítási módja, amely egyúttal állomány kialakításra és színstabilizálásra is szolgál. A hőközlő közeg víz, vízgőz (főzés) vagy levegő, zsiradék (sütés).
+## 12. Kötőszövetmentes fehérjetartalom: tömegszázalékban kifejezve az összes fehérjetartalom és a kötőszöveti fehérjetartalom különbsége, abban az esetben, ha a termék nem tartalmaz egyéb hozzáadott, idegen fehérjét.
 
-## 13. Mártómassza, védőfilm: A húskészítmények felületének egyenletes bevonására alkalmazott anyag (pl. fűszer, viasz, egyéb fogyasztható vagy nem fogyasztható bevonat).
+## 13. Lángolás: a termék felületének nyílt lánggal való kezelése vagy forró füstölése.
 
-## 14. Nemespenész bevonat: A húskészítmények megfelelő páratartalmú térben nemespenész spórákkal teli levegő segítségével történő felületkezelése során keletkező bevonat.
+## 14. Nátrium-klorid-tartalom: összes klorid-tartalom, nátrium-kloridban megadva, tömeg%-ban kifejezve.
 
-## 15. Lángolás: A húskészítmény felületének nyílt lánggal való kezelése vagy forró füstölése.
+## 15. Nedves sózás: a félkész termék vagy összetevői meghatározott időtartamra sóoldatba való helyezése.
 
-## 16. Sózás: A húskészítmény vagy összetevői tartósítási, állomány és ízkialakítási módja, mely lehet száraz és nedves.
+## 16. Nemespenész bevonat: a termékek megfelelő páratartalmú térben nemespenész spórákkal teli levegő segítségével történő felületkezelése során keletkező nemespenész bevonat.
 
-## a) Száraz sózás
+## 17. Összes fehérjetartalom: Kjeldahl módszer szerint meghatározott összes nitrogéntartalom 6,25-tel való szorzata, tömegszázalékban kifejezve.
 
-## A hús és/vagy szalonna összetevők sózóedényben, finom étkezési sóval való behintése, bedörzsölése.
+## 18. Pácérettség: a pácolt hőkezelt terméket, vagy hőkezeletlen termék esetén a vizsgálat során megtörtént hőkezelést követően felvágva a vágási felület egynemű, láthatóan nem nyers, nem halvány színű és metszéslapjának középső része nem szürkül el; szalonnák esetén a metszéslapon rózsaszínes jelleg nem látható; a termék keresztmetszetében mért átlagos só-, nitrit- és nitráttartalom a vonatkozó jogszabályban előírt határértékeken belüli.
 
-## b) Nedves sózás
+## 19. Pácolás:
 
-## A félkész húskészítmény vagy összetevői meghatározott időtartamra sóoldatba való helyezése.
+## 19.1. lassú pácolás: a terméket tartósítás, íz- és színkialakítás céljából étkezési sót, nitriteket, illetve nitrátokat és más összetevőket tartalmazó oldatba merítik, vagy felületüket ezen anyagok keverékével bedörzsölik és pácérettségig érlelik; vagy
 
-## 17. Szárítás: Elsősorban sózással kombinált tartósítási mód, melynek során a szabályozott hőmérsékletű és páratartalmú levegőben a húskészítmény tömege és térfogata csökken.
+## 19.2. gyorspácolás: a termékbe, vagy a termék egyes alapanyagaiba íz- és színkialakítás céljából étkezési sót, nitriteket, illetve nitrátokat, valamint más összetevőket tartalmazó páclevet injektálnak, illetve vákuum alatt vagy anélkül a szöveti részekbe juttatnak.
 
-## IV. A húskészítmények jelölésénél a vonatkozó jogszabályok mellett az alábbiakat kell figyelembe venni:
+## 20. Penészes: nemespenész bevonattal borított.
 
-## 1. A termék nevében az adott állat neve (pl. sertés, marha, borjú, pulyka stb.) akkor tüntethető fel, ha a termék hústartalmának legalább 70%-a az adott állatfajtából származik. Vegyes baromfihús 70%-os felhasználása esetén a termék neve a „baromfi” jelzőt viselheti.
+## 21. Regenerált füstaroma felhasználása: olyan művelet, melynél regenerált engedélyezett füstaroma felhasználásával kamrában füstölik a terméket, a 10.1–10.3. alpontokban foglalt módon. Az ilyen módon előállított termék megnevezése: „folyékony füsttel füstölt …” vagy „füstoldattal füstölt …”.
 
-## 2. A külön jogszabályban szereplő őshonos állatokból készült termék megnevezésében akkor szerepelhet az adott állatfajta neve, ha a termék hústartalmának legalább 70%-a az adott állatfajtából származik.
+## 22. Sózás: a termék vagy összetevői tartósítási, állomány- és ízkialakítási módja, amely lehet száraz és nedves sózás.
 
-## 3. A megnevezésben „májas” szót viselő terméknek legalább 12% (m/m) májat kell tartalmaznia.
+## 23. Száraz sózás: a hús, illetve szalonna összetevők sózó edényben, étkezési sóval való behintése, bedörzsölése.
 
-## V. A B és C részben szabályozott húskészítmények jelölésénél az ott előírtak, a IV. fejezetben és a vonatkozó jogszabályok mellett a következőket kell figyelembe venni:
+## 24. Szárítás: elsősorban sózással kombinált tartósítási mód, amelynek során szabályozott hőmérsékletű és páratartalmú levegőben a termék vízaktivitása és egyben tömege és térfogata csökken.
 
-## 1. A termékek adott megnevezése megkülönböztető jelzővel vagy kiegészítéssel látható el.
+## 25. Töltés: olyan művelet, amelynek során különböző berendezésekkel a termék megfelelő formájának/adagjának kialakítására természetes vagy mesterséges burkolóanyagba, formába juttatják a megfelelően előkészített összetevőket.
 
-## 2. A párizsi, a krinolin, a virsli, a Zala felvágott, a nyári turistafelvágott és a csemege debreceni megnevezésében alkalmazható az extra, a príma, az eredeti, a különleges vagy más egyéb, a kiválóságra utaló jelző, ha:
+## 26. Vágásérettség: szárazáruk érlelése során kialakult állapot, amelynek eredményeként a termék jól szeletelhető, tömör, rugalmas, a szeletelés során a hús és szalonna mozaikok jól összeállóak.
 
-## a) a termékek hústartalma a késztermékre vonatkoztatva legalább 1,3-szorosa a megkülönböztető jelző nélküli terméknek, és
+## IV.
 
-## b) a termékek előállításához csak húseredetű fehérjét használnak.
+## 1. A húskészítmények és előkészített húsok előállításához a vonatkozó jogszabályoknak, ajánlásoknak, ezek hiányában a jó higiéniai gyakorlat útmutatónak megfelelő minőségű összetevők használhatók fel.
 
-## 3. A termékben a hús összetevő mennyiségét az élelmiszer jelöléséről szóló külön jogszabály szerint az összetevők mennyiségi jelölési szabályainak megfelelően a termék megnevezésében, a megnevezés után vagy az összetevők felsorolásánál meg kell adni.
+## 2. A húskészítmények és előkészített húsok csomagolására csak a vonatkozó jogszabályoknak megfelelő csomagolóanyag és védőgáz használható fel.
 
-## 4. Amennyiben a B és C részben meghatározott termékhez az ízesítést, jelleget megváltoztató összetevőt (pl. zöldség, gyümölcs, tejtermék) adnak és az összetevő a megnevezésben kiemelésre kerül (pl. sajtos párizsi), akkor a B és C részben megadott minőségi jellemzők a termék megnevezésben szereplő összetevő(k) nélküli részre vonatkoznak.
+## 3. A húskészítmények és előkészített húsok tárolását, szállítását a vonatkozó jogszabályoknak, ajánlásoknak, illetve a gyártója által meghatározott módon, ezek hiányában a jó higiéniai gyakorlatnak megfelelően kell végezni.
 
-## 5. A termékeket a meghatározott átmérőjűnél legfeljebb 40%-kal eltérő átmérőjű bélbe is lehet tölteni.
+## V.
 
-## VI. Az egyes húskészítmények részletes előírásait – a meghatározó összetevőit, technológiát, minőségi jellemzőit és speciális jelölési elemeit – a B és C rész tartalmazza.
+## A húskészítmények, előkészített húsok jelölésénél a vonatkozó jogszabályok mellett az alábbiakat kell figyelembe venni:
 
-## VII. A jelen előírásból eredő új jelölési rendelkezéseknek nem megfelelő jelölésű termékek a hatálybalépéstől számított 18 hónapig előállíthatóak és az addig előállított termékek ezt az időpontot követően is forgalomba hozhatóak.
+## 1. A termék nevében az adott állatfaj nevét (így különösen sertés, marha, borjú, csirke, pulyka, kacsa, liba) fel kell tüntetni, ha a termék jelölés szerinti hústartalmának legalább 70% (m/m)-a az adott állatfajból származik. Vegyes baromfihús legalább 70% (m/m)-os felhasználása esetén a termék neve a „baromfi” jelzőt viseli.
 
-## B rész
+## Amennyiben a termék jelölés szerinti hústartalmán belül egyik állatfaj hústartalma sem éri el a 70% (m/m)-ot, a megnevezésben fel kell tüntetni azokat az állatfajokat, melyekből a termék hústartalma származik, mennyiségi csökkenő sorrendben: például csirke, sertés húsból készült termék.
 
-## Termékcsoportok
+## 2. A külön jogszabályban szereplő őshonos állatokból, illetve a vadból és tenyésztett vadból készült termék megnevezésében akkor szerepelhet az adott állatfajta, illetve állatfaj neve, ha a termék jelölés szerinti hústartalmának legalább 80%-a az adott állatfajtából, illetve állatfajból származik.
 
-## 1. Sonkák
+## 3. A megnevezésben „máj”, „májas”, „májkrém” szavakat viselő terméknek legalább 25% (m/m) májat kell tartalmaznia. A „máj”, „májas”, „májkrém” szavakat viselő termék nevében az adott állatfaj nevét (így különösen sertés, marha, borjú, csirke, pulyka, kacsa, liba) fel kell tüntetni, ha a termék májtartalmának legalább 70% (m/m)-a az adott állatfajból származik.
+
+## Amennyiben a termék májtartalmán belül egyik állatfaj májtartalma sem éri el a 70% (m/m)-ot, a megnevezésben fel kell tüntetni azokat az állatfajokat, melyekből a termék májtartalma származik, mennyiségi csökkenő sorrendben: például sertés, pulyka, liba májból készült termék.
+
+## Amennyiben a termék májtartalma nem éri el a 25% (m/m)-ot, abban az esetben a termék megnevezésében fel kell tüntetni a máj mennyiségét. A termék előírt neve: „húskészítmény …% májtartalommal”.
+
+## 4. A megnevezésben „májpástétom” szót viselő terméknek sertés, szarvasmarha, pulyka állatfajokból származó máj esetében legalább 35% (m/m); csirke és vízi szárnyas állatfajokból származó máj esetében legalább 50% (m/m) májat kell tartalmaznia.
+
+## A „májpástétom” szót viselő termék nevében az adott állatfaj nevét (így különösen sertés, marha, borjú, csirke, pulyka, kacsa, liba) fel kell tüntetni, ha a termék májtartalmának legalább 70% (m/m)-a az adott állatfajból származik.
+
+## Amennyiben a termék májtartalmán belül egyik állatfaj májtartalma sem éri el a 70% (m/m)-ot, a megnevezésben fel kell tüntetni azokat az állatfajokat, melyekből a termék májtartalma származik, mennyiségi csökkenő sorrendben: például sertés, pulyka, liba májból készült termék.
+
+## VI.
+
+## A B és C részben szabályozott húskészítmények, előkészített húsok jelölésénél az ott előírtak, az V. fejezetben foglaltak és a vonatkozó jogszabályok mellett a következőket kell figyelembe venni:
+
+## 1. A termékben a hús összetevő mennyiségét az 1169/2011/EU európai parlamenti és tanácsi rendelet szerint, az összetevők mennyiségi jelölési szabályainak megfelelően, a termék megnevezésében, a megnevezés után vagy az összetevők felsorolásánál meg kell adni.
+
+## 2. Amennyiben a B és C részben meghatározott termékhez ízesítést, jelleget megváltoztató összetevőt (így különösen zöldség, gyümölcs, tejtermék) adnak és az összetevő a megnevezésben kiemelésre kerül (sajt hozzáadása esetén például sajtos párizsi), akkor a B és C részben megadott minőségi jellemzők a termék megnevezésében kiemelésre került összetevő(k) nélküli részre vonatkoznak.
+
+## 3. A B és C részben szabályozott termékek érzékszervi jellemzőinek vizsgálatát a vonatkozó hatályos nemzeti szabványok figyelembevételével kell elvégezni.
+
+## VII.
+
+## Az egyes húskészítmények, előkészített húsok részletes előírásait – a meghatározó összetevőit, technológiát, minőségi jellemzőit és speciális jelölési elemeit – a B és C rész tartalmazza.
+
+## B RÉSZ
+
+## TERMÉKCSOPORTOK
+
+## 1. FELVÁGOTTAK
+
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.2
+
+## 1.1. Különböző, de legalább 40 mm átmérőjű, természetes vagy mesterséges bélbe töltött homogén húspépbe (prádba) ágyazott friss hús kategóriába tartozó hús, illetve szalonna mozaikokat tartalmazó, jelleg- és ízkialakító anyagok felhasználásával készült, főzéssel, esetleg füstöléssel tartósított, esetlegesen szárítással utóérlelt, jól szeletelhető húskészítmények.
+
+## 1.2. A jelölés szempontjából a hústartalom a késztermékre vonatkoztatva legalább 50%. A csontokról mechanikusan lefejtett hús mennyisége ezen felül a késztermékre vonatkoztatva legfeljebb 10%.
+
+## 1.3. Füst ízesítést kizárólag vízgőzzáró műbélbe töltött termék esetén szabad alkalmazni.
+
+## 1.4. Minőségi jellemzők
+
+## Utóérlelés nélkül Utóérlelt
+
+## 1.4.1. Kémiai jellemzők
+
+## Összes fehérjetartalom legalább 12,0% (m/m) 16,0% (m/m)
+
+## Víztartalom legfeljebb 70,0% (m/m) 45,0% (m/m)
+
+## Zsírtartalom legfeljebb 35,0% (m/m) 45,0% (m/m)
+
+## Nátrium-klorid-tartalom legfeljebb 2,2% (m/m) 3,0% (m/m)
+
+## 1.4.2. Érzékszervi jellemzők
+
+## 1.4.2.1. Alak, méret: Egyenletes hengeres alakú, két végén elkeskenyedő.
+
+## 1.4.2.2. Burkolat: A burkolat ép, sima, tiszta, a végeknél 5 mm-nél nagyobb folyadék-, lég- és zsírzsák nincs, a csomagolt termék nem lehet zsírkiválásos. A szárítással történt utóérlelés esetében a burkolat enyhén ráncos.
+
+## 1.4.2.3. Állomány, szerkezet, metszéslap: A rúd állománya tömötten rugalmas, jól szeletelhető, a metszéslap mozaikos, a húspép homogén állományú, 2 mm-nél nagyobb légüreg nem, vagy legfeljebb csak néhány kisebb látható. Nem tartalmaz 2 mm-nél nagyobb ín- és kötőszöveti hártyadarabot. 1-2 mm-es méretű ín- és kötőszöveti hártyadarabból legfeljebb néhány darabot tartalmazhat. A szelet első harapás után se nem puha, se nem kemény, jól összeáll, rágási maradék nincs.
+
+## 1.4.2.4. Szín, íz, illat: A vágásfelületen húspépbe (prádba) ágyazott különböző szemcseméretű azonos vagy különböző, húsból, illetve szalonna alapanyagból és jellegkialakító anyagokból álló mozaikos szerkezet látható. A metszéslap egyenletes színű. A fűszereloszlás egyenletes. A főtt húspép (prád) íze mellett az ízkialakító anyagok íze érezhető, de idegen és mellékízektől mentes. A főtt húspép (prád) és a fűszerek illata érezhető, idegen szagoktól mentes. Füstölt termékek esetében füstíz és -illat is érezhető.
+
+## 1.5. Az élelmiszer előírt neve: felvágott.
+
+## 2. SONKÁK
 
 ## A termékcsoport az alkalmazott eljárások szerint három alcsoportra osztható.
 
-## 1.1. Nyers sonkák
+## 2.1. Nyers sonkák
 
-## A termékfajtára jellemző módon darabolt vagy darabolatlan, bőrős vagy bőr nélküli, csontos vagy csont és porc nélküli sertés comb vagy lapocka vagy bőr nélküli marhacomb vagy lapocka vagy vad hasonló testtájaiból pácolással előállított termékek. Tartósításukat füstöléssel és/vagy szárítással végzik.
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.1 vagy 08.3.4
 
-## 1.1.1. Minőségi jellemzők
+## 2.1.1. A termékfajtára jellemző módon darabolt vagy darabolatlan, bőrős vagy bőr nélküli, csontos vagy csont és porc nélküli sertés comb vagy lapocka; marhacomb vagy lapocka; vagy nagyvad hasonló testtájaiból pácolással vagy sózással, vagy pácolással és sózással előállított termékek. Tartósításukat füstöléssel, illetve szárítással végzik.
 
-## a) Kémiai jellemzők
+## 2.1.2. Szárított nyers sonka: pácolt vagy sózott, vagy pácolt és sózott, szárítással, illetve füstöléssel és szárítással előállított nyers sonka.
 
-## Nátrium-klorid-tartalom legfeljebb 7,0% (m/m)
+## 2.1.3. Minőségi jellemzők
 
-## b) Érzékszervi jellemzők
+## 2.1.3.1. Kémiai jellemzők
 
-## Alak: A termék fajtájára jellemző, tetszetős külső megjelenésű. Megfelelően formázott, bőr nélküli vagy bőrrel és szalonnaréteggel fedett. Bőrös készítmény esetén a szalonnaréteg 2 cm-nél vékonyabb. Ne legyen véraláfutásos, a bőrös részen rosszul szőrtelenített.
+|  |  | 2017. január 1-jétől alkalmazandó | 2017. július 1-jétől alkalmazandó |
 
-## Állomány: Ne legyen beszáradt, túl kemény. A termék ne legyen nyomás nélkül levet engedő.
+| Nátrium-klorid-tartalom | legfeljebb | 6,0% (m/m) | 5,0% (m/m) |
 
-## Szín, íz, illat: A termékfajtára jellemző szín, a szalonnás rész a felületén világos sárgásbarna színű. Ízében, illatában a só és füstölt terméknél a füst érződik.
+|  |  | (58%-os víztartalomra vonatkoztatva) |
 
-## 1.1.2. Jelölés
+| A vízaktivitás értéke (aw) | legfeljebb | 0,91 |  |
 
-## Megnevezés
+## 2.1.3.2. Érzékszervi jellemzők
 
-## Nyers sonka
+## 2.1.3.2.1. Alak, méret: A termék fajtájára jellemző, tetszetős külső megjelenésű. Megfelelően formázott, bőr nélküli vagy bőrrel és szalonnaréteggel fedett. Bőrös termék esetén a szalonnaréteg 2 cm-nél vékonyabb. Nem lehet véraláfutásos, a bőrös részen rosszul szőrtelenített.
 
-## A testtájra utalni lehet.
+## 2.1.3.2.2. Állomány: Nem lehet beszáradt, kemény. A termék nem engedhet nyomás nélkül levet.
 
-## Az előkészítés módjára a darabolt vagy kötözött szavak használatával utalni kell.
+## 2.1.3.2.3. Szín, íz, illat: A termékfajtára jellemző szín, a szalonnás rész a felületén világos sárgásbarna színű. ĺzében, illatában a hús, a só és füstölt terméknél a füst érződik.
 
-## A csak szárítással készült termékeknél a füstölés hiányára utalni kell pl. nyers szárított, sonka
+## 2.1.4. Az élelmiszer előírt neve: nyers sonka.
 
-## A vágóállat fajtáját a sertés kivételével jelölni kell.
+## 2.1.5. A termék megnevezésére vonatkozó egyéb előírások:
 
-## Egyéb jelölés
+## 2.1.5.1. A vágóállat faját az A rész V. fejezetében foglaltakkal ellentétben kizárólag (100%-ban) sertésből készült termék esetében nem kell jelölni.
 
-## Fel kell tüntetni, hogy a termék nyersen és/vagy hőkezelve (főzve, sütve) fogyasztandó.
+## 2.1.5.2. A testtájra utalni kell.
 
-## 1.2. Hőkezelt sonkák
+## 2.1.5.3. Az előkészítés módjára a „darabolt” vagy „kötözött” szavak használatával utalni kell.
 
-## A termékfajtára jellemző módon darabolt, bőrős vagy bőr nélküli, csont és porc nélküli sertés comb vagy lapocka; vagy bőr nélküli marhacomb vagy lapocka; vagy vad hasonló testtájaiból; vagy baromfi mellből vagy combból előállított sült vagy főtt vagy füstölt, főtt húskészítmények.
+## 2.1.5.4. Pácolás esetén a pácolás módjára utalni kell.
 
-## 1.2.1. Minőségi jellemzők
+## 2.2. Hőkezelt sonkák
 
-## a) Kémiai jellemzők
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.2 vagy 08.3.4
 
-## Nátrium-klorid tartalom legfeljebb 4,5% (m/m)
+## 2.2.1. A termékfajtára jellemző módon darabolt, bőrős vagy bőr nélküli, csont és porc nélküli sertéscomb vagy lapocka; vagy marhacomb vagy lapocka; vagy nagyvad hasonló testtájaiból előállított pácolt és
 
-## b) Érzékszervi jellemzők
+## a) főtt;
 
-## Alak: A termék fajtájára jellemző, tetszetős külső megjelenésű. Megfelelően formázott, bőr nélküli vagy bőrrel és szalonnaréteggel fedett. Bőrös készítmény esetén a szalonnaréteg 2 cm-nél vékonyabb. Ne legyen véraláfutásos, a bőrös részen rosszul szőrtelenített.
+## b) füstölt, főtt;
 
-## Állomány: Ne legyen beszáradt, túl kemény. A termék ne legyen nyomás nélkül levet engedő.
+## c) füstölt, sült;
 
-## Szín, íz, illat: A termékfajtára jellemző szín, sült, főtt vagy főtt-füstölt illat és íz.
+## d) füstölt, főtt, sült
 
-## 1.2.2. Megnevezés
+## húskészítmények.
 
-## Főtt sonka vagy sült sonka.
+## 2.2.2. Minőségi jellemzők
 
-## A testtájra utalni lehet.
+## 2.2.2.1. Kémiai jellemzők
 
-## Az előkészítés módjára a darabolt vagy kötözött szavak használatával utalni kell.
+## Nátrium-klorid tartalom legfeljebb 3,5% (m/m) (58%-os víztartalomra vonatkoztatva)
 
-## A vágóállat fajtáját a sertés kivételével jelölni kell.
+## 2.2.2.2. Érzékszervi jellemzők
 
-## 1.3. Formában vagy bélben hőkezelt sonkák
+## 2.2.2.2.1. Alak: A termék fajtájára jellemző, tetszetős külső megjelenésű. Megfelelően formázott, bőr nélküli vagy bőrrel és szalonnaréteggel fedett. Bőrös termék esetén a szalonnaréteg 2 cm-nél vékonyabb. Nem lehet véraláfutásos, a bőrös részen rosszul szőrtelenített. A csomagolt termék nem lehet zsírkiválásos.
 
-## Különböző átmérőjű bélbe vagy formába töltött készítmények. Húspépbe ágyazott, legalább 15 mm-es-egybefüggő pácolt húsmozaikokat tartalmazó, főzéssel vagy füstölés utáni főzéssel vagy sütéssel készült termékek. A húsmozaik pácolt ín nélküli marhahús, és/vagy íntalanított és zsírtalanított baromfihús és/vagy ín és kötőszöveti hártya nélküli sertéshús lehet. A hústartalom a késztermékre vonatkoztatva legalább 55%.
+## 2.2.2.2.2. Állomány: jól átfőtt vagy átsült, nem rágós, jól szeletelhető. A termék nem engedhet nyomás nélkül levet.
 
-## 1.3.1. Minőségi jellemzők
+## 2.2.2.2.3. Szín, íz, illat: A termékfajtára jellemző szín, sült, főtt vagy főtt-füstölt illat és íz.
 
-## a) Kémiai jellemzők
+## 2.2.3. Az élelmiszer előírt neve:
 
-| Fehérjetartalom | legalább | 15,0% (m/m) |
+## 2.2.3.1. főtt sonka,
 
-| Víztartalom | legfeljebb | 77,0% (m/m) |
+## 2.2.3.2. füstölt, főtt sonka,
 
-| Zsírtartalom | legfeljebb | 9,0% (m/m) |
+## 2.2.3.3. füstölt, sült sonka,
 
-| a szalonnával fedett és csülöksonka terméknél | legfeljebb | 15,0% (m/m) |
+## 2.2.3.4. füstölt, főtt, sült sonka.
 
-| Nátrium-klorid-tartalom | legfeljebb | 3,5% (m/m) |
+## 2.2.4. A termék megnevezésére vonatkozó egyéb előírások:
 
-## b) Érzékszervi jellemzők
+## 2.2.4.1. A vágóállat faját az A rész V. fejezetében foglaltakkal ellentétben kizárólag (100%-ban) sertésből készült termék esetében nem kell jelölni.
 
-## A termék tetszetős külső megjelenésű, jellegének megfelelő színű, illatú, állományú.
+## 2.2.4.2. A testtájra utalni kell.
 
-## Állománya ne legyen túl puha, túl kemény, gyengén főtt vagy rágós.
+## 2.2.4.3. Az előkészítés módjára a „darabolt” vagy „kötözött” szavak használatával utalni kell.
 
-## A csomagolt termék ne legyen sérült, szennyezett vagy zsírkiválásos.
+## 2.2.4.4. A pácolás módjára utalni kell.
 
-## 1.3.2. Megnevezés
+## 2.3. Formában vagy bélben hőkezelt sonkák
 
-## Sonka
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.2 vagy 08.3.4
 
-## A vágóállat fajtáját a sertés kivételével jelölni kell.
+## 2.3.1. Különböző átmérőjű bélbe vagy formába töltött húskészítmények. Sertéscombból vagy lapockából, marhacombból vagy lapockából, vad hasonló testtájaiból vagy baromfi combból vagy baromfimellből készült; jellemzően legalább 20 mm-es, egybefüggő pácolt húsmozaikokat tartalmazó, főzéssel vagy főzés utáni füstöléssel vagy sütéssel készült termékek.
 
-## A megnevezésben a sonka szó használható csülökhús felhasználása esetén is.
+## 2.3.2. A jelölés szempontjából a hústartalom a késztermékre vonatkoztatva legalább 68%.
 
-## 2. Szalámik
+## 2.3.3. Minőségi jellemzők
 
-## Különböző (legalább 40 mm) átmérőjű, természetes vagy mesterséges burkolatba töltött készítmények, amelyek nemespenésszel vagy egyéb anyaggal bevontak (pl. mártómasszába mártottak, porozottak) vagy bevonat nélküliek, szárításos érleléssel vagy gyorsított szárításos érleléssel, sertés és/vagy baromfi, és/vagy marha és/vagy egyéb vágóállatok húsából és gyártási szalonna alapanyagból és/vagy marhafaggyúból készülnek, jelleg- és ízkialakító anyagok felhasználásával.
+## 2.3.3.1. Kémiai jellemzők
 
-## Metszéslapjuk különböző aprítottságú, egyenletesen elkevert legalább 2 mm-es hús- és szalonna/vagy faggyú mozaikokból, esetenként durván őrölt fűszerszemcsékből áll. Tartósításukat füstöléssel és/ szárításos érleléssel végzik, hőkezelést nem kapnak.
+## Összes fehérjetartalom legalább 15,0% (m/m)
 
-## A termékcsoport az alkalmazott érlelési eljárás szerint két alcsoportra osztható
+## Víztartalom legfeljebb 74,0% (m/m)
 
-## 2.1. szárításos érleléssel készült penészes vagy penészmentes szalámik
+## Víztartalom baromfi esetében legfeljebb 77,0% (m/m)
 
-## 2.1.1. Minőségi jellemzők
+## Zsírtartalom legfeljebb 9,0% (m/m)
 
-## a) Kémiai jellemzők
+## Zsírtartalom baromfi esetében legfeljebb 6,0% (m/m)
 
-| Víz–fehérje hányados | legfeljebb | 1,5 |
+## Zsírtartalom a szalonnával fedett és csülöksonka terméknél
 
-| Húsfehérje-tartalom | legalább | 18,0% (m/m) |
+## legfeljebb 15,0% (m/m)
 
-| Nátrium-klorid-tartalom | legfeljebb | 5,0% (m/m) |
+## Nátrium-klorid-tartalom legfeljebb 2,7% (m/m)
 
-| Vízaktivitás (aw) | legfeljebb | 0,91 |
+## 2.3.3.2. Érzékszervi jellemzők
 
-## b) Érzékszervi jellemzők
+## 2.3.3.2.1. Alak: A termék fajtájára jellemző, tetszetős külső megjelenésű.
 
-## A termék legyen tetszetős megjelenésű, vágásérett. Penészes vagy bevont termék esetén egyenletesen borított. Egyenletesen, de termékfajtánként változó méretben aprított és kevert hús- és szalonnaszemcsékből (faggyú) álló, jól szeletelhető, tömör állományú termék.
+## 2.3.3.2.2. Állomány: jól átfőtt, tömötten rugalmas, nem rágós, jól szeletelhető.
 
-## 2.1.2. Megnevezés
+## 2.3.3.2.3. Szín, íz, illat: A termékfajtára jellemző szín, sült, főtt vagy főtt-füstölt illat és íz.
 
-## Szalámi, kiegészítve az érlelésre történő utalással
+## 2.3.3.2.4. A csomagolt termék nem lehet zsírkiválásos.
 
-## 2.2. Érlelés-szabályozóval készült penészes vagy penészmentes szárított szalámik
+## 2.3.4. Az élelmiszer előírt neve: formázott, hőkezelt [felhasznált állatfaj(ok) neve] sonka.
 
-## 2.2.1. Minőségi jellemzők
+## 2.3.5. A termék megnevezésére vonatkozó egyéb előírások:
 
-## a) Kémiai jellemzők
+## 2.3.5.1. A vágóállat faját az A rész V. fejezetében foglaltakkal ellentétben kizárólag (100%-ban) sertésből készült termék esetében nem kell jelölni.
 
-| Víz–fehérje hányados | legfeljebb | 1,9 |
+## 2.3.5.2. A testtájra utalni kell.
 
-| Húsfehérje-tartalom | legalább | 16,0% (m/m) |
+## 2.3.5.3. A megnevezésben a sonka szó használható csülökhús felhasználása esetén is.
 
-| Nátrium-klorid-tartalom | legfeljebb | 5,0% (m/m) |
+## 3. ÉRLELT KOLBÁSZOK
 
-| Vízaktivitás (aw) | legfeljebb | 0,95 |
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.1
 
-| pH (vágásérettségkor) | 4,8 és 5,3 között |  |
-
-## b) Érzékszervi jellemzők
-
-## A termék legyen tetszetős megjelenésű, vágásérett. Penészes vagy bevont termék esetén egyenletesen borított. Egyenletesen, de termékfajtánként változó méretben aprított és kevert hús- és szalonnaszemcsékből (faggyú) álló, jól szeletelhető, tömör állományú termék. A termék íze jellegének megfelelően enyhén savanykás lehet.
-
-## 2.2.2. Megnevezés
-
-## Szalámi, kiegészítve az érlelésre történő utalással
-
-## 3. Érlelt kolbászok
-
-## Különböző (legalább 24 mm) átmérőjű, természetes vagy mesterséges burkolatba töltött, különböző szemcseméretűre aprított marha és/vagy sertés és/vagy baromfi és/vagy más vágóállat és/vagy gépi csontozású hús, továbbá szalonna alapanyag vagy baromfizsiradék vagy marhafaggyú továbbá jelleg- és ízkialakító anyagok felhasználásával készült termékek. Metszéslapjuk különböző aprítottságú, egyenletesen elkevert (minimum 2 mm) hús- és szalonna/vagy faggyú mozaikból áll. Tartósításukat füstöléssel, majd azt követő szárításos érleléssel végzik. A szárítás idejétől függően félszáraz vagy száraz kolbászról beszélünk.
+## Különböző (legfeljebb 38 mm, vastagkolbász esetén 38–55 mm közötti) átmérőjű, természetes vagy mesterséges burkolatba töltött, különböző szemcseméretűre aprított friss hús kategóriába tartozó sertés, marha, baromfi, illetve más vágóállat, illetve vad húsa, továbbá szalonna alapanyag vagy baromfizsiradék, vagy marhafaggyú, valamint jelleg- és ízkialakító anyagok felhasználásával készült termékek. Rekeszizmot és rágóizmot nem tartalmazhatnak. Metszéslapjuk különböző aprítottságú, egyenletesen elkevert (minimum 4 mm) hús- és szalonna vagy faggyú mozaikból áll. Tartósításukat füstöléssel, majd azt követő szárításos érleléssel vagy gyorsított szárításos érleléssel (érlelésszabályozóval) végzik. A szárításos érlelés esetén az érlelés idejétől függően a termék félszáraz vagy száraz kolbász.
 
 ## A termékcsoport az alkalmazott eljárások szerint két alcsoportra osztható.
 
-## 3.1. szárításos érleléssel készült kolbászok
+## 3.1. Szárításos érleléssel készült kolbászok
 
 ## 3.1.1. Minőségi jellemzők
 
-## a) Kémiai jellemzők
+## 3.1.1.1. Kémiai jellemzők
 
-| Víz–fehérje hányados | legfeljebb | 1,9 |
+## 3.1.1.1.1. Félszáraz kolbász esetén
 
-| Zsír-fehérje hányados | legfeljebb | 3,0 |
+## Víztartalom legfeljebb 34,0%(m/m)
 
-| Húsfehérje-tartalom | legalább | 16,0% (m/m) |
+## Összes fehérjetartalom legalább 18,0% (m/m)
 
-| Nátrium-klorid-tartalom | legfeljebb | 5,0% (m/m) |
+## Zsírtartalom legfeljebb 45,0% (m/m)
 
-| Vízaktivitás (aw) | legfeljebb | 0,91 |
+## Nátrium-klorid tartalom legfeljebb 4,0% (m/m)
 
-## b) Érzékszervi jellemzők
+## A vízaktivitás értéke (aw) legfeljebb 0,95
 
-## A termék tetszetős megjelenésű, penészes vagy bevont termék esetén egyenletesen borított. Egyenletesen, de termékfajtánként változó méretben aprított és kevert hús- és szalonnaszemcsékből (faggyú) álló, jól szeletelhető, tömör állományú húskészítmény.
+## 3.1.1.1.2. Száraz kolbász esetén
 
-## 3.1.2. Megnevezés
+## Víztartalom legfeljebb 28,0% (m/m)
 
-## Kolbász, kiegészítve az érlelésre történő utalással
+## Összes fehérjetartalom legalább 20,0% (m/m)
+
+## Zsírtartalom legfeljebb 47,0% (m/m)
+
+## Nátrium-klorid tartalom legfeljebb 4,5% (m/m)
+
+## A vízaktivitás értéke (aw) legfeljebb 0,91
+
+## 3.1.1.2. Érzékszervi jellemzők
+
+## 3.1.1.2.1. Félszáraz kolbász esetén
+
+## 3.1.1.2.1.1. Alak, méret: Bélbe töltött termék.
+
+## 3.1.1.2.1.2. Burkolat: Tiszta, folytonossági hiányoktól mentes, nem penészes, kissé göbös felületű.
+
+## 3.1.1.2.1.3. Állomány, metszéslap: A termék tetszetős megjelenésű, egyenletesen, de termékfajtánként változó méretben aprított és kevert hús- és szalonnaszemcsékből (faggyúból) álló, kellően tömör, jól összeálló, nem kenődő állományú húskészítmény. A metszéslapon aprított hús- és szalonnaszemcsék láthatók egyenletes eloszlásban.
+
+## 3.1.1.2.1.4. Szín, illat, íz: A burkolat barnásvörös színű, a metszéslap színét a hús, illetve a fűszerek határozzák meg. Füstölt, kellemesen fűszeres illatú, harmonikus ízhatását a fűszerek adják.
+
+## 3.1.1.2.2. Száraz kolbász esetén
+
+## 3.1.1.2.2.1. Alak, méret: Bélbe töltött termék.
+
+## 3.1.1.2.2.2. Burkolat: Tiszta, folytonossági hiányoktól mentes, nem penészes, kissé göbös felületű.
+
+## 3.1.1.2.2.3. Állomány, metszéslap: A termék tetszetős megjelenésű, egyenletesen, de termékfajtánként változó méretben aprított és kevert hús- és szalonnaszemcsékből (faggyúból) álló, jól szeletelhető, tömör állományú húskészítmény. Tömör, rugalmas, jól összeálló, jól szeletelhető, nem rágós. A metszéslapon aprított hús- és szalonnaszemcsék láthatók egyenletes eloszlásban.
+
+## 3.1.1.2.2.4. Szín, illat, íz: A burkolat barnásvörös színű, a metszéslap színét a hús, illetve a fűszerek határozzák meg. Füstölt, kellemesen fűszeres illatú, harmonikus ízhatását a fűszerek adják.
+
+## 3.1.2. Az élelmiszer leíró neve: szárításos érleléssel készült szárazkolbász, illetve félszáraz kolbász.
+
+## 3.1.3. A vágóállat faját az A rész V. fejezetében foglaltakkal ellentétben, kizárólag (100%-ban) sertésből készült termék esetében nem kell jelölni.
 
 ## 3.2. Érlelés-szabályozóval készült kolbászok
 
 ## 3.2.1. Minőségi jellemzők
 
-## a) Kémiai jellemzők
+## 3.2.1.1. Kémiai jellemzők
 
-| Víz-fehérje hányados félszáraz kolbász | legfeljebb | 2,1 |
+## Víztartalom legfeljebb 38,0%(m/m)
 
-| Víz-fehérje hányados száraz kolbász | legfeljebb | 1,9 |
+## Összes fehérjetartalom legalább 18,0% (m/m)
 
-| Zsír-fehérje hányados félszáraz kolbász | legfeljebb | 2,5 |
+## Zsírtartalom legfeljebb 45,0% (m/m)
 
-| Zsír-fehérje hányados száraz kolbász | legfeljebb | 2,7 |
+## Nátrium-klorid-tartalom legfeljebb 4,5% (m/m)
 
-| Húsfehérje-tartalom | legalább | 15,0% (m/m) |
+## A vízaktivitás értéke (aw) legfeljebb 0,95
 
-| Nátrium-klorid-tartalom | legfeljebb | 5,0% (m/m) |
+## pH 4,8 és 5,3 között
 
-| Vízaktivitás (aw) | legfeljebb | 0,95 |
+## 3.2.1.2. Érzékszervi jellemzők
 
-| pH | 4,8 és 5,3 között |  |
+## 3.2.1.2.1. Alak, méret: Bélbe töltött termék.
 
-## b) Érzékszervi jellemzők
+## 3.2.1.2.2. Burkolat: Tiszta, folytonossági hiányoktól mentes, nem penészes, kissé göbös felületű.
 
-## A termék tetszetős megjelenésű, egyenletesen, de termékfajtánként változó méretben aprított és kevert hús- és szalonnaszemcsékből (faggyú) álló, jól szeletelhető, kissé puha állományú termék. A termék íze jellegének megfelelően enyhén savanykás lehet.
+## 3.2.1.2.3. Állomány, metszéslap: A termék tetszetős megjelenésű, egyenletesen, de termékfajtánként változó méretben aprított és kevert hús- és szalonnaszemcsékből (faggyúból) álló, jól szeletelhető, kissé puha állományú húskészítmény. A termék íze jellegének megfelelően enyhén savanykás lehet. A metszéslapon aprított hús- és szalonnaszemcsék láthatók egyenletes eloszlásban.
 
-## 3.2.2. Megnevezés
+## 3.2.1.2.4. Szín, illat, íz: A burkolat barnásvörös színű, a metszéslap színét a hús, illetve a fűszerek határozzák meg. Füstölt, kellemesen fűszeres illatú, harmonikus ízhatását a fűszerek adják.
 
-## Kolbász, kiegészítve az érlelésre történő utalással
+## 3.2.2. Az élelmiszer leíró neve: érlelés-szabályozóval készült kolbász.
 
-## 4. Felvágottak
+## 3.2.3. A vágóállat faját az A rész V. fejezetében foglaltakkal ellentétben kizárólag (100%-ban) sertésből készült termék esetében nem kell jelölni.
 
-## Különböző, de legalább 40 mm átmérőjű, természetes vagy mesterséges bélbe töltött homogén húspépbe ágyazott hús és/vagy szalonna mozaikokat tartalmazó, jelleg- és ízkialakító anyagok felhasználásával készült, főzéssel, füstöléssel tartósított, esetlegesen szárítással utóérlelt, jól szeletelhető húskészítmények.
+## 4. SZALÁMIK
+
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.1
+
+## Különböző (legalább 40 mm) átmérőjű, természetes vagy mesterséges burkolatba töltött rúd alakú termékek, amelyek nemespenésszel vagy egyéb anyaggal bevontak (így különösen mártómasszába mártottak, porozottak) vagy bevonat nélküliek, szárításos érleléssel vagy gyorsított szárításos érleléssel, friss hús kategóriába tartozó sertés, marha, vad, baromfi, illetve egyéb vágóállatok húsából és gyártási szalonna alapanyagból, illetve marhafaggyúból készülnek, jelleg- és ízkialakító anyagok felhasználásával. Rekeszizmot és rágóizmot nem tartalmazhatnak. Metszéslapjuk különböző aprítottságú, egyenletesen elkevert legalább 3 mm-es hús- és szalonna vagy faggyú mozaikokból, esetenként durván őrölt fűszerszemcsékből áll. Tartósításukat füstöléssel és szárításos érleléssel vagy gyorsított szárításos érleléssel (érlelés-szabályozóval) végzik, hőkezelés nélkül.
+
+## A termékcsoport az alkalmazott érlelési eljárás szerint két alcsoportra osztható:
+
+## 4.1. Szárításos érleléssel készült penészes vagy penészmentes szalámik
 
 ## 4.1.1. Minőségi jellemzők
 
-## a) Kémiai jellemzők
+## 4.1.1.1. Kémiai jellemzők
 
-|  |  | Utóérlelés nélkül | Utóérlelt |
+## Víztartalom legfeljebb 29,0% (m/m)
 
-|  | Fehérjetartalom | legalább | 12,0% | 16,0% (m/m) |
+## Összes fehérjetartalom legalább 20,0% (m/m)
 
-|  | Víztartalom | legfeljebb | 75,0% | 49,0% (m/m) |
+## Zsírtartalom legfeljebb 47,0% (m/m)
 
-|  | Zsírtartalom | legfeljebb | 35,0% | 45,0% (m/m) |
+## Nátrium-klorid tartalom legfeljebb 4,5% (m/m)
 
-|  | Nátrium-klorid-tartalom | legfeljebb | 2,5% | 3,5% (m/m) |
+## A vízaktivitás értéke (aw) legfeljebb 0,91
 
-## b) Érzékszervi jellemzők
+## 4.1.1.2. Érzékszervi jellemzők
 
-## Tömör, rugalmas állomány. Egyenletes, világos rózsaszín szín.
+## 4.1.1.2.1. Alak, méret: Egyenletes vastagságú, hengeres formájú termék, amely a felfüggesztésnek megfelelő végen elkeskenyedhet, az ellenkező végen pedig legömbölyödhet.
 
-## A vágásfelületen húspépbe ágyazott különböző szemcseméretű azonos vagy különböző húsból és/vagy szalonna alapanyagból álló mozaikos szerkezet látható.
+## 4.1.1.2.2. Burkolat: Penészes vagy bevont termék esetén egyenletesen borított. A burkolat a töltelékhez jól tapad.
 
-## A burkolat sima.
+## 4.1.1.2.3. Állomány, metszéslap: Tömör, rugalmas, jól összeálló, jól szeletelhető, vágásérett. Egyenletesen, de termékfajtánként változó méretben aprított és kevert hús- és szalonnaszemcsékből (faggyúból) álló termék. A metszéslapon barnásvörös hússzemcsék és szalonnaszemcsék láthatók egyenletes eloszlásban.
 
-## A szárítással történt utóérlelés esetében a burkolat enyhén ráncos.
+## 4.1.1.2.4. Szín, illat, íz: Nemespenészes termék esetében a burkolatot jellegzetes illatú, fehér, szürkésfehér nemespenész bevonat borítja. A metszéslap kellemesen füstölt, fűszeres illatú. Ízét a felhasznált fűszerek, a füst és nemespenészes termék esetében az érlelés során képződött nemespenész harmóniája adja.
 
-## 4.1.2. Megnevezés
+## 4.1.2. Az élelmiszer leíró neve:
 
-## Felvágott
+## 4.1.2.1. szárításos érleléssel készült penészes szalámi, illetve penészmentes szalámi, vagy
 
-## C rész
+## 4.1.2.2. szárításos érleléssel készült nemespenészes szalámi, illetve nemespenész-mentes szalámi.
 
-## Termékek
+## 4.1.3. A vágóállat faját az A rész V. fejezetében foglaltakkal ellentétben kizárólag (100%-ban) sertésből készült termék esetében nem kell jelölni.
 
-## 1. Párizsi
+## 4.2. Érlelés-szabályozóval készült penészes vagy penészmentes szárított szalámik
 
-## Legalább 55 mm átmérőjű, természetes vagy műbélbe töltött húspépet tartalmazó, főzéssel hőkezelt, füstölt, (vízgőzzáró műbélbe töltött termék esetén) füstöletlen vagy füst ízesítésű homogén metszéslapú, jól szeletelhető készítmény. A hústartalom a késztermékre vonatkoztatva legalább 40%.
+## 4.2.1. Minőségi jellemzők
 
-## 1.1. Minőségi jellemzők
+## 4.2.1.1. Kémiai jellemzők
 
-## a) Kémiai jellemzők
+## Víztartalom legfeljebb 34,0% (m/m)
 
-| Fehérjetartalom | legalább | 10,0% (m/m) |
+## Összes fehérjetartalom legalább 18,0% (m/m)
 
-| Víztartalom | legfeljebb | 71,0% (m/m) |
+## Zsírtartalom legfeljebb 45,0% (m/m)
 
-| Zsírtartalom | legfeljebb | 23,0% (m/m) |
+## Nátrium-klorid-tartalom legfeljebb 4,5% (m/m)
 
-| Nátrium-klorid-tartalom | legfeljebb | 2,5% (m/m) |
+## A vízaktivitás értéke (aw) legfeljebb 0,95
 
-## b) Érzékszervi jellemzők
+## pH 4,8 és 5,3 között
 
-## Alak, méret: Egyenletes hengeres alakú, két végén elkeskenyedő. Átmérője legalább 55 mm.
+## 4.2.1.2. Érzékszervi jellemzők
 
-## Burkolat: A burkolat ép, sima, tiszta, a végeknél 10 mm-nél nagyobb folyadék-, lég- és zsírzsák nincs.
+## 4.2.1.2.1. Alak, méret: Egyenletes vastagságú, hengeres formájú termék, amely a felfüggesztésnek megfelelő végen elkeskenyedhet, az ellenkező végen pedig legömbölyödhet.
 
-## Állomány, szerkezet, metszéslap: A rúd állománya rugalmas, jól szeletelhető, a metszéslap homogén állományú, 10 mm-nél nagyobb légüreg nem, legfeljebb csak néhány kisebb látható. Nem tartalmaz 3 mm-nél nagyobb ín- és kötőszöveti hártyadarabot, legfeljebb néhány 1-2 mm-es méretűt tartalmazhat. A szelet első harapás után se nem puha, se nem kemény, jól összeáll, rágási maradék nincs.
+## 4.2.1.2.2. Burkolat: Penészes vagy bevont termék esetén egyenletesen borított. A burkolat a töltelékhez jól tapad.
 
-## Szín, íz, illat: A metszéslap egyenletes világos rózsaszínű. A fűszereloszlás egyenletes. A főtt húspép íze mellett borsíz érezhető, de idegen és mellékízek nem érezhetők. Kellemesen sós ízű. A főtt húspép és a bors illata érezhető, idegen szagok nem érezhetők. Füstölt termékek esetében füstíz és -illat is érezhető.
+## 4.2.1.2.3. Állomány, metszéslap: Tömör, rugalmas, jól összeálló, jól szeletelhető, vágásérett. Egyenletesen, de termék fajtánként változó méretben aprított és kevert hús- és szalonnaszemcsékből (faggyúból) álló termék. A metszéslapon barnásvörös hússzemcsék és szalonnaszemcsék láthatók egyenletes eloszlásban.
 
-## 1.2. Megnevezés
+## 4.2.1.2.4. Szín, illat, íz: Nemespenészes termék esetében a burkolatot jellegzetes illatú, fehér, szürkésfehér nemespenész bevonat borítja. A metszéslap kellemesen füstölt, fűszeres illatú. Ízét a felhasznált fűszerek, a füst és nemespenészes termék esetében az érlelés során képződött nemespenész harmóniája adja. A termék íze jellegének megfelelően enyhén savanykás lehet.
 
-## Párizsi
+## 4.2.2. Az élelmiszer leíró neve:
+
+## 4.2.2.1. érlelés-szabályozóval készült penészes szalámi, illetve penészmentes szalámi, vagy
+
+## 4.2.2.2. érlelés-szabályozóval készült nemespenészes szalámi, illetve nemespenész-mentes szalámi.
+
+## 4.2.3. A vágóállat faját az A rész V. fejezetében foglaltakkal ellentétben kizárólag (100%-ban) sertésből készült termék esetében nem kell jelölni.
+
+## C RÉSZ
+
+## TERMÉKEK
+
+## 1. Párizsi vagy Parizer
+
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.2
+
+## 1.1. Legalább 55 mm átmérőjű, természetes vagy műbélbe töltött húspépet (prádot) tartalmazó, főzéssel hőkezelt, füstöletlen, füstölt vagy füst ízesítésű homogén metszéslapú termék.
+
+## 1.2. A jelölés szempontjából a hústartalom a késztermékre vonatkoztatva legalább 51%. A csontokról mechanikusan lefejtett hús mennyisége ezen felül a késztermékre vonatkoztatva legfeljebb 10%.
+
+## 1.3. Minőségi jellemzők
+
+## 1.3.1. Kémiai jellemzők
+
+## Összes fehérjetartalom legalább 11,0% (m/m)
+
+## Víztartalom legfeljebb 70,0% (m/m)
+
+## Zsírtartalom legfeljebb 23,0% (m/m)
+
+## Nátrium-klorid-tartalom legfeljebb 2,2% (m/m)
+
+## 1.3.2. Érzékszervi jellemzők
+
+## 1.3.2.1. Alak, méret: Egyenletes hengeres alakú, két végén elkeskenyedő.
+
+## 1.3.2.2. Burkolat: A burkolat ép, sima, tiszta, a végeknél 5 mm-nél nagyobb folyadék-, lég- és zsírzsák nincs.
+
+## 1.3.2.3. Állomány, szerkezet, metszéslap: A rúd állománya tömötten rugalmas, jól szeletelhető, a metszéslap homogén állományú, 5 mm-nél nagyobb légüreg nem, vagy legfeljebb csak néhány kisebb látható. Nem tartalmaz 2 mm-nél nagyobb ín- és kötőszöveti hártyadarabot. 1-2 mm-es méretű ín- és kötőszöveti hártyadarabból legfeljebb néhány darabot tartalmazhat. A szelet első harapás után se nem puha, se nem kemény, jól összeáll, rágási maradék nincs.
+
+## 1.3.2.4. Szín, íz, illat: A metszéslap egyenletes, a gyártmánylapban rögzítettnek megfelelő színű. A fűszereloszlás egyenletes. A főtt húspép (prád) íze mellett bors íz, enyhe sós íz érezhető, de idegen és mellékízektől mentes. A főtt húspép (prád) és a bors illata érezhető, idegen szagoktól mentes. Füstölt és füst ízesítésű termékek esetében füstíz és -illat is érezhető.
+
+## 1.4. Az élelmiszer előírt neve: párizsi vagy parizer.
 
 ## 2. Krinolin
 
-## Legalább 32 mm átmérőjű, természetes vagy műbélbe töltött húspépet tartalmazó, főzéssel hőkezelt, füstölt, (vízgőzzáró műbélbe töltött termék esetén) nem füstölt vagy füst ízesítésű készítmény. A hústartalom a késztermékre vonatkoztatva legalább 40%.
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.2
 
-## 2.1. Minőségi jellemzők
+## 2.1. Legalább 38 mm átmérőjű, természetes vagy műbélbe töltött húspépet (prádot) tartalmazó, főzéssel hőkezelt, füstöletlen, füstölt vagy füst ízesítésű termék.
 
-## a) Kémiai jellemzők
+## 2.2. A jelölés szempontjából a hústartalom a késztermékre vonatkoztatva legalább 55%. A csontokról mechanikusan lefejtett hús mennyisége ezen felül a késztermékre vonatkoztatva legfeljebb 10%.
 
-| Fehérjetartalom | legalább | 10,0% (m/m) |
+## 2.3. Minőségi jellemzők
 
-| Víztartalom | legfeljebb | 71,0% (m/m) |
+## 2.3.1. Kémiai jellemzők
 
-| Zsírtartalom | legfeljebb | 23,0% (m/m) |
+## Összes fehérjetartalom legalább 13,0% (m/m)
 
-| Nátrium-klorid-tartalom | legfeljebb | 2,5% (m/m) |
+## Víztartalom legfeljebb 70,0% (m/m)
 
-## b) Érzékszervi jellemzők
+## Zsírtartalom legfeljebb 23,0% (m/m)
 
-## Alak, méret: Egyenletes vastagságú, az átmérő legalább 32 mm.
+## Nátrium-klorid-tartalom legfeljebb 2,2% (m/m)
 
-## Burkolat: A burkolat ép, sima, tiszta, alatta és a végeknél 10 mm-nél nagyobb folyadék-, lég- és zsírzsák nincs. Természetes bél felhasználása esetén a faggyúerezet a felület 15%-ánál nagyobb területen nem látható.
+## 2.3.2. Érzékszervi jellemzők
 
-## Állomány, szerkezet, metszéslap: Állománya rugalmas. A metszéslap homogén állományú, 5 mm-nél nagyobb légüreg nem, legfeljebb csak néhány kisebb látható. Nem tartalmaz 3 mm-nél nagyobb ín- és kötőszöveti hártyadarabot, legfeljebb néhány 1-2 mm-es méretűt tartalmazhat. Első harapás után se nem puha, se nem kemény, jól összeáll, rágási maradék nincs.
+## 2.3.2.1. Alak, méret: Egyenletes vastagságú.
 
-## Szín, íz, illat: A metszéslap egyenletes világos rózsaszínű. A fűszereloszlás egyenletes. A főtt húspép íze mellett bors-, fokhagyma- és fűszerpaprikaíz érezhető, de idegen és mellékízek nem érezhetők. Kellemesen, enyhén sós ízű. Illatában a főtt húspép, a bors, a fokhagyma és a fűszerpaprika illata érezhető, idegen szagok nem érezhetők. Füstölt termékek esetében ízében és illatában a füst érezhető.
+## 2.3.2.2. Burkolat: A burkolat ép, sima, tiszta, alatta és a végeknél 5 mm-nél nagyobb folyadék, lég- és zsírzsák nincs. Természetes bél felhasználása esetén a faggyúerezet a felület 15%-ánál nagyobb területen nem látható.
 
-## 2.2. Megnevezés
+## 2.3.2.3. Állomány, szerkezet, metszéslap: Állománya tömötten rugalmas. A metszéslap homogén állományú,
 
-## Krinolin
+## 5 mm-nél nagyobb légüreg nem, vagy legfeljebb csak néhány kisebb látható. Nem tartalmaz 2 mm-nél nagyobb ín- és kötőszöveti hártyadarabot. 1-2 mm-es méretű ín- és kötőszöveti hártyadarabból legfeljebb néhány darabot tartalmazhat. Első harapás után se nem puha, se nem kemény, jól összeáll, rágási maradék nincs.
 
-## 3. Virsli
+## 2.3.2.4. Szín, íz, illat: A metszéslap egyenletes, a gyártmánylapban rögzítettnek megfelelő színű. A fűszereloszlás egyenletes. A főtt húspép (prád) íze mellett bors-, fokhagyma-, fűszerpaprika és enyhe sós íz érezhető, de idegen és mellékízektől mentes. Illatában a főtt húspép (prád), a bors, a fokhagyma és a fűszerpaprika illata érezhető, idegen szagoktól mentes. Füstölt és füst ízesítésű termékek esetében füstíz és -illat is érezhető.
 
-## Legfeljebb 30 mm átmérőjű, természetes vagy műbélbe töltött húspépet tartalmazó, főzéssel hőkezelt, füstölt, (vízgőzzáró műbélbe töltött termék esetén) füstöletlen vagy füst ízesítésű homogén metszéslapú készítmény. A hústartalom a késztermékre vonatkoztatva legalább 40%.
+## 2.4. Az élelmiszer előírt neve: krinolin.
 
-## 3.1. Minőségi jellemzők
+## 3. Szafaládé
 
-## a) Kémiai jellemzők
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.2
 
-| Fehérjetartalom | legalább | 10,0% (m/m) |
+## 3.1. 28–36 mm átmérőjű, természetes vagy műbélbe töltött húspépet (prádot) tartalmazó, főzéssel hőkezelt, füstöletlen, füstölt vagy füst ízesítésű homogén metszéslapú termék.
 
-| Víztartalom | legfeljebb | 70,0% (m/m) |
+## 3.2. A jelölés szempontjából a hústartalom a késztermékre vonatkoztatva legalább 55%. A csontokról mechanikusan lefejtett hús mennyisége ezen felül a késztermékre vonatkoztatva legfeljebb 10%.
 
-| Zsírtartalom | legfeljebb | 25,0% (m/m) |
+## 3.3. Minőségi jellemzők
 
-| Nátrium-klorid-tartalom | legfeljebb | 2,5% (m/m) |
+## 3.3.1. Kémiai jellemzők
 
-## b) Érzékszervi jellemzők
+## Összes fehérjetartalom legalább 13,0% (m/m)
 
-## Alak, méret: Egyenletes vastagságú, az átmérő legfeljebb 30 mm.
+## Víztartalom legfeljebb 70,0% (m/m)
 
-## Burkolat: A burkolat sima, tiszta, alatta 5 mm-nél nagyobb zsírzsák nem látható.
+## Zsírtartalom legfeljebb 23,0% (m/m)
 
-## Állomány, szerkezet, metszéslap: Tapintásra rugalmas, se nem puha, se nem kemény. Szerkezete homogén, pép jellegű, a fűszereloszlás egyenletes. A metszéslap homogén állományú, 5 mm-nél nagyobb légüreg nem, legfeljebb csak néhány kisebb látható. Nem tartalmaz 3 mm-nél nagyobb ín- és kötőszöveti hártyadarabot, legfeljebb néhány 1-2 mm-es méretűt tartalmazhat. Rágás után jól összeálló, melegen lédús, rágási maradék nincs.
+## Nátrium-klorid-tartalom legfeljebb 2,2% (m/m)
 
-## Szín, íz, illat: A metszéslap egyenletes világos rózsaszínű. A fűszereloszlás egyenletes. A főtt húspép íze mellett bors- és paprikaíz érezhető, de idegen és mellékízek nem érezhetők. Kellemesen, enyhén sós ízű. Illatában a főtt húspép, a bors és a fűszerpaprika illata érezhető, idegen szagok nem érezhetők. Füstölt termékek esetében ízében és illatában a füst érezhető.
+## 3.3.2. Érzékszervi jellemzők
 
-## 3.2. Megnevezés
+## 3.3.2.1. Alak, méret: Egyenletes vastagságú.
 
-## Virsli
+## 3.3.2.2. Burkolat: A burkolat ép, sima, tiszta, alatta folyadék, lég- és zsírzsák nincs.
 
-## 4. Zala felvágott
+## 3.3.2.3. Állomány, szerkezet, metszéslap: Tapintásra rugalmas, se nem puha, se nem kemény. Szerkezete homogén, pép jellegű, a fűszereloszlás egyenletes. A metszéslap homogén állományú, 5 mm-nél nagyobb légüreg nem, vagy legfeljebb csak néhány kisebb látható. Nem tartalmaz 2 mm-nél nagyobb ín- és kötőszöveti hártyadarabot. 1-2 mm-es méretű ín- és kötőszöveti hártyadarabból legfeljebb néhány darabot tartalmazhat. Rágás után jól összeálló, melegen lédús, rágási maradék nincs.
 
-## Legalább 90 mm átmérőjű, természetes vagy műbélbe töltött homogén húspépbe egyenletesen elosztott 12–18 mm szemcseméretűre aprított, pácolt sertéshús mozaikokat tartalmazó, főzéssel hőkezelt, füstölt vagy füstöletlen, jól szeletelhető készítmény. A hústartalom a késztermékre vonatkoztatva legalább 50%.
+## 3.3.2.4. Szín, íz, illat: A metszéslap egyenletes, a gyártmánylapban rögzítettnek megfelelő színű. A fűszereloszlás egyenletes. A főtt húspép (prád) íze mellett bors-, fűszerpaprika és enyhe sós íz érezhető, de idegen és mellékízektől mentes. Illatában a főtt húspép (prád), a bors és a fűszerpaprika illata érezhető, idegen szagoktól mentes. Füstölt és füst ízesítésű termékek esetében füstíz és -illat is érezhető.
 
-## 4.1. Minőségi jellemzők
+## 3.4. Az élelmiszer előírt neve: szafaládé.
 
-## a) Kémiai jellemzők
+## 4. Virsli
 
-| Fehérjetartalom | legalább | 12,0% (m/m) |
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.2
 
-| Víztartalom | legfeljebb | 69,0% (m/m) |
+## 4.1. Legfeljebb 26 mm átmérőjű, természetes vagy műbélbe töltött húspépet (prádot) tartalmazó, főzéssel hőkezelt, füstöletlen, füstölt vagy füst ízesítésű homogén metszéslapú termék.
 
-| Zsírtartalom | legfeljebb | 23,0% (m/m) |
+## 4.2. A jelölés szempontjából a hústartalom a késztermékre vonatkoztatva legalább 51%. A csontokról mechanikusan lefejtett hús mennyisége ezen felül a késztermékre vonatkoztatva legfeljebb 10%.
 
-| Nátrium-klorid-tartalom | legfeljebb | 2,5% (m/m) |
+## 4.3. Minőségi jellemzők
 
-## b) Érzékszervi jellemzők
+## 4.3.1. Kémiai jellemzők
 
-## Alak, méret: Egyenletes hengeres alakú, két végén legömbölyödő.
+## Összes fehérjetartalom legalább 11,0% (m/m)
 
-## Burkolat: Ép, sima, tiszta, a végeknél 10 mm-nél nagyobb folyadék-, lég- és zsírzsák nincs.
+## Víztartalom legfeljebb 70,0% (m/m)
 
-## Állomány, szerkezet, metszéslap: A rúd állománya rugalmas, se nem puha, se nem kemény. A rúd 5 különböző helyéről származó metszéslapokon legalább 4-4 húsmozaik legyen. Metszéslapján látható zsírszöveti rész nincs. A pép homogén, a húsrészek mérete 12–18 mm. 10 mm-nél nagyobb légüreg nem, legfeljebb néhány kisebb látható. Nem tartalmaz 3 mm-nél nagyobb ín- és kötőszöveti hártyadarabot, legfeljebb néhány 1-2 mm-es méretűt tartalmazhat. A szelet első harapás után se nem puha, se nem kemény, nem rágós, jól összeálló.
+## Zsírtartalom legfeljebb 25,0% (m/m)
 
-## Szín, íz, illat: A metszéslap egyenletes világos rózsaszínű. A fűszereloszlás egyenletes. A főtt hús íze mellett bors- és fokhagymaíz érezhető, de idegen és mellékízek nem érezhetők. Kellemesen, enyhén sós ízű. A főtt hús, a bors és a fokhagyma illata érezhető, idegen szagok nem érezhetők.
+## Nátrium-klorid-tartalom legfeljebb 2,2% (m/m)
 
-## 4.2. Megnevezés
+## 4.3.2. Érzékszervi jellemzők
 
-## Zala felvágott
+## 4.3.2.1. Alak, méret: Egyenletes vastagságú.
 
-## 5. Nyári turista felvágott
+## 4.3.2.2. Burkolat: A burkolat ép, sima, tiszta, alatta folyadék, lég- és zsírzsák nincs.
 
-## Legalább 60 mm átmérőjű, természetes bélbe vagy műbélbe töltött húspépbe egyenletesen elosztott 6–8 mm szemcseméretűre aprított marhahúst és/vagy sertéshúst és szalonna alapanyagot tartalmazó, főzéssel hőkezelt, füstölt, utóérlelt, jól szeletelhető készítmény. A hústartalom a késztermékre vonatkoztatva legalább 65%.
+## 4.3.2.3. Állomány, szerkezet, metszéslap: Tapintásra rugalmas, se nem puha, se nem kemény. Szerkezete homogén, pép jellegű, a fűszereloszlás egyenletes. A metszéslap homogén állományú, 2 mm-nél nagyobb légüreg nem, vagy legfeljebb csak néhány kisebb látható. Nem tartalmaz 2 mm-nél nagyobb ín- és kötőszöveti hártyadarabot. 1-2 mm-es méretű ín- és kötőszöveti hártyadarabból legfeljebb néhány darabot tartalmazhat. Rágás után jól összeálló, melegen lédús, rágási maradék nincs.
 
-## 5.1. Minőségi jellemzők
+## 4.3.2.4. Szín, íz, illat: A metszéslap egyenletes, a gyártmánylapban rögzítettnek megfelelő színű. A fűszereloszlás egyenletes. A főtt húspép (prád) íze mellett bors-, fűszerpaprika és enyhe sós íz érezhető, de idegen és mellékízektől mentes. Illatában a főtt húspép (prád), a bors és a fűszerpaprika illata érezhető, idegen szagoktól mentes. Füstölt és füst ízesítésű termékek esetében füstíz és -illat is érezhető.
 
-## a) Kémiai jellemzők
+## 4.4. Az élelmiszer előírt neve: virsli.
 
-| Fehérjetartalom | legalább | 16,0% (m/m) |
+## 5. Zala felvágott
 
-| Víztartalom | legfeljebb | 49,0% (m/m) |
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.2
 
-| Zsírtartalom | legfeljebb | 45,0% (m/m) |
+## 5.1. Legalább 90 mm átmérőjű, természetes vagy műbélbe töltött homogén sertéshús-pépbe (prádba) egyenletesen elosztott, 12–18 mm szemcseméretűre aprított, pácolt sertéshús mozaikokat tartalmazó, főzéssel hőkezelt, füstölt vagy füstöletlen, jól szeletelhető termék.
 
-| Nátrium-klorid-tartalom | legfeljebb | 3,5% (m/m) |
+## 5.2. A jelölés szempontjából a hústartalom a késztermékre vonatkoztatva legalább 60%. A csontokról mechanikusan lefejtett (kizárólag sertés) hús mennyisége ezen felül a késztermékre vonatkoztatva legfeljebb 10%, de a húsmozaik csontokról mechanikusan lefejtett húst nem tartalmazhat.
 
-## b) Érzékszervi jellemzők
+## 5.3. Minőségi jellemzők
 
-## Alak, méret: Egyenletes hengeres alakú, két végén elkeskenyedő.
+## 5.3.1. Kémiai jellemzők
 
-## Burkolat: Kissé ráncos, tiszta, világos vörösesbarna, egyenletes színű, enyhe fényű. A burkolaton áttetszenek a szalonnadarabok. A burkolat alatt lég-, folyadék- és zsírzsák nincs.
+## Összes fehérjetartalom legalább 13,0% (m/m)
 
-## Állomány, szerkezet, metszéslap: A rúd állománya se nem puha, se nem kemény. A mozaikos elemek mérete 6–8 mm, elrendezésük egyenletes. Nem tartalmaz 10 mm-nél nagyobb légüreget és 6 mm-nél nagyobb ín-, kötőszöveti hártyadarabot, legfeljebb néhány kisebbet tartalmazhat. A szelet első harapás után se nem puha, se nem kemény, nem rágós, rágási maradék nincs. Felületi elváltozás nélkül szeletelhető.
+## Víztartalom legfeljebb 69,0% (m/m)
 
-## Szín, íz, illat: A metszéslap összhatásában világosvörös színű. A fűszereloszlás egyenletes. Az érlelt főtt hús íze mellett füst-, bors-, fokhagyma-, paprika- és szegfűborsíz érezhető, de idegen és mellékízek nem érezhetők. Kellemesen, enyhén sós ízű. A főtt hús és a fűszerek illata érezhető, idegen szagok nem érezhetők.
+## Zsírtartalom legfeljebb 22,0% (m/m)
 
-## 5.2. Megnevezés
+## Nátrium-klorid-tartalom legfeljebb 2,2% (m/m)
 
-## Nyári turista felvágott, nyári turista
+## 5.3.2. Érzékszervi jellemzők
 
-## 6. Csemege debreceni
+## 5.3.2.1. Alak, méret: Egyenletes hengeres alakú, két végén legömbölyödő.
 
-## 22–32 mm átmérőjű sertésvékonybélbe vagy emészthető műbélbe töltött húspépet, valamint 6–8 mm szemcseméretűre aprított marha és/vagy sertéshúst és/vagy baromfihúst és szalonna alapanyagot tartalmazó, legfeljebb 15 cm hosszú készítmény. Tartósítását füstöléssel és főzéssel végzik. A hústartalom a késztermékre vonatkoztatva legalább 45%.
+## 5.3.2.2. Burkolat: Ép, sima, tiszta, a végeknél 5 mm-nél nagyobb folyadék-, lég- és zsírzsák nincs.
 
-## 6.1. Minőségi jellemzők
+## 5.3.2.3. Állomány, szerkezet, metszéslap: A rúd állománya rugalmas, se nem puha, se nem kemény. A rúd 5 különböző helyéről származó metszéslapokon legalább 4-4 húsmozaik legyen. Metszéslapján látható zsírszöveti rész nincs. 5 mm-nél nagyobb légüreg nem, vagy legfeljebb néhány kisebb látható. Nem tartalmaz 3 mm-nél nagyobb ín- és kötőszöveti hártyadarabot. 1-2 mm-es méretű ín- és kötőszöveti hártyadarabból legfeljebb néhány darabot tartalmazhat. A szelet első harapás után se nem puha, se nem kemény, nem rágós, jól összeálló.
 
-## a) Kémiai jellemzők
+## 5.3.2.4. Szín, íz, illat: A metszéslap egyenletes világos rózsaszínű. A fűszereloszlás egyenletes. A főtt hús íze mellett bors- és fokhagymaíz érezhető, de idegen és mellékízektől mentes. A főtt hús, a bors és a fokhagyma illata érezhető, idegen szagok nem érezhetők.
 
-| Fehérjetartalom | legalább | 11,0% (m/m) |
+## 5.4. Az élelmiszer előírt neve: Zala felvágott.
 
-| Víztartalom | legfeljebb | 62,0% (m/m) |
+## 5.5. A vágóállat faját az A rész V. fejezetében foglaltakkal ellentétben nem kell jelölni.
 
-| Zsírtartalom | legfeljebb | 35,0% (m/m) |
+## 6. Nyári turista felvágott
 
-| Nátrium-klorid-tartalom | legfeljebb | 2,5% (m/m) |
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.2
 
-## b) Érzékszervi jellemzők
+## 6.1. Legalább 60 mm átmérőjű, természetes bélbe vagy műbélbe töltött sertés-, illetve marhahúshús-pépbe (prádba) egyenletesen elosztott, friss hús kategóriába tartozó, 6–8 mm szemcseméretűre aprított marhahúst, illetve sertéshúst és szalonna alapanyagot tartalmazó, főzéssel hőkezelt, füstölt, legalább 10 napig utóérlelt, jól szeletelhető termék.
 
-## Alak, méret: 22–32 mm átmérőjű termék.
+## 6.2. A jelölés szempontjából a hústartalom a késztermékre vonatkoztatva legalább 65%. A csontokról mechanikusan lefejtett hús (kizárólag sertés) mennyisége ezen felül a késztermékre vonatkoztatva legfeljebb 10%.
 
-## Burkolat: A burkolat sima, sérüléstől, szennyeződéstől mentes.
+## 6.3. Minőségi jellemzők
 
-## Állomány, metszéslap: Tömötten rugalmas, jól összeálló. A metszéslapon 6–8 mm nagyságú hús- és szalonnaszemcsék láthatók húspépbe ágyazva. 3 mm-nél nagyobb ín és kötőszöveti hártya darabokat nem tartalmazhat.
+## 6.3.1. Kémiai jellemzők
 
-## Szín, illat, íz: Barnáspiros színű, kellemesen füstös, fűszeres (kömény) illatú, ízhatása a felhasznált fűszereknek megfelelően harmonikus.
+## Összes fehérjetartalom legalább 16,0% (m/m)
 
-## 6.2. Megnevezés
+## Víztartalom legfeljebb 40,0% (m/m)
 
-## Csemege debreceni
+## Zsírtartalom legfeljebb 45,0% (m/m)
 
-## 7. Parasztkolbász
+## Nátrium-klorid-tartalom legfeljebb 3,0% (m/m)
 
-## 25–38 mm átmérőjű, természetes bélbe vagy emészthető műbélbe töltött, 4–8 mm szemcseméretűre aprított sertés és/vagy marhahúst, szalonna alapanyagot és húspépet tartalmazó, füstölt, szárított készítmény.
+## 6.3.2. Érzékszervi jellemzők
 
-## 7.1. Minőségi jellemzők
+## 6.3.2.1. Alak, méret: Egyenletes hengeres alakú, két végén elkeskenyedő.
 
-## a) Kémiai jellemzők
+## 6.3.2.2. Burkolat: Kissé ráncos, tiszta, világos vörösesbarna, egyenletes színű, enyhe fényű. A burkolaton áttetszenek a szalonnadarabok. A burkolat alatt lég-, folyadék- és zsírzsák nincs.
 
-| Víz-fehérje hányados | legfeljebb | 1,9 |
+## 6.3.2.3. Állomány, szerkezet, metszéslap: A rúd állománya se nem puha, se nem kemény. A mozaikos elemek mérete 6–8 mm, elrendezésük egyenletes. Nem tartalmaz 5 mm-nél nagyobb légüreget. Ín- és kötőszöveti hártyadarabból legfeljebb néhány 3 mm-nél kisebb darabot tartalmazhat. A szelet első harapás után se nem puha, se nem kemény, nem rágós, rágási maradék nincs. Felületi elváltozás nélkül szeletelhető.
 
-| Zsír-fehérje hányados | legfeljebb | 3,0 |
+## 6.3.2.4. Szín, íz, illat: A metszéslap összhatásában világos vörös színű. A fűszereloszlás egyenletes. Az érlelt főtt hús íze mellett füst-, bors-, fokhagyma-, fűszerpaprika-, szegfűbors íz és enyhe sós íz érezhető. A főtt hús és a fűszerek illata érezhető, idegen szagoktól mentes.
 
-| Húsfehérje-tartalom | legalább | 16,0% |
+## 6.4. Az élelmiszer előírt neve: nyári turista felvágott vagy nyári turista.
 
-| Nátrium-klorid-tartalom | legfeljebb | 5,0% (m/m) |
+## 7. Csemege debreceni
 
-| Vízaktivitás (aw) | legfeljebb | 0,91 |
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.2
 
-## b) Érzékszervi jellemzők
+## 7.1. 22–32 mm átmérőjű sertésvékonybélbe vagy emészthető műbélbe töltött húspépet (prádot), valamint friss hús kategóriába tartozó, 6–8 mm szemcseméretűre aprított marha-, illetve sertéshúst és szalonna alapanyagot, vagy baromfihúst és szalonna alapanyagot tartalmazó, legfeljebb 15 cm hosszú termék. Tartósítását füstöléssel és főzéssel végzik.
 
-## Alak, méret: 25–38 mm átmérőjű bélbe töltött termék.
+## 7.2. A jelölés szempontjából a hústartalom a késztermékre vonatkoztatva legalább 55%. A csontokról mechanikusan lefejtett hús mennyisége ezen felül a késztermékre vonatkoztatva legfeljebb 10%.
 
-## Burkolat: Tiszta, folytonossági hiányoktól mentes, nem penészes, kissé göbös, dudoros felületű.
+## 7.3. Minőségi jellemzők
 
-## Állomány, metszéslap: Tömör, rugalmas, jól összeálló, jól szeletelhető, nem rágós. A metszéslapon húspépbe ágyazott 4–8 mm nagyságúra aprított hús- és szalonnaszemcsék láthatók egyenletes eloszlásban.
+## 7.3.1. Kémiai jellemzők
 
-## Szín, illat, íz: A burkolat barnásvörös színű, a metszéslap színét a paprika határozza meg. Füstölt, kellemesen fűszeres illatú, harmonikus ízhatását a bors, a paprika és a fokhagyma adja.
+## Összes fehérjetartalom legalább 13,0% (m/m)
 
-## 7.2. Megnevezés
+## Víztartalom legfeljebb 60,0% (m/m)
 
-## Parasztkolbász
+## Zsírtartalom legfeljebb 32,0% (m/m)
 
-## 8. Téliszalámi
+## Nátrium-klorid-tartalom legfeljebb 2,2% (m/m)
 
-## Legalább 40 mm átmérőjű természetes vagy vízgőzáteresztő műbélbe töltött 2–4 mm szemcseméretűre aprított, egyenletesen elkevert sertéshúst és szalonna alapanyagot tartalmazó, füstölt, szárítással érlelt készítmény. Tömör állományú, jól szeletelhető, felülete szürkésfehér nemespenésszel egyenletesen fedett.
+## 7.3.2. Érzékszervi jellemzők
 
-## 8.1. Minőségi jellemzők
+## 7.3.2.1. Alak, méret: Egyenletes vastagságú.
 
-## a) Kémiai jellemzők
+## 7.3.2.2. Burkolat: A burkolat sima, sérüléstől, szennyeződéstől mentes.
 
-| Víz-fehérje hányados | legfeljebb | 1,3 |
+## 7.3.2.3. Állomány, metszéslap: Tömötten rugalmas, jól összeálló. A metszéslapon 6–8 mm nagyságú hús- és szalonnaszemcsék láthatók húspépbe (prádba) ágyazva. 2 mm-nél nagyobb ín és kötőszöveti hártyadarabokat nem tartalmazhat.
 
-| Zsír-fehérje hányados | legfeljebb | 2,6 |
+## 7.3.2.4. Szín, illat, íz: Vörösesbarna színű, kellemesen füstös, fűszeres (kömény) illatú, ízhatása a felhasznált fűszereknek megfelelően harmonikus.
 
-| Húsfehérje-tartalom | legalább | 18,0% (m/m) |
+## 7.4. Az élelmiszer előírt neve: csemege debreceni.
 
-| Nátrium-klorid-tartalom | legfeljebb | 5,0% (m/m) |
+## 8. Sütnivaló kolbász vagy sütőkolbász
 
-| Vízaktivitás (aw) | legfeljebb | 0,91 |
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.2
 
-## b) Érzékszervi jellemzők
+## 8.1. Legfeljebb 34 mm átmérőjű sertésvékonybélbe, juhbélbe vagy emészthető műbélbe töltött előkészített hús, amely egyenletesen aprított, friss hús kategóriába tartozó, 4–6 mm-es szemcsézettségű sertéshús és szalonna alapanyagok, vagy baromfihús és szalonna alapanyagok, valamint jelleg és íz kialakító anyagok felhasználásával készül. Rekeszizmot és rágóizmot nem tartalmazhat. Fűszerekkel és sóval ízesített nyers termék, fogyasztása előtt sütés szükséges. Élelmiszer-adalékanyagot nem tartalmazhat.
 
-## Alak, méret: Egyenletes vastagságú, legalább 40 mm átmérőjű, hengeres formájú, a felfüggesztésnek megfelelő végen elkeskenyedő, az ellenkező végen pedig legömbölyödő termék. A rúdhossz a töltési méretnek megfelelő (mini, turista, midi, normál).
+## 8.2. A jelölés szempontjából a hústartalom a késztermékre vonatkoztatva legalább 65%.
 
-## Burkolat: Folytonossági hiányoktól mentes, nemespenésszel egyenletesen fedett, enyhén ráncos. A burkolat a töltelékhez jól tapad.
+## 8.3. Minőségi jellemzők:
 
-## Állomány, metszéslap: Tömör, rugalmas, jól összeálló, jól szeletelhető, vágásérett, nem túl kemény. A metszéslapon barnásvörös sertéshús- és fehér szalonnaszemcsék láthatók egyenletes eloszlásban.
+## 8.3.1. Kémiai összetétel:
 
-## Szín, illat, íz: A burkolatot jellegzetes szagú, fehér, szürkésfehér nemespenész-bevonat borítja. A metszéslap kellemesen füstölt, fűszeres illatú. Ízét a felhasznált fűszerek, a füst és az érlelés során képződött nemespenész harmóniája adja.
+## Összes fehérjetartalom legalább 14,0% (m/m)
 
-## 8.2. Megnevezés
+## Víztartalom legfeljebb 60,0% (m/m)
 
-## Téliszalámi
+## Zsírtartalom legfeljebb 32,0% (m/m)
 
-## 9. Parasztsonka
+## Nátrium-klorid tartalom legfeljebb 2,1% (m/m)
 
-## Bőrrel és szalonnával fedett, megfelelően formázott sertéscomb vagy lapocka, amelyről a lábat, valamint a combból a faroktő- és medencecsontot (keresztcsont), a lapockából a lapockacsontot (lapátcsont) és porcot vagy az egész csontot eltávolították. A szalonna vastagsága legfeljebb 2 cm, a hús-szalonna arány legalább 4:1. Sózással, pácolással és füstöléssel tartósítják. Egészben vagy darabban forgalmazzák.
+## 8.3.2. Érzékszervi tulajdonságok
 
-## 9.1. Minőségi jellemzők
+## 8.3.2.1. Alak, méret: Legfeljebb 34 mm átmérőjű, pározott vagy folyamatos töltésű.
 
-## a) Kémiai jellemzők
+## 8.3.2.2. Burkolat: Sima, sérüléstől mentes, a töltelékhez jól tapad.
 
-## Nátrium-klorid-tartalom, füstölt nyers húsok esetében, legfeljebb 7,0% (m/m).
+## 8.3.2.3. Állomány: Puha, jól összeálló.
 
-## b) Érzékszervi jellemzők
+## 8.3.2.4. Szín, illat, íz: A gyártmánylapban rögzítettnek megfelelő színű hús és szalonnaszemcsék jellemzik, dominánsan fűszerpaprika illatú, a felhasznált fűszerek íze érezhető.
 
-## Alak: Bőrrel és szalonnaréteggel fedett, a combra, illetve a lapockára jellemző alakú, megfelelően formázott.
+## 8.4. Az élelmiszer előírt neve: sütnivaló kolbász vagy sütőkolbász.
 
-## Állomány: A nyers pácolt és füstölt sonkára jellemző puhaságú, tömötten rugalmas, kissé rágós, jól szeletelhető.
+## 8.5. A következő szöveget a terméken fel kell tüntetni: „A termék csak alapos hőkezelés (sütés) után fogyasztható.”
 
-## Szín, íz, illat: A bőrös és a húsos rész egyenletes vörösesbarna, a szalonnás rész világos sárgásbarna színű. Ízében, illatában a só és a füst érződik.
+## 8.6. A vágóállat faját az A rész V. fejezetében foglaltakkal ellentétben kizárólag (100%-ban) sertésből készült termék esetében nem kell jelölni.
 
-## 9.2. Megnevezés
+## 9. Parasztsonka, parasztlapocka
 
-## Parasztsonka
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.1
 
-## Utalni kell a darabolásra.
+## 9.1. Parasztsonka: Bőrrel és szalonnával fedett, megfelelően formázott sertéscomb, amelyről a lábat, valamint a faroktő- és medencecsontot (keresztcsont) eltávolították.
+
+## 9.2. Parasztlapocka: Bőrrel és szalonnával fedett, megfelelően formázott sertéslapocka, amelyről a lábat, valamint a lapockacsontot (platnicsont) eltávolították.
+
+## 9.3. Mindkét termék esetében a szalonna vastagsága legfeljebb 2 cm, a hús-szalonna arány legalább 4:1. Sózással, illetve pácolással, füstöléssel és szárítással tartósítják, gyorspácolás nem megengedett. Egészben kell érlelni. Az érlelés időtartama legalább 30 nap. Egészben, darabban vagy szeletelve forgalmazzák.
+
+## 9.4. Minőségi jellemzők
+
+## 9.4.1. Kémiai jellemzők
+
+|  |  | 2017. január 1-jétől alkalmazandó | 2017. július 1-jétől alkalmazandó |
+
+| Nátrium-klorid- tartalom | legfeljebb | 6,0% (m/m) | 5,0% (m/m) |
+
+|  |  | (58%-os víztartalomra vonatkoztatva) |
+
+| A vízaktivitás értéke (aw) | legfeljebb | 0,91 |  |
+
+## 9.4.2. Érzékszervi jellemzők
+
+## 9.4.2.1. Alak: Bőrrel és szalonnaréteggel fedett, a combra, illetve a lapockára, darabolt termék esetén azok húsrészeire jellemző alakú, megfelelően formázott.
+
+## 9.4.2.2. Állomány: A nyers pácolt és füstölt sonkára jellemző puhaságú, tömötten rugalmas, jól szeletelhető, nem száraz, nem kemény.
+
+## 9.4.2.3. Szín, íz, illat: A bőrös és a húsos rész a külső felületen egyenletes vörösesbarna, a szalonnás rész világos sárgásbarna színű. Ízében és illatában a só és a füst érződik.
+
+## 9.5. Az élelmiszer előírt neve: parasztsonka vagy parasztlapocka.
+
+## 9.6. A termék megnevezésére vonatkozó egyéb előírások:
+
+## 9.6.1. Az előkészítés módjára a „darabolt” vagy „szeletelt” szavak használatával utalni kell.
+
+## 9.6.2. A vágóállat faját az A rész V. fejezetében foglaltakkal ellentétben nem kell jelölni.
 
 ## 10. Angolszalonna
 
-## Téglatest alakúra formázott, 4–12 cm vastag, 8–15 cm széles, 20–40 cm hosszú, bőrös vagy bőr nélküli szalonnás karaj alapanyagból álló, sózással, pácolással és füstöléssel készült termék.
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.1
 
-## 10.1. Minőségi jellemzők
+## 10.1. Téglatest alakúra formázott, 8–12 cm vastag, 8–15 cm széles, 20–40 cm hosszú, bőrös vagy bőr nélküli szalonnás karaj alapanyagból álló, sózással, pácolással és füstöléssel készült termék. Bőrös termék esetében a vastagság bőr nélkül értendő.
 
-## a) Kémiai jellemzők
+## 10.2. Minőségi jellemzők
 
-| Nátrium-klorid-tartalom | legalább    1,5% (m/m)      de legfeljebb    7,5% (m/m) |
+## 10.2.1. Kémiai jellemzők
 
-## b) Érzékszervi jellemzők
+|  |  | 2017. január 1-jétől alkalmazandó | 2017. július 1-jétől alkalmazandó |
 
-## Alak méret: Egyenletes vastagságú téglatest, tiszta felületű.
+| Nátrium-klorid- tartalom | legfeljebb | 6,0% (m/m) | 5,0% (m/m) |
 
-## Állomány, szerkezet: A darab állománya se nem puha, se nem kemény, húsos része a pácérett füstölt húsra, szalonnás része az érett szalonnára jellemző. A termék keresztmetszetének legalább 60%-a húsos rész.
+|  |  | (58%-os víztartalomra vonatkoztatva) |
 
-## Metszéslap, szín, íz, illat: A metszéslapon a szalonnás rész fehér, a húsos rész vöröses vagy rózsaszín. Jellegzetes enyhén sós, füstölt ízű és illatú.
+| A vízaktivitás értéke (aw) | legfeljebb | 0,91 |  |
 
-## 10.2. Megnevezés
+## 10.2.2. Érzékszervi jellemzők
 
-## Angolszalonna
+## 10.2.2.1. Alak méret: Egyenletes vastagságú téglatest, tiszta felületű.
 
-## 11. Sütnivaló kolbász
+## 10.2.2.2. Állomány, szerkezet: A darab állománya nem rágós, húsos része a pácérett füstölt húsra, szalonnás része az érett szalonnára jellemző. A termék keresztmetszetének legalább 70%-a húsos rész.
 
-## Sertésvékonybélbe, juhbélbe vagy emészthető műbélbe töltött húskészítmény, amely egyenletesen aprított 4–6 mm-es szemcsézettségű sertéshús és/vagy baromfihús és szalonna alapanyagok valamint jelleg és íz kialakító anyagok felhasználásával készül. Sóval tartósított nyers termék, fogyasztása előtt sütés szükséges. A hústartalom a késztermékre vonatkoztatva legalább 50%.
+## 10.2.2.3. Metszéslap, szín, íz, illat: A bőrös és a húsos rész a külső felületen egyenletes vörösesbarna, a szalonnás rész világos sárgásbarna színű. A metszéslapon a szalonnás rész fehér, a húsos rész vöröses vagy rózsaszín. Jellegzetes, enyhén sós, füstölt ízű és illatú.
 
-## 11.1. Minőségi jellemzők:
+## 10.3. Az élelmiszer előírt neve: angolszalonna.
 
-## a) Kémiai összetétel:
+## 10.4. A vágóállat faját az A rész V. fejezetében foglaltakkal ellentétben nem kell jelölni.
 
-| Fehérjetartalom | legalább | 12,0% (m/m) |
+## 11. Parasztkolbász
 
-| Víztartalom | legfeljebb | 60,0% (m/m) |
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.1
 
-| Zsírtartalom | legfeljebb | 35,0% (m/m) |
+## 11.1. 34–38 mm átmérőjű, természetes bélbe vagy emészthető műbélbe töltött, friss hús kategóriába tartozó,
 
-| Nátrium-klorid tartalom | legfeljebb | 3,5% (m/m) |
+## 4–6 mm szemcseméretűre aprított, kizárólag sertés-, illetve marhahúst, szalonna alapanyagot és fűszereket tartalmazó, füstölt, szárított termék. Rekeszizmot és rágóizmot nem tartalmazhat.
 
-## b) Érzékszervi tulajdonságok
+## 11.2. Minőségi jellemzők
 
-## Alak, méret: A sertésvékonybélnek vagy emészthető műbélnek megfelelő átmérőjű pározott vagy folyamatos töltésű.
+## 11.2.1. Kémiai jellemzők
 
-## Burkolat: Sima, sérüléstől mentes, a töltelékhez jól tapad.
+## Víztartalom legfeljebb 32,0% (m/m)
 
-## Állomány: Puha, jól összeálló.
+## Zsírtartalom legfeljebb 45,0% (m/m)
 
-## Szín, illat, íz: Paprikától pirosra színezett hús és szalonnaszemcsék jellemzik, dominánsan paprika illatú; a felhasznált fűszerek íze érezhető.
+## Kötőszövetmentes fehérjetartalom legalább 18,0% (m/m)
 
-## 11.2. Jelölés
+## Nátrium-klorid-tartalom legfeljebb 4,0% (m/m)
 
-## Megnevezés:
+## A vízaktivitás értéke (aw) legfeljebb 0,92
 
-## Sütnivaló kolbász
+## 11.2.2. Érzékszervi jellemzők
 
-## Egyéb jelölés:
+## 11.2.2.1. Alak, méret: Bélbe töltött termék.
 
-## A „fogyasztása előtt sütés szükséges” szöveget is fel kell tüntetni.
+## 11.2.2.2. Burkolat: Tiszta, folytonossági hiányoktól mentes, kissé göbös felületű.
 
-## 12. Natúr libamáj, natúr kacsamáj
+## 11.2.2.3. Állomány, metszéslap: Tömör, rugalmas, jól összeálló, jól szeletelhető, nem rágós. A metszéslapon aprított hús- és szalonnaszemcsék láthatók egyenletes eloszlásban.
 
-## Egy vagy több hízottliba-máj vagy hízottkacsa-máj lebenydarabot legalább 90%-ban tartalmazó, csak sózott, hőkezeléssel tartósított májkészítmény.
+## 11.2.2.4. Szín, illat, íz: A burkolat barnásvörös színű, a metszéslap színét a fűszerpaprika határozza meg. Füstölt, kellemesen fűszeres illatú, harmonikus ízhatását a bors, a fűszerpaprika és a fokhagyma adja.
 
-## 12.1. Minőségi jellemzők
+## 11.3. Az élelmiszer előírt neve: parasztkolbász.
 
-## a) Kémiai jellemzők
+## 12. Téliszalámi
 
-| Nátrium-klorid-tartalom | legfeljebb | 2,0% |
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.1
 
-## b) Érzékszervi jellemzők
+## 12.1. Legalább 55 mm átmérőjű természetes vagy vízgőzáteresztő műbélbe töltött, friss hús kategóriába tartozó, 3-4 mm szemcseméretűre aprított, egyenletesen elkevert, kizárólag sertéshúst, szalonna alapanyagot és fűszereket tartalmazó, füstölt, szárítással minimum 80 napig érlelt rúd alakú húskészítmény. Rekeszizmot és rágóizmot nem tartalmazhat. Tömör állományú, jól szeletelhető, felülete szürkésfehér nemespenésszel egyenletesen fedett.
 
-## Külső megjelenés: Egyenletes világos krémszínű, jól tisztított májdarabok Konzerv esetében 10% lékiválás a doboz alján megengedhető. Zsírkiválás a máj hőkezeléséből adódóan, változó mennyiségben nem kifogásolható.
+## 12.2. Minőségi jellemzők
 
-## Állomány, szerkezet: A hízottmájra jellemző, kellően puha, jól szeletelhető.
+## 12.2.1. Kémiai jellemzők
 
-## Íz, illat: Hőkezelt májra jellemző illat és íz, minden idegen illattól és íztől mentes.
+## Víztartalom legfeljebb 27,0% (m/m)
 
-## 12.2. Megnevezés
+## Kötőszövetmentes fehérjetartalom legalább 19,5% (m/m)
 
-## Natúr libamáj
+## Zsírtartalom legfeljebb 47,0% (m/m)
 
-## Natúr kacsamáj
+## Nátrium-klorid tartalom legfeljebb 4,5% (m/m)
 
-## 13. Libamájblokk, kacsamájblokk
+## Vízaktivitás (aw) legfeljebb 0,91
 
-## Szalonnával bélelt vagy béleletlen, formába töltött, a szalonnanélküli részben a májmasszában és a látható májdarabokkal együtt legalább 85% libamájat vagy kacsamájat tartalmazó, hőkezeléssel tartósított májkészítmény.
+## 12.2.2. Érzékszervi jellemzők
 
-## 13.1. Minőségi jellemzők
+## 12.2.2.1. Alak, méret: Egyenletes vastagságú, hengeres formájú termék, amely a felfüggesztésnek megfelelő végen elkeskenyedhet, az ellenkező végen pedig legömbölyödhet. A rúdhossz a töltési méretnek megfelelő (mini, turista, midi, normál).
 
-## a) Kémiai jellemzők a szalonnanélküli részben
+## 12.2.2.2. Burkolat: Folytonossági hiányoktól mentes, nemespenésszel egyenletesen fedett, enyhén ráncos lehet. A burkolat a töltelékhez jól tapad.
 
-| Fehérjetartalom | legalább | 7,0% |
+## 12.2.2.3. Állomány, metszéslap: Tömör, rugalmas, jól összeálló, jól szeletelhető, vágásérett, nem puha, nem túl kemény. A metszéslapon barnásvörös sertéshús- és fehér szalonnaszemcsék láthatók egyenletes eloszlásban.
 
-| Nátrium-klorid-tartalom | legfeljebb | 2,0% |
+## 12.2.2.4. Szín, illat, íz: A burkolatot jellegzetes illatú, fehér, szürkésfehér nemespenész bevonat borítja. A metszéslap kellemesen füstölt, fűszeres illatú. Ízét a felhasznált fűszerek, a füst és az érlelés során képződött nemespenész harmóniája adja.
 
-## b) Érzékszervi jellemzők
+## 12.3. Az élelmiszer előírt neve: téliszalámi.
 
-## Külső megjelenés: Egyenletes világos krémszínű májmasszában jól tisztított májdarabokat tartalmazó, bélelt termék esetén vékony (2-3 mm) szalonnaréteg határolja a szeleteket. Konzerv esetében 10% lékiválás a doboz alján megengedhető. Zsírkiválás a máj hőkezeléséből adódóan, változó mennyiségben nem kifogásolható.
+## 12.4. A vágóállat faját az A rész V. fejezetében foglaltakkal ellentétben nem kell jelölni.
 
-## Állomány, szerkezet: Kellően puha, a májmasszában halvány drapp/rózsaszínű májdarabok találhatók. Nem széteső, jól szeletelhető.
+## 13. Natúr libamáj, natúr kacsamáj
 
-## Íz, illat: A hőkezelt liba- vagy kacsamáj, a fűszerek és az egyéb ízkialakítók illata is érezhető. Idegen illat és íz nem érezhető.
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.2
 
-## 12.2. Megnevezés
+## 13.1. Egy vagy több hízottliba-máj, vagy hízottkacsa-máj lebenydarabot legalább 90%-ban tartalmazó, csak sózott, hőkezeléssel tartósított termék.
 
-## Libamájblokk (csak libamáj felhasználása esetén)
+## 13.2. Minőségi jellemzők
 
-## Kacsamájblokk (csak kacsamáj felhasználása esetén)
+## 13.2.1. Kémiai jellemzők
 
-## Ízesített termék esetén az ízesítésre a termék megnevezésében utalni kell, pl. Tokaji aszús libamájblokk; Libamájblokk szarvasgombával
+## Nátrium-klorid-tartalom legfeljebb 2,0%
 
-13. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^54]
+## 13.2.2. Érzékszervi jellemzők
 
-[^54]: A 13. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 24/2014. (III. 25.) VM rendelet 2–3. §-a, a 10/2014. (IX. 18.) FM rendelet 4. §-a szerint módosított szöveg.
+## 13.2.2.1. Külső megjelenés: Egyenletes világos krémszínű, jól tisztított májdarabok. Konzerv esetében 10% lékiválás a doboz alján megengedhető. Zsírkiválás a máj hőkezeléséből adódóan, változó mennyiségben nem kifogásolható.
+
+## 13.2.2.2. Állomány, szerkezet: A hízottmájra jellemző puha, jól szeletelhető.
+
+## 13.2.2.3. Íz, illat: Hőkezelt májra jellemző illat és íz, minden idegen illattól és íztől mentes.
+
+## 13.3. Az élelmiszer előírt neve: natúr libamáj vagy natúr kacsamáj.
+
+## 14. Libamájblokk, kacsamájblokk
+
+## Élelmiszer-kategória (az 1333/2008/EK európai parlamenti és tanácsi rendelet szerint): 08.3.2
+
+## 14.1. Szalonnával bélelt vagy béleletlen formába töltött, a szalonnanélküli részben legalább 86% hízottliba-májat vagy hízottkacsa-májat fűszerezett, pépesített májmasszába ágyazva tartalmazó, hőkezeléssel tartósított termék.
+
+## 14.2. Minőségi jellemzők
+
+## 14.2.1. Kémiai jellemzők a szalonnanélküli részben
+
+## Összes fehérjetartalom legalább 7,0%
+
+## Nátrium-klorid-tartalom legfeljebb 2,0%
+
+## 14.2.2. Érzékszervi jellemzők
+
+## 14.2.2.1. Külső megjelenés: Egyenletes világos krémszínű májmasszában jól tisztított májdarabokat tartalmazó, bélelt termék esetén vékony, 2-3 mm szalonnaréteg határolja a szeleteket. Konzerv esetében 10% lékiválás a doboz alján megengedhető. Zsírkiválás a máj hőkezeléséből adódóan, változó mennyiségben nem kifogásolható.
+
+## 14.2.2.2. Állomány, szerkezet: Puha, a májmasszában halvány drapp vagy rózsaszínű májdarabok találhatók. Nem széteső, jól szeletelhető.
+
+## 14.2.2.3. Íz, illat: A hőkezelt liba- vagy kacsamáj, a fűszerek és az egyéb ízkialakítók illata is érezhető. Idegen illat és íz nem érezhető.
+
+## 14.3. Az élelmiszer előírt neve: libamájblokk (csak libamáj felhasználása esetén) vagy kacsamájblokk (csak kacsamáj felhasználása esetén).
+
+## 14.4. Ízesített termék esetén az ízesítésre a termék megnevezésében utalni kell (például Tokaji aszúval történő ízesítés esetén Tokaji aszús libamájblokk; szarvasgombával történő ízesítés esetén Libamájblokk szarvasgombával).
+
+13. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^59]
+
+[^59]: A 13. mellékletet a 37/2010. (IV. 13.) FVM rendelet 5. § (1) bekezdése iktatta be, szövege a 24/2014. (III. 25.) VM rendelet 2–3. §-a, a 10/2014. (IX. 18.) FM rendelet 4. §-a szerint módosított szöveg.
