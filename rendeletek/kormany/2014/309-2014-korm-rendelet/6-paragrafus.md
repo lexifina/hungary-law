@@ -5,5 +5,3 @@
 a) nem veszélyes hulladék esetén az 1. melléklet 5. pontja,
 
 b) veszélyes hulladék esetén az 1. melléklet 6. pontja
-
-szerinti adattartalommal vezeti.

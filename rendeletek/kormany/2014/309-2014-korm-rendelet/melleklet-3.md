@@ -1,6 +1,6 @@
 3. melléklet a 309/2014. (XII. 11.) Korm. rendelethez
 
-A hulladékkal kapcsolatos éves adatszolgáltatás teljesítéséhez szükséges adatlap adattartalma
+## A hulladékkal kapcsolatos éves adatszolgáltatás teljesítéséhez szükséges adatlap adattartalma
 
 1. A főlap adattartalma (HIR főlap):
 
@@ -62,7 +62,7 @@ b) a képződött elsődleges hulladék mennyisége.
 
 2.2.2. Másodlagos hulladék képződése esetén:
 
-a) a hulladékkezelő által végzett kezelés során képződött másodlagos hulladéknak a Ht. 2. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja vagy a Ht. 3. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja.
+a)[^25] a hulladékkezelő által végzett kezelés során képződött másodlagos hulladéknak a miniszteri rendelet 1. melléklete szerinti ártalmatlanítási művelethez tartozó azonosító kódja vagy a miniszteri rendelet 2. melléklete szerinti hasznosítási művelethez tartozó azonosító kódja.
 
 b) előkezelési művelet esetén az a) pontban előírt kód helyett a 439/2012. Korm. rendelet 2. melléklete szerinti előkezelési művelethez tartozó 'E' azonosító kódja;
 
@@ -277,3 +277,5 @@ g) a külföldi hasznosító vagy ártalmatlanító létesítmény neve és cím
 h) a tényleges hasznosítást, ártalmatlanítást végző külföldi telephely címe.
 
 6.3. Adatjavítás esetén az adatjavításra vonatkozó magyarázat megjelölése.
+
+[^25]: A 3. melléklet 2.2.2. pont a) alpontja a 196/2016. (VII. 13.) Korm. rendelet 5. § (3) bekezdés d) pontja szerint módosított szöveg.

@@ -8,9 +8,9 @@ b) nem veszélyes hulladék esetén – a c) pont kivételével – a 2000 kg-ot
 
 c) nem veszélyes építési-bontási hulladék esetén az 5000 kg-ot
 
-meghaladja.
+## meghaladja.
 
-(3)[^3] Nem kell adatszolgáltatást teljesíteni a 3. § (6) bekezdésében meghatározott esetekben.
+(3)[^5] Nem kell adatszolgáltatást teljesíteni a 3. § (6) bekezdésében meghatározott esetekben.
 
 (4) Ha a tárgyévben a képződött hulladék mennyisége a hulladéktermelő telephelyén nem éri el a (2) bekezdésben meghatározott mennyiséget, az adatszolgáltatásra kötelezett hulladéktermelőnek csak a 3. melléklet 1. pontja szerinti adattartalommal kell teljesítenie az adatszolgáltatási kötelezettségét.
 
@@ -18,4 +18,17 @@ meghaladja.
 
 (6) Az adatszolgáltatásra nem kötelezett hulladéktermelő a miniszter által elrendelt, statisztikai kiválasztási módszerekkel történő adatfelméréskor eseti adatszolgáltatást teljesít.
 
-[^3]: A 11. § (3) bekezdése a 71/2016. (III. 31.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+(7)[^6] A Ht. 14. § (1) bekezdés c) pontja szerinti hulladékszállítás esetén az adatszolgáltatást
+
+a) a képződés helye szerinti telephely szerint vagy
+
+b) ha a hulladék képződését eredményező munkavégzés helyén a termelőnek nem kell nyilvántartást vezetnie, akkor
+
+ba) a beszállítás telephelye szerint vagy
+
+bb) közvetlenül átvételi helyre, hulladékgyűjtő pontra, hulladékgyűjtő udvarba, valamint hulladékkezelőhöz szállítás esetén a telephelye,
+
+bc) több telephely esetén a munkavégzéshez legközelebbi telephelye szerint
+
+[^5]: A 11. § (3) bekezdése a 71/2016. (III. 31.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^6]: A 11. § (7) bekezdését a 196/2016. (VII. 13.) Korm. rendelet 5. § (2) bekezdése iktatta be.

@@ -1,3 +1,5 @@
+## kell teljesíteni.
+
 12. § (1) Az adatszolgáltatást a gyűjtő, a kereskedő és a hulladékkezelő telephelyenként és hulladéktípusonként teljesíti.
 
 (2) Adatszolgáltatási kötelezettségét
@@ -20,7 +22,7 @@ szerinti adattartalommal teljesíti.
 
 a) a nem veszélyes hulladék gyűjtésre, kereskedelemre és kezelésre történő átvételéről évente a tárgyévet követő év március 1. napjáig; valamint
 
-b)[^4] a veszélyes hulladék gyűjtésre, kereskedelemre és kezelésre történő átvételéről negyedévente a tárgynegyedévet követő 30. napig a 4. melléklet 1., 2. és 3. pontja szerint
+b)[^7] a veszélyes hulladék gyűjtésre, kereskedelemre és kezelésre történő átvételéről negyedévente a tárgynegyedévet követő 30. napig a 4. melléklet 1., 2. és 3. pontja szerint
 
 szolgáltat adatot.
 
@@ -30,4 +32,4 @@ a) a telephelyén a tárgynegyedévben hulladékot nem vett át, illetve
 
 b) kezelést a telephelyen a tárgynegyedévben nem folytatott.
 
-[^4]: A 12. § (4) bekezdés b) pontja a 71/2016. (III. 31.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^7]: A 12. § (4) bekezdés b) pontja a 71/2016. (III. 31.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
