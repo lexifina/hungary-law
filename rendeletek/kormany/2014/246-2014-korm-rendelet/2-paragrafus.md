@@ -16,7 +16,7 @@
 
 7. hulladékkezelő létesítmény: az átrakóállomás, a válogatómű, a hulladék előkezelését biztosító telephely, berendezés, valamint a hulladékhasznosító és a hulladékártalmatlanító létesítmény;
 
-8. hulladéktároló hely: olyan, e rendeletben meghatározott műszaki kialakítással rendelkező terület vagy építmény, amely a gyűjtő, a kereskedő vagy a hulladékkezelő által átvett, illetve összegyűjtött hulladék hasznosításig vagy ártalmatlanításig történő tárolására szolgál, ideértve a Ht. 2. mellékletének D12 ártalmatlanítási műveletét is;
+8.[^1] hulladéktároló hely: olyan, e rendeletben meghatározott műszaki kialakítással rendelkező terület vagy építmény, amely a gyűjtő, a kereskedő vagy a hulladékkezelő által átvett, illetve összegyűjtött hulladék hasznosításig vagy ártalmatlanításig történő tárolására szolgál, ideértve a hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló 43/2016. (VI. 28.) FM rendelet 1. mellékletének D12 ártalmatlanítási műveletét is;
 
 9. komposztáló telep: olyan hulladékhasznosító létesítmény, ahol a biológiailag lebomló hulladék komposztálását végzik;
 
@@ -33,3 +33,5 @@
 15. válogatómű: a hulladék előkezelésére szolgáló hulladékkezelő létesítmény, amelyben a hulladék és a hulladékból kinyerhető hasznosítható összetevők válogatását végzik.
 
 (2) Az e rendeletben meg nem határozott fogalmak tekintetében a Ht.-ben, az egészségügyről szóló törvényben, a biohulladék kezeléséről és a komposztálás műszaki követelményeiről szóló miniszteri rendeletben, valamint a hulladékkal kapcsolatos nyilvántartási és adatszolgáltatási kötelezettségekről szóló kormányrendeletben meghatározott fogalmakat kell alkalmazni.
+
+[^1]: A 2. § (1) bekezdés 8. pontja a 196/2016. (VII. 13.) Korm. rendelet 4. §-a szerint módosított szöveg.
