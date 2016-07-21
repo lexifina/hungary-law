@@ -16,6 +16,8 @@ f)[^6] a bányamentő szolgálatok gépjárműire.
 
 g)[^7] a Közbeszerzési és Ellátási Főigazgatóság, a Honvédelmi Minisztérium és a Külgazdasági és Külügyminisztérium 1. § cb) alpontjában meghatározott közérdekű feladatok ellátására rendszeresített gépjárműveire
 
+h)[^8] a Kormány által kijelölt országos illetékességgel közúti közlekedési hatósági ellenőrzést végző közlekedési hatóság meghatározott engedélyhez és meghatározott okmány meglétéhez kötött belföldi vagy nemzetközi közúti közlekedési szolgáltatás, valamint az útdíjköteles útszakaszok használatáért fizetendő, megtett úttal arányos útdíjra vonatkozó szabályok ellenőrzésére rendszeresített gépjárműveire.
+
 (2) Az (1) bekezdésben meghatározottakon kívül nem kell hatósági engedély a megkülönböztető fényjelzést adó készülék felszereléséhez, a védett személyeket szállító és azt kísérő, zárt csoportban közlekedő (közrefogott) gépjárművekre. Az e feladatra is rendszeresen használt gépjárművekben a megkülönböztető fényjelzést adó készülék engedély nélkül tárolható.
 
 [^3]: A 3. § (1) bekezdés b) pontja a 2/2015. (II. 3.) BM rendelet 1. §-ával megállapított szöveg.
@@ -23,3 +25,4 @@ g)[^7] a Közbeszerzési és Ellátási Főigazgatóság, a Honvédelmi Miniszt�
 [^5]: A 3. § (1) bekezdés d) pontja a 2/2015. (II. 3.) BM rendelet 5. § a) pontja szerint módosított szöveg.
 [^6]: A 3. § (1) bekezdésének f) pontját a 41/2009. (IX. 15.) IRM rendelet 46. §-a iktatta be. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^7]: A 3. § (1) bekezdés g) pontját a 62/2011. (XII. 29.) BM rendelet iktatta be, szövege a 2/2015. (II. 3.) BM rendelet 5. § b) pontja szerint módosított szöveg.
+[^8]: A 3. § (1) bekezdés h) pontját a 30/2016. (VII. 20.) BM rendelet 1. §-a iktatta be.
