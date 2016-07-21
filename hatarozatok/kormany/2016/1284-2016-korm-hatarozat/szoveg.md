@@ -58,11 +58,11 @@ a fejlesztések megvalósítására: folyamatos
 
 3. A Kormány Veszprém kulturális életének gazdagítását és turisztikai vonzerejének növelését támogatva, a város életében betöltött szerepüket elismerve
 
-a) egyetért a Veszprémi Petőfi Színház kormányzati szerepvállalással történő felújításával és korszerűsítésével, amely érdekében felhívja az emberi erőforrások miniszterét és a nemzeti fejlesztési minisztert, hogy az Önkormányzat közreműködésével tegyenek javaslatot a színház épületének rekonstrukcióját szolgáló beruházási programra és ütemezett támogatására, azzal, hogy kormányzati támogatással a műemléképület felújításhoz és korszerűsítéséhez szükséges projektelemek megvalósítására kerüljön sor, míg az Önkormányzat által tervezett, a színház környezetének megújítását célzó fejlesztések esetében kerüljön vizsgálatra egyéb források bevonásának lehetősége, illetve a fejlesztések több ütemben történő megvalósítása;
+a)[^1] egyetért a Veszprémi Petőfi Színház kormányzati szerepvállalással történő felújításával és korszerűsítésével, amely érdekében felhívja az emberi erőforrások miniszterét és a nemzeti fejlesztési minisztert, hogy az Önkormányzat közreműködésével tegyenek javaslatot a színház épületének rekonstrukcióját szolgáló beruházási programra és ütemezett támogatására, azzal, hogy kormányzati támogatással a műemléképület felújításhoz és korszerűsítéséhez szükséges projektelemek megvalósítására kerüljön sor, míg az Önkormányzat által tervezett, a színház környezetének megújítását célzó fejlesztések esetében kerüljön vizsgálatra egyéb források bevonásának lehetősége, illetve a fejlesztések több ütemben történő megvalósítása;
 
 Felelős: emberi erőforrások minisztere
 
-nemzetgazdasági miniszter
+nemzeti fejlesztési miniszter
 
 Határidő: 2016. október 31.
 
@@ -127,3 +127,5 @@ b) felhívja az 1–4. pontban felelősként megjelölt minisztereket, hogy – 
 Felelős: az 1–4. pontban felelősként megjelölt miniszterek
 
 Határidő: azonnal
+
+[^1]: A 3. pont a) alpontja az 1394/2016. (VII. 21.) Korm. határozat 8. pontja szerint módosított szöveg.
