@@ -1,1 +1,0 @@
-A Kormány hozzájárulását adja ahhoz, hogy a Belügyminisztérium – a bemutatott egyezmény- és alapszabály-tervezet szerinti – Európai Városok Tudáshálózata Korlátolt Felelősségű Európai Területi Társulásban (EUKN EGTC) tagként részt vegyen.
