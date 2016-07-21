@@ -1,0 +1,101 @@
+# A Kormány 203/2016. (VII. 21.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 108. szám, 2016. július 21. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/ca4db9d0ca922ec6b27695b6cd7a4999a7200aec/dokumentumok/78e5fbc474ba12679e989327850407cb5efa9362/letoltes)
+
+---
+
+A Kormány 203/2016. (VII. 21.) Korm. rendelete
+az őstermelői nyilvántartással összefüggő egyes kormányrendeletek módosításáról
+A Kormány a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 80. § f) pontjában,
+a 2. alcím tekintetében a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamaráról szóló 2012. évi CXXVI. törvény 53. §
+(2) bekezdésében,
+a 4. alcím tekintetében a személyi jövedelemadóról szóló 1995. évi CXVII. törvény 80. § e) pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. A Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet módosítása
+1. §
+A Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet 19. § (5) bekezdése helyébe
+a következő rendelkezés lép:
+„(5) A Kormány a személyi jövedelemadóról szóló 1995. évi CXVII. törvény
+a) 81/A. § (1), (4), (5) és (7) bekezdése szerinti őstermelői nyilvántartást vezető szervként, valamint
+b) 81/C. §-a szerinti mezőgazdasági igazgatási szervként
+a NÉBIH-et jelöli ki.”
+2. A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara által működtetett falugazdász-
+hálózat igazgatási és egyéb feladatainak a meghatározásáról szóló 525/2013. (XII. 30.) Korm. rendelet
+módosítása
+2. §
+A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara által működtetett falugazdász-hálózat igazgatási
+és egyéb feladatainak a meghatározásáról szóló 525/2013. (XII. 30.) Korm. rendelet (a továbbiakban: FgKr.)
+a) 1/A. §-ában a „NAK-ot” szövegrész helyébe a „Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamarát
+(a továbbiakban: NAK)”szöveg,
+b) 3. § (1) bekezdés a) pontjában a„visszavonja”szövegrész helyébe a„bevonja”szöveg
+lép.
+3. §
+Hatályát veszti az FgKr. 1. §-a.
+
+3. A megyei kormányhivatalok mezőgazdasági feladatainak meghatározásáról szóló
+68/2015. (III. 30.) Korm. rendelet módosítása
+4. §
+A megyei kormányhivatalok mezőgazdasági feladatainak meghatározásáról szóló 68/2015. (III. 30.) Korm. rendelet
+20. §-ában a„81/B. §-ában”szövegrész helyébe a„81/C. §-ában”szöveg lép.
+4. A mezőgazdasági őstermelői igazolványról szóló 436/2015. (XII. 28.) Korm. rendelet módosítása
+5. § (1) A mezőgazdasági őstermelői igazolványról szóló 436/2015. (XII. 28.) Korm. rendelet (a továbbiakban: ŐKr.) 5. §
+(1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) Az igazolvány kiadását, érvényesítését, cseréjét és módosítását az ügyfél bejelentett lakóhelye vagy tartózkodási
+helye szerint illetékes NAK megyei ügyintéző szervezeténél (a továbbiakban: kiállító) kell kérelmezni.
+(2) A kérelem előterjesztésekor az ügyfélnek az Szja. tv. 81/A. § (2) bekezdés a) és b) pontja, valamint e) pont
+ea) alpontja szerinti adatokat igazolnia kell, amely alapján a kiállító az igazolványra való jogosultsági feltételek
+vizsgálata során megállapítja
+a) az ügyfél személyazonosságát, valamint
+b) annak tényét, hogy az ügyfél
+ba) 16. életévét betöltötte-e, és
+bb) rendelkezik-e érvényes őstermelői igazolvánnyal.”
+(2) Az ŐKr. 1. melléklete az 1. melléklet szerint módosul.
+(3) Az ŐKr. 3. melléklete a 2. melléklet szerint módosul.
+6. §
+Az ŐKr.
+a) 4. § (2) bekezdésében a „NAK” szövegrész helyébe a „Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési
+Kamara (a továbbiakban: NAK)”szöveg,
+b) 8. § (1) bekezdésében az„igazolvány”szövegrész helyébe az„ideiglenes igazolvány, igazolvány”szöveg,
+c) 10. § (1) bekezdésében a „módon – felhívásra –” szövegrész helyébe a „módon, felhívásra – az értékesítés
+helyszínén is –”szöveg,
+d) 18. § (1) bekezdésében
+da) a„május 31.”szövegrész helyébe a„július 31.”szöveg,
+db) a„július 31-ig”szövegrész helyébe a„szeptember 30-ig”szöveg,
+e) 1. melléklet 2.1. pontjában az„1–30. pontja”szövegrész helyébe az„1–29. pontja”szöveg,
+f) 2. melléklet 1. pontjában a„26–30. pontja”szövegrész helyébe a„26–29. pontja”szöveg,
+g) 3. melléklet 9. pontjában a„lakcíme”szövegrész helyébe a„bejelentett lakóhelye”szöveg,
+h) 4. melléklet 1. pontjában a„29–31. pontja”szövegrész helyébe a„29. pontja”szöveg,
+i) 5. melléklet 1. pontjában az„1–11. és 13–31. pontja”szövegrész helyébe az„1–29. pontja”szöveg
+lép.
+7. §
+Hatályát veszti az ŐKr.
+a) 2. § (4) bekezdésében az „a 9. § (2) bekezdésében foglaltak elvégzése érdekében a Magyar Agrár-,
+Élelmiszergazdasági és Vidékfejlesztési Kamara (a továbbiakban: NAK) ügyfél állandó lakóhelye szerint
+illetékes megyei ügyintéző szervezeténél (a továbbiakban: kiállító)”szövegrész,
+b) 2. § (5) bekezdésében az„a kiállítónál”szövegrész,
+c) 5. § (3) bekezdésében az „és a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint
+e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 44. § (2) bekezdésében”szövegrész,
+d) 13. § (1) bekezdés b) pontjában a „vagy a családi gazdaság nyilvántartásba vételéről szóló határozatot,”
+szövegrész.
+5. Záró rendelkezés
+8. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 203/2016. (VII. 21.) Korm. rendelethez
+Az ŐKr. 1. melléklete a következő 1.4. és 1.5. ponttal egészül ki:
+(Az igazolványon megjelenő külső adattartalom)
+„1.4. Az igazolvány nyomdai sorszáma
+1.5. Az igazolvány impresszumszáma”
+2. melléklet a 203/2016. (VII. 21.) Korm. rendelethez
+Az ŐKr. 3. melléklet IV. pontja helyébe a következő pont lép:
+„IV. Egyéb adatok:
+30. az ügyfél élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott azonosító száma
+31. visszatartás, visszavonás
+31.1. oka
+31.2. kezdetének és végének időpontja
+32. elhalálozás
+32.1. ténye
+32.2. dátuma”
