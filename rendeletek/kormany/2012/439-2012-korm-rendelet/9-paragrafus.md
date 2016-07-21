@@ -40,7 +40,7 @@ n) a kérelmező korábbi hulladékgazdálkodási tevékenységéről szóló, 1
 
 o)[^35] nyilatkozatot arról, hogy a kérelmező figyelembe vette-e a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvényben foglaltak szerint a munkaerőpiacon hátrányos helyzetben lévő álláskereső alkalmazásának lehetőségét.
 
-(1a)[^36] Ha a hulladékgazdálkodási engedély iránti kérelem tárgya a Ht. 2. melléklete szerinti D1-D12 ártalmatlanítási műveletek valamelyikét megelőző D8, D9, D13 vagy D14 előkészítő művelet, vagy a Ht. 3. melléklete szerinti R1-R11 hasznosítási műveletek valamelyikét megelőző R12 előkészítő művelet, akkor a kérelemben az adott előkészítő művelet mellett az ahhoz tartozó megfelelő 'E' azonosító kódot is fel kell tüntetni. Az ártalmatlanítást és a hasznosítást megelőző előkészítő műveletek nem kimerítő listáját a 2. melléklet tartalmazza.
+(1a)[^36] Ha a hulladékgazdálkodási engedély iránti kérelem tárgya a hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló 43/2016. (VI. 28.) FM rendelet (a továbbiakban: miniszteri rendelet) 1. melléklete szerinti D1-D12 ártalmatlanítási műveletek valamelyikét megelőző D8, D9, D13 vagy D14 előkészítő művelet, vagy a miniszteri rendelet 2. melléklete szerinti R1-R11 hasznosítási műveletek valamelyikét megelőző R12 előkészítő művelet, akkor a kérelemben az adott előkészítő művelet mellett az ahhoz tartozó megfelelő 'E' azonosító kódot is fel kell tüntetni. Az ártalmatlanítást és a hasznosítást megelőző előkészítő műveletek nem teljes listáját a 2. melléklet tartalmazza.
 
 (2) A kezelési műveletek végzésére vonatkozó hulladékgazdálkodási engedély a Ht.-ben meghatározottak mellett az alábbiakat tartalmazza:
 
@@ -60,11 +60,11 @@ g) a kezelési művelet ellátásához szükséges pénzügyi eszközöket, szem
 
 h) a hibás működés és a káresemény (havária) esetére vonatkozó előírásokat,
 
-i)[^39] a Ht. 2. melléklete szerinti D1-D12 ártalmatlanítási műveletek valamelyikét megelőző D8, D9, D13 vagy D14 előkészítő művelet, vagy a Ht. 3. melléklete szerinti R1-R11 hasznosítási műveletek valamelyikét megelőző R12 előkészítő művelet esetén az adott előkészítő művelethez tartozó e rendelet szerinti 2. mellékletben meghatározott megfelelő 'E' azonosító kódot.
+i)[^39] a miniszteri rendelet 1. melléklete szerinti D1-D12 ártalmatlanítási műveletek valamelyikét megelőző D8, D9, D13 vagy D14 előkészítő művelet, vagy a miniszteri rendelet 2. melléklete szerinti R1-R11 hasznosítási műveletek valamelyikét megelőző R12 előkészítő művelet esetén az adott előkészítő művelethez tartozó e rendelet szerinti 2. mellékletben meghatározott megfelelő 'E' azonosító kódot.
 
 (3) Ha az (1) bekezdés g) pontjában meghatározottak értékelése során a hasznosítási technológia kisebb környezetterhelése, hatékonyabb anyag- és energiafelhasználása a rendelkezésre álló hulladékártalmatlanítási megoldásokhoz viszonyítva nem igazolható, hasznosításra vonatkozó hulladékgazdálkodási engedély nem adható.
 
-(4)[^40] A Ht. 2. mellékletében meghatározott D12 ártalmatlanítási művelet végzésére hulladékgazdálkodási engedély kizárólag akkor adható, ha a hulladék kezelése a rendelkezésre álló kezelési kapacitás vagy elérhető technológia hiánya miatt nem lehetséges.
+(4)[^40] A miniszteri rendelet 1. mellékletében meghatározott D12 ártalmatlanítási művelet végzésére hulladékgazdálkodási engedély kizárólag akkor adható, ha a hulladék kezelése a rendelkezésre álló kezelési kapacitás vagy elérhető technológia hiánya miatt nem lehetséges.
 
 [^25]: A 9. § (1) bekezdés a) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 11. pontja szerint módosított szöveg.
 [^26]: A 9. § (1) bekezdés b) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 12. pontja szerint módosított szöveg.
@@ -77,8 +77,8 @@ i)[^39] a Ht. 2. melléklete szerinti D1-D12 ártalmatlanítási műveletek vala
 [^33]: A 9. § (1) bekezdés j) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 18. pontja szerint módosított szöveg.
 [^34]: A 9. § (1) bekezdés k) pontja a 370/2014. (XII. 30.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^35]: A 9. § (1) bekezdés o) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 19. pontja szerint módosított szöveg.
-[^36]: A 9. § (1a) bekezdését a 310/2014. (XII. 11.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^36]: A 9. § (1a) bekezdését a 310/2014. (XII. 11.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 196/2016. (VII. 13.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
 [^37]: A 9. § (2) bekezdés b) pontja a 370/2014. (XII. 30.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^38]: A 9. § (2) bekezdés c) pontja a 370/2014. (XII. 30.) Korm. rendelet 12. § 20. pontja szerint módosított szöveg.
-[^39]: A 9. § (2) bekezdés i) pontját a 310/2014. (XII. 11.) Korm. rendelet 12. § (3) bekezdése iktatta be.
-[^40]: A 9. § (4) bekezdését a 370/2014. (XII. 30.) Korm. rendelet 8. § (4) bekezdése iktatta be.
+[^39]: A 9. § (2) bekezdés i) pontját a 310/2014. (XII. 11.) Korm. rendelet 12. § (3) bekezdése iktatta be, szövege a 196/2016. (VII. 13.) Korm. rendelet 2. § b) pontja szerint módosított szöveg.
+[^40]: A 9. § (4) bekezdését a 370/2014. (XII. 30.) Korm. rendelet 8. § (4) bekezdése iktatta be, szövege a 196/2016. (VII. 13.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
