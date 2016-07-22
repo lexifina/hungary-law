@@ -4,7 +4,7 @@
 
 a) a mezőgazdasági őstermelő által értékesíteni kívánt, vagy értékesített őstermelői termék származását ellenőrizni;
 
-b) a mezőgazdasági őstermelő igazolványát és értékesítési betétlapját, vagy a családi gazdaság nyilvántartásba vételéről szóló határozatot, valamint a személyazonosító igazolványát vagy egyéb, a személyazonosság igazolására alkalmas okmányát elkérni, abba betekinteni;
+b)[^9] a mezőgazdasági őstermelő igazolványát és értékesítési betétlapját, valamint a személyazonosító igazolványát vagy egyéb, a személyazonosság igazolására alkalmas okmányát elkérni, abba betekinteni;
 
 c) az őstermelői tevékenység végzésének helyszínén és az értékesítés helyszínén ellenőrzést tartani;
 
@@ -23,3 +23,5 @@ ed) olyan terméket értékesített vagy kívánt értékesíteni, amit a Nyilv�
 ee) a 12. § (1)–(3) bekezdése alapján rá vonatkozó előírások valamelyikét megszegi.
 
 (2) Az (1) bekezdés d) pontja szerinti visszatartás tényét a megyei kormányhivatal haladéktalanul rögzíti a Nyilvántartásban.
+
+[^9]: A 13. § (1) bekezdés b) pontja a 203/2016. (VII. 21.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.

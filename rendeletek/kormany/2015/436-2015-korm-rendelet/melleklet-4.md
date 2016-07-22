@@ -18,7 +18,7 @@
 
 ## 8. az ügyfél Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben tárolt ügyfél-azonosítója (amennyiben a kérelmében szerepel)
 
-## 9. az ügyfél lakcíme
+## 9.[^16] az ügyfél bejelentett lakóhelye
 
 ## 10. az ügyfél tartózkodási helye (amennyiben a kérelmében szerepel)
 
@@ -118,20 +118,23 @@
 
 ## 29. az értékesítési betétlap kiadásának oka
 
-## IV. Egyéb adatok:
+## IV.[^17] Egyéb adatok:
 
-## 30. a tárgyévben választott adózási mód
+## 30. az ügyfél élelmiszerlánc-felügyeleti információs rendszerben nyilvántartott azonosító száma
 
-## 31. az ügyfél biztosítási jogviszonyára vonatkozó adat
+## 31. visszatartás, visszavonás
 
-## 31.1. mezőgazdasági őstermelőként biztosított
+## 31.1. oka
 
-## 31.2. egyéb jogviszonyban biztosított
+## 31.2. kezdetének és végének időpontja
 
-## 32. Visszatartás, visszavonás
+## 32. elhalálozás
 
-## 32.1. oka
+## 32.1. ténye
 
-## 32.2. kezdete és vége
+## 32.2. dátuma
 
 4. melléklet a 436/2015. (XII. 28.) Korm. rendelethez
+
+[^16]: A 3. melléklet 9. pontja a 203/2016. (VII. 21.) Korm. rendelet 6. § g) pontja szerint módosított szöveg.
+[^17]: A 3. melléklet IV. pontja a 203/2016. (VII. 21.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.

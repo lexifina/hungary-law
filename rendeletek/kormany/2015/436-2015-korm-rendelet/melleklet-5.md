@@ -1,6 +1,6 @@
 ## A mezőgazdasági őstermelő és a mezőgazdasági őstermelővel közös igazolványt igénylő nyilvántartásba vétele, valamint a nyilvántartásba vett adatok módosítása iránti kérelem adattartalma
 
-## 1. A 3. melléklet 1–4., 6–11., 16–25. és 29–31. pontja szerinti adatok
+## 1.[^18] A 3. melléklet 1–4., 6–11., 16–25. és 29. pontja szerinti adatok
 
 ## 2. A kérelem típusa
 
@@ -26,7 +26,7 @@
 
 Az ideiglenes igazolvány adattartalma
 
-1. A 3. melléklet 1–11. és 13–31. pontja szerinti adatok
+1.[^19] A 3. melléklet 1–29. pontja szerinti adatok
 
 2. Az igazolvány típusa (őstermelői igazolvány vagy közös őstermelői igazolvány)
 
@@ -37,3 +37,6 @@ Az ideiglenes igazolvány adattartalma
 5. Nyilatkozat betétlapok átvételéről
 
 6. Tájékoztatás elveszett, megtalált igazolvány leadására vonatkozóan
+
+[^18]: A 4. melléklet 1. pontja a 203/2016. (VII. 21.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
+[^19]: Az 5. melléklet 1. pontja a 203/2016. (VII. 21.) Korm. rendelet 6. § i) pontja szerint módosított szöveg.
