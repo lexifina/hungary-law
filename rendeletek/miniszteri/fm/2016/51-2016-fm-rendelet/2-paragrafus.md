@@ -1,0 +1,1 @@
+## „(3b) Nyúl állatfaj vonatkozásában elvégzett, C001 technikai kóddal jelölt, kapcsolódó állat-egészségügyi szolgáltatás elvégzése esetén belföldi vágóhídra történő szállítás során az engedélyesnek az „Állategészségügyi bizonyítvány a gazdaságból” című nyomtatvány másolatát, külföldre történő szállítás esetén a Traces bizonyítvány másolatát kell csatolnia.”
