@@ -26,7 +26,7 @@
 
 ## ** Esemény dátuma: Csak igénybevett ellátás estén kitöltendő.
 
-8. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^70]
+8. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^68]
 
 Várólista jelentés az országos várólista nyilvántartást vezető szerv részére
 
@@ -92,7 +92,7 @@ Várólista eset teljesítési adatai:
 
 27 Tényleges OENO kód és név (elsődleges ellátásé)
 
-27/a[^71] Oldaliság jele a tényleges ellátásnál (páros szerven végezhető eljárás esetén) (J/B/P/N)
+27/a[^69] Oldaliság jele a tényleges ellátásnál (páros szerven végezhető eljárás esetén) (J/B/P/N)
 
 28 Ellátó intézmény kódja
 
@@ -102,17 +102,17 @@ Várólista eset teljesítési adatai:
 
 31 Ellátás törzsszáma vagy naplósorszáma
 
-Külföldiek várólista regisztrálásának adatai:[^72]
+Külföldiek várólista regisztrálásának adatai:[^70]
 
-32[^73] Biztosítás, ennek hiányában állampolgárság országa
+32[^71] Biztosítás, ennek hiányában állampolgárság országa
 
-33[^74] A külföldi beteg biztosítási azonosítási száma, ennek hiányában személyazonosítási okmány azonosítója
+33[^72] A külföldi beteg biztosítási azonosítási száma, ennek hiányában személyazonosítási okmány azonosítója
 
-34[^75] Ellátást engedélyező dokumentum típusa (ha rendelkezésre áll)
+34[^73] Ellátást engedélyező dokumentum típusa (ha rendelkezésre áll)
 
-[^70]: A 8. számú mellékletet a 92/2012. (IV. 27.) Korm. rendelet 21. § (2) bekezdése iktatta be.
-[^71]: A 8. számú melléklet 27a. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
-[^72]: A 8. számú melléklet 32. sorát megelőző alcímet az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
-[^73]: A 8. számú melléklet 32. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
-[^74]: A 8. számú melléklet 33. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
-[^75]: A 8. számú melléklet 34. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
+[^68]: A 8. számú mellékletet a 92/2012. (IV. 27.) Korm. rendelet 21. § (2) bekezdése iktatta be.
+[^69]: A 8. számú melléklet 27a. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
+[^70]: A 8. számú melléklet 32. sorát megelőző alcímet az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
+[^71]: A 8. számú melléklet 32. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
+[^72]: A 8. számú melléklet 33. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.
+[^73]: A 8. számú melléklet 34. sorát az 550/2013. (XII. 30.) Korm. rendelet 44. § (2) bekezdése iktatta be.

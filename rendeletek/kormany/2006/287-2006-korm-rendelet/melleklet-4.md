@@ -111,4 +111,4 @@
 4. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^65]
 
 [^64]: A 3. számú melléklet A) rész 4. pontja a 172/2016. (VII. 1.) Korm. rendelet 28. §-a szerint módosított szöveg.
-[^65]: A 4. számú melléklet a 370/2007. (XII. 23.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^65]: A 4. számú melléklet a 204/2016. (VII. 21.) Korm. rendelet 7. §-ával megállapított szöveg.
