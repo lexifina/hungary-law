@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-1144-30
 | 2013-09-26 | 2010-1144-30-22.7 | 1669/2013. (IX. 25.) Korm. határozat |
 | 2013-12-31 | 2010-1144-30-22.8 | 2037/2013. (XII. 30.) Korm. határozat |
 | 2015-09-14 | 2010-1144-30-22.9 | 1654/2015. (IX. 14.) Korm. határozat |
+| 2016-07-22 | 2010-1144-30-22.10 | 1399/2016. (VII. 21) Korm. határozat |
