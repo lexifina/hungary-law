@@ -6,7 +6,7 @@
 
 | 3. | 100 millió forint | kiskérődző, nyúl, strucc, szürkemarha, prémesállat, juh- és kecsketej, gyapjú, méhészet, szőlő-bor, szója, burgonya, ökológiai termék, faiskolai termék és szaporítóanyag, erdei fa és egyéb termék, lőtt vad és hullott agancs, bioenergetika, virág- és dísznövény, fűszer- és gyógynövény, tönköly- és durumbúza, rizs, dohány, húsmarha, vágó ló |
 
-| 4. | 300 millió forint | zöldség-gyümölcs, baromfi, szántóföldi növénytermesztés, cukorrépa, tehéntej |
+| 4. | 300 millió forint | zöldség-gyümölcs, baromfi, szántóföldi növénytermesztés, cukorrépa, tehéntej, csemegekukorica |
 
 | 5. | 2 milliárd forint | sertés |
 
