@@ -1,0 +1,9 @@
+# 21/2016. (VII. 21.) MvM rendelet
+
+a Magyarország Európai Unió melletti Állandó Képviseletén tartós külszolgálatot teljesítő diplomaták és szakdiplomaták alapellátmányának összegéről és azok kifizetéséről szóló 2/2015. (I. 14.) MvM rendelet módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-21-20-6N
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-07-22 | 2016-21-20-6N.1 | 21/2016. (VII. 21.) MvM rendelet |
