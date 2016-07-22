@@ -140,4 +140,6 @@ Felelős: az 1–6. pontban felelősként megjelölt miniszterek
 
 Határidő: azonnal
 
-8. A Magyarország Kormánya és Veszprém Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1284/2016. (VI. 7.) Korm. határozat 3. pont a) alpontjában a „nemzetgazdasági miniszter” szövegrész helyébe a „nemzeti fejlesztési miniszter” szöveg lép.
+8.[^1]
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
