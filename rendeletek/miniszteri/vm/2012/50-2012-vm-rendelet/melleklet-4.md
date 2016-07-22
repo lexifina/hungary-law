@@ -76,7 +76,7 @@
 
 |  | 12. | Zöldborsó | 3 dkg (szemes) |
 
-## 2. A kóstoltatott termékek között az a termék nem szerepelhet, amely az iskolagyümölcs-program keretében támogatott termékként kiosztásra kerül.
+## 2. A kóstoltatott termékek között az a termék nem szerepelhet, amely az iskolagyümölcs-program keretében az adott teljesítési időszak során támogatott termékként kiosztásra kerül.
 
 ## 3. A kóstoltatás végezhető zöldség-gyümölcs termelőkhöz, termelői csoportokhoz, termelői szervezetekhez, termelőkhöz szervezett tanulmányutak keretében, vagy a köznevelési intézmény által rendezett rendezvények, alkalmak keretében.
 

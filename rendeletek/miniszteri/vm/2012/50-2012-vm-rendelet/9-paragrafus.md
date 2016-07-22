@@ -1,4 +1,4 @@
-## 8/A. §[^39] Támogatást igényelhet az a kérelmező is, valamint a támogatás annak a kérelmezőnek is kifizetésre kerülhet aki, vagy amely felszámolási, végelszámolási, adósságrendezési eljárás alatt áll, feltéve, hogy a rendeletben meghatározott egyéb feltételeknek megfelel.
+## 8/A. §[^40] Támogatást igényelhet az a kérelmező is, valamint a támogatás annak a kérelmezőnek is kifizetésre kerülhet aki, vagy amely felszámolási, végelszámolási, adósságrendezési eljárás alatt áll, feltéve, hogy a rendeletben meghatározott egyéb feltételeknek megfelel.
 
 ## 7. A támogatott termék
 
@@ -6,4 +6,4 @@
 
 (2) A támogatott termék elszámolási egysége: adag.
 
-[^39]: A 8/A. §-t a 97/2013. (X. 22.) VM rendelet 28. §-a iktatta be.
+[^40]: A 8/A. §-t a 97/2013. (X. 22.) VM rendelet 28. §-a iktatta be.
