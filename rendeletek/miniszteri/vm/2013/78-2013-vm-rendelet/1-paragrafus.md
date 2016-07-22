@@ -14,11 +14,11 @@
 
 5. KN: a vám- és a statisztikai nómenklatúráról, valamint a Közös Vámtarifáról szóló, 1987. július 23-i 2658/87/EGK tanácsi rendelet szerinti kombinált nómenklatúra;
 
-6.[^3] mezőgazdasági csekély összegű (de minimis) támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet) szerinti támogatás;
+6.[^3] mezőgazdasági csekély összegű támogatás: az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet) szerinti támogatás;
 
 7.[^4] szaporítóanyag: hazai és import kansperma;
 
-8. sertés ENAR: a sertések jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 116/2003. (XI. 18.) FVM rendelet [a továbbiakban: 116/2003. (XI. 18.) FVM rendelet] 2. § 10. pontja szerinti fogalom;
+8.[^5] sertés ENAR: a sertések jelöléséről, valamint Egységes Nyilvántartási és Azonosítási Rendszeréről szóló 83/2015. (XII. 16.) FM rendelet [a továbbiakban: 83/2015. (XII. 16.) FM rendelet] 1. § (1) bekezdés 4. pontja szerinti fogalom;
 
 9. Sertés Törzskönyvi Adatbázis: a tenyésztő szervezeti- és fajtaelismerés rendjéről szóló 123/2005. (XII. 27.) FVM rendelet 12. §-a szerinti, a tenyésztési hatóság által hitelesített, a törzskönyvezést végző tenyészetek, valamint a Magyarországon törzskönyvezett fajtatiszta sertések törzskönyvi adatait tartalmazó adatbázis;
 
@@ -32,5 +32,6 @@
 
 [^1]: Az 1. § 2a. pontját az 52/2015. (IX. 7.) FM rendelet 15. § (1) bekezdése iktatta be.
 [^2]: Az 1. § 3. pontja a 22/2014. (XI. 3.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § 6. pontja az 52/2015. (IX. 7.) FM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § 6. pontja az 52/2015. (IX. 7.) FM rendelet 15. § (2) bekezdésével megállapított, az 51/2016. (VII. 21.) FM rendelet 14. § a) pontja szerint módosított szöveg.
 [^4]: Az 1. § 7. pontját a 36/2014. (IV. 4.) VM rendelet 91. §-a hatályon kívül helyezte, újonnan a 22/2014. (XI. 3.) FM rendelet 1. § (2) bekezdése iktatta be.
+[^5]: Az 1. § 8. pontja az 51/2016. (VII. 21.) FM rendelet 14. § b) pontja szerint módosított szöveg.

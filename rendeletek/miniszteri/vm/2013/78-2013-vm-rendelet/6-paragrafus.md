@@ -6,6 +6,6 @@
 
 (3) A támogatás összegének euróra történő átváltásakor a 7. § (6) bekezdése szerinti forint/euró árfolyam alkalmazandó.
 
-(4)[^25] Az állattartó a tenyészsertések, szaporítóanyag és az eszközök beszerzését a támogatási kérelem benyújtását követően kezdheti meg.
+(4)[^31] Az állattartó a tenyészsertések, szaporítóanyag és az eszközök beszerzését a támogatási kérelem benyújtását követően kezdheti meg.
 
-[^25]: A 6. § (4) bekezdése a 22/2014. (XI. 3.) FM rendelet 6. §-ával megállapított szöveg.
+[^31]: A 6. § (4) bekezdése a 22/2014. (XI. 3.) FM rendelet 6. §-ával megállapított szöveg.

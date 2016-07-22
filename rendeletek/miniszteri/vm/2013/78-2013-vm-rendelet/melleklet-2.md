@@ -1,4 +1,4 @@
-2. melléklet a 78/2013. (IX. 10.) VM rendelethez[^31]
+2. melléklet a 78/2013. (IX. 10.) VM rendelethez[^38]
 
 A támogatás maximális mértéke
 
@@ -108,4 +108,8 @@ A támogatás maximális mértéke
 
 | 48. | Hőlégfúvó | 150 000 |
 
-[^31]: A 2. melléklet a 22/2014. (XI. 3.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.
+| 49. | Füljelző behelyező fogó | 15 000 |
+
+| 50. | Elektronikus füljelző leolvasó | 1 000 000 |
+
+[^38]: A 2. melléklet a 22/2014. (XI. 3.) FM rendelet 8. § (2) bekezdésével megállapított, az 51/2016. (VII. 21.) FM rendelet 13. §-a szerint módosított szöveg.
