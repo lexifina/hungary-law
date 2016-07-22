@@ -10,7 +10,7 @@
 
 | 5. | A003 | Enzootiás szarvasmarha-leukózis | szarvasmarha | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
 
-| 6. | B002 | IBR/IPV | szarvasmarha | Immunizálás: Kis létszámú állattartó telep: 1400 Ft/egyed/alkalom Nagylétszámú állattartó telep: 400 Ft/egyed/alkalom Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: Elisa, VN: 1120 Ft PCR: 5500 Ft |
+| 6. | B002 | IBR/IPV | szarvasmarha | Immunizálás: Kis létszámú állattartó telep: 1400 Ft/egyed/alkalom Nagylétszámú állattartó telep: 400 Ft/egyed/alkalom Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: Elisa, VN: 1120 Ft, PCR: 5500 Ft |
 
 | 7. | A004 | Juh/Kecske Brucellózis (Brucella melitensis) | juh, kecske | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
 
@@ -20,7 +20,7 @@
 
 | 10. | B004 | Salmonella gallinarum | házityúk | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–100. egyed: 140 Ft minden további egyed: 28 Ft Laboratóriumi diagnosztikai vizsgálat: 500 Ft |
 
-| 11. | A006 | Klasszikus sertéspestis | sertés, vaddisznó | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: Elisa: 1540 Ft PCR: 5500 Ft |
+| 11. | A006 | Klasszikus sertéspestis | sertés, vaddisznó | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: Elisa: 1540 Ft, PCR: 5500 Ft |
 
 | 12. | B005 | Afrikai sertéspestis | sertés, vaddisznó | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 9800 Ft |
 
@@ -44,11 +44,11 @@
 
 | 22. | A011 | PRRS | sertés | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: Elisa: 1820 Ft, PCR: 5500 Ft |
 
-| 23. | C001 | Kapcsolódó állat-egészségügyi szolgáltatás, gyógykezelés, immunizálás | baromfi és szarvasmarha sertés (tenyészkoca) | Szolgáltatási díj és anyagköltség: legfeljebb 4200 Ft/vágóhídra szállított állategység (ÁE)** Legalább egyszer fialt koca után havonta 2100 Ft/egyed |
+| 23. | C001 | Kapcsolódó állat-egészségügyi szolgáltatás, gyógykezelés, immunizálás | baromfi és szarvasmarha, házinyúl, sertés (tenyészkoca) | Szolgáltatási díj és anyagköltség: legfeljebb 4200 Ft/vágóhídra szállított állategység (ÁE)** Legalább egyszer fialt koca után havonta 2100 Ft/egyed |
 
-| 24. | B012 | Myxomatózis elleni vakcinázás | házinyúl | Vakcinázás: 140 Ft/alkalom/egyed |
+| 24. | B012 | Myxomatózis elleni vakcinázás | házinyúl | Vakcinázás: 250 Ft/alkalom/egyed |
 
-| 25. | B013 | Nyulak vérzéses betegsége (RHDV) elleni vakcinázás | házinyúl | Vakcinázás: 140 Ft/alkalom/egyed |
+| 25. | B013 | Nyulak vérzéses betegsége (RHDV) elleni vakcinázás | házinyúl | Vakcinázás: 250 Ft/alkalom/egyed |
 
 | 26. | E001 | Takonykór (Malleus) | egypatások | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: KK: 1000 Ft |
 
@@ -58,7 +58,7 @@
 
 | 29. | F002 | Maedi-visna | juh, kecske | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1000 Ft |
 
-| 30. | F003 | Mycoplasma agalactiae (kecske és juh fertőző elapasztása) | kecske (tenyészbak import, bejelentett mentesítés esetén) | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat:1450 Ft |
+| 30. | F003 | Mycoplasma agalactiae (kecske és juh fertőző elapasztása) | kecske (tenyészbak import, bejelentett mentesítés esetén) | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1450 Ft |
 
 | 31. | F004 | Chlamydophila abortus | juh, kecske (tenyészkos/-bak) | Mintavétel: Gazdaságonkénti első egyed: 2100 Ft 2–5. egyed: 1400 Ft minden további egyed: 560 Ft Laboratóriumi diagnosztikai vizsgálat: 1400 Ft |
 
@@ -80,9 +80,11 @@
 
 ## – A pulyka esetében a baromfi ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 139/2007. (XI. 28.) FVM rendelet 1. számú melléklete szerint: 0,0067 ÁE.
 
+## – Nyúl esetében az átlagos állatsűrűség megállapításának szabályairól szóló 57/2014. (IV. 30.) VM rendelet 1. mellékletének 12. sora alapján: 0,002 ÁE.
+
 ## Mintavételi eljárások esetében, amennyiben az állatokat többféle betegség kapcsán szeretnék bevizsgálni, azt csak egyszeri vérvétellel lehet megtenni (többszörös vérvétel nem számolható el).
 
-2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^81]
+2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^83]
 
 ## Jóváhagyási kérelem adattartalma
 
@@ -142,11 +144,11 @@
 
 4.6. arról, hogy az állat-egészségügyi szaktanácsadási tevékenységre vonatkozó támogatás igényelése esetén rendelkezik az állatállomány állat-egészségügyi ellátására vonatkozó írásbeli szerződéssel.
 
-4.7.[^82] arról, hogy a kérelmezővel szemben nincs érvényben valamely támogatás visszafizetésére kötelező olyan európai bizottsági határozat, amely a kérelmező támogatásban részesítését jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította;
+4.7.[^84] arról, hogy a kérelmezővel szemben nincs érvényben valamely támogatás visszafizetésére kötelező olyan európai bizottsági határozat, amely a kérelmező támogatásban részesítését jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította;
 
-4.8.[^83] arról, hogy a mezőgazdasági csekély összegű támogatás igénylése esetén a kérelmező nem minősül a 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti nehéz helyzetben lévő vállalkozásnak;
+4.8.[^85] arról, hogy a mezőgazdasági csekély összegű támogatás igénylése esetén a kérelmező nem minősül a 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti nehéz helyzetben lévő vállalkozásnak;
 
-4.9.[^84] arról, hogy ha a 3. pont 3. és 4. alpontjában a D001 és D002 technikai kódú betegség került megjelölésre, akkor
+4.9.[^86] arról, hogy ha a 3. pont 3. és 4. alpontjában a D001 és D002 technikai kódú betegség került megjelölésre, akkor
 
 a) a kérelmező a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-ei 1379/2013/EU európai parlamenti és tanácsi rendelet 5. cikk b) pontja szerinti terméket előállító vállalkozásnak minősül, és
 
@@ -160,7 +162,7 @@ b) a kérelmező az állategészségügyi szolgáltatást nem genetikailag módo
 
 A hatósági állatorvos igazolása a hazai és közösségi állat-egészségügyi és állatjóléti jogszabályok által előírt feltételek teljesítéséről.
 
-[^81]: A 2. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés b) pontjável megállapított szöveg.
-[^82]: A 2. melléklet 4. pont 4.7. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
-[^83]: A 2. melléklet 4. pont 4.8. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
-[^84]: A 2. melléklet 4. pont 4.9. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^83]: A 2. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés b) pontjável megállapított szöveg.
+[^84]: A 2. melléklet 4. pont 4.7. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^85]: A 2. melléklet 4. pont 4.8. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^86]: A 2. melléklet 4. pont 4.9. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.

@@ -1,13 +1,13 @@
-## 9/D. §[^70]
+## 9/D. §[^71]
 
-## 10. §[^71] E rendelet
+## 10. §[^72] E rendelet
 
 a) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet, és
 
 b) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet
 
-c)[^72] az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. december 16-i 1388/2014/EU bizottsági rendelet
+c)[^73] az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. december 16-i 1388/2014/EU bizottsági rendelet
 
-[^70]: A 9/D. §-t a 33/2014. (IV. 4.) VM rendelet 25. §-a iktatta be, hatályon kívül helyezte a 24/2014. (XI. 6.) FM rendelet 11. § f) pontja.
-[^71]: A 10. § a 40/2015. (VII. 13.) FM rendelet 2. § (8) bekezdésével megállapított szöveg.
-[^72]: A 10. § c) pontját a 4/2016. (I. 20.) FM rendelet 6. §-a iktatta be.
+[^71]: A 9/D. §-t a 33/2014. (IV. 4.) VM rendelet 25. §-a iktatta be, hatályon kívül helyezte a 24/2014. (XI. 6.) FM rendelet 11. § f) pontja.
+[^72]: A 10. § a 40/2015. (VII. 13.) FM rendelet 2. § (8) bekezdésével megállapított szöveg.
+[^73]: A 10. § c) pontját a 4/2016. (I. 20.) FM rendelet 6. §-a iktatta be.
