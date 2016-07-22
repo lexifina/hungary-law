@@ -1,4 +1,4 @@
-4. melléklet a 7/2015. (III. 11.) FM rendelethez[^42]
+4. melléklet a 7/2015. (III. 11.) FM rendelethez[^48]
 
 A takarmányozáshoz használt itatóvíz ivóvíz minőségének feltételei
 
@@ -14,4 +14,4 @@ A takarmányozáshoz használt itatóvíz ivóvíz minőségének feltételei
 
 2. Ha az állattartó telepen az állatok vízellátása vezetékes vízhálózatról történik, akkor a takarmányozáshoz használt itatóvizet ivóvíz minőségűnek kell tekinteni, ha az ügyfél az adott támogatási évre vonatkozó – ezen tevékenység tekintetében – első tárgynegyedévi kifizetési kérelemhez csatolja a vízszolgáltató írásos nyilatkozatának eredeti példányát – amely nem lehet korábbi a támogatási kérelem benyújtásának idejénél – arról, hogy az általa szolgáltatott víz ivóvíz minőségű.
 
-[^42]: A 4. melléklet a 25/2016. (IV. 11.) FM rendelet 38. §-ával megállapított szöveg.
+[^48]: A 4. melléklet a 25/2016. (IV. 11.) FM rendelet 38. §-ával megállapított szöveg.

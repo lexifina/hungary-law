@@ -6,8 +6,8 @@
 
 (3) Az ügyfélnek az általa takarmányozáshoz használt víz (1) bekezdés szerinti feltételnek való megfelelését évente ellenőriztetnie kell ivóvízvizsgálatra akkreditált laboratóriummal.
 
-(4)[^29] A kifizetési kérelemhez csatolni kell a 4. mellékletben meghatározott dokumentumok valamelyikét. Az adott támogatási évre vonatkozó vízmintavétel időpontja nem lehet korábbi a támogatási kérelem benyújtásának időpontjánál.
+(4)[^32] A kifizetési kérelemhez csatolni kell a 4. mellékletben meghatározott dokumentumok valamelyikét. Az adott támogatási évre vonatkozó vízmintavétel időpontja nem lehet korábbi a támogatási kérelem benyújtásának időpontjánál.
 
 (5) Az ügyfél a sertés ágazatban igénybe vehető állatjóléti támogatások feltételeiről szóló 140/2007. (XI. 28.) FVM rendelet 7. § (4) bekezdése szerinti igazolást is csatolhatja, amennyiben az megfelel a (4) bekezdésében foglalt követelményeknek.
 
-[^29]: A 10. § (4) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § j) pontja szerint módosított szöveg.
+[^32]: A 10. § (4) bekezdése a 92/2015. (XII. 23.) FM rendelet 7. § j) pontja szerint módosított szöveg.
