@@ -26,7 +26,11 @@ h)[^7] társult szervezet: a KAVOSZ Zrt.-vel társulási megállapodást kötöt
 
 i)[^8] Üzletszabályzat: a Széchenyi Kártya Programon belül kiadott, az Agrár Széchenyi Kártya Konstrukciók részletes szabályait tartalmazó, mindenkori hatályos, a KAVOSZ Pénzügyi Szolgáltatásokat Közvetítő Zártkörűen Működő Részvénytársaság (a továbbiakban: KAVOSZ Zrt.) honlapján közzétett üzletszabályzat;
 
-j)[^9] bírálati díj: a hitelszerződés megkötésekor hatályos üzletszabályzat szerint a hitelintézetek által kártyadíj, bírálati díj, illetve keretbeállítási jutalék jogcímen beszedett díjtétel.
+j)[^9] bírálati díj: a hatályos üzletszabályzat szerint a hitelszerződés megkötésekor és felülvizsgálatakor a hitelintézet által a hitel biztosításának ellenértékeként beszedett díjtétel (különösen: kártyadíj, bírálati díj, keretbeállítási jutalék);
+
+k)[^10] átlagos hitelösszeg: az adott kamatperiódusban a szerződött hitelkeret alapján ténylegesen igénybevett kölcsön átlagszámítás szabályai szerint számított átlagos napi összege;
+
+l)[^11] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
 
 [^1]: Az 1. § b) pont ba) pontja a 36/2014. (IV. 4.) VM rendelet 52. §-ával megállapított szöveg.
 [^2]: Az 1. § b) pont bb) pontja a 36/2014. (IV. 4.) VM rendelet 52. §-ával megállapított szöveg.
@@ -36,4 +40,6 @@ j)[^9] bírálati díj: a hitelszerződés megkötésekor hatályos üzletszabá
 [^6]: Az 1. § g) alpontja a 18/2014. (X. 29.) FM rendelet 16. § (2) bekezdésével megállapított szöveg.
 [^7]: Az 1. § h) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
 [^8]: Az 1. § i) pontja a 139/2012. (XII. 22.) VM rendelet 21. § (2) bekezdése szerint módosított szöveg.
-[^9]: Az 1. § j) pontját a 77/2015. (XII. 1.) FM rendelet 13. § (1) bekezdése iktatta be.
+[^9]: Az 1. § j) pontját a 77/2015. (XII. 1.) FM rendelet 13. § (1) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 5. §-ával megállapított szöveg.
+[^10]: Az 1. § k) pontját az 51//2016. (VII. 21.) FM rendelet 5. §-a iktatta be.
+[^11]: Az 1. § l) pontját az 51//2016. (VII. 21.) FM rendelet 5. §-a iktatta be.
