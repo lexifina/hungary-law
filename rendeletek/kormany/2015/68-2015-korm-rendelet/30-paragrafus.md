@@ -1,4 +1,4 @@
-## 29/B. §[^11] A hígtrágya nitrátérzékeny területen történő mezőgazdasági felhasználásával kapcsolatos ellenőrzési eljárásban a felszín alatti vizek minőségének védelme kérdésében a területi vízvédelmi hatóság jár el.
+## 29/B. §[^12] A hígtrágya nitrátérzékeny területen történő mezőgazdasági felhasználásával kapcsolatos ellenőrzési eljárásban a felszín alatti vizek minőségének védelme kérdésében a területi vízvédelmi hatóság jár el.
 
 ## 30. § A mezőgazdasági célú tereprendezés engedélyezésére irányuló eljárásban, ha a tereprendezés
 
@@ -6,4 +6,4 @@ a) nyomvonaljellegű kőolaj- és földgázbányászati létesítmény, szállí
 
 b) ásványi nyersanyag kitermeléssel jár, szakkérdésként kell vizsgálni a kitermelni tervezett ásványi nyersanyag mennyiségét, fajtáját, felhasználását, a hasznosítás módjának meghatározását, az ásványvagyon-védelmi szempontok érvényesítését, valamint a bányajáradék-fizetési kötelezettséget.
 
-[^11]: A 29/B. §-t a 441/2015. (XII. 28.) Korm. rendelet 245. § (1) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^12]: A 29/B. §-t a 441/2015. (XII. 28.) Korm. rendelet 245. § (1) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
