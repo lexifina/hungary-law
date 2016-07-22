@@ -16,6 +16,17 @@ b) mezőgazdasági csekély összegű támogatás: az Európai Unió működés�
 
 5. támogatástartalom: a 37/2011. (III. 22.) Korm. rendelet 2. § 19. pontja szerinti érték;
 
-6.[^1] vállalkozás: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő, 1. mellékletben meghatározott település valamelyikén mint székhelyen, telephelyen vagy fióktelepen, a 2. mellékletben meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő hitelfelvevő, aki a hitelprogram keretében 2016. június 30-ig megkötött hitelszerződéssel rendelkezik.
+6.[^1] vállalkozás: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő, az 1., illetve 3. mellékletben szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen, a 2. mellékletben meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő hitelfelvevő, aki a hitelprogram keretében
 
-[^1]: Az 1. § 6. pontja a 25/2016. (IV. 11.) FM rendelet 75. § a) pontja szerint módosított szöveg.
+a) kizárólag az 1. mellékletben szereplő település esetén 2016. június 30-áig,
+
+b) kizárólag a 3. mellékletben szereplő település esetén 2016. november 30-áig,
+
+c) az 1. és 3. mellékletben egyaránt szereplő település esetén 2016. november 30-áig
+
+## megkötött hitelszerződéssel rendelkezik;
+
+7.[^2] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
+
+[^1]: Az 1. § 6. pontja az 51/2016. (VII. 21.) FM rendelet 29. §-ával megállapított szöveg.
+[^2]: Az 1. § 7. pontját az 51/2016. (VII. 21.) FM rendelet 29. §-a iktatta be.

@@ -8,6 +8,6 @@ a) a támogatási igényt alátámasztó számlák, számviteli bizonylatok más
 
 b) a 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott nyilatkozatokat.
 
-(3)[^3] A benyújtott számlák, számviteli bizonylatok esetében az ellenérték megfizetésének dátuma legfeljebb tizenöt hónappal lehet korábbi, mint a támogatási kérelem benyújtásának időpontja.
+(3)[^4] A benyújtott számlák, számviteli bizonylatok esetében az ellenérték megfizetésének dátuma legfeljebb tizenöt hónappal lehet korábbi, mint a támogatási kérelem benyújtásának időpontja.
 
-[^3]: A 4. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 75. § b) pontja szerint módosított szöveg.
+[^4]: A 4. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 75. § b) pontja szerint módosított szöveg.

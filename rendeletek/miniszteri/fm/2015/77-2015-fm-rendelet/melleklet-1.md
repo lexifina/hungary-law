@@ -1,6 +1,6 @@
-## 13–16. §[^4]
+## 13–16. §[^5]
 
-1. melléklet a 77/2015. (XII. 1.) FM rendelethez[^5]
+1. melléklet a 77/2015. (XII. 1.) FM rendelethez[^6]
 
 1. Baranya megye (18)
 
@@ -800,5 +800,5 @@ Nagypáli
 
 Tornyiszentmiklós
 
-[^4]: A 13–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^5]: Az 1. melléklet a 25/2016. (IV. 11.) FM rendelet 74. §-ával megállapított szöveg.
+[^5]: A 13–16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: Az 1. melléklet a 25/2016. (IV. 11.) FM rendelet 74. §-ával megállapított szöveg.
