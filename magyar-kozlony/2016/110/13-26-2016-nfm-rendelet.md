@@ -1,0 +1,296 @@
+# A nemzeti fejlesztési miniszter 26/2016. (VII. 22.) NFM rendelete
+
+Magyar Közlöny 2016. évi 110. szám, 2016. július 22. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/77be42482884fcf71e63cdfbf80b44559553a17e/dokumentumok/ff8aa8cc568481a38f36f0770545738c42aba57a/letoltes)
+
+---
+
+A nemzeti fejlesztési miniszter 26/2016. (VII. 22.) NFM rendelete
+a közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet módosításáról
+A közúti közlekedésről szóló 1988. évi I. törvény 48. § (3) bekezdés b) pont 12. alpontjában kapott felhatalmazás alapján,
+a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 109. § 13. pontjában meghatározott
+feladatkörömben eljárva a következőket rendelem el:
+1. § (1) A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet (a továbbiakban: ER.) 2. §
+(8) bekezdés a) pontja helyébe a következő rendelkezés lép:
+[A rendeletben a járművekkel kapcsolatos fogalmakra – az a)–j) pontban foglalt eltéréssel, illetőleg kiegészítésekkel –
+a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendeletben foglaltakat kell alkalmazni. Annak
+megítélése szempontjából, hogy a jármű sík úton önerejéből milyen sebességgel képes haladni, a jármű tervezési
+sebessége az irányadó. A rendelet alkalmazásában:]
+„a)„traktor”: a 167/2013/EU európai parlamenti és tanácsi rendelet 3. cikk 8. pontjában meghatározott fogalom.”
+(2) Az ER. 2. § (11) bekezdés b) és c) pontja helyébe a következő rendelkezések lépnek:
+(E rendelet alkalmazásában
+„EK típusbizonyítvánnyal ellátott jármű”: az a jármű, amelynek típusára vonatkozóan az Európai Gazdasági Térség
+tagállamának jóváhagyó hatósága)
+„b) a B. Függelék, illetve a 168/2013/EU európai parlamenti és tanácsi rendelet alapján, vagy
+c) a C. Függelék, illetve a 167/2013/EU európai parlamenti és tanácsi rendelet alapján”
+(„EK típusjóváhagyó okmány”-t adott ki.)
+2. §
+Az ER. 4/C. § (1a) bekezdése helyébe a következő rendelkezés lép:
+„(1a) Az e §-ban foglaltakat kell alkalmazni a Magyarország területén szolgálati céllal tartózkodó külföldi fegyveres
+erők és a Magyarország területén felállított nemzetközi katonai parancsnokságok Magyarországon szolgálatot
+teljesítő állományok tagjai, valamint azok – a Magyar Köztársaság területén szolgálati céllal tartózkodó külföldi
+fegyveres erők, valamint a Magyar Köztársaság területén felállított nemzetközi katonai parancsnokságok és
+állományuk nyilvántartásáról, valamint jogállásukhoz kapcsolódó egyes rendelkezésekről szóló törvényben
+meghatározott – hozzátartozói használatában lévő járművek forgalomba helyezésének engedélyezési, valamint
+az azt követő időszakos műszaki felülvizsgálati eljárása során mindaddig, amíg a tulajdonos, üzembentartó erre való
+jogosultságát a nemzetközi katonai parancsnokság igazolja.”
+3. § (1) Az ER. 11. § (3) bekezdés b) pontja helyébe a következő rendelkezés lép:
+(Az időszakos vizsgálat határidejét új jármű esetén a forgalomba helyezés napjától, használt jármű esetén a forgalomba
+helyezés előtti vizsgálat napjától számított)
+„b) a motorkerékpárnál, a T1b, T2b, T3b, T4b és T5 járműkategóriába tartozó mezőgazdasági vontatónál,
+a 3500 kg megengedett legnagyobb össztömeget meg nem haladó gépkocsinál, a „méhesházas” különleges
+felépítményű gépkocsinál és ilyen felépítményű pótkocsinál, továbbá a motorkerékpár, a személygépkocsi és a T5
+járműkategóriába tartozó mezőgazdasági vontató pótkocsijánál
+ba) új jármű esetében négy évben,
+bb) használt jármű esetében az első használatba vétel évét követő három naptári éven belül három évben, három
+naptári éven túl két évben,”
+(kell meghatározni.)
+(2) Az ER. 11. § (3) bekezdés e) pontja helyébe a következő rendelkezés lép:
+(Az időszakos vizsgálat határidejét új jármű esetén a forgalomba helyezés napjától, használt jármű esetén a forgalomba
+helyezés előtti vizsgálat napjától számított)
+„e)„OT”betűjelű különleges rendszámmal üzemeltetett muzeális jellegű jármű, valamint a T1, T1a, T2, T2a, T3, T3a, T4
+és T4a járműkategóriába tartozó mezőgazdasági vontató és a kizárólag e járműkategóriákba tartozó mezőgazdasági
+vontatóval vagy lassú járművel vontatható pótkocsi esetében öt évben,”
+(kell meghatározni.)
+4. §
+Az ER. 12. §-a a következő (9a) bekezdéssel egészül ki:
+„(9a) A (9) bekezdés e) pontja alól kivételt képez az a járműre felhelyezett autóüveg fólia, amelyre a közlekedési
+hatóság alkalmazási engedélyt adott.”
+
+5. §
+Az ER. 31. § (2) bekezdése a következő 31–42. ponttal egészül ki:
+(Ez a rendelet)
+„31. a mezőgazdasági és erdészeti járművek jóváhagyásáról és piacfelügyeletéről szóló, 2013. február 5-i 167/2013/EU
+európai parlamenti és tanácsi rendelet,
+32. a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és
+piacfelügyeletéről szóló, 2013. január 15-i 168/2013/EU európai parlamenti és tanácsi rendelet,
+33. a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és
+piacfelügyeletéről szóló 168/2013/EU európai parlamenti és tanácsi rendeletnek a funkcionális járműbiztonsági
+követelményekre való tekintettel történő kiegészítéséről szóló, 2013. október 24-i 3/2014/EU bizottsági
+felhatalmazáson alapuló rendelet;
+34. a 168/2013/EU európai parlamenti és tanácsi rendeletnek a két- vagy háromkerekű járművek és a négykerekű
+motorkerékpárok jóváhagyásához szükséges járműszerkezeti és általános követelmények tekintetében történő
+kiegészítéséről szóló, 2013. november 21-i 44/2014/EU bizottsági felhatalmazáson alapuló rendelet;
+35. a 168/2013/EU európai parlamenti és tanácsi rendeletnek a környezeti teljesítményre, valamint
+a meghajtóegység teljesítményére vonatkozó követelmények tekintetében történő kiegészítéséről, továbbá
+V. mellékletének módosításáról szóló, 2013. december 16-i 134/2014/EU bizottsági felhatalmazáson alapuló
+rendelet;
+36. a gépjárművek zajszintjéről és a csere-hangtompítórendszerekről, és a 2007/46/EK irányelv módosításáról,
+valamint a 70/157/EGK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 540/2014/EU európai parlamenti
+és tanácsi rendelet;
+37. a 168/2013/EU európai parlamenti és tanácsi rendeletnek a két- vagy háromkerekű járművek, valamint
+a négykerekű motorkerékpárok jóváhagyására és piacfelügyeletére vonatkozó közigazgatási követelmények
+tekintetében történő végrehajtásáról szóló, 2014. július 18-i 901/2014/EU bizottsági végrehajtási rendelet;
+38. a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek
+jóváhagyásához szükséges járműszerkezeti és általános követelmények tekintetében történő kiegészítéséről és
+módosításáról szóló, 2014. szeptember 19-i 1322/2014/EU felhatalmazáson alapuló bizottsági rendelet;
+39. a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására
+vonatkozó fékezési követelmények tekintetében történő kiegészítéséről szóló, 2014. október 15-i 2015/68 bizottsági
+(EU) felhatalmazáson alapuló rendelet;
+40. a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek környezeti
+teljesítményére és meghajtóegység-teljesítményére vonatkozó követelmények tekintetében történő kiegészítéséről
+szóló, 2014. október 1-i 2015/96 bizottsági (EU) felhatalmazáson alapuló rendelet;
+41. a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására
+vonatkozó funkcionális járműbiztonsági követelményekre való tekintettel történő kiegészítéséről szóló, 2014.
+december 8-i 2015/208 bizottsági (EU) felhatalmazáson alapuló rendelet;
+42. a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására
+és piacfelügyeletére vonatkozó közigazgatási követelmények tekintetében történő végrehajtásáról szóló, 2015.
+március 11-i 2015/504 bizottsági (EU) végrehajtási rendelet”
+(végrehajtásához szükséges rendelkezéseket állapít meg.)
+6. § (1) Az ER. A. Függeléke az 1. melléklet szerint módosul.
+(2) Az ER. B. Függeléke a 2. melléklet szerint módosul.
+(3) Az ER. C. Függeléke a 3. melléklet szerint módosul.
+7. §
+Hatályát veszti az ER.
+a) 13. § (1a) bekezdésében a„vagy alkalmazási engedélyre”szövegrész,
+b) 31. § (1) bekezdés 2. és 3. pontja.
+8. §
+Ez a rendelet a kihirdetését követő 15. napon lép hatályba.
+9. §
+Ez a rendelet
+a) a mezőgazdasági és erdészeti járművek jóváhagyásáról és piacfelügyeletéről szóló, 2013. február 5-i
+167/2013/EU európai parlamenti és tanácsi rendelet;
+
+b) a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és
+piacfelügyeletéről szóló, 2013. január 15-i 168/2013/EU európai parlamenti és tanácsi rendelet;
+c) a két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok jóváhagyásáról és
+piacfelügyeletéről szóló 168/2013/EU európai parlamenti és tanácsi rendeletnek a funkcionális
+járműbiztonsági követelményekre való tekintettel történő kiegészítéséről szóló, 2013. október 24-i 3/2014/EU
+bizottsági felhatalmazáson alapuló rendelet;
+d) a 168/2013/EU európai parlamenti és tanácsi rendeletnek a két- vagy háromkerekű járművek és a négykerekű
+motorkerékpárok jóváhagyásához szükséges járműszerkezeti és általános követelmények tekintetében
+történő kiegészítéséről szóló, 2013. november 21-i 44/2014/EU bizottsági felhatalmazáson alapuló rendelet;
+e) a 168/2013/EU európai parlamenti és tanácsi rendeletnek a környezeti teljesítményre, valamint
+a meghajtóegység teljesítményére vonatkozó követelmények tekintetében történő kiegészítéséről, továbbá
+V. mellékletének módosításáról szóló, 2013. december 16-i 134/2014/EU bizottsági felhatalmazáson alapuló
+rendelet;
+f) a gépjárművek zajszintjéről és a csere-hangtompítórendszerekről, és a 2007/46/EK irányelv módosításáról,
+valamint a 70/157/EGK irányelv hatályon kívül helyezéséről szóló, 2014. április 16-i 540/2014/EU európai
+parlamenti és tanácsi rendelet;
+g) a 168/2013/EU európai parlamenti és tanácsi rendeletnek a két- vagy háromkerekű járművek, valamint
+a négykerekű motorkerékpárok jóváhagyására és piacfelügyeletére vonatkozó közigazgatási követelmények
+tekintetében történő végrehajtásáról szóló, 2014. július 18-i 901/2014/EU bizottsági végrehajtási rendelet;
+h) a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek
+jóváhagyásához szükséges járműszerkezeti és általános követelmények tekintetében történő kiegészítéséről
+és módosításáról szóló, 2014. szeptember 19-i 1322/2014/EU felhatalmazáson alapuló bizottsági rendelet;
+i) a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek
+jóváhagyására vonatkozó fékezési követelmények tekintetében történő kiegészítéséről szóló, 2014. október
+15-i 2015/68 bizottsági (EU) felhatalmazáson alapuló rendelet;
+j) a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek környezeti
+teljesítményére és meghajtóegység-teljesítményére vonatkozó követelmények tekintetében történő
+kiegészítéséről szóló, 2014. október 1-i 2015/96 bizottsági (EU) felhatalmazáson alapuló rendelet;
+k) a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek
+jóváhagyására vonatkozó funkcionális járműbiztonsági követelményekre való tekintettel történő
+kiegészítéséről szóló, 2014. december 8-i 2015/208 bizottsági (EU) felhatalmazáson alapuló rendelet;
+l) a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek
+jóváhagyására és piacfelügyeletére vonatkozó közigazgatási követelmények tekintetében történő
+végrehajtásáról szóló, 2015. március 11-i 2015/504 bizottsági (EU) végrehajtási rendelet
+végrehajtásához szükséges rendelkezéseket állapít meg.
+ Dr. Seszták Miklós s. k.,
+ nemzeti fejlesztési miniszter
+1. melléklet a 26/2016. (VII. 22.) NFM rendelethez
+1. Az ER. A. Függelék A/4. melléklet I. RÉSZ táblázata az 1 sorát követően a következő 1A sorral egészül ki:
+(Tétel Tárgy Szabályozási aktus Alkalmazandóság
+M
+
+M
+
+M
+
+N
+
+N
+
+N
+
+O
+
+O
+
+O
+
+O
+
+)
+„1A Zajszint 540/2014/EU rendelet X X X X X X”
+
+2. Az ER. A. Függelék A/4. melléklet I. RÉSZ 1. kiegészítés 1. táblázata az 1 sorát követően a következő 1A sorral
+egészül ki:
+(Tétel Tárgy Szabályozási aktus Konkrét
+kérdések
+Alkalmazandóság és
+egyedi követelmények)
+„1A Zajszint 540/2014/EU rendelet A”
+3. Az ER. A. Függelék A/4. melléklet I. RÉSZ 1. kiegészítés 2. táblázata az 1 sorát követően a következő 1A sorral
+egészül ki:
+(Tétel Tárgy Szabályozási aktus Konkrét
+kérdések
+Alkalmazandóság és
+egyedi követelmények)
+„1A Zajszint 540/2014/EU rendelet A”
+4. Az ER. A. Függelék A/6. melléklet„Kiegészítés”táblázata az 1. sorát követően a következő 1A. sorral egészül ki:
+(Sorszám Tárgy Jogszabály Módosította A következő
+változatokra
+vonatkozik)
+„1A. Zajszint 540/2014/EU rendelet”
+5. Az ER. A. Függelék A/11. melléklet 1. kiegészítés táblázata az 1 sorát követően a következő 1A sorral egészül ki:
+[Sorszám Tárgy Jogszabály M
+
+≤ 2500(1) kg M
+
+≤ 2500(1) kg M
+
+M
+
+]
+„1A Zajszint 540/2014/EU rendelet H G+H G+H G+H”
+6. Az ER. A. Függelék A/11. melléklet 2. kiegészítés táblázata az 1 sorát követően a következő 1A sorral egészül ki:
+(Sorszám Tárgy Jogszabály M
+
+M
+
+M
+
+N
+
+N
+
+N
+
+O
+
+O
+
+O
+
+O
+
+)
+„1A Zajszint 540/2014/EU
+rendelet
+X X X X X X”
+7. Az ER. A. Függelék A/11. melléklet 3. kiegészítés táblázata 1A sora helyébe a következő sor lép:
+(Sorszám Tárgy Jogszabály M
+
+)
+„1A Zajszint 540/2014/EU rendelet X”
+8. Az ER. A. Függelék A/11. melléklet 4. kiegészítés táblázata az 1 sorát követően a következő 1A sorral egészül ki:
+(Sorszám Tárgy Jogszabály M
+
+M
+
+M
+
+N
+
+N
+
+N
+
+O
+
+O
+
+O
+
+O
+
+)
+„1A Zajszint 540/2014/EU
+rendelet
+H H H H H”
+9. Az ER. A. Függelék A/11. melléklet 5. kiegészítésben lévő táblázat 1A sora helyébe a következő sor lép:
+(Sorszám Tárgy Jogszabály N
+
+kategóriájú önjáró daru)
+„1A Zajszint 540/2014/EU rendelet T”
+
+2. melléklet a 26/2016. (VII. 22.) NFM rendelethez
+Az ER. B. Függelék 1. Cikke a következő (4)–(7) bekezdéssel egészül ki:
+„(4) A két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok típusjóváhagyására vonatkozó
+követelményeket ezen Függelék rendelkezései és a 168/2013/EU európai parlamenti és tanácsi rendelet határozza
+meg. A 168/2013/EU európai parlamenti és tanácsi rendelet hatálybalépését megelőzően típusjóváhagyott
+járművek esetében a 168/2013/EU európai parlamenti és tanácsi rendeletet nem kell alkalmazni.
+(5) A két- vagy háromkerekű járművek, valamint a négykerekű motorkerékpárok típusjóváhagyásával kapcsolatos
+jóváhagyási eljárásokat a közlekedési hatóság végzi.
+(6) A járművek, rendszerek, alkotóelemek vagy önálló műszaki egységek forgalomba hozatala, nyilvántartásba
+vétele vagy forgalomba helyezése nem tiltható meg, nem korlátozható vagy nem akadályozható olyan okokból,
+amelyek a járművek, rendszerek, alkotóelemek vagy önálló műszaki egységek 168/2013/EU európai parlamenti
+és tanácsi rendelet hatálya alá tartozó szerkezeti vagy működési kérdéseivel kapcsolatosak, amennyiben azok
+megfelelnek a rendelet szerinti követelményeknek.
+(7) A közlekedési hatóság kizárólag olyan járművet, rendszert, alkotóelemet, vagy önálló műszaki egységet hagy
+jóvá, amely a 168/2013/EU európai parlamenti és tanácsi rendelet követelményeinek megfelel.”
+3. melléklet a 26/2016. (VII. 22.) NFM rendelethez
+Az ER. C. Függelék 1. Cikke a következő (3)–(6) bekezdéssel egészül ki:
+„(3) A mezőgazdasági és erdészeti járművek típusjóváhagyására vonatkozó követelményeket ezen Függelék
+rendelkezései és a 167/2013/EU európai parlamenti és tanácsi rendelet határozza meg. A 167/2013/EU európai
+parlamenti és tanácsi rendelet hatálybalépését megelőzően típusjóváhagyott járművek esetében a 167/2013/EU
+európai parlamenti és tanácsi rendeletet nem kell alkalmazni.
+(4) A mezőgazdasági és erdészeti járművek típusjóváhagyásával kapcsolatos jóváhagyási eljárásokat a közlekedési
+hatóság végzi.
+(5) A járművek, rendszerek, alkotóelemek vagy önálló műszaki egységek forgalomba hozatala, nyilvántartásba
+vétele vagy forgalomba helyezése nem tiltható meg, nem korlátozható vagy nem akadályozható olyan okokból,
+amelyek a járművek, rendszerek, alkotóelemek vagy önálló műszaki egységek 167/2013/EU európai parlamenti
+és tanácsi rendelet hatálya alá tartozó szerkezeti vagy működési kérdéseivel kapcsolatosak, amennyiben azok
+megfelelnek a rendelet szerinti követelményeknek.
+(6) A közlekedési hatóság kizárólag olyan járművet, rendszert, alkotóelemet, vagy önálló műszaki egységet hagy
+jóvá, amely a 167/2013/EU európai parlamenti és tanácsi rendelet követelményeinek megfelel.”
