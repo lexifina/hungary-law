@@ -18,7 +18,13 @@ c) telepítési hatóságként
 
 (4)[^66] A földrendező és a földkiadó bizottságokról szóló 1993. évi II. törvény 9/C. § (3) bekezdése szerinti kifogás a földművelésügyi igazgatási hatáskörében eljáró megyei kormányhivatalnál, a NÉBIH-nek címezve nyújtható be.
 
-(5)[^67] A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 81/A. §-ában foglalt adóhatóság és mezőgazdasági és vidékfejlesztési támogatási szerv felé történő adatszolgáltatás, valamint a mezőgazdasági őstermelői igazolványnak és a mezőgazdasági őstermelő adatainak országos nyilvántartása, valamint a 81/B. §-a tekintetében a Kormány mezőgazdasági igazgatási szervként a NÉBIH-et jelöli ki.
+(5)[^67] A Kormány a személyi jövedelemadóról szóló 1995. évi CXVII. törvény
+
+a) 81/A. § (1), (4), (5) és (7) bekezdése szerinti őstermelői nyilvántartást vezető szervként, valamint
+
+b) 81/C. §-a szerinti mezőgazdasági igazgatási szervként
+
+## a NÉBIH-et jelöli ki.
 
 (6) A társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény 41. § (7) bekezdésében foglaltak tekintetében a Kormány mezőgazdasági igazgatási szervként a NÉBIH-et jelöli ki.
 
@@ -28,4 +34,4 @@ c) telepítési hatóságként
 [^64]: A 19. § (1c) bekezdését a 98/2014. (III. 25.) Korm. rendelet 11. § (9) bekezdése iktatta be.
 [^65]: A 19. § (2)–(3) bekezdését az 560/2013. (XII. 31.) Korm. rendelet 3. §-a hatályon kívül helyezte.
 [^66]: A 19. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés m) pontja szerint módosított szöveg.
-[^67]: A 19. § (5) bekezdése a 68/2013. (III. 8.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^67]: A 19. § (5) bekezdése a 203/2016. (VII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
