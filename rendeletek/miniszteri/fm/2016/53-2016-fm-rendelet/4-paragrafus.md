@@ -1,0 +1,3 @@
+4. § (1) A kiegészítő támogatás igénybevétele érdekében a működési program módosítására vonatkozó, a 150/2012. (XII. 28.) VM rendelet 15. § (5) bekezdése szerinti kérelmet és 15. § (7) bekezdése szerinti bejelentést a 3. melléklet szerint kitöltött táblázat csatolásával legkésőbb a tárgyév szeptember 15. napjáig kell benyújtani az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) részére. A kérelemben vagy bejelentésben külön meg kell jelölni a 3. § (2) és (3) bekezdése tekintetében figyelembe veendő tevékenységeket és azok költségeit.
+
+(2) Az (1) bekezdésben megjelölt határidőig kell benyújtani a 3. § (3) bekezdésében meghatározott programokat. A programot több termelői szervezet közösen is benyújthatja.
