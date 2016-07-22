@@ -4,7 +4,7 @@
 
 (2) A bizottsági rendelet XI. mellékletében fel nem sorolt termékek esetében a támogatás legnagyobb mértékét a miniszter a működési program jóváhagyása során egyedileg állapítja meg, figyelembe véve a termelői árak és a bizottsági rendelet XI. mellékletében felsorolt támogatási szint átlagos arányát.
 
-(3)[^32] A termelői szervezetek a piacról történő árukivonási szándékukról szóló, a bizottsági rendelet 78. cikkében hivatkozott értesítést az MVH által közleményben rendszeresített és a honlapján közzétett nyomtatványon, a kivonás időpontját legalább öt nappal korábban beérkezően megküldik az MVH-hoz. Az értesítésnek tartalmaznia kell a kivonás alá vont termékek jegyzékét, az érintett termékek becsült mennyiségét, tervezett rendeltetését, és annak a helynek és időszaknak a megjelölését, ahol a kivonási műveleteknek a bizottsági rendelet 108. cikkében meghatározott elsőfokú ellenőrzése megtörténhet. Az értesítéshez mellékelni kell egy, a gyümölcs és zöldség ellenőrzéséről szóló miniszteri rendeletben meghatározott a növény- és talajvédelmi hatáskörben eljáró fővárosi és megyei kormányhivatal által kiállított igazolást, amely tanúsítja, hogy a kivont termékek megfelelnek az alkalmazandó forgalmazási előírásoknak. A kivonási műveletre a bizottsági rendelet 78. cikk (3) bekezdése szerinti engedély kiadását követően kerülhet sor.
+(3)[^32] A termelői szervezetnek a piacról történő árukivonási szándékáról szóló, a bizottsági rendelet 78. cikkében meghatározott értesítést az MVH által közleményben rendszeresített és a honlapján közzétett nyomtatványon, a kivonás időpontját legalább öt nappal megelőzően kell benyújtania az MVH-hoz. Az értesítésnek tartalmaznia kell a kivonással érintett termékek jegyzékét, becsült mennyiségét és tervezett rendeltetését, valamint a kivonási műveletnek a bizottsági rendelet 108. cikkében meghatározott elsőfokú ellenőrzésére kijelölt helyszín és időszak megjelölését. A kivonási művelet a bizottsági rendelet 78. cikk (3) bekezdése szerinti engedély alapján hajtható végre. Az értesítésben az értesítés benyújtójának nyilatkoznia kell arról, hogy a kivonással érintett termékek megfelelnek az alkalmazandó forgalmazási előírásoknak.
 
 (4)[^33] Az MVH a bizottsági rendelet 108. cikkében meghatározott első fokú ellenőrzéseket a kivonásra bejelentett ingyenes szétosztásra szánt mennyiségek legalább harminc százalékának vonatkozásában végzi.
 
@@ -22,7 +22,10 @@ d) a szállítható termék minimális és maximális mennyiségét (kilogrammba
 
 e) a bizottsági rendelet 83. cikkében meghatározott feltételeknek való megfelelésre vonatkozó nyilatkozatokat.
 
-[^32]: A 19. § (3) bekezdése a 7/2014. (IX. 5.) FM rendelet 1. §-ával megállapított, a 41/2015. (VII. 20.) FM rendelet 16. § d) pontja szerint módosított szöveg.
+(7)[^36] Az (1) bekezdés szerinti árukivonás alkalmazása esetén a bizottsági rendelet 69. cikke szerinti támogatási kérelemhez mellékelni kell a gyümölcs és zöldség ellenőrzéséről szóló miniszteri rendeletben meghatározott, a növény- és talajvédelmi hatáskörében eljáró fővárosi és megyei kormányhivatal által kiállított, a kivonásra szánt termékek forgalmazási előírásoknak való megfeleléséről szóló igazolást.
+
+[^32]: A 19. § (3) bekezdése az 52/2016. (VII. 21.) FM rendelet 14. § (1) bekezdésével megállapított szöveg.
 [^33]: A 19. § (4) bekezdése a 7/2014. (IX. 5.) FM rendelet 1. §-ával megállapított szöveg.
 [^34]: A 19. § (5) bekezdése a 7/2014. (IX. 5.) FM rendelet 1. §-ával megállapított szöveg.
 [^35]: A 19. § (6) bekezdését a 7/2014. (IX. 5.) FM rendelet 2. §-a iktatta be.
+[^36]: A 19. § (7) bekezdését az 52/2016. (VII. 21.) FM rendelet 14. § (2) bekezdése iktatta be.

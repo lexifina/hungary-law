@@ -82,6 +82,6 @@
 
 | 6 | Összesen: |  |  |  |  |  |  |  |  |
 
-3. melléklet a 150/2012. (XII. 28.) VM rendelethez[^66]
+3. melléklet a 150/2012. (XII. 28.) VM rendelethez[^69]
 
-[^66]: A 3. melléklet a 41/2015. (VII. 20.) FM rendelet 15. §-a szerint módosított szöveg.
+[^69]: A 3. melléklet a 41/2015. (VII. 20.) FM rendelet 15. §-a szerint módosított szöveg.
