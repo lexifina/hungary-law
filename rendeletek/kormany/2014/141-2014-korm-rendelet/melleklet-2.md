@@ -156,6 +156,8 @@
 
 | 77. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló óvoda-fejlesztés | Szárföld közigazgatási területén fekvő, 477 helyrajzi számú ingatlan |
 
+| 78. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Budapest közigazgatási területén fekvő, 29978/166 helyrajzi számú ingatlan |
+
 2. melléklet a 141/2014. (IV. 30.) Korm. rendelethez
 
 Az 1. mellékletben foglalt beruházásokkal összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági ügyek:
