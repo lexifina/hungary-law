@@ -12,4 +12,6 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-3. visszavonja az IMIR 2014–2020 informatikai rendszer finanszírozásához szükséges intézkedésekről szóló 1542/2015. (VIII. 3.) Korm. határozatot.
+3.[^2]
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
