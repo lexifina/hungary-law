@@ -6,4 +6,6 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
-2. visszavonja az Európai Városok Tudáshálózata Korlátolt Felelősségű Európai Területi Társulásban való részvételhez történő hozzájárulásról szóló 1263/2011. (VIII. 4.) Korm. határozatot.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
