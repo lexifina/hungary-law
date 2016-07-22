@@ -104,4 +104,6 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
 
-5. visszavonja a Zsámbék 856, 831, 832 és 804 helyrajzi számú ingatlanok tulajdonjogának az állam javára történő megszerzéséről és az ingatlanok további hasznosításáról szóló 1225/2012. (VII. 3.) Korm. határozatot.
+5.[^1]
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
