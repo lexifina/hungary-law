@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-525-20-
 | 2014-03-26 | 2013-525-20-22.4 | 98/2014. (III. 25.) Korm. rendelet |
 | 2014-09-05 | 2013-525-20-22.5 | 98/2014. (III. 25.) Korm. rendelet |
 | 2016-01-01 | 2013-525-20-22.6 | 436/2015. (XII. 28.) Korm. rendelet |
+| 2016-07-22 | 2013-525-20-22.7 | 203/2016. (VII. 21.) Korm. rendelet |
