@@ -10,13 +10,33 @@
 
 2. egy és ugyanazon vállalkozás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 2. § 5a. pontja szerinti vállalkozás;
 
-2a.[^1] kiegészítő kamattámogatási kérelem: a hitelprogram keretében felvett hitelhez kapcsolódó, a korábbi kamattámogatási kérelemben feltüntetett kamattámogatási mérték növelése érdekében kedvezőtlen időjárással érintett termelői szerveződés által benyújtott, a benyújtás időpontjában hatályos hitelszerződéshez kapcsolódó kamattámogatási kérelem, amely legfeljebb 2015. április 30-át követően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik;
+2a.[^1] kiegészítő kamattámogatási kérelem: a hitelprogram keretében felvett hitelhez kapcsolódó, a korábbi kamattámogatási kérelemben feltüntetett kamattámogatási mérték növelése érdekében a termelői szerveződés által benyújtott, a benyújtás időpontjában hatályos hitelszerződéshez kapcsolódó kamattámogatási kérelem, amely
+
+a) a kedvezőtlen időjárás miatt szükségessé váló támogatásokról és az azokkal összefüggő miniszteri rendeletek módosításáról szóló 77/2015. (XII. 1.) FM rendelet [a továbbiakban: 77/2015. (XII. 1.) FM rendelet] 1. mellékletében szereplő településen működő és 2016. június 30-áig hatályba lépett hitelszerződéssel rendelkező termelői szerveződés esetében legfeljebb 2015. április 30-át követően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik,
+
+b) a 77/2015. (XII. 1.) FM rendeletnek
+
+ba) kizárólag a 3. mellékletében szereplő településen működő, vagy
+
+bb) az 1. és 3. mellékletében egyaránt szereplő településen működő és 2016. június 30-át követően, de legfeljebb 2016. november 30-áig hatályba lépett hitelszerződéssel rendelkező
+
+## termelői szerveződés esetében legfeljebb az egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 51/2016. (VII. 21.) FM rendelet [a továbbiakban: 51/2016. (VII. 21.) FM rendelet] hatálybalépésétől[^2] kezdődően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik;
+
+2b.[^3] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem;
 
 3. hitelprogram: MFB TÉSZ Forgóeszköz Hitelprogram 2020;
 
-4.[^2] kezességvállaló intézmény: az Agrár-Vállalkozási Hitelgarancia Alapítvány, Garantiqa Hitelgarancia Zrt.;
+4.[^4] kezességvállaló intézmény: az Agrár-Vállalkozási Hitelgarancia Alapítvány, Garantiqa Hitelgarancia Zrt.;
 
-4a.[^3] kedvezőtlen időjárással érintett termelői szerveződés: a hitelprogramban meghatározott jogosultsági feltételeknek megfelelő, a kedvezőtlen időjárás miatt szükségessé váló támogatásokról és az azokkal összefüggő miniszteri rendeletek módosításáról szóló 77/2015. (XII. 1.) FM rendelet [a továbbiakban: 77/2015. (XII. 1.) FM rendelet] 1. mellékletében meghatározott település valamelyikén mint székhelyen, telephelyen vagy fióktelepen, ugyanezen rendelet 2. mellékletében meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő hitelfelvevő, aki a hitelprogram keretében 2016. június 30-ig hatályba lépett hitelszerződéssel rendelkezik;
+4a.[^5] kedvezőtlen időjárással érintett termelői szerveződés: a 77/2015. (XII. 1.) FM rendelet 1., illetve 3. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen a 77/2015. (XII. 1.) FM rendelet 2. mellékletében meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő hitelfelvevő, aki a hitelprogram keretében
+
+a) a 77/2015. (XII. 1.) FM rendeletnek kizárólag az 1. mellékletében szereplő település esetén 2016. június 30-áig,
+
+b) a 77/2015. (XII. 1.) FM rendeletnek kizárólag a 3. mellékletében szereplő település esetén 2016. november 30-áig,
+
+c) a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szereplő település esetén 2016. november 30-áig
+
+## hatályba lépett hitelszerződéssel rendelkezik;
 
 5. pénzügyi intézmény: az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság (a továbbiakban: MFB Zrt.) honlapján közzétett, a hitelprogramhoz csatlakozott hitelintézet, valamint az MFB Zrt.;
 
@@ -26,6 +46,8 @@
 
 8. termelői szerveződés: a termelői csoportokról szóló miniszteri rendelet szerinti elismeréssel rendelkező termelői csoport, a 2015. június 1. előtt minősített elismeréssel rendelkező termelői csoport, és a zöldség-gyümölcs termelői csoportokról és termelői szervezetekről szóló miniszteri rendelet szerinti termelői szervezet, valamint zöldség-gyümölcs termelői csoport.
 
-[^1]: Az 1. § 2a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (2) bekezdése iktatta be.
-[^2]: Az 1. § 4. pontja a 77/2015. (XII. 1.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § 4a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (3) bekezdése iktatta be, szövege a 25/2016. (IV. 11.) FM rendelet 66. § a) pontja szerint módosított szöveg.
+[^1]: Az 1. § 2a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (2) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^2]: A hatálybalépés időpontja 2016. július 22.
+[^3]: Az 1. § 2b. pontját az 51/2016. (VII. 21.) FM rendelet 26. § (1) bekezdése iktatta be.
+[^4]: Az 1. § 4. pontja a 77/2015. (XII. 1.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^5]: Az 1. § 4a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (3) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 26. § (2) bekezdésével megállapított szöveg.

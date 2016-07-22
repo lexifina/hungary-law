@@ -10,7 +10,7 @@ c) a támogatáslehívási kérelemben szerepeltetett kamatok tekintetében a hi
 
 (2) A kamattámogatás az MVH által rendszeresített és a honlapján közzétett támogatáslehívási kérelem nyomtatvány MVH-hoz történő benyújtásával naptári negyedévente igényelhető. A támogatáslehívási kérelmet a naptári negyedévet követő hónapban kell az MVH-hoz benyújtani.
 
-(3)[^10] A támogatáslehívási kérelem legfeljebb a támogatáslehívási kérelem benyújtásának hónapját közvetlenül megelőző négy naptári negyedévben megfizetett kamatok vonatkozásában nyújtható be azzal, hogy a kamattámogatási kérelem jóváhagyásának naptári negyedévét követő hónapban benyújtott támogatáslehívási kérelemben a kamattámogatási kérelem beadásának naptári negyedévében és az azt közvetlenül megelőző négy naptári negyedévben megfizetett kamatok vonatkozásában járó kamattámogatás is igényelhető. 100%-os kamattámogatás csak a 2015. április 30-át követően esedékes kamatfizetések vonatkozásában igényelhető.
+(3)[^15] A támogatáslehívási kérelem legfeljebb a támogatáslehívási kérelem benyújtásának hónapját közvetlenül megelőző négy naptári negyedévben megfizetett kamatok vonatkozásában nyújtható be azzal, hogy a kamattámogatási kérelem jóváhagyásának naptári negyedévét követő hónapban benyújtott támogatáslehívási kérelemben a kamattámogatási kérelem beadásának naptári negyedévében és az azt közvetlenül megelőző négy naptári negyedévben megfizetett kamatok vonatkozásában járó kamattámogatás is igényelhető. 100%-os kamattámogatás csak a 2015. április 30-át követően esedékes kamatfizetések vonatkozásában igényelhető.
 
 (4) Az egy negyedévben megfizetett kamatok csak egy támogatáslehívási kérelemben tüntethetők fel.
 
@@ -18,4 +18,4 @@ c) a támogatáslehívási kérelemben szerepeltetett kamatok tekintetében a hi
 
 (6) Az MVH a támogatáslehívási kérelemről annak hiánytalan beérkezését követő harminc napon belül döntést hoz, és a jóváhagyott kamattámogatást – a forrás rendelkezésre állása esetén – a döntést követő tizenöt napon belül folyósítja a termelői szerveződés részére.
 
-[^10]: A 6. § (3) bekezdése a 77/2015. (XII. 1.) FM rendelet 16. § (8) bekezdésével megállapított, a 25/2016. (IV. 11.) FM rendelet 66. § d) pontja szerint módosított szöveg.
+[^15]: A 6. § (3) bekezdése a 77/2015. (XII. 1.) FM rendelet 16. § (8) bekezdésével megállapított, a 25/2016. (IV. 11.) FM rendelet 66. § d) pontja szerint módosított szöveg.

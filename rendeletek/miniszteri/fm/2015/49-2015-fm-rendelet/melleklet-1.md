@@ -1,5 +1,5 @@
-## 14–15. §[^11]
+## 14–15. §[^16]
 
 1. melléklet a 49/2015. (VIII. 12.) FM rendelethez
 
-[^11]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 14–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
