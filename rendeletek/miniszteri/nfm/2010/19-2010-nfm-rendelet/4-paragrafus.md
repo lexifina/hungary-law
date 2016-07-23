@@ -12,9 +12,9 @@
 
 (6a)[^22] Ha a GET 141/J. § alapján földgázt vételező egyetemes szolgáltató az adott negyedévben a Hivatalnak bejelentett, a (10) bekezdésben foglalt földgáz forrásait átvette és – a Hivatal felé igazolt módon – az egyetemes szolgáltatásban vételezők ellátása érdekében vásárol többlet földgáz mennyiséget a volt közüzemi nagykereskedőtől, akkor annak ára a földgázforrás árának – a 11. mellékletben szereplő – mennyiségarányos díjelemével egyezik meg.
 
-(6b)[^23] Ha a (6) bekezdés szerinti, többlet földgáz mennyisége több, mint 15%-kal meghaladja a (10) bekezdésben foglaltak szerint a Hivatal felé az adott negyedévre bejelentett mennyiséget, a 15% fölötti rész ára a 11. mellékletben feltüntetett, az adott egyetemes szolgáltatóra vonatkozó földgázforrás mennyiségarányos díjelemének 150%-a.
+(6b)[^23] A felek eltérő megállapodásának hiányában, ha a (6) bekezdés szerinti, többlet földgáz mennyisége több, mint 15%-kal meghaladja a (10) bekezdésben foglaltak szerint a Hivatal felé az adott negyedévre bejelentett mennyiséget, a 15% fölötti rész ára a 11. mellékletben feltüntetett, az adott egyetemes szolgáltatóra vonatkozó földgázforrás mennyiségarányos díjelemének 150%-a.
 
-(6c)[^24] Ha a GET 141/J. § alapján földgázt vételező egyetemes szolgáltató a (10) bekezdésben foglaltak szerint a Hivatal felé az adott negyedévre bejelentett mennyiség kevesebb, mint 85%-át veszi át, akkor az átvett mennyiség és a bejelentett mennyiség 85%-a közötti földgázmennyiség mértékéig köteles a volt közüzemi nagykereskedőnek megfizetni a 11. mellékletben feltüntetett, az egyetemes szolgáltatóra vonatkozó földgázforrás mennyiségarányos díjelemének 50%-át.
+(6c)[^24] A felek eltérő megállapodásának hiányában, ha a GET 141/J. § alapján földgázt vételező egyetemes szolgáltató a (10) bekezdésben foglaltak szerint a Hivatal felé az adott negyedévre bejelentett mennyiség kevesebb, mint 85%-át veszi át, akkor az átvett mennyiség és a bejelentett mennyiség 85%-a közötti földgázmennyiség mértékéig köteles a volt közüzemi nagykereskedőnek megfizetni a 11. mellékletben feltüntetett, az egyetemes szolgáltatóra vonatkozó földgázforrás mennyiségarányos díjelemének 50%-át.
 
 (6d)[^25] A naptári év IV. negyedévében 1069 negyedéves napfok számot, a naptári év I. negyedévében 1414 negyedéves napfok számot meghaladó hideg esetén az egyetemes szolgáltató mentesül a (6b) bekezdés szerinti felár megfizetése alól. Az adott negyedévre vonatkozó napfok szám meghatározása – jelen § vonatkozásában – az Országos Meteorológiai Szolgálat Budapest-Lőrinc ponton mért gáznapi középhőmérsékletek számtani átlaga alapján történik 16 °C-os küszöbhőmérsékletre.
 
@@ -39,8 +39,8 @@
 [^20]: A 4. § (5) bekezdése az 52/2011. (X. 7.) NFM rendelet 2. § (2) bekezdésével megállapított, a 14/2014. (III. 31.) NFM rendelet 10. § a) pontja, a 37/2015. (VI. 30.) NFM rendelet 18. § d) pontja szerint módosított szöveg.
 [^21]: A 4. § (6) bekezdése az 52/2014. (XII. 13.) NFM rendelet 4. §-ával megállapított, a 37/2015. (VI. 30.) NFM rendelet 17. § e) pontja és 18. § e) pontja szerint módosított szöveg.
 [^22]: A 4. § (6a) bekezdését a 37/2015. (VI. 30.) NFM rendelet 11. §-a iktatta be.
-[^23]: A 4. § (6b) bekezdését a 37/2015. (VI. 30.) NFM rendelet 11. §-a iktatta be.
-[^24]: A 4. § (6c) bekezdését a 37/2015. (VI. 30.) NFM rendelet 11. §-a iktatta be.
+[^23]: A 4. § (6b) bekezdését a 37/2015. (VI. 30.) NFM rendelet 11. §-a iktatta be, szövege a 28/2016. (VII. 22.) NFM rendelet 1. §-a szerint módosított szöveg.
+[^24]: A 4. § (6c) bekezdését a 37/2015. (VI. 30.) NFM rendelet 11. §-a iktatta be, szövege a 28/2016. (VII. 22.) NFM rendelet 1. §-a szerint módosított szöveg.
 [^25]: A 4. § (6d) bekezdését a 37/2015. (VI. 30.) NFM rendelet 11. §-a iktatta be, szövege a 6/2016. (III. 30.) NFM rendelet 6. § c) és d) pontja szerint módosított szöveg.
 [^26]: A 4. § (7) bekezdését a 12/2011. (IV. 7.) NFM rendelet 2. § (3) bekezdése iktatta be, szövege az 52/2011. (X. 7.) NFM rendelet 2. § (3) bekezdésével megállapított, a 14/2014. (III. 31.) NFM rendelet 10. § b) pontja, a 39/2014. (IX. 30.) NFM rendelet 6. § a) pontja, a 43/2014. (X. 18.) NFM rendelet 8. § e) és f) pontja, a 37/2015. (VI. 30.) NFM rendelet 17. § f) pontja, a 20/2016. (VI. 30.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
 [^27]: A 4. § (7a) bekezdését a 6/2016. (III. 30.) NFM rendelet 5. § (4) bekezdése iktatta be.
