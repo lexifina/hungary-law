@@ -10,6 +10,6 @@ d) a kormányzati ellenőrzés tárgyilagos lefolytatása tőle egyéb okból ne
 
 (2) Az összeférhetetlenségről a Hivatal elnöke az összeférhetetlenség okának tudomására jutásától számított 8 napon belül határoz. A döntés meghozataláig a kormányzati ellenőrt az összeférhetetlenséggel érintett kormányzati ellenőrzéssel összefüggésben az ellenőrzési tevékenysége alól fel kell menteni.
 
-(3)[^10] Ha az (1) bekezdés szerinti összeférhetetlenség a Hivatal elnökével kapcsolatban merül fel, köteles azt haladéktalanul a miniszternek bejelenteni. Az összeférhetetlenségről és a Hivatal eljárásáról a miniszter dönt.
+(3)[^11] Ha az (1) bekezdés szerinti összeférhetetlenség a Hivatal elnökével kapcsolatban merül fel, köteles azt haladéktalanul a miniszternek bejelenteni. Az összeférhetetlenségről és a Hivatal eljárásáról a miniszter dönt.
 
-[^10]: A 16. § (3) bekezdése a 167/2014. (VII. 17.) Korm. rendelet 8. § a)–b) pontja szerint módosított szöveg.
+[^11]: A 16. § (3) bekezdése a 167/2014. (VII. 17.) Korm. rendelet 8. § a)–b) pontja szerint módosított szöveg.
