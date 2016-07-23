@@ -6,7 +6,7 @@
 
 (4) A Bizottság hat tagját a miniszter jelöli ki az általa vezetett minisztérium kormánytisztviselői közül.
 
-(5) A Bizottságba legalább 2 éves szakirányú szakmai gyakorlattal rendelkező személy delegálható. E bekezdés vonatkozásában szakirányú szakmai gyakorlatként vehető figyelembe
+(5)[^1] A Bizottságba legalább 2 éves szakirányú szakmai gyakorlattal rendelkező személy delegálható. E bekezdés vonatkozásában szakirányú szakmai gyakorlatként vehető figyelembe
 
 a) pénzügyi intézménynél,
 
@@ -26,7 +26,7 @@ h) központi értéktárnál, vagy
 
 i) központi szerződő félnél
 
-## tisztségviselőként, köztisztviselőként, kormánytisztviselőként, vagy alkalmazottként befektetési vagy pénzügyi szakterületen eltöltött idő.
+## tisztségviselőként, köztisztviselőként, kormánytisztviselőként, állami tisztviselőként, vagy alkalmazottként befektetési vagy pénzügyi szakterületen eltöltött idő.
 
 (6) A Bizottság tagjainak megbízatása három évre szól.
 
@@ -35,3 +35,5 @@ i) központi szerződő félnél
 (8) A Bizottság a működési rendjét ügyrendjében határozza meg. A Bizottság a tényállás tisztázása érdekében, javaslata kialakításához adatokat kérhet be a javaslattevő hatóságtól és a kijelölésre javasolt létfontosságú rendszerelem üzemeltetőjétől.
 
 (9) A Bizottság tagjai a feladataik ellátása során és azzal összefüggésben nem utasíthatóak.
+
+[^1]: A 4. § (5) bekezdés záró szövegrésze a 217/2016. (VII. 22.) Korm. rendelet 54. §-a szerint módosított szöveg.
