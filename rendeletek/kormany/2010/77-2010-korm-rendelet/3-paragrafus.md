@@ -16,10 +16,11 @@ f) végzettséget tanúsító oklevél hiteles másolatát, valamint
 
 g) a szakmai gyakorlatot bizonyító (2)–(4) bekezdés szerinti igazolását.
 
-(2) A szakmai gyakorlat időtartamát közszolgálati, közalkalmazotti, hivatásos szolgálati jogviszonyban vagy munkaviszonyban álló kérelmező esetén a munkáltatója igazolja.
+(2)[^3] A szakmai gyakorlat időtartamát közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti, hivatásos szolgálati jogviszonyban vagy munkaviszonyban álló kérelmező esetén a munkáltatója igazolja.
 
 (3) A szakmai gyakorlat időtartamát munkavégzésre irányuló egyéb jogviszony, továbbá a kérelmező korábbi foglalkoztatójának jogutód nélküli megszűnése esetében szerződés vagy a munkavégzés igazolására alkalmas és a szakmai gyakorlat időtartamát alátámasztó egyéb dokumentum igazolja.
 
 (4) Az igazolás tartalmazza a kérelmező nevét, lakcímét, a munkakör részletes leírását, referencialistát az 1. § (3) bekezdése szerinti tevékenységek leírásával és időbeli meghatározásával, valamint a szakmai gyakorlat időtartamát.
 
 [^2]: A 3. § (1) bekezdése a 203/2013. (VI. 14.) Korm. rendelet 21. §-ával megállapított szöveg.
+[^3]: A 3. § (2) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 22. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 10. §[^6]
+## 10. §[^7]
 
 1. melléklet a 77/ 2010. (III. 25.) Korm. rendelethez
 
@@ -12,4 +12,4 @@
 
 4. Urbanista szakmérnöki
 
-[^6]: A 10. § a (3) bekezdés alapján hatályát vesztette.
+[^7]: A 10. § a (3) bekezdés alapján hatályát vesztette.
