@@ -266,7 +266,7 @@
 
 ## 5.2.8. Jövedelem típusai
 
-## 5.2.8.1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, polgári nemzetbiztonsági szolgálatok hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
+## 5.2.8.1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi feladatokat ellátó szervek hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
 
 ## 5.2.8.2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni a jogdíjat, továbbá a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 

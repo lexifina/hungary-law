@@ -118,7 +118,7 @@
 
 ## Kelt: …………………………………………………., ……………………………………….
 
-## 6K05992M_1
+## 6K08580M_1
 
 | kérelmező aláírása | kérelmező |
 
@@ -162,7 +162,7 @@
 
 ## 4.2.7. A jövedelem típusai:
 
-## 4.2.7.1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, polgári nemzetbiztonsági szolgálatok hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
+## 4.2.7.1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi feladatokat ellátó szervek hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
 
 ## 4.2.7.2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni a jogdíjat, továbbá a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 
@@ -294,7 +294,7 @@ Felelősségem tudatában kijelentem, hogy
 
 Kelt: ,......................................................
 
-## 6K05992N_1
+## 6K08580N_1
 
 | kérelmező aláírása | kérelmező |
 
@@ -340,7 +340,7 @@ kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
 4.2.8. A jövedelem típusai:
 
-4.2.8.1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, polgári nemzetbiztonsági szolgálatok hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
+4.2.8.1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi feladatokat ellátó szervek hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
 
 4.2.8.2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni a jogdíjat, továbbá a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 
@@ -354,4 +354,4 @@ kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
 4.2.9. A jövedelemről a kérelemhez mellékelni kell – a családtámogatási törvény szerint folyósított családtámogatási ellátás kivételével – a jövedelem típusának megfelelő iratot vagy annak másolatát.
 
-[^229]: A 2/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 392/2013. (XI. 12.) Korm. rendelet 14. § b) pontjával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 125. § b) pontja, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés m) pontja, 28. § s) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés t) pontja, a 417/2015. (XII. 23.) Korm. rendelet 29. § a) pontja, a 116/2016. (VI. 6.) Korm. rendelet 23. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^229]: A 2/A. számú mellékletet a 95/2013. (III. 29.) Korm. rendelet 22. § (2) bekezdése iktatta be, szövege a 392/2013. (XI. 12.) Korm. rendelet 14. § b) pontjával megállapított, a 364/2014. (XII. 30.) Korm. rendelet 125. § b) pontja, a 24/2015. (II. 20.) Korm. rendelet 27. § (1) bekezdés m) pontja, 28. § s) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés t) pontja, a 417/2015. (XII. 23.) Korm. rendelet 29. § a) pontja, a 116/2016. (VI. 6.) Korm. rendelet 23. § (2) bekezdés b) pontja, a 217/2016. (VII. 22.) Korm. rendelet 12. § b) pontja szerint módosított szöveg.

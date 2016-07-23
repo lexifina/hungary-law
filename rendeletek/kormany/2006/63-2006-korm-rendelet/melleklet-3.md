@@ -278,7 +278,7 @@ kapott összeg egy havi átlagát kell együttesen figyelembe venni.
 
 5.2.8. A jövedelem típusai:
 
-5.2.8.1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, közszolgálati jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, polgári nemzetbiztonsági szolgálatok hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
+5.2.8.1. Munkaviszonyból és más foglalkoztatási viszonyból származó jövedelem: különösen a munkaviszonyban, közalkalmazotti, közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonyban, bírósági, ügyészségi, igazságügyi szolgálati jogviszonyban, honvédség, rendvédelmi feladatokat ellátó szervek hivatásos és szerződéses szolgálati jogviszonyában folytatott munkavégzésre irányuló tevékenységből, továbbá szövetkezet tagjaként folytatott – személyes közreműködést igénylő – tevékenységből származó jövedelem.
 
 5.2.8.2. Társas és egyéni vállalkozásból, őstermelői, illetve szellemi és más önálló tevékenységből származó jövedelem: itt kell feltüntetni a jogdíjat, továbbá a bérbeadó, a választott könyvvizsgáló tevékenységéből származó jövedelmet, a gazdasági társaság magánszemély tagja által külön szerződés szerint teljesített mellékszolgáltatást.
 
@@ -342,4 +342,4 @@ d) az 5.3.3. pont d) és e) alpontjában meghatározott esetben: a korábban meg
 
 a törvényes képviselője jogosult az aláírásra.
 
-[^230]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított, a 69/2014. (III. 13.) Korm. rendelet 13. § a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § c) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés u) pontja, a 417/2015. (XII. 23.) Korm. rendelet 28. §-a, a 116/2016. (VI. 6.) Korm. rendelet 23. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^230]: A 3. számú melléklet a 392/2013. (XI. 12.) Korm. rendelet 14. § c) pontjával megállapított, a 69/2014. (III. 13.) Korm. rendelet 13. § a) pontja, a 364/2014. (XII. 30.) Korm. rendelet 125. § c) pontja, a 24/2015. (II. 20.) Korm. rendelet 26. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 76. § (13) bekezdés u) pontja, a 417/2015. (XII. 23.) Korm. rendelet 28. §-a, a 116/2016. (VI. 6.) Korm. rendelet 23. § (2) bekezdés c) pontja, a 217/2016. (VII. 22.) Korm. rendelet 12. § c) pontja szerint módosított szöveg.
