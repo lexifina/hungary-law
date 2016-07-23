@@ -4,7 +4,7 @@
 
 (2) A tervezési programban rögzíteni kell minden olyan fontos tényt, amelyet a tervezés során figyelembe kell venni. A tervezési programban vizsgálni kell a megújuló energiaforrások használatának lehetőségét, és igény szerint rögzíteni kell a vagyonbiztonsági elvárások mértékét.
 
-(3)[^18] A tervezési programban – amelyet az építtető és tervező közösen készít elő – a tervezés tárgyától és nagyságrendjétől függően ismertetni kell
+(3)[^19] A tervezési programban – amelyet az építtető és tervező közösen készít elő – a tervezés tárgyától és nagyságrendjétől függően ismertetni kell
 
 a) tervezési feladat részletes leírását, az építési tevékenység megnevezését,
 
@@ -36,4 +36,4 @@ n) az egyéb meghatározó követelmények általános szempontjait,
 
 o) a tervezendő építmény használatának, üzemeltetésének, karbantartásának feltételeit.
 
-[^18]: A 16. § (3) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^19]: A 16. § (3) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.

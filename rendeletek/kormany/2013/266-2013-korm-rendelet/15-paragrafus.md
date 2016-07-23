@@ -28,10 +28,11 @@ d)[^17] az egyszerű bejelentéshez szükséges kivitelezési dokumentáció
 
 (9) Nem folytathat építészeti-műszaki tervezési tevékenységet
 
-a) az adott építészeti-műszaki dokumentáció engedélyezésében vagy az annak alapján megvalósítandó építmény kivitelezésének építésfelügyeletében feladatot ellátó hatóság köztisztviselője vagy kormánytisztviselője,
+a)[^18] az adott építészeti-műszaki dokumentáció engedélyezésében vagy az annak alapján megvalósítandó építmény kivitelezésének építésfelügyeletében feladatot ellátó hatóság köztisztviselője, kormánytisztviselője vagy állami tisztviselője,
 
 b) az építészeti-műszaki dokumentáció településképi véleményezési eljárásába bevont önkormányzati főépítész.
 
 [^15]: A 15. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
 [^16]: A 15. § (2) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 16. § d) pontja szerint módosított szöveg.
 [^17]: A 15. § (3) bekezdés d) pontját a 156/2016. (VI. 13.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^18]: A 15. § (9) bekezdés a) pontja a 217/2016. (VII. 22.) Korm. rendelet 38. §-a szerint módosított szöveg.

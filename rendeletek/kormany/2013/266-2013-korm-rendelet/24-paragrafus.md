@@ -1,4 +1,4 @@
-## 23/A. §[^21] Műemlék épület esetén az energetikai tanúsítónak az R1. szerinti energetikai minőségtanúsítvány javaslattételének kidolgozásához szakági építésügyi műszaki szakértői szakterület műemléki részszakterület jogosultsággal bíró szakértőt vagy „műemlékek területén gyakorlott” címmel rendelkező szakmagyakorlót kell bevonnia, ha az energetikai tanúsító nem rendelkezik a „műemlékek területén gyakorlott” címmel.
+## 23/A. §[^24] Műemlék épület esetén az energetikai tanúsítónak az R1. szerinti energetikai minőségtanúsítvány javaslattételének kidolgozásához szakági építésügyi műszaki szakértői szakterület műemléki részszakterület jogosultsággal bíró szakértőt vagy „műemlékek területén gyakorlott” címmel rendelkező szakmagyakorlót kell bevonnia, ha az energetikai tanúsító nem rendelkezik a „műemlékek területén gyakorlott” címmel.
 
 ## VIII. Fejezet
 
@@ -12,15 +12,15 @@ a) engedélyezése,
 
 b) folytatásának szüneteltetése,
 
-c)[^22] folytatásának megtiltása,
+c)[^25] folytatásának megtiltása,
 
-d)[^23] folytatásának megtiltása és a tevékenységet folytató szakmagyakorló névjegyzékből való törlése,
+d)[^26] folytatásának megtiltása és a tevékenységet folytató szakmagyakorló névjegyzékből való törlése,
 
 e) folytatójával szembeni bírság kiszabása és
 
 f) folytatásával összefüggő hatósági bizonyítvány kiállítása,
 
-g)[^24] folytatója által az engedélyének kérelemre történő visszavonása és a névjegyzékből való törlése
+g)[^27] folytatója által az engedélyének kérelemre történő visszavonása és a névjegyzékből való törlése
 
 ## iránt kezdeményezett vagy saját hatáskörben indított eljárást a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) szabályai szerint, míg a szakmagyakorlási tevékenység bejelentésére irányuló eljárást a Szolgtv. szabályai szerint kell lefolytatni.
 
@@ -34,7 +34,7 @@ g)[^24] folytatója által az engedélyének kérelemre történő visszavonása
 
 (6) A kérelmező a szakmai gyakorlat szakirányúságának megállapítását a kérelem benyújtása előtt kérelmezheti a területi kamara elnökségétől.
 
-[^21]: A 23/A. §-t a 38/2015. (III. 11.) Korm. rendelet 22. § (3) bekezdése iktatta be, szövege a 168/2015. (VI. 30.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
-[^22]: A 24. § (1) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 7. pontja szerint módosított szöveg.
-[^23]: A 24. § (1) bekezdés d) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 8. pontja szerint módosított szöveg.
-[^24]: A 24. § (1) bekezdés g) pontját a 62/2014. (III. 6.) Korm. rendelet 45. § (2) bekezdése iktatta be.
+[^24]: A 23/A. §-t a 38/2015. (III. 11.) Korm. rendelet 22. § (3) bekezdése iktatta be, szövege a 168/2015. (VI. 30.) Korm. rendelet 4. § (4) bekezdésével megállapított szöveg.
+[^25]: A 24. § (1) bekezdés c) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 7. pontja szerint módosított szöveg.
+[^26]: A 24. § (1) bekezdés d) pontja a 62/2014. (III. 6.) Korm. rendelet 47. § 8. pontja szerint módosított szöveg.
+[^27]: A 24. § (1) bekezdés g) pontját a 62/2014. (III. 6.) Korm. rendelet 45. § (2) bekezdése iktatta be.

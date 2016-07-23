@@ -4,7 +4,7 @@
 
 a) a teljesítési határidőket, figyelemmel a szakaszos tervszolgáltatásra is,
 
-b)[^19] a tervezési díj összege mellett az elszámolás és a teljesítésigazolás formáját, módját, a fizetés módját és határidejét,
+b)[^20] a tervezési díj összege mellett az elszámolás és a teljesítésigazolás formáját, módját, a fizetés módját és határidejét,
 
 c) az esetleges szakmai biztosíték kikötését.
 
@@ -12,4 +12,4 @@ c) az esetleges szakmai biztosíték kikötését.
 
 (3) Az építőipari kivitelezési tevékenység végzéséhez szükséges kivitelezési dokumentáció készítésére irányuló tervezési szerződés tartalmi elemeinél az Épkiv. 9. § (1)–(3) bekezdésében foglaltakat is figyelembe kell venni.
 
-[^19]: A 17. § (1) bekezdés b) pontja a 156/2016. (VI. 13.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
+[^20]: A 17. § (1) bekezdés b) pontja a 156/2016. (VI. 13.) Korm. rendelet 16. § e) pontja szerint módosított szöveg.
