@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-112-20-
 | 2015-09-01 | 2006-112-20-22.30 | 221/2015. (VIII. 7.) Korm. rendelet |
 | 2016-01-01 | 2006-112-20-22.31 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-06-09 | 2006-112-20-22.32 | 116/2016. (VI. 6.) Korm. rendelet |
+| 2016-07-23 | 2006-112-20-22.33 | 332/2010. (XII. 27.) Korm. rendelet |

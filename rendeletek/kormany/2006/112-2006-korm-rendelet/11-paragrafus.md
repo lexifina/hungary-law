@@ -24,7 +24,7 @@ b) a bizottság tagja olyan szervezet ügyintéző és képviseleti szervének, 
 
 (5)[^90] A bizottság működésének feltételeit a Hivatal biztosítja.
 
-(6)[^91] A bizottság tagja jogosult a pályázatok véleményezésében való részvételért a Hivatal vezetője (a továbbiakban: főigazgató) által előre meghatározott, de pályázatonként legfeljebb 1100 forint tiszteletdíjra, kivéve, ha központi költségvetési szervvel közszolgálati vagy közalkalmazotti jogviszonyban áll.
+(6)[^91] A bizottság tagja jogosult a pályázatok véleményezésében való részvételért a Hivatal vezetője (a továbbiakban: főigazgató) által előre meghatározott, de pályázatonként legfeljebb 1100 forint tiszteletdíjra, kivéve, ha központi költségvetési szervvel közszolgálati, kormányzati szolgálati, állami szolgálati, hivatásos szolgálati vagy közalkalmazotti jogviszonyban áll.
 
 (7) A bizottsági vélemények és a bizottság működését érintő döntések elfogadásához a bizottság legalább négy tagjának egybehangzó szavazata szükséges.
 
@@ -40,4 +40,4 @@ b) a bizottság tagja olyan szervezet ügyintéző és képviseleti szervének, 
 [^88]: A 11. § (3) bekezdés d) pontja a 332/2010. (XII. 27.) Korm. rendelet 19. § a) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
 [^89]: A 11. § (3) bekezdés e) pontját a 317/2012. (XI. 13.) Korm. rendelet 14. § a) pontja hatályon kívül helyezte.
 [^90]: A 11. § (5) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
-[^91]: A 11. § (6) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^91]: A 11. § (6) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 19. § d) pontja, a 217/2016. (VII. 21.) Korm. rendelet 14. §-a szerint módosított szöveg.
