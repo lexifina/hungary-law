@@ -2,7 +2,7 @@
 
 A többciklusú képzési szerkezet bevezetését követően, felmenő rendszerben kibocsátott oklevelek egyenértékűségének vizsgálatához:
 
-Ha az építésügyi vagy építésfelügyeleti hatósági munkakör betöltéséhez a köztisztviselő vagy a kormánytisztviselő végzettségét igazoló oklevélből a szakirányú kredittartalom, illetve a külön jogszabályban meghatározott munkakört megalapozó képzettségi szint – jogszabály alapján – nem állapítható meg, akkor a köztisztviselőnek vagy a kormánytisztviselőnek a végzettsége egyenértékű elismeréséhez műszaki képzési területen legalább 139 kreditet kell igazolnia a táblázatban meghatározott ismeretkörök figyelembevételével. A megfeleltethetőség szempontjából releváns oklevélnek legalább 60%-os lefedettséget kell tanúsítania a beszámításkor alapul vett kreditérték viszonylatában.
+Ha az építésügyi vagy építésfelügyeleti hatósági munkakör betöltéséhez a köztisztviselő, a kormánytisztviselő vagy az állami tisztviselő végzettségét igazoló oklevélből a szakirányú kredittartalom, illetve a külön jogszabályban meghatározott munkakört megalapozó képzettségi szint – jogszabály alapján – nem állapítható meg, akkor a köztisztviselőnek, a kormánytisztviselőnek vagy az állami tisztviselőnek a végzettsége egyenértékű elismeréséhez műszaki képzési területen legalább 139 kreditet kell igazolnia a táblázatban meghatározott ismeretkörök figyelembevételével. A megfeleltethetőség szempontjából releváns oklevélnek legalább 60%-os lefedettséget kell tanúsítania a beszámításkor alapul vett kreditérték viszonylatában.
 
 I. Építésügyi hatósági munkakör betöltéséhez szükséges képesítési követelmény kredittartalma
 
@@ -176,4 +176,4 @@ II. Építésfelügyeleti hatósági munkakör betöltéséhez szükséges képe
 
 ”
 
-[^83]: A 4. melléklet a 322/2012. (XI. 16.) Korm. rendelet 41. § b) pontjával megállapított szöveg.
+[^83]: A 4. melléklet a 322/2012. (XI. 16.) Korm. rendelet 41. § b) pontjával megállapított, a 217/2016. (VII. 22.) Korm. rendelet 16. § (6) bekezdése szerint módosított szöveg.
