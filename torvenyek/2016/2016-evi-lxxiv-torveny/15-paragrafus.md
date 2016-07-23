@@ -51,11 +51,3 @@ f) 62. § (2) bekezdés 3. pontja,
 g) 62. § (6) bekezdés 1., 2., 3. és 7. pontja,
 
 h) 62. § (7) bekezdés 2. pontja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
