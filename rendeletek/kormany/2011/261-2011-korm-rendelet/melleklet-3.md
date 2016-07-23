@@ -72,7 +72,7 @@ f) vámismeretek (20 perc a felkészülési idővel együtt).
 
 a) jogi, államigazgatási, számviteli vagy pénzügyi szakirányú felsőfokú végzettség, vagy
 
-b) közlekedési szakirányú felsőfokú végzettség és közigazgatási szakvizsga, vagy
+b)[^92] közlekedési szakirányú felsőfokú végzettség és közigazgatási szakvizsga, közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség, vagy
 
 c) közlekedési szakirányú felsőfokú végzettség és közúti közlekedési vállalkozás szakmai vezetésében legalább 5 éves gyakorlat.
 
@@ -142,8 +142,10 @@ e) jármű műszaki, üzemeltetési, valamint közlekedésbiztonsági ismeretek 
 
 a) jogi, államigazgatási, számviteli vagy pénzügyi szakirányú felsőfokú végzettség, vagy
 
-b) közlekedési szakirányú felsőfokú végzettség és közigazgatási szakvizsga, vagy
+b)[^93] közlekedési szakirányú felsőfokú végzettség és közigazgatási szakvizsga, közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség, vagy
 
 c) közlekedési szakirányú felsőfokú végzettség és közúti közlekedési vállalkozás szakmai vezetésében legalább 5 éves gyakorlat.
 
 [^91]: A 3. melléklet a 280/2013. (VII. 24.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^92]: A 3. melléklet 1. pont 1.5. alpont b) pontja a 217/2016. (VII. 22.) Korm. rendelet 25. § a) pontja szerint módosított szöveg.
+[^93]: A 3. melléklet 2. pont 2.6. alpont b) pontja a 217/2016. (VII. 22.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
