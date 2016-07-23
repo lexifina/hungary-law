@@ -6,9 +6,9 @@
 
 (4) Az Szt. 140/T. § (3) bekezdése és a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 161/U. § (3) bekezdése szerint rögzített adatok esetében a jogerőre emelkedés időpontját legkésőbb a jogerőre emelkedésről való tudomásszerzést követő munkanapon kell rögzíteni. A rögzített adatok akkor válnak a Nyilvántartás részévé, amikor az ellátással kapcsolatos döntés jogerőre emelkedésére vonatkozó adatot az adatszolgáltatásra jogosult személy rögzíti.
 
-(5)[^2] Az Szt. 2015. január 1-jétől hatályos 134. § (2) bekezdése által előírt átadás-átvételi jegyzőkönyv mellé csatolni kell a Nyilvántartásban 2015. február 28-án szereplő, jogerősen megállapított aktív korúak ellátására vonatkozó adatok lekérésével összeállított jegyzőkönyvet. A jegyző, mint adatszolgáltatásért felelő személy aláírásával tanúsítja az adatok teljességét.
+(5)[^5] Az Szt. 2015. január 1-jétől hatályos 134. § (2) bekezdése által előírt átadás-átvételi jegyzőkönyv mellé csatolni kell a Nyilvántartásban 2015. február 28-án szereplő, jogerősen megállapított aktív korúak ellátására vonatkozó adatok lekérésével összeállított jegyzőkönyvet. A jegyző, mint adatszolgáltatásért felelő személy aláírásával tanúsítja az adatok teljességét.
 
-(6)[^3] Az Szt. 2015. január 1-jétől hatályos 134. § (3) bekezdés szerinti működtetési kötelezettség biztosítása érdekében a Hivatal legkésőbb 2015. március 6-áig hozzáférhetővé teszi az Szt. 2015. január 1-jétől hatályos 134. § (1) és (2) bekezdése szerinti adatokat a járási hivatal vezetője, mint adatszolgáltatásért felelős személy részére.
+(6)[^6] Az Szt. 2015. január 1-jétől hatályos 134. § (3) bekezdés szerinti működtetési kötelezettség biztosítása érdekében a Hivatal legkésőbb 2015. március 6-áig hozzáférhetővé teszi az Szt. 2015. január 1-jétől hatályos 134. § (1) és (2) bekezdése szerinti adatokat a járási hivatal vezetője, mint adatszolgáltatásért felelős személy részére.
 
-[^2]: A 8. § (5) bekezdését a 24/2015. (II. 20.) Korm. rendelet 43. §-a iktatta be.
-[^3]: A 8. § (6) bekezdését a 24/2015. (II. 20.) Korm. rendelet 43. §-a iktatta be.
+[^5]: A 8. § (5) bekezdését a 24/2015. (II. 20.) Korm. rendelet 43. §-a iktatta be.
+[^6]: A 8. § (6) bekezdését a 24/2015. (II. 20.) Korm. rendelet 43. §-a iktatta be.
