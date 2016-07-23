@@ -2,15 +2,15 @@
 
 17. § (1) A felnőttképzési tevékenység folytatására irányuló engedély kiadása iránti kérelem benyújtása esetén a kérelmezőnek – a (3) bekezdésben foglalt eltéréssel – a minőségcélokat képzésenként és indokolással ellátva az alábbiak szerint kell meghatároznia:
 
-a)[^49] OKJ-ban szereplő szakképesítés megszerzésére felkészítő képzés szakmai vizsgáinak éves átlagos vizsgaeredménye szakképesítésenként az Fktv. 15. § (7) bekezdése szerinti, a kérelem benyújtásának évét (a továbbiakban: tárgyév) megelőző, az NSZFH honlapján nyilvánosságra hozott adatokhoz viszonyítva,
+a)[^51] OKJ-ban szereplő szakképesítés megszerzésére felkészítő képzés szakmai vizsgáinak éves átlagos vizsgaeredménye szakképesítésenként az Fktv. 15. § (7) bekezdése szerinti, a kérelem benyújtásának évét (a továbbiakban: tárgyév) megelőző, az NSZFH honlapján nyilvánosságra hozott adatokhoz viszonyítva,
 
 b) az a) pont szerinti képzések esetén a tárgyévben folyamatban lévő és a tárgyévet követő évben befejezésre kerülő, valamint a tárgyévet követő évben megvalósításra kerülő képzések becsült lemorzsolódási aránya a tárgyévet megelőző évi – az Fktv. 21. § (4) bekezdése szerinti – statisztikai célú adatszolgáltatásban foglaltak figyelembevételével számított, e képzésekre vonatkozó adatokhoz viszonyítva, és
 
 c) a tárgyévet követő évre tervezett képzések elégedettségmérésének évi átlageredményére vonatkozó célkitűzés.
 
-(2)[^50] A felnőttképzést folytató intézménynek az (1) bekezdés b) pontja szerinti lemorzsolódási arányt azon személyek számának a képzésre beiratkozottak számához való viszonyításával kell meghatároznia, akik a képzést megkezdték, de a képzésen való részvétel feltételeit bármely ok miatt nem teljesítették.
+(2)[^52] A felnőttképzést folytató intézménynek az (1) bekezdés b) pontja szerinti lemorzsolódási arányt azon személyek számának a képzésre beiratkozottak számához való viszonyításával kell meghatároznia, akik a képzést megkezdték, de a képzésen való részvétel feltételeit bármely ok miatt nem teljesítették.
 
-(2a)[^51] Az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körbe tartozó képzés esetén – a (2) bekezdéstől eltérően – a lemorzsolódási arány meghatározásakor azon személyeket is figyelembe kell venni, akik nem felelnek meg a felnőttképzési nyelvi programkövetelmények nyilvántartásba vételének követelményeiről és eljárási rendjéről, valamint a nyelvi képzés követelményei teljesítésének igazolásáról szóló miniszteri rendelet szerint a nyelvi képzésen való részvételről kiadható igazolás feltételeinek.
+(2a)[^53] Az Fktv. 1. § (2) bekezdés c) pontja szerinti képzési körbe tartozó képzés esetén – a (2) bekezdéstől eltérően – a lemorzsolódási arány meghatározásakor azon személyeket is figyelembe kell venni, akik nem felelnek meg a felnőttképzési nyelvi programkövetelmények nyilvántartásba vételének követelményeiről és eljárási rendjéről, valamint a nyelvi képzés követelményei teljesítésének igazolásáról szóló miniszteri rendelet szerint a nyelvi képzésen való részvételről kiadható igazolás feltételeinek.
 
 (3) A kérelmezőnek nem kell alkalmaznia a kitűzött minőségcélok (1) bekezdés a) és b) pontban foglalt megelőző időszakhoz történő viszonyítását, ha az (1) bekezdés a) pontja szerinti képzést a kérelem benyújtását megelőzően nem folytatott.
 
@@ -24,6 +24,6 @@ foglalt rendelkezéseket kell értelemszerűen alkalmaznia.
 
 (5) A felnőttképzést folytató intézmény az Fktv. 14. § (2) bekezdés szerinti külső értékelését olyan jogi személlyel végeztetheti el, amelynek az FSZB-hez benyújtott minőségbiztosítási rendszere – a felnőttképzési minőségbiztosítási keretrendszerről, valamint a Felnőttképzési Szakértői Bizottság tagjairól, feladatairól és működésének részletes szabályairól szóló miniszteri rendeletben meghatározott keretrendszernek való – megfeleltethetőségéről és a felnőttképzést folytató intézményeknél történő alkalmazhatóságáról a miniszter döntött.
 
-[^49]: A 17. § (1) bekezdés a) pontja a 318/2014. (XII. 13.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
-[^50]: A 17. § (2) bekezdése a 360/2015. (XII. 2.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^51]: A 17. § (2a) bekezdését a 360/2015. (XII. 2.) Korm. rendelet 11. § (2) bekezdése iktatta be.
+[^51]: A 17. § (1) bekezdés a) pontja a 318/2014. (XII. 13.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
+[^52]: A 17. § (2) bekezdése a 360/2015. (XII. 2.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^53]: A 17. § (2a) bekezdését a 360/2015. (XII. 2.) Korm. rendelet 11. § (2) bekezdése iktatta be.

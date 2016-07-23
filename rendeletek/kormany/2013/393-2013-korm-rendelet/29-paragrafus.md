@@ -1,4 +1,4 @@
-29. §[^90] (1) Az NSZFH az Fktv. 20. § (5) bekezdésében foglalt jogkövetkezményt alkalmazza, ha az Fktv. 1. § (1) bekezdés c) pontjában meghatározott jogalany
+29. §[^92] (1) Az NSZFH az Fktv. 20. § (5) bekezdésében foglalt jogkövetkezményt alkalmazza, ha az Fktv. 1. § (1) bekezdés c) pontjában meghatározott jogalany
 
 1. határidőben nem tett eleget a 11. § (6) bekezdése szerinti bejelentési kötelezettségének,
 
@@ -44,4 +44,4 @@ d) d) pontja szerinti képzés esetén az érintett képzés kompetenciái megsz
 
 (2) Az NSZFH az Fktv. 20. § (6a) bekezdésében foglalt jogkövetkezményt alkalmazza, ha az Fktv. 1. § (1) bekezdés j) pontja szerinti képzést folytató intézmény hirdetései és írásbeli vagy szóbeli tájékoztatói nem felelnek meg az Fktv.-ben foglalt rendelkezéseknek.
 
-[^90]: A 29. § a 360/2015. (XII. 2.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^92]: A 29. § a 360/2015. (XII. 2.) Korm. rendelet 17. §-ával megállapított szöveg.
