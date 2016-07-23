@@ -106,7 +106,7 @@
 
 A mérésügyi hatóság által használt törvényes tanúsító jelek, hitelesítési bélyegzők rajzai és alkalmazásuk módja[^79]
 
-1. A törvényes tanúsító jelet a mérőeszköz
+1.[^80] A törvényes tanúsító jelet a mérőeszköz
 
 a) külső felületén, vagy
 
@@ -114,7 +114,7 @@ b) adattábláján, illetve a felületen e célra szolgáló helyen, vagy
 
 c) burkolatának felbontásakor egymáshoz képest elmozduló részek felületén kialakított, átfúrt elemeken átfűzött huzalos záróbélyeg fémpogácsáján (nyomóbélyegzés nyomóbélyegzővel lezárt fémzárral – plomba)
 
-helyezi el a hitelesítést végző köztisztviselő.
+helyezi el a hitelesítést végző kormánytisztviselő vagy állami tisztviselő.
 
 A törvényes nemzeti tanúsító és lezáró jelek típusai:
 
@@ -164,3 +164,4 @@ A mező alsó részén azonosító jelölés, alatta a minősítés éve találh
 
 [^78]: A Vhr. 3. számú mellékletét a 294/2001. (XII. 26.) Korm. rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 266/2006. (XII. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 7. § (1)–(2) bekezdése alapján rendelkezéseit a 2007. január 1. napját követően indult hatósági eljárásokban kell alkalmazni. A „2006–2009.” évszámot és az „OMH” jelölést tartalmazó hitelesítő, valamint lezáró öntapadó matricák 2009. december 31-éig érvényesek.
 [^79]: A Vhr. 3. számú mellékletének címe a 182/2009. (IX. 10.) Korm. rendelet 24. § (7) bekezdésével megállapított szöveg.
+[^80]: A Vhr. 3. számú mellékletének 1. pontja a 217/2016. (VII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.

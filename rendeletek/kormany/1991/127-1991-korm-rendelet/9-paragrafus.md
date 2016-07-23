@@ -10,7 +10,7 @@
 
 (5) A hitelesítési hibahatárok értékét a mérőeszközre vonatkozó hitelesítési előírásban vagy a hitelesítési engedélyben kell rögzíteni. A mérőeszközre előírt hitelesítési hibahatárok az első és az időszakos hitelesítésnél különböző nagyságúak lehetnek.
 
-(6)[^49] A mérőeszközt hitelesítést tanúsító jellel csak a mérésügyi szerv hitelesítésre feljogosított köztisztviselője láthatja el.
+(6)[^49] A mérőeszközt hitelesítést tanúsító jellel csak a mérésügyi szerv hitelesítésre feljogosított kormánytisztviselője vagy állami tisztviselője láthatja el.
 
 (7)[^50] A hitelesített mérőeszköz javítását végző szerv (személy) köteles a javítás megkezdése előtt a mérőeszköz korábbi hitelesítését tanúsító törvényes tanúsító jelet vagy bizonyítványt a hitelesítési előírás rendelkezéseinek megfelelően érvényteleníteni.
 
@@ -22,7 +22,7 @@
 [^46]: A Vhr. 9. §-ának (2) bekezdése a 68/2000. (V. 19.) Korm. rendelet 4. §-a iktatta a szövegbe.
 [^47]: Lásd az 1991: XXXIV. törvényt.
 [^48]: A Vhr. 9. §-ának (3) bekezdése a 309/2005. (XII. 25.) Korm. rendelet 7. § (1) bekezdésével megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 25. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^49]: A Vhr. 9. §-ának (6) bekezdése a 68/2000. (V. 19.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^49]: A Vhr. 9. §-ának (6) bekezdése a 68/2000. (V. 19.) Korm. rendelet 5. §-ával megállapított, a 217/2016. (VII. 22.) Korm. rendelet 1. § a) pontja szerint módosított szöveg.
 [^50]: A Vhr. 9. §-ának (7) bekezdése a 294/2001. (XII. 26.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^51]: A Vhr. 9. §-ának (8) bekezdése a 266/2006. (XII. 20.) Korm. rendelet 5. §-ával megállapított, valamint a 182/2009. (IX. 10.) Korm. rendelet 25. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^52]: A Vhr. 9. §-ának (9) bekezdését a 309/2005. (XII. 25.) Korm. rendelet 7. § (2) bekezdése iktatta be. E módosító rendelet 13. § (1) bekezdése alapján a rendelkezést a 2006. október 30. napja után indult mérésügyi eljárásokra kell alkalmazni.
