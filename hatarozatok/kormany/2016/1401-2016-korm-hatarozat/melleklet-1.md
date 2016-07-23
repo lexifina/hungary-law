@@ -22,16 +22,8 @@
 
 ## e) az Ávr. 153. §-ában biztosított jogkörében eljárva engedélyezi a 2015. évi kötelezettségvállalással terhelt, de meghiúsult kötelezettségvállalás miatt kötelezettségvállalással nem terhelt költségvetési maradványokból a XI. Miniszterelnökség fejezetnél keletkezett 360 000 ezer forint felhasználását.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, kormányhatározatok módosításáról, továbbá a 2015. évi költségvetési maradványok egy részének felhasználásáról szóló 1049/2016. (II. 15.) Korm. határozat 1. pont 1.3. alpontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „1.3. az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 152. § (5) bekezdésében biztosított jogkörében eljárva engedélyezi a 2015. évi kötelezettségvállalással nem terhelt költségvetési maradványokból az I. Országgyűlés fejezet 5. Közbeszerzési Hatóság címnél keletkezett 384 211 ezer forint, a XI. Miniszterelnökség fejezetnél keletkezett 2 652 773 ezer forint, a XII. Földművelésügyi Minisztérium fejezetnél keletkezett 5 147 000 ezer forint, a XIV. Belügyminisztérium fejezetnél keletkezett 5 373 839 ezer forint, a XVII. Nemzeti Fejlesztési Minisztérium fejezetnél keletkezett 35 964 291 ezer forint, a XX. Emberi Erőforrások Minisztériuma fejezetnél keletkezett 124 559 ezer forint felhasználását, valamint az Ávr. 153. §-ában biztosított jogkörében eljárva engedélyezi a 2015. évi kötelezettségvállalással terhelt, de meghiúsult kötelezettségvállalás miatt kötelezettségvállalással nem terhelt költségvetési maradványokból a XV. Nemzetgazdasági Minisztérium fejezetnél keletkezett 250 000 ezer forint felhasználását;”
-
-## 3. Az Országvédelmi Alapból történő előirányzat-átcsoportosításról és a 2015. évi költségvetési maradványok egy részének felhasználásáról szóló 1302/2016. (VI. 13.) Korm. határozat 2. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „2. az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 153. §-ában biztosított jogkörében eljárva engedélyezi a 2015. évi kötelezettségvállalással terhelt költségvetési maradványokból a XVII. Nemzeti Fejlesztési Minisztérium fejezetnél keletkezett 71 774 749 ezer forint 2016. június 30. utáni felhasználását, valamint a 2015. évi kötelezettségvállalással terhelt, de meghiúsult kötelezettségvállalás miatt kötelezettségvállalással nem terhelt költségvetési maradványokból a XI. Miniszterelnökség fejezetnél keletkezett 376 885 ezer forint felhasználását.”
+## 2–3.[^1]
 
 1. melléklet az 1401/2016. (VII. 22.) Korm. határozathoz
+
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
