@@ -1,4 +1,4 @@
-1. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^21]
+1. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^25]
 
 ## A rendvédelmi szervnek a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szempontjából központi, területi vagy helyi szervnek minősülő szervei
 
@@ -128,4 +128,4 @@ IX. Nemzetbiztonsági Szakszolgálat
 
 X. Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
-[^21]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^25]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a szerint módosított szöveg.

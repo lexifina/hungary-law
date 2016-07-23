@@ -24,6 +24,6 @@
 
 | 11. | Terrorelhárítási Információs és Bűnügyi Elemző Központ | „nemzetbiztonsági” | „nb.” |
 
-4. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^24]
+4. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^28]
 
-[^24]: A 4. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg.
+[^28]: A 4. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (3) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 52. §-a szerint módosított szöveg.

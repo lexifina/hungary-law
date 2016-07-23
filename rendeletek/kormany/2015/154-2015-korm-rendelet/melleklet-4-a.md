@@ -26,9 +26,9 @@
 
 | 11. | Más rendvédelmi szervhez történő áthelyezés – a kiemelt vezetői vagy középvezetői szolgálati beosztáson kívüli – más szolgálati beosztásból | országos parancsnok |
 
-| 12. | Kormányzati szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezés kiemelt vezetői vagy középvezetői szolgálati beosztásból | miniszter |
+| 12. | Közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezés kiemelt vezetői vagy középvezetői szolgálati beosztásból | miniszter |
 
-| 13. | Kormányzati szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezés – a kiemelt vezetői vagy középvezetői szolgálati beosztáson kívüli – más szolgálati beosztásból | országos parancsnok |
+| 13. | Közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezés – a kiemelt vezetői vagy középvezetői szolgálati beosztáson kívüli – más szolgálati beosztásból | országos parancsnok |
 
 | 14. | II. Rendfokozatot érintő döntések |  |
 
@@ -76,13 +76,13 @@
 
 ## b) a 10. sorban meghatározottaktól eltérően a középvezetői szolgálati beosztásból a más rendvédelmi szervhez történő áthelyezés,
 
-## c) a 12. sorban meghatározottaktól eltérően a középvezetői szolgálati beosztásból a kormányzati szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezés,
+## c) a 12. sorban meghatározottaktól eltérően a középvezetői szolgálati beosztásból a közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezés,
 
 ## d) a 15. sorban meghatározottaktól eltérően a tiszti rendfokozati állománycsoportba tartozó rendfokozatba első alkalommal történő kinevezés,
 
 ## e) a 21. sorban meghatározottaktól eltérően a más szervhez vezénylés.
 
-4/A. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^25]
+4/A. melléklet a 154/2015. (VI. 19.) Korm. rendelethez[^29]
 
 I. A 32/E. § (3) bekezdése szerinti alapellátmány mértéke
 
@@ -158,4 +158,4 @@ III. A 32/E. § (5) bekezdése szerinti beosztási pótlék mértéke
 
 IV. A 32/I. § (2) bekezdése szerinti kiküldetési ellátmány mértéke
 
-[^25]: A 4/A. mellékletet a 442/2015. (XII. 28.) Korm. rendelet 5. §-a iktatta be.
+[^29]: A 4/A. mellékletet a 442/2015. (XII. 28.) Korm. rendelet 5. §-a iktatta be.

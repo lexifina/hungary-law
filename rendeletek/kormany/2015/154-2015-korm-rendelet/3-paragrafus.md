@@ -2,11 +2,11 @@
 
 ## 3. § E rendelet alkalmazásában
 
-1. átadó szerv: az a rendvédelmi szerv, amelynek állományába a hivatásos állomány tagja kormányzati szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezés, a más rendvédelmi szervhez történő áthelyezés vagy a Magyar Honvédséghez történő áthelyezés elrendelését megelőzően tartozik;
+1.[^1] átadó szerv: az a rendvédelmi szerv, amelynek állományába a hivatásos állomány tagja közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezés, a más rendvédelmi szervhez történő áthelyezés vagy a Magyar Honvédséghez történő áthelyezés elrendelését megelőzően tartozik;
 
 2. átvevő szerv: a hivatásos állomány tagjának
 
-a) kormányzati szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezése esetén a rendvédelmi szervnek a hivatásos állomány tagját foglalkoztató szervezeti egységétől különböző, azon másik szervezeti egysége vagy a kormányzati szolgálati, közszolgálati, közalkalmazotti vagy igazságügyi alkalmazotti jogviszony létrehozására feljogosított azon munkáltatói szerv, amelyhez a hivatásos állomány tagját áthelyezik vagy áthelyezését tervezik,
+a)[^2] közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezése esetén a rendvédelmi szervnek a hivatásos állomány tagját foglalkoztató szervezeti egységétől különböző, azon másik szervezeti egysége, vagy a közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti vagy igazságügyi alkalmazotti jogviszony létrehozására feljogosított azon munkáltatói szerv, amelyhez a hivatásos állomány tagját áthelyezik vagy áthelyezését tervezik,
 
 b) más rendvédelmi szervhez történő áthelyezése esetén azon rendvédelmi szerv, amelyhez a hivatásos állomány tagját áthelyezik vagy áthelyezését tervezik,
 
@@ -19,3 +19,6 @@ c) Magyar Honvédséghez történő áthelyezése esetén a Magyar Honvédség;
 5. rendszeres illetménypótlék: a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 168. § (2) bekezdésében felsorolt pótlékok, a Nemzeti Adó- és Vámhivatal hivatásos állománya tekintetében a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 17/B. § (17) bekezdésében felsorolt pótlékok;
 
 6. vezénylő szerv: az a rendvédelmi szerv, amelynek állományába a hivatásos állomány más szervhez vezényelt, a miniszter által vezetett minisztériumba vagy a miniszter által irányított szervhez vezényelt, az ügyészi szervezethez vezényelt vagy a Nemzeti Közszolgálati Egyetemre vezényelt tagja tartozik.
+
+[^1]: A 3. § 1. pontja a 217/2016. (VII. 22.) Korm. rendelet 49. § (1) bekezdésével megállapított szöveg.
+[^2]: A 3. § 2. pont a) alpontja a 217/2016. (VII. 22.) Korm. rendelet 49. § (2) bekezdésével megállapított szöveg.
