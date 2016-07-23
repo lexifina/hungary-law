@@ -104,15 +104,25 @@
 
 ## vizsgakötelezettség előírásakor: a vizsga letételének határideje; a vizsga tervezett időpontja, vizsgáztatásra jogosult szerv megnevezése)
 
-## 6. a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok
+## 6. közigazgatási tanulmányok szakirányú szakképzettség adatai
 
-## 7. esküokmány száma, kelte
+## (teljesítés esetén: bizonyítvány száma, kelte, eredménye;
 
-## 8. közigazgatási versenyvizsga adatai
+## szakképzettség megszerzésének előírásakor: a vizsga letételének határideje; a vizsga tervezett időpontja, vizsgáztatásra jogosult szerv megnevezése)
 
-## (vizsgabizonyítvány száma, kelte, eredménye)
+## 7. kormányzati tanulmányok szakirányú szakképzettség
 
-## 9. a munkaköri alkalmassági vizsgálat eredményének adatai
+## (teljesítés esetén: bizonyítvány száma, kelte, eredménye;
+
+## szakképzettség megszerzésének előírásakor: a vizsga letételének határideje; a vizsga tervezett időpontja, vizsgáztatásra jogosult szerv megnevezése)
+
+## 8. a jubileumi jutalom és a végkielégítés mértéke kiszámításának alapjául szolgáló időtartamok
+
+## 9. esküokmány száma, kelte
+
+## 10. közigazgatási versenyvizsga adatai (vizsgabizonyítvány száma, kelte, eredménye)
+
+## 11. a munkaköri alkalmassági vizsgálat eredményének adatai
 
 ## (vizsgálat megnevezése, időpontja; alkalmasság minősítése)
 

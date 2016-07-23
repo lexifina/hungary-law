@@ -62,6 +62,6 @@
 
 ## A *-gal jelölt adatok kitöltése a nemzetbiztonsági szolgálatok hivatásos állományú tagjának nem kötelező.
 
-11. melléklet a 45/2012. (III. 20.) Korm. rendelethez[^54]
+11. melléklet a 45/2012. (III. 20.) Korm. rendelethez[^55]
 
-[^54]: A 11. melléklet a 237/2012. (VIII. 30.) Korm. rendelet 7. § (6) bekezdésével megállapított, a 157/2015. (VI. 25.) Korm. rendelet 30. § l) pontja szerint módosított szöveg.
+[^55]: A 11. melléklet a 237/2012. (VIII. 30.) Korm. rendelet 7. § (6) bekezdésével megállapított, a 157/2015. (VI. 25.) Korm. rendelet 30. § l) pontja szerint módosított szöveg.
