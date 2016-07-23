@@ -1,6 +1,6 @@
 ## Vizsgáztatásra vonatkozó szakmai képesítési feltételek
 
-## Személytaxis és személygépkocsis személyszállító vállalkozói szaktanfolyami vizsgabiztosra vonatkozó szakmai képesítések: államigazgatási, számviteli, pénzügyi felsőfokú végzettség vagy közigazgatási szakvizsga.
+## Személytaxis és személygépkocsis személyszállító vállalkozói szaktanfolyami vizsgabiztosra vonatkozó szakmai képesítések: államigazgatási, számviteli, pénzügyi felsőfokú végzettség vagy közigazgatási szakvizsga vagy közigazgatási tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség.
 
 5. melléklet a 176/2015. (VII. 7.) Korm. rendelethez
 
