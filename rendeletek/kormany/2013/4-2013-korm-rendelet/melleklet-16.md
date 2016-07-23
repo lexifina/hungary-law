@@ -10,7 +10,7 @@
 
 ## Ezen a rovaton kell elszámolni
 
-## a)[^321] a köztisztviselők, kormánytisztviselők, közalkalmazottak, rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjai, a Magyar Honvédség hivatásos és szerződéses állományú tagjai, a bírák, az ügyészek, az igazságügyi és az ügyészségi alkalmazottak - besorolási osztály, fizetési fokozat szerint megállapított, kötelező illetménykiegészítésekkel, a közalkalmazottak jogállásáról szóló törvény szerinti kereset-kiegészítéssel, a kötelező és feltételtől függő, adható pótlékokkal (például felzárkóztatási, kollégiumi, összevont osztályban oktatók pótlékai, közművelődési, közgyűjteményi dolgozók pótléka) növelt - illetményét,
+## a)[^321] a köztisztviselők, kormánytisztviselők, állami tisztviselők, közalkalmazottak, rendvédelmi feladatokat ellátó szervek hivatásos állományának tagjai, a Magyar Honvédség hivatásos és szerződéses állományú tagjai, a bírák, az ügyészek, az igazságügyi és az ügyészségi alkalmazottak - besorolási osztály, fizetési fokozat szerint megállapított, kötelező illetménykiegészítésekkel, a közalkalmazottak jogállásáról szóló törvény szerinti kereset-kiegészítéssel, a kötelező és feltételtől függő, adható pótlékokkal (például felzárkóztatási, kollégiumi, összevont osztályban oktatók pótlékai, közművelődési, közgyűjteményi dolgozók pótléka) növelt - illetményét,
 
 ## b) az állami vezető, a kormánybiztos, miniszterelnöki biztos, miniszteri biztos, valamint a költségvetési szerv választott tisztségviselőnek nem minősülő, az a) pontba nem tartozó vezetőjének illetményét,
 
@@ -2553,7 +2553,7 @@ Egységes számlatükör
 9322. Megszűnt részesedés nyilvántartás szerinti értéke és az átvett eszközök értéke nyereségjellegű különbözete
 
 [^320]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K1. SZEMÉLYI JUTTATÁSOK alpont, K11. Foglalkoztatottak személyi juttatásai alpont K1101. Törvény szerinti illetmények, munkabérek alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 3. pontjával megállapított szöveg.
-[^321]: A 15. melléklet K1101. Törvény szerinti illetmények, munkabérek alcím a) pontja a 157/2015. (VI. 25.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
+[^321]: A 15. melléklet K1101. Törvény szerinti illetmények, munkabérek alcím a) pontja a 157/2015. (VI. 25.) Korm. rendelet 37. § a) pontja, a 217/2016. (VII. 22.) Korm. rendelet 37. §-a szerint módosított szöveg.
 [^322]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1102. Normatív jutalmak rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
 [^323]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1103. Céljuttatás, projektprémium rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
 [^324]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1104 .Készenléti, ügyeleti, helyettesítési díj, túlóra, túlszolgálat rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.

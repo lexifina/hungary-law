@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-4-20-22
 | 2015-07-01 | 2013-4-20-22.12 | 157/2015. (VI. 25.) Korm. rendelet |
 | 2015-07-08 | 2013-4-20-22.13 | 175/2015. (VII. 7.) Korm. rendelet |
 | 2016-01-01 | 2013-4-20-22.14 | 402/2015. (XII. 15.) Korm. rendelet |
+| 2016-07-23 | 2013-4-20-22.15 | 157/2015. (VI. 25.) Korm. rendelet |
