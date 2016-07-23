@@ -1,3 +1,0 @@
-## 2. § A 24/2010. (III. 19.) FVM rendelet 4. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A zöldség-gyümölcs termelői csoportok a termelői szervezetként történő elismerés feltételeinek teljesítése céljából a tanácsi rendelet 103a. cikk (1) bekezdés b) pontja szerinti támogatást vehetnek igénybe legfeljebb a bizottsági rendelet 47. cikk (2) bekezdésében meghatározott mértékig a bizottsági rendelet 44. cikkében foglaltaknak megfelelően, figyelemmel a strukturális alapokból a „konvergencia” célkitűzés alapján 2007–2013 között nyújtott támogatásra jogosult régiók jegyzékének felállításáról szóló, 2006. augusztus 4-i 2006/595/EK bizottsági határozatra.”
