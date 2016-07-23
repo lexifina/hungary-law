@@ -50,3 +50,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2015-12-30 | 2011-368-20-22.42 | 465/2015. (XII. 29.) Korm. rendelet |
 | 2016-01-01 | 2011-368-20-22.43 | 465/2015. (XII. 29.) Korm. rendelet |
 | 2016-04-30 | 2011-368-20-22.44 | 89/2016. (IV. 29.) Korm. rendelet |
+| 2016-07-23 | 2011-368-20-22.45 | 465/2015. (XII. 29.) Korm. rendelet |

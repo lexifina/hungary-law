@@ -8,7 +8,7 @@ b) felsőoktatásban gazdaságtudományok képzési területen az a) ponttól el
 
 végezhet.
 
-(2a)[^335] Kincstári ellenőrzést vizsgálatvezetőként a (2) bekezdésben meghatározott végzettséggel rendelkező olyan személy végezhet, aki ellenőrzési, költségvetési, pénzügyi vagy számviteli munkakörben szerzett, legalább kétéves munkaviszonnyal, köztisztviselői, kormánytisztviselői, közalkalmazotti jogviszonnyal, bírói, igazságügyi, ügyészi vagy hivatásos szolgálati viszonnyal rendelkezik.
+(2a)[^335] Kincstári ellenőrzést vizsgálatvezetőként a (2) bekezdésben meghatározott végzettséggel rendelkező olyan személy végezhet, aki ellenőrzési, költségvetési, pénzügyi vagy számviteli munkakörben szerzett, legalább kétéves munkaviszonnyal, közszolgálati, kormányzati szolgálati, állami szolgálati, közalkalmazotti jogviszonnyal, bírói, igazságügyi, ügyészi vagy hivatásos szolgálati viszonnyal rendelkezik.
 
 (3)[^336] Nem végezhet kincstári ellenőrzést az, aki az Áht. 59. §-a szerinti felülvizsgálatot a 109. § (4) bekezdése szerint nem végezhet.
 
@@ -18,6 +18,6 @@ végezhet.
 
 [^333]: Az Ávr. 115/B. §-át a 397/2014. (XII. 31.) Korm. rendelet 27. §-a iktatta be.
 [^334]: Az Ávr. 115/B. § (2) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^335]: Az Ávr. 115/B. § (2a) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be.
+[^335]: Az Ávr. 115/B. § (2a) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 14. § (2) bekezdése iktatta be, szövege a 217/2016. (VII. 22.) Korm. rendelet 28. §-a szerint módosított szöveg.
 [^336]: Az Ávr. 115/B. § (3) bekezdése a 20/2015. (II. 17.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^337]: Az Ávr. 115/B. § (5) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 20. pontja szerint módosított szöveg.
