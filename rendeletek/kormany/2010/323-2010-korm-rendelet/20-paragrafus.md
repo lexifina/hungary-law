@@ -1,0 +1,1 @@
+## hatáskörébe tartozik.

@@ -6,7 +6,7 @@ b) 4. § (1) bekezdés l) és o) pontja szerinti feladatok ellátására egészs
 
 c) 4. § (1) bekezdés q) pontja szerinti feladatok ellátására egészségügyi államigazgatási szervként az Országos Közegészségügyi Központot és az Országos Epidemiológiai Központot
 
-jelöli ki.
+## jelöli ki.
 
 (2)[^76] A Kormány az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 4. § (5) bekezdés a) pont ab) alpontja szerinti feladat ellátására az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézetet (a továbbiakban: OGYÉI) jelöli ki.
 

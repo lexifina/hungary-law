@@ -26,7 +26,7 @@ cc) 20. § (3a) bekezdése,
 
 cd)[^34] 19/B. §-a
 
-szerinti feladatok ellátására.
+## szerinti feladatok ellátására.
 
 (3a)[^35] A Kormány – kormányrendelet eltérő rendelkezése hiányában – munkahigiénés és foglalkozás-egészségügyi szervként az OTH-t jelöli ki.
 
@@ -116,7 +116,7 @@ j)[^47] a települési önkormányzatok fekvőbeteg-szakellátó intézményeine
 
 k)[^48] az egészségügyi alapellátásról szóló 2015. évi CXXIII. évi törvény 14. §-a
 
-szerinti feladatok ellátására.
+## szerinti feladatok ellátására.
 
 (5)[^49] A Kormány egészségügyi államigazgatási szervként a kormányhivatalt jelöli ki
 
@@ -154,7 +154,7 @@ k)[^56] a megyei önkormányzatok konszolidációjáról, a megyei önkormányza
 
 l)[^57] az egészségügyi államigazgatási feladatok tekintetében az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény 2. §-a
 
-szerinti feladatok ellátására.
+## szerinti feladatok ellátására.
 
 (5a)[^58] A Kormány egészségügyi államigazgatási szervként a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, a honvédelemért felelős miniszter vagyonkezelésébe tartozó gazdasági társaságok és a rendvédelmi szervek, valamint az Országgyűlési Őrség – ide nem értve a büntetés-végrehajtási szervezetnek a fogvatartottak elhelyezésére és foglalkoztatására létrehozott büntetés-végrehajtási szerveit – vonatkozásában a rendvédelmi szervek, a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat, az Országgyűlési Őrség, valamint a honvédelemért felelős miniszter tulajdonosi joggyakorlása alatt álló gazdasági társaságok közegészségügyi-járványügyi feladatait ellátó egyes szervek kijelöléséről szóló kormányrendeletben meghatározott elsőfokú közegészségügyi-járványügyi hatósági jogkör gyakorlóját jelöli ki a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény 2. § (9) bekezdése és 7. §-a szerinti feladatok ellátására.
 
@@ -166,7 +166,7 @@ b) az Eütv. 229. § (3) bekezdése,
 
 c) az Eütv. 232/B. § (2) bekezdése
 
-szerinti feladatok ellátására.
+## szerinti feladatok ellátására.
 
 (6)[^60] A Kormány egészségügyi államigazgatási szervként az OTH-t és a kormányhivatalt jelöli ki
 
@@ -180,7 +180,7 @@ d) a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXII
 
 e)[^61] az Eütv. 123. § (1) bekezdés a) pontja és (2) bekezdése
 
-szerinti feladatok ellátására.
+## szerinti feladatok ellátására.
 
 (7)[^62] A Kormány egészségügyi államigazgatási szervként az OTH-t, a kormányhivatalt és a járási hivatalt jelöli ki
 
@@ -198,7 +198,7 @@ ca) 23. § d) pontja,
 
 cb) 24. § e) és f) pontja
 
-szerinti feladatok ellátására.
+## szerinti feladatok ellátására.
 
 (8)[^64] A Kormány egészségügyi államigazgatási szervként az OTH-t és a járási hivatalt jelöli ki az egészségügyi hatósági és igazgatási tevékenységről szóló 1991. évi XI. törvény 6. § (1) bekezdés p) pontja szerinti feladatok ellátására.
 
