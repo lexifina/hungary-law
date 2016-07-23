@@ -1,4 +1,4 @@
-11/A. §[^2] (1) Annak a tudomány kandidátusának, akinek nyugdíját 1989. április 1. napjától — az illetménykiegészítésének megszűnésére tekintettel — havi 1000 forinttal felemelték, ezen emelt összeggel kell nyugdíját továbbra is folyósítani.
+11/A. §[^3] (1) Annak a tudomány kandidátusának, akinek nyugdíját 1989. április 1. napjától — az illetménykiegészítésének megszűnésére tekintettel — havi 1000 forinttal felemelték, ezen emelt összeggel kell nyugdíját továbbra is folyósítani.
 
 (2) Annak a tudomány kandidátusa özvegyének, akinek özvegyi nyugdíját 1989. április 1. napjától havi 500 forinttal, a tudomány kandidátusa szülőjének szülői nyugdíját, árvájának árvaellátását 250 forinttal felemelték, ezen emelt összeggel kell nyugdíját, árvaellátását továbbra is folyósítani.
 
@@ -12,4 +12,4 @@
 
 (4) Az (1)—(3) bekezdésben megjelölt ellátások fedezetét és a végrehajtás költségeit a központi költségvetésből — félévenként — a Nyugdíjbiztosítási Alapnak meg kell téríteni.
 
-[^2]: A 11/A. §-t a 171/1995. (XII. 27.) Korm. rendelet 1. §-a iktatta a szövegbe.
+[^3]: A 11/A. §-t a 171/1995. (XII. 27.) Korm. rendelet 1. §-a iktatta a szövegbe.
