@@ -20,7 +20,7 @@ h) – a 19. §-ban foglalt ellenőrzési jogkörtől eltérően – kezdeménye
 
 i) a kiemelt jelentőségű ügyben feladat- és hatáskörrel rendelkező szervet egyedi vagy rendszeres jelentéstételre vagy beszámolóra kötelezheti – a (4) bekezdésben foglalttól eltérő határidővel –;
 
-j) a kormányzati szolgálati jogviszonyból eredő kötelezettségeknek a kiemelt jelentőségű ügy intézése során történő megszegésének alapos gyanúja esetén fegyelmi eljárást kezdeményezhet; valamint
+j)[^5] a kormányzati szolgálati, az állami szolgálati jogviszonyból eredő kötelezettségeknek a kiemelt jelentőségű ügy intézése során történő megszegésének alapos gyanúja esetén fegyelmi eljárást kezdeményezhet; valamint
 
 k) további, a kiemelt jelentőségű ügyet megállapító kormányrendeletben meghatározott, a kiemelt jelentőségű ügy intézésével kapcsolatos feladatot láthat el.
 
@@ -41,3 +41,5 @@ c) a Kormány döntését igénylő kérdésben előterjesztést készít a Korm
 d) minden hónap 1. munkanapján tájékoztatja a közigazgatás-szervezésért felelős minisztert a kiemelt jelentőségű ügy állásáról, valamint intézkedéseiről.
 
 (7) A (2) bekezdésben meghatározott hatásköröket a kiemelt jelentőségű ügyet megállapító kormányrendeletben kijelölt kormánymegbízott nem gyakorolhatja az önálló szabályozó szervek, a Magyar Nemzeti Bank, az autonóm államigazgatási szervek, a Nemzeti Adó- és Vámhivatal, valamint a rendvédelmi szervek tekintetében.
+
+[^5]: A 11. § (2) bekezdés j) pontja a 217/2016. (VII. 22.) Korm. rendelet 46. §-a szerint módosított szöveg.
