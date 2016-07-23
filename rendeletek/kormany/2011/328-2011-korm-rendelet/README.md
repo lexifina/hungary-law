@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-328-20-
 | 2015-09-01 | 2011-328-20-22.12 | 190/2015. (VII. 20.) Korm. rendelet |
 | 2016-01-01 | 2011-328-20-22.13 | 431/2015. (XII. 23.) Korm. rendelet |
 | 2016-07-16 | 2011-328-20-22.14 | 191/2016. (VII. 13.) Korm. rendelet |
+| 2016-07-23 | 2011-328-20-22.15 | 98/2013. (III. 29.) Korm. rendelet |
