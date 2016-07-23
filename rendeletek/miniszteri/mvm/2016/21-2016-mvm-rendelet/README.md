@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-21-20-6
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-07-22 | 2016-21-20-6N.1 | 21/2016. (VII. 21.) MvM rendelet |
+| 2016-07-23 | 2016-21-20-6N.2 | 2010: CXXX. törvény |
