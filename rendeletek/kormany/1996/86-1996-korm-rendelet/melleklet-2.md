@@ -320,7 +320,7 @@
 
 ## 1.128.[^130] a fővárosi és megyei kormányhivatal kormánytisztviselőjének helyszíni hatósági ellenőrzésre jogosító igazolványa;
 
-## 1.129.[^131] a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala kormánytisztviselőjének helyszíni hatósági ellenőrzésre jogosító igazolványa.
+## 1.129.[^131] a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala állami tisztviselőjének helyszíni hatósági ellenőrzésre jogosító igazolványa.
 
 ## 2. Védelmet igénylő létesítmények, szervek, intézmények belépési engedélyei, belépésre jogosító igazolványai
 
@@ -537,7 +537,7 @@ III. Az okmányvédelmi kategóriák és az okmányinformatikai védelmi kategó
 [^128]: Az 1. számú melléklet III. alcím 1.126. pontját a 312/2015. (X. 28.) Korm. rendelet 14. § (1) bekezdése iktatta be.
 [^129]: Az 1. számú melléklet III. alcím 1.127. pontját a 312/2015. (X. 28.) Korm. rendelet 14. § (2) bekezdése iktatta be.
 [^130]: Az 1. számú melléklet III. rész 1. pont 1.128. alpontját a 441/2015. (XII. 28.) Korm. rendelet 15. §-a iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^131]: Az 1. számú melléklet III. rész 1. pont 1.129. alpontját a 441/2015. (XII. 28.) Korm. rendelet 15. §-a iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^131]: Az 1. számú melléklet III. rész 1. pont 1.129. alpontját a 441/2015. (XII. 28.) Korm. rendelet 15. §-a iktatta be, szövege a 217/2016. (VII. 22.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
 [^132]: Az 1. számú melléklet III. rész 2. pont 2.3. alpontja a 314/2011. (XII. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^133]: Az 1. számú melléklet III. rész 2. pont 2.4. alpontja a 221/2014. (IX. 4.) Korm. rendelet 166. §-ával megállapított szöveg.
 [^134]: Az 1. számú melléklet III. rész 2. pont 2.5. alpontja a 221/2014. (IX. 4.) Korm. rendelet 166. §-ával megállapított szöveg.
