@@ -1,4 +1,4 @@
-4/A. §[^6] (1) A Hivatal különös feladat- és hatáskörrel rendelkező szervezeti egysége (a továbbiakban: módszertani feladatokat ellátó szervezeti egység) a jogszabályban meghatározott esetben és szakkérdésben módszertani szakértőként jár el
+4/A. §[^7] (1) A Hivatal különös feladat- és hatáskörrel rendelkező szervezeti egysége (a továbbiakban: módszertani feladatokat ellátó szervezeti egység) a jogszabályban meghatározott esetben és szakkérdésben módszertani szakértőként jár el
 
 a) a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásával és ellenőrzésével,
 
@@ -12,4 +12,4 @@ kapcsolatos közigazgatási hatósági ügyekben.
 
 (3) A módszertani feladatokat ellátó szervezeti egység a feladatainak ellátásába bevonhat, vagy egyes feladatainak ellátására pályázat alapján kijelölhet szakértőket, szociális, gyermekjóléti, gyermekvédelmi szolgáltatókat, intézményeket, hálózatokat és szakmai szervezeteket.
 
-[^6]: A 4/A. §-t a 221/2015. (VIII. 7.) Korm. rendelet 25. §-a iktatta be.
+[^7]: A 4/A. §-t a 221/2015. (VIII. 7.) Korm. rendelet 25. §-a iktatta be.

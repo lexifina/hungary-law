@@ -20,6 +20,6 @@ c) a miniszternek az Szt. 58/A. § (2f) bekezdésében vagy a Gyvt. 145. § (2f)
 
 a) szolgáltató, intézmény, hálózat megnevezését és ellátási területét,
 
-b)[^16] ellátotti számot, férőhelyszámot, illetve feladatmutatót.
+b)[^18] ellátotti számot, férőhelyszámot, illetve feladatmutatót.
 
-[^16]: A 14. § (5) bekezdése b) pontja a 419/2015. (XII. 23.) Korm. rendelet 49. § c) pontja szerint módosított szöveg.
+[^18]: A 14. § (5) bekezdése b) pontja a 419/2015. (XII. 23.) Korm. rendelet 49. § c) pontja szerint módosított szöveg.

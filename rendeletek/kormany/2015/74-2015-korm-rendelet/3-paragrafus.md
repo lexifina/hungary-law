@@ -6,7 +6,7 @@ a) jogszabályban meghatározott esetekben rehabilitációs hatóságként, reha
 
 b) szakvéleményt ad a súlyos fokozatú demens megbetegedésről, valamint a fogyatékos személyek alapvizsgálatához, a rehabilitációs és szociális foglalkoztatási alkalmassági vizsgálathoz, továbbá a szociális intézményekben ellátott személyek állapotának felülvizsgálatához,
 
-c)[^1] ellátja a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók, valamint a foglalkozási rehabilitációs szolgáltatók akkreditációjával, az akkreditált munkáltatók és az akkreditált szolgáltatók nyilvántartásával, valamint az akkreditált munkáltatók és az akkreditált szolgáltatók ellenőrzésével összefüggő hatósági feladatokat,
+c)[^2] ellátja a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltatók, valamint a foglalkozási rehabilitációs szolgáltatók akkreditációjával, az akkreditált munkáltatók és az akkreditált szolgáltatók nyilvántartásával, valamint az akkreditált munkáltatók és az akkreditált szolgáltatók ellenőrzésével összefüggő hatósági feladatokat,
 
 d) ellátja a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokkal, valamint a megváltozott munkaképességű munkavállalók foglalkoztatásához nyújtható költségvetési támogatásokkal érintett munkáltatókra és munkavállalókra vonatkozó központi nyilvántartással kapcsolatos feladatokat,
 
@@ -34,7 +34,7 @@ o) orvos-szakmai módszertani feladatellátáshoz kapcsolódó képességvizsgá
 
 p) a megváltozott munkaképességű munkavállalók foglalkoztatására, és az azt elősegítő támogatásokra, szolgáltatásokra vonatkozóan tájékoztatási, információnyújtási feladatokat lát el.
 
-(2)[^2] A Hivatal szociális, gyermekjóléti, gyermekvédelmi, társadalmi felzárkózási és drogpolitikai feladatkörében
+(2)[^3] A Hivatal szociális, gyermekjóléti, gyermekvédelmi, társadalmi felzárkózási és drogpolitikai feladatkörében
 
 a) működést engedélyező szervként jár el, továbbá ellátja a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásával és ellenőrzésével, valamint az ehhez szükséges iratminták kiadásával kapcsolatos egyéb feladatokat,
 
@@ -86,9 +86,9 @@ a) ellátja az Országos Szociálpolitikai Szakértői Névjegyzékben, az Orsz�
 
 b) közreműködik a rehabilitációval foglalkozó személyek rehabilitációs szakmai humánerőforrás-fejlesztésében és szakmai képzésében,
 
-c)[^3] működteti a szociális ágazat képzési, továbbképzési, alap- és szakvizsga rendszerét, minősíti a továbbképzési programokat, és
+c)[^4] működteti a szociális ágazat képzési, továbbképzési, alap- és szakvizsga rendszerét, minősíti a továbbképzési programokat, és
 
-d)[^4] a szociális szolgáltatások szakmacsoport szakképesítései esetében szakmai vizsgát szervez.
+d)[^5] a szociális szolgáltatások szakmacsoport szakképesítései esetében szakmai vizsgát szervez.
 
 (4) A Hivatal
 
@@ -100,7 +100,7 @@ c) javaslatot tesz a miniszternek a feladat- és hatáskörét érintő jogszab�
 
 d) tevékenységéről évente beszámol a miniszternek, és gondoskodik a beszámolónak a Hivatal honlapján történő közzétételéről.
 
-[^1]: A 3. § (1) bekezdés c) pontja a 117/2016. (VI. 6.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^2]: A 3. § (2) bekezdése a 221/2015. (VIII. 7.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^3]: A 3. § (3) bekezdés c) pontját a 221/2015. (VIII. 7.) Korm. rendelet 24. § (2) bekezdése iktatta be.
-[^4]: A 3. § (3) bekezdés d) pontját a 221/2015. (VIII. 7.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^2]: A 3. § (1) bekezdés c) pontja a 117/2016. (VI. 6.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^3]: A 3. § (2) bekezdése a 221/2015. (VIII. 7.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^4]: A 3. § (3) bekezdés c) pontját a 221/2015. (VIII. 7.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+[^5]: A 3. § (3) bekezdés d) pontját a 221/2015. (VIII. 7.) Korm. rendelet 24. § (2) bekezdése iktatta be.

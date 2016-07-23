@@ -1,4 +1,4 @@
-11. § (1)[^13] A megkereső hatóság a rehabilitációs hatóság rendelkezésére bocsátja a minősítés elvégzéséhez szükséges iratokat, így
+11. § (1)[^15] A megkereső hatóság a rehabilitációs hatóság rendelkezésére bocsátja a minősítés elvégzéséhez szükséges iratokat, így
 
 a) az érintett személy egészségi állapotára, gyógykezelésére, rehabilitációjára vonatkozó összefoglaló adatokat tartalmazó, a munkaképesség-változás vagy a súlyos fogyatékosság véleményezése céljából kiállított beutalót,
 
@@ -16,4 +16,4 @@ a) a települési önkormányzat jegyzőjétől és a fővárosi és megyei korm
 
 b) a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalától tájékoztatást kérhet az érintett személy vonatkozásában az adott térség munkaerő-piaci helyzetéről.
 
-[^13]: A 11. § (1) bekezdése a 247/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^15]: A 11. § (1) bekezdése a 247/2015. (IX. 8.) Korm. rendelet 2. §-ával megállapított szöveg.

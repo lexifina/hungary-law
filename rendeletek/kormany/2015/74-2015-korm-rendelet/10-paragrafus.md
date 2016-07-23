@@ -1,6 +1,6 @@
 10. § (1) A rehabilitációs hatóságként, rehabilitációs szakértői szervként vagy orvosszakértői szervként, valamint e feladatköreiben eljáró fővárosi és megyei kormányhivatal és a Hivatal (a továbbiakban együtt: rehabilitációs hatóság) bizottsági állásfoglalás alapján hozza meg döntését, szakvéleményét, illetve vizsgálja az e rendelet vagy más jogszabály alapján a feladatkörébe tartozó szakkérdést.
 
-(2) A szakértői bizottság tagjait és elnökét az eljáró szerv vezetője jelöli ki. A szakértői bizottság elnökének csak kormányzati szolgálati jogviszonyban álló orvosszakértő jelölhető ki. A szakértői bizottság elnöke legalább az osztályvezetővel azonos illetményben és juttatásokban részesül.
+(2)[^13] A szakértői bizottság tagjait és elnökét az eljáró szerv vezetője jelöli ki. A szakértői bizottság elnökének csak kormányzati szolgálati jogviszonyban vagy állami szolgálati jogviszonyban álló orvosszakértő jelölhető ki. A szakértői bizottság elnöke legalább az osztályvezetővel azonos illetményben és juttatásokban részesül.
 
 (3) A szakértői bizottság legalább két tagból áll. A szakértői bizottság komplex minősítés során legalább négy tagból áll.
 
@@ -14,7 +14,7 @@ b) legalább egy tagja foglalkozási rehabilitációs szakértő,
 
 c) legalább egy tagja szociális szakértő.
 
-(6)[^12] A rehabilitációs hatóság – a szakértői bizottság elnöke kivételével – kormányzati szolgálati jogviszonyban nem álló szakértőt is igénybe vehet.
+(6)[^14] A rehabilitációs hatóság – a szakértői bizottság elnöke kivételével – kormányzati szolgálati jogviszonyban vagy állami szolgálati jogviszonyban nem álló szakértőt is igénybe vehet.
 
 (7) A szakértői bizottságnak nem lehet tagja, aki részt vett vagy részt vesz a hatósági vagy szakértői eljárásba vont személy (a továbbiakban: érintett személy) gyógykezelésében, szociális gondozásában.
 
@@ -24,4 +24,5 @@ a) 3. § (7) bekezdésében foglalt rendelkezéseit nem kell alkalmazni a fővá
 
 b) 3. § (6) és (7) bekezdésében foglalt rendelkezéseit nem kell alkalmazni a Hivatalnál orvosszakértői munkakörben foglalkoztatott kormánytisztviselők munkaköri pótlékának megállapításánál.
 
-[^12]: A 10. § (6) bekezdése a 247/2015. (IX. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^13]: A 10. § (2) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 47. §-a szerint módosított szöveg.
+[^14]: A 10. § (6) bekezdése a 247/2015. (IX. 8.) Korm. rendelet 1. §-ával megállapított, a 217/2016. (VII. 22.) Korm. rendelet 47. §-a szerint módosított szöveg.
