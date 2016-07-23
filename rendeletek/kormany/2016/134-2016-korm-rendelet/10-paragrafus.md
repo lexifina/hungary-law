@@ -6,10 +6,11 @@ a) felsőfokú végzettséggel és szakképzettséggel,
 
 b) legalább ötéves vezetői gyakorlattal, és
 
-c) pedagógus, közigazgatási vagy jogi szakvizsgával
+c)[^4] pedagógus szakvizsgával, közigazgatási szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel vagy jogi szakvizsgával
 
 ## rendelkezik.
 
-(3)–(5)[^4]
+(3)–(5)[^5]
 
-[^4]: A 10. § (3)–(5) bekezdése a 14. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^4]: A 10. § (2) bekezdés c) pontja a 217/2016. (VII. 22.) Korm. rendelet 59. §-ával megállapított szöveg.
+[^5]: A 10. § (3)–(5) bekezdése a 14. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.

@@ -10,6 +10,6 @@ b) 9. § e) pontja és 9/A. § (3) bekezdése szerinti hatékonysági, pénzügy
 
 ## hatásköröket.
 
-(4)[^6]
+(4)[^7]
 
-[^6]: A 19. § (4) bekezdése a 14. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+[^7]: A 19. § (4) bekezdése a 14. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.

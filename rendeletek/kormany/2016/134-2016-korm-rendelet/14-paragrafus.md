@@ -1,4 +1,4 @@
-## 11–13. §[^5]
+## 11–13. §[^6]
 
 ## 5. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1–8. §, a 9. § (2) bekezdése, a 10. § (3)–(5) bekezdése, a 11–13. § és a 20–25. §, valamint a 3. melléklet 2017. január 1-jén lép hatályba.
 
-[^5]: A 11–13. § a 14. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^6]: A 11–13. § a 14. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
