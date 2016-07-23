@@ -48,7 +48,7 @@ d) az e törvény végrehajtására kiadott kormányrendeletben előírt, az ép
 
 e) összeférhetetlenségi szabályok megsértése,
 
-f) építési műszaki ellenőr, felelős műszaki vezető, építtetői fedezetkezelő nélkül végzett építési tevékenység,
+f) építési műszaki ellenőr, felelős műszaki vezető, építtetői fedezetkezelő, tervezői művezető nélkül végzett építési tevékenység,
 
 g) szakszerűtlenül végzett kivitelezési tevékenység,
 

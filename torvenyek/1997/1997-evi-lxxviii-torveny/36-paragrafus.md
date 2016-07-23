@@ -1,6 +1,6 @@
 36. § (1) Építésügyi hatósági engedély törvényben, kormányrendeletben meghatározottak szerint akkor adható, ha a kérelem és mellékletei, valamint a kérelmezett tevékenység megfelel a jogszabályokban meghatározott szakszerűségi követelményeknek.
 
-(2) A településképet, egyedi tájértékeket érintő építésügyi hatósági engedélyezés során az építésügyi hatóság előírhatja különösen:
+(2) A településképi követelményt egyedi tájértékeket érintő építésügyi hatósági engedélyezés során az építésügyi hatóság előírhatja különösen:
 
 a) a jellemző helyi építőanyag használatát, jellegzetes építészeti forma vagy tömeg helyreállítását, illetve visszaállítását, továbbá
 

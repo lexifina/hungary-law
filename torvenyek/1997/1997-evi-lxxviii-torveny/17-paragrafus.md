@@ -28,4 +28,6 @@ l) településképi véleményezési eljárás,
 
 m) településképi bejelentési eljárás,
 
-n) közterület-alakítás.
+n) közterület-alakítás,
+
+o) településképi követelmények.

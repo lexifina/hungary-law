@@ -4,7 +4,7 @@
 
 a) a jogszabályokkal összhangban álló településfejlesztési koncepció, integrált településfejlesztési stratégia, településrendezési eszközök és építészeti-műszaki dokumentáció alapján,
 
-b) a jogszabályokban előírt építészeti, műszaki, biztonsági, egészségügyi, rendeltetési és használati, továbbá környezet- és természetvédelmi követelményekkel összhangban,
+b) a jogszabályokban előírt építészeti, településképi műszaki, biztonsági, egészségügyi, rendeltetési és használati, továbbá környezet- és természetvédelmi követelményekkel összhangban,
 
 c) a humánus környezetre és az esztétikus kialakításra tekintettel, valamint
 

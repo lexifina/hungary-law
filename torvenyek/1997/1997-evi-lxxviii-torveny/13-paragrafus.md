@@ -22,7 +22,7 @@ bf) a beépítési módot, az építési helyet és
 
 bg) a minimális zöldfelület mértékét;
 
-c) országos vagy helyi építészeti örökségvédelemmel, településképi védelemmel, országos régészeti-, táj- és természetvédelemmel kapcsolatos rendelkezéseket, továbbá a veszélyeztetett területekre, a természeti csapások elleni védelemre, a katasztrófavédelemre vonatkozó követelményeket, védőterületet, védőtávolságot
+c) országos vagy helyi építészeti örökségvédelemmel, – településképi rendelet hiányában – a településképi védelemmel, országos régészeti-, táj- és természetvédelemmel kapcsolatos rendelkezéseket, továbbá a veszélyeztetett területekre, a természeti csapások elleni védelemre, a katasztrófavédelemre vonatkozó követelményeket, védőterületet, védőtávolságot
 
 kell figyelembe venni.
 

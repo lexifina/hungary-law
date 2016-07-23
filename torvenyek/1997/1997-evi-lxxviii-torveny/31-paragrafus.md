@@ -30,4 +30,4 @@ c) mindenki számára a közhasználatú építmények esetében a biztonságos 
 
 d) a terület geológiai, hidrológiai és szeizmológiai sajátosságainak való megfelelést.
 
-(5) Mind az építmény elhelyezése, mind pedig a külső megjelenését befolyásoló kialakítása, átalakítása, bővítése, felújítása, helyreállítása során különös figyelmet kell fordítani a táj- és településkép, a beépítési vagy az építészeti jellegzetesség és látvány, a helyi jelleg védelmére, az épített örökség védett értékeinek érvényesülésére.
+(5) Mind az építmény elhelyezése, mind pedig a külső megjelenését befolyásoló kialakítása, átalakítása, bővítése, felújítása, helyreállítása során különös figyelmet kell fordítani a településkép, a tájkép a beépítési vagy az építészeti jellegzetesség és látvány, a helyi jelleg védelmére, az épített örökség védett értékeinek érvényesülésére.

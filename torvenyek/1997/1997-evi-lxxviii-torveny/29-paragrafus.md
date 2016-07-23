@@ -18,10 +18,6 @@ rendelhető el.
 
 (5) A településrendezési kötelezettségről szóló határozat közlésével egyidejűleg a képviselő-testület megkeresi az ingatlanügyi hatóságot a kötelezettség tényének ingatlan-nyilvántartásba történő feljegyzése érdekében. A kötelezettség megszűnését követően 15 munkanapon belül a képviselő-testület az erről szóló határozat közlésével egyidejűleg a kötelezettség tényének az ingatlan-nyilvántartásból való törlése érdekében megkeresi az ingatlanügyi hatóságot.
 
-(6) A települési önkormányzat polgármestere – kormányrendeletben meghatározottak szerint – településképi kötelezés formájában önkormányzati hatósági döntéssel elrendelheti
+(6)
 
-a) a településképet rontó reklámok, cégérek megszüntetését,
-
-b) a helyi építészeti értékvédelemmel összefüggő kötelezettségek teljesítését.
-
-(7) A helyi önkormányzat képviselő-testülete önkormányzati rendeletben a (6) bekezdés szerinti településképi kötelezettségek megszegése és végre nem hajtása esetén e magatartás elkövetőjével szemben 50 000 forintig terjedhető bírság kiszabását rendelheti el.
+(7)

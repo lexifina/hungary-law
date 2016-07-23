@@ -126,7 +126,7 @@
 
 23. a településszerkezeti terv és a helyi építési szabályzat tartalmára, elkészítésére és elfogadására vonatkozó részletes szabályokat,
 
-24. a településképi véleményezési és a településképi bejelentési eljárásra, a közterület-alakításra, valamint a településrendezési kötelezettségek teljesítésére vonatkozó részletes szabályokat, továbbá a telepítési tanulmányterv és a beépítési terv előkészítésére és tartalmára vonatkozó szabályokat,
+24. a közterület-alakításra, valamint a településrendezési kötelezettségek teljesítésére vonatkozó részletes szabályokat, továbbá a telepítési tanulmányterv és a beépítési terv előkészítésére és tartalmára vonatkozó szabályokat,
 
 25. az összevont telepítési eljárás szabályait,
 
@@ -166,7 +166,7 @@ rendeletben állapítsa meg.
 
 2. az épületek energetikai jellemzőinek meghatározására vonatkozó szabályokat,
 
-3. a helyi építészeti örökség védelmének szakmai szabályait,
+3.
 
 4. a területek biológiai aktivitás értékének számítására vonatkozó részletes szabályokat – a környezetvédelemért felelős miniszterrel egyetértésben –,
 
@@ -190,19 +190,7 @@ rendelettel állapítsa meg.
 
 (6) Felhatalmazást kap a települési önkormányzat (fővárosban a kerületi önkormányzat, illetve a fővárosi önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi önkormányzat) arra, hogy rendeletben állapítsa meg
 
-1. a helyi építészeti értékek védelme érdekében
-
-1.1. a védetté nyilvánításról,
-
-1.2. a védettség megszüntetésének eljárási szabályairól,
-
-1.3. a védettség érdekében biztosított önkormányzati támogatási és ösztönzőrendszer mértékéről és módjáról
-
-szóló szabályokat,
-
-2. a településkép védelme érdekében a reklámok, reklámberendezések és cégérek elhelyezésének, alkalmazásának követelményeiről, feltételeiről és tilalmáról szóló szabályokat,
-
-3. azon – jogszabályban építésügyi hatósági engedélyhez nem kötött – építési tevékenységek, rendeltetésváltoztatások és reklámelhelyezések körét, amelyek megkezdését településképi bejelentési eljáráshoz köti, valamint a településképi bejelentési eljárás részletes szabályait,
+1–3.
 
 4. a helyi építészeti-műszaki tervtanács létrehozásáról, működési feltételeiről, eljárási szabályainak megállapításáról szóló szabályokat,
 
@@ -210,7 +198,7 @@ szóló szabályokat,
 
 6. a helyi építési szabályzatát,
 
-7. a településképi kötelezési és a településképi véleményezési eljárás részletes szabályait, a településképi kötelezettség megszegése és végrehajtása esetén alkalmazható bírság esetköreit és mértékét.
+7.
 
 (7) Felhatalmazást kap a fővárosi önkormányzat, hogy rendeletben állapítsa meg
 
@@ -224,7 +212,7 @@ szóló szabályokat,
 
 szóló szabályokat,
 
-2. fővárosi helyi építészeti értékvédelem alá vont építmények esetében a településképi véleményezési eljárás részletes szabályait,
+2.
 
 3. a fővárosi rendezési szabályzatát,
 
