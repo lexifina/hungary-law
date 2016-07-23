@@ -16,7 +16,7 @@ f) a közlekedési szolgáltatónál szakmai gyakorlaton tanulószerződés vagy
 
 (3) A közlekedésért felelős miniszter által vezetett minisztérium, a Nemzeti Közlekedési Hatóság, valamint a Közlekedésbiztonsági Szervezet az 1. § c) pontja szerinti közlekedési kedvezményt kormánytisztviselőjének és ügykezelőjének nyújthat.
 
-(4)[^1] A fővárosi és a megyei kormányhivatal az 1. § c) pontja szerint közlekedési kedvezményt a közlekedési hatósági feladatkörben eljáró kormánytisztviselőjének nyújthat.
+(4)[^1] A fővárosi és megyei kormányhivatal – az 1. § c) pontja szerint – közlekedési kedvezményt a közlekedési hatósági feladatkörben eljáró kormánytisztviselőjének és állami tisztviselőjének nyújthat.
 
 (5) Az 1. § d) pontja szerinti viszonossági megállapodás alapján közlekedési kedvezményt
 
@@ -32,4 +32,4 @@ d) a menetrend alapján vízi személyszállítási tevékenységet végző
 
 (6) A (2) bekezdés d) és e) pontjának alkalmazásában igényjogosult hozzátartozó a magánszeméllyel közös háztartásban élő házastárs, az élettárs, a bejegyzett élettárs, továbbá a magánszeméllyel közös háztartásban élő, rendszeres jövedelemmel nem rendelkező gyermek a tankötelezettsége fennállásának időtartamában, vagy ha nappali tagozatos oktatásban vesz részt, a tanulmányai befejezéséig.
 
-[^1]: A 2. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 238. § (1) bekezdésével megállapított szöveg.
+[^1]: A 2. § (4) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 44. §-ával megállapított szöveg.
