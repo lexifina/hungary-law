@@ -12,7 +12,7 @@ bc) a munkahely és a lakóhely között naponta – tömegközlekedési eszköz
 
 c) munkaviszony:
 
-ca)[^1] a magyar jog hatálya alá tartozó munkaviszony, közalkalmazotti jogviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, bírói szolgálati viszony, ügyészségi szolgálati viszony, igazságügyi alkalmazottak szolgálati jogviszonya, a Magyar Honvédség hivatásos és szerződéses állományú tagjának szolgálati jogviszonya, valamint a rendvédelmi szervek, illetve a Nemzeti Adó- és Vámhivatal hivatásos állományú tagjának szolgálati jogviszonya,
+ca)[^1] a magyar jog hatálya alá tartozó munkaviszony, közalkalmazotti jogviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, állami szolgálati jogviszony, bírói szolgálati viszony, ügyészségi szolgálati viszony, igazságügyi alkalmazottak szolgálati jogviszonya, a Magyar Honvédség hivatásos és szerződéses állományú tagjának szolgálati jogviszonya, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának hivatásos szolgálati jogviszonya,
 
 cb) a 4. § tekintetében a magyar jog hatálya alá tartozó munkaviszony;
 
@@ -32,7 +32,7 @@ h) munkavállaló: aki a c) pont szerinti munkaviszonyban áll, feltéve, hogy n
 
 i)[^4] részmunkaidős foglalkoztatás: az Mt. 58. §-a alapján módosításra kerülő munkaszerződésben legalább a teljes munkaidő felét elérő részmunkaidőben való megállapodás.
 
-[^1]: Az 1. § c) pont ca) alpontja a 416/2012. (XII. 29.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^1]: Az 1. § c) pont ca) alpontja a 217/2016. (VII. 22.) Korm. rendelet 18. §-ával megállapított szöveg.
 [^2]: Az 1. § f) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés b) pontja szerint módosított szöveg.
 [^3]: Az 1. § g) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § i) pontja a 135/2012. (VI. 28.) Korm. rendelet 15. § (4) bekezdés c) pontja szerint módosított szöveg.
