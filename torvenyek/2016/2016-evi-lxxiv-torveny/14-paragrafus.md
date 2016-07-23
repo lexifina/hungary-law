@@ -1,0 +1,5 @@
+14. § (1) A településképi rendelet hatálybalépésével egyidejűleg az egyéb önkormányzati rendeletben szereplő e törvény szerinti településképi követelményeket, településképi önkormányzati támogatási és ösztönző rendszert, valamint az önkormányzati településkép-érvényesítési eszközöket e törvény erejénél fogva nem lehet alkalmazni.
+
+(2) A helyi építési szabályzat – a főváros esetében a kerületi építési szabályzat, illetve a fővárosi önkormányzat által megállapított építési szabályzat – településképi követelményeit, valamint az építészeti örökség helyi védelméről szóló, a reklámok, reklámberendezések és cégérek elhelyezésének, alkalmazásának követelményeiről, feltételeiről és tilalmáról szóló, és a településképi véleményezési, illetve a településképi bejelentési eljárás sajátos jogintézményekről szóló önkormányzati rendeletet – az (1) bekezdésben foglaltak kivételével – 2017. december 31-ig lehet alkalmazni.
+
+(3) E törvény hatálybalépésétől új településképi követelményt csak a településképi rendeletben lehet meghatározni.

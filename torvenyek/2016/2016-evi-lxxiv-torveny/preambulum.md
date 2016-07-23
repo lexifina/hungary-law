@@ -1,0 +1,1 @@
+Az Országgyűlés a magyarországi települések jellegzetes és értékes arculatának megóvása, kialakítása, az épített és a természeti környezet egységes védelme, egyben az építési beruházások gyors és sikeres megvalósíthatósága érdekében a következő törvényt alkotja:

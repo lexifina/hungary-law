@@ -1,0 +1,1 @@
+6. § A világörökségi terület, valamint a Világörökség Jegyzékbe javasolt várományos terület esetében a világörökségi kezelési terv településképi követelményeit a településképi rendeletben megállapított településképi követelményektől függetlenül alkalmazni kell.
