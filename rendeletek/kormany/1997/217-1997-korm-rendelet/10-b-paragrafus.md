@@ -1,3 +1,3 @@
-10/B. §[^173]
+10/B. §[^171]
 
-[^173]: A Vhr. 10/B. §-át a 295/2002. (XII. 27.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése.
+[^171]: A Vhr. 10/B. §-át a 295/2002. (XII. 27.) Korm. rendelet 11. §-a iktatta be, hatályon kívül helyezte a 288/2006. (XII. 23.) Korm. rendelet 10. § (4) bekezdése.

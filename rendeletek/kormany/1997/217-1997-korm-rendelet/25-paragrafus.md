@@ -1,4 +1,4 @@
-25. §[^375] (1)[^376] Az Ebtv. 30. §-ának (2) bekezdése alapján az OEP a gyógyászati ellátások közül a fürdőgyógyászati ellátások támogatással történő nyújtására annak a közfürdőnek, illetve gyógyfürdőnek a működtetőjével köthet szerződést, amelyik
+25. §[^371] (1)[^372] Az Ebtv. 30. §-ának (2) bekezdése alapján az OEP a gyógyászati ellátások közül a fürdőgyógyászati ellátások támogatással történő nyújtására annak a közfürdőnek, illetve gyógyfürdőnek a működtetőjével köthet szerződést, amelyik
 
 a) zárt területen épített és rendelkezik medencével, valamint
 
@@ -6,14 +6,14 @@ b) rendelkezik az adott fürdőgyógyászati ellátás nyújtására jogosító,
 
 c) az orvosi rehabilitáció céljából társadalombiztosítási támogatással igénybe vehető gyógyászati ellátásokról szóló miniszteri rendeletben meghatározott fürdőgyógyászati ellátások közül legalább négyfajta nyújtására alkalmas, és
 
-d) megfelel a külön jogszabályban foglalt egyéb feltételeknek.[^377]
+d) megfelel a külön jogszabályban foglalt egyéb feltételeknek.[^373]
 
-(2)[^378] Az OEP az (1) bekezdésben foglaltakon túl szerződést köthet a biztosítottak gyógyúszására alkalmas közfürdő működtetőjével vagy a gyógyúszás szervezésére működési engedéllyel rendelkező szervezettel, illetőleg személlyel ezen gyógyászati ellátás támogatással történő nyújtására.
+(2)[^374] Az OEP az (1) bekezdésben foglaltakon túl szerződést köthet a biztosítottak gyógyúszására alkalmas közfürdő működtetőjével vagy a gyógyúszás szervezésére működési engedéllyel rendelkező szervezettel, illetőleg személlyel ezen gyógyászati ellátás támogatással történő nyújtására.
 
-(3)[^379] Az OEP a társadalombiztosítási támogatással külön jogszabály szerint igénybe vehető, egyéb természetes gyógytényezőkön alapuló gyógyászati ellátások támogatással történő nyújtására a külön jogszabály szerinti engedéllyel rendelkező egészségügyi szolgáltatóval köthet szerződést.
+(3)[^375] Az OEP a társadalombiztosítási támogatással külön jogszabály szerint igénybe vehető, egyéb természetes gyógytényezőkön alapuló gyógyászati ellátások támogatással történő nyújtására a külön jogszabály szerinti engedéllyel rendelkező egészségügyi szolgáltatóval köthet szerződést.
 
-[^375]: A Vhr. 25. §-a a 113/2005. (VI. 25.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^376]: A Vhr. 25. §-ának (1) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 14. §-ával megállapított, nyitó szövegrésze a 366/2010. (XII. 30.) Korm. rendelet 14. § 46. pontja szerint módosított szöveg.
-[^377]: Lásd az 5/2004. (XI. 19.) EüM rendeletet.
-[^378]: A Vhr. 25. § (2) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 14. § 47. pontja szerint módosított szöveg.
-[^379]: A Vhr. 25. § (3) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 14. § 47. pontja szerint módosított szöveg.
+[^371]: A Vhr. 25. §-a a 113/2005. (VI. 25.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^372]: A Vhr. 25. §-ának (1) bekezdése a 330/2005. (XII. 29.) Korm. rendelet 14. §-ával megállapított, nyitó szövegrésze a 366/2010. (XII. 30.) Korm. rendelet 14. § 46. pontja szerint módosított szöveg.
+[^373]: Lásd az 5/2004. (XI. 19.) EüM rendeletet.
+[^374]: A Vhr. 25. § (2) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 14. § 47. pontja szerint módosított szöveg.
+[^375]: A Vhr. 25. § (3) bekezdése a 366/2010. (XII. 30.) Korm. rendelet 14. § 47. pontja szerint módosított szöveg.
