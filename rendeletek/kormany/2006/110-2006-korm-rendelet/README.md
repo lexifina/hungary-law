@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-110-20-
 | 2014-09-05 | 2006-110-20-22.15 | 40/2007. (III. 13.) Korm. rendelet |
 | 2015-07-01 | 2006-110-20-22.16 | 537/2013. (XII. 30.) Korm. rendelet |
 | 2016-01-01 | 2006-110-20-22.17 | 486/2015. (XII. 29.) Korm. rendelet |
+| 2016-07-23 | 2006-110-20-22.18 | 537/2013. (XII. 30.) Korm. rendelet |
