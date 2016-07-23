@@ -26,8 +26,8 @@ j) jogszabályban meghatározott keretek között kidolgozza és fejleszti az el
 
 (3)[^4] A fővárosi és megyei kormányhivatal élelmiszerlánc-biztonsági és állategészségügyi hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az Áht. 9. § g) pontjában és kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket a NÉBIH gyakorolja.
 
-(4)[^5] Az elnök a megyei kormányhivatal kormánytisztviselőjét jogszabályban meghatározott járványügyi, vagy más kiemelt jelentőségű okból azonnali intézkedést igénylő esetben közvetlenül utasíthatja feladat elvégzésére vagy mulasztás pótlására, továbbá jelentést kérhet.
+(4)[^5] Az elnök a megyei kormányhivatal kormánytisztviselőjét, állami tisztviselőjét jogszabályban meghatározott járványügyi, vagy más kiemelt jelentőségű okból azonnali intézkedést igénylő esetben közvetlenül utasíthatja feladat elvégzésére vagy mulasztás pótlására, továbbá jelentést kérhet.
 
 [^3]: A 2. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (1) bekezdésével megállapított szöveg.
-[^5]: A 2. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (1) bekezdésével megállapított szöveg.
+[^5]: A 2. § (4) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 29. §-ával megállapított szöveg.

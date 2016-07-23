@@ -26,7 +26,7 @@ c) a NÉBIH-en belül az országos járványügyi központ felállítását, val
 
 d) jogszabályban meghatározott járványügyi, vagy más kiemelt jelentőségű okból azonnali intézkedést igénylő esetben utasítást adhat
 
-da)[^21] a kormánytisztviselők NÉBIH, valamint a megyei kormányhivatalok közötti kirendelésére,
+da)[^21] a kormánytisztviselők, állami tisztviselők NÉBIH, valamint a megyei kormányhivatalok közötti kirendelésére,
 
 db)[^22] az eszközök NÉBIH, valamint a megyei kormányhivatalok közötti átcsoportosítására.
 
@@ -50,7 +50,7 @@ db)[^22] az eszközök NÉBIH, valamint a megyei kormányhivatalok közötti át
 [^18]: A 8. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés c) pontja szerint módosított szöveg.
 [^19]: A 8. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés d) pontja szerint módosított szöveg.
 [^20]: A 8. § (8) bekezdése a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés e) pontja szerint módosított szöveg.
-[^21]: A 8. § (10) bekezdés d) pont da) alpontja a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés f) pontja szerint módosított szöveg.
+[^21]: A 8. § (10) bekezdés d) pont da) alpontja a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés f) pontja, a 217/2016. (VII. 22.) Korm. rendelet 30. §-a szerint módosított szöveg.
 [^22]: A 8. § (10) bekezdés d) pont db) alpontja a 70/2015. (III. 30.) Korm. rendelet 191. § (6) bekezdés f) pontja szerint módosított szöveg.
 [^23]: A 8. § (11) bekezdése a 68/2013. (III. 8.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^24]: A 8. § (14) bekezdése a 116/2015. (V. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
