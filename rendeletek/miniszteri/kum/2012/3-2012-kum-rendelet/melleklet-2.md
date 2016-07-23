@@ -6,191 +6,191 @@
 
 | 2 | AFRIKA |
 
-| 3 | Algéria | EUR | 1373 |
+| 3 | Algéria | EUR | 1 395 |
 
-| 3a | Angola | EUR | 1453 |
+| 4 | Angola | EUR | 1 596 |
 
-| 4 | Dél-afrikai Köztársaság | EUR | 1181 |
+| 5 | Dél-afrikai Köztársaság | EUR | 1 206 |
 
-| 5 | Egyiptom | EUR | 1059 |
+| 6 | Egyiptom | EUR | 1 250 |
 
-| 5a | Etiópia | EUR | 1146 |
+| 7 | Etiópia | EUR | 1 347 |
 
-| 5b | Ghána | EUR | 1108 |
+| 8 | Ghána | EUR | 1 389 |
 
-| 6 | Kenya | EUR | 1117 |
+| 9 | Kenya | EUR | 1 311 |
 
-| 7 | Líbia | EUR | 1192 |
+| 10 | Líbia | EUR | 1 215 |
 
-| 8 | Marokkó | EUR | 1161 |
+| 11 | Marokkó | EUR | 1 186 |
 
-| 9 | Nigéria | EUR | 1194 |
+| 12 | Nigéria | EUR | 1 334 |
 
-| 10 | Tunézia | EUR | 1181 |
+| 13 | Tunézia | EUR | 1 206 |
 
-| 11 | AMERIKA |
+| 14 | AMERIKA |
 
-| 12 | Amerikai Egyesült Államok | EUR | 1282 |
+| 15 | Amerikai Egyesült Államok | EUR | 1 500 |
 
-| 13 | Argentína | EUR | 1059 |
+| 16 | Argentína | EUR | 1 323 |
 
-| 14 | Brazília | EUR | 1420 |
+| 17 | Brazília | EUR | 1 445 |
 
-| 15 | Chile | EUR | 1072 |
+| 18 | Chile | EUR | 1 244 |
 
-| 16 | Ecuador | EUR | 1072 |
+| 19 | Ecuador | EUR | 1 286 |
 
-| 17 | Kanada | EUR | 1219 |
+| 20 | Kanada | EUR | 1 404 |
 
-| 18 | Kuba | EUR | 1194 |
+| 21 | Kuba | EUR | 1 409 |
 
-| 19 | Mexikó | EUR | 1117 |
+| 22 | Mexikó | EUR | 1 332 |
 
-| 20 | AUSZTRÁLIA ÉS ÓCEÁNIA |
+| 23 | AUSZTRÁLIA ÉS ÓCEÁNIA |
 
-| 21 | Ausztrália | EUR | 1293 |
+| 24 | Ausztrália | EUR | 1 343 |
 
-| 21a | Új-Zéland | EUR | 1328 |
+| 25 | Új-Zéland | EUR | 1 445 |
 
-| 22 | ÁZSIA |
+| 26 | ÁZSIA |
 
-| 23 | Afganisztán | EUR | 1400 |
+| 27 | Afganisztán | EUR | 1 420 |
 
-| 24 | Azerbajdzsán | EUR | 1341 |
+| 28 | Azerbajdzsán | EUR | 1 364 |
 
-| 25 | Egyesült Arab Emirátusok | EUR | 1284 |
+| 29 | Egyesült Arab Emirátusok | EUR | 1 389 |
 
-| 25a | Fülöp-szigetek | EUR | 1132 |
+| 30 | Fülöp-szigetek | EUR | 1 308 |
 
-| 26 | Grúzia | EUR | 1293 |
+| 31 | Grúzia | EUR | 1 315 |
 
-| 27 | India | EUR | 1091 |
+| 32 | India | EUR | 1 325 |
 
-| 28 | Indonézia | EUR | 1277 |
+| 33 | Indonézia | EUR | 1 301 |
 
-| 29 | Irak | EUR | 1400 |
+| 34 | Irak | EUR | 1 421 |
 
-| 30 | Irán | EUR | 1258 |
+| 35 | Irán | EUR | 1 461 |
 
-| 31 | Izrael | EUR | 1181 |
+| 36 | Izrael | EUR | 1 440 |
 
-| 32 | Japán | EUR | 1528 |
+| 37 | Japán | EUR | 1 553 |
 
-| 33 | Jordánia | EUR | 1132 |
+| 38 | Jordánia | EUR | 1 394 |
 
-| 34 | Katar | EUR | 1280 |
+| 39 | Katar | EUR | 1 332 |
 
-| 35 | Kazahsztán | EUR | 1293 |
+| 40 | Kazahsztán | EUR | 1 325 |
 
-| 36 | Kína | EUR | 1230 |
+| 41 | Kína | EUR | 1 404 |
 
-| 37 | Koreai Köztársaság | EUR | 1230 |
+| 42 | Koreai Köztársaság | EUR | 1 440 |
 
-| 38 | Kuvait | EUR | 1161 |
+| 43 | Kuvait | EUR | 1 280 |
 
-| 39 | Libanon | EUR | 1271 |
+| 44 | Libanon | EUR | 1 476 |
 
-| 40 | Malajzia | EUR | 1102 |
+| 45 | Malajzia | EUR | 1 304 |
 
-| 41 | Mongólia | EUR | 1230 |
+| 46 | Mongólia | EUR | 1 271 |
 
-| 42 | Pakisztán | EUR | 1126 |
+| 47 | Pakisztán | EUR | 1 295 |
 
-| 43 | Palesztina | EUR | 1358 |
+| 48 | Palesztina | EUR | 1 440 |
 
-| 44 | Szaúd-Arábia | EUR | 1130 |
+| 49 | Szaúd-Arábia | EUR | 1 317 |
 
-| 45 | Szingapúr | EUR | 1102 |
+| 50 | Szingapúr | EUR | 1 425 |
 
-| 46 | Szíria | EUR | 1144 |
+| 51 | Szíria | EUR | 1 211 |
 
-| 47 | Tajvan | EUR | 1132 |
+| 52 | Tajvan | EUR | 1 404 |
 
-| 48 | Thaiföld | EUR | 1091 |
+| 53 | Thaiföld | EUR | 1 304 |
 
-| 49 | Törökország | EUR | 1222 |
+| 54 | Törökország | EUR | 1 247 |
 
-| 49a | Üzbegisztán | EUR | 1170 |
+| 55 | Üzbegisztán | EUR | 1 361 |
 
-| 50 | Vietnam | EUR | 1072 |
+| 56 | Vietnam | EUR | 1 256 |
 
-| 51 | EURÓPA |
+| 57 | EURÓPA |
 
-| 52 | Albánia | EUR | 1282 |
+| 58 | Albánia | EUR | 1 305 |
 
-| 53 | Ausztria | EUR | 1391 |
+| 59 | Ausztria | EUR | 1 416 |
 
-| 54 | Belgium | EUR | 1353 |
+| 60 | Belgium | EUR | 1 378 |
 
-| 55 | Bosznia-Hercegovina | EUR | 1102 |
+| 61 | Bosznia-Hercegovina | EUR | 1 154 |
 
-| 56 | Bulgária | EUR | 1255 |
+| 62 | Bulgária | EUR | 1 280 |
 
-| 57 | Ciprus | EUR | 1219 |
+| 63 | Ciprus | EUR | 1 244 |
 
-| 58 | Csehország | EUR | 1181 |
+| 64 | Csehország | EUR | 1 209 |
 
-| 59 | Dánia | EUR | 1515 |
+| 65 | Dánia | EUR | 1 540 |
 
-| 60 | Észtország | EUR | 1161 |
+| 66 | Észtország | EUR | 1 298 |
 
-| 61 | Fehéroroszország | EUR | 1176 |
+| 67 | Fehéroroszország | EUR | 1 328 |
 
-| 62 | Finnország | EUR | 1363 |
+| 68 | Finnország | EUR | 1 388 |
 
-| 63 | Franciaország | EUR | 1364 |
+| 69 | Franciaország | EUR | 1 403 |
 
-| 64 | Görögország | EUR | 1206 |
+| 70 | Görögország | EUR | 1 231 |
 
-| 65 | Hollandia | EUR | 1312 |
+| 71 | Hollandia | EUR | 1 337 |
 
-| 66 | Horvátország | EUR | 1343 |
+| 72 | Horvátország | EUR | 1 368 |
 
-| 67 | Írország | EUR | 1353 |
+| 73 | Írország | EUR | 1 378 |
 
-| 68 | Koszovó | EUR | 1117 |
+| 74 | Koszovó | EUR | 1 262 |
 
-| 69 | Lengyelország | EUR | 1115 |
+| 75 | Lengyelország | EUR | 1 161 |
 
-| 70 | Lettország | EUR | 1161 |
+| 76 | Lettország | EUR | 1 337 |
 
-| 71 | Litvánia | EUR | 1075 |
+| 77 | Litvánia | EUR | 1 266 |
 
-| 72 | Macedónia | EUR | 1100 |
+| 78 | Macedónia | EUR | 1 184 |
 
-| 73 | Moldova | EUR | 1144 |
+| 79 | Moldova | EUR | 1 224 |
 
-| 74 | Montenegró | EUR | 1284 |
+| 80 | Montenegró | EUR | 1 309 |
 
-| 75 | Nagy-Britannia | EUR | 1445 |
+| 81 | Nagy-Britannia | EUR | 1 592 |
 
-| 76 | Németország | EUR | 1353 |
+| 82 | Németország | EUR | 1 378 |
 
-| 77 | Norvégia | EUR | 1581 |
+| 83 | Norvégia | EUR | 1 606 |
 
-| 78 | Olaszország | EUR | 1338 |
+| 84 | Olaszország | EUR | 1 371 |
 
-| 79 | Oroszország | EUR | 1271 |
+| 85 | Oroszország | EUR | 1 407 |
 
-| 80 | Portugália | EUR | 1243 |
+| 86 | Portugália | EUR | 1 304 |
 
-| 81 | Románia | EUR | 1275 |
+| 87 | Románia | EUR | 1 300 |
 
-| 82 | Spanyolország | EUR | 1256 |
+| 88 | Spanyolország | EUR | 1 281 |
 
-| 83 | Svájc | EUR | 1497 |
+| 89 | Svájc | EUR | 1 656 |
 
-| 84 | Svédország | EUR | 1391 |
+| 90 | Svédország | EUR | 1 416 |
 
-| 85 | Szerbia | EUR | 1117 |
+| 91 | Szerbia | EUR | 1 262 |
 
-| 86 | Szlovákia | EUR | 1230 |
+| 92 | Szlovákia | EUR | 1 255 |
 
-| 87 | Szlovénia | EUR | 1130 |
+| 93 | Szlovénia | EUR | 1 218 |
 
-| 88 | Ukrajna | EUR | 1169 |
+| 94 | Ukrajna | EUR | 1 235 |
 
-| 89 | Vatikán | EUR | 1338 |
+| 95 | Vatikán | EUR | 1 371 |
 
 2. melléklet a 3/2012. (IX. 4.) KüM rendelethez[^4]
 
@@ -198,92 +198,96 @@ A kiegészítő pótlék bruttó havi összege
 
 |  | A | B | C |
 
-| 1 | Ország (állomáshely) | Pénznem | A kiegészítő pótlék bruttó havi összege |
+| 1 | Ország (állomáshely) | Pénznem | Kiegészítő pótlékok bruttó havi összege |
 
 | 2 | I. kategória (10%) |
 
-| 3 | Albánia | EUR | 128 |
+| 3 | Albánia | EUR | 131 |
 
-| 3a | Angola | EUR | 145 |
+| 4 | Angola | EUR | 160 |
 
-| 4 | Azerbajdzsán | EUR | 134 |
+| 5 | Azerbajdzsán | EUR | 136 |
 
-| 5 | Egyesült Arab Emirátusok | EUR | 128 |
+| 6 | Egyesült Arab Emirátusok | EUR | 139 |
 
-| 6 | Egyiptom | EUR | 106 |
+| 7 | Egyiptom | EUR | 125 |
 
-| 6a | Etiópia | EUR | 115 |
+| 8 | Etiópia | EUR | 135 |
 
-| 7 | Fehéroroszország | EUR | 118 |
+| 9 | Fehéroroszország | EUR | 133 |
 
-| 7a | Fülöp-szigetek | EUR | 113 |
+| 10 | Franciaország | EUR | 140 |
 
-| 7b | Ghána | EUR | 111 |
+| 11 | Fülöp-szigetek | EUR | 131 |
 
-| 8 | Grúzia | EUR | 129 |
+| 12 | Ghána | EUR | 139 |
 
-| 9 | India | EUR | 109 |
+| 13 | Grúzia | EUR | 132 |
 
-| 10 | Indonézia | EUR | 128 |
+| 14 | India | EUR | 133 |
 
-| 11 | Katar | EUR | 128 |
+| 15 | Indonézia | EUR | 130 |
 
-| 12 | Kazahsztán | EUR | 129 |
+| 16 | Katar | EUR | 133 |
 
-| 13 | Kenya | EUR | 112 |
+| 17 | Kazahsztán | EUR | 133 |
 
-| 14 | Kína | EUR | 123 |
+| 18 | Kenya | EUR | 131 |
 
-| 15 | Kuvait | EUR | 116 |
+| 19 | Kína | EUR | 140 |
 
-| 16 | Líbia | EUR | 119 |
+| 20 | Kuvait | EUR | 128 |
 
-| 17 | Macedónia | EUR | 110 |
+| 21 | Líbia | EUR | 122 |
 
-| 18 | Mexikó | EUR | 112 |
+| 22 | Macedónia | EUR | 118 |
 
-| 19 | Moldova | EUR | 114 |
+| 23 | Mexikó | EUR | 133 |
 
-| 20 | Oroszország | EUR | 127 |
+| 24 | Moldova | EUR | 122 |
 
-| 21 | Szaúd-Arábia | EUR | 113 |
+| 25 | Oroszország | EUR | 141 |
 
-| 22 | Szíria | EUR | 114 |
+| 26 | Szaúd-Arábia | EUR | 132 |
 
-| 23 | Szerbia | EUR | 112 |
+| 27 | Szerbia | EUR | 126 |
 
-| 24 | Ukrajna | EUR | 117 |
+| 28 | Szíria | EUR | 121 |
 
-| 24a | Üzbegisztán | EUR | 117 |
+| 29 | Ukrajna | EUR | 124 |
 
-| 25 | Vietnam | EUR | 107 |
+| 30 | Üzbegisztán | EUR | 136 |
 
-| 26 | II. kategória (15%) |
+| 31 | Vietnam | EUR | 126 |
 
-| 27 | Algéria | EUR | 206 |
+| 32 | II. kategória (15%) |
 
-| 28 | Bosznia-Hercegovina | EUR | 165 |
+| 33 | Algéria | EUR | 209 |
 
-| 29 | Irán | EUR | 189 |
+| 34 | Belgium | EUR | 207 |
 
-| 30 | Izrael | EUR | 177 |
+| 35 | Bosznia-Hercegovina | EUR | 173 |
 
-| 31 | Koszovó | EUR | 168 |
+| 36 | Irán | EUR | 219 |
 
-| 32 | Kuba | EUR | 179 |
+| 37 | Izrael | EUR | 216 |
 
-| 33 | Libanon | EUR | 191 |
+| 38 | Koszovó | EUR | 189 |
 
-| 34 | Nigéria | EUR | 179 |
+| 39 | Kuba | EUR | 211 |
 
-| 35 | Palesztina | EUR | 204 |
+| 40 | Libanon | EUR | 221 |
 
-| 36 | III. kategória (20%) |
+| 41 | Nigéria | EUR | 200 |
 
-| 37 | Afganisztán | EUR | 280 |
+| 42 | Palesztina | EUR | 216 |
 
-| 38 | Irak | EUR | 280 |
+| 43 | III. kategória (20%) |
 
-| 39 | Pakisztán | EUR | 225 |
+| 44 | Afganisztán | EUR | 284 |
 
-[^4]: A 2. melléklet a 3/2013. (X. 25.) KÜM rendelet 1. § (2) bekezdésével megállapított, az 1/2016. (II. 25.) KKM rendelet 1. § b) pontja szerint módosított szöveg.
+| 45 | Irak | EUR | 284 |
+
+| 46 | Pakisztán | EUR | 259 |
+
+[^4]: A 2. melléklet a 4/2016. (VII. 22.) KKM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 3. § (2) bekezdése alapján a megállapított összegek 2016. július 1-jével alkalmazandóak.
