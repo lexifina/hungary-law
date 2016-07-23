@@ -16,6 +16,8 @@ b) a TA projekt hazai kedvezményezettje, illetve az információs pont feladato
 
 (6) Az előirányzat-felhasználási keretszámláról csak akkor lehet átutalást kezdeményezni, ha az adatok az IMIR 2014–2020 rendszerben rögzítésre és jóváhagyásra kerültek.
 
-(7) A pénzügyi átutalási egység a Magyar Államkincstár (a továbbiakban: kincstár) által kiállított pénzforgalmi számlakivonat adatait a számlakivonat kézhezvételét követő három munkanapon belül rögzíti és hagyja jóvá az IMIR 2014–2020 rendszerben.
+(7)[^12] A pénzügyi átutalási egység a Magyar Államkincstár (a továbbiakban: kincstár) által kiállított pénzforgalmi számlakivonat adatait a számlakivonat kézhezvételét követő öt munkanapon belül rögzíti és hagyja jóvá az IMIR 2014–2020 rendszerben.
 
 (8) A hazai társfinanszírozás hazai kedvezményezett, illetve hazai TA kedvezményezett részére történő folyósításának feltétele, hogy a hazai kedvezményezett és a hazai TA kedvezményezett szerepeljen az állami adóhatóság köztartozásmentes adózói adatbázisában, ennek hiányában harminc napnál nem régebbi együttes adóigazolás benyújtásával igazolja a köztartozás-mentességet.
+
+[^12]: A 6. § (7) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 7. § 9. pontja szerint módosított szöveg.

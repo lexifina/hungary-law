@@ -8,9 +8,9 @@ aa) az újonnan megállapított szabálytalanságok esetén a szabálytalanság 
 
 ab) egyéb esetben a negyedévet követő harminc napon belül,
 
-b) az Európai Csalás Elleni Hivatal Koordinációs Iroda részére az 1. § c)–f) pontjai szerinti együttműködési program esetén.
+b)[^24] az Európai Csalás Elleni Hivatal Koordinációs Iroda részére az 1. § c), e) és f) pontjai szerinti együttműködési program esetén.
 
-(2) Az 1. § a) és b) pontja szerinti együttműködési program esetén az (1) bekezdés szerinti jelentések alapján az igazoló hatóság az újonnan megállapított szabálytalanságok esetén a szabálytalanság-vizsgálati jelentés beérkezését követő tizenöt napon belül, egyéb esetben a negyedévet követő negyvenöt napon belül köteles jelentést küldeni az Európai Csalás Elleni Hivatal Koordinációs Iroda részére.
+(2)[^25] Az 1. § a), b) és d) pontja szerinti együttműködési program esetén az (1) bekezdés szerinti jelentések alapján az igazoló hatóság az újonnan megállapított szabálytalanságok esetén a szabálytalanság-vizsgálati jelentés beérkezését követő tizenöt napon belül, egyéb esetben a negyedévet követő negyvenöt napon belül köteles jelentést küldeni az Európai Csalás Elleni Hivatal Koordinációs Iroda részére.
 
 (3) Az (1) és (2) bekezdés szerinti jelentést az Európai Csalás Elleni Hivatal Koordinációs Iroda az újonnan megállapított szabálytalanságok esetén a jelentés beérkezését követő tizenöt napon belül, egyéb esetben a negyedévet követő két hónapon belül megküldi az Európai Csalás Elleni Hivatal részére, illetve tájékoztatásul annak személyes adatokat nem tartalmazó kivonatát az audit hatóságnak.
 
@@ -23,3 +23,6 @@ b) az Európai Csalás Elleni Hivatal Koordinációs Iroda részére az 1. § c)
 (7) A nemzeti hatóság minden év február 28-áig együttműködési programonként kimutatást küld az igazoló hatóság részére a tárgyévet megelőző évben felmerült követelésekről, a behajtott, illetve behajtásra váró és a behajthatatlan összegekről a behajtási eljárások megindításának éve szerinti csoportosításban.
 
 (8) Az igazoló hatóság legkésőbb minden év március 31-éig köteles megküldeni a kimutatást az Európai Bizottságnak.
+
+[^24]: A 38. § (1) bekezdés b) pontja a 223/2016. (VII. 22.) Korm. rendelet 7. § 15. pontja szerint módosított szöveg.
+[^25]: A 38. § (2) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 7. § 16. pontja szerint módosított szöveg.

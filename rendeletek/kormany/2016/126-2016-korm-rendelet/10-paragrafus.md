@@ -1,4 +1,4 @@
-10. § (1) A hazai TA kedvezményezett számára a nemzeti hatóság megelőlegezést biztosíthat.
+10. § (1)[^22] A hazai TA kedvezményezett számára a nemzeti hatóság megelőlegezést biztosít.
 
 (2) A hazai TA kedvezményezettel a nemzeti hatóság köti meg a megelőlegezési szerződést, és gondoskodik a megelőlegezés kifizetéséről, illetve a visszakövetelési feladatok ellátásáról.
 
@@ -12,6 +12,9 @@ c) megelőlegezési kérelmet a TA költségvetés jóváhagyását követően l
 
 d) a megelőlegezési szerződést a megelőlegezési kérelem jóváhagyását követően lehet megkötni,
 
-e) a hazai TA kedvezményezett 550 ezer euró alatti TA projekt esetén is jogosult megelőlegezési kérelmet benyújtani,
+e)[^23]
 
 f) az uniós támogatási szerződés számán a TA projekt azonosító számát kell érteni.
+
+[^22]: A 10. § (1) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 7. § 14. pontja szerint módosított szöveg.
+[^23]: A 10. § (3) bekezdés e) pontját a 223/2016. (VII. 22.) Korm. rendelet 8. § b) pontja hatályon kívül helyezte.

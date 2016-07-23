@@ -18,7 +18,7 @@ c) hazai TA kedvezményezett, és információs pont feladatot ellátó külföl
 
 (3) A hazai társfinanszírozási támogatási szerződést – a TA projektek kivételével – a nemzeti hatóság megbízásából a hitelesítési tevékenységre kijelölt szervezet köti meg a hazai kedvezményezettel.
 
-(4) A hazai társfinanszírozási támogatási szerződést az 1. § c)–f) pontja szerinti együttműködési program esetén a nemzeti hatóság köti meg a hazai TA kedvezményezettel a TA költségvetés teljes hazai forrásai alapján, ha a hazai társfinanszírozás kifizetése a hazai TA kedvezményezett részére közvetlenül – nem az évente fizetendő tagállami hozzájárulás terhére – történik.
+(4)[^8] A hazai társfinanszírozási támogatási szerződést az 1. § c), e) és f) pontja szerinti együttműködési program esetén a nemzeti hatóság köti meg a hazai TA kedvezményezettel a TA költségvetés teljes hazai forrásai alapján, ha a hazai társfinanszírozás kifizetése a hazai TA kedvezményezett részére közvetlenül – nem az évente fizetendő tagállami hozzájárulás terhére – történik.
 
 (5) A hazai társfinanszírozás összege euróban kerül meghatározásra. A hazai társfinanszírozás kifizetése euróban történik a hazai kedvezményezett, a hazai TA kedvezményezett, valamint az információs pont feladatot ellátó külföldi TA kedvezményezett euróban vezetett számlájára.
 
@@ -42,4 +42,9 @@ a) a külföldi irányító hatóságok felé teljesítendő éves tagállami ho
 
 b) az 1303/2013/EU európai parlamenti és tanácsi rendelet 130. cikk (1) bekezdése szerinti időközi kifizetés 90%-át meghaladó rész vonatkozásában a hazai kedvezményezettre eső uniós források megelőlegezését,
 
-c) a tagállami helytállás összegét a külföldi vagy hazai irányító hatóság részére a jogszabályi feltételek teljesülését igazoló, irányító hatóság által megküldött dokumentumok alapján.
+c) a tagállami helytállás összegét a külföldi vagy hazai irányító hatóság részére a jogszabályi feltételek teljesülését igazoló, irányító hatóság által megküldött dokumentumok alapján,
+
+d)[^9] a hazai TA kedvezményezettek részére a külföldi partnerországi TA társfinanszírozás átmeneti megelőlegezését az 1. § a), b) és d) pontja szerinti együttműködési program esetén, ha az igazoló hatóság által kezelt vonatkozó programszámla alegyenlege a kifizetéseket nem teszi lehetővé.
+
+[^8]: A 4. § (4) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 7. § 7. pontja szerint módosított szöveg.
+[^9]: A 4. § (9) bekezdés d) pontját a 223/2016. (VII. 22.) Korm. rendelet 1. §-a iktatta be.
