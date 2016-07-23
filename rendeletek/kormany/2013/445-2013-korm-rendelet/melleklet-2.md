@@ -114,7 +114,7 @@ Teljes/részmunkaidő ..................... óra.
 
 4.3. Várható (bruttó) alapbér, illetmény, díjazás, ellenérték összege: ......................................... Ft/hó
 
-4.4. A foglalkoztatásra irányuló jogviszony megnevezése (munkaviszony, közalkalmazotti, közszolgálati jogviszony stb.):
+4.4. A foglalkoztatásra irányuló jogviszony megnevezése (munkaviszony, közalkalmazotti, közszolgálati, kormányzati szolgálati, állami szolgálati jogviszony stb.):
 
 4.5. A foglalkoztatás várható/tervezett időtartama: ...........................-tól ............................-ig.
 
@@ -196,4 +196,4 @@ Dátum: ........................................................
 
 foglalkoztató cégszerű aláírása
 
-[^73]: A 2. melléklet a 89/2014. (III. 20.) Korm. rendelet 7. § (16) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 236. § (8) bekezdése szerint módosított szöveg.
+[^73]: A 2. melléklet a 89/2014. (III. 20.) Korm. rendelet 7. § (16) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 236. § (8) bekezdése, a 217/2016. (VII. 22.) Korm. rendelet 42. §-a szerint módosított szöveg.
