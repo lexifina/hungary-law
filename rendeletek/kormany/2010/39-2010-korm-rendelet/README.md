@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-39-20-2
 | 2013-07-16 | 2010-39-20-22.5 | 265/2013. (VII. 11.) Korm. rendelet |
 | 2015-07-01 | 2010-39-20-22.6 | 135/2012. (VI. 28.) Korm. rendelet |
 | 2015-08-01 | 2010-39-20-22.7 | 193/2015. (VII. 21.) Korm. rendelet |
+| 2016-07-23 | 2010-39-20-22.8 | 217/2016. (VII. 22.) Korm. rendelet |
