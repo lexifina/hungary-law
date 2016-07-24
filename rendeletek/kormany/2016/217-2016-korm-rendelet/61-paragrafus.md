@@ -1,4 +1,4 @@
-## 60. §[^3]
+## 60. §[^52]
 
 ## 50. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 6. § a) pontja, a 24. § b) pontja, valamint a 60. § 2017. január 1. napján lép hatályba.
 
-[^3]: A 60. § a 61. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^52]: A 60. § a 61. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

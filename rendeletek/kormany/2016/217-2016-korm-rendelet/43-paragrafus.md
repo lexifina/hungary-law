@@ -1,3 +1,5 @@
-## 42. § A harmadik országbeli állampolgárok magyarországi foglalkoztatásának nem összevont kérelmezési eljárás alapján történő engedélyezéséről, az engedélyezési kötelezettség alóli mentességről, a fővárosi és megyei kormányhivatal munkaügyi központjának az összevont kérelmezési eljárásban való szakhatósági közreműködéséről, valamint a Magyarországon engedélymentesen foglalkoztatható harmadik országbeli állampolgárok magyarországi foglalkoztatásának bejelentéséről, és a munkabér megtérítéséről szóló 445/2013. (XI. 28.) Korm. rendelet 2. melléklet 4. pont 4.4. alpontjában a „közszolgálati” szövegrész helyébe a „közszolgálati, kormányzati szolgálati, állami szolgálati” szöveg lép.
+## 42. §[^38]
 
 ## 37. Az építésügyi, az építésfelügyeleti és az örökségvédelmi hatóságnál foglalkoztatott köztisztviselők és kormánytisztviselők építésügyi vizsgájára és szakmai továbbképzésére vonatkozó részletes szabályokról szóló 487/2013. (XII. 17.) Korm. rendelet módosítása
+
+[^38]: A 42. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

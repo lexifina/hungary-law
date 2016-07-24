@@ -1,5 +1,7 @@
-## szöveg lép.
+## 9. §[^10]
 
 ## 10. A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvénynek a szociális, valamint a gyermekjóléti és gyermekvédelmi ágazatban történő végrehajtásáról szóló
 
 ## 257/2000. (XII. 26.) Korm. rendelet módosítása
+
+[^10]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

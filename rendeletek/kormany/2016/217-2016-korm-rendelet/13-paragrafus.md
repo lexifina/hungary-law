@@ -1,3 +1,5 @@
-## a „közszolgálati jogviszonyban” szövegrész helyébe a „közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonyban”, valamint a „rendvédelmi szervek, a Nemzeti Adó- és Vámhivatal, polgári nemzetbiztonsági szolgálatok” szövegrész helyébe a „rendvédelmi feladatokat ellátó szervek” szöveg lép.
+## 12. §[^13]
 
 ## 13. Az állam által vállalt kezesség előkészítésének és a kezesség beváltásának eljárási rendjéről szóló 110/2006. (V. 5.) Korm. rendelet módosítása
+
+[^13]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

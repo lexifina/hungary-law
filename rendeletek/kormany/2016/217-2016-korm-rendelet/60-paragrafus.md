@@ -1,7 +1,3 @@
-## 59. § Az állami köznevelési közfeladat ellátásában fenntartóként részt vevő szervekről, valamint a Klebelsberg Központról szóló 134/2016. (VI. 10.) Korm. rendelet 10. § (2) bekezdés c) pontja helyébe a következő rendelkezés lép:
+## 59. §[^51]
 
-## (Igazgatónak az nevezhető ki, aki)
-
-## „c) pedagógus szakvizsgával, közigazgatási szakvizsgával vagy közigazgatási tanulmányok szakirányú szakképzettséggel vagy kormányzati tanulmányok szakirányú szakképzettséggel vagy jogi szakvizsgával”
-
-## (rendelkezik.)
+[^51]: Az 59. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

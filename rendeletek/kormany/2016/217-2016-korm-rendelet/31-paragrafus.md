@@ -1,3 +1,5 @@
-## 30. § A Nemzeti Élelmiszerlánc-biztonsági Hivatalról szóló 22/2012. (II. 29.) Korm. rendelet 8. § (10) bekezdés d) pont da) alpontjában a „kormánytisztviselők” szövegrész helyébe a „kormánytisztviselők, állami tisztviselők” szöveg lép.
+## 29–30. §[^29]
 
 ## 28. A kormányzati stratégiai irányításról szóló 38/2012. (III. 12.) Korm. rendelet módosítása
+
+[^29]: A 29–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
