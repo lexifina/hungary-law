@@ -38,7 +38,7 @@ a) a vasúti személyszállítási szolgáltatások végzésének és engedélye
 
 b) a vasúti dolgozók menetkedvezményre jogosultságának és igénybevételének részletes szabályait,
 
-c) az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó közforgalmú menetrend készítésére, az egységes egyeztetési eljárásra vonatkozó, valamint az országos, regionális és elővárosi személyszállítási közszolgáltatások keretében nyújtandó alapellátás meghatározására vonatkozó részletes szabályokat,
+c) az országos, regionális és elővárosi személyszállítási közszolgáltatásokra vonatkozó közforgalmú menetrend készítésére, az egységes egyeztetési eljárásra vonatkozó, és az országos, regionális és elővárosi személyszállítási közszolgáltatások keretében nyújtandó alapellátás meghatározására vonatkozó részletes szabályokat,
 
 d) a vasúti pályahálózathoz való nyílt hozzáférésnek a 47. § (1) bekezdés szerinti korlátozására vonatkozó részletes szabályokat,
 

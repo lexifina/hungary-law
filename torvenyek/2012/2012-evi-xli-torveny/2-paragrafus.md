@@ -34,7 +34,7 @@ c) olyan egyéb gazdasági társaság, amelyben a települési (fővárosi) önk
 
 12. jármű:
 
-a) vasúti jármű: a vasúti közlekedésről szóló 2005. évi CLXXXIII törvény (a továbbiakban: Vtv.) szerinti vasúti jármű,
+a) vasúti jármű: a vasúti közlekedésről szóló 2005. évi CLXXXIII törvényben (a továbbiakban: Vtv.) meghatározott vasúti jármű,
 
 b) trolibusz: a közszolgáltatási szerződések odaítélése szempontjából vasúti jármű,
 

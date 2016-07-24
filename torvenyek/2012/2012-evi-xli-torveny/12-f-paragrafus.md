@@ -1,0 +1,1 @@
+12/F. § Személygépkocsival engedély nélkül végzett közúti közlekedési szolgáltatáshoz használt személygépkocsit a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló kormányrendeletben meghatározott időtartamra ki kell vonni a forgalomból.
