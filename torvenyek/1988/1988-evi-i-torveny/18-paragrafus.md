@@ -16,7 +16,11 @@ c) akinek vezetői engedélyét a közúti közlekedési előéleti pontrendszer
 
 (5) A vezetői engedély csak abban az esetben adható vissza, ha az érintett személy igazolja, hogy az utánképzésen részt vett.
 
-(6) Az utánképzésen nem kell részt vennie a járművezetőnek, ha az eltiltás csak jármű kategóriára vagy jármű fajtára terjed ki, és az a vezetői engedély visszavonásával nem jár.
+(6) Az utánképzésen nem kell részt vennie a járművezetőnek, ha
+
+a) az eltiltás csak járműkategóriára vagy járműfajtára terjed ki, és az a vezetői engedély visszavonásával nem jár;
+
+b) a vezetői engedélyét az eljáró hatóság kizárólag, a közúti közlekedési előéleti pontrendszerről szóló 2000. évi CXXVIII. törvény végrehajtásáról szóló kormányrendeletben a közigazgatási bírsággal sújtandó jogsértéshez tartozó 9 pont megállapítására alapozottan vonta vissza.
 
 (7) A közlekedési hatóság a (2) bekezdésben meghatározott engedélyköteles tevékenységet engedély nélkül vagy az engedélyben foglaltaktól eltérő módon végzőket 200 000 Ft-ig terjedő bírság fizetésére kötelezheti. A bírság ismételten is kiszabható. A bírság mellett a közlekedési hatóság a képző szerv tevékenységét – jogszabályban meghatározott esetekben – felfüggesztheti, illetve az engedélyt visszavonhatja.
 
