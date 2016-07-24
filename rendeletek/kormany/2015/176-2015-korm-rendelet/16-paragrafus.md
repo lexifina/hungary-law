@@ -10,6 +10,6 @@
 
 (3) A diszpécserszolgálat rögzíti a telefonon, faxon, e-mailben, vagy on-line érkező megrendeléseket, és továbbítja azokat a belföldön szolgáltatást teljesítő személygépkocsi vezetőjének. A diszpécserszolgálatnak hangfelvétellel vagy írásban rögzítenie kell a megrendeléseket függetlenül azok formájától, valamint azt, hogy a diszpécserszolgálat a megrendelést továbbította a feladatot teljesítő személygépkocsi vezetője részére, és azokat legalább három hónapig meg kell őrizni. Az adatok kezelése és továbbítása az adatszolgáltatók hozzájárulása alapján, valamint az információs önrendelkezési jogról és az információszabadságról szóló törvényben foglalt rendelkezések szerint történik.
 
-(4)[^5]
+(4)[^6]
 
-[^5]: A 16. § (4) bekezdését a 8/2016. (II. 9.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.
+[^6]: A 16. § (4) bekezdését a 8/2016. (II. 9.) Korm. rendelet 18. § b) pontja hatályon kívül helyezte.

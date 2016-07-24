@@ -12,6 +12,6 @@
 
 (5) E rendelet hatálybalépése előtt a személytaxi-szolgáltatás végzésének egyes feltételeiről szóló 21/1992. (X. 27.) KHVM rendeletben meghatározott minősítő vizsgálat alapján kiállított igazolólap az azon feltüntetett érvényességi időpontig a műszaki alkalmasság igazolására használható.
 
-(6)[^9] A 3. melléklet 1. pont 1.1., 1.4., 1.6., és 1.9. alpontjában foglaltakat 2017. december 31. napjáig nem kell alkalmazni arra a személygépkocsira, amelyet az (5) bekezdésben meghatározott feltételeknek megfelelően e rendelet hatálybalépésekor személytaxi-szolgáltatáshoz vagy személygépkocsis személyszállító szolgáltatáshoz használnak.
+(6)[^11] A 3. melléklet 1. pont 1.1., 1.4., 1.6., és 1.9. alpontjában foglaltakat 2017. december 31. napjáig nem kell alkalmazni arra a személygépkocsira, amelyet az (5) bekezdésben meghatározott feltételeknek megfelelően e rendelet hatálybalépésekor személytaxi-szolgáltatáshoz vagy személygépkocsis személyszállító szolgáltatáshoz használnak.
 
-[^9]: A 26. § (6) bekezdése a 8/2016. (II. 9.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^11]: A 26. § (6) bekezdése a 8/2016. (II. 9.) Korm. rendelet 15. §-ával megállapított szöveg.

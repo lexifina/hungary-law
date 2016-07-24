@@ -18,6 +18,9 @@ ba) legalább két éve „B” kategóriára érvényesített vezetői engedél
 
 bb) az e rendeletben előírt vizsgakötelezettségének eleget tett, valamint
 
-bc) betöltötte a huszonegyedik életévét.
+bc) betöltötte a huszonegyedik életévét;
+
+c)[^5] személygépkocsis személyszállító szolgáltatásra jogosító tevékenységi engedély esetén a 22. § (2) bekezdés a) pontja szerinti tevékenység végzésére jogosult vállalkozással kötött írásbeli szerződéssel.
 
 [^4]: Az 5. § (2) bekezdés nyitó szövegrésze a 8/2016. (II. 9.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
+[^5]: Az 5. § (2) bekezdés c) pontját a 164/2016. (VI. 23.) Korm. rendelet 7. §-a iktatta be.
