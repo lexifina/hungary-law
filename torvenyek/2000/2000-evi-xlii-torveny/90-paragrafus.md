@@ -1,6 +1,6 @@
 90. § Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
-a) az Európai Parlament és a Tanács 94/25/EK irányelve (1994. június 16.) a kedvtelési célú vízi járművekre vonatkozó tagállami törvényi, rendeleti és közigazgatási rendelkezések közelítéséről, 8. cikk;
+a) a kedvtelési célú vízi járművekről és a motoros vízi sporteszközökről, valamint a 94/25/EK irányelv hatályon kívül helyezéséről szóló 2013. november 20-i 2013/53/EU európai parlamenti és tanácsi irányelv;
 
 b) a Tanács 98/41/EK irányelve (1998. június 18.) a Közösség tagállamainak kikötőibe érkező vagy onnan induló személyhajókon utazó személyek nyilvántartásáról, 8. és 9. cikk;
 
