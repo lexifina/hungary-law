@@ -6,7 +6,7 @@ b) szándékos bűncselekmény elkövetése esetén 11,
 
 c) szabálysértés elkövetése esetén 1–8,
 
-d) a közigazgatási bírsággal sújtandó szabályszegés esetén 1–8 pont.
+d) a közigazgatási bírsággal sújtandó szabályszegés esetén 1–9 pont.
 
 (2) A pontrendszer hatálya alá tartozó több szabályszegés egy eljárásban történő elbírálása esetén az elbírált
 
