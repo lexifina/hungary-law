@@ -1,1 +1,3 @@
-## 1. § A tartós külszolgálatot teljesítő kormányzati szolgálati jogviszonyban állók és a munkavállalók alapellátmányának, valamint a munkavállalók ideiglenes külföldi kiküldetése napidíjának összegéről és azok kifizetéséről szóló 3/2012. (IX. 4.) KüM rendelet (a továbbiakban: R.) 1. melléklete helyébe az 1. melléklet lép.
+## 1. §[^2]
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

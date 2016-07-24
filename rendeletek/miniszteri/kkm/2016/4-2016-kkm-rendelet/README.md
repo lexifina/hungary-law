@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-4-20-6Q
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-07-23 | 2016-4-20-6Q.1 | 4/2016. (VII. 22.) KKM rendelet |
+| 2016-07-24 | 2016-4-20-6Q.2 | 2010: CXXX. törvény |
