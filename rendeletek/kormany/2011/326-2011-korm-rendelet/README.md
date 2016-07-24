@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-326-20-
 | 2016-02-17 | 2011-326-20-22.31 | 8/2016. (II. 9.) Korm. rendelet |
 | 2016-02-19 | 2011-326-20-22.32 | 20/2016. (II. 11.) Korm. rendelet |
 | 2016-07-01 | 2011-326-20-22.33 | 467/2015. (XII. 29.) Korm. rendelet |
+| 2016-07-24 | 2011-326-20-22.34 | 20/2016. (II. 11.) Korm. rendelet |

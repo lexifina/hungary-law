@@ -4,8 +4,8 @@
 
 (3) A forgalomból kivonást elrendelő határozat jogerőre emelkedésétől, vagy fellebbezési jogra tekintet nélküli végrehajtás esetén a határozat végrehajthatóvá válása napjától számított öt napon belül – amennyiben arra a helyszínen nem került sor – a forgalmi engedélyt és a rendszámtáblát le kell adni.
 
-(3a)[^183] A határozattal bevont – a helyszínen elvett vagy a leadott – rendszámtáblák selejtezéséről az elvétel vagy a leadás napjától számított 3 év után a közlekedési igazgatási hatóság, megsemmisítéséről a Hivatal gondoskodik. Ha ezt követően az ügyfél igazolja, hogy a jármű forgalomba helyezésének akadálya nincs, kérelemre a bevont rendszámtábla ugyanazokkal a karakterekkel egy alkalommal utángyártható.
+(3a)[^184] A határozattal bevont – a helyszínen elvett vagy a leadott – rendszámtáblák selejtezéséről az elvétel vagy a leadás napjától számított 3 év után a közlekedési igazgatási hatóság, megsemmisítéséről a Hivatal gondoskodik. Ha ezt követően az ügyfél igazolja, hogy a jármű forgalomba helyezésének akadálya nincs, kérelemre a bevont rendszámtábla ugyanazokkal a karakterekkel egy alkalommal utángyártható.
 
 (4) A kivonás időpontjaként az (1) és (2) bekezdésben meghatározott napot kell a nyilvántartásban megjelölni, abban az esetben is, ha az ügyfél a leadási kötelezettségének nem tett eleget.
 
-[^183]: A 104. § (3a) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 23. §-a iktatta be.
+[^184]: A 104. § (3a) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 23. §-a iktatta be.

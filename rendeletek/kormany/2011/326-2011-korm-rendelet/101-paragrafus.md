@@ -1,8 +1,8 @@
-101. § (1) A közlekedési igazgatási hatóság – a kivonási okot észlelő hatóság értesítése alapján – a jármű forgalomból történő kivonását hivatalból rendeli el a 96. § (1) és (9) bekezdéseiben meghatározott esetekben, továbbá, ha
+101. § (1)[^176] A közlekedési igazgatási hatóság – a kivonási okot észlelő hatóság értesítése alapján – a jármű forgalomból történő kivonását hivatalból rendeli el a 96. § (1) és (9) bekezdésében, valamint a 97. § (1) bekezdés e) pontjában meghatározott esetekben, továbbá, ha
 
 a) a jármű tulajdonosa vagy üzemben tartója a gépjárműadó fizetési kötelezettségének nem tett eleget, és a jármű forgalomból történő kivonását az adóhatóság kérte,
 
-b)[^176] bíróság, közjegyző, külföldi hatóság vagy jogszabály által feljogosított más hatóság jogerős határozatában a jármű lefoglalását, elkobzását vagy a (2) bekezdésben foglaltak kivételével a zár alá vételét elrendelte, továbbá, ha a járművet a bírósági végrehajtás során a bírósági végrehajtó, vagy a közigazgatási végrehajtás során az adóhatóság, a társadalombiztosítási szerv részéről eljáró személy lefoglalta,
+b)[^177] bíróság, közjegyző, külföldi hatóság vagy jogszabály által feljogosított más hatóság jogerős határozatában a jármű lefoglalását, elkobzását vagy a (2) bekezdésben foglaltak kivételével a zár alá vételét elrendelte, továbbá, ha a járművet a bírósági végrehajtás során a bírósági végrehajtó, vagy a közigazgatási végrehajtás során az adóhatóság, a társadalombiztosítási szerv részéről eljáró személy lefoglalta,
 
 c) a járművek üzletszerű bérbeadásával foglalkozó vállalkozó a külön jogszabályban meghatározott nyilvántartási kötelezettségének nem tesz eleget,
 
@@ -20,13 +20,14 @@ i) a közlekedési hatóság a járművet a forgalomban való részvételre vég
 
 j) a jármű üzemben tartója a jogerősen kiszabott közigazgatási bírság megfizetési kötelezettségének nem tett eleget és a jármű forgalomból történő kivonását az eljáró hatóság kezdeményezte,
 
-k)[^177] a jármű eltulajdonítása miatt eljárás indult.
+k)[^178] a jármű eltulajdonítása miatt eljárás indult.
 
-(2)[^178] Ha az arra feljogosított hatóság a jármű lefoglalását a forgalomból történő kivonás mellőzésével, vagy büntetőeljárásban a bíróság a jármű zár alá vételét rendelte el, továbbá ha a Családi Csődvédelmi Szolgálat a természetes személy által kezdeményezett adósságrendezési eljárásról értesít, ennek tényét – az elidegenítési és terhelési tilalom egyidejű bejegyzésével – a nyilvántartásban haladéktalanul rögzíteni kell. A jármű forgalomból történő kivonása esetén a közlekedési igazgatási hatóság határozata tartalmazza az elidegenítési és terhelési tilalom nyilvántartási bejegyzésének megtörténtét.
+(2)[^179] Ha az arra feljogosított hatóság a jármű lefoglalását a forgalomból történő kivonás mellőzésével, vagy büntetőeljárásban a bíróság a jármű zár alá vételét rendelte el, továbbá ha a Családi Csődvédelmi Szolgálat a természetes személy által kezdeményezett adósságrendezési eljárásról értesít, ennek tényét – az elidegenítési és terhelési tilalom egyidejű bejegyzésével – a nyilvántartásban haladéktalanul rögzíteni kell. A jármű forgalomból történő kivonása esetén a közlekedési igazgatási hatóság határozata tartalmazza az elidegenítési és terhelési tilalom nyilvántartási bejegyzésének megtörténtét.
 
-(3)[^179] A rendőrség az (1) bekezdés k) pontjában meghatározott esetben haladéktalanul értesíti a közlekedési igazgatási hatóságot.
+(3)[^180] A rendőrség az (1) bekezdés k) pontjában meghatározott esetben haladéktalanul értesíti a közlekedési igazgatási hatóságot.
 
-[^176]: A 101. § (1) bekezdés b) pontja az 5/2013. (I. 16.) Korm. rendelet 19. §-ával megállapított szöveg.
-[^177]: A 101. § (1) bekezdés k) pontját a 441/2015. (XII. 28.) Korm. rendelet 154. § (13) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^178]: A 101. § (2) bekezdése a 218/2015. (VIII. 6.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^179]: A 101. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 154. § (14) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^176]: A 101. § (1) bekezdés nyitó szövegrésze a 164/2016. (VI. 23.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^177]: A 101. § (1) bekezdés b) pontja az 5/2013. (I. 16.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^178]: A 101. § (1) bekezdés k) pontját a 441/2015. (XII. 28.) Korm. rendelet 154. § (13) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^179]: A 101. § (2) bekezdése a 218/2015. (VIII. 6.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^180]: A 101. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 154. § (14) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
