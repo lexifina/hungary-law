@@ -40,6 +40,8 @@
 
 | 2502 | autóúton, autópályán [BR. 11/A. melléklet 3. pont]. | 5 |
 
+| 26 | Engedély nélkül személygépkocsival végzett közúti közlekedési szolgáltatás [BR. 1. melléklet 1. pontjában meghatározott] | 9 |
+
 2. számú melléklet a 236/2000. (XII. 23.) Korm. rendelethez[^16]
 
 Eljáró bíróság hatóság megnevezése kódja:

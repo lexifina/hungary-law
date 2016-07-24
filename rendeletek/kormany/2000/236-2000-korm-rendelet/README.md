@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-236-20-
 | 2013-01-01 | 2000-236-20-22.11 | 276/2006. (XII. 23.) Korm. rendelet |
 | 2013-05-11 | 2000-236-20-22.12 | 8/2004. (I. 22.) Korm. rendelet |
 | 2016-01-01 | 2000-236-20-22.13 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2016-07-24 | 2000-236-20-22.14 | 99/2011. (VI. 29.) Korm. rendelet |
