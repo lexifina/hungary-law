@@ -2,7 +2,7 @@
 
 13. § (1)[^35] Amennyiben az ellenőrző hatóság
 
-a)[^36] az 1. melléklet 1. pont b) alpontjában, 3. pontjában, 4. pont a) és b) alpontjában, az 5. pont b) alpontjában, 6. és 7. pontjában,
+a)[^36] az 1. melléklet 1. pont b) alpontjában, 3. pontjában, 4. pont a) és b) alpontjában, 6. és 7. pontjában,
 
 b) a 2. melléklet 1–2. pontjában,
 
@@ -24,6 +24,6 @@ g) a 10. melléklet 1. pontjában
 
 [^34]: A 12/C. §-t a 138/2013. (V. 10.) Korm. rendelet – a 175/2013. (V. 31.) Korm. rendelet 8. §-ával megállapított – 8. §-a iktatta be.
 [^35]: A 13. § (1) bekezdés záró szövegrésze a 488/2013. (XII. 17.) Korm. rendelet 4. §-a szerint módosított szöveg.
-[^36]: A 13. § (1) bekezdés a) pontja a 228/2012. (VIII. 23.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 8/2016. (II. 9.) Korm. rendelet 12. §-a szerint módosított szöveg.
+[^36]: A 13. § (1) bekezdés a) pontja a 228/2012. (VIII. 23.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 8/2016. (II. 9.) Korm. rendelet 12. §-a, a 164/2016. (VI. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^37]: A 13. § (1) bekezdés b1) pontját a 228/2012. (VIII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^38]: A 13. § (2) bekezdése a 171/2014. (VII. 18.) Korm. rendelet 8. §-ával megállapított szöveg.

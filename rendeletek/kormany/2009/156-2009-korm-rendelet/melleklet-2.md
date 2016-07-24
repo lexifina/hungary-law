@@ -12,6 +12,8 @@
 
 |  | c) Diszpécserszolgálati engedély hiánya | 300 000 | diszpécserszolgálat |
 
+|  | d) Utazási igény közvetítése vagy személyszállító szolgáltatásnyújtás szervezése személytaxi- szolgáltatás nyújtására nem jogosult részére e) Személygépkocsis személyszállító szolgáltatáshoz közvetlenül kapcsolódó szolgáltatásra kötött szerződést a járművezető nem tudja bemutatni | 300 000 200 000 | diszpécserszolgálat gépjárművezető |
+
 | 5. | Nemzetközi közúti áruszállítási engedély, CEMT engedély és a hozzá szükséges igazolás, autóbuszos járati engedély |  |  |
 
 |  | a) hiánya, érvénytelensége | 800 000 | szállító |
