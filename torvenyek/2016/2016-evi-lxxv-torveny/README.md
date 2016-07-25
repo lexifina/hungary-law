@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-75-00-00
 | --- | --- | --- |
 | 2016-07-24 | 2016. évi LXXV. törvény | 2016-75-00-00.0 (közlönyállapot) |
 | 2016-07-24 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-75-00-00.1 |
+| 2016-07-25 | 2010. évi CXXX. törvény | 2016-75-00-00.2 |
