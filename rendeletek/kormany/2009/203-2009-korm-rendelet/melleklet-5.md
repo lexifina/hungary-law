@@ -124,7 +124,7 @@
 
 ## c) az elvégzett vizsgálatok (személyiség, képesség vizsgálat) eredménye alapján a pszichológiai összteljesítmény minimum átlagosnak értékelhető, a vizsgálóhelyek által alkalmazott standardok figyelembevételével.
 
-5. melléklet a 203/2009. (IX. 18.) Korm. rendelethez
+5. melléklet a 203/2009. (IX. 18.) Korm. rendelethez[^27]
 
 Az egészségi alkalmassági vizsgálat során alkalmazandó dokumentáció
 
@@ -332,69 +332,7 @@ véleményező foglalkozás-egészségügyi
 
 orvos (bizottság vezetője) P. H.
 
-D. Foglalkozás-egészségügyi orvosi beutaló pszichológiai vizsgálatra:
-
-FOGLALKOZÁS-EGÉSZSÉGÜGYI ORVOSI BEUTALÓ PSZICHOLÓGIAI VIZSGÁLATRA
-
-Foglalkozás-egészségügyi szolgálat
-
-megnevezése, címe:
-
-Kérem a munkavállaló vizsgálatát és a szakvélemény szíves közlését.
-
-A munkavállaló neve:
-
-Születési ideje:   év   hó   nap
-
-Anyja neve:
-
-A vizsgálat kérésének oka:
-
-*Előzetes, időszakos, soron kívüli vizsgálat a következők miatt:
-
-A munkavállaló betöltendő munkaköre:
-
-Jelenlegi munkaköre (előzetes vizsgálatnál előző munkahelye és munkaköre):
-
-A kért vizsgálat jellege: * egészségi alkalmasság / személyiségvizsgálat is
-
-A munkavállalónál elvégzett szomatikus vizsgálat eredményeként kontraindikáció nem merült fel a betöltendő munkakörével szemben.
-
-Kelt,
-
-(a vizsgáló orvos olvasható aláírása
-
-P. H.
-
-* A megfelelő szöveg aláhúzandó!
-
-Pszichológiai vizsgáló hely, intézet
-
-megnevezése, címe
-
-PSZICHOLÓGIAI SZAKVÉLEMÉNY
-
-A munkavállaló neve:
-
-Születési ideje:   év   hó   nap
-
-A munkavállaló a megjelölt munkakörre*:
-
-– Javasolt
-
-– Nem javasolt
-
-– további   vizsgálat javasolt.
-
-Vélemény (megjegyzés):
-
-Kelt:
-
-(pszichológus olvasható aláírása)
-
-P. H.
-
-* A megfelelő válasz aláhúzandó
+D.
 
 E. Alkalmassági orvosi tanúsítvány vasúti szolgálatra dokumentáció törzslapja:
 
@@ -692,42 +630,6 @@ MEGJEGYZÉS:
 
 véleményező foglalkozás-egészségügyi orvos P. H.
 
-V.
+V–VI.
 
-Időszakos, soron kívüli és záróvizsgálatok
-
-Vérkeringési szervek (RR):
-
-Idegrendszer:
-
-Látás:
-
-Hallás:
-
-Egyéb vizsgálati eredmények (psychológia)
-
-VI.
-
-EGÉSZSÉGI ALKALMASSÁGI TANÚSÍTVÁNY
-
-(időszakos, soron kívüli és záró foglalkozás-egészségügyi vizsgálat)
-
-Véleményezést végző orvos (bizottság vezetője)
-
-A vizsgálat eredménye alapján (név)  , forgalom lebonyolításával közvetlenül
-
-összfüggő  , munkakörben,   csoportba sorolt munkakör ellátására
-
-ALKALMAS NEM ALKALMAS
-
-A korlátozás megnevezése:
-
-Felülvizsgálatra kötelezett:   év   hó   napján.
-
-MEGJEGYZÉS:
-
-év   hó   nap.
-
-véleményező foglalkozás-egészségügyi
-
-orvos (bizottság vezetője) P. H.
+[^27]: Az 5. melléklet a 193/2016. (VII. 13.) Korm. rendelet 15. § c) és d) pontja szerint módosított szöveg.
