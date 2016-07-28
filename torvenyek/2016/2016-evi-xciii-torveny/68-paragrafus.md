@@ -1,3 +1,7 @@
 ## 39. A jogdíjak jogosultak részére történő kifizetése
 
-68. §
+68. § (1) A több tagállam területére kiterjedő hatályú felhasználási engedélyeket adó közös jogkezelő szervezet a jogosultakat az ilyen engedélyek alapján megillető jogdíjösszegeket pontosan és a mű tényleges felhasználására vonatkozó jelentést követően haladéktalanul felosztja és kifizeti a jogosultak részére a felosztási szabályzata szerint, kivéve, ha ez az érintett felhasználónak felróható okból nem lehetséges.
+
+(2) A több tagállam területére kiterjedő hatályú felhasználási engedélyeket adó közös jogkezelő szervezet az (1) bekezdés szerinti minden egyes jogdíjkifizetéssel együtt részletes tájékoztatást ad a jogosultak részére. A tájékoztatás kötelező tartalmi elemeit kormányrendelet határozza meg.
+
+(3) Ha a közös jogkezelő szervezet a 69. § és 70. § alapján megbíz egy másik közös jogkezelő szervezetet azzal, hogy zeneművek online felhasználására vonatkozóan több tagállam területére kiterjedő hatályú engedélyeket adjon, a megbízott, több tagállam területére kiterjedő hatályú felhasználási engedélyeket adó közös jogkezelő szervezet fizeti ki – pontosan és késedelem nélkül – az (1) bekezdésben említett jogdíjösszegeket, és nyújtja a megbízó közös jogkezelő szervezet részére a (2) bekezdésben említett tájékoztatást. A közös jogkezelő szervezetek közötti eltérő megállapodás hiányában a megbízó közös jogkezelő szervezet felel e jogdíjösszegek jogosultak részére történő későbbi felosztásáért és a tájékoztatás részükre történő továbbításáért.

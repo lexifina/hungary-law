@@ -1,3 +1,13 @@
 ## 41. Másik közös jogkezelő szervezet több tagállam területére kiterjedő hatályú engedélyezés terén történő képviseletére vonatkozó kötelezettség
 
-70. §
+70. § (1) Ha valamely közös jogkezelő szervezet, amely nem ad vagy nem ajánl az általa képviselt jogosultak zeneművein fennálló, online felhasználásra vonatkozó jogok tekintetében több tagállam területére kiterjedő hatályú engedélyeket, felkér egy másik közös jogkezelő szervezetet arra, hogy kössön vele képviseleti szerződést e jogok kezelésére, a felkért közös jogkezelő szervezet köteles az ilyen felkérést elfogadni, és a képviseleti szerződést megkötni, ha egy vagy több másik közös jogkezelő szervezet által képviselt jogosultak zeneművein fennálló, online felhasználásra vonatkozó jogok ugyanazon fajtája tekintetében már ad vagy ajánl több tagállam területére kiterjedő hatályú engedélyeket.
+
+(2) A felkért közös jogkezelő szervezet indokolatlan késedelem nélkül írásban ad választ a felkérő közös jogkezelő szervezet számára.
+
+(3) Az (1) bekezdés szerinti képviseleti szerződés alapján megbízott közös jogkezelő szervezet az általa már képviselt egyéb jogosultak zeneművein fennálló jogok kezelésére alkalmazott feltételekkel azonos feltételek mellett kezeli a megbízó közös jogkezelő szervezet megbízása alapján képviselt jogosultak zeneművein fennálló jogokat.
+
+(4) A megbízott közös jogkezelő szervezet a megbízó közös jogkezelő szervezet megbízása alapján képviselt jogosultak zeneműveit minden esetben az általa már képviselt egyéb zeneművekkel együttesen ajánlja felhasználásra az érintett felhasználók részére.
+
+(5) A megbízott közös jogkezelő szervezet által a megbízó közös jogkezelő szervezet részére nyújtott szolgáltatás díja nem haladhatja meg a megbízott közös jogkezelő szervezetnél indokoltan felmerülő kezelési költségeket.
+
+(6) A megbízó közös jogkezelő szervezet a megbízott közös jogkezelő szervezet számára hozzáférhetővé teszi az általa képviselt jogosultak zeneműveire vonatkozó azon információkat, amelyek a zeneművek online felhasználására vonatkozó jogok tekintetében a több tagállam területére kiterjedő hatályú engedélyezéshez szükségesek. Ha az információk nem kielégítőek, vagy azokat olyan formában nyújtották, amely nem teszi lehetővé a megbízott közös jogkezelő szervezet számára, hogy megfeleljen az e részben foglalt követelményeknek, a megbízott közös jogkezelő szervezet jogosult felszámítani az e követelményeknek való megfelelés során indokoltan felmerült költségeit, vagy jogosult a felhasználás engedélyezéséből kizárni azokat a műveket, amelyekre vonatkozóan nem kielégítő vagy nem használható információkat kapott.

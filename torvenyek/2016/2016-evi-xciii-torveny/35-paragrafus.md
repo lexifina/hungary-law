@@ -1,0 +1,9 @@
+35. § (1) Ha a kötelező vagy előírt közös jogkezelés körébe tartozó esetben ugyanazon jogosulti csoport ugyanolyan mű- vagy kapcsolódó jogi teljesítménytípusra vonatkozó ugyanolyan szerzői jogának vagy kapcsolódó jogának kezelése tekintetében ugyanarra a közös jogkezelési tevékenységtípusra több vagy újabb – az engedélyezés feltételeinek egyébként megfelelő – közös jogkezelő szervezet kér a 33. § (2) bekezdése szerinti engedélyt, több közös jogkezelő szervezet vagy az újabb közös jogkezelő szervezet részére abban az esetben engedélyezhető a közös jogkezelési tevékenység reprezentatív közös jogkezelő szervezetként a kérelemmel érintett körben, ha ez a közös jogkezelés működőképességét és hatékonyságát – sem a jogosultak, sem a felhasználók vagy a díj fizetésére kötelezettek oldalán – nem veszélyezteti.
+
+(2) Ha az (1) bekezdésben meghatározott feltétel nem teljesül, a kötelező vagy előírt közös jogkezelés körébe tartozó esetben ugyanazon jogosulti csoport ugyanolyan mű- vagy kapcsolódó jogi teljesítménytípusra vonatkozó ugyanolyan szerzői jogának vagy kapcsolódó jogának kezelése tekintetében ugyanarra a közös jogkezelési tevékenységtípusra
+
+a) több közös jogkezelő szervezet közül annak a részére kell a 33. § (2) bekezdése szerinti engedélyt megadni, amelyik a 34. § (1) bekezdésében előírt feltételeket összességében a legjobban tudja megvalósítani;
+
+b) az újabb közös jogkezelő szervezet részére kell a 33. § (2) bekezdése szerinti engedélyt megadni, és a korábban engedélyt szerzett reprezentatív közös jogkezelő szervezet engedélyét az érintett körben vissza kell vonni, ha a 34. § (1) bekezdésében előírt feltételeket az újabb közös jogkezelő szervezet összességében jobban meg tudja valósítani.
+
+(3) Az (1) bekezdésben meghatározott feltétel teljesítése – egyebek mellett – igazolható az érintett reprezentatív közös jogkezelő szervezeteknek a 89. § (1) bekezdése vagy a 90. § (1) bekezdése szerinti megállapodásával.

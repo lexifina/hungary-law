@@ -1,3 +1,5 @@
 ## 87. A több tagállam területére kiterjedő hatályú engedélyezéshez való hozzáférés
 
-163. §
+163. § (1) Az a közös jogkezelő szervezet, amely 2017. április 10. napjáig nem végez a zeneművek online felhasználására vonatkozó, több EGT-állam területére kiterjedő hatályú engedélyezésre irányuló közös jogkezelési tevékenységet, és a 69. § vagy 70. § alapján sem bíz meg egy másik közös jogkezelő szervezetet ilyen közös jogkezelési tevékenység végzésére, köteles lehetővé tenni a zeneműveik online felhasználásának engedélyezésével kapcsolatos közös jogkezelésre jogkezelési megbízást adó jogosultjai részére, hogy a jogkezelési megbízást a több EGT-állam területére kiterjedő hatályú engedélyezés kizárásával korlátozzák. Ebben az esetben a jogkezelési megbízás a zeneművek online felhasználásának egy ország területére vonatkozó engedélyezése tekintetében hatályban marad.
+
+(2) Az (1) bekezdésben foglaltakat alkalmazni kell a 18. § szerinti tiltakozásra is azon jogosultak tekintetében, akiket a zeneműveik online felhasználásának engedélyezésével kapcsolatban a közös jogkezelő szervezet a 17. § alapján jogkezelési megbízás nélkül képvisel.

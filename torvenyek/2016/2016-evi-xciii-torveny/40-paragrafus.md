@@ -1,3 +1,7 @@
 ## 20. A jogdíjak felosztása és kifizetése
 
-40. §
+40. § (1) A közös jogkezelő szervezet köteles az általa beszedett jogdíjakat a lehető legrövidebb időn belül, de legkésőbb a beszedés évét követő év harmadik negyedévének végéig az általa képviselt jogosultak részére a felosztási szabályzat szerint felosztani és kifizetni, vagy az általa képviselt más közös jogkezelő szervezetnek átadni, kivéve, ha a jogdíjak felosztása vagy kifizetése, vagy más közös jogkezelő szervezetnek való átadása a közös jogkezelő szervezeten kívül álló okból e határidőn belül nem lehetséges.
+
+(2) A más közös jogkezelő szervezet által beszedett és átadott jogdíjat az átvevő közös jogkezelő szervezet köteles a lehető legrövidebb időn belül, de legkésőbb a jogdíj átadását követő hat hónapon belül az általa képviselt jogosultak részére a felosztási szabályzat szerint felosztani (ha a felosztást a jogdíjat átadó közös jogkezelő szervezet még nem végezte el), és kifizetni, kivéve, ha a jogdíjak felosztása vagy kifizetése a jogdíjat átvevő közös jogkezelő szervezeten kívül álló okból e határidőn belül nem lehetséges.
+
+(3) Az (1) és (2) bekezdés alkalmazásában a közös jogkezelő szervezeten kívül álló oknak tekinthető különösen a felhasználók általi adatszolgáltatással, a jogosultak azonosításával vagy elérhetőségével, vagy az érintett szerzői művekre és kapcsolódó jogi teljesítményekre vonatkozó információknak a jogosultakkal való összekapcsolásával összefüggő ok.
