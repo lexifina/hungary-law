@@ -1,3 +1,5 @@
+## vonatkozó jogosultság tekintetében az üzletszabályzatban e rendelet rendelkezéseitől eltérhet.
+
 ## Menetjegy
 
 11. § (1)[^19] A menetjegyen és az otthon nyomtatott jegyen az EK rendelet I. melléklet 7. cikk (2) bekezdésében felsoroltakon túl fel kell tüntetni:
@@ -39,8 +41,6 @@ a) az utazás megszakítására,
 b) az utazás megkezdése napjának szabad megválasztására,
 
 c) az utazás útirányának szabad megválasztására
-
-vonatkozó jogosultság tekintetében az üzletszabályzatban e rendelet rendelkezéseitől eltérhet.
 
 [^19]: A 11. § (1) bekezdés nyitó szövegrésze a 328/2013. (IX. 3.) Korm. rendelet 16. § c) pontja szerint módosított szöveg.
 [^20]: A 11. § (1) bekezdés b) pontja a 25. § (1) bekezdésével megállapított szöveg.
