@@ -1,0 +1,3 @@
+## 16. § Az országos működési engedély alapján végzett vasúti személyszállítás részletes feltételeiről szóló 271/2009. (XII. 1.) Korm. rendelet (a továbbiakban: R3.) „A vasúti társaság felelőssége a szerződésszegéssel okozott károkért” alcíme a következő 16/A. §-sal egészül ki:
+
+## „16/A. § A vasúti társaság veszélyes üzemi tevékenysége körében a vasúti társaság működési körén kívül álló elháríthatatlan oknak minősülnek: az EK rendelet I. melléklet 32. Cikke (2) bekezdésében foglaltak szerinti okok azzal, hogy az EK rendelet I. melléklet 32. Cikk (2) bekezdés a) pontja szerinti körülménynek minősül különösen a természeti katasztrófa, háború, embargó, szükséghelyzet, a Kormány által elrendelt válsághelyzet.”

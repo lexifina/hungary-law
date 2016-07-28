@@ -1,0 +1,3 @@
+## 18. § A vasúti társaságok nem vasúti balesetből eredő károk fedezésére szolgáló kötelező kárfedezeti képességének biztosításáról szóló 6/2010. (I. 21.) Korm. rendelet (a továbbiakban: R4.) 6. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) Ha a vagyoni biztosíték mértéke a felhasználás következtében a fedezeti összeghatár alá csökken, a vasúti társaság – amennyiben a vasúti személyszállítási tevékenységét tovább folytatja – a vagyoni biztosíték legalább a fedezeti összeghatár mértékéig történő emeléséről, legkésőbb a csökkenéstől számított harminc napon belül gondoskodik, és ennek megtörténtéről a vasúti igazgatási szervet legalább tizenöt napon belül írásban értesíti.”

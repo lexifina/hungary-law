@@ -1,0 +1,5 @@
+## 1. § A vasúti társaságok kötelező baleseti kárfedezeti képességének biztosításáról szóló 271/2007. (X. 19.) Korm. rendelet (a továbbiakban: R1.) 4. § (2) bekezdése helyébe a következő rendelkezés lép, és a § a következő (2a) bekezdéssel egészül ki:
+
+## „(2) Ha a vasúti társaság kizárólag működési engedélyhez kötött vasúti közlekedési tevékenységet végez, akkor a fedezeti összeghatárt az általános vasúti balesetek vonatkozásában működési engedélyenként, míg a katasztrófa-balesetek vonatkozásában a legnagyobb fedezeti összeghatárral járó működési engedély értékének alapulvételével kell megállapítani.
+
+## (2a) Ha a vasúti társaság működési engedélyhez kötött és bejelentésköteles vasúti közlekedési tevékenységet is vagy csak kizárólag bejelentésköteles vasúti közlekedési tevékenységet végez, akkor a fedezeti összeghatárt az általános vasúti balesetek vonatkozásában vasúti közlekedési tevékenységenként, míg a katasztrófa-balesetek vonatkozásában a legnagyobb fedezeti összeghatárral járó vasúti közlekedési tevékenység értékének alapulvételével kell megállapítani.”
