@@ -6,9 +6,9 @@
 
 | 1. | Vasúti pálya és tartozékai engedély nélkül végzett létesítése, átalakítása, használatbavétele, a 2. sor kivételével. | vágány folyóméterenként 30 000 |
 
-| 2. | Saját célú vasúti pályahálózathoz tartozó vasúti pálya és tartozékai engedély nélkül végzett létesítése, átalakítása, használatbavétele. | méterenként 10 000 |
+| 2. | Saját célú vasúti pályahálózathoz tartozó vasúti pálya és tartozékai engedély nélkül végzett létesítése, átalakítása, használatbavétele. | vágány folyóméterenként 10 000 |
 
-| 3. | Villamos felsővezeték engedély nélkül végzett létesítése, átalakítása, használatbavétele. | oszloponként 1 000 000 |
+| 3. | Villamos felsővezeték engedély nélkül végzett létesítése, átalakítása, használatbavétele. | pálya-kilométerenként 1 000 000 |
 
 | 4. | Térvilágítási berendezés engedély nélkül végzett létesítése, átalakítása, használatbavétele. | megvilágított terület-négyzetméterenként 1 000 |
 
@@ -42,7 +42,7 @@
 
 | 19. | Sífelvonók engedély nélkül végzett létesítése, átalakítása, használatbavétele. | 1 000 000 |
 
-| 20. | Sífelvonó jogellenes üzemeltetése. | 500 000 |
+| 20. | Sífelvonó, függőpálya vagy kötélpálya jogellenes üzemeltetése. | 500 000 |
 
 | II. | Vasúti járművek és gépészeti berendezések vonatkozásában |  |
 
@@ -82,7 +82,7 @@
 
 | 18. | Lejárt vizsgálati határidejű kötelező felszereléssel üzemeltetett vasúti jármű. | 200 000 |
 
-| 19. | Üzemképtelen éberségi, illetőleg vonatbefolyásoló berendezéssel üzemeltetett vasúti jármű. | 2 000 000 |
+| 19. | Üzemképtelen éberségi, vagy vonatbefolyásoló berendezéssel üzemeltetett vasúti jármű. | 2 000 000 |
 
 | 20. | Vonatbefolyásolásra kiépített vonalszakaszon vonatbefolyásoló berendezés nélkül közlekedtetett vasúti vontatójármű. | 2 000 000 |
 
@@ -104,7 +104,7 @@
 
 | 29. | Menetigazolvány, menetlevél nem előírás szerinti kitöltése, vezetése. | Munkavállaló: 50 000 Munkáltató: 100 000 |
 
-| 30. | A járműre, vonatra engedélyezett sebesség-túllépés: a) 10–50%-kal: b) 51–100% közötti értékkel: c) 100% fölötti értékkel: | Munkavállaló: 50 000 100 000 200 000 |
+| 30. | A vasúti járműre, a vonatra, a vasúti pályára előírt sebesség túllépése a járműbe épített sebességmérő-eszköz (sebességregisztrátum) adatainak figyelmen kívül hagyásával: a) 10–50%-kal: b) 51–100% közötti értékkel: c) 100% fölötti értékkel: kivéve, ha 50 km/h sebesség alatt történő közlekedés esetén a járműbe épített sebességmérő (sebességregisztrátum) adatai alapján legfeljebb 5 km/h sebességeltérés történik. | Munkavállaló: 50 000 100 000 200 000 |
 
 | 31. | A vasúti közlekedésről szóló törvényben megállapított munkaidő, vezetési idő túllépése a) napi munkaidő, vezetési idő esetében b) heti munkaidő keret, időszakonkénti vezetési idő keret esetében c) munkaviszonyon kívüli, egyéb jogviszonyban töltött vezetési idő közlésének elmulasztása. | Munkavállaló: 50 000 Munkáltató: 300 000 Munkavállaló: 50 000 |
 
@@ -114,7 +114,7 @@
 
 | 34. | Rakodási szabályok előírásainak be nem tartása a rakszelvény túllépésével, illetve a harmadik fél veszélyeztetésével (kivéve rendkívüli küldemény feladására vonatkozó engedélyben foglaltak). | 1 000 000 |
 
-| 35. | Útvonalkönyvvel kapcsolatos előírások be nem tartása. | Munkavállaló: 500 000 Munkáltató: Vállalkozó vasúti társaság: 500 000 Pályavasúti társaság: 2 000 000 |
+| 35. | Útvonalkönyvvel kapcsolatos előírások be nem tartása. | Munkavállaló: 50 000 Munkáltató: Vállalkozó vasúti társaság: 500 000 Pályavasúti társaság: 2 000 000 |
 
 | III. | Vasútbiztonsági tanúsítvány és engedély vonatkozásában |  |
 
