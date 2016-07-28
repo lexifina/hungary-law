@@ -4,7 +4,7 @@
 
 (2) E § alkalmazásában eredeti műalkotás a képzőművészeti alkotás (pl. kép, kollázs, festmény, rajz, metszet, nyomat, litográfia, szobrászati alkotás), az iparművészeti alkotás (pl. falikárpit, kerámia, üvegtárgy) és a fotóművészeti alkotás, feltéve, hogy azt maga a szerző készítette, vagy olyan másolat, amely eredetinek minősül. Eredetinek minősül a másolat, ha korlátozott számban a szerző maga készítette, vagy az ő irányításával készült. A sorszámmal, a szerző kézjegyével ellátott, vagy más alkalmas módon a szerző által megjelölt műpéldányt ilyen másolatnak kell tekinteni.
 
-(3) E § alkalmazásában műkereskedőnek minősül a műalkotásokat forgalmazó természetes vagy jogi személy, illetve jogi személyiséggel nem rendelkező gazdasági társaság.
+(3) E § alkalmazásában műkereskedőnek minősül a műalkotásokat forgalmazó természetes vagy jogi személy.
 
 (4) A szerzői díj mértéke a műalkotás – adót és más köztartozást nem tartalmazó – pénzben kifejezett vagy kifejezhető ellenértékének (a továbbiakban: vételárának)
 

@@ -26,7 +26,7 @@ b) az a) pontban említett személynek a polgári perrendtartásról szóló tö
 
 (12) Ha a bírósági eljárásban ellenérdekű fél is részt vett, az eljárási költségek előlegezésére, illetve viselésére a perköltségre vonatkozó rendelkezéseket kell megfelelően alkalmazni. Ellenérdekű fél hiányában a költségeket a kérelmező előlegezi, illetve viseli.
 
-(13) Ha a Hivatal a (2) bekezdés vagy a 92/D. § (3) bekezdése szerinti írásbeli nyilatkozatot tett, az eljáró tanács elnöke e nyilatkozatot írásban közli a féllel, illetve a felekkel.
+(13) Ha a Hivatal a (2) bekezdés szerinti írásbeli nyilatkozatot tett, az eljáró tanács elnöke e nyilatkozatot írásban közli a féllel, illetve a felekkel.
 
 (14) Ha az ügy az iratok alapján elbírálható, a bíróság tárgyaláson kívül is hozhat határozatot, azonban a felet – kérésére – meg kell hallgatnia.
 

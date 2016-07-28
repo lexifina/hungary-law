@@ -16,7 +16,7 @@ b) a nyilvánosság számára hozzáférhetővé tegyék az adatbázis példány
 
 (5) Az adatbázis előállítóját akkor illetik meg az (1)–(3) bekezdésben szabályozott jogok, ha az adatbázis tartalmának megszerzése, ellenőrzése vagy megjelenítése jelentős ráfordítást igényelt.
 
-(6) Az (1)–(3) bekezdésben szabályozott jogok az adatbázis előállítójaként azt a természetes személyt, jogi személyt vagy jogi személyiséggel nem rendelkező gazdasági társaságot illetik meg, aki vagy amely saját nevében és kockázatára kezdeményezte az adatbázis előállítását, gondoskodva az ehhez szükséges ráfordításokról.
+(6) Az (1)–(3) bekezdésben szabályozott jogok az adatbázis előállítójaként azt a természetes személyt vagy jogi személyt illetik meg, aki vagy amely saját nevében és kockázatára kezdeményezte az adatbázis előállítását, gondoskodva az ehhez szükséges ráfordításokról.
 
 (7) Az adatbázis előállítóját az (1)–(3) bekezdésben szabályozott jogok attól függetlenül illetik meg, hogy az adatbázis szerzői jogi vagy bármilyen más jogi védelemben részesül-e. E jogok az adatbázis előállítóját megilletik akkor is, ha az adatbázis részei, tartalmi elemei nem részesülnek, illetve nem részesülhetnek szerzői jogi – vagy bármilyen más jogi – védelemben.
 
@@ -26,6 +26,6 @@ b) a nyilvánosság számára hozzáférhetővé tegyék az adatbázis példány
 
 a) az Európai Gazdasági Térség valamely tagállamának állampolgára vagy szokásos tartózkodási helye az Európai Gazdasági Térség területén van;
 
-b) olyan jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, amelyet az Európai Gazdasági Térség valamelyik tagállamának jogszabályaival összhangban vettek nyilvántartásba, és a létesítő okiratban megjelölt székhelye, a központi ügyvezetésének helye vagy az üzleti tevékenységének fő helye az Európai Gazdasági Térség területén van.
+b) olyan jogi személy, amelyet az Európai Gazdasági Térség valamelyik tagállamának jogszabályaival összhangban vettek nyilvántartásba, és a létesítő okiratban megjelölt székhelye, a központi ügyvezetésének helye vagy az üzleti tevékenységének fő helye az Európai Gazdasági Térség területén van.
 
-(10) A (9) bekezdés b) pontjában szabályozott esetben az e törvényben meghatározott védelem akkor illeti meg azt a jogi személyt vagy jogi személyiséggel nem rendelkező gazdasági társaságot, amelynek csak a létesítő okiratban megjelölt székhelye van az Európai Gazdasági Térség területén, ha működése ténylegesen és folyamatosan kapcsolódik valamelyik tagállam gazdaságához.
+(10) A (9) bekezdés b) pontjában szabályozott esetben az e törvényben meghatározott védelem akkor illeti meg azt a jogi személyt, amelynek csak a létesítő okiratban megjelölt székhelye van az Európai Gazdasági Térség területén, ha működése ténylegesen és folyamatosan kapcsolódik valamelyik tagállam gazdaságához.

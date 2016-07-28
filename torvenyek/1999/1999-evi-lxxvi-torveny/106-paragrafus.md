@@ -6,7 +6,7 @@
 
 106. § (1) Ahol e törvény szerzőt említ, azon megfelelően érteni kell a szerző jogutódját, illetve a szerzői jog más jogosultját is.
 
-(2) Ha az elhunyt személy hagyatékához szerzői jog tartozik, a közjegyző a hagyatéki eljárás megindításáról értesíti az elhunyt személy műveivel kapcsolatban érintett közös jogkezelő szervezetet. Ha nem állapítható meg, hogy melyik az érintett közös jogkezelő szervezet, vagy a művek nem tartoznak a közös jogkezelés körébe, az értesítést az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezetnek kell küldeni.
+(2) Ha az elhunyt személy hagyatékához szerzői jog tartozik, a közjegyző a hagyatéki eljárás megindításáról értesíti az elhunyt személy műveivel kapcsolatban érintett közös jogkezelő szervezetet. Ha nem állapítható meg, hogy melyik az érintett közös jogkezelő szervezet vagy a művek nem tartoznak a közös jogkezelés körébe, az értesítést az Szjt. 20. § (1) bekezdése szerinti vagyoni jog vonatkozásában az irodalmi és a zenei művekkel kapcsolatos szerzői jogok közös kezelését végző szervezetnek kell küldeni.
 
 (3) A hagyatékhoz tartozó szerzői jog örökösnek történő átadásáról a közjegyző kivonatos hagyatékátadó végzés, a bíróság pedig kivonatos jogerős ítélet egy példányának megküldésével – a (2) bekezdés megfelelő alkalmazásával – értesíti az érintett közös jogkezelő szervezetet.
 

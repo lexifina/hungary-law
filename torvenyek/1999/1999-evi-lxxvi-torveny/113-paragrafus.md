@@ -20,4 +20,6 @@ h) az Európai Parlament és a Tanács 2006/116/EK irányelve (2006. december 12
 
 i) a Bizottság 2006/585/EK ajánlása (2006. augusztus 24.) a kulturális anyagok digitalizálásáról és online hozzáférhetővé tételéről, valamint a digitális megőrzésről 6. (a) és (c) alpontja.
 
-j) az Európai Parlament és a Tanács 2012/28/EU irányelve (2012. október 25.) az árva művek egyes megengedett felhasználási módjairól.
+j) az Európai Parlament és a Tanács 2012/28/EU irányelve (2012. október 25.) az árva művek egyes megengedett felhasználási módjairól;
+
+k) a szerzői és szomszédos jogokra vonatkozó közös jogkezelésről és a zeneművek belső piacon történő online felhasználásának több területre kiterjedő hatályú engedélyezéséről szóló (2014. február 26.) 2014/26/EU európai parlamenti és tanácsi irányelv.

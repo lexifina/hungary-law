@@ -1,4 +1,4 @@
-104. § (1) Az egyeztető testület eljárásának célja, hogy a felek közötti megállapodás létrehozását elősegítse. A közös jogkezeléssel kapcsolatos vitában kezdeményezett egyeztető testületi eljárásról a testület haladéktalanul tájékoztatja az igazságügyért felelős minisztert, a kultúráért felelős minisztert és a Hivatalt.
+104. § (1) Az egyeztető testület eljárásának célja, hogy a felek közötti, a díjazásról és a felhasználás egyéb feltételeiről szóló megállapodás vagy a közös jogkezeléssel összefüggésben felmerült egyéb jogvitát lezáró egyezség létrehozását elősegítse. A reprezentatív közös jogkezelő szervezet által megállapított díjszabással kapcsolatos vitában kezdeményezett egyeztető testületi eljárásról a testület haladéktalanul tájékoztatja az igazságügyért felelős minisztert, a kultúráért felelős minisztert és a Hivatalt.
 
 (2) Ha a felek között nem jön létre megállapodás, az egyeztető testület javaslatot készít a megállapodás tartalmára, amelyet a felekkel írásban közöl.
 

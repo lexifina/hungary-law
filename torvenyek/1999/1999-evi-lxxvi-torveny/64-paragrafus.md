@@ -8,4 +8,4 @@
 
 (2) A filmalkotás szerzői a film céljára készült irodalmi és zeneművek szerzői, a film rendezője és mindazok, akik a film egészének kialakításához szintén alkotó módon járultak hozzá. E rendelkezés nem érinti a filmben felhasznált egyéb művek szerzőinek e törvényben biztosított jogait.
 
-(3) A film előállítója (a továbbiakban: előállító) az a természetes személy, jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság, aki vagy amely saját nevében kezdeményezi és megszervezi a film megvalósítását, gondoskodva ennek anyagi és egyéb feltételeiről.
+(3) A film előállítója (a továbbiakban: előállító) az a természetes személy vagy jogi személy, aki vagy amely saját nevében kezdeményezi és megszervezi a film megvalósítását, gondoskodva ennek anyagi és egyéb feltételeiről.

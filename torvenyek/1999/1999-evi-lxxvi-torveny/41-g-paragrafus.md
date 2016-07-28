@@ -8,6 +8,6 @@ c) az árva mű jogállásában bekövetkezett változást [41/A. § (8) bekezd�
 
 d) a vele való kapcsolatfelvételt lehetővé tevő adatokat.
 
-(2) A Hivatal az (1) bekezdés szerinti adatokat haladéktalanul továbbítja a Belső Piaci Harmonizációs Hivatalnak az általa vezetett nyilvánosan hozzáférhető egységes online nyilvántartásban történő rögzítés céljából.
+(2) A Hivatal az (1) bekezdés szerinti adatokat haladéktalanul továbbítja az Európai Unió Szellemi Tulajdoni Hivatalának az általa vezetett nyilvánosan hozzáférhető egységes online nyilvántartásban történő rögzítés céljából.
 
 (3) A (2) bekezdésben meghatározott nyilvántartásban történő rögzítés a felhasználás megkezdésének feltétele.

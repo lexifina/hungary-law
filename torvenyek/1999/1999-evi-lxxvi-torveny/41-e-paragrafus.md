@@ -1,6 +1,6 @@
 41/E. § (1) Az árva mű felhasználására vonatkozó engedély megadására és a felhasználási engedély visszavonására irányuló kérelmet – a Hivatal által erre a célra rendszeresített elektronikus űrlap használatával – elektronikus úton is be lehet nyújtani.
 
-(2) Az (1) bekezdésben meghatározott, elektronikus úton benyújtott kérelem megérkezéséről a Hivatal – az árva mű felhasználásának részletes szabályairól szóló kormányrendeletben meghatározott módon – elektronikus érkeztető számot tartalmazó automatikus értesítést küld a kérelmezőnek.
+(2) Az (1) bekezdésben meghatározott, elektronikus úton benyújtott kérelem megérkezéséről a Hivatal elektronikus érkeztető számot tartalmazó automatikus értesítést küld a kérelmezőnek.
 
 (3) A Hivatal az (1) bekezdésben meghatározott, elektronikus úton benyújtott kérelem megérkezését követően haladéktalanul megvizsgálja, hogy az megfelel-e az elektronikus úton történő kapcsolattartásra vonatkozó jogszabályi követelményeknek.
 
