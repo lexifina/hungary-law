@@ -2,6 +2,6 @@
 
 a) a vagyoni biztosíték rendelkezésre állásának 8. § szerinti igazolását, valamint
 
-b)[^17] a vasúti társaság által végzett valamennyi vasúti közlekedési tevékenységre vonatkozó, a 2–5. melléklet szerinti adattartalmú, a vasúti igazgatási szerv által rendszeresített kockázatfelmérési adatlap megfelelően kitöltött példányát.
+b)[^24] a vasúti társaság által végzett valamennyi vasúti közlekedési tevékenységre vonatkozó, a 2–5. melléklet szerinti adattartalmú, a vasúti igazgatási szerv által rendszeresített kockázatértékelési adatlap megfelelően kitöltött példányát.
 
-[^17]: A 9. § b) pontja a 182/2009. (IX. 10.) Korm. rendelet 571. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^24]: A 9. § b) pontja a 182/2009. (IX. 10.) Korm. rendelet 571. §-a, a 193/2016. (VII. 13.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.

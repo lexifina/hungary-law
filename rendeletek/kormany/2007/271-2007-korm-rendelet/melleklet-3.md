@@ -1,36 +1,33 @@
-3. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^26]
+3. melléklet a 271/2007. (X. 19.) Korm. rendelethez[^31]
 
 ## Kockázatértékelési adatlap
 
-Országos, elővárosi, térségi és saját célú árutovábbítási engedélyhez
+Országos, elővárosi, térségi, helyi és városi árutovábbítási engedélyhez, valamint a kizárólag az iparvágányon, saját célú pályahálózaton végzett áruszállításhoz vagy kisvasúton és múzeumvasúton végzett áruszállításhoz, illetve árufuvarozáshoz
 
-A.[^27] Árutovábbítás tevékenység minőségben harmadik személyeknek okozott vasúti baleseti károk és személyi károk
+A. Árutovábbítási tevékenység minőségben harmadik személyeknek okozott vasúti baleseti károk és személyi károk
 
-1. Árutovábbítás tevékenység minőségben harmadik személyeknek okozott vasúti baleseti károk és személyi károk évenként
+1. Árutovábbítási tevékenység minőségben harmadik személyeknek okozott vasúti baleseti károk és személyi károk évenként.
 
-Az adatokat az engedély iránti kérelem benyújtását megelőző három év tekintetében kell megadni személysérülés és dologi kárra történő bontásban, valamint összesítve is. Az adatokat ezer forintban kell megadni.
+Az adatokat az engedély iránti kérelem benyújtását vagy a bejelentés megtételét megelőző három év tekintetében kell megadni személysérülés és dologi kárra történő bontásban, valamint összesítve is. Az adatokat ezer forintban kell megadni.
 
-A személysérülés, a dologi kár, valamint ezek összege tekintetében meg kell adni továbbá a vasúti társaság általános felelősségét (beleértve a környezetszennyezési felelősségi károkat és személyi károkat is) külön-külön mind a három év tekintetében, illetve a három év összesítésében. Az előbbiekből az alvállalkozó által okozott károkat és személyi károkat külön is be kell mutatni ugyanilyen bontásban. Az adatokat ezer forintban kell megadni.
+A személysérülés, a dologi kár, valamint ezek összege tekintetében meg kell adni továbbá a vasúti társaság általános felelősségét érintő károk mértékét (beleértve a környezetszennyezési felelősségi károkat és személyi károkat is) külön-külön mind a három év tekintetében, illetve a három év összesítésében. Az előbbiekből az alvállalkozó által okozott károkat és személyi károkat külön is be kell mutatni ugyanilyen bontásban. Az adatokat ezer forintban kell megadni.
 
-2. Árutovábbítás tevékenység minőségben harmadik személyeknek vasúti balesetben okozott átlagos és legnagyobb kár, valamint személyi kár értékei az elmúlt három évben
+2. Árutovábbítási tevékenység minőségben harmadik személyeknek vasúti balesetben okozott átlagos és legnagyobb kár, valamint személyi kár értékei az elmúlt három évben.
 
-Az adatokat az engedély iránti kérelem benyújtását megelőző három év tekintetében kell megadni vonatok száma (db), vonatkilométer (ezer vkm), harmadik személynek okozott kár és személyi kár (db), összes árutonna km (ezer átkm), harmadik személynek okozott átlag kár és személyi kár (Ft), harmadik személynek okozott legnagyobb kár és személyi kár (Ft), harmadik személynek kifizetett éves összes kár és személyi kár (Ft) bontásban.
+Az adatokat az engedély iránti kérelem benyújtását vagy a bejelentés megtételét megelőző három év tekintetében kell megadni vonatok száma (db), vonatkilométer (ezer vkm), harmadik személynek okozott kár és személyi kár (db), összes árutonna-km (ezer átkm), harmadik személynek okozott átlag kár és személyi kár (forint), harmadik személynek okozott legnagyobb kár és személyi kár (forint), harmadik személynek kifizetett éves összes kár és személyi kár (forint) bontásban.
 
-B.[^28] Árutovábbítási tevékenység adatai az aktuális és a következő évre vonatkoztatva
+B. Árutovábbítási tevékenység adatai a tárgyévre és a következő évre vonatkoztatva
 
-Az adatokat az aktuális és a következő év tekintetében kell megadni a várható vonatok száma (db), a várható vonat kilométer (ezer vkm), a várható összes árutonna km (ezer átkm), a várható harmadik személynek okozható kár és személyi kár (db), a harmadik személyeknek várható összes éves kifizetés (fő), valamint a harmadik személyeknek okozott várható átlagos kár és személyes kár (Ft) bontásban.
+Az adatokat a tárgyév és a következő év tekintetében kell megadni a várható vonatok száma (db), a várható vonatkilométer (ezer vkm), a várható összes árutonnakm (ezer átkm), a várható harmadik személynek okozható kár és személyi kár (db), a harmadik személyeknek várható összes éves kifizetés (forint), valamint a harmadik személyeknek okozott várható átlagos kár és személyes kár (forint) bontásban.
 
-Az aktuális évi és a következő évi szállítandó áru veszélyesség szerinti megoszlása árutonna-kilométer alapján
+A tárgyévi és a következő évi szállítandó áru veszélyesség szerinti megoszlása árutonna-kilométer alapján
 
-Az adatokat az aktuális és a következő év tekintetében veszélyes, illetve nem veszélyes áru bontásban, valamint összesítve kell megadni. Az adatokat árutonna-kilométerben és %-os formában is meg kell adni, úgy, hogy a veszélyes és nem veszélyes áru összegeként kapott összes szállítandó áru 100%-ot tegyen ki.
+Az adatokat a tárgyév és a következő év tekintetében veszélyes, illetve nem veszélyes áru bontásban, valamint összesítve kell megadni. Az adatokat árutonna-kilométerben és %-os formában is meg kell adni, úgy, hogy a veszélyes és nem veszélyes áru összegeként kapott összes szállítandó áru 100%-ot tegyen ki.
 
-C.[^29] Lehetséges legnagyobb kár és személyi kár becslése
+C. Lehetséges legnagyobb kár és személyi kár becslése
 
 Harmadik személyeknek okozott vasúti baleseti katasztrófa (tömegbaleset) következtében egy káresetből várható legnagyobb kár és személyi kár.
 
 Az adatokat személysérülés és dologi kárra történő bontásban, valamint összesítve kell megadni. Az adatokat forintban kell megadni.
 
-[^26]: A 3. melléklet a 182/2009. (IX. 10.) Korm. rendelet 570. §-ával megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^27]: A 3. melléklet A. alcíme az 53/2014. (III. 3.) Korm. rendelet 14. § (6) bekezdésével megállapított szöveg.
-[^28]: A 3. melléklet B. alcíme az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés l) pontja szerint módosított szöveg.
-[^29]: A 3. melléklet C. alcíme az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés m) pontja szerint módosított szöveg.
+[^31]: A 3. melléklet a 193/2016. (VII. 13.) Korm. rendelet 8. §-ával megállapított szöveg.

@@ -1,8 +1,8 @@
-## 1. §[^1] E rendelet meghatározza Magyarország területén vasúti közlekedési tevékenységet végző, továbbá a Magyarországon bejegyzett vasúti társaság (a továbbiakban: vasúti társaság) által a felelősségi körébe tartozó baleseti károk megtérítésére és sérelemdíj megfizetésére való alkalmasságával kapcsolatosan teljesítendő követelményeket, és a teljesítés igazolásának módját.
+## 1. §[^1] E rendelet meghatározza Magyarország területén vasúti közlekedési tevékenységet végző, továbbá a Magyarországon bejegyzett vagy – bejelentés esetén – nyilvántartásba vett vasúti társaság (a továbbiakban: vasúti társaság) által a felelősségi körébe tartozó baleseti károk megtérítésére és sérelemdíj megfizetésére való alkalmasságával kapcsolatosan teljesítendő követelményeket, és a teljesítés igazolásának módját.
 
 ## 2. § E rendelet alkalmazásában
 
-a) fedezeti összeghatár: a vagyoni biztosíték [5. § (1) bek.] értékének kötelező legkisebb mértéke, amivel a vasúti társaságnak rendelkeznie kell;
+a)[^2] fedezeti összeghatár: a vagyoni biztosíték [5. § (1) bek.] értékének legkisebb mértéke, amivel a vasúti társaságnak rendelkeznie kell;
 
 b) férőhely-kilométer: az egyes vasúti járművek (szerelvények) hatósági férőhelyének és hasznos kilométerének szorzata, több vasúti jármű közlekedtetése esetén az előzőek szerint járművenként számított értékek összege;
 
@@ -12,4 +12,5 @@ d) vasúti baleset: a vasúti közlekedés során bekövetkező – a vasutat, m
 
 e) veszélyes áru: a Nemzetközi Vasúti Fuvarozási Egyezmény (COTIF), B Függelék I. Mellékletét képező, a Veszélyes Áruk Nemzetközi Vasúti Fuvarozásáról szóló Szabályzat (RID) által ilyenként meghatározott áru.
 
-[^1]: Az 1. § a 304/2011. (XII. 23.) Korm. rendelet 30. §-a, az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés a) pontja szerint módosított szöveg.
+[^1]: Az 1. § a 304/2011. (XII. 23.) Korm. rendelet 30. §-a, az 53/2014. (III. 3.) Korm. rendelet 14. § (9) bekezdés a) pontja, a 193/2016. (VII. 13.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § a) pontja a 193/2016. (VII. 13.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
