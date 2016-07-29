@@ -14,6 +14,8 @@
 
 | 1.6. | Az atomenergiáról szóló törvény szerinti Időszakos Biztonsági Jelentés. | Annak elbírálása, hogy az Időszakos Biztonsági Jelentésnek a nukleáris létesítmény által a környezetben keltett hatásoknak vizsgálata vonatkozásában a hosszú távú környezeti tendenciák bemutatását, továbbá a környezeti sugárzás ellenőrző rendszer és program megfelelőségét, valamint a környezetnek a létesítmény üzemeltetéséből adódó sugárterhelését, a környezet-ellenőrző rendszer mért adatainak elemzését, az eredmények értékelését, a környezeti sugárzás-ellenőrző rendszer és a környezet-ellenőrzési program megfelelőségének értékelését tartalmazó részek megfelelnek-e a külön jogszabályban meghatározott vízvédelmi követelményeknek. | Időszakos Biztonsági Jelentés felülvizsgálata és a feltárt eltérések jóváhagyása | Környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal |
 
+| 1.7. | Nukleáris létesítmény esetében. | A környezeti zaj és rezgés elleni védelem követelményeinek történő megfelelés a környezeti zaj és rezgés elleni védelem egyes szabályairól szóló kormányrendeletben meghatározottak szerint. | a) létesítési engedély, b) tervezett üzemidőn túli üzemeltetéshez engedély, c) végleges leállítási engedély, d) üzembe helyezési engedély, e) üzemeltetési engedély, f) leszerelési engedély | Környezetvédelmi és természetvédelmi hatáskörében eljáró Baranya Megyei Kormányhivatal |
+
 | 2.1. |  |  |  |  |
 
 | 2.2. |  |  |  |  |
