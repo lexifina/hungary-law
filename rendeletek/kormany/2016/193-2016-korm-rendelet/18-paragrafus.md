@@ -1,5 +1,0 @@
-## 17. § Az R3. 26. §-a a következő (2) bekezdéssel egészül ki:
-
-## „(2) Azok a személyszállítási működési engedéllyel rendelkező vállalkozó vasúti társaságok, amelyek az egyes vasúti tárgyú kormányrendeletek módosításáról szóló 193/2016. (VII. 13.) Korm. rendelet (a továbbiakban: Módr.) hatálybalépésekor már rendelkeznek a vasúti igazgatási szerv által jóváhagyott üzletszabályzattal, e rendeletnek a Módr. által megállapított 16/A. §-ának megfelelő üzletszabályzatukat vagy annak módosítását legkésőbb a Módr. hatálybalépésétől számított 60. napig kötelesek a vasúti igazgatási szervhez jóváhagyásra benyújtani. Ha az új üzletszabályzat csak az e bekezdésben meghatározott módosításokat tartalmazza a korábbi üzletszabályzathoz képest vagy az üzletszabályzat módosítása csak az e bekezdés szerinti módosításokat tartalmazza, a vasúti igazgatási szerv eljárása díjmentes.”
-
-## 4. A vasúti társaságok nem vasúti balesetből eredő károk fedezésére szolgáló kötelező kárfedezeti képességének biztosításáról szóló 6/2010. (I. 21.) Korm. rendelet módosítása
