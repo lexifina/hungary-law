@@ -1,0 +1,191 @@
+# A Kormány 232/2016. (VII. 29.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 113. szám, 2016. július 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/e84dba5f48d86fe2c51bea4912e7189725343401/dokumentumok/3604b51d82e996df275a39f1b5a2b8e57c80ff52/letoltes)
+
+---
+
+A Kormány 232/2016. (VII. 29.) Korm. rendelete
+a hatékony vízárpolitika kialakítása érdekében egyes vízgazdálkodási tárgyú kormányrendeletek
+módosításáról
+A Kormány a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés b) pontjában,
+a 2. alcím tekintetében a vízgazdálkodásról szóló 1995. évi LVII. törvény 45. § (7) bekezdés z) pontjában kapott felhatalmazás
+alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A vizek és a közcélú vízilétesítmények fenntartására vonatkozó feladatokról szóló
+120/1999. (VIII. 6.) Korm. rendelet módosítása
+1. §
+A vizek és a közcélú vízilétesítmények fenntartására vonatkozó feladatokról szóló 120/1999. (VIII. 6.) Korm. rendelet
+(a továbbiakban: R1.) 1. §-a helyébe a következő rendelkezés lép:
+„1. § A rendelet hatálya – a víziközművek kivételével – a vízgazdálkodásról szóló 1995. évi LVII. törvény
+(a továbbiakban: Vgtv.) hatálya alá tartozó vizek és vízilétesítmények körében az állami, önkormányzati tulajdonban
+álló vagy a vízügyi hatóság kijelölő döntése alapján állami üzemeltetésben és fenntartásban lévő, valamint
+a magántulajdonban lévő, de a vízügyi igazgatóság által fenntartott felszíni vizekre – vízfolyásokra, természetes
+tavakra, ezek medrére és partjára –, vízkárelhárítási vízilétesítményekre, vízkészletek átcsoportosítását szolgáló
+vízelosztó, többes rendeltetésű és a mezőgazdasági vízszolgáltató rendszerek vízilétesítményeire terjed ki.”
+2. §
+Az R1. 9. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Az állam tulajdonában álló vizek medrében és azok csatlakozó szárazulatain nádaratás, nádégetés és nádirtás
+csak a vízügyi igazgatási szerv vagyonkezelői hozzájárulásával végezhető.”
+3. §
+Az R1. melléklete az 1. melléklet szerint módosul.
+4. §
+Az R1. 3. § (3) bekezdésében a „közcélú vízkárelhárítási vízilétesítmények” szövegrész helyébe az „1. § szerinti
+vízilétesítmények”szöveg lép.
+2. A mezőgazdasági vízszolgáltatás díjképzési rendjéről szóló 115/2014. (IV. 3.) Korm. rendelet
+módosítása
+5. §
+A mezőgazdasági vízszolgáltatás díjképzési rendjéről szóló 115/2014. (IV. 3.) Korm. rendelet (a továbbiakban: R2.)
+2. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A mezőgazdasági vízszolgáltató a költségkalkulációt az elkészítését követő 8 napon belül megküldi
+a mezőgazdasági vízhasználók, valamint a területi vízügyi igazgatási szerv részére. Ha a területi vízügyi igazgatási
+szerv végzi a mezőgazdasági vízszolgáltatást, az Országos Vízügyi Főigazgatóságnak küldi meg a költségkalkulációt.
+Vízszolgáltatási szerződés csak a területi vízügyi igazgatási szerv vagy – ha a területi vízügyi igazgatási szerv
+a vízszolgáltató – az Országos Vízügyi Főigazgatóság által előzetesen jóváhagyott költségkalkuláció alkalmazásával
+köthető.”
+6. §
+Az R2. 4. §-a helyébe a következő rendelkezés lép:
+„4. § (1) A vízszolgáltatással érintett, vízjogi engedélyben szereplő területre vonatkozóan jelentkező
+a) állandó költségeket a rendelkezésre állást biztosító alapdíj (a továbbiakban: alapdíj),
+b) a változó költségeket a felhasznált vízmennyiséggel arányos díj (a továbbiakban: változó díj)
+tartalmazza.
+(2) Az alapdíjban és a változó díjban figyelembe vehető költségelemeket az 1. melléklet 1. táblázata tartalmazza.”
+7. §
+Az R2. a következő 4/A. §-sal egészül ki:
+„4/A. § (1) A vízszolgáltatási fürtre vonatkozó alapdíjtételt a vízszolgáltatási fürtre egy mezőgazdasági
+vízszolgáltatási idényre eső összes állandó költség és az adott mezőgazdasági fürtre vonatkozó vízjogi engedélyben
+lekötött vízmennyiség hányadosaként kell megállapítani.
+
+(2) A vízszolgáltatási fürtre vonatkozó változó díjtételt a vízszolgáltatási fürtre egy mezőgazdasági vízszolgáltatási
+idényre eső összes változó költség és az adott mezőgazdasági fürtre vonatkozó vízjogi engedélyben lekötött
+vízmennyiség hányadosaként kell megállapítani.
+(3) A vízszolgáltatási fürtben egy mezőgazdasági vízhasználó által a vízhasználatért fizetendő alapdíjat
+az (1) bekezdés szerinti alapdíjtétel és a vízhasználó adott vízhasználatra kiadott vízjogi engedélyében
+meghatározott vízmennyiség szorzata adja.
+(4) A vízszolgáltatási fürtben egy mezőgazdasági vízhasználó által a vízhasználatért fizetendő változó díjat
+a (2) bekezdés szerinti változó díjtétel és a vízhasználó által ténylegesen átvett vízmennyiség – beleértve
+a vízhasználó csatornarendszerének feltöltését szolgáló vizet is – szorzata adja.
+(5) Egy mezőgazdasági vízhasználó által fizetendő vízszolgáltatási díj vízhasználatonként a (3) bekezdés szerint
+számított alapdíj és a (4) bekezdés szerint számított változó díj összege.
+(6) A mezőgazdasági vízszolgáltatási díjat általános forgalmi adó nélkül kell meghatározni.”
+8. §
+Az R2. 5. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az (1) bekezdésben szabályozott ráfordításokat és költségeket
+a) az egy mezőgazdasági vízszolgáltatási idényre eső üzemeltetési költségeknek az előző öt év átlaga és az éves
+infláció figyelembevételével,
+b) a fenntartási és karbantartási költségek esetében az 1. melléklet 2. táblázata alapján, a fenntartási feladatok
+ciklusidejének figyelembevételével
+kell meghatározni.”
+9. §
+Az R2. 6. §-a helyébe a következő rendelkezés lép:
+„6. § (1) A mezőgazdasági vízhasználó a részére továbbított víz teljes mennyiségének megfelelő vízszolgáltatás
+– központi költségvetést terhelő, vízszolgáltatási díj állandó költségének felével csökkentett – díját fizeti meg a vele
+közvetlen kapcsolatban álló mezőgazdasági vízszolgáltatónak.
+(2) A mezőgazdasági vízhasználóval közvetlen kapcsolatban álló mezőgazdasági vízszolgáltató megfizeti az általa
+átvett teljes vízmennyiségnek megfelelő vízszolgáltatás ellenértékének a központi költségvetési támogatással
+csökkentett részét annak a mezőgazdasági vízszolgáltatónak vagy vízügyi igazgatási szervnek, akitől a vizet átvette.
+(3) A vízügyi igazgatási szerv az általa üzemeltetett mezőgazdasági vízszolgáltató művel közvetlen kapcsolatban
+álló mezőgazdasági vízszolgáltatónak, továbbá a vízkivételt és víztovábbítást egyaránt végző mezőgazdasági
+vízszolgáltatónak fizeti meg az általa továbbított teljes vízmennyiségnek megfelelő vízszolgáltatás ellenértékének
+a központi költségvetés által biztosított részét. A további mezőgazdasági vízszolgáltatók részére a vízszolgáltatási
+hálózatban elfoglalt sorrend szerint, a velük közvetlen kapcsolatban álló mezőgazdasági vízszolgáltató fizeti meg
+a vízszolgáltatás ellenértékének a központi költségvetés által biztosított részét.
+(4) A vízügyi igazgatási szerv az öntözési idényt követő év május 31. napjáig elszámol a vele kapcsolatban álló
+mezőgazdasági vízszolgáltatóval vagy mezőgazdasági vízhasználóval.
+(5) A vízszolgáltatás és víztovábbítás tartalmát
+a) a vízügyi igazgatósági szerv és a mezőgazdasági vízszolgáltató közötti üzemeltetési,
+b) az egyes mezőgazdasági vízszolgáltatók egymás közötti szolgáltatási, továbbá
+c) a mezőgazdasági vízszolgáltató és a mezőgazdasági vízhasználó közötti szolgáltatási
+szerződés tartalmazza.”
+10. §
+Az R2. 8. §-a helyébe a következő rendelkezés lép:
+„8. § (1) A mezőgazdasági vízhasználó – a 6. § (1) bekezdésében foglaltaktól eltérően – a vízszolgáltatás díjának
+változó költségeit az alábbiak szerint fizeti meg:
+a) 2017. január 1. napja és 2018. december 31. napja között megfizeti a változó költségek felét, a fennmaradó részt
+a központi költségvetés biztosítja;
+b) 2019. január 1. napjától kezdődően teljes mértékben megfizeti a változó költségeket.
+(2) A mezőgazdasági vízhasználó – a 6. § (1) bekezdésében foglaltaktól eltérően – a vízszolgáltatás díjának állandó
+költségeit az alábbiak szerint fizeti meg:
+a) 2017. január 1. napja és 2017. december 31. napja között megfizeti az állandó költségek 10%-át, a fennmaradó
+részt a központi költségvetés biztosítja;
+b) 2018. január 1. napja és 2018. december 31. napja között megfizeti az állandó költségek 20%-át, a fennmaradó
+részt a központi költségvetés biztosítja;
+
+c) 2019. január 1. napja és 2019. december 31. napja között megfizeti az állandó költségek 30%-át, a fennmaradó
+részt a központi költségvetés biztosítja;
+d) 2020. január 1. napja és 2020. december 31. napja között megfizeti az állandó költségek 40%-át, a fennmaradó
+részt a központi költségvetés biztosítja.
+(3) 2021. január 1. napjától kezdődően a mezőgazdasági vízhasználó – a 6. § (1) bekezdésével összhangban –
+megfizeti az állandó költségek 50%-át, a fennmaradó részt a központi költségvetés biztosítja.”
+11. §
+Az R2. a következő 8/A. §-sal egészül ki:
+„8/A. § A hatékony vízárpolitika kialakítása érdekében egyes vízgazdálkodási tárgyú kormányrendeletek
+módosításáról szóló 232/2016. (VII. 29.) Korm. rendelet (a továbbiakban: Mód. Korm. rendelet) hatálybalépését
+megelőzően megkötött mezőgazdasági vízszolgáltatási szerződéseket felül kell vizsgálni, és azokat e rendeletnek
+a Mód. Korm. rendelettel megállapított 8. §-ával történő megfelelés érdekében 2017. április 15-ig módosítani kell.”
+12. §
+Az R2. 1. melléklete a 2. melléklet szerint módosul.
+3. Záró rendelkezések
+13. §
+Ez a rendelet 2016. október 1-jén lép hatályba.
+14. §
+E rendelet 2. alcíme a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i
+2000/60/EK európai parlamenti és tanácsi irányelv 9. cikkének való megfelelést szolgálja.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 232/2016. (VII. 29.) Korm. rendelethez
+1. Az R1. mellékletének III. fejezete helyébe a következő rendelkezés lép:
+„III. Vízfolyások, csatornák, tározók
+1. A medreknek az engedélyezési terv szerinti rendezett állapota kialakításának keretében:
+1.1. a feliszapolódások eltávolítása,
+1.2. rézsűcsúszás, kagylósodás, mederrongálódások megszüntetése,
+1.3. gaztalanítás, kaszálás a csatorna rendeltetésétől függően évenként legalább egyszer vagy kétszer,
+1.4. a medreket kísérő töltések engedélyezési terv szerinti helyreállítása, tartozékainak karbantartása, cseréje,
+pótlása,
+1.5. műtárgyakkal kapcsolatos munkák az I. fejezet 3. pontja szerint,
+1.6. a mederben, valamint a parti sávban fák, cserjék kivágása,
+1.7. gyepápolás: kaszálás, gyomtalanítás, felülvetés, újravetés,
+1.8. tartozékok karbantartása az I. fejezet 2. pontja szerint,
+1.9. a műtárgyaknál, a különféle keresztezéseknél és a mederből az uszadék eltávolítása,
+1.10. hó- és jégeltávolítás,
+1.11. a parti sávok kialakítása,
+1.12. vízfolyás, csatorna nyomvonal korrekciója, 1 km hosszig,
+1.13. nádkaszálás, vízinövényzet-szabályozás,
+1.14. üzemi vízszint előállítása, fenntartása,
+1.15. kettősműködésű csatornák, illetve öntözőcsatornák belvízelvezetésre történő igénybevételét követően
+a meder átmosásának biztosítása,
+1.16. az állami tulajdonban lévő vízilétesítményeknél – a vízgazdálkodási közfeladatok ellátásához szükséges –
+a vízgazdálkodási feladatokkal összefüggő alapadatokról szóló kormányrendelet szerinti, a vizek, vízilétesítmények
+állapotának feltárását, valamint állapotuk értékelését szolgáló monitoringadatok gyűjtése.”
+
+2. Az R1. mellékletének IV. fejezete a következő 5. ponttal egészül ki:
+„5. Az öntözőrendszerek és felszíni vízelvezető főcsatornák fővízkivételénél, valamint a vízátadó helyeken
+a vízmennyiség mérése a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és
+létesítményekre vonatkozó műszaki szabályokról szóló miniszteri rendelet szerinti módon és a mérési eredmények
+nyilvántartása.”
+2. melléklet a 232/2016. (VII. 29.) Korm. rendelethez
+1. Az R2. 1. mellékletében foglalt 1. táblázat 3.1.1. sora helyébe a következő rendelkezés lép:
+A B C
+Költség összetevők
+Állandó költségelemek
+(alapdíj)
+Változó költségelemek
+(változó díj)
+„
+3.1.1. fenntartás, karbantartás a 2. táblázatban
+meghatározottak szerint
+vízhiány miatt szükséges
+vízpótlásból eredő fenntartási
+költségek
+”
+2. Az R2. 1. mellékletében foglalt 1. táblázat 3.2. sora helyébe a következő rendelkezés lép:
+A B C
+Költség összetevők
+Állandó költségelemek
+(alapdíj)
+Változó költségelemek
+(változó díj)
+„
+3.2. Értékesítési külön költség Rendszerveszteség, ökológiai
+vízpótlás költsége
+–
+”
