@@ -1,8 +1,8 @@
-A Kormány a magyarországi légimentésben használt mentőhelikopterek 2016 márciusában lejáró bérleti szerződésére tekintettel, a hazai légimentés zavartalan biztosítása érdekében
+A Kormány a magyarországi légimentésben használt mentőhelikopterek 2017 márciusában lejáró bérleti szerződésére tekintettel, a hazai légimentés zavartalan biztosítása érdekében[^1]
 
-1.[^1] egyetért 7 darab mentőhelikopter 2 évre és további háromszor 1 évre vételi joggal történő bérlésére irányuló közbeszerzési eljárás megindításával és a nemzeti helikopter képesség kialakításával;
+1.[^2] egyetért 7 darab mentőhelikopter 15 évre – a 10. évtől vételi joggal – és üzemanyag-ellátással együtt történő (wet-lease alapú) bérlésére irányuló közbeszerzési eljárás megindításával, valamint a nemzeti helikopter képesség kialakításával;
 
-2.[^2] felhívja az emberi erőforrások miniszterét, hogy az Országos Mentőszolgálat vagy a Magyar Légimentő Nonprofit Kft. közreműködésével gondoskodjon az 1. pont szerinti közbeszerzési eljárás lefolytatásáról azzal, hogy a közbeszerzési eljárás alapján létrejövő új bérleti szerződés szerinti helikopterek használatbavételéig nemzetbiztonsági érdek miatt biztosítsa a folyamatos, zavartalan légimentést;
+2.[^3] felhívja az emberi erőforrások miniszterét, hogy az Országos Mentőszolgálat, mint ajánlatkérő közreműködésével gondoskodjon az 1. pont szerinti közbeszerzési eljárás lefolytatásáról, azzal, hogy a közbeszerzési eljárás alapján létrejövő új bérleti szerződés szerinti helikopterek használatbavételéig biztosítsa a folyamatos, zavartalan légimentést;
 
 Felelős: emberi erőforrások minisztere
 
@@ -16,5 +16,6 @@ emberi erőforrások minisztere
 
 Határidő: a központi költségvetés tervezése során
 
-[^1]: Az 1. pont az 1030/2016. (II. 9.) Korm. határozat 1. pontjával megállapított szöveg. Alkalmazására lásd e módosító határozat 2. pontját.
-[^2]: A 2. pont az 1030/2016. (II. 9.) Korm. határozat 1. pontjával megállapított szöveg. Alkalmazására lásd e módosító határozat 2. pontját.
+[^1]: A határozat nyitó szövegrésze az 1411/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított szöveg. Alkalmazására lásd e módosító határozat 2. pontját.
+[^2]: Az 1. pont az 1411/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított szöveg. Alkalmazására lásd e módosító határozat 2. pontját.
+[^3]: A 2. pont az 1411/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított szöveg. Alkalmazására lásd e módosító határozat 2. pontját.
