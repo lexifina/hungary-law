@@ -1,4 +1,4 @@
-## 3. § Hatályát veszti az országos törzshálózati, regionális és egyéb vasúti pályák felsorolásáról szóló 168/2010. (V. 11.) Korm. rendelet.
+## 3. §[^1]
 
 1. melléklet a 194/2016. (VII. 13.) Korm. rendelethez
 
@@ -189,3 +189,5 @@
 | 92 | 391 Baja – Baja-külső |
 
 | 93 | 392 Bácsalmás – Csikéria |
+
+[^1]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
