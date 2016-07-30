@@ -2,7 +2,7 @@
 
 2. A kormánybiztos
 
-a) előkészíti és végrehajtja a Miniszterelnökséget vezető miniszter (a továbbiakban: miniszter) 3. pont szerinti tulajdonosi joggyakorlása alá tartozó társaságok és vagyonelemek tekintetében a Kormány vagyongazdálkodási politikáját, a hozzá tartozó gazdasági társaságok, intézmények és egyéb szervezetek létrehozására, átalakítására, valamint megszüntetésére vonatkozó döntéseket, ebben a körben szakmailag előkészíti a szükséges jogszabályokat, jogszabály-módosításokat,
+a)[^1] előkészíti és végrehajtja a nemzeti fejlesztési miniszter (a továbbiakban: miniszter) 3. pont szerinti tulajdonosi joggyakorlása alá tartozó társaságok és vagyonelemek tekintetében a Kormány vagyongazdálkodási politikáját, a hozzá tartozó gazdasági társaságok, intézmények és egyéb szervezetek létrehozására, átalakítására, valamint megszüntetésére vonatkozó döntéseket, ebben a körben szakmailag előkészíti a szükséges jogszabályokat, jogszabály-módosításokat,
 
 b) irányítja és ellenőrzi a miniszter 3. pont szerinti tulajdonosi joggyakorlása alá tartozó társaságok gazdálkodását, üzemeltetési, ingatlanfejlesztési és informatikai feladatait,
 
@@ -34,31 +34,9 @@ j) a miniszter helyett és nevében az Egyetemes Postai Közszolgáltatási Szer
 
 k) a miniszter helyett és nevében az MFB Zrt., a Magyar Posta Zrt., az ENKSZ Zrt. és a KAF Zrt. tevékenységét érintő, kötelezettségvállalást nem tartalmazó nemzetközi megállapodások, nyilatkozatok aláírásával, végrehajtásával kapcsolatos feladatokat.
 
-4. A kormánybiztos a Miniszterelnökség szabályozásért és kodifikációért felelős helyettes államtitkára útján irányítja a Miniszterelnökségen
+4–6.[^2]
 
-a) a Fejlesztési Banki Szabályozási Főosztály,
-
-b) a Postaügyi Szabályozási Főosztály,
-
-c) az Integrációs, Zöldbank és Agrárbank Szabályozási Főosztály, valamint
-
-d) a Közmű-szabályozási Főosztály
-
-vezetőjének a tevékenységét.
-
-5. A kormánybiztos a Miniszterelnökség vagyonpolitikáért és tulajdonosi képviseletért felelős helyettes államtitkára útján irányítja a Miniszterelnökségen
-
-a) a Fejlesztési Banki Főosztály,
-
-b) a Postaügyi Főosztály és
-
-c) a Közmű, Integrációs, Zöldbank és Agrárbank Fejlesztési Főosztály
-
-vezetőjének a tevékenységét.
-
-6. A kormánybiztos közvetlenül irányítja a Miniszterelnökségen a Nemzeti Pénzügyi Szolgáltatásokért és Postaügyekért Felelős Államtitkári Kabinet tevékenységét.
-
-7. A kormánybiztos tevékenységét titkárság segíti.
+7.[^3] A kormánybiztos tevékenységét a Nemzeti Fejlesztési Minisztérium szervezetében működő titkárság segíti.
 
 8. A kormánybiztos tevékenységét a miniszterelnök irányítja.
 
@@ -68,10 +46,15 @@ Határidő: 2016. szeptember 15.
 
 Felelős: a kormánybiztos
 
-10. A Kormány felhívja a minisztert, hogy a kormánybiztos 1–9. pontban foglalt feladatai ellátása érdekében a szükséges információkat bocsássa a kormánybiztos rendelkezésére, valamint – a kormánybiztossal egyeztetve – gondoskodjon a Miniszterelnökség Szervezeti és Működési Szabályzatának szükséges módosításáról a feladatellátás megkönnyítése érdekében.
+10.[^4] A Kormány felhívja a minisztert, hogy a kormánybiztos 1–9. pontban foglalt feladatai ellátása érdekében a szükséges információkat bocsássa a kormánybiztos rendelkezésére, valamint – a kormánybiztossal egyeztetve – gondoskodjon a Nemzeti Fejlesztési Minisztérium Szervezeti és Működési Szabályzatának szükséges módosításáról a feladatellátás megkönnyítése érdekében.
 
 Felelős: a miniszter
 
 Határidő: azonnal
 
 11. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 2. pont a) alpontja az 1423/2016. (VII. 29.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: A 4–6. pontot az 1423/2016. (VII. 29.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^3]: A 7. pont az 1423/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^4]: A 10. pont az 1423/2016. (VII. 29.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
