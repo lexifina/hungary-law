@@ -1,4 +1,4 @@
-3. § (1)[^7] Az edzők és a sportszakemberek részére megállapítható állami jutalmak összege sportáganként a versenyzők részére kifizetett állami jutalmak összegének hatvan százaléka, öttusa és triatlon sportágban hetven százaléka.
+3. § (1)[^9] Az edzők és a sportszakemberek részére megállapítható állami jutalmak összege sportáganként a versenyzők részére kifizetett állami jutalmak összegének hatvan százaléka, öttusa és triatlon sportágban hetven százaléka.
 
 (2) A nevelőedzők részére kifizethető állami jutalmak összege a versenyzők részére kifizetett állami jutalmak összegének tíz százaléka.
 
@@ -6,4 +6,4 @@
 
 (4) Az edző, a nevelőedző, a sportszakember nem részesülhet magasabb összegű állami jutalomban, mint a legeredményesebb versenyzőjének járó összeg.
 
-[^7]: A 3. § (1) bekezdése a 294/2015. (X. 8.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^9]: A 3. § (1) bekezdése a 294/2015. (X. 8.) Korm. rendelet 3. §-ával megállapított szöveg.

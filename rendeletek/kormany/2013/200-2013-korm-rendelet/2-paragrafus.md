@@ -52,14 +52,16 @@ h) a Szervátültetettek Világjátékainak Szövetsége (a továbbiakban: WTGF)
 
 i) a Nemzetközi Speciális Olimpia Szövetség (a továbbiakban: SOI) által szervezett Speciális Olimpia Világjátékai (a továbbiakban: Speciális Olimpia) esetében az 1. mellékletben meghatározott összeg 1 százaléka.
 
-(5) A sport világeseményen több 1–8. helyezést elért versenyző a legjobb három eredménye után részesülhet állami jutalomban.
+(5)[^6] A sport világeseményen több 1–8. helyezést elért versenyző minden 1–8. helyezése után részesülhet állami jutalomban.
 
-(6) A Speciális Olimpia esetében állami jutalom a SOI szabályzata szerinti versenyrendszerben meghatározott egyes képességszinteken belül az eredményesség alapján felállított első divízióban (a továbbiakban: első divízió) elért 1–8. helyezés alapján adható. Ha az első divízióban nincs az 1–8. helyezésre elegendő számú versenyző, az 1–8. helyezések be nem töltött helyeire a képességszinten belüli, eredményesség alapján következő második divízió soron következő legjobb helyezett versenyzői kerülnek.
+(6)[^7] A Speciális Olimpia esetében állami jutalom a SOI szabályzata szerinti versenyrendszerben meghatározott egyes képességszinteken belül az eredményesség alapján felállított első divízióban (a továbbiakban: első divízió) elért 1–8. helyezés alapján adható. Ha az első divízióban nincs az 1–8. helyezések betöltésére elegendő számú versenyző, az 1–8. helyezések be nem töltött helyeire a képességszinten belüli, eredményesség alapján következő második divízió soron következő legjobb helyezett versenyzői kerülnek. Azokban a sportágakban, amelyekben az elért eredmények objektíven nem mérhetők, csak egy, a Magyar Speciális Olimpia Szövetség által meghatározott divízióban 1–8. helyezést elért versenyzők részesülhetnek állami jutalomban.
 
-(7)[^6] A Speciális Olimpia esetében az edzők, nevelőedzők és sportszakemberek részére kifizethető jutalom keretösszege megegyezik a versenyzők részére az elért eredményeik alapján nyújtható állami jutalom összegével, azzal, hogy esetükben a 3. § (1)–(2) bekezdése nem alkalmazható.
+(7)[^8] A Speciális Olimpia esetében az edzők, nevelőedzők és sportszakemberek részére kifizethető jutalom keretösszege megegyezik a versenyzők részére az elért eredményeik alapján nyújtható állami jutalom összegével, azzal, hogy esetükben a 3. § (1)–(2) bekezdése nem alkalmazható.
 
 [^2]: A 2. § (1) bekezdés c) pontja a 294/2015. (X. 8.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^3]: A 2. § (2) bekezdése a 294/2015. (X. 8.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^4]: A 2. § (2a) bekezdését a 294/2015. (X. 8.) Korm. rendelet 2. § (3) bekezdése iktatta be.
 [^5]: A 2. § (4) bekezdése a 294/2015. (X. 8.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
-[^6]: A 2. § (7) bekezdése a 294/2015. (X. 8.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^6]: A 2. § (5) bekezdése a 234/2016. (VII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 2. § (6) bekezdése a 234/2016. (VII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 2. § (7) bekezdése a 294/2015. (X. 8.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.

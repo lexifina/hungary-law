@@ -70,18 +70,6 @@
 
 | III. | 225 000 | 180 000 | 135 000 | 450 000 | 360 000 | 270 000 |
 
-3. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^30]
+3. melléklet a 200/2013. (VI. 13.) Korm. rendelethez[^33]
 
-Állami jutalom és eredményességi támogatás meghatározása sportoló esetén
-
-| A. | B. | C. | D. | E. | F. | G. | H. | I. | J. | K. | L. | M. | N. | O. |
-
-| Sport- esemény neve: | Ideje: | Helyszíne: | Korosztály: | Helye- zés: | Sportoló neve: | Versenyszám: | Egyéni/ páros/ csapat: | Körülmények (olimpiai/ nem olimpiai): | Eseményen résztvevő földrészek száma: | Eseményen résztvevő országok száma: | Verseny- számban induló országok száma: | Verseny- számban induló versenyzők száma: | Hány évente rendezik az eseményt: | Jutalom/ eredményes- ségi támogatás összege: |
-
-Állami jutalom és eredményességi támogatás meghatározása sportszakember esetén
-
-| A. | B. | C. | D. | E. | F. | G. | H. | I. |
-
-| Sportesemény neve: | Ideje: | Helyszíne: | Korosztály: | Helyezés: | Sportszakember neve: | A versenyző neve: | A versenyző sportszakmai felkészítésében végzett feladatköre: | Jutalom/ eredményességi támogatás összege: |
-
-[^30]: A 3. mellékletet a 294/2015. (X. 8.) Korm. rendelet 12. §-a iktatta be.
+[^33]: A 3. mellékletet a 294/2015. (X. 8.) Korm. rendelet 12. §-a iktatta be.
