@@ -1,0 +1,1 @@
+## 13. § Az Nbtv. 37. § (1) bekezdése szerinti panasz benyújtása esetén a lőfegyverhasználat jogszerűségének a vizsgálatát az Nbtv. 37. §-a szerinti panaszeljárás keretei között a 11. § megfelelő alkalmazásával kell lefolytatni.

@@ -1,0 +1,1 @@
+## 14. § A szolgálati lőfegyver elvesztését, eltulajdonítását a hivatásos állomány érintett tagjának a tudomására jutáskor haladéktalanul jelentenie kell szolgálati elöljárójának és a KNBSZ belső biztonsági és bűnmegelőzési feladatokat ellátó szervezeti egységének.
