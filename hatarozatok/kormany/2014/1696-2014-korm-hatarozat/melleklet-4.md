@@ -66,7 +66,7 @@
 
 | Szombathely – Kőszeg korszerűsítés |
 
-4. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz[^5]
+4. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz[^7]
 
 ## Nagyprojekt-lista
 
@@ -107,10 +107,6 @@
 | Útszám | Fejlesztés tartalma |
 
 | 13 | Új komáromi híd, Komárom – Komárno (Révkomárom) között |
-
-| M3 | Vásárosnamény – Beregdaróc, országhatár között (2x1) – előkészítés (2018-ig) |
-
-| M2 | Vác – Hont, Parassapuszta, országhatár között (2x1) – előkészítés (2018-ig) |
 
 2. IKOP 2. prioritási tengely (TEN-T vasúti lista)
 
@@ -204,4 +200,4 @@
 
 | 67 | Kaposvár és az M7 közötti szakasz (érintett települések elkerülését is megvalósító) rekonstrukciója |
 
-[^5]: A 4. melléklet az 1199/2015. (III. 31.) Korm. határozat 1. pont c) alpontja szerint módosított szöveg.
+[^7]: A 4. melléklet az 1199/2015. (III. 31.) Korm. határozat 1. pont c) alpontja, az 1422/2016. (VII. 29.) Korm. határozat 12. pont b) alpontja szerint módosított szöveg.

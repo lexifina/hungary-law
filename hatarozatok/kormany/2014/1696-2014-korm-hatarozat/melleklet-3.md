@@ -136,6 +136,6 @@
 
 | Személyforgalmi kikötők támogatására vonatkozó projektcsomag |
 
-3. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz[^4]
+3. melléklet az 1696/2014. (XI. 26.) Korm. határozathoz[^6]
 
-[^4]: A 3. melléklet az 1199/2015. (III. 31.) Korm. határozat 1. pont b) alpontjával megállapított szöveg.
+[^6]: A 3. melléklet az 1199/2015. (III. 31.) Korm. határozat 1. pont b) alpontjával megállapított szöveg.
