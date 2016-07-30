@@ -8,7 +8,7 @@
 
 ## 4. § A Miniszterelnökséget vezető miniszter (ezen alcím alkalmazásában a továbbiakban: miniszter) a Kormány
 
-1.[^1] – a 19/B. § (2) bekezdés a)–e) pontjában foglalt kivétellel – kormányzati tevékenység összehangolásáért,
+1.[^1] – a 19/B. § (2) bekezdés a)–e) pontjában, valamint a 109/A. §-ban foglalt kivétellel – a kormányzati tevékenység összehangolásáért,
 
 2. közigazgatási minőségpolitikáért és személyzetpolitikáért,
 
@@ -38,7 +38,7 @@
 
 13. polgári hírszerzési tevékenység irányításáért,
 
-13a.[^5] postaügyért,
+13a.[^5]
 
 14. társadalompolitika összehangolásáért,
 
@@ -48,8 +48,8 @@
 
 felelős tagja.
 
-[^1]: A 4. § 1. pontja a 306/2015. (X. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^1]: A 4. § 1. pontja a 236/2016. (VII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 4. § 5a. pontját a 303/2014. (XII. 5.) Korm. rendelet 1. §-a iktatta be.
 [^3]: A 4. § 8. pontját a 381/2014. (XII. 31.) Korm. rendelet 29. §-a hatályon kívül helyezte.
 [^4]: A 4. § 12a. pontját a 221/2014. (IX. 4.) Korm. rendelet 817. §-a iktatta be.
-[^5]: A 4. § 13a. pontját a 167/2014. (VII. 17.) Korm. rendelet 9. §-a iktatta be.
+[^5]: A 4. § 13a. pontját a 167/2014. (VII. 17.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 236/2016. (VII. 29.) Korm. rendelet 8. § a) pontja.

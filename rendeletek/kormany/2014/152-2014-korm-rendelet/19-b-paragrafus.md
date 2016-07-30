@@ -1,5 +1,3 @@
-## 19/A. §[^27] A miniszter a postaügyért való felelőssége keretében előkészíti a postai tevékenységre és a postai szolgáltatások ellátására vonatkozó jogszabályokat.
-
 ## II/A. Fejezet[^28]
 
 ## ÁLTALÁNOS POLITIKAI KOORDINÁCIÓ
@@ -22,5 +20,4 @@ e) a Kossuth-díj, a Széchenyi-díj adományozásának rendjéről, valamint a 
 
 tekintetében a Kormány kormányzati tevékenység összehangolásáért felelős tagja.
 
-[^27]: A 19/A. §-t a 167/2014. (VII. 17.) Korm. rendelet 12. §-a iktatta be.
 [^28]: A II/A. fejezetet (19/B–19/D. §) a 306/2015. (X. 26.) Korm. rendelet 8. §-a iktatta be.

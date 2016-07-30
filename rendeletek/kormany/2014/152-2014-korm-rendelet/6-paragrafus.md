@@ -8,9 +8,9 @@ c) közreműködik a döntések megvalósulásának értékelésében, a végreh
 
 d) összehangolja és biztosítja a Kormány informatikával és e-közigazgatással kapcsolatos politikájának egységes megvalósítását,
 
-e)[^9] felel a fejlesztési banki eszközökkel megvalósuló fejlesztéspolitikáért és előkészíti a Magyar Fejlesztési Bankra vonatkozó jogszabályokat,
+e)[^9]
 
-f)[^10] koordinálja az agrár- és zöldbank koncepció kialakítását és működtetését, a takarékszövetkezeti integráció továbbfejlesztésével kapcsolatos kérdéseket.
+f)[^10]
 
 (2) A miniszter a kormányzati tevékenység összehangolásáért való felelőssége keretében a kormányzati munka tervezése tekintetében
 
@@ -61,8 +61,8 @@ b)[^14] a miniszterelnök részére – feladat- és hatáskörében – soron k
 c)[^15]
 
 [^8]: A 6. § (1) bekezdés nyitó szövegrésze a 306/2015. (X. 26.) Korm. rendelet 13. § a) pontja szerint módosított szöveg.
-[^9]: A 6. § (1) bekezdése e) pontját a 167/2014. (VII. 17.) Korm. rendelet 10. §-a iktatta be.
-[^10]: A 6. § (1) bekezdés f) pontját a 122/2015. (V. 26.) Korm. rendelet 44. § (1) bekezdése iktatta be.
+[^9]: A 6. § (1) bekezdése e) pontját a 167/2014. (VII. 17.) Korm. rendelet 10. §-a iktatta be, hatályon kívül helyezte a 236/2016. (VII. 29.) Korm. rendelet 8. § b) pontja.
+[^10]: A 6. § (1) bekezdés f) pontját a 122/2015. (V. 26.) Korm. rendelet 44. § (1) bekezdése iktatta be, hatályon kívül helyezte a 236/2016. (VII. 29.) Korm. rendelet 8. § b) pontja.
 [^11]: A 6. § (2) bekezdés c) pontja a 306/2015. (X. 26.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^12]: A 6. § (4) bekezdését a 306/2015. (X. 26.) Korm. rendelet 14. §-a hatályon kívül helyezte.
 [^13]: A 6. § (5) bekezdés a) pontját a 306/2015. (X. 26.) Korm. rendelet 14. §-a hatályon kívül helyezte.

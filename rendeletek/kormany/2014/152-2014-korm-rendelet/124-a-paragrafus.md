@@ -1,4 +1,4 @@
-124/A. §[^108] (1) A miniszter a turizmusért való felelőssége keretében előkészíti a turizmusra, az utazásszervező és -közvetítő tevékenységre, az utazási és utazást közvetítői szerződésre, a falusi és agroturizmusra, valamint – a gyógy- és egészségügyi tényezők vonatkozásában az egészségügyért felelős miniszterrel együttműködve – az egészségturizmusra vonatkozó jogszabályokat.
+124/A. §[^110] (1) A miniszter a turizmusért való felelőssége keretében előkészíti a turizmusra, az utazásszervező és -közvetítő tevékenységre, az utazási és utazást közvetítői szerződésre, a falusi és agroturizmusra, valamint – a gyógy- és egészségügyi tényezők vonatkozásában az egészségügyért felelős miniszterrel együttműködve – az egészségturizmusra vonatkozó jogszabályokat.
 
 (2) A miniszter a turizmusért való felelőssége keretében
 
@@ -10,4 +10,4 @@ c) összehangolja az európai uniós tagságból adódó kormányzati turisztika
 
 d) irányítja a belföldi és nemzetközi turisztikai marketingtevékenységet.
 
-[^108]: A 124/A. §-t a 87/2016. (IV. 25.) Korm. rendelet 2. §-a iktatta be.
+[^110]: A 124/A. §-t a 87/2016. (IV. 25.) Korm. rendelet 2. §-a iktatta be.
