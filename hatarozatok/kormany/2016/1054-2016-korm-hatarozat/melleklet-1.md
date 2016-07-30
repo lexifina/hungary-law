@@ -56,7 +56,7 @@
 
 ## a feltételes közbeszerzési eljárások megindítására és Budapest főpolgármesterével folytatott egyeztetések megkezdésére: azonnal
 
-1. melléklet az 1054/2016. (II. 15.) Korm. határozathoz
+1. melléklet az 1054/2016. (II. 15.) Korm. határozathoz[^2]
 
 A 2024. évi XXXIII. Olimpiai Játékok és a XVII. Paralimpiai Játékok budapesti megrendezése szempontjából kulcsfontosságú közlekedési infrastruktúra-fejlesztési beruházások
 
@@ -66,9 +66,9 @@ A 2024. évi XXXIII. Olimpiai Játékok és a XVII. Paralimpiai Játékok budape
 
 | 1. b) | Tervezési előkészítés a 150-es számú vasútvonal korrekciójára – A 150-es vasútvonal Soroksári út menti nyomvonalának áthelyezése a Határ út és a Kvassay Jenő út közötti szakaszon, összhangban Budapest hosszú távú városfejlesztési-, valamint az Olimpiai Pályázat Olimpiai park klaszterre vonatkozó fejlesztési terveivel. | Budapest 2030 hosszú távú városfejlesztési koncepció | MÁV Magyar Államvasutak Zártkörűen Működő Részvénytársaság |
 
-| 2. | Tervezési előkészítés az M1-es autópálya 2x3 sávra bővítésére Győr és Budapest között – Az autópálya 2x3 forgalmi sávra való szélesítésének tervezése az M0 és M19 csomópontok között. | Nemzeti Közlekedési Infrastruktúra- fejlesztési Stratégia | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság |
+| 2. |  |  |  |
 
-| 3. | Tervezési előkészítés az M7-es autópálya 2x3 sávra bővítésére Balatonvilágos és Budapest között – Az autópálya jobb pályájának 3 forgalmi sávra történő szélesítése az M0 autóút és 710 sz. főút (leendő M8-as csomópont) csomópontok között. | Nemzeti Közlekedési Infrastruktúra- fejlesztési Stratégia | NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság |
+| 3. |  |  |  |
 
 | 4. | Tervezési előkészítés a Galvani úti közúti híd és kapcsolódó úthálózat építésére – Új 2x3 sávos közúti Duna híd tervezése a Galvani út Illatos út vonalában. A kapcsolódó úthálózat tervezési határa a Fehérvári út – Üllői út közötti szakaszra terjed ki. | Budapest 2030 hosszú távú városfejlesztési koncepció | Budapest Főváros Önkormányzata / NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság |
 
@@ -77,3 +77,5 @@ A 2024. évi XXXIII. Olimpiai Játékok és a XVII. Paralimpiai Játékok budape
 | 6. | Tervezési előkészítés a H7-es csepeli HÉV fővárosi villamos hálózatba való integrálásához – A csepeli HÉV vonal közúti villamos üzemmódra való áttervezése és bekötése a 2-es villamos vonalába, valamint a nagykörúti villamos vonalhoz való csatlakozás kialakítása a Boráros téren, összhangban az Olimpiai Pályázat Olimpiai park klaszterre vonatkozó fejlesztési terveivel, illetve tekintettel a jövőbeni utazási szokások és az utasszám változásával járó potenciális fejlesztési igényekre. Ezzel párhuzamosan megtervezendő a jelenlegi HÉV vonal elbontása a Boráros tér – Közvágó híd közötti szakaszon. | új fejlesztési javaslat | Budapest Főváros Önkormányzata / NIF Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársaság |
 
 | 7. | Tervezési előkészítés a MillFAV rekonstrukciójához és a járműbeszerzéséhez – A Millenniumi Földalatti vasút rekonstrukciója és akadálymentesítése, új megálló létesítésével az 1-es villamos Kacsóh Pongrác úti megállójánál, valamint a vonal meghosszabbítása a Vigadó térig, átszálló kapcsolatot adva a 2-es villamoshoz, illetve az új gördülőállomány műszaki specifikációjának kidolgozása, igazodva a BKK Zrt. már megkezdett előkészítési projektjéhez. | Balázs Mór Terv | Budapest Főváros Önkormányzata |
+
+[^2]: Az 1. melléklet az 1422/2016. (VII. 29.) Korm. határozat 9. pontja szerint módosított szöveg.

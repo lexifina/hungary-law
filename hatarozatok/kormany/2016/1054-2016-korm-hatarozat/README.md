@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1054-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-02-15 | 2016-1054-30-22.1 | 1054/2016. (II. 15.) Korm. határozat |
+| 2016-07-30 | 2016-1054-30-22.2 | 1389/2023. (IX. 5.) Korm. határozat |
