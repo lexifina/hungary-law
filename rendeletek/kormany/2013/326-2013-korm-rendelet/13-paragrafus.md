@@ -1,22 +1,13 @@
-## 5. [^10] Az átsorolás időpontja
+## 5. [^85] Az átsorolás időpontja, az átsorolást követő kötelezettségek és a visszasorolás
 
-13. § (1)[^11]
-
-(1a)[^12]
-
-(2)[^13]
-
-(3)[^14] A magasabb fokozatba történő besorolásra a sikeres minősítő vizsgát vagy minősítési eljárást követő év első napjával kerül sor. Ezt a szabályt kell alkalmazni és a magasabb fokozatba történő besorolást visszamenőleges hatállyal kell elvégezni abban az esetben is, ha
+13. § (1) A magasabb fokozatba történő besorolásra a sikeres minősítő vizsgát vagy minősítési eljárást követő év első napjával kerül sor. Ezt a rendelkezést kell alkalmazni és a magasabb fokozatba történő besorolást visszamenőleges hatállyal kell elvégezni abban az esetben is, ha
 
 a) a minősítésre a 11/B. § (5) bekezdése alapján a minősítés évét követő évben került sor, vagy
 
-b) a 12/D. § (2) bekezdésében foglalt panasz alapján lefolytatott minősítési eljárás eredményeként a tanúsítvány módosítására került sor.
+b) a 12/D. § (2)–(3b) bekezdésében foglalt panasz alapján lefolytatott eredményes minősítési eljárás eredményeként a tanúsítvány módosítására került sor.
 
-(4)[^15] Ha a pedagógus a munkaköréhez jogszabályban előírt újabb szakképzettséget szerez magasabb végzettségi szinten, a magasabb végzettségi szintnek megfelelő illetményalapra az oklevél bemutatását követő hónap első napjától jogosult.
+(2) Ha a pedagógus a munkaköréhez jogszabályban előírt újabb szakképzettséget szerez magasabb végzettségi szinten, a magasabb végzettségi szintnek megfelelő illetményalapra az oklevél bemutatását követő hónap első napjától jogosult.
 
-[^10]: Az 5. alcím címe a 249/2015. (IX. 8.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
-[^11]: A 13. § (1) bekezdését a 249/2015. (IX. 8.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
-[^12]: A 13. § (1a) bekezdését a 89/2015. (IV. 9.) Korm. rendelet 13. § (2) bekezdése iktatta be, hatályon kívül helyezte a 249/2015. (IX. 8.) Korm. rendelet 17. § b) pontja.
-[^13]: A 13. § (2) bekezdését a 249/2015. (IX. 8.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte.
-[^14]: A 13. § (3) bekezdése a 249/2015. (IX. 8.) Korm. rendelet 8. §-ával megállapított szöveg.
-[^15]: A 13. § (4) bekezdését a 89/2015. (IV. 9.) Korm. rendelet 13. § (3) bekezdése iktatta be.
+(3) Ha a nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott személy a jogviszonya fennállása alatt szerez pedagógus szakképzettséget, őt a szakképzettség igazolását követő hónap első napjától Gyakornok fokozatba kell sorolni azzal, hogy munkabére, illetménye ezzel összefüggésben nem csökkenthető.
+
+[^85]: Az 5. alcím (13–14/A. §) a 235/2016. (VII. 29.) Korm. rendelet 22. §-ával megállapított szöveg.

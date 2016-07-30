@@ -1,6 +1,6 @@
-## 40. §[^90]
+## 40. §[^175]
 
-1. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^91]
+1. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^176]
 
-[^90]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^91]: Az 1. melléklet a 249/2015. (IX. 8.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^175]: A 40. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^176]: Az 1. melléklet a 249/2015. (IX. 8.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.

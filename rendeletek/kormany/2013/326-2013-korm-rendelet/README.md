@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-326-20-
 | 2015-09-09 | 2013-326-20-22.11 | 249/2015. (IX. 8.) Korm. rendelet |
 | 2015-11-27 | 2013-326-20-22.12 | 345/2015. (XI. 19.) Korm. rendelet |
 | 2016-01-01 | 2013-326-20-22.13 | 418/2015. (XII. 23.) Korm. rendelet |
+| 2016-07-30 | 2013-326-20-22.14 | 235/2016. (VII. 29.) Korm. rendelet |

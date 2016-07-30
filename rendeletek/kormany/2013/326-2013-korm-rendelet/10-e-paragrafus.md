@@ -4,7 +4,7 @@
 
 a) megvizsgálja, hogy nincs-e helye a minősítő vizsga, a minősítési eljárás megszüntetésének a 12/C. § (1) bekezdése alapján,
 
-b) vezeti a portfólióvédést és a minősítő bizottság értekezleteit,
+b)[^53] vezeti a portfólióvédést, a pályázat védését és a minősítő bizottság értekezleteit,
 
 c) szervezi a minősítő bizottság feladatait,
 
@@ -13,3 +13,5 @@ d) a minősítő vizsga, a minősítési eljárás a pedagógus személyes rész
 e) a bizottsági tagok értékelésének eredménye közötti jelentős eltérés esetén összehívja a bizottságot egyeztetés céljából, valamint
 
 f) gondoskodik a minősítéssel kapcsolatos adatoknak az informatikai rendszerben történő rögzítéséről.
+
+[^53]: A 10/E. § (2) bekezdés b) pontja a 235/2016. (VII. 29.) Korm. rendelet 37. § 6. pontja szerint módosított szöveg.
