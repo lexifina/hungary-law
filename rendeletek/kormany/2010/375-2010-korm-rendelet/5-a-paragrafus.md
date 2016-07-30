@@ -28,6 +28,7 @@ e) a speciális közfoglalkoztatási program megvalósításához szükséges an
 
 (7) A támogatási időszak a speciális közfoglalkoztatási program tekintetében 5 hónap.
 
-(8) Az 5/A. § (1) bekezdése szerinti speciális közfoglalkoztatási program támogatása kérelemre nyújtható, a program támogatásáról a közfoglalkoztatásért felelős miniszter mérlegelési jogkörében dönt. A támogatási eljárásra a 7. § (2), (3), (6), (7), (8) és (10) bekezdéseit kell alkalmazni.
+(8)[^33] Az (1) bekezdés szerinti speciális közfoglalkoztatási program támogatása kérelemre nyújtható, a program támogatásáról a közfoglalkoztatásért felelős miniszter mérlegelési jogkörében dönt. A támogatási eljárásra a 7. § (2), (3), (6), (7), (9) és (10) bekezdését kell alkalmazni.
 
 [^32]: Az 5/A. §-t és az azt megelőző alcímet a 125/2016. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
+[^33]: Az 5/A. § (8) bekezdése a 227/2016. (VII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.

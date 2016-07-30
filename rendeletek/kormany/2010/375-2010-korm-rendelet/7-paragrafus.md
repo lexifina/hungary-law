@@ -1,4 +1,4 @@
-7. §[^45] (1) A 6. és 7/B. §-ban meghatározott támogatások kérelemre nyújthatók.
+7. §[^46] (1) A 6. és 7/B. §-ban meghatározott támogatások kérelemre nyújthatók.
 
 (2) A közfoglalkoztatási támogatást igénylő a közfoglalkoztatási programról előzetes tervezetet készít (a továbbiakban: tervezet), amelyet a hatósági szerződés megkötésére hatáskörrel rendelkező hatósághoz kell benyújtani, amely azt a támogatásra vonatkozó javaslatával együtt 21 napon belül továbbítja a közfoglalkoztatásért felelős miniszter részére.
 
@@ -32,4 +32,4 @@ f) a foglalkoztatni kívánt személy álláskeresőként eltöltött idejét.
 
 (11) A támogatási időszak meghosszabbítása esetén a közfoglalkoztatási jogviszony is meghosszabbítható a közfoglalkoztatási program végéig.
 
-[^45]: A 7. § a 472/2015. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^46]: A 7. § a 472/2015. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
