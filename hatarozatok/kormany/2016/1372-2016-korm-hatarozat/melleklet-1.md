@@ -46,7 +46,7 @@
 
 ## a Galvani híd engedélyes terveinek elkészítése esetében 2018. szeptember 30.
 
-1. melléklet az 1372/2016. (VII. 20.) Korm. határozathoz
+1. melléklet az 1372/2016. (VII. 20.) Korm. határozathoz[^1]
 
 Kulcsfontosságú budapesti közlekedési beruházás-előkészítések
 
@@ -56,9 +56,9 @@ Kulcsfontosságú budapesti közlekedési beruházás-előkészítések
 
 | 2. | Budapest-Ferencváros – Kelebia vasútvonal fővárosi nyomvonal-korrekciója projekt engedélyezési terveinek elkészítése |
 
-| 3. | M1-es autópálya 2×3 sávra bővítése Budapest és Győr között projekt engedélyezési terveinek elkészítése |
+| 3. |  |
 
-| 4. | M7-es autópálya 2×3 sávra bővítése Budapest és Balatonvilágos között projekt engedélyezési terveinek elkészítése |
+| 4. |  |
 
 | 5. | Galvani híd és kapcsolódó úthálózat építése projekt engedélyezési terveinek elkészítése |
 
@@ -67,3 +67,5 @@ Kulcsfontosságú budapesti közlekedési beruházás-előkészítések
 | 7. | csepeli HÉV fővárosi villamos hálózatba integrálása projekt engedélyezési terveinek elkészítése |
 
 | 8. | a Földalatti rekonstrukciója és a járműbeszerzése projekt engedélyezési terveinek elkészítése |
+
+[^1]: Az 1. melléklet az 1422/2016. (VII. 29.) Korm. határozat 6. pontja szerint módosított szöveg.
