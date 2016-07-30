@@ -1,5 +1,5 @@
-147/A. §[^617] (1) Az EMVA forrásból támogatott intézkedések esetén a kifizető ügynökség végzi el a 809/2014/EU bizottsági végrehajtási rendeletben előírt szabályoknak megfelelően a támogatás folyósítását megelőzően végrehajtandó helyszíni ellenőrzéseket.
+147/A. §[^618] (1) Az EMVA forrásból támogatott intézkedések esetén a kifizető ügynökség végzi el a 809/2014/EU bizottsági végrehajtási rendeletben előírt szabályoknak megfelelően a támogatás folyósítását megelőzően végrehajtandó helyszíni ellenőrzéseket.
 
 (2) A helyszíni ellenőrzés részletes szabályait az 1. melléklet határozza meg.
 
-[^617]: A 147/A. §-t a 466/2015. (XII. 29.) Korm. rendelet 40. §-a iktatta be.
+[^618]: A 147/A. §-t a 466/2015. (XII. 29.) Korm. rendelet 40. §-a iktatta be.
