@@ -19,3 +19,7 @@ b) amennyiben a hiánypótlási felhívásban vagy a minőségellenőrzési jele
 (5) A miniszter (2) bekezdés a)–b) pontja szerinti hozzájárulása, annak közlésétől számított kilencven napig érvényes.
 
 (6) A közbeszerzési törvény 9. § (1) bekezdés b) pontja szerinti esetben a miniszter hozzájárulása hiányában nem kezdeményezhető az Országgyűlés illetékes bizottságának döntésére irányuló, a védelmi- és minősített beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló Korm. rendelet szerinti mentesítési eljárás.
+
+(7)[^4] A miniszter a (2) bekezdés c) pontja szerinti tartalmú minőségellenőrzési tanúsítványt ad ki, ha az elektronikus ügyintézést biztosító állami szerv az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 104. § (1) bekezdésében foglalt kötelezettségének nem tett eleget.
+
+[^4]: A 8. § (7) bekezdését a 228/2016. (VII. 29.) Korm. rendelet 8. § (4) bekezdése iktatta be.
