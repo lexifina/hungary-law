@@ -26,7 +26,7 @@ b) folytatódik a város gyorsforgalmi útkapcsolatainak további fejlesztése, 
 
 ba) a 445. számú Kecskemét északi elkerülő út továbbvezetése,
 
-bb) az 52. számú főút M5 autópálya és Kecskemét, Nagykörút közötti szakasz négysávossá történő kapacitásbővítése
+bb)[^1]
 
 érdekében;
 
@@ -113,3 +113,5 @@ b) felhívja az 1–5. pontban felelősként megjelölt minisztereket, hogy – 
 Felelős: az 1–5. pontban felelősként megjelölt miniszterek
 
 Határidő: 2016. március 31.
+
+[^1]: A 2. pont b) pont bb) alpontját az 1422/2016. (VII. 29.) Korm. határozat 8. pontja visszavonta.
