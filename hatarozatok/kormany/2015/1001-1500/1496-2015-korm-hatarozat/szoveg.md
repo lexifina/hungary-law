@@ -10,13 +10,7 @@ honvédelmi miniszter
 
 Határidő: 2015. szeptember 15.
 
-2. a város iparfejlesztési céljait támogatva egyetért a déli elkerülő út megvalósításával és felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy tegyék meg a szükséges intézkedéseket a fejlesztés 1. ütemeként a Nagykanizsa délkeleti elkerülő út megvalósítására;
-
-Felelős: nemzeti fejlesztési miniszter
-
-nemzetgazdasági miniszter
-
-Határidő: az 1. ütem megvalósítására 2018. március 15.
+2.[^1] a város iparfejlesztési céljait támogatva egyetért a déli elkerülő út megvalósításával és felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy tegyék meg a szükséges intézkedéseket a fejlesztés 1. ütemeként a Nagykanizsa délkeleti elkerülő út előkészítésére;
 
 3. támogatja az önkormányzat által kidolgozott, Nagykanizsa megújítását és a városi életminőség javítását szolgáló Adria Kapuja Program megvalósítását, amely érdekében
 
@@ -87,3 +81,5 @@ Határidő: azonnal
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a gyorsforgalmi útfejlesztés megvalósítására 2018. március 15.
+
+[^1]: A 2. pont az 1422/2016. (VII. 29.) Korm. határozat 2. pontjával megállapított szöveg.
