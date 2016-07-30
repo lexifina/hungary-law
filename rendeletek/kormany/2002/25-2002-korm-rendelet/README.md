@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-25-20-2
 | 2014-07-26 | 2002-25-20-22.9 | 173/2014. (VII. 18.) Korm. rendelet |
 | 2014-10-16 | 2002-25-20-22.10 | 173/2014. (VII. 18.) Korm. rendelet |
 | 2014-11-21 | 2002-25-20-22.11 | 173/2014. (VII. 18.) Korm. rendelet |
+| 2016-07-30 | 2002-25-20-22.12 | 286/2010. (XII. 16.) Korm. rendelet |
