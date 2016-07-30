@@ -1,4 +1,4 @@
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^142]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^150]
 
 ## A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások listája
 
@@ -128,7 +128,23 @@
 
 1.62. Sopron északnyugati elkerülő megvalósítása.
 
-1.63.[^143] Nyíregyháza–Tokaj közötti hiányzó kerékpárútszakaszok megvalósítása.
+1.63.[^151] Nyíregyháza–Tokaj közötti hiányzó kerékpárútszakaszok megvalósítása.
+
+1.64.[^152] Balatoni Bringakör komplex fejlesztése.
+
+1.65.[^153] EuroVelo 6 útvonal komplex fejlesztése (Rajka–Dömös, Budapest–Szentendre, Budapest–Dunakeszi, Budapest–Érd–Százhalombatta szakaszok).
+
+1.66.[^154] Keszthely–Sármellék kerékpáros útvonal kiépítése.
+
+1.67.[^155] Budapest–Balaton kerékpáros útvonal kiépítése (Budapest–Etyek–Velence–Székesfehérvár–Balatonakarattya).
+
+1.68.[^156] Tiszafüred–Poroszló kerékpáros útvonal fejlesztése.
+
+1.69.[^157] Tarcal–Tokaj–Bodrogkeresztúr kerékpáros útvonal fejlesztése.
+
+1.70.[^158] Tépe–Berettyóújfalu kerékpáros útvonal kiépítése.
+
+1.71.[^159] Tokaj–Tiszabecs kerékpáros útvonal fejlesztése.
 
 2. Vasúti közlekedési projektek
 
@@ -288,5 +304,13 @@
 
 4.5. Vízi úti információs rendszer kiépítése.
 
-[^142]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be.
-[^143]: Az 1/a. melléklet 1. pont 1.63. alpontját a 76/2016. (IV. 5.) Korm. rendelet 2. §-a iktatta be.
+[^150]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be.
+[^151]: Az 1/a. melléklet 1. pont 1.63. alpontját a 76/2016. (IV. 5.) Korm. rendelet 2. §-a iktatta be.
+[^152]: Az 1/A. melléklet 1. pont 1.64. pontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^153]: Az 1/A. melléklet 1. pont 1.65. pontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^154]: Az 1/A. melléklet 1. pont 1.66. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^155]: Az 1/A. melléklet 1. pont 1.67. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^156]: Az 1/A. melléklet 1. pont 1.68. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^157]: Az 1/A. melléklet 1. pont 1.69. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^158]: Az 1/A. melléklet 1. pont 1.70. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^159]: Az 1/A. melléklet 1. pont 1.71. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
