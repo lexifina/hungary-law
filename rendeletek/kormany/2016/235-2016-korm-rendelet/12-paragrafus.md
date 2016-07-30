@@ -1,0 +1,3 @@
+## „(7) Az intézményvezető a pedagógus szakképzettséggel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottak 8. § (1b) bekezdése szerinti minősítő vizsgája eredményét vagy eredménytelenségét a vizsga időpontjától számított öt munkanapon belül rögzíti az informatikai rendszerben. A minősítő vizsgával összefüggő iratokat – közalkalmazott esetén a közalkalmazotti alapnyilvántartás részeként – a munkáltató köteles megőrizni.
+
+## (8) Az intézményvezető haladéktalanul rögzíti az informatikai rendszerben, ha a minősítő vizsga vagy minősítési eljárás felfüggesztésére alapot adó körülmény bekövetkezik, vagy megszűnik, kivéve a nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott gyakornok minősítő vizsgájának felfüggesztését.”

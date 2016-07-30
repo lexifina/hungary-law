@@ -1,0 +1,1 @@
+## „(2) Ha a pedagógus a portfólió vagy a pályázat feltöltésére vonatkozó, az (1) vagy (1c) bekezdésben előírt határidőt elmulasztja, az OH megállapítja a minősítő vizsga, a minősítési vagy bírálati eljárás sikertelenségét.”

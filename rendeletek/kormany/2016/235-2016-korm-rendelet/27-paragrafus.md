@@ -1,0 +1,1 @@
+## „(13) Az (1)–(12) bekezdés alkalmazásakor a pedagógus neveléssel-oktatással lekötött munkaideje – a kerekítés általános szabályai alkalmazásával – nem lehet kevesebb, mint a munkaköre szerint rá irányadó neveléssel-oktatással lekötött munkaidő alsó határának hetvenöt százaléka, vezetőpedagógus esetében legalább tizenegy óra.”

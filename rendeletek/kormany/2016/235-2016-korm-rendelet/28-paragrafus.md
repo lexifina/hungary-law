@@ -1,0 +1,3 @@
+## 27. § Az Ép.r. 32. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+## „(5) Gyógypedagógiai pótlékra jogosult a nevelési-oktatási intézményben nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott közalkalmazott is, feltéve, hogy kizárólag sajátos nevelési igényű gyermekekkel, tanulókkal foglalkozik, vagy, ha a munkaköri feladatai ellátásával érintett gyermekek, tanulók közül a sajátos nevelési igényű gyermekek, tanulók aránya a nevelési év, tanév első napján eléri a harminchárom százalékot. A pótlék mértéke megállapításának alapja a közalkalmazott besorolásánál figyelembe vett végzettségi szintnek megfelelő illetményalap.”

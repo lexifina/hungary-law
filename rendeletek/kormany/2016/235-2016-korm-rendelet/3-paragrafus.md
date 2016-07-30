@@ -1,0 +1,9 @@
+## „(3) Ha a foglalkoztatási jogviszony létesítésekor a pedagógus rendelkezik a 6. § (1) és (2) bekezdése szerinti két év szakmai gyakorlattal, de nem rendelkezik a 6. § (3) bekezdése szerinti hat év munkaviszony jellegű jogviszonnyal, számára – kivéve, ha sikeres minősítő vizsgát tett – hat hónap gyakornoki időt kell kikötni.”
+
+3. § (1) Az Ép.r. 4. §-a a következő (1a) és (1b) bekezdéssel egészül ki:
+
+## „(1a) Az (1) bekezdésben foglaltakon túlmenően, a Mesterpedagógus fokozat megszerzésére történő jelentkezésekor tett nyilatkozata szerint az országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő vizsgáján vagy minősítési eljárásában szakértőként részt venni, szaktanácsadói vagy pedagógiai-szakmai szolgáltatási feladatot ellátni szándékozó pedagógus esetében a minősítési eljárás eredményes befejezésének feltétele, hogy az ezzel kapcsolatos, a köznevelési szakértői tevékenység, valamint az érettségi vizsgaelnöki megbízás feltételeiről szóló 15/2015. (III. 13.) EMMI rendeletben [a továbbiakban: 15/2015. (III. 13.) EMMI rendelet] meghatározottak szerinti pedagógus továbbképzésben vegyen részt és azt legkésőbb a pályázat feltöltési határidejének időpontjáig sikeresen befejezze.
+
+## (1b) Az (1) bekezdésben foglaltakon túlmenően, a vezetői vagy magasabb vezetői feladatok ellátásához kapcsolódó Mesterprogramot megvalósítani szándékozó pedagógus esetében a minősítési eljárásra való jelentkezésnek és az eljárás eredményes befejezésének feltétele, hogy a pedagógus a jelentkezéskor és az eljárás teljes időtartama alatt rendelkezzen vezetői vagy magasabb vezetői megbízással, vagy – munkaviszonyban foglalkoztatott pedagógus esetén – ennek megfelelő vezetői munkakörrel.”
+
+(2) A Ép.r. 4. § (3) bekezdése helyébe a következő rendelkezés lép, és a § a következő (4) bekezdéssel egészül ki:

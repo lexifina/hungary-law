@@ -1,0 +1,9 @@
+## „(7) A (3) bekezdés a) pontja alapján delegált bizottsági tag tekintetében – a 15/2015. (III. 13.) EMMI rendeletben foglaltaktól eltérően – nem eredményez összeférhetetlenséget, ha a köznevelési szakértő ugyanannak a szakképzési centrumnak vagy megyei pedagógiai szakszolgálatnak más tagintézményével áll foglalkoztatási jogviszonyban, mint amely a minősítendő pedagógust is foglalkoztatja.
+
+## (8) Ha az összeférhetetlenség alkalmazása miatt nincs az intézményben a (3) bekezdés b) vagy d) pontja szerinti intézményi delegált tagként kijelölhető személy, helyette az OH által kijelölt, az Országos szakértői névjegyzéken pedagógiai-szakmai ellenőrzés (tanfelügyelet) és pedagógusminősítés szakterületen szereplő köznevelési szakértő vesz részt a bizottságban, aki a 15/2015. (III. 13.) EMMI rendeletben foglaltak szerinti felkészítésben vett részt és rendelkezik legalább ötéves vezetői vagy magasabb vezetői gyakorlattal. Ezt a rendelkezést kell alkalmazni abban az esetben is, ha az OH elnöke az összeférhetetlenségi szabály megsértésével kapcsolatos panasznak helyt ad és a 12/D. § (3) bekezdése alapján új bizottságot jelöl ki.
+
+## (9) Ha az Országos szakértői névjegyzéken nem szerepel olyan kirendelhető szakértő, akinek a minősítő bizottságban való részvétele – a pedagógus minősítésének elbírálásához szükséges ismeretekre tekintettel – szükséges, a minősítési évben
+
+## a) bizottsági tagként – az OH-val kötött eseti megbízási szerződés alapján – eljárhat olyan Pedagógus I. vagy Pedagógus II. fokozatba sorolt pedagógus is, aki legalább tizennégy év pedagógus munkakörben eltöltött szakmai gyakorlattal és pedagógus szakvizsgával rendelkezik, továbbá elvégezte az OH által szervezett pedagógusminősítésre és pedagógiai-szakmai ellenőrzésre vonatkozó felkészítő képzést, vagy
+
+## b) a minősítés megszervezése során a 11. §-ban meghatározott határidőktől el lehet térni.”
