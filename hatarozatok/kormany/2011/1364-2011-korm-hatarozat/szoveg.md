@@ -24,31 +24,7 @@ természetjáró és kerékpáros turizmus, úthálózat és közlekedés fejles
 
 Határidő: 2012. január 15.
 
-4. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy a természetjáró és kerékpáros turizmus, úthálózat és közlekedés fejlesztéséért felelős miniszterelnöki megbízottal való együttműködésben készítse elő a következő országos és budapesti kerékpárút fejlesztési tervek megvalósíthatósági tanulmányát, valamint vizsgálja meg a hazai és az európai uniós fejlesztési források bevonásának lehetőségét:
-
-a) EuroVelo 11 „Kelet-európai útvonal” (Bodrog-Tisza menti kerékpárút, Tisza-tó, Tokaj-Hegyalja),
-
-b) EuroVelo 13 „Vasfüggöny kerékpárút” (Fertő-tó, Nyugat- és Dél-Dunántúl),
-
-c) Velencei-tó,
-
-d) Budapest fővárosi fejlesztések:
-
-da) EuroVelo 6 (EV6) „Folyók útja” Duna menti kerékpárút teljes fővárosi átvezetése,
-
-db) Puskás Ferenc Stadion melletti kerékpáros infrastruktúra bővítése,
-
-dc) Andrássy úti és Bajcsy-Zsilinszky úti kerékpáros infrastruktúra fejlesztése,
-
-dd) Budapest környéki kerékpárút hálózat bővítése (főhálózati szakaszok Budán és Pesten egyaránt),
-
-de) az elővárosi vasúthálózat és HÉV vonalak kerékpáros kapcsolatainak kiépítése, a három nagy pályaudvar, illetve elővárosi állomások elérhetőségeinek javítása.
-
-Felelős: nemzeti fejlesztési miniszter
-
-természetjáró és kerékpáros turizmus, úthálózat és közlekedés fejlesztéséért felelős miniszterelnöki megbízott
-
-Határidő: 2012. március 31.
+4.[^1]
 
 5. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy
 
@@ -75,3 +51,5 @@ vidékfejlesztési miniszter
 Határidő: folyamatos
 
 7. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 4. pontot az 1412/2016. (VII. 29.) Korm. határozat 1. pontja hatályon kívül helyezte.
