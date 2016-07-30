@@ -1,0 +1,3 @@
+## 2. § Az R. 20. §-a a következő (5) bekezdéssel egészül ki:
+
+## „(5) A kihelyező vezető – a (4) bekezdésben meghatározottaktól eltérően, kivételesen, kiemelt szolgálati érdekből (így különösen, ha az álláshely betöltése nem lenne biztosítható) – a kihelyezettnek a kihelyezés megszüntetésére vonatkozó kérését hat hónapon belül teljesíti, ha az nem ütközik a kihelyezett különösen méltányolandó érdekébe, így különösen, ha az családi vagy egyéb, személyes életkörülményei alapján méltányolható érdekét nem sérti. A kihelyező vezető köteles e döntését írásban megindokolni úgy, hogy a kihelyezett e döntésről legkésőbb a (4) bekezdésben foglalt határidő leteltét megelőző 30. napon értesüljön.”
