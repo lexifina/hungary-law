@@ -48,7 +48,7 @@ c) a teljes körű lakossági kommunikáció kidolgozása és irányítása,
 
 d) a közszolgálati médiával való kapcsolattartás irányítása,
 
-e) az előre meg nem határozott rendezvények kiemelt fontosságú rendezvénnyé minősítéséről történő döntés, melyre a Honvédelmi Minisztérium társadalmi kapcsolatokért felelős helyettes államtitkára tesz javaslatot, és amely országos jelentőségű, eseti jellegű, év közben keletkezett, ezért előre nem tervezhető, kormányzati kötelezettségen alapuló rendezvényre vonatkozhat,
+e)[^2] az előre meg nem határozott rendezvények kiemelt fontosságú rendezvénnyé minősítéséről történő döntés, amely országos jelentőségű, eseti jellegű, év közben keletkezett, ezért előre nem tervezhető rendezvényre vonatkozhat,
 
 f) a Magyar Honvédség képességeinek felhasználása a szárazföldi, a légi és a vízi bemutatókon történő közreműködés, illetve azok biztosítása során.
 
@@ -58,7 +58,7 @@ f) a Magyar Honvédség képességeinek felhasználása a szárazföldi, a légi
 
 5. A miniszter az e határozat szerinti feladatait a feladatkörében érintett miniszterrel együttműködve látja el, amely keretében
 
-a) a Miniszterelnökséget vezető miniszter felel a miniszterelnök és a Kormány körüli állami protokoll teendők ellátásáért és a külföldi államfők, kormányfők fogadásáért,
+a)[^3] a miniszterelnök kabinetfőnöke felel a miniszterelnök és a Kormány körüli állami protokoll teendők ellátásáért és a külföldi államfők, kormányfők fogadásáért,
 
 b) a belügyminiszter felel az általános rendőrségi feladatok ellátására létrehozott szerv rendezvénybiztosítási feladatokat ellátó és díszelgő egységeinek, a katasztrófavédelem, a Terrorelhárítási Központ, a Nemzetbiztonsági Szakszolgálat és az Alkotmányvédelmi Hivatal szerveinek rendezvénnyel kapcsolatos közreműködéséért, a rendezvények biztosítási tervének elkészítéséért és azok végrehajtásáért,
 
@@ -80,17 +80,19 @@ c) felel – az érintett szervek feladat- és hatáskörének sérelme nélkül
 
 8. A miniszter a TKM munkacsoportjaként működteti az Operatív Törzset (a továbbiakban: OT), amely a nemzeti rendezvények szervezett és biztonságos lebonyolításával kapcsolatos feladatokat látja el.
 
-9. Az OT-t a Honvédelmi Minisztérium társadalmi kapcsolatokért felelős helyettes államtitkárának javaslatára a miniszter által kijelölt személy irányítja. Az OT állandó tagja
+9.[^4] Az OT-t a miniszter által kijelölt személy irányítja. Az OT állandó tagjai
 
-a) a Miniszterelnökséget vezető miniszter,
+a) a miniszterelnök kabinetfőnöke,
 
 b) a belügyminiszter,
 
-c) az emberi erőforrások minisztere,
+c) az emberi erőforrások minisztere és
 
 d) a földművelésügyi miniszter
 
-által delegált személyek. Az OT irányítójának megkeresése alapján a nemzeti rendezvény szervezésével kapcsolatos feladatok szakszerű ellátásához szükséges további személyek – így különösen a külgazdasági és külügyminiszter által delegált személy – és szervezetek is részt vesznek az OT munkájában. Az OT működésének rendjét az OT első ülésén határozza meg.
+által delegált személyek.
+
+9/A.[^5] Az OT irányítójának megkeresése alapján a nemzeti rendezvény szervezésével kapcsolatos feladatok szakszerű ellátásához szükséges további személyek – így különösen a külgazdasági és külügyminiszter által delegált személy – és szervezetek képviselői is részt vehetnek az OT munkájában. Az OT működésének rendjét saját maga határozza meg.
 
 10. Az OT elsődleges feladata az előkészítés folyamán a biztonsági szempontok konzultatív és kooperatív figyelemmel kísérése, a nemzeti rendezvényekkel kapcsolatban elkészített biztonsági terv, közlekedési terv és egészségügyi terv szakmai véleményezése legkésőbb a nemzeti rendezvényt megelőző 15. napig, és azok OT irányítója által történő jóváhagyása.
 
@@ -100,7 +102,7 @@ d) a földművelésügyi miniszter
 
 13. A Kormány felhívja
 
-a)[^1] a minisztert, hogy gondoskodjon a nemzeti rendezvények szervezéséről, valamint a műszaki, művészeti, logisztikai feladatainak előkészítéséről és lebonyolításáról, illetve a rendezvény biztosítás koordinációjáról, továbbá a 2. pont c) alpontjában meghatározott feladatok lebonyolításáról.
+a)[^6] a minisztert, hogy gondoskodjon a nemzeti rendezvények szervezéséről, valamint a műszaki, művészeti, logisztikai feladatainak előkészítéséről és lebonyolításáról, illetve a rendezvény biztosítás koordinációjáról, továbbá a 2. pont c) alpontjában meghatározott feladatok lebonyolításáról.
 
 b) a minisztert, hogy – a c) pontban foglalt előirányzatok kivételével – biztosítsa a nemzeti rendezvények előkészítéséhez és lebonyolításához szükséges költségvetési forrásokat a Honvédelmi Minisztérium fejezetben,
 
@@ -108,7 +110,11 @@ c) az 5. pontban megjelölt minisztereket, hogy az 5. pontban meghatározott fel
 
 14. Ez a határozat a közzétételét követő napon lép hatályba.
 
-15.[^2]
+15.[^7]
 
-[^1]: A 13. pont a) alpontja az 1344/2015. (V. 27.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont e) alpontja az 1410/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 5. pont a) alpontja az 1410/2016. (VII. 29.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^4]: A 9. pont az 1410/2016. (VII. 29.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: A 9/A. pontot az 1410/2016. (VII. 29.) Korm. határozat 3. pontja iktatta be.
+[^6]: A 13. pont a) alpontja az 1344/2015. (V. 27.) Korm. határozat 1. pontjával megállapított szöveg.
+[^7]: A 15. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
