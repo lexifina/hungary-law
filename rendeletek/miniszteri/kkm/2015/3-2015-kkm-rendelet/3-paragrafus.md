@@ -1,4 +1,4 @@
-## 2. § Az előirányzatok Ávr. 30. § szerinti felhasználási szabályait az 1. melléklet tartalmazza.
+## 2. §[^2] Az előirányzatok Ávr. 30. § szerinti felhasználási szabályait az 1. és a 2. melléklet tartalmazza.
 
 ## 3. § E rendelet szerinti, az EUMSZ 107. cikk (1) bekezdése szerinti állami támogatás esetében az 1. mellékletben foglalt táblázat
 
@@ -25,3 +25,5 @@ ea) csekély összegű támogatás,
 eb) kulturális célú támogatás
 
 f) 34. sora alapján a támogatás céljától függően – a vonatkozó európai uniós jogszabályok előírásainak betartása mellett – az a)–e) pontban meghatározott valamennyi támogatási kategória
+
+[^2]: A 2. § az 5/2016. (VII. 29.) KKM rendelet 2. §-ával megállapított szöveg.
