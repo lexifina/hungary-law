@@ -1,0 +1,7 @@
+## 10. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+
+11. § (1) A 2016. év június 30-ig teljesített szakmai továbbképzésen való részvételről kiállított igazolás az e rendelet szerinti tanúsítvánnyal egyenértékű. A felszámoló szervezet az általa foglalkoztatott továbbképzésre kötelezett személy nevére szóló igazolást 2016. július 31-éig köteles megküldeni a felszámolók névjegyzékét vezető hatóságnak.
+
+(2) Azon továbbképzésre kötelezett személy, aki a felszámolási és vagyonfelügyeleti szakirányú szakképzettséget 2016. augusztus 1-jét követően szerzi meg, továbbképzési kötelezettségének első alkalommal a szakképzettség megszerzésének időpontját követően induló továbbképzési időszakban köteles eleget tenni.
+
+(3) Azon továbbképzésre kötelezett személy, aki a felszámolási és vagyonfelügyeleti szakirányú szakképzettséget 2016. augusztus 1-jét megelőzően szerezte meg és 2016. augusztus 1. előtt nem minősült az 1. § (1) bekezdése szerint továbbképzésre kötelezett személynek, vagy az 1. § (1) bekezdése szerinti jogviszonya igazolhatóan szünetelt, a továbbképzési rendszerbe az 1. § (1) bekezdés szerinti továbbképzési kötelezettség alapjául szolgáló jogviszony létrejöttét vagy a jogviszony szünetelésének megszűnését követően haladéktalanul köteles bekapcsolódni. Amennyiben a folyó továbbképzési időszakban az előírt kreditpontok megszerzése nem lehetséges, továbbképzési kötelezettségének a soron következő továbbképzési időszakban kell eleget tennie.
