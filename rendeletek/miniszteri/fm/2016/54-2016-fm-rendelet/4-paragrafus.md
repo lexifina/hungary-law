@@ -1,0 +1,5 @@
+## 3. § A pénzügyi hozzájárulás forrása a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XII. Földművelésügyi Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 4. Uniós programok kiegészítő támogatása alcím, 9. Egyes állatbetegségek megelőzésének és felszámolásának támogatása jogcímcsoporton előirányzott összeg, valamint az Európai Unió általános költségvetésének terhére a SANTE/2016/HU/SI2.726013. számú támogatási határozat alapján a 2. § szerinti célterületek finanszírozására biztosított pénzösszeg.
+
+4. § (1) Kizárólag az adott tárgyidőszakban vagy azt megelőzően – de a végrehajtási időszak alatt – kiállított és teljesített számlák alapján vehető igénybe pénzügyi hozzájárulás. A 11. §-ban meghatározott alcélterület tekintetében a 11. § (2) bekezdése szerinti pénzügyi hozzájárulás kizárólag pénzügyileg is teljesített számla alapján folyósítható.
+
+(2) A pénzügyi hozzájárulás kiszámításának alapja a számlán szereplő költségek általános forgalmi adót és egyéb adót nem tartalmazó összege.
