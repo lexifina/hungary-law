@@ -1,7 +1,0 @@
-## 34. § Az Ép.r. 39/I. §-a helyébe a következő rendelkezés lép:
-
-## „39/I. § (1) Annak a pedagógusnak, aki a 2016. évi minősítési terv alapján Mesterpedagógus vagy Kutatótanár fokozatba történő besorolásra irányuló minősítési eljárásban vesz részt a 2016. évben, a 39/F–39/H. §-ban foglaltak szerinti portfólió, pályázat feltöltésére szolgáló informatikai hozzáférést az OH 2016. augusztus 15-ig biztosítja. A feltöltésre legalább negyvenöt nap áll rendelkezésre.
-
-## (2) Az Új Széchenyi Terv Társadalmi Megújulás Operatív Program TÁMOP-3.15. és TÁMOP-3.1.15. kiemelt projekt keretében próbaminősítési eljáráson Kutatótanári fokozatot szerzett pedagógusra, aki egyben az Új Széchenyi Terv Társadalmi Megújulás Operatív Program TÁMOP-3.15. és TÁMOP-3.1.15. kiemelt projekt keretében próbaminősítési eljáráson Mesterpedagógus fokozatot szerzett és az országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő vizsgáján vagy minősítési eljárásában szakértőként vesz részt, szaktanácsadói vagy pedagógiai-szakmai szolgáltatási feladatot lát el, alkalmazni kell az ugyanilyen tevékenységet végző Mesterpedagógus fokozatba besorolt pedagógusokra vonatkozó rendelkezéseket, addig amíg az OH számára ezen feladatokat ellátja.
-
-## (3) Ha a (2) bekezdésben meghatározott Kutatótanár fokozatba besorolt pedagógus mégis a Kutatóprogramját kívánja megvalósítani, az OH-nak küldött erről szóló írásbeli bejelentésétől számított öt éven belül kell pályázatát megújítania.”
