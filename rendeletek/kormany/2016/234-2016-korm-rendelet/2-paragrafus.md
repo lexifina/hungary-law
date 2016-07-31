@@ -1,5 +1,0 @@
-## 1. § Az egyes kimagasló sporteredmények állami jutalmáról szóló 200/2013. (VI. 13.) Korm. rendelet (a továbbiakban: R.) 2. § (5)–(6) bekezdése helyébe a következő rendelkezések lépnek:
-
-## „(5) A sport világeseményen több 1–8. helyezést elért versenyző minden 1–8. helyezése után részesülhet állami jutalomban.
-
-## (6) A Speciális Olimpia esetében állami jutalom a SOI szabályzata szerinti versenyrendszerben meghatározott egyes képességszinteken belül az eredményesség alapján felállított első divízióban (a továbbiakban: első divízió) elért 1–8. helyezés alapján adható. Ha az első divízióban nincs az 1–8. helyezések betöltésére elegendő számú versenyző, az 1–8. helyezések be nem töltött helyeire a képességszinten belüli, eredményesség alapján következő második divízió soron következő legjobb helyezett versenyzői kerülnek. Azokban a sportágakban, amelyekben az elért eredmények objektíven nem mérhetők, csak egy, a Magyar Speciális Olimpia Szövetség által meghatározott divízióban 1–8. helyezést elért versenyzők részesülhetnek állami jutalomban.”
