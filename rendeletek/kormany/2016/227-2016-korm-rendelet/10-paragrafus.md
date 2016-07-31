@@ -1,4 +1,4 @@
-## 9. §[^8]
+## 9. §[^9]
 
 ## 10. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1–3. §, valamint az 5–9. § és 11. § 2016. szeptember 1-jén lép hatályba.
 
-[^8]: A 9. § a 10. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+[^9]: A 9. § a 10. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
