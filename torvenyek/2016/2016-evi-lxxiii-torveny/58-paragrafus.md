@@ -8,7 +8,7 @@
 
 (3) E törvény rendelkezéseit a törvény hatálybalépésekor tartós külszolgálatot ellátó kormánytisztviselők és kormányzati ügykezelők esetében is alkalmazni kell.
 
-(4) Ha az e törvény szerint megállapított pénzbeli és nem pénzbeli juttatás és a jogviszonyból eredő egyéb jogosultságok a törvény hatálybalépésekor tartós külszolgálatát töltő kihelyezettre nézve kedvezőtlenebbek a kihelyezés időpontja szerint megállapított pénzbeli és nem pénzbeli juttatásainál és a jogviszonyból eredő egyéb jogosultságainál, akkor a folyamatban lévő tartós külszolgálatának befejezéséig a kihelyezett a kihelyezése időpontjában megállapított juttatásokra és a jogviszonyból eredő egyéb jogosultságokra jogosult.
+(4)
 
 (5) A 14. § (2) bekezdés c) pontja szerinti feltételnek meg nem felelő diplomáciai vagy konzuli rangú kormánytisztviselőnek e törvény hatálybalépését követő két éven belül meg kell szereznie az előírt szintnek megfelelő nyelvvizsgát.
 

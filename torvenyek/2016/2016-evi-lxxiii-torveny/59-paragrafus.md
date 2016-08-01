@@ -20,9 +20,7 @@ c) a kihelyező szerv által támasztott szakmai követelmények és azok teljes
 
 d) a kihelyezett tartós külszolgálata alatt harmadik országban történő ideiglenes kiküldetés teljesítésének,
 
-e) a külképviseletek külpolitikai viszonyrendszerben elfoglalt helyük, valamint élhetőségük szempontjából való besorolásának, valamint a devizailletmény és a költségtérítés számításának e törvényben nem rendezett,
-
-f) az egyes külképviseletekhez tartozó költségtérítés-szorzók,
+e)–f)
 
 g) a külképviselet által foglalkoztatott munkavállalóval kötött munkaszerződés,
 
@@ -32,7 +30,7 @@ i) a biztonsági szolgálat,
 
 j) a pályáztatás,
 
-k) a költségvetésről szóló törvény kihirdetésétől számított 45 napon belül az egyes állomáshelyekre vonatkozó, az ENSZ-szorzóval korrigált, a következő költségvetési évre vonatkozó, az ENSZ által utoljára közzétett szorzószámok figyelembevételével, állomáshelyenként megállapított deviza-alapilletmények,
+k)
 
 l) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
 
@@ -48,13 +46,11 @@ a) a kihelyező szerv által támasztott szakmai követelmények és azok teljes
 
 b) a tartós külszolgálata alatt harmadik országban történő ideiglenes kiküldetés teljesítésének,
 
-c) az EU ÁK külpolitikai viszonyrendszerben elfoglalt helye, az élhetőség szempontjából való besorolása, valamint a devizailletmény és a költségtérítés számításának e törvényben nem rendezett,
-
-d) a költségtérítés-szorzók,
+c)–d)
 
 e) a pályáztatás,
 
-f) a költségvetésről szóló törvény kihirdetésétől számított 45 napon belül az ENSZ-szorzóval korrigált, a következő költségvetési évre vonatkozó, az ENSZ által utoljára közzétett szorzószámok figyelembevételével megállapított deviza-alapilletmények,
+f)
 
 g) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
 

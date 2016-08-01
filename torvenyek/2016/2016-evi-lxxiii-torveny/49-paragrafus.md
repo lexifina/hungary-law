@@ -1,1 +1,0 @@
-49. § A 24. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK-t a külpolitikai viszonyrendszerben elfoglalt helye, valamint az élhetőség szempontjából az európai uniós ügyek koordinációjáért felelős miniszter sorolja be rendeletben kategóriába, amely az EU ÁK-ra kihelyezettek deviza-illetménypótlékának meghatározása tekintetében irányadó.
