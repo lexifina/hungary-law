@@ -1,0 +1,1 @@
+## 1. § A védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény hatálya alá tartozó, annak 1. melléklete szerinti haditechnikai eszközök és szolgáltatások részletes paramétereit az 1. melléklet határozza meg.
