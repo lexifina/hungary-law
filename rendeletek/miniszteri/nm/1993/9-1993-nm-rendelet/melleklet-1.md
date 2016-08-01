@@ -1,6 +1,6 @@
-## 18. §[^87] A 2. számú mellékletnek az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet módosításáról szóló 36/2015. (VII. 15.) EMMI rendelettel megállapított rendelkezését a 2015. május 31-ét követő teljesítményekre kell alkalmazni.
+## 19. §[^88] Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet és a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló 10/2012. (II. 28.) NEFMI rendelet módosításáról szóló 17/2016. (VII. 22.) EMMI rendelettel megállapított 3. számú mellékletben foglaltakat a 2016. augusztus havi teljesítmények elszámolásától kell alkalmazni.
 
-1. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^88]
+1. számú melléklet a 9/1993. (IV. 2.) NM rendelethez[^89]
 
 ## Tételes elszámolás alá eső egyszerhasználatos eszközök és implantátumok jegyzéke, kódja, valamint az elszámolásra jogosult intézetek köre
 
@@ -1402,5 +1402,5 @@ Elszámolásra jogosult intézetek:
 
 1801 Markusovszky Egyetemi Oktatókórház”
 
-[^87]: A 18. §-t a 36/2015. (VII. 15.) EMMI rendelet 2. §-a iktatta be.
-[^88]: Az 1. számú melléklet az 59/2015. (XII. 30.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^88]: A 19. §-t a 17/2016. (VII. 22.) EMMI rendelet 1. §-a iktatta be.
+[^89]: Az 1. számú melléklet az 59/2015. (XII. 30.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
