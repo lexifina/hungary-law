@@ -53,5 +53,3 @@
 ## a) a bíróságnak, a rendőrségnek, az ügyészségnek, a bírósági végrehajtónak, valamint az államigazgatási szervnek, ha konkrét ügy eldöntéséhez szükséges adat;
 
 ## b) a nemzetbiztonsági szolgálatnak az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat;
-
-## c) a miniszternek egyedileg vagy informatikai rendszerben biztosított közvetlen elérés útján az ágazati irányítással összefüggő feladatok ellátása, a miniszteri hatósági jogkör gyakorlása céljából a feladatok ellátásához szükséges valamennyi adat.

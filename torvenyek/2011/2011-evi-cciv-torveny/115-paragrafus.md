@@ -47,3 +47,5 @@ c)
 (18) A Kecskeméti Főiskola és a Szolnoki Főiskola összeolvadásával a Pallasz Athéné Egyetem 2016. július 1. napjától jön létre.
 
 (19) A Károly Róbert Főiskola és az Eszterházy Károly Főiskola összeolvadásával az Eszterházy Károly Egyetem 2016. július 1. napjától jön létre.
+
+(20) A Zsigmond Király Főiskola 2016. augusztus 1. napjától Zsigmond Király Egyetem megnevezéssel működik.
