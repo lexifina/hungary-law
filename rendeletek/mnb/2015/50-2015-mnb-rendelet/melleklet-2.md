@@ -116,7 +116,7 @@
 
 | 55 | K01 | Jelentés a nem pénzügyi vállalatok betéteinek és hiteleinek kamatlábáról | kijelölt hitelintézetek, az ezen típusú EGT-fióktelepek | egyedi elrendelés alapján, havi | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap 9. munkanap | MNB Statisztikai igazgatóság |
 
-| 56 | K02 | Napi jelentés a bankközi forinthitelek és forintbetétek kamatlábáról | bankok, szakosított hitelintézetek, az ezen típusú EGT-fióktelepek | napi | elektronikus úton (EBEAD rendszer) | tárgynapot követő munkanap 10 óra | MNB Statisztikai igazgatóság |
+| 56 | K02 | Napi jelentés a bankközi forinthitelek és forintbetétek kamatlábáról | bankok, szakosított hitelintézetek, az ezen típusú EGT-fióktelepek | napi | elektronikus úton (EBEAD rendszer) | tárgynapot követő munkanap 8:30 óra | MNB Statisztikai igazgatóság |
 
 | 57 | K03 | Jelentés a háztartások és a háztartásokat segítő nonprofit intézmények betéteinek és hiteleinek kamatlábáról, hitelköltség mutatójáról | kijelölt hitelintézetek, az ezen típusú EGT-fióktelepek | egyedi elrendelés alapján, havi | elektronikus úton (EBEAD rendszer) | tárgyidőszakot követő hónap 9. munkanap | MNB Statisztikai igazgatóság |
 
