@@ -1,13 +1,3 @@
-54/C. § (1) Az 54/A. §-tól eltérően Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: Állandó Képviselet) tartós külszolgálatra az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztérium kormánytisztviselője – ideértve az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselőt is – helyezhető ki diplomataként, szakdiplomataként. E személyeket a munkáltatói jogok gyakorlója helyezi ki az Állandó Képviseletre tartós külszolgálatra.
+54/C. § (1)–(6)
 
-(2) Az Állandó Képviseletre nem diplomataként, szakdiplomataként való kihelyezésre az 54/A. § rendelkezései az irányadók.
-
-(3) A tartós külszolgálat tervezett időtartama – megszakítás nélkül – a három hónapot meghaladja.
-
-(4) A kormánytisztviselő tartós külszolgálatra a hozzájárulásával helyezhető ki.
-
-(5) Nem kell a kormánytisztviselő beleegyezése a kinevezés módosításához, ha a munkakör megváltoztatását a tartós külszolgálatra történő kihelyezés visszavonása indokolja.
-
-(6) Ha a tartós külszolgálatra kihelyezés visszavonására vonatkozó döntés közlésétől számított öt napon belül a kormánytisztviselő írásban úgy nyilatkozik, hogy nem kíván a megváltoztatott feltételek szerint munkát végezni, nyilatkozatát lemondásnak kell tekinteni azzal, hogy a lemondási idő tartamára a munkavégzés alól mentesíteni kell. A lemondási időre járó illetmény összegének, valamint az egyéb kifizetések összegének meghatározása szempontjából a munkakör megváltoztatása előtti illetményt kell figyelembe venni.
-
-(7) Az Állandó Képviseletre diplomataként, szakdiplomataként tartós külszolgálatra való kihelyezés céljából az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumba kormánytisztviselőként kinevezett vagy az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselő felett a munkáltatói jogokat az európai uniós ügyek koordinációjáért felelős miniszter gyakorolja.
+(7) A Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: EU ÁK) diplomataként, szakdiplomataként tartós külszolgálatra való kihelyezés céljából az európai uniós ügyek koordinációjáért felelős miniszter által vezetett minisztériumba kormánytisztviselőként kinevezett vagy az ágazati szakmai feladat ellátására e szervhez meghatározott időre áthelyezett kormánytisztviselő, az EU ÁK-ra kihelyezésre kerülő további kormánytisztviselő és kormányzati ügykezelő felett a munkáltatói jogokat az európai uniós ügyek koordinációjáért felelős miniszter gyakorolja.
