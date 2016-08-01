@@ -42,9 +42,8 @@
 
 6. § (1) Az 50/2015. (XII. 9.) MNB rendelet
 
-a)[^1]
+a) 1. melléklet I. pontjában foglalt táblázat 56. sora szerinti, K02 MNB azonosító kódú adatszolgáltatás tekintetében az adatszolgáltatás határidejét meghatározó oszlopban a „10 óra” szövegrész helyébe a „8:30 óra” szöveg,
 
-b)–c)[^2]
+b)–c)[^1]
 
-[^1]: A 6. § (1) bekezdés a) pontja a 7. § (2) bekezdése alapján 2016. augusztus 1-jén lép hatályba.
-[^2]: A 6. § (1) bekezdés b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 6. § (1) bekezdés b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
