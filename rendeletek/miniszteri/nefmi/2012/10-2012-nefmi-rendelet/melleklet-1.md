@@ -1,6 +1,6 @@
-## 24. §[^7] Az egyes egészségbiztosítási, egészségügyi és szociális tárgyú miniszteri rendeletek módosításáról szóló 7/2015. (II. 2.) EMMI rendelettel megállapított 1., 2., 3., 4. és 8. mellékletben foglaltakat a 2015. január havi teljesítésektől kell alkalmazni.
+## 25. §[^8] Az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet és a gyógyító-megelőző ellátás jogcímén az Egészségbiztosítási Alap terhére finanszírozható homogén betegségcsoportok kódolási és besorolási szabályairól szóló 10/2012. (II. 28.) NEFMI rendelet módosításáról szóló 17/2016. (VII. 22.) EMMI rendelettel megállapított 1. mellékletben foglaltakat a 2016. augusztus havi teljesítmények elszámolásától kell alkalmazni.
 
-1. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^8]
+1. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^9]
 
-[^7]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 7/2015. (II. 2.) EMMI rendelet 6. §-a iktatta be.
-[^8]: Az 1. melléklet a 4/2014. (I. 20.) EMMI rendelet 6. § (1) bekezdésével megállapított, a 36/2014. (IV. 30.) EMMI rendelet 7. § (1) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^8]: A 25. §-t a 17/2016. (VII. 22.) EMMI rendelet 3. §-a iktatta be.
+[^9]: Az 1. melléklet a 17/2016. (VII. 22.) EMMI rendelet 4. §-ával megállapított szöveg.

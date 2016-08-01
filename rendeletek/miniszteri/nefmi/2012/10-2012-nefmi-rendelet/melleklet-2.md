@@ -1,6 +1,6 @@
-## 20122V20000010_3
+## 20122V20000010_4
 
-2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^9]
+2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^10]
 
 Az aktív fekvőbeteg-ellátás diagnózisainak és beavatkozásainak besorolási táblázatai
 
@@ -7548,14 +7548,4 @@ C0510 Lágy szájpad rosszindulatú daganata
 
 C0511 Lágy szájpad rosszindulatú daganata I. stádium
 
-C0512 Lágy szájpad rosszindulatú daganata II. stádium
-
-C0513 Lágy szájpad rosszindulatú daganata III. stádium
-
-C0514 Lágy szájpad rosszindulatú daganata IV. stádium
-
-C0520 Nyelvcsap rosszindulatú daganata
-
-C0521 Nyelvcsap rosszindulatú daganata I. stádium
-
-[^9]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 7. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 7. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 134. § a) pontja, az 59/2015. (XII. 30.) EMMI rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^10]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 7. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 7. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 134. § a) pontja, az 59/2015. (XII. 30.) EMMI rendelet 7. § (1) bekezdése szerint módosított szöveg.
