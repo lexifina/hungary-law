@@ -22,16 +22,16 @@ eb) legfeljebb negyvenöt fő lehet, ha a képző szerv a képzési időtartamon
 
 f) a képzésben résztvevők jelenléti nyilvántartásának rendjét.
 
-(3) A képzésben az vehet részt, aki
+(3)[^5] A képzésben az vehet részt, aki
 
 a) rendelkezik érettségi vizsgával,
 
-b) hitelintézetnél, pénzügyi vállalkozásnál, pénzforgalmi intézménynél, pénzügyi közvetítői tevékenységet folytató vállalkozásnál vagy hitelintézetek, pénzügyi vállalkozások, pénzügyi szolgáltatás közvetítők szakmai érdekvédelmi vagy érdek-képviseleti szervénél a jelentkezést megelőző hat éven belül legalább négy éves pénzügyi szakmai tapasztalatot szerzett,
+b) pénzügyi szolgáltatás közvetítői hatósági képzésre történő jelentkezés esetén hitelintézetnél, pénzügyi vállalkozásnál, pénzforgalmi intézménynél, pénzügyi közvetítői tevékenységet folytató vállalkozásnál, vagy ezen szervezetek szakmai érdekvédelmi vagy érdek-képviseleti szervénél, vagy az államigazgatás pénzügyi, illetve gazdasági területén a jelentkezést megelőző hat éven belül legalább négy éves pénzügyi szakmai tapasztalatot szerzett,
 
-c) biztosítónál, viszontbiztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, harmadik országban székhellyel rendelkező biztosításközvetítő magyarországi fióktelepénél vagy ezen szervezetek szakmai érdekvédelmi vagy érdek-képviseleti szervénél a jelentkezést megelőző hat éven belül legalább négy éves biztosításszakmai tapasztalatot szerzett,
+c) függő és független biztosításközvetítői hatósági képzésre történő jelentkezés esetén biztosítónál, viszontbiztosítónál, biztosításközvetítői tevékenységet folytató gazdálkodó szervezetnél, harmadik országban székhellyel rendelkező biztosításközvetítő magyarországi fióktelepénél, vagy ezen szervezetek szakmai érdekvédelmi vagy érdek-képviseleti szervénél, vagy az államigazgatás pénzügyi, illetve gazdasági területén a jelentkezést megelőző hat éven belül legalább négy éves biztosításszakmai tapasztalatot szerzett, vagy
 
-d) befektetési vállalkozásnál vagy befektetési alapkezelőnél a jelentkezést megelőző hat éven belül legalább négy éves befektetési szolgáltatási vagy tőkepiaci szakmai tapasztalatot szerzett, vagy
-
-e) az államigazgatás pénzügyi, illetve gazdasági területén a jelentkezést megelőző hat éven belül legalább négy éves pénzügyi szakmai, biztosításszakmai, befektetési szolgáltatási vagy tőkepiaci szakmai tapasztalatot szerzett.
+d) tőkepiaci üzletkötői hatósági képzésre történő jelentkezés esetén befektetési vállalkozásnál, befektetési alapkezelőnél, vagy ezen szervezetek szakmai érdekvédelmi vagy érdek-képviseleti szervénél, vagy az államigazgatás pénzügyi, illetve gazdasági területén a jelentkezést megelőző hat éven belül legalább négy éves befektetési szolgáltatási vagy tőkepiaci szakmai tapasztalatot szerzett.
 
 (4) A képzésen történő részvétel további feltétele, hogy a résztvevő a 7. § (1) bekezdés szerinti igazolás kiállítása céljából hozzájárul természetes személyazonosító- és lakcímadatai képző szerv általi kezeléséhez.
+
+[^5]: Az 5. § (3) bekezdése a 21/2016. (VI. 29.) NGM rendelet 11. §-ával megállapított szöveg.

@@ -8,8 +8,10 @@ a) hatósági képzéssel kapcsolatos sérelem esetén a képzésben részt vev�
 
 b) hatósági vizsgával kapcsolatos sérelem esetén a vizsgázó a vizsgadolgozatát megtekintette.
 
-(3) A vizsgázó a vizsgadolgozatát a vizsgaeredmény közlését követő tizenötödik napig tekintheti meg a Hatóságnál.
+(3)[^11] A vizsgázó a vizsgadolgozatát a vizsga napját követő tizenötödik napig tekintheti meg a Hatóságnál.
 
 (4) A képző szerv a kifogást – annak beérkezésétől számított nyolc napon belül – megküldi a Hatóságnak, kivéve, ha a képző szerv a kifogás tárgyát képező intézkedését visszavonja, vagy, ha a kifogásnak megfelelően jár el.
 
 (5) A Hatóság a kifogás beérkezésétől számított harminc napon belül a kifogást megvizsgálja, és annak eredményéről értesíti a kifogás előterjesztőjét.
+
+[^11]: A 19. § (3) bekezdése a 21/2016. (VI. 29.) NGM rendelet 20. § n) pontja szerint módosított szöveg.

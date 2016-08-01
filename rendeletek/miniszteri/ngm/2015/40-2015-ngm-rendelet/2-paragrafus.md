@@ -2,7 +2,7 @@
 
 2. § (1) Hatósági vizsgának és az arra felkészítő hatósági képzésnek az e rendelet feltételeinek megfelelő vizsga és képzés fogadható el.
 
-(2) A hatósági vizsga megkezdésének feltételeként olyan hatósági képzés teljesítése fogadható el, amelyet megvalósító képző szerv a felnőttképzésről szóló törvény alapján engedéllyel rendelkezik az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet [a továbbiakban: 150/2012. (VII. 6.) Korm. rendelet] 1. mellékletében szereplő,
+(2)[^1] A hatósági vizsga megkezdésének feltételeként – annak típusától függően – olyan pénzügyi szolgáltatás közvetítői, függő biztosításközvetítői, független biztosításközvetítői vagy tőkepiaci üzletkötői hatósági képzés teljesítése fogadható el, amelyet megvalósító képző szerv a felnőttképzésről szóló törvény alapján engedéllyel rendelkezik az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet [a továbbiakban: 150/2012. (VII. 6.) Korm. rendelet] 1. mellékletében szereplő,
 
 a) Adótanácsadó megnevezésű,
 
@@ -40,10 +40,12 @@ q) Szakképesített bankreferens megnevezésű, vagy
 
 r) Vállalkozási mérlegképes könyvelő megnevezésű
 
-## részszakképesítés, szakképesítés vagy szakképesítés-ráépülés (a továbbiakban együtt: szakképesítés) megszerzésére irányuló felnőttképzési tevékenység végzésére.
+## részszakképesítés, szakképesítés vagy szakképesítés-ráépülés (a továbbiakban együtt: szakképesítés) megszerzésére irányuló felnőttképzési tevékenység végzésére is.
 
 (3) A Hpt. 74. § (1) bekezdés c) pontja szerinti hatósági vizsga megkezdésének feltételeként – a (2) bekezdés szerinti képzésen túl – azon hatósági képzés teljesítése fogadható el, amelyet Magyarország területén pénzügyi szolgáltatási tevékenység végzésére jogosult intézmény a saját és vele egy csoportba tartozó társaságok munkavállalói, illetve közvetítői számára szervez.
 
 (4) A Bit. 369. § (3) bekezdés b) pontja és (6) bekezdése szerinti hatósági vizsga megkezdésének feltételeként – a (2) bekezdés szerinti képzésen túl – azon hatósági képzés teljesítése fogadható el, amelyet a Magyarország területén biztosítási tevékenység végzésére jogosult és biztosításközvetítői alapképzést végző biztosító szervez.
 
 (5) A Bszt. 22/B. § (1) bekezdés c) pontja szerinti hatósági vizsga megkezdésének feltételeként – a (2) bekezdés szerinti képzésen túl – azon hatósági képzés teljesítése fogadható el, amelyet Magyarország területén – a Bszt. 5. §-a értelmében – befektetési szolgáltatási tevékenység végzésére jogosult intézmény a saját és vele egy csoportba tartozó társaságok munkavállalói, illetve közvetítői számára szervez.
+
+[^1]: A 2. § (2) bekezdés nyitó szövegrésze a 21/2016. (VI. 29.) NGM rendelet 20. § b) pontja. záró szövegrésze a 21/2016. (VI. 29.) NGM rendelet 20. § c) pontja szerint módosított szöveg.
