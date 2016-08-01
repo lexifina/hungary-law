@@ -1,0 +1,9 @@
+# 225/2016. (VII. 29.) Korm. rendelet
+
+az alapvető biztonsági érdeket érintő beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-225-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-08-01 | 2016-225-20-22.1 | 225/2016. (VII. 29.) Korm. rendelet |

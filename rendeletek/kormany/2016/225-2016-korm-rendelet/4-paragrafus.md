@@ -1,0 +1,5 @@
+4. § (1) A Munkacsoport a mentesítési kérelmet és annak mellékleteit, valamint az előterjesztő miniszter által a mentesítés tárgyában készített előterjesztést megvizsgálja. Ha a mentesítési kérelem vagy az előterjesztés hiányos vagy nem egyértelmű, a Munkacsoport további kiegészítő információkat kérhet az ajánlatkérőtől vagy az előterjesztő minisztertől.
+
+(2) Egyetértése esetén a Munkacsoport a mentesítési kérelmet és annak mellékleteit, valamint a mentesítési kérelemben foglaltakról kialakított véleményét az előterjesztés kézhezvételétől számított 8 napon belül tájékoztatásul továbbítja a bizottságnak. A Munkacsoport véleményében javaslatot tesz a 2. § (2) bekezdése szerinti mentesítés megadása tárgyában. A Kormány irányítása alatt nem álló szervezet által benyújtott mentesítési kérelmet a Munkacsoport egyet nem értése esetén is indokolással ellátva továbbítja a bizottságnak.
+
+(3) A Munkacsoport vezetője a (2) bekezdés szerinti döntésről haladéktalanul tájékoztatja a Nemzetbiztonsági Kabinet vezetőjét és tagjait.
