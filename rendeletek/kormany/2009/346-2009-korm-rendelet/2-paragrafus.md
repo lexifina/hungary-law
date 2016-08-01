@@ -8,7 +8,7 @@
 
 (4)[^4] Az államháztartás vitele szempontjából központi gazdálkodás és ellátás keretében valósul meg a HM fejezetnél
 
-a)[^5] a honvédelmi szervezetek egyes pénzügyi és számviteli feladatainak ellátása, amely magában foglalja a 10. § szerinti költségvetési tervezést, a 17. § (1) bekezdése szerinti beszámolást, a finanszírozást, – a KNBSZ kivételével – a közbeszerzésekről szóló 2011. évi CVIII. törvény és az annak felhatalmazása alapján kiadott kormányrendeletek szerinti eltérő szabályok alapján végrehajtott beszerzések kötelezettségvállalásainak ellenjegyzését, valamint – a KNBSZ és az MH Egészségügyi Központ (a továbbiakban: MH EK) kivételével – a könyvvezetést, a kincstári előirányzat-felhasználási keretforgalom kezelését és bonyolítását;
+a)[^5] a honvédelmi szervezetek egyes pénzügyi és számviteli feladatainak ellátása, amely magában foglalja a 10. § szerinti költségvetési tervezést, a 17. § (1) bekezdése szerinti beszámolást, a finanszírozást, – a KNBSZ kivételével – a közbeszerzésekről szóló törvény és az annak felhatalmazása alapján kiadott kormányrendeletek, valamint a védelmi és biztonsági célú beszerzésekről szóló törvény szerinti eltérő szabályok alapján végrehajtott beszerzések kötelezettségvállalásainak ellenjegyzését, valamint – a KNBSZ és az MH Egészségügyi Központ (a továbbiakban: MH EK) kivételével – a könyvvezetést, a kincstári előirányzat-felhasználási keretforgalom kezelését és bonyolítását;
 
 b) a létszámgazdálkodás, ideértve a foglalkoztatottak létszámösszetételének és – a honvédelmi szervezet parancsnoka (vezetője) által meghatározott munkaidő keret kivételével – munkaidő-alapjának meghatározását is;
 
@@ -30,7 +30,7 @@ j)[^8]
 
 [^3]: A 2. § (2) bekezdése a 26/2015. (II. 25.) Korm. rendelet 18. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (4) bekezdés nyitó szövegrésze a 26/2015. (II. 25.) Korm. rendelet 18. § b) pontja szerint módosított szöveg.
-[^5]: A 2. § (4) bekezdés a) pontja a 89/2012. (IV. 26.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 26/2015. (II. 25.) Korm. rendelet 18. § c) pontja szerint módosított szöveg.
+[^5]: A 2. § (4) bekezdés a) pontja a 225/2016. (VII. 29.) Korm. rendelet 11. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 10. §-át.
 [^6]: A 2. § (4) bekezdés c) pontja a 26/2015. (II. 25.) Korm. rendelet 8. §-ával megállapított szöveg.
 [^7]: A 2. § (4) bekezdés e) pontja a 89/2012. (IV. 26.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
 [^8]: A 2. § (4) bekezdés j) pontját a 159/2011. (VIII. 11.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 89/2012. (IV. 26.) Korm. rendelet 10. § a) pontja.
