@@ -1,0 +1,15 @@
+31. § (1) A kihelyezett a tartós külszolgálatának időtartama alatt a kihelyezését megelőzően meglévő szabadságaival nem rendelkezhet. A tartós külszolgálat időtartamára járó alap- és pótszabadságot a kihelyezettnek tartós külszolgálata időtartama alatt igénybe kell vennie. A tartós külszolgálat kezdetét megelőzően fennálló szabadnapokat a kihelyező szervnek a tartós külszolgálat megszűnését követően, közvetlenül egybefüggően kell kiadnia. A kihelyező szerv szakdiplomaták esetében csak a tartós külszolgálat időtartama alatt keletkező, időarányos szabadságot adja ki.
+
+(2) A tartós külszolgálat idejére a kihelyezett részére a közszolgálati tisztviselőkről szóló törvény szerinti besorolása alapján, a tárgyévben időarányosan megállapított mennyiségű alap- és pótszabadság kerül megállapításra. A közszolgálati tisztviselőkről szóló törvényben foglaltaktól eltérően a külképviselet-vezetőt 10, helyettesét 5 nap pótszabadság illeti meg.
+
+(3) A (2) bekezdésen túl a kihelyezettet évente összesen
+
+a) Európán belüli állomáshely esetében két, Európán kívüli állomáshely esetében négy, Ausztrália és Óceánia esetében hat utazási nap, valamint
+
+b) állomáshelytől függetlenül két, egészségügyi vizsgálat céljából igénybe vehető szabadnap illeti meg.
+
+(4) A szabadság kiadásának időpontját – a kihelyezett előzetes meghallgatása után – az éves szabadságolási terv alapján a külképviselet-vezető határozza meg. A külképviselet-vezető tekintetében a szabadság kiadásának időpontját a kihelyező szerv határozza meg.
+
+(5) Az éves szabadságolási tervet – a kihelyezett igényének megismerése után – a külképviselet-vezető készíti el, amelyről a kihelyezettet tájékoztatja.
+
+(6) Ha a kihelyezett kormányzati szolgálati jogviszonya tartós külszolgálata időtartama alatt szűnik meg, számára a végkielégítés, továbbá a szabadságmegváltás összege a közszolgálati tisztviselőkről szóló törvény szerinti besorolása szerinti mértékben kerül megállapításra.

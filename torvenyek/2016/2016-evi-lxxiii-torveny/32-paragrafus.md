@@ -1,0 +1,3 @@
+32. § (1) A külképviselet vezetője a tárgyévet megelőző három év teljesítményértékelése alapján a tárgyévre vonatkozóan javasolhatja a kihelyező vezetőnek a kihelyezett rangban történő előléptetését. A külképviselet vezetője kezdeményezheti továbbá a kihelyező vezetőnél a kihelyezett idő előtti végleges hazarendelését, ha a kihelyezett kihelyezés időtartama alatti minősítése átlag alatti teljesítményszintet ér el.
+
+(2) A kihelyező vezető az (1) bekezdésben foglaltak alapján mérlegelési jogkörben eljárva – szakdiplomata esetén a szakminiszterrel való egyeztetést követően – dönt a kihelyezett rangban történő előléptetése vagy idő előtti berendelése tárgyában.

@@ -1,0 +1,1 @@
+55. § A 35. §-t azzal az eltéréssel kell alkalmazni, hogy az EU ÁK külképviselet-vezetője az európai uniós ügyek koordinációjáért felelős miniszter engedélyével és az abban foglaltak feltételek szerinti vállalhat támogatást, adományt és más ellenérték nélküli kötelezettséget és teljesíthet kifizetést, a 35. §-ban foglalt egyéb szempontok betartása mellett.

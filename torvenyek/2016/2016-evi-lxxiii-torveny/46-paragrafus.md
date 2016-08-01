@@ -1,0 +1,1 @@
+46. § A 20. § (4) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK-ra kihelyezettek esetében a 20. § (3) bekezdés d) pontjában foglalt nemzetközi jogi ok fennállása tekintetében az európai uniós ügyek koordinációjáért felelős miniszter dönt.

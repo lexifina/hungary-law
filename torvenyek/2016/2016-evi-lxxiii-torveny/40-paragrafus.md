@@ -1,0 +1,3 @@
+40. § (1) A 7. § (1) bekezdésétől eltérően a képviselet-vezető COREPER II. nagykövet távollétében, vagy akadályoztatása esetén a COREPER I. nagykövet jár el. A COREPER I. nagykövet hiányában, távollétében, illetve akadályoztatása esetén helyettesként az EU ÁK Kül- és Biztonságpolitikai Hivatalát rendkívüli és meghatalmazott nagyköveti rangban vezető diplomatája jár el. Ha a COREPER II. nagykövet-munkakör átmenetileg nincs betöltve, a COREPER II. nagykövet jogkörében és feladatkörében – a kihelyező vezető eltérő utasítása hiányában – helyettesként a COREPER I. nagykövet jár el.
+
+(2) Az EU ÁK helyettesítési rendjének részletes szabályairól az EU ÁK szervezetére és működésére vonatkozó szabályok rendelkeznek.

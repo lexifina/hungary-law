@@ -1,0 +1,21 @@
+## ZÁRÓ RENDELKEZÉSEK
+
+## 20. Hatályba léptető és átmeneti rendelkezések
+
+58. § (1) E törvény – a (2) bekezdésben foglal kivétellel – 2016. augusztus 1-jén lép hatályba.
+
+(2) Az 1. § (1) bekezdés a) pontja és (2) bekezdése, a 23–26. §, a 18. alcím, a 58. § (4) bekezdése, a 59. § (2) bekezdés e)–f) és k) pontja, a 59. § (3) bekezdés c)–d) és f) pontja, a 63. §, a 64. § a) pont aa) alpontja, ac)–ae) alpontja és b) pontja, valamint az 1. és a 2. melléklet 2017. augusztus 1-jén lép hatályba.
+
+(3) E törvény rendelkezéseit a törvény hatálybalépésekor tartós külszolgálatot ellátó kormánytisztviselők és kormányzati ügykezelők esetében is alkalmazni kell.
+
+(4) Ha az e törvény szerint megállapított pénzbeli és nem pénzbeli juttatás és a jogviszonyból eredő egyéb jogosultságok a törvény hatálybalépésekor tartós külszolgálatát töltő kihelyezettre nézve kedvezőtlenebbek a kihelyezés időpontja szerint megállapított pénzbeli és nem pénzbeli juttatásainál és a jogviszonyból eredő egyéb jogosultságainál, akkor a folyamatban lévő tartós külszolgálatának befejezéséig a kihelyezett a kihelyezése időpontjában megállapított juttatásokra és a jogviszonyból eredő egyéb jogosultságokra jogosult.
+
+(5) A 14. § (2) bekezdés c) pontja szerinti feltételnek meg nem felelő diplomáciai vagy konzuli rangú kormánytisztviselőnek e törvény hatálybalépését követő két éven belül meg kell szereznie az előírt szintnek megfelelő nyelvvizsgát.
+
+(6) Az e törvény hatálybalépésekor munkaviszony keretében tartós külszolgálatot teljesítő kihelyezett tekintetében e törvény rendelkezéseit munkakörének megfelelően kell alkalmazni azzal, hogy jogviszonya nem alakul át kormányzati szolgálati jogviszonnyá.
+
+(7) A kihelyező vezető az EU ÁK kimagasló teljesítményt nyújtó, illetve jelentős diplomáciai vagy európai uniós szakmai tapasztalattal rendelkező diplomatája és szakdiplomatája részére 2017. július 31-ig személyi illetményt állapíthat meg.
+
+(8) A (7) bekezdés szerinti személyi illetmény bármikor visszavonható, ami nem minősül a kihelyező okirat módosításának.
+
+(9) Az EU ÁK diplomatája és szakdiplomatája részére – tevékenysége kiemelt jelentőségére, összetettségére tekintettel – állandó képviseleti devizapótlék fizethető.

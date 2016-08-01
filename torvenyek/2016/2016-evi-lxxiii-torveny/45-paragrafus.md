@@ -1,0 +1,1 @@
+45. § A 19. § (3) bekezdését azzal az eltéréssel kell alkalmazni, hogy az EU ÁK-ra kihelyezettek ideiglenes kiküldetésére vonatkozó szabályokat az európai uniós ügyek koordinációjáért felelős miniszter állapítja meg rendeletben.

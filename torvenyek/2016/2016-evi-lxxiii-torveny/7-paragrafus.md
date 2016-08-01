@@ -1,0 +1,7 @@
+7. § (1) Külképviselet-vezető távollétében vagy akadályoztatása esetén a külképviselet-vezető jogkörében és feladatkörében a külképviselet-vezető eltérő utasítása hiányában helyettesként az első beosztott diplomata, konzuli képviselet esetében az első beosztott konzul jár el. Ha a külképviselet-vezető munkaköre átmenetileg nincs betöltve, a külképviselet-vezető jogkörében és feladatkörében a kihelyező szerv hivatali szervezete vezetőjének eltérő utasítása hiányában helyettesként az első beosztott diplomata, konzuli képviselet esetében az első beosztott konzul jár el. A külképviselet-vezető helyettesére a külképviselet-vezetőre vonatkozó szabályok megfelelően alkalmazandóak.
+
+(2) Ha a külképviselet-vezető helyettese az (1) bekezdésben meghatározott helyettesítési rend alapján – váratlan, külső körülmények miatt – nem állapítható meg, az eljáró helyettest a kihelyező szerv hivatali szervezetének vezetője jelöli ki. A kijelölésig a külképviselet rangban soron következő diplomatája jár el.
+
+(3) A 3. § (1) bekezdése a) és b) pontja szerinti külképviselet külképviselet-vezetője a döntési jogkörébe tartozó ügyekre nézve – a (4) bekezdésben foglalt kivétellel – az első beosztott diplomatát, illetve az első beosztott konzult döntési jogkörrel ruházhatja fel.
+
+(4) Ha nemzetközi szerződés, nemzetközi szokásjogi szabály, jogszabály, közjogi szervezetszabályozó eszköz, protokolláris norma vagy a fogadó állam joga a külképviselet vezetőjének személyes eljárását írja elő, a külképviselet-vezető nem helyettesíthető.

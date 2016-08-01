@@ -1,0 +1,1 @@
+53. § A 26. § (2) bekezdését azzal az eltéréssel kell alkalmazni, hogy a (2) bekezdés a) pontja szerinti szabályokat az európai uniós ügyek koordinációjáért felelős miniszter állapítja meg rendeletben, illetve a (2) bekezdés b) pontja szerinti felülvizsgálatot az európai uniós ügyek koordinációjáért felelős miniszter végzi el.

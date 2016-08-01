@@ -1,0 +1,3 @@
+17. § (1) A tartós külszolgálat időtartama legfeljebb négy év. A tartós külszolgálat várható időtartamát a pályázati kiírásban meg kell jelölni. A pályázati kiírásban foglalt tájékoztatás tartalmazza különösen a kihelyezés várható kezdő időpontját és a tartós külszolgálat befejezésének naptári évét.
+
+(2) A kihelyező vezető – szakdiplomaták esetében a szakminiszter egyetértésével – a tartós külszolgálat (1) bekezdés szerint megállapított időtartamát hivatali érdekből, valamint különös méltánylást érdemlő ok miatt, a kihelyezett egyetértésével, egy alkalommal, legfeljebb egy évvel meghosszabbíthatja.

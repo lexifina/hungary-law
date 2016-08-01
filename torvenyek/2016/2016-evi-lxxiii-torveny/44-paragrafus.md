@@ -1,0 +1,1 @@
+44. § A 17. § (2) bekezdésétől eltérően, az EU ÁK-ra kihelyezettek esetében, a tartós külszolgálat megállapított időtartama hivatali érdekből, valamint különös méltánylást érdemlő ok miatt, a kihelyezett egyetértésével meghosszabbítható.
