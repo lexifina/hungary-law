@@ -1,1 +1,0 @@
-## A részvételi határidő
