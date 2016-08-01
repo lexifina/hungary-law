@@ -8,7 +8,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ)
 
-| ÖVTJ-kód 2015 | ÖVTJ 2015 megnevezés |
+| ÖVTJ-kód 2016 | ÖVTJ 2016 megnevezés |
 
 | 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
 
@@ -56,7 +56,9 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 0121 | Szőlőtermesztés |
 
-| 012101 | Szőlőtermesztés |
+| 012101 | Borszőlő termesztés |
+
+| 012103 | Csemegeszőlő termesztés |
 
 | 0122 | Trópusi gyümölcs termesztése |
 
@@ -88,7 +90,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 012802 | Gyógynövénytermesztés |
 
-| 012803 | Gyógyszeralapanyag-termesztés |
+| 012803 | Gyógyszergyártásban használt növények termesztése |
 
 | 0129 | Egyéb évelő növény termesztése |
 
@@ -106,9 +108,11 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 013002 | Dísznövényszaporítóanyag-termesztés |
 
-| 013003 | Gyümölcs-, szőlő-, díszfaiskola |
+| 013003 | Gyümölcs-, díszfaiskola |
 
 | 013004 | Egyéb kertészeti szaporítóanyag termesztése |
+
+| 013005 | Szőlő szaporítóanyag termesztése (szőlőiskola) |
 
 | 014 | Állattenyésztés |
 
@@ -166,7 +170,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 016102 | Növénytermesztési szolgáltatás kézi erővel |
 
-| 016103 | Mezőgazdasági kártevőírtás |
+| 016103 | Mezőgazdasági kártevőirtás |
 
 | 016104 | Beporzási szolgáltatás |
 
@@ -244,7 +248,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 032101 | Tengeri halgazdálkodás |
 
-| 0322 | Édesvízihal-gazdálkodás |
+| 0322 | Édesvízi halgazdálkodás |
 
 | 032201 | Édesvízi halgazdálkodás |
 
@@ -406,6 +410,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 103204 | Gyümölcslé gyártása (saját termelésű alapanyagból) |
 
+| 103205 | Szőlőlé gyártása (nem saját termelésű alapanyagból) |
+
 | 1039 | Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás |
 
 | 103901 | Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás m.n.s. |
@@ -418,7 +424,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 103905 | Pattogatottkukorica-, pirítottnapraforgómag-készítés (saját termelésű alapanyagból) |
 
-| 103910 | Egyéb zöldségfeldolgozás, -tartósítás (saját termelésű alapanyagból) |
+| 103910 | Egyéb gyümölcs-, zöldségfeldolgozás, -tartósítás (saját termelésű alapanyagból) |
 
 | 104 | Növényi, állati olaj gyártása |
 
@@ -570,7 +576,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 1104 | Egyéb nem desztillált, erjesztett ital gyártása |
 
-| 110401 | Egyéb nem desztilált, erjeszett ital gyártása (nem saját termelésű alapanyagból) |
+| 110401 | Egyéb nem desztillált, erjesztett ital gyártása (nem saját termelésű alapanyagból) |
 
 | 110402 | Egyéb nem desztillált, erjesztett ital gyártása (saját termelésű alapanyagból) |
 
@@ -1010,13 +1016,19 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 2110 | Gyógyszeralapanyag-gyártás |
 
-| 211001 | Gyógyszeralapanyag-gyártás |
+| 211001 | Gyógyszer-hatóanyag gyártás |
+
+| 211002 | Gyógyszer-segédanyag gyártás |
+
+| 211003 | Gyógyszeranyag gyártás |
 
 | 212 | Gyógyszerkészítmény gyártása |
 
 | 2120 | Gyógyszerkészítmény gyártása |
 
-| 212001 | Gyógyszerkészítmény gyártása |
+| 212001 | Gyógyszergyártás |
+
+| 212002 | Gyógyászati felhasználású anyagok gyártása |
 
 | 22 | Gumi-, műanyag termék gyártása |
 
@@ -1090,7 +1102,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 231903 | Egyéb üvegtermék, -dísztárgy-készítés |
 
-| 231904 | Gravírozás, festés műszaki, egyéb üvegre bérmunkában |
+| 231904 | Gravírozás, festés műszaki, egyéb üvegre |
 
 | 231906 | Műszaki üveg csiszolása |
 
@@ -1337,6 +1349,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 257101 | Evőeszköz gyártása |
 
 | 257102 | Népi iparművészeti és iparművészeti kés készítés |
+
+| 257103 | Egyéb vágóeszköz gyártása |
 
 | 2572 | Lakat-, zárgyártás |
 
@@ -1668,7 +1682,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 309201 | Kerékpár gyártása |
 
-| 309202 | Mozgássérültek kocsijának gyártása |
+| 309202 | Kerekesszék gyártása |
 
 | 3099 | M.n.s. egyéb jármű gyártása |
 
@@ -1756,13 +1770,13 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 3250 | Orvosi eszköz gyártása |
 
-| 325001 | Egyéb orvosi műszer gyártása m.n.s. |
+| 325001 | Egyéb orvosi eszköz gyártása m.n.s. |
 
 | 325002 | Gyógyászati segédeszköz gyártása |
 
-| 325003 | Fogműves, fogtechnikus |
+| 325003 | Fogtechnikai eszköz gyártása |
 
-| 325004 | Gyógyászati segédeszköz gyártása (egészségügyi szolgáltatásként) |
+| 325004 | Egyedi gyógyászati segédeszköz gyártása és értékesítése |
 
 | 329 | M.n.s. egyéb feldolgozóipari tevékenység |
 
@@ -1772,11 +1786,11 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 3299 | Egyéb m.n.s feldolgozóipari tevékenység |
 
-| 329901 | Egyéb vegyes jellegű ipari termék gyártása m.n.s. |
+| 329901 | Egyéb m.n.s. feldolgozóipari tevékenység |
 
 | 329902 | Koporsókészítés |
 
-| 329903 | Védő-és biztonsági felszerelések gyártása |
+| 329903 | Védő- és biztonsági felszerelések gyártása |
 
 | 329904 | Ernyőkészítés |
 
@@ -1920,7 +1934,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 331701 | Vasúti, kötöttpályás jármű javítása |
 
-| 331702 | Mozgássérültek kocsijának javítása |
+| 331702 | Kerekesszék javítása |
 
 | 331703 | Nem gépi meghajtású egyéb jármű javítása |
 
@@ -2118,7 +2132,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 3900 | Szennyeződésmentesítés, egyéb hulladékkezelés |
 
-| 390001 | Szennyeződésmentesítés, egyéb hulladékkezelés m.n.s. |
+| 390001 | Szennyeződésmentesítés, egyéb hulladékkezelés m.n.s |
 
 | 390002 | Területtisztítás |
 
@@ -2134,7 +2148,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 4120 | Lakó- és nem lakó épület építése |
 
-| 412001 | Épületfelújítási munkák |
+| 412001 | Épületszerkezet felújítás |
 
 | 412002 | Lakó- és nem lakóépület kivitelezése |
 
@@ -2500,6 +2514,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 461801 | Egyéb termék ügynöki nagykereskedelme m.n.s. |
 
+| 461802 | Gyógyszerközvetítés |
+
 | 4619 | Vegyes termékkörű ügynöki nagykereskedelem |
 
 | 461901 | Vegyes termékkörű ügynöki nagykereskedelem m.n.s. |
@@ -2548,6 +2564,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 463102 | Zöldség-, gyümölcs-külkereskedelem |
 
+| 463103 | Borszőlő nagykereskedelme |
+
 | 4632 | Hús-, húskészítmény nagykereskedelme |
 
 | 463201 | Hús-, húskészítmény nagykereskedelme m.n.s. |
@@ -2565,6 +2583,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 463401 | Ital nagykereskedelme m.n.s. |
 
 | 463402 | Ital külkereskedelme |
+
+| 463403 | Szőlőbor nagykereskedelme |
 
 | 4635 | Dohányáru nagykereskedelme |
 
@@ -2646,7 +2666,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 464602 | Gyógyászati termék nagykereskedelme |
 
-| 464603 | Gyógyszer, gyógyászati termék külkereskedelme |
+| 464603 | Gyógyászati termék külkereskedelme |
 
 | 4647 | Bútor, szőnyeg, világítóberendezés nagykereskedelme |
 
@@ -2782,7 +2802,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 467602 | Egyéb termelési célú termék külkereskedelme |
 
-| 467603 | Műanyag alapanyag, gumi nagykereskedelme |
+| 467603 | Műanyag és gumi alapanyag nagykereskedelme |
 
 | 4677 | Hulladék-nagykereskedelem |
 
@@ -2834,7 +2854,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 4723 | Hal kiskereskedelme |
 
-| 472301 | Hal-kiskereskedelem m.n.s. |
+| 472301 | Hal kiskereskedelme m.n.s. |
 
 | 4724 | Kenyér-, pékáru-, édesség-kiskereskedelem |
 
@@ -2845,6 +2865,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 4725 | Ital-kiskereskedelem |
 
 | 472501 | Ital-kiskereskedelem m.n.s. |
+
+| 472502 | Szőlőbor kiskereskedelme |
 
 | 4726 | Dohányáru-kiskereskedelem |
 
@@ -2926,7 +2948,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 4759 | Bútor, világítási eszköz, egyéb háztartási cikk kiskereskedelme |
 
-| 475901 | Egyéb háztartási termék kiskereskedelem m.n.s. |
+| 475901 | Egyéb háztartási termék kiskereskedelem m.n.s |
 
 | 475902 | Finomacéláru kiskereskedelem |
 
@@ -2946,7 +2968,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 475910 | Zenemű (kotta)-kiskereskedelem |
 
-| 475911 | Irodabútor kiskereskdeleme |
+| 475911 | Irodabútor kiskereskedelme |
 
 | 475912 | Népművészeti bútor és díszműáru kiskereskedelem |
 
@@ -3014,7 +3036,9 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 4774 | Gyógyászati termék kiskereskedelme |
 
-| 477401 | Gyógyászati termék kiskereskedelme m.n.s. |
+| 477401 | Gyógyászati segédeszköz kiskereskedelme (egészségügyi szolgáltatásként) |
+
+| 477402 | Egyéb gyógyászati termék kiskereskedelme |
 
 | 4775 | Illatszer-kiskereskedelem |
 
@@ -3092,8 +3116,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 4779 | Használtcikk bolti kiskereskedelme |
 
-| 477901 | Egyéb használtcikk-kiskereskedelem |
-
 | 477902 | Használtruha-, lábbeli-kiskereskedelem |
 
 | 477903 | Használtbútor kiskereskedelem |
@@ -3154,15 +3176,17 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 493203 | Személygépkocsival nem menetrendszerű személyszállításként végzett taxis gépjárművezetői szolgáltatás engedélyes közúti közlekedési szolgáltató részére |
 
-| 493204 | Személygépjármű kölcsönzése vezetővel |
+| 493205 | Személygépkocsis személyszállító szolgáltatás |
+
+| 493206 | Önálló diszpécser szolgálat |
 
 | 4939 | M.n.s. egyéb szárazföldi személyszállítás |
 
 | 493901 | Egyéb m.n.s. szárazföldi személyszállítás |
 
-| 493903 | Nem mentrendszerű közúti távolsági személyszállítás |
+| 493903 | Nem menetrend szerinti autóbuszos közúti személyszállítás |
 
-| 493904 | Személyszállítás konflissal |
+| 493904 | Személyszállítás emberi vagy állati vontatású járművel |
 
 | 493905 | Autóbusszal végzett menetrend szerinti távolsági személyszállítás |
 
@@ -3173,6 +3197,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 493908 | Személygépkocsival nem menetrendszerű személyszállításként végzett személygépkocsis személyszállító gépjárművezetői szolgáltatás engedélyes közúti közlekedési szolgáltató részére |
 
 | 493909 | Sofőrszolgálat |
+
+| 493910 | Különcélú menetrend szerinti közúti személyszállítás |
 
 | 494 | Közúti áruszállítás, költöztetés |
 
@@ -3304,6 +3330,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 522903 | Egyéb szállítást kiegészítő szolgáltatás |
 
+| 53 | Postai, futárpostai tevékenység |
+
 | 532 | Egyéb postai, futárpostai tevékenység |
 
 | 5320 | Egyéb postai, futárpostai tevékenység |
@@ -3371,6 +3399,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 5590 | Egyéb szálláshely-szolgáltatás |
 
 | 559001 | Nem üdülési, nem turisztikai egyéb szálláshely-szolgáltatás |
+
+| 559007 | Szoba bérbeadása |
 
 | 56 | Vendéglátás |
 
@@ -3642,8 +3672,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 662901 | Biztosítási állomány kezelése, adminisztrációja |
 
-| 662902 | Biztosítási szaktanácsadás |
-
 | 68 | Ingatlanügyletek |
 
 | 681 | Saját tulajdonú ingatlan adásvétele |
@@ -3658,7 +3686,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 6820 | Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése |
 
-| 682001 | Lakásbérbeadás, albérlet |
+| 682001 | Lakóingatlan bérbeadás |
 
 | 682002 | Gazdasági építmény bérbeadása |
 
@@ -3754,7 +3782,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 71 | Építészmérnöki tevékenység; műszaki vizsgálat, elemzés |
 
-| 711 | Építészmérnöki tevékenység; műszaki vizsgálat, elemzés |
+| 711 | Építészmérnöki tevékenység; műszaki tanácsadás |
 
 | 7111 | Építészmérnöki tevékenység |
 
@@ -3910,7 +3938,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 749004 | Becsüs (kivéve: ingatlan-, biztosításikár-szakértés) |
 
-| 749005 | Mezőgazdasági, vadgazdálkodási, erdőgazdálkodási szakmai tervezés, szakértés |
+| 749005 | Mezőgazdasági, vadgazdálkodási szakmai tervezés, szakértés |
 
 | 749007 | Kereskedelmi, szálláshely-szolgáltatási, vendéglátási, szállítási, raktározási, postai, távközlési szakmai tervezés, szakértés |
 
@@ -4180,7 +4208,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 812902 | Egyéb tisztítás |
 
-| 812904 | Egészségügyi kártevők elleni védekezés (rovar- és rágcsálóírtás) |
+| 812904 | Egészségügyi kártevők elleni védekezés (rovar- és rágcsálóirtás) |
 
 | 812905 | Köz- és egyéb területek tisztítása, hó- és jégmentesítése |
 
@@ -4216,11 +4244,11 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 8230 | Konferencia, kereskedelmi bemutató szervezése |
 
-| 823001 | Kiállítás-, vásár-, kongresszusszervezés (kivéve: tudományos rendezvény) |
-
-| 823002 | Tudományos rendezvények lebonyolítása |
+| 823001 | Kereskedelmi bemutató, vásár szervezése |
 
 | 823003 | Falusi rendezvények szervezése, szálláshely-szolgáltatás nélkül |
+
+| 823004 | Konferencia-, kongresszusszervezés |
 
 | 829 | Egyéb kiegészítő gazdasági tevékenység |
 
@@ -4294,7 +4322,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 854101 | Felső szintű, nem felsőfokú oktatás m.n.s. |
 
-| 854102 | Szakmai képzési célú felnőttképzés |
+| 854102 | Érettségire épülő szakmai felnőttképzés |
 
 | 8542 | Felsőfokú oktatás |
 
@@ -4356,17 +4384,15 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 8610 | Fekvőbeteg-ellátás |
 
-| 861001 | Fekvőbeteg gyógyintézet működtetése |
+| 861001 | Szakorvosi tevékenység fekvőbeteg-ellátásban |
 
-| 861002 | Szabad foglalkozású szakorvosi egészségügyi tevékenység fekvőbeteg-ellátásban |
+| 861002 | Szabadfoglalkozású szakorvosi tevékenység fekvőbeteg-ellátásban |
 
-| 861003 | Kórboncnoki tevékenység |
+| 861005 | Hospice ellátás a fekvőbeteg gyógyintézeti szakellátásban |
 
-| 861004 | Klinikai szakpszichológia |
+| 861006 | Szabadfoglalkozású szakdolgozói (nem orvosi) egészségügyi tevékenység fekvőbeteg-szakellátásban |
 
-| 861005 | Hospice ellátás a fekvőbeteg gyógyintézeti ellátásban |
-
-| 861006 | Szabad foglalkozású szakdolgozói (nem orvosi) egészségügyi tevékenység fekvőbeteg-ellátásban |
+| 861007 | Szakdolgozói fekvőbeteg szakellátás |
 
 | 862 | Járóbeteg-ellátás, fogorvosi ellátás |
 
@@ -4374,15 +4400,13 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 862101 | Egészségügyi alapellátás |
 
-| 862102 | Szabad foglalkozású általános egészségügyi tevékenység járóbeteg-ellátásban |
+| 862102 | Szabadfoglalkozású orvosi tevékenység alapellátásban |
 
 | 8622 | Szakorvosi járóbeteg-ellátás |
 
-| 862201 | Szakorvosi járóbeteg-ellátás m.n.s. |
+| 862201 | Szakorvosi tevékenység járóbeteg-ellátásban |
 
-| 862202 | Szabad foglalkozású szakorvosi egészségügyi tevékenység járóbeteg-ellátásban |
-
-| 862203 | Pszichológiai szolgáltatás egészségügyi szakellátásként |
+| 862202 | Szabadfoglalkozású szakorvosi tevékenység járóbeteg-ellátásban |
 
 | 8623 | Fogorvosi járóbeteg-ellátás |
 
@@ -4398,7 +4422,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 869002 | Gyógyszerész (nem saját gyógyszertárban) |
 
-| 869003 | Szabad foglalkozású egészségügyi tevékenység egyéb humán-egészségügyi ellátásban (kivéve: orvosok, fogorvosok) |
+| 869003 | Szabadfoglalkozású tevékenység egészségügyi ellátásban |
 
 | 869004 | Védőnői és ápolói szolgáltatás |
 
@@ -4407,8 +4431,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 869006 | Mentál-egészségügyi ellátás |
 
 | 869007 | Mentál-egészségügyi ellátás (nem egészségügyi szolgáltatásként) |
-
-| 869008 | Laboratórium működtetése |
 
 | 869009 | Hospice ellátás a beteg otthonában |
 
@@ -4824,7 +4846,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 960208 | Kozmetika, szépségápolás az ügyfél otthonában |
 
-| 960209 | Kéz­ és lábápolás az ügyfél otthonában |
+| 960209 | Kéz-­ és lábápolás az ügyfél otthonában |
 
 | 9603 | Temetkezés, temetkezést kiegészítő szolgáltatás |
 
@@ -4884,4 +4906,4 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 990001 | Külföldi képviseletet ellátó személy |
 
-[^2]: A melléklet a 10/2015. (II. 27.) MvM rendelet 1. §-ával megállapított szöveg.
+[^2]: A Melléklet a 22/2016. (VII. 28.) MvM rendelet 1. §-ával megállapított szöveg.
