@@ -1,35 +1,34 @@
-## 19. §[^10]
+## 19. §[^7]
 
 ## 20. § A 40/2015. (XII. 30.) NGM rendelet
 
-a)[^11]
+a)[^8]
 
-b)–d)[^12]
+b) 2. § (2) bekezdés nyitó szövegrészében a „feltételeként olyan hatósági képzés” szövegrész helyébe a „feltételeként – annak típusától függően – olyan pénzügyi szolgáltatás közvetítői, függő biztosításközvetítői, független biztosításközvetítői vagy tőkepiaci üzletkötői hatósági képzés” szöveg,
 
-e)–f)[^13]
+c) 2. § (2) bekezdés záró szövegrészében a „végzésére” szövegrész helyébe a „végzésére is” szöveg,
 
-g)[^14]
+d) 3. § (1) bekezdés b) pontjában a „kiállítására jogosult személyeket,” szövegrész helyébe a „kiállítására és aláírására jogosult személyeket, valamint közli a Hatóság által nyilvántartásba veendő személyes adataikat,” szöveg,
 
-h)[^15]
+e)–f)[^9]
 
-i)[^16]
+g) 3. § (2) bekezdésében az „adatok” szövegrész helyébe az „adatai” szöveg,
 
-j)[^17]
+h)[^10]
 
-k)–l)[^18]
+i) 12. § (1) bekezdés nyitó szövegrészében az „az a vizsgabiztos bízható meg, aki vállalja,” szövegrész helyébe az „az a vizsgabiztos bízható meg, aki hozzájárul neve, valamint telefonos és elektronikus elérhetősége képző szervek felé történő – Hatóság általi – továbbításához, továbbá vállalja,” szöveg,
 
-m)[^19]
+j)[^11]
 
-n)[^20]
+k) 14. § (1) bekezdésében a „tíz munkanappal” szövegrész helyébe a „tíz nappal” szöveg,
 
-[^10]: A 19. § a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
-[^11]: A 20. § a) pontja a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
-[^12]: A 20. § b)–d) pontja a 21. § (3) bekezdése alapján 2016. augusztus 1-jén lép hatályba.
-[^13]: A 20. § e)–f) pontja a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
-[^14]: A 20. § g) pontja a 21. § (3) bekezdése alapján 2016. augusztus 1-jén lép hatályba.
-[^15]: A 20. § h) pontja a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
-[^16]: A 20. § i) pontja a 21. § (3) bekezdése alapján 2016. augusztus 1-jén lép hatályba.
-[^17]: A 20. § j) pontja a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
-[^18]: A 20. § k)–l) pontja a 21. § (3) bekezdése alapján 2016. augusztus 1-jén lép hatályba.
-[^19]: A 20. § m) pontja a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
-[^20]: A 20. § n) pontja a 21. § (3) bekezdése alapján 2016. augusztus 1-jén lép hatályba.
+m)[^12]
+
+n) 19. § (3) bekezdésében a „vizsgaeredmény közlését” szövegrész helyébe a „vizsga napját” szöveg
+
+[^7]: A 19. § a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
+[^8]: A 20. § a) pontja a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
+[^9]: A 20. § e)–f) pontja a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
+[^10]: A 20. § h) pontja a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
+[^11]: A 20. § j) pontja a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
+[^12]: A 20. § m) pontja a 21. § (5) bekezdése alapján 2017. július 1-jén lép hatályba.
