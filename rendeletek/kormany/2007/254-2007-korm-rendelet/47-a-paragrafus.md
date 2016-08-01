@@ -1,4 +1,4 @@
-## Elektronikus árverés[^177]
+## Elektronikus árverés[^175]
 
 ## Az elektronikus aukciós rendszer működésének általános szabályai
 
@@ -14,4 +14,4 @@
 
 (6) Az EAR működtetésének felügyeletét a miniszter látja el.
 
-[^177]: Az „Elektronikus árverés” alcímet (47/A–47/O. §) a 244/2015. (IX. 8.) Korm. rendelet 10. §-a iktatta be.
+[^175]: Az „Elektronikus árverés” alcímet (47/A–47/O. §) a 244/2015. (IX. 8.) Korm. rendelet 10. §-a iktatta be.

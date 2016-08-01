@@ -2,22 +2,18 @@
 
 ## Pályázat
 
-28. §[^140] (1)[^141]
+28. §[^140] (1) Az állami vagyon értékesítésére irányuló pályáztatást a kiírónak – a 29. §-ban meghatározott kivételektől eltekintve – nyilvános eljárással kell lebonyolítani.
 
-(2)[^142] Az állami vagyon értékesítésére irányuló pályáztatást a kiírónak – a 29. §-ban meghatározott kivételektől eltekintve – nyilvános eljárással kell lebonyolítani.
+(2) Állami vagyon értékesítésére irányuló pályázatnak minősül az építési beruházásra, árubeszerzésre, illetve szolgáltatás megrendelésére irányuló közbeszerzési, a közbeszerzésekről szóló 2015. évi CXLIII. törvény (a továbbiakban: Kbt.) 198. § (1) bekezdés 18. pontjában foglalt felhatalmazás alapján kiadott kormányrendeletben szabályozott beszerzési eljárás (a továbbiakban együtt: közbeszerzési eljárás), valamint a védelmi és biztonsági célú beszerzésekről szóló 2016. évi XXX. törvény (a továbbiakban: Vbt.) hatálya alá tartozó beszerzési eljárás (a továbbiakban: Vbt. szerinti beszerzési eljárás) is, amelyben a megrendelendő beruházás, áru, illetve szolgáltatás ellenértékét részben vagy egészben állami vagyonba tartozó – a beruházással, árubeszerzéssel, illetve szolgáltatásnyújtással egyébként nem érintett – ingó vagy ingatlan vagyonelem tulajdonjogának átruházása képezi.
 
-(3) Állami vagyon értékesítésére irányuló pályázatnak minősül az építési beruházásra, árubeszerzésre, illetve szolgáltatásnyújtás igénybevételére irányuló közbeszerzési és a közbeszerzésekről szóló 2011. évi CVIII. törvény (a továbbiakban: Kbt.) 182. § (1) bekezdés 12–14. pontjában foglalt felhatalmazás alapján kiadott kormányrendeletben szabályozott beszerzési eljárás (a továbbiakban együtt: közbeszerzési eljárás) is, amelyben a megrendelendő beruházás, áru, illetve szolgáltatás ellenértékét részben vagy egészben állami vagyonba tartozó – a beruházással, árubeszerzéssel, illetve szolgáltatásnyújtással egyébként nem érintett – ingó vagy ingatlan vagyonelem tulajdonjogának átruházása képezi.
+(3) A közbeszerzési eljárás vagy a Vbt. szerinti beszerzési eljárás megindítására akkor van lehetőség, ha az érintett állami vagyonelem értékesítéséről az arra jogosult a döntést meghozta. A közbeszerzési eljárás vagy a Vbt. szerinti beszerzési eljárás indítására a tulajdonosi joggyakorló vagy az a szerv jogosult, amely a 26. § (2) bekezdése szerinti megbízással rendelkezik.
 
-(4) A közbeszerzési eljárás megindítására akkor van lehetőség, ha az érintett állami vagyonelem értékesítéséről az arra jogosult a döntést meghozta. A közbeszerzési eljárás indítására a tulajdonosi joggyakorló vagy az a szerv jogosult, amely a 26. § (2) bekezdése szerinti megbízással rendelkezik.
+(4) A közbeszerzési eljárást, illetve a Vbt. szerinti beszerzési eljárást megindító hirdetményben rögzíteni kell, hogy az ajánlattevő ajánlatában köteles megjelölni
 
-(5) A közbeszerzési eljárást megindító hirdetményben rögzíteni kell, hogy az ajánlattevő ajánlatában köteles megjelölni
-
-a) az építési beruházás (árubeszerzés, szolgáltatásnyújtás) ellenszolgáltatásának teljes értékét, valamint
+a) az építési beruházás, árubeszerzés vagy szolgáltatásnyújtás ellenszolgáltatásának teljes értékét, valamint
 
 b) azt az összeget, amellyel az a) pontban szereplő értéket – az állami vagyonba tartozó vagyonelem tulajdonjogának átruházása miatt – csökkenti (beszámítási érték).
 
-(6) A közbeszerzési eljárás során benyújtott ajánlatok – a Kbt. 71. § (2) bekezdés a) vagy b) pontja szerinti bírálati szempont alapján történő – elbírálása során az ellenszolgáltatás meghatározása az (5) bekezdés a) és b) pontjában szereplő értékek egyenlegét alapul véve történik. A nyertes ajánlattevővel kötött szerződésnek biztosítania kell, hogy az állami vagyonba tartozó vagyonelem tulajdonjoga a nyertes ajánlattevőre csak akkor száll át, ha a közbeszerzés eredményeként létrejött épület, szállított áru birtokba adása és az épület tulajdonjogának az állam javára való jogerős bejegyzése, valamint a szolgáltatás szerződésszerű teljesítése megtörtént.
+(5) A közbeszerzési eljárás során benyújtott ajánlatok a Kbt. 76. § (2) bekezdés a), b) vagy c) pontja szerinti értékelési szempont vagy a Vbt. szerinti beszerzési eljárás során benyújtott ajánlatok a Vbt. 61. § (2) bekezdés a) vagy b) pontja szerinti értékelési szempont alapján történő értékelése során az ellenszolgáltatás meghatározása a (4) bekezdés a) és b) pontjában szereplő értékek egyenlegét alapul véve történik. A nyertes ajánlattevővel kötött szerződésnek biztosítania kell, hogy az állami vagyonba tartozó vagyonelem tulajdonjoga a nyertes ajánlattevőre csak akkor száll át, ha a közbeszerzési eljárás vagy a Vbt. szerinti beszerzési eljárás eredményeként létrejött épület, szállított áru birtokba adása és az épület tulajdonjogának az állam javára való jogerős bejegyzése, valamint a szolgáltatás szerződésszerű teljesítése megtörtént.
 
-[^140]: A 28. § a 77/2014. (III. 14.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^141]: A 28. § (1) bekezdését a 244/2015. (IX. 8.) Korm. rendelet 14. §-a hatályon kívül helyezte.
-[^142]: A 28. § (2) bekezdése a 244/2015. (IX. 8.) Korm. rendelet 13. § i) pontja szerint módosított szöveg.
+[^140]: A 28. § a 226/2016. (VII. 29.) 3. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 4. § (2)–(3) bekezdését.
