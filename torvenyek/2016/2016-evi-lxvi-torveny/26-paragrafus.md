@@ -12,7 +12,7 @@
 
 20–23.
 
-24.
+24. 72. § (4) bekezdés f) pontjában az „a lakáscélú támogatásokról szóló jogszabályban meghatározott,” szövegrész helyébe az „az 1. számú melléklet 9. pont 9.3. alpont 9.3.4. pontjában meghatározott” szöveg, az „a lakáscélú állami támogatásokról szóló kormányrendeletben” szövegrész helyébe az „az 1. számú melléklet 9. pont 9.3 alpont 9.3.4. pontjában” szöveg;
 
 25.
 
