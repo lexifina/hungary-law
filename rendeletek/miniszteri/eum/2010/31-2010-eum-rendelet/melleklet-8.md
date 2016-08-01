@@ -1,4 +1,4 @@
-8. melléklet a 31/2010. (V. 13.) EüM rendelethez[^15]
+8. melléklet a 31/2010. (V. 13.) EüM rendelethez[^16]
 
 ## A felnőttkori fisztulázó Crohn-betegség diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -390,4 +390,4 @@ ATC: Anatomical Therapeutic Chemical klasszifikáció
 
 BNO: Betegségek nemzetközi osztályozása
 
-[^15]: A 8. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (6) bekezdésével megállapított szöveg.
+[^16]: A 8. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (6) bekezdésével megállapított szöveg.

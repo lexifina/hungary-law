@@ -1,4 +1,4 @@
-10. melléklet a 31/2010. (V. 13.) EüM rendelethez[^17]
+10. melléklet a 31/2010. (V. 13.) EüM rendelethez[^18]
 
 ## A plakkos psoriasis diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -234,4 +234,4 @@ A biológiai terápia során az alkalmazott gyógyszerkészítmények alkalmazá
 
 8. A finanszírozás szempontjából lényeges finanszírozási kódok
 
-[^17]: A 10. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (8) bekezdésével megállapított szöveg.
+[^18]: A 10. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (8) bekezdésével megállapított szöveg.

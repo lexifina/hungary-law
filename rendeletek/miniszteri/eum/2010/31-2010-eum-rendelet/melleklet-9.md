@@ -1,4 +1,4 @@
-9. melléklet a 31/2010. (V. 13.) EüM rendelethez[^16]
+9. melléklet a 31/2010. (V. 13.) EüM rendelethez[^17]
 
 ## A colitis ulcerosa diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -218,4 +218,4 @@ ATC: Anatomical Therapeutic Chemical klasszifikáció
 
 BNO: Betegségek nemzetközi osztályozása
 
-[^16]: A 9. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (7) bekezdésével megállapított szöveg.
+[^17]: A 9. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (7) bekezdésével megállapított szöveg.

@@ -514,7 +514,7 @@
 
 ## HCC: HepatoCelluláris Carcinoma
 
-7. melléklet a 31/2010. (V. 13.) EüM rendelethez[^13][^14]
+7. melléklet a 31/2010. (V. 13.) EüM rendelethez[^14][^15]
 
 ## A felnőttkori luminális Crohn-betegség diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -892,5 +892,5 @@ ATC: Anatomical Therapeutic Chemical klasszifikáció
 
 BNO: Betegségek nemzetközi osztályozása
 
-[^13]: A 7. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
-[^14]: A 7. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (5) bekezdésével megállapított szöveg.
+[^14]: A 7. melléklet a 24/2013. (III. 29.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^15]: A 7. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (5) bekezdésével megállapított szöveg.

@@ -264,6 +264,6 @@
 
 ## TNM Tumor, node, metastasis (tumor, nyirokcsomó, metasztázis)
 
-4. melléklet a 31/2010. (V. 13.) EüM rendelethez[^10]
+4. melléklet a 31/2010. (V. 13.) EüM rendelethez[^11]
 
-[^10]: A 4. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^11]: A 4. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (2) bekezdésével megállapított szöveg.

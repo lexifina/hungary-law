@@ -312,7 +312,7 @@
 
 ## OENO: Orvosi eljárások nemzetközi osztályozása
 
-5. melléklet a 31/2010. (V. 13.) EüM rendelethez[^11]
+5. melléklet a 31/2010. (V. 13.) EüM rendelethez[^12]
 
 ## A Parkinson betegségcsoport diagnosztikájának és kezelésének finanszírozási eljárásrendje
 
@@ -552,4 +552,4 @@ ATC Gyógyszerek anatómiai, terápiás, illetve kémiai osztályozása
 
 BNO Betegségek nemzetközi osztályozása
 
-[^11]: Az 5. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^12]: Az 5. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (3) bekezdésével megállapított szöveg.

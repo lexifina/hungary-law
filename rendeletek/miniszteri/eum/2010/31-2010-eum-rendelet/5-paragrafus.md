@@ -28,7 +28,7 @@
 
 (15) A rectum daganatok diagnosztikájának és kezelésének finanszírozási eljárásrendjét a 33. melléklet tartalmazza.
 
-(16) A szénhidrát-anyagcsere rendezése 2-es típusú cukorbetegségben nem terhes felnőttekben finanszírozási eljárásrendjét a 34. melléklet tartalmazza.
+(16)[^4]
 
 (17) A gyermekkori asthma bronchiale diagnosztikájának és gyógyszeres kezelésének finanszírozási eljárásrendjét a 35. melléklet tartalmazza.
 
@@ -45,3 +45,4 @@
 (23) A kissejtes tüdődaganatok diagnosztikájának és kezelésének finanszírozási eljárásrendjét a 41. melléklet tartalmazza.
 
 [^3]: Az 5. § az 59/2015. (XII. 30.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^4]: Az 5. § (16) bekezdését a 15/2016. (VII. 15.) EMMI rendelet 5. §-a hatályon kívül helyezte.

@@ -330,6 +330,6 @@
 
 | L01XE17 | axitinib |
 
-3. melléklet a 31/2010. (V. 13.) EüM rendelethez[^9]
+3. melléklet a 31/2010. (V. 13.) EüM rendelethez[^10]
 
-[^9]: A 3. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^10]: A 3. melléklet az 59/2015. (XII. 30.) EMMI rendelet 5. § (1) bekezdésével megállapított szöveg.
