@@ -1,0 +1,1 @@
+## 1. § A Magyarország Európai Unió melletti Állandó Képviseletén (a továbbiakban: Állandó Képviselet) foglalkoztatott – a Miniszterelnökséggel kormányzati szolgálati jogviszonyban álló – diplomaták és szakdiplomaták alapellátmányának bruttó havi összegét és pénznemét az 1. melléklet tartalmazza.
