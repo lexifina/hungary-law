@@ -13,3 +13,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-143-00-00
 | 2016-05-01 | 2016. évi XIII. törvény | 2015-143-00-00.6 |
 | 2016-06-15 | 2016. évi LXIII. törvény | 2015-143-00-00.7 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 2015-143-00-00.8 |
+| 2016-08-01 | 2016. évi XXX. törvény | 2015-143-00-00.9 |

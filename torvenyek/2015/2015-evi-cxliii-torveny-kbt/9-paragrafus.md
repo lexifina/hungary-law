@@ -2,7 +2,7 @@
 
 9. § (1) E törvényt nem kell alkalmazni
 
-a) a külön törvényben – annak hatálybalépéséig e törvény felhatalmazása alapján kiadott kormányrendeletben – meghatározott védelmi és biztonsági tárgyú beszerzésekre azzal, hogy e beszerzésekre a külön törvényben – annak hatálybalépéséig e törvény felhatalmazása alapján kiadott kormányrendeletben – meghatározott szabályok alkalmazandók, valamint ha a beszerzés a külön törvény alkalmazása alól is kivételt képez és a b) pont ba) alpontjának megfelelő kivételi esetben az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében a külön törvény alkalmazása alól felmentést adott, illetve a külön törvény hatályba lépéséig a b) pont ba) alpontjának megfelelő kivételi esetben e törvény felhatalmazása alapján kiadott kormányrendelet szerint a Kormány egyedi döntésének megfelelően az e törvény felhatalmazása alapján kiadott kormányrendelet sajátos szabályai alkalmazandók;
+a) a külön törvényben meghatározott védelmi és biztonsági tárgyú beszerzésekre azzal, hogy e beszerzésekre a külön törvényben meghatározott szabályok alkalmazandók, valamint ha a beszerzés a külön törvény alkalmazása alól is kivételt képez és a b) pont ba) alpontjának megfelelő kivételi esetben az Országgyűlés illetékes bizottsága külön jogszabályban meghatározott feltételeknek megfelelő kezdeményezés alapján hozott előzetes döntésében a külön törvény alkalmazása alól felmentést adott,
 
 b) az a) pont alá nem tartozó
 
@@ -87,3 +87,15 @@ c) bélyeggyűjtői szolgáltatások vagy
 d) logisztikai szolgáltatások (a fizikai kézbesítést, illetve a raktározást egyéb, nem postai funkciókkal vegyítő szolgáltatások).
 
 (10) Az (1) bekezdés b) pontja szerinti beszerzés során az ajánlatkérő jogosult a bűnügyi személyes adatok kezelésére.
+
+(11) Az (1) bekezdés b) pontjában meghatározott beszerzésekkel összefüggésben kezelt közérdekű adat, valamint közérdekből nyilvános adat megismerését az 5. § (1) bekezdés a)–c) pontjában meghatározott ajánlatkérő nemzetbiztonsági érdekből – az adat megismeréséhez és a megismerhetőség kizárásához fűződő közérdek súlyának mérlegelésével, legfeljebb az adat keletkezésétől számított tíz éves időtartam lejártáig – korlátozhatja.
+
+(12) A (11) bekezdés alapján az (1) bekezdés b) pontjában meghatározott
+
+a) beszerzéssel összefüggésben feladat- és hatáskörében eljáró szerv határozatának,
+
+b) beszerzési eljárás nyertes ajánlattevője személyének, valamint
+
+c) beszerzésre vonatkozó szerződések megnevezésének, tárgyának, értékének, időtartamának, a szerződő felek nevének
+
+megismerése nem korlátozható.

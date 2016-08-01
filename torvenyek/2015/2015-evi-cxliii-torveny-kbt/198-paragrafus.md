@@ -24,7 +24,7 @@
 
 11. a gyógyszerek és az orvostechnikai eszközök közbeszerzésének – e törvénytől az ilyen eljárások sajátosságai miatt szükséges eltérő – sajátos szabályait;
 
-12. a minősített adatot, illetve alapvető biztonsági, nemzetbiztonsági érdeket érintő vagy különleges biztonsági intézkedést igénylő beszerzések, valamint azon beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételeket és eljárást, amelyek esetében a közbeszerzési szabályok alkalmazása olyan információk átadására kötelezné Magyarországot, amelyek felfedése ellentétes az állam biztonságához fűződő alapvető érdekeivel, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményeket;
+12. a 9. § (1) bekezdés b) pontjában meghatározott beszerzések Országgyűlés illetékes bizottsága általi mentesítésének kezdeményezésére vonatkozó feltételeket és eljárást, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményeket;
 
 13. a közúti járművek üzemeltetésével járó, a jármű teljes élettartamára vetített energetikai és környezeti hatások megállapítására és figyelembevételére vonatkozó sajátos közbeszerzési szabályokat, valamint a kapcsolódó jelentési kötelezettségre vonatkozó részletes szabályokat;
 
@@ -40,11 +40,11 @@
 
 19. a közbeszerzési eljárásban részt vevők oktatására vonatkozó feltételrendszer kialakítására, valamint a közbeszerzési tárgyú képzések irányítására, felügyeletére és ellenőrzésére vonatkozó szabályokat;
 
-20. a 9. § (1) bekezdés a) pontja szerinti külön törvény hatálybalépéséig a védelem terén kifejezetten katonai, rendvédelmi, rendészeti célokra szánt áruk beszerzésére, szolgáltatások megrendelésére, valamint építési beruházásokra vonatkozó sajátos szabályokat;
+20.
 
 21. a tömeges bevándorlás okozta válsághelyzettel összefüggő intézkedésekhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat;
 
-22. a 9. § (1) bekezdés a) pontja szerinti külön törvény hatálybalépéséig a hírszerző és elhárítási tevékenységhez kapcsolódó beszerzésekre vonatkozó sajátos szabályokat.
+22.
 
 (2) Felhatalmazást kap a közbeszerzésekért felelős miniszter, hogy rendeletben szabályozza
 
