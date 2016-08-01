@@ -16,15 +16,15 @@ meghaladja.
 
 (3) A (2) bekezdés alkalmazásában azonos hatástartamúnak minősül a referenciakészítmény hatástartamánál – az adott gyógyszer alkalmazási előírásában szereplő átlagos hatástartamot tekintve – a 100%-ot el nem érő eltérés is.
 
-(4) A támogatás (fix) összege a hatóanyag alapú fix csoportban a (2) bekezdés szerinti gyógyszerek közül azon gyógyszerek árai, forgalmi részesedései alapján kerül meghatározásra, melyeknek egyenértékűségét az illetékes hatóság megállapította. A támogatás összege az (5) bekezdés alapján kerül kiszámításra. A meglevő fix csoportoktól eltérő (+/–20%) hatáserősségű, azonos alkalmazási módú készítmény a hatáserősségben legközelebb álló fix csoport referencia értékének napi terápiás költségre eső támogatását kapja.
+(4)[^55] A támogatás (fix) összege a hatóanyag alapú fix csoportban a (2) bekezdés szerinti gyógyszerek közül azon gyógyszerek árai, forgalmi részesedései alapján kerül meghatározásra, melyeknek egyenértékűségét az illetékes hatóság megállapította. A támogatás összege az (5) bekezdés alapján kerül kiszámításra. A meglevő fix csoportoktól eltérő hatáserősségű, azonos alkalmazási módú készítmény a hatáserősségben legközelebb álló fix csoport referencia értékének napi terápiás költségre eső támogatását kapja.
 
-(5)[^55] A referencia készítmény ATC besorolása alapján az 1. számú melléklet szerinti, az adott hatóanyagot tartalmazó ATC-re megállapított százalékos támogatásban részesül. A referencia készítmény – referencia státusz megszerzésekori – közfinanszírozás alapjául elfogadott ára az adott csoportban a referencia ár. A referencia árnál alacsonyabb napi terápiás költségű gyógyszerek támogatásának mértéke megegyezik a referencia árhoz nyújtott százalékos támogatás mértékével.
+(5)[^56] A referencia készítmény ATC besorolása alapján az 1. számú melléklet szerinti, az adott hatóanyagot tartalmazó ATC-re megállapított százalékos támogatásban részesül. A referencia készítmény – referencia státusz megszerzésekori – közfinanszírozás alapjául elfogadott ára az adott csoportban a referencia ár. A referencia árnál alacsonyabb napi terápiás költségű gyógyszerek támogatásának mértéke megegyezik a referencia árhoz nyújtott százalékos támogatás mértékével.
 
-(5a)[^56] A 10. § szerinti eljárás során képzett támogatási csoportba tartozó, a referencia árnál magasabb napi terápiás költségű gyógyszerek támogatása a referencia árhoz nyújtott támogatás fix összege.
+(5a)[^57] A 10. § szerinti eljárás során képzett támogatási csoportba tartozó, a referencia árnál magasabb napi terápiás költségű gyógyszerek támogatása a referencia árhoz nyújtott támogatás fix összege.
 
-(5b)[^57] A 10/A. § szerinti eljárás során képzett támogatási csoportba tartozó, a referenciagyógyszer napi terápiás költségét legfeljebb 15%-kal meghaladó napi terápiás költségű gyógyszer támogatása a referencia árhoz nyújtott támogatás fix összege.
+(5b)[^58] A 10/A. § szerinti eljárás során képzett támogatási csoportba tartozó, a referenciagyógyszer napi terápiás költségét legfeljebb 15%-kal meghaladó napi terápiás költségű gyógyszer támogatása a referencia árhoz nyújtott támogatás fix összege.
 
-(5c)[^58] A 10/A. § szerinti eljárás során meghatározott, napi terápiás költségük alapján preferált referencia ársávba nem tartozó készítmények társadalombiztosítási támogatásának számítása a támogatási kategória változatlanul hagyása mellett a 8. § szerinti számítási módszerrel, de a referenciagyógyszer árához nyújtott támogatás összegénél 15%-kal alacsonyabb támogatási összeg alkalmazásával kerül megállapításra.
+(5c)[^59] A 10/A. § szerinti eljárás során meghatározott, napi terápiás költségük alapján preferált referencia ársávba nem tartozó készítmények társadalombiztosítási támogatásának számítása a támogatási kategória változatlanul hagyása mellett a 8. § szerinti számítási módszerrel, de a referenciagyógyszer árához nyújtott támogatás összegénél 15%-kal alacsonyabb támogatási összeg alkalmazásával kerül megállapításra.
 
 (6) A referencia készítmény az a meghatározott (fix) támogatási csoportba tartozó gyógyszer, amely
 
@@ -34,24 +34,25 @@ b) egyenértékűségét az illetékes hatóság megállapította,
 
 c) az adott csoportba tartozó gyógyszerek közül bruttó fogyasztói áron számolt napi terápiás költsége a legalacsonyabb, illetve megállapíthatósága hiányában az egységnyi hatóanyagra vonatkoztatva (a továbbiakban: napi terápiás költség) legalacsonyabb bruttó fogyasztói árú,
 
-d)[^59] kiszerelési formája a támogatás alapját képező indikációt tekintve nem haladja meg az érvényes alkalmazási előírásában meghatározott egy havi terápiához szükséges, a maximális dózissal számolt mennyiséget vagy ahhoz legközelebb álló csomagolási egységet, kivéve azon csoportok esetében, ahol az egy havi terápiához szükséges mennyiséget meghaladó csomagolási egységek DOT-ban mért forgalma meghaladja a csoport DOT forgalmának 60%-át,
+d)[^60] kiszerelési formája a támogatás alapját képező indikációt tekintve nem haladja meg az érvényes alkalmazási előírásában meghatározott egy havi terápiához szükséges, a maximális dózissal számolt mennyiséget vagy ahhoz legközelebb álló csomagolási egységet, kivéve azon csoportok esetében, ahol az egy havi terápiához szükséges mennyiséget meghaladó csomagolási egységek DOT-ban mért forgalma meghaladja a csoport DOT forgalmának 60%-át,
 
-e)[^60] csoporton belüli forgalmi részesedése a 10. § (4) bekezdése és a 10/A. § (2) bekezdése szerint megindult fixesítési eljárás kezdőnapját megelőző hét hónapon belül – ide nem értve a fixesítési eljárás kezdőnapját közvetlenül megelőző hónapot – a DOT tekintetében legalább két hónapban a 3%-ot, a 10/A. § szerinti eljárásban az 5%-ot elérte.
+e)[^61] csoporton belüli forgalmi részesedése a 10. § (4) bekezdése és a 10/A. § (2) bekezdése szerint megindult fixesítési eljárás kezdőnapját megelőző hét hónapon belül – ide nem értve a fixesítési eljárás kezdőnapját közvetlenül megelőző hónapot – a DOT tekintetében legalább két hónapban a 3%-ot, a 10/A. § szerinti eljárásban az 5%-ot elérte.
 
-(7)[^61] A referencia készítmény vagy a referencia ár meghatározásánál, illetve a forgalmi részesedés megállapításánál nem kerülnek beszámításra a nem egyenértékű, illetve a nyilvántartásból törölt készítmények. Amennyiben ezen készítmények napi terápiás költsége a referencia készítmény napi terápiás költségénél magasabb, a referencia készítmény napi terápiás költségéhez rendelt támogatási összeg kerül megállapításra, ellenkező esetben ezen készítmények a referencia készítmény támogatásának százalékos mértékét kapják.
+(7)[^62] A referencia készítmény vagy a referencia ár meghatározásánál, illetve a forgalmi részesedés megállapításánál nem kerülnek beszámításra a nem egyenértékű, illetve a nyilvántartásból törölt készítmények. Amennyiben ezen készítmények napi terápiás költsége a referencia készítmény napi terápiás költségénél magasabb, a referencia készítmény napi terápiás költségéhez rendelt támogatási összeg kerül megállapításra, ellenkező esetben ezen készítmények a referencia készítmény támogatásának százalékos mértékét kapják.
 
-(8)[^62] Ha a referencia készítmény forgalomba hozatali engedélyének jogosultja a megrendeléseket bizonyítottan, egy hónapon keresztül nem tudja teljesíteni, az OEP a készítményt a társadalombiztosítási támogatásból kizárja, és az adott készítmény a következő referencia ár meghatározását követő kilenc hónapban nem részesíthető társadalombiztosítási támogatásban.
+(8)[^63] Ha a referencia készítmény forgalomba hozatali engedélyének jogosultja a megrendeléseket bizonyítottan, egy hónapon keresztül nem tudja teljesíteni, az OEP a készítményt a társadalombiztosítási támogatásból kizárja, és az adott készítmény a következő referencia ár meghatározását követő kilenc hónapban nem részesíthető társadalombiztosítási támogatásban.
 
 (9) Az OEP a számításokhoz szükséges közforgalmú gyógyszertári forgalmi adatokat és DOT forgalmi részesedéseket készítményenkénti és támogatási jogcímenkénti, valamint fix csoportonkénti bontásban a tárgyhót követő 2. hónap 15. napjáig honlapján közzéteszi.
 
 [^52]: A 8. § a 38/2007. (VII. 25.) EüM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a folyamatban lévő eljárásokban is alkalmazni kell.
 [^53]: A 8. § (2) bekezdése a 47/2011. (VII. 27.) NEFMI rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^54]: A 8. § (2) bekezdés c) pontja a 10/2013. (I. 31.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^55]: A 8. § (5) bekezdése a 47/2011. (VII. 27.) NEFMI rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^56]: A 8. § (5a) bekezdését a 47/2011. (VII. 27.) NEFMI rendelet 2. § (3) bekezdése iktatta be.
-[^57]: A 8. § (5b) bekezdését a 47/2011. (VII. 27.) NEFMI rendelet 2. § (3) bekezdése iktatta be, szövege a 7/2014. (I. 29.) EMMI rendelet 8. § c) pontja szerint módosított szöveg.
-[^58]: A 8. § (5c) bekezdését a 47/2011. (VII. 27.) NEFMI rendelet 2. § (3) bekezdése iktatta be.
-[^59]: A 8. § (6) bekezdés d) pontja a 10/2013. (I. 31.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^60]: A 8. § (6) bekezdés e) pontja a 7/2014. (I. 29.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^61]: A 8. § (7) bekezdése a 10/2013. (I. 31.) EMMI rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^62]: A 8. § (8) bekezdése a 7/2014. (I. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^55]: A 8. § (4) bekezdése a 15/2016. (VII. 15.) EMMI rendelet 3. § a) pontja szerint módosított szöveg.
+[^56]: A 8. § (5) bekezdése a 47/2011. (VII. 27.) NEFMI rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^57]: A 8. § (5a) bekezdését a 47/2011. (VII. 27.) NEFMI rendelet 2. § (3) bekezdése iktatta be.
+[^58]: A 8. § (5b) bekezdését a 47/2011. (VII. 27.) NEFMI rendelet 2. § (3) bekezdése iktatta be, szövege a 7/2014. (I. 29.) EMMI rendelet 8. § c) pontja szerint módosított szöveg.
+[^59]: A 8. § (5c) bekezdését a 47/2011. (VII. 27.) NEFMI rendelet 2. § (3) bekezdése iktatta be.
+[^60]: A 8. § (6) bekezdés d) pontja a 10/2013. (I. 31.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^61]: A 8. § (6) bekezdés e) pontja a 7/2014. (I. 29.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^62]: A 8. § (7) bekezdése a 10/2013. (I. 31.) EMMI rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^63]: A 8. § (8) bekezdése a 7/2014. (I. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
