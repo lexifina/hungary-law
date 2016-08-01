@@ -138,7 +138,7 @@
 
 ## A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervek
 
-1. Miniszterelnökség
+1. Miniszterelnökség, kivéve Magyarország Európai Unió melletti Állandó Képviseletét
 
 2. Miniszterelnöki Kabinetiroda
 
@@ -152,11 +152,11 @@
 
 7. Közbeszerzési és Ellátási Főigazgatóság
 
-8. Külgazdasági és Külügyminisztérium
+8. Külgazdasági és Külügyminisztérium, kivéve a külképviseleteket
 
 9. Nemzetgazdasági Minisztérium
 
 10. Nemzeti Fejlesztési Minisztérium
 
 [^17]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^18]: A 2. melléklet a 384/2015. (XII. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^18]: A 2. melléklet a 206/2016. (VII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
