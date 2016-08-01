@@ -2550,8 +2550,6 @@ Egységes számlatükör
 
 9321. Tőkekivonással történő tőkeleszállításnál a bevont részesedés nyilvántartás szerinti értéke és az átvett eszközök értéke nyereségjellegű különbözete
 
-9322. Megszűnt részesedés nyilvántartás szerinti értéke és az átvett eszközök értéke nyereségjellegű különbözete
-
 [^320]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ pont, K1-8. KÖLTSÉGVETÉSI KIADÁSOK alpont, K1. SZEMÉLYI JUTTATÁSOK alpont, K11. Foglalkoztatottak személyi juttatásai alpont K1101. Törvény szerinti illetmények, munkabérek alpontja a 284/2014. (XI. 20.) Korm. rendelet 22. § (3) bekezdés 3. pontjával megállapított szöveg.
 [^321]: A 15. melléklet K1101. Törvény szerinti illetmények, munkabérek alcím a) pontja a 157/2015. (VI. 25.) Korm. rendelet 37. § a) pontja, a 217/2016. (VII. 22.) Korm. rendelet 37. §-a szerint módosított szöveg.
 [^322]: A 15. melléklet I. EGYSÉGES ROVATREND A KÖLTSÉGVETÉSI ÉS FINANSZÍROZÁSI BEVÉTELEKHEZ, KIADÁSOKHOZ, K1-8. KÖLTSÉGVETÉSI KIADÁSOK, K1. SZEMÉLYI JUTTATÁSOK, K11. Foglalkoztatottak személyi juttatásai, K1102. Normatív jutalmak rész a 307/2013. (VIII. 14.) Korm. rendelet 39. § (1) bekezdés e) pontjával megállapított szöveg.
