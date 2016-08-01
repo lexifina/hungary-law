@@ -1,3 +1,0 @@
-## 19. § E rendeletet a hatálybalépését követően megkezdett beszerzésekre kell alkalmazni.
-
-20. § Ez a rendelet a honvédelem és biztonság területén egyes építési beruházásra, árubeszerzésre és szolgáltatásnyújtásra irányuló, ajánlatkérő szervek vagy ajánlatkérők által odaítélt szerződések odaítélési eljárásainak összehangolásáról, valamint a 2004/17/EK és 2004/18/EK irányelv módosításáról szóló 2009. július 13-i 2009/81/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
