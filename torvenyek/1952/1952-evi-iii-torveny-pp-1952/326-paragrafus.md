@@ -87,3 +87,5 @@ a) a Kecskeméti Közigazgatási és Munkaügyi Bíróság, ha az ajánlatkérő
 b) a Székesfehérvári Közigazgatási és Munkaügyi Bíróság, ha az ajánlatkérő székhelye Budapesten, valamint Baranya megye, Fejér megye, Győr-Moson-Sopron megye, Komárom-Esztergom megye, Pest megye, Somogy megye, Tolna megye, Vas megye, Veszprém megye vagy Zala megye területén
 
 található.
+
+(15) A védelmi és biztonsági célú beszerzésekről szóló törvény alapján indult közigazgatási perekre a Fővárosi Közigazgatási és Munkaügyi Bíróság kizárólagosan illetékes.

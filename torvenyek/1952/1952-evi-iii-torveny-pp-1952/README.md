@@ -57,3 +57,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1952-3-00-00
 | 2016-01-01 | 2015. évi CLXXX. törvény | 1952-3-00-00.123 |
 | 2016-06-30 | 2016. évi XL. törvény | 1952-3-00-00.124 |
 | 2016-07-01 | 2016. évi XL. törvény | 1952-3-00-00.125 |
+| 2016-08-01 | 2016. évi XXX. törvény | 1952-3-00-00.126 |
