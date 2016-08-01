@@ -22,6 +22,10 @@ e) – ha a kirakodási cím nem az általános forgalmi adóalany székhelye, t
 
 (6b) Amennyiben kockázati tényezők – különösen a rakomány jellege, a szállítmány és a rendeltetési hely, illetve a fuvarozott termék mennyisége és a gépjármű típusa közötti összhang hiánya, folyamatban levő végrehajtási eljárás, közösségi adószám hiányában végzett közösségi kereskedelmi tevékenység, kirakodási helyként be nem jelentett telephely feltüntetése – indokolják, valamint abban az esetben, ha a termék fuvarozásában érintett általános forgalmiadó-alany a (6a) bekezdés szerinti nyilatkozattételt megtagadja – az élőállat, valamint a gyorsan romló termékek kivételével – az állami adó- és vámhatóság a szállítóeszközön a termék azonosságának biztosítása érdekében hatósági zárat alkalmazhat. A hatósági zár lehet hatósági pecséttel ellátott csomagzár vagy raktérzár. Az állami adó- és vámhatóság az alkalmazott hatósági zár sértetlenségét belföldön ellenőrizheti, illetve a hatósági zár alkalmazása indokának megszűnése esetén intézkedik annak eltávolítása iránt.
 
+(6c) A fuvarozó köteles az állami adó- és vámhatóság által felhelyezett hatósági zárat annak felhelyezésétől az állami adó- és vámhatóság által történő levételéig sértetlen állapotban megőrizni.
+
+(6d) Ha a közúti fuvarozással járó tevékenység során a hatósági zár baleset vagy egyéb tevékenységi körén kívül álló elháríthatatlan ok miatt megsérült, vagy az áru megrongálódott, illetve megsemmisült, a fuvarozó köteles erről az állami adó- és vámhatóságot haladéktalanul értesíteni.
+
 (7) Az Európai Közösség más tagállamában nyilvántartásba vett távolsági tömegközlekedési eszköz vezetőjét az állami adó- és vámhatóság ellenőrizheti annak megállapítása érdekében, hogy végez-e belföldön helyközi személyszállítási szolgáltatást és az üzemben tartó eleget tett-e bejelentkezési kötelezettségének.
 
 (8) Az állami adó- és vámhatóság a (6) bekezdés szerinti esetben az ellenőrzésről nem készít jegyzőkönyvet, ha jogszabálysértést nem állapít meg, kivéve, ha a termék fuvarozását végző személy jegyzőkönyv felvételét kéri.

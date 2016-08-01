@@ -1,6 +1,6 @@
 ## Iratbetekintés
 
-12. § (1) Az adózó, továbbá a 35. § (2) bekezdése szerint az adó megfizetésére kötelezett személy jogosult az adózásra vonatkozó iratok megismerésére. Minden olyan iratba betekinthet, arról másolatot készíthet vagy kérhet, amely jogainak érvényesítéséhez, kötelezettségeinek teljesítéséhez szükséges.
+12. § (1) Az adózó, továbbá a 35. § (2) és (7) bekezdése szerint az adó megfizetésére kötelezett személy jogosult az adózásra vonatkozó iratok megismerésére. Minden olyan iratba betekinthet, arról másolatot készíthet vagy kérhet, amely jogainak érvényesítéséhez, kötelezettségeinek teljesítéséhez szükséges.
 
 (2) Korlátozható az iratbetekintés az adatszolgáltatásra vonatkozó iratok tekintetében az ellenőrzés megkezdéséig, ha valószínűsíthető, hogy azok tartalmának megismerése a későbbi ellenőrzést meghiúsítaná. Az iratbetekintés korlátozásáról az adóhatóság végzéssel dönt.
 

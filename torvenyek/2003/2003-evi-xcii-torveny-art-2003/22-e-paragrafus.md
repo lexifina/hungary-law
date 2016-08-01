@@ -1,6 +1,6 @@
 ## A termékek közúti fuvarozásával kapcsolatos bejelentési kötelezettség
 
-22/E. § (1) Útdíjköteles gépjárművel végzett, közúti fuvarozással járó, e törvény végrehajtására kiadott miniszteri rendeletben meghatározott termékértékesítést, termékbeszerzést, egyéb célú termékmozgatást kizárólag érvényes Elektronikus Közúti Áruforgalom Ellenőrző Rendszer (a továbbiakban: EKAER) számmal rendelkező adózó folytathat.
+22/E. § (1) Útdíjköteles gépjárművel, továbbá a 3,5 tonna össztömeget meghaladó gépjárművel végzett, közúti fuvarozással járó, e törvény végrehajtására kiadott miniszteri rendeletben meghatározott termékértékesítést, termékbeszerzést, egyéb célú termékmozgatást kizárólag érvényes Elektronikus Közúti Áruforgalom Ellenőrző Rendszer (a továbbiakban: EKAER) számmal rendelkező adózó folytathat.
 
 (2) Az (1) bekezdést alkalmazni kell az e törvény végrehajtására kiadott miniszteri rendelet által kockázatosnak minősített termékre vonatkozóan, e törvény végrehajtására kiadott miniszteri rendeletben meghatározott esetben akkor is, ha a terméket olyan gépjárművel fuvarozzák, amely nem útdíjköteles.
 

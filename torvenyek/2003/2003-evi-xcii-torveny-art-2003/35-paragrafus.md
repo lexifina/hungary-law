@@ -10,7 +10,7 @@ b) a megajándékozott, az adózó által az adókötelezettsége keletkezését
 
 c) az adózó jogutódja,
 
-d) a 36. §-ban említett kezességet vállaló és az adótartozást átvállaló a jóváhagyott szerződésben foglalt adó tekintetében, valamint akinek a meg nem fizetett adóért való kezességét külön törvény írja elő,
+d) a 36. §-ban említett kezességet vállaló és az adótartozást átvállaló a jóváhagyott szerződésben foglalt adó tekintetében, valamint akinek a meg nem fizetett adóért való kezességét törvény írja elő,
 
 e) az adóbevétel csökkentésével kapcsolatos, valamint költségvetési csalás elkövetésével vagyoni hátrányt okozó bűncselekmény elkövetője az azzal összefüggő adó tekintetében,
 
@@ -34,4 +34,24 @@ k) több munkáltató által létesített munkaviszonnyal összefüggő adó tek
 
 (6) Ha az adóhatóság utólag megállapítja, hogy az e törvény 20/A. §-a szerinti START, START PLUSZ, START EXTRA vagy START BÓNUSZ kártya igényléséhez kapcsolódó – külön jogszabályban előírt – nyilatkozattételi kötelezettségét az igénylő rosszhiszeműen, valótlan adatok feltüntetésével teljesítette, az így megszerzett kártya felhasználása esetén az adóhatóság a foglalkoztatót megillető kedvezményes mértékű szociális hozzájárulási adó, valamint az általános szabályok szerint kedvezmény nélkül megállapított szociális hozzájárulási adó közötti különbözet összegének megfizetésére a kártya tulajdonosát (felhasználóját) határozattal kötelezi.
 
-(7)
+(7) Az adó megfizetésére határozattal kötelezhető a jogi személy tartozásaiért korlátozottan felelős, részesedését átruházó tag vagy részvényes (ide nem értve a nyilvánosan működő részvénytársaság részvényesét) a jogi személytől nem behajtható adótartozás átruházott részesedéssel arányos részének erejéig, ha
+
+a) a tag (részvényes) a részesedésének átruházásakor a jogi személyben a szavazati jogok 25%-át elérő vagy azt meghaladó részesedéssel rendelkezett, és
+
+b) a részesedés átruházásakor a jogi személy – késedelmi pótlék és adóbírság nélküli és nettó módon számított – adótartozásának összege a jogi személy jegyzett tőkéjének 50%-át meghaladja,
+
+feltéve, hogy a tag (részvényes) a b) pontban foglalt körülményről a részesedés átruházásakor tudott, vagy az arra vonatkozó információkról az adóhatóságtól tájékoztatást kérhetett volna.
+
+(8) A tagot (részvényest) a (7) bekezdés szerinti helytállási kötelezettség nem terheli, ha a tag (részvényes) igazolja, hogy
+
+a) a jogi személy a végrehajtható adótartozást a 24/C. § (5) bekezdés a) pontban foglalt okokból nem tudta megfizetni a részesedés átruházásáig, vagy
+
+b) a részesedés átruházását megelőzően – a jogi személyre vonatkozó anyagi jogszabályban előírt módon –
+
+ba) sor került a legfőbb szerv kötelező összehívására és az előírt döntés meghozatalára,
+
+bb) sor került a tőkevesztésre tekintettel kötelező átalakulásra vagy az átalakulás helyett hozható más döntés meghozatalára, vagy
+
+bc) a jogi személy adótartozásának megfizetése, illetve a ba)–bb) alpont szerinti jogszabályi rendelkezések teljesítése érdekében a tag (részvényes) tagsági jogaival élve a tőle elvárható minden intézkedést megtett.
+
+(9) Az adóhatóság a (7) bekezdés szerinti határozatot az adótartozás behajtása eredménytelenségének megállapításától számított 90 napos jogvesztő határidőn belül hozhatja meg. Ha a részesedés átruházása a határozat meghozatalára nyitva álló határidő letelte után jut az adóhatóság tudomására, a határozatot a tudomásszerzéstől számított 30 napon belül az adóhatóság akkor is meghozhatja, ha a jogvesztő határidő már eltelt, vagy abból 30 napnál kevesebb van hátra.

@@ -14,11 +14,11 @@ a) az adózó kérelmére az adóhatóság fizetési halasztást vagy részletfi
 
 b) a fizetési halasztás, részletfizetés vagy az adótartozás mérséklésére irányuló kérelem tárgyában jogerős döntést még nem hoztak,
 
-c) az adózó meghalt, illetőleg megszűnt, az adó megfizetésére határozattal kötelezett személyt megállapító határozat jogerőre emelkedéséig,
+c) az adózó meghalt, illetőleg megszűnt, az adó megfizetésére határozattal kötelezett személy fizetési kötelezettségét megállapító határozat jogerőre emelkedéséig,
 
 d) az adóhatósági határozat bírósági felülvizsgálata során az első alkalommal előterjesztett végrehajtás felfüggesztése iránti kérelmet jogerősen még nem bírálták el,
 
-e) az adó megfizetésére való kötelezésre e törvény 35. § (2) bekezdésének f) pontja alapján került sor és az adózóval szemben felszámolási eljárás indult, a felszámolási eljárás megindításának közzétételétől a felszámolás jogerős befejezéséig,
+e) az adó megfizetésére való kötelezésre e törvény 35. § (2) bekezdés f) pontja és (7) bekezdése alapján került sor és az adózóval szemben felszámolási eljárás indult, a felszámolási eljárás megindításának közzétételétől a felszámolás jogerős befejezéséig,
 
 f) külön törvény így rendelkezik,
 

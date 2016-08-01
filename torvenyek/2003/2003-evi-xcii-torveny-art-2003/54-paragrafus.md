@@ -89,3 +89,5 @@ m) a közbeszerzési hatóságot, ha a tájékoztatás a törvényben meghatáro
 (15) Ha az állami adó- és vámhatóság a biztosítottat terhelő járulékkötelezettséget a magánszeméllyel szemben állapítja meg, akkor annak megtérülése esetén az erről szóló határozatot a megtérüléstől számított 30 napon belül, a nyugellátás, illetve a korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék, átmeneti bányászjáradék megállapítása céljából megküldi a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervnek.
 
 (16) Az állami adó- és vámhatóság az adóazonosító jelet megkeresésre, elektronikus úton átadja a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervnek az adóazonosító jelnek az állandó személyazonosító igazolvány tároló elemén történő elhelyezése céljából.
+
+(17) Az adóhatóság megkeresésre tájékoztatja az adó megfizetésére a 35. § (7) bekezdése szerint kötelezhető személyt vagy szervezetet az adózó végrehajtható adótartozásának összegéről.
