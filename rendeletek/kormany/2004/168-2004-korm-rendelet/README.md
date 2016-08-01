@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-168-20-
 | 2015-07-24 | 2004-168-20-22.22 | 202/2015. (VII. 23.) Korm. rendelet |
 | 2015-11-01 | 2004-168-20-22.23 | 323/2015. (X. 30.) Korm. rendelet |
 | 2016-01-01 | 2004-168-20-22.24 | 46/2012. (III. 28.) Korm. rendelet |
+| 2016-08-01 | 2004-168-20-22.25 | 206/2016. (VII. 21.) Korm. rendelet |
