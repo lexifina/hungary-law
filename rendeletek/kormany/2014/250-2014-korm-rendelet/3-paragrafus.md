@@ -2,7 +2,7 @@
 
 3. § (1) A Főigazgatóság:
 
-a) biztosítja a minisztériumok – kivéve a honvédelemért felelős miniszter által vezetett minisztériumot és a külpolitikáért felelős miniszter irányítása alá tartozó külképviseleteket – működéséhez szükséges munkakörnyezetet, ennek keretében gondoskodik az említett szervezetek elhelyezését szolgáló ingatlanok és az intézményi működéshez szükséges gépjárművek üzemeltetéséről, továbbá a szervezetek munkavégzéshez szükséges tárgyi eszközökkel történő ellátásáról – ide nem értve az informatikai-telekommunikációs eszközöket –, illetve az intézményi működéshez szükséges kiszolgáló tevékenységek megszervezéséről,
+a)[^1] biztosítja a minisztériumok – kivéve a honvédelemért felelős miniszter által vezetett minisztériumot, a külpolitikáért felelős miniszter és az európai uniós ügyek koordinációjáért felelős miniszter irányítása alá tartozó külképviseleteket – működéséhez szükséges munkakörnyezetet, ennek keretében gondoskodik az említett szervezetek elhelyezését szolgáló ingatlanok és az intézményi működéshez szükséges gépjárművek üzemeltetéséről, továbbá a szervezetek munkavégzéshez szükséges tárgyi eszközökkel történő ellátásáról – ide nem értve az informatikai-telekommunikációs eszközöket –, illetve az intézményi működéshez szükséges kiszolgáló tevékenységek megszervezéséről,
 
 b) a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársasággal (a továbbiakban: MNV Zrt.) kötött vagyonkezelési szerződések keretei között – ingatlanok vonatkozásában az MNV Zrt.-t terhelő elhelyezési kötelezettséggel összhangban – ellátja az a) pontban meghatározott feladatokhoz kapcsolódó vagyonelemekkel összefüggő vagyongazdálkodási feladatokat,
 
@@ -14,7 +14,7 @@ e) jogszabályban meghatározottak szerint vagy erre vonatkozó megállapodás a
 
 f) végzi a központosított közbeszerzés normatíva rendszerének meghatározásával, módosításával összefüggő előkészítő feladatokat,
 
-g)[^1] végzi az 1. § (2) és (3) bekezdésében meghatározottak figyelembevételével az állami vezetői juttatásokról szóló kormányrendeletben meghatározott feladatokat,
+g)[^2] végzi az 1. § (2) és (3) bekezdésében meghatározottak figyelembevételével az állami vezetői juttatásokról szóló kormányrendeletben meghatározott feladatokat,
 
 h) ellátja mindazokat a feladatokat, amelyeket jogszabály, kormányhatározat, az alapító okirat, az irányító szerv vezetője, az 1. § (2) bekezdése alapján irányítási jogokat gyakoroló miniszter vagy az 1. § (3) bekezdésében meghatározott megállapodás a hatáskörébe utal.
 
@@ -24,4 +24,5 @@ h) ellátja mindazokat a feladatokat, amelyeket jogszabály, kormányhatározat,
 
 (4) A Főigazgatóság a (2) bekezdés szerinti szolgáltatások nyújtására – szabad kapacitás rendelkezésre állása esetén – az (1) bekezdés a) pontjában nem szereplő központi költségvetési szervekkel, valamint a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 3. § (1) bekezdés 1. pontja szerint átlátható szervezetnek minősülő központi költségvetési vagy európai uniós forrásokból finanszírozott más szervezetekkel, továbbá az Országgyűlés felügyelete alá tartozó más szervekkel megállapodást köthet. A megállapodásokban rendelkezni kell a Főigazgatóságnál a nyújtott szolgáltatásokkal összefüggésben felmerülő közvetlen és közvetett kiadások ellentételezéséről.
 
-[^1]: A 3. § (1) bekezdés g) pontja a 275/2015. (IX. 21.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^1]: A 3. § (1) bekezdés a) pontja a 206/2016. (VII. 21.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdés g) pontja a 275/2015. (IX. 21.) Korm. rendelet 16. §-ával megállapított szöveg.
