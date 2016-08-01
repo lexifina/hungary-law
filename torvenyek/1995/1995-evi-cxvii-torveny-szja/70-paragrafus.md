@@ -54,6 +54,8 @@ d) az olyan adómentesnek, üzleti ajándéknak nem tekinthető üzletpolitikai 
 
 azzal, hogy a kifizető rosszhiszemű vagy jogszerűtlen eljárása esetén a kiszabható mulasztási bírság az adóalap 50 százaléka.
 
+(3a) Egyes meghatározott juttatásnak minősül az önkéntes kölcsönös biztosító pénztárakról szóló törvény előírásai szerint célzott szolgáltatásra befizetett azon összeg, amely nem minősül béren kívüli juttatásnak.
+
 (4) Egyes meghatározott juttatásnak minősül
 
 a) az a juttatás, amely megfelel a 71. §-ban meghatározott béren kívüli juttatás feltételeinek, de az ott meghatározott értékhatárt meghaladja,

@@ -54,7 +54,7 @@ b) a települési önkormányzatokat az állampolgárok lakáshoz jutásának t�
 
 2.6. a lakás-takarékpénztárakról szóló törvény szerint nyújtott állami támogatás és a támogatásra, valamint a lakástakarék-betétre fizetett (jóváírt) kamat;
 
-2.7. a munkáltató által lakáscélú felhasználásra a munkavállalónak hitelintézet vagy a kincstár útján, annak igazolása alapján, a 9.3. pontban és az adópolitikáért felelős miniszter rendeletében meghatározott feltételek és eljárás szerint nyújtott, vissza nem térítendő támogatás (ideértve a munkáltató által lakáscélú felhasználásra nyújtott kölcsön elengedett összegét, továbbá a lakáscélú felhasználásra hitelintézettől vagy korábbi munkáltatótól felvett hitel visszafizetéséhez, törlesztéséhez, a hitelhez kapcsolódó más kötelezettségek megfizetéséhez nyújtott támogatást is) a vételár, a teljes építési költség vagy a korszerűsítés, akadálymentesítés költségének 30 százalékáig, de több munkáltató esetén is a folyósítás évét megelőző négy évben ilyenként folyósított összegekkel együtt legfeljebb 5 millió forintig terjedő összegben, feltéve, hogy a lakás szobaszáma nem haladja meg a lakáscélú állami támogatásokról szóló kormányrendeletben meghatározott méltányolható lakásigényt (lakáscélú munkáltatói támogatás), azzal, hogy a lakáscélú munkáltatói támogatásra vonatkozó rendelkezések alkalmazásában a pénzügyi vállalkozástól lakáscélú felhasználásra felvett hitel a lakáscélú felhasználásra hitelintézettől felvett hitellel esik egy tekintet alá;
+2.7. a munkáltató által lakáscélú felhasználásra a munkavállalónak hitelintézet vagy a kincstár útján, annak igazolása alapján, a 9.3. pontban és az adópolitikáért felelős miniszter rendeletében meghatározott feltételek és eljárás szerint nyújtott, vissza nem térítendő támogatás (ideértve a munkáltató által lakáscélú felhasználásra nyújtott kölcsön elengedett összegét, továbbá a lakáscélú felhasználásra hitelintézettől vagy korábbi munkáltatótól felvett hitel visszafizetéséhez, törlesztéséhez, a hitelhez kapcsolódó más kötelezettségek megfizetéséhez nyújtott támogatást is) a vételár, a teljes építési költség vagy a korszerűsítés, akadálymentesítés költségének 30 százalékáig, de több munkáltató esetén is a folyósítás évét megelőző négy évben ilyenként folyósított összegekkel együtt legfeljebb 5 millió forintig terjedő összegben, feltéve, hogy a lakás szobaszáma nem haladja meg a méltányolható lakásigényt (lakáscélú munkáltatói támogatás), azzal, hogy a lakáscélú munkáltatói támogatásra vonatkozó rendelkezések alkalmazásában a pénzügyi vállalkozástól lakáscélú felhasználásra felvett hitel a lakáscélú felhasználásra hitelintézettől felvett hitellel esik egy tekintet alá;
 
 2.8.az az összeg, amelyet a devizakölcsönök törlesztési árfolyamának rögzítéséről és a lakóingatlanok kényszerértékesítésének rendjéről szóló 2011. évi LXXV. törvény rendelkezései szerint a pénzügyi intézmény a hiteladóssal szemben nem jogosult érvényesíteni;
 
@@ -558,13 +558,31 @@ b) a belföldön fekvő lakás építése, építtetése,
 
 c) a belföldön fekvő lakás alapterületének legalább egy lakószobával történő bővítését eredményező növelése,
 
-d) a lakáscélú állami támogatásokról szóló kormányrendelet szerint meghatározott korszerűsítés,
+d) a korszerűsítés,
 
-e) a lakáscélú állami támogatásokról szóló kormányrendelet szerint meghatározott akadálymentesítés.
+e) a akadálymentesítés.
 
 9.3.2. A lakáscélú munkáltatói támogatás akkor tekinthető adómentesnek, ha a munkáltató a támogatás folyósításának évét követő év május 31-éig, lakás építéséhez, építtetéséhez, alapterületének növeléséhez, korszerűsítéséhez és akadálymentesítéséhez adott támogatás esetén a folyósítás évét követő második év május 31-éig rendelkezik az adópolitikáért felelős miniszter rendeletében meghatározott igazolásokkal, azzal, hogy amennyiben a lakáscélú hitel felhasználásával megszerzett (épített, építtetett) lakás a támogatás folyósításakor már nincs a munkavállaló tulajdonában (haszonélvezetében), akkor a méltányolható lakásigénynek való megfelelés igazolására a hitel folyósítója által kiállított, a méltányolható lakásigény korábbi vizsgálatáról készült okirat másolata, ennek hiányában a munkavállaló által a méltányolható lakásigénynek való megfelelésről tett nyilatkozata és a megfelelést – a hitel folyósítását követő bármely, a tulajdonjog (haszonélvezeti jog) fennállásának időszakára eső időpontra vonatkozóan – igazoló okirat, bizonylat is elfogadható. Ha a munkáltató nem rendelkezik az e törvényben vagy az adópolitikáért felelős miniszter rendeletében meghatározott igazolásokkal, a lakáscélú munkáltatói támogatás 20 százalékkal növelt összegben a támogatásban részesült magánszemély munkaviszonyból származó jövedelmének minősül. E jövedelem megszerzésének időpontja a támogatás folyósításának évét követő év május hónapja, lakás építéséhez, építtetéséhez, alapterületének növeléséhez és korszerűsítéséhez adott támogatás esetén a folyósítás évét követő második év május hónapja.
 
 9.3.3. A hitelintézet, a kincstár a közvetítésével nyújtott lakáscélú munkáltatói támogatásról kiállított igazolás adattartalmáról, a munkáltató a kölcsön általa elengedett összegéről adatot szolgáltat az állami adóhatóságnak.
+
+9.3.4. A lakáscélú munkáltatói támogatás adómentességével kapcsolatos rendelkezések alkalmazásában az egyes fogalmak jelentése a következő:
+
+a) korszerűsítés: a lakás komfortfokozatának növelése céljából víz-, csatorna-, elektromos-, gázközmű bevezetése, belső hálózatának kiépítése, fürdőszoba létesítése olyan lakásban, ahol még ilyen helyiség nincs, megfelelő beltéri légállapoti és használati meleg vizet biztosító épülettechnikai rendszer kialakítása vagy cseréje, beleértve a megújuló energiaforrások (pl. napenergia) alkalmazását is, az épület szigetelése, beleértve a hő-, hang-, vízszigetelési munkálatokat, a külső nyílászárók energiatakarékos cseréje, tető cseréje, felújítása, szigetelése. A korszerűsítés része az ehhez közvetlenül kapcsolódó helyreállítási munka, a korszerűsítés közvetlen költségeinek 20% százalékáig;
+
+b) akadálymentesítés: a mozgáskorlátozott személy fogyatékossága jellegéből fakadó, a lakáshasználattal összefüggő életvitel nehézségeit csökkentő, a rendeltetésszerű használatot biztosító műszaki akadálymentesítési munkák elvégzése új lakóépületen vagy új lakáson, meglévő lakóépületen vagy használt lakáson;
+
+c) a méltányolható lakásigény mértéke: az együttköltöző, együttlakó családtagok számától függően
+
+ca) egy-két személy esetében: legfeljebb három lakószoba,
+
+cb) három-négy személy esetében: legfeljebb négy lakószoba.
+
+Minden további személy esetében egy lakószobával nő a lakásigény mértéke.
+
+E rendelkezés alkalmazásában lakószoba az a helyiség, amelynek hasznos alapterülete meghaladja a 8 négyzetmétert, de – a meglévő, kialakult állapotot kivéve – legfeljebb 30 négyzetméter, legalább egy 2 méter széles – ajtó és ablak nélküli – falfelülettel rendelkezik. A 30 négyzetméternél nagyobb helyiséget két szobaként kell számításba venni. Ha a nappali szoba, az étkező és a konyha osztatlan közös térben van, és hasznos alapterületük együttesen meghaladja a 60 négyzetmétert, úgy két szobaként kell figyelembe venni.
+
+d) együttköltöző, együttlakó családtag: jövedelmüktől és életkoruktól függetlenül a támogatást igénylő munkavállaló Polgári Törvénykönyv szerinti közeli hozzátartozói a testvér kivételével, továbbá élettársa és annak közeli hozzátartozói a testvér kivételével, feltéve, hogy a lakáscélú munkáltatói támogatással, munkáltatói lakáscélú hitellel érintett lakásba együtt költöznek be vagy ott életvitelszerűen együtt laknak.
 
 9.4. A termőföld bérbeadásából származó jövedelem adómentességére vonatkozó szabályok
 

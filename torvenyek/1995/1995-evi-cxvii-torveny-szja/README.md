@@ -73,3 +73,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1995-117-00-00
 | 2016-05-21 | 2016. évi XLIV. törvény | 1995-117-00-00.142 |
 | 2016-06-16 | 2016. évi LXVI. törvény | 1995-117-00-00.143 |
 | 2016-07-01 | 2016. évi LXVI. törvény | 1995-117-00-00.144 |
+| 2016-08-01 | 2016. évi LXVI. törvény | 1995-117-00-00.145 |

@@ -90,7 +90,7 @@ azzal, hogy szokásos haszon az a haszon, amelyet összehasonlítható tevékeny
 
 10. Hivatali, üzleti utazás: a magánszemély jövedelmének megszerzése érdekében, a kifizető tevékenységével összefüggő feladat ellátása érdekében szükséges utazás – a munkahelyre, a székhelyre vagy a telephelyre a lakóhelyről történő bejárás kivételével –, ideértve különösen a kiküldetés (kirendelés) miatt szükséges utazást, de ide nem értve az olyan utazást, amelyre vonatkozó dokumentumok és körülmények (szervezés, reklám, hirdetés, útvonal, úti cél, tartózkodási idő, a tényleges szakmai és szabadidőprogram aránya stb.) valós tartalma alapján, akár közvetve is megállapítható, hogy az utazás csak látszólagosan hivatali, üzleti; továbbá az országgyűlési képviselő, a nemzetiségi szószóló, a polgármester, az önkormányzati képviselő e tisztségével összefüggő feladat ellátása érdekében szükséges utazás (a lakóhelytől való távollét).
 
-11. Kiküldetés (kirendelés): a munkáltató által elrendelt, a munkaszerződésben rögzített munkahelytől eltérő helyen történő munkavégzés, ideértve a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonájának szolgálati érdekből történő áthelyezését, átvezénylését is.
+11. Kiküldetés (kirendelés): a munkáltató által elrendelt hivatali, üzleti utazás, ide nem értve a munkába járással kapcsolatos utazási költségtérítésről szóló kormányrendelet szerinti munkába járást, a lakóhelyről, tartózkodási helyről a munkáltató székhelyére, telephelyére történő oda- és visszautazást. Kiküldetésnek minősül a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati érdekből történő áthelyezése, vezénylése, átrendelése, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonájának szolgálati érdekből történő áthelyezése, vezénylése is.
 
 12. Külföldi kiküldetés: a belföldi illetőségű magánszemélynek a jövedelme megszerzése érdekében, a kifizető tevékenységével összefüggő feladat ellátása érdekében Magyarország területén kívüli (a továbbiakban: külföld) tartózkodása, továbbá az előzőekkel kapcsolatos külföldre történő utazás, ideértve különösen a külszolgálatot és az azzal összefüggő utazást.
 
@@ -276,7 +276,7 @@ azzal, hogy az a)–c) pontokban foglalt feltételek fennállása szempontjábó
 
 59.
 
-60.
+60. Sportrendezvény: sportszervezet vagy sportszövetség által versenyrendszerben vagy azon kívül, résztvevők jelenlétében megtartott verseny, mérkőzés.
 
 61. Ingatlannak közérdekű célra történő megvásárlása: a kisajátításról szóló 2007. évi CXXIII. törvény rendelkezései szerint történő vásárlás.
 
