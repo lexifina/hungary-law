@@ -60,7 +60,7 @@ b) a legalább heti 30 órában foglalkoztatott szakdolgozó esetén 15 000 Ft,
 
 c) a legalább heti 20 órában foglalkoztatott szakdolgozó esetén 10 000 Ft,
 
-amelyet a háziorvosi szolgáltató a szakdolgozót közvetlenül megillető bérének, jövedelmének kiegészítésére köteles fordítani.
+## amelyet a háziorvosi szolgáltató a szakdolgozót közvetlenül megillető bérének, jövedelmének kiegészítésére köteles fordítani.
 
 (4b)[^135] A (4a) bekezdés a)–c) pontjában foglaltaktól eltérő mértékű foglalkoztatás esetén a háziorvosi szolgáltató időarányos díjazásra jogosult.
 

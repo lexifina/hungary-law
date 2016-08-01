@@ -1,3 +1,5 @@
+## A nem pszichiátriai rehabilitációs minősítési kritériumok
+
 | Feltétel | „A” minősítésű rehabilitáció kritériumai | „B” minősítésű rehabilitáció kritériumai | „C” Minősítés nélküli rehabilitáció kritériumai |
 
 | 1. Osztályvezető | az osztályt legalább 5 éves, igazolt rehabilitációs szakmai gyakorlattal rendelkező rehabilitációs szakorvos vezeti**** | az osztályt rehabilitációs szakorvos vezeti | az osztály vezetője nem szükséges, hogy rehabilitációs szakorvos legyen |
@@ -70,6 +72,6 @@
 
 ## A halálozás és az átlagos ápolási idő tekintetében az november 1. és október 31. közötti időszak tekintendő a finanszírozási év adatának.
 
-9. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^578]
+9. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^579]
 
-[^578]: A 9. számú melléklet a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (8) bekezdésével megállapított, valamint a 112/2004. (IV. 28.) Korm. rendelet 14. §-ának (8) bekezdése, a 329/2005. (XII. 29.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg.
+[^579]: A 9. számú melléklet a 21/2000. (III. 3.) Korm. rendelet 27. §-ának (8) bekezdésével megállapított, valamint a 112/2004. (IV. 28.) Korm. rendelet 14. §-ának (8) bekezdése, a 329/2005. (XII. 29.) Korm. rendelet 15. § (3) bekezdése szerint módosított szöveg.

@@ -1,3 +1,3 @@
-68. §[^543]
+## 67. §[^542]
 
-[^543]: A 68. §-t a 338/2012. (XII. 4.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § i) pontja.
+[^542]: A 67. §-t a 308/2012. (XI. 6.) Korm. rendelet 16. § (4) bekezdése iktatta be, hatályon kívül helyezte az 519/2013. (XII. 30.) Korm. rendelet 12. § f) pontja.

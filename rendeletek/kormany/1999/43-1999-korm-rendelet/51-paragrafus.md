@@ -1,7 +1,7 @@
+## 50/E. §[^515]
+
 ## V.
 
 ## ZÁRÓ RENDELKEZÉSEK
 
-51. §[^516]
-
-[^516]: Az 51. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1242. pontja hatályon kívül helyezte.
+[^515]: Az 50/E. §-t a 15/2005. (I. 26.) Korm. rendelet 15. §-a iktatta be, hatályon kívül helyezte a 318/2006. (XII. 23.) Korm. rendelet 25. § (2) bekezdése.

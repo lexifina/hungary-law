@@ -1,3 +1,3 @@
-55. §[^523]
+## 54. §[^522]
 
-[^523]: Az 55. §-t újonnan a 263/2011. (XII. 13.) Korm. rendelet 2. §-a iktatta be, újból hatályon kívül helyezte e módosító rendelet 6. § a) pontja.
+[^522]: Az 54. §-t a 166/2010. (V. 11.) Korm. rendelet 9. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § e) pontja.

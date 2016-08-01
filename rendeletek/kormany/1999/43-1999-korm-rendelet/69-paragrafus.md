@@ -1,3 +1,3 @@
-69. §[^544]
+## 68. §[^543]
 
-[^544]: A 69. §-t a 447/2012. (XII. 29.) Korm. rendelet 26. § (1) bekezdése iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § i) pontja.
+[^543]: A 68. §-t a 338/2012. (XII. 4.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § i) pontja.

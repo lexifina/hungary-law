@@ -1,3 +1,5 @@
+## 58. §[^526]
+
 59. §[^527] (1)[^528] Azon egészségügyi szolgáltató, amelynek a székhelyén vagy a telephelyén 2012. június 30-ával a szakmai minimumfeltételek szerinti sürgősségi ellátáshoz szükséges aktív fekvőbeteg-szakellátó tevékenysége vagy szakmája, szakmái megszűntek, de a megszűnő szakmájában, szakmáiban a székhelyén vagy az adott telephelyen járóbeteg-szakellátási tevékenységet végez, és a biztosítottak számára folyamatosan rendelkezésre áll az erre vonatkozó jogerős működési engedély szerint, az R.-ben meghatározott fix összegű díjra jogosult a megállapított TVK-ján felül, feltéve, hogy a szolgáltató a székhely vagy az adott telephely szerinti településen lévő másik telephelyén vagy székhelyén sem végez a megszűnő szakmában, szakmáiban aktív fekvőbeteg-szakellátó tevékenységet.
 
 (1a)[^529] Az (1) bekezdés szerinti fix összegű díjazás fedezetére az 5. számú melléklet szerinti Összevont szakellátás jogcím előirányzata szolgál.
@@ -6,6 +8,7 @@
 
 (2)[^531]
 
+[^526]: Az 58. §-t a 137/2012. (VI. 29.) Korm. rendelet 19. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 40. § f) pontja.
 [^527]: Az 59. §-t a 137/2012. (VI. 29.) Korm. rendelet 19. §-a iktatta be.
 [^528]: Az 59. § (1) bekezdése a 288/2012. (X. 11.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^529]: Az 59. § (1a) bekezdését a 308/2012. (XI. 6.) Korm. rendelet 16. § (3) bekezdése iktatta be.
