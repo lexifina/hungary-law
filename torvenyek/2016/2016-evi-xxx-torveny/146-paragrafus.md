@@ -1,0 +1,1 @@
+146. § Az igazgatási szolgáltatási díjat a Közbeszerzési Hatóság Magyar Államkincstárnál vezetett 10032000-01720361-00000000 számú előirányzat-felhasználási keretszámlájára kell átutalással megfizetni.

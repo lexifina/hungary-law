@@ -1,0 +1,13 @@
+## 87. A szerződés beszerzési jogsértés miatti érvénytelenségének megállapítása iránti polgári per
+
+166. § (1) Ha az ügy érdemében hozott határozatában a Közbeszerzési Döntőbizottság a 104. § (1) bekezdés szerinti jogsértést állapít meg, pert indít a szerződés érvénytelenségének kimondása és az érvénytelenség jogkövetkezményeinek alkalmazása iránt. A perindítással egyidejűleg a Közbeszerzési Döntőbizottságnak ideiglenes intézkedésként kérnie kell a bíróságtól a szerződés további teljesítésének felfüggesztését. A Közbeszerzési Döntőbizottságot a perben teljes költségmentesség illeti meg.
+
+(2) A Közbeszerzési Döntőbizottság az (1) bekezdés szerinti pert érdemi határozatának meghozatalától számított harminc napon belül indítja meg. A határidő elmulasztása esetén a Pp. szabályai szerint van helye igazolásnak.
+
+(3) Ha a bíróság az (1) bekezdés szerinti perben megállapítja a szerződés 104. § (1) bekezdése szerint meghatározott okok miatti érvénytelenségét, az érvénytelenség jogkövetkezményeit a Ptk.-ban és az e törvényben foglaltak szerint alkalmazza.
+
+(4) Ha a bíróság a beszerzési eljárás alapján megkötött szerződést a 104. § (4) bekezdése alapján érvényessé nyilvánítja, bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 5%-a. Ha az érvénytelenség jogkövetkezményeinek alkalmazásakor a bíróság az ellenszolgáltatás nélkül maradt szolgáltatás ellenértékének pénzbeni megtérítését rendeli el, bírságot szab ki, amelynek összege – az eset összes körülményét figyelembe véve – legfeljebb a szerződés értékének 5%-a.
+
+(5) Az (1) bekezdés szerinti perre az a közigazgatási és munkaügyi bíróság kizárólagosan illetékes, amely ugyanazon beszerzési jogsértés ügyében a 161. § szerinti közigazgatási perben eljár. Ha a Közbeszerzési Döntőbizottság a 104. § (1) bekezdése szerinti jogsértést megállapító érdemi határozatának bírósági felülvizsgálatát kérték, a Közbeszerzési Döntőbizottság által ugyanazon ügyben indított polgári pert – ha a közigazgatási per indul később – a 161. § szerinti közigazgatási per bíróságához át kell tenni. A közigazgatási pert és a Közbeszerzési Döntőbizottság által indított polgári pert egyesíteni kell. A Közbeszerzési Döntőbizottság haladéktalanul tájékoztatja a polgári perben eljáró bíróságot arról, ha a 104. § (1) bekezdése szerinti jogsértést megállapító érdemi határozatának bírósági felülvizsgálatát kérő keresetlevelet nála benyújtották.
+
+(6) A (5) bekezdés szerinti egységes perben a Pp. XX. Fejezetét a 164. § (2) és (5)–(7) bekezdésében, valamint a 165. §-ban foglalt eltérésekkel kell alkalmazni.

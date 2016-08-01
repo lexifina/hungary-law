@@ -1,0 +1,3 @@
+93. § (1) Versenypárbeszéd esetén a részvételi határidő meghatározására a 92. § (1) és (3) bekezdése alkalmazandó.
+
+(2) Ha az ajánlatkérő a tárgyalásos eljárás során az eljárást megindító felhívásban ennek lehetőségét fenntartotta, az első ajánlatok beérkezését követően dönthet úgy, hogy nem tart tárgyalást, hanem a benyújtott ajánlatok bírálatával és értékelésével befejezi az eljárást. Ebben az esetben döntéséről haladéktalanul – faxon vagy elektronikus úton – értesíti az ajánlattevőket, és tájékoztatja őket arról, hogy ajánlati kötöttségük az értesítés ajánlatkérő általi megküldésével áll be.

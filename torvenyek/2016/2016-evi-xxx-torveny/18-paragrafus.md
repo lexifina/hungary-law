@@ -1,0 +1,1 @@
+18. § Az építési beruházásra irányuló szerződések becsült értékének kiszámításakor figyelembe kell venni mind az építési munkák költségét, mind pedig az építési munka kivitelezéséhez szükséges, az ajánlatkérő által az ajánlattevő részére teljesített árubeszerzés teljes becsült értékét.

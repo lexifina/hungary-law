@@ -1,0 +1,1 @@
+63. § Az eljárás nyertese az az ajánlattevő, aki az ajánlatkérő részére az eljárást megindító felhívásban – több szakaszból álló eljárásban az ajánlattételi felhívásban – és a dokumentációban meghatározott feltételek alapján, valamint a 61. § (2) bekezdésében meghatározott értékelési szempontok egyike szerint a legkedvezőbb érvényes ajánlatot tette.

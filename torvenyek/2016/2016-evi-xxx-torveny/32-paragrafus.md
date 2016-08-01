@@ -1,0 +1,3 @@
+32. § (1) Az ajánlatkérő a szerződés vagy a keretmegállapodás megkötésétől számított negyvennyolc napon belül köteles az uniós hirdetményminta rendeletben meghatározott hirdetményt közzétenni a beszerzési eljárás eredményéről.
+
+(2) Egyes, a szerződés vagy keretmegállapodás megkötésére vonatkozó információk közlése mellőzhető, ha ezen információ közlése akadályozná a jogérvényesítést vagy más módon ellentétes lenne a közérdekkel, így különösen a honvédelmi vagy nemzetbiztonsági érdeket sértene, vagy sértené valamelyik gazdasági szereplő törvényes üzleti érdekeit, vagy a gazdasági szereplők közötti tisztességes versenyt.

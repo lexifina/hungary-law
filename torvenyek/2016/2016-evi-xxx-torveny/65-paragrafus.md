@@ -1,0 +1,3 @@
+65. § (1) Az ajánlatkérő az érvényes ajánlatot tevő ajánlattevő kérésére köteles tájékoztatást adni a nyertes ajánlat jellemzőiről és az általa tett ajánlathoz viszonyított előnyeiről, a kérelem kézhezvételétől számított öt napon belül.
+
+(2) Az ajánlatkérő dönthet úgy, hogy egyes, a szerződés vagy a keretmegállapodás megkötésére vonatkozó információk közlését mellőzi, ha ezen információk közlése akadályozná a jogérvényesítést vagy más módon ellentétes volna a közérdekkel, így különösen honvédelmi vagy nemzetbiztonsági érdeket sértene, vagy sértené az ajánlattevők törvényes üzleti érdekeit, vagy az ajánlattevők közötti tisztességes versenyt.
