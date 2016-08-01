@@ -1,0 +1,3 @@
+## 3. § Az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet (a továbbiakban: Kr2.) 5. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) Ha az OEP az ellenőrzése során megállapítja, hogy a munkáltató jogosulatlanul vett igénybe vagy használt fel támogatást, a jogosulatlanul igénybe vett vagy felhasznált támogatás összegét az OEP jogosult a munkáltató esedékes teljesítményfinanszírozásából levonni. Ha a munkáltató teljesítményfinanszírozása a jogosulatlanul igénybe vett vagy felhasznált támogatás összegének levonására fedezetet nem nyújt, azt a munkáltató az OEP felszólítására köteles visszafizetni.”
