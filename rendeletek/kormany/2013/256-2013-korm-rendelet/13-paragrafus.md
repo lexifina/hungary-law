@@ -1,5 +1,5 @@
+## 12. §[^30]
+
 ## 8. Módosító rendelkezések
 
-13. §[^30]
-
-[^30]: A 13–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^30]: A 12. §-t a 30/2015. (II. 25.) Korm. rendelet 90. § c) pontja hatályon kívül helyezte.

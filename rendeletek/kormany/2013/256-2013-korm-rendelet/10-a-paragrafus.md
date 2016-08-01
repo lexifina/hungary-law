@@ -1,3 +1,3 @@
-10/A. §[^28]
+## 10. §[^27]
 
-[^28]: A 10/A. §-t a 40/2014. (II. 24.) Korm. rendelet 16. §-a iktatta be, hatályon kívül helyezte a 364/2014. (XII. 30.) Korm. rendelet 108. §-a.
+[^27]: A 10. §-t a 30/2015. (II. 25.) Korm. rendelet 90. § c) pontja hatályon kívül helyezte.

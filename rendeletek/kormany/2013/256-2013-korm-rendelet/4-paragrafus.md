@@ -8,7 +8,7 @@ a) az adott év március 1-je és augusztus 31-e közötti időszakra vonatkozó
 
 b) az adott év szeptember 1-je és az adott évet követő év február 28-a közötti időszakra vonatkozóan az adott év július 1-jei munkáltatói foglalkoztatási adatok alapján
 
-állapítja meg.
+## állapítja meg.
 
 (4)[^13] A (3) bekezdés alapján megállapított vagy az 5. § (2) bekezdésében foglalt bejelentés figyelembe vételével módosított támogatási összeget az OEP havonta utalványozza a munkáltatónak.
 

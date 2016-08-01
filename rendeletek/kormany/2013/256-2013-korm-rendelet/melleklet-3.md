@@ -510,7 +510,7 @@
 
 3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez
 
-Igénylő lap az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vehető támogatáshoz
+## Igénylő lap az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vehető támogatáshoz
 
 1. A munkáltatóra vonatkozó adatok
 
@@ -528,7 +528,7 @@ Igénylő lap az egészségügyi ágazati előmeneteli szabályok hatálya alá 
 
 1.7. KSH kódja,
 
-1.8.[^47]
+1.8.[^41]
 
 1.9. OEP finanszírozási kód,
 
@@ -578,4 +578,4 @@ Igénylő lap az egészségügyi ágazati előmeneteli szabályok hatálya alá 
 
 4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáért.
 
-[^47]: A 3. melléklet 1.8. pontját a 413/2015. (XII. 23.) Korm. rendelet 63. § c) pontja hatályon kívül helyezte.
+[^41]: A 3. melléklet 1.8. pontját a 413/2015. (XII. 23.) Korm. rendelet 63. § c) pontja hatályon kívül helyezte.

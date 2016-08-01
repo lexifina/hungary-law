@@ -42,6 +42,6 @@
 
 | 21. | 520 820 |  | 20 820 | 30 820 | 30 820 |
 
-5. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^49]
+5. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^43]
 
-[^49]: Az 5. melléklet a 172/2016. (VII. 1.) Korm. rendelet 67. § (2) bekezdése szerint módosított szöveg.
+[^43]: Az 5. melléklet a 172/2016. (VII. 1.) Korm. rendelet 67. § (2) bekezdése szerint módosított szöveg.

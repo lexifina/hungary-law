@@ -38,7 +38,7 @@
 
 6. melléklet a 256/2013. (VII. 5.) Korm. rendelethez
 
-Beszámoló az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vett támogatásról
+## Beszámoló az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót foglalkoztató egészségügyi szolgáltató munkáltató által igénybe vett támogatásról
 
 1. A munkáltatóra vonatkozó adatok
 
@@ -56,7 +56,7 @@ Beszámoló az egészségügyi ágazati előmeneteli szabályok hatálya alá ta
 
 1.7. KSH kódja,
 
-1.8.[^50]
+1.8.[^44]
 
 1.9. OEP finanszírozási kód,
 
@@ -94,4 +94,4 @@ Beszámoló az egészségügyi ágazati előmeneteli szabályok hatálya alá ta
 
 4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáért.
 
-[^50]: A 6. melléklet 1.8. pontját a 413/2015. (XII. 23.) Korm. rendelet 63. § d) pontja hatályon kívül helyezte.
+[^44]: A 6. melléklet 1.8. pontját a 413/2015. (XII. 23.) Korm. rendelet 63. § d) pontja hatályon kívül helyezte.

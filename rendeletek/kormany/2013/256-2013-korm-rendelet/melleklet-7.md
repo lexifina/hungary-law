@@ -1,3 +1,3 @@
-7. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^51]
+7. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^45]
 
-[^51]: A 7. melléklet a 7. § (2) bekezdése alapján hatályát vesztette.
+[^45]: A 7. melléklet a 7. § (2) bekezdése alapján hatályát vesztette.
