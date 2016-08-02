@@ -6,6 +6,6 @@
 
 (4) Amennyiben az átalakítási engedély hatálya alatt a prototípus jármű nem készül el vagy annak vizsgálatai sikeres eredménnyel nem zárulnak le, úgy típusengedély vagy üzembehelyezési engedély csak újabb átalakítási engedély alapján adható ki. Az átalakítási engedély iránti kérelem ismételt benyújtása esetén a korábbi eljárásban benyújtott dokumentumok, valamint a korábbi engedély alapján végzett vizsgálatok eredményei csak akkor használhatók fel, ha a jogszabályokban, valamint átjárhatósági műszaki előírásokban meghatározott feltételeknek való megfelelésüket a gyártó, közösségi vasúti rendszeren közeledő vasúti jármű esetén a bejelentett szervezet nyilatkozata igazolja.
 
-(5)[^44] A hatóság az átalakítást követő új típusengedély iránti kérelmet egyszerűsített típusengedélyezési eljárásban bírálja el.
+(5)[^47] A hatóság az átalakítást követő új típusengedély iránti kérelmet egyszerűsített típusengedélyezési eljárásban bírálja el.
 
-[^44]: A 24. § (5) bekezdését a 82/2013. (XII. 29.) NFM rendelet 13. §-a iktatta be.
+[^47]: A 24. § (5) bekezdését a 82/2013. (XII. 29.) NFM rendelet 13. §-a iktatta be.

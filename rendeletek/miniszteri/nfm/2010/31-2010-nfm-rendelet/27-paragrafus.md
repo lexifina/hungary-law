@@ -1,23 +1,21 @@
-27. § (1) Az időszakos vizsga iránti kérelemhez mellékelni kell a 2. melléklet 7. pontjában felsorolt dokumentumokat, és a külön jogszabályban meghatározott igazgatási szolgáltatási díj befizetésének igazolását.
+27. § (1) Az időszakos vizsgálattal megbízott szervezet felhívására mellékelni kell a 2. melléklet 7. pontjában felsorolt dokumentumokat.
 
-(2) Az időszakos vizsga során a hatóság az (1) bekezdésben meghatározott dokumentumok, valamint a vasúti járművek időszakos vizsgálatát végző vizsgahely műhelyi vizsgálata alapján
+(2) Az időszakos vizsgálat során a vizsgálattal megbízott szervezet az (1) bekezdésben meghatározott dokumentumok, valamint műhelyi vizsgálat alapján
 
-a)[^47] vizsgálja, hogy a jármű üzemben tartója és a karbantartásért felelős szervezet teljesíti-e a jármű típusengedélyében, a jogszabályokban meghatározott követelményeket,
+a) vizsgálja, hogy a jármű üzemben tartója és a jármű teljesíti-e a jármű típus- és üzembehelyezési engedélyében, a jogszabályokban, műszaki előírásokban meghatározott követelményeket,
 
-b) ellenőrzi, hogy a jármű megfelel-e az üzembehelyezési engedélyben meghatározott típusazonosító adatoknak,
+b) ellenőrzi, hogy a jármű megfelel-e a típusengedélyben meghatározott típusmeghatározó adatoknak, és
 
 c) ellenőrzi a vasúti jármű pályaszámát és alvázszámát.
 
-(3) A vasúti jármű üzembentartója biztosítja az időszakos hatósági vizsgához szükséges hatósági járművizsga feltételeit és viseli annak költségeit.
+(3) Az időszakos vizsgálat eredményeinek megküldése mellett a vizsgálattal megbízott szervezet
 
-(4) Az időszakos vizsga eredményeképpen a hatóság
+a) tájékoztatja a közlekedési hatóságot, hogy a (2) bekezdés szerinti vizsgálatok megfelelő eredménnyel zárultak,
 
-a) megállapítja, hogy a vasúti jármű a soron következő időszakos vizsgáig forgalomban tartható, amennyiben a (2) bekezdés szerinti vizsgálatok megfelelő eredménnyel zárultak,
+b) ha a vasúti jármű műszaki állapota indokolja, javasolja a hatóságnak a jármű további üzemeltetésének feltételeit meghatározni, továbbá a soron következő időszakos vizsgálat határidejének a 26. § (1) bekezdésében meghatározottnál rövidebb időszakra korlátozását, valamint a jármű javításának vagy átalakításának elrendelését,
 
-b) ha a vasúti jármű műszaki állapota indokolja, meghatározza a jármű további üzemeltetésének feltételeit, továbbá a soron következő időszakos vizsga határidejét a 26. § (1) bekezdésében meghatározottnál rövidebb időszakra korlátozhatja, valamint a jármű javítását vagy átalakítását rendelheti el,
+c) javasolja a hatóságnak a vasúti jármű javításának vagy átalakításának végrehajtásáig a vasúti jármű üzemben tartásának felfüggesztését,
 
-c) a vasúti jármű javításának vagy átalakításának végrehajtásáig a vasúti jármű üzemben tartását felfüggeszti,
+d) a közlekedés biztonságát veszélyeztető hiányosság, valamint ha a vasúti jármű tényleges és nyilvántartott pályaszámában vagy alvázszámában eltérés, illetve azokon megváltoztatásra vagy olvashatatlanná tételre irányuló beavatkozás észlelhető, javasolja a hatóságnak a vasúti jármű forgalomból történő azonnali kivonását.
 
-d) a közlekedés biztonságát veszélyeztető hiányosság, valamint ha a vasúti jármű tényleges és nyilvántartott pályaszámában vagy alvázszámában eltérés vagy azokon megváltoztatásra vagy olvashatatlanná tételre irányuló beavatkozás észlelhető, a vasúti járművet a forgalomból azonnal kivonja.
-
-[^47]: A 27. § (2) bekezdés a) pontja a 82/2013. (XII. 29.) NFM rendelet 15. §-ával megállapított szöveg.
+(4) Ha az időszakos vizsgálattal megbízott szervezet nem a nemzeti járműnyilvántartásban nyilvántartott szervezet, vagy a vasúti jármű tényleges karbantartását végző műhely nem a közlekedési hatóság engedélyezési hatáskörébe tartozik, akkor a (3) bekezdésben foglalt adatszolgáltatási kötelezettség a jármű üzembentartóját terheli.

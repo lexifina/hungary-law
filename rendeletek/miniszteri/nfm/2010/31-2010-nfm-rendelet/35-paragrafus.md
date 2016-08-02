@@ -10,7 +10,7 @@ iránti kérelmet.
 
 (2) Azonos járműtípusba tartozó járművek esetén az (1) bekezdés iránti kérelmek azonos tartalommal összevontan is előterjeszthetők, ebben az esetben a kérelemhez mellékelni kell a járművek pályaszámának listáját.
 
-(3)[^59] Az első nyilvántartásba vételhez kiállított kérelemmel együtt be kell nyújtani a magyar pályaszámmal rendelkező járművekről pályaszámonként kiállított, az 1. melléklet szerinti, a járműtípusra vonatkozó adatlapot is.
+(3)[^65] Az első nyilvántartásba vételhez kiállított kérelemmel együtt be kell nyújtani a magyar pályaszámmal rendelkező járművekről pályaszámonként kiállított, az 1. melléklet szerinti, a járműtípusra vonatkozó adatlapot is.
 
 (4) A hatóság megteszi a szükséges intézkedéseket az általa a nemzeti járműnyilvántartásban rögzített adatok helyességének biztosítására; e célból információt kérhet más EGT-államok nemzeti járműnyilvántartását vezető szervektől, különösen olyan esetben, ha a kérelmező belföldön nem rendelkezik székhellyel.
 
@@ -22,4 +22,4 @@ b) a más EGT-államok nyilvántartás vezető szerveinek és biztonsági hatós
 
 c) az üzembentartó a 30. § és 34. § (1) bekezdése szerinti adatszolgáltatása alapján hivatalból vezeti át.
 
-[^59]: A 35. § (3) bekezdése a 82/2013. (XII. 29.) NFM rendelet 19. §-ával megállapított szöveg.
+[^65]: A 35. § (3) bekezdése a 82/2013. (XII. 29.) NFM rendelet 19. §-ával megállapított szöveg.
