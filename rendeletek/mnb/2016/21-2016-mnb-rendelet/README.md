@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-21-20-2
 | 2016-06-30 | 2016-21-20-2C.1 | 21/2016. (VI. 29.) MNB rendelet |
 | 2016-07-01 | 2016-21-20-2C.2 | 2010: CXXX. törvény |
 | 2016-08-01 | 2016-21-20-2C.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2016-08-02 | 2016-21-20-2C.4 | 9/2018. (III. 23.) MNB rendelet |
