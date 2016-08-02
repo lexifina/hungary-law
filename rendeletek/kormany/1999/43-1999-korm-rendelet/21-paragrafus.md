@@ -28,7 +28,7 @@ gyógypedagógiai oktatási intézményben ellátott tanuló után 2
 
 (9)[^181] Nem köthető finanszírozási szerződés új területi védőnői szolgálatra, illetve a körzethatár módosítását követően akkor, ha az ellátandók száma alapján számított pontérték városi településen nem éri el az 500, egyéb településen a 300 pontot.
 
-(10)[^182] Az egy pontra megállapított díj összege a védőnői ellátásra rendelkezésre álló előirányzatnak az ellátandók összesített pontszámával történő osztásával havonta kerül kiszámításra azzal, hogy az előirányzatból előzőleg le kell vonni a (11) bekezdés szerinti díjazáshoz szükséges összeget. Az egy pontra megállapított díj összege legfeljebb 400 Ft lehet.
+(10)[^182] Az egy pontra megállapított díj összege a védőnői ellátásra rendelkezésre álló előirányzatnak az ellátandók összesített pontszámával történő osztásával havonta kerül kiszámításra azzal, hogy az előirányzatból előzőleg le kell vonni a (11) bekezdés szerinti díjazáshoz szükséges összeget. Az egy pontra megállapított díj összege legfeljebb 500 Ft lehet.
 
 (11)[^183] A területi védőnői ellátást biztosító szolgáltató az ellátandó terület sajátosságainak megfelelően havonta az alábbi fix összegű díjazásra is jogosult:
 
@@ -71,7 +71,7 @@ c)[^191] a várandós anyák számát a fővárosi és megyei kormányhivatal n�
 [^179]: A 21. § új (7) bekezdését a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (7) bekezdés számozását (9) bekezdésre változtatta.
 [^180]: A 21. § új (8) bekezdését a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése iktatta be, egyidejűleg az eredeti (8) bekezdés számozását (10) bekezdésre változtatta.
 [^181]: A 21. § eredeti (7) bekezdésének számozását (9) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése.
-[^182]: A 21. § eredeti (8) bekezdésének számozását (10) bekezdésre változtatta és szövegét módosította a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése, illetve 5. § (5) bekezdése. A 21. § (10) bekezdése a 362/2013. (X. 11.) Korm. rendelet 5. § c) pontja szerint módosított szöveg.
+[^182]: A 21. § eredeti (8) bekezdésének számozását (10) bekezdésre változtatta és szövegét módosította a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése, illetve 5. § (5) bekezdése. A 21. § (10) bekezdése a 224/2016. (VII. 28.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
 [^183]: A 21. § (9) bekezdése a 329/2005. (XII. 29.) Korm. rendelet 16. § (5) bekezdésének a) pontja szerint módosított szöveg, számozását (11) bekezdésre változtatta a 79/2008. (IV. 3.) Korm. rendelet 1. § (2) bekezdése. A 21. § (11) bekezdés záró szövegrésze a 256/2013. (VII. 5.) Korm. rendelet 15. §-a szerint módosított szöveg.
 [^184]: A 21. § (11) bekezdés a) pontja a 40/2014. (II. 24.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^185]: A 21. § (11) bekezdés b) pontja a 40/2014. (II. 24.) Korm. rendelet 6. §-ával megállapított szöveg.

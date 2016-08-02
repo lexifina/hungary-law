@@ -74,7 +74,7 @@ c) a legalább heti 20 órában foglalkoztatott szakdolgozó esetén 10 000 Ft,
 
 (9)[^140] Ha a (8) bekezdés szerinti esetben az OTH-val munkaviszonyban álló orvos 60 napot meghaladó keresőképtelen állományban van, terhességi-gyermekágyi segélyt, csecsemőgondozási díjat, gyermekgondozási díjat vagy gyermekgondozást segítő ellátást vesz igénybe, és a helyettesítését az OTH-val szerződéses jogviszonyban álló másik háziorvos látja el, a finanszírozás a 10. § (1) bekezdésében meghatározott díjazás számítás szerinti átlagos havi díj 100 százalékával történik, ha a körzet lakosságszáma az 1200 főt eléri, alacsonyabb lakosságszám esetén a díjazás arányosan csökken.
 
-(10)[^141] A területi ellátási kötelezettségű háziorvosi szolgálatokat működtető szolgáltatók havonta 130 000 Ft összegű rezsitámogatásra jogosultak szolgálatonként. A támogatás utalványozására a (2) bekezdés szerinti díjjal egyidejűleg kerül sor.
+(10)[^141] A területi ellátási kötelezettségű háziorvosi szolgálatokat működtető szolgáltatók havonta 260 000 Ft összegű rezsitámogatásra jogosultak szolgálatonként. A támogatás utalványozására a (2) bekezdés szerinti díjjal egyidejűleg kerül sor.
 
 [^125]: Az 58/2009. (III. 18.) Korm. rendelet 18. § (8) bekezdése alapján a háziorvosi szolgáltató a vények és egyéb orvosi dokumentáció részét képező iratok nyomtatásához szükséges eszköz költségeinek részleges fedezetére a 2009. május havi finanszírozás során háziorvosi szolgálatonként egyszeri, 10 000 forint támogatási díjra jogosult.
 [^126]: A 14. § (2) bekezdése a 8/2015. (I. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
@@ -92,4 +92,4 @@ c) a legalább heti 20 órában foglalkoztatott szakdolgozó esetén 10 000 Ft,
 [^138]: A 14. § (7) bekezdését a 112/2004. (IV. 28.) Korm. rendelet 1. §-ának (2) bekezdése iktatta be, szövege a 364/2007. (XII. 23.) Korm. rendelet 16. § (7) bekezdése szerint módosított szöveg.
 [^139]: A 14. § (8) bekezdését a 104/2005. (VI. 11.) Korm. rendelet 2. § (2) bekezdése iktatta be, szövege a 329/2005. (XII. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított, a 364/2007. (XII. 23.) Korm. rendelet 16. § (8) bekezdése, a 30/2015. (II. 25.) Korm. rendelet 7. § a) pontja, a 192/2015. (VII. 21.) Korm. rendelet 26. § e) pontja szerint módosított szöveg.
 [^140]: A 14. § (9) bekezdését a 139/2011. (VII. 21.) Korm. rendelet 5. §-a iktatta be, szövege a 364/2014. (XII. 30.) Korm. rendelet 39. § d) pontja, a 30/2015. (II. 25.) Korm. rendelet 7. § b) pontja, a 192/2015. (VII. 21.) Korm. rendelet 26. § e) pontja, a 417/2015. (XII. 23.) Korm. rendelet 25. §-a szerint módosított szöveg.
-[^141]: A 14. § (10) bekezdését a 8/2015. (I. 29.) Korm. rendelet 2. §-a iktatta be.
+[^141]: A 14. § (10) bekezdését a 8/2015. (I. 29.) Korm. rendelet 2. §-a iktatta be, szövege a 224/2016. (VII. 28.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.

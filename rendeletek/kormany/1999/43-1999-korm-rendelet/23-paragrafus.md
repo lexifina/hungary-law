@@ -1,4 +1,4 @@
-23. § (1)[^216] A fogászati alapellátásban a fogorvosi szolgálat a területi kötelezettség szerint a szolgálathoz tartozó – és a szerződésben megállapított – lakosok számától függően a korcsoportonkénti szorzóval korrigált pontszám alapján havi alapdíjas finanszírozásban részesül. A díjfizetés alapjául szolgáló korcsoportos pontszám értéke 44,2 Ft/hó. A korcsoportonkénti szorzó
+23. § (1)[^216] A fogászati alapellátásban a fogorvosi szolgálat a területi kötelezettség szerint a szolgálathoz tartozó – és a szerződésben megállapított – lakosok számától függően a korcsoportonkénti szorzóval korrigált pontszám alapján havi alapdíjas finanszírozásban részesül. A díjfizetés alapjául szolgáló korcsoportos pontszám értéke 53,2 Ft/hó. A korcsoportonkénti szorzó
 
 a)[^217] gyermek, iskolai, ifjúsági szolgálat esetén 0–18 éves korig, ideértve a 22. § (6) bekezdésének b) pontja szerinti személyeket is 4,6
 
@@ -24,15 +24,15 @@ c)[^219] felnőtt szolgálat esetén
 
 (3)[^223] A fogászati ügyelet alapdíja:
 
-a)[^224] 50 000 fő alatti lakosságszám esetében, folyamatos elérhetőség biztosításával, minimum napi 4 óra helyszíni tartózkodással 399 000 Ft/hó,
+a)[^224] 50 000 fő alatti lakosságszám esetében, folyamatos elérhetőség biztosításával, minimum napi 4 óra helyszíni tartózkodással 480 000 Ft/hó,
 
-b)[^225] 50 001–100 000 fő közötti lakosságszám esetében, folyamatos elérhetőség biztosításával, minimum napi 6 óra helyszíni tartózkodással 450 000 Ft/hó,
+b)[^225] 50 001–100 000 fő közötti lakosságszám esetében, folyamatos elérhetőség biztosításával, minimum napi 6 óra helyszíni tartózkodással 542 000 Ft/hó,
 
-c)[^226] 100 000 fő feletti lakosságszám esetében, folyamatos elérhetőség biztosításával, minimum napi 6 óra helyszíni tartózkodással 530 000 Ft/hó,
+c)[^226] 100 000 fő feletti lakosságszám esetében, folyamatos elérhetőség biztosításával, minimum napi 6 óra helyszíni tartózkodással 638 000 Ft/hó,
 
 d) kizárólag munkaszüneti napokon, heti pihenőnapokon, valamint ünnepnapokon az a)–c) pontban foglalt folyamatos elérhetőséggel és az előírt helyszíni tartózkodással biztosított fogászati ügyeleti ellátás esetében az a)–c) pont szerinti összeg 50%-a.
 
-(4)[^227] Az OEP-pel kötött finanszírozási szerződés alapján havi 1,415 millió forint sürgősségi rendelkezésre állási díj illeti meg azt a fogászati ügyeleti ellátást végző szolgáltatót, aki – legalább 500 000 fő feletti lakosságszámú településen – napi 24 órában a folyamatos fogászati ellátást biztosítja.
+(4)[^227] Az OEP-pel kötött finanszírozási szerződés alapján havi 1,703 millió forint sürgősségi rendelkezésre állási díj illeti meg azt a fogászati ügyeleti ellátást végző szolgáltatót, aki – legalább 500 000 fő feletti lakosságszámú településen – napi 24 órában a folyamatos fogászati ellátást biztosítja.
 
 (5)[^228] Az egy éven túl helyettesítéssel ellátott alapellátást nyújtó területi ellátási kötelezettségű fogorvosi szolgálatok esetén a szolgáltató az alapdíj 60 százalékára jogosult. Nem tekinthető helyettesítésnek, ha a szolgáltató a praxis ellátására a teljes rendelési időben legfeljebb két fogorvost foglalkoztat.
 
@@ -50,7 +50,7 @@ d) kizárólag munkaszüneti napokon, heti pihenőnapokon, valamint ünnepnapoko
 
 (12)[^235] Az egyetemre szakképzésre bejelentkezett szakfogorvos-jelölt az egyetem által szakképzésre kijelölt fogorvosi szolgálatban, illetve szakrendelésen történő alkalmazása esetén a havi teljesítmény-elszámolás jelöltenként 50%-kal növelt havi rendelési idő figyelembevételével történik. Szolgálatonként, illetve szakrendelésenként legfeljebb két szakfogorvos-jelölt vehető figyelembe azzal, hogy egy jelölt egyidejűleg egy szolgálatban, illetve szakrendelésen, annak teljes rendelési idejében, a praxist ellátó fogszakorvos felügyeletével folytathat elszámolható tevékenységet. A növelt rendelési idő első alkalommal a szakfogorvos-jelölt alkalmazásának finanszírozóhoz történő bejelentését követő hónap teljesítményének elszámolásakor vehető figyelembe. A szakfogorvos-jelölt után az adott szakképzésre jelentkezést követően – az egyetem igazolása alapján – legfeljebb 48 hónapig lehet a növelt rendelési időt figyelembe venni.
 
-[^216]: A 23. § (1) bekezdésének nyitó szövegrésze a 151/2008. (V. 30.) Korm. rendelet 5. § (3) bekezdése, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése, a 362/2013. (X. 11.) Korm. rendelet 5. § e) pontja szerint módosított szöveg.
+[^216]: A 23. § (1) bekezdésének nyitó szövegrésze a 151/2008. (V. 30.) Korm. rendelet 5. § (3) bekezdése, a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése, a 224/2016. (VII. 28.) Korm. rendelet 3. § c) pontja szerint módosított szöveg.
 [^217]: A 23. § (1) bekezdésének a) pontja a 10/2007. (II. 6.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést első alkalommal a 2007. március havi kifizetéseknél kell alkalmazni.
 [^218]: A 23. § (1) bekezdésének b) pontja a 10/2007. (II. 6.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 447/2012. (XII. 29.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
 [^219]: A 23. § c) pontja a 447/2012. (XII. 29.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
@@ -58,10 +58,10 @@ d) kizárólag munkaszüneti napokon, heti pihenőnapokon, valamint ünnepnapoko
 [^221]: A 23. § (2a) bekezdését a 325/2011. (XII. 28.) Korm. rendelet 20. § (1) bekezdése iktatta be.
 [^222]: A 23. § (2b) bekezdését a 40/2014. (II. 24.) Korm. rendelet 7. §-a iktatta be, szövege a 192/2015. (VII. 21.) Korm. rendelet 26. § g) pontja szerint módosított szöveg.
 [^223]: A 23. § (3) bekezdése a 259/2012. (IX. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^224]: A 23. § (3) bekezdés a) pontja a 362/2013. (X. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^225]: A 23. § (3) bekezdés b) pontja a 362/2013. (X. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^226]: A 23. § (3) bekezdés c) pontja a 362/2013. (X. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
-[^227]: A 23. § (4) bekezdését a 15/2005. (I. 26.) Korm. rendelet 19. § (3) bekezdése hatályon kívül helyezte, újonnan a 259/2012. (IX. 14.) Korm. rendelet 1. §-a iktatta be, szövege a 362/2013. (X. 11.) Korm. rendelet 5. § f) pontja szerint módosított szöveg.
+[^224]: A 23. § (3) bekezdés a) pontja a 362/2013. (X. 11.) Korm. rendelet 2. §-ával megállapított, a 224/2016. (VII. 28.) Korm. rendelet 3. § d) pont da) alpontja szerint módosított szöveg.
+[^225]: A 23. § (3) bekezdés b) pontja a 362/2013. (X. 11.) Korm. rendelet 2. §-ával megállapított, a 224/2016. (VII. 28.) Korm. rendelet 3. § d) pont db) alpontja szerint módosított szöveg.
+[^226]: A 23. § (3) bekezdés c) pontja a 362/2013. (X. 11.) Korm. rendelet 2. §-ával megállapított, a 224/2016. (VII. 28.) Korm. rendelet 3. § d) pont dc) alpontja szerint módosított szöveg.
+[^227]: A 23. § (4) bekezdését a 15/2005. (I. 26.) Korm. rendelet 19. § (3) bekezdése hatályon kívül helyezte, újonnan a 259/2012. (IX. 14.) Korm. rendelet 1. §-a iktatta be, szövege a 224/2016. (VII. 28.) Korm. rendelet 3. § e) pontja szerint módosított szöveg.
 [^228]: A 23. § új (5) bekezdését a 102/2003. (VII. 17.) Korm. rendelet 7. § (3) bekezdése iktatta be, egyidejűleg az eredeti (5)–(9) bekezdés számozását (6)–(10) bekezdésre változtatva. A 23. § (5) bekezdése a 365/2010. (XII. 30.) Korm. rendelet 5. §-ával megállapított, a 192/2015. (VII. 21.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
 [^229]: A 23. § (5) bekezdésének utolsó mondata a 21/2000. (III. 3.) Korm. rendelet 15. §-ának (2) bekezdésével megállapított szöveg. Az (5) bekezdés számozását (6) bekezdésre változtatta a 102/2003. (VII. 17.) Korm. rendelet 7. § (3) bekezdése.
 [^230]: A 23. § (6) bekezdésének számozását a 102/2003. (VII. 17.) Korm. rendelet 7. § (3) bekezdése (7) bekezdésre változtatta, szövege a 10/2007. (II. 6.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 12. § (1) bekezdése alapján a rendelkezést első alkalommal a 2007. március havi kifizetéseknél kell alkalmazni.
