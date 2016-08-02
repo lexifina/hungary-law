@@ -1,4 +1,4 @@
-## 5–6. §[^1]
+## 5–6. §[^3]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 5. § és a 6. § 2016. augusztus 10-én lép hatályba.
 
-[^1]: Az 5–6. § a 7. § (2) bekezdése alapján 2016. augusztus 10-én lép hatályba.
+[^3]: Az 5–6. § a 7. § (2) bekezdése alapján 2016. augusztus 10-én lép hatályba.
