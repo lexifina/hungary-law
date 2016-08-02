@@ -1,0 +1,1 @@
+A szakképzésről szóló 2011. évi CLXXXVII. törvény 90. § c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 48. § 9. és 10. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
