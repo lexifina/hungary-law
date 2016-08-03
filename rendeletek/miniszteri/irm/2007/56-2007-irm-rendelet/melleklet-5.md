@@ -42,7 +42,7 @@
 
 | .................................................... meghatalmazó fél aláírása | ............................................................ meghatalmazott jogi segítő (jogi segítő szervezet nevében eljáró ügyvéd) aláírása, bélyegzőlenyomata |
 
-5. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^142]
+5. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^143]
 
 | NYOMTATVÁNY a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 42. § (1) bekezdése vagy 43. § (2) bekezdése alapján hozott kiutasító határozat elleni bírósági felülvizsgálati kérelem elkészítésére vonatkozó jogi segítségnyújtás engedélyezése iránti kérelemhez | A fővárosi és megyei kormányhivatal érkeztető bélyegzője |
 
@@ -80,4 +80,4 @@
 
 | Melléklet: | .......................................................................... számú kiutasító határozat |
 
-[^142]: Az 5. mellékletet a 30/2015. (X. 30.) IM rendelet 26. § (3) bekezdése iktatta be.
+[^143]: Az 5. mellékletet a 30/2015. (X. 30.) IM rendelet 26. § (3) bekezdése iktatta be.

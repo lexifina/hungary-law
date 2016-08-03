@@ -188,7 +188,7 @@
 
 |  | 7.8. a törvényen alapuló tartással kapcsolatos per, ideértve a tartásdíjnak a kötelezett járandóságait folyósító szervtől vagy más személytől való behajtása, a tartásdíj megszüntetése vagy összegének megváltoztatása, továbbá a tartásdíjra irányuló végrehajtás megszüntetése vagy korlátozása iránti per is |
 
-|  | 7.9. a munkaviszonnyal, a közszolgálati és a közalkalmazotti jogviszonnyal, más szolgálati viszonnyal, valamint a szövetkezeti tagsági viszony alapján létrejött munkaviszony jellegű jogviszonnyal kapcsolatos per (a továbbiakban: munkaügyi per), kivéve azokat a munkaügyi pereket, amelyekben a feleket tárgyi illetékfeljegyzési jog illeti meg |
+|  | 7.9. a munkaviszonnyal, a közszolgálati, a kormányzati szolgálati, az állami szolgálati és a közalkalmazotti jogviszonnyal, más szolgálati viszonnyal, valamint a szövetkezeti tagsági viszony alapján létrejött munkaviszony jellegű jogviszonnyal kapcsolatos per (a továbbiakban: munkaügyi per), kivéve azokat a munkaügyi pereket, amelyekben a feleket tárgyi illetékfeljegyzési jog illeti meg |
 
 |  | 7.10. a bányakár megtérítése iránti per |
 
@@ -246,6 +246,6 @@
 
 | .......................................................................... kérelmező aláírása |
 
-2. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^139]
+2. melléklet az 56/2007. (XII. 22.) IRM rendelethez[^140]
 
-[^139]: A 2. melléklet a 8/2015. (IV. 14.) IM rendelet 12. § (2) bekezdésével megállapított szöveg.
+[^140]: A 2. melléklet a 8/2015. (IV. 14.) IM rendelet 12. § (2) bekezdésével megállapított szöveg.

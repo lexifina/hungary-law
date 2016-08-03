@@ -1,4 +1,4 @@
-## V/A. Fejezet[^42]
+## V/A. Fejezet[^43]
 
 ## A KIUTASÍTOTT KÜLFÖLDIEK RÉSZÉRE BIZTOSÍTOTT
 
@@ -12,4 +12,4 @@
 
 (3) E fejezet hatálya alá tartozó eljárások során a jogi segítségnyújtó szolgálat és jogi segítő, illetve a tolmács között elsősorban az elektronikus kapcsolattartást kell igénybe venni.
 
-[^42]: Az V/A. fejezetet (46/A–46/F. §) a 29/2014. (IV. 30.) KIM rendelet 3. § (3) bekezdése iktatta be.
+[^43]: Az V/A. fejezetet (46/A–46/F. §) a 29/2014. (IV. 30.) KIM rendelet 3. § (3) bekezdése iktatta be.
