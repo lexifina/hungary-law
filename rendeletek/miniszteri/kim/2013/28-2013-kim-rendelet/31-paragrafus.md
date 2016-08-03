@@ -26,6 +26,6 @@ e) beszkenneli a külképviseleteken szavazók szavazólapjait, és informatikai
 
 f) a szavazás – az Európai Unió valamennyi tagállamában történő – befejezését követően folyamatosan nyilvánosságra hozza a választás előzetes eredményére vonatkozó tájékoztató adatokat.
 
-g)[^11]
+g)[^13]
 
-[^11]: A 31. § g) pontját a 26/2014. (IV. 14.) KIM rendelet 3. §-a hatályon kívül helyezte.
+[^13]: A 31. § g) pontját a 26/2014. (IV. 14.) KIM rendelet 3. §-a hatályon kívül helyezte.

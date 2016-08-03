@@ -40,6 +40,6 @@
 
 ## ** Csak a külképviseleten és átjelentkezéssel szavazó választópolgárok szavazatainak megszámlálására kijelölt szavazókörben
 
-66. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^21]
+66. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^23]
 
-[^21]: A 66. mellékletet a 6/2014. (IX. 19.) IM rendelet 11. § (2) bekezdése iktatta be.
+[^23]: A 66. mellékletet a 6/2014. (IX. 19.) IM rendelet 11. § (2) bekezdése iktatta be.

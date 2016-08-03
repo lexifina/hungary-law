@@ -32,6 +32,6 @@
 
 ## * Csak a jegyzék első oldalán
 
-62. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^17]
+62. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^19]
 
-[^17]: A 62. mellékletet a 6/2014. (IX. 19.) IM rendelet 11. § (2) bekezdése iktatta be.
+[^19]: A 62. mellékletet a 6/2014. (IX. 19.) IM rendelet 11. § (2) bekezdése iktatta be.

@@ -34,6 +34,6 @@
 
 ## * Csak a jegyzék első oldalán
 
-64. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^19]
+64. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^21]
 
-[^19]: A 64. mellékletet a 6/2014. (IX. 19.) IM rendelet 11. § (2) bekezdése iktatta be.
+[^21]: A 64. mellékletet a 6/2014. (IX. 19.) IM rendelet 11. § (2) bekezdése iktatta be.

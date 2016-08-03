@@ -140,6 +140,6 @@
 
 | 68. | Szavazóköri jegyzőkönyv az egy szavazókörös településen és a kijelölt szavazókörben az országgyűlési képviselők időközi választásán | X |  | X |  |
 
-2–59. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^14]
+2–59. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^16]
 
-[^14]: A 2–59. melléklet a 2/2014. (I. 16.) KIM rendelet 7. §-a, a 26/2014. (IV. 14.) KIM rendelet 4. §-a, a 31/2014. (V. 5.) KIM rendelet 2. §-a, a 9/2016. (VI. 28.) IM rendelet 29. §-a szerint módosított szöveg.
+[^16]: A 2–59. melléklet a 2/2014. (I. 16.) KIM rendelet 7. §-a, a 26/2014. (IV. 14.) KIM rendelet 4. §-a, a 31/2014. (V. 5.) KIM rendelet 2. §-a, a 9/2016. (VI. 28.) IM rendelet 29. §-a szerint módosított szöveg.

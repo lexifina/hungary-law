@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-28-20-2
 | 2014-05-06 | 2013-28-20-2T.7 | 31/2014. (V. 5.) KIM rendelet |
 | 2014-09-20 | 2013-28-20-2T.8 | 6/2014. (IX. 19.) IM rendelet |
 | 2016-06-29 | 2013-28-20-2T.9 | 2/2014. (I. 16.) KIM rendelet |
+| 2016-08-03 | 2013-28-20-2T.10 | 17/2016. (VIII. 2.) IM rendelet |

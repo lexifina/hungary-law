@@ -8,7 +8,7 @@ a) továbbítja a szavazatszámláló bizottság (a továbbiakban: SZSZB) rész�
 
 b) az informatikai rendszerben biztosítja a szavazóköri névjegyzék megtekinthetőségét,
 
-c)[^4] a szavazóköri névjegyzékkel kapcsolatos döntését a kérelmező lakcímére is megküldi.
+c)[^6] a szavazóköri névjegyzékkel kapcsolatos döntését a kérelmező lakcímére is megküldi.
 
 (2) A HVI – a Ve.-ben foglalt feladatain túl –
 
@@ -46,4 +46,4 @@ a) a szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok
 
 b) a kinyomtatott névjegyzéket és a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékét az utolsó oldalon aláírásával és lebélyegzéssel hitelesíti.
 
-[^4]: A 9. § (1) bekezdés c) pontját a 2/2014. (I. 16.) KIM rendelet 3. §-a iktatta be.
+[^6]: A 9. § (1) bekezdés c) pontját a 2/2014. (I. 16.) KIM rendelet 3. §-a iktatta be.
