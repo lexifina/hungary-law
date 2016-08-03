@@ -4,7 +4,7 @@
 
 Melléklet a 9/2003. (V. 6.) IM–BM–PM
 
-rendelethez[^19]
+rendelethez[^21]
 
 A személyes költségmentesség engedélyezése iránti kérelemről kitöltendő nyomtatvány a következő adatokat tartalmazza:
 
@@ -26,4 +26,4 @@ b) rendelkezik-e a szokásos életszükségleti és berendezési tárgyakon, a m
 
 7. A nyomtatvány kitöltésének keltét és a kérelmező, valamint a hozzátartozó aláírását.
 
-[^19]: A melléklet a 23/2014. (III. 14.) KIM rendelet 6. §-ával megállapított szöveg.
+[^21]: A melléklet a 23/2014. (III. 14.) KIM rendelet 6. §-ával megállapított szöveg.

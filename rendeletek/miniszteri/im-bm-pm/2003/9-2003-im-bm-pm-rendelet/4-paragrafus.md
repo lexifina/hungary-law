@@ -6,8 +6,8 @@
 
 (4) Ha a kérelmező vagy a hozzátartozója ösztöndíjban, szakképzéssel összefüggő juttatásban, nyugellátásban vagy a társadalombiztosítás alapján járó ellátásban részesül, a járandóság összegét az ezt feltüntető utolsó postai szelvénnyel vagy folyószámla-kivonattal kell igazolnia.
 
-(5)[^8] Ha a kérelmező vagy a hozzátartozója munkanélküli járadékban vagy egyéb rendszeres szociális juttatásban részesül, a folyósítás időtartamát és a szociális juttatás összegét munkanélküli kérelmező esetében a lakóhely szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának munkaügyi kirendeltsége, egyébként a lakóhely szerinti önkormányzati szerv igazolja. Egyéb rendszeres pénzbeli juttatás esetén az ellátás összegét megállapító határozat kiadmányát vagy az erről szóló szerződést kell becsatolni.
+(5)[^10] Ha a kérelmező vagy a hozzátartozója munkanélküli járadékban vagy egyéb rendszeres szociális juttatásban részesül, a folyósítás időtartamát és a szociális juttatás összegét munkanélküli kérelmező esetében a lakóhely szerint illetékes fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalának munkaügyi kirendeltsége, egyébként a lakóhely szerinti önkormányzati szerv igazolja. Egyéb rendszeres pénzbeli juttatás esetén az ellátás összegét megállapító határozat kiadmányát vagy az erről szóló szerződést kell becsatolni.
 
 (6) Nem kell e rendelet melléklete szerinti nyomtatványt kitölteni a 2. § (3) bekezdésében meghatározott esetekben. Ehelyett a 2. § (3) bekezdés a)–c) pontjaiban írt körülmények igazolására – az ott felsoroltak szerint – a nevelésbe vételről szóló határozat kiadmányát; az időskorúak járadékát, illetve a rendszeres szociális segélyt folyósító szerv igazolását a segélyre való jogosultságról; a tartózkodási hely szerinti települési önkormányzat jegyzőjének igazolását vagy a hajléktalanok gondozásával foglalkozó szervezet által kiállított igazolványt kell csatolni a kérelemhez.
 
-[^8]: A 4. § (5) bekezdése az 50/2012. (XII. 4.) KIM rendelet 17. §-a szerint módosított szöveg.
+[^10]: A 4. § (5) bekezdése az 50/2012. (XII. 4.) KIM rendelet 17. §-a szerint módosított szöveg.
