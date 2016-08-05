@@ -182,7 +182,7 @@ Ft/db
 
 | 11. Vasútbiztonsági tanúsítvány vagy engedély kiadásának hatósági díjai |  |
 
-| a) Pályavasúti társaság, illetve integrált vasúti társaság |  |
+| a) Pályahálózat-működtető, illetve integrált vasúti társaság |  |
 
 | vasúti pályahálózatot működtető szervezeti egysége részére: |  |
 
@@ -202,7 +202,7 @@ Ft/db
 
 | – 100 db feletti vasúti járművel rendelkező vasúti társaság | 2 032 000 |
 
-| c) Saját célú vasutak részére vasútbiztonsági tanúsítvány, |  |
+| c) Saját célú vasúti pályahálózat, iparvágány részére vasútbiztonsági tanúsítvány, |  |
 
 | illetve vasútbiztonsági engedély külön-külön | 724 000 |
 
@@ -326,4 +326,4 @@ Ft/db
 
 | 30. Vasúti alrendszerek, rendszerelemek karbantartásáért felelős szervezetek tanúsítása, engedélyezése | 1 248 000 |
 
-[^13]: A 2. melléklet az 52/2012. (IX. 11.) NFM rendelet 10. §-a és 11. § (2) bekezdése, a 23/2013. (V. 22.) NFM rendelet 9–10. §-a, a 81/2013. (XII. 23.) NFM rendelet 5. §-a szerint módosított szöveg.
+[^13]: A 2. melléklet az 52/2012. (IX. 11.) NFM rendelet 10. §-a és 11. § (2) bekezdése, a 23/2013. (V. 22.) NFM rendelet 9–10. §-a, a 81/2013. (XII. 23.) NFM rendelet 5. §-a, a 33/2016. (VIII. 2.) NFM rendelet 6. §-a szerint módosított szöveg.
