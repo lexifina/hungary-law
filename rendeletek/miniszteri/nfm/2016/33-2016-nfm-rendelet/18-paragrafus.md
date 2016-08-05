@@ -1,0 +1,3 @@
+## 17. § Az R5. 6. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) A vasúti járművezetői tanúsítvány megszerzéséhez szükséges vasúti pályahálózat vonal- és állomásismeretre vonatkozó képzési programot az adott pályahálózat működtetőjének egyetértésével bármely vasúti társaság vagy az általa megbízott képzőszervezet, a vasúti járművekre vonatkozó jármű típusismeretre vonatkozó képzési programot az adott járművet üzemeltető vasúti társaság vagy az általa megbízott képzőszervezet nyújtja be a vizsgaközpontnak. A képzési program tartalmazza az (1) bekezdésben meghatározottakon túl a vizsgatémaköröket és a vizsgatémakörök ellenőrző kérdéseit.”

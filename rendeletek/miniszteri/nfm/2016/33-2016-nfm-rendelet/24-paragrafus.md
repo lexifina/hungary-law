@@ -1,0 +1,1 @@
+## „(3) Ha a hatóság a regisztrált szervezet regisztrációját felfüggeszti vagy visszavonja, a hatóság hivatalból felfüggeszti vagy visszavonja a szervezet alapképzési tevékenységét is. A regisztrált szervezet alapképzési tevékenység végzésére irányuló szándékot legkorábban a felfüggesztésről vagy visszavonásról szóló döntés közlését követő 6 hónap eltelte után jelenthet be.”
