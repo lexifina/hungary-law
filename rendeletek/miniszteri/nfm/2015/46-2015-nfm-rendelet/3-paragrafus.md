@@ -1,1 +1,3 @@
-## 2. § A transzeurópai vasúti rendszer ellenőrző-irányító és jelző alrendszerére vonatkozó részletes műszaki és üzemeltetési szabályokat, illetve az alrendszer vizsgálati eljárása során alkalmazandó eljárások követelményeire vonatkozó rendelkezéseket a 2012/696/EU bizottsági határozattal, valamint a 2015/14/EU bizottsági határozattal módosított 2012/88/EU bizottsági határozat tartalmazza.
+## 2. §[^1]
+
+[^1]: A 2. §-t a 33/2016. (VIII. 2.) NFM rendelet 41. § a) pontja hatályon kívül helyezte.
