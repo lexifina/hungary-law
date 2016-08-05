@@ -1,5 +1,8 @@
-5/A. §[^21] (1) A hatóság a képzési engedélyt vagy az egyszerűsített képzési engedélyt visszavonja, ha a képzőszervezet 180 napon belül három esetben a vizsgázót (vizsgázókat) a vizsgára bejelentette, de a 18. § (3) bekezdésében foglalt feltételek nem teljesülnek.
+## 5. §[^13]
 
-(2) Ha a hatóság a képzőszervezet képzési vagy egyszerűsített képzési engedélyét visszavonja, a hatóság hivatalból visszavonja a szervezet regisztrációját is.
+5/A. §[^14] (1) A hatóság a képzőszervezetet törli az alapképzést végző szolgáltatók nyilvántartásából, ha a képzőszervezet 180 napon belül három esetben a vizsgázót (vizsgázókat) a vizsgára bejelentette, de a 18. § (3) bekezdésében foglalt feltételek nem teljesülnek.
 
-[^21]: Az 5/A. §-t a 22/2015. (V. 6.) NFM rendelet 10. §-a iktatta be.
+(2) Ha a hatóság a képzőszervezetet törli az alapképzést végző szolgáltatók nyilvántartásából, a hatóság hivatalból visszavonja a szervezet regisztrációját is.
+
+[^13]: Az 5. §-t a 33/2016. (VIII. 2.) NFM rendelet 33. § b) pontja hatályon kívül helyezte.
+[^14]: Az 5/A. §-t a 22/2015. (V. 6.) NFM rendelet 10. §-a iktatta be, szövege a 33/2016. (VIII. 2.) NFM rendelet 16. §-ával megállapított szöveg.

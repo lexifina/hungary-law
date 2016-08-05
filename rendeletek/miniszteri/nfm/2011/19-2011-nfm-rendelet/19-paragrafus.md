@@ -8,11 +8,11 @@
 
 (4) Az írásbeli vizsgatevékenység követelményeinek nem felel meg az a vizsgázó, aki az írásbeli feladatokra adott válaszok több mint 25%-ára „nem felelt meg” minősítést kap.
 
-(5)[^51] Összetett vizsga esetében a szóbeli vizsgatevékenység csak sikeres írásbeli vizsga után kezdhető meg. A vizsgabiztosnak az írásbeli vizsga eredményét a szóbeli vizsgát megelőzően haladéktalanul a képzőszervezet képviselőjével írásban kell közölnie. A képzőszervezet a vizsgázót az írásbeli vizsga eredményéről a tudomásszerzést követően haladéktalanul értesíti. A vizsgabiztos (a vizsgabizottság elnöke) az írásbeli vizsga eredményét a vizsgázóval a szóbeli vizsga előtt szóban közli. A vizsgázó kérésére lehetőséget kell biztosítani a kijavított írásbeli vizsga megtekintésére.
+(5)[^57] Összetett vizsga esetén a szóbeli vizsgatevékenység csak sikeres írásbeli vizsgatevékenység után kezdhető meg. A vizsgabiztosnak az írásbeli vizsgatevékenység eredményét a szóbeli vizsgatevékenységet megelőzően haladéktalanul a képzőszervezet képviselőjével írásban kell közölnie, kivéve, ha az írásbeli és a szóbeli vizsgatevékenység egy napon van. A képzőszervezet a vizsgázót az írásbeli vizsgatevékenység eredményéről a tudomásszerzést követően haladéktalanul értesíti. A vizsgabiztos (a vizsgabizottság elnöke) az írásbeli vizsgatevékenység eredményét a vizsgázóval a szóbeli vizsgatevékenység előtt szóban közli. A vizsgázó kérésére lehetőséget kell biztosítani a kijavított írásbeli vizsgafeladatok megtekintésére.
 
-(6)[^52] Összetett vizsga esetében a gyakorlati vizsgatevékenység csak sikeres elméleti vizsgatevékenység után kezdhető meg. Vasúti járművezetési gyakorlati vizsgatevékenységen az a képzésben részt vevő vehet részt, aki a gyakorlati vizsga során használt vasúti pályahálózatra érvényes, sikeres vasúti pályahálózati ismereti vizsgával, és az adott járműre vonatkozó járműismereti modul elméleti és gyakorlati vizsgatémaköreiből sikeres vizsgával rendelkezik.
+(6)[^58] Összetett vizsga esetén a gyakorlati vizsgatevékenység csak sikeres elméleti vizsgatevékenység után kezdhető meg. Vasúti járművezetési gyakorlati vizsgatevékenységen az a képzésben részt vevő vehet részt, aki a gyakorlati vizsga során használt vasúti pályahálózatra érvényes, sikeres vasúti infrastruktúra ismereti vizsgával, és az adott járműre vonatkozó kategória modul és – ha a vezetési gyakorlat és a típusismereti modul vizsga nem egyszerre kerül lebonyolításra – a típusismereti modul vizsgatémaköreiből sikeres vizsgával rendelkezik.
 
 (7) Az alapvizsgát „megfelelt” vagy „nem felelt meg” minősítéssel kell értékelni. „Nem felelt meg” minősítést kap az a vizsgázó, aki egy vagy több vizsgatevékenységből „nem felelt meg” minősítést kapott.
 
-[^51]: A 19. § (5) bekezdése a 22/2015. (V. 6.) NFM rendelet 19. §-ával megállapított szöveg.
-[^52]: A 19. § (6) bekezdése a 10/2012. (II. 15.) NFM rendelet 15. §-a szerint módosított szöveg.
+[^57]: A 19. § (5) bekezdése a 33/2016. (VIII. 2.) NFM rendelet 20. §-ával megállapított szöveg.
+[^58]: A 19. § (6) bekezdése a 33/2016. (VIII. 2.) NFM rendelet 20. §-ával megállapított szöveg.

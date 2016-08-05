@@ -1,6 +1,6 @@
 ## Időszakos oktatásra, illetve időszakos vizsgára kötelezett munkavállalók és az időszakos oktatás rendje
 
-|  | Országos vasúti pályahálózat | Térségi vasúti pályahálózat | Saját célú vasúti pályahálózat | Elővárosi vasúti pályahálózat | Helyi vasúti pályahálózat | Valamennyi keskeny nyomtávú pályahálózat |
+|  | Országos jelentőségű vasútvonalak | Térségi vasúti pályahálózat | Saját célú vasúti pályahálózat, iparvágány, kisvasút, múzeumvasút | Elővárosi vasúti pályahálózat | Helyi, városi vasúti pályahálózat | Valamennyi keskeny nyomtávú pályahálózat |
 
 |  | Éves oktatási idő (óra) | gyakoriság (hónap) | Éves oktatási idő (óra) | gyakoriság (hónap) | Éves oktatási idő (óra) | gyakoriság (hónap) | Éves oktatási idő (óra) | gyakoriság (hónap) | Éves oktatási idő (óra) | gyakoriság (hónap) | Éves oktatási idő (óra) | gyakoriság (hónap) |
 
@@ -24,6 +24,6 @@
 
 | Járművek üzemeltetésével és fenntartásával összefüggő munkakörök | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 | 6 | 12 |
 
-3. melléklet a 19/2011. (V. 10.) NFM rendelethez[^116]
+3. melléklet a 19/2011. (V. 10.) NFM rendelethez[^128]
 
-[^116]: A 3. melléklet a 22/2015. (V. 6.) NFM rendelet 38. § (1) bekezdés b) pontjával megállapított szöveg.
+[^128]: A 3. melléklet a 33/2016. (VIII. 2.) NFM rendelet 31. § (2) bekezdésével megállapított szöveg.

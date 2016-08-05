@@ -1,4 +1,4 @@
-5. melléklet a 19/2011. (V. 10.) NFM rendelethez[^118]
+5. melléklet a 19/2011. (V. 10.) NFM rendelethez[^130]
 
 ## Okmányok
 
@@ -76,4 +76,4 @@ A munkavállaló időszakos vizsgára történő bejelentése.
 
 A vizsgajegyzőkönyv tartalmazza a vizsga megnevezését, a vizsgázó adatait, valamint a vizsgán elért minősítést.
 
-[^118]: Az 5. melléklet a 22/2015. (V. 6.) NFM rendelet 38. § (1) bekezdés d) pontjával megállapított szöveg.
+[^130]: Az 5. melléklet a 22/2015. (V. 6.) NFM rendelet 38. § (1) bekezdés d) pontjával megállapított szöveg.

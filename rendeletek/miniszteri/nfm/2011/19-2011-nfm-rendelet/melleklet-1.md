@@ -1,8 +1,8 @@
-1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^114]
+1. melléklet a 19/2011. (V. 10.) NFM rendelethez[^126]
 
 ## A rendelet alkalmazásakor figyelembe veendő munkakörök, feladatkörök és munkaköri csoportok
 
-I. Országos közforgalmú, térségi és saját célú vasúti pályahálózat
+I. Országos jelentőségű vasútvonalak, térségi és saját célú vasúti pályahálózat, iparvágány, kisvasút, múzeumvasút
 
 | Sorszám | Munkakör | Feladatkör |
 
@@ -59,6 +59,8 @@ I. Országos közforgalmú, térségi és saját célú vasúti pályahálózat
 | 25. | Gurításvezető |
 
 | 26. | Tolatásvezető |
+
+| 26/A. | Egyszerűsített forgalmi tolatásvezető | A sajátcélú pályahálózaton, iparvágányon, vontatási telepen tolatási műveletek szervezése, helyszínen történő irányítása és ellenőrzése. A tolatásvezető a tolatás vezetése mellett a kocsirendezői teendőkkel is megbízható. |
 
 | 27. | Vonali tolatásvezető, vonatvezető | A sajátcélú és keskeny nyomközű vasúti pályahálózaton és a csomóponti kiszolgálást végző vonatoknál, továbbá a munkavonatoknál a vonatok közlekedése során forgalmi tevékenység végzése. A szükségessé váló tolatási mozgások lebonyolítása során a tolatásvezetői teendők ellátása. |
 
@@ -274,7 +276,7 @@ I. Országos közforgalmú, térségi és saját célú vasúti pályahálózat
 
 | 124. | Hajtányvezető |
 
-II. Elővárosi és helyi vasúti pályahálózat
+II. Elővárosi, helyi és városi vasúti pályahálózat
 
 ## II.1. Elővárosi vasúti pályahálózat
 
@@ -400,7 +402,7 @@ II. Elővárosi és helyi vasúti pályahálózat
 
 | 54. | Közúti-vasúti kétéltűjármű vezető |
 
-## II.2. Helyi vasúti pályahálózat
+## II.2. Helyi, városi vasúti pályahálózat
 
 ## II.2.1. Közúti villamos vasúti pályahálózat
 
@@ -860,4 +862,4 @@ III. Egysínű függővasúti pálya
 
 IV. Valamennyi pályahálózat
 
-[^114]: Az 1. melléklet I/1.–I/106. sorszám alatti, a II.1./1.–II.1./44. sorszám alatti, a II.2.1./1–II.2.1./32. sorszám alatti, a II.2.2./1–II.2.2./43. sorszám alatti, a II.2.3./1–II.2.3./35. sorszám alatti, a II.2.4./1.–II.2.4./32. sorszám alatti, a II.2.5./1.–II.2.5/6. sorszám alatti, valamint a II/1. sorszám alatti munkakörök tekintetében a 36. § (2) bekezdése alapján 2013. január 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni. Az 1. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (1) bekezdése, az 5/2013. (II. 12.) NFM rendelet 23. § (1) bekezdése, a 22/2015. (V. 6.) NFM rendelet 38. § (2) bekezdés a) pontja és 40. § d) pontja szerint módosított szöveg.
+[^126]: Az 1. melléklet I/1.–I/106. sorszám alatti, a II.1./1.–II.1./44. sorszám alatti, a II.2.1./1–II.2.1./32. sorszám alatti, a II.2.2./1–II.2.2./43. sorszám alatti, a II.2.3./1–II.2.3./35. sorszám alatti, a II.2.4./1.–II.2.4./32. sorszám alatti, a II.2.5./1.–II.2.5/6. sorszám alatti, valamint a II/1. sorszám alatti munkakörök tekintetében a 36. § (2) bekezdése alapján 2013. január 1-jén lép hatályba; rendelkezéseit a hatálybalépését követően indult és a megismételt eljárásokban kell alkalmazni. Az 1. melléklet a 10/2012. (II. 15.) NFM rendelet 13. § (1) bekezdése, az 5/2013. (II. 12.) NFM rendelet 23. § (1) bekezdése, a 22/2015. (V. 6.) NFM rendelet 38. § (2) bekezdés a) pontja és 40. § d) pontja, a 33/2016. (VIII. 2.) NFM rendelet 31. § (1) bekezdése szerint módosított szöveg.

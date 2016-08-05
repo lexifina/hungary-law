@@ -1,3 +1,3 @@
-7. melléklet a 19/2011. (V. 10.) NFM rendelethez[^120]
+7. melléklet a 19/2011. (V. 10.) NFM rendelethez[^132]
 
-[^120]: A 7. melléklet az 5/2013. (II. 12.) NFM rendelet 23. § (5) bekezdésével megállapított szöveg.
+[^132]: A 7. melléklet az 5/2013. (II. 12.) NFM rendelet 23. § (5) bekezdésével megállapított szöveg.
