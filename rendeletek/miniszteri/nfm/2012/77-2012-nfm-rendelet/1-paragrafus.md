@@ -6,7 +6,7 @@ b) a BMSK Beruházási, Műszaki Fejlesztési, Sportüzemeltetési és Közbesze
 
 c) a Győr-Sopron-Ebenfurti Vasút Zártkörűen Működő Részvénytársaság;
 
-d) a „Hód” Sport Kft.;
+d)[^2]
 
 e) a HUNGARORING Sport Zártkörűen Működő Részvénytársaság;
 
@@ -30,15 +30,16 @@ n) a Nemzeti Infrastruktúra Fejlesztő zártkörűen működő Részvénytársa
 
 o) a Nemzeti Reorganizációs Nonprofit Korlátolt Felelősségű Társaság;
 
-p)[^2] a Nemzeti Fejlesztési és Stratégiai Intézet Korlátolt Felelősségű Társaság;
+p)[^3] a Nemzeti Fejlesztési és Stratégiai Intézet Korlátolt Felelősségű Társaság;
 
-q)[^3] a Magyar Turizmus Zártkörűen Működő Részvénytársaság;
+q)[^4] a Magyar Turisztikai Ügynökség Zártkörűen Működő Részvénytársaság;
 
-r)[^4] az MFK Magyar Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság
+r)[^5] az MFK Magyar Fejlesztési Központ Nonprofit Korlátolt Felelősségű Társaság
 
 felett az államot megillető tulajdonosi jogok és kötelezettségek összessége gyakorlójának 2018. december 31-ig a Nemzeti Fejlesztési Minisztériumot jelölöm ki.
 
 [^1]: Az 1. § a 46/2014. (XI. 19.) NFM rendelet 1. §-ával megállapított, nyitó szövegrésze a 22/2016. (VII. 15.) NFM rendelet 2. §-a szerint módosított szöveg.
-[^2]: Az 1. § p) pontját a 9/2015. (III. 5.) NFM rendelet 1. §-a iktatta be.
-[^3]: Az 1. § q) pontját újonnan a 9/2016. (IV. 25.) NFM rendelet 1. §-a iktatta be.
-[^4]: Az 1. § r) pontját a 9/2015. (III. 5.) NFM rendelet 1. §-a iktatta be.
+[^2]: Az 1. § d) pontját a 31/2016. (VII. 28.) NFM rendelet 2. §-a hatályon kívül helyezte.
+[^3]: Az 1. § p) pontját a 9/2015. (III. 5.) NFM rendelet 1. §-a iktatta be.
+[^4]: Az 1. § q) pontját újonnan a 9/2016. (IV. 25.) NFM rendelet 1. §-a iktatta be, szövege a 31/2016. (VII. 28.) NFM rendelet 1. §-ával megállapított szöveg.
+[^5]: Az 1. § r) pontját a 9/2015. (III. 5.) NFM rendelet 1. §-a iktatta be.
