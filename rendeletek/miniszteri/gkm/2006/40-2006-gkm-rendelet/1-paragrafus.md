@@ -1,7 +1,9 @@
 ## A rendelet hatálya
 
-## 1. § E rendelet hatálya kiterjed:
+## 1. §[^1] E rendelet hatálya kiterjed:
 
-a) a vasúti társaságokra [Vtv. 2. § (3) bekezdés 1. pont],
+a) a vasúti társaságokra,
 
-b) a saját célú vasúti tevékenységet végző szervezetekre [Vtv. 18. §].
+b) a vasútbiztonsági tanúsítvánnyal, vasútbiztonsági engedéllyel rendelkező iparvágányokra, saját célú vasúti pályahálózatokra, kisvasutakra, múzeumvasutakra.
+
+[^1]: Az 1. § a 33/2016. (VIII. 2.) NFM rendelet 1. §-ával megállapított szöveg.

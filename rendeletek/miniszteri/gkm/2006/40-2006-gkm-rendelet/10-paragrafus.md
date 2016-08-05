@@ -1,10 +1,10 @@
 ## A vasútbiztonsági tanúsítványra és a vasútbiztonsági engedélyre vonatkozó további szabályok
 
-10. § (1)[^23] A vasútbiztonsági tanúsítvány, kiegészítő tanúsítvány és a vasútbiztonsági engedély iránti kérelmet, valamint ezek mellékleteit magyar nyelven kell benyújtani.
+10. § (1)[^27] A vasútbiztonsági tanúsítvány, kiegészítő tanúsítvány és a vasútbiztonsági engedély iránti kérelmet, valamint ezek mellékleteit magyar nyelven kell benyújtani.
 
-(1a)[^24] A közlekedési hatóság a honlapján részletes tájékoztatót tesz közzé a vasútbiztonsági tanúsítvány és a kiegészítő tanúsítvány megszerzéséhez teljesítendő feltételekről, valamint honlapján a vasútbiztonsági tanúsítvány, valamint a kiegészítő tanúsítvány iránti kérelem benyújtására rendszeresített formanyomtatványokat közzéteszi.
+(1a)[^28] A közlekedési hatóság a honlapján részletes tájékoztatót tesz közzé a vasútbiztonsági tanúsítvány és a kiegészítő tanúsítvány megszerzéséhez teljesítendő feltételekről, valamint honlapján a vasútbiztonsági tanúsítvány, valamint a kiegészítő tanúsítvány iránti kérelem benyújtására rendszeresített formanyomtatványokat közzéteszi.
 
-(1b)[^25] A pályahálózat meghatározott szakaszán végzett szolgáltatásokkal kapcsolatosan előterjesztett vasútbiztonsági tanúsítvány iránti kérelem esetében a közlekedési hatóság az (1a) bekezdésben foglaltakon kívül a pályahálózatnak a kérelemben meghatározott szakaszára vonatkozó szabályokról a kérelmezőt tájékoztatja.
+(1b)[^29] A pályahálózat meghatározott szakaszán végzett szolgáltatásokkal kapcsolatosan előterjesztett vasútbiztonsági tanúsítvány iránti kérelem esetében a közlekedési hatóság az (1a) bekezdésben foglaltakon kívül a pályahálózatnak a kérelemben meghatározott szakaszára vonatkozó szabályokról a kérelmezőt tájékoztatja.
 
 (2) Amennyiben a vasúti társaság vasúti közlekedés biztonságával kapcsolatos munkaköreiben foglalkoztatott személyek képzése nem vizsgaköteles, és a képzésről bizonyítványt nem bocsátanak ki, a vasúti társaság részére a képzést lefolytató szervezetnek a képzésről igazolást kell kiadnia.
 
@@ -12,6 +12,6 @@
 
 (4) A vasúti társaság elismeri az általa foglalkoztatott vasúti járművezetők és vasúti közlekedés biztonságával kapcsolatos munkakörökben foglalkoztatott egyéb személyek korábban, más vasúti társaságnál szerzett szakmai képzését, képesítéseit és tapasztalatait. A vasúti társaság az érintettek rendelkezésére bocsátja a képzést, képesítéseket és tapasztalatot igazoló iratokat.
 
-[^23]: A 10. § (1) bekezdése az 56/2012. (IX. 18.) NFM rendelet 3. § g) pontja szerint módosított szöveg.
-[^24]: A 10. § (1a) bekezdését az 56/2012. (IX. 18.) NFM rendelet 2. §-a iktatta be.
-[^25]: A 10. § (1b) bekezdését az 56/2012. (IX. 18.) NFM rendelet 2. §-a iktatta be.
+[^27]: A 10. § (1) bekezdése az 56/2012. (IX. 18.) NFM rendelet 3. § g) pontja szerint módosított szöveg.
+[^28]: A 10. § (1a) bekezdését az 56/2012. (IX. 18.) NFM rendelet 2. §-a iktatta be.
+[^29]: A 10. § (1b) bekezdését az 56/2012. (IX. 18.) NFM rendelet 2. §-a iktatta be.

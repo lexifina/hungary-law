@@ -24,17 +24,17 @@
 
 ## g) eljárások és alakiságok kidolgozása a vasútbiztonsági információk dokumentálására, valamint eljárások a döntő fontosságú vasútbiztonsági információk összeállítására;
 
-## h)[^36] az illetékes hatóságokkal egyeztetett módon a balesetek és a váratlan vasúti események haladéktalan bejelentésére, valamint vizsgálatának végrehajtására létrehozott, folyamatos ügyeletet és készenlétet ellátó biztonsági szervezet, továbbá a balesetek és váratlan vasúti események kivizsgálása és elemezése alapján a szükséges megelőző intézkedések meghozatalát biztosító rendszer kialakítása;
+## h)[^38] az illetékes hatóságokkal egyeztetett módon a balesetek és a váratlan vasúti események haladéktalan bejelentésére, valamint vizsgálatának végrehajtására létrehozott, folyamatos ügyeletet és készenlétet ellátó biztonsági szervezet, továbbá a balesetek és váratlan vasúti események kivizsgálása és elemezése alapján a szükséges megelőző intézkedések meghozatalát biztosító rendszer kialakítása;
 
 ## i) a balesetek és váratlan vasúti események következményeinek elhárításához szükséges riasztási, bevetési és mindezzel összefüggő tájékoztatási intézkedések rendszere;
 
 ## j) a biztonságirányítási rendszer belső ellenőrzési rendszere;
 
-## k)[^37] az országos működési engedéllyel rendelkező vasúti társaság esetében a vasúti járművezetői tanúsítvány kiadása és megújítása során követendő eljárás, valamint a tanúsítvány megszerzéséhez szükséges alapvizsga, és megújításához az időszakos vizsgák gyakoriságának meghatározása, továbbá a tanúsítvány kiállítására, megújítására, felfüggesztésére vagy visszavonására vonatkozó munkáltatói döntés felülvizsgálatára irányuló, a vasúti járművezető kérelmére indítható eljárás ismertetése; valamint
+## k)[^39] az országos működési engedéllyel rendelkező vasúti társaság esetében a vasúti járművezetői tanúsítvány kiadása és megújítása során követendő eljárás, valamint a tanúsítvány megszerzéséhez szükséges alapvizsga, és megújításához az időszakos vizsgák gyakoriságának meghatározása, továbbá a tanúsítvány kiállítására, megújítására, felfüggesztésére vagy visszavonására vonatkozó munkáltatói döntés felülvizsgálatára irányuló, a vasúti járművezető kérelmére indítható eljárás ismertetése; valamint
 
-## l)[^38] a vasúti járművezetők ellenőrzésére hivatott rendszer, vagy a vasúti járművezetőnek a munkakör betöltésére vonatkozó feltételeknek való meg nem felelésére utaló körülmény felmerülése esetén megteendő intézkedések meghatározása.
+## l)[^40] a vasúti járművezetők ellenőrzésére hivatott rendszer, vagy a vasúti járművezetőnek a munkakör betöltésére vonatkozó feltételeknek való meg nem felelésére utaló körülmény felmerülése esetén megteendő intézkedések meghatározása.
 
-2. melléklet a 40/2006. (VI. 26.) GKM rendelethez[^39]
+2. melléklet a 40/2006. (VI. 26.) GKM rendelethez[^41]
 
 Közös biztonsági mutatók
 
@@ -150,7 +150,7 @@ bc) automatikus, igénybevevő-oldali védelemmel;
 
 bd) vasútoldali védelemmel.
 
-Függelék
+Függelék[^42]
 
 Fogalom-meghatározások a közös biztonsági mutatók és a balesetek gazdasági hatásainak számítására szolgáló módszerek értelmezéséhez
 
@@ -276,7 +276,7 @@ VT = az utazási időben elért megtakarítás pénzben kifejezett értéke
 
 A vonaton utazó utas idejének pénzben kifejezett értéke (egy órára vonatkoztatva)
 
-VTP = [Üzleti céllal utazók VT-je] * [Üzleti céllal utazók százalékos aránya éves átlagban] + [Nem üzleti céllal utazók VT-je]*[Nem céllal utazók százalékos aránya éves átlagban]
+VTP = [Üzleti céllal utazók VT-je] * [Üzleti céllal utazók százalékos aránya éves átlagban] + [Nem üzleti céllal utazók VT-je]*[Nem üzleti céllal utazók százalékos aránya éves átlagban]
 
 A VTP értékét EUR/utas/óra egységben kell kifejezni.
 
@@ -372,7 +372,8 @@ d) vasútoldali védelem: olyan vasúti átjáró, ahol egy jelző vagy egy más
 
 7.4. Vágánykilométer: a 2004/49/EK irányelv 2. cikk hatálya alá tartozó tagállami vasúthálózat kilométerben számított hossza. Többvágányú vonal esetében minden egyes vágányt figyelembe kell venni.
 
-[^36]: Az 1. melléklet 2. pont h) alpontja az 56/2012. (IX. 18.) NFM rendelet 3. § h) pontja szerint módosított szöveg.
-[^37]: Az 1. melléklet 2. pont k) alpontját a 20/2011. (V. 10.) NFM rendelet 6. §-a iktatta be.
-[^38]: Az 1. melléklet 2. pont l) alpontját a 20/2011. (V. 10.) NFM rendelet 6. §-a iktatta be.
-[^39]: A 2. melléklet az 55/2014. (XII. 23.) NFM rendelet 2. §-ával megállapított szöveg.
+[^38]: Az 1. melléklet 2. pont h) alpontja az 56/2012. (IX. 18.) NFM rendelet 3. § h) pontja szerint módosított szöveg.
+[^39]: Az 1. melléklet 2. pont k) alpontját a 20/2011. (V. 10.) NFM rendelet 6. §-a iktatta be.
+[^40]: Az 1. melléklet 2. pont l) alpontját a 20/2011. (V. 10.) NFM rendelet 6. §-a iktatta be.
+[^41]: A 2. melléklet az 55/2014. (XII. 23.) NFM rendelet 2. §-ával megállapított szöveg.
+[^42]: A 2. melléklet függeléke a 33/2016. (VIII. 2.) NFM rendelet 4. § d) pontja szerint módosított szöveg.
