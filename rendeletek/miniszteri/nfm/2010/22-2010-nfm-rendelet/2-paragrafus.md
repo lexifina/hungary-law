@@ -1,11 +1,15 @@
 ## 2. A vasúti járművezetői engedély
 
-2. § (1) A vasúti járművezetői engedély
+2. §[^2] (1) A vasúti járművezetői engedély hatálya
 
-a) az országos vasúti pályahálózatra vagy
+a) az országos jelentőségű vasútvonalakra,
 
-b) az engedélyben meghatározott térségi, elővárosi, helyi vagy saját célú vasúti pályahálózatra
+b) az engedélyben meghatározott térségi, elővárosi, városi, helyi vasúti pályahálózatra,
 
-szólhat.
+c) a saját célú vasúti pályahálózaton, iparvágányon, kisvasúton és múzeumvasúton bejelentés alapján végzett vasúti tevékenységre
 
-(2) Az országos vasúti pályahálózatra vonatkozó vasúti járművezetői engedéllyel (a továbbiakban: országos engedély) rendelkező vasúti járművezető az országos vasúti pályahálózattal összeköttetésben lévő térségi, elővárosi, helyi, saját célú vasúti pályahálózaton – amennyiben arra járművezetői tanúsítvánnyal is rendelkezik – is jogosult vasúti jármű közlekedtetésére.
+## terjed ki.
+
+(2) Az országos jelentőségű vasútvonalakra vonatkozó vasúti járművezetői engedéllyel (a továbbiakban: országos engedély) rendelkező vasúti járművezető az országos jelentőségű vasútvonalakkal összeköttetésben lévő térségi, elővárosi, városi, helyi, saját célú vasúti pályahálózaton, iparvágányon, kisvasúton és múzeumvasúton – amennyiben arra járművezetői tanúsítvánnyal is rendelkezik – is jogosult vasúti jármű közlekedtetésére.
+
+[^2]: A 2. § a 33/2016. (VIII. 2.) NFM rendelet 9. §-ával megállapított szöveg.

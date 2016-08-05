@@ -2,6 +2,8 @@
 
 4. § (1) A vasúti közlekedési hatóság (a továbbiakban: közlekedési hatóság) az országos engedélyt a mozdonyvezetői engedélyeknek, a kiegészítő tanúsítványoknak, a kiegészítő tanúsítványok hitelesített másolatának, valamint a mozdonyvezetői engedély kérelmezésére szolgáló formanyomtatványnak a 2007/59/EK európai parlamenti és tanácsi irányelv szerinti közösségi mintájáról szóló, 2009. december 3-i 2010/36/EU bizottsági rendeletben meghatározottak szerint állítja ki.
 
-(2) A közlekedési hatóság az engedélyben meghatározott térségi, elővárosi, helyi vagy saját célú vasúti pályahálózatra vonatkozó vasúti járművezetői engedélyt az 1. mellékletben meghatározottaknak megfelelően állítja ki.
+(2)[^3] A közlekedési hatóság az engedélyben meghatározott térségi, elővárosi, városi, helyi vasúti pályahálózatra, valamint a saját célú vasúti pályahálózaton, iparvágányon, kisvasúton, múzeumvasúton a bejelentés alapján végzett vasúti tevékenységre vonatkozó vasúti járművezetői engedélyt az 1. mellékletben meghatározottak szerint állítja ki.
 
 (3) A vasúti járművezetői engedélyt a közlekedési hatóság egy eredeti példányban állítja ki. A közlekedési hatóság a jogosult kérelmére az engedélyről másolatot ad ki, az engedélyt egyéb más módon sokszorosítani tilos.
+
+[^3]: A 4. § (2) bekezdése a 33/2016. (VIII. 2.) NFM rendelet 10. §-ával megállapított szöveg.

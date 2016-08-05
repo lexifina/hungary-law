@@ -1,4 +1,4 @@
-13. §[^10] (1) A vasúti társaság a vele munkaviszonyban álló vasúti járművezető részére tanúsítványt állít ki, ha
+13. §[^13] (1) A vasúti társaság a vele munkaviszonyban álló vasúti járművezető részére tanúsítványt állít ki, ha
 
 a) a munkavállaló a KR.-ben meghatározottak szerint a tanúsítványhoz szükséges alapvizsgát letette,
 
@@ -16,4 +16,4 @@ c) a munkavállaló a KR. 6. mellékletében meghatározott magyar nyelvismerett
 
 (6) A vasúti vizsgaközpont által kiállított tanúsítvány egy tekintet alá esik a vasúti társaság által kiállított tanúsítvánnyal.
 
-[^10]: A 13. § a 22/2015. (V. 6.) NFM rendelet 2. §-ával megállapított szöveg.
+[^13]: A 13. § a 22/2015. (V. 6.) NFM rendelet 2. §-ával megállapított szöveg.
