@@ -10,9 +10,10 @@
 
 a) az alrendszerek azzal a rendszerrel való műszaki összeegyeztethetőségének ellenőrzésére, amelybe beillesztésre kerülnek,
 
-b) az alrendszereknek a vasúti közlekedésről szóló törvény 2. § (5) bekezdés 12. pontja, 30. § (1) és (2) bekezdése, 31. § (1) bekezdése, 32. § (1) bekezdése, a Polgári Törvénykönyvről szóló törvény 6:157. § (1) bekezdése; 6:519. §-a; 6:535. § (1) bekezdése és 6:550. §-a rendelkezéseivel összhangban történő biztonságos integrálására.
+b)[^9] az alrendszereknek a vasúti közlekedésről szóló törvény 2. § 2.20. pontja, 30. § (1) és (2) bekezdése, 31. § (1) bekezdése, 32. § (1) bekezdése, a Polgári Törvénykönyvről szóló törvény 6:157. § (1) bekezdése; 6:519. §-a; 6:535. § (1) bekezdése és 6:550. §-a rendelkezéseivel összhangban történő biztonságos integrálására.
 
 (2) A hatóság a vonatkozó ÁME-kban megállapított eljárások alkalmazásával az alrendszerek üzembe helyezésekor és azt követően időközönként ellenőrzi, hogy az alrendszerek létesítése, üzembe helyezése, üzemeltetése és karbantartása megfelel-e a vonatkozó alapvető követelményeknek.
 
 [^7]: A 9. § (1) bekezdése az 55/2014. (XII. 23.) NFM rendelet 4. §-ával megállapított szöveg.
 [^8]: A 9. § (1a) bekezdését az 55/2014. (XII. 23.) NFM rendelet 4. §-a iktatta be.
+[^9]: A 2. § (5) bekezdés 12. pontja a 33/2016. (VIII. 2.) NFM rendelet 12. §-a szerint módosított szöveg.
