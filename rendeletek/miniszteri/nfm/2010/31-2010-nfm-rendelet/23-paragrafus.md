@@ -14,6 +14,6 @@ b) a jármű átalakításának feltételeit, az elvégzendő vizsgálatokat és
 
 c) az átalakított járműre vonatkozó tartampróbákat, és azok lebonyolításának feltételeit,
 
-d)[^46] a szériavizsgálatok tartalmát és feltételeit.
+d)[^47] a szériavizsgálatok tartalmát és feltételeit.
 
-[^46]: A 23. § (2) bekezdés d) pontját a 82/2013. (XII. 29.) NFM rendelet 12. §-a iktatta be.
+[^47]: A 23. § (2) bekezdés d) pontját a 82/2013. (XII. 29.) NFM rendelet 12. §-a iktatta be.

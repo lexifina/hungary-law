@@ -6,6 +6,6 @@
 
 (4) A vasúti jármű alvázszámát a jármű alvázának legalább két átellenes helyén, jól azonosíthatóan és olyan módon kell elhelyezni, hogy az roncsolásmentes eljárással ne legyen eltávolítható.
 
-(5)[^55]
+(5)[^56]
 
-[^55]: A 29. § (5) bekezdését a 9/2012. (II. 15.) NFM rendelet 15. § (2) bekezdése hatályon kívül helyezte.
+[^56]: A 29. § (5) bekezdését a 9/2012. (II. 15.) NFM rendelet 15. § (2) bekezdése hatályon kívül helyezte.

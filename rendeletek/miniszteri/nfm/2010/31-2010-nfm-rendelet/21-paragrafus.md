@@ -2,7 +2,7 @@
 
 (2) Az üzembehelyezési engedély hatályát veszti
 
-a)[^40]
+a)[^41]
 
 b) pályaszám (hatósági jelzés) változása esetén,
 
@@ -14,17 +14,17 @@ e) a járműnek a nemzeti járműnyilvántartásból való visszavonása esetén
 
 f) ha a hatóság a vasúti jármű forgalomból való kivonását rendeli el,
 
-g)[^41]
+g)[^42]
 
 (3) A (2) bekezdés a) pontjában meghatározott eset az üzembehelyezési engedély hatálya nem érinti az időszakos vizsga hatályát, a vizsgaciklust.
 
 (4) A különleges menetet lebonyolító vasúti járműre a hatóság a különleges menet időtartamára szóló, határozott időre adja ki az üzembehelyezési engedélyt.
 
-(5)[^42] A hatóság az üzembehelyezési engedélyt felfüggeszti, ha a nemzeti vasúti járműnyilvántartásban vezetett üzembentartó, karbantartásért felelős szervezet adatainak változása esetén az előző üzembentartó, karbantartásért felelős szervezet nyilvántartásból való törlésének időpontjáig új üzembentartó, karbantartásért felelős szervezet nem ismeri el üzembentartói, karbantartásért felelős szervezeti jogállását.
+(5)[^43] A hatóság az üzembehelyezési engedélyt felfüggeszti, ha a nemzeti vasúti járműnyilvántartásban vezetett üzembentartó, karbantartásért felelős szervezet adatainak változása esetén az előző üzembentartó, karbantartásért felelős szervezet nyilvántartásból való törlésének időpontjáig új üzembentartó, karbantartásért felelős szervezet nem ismeri el üzembentartói, karbantartásért felelős szervezeti jogállását.
 
-(6)[^43] A jármű üzembentartója vagy annak meghatalmazottja köteles a karbantartásért felelős szervezetnek bejelenteni a jogosultság első napját megelőző 8 napon belül, hogy a járművel ki jogosult Magyarországon közlekedni.
+(6)[^44] A jármű üzembentartója vagy annak meghatalmazottja köteles a karbantartásért felelős szervezetnek bejelenteni a jogosultság első napját megelőző 8 napon belül, hogy a járművel ki jogosult Magyarországon közlekedni.
 
-[^40]: A 21. § (2) bekezdés a) pontját az 55/2014. (XII. 23.) NFM rendelet 14. § b) pontja hatályon kívül helyezte.
-[^41]: A 21. § (2) bekezdés g) pontját az 55/2014. (XII. 23.) NFM rendelet 14. § b) pontja hatályon kívül helyezte.
-[^42]: A 21. § (5) bekezdését a 9/2012. (II. 15.) NFM rendelet 6. §-a iktatta be, szövege a 82/2013. (XII. 29.) NFM rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^43]: A 21. § (6) bekezdését a 82/2013. (XII. 29.) NFM rendelet 10. § (3) bekezdése iktatta be.
+[^41]: A 21. § (2) bekezdés a) pontját az 55/2014. (XII. 23.) NFM rendelet 14. § b) pontja hatályon kívül helyezte.
+[^42]: A 21. § (2) bekezdés g) pontját az 55/2014. (XII. 23.) NFM rendelet 14. § b) pontja hatályon kívül helyezte.
+[^43]: A 21. § (5) bekezdését a 9/2012. (II. 15.) NFM rendelet 6. §-a iktatta be, szövege a 82/2013. (XII. 29.) NFM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^44]: A 21. § (6) bekezdését a 82/2013. (XII. 29.) NFM rendelet 10. § (3) bekezdése iktatta be.
