@@ -12,8 +12,9 @@ b) készpénzátutalási megbízáson (csekken) történő befizetés esetén a 
 
 (5) A vasúti igazgatási szerv határozatával szemben indított újrafelvételi eljárás díja megegyezik az első fokú eljárás díjával.
 
-(6) A befizetett díj a vasúti igazgatási szerv bevétele. A díjak beszedésére, kezelésére, nyilvántartására és elszámolására az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló 249/2000. (XII. 24.) Korm. rendelet előírásait kell alkalmazni. A díjról a vasúti igazgatási szerv elkülönített nyilvántartást vezet.
+(6)[^2] A befizetett díj a vasúti igazgatási szerv bevétele. A díjak beszedésére, kezelésére, nyilvántartására és elszámolására az államháztartás számviteléről szóló kormányrendelet előírásait kell alkalmazni. A díjról a vasúti igazgatási szerv elkülönített nyilvántartást vezet.
 
 (7) Ha a vasúti igazgatási szerv a melléklet 2. pontja szerinti eljárásban az eljárás alapjául szolgáló kérelem megalapozottságát állapítja meg, a díjat a kérelmezőnek visszatéríti.
 
 [^1]: Az 1. § (4) bekezdését az 52/2012. (IX. 11.) NFM rendelet 3. §-a hatályon kívül helyezte.
+[^2]: Az 1. § (6) bekezdése a 33/2016. (VIII. 2.) NFM rendelet 7. § a) pontja szerint módosított szöveg.

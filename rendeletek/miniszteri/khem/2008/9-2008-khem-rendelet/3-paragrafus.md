@@ -1,8 +1,8 @@
 3. § (1) Ez a rendelet 2008. július 1-jén lép hatályba, rendelkezéseit a hatálybalépését követően kezdeményezett eljárásokra kell alkalmazni.
 
-(2)[^3]
+(2)[^4]
 
-Melléklet a 9/2008. (VI. 30.) KHEM rendelethez[^4]
+Melléklet a 9/2008. (VI. 30.) KHEM rendelethez[^5]
 
 A vasúti igazgatási szerv eljárásaival összefüggő díjak
 
@@ -20,7 +20,7 @@ A vasúti igazgatási szerv eljárásaival összefüggő díjak
 
 | 2. b) |  |
 
-| 2. c) elővárosi, vállalkozó vasúti | 227 000 |
+| 2. c) elővárosi, városi vállalkozó vasúti | 227 000 |
 
 | 3. a) |  |
 
@@ -30,7 +30,7 @@ A vasúti igazgatási szerv eljárásaival összefüggő díjak
 
 | 3. d) |  |
 
-| 3. e) térségi, ha az országos vasúti pályahálózatokhoz képest keskenyebb nyomtávú, vállalkozóvasúti | 23 000 |
+| 3. e) |  |
 
 | 4. a) |  |
 
@@ -44,7 +44,7 @@ A vasúti igazgatási szerv eljárásaival összefüggő díjak
 
 | 5. a) |  |
 
-| 5. b) saját célú, pályahálózat működtető, nyílt hozzáférés alóli mentesítéssel | 265 000 |
+| 5. b) |  |
 
 | 5. c) |  |
 
@@ -54,13 +54,13 @@ A vasúti igazgatási szerv eljárásaival összefüggő díjak
 
 | d) |  |
 
-| e) a turistavasút, a sífelvonó és a saját célú vasúti pályahálózaton végzett vasúti tevékenység bejelentése | 20 000 |
+| e) a kisvasúton, a múzeumvasúton, a saját célú vasúti pályahálózaton, iparvágányon végzett vasúti tevékenység bejelentése | 20 000 |
 
 | f) adatmódosítási kérelem benyújtása | 23 000 |
 
 | 2. Jogvitás eljárások a nyílt hozzáférésre jogosult szervezet vagy az integrált vasúti társaság kérelmére |
 
-| a) a Hálózati Üzletszabályzatban megállapított valamely kötelezettségnek a pályavasúti társaság, a Vasúti Pályakapacitás-elosztó Szervezet vagy az integrált vasúti társaság általi megsértése miatt indított eljárás | 227 000 |
+| a) a Hálózati Üzletszabályzatban megállapított valamely kötelezettségnek a pályahálózat-működtető, a Vasúti Pályakapacitás-elosztó Szervezet vagy az integrált vasúti társaság általi megsértése miatt indított eljárás | 227 000 |
 
 | b) a Hálózati Üzletszabályzatnak a megkülönböztetéstől mentes eljárás követelményével ellentétes rendelkezése miatt indított eljárás | 227 000 |
 
@@ -90,5 +90,5 @@ A vasúti igazgatási szerv eljárásaival összefüggő díjak
 
 | 7. Gazdasági egyensúly veszélyeztetettségének vizsgálata | 358 000 |
 
-[^3]: A 3. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^4]: A melléklet az 52/2012. (IX. 11.) NFM rendelet 2. §-a, a 23/2013. (V. 22.) NFM rendelet 11–12. §-a, az 59/2015. (IX. 30.) NFM rendelet 15. §-a szerint módosított szöveg.
+[^4]: A 3. § (2) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^5]: A melléklet az 52/2012. (IX. 11.) NFM rendelet 2. §-a, a 23/2013. (V. 22.) NFM rendelet 11–12. §-a, az 59/2015. (IX. 30.) NFM rendelet 15. §-a, a 33/2016. (VIII. 2.) NFM rendelet 7. § b)–d) pontja és 8. §-a szerint módosított szöveg.
