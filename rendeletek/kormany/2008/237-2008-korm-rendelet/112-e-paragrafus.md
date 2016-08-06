@@ -1,6 +1,6 @@
-## Női vállalkozók által újonnan létrehozott kisvállalkozások részére nyújtott támogatás[^221]
+## Női vállalkozók által újonnan létrehozott kisvállalkozások részére nyújtott támogatás[^222]
 
-112/E. §[^222] (1) A támogatás a női vállalkozó által újonnan létrehozott kisvállalkozásnak nyújtható.
+112/E. §[^223] (1) A támogatás a női vállalkozó által újonnan létrehozott kisvállalkozásnak nyújtható.
 
 (2) A támogatás összege nem haladhatja meg vállalkozásonként az 1 millió eurót, valamint a támogatás éves összege nem haladhatja meg a támogatás teljes összegének 33%-át.
 
@@ -20,5 +20,5 @@ e) a gyermekellátás és a szülői ellátás költségei, beleértve a szülő
 
 (5) Nem részesülhet a támogatásban az a kisvállalkozás, amelyet a gazdasági társaságokról szóló 2006. évi IV. törvény 23. § (3)–(4) bekezdése szerinti vállalkozások résztulajdonosai irányítanak, ha az érintett vállalkozások ugyanazon érintett piacokon vagy szomszédos piacokon tevékenykednek.
 
-[^221]: A 112/E. §-t megelőző alcímet a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.
-[^222]: A 112/E. §-t a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.
+[^222]: A 112/E. §-t megelőző alcímet a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.
+[^223]: A 112/E. §-t a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.

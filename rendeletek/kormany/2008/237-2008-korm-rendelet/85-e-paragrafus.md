@@ -1,4 +1,4 @@
-85/E. §[^185] (1) A szabálytalansági vizsgálat eredményéről – szabálytalanság megállapításának hiányában is – a vizsgálat vezetője szabálytalanság-vizsgálati jelentést készít.
+85/E. §[^186] (1) A szabálytalansági vizsgálat eredményéről – szabálytalanság megállapításának hiányában is – a vizsgálat vezetője szabálytalanság-vizsgálati jelentést készít.
 
 (2) A szabálytalanság-vizsgálati jelentésnek tartalmaznia kell:
 
@@ -40,4 +40,4 @@ b) szabálytalanság megtörténtét megállapító és intézkedést elrendelő
 
 c) szabálytalanság megtörténtét megállapító, azonban a szabálytalanság csekély súlyára való tekintettel intézkedés elrendelése nélküli döntéssel.
 
-[^185]: A 85/E. §-t a 33/2011. (III. 17.) Korm. rendelet 8. §-a iktatta be.
+[^186]: A 85/E. §-t a 33/2011. (III. 17.) Korm. rendelet 8. §-a iktatta be.

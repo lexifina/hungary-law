@@ -1,4 +1,4 @@
-85/C. §[^183] (1) A szabálytalanságok nyilvántartása és jelentése érdekében az NKE és a KSz vezetői közösen kijelölik a szabálytalanságok nyilvántartásáért és jelentéséért felelős szervezeti egységet vagy személyt (a továbbiakban: szabálytalanság-felelős).
+85/C. §[^184] (1) A szabálytalanságok nyilvántartása és jelentése érdekében az NKE és a KSz vezetői közösen kijelölik a szabálytalanságok nyilvántartásáért és jelentéséért felelős szervezeti egységet vagy személyt (a továbbiakban: szabálytalanság-felelős).
 
 (2) A szabálytalanság-felelős gondoskodik
 
@@ -8,4 +8,4 @@ b) a szabálytalanságokkal kapcsolatos negyedéves jelentések összeállítás
 
 c) a lebonyolításban érintett szervezetekkel történő együttműködésről.
 
-[^183]: A 85/C. §-t a 33/2011. (III. 17.) Korm. rendelet 8. §-a iktatta be.
+[^184]: A 85/C. §-t a 33/2011. (III. 17.) Korm. rendelet 8. §-a iktatta be.

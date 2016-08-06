@@ -1,6 +1,6 @@
-## A vállalatok számára a közösségi környezetvédelmi szabványok túlteljesítését, illetve közösségi szabványok hiányában a környezetvédelem szintjének emelését lehetővé tevő beruházási támogatás[^223]
+## A vállalatok számára a közösségi környezetvédelmi szabványok túlteljesítését, illetve közösségi szabványok hiányában a környezetvédelem szintjének emelését lehetővé tevő beruházási támogatás[^224]
 
-112/F. §[^224] (1) A támogatás akkor nyújtható, ha a beruházás
+112/F. §[^225] (1) A támogatás akkor nyújtható, ha a beruházás
 
 a) a közösségi szabványok túlteljesítése révén lehetővé teszi a kedvezményezett számára a tevékenységeiből eredő környezetvédelmi szint emelését, függetlenül az alkalmazandó közösségi szabványoknál szigorúbb kötelező nemzeti szabványoktól, vagy
 
@@ -30,5 +30,5 @@ c) szabványok hiányában az elszámolható költségek azon beruházási költ
 
 (8) Más vállalkozás hulladékának gazdálkodásával kapcsolatos beruházásokhoz nem nyújtható az e § szerinti támogatás.
 
-[^223]: A 112/F. §-t megelőző alcímet a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.
-[^224]: A 112/F. §-t a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.
+[^224]: A 112/F. §-t megelőző alcímet a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.
+[^225]: A 112/F. §-t a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.

@@ -1,6 +1,6 @@
-## Az energiamegtakarítási intézkedésekhez nyújtott környezetvédelmi beruházási támogatás[^227]
+## Az energiamegtakarítási intézkedésekhez nyújtott környezetvédelmi beruházási támogatás[^228]
 
-112/H. §[^228] (1) A támogatást a (2)–(3) bekezdésben vagy a (4)–(5) bekezdésben meghatározott feltételek alapján lehet nyújtani.
+112/H. §[^229] (1) A támogatást a (2)–(3) bekezdésben vagy a (4)–(5) bekezdésben meghatározott feltételek alapján lehet nyújtani.
 
 (2) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 60%-át. A támogatási intenzitás 20 százalékponttal növelhető kisvállalkozásnak, illetve 10 százalékponttal középvállalkozásnak nyújtott támogatás esetén.
 
@@ -10,5 +10,5 @@
 
 (5) Az elszámolható költségek kiszámításához 112/F. § (5) és (6) bekezdésében meghatározott módszert kell alkalmazni, azzal, hogy a működési előnyöket és működési költségeket figyelmen kívül kell hagyni.
 
-[^227]: A 112/H. §-t megelőző alcímet a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.
-[^228]: A 112/H. §-t a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.
+[^228]: A 112/H. §-t megelőző alcímet a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.
+[^229]: A 112/H. §-t a 95/2010. (III. 31.) Korm. rendelet 3. §-a iktatta be.
