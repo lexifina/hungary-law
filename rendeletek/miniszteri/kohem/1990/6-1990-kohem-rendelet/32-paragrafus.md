@@ -8,6 +8,14 @@
 
 (4) A pótkocsi üzemi fékrendszerének átmenő vagy részben átmenő rendszerűnek kell lennie (ezeknél a vezető egy művelettel működteti a vontató jármű és a pótkocsi fékjét). Ha a pótkocsi — kivéve a félpótkocsit — megengedett legnagyobb össztömege 3,5 tonnánál kisebb az üzemi fékrendszer ráfutó fék is lehet.
 
+(4a)[^111] A (4) bekezdéstől eltérően ráfutó fékrendszerrel látható el a mezőgazdasági vontató pótkocsi és a vontatott munkagép kategóriájú, 8000 kg-ot nem meghaladó legnagyobb tömegű jármű, ha
+
+a) a tervezési sebessége a 30 km/h-t nem haladja meg és a fékek nem minden keréken hatnak, vagy
+
+b) a tervezési sebessége a 40 km/h-t nem haladja meg és a fékek minden keréken hatnak.
+
+(4b)[^112] A ráfutó fékkel ellátott mezőgazdasági vontató pótkocsi hátuljára időálló (150 mm átmérőjű) táblát kell szerelni, amely a legnagyobb tervezési sebességet jelzi, melynek értéke 30 vagy 40 km/h lehet.
+
 (5) A pótkocsit — kivéve a 23. § (3) bekezdésében említett esetet — a menet közbeni szétkapcsolódáskor automatikusan működésbelépő, részleges, vagy teljes fékhatást létrehozó fékkel kell ellátni. Az önműködő befékeződés csak a pótkocsi leszakadásakor, másodlagos kapcsolószerkezet esetén pedig csak annak leszakadása után léphet működésbe.
 
 (6) A pótkocsi rögzítő fékrendszerét úgy kell kialakítani, hogy azt a talajon álló személy működtethesse. A 30. § (7) bekezdésének rendelkezéseit — az utolsó mondat kivételével — a pótkocsira is alkalmazni kell.
@@ -17,3 +25,5 @@
 (8) A pótkocsi fékrendszereire egyebekben a 30. § rendelkezéseit kell — megfelelően — alkalmazni.
 
 [^110]: A 32. § (1) bekezdése a 72/2013. (XII. 2.) NFM rendelet 6. §-ával megállapított szöveg.
+[^111]: A 32. § (4a) bekezdését a 27/2016. (VII. 22.) NFM rendelet 1. §-a iktatta be.
+[^112]: A 32. § (4b) bekezdését a 27/2016. (VII. 22.) NFM rendelet 1. §-a iktatta be.

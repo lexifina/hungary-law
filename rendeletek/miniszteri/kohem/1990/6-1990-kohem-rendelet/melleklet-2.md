@@ -66,6 +66,8 @@
 
 ## 8. Az A., B. és C. Függelék egyes rendelkezései – a 2007/46/EK irányelvvel összhangban – az európai parlament és tanács 661/2009/EK rendeletével 2014. november 1-jével hatályon kívül helyezett európai uniós irányelveket átültető MR. A. Függelék valamely mellékletének rendelkezésére hivatkoznak. E hivatkozások alkalmazása esetében azokat a 2014. október 31-én hatályos A. Függelék rendelkezéseire történő hivatkozásként kell értelmezni (a függelékek tekintetében a továbbiakban: ”A. függelék”-ként hivatkozva).
 
+## 9. A B. és a C. Függelék mellékletei a 167/2013/EU európai parlamenti és tanácsi rendelettel és a 168/2013/EU európai parlamenti és tanácsi rendelettel összhangban az 1/B. és 1/C. táblázat szerint értelmezendőek. A 2016. január 1-jét megelőzően típusjóváhagyott járművek esetében a 167/2013/EU európai parlamenti és tanácsi rendeletet, valamint a 168/2013/EU európai parlamenti és tanácsi rendeletet nem kell alkalmazni.
+
 ## 1. számú táblázat
 
 ## Jóváhagyási kötelezettségek
@@ -85,6 +87,8 @@
 | A/1. | 70/157 | 2007/34 | 51 | 02 | Zajszint és kipufogó berendezések | + | + | K |
 
 | 59 | 00 | Pótalkatrész kipufogó berendezés | + | – |  |
+
+| A/2. | 540/2014 | – | – | – | a gépjárművek zajszint és a csere-hangtompító- rendszerek | + | + | K |
 
 | A/2a. | 715/2007 692/2008 | 459/2012 143/2013 195/2013 136/2014 | 83 | 06 | Légszennyezés (Euro 5 és 6) könnyű haszon- gépjárművek/ információhoz való hozzáférés | + | + | K (5) |
 
@@ -286,17 +290,15 @@
 
 ## 1/B. táblázat
 
-## Motorkerékpárokra és segédmotoros kerékpárokra vonatkozó
+## 1. Az e rendelet szerint jóváhagyandó motorkerékpárokra és segédmotoros kerékpárokra vonatkozó jóváhagyási kötelezettségek
 
-## jóváhagyási kötelezettségek
-
-## 5K16681M_1
+## 6K08747M_1
 
 | MR | EK (EGK) | ENSZ-EGB | Műszaki terület | A | B |
 
 | Alkalmazási kötelezettség(1) |
 
-| függelék/ melléklet (műszaki terület) sorszáma | alap- irányelv | legutóbbi módosító irányelv | előírás | módosítási sorozat |  | típusjóváhagyási eljárásban | egyedi eljárásban |
+| függelék/ melléklet (műszaki terület) sorszáma | alap- irányelv | legutóbbi módosító irányelv | elő- írás | módo- sítási sorozat | típusjóváhagyási eljárásban | egyedi eljárásban |
 
 | B/1. | 93/14 | 2006/27 | 78 | 02 | Motorkerékpárok és segédmotoros kerékpárok fékberendezései | + | + |
 
@@ -322,7 +324,7 @@
 
 | B/11. | 95/1 | 2006/27 | – | – | Motorkerékpárok és segédmotoros kerékpárok maximális sebessége, motorteljesítménye és nyomatéka | + | – |
 
-| B/12 | 97/24 2005/30 | 2013/60 |  |  | Motorkerékpárok és segédmotoros kerékpárok tulajdonságai |  |  |
+| B/12. | 97/24 2005/30 | 2013/60 |  |  | Motorkerékpárok és segédmotoros kerékpárok tulajdonságai |  |  |
 
 | 1 |  | 2013/60 | 30 | 02 | Gumiabroncsok | + | + |
 
@@ -335,34 +337,6 @@
 | 2 |  | 2013/60 | 3 | 02 | Fényvisszaverők | + | K |
 
 | 19 | 04 | Mellső ködlámpa |  |  |
-
-| 20 | 03 | Fényszóró H4 halogén izzóval |  |  |
-
-| 37 | 03 | Izzólámpák |  |  |
-
-| 38 | 00 | Hátsó ködlámpa |  |  |
-
-| 50 | 00 | Motorkerékpár lámpák |  |  |
-
-| 56 | 01 | Segédmotorkerékpár fényszóró |  |  |
-
-| 57 | 02 | Motorkerékpár fényszóró |  |  |
-
-| 72 | 01 | Motorkerékpár fényszóró halogén izzóval |  |  |
-
-| 82 | 01 | Segédmotorkerékpár fényszóró halogén izzóval |  |  |
-
-| 1 |  | 2006/27 | 30 | 02 | Gumiabroncsok | + | + |
-
-| 54 | 00 | Haszongépjárművek gumiabroncsai |  |  |
-
-| 64 | 00 | Ideiglenes pótkerék |  |  |
-
-| 75 | 00 | Motorkerékpár gumiabroncsok |  |  |
-
-| 2 |  |  | 3 | 02 | Fényvisszaverők | + | K |
-
-| 19 | 02 | Mellső ködlámpa |  |  |
 
 | 20 | 03 | Fényszóró H4 halogén izzóval |  |  |
 
@@ -398,23 +372,149 @@
 
 | 11 |  | 2006/27 | 16 | 04 | Biztonsági öv bekötése | + | – |
 
-| 12 |  | 2006/27 2006/72 | – | – | Biztonsági üveg, ablaktörlő és -mosó, páramentesítő, stb. | + | – |
+| 12 |  | 2006/27 2006/72 | – | – | Biztonsági üveg, ablaktörlő és -mosó, páramentesítő stb. | + | – |
 
 | B/13. | 2000/7 | – | 39 | 00 | Két- és háromkerekű motorkerékpárok sebességmérői | + | – |
 
 ## Megjegyzés
 
-## (1) Az alkalmazási kört, az alkalmazási kötelezettség hatálybalépését és az arra vonatkozó átmeneti rendelkezéseket lásd az MR. megfelelő műszaki területét szabályozó B. Függelék Mellékletben.
+## (1) Az alkalmazási kötelezettség és az azzal kapcsolatos átmeneti rendelkezések tekintetében a B. Függelék megfelelő műszaki területet szabályozó melléklete irányadó.
+
+## 2. A 168/2013/EU rendelet szerint jóváhagyandó motorkerékpárokra és segédmotoros kerékpárokra vonatkozó jóváhagyási kötelezettségek
+
+| MR | EU | Műszaki terület | A | B(1) |
+
+| Alkalmazási kötelezettség |
+
+| függelék/ melléklet (műszaki terület) sorszáma | a bizottsági rendelet száma | típusjóváhagyási eljárásban | egyedi eljárásban |
+
+| B/1. | 3/2014 | Funkcionális járműbiztonsági követelmények | + | – |
+
+| B/2. | 44/2014 | Járműszerkezeti és általános követelmények | + | – |
+
+| B/3. | 134/2014 | Környezetvédelemre és a motor teljesítményére vonatkozó követelmények | + | – |
+
+## Megjegyzés
+
+## (1) Az egyedi és kis sorozatra vonatkozó követelmények tekintetében a 168/2013/EU rendelet szerint jóváhagyandó egyedi és kis sorozatos motorkerékpárokra és segédmotoros kerékpárokra vonatkozó kötelezettségek táblázat irányadó.
+
+## 3. A 168/2013/EU rendelet szerint jóváhagyandó egyedi és kis sorozatos motorkerékpárokra és segédmotoros kerékpárokra vonatkozó kötelezettségek
+
+## 3.1. A 3/2014/EU bizottsági felhatalmazáson alapuló rendelet szerinti kötelezettségek:
+
+| 3/2014/EU rendelet mellékletének száma | A 3/2014/EU bizottsági rendelet mellékletének címe | Alkalmazási kötelezettség |
+
+| I. | A kötelezően alkalmazandó ENSZ-EGB előírások listája | lámpákra + többi: K |
+
+| II. | A hangjelző készülékekre vonatkozó vizsgálati eljárások és teljesítménykövetelmények | K |
+
+| III. | A fékezésre – ideértve a blokkolásgátló és a kombinált fékrendszereket is – vonatkozó követelmények | K |
+
+| IV. | Az elektromos biztonságra vonatkozó követelmények | K |
+
+| V. | A gyártóknak a kritikus funkcionális biztonsági rendszerek, alkatrészek és tartozékok tartóssági vizsgálatára vonatkozó bejelentési kötelezettségei | C |
+
+| VI. | Az elülső és hátsó védőszerkezetekre vonatkozó követelmények | C |
+
+| VII. | Az üvegezésre, a szélvédőtörlőkre és -mosókra, valamint jég- és páramentesítő berendezésekre vonatkozó követelmények | K |
+
+| VIII. | A vezető által kezelt kezelőszervekre – ideértve a visszajelző lámpák és kijelzők jelölését is – vonatkozó követelmények | K |
+
+| IX. | A világító- és fényjelző berendezések beszerelésére – ideértve a világítás automatikus bekapcsolását is – vonatkozó követelmények | K |
+
+| X. | A hátsó kilátásra vonatkozó követelmények | K |
+
+| XI. | A borulás hatása elleni védőszerkezetre (ROPS) vonatkozó követelmények | K |
+
+| XII. | A biztonsági övek rögzítéseire és a biztonsági övekre vonatkozó követelmények | K |
+
+| XIII. | Az ülőhelyekre (nyergek és ülések) vonatkozó követelmények | C |
+
+| XIV. | A kormányozhatóságra, a kanyarodási tulajdonságokra és a fordulási tulajdonságokra vonatkozó követelmények | K |
+
+| XV. | A gumiabroncsok felszerelésére vonatkozó követelmények | + |
+
+| XVI. | A jármű legnagyobb sebességének korlátozását jelző táblára és annak járművön való elhelyezésére vonatkozó követelmények | K |
+
+| XVII. | Az utasvédelemre – ideértve a belső berendezéseket, a fejtámlákat és a járműajtókat is – vonatkozó követelmények | K |
+
+| XVIII. | A legnagyobb folyamatos névleges vagy hasznos teljesítmény és/vagy a legnagyobb járműsebesség tervezett korlátozására vonatkozó követelmények | K |
+
+| XIX. | A jármű szerkezeti integritására vonatkozó követelmények | C |
+
+## 3.2. A 44/2014/EU bizottsági felhatalmazáson alapuló rendelet szerinti kötelezettségek:
+
+| A 44/2014/EU rendelet mellékletének száma | A 44/2014/EU rendelet mellékletének címe | Alkalmazási kötelezettség |
+
+| I. | A kötelezően alkalmazandó ENSZ-EGB előírások listája | K |
+
+| II. | Az erőátviteli rendszeren végzett szakszerűtlen beavatkozás (manipulálás) elleni intézkedésekre vonatkozó követelmények | K |
+
+| III. | A típus-jóváhagyási eljárásokkal kapcsolatos intézkedésekre vonatkozó követelmények | K |
+
+| IV. | A gyártás megfelelőségére vonatkozó előírások | K |
+
+| V. | A vonószerkezetekre és a rögzítésekre vonatkozó követelmények | K |
+
+| VI. | A jogosulatlan használat elleni védelemre szolgáló eszközökre vonatkozó követelmények | K |
+
+| VII. | Az elektromágneses összeférhetőségre vonatkozó követelmények | K |
+
+| VIII. | A külső kinyúló részekre vonatkozó követelmények | C |
+
+| IX. | A tüzelőanyag-tárolásra vonatkozó követelmények | K |
+
+| X. | A rakfelületekre vonatkozó követelmények | C |
+
+| XI. | A tömegekre és a méretekre vonatkozó követelmények | K |
+
+| XII. | A fedélzeti diagnosztikai rendszerek funkcionalitására vonatkozó követelmények | K |
+
+| XIII. | Az utaskapaszkodókra és a lábtámaszokra vonatkozó követelmények | C |
+
+| XIV. | A rendszámtábla elhelyezésére vonatkozó követelmények | K |
+
+| XV. | A javítási és karbantartási információk elérhetőségére vonatkozó követelmények | C |
+
+| XVI. | A kitámasztó szerkezetekre vonatkozó követelmények | C |
+
+## 3.3. A 134/2014/EU bizottsági felhatalmazáson alapuló rendelet szerinti kötelezettségek:
+
+| A 134/2014/EU rendelet mellékletének száma | A 134/2014/EU rendelet mellékletének címe | Alkalmazási kötelezettség |
+
+| I. | A kötelezően alkalmazandó ENSZ-EGB előírások listája | K |
+
+| II. | Az I. típusú vizsgálatra vonatkozó követelmények: hidegindítás után mért kipufogógáz-kibocsátások | K |
+
+| III. | A II. típusú vizsgálatra vonatkozó követelmények: kipufogógáz-kibocsátások (emelt) alapjáraton, valamint szabad gyorsítás mellett | K |
+
+| IV. | A III. típusú vizsgálatra vonatkozó követelmények: kartergáz-kibocsátás | K |
+
+| V. | A IV. típusú vizsgálatra vonatkozó követelmények: párolgási kibocsátások | C |
+
+| VI. | Az V. típusú vizsgálatra vonatkozó követelmények: a kibocsátás csökkentő berendezések tartóssága | C |
+
+| VII. | A VII. típusú vizsgálatra vonatkozó követelmények; a CO2-kibocsátás, a tüzelőanyag-fogyasztás, az elektromosenergia-fogyasztás és az elektromos hatósugár | C |
+
+| VIII. | A VIII. típusú vizsgálatra vonatkozó követelmények: az OBD környezettel kapcsolatos elemeinek vizsgálata | C |
+
+| IX. | A IX. típusú vizsgálatra vonatkozó követelmények: hangnyomásszint | K |
+
+| X. | A meghajtóegység teljesítményére vonatkozó vizsgálati eljárások és műszaki követelmények | C |
+
+| XI. | Jármű hajtáscsalád a környezeti teljesítmény igazolására szolgáló vizsgálatok tekintetében | C |
 
 ## 1/C. táblázat
 
-## Traktorokra vonatkozó jóváhagyási kötelezettségek
+## 1. Az e rendelet szerint jóváhagyandó traktorokra vonatkozó jóváhagyási kötelezettségek
 
-| MR | ENSZ–EGB | EK (EGK) | Műszaki terület | A | B |
+## 6K08747M_6
 
-| függelék/ melléklet (műszaki terület) sorszáma | előírás | módosítási sorozat | alapirányelv | utolsó módosító irányelv | Alkalmazási kötelezettség(4) |
+| MR | ENSZ-EGB | EK (EGK) | Műszaki terület | A | B |
 
-| típus- jóváhagyási eljárásban | egyedi eljárásban |
+| Alkalmazási kötelezettség |
+
+| függelék/ melléklet (műszaki terület) sorszáma | előírás | módo- sítási sorozat | alap- irány- elv | utolsó módosító irányelv | típus-jóváhagyási eljárásban | egyedi eljárásban |
 
 | C/1. | – | – | 2009/63 |  | Traktorok meghatározott jellemzői és alkatrészei | + | – |
 
@@ -428,7 +528,7 @@
 
 | C/6. | – | – | 2009/64 |  | Traktorok rádiózavarszűrése | + | – |
 
-| C/7. | – | – | 75/323 | – | A traktorok és a pótkocsik elektromos csatlakozójára vonatkozó követelmények | + | – |
+| C/7. | – | – | 75/323 | – | A traktorok és a pótkocsik elektromos csatlakozójára vonatkozó követelmények | + |  |
 
 | C/8. | – | – | 76/432 | 97/54 | Traktorok fékszerelvényei | + | – |
 
@@ -436,9 +536,9 @@
 
 | C/10. | – | – | 2009/76 |  | Traktorok vezetőire ható zajszint | + | – |
 
-| C/11. | – | – | 2009/57 |  | Traktorok borulása elleni védőszerkezetek dinamikai vizsgálata | + | – |
+| C/11. | – | – | 2009/57 |  | Traktorok borulása elleni védőszerkezetek dinamikai vizsgálata | + |  |
 
-| C/12. | 96 | 01 | 77/537 2000/25 | 2011/72 2011/87 2014/43 | A traktorok motorjának szennyezőanyag-kibocsátására vonatkozó követelmények | + | + (4) |
+| C/12. | 96 | 01 | 77/537 2000/25 | 2011/72 2011/87 2014/43 | A traktorok motorjának szennyezőanyag- kibocsátására vonatkozó követelmények | + | +(1) |
 
 | C/13. | – | – | 78/764 | 1999/57 | Traktorok vezetőülése | – | – |
 
@@ -452,7 +552,7 @@
 
 | C/18. | – | – | 80/720 | 2010/62 | Traktorok vezetőüléseinek megközelítése, ajtók, ablakok | – | – |
 
-| C/19. | - | - | 86/297 | 2012/24 | Traktorokhoz alkalmazott leágazó meghajtások | - | - |
+| C/19. | – | – | 86/297 | 2012/24 | Traktorokhoz alkalmazott leágazó meghajtások | – | – |
 
 | C/20. | – | – | 86/298 | 2010/22 | Traktorok borulásának hatása elleni védőszerkezetek vizsgálata | + | – |
 
@@ -462,7 +562,209 @@
 
 | C/23. | – | – | 2009/144 | 2010/62 2013/8 | Traktorok egyes alkatrészei és jellemzői | + | – |
 
-## (4) A C/12. számú melléklet követelményeit csak új traktorok forgalomba helyezése esetén kell alkalmazni. Az egyes „szabályozási fokozatok” alkalmazására és az egyenértékűségekre vonatkozó rendelkezéseket a C/12. számú melléklet tartalmazza.
+## Megjegyzés
+
+## (1) A C/12. számú melléklet követelményeit csak új traktorok forgalomba helyezése esetén kell alkalmazni. Az egyes „szabályozási fokozatok” alkalmazására és az egyenértékűségekre vonatkozó rendelkezéseket a C/12. számú melléklet tartalmazza.
+
+## 2. A 167/2013/EU rendelet szerint jóváhagyandó traktorokra vonatkozó jóváhagyási kötelezettségek
+
+| MR | EU | Műszaki terület | A | B(1) |
+
+| függelék/ melléklet (műszaki terület) sorszáma | a bizottsági rendelet száma | Alkalmazási kötelezettség |
+
+| típus- jóváhagyási eljárásban | egyedi eljárásban |
+
+| C/1. | 1322/2014 | Járműszerkezeti és általános követelmények | + | – |
+
+| C/2. | 2015/68 | Fékezési követelmények | + | – |
+
+| C/3. | 2015/96 | Környezetvédelemre és a motor teljesítményére vonatkozó követelmények | + | – |
+
+| C/4. | 2015/208 | Funkcionális járműbiztonsági követelmények | + | – |
+
+## Megjegyzés
+
+## (1) Az egyedi és kis sorozatra vonatkozó követelmények tekintetében a 168/2013/EU rendelet szerint jóváhagyandó egyedi és kis sorozatos motorkerékpárokra és segédmotoros kerékpárokra vonatkozó kötelezettségek táblázat irányadó.
+
+## 3. A 167/2013/EU rendelet szerint jóváhagyandó egyedi és kis sorozatos traktorokra vonatkozó kötelezettségek
+
+## 3.1. Az 1322/2014/EU bizottsági felhatalmazáson alapuló rendelet szerinti kötelezettségek:
+
+| Az 1322/2014/EU rendelet mellékletének száma | Az 1322/2014/EU rendelet mellékletének címe | Alkalmazási kötelezettség |
+
+| III. | A típus-jóváhagyási eljárásokra vonatkozó intézkedések, beleértve a virtuális vizsgálatra vonatkozó követelményeket | K |
+
+| IV. | A gyártás megfelelőségre vonatkozó intézkedések | K |
+
+| V. | A javítási és karbantartási információk hozzáférhetőségére vonatkozó követelmények | C |
+
+| VI. | A borulás hatásai ellen védő szerkezetekre vonatkozó követelmények (dinamikus vizsgálat) | K |
+
+| VII. | A borulás hatásai ellen védő szerkezetekre vonatkozó követelmények (hernyótalpas traktorok) | K |
+
+| VIII. | A borulás hatásai ellen védő szerkezetekre vonatkozó követelmények (statikus vizsgálat) | K |
+
+| IX. | A borulás hatásai ellen védő szerkezetekre vonatkozó követelmények (elöl felszerelt, borulás hatásai ellen védő szerkezet keskeny nyomtávú traktorokon) | K |
+
+| X. | A borulás hatásai ellen védő szerkezetekre vonatkozó követelmények (hátul felszerelt, borulás hatásai ellen védő szerkezet keskeny nyomtávú traktorokon) | K |
+
+| XI. | A leeső tárgyak ellen védő szerkezetekre vonatkozó követelmények | K |
+
+| XII. | Az utasülésekre vonatkozó követelmények | K |
+
+| XIII. | A vezető zajszintnek való kitettségére vonatkozó követelmények | K |
+
+| XIV. | A vezetőülésre vonatkozó követelmények | K |
+
+| XV. | A kezelőtérre és a vezetőülés megközelíthetőségére vonatkozó követelmények | K |
+
+| XVI. | A teljesítményleadó tengelyekre vonatkozó követelmények | K |
+
+| XVII. | A hajtóelemek védelmére vonatkozó követelmények | K |
+
+| XVIII. | A biztonsági övek rögzítési pontjaira vonatkozó követelmények | K |
+
+| XIX. | A biztonsági övekre vonatkozó követelmények | K |
+
+| XX. | A behatoló tárgyakkal szembeni védelemre vonatkozó követelmények | K |
+
+| XXI. | A kipufogórendszerekre vonatkozó követelmények | K |
+
+| XXII. | A kezelői kézikönyvre vonatkozó követelmények | C |
+
+| XXIII. | A vezérlésre vonatkozó követelmények, beleértve a kezelőszervek biztonságosságát és megbízhatóságát, a vészleállító és az automatikus leállító berendezéseket | K |
+
+| XXIV. | Más mechanikai veszélyek elleni védelemre vonatkozó követelmények | K |
+
+| XXV. | A védőburkolatokra és védőberendezésekre vonatkozó követelmények | K |
+
+| XXVI. | A tájékoztatásokra, figyelmeztetésekre és jelölésekre vonatkozó követelmények | K |
+
+| XXVII. | Az anyagokra és termékekre vonatkozó követelmények | C |
+
+| XXVIII. | Az akkumulátorokra vonatkozó követelmények | K |
+
+| XXIX. | A veszélyes anyagokkal szembeni védelemre vonatkozó követelmények | C |
+
+## 3.2. A 2015/68/EU bizottsági felhatalmazáson alapuló rendelet szerinti kötelezettségek:
+
+| 2015/68/EU rendelet mellékletének száma | 2015/68/EU rendelet mellékletének címe | Alkalmazási kötelezettség |
+
+| I. | A fékberendezések és pótkocsi-fékcsatlakozások szerkezetére és beszerelésére vonatkozó követelmények | K |
+
+| II. | A fékrendszerek és pótkocsi-fékcsatlakozások, illetve az ezekkel felszerelt járművek vizsgálatára és teljesítményére vonatkozó követelmények | K |
+
+| III. | A nyomásfelfutási idő mérésére vonatkozó követelmények | K |
+
+| IV. | A fékrendszerek és pótkocsi-fékcsatlakozások, illetve az ezekkel felszerelt járművek energiaforrásaira és energiatároló berendezéseire vonatkozó követelmények | K |
+
+| V. | A rugóerő-tárolós fékekre és az azokkal felszerelt járművekre vonatkozó követelmények | K |
+
+| VI. | A mechanikus fékhenger-reteszelővel ellátott rögzítőfékrendszerre vonatkozó követelmények | K |
+
+| VII. | Alternatív vizsgálati követelmények azon járművek esetében, amelyekre vonatkozóan az I. típusú, II. típusú és III. típusú vizsgálatok nem kötelezőek | K |
+
+| VIII. | A ráfutó fékrendszerek, fékberendezések és pótkocsi-fékcsatlakozások, illetve az ezekkel felszerelt járművek fékezéssel kapcsolatos vizsgálatára vonatkozó követelmények | K |
+
+| IX. | A hidrosztatikus hajtású járművekre, illetve azok fékberendezéseire és fékrendszereire vonatkozó követelmények | K |
+
+| X. | Az összetett elektronikus járművezérlő rendszerek biztonsági szempontjaira alkalmazandó különleges követelmények | K(1) |
+
+| XI. | A blokkolásgátló fékrendszerekre és az ezekkel ellátott járművekre vonatkozó követelmények és vizsgálati eljárások | K |
+
+| XII. | A sűrített levegővel működő fékrendszerrel ellátott járművek vagy az ISO 7638 csatlakozó 6. és 7. csapján keresztül adatkommunikációt fenntartó járművek EBS rendszerére és az ilyen EBS rendszerrel ellátott járművekre vonatkozó követelmények | K |
+
+| XIII. | Az egyvezetékes típusú hidraulikus csatlakozásokra és az ezekkel felszerelt járművekre vonatkozó követelmények | K |
+
+## Megjegyzés
+
+## (1) A X. melléklet szerinti jóváhagyás megléte esetén a jármű fékezési szempontból megfelel, további vizsgálat nem szükséges.
+
+## 3.3. A 2015/96/EU bizottsági felhatalmazáson alapuló rendelet szerinti kötelezettségek:
+
+| 2015/96/EU rendelet mellékletének száma | 2015/96/EU rendelet mellékletének címe | Alkalmazási kötelezettség |
+
+| I. | Mezőgazdasági és erdészeti járművek motortípusának, vagy motorcsaládjának önálló mű szaki egységként a szennyezőanyag-kibocsátás tekintetében történő uniós típusjóváhagyására vonatkozó követelmények | K |
+
+| II. | Adott motortípussal vagy motorcsaláddal rendelkező mezőgazdasági és erdészeti járművek szennyezőanyag-kibocsátás tekintetében történő uniós típusjóváhagyására vonatkozó követelmények | K |
+
+| III. | Külső zajszintre vonatkozó követelmények | K |
+
+| IV. | Alternatív típusjóváhagyások elismerése | K |
+
+| V. | A 14. cikkben megállapított rugalmas végrehajtási eljárás keretében forgalomba hozott mezőgazdasági és erdészeti járművekre és motorokra vonatkozó rendelkezések | K |
+
+## 3.4. A 2015/208/EU bizottsági felhatalmazáson alapuló rendelet szerinti kötelezettségek:
+
+| 2015/208/EU rendelet mellékletének száma | 2015/208/EU rendelet mellékletének címe | Alkalmazási kötelezettség |
+
+| I. | Az alkalmazandó ENSZ-EGB előírások listája | +, kivéve: 18, 21, 48, 62, 89, 122, 123, 128 |
+
+| II. | A jármű szerkezeti integritására vonatkozó követelmények | C |
+
+| III. | A legnagyobb tervezési sebességre, a sebességszabályozókra és a sebességkorlátozó berendezésekre vonatkozó követelmények | C |
+
+| IV. | A gyors traktorok kormányzására vonatkozó követelmények | + |
+
+| V. | Kormányzásra vonatkozó követelmények | K |
+
+| VI. | Sebességmérőkre vonatkozó követelmények | K |
+
+| VII. | Látómezőre és ablaktörlőkre vonatkozó követelmények | K |
+
+| VIII. | Üvegezésre vonatkozó követelmények | + |
+
+| IX. | Visszapillantó tükrökre vonatkozó követelmények | + |
+
+| X. | A járművezetőt tájékoztató rendszerekre vonatkozó követelmények | K |
+
+| XI. | Világító-, fényjelző berendezésekre és fényforrásaikra vonatkozó követelmények | + |
+
+| XII. | Világítóberendezések beépítésére vonatkozó követelmények | K |
+
+| XIII. | Utasvédelemre vonatkozó követelmények, ideértve a jármű belső kialakítását, a fejtámlákat, a biztonsági öveket és a járműajtókat | K |
+
+| XIV. | A jármű külsejére és kiegészítő elemeire vonatkozó követelmények | C |
+
+| XV. | Az elektromágneses összeférhetőségre vonatkozó követelmények | + |
+
+| XVI. | Hangjelző készülékekre vonatkozó követelmények | + |
+
+| XVII. | Fűtésrendszerekre vonatkozó követelmények | C |
+
+| XVIII. | A jogosulatlan használat ellen védő berendezésekre vonatkozó követelmények | C |
+
+| XIX. | Rendszámtáblákra vonatkozó követelmények | K |
+
+| XX. | A hatóságilag előírt táblákra és jelölésekre vonatkozó követelmények | K |
+
+| XXI. | Méretekre és a pótkocsi tömegére vonatkozó követelmények | K |
+
+| XXII. | A legnagyobb terhelt tömegre vonatkozó követelmények | K |
+
+| XXIII. | Pótsúlyokra vonatkozó követelmények | K |
+
+| XXIV. | Az elektromos rendszerek biztonságára vonatkozó követelmények | K |
+
+| XXV. | Tüzelőanyag-tartályokra vonatkozó követelmények | K |
+
+| XXVI. | A hátsó ütközésvédelemre vonatkozó követelmények | K |
+
+| XXVII. | Az oldalsó ütközésvédelemre vonatkozó követelmények | + |
+
+| XXVIII. | Rakfelületekre vonatkozó követelmények | K |
+
+| XXIX. | Elvontató berendezésekre vonatkozó követelmények | K |
+
+| XXX. | Gumiabroncsokra vonatkozó követelmények | K |
+
+| XXXI. | A felcsapódó víz elleni védelemre vonatkozó követelmények | K |
+
+| XXXII. | A hátrameneti fokozatra vonatkozó követelmények | K |
+
+| XXXIII. | Hernyótalpakra vonatkozó követelmények | K |
+
+| XXXIV. | Mechanikus kapcsolószerkezetekre vonatkozó követelmények | K |
 
 ## 2. számú táblázat
 
@@ -492,6 +794,6 @@
 
 ## ** A gyermekülésnek/gyermek visszatartó rendszernek a 44. számú, vagy a 129 számú ENSZ-EGB előírás szerint kell jóváhagyottnak lennie.
 
-2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^239]
+2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^256]
 
-[^239]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.
+[^256]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.
