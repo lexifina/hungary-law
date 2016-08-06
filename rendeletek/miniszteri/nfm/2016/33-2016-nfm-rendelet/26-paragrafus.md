@@ -1,3 +1,0 @@
-## 25. § Az R5. 34. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A sikeres alapvizsga eredményéről a vizsgaközpont a vizsgázó részére vizsgaigazolást ad, amely alapján a hatóság – ha a vasúti járművezetői engedélyről és vasúti járművezetői tanúsítványról szóló rendelet szerint szükséges – hatósági igazolványt állít ki. Az időszakos vizsga eredményéről a vizsgaközpont a vizsgázó részére vizsgajegyzőkönyvet állít ki. Az alapvizsgáról és az utolsó időszakos vizsgáról szóló igazolásokat a munkavállaló köteles magánál tartani és a hatóság felszólítására felmutatni. Az alapvizsgáról és utolsó időszakos vizsgáról szóló igazolásnak minősül a biztonsági okmányként kiadott vasúti járművezetői tanúsítvány is.”

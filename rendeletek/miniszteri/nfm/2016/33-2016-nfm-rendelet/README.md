@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-33-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-08-05 | 2016-33-20-2W.1 | 33/2016. (VIII. 2.) NFM rendelet |
+| 2016-08-06 | 2016-33-20-2W.2 | 2010: CXXX. törvény |

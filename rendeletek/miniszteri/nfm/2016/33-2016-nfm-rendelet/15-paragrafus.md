@@ -1,3 +1,5 @@
-## 14. § Hatályát veszti az R4. 1. § (2) bekezdésében a „– sífelvonó kivételével –” szövegrész.
+## 13–14. §[^6]
 
 ## 7. A vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésének és vizsgáztatásának, a vasúti vizsgaközpont és képzőszervezetek működésének, a képzési engedély kiadásának, továbbá a vasúti járművezetői gyakorlat szabályairól szóló 19/2011. (V. 10.) NFM rendelet módosítása
+
+[^6]: A 13–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
