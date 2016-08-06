@@ -2,9 +2,9 @@
 
 22. § (1) Nyilvános repülőtéren RVB-t kell létrehozni és működtetni.
 
-(2)[^88] Az RVB tagjai a légiközlekedés védelmében együttműködő hatóságok, a repülőtér üzemben tartója, a repülőteret kiszolgáló légiforgalmi irányító szolgálat vezetője, a repülőteret bázis repülőtérként használó és a repülőtér forgalmának legalább 40%-át lebonyolító légitársaság, valamint a repülőtér tűzoltóvédelmi kategóriáját és a polgári védelmi feladatait biztosító szervezet. Az RVB elnöke a repülőtér fekvése szerint illetékes általános rendőrségi feladatok ellátására létrehozott szerv vezetője (e § alkalmazásában a továbbiakban: illetékes rendőri szerv vezetője), az RVB társelnöke a repülőtér üzemben tartója által kijelölt személy, aki az illetékes rendőri szerv vezetőjének, vagy szervezetszerű helyettesének távollétében ellátja az RVB elnöki feladatait. Az RVB titkári feladatokat az illetékes rendőri szerv vezetője által kijelölt személy végzi.
+(2)[^89] Az RVB tagjai a légiközlekedés védelmében együttműködő hatóságok, a repülőtér üzemben tartója, a repülőteret kiszolgáló légiforgalmi irányító szolgálat vezetője, a repülőteret bázis repülőtérként használó és a repülőtér forgalmának legalább 40%-át lebonyolító légitársaság, valamint a repülőtér tűzoltóvédelmi kategóriáját és a polgári védelmi feladatait biztosító szervezet. Az RVB elnöke a repülőtér fekvése szerint illetékes általános rendőrségi feladatok ellátására létrehozott szerv vezetője (e § alkalmazásában a továbbiakban: illetékes rendőri szerv vezetője), az RVB társelnöke a repülőtér üzemben tartója által kijelölt személy, aki az illetékes rendőri szerv vezetőjének, vagy szervezetszerű helyettesének távollétében ellátja az RVB elnöki feladatait. Az RVB titkári feladatokat az illetékes rendőri szerv vezetője által kijelölt személy végzi.
 
-(3)[^89] Az RVB ülésén a tagok vagy a kijelölt állandó helyetteseik vehetnek részt. Az RVB elnökének meghívása alapján, tanácskozási joggal jelen lehetnek a védelmi programban feladatokkal felruházott egyéb szervezetek, így a repülőtéren lévő földi kiszolgáló, karbantartó és javító szervezetek, vagy egyéb, a légiközlekedés védelmében kötelezettségekkel rendelkező szervezetek is. Az RVB ügyrendjét maga állapítja meg, és szükség szerint, de legalább hathavonta ülésezik.
+(3)[^90] Az RVB ülésén a tagok vagy a kijelölt állandó helyetteseik vehetnek részt. Az RVB elnökének meghívása alapján, tanácskozási joggal jelen lehetnek a védelmi programban feladatokkal felruházott egyéb szervezetek, így a repülőtéren lévő földi kiszolgáló, karbantartó és javító szervezetek, vagy egyéb, a légiközlekedés védelmében kötelezettségekkel rendelkező szervezetek is. Az RVB ügyrendjét maga állapítja meg, és szükség szerint, de legalább hathavonta ülésezik.
 
 (4) Az RVB
 
@@ -14,8 +14,8 @@ b) a légiközlekedési hatóság védelmi határozata alapján elrendeli a véd
 
 c) figyelemmel kíséri a védelmi program, a Légiközlekedés Védelmi és Kényszerhelyzeti Terv és a repülőtér rend elkészítését és módosítását,
 
-d)[^90] jogosult az ügyrendje alapján munkáját segítő szakértői munkacsoportot létrehozni.
+d)[^91] jogosult az ügyrendje alapján munkáját segítő szakértői munkacsoportot létrehozni.
 
-[^88]: A 22. § (2) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^89]: A 22. § (3) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^90]: A 22. § (4) bekezdés d) pontját a 240/2011. (XI. 18.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^89]: A 22. § (2) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^90]: A 22. § (3) bekezdése a 240/2011. (XI. 18.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^91]: A 22. § (4) bekezdés d) pontját a 240/2011. (XI. 18.) Korm. rendelet 17. § (2) bekezdése iktatta be.
