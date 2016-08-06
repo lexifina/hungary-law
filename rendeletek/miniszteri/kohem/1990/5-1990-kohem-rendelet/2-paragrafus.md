@@ -64,7 +64,7 @@ j)[^23] „járműfejlesztő”: a fejlesztési célú járművet üzembentartó
 
 (8)[^26] A rendeletben a járművekkel kapcsolatos fogalmakra – az a)–j) pontban foglalt eltéréssel, illetőleg kiegészítésekkel – a közúti közlekedés szabályairól szóló 1/1975. (II. 5.) KPM–BM együttes rendeletben foglaltakat kell alkalmazni. Annak megítélése szempontjából, hogy a jármű sík úton önerejéből milyen sebességgel képes haladni, a jármű tervezési sebessége az irányadó. A rendelet alkalmazásában:
 
-a)[^27] „traktor”: olyan jármű-kategória, amelybe a C. Függelék 2. cikkének j) pontjában meghatározott gépi meghajtású, kerekes vagy lánctalpas mezőgazdasági vagy erdészeti járművek tartoznak,
+a)[^27] „traktor”: a 167/2013/EU európai parlamenti és tanácsi rendelet 3. cikk 8. pontjában meghatározott fogalom.
 
 b) ,,munkagép'': a közúti forgalomban időszakosan részt vevő olyan önjáró vagy vontatott gép, amely nem szállítás vagy vontatás, hanem egyéb munkavégzés céljából készült,
 
@@ -124,17 +124,17 @@ c) külföldről újként, meghatározott számban együttesen behozott
 
 a) a gépjárművek és pótkocsijaik típusjóváhagyására vonatkozó tagállami jogszabályok közelítéséről szóló 70/156/EGK tanácsi irányelv vagy a gépjárművek és pótkocsijaik, valamint az ilyen járművek rendszereinek, alkatrészeinek és önálló műszaki egységeinek jóváhagyásáról szóló 2007/46/EK európai parlamenti és tanácsi irányelv („keretirányelv”), illetve e rendelet A. Függeléke alapján, továbbá
 
-b) a motorkerékpárok és segédmotoros kerékpárok típusjóváhagyásáról és a 92/61/EGK irányelv hatályon kívül helyezéséről szóló 2002/24/EK európai parlamenti és tanácsi irányelv, illetve e rendelet B. Függeléke alapján, vagy
+b)[^38] a B. Függelék, illetve a 168/2013/EU európai parlamenti és tanácsi rendelet alapján, vagy
 
-c) a mezőgazdasági vagy erdészeti traktorok, azok pótkocsijainak és cserélhető vontatott munkagépeinek, beleértve ezek rendszereit is, továbbá alkatrészeinek és önálló műszaki egységeinek típusjóváhagyásáról, valamint a 74/150/EGK irányelv hatályon kívül helyezéséről szóló 2003/37/EK európai parlamenti és tanácsi irányelv, illetve e rendelet C. Függeléke alapján
+c)[^39] a C. Függelék, illetve a 167/2013/EU európai parlamenti és tanácsi rendelet alapján
 
 ## „EK típusjóváhagyó okmány”-t adott ki.
 
-(12)[^38] A rendelet alkalmazásában ,,bontási információk'': azoknak az ismereteknek az összessége, amelyek biztosítják az elhasználódott jármű szakszerű, a hulladékkezelési szempontokat előnyben részesítő, a környezetvédelmi előírásoknak megfelelő szétszerelését, bontását, különös tekintettel a jármű gyártásakor felhasznált veszélyes anyagokra.
+(12)[^40] A rendelet alkalmazásában ,,bontási információk'': azoknak az ismereteknek az összessége, amelyek biztosítják az elhasználódott jármű szakszerű, a hulladékkezelési szempontokat előnyben részesítő, a környezetvédelmi előírásoknak megfelelő szétszerelését, bontását, különös tekintettel a jármű gyártásakor felhasznált veszélyes anyagokra.
 
-(13)[^39] A két-, három- és négykerekű segédmotoros kerékpár (L1e, L2e és L6e járműkategória), a kétkerekű motorkerékpár (L3e járműkategória), az oldalkocsis motorkerékpár (L4e járműkategória), valamint a három- és négykerekű motoros tricikli (L5e és L7e járműkategória) járműkategóriába sorolásának műszaki feltételeit a B. függelék 1. cikk (2) és (3) bekezdése határozza meg.
+(13)[^41] A két-, három- és négykerekű segédmotoros kerékpár (L1e, L2e és L6e járműkategória), a kétkerekű motorkerékpár (L3e járműkategória), az oldalkocsis motorkerékpár (L4e járműkategória), valamint a három- és négykerekű motoros tricikli (L5e és L7e járműkategória) járműkategóriába sorolásának műszaki feltételeit a B. függelék 1. cikk (2) és (3) bekezdése határozza meg.
 
-(14)[^40] A mezőgazdasági vontatók, valamint egyes mezőgazdasági célú lassú járművek T1.–T5. járműkategóriába sorolásának műszaki feltételeit a C. Függelék C/2. számú melléklet A. Fejezete határozza meg.
+(14)[^42] A mezőgazdasági vontatók, valamint egyes mezőgazdasági célú lassú járművek T1.–T5. járműkategóriába sorolásának műszaki feltételeit a C. Függelék C/2. számú melléklet A. Fejezete határozza meg.
 
 [^5]: A 2. § (1) bekezdése a 83/2005. (X. 11.) GKM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: A 2. § (1) bekezdés a) pontja a 66/2009. (XI. 27.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -158,7 +158,7 @@ c) a mezőgazdasági vagy erdészeti traktorok, azok pótkocsijainak és cserél
 [^24]: A 2. § (6)–(8) bekezdése a 11/2000. (V. 24.) KHVM rendelet 2. §-ának (2) bekezdésével megállapított szöveg.
 [^25]: A 2. § (7a) bekezdését a 71/2013. (XII. 2.) NFM rendelet 1. § (1) bekezdése iktatta be.
 [^26]: A 2. § (8) bekezdésének bevezető rendelkezése a 39/2002. (XII. 28.) GKM rendelet 1. § (2) bekezdésével megállapított, a 22/2012. (V. 8.) NFM rendelet 12. §-a szerint módosított szöveg.
-[^27]: A 2. § (8) bekezdésének a) pontja a 83/2005. (X. 11.) GKM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^27]: A 2. § (8) bekezdés a) pontja a 26/2016. (VII. 22.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^28]: A 2. § (8) bekezdés b) pontjának ba) alpontját a 83/2005. (X. 11.) GKM rendelet 1. § (3) bekezdése iktatta be.
 [^29]: A 2. § (8) bekezdés b) pontjának bb) alpontját a 83/2005. (X. 11.) GKM rendelet 1. § (3) bekezdése iktatta be.
 [^30]: A 2. § (8) bekezdésének h) pontját a 39/2002. (XII. 28.) GKM rendelet 1. § (2) bekezdése iktatta be.
@@ -169,6 +169,8 @@ c) a mezőgazdasági vagy erdészeti traktorok, azok pótkocsijainak és cserél
 [^35]: A 2. § (9) bekezdés c) pontja a 62/2011. (XI. 29. )NFM rnedelet 2. §-ával megállapított szöveg.
 [^36]: A 2. § eredeti (9) bekezdésének számozását (10) bekezdésre változtatta a 39/2002. (XII. 28.) GKM rendelet 1. § (3) bekezdése, szövegét a 83/2005. (X. 11.) GKM rendelet 1. § (4) bekezdése állapította meg.
 [^37]: A 2. § (11) bekezdését a 34/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be, szövege a 14/2009. (III. 31.) KHEM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^38]: A 2. § (12) bekezdését a 34/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be.
-[^39]: A 2. § (13) bekezdését a 14/2009. (III. 31.) KHEM rendelet 1. § (2) bekezdése iktatta be.
-[^40]: A 2. § (14) bekezdését a 18/2013. (V. 9.) NFM rendelet 1. §-a iktatta be.
+[^38]: A 2. § (11) bekezdés b) pontja a 26/2016. (VII. 22.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^39]: A 2. § (11) bekezdés c) pontja a 26/2016. (VII. 22.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^40]: A 2. § (12) bekezdését a 34/2004. (III. 30.) GKM rendelet 1. § (2) bekezdése iktatta be.
+[^41]: A 2. § (13) bekezdését a 14/2009. (III. 31.) KHEM rendelet 1. § (2) bekezdése iktatta be.
+[^42]: A 2. § (14) bekezdését a 18/2013. (V. 9.) NFM rendelet 1. §-a iktatta be.

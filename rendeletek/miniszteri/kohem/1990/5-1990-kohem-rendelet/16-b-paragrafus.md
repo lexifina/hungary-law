@@ -1,6 +1,6 @@
-## Fejlesztési célú jármű[^231]
+## Fejlesztési célú jármű[^234]
 
-16/B. §[^232] (1) A járműfejlesztő kérelmére a közlekedési hatóság – a (2)–(5) bekezdésben meghatározott feltételek fennállása esetén – a járművet fejlesztési célú járművé minősíti. Az engedélyt – a jármű szemléje keretében – a közlekedési hatóság „fejlesztési célú jármű” záradékkal ellátott „Műszaki adatlap”-on adja meg, amelyet elektronikus úton is átad a Nyilvántartónak.
+16/B. §[^235] (1) A járműfejlesztő kérelmére a közlekedési hatóság – a (2)–(5) bekezdésben meghatározott feltételek fennállása esetén – a járművet fejlesztési célú járművé minősíti. Az engedélyt – a jármű szemléje keretében – a közlekedési hatóság „fejlesztési célú jármű” záradékkal ellátott „Műszaki adatlap”-on adja meg, amelyet elektronikus úton is átad a Nyilvántartónak.
 
 (2) A járműfejlesztő a fejlesztési célú jármű üzemeltetése során naprakészen dokumentálni köteles a járművön végrehajtott, az MR.-ben meghatározott követelményeket érintő műszaki változtatásokat. E dokumentációt a fejlesztési célú jármű üzemeltetésének befejezését követően öt évig köteles megőrzi.
 
@@ -24,5 +24,5 @@ f) a jármű-egység fejlesztésére vonatkozó szerződéses kapcsolat igazolá
 
 g) a jármű fejlesztéséhez szükséges személyi és tárgyi feltételeinek tanúsítása.
 
-[^231]: A 16/B. §-t megelőző alcímet a 39/2015. (VI. 30.) NFM rendelet 6. §-a iktatta be.
-[^232]: A 16/B. §-t a 39/2015. (VI. 30.) NFM rendelet 6. §-a iktatta be.
+[^234]: A 16/B. §-t megelőző alcímet a 39/2015. (VI. 30.) NFM rendelet 6. §-a iktatta be.
+[^235]: A 16/B. §-t a 39/2015. (VI. 30.) NFM rendelet 6. §-a iktatta be.

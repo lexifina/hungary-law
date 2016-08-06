@@ -1,6 +1,6 @@
-## A környezetkímélő gépkocsikkal kapcsolatos hatósági vizsgálat[^131]
+## A környezetkímélő gépkocsikkal kapcsolatos hatósági vizsgálat[^133]
 
-11/B. §[^132] (1) Az MR. 2. §-ában meghatározott környezetkímélő gépkocsi környezetvédelmi osztályba sorolása és a környezetkímélő jelleg megállapítása csak gyári kivitelű gépkocsi esetében végezhető el
+11/B. §[^134] (1) Az MR. 2. §-ában meghatározott környezetkímélő gépkocsi környezetvédelmi osztályba sorolása és a környezetkímélő jelleg megállapítása csak gyári kivitelű gépkocsi esetében végezhető el
 
 a) a típusbizonyítványban meghatározott adatok,
 
@@ -16,5 +16,5 @@ d) az a)–c) pontokban meghatározott adatok hiányában típusvizsgáló szak�
 
 (3) Ha az MR. 5. számú melléklet „II. A gépjárművek környezetvédelmi osztályba sorolása” pontjában foglalt táblázat 5. számú kódjával megjelölt járműkörbe tartozó hibrid hajtású gépkocsit az 5. környezetvédelmi osztálynál magasabb osztályba sorolták, akkor az üzembentartó kérheti a (2) bekezdés szerinti eljárás lefolytatását.
 
-[^131]: A 11/B. §-t megelőző alcímet a 39/2015. (VI. 30.) NFM rendelet 4. §-a iktatta be.
-[^132]: A 11/B. §-t a 39/2015. (VI. 30.) NFM rendelet 4. §-a iktatta be.
+[^133]: A 11/B. §-t megelőző alcímet a 39/2015. (VI. 30.) NFM rendelet 4. §-a iktatta be.
+[^134]: A 11/B. §-t a 39/2015. (VI. 30.) NFM rendelet 4. §-a iktatta be.
