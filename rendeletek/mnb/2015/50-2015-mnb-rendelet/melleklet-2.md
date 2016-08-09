@@ -310,6 +310,6 @@
 
 | 7 | Z07 | Természetes személyek anonimizált jövedelmi és munkatörténet adatai | ONYF | megállapodás szerint | elektronikus úton (elektronikus adathordozó) | megállapodás szerint | MNB Statisztikai igazgatóság |
 
-2. melléklet a 50/2015. (XII. 9.) MNB rendelethez[^5]
+2. melléklet a 50/2015. (XII. 9.) MNB rendelethez[^7]
 
-[^5]: A 2. melléklet az 5/2016. (III. 1.) MNB rendelet 1. § (2) bekezdése, a 17/2016. (V. 11.) MNB rendelet 3. §-a, a 21/2016. (VI. 29.) MNB rendelet 3. § (1) bekezdése és 6. § (1) bekezdés b)–c) pontja szerint módosított szöveg.
+[^7]: A 2. melléklet az 5/2016. (III. 1.) MNB rendelet 1. § (2) bekezdése, a 17/2016. (V. 11.) MNB rendelet 3. §-a, a 21/2016. (VI. 29.) MNB rendelet 3. § (1) bekezdése és 6. § (1) bekezdés b)–c) pontja, a 33/2016. (VIII. 8.) MNB rendelet 2. §-a szerint módosított szöveg.
