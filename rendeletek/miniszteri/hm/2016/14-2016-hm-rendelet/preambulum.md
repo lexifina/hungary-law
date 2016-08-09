@@ -1,0 +1,5 @@
+A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény 81. § (2) bekezdés h) pontjában kapott felhatalmazás alapján,
+
+a 2. alcím tekintetében a honvédek jogállásáról szóló 2012. évi CCV. törvény 238. § (2) bekezdés 25. pontjában kapott felhatalmazás alapján,
+
+a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 77. §-ában meghatározott feladatkörömben eljárva a következőket rendelem el:
