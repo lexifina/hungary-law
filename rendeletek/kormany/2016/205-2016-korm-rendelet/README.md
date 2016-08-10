@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-205-20-
 | --- | --- | --- |
 | 2016-08-01 | 2016-205-20-22.1 | 205/2016. (VII. 21.) Korm. rendelet |
 | 2016-08-02 | 2016-205-20-22.2 | 2010: CXXX. törvény |
+| 2016-08-10 | 2016-205-20-22.3 | 2010: CXXX. törvény |
