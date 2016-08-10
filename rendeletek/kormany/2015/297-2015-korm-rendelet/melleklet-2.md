@@ -40,7 +40,7 @@
 
 | 19 | Bádogos (34-582-02) | T | T | T | K | T | K | K | K | T | K | K | T | T | T | T | T | K | K | K | K |
 
-| 20 | Bányaipari technikus (54-544-01) | N | K | N | K | N | N | N | N | N | N | N | T | T | K | N | N | N | N | K | N |
+| 20 | Bányaipari technikus (54-544-01) | N | K | N | K | N | N | N | N | N | K | N | T | T | K | N | N | N | N | K | N |
 
 | 21 | Belovagló (35-813-01) | N | N | K | N | N | N | K | N | N | N | N | K | N | N | N | N | N | N | N | N |
 
@@ -336,7 +336,7 @@
 
 | 167 | Matróz-gépkezelő (34-841-02) | N | N | N | N | K | N | N | N | N | N | N | N | N | N | N | N | N | N | N | N |
 
-| 168 | Mechatronikai technikus (54-523-04) | K | T | K | T | K | T | K | T | T | N | K | T | T | K | T | K | K | T | T | K |
+| 168 | Mechatronikai technikus (54-523-04) | K | T | K | T | K | T | K | T | T | K | K | T | T | K | T | K | K | T | T | K |
 
 | 169 | Mechatronikus-karbantartó (34-523-01) | K | K | K | K | T | T | K | N | K | N | K | T | T | K | K | K | N | T | K | N |
 
@@ -788,4 +788,4 @@
 
 2. táblázat: A korlátozottan támogatott szakképesítések keretszámai fenntartónként Baranya megyében
 
-[^7]: A 2. melléklet a 25/2016. (II. 25.) Korm. rendelet 13. § (2) bekezdése szerint módosított szöveg.
+[^7]: A 2. melléklet a 25/2016. (II. 25.) Korm. rendelet 13. § (2) bekezdése, a 237/2016. (VIII. 2.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
