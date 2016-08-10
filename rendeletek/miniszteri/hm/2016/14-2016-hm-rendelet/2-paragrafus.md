@@ -1,3 +1,0 @@
-## 1. § A kártérítési felelősségről, valamint egyes meg nem térülő károk leírásának és törlésének szabályairól szóló 10/2013. (VIII. 12.) HM rendelet 40. § (1) bekezdésében az „A katonai oktatási intézmény parancsnoka, vezetője” szövegrész helyébe az „A katonai oktatási intézmény parancsnoka, vezetője és a honvédelemért felelős miniszter fenntartói irányítása alá tartozó köznevelési intézmény igazgatója” szöveg lép.
-
-## 2. A baleseti járadékra való jogosultság vizsgálatának, valamint a kiegészítő támogatások megállapításának és folyósításának szabályairól szóló 11/2013. (VIII. 12.) HM rendelet módosítása
