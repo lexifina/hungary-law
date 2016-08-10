@@ -94,11 +94,19 @@ iskolarendszeren kívüli szakképzés keretében is indíthat az egészségügy
 
 (12)[^24] A szakgimnáziumok 9. évfolyamain induló iskolai rendszerű képzések kizárólag a 2016. szeptember 1-jén hatályos OKJ-hoz kiadott kerettantervek szerint indíthatók.
 
-(13)[^25] A 2016. augusztus 31-ig megkezdett iskolarendszeren kívüli képzéseket a 2016. január 1-jén hatályos OKJ, továbbá a szakmai és vizsgakövetelmények, valamint kerettantervek szerint kell befejezni.
+(13)[^25] A (16) bekezdésben foglalt kivétellel a 2016. augusztus 31-ig megkezdett iskolarendszeren kívüli képzéseket a 2016. január 1-jén hatályos OKJ, továbbá a szakmai és vizsgakövetelmények, valamint kerettantervek szerint kell befejezni.
 
 (14)[^26] Az 52 345 04 Közszolgálati ügykezelő szakképesítés megszerzésére irányuló képzés a közszolgálati életpálya kidolgozásáért felelős miniszter, a 34 861 01 Rendészeti őr, valamint az 52 861 11 Rendészeti ügyintéző szakképesítés megszerzésére irányuló képzés a rendészetért felelős miniszter, az 52 853 03 Vízügyi ügyintéző szakképesítés megszerzésére irányuló képzés a vízgazdálkodásért felelős miniszter engedélyével indítható.
 
 (15)[^27] Az a tanuló, aki a 2016. évi középfokú felvételi eljárás során a 34 544 01 Vájár szakképesítés megszerzésére irányuló képzésre jelentkezett és oda felvételt nyert, tanulmányait a 34 544 02 Bányaművelő szakképesítés, aki a 34 841 02 Matróz-gépkezelő szakképesítés megszerzésére irányuló képzésre jelentkezett és oda felvételt nyert, a 34 841 03 Hajós szakmunkás szakképesítés megszerzésére irányuló képzésben kezdi meg tanulmányait a 2016/2017-es tanévben.
+
+(16)[^28] 2016. december 31-ig a 2016. január 1-jén hatályos OKJ, szakmai és vizsgakövetelmények, valamint kerettantervek szerint indíthatja képzéseit az a felnőttképzést folytató intézmény, amely
+
+a) a foglalkoztatást elősegítő támogatásokról, valamint a Munkaerőpiaci Alapból foglalkoztatási válsághelyzetek kezelésére nyújtható támogatásról szóló 6/1996. (VII. 16.) MüM rendelet (a továbbiakban: MüM rendelet) 3. § (1) bekezdése szerint a 2016. évi képzési jegyzéken szerepel, és a MüM rendelet 4. § (1) bekezdése szerint az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatallal együttműködési megállapodást kötött,
+
+b) a Gazdaságfejlesztési és Innovációs Operatív Program GINOP-5.1.1-15 „Út a munkaerőpiacra”, a GINOP-5.2.1-14 „Ifjúsági Garancia”, a GINOP-6.1.1-15 „Alacsony képzettségűek és közfoglalkoztatottak képzése”, a Terület- és Településfejlesztési Operatív Program TOP-5.1.1-15 „Megyei szintű foglalkoztatási megállapodások, foglalkoztatási-gazdaságfejlesztési együttműködések”, a TOP-5.1.2-15 „Helyi foglalkoztatási együttműködések”, a TOP-6.8.2-15 „Helyi foglalkoztatási együttműködések a megyei jogú város területén és várostérségében” című európai uniós forrásokból finanszírozott programok képzési jegyzékén szereplő képzéseket valósítja meg, vagy
+
+c) az Emberi Erőforrás Fejlesztési Operatív Program EFOP-3.8.1.-14-2015-00001 azonosító számú „Felzárkóztató egészségügyi ápoló szakképzési program” című kiemelt projekt keretében indított gyakorló ápoló és gyakorló csecsemő- és gyermekápoló szakképesítéseket, és 2017. december 31-ig az ápoló és csecsemő és gyermekápoló szakképesítéseket valósítja meg.
 
 [^17]: A 9. § (3) bekezdése a 84/2013. (III. 21.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^18]: A 9. § (6) bekezdése a 331/2012. (XI. 28.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
@@ -108,6 +116,7 @@ iskolarendszeren kívüli szakképzés keretében is indíthat az egészségügy
 [^22]: A 9. § (10) bekezdését a 25/2016. (II. 25.) Korm. rendelet 4. §-a iktatta be.
 [^23]: A 9. § (11) bekezdését a 25/2016. (II. 25.) Korm. rendelet 4. §-a iktatta be.
 [^24]: A 9. § (12) bekezdését a 25/2016. (II. 25.) Korm. rendelet 4. §-a iktatta be.
-[^25]: A 9. § (13) bekezdését a 25/2016. (II. 25.) Korm. rendelet 4. §-a iktatta be.
+[^25]: A 9. § (13) bekezdését a 25/2016. (II. 25.) Korm. rendelet 4. §-a iktatta be, szövege a 237/2016. (VIII. 2.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^26]: A 9. § (14) bekezdését a 25/2016. (II. 25.) Korm. rendelet 4. §-a iktatta be.
 [^27]: A 9. § (15) bekezdését a 25/2016. (II. 25.) Korm. rendelet 4. §-a iktatta be.
+[^28]: A 9. § (16) bekezdését a 237/2016. (VIII. 2.) Korm. rendelet 1. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-1. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^31]
+1. melléklet a 150/2012. (VII. 6.) Korm. rendelethez[^32]
 
 1. Az Országos Képzési Jegyzék
 
@@ -152,7 +152,7 @@
 
 | 73 | 55 | 211 | 03 | Díszítő festő | 4 | V | 1 év | 480-720 óra | N, E, TK | 5 | oktatásért felelős miniszter |
 
-| 74 | 55 | 521 | 01 | Díszletkivitelező | 4 | VI | 0,5 év | 120-160 óra | N, E, TK | 5 | kultúráért felelős miniszter |
+| 74 |  |  |  |  |  |  |  |  |  |  |  |
 
 | 75 | 55 | 211 | 04 | Díszlettervező | 4 | VI | 1 év | 480-720 óra | N, E, TK | 5 | oktatásért felelős miniszter |
 
@@ -180,7 +180,7 @@
 
 | 87 | 55 | 344 | 03 | Egyéb szervezeti mérlegképes könyvelő | 15 | XXIV | 1 év | 280-420 óra | N, E, L, TK, T | 5 | számviteli szabályozásért felelős miniszter |
 
-| 88 | 55 | 212 | 03 | Egyházzenész I. (a szakmairány megjelölésével) | 4 | XLII | 2 év | 900-1300 óra | N, E, TK | 5 | kultúráért felelős miniszter |
+| 88 | 55 | 212 | 03 | Egyházzenész I. (a szakmairány megjelölésével) | 4 | XLII | 2 év | 900-1300 óra | N, E, TK | 5 | oktatásért felelős miniszter |
 
 | 89 | 54 | 212 | 02 | Egyházzenész II. (a szakmairány megjelölésével) | 4 | XLII | 2 év | 900-1300 óra | N, E, TK | 5 | oktatásért felelős miniszter |
 
@@ -250,7 +250,7 @@
 
 | 122 | 54 | 522 | 01 | Erősáramú elektrotechnikus | 6 | XI | 2 év | 900-1300 óra | N, E, TK | 5 | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 123 | 55 | 211 | 01 | Ezüstműves | 4 | V | 1 év | 480-720 óra | N, E, TK | 5 | oktatásért felelős miniszter |
+| 123 | 55 | 211 | 07 | Ezüstműves | 4 | V | 1 év | 480-720 óra | N, E, TK | 5 | oktatásért felelős miniszter |
 
 | 124 | 54 | 543 | 01 | Faipari technikus | 11 | XVIII | 2 év | 900-1300 óra | N, E, TK | 5 | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -284,7 +284,7 @@
 
 | 139 | 54 | 815 | 01 | Fodrász | 19 | XXX | 2 év | 1200-1400 óra | N, E, TK | 5 | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 140 | 34 | 811 | 05 | Fogadós | 18 | XXVII | 3 év | 900-1300 óra | N, E, TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
+| 140 | 34 | 811 | 06 | Fogadós | 18 | XXVII | 3 év | 900-1300 óra | N, E, TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 141 | 54 | 720 | 02 | Fogászati asszisztens | 1 | I | 2 év | 1080-1320 óra | N, E, TK | 5 | egészségügyért felelős miniszter |
 
@@ -386,7 +386,7 @@
 
 | 190 | 55 | 720 | 02 | Gyógyszerkiadó szakasszisztens | 1 | I | - | 1100-1440 óra | TK | 5 | egészségügyért felelős miniszter |
 
-| 191 | 54 | 720 | 03 | Gyógyszertári asszisztens | 1 | I | 2év | 1080-1320 óra | N, E, TK | 5 | egészségügyért felelős miniszter |
+| 191 | 54 | 720 | 03 | Gyógyszertári asszisztens | 1 | I | 2 év | 1080-1320 óra | N, E, TK | 5 | egészségügyért felelős miniszter |
 
 | 192 | 52 | 810 | 01 | Habilitációs kutya kiképzője | 2 | III | - | 600-720 óra | TK | 4 | szociál- és nyugdíjpolitikáért felelős miniszter |
 
@@ -448,7 +448,7 @@
 
 | 221 | 55 | 725 | 07 | Immunhisztokémiai, hisztokémiai és molekuláris biológiai szakasszisztens | 1 | I | - | 1100-1440 óra | TK | 5 | egészségügyért felelős miniszter |
 
-| 222 | 54 | 481 | 03 | Infokommunikációs hálózatépítő és üzemeltető | 6 | XII | 2 év | 960-1440 óra | N, E, L, TK, T | 5 | informatikáért felelős miniszter |
+| 222 | 54 | 481 | 03 | Infokommunikációs hálózatépítő és üzemeltető | 7 | XII | 2 év | 960-1440 óra | N, E, L, TK, T | 5 | informatikáért felelős miniszter |
 
 | 223 | 55 | 481 | 02 | Információrendszer-szervező | 7 | XIII | 0,5 év | 400-600 óra | N, E, L, TK | 5 | informatikáért felelős miniszter |
 
@@ -504,7 +504,7 @@
 
 | 249 | 32 | 543 | 02 | Kádár, bognár | 11 | XVIII | - | 640-960 óra | TK | 3 | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 250 | 32 | 582 | 07 | Kályhás | 9 | XVI | - | 600-660 óra | N, E, TK | 3 | szakképzésért és felnőttképzésért felelős miniszter |
+| 250 | 32 | 582 | 07 | Kályhás | 9 | XVI | - | 600-660 óra | TK | 3 | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 251 | 54 | 725 | 06 | Kardiológiai és angiológiai asszisztens | 1 | I | 2 év | 1080-1320 óra | N, E, TK | 5 | egészségügyért felelős miniszter |
 
@@ -548,9 +548,9 @@
 
 | 271 | 54 | 213 | 06 | Kiadványszerkesztő technikus | 12 | XIX | 2 év | 900-1300 óra | N, E, TK | 5 | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 272 | 35 | 345 | 01 | Kis- és középvállalkozások ügyvezetője I | 19 | - | 1 év | 480-720 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
+| 272 | 35 | 345 | 01 | Kis- és középvállalkozások ügyvezetője I | 19 | - | 1 év | 480-720 óra | N, E, TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 273 | 55 | 345 | 01 | Kis- és középvállalkozások ügyvezetője II | 19 | - | 1 év | 480-720 óra | TK | 5 | szakképzésért és felnőttképzésért felelős miniszter |
+| 273 | 55 | 345 | 01 | Kis- és középvállalkozások ügyvezetője II | 19 | - | 1 év | 480-720 óra | N, E, TK | 5 | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 274 | 35 | 522 | 04 | Kisfeszültségű csatlakozó- és közvilágítási FAM szerelő | 6 | XI | - | 50 -70 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -566,7 +566,7 @@
 
 | 280 | 34 | 541 | 08 | Kistermelői élelmiszerelőállító, falusi vendéglátó | 21 | XXXVI | 3 év | 960-1440 óra | N, E, TK | 4 | élelmiszeriparért felelős miniszter |
 
-| 281 | 55 | 212 | 05 | Klasszikus zenész I. (a szakmairány megnevezésével) | 4 | XLII | 2 év | 900-1300 óra | N, E, TK | 5 | kultúráért felelős miniszter |
+| 281 | 55 | 212 | 05 | Klasszikus zenész I. (a szakmairány megnevezésével) | 4 | XLII | 2 év | 900-1300 óra | N, E, TK | 5 | oktatásért felelős miniszter |
 
 | 282 | 54 | 212 | 05 | Klasszikus zenész II. (a szakmairány megnevezésével) | 4 | XLII | 2 év | 900-1340 óra | N, E, TK | 5 | oktatásért felelős miniszter |
 
@@ -614,7 +614,7 @@
 
 | 304 | 62 | 345 | 01 | Közművelődési szakember I. | 4 | XXXIX | - | 340-560 óra | TK, T | 6 | kultúráért felelős miniszter |
 
-| 305 | 54 | 812 | 04 | Közönségforgalmi felügyelő | 4 | XXXIX | 2 év | 800-1000 óra | N, E | 5 | kultúráért felelős miniszter |
+| 305 |  |  |  |  |  |  |  |  |  |  |  |
 
 | 306 | 55 | 345 | 02 | Közösségfejlesztő animátor | 4 | XXXIX | - | 320-480 óra | TK | 5 | kultúráért felelős miniszter |
 
@@ -762,7 +762,7 @@
 
 | 378 | 55 | 725 | 19 | Nukleáris medicina szakasszisztens | 1 | I | - | 740-800 óra | TK | 5 | egészségügyért felelős miniszter |
 
-| 379 | 32 | 810 | 02 | Nyíltvízi- vízimentő | 19 | XXIII | - | 200-350 óra | TK | 5 | szakképzésért és felnőttképzésért felelős miniszter |
+| 379 | 32 | 810 | 02 | Nyíltvízi- vízimentő | 19 | XXIII | - | 200-350 óra | TK | 3 | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 380 | 52 | 345 | 03 | Nyilvántartási és okmányügyintéző | 22 | - | - | 500 -700 óra | TK | 4 | közigazgatás-fejlesztésért felelős miniszter |
 
@@ -788,7 +788,7 @@
 
 | 391 | 34 | 725 | 01 | Optikai üvegcsiszoló | 19 | XXIX | 3 év | 800 - 1000 óra | N, E, TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 392 | 32 | 521 | 04 | Órás | 6 | IX | - | 240-360 óra | TK | 2 | szakképzésért és felnőttképzésért felelős miniszter |
+| 392 | 32 | 521 | 04 | Órás | 6 | IX | - | 240-360 óra | TK | 3 | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 393 | 33 | 542 | 01 | Ortopédiai cipész | 10 | XVII | - | 800 - 1000 óra | TK | 3 | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -818,7 +818,7 @@
 
 | 406 | 54 | 140 | 02 | Pedagógiai- és családsegítő munkatárs | 3 | IV | 2 év | 900-1300 óra | N, E, TK | 5 | oktatásért felelős miniszter |
 
-| 407 | 52 | 140 | 02 | Pedagógiai felügyelő | 3 | IV | - | 480-720 óra | TK | 4 | oktatásért felelős miniszter |
+| 407 |  |  |  |  |  |  |  |  |  |  |  |
 
 | 408 | 34 | 541 | 05 | Pék | 21 | XXXVI | 3 év | 960-1440 óra | N, E, TK | 4 | élelmiszeriparért felelős miniszter |
 
@@ -858,7 +858,7 @@
 
 | 426 | 55 | 861 | 07 | Rendőr zászlós | 22 | - | - | 400-600 óra | TK | 5 | rendészetért felelős miniszter |
 
-| 427 | 54 | 525 | 10 | Repülőgép szerelő | 13 | XXII | 2 év | 960-1440 óra | N, E, TK | 5 | közlekedésért felelős miniszter |
+| 427 | 54 | 525 | 10 | Repülőgép-szerelő | 13 | XXII | 2 év | 960-1440 óra | N, E, TK | 5 | közlekedésért felelős miniszter |
 
 | 428 | 52 | 522 | 03 | Robbanásbiztos berendezés kezelője | 6 | XI | - | 120 - 210 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -952,7 +952,7 @@
 
 | 473 | 52 | 813 | 02 | Tánc instruktor | 3 | XXXVII | - | 400-500 óra | TK | 5 | sportpolitikáért felelős miniszter |
 
-| 474 | 55 | 212 | 08 | Táncos I. (a szakmairány megjelölésével) | 4 | XLII | 2 év | 900-1300 óra | N, E, TK | 5 | kultúráért felelős miniszter |
+| 474 | 55 | 212 | 08 | Táncos I. (a szakmairány megjelölésével) | 4 | XLII | 2 év | 900-1300 óra | N, E, TK | 5 | oktatásért felelős miniszter |
 
 | 475 | 54 | 212 | 09 | Táncos II. (a szakmairány megjelölésével) | 4 | XLII | 2 év | 900-1300 óra | N, E, TK | 5 | oktatásért felelős miniszter |
 
@@ -1018,7 +1018,7 @@
 
 | 506 | 53 | 861 | 10 | Tűzvédelmi főelőadó | 22 | - | - | 200-300 óra | TK | 5 | katasztrófák elleni védekezésért felelős miniszter |
 
-| 507 | 32 | 810 | 01 | Uszodamester | 19 | XXIII | - | 200-350 óra | TK | 5 | szakképzésért és felnőttképzésért felelős miniszter |
+| 507 | 32 | 810 | 01 | Uszodamester | 19 | XXIII | - | 200-350 óra | TK | 3 | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 508 | 34 | 582 | 11 | Útépítő | 13 | XVI | 3 év | 800-1000 óra | N, E, TK | 4 | közlekedésért felelős miniszter |
 
@@ -1072,7 +1072,7 @@
 
 | 533 | 54 | 524 | 03 | Vegyész technikus | 8 | XV | 2 év | 800-1000 óra | N, E, TK | 5 | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 534 | 34 | 524 | 02 | Vegyipari rendszerkezelő | 8 | XV | 3 év | 800-1000 óra | TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
+| 534 | 34 | 524 | 02 | Vegyipari rendszerkezelő | 8 | XV | 3 év | 800-1000 óra | N, E, TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 535 | 55 | 524 | 06 | Vegyipari rendszerüzemeltető szaktechnikus | 8 | XV | 1 év | 480-720 óra | N, E, TK | 5 | szakképzésért és felnőttképzésért felelős miniszter |
 
@@ -1080,7 +1080,7 @@
 
 | 537 | 35 | 811 | 02 | Vendéglátó-üzletvezető | 18 | XXVII | 1 év | 480-720 óra | N, E, TK | 4 | szakképzésért és felnőttképzésért felelős miniszter |
 
-| 538 | 55 | 211 | 02 | Vésnök | 4 | V | 1 év | 480-720 óra | N, E, TK | 5 | oktatásért felelős miniszter |
+| 538 | 55 | 211 | 08 | Vésnök | 4 | V | 1 év | 480-720 óra | N, E, TK | 5 | oktatásért felelős miniszter |
 
 | 539 | 55 | 581 | 04 | Vidékfejlesztési szaktechnikus | 20 | XXXIII | 1 év | 480-720 óra | N, E, TK | 5 | agrárpolitikáért felelős miniszter |
 
@@ -1132,4 +1132,4 @@
 
 2. táblázat: részszakképesítések
 
-[^31]: Az 1. melléklet a 25/2016. (II. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^32]: Az 1. melléklet a 25/2016. (II. 25.) Korm. rendelet 5. § (1) bekezdésével megállapított, a 237/2016. (VIII. 2.) Korm. rendelet 2. § (1) bekezdése szerint módosított szöveg.
