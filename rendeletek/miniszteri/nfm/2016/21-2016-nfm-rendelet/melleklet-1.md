@@ -1,4 +1,4 @@
-## 34. § Hatályát veszti a kedvtelési célú vízi járművek tervezéséről, építéséről és megfelelőségének tanúsításáról szóló 2/2000. (VII. 26.) KöViM rendelet.
+## 34. §[^1]
 
 1. melléklet a 21/2016. (VII. 12.) NFM rendelethez
 
@@ -13,3 +13,5 @@
 4. rögzített beszerelésre szánt üzemanyagtartályok és üzemanyag-vezetékek;
 
 5. előre gyártott nyílások és hajóablakok.
+
+[^1]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
