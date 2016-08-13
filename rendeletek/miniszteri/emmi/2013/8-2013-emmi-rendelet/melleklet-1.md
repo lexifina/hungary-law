@@ -1,4 +1,4 @@
-1. melléklet a 8/2013. (I. 30.) EMMI rendelethez
+1. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^10]
 
 ## A TANÁRKÉPZÉS ÁLTALÁNOS KÖVETELMÉNYEI
 
@@ -40,7 +40,15 @@ bb) zeneművésztanár szakokon: 12 félév, 360 kredit;
 
 c) a 4. melléklet szerinti szakmai tanárszakokon és az 5. melléklet szerinti zenetanárszakokon, egyszakos képzésben: 10 félév, 300 kredit.
 
-4.1.2. Az 1. § b) pontjában foglalt osztott képzésben, egyszakos szakmai tanárszakon: legfeljebb 5 félév, legalább 120, legfeljebb150 kredit.
+4.1.2. Az 1. § b) pontjában foglalt osztott képzésben, egyszakos
+
+a) szakmai tanárszakon:
+
+aa) 4 félév 120 kredit,
+
+ab) 3 félév 90 kredit, amelyben az egyéni összefüggő iskolai gyakorlat 1 félév, ha az előzetesen megszerzett köznevelési munkatapasztalat elismerése alapján az egyéni összefüggő iskolai gyakorlat 1 félévére történik meg;
+
+b) művészeti tanárszakon 4 félév 120 kredit.
 
 4.1.3. Az 1. § c) pontjában foglaltak szerinti művészeti tanárszakokon, a művészeti képzési terület szerinti nem tanári mesterszakkal vagy osztatlan szakkal párhuzamosan felvett képzésben: 2 félév, 60 kredit.
 
@@ -54,7 +62,11 @@ b) a felsőoktatásról szóló 1993. évi LXXX. törvény (a továbbiakban: az 
 
 c) az 1993. évi felsőoktatási törvény szerinti egyetemi szintű vagy főiskolai szintű, illetve a mesterfokozatú tanári szakképzettséget követően, újabb tanári szakképzettség megszerzésére irányuló képzésben legfeljebb 4 félév, 120 kredit;
 
-d) tanító, szakoktató szakképzettség birtokában legalább 5 félév és 150 kredit.
+d) tanító szakképzettség birtokában, ha a tanári szakképzettség szakterületi ismerete 100 kredit, akkor 4 félév 120 kredit, ha a tanári szakképzettség szakterületi ismerete 130 kredit, akkor a képzési idő 5 félév, 150 kredit;
+
+e) szakoktató szakképzettség birtokában szakmai tanári szakképzettség megszerzésére irányuló mesterképzésben 4 félév, 120 kredit.
+
+4.1.6. Az 1/A. § szerinti osztatlan tanárképzésben a 4.1.1. pont aa)-ac) alpontja alapján összegyűjtendő kreditek számába a Korm. rendelet 5. § (5) bekezdése alapján teljesített krediteket be kell számítani;
 
 4.2. Tanárképzésben a Korm. rendelet 3. § (1) bekezdés a) és b–c) pontja szerinti szakképzettségi elemek kreditértéke:
 
@@ -76,15 +88,35 @@ bb) zeneművésztanár szakokon 360 kredites képzésben a szakterületi elem ta
 
 c) a 4. melléklet szerinti szakmai tanárszakokon és az 5. melléklet szerinti zenetanárszakokon egyszakos 300 kredites képzésben a szakterületi elem legfeljebb 200 kredit, a tanári felkészítés 100 kredit.
 
-4.2.2. Az 1. § b) pontjában foglalt osztott képzésben 150 kredites képzésben, szakmai tanárszakon a szakterületi elem 50 kredit, a tanári felkészítés 100 kredit, a 120 kredites képzésben a tanári felkészítés legalább 90 kredit.
+4.2.2. Az 1. § b) pontjában foglalt osztott képzésben
 
-4.2.3. Az 1. § c)–d) pontja alapján a tanárszak szerinti nem tanári mesterszakkal párhuzamos vagy az azt követő 60 kredites tanári mesterképzésben, ha a nem tanári mesterszak vagy osztatlan szak valamennyi tanulmányi és vizsga követelményeinek teljesítésével a szakterületi elem teljesül, a tanári felkészítés kreditértéke 60 kredit, amelyből a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke 8 kredit.
+a) szakmai tanárszakon:
+
+aa) 120 kredites képzésben a szakterületi elem 10 kredit, a tanári felkészítés 100 kredit azzal, hogy a 4.3. pont alapján a köznevelési intézményben, felnőttképzést folytató intézményben megszervezett gyakorlat kreditértéke 40 kredit, a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke legalább 12 kredit;
+
+ab) 90 kredites képzésben – az ac) alpontban meghatározott gyógypedagógia-tanár szakot és konduktortanár szakot kivéve – a szakterületi elem 10 kredit, a tanári felkészítés 70 kredit azzal, hogy a 4.3. pont és a 6.1. pont alapján a köznevelési intézményben, felnőttképzést folytató intézményben megszervezett gyakorlat kreditértéke 20 kredit, a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke legalább 12 kredit;
+
+ac) a gyógypedagógia-tanárszakon, a konduktortanár szakon a 90 kredites képzésben a szakterületi elem 50 kredit, a tanári felkészítés 40 kredit azzal, hogy a 4.3. pont és a 6.1. pont alapján a köznevelési intézményben, felnőttképzést folytató intézményben megszervezett gyakorlat kreditértéke 20 kredit, a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke legalább 12 kredit;
+
+b) művészeti tanárszakon:
+
+120 kredites képzésben a szakterületi elem 50 kredit, a tanári felkészítés 70 kredit azzal, hogy a 4.3. pont és a 6.1. pont alapján a köznevelési intézményben, felnőttképzési tevékenységet folytató intézményben megszervezett gyakorlat kreditértéke 20 kredit, a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke legalább 12 kredit.
+
+4.2.3. Az 1. § c) és d) pontja alapján a tanárszak szerinti nem tanári mesterszakkal párhuzamos vagy az azt követő 60 kredites tanári mesterképzésben a nem tanári mesterszak vagy az osztatlan szak valamennyi tanulmányi és vizsga követelményének teljesítésével teljesül a szakterületi elem. A tanári felkészítés 60 kredit, amelyből a 4.3. pont, valamint a 6.1. és 6.3. pont alapján a pedagógia, pszichológiai elméleti és gyakorlati ismeretek kreditértéke 28 kredit, a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke 8 kredit, amelyekből az összefüggő egyéni iskolai gyakorlathoz közvetlenül kapcsolódó feladatok kreditértéke összesen 4 kredit, köznevelési intézményben megszervezett összefüggő, egyéni iskolai gyakorlat (a portfólió kreditértékével) 20 kredit. Az 1. § c) pontja szerinti, nem tanári mesterszakkal párhuzamos képzésben az 5. melléklet A) A MŰVÉSZETI TANÁRSZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI fejezet 4. Képzőművészet alpontja alapján szervezett képzésben a képzéssel párhuzamosan folyó pedagógiai, pszichológiai és tanítási gyakorlat további 2 kredit.
 
 4.2.4. Újabb oklevelet adó tanárképzésben:
 
-a) általános iskolai tanári szakképzettséget követően és az 1993. évi felsőoktatási törvény szerinti főiskolai szintű tanári szakképzettséget követően, ugyanazon a szakterületen, a középiskolai tanári szakképzettség megszerzésére irányuló egyszakos, 60 kredites képzésben a szakterületi ismeret legalább 45 kredit, a tanári felkészítés legfeljebb 15 kredit, kétszakos, 120 kredites képzésben a szakterületi ismeret legalább 97 kredit, a tanári felkészítés legfeljebb 23 kredit. A tanári felkészítés részeként a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke szakonként legalább 6 kredit. A vezetőpedagógus (vezető tanár) irányításával végzett iskolai tanítási gyakorlat 2 kredit, továbbá a portfólió minimális kreditértéke 2 kredit;
+a) általános iskolai tanári szakképzettséget követően és az 1993. évi felsőoktatási törvény szerinti főiskolai szintű tanári szakképzettséget követően, ugyanazon a szakterületen, a középiskolai tanári szakképzettség megszerzésére irányuló egyszakos, 60 kredites képzésben a szakterületi ismeret legalább 45 kredit, a tanári felkészítés legfeljebb 15 kredit, kétszakos, 120 kredites képzésben a szakterületi ismeret legalább 97 kredit, a tanári felkészítés legfeljebb 23 kredit. A tanári felkészítés részeként a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke szakonként legalább 6 kredit, a vezetőpedagógus (vezető tanár) irányításával végzett iskolai tanítási gyakorlat 2 kredit, továbbá a portfólió minimális kreditértéke 2 kredit;
 
-b) az 1993. évi felsőoktatási törvény szerinti egyetemi szintű vagy főiskolai szintű, illetve a mesterfokozatú tanári szakképzettséget követően újabb tanári szakképzettség megszerzésére irányuló 120 kredites képzésben a szakterületi ismeret 100 kredit és a tanári felkészítés 20 kredit, amelyből a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke 8 kredit.
+b) az 1993. évi felsőoktatási törvény szerinti egyetemi szintű vagy főiskolai szintű, illetve a mesterfokozatú tanári szakképzettséget követően újabb tanári szakképzettség megszerzésére irányuló 120 kredites képzésben a szakterületi ismeret 100 kredit és a tanári felkészítés 20 kredit, amelyből a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeretek kreditértéke 8 kredit, a vezetőpedagógus (vezető tanár) irányításával végzett iskolai tanítási gyakorlat 2 kredit, a záróvizsga szakdolgozati elemeként a portfólió minimális kreditértéke 2 kredit;
+
+c) tanító szakképzettség birtokában:
+
+ca) 120 kredites képzésben a szakterületi elem legfeljebb 90 kredit, a tanári felkészítés 30 kredit, amelyből a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeret 6 kredit, a vezetőpedagógus (vezető tanár) irányításával végzett iskolai tanítási gyakorlat 2 kredit, az összefüggő egyéni iskolai gyakorlathoz közvetlenül kapcsolódó feladatok kreditértéke 2 kredit, az összefüggő egyéni iskolai gyakorlat 20 kredit a portfólió kreditértékével (2 kredit), amely a záróvizsga szakdolgozati eleme;
+
+cb) 150 kredites képzésben a szakterületi elem legfeljebb 120 kredit, a tanári felkészítés legfeljebb 30 kredit, amelyből a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeret 6 kredit, a vezetőpedagógus (vezető tanár) irányításával végzett iskolai tanítási gyakorlat 2 kredit, az összefüggő egyéni iskolai gyakorlathoz közvetlenül kapcsolódó feladatok kreditértéke 2 kredit, az összefüggő egyéni iskolai gyakorlat 20 kredit a portfólió kreditértékével (2 kredit), amely a záróvizsga szakdolgozati eleme;
+
+d) szakoktató szakképzettség birtokában, 120 kredites képzésben a szakterületi elem 50 kredit, a tanári felkészítés 70 kredit, amelyből a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeret 15 kredit, a vezetőpedagógus (vezető tanár) irányításával végzett iskolai tanítási gyakorlat 2 kredit, az összefüggő egyéni iskolai gyakorlat 20 kredit, a portfólió kreditértéke 2 kredit, amely a záróvizsga szakdolgozati eleme.
 
 4.3. A Korm. rendelet 3. § (1) bekezdés b)–c) pontja szerint a tanári szakképzettség tanári felkészítés elemének kreditértéke: 100 kredit, amelyből – a szabadon választható tantárgyakhoz rendelhető kreditek száma nélkül –
 
@@ -120,8 +152,10 @@ A mesterfokozat megszerzéséhez az Európai Unió és az Egyesült Nemzetek Sze
 
 6. A tanárképzés különböző képzési formáiban a képzés sajátos követelményei
 
-6.1. Az 1. § c) és d) pontja szerinti tanári mesterszakokon a 3. § (3) bekezdésében foglaltakra figyelemmel az 1 féléves összefüggő egyéni iskolai gyakorlat kreditértéke 20 kredit.
+6.1. Az 1. § c) és d) pontja szerinti tanári mesterszakokon, valamint az 1. § b) pontja szerinti 90 kredites tanári mesterszakon a 3. § (3) bekezdésében foglaltakra figyelemmel az egy féléves összefüggő egyéni iskolai gyakorlat kreditértéke 20 kredit, amelynek része a 4.3.6. pont szerinti portfólió kreditértéke.
 
 6.2. A 4.1.5. és 4.2.4. pont szerinti, újabb oklevelet adó képzésben a 4.3.4. pont, illetve a 2. melléklet 2.2. b) pont szerinti közösségi pedagógiai gyakorlatot a legalább három éves szakmai gyakorlattal rendelkező pedagógus jelentkezőnek nem kell teljesítenie.
 
 6.3. Az 1. § b)–d) pontja szerinti tanári mesterszakokon a 4.5. pont tekintetében a portfólió neveléstudományi szempontú, tudományos alaposságú bemutatása, elemzése, értékelése a tanári képesítés szempontjából meghatározó tapasztalatok rendszerezett összegzése a záróvizsga szakdolgozati eleme.
+
+[^10]: Az 1. melléklet a 18/2016. (VIII. 5.) EMMI rendelet 15. § (1) bekezdése szerint módosított szöveg.

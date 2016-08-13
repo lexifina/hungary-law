@@ -1,14 +1,14 @@
-3. melléklet a 8/2013. (I. 30.) EMMI rendelethez
+3. melléklet a 8/2013. (I. 30.) EMMI rendelethez[^11]
 
 A)
 
 A KÖZISMERETI TANÁRSZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
-1. Tanári szakképzettség, a 3. §-ra figyelemmel
+1. Tanári szakképzettség – az 5. pont szerinti magyar mint idegen nyelv tanára, finn nyelv és kultúra tanára, filozófiatanár és művészettörténet-tanár kivételével – a 3. §-ra figyelemmel
 
-– az 1. § a) pontja szerint osztatlan, kétszakos képzésben, tanárszakokon vagy
+- az 1. § a) pontja szerint osztatlan, kétszakos képzésben, tanárszakokon vagy
 
-– a 1. § d) pontja szerinti tanári mesterszakon
+- az 1. § d) pontja szerinti tanári mesterszakon
 
 szerezhető.
 
@@ -36,13 +36,39 @@ szerezhető.
 
 Az oklevél Master of Education címet tanúsít, rövidített jelölése: MEd
 
-3. Az 1. melléklet 4.4. pontjában foglaltakra tekintettel a kétszakos tanárképzésben a szabadon választható tantárgyakhoz rendelhető kreditek minimális értéke:
+3. Az 1. melléklet 4.4. pontjában foglaltakra tekintettel a tanárképzésben a szabadon választható tantárgyakhoz rendelhető kreditek minimális értéke:
 
-– 12 féléves képzésben: 15 kredit,
+- 12 féléves képzésben: 15 kredit,
 
-– 11 féléves képzésben: 13 kredit,
+- 11 féléves képzésben: 13 kredit,
 
-– 10 féléves képzésben: 12 kredit.
+- 10 féléves képzésben: 12 kredit.
+
+- 2 féléves képzésben: 2 kredit.
+
+4. A Korm. rendelet 6. §-ában és az 1. melléklet 4.1.5. pont a)-c) alpontjában és 4.2.4. pont a)-c) alpontjában meghatározott, az újabb oklevelet adó tanárképzésre vonatkozó rendelkezések szerint a képzési idő és az összegyűjtendő kreditek száma – a Korm. rendelet 3. § (1) bekezdés a) pontja szerinti szakterületi elem és b)-c) pontja szerinti tanári felkészítés elem kreditértékeire figyelemmel:
+
+- egyetemi szintű, mesterfokozatú vagy főiskolai szintű tanári szakképzettség birtokában újabb tanári szakképzettség megszerzésére irányuló mesterképzésben 4 félév, 120 kredit;
+
+- tanító szakképzettség birtokában, ha a 3. § (1) bekezdés a) pontja szerinti szakterületi ismeret 100 kredit, akkor 4 félév 120 kredit, ha a 3. § (1) bekezdés a) pontja szerinti szakterületi ismeret 130 kredit, akkor 5 félév 150 kredit.
+
+5. A magyar mint idegen nyelv tanára, a finn nyelv és kultúra tanára, a filozófiatanár, a művészettörténet-tanár szakképzettség, a 3. §-ra figyelemmel, az 1. § d) pontja szerinti tanári mesterszakon szerezhető.
+
+5.1. A képzési ideje és az összegyűjtendő kreditek száma
+
+- az 1. melléklet 4.1.4. és 4.2.3. pontjában foglaltakra tekintettel 2 félév, az összegyűjtendő kreditek száma 60 kredit;
+
+- 3. § (1) bekezdés a) pontja szerinti szakterületi (szaktudományos, művészeti) tudás a tanárszak szerinti nem tanári mesterszakon, a mester fokozat és szakképzettség megszerzésével szerezhető meg, a tanári felkészítés kreditértéke 60 kredit.
+
+5.2. A 1. § d) pontja szerinti magyar mint idegen nyelv tanára szakos tanári mesterszakon a Korm. rendelet 3. § (1) bekezdés a) pontja szerinti szakterületi (szaktudományos, művészeti) tudás képzési területe szerinti nem tanári mesterszak az alkalmazott nyelvészet, a magyar nyelv és irodalom és a hungarológia mesterképzési szak.
+
+5.3. A 1. § d) pontja szerinti magyar mint idegen nyelv tanára szakos tanári mesterszakra a bölcsészettudomány képzési terület idegen nyelvi mesterszakján szerzett mesterfokozat és szakképzettség birtokában akkor is felvételt lehet nyerni, ha a korábbi mesterképzési vagy részismereti tanulmányokból 50 kredit elismerhető a tanárszak képzési és kimeneti követelményeiben meghatározottak szerint.
+
+5.4. Az 1. melléklet 4.1.5. pont a)-c) alpontjában és 4.2.4. pont a)-c) alpontjában, az újabb oklevelet adó tanárképzésben foglaltakra is tekintettel a magyar mint idegen nyelv tanára tanárszakon:
+
+- egyetemi szintű, mesterfokozatú vagy az 1993. évi felsőoktatási törvény szerinti főiskolai szintű tanári szakképzettség birtokában újabb tanári szakképzettség megszerzésére irányuló mesterképzésben 4 félév, 120 kredit;
+
+- tanító szakon – a korábbi tanulmányok során idegen nyelvi szakkollégium vagy idegen nyelvi műveltségterület követelményeinek teljesítésével - az újabb oklevelet adó magyar mint idegen nyelv tanára szakon a képzési idő 5 félév, 150 kredit.
 
 B)
 
@@ -623,6 +649,168 @@ b) A középiskolai tanári szakon az önálló képzési szakasz ismeretkörei:
 – A kétszintű nyelvi érettségi vizsga követelményei. A vizsgafeladatok készítése, kipróbálása, ellenőrzése. A vizsgák minőségi kritériumai.
 
 – A Közös Európai Referenciakeret és annak alkalmazása.
+
+2a. Magyar mint idegen nyelv tanára
+
+1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+
+- magyar nyelvű megnevezése: magyar mint idegen nyelv tanára,
+
+- angol nyelvű megjelölése: teacher of Hungarian as a foreign language.
+
+2. A 3. §-ban foglaltakra és az 1. melléklet 4.1.4. és 4.2.3. pontjára figyelemmel
+
+- a képzési idő 2 félév
+
+3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben a magyar nyelv idegen nyelvként és származásnyelvként történő oktatásának különféle módozataira (klasszikus idegen nyelv, származásnyelv, környezetnyelv), az iskola pedagógiai feladatainak ellátására, továbbá a magyarság kultúrájának átadásával kapcsolatos oktatási, pedagógiai feladatokra, pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+
+4. Az elsajátítandó szakmai tudás, képesség
+
+4.1. a Korm. rendelet 3. § (1) bekezdés b)-c) pontja tekintetében:
+
+a 2. mellékletben meghatározott tudás, készség, ismeret;
+
+4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
+
+4.2.1. A magyar mint idegen nyelv tanára szakos tanár szakterületi tudása, készségei, képességei
+
+A magyar mint idegen nyelv nyelvtudás, nyelvhasználat terén
+
+- Képes anyanyelvének külső szemléletére, és funkcionális nyelvészeti ismeretei birtokában képes annak átadására a magyart idegen nyelvként tanulóknak.
+
+- Képes a Közös Európai Referenciakeret szintjeinek megfelelően elmagyarázni a nyelvi jelenségeket, törvényszerűségeket.
+
+- Képes az igényes nyelvhasználatra, ismeri a magyar nyelv változatait.
+
+- Ismeri és képes megfelelően alkalmazni a magyar nyelv területi és társadalmi változatait.
+
+- Ismeri a szinkrón nyelvállapot fonetikai-fonológiai, morfológiai, szintaktikai, szemantikai és pragmatikai, valamint diskurzus szintű jellemzőit és ezek összefüggéseit.
+
+- Ismereteit képes a célnyelv folyékony használata és pedagógiai tevékenysége során helyesen, a kontextushoz illően alkalmazni.
+
+- Ismeri a beszélt és írott magyar nyelv szabályait, azokat a mindenkori nyelvhasználat kontextusának megfelelően képes hatékonyan alkalmazni.
+
+A nem magyar anyanyelvű magyar mint idegen nyelv tanára továbbá
+
+- A magyart idegen nyelvként felsőfokú (C1), komplex típusú nyelvvizsga szintjén ismeri és használható nyelvtudással, interkulturális kommunikatív kompetenciákkal rendelkezik.
+
+- Képes a magyar nyelv gördülékeny, helyes, magabiztos, a mindenkori kontextusba illő használatára.
+
+A célnyelvi kultúra közvetítése terén
+
+- Ismeri a hazai és a külföldi (Kárpát-medencei és a nyugati diaszpóra) magyar nyelvű kultúrát, azok hasonlóságait, különbségeit.
+
+- Idegennyelvi kompetenciáját felhasználva képes a kultúrák közötti közvetítésre, az interkulturális kompetencia fejlesztésére.
+
+- Ismeri a magyar kultúra szellemi, művészeti irányzatait, megjelenési formáit, hagyományait, kanonikus és kortárs műveit; azokat képes saját maga, valamint diákjai fejlesztésére hatékonyan és motiválóan, a nyelvtanítás céljára alkalmazni.
+
+- Ismeri a magyarországi és külhoni magyarok tárgyi, szellemi kultúráját, az egyes népcsoportok történetét feltáró kutatások legújabb eredményeit, képes azokat súlyozni, a más kultúrákból érkezett nyelvtanulók számára átadni, valamint alkalmazni magyar gyökerekkel rendelkező diákjai esetében a származásnyelv-tudás fejlesztésére, illetve nemzeti identitás erősítésére.
+
+Szaktudományi, szakmódszertani tudás terén
+
+- Képes a tudás tantervi, műveltségterületi összefüggésekbe ágyazására; képes elősegíteni a tanulók tudományos fogalmainak, fogalomrendszereinek fejlődését; megismertetni a tudományterület szemléletmódját, értékeit és kutatási eljárásait; képes az elsajátított tudás alkalmazásához szükséges készségek kialakítására a tanulókban.
+
+- Rendelkezik a magyar nyelv és kultúra tanításához szükséges korszerű nyelvtudományi és a kultúra egészére kiterjedő interdiszciplináris tudással, valamint nyelvpedagógiai ismeretekkel.
+
+- Ismeri a magyar mint idegen- és mint származásnyelvi nevelés-oktatás céljait, feladatait, tartalmait, színtereit, szaktárgy-specifikus alapelveit és módszertani eljárásait.
+
+- Képes magát szakszerűen kifejezni mind szóban, mind írásban, valamint szaktárgyi és szakmódszertani kompetenciáit adaptív és kreatív módon alkalmazni a nyelvpedagógiai folyamatban.
+
+- Rendelkezik az egyéni és a közösségi sajátosságokhoz igazodó, a komplex nyelvi és interkulturális kompetenciafejlesztést, kulturális ismeretbővítést támogató szakmódszertani felkészültséggel.
+
+A pedagógiai folyamat tervezése terén
+
+- Képes a hatékony tanulási környezet kialakítására mind hazai, mind határon túli és külföldi színtereken, a tanulási folyamat iskolai és iskolán kívüli összetevőinek szoros összehangolására, az idegen nyelvi nevelés különféle eljárásainak, eszközeinek hatékony, kreatív és integrált alkalmazására.
+
+- Képes a magyar kultúra iránt érdeklődő olvasóvá nevelésre, az olvasmányok önálló tanulói feldolgozásának motiválására, a tanulók olvasási készségeinek folyamatos fejlesztésére, a tanulók önálló olvasói tevékenységeinek támogatására.
+
+- Ismeri és tudja alkalmazni az idegen nyelvi nyelvpedagógiában bevált egyéni és közösségi motiválási technikákat, a tanulói kommunikációt támogató eszközöket, a visszacsatolási mechanizmusokat.
+
+- Tudja alkalmazni a korszerű beszéd- és beszédértés-fejlesztés, a folyamatelvű olvasás- és írástanítás egyéni és csoportos módszertani eljárásait.
+
+- Ismeri és alkalmazza a modern információfeldolgozási stratégiákat és technikákat a magyar nyelvi ismeretbővítés folyamatában.
+
+A pedagógiai folyamatok és a tanulók értékelése terén
+
+- Képes a tanulók fejlődési folyamatainak, tanulmányi teljesítményeinek és személyiségfejlődésének értékelésére, a különböző értékelési formák és eszközök használatára, az értékelés eredményeinek hatékony alkalmazására, az önértékelés fejlesztésére.
+
+- Ismeri a nyelvi kompetenciák mérésével és értékelésével kapcsolatos eljárásokat, a nemzetközi mérések eredményeit, tanulságait, a Közös Európai Referenciakeret ajánlásait.
+
+- Törekszik az értékelés különféle formáinak folyamatszerű és egységben való alkalmazására. A nyelvi nevelés és ismeretbővítés folyamatában olyan értékelő eljárásokat alkalmaz, amelyek pozitívan hatnak a tanulók nyelvi és személyiségbeli fejlődésére, önértékelésére, segítik az eltérő kultúrából érkezők beilleszkedését.
+
+- Képes a szaktárgyi célokat szolgáló fejlesztő értékelési módszerek és mérési eszközök kidolgozására, adaptív alkalmazására.
+
+A tanulási folyamat támogatása, szervezése és irányítása terén
+
+- Képes a kevéssé ismert magyar nyelv iránti érdeklődés felkeltésére, az érdeklődés és figyelem folyamatos fenntartására, az önálló, önszabályozó tanulás kialakítására, támogatására, a tanulási nehézségek felismerésére, megoldására.
+
+- Képes a nyelvtanulás sikerességét, sikertelenségét befolyásoló tényezők felmérésére, képes ezekről adatokat gyűjteni, azokat kritikusan, értően elemezni, értelmezni, és a diákok fejlődése érdekében a magyar mint idegen nyelvi tanulási folyamat gyakorlatában alkalmazni.
+
+- Képes a szóbeli és írásbeli kifejezőképesség jellegzetességeinek, hibáinak felismerésére, tipizálására, diagnosztizálására, javítására.
+
+- Felkészült a kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra, ösztönzi a magyar mint idegen nyelvi vizsgákon való megmérettetést, ismeri azokat a lehetőségeket, amelyek a magyar mint idegen nyelv tanulóinak további szakmai fejlődést biztosítanak.
+
+- Képes a közoktatásban magyar mint idegen nyelvet tanulók tanórai, tanórán kívüli és iskolán kívüli tevékenységének összehangolására. Felkészült a közéletből, a helyi társadalomból és a tanulók hétköznapjaiból vett példák, problémák beemelésére a tanítási-tanulási folyamatba, valamint azok célnyelven való reflektálására.
+
+- Ösztönzi a tanulókat az informatikai ismereteknek a nyelv tanulása során való felhasználására.
+
+Szakmai elkötelezettség és önfejlesztés terén
+
+- Képes a munkáját segítő szakirodalom folyamatos követésére, önálló ismeretszerzésre, a személyes tapasztalatok tudományos keretekbe integrálására, a neveléstudományi és idevágó alkalmazott nyelvészeti kutatások fontosabb módszereinek, elemzési eljárásainak alkalmazására, saját munkájának tudományosan megalapozott eszközöket használó értékelésére.
+
+- Elkötelezett az igényes tanári munka, a folyamatos önmegfigyelés és önfejlesztés iránt.
+
+- Törekszik a magyar nyelv és kultúra, a szellemi örökség gazdagságának interkulturális alapokon nyugvó, motiváló bemutatására.
+
+- Megvan benne az igény a szaktudományos és szakmódszertani kutatási eredmények folyamatos követésére, valamint a nyelvoktatási folyamatba való adekvát és adaptív beépítésére.
+
+- Képes saját szakterületén a folyamatos és önálló önképzésre, valamint a szakmai fejlődését támogató szakmai kooperációra.
+
+4.2.2. A magyar mint idegen nyelv tanára szakon a szakterületi ismeretek:
+
+A szakterületi ismeret
+
+a) a mesterképzésbe történő belépésnél előzményként elfogadható alkalmazott nyelvészet, magyar nyelv és irodalom, hungarológia (nyelvészet vagy magyar mint idegen nyelv specializációval) mesterképzési szakok estében és
+
+b) előtanulmányok teljesülésével a bölcsésztudomány képzési területen idegen nyelvi mesterképzési szak esetében
+
+a mesterszakok ismeretköreinek megfeleltethető nyelvelméleti, leíró nyelvtani, funkcionális grammatikai, nyelvészeti, alkalmazott nyelvészeti, irodalmi, kultúra és médiatudományi ismereteket foglalja magába.
+
+A b) pont szerinti idegen nyelvi mesterképzési szakokon szerzett mesterfokozatnak és szakképzettségnek a Korm. rendelet 3. § (1) bekezdés a) pontja szerinti szakterületi (szaktudományos, művészeti) tudásként való elfogadásának feltétele a korábbi alapképzési, mesterképzési vagy részismereti tanulmányokból megszerzett legalább 50 kredit az alábbi ismeretkörökből:
+
+- diszciplináris ismeretek: a magyar mint idegen nyelv fogalma és a hungarológia diszciplináris helye a tudományok, ezen belül az alkalmazott nyelvészet rendszerében;
+
+- grammatikai ismeretek: a magyar nyelv funkcionális grammatikája és tipológiai sajátosságai;
+
+- alkalmazott nyelvészeti ismeretek: lexikográfiai, lexikológiai, terminológiai ismeretek; interkulturális és pragmatikai ismeretek; nyelvoktatás-politikai ismeretek; fordítástudományi ismeretek; kontrasztív nyelvészeti ismeretek, idegen nyelvi alkalmazott nyelvészeti ismeretek;
+
+- kulturális ismeretek: művelődéstörténet; a magyar kultúra közvetítése; kisebbségtudományi ismeretek; interkulturális kommunikáció, transzkulturális kommunikáció; idegen nyelvi célországi országismeret, idegen nyelvi célország történelmi, társadalmi, kulturális, irodalmi ismeretei, nemzetközi kommunikáció, néprajzi ismeretek.
+
+A mesterképzésbe történő belépés további feltétele egy idegen nyelvből államilag elismert, felsőfokú (C1), komplex típusú nyelvvizsga vagy azzal egyenértékű érettségi bizonyítvány vagy oklevél.
+
+5. A magyar mint idegen nyelv sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
+
+- Ismeri a magyar grammatikát, a funkcionális magyar grammatikát és annak nyelvpedagógiai alkalmazását.
+
+- Ismeri az idegennyelv-tanítás történetét, legújabb eredményeit.
+
+- Ismeri a magyar mint idegen nyelv és mint származásnyelv tanításának módszertanát, tananyagait, mérésének, értékelésének módszereit.
+
+- Ismeri a magyar mint idegen nyelv és mint származásnyelv tanításának módszertanát, az élő nyelvek tanítási módszereit, az osztálytermi eljárásokat, szöveg- és feladattípusokat, a felhasználható autentikus anyagokat. Ezeket képes tudatosan, a diákok életkori sajátosságainak és szükségleteinek megfelelően, háttértudásukra támaszkodva, hatékonyan, változatosan, motiválóan alkalmazni.
+
+- Ismeri a tananyagokat és segédanyagokat, a tanórán kívül használható autentikus nyelvfejlesztési lehetőségeket. Képes a diákok magyar mint idegen nyelv tanulási programját (tanterv, tanmenet, óravázlat, feladatírás, mérés, értékelés) megtervezni, életkoruknak, nyelvtudásuk szintjének, egyéni képességeiknek, szükségleteiknek megfelelő tananyagokat, tanórai eljárásokat megtervezni és alkalmazni.
+
+- Ismeri az internet, a számítógép, a mindenkori új eszközök nyújtotta lehetőségeket. Képes a modern, motiváló információtechnológiai eszközöket és az internetet hatékonyan használni, a diákok önálló tanulását támogatni, követni.
+
+- Ismeri a nyelvtanulási folyamat, kimenet mérésének, értékelésének elméletét és gyakorlati kérdéseit.
+
+- Ismeri a nyelvvizsgákat és követelményeiket, képes tesztfeladatok készítésére, kipróbálására, az eredmények kritikus értékelésére. Ismeri a nyelvtudás mérésének minőségi kritériumait: a validitás, a megbízhatóság, a kritérium-orientált értékelés fogalmát.
+
+- Képes a diákok nyelvi fejlődésének folyamatos, diagnosztikus értékelésére, az eredmények alapján a tanulók egyéni szükségleteinek megfelelő, személyre szabott fejlesztésére, nyelvtudásuk kritérium-orientált mérésére. Képes vizsgáztatói feladatokat ellátni a magyar mint idegen nyelvi érettségi vizsgán, a kritériumokat megbízhatóan alkalmazni a vizsgáztatás során.
+
+- Ismeri a magyar mint idegen nyelvi érettségi vizsga követelményeit, a vizsgafeladatok készítésének, kipróbálásának, ellenőrzésének módszereit, eljárását. Ismeri továbbá a vizsgák minőségi kritériumait.
+
+- Ismeri a Közös Európai Referenciakeretet és annak alkalmazását.
 
 3. Német nyelv és kultúra tanára (általános iskolai)
 
@@ -4052,224 +4240,4 @@ III. Matematika műveltségi terület
 
 – a képzési idő 10 félév
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakaszainak évfolyamain, a felnőttképzésben a matematika tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, akik a képzés során megszerzett képességek, kompetenciák birtokában integrálni tudják a szakterületi, illetve pedagógiai-pszichológiai ismereteiket, alkalmasak a matematika tanítási-tanulási folyamatának tervezésére, szervezésére, irányítására, a tanulók matematikai műveltségének, készségeinek, képességeinek kialakítására, fejlesztésére, továbbá a tanulmányok doktori képzésben történő folytatására.
-
-4. Az elsajátítandó szakmai tudás, képesség
-
-4.1. a Korm. rendelet 3. § (1) bekezdés b)–c) pontja tekintetében:
-
-a 2. mellékletben meghatározott tudás, készség, ismeret;
-
-4.2. a Korm. rendelet 3. § (1) bekezdés a) pontja tekintetében
-
-4.2.1. A matematikatanár szakterületi tudása, készségei, képességei
-
-A tanulói személyiség fejlesztése, az egyéni bánásmód érvényesítése terén
-
-– Tudja, hogy a matematika milyen szerepet játszik a tanulók személyiségfejlődésében. Ismeri a szaktárgyában megjelenő fogalmak kialakulásának életkori sajátosságait. Ismeri a matematika tanítása során fejlesztendő kompetenciákat. Fejlett fogalmi gondolkodással és absztrakciós képességgel rendelkezik, amely képessé teszi őt az oktatás során a matematikai fogalmak precíz kialakítására (a tanulók életkori sajátosságaihoz, absztrakciós képességeihez és tudásszintjéhez igazodva).
-
-– Tanítványait racionális gondolkodásra, érvelésre neveli.
-
-– Képes a matematika speciális összefüggéseivel, fogalmaival kapcsolatos megértési nehézségek kezelésére. Képes arra, hogy a tanulók tanítására, képességeik fejlesztésére megválasztott módszereket a tanuló adottságainak és előzetes ismereteinek megfelelően válassza meg.
-
-– Rendelkezik a matematika iránti megfelelő attitűd kialakítani tudásának képességével, beleértve a tanulók önálló gondolkodásának kifejlesztését.
-
-– Képes az átlagtól eltérő – tehetséges vagy sajátos nevelési igényű – tanulók felismerésére, differenciált bánásmód kialakítására, a tanulók speciális matematikai képességei korai felismerésének képességével, amelynek kihasználásával a tehetséges tanulókat ösztönzi a megoldandó problémák megértése és megoldása területén eredeti ötletek felvetésére; járatos a tehetséggondozáshoz szükséges ismeretekben és technikákban, továbbá a matematika tanulásához gyenge képességekkel rendelkező tanulókkal való foglalkozás módszertani eszköztárában.
-
-– Tudatos értékközvetítést vállal. A tanulókat önálló véleményalkotásra ösztönzi, kritikus gondolkodásmód kialakítására törekszik. Érzékeny a tanulók problémáira.
-
-Tanulói csoportok, közösségek alakításának segítése, fejlesztése terén
-
-– Felkészült a matematikai tanulmányi versenyek tervezésére, szervezésére, kivitelezésére. Felkészült a matematika kiegészítő ismeretei közvetítő matematika szakkör és önképzőkör, szaktanterem működtetésére.
-
-Szaktudományi, szakmódszertani és szaktárgyi tudás terén
-
-– Eredeti matematikai látás- és gondolkodásmóddal rendelkezik, amely a megszerzett tudás alkalmazásában, továbbá az oktatásban való hasznosíthatóságában, valamint a speciális matematikai problémamegoldó technikák felhasználhatóságában is jelentkezik. Képes az oktatás során ezen problémamegoldó technikák átadására (a tanulók életkori sajátosságaihoz, absztrakciós képességeihez és tudásszintjéhez igazodva).
-
-– Rendelkezik azokkal az ismeretekkel, amelyek lehetővé teszik, hogy szaktárgyának új eredményeit megismerhesse, értelmezhesse. Ismeri a matematika alapvető kutatási módszertanát. Képes – elsősorban a természettudományokon belül – a különböző szakterületek tudás- és ismeretanyaga közötti összefüggések felismerésére, integrációjára. Ismeri a matematika társadalomban betöltött szerepét, a matematika tanításának célját, a tanulók személyiség- és gondolkodásfejlődésében játszott szerepét. Ismeri a matematika tanulási sajátosságait, megismerési módszereit, fontosabb tanítási és tanulási stratégiáit.
-
-– Képes a matematika témakörében szakszerűen kifejezni magát mind szóban, mind írásban. Képes a szaktárgyának megfelelő tudományterületen a fogalmak, elméletek és tények közötti összefüggések megteremtésére, közvetítésére. Képes a szaktárgyában elsajátított elméleti ismeretek gyakorlati alkalmazására, ennek közvetítésére a tanulók felé. Szaktudományos és szakmódszertani felkészültségét kritikusan szemléli, azzal kapcsolatban önreflexióra képes.
-
-– Elkötelezett a tanulók matematikai ismereteinek, képességeinek fejlesztése iránt. Meg tudja ítélni szaktárgyának a közoktatásban betöltött szerepét. Tisztában van azzal, hogy a matematika által közvetített tudás, kialakított kompetenciák más műveltségterületen is hatnak, és ezt ki tudja használni a tanulók kompetenciáinak, személyiségének fejlesztésében.
-
-A pedagógiai folyamat tervezése terén
-
-– Ismeri a matematika tanításához kapcsolódó jogszabályi hátteret, tanterveket, vizsgakövetelményeket, a tananyag-kiválasztás és -rendszerezés szempontjait. Képes a meghatározni a matematikában tanítandó tartalmakat, azokat megfelelő logikai struktúrába rendezni. Képes a matematika tanulása-tanítása során felhasználható nyomtatott és digitális tankönyvek, taneszközök, egyéb tanulási források kritikus elemezésére, valamint a konkrét célokhoz illeszkedő kiválasztására, különös tekintettel az info-kommunikációs technológiára.
-
-– Kollektív munkában helyi tanterv készítésére, önálló éves tematikus (tanmeneti) tervezésére, óravázlat készítésére, valamint az oktatástechnikai eszközök használatára képes.
-
-A tanulási folyamat támogatása szervezése és irányítása terén
-
-– Ismeri a matematika megértéséhez és kreatív alkalmazásához szükséges gondolkodásmód kialakulásában/kialakításában szerepet játszó pszichológiai tényezőket. Tisztában van a szóbeli és írásbeli kifejezőkészség alapvető tanulás-módszertani jellegzetességeivel, hibáival.
-
-– Képes a motivációt, tanulói aktivitást biztosító, a tanulók gondolkodási, probléma-megoldási és együttműködési képességeinek fejlesztését segítő módszerek megválasztására, alkalmazására. Képes a matematika ismeretanyagának megfelelő csoportosításával, közvetítésével az érdeklődés és a figyelem folyamatos fenntartására. Képes a matematika speciális összefüggéseivel, fogalmaival kapcsolatos megértési nehézségek kezelésére.
-
-– Felkészült az info-kommunikációs eszközöknek a tanítási-tanulási folyamat során a tanulók életkori sajátosságainak és a tananyag tartalmának megfelelő alkalmazására.
-
-– Felkészült a tények és értékelések közötti különbségek, az összefüggések önálló felismertetésére.
-
-– Felkészült a matematika tanulásában kiemelkedő eredményeket elérő tanulók motiválására, segítésére, a tehetséggondozásra, valamint ösztönzi az informatikai ismereteknek a matematika tanulása során való felhasználását.
-
-A pedagógiai folyamatok és a tanulók értékelése terén
-
-– Ismeri és alkalmazza a tudásellenőrzés, a képességmérés legkorszerűbb eredményeit, eszközeit. Tájékozott a különböző feladatbankokról és feladat-gyűjteményekről, képesség ilyenek összeállítására, illetve alkalmazására. Képes a tantárgyi követelmények kidolgozására. Képes a tanulók személyre szabott, differenciált módszerekkel történő értékelésére.
-
-A szakmai együttműködés és a kommunikáció terén
-
-– Együttműködik a szaktárgyával rokon tárgyak tanáraival. Képes arra, hogy a rokon tárgyakban is megjelenő, egymásra épülő ismeretanyagok ütemezését egyeztesse.
-
-– Kész együttműködni a matematika területén működő helyi fővárosi, városi, területi, megyei és országos szakmai fórumokkal; alkotó munkaközösségekkel, szakdidaktikai műhelyekkel.
-
-Elkötelezettség és felelősségvállalás a szakmai fejlődésre
-
-– Elkötelezett a matematika, annak tanítása iránt. Elkötelezett az igényes tanári munkára, a folyamatos önművelésre. Részt vesz a szaktantárgy fejlesztési, innovációs tevékenységében. Fontosnak tartja a szaktárgyán belüli szakmai együttműködést. Tisztában van matematika etikai kérdéseivel.
-
-4.2.2. A matematikatanár szakon a szakterületi ismeretek:
-
-A matematikatanár szakon
-
-algebra és számelmélet ismeretkörből összesen legalább 12 kreditet;
-
-analízis ismeretkörből összesen legalább 20 kreditet;
-
-geometria ismeretkörből összesen legalább 12 kreditet:
-
-elemi matematika ismeretkörből összesen legalább 6 kreditet;
-
-sztochasztika ismeretkörből összesen legalább 6 kreditet
-
-kell összegyűjteni.
-
-a) Közös képzési szakasz ismeretkörei: 65–75 kredit
-
-aa) szakmai alapozó ismeretek: 8–12 kredit
-
-Algebra és számelmélet
-
-– Műveletek, műveletek tulajdonságai, alapvető algebrai struktúrák, példák, alkalmazások. Elemi algebrai azonosságok: két tag összegének (különbségének) négyzete, köbe. Az n-edik hatványok különbségének szorzattá alakítása. A racionális kitevőjű hatvány fogalma, a hatványozás azonosságai (bizonyításaikkal együtt). Egész számok oszthatósága, prímszám, összetett szám, prímtényezős alak, legnagyobb közös osztó, legkisebb közös többszörös. Polinomok és racionális törtfüggvények, parciális törtekre bontás. Polinomok osztása. Többszörös gyökök, gyöktényezős alak. Másodfokú egyenlet gyöktényezős alakja. Egyenletek megoldásai. Speciális harmad- és negyedfokú egyenletek. Abszolútértékes egyenletek. Gyökös egyenletek. Két- és háromismeretlenes egyenletrendszerek.
-
-Analízis
-
-– Logikai alapfogalmak. Bizonyítási módszerek. Nevezetes egyenlőtlenségek. Halmazok. Függvények és ábrázolásuk, grafikonok. Sorozatok. Tizedestörtek.
-
-Geometria
-
-– Térelemek kölcsönös helyzete, párhuzamossága. Szög, töröttvonal, sokszög. Az irányítás szemléletes fogalma. Egybevágósági transzformációk síkban és térben. Egybevágó alakzatok. Szög mérése. Térelemek szöge, távolságuk. Merőleges vetítés. Párhuzamos szelők tétele, középpontos hasonlóság, hasonlósági transzformációk síkban és térben. Hasonló alakzatok. Elemi tételek háromszögre és sokszögre. Konvex halmazok, konvex burok. Poliéderek szemléletes fogalma, konvex poliéder. Euler-tétel konvex poliéderekre. Szabályos sokszögek, szabályos konvex poliéderek. Euklideszi szerkesztés. Nevezetes szerkesztések.
-
-– Geometriai vektorfogalom, bázis, koordináták. Skaláris, vektoriális és vegyes szorzás, geometriai jelentésük. Egyenesek és síkok egyenletei. Távolság- és szögfeladatok analitikus megoldása. Kör és gömb egyenlete. Súlyozott pontrendszerek, osztóviszony és alkalmazásaik tételek bizonyításában.
-
-ab) a szakmai törzsanyag ismeretkörei: 57–67 kredit
-
-Algebra és számelmélet
-
-– Természetes számok, egész számok, racionális számok. Rendezés. Valós számok. Komplex számok, egységgyökök. Alkalmazások geometriai feladatok megoldására. Polinomok gyökei. Harmad- és negyedfokú egyenlet. Az algebra alaptétele. Egyértelmű irreducibilis faktorizáció a test feletti polinomgyűrűkben. Irreducibilis polinomok a racionális, valós és komplex együtthatós polinomok gyűrűjében. Test feletti racionális függvénytest. Többhatározatlanú polinomok gyűrűje, szimmetrikus polinomok. Vektortér, bázis, dimenzió, alterek. Faktortér, direkt összeg.
-
-– Lineáris leképezések, transzformációk, mátrixuk. Képtér, magtér. Determináns, kifejtési tétel. A mátrixok algebrája, invertálhatóság, rang. Lineáris egyenletrendszerek, megoldhatóság, Gauss-elimináció, Cramer-szabály.
-
-– Sajátérték, sajátvektor, karakterisztikus polinom.
-
-– A számelmélet alaptétele. Az oszthatóság és tulajdonságai az egész számok gyűrűjében és test feletti polinomgyűrűkben. Lineáris kongruenciák, kongruenciarendszerek és lineáris diofantikus egyenletek. Pitagoraszi számhármasok.
-
-– Euler-Fermat tétel. Klasszikus kongruenciatételek. Számelméleti függvények. Elemi prímszámelmélet. Prímek száma, prímek reciprokainak összege. Tökéletes számok, Mersenne- és Fermat-féle prímek. Irracionális és racionális számok kapcsolata (approximáció), algebrai és transzcendens számok. Diofantoszi egyenletek. Nevezetes számelméleti problémák.
-
-Analízis
-
-– Valós számok: axiomatikus és konstruktív megalapozás. Korlátos számhalmazok, alsó és felső határ. Hatványozás. Számsorozatok határértéke. Konvergens és divergens sorozatok. Végtelenhez tartó sorozatok. Határérték és műveletek. Határérték és egyenlőtlenségek. Monoton sorozatok. A Bolzano-Weierstass-tétel és a Cauchy-kritérium. Megszámlálható halmazok.
-
-– Valós függvények globális tulajdonságai. Monotonitás, konvexitás. Függvények folytonossága és határértéke. Átviteli elvek. Folytonosság, határérték és műveletek. Folytonosság, határérték és egyenlőtlenségek. Korlátos zárt intervallumban folytonos függvények. Monotonitás és határérték. Monotonitás és folytonosság. Konvexitás és folytonosság. Néhány fontos függvényosztály (polinom-függvények, racionális törtfüggvények, exponenciális függvények, hatványfüggvények, logaritmusfüggvények, trigonometrikus függvények és ezek inverzei, a hiperbolikus függvények és inverzeik).
-
-– A differenciálhányados fogalma. Differenciálási szabályok és az elemi függvények deriváltjai. Magasabb rendű differenciálhányadosok. A lokális tulajdonságok és a derivált kapcsolata. Középértéktételek. A differenciálható függvények vizsgálata. Szélsőérték-feladatok megoldása. A Taylor-formula. A L'Hospital-szabály. A primitív függvény fogalma. Primitívfüggvény-keresési módszerek (parciális integrálás, helyettesítéses integrálás), racionális törtfüggvények primitív függvényeinek keresése.
-
-– A Riemann-integrál fogalma. Az integrálhatóság feltételei. Az integrál elemi tulajdonságai. A Newton-Leibniz formula. Az integrálszámítás alkalmazásai. A terület és a térfogat fogalma. Terület- és térfogatszámítás.
-
-– Végtelen sorok. Abszolút konvergencia. Konvergencia-kritériumok (összehasonlító-, gyök-, hányados-, integrálkritérium, Leibniz-sorok). Sorok átrendezése. Riemann tétele (bizonyítás nélkül). Hatványsorok, Taylor-sorok, konkrét függvények előállítása Taylor-sorok összegeként.
-
-Geometria
-
-– Egybevágósági és hasonlósági transzformációk síkban és térben. Invariáns tulajdonságok. Fixelemek. Osztályozásuk. Az egybevágósági és hasonlósági transzformációk csoportja, részcsoportjaik. Affinitások. Invariáns tulajdonságok. Osztályozásuk. Affin transzformációk csoportja. Síkbeli affinitások, tengelyes affinitás. Síkbeli affinitás megadása. Párhuzamos vetítés. Ábrázolás merőleges és párhuzamos vetítéssel. Geometriai transzformációk analitikus leírása a síkban és térben.
-
-– Sokszögek területe. Az elemi területfogalom. Kör és részeinek területe. Poliéderek térfogata. Elemi térfogatfogalom. Henger és kúp térfogata. Cavalieri elv. Gömb és részeinek térfogata. Transzformációk hatása a területre és a térfogatra. Elemi kerület- és felszínfogalom konvex síkidomok és mértani testek esetén. Kör kerülete, körív hossza. Gömb és részeinek felszíne. A gömbi geometria elemei. Gömbi trigonometria. Kör és gömb (kölcsönös helyzet, szögük). Pont körre (gömbre) vonatkozó hatványa. Hatványvonal, hatványpont illetve hatványsík, hatványvonal, hatványpont. Inverzió és tulajdonságai. Alkalmazása szerkesztési feladatokban. A sztereografikus vetítés.
-
-Sztochasztika
-
-– Statisztikai mintavétel, statisztikai alapfogalmak – átlag, szórás, medián, kvantilis. Elemi valószínűség-számítás: A diszkrét modell. Geometriai valószínűség. Valószínűségi változók, eloszlások. Statisztikai következtetés, első- és másodfajú hiba. Feltételes valószínűség. A nagy számok törvénye. Egyszerű véletlen minta határeloszlása. Bolyongási problémák. Matematikai játékok, rejtvények.
-
-Elemi matematika
-
-– Az általános- és középiskolai matematika tananyaghoz szorosan kötődő témakörök feldolgozása a magyar matematikatanítási hagyományoknak megfelelően feladatokon, problémákon keresztül. Az elemi (általános és középiskolai) megoldások mellett − ahol lehetséges – jelenjenek meg „felsőbb matematikai” megoldások is, legyen lehetőség az „egyetemi matematika” elemi alkalmazásaira és a megoldások összehasonlítására. A válogatott témakörök feladatanyaga alapján annak a vizsgálata, hogyan és mit lehet egy-egy témakörből továbbadni a tanulóknak az egyes iskolatípusokban úgy, hogy abban korrekt matematikai tartalom jelenjen meg az életkornak megfelelő formában.
-
-– Az ABACUS, a Középiskolai Matematikai és Fizikai Lapok, valamint a korosztályos magyar és külföldi matematika versenyek kitűzött feladatainak figyelemmel kísérése, megoldása.
-
-Problémamegoldó szeminárium
-
-– A matematika különböző területeiről a heurisztikus probléma-megoldási stratégiáknak megfelelő csoportosításban,önálló feladatmegoldások.
-
-b) Az általános iskolai tanári szakon az önálló képzési szakasz ismeretkörei: 16–20 kredit
-
-Algebra és számelmélet
-
-– Binomiális és polinomiális tétel. A csoportelmélet alapfogalmai, Lagrange-tétel. Permutációcsoportok, Cayley-tétel. Integritástartomány, euklideszi gyűrűk. Testbővítések. A geometriai szerkeszthetőség alapjai. Kitekintés: egyenletek megoldhatósága gyökjelekkel. Gauss-egészek. A két négyzetszám-tétel. Hatványmaradékok, kvadratikus reciprocitás. Alapvető leszámlálási eljárások. A kombinatorika és gráfelmélet alapjai.
-
-Analízis
-
-– A differenciál- és integrálszámítás egyes további alkalmazásai: a Wallis-formula és a Stirling-formula. A Newton-féle gyökkereső algoritmus. Közönséges differenciál-egyenletek: szaporodási és bomlási folyamatok, lineáris és szeparábilis differenciál-egyenletek. Alkalmazások.
-
-– A többváltozós analízis elemei. Az n-dimenziós euklidészi tér. Konvergens pont-sorozatok. A folytonosság és a függvényhatárérték fogalmának általánosítása. Kitekintés: topológia, dimenzió, fraktálok.
-
-– Parciális deriváltak. Szélsőérték-feladatok megoldása. Térfogatszámítás. Görbék. Az ívhossz és kiszámítása.
-
-Geometria
-
-– Kúpszeletek definíciója, geometriai tulajdonságok. Származtatásuk forgáskúp síkmetszeteként. Kúpszeletek egyenletei. Térgörbék analitikus megadása. Felületek megadása egyenlettel. Néhány felülettípus. Betekintés a projektív geometriába. Centrális vetítés. Az euklideszi sík és tér projektív bővítései. Pont- és sugárnégyes kettősviszonya, Papposz tétel. Perspektívitások és projektívitások.
-
-– Az euklideszi geometria axiomatikus megalapozása. A párhuzamossági axióma jelentősége, helyettes axiómák. Bolyai Farkas és Bolyai János szerepe a hiperbolikus geometria felfedezésében. A hiperbolikus síkgeometria néhány elemi tétele. Hiperbolikus geometria néhány modellje. Az euklideszi síkgeometria más modelljei. A projektív síkok axiómái, véges síkok. Kitekintés a kombinatorikus, a diszkrét és konvex geometria elemeibe.
-
-Elemi matematika
-
-– Összeszámlálási feladatok. Skatulya-elv. A gráfok alkalmazása különböző típusú feladatokban. Középértékek: számtani, mértani, harmonikus, négyzetes közép és a közöttük fennálló egyenlőtlenségekre vonatkozó feladatok. Szélsőérték-feladatok megoldása különböző módszerekkel. Geometriai egyenlőtlenségek, szélsőérték-feladatok.
-
-– Elemi függvények (hatvány, gyök, exponenciális, logaritmus, trigonometrikus) alkalmazása különböző típusú feladatokban. Függvénytranszformációk és alkalmazásaik.
-
-– Valószínűségi kísérletek, játékok. Klasszikus valószínűségi mező. Geometriai valószínűség. Matematikai játékok, rejtvények.
-
-A matematika alapjai
-
-– A halmazelmélet alapjai: ekvivalens halmazok, a számosság fogalma. Megszámlálható és kontinuum számosságú halmazok. Rendezett halmazok. A matematikai logika alapjai: logikai műveletek, igazságtáblázatok, ítéletkalkulus. Kvantorok. Axiómarendszerek, modellek. Kitekintés: A matematikai következtetés logikai alapjai. Az elsőrendű logika. Gödel tételei.
-
-Informatikai alapismeretek
-
-– Programcsomagok használata a matematikai jelenségek illusztrálására, kísérletek végzésére, illetve az eredmények megsejtésének elősegítésére. Szövegszerkesztő és táblázatkezelő szoftverek használata.
-
-A matematika története
-
-– A matematika történetének korszakai (a matematika fejlődésének csomópontjai). A matematika keletkezése. Az ókori Egyiptom és Babilónia matematikája. Görög matematika az ókorban. A matematika első axiomatikus felépítése (Euklidesz: Elemek). A kínai és az indiai matematika fejlődésének sajátosságai. Európai matematika a középkorban és a reneszánsz korában. A természettudományok fejlődésének hatása a matematikára és viszont. Az analitikus geometria kialakulása, a számítási módszerek és eszközök fejlődése, az analízis alapjainak kidolgozása, apparátusának alakulása, differenciálegyenletek alkalmazásai, variációszámítás megjelenése, a differenciál-geometria kialakulása. Újabb tudományágak megjelenése (projektív geometria, kombinatorika, valószínűségszámítás).
-
-– Gauss munkássága. A nem-euklideszi geometria felfedezésének jelentősége (Bolyai J. és N. I. Lobacsevszkij). A matematika főbb ágainak fejlődése és differenciálódása (algebrai egyenletek általános elmélete, Galois-elmélet, csoportelmélet, komplex változós függvények elmélete, topológia, funkcionálanalízis). A matematika megalapozására vonatkozó törekvések. A matematika fejlődési irányai napjainkban. A magyar matematika rövid története.
-
-5. Az általános iskolai matematikatanár sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
-
-– A matematikadidaktika, mint interdiszciplináris tudomány (tárgya, főbb kérdései, kutatási módszerei, kapcsolata más tudományokkal). A matematikadidaktikai kutatások főbb irányai, eredményei. A magyar matematikatanítás vázlatos története, fejlődése, hagyományai.
-
-– A matematika, mint tantárgy, didaktikai céljai, feladatai. A matematikatanítás formái, módszerei, segédeszközei a tanulók életkori sajátosságainak figyelembe vételével, munkaszervezési formák. A tanulók motiválásának lehetőségei. Játékok a matematika tanításában. A tanítást és tanulást segítő eszközök (manipulációs eszközök, számítógép, internet, interaktív tábla) integrált alkalmazási lehetőségei. Mérés és értékelés a matematika tanításában, értékelési módszerek.
-
-– A Nemzeti alaptanterv fejlesztési területei-nevelési céljai által meghatározott, a nevelés-oktatás tartalmi, szemléleti alapjai. A matematikatanítás tervezése és megvalósítása: a Nemzeti alaptanterv, az erre épülő kerettantervek alapján, a műveltségkép, a tudás- és tanulás értelmezése.
-
-– Fogalomalkotás a matematikában, a matematikai fogalmak tanításának alapkérdései. A matematikai fogalmak, fogalmi rendszerek kialakítását megalapozó tapasztalatszerzés folyamata. Feladattípusok a fogalmak tanításával kapcsolatban. Definiálási módok az általános iskolában.
-
-– Tételek, bizonyítások az általános iskolában. Szemléletes okoskodások, indoklások az általános iskolában. Felfedeztető matematikatanítás, a felfedeztetés lehetőségei az általános iskolában.
-
-– A probléma-megoldási képességek fejlesztésének lehetőségei, a problémamegoldás lépései, stratégiái a felső tagozaton. A matematikai problémák, feladatok osztályozása különböző szempontok szerint, problémamezők, problémavariációk. A problémamegoldás és problémaalkotás folyamata. A szöveges feladatok fajtái, megoldási lépései, megoldási módjai a felső tagozaton.
-
-– Modellalkotás az általános iskolában, a hétköznapi matematika tanításának lehetőségei. A projektmódszer és a kooperatív technikák alkalmazásának lehetőségei.
-
-– Tehetséggondozás. A szakkörök, tagozatok és a versenyek szerepe a matematika tanításában. A gyengébb képességű és motivációjú tanulók felzárkóztatásának módszerei, lehetőségei.
-
-– A számfogalom kialakítása, fejlesztésének szintjei. A természetes szám fogalma, mérés. Számkörbővítés a természetes számoktól indulva; a permanencia-elv. A helyi érték fogalmának elmélyítése a számrendszerek segítségével. Műveletek, műveleti tulajdonságok. Absztrakt műveletfogalom az általános iskolában. Oszthatóság az általános iskolában. Számolás osztási maradékokkal. Törtek értelmezése, műveletek a racionális számkörben. Törtek különböző alakjai: tizedes törtek, közönséges törtek. A tizedes törtek, mint végtelen sorok. Arányosság, törtrész-számítás, százalékszámítás. Algebrai kifejezések, betűk használata, azonosságok.
-
-– Relációk, függvények. Függvények megadása, ábrázolása, jellemzése. Speciális függvények tanítása. Függvénytranszformációk. Egyenletek, egyenlőtlenség, nyitott mondatok. A geometriai gondolkodás szintjei, a geometria alapvető fogalmainak kialakítása. Az általános iskolai geometria felépítése. Geometriai transzformációk. Háromszögek, négyszögek, sokszögek. A sokszögek osztályozása tulajdonságaik alapján. Szerkesztések az általános iskolában. Kerület- és területszámítás. Speciális testek, különböző nézetek, hálók, felszín, térfogat, tulajdonságok.
-
-– A kombinatorika és a gráfok az általános iskolában. Stratégiás játékok. Valószínűségi kísérletek és statisztika az általános iskolában. Halmazok. Logika a felső tagozaton. Állítások tagadása, megfordítása. Szükséges feltétel, elégséges feltétel.
-
-2. Matematikatanár (középiskolai)
-
-1. Az 1. melléklet 2. pontjában foglaltakra tekintettel a szakképzettség oklevélben szereplő
+[^11]: A 3. melléklet a 18/2016. (VIII. 5.) EMMI rendelet 15. § (2) bekezdése szerint módosított szöveg.

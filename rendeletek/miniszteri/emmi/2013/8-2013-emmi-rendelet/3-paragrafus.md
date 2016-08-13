@@ -11,3 +11,10 @@
 (6) Az 1. § d) pontja szerinti mesterképzésben, a tanári szakképzettség oklevélben szereplő megjelölése megegyezik a tanárszak képzési és kimeneti követelményeiben, az 1. melléklet 2. pontjára figyelemmel meghatározott szakképzettség-megjelöléssel. Ha a Korm. rendelet 1. melléklete szerint ugyanazon a szakterületen általános iskolai és középiskolai tanárszak is szervezhető, a tanári szakképzettség oklevélben történő megjelenése azonos a 3. mellékletben meghatározott középiskolai tanári szakképzettséggel.
 
 (7) A felsőoktatási intézmény a tanári szakképzettség megszerzésének az 1. § d) pontja szerinti képzési formáját, az adott nem tanári mesterszak, osztatlan szak szakindítási engedélyének birtokában akkor folytathatja, ha a mesterszak vagy az osztatlan szak szakterülete szerinti tanárszakon az 1. § a)–c) pontja szerinti tanárképzési formák valamelyikén rendelkezik szakindítási jogosultsággal. Ez alól kivételt képeznek azok a tanárszakok, amelyeken csak az 1. § d) pontja szerint szervezhető meg a tanárképzés.
+
+(8)[^4] Ha a tanárképzésnek van általános iskolai és középiskolai formája is, a felsőoktatási intézmény akkor is folytathat az 1. § d) pontja szerinti tanárképzési formában középiskolai tanári szakképzettség megszerzésére irányuló képzést, ha szakindítási jogosultsággal az adott nem tanári mesterszak szakterülete szerinti általános iskolai tanárszakon rendelkezik.
+
+(9)[^5] Ha a tanárképzésnek van általános iskolai és középiskolai formája is, akkor a felsőoktatási intézmény a Korm. rendelet 5. § (3) bekezdése és 6. § (6) bekezdése szerinti újabb oklevelet adó tanárképzésben is a szakindítási engedélyének megfelelően folytathat általános iskolai tanári, illetve középiskolai tanári szakképzettséget eredményező képzést.
+
+[^4]: A 3. § (8) bekezdését a 18/2016. (VIII. 5.) EMMI rendelet 14. §-a iktatta be.
+[^5]: A 3. § (9) bekezdését a 18/2016. (VIII. 5.) EMMI rendelet 14. §-a iktatta be.

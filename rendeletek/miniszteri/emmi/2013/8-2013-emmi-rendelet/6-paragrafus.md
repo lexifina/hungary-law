@@ -1,6 +1,6 @@
 ## 5. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-6. §[^3] (1) E rendelet rendelkezései alapján a hitoktatási területén osztatlan képzésben a tanárképzés, felmenő rendszerben, először 2014. szeptember 1. után indulhat.
+6. §[^9] (1) E rendelet rendelkezései alapján a hitoktatási területén osztatlan képzésben a tanárképzés, felmenő rendszerben, először 2014. szeptember 1. után indulhat.
 
 (2) Az egyházi felsőoktatási intézmény jogosulttá válik e rendeletben meghatározott osztatlan képzésben folyó hittanár-nevelőtanár szak szakindításának nyilvántartásba vételére, ha az egyházi felsőoktatási intézmény szakindítását hittanár-nevelő tanár szakon, osztott képzésben az Oktatási Hivatal 2006. szeptember 1. után nyilvántartásba vette. Az intézményi bejelentés alapján az Oktatási Hivatal nyilvántartásba veszi az osztatlan képzést.
 
@@ -8,4 +8,4 @@
 
 (4) Ha egyházi felsőoktatási intézmény állami felsőoktatási intézménnyel köt a (3) bekezdés szerint hitéleti tanárképzést érintő együttműködési megállapodást, az ennek eredményeként megvalósuló képzésre felvett hallgató hallgatói jogviszonya – az Nftv. 91. § (1) bekezdésében foglaltakra is tekintettel – az egyházi felsőoktatási intézménnyel jön létre.
 
-[^3]: A 6. §-t a 79/2013. (XII. 19.) EMMI rendelet 3. §-a iktatta be.
+[^9]: A 6. §-t a 79/2013. (XII. 19.) EMMI rendelet 3. §-a iktatta be.
