@@ -5921,3 +5921,71 @@ a) tudása
 - Tájékozott a szanszkrit és hindi nyelvű kulturális jelenségek történetiségének általánosan elfogadott jellemzői, adatai körében.
 
 - Ismeri a modern hindi írott és beszélt nyelvet a középfokú (B2), komplex típusú nyelvvizsgának megfelelően, valamint a klasszikus szanszkrit nyelvi és lexikai sajátosságait.
+
+b) képességei
+
+- Képes értelmezni a szanszkrit és hindi nyelvű kulturális jelenségeket és azok történeti beágyazottságát.
+
+- Képes India nyelveit elhelyezni a világ nyelvei közt.
+
+- Képes világos, részletes szövegeket alkotni hindi nyelven, különféle témákban.
+
+- Képes megérteni az indológia szakirányhoz kapcsolódó alapvető - elsősorban angol nyelvű - szakmai szövegeket.
+
+c) attitűdje
+
+- Érdeklődik más indiai nyelvek iránt, törekszik legalább egy elsajátítására, kiindulva saját szakiránya megszerzett ismereteiből és kompetenciáiból.
+
+- Igénye van a dél-ázsiai kultúrához kapcsolódó egyéb kultúrák megismerésére.
+
+- Tudatosan képviseli a hindi nyelvterület nyelvi és kommunikációs normáit.
+
+- Hitelesen közvetíti az indiai kultúra nyelvészeti, irodalom-, kultúratudományi és történelmi gondolkodásmódját.
+
+- Törekszik általános és szaknyelvi tudásának a fejlesztésére.
+
+- Nyitott a szanszkrit és a hindi nyelv kulturális hátterére.
+
+d) autonómiája és felelőssége
+
+- Felelősséget vállal anyanyelvű és hindi szövegeiért, tudatában van azok lehetséges következményeinek.
+
+- Az indológia szakirányon szerzett ismereteit alkalmazza önművelésében, önismeretében.
+
+7.1.2.5. Iranisztika szakirányon, továbbá a keleti nyelvek és kultúrák alapszakos bölcsész
+
+a) tudása
+
+- Tájékozott a perzsa nyelvű kulturális jelenségek történetiségének általánosan elfogadott jellemzői, adatai körében.
+
+- Ismeri a perzsa kultúra legfontosabb vonásait.
+
+- Ismeri az iranisztika egyes területeinek (irodalom-, nyelv-, történelem-, vallás- és kultúratudomány) alapvető szakkifejezéseit.
+
+- Ismeri a modern perzsa írott és beszélt nyelvet a középfokú (B2), komplex típusú nyelvvizsga szintjén, valamint a klasszikus perzsa nyelvi és lexikai sajátosságait.
+
+- Elégséges nyelvismerettel rendelkezik arab nyelvű írott szövegek szótárral való lefordításához.
+
+b) képességei
+
+- Képes közérthetően kommunikálni perzsa nyelven mind szóban, mind írásban.
+
+- Képes műfajilag sokszínű perzsa nyelvű szövegeket és kulturális jelenségeket értelmezni.
+
+- Képes kiválasztani és alkalmazni a szakmai problémának megfelelő perzsa nyelv-, irodalom- vagy kultúratudományi módszert.
+
+- A klasszikus és modern perzsa nyelvű forrásszövegek önálló történeti-nyelvészeti-filológiai elemzésére képes.
+
+- Képes megérteni az iranisztika szakirányhoz kapcsolódó alapvető - elsősorban angol nyelvű - szakmai szövegeket.
+
+c) attitűdje
+
+- Tudatosan képviseli a perzsa nyelvterület nyelvi és kommunikációs normáit.
+
+- A perzsa nyelv-, irodalom-, történelem-, vallás- és kultúratudomány gondolkodásmódját hitelesen közvetíti.
+
+- Törekszik a perzsa kultúra hazai megismertetésére.
+
+- Törekszik perzsa szaknyelvi tudásának fejlesztésére.
+
+d) autonómiája és felelőssége

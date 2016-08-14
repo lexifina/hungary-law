@@ -1,22 +1,18 @@
-## 14. § A tanári rendelet 3. §-a a következő (8) és (9) bekezdéssel egészül ki:
+## 12–14. §[^2]
 
-## „(8) Ha a tanárképzésnek van általános iskolai és középiskolai formája is, a felsőoktatási intézmény akkor is folytathat az 1. § d) pontja szerinti tanárképzési formában középiskolai tanári szakképzettség megszerzésére irányuló képzést, ha szakindítási jogosultsággal az adott nem tanári mesterszak szakterülete szerinti általános iskolai tanárszakon rendelkezik.
+15. § (1)–(2)[^3]
 
-## (9) Ha a tanárképzésnek van általános iskolai és középiskolai formája is, akkor a felsőoktatási intézmény a Korm. rendelet 5. § (3) bekezdése és 6. § (6) bekezdése szerinti újabb oklevelet adó tanárképzésben is a szakindítási engedélyének megfelelően folytathat általános iskolai tanári, illetve középiskolai tanári szakképzettséget eredményező képzést.”
+(3)[^4]
 
-15. § (1) A tanári rendelet 1. melléklete a 7. melléklet szerint módosul.
+(4)[^5]
 
-(2) A tanári rendelet 3. melléklete a 8. melléklet szerint módosul.
+(5)[^6]
 
-(3)[^2]
+(6)–(7)[^7]
 
-(4) A tanári rendelet 4. melléklete a 10. melléklet szerint módosul.
-
-(5)[^3]
-
-(6) A tanári rendelet 5. melléklete a 12. melléklet szerint módosul.
-
-(7) A tanári rendelet a 13. melléklet szerinti 7. melléklettel egészül ki.
-
-[^2]: A 15. § (3) bekezdése a 7. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
-[^3]: A 15. § (5) bekezdése a 7. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+[^2]: A 12–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 15. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 15. § (3) bekezdése a 7. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+[^5]: A 15. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 15. § (5) bekezdése a 7. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+[^7]: A 15. § (6)–(7) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
