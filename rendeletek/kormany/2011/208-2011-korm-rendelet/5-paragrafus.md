@@ -6,4 +6,6 @@
 
 (2) Több különböző szabálytalanság megállapítása esetén a katasztrófavédelmi bírság összege az egyes bírságtételek egyesített összege, amely legfeljebb 5 000 000 forint lehet.
 
-(3) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 94. § (1) bekezdés a) pontja nem alkalmazható a 2. melléklet táblázatának 1–2., 4–5., 9., 11., 13., 15–18., 20–21. pontjaiban rögzített szabálytalanságok esetében.
+(3)[^3] A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 94. § (1) bekezdés a) pontja nem alkalmazható a 2. melléklet táblázatának 1–2., 4–5., 9., 11., 13., 17–18., 20–21. pontjában rögzített szabálytalanságok esetében. Ezekben az esetekben a katasztrófavédelmi bírság kiszabása kötelező.
+
+[^3]: Az 5. § (3) bekezdése a 176/2016. (VII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
