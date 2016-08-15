@@ -1,0 +1,3 @@
+## 1. § A rendszerüzemeltetési díjból származó árbevétel megosztására vonatkozó kiegyenlítő fizetésekről szóló 1/2015. (II. 13.) MEKH rendelet (a továbbiakban: R.) 10. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) Az egyes tárgyévekre vonatkozóan a Hivatal elnöke a tárgyévet követő év augusztus 15-ig az 1. melléklet III. pontja szerinti képlet alapján a 3. mellékletben állapítja meg, hogy az adott tárgyévre vonatkozó éves elszámolások tekintetében mely engedélyesek és milyen mértékben kötelesek éves kiegyenlítő befizetést teljesíteni, vagy részesülnek éves kiegyenlítő kifizetésben.”
