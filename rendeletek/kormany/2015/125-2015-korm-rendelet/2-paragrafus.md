@@ -1,1 +1,0 @@
-## 1. § A Kormány e rendelettel felhatalmazást ad a Magyarország Kormánya és Románia Kormánya között, a magyar–román államhatáron átnyúló optikai hálózati infrastruktúra összekapcsolásáról szóló Megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
