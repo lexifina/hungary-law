@@ -1,0 +1,3 @@
+## 1. § A katasztrófavédelmi bírság részletes szabályairól, a katasztrófavédelmi hozzájárulás befizetéséről és visszatérítéséről szóló 208/2011. (X. 12.) Korm. rendelet (a továbbiakban: R.) 5. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 94. § (1) bekezdés a) pontja nem alkalmazható a 2. melléklet táblázatának 1–2., 4–5., 9., 11., 13., 17–18., 20–21. pontjában rögzített szabálytalanságok esetében. Ezekben az esetekben a katasztrófavédelmi bírság kiszabása kötelező.”
