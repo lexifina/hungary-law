@@ -34,7 +34,7 @@ c) a Miniszterelnökséget vezető miniszter irányítása alatt álló Informá
 
 (4) A (2) bekezdés alkalmazásában
 
-a) az Eütev. 11/A. § (4) vagy (5) bekezdése alapján járó növelésnek kell tekinteni az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 4. melléklete vagy 5. melléklete szerinti összeget,
+a)[^5] az Eütev. 11/A. § (4) vagy (5) bekezdése alapján járó növelésnek kell tekinteni az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet 3. melléklete, valamint 2016. augusztus 9-én hatályos 4. melléklete vagy 5. melléklete szerinti összeget,
 
 b) az Eütev. 11/A. § (6) vagy (6a) bekezdése alapján járó növelésnek kell tekinteni az Eütev. 11/A. § (6) vagy (6a) bekezdésében meghatározott összeget,
 
@@ -44,3 +44,4 @@ b) az Eütev. 11/A. § (6) vagy (6a) bekezdése alapján járó növelésnek kel
 
 [^3]: A 4. § (1) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 56. §-ával megálapított szöveg.
 [^4]: A 4. § (2) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 56. §-ával megálapított szöveg.
+[^5]: A 4. § (4) bekezdés a) pontja a 238/2016. (VIII. 16.) Korm. rendelet 9. §-ával megállapított szöveg.
