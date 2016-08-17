@@ -1,0 +1,683 @@
+# A Kormány 247/2016. (VIII. 17.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 119. szám, 2016. augusztus 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/a39668e90e9aaeea0eb82763dfa451b6c561c63c/dokumentumok/d319844b2b026fa1590afe667c682938e56077fd/letoltes)
+
+---
+
+A Kormány 247/2016. (VIII. 17.) Korm. rendelete
+a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások
+felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdés 15a. pontjában,
+a 25. § (1) bekezdés 4. és 18. pontja, valamint a 26. § (1) bekezdés 20. és 21. pontja tekintetében az államháztartásról szóló
+2011. évi CXCV. törvény 109. § (1) bekezdés 15c. pontjában,
+a 25. § (1) bekezdés 39–41. pontja, valamint a 26. § (1) bekezdés 22., 24. és 25. pontja tekintetében az államháztartásról szóló
+2011. évi CXCV. törvény 109. § (1) bekezdés 17. pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. §
+A 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának
+rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet [a továbbiakban: 272/2014. (XI. 5.) Korm. rendelet] 1. § (1) bekezdés
+h) pontja helyébe a következő rendelkezés lép:
+(E rendeletet kell alkalmazni a 2014–2020 programozási időszakban)
+„h) a Leginkább Rászoruló Személyeket Támogató Európai Segítségnyújtási Alapból”
+(származó források terhére történő kötelezettségek vállalására, a programok tervezésére, végrehajtására, nyomon
+követésére, továbbá a teljesítés ellenőrzésére, a felhasználásban, a lebonyolításban és az ellenőrzésben részt vevő
+szervezetekre, a támogatást igénylőkre és a támogatásban részesülőkre.)
+2. § (1) A 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 1. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„1. alapok alapja: az 1303/2013/EU európai parlamenti és tanácsi rendelet 2. cikk 27. pontjában meghatározott alap,”
+(2) A 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 15. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„15. kiadásigazoló nyilatkozat: a 908/2014/EU bizottsági végrehajtási rendelet 22. cikke szerint összeállított
+nyilatkozat,”
+(3) A 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 18. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„18. kifizető ügynökség: az 1306/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: KAP rendelet)
+7. cikke szerinti szervezet,”
+(4) A 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 22. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„22. közbenső szervezet: az 1305/2013/EU európai parlamenti és tanácsi rendelet 66. cikk (2) bekezdésével
+összhangban kijelölt szervezet,”
+(5) A 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 45. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„45. próbaidő: a 223/2014/EU európai parlamenti és tanácsi rendelet 35. cikk (5) bekezdésében meghatározott idő,”
+(6) A 272/2014. (XI. 5.) Korm. rendelet 3. § (1) bekezdés 64. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„64. transznacionális együttműködés: az 1304/2013/EU európai parlamenti és tanácsi rendelet 10. cikkében
+meghatározott együttműködési forma,”
+
+(7) A 272/2014. (XI. 5.) Korm. rendelet 3. § (1a) bekezdés 5. pontja helyébe a következő rendelkezés lép:
+(Az EMVA és ETHA végrehajtása során e rendelet alkalmazásában)
+„5. terület-, illetve állatlétszám alapú támogatások: a 640/2014/EU felhatalmazáson alapuló bizottsági rendelet 2. cikk
+(1) bekezdés 14., illetve 21. pontjában meghatározott intézkedések,”
+3. §
+A 272/2014. (XI. 5.) Korm. rendelet 41/C. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az irányító hatóság az integrált területi programok (ITP) és a területi szereplők adatszolgáltatása alapján
+elkészített éves fejlesztési keret elfogadására irányuló javaslatát minden év június 30-ig megküldi az európai uniós
+források felhasználásáért felelős miniszter részére.”
+4. § (1) A 272/2014. (XI. 5.) Korm. rendelet 41/D. § (2) bekezdése a következő d) ponttal egészül ki:
+[Az (1) bekezdés d) pontja szerinti összeg egymilliárd forintnál csak a következő esetekben lehet kevesebb:]
+„d) területi kiválasztási eljárásrend alkalmazása esetén, ha az európai uniós források felhasználásáért felelős
+miniszter előzetesen hozzájárult.”
+(2) A 272/2014. (XI. 5.) Korm. rendelet 41/D. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Globális támogatással érintett felhívás esetén az éves fejlesztési keret elfogadására irányuló javaslatban be kell
+mutatni az (1) bekezdésben meghatározottakat, és a globális támogatás
+a) vonatkozásában igénybe venni tervezett közvetítő szervezet nevét, valamint
+b) közvetítéséért a közvetítő szervezetnek fizetendő díjat és annak forrását.”
+5. §
+A 272/2014. (XI. 5.) Korm. rendelet 41/E. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Kiemelt projekt felhívásának célja kizárólagosan előkészítés csak akkor lehet, ha
+a) az előkészítendő projekt megvalósítására a 2014–2020 programozási időszak forrásaiból nem kerül sor,
+b) megvalósítása az Európai Hálózatfinanszírozási Eszközből tervezett, vagy
+c) ahhoz a Kormány előzetesen hozzájárult.”
+6. §
+A 272/2014. (XI. 5.) Korm. rendelet 47. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Standard és egyszerűsített kiválasztási eljárásrend esetén – ha kötelezően alkalmazandó uniós jogi aktus
+másként nem rendelkezik – a benyújtás végső határidejét úgy kell meghatározni, hogy az a támogatási kérelmek
+benyújtására a felhívásban meghatározott, a benyújtás első lehetséges napját követő huszonnegyedik hónapra
+essen. Ezen időszakon belül az irányító hatóság egyszerűsített kiválasztási eljárásrend esetén értékelési szakaszokat
+határozhat – standard eljárásrend esetén határoz – meg. Az értékelési határnap és a következő értékelési szakasz
+első napja között legfeljebb hét napos szünet határozható meg. Ez a rendelkezés nem zárja ki az 53. §-ban foglaltak
+alkalmazását.”
+7. §
+A 272/2014. (XI. 5.) Korm. rendelet 48. §-a helyébe a következő rendelkezés lép:
+„48. § (1) Az irányító hatóság a felhívást – ide nem értve a kiemelt projektre vonatkozó felhívást – tíznapos határidő
+biztosításával társadalmi egyeztetésre bocsátja a www.szechenyi2020.hu honlapon.
+(2) A társadalmi egyeztetés során véglegesített felhívást az irányító hatóság legalább harminc nappal az éves
+fejlesztési keretben meghatározott meghirdetési időpont előtt elektronikus formában megküldi véleményezés
+céljából az európai uniós források felhasználásáért felelős miniszternek.
+(3) Az elektronikus megküldést követően az európai uniós források felhasználásáért felelős miniszter gondoskodik
+a felhívás tárgya szerint érintett társadalmi és szakmai szervezetek véleményének kikéréséről.
+(4) Pénzügyi eszköz esetén az (1)–(3) bekezdést az ahhoz kapcsolódó termék dokumentációra is alkalmazni kell.”
+8. §
+A 272/2014. (XI. 5.) Korm. rendelet 52. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A módosított felhívás közzététele során biztosítani kell, hogy az adott felhívás korábban közzétett
+dokumentumai – közzétételük időpontjával együtt – elérhetőek legyenek a www.szechenyi2020.hu oldalon.”
+9. §
+A 272/2014. (XI. 5.) Korm. rendelet 53. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) Szakaszos elbírálás alkalmazása esetén a benyújtási lehetőség felfüggesztése csak a felhívásban rögzített
+szakasz zárásának időpontját követő naptól lehetséges.”
+
+10. §
+A 272/2014. (XI. 5.) Korm. rendelet 58. §-a a következő (7) és (8) bekezdéssel egészül ki:
+„(7) A támogatást igénylő a támogatási kérelmét a támogatási döntés meghozataláig elektronikusan
+– az elektronikus alkalmazások használatának szabályai szerint – visszavonhatja. A támogatási kérelem
+visszavonását az irányító hatóság tudomásul veszi, és erről értesíti a támogatást igénylőt. A visszavonás
+tudomásulvételével szemben a támogatást igénylő nem élhet kifogással.
+(8) EMVA forrásból nyújtott támogatás esetén a (7) bekezdést a 809/2014/EU bizottsági végrehajtási rendeletben
+foglalt eltérésekkel kell alkalmazni.”
+11. §
+A 272/2014. (XI. 5.) Korm. rendelet 60. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az irányító hatóság a támogatási kérelem beérkezését követően, a felhívásban szereplő jogosultsági
+szempontok szerint, felhívásonként kialakított ellenőrzési lista alapján elvégzi a támogatási kérelem jogosultsági
+ellenőrzését. A mikro-, kis- és középvállalkozások számára is nyitva álló, standard kiválasztási eljárásrenddel
+érintett felhívásokra, valamint a helyi vagy területi önkormányzatok számára is nyitva álló, standard vagy az 57/A. §
+(2) és (3) bekezdése szerinti kiválasztási eljárásrenddel érintett felhívásokra benyújtott támogatási kérelmek
+esetén a jogosultsági ellenőrzés kizárólag a közigazgatási adatbázisokban, az irányító hatóság által létrehozott
+nyilvántartásokban rendelkezésre álló vagy közhiteles nyilvántartásokból elérhető adatok ellenőrzésére, az Áht.
+50. § (1) bekezdése szerinti feltételeknek való megfelelésre, valamint a támogatási kérelemhez csatolandó
+mellékletek teljeskörűségének vizsgálatára irányulhat. EMVA forrásból nyújtott támogatás esetén kivételt képezhet
+az olyan jogosultsági feltétel ellenőrzése, amely a programban meghatározásra került és ellenőrzésére – adatbázis
+és nyilvántartás hiányában – a támogatást igénylő által benyújtott dokumentumok alapján van lehetőség.”
+12. §
+A 272/2014. (XI. 5.) Korm. rendelet a következő 64/A. §-sal egészül ki:
+„64/A. § A támogatási döntés előkészítése során figyelembe kell venni – ha rendelkezésre áll – az adott támogatási
+kérelemmel összefüggő, a XVI. Fejezet alapján lefolytatott ellenőrzés eredményét annak érdekében, hogy el nem
+számolható támogatási összeg ne kerüljön odaítélésre.”
+13. §
+A 272/2014. (XI. 5.) Korm. rendelet 86. § (4) bekezdése a következő e) ponttal egészül ki:
+[Az (1) bekezdés szerinti bejelentési kötelezettség fennállása mellett nem kell a támogatási szerződést módosítani, ha]
+„e) a projekt fizikai befejezése a hatályos támogatási szerződésben meghatározott időpontot megelőzően történik
+meg.”
+14. §
+A 272/2014. (XI. 5.) Korm. rendelet 116. § (2) bekezdése a következő d) ponttal egészül ki:
+(A támogatási előleg mértéke a megítélt támogatás összegének legfeljebb)
+„d) – az a)–c) ponttól eltérően – 50%-a EMVA forrásból származó támogatás esetén.”
+15. § (1) A 272/2014. (XI. 5.) Korm. rendelet 118/A. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) A szállító – választása szerint –
+a) biztosítékot nyújt a (2) bekezdés szerinti szerződés elszámolható összegének 10%-a és az igényelt szállítói
+előleg különbözetére jutó támogatás összegének megfelelő mértékben az irányító hatóság javára a Kbt. 134. §
+(6) bekezdése vagy a 83. § (1) bekezdése szerint, vagy
+b) nem nyújt biztosítékot, ebben az esetben az 1. melléklet 134.4. pontja alkalmazandó.”
+(2) A 272/2014. (XI. 5.) Korm. rendelet 118/A. §-a a következő (5a) bekezdéssel egészül ki:
+„(5a) A szállítói előleg 50%-ával legkésőbb a szállítói szerződés szerinti ellenszolgáltatás elszámolható összege
+50%-ának teljesítését követően haladéktalanul el kell számolni.”
+16. §
+A 272/2014. (XI. 5.) Korm. rendelet 44. alcím címe helyébe a következő cím lép:
+„44. A szállítói előleg további szabályai közszféra szervezet kedvezményezettek esetén”
+17. §
+A 272/2014. (XI. 5.) Korm. rendelet 128. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A kedvezményezett az első kifizetési igénylés benyújtásakor adott nyilatkozata alapján a projektmegvalósítás
+időszakában a megítélt támogatás 90%-áig a kifizetési igénylésben szereplő elszámolni kívánt költségeket teljes
+egészében – szállítói finanszírozás esetén az önerő teljesítése nélkül – lehívhatja (halasztott önerő). A megítélt
+támogatási összeg 90%-ának kifizetését követően fennmaradó támogatást a záró kifizetési igénylés keretében
+a felmerült összes költség elszámolásra történő benyújtásával együtt igényelheti. Az irányító hatóság egyedi
+
+engedélye alapján időközi kifizetési igénylés keretében is igényelhető a fennmaradó támogatás. Pénzügyi eszközzel
+kombinált vissza nem térítendő támogatás esetén halasztott önerő nem vehető igénybe.”
+18. §
+A 272/2014. (XI. 5.) Korm. rendelet 152. § (1b) bekezdése a következő mondattal egészül ki:
+„A pénzügyi eszközök esetén az európai uniós források felhasználásáért felelős miniszternek címzett kifogást
+nyújthat be a pénzügyi eszközt igénylő vagy a végső kedvezményezett az irányító hatóság döntése ellen az irányító
+hatóságnál, az alapok alapját végrehajtó szervezet döntése ellen az alapok alapját végrehajtó szervezetnél, vagy
+– pénzügyi közvetítő bevonása esetén – a pénzügyi közvetítő döntése ellen a pénzügyi közvetítőnél.”
+19. § (1) A 272/2014. (XI. 5.) Korm. rendelet 153. § (3) és (3a) bekezdése helyébe a következő rendelkezések lépnek:
+„(3) Az irányító hatóság, a közreműködő szervezet, a kifizető ügynökség, az alapok alapját végrehajtó szervezet
+vagy a pénzügyi közvetítő a döntése ellen benyújtott kifogást, az abban foglaltakkal kapcsolatos írásbeli szakmai
+álláspontját és az ügyben keletkezett dokumentációt a kifogás beérkezésétől számított tizenöt napon belül
+– a közreműködő szervezet az irányító hatóság útján, a pénzügyi közvetítő az alapok alapját végrehajtó szervezet
+útján – megküldi az európai uniós források felhasználásáért felelős miniszternek elbírálásra.
+(3a) Ha az irányító hatóság, a közreműködő szervezet, a kifizető ügynökség, az alapok alapját végrehajtó szervezet
+vagy a pénzügyi közvetítő a (3) bekezdésben meghatározott határidőn belül megállapítja, hogy a kifogással
+támadott döntés jogszabálysértő, a döntést felülvizsgálja. Ennek során a kifogásban foglaltaknak részben vagy
+egészben helyt ad, egyúttal gondoskodik a jogszerű állapot helyreállításáról. Az e bekezdés alapján hozott döntésről
+haladéktalanul értesíteni kell a támogatást igénylőt, a pénzügyi közvetítőt, a kedvezményezettet, a pénzügyi
+eszközt igénylőt vagy a végső kedvezményezettet, továbbá ha a döntést az irányító hatóság hozta, a közreműködő
+szervezetet is. Az e bekezdés alapján hozott döntés ellen ugyanolyan jogorvoslatnak van helye, mint az ellen, amely
+ellen a kifogást benyújtották.”
+(2) A 272/2014. (XI. 5.) Korm. rendelet 153. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
+„(4a) A (3a) bekezdés vagy a (4) bekezdés a) pontja alapján hozott döntés kézbesítésétől számított 30 napon belül
+a 74/B. § (2) és (3) bekezdése alapján hozott döntést felül kell vizsgálni.
+(4b) A (4) bekezdés a) pontja szerinti döntés végrehajtása során az ismételt döntéshozatalra a kifogással támadott
+döntés meghozatalára vonatkozó eredeti határidő vonatkozik.”
+20. §
+A 272/2014. (XI. 5.) Korm. rendelet 154. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A kifogás 153. § (3) bekezdése szerinti felterjesztéséig az irányító hatóság, a kifizető ügynökség, a közreműködő
+szervezet, az alapok alapját végrehajtó szervezet vagy a pénzügyi közvetítő, a felterjesztést követően az európai
+uniós források felhasználásáért felelős miniszter a kifogás elbírálására irányuló eljárást megszünteti, ha a kifogást
+elbíráló döntés meghozataláig
+a) a kifogást annak benyújtója erre irányuló írásbeli nyilatkozatával visszavonta,
+b) a forráshiány miatt elutasított támogatási kérelem alapján a támogatást igénylő támogatásban részesült,
+c) a kifogással támadott döntést hatályon kívül helyezték,
+d) a támogatási jogviszony nem a kifogással érintett döntés következtében szűnt meg,
+e) a támogatást igénylő a kifogással érintett támogatási kérelmet ismételten benyújtotta, a pénzügyi eszköz
+végrehajtására jelentkező szervezet a kifogással érintett, a pénzügyi eszköz végrehajtására történő jelentkezést
+ismételten benyújtotta, vagy a pénzügyi eszközt igénylő az igénylését ismételten benyújtotta,
+f) a támogatást igénylő a kifogással érintett támogatási kérelemre vonatkozó támogatási szerződést megkötötte
+vagy nyilatkozott a támogatói okirat elfogadásáról, a pénzügyi közvetítő a finanszírozási megállapodást megkötötte,
+vagy a pénzügyi eszközt igénylő a szerződést megkötötte,
+g) a kedvezményezett, a pénzügyi közvetítő vagy a végső kedvezményezett a kifogással érintett döntés alapjául
+szolgáló eljárási cselekményt megismételte,
+h) a kedvezményezett, a pénzügyi közvetítő vagy a végső kedvezményezett a kifogással támadott döntésben
+meghatározott visszafizetési kötelezettségének eleget tett, vagy
+i) a kifogás benyújtója jogutód nélkül megszűnt.”
+21. §
+A 272/2014. (XI. 5.) Korm. rendelet 159. § (5) bekezdése a következő k) ponttal egészül ki:
+(Az irányító hatóság vagy a kifizető ügynökség vezetője szabálytalansági eljárás mellőzésével állapíthat meg
+szabálytalanságot, és rendelhet el az e rendelet szerinti jogkövetkezményt, ha)
+„k) a pénzügyi eszközzel kombinált vissza nem térítendő támogatás esetén
+
+ka) a vissza nem térítendő támogatás szabálytalanságát az irányító hatóság végleges, e rendelet szerinti
+jogorvoslattal már nem támadható döntéssel megállapította, akkor a pénzügyi eszköz végső kedvezményezettjével
+szemben,
+kb) a pénzügyi eszköz szabálytalanságát az alapok alapját végrehajtó szervezet végleges, e rendelet szerinti
+jogorvoslattal már nem támadható döntéssel megállapította, akkor a vissza nem térítendő támogatás
+kedvezményezettjével szemben.”
+22. §
+A 272/2014. (XI. 5.) Korm. rendelet a következő 201/I–201/K. §-sal egészül ki:
+„201/I. § Az egyes fejlesztéspolitikai tárgyú kormányrendeletek módosításáról szóló 347/2015. (XI. 20.) Korm.
+rendelettel [a továbbiakban: 347/2015. (XI. 20.) Korm. rendelet] megállapított 119. § (1) és (2) bekezdését, valamint
+az 1. melléklet 133.1., 134.2–134.5. és 252.1. pontját a 347/2015. (XI. 20.) Korm. rendelet hatálybalépését megelőzően
+a) keletkezett
+aa) támogatási jogviszonyokra, és
+ab) szállítóval létesített szerződéses jogviszonyokra, valamint
+b) megkezdett és
+ba) a 347/2015. (XI. 20.) Korm. rendelet, továbbá
+bb) a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások
+felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet módosításáról szóló 247/2016. (VIII. 17.)
+Korm. rendelet [a továbbiakban: 247/2016. (VIII. 17.) Korm. rendelet]
+hatálybalépéskor is folyamatban lévő közbeszerzési eljárásokra is alkalmazni kell.
+201/J. § (1) A 247/2016. (VIII. 17.) Korm. rendelettel megállapított rendelkezéseket – a (2) és (3) bekezdésben foglalt
+kivétellel – a 247/2016. (VIII. 17.) Korm. rendelet hatálybalépését megelőzően
+a) keletkezett támogatási jogviszonyokra, valamint
+b) megkezdett és a 247/2016. (VIII. 17.) Korm. rendelet hatálybalépésekor folyamatban lévő eljárásokra
+is alkalmazni kell.
+(2) A 247/2016. (VIII. 17.) Korm. rendelettel megállapított
+a) 118/A. § (2a) bekezdését és az 1. melléklet 134.4. pontját csak a 247/2016. (VIII. 17.) Korm. rendelet
+hatálybalépését követően
+aa) megindított közbeszerzési eljárásokra,
+ab) igényelt szállítói előlegekre,
+b) 118/A. § (5a) bekezdését csak a 247/2016. (VIII. 17.) Korm. rendelet hatálybalépését követően igényelt szállítói
+előlegekre
+kell alkalmazni.
+(3) A 247/2016. (VIII. 17.) Korm. rendelettel megállapított 5. melléklet 2.4.1.9. pontját csak a 247/2016. (VIII. 17.)
+Korm. rendelet hatálybalépését követően benyújtott támogatási kérelmekre kell alkalmazni.
+(4) A 247/2016. (VIII. 17.) Korm. rendelettel megállapított rendelkezések alapján szükségessé váló felhívás-
+módosításokról az irányító hatóságoknak közlemény formájában kell gondoskodniuk a 247/2016. (VIII. 17.)
+Korm. rendelet hatálybalépését követő tíz napon belül.
+201/K. § Az Európai Mezőgazdasági Garancia Alapot (a továbbiakban: EMGA) és az EMVA-t érintő tanúsító szervi
+(igazoló szervi) feladatok és zárási feladatok, az EMVA-t és EMGA-t érintő illetékes hatósági feladatok kapcsán
+nyújtott közreműködői szolgáltatás, és a Halászati Operatív Program vonatkozásában ellátott ellenőrző szervi
+feladatok ellátására irányuló szerződés tekintetében az agrárpolitikáért felelős miniszter által vezetett minisztérium
+jogutódja az európai uniós források felhasználásáért felelős miniszter által vezetett minisztérium.”
+23. § (1) A 272/2014. (XI. 5.) Korm. rendelet 202. §-a a következő 8a. ponttal egészül ki:
+(Ez a rendelet)
+„8a. az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai
+Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések
+megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és
+az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról szóló 1303/2013/EU
+európai parlamenti és tanácsi rendelet kiegészítéséről szóló, 2014. március 3-i 480/2014/EU felhatalmazáson alapuló
+bizottsági rendelet,”
+(végrehajtásához szükséges rendelkezéseket állapít meg.)
+
+(2) A 272/2014. (XI. 5.) Korm. rendelet 202. §-a a következő 10a. ponttal egészül ki:
+(Ez a rendelet)
+„10a. az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a kifizető ügynökségek és más szervek,
+a pénzgazdálkodás, a számlaelszámolás, a biztosítékok és az euró használata tekintetében történő kiegészítéséről
+szóló, 2014. március 11-i 907/2014/EU felhatalmazáson alapuló bizottsági rendelet,”
+(végrehajtásához szükséges rendelkezéseket állapít meg.)
+24. §
+A 272/2014. (XI. 5.) Korm. rendelet
+a) 1. melléklete az 1. melléklet,
+b) 2. melléklete a 2. melléklet,
+c) 5. melléklete a 3. melléklet,
+d) 6. melléklete a 4. melléklet
+szerint módosul.
+25. § (1) A 272/2014. (XI. 5.) Korm. rendelet
+ 1. 1. § (3) bekezdésében a„45–72. §-t,”szövegrész helyébe a„45–47. §-t, a 49–72. §-t,”szöveg,
+ 2. 3. § (1) bekezdés 35. pontjában a„konstrukciók”szövegrész helyébe a„termékek”szöveg,
+ 3. 12. § (1) bekezdésében az„alapok alapját végrehajtó szervezet döntése”szövegrész helyébe az„alapok alapját
+végrehajtó szervezet, valamint a pénzügyi közvetítő döntése”szöveg,
+ 4. 26. § (3) bekezdés f) és g) pontjában, 58. § (3) bekezdés a) pontjában, 79. § (2b) bekezdés a) pontjában, és
+113/A. § (4) bekezdésében a„bizottsági”szövegrész helyébe a„bizottsági végrehajtási”szöveg,
+ 5. 28. § (1) bekezdésében az „az 1306/2013/EU európai parlamenti és tanácsi rendeletnek a kifizető
+ügynökségek és más szervek, a pénzgazdálkodás, a számlaelszámolás, a biztosítékok és az euró
+használata tekintetében történő kiegészítéséről szóló, 2014. március 11-i 907/2014/EU bizottság rendelet
+(a továbbiakban: 907/2014/EU bizottság rendelet) 1. mellékletének” szövegrész helyébe az „a 907/2014/EU
+felhatalmazáson alapuló bizottsági rendelet 1. melléklet”szöveg,
+ 6. 44/B. §-ában a „(3)–(5) bekezdése nem alkalmazható” szövegrész helyébe a „(3) és (4) bekezdése nem
+alkalmazható”szöveg,
+ 7. 57. § (4) bekezdésében az „Európai Regionális Fejlesztési Alapról és a „Beruházás a növekedésbe és
+munkahelyteremtésbe” célkitűzésről szóló egyedi rendelkezésekről, valamint az 1080/2006/EK rendelet
+hatályon kívül helyezéséről szóló, 2013. december 17-i 1301/2013/EU európai parlamenti és tanácsi rendelet
+(a továbbiakban: 1301/2013/EU parlamenti és tanácsi rendelet)” szövegrész helyébe az „1301/2013/EU
+európai parlamenti és tanácsi rendelet”szöveg,
+ 8. 57/B. § (6) bekezdésében az „Az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási
+szabályainak az integrált igazgatási és kontrollrendszer, a vidékfejlesztési intézkedések és a kölcsönös
+megfeleltetés tekintetében történő megállapításáról szóló, 2014. július 17-i 809/2014/EU bizottsági
+végrehajtási rendelet (a továbbiakban: 809/2014/EU bizottsági végrehajtási rendelet)” szövegrész helyébe
+az„A 809/2014/EU bizottsági végrehajtási rendelet”szöveg,
+ 9. 57/J. §-ában és 61. § (5) bekezdésében az„iránytó”szövegrész helyébe az„irányító”szöveg,
+10. 60. § (6) bekezdésében az „úton” szövegrész helyébe az „úton vagy kiemelt projekt esetén személyesen”
+szöveg,
+11. 26. alcím címében az„értékelése”szövegrész helyébe az„értékelése, döntéshozatal”szöveg,
+12. 63. § (1) bekezdésében a„három”szövegrész helyébe a„három, legfeljebb tizenöt”szöveg,
+13. 70/A. § (1) bekezdésében a „középvállalkozások” szövegrész helyébe a „középvállalkozások – beleértve
+az EMVA-ból nyújtott egyes támogatások esetén a természetes személyeket és a mezőgazdasági termelőnek
+minősülő nagyvállalkozás méretű vállalkozásokat –” szöveg, a „kiválasztott két értékelő végzi” szövegrész
+helyébe az „az adott támogatási kérelem értékeléséhez szükséges szaktudással rendelkező értékelők
+végezhetik”szöveg,
+14. 70/A. § (2) bekezdésében a„végzi” szövegrész helyébe a„végzi, egyebekben az értékelő feladatellátása során
+nem utasítható”szöveg,
+15. 70/A. § (3) bekezdésében az „értékelések” szövegrész helyébe az „értékelők által elkészített értékelések”
+szöveg,
+16. 70/B. § (2) bekezdésében az „a döntés-előkészítő bizottság” szövegrész helyébe az „az (1) bekezdés szerinti
+döntés-előkészítő bizottság”szöveg,
+
+17. 73. § a) pontjában az „az 1303/2013/EU európai parlamenti és tanácsi rendelet kiegészítéséről szóló,
+2014. március 3-i 480/2014/EU bizottsági rendelet (a továbbiakban: 480/2014/EU bizottsági rendelet)”
+szövegrész helyébe az„a 480/2014/EU felhatalmazáson alapuló bizottsági rendelet”szöveg,
+18. 74. § (1) bekezdésében, 84. § (4) bekezdésében és 113/A. § (5) bekezdésében a „bizottsági” szövegrész
+helyébe a„felhatalmazáson alapuló bizottsági”szöveg,
+19. 74/B. § (3) bekezdésében a„húsz”szövegrész helyébe a„harminc”szöveg,
+20. 77. § (1) bekezdés c) pontjában az„és nyilatkozatokat”szövegrész helyébe a„vagy nyilatkozatokat”szöveg,
+21. 84. § (1) bekezdés h) pont hb) alpontjában a„vagyontárgyának”szövegrész helyébe a„vagyonának”szöveg,
+22. 99. § (1) bekezdésében az „(1)–(2)” szövegrész helyébe az „(1) és (2)” szöveg, a „kezdeményezi a támogatást
+igénylő, illetve a kedvezményezett”szövegrész helyébe a„kezdeményezi a kedvezményezett”szöveg,
+23. 99. § (3) bekezdésében és 100. § (5) bekezdésében a„kezdeményez” szövegrész helyébe a„kezdeményezhet”
+szöveg,
+24. 100. § (3) bekezdésében és 109. § (1) bekezdésében a „támogatást igénylő, illetve a kedvezményezett ellen”
+szövegrész helyébe a„kedvezményezett ellen”szöveg,
+25. 115. § (7) bekezdésében az„és a támogatási”szövegrész helyébe a„vagy a támogatási”szöveg,
+26. 116. § (2) bekezdés c) pont nyitó szövegrészében a „köztestület” szövegrész helyébe a „köztestület vagy
+közalapítvány”szöveg,
+27. 117. § (7) bekezdésében a„nyolc”szövegrész helyébe a„12”szöveg,
+28. 119. § (1) bekezdés záró szövegrészében az„igénylésének”szövegrész helyébe az„igénybevételének”szöveg,
+29. 129. § (5) bekezdésében a „kivéve,” szövegrész helyébe a „kivéve a 2007–2013 programozási időszakban
+elindított és részben vagy egészben a 2014–2020 programozási időszak forrásaiból megvalósuló projektek
+esetén, vagy”szöveg,
+30. 131. § (2) bekezdésében a„középárfolyamon”szövegrész helyébe a„hivatalos árfolyamon”szöveg,
+31. 131. § (3) bekezdésében az „érvényes hivatalos MNB középárfolyamon” szövegrész helyébe az „érvényes,
+az MNB által közzétett hivatalos árfolyamon”szöveg,
+32. 152. § (6) bekezdésében az„eszközök esetében”szövegrész helyébe a„közvetítők kiválasztásához kapcsolódó
+kifogás esetén”szöveg,
+33. 153. § (2) bekezdésében a „keresztül” szövegrész helyébe a „keresztül, illetve pénzügyi eszközök esetén
+írásban”szöveg,
+34. 154. § (2) bekezdésében a„kérelmet”szövegrész helyébe a„kérelmet vagy a pénzügyi eszköz igénybevételére
+vonatkozó kérelmet” szöveg, a „kérelem” szövegrész helyébe a „kérelem vagy a pénzügyi eszköz
+igénybevételére vonatkozó kérelem”szöveg,
+35. 155. § (2) bekezdésében a „megállapodásban” szövegrész helyébe a „megállapodásban vagy a végső
+kedvezményezettel kötött szerződésben” szöveg, a „felhívás szerinti” szövegrész helyébe a „felhívás, valamint
+a termék dokumentáció szerinti”szöveg,
+36. 159. § (5) bekezdés nyitó szövegrészében az „irányító hatóság” szövegrész helyébe az „irányító hatóság,
+az alapok alapját végrehajtó szervezet”szöveg,
+37. 160. § (4) bekezdésében a„kezdeményezi”szövegrész helyébe a„kezdeményezheti”szöveg,
+38. 184. § (4) bekezdésében a „tagja által vezetett minisztériumok belső ellenőrzési feladatot ellátó szervezeti
+egységeinek”szövegrész helyébe a„tagjai által vezetett minisztériumok”szöveg,
+39. 185. § (2) bekezdésében a „tagja” szövegrész helyébe a „tagjai” szöveg, az „ellenőrzési stratégiájukat”
+szövegrész helyébe a„belső ellenőrzési stratégiájukat”szöveg,
+40. a 185. § (3) bekezdésében a„belső ellenőrzési egységek”szövegrész helyébe a„szervezetek”szöveg, és
+41. 185. § (4) bekezdésében a „belső ellenőrzési egységeknek az” szövegrész helyébe a „szervezetek” szöveg,
+a„minisztériumnak a”szövegrész helyébe a„minisztérium”szöveg
+lép.
+(2) A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet
+ 1. 24. pontjában a „döntéshozatal” szövegrész helyébe a „döntés-előkészítés” szöveg, a „bocsátani” szövegrész
+helyébe a„bocsátani, és a jegyzőkönyv tartalmát a döntés-előkészítés során figyelembe kell venni”szöveg,
+ 2. 28.1. pont a) alpontjában a „felhívás” szövegrész helyébe a „szükséges szaktudással rendelkező értékelők
+kiválasztása által a felhívás”szöveg,
+ 3. 48.3. pontjában a„dönt”szövegrész helyébe az„állást foglal”szöveg,
+
+ 4. 53/A. pont f) alpontjában az „alapok alapját végrehajtó szervezet által meghatározott logót és márkanevet”
+szövegrész helyébe az „európai uniós források felhasználásáért felelős miniszter által előírt arculati és
+kommunikációs elemeket”szöveg,
+ 5. 74.3. pont a) alpontjában a„pályázhatott”szövegrész helyébe a„benyújthatott támogatási kérelmet”szöveg,
+ 6. 74.3. pont b) alpontjában a„pályázhatott”szövegrész helyébe a„nyújthatott be támogatási kérelmet”szöveg,
+ 7. 74/B. pontjában a „bizottsági rendelet” szövegrész helyébe a „felhatalmazáson alapuló bizottsági rendelet”
+szöveg,
+ 8. 92.1. pontjában az „összköltsége eléri” szövegrész helyébe a „teljes elszámolható költsége meghaladja”
+szöveg,
+ 9. 118. pontjában a„szállító”szövegrész helyébe a„kedvezményezett”szöveg,
+10. „A szállítói finanszírozásban nyújtott szállítói előleg különös szabályai közszféra szervezet kedvezményezettek
+esetében”alcím címében az„esetében”szövegrész helyébe az„esetén, és a biztosíték”szöveg,
+11. 127. pontjában a „szállítónak” szövegrész helyébe a „kedvezményezettnek” szöveg, a „bekezdéseire”
+szövegrész helyébe a„bekezdésére”szöveg,
+12. 129.2. pontjában a„119. § (2)”szövegrész helyébe a„118/A. § (2a)”szöveg,
+13. 130.2. pontjában az „E rendelet 119. § (2) bekezdése §-a értelmében a szállító által nyújtott biztosíték”
+szövegrész helyébe az„A 118/A. § (2a) bekezdése alapján a szállító által nyújtott biztosíték okiratának”szöveg,
+14. 134.1. pont d) alpontjában az „50%-os teljesítésnél nem kezdi” szövegrész helyébe az „a szállítói szerződés
+szerinti ellenszolgáltatás elszámolható összege 50%-ának teljesítését követően nem kezdik”szöveg,
+15. 134.2. pontjában a„felróható”szövegrész helyébe a„szándékos magatartására vezethető vissza”szöveg,
+16. „Építési beruházás, illetve építési koncesszió vonatkozásában 2015. november 1-jét követően megindított
+közbeszerzési eljárások, az azok alapján megkötött szerződések, valamint az Étv. hatálya alá tartozó építési
+beruházások esetén alkalmazandó különös finanszírozási szabályok” alcím címében a „követően” szövegrész
+helyébe a„megelőzően”szöveg,
+17. 146.6. pontjában az „egy elszámoló bizonylat két tételeként” szövegrész helyébe a „külön elszámoló
+bizonylatokként”szöveg,
+18. 200. pont a) alpontjában az„(1)”szövegrész helyébe az„(1) és (1b)”szöveg,
+19. 203.1. pontjában a„hatáskörrel rendelkező” szövegrész helyébe a„kifogásnak az elbírálására jogosult” szöveg,
+a„beérkezése napján”szövegrész helyébe a„beérkezését követő napon”szöveg,
+20. 205.5. pontjában a „vagy az alapok alapját végrehajtó szervezet” szövegrész helyébe az „ , az alapok alapját
+végrehajtó szervezet vagy a pénzügyi közvetítő”szöveg,
+21. 229.1a. pont a) alpontjában, 229.1b. pont a) alpontjában, 229.1c. pontjában és 229.1d. pontjában
+a„bizottsági”szövegrész helyébe a„felhatalmazáson alapuló bizottsági”szöveg,
+22. 252.1. pontjában a „szállítónak felróható és a szállító a 119. § (2)” szövegrész helyébe a „szállító szándékos
+magatartására vezethető vissza és a szállító a 118/A. § (2a) bekezdés”szöveg,
+23. 318.1. pontjában az „az ellenőrzésre” szövegrész helyébe az „a helyszíni ellenőri tevékenység végzésére”
+szöveg,
+24. 334.4. pontjában az„ügyintézés”szövegrész helyébe az„e-ügyintézés”szöveg, és
+25. 367.1. pontjában a „források felhasználásért felelős miniszter” szövegrész helyébe a „fejlesztésekért felelős
+államtitkár”szöveg
+lép.
+(3) A 272/2014. (XI. 5.) Korm. rendelet 2. mellékletében foglalt táblázat F:9 és F:33 mezőjében az„infokommunikációért”
+szövegrész helyébe az„infokommunikációért és fogyasztóvédelemért”szöveg lép.
+(4) A 272/2014. (XI. 5.) Korm. rendelet 5. melléklet
+ 1. 1.2.4. pontjában az„a Kohéziós Alapról, és az 1084/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló,
+2013. december 17-i”szövegrész helyébe az„az”szöveg,
+ 2. 2.3.2.9. pontjában a „részletfizetésben vagy határozott időre” szövegrész helyébe az „időszakonkénti
+elszámolásban, fizetésben vagy meghatározott időszakra”szöveg,
+ 3. 2.4.1.9. pontjában a „javasolt megfelelő” szövegrész helyébe a „kötelező a projekt összes elszámolható
+költségének legalább 5%-ával megegyező”szöveg,
+ 4. 3.4.5.1.10. pontjában a„pályázati kiírás”szövegrész helyébe a„felhívás”szöveg,
+ 5. 3.5.4.6. pontjában a „Munkaviszony” szövegrész helyébe a „Munkavégzésre irányuló jogviszony” szöveg,
+a„megszűnésére/”szövegrész helyébe a„megszűnésére vagy”szöveg,
+ 6. 3.8.2.7. pontjában a„munkavállalójával”szövegrész helyébe az„alkalmazottjával”szöveg,
+
+ 7. 5.2.1., 5.2.3.4.1. és 5.2.3.4.2. pontjában a„bizottsági”szövegrész helyébe a„felhatalmazáson alapuló bizottsági”
+szöveg, és
+ 8. 7.5. pontjában a „nem alkalmazható.” szövegrész helyébe az „az adott tevékenység vonatkozásában nem
+alkalmazható.”szöveg
+lép.
+(5) A 272/2014. (XI. 5.) Korm. rendelet 6. melléklet
+1. III.1.4.1. és III.2.4.1. pontjában a„pályázatban”szövegrész helyébe a„támogatási kérelemben”szöveg,
+2. III.11.5.1. pontjában a„pályázatban”szövegrészek helyébe a„támogatási kérelemben”szöveg, és
+3. III.12.1.1.2. pontjában a„részt vevők”szövegrész helyébe a„résztvevők és a célcsoport”szöveg
+lép.
+26. § (1) Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet
+ 1. 41/C. § (2) bekezdése,
+ 2. 41/G. §-ában az „– integrált területi programonként – az integrált területi program megnevezését, valamint”
+szövegrész,
+ 3. 53. § (1) bekezdésében az „A benyújtási lehetőség felfüggesztése az erről szóló tájékoztató honlapon való
+megjelenését követő harmadik naptól lehetséges.”szövegrész,
+ 4. 57/A. § (4) bekezdésében a„vagy az általa kijelölt bizottsága”szövegrész,
+ 5. 57/B. § (1) bekezdésében az„és ETHA”szövegrész,
+ 6. 64. § (3) bekezdésében a „Ha a szakpolitikai felelős nem az európai uniós források felhasználásával
+kapcsolatos irányító hatósági feladatok ellátására kijelölt miniszter által vezetett minisztériumban került
+kijelölésre, a döntés-előkészítő bizottságot úgy kell összehívni, hogy a döntés-előkészítő bizottságban
+többségben legyenek a szakpolitikai felelős által delegált, szavazati joggal rendelkező személyek.”szövegrész,
+ 7. 64. § (4) bekezdése,
+ 8. 65. § (6) bekezdése,
+ 9. 70/A. § (1) bekezdésében az„is”szövegrészek,
+10. 79. § (1) bekezdés d) pontjában az„ , ütemezését”szövegrész,
+11. 86. § (1) bekezdésében az„ütemezése,”szövegrész,
+12. 95. § (5) bekezdésében az„a támogatást igénylő, illetve”szövegrész,
+13. 99. § (3) bekezdésében a„támogatást igénylő, illetve a”szövegrész,
+14. 102. § (2) bekezdésében a„támogatást igénylő, illetve”szövegrész,
+15. 115. § (2) bekezdésében a „– szállítói előleg esetén a felhívásban, illetve támogatási szerződésben
+meghatározott feltételek fennállása esetén a szállító vagy a kedvezményezett –”szövegrész,
+16. 115/A. § (3) bekezdése,
+17. 115/A. § (4) bekezdésében az„és a tisztázó kérdés megválaszolására”szövegrész,
+18. 115/A. § (5) bekezdésében az„ , illetve a tisztázó kérdésre adott választ”szövegrész,
+19. 119. § (2)–(5) bekezdése,
+20. 182. § (2) bekezdésében az „előrehaladási jelentések mintája, a nagyprojektekre vonatkozó
+információk benyújtásának formátuma, a közös cselekvési terv mintája, a „Beruházás a növekedésbe és
+munkahelyteremtésbe” célkitűzésre vonatkozó végrehajtási jelentések mintája, a vezetői nyilatkozat, az
+auditstratégia, az auditvélemény és az éves kontrolljelentés mintája, a költség-haszon elemzés módszertana,
+valamint az 1299/2013/EU európai parlamenti és tanácsi rendelet alkalmazásában az európai területi
+együttműködési célkitűzésre vonatkozó végrehajtási jelentések mintája tekintetében az 1303/2013/EU
+európai parlamenti és tanácsi rendelet végrehajtására vonatkozó részletes szabályok megállapításáról szóló,
+2015. január 20-i”szövegrész,
+21. 182. § (3) bekezdésében az „1303/2013/EU európai parlamenti és tanácsi rendeletnek meghatározott
+információk Bizottsághoz való benyújtására használt minták tekintetében való végrehajtására,
+valamint a kedvezményezettek és az irányító hatóságok, az igazoló hatóságok, az audithatóságok és
+a közreműködő szervezetek közötti információcserére vonatkozó részletes szabályok megállapításáról szóló,
+2014. szeptember 22-i”szövegrész,
+22. 184. § (3) és (4) bekezdésében, 185. § (3) és (4) bekezdésében valamint 191. § (2) bekezdésében
+a„támogatások felhasználásának ellenőrzésére kijelölt szervezeti egysége”szövegrész,
+23. 184. § (4) bekezdésében az„az”szövegrész,
+
+24. 185. § (2) bekezdésében a „belső ellenőrzési egységei” és az „által vezetett minisztérium támogatások
+felhasználásának ellenőrzésére kijelölt szervezeti egysége”szövegrész,
+25. 185. § (3) bekezdésében a „ , valamint a közreműködő szervezet és az alapok alapját végrehajtó szervezet
+belső ellenőrzése”szövegrész,
+26. 186. § (2) bekezdésében a „támogatások felhasználásának ellenőrzésére kijelölt szervezeti egységének”
+szövegrész, és
+27. 191. § (3) és (4) bekezdésében a„kijelölt egységének”szövegrész.
+(2) Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 1. melléklet
+ 1. 8.1. pontjában az„A nyilatkozat tartalmazza a lezárt támogatási kérelem azonosító számát.”szövegrész,
+ 2. 9.6. pontjában az„és a nyilatkozat beérkezéséről a támogatást igénylőt értesíti”szövegrész,
+ 3. 32.1. pontjában a „legalább 3, de legfeljebb tizenöt napos határidő biztosításával a 63. § (3) bekezdése
+szerinti szabályok betartásával”szövegrész,
+ 4. „Az előlegigénylési dokumentáció tisztázása”című alcíme,
+ 5. 120.4. pontjában az„ , illetve a tisztázó kérdésre adott válasz”szövegrész,
+ 6. 125.1. pontja,
+ 7. 125.2. pontja,
+ 8. 128. pontja,
+ 9. 129.1. pontja,
+10. 130.1. pontja,
+11. 130.3. pontjában a„közvetlen”szövegrész,
+12. 130.4–130.7. pontja,
+13. 131.2. pontja,
+14. 132.1. pontja,
+15. 133.5. pontja,
+16. 134.1. pont nyitó szövegrészében és d) alpontjában a„közvetlen”szövegrész,
+17. 134.1. pont a) alpontja,
+18. 229.1. pont l) alpontjában az„és 119. § (5)”szövegrész,
+19. 319. pont a) alpontjában a„kérelemtámogatási”szövegrész,
+20. 327/B.14. pontja,
+21. 334.1. pontjában az „a központi irattárazásáról szóló szabályzatban megszabott határidőn belül”, és az
+„ , a 336.2. pontban leírtak szerint”szövegrész, és
+22. 336.2. pontja.
+(3) Hatályát veszti a 272/2014. (XI. 5.) Korm. rendelet 2. mellékletében foglalt táblázat
+1. A:1 mezőjében az„Operatív”szövegrész, és
+2. E oszlopa.
+27. §
+Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
+ Dr. Semjén Zsolt s. k.,
+ miniszterelnök-helyettes
+1. melléklet a 247/2016. (VIII. 17.) Korm. rendelethez
+1. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 8.3. pontja helyébe a következő rendelkezés lép:
+„8.3. Ha a támogatást igénylő a nyilatkozatot nem minősített elektronikus aláírással látta el, a kinyomtatott és
+cégszerűen aláírt nyilatkozatot postai úton tértivevénnyel szintén be kell nyújtania az irányító hatóság részére
+a támogatási kérelem elektronikus úton történt benyújtásától számított három napon belül. Kiemelt projekt
+esetén a nyilatkozat benyújtása történhet személyesen is a felhívásban meghatározott módon. Ahol e rendelet
+cégszerű aláírásról rendelkezik, az ugyanazon szervezet részét képező támogató és támogatást igénylő vagy
+kedvezményezett esetén az irányító hatóság határozhatja meg a saját kezű, eredeti aláírás hitelességének
+igazolásához szükséges okiratok körét.”
+
+2. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 35.1. és 35.2. pontja helyébe a következő rendelkezések lépnek:
+„35.1. Ha az adott támogatási kérelem megfelelt a támogathatósághoz szükséges minimális követelményeknek, de
+forráshiány miatt nem támogatható, vagy az adott területi egységen belül a felhívás alapján csak a legmagasabb
+pontszámot elérő projekt támogatható, az irányító hatóság tartaléklistát képezhet.
+35.2. A tartaléklista hosszát az irányító hatóság határozza meg, figyelembe véve a támogatási kérelmek és
+a támogatási kérelemben megjelölt célcsoport igényeit, illetve a területi egységen belül támogatott projekt
+megvalósításának előrehaladását. Ha az adott felhívás keretében további forrás kiosztására nyílik lehetőség, illetve
+a területi egységen belül támogatott projekt megvalósítása meghiúsul, támogatást elsődlegesen az e listán szereplő
+támogatási kérelmek kaphatnak.”
+3. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet„A projekttartalom változása”alcíme a következő 64.3. és 64.4. ponttal
+egészül ki:
+„64.3. Pénzügyi eszközzel kombinált vissza nem térítendő támogatás esetén – ha támogatási szerződés kerül
+alkalmazásra – a szerződéskötési folyamat során a kedvezményezett vonatkozásában nem engedélyezett a nem
+jogszabályon alapuló átalakulás, egyesülés, szétválás, és a támogatott projekt átruházása.
+64.4. A 64.3. pontban foglaltak mellett a projektre vonatkozóan nem módosulhat
+a) a műszaki-szakmai tartalom a projekt helyszínét is beleértve,
+b) az indikátor és egyéb mutató, valamint azok tervértékei,
+c) a projektmegvalósítás kezdete, a megvalósítás határideje, kivéve, ha a támogatási kérelemben szereplő
+megvalósítási határidő legfeljebb három hónappal módosul,
+d) a költségvetés a támogatás mértékét, intenzitását, és a költségvetésen belüli átcsoportosítást is beleértve,
+valamint
+e) a projekt fedezete és annak összetétele.”
+4. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 126. pontja helyébe a következő rendelkezés lép:
+„126. A szállítói előlegigénylés előfeltétele, hogy
+a) a közbeszerzési eljárás teljes dokumentációját ellenőrzésre benyújtották a közbeszerzések ellenőrzésére
+vonatkozó eljárásrendnek megfelelően az irányító hatóság részére és jóváhagyásra került, valamint a közbeszerzési
+eljárás eredményeként kötött, aláírt szállítói szerződést az aláírást követően haladéktalanul benyújtották a Pályázati
+e-ügyintézés felületen,
+b) ha közbeszerzési eljárást nem kell lefolytatni, az aláírt szállítói szerződést az aláírást követően haladéktalanul
+benyújtották a Pályázati e-ügyintézés felületen.”
+5. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 131.1. pontja helyébe a következő rendelkezés lép:
+„131.1. Ha a szállítói előlegigénylés nem megfelelő, a 115/A. § szerint hiánypótlás kérhető a kedvezményezettől.”
+6. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 132.2. és 133.1. pontja helyébe a következő rendelkezések lépnek:
+„132.2. Ha a kedvezményezett a hiánypótlást hibásan vagy hiányosan nyújtja be, a szállítói előlegigénylést
+a rendelkezésre álló információk alapján kell elbírálni.
+133.1. A szállító a támogatás folyósítását követően kiállított előlegszámlát a kiállítását követően haladéktalanul,
+de legkésőbb öt napon belül megküldi a kedvezményezettnek, aki a Pályázati e-ügyintézés felületen szkennelve
+benyújtja az irányító hatóságnak. Ha az elszámoló bizonylat a szállítói előleg folyósítását követő harminc napon
+belül nem kerül benyújtásra, az irányító hatóság vezetője köteles a 118/A. § (2a) bekezdés a) pontja esetén a szállító
+által nyújtott biztosítékot érvényesíteni, vagy a 118/A. § (2a) bekezdés b) pontja esetén a 134.4. pont szerint eljárni.”
+7. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 134.4. pontja helyébe a következő rendelkezés lép:
+„134.4. Ha a jogosulatlan igénybevétel a szállító szándékos magatartására vezethető vissza, és a szállító nem
+nyújtott biztosítékot, az irányító hatóság felszólítja a szállítót az előleg visszafizetésére. Ha a szállító a visszafizetési
+kötelezettségének a visszafizetésre megállapított határidőben nem vagy csak részben tesz eleget, az irányító
+hatóság a vissza nem fizetett összeg adók módjára történő behajtása céljából megkeresi az állami adóhatóságot.
+Behajthatatlanság esetén az irányító hatóság kezdeményezi az állami adóhatóságnál a szállító és a szállítóban
+többségi befolyással rendelkező szervezet adószámának törlését.”
+8. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 141/B.3. pontja helyébe a következő rendelkezés lép:
+„141/B.3. EMVA forrásból nyújtott támogatás esetén a kifizetési igénylés – ide értve az előlegigénylést is –
+a 809/2014/EU bizottsági végrehajtási rendeletben foglaltak szerint vonható vissza.”
+9. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 168.8. pontja helyébe a következő rendelkezés lép:
+„168.8. A záró kifizetési igénylés
+a) a hiánypótlás alatt a 141/B.1. és 141/B.2. pontban,
+
+b) EMVA forrásból nyújtott támogatás esetén a 809/2014/EU bizottsági végrehajtási rendeletben
+foglaltak szerint vonható vissza.”
+10. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 200. pont b) alpontja helyébe a következő rendelkezés lép:
+(E fejezet alkalmazásában)
+„b) jogszerű állapot helyreállítása: a helyt adó döntésben foglalt rendelkezések szerint annak biztosítása, hogy
+a döntésben jogszabálysértőnek, felhívásba, termék-dokumentációba, támogatási szerződésbe vagy végső
+kedvezményezettel kötött szerződésbe ütközőnek minősített eljárási cselekmény megismételve, az irányadó
+jogszabályi, felhívásban, termék dokumentációban, támogatási szerződésben vagy végső kedvezményezettel kötött
+szerződésben foglalt rendelkezések szerint kerüljön lefolytatásra,”
+11. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 201.2. és 201.3. pontja helyébe a következő rendelkezések lépnek:
+„201.2. Valamennyi, a közreműködő szervezet, a kifizető ügynökség, az alapok alapját végrehajtó szervezet,
+a pénzügyi közvetítő vagy az irányító hatóság által a támogatást igénylőnek, a pénzügyi közvetítőnek,
+a kedvezményezettnek, a pénzügyi eszközt igénylőnek vagy a végső kedvezményezettnek megküldésre kerülő,
+a 152. § (1) és (1b) bekezdése szerinti kifogással megtámadható döntés vagy intézkedés szövegében szerepeltetni
+kell
+a) a kifogás benyújtásának 152. § (1) és (1b) bekezdése szerinti lehetőségét,
+b) a kifogás benyújtására jogosult megjelölését, a benyújtás – 152. § (2) bekezdése szerinti – határidejét, és a kifogás
+esetköreit, amely lehet
+ba) jogszabályba,
+bb) felhívásba,
+bc) pénzügyi közvetítői felhívásba,
+bd) termék dokumentációba,
+be) támogatási szerződésbe,
+bf) pénzügyi közvetítővel kötött finanszírozási megállapodásba, vagy
+bg) végső kedvezményezettel kötött szerződés rendelkezésébe
+ütköző intézkedés vagy döntés,
+c) a kifogásban foglaltakkal összefüggő eljárási határidők nyugvásáról szóló tájékoztatást,
+d) utalást arra, hogy a megsértett jogszabályban, felhívásban, pénzügyi közvetítői felhívásban, támogatási
+szerződésben, pénzügyi közvetítővel kötött finanszírozási megállapodásban vagy a végső kedvezményezettel kötött
+szerződésben foglalt rendelkezés konkrét megjelölésének hiányában a kifogás érdemi vizsgálat nélkül elutasításra
+kerül,
+e) utalást arra, hogy a kifogást elektronikus úton kell benyújtani.
+201.3. A tájékoztatás történhet
+a) a 152. § (1) bekezdése szerinti kifogással megtámadható döntés vagy intézkedés szövegében a következő
+szöveg szerepeltetésével: „E döntés ellen a támogatást igénylő vagy a kedvezményezett a 272/2014. (XI. 5.) Korm.
+rendelet 152. § (1) bekezdésében foglaltak alapján a döntés kézhezvételétől számított tíz napon belül indokolással
+ellátott, a megsértett jogszabályban, felhívásban, vagy támogatási szerződésben foglalt rendelkezést egyértelműen
+megjelölő kifogást nyújthat be a Pályázati e-ügyintézés felületen keresztül, ha az eljárás jogszabályba, felhívásba
+vagy támogatási szerződésbe ütköző. A kifogás beérkezésétől az azt elbíráló döntés közléséig a kifogásban
+foglaltakkal összefüggő határidők nyugszanak. A közreműködő szervezet, a kifizető ügynökség és az irányító
+hatóság döntése ellen az európai uniós források felhasználásáért felelős miniszternek címezve nyújtható be
+a kifogás.”,
+b) pénzügyi eszközzel kombinált vissza nem térítendő támogatás esetén a kifogással megtámadható döntés
+vagy intézkedés szövegében a következő szöveg szerepeltetésével: „E döntés ellen a pénzügyi eszközt igénylő
+vagy a végső kedvezményezett a 272/2014. (XI. 5.) Korm. rendelet 152. § (1b) bekezdésében foglaltak alapján
+a döntés kézhezvételétől számított tíz napon belül indokolással ellátott, a megsértett jogszabályban, termék
+dokumentációban, vagy a végső kedvezményezettel megkötött szerződésben foglalt rendelkezést egyértelműen
+megjelölő kifogást nyújthat be a Pályázati e-ügyintézés felületen keresztül, ha az eljárás jogszabályba, termék
+dokumentációba vagy végső kedvezményezettel kötött szerződésbe ütköző. A kifogás beérkezésétől az azt elbíráló
+döntés közléséig a kifogásban foglaltakkal összefüggő határidők nyugszanak. Az irányító hatóság döntése ellen
+az európai uniós források felhasználásáért felelős miniszternek címezve nyújtható be a kifogás.””
+12. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 203.4. pontja helyébe a következő rendelkezés lép:
+„203.4. Ha a kifogás benyújtója kifogását visszavonja, a kifogás elbírálásának ideje alatt a kifogással érintett
+projekt vonatkozásában támogatási szerződést vagy pénzügyi eszköz igénybevételére vonatkozó szerződést köt,
+
+a kifogással érintett támogatási kérelmet vagy a pénzügyi eszköz igénybevételére irányuló kérelmet a kifogás
+elbírálásának ideje alatt ismételten benyújtja, a kifogással érintett döntés alapjául szolgáló eljárási cselekményt
+a kifogás elbírálásának ideje alatt megismétli, vagy ha a forráshiány miatt elutasító döntés ellen benyújtott
+kifogás elbírálásának ideje alatt a támogatási kérelem támogatásban részesül, a kifogással támadott döntésben
+meghatározott visszafizetési kötelezettségének eleget tesz, a támogatási jogviszony nem a kifogással érintett
+döntés következtében szűnik meg, az a szervezet, illetve szervezeti egység, amely a fenti cselekményekről
+tudomást szerzett, köteles a kifogás, valamint a kifogásban megjelölt támogatási kérelem vagy a pénzügyi eszköz
+igénybevételére irányuló kérelem, projekt tárgyában érintett valamennyi szervezetet vagy szervezeti egységet
+a cselekmény alapjául szolgáló dokumentum szkennelt változatának elektronikus megküldésével haladéktalanul, de
+legkésőbb három napon belül tájékoztatni.”
+13. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 229.1. pont b) alpontja helyébe a következő rendelkezés lép:
+(Követelést kell előírni)
+„b) ha a támogatási szerződéstől bármelyik fél elállt vagy a finanszírozási megállapodást, vagy a végső
+kedvezményezettel kötött szerződést bármelyik fél felmondta és már sor került támogatás kifizetésére,”
+14. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 318.2. pontja a következő e) alponttal egészül ki:
+(Az irányító hatóság biztosítja, hogy a helyszíni ellenőrök megismerjék különösen)
+„e) e rendelet előírásait a helyszíni ellenőrzésekre vonatkozóan.”
+15. A 272/2014. (XI. 5.) Korm. rendelet 1. melléklet 327/B.13. pontja helyébe a következő rendelkezés lép:
+„327/B.13. A helyszíni ellenőrzés és a helyszíni szemle esetén a támogatási kérelem, a kifizetési igénylés,
+az előlegigénylés és az egyéb nyilatkozatok a 809/2014/EU bizottsági végrehajtási rendelet szerint vonhatók vissza.”
+2. melléklet a 247/2016. (VIII. 17.) Korm. rendelethez
+A 272/2014. (XI. 5.) Korm. rendelet 2. mellékletében foglalt táblázat B:45 mezője helyébe a következő mező lép:
+(B)
+(Alap)
+(45.) (RSZTOP) Leginkább Rászoruló
+Személyeket Támogató Európai
+Segítségnyújtási Alap
+3. melléklet a 247/2016. (VIII. 17.) Korm. rendelethez
+A 272/2014. (XI. 5.) Korm. rendelet 5. melléklet 2.3.2.2. pontja helyébe a következő rendelkezés lép:
+„2.3.2.2. Főszabály szerint azon költségek számolhatóak el, amelyek a kedvezményezettnél ténylegesen felmerültek,
+teljesítettek, valós munkára alapozottak, és teljesülésük elszámoló bizonylattal, jogalapjuk szerződéssel,
+visszaigazolt írásbeli megrendelővel, hatósági határozattal, vagy ezekkel azonos bizonyító erejű dokumentummal
+igazolható (valós költség alapú elszámolás). Előlegek esetén nincs szükség a teljesítés igazolására. Az egyszerűsített
+elszámolási módok alapján történő támogatás-kifizetés teljesíti a valós költség alapú támogatás-kifizetés
+kritériumát, ha a költségek az Európai Bizottság által meghatározott módszertan, nemzeti szinten meghatározott
+vagy az irányító hatóság által kidolgozott módszertan alapján kerültek elszámolásra és a számviteli szabályozást is
+magukban foglaló nemzeti szabályokkal összhangban merültek fel.”
+
+4. melléklet a 247/2016. (VIII. 17.) Korm. rendelethez
+A 272/2014. (XI. 5.) Korm. rendelet 6. melléklet III.12.2. pontja helyébe a következő rendelkezés lép:
+„12.2. Útiköltség, kiküldetés (napidíj és szállás) költsége
+12.2.1. Összesítő az utazási és kiküldetési költségtérítés elszámolásához (a 4. pontban foglaltakon kívül)
+12.2.1.1. Az összesítő kizárólag a projektmenedzsment tevékenységében vagy megvalósításában résztvevők és
+a célcsoport projekthez kapcsolódó útiköltségeit és kiküldetési költségeit tartalmazza.
+12.2.1.2. A kiadások a projekt menedzsmentjéhez vagy megvalósításához szorosan kapcsolódnak, a projekt
+keretében elszámolhatók.
+12.2.2. Kiküldetési rendelvény, kiküldetési utasítás vagy menetlevél
+12.2.2.1. A dokumentum rendelkezésre áll.”
