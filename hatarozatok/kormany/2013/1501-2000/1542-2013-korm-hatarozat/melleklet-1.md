@@ -8,9 +8,9 @@
 
 ## Az elszámolás és a visszatérítési kötelezettség tekintetében
 
-## Felelős: emberi erőforrások minisztere
+## Felelős: Miniszterelnökséget vezető miniszter[^2]
 
-## Határidő: 2017. június 30.[^1]
+## Határidő: 2017. június 30.[^3]
 
 1. melléklet az 1542/2013. (VIII. 15.) Korm. határozathoz
 
@@ -94,4 +94,5 @@ Költségvetési év: 2013.
 
 * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni.
 
-[^1]: Az 1348/2016. (VII. 6.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: Az 1438/2016. (VIII. 17.) Korm. határozat 12. pontja szerint módosított szöveg.
+[^3]: Az 1348/2016. (VII. 6.) Korm. határozat 3. pontja szerint módosított szöveg.
