@@ -10,7 +10,7 @@
 
 ## Felelős: külgazdasági és külügyminiszter
 
-## Határidő: 2016. június 30.
+## Határidő: 2017. június 30.[^1]
 
 1. melléklet az 1082/2016. (II. 29.) Korm. határozathoz
 
@@ -67,3 +67,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határozat az 1438/2016. (VIII. 17.) Korm. határozat 10. pontja szerint módosított szöveg.
