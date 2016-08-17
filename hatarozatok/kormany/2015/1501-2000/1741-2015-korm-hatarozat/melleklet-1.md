@@ -10,7 +10,7 @@
 
 ## Felelős: érintett miniszterek
 
-## Határidő: 2016. június 30., az Egyéb felújítási, fejlesztési támogatások jogcímcsoport javára átcsoportosított 200,0 millió forint tekintetében 2016. október 31., a Külgazdasági és Külügyminisztérium fejezet részére a Római és Vatikáni Nagykövetség és a Zágrábi Nagykövetség rezidencia ingatlan-beruházással kapcsolatos feladatokra biztosított összesen 200,0 millió forint tekintetében és a Honvédelmi Minisztérium fejezet részére az első világháborúban hősi halált halt hősök emlékét őrző emlékművek és temetők felújítására biztosított 250,0 millió forint tekintetében 2017. június 30., a Pápa Bázisrepülőtér fejlesztési munkái kiadásainak finanszírozása érdekében a Honvédelmi Minisztérium fejezet részére biztosított 1500,0 millió forint tekintetében 2017. március 31.
+## Határidő: 2016. június 30., a Szociális és gyermekvédelmi, gyermekjóléti feladatellátás és irányítás intézményei alcím javára átcsoportosított 168,8 millió forint tekintetében 2016. szeptember 30.,, az Egyéb felújítási, fejlesztési támogatások jogcímcsoport javára átcsoportosított 200,0 millió forint tekintetében 2016. október 31., a Külgazdasági és Külügyminisztérium fejezet részére a Római és Vatikáni Nagykövetség és a Zágrábi Nagykövetség rezidencia ingatlan-beruházással kapcsolatos feladatokra biztosított összesen 200,0 millió forint tekintetében és a Honvédelmi Minisztérium fejezet részére az első világháborúban hősi halált halt hősök emlékét őrző emlékművek és temetők felújítására biztosított 250,0 millió forint tekintetében 2017. június 30., a Pápa Bázisrepülőtér fejlesztési munkái kiadásainak finanszírozása érdekében a Honvédelmi Minisztérium fejezet részére biztosított 1500,0 millió forint tekintetében 2017. március 31.
 
 ## 2–4.[^2]
 
@@ -380,7 +380,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1182/2016. (IV. 11.) Korm. határozat 8. pontja, az 1301/2016. (VI. 13.) Korm. határozat 5. pontja, az 1340/2016. (VII. 4.) Korm. határozat 13. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1182/2016. (IV. 11.) Korm. határozat 8. pontja, az 1301/2016. (VI. 13.) Korm. határozat 5. pontja, az 1340/2016. (VII. 4.) Korm. határozat 13. pontja, az 1438/2016. (VIII. 17.) Korm. határozat 5. pontja szerint módosított szöveg.
 [^2]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^3]: A 6–8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^4]: A 9. pont az 1779/2015. (X. 27.) Korm. határozat 3. pontja szerint módosított szöveg.
