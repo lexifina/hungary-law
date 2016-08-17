@@ -1,5 +1,5 @@
-## 12. §[^20]
+## 12. §[^21]
 
 ## 8. Módosító rendelkezések
 
-[^20]: A 12. §-t a 30/2015. (II. 25.) Korm. rendelet 90. § c) pontja hatályon kívül helyezte.
+[^21]: A 12. §-t a 30/2015. (II. 25.) Korm. rendelet 90. § c) pontja hatályon kívül helyezte.
