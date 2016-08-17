@@ -10,7 +10,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: 2016. június 30.
+## Határidő: 2016. december 31.
 
 ## 2. felhívja a nemzetgazdasági minisztert, hogy az 1. pont szerinti beruházás befejezése érdekében a 2016. évben 1042,6 millió forint egyszeri jelleggel történő biztosításáról gondoskodjon.
 
@@ -70,4 +70,4 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1855/2015. (XI. 24.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^1]: Az 1. pont az 1438/2016. (VIII. 17.) Korm. határozat 9. pontja szerint módosított szöveg.
