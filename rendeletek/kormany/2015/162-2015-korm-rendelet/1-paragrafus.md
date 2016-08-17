@@ -15,5 +15,3 @@ c) az orvos- és egészségtudományi képzést folytató felsőoktatási intéz
 d) a jelöltek szakképzésében részt vevő, a szakképzésre akkreditált elsődleges képzőhelynek, külső képzőhelynek vagy a költségtérítéses képzésben részt vevő jelöltet foglalkoztató munkáltatónak minősülő egészségügyi szolgáltatókra és
 
 e) az Egészségügyi Nyilvántartási és Képzési Központra (a továbbiakban: ENKK)
-
-terjed ki.

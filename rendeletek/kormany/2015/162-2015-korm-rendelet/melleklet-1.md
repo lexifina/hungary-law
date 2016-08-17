@@ -1,6 +1,8 @@
+## 50. §[^47]
+
 1. melléklet a 162/2015. (VI. 30.) Korm. rendelethez
 
-Igénylő lap a fiatal szakorvosok támogatásának igénybe vételéhez
+## Igénylő lap a fiatal szakorvosok támogatásának igénybe vételéhez
 
 1. A fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltatóra vonatkozó adatok
 
@@ -47,3 +49,5 @@ Az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezide
 4.3. a támogatási igény bejelentésére jogosult neve, aláírása,
 
 4.4. büntetőjogi felelősség tudatában tett nyilatkozat az adatok valóságtartalmáról.
+
+[^47]: Az 50. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

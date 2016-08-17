@@ -14,7 +14,7 @@ e) 10 éven aluli beteg gyermek, illetve tartósan gondozásra szoruló hozzáta
 
 f) rendkívüli állapot és megelőző védelmi helyzet esetén a sorkatonai szolgálat és a polgári szolgálat teljesítése
 
-teljes időtartamára megszakítható.
+## teljes időtartamára megszakítható.
 
 (2)[^11] A szakképzés ideje az (1) bekezdésben foglaltakon túl csak méltányolható, a jelölt egészségi állapotában vagy családi körülményeiben bekövetkező okból, előzetesen meghatározott időtartamra szakítható meg, ha valószínűsíthető, hogy az ok megszűnése esetén a jelölt a szakképzését teljesíti. A méltányolható ok elfogadásáról támogatott szakképzés esetén az ENKK elnöke, költségtérítéses szakképzés esetén az egyetem dönt. Az ENKK elnöke a döntéséről az egyetemet 5 napon belül tájékoztatja.
 

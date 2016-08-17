@@ -8,7 +8,7 @@ a) a szakképzés teljesítéséhez a 12. § (1) bekezdés a) pontja és b) pont
 
 b) a jelölt szakképzés alatti foglalkoztatásához az Eütev. szerinti alapilletménynek megfelelő összegű
 
-támogatást biztosít.
+## támogatást biztosít.
 
 (2) Az (1) bekezdés szerinti személyektől a képzésben történő részvételért az egyetem legfeljebb a 12. § (1) bekezdés a) pont aa) alpontja és b) pont bb) alpontja szerinti támogatások és juttatások együttes összegének megfelelő összegű szakképzési díjat szedhet.
 

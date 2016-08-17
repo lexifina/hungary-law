@@ -12,7 +12,7 @@ b) egyes, a miniszter által meghatározott speciális szakterületeken a szakk�
 
 c) az egészségügyi ellátás szempontjából hiányszakmának minősülő területen elhelyezkedő rezidensek részére hiányszakmás ösztöndíjat
 
-[az a)–c) pont szerinti ösztöndíj a továbbiakban együtt: ösztöndíj] alapít.
+## [az a)–c) pont szerinti ösztöndíj a továbbiakban együtt: ösztöndíj] alapít.
 
 (2) Az ösztöndíj időtartama az adott rezidensnek, valamint szakgyógyszerész-jelöltnek az egyes szakképesítések képzési követelményeit meghatározó miniszteri rendeletben meghatározott szakképzési idejéből az ösztöndíj odaítélésekor hátralévő időtartam.
 

@@ -30,7 +30,7 @@ a) a 8. § (1) bekezdése szerinti esetekben az ott meghatározott körülmény 
 
 b) a vállalási időszakban összesen legfeljebb 12 hónap időtartamra
 
-szüneteltethető.
+## szüneteltethető.
 
 (6) A pályázatnak a (2) bekezdés alapján meghatározott szempontok szerinti értékelését követően a rezidens és a szakgyógyszerész-jelölt RTP-be történő felvételéről az ENKK elnöke dönt.
 

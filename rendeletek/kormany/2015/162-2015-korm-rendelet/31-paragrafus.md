@@ -6,7 +6,7 @@ a) az adott év március 1-je és augusztus 31-e közötti időszakra vonatkozó
 
 b) az adott év szeptember 1-je és az adott évet követő év február 29-e közötti időszakra vonatkozóan az adott év július 1-jei egészségügyi szolgáltatói foglalkoztatási adatok alapján
 
-állapítja meg, azzal, hogy az igénybejelentési időszakok között az OEP korrekciós lehetőséget biztosíthat a foglalkoztató egészségügyi szolgáltató részére a jogosultak adataiban időközben bekövetkezett változások érvényesítésére.
+## állapítja meg, azzal, hogy az igénybejelentési időszakok között az OEP korrekciós lehetőséget biztosíthat a foglalkoztató egészségügyi szolgáltató részére a jogosultak adataiban időközben bekövetkezett változások érvényesítésére.
 
 (3) A támogatás összegét az OEP havonta utalványozza a fiatal szakorvost, kórházi, klinikai szakgyógyszerészt foglalkoztató egészségügyi szolgáltatónak, amelyet az egészségügyi szolgáltató az érintett fiatal szakorvosnak, szakgyógyszerésznek továbbfolyósítani köteles.
 

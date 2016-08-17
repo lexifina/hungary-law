@@ -12,7 +12,7 @@ a) a 2015. augusztus 31-ét követően az első szakorvosi vagy kórházi, klini
 
 b) az RTP ösztöndíjaiban részesülő és 2015. augusztus 31-éig első szakorvosi vagy kórházi, klinikai szakgyógyszerészi szakvizsgát tett fiatal szakorvosok és szakgyógyszerészek részesülhetnek 2016. január 1-jétől számított öt évig
 
-az (1) bekezdés szerinti feltételeknek a támogatási időszak alatti folyamatos fennállása esetén.
+## az (1) bekezdés szerinti feltételeknek a támogatási időszak alatti folyamatos fennállása esetén.
 
 (3)[^27] A (2) bekezdésben foglalt ötéves jogosultsági időtartam szüneteltethető
 

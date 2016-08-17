@@ -12,7 +12,7 @@ bb) 5–12 hónap időtartamú képzési elemnél az egy hónapot,
 
 bc) 12 hónap időtartamot meghaladó képzési elemnél arányosan az éves rendes szabadság mértékét
 
-nem haladja meg.
+## nem haladja meg.
 
 (2a)[^7] Az 1 hónapnál rövidebb időtartamú képzési elem csak akkor fogadható el, ha a jelölt azt teljes időtartamában teljesítette.
 

@@ -8,7 +8,7 @@ a) az egészségügyi felsőfokú szakirányú szakképzésben részt vevők sz�
 
 b) a Kr.1. alapján megkezdő és háziorvostan képzésre szakot váltó személyek
 
-a szakképzésüket e rendelet szabályai szerint fejezhetik be. A szakképzésbe történő visszakapcsolódásra a szakképzésbe történő belépés e rendelet szerinti szabályai szerint kerülhet sor.
+## a szakképzésüket e rendelet szabályai szerint fejezhetik be. A szakképzésbe történő visszakapcsolódásra a szakképzésbe történő belépés e rendelet szerinti szabályai szerint kerülhet sor.
 
 (2)[^35] A 30. § (1) bekezdése szerinti támogatásra jogosult az a fiatal szakorvos vagy kórházi, klinikai szakgyógyszerész is, aki első szakorvosi, szakgyógyszerészi szakképesítését a Kr.1. vagy a Kr.2. szerint szerzi vagy szerezte meg és egyebekben a 30. § szerinti feltételeknek megfelel.
 

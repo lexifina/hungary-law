@@ -8,7 +8,7 @@ a) a szakképzéssel kapcsolatos adminisztratív költségeket és
 
 b) az egyetem által a jelölt képzési programja végrehajtásával összefüggésben nyújtott szolgáltatások költségét
 
-foglalja magába.
+## foglalja magába.
 
 (3) A (2) bekezdés a) pontja szerinti adminisztratív költségek összege nem haladhatja meg havonta az (1) bekezdés szerinti összeg 10%-át.
 
