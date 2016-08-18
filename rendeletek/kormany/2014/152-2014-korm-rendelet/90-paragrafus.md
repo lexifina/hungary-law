@@ -38,8 +38,8 @@
 
 18. területfejlesztés stratégiai tervezéséért,
 
-19–20.[^85]
+19–20.[^87]
 
 felelős tagja.
 
-[^85]: A 90. § 19–20. pontját a 87/2016. (IV. 25.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^87]: A 90. § 19–20. pontját a 87/2016. (IV. 25.) Korm. rendelet 3. §-a hatályon kívül helyezte.

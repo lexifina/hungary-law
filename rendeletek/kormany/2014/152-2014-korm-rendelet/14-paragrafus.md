@@ -1,3 +1,3 @@
-14. §[^23]
+14. §[^24]
 
-[^23]: A 14. §-t a 381/2014. (XII. 31.) Korm. rendelet 29. §-a hatályon kívül helyezte.
+[^24]: A 14. §-t a 381/2014. (XII. 31.) Korm. rendelet 29. §-a hatályon kívül helyezte.
