@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-238-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-08-17 | 2016-238-20-22.1 | 238/2016. (VIII. 16.) Korm. rendelet |
+| 2016-08-18 | 2016-238-20-22.2 | 2010: CXXX. törvény |
