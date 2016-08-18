@@ -1,4 +1,4 @@
-14. § (1)[^27] A külpolitikáért felelős miniszter, illetve – az Állandó Képviselet esetében – az európai uniós ügyek koordinációjáért felelős miniszter által adományozott diplomáciai rangok:
+14. § (1)[^35] A külpolitikáért felelős miniszter által adományozott diplomáciai rangok:
 
 a) segédattasé,
 
@@ -16,4 +16,4 @@ b) konzul,
 
 c) főkonzul.
 
-[^27]: A 14. § (1) bekezdése a 343/2014. (XII. 19.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^35]: A 14. § (1) bekezdése a 343/2014. (XII. 19.) Korm. rendelet 9. §-ával megállapított, nyitó szövegrésze a 245/2016. (VIII. 17.) Korm. rendelet 5. § l) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 9. §-át.
