@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-23-20-2
 | --- | --- | --- |
 | 2016-08-02 | 2016-23-20-2W.1 | 23/2016. (VII. 18.) NFM rendelet |
 | 2016-08-03 | 2016-23-20-2W.2 | 2010: CXXX. törvény |
+| 2016-08-18 | 2016-23-20-2W.3 | 2010: CXXX. törvény |
