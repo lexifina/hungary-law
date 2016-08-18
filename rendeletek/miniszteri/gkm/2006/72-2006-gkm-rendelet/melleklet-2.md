@@ -114,11 +114,9 @@ Ft/db
 
 | ec) 30 t sajáttömeg feletti járműveknél | 291 000 |
 
-| f) időszakos hatósági járművizsga az e) pont szerinti üzembe helyezési eljárás díjának 60%-a |  |
+| f) a rendkívüli járművizsgálat díja megegyezik az e) pont alatti üzembehelyezési eljárás díjával. |  |
 
-| g) határozott idejű üzembe helyezési engedély bérleti szerződés alapján, |  |
-
-| magyar hatósági jelzéssel közlekedő vasúti járműre | 251 000 |
+| g) |  |
 
 | h) üzembe helyezési engedély módosítása hatósági jelzés változás miatt | 96 000 |
 
@@ -220,19 +218,21 @@ Ft/db
 
 | a vasútbiztonsági tanúsítvány díja a b)–g) pontban meghatározott díjtételek 30%-a |  |
 
-| 12. a) vasúti járművek időszakos vizsgálatát végző vizsgahelyek működési engedélye | 1 211 100 |
+| 12. a) |  |
 
 | b) |  |
 
-| 13. Vasúti járművek gyártását, javítását végző személyek |  |
+| 13. Vasúti járművek közlekedésbiztonsági berendezései karbantartását, javítását, felújítását, korszerűsítését és vizsgálatát végző személyek és szervezetek tevékenységének engedélyezése |  |
 
-| és szervezetek tevékenységének engedélyezése |  |
+| a) időszakos és rendkívüli járművizsgálat végzése | 1 661 000 |
 
-| a) járműgyártás, főjavítás végzése | 1 661 000 |
+| b) járműjavítás, -karbantartás, -felújítás, -korszerűsítés | 1 246 000 |
 
-| b) fővizsgák végzése | 1 246 000 |
+| c) közlekedés biztonságával összefüggő részegységek javítása, karbantartása, felújítása, korszerűsítése | 830 000 |
 
-| c) közlekedés biztonságával összefüggő részegységek gyártása, javítása | 830 000 |
+| d) kizárólag saját célú vasúti pályahálózaton, iparvágányon, keskeny nyomtávú vasúti pályahálózaton és múzeumvasúti pályahálózaton közlekedő vasúti járműveket javító műhelyek esetén a díj az a)–c) alpontokban meghatározott díjtételek 10%-a, |  |
+
+| e) engedély módosítása esetén a díj az a)–d) alpontokban meghatározott díjtételek 40%-a. |  |
 
 | 14. Vasúti járműre szerelt tartály vizsgálatára jogosult személy |  |
 
@@ -326,4 +326,4 @@ Ft/db
 
 | 30. Vasúti alrendszerek, rendszerelemek karbantartásáért felelős szervezetek tanúsítása, engedélyezése | 1 248 000 |
 
-[^13]: A 2. melléklet az 52/2012. (IX. 11.) NFM rendelet 10. §-a és 11. § (2) bekezdése, a 23/2013. (V. 22.) NFM rendelet 9–10. §-a, a 81/2013. (XII. 23.) NFM rendelet 5. §-a, a 33/2016. (VIII. 2.) NFM rendelet 6. §-a szerint módosított szöveg.
+[^13]: A 2. melléklet az 52/2012. (IX. 11.) NFM rendelet 10. §-a és 11. § (2) bekezdése, a 23/2013. (V. 22.) NFM rendelet 9–10. §-a, a 81/2013. (XII. 23.) NFM rendelet 5. §-a, a 23/2016. (VII. 18.) NFM rendelet 1. §-a és 3. §-a, a 33/2016. (VIII. 2.) NFM rendelet 6. §-a szerint módosított szöveg.
