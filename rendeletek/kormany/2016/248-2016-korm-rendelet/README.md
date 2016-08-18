@@ -1,0 +1,9 @@
+# 248/2016. (VIII. 17.) Korm. rendelet
+
+a Tura város területén megvalósuló beruházással összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-248-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-08-18 | 2016-248-20-22.1 | 248/2016. (VIII. 17.) Korm. rendelet |
