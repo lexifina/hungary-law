@@ -1,4 +1,4 @@
-## 2. §[^2] A pedagógusok továbbképzését a Balassi Intézet (a továbbiakban: továbbképzési központ) szervezi. A továbbképzési központ e feladatkörében
+## 2. §[^2] A pedagógusok továbbképzését az Eötvös Loránd Tudományegyetem (a továbbiakban: továbbképzési központ) szervezi. A továbbképzési központ e feladatkörében
 
 a) határon túli magyar pedagógus szövetségekkel együttműködve nyilvántartja a továbbképzésre szóló jelentkezéseket,
 
@@ -14,6 +14,6 @@ f) e rendeletben foglaltak szerint továbbképzést szervez Magyarországon. A s
 
 g)[^4] az oktatásért felelős miniszter által vezetett minisztériummal együtt ellátja a továbbképzési kormányrendeletben meghatározott ellenőrzési feladatokat.
 
-[^2]: A 2. § felvezető szövegének első mondata a 309/2006. (XII. 23.) Korm. rendelet 7. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^2]: A 2. § nyitó szövegrésze a 241/2016. (VIII. 16.) Korm. rendelet 12. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^3]: A 2. § e) pontja a 277/2013. (VII. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^4]: A 2. § g) pontja a 131/2007. (VI. 12.) Korm. rendelet 10. § (2) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 310. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

@@ -2,7 +2,7 @@
 
 12. § (1)[^9] Nemzetközi szerződés alapján részt vehet a pedagógus-továbbképzésben az a személy is, aki a szomszédos állam óvodai, alap- vagy középfokú oktatási intézményében magyar nyelven vagy a magyar kultúra tárgyában oktat. A magyar kultúra tárgykörét külön jogszabály határozza meg.
 
-(2)[^10] A továbbképzésre való jogosultságot a kérelmező lakóhelye szerinti államban működő magyar diplomáciai és konzuli képviselet (a továbbiakban: külképviselet) igazolja az oktatási intézmény által kiállított, a munkaviszonyról vagy munkavégzésre irányuló egyéb jogviszonyról szóló igazolás alapján. Kétség esetén a külképviselet szakmai tájékoztatást kérhet az oktatásért felelős miniszter által vezetett minisztériumtól, az Oktatási Hivataltól (a továbbiakban: Hivatal), a Balassi Intézettől, illetve határon túli szakértői szervezetektől.
+(2)[^10] A továbbképzésre való jogosultságot a kérelmező lakóhelye szerinti államban működő magyar diplomáciai és konzuli képviselet (a továbbiakban: külképviselet) igazolja az oktatási intézmény által kiállított, a munkaviszonyról vagy munkavégzésre irányuló egyéb jogviszonyról szóló igazolás alapján. Kétség esetén a külképviselet szakmai tájékoztatást kérhet az oktatásért felelős miniszter által vezetett minisztériumtól, az Oktatási Hivataltól (a továbbiakban: Hivatal), a továbbképzési központtól, illetve határon túli szakértői szervezetektől.
 
 (3)[^11]
 
@@ -19,5 +19,5 @@ d) az oktatási intézmény nevét, címét,
 e) nyilatkozatát arról, hogy az (1) bekezdésben meghatározott jogosultsága fennállásáig hozzájárul a jelen bekezdésben felsorolt személyes adatai kezeléséhez az eljárásban részt vevő szervek részére, illetve ezen adatoknak a továbbképzési központ részére történő továbbításához,
 
 [^9]: A 12. § (1) bekezdése a 294/2012. (X. 16.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.
-[^10]: A 12. § (2) bekezdése a 294/2012. (X. 16.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^10]: A 12. § (2) bekezdése a 294/2012. (X. 16.) Korm. rendelet 7. §-ával megállapított, a 241/2016. (VIII. 16.) Korm. rendelet 12. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^11]: A 12. § (3) bekezdését a 294/2012. (X. 16.) Korm. rendelet 15. §-a hatályon kívül helyezte.
