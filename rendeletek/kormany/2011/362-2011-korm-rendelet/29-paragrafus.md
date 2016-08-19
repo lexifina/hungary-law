@@ -1,5 +1,5 @@
-## 13.[^64]
+## 28. §
 
-29. §
+## 13.[^65]
 
-[^64]: A 13. alcímet (29. §) a 169/2016. (VII. 1.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^65]: A 13. alcímet (29. §) a 169/2016. (VII. 1.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.

@@ -24,8 +24,6 @@ h)[^23]
 
 i) a közreműködő intézmény által a 12. § szerint kiadott igazoláson szereplő adatokat
 
-tartalmazza.
-
 [^19]: A 8. § (1) bekezdése a 74/2014. (III. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
 [^20]: A 8. § (2) bekezdését a 74/2014. (III. 13.) Korm. rendelet 13. § a) pontja hatályon kívül helyezte.
 [^21]: A 8. § (3) bekezdés nyitó szövegrésze a 74/2014. (III. 13.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.

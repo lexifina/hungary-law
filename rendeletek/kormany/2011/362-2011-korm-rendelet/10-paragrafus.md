@@ -1,3 +1,5 @@
+## tartalmazza.
+
 ## 4. Az oktatási igazolvány igénylésére vonatkozó általános szabályok
 
 10. § (1) Oktatási igazolvány

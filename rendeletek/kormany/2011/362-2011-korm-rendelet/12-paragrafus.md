@@ -6,7 +6,7 @@ b) a 24. §-ban,
 
 c)[^28]
 
-foglaltakra való jogosultságot.
+## foglaltakra való jogosultságot.
 
 (2) Az igényelt diákigazolvány kiadásáig kiállított igazolás a közforgalmú személyszállítási utazási kedvezményekről szóló kormányrendelet szerinti ideiglenes diákigazolványnak minősül.
 

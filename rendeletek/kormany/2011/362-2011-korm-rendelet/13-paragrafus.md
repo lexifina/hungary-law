@@ -24,8 +24,9 @@ b) hallgatói jogviszonya a II. félévben szűnik meg, a hallgatói jogviszony�
 
 jogosult diákigazolványra.
 
-(5) E rendelet vonatkozásában a Balassi Intézetben képzésben részt vevő személy – a Diákigazolvány igénylése alcím kivételével – hallgatónak minősül.
+(5)[^32]
 
 [^29]: A 13. § (1) bekezdés a) pontja a 74/2014. (III. 13.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^30]: A 13. § (1) bekezdés b) pontja a 74/2014. (III. 13.) Korm. rendelet 12. § d) pontja, a 169/2016. (VII. 1.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
 [^31]: A 13. § (1) bekezdés c) pontja a 74/2014. (III. 13.) Korm. rendelet 12. § g) pontja szerint módosított szöveg.
+[^32]: A 13. § (5) bekezdését a 241/2016. (VIII. 16.) Korm. rendelet 13. § (3) bekezdése hatályon kívül helyezte.
