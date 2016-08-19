@@ -1,3 +1,0 @@
-## „(1a) A 3. § 12. pontja, a 7. §, a 7/A. §, a 10. § (7) bekezdésében az ellátmányszorzó megállapítására vonatkozó rész, a 11. § (3) bekezdése, a 23–24. §, a 25. § (1)–(4) bekezdése, a 27. §, a 28. §, a 34–38. §, a 42. § és az 1. melléklet hatálya kiterjed Magyarország Európai Unió melletti Állandó Képviseletére (a továbbiakban: Állandó Képviselet) és az oda kihelyezett kormánytisztviselőkre és kormányzati ügykezelőkre.
-
-## (1b) A 39. § hatálya az Állandó Képviseletre és az oda kihelyezett kormánytisztviselőkre és kormányzati ügykezelőkre a tartós külszolgálat időtartama alatt az állomáshelyen való egészségügyi ellátás igénybevételének részletes szabályairól szóló KKM rendelet hatálybalépésének időpontjáig terjed ki.”
