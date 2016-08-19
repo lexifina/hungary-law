@@ -1,6 +1,6 @@
 ## 6. § A Balassi Intézet a Balassi Bálint Magyar Kulturális Intézet, a Külföldi Magyar Kulturális Intézetek Igazgatósága, valamint a Márton Áron Szakkollégium általános jogutódja.
 
-6/A. §[^29] (1) A Balassi Intézet e rendeletben meghatározott szakmai tevékenységének ellátásához szükséges, a külföldi magyar intézetekhez kapcsolódó feladatait 2016. január 1. napjától a külpolitikáért felelős miniszter látja el. Az átvett feladatok, valamint a feladatellátáshoz kapcsolódó jogviszonyok tekintetében a külpolitikáért felelős miniszter által vezetett minisztérium a Balassi Intézet jogutódja.
+6/A. §[^31] (1) A Balassi Intézet e rendeletben meghatározott szakmai tevékenységének ellátásához szükséges, a külföldi magyar intézetekhez kapcsolódó feladatait 2016. január 1. napjától a külpolitikáért felelős miniszter látja el. Az átvett feladatok, valamint a feladatellátáshoz kapcsolódó jogviszonyok tekintetében a külpolitikáért felelős miniszter által vezetett minisztérium a Balassi Intézet jogutódja.
 
 (2) Az (1) bekezdésben meghatározott feladatok átvétele nem érinti a Balassi Intézet 3. § (1)–(4) bekezdésében meghatározott szakmai feladatait, amelyeket a Balassi Intézet a 4. § (1) bekezdésének megfelelően továbbra is a külföldi magyar intézetek útján lát el.
 
@@ -20,4 +20,4 @@ c) a b) pontban megjelölt kormánytisztviselőkkel, kormányzati ügykezelőkke
 
 (6) A Magyar Államkincstár a Külgazdasági és Külügyminisztérium és a Balassi Intézet átalakítását 2016. január 1-jével jegyzi be a törzskönyvi nyilvántartásba.
 
-[^29]: A 6/A. §-t a 481/2015. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^31]: A 6/A. §-t a 481/2015. (XII. 29.) Korm. rendelet 4. §-a iktatta be.
