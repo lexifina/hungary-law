@@ -1,13 +1,15 @@
-13. § (1) Hatályát veszti a Balassi Intézet létrehozásáról szóló 309/2006. (XII. 23.) Korm. rendelet 3. § (2) bekezdés d) pontja és (3) bekezdése.
+13. § (1)[^5]
 
-(2)[^4]
+(2)[^6]
 
-(3) Hatályát veszti a 362/2011. (XII. 30.) Korm. rendelet 13. § (5) bekezdése.
+(3)[^7]
 
-(4)[^5]
+(4)[^8]
 
-(5)[^6]
+(5)[^9]
 
-[^4]: A 13. § (2) bekezdése az 5. § (3) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
-[^5]: A 13. § (4) bekezdése az 5. § (3) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
-[^6]: A 13. § (5) bekezdése az 5. § (3) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+[^5]: A 13. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 13. § (2) bekezdése az 5. § (3) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+[^7]: A 13. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 13. § (4) bekezdése az 5. § (3) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+[^9]: A 13. § (5) bekezdése az 5. § (3) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
