@@ -1,0 +1,3 @@
+## 1. § A dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet (a továbbiakban: Vhr.) 1. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) E rendelet rendelkezéseit – a (2) bekezdésben meghatározott kivétellel – a Magyarország területén előállított, továbbá – a 16. §-ban foglalt kivétellel – forgalomba hozott dohánytermékekre, elektronikus cigarettákra, utántöltő folyadékokra és dohányzást imitáló elektronikus eszközökre kell alkalmazni.”
