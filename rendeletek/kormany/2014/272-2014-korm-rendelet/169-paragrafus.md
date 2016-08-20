@@ -1,8 +1,0 @@
-169. § (1)[^701] A jogorvoslati kérelmet az irányító hatóság a szabálytalansági eljárás dokumentumaival, a jogorvoslati kérelem tárgyában kialakított álláspontjával és a szabálytalansági eljárás tárgyában folyamatban lévő szabálytalansági, közbeszerzési döntőbizottsági vagy egyéb hatósági, illetve bírósági eljárásról szóló tájékoztatással együtt a jogorvoslati kérelem beérkezését – ha a szabálytalansági eljárásban több kedvezményezett jogosult jogorvoslati kérelem előterjesztésére, úgy a jogorvoslati kérelem benyújtására nyitva álló határidő valamennyi jogosult tekintetében való elteltét – követő tíz napon belül felterjeszti az európai uniós források felhasználásáért felelős miniszterhez.
-
-(1a)[^702] Pénzügyi eszközök esetében az (1) bekezdést kell alkalmazni azzal, hogy az alapok alapját végrehajtó szervezet a szabálytalansági döntés elleni jogorvoslatot és mellékleteit az irányító hatóság útján terjeszti fel az európai uniós források felhasználásáért felelős miniszterhez.
-
-(2) Ha a jogorvoslati kérelem (1) bekezdés szerinti felterjesztése előtt a kérelem alapján az irányító hatóság megállapítja, hogy a szabálytalansági döntés jogszabályt sért, vagy a támogatási szerződésbe, illetve a felhívás szerinti tájékoztatásban foglaltakba ütközik, a szabálytalansági döntést visszavonja, és ha a szabálytalansági gyanú továbbra is fennáll, annak kivizsgálására új szabálytalansági eljárást folytat le.
-
-[^701]: A 169. § (1) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 46. §-ával megállapított szöveg.
-[^702]: A 169. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 90. §-a iktatta be.

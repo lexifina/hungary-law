@@ -1,4 +1,4 @@
-84. § (1)[^376] Mentes a 83. § (1) bekezdése szerinti biztosítéknyújtási kötelezettség alól:
+84. § (1)[^408] Mentes a 83. § (1) bekezdése szerinti biztosítéknyújtási kötelezettség alól:
 
 a) a költségvetési szerv,
 
@@ -18,7 +18,7 @@ h) az állam, helyi önkormányzat, nemzetiségi önkormányzat vagy helyi önko
 
 ha) az állam, helyi önkormányzat, nemzetiségi önkormányzat, helyi önkormányzatok társulása, nemzetiségi önkormányzatok társulása vagy – központi költségvetési szerv kivételével – költségvetési szerv vagyonának fejlesztésére fordítja, vagy
 
-hb) a ha) alpontban meghatározott szervezetek valamelyikének többségi befolyása alatt álló jogi személy olyan vagyontárgyának fejlesztésére fordítja, amely közfeladat ellátását szolgálja, vagy közfeladat ellátását mozdítja elő,
+hb)[^409] a ha) alpontban meghatározott szervezetek valamelyikének többségi befolyása alatt álló jogi személy olyan vagyonának fejlesztésére fordítja, amely közfeladat ellátását szolgálja, vagy közfeladat ellátását mozdítja elő,
 
 ## és a 83. § (1) bekezdése szerinti kötelezettsége alól kormányhatározat mentesíti,
 
@@ -30,7 +30,7 @@ k) a megvalósítási időszakra az a kedvezményezett, aki a támogatás kifize
 
 l) társasház és lakásszövetkezet a szociális célú városrehabilitációra vonatkozó felhívás keretében,
 
-m)[^377] kérelemre az a kedvezményezett, amely rendelkezik legalább egy lezárt, teljes (tizenkét naptári hónapot jelentő) üzleti évvel, és szerepel az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 32. pontja szerint közzétett köztartozásmentes adózói adatbázisban.
+m)[^410] kérelemre az a kedvezményezett, amely rendelkezik legalább egy lezárt, teljes (tizenkét naptári hónapot jelentő) üzleti évvel, és szerepel az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 178. § 32. pontja szerint közzétett köztartozásmentes adózói adatbázisban.
 
 (2) A felhívás eltérő rendelkezése hiányában nem köteles biztosítékot nyújtani a kedvezményezett, ha a támogatás
 
@@ -38,11 +38,12 @@ a) nem beruházási célú, vagy
 
 b) kutatás-fejlesztésre vagy innovációra irányul.
 
-(3)[^378] Ha a kedvezményezett a köztartozásmentes adózói adatbázisban nem szerepel, a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással is igazolhatja.
+(3)[^411] Ha a kedvezményezett a köztartozásmentes adózói adatbázisban nem szerepel, a köztartozás-mentességét harminc napnál nem régebbi nemleges adóigazolással is igazolhatja.
 
-(4)[^379] Az EMVA-ból származó forrásból nyújtott támogatás esetén a kifizető ügynökség a felhívás eltérő rendelkezése hiányában a 907/2014/EU bizottsági rendelet 18. cikk alapján adhat felmentést a biztosíték nyújtása alól.
+(4)[^412] Az EMVA-ból származó forrásból nyújtott támogatás esetén a kifizető ügynökség a felhívás eltérő rendelkezése hiányában a 907/2014/EU felhatalmazáson alapuló bizottsági rendelet 18. cikk alapján adhat felmentést a biztosíték nyújtása alól.
 
-[^376]: A 84. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 91. pontjával megállapított szöveg.
-[^377]: A 84. § (1) bekezdés m) pontját a 358/2014. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 144/2015. (VI. 12.) Korm. rendelet 100. § 92. pontja szerint módosított szöveg.
-[^378]: A 84. § (3) bekezdését a 358/2014. (XII. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 144/2015. (VI. 12.) Korm. rendelet 100. § 93. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 29. pontja szerint módosított szöveg.
-[^379]: A 84. § (4) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 49. §-a iktatta be.
+[^408]: A 84. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 91. pontjával megállapított szöveg.
+[^409]: A 84. § (1) bekezdés h) pont hb) alpontja a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 21. pontja szerint módosított szöveg.
+[^410]: A 84. § (1) bekezdés m) pontját a 358/2014. (XII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 144/2015. (VI. 12.) Korm. rendelet 100. § 92. pontja szerint módosított szöveg.
+[^411]: A 84. § (3) bekezdését a 358/2014. (XII. 29.) Korm. rendelet 6. § (2) bekezdése iktatta be, szövege a 144/2015. (VI. 12.) Korm. rendelet 100. § 93. pontja, a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 29. pontja szerint módosított szöveg.
+[^412]: A 84. § (4) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 49. §-a iktatta be, szövege a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 18. pontja szerint módosított szöveg.

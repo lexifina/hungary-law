@@ -1,3 +1,3 @@
-## 16/A. [^156] A tanúsító szerv kijelölése
+## 16/A. [^162] A tanúsító szerv kijelölése
 
-[^156]: A 16/A. alcímet (28/B. §) a 347/2015. (XI. 20.) Korm. rendelet 12. §-a iktatta be.
+[^162]: A 16/A. alcímet (28/B. §) a 347/2015. (XI. 20.) Korm. rendelet 12. §-a iktatta be.

@@ -10,6 +10,6 @@
 
 5. összehangolja a pénzügyi eszközök indítását megalapozó ex ante elemzések készítését,
 
-6.[^78] megküldi az igazoló hatóság részére az irányító hatóságok által összeállított és egyezetett, az 1303/2013/EU európai parlamenti és tanácsi rendelet 112. cikke szerinti pénzügyi adatokat legkésőbb az ott meghatározott határidőket megelőző 14 naptári nappal.
+6.[^82] megküldi az igazoló hatóság részére az irányító hatóságok által összeállított és egyezetett, az 1303/2013/EU európai parlamenti és tanácsi rendelet 112. cikke szerinti pénzügyi adatokat legkésőbb az ott meghatározott határidőket megelőző 14 naptári nappal.
 
-[^78]: A 11. § 6. pontja a 98/2016. (V. 13.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^82]: A 11. § 6. pontja a 98/2016. (V. 13.) Korm. rendelet 3. §-ával megállapított szöveg.

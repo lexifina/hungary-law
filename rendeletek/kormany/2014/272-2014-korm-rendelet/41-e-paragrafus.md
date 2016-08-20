@@ -6,6 +6,14 @@ b) a támogatási jogosultság feltételeit, a projektkijelölés objektív szak
 
 c) az adott közfeladatban érintett fejlesztés számára projektszinten rendelkezésre álló indikatív támogatási keretet.
 
-(2) Kiemelt projekt felhívásának célja kizárólagosan előkészítés csak akkor lehet, ha az előkészítendő projekt megvalósítására a 2014–2020 programozási időszak forrásaiból nem kerül sor vagy megvalósítása az Európai Hálózatfinanszírozási Eszközből tervezett.
+(2)[^217] Kiemelt projekt felhívásának célja kizárólagosan előkészítés csak akkor lehet, ha
+
+a) az előkészítendő projekt megvalósítására a 2014–2020 programozási időszak forrásaiból nem kerül sor,
+
+b) megvalósítása az Európai Hálózatfinanszírozási Eszközből tervezett, vagy
+
+c) ahhoz a Kormány előzetesen hozzájárult.
 
 (3) Nem kell bemutatni az éves fejlesztési keret elfogadására irányuló javaslatban az (1) bekezdés b) és c) pontjában foglaltakat a technikai segítségnyújtást szolgáló felhívások tekintetében.
+
+[^217]: A 41/E. § (2) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 5. §-ával megállapított szöveg.

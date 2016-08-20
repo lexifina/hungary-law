@@ -1,4 +1,4 @@
-46. § (1)[^218] A felhívás tartalmazza legalább
+46. § (1)[^230] A felhívás tartalmazza legalább
 
 a) a felhívás nevét, keretösszegét,
 
@@ -30,22 +30,22 @@ n) a támogatási intézkedésre vonatkozó támogatási kategóriát és az arr
 
 o) a projektkiválasztásra vonatkozó eljárásrendet és további részletes információkat tartalmazó dokumentumok elérhetőségét.
 
-(1a)[^219] A terület-, illetve állatlétszám alapú támogatásokra vonatkozó felhívásokban nem kell szerepeltetni az (1) bekezdés h) és n) pontjában meghatározott tartalmi elemeket, az (1) bekezdés d) és i) pontjában meghatározottakat a terület-, illetve állatlétszám alapú intézkedés céljától függően kell alkalmazni.
+(1a)[^231] A terület-, illetve állatlétszám alapú támogatásokra vonatkozó felhívásokban nem kell szerepeltetni az (1) bekezdés h) és n) pontjában meghatározott tartalmi elemeket, az (1) bekezdés d) és i) pontjában meghatározottakat a terület-, illetve állatlétszám alapú intézkedés céljától függően kell alkalmazni.
 
-(1b)[^220] A gazdaságfejlesztést célzó projekt megvalósítására irányuló felhívásnak – ha a támogatás igénylésére jogosultak köre a többségi állami tulajdonban álló gazdasági társaságokra, illetve a költségvetési szervekre is kiterjed – az (1) bekezdésben foglaltakon túl tartalmaznia kell azt is, hogy többségi állami tulajdonban álló gazdasági társaság, illetve központi költségvetési szerv csak akkor nyújthat be támogatási kérelmet, ha ahhoz a Kormány előzetesen hozzájárult.
+(1b)[^232] A gazdaságfejlesztést célzó projekt megvalósítására irányuló felhívásnak – ha a támogatás igénylésére jogosultak köre a többségi állami tulajdonban álló gazdasági társaságokra, illetve a költségvetési szervekre is kiterjed – az (1) bekezdésben foglaltakon túl tartalmaznia kell azt is, hogy többségi állami tulajdonban álló gazdasági társaság, illetve központi költségvetési szerv csak akkor nyújthat be támogatási kérelmet, ha ahhoz a Kormány előzetesen hozzájárult.
 
 (2) Kiemelt projekt megvalósítására irányuló felhívásnak az (1) bekezdésben foglaltakon túl – a technikai segítségnyújtás kivételével – tartalmaznia kell
 
 a) a fejlesztések felsorolását,
 
-b)[^221] a fejlesztésekhez rendelt indikatív kereteket kedvezményezettenként,
+b)[^233] a fejlesztésekhez rendelt indikatív kereteket kedvezményezettenként,
 
-c)–e)[^222]
+c)–e)[^234]
 
 (3) Az irányító hatóságnak a felhívást a program céljai alapján, az egységes dokumentum-sablonok, elszámolhatósági szabályok, eljárásrendi megoldások alkalmazásával, az adminisztratív terhek, szabályozási kötöttségek minimalizálásával, a támogatási konstrukciók közötti szinergia és az elhatárolás biztosításával, az abszorpciós célokra, az eredményességi, teljesítmény-kerettel összefüggő szempontokra tekintettel kell kidolgoznia.
 
-[^218]: A 46. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 25. §-ával megállapított szöveg.
-[^219]: A 46. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 25. §-a iktatta be.
-[^220]: A 46. § (1b) bekezdését a 145/2016. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
-[^221]: A 46. § (2) bekezdés b) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 5. pontja szerint módosított szöveg.
-[^222]: A 46. § (2) bekezdés c)–e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 9. pontja hatályon kívül helyezte.
+[^230]: A 46. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^231]: A 46. § (1a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 25. §-a iktatta be.
+[^232]: A 46. § (1b) bekezdését a 145/2016. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
+[^233]: A 46. § (2) bekezdés b) pontja a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^234]: A 46. § (2) bekezdés c)–e) pontját a 144/2015. (VI. 12.) Korm. rendelet 101. § 9. pontja hatályon kívül helyezte.

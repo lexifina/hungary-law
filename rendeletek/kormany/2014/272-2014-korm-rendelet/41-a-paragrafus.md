@@ -1,6 +1,6 @@
 ## 20. Az éves fejlesztési keret előkészítése, elfogadása, módosítása
 
-41/A. § (1)[^204] Az éves fejlesztési keret tervezetét az adott éves fejlesztési kerethez tartozó program végrehajtásáért felelős irányító hatóság készíti el. Az irányító hatóság gondoskodik a szakpolitikai felelős, EMVA esetén a kifizető ügynökség, ETHA esetén a közreműködő szervezet bevonásáról.
+41/A. § (1)[^210] Az éves fejlesztési keret tervezetét az adott éves fejlesztési kerethez tartozó program végrehajtásáért felelős irányító hatóság készíti el. Az irányító hatóság gondoskodik a szakpolitikai felelős, EMVA esetén a kifizető ügynökség, ETHA esetén a közreműködő szervezet bevonásáról.
 
 (2) A szakpolitikai felelős készíti el az éves fejlesztési keretben szerepeltetni kívánt felhívások szakmai koncepcióját. A koncepció tartalmazza – az adott felhívásban alkalmazandó kiválasztási eljárásnak megfelelően – a 41/D–41/H. §-ban meghatározott információkat.
 
@@ -10,4 +10,4 @@
 
 (5) A szakpolitikai felelős a felhívások szakmai koncepcióját minden év május 31-ig nyújtja be az irányító hatóságnak.
 
-[^204]: A 41/A. § (1) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 53. § (1) bekezdés 6. pontja szerint módosított szöveg.
+[^210]: A 41/A. § (1) bekezdése a 466/2015. (XII. 29.) Korm. rendelet 53. § (1) bekezdés 6. pontja szerint módosított szöveg.

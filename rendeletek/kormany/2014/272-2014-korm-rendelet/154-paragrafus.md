@@ -1,25 +1,24 @@
-154. § (1)[^654] A kifogás 153. § (3) bekezdése szerinti felterjesztéséig az irányító hatóság, a kifizető ügynökség vagy a közreműködő szervezet, a felterjesztést követően az európai uniós források felhasználásáért felelős miniszter a kifogás elbírálására irányuló eljárást megszünteti, ha a kifogást elbíráló döntés meghozataláig
+154. § (1)[^703] A kifogás 153. § (3) bekezdése szerinti felterjesztéséig az irányító hatóság, a kifizető ügynökség, a közreműködő szervezet, az alapok alapját végrehajtó szervezet vagy a pénzügyi közvetítő, a felterjesztést követően az európai uniós források felhasználásáért felelős miniszter a kifogás elbírálására irányuló eljárást megszünteti, ha a kifogást elbíráló döntés meghozataláig
 
-a) kifogást annak előterjesztője erre irányuló írásbeli nyilatkozatával visszavonja,
+a) a kifogást annak benyújtója erre irányuló írásbeli nyilatkozatával visszavonta,
 
-b) a forráshiány miatt elutasított támogatási kérelem támogatásban részesül,
+b) a forráshiány miatt elutasított támogatási kérelem alapján a támogatást igénylő támogatásban részesült,
 
 c) a kifogással támadott döntést hatályon kívül helyezték,
 
-d) a támogatási jogviszony nem a kifogással érintett döntés következtében szűnik meg,
+d) a támogatási jogviszony nem a kifogással érintett döntés következtében szűnt meg,
 
-e) a támogatást igénylő kifogással érintett támogatási kérelmet ismételten benyújtja,
+e) a támogatást igénylő a kifogással érintett támogatási kérelmet ismételten benyújtotta, a pénzügyi eszköz végrehajtására jelentkező szervezet a kifogással érintett, a pénzügyi eszköz végrehajtására történő jelentkezést ismételten benyújtotta, vagy a pénzügyi eszközt igénylő az igénylését ismételten benyújtotta,
 
-f)[^655] a támogatást igénylő a kifogással érintett támogatási kérelemre vonatkozó támogatási szerződést megköti, vagy nyilatkozik a támogatói okirat elfogadásáról,
+f) a támogatást igénylő a kifogással érintett támogatási kérelemre vonatkozó támogatási szerződést megkötötte vagy nyilatkozott a támogatói okirat elfogadásáról, a pénzügyi közvetítő a finanszírozási megállapodást megkötötte, vagy a pénzügyi eszközt igénylő a szerződést megkötötte,
 
-g) a kedvezményezett által a kifogással érintett döntés alapjául szolgáló eljárási cselekményt megismétli
+g) a kedvezményezett, a pénzügyi közvetítő vagy a végső kedvezményezett a kifogással érintett döntés alapjául szolgáló eljárási cselekményt megismételte,
 
-h) a kedvezményezett a kifogással támadott döntésben meghatározott visszafizetési kötelezettségének eleget tesz,
+h) a kedvezményezett, a pénzügyi közvetítő vagy a végső kedvezményezett a kifogással támadott döntésben meghatározott visszafizetési kötelezettségének eleget tett, vagy
 
-i)[^656] a kifogás benyújtója jogutód nélkül megszűnt.
+i) a kifogás benyújtója jogutód nélkül megszűnt.
 
-(2) Ha a támogatási kérelmet forráshiány miatti elutasító döntésben az szerepel, hogy a támogatási kérelem költségcsökkentéssel, illetve feltételekkel támogatható, és a kifogás a költségcsökkentés, illetve szerződéskötési feltételek ellen is irányul, a kifogás elbírálására irányuló eljárás megszüntetésének az (1) bekezdés b) pontjára történő hivatkozással nincs helye.
+(2)[^704] Ha a támogatási kérelmet vagy a pénzügyi eszköz igénybevételére vonatkozó kérelmet forráshiány miatti elutasító döntésben az szerepel, hogy a támogatási kérelem vagy a pénzügyi eszköz igénybevételére vonatkozó kérelem költségcsökkentéssel, illetve feltételekkel támogatható, és a kifogás a költségcsökkentés, illetve szerződéskötési feltételek ellen is irányul, a kifogás elbírálására irányuló eljárás megszüntetésének az (1) bekezdés b) pontjára történő hivatkozással nincs helye.
 
-[^654]: A 154. § (1) bekezdés nyitó szövegrésze a 366/2014. (XII. 30.) Korm. rendelet 10. § (1) bekezdés d) pontja, a 144/2015. (VI. 12.) Korm. rendelet 101. § 33. pontja, a 347/2015. (XI. 20.) Korm. rendelet 49. § (1) bekezdés 33. pontja, a 466/2015. (XII. 29.) Korm. rendelet 53. § (1) bekezdés 23. pontja szerint módosított szöveg.
-[^655]: A 154. § (1) bekezdés f) pontja a 144/2015. (VI. 12.) Korm. rendelet 101. § 34. pontja szerint módosított szöveg.
-[^656]: A 154. § (1) bekezdés i) pontját a 466/2015. (XII. 29.) Korm. rendelet 42. §-a iktatta be.
+[^703]: A 154. § (1) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^704]: A 154. § (2) bekezdése a 247/2016. (VIII. 17.) Korm. rendelet 25. § (1) bekezdés 34. pontja szerint módosított szöveg.

@@ -1,3 +1,3 @@
-## 110/A. §[^468] A kedvezményezett projektszintű, a kincstár program szintű elkülönített számviteli nyilvántartást vezet, a projekttel kapcsolatos minden dokumentumot elkülönítetten nyilvántart, és legalább 2027. december 31-ig megőriz.
+## 110/A. §[^506] A kedvezményezett projektszintű, a kincstár program szintű elkülönített számviteli nyilvántartást vezet, a projekttel kapcsolatos minden dokumentumot elkülönítetten nyilvántart, és legalább 2027. december 31-ig megőriz.
 
-[^468]: A 110/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 61. §-a iktatta be.
+[^506]: A 110/A. §-t a 144/2015. (VI. 12.) Korm. rendelet 61. §-a iktatta be.
