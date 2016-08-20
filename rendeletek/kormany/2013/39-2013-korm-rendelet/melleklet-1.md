@@ -1,18 +1,18 @@
-1. melléklet a 39/2013. (II. 14.) Korm. rendelethez
+1. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^53]
 
 Regisztrációs lap tartalmi elemei
 
-1. A dohánytermék gyártó, importáló, bejegyzett kereskedő vagy a tároló adóraktár engedélyesének neve, címe.
+1. A dohánytermék gyártó, importáló, bejegyzett kereskedő vagy az adóraktár engedélyesének neve, címe.
 
 2. A dohánytermék megnevezésére vonatkozó információk:
 
-a) típusa (a 2. § 4. és 9. pontja szerint):
+a) típusa [nem új dohánytermék-kategóriába tartozó termék esetén a 6. § (1) bekezdés a) pontja szerint]:
 
 b) márkaneve/márkajelzése:
 
 c) alfajtája (ha megkülönböztethető):
 
-d) egyedi jellemző (ha megkülönböztethető):
+d) termékazonosítója (a 2015/2186 bizottsági végrehajtási határozat szerinti jelentési formátumban használt azonosító)
 
 3. A dohánytermék
 
@@ -55,3 +55,5 @@ a dohányterméket előállító üzem vezetője,
 importáló, bejegyzett kereskedő
 
 vagy tároló adóraktár engedélyes neve
+
+[^53]: Az 1. melléklet a 239/2016. (VIII. 16.) Korm. rendelet 19. § (1) bekezdése a 20. § g) pontja szerint módosított szöveg.

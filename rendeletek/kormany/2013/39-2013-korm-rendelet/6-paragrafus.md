@@ -1,31 +1,49 @@
 ## 4. Jelölés
 
-6. § (1) A fogyasztói csomagolási egységen jelölni kell – a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény (a továbbiakban: Nvt.) 6. §-ában meghatározottakon túl –
+6. §[^11] (1) A csomagolási egységen jelölni kell
 
-a) a dohánytermék típusát a következők szerint: „cigaretta”, „szivar”, „szivarka”, „cigarettadohány”, „pipadohány”, „rágódohány”, „burnót”,
+a) a dohánytermék típusát a következők szerint:
+
+aa) „cigaretta”,
+
+ab) „szivar”,
+
+ac) „szivarka”,
+
+ad) „cigarettadohány”,
+
+ae) „pipadohány”,
+
+af) „rágódohány”,
+
+ag) „tüsszentésre szolgáló dohánytermék”,
+
+ah) „vízipipadohány”,
 
 b) a dohánytermék márkanevét vagy márkajelzését,
 
-c) a dohánytermék alfajtáját (ha megkülönböztethető),
+c) a dohánytermék márkanevének vagy márkajelzésének alfajtáját (ha megkülönböztethető),
 
-d) a gyártó vagy forgalomba hozó, bejegyzett kereskedő, tároló adóraktár engedélyes megnevezését azonosításra alkalmas módon,
+d) a gyártói vagy forgalmazói minőséget és a gyártó vagy forgalmazó cégjegyzék szerinti megnevezését,
 
 e) a dohánytermék származási helyének megjelölését, ha az áru nem az Európai Gazdasági Térségből származik,
 
-f) a darabszámot (cigaretta, szivar, szivarka) vagy tömeget (fogyasztási dohány, rágásra, tüsszentésre szolgáló dohánytermék),
+f) a darabszámot (cigaretta, szivar, szivarka esetén) vagy tömeget (fogyasztási dohány, rágásra, tüsszentésre szolgáló dohánytermék esetén),
 
-g) füstszűrős termék esetén a „füstszűrő(s)” vagy „filter(es)” szót,
+g) füstszűrős termék esetén a „füstszűrő(s)” vagy „filter(es)” szót, és
 
-h) cigaretta esetében a kátrány, nikotin és szén-monoxid tartalom, illetve hozam számszerű értékét az Nvt. 6. § (1) bekezdés c) pontjában foglaltak szerint a következő módon:
+h) a gyártás időpontját (az év, a hónap és a nap feltüntetésével) és helyét, vagy tételszámot, illetve kódolt megjelölést, amelyből a gyártás helye és ideje megállapítható.
 
-ha) „Kátrány X mg/cigaretta” (ahol X egészre kerekített szám),
+(2) A gyűjtőcsomagon – az egészségvédő figyelmeztetésekre vonatkozó rendelkezéseken túl – az (1) bekezdés a)–f) pontja szerinti jelöléseket kell alkalmazni a csomagolási egységekre meghatározott feltételekkel.
 
-hb) „Nikotin Y mg/cigaretta” (ahol Y egy tizedesjeggyel megadott, kerekített szám),
+(3) A szállítási csomagoláson az (1) bekezdés a)–f) pontja szerinti jelöléseket kell alkalmazni.
 
-hc) „Szén-monoxid Z mg/cigaretta” (ahol Z egészre kerekített szám),
+(4) A cigaretta csomagolási egysége kartonból vagy puha anyagból készülhet, és a felpattintható vagy felhajtható (flip-top) fedélen, illetve az oldalpántos doboz csapófedelén kívül nem lehet rajta olyan nyílás, amely az első felnyitás után újrazárható. A felpattintható vagy felhajtható (flip-top), illetve csapófedelű csomagolási egységek esetében a fedél csak a doboz hátsó oldalához rögzíthető. A cigaretta csomagolási egysége kizárólag téglatest alakú lehet.
 
-i) a gyártás időpontját (az év, a hónap és a nap feltüntetésével) és helyét, vagy tételszámot, illetve kódolt megjelölést, amelyből a gyártás helye és ideje megállapítható.
+(5) A cigarettadohány csomagolása téglalap alakú tasak vagy álló tasak lehet.
 
-(2) Az 5. melléklet állapítja meg a gyártó által az Nvt. 6. § (1) bekezdés b) pontjában és e rendeletben foglaltak szerint alkalmazandó kombinált figyelmeztetést.
+(6) Ha egy termék vízipipa útján és cigarettadohányként is használható, azt cigarettadohánynak kell tekinteni.
 
-(3) A rágásra szolgáló és a tüsszentésre szolgáló dohánytermék esetében az Nvt. 6. § (1) bekezdés a) pontja szerinti általános egészségvédő figyelmeztetés helyett a fogyasztói csomagolási egységen a következő általános egészségvédő figyelmeztetést kell feltüntetni: „Ez a dohánytermék károsíthatja egészségét és függőséget okoz.”.
+(7) Mentolos ízesítésű dohánytermék csomagolásán a mentol jelzése „mentol” felirattal történhet.
+
+[^11]: A 6. § a 239/2016. (VIII. 16.) Korm. rendelet 6. §-ával megállapított szöveg.

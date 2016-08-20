@@ -1,97 +1,105 @@
-## 2. § E rendelet alkalmazásában:
+## 2. §[^2] E rendelet alkalmazásában:
 
-1. bejegyzett kereskedő: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) 7. § 16. pontjában meghatározott személy,
+1. bejegyzett kereskedő: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény (a továbbiakban: Jöt.) 7. § 16. pontjában meghatározott személy;
 
-2. dohánytermék: a 4. pont és a 9. pont szerinti termék,
+2. dohánytermék gyártásához felhasznált nyers- és adalékanyagok:
 
-3. dohánytermék gyártásához felhasznált nyers- és adalékanyagok:
+a) dohány: a dohánynövény levelei és más, feldolgozott vagy feldolgozatlan természetes részei, beleértve az expandált és a visszanyert dohányt is,
 
-a) nyersdohány: a Nicotiana tabacum fajhoz tartozó, ipari feldolgozásra alkalmas növény természetes vagy mesterséges úton szárított levele,
+aa) nyersdohány: a Nicotiana tabacum fajhoz tartozó, ipari feldolgozásra alkalmas növény természetes vagy mesterséges úton szárított levele,
 
-b) fermentált, érlelt dohány (a továbbiakban: dohány): az a nyersdohány, amelyben a szárítást követően hőfejlődés és szárazanyag-veszteség mellett olyan változások játszódtak le, amelynek következtében a dohánytermék élvezeti célra alkalmassá vált,
+ab) fermentált, érlelt dohány: az a nyersdohány, amelyben a szárítást követően hőfejlődés és szárazanyag-veszteség mellett olyan változások játszódtak le, amelynek következtében a dohánytermék élvezeti célra alkalmassá vált,
 
-c) dohányfólia: kötő- és adalékanyagok felhasználásával, szárazanyagra számítva legalább 75%-ban dohányból készült papírszerű lemez vagy szalag,
+b) dohányfólia: kötő- és adalékanyagok felhasználásával, szárazanyagra számítva legalább 75%-ban dohányból készült papírszerű lemez vagy szalag,
 
-d) dohányvágat: egyenletes szélességű szálakra vágott dohány vagy egyenletes szélességűre vágott dohányfólia,
+c) dohányvágat: egyenletes szélességű szálakra vágott dohány vagy egyenletes szélességűre vágott dohányfólia,
 
-e) cigarettapapír: olyan méretre vágott, speciális papír, amit a dohányvágat burkolására használnak,
+d) cigarettapapír: olyan méretre vágott, speciális papír, amit a dohányvágat burkolására használnak,
 
-f) dohány-adalékanyag: minden olyan természetes vagy mesterséges, a dohánytól eltérő anyag, amelyet a dohánytermékhez az előkészítés, a kezelés, a feldolgozás és a csomagolás folyamán adnak hozzá abból a célból, hogy a termék érzékszervi, kémiai, fizikai és mikrobiológiai tulajdonságait kedvezően befolyásolja, és amelynek hozzáadása azt eredményezheti, hogy önmaga vagy származéka a dohánytermék összetevőjévé válik,
+e) adalékanyag: a dohánytermékhez, annak csomagolási egységéhez vagy bármely gyűjtőcsomaghoz hozzáadott, dohánytól eltérő anyag;
 
-4. dohányzásra szánt dohányterméknek minősülnek a következő dohánytermék-típusok:
+3. dohányzásra szánt dohánytermék: a füst nélküli dohányterméktől eltérő dohánytermék, melynek típusai:
 
-a) cigaretta: dohányrúd, amely meglévő állapotában dohányzásra alkalmas, dohányvágatból vagy dohányvágatból és dohányfóliából készült töltetét hosszanti részén ragasztott cigarettapapír vagy dohányfólia borítja, és nem minősül szivarnak vagy szivarkának, továbbá az a dohányrúd, amelyet egy egyszerű, nem ipari eljárással cigarettapapír-hüvelybe tolnak vagy cigarettapapír-lappal körbevesznek,
+a) cigaretta: égési folyamat során fogyasztható dohányrúd, amely meglévő állapotában dohányzásra alkalmas, dohányvágatból vagy dohányvágatból és dohányfóliából készült töltetét hosszanti részén ragasztott cigarettapapír vagy dohányfólia borítja, és nem minősül szivarnak vagy szivarkának, továbbá az a dohányrúd, amelyet egy egyszerű, nem ipari eljárással cigarettapapír-hüvelybe tolnak vagy cigarettapapír-lappal körbevesznek,
 
-b) szivar, szivarka:
+b) szivar: égési folyamat során fogyasztható,
 
-ba) dohányrúd, amely teljes egészében természetes dohányból készült, illetve dohányrúd természetes dohányból készült borítékkal,
+ba) természetes dohánylevelekből álló külső borítékkal rendelkező dohányrúd,
 
-bb) dohányrúd kocsányozott kevert töltettel és a szivar szokásos színével megegyező külső borítékkal, amely teljesen befedi a terméket, beleértve a filtert is, amennyiben van, kivéve a szopókával ellátott terméket, ahol a külső boríték nem fedi a szopókát; a burok és a boríték dohányfóliából készült, és egy termék tömege – a filter és a szopóka nélkül – nem lehet kevesebb 1,2 g-nál, és a borítékot a dohányrúd hossztengelyével minimum 30 fokos hegyes szöget bezáróan, spirálisan tekerték fel,
+bb) a kocsányozott keverékdohányból készült szivarbélből, valamint a szivar szokásos színével megegyező színű, regenerált dohánylevélből készült, és a terméket – adott esetben a füstszűrőt is beleértve, a szopókával ellátott szivaroknál azonban a szopóka kivételével – teljesen körülölelő, külső borítékból álló dohányrúd, amely darabsúlya – füstszűrő vagy szopóka nélkül – legalább 2,3 gramm és legfeljebb 10 gramm, valamint amely hosszának legalább egyharmadánál mért kerülete eléri a 34 millimétert,
 
-bc) dohányrúd kocsányozott kevert töltettel és a szivar szokásos színével megegyező dohányfóliából készült külső borítékkal, amely teljesen befedi a terméket, beleértve a filtert is, amennyiben van, kivéve a szopókával ellátott terméket, ahol a külső boríték nem fedi a szopókát; egy termék tömege – a filter vagy a szopóka nélkül – nem kevesebb 2,3 g-nál, és a kerülete a dohányrúd hosszának legalább egyharmadán nem kevesebb 34 mm-nél,
+c) szivarka: legfeljebb 3 g súlyú szivar,
 
-c) fogyasztási dohány: a d) pont és az e) pont szerinti, további ipari feldolgozás nélkül dohányzásra alkalmas kész dohányvágat,
+d) fogyasztási dohány: az e)–g) pont szerinti, további ipari feldolgozás nélkül dohányzásra alkalmas kész dohányvágat,
 
-d) finomra vágott fogyasztási dohány (cigarettadohány): olyan fogyasztási dohány, amelyben a dohányrészecskék tömegének több mint 25 százaléka kisebb, mint 1,5 milliméter szélességűre vágott,
+e) cigarettadohány (finomra vágott fogyasztási dohány): olyan dohány, amelyet a fogyasztók cigarettakészítésre használhatnak és amelyben a dohányrészecskék tömegének több mint 25%-a kisebb, mint 1,5 milliméter szélességűre vágott,
 
-e) egyéb fogyasztási dohány (pipadohány): a d) pont alá nem tartozó, pipában történő elszívásra szolgáló fogyasztási dohány,
+f) pipadohány (egyéb fogyasztási dohány): az e) pont hatálya alá nem tartozó, égési folyamat során fogyasztható dohány, amelyet kizárólag pipában történő elszívásra szántak,
 
-f) bármely olyan egyéb termék, amelyet dohányzás céljából gyártanak, még abban az esetben is, ha csupán részben tartalmaz – akár géntechnológiával módosított formában, akár nem ilyen formában – dohányt,
+g) vízipipadohány: olyan dohánytermék, amely vízipipával fogyasztható,
 
-5. export: olyan jövedéki terméknek Európai Unión kívüli államba történő értékesítése, amelyet a vámhatóság végleges rendeltetéssel Európai Unión kívüli államba kiléptet,
+h) bármely olyan egyéb termék, amelyet dohányzás céljából gyártanak, még abban az esetben is, ha csupán részben tartalmaz – akár géntechnológiával módosított formában, akár nem ilyen formában – dohányt;
 
-6. fogyasztói csomagolási egység: a dohánytermékek kötelező csomagolása során alkalmazott legkisebb csomagolási egység:
+4. export: olyan jövedéki terméknek az Európai Unión kívüli államba történő értékesítése, amelyet a vámhatóság végleges rendeltetéssel az Európai Unión kívüli államba kiléptet;
 
-a) cigaretta esetében legalább 19 db, de legfeljebb 50 db cigarettát tartalmazó csomag,
+5. forgalomba hozatal: a termék – bármilyen módon történő – hozzáférhetővé tétele az unióbeli fogyasztók számára, tekintet nélkül a termék gyártásának helyére;
 
-b) a 4. pont b) pont ba) alpontja szerinti dohánytermék esetén darab vagy doboz,
+6. forgalomba hozó: az 5. pont szerinti tevékenységet végző gazdálkodó szervezet vagy természetes személy;
 
-c) a 4. pont b) pont bb) és bc) alpontja szerinti dohánytermék esetén legalább 5 darabot tartalmazó doboz,
+7. függőséget okozó tulajdonság: valamely anyag azon farmakológiai potenciálja, amellyel függőséget, vagyis olyan állapotot alakít ki, amely befolyásolja az egyén viselkedésének kontrollálására irányuló képességét, jellemzően valamilyen jutalom vagy a megvonási tünetek megszűnése következtében érzett megkönnyebbülés, illetve mindkettő által;
 
-d) a fogyasztási dohány esetében a legalább 40 gramm, de legfeljebb 200 gramm – de minden esetben tízzel osztható gramm-tömegű – fogyasztási dohányt tartalmazó tasak vagy doboz,
+8. füst nélküli dohánytermék: olyan dohánytermék, amelynek a felhasználása nem jár égési folyamattal, beleértve a rágódohányt, a tüsszentésre szolgáló dohányterméket és a szájon át fogyasztott dohányterméket:
 
-e) rágásra szolgáló vagy tüsszentésre szolgáló dohánytermékek esetében tasak vagy doboz,
+a) rágódohány: kizárólag rágásra szánt, füst nélküli dohánytermék,
 
-7. forgalomba hozatal: a dohánytermék továbbforgalmazók részére történő nagykereskedelmi, illetve a fogyasztók mint végső felhasználók részére történő kiskereskedelmi értékesítése,
+b) tüsszentésre szolgáló dohánytermék: az orron át fogyasztható, füst nélküli dohánytermék,
 
-8. forgalomba hozó: a 7. pont szerinti tevékenységet végző gazdálkodó szervezet vagy természetes személy,
+c) szájon át fogyasztott dohánytermék: a belélegzésre vagy rágásra szánt dohánytermékeken kívül minden szájon át való használatra szánt, teljes egészében vagy részben dohányból készült, porított vagy szemcsés, illetve e formák bármely kombinációja révén előállított dohánytermék;
 
-9. füst nélküli dohányterméknek minősülnek a következő dohánytermék-típusok:
+9. füstszűrő: a cigaretta, szivar, szivarka azon része, amely a dohányterméken áthaladó főfüst szűrésére szolgál;
 
-a) rágásra szolgáló dohánytermék: a formázott rágódohány,
+10. gyártó: az a természetes vagy jogi személy, amely terméket gyárt, illetve amely az adott terméket tervezteti vagy legyártatja, és a saját neve vagy kereskedelmi védjegye alatt forgalomba hozza;
 
-b) tüsszentésre szolgáló dohánytermék: a por alakú burnót,
+11. idegen anyag: a termesztés és feldolgozás során a nyersanyagba, illetve a késztermékbe került, egyszerű fizikai módszerekkel elkülöníthető, nem dohány eredetű anyag;
 
-c) szájon át fogyasztott dohánytermék: a dohányzásra, illetve rágásra szánt termékeken kívül minden szájon át való használatra szánt, teljes egészében vagy részben dohányból készült, porított vagy szemcsés, illetve e két forma bármely kombinációja révén előállított termék, különösen a zacskóban vagy likacsos szerkezetű zacskóban, valamint az élelmiszerhez hasonló formában kiszerelt termék,
+12. importálás: a Jöt. 7. § 2. pontjában meghatározott fogalom;
 
-10. füstszűrő: a cigaretta, szivar, szivarka azon része, amely a dohányterméken áthaladó főfüst szűrésére szolgál,
+13. importáló: a Jöt. 7. § 29. pontjában meghatározott fogalom;
 
-11. gyűjtőcsomag: több fogyasztói csomagolási egységet tartalmazó, kiskereskedelmi forgalomban értékesített nagyobb csomagolási egység,
+14. ízesítés: illatot, ízt vagy illatot és ízt kölcsönző adalékanyag;
 
-12. idegen anyag: a termesztés és feldolgozás során a nyersanyagba, illetve a késztermékbe került, egyszerű fizikai módszerekkel elkülöníthető, nem dohány eredetű anyag,
+15. jellegzetes ízesítés: a dohánytól eltérő, adalékanyag vagy adalékanyagok kombinációjának használatából adódó, egyértelműen észlelhető – többek között gyümölcs, fűszer, gyógynövény, alkohol, cukorka, mentol vagy vanília – illat vagy íz, amely a dohánytermék fogyasztása előtt vagy során érzékelhető;
 
-13. importálás: a Jöt. 7. § 2. pontjában meghatározott fogalom,
+16. kátrány: a nikotinmentes száraz füst-kondenzátum;
 
-14. importáló: az a személy, aki – a Jöt. rendelkezéseinek betartása mellett – először szerez jogot arra, hogy az importált termék felett saját nevében rendelkezzen,
+17. kibocsátások: olyan anyagok, amelyek a dohánytermék vagy – a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló 2012. évi CXXXIV. törvény 3. § 2. pontja szerinti – dohányterméket kiegészítő termék rendeltetésszerű felhasználása során szabadulnak fel, mint például a füstben előforduló anyagok vagy a füst nélküli dohánytermékek felhasználása során felszabaduló anyagok;
 
-15. kátrány: a nikotinmentes száraz füst-kondenzátum,
+18. legmagasabb kibocsátási szint: egy adott anyagnak a dohánytermékben található, milligrammban mért maximális tartalma vagy kibocsátása (beleértve a nullát is);
 
-16. nikotin: a száraz füst-kondenzátum nikotin-alkaloidtartalma,
+19. nikotin: a nikotinalkaloid-tartalom;
 
-17. összetevő: bármely olyan anyag vagy alkotóelem – kivéve a dohánylevelet vagy a dohánynövény egyéb természetes vagy feldolgozott részét –, amelyet egy dohánytermék gyártásához használnak fel, és amely a késztermékben – akár megváltozott formában – van jelen, beleértve a papírt, a füstszűrőt, a nyomdafestéket és a ragasztóanyagokat is,
+20. nikotin tartalmú folyadék: az elektronikus cigaretta használata során felhasznált, illetve annak utántöltésére szolgáló folyadék, amely bármilyen kis mennyiségben nikotint tartalmaz;
 
-18. szabadforgalomba bocsátás: a Jöt. 7. § 22. pontjában meghatározott fogalom,
+21. összetevő: dohány, adalékanyag, valamint a kész dohánytermékben vagy kapcsolódó termékben jelen lévő anyagok vagy alkotóelemek, beleértve a papírt, a füstszűrőt, a nyomdafestéket, a kapszulákat és a ragasztóanyagokat is;
 
-19. szállítási csomagolás: a termék szállításához kialakított, de kiskereskedelmi forgalomba nem kerülő csomagolás,
+22. szabadforgalomba bocsátás: a Jöt. 7. § 22. pontjában meghatározott fogalom;
 
-20. személyes fogyasztás: a dohánytermék nem kereskedelmi jelleggel, magánszemély által történő, a Jöt. szerinti adómentes behozatala,
+23. szállítási csomagolás: a termék szállításához kialakított, de kiskereskedelmi forgalomba nem kerülő csomagolás;
 
-21. szén-monoxid: a cigarettafüst gázfázisának alkotórésze,
+24. személyes fogyasztás: a dohánytermék nem kereskedelmi jelleggel, magánszemély által történő, a Jöt. szerinti adómentes behozatala;
 
-22. szopóka: a cigarettához, szivarhoz, szivarkához rögzített rész, amely közvetlenül a szájjal érintkezik,
+25. szén-monoxid: a cigarettafüst gázfázisának alkotórésze;
 
-23. tároló adóraktár engedélyese: a Jöt. 100. § (1) bekezdés d) pontja szerinti dohánytároló adóraktár engedélyese,
+26. szopóka: a cigarettához, szivarhoz, szivarkához, elektronikus cigarettához, dohányzást imitáló elektronikus eszközhöz rögzített rész, amely közvetlenül a szájjal érintkezik;
 
-24.[^1] nikotin tartalmú folyadék: az elektronikus cigaretta használata során felhasznált, illetve annak utántöltésére szolgáló folyadék, amely bármilyen kis mennyiségben nikotint tartalmaz.
+27. adóraktár engedélyese: a Jöt. 100. § (1) bekezdés d) pontja szerinti dohánytároló adóraktár engedélyese;
 
-[^1]: A 2. § 24. pontját a 413/2015. (XII. 23.) Korm. rendelet 48. §-a iktatta be.
+28. toxicitás: az adott anyag által az emberi szervezetben potenciálisan okozott káros hatás mértéke, beleértve a bizonyos idő bekövetkeztével, megismételt vagy folyamatos fogyasztás vagy expozíció folyamán okozott hatásokat;
+
+29. új dohánytermék-kategóriák: olyan dohánytermék,
+
+a) amely nem tartozik a következő kategóriák egyikébe sem: cigaretta, cigarettadohány, pipadohány, vízipipadohány, szivar, szivarka, rágódohány, tüsszentésre szolgáló dohánytermék vagy szájon át fogyasztott dohánytermék, és
+
+b) amelyet 2014. május 19-e után hoznak forgalomba.
+
+[^2]: A 2. § a 239/2016. (VIII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
-3. melléklet a 39/2013. (II. 14.) Korm. rendelethez
+3. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^55]
 
-Új adalékanyag dohánytermék-gyártásban való felhasználása iránti engedélykérelem tartalma
+Új adalékanyag dohánytermék-gyártásban való felhasználásával kapcsolatos bejelentés tartalma
 
 1. Általános adatok
 
@@ -32,6 +32,8 @@
 
 4. Az adalékanyag ártalmatlanságát igazoló adatok, például JECFA értékelés, EC SCF állásfoglalás, aromaanyagok esetén FEMA GRAS, I.O.F.I. vagy CE listák
 
+4/a. Ha a 4. pont szerinti értékelések nem tartalmazzák, az adalékanyag és égéstermékeinek toxikológiai tulajdonságaira vonatkozó adatok, különös tekintettel a rákkeltő, valamint szívet, tüdőt és reprodukciót károsító hatásokra.
+
 5. Hazai gyártású adalékanyag vagy adalékanyag keverék esetén a gyártás technológiai leírása, a felhasznált anyagok tisztasága, keverék adalékanyag esetén az összetevők felsorolása, az adalékanyag-komponensek mennyisége
 
 6. Az adalékanyag vizsgálatra alkalmas mennyiségű mintája
@@ -47,3 +49,5 @@
 | EC SCF: | EC Scientific Committeeon Food (az Európai Tanács Élelmiszer Tudományos Bizottsága) |
 
 | I.O.F.I.: | International Organization of the Flavour Industry (Aromaipari Nemzetközi Szervezet) |
+
+[^55]: A 3. melléklet a 239/2016. (VIII. 16.) Korm. rendelet 19. § (2) bekezdése szerint módosított szöveg.
