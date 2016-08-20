@@ -66,6 +66,6 @@
 
 | 6. | Ha az út a kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott vagy védetté nyilvánított régészeti lelőhelyen, régészeti védőövezet területén, műemléki területen vagy nyilvántartott műemléki érték vagy műemlék telkén valósul meg. | Annak elbírálása kérdésében, hogy a tervezett út, építmény, tevékenység a kulturális örökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. |
 
-4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^325]
+4. melléklet a 263/2006. (XII. 20.) Korm. rendelethez[^327]
 
-[^325]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 13. §-a, a 259/2011. (XII. 7.) Korm. rendelet 18. § (4)–(5) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 17. § (2) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 22. § f) pontja, a 86/2013. (III. 21.) Korm. rendelet 3. § (2) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdés b) pontja, a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 32–33. pontja szerint módosított szöveg.
+[^327]: A 4. mellékletet a 362/2008. (XII. 31.) Korm. rendelet 24. § (2) bekezdése iktatta be, szövege a 326/2010. (XII. 27.) Korm. rendelet 13. §-a, a 259/2011. (XII. 7.) Korm. rendelet 18. § (4)–(5) bekezdése, a 23/2012. (II. 29.) Korm. rendelet 17. § (2) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 22. § f) pontja, a 86/2013. (III. 21.) Korm. rendelet 3. § (2) bekezdése, az 527/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdés b) pontja, a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 32–33. pontja szerint módosított szöveg.

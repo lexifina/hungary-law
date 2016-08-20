@@ -65,3 +65,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-263-20-
 | 2016-06-13 | 2006-263-20-22.70 | 135/2016. (VI. 10.) Korm. rendelet |
 | 2016-07-14 | 2006-263-20-22.71 | 192/2016. (VII. 13.) Korm. rendelet |
 | 2016-08-06 | 2006-263-20-22.72 | 219/2016. (VII. 22.) Korm. rendelet |
+| 2016-08-20 | 2006-263-20-22.73 | 246/2016. (VIII. 17.) Korm. rendelet |
