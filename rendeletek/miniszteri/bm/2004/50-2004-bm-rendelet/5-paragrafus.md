@@ -1,0 +1,1 @@
+## bevételét képezi.

@@ -2,4 +2,4 @@
 
 1. számú melléklet az 50/2004. (VIII. 31.) BM rendelethez[^9]
 
-[^9]: Az 1. számú melléklet a 25/2012. (V. 11.) BM rendelet 8. § d) pontja és 9. §-a szerint módosított szöveg.
+[^9]: Az 1. számú melléklet a 25/2012. (V. 11.) BM rendelet 8. § d) pontja és 9. §-a, a 32/2016. (VII. 20.) BM rendelet 3. § a) pontja szerint módosított szöveg.
