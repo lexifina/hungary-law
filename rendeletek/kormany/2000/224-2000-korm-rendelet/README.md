@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2000-224-20-
 | 2014-12-31 | 2000-224-20-22.20 | 342/2011. (XII. 29.) Korm. rendelet |
 | 2015-01-01 | 2000-224-20-22.21 | 362/2014. (XII. 30.) Korm. rendelet |
 | 2016-01-01 | 2000-224-20-22.22 | 484/2015. (XII. 29.) Korm. rendelet |
+| 2016-08-22 | 2000-224-20-22.23 | 216/2016. (VII. 22.) Korm. rendelet |

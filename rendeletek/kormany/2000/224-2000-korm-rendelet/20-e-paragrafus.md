@@ -1,6 +1,6 @@
-## Az eredménykimutatás tartalma, tagolása[^105]
+## Az eredménykimutatás tartalma, tagolása[^108]
 
-20/E. §[^106] (1) Az Integrációs Szervezet eredménykimutatásának előírt tagolását a 7. számú melléklet tartalmazza.
+20/E. §[^109] (1) Az Integrációs Szervezet eredménykimutatásának előírt tagolását a 7. számú melléklet tartalmazza.
 
 (2) Tagdíj bevételként kell elszámolni a tagintézetek által a tárgyévi üzleti évben fizetendő tagdíjak összegét.
 
@@ -12,5 +12,5 @@
 
 (6) A tárgyévet követő üzleti évben az Integrációs Szervezet tárgyévi eredményének összegét tartalékot módosító tételként kell elszámolni.
 
-[^105]: A 20/E. §-t megelőző alcímet a 484/2015. (XII. 29.) Korm. rendelet 49. §-a iktatta be.
-[^106]: A 20/E. §-t a 484/2015. (XII. 29.) Korm. rendelet 49. §-a iktatta be.
+[^108]: A 20/E. §-t megelőző alcímet a 484/2015. (XII. 29.) Korm. rendelet 49. §-a iktatta be.
+[^109]: A 20/E. §-t a 484/2015. (XII. 29.) Korm. rendelet 49. §-a iktatta be.

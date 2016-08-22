@@ -1,4 +1,4 @@
-20/C. §[^102] (1) Az Integrációs Szervezet saját tőkéje a jegyzett tőkét, a tartalékot, a lekötött tartalékot, az értékelési tartalékot és a tárgyévi eredményt foglalja magában.
+20/C. §[^105] (1) Az Integrációs Szervezet saját tőkéje a jegyzett tőkét, a tartalékot, a lekötött tartalékot, az értékelési tartalékot és a tárgyévi eredményt foglalja magában.
 
 (2) Az Integrációs Szervezet jegyzett tőkéje
 
@@ -26,4 +26,4 @@ c) a jegyzett tőke leszállítása során a (4) bekezdés alapján átvezetett 
 
 (9) Egyéb rövid lejáratú kötelezettségként kell kimutatni az olyan rövid lejáratú kötelezettségeket, amelyeket a 6. számú melléklet szerinti mérlegben nem kell külön tételként szerepeltetni.
 
-[^102]: A 20/C. §-t a 484/2015. (XII. 29.) Korm. rendelet 53. § 4. pontja hatályon kívül helyezte, újonnan a 49. §-a iktatta be.
+[^105]: A 20/C. §-t a 484/2015. (XII. 29.) Korm. rendelet 53. § 4. pontja hatályon kívül helyezte, újonnan a 49. §-a iktatta be.

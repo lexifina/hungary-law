@@ -1,6 +1,6 @@
-## A mérleg tagolása, tételeinek tartalma[^100]
+## A mérleg tagolása, tételeinek tartalma[^103]
 
-20/B. §[^101] (1) A mérleg előírt tagolását a 6. számú melléklet tartalmazza.
+20/B. §[^104] (1) A mérleg előírt tagolását a 6. számú melléklet tartalmazza.
 
 (2) Tagintézetekkel szembeni követelésként kell kimutatni az Integrációs Szervezet tagjai (a továbbiakban: tagintézetek) által fizetendő, még nem teljesített tagdíjak összegét.
 
@@ -14,5 +14,5 @@
 
 (7) Egyéb értékpapírok között kell kimutatni a tagintézet felszámolása során az Integrációs Szervezet kezességvállalását fedező jogi biztosíték érvényesítése útján az Integrációs Szervezet tulajdonába került kötvények, részvények és egyéb értékpapírok értékének összegét is.
 
-[^100]: A 20/B. §-t megelőző alcímet a 484/2015. (XII. 29.) Korm. rendelet 49. §-a iktatta be.
-[^101]: A 20/B. §-t a 484/2015. (XII. 29.) Korm. rendelet 53. § 4. pontja hatályon kívül helyezte, újonnan a 49. §-a iktatta be.
+[^103]: A 20/B. §-t megelőző alcímet a 484/2015. (XII. 29.) Korm. rendelet 49. §-a iktatta be.
+[^104]: A 20/B. §-t a 484/2015. (XII. 29.) Korm. rendelet 53. § 4. pontja hatályon kívül helyezte, újonnan a 49. §-a iktatta be.

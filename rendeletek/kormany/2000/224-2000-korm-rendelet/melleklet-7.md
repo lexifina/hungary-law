@@ -128,7 +128,7 @@
 
 ## FORRÁSOK (PASSZÍVÁK)
 
-7. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^133]
+7. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^141]
 
 A Szövetkezeti Hitelintézetek Integrációs Szervezet eredménykimutatásának tagolása
 
@@ -166,4 +166,4 @@ VI. Működési költségek (06+07+08)
 
 A. Tárgyévi eredmény (I+II+III-IV-V-VI)
 
-[^133]: A 7. számú mellékletet a 484/2015. (XII. 29.) Korm. rendelet 52. § (4) bekezdése iktatta be.
+[^141]: A 7. számú mellékletet a 484/2015. (XII. 29.) Korm. rendelet 52. § (4) bekezdése iktatta be.

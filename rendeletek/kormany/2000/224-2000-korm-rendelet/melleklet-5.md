@@ -54,6 +54,6 @@
 
 ## Források összesen
 
-5. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^131]
+5. számú melléklet a 224/2000. (XII. 19.) Korm. rendelethez[^139]
 
-[^131]: Az 5. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 52. § (2) bekezdésével megállapított szöveg.
+[^139]: Az 5. számú melléklet a 484/2015. (XII. 29.) Korm. rendelet 52. § (2) bekezdésével megállapított szöveg.
