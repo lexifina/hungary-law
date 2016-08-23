@@ -40,9 +40,7 @@ Munkavállaló adatai:
 
 11. Tartózkodási helye:
 
-Munkaviszonyra (közalkalmazotti, közszolgálati, kormányzati szolgálati jogviszonyra, bírósági és igazságügyi, valamint ügyészségi szolgálati viszonyra, a közfoglalkoztatási jogviszonyra, a biztosított bedolgozói – és az 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszonyra, a hivatásos nevelőszülői jogviszonyra, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonyára – ide nem értve az iskolai szövetkezet nappali tagozatos tanuló, hallgató tagját – a Magyar Honvédség, rendvédelmi szervek és nemzetbiztonsági szolgálatok hivatásos és szerződéses állományú tagjának szolgálati viszonyára)
-
-vonatkozó adatok:
+Munkaviszonyra (közalkalmazotti, közszolgálati, kormányzati szolgálati, állami szolgálati jogviszonyra, bírói szolgálati viszonyra, igazságügyi alkalmazottak szolgálati jogviszonyára, valamint ügyészségi szolgálati viszonyra, a közfoglalkoztatási jogviszonyra, a biztosított bedolgozói – és az 1994. június 1-jét megelőzően létesített – ezzel egy tekintet alá eső bedolgozói jogviszonyra, a hivatásos nevelőszülői jogviszonyra, a szövetkezeti tag munkaviszony jellegű munkavégzésre irányuló jogviszonyára – ide nem értve az iskolai szövetkezet nappali tagozatos tanuló, hallgató tagját –, a hivatásos és szerződéses állományú katonák szolgálati viszonyára, a rendvédelmi feladatokat ellátó szervek hivatásos állományú tagjának szolgálati viszonyára) vonatkozó adatok:
 
 12. Munkaköre (FEOR szerinti besorolásban):
 
@@ -112,4 +110,4 @@ Ebben a részben a munkaviszony ideje alatt igénybe vett 30 napot meghaladó m�
 [^3]: A 3. § (3) bekezdése a 16/2011. (IV. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^4]: A 3. § (4) bekezdését az (5) bekezdés hatályon kívül helyezte.
 [^5]: A 3. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
-[^6]: A melléklet a 35/2012. (XII. 14.) NGM rendelet 2. §-ával megállapított, a 66/2013. (XII. 23.) NGM rendelet 19. §-a szerint módosított szöveg.
+[^6]: A melléklet a 35/2012. (XII. 14.) NGM rendelet 2. §-ával megállapított, a 66/2013. (XII. 23.) NGM rendelet 19. §-a, a 27/2016. (VIII. 22.) NGM rendelet 2. §-a szerint módosított szöveg.
