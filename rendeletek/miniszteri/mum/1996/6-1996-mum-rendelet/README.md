@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-6-20-39
 | 2014-01-01 | 1996-6-20-39.35 | 66/2013. (XII. 23.) NGM rendelet |
 | 2015-03-31 | 1996-6-20-39.36 | 8/2015. (III. 30.) NGM rendelet |
 | 2015-04-01 | 1996-6-20-39.37 | 9/2015. (III. 31.) NGM rendelet |
+| 2016-08-23 | 1996-6-20-39.38 | 27/2016. (VIII. 22.) NGM rendelet |

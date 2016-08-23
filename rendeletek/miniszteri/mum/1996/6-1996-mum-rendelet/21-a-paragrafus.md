@@ -2,7 +2,7 @@
 
 ## A csoportos létszámleépítés hátrányos következményeinek enyhítését célzó támogatás
 
-21/A. §[^151] (1)[^152] A Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből támogatás nyújtható az Mt., a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény, a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény, valamint a honvédek jogállásáról szóló 2012. évi CCV. törvény hatálya alá tartozó munkaadó részére az előzőekben felsorolt törvényekben szabályozott, általa végrehajtandó csoportos létszámcsökkentésnek a munkavállalókat, köztisztviselőket, kormánytisztviselőket, közalkalmazottakat, továbbá hivatásos és szerződéses katonákat (ezen alcím alkalmazásában a továbbiakban együtt: munkavállalók) érintő hátrányos következményei enyhítéséhez.
+21/A. §[^151] (1)[^152] A Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből támogatás nyújtható az Mt., a közszolgálati tisztviselőkről szóló törvény, az állami tisztviselőkről szóló törvény, a közalkalmazottak jogállásáról szóló törvény, a honvédek jogállásáról szóló törvény, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó munkaadó részére az előzőekben felsorolt törvényekben szabályozott, általa végrehajtandó csoportos létszámcsökkentésnek a munkavállalót, köztisztviselőt, közszolgálati ügykezelőt, kormánytisztviselőt, kormányzati ügykezelőt, állami tisztviselőt, állami ügykezelőt, közalkalmazottat, hivatásos és szerződéses állományú katonát, továbbá a rendvédelmi feladatokat ellátó szervek hivatásos állománya tagját (ezen alcím alkalmazásában a továbbiakban együtt: munkavállaló) érintő hátrányos következményei enyhítéséhez.
 
 (2) Az (1) bekezdésben meghatározott támogatás feltétele, hogy a munkaadó
 
@@ -16,24 +16,24 @@ d)[^154] hogy vállalja, a MEB működése alatt, valamint a tevékenységének 
 
 (3)[^155] A munkaadó részére a csoportos létszámleépítésben érintett telephelyen (telephelyeken) létrehozandó MEB (MEB-ek) működéséhez, legfeljebb tizenkét hónapra történő felhasználásra, bizottságonként legfeljebb egymillió forint vissza nem térítendő támogatás adható. A járási hivatal a támogatás mértékét a térség munkaerőpiaci helyzetétől, a csoportos létszámleépítésében érintett munkavállalók számától és az e célra rendelkezésre álló pénzügyi keret nagyságától függően határozza meg.
 
-(4)[^156] A támogatás iránti kérelmet a munkaadó a munkaviszony, közszolgálati jogviszony, közalkalmazotti jogviszony, a Magyar Honvédség hivatásos és szerződéses állományú tagjának szolgálati viszonya megszüntetésére vonatkozó intézkedésének a csoportos létszámleépítésben érintett első munkavállalóval történő közléséig, illetve az első munkavállalóval történő megállapodás megkötéséig nyújthatja be a létszámcsökkentéssel érintett telephelye(i) szerint illetékes járási hivatalhoz. A kérelemnek tartalmaznia kell a munkaadó
+(4)[^156] A támogatás iránti kérelmet a munkaadó a munkaviszony, közszolgálati jogviszony, kormányzati szolgálati jogviszony, állami szolgálati jogviszony, közalkalmazotti jogviszony, a hivatásos és szerződéses állományú katonák szolgálati viszonya, valamint a hivatásos szolgálati jogviszony megszüntetésére vonatkozó intézkedésének a csoportos létszámleépítésben érintett első munkavállalóval történő közléséig, illetve az első munkavállalóval történő megállapodás megkötéséig nyújthatja be a létszámcsökkentéssel érintett telephelye (telephelyei) szerint illetékes járási hivatalhoz. A kérelemnek tartalmaznia kell a munkaadó
 
-a) adatait [neve, székhelye, csoportos létszámleépítéssel érintett telephelye(i), címe, adószáma, ágazati kódja],
+a) adatait [neve, székhelye, csoportos létszámleépítéssel érintett telephelye (telephelyei), címe, adószáma, ágazati kódja],
 
 b) nyilatkozatát a MEB létesítéséről,
 
-c) a MEB működéséhez biztosított hozzájárulásának formáját és mértékét,
+c) MEB működéséhez biztosított hozzájárulásának formáját és mértékét,
 
-d) a csoportos létszámleépítésben érintett munkavállalók számára nyújtandó szolgáltatásokra vonatkozó terveit, továbbá
+d) csoportos létszámleépítésben érintett munkavállalók számára nyújtandó szolgáltatásokra vonatkozó terveit, továbbá
 
-e) a MEB működtetésére, valamint az általa szervezett programokra készített előzetes költségvetést.
+e) által a MEB működtetésére, valamint az általa szervezett programokra készített előzetes költségvetést.
 
 (5) A támogatás iránti kérelemhez mellékelni kell a (2) bekezdés a) pontjában meghatározott konzultációban résztvevők részére megküldött írásos tájékoztatót, valamint a konzultációban résztvevők által, a EB létrehozására megkötött előzetes együttműködési megállapodást.
 
 [^150]: A 21. §-t a 3/2007. (II. 9.) SZMM rendelet 25. § (1) bekezdésének b) pontja hatályon kívül helyezte, újonnan a 3/2009. (II. 18.) SZMM rendelet 10. §-a iktatta be, újból hatályon kívül helyezte a 66/2013. (XII. 23.) NGM rendelet 16. § f) pontja.
 [^151]: A 21/A. §-t és a megelőző címet a 6/1998. (III. 4.) MüM rendelet 8. §-a iktatta a szövegbe.
-[^152]: A 21/A. § (1) bekezdése a 66/2013. (XII. 23.) NGM rendelet 8. §-ával megállapított szöveg.
+[^152]: A 21/A. § (1) bekezdése a 27/2016. (VIII. 22.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^153]: A 21/A. § (2) bekezdés b) pontja a 9/2015. (III. 31.) NGM rendelet 7. § c) pontja szerint módosított szöveg.
 [^154]: A 21/A. § (2) bekezdésének d) pontja a 20/2005. (X. 27.) FMM rendelet 12. §-ával megállapított, a 9/2015. (III. 31.) NGM rendelet 7. § d) pontja szerint módosított szöveg.
 [^155]: A 21/A. § (3) bekezdése a 9/2015. (III. 31.) NGM rendelet 7. § h) pontja szerint módosított szöveg.
-[^156]: A 21/A. § (4) bekezdés első mondata a 6/2002. (XI. 28.) FMM rendelet 8. § (2) bekezdésével megállapított, a 9/2015. (III. 31.) NGM rendelet 7. § i) pontja szerint módosított szöveg.
+[^156]: A 21/A. § (4) bekezdése a 27/2016. (VIII. 22.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
