@@ -1,0 +1,1 @@
+Az illetékekről szóló 1990. évi XCIII. törvény 100. § (1) bekezdés b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
