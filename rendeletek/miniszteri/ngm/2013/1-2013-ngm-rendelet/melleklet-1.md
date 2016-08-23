@@ -22,7 +22,7 @@ Jelenlegi munkahelye (szervezeti egység megnevezésével, nyugdíj mellett vál
 
 Munkaköre vagy beosztása:
 
-Kormánytisztviselő/köztisztviselő esetén besorolása:
+Kormánytisztviselő/köztisztviselő/állami tisztviselő esetén besorolása:
 
 Lakcíme:
 
@@ -45,4 +45,4 @@ Javaslattevő munkahelye:
 Javaslattevő aláírása:
 
 [^20]: A 13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^21]: Az 1. melléklet a 31/2014. (X. 18.) NGM rendelet 5. §-ával megállapított szöveg.
+[^21]: Az 1. melléklet a 31/2014. (X. 18.) NGM rendelet 5. §-ával megállapított, a 27/2016. (VIII. 22.) NGM rendelet 3. §-a szerint módosított szöveg.
