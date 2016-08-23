@@ -1,0 +1,1 @@
+## megvalósuló beruházással (a továbbiakban együtt: beruházás) összefüggő, az 1. mellékletben felsorolt közigazgatási hatósági ügyeket, amelyek az Operaház műszaki, gépészeti korszerűsítésének és homlokzati felújításának megvalósításához, az átadásához és a működés megkezdéséhez szükségesek.
