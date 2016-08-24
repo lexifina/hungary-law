@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1992-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-12-28 | 2015-1992-30-22.1 | 1992/2015. (XII. 28.) Korm. határozat |
+| 2016-08-24 | 2015-1992-30-22.2 | 1130/2017. (III. 20.) Korm. határozat |

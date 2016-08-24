@@ -22,24 +22,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a 4. pont szerinti forrás biztosítását követően azonnal
 
-6. felhívja
+6–7.[^2]
 
-a) a nemzetgazdasági minisztert, hogy vizsgálja meg a projekt megvalósításának Terület- és Településfejlesztési Operatív Program, illetve Gazdaságfejlesztési és Innovációs Operatív Program keretében rendelkezésre álló uniós fejlesztési forrásokból történő további támogatásának lehetőségét,
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: 2016. január 31.
-
-b) a belügyminisztert, hogy a 2015. évi Milánói Világkiállításon való magyar részvétellel kapcsolatos összkormányzati feladatok végrehajtása koordinációjának ellátásáért felelős kormánybiztos és a Karcag Városi Önkormányzat bevonásával vizsgálja meg a projekt önkormányzati forrásból történő részbeni támogatásának lehetőségét;
-
-Felelős: belügyminiszter
-
-a 2015. évi Milánói Világkiállításon való magyar részvétellel kapcsolatos összkormányzati feladatok végrehajtása koordinációjának ellátásáért felelős kormánybiztos
-
-Határidő: 2016. január 31.
-
-7. felhívja a 2015. évi Milánói Világkiállításon való magyar részvétellel kapcsolatos összkormányzati feladatok végrehajtása koordinációjának ellátásáért felelős kormánybiztost, hogy – a magyar pavilon iránti kiemelt érdeklődésre tekintettel – vizsgálja meg a pavilon további helyszíneken történő, központi költségvetési forrás felhasználását nem igénylő újraépítésének lehetőségét és módját, valamint a vizsgálat eredményének megfelelően készítsen előterjesztést a Kormány részére.
-
-Felelős: a 2015. évi Milánói Világkiállításon való magyar részvétellel kapcsolatos összkormányzati feladatok végrehajtása koordinációjának ellátásáért felelős kormánybiztos
-
-Határidő: 2016. január 31.
+[^2]: A 6–7. pontot az 1456/2016. (VIII. 24.) Korm. határozat 5. pontja visszavonta.
