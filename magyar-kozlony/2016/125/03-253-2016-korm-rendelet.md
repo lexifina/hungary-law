@@ -1,0 +1,127 @@
+# A Kormány 253/2016. (VIII. 24.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 125. szám, 2016. augusztus 24. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/0c77a93d626e7f0c596285c06d8cba7faa687dad/dokumentumok/86fd7392930b80bc6d4e1c78b94e8cfa058e60cb/letoltes)
+
+---
+
+A Kormány 253/2016. (VIII. 24.) Korm. rendelete
+egyes kormányrendeleteknek a Türr István Képző és Kutató Intézet megszűnésével összefüggő
+módosításáról
+A Kormány
+az Alaptörvény 15. cikk (3) bekezdésében meghatározott eredeti jogalkotói hatáskörében eljárva,
+a 2. alcím tekintetében a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvény
+47. § (3) bekezdésében és 57/B. § (8) bekezdésében kapott felhatalmazás alapján,
+a 3. alcím tekintetében az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvény
+64/B. § (1)–(3) bekezdésében kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az egyes költségvetési szervek központi hivatali jogállásáról szóló 259/2010. (XI. 16.) Korm. rendelet
+módosítása
+1. § (1) Az egyes költségvetési szervek központi hivatali jogállásáról szóló 259/2010. (XI. 16.) Korm. rendelet
+(a továbbiakban: Rendelet1.) 3/B. §-a helyébe a következő rendelkezés lép:
+„3/B. § A Támogatáskezelő ellátja a jogszabályban meghatározott elkülönített állami pénzalap és a miniszter által
+megjelölt vagy jogszabály alapján kijelölt fejezeti kezelésű előirányzatok, ösztöndíjak és más programok pályázati,
+illetve más úton történő felhasználásának társadalompolitikai koordinációjával, előkészítésével, lebonyolításával
+és ellenőrzésével kapcsolatos feladatokat, valamint – szükség szerint – közreműködik az európai uniós forrásból
+támogatott fejlesztések tervezésében, előkészítésében, megvalósításában, elszámolásában és lezárásában.”
+(2) A Rendelet1. 2. alcíme a következő 3/D. §-sal egészül ki:
+„3/D. § A Támogatáskezelő ellátja az EFOP 3.1.4. Útravaló Ösztöndíj és mentorálási támogatás hátrányos
+helyzetű tanulóknak – Útravaló ösztöndíjprogram megnevezésű kiemelt projekt tekintetében a 2014–2020
+programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről
+szóló 272/2014. (XI. 5.) Korm. rendeletben a kedvezményezettnek előírt feladatokat, a kapcsolódó jogok és
+kötelezettségek tekintetében a Türr István Képző és Kutató Intézet jogutódja.”
+2. A Foglalkoztatási és Közfoglalkoztatási Adatbázisról szóló 169/2011. (VIII. 24.) Korm. rendelet
+módosítása
+2. §
+A Foglalkoztatási és Közfoglalkoztatási Adatbázisról szóló 169/2011. (VIII. 24.) Korm. rendelet
+a) 9. § (2) bekezdésében a „Türr István Képző és Kutató Intézet igazgatóságai (a továbbiakban: igazgatóság)”
+szövegrész helyébe a„Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: SZGYF)”szöveg,
+b) 9. § (3) bekezdésében az„igazgatóság”szövegrész helyébe az„SZGYF”szöveg,
+c) 10. § (2) bekezdésében a „kisebbségi önkormányzat” szövegrész helyébe a „nemzetiségi önkormányzat”
+szöveg
+lép.
+3. A helyi esélyegyenlőségi programok elkészítésének szabályairól és az esélyegyenlőségi mentorokról
+szóló 321/2011. (XII. 27.) Korm. rendelet módosítása
+3. §
+A helyi esélyegyenlőségi programok elkészítésének szabályairól és az esélyegyenlőségi mentorokról szóló
+321/2011. (XII. 27.) Korm. rendelet
+a) 2. § (1) bekezdésében a „Türr István Képző és Kutató Intézet (a továbbiakban: TKKI)” szövegrész helyébe
+a„Szociális és Gyermekvédelmi Főigazgatóság (a továbbiakban: SZGYF)”szöveg,
+b) 2. § (2) bekezdésében, 7. § (3) bekezdésében és 8. § (2) bekezdésében az „A TKKI” szövegrész helyébe
+az„Az SZGYF”szöveg,
+c) 2. § (3) bekezdésében és 7. § (1) bekezdés c) pontjában az„a TKKI”szövegrészek helyébe az„az SZGYF”szöveg,
+d) 3. §-ában, 6. § (4) bekezdésében, 7. § (3) bekezdésében, 8. § (1)–(3) bekezdésében az „a TKKI” szövegrész
+helyébe az„az SZGYF”szöveg
+lép.
+
+4. A Szociális és Gyermekvédelmi Főigazgatóságról szóló 316/2012. (XI. 13.) Korm. rendelet módosítása
+4. §
+A Szociális és Gyermekvédelmi Főigazgatóságról szóló 316/2012. (XI. 13.) Korm. rendelet (a továbbiakban:
+Rendelet2.) 5. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A Főigazgatóság a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló 1991. évi IV. törvényben,
+valamint az egyenlő bánásmódról és az esélyegyenlőség előmozdításáról szóló 2003. évi CXXV. törvényben foglaltak
+érvényre juttatása céljából ellátja a társadalmi felzárkózás képzési, szervezési és területi módszertani feladatait.
+Ennek keretében
+a) az esélyegyenlőség fejlesztése érdekében
+aa) támogatja a települési önkormányzatokat a helyi esélyegyenlőségi programjuk, illetve esélyteremtő
+programtervük tervezésében, felülvizsgálatában és megvalósításában, nyilvántartja a helyi és járási szintű
+esélyegyenlőségi programokat, továbbá támogatja a fővárosi és megyei kormányhivatalokat az esélyegyenlőségi
+programokkal kapcsolatos feladataik ellátásában,
+ab) működteti az országos esély-hálózatot,
+ac) szakmai támogatást nyújt a kedvezményezett járások és települések részére a fejlesztésre meghirdetett
+társadalomfejlesztési, modernizációs és egyéb – hazai és európai uniós finanszírozású – programok, projektek
+előkészítéséhez és menedzseléséhez;
+b) a gyermekek és az ifjúság esélyegyenlőségének, felzárkózásának elősegítése körében
+ba) kiemelten támogatja a hátrányos helyzetű gyermekek koragyermekkori nevelését, támogatja a hátrányos
+helyzetű tanköteles gyermekek, fiatalok felzárkózását és társadalmi integrációját, továbbá részt vesz a korai
+iskolaelhagyás és lemorzsolódás kezelésében,
+bb) pedagógiai szakmai szolgáltatást nyújt a hátrányos helyzetű és halmozottan hátrányos helyzetű tanulók
+nevelésének, illetve oktatásának megszervezéséhez, és az ellátásukat segítő képesség-kibontakoztató és integrációs
+felkészítés területén;
+c) a hátrányos helyzetű felnőttek felzárkózásának elősegítése érdekében
+ca) elősegíti a hátrányos helyzetű felnőttek képzését, foglalkoztatási lehetőségeik bővítését,
+cb) ellátja a hátrányos helyzetű felnőttek képzettségének, kompetenciáinak fejlesztésével, részükre megélhetési
+támogatás nyújtásával, szolgáltatásokhoz való hozzáférésük javításával, és e személyek mentorálásával kapcsolatos
+feladatokat, továbbá a szegénységgel, mélyszegénységgel összefüggő tevékenységeket.”
+5. §
+A Rendelet2. 1. §-ában az „a szociál- és nyugdíjpolitikáért felelős miniszter” szövegrész helyébe az „az emberi
+erőforrások minisztere”szöveg lép.
+6. §
+A Rendelet2. 1. mellékletében
+a) az „Emberi Erőforrások Minisztériuma Reménysugár Habilitációs Intézet (RHI)” szövegrész helyébe
+a„Reménysugár Habilitációs Intézet (RH)”szöveg,
+b) az„Emberi Erőforrások Minisztériuma Vakok Állami Intézete (VÁI)”szövegrész helyébe a„Vakok Állami Intézete
+(VÁI)”szöveg,
+c) az „Emberi Erőforrások Minisztériuma ÉletFa Rehabilitációs Intézet (ÉFRI)” szövegrész helyébe az „ÉletFa
+Rehabilitációs Intézet (ÉFRI)”szöveg,
+d) az „Emberi Erőforrások Minisztériuma Mozgássérült Emberek Rehabilitációs Központja (MEREK)” szövegrész
+helyébe a„Mozgássérült Emberek Rehabilitációs Központja (MEREK)”szöveg
+lép.
+7. §
+Hatályát veszti a Rendelet2. 1. mellékletében
+a) az
+„Emberi Erőforrások Minisztériuma Kalocsai Gyermekotthon, Általános Iskola és Szakiskola
+6300 Kalocsa, Szent István király út 16–22.
+Alaptevékenysége:
+– A gyermekvédelmi szakellátás keretében otthont nyújtó ellátásként speciális gyermekotthoni ellátást
+biztosít 12. életévét – kivételesen indokolt esetben 10. életévét – betöltött, súlyos beilleszkedési, magatartási
+vagy tanulási zavarokkal küzdő, átmeneti vagy tartós nevelt fiúk számára.
+– A nagykorúvá vált – korábban a gyermekotthonban elhelyezett – fiatal felnőttek részére utógondozói
+ellátást biztosít.
+
+– A Gyermekotthon az otthonban elhelyezett kiskorú és az utógondozói ellátásban részesülő fiatal felnőtt
+számára általános és szakiskolai nevelés, oktatás.”, és
+b) az
+„Emberi Erőforrások Minisztériuma Zalaegerszegi Gyermekotthona
+8900 Zalaegerszeg, Posta u. 144.
+Alaptevékenysége:
+– A gyermekvédelmi szakellátás keretében otthont nyújtó ellátásként speciális gyermekotthoni ellátást
+biztosít 12. életévét – kivételesen indokolt esetben 10. életévét – betöltött, súlyos beilleszkedési, magatartási
+vagy tanulási zavarokkal küzdő, átmeneti vagy tartós nevelt fiúk számára.
+– A nagykorúvá vált – korábban a gyermekotthonban elhelyezett – fiatal felnőttek részére utógondozói
+ellátást biztosít.”
+szövegrész.
+5. Záró rendelkezések
+8. §
+Ez a rendelet 2016. szeptember 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
