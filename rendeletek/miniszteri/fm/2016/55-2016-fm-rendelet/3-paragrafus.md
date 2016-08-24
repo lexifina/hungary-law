@@ -1,0 +1,1 @@
+## 2. § A védetté nyilvánítás célja a területen található, a Mátra déli oldalára jellemző élőhelyek, különösen a sziklagyepek, az erdőssztyeprétek, a molyhos-tölgyes bokorerdők, továbbá természetes felszínformák és tájkép megőrzése.
