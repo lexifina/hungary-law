@@ -1,7 +1,0 @@
-## 1. A foglalkoztatást elősegítő támogatásokról, valamint a Munkaerőpiaci Alapból foglalkoztatási válsághelyzetek kezelésére nyújtható támogatásról szóló 6/1996. (VII. 16.) MüM rendelet módosítása
-
-1. § (1) A foglalkoztatást elősegítő támogatásokról, valamint a Munkaerőpiaci Alapból foglalkoztatási válsághelyzetek kezelésére nyújtható támogatásról szóló 6/1996. (VII. 16.) MüM rendelet (a továbbiakban: R1.) 21/A. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A Nemzeti Foglalkoztatási Alap foglalkoztatási alaprészéből támogatás nyújtható az Mt., a közszolgálati tisztviselőkről szóló törvény, az állami tisztviselőkről szóló törvény, a közalkalmazottak jogállásáról szóló törvény, a honvédek jogállásáról szóló törvény, valamint a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény hatálya alá tartozó munkaadó részére az előzőekben felsorolt törvényekben szabályozott, általa végrehajtandó csoportos létszámcsökkentésnek a munkavállalót, köztisztviselőt, közszolgálati ügykezelőt, kormánytisztviselőt, kormányzati ügykezelőt, állami tisztviselőt, állami ügykezelőt, közalkalmazottat, hivatásos és szerződéses állományú katonát, továbbá a rendvédelmi feladatokat ellátó szervek hivatásos állománya tagját (ezen alcím alkalmazásában a továbbiakban együtt: munkavállaló) érintő hátrányos következményei enyhítéséhez.”
-
-(2) Az R1. 21/A. § (4) bekezdése helyébe a következő rendelkezés lép:
