@@ -1,4 +1,4 @@
-## 63. §[^1]
+## 63. §[^7]
 
 1. melléklet a 396/2015. (XII. 12.) Korm. rendelethez
 
@@ -24,4 +24,4 @@ A 2014–2020 programozási időszakban a transznacionális és interregionális
 
 | 9. | az együttműködési program technikai segítségnyújtási keretéhez történő nemzeti hozzájárulás biztosítója | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | területfejlesztés stratégiai tervezéséért felelős miniszter | településfejlesztésért és településrendezésért felelős miniszter |
 
-[^1]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 63. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
