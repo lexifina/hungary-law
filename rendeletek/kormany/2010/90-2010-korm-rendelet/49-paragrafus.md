@@ -4,44 +4,51 @@
 
 a) a titokszakértés szakterületen az igazságügyi szakértői névjegyzékben szerepel, vagy
 
-b) legalább középfokú iskolai végzettséggel és a minősített adatok kezelésének vagy védelmének területén szerzett legalább három év szakmai gyakorlattal rendelkezik.
+b)[^91] felsőfokú végzettséggel és a minősített adatok kezelésének vagy védelmének területén szerzett legalább három év szakmai gyakorlattal rendelkezik.
 
-(2) A minősítő vagy a minősített adat védelméről szóló törvény szerinti felülvizsgálati szakértő a felülvizsgálat során hozott döntését a minősített adatot tartalmazó adathordozón vagy az elektronikus minősített adattól adminisztratív módon elválaszthatatlan kezelésű elektronikus adatállományban – ha az adathordozó jellege ezt nem teszi lehetővé – külön kísérőlapon rögzíti.
+(2)[^92] A minősítő vagy a minősített adat védelméről szóló törvény szerinti felülvizsgálati szakértő a felülvizsgálat során hozott döntését a nemzeti minősített adatot tartalmazó adathordozón, az elektronikus adatállományban vagy – ha az adathordozó jellege ezt nem teszi lehetővé – külön kísérőlapon rögzíti vagy a minősített adatok iktatószámának, minősítési szintjének, érvényességi idejének jegyzékben történő felsorolásával külön iratba foglalja.
 
-(3) A minősítés fenntartásáról hozott döntés esetén a minősített adatot tartalmazó adathordozó, a külön kísérőlap vagy az elektronikus minősített adattól elválaszthatatlan kezelésű elektronikus adatállomány
+(3)[^93] A minősítés fenntartásáról hozott döntés esetén a nemzeti minősített adatot tartalmazó adathordozó eredeti irattári példánya, a külön kísérőlap vagy az elektronikus adatállomány
 
 a) a „Minősítés fenntartva!” jelölést,
 
 b) a minősítő nevét, beosztását,
 
-c) a minősítő vagy a felülvizsgálati szakértő aláírását vagy a minősítés fenntartásáról szóló döntést tartalmazó irat iktatószámát és
+c) a minősítő vagy a felülvizsgálati szakértő aláírását vagy a minősítés fenntartásáról szóló döntést tartalmazó irat iktatószámát és a titkos ügykezelő aláírását, valamint
 
 d) a felülvizsgálat dátumát
 
-tartalmazza.
+## tartalmazza.
 
-(4) A minősítés megszüntetéséről hozott döntés esetén a minősített adatot tartalmazó adathordozó, a külön kísérőlap vagy az elektronikus minősített adattól elválaszthatatlan kezelésű elektronikus adatállomány – a minősítési szint minden oldalon történő áthúzása mellett -
+(4)[^94] A minősítés megszüntetéséről hozott döntés esetén a nemzeti minősített adatot tartalmazó adathordozó, az elektronikus adatállomány vagy a külön kísérőlap – az első oldalon a minősítési jelölés, valamint a minősítési szint minden oldalon történő áthúzása mellett –
 
-a) a ”Törölve!” jelölést,
+a) a „Törölve!” jelölést,
 
 b) a minősítő nevét, beosztását,
 
-c) a minősítő vagy a felülvizsgálati szakértő aláírását vagy a minősítés megszüntetéséről szóló döntést tartalmazó irat iktatószámát és
+c) a minősítő vagy a felülvizsgálati szakértő aláírását vagy a minősítés megszüntetéséről szóló döntést tartalmazó irat iktatószámát és a titkos ügykezelő aláírását, valamint
 
 d) a felülvizsgálat dátumát
 
-tartalmazza.
+## tartalmazza.
 
-(5) A minősítési szint csökkentéséről, valamint az érvényességi idő módosításáról hozott döntés esetén a minősített adatot tartalmazó adathordozó vagy külön kísérőlap vagy az elektronikus minősített adattól adminisztratív módon elválaszthatatlan kezelésű elektronikus adatállomány – a minősítési szint, valamint az érvényességi idő áthúzása mellett -
+(5)[^95] A minősítési szint csökkentéséről, valamint az érvényességi idő módosításáról hozott döntés esetén a nemzeti minősített adatot tartalmazó adathordozó, külön kísérőlap vagy az elektronikus adatállomány – az első oldalon a minősítési jelölés, valamint a minősítési szint minden oldalon történő áthúzása mellett –
 
 a) az új minősítési szintet, valamint az új érvényességi időt,
 
 b) a minősítő nevét és beosztását,
 
-c) a minősítő vagy a felülvizsgálati szakértő aláírását vagy a minősítési szint csökkentéséről, az érvényességi idő módosításáról szóló döntést tartalmazó irat iktatószámát és
+c) a minősítő vagy a felülvizsgálati szakértő aláírását vagy a minősítési szint csökkentéséről, az érvényességi idő módosításáról szóló döntést tartalmazó irat iktatószámát és a titkos ügykezelő aláírását, valamint
 
 d) a felülvizsgálat dátumát
 
-tartalmazza.
+## tartalmazza.
 
-(6) A minősítési szint csökkentéséhez, valamint az érvényességi idő módosításához készített minősítési javaslatot a kezdeményező a nemzeti minősített adat hordozóján vagy – ha erre nincs lehetőség – külön kísérőlapon, vagy az elektronikus minősített adattól adminisztratív módon elválaszthatatlan kezelésű elektronikus adatállományban rögzíti. A felülvizsgálat eredményét – a minősítési szint és érvényességi idő módosítása, valamint megszüntetése esetén – az iktatókönyv is tartalmazza.
+(6)[^96] A minősítési szint csökkentéséhez, valamint az érvényességi idő módosításához készített minősítési javaslatot a kezdeményező a nemzeti minősített adatot tartalmazó adathordozóján, elektronikus adatállományban vagy – ha az adathordozó jellege ezt nem teszi lehetővé – külön kísérőlapon rögzíti. Ha a felülvizsgálat a nemzeti minősített adatok iktatószámának, minősítési szintjének, érvényességi idejének jegyzékbe foglalásával külön iratban történik, a minősítési javaslat a külön irat része lehet.
+
+[^91]: A 49. § (1) bekezdés b) pontja a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés h) pontja szerint módosított szöveg.
+[^92]: A 49. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^93]: A 49. § (3) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^94]: A 49. § (4) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^95]: A 49. § (5) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^96]: A 49. § (6) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 29. §-ával megállapított szöveg.

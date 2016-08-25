@@ -4,7 +4,7 @@
 
 (3) A minősített adat készítése során a 38. § (1) és (2), valamint az eredeti irattári példány esetében a (3) bekezdésében meghatározottakon túl az adathordozó tartalmazza:
 
-a) a készítő szerv megnevezését,
+a)[^74] a készítő szerv megnevezését és az iktatószámot,
 
 b) a példányszámot, a példánysorszámot,
 
@@ -18,4 +18,7 @@ f) az eredeti irattári példány esetében a kiadmányozó aláírását, elekt
 
 (4) Az egyes példányok címzettjeinek felsorolását az irattári példányhoz csatolt – az egyes címzettek részére továbbított példány sorszámát is tartalmazó – külön elosztó tartalmazza. Az egyes példányok címzettjeit – külön elosztó helyett – az adathordozó is tartalmazhatja.
 
-(5) Amennyiben a (3)–(4) bekezdésekben meghatározottak feltüntetésére az adathordozó jellege miatt nincs mód, akkor azokat külön kísérőlap vagy az elektronikus minősített adattól adminisztratív módon elválaszthatatlan kezelésű elektronikus adatállomány tartalmazza.
+(5)[^75] Amennyiben a (3)–(4) bekezdésekben meghatározottak feltüntetésére az adathordozó jellege miatt nincs mód, akkor azokat külön kísérőlap vagy elektronikus adatállomány tartalmazza.
+
+[^74]: A 39. § (3) bekezdés a) pontja a 243/2016. (VIII. 17.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^75]: A 39. § (5) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (2) bekezdés j) pontja szerint módosított szöveg.

@@ -1,3 +1,5 @@
+## 25. §
+
 ## 17. Beléptető rendszer és a látogatók ellenőrzése
 
 26. § (1) A biztonsági terület határán, valamint a 36. §–ban meghatározott Nyilvántartó és a Kezelő pont helyiségébe történő be- és kilépésre beléptető rendszer alkalmazásával kerül sor.

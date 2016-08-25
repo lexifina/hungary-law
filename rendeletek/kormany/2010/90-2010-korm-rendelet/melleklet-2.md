@@ -18,7 +18,7 @@
 
 | 8. | R1 Részpontszám |  |
 
-| 9. | A biztonsági területet határoló ajtón lévő zár |  |
+| 9. | A biztonsági területet határoló ajtó |  |
 
 | 10. | 4. kategóriájú | 4 |
 
@@ -30,23 +30,23 @@
 
 | 14. | R2 Részpontszám |  |
 
-| 15. | F1 I. Fejezet pontszáma R1xR2 |  |
+| 15. | F1 I. Fejezet pontszáma R1×R2 |  |
 
-| 16. | II. Fejezet Biztonsági tárolók és zárak |  |
+| 16. | II. Fejezet Biztonsági tárolók |  |
 
 | 17. | Tárolók |  |
 
-| 18. | 4. kategóriájú | 4 |
+| 18. | 4. kategóriájú | 16 |
 
-| 19. | 3. kategóriájú | 3 |
+| 19. | 3. kategóriájú | 9 |
 
-| 20. | 2. kategóriájú | 2 |
+| 20. | 2. kategóriájú | 4 |
 
 | 21. | 1. kategóriájú | 1 |
 
-| 22. | R3 Részpontszám |  |
+| 22. | F2 II. Fejezet pontszáma |  |
 
-| 23. | Zárak |  |
+| 23. | III. Fejezet Beléptető rendszer |  |
 
 | 24. | 4. kategóriájú | 4 |
 
@@ -56,116 +56,104 @@
 
 | 27. | 1. kategóriájú | 1 |
 
-| 28. | R4 Részpontszám |  |
+| 28. | R3 Részpontszám |  |
 
-| 29. | F2 II. Fejezet pontszáma R3xR4 |  |
+| 29. | Látogatók ellenőrzése |  |
 
-| 30. | III. Fejezet Beléptető rendszer |  |
+| 30. | kísérettel | 3 |
 
-| 31. | 4. kategóriájú | 4 |
+| 31. | kíséret nélkül | 0 |
 
-| 32. | 3. kategóriájú | 3 |
+| 32. | R4 Részpontszám |  |
 
-| 33. | 2. kategóriájú | 2 |
+| 33. | F3 III. Fejezet pontszáma R3+R4 |  |
 
-| 34. | 1. kategóriájú | 1 |
+| 34. | IV. Fejezet Elektronikai jelzőrendszer |  |
 
-| 35. | R5 Részpontszám |  |
+| 35. | 4. kategóriájú | 4 |
 
-| 36. | Látogatók ellenőrzése |  |
+| 36. | 3. kategóriájú | 3 |
 
-| 37. | kísérettel | 3 |
+| 37. | 2 kategóriájú | 2 |
 
-| 38. | kíséret nélkül | 0 |
+| 38. | 1. kategóriájú | 1 |
 
-| 39. | R6 Részpontszám |  |
+| 39. | R5 Részpontszám |  |
 
-| 40. | F3 III. Fejezet pontszáma R5+R6 |  |
+| 40. | Reagáló erő |  |
 
-| 41. | IV. Fejezet Elektronikai jelzőrendszer |  |
+| 41. | 4. kategóriájú | 4 |
 
-| 42. | 4. kategóriájú | 4 |
+| 42. | 3. kategóriájú | 3 |
 
-| 43. | 3. kategóriájú | 3 |
+| 43. | 2. kategóriájú | 2 |
 
-| 44. | 2 kategóriájú | 2 |
+| 44. | 1. kategóriájú | 1 |
 
-| 45. | 1. kategóriájú | 1 |
+| 45. | R6 Részpontszám |  |
 
-| 46. | R7 Részpontszám |  |
+| 46. | F4 IV. Fejezet pontszáma R5+R6 |  |
 
-| 47. | Reagáló erő |  |
+| 47. | V. Fejezet Nem kötelező fizikai biztonsági intézkedések |  |
 
-| 48. | 4. kategóriájú | 4 |
+| 48. | Kerítés |  |
 
-| 49. | 3. kategóriájú | 3 |
+| 49. | 4. kategóriájú | 4 |
 
-| 50. | 2. kategóriájú | 2 |
+| 50. | 3. kategóriájú | 3 |
 
-| 51. | 1. kategóriájú | 1 |
+| 51. | 2. kategóriájú | 2 |
 
-| 52. | R8 Részpontszám |  |
+| 52. | 1. kategóriájú | 1 |
 
-| 53. | F4 IV. Fejezet pontszáma R7+R8 |  |
+| 53. | nincsen | 0 |
 
-| 54. | V. Fejezet Nem kötelező fizikai biztonsági intézkedések |  |
+| 54. | R7 Részpontszám |  |
 
-| 55. | Kerítés |  |
+| 55. | Beléptető rendszer a kerítésnél |  |
 
-| 56. | 4. kategóriájú | 4 |
+| 56. | van | 1 |
 
-| 57. | 3. kategóriájú | 3 |
+| 57. | nincs | 0 |
 
-| 58. | 2. kategóriájú | 2 |
+| 58. | R8 Részpontszám |  |
 
-| 59. | 1. kategóriájú | 1 |
+| 59. | Elektronikai jelzőrendszer a kerítésnél |  |
 
-| 60. | nincsen | 0 |
+| 60. | van | 1 |
 
-| 61. | R9 Részpontszám |  |
+| 61. | nincs | 0 |
 
-| 62. | Beléptető rendszer a kerítésnél |  |
+| 62. | R9 Részpontszám |  |
 
-| 63. | van | 1 |
+| 63. | Csomagátvizsgálás |  |
 
-| 64. | nincs | 0 |
+| 64. | van | 1 |
 
-| 65. | R10 Részpontszám |  |
+| 65. | nincs | 0 |
 
-| 66. | Elektronikai jelzőrendszer a kerítésnél |  |
+| 66. | R10 Részpontszám |  |
 
-| 67. | van | 1 |
+| 67. | Biztonsági világítás |  |
 
-| 68. | nincs | 0 |
+| 68. | van | 2 |
 
-| 69. | R11 Részpontszám |  |
+| 69. | nincs | 0 |
 
-| 70. | Szúrópróbaszerű csomagátvizsgálás |  |
+| 70. | R11 Részpontszám |  |
 
-| 71. | van | 1 |
+| 71. | Zárt láncú kamerarendszer |  |
 
-| 72. | nincs | 0 |
+| 72. | van | 2 |
 
-| 73. | R12 Részpontszám |  |
+| 73. | nincs | 0 |
 
-| 74. | Biztonsági világítás |  |
+| 74. | R12 Részpontszám |  |
 
-| 75. | van | 2 |
+| 75. | F5 V. Fejezet pontszáma (R7×R8)+R9+R10+R11+R12 |  |
 
-| 76. | nincs | 0 |
+| 76. | Összes pontszám: F1+F2+F3+F4+F5 |  |
 
-| 77. | R13 Részpontszám |  |
+2. melléklet a 90/2010. (III. 26.) Korm. rendelethez[^124]
 
-| 78. | Zárt láncú kamerarendszer |  |
-
-| 79. | van | 2 |
-
-| 80. | nincs | 0 |
-
-| 81. | R14 Részpontszám |  |
-
-| 82. | F5 V. Fejezet pontszáma (R9×R10)+R11+R12+R13+R14 |  |
-
-| 83. | Összes pontszám: F1+F2+F3+F4+F5 |  |
-
-2. melléklet a 90/2010. (III. 26.) Korm. rendelethez
+[^124]: A 2. melléklet a 243/2016. (VIII. 17.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.

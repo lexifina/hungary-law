@@ -1,6 +1,6 @@
 ## 10. A biztonsági terület és az adminisztratív zóna
 
-17. § (1) A „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adat – a 18. §-ban és a 22. § (3) bekezdésben szereplő eset kivételével – kizárólag I. vagy II. osztályú biztonsági területen használható fel és tárolható.
+17. § (1)[^46] A „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adat – a 22. § (2)–(4) bekezdésében, a 34. §-ban és az 59. § (3) bekezdésében szereplő eset kivételével – kizárólag I. vagy II. osztályú biztonsági területen használható fel és tárolható.
 
 (2) A „Korlátozott terjesztésű!” minősítési szintű minősített adat biztonsági területen kívül adminisztratív zónában is felhasználható és az adminisztratív zónán belül zárható irodabútorban, lemezszekrényben is tárolható.
 
@@ -11,3 +11,5 @@
 (5) Adminisztratív zónának minősül minden olyan helyszín, ahová a belépés ellenőrzött. A biztonsági terület körül adminisztratív zóna is kiépíthető.
 
 (6) A biztonsági területen belül a nemzeti és külföldi „Bizalmas!” vagy ennél magasabb minősítési szintű minősített adatok egymástól elkülönítve tárolhatók.
+
+[^46]: A 17. § (1) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 9. §-ával megállapított szöveg.

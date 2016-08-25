@@ -34,7 +34,7 @@ n) az irattárba helyezés kelte,
 
 o) a megsemmisítés időpontja, a megsemmisítési jegyzőkönyv iktatószáma,
 
-p) a felülvizsgálat időpontja és eredménye,
+p)[^80] a felülvizsgálat dátuma és eredménye a minősítési szint csökkentése, az érvényességi idő módosítása vagy a minősítés megszüntetése esetén,
 
 q) a kezelési bejegyzés (csatolás, határidő, visszaérkezés stb.)
 
@@ -42,6 +42,7 @@ megállapítható legyen.
 
 (4) Az iktatás minden év január 1-jén 1-es főszámmal kezdődik és a naptári év végéig emelkedő számmal folytatódik. A titkos ügykezelő az azonos tárgyban, ugyanabban az ügyben érkezett vagy készített újabb adatot az illető főszám 1-től növekvő alszámára iktatja. Amennyiben más tárgyban érkezett vagy készült az újabb adat, akkor azt iktatókönyv következő főszámára iktatja.
 
-(5)[^18] A (4) bekezdésben foglaltaktól eltérően a rendvédelmi szerveknél, a Nemzeti Adó- és Vámhivatalnál, katonai nemzetbiztonsági szolgálatoknál, bíróságoknál és ügyészi szerveknél a különböző években, de ugyanazon ügyben keletkezett minősített adatokat egy főszámhoz tartozó alszámokon lehet nyilvántartani.
+(5)[^81] A (4) bekezdésben foglaltaktól eltérően a rendvédelmi szerveknél, a Nemzeti Adó- és Vámhivatalnál, katonai nemzetbiztonsági szolgálatoknál, bíróságoknál és ügyészi szerveknél a különböző években, de ugyanazon ügyben keletkezett minősített adatokat egy főszámhoz tartozó alszámokon lehet nyilvántartani.
 
-[^18]: A 43. § (5) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 132. §-a szerint módosított szöveg.
+[^80]: A 43. § (3) bekezdés p) pontja a 243/2016. (VIII. 17.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^81]: A 43. § (5) bekezdése a 273/2010. (XII. 9.) Korm. rendelet 132. §-a szerint módosított szöveg.

@@ -11,3 +11,7 @@
 (3) A minősített adatot kezelő szervnél egyidejűleg több Nyilvántartó és Kezelő pont is kialakítható és működtethető.
 
 (4) A Nyilvántartó működtetéséhez minimálisan két fő, a Kezelő pont működtetéséhez egy fő titkos ügykezelő kinevezése, továbbá egy fő helyettesítéssel megbízott titkos ügykezelő írásban történő kijelölése szükséges.
+
+(5)[^64] A Magyar Honvédség vonatkozásában a honvédelemért felelős miniszter által vezetett minisztérium és a honvédelemért felelős miniszter közvetlen alárendeltségébe tartozó, valamint a honvédség hadrendje szerinti szervezetek (a továbbiakban együtt: honvédségi szervezet) esetén a Nyilvántartó és a Kezelő pont a működésüket biztosító katonai szervezet szervezeti egysége is lehet, amely a tevékenységét a honvédségi szervezet biztonsági vezetőjének szakmai alárendeltségében végzi.
+
+[^64]: A 36. § (5) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 19. §-a iktatta be.

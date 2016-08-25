@@ -1,3 +1,0 @@
-18. § (1) A katonai, nemzetbiztonsági és bűnügyi műveletekben a személyi biztonsági tanúsítvánnyal rendelkező személy személyes felügyelete alatt álló minősített adatot tartalmazó technikai eszköz, valamint a művelet végrehajtásához szükséges minősített adat, a minősített adatot kezelő szerv vezetője vagy a biztonsági vezető által meghatározott biztonsági intézkedések betartása mellett biztonsági területen kívül is felhasználható.
-
-(2) Az Országház épületében a minősített adat a minősített adatok védelmének szakmai felügyeletéért felelős miniszter által meghatározott biztonsági intézkedések betartása mellett biztonsági területen kívül is felhasználható.

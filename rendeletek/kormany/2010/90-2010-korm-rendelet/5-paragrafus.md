@@ -4,8 +4,22 @@
 
 ## 1. A biztonsági vezető foglalkoztatásának feltételei
 
-5. § (1) Biztonsági vezető az lehet, aki legalább felsőfokú iskolai végzettséggel, a minősített adatok kezelésének vagy védelmének területén szerzett legalább egy év szakmai gyakorlattal, a kezelt minősített adatok minősítési szintjének megfelelő szintű személyi biztonsági tanúsítvánnyal rendelkezik, aláírta a titoktartási nyilatkozatot. A biztonsági vezető köteles a biztonsági vezetők részére tartandó képzésen és továbbképzésen részt venni.
+5. § (1)[^15] Biztonsági vezető az lehet, aki
 
-(2) Biztonsági vezetőnek a minősített adatot kezelő szervnél csak az érintett szervvel munkaviszonyban, köztisztviselői, közalkalmazotti, bírói, igazságügyi, ügyészi, hivatásos szolgálati jogviszonyban vagy a hivatásos és szerződéses katonák jogállásáról szóló törvény szerinti szolgálati viszonyban álló személyt lehet kinevezni. Biztonsági vezetői feladat megbízási szerződés alapján nem látható el.
+a) felsőfokú végzettséggel rendelkezik,
+
+b) a minősített adatok kezelésének vagy védelmének területén szerzett legalább egy év szakmai gyakorlattal rendelkezik vagy a 7. § (1) bekezdésében meghatározott sikeres vizsgát tett,
+
+c) a kezelt minősített adatok minősítési szintjének megfelelő szintű személyi biztonsági tanúsítvánnyal rendelkezik, és
+
+d) aláírta a titoktartási nyilatkozatot.
+
+(2)[^16] Biztonsági vezetőnek a minősített adatot kezelő szervnél csak az érintett szervvel munkaviszonyban, kormányzati szolgálati jogviszonyban, állami szolgálati jogviszonyban, közszolgálati jogviszonyban, közalkalmazotti jogviszonyban, bírói, igazságügyi, ügyészi, hivatásos szolgálati jogviszonyban vagy a honvédek jogállásáról szóló törvény szerinti szolgálati viszonyban álló személyt lehet kinevezni. Biztonsági vezetői feladat megbízási szerződés alapján nem látható el.
 
 (3) A biztonsági vezető a minősített adatot kezelő szervnél egyidejűleg titkos ügykezelői munkakörben nem foglalkoztatható.
+
+(4)[^17] A biztonsági vezető köteles a biztonsági vezetők részére szervezett képzésen és továbbképzésen részt venni.
+
+[^15]: Az 5. § (1) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^16]: Az 5. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^17]: Az 5. § (4) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 3. § (2) bekezdése iktatta be.
