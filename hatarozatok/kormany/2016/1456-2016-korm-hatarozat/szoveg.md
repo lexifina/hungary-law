@@ -24,4 +24,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a 3. pont szerinti forrás felmerülés szerinti ütemezés alapján
 
-5. A Kormány visszavonja a Korm. határozat 6. és 7. pontját.
+5.[^2]
+
+[^2]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
