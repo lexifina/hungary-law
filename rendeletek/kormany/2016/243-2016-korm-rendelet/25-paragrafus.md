@@ -1,0 +1,3 @@
+## 24. § Az R1. 42. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+## „(6) A főnyilvántartó könyv és az iktatókönyv nem selejtezhető. A minősített adatot kezelő szerv a belső átadókönyvet vagy más belső átadóokmányt, a külső kézbesítőkönyvet, a futárjegyzéket és a futárjegyzék-nyilvántartást a Büntető Törvénykönyvről szóló 1978. évi IV. törvény szerinti visszaélés szigorúan titkos és titkos minősítésű adattal, illetve a Büntető Törvénykönyvről szóló 2012. évi C. törvény szerinti minősített adattal visszaélés bűncselekményre meghatározott büntetési tétel felső határának megfelelő ideig őrzi.”
