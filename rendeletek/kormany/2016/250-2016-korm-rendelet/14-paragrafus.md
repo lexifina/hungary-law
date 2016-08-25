@@ -1,0 +1,1 @@
+## 13. § Az MVP támogatásból finanszírozott beruházással létrehozott vagyont az önkormányzat a beszámoló elfogadásától számított három évig csak a támogató előzetes hozzájárulásával, valamint a foglalkoztatási, a szolgáltatási és az egyéb kötelezettségek átvállalásával, átruházásával idegenítheti el, adhatja bérbe vagy más használatába, illetve terhelheti meg.
