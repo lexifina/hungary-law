@@ -14,9 +14,9 @@
 
 (5) A rendszerengedély érvényességi ideje legfeljebb 3 év.
 
-(6)[^5] A rendszer működésének meghosszabbítására irányuló kérelmet a rendszerengedély érvényességi idejének lejárta előtt legalább 30 nappal kell kezdeményezni.
+(6)[^7] A rendszer működésének meghosszabbítására irányuló kérelmet a rendszerengedély érvényességi idejének lejárta előtt legalább 30 nappal kell kezdeményezni.
 
-(7)[^6] A soron kívül elrendelt katonai műveletek, gyakorlatok, bemutatók, valamint a honvédelmi szervezetek soron kívüli feladatainak végrehajtásához szükséges rendszer működésének meghosszabbítására irányuló kérelem kezdeményezésének határideje a (6) bekezdésben meghatározottnál rövidebb is lehet.
+(7)[^8] A soron kívül elrendelt katonai műveletek, gyakorlatok, bemutatók, valamint a honvédelmi szervezetek soron kívüli feladatainak végrehajtásához szükséges rendszer működésének meghosszabbítására irányuló kérelem kezdeményezésének határideje a (6) bekezdésben meghatározottnál rövidebb is lehet.
 
-[^5]: A 43. § (6) bekezdését a 318/2015. (X. 30.) Korm. rendelet 3. §-a iktatta be.
-[^6]: A 43. § (7) bekezdését a 318/2015. (X. 30.) Korm. rendelet 3. §-a iktatta be.
+[^7]: A 43. § (6) bekezdését a 318/2015. (X. 30.) Korm. rendelet 3. §-a iktatta be.
+[^8]: A 43. § (7) bekezdését a 318/2015. (X. 30.) Korm. rendelet 3. §-a iktatta be.
