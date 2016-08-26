@@ -1,3 +1,0 @@
-## 27. § Az R1. 46. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Az átvevő a külső kézbesítőkönyvben vagy a futárjegyzéken dátum és időpont feltüntetése mellett, nevével, saját kezű aláírásával, valamint bélyegzőlenyomattal igazolja a küldemény átvételét. Azokon a rendezvényeken, ahol NATO, NYEU, valamint EU és EU intézményei által minősített „Korlátozott terjesztésű!” minősítési szintű minősített adat átadására kerül sor, a NATO, NYEU, valamint az EU és az EU intézményei „Korlátozott terjesztésű!” minősítési szintű minősített adat átvételét a felhasználásra jogosult személy bélyegzőlenyomat nélkül igazolhatja.”

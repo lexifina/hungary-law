@@ -1,3 +1,0 @@
-## 28. § Az R1. 48. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A minősített adat szerven belüli átadása, visszavétele csak a titkos ügykezelő útján, belső átadókönyvben vagy más belső átadóokmányon, saját kezű aláírással, az átvétel dátumának feltüntetése mellett, dokumentáltan történhet vagy iratkezelési szoftver alkalmazásával úgy kerülhet sor az átadásra, visszavételre, hogy az elektronikus iratkezelő rendszer a feleket hitelesítő szolgáltatás (PKI) vagy jelszavak segítségével azonosítja, és az átadás-átvétel az elektronikus iratkezelő rendszerben rögzítésre kerül a minősített adat átadás-átvételével egyidejűleg.”

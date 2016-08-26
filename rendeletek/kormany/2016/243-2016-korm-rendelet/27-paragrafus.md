@@ -1,1 +1,0 @@
-## „(4) Ha az ügyintézés szakmai követelménye szükségessé teszi, az iktatószám – a (3) bekezdésben meghatározottak szerint képzett adategyüttest megelőzően vagy azt követően – tetszőlegesen bővíthető a szervezeti egységre, iktatóhelyre vagy iktatókönyvre utaló, számot, betűt vagy ezek kombinációját tartalmazó azonosítóval.”
