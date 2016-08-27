@@ -1,0 +1,1 @@
+13. § 2017. január 1. napjáig a 4. § (1) bekezdés szerinti bejelentést az NMHH Adatkapun keresztül vagy elektronikus levélben, az NMHH Adatkapu vagy az elektronikus levelező rendszer működésképtelensége esetén telefonon vagy telefaxon, az előbbiekhez szükséges hálózati hozzáférés hiányában futár útján kell megtenni.
