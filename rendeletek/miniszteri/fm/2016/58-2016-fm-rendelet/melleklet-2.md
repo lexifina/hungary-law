@@ -7393,3 +7393,5 @@ Felmentés adható a vizsgázó kérelmére a Vállalkozási ismeretek, illetve 
 - Környezetvédelmi eszközök, berendezések
 
 - Munkabiztonsági eszközök, felszerelések
+
+- Élelmiszervizsgáló laboratóriumi eszközök
