@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-56-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-08-27 | 2016-56-20-11.1 | 56/2016. (VIII. 19.) FM rendelet |
+| 2016-08-28 | 2016-56-20-11.2 | 2010: CXXX. törvény |
