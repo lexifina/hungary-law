@@ -6,7 +6,7 @@ b) az eljárás során alkalmazandó űrlapokról és azok kitöltésének módj
 
 c) az eljárási illeték elektronikus úton történő megfizetésének módjáról,
 
-d) az OBH elnöke által az elektronikus kapcsolattartás keretében elfogadott dokumentumformátumokról,
+d)[^156] az OBH elnöke által az elektronikus kapcsolattartás keretében elfogadott fájlformátumokról, valamint a befogadható fájlméretről,
 
 e) a tervezett karbantartásokról és időpontjukról, a karbantartást három nappal megelőzően,
 
@@ -16,7 +16,7 @@ g) az elektronikus kapcsolattartáshoz minimálisan szükséges műszaki paramé
 
 (2) A bíróság – az OBH útján – a bíróságok központi internetes oldalán közzéteszi
 
-a) szervezeti elektronikus aláírása nyilvános kulcsát,
+a)[^157] elektronikus bélyegzője nyilvános kulcsát,
 
 b) a Magyar Államkincstárnál vezetett illeték-bevételi számlájának számát.
 
@@ -34,4 +34,8 @@ b) a naplóállományokat tilos megsemmisíteni, felülírni, módosítani, azok
 
 c) a naplóállományok kódoltak, hibajavítást lehetővé tevő ellenőrző összeggel ellátottak kell hogy legyenek, a kódkulcsokat független adathordozón kell tárolni.
 
-(5) A szakértő az OBH részére az elektronikus kapcsolattartáshoz szükséges elérhetőségét a kézbesítési rendszer útján, erre szolgáló űrlap megküldésével jelenti be. Az OBH az elektronikus kapcsolattartáshoz szükséges adatot átadja a törvényszékek részére. Ha a szakértő a szakvéleményt adathordozón nyújtja be, azt a bíróság nem köteles visszaszolgáltatni.
+(5)[^158] Ha a szakértő elektronikus kapcsolattartást vállal, az ahhoz szükséges azonosító adatokat az igazságügyi szakértői névjegyzéket vezető hatóság küldi meg az OBH részére. Az OBH az elektronikus kapcsolattartáshoz szükséges adatot átadja a törvényszékek részére. Ha a szakértő a szakvéleményt adathordozón nyújtja be, azt a bíróság nem köteles visszaszolgáltatni.
+
+[^156]: A 75/F. § (1) bekezdés d) pontja a 18/2016. (VIII. 30.) IM rendelet 8. § c) pontja szerint módosított szöveg.
+[^157]: A 75/F. § (2) bekezdés a) pontja a 18/2016. (VIII. 30.) IM rendelet 8. § d) pontja szerint módosított szöveg.
+[^158]: A 75/F. § (5) bekezdése a 18/2016. (VIII. 30.) IM rendelet 6. §-ával megállapított szöveg.

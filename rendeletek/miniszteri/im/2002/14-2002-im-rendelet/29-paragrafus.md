@@ -44,13 +44,13 @@ a) büntető ügyszakban
 
 20. egyéb (vegyes) ügy,
 
-21.[^39] harmadfokú büntetőügy,
+21.[^42] harmadfokú büntetőügy,
 
-22.[^40] fiatalkorú harmadfokú büntetőügye,
+22.[^43] fiatalkorú harmadfokú büntetőügye,
 
-23.[^41] felterjesztett kifogás az eljárás elhúzódása miatt;
+23.[^44] felterjesztett kifogás az eljárás elhúzódása miatt;
 
-b)[^42] szabálysértési ügyek
+b)[^45] szabálysértési ügyek
 
 1. szabálysértési hatóság határozata ellen benyújtott kifogás (panasz),
 
@@ -72,7 +72,7 @@ b)[^42] szabálysértési ügyek
 
 10. bíróság kijelölése szabálysértési ügyben;
 
-c)[^43] polgári ügyszakban
+c)[^46] polgári ügyszakban
 
 1. első fokú polgári peres ügy,
 
@@ -106,9 +106,9 @@ d) munkaügyi ügyekben
 
 6. felülvizsgálati ügy,
 
-7.[^44] egyéb (vegyes) ügy,
+7.[^47] egyéb (vegyes) ügy,
 
-8.[^45] felterjesztett kifogás az eljárás elhúzódása miatt;
+8.[^48] felterjesztett kifogás az eljárás elhúzódása miatt;
 
 e) közigazgatási ügyszakban
 
@@ -126,19 +126,19 @@ e) közigazgatási ügyszakban
 
 7. választási kifogás,
 
-8.[^46] egyéb (vegyes) ügy,
+8.[^49] egyéb (vegyes) ügy,
 
-9.[^47] felterjesztett kifogás az eljárás elhúzódása miatt;
+9.[^50] felterjesztett kifogás az eljárás elhúzódása miatt;
 
-f)[^48] valamennyi ügyszakban a jogegységi határozat hozatalára irányuló kezdeményezés.
+f)[^51] valamennyi ügyszakban a jogegységi határozat hozatalára irányuló kezdeményezés.
 
-[^39]: A 29. § a) pontjának 21. alpontja a 18/2003. (VI. 24.) IM rendelet 75. §-ának (1) bekezdése alapján érvényét veszti és nem lép hatályba. A 29. § a) pontjának 21. alpontját újonnan a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^40]: A 29. § a) pontjának 22. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^41]: A 29. § a) pontjának 23. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^42]: A 29. § b) pontja az 1/2016. (II. 9.) IM rendelet 1. §-ával megállapított szöveg.
-[^43]: A 29. § c) pontja a 21/2014. (III. 13.) KIM rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^44]: A 29. § d) pont 7. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (4) bekezdése iktatta be, szövege a 21/2014. (III. 13.) KIM rendelet 12. § (4) bekezdésével megállapított szöveg.
-[^45]: A 29. § d) pont 8. alpontját a 21/2014. (III. 13.) KIM rendelet 12. § (4) bekezdése iktatta be.
-[^46]: A 29. § e) pont 8. alpontját a 22/2004. (V. 18.) IM rendelet 18. § (3) bekezdése hatályon kívül helyezte, újonnan a 26/2006. (V. 18.) IM rendelet 3. § (5) bekezdése iktatta be, szövege a 21/2014. (III. 13.) KIM rendelet 12. § (5) bekezdésével megállapított szöveg.
-[^47]: A 29. § e) pont 9. alpontját a 21/2014. (III. 13.) KIM rendelet 12. § (5) bekezdése iktatta be.
-[^48]: A 29. § f) pontját a 21/2014. (III. 13.) KIM rendelet 12. § (6) bekezdése iktatta be.
+[^42]: A 29. § a) pontjának 21. alpontja a 18/2003. (VI. 24.) IM rendelet 75. §-ának (1) bekezdése alapján érvényét veszti és nem lép hatályba. A 29. § a) pontjának 21. alpontját újonnan a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. Ez utóbbi módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^43]: A 29. § a) pontjának 22. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^44]: A 29. § a) pontjának 23. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (1) bekezdése iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^45]: A 29. § b) pontja az 1/2016. (II. 9.) IM rendelet 1. §-ával megállapított szöveg.
+[^46]: A 29. § c) pontja a 21/2014. (III. 13.) KIM rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^47]: A 29. § d) pont 7. alpontját a 26/2006. (V. 18.) IM rendelet 3. § (4) bekezdése iktatta be, szövege a 21/2014. (III. 13.) KIM rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^48]: A 29. § d) pont 8. alpontját a 21/2014. (III. 13.) KIM rendelet 12. § (4) bekezdése iktatta be.
+[^49]: A 29. § e) pont 8. alpontját a 22/2004. (V. 18.) IM rendelet 18. § (3) bekezdése hatályon kívül helyezte, újonnan a 26/2006. (V. 18.) IM rendelet 3. § (5) bekezdése iktatta be, szövege a 21/2014. (III. 13.) KIM rendelet 12. § (5) bekezdésével megállapított szöveg.
+[^50]: A 29. § e) pont 9. alpontját a 21/2014. (III. 13.) KIM rendelet 12. § (5) bekezdése iktatta be.
+[^51]: A 29. § f) pontját a 21/2014. (III. 13.) KIM rendelet 12. § (6) bekezdése iktatta be.

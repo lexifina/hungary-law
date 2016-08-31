@@ -1,6 +1,6 @@
-## A Bírósági Elektronikus Tájékoztatási és Figyelmeztetési Rendszer[^16]
+## A Bírósági Elektronikus Tájékoztatási és Figyelmeztetési Rendszer[^19]
 
-12/A. §[^17] (1) A Bírósági Elektronikus Tájékoztatási és Figyelmeztetési Rendszer (a továbbiakban: BETFR) használatához a fél vagy képviselője (ezen alcímben a továbbiakban együtt: kérelmező) regisztrációja szükséges. Büntető ügyben kérelmező az ügyész, a terhelt és a védő lehet.
+12/A. §[^20] (1) A Bírósági Elektronikus Tájékoztatási és Figyelmeztetési Rendszer (a továbbiakban: BETFR) használatához a fél vagy képviselője (ezen alcímben a továbbiakban együtt: kérelmező) regisztrációja szükséges. Büntető ügyben kérelmező az ügyész, a terhelt és a védő lehet.
 
 (2) Több képviselő vagy védő esetén az elsőként regisztráló képviselő, védő lehet kérelmező.
 
@@ -16,5 +16,5 @@ c) az anyja születési nevét.
 
 (5) Ha a kérelmező neve megváltozik, az a BETFR felületén azt követően módosítható, hogy azt az ügyfélkapu regisztrációs szerv részére már bejelentette.
 
-[^16]: A 12/A. §-t megelőző alcímet a 20/2014. (XII. 23.) IM rendelet 7. § (2) bekezdése iktatta be.
-[^17]: A 12/A. §-t a 20/2014. (XII. 23.) IM rendelet 7. § (2) bekezdése iktatta be.
+[^19]: A 12/A. §-t megelőző alcímet a 20/2014. (XII. 23.) IM rendelet 7. § (2) bekezdése iktatta be.
+[^20]: A 12/A. §-t a 20/2014. (XII. 23.) IM rendelet 7. § (2) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 68. §[^127] A katonai tanács körbélyegzője: középen Magyarország címere, körben felül a bíróság katonai tanácsának, alul a székhelyének a megjelölése (pl. Szegedi Törvényszék Katonai Tanácsa – Szeged).
+## 68. §[^130] A katonai tanács körbélyegzője: középen Magyarország címere, körben felül a bíróság katonai tanácsának, alul a székhelyének a megjelölése (pl. Szegedi Törvényszék Katonai Tanácsa – Szeged).
 
 ## Az ügycsoportok
 
@@ -56,7 +56,7 @@
 
 26. a törvényesség érdekében bejelentett jogorvoslati indítvány,
 
-27.[^128] felterjesztett kifogás az eljárás elhúzódása miatt.
+27.[^131] felterjesztett kifogás az eljárás elhúzódása miatt.
 
-[^127]: A 68. § a 40/2011. (XII. 30.) KIM rendelet 22. § (1) bekezdés r) pontja, a 21/2014. (III. 13.) KIM rendelet 12. § (22) bekezdés a) pontja szerint módosított szöveg.
-[^128]: A 69. § 27. pontját a 26/2006. (V. 18.) IM rendelet 17. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
+[^130]: A 68. § a 40/2011. (XII. 30.) KIM rendelet 22. § (1) bekezdés r) pontja, a 21/2014. (III. 13.) KIM rendelet 12. § (22) bekezdés a) pontja szerint módosított szöveg.
+[^131]: A 69. § 27. pontját a 26/2006. (V. 18.) IM rendelet 17. §-a iktatta be. E módosító rendelet 18. § (2) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.

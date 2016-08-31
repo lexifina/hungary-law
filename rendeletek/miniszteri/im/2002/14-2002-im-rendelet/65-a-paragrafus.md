@@ -1,6 +1,6 @@
 ## 65. § Gazdasági ügyben az 60. §-ban foglaltakat megfelelően alkalmazni kell.
 
-## VII/A. Fejezet[^126]
+## VII/A. Fejezet[^129]
 
 ## A TERMÉSZETES SZEMÉLYEK BÍRÓSÁGI ADÓSSÁGRENDEZÉSÉNEK ÜGYVITELE
 
@@ -42,4 +42,4 @@ o) felülvizsgálati ügy.
 
 (4) Az OBH a bíróságok központi internetes oldalán közzéteszi a (2) bekezdés szerinti eljárásokban a felek és a bíróság által kötelezően alkalmazandó, az OBH honlapjáról letölthető, kézzel vagy számítógéppel kitölthető űrlapokat, nyomtatványokat, és tájékoztatást ad azok kitöltésének módjáról.
 
-[^126]: A VII/A. fejezetet (65/A. §) a 18/2015. (VIII. 28.) IM rendelet 1. §-a iktatta be.
+[^129]: A VII/A. fejezetet (65/A. §) a 18/2015. (VIII. 28.) IM rendelet 1. §-a iktatta be.
