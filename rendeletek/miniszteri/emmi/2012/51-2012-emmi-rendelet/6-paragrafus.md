@@ -14,7 +14,7 @@ c) az érintett pedagógiai szakaszok vonatkozásában a Nat-ban meghatározott 
 
 a) iskola fenntartója,
 
-b)[^20] a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti vallási közösség,
+b)[^24] a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetek és vallási közösségek jogállásáról szóló törvény szerinti vallási közösség,
 
 c) iskolát fenntartó alternatív iskolát képviselő hálózat, szervezet
 
@@ -30,4 +30,4 @@ c) a kerettanterv engedélyezési eljárása során az eljárási díj befizeté
 
 (5) A kerettantervet – a (4) bekezdésben meghatározott mellékletekkel együtt – az erre szolgáló elektronikus felületen, ennek hiányában három példányban papír alapon és egy elektronikus adathordozón elkészített példányban kell benyújtani a miniszterhez.
 
-[^20]: A 6. § (3) bekezdés b) pontja a 34/2014. (IV. 29.) EMMI rendelet 4. §-ával megállapított szöveg.
+[^24]: A 6. § (3) bekezdés b) pontja a 34/2014. (IV. 29.) EMMI rendelet 4. §-ával megállapított szöveg.

@@ -34,15 +34,15 @@
 
 (4) Az iskola a kerettantervben a tantárgyak két évfolyamos szakaszolása szerint meghatározott követelményeit és a fejlesztési feladatokat a helyi tantervében az egyes kétéves szakaszok között nem csoportosíthatja át.
 
-(5) Az iskola a helyi tanterve elkészítése során a tantárgyi kerettantervek tematikai egységeiben meghatározott óraszámokat legfeljebb 10%-kal csökkentheti.
+(5)[^14] Az iskola, a pedagógus a tantárgyi kerettanterv helyi alkalmazása során a tematikai egységekben előírt tevékenységektől, ismeretektől, fejlesztési követelményektől – a Nat.-ban meghatározott fejlesztési feladatok, közműveltségi tartalmak kivételével – eltérhet, a kerettantervben meghatározott tananyag tartalmakat elhagyhat. A tantárgy felszabaduló órakerete a pedagógus döntése alapján átcsoportosítható ismétlésre, gyakorlásra az adott tanulócsoport szükségletei szerint.
 
 (6) Az iskola a helyi tanterve elkészítése során az azonos pedagógiai szakaszra és azonos iskolatípusra kiadott tantárgyi kerettanterveket egymás között felcserélheti. A kerettantervek felcserélése akkor lehetséges, ha a felcserélésben érintett kerettantervek alapóraszáma megegyezik, vagy ha a magasabb éves óraszámra épülő kerettanterv többlet időkeretét az iskola a helyi tantervébe a szabadon felhasználható éves órakerete terhére építi be.
 
 (7) Az iskolában az emelt szintű ének-zene oktatásához szükséges tanórai foglalkozásokba az énekkari vagy a kórus foglalkozás összesen legfeljebb heti egy óra erejéig beszámítható.
 
-(7a)[^14] Az iskola a magyar nyelv és irodalom tantárgyat magyar nyelv és irodalom tantárgyakra bonthatja.
+(7a)[^15] Az iskola a magyar nyelv és irodalom tantárgyat magyar nyelv és irodalom tantárgyakra bonthatja.
 
-(7b)[^15] Az iskola a nemzetiségi nyelv és irodalom tantárgyat nemzetiségi nyelv és irodalom tantárgyakra bonthatja.
+(7b)[^16] Az iskola a nemzetiségi nyelv és irodalom tantárgyat nemzetiségi nyelv és irodalom tantárgyakra bonthatja.
 
 (8) A középiskolának a helyi tantervében kell meghatároznia a 11–12. évfolyamon az emelt szintű érettségire történő felkészítéshez és az emelt szintű oktatáshoz alkalmazott fejlesztési feladatokat és követelményeket a Nat, továbbá az érettségi vizsga részletes követelményeiről szóló 40/2002. (V. 24.) OM rendelet alapján.
 
@@ -59,5 +59,6 @@
 [^11]: A 2. § (1k) bekezdését a 11/2016. (VI. 13.) EMMI rendelet 1. §-a iktatta be.
 [^12]: A 2. § (1l) bekezdését a 11/2016. (VI. 13.) EMMI rendelet 1. §-a iktatta be.
 [^13]: A 2. § (1m) bekezdését a 11/2016. (VI. 13.) EMMI rendelet 1. §-a iktatta be.
-[^14]: A 2. § (7a) bekezdését a 6/2014. (I. 29.) EMMI rendelet 8. §-a iktatta be.
-[^15]: A 2. § (7b) bekezdését a 6/2014. (I. 29.) EMMI rendelet 8. §-a iktatta be.
+[^14]: A 2. § (5) bekezdése a 23/2016. (VIII. 30.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^15]: A 2. § (7a) bekezdését a 6/2014. (I. 29.) EMMI rendelet 8. §-a iktatta be.
+[^16]: A 2. § (7b) bekezdését a 6/2014. (I. 29.) EMMI rendelet 8. §-a iktatta be.
