@@ -1,0 +1,5 @@
+## 77. A budapesti központi szennyvíztisztító telep és kapcsolódó létesítményei projekt, a Zalaegerszeg és térsége szennyvízelvezetési és -kezelési projekt és a Veszprém és térsége szennyvízelvezetési és -kezelési projekt megvalósításához szükséges egyes közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 150/2006. (VII. 21.) Korm. rendelet módosítása
+
+93. §[^93]
+
+[^93]: A 93. § a 105. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
