@@ -1,3 +1,3 @@
-## 15. §[^11]
+## 15. §[^12]
 
-[^11]: A 15. § a 10. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+[^12]: A 15. § a – 18/2016. (VIII. 30.) IM rendelet 10. §-ával megállapított – 10. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
