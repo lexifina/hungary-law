@@ -66,16 +66,19 @@ belügyminiszter
 
 Határidő: a 2017. évi központi költségvetés tervezés során
 
-8. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a Kvtv. 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 2. Magyar Honvédség cím javára 11 929,9 millió forint biztosításáról a képességfejlesztési igények fedezete érdekében;
+8.[^1] felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a Kvtv. 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 2. Magyar Honvédség cím javára 11 529,9 millió forint biztosításáról a képességfejlesztési igények fedezete érdekében;
 
 Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-9. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a Kvtv. 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 3. Katonai Nemzetbiztonsági Szolgálat cím javára 8861,0 millió forint biztosításáról a képességfejlesztési igények fedezete érdekében;
+9.[^2] felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a Kvtv. 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 3. Katonai Nemzetbiztonsági Szolgálat cím javára 9261,0 millió forint biztosításáról a képességfejlesztési igények fedezete érdekében;
 
 Felelős: nemzetgazdasági miniszter
 
 Határidő: azonnal
 
 10. egyetért azzal, hogy a terrorellenes intézkedések megvalósításához szükséges beszerzések lefolytatása során a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
+
+[^1]: A 8. pont az 1482/2016. (VIII. 31.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 9. pont az 1482/2016. (VIII. 31.) Korm. határozat 2. pontjával megállapított szöveg.
