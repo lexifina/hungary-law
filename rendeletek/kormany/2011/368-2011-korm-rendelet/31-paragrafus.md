@@ -1,19 +1,3 @@
-31. §[^96] (1) A kincstári költségvetést
+31. §[^97]
 
-a) a fejezetbe sorolt költségvetési szervekre és fejezeti kezelésű előirányzatokra a fejezetet irányító szerv,
-
-b) az elkülönített állami pénzalapokra és a társadalombiztosítás pénzügyi alapjaira azok kezelő szerve,
-
-c) a központi kezelésű előirányzatokra a fejezetet irányító szerv, ha a fejezetet irányító szerv vezetője az államháztartásért felelős miniszter, a Kincstár
-
-készíti el. A Kincstár által készített kincstári költségvetéshez az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendeletben (a továbbiakban: államháztartási számviteli kormányrendelet) meghatározott szervezetek adatot szolgáltatnak.
-
-(2)[^97] Az (1) bekezdésben meghatározott szerv a kincstári költségvetést az elfogadott központi költségvetésről szóló törvény alapján a költségvetési évet megelőző év december 20-áig a Kincstár által működtetett elektronikus rendszerbe tölti fel.
-
-(2a)[^98] Ha az Országgyűlés a központi költségvetésről szóló törvényt a (2) bekezdésben meghatározott határnapot megelőző tizedik napig nem fogadja el, a központi költségvetésről szóló törvényjavaslat vagy annak az összegző módosító javaslattal egybeszerkesztett szövege alapján a végleges kincstári költségvetésre meghatározott formában előzetes kincstári költségvetést kell készíteni és azt a költségvetési évet megelőző év december 20-áig a Kincstár által működtetett elektronikus rendszerbe feltölteni. A végleges kincstári költségvetést az elfogadott központi költségvetésről szóló törvény alapján a költségvetési év január 10-éig kell a Kincstár által működtetett elektronikus rendszerbe feltölteni.
-
-(3) Költségvetési szerv év közben történő alapítása esetén a költségvetési szerv törzskönyvi nyilvántartásba való bejegyzését, új központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja előirányzata év közben történő létrehozása esetén a létrehozást követő nyolc napon belül kell a kincstári költségvetést megállapítani és – ha annak elkészítésére nem a Kincstár köteles – megküldeni a Kincstárnak.
-
-[^96]: Az Ávr. 31. §-a a 397/2014. (XII. 31.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^97]: Az Ávr. 31. § (2) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^98]: Az Ávr. 31. § (2a) bekezdését a 465/2015. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^97]: Az Ávr. 31. §-át és a megelőző alcímet a 264/2016. (VIII. 31.) Korm. rendelet 26. § (1) bekezdés 1. pontja hatályon kívül helyezte.

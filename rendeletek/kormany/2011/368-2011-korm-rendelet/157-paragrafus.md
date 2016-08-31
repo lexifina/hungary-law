@@ -1,4 +1,4 @@
-157. §[^482] A költségvetési év zárását követően
+157. §[^513] A költségvetési év zárását követően
 
 a) az államháztartás központi alrendszerében a költségvetési szerv, valamint a központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szerve éves költségvetési beszámolót és zárszámadáshoz kapcsolódó adatszolgáltatást, és
 
@@ -6,4 +6,4 @@ b) a helyi önkormányzat, nemzetiségi önkormányzat, társulás, térségi fe
 
 készít.
 
-[^482]: Az Ávr. 157. §-a a 397/2014. (XII. 31.) Korm. rendelet 35. §-ával megállapított szöveg.
+[^513]: Az Ávr. 157. §-a a 397/2014. (XII. 31.) Korm. rendelet 35. §-ával megállapított szöveg.

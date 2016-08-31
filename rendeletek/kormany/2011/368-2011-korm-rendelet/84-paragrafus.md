@@ -10,7 +10,15 @@ c) – ha a költségvetési támogatás teljes egészében a helyi önkormányz
 
 d) – ha a költségvetési támogatás összege nem haladja meg a húszmillió forintot, vagy ha a projektet több kedvezményezett valósítja meg, a ráeső költségvetési támogatás összege nem haladja meg a húszmillió forintot – bármely kedvezményezett részére,
 
-e) – ha a pályázati kiírás ekként rendelkezik – a működési célú vagy kutatásra, fejlesztésre vagy innovációra irányuló költségvetési támogatásban részesülő bármely kedvezményezett részére
+e) – ha a pályázati kiírás ekként rendelkezik – a működési célú vagy kutatásra, fejlesztésre vagy innovációra irányuló költségvetési támogatásban részesülő bármely kedvezményezett részére,
+
+f)[^291] az Európai Hálózatfinanszírozási Eszközből származó forrás terhére megvalósuló projektek esetében végrehajtó szervként eljáró, a Polgári Törvénykönyv szerint többségi állami befolyás alatt álló gazdasági társaság esetében, ha az alábbi feltételek egyike teljesül:
+
+fa) a támogatásból létrejövő vagyon ingyenesen az állam, helyi önkormányzat vagy nemzetiségi önkormányzat kizárólagos tulajdonába, vasúti pályahálózat működtetője vagy közszolgáltatást ellátó gazdasági társaság kizárólagos tulajdonába kerül,
+
+fb) a Polgári Törvénykönyv 8:2. § szerinti többségi állami befolyás alatt álló gazdasági társaság a támogatást az állam, helyi önkormányzat, nemzetiségi önkormányzat, helyi önkormányzatok társulása, nemzetiségi önkormányzatok társulása vagy – központi költségvetési szerv kivételével – költségvetési szerv vagyonának fejlesztésére fordítja,
+
+fc) a Polgári Törvénykönyv 8:2. § szerinti többségi állami befolyás alatt álló gazdasági társaság a támogatást az fb) alpontban meghatározott szervezetek valamelyikének többségi befolyása alatt álló jogi személy olyan vagyontárgyának fejlesztésére fordítja, amely közfeladat ellátását szolgálja vagy közfeladat ellátását mozdítja elő
 
 folyósított költségvetési támogatás esetén eltekinthet.
 
@@ -19,3 +27,5 @@ folyósított költségvetési támogatás esetén eltekinthet.
 a) a kedvezményezett valamennyi – jogszabály alapján beszedési megbízással megterhelhető – fizetési számlájára vonatkozó, a támogató javára szóló beszedési megbízás benyújtására vonatkozó felhatalmazó nyilatkozata a pénzügyi fedezethiány miatt nem teljesíthető fizetési megbízás esetére a követelés legfeljebb harmincöt napra való sorba állítására vonatkozó rendelkezéssel együtt, vagy
 
 b) bármely olyan eszköz – így különösen zálogjog kikötése, garancia, kezesség, óvadék –, amely biztosítja, hogy a támogató a költségvetési támogatás visszafizetésére vonatkozó igényét maradéktalanul, a lehető legrövidebb időn belül eredményesen tudja érvényesíteni.
+
+[^291]: Az Ávr. 84. § (1) bekezdés f) pontját a 264/2016. (VIII. 31.) Korm. rendelet 13. §-a iktatta be.

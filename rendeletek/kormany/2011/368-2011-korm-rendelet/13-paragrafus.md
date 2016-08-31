@@ -22,11 +22,11 @@ i)[^55] azoknak a költségvetési szerveknek a felsorolását, amelyek tekintet
 
 (2) A költségvetési szerv vezetője belső szabályzatban rendezi a működéséhez kapcsolódó, pénzügyi kihatással bíró, jogszabályban nem szabályozott kérdéseket, így különösen
 
-a) a tervezéssel, gazdálkodással – így különösen a kötelezettségvállalás, ellenjegyzés, teljesítés igazolása, érvényesítés, utalványozás gyakorlásának módjával, eljárási és dokumentációs részletszabályaival, valamint az ezeket végző személyek kijelölésének rendjével –, az ellenőrzési adatszolgáltatási és beszámolási feladatok teljesítésével kapcsolatos belső előírásokat, feltételeket,
+a)[^56] a tervezéssel, gazdálkodással – így különösen a kötelezettségvállalás, ellenjegyzés, teljesítés igazolása, érvényesítés, utalványozás gyakorlásának módjával, eljárási és dokumentációs részletszabályaival, valamint az ezeket végző személyek kijelölésének rendjével –, az ellenőrzési, adatszolgáltatási és beszámolási feladatok teljesítésével kapcsolatos belső előírásokat, feltételeket,
 
 b) a beszerzések lebonyolításával kapcsolatos eljárásrendet,
 
-c) a belföldi és külföldi kiküldetések elrendelésével és lebonyolításával, elszámolásával kapcsolatos kérdéseket,[^56]
+c) a belföldi és külföldi kiküldetések elrendelésével és lebonyolításával, elszámolásával kapcsolatos kérdéseket,[^57]
 
 d) az anyag- és eszközgazdálkodás számviteli politikában nem szabályozott kérdéseit,
 
@@ -34,13 +34,13 @@ e) a reprezentációs kiadások felosztását, azok teljesítésének és elszá
 
 f) a gépjárművek igénybevételének és használatának rendjét,
 
-g)[^57] a vezetékes- és mobiltelefonok használatát, és
+g)[^58] a vezetékes- és mobiltelefonok használatát, és
 
 h) a közérdekű adatok megismerésére irányuló kérelmek intézésének, továbbá a kötelezően közzéteendő adatok nyilvánosságra hozatalának rendjét.
 
-(3)[^58] A központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szerve a kezelt központi kezelésű előirányzatokkal, fejezeti kezelésű előirányzatokkal, elkülönített állami pénzalapokkal, társadalombiztosítás pénzügyi alapjaival kapcsolatos tervezési, gazdálkodási, finanszírozási, adatszolgáltatási és beszámolási feladataira nézve külön szabályzatot készít a (2) bekezdés a) pontjában meghatározott tartalommal. Ha a központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap terhére költségvetési támogatás nyújtható, az e bekezdés szerinti szabályzatban rendelkezni kell az előirányzatok módosításának, átcsoportosításának, a támogatói döntések meghozatala és a kötelezettségvállalás belső egyeztetési és engedélyezési eljárási, továbbá dokumentációs szabályairól, határidőiről, a pénzügyi teljesítés, a beszámoltatás, az ellenőrzés feladatainak rendjéről, mindezek határidőiről, szervezeti megosztásáról, az egyes szervezeti egységek feladatairól is.
+(3)[^59] A központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap, társadalombiztosítás pénzügyi alapja kezelő szerve a kezelt központi kezelésű előirányzatokkal, fejezeti kezelésű előirányzatokkal, elkülönített állami pénzalapokkal, társadalombiztosítás pénzügyi alapjaival kapcsolatos tervezési, gazdálkodási, finanszírozási, adatszolgáltatási és beszámolási feladataira nézve külön szabályzatot készít a (2) bekezdés a) pontjában meghatározott tartalommal. Ha a központi kezelésű előirányzat, fejezeti kezelésű előirányzat, elkülönített állami pénzalap terhére költségvetési támogatás nyújtható, az e bekezdés szerinti szabályzatban rendelkezni kell az előirányzatok módosításának, átcsoportosításának, a támogatói döntések meghozatala és a kötelezettségvállalás belső egyeztetési és engedélyezési eljárási, továbbá dokumentációs szabályairól, határidőiről, a pénzügyi teljesítés, a beszámoltatás, az ellenőrzés feladatainak rendjéről, mindezek határidőiről, szervezeti megosztásáról, az egyes szervezeti egységek feladatairól is.
 
-(3a)[^59] A (2) bekezdésben meghatározott szempontok figyelembevételével belső szabályzataiban rendelkezik
+(3a)[^60] A (2) bekezdésben meghatározott szempontok figyelembevételével belső szabályzataiban rendelkezik
 
 a) az önkormányzati hivatal a helyi önkormányzat és a helyi nemzetiségi önkormányzat,
 
@@ -59,7 +59,8 @@ sajátos tervezési, gazdálkodási, ellenőrzési, finanszírozási, adatszolg�
 [^53]: Az Ávr. 13. § (1) bekezdés e) pontja a 397/2014. (XII. 31.) Korm. rendelet 45. § (1) bekezdés 3. pontja szerint módosított szöveg.
 [^54]: Az Ávr. 13. § (1) bekezdés g) pontja a 243/2015. (IX. 8.) Korm. rendelet 11. § 3. pontja szerint módosított szöveg.
 [^55]: Az Ávr. 13. § (1) bekezdés i) pontja a 397/2014. (XII. 31.) Korm. rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^56]: Lásd a 28/2014. (XII. 23.) NGM utasítást.
-[^57]: Az Ávr. 13. § (2) bekezdés g) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 2. pontja szerint módosított szöveg.
-[^58]: Az Ávr. 13. § (3) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
-[^59]: Az Ávr. 13. § (3a) bekezdését az 56/2012. (III. 30.) Korm. rendelet 6. §-a iktatta be, szövege a 413/2012. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^56]: Az Ávr. 13. § (2) bekezdés a) pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 2. pontja szerint módosított szöveg.
+[^57]: Lásd a 28/2014. (XII. 23.) NGM utasítást.
+[^58]: Az Ávr. 13. § (2) bekezdés g) pontja a 175/2015. (VII. 7.) Korm. rendelet 28. § 2. pontja szerint módosított szöveg.
+[^59]: Az Ávr. 13. § (3) bekezdése a 397/2014. (XII. 31.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^60]: Az Ávr. 13. § (3a) bekezdését az 56/2012. (III. 30.) Korm. rendelet 6. §-a iktatta be, szövege a 413/2012. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
