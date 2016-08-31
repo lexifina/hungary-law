@@ -18,12 +18,15 @@ c) online kaszinó,
 
 d) távszerencsejáték,
 
-e) Szjtv. 20. §-a szerinti sorsolásos játék,
+e)[^1]
 
-f) távszerencsejátéknak nem minősülő fogadás.
+f)[^2]
 
 (4) A jelentős önkorlátozó nyilatkozatban az állami adóhatóság tevékenységi engedélyével rendelkező szervező jelölhető meg.
 
 (5) A jelentős önkorlátozó nyilatkozat érvényességi ideje 1 év, 3 év vagy 5 év. Az 1 évet meg nem haladó érvényességű nyilatkozat visszavonásának nincs helye. Az 1 évet meghaladó érvényességű nyilatkozat legalább 2 év leteltét követően a személyazonosság igazolása mellett az állami adóhatóság kijelölt ügyfélszolgálatán, személyesen tett írásbeli nyilatkozatban vonható vissza.
 
 (6) A 2. § (1) bekezdés a)–c) pontja szerinti tájékoztatót a jelentős önkorlátozó nyilatkozat átvételével egyidejűleg nyomtatott formában a játékos rendelkezésére kell bocsátani.
+
+[^1]: Az 5. § (3) bekezdés e) pontját a 261/2016. (VIII. 31.) Korm. rendelet 1. § a) pontja hatályon kívül helyezte.
+[^2]: Az 5. § (3) bekezdés f) pontját a 261/2016. (VIII. 31.) Korm. rendelet 1. § a) pontja hatályon kívül helyezte.
