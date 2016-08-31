@@ -1,3 +1,5 @@
+## számolható el.
+
 ## 6. A 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezés
 
 10. § (1) A közszolgáltatásért járó ellentételezés (ezen alcím vonatkozásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett részére nyújtható.

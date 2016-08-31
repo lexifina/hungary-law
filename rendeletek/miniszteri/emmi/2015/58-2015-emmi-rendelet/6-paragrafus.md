@@ -1,5 +1,3 @@
-## lehet támogatási döntést hozni.
-
 ## 2. Az 1407/2013/EU bizottsági rendelet szerinti csekély összegű támogatás
 
 6. § (1) Csekély összegű (de minimis) támogatás – a 11. §-ban foglalt esetet kivéve – az 1407/2013/EU bizottsági rendelet alapján nyújtható.
