@@ -16,6 +16,6 @@
 
 (8) A belügyi rendelkezésű lakásra kötött bérleti szerződés megszűnése esetén, amennyiben a lakásügyi szervet elhelyezési kötelezettség terheli, e kötelezettségét az addig bérelt lakás határozatlan idejű bérbeadásával is teljesítheti, ha a bérbeadás nem sért lakásgazdálkodási érdeket.
 
-(9)[^12] Amennyiben a hivatásos szolgálati jogviszonyban álló bérlő bérleti jogviszonyának megszűnésére nyugállományba helyezése következtében kerül sor, lakásbérleti jogát – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény rendelkezéseinek figyelembevételével – a lakásbérleti szerződésében foglalt feltételek szerint megtartja. E rendelkezés a munkaköri szolgálati lakásokra nem alkalmazható.
+(9)[^13] Amennyiben a hivatásos szolgálati jogviszonyban álló bérlő bérleti jogviszonyának megszűnésére nyugállományba helyezése következtében kerül sor, lakásbérleti jogát – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény rendelkezéseinek figyelembevételével – a lakásbérleti szerződésében foglalt feltételek szerint megtartja. E rendelkezés a munkaköri szolgálati lakásokra nem alkalmazható.
 
-[^12]: A 9. § (9) bekezdése a 37/2015. (VI. 16.) BM rendelet 83. §-ával megállapított szöveg.
+[^13]: A 9. § (9) bekezdése a 37/2015. (VI. 16.) BM rendelet 83. §-ával megállapított szöveg.
