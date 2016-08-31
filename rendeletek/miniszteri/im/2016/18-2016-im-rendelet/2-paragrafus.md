@@ -1,0 +1,1 @@
+## „7. érkeztetés: a bíróságra érkezett minden beadványon – az irat valamennyi példányán és mellékletén – a beadvány beérkezése keltének rögzítése, elektronikus eljárásban a beadvány rögzítése a lajstromprogramban a befogadás-visszaigazolásban feltüntetett időpontnak megfelelően;”
