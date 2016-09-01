@@ -1,6 +1,6 @@
 ## A kereskedelmi tevékenység ellenőrzésére vonatkozó eljárások, szankciók
 
-26. § (1)[^43] A fogyasztóvédelmi hatóság jár el
+26. § (1)[^45] A fogyasztóvédelmi hatóság jár el
 
 a) a fogyasztóvédelemről szóló 1997. évi CLV. törvény (a továbbiakban: Fgytv.) szabályai szerint a 18. § (1) bekezdés a)–f) és h)–i) pontja, (2) és (3) bekezdése, a 19. §, a 20. §, valamint a 23. § szerinti rendelkezések megsértése esetén, valamint
 
@@ -8,4 +8,4 @@ b) a fogyasztókkal szembeni tisztességtelen kereskedelmi gyakorlat tilalmáró
 
 (2) Az (1) bekezdésben említett rendelkezések az Fgytv. alkalmazásában fogyasztóvédelmi rendelkezések.
 
-[^43]: A 26. § (1) bekezdés nyitó szövegrésze a 351/2010. (XII. 30.) Korm. rendelet 257. § (2) bekezdése szerint módosított szöveg.
+[^45]: A 26. § (1) bekezdés nyitó szövegrésze a 351/2010. (XII. 30.) Korm. rendelet 257. § (2) bekezdése szerint módosított szöveg.

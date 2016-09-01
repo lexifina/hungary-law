@@ -20,9 +20,9 @@ I.
 
 4.3. üzleten kívüli kereskedés és csomagküldő kereskedelem esetében a működési terület jegyzéke, a működési területével érintett települések, vagy – ha a tevékenység egy egész megyére vagy az ország egészére kiterjed – a megye, illetve az országos jelleg megjelölése;
 
-4.4.[^54] a közlekedési eszközön folytatott értékesítés esetén annak a közlekedési eszköznek a megjelölése (a jármű azonosítására használt jelzés feltüntetésével), amelyen kereskedelmi tevékenységet kívánnak folytatni;
+4.4.[^56] a közlekedési eszközön folytatott értékesítés esetén annak a közlekedési eszköznek a megjelölése (a jármű azonosítására használt jelzés feltüntetésével), amelyen kereskedelmi tevékenységet kívánnak folytatni;
 
-4a.[^55] üzleten kívüli kereskedelem esetén a termék forgalmazása céljából szervezett utazás vagy tartott rendezvény helyének és időpontjának, illetve a szervezett utazás keretében tartott rendezvény esetén az utazás indulási és célhelyének, valamint az utazás időpontjának megjelölése;
+4a.[^57] üzleten kívüli kereskedelem esetén a termék forgalmazása céljából szervezett utazás vagy tartott rendezvény helyének és időpontjának, illetve a szervezett utazás keretében tartott rendezvény esetén az utazás indulási és célhelyének, valamint az utazás időpontjának megjelölése;
 
 5. a kereskedelmi tevékenység helye szerinti bontásban a folytatni kívánt kereskedelmi tevékenység formája a Kertv. 3. § (4) bekezdése szerint;
 
@@ -44,7 +44,7 @@ I.
 
 6.8. a 25. § (4) bekezdés szerinti esetben a vásárlók könyve nyomtatvány azonosító adatai és használatba vételének időpontja;
 
-6.9.[^56] napi fogyasztási cikket értékesítő üzlet esetén az árusítótér nettó alapterülete, az üzlethez létesített gépjármű-várakozóhelyek száma, azok telekhatártól mért távolsága és elhelyezése (saját telken vagy más telken parkolóban, parkolóházban vagy közterületek közlekedésre szánt területe egy részén, illetve a közforgalom céljára átadott magánút egy részén);
+6.9.[^58] napi fogyasztási cikket értékesítő üzlet esetén az árusítótér nettó alapterülete, az üzlethez létesített gépjármű-várakozóhelyek száma, azok telekhatártól mért távolsága és elhelyezése (saját telken vagy más telken parkolóban, parkolóházban vagy közterületek közlekedésre szánt területe egy részén, illetve a közforgalom céljára átadott magánút egy részén);
 
 7. az egyes kereskedelmi formák és helyek szerinti bontásban a forgalmazni kívánt
 
@@ -134,6 +134,6 @@ II.
 
 III.
 
-[^54]: Az 1. melléklet A) cím I. alcím 4. pont 4.4. alpontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^55]: Az 1. melléklet A) cím I. alcím 4a. pontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^56]: Az 1. melléklet A) cím I. alcím 6. pont 6.9. alpontját az 524/2013. (XII. 30.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^56]: Az 1. melléklet A) cím I. alcím 4. pont 4.4. alpontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^57]: Az 1. melléklet A) cím I. alcím 4a. pontját az 524/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^58]: Az 1. melléklet A) cím I. alcím 6. pont 6.9. alpontját az 524/2013. (XII. 30.) Korm. rendelet 7. § (1) bekezdése iktatta be.
