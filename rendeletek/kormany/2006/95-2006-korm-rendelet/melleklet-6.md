@@ -8,7 +8,7 @@
 
 1.2. A veszélyeztetettség értékelésének és minősítésének alapja egy, a kockázatot és a hatások értékelését figyelembe vevő módszer, amely a veszélyes anyagokkal kapcsolatos súlyos balesetből adódó következményeknek, valamint a bekövetkezés valószínűségének együttes figyelembevételével határozza meg a veszélyeztetést. A veszélyes katonai objektum felügyeleti hatóság az engedélyezési és a hatósági felügyeleti tevékenysége során, a meghatározott minősítési követelményekkel összevetve minősíti a veszélyes tevékenységet. A veszélyeztetettség értékelése szolgáltat alapot a településrendezési tervezéshez.
 
-1.3.[^34] A szakhatóság
+1.3.[^36] A szakhatóság
 
 1.3.1. hozzájárulása az üzemeltető biztonsági elemzésével vagy biztonsági jelentésével összefüggésben a következők felülvizsgálatára és ellenőrzésére terjed ki:
 
@@ -90,4 +90,4 @@ Ennek során:
 
 2.5. A veszélyes katonai objektum felügyeleti hatóság felülvizsgálja azt, hogy a belső védelmi tervben megjelölt szervezetek rendelkeznek-e megfelelő szakfelszereléssel és egyéni védőfelszereléssel, és ezek műszaki állapota lehetővé teszi-e az alkalmazásukat. Hasonlóképpen ellenőrzi azt, hogy a feladataikra való felkészítésük, illetve az előírt rendben való gyakoroltatásuk dokumentáltan megtörtént-e.
 
-[^34]: A 6. melléklet 1. pont 1.3. alpontja a 362/2008. (XII. 31.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
+[^36]: A 6. melléklet 1. pont 1.3. alpontja a 362/2008. (XII. 31.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
