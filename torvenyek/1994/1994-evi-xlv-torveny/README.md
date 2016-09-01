@@ -1,4 +1,4 @@
-# 1994. évi XLV. törvény a hadigondozásról a végrehajtásáról szóló 113/1994. (VIII. 31.) Korm. rendelettel egységes szerkezetben
+# 1994. évi XLV. törvény a hadigondozásról
 
 Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-45-00-00
 
@@ -14,3 +14,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-45-00-00
 | 2015-12-20 | 2015. évi CCX. törvény | 1994-45-00-00.18 |
 | 2015-12-30 | 1997. évi XIX. törvény | 1994-45-00-00.19 |
 | 2016-01-01 | 479/2015. (XII. 29.) Korm. rendelet | 1994-45-00-00.20 |
+| 2016-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 1994-45-00-00.21 |
