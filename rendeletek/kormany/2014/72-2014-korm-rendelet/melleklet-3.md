@@ -1,4 +1,4 @@
-3. melléklet a 72/2014. (III. 13.) Korm. rendelethez
+3. melléklet a 72/2014. (III. 13.) Korm. rendelethez[^6]
 
 Adatlap
 
@@ -44,7 +44,7 @@ Az anya a gyermek születése előtt kért-e segítséget, ha igen, mennyi időv
 
 Az anya életkora a szüléskor:
 
-Az anya titkolta-e terhességét, ha igen, ki elől és miért:
+Az anya titkolta-e várandósságát, ha igen, ki elől és miért:
 
 Az anya családi állapota:
 
@@ -66,7 +66,7 @@ Az anya a gyermek születése előtt kért-e segítséget, ha igen, mennyi időv
 
 Az anya életkora a szüléskor:
 
-Az anya titkolta-e terhességét, ha igen, ki elől és miért:
+Az anya titkolta-e várandósságát, ha igen, ki elől és miért:
 
 Az anya családi állapota:
 
@@ -77,3 +77,5 @@ Az apa támogatja-e az anyát, együtt él-e vele:
 Mi volt a válság oka:
 
 Mi segített a gyermek nevelésének vállalásában:
+
+[^6]: A 3. melléklet a 244/2016. (VIII. 17.) Korm. rendelet 6. § c) pontja szerint módosított szöveg.

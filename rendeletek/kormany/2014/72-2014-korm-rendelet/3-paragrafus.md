@@ -4,7 +4,7 @@ a) a szolgáltatás szakmai programját,
 
 b) a szolgáltatásért felelős szakmai vezető és valamennyi szolgáltatást végző személy 1. mellékletben meghatározottak szerinti szakképesítését igazoló okirat másolatát,
 
-c) a szolgáltatásért felelős szakmai vezető és valamennyi szolgáltatást végző személy részére a Nemzeti Család- és Szociálpolitikai Intézet által kiállított, a működési engedély iránti kérelemben megjelölt tevékenységnek megfelelő felkészítő tanfolyam elvégzését tanúsító bizonyítvány másolatát,
+c)[^2] a szolgáltatásért felelős szakmai vezető és valamennyi szolgáltatást végző személy részére a szolgáltatást engedélyező szerv által kiállított, a működési engedély iránti kérelemben megjelölt tevékenységnek megfelelő felkészítő tanfolyam elvégzését tanúsító bizonyítvány másolatát,
 
 d) a szolgáltatásért felelős szakmai vezető és a szolgáltatást végző személy nyilatkozatát arra vonatkozóan, hogy vele szemben nem állnak fenn a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény (a továbbiakban: Gyvt.) 15. § (8) bekezdésében meghatározott kizáró okok,
 
@@ -19,3 +19,5 @@ h) a szolgáltatás körében okozott kár megtérítésére kötött felelőss�
 i) – ha a nyílt örökbefogadást elősegítő közhasznú szervezet családok átmeneti otthonát is működtet – nyilatkozatot arról, hogy az intézmény szerepel a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásáról és ellenőrzéséről szóló kormányrendelet szerinti szolgáltatói nyilvántartásban (a továbbiakban: szolgáltatói nyilvántartás).
 
 (2) Ha a kérelmező a közhasznú szervezet bírósági nyilvántartásba vételét nem igazolja, a szolgáltatást engedélyező szerv a bírósági nyilvántartásból szerzi be, illetve ellenőrzi a közhasznú szervezet adatait.
+
+[^2]: A 3. § (1) bekezdés c) pontja a 244/2016. (VIII. 17.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.

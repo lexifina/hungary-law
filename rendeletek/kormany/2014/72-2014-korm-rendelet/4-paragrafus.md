@@ -2,7 +2,7 @@
 
 a) a közhasznú szervezetet a bíróság nyilvántartásba vette;
 
-b) a szolgáltatásért felelős szakmai vezető és a szolgáltatást végző személy megfelel az 1. mellékletben meghatározott képesítési feltételeknek, valamint elvégezte a Nemzeti Család- és Szociálpolitikai Intézetnek a működési engedély iránti kérelemben megjelölt tevékenységnek megfelelő felkészítő tanfolyamát;
+b)[^3] a szolgáltatásért felelős szakmai vezető és a szolgáltatást végző személy megfelel az 1. mellékletben meghatározott képesítési feltételeknek, valamint elvégezte a szolgáltatást engedélyező szervnek a működési engedély iránti kérelemben megjelölt tevékenységnek megfelelő felkészítő tanfolyamát;
 
 c) a közhasznú szervezet rendelkezik
 
@@ -37,3 +37,5 @@ e) annak a területnek a megjelölését, ahol a szolgáltatás az engedély ala
 (4) A szolgáltatást engedélyező szerv a kiadott működési engedélyekről belső nyilvántartást vezet.
 
 (5) A szolgáltatást engedélyező szerv a 6. §-ban meghatározottak szerint visszavont működési engedélyt a visszavonásról hozott határozat jogerőre emelkedését követő öt év elteltével törli a nyilvántartásból.
+
+[^3]: A 4. § (1) bekezdés b) pontja a 244/2016. (VIII. 17.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
