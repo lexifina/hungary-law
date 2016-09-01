@@ -1,4 +1,4 @@
-## 30/A. [^135] Fokozati vizsga
+## 30/A. [^138] Fokozati vizsga
 
 107/A. § (1) Fokozati vizsgára kötelezett a tiszti és az altiszti állomány
 
@@ -16,4 +16,4 @@ b) százados, őrnagy vagy alezredes, valamint főtörzsőrmester, zászlós vag
 
 (6) Fokozati vizsga szempontjából nem vezetői beosztás az a beosztás, amely esetében a Hjt. 5. melléklete szerint az alapilletmény az I., a II., vagy a III. besorolási osztály szerint kerül megállapításra.
 
-[^135]: A 30/A. alcímet (107/A–107/F. §) a 4/2015. (VI. 22.) HM rendelet 21. §-a iktatta be, szövege a 10/2016. (VI. 29.) HM rendelet 22. §-ával megállapított szöveg.
+[^138]: A 30/A. alcímet (107/A–107/F. §) a 4/2015. (VI. 22.) HM rendelet 21. §-a iktatta be, szövege a 10/2016. (VI. 29.) HM rendelet 22. §-ával megállapított szöveg.

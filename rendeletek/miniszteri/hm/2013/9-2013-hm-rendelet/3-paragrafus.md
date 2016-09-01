@@ -24,14 +24,23 @@ i) a miniszter által vezetett minisztérium (a továbbiakban: HM) állománya, 
 
 (3)[^18] A (2) bekezdés d) pontja esetén, továbbá a (2) bekezdés f) pontja esetén az állományilletékes parancsnoki jogkört gyakorló szolgálati elöljárót a Nemzeti Közszolgálati Egyetem (a továbbiakban: NKE) esetén a HVKF, a miniszter fenntartói irányítása alá tartozó, honvédségi szervezetnek nem minősülő köznevelési intézmény esetén a miniszter jelöli ki.
 
+(3a)[^19] Ha a Hjt. 52/A. § (3) bekezdése szerinti megállapodásban a felek a Hjt. 51. § (6) bekezdésétől, illetve 52. § (1) bekezdésétől eltérően rendelkeznek, az e megállapodás alapján a nem a más szerv vezetője által gyakorolt munkáltatói jogkörök tekintetében – a (2) bekezdés e) pontjától eltérően – az állomány tagja felett
+
+a) a szolgálati viszony létesítése, módosítása, megszüntetése és az illetmény-megállapítás tekintetében a központi személyügyi szerv vezetője,
+
+b) egyéb állományilletékes parancsnoki döntés tekintetében a miniszter által kijelölt szolgálati elöljáró
+
+gyakorolja az állományilletékes parancsnoki jogkört.
+
 (4) Ahol miniszteri rendelet állományilletékes parancsnokot említ, azon az állományilletékes parancsnoki jogkört gyakorló személyt is érteni kell.
 
 (5) Ha miniszteri rendelet eltérően nem rendelkezik, az állományilletékes parancsnok munkáltatói jogköre az általa vezetett honvédelmi szervezet állományára, valamint a közvetlen alárendeltségében lévő honvédségi szervezet vezetőjére terjed ki.
 
-(6)[^19] Az állományilletékes parancsnoknak, az elöljáró parancsnoknak, a Magyar Honvédség Összhaderőnemi Parancsnokság (a továbbiakban: MH ÖHP) parancsnokának, a központi személyügyi szerv vezetőjének és a HVKF-nek a munkáltatói jogköreit a miniszter, az állományilletékes parancsnoknak, az elöljáró parancsnoknak, az MH ÖHP parancsnokának és a központi személyügyi szerv vezetőjének a munkáltatói jogköreit a HVKF, az állományilletékes honvédelmi szervezet személyügyi szerve vezetőjének a munkáltatói jogköreit az állományilletékes parancsnok bármikor magához vonhatja.
+(6)[^20] Az állományilletékes parancsnoknak, az elöljáró parancsnoknak, a Magyar Honvédség Összhaderőnemi Parancsnokság (a továbbiakban: MH ÖHP) parancsnokának, a központi személyügyi szerv vezetőjének és a HVKF-nek a munkáltatói jogköreit a miniszter, az állományilletékes parancsnoknak, az elöljáró parancsnoknak, az MH ÖHP parancsnokának és a központi személyügyi szerv vezetőjének a munkáltatói jogköreit a HVKF, az állományilletékes honvédelmi szervezet személyügyi szerve vezetőjének a munkáltatói jogköreit az állományilletékes parancsnok bármikor magához vonhatja.
 
 [^15]: A 3. § (2) bekezdés d) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 5. pontja szerint módosított szöveg.
 [^16]: A 3. § (2) bekezdés e) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 6. pontja szerint módosított szöveg.
 [^17]: A 3. § (2a) bekezdését a 10/2016. (VI. 29.) HM rendelet 3. § (1) bekezdése iktatta be.
 [^18]: A 3. § (3) bekezdése a 4/2015. (VI. 22.) HM rendelet 27. § 7–8. pontja szerint módosított szöveg.
-[^19]: A 3. § (6) bekezdése a 10/2016. (VI. 29.) HM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^19]: A 3. § (3a) bekezdését a 15/2016. (VIII. 31.) HM rendelet 1. §-a iktatta be.
+[^20]: A 3. § (6) bekezdése a 10/2016. (VI. 29.) HM rendelet 3. § (2) bekezdésével megállapított szöveg.

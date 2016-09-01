@@ -1,4 +1,4 @@
-17. § (1)[^38] Az állomány tagja havi illetményéről kiadott illetmény-megállapításról szóló munkáltatói döntés a 13. §-ban meghatározottakon túl tartalmazza különösen
+17. § (1)[^39] Az állomány tagja havi illetményéről kiadott illetmény-megállapításról szóló munkáltatói döntés a 13. §-ban meghatározottakon túl tartalmazza különösen
 
 a) az illetmény-megállapítás okának megnevezését, a kapcsolódó munkáltatói döntés számát,
 
@@ -20,15 +20,15 @@ i) az állomány tagját megillető egyes illetményelemek együttes összegét,
 
 j) a megállapított besorolás szerinti illetményre való jogosultság kezdő napját.
 
-(2)[^39] A Hjt. 122. § (4) bekezdése szerinti illetményváltozásról szóló értesítés a 13. §-on túl tartalmazza különösen
+(2)[^40] A Hjt. 122. § (4) bekezdése szerinti illetményváltozásról szóló értesítés a 13. §-on túl tartalmazza különösen
 
-a)[^40] az értesítés okát,
+a)[^41] az értesítés okát,
 
 b) a módosuló illetményelemek megnevezését,
 
-c)[^41] az értesítés szerint módosuló illetményre való jogosultság kezdőnapját, az (1) bekezdés e)–h) pontja szerinti elemeket, és
+c)[^42] az értesítés szerint módosuló illetményre való jogosultság kezdőnapját, az (1) bekezdés e)–h) pontja szerinti elemeket, és
 
-d)[^42] az (1) bekezdés i) pontja szerinti elemet.
+d)[^43] az (1) bekezdés i) pontja szerinti elemet.
 
 (3) Az állományilletékes parancsnok havonta megállapítja az állomány tagja eseti illetménypótlékra vagy eseti kiegészítő illetményre való jogosultságát, meghatározza annak mértékét. Az erről szóló munkáltatói döntésnek a 13. §-on túl tartalmaznia kell különösen
 
@@ -40,11 +40,11 @@ c) a megállapított eseti illetménypótlék megnevezését, a pótlék összeg
 
 d) a megállapított eseti kiegészítő illetmény megnevezését, és annak összegét.
 
-(4)[^43] Szerződéses pályakezdő esetén az (1) bekezdés b) pontjának alkalmazása szempontjából a tervezett beosztását kell figyelembe venni.
+(4)[^44] Szerződéses pályakezdő esetén az (1) bekezdés b) pontjának alkalmazása szempontjából a tervezett beosztását kell figyelembe venni.
 
-[^38]: A 17. § (1) bekezdése a 4/2015. (VI. 22.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^39]: A 17. § (2) bekezdés nyitó szövegrésze a 4/2015. (VI. 22.) HM rendelet 27. § 15. pontja szerint módosított szöveg.
-[^40]: A 17. § (2) bekezdés a) pontja a 10/2016. (VI. 29.) HM rendelet 7. §-ával megállapított szöveg.
-[^41]: A 17. § (2) bekezdés c) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 16. pontja szerint módosított szöveg.
-[^42]: A 17. § (2) bekezdés d) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 17. pontja szerint módosított szöveg.
-[^43]: A 17. § (4) bekezdését a 4/2015. (VI. 22.) HM rendelet 6. § (2) bekezdése iktatta be.
+[^39]: A 17. § (1) bekezdése a 4/2015. (VI. 22.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^40]: A 17. § (2) bekezdés nyitó szövegrésze a 4/2015. (VI. 22.) HM rendelet 27. § 15. pontja szerint módosított szöveg.
+[^41]: A 17. § (2) bekezdés a) pontja a 10/2016. (VI. 29.) HM rendelet 7. §-ával megállapított szöveg.
+[^42]: A 17. § (2) bekezdés c) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 16. pontja szerint módosított szöveg.
+[^43]: A 17. § (2) bekezdés d) pontja a 4/2015. (VI. 22.) HM rendelet 27. § 17. pontja szerint módosított szöveg.
+[^44]: A 17. § (4) bekezdését a 4/2015. (VI. 22.) HM rendelet 6. § (2) bekezdése iktatta be.

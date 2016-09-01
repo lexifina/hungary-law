@@ -1,4 +1,4 @@
-## VI. Fejezet[^139]
+## VI. Fejezet[^142]
 
 ## SZOLGÁLATTELJESÍTÉSI IDŐ
 
@@ -12,7 +12,7 @@
 
 (4) A munkáltatói jogkört gyakorló a szolgálatteljesítési idő adott napra vonatkozó beosztását – továbbá szolgálatteljesítési időkeret alkalmazása esetén a heti pihenőnap kijelölését – előre nem látható körülmény esetén legalább kettő nappal korábban módosíthatja. A módosítást az állomány tagjával a helyben szokásos módon kell közölni.
 
-(5)[^140] Az állományilletékes parancsnok az állomány általános szolgálati rendben szolgálatot teljesítő tagjának indokolt kérelmére legfeljebb 1 évre, a napi szolgálatteljesítési idő kezdő és befejező időpontját érintően eltérő munkarendet is engedélyezhet, feltéve, hogy az engedély megadása a honvédelmi szervezet működőképességének fenntartását nem akadályozza.
+(5)[^143] Az állományilletékes parancsnok az állomány általános szolgálati rendben szolgálatot teljesítő tagjának indokolt kérelmére legfeljebb 1 évre, a napi szolgálatteljesítési idő kezdő és befejező időpontját érintően eltérő munkarendet is engedélyezhet, feltéve, hogy az engedély megadása a honvédelmi szervezet működőképességének fenntartását nem akadályozza.
 
-[^139]: A VI. fejezet (117/A–126/B. §) a 4/2015. (VI. 22.) HM rendelet 22. §-ával megállapított szöveg.
-[^140]: A 117/A. § (5) bekezdését a 10/2016. (VI. 29.) HM rendelet 23. §-a iktatta be.
+[^142]: A VI. fejezet (117/A–126/B. §) a 4/2015. (VI. 22.) HM rendelet 22. §-ával megállapított szöveg.
+[^143]: A 117/A. § (5) bekezdését a 10/2016. (VI. 29.) HM rendelet 23. §-a iktatta be.

@@ -1,13 +1,13 @@
-103. §[^127] (1) A központi személyügyi szerv a szakmai felelősökkel együttműködve a beérkezett jelöltválasztások alapján elvégzi az előmenetelre tervezett jelöltek üres szolgálati beosztásokhoz történő hozzárendelését.
+103. §[^130] (1) A központi személyügyi szerv a szakmai felelősökkel együttműködve a beérkezett jelöltválasztások alapján elvégzi az előmenetelre tervezett jelöltek üres szolgálati beosztásokhoz történő hozzárendelését.
 
-(2)[^128] A Hjt. 83. § (5) bekezdésének alkalmazása esetén a Hjt. 83. § (2) bekezdés a) pontja szerint megfelelő betölthető magasabb beosztásnak minősül az a szolgálati beosztás, amely
+(2)[^131] A Hjt. 83. § (5) bekezdésének alkalmazása esetén a Hjt. 83. § (2) bekezdés a) pontja szerint megfelelő betölthető magasabb beosztásnak minősül az a szolgálati beosztás, amely
 
 a) a központi előmenetel tervezés során feltölthető beosztásként volt megjelölve, és
 
 b) az adott beosztásra nem volt megfelelő jelölt.
 
-(3)[^129] A (2) bekezdésben foglaltakat a helyi előmenetel tervezés során megfelelően alkalmazni kell.
+(3)[^132] A (2) bekezdésben foglaltakat a helyi előmenetel tervezés során megfelelően alkalmazni kell.
 
-[^127]: A 103. § a 4/2015. (VI. 22.) HM rendelet 20. §-ával megállapított szöveg.
-[^128]: A 103. § (2) bekezdés nyitó szövegrésze a 18/2015. (XII. 22.) HM rendelet 22. § d) pontja szerint módosított szöveg.
-[^129]: A 103. § (3) bekezdését a 10/2016. (VI. 29.) HM rendelet 19. §-a iktatta be.
+[^130]: A 103. § a 4/2015. (VI. 22.) HM rendelet 20. §-ával megállapított szöveg.
+[^131]: A 103. § (2) bekezdés nyitó szövegrésze a 18/2015. (XII. 22.) HM rendelet 22. § d) pontja szerint módosított szöveg.
+[^132]: A 103. § (3) bekezdését a 10/2016. (VI. 29.) HM rendelet 19. §-a iktatta be.

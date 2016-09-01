@@ -1,4 +1,4 @@
-46. § (1)[^67] A miniszter
+46. § (1)[^68] A miniszter
 
 a) a 45. § (2) bekezdése szerinti feltételek, és
 
@@ -8,4 +8,4 @@ teljesítése alól szolgálati beosztásba történő áthelyezés vagy kinevez
 
 (2) Nem feltétele a felsővezetői tanfolyam elvégzése a szolgálati beosztás betöltésének, ha a szolgálati beosztás az NKE-nek a Honvédségnél létrehozott munkaköri jegyzékében kerül rendszeresítésre.
 
-[^67]: A 46. § (1) bekezdés záró szövegrésze a 4/2015. (VI. 22.) HM rendelet 27. § 20. pontja szerint módosított szöveg.
+[^68]: A 46. § (1) bekezdés záró szövegrésze a 4/2015. (VI. 22.) HM rendelet 27. § 20. pontja szerint módosított szöveg.

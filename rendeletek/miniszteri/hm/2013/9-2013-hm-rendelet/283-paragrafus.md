@@ -1,8 +1,8 @@
-283. § (1)[^210]
+283. § (1)[^214]
 
 (2) A minősítő vizsga eredményét legelőször a 2015. évi előmeneteli tervezésnél kell figyelembe venni.
 
-(3)[^211]
+(3)[^215]
 
 (4) Az előmeneteli rangsorok kialakításakor
 
@@ -14,5 +14,5 @@ kell figyelembe venni.
 
 (5) Akiről 2014 januárjában teljesítményértékelés nem készíthető, a 82. § figyelembe vételével az utolsó teljesítményértékelésének pontszámát át kell számítani százalékra azzal, hogy a kapott pontszámát el kell osztani 127-tel.
 
-[^210]: A 283. § (1) bekezdését a 4/2015. (VI. 22.) HM rendelet 29. § q) pontja hatályon kívül helyezte.
-[^211]: A 283. § (3) bekezdését a 4/2015. (VI. 22.) HM rendelet 29. § q) pontja hatályon kívül helyezte.
+[^214]: A 283. § (1) bekezdését a 4/2015. (VI. 22.) HM rendelet 29. § q) pontja hatályon kívül helyezte.
+[^215]: A 283. § (3) bekezdését a 4/2015. (VI. 22.) HM rendelet 29. § q) pontja hatályon kívül helyezte.

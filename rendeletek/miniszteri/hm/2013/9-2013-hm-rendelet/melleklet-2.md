@@ -380,7 +380,7 @@
 
 | 187. | - tábornok; főtiszt; tiszt; zászlós; altiszt |  | X |  |  |  |
 
-2. melléklet a 9/2013. (VIII. 12.) HM rendelethez[^218]
+2. melléklet a 9/2013. (VIII. 12.) HM rendelethez[^222]
 
 A MUNKAKÖRI KÖVETELMÉNYEK MEGÁLLAPÍTÁSÁHOZ ALKALMAZOTT RÖVIDÍTÉSEK ÉS KÓDOK GYŰJTEMÉNYE, VALAMINT A MUNKAKÖRI KÖVETELMÉNYEK MEGHATÁROZÁSA
 
@@ -1404,4 +1404,4 @@ EKV katonai mesterfokozatú MSc, egyetemi szintű katonai végzettség
 
 2.10. Gép- és harcjárművezetők
 
-[^218]: A 2. melléklet a 4/2015. (VI. 22.) HM rendelet 28. § (2) bekezdésével megállapított, a 18/2015. (XII. 22.) HM rendelet 22. § g) pontja, a 10/2016. (VI. 29.) HM rendelet 27. § (2) bekezdése szerint módosított szöveg.
+[^222]: A 2. melléklet a 4/2015. (VI. 22.) HM rendelet 28. § (2) bekezdésével megállapított, a 18/2015. (XII. 22.) HM rendelet 22. § g) pontja, a 10/2016. (VI. 29.) HM rendelet 27. § (2) bekezdése szerint módosított szöveg.

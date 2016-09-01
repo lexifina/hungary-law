@@ -1,3 +1,3 @@
-88. §[^97]
+88. §[^100]
 
-[^97]: A 88. §-t a 4/2015. (VI. 22.) HM rendelet 29. § g) pontja hatályon kívül helyezte.
+[^100]: A 88. §-t a 4/2015. (VI. 22.) HM rendelet 29. § g) pontja hatályon kívül helyezte.

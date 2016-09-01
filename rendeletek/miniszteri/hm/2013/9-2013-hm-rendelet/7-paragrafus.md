@@ -2,8 +2,8 @@
 
 (2) Tárgyévben tanulmányait befejező honvéd tisztjelölt és honvéd altiszt-jelölt hivatásos állományba vétele esetén a személyügyi eljárás megkezdésének időpontja a 262. § (2) bekezdése szerinti jegyzőkönyv aláírásának napja.
 
-(3)[^29]
+(3)[^30]
 
 (4) Ha jogszabály a munkáltatói döntést kérelemhez köti, a személyügyi eljárás a kérelem állományilletékes parancsnokhoz érkezését követő napon kezdődik meg.
 
-[^29]: A 7. § (3) bekezdését a 18/2015. (XII. 22.) HM rendelet 23. § b) pontja hatályon kívül helyezte.
+[^30]: A 7. § (3) bekezdését a 18/2015. (XII. 22.) HM rendelet 23. § b) pontja hatályon kívül helyezte.
