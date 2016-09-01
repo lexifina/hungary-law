@@ -1,4 +1,0 @@
-## 76/K. §[^566] Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet módosításáról szóló 224/2016. (VII. 28.) Korm. rendelettel (a továbbiakban: Módr7.) megállapított, a 2016. január 1-je és 2016. július 31-e közötti időszakra járó finanszírozási összegeket az OEP a 2016. augusztusi kifizetésekkel egyidejűleg utalványozza a Módr7. hatálybalépése[^567] napján hatályos finanszírozási szerződéssel rendelkező háziorvosi, házi gyermekorvosi, alapellátást nyújtó fogorvosi, fogorvosi ügyeleti, védőnői, valamint iskola- és ifjúság-egészségügyi ellátást nyújtó szolgáltatók számára, azzal, hogy az érintett időszakban finanszírozási szerződést kötött szolgáltatók a finanszírozás időarányos részére jogosultak.
-
-[^566]: A 76/K. §-t a 224/2016. (VII. 28.) Korm. rendelet 1. §-a iktatta be.
-[^567]: A hatálybalépés napja 2016. augusztus 2.

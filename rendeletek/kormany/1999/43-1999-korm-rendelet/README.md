@@ -62,3 +62,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1999-43-20-2
 | 2016-08-01 | 1999-43-20-22.132 | 205/2016. (VII. 21.) Korm. rendelet |
 | 2016-08-02 | 1999-43-20-22.133 | 362/2013. (X. 11.) Korm. rendelet |
 | 2016-08-17 | 1999-43-20-22.134 | 329/2005. (XII. 29.) Korm. rendelet |
+| 2016-09-01 | 1999-43-20-22.135 | 291/2009. (XII. 18.) Korm. rendelet |

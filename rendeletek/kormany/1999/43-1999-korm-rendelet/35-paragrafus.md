@@ -20,7 +20,7 @@ b)[^398]
 
 a)[^402]
 
-b)[^403] a járóbeteg- vagy fekvőbeteg-szakellátást nyújtó szolgáltató klinikai onkológusának, a daganatos megbetegedés lokalizációja szerint illetékes szakorvosnak vagy az otthoni hospice ellátást végző szolgáltató palliatív jártasságú szakorvosának vagy palliatív mobil csoport (mobil team) palliatív jártasságú szakorvosának a javaslata alapján a háziorvos.
+b)[^403] a járóbeteg- vagy fekvőbeteg-szakellátást nyújtó szolgáltató klinikai onkológusának, a daganatos megbetegedés lokalizációja szerint illetékes szakorvosnak vagy az otthoni hospice ellátást végző szolgáltató palliatív jártasságú szakorvosának vagy palliatív mobil csoport (mobil team) palliatív jártasságú szakorvosának a javaslata alapján vagy saját kezdeményezésre a háziorvos.
 
 (6) Otthoni hospice ellátás elrendelése esetén egyidejűleg otthoni szakápolás nem rendelhető el.
 
@@ -54,7 +54,7 @@ b)[^403] a járóbeteg- vagy fekvőbeteg-szakellátást nyújtó szolgáltató k
 [^400]: A 35. § (4a) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 15. §-a iktatta be.
 [^401]: A 35. § (4b) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 15. §-a iktatta be.
 [^402]: A 35. § (5) bekezdés a) pontját a 447/2012. (XII. 29.) Korm. rendelet 29. § d) pontja hatályon kívül helyezte.
-[^403]: A 35. § (5) bekezdés b) pontja a 291/2009. (XII. 18.) Korm. rendelet 11. §-ával megállapított, a 447/2012. (XII. 29.) Korm. rendelet 28. § i) pontja szerint módosított szöveg.
+[^403]: A 35. § (5) bekezdés b) pontja a 291/2009. (XII. 18.) Korm. rendelet 11. §-ával megállapított, a 447/2012. (XII. 29.) Korm. rendelet 28. § i) pontja, a 204/2016. (VII. 21.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^404]: A 35. § (7) bekezdése a 365/2010. (XII. 30.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
 [^405]: A 35. § (8) bekezdése a 291/2009. (XII. 18.) Korm. rendelet 16. § (5) bekezdése, a 365/2010. (XII. 30.) Korm. rendelet 18. § 38. pontja, a 447/2012. (XII. 29.) Korm. rendelet 28. § j) pontja, a 364/2014. (XII. 30.) Korm. rendelet 40. § d) pontja szerint módosított szöveg.
 [^406]: A 35. § (9) bekezdése a 364/2014. (XII. 30.) Korm. rendelet 32. §-ával megállapított szöveg.
