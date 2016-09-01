@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-362-20-
 | 2015-04-01 | 2008-362-20-22.17 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-08-15 | 2008-362-20-22.18 | 300/2014. (XII. 5.) Korm. rendelet |
 | 2016-07-01 | 2008-362-20-22.19 | 109/2016. (V. 20.) Korm. rendelet |
+| 2016-09-01 | 2008-362-20-22.20 | 70/2015. (III. 30.) Korm. rendelet |
