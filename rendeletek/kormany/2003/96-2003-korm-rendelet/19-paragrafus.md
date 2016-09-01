@@ -1,22 +1,22 @@
 ## A működési engedély visszavonása
 
-19. § (1)[^116] Az egészségügyi államigazgatási szerv a működési engedélyt visszavonja, ha
+19. § (1)[^121] Az egészségügyi államigazgatási szerv a működési engedélyt visszavonja, ha
 
 a) azt az egészségügyi szolgáltató kéri,
 
 b) az egészségügyi szolgáltató megszűnik,
 
-c)[^117] az egyéni vállalkozói tevékenyég folytatására való jogosultsága megszűnik,
+c)[^122] az egyéni vállalkozói tevékenyég folytatására való jogosultsága megszűnik,
 
-d)[^118] az egyéni vállalkozót törölték az orvosok vagy az egészségügyi szakdolgozók működési nyilvántartásából, vagy a szakmai kamarából jogerős határozattal kizárták, vagy a jogszabály szerinti eljárásban a munkaköri egészségi alkalmasság elbírálásának során az egészségügyi tevékenység végzésétől eltiltották,
+d)[^123] az egyéni vállalkozót törölték az orvosok vagy az egészségügyi szakdolgozók működési nyilvántartásából, vagy a szakmai kamarából jogerős határozattal kizárták, vagy a jogszabály szerinti eljárásban a munkaköri egészségi alkalmasság elbírálásának során az egészségügyi tevékenység végzésétől eltiltották,
 
-e)[^119] a 16. § (2) bekezdés e) és g) pontja szerinti esetek fennállnak,
+e)[^124] a 16. § (2) bekezdés e) és g) pontja szerinti esetek fennállnak,
 
 f) az egészségügyi szolgáltató tevékenységét nem a működési engedélyben foglaltaknak megfelelően végzi, és a kitűzött határidőre sem tett eleget a működési engedélyben foglaltaknak megfelelő működtetésnek,
 
 g) az egészségügyi szolgáltató a működési engedélyben nem szereplő szolgáltatást nyújt, és a kitűzött határidőre sem kérte a működési engedélye módosítását,
 
-h)[^120] az egészségügyi alapellátás körében kötött feladat-ellátási szerződés megszűnik,
+h)[^125] az egészségügyi alapellátás körében kötött feladat-ellátási szerződés megszűnik,
 
 i) az egészségügyi szolgáltató nem rendelkezik érvényes felelősségbiztosítási szerződéssel,
 
@@ -24,14 +24,14 @@ j) az egészségügyi szolgáltató bejelentés nélkül legalább hat hónapja 
 
 k) a szakfelügyeleti vizsgálat olyan szakmai szabályok súlyos megsértését tárta fel, mely a betegek biztonságos ellátását veszélyezteti,
 
-l)[^121] a közreműködést igénybe vevő egészségügyi szolgáltató bejelentése szerint a közreműködő szolgáltatóval kötött közreműködői szerződés megszűnt.
+l)[^126] a közreműködést igénybe vevő egészségügyi szolgáltató bejelentése szerint a közreműködő szolgáltatóval kötött közreműködői szerződés megszűnt.
 
-(2)[^122] A működési engedély visszavonásáról a visszavonás időpontjában a szolgáltató vonatkozásában a 7. § (2) bekezdése alapján hatáskörrel rendelkező egészségügyi államigazgatási szerv dönt. A működési engedély visszavonásáról szóló határozatot közölni kell a 11. § (5) bekezdésében felsorolt szervekkel.
+(2)[^127] A működési engedély visszavonásáról a visszavonás időpontjában a szolgáltató vonatkozásában a 7. § (2) bekezdése alapján hatáskörrel rendelkező egészségügyi államigazgatási szerv dönt. A működési engedély visszavonásáról szóló határozatot közölni kell a 11. § (5) bekezdésében felsorolt szervekkel.
 
-[^116]: A 19. § (1) bekezdésének bevezető szövegrésze a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^117]: A 19. § (1) bekezdés c) pontja a 308/2009. (XII. 28.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^118]: A 19. § (1) bekezdés d) pontja a 325/2011. (XII. 28.) Korm. rendelet 44. §-ával megállapított szöveg.
-[^119]: A 19. § (1) bekezdés e) pontja a 325/2011. (XII. 28.) Korm. rendelet 44. §-ával megállapított szöveg.
-[^120]: A 19. § (1) bekezdésének h) pontját a 215/2009. (IX. 30.) Korm. rendelet 8. § (2) bekezdésének i) pontja hatályon kívül helyezte, újonnan a 137/2012. (VI. 29.) Korm. rendelet 29. §-a iktatta be.
-[^121]: A 19. § (1) bekezdés l) pontját a 447/2012. (XII. 29.) Korm. rendelet 34. § (1) bekezdése iktatta be.
-[^122]: A 19. § (2) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
+[^121]: A 19. § (1) bekezdésének bevezető szövegrésze a 215/2009. (IX. 30.) Korm. rendelet 8. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^122]: A 19. § (1) bekezdés c) pontja a 308/2009. (XII. 28.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^123]: A 19. § (1) bekezdés d) pontja a 325/2011. (XII. 28.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^124]: A 19. § (1) bekezdés e) pontja a 325/2011. (XII. 28.) Korm. rendelet 44. §-ával megállapított szöveg.
+[^125]: A 19. § (1) bekezdésének h) pontját a 215/2009. (IX. 30.) Korm. rendelet 8. § (2) bekezdésének i) pontja hatályon kívül helyezte, újonnan a 137/2012. (VI. 29.) Korm. rendelet 29. §-a iktatta be.
+[^126]: A 19. § (1) bekezdés l) pontját a 447/2012. (XII. 29.) Korm. rendelet 34. § (1) bekezdése iktatta be.
+[^127]: A 19. § (2) bekezdése a 447/2012. (XII. 29.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
