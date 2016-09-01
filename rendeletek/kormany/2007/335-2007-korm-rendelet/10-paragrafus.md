@@ -1,6 +1,6 @@
 ## További adatkérésre jogosult szervek kijelölése
 
-## 10. §[^27] A Törvény 2. § (1) bekezdés és a 4. § (1) bekezdése szerinti adatkérésre jogosultak továbbá:
+## 10. §[^28] A Törvény 2. § (1) bekezdés és a 4. § (1) bekezdése szerinti adatkérésre jogosultak továbbá:
 
 a) az Állami Számvevőszék elnöke,
 
@@ -14,19 +14,20 @@ e) a Nemzeti Adatvédelmi és Információszabadság Hatóság elnöke,
 
 f) a Nemzeti Média- és Hírközlési Hatóság elnöke,
 
-g)[^28] a Magyar Nemzeti Bank elnöke,
+g)[^29] a Magyar Nemzeti Bank elnöke,
 
 h) a Magyar Tudományos Akadémia elnöke,
 
 i) a Költségvetési Tanács elnöke,
 
-j)[^29] az európai uniós források felhasználásáért felelős miniszter,
+j)[^30] az európai uniós források felhasználásáért felelős miniszter, valamint
 
-k) az Országgyűlés Hivatalának vezetője, valamint
+k)[^31] az Országgyűlés Hivatalának vezetője.
 
-l)[^30] a Közigazgatási és Igazságügyi Hivatal vezetője.
+l)[^32]
 
-[^27]: A 10. § az 55/2012. (III. 30.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^28]: A 10. § g) pontja a 345/2013. (IX. 30.) Korm. rendelet 47. §-ával megállapított szöveg.
-[^29]: A 10. § j) pontja a 221/2014. (IX. 4.) Korm. rendelet 417. §-ával megállapított szöveg.
-[^30]: A 10. § l) pontja a 178/2012. (VII. 26.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^28]: A 10. § az 55/2012. (III. 30.) Korm. rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^29]: A 10. § g) pontja a 345/2013. (IX. 30.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^30]: A 10. § j) pontja a 251/2016. (VIII. 24.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^31]: A 10. § k) pontja a 251/2016. (VIII. 24.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^32]: A 10. § l) pontját a 251/2016. (VIII. 24.) Korm. rendelet 5. § (2) bekezdése hatályon kívül helyezte.

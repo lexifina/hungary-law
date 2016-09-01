@@ -1,6 +1,6 @@
-## Az adatbázis létrehozásáért felelős szerv általános feladatai[^3]
+## Az adatbázis létrehozásáért felelős szerv általános feladatai[^4]
 
-2. § (1)[^4] Az adatbázis létrehozásáért felelős szerv a Törvényben meghatározott feladatokkal kapcsolatban honlapján rendszeresen tájékoztatja
+2. § (1)[^5] Az adatbázis létrehozásáért felelős szerv a Törvényben meghatározott feladatokkal kapcsolatban honlapján rendszeresen tájékoztatja
 
 a) az adatkezelőket
 
@@ -14,7 +14,7 @@ ad) az adattovábbítás módjáról, ha arra a Törvény 4. § szerinti kapcsol
 
 b) az adatkérőket arról, hogy a kért adatállomány mely jellemzőit célszerű megadni az adatkérésben.
 
-(2)[^5] Az adatbázis létrehozásáért felelős szerv honlapján közzéteszi
+(2)[^6] Az adatbázis létrehozásáért felelős szerv honlapján közzéteszi
 
 a) a Törvény 2. és 4. §-a alapján kezdeményezett adatkérésekről a Törvény 2. § (4) bekezdésében és 7. § (4) bekezdésében meghatározott információkat, az adatkezelő által vállalt határidőt, valamint a teljesítés létrejöttét vagy elmulasztását – az adatok átadását vagy a határidő eredménytelen elteltét követő – 3 napon belül,
 
@@ -28,6 +28,6 @@ e) a Törvény 4. §-a alapján kezdeményezett adatkérések esetében az álta
 
 f) a tevékenységére vonatkozó éves összefoglalót a tárgyévet követő év február 15-éig.
 
-[^3]: A 2. §-t megelőző alcím az 55/2012. (III. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § (1) bekezdés nyitó szövegrésze az 55/2012. (III. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
-[^5]: A 2. § (2) bekezdés nyitó szövegrésze az 55/2012. (III. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^4]: A 2. §-t megelőző alcím az 55/2012. (III. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés nyitó szövegrésze az 55/2012. (III. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^6]: A 2. § (2) bekezdés nyitó szövegrésze az 55/2012. (III. 30.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
