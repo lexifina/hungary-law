@@ -104,8 +104,8 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 25. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 26. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+| 26. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
 | 27. | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-[^5]: A 2. számú melléklet a 72/2015. (III. 30.) Korm. rendelet 2. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^5]: A 2. számú melléklet a 72/2015. (III. 30.) Korm. rendelet 2. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 92. §-a szerint módosított szöveg.
