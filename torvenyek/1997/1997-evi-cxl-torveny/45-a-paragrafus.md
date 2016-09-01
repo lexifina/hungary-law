@@ -1,5 +1,13 @@
 45/A. § (1) A megyei hatókörű városi múzeum gyűjtőköre legalább öt muzeológiai szakágra terjed ki, gyűjtőterülete a megye és a megyében levő megyei jogú városok közigazgatási területe.
 
+(1a) A miniszter a fenntartó kérelmére, a muzeális intézmény működési engedélyének kiadására vagy módosítására irányuló eljárás keretében – amennyiben a természettudományi feltárás vagy a helyszíni gyűjtés módszertani sajátosságai indokolják – az (1) bekezdésben foglaltaktól eltérő gyűjtőterületet is engedélyezhet
+
+a) természettudomány gyűjtőkör, vagy
+
+b) nemzetiségi bázisintézménnyé minősített muzeális intézmény esetén néprajz, történet és képzőművészet gyűjtőkör
+
+esetében.
+
 (2) A megyei hatókörű városi múzeum a gyűjtőterületére kiterjedően – a 37/A. §-ban és a 42. § (2) bekezdésében foglalt feladatokon túlmenően – állami feladatai keretében:
 
 a) vagyonkezelője az alapleltárában és jogszabály szerinti külön nyilvántartásában szereplő kulturális javaknak,

@@ -12,6 +12,14 @@ c) egy járás (járási múzeum)
 
 közigazgatási területére terjed ki.
 
+(2a) A miniszter a fenntartó kérelmére, a muzeális intézmény működési engedélyének kiadására vagy módosítására irányuló eljárás keretében – amennyiben a természettudományi feltárás vagy a helyszíni gyűjtés módszertani sajátosságai indokolják – a (2) bekezdésben foglaltaktól eltérő gyűjtőterületet is engedélyezhet
+
+a) természettudomány gyűjtőkör, vagy
+
+b) nemzetiségi bázisintézménnyé minősített muzeális intézmény esetén néprajz, történet és képzőművészet gyűjtőkör
+
+esetében.
+
 (3) A területi múzeum vezetőjének megbízásához és annak visszavonásához a miniszter véleményét előzetesen ki kell kérni.
 
 (4) A területi múzeum gyűjtőterületére kiterjedően – a megyei hatókörű városi múzeummal kötött megállapodás alapján – elláthatja a megyei hatókörű városi múzeum 45/A. § (2) bekezdés bf), bg), bh) pontjaiban foglalt feladatait, vagy azok egy részét.
