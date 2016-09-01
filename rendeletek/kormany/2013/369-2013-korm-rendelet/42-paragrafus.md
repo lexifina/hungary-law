@@ -1,6 +1,6 @@
 42. § (1) A jogsértés és a jogkövetkezmények jellegének, valamint a jogsértés súlyának megfelelően egyidejűleg több jogkövetkezmény is megállapítható.
 
-(2)[^124] A hatósági szerződésben a 41. § (2) bekezdése szerinti jogkövetkezmények köthetők ki.
+(2)[^125] A hatósági szerződésben a 41. § (2) bekezdése szerinti jogkövetkezmények köthetők ki.
 
 (3) A jogsértés jellegétől és súlyától függően, az ellátottak érdekeinek figyelembevételével a 41. § (2) bekezdés a) pontja alapján történő ideiglenes hatályú bejegyzés hatálya egy alkalommal, legfeljebb egy évvel meghosszabbítható.
 
@@ -22,13 +22,13 @@ ha az engedélyes személyi, tárgyi feltételei vagy működése az ellátottak
 
 (7) Az engedélyes épületének lezárt része szolgáltatáshoz akkor használható, ha a működést engedélyező szerv a lezárást – az arra okot adó körülmény megszűnése esetén – a fenntartó kérelmére megszünteti.
 
-(8)[^125] Ha a fenntartó igazolja, hogy házi segítségnyújtás esetén a felülvizsgálatot megelőző hat hónapon belül bekövetkezett állapotváltozás miatt módosult az ellátott gondozási szükséglete, a fenntartó és a működést engedélyező szerv a megállapított gondozási szükségletet az állapotváltozás időpontjától kezdődően módosítja.
+(8)[^126] Ha a fenntartó igazolja, hogy házi segítségnyújtás esetén a felülvizsgálatot megelőző hat hónapon belül bekövetkezett állapotváltozás miatt módosult az ellátott gondozási szükséglete, a fenntartó és a működést engedélyező szerv a megállapított gondozási szükségletet az állapotváltozás időpontjától kezdődően módosítja.
 
-(9)[^126] Ha a fenntartó házi segítségnyújtás esetén nem igazolja a felülvizsgálatot megelőző hat hónapon belül bekövetkezett állapotváltozást, és a felülvizsgálat alapján az ellátott személyi gondozása helyett szociális segítés indokolt, a megállapított gondozási szükségletet hat hónapra visszamenőlegesen kell módosítani.
+(9)[^127] Ha a fenntartó házi segítségnyújtás esetén nem igazolja a felülvizsgálatot megelőző hat hónapon belül bekövetkezett állapotváltozást, és a felülvizsgálat alapján az ellátott személyi gondozása helyett szociális segítés indokolt, a megállapított gondozási szükségletet hat hónapra visszamenőlegesen kell módosítani.
 
-(10)[^127] Ha a fenntartó házi segítségnyújtás esetén nem igazolja a felülvizsgálatot megelőző hat hónapon belül bekövetkezett állapotváltozást, a (9) bekezdésben nem említett esetben a fenntartói felülvizsgálat időpontjától, illetve a működést engedélyező szerv felülvizsgálatról szóló határozatának jogerőre emelkedésétől kezdődően kell a megállapított gondozási szükségletet módosítani.
+(10)[^128] Ha a fenntartó házi segítségnyújtás esetén nem igazolja a felülvizsgálatot megelőző hat hónapon belül bekövetkezett állapotváltozást, a (9) bekezdésben nem említett esetben a fenntartói felülvizsgálat időpontjától, illetve a működést engedélyező szerv felülvizsgálatról szóló határozatának jogerőre emelkedésétől kezdődően kell a megállapított gondozási szükségletet módosítani.
 
-[^124]: A 42. § (2) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 72. §-ával megállapított szöveg.
-[^125]: A 42. § (8) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 36. §-a iktatta be.
-[^126]: A 42. § (9) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 36. §-a iktatta be.
-[^127]: A 42. § (10) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 36. §-a iktatta be.
+[^125]: A 42. § (2) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 72. §-ával megállapított szöveg.
+[^126]: A 42. § (8) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 36. §-a iktatta be.
+[^127]: A 42. § (9) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 36. §-a iktatta be.
+[^128]: A 42. § (10) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 36. §-a iktatta be.

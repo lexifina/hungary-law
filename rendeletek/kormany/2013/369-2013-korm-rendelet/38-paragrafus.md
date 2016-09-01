@@ -1,4 +1,4 @@
-38. §[^103] (1) A működést engedélyező szerv az ellenőrzésről készült jegyzőkönyvet megküldi
+38. §[^104] (1) A működést engedélyező szerv az ellenőrzésről készült jegyzőkönyvet megküldi
 
 a) a fenntartónak,
 
@@ -8,4 +8,4 @@ c) költségvetési támogatással működő engedélyes, valamint finanszíroz�
 
 (2) A megyei működést engedélyező szerv az ellenőrzésről készült jegyzőkönyvet – elektronikus levélben – megküldi a Hivatalnak.
 
-[^103]: A 38. § a 419/2015. (XII. 23.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^104]: A 38. § a 419/2015. (XII. 23.) Korm. rendelet 32. §-ával megállapított szöveg.
