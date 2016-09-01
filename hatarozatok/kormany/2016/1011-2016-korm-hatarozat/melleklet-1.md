@@ -20,15 +20,15 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-1.2.1-16 | Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása Pest megyében | 3,58 | egyszerűsített | 2016. április |
+| 2. | VEKOP-1.2.1-16 | Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása Pest megyében | 3,58 | egyszerűsített | Meghirdetve 2016. májusban |
 
 | 3. | VEKOP-1.2.2-15 | Az üzleti infrastruktúra fejlesztésének támogatása Pest megyében | 2,865 | területi | Meghirdetve 2016. áprilisban |
 
 | 4. |  |  |  |  |  |
 
-| 5. | VEKOP-1.2.3-16 | Mikro-, kis- és középvállalkozások versenyképességének növelése Pest megyében (hitelprogram) | 3,67 | pénzügyi eszköz | 2016. május |
+| 5. | VEKOP-1.2.3-16 | Mikro-, kis- és középvállalkozások versenyképességének növelése Pest megyében (hitelprogram) | 3,67 | pénzügyi eszköz | 2016. augusztus |
 
-| 6. | VEKOP-1.3.1-16 | Mikro-, kis- és középvállalkozások piaci megjelenésének támogatása | 1,23 | egyszerűsített | 2016. április |
+| 6. | VEKOP-1.3.1-16 | Mikro-, kis- és középvállalkozások piaci megjelenésének támogatása | 1,23 | egyszerűsített | Meghirdetve 2016. áprilisban |
 
 | 7. | VEKOP-1.3.2-15 | Turisztikai szervezetek (TDM) fejlesztése | 0,20 | standard | Meghirdetve 2016. márciusban |
 
@@ -42,11 +42,11 @@
 
 | 2a. | VEKOP-2.1.2-16 | Intelligens szakosodási kockázati tőkeprogram | 5,49 | pénzügyi eszköz | 2016. szeptember |
 
-| 3. | VEKOP-2.1.7-16 | Prototípus, termék-, technológia- és szolgáltatásfejlesztés | 6,00 | standard | 2016. április |
+| 3. | VEKOP-2.1.7-16 | Prototípus, termék-, technológia- és szolgáltatásfejlesztés | 6,00 | standard | Meghirdetve 2016. májusban |
 
 | 4. | VEKOP-2.2.1-16 | Versenyképességi és Kiválósági Együttműködések | 2,64 | standard | 2016. október |
 
-| 5. | VEKOP-2.3.2-16 | Stratégiai K+F műhelyek kiválósága | 4,00 | standard | 2016. május |
+| 5. | VEKOP-2.3.2-16 | Stratégiai K+F műhelyek kiválósága | 4,00 | standard | Meghirdetve 2016. júliusban |
 
 | 6. | VEKOP-2.3.3-15 | K+I infrastruktúra megerősítése – nemzetköziesedés, hálózatosodás | 6,00 | standard | Meghirdetve 2016. januárban |
 
@@ -62,7 +62,7 @@
 
 | 3. | VEKOP-4.1.2-16 | Tematikus hálózatok fejlesztése | 1,00 | standard | 2016. augusztus |
 
-| 4. | VEKOP-4.2.1-15 | Élőhelyek és fajok természetvédelmi helyzetének javítása, a természetvédelmi bemutatás infrastruktúrájának javítása | 2,70 | kiemelt | Meghirdetve 2016. márciusban |
+| 4. | VEKOP-4.2.1-15 | Élőhelyek és fajok természetvédelmi helyzetének javítása, a természetvédelmi bemutatás infrastruktúrájának javítása | 3,02 | kiemelt | Meghirdetve 2016. márciusban |
 
 5. Az energiahatékonyság, az intelligens energiahasználat és a megújuló energiák felhasználásának támogatásáról szóló 5. prioritás
 
@@ -70,11 +70,11 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-5.1.1-16 | Vállalkozások épületenergetikai fejlesztései, valamint helyi hő- és villamosenergia-igény kielégítése megújuló energiaforrásokkal a közép-magyarországi régióban | 5,88 | standard/egyszerűsített | 2016. július |
+| 2. | VEKOP-5.1.1-16 | Vállalkozások megújuló energia használatával megvalósuló épületenergetikai fejlesztéseinek támogatása a közép-magyarországi régióban kombinált hiteltermékkel | 5,88 | egyszerűsített | 2016. szeptember |
 
-| 3. | VEKOP-5.1.2-16 | Vállalkozások épületenergetikai fejlesztései, valamint helyi hő- és villamosenergia-igény kielégítése megújuló energiaforrásokkal a közép-magyarországi régióban | 5,88 | pénzügyi eszköz | 2016. július |
+| 3. | VEKOP-5.1.2-16 | Vállalkozások megújuló energia használatával megvalósuló épületenergetikai fejlesztéseinek támogatása a közép-magyarországi régióban (kombinált hitel) | 5,88 | pénzügyi eszköz | 2016. szeptember |
 
-| 4. | VEKOP-5.2.1-16 | Lakóépületek energiahatékonyságának és megújuló energia felhasználásának növelését célzó pénzügyi eszközök | 9,41 | pénzügyi eszköz | 2016. augusztus |
+| 4. | VEKOP-5.2.1-16 | Lakóépületek energiahatékonyságának és megújuló energia felhasználásának növelését célzó hitel | 9,41 | pénzügyi eszköz | 2016. augusztus |
 
 | 5. | VEKOP-5.3.1-15 | Fenntartható közlekedésfejlesztés Budapesten | 8,390 | területi | Meghirdetve 2016. márciusban |
 
@@ -92,9 +92,11 @@
 
 | 4. | VEKOP-6.2.2-15 | A leromlott településrészeken élő alacsony státuszú lakosság életkörülményeinek javítása, társadalmi és fizikai rehabilitációja Pest megyében | 1,897 | területi | Meghirdetve 2016. márciusban |
 
-| 5. | VEKOP-6.3.1-16 | Gyermekotthonok kiváltása, korszerűsítése, hiányzó gyermekotthoni kapacitások létrehozása | 1,26 | standard | 2016. május |
+| 5. | VEKOP-6.3.1-16 | Gyermekotthonok kiváltása, korszerűsítése, hiányzó gyermekotthoni kapacitások létrehozása | 1,26 | standard | Meghirdetve 2016. júliusban |
 
-| 6. | VEKOP-6.3.5-16 | Egészségügyi szakellátók nővérszállóinak fejlesztése | 1,49 | kiemelt | 2016. június |
+| 5a. | VEKOP-6.3.2-16 | Intézményi ellátásról a közösségi alapú szolgáltatásokra való áttérés fejlesztése – intézményi férőhely kiváltás | 0,73 | standard | 2016. szeptember |
+
+| 6. | VEKOP-6.3.5-16 | Egészségügyi szakellátók szállóinak fejlesztése | 1,49 | kiemelt | 2016. szeptember |
 
 7. A társadalmi hozzáférést bővítő és humánerőforrás fejlesztést támogató programokról szóló 7. prioritás
 
@@ -102,23 +104,23 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | VEKOP-7.1.1-16 | Nő az esély – képzés és foglalkoztatás | 0,25 | kiemelt | 2016. május |
+| 2. | VEKOP-7.1.1-16 | Nő az esély – képzés és foglalkoztatás | 0,25 | kiemelt | 2016. augusztus |
 
 | 3. | VEKOP-7.1.3-15 | Megváltozott munkaképességű emberek támogatása | 2,00 | kiemelt | Meghirdetve 2015. decemberben |
 
-| 4. | VEKOP-7.1.4-16 | Szegregált élethelyzetek felszámolása komplex programokkal (ESZA) | 0,45 | standard | 2016. június |
+| 4. | VEKOP-7.1.4-16 | Szegregált élethelyzetek felszámolása komplex programokkal (ESZA) | 0,45 | standard | 2016. augusztus |
 
 | 5. | VEKOP-7.1.5-16 | Elsőként lakhatás | 0,30 | standard | 2016. szeptember |
 
-| 6. | VEKOP-7.2.2-16 | Népegészségügyi intézményrendszer helyi kapacitásainak fejlesztése | 1,70 | standard | 2016. június |
+| 6. | VEKOP-7.2.2-16 | Az alapellátás és népegészségügy rendszerének átfogó fejlesztése (népegészségügyi helyi kapacitásfejlesztés) | 1,70 | kiemelt | 2016. szeptember |
 
 | 7. | VEKOP-7.3.2-16 | Tanoda programok támogatása | 0,35 | standard | Meghirdetve 2016. márciusban |
 
 | 8. | VEKOP-7.4.1-16 | Roma szakkollégiumok támogatása | 0,30 | standard | Meghirdetve 2016. márciusban |
 
-| 9. | VEKOP-7.4.2-16 | Felsőoktatási hallgatók tudományos műhelyeinek és programjainak támogatása | 2,22 | standard | 2016. szeptember |
+| 9. |  |  |  |  |  |
 
-| 10. | VEKOP-7.5.1-16 | Szociális humánerőforrás fejlesztése | 1,68 | kiemelt | 2016. május |
+| 10. | VEKOP-7.5.1-16 | Szociális humánerőforrás fejlesztése | 1,68 | kiemelt | 2016. augusztus |
 
 8. A foglalkoztathatóságot szolgáló programokról szóló 8. prioritás
 
@@ -128,19 +130,19 @@
 
 | 2. | VEKOP-8.1.1-15 | Út a munkaerőpiacra | 17,80 | kiemelt | Meghirdetve 2015. októberben |
 
-| 3. | VEKOP-8.1.2-16 | Nem állami szervezetek és társadalmi partnerek munkaerőpiaci szolgáltatásainak támogatása | 1,00 | standard | 2016. május |
+| 3. | VEKOP-8.1.2-16 | Nem állami szervezetek és társadalmi partnerek munkaerőpiaci szolgáltatásainak támogatása | 1,00 | standard | 2016. augusztus |
 
 | 4. | VEKOP-8.2.1-15 | Ifjúsági Garancia a közép-magyarországi régióban | 4,20 | kiemelt | Meghirdetve 2015. augusztusban |
 
-| 5. | VEKOP-8.3.1-16 | Fiatalok vállalkozóvá válásának támogatása | 1,04 | egyszerűsített | 2016. május |
+| 5. | VEKOP-8.3.1-16 | Fiatalok vállalkozóvá válásának támogatása | 1,04 | egyszerűsített | Meghirdetve 2016. áprilisban |
 
-| 6. | VEKOP-8.5.1-16 | Idegen nyelvi készségek fejlesztése | 2,50 | kiemelt | 2016. augusztus |
+| 6. | VEKOP-8.5.1-16 | Idegen nyelvi készségek fejlesztése | 2,50 | kiemelt | 2016. október |
 
-| 7. | VEKOP-8.5.2-16 | Munkahelyi képzések támogatása nagyvállalatok munkavállalói számára | 1,30 | standard | 2016. augusztus |
+| 7. | VEKOP-8.5.2-16 | Munkahelyi képzések támogatása nagyvállalatok munkavállalói számára | 1,30 | standard | 2016. szeptember |
 
-| 8. | VEKOP-8.5.3-16 | Munkahelyi képzések támogatása kis és középvállalatok munkavállalói számára | 2,60 | kiemelt | 2016. augusztus |
+| 8. | VEKOP-8.5.3-16 | Munkahelyi képzések támogatása mikro-, kis- és középvállalatok munkavállalói számára | 2,60 | kiemelt | 2016. szeptember |
 
-| 9. | VEKOP-8.6.3-16 | A szakképzési intézményrendszer átfogó fejlesztése | 1,30 | egyszerűsített | 2016. május |
+| 9. | VEKOP-8.6.3-16 | A szakképzési intézményrendszer átfogó fejlesztése | 2,10 | egyszerűsített | 2016. október |
 
 9. A Gazdaságfejlesztési és Innovációs Operatív Program országos kihatású projektjeinek részben a Versenyképes Közép-Magyarország Operatív Program terhére történő finanszírozása
 
@@ -148,19 +150,21 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Versenyképes Közép-Magyarország Operatív Program terhére történő finanszírozás (Mrd Ft) |
 
-| 2. | GINOP-1.1.2-VEKOP-16 | Vállalkozói mentorálás a mikro-, kis- és középvállalkozások részére | 0,28 |
+| 2. | GINOP-1.1.2-VEKOP-16 | kis- és középvállalkozás szektor hatékonyságának növelése pénzügyi ismeretek, vállalkozói mentorálás és tőzsdei bevezetést szolgáló intézkedések biztosítása révén | 0,28 |
 
-| 3. | GINOP-3.1.1-VEKOP-15 | Oktatási intézmények és IKT vállalkozások közötti együttműködés ösztönzése és támogatása | 0,84 |
+| 3. | GINOP-3.1.1-VEKOP-15 | Oktatási intézmények és IKT vállalkozások közötti együttműködés ösztönzése és támogatása | 1,62 |
 
 | 4. | GINOP-3.4.2-VEKOP-15 | Intézmények hálózati hozzáféréseinek, kapcsolatainak fejlesztése | 0,86 |
 
-| 5. | GINOP-3.4.3-VEKOP-15 | Kormányzati hálózatok konszolidációja, kapacitásainak, teljesítményének növelése | 2,58 |
+| 5. | GINOP-3.4.3-VEKOP-15 | Kormányzati hálózatok konszolidációja, kapacitásainak, teljesítményének növelése | 1,29 |
+
+| 5a. | GINOP-3.4.5- VEKOP-16 | Kormányzati hálózatok konszolidációja, kapacitásainak, teljesítményének növelése és intézmények hálózati hozzáféréseinek, kapcsolatainak fejlesztése | 1,29 |
 
 | 6. | GINOP-6.2.1-VEKOP-15 | Részvétel az OECD Felnőttek Képesség- és Kompetenciamérése programjában (PIAAC) | 0,30 |
 
 | 7. | GINOP-6.2.2-VEKOP-15 | A szakképzést végzettség nélkül elhagyók számának csökkentése | 0,49 |
 
-| 8. | GINOP-5.3.6-VEKOP-16 | Jogszerű foglalkoztatás ösztönzése, valamint a kevésbé fejlett régiókban vállalati felelősségvállalás ösztönzése és állásfeltárás | 1,00 |
+| 8. |  |  |  |
 
 | 9. | GINOP-6.2.4-VEKOP-16 | A 21. századi szakképzés és felnőttképzés minőségének, valamint tartalmának fejlesztése | 1,92 |
 
@@ -184,7 +188,7 @@
 
 | 3. | EFOP-1.2.3-VEKOP-15 | Komplex ifjúsági fejlesztések – új nemzedék újratöltve | 1,50 |
 
-| 4. | EFOP-1.2.4-VEKOP-16 | Kríziskezelő szolgálatok fejlesztése | 0,35 |
+| 4. | EFOP-1.2.4-VEKOP-16 | Kríziskezelő szolgáltatások fejlesztése | 0,35 |
 
 | 5. | EFOP-1.2.6-VEKOP-16 | Családbarát ország | 1,35 |
 
@@ -194,9 +198,9 @@
 
 | 8. | EFOP-1.8.1-VEKOP-15 | Komplex népegészségügyi szűrések | 1,97 |
 
-| 9. | EFOP-1.8.3-VEKOP-16 | Átfogó, célzott népegészségügyi fejlesztések | 2,40 |
+| 9. | EFOP-1.8.2-VEKOP-16 | Az alapellátás és népegészségügy rendszerének átfogó fejlesztése | 5,40 |
 
-| 10. | EFOP-1.8.4-VEKOP-16 | Nemzeti egészségügyi program a kívánt gyermekek megszületéséért | 0,75 |
+| 10. | EFOP-1.8.4-VEKOP-16 | Nemzeti egészségügyi program a gyermekek megszületéséért | 0,75 |
 
 | 11. | EFOP-1.9.1-VEKOP-15 | Szociális intézményi férőhely kiváltási szakmai koordinációs műhely kialakítása | 0,45 |
 
@@ -212,23 +216,25 @@
 
 | 17. | EFOP-2.2.4-VEKOP-16 | Területi gyermekvédelmi szakszolgáltatási feladatok infrastrukturális feltételeinek javítása | 0,10 |
 
-| 18. | EFOP-2.2.6-VEKOP-16 | A pszichiátria és addiktológia aktív fekvőbeteg ellátórendszer infrastrukturális feltételeinek fejlesztése és a biztonsági pszichiátriai részleg kialakítása | 0,81 |
+| 18. | EFOP-2.2.6-VEKOP-16 | Pszichiátriai ellátórendszer strukturált fejlesztése | 0,81 |
 
-| 19. | EFOP-3.1.2-VEKOP-15 | Végzettség nélküli iskolaelhagyás csökkentése | 1,20 |
+| 19. |  |  |  |
 
 | 20. | EFOP-3.1.4-VEKOP-15 | Ösztöndíj és mentorálási támogatás hátrányos helyzetű tanulóknak – útravaló ösztöndíjprogram | 1,80 |
 
-| 21. | EFOP-3.2.2-VEKOP-15 | A köznevelés tartalmi szabályozóinak megfelelő tankönyvek, taneszközök fejlesztése és digitális tartalomfejlesztés | 0,60 |
+| 21. | EFOP-3.2.2-VEKOP-15 | A köznevelés tartalmi szabályozóinak és pedagógiai módszertani eszköztárának fejlesztése | 1,80 |
 
 | 22. | EFOP-3.3.3-VEKOP-16 | Országos múzeumi és könyvtári központi fejlesztés | 0,60 |
 
 | 23. | EFOP-3.4.2-VEKOP-15 | Campus Mundi – felsőoktatási mobilitási és nemzetköziesítési program | 2,30 |
 
-| 24. | EFOP-3.4.5-VEKOP-16 | Rendszerszintű fejlesztések és hozzáférés bővítését szolgáló ágazati programok a felsőoktatásban | 1,98 |
+| 24. | EFOP-3.4.5-VEKOP-16 | Rendszerszintű fejlesztések és hozzáférés bővítését szolgáló ágazati programok a felsőoktatásban | 1,48 |
+
+| 24a. | EFOP-3.6.3-VEKOP-16 | Felsőoktatási hallgatók tudományos műhelyeinek és programjainak támogatása | 2,72 |
 
 | 25. | EFOP-3.7.2-VEKOP-16 | Az egész életen át tartó tanulást megalapozó fejlesztések | 0,75 |
 
-| 26. | EFOP-3.8.3-VEKOP-15 | Alapellátás komplex minőségi megújítása | 3,00 |
+| 26. |  |  |  |
 
 12. A Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Program országos kihatású projektjeinek részben a Versenyképes Közép-Magyarország Operatív Program terhére történő finanszírozása
 
@@ -236,9 +242,9 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Versenyképes Közép-Magyarország Operatív Program terhére történő finanszírozás (Mrd Ft) |
 
-| 2. | KÖFOP-1.0.0-VEKOP-15 | A szolgáltató kormányhivatali és közigazgatási modell bevezetése | 2,63 |
+| 2. | KÖFOP-1.0.0-VEKOP-15 | A szolgáltató kormányhivatali és közigazgatási modell bevezetése | 0,57 |
 
-| 3. | KÖFOP-1.0.0-VEKOP-15 | Hatósági eljárások és hatósági jogalkalmazási gyakorlat felülvizsgálata és egyszerűsítése | 2,67 |
+| 3. | KÖFOP-1.0.0-VEKOP-15 | Hatósági eljárások és hatósági jogalkalmazási gyakorlat felülvizsgálata és egyszerűsítése | 0,76 |
 
 | 4. | KÖFOP-1.0.0-VEKOP-15 | Adóügyi igazgatási eljárások egyszerűsítése, adminisztratív terhek csökkentése | 2,77 |
 
@@ -246,51 +252,51 @@
 
 | 6. | KÖFOP-1.0.0-VEKOP-15 | Közigazgatási eljárásokhoz kapcsolódó levéltári szolgáltatás fejlesztése | 0,50 |
 
-| 7. | KÖFOP-1.0.0-VEKOP-15 | „Digitális fogyasztóvédelem” – a fogyasztóvédelmi feladatok elektronizálása | 0,43 |
+| 7. | KÖFOP-1.0.0-VEKOP-15 | „Digitális fogyasztóvédelem” – a fogyasztóvédelmi feladatok elektronizálása | 0,32 |
 
 | 8. | KÖFOP-1.0.0-VEKOP-15 | Közúti gépjármű-, vízügyi és légügyi közlekedési-, engedélyezési és vizsgáztatási folyamatok ügyfélközpontú elektronizálása | 0,34 |
 
 | 9. | KÖFOP-1.0.0-VEKOP-15 | Kormányzati hitelesítés szolgáltatás (Gov CA) kiterjesztése | 0,53 |
 
-| 10. | KÖFOP-1.0.0-VEKOP-15 | Ügyfélkapcsolati rendszerek fejlesztése (kormányablak, települési ügysegéd, közvetlen kiszolgálás) | 2,58 |
+| 10. | KÖFOP-1.0.0-VEKOP-15 | Ügyfélkapcsolati rendszerek fejlesztése | 2,20 |
 
-| 11. | KÖFOP-1.0.0-VEKOP-15 | Hivatalos küldeménykövető | 0,61 |
+| 11. | KÖFOP-1.0.0-VEKOP-15 | Hivatalos küldeménykövető | 0,46 |
 
-| 12. | KÖFOP-1.0.0-VEKOP-15 | E-ingatlan-nyilvántartás | 3,34 |
+| 12. | KÖFOP-1.0.0-VEKOP-15 | E-ingatlan-nyilvántartás | 2,51 |
 
 | 13. | KÖFOP-1.0.0-VEKOP-15 | Közigazgatás informatikai infrastruktúrájának konszolidálása a költségek csökkentése érdekében | 2,76 |
 
-| 14. | KÖFOP-1.0.0-VEKOP-15 | Közigazgatási szakrendszerek egységes eléréséhez és interoperabilitásához központi alkalmazás szintű szolgáltatások biztosítása | 1,90 |
+| 14. | KÖFOP-1.0.0-VEKOP-15 | Közigazgatási szakrendszerek egységes eléréséhez és interoperabilitásához központi alkalmazás szintű szolgáltatások biztosítása | 1,61 |
 
 | 15. | KÖFOP-1.0.0-VEKOP-15 | Az önkormányzati ASP rendszer továbbfejlesztése és országos kiterjesztése (ASP 2.0) | 2,87 |
 
-| 16. | KÖFOP-1.0.0-VEKOP-15 | A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala által kezelt nemzeti adatvagyon nyilvántartások továbbfejlesztése, magas szintű szolgáltatóképesség megteremtése a KÖFOP 1.1.1, 1.1.2. és 1.2.3. intézkedések támogatása érdekében, az érintett adatvagyon nyilvántartások Kormányzati Adatközpontba történő integrálásával | 1,15 |
+| 16. | KÖFOP-1.0.0-VEKOP-15 | A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala által kezelt nemzeti adatvagyon nyilvántartások továbbfejlesztése, magas szintű szolgáltatóképesség megteremtése a KÖFOP 1.1.1, 1.1.2. és 1.2.3. intézkedések támogatása érdekében, az érintett adatvagyon nyilvántartások Kormányzati Adatközpontba történő integrálásával | 1,04 |
 
-| 17. | KÖFOP-1.0.0-VEKOP-15 | Szabályozott elektronikus ügyintézési szolgáltatások (SZEÜSZ) továbbfejlesztése, bővítése, bevezetése | 0,29 |
+| 17. | KÖFOP-1.0.0-VEKOP-15 | Szabályozott elektronikus ügyintézési szolgáltatások (SZEÜSZ) továbbfejlesztése, bővítése, bevezetése | 0,26 |
 
-| 18. | KÖFOP-1.0.0-VEKOP-15 | Központosított kormányzati informatikai rendszer bővítése – „KKIR3” | 0,67 |
+| 18. | KÖFOP-1.0.0-VEKOP-15 | Központosított kormányzati informatikai rendszer bővítése – „KKIR3” | 0,48 |
 
-| 19. | KÖFOP-1.0.0-VEKOP-15 | Rendészeti tevékenységekhez kapcsolódó hatósági ügyek továbbfejlesztése, a hozzá kapcsolódó elektronikus feldolgozó képesség bővítésével | 1,08 |
+| 19. | KÖFOP-1.0.0-VEKOP-15 | Rendészeti tevékenységekhez kapcsolódó hatósági ügyek továbbfejlesztése, a hozzá kapcsolódó elektronikus feldolgozó képesség bővítésével | 0,98 |
 
 | 20. | KÖFOP-1.0.0-VEKOP-15 | Katasztrófavédelem integrált hatósági ügyviteli rendszerének kialakítása | 0,19 |
 
-| 21. | KÖFOP-1.0.0-VEKOP-15 | Területi államigazgatás egységes működését támogató rendszerfejlesztések | 2,10 |
+| 21. | KÖFOP-1.0.0-VEKOP-15 | Területi államigazgatás egységes működését támogató rendszerfejlesztések | 1,72 |
 
 | 22. | KÖFOP-1.0.0-VEKOP-15 | EKEIDR egységes irat- és folyamatkezelő rendszer területi közigazgatásra történő kiterjesztésre | 0,53 |
 
-| 23. | KÖFOP-1.0.0-VEKOP-15 | 3D alapú adat infrastruktúra kialakítása | 2,48 |
+| 23. | KÖFOP-1.0.0-VEKOP-15 | 3D alapú adat infrastruktúra kialakítása | 1,86 |
 
-| 24. | KÖFOP-1.0.0-VEKOP-15 | E-építés keretrendszer – innovációval a magyar emberek szolgálatában | 1,98 |
+| 24. | KÖFOP-1.0.0-VEKOP-15 | E-építés keretrendszer – innovációval a magyar emberek szolgálatában | 1,48 |
 
-| 25. | KÖFOP-1.0.0-VEKOP-15 | Nemzeti Téradat Infrastruktúra kialakítása (NTI) | 3,46 |
+| 25. | KÖFOP-1.0.0-VEKOP-15 | Nemzeti Téradat Infrastruktúra kialakítása (NTI) | 2,59 |
 
-| 26. | KÖFOP-1.0.0-VEKOP-15 | Oktatási Anyakönyvi Rendszer kifejlesztése | 2,43 |
+| 26. | KÖFOP-1.0.0-VEKOP-15 | Oktatási Anyakönyvi Rendszer kifejlesztése | 1,82 |
 
-| 27. | KÖFOP-1.0.0-VEKOP-15 | Az egységes integrált állami vagyonnyilvántartás közhitelességének és adatkonzisztenciájának ellenőrzéséhez szükséges további fejlesztések | 0,66 |
+| 27. | KÖFOP-1.0.0-VEKOP-15 | Az egységes integrált állami vagyonnyilvántartás közhitelességének és adatkonzisztenciájának ellenőrzéséhez szükséges további fejlesztések | 0,49 |
 
-| 28. | KÖFOP-1.0.0-VEKOP-15 | A 21. század családtámogatása és nyugdíja | 2,58 |
+| 28. | KÖFOP-1.0.0-VEKOP-15 | A 21. század családtámogatása és nyugdíja | 1,93 |
 
-| 29. | KÖFOP-1.0.0-VEKOP-15 | Kormányhivatalok és önkormányzatok közötti együttműködés javítása | 1,34 |
+| 29. |  |  |  |
 
 | 30. | KÖFOP-1.0.0-VEKOP-15 | Mezőgazdasági Vízhasználat Információs és Ellenőrzési Keretrendszer (VIZEK) kialakítása | 0,80 |
 
@@ -298,19 +304,27 @@
 
 | 32. | KÖFOP-1.0.0-VEKOP-15 | Integrált Jogalkotási Rendszer | 0,57 |
 
+| 32a. | KÖFOP-1.0.0-VEKOP-15 | A külgazdasági és külügyi működést támogató kiemelt alapfolyamatok fejlesztése és szolgáltatási kapacitásuk bővítése | 0,26 |
+
+| 32b. | KÖFOP-1.0.0-VEKOP-15 | A pénzbeli ellátások megállapításával kapcsolatos központi szakrendszerek továbbfejlesztése | 0,76 |
+
+| 32c. | KÖFOP-1.0.0-VEKOP-15 | A kormányhivatal irányításának hatékonyabbá tételét biztosító háttér kialakítása | 0,96 |
+
+| 32d. | KÖFOP-1.0.0-VEKOP-15 | A hatáskör átcsoportosításból adódó szakrendszeri integrációs feladatok | 1,53 |
+
 | 33. | KÖFOP-1.2.1-VEKOP-16 | Csatlakoztatási konstrukció az önkormányzati ASP rendszer országos kiterjesztéséhez | 1,62 |
 
 | 34. | KÖFOP-2.1.1-VEKOP-15 | A közszolgáltatás komplex kompetencia, életpálya-program és oktatás technológiai fejlesztése | 3,34 |
 
 | 35. | KÖFOP-2.1.2-VEKOP-15 | A jó kormányzást megalapozó közszolgálat-fejlesztés | 2,20 |
 
-| 36. | KÖFOP-2.1.3-VEKOP-15 | A területi államigazgatási szervek humánerőforrásának fejlesztése | 1,76 |
+| 36. | KÖFOP-2.1.3-VEKOP-15 | A területi államigazgatási szervek humánerőforrásának fejlesztése | 1,32 |
 
-| 37. | KÖFOP-2.1.5-VEKOP-16 | Kormányzati Személyügyi Döntéstámogató Rendszer kialakítása | 0,57 |
+| 37. | KÖFOP-2.1.4-VEKOP-16 | A Külgazdasági és Külügyminisztérium humánerőforrás-gazdálkodásának és belső képzési rendszerének fejlesztése | 0,30 |
 
-| 38. | KÖFOP-2.1.6-VEKOP-16 | Az új közszolgálati életpályához kapcsolódó személyzeti utánpótlás | 0,29 |
+| 38. | KÖFOP-2.1.5-VEKOP-16 | A versenyképes közszolgálat személyzeti utánpótlásának stratégiai támogatása | 1,24 |
 
-| 39. | KÖFOP-2.1.7-VEKOP-16 | Az új közszolgálati életpályához kapcsolódó HR-funkciók fejlesztése, a munkaköralapú rendszer kiépítése | 0,38 |
+| 39. |  |  |  |
 
 | 40. | KÖFOP-2.2.1-VEKOP-16 | A nemzetbiztonsági ellenőrzések elektronizálása a korrupciós esetek nagyobb arányú felderítése, illetve megelőzése érdekében | 0,29 |
 
@@ -320,7 +334,7 @@
 
 | 43. | KÖFOP-2.2.4.-VEKOP-16 | E-közbeszerzés | 0,48 |
 
-| 44. | KÖFOP-2.2.5.-VEKOP-15 | Átláthatóság a közpénzek felhasználásánál, államháztartási adattárház | 1,24 |
+| 44. | KÖFOP-2.2.5.-VEKOP-15 | Átláthatóság a közpénzek felhasználásánál, államháztartási adattárház | 0,93 |
 
 | 45. | KÖFOP-2.3.1.-VEKOP-16 | Helyi közszolgáltatás információs rendszer fejlesztése és bevezetése (IKIR) | 0,76 |
 
@@ -330,8 +344,8 @@
 
 | 48. | KÖFOP-2.3.4.-VEKOP-15 | Önkormányzati fejlesztések figyelemmel kísérése II. | 0,23 |
 
-| 49. | KÖFOP-2.3.5.-VEKOP-16 | A vállalati szektorhoz kapcsolódó közigazgatási bürokrácia csökkentési program kidolgozása | 0,25 |
+| 49. | KÖFOP-2.3.6-VEKOP-16 | Integrált közhiteles víziközmű adatbázis | 1,15 |
 
 [^1]: Az 1. pont c) alpontját az 1202/2016. (IV. 15.) Korm. határozat 1. pontja iktatta be.
 [^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet az 1202/2016. (IV. 15.) Korm. határozat 2. és 3. pontja, az 1475/2016. (VIII. 31.) Korm. határozat 1. pont a) alpontja és 2. pont a)–j) alpontja szerint módosított szöveg.
