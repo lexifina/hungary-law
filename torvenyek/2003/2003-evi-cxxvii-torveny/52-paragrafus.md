@@ -1,12 +1,28 @@
 52. § (1) Az adó mértéke – figyelemmel a (3)–(4) bekezdés rendelkezéseire is –:
 
-a) a 2710 11 31, a 2710 11 41, a 2710 11 45 és a 2710 11 49 vámtarifaszám alatti ólmozatlan benzinre 120 000 Ft/ezer liter,
+a) a 2710 11 31, a 2710 11 41, a 2710 11 45 és a 2710 11 49 vámtarifaszám alatti ólmozatlan benzinre
 
-b) a 2710 11 31, a 2710 11 51 és a 2710 11 59 vámtarifaszám alatti ólmozott benzinre és a 2710 19 21 vámtarifaszám alatti petróleumra 124 200 Ft/ezer liter,
+aa) ha a kőolaj (9) bekezdés szerinti világpiaci ára az 50 amerikai dollár (a továbbiakban: USD)/hordó értéket meghaladja, 120 000 Ft/ezer liter,
 
-c) a 2710 19 41, a 2710 19 45, a 2710 19 49 vámtarifaszám alatti, tüzelő-, fűtőanyag célú gázolajra 110 350 Ft/ezer liter,
+ab) ha a kőolaj (9) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 125 000 Ft/ezer liter,
 
-d) a 2710 19 41 vámtarifaszám alatti, üzemanyag célú gázolajra 110 350 Ft/ezer liter,
+b) a 2710 11 31, a 2710 11 51 és a 2710 11 59 vámtarifaszám alatti ólmozott benzinre és a 2710 19 21 vámtarifaszám alatti petróleumra
+
+ba) ha a kőolaj (9) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 124 200 Ft/ezer liter,
+
+bb) ha a kőolaj (9) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 129 200 Ft/ezer liter,
+
+c) a 2710 19 41, a 2710 19 45, a 2710 19 49 vámtarifaszám alatti, tüzelő-, fűtőanyag célú gázolajra
+
+ca) ha a kőolaj (9) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 110 350 Ft/ezer liter,
+
+cb) ha a kőolaj (9) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 120 350 Ft/ezer liter,
+
+d) a 2710 19 41 vámtarifaszám alatti, üzemanyag célú gázolajra
+
+da) ha a kőolaj (9) bekezdés szerinti világpiaci ára meghaladja az 50 USD/hordó értéket, 110 350 Ft/ezer liter,
+
+db) ha a kőolaj (9) bekezdés szerinti világpiaci ára nem haladja meg az 50 USD/hordó értéket, 120 350 Ft/ezer liter,
 
 e) a 2710 19 61 vámtarifaszámú fűtőolajok közül azokra, amelyek viszkozitása 40 °C hőmérsékleten nagyobb, mint 4,5 mm2/s és a desztillációs vizsgálatnál a 250 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 25%-ot és a 350 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 80%-ot és 15 °C-on mért sűrűsége nagyobb 860 kg/m3-nél, 4 655 Ft/ezer kg, egyébként – ideértve az üzemanyagkénti kínálást, felhasználást, értékesítést is – 116 000 Ft/ezer kg; a 2710 19 63, a 2710 19 65 és a 2710 19 69 vámtarifaszám alá tartozó fűtőolajok közül azokra, amelyek viszkozitása 40 °C hőmérsékleten nagyobb, mint 4,5 mm2/s és a desztillációs vizsgálatnál a 250 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 25%-ot és a 350 °C hőmérsékletig átdesztilláló rész mennyisége nem haladja meg a 80%-ot és 15 °C-on mért sűrűsége nagyobb 860 kg/m3-nél, 40 000 Ft/ezer kg, egyébként – ideértve az üzemanyagkénti kínálást, felhasználást, értékesítést is – 116 000 Ft/ezer kg,
 
@@ -43,3 +59,5 @@ f) az a)–e) pont alá nem eső ásványolaj esetében – az üzemanyagkénti 
 (7) Az adó mértéke az E85 esetében – a (2) bekezdés b) pontjától eltérően – az (1) bekezdés a) pont szerinti adómérték, amennyiben az E85-öt olyan adóraktár-engedélyes bocsátja szabadforgalomba, aki állami támogatásban részesült és az (1) bekezdés a) pont szerinti adómérték, valamint a (2) bekezdés b) pont szerinti adómérték különbségének és az (1) bekezdés a) pont szerinti adómérték alkalmazásával szabadforgalomba bocsátott E85 mennyiségének szorzata nem éri el a kapott állami támogatás összegét.
 
 (8) Az E85-öt szabadforgalomba bocsátó adóraktár-engedélyes külön jogszabály szerint nyilatkozik arról, hogy részesült-e állami támogatásban.
+
+(9) Az (1) bekezdés a)–d) pontja szerinti, január 1-jétől, április 1-jétől, július 1-jétől, illetve október 1-jétől érvényes adómértékek megállapítása a Platts Crude Oil Marketwire – tárgynegyedévet megelőző negyedév első hónapjának első napja és utolsó hónapjának 15. napja közötti időszakra vonatkozó – Brent (Dated) napi jegyzései Mid értékeinek és a tárgynegyedévet megelőző negyedév első hónapjának első napja és utolsó hónapjának 15. napja közötti időszak egyes napjaitól számított mindenkori harmadik havi szállítású Brent napi jegyzések Mid értékeinek számtani átlaga alapján történik. Az így meghatározott átlagos árat az állami adó- és vámhatóság internetes honlapján a tárgynegyedévet megelőző hónap 15. napját követő 5. munkanapig közzéteszi.
