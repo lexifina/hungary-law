@@ -46,7 +46,9 @@ t) a gyermekgyógyüdülőkben, egészségügyi intézményekben rehabilitáció
 
 u) pedagógiai-szakmai szolgáltatás,
 
-v) utazó gyógypedagógusi, utazó konduktori hálózat működtetése
+v) utazó gyógypedagógusi, utazó konduktori hálózat működtetése,
+
+x) készségfejlesztő iskolai nevelés-oktatás
 
 lehet,
 
@@ -132,4 +134,12 @@ b) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény s
 
 36. egyházi köznevelési intézmény: a 2. § (3) bekezdés b) pont bb) alpontjában meghatározott személy által fenntartott köznevelési intézmény,
 
-37. lemorzsolódással veszélyeztetett tanuló: az a tanuló, akinek az adott tanévben a tanulmányi átlageredménye közepes teljesítmény alatti vagy a megelőző tanévi átlageredményéhez képest legalább 1,1 mértékű romlást mutat, és esetében komplex, rendszerszintű pedagógiai intézkedések alkalmazása válik szükségessé.
+37. lemorzsolódással veszélyeztetett tanuló: az a tanuló, akinek az adott tanévben a tanulmányi átlageredménye közepes teljesítmény alatti vagy a megelőző tanévi átlageredményéhez képest legalább 1,1 mértékű romlást mutat, és esetében komplex, rendszerszintű pedagógiai intézkedések alkalmazása válik szükségessé,
+
+38. gyógypedagógus, konduktor: a sajátos nevelési igény típusának és súlyosságának megfelelő szakon, szakirányon végzett gyógypedagógus, gyógypedagógiai tanár, gyógypedagógiai terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor (tanító) vagy konduktor (óvodapedagógus),
+
+39. utazó gyógypedagógus, utazó konduktor: az utazó gyógypedagógusi, utazó konduktori hálózat által foglalkoztatott gyógypedagógus, konduktor, aki az e törvényben meghatározott tevékenységét rendszeresen munkáltatója feladatellátási helyén kívül végzi,
+
+40. együttnevelést segítő pedagógus: az utazó gyógypedagógusi, utazó konduktori hálózat által foglalkoztatott gyógypedagógus, konduktor, továbbá a sajátos nevelési igényű gyermek, tanuló – közös vagy részben közös – nevelésében és oktatásában részt vevő óvoda és iskola által, a sajátos nevelési igényű gyermek, tanuló óvodai nevelése, tanuló iskolai nevelés-oktatása érdekében foglalkoztatott gyógypedagógus, konduktor,
+
+41. egyéni előrehaladású nevelés és oktatás: a sajátos nevelési igényű tanuló számára engedélyezhető, a tanuló egyéni adottságához, fejlettségéhez igazodó továbbhaladást biztosító nevelési-oktatási forma.

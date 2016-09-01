@@ -8,11 +8,11 @@
 
 (4) Az általános és középfokú iskolák az iskolai Nemzeti Összetartozás Napja bevezetéséről, a magyarországi és a külhoni magyar fiatalok közti kapcsolatok kialakításáról és erősítéséről a közoktatásban, valamint a Magyarország határain kívül élő magyarság bemutatásáról szóló országgyűlési határozat alapján a hét-tizenkettedik évfolyamok valamelyikén szervezik meg a határon túli kirándulásokat. A határon túli kirándulásokat a központi költségvetés támogatja. A költségvetési támogatás elbírálásakor előnyt élveznek a külhoni iskolával dokumentált cserekapcsolatban álló hazai iskolák.
 
-(5) A nyolcadik évfolyam sikeres elvégzéséről kiállított bizonyítvány – iskolatípustól függetlenül – alapfokú iskolai végzettséget tanúsít.
+(5) A nyolcadik évfolyam sikeres elvégzéséről kiállított bizonyítvány – iskolatípustól függetlenül – alapfokú iskolai végzettséget tanúsít. Alapfokú iskolai végzettség a Szakképzési Hídprogramban is szerezhető.
 
-(6) A középiskola befejező évfolyamának sikeres elvégzéséről kiállított bizonyítvány középfokú végzettséget tanúsít. Középfokú végzettségnek minősül továbbá a szakképzésről szóló törvényben meghatározott szakiskolai végzettség.
+(6) A középiskola és a készségfejlesztő iskola befejező évfolyamának sikeres elvégzéséről kiállított bizonyítvány középfokú végzettséget tanúsít. Középfokú végzettségnek minősül továbbá, ha a tanuló a szakközépiskola, illetve a szakiskola szakképzési évfolyamait elvégezte és sikeres komplex szakmai vizsgát tett.
 
-(7) A gimnáziumban az ötödik, hetedik és kilencedik, szakközépiskolában a kilencedik évfolyamot nyelvi előkészítő évfolyam előzheti meg, feltéve hogy a gimnázium, a szakközépiskola a külön jogszabályokban meghatározott feltételeknek megfelel.
+(7) A gimnáziumban az ötödik, hetedik és kilencedik, szakgimnáziumban a kilencedik évfolyamot nyelvi előkészítő évfolyam előzheti meg, feltéve hogy a gimnázium, a szakgimnázium a külön jogszabályokban meghatározott feltételeknek megfelel.
 
 (8) Az alternatív óvodák, iskolák az általuk készített és az oktatásért felelős miniszter által jóváhagyott óvodapedagógiai programban, kerettantervben meghatározottak szerint készítik el pedagógiai programjukat. Az alternatív óvodapedagógiai programban, az alternatív iskolai kerettantervben lehet meghatározni az általános szabályoktól eltérő, sajátos, az adott intézményben
 

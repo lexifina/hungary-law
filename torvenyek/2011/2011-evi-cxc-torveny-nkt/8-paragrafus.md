@@ -4,7 +4,7 @@
 
 (2) A gyermek abban az évben, amelynek augusztus 31. napjáig a harmadik életévét betölti, a nevelési év kezdő napjától legalább napi négy órában óvodai foglalkozáson vesz részt. A jegyző – az egyházi és magán fenntartású intézmények esetében a fenntartó – a szülő kérelmére és az óvodavezető, valamint a védőnő egyetértésével, a gyermek jogos érdekét szem előtt tartva, az ötödik életév betöltéséig felmentést adhat a kötelező óvodai nevelésben való részvétel alól, ha a gyermek családi körülményei, képességeinek kibontakoztatása, sajátos helyzete indokolja.
 
-(3) Az óvodai nevelés 6. melléklet szerinti finanszírozott időkerete magába foglalja a gyermek napközbeni ellátásával összefüggő feladatokhoz, a teljes óvodai életet magában foglaló foglalkozásokra fordítható heti ötven óra időkeretet, továbbá a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek fejlesztő, valamint a sajátos nevelési igényű gyermekek egészségügyi, pedagógiai célú habilitációs, rehabilitációs foglalkoztatásának heti tizenegy óra időkeretét.
+(3) Az óvodai nevelés 6. melléklet szerinti finanszírozott időkerete magában foglalja a gyermek napközbeni ellátásával összefüggő feladatokhoz, a teljes óvodai életet magában foglaló foglalkozásokra fordítható heti ötven óra időkeretet. A fenntartó az óvodában heti tizenegy órás időkeretben köteles megszervezni a beilleszkedési, tanulási, magatartási nehézséggel küzdő gyermekek fejlesztő, valamint a sajátos nevelési igényű gyermekek egészségügyi, pedagógiai célú habilitációs, rehabilitációs foglalkoztatását.
 
 (4) A kötelező óvodai nevelés fejlesztő nevelésben is teljesíthető.
 

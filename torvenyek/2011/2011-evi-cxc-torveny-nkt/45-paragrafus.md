@@ -20,7 +20,7 @@ dönt.
 
 (6) Az iskola igazgatója a gyámhatóság és a gyermekjóléti szolgálat véleményének kikérése után dönt arról, hogy a tanuló a tankötelezettségének magántanulóként tehet eleget. Gyermekvédelmi gondoskodásban részesülő tanuló esetén az iskola igazgatójának a döntéséhez be kell szereznie a gyermekvédelmi gyám véleményét.
 
-(7) A tankötelezettség általános iskolában, középfokú iskolában, Köznevelési Hídprogram keretében, valamint fejlesztő nevelés-oktatásban teljesíthető.
+(7) A tankötelezettség általános iskolában, középfokú iskolában, Köznevelési és Szakképzési Hídprogram keretében, valamint fejlesztő nevelés-oktatásban teljesíthető.
 
 (8) A jegyző gondoskodik az óvodai nevelésben részvételre kötelezettek nyilvántartásáról, a nyilvántartásból rendszeresen adatot közöl a kormányhivatal számára. A járási hivatal gondoskodik a tankötelesek nyilvántartásáról, a nyilvántartásból rendszeresen adatot közöl az állami intézményfenntartó központ, és tanuló lakóhelye, ennek hiányában tartózkodási helye szerint illetékes települési önkormányzat jegyzője számára, továbbá hivatalból elrendeli és felügyeli a tankötelezettség teljesítését, a szakértői vizsgálatokon való megjelenést.
 

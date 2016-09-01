@@ -36,6 +36,8 @@ váltható ki.
 
 (11b) A szakképzésről szóló 2011. évi CLXXXVII. törvény 8. § (2) bekezdése alkalmazásában az időkeret számítását a (11) bekezdés alkalmazása nem érinti.
 
+(11c) Ha a művészeti felsőoktatási intézmény által fenntartott nyolc évfolyamos gimnáziumban a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 101. § (7) bekezdése szerinti előkészítő jogviszony alapján a művészeti felsőoktatási intézménybe való belépésre való felkészítés keretében a tanuló részére legalább heti 15 tanóra van biztosítva, a mindennapos testnevelés az előkészítő jogviszony alapján a művészeti felsőoktatási intézménybe való belépésre való felkészítés keretében biztosított művészeti szakmai képzéssel váltható ki.
+
 (12) Az iskola a kötelező tanórai foglalkozások keretében gondoskodik a könnyített testnevelés szervezéséről.
 
 (13) A legalább négy évfolyammal működő iskola biztosítja az iskolai sportkör működését. Az iskolai sportkör feladatait – az iskolával kötött megállapodás alapján – az iskolában működő diáksport egyesület is elláthatja. Az iskolai sportköri foglalkozások megszervezéséhez – sportágak és tevékenységi formák szerint létrehozott iskolai csoportonként – hetente legalább kétszer negyvenöt perc biztosítható. A sportköri foglalkozásokat olyan szakedző vagy a sport területén képesítéshez kötött tevékenységek gyakorlásához szükséges képesítések jegyzékéről szóló külön jogszabályban meghatározott képesítéssel rendelkező szakember is vezetheti, aki a felsőoktatási intézmény által szervezett, legalább 120 órás pedagógiai továbbképzésben vett részt.

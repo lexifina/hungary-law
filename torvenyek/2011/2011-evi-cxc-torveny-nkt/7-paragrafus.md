@@ -8,19 +8,23 @@ b) általános iskola,
 
 c) gimnázium,
 
-d) szakközépiskola (a továbbiakban a c)–d) pont alattiak együtt: középiskola),
+d) szakgimnázium,
 
-e) szakiskola (a továbbiakban a d)–e) pont alattiak együtt: szakképző iskola; a továbbiakban a c)–e) pont alattiak együtt: középfokú iskola),
+e) szakközépiskola [a továbbiakban a c)–e) pont alattiak együtt: középiskola],
 
-f) alapfokú művészeti iskola (a továbbiakban a b)–f) pont alattiak együtt: iskola),
+f) szakiskola [a továbbiakban a d)–f) pont alattiak együtt: szakképző iskola],
 
-g) gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény,
+g) készségfejlesztő iskola [a továbbiakban a c)–g) pont alattiak együtt: középfokú iskola],
 
-h) kollégium (a továbbiakban: az a)–h) pont alattiak együtt: nevelési-oktatási intézmény),
+h) alapfokú művészeti iskola [a továbbiakban a b)–h) pont alattiak együtt: iskola],
 
-i) pedagógiai szakszolgálati intézmény,
+i) gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény,
 
-j) pedagógiai-szakmai szolgáltatást nyújtó intézmény (a továbbiakban: az a)–j) pont alattiak együtt: köznevelési intézmény).
+j) kollégium [a továbbiakban az a)–j) pont alattiak együtt: nevelési-oktatási intézmény],
+
+k) pedagógiai szakszolgálati intézmény,
+
+l) pedagógiai-szakmai szolgáltatást nyújtó intézmény [a továbbiakban az a)–l) pont alattiak együtt: köznevelési intézmény].
 
 (2) A köznevelési intézmény több különböző típusú köznevelési intézmény feladatait is elláthatja, valamint nem köznevelési feladatot ellátó intézménnyel is összevonható az e törvényben meghatározott esetben, formában és eljárás megtartásával (a továbbiakban: többcélú intézmény). Nevelési-oktatási intézmény elláthatja a konduktív pedagógiai ellátás, gyógytestnevelés, kiemelten tehetséges gyermekek, tanulók gondozása pedagógiai szakszolgálati feladatot, jogszabályban meghatározott egyes pedagógiai-szakmai szolgáltatási feladatot, továbbá a gyermekétkeztetés feladatát anélkül is, hogy többcélú intézmény formájában működne.
 

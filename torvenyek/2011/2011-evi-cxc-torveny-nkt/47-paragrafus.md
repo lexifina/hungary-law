@@ -8,9 +8,9 @@
 
 (4) A sajátos nevelési igényű gyermek, tanuló neveléséhez és oktatásához a következő feltételek szükségesek:
 
-a) a gyermek, tanuló külön neveléséhez és oktatásához a sajátos nevelési igény típusának és súlyosságának megfelelő gyógypedagógus, gyógypedagógiai tanár vagy terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító) vagy konduktor(óvodapedagógus) foglalkoztatása, a neveléshez és oktatáshoz szükséges speciális tanterv, tankönyv és egyéb segédlet,
+a) a gyermek, tanuló külön neveléséhez és oktatásához, a fejlesztő nevelés-oktatáshoz, a sajátos nevelési igény típusának és súlyosságának megfelelő gyógypedagógus, konduktor foglalkoztatása, a neveléshez és oktatáshoz szükséges speciális tanterv, tankönyv és egyéb segédlet,
 
-b) egyéni előrehaladású képzéshez, integrált óvodai neveléshez, iskolai nevelés-oktatáshoz, fejlesztő neveléshez, fejlesztő nevelés-oktatáshoz, az illetékes szakértői bizottság által meghatározottak szerinti foglalkozáshoz a sajátos nevelési igény típusának és súlyosságának megfelelő gyógypedagógus, gyógypedagógiai tanár vagy terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító) vagy konduktor(óvodapedagógus), a foglalkozásokhoz speciális tanterv, tankönyv, valamint speciális gyógyászati és technikai eszközök,
+b) egyéni előrehaladású neveléshez és oktatáshoz, integrált óvodai neveléshez, iskolai nevelés-oktatáshoz, az illetékes szakértői bizottság által meghatározottak szerinti foglalkozáshoz a sajátos nevelési igény típusának és súlyosságának megfelelő gyógypedagógus, konduktor foglalkoztatása, a foglalkozásokhoz speciális tanterv, tankönyv, valamint speciális gyógyászati és technikai eszközök,
 
 c) a fejlesztési területek szakértői bizottság által történő meghatározása.
 
@@ -24,13 +24,13 @@ c) a fejlesztési területek szakértői bizottság által történő meghatáro
 
 (9) A gyógypedagógiai nevelésben, oktatásban részt vevő nevelési-oktatási intézményben
 
-a) a sajátos nevelési igény típusának megfelelő szakirányon szerzett gyógypedagógusi, gyógypedagógiai tanár vagy terapeuta, konduktor, konduktor-tanító, konduktor-óvodapedagógus, konduktor(tanító) vagy konduktor(óvodapedagógus) szakképzettség kell, ha
+a) a sajátos nevelési igény típusának megfelelő gyógypedagógus, konduktor foglalkoztatása kell, ha
 
 aa) az óvodai foglalkozás vagy a tanórai foglalkozás elsődleges célja a sajátos nevelési igényből eredő hátrány csökkentése,
 
 ab) az óvodai foglalkozás vagy a tanórai foglalkozás elsődleges célja az egészségügyi és pedagógiai célú habilitáció, rehabilitáció, valamint
 
-ac) az értelmi fogyatékossággal élő tanuló iskolai nevelés-oktatása a külön e célra létrehozott gyógypedagógiai nevelési-oktatási intézményben, óvodai csoportban, iskolai osztályban történik,
+ac) az értelmi fogyatékos gyermek, tanuló óvodai nevelése, iskolai nevelés-oktatása a külön e célra létrehozott gyógypedagógiai nevelési-oktatási intézményben, óvodai csoportban, iskolai osztályban történik,
 
 b) az a) pontban meghatározott vagy az általános szabályok szerinti végzettség és szakképzettség kell,
 
@@ -40,6 +40,6 @@ bb) az egyéb foglalkozáshoz, a kollégiumi foglalkozáshoz,
 
 c) az enyhe értelmi fogyatékos tanulók idegen nyelv oktatását elláthatja gyógypedagógus végzettséggel és szakképzettséggel, továbbá „komplex” típusú felsőfokú államilag elismert nyelvvizsga bizonyítvánnyal vagy azzal egyenértékű okirattal rendelkező pedagógus is.
 
-(10) A sajátos nevelési igényű gyermek, tanuló neveléséhez, oktatásához szükséges speciális szakképzettséggel rendelkező szakember utazó gyógypedagógusi, utazó konduktori hálózat útján is biztosítható. Az utazó gyógypedagógusi, utazó konduktori hálózat megszervezése és működtetése az állami intézményfenntartó központ feladata.
+(10) A sajátos nevelési igényű gyermek, tanuló neveléséhez, oktatásához szükséges speciális szakképzettséggel rendelkező szakember utazó gyógypedagógusi, utazó konduktori hálózat útján is biztosítható.
 
 (11) A tehetséggondozás kereteit a Nemzeti Tehetség Program jelöli ki, amelyet a Nemzeti Tehetség Alap támogat. A Nemzeti Tehetség Program és Alap az oktatásért felelős miniszter irányítása alatt, jogszabályban foglaltak szerint működik. A Nemzeti Tehetség Program elérendő célokat jelölhet ki a köznevelési intézmények számára, és tartalmazza a feladatok finanszírozásának módját is.

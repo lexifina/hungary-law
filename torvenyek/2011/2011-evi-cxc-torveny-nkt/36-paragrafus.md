@@ -4,11 +4,11 @@
 
 (2) Ha nemzetközi szerződés másképp nem rendelkezik, a rendvédelmi szervek által fenntartott nevelési-oktatási intézmény tanulói jogviszonyt azzal létesíthet és tarthat fenn, aki büntetlen előéletű, magyar állampolgár vagy bevándorlási engedéllyel rendelkezik, és a szolgálatra alkalmas. A Magyar Honvédség által fenntartott nevelési-oktatási intézmény tanulói jogviszonyt azzal létesíthet és tarthat fenn, aki büntetlen előéletű, magyar állampolgár, a felvétel évében a 23. életévét nem tölti be, cselekvőképes, a szolgálatra alkalmas és vállalja, hogy a katonai szakképzés idejére honvéd altiszt-jelölti szolgálati viszonyt létesít, és tart fenn. A rendvédelmi szervek által fenntartott nevelési-oktatási intézményben SZMSZ, a Magyar Honvédség által fenntartott nevelési-oktatási intézmény esetében jogszabály a tanulmányi kötelezettség nem teljesítése miatt az évfolyamismétlést kizárhatja.
 
-(3) Ha a szakközépiskola, a szakiskola a Magyar Honvédségnél vagy rendvédelmi szervekben folyó hivatásos szolgálat ellátásához szükséges munkakör betöltésére, szakképesítés megszerzésére készít fel, létesítéséhez és működése megkezdésének engedélyezéséhez a szakképesítésért felelős miniszter engedélye szükséges.
+(3) Ha a szakgimnázium, a szakközépiskola a Magyar Honvédségnél vagy rendvédelmi szervekben folyó hivatásos szolgálat ellátásához szükséges munkakör betöltésére, szakképesítés megszerzésére készít fel, létesítéséhez és működése megkezdésének engedélyezéséhez a szakképesítésért felelős miniszter engedélye szükséges.
 
 (4) Ha a nevelési-oktatási intézményt a honvédelemért, valamint a rendvédelemért felelős miniszter tartja fenn,
 
-a) a szakközépiskola és a szakiskola a 12–13. §-ban foglaltaktól eltérő számú évfolyammal működhet,
+a) a szakgimnázium és a szakközépiskola a 12–13. §-ban foglaltaktól eltérő számú évfolyammal működhet,
 
 b) a pedagógiai programban sajátos honvédelmi, rendvédelmi szempontok érvényesíthetőek, a honvédelemért felelős miniszter fenntartása esetén katonai szabályok és tevékenység, a rendvédelemért felelős miniszter által fenntartott nevelési-oktatási intézmény esetén a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény (a továbbiakban: Hszt.) szerinti szabályok és tevékenység írható elő,
 

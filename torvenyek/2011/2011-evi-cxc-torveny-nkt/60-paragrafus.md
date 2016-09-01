@@ -6,7 +6,7 @@
 
 a) nyolc évfolyamos általános iskola esetén tizenhetedik,
 
-b) gimnázium és szakképző iskola esetén huszonötödik
+b) középfokú iskola esetén huszonötödik
 
 életévét betölti, kizárólag felnőttoktatásban kezdhet új tanévet.
 
@@ -16,13 +16,13 @@ b) gimnázium és szakképző iskola esetén huszonötödik
 
 (5) A felnőttoktatás megszervezhető
 
-a) az e célra létesített – 7. § (1) bekezdés b)–e) és g) pontjában felsorolt – iskolákban,
+a) az e célra létesített – 7. § (1) bekezdés b)–f) és h) pontjában felsorolt – iskolákban,
 
 b) a nappali rendszerű iskolai oktatás céljára létesített iskolának a felnőttoktatási osztályában.
 
 (6) A felnőttoktatásban a tizenhat-huszonnégy éves tanulók részére ifjúsági osztály, csoport szervezhető.
 
-(7) A felnőttoktatásban az oktatás megszervezhető a nappali oktatás munkarendje, továbbá esti, levelező vagy más sajátos munkarend szerint. Gimnáziumban a nappali oktatás munkarendje szerint azok részére szervezhető meg az oktatás, akik nem kizárólag felnőttoktatásban vehetnek részt. Szakképző iskolában a nappali oktatás munkarendje szerinti felnőttoktatás azok számára szervezhető meg, akik még nem rendelkeznek szakképesítéssel. A nappali oktatás munkarendje szerint folyó oktatás esetében a tanórák számának a kerettantervben a nappali rendszerű oktatás munkarendje szerinti kötelező tanórai foglalkozások legalább kilencven százalékát el kell érnie.
+(7) A felnőttoktatásban az oktatás megszervezhető a nappali oktatás munkarendje, továbbá esti, levelező vagy más sajátos munkarend szerint. Gimnáziumban a nappali oktatás munkarendje szerint azok részére szervezhető meg az oktatás, akik nem kizárólag felnőttoktatásban vehetnek részt. Szakképző iskolában a nappali oktatás munkarendje szerinti felnőttoktatás azok számára szervezhető meg, akik még nem rendelkeznek szakképesítéssel. Készségfejlesztő iskolában a nappali oktatás munkarendje szerinti felnőttoktatás azok számára szervezhető meg, akik az e törvény 13/B. § (2) bekezdés b) pontjában meghatározott két gyakorlati évfolyamot nem végezték el. A nappali oktatás munkarendje szerint folyó oktatás esetében a tanórák számának a kerettantervben a nappali rendszerű oktatás munkarendje szerinti kötelező tanórai foglalkozások legalább kilencven százalékát el kell érnie.
 
 (8) Az esti oktatás munkarendje szerint folyó oktatás esetében a tanórák számának a kerettantervben a nappali rendszerű oktatás munkarendje szerinti kötelező tanórai foglalkozások legalább ötven százalékát, levelező oktatás esetében legalább tíz százalékát el kell érnie. Más sajátos munkarend szerint is folyhat az oktatás, ha a tanulónak tanórai foglalkozáson egyáltalán nem kell részt vennie, továbbá, ha a tanórai foglalkozások száma nem éri el a levelező oktatásra meghatározott óraszámot. Más sajátos munkarend szerint folyik a felnőttoktatás különösen a távoktatási formában.
 

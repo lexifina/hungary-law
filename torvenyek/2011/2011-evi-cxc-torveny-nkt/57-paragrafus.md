@@ -12,4 +12,4 @@
 
 (7) A kiadott érettségi bizonyítványokról és a szakképesítést tanúsító bizonyítványokról – a vizsgaszabályzatban meghatározottak szerint – központi nyilvántartást kell vezetni.
 
-(8) Ha a szakiskola, a szakközépiskola párhuzamos oktatás keretében művészeti szakmai vizsgára készít fel, a tanuló magasabb évfolyamba lépéséről a szakképzés követelményei tekintetében külön is lehet dönteni és bizonyítványt kiállítani.
+(8) Ha a szakközépiskola, a szakgimnázium párhuzamos oktatás keretében művészeti szakmai vizsgára készít fel, a tanuló magasabb évfolyamba lépéséről a szakképzés követelményei tekintetében külön is lehet dönteni és bizonyítványt kiállítani.

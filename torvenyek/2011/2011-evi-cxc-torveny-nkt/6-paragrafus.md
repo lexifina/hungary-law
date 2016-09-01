@@ -1,6 +1,6 @@
 ## 4. Az állami vizsgák rendszere
 
-6. § (1) Az érettségi vizsga állami vizsga, amelyet országosan egységes vizsgakövetelmények (a továbbiakban: központi vizsgakövetelmények) szerint kell megtartani. Az érettségi vizsga központi vizsgakövetelményeit a vizsgaszabályzat és az érettségi vizsga részletes vizsgakövetelményeiről szóló jogszabály alapján kell meghatározni. Az érettségi bizonyítvány érettségi végzettséget tanúsít, és jogszabályban meghatározottak szerint felsőoktatási intézménybe való felvételre, szakképzésbe való bekapcsolódásra, valamint munkakör betöltésére, tevékenység folytatására jogosít, a szakmai érettségi továbbá a szakképzésre vonatkozó jogszabályokban meghatározottak szerinti munkakör betöltésére képesít.
+6. § (1) Az érettségi vizsga állami vizsga, amelyet országosan egységes vizsgakövetelmények (a továbbiakban: központi vizsgakövetelmények) szerint kell megtartani. Az érettségi vizsga központi vizsgakövetelményeit a vizsgaszabályzat és az érettségi vizsga részletes vizsgakövetelményeiről szóló jogszabály alapján kell meghatározni. Az érettségi bizonyítvány érettségi végzettséget tanúsít, és jogszabályban meghatározottak szerint felsőoktatási intézménybe való felvételre, szakképzésbe való bekapcsolódásra, valamint munkakör betöltésére, tevékenység folytatására jogosít, a szakmai érettségi továbbá a szakképzésre vonatkozó jogszabályokban meghatározottak szerinti szakképesítés megszerzését is magában foglalja.
 
 (2) Az érettségi vizsgán a tanuló a következő vizsgatárgyakból ad számot tudásáról:
 
@@ -14,7 +14,7 @@ d) idegen nyelv – a nemzetiségi nevelés-oktatásban részt vevők számára 
 
 e) kötelezően választandó vizsgatárgy.
 
-(2a) Aki szakiskolában államilag elismert szakképesítést szerzett és a szakközépiskolában érettségi vizsgát kíván tenni, annak a (2) bekezdés e) pontjában foglalt tantárgyból nem kell számot adnia a tudásáról.
+(2a) Aki szakközépiskolában államilag elismert szakképesítést szerzett és a szakközépiskolában érettségi vizsgát kíván tenni, annak a (2) bekezdés e) pontjában foglalt tantárgyból nem kell számot adnia a tudásáról.
 
 (3) A kötelező és a kötelezően választandó mellett további vizsgatárgyakból is tehető érettségi vizsga.
 

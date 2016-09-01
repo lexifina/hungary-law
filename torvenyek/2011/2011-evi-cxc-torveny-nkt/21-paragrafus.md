@@ -28,7 +28,7 @@ g) iskolatípusonként az évfolyamok számát,
 
 h) alapfokú művészetoktatás esetén a művészeti ágak, azon belül a tanszakok megnevezését,
 
-i) szakképzés esetén a szakmacsoportokat és az Országos Képzési Jegyzékben meghatározottak szerint a szakképesítés megnevezését és azonosító számát, szakközépiskola esetén az ágazatokat,
+i) szakképzés esetén a szakmacsoportokat és az Országos Képzési Jegyzékben meghatározottak szerint a szakképesítés megnevezését és azonosító számát, szakgimnázium esetén az ágazatokat,
 
 j) a feladatellátást szolgáló vagyont, továbbá a vagyon feletti rendelkezés vagy a vagyon használati jogát,
 

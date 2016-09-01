@@ -4,7 +4,7 @@
 
 a) nevelő és oktató munkája során gondoskodjék a gyermek személyiségének fejlődéséről, tehetségének kibontakoztatásáról, ennek érdekében tegyen meg minden tőle elvárhatót, figyelembe véve a gyermek egyéni képességeit, adottságait, fejlődésének ütemét, szociokulturális helyzetét,
 
-b) a különleges bánásmódot igénylő gyermekekkel egyénileg foglalkozzon, szükség szerint együttműködjön gyógypedagógussal vagy a nevelést, oktatást segítő más szakemberekkel, a bármilyen oknál fogva hátrányos helyzetű gyermek, tanuló felzárkózását elősegítse,
+b) a különleges bánásmódot igénylő gyermekekkel egyénileg foglalkozzon, szükség szerint együttműködjön gyógypedagógussal, konduktorral vagy a nevelést, oktatást segítő más szakemberekkel, a hátrányos helyzetű gyermek, tanuló felzárkózását elősegítse,
 
 c) segítse a tehetségek felismerését, kiteljesedését, nyilvántartsa a tehetséges tanulókat,
 

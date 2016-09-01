@@ -12,15 +12,15 @@ bb) az ötödik évfolyamon kezdődő és a nyolcadik évfolyam végéig tartó 
 
 tagozat,
 
-c) a középfokú nevelés-oktatás szakasza, amely a – a hat és nyolc évfolyammal működő gimnázium kivételével – kilencedik évfolyamon kezdődik, és szakiskolában a tizenegyedik, középiskolában a tizenkettedik évfolyam végén fejeződik be (a továbbiakban a b)–c) pont alattiak együtt: az iskolai nevelés-oktatás szakasza),
+c) a középfokú nevelés-oktatás szakasza, amely – a hat és nyolc évfolyammal működő gimnázium kivételével – a kilencedik évfolyamon kezdődik és a tizenkettedik, szakközépiskola esetében a tizenharmadik évfolyam végén fejeződik be,
 
-d) az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakasza, amely – ha e törvény másképp nem rendelkezik – az alapfokú nevelés-oktatás szakasza után kezdődik, és a szakképző iskolában az Országos Képzési Jegyzékben meghatározott szakképzési évfolyamon fejeződik be.
+d) az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakasza, amely az alapfokú nevelés-oktatás szakasza után kezdődik, és szakgimnáziumban a tizenharmadik vagy a tizennegyedik, szakközépiskolában a tizenegyedik, szakiskolában a kerettantervben meghatározott évfolyamon fejeződik be.
 
 (2) Az óvodai nevelés alapelveit az Óvodai nevelés országos alapprogramja határozza meg. Az óvodák az Óvodai nevelés országos alapprogramja alapján készítik el helyi pedagógiai programjukat.
 
 (3) Az egyes iskolai évfolyamok tananyaga és követelményei egymásra épülnek. A szakképző iskolában a középfokú nevelés-oktatás és az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakasza párhuzamosan folyik.
 
-(4) Az iskolai nevelés-oktatás tartalmi egységét, az iskolák közötti átjárhatóságot a Nemzeti alaptanterv (a továbbiakban: Nat) biztosítja, amely meghatározza az elsajátítandó műveltségtartalmat, valamint kötelező rendelkezéseket állapít meg az oktatásszervezés körében, így különösen a tanulók heti és napi terhelésének korlátozására. A szakiskolai közismereti nevelés-oktatás tartalmi követelményeire vonatkozó részletes szabályokat külön jogszabály állapítja meg a Nat-ban foglaltak figyelembevételével.
+(4) Az iskolai nevelés-oktatás tartalmi egységét, az iskolák közötti átjárhatóságot a Nemzeti alaptanterv (a továbbiakban: Nat) biztosítja, amely meghatározza az elsajátítandó műveltségtartalmat, valamint kötelező rendelkezéseket állapít meg az oktatásszervezés körében, így különösen a tanulók heti és napi terhelésének korlátozására. A szakközépiskolai közismereti nevelés-oktatás tartalmi követelményeire vonatkozó részletes szabályokat külön jogszabály állapítja meg a Nat-ban foglaltak figyelembevételével.
 
 (5) A Nat-ban foglaltak érvényesülését a kerettantervek biztosítják. Az egyes iskolatípusokban és oktatási szakaszokban a kerettantervek tartalmazzák a nevelés és oktatás céljait, a tantárgyi rendszert, az egyes tantárgyak témaköreit, tartalmát, a tantárgyak egy vagy két évfolyamra vonatkozó követelményeit, továbbá a tantárgyközi tudás- és képességterületek fejlesztésének feladatait, és meghatározzák a követelmények teljesítéséhez rendelkezésre álló kötelező, valamint az ajánlott időkeretet.
 
