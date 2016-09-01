@@ -80,7 +80,7 @@
 
 | 14. | A vis maior támogatás tekintetében általános forgalmi adó levonására jogosult-e (igen/nem) |  |
 
-|  |  | Számlaösszesítő a vis maior támogatásra vonatkozó beszámolóhoz |
+|  |  | Számlaösszesítő a vis maior támogatásra vonatkozó elszámoláshoz |
 
 |  | Sor- szám | Vis maior esemény | Számla kiállítója | Számla sorszáma/ egyéb bizonylatok | Termék/ szolgáltatás megnevezése | Számla/ egyéb bizonylatok kelte | Teljesítés dátuma | Nettó összeg | Le nem vonható áfa | Bruttó összeg |
 

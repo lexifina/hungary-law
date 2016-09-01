@@ -8,7 +8,7 @@ b)[^110] a szakértői véleménnyel alátámasztott helyreállítási költség
 
 jogcímenként biztosított támogatás összegét ezer forintra kerekítve, továbbá a támogatás mértékét két tizedesjegyre kerekítve. Az utalványozás és az előirányzat módosításának alapdokumentuma az a) pontban meghatározott esetben és előlegigénynél a miniszteri döntésről készült feljegyzés, a b) pontban meghatározott esetben a teljesítésarányosan folyósítandó összegről a Kincstár által megküldött lehívási igény.
 
-(3)[^111] A miniszteri döntést követően a védekezési és katasztrófavédelmi szúnyoggyérítéshez kapcsolódó költségekhez kapcsolódó támogatásokat a miniszter – a (2) bekezdés szerinti feljegyzésen alapuló – utalványozása alapján a kincstár folyósítja. A helyreállítási költségekre jóváhagyott támogatás a kincstárhoz benyújtott, a teljesítést igazoló számla vagy egyéb teljesítést igazoló dokumentum alapján – a 3/A. § szerinti támogatási előleg igénybevétele esetén a 3/A. § (5) bekezdése szerinti elszámolás elfogadását követően – vehető igénybe. A támogatott helyi önkormányzat (a továbbiakban: Támogatott) az elszámoláshoz benyújtandó számla vagy egyéb teljesítést igazoló dokumentum eredeti példányán – sokszorosítás előtt – az ebr42 rendszerben a pályázathoz tartozó igénylésazonosítót feltünteti.
+(3)[^111] A miniszteri döntést követően a védekezési és katasztrófavédelmi szúnyoggyérítési költségekhez kapcsolódó támogatásokat a miniszter – a (2) bekezdés szerinti feljegyzésen alapuló – utalványozása alapján a kincstár folyósítja. A helyreállítási költségekre jóváhagyott támogatás a kincstárhoz benyújtott, a kivitelezés teljesítését igazoló számla alapján – a 3/A. § szerinti támogatási előleg igénybevétele esetén a 3/A. § (5) bekezdése szerinti elszámolás elfogadását követően – vehető igénybe. A támogatott helyi önkormányzat (a továbbiakban: Támogatott) az elszámoláshoz benyújtandó számla eredeti példányán – sokszorosítás előtt – az ebr42 rendszerben a pályázathoz tartozó igénylésazonosítót feltünteti.
 
 (4)[^112] A helyreállításhoz kapcsolódó támogatást a kincstár folyósítja azzal, hogy
 
@@ -18,7 +18,7 @@ b)[^114] a kincstár a benyújtott számlák és a támogatásigénylések adata
 
 c)[^115] a támogatást a kincstár a miniszter utalványozása alapján utalja át a Támogatott fizetési számlájára,
 
-d)[^116] a támogatás lehívására a miniszteri döntést követő 12 hónapon belül – az elszámolási határidő-módosítás esetén legfeljebb 24 hónapon belül – benyújtott számlák esetében van lehetőség.
+d)[^116] a támogatás lehívására a miniszteri döntést követő 12 hónapon belül – az elszámolási határidő-módosítás esetén legfeljebb 24 hónapon belül – benyújtott számlák esetében van lehetőség, a lehívási határidő elmulasztása jogvesztő.
 
 (5) A 3. § (10) bekezdése szerinti esetben a támogatás felhasználásának végső határidejét a Kormány határozza meg.
 
@@ -29,10 +29,10 @@ d)[^116] a támogatás lehívására a miniszteri döntést követő 12 hónapon
 [^108]: A 7. § (1) bekezdése a 92/2013. (III. 28.) Korm. rendelet 7. § (1) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 18. pontja, a 383/2015. (XII. 8.) Korm. rendelet 15. § m) pontja szerint módosított szöveg.
 [^109]: A 7. § (2) bekezdés a) pontja a 92/2013. (III. 28.) Korm. rendelet 11. § 41. pontja szerint módosított szöveg.
 [^110]: [A 7. § (2) bekezdés b) pontjának a 92/2013. (III. 28.) Korm. rendelet 11. § 15. pontjával elrendelt módosítása, amely szerint a „Kincstár” szövegrész helyébe a „kincstár” szöveg lép, nem vezethető át.]
-[^111]: A 7. § (3) bekezdése a 92/2013. (III. 28.) Korm. rendelet 11. § 15., 19. és 41–43. pontja, a 129/2014. (IV. 10.) Korm. rendelet 12. § 19. pontja, a 397/2014. (XII. 31.) Korm. rendelet 67. § 3. pontja szerint módosított szöveg.
+[^111]: A 7. § (3) bekezdése a 227/2016. (VII. 29.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^112]: A 7. § (4) bekezdés nyitó szövegrésze a 92/2013. (III. 28.) Korm. rendelet 11. § 15. pontja szerint módosított szöveg.
 [^113]: A 7. § (4) bekezdés a) pontja a 92/2013. (III. 28.) Korm. rendelet 11. § 43. pontja szerint módosított szöveg.
 [^114]: A 7. § (4) bekezdés b) pontja a 92/2013. (III. 28.) Korm. rendelet 11. § 15. és 44. pontja szerint módosított szöveg.
 [^115]: A 7. § (4) bekezdés c) pontja a 92/2013. (III. 28.) Korm. rendelet 7. § (2) bekezdésével megállapított szöveg.
-[^116]: A 7. § (4) bekezdés d) pontja a 210/2011. (X. 12.) Korm. rendelet 6. §-a, a 129/2014. (IV. 10.) Korm. rendelet 12. § 20. pontja, a 397/2014. (XII. 31.) Korm. rendelet 67. § 4. pontja szerint módosított szöveg.
+[^116]: A 7. § (4) bekezdés d) pontja a 227/2016. (VII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^117]: A 7. § (6) bekezdése a 92/2013. (III. 28.) Korm. rendelet 7. § (3) bekezdésével megállapított, a 129/2014. (IV. 10.) Korm. rendelet 12. § 21. pontja szerint módosított szöveg.

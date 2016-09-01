@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-9-20-22
 | 2015-01-01 | 2011-9-20-22.12 | 129/2014. (IV. 10.) Korm. rendelet |
 | 2015-04-01 | 2011-9-20-22.13 | 92/2013. (III. 28.) Korm. rendelet |
 | 2016-01-01 | 2011-9-20-22.14 | 383/2015. (XII. 8.) Korm. rendelet |
+| 2016-09-01 | 2011-9-20-22.15 | 227/2016. (VII. 29.) Korm. rendelet |

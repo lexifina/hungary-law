@@ -26,7 +26,7 @@ b) a pályázat a 4. § (2) bekezdése szerinti vizsgálatot követően a kincst
 
 (6b)[^47] Ha a pályázat a 7. § (1) bekezdés szerint a miniszter által elutasításra került, a támogatói okirat visszavonásáról szóló értesítést elektronikus úton küldi meg a helyi önkormányzatnak, a kincstár értesítésével egyidejűleg, mely alapján a kincstár az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 99. § (2) bekezdése szerinti fizetési felszólítást küld a helyi önkormányzatnak.
 
-(7)[^48] A jogosulatlanul igénybe vett előlegről a helyi önkormányzat az Ávr. 78. § (2) bekezdés b) pontjának és az Ávr. 97–99. §-ainak a változás bejelentésének módjára és az ezt követő intézkedésekre, a visszafizetésre, valamint az ügyleti és a késedelmi kamat mértékére és számítására vonatkozó rendelkezései megfelelő alkalmazásával köteles lemondani és azt ügyleti kamattal, illetőleg késedelmi kamattal együtt visszafizetni. A jogosulatlanul igénybe vett előleg visszafizetésének elmulasztása esetén a kincstár beszedési megbízást nyújt be a kötelezett fizetési számlájára.
+(7)[^48] A jogosulatlanul igénybe vett előlegről a helyi önkormányzat az Ávr. 83. § (3) bekezdés b) pontjának és az Ávr. 97–99. §-ainak a változás bejelentésének módjára és az ezt követő intézkedésekre, a visszafizetésre, valamint az ügyleti és a késedelmi kamat mértékére és számítására vonatkozó rendelkezései megfelelő alkalmazásával köteles lemondani és azt ügyleti kamattal, illetőleg késedelmi kamattal együtt visszafizetni. A jogosulatlanul igénybe vett előleg visszafizetésének elmulasztása esetén a kincstár beszedési megbízást nyújt be a kötelezett fizetési számlájára.
 
 [^41]: A 3/A. §-t a 129/2014. (IV. 10.) Korm. rendelet 4. §-a iktatta be.
 [^42]: A 3/A. § (2) bekezdése a 383/2015. (XII. 8.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
@@ -35,4 +35,4 @@ b) a pályázat a 4. § (2) bekezdése szerinti vizsgálatot követően a kincst
 [^45]: A 3/A. § (6) bekezdése a 383/2015. (XII. 8.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^46]: A 3/A. § (6a) bekezdését a 383/2015. (XII. 8.) Korm. rendelet 5. §-a iktatta be.
 [^47]: A 3/A. § (6b) bekezdését a 383/2015. (XII. 8.) Korm. rendelet 5. §-a iktatta be.
-[^48]: A 3/A. § (7) bekezdését a 383/2015. (XII. 8.) Korm. rendelet 6. §-a iktatta be.
+[^48]: A 3/A. § (7) bekezdését a 383/2015. (XII. 8.) Korm. rendelet 6. §-a iktatta be, szövege a 227/2016. (VII. 29.) Korm. rendelet 5. § (3) bekezdés a) pontja szerint módosított szöveg.
