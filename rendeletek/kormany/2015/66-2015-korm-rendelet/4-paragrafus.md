@@ -6,4 +6,6 @@
 
 a) az informatikai rendszerekkel szembeni követelmények meghatározására a közigazgatási informatika infrastrukturális megvalósíthatóságának biztosításáért felelős miniszter és az e-közigazgatásért felelős miniszter egyetértésével, valamint
 
-b) a Miniszterelnökség, a Közigazgatási és Igazságügyi Hivatal, illetve a fővárosi és megyei kormányhivatalok által indított projektek keretében megvalósuló informatikai alkalmazásfejlesztések irányítására.
+b)[^1] a Miniszterelnökség, illetve a fővárosi és megyei kormányhivatalok által indított projektek keretében megvalósuló informatikai alkalmazásfejlesztések irányítására.
+
+[^1]: A 4. § (2) bekezdés b) pontja a 251/2016. (VIII. 24.) Korm. rendelet 13. §-a szerint módosított szöveg.

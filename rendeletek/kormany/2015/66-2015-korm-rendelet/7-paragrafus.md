@@ -2,7 +2,7 @@
 
 7. § (1) A szakmai irányító miniszter legkésőbb az ellenőrzési időszakot megelőző 45. napig országos hatósági ellenőrzési tervet készít az irányítási jogkörébe tartozó feladatok tekintetében a fővárosi és megyei kormányhivatalok által lefolytatandó hatósági ellenőrzésekről, és gondoskodik annak az általa vezetett minisztérium honlapján történő közzétételéről.
 
-(2)[^4] A fővárosi és megyei kormányhivatal a szakmai irányító miniszterek által kiadott országos hatósági ellenőrzési tervek alapján készíti el a Ket. szerinti hatósági ellenőrzési terveit az ellenőrzési időszakot megelőző 15. napig.
+(2)[^5] A fővárosi és megyei kormányhivatal a szakmai irányító miniszterek által kiadott országos hatósági ellenőrzési tervek alapján készíti el a Ket. szerinti hatósági ellenőrzési terveit az ellenőrzési időszakot megelőző 15. napig.
 
 (3) A fővárosi és megyei kormányhivatal a Ket. szerinti ellenőrzési jelentését elkészíti, és megküldi a szakmai irányító miniszternek az ellenőrzési időszakot követő 30. napig.
 
@@ -14,4 +14,4 @@
 
 (7) A szakmai irányító miniszter az ellenőrzésről készített beszámolót a közzétételét követő 30 napon belül véleménynyilvánítás céljából megküldi a Nemzeti Gazdasági és Társadalmi Tanácsnak.
 
-[^4]: A 7. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 244. § b) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^5]: A 7. § (2) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 244. § b) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
