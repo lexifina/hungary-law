@@ -4,7 +4,7 @@
 
 | 1. | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
 
-| 2. | Honvédelmi és katonai célú építmény működési vagy védőterületén tervezett sajátos építmény építésügyi eljárásaiban, a bontási engedélyezési eljárás kivételével. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | a Honvédelmi Minisztérium Hatósági Hivatal vezetője | a honvédelemért felelős miniszter |
+| 2. | Honvédelmi és katonai célú építmény működési vagy védőterületén tervezett sajátos építmény építésügyi eljárásaiban, a bontási engedélyezési eljárás kivételével. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | a honvédelemért felelős miniszter | a nincs |
 
 | 3. | Ha a tevékenység megkezdéséhez egységes környezethasználati engedély vagy környezetvédelmi engedély nem szükséges. | Annak elbírálása, hogy a felszíni vizek, a felszín alatti vizek és a földtani közeg minősége védelmére jogszabályban foglalt követelmények a kérelemben foglaltak szerint vagy további feltételek mellett érvényesülnek-e. | vízvédelmi feladatkörében eljáró katasztrófavédelmi igazgatóság területi vízügyi hatóság | vízvédelmi feladatkörében eljáró BM Országos Katasztrófavédelmi Főigazgatóság, az Országos Vízügyi Főigazgatóság |
 

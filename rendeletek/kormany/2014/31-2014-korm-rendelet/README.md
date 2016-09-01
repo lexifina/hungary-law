@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-31-20-2
 | 2015-06-07 | 2014-31-20-22.6 | 122/2015. (V. 26.) Korm. rendelet |
 | 2016-01-01 | 2014-31-20-22.7 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-07-01 | 2014-31-20-22.8 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2016-09-01 | 2014-31-20-22.9 | 70/2015. (III. 30.) Korm. rendelet |

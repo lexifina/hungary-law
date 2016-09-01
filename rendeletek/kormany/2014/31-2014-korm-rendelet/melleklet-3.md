@@ -1,3 +1,3 @@
 3. melléklet a 31/2014. (II. 12.) Korm. rendelethez[^31]
 
-[^31]: A 3. melléklet a 70/2015. (III. 30.) Korm. rendelet 243. § (4) bekezdésével megállapított szöveg.
+[^31]: A 3. melléklet a 70/2015. (III. 30.) Korm. rendelet 243. § (4) bekezdésével megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 11. §-a szerint módosított szöveg.
