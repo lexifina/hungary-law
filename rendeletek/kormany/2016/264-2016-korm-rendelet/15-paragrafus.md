@@ -1,3 +1,3 @@
-15. §[^7]
+15. §[^18]
 
-[^7]: A 15. § a 28. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^18]: A 15. § a 28. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.

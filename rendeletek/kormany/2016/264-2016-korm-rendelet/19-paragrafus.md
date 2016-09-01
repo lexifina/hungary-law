@@ -1,5 +1,3 @@
-## „(9) Ha az intézkedési tervben foglalt intézkedések hiányosak vagy más okból nem elfogadhatóak, a Kincstár az intézkedési tervet indokolással és tizenöt munkanap póthatáridő tűzésével visszaküldi kijavításra, kiegészítésre az ellenőrzött szerv vezetőjének.
+19. §[^21]
 
-## (10) Az ellenőrzött szerv vezetője az intézkedési terv szerinti intézkedéseket köteles az abban meghatározott határidőre végrehajtani és arról a Kincstárt írásban tájékoztatni.
-
-## (11) Az intézkedési tervben foglaltak megvalósítását a Kincstár utóellenőrzés keretében ellenőrizheti.”
+[^21]: A 18–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
