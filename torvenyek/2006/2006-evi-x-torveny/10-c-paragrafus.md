@@ -1,0 +1,1 @@
+10/C. § A szolgáltatás fogadója együttműködik az iskolaszövetkezettel, így különösen biztosítja az iskolaszövetkezet képviselőjének a feladatteljesítés helyére történő belépést, tájékoztatja az iskolaszövetkezetet a feladatteljesítéssel kapcsolatos lényeges körülményekről.

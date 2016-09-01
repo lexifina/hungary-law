@@ -1,6 +1,6 @@
-8. § (1) Az iskolaszövetkezet alapításában és működésében nevelési-oktatási intézménynek tagként részt kell vennie. A nevelési-oktatási intézmény akkor lehet az iskolaszövetkezet tagja, ha ezt alapító okirata lehetővé teszi és a tagsághoz a nevelési-oktatási intézmény fenntartója hozzájárul.
+8. § (1) Az iskolaszövetkezet alapításában és működésében nevelési-oktatási intézménynek vagy felsőoktatási intézménynek tagként részt kell vennie.
 
-(2) Felsőoktatási intézmény is lehet iskolaszövetkezet tagja, ha a szenátus ezt támogatja, és a tagsághoz a felsőoktatási intézmény fenntartója hozzájárul.
+(2) A nevelési-oktatási intézmény akkor lehet az iskolaszövetkezet tagja, ha ezt alapító okirata lehetővé teszi és a tagsághoz a nevelési-oktatási intézmény fenntartója hozzájárul. Felsőoktatási intézmény akkor lehet iskolaszövetkezet tagja, ha a szenátus ezt támogatja, és a tagsághoz a felsőoktatási intézmény fenntartója hozzájárul.
 
 (3) Az iskolaszövetkezetnek a természetes személy tagjain kívül nevelési-oktatási intézmény és annak fenntartója, valamint felsőoktatási intézmény lehet a tagja.
 
