@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-346-20-
 | 2015-07-22 | 2009-346-20-22.11 | 196/2015. (VII. 21.) Korm. rendelet |
 | 2016-03-26 | 2009-346-20-22.12 | 57/2016. (III. 25.) Korm. rendelet |
 | 2016-08-01 | 2009-346-20-22.13 | 225/2016. (VII. 29.) Korm. rendelet |
+| 2016-09-01 | 2009-346-20-22.14 | 259/2016. (VIII. 31.) Korm. rendelet |

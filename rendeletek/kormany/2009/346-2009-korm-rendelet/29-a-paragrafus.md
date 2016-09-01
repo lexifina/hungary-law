@@ -1,4 +1,4 @@
-29/A. §[^45] (1) A KNBSZ az állami vagyonról saját hatáskörben vezet nyilvántartást, melyben az alaptevékenysége ellátásához besorolt speciális kezelésű vagyonelemeket elkülönítetten tartja nyilván.
+29/A. §[^46] (1) A KNBSZ az állami vagyonról saját hatáskörben vezet nyilvántartást, melyben az alaptevékenysége ellátásához besorolt speciális kezelésű vagyonelemeket elkülönítetten tartja nyilván.
 
 (2) A KNBSZ
 
@@ -10,4 +10,4 @@ b) az ajánlatkérés tényét nem kell, hogy nyilvánossá tegye, ha a használ
 
 (4) A speciális működési kiadásból finanszírozott ingatlanok vonatkozásában az állami vagyonnal való gazdálkodásról szóló 254/2007. (X. 4.) Korm. rendelet 2. § (1) bekezdésében és IX. Fejezetében foglaltak nem alkalmazhatóak. Ezen ingatlanok tulajdonjogának megszerzéséhez a miniszter jóváhagyása szükséges.
 
-[^45]: A 29/A. §-t a 26/2015. (II. 25.) Korm. rendelet 17. §-a iktatta be.
+[^46]: A 29/A. §-t a 26/2015. (II. 25.) Korm. rendelet 17. §-a iktatta be.

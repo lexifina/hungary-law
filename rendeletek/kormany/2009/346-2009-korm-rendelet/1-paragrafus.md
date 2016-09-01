@@ -4,7 +4,7 @@
 
 a) a honvédelemért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium (a továbbiakban: HM),
 
-b) a miniszter irányítása alatt álló központi hivatal,
+b)[^3]
 
 c) a miniszter közvetlen alárendeltségébe tartozó szervezet,
 
@@ -18,3 +18,4 @@ f) a Magyar Honvédség (a továbbiakban: MH) hadrendje szerinti szervezet.
 
 [^1]: Az 1. §-t megelőző alcím a 26/2015. (II. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^2]: Az 1. § a 26/2015. (II. 25.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés b) pontja a 259/2016. (VIII. 31.) Korm. rendelet 83. §-a szerint módosított szöveg.

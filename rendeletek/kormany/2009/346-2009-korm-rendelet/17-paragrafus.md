@@ -1,8 +1,8 @@
-## 14–16. §[^33]
+## 14–16. §[^34]
 
 ## Költségvetési beszámolás
 
-17. §[^34] (1)[^35] A költségvetési beszámolás során a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet
+17. §[^35] (1)[^36] A költségvetési beszámolás során a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet
 
 a) a fejezeti kezelésű előirányzatok és – a KNBSZ, valamint az MH EK kivételével – a honvédelmi szervezetek tekintetében éves intézményi költségvetési beszámolót, intézményi időközi mérlegjelentéseket és a (4a) bekezdésben meghatározott módon intézményi időközi költségvetési jelentéseket (a továbbiakban együtt: elszámolások),
 
@@ -12,7 +12,7 @@ c) a zárszámadáshoz kapcsolódó adatszolgáltatást
 
 készít, és azokat – az intézményi elszámolások, valamint a 3. Katonai Nemzetbiztonsági Szolgálat költségvetési cím időközi mérlegjelentésének kivételével – az Áhsz.-ben, az Ávr.-ben, az (1a) bekezdésben, valamint az államháztartásért felelős miniszter zárszámadási tájékoztatójában meghatározott határidőig megküldi a Kincstár és az államháztartásért felelős miniszter részére.
 
-(1a)[^36] A pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet az (1) bekezdés szerint honvédelmi szervezetenként elkészített, ellenőrzött, jóváhagyott és a központi költségvetésről szóló törvény szerkezeti rendjének megfelelő részletezettséggel összeállított időközi mérlegjelentéseket a Kincstár által működtetett elektronikus adatszolgáltató rendszerbe a tárgynegyedévet követő hónap 25. napjáig, a negyedik negyedévre vonatkozóan gyorsjelentésként a tárgynegyedévet követő év február 10-ig az éves jelentést az éves költségvetési beszámoló benyújtásának határidejével megegyezően tölti fel.
+(1a)[^37] A pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet az (1) bekezdés szerint honvédelmi szervezetenként elkészített, ellenőrzött, jóváhagyott és a központi költségvetésről szóló törvény szerkezeti rendjének megfelelő részletezettséggel összeállított időközi mérlegjelentéseket a Kincstár által működtetett elektronikus adatszolgáltató rendszerbe a tárgynegyedévet követő hónap 25. napjáig, a negyedik negyedévre vonatkozóan gyorsjelentésként a tárgynegyedévet követő év február 10-ig az éves jelentést az éves költségvetési beszámoló benyújtásának határidejével megegyezően tölti fel.
 
 (2) A költségvetési beszámolás során
 
@@ -28,14 +28,14 @@ c) az (1) bekezdés a) pontja szerint összesített elszámolásokat a pénzügy
 
 (4) A honvédelmi szervezetek költségvetése végrehajtását érintő, az Ávr. 169. § (2) bekezdése szerinti kötelezettségek teljesítése során feltárt, esetleges eltérések rendezését, a pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet negyedévente, a Kincstár által közzétett, a negyedév utolsó hónapját érintő kincstári költségvetési jelentés visszaküldésével egyidejűleg teljesíti.
 
-(4a)[^37] A pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet a január és február hónapról szóló időközi költségvetési jelentést a központi költségvetés címrendjének megfelelően állítja össze.
+(4a)[^38] A pénzügyi és számviteli feladatok központosított végrehajtására kijelölt honvédelmi szervezet a január és február hónapról szóló időközi költségvetési jelentést a központi költségvetés címrendjének megfelelően állítja össze.
 
 (5) A maradványelszámolás keretében a NATO Biztonsági Beruházási Programja megvalósításához kapcsolódó fejezeti kezelésű előirányzat teljesítésével összefüggésben a lezárt beruházási programok elszámolását követően a NATO által visszatérített pénzeszközök alapján elszámolt bevétel az Ávr. 150. § (1) bekezdésben foglaltaktól eltérően kötelezettségvállalás hiányában is a „Hozzájárulás a NATO Biztonsági Beruházási Programjához” fejezeti kezelésű előirányzat fejezetet megillető költségvetési maradványnak minősül.
 
 (6) A KNBSZ speciális feladatai ellátása érdekében bérelt ingatlanon végzett felújítás elszámolt kiadásait a KNBSZ vagyonában nem kell kimutatni, azt a speciális működési kiadások terhére kell elszámolni. A felújítás elszámolt kiadásai a bérleti díjban érvényesíthetőek.
 
-[^33]: A 14–16. §-t a 26/2015. (II. 25.) Korm. rendelet 19. §-a hatályon kívül helyezte.
-[^34]: A 17. § A 26/2015. (II. 25.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^35]: A 17. § (1) bekezdése az 57/2016. (III. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^36]: A 17. § (1a) bekezdését az 57/2016. (III. 25.) Korm. rendelet 1. §-a iktatta be.
-[^37]: A 17. § (4a) bekezdését a 196/2015. (VII. 21.) Korm. rendelet 2. §-a iktatta be.
+[^34]: A 14–16. §-t a 26/2015. (II. 25.) Korm. rendelet 19. §-a hatályon kívül helyezte.
+[^35]: A 17. § A 26/2015. (II. 25.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^36]: A 17. § (1) bekezdése az 57/2016. (III. 25.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^37]: A 17. § (1a) bekezdését az 57/2016. (III. 25.) Korm. rendelet 1. §-a iktatta be.
+[^38]: A 17. § (4a) bekezdését a 196/2015. (VII. 21.) Korm. rendelet 2. §-a iktatta be.
