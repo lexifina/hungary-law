@@ -260,6 +260,8 @@ o) az egészségfejlesztési irodák jogállására, feladat- és hatáskörére
 
 p) az állami és nem állami szervezetek hazai és nemzetközi egészségügyi segítségnyújtásra vonatkozó szabályokat, valamint az ilyen tevékenységet végzők nyilvántartására és felkészítésére vonatkozó szabályokat,
 
+q) a prehospitális gyógyszeralkalmazás szabályait
+
 rendeletben állapítsa meg.
 
 (4) Felhatalmazást kap a miniszter, hogy a nem-konvencionális tevékenységeket, az egyes tevékenységek végzésére jogosult személyek körét, valamint e tevékenységek végzésével, a képesítés megszerzésével összefüggő szakmai szabályokat rendeletben állapítsa meg.
@@ -321,7 +323,3 @@ d) az Európai Parlament és a Tanács 2004/23/EK irányelve (2004. március 31.
 e) az Európai Parlament és a Tanács 2010/53/EU irányelve (2010. július 7.) az átültetésre szánt emberi szervekre vonatkozó minőségi és biztonsági előírások megállapításáról;
 
 f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv. 107m. cikk (1)–(4) és (8) bekezdések, 107n. cikk (2) bekezdés;
-
-g) a Bizottság 2015/566/EU irányelve a 2004/23/EK irányelvnek az importált szövetekre és sejtekre vonatkozó minőségi és biztonsági előírások egyenértékűségének ellenőrzését szolgáló eljárások tekintetében történő végrehajtásáról;
-
-i)

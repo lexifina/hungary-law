@@ -2,6 +2,8 @@
 
 94. § (1) A mentés az azonnali egészségügyi ellátásra szoruló betegnek a feltalálási helyén, mentésre feljogosított szervezet által végzett sürgősségi ellátása, illetve az ehhez szükség szerint kapcsolódóan – az egészségi állapotának megfelelő ellátásra alkalmas – legközelebbi egészségügyi szolgáltatóhoz történő szállítása, valamint a szállítás közben végzett ellátása (a továbbiakban: mentés).
 
+(1a) Az (1) bekezdés szerinti mentés során gyógyszer alkalmazására (a továbbiakban: prehospitális gyógyszeralkalmazás) az egészségügyért felelős miniszter rendeletében meghatározott szabályok szerint kerülhet sor.
+
 (2) A beteg azonnali egészségügyi ellátásra szorul
 
 a) személyi sérüléssel járó baleset, tömeges baleset, egészségügyi válsághelyzet esetén,
