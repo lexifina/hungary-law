@@ -4,18 +4,6 @@ Felelős: belügyminiszter
 
 Határidő: azonnal
 
-2. A terrorellenes intézkedések megvalósításához szükséges költségvetési többletforrások biztosításáról szóló 1217/2016. (IV. 29.) Korm. határozat 8. és 9. pontja helyébe a következő rendelkezés lép:
+2.[^1]
 
-(A Kormány)
-
-„8. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a Kvtv. 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 2. Magyar Honvédség cím javára 11 529,9 millió forint biztosításáról a képességfejlesztési igények fedezete érdekében;
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal
-
-9. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a Kvtv. 1. melléklet XIII. Honvédelmi Minisztérium fejezet, 3. Katonai Nemzetbiztonsági Szolgálat cím javára 9261,0 millió forint biztosításáról a képességfejlesztési igények fedezete érdekében;
-
-Felelős: nemzetgazdasági miniszter
-
-Határidő: azonnal”
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
