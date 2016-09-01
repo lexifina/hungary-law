@@ -1,6 +1,6 @@
 4. § (1) A Testület
 
-a)[^7] a minisztérium által lefolytatott pályázati eljárás eredményeire figyelemmel javaslatot tesz a miniszternek az Ösztöndíjprogramba felvételre javasolt hallgatók személyére vonatkozóan,
+a)[^11] a minisztérium által lefolytatott pályázati eljárás eredményeire figyelemmel javaslatot tesz a miniszternek az Ösztöndíjprogramba felvételre javasolt hallgatók személyére vonatkozóan,
 
 b) meghatározza azt a befogadó intézményt, ahol a hallgató az Ösztöndíjprogramot teljesíti,
 
@@ -8,7 +8,7 @@ c) kijelöli a befogadó intézmény javaslata alapján a mentorokat,
 
 d) jóváhagyja a mentorálás-, valamint a mentori felkészítő módszertanát.
 
-(2)[^8] A Testület elnökét a miniszter jelöli ki a minisztérium vezetői munkakört betöltő kormánytisztviselői közül. A Testület tagjait a miniszter – a szociál- és nyugdíjpolitikáért felelős miniszter egyetértésével – arra figyelemmel kéri fel, hogy a befogadó intézmények megfelelően képviselve legyenek.
+(2)[^12] A Testület elnökét a miniszter jelöli ki a minisztérium vezetői munkakört betöltő kormánytisztviselői közül. A Testület tagjait a miniszter – a szociál- és nyugdíjpolitikáért felelős miniszter egyetértésével – arra figyelemmel kéri fel, hogy a befogadó intézmények megfelelően képviselve legyenek.
 
 (3) A testület tagjainak számát a miniszter határozza meg.
 
@@ -48,16 +48,16 @@ b) súlyosan megsérti a Testület működési rendjére vonatkozó szabályokat
 
 c) az a)–b) pontba nem tartozó, a tagnak felróható egyéb olyan esetekben, amikor kormányzati szolgálati jogviszony fennállása esetén a Kttv. 63. § (2) bekezdés a) vagy e) pontja szerinti felmentés alkalmazásának lenne helye.
 
-(11)[^9] A Testület üléseinek összehívása és levezetése, valamint az ülés napirendjének meghatározása az elnök feladata, aki ezt a feladatot – akadályoztatása esetén – a Testület egy írásban meghatalmazott tagjára átruházhatja. Az elnöki megbízatás a (9) bekezdés a)–c) pontjában foglaltakon kívül megszűnik akkor is, ha az elnök minisztériummal fennálló kormányzati szolgálati jogviszonya megszűnik.
+(11)[^13] A Testület üléseinek összehívása és levezetése, valamint az ülés napirendjének meghatározása az elnök feladata, aki ezt a feladatot – akadályoztatása esetén – a Testület egy írásban meghatalmazott tagjára átruházhatja. Az elnöki megbízatás a (9) bekezdés a)–c) pontjában foglaltakon kívül megszűnik akkor is, ha az elnök minisztériummal fennálló kormányzati szolgálati jogviszonya megszűnik.
 
 (12) A Testület a döntéseit nyílt szavazással, a jelenlévő tagok több mint felének egybehangzó szavazatával hozza meg, szavazategyenlőség esetén az elnök szavazata dönt. A Testület határozatképességéhez tagjai több mint felének jelenléte szükséges. Az ülésekről jegyzőkönyvet kell készíteni.
 
-(13)[^10] A Testület tagjainak egyidejű akadályoztatása esetén a Testület elnöke elektronikus úton történő levélszavazást is elrendelhet.
+(13)[^14] A Testület tagjainak egyidejű akadályoztatása esetén a Testület elnöke elektronikus úton történő levélszavazást is elrendelhet.
 
-(14)[^11] A Testület titkársági feladatait, a levélszavazások lebonyolítását a minisztérium látja el.
+(14)[^15] A Testület titkársági feladatait, a levélszavazások lebonyolítását a minisztérium látja el.
 
-[^7]: A 4. § (1) bekezdés a) pontja a 377/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^8]: A 4. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 797. §-a, a 377/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdés d) pontja szerint módosított szöveg.
-[^9]: A 4. § (11) bekezdése a 377/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdés e) pontja szerint módosított szöveg.
-[^10]: A 4. § (13) bekezdését a 377/2014. (XII. 31.) Korm. rendelet 20. § (4) bekezdése iktatta be.
-[^11]: A 4. § (14) bekezdését a 377/2014. (XII. 31.) Korm. rendelet 20. § (4) bekezdése iktatta be.
+[^11]: A 4. § (1) bekezdés a) pontja a 377/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 4. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 797. §-a, a 377/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^13]: A 4. § (11) bekezdése a 377/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^14]: A 4. § (13) bekezdését a 377/2014. (XII. 31.) Korm. rendelet 20. § (4) bekezdése iktatta be.
+[^15]: A 4. § (14) bekezdését a 377/2014. (XII. 31.) Korm. rendelet 20. § (4) bekezdése iktatta be.

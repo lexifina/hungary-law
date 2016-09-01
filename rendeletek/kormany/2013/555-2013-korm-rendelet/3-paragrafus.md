@@ -1,4 +1,4 @@
-3. § (1)[^4] A minisztérium
+3. § (1)[^5] A minisztérium
 
 a) kidolgozza és a miniszter jóváhagyását követően közzéteszi a pályázati felhívást és az Ösztöndíjprogram működési szabályzatát a Hivatalos Értesítőben,
 
@@ -24,18 +24,21 @@ h) a hallgató részére az ösztöndíjas szerződés megszűnésekor, valamint
 
 i) monitoring tevékenységet végez az Ösztöndíjprogram hallgató általi teljesítése és a mentori tevékenység területén,
 
-j) gondoskodik az Ösztöndíjprogram részét képező képzések megszervezéséről.
+j) gondoskodik az Ösztöndíjprogram részét képező képzések megszervezéséről,
 
-(2)[^5] Az Ösztöndíjprogrammal kapcsolatos, az (1) bekezdés b), c) és e) pontjaiban foglalt feladatokban a minisztérium együttműködik a szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt szervezettel.
+k)[^6] ellátja a hallgatók ösztöndíjas szerződésének megkötésével, módosításával, megszüntetésével kapcsolatos feladatokat,
 
-(3)[^6] A Hivatal
+l)[^7] ellátja az Ösztöndíjprogrammal kapcsolatos pénzügyi-ügyviteli feladatokat,
 
-a) ellátja a hallgatók ösztöndíjas szerződésének megkötésével, módosításával, megszüntetésével kapcsolatos feladatokat,
+m)[^8] ellátja az Ösztöndíjprogram megvalósítása kapcsán felmerülő rendezvényszervezési feladatokat.
 
-b) ellátja az Ösztöndíjprogrammal kapcsolatos pénzügyi-ügyviteli feladatokat,
+(2)[^9] Az Ösztöndíjprogrammal kapcsolatos, az (1) bekezdés b), c) és e) pontjaiban foglalt feladatokban a minisztérium együttműködik a szociál- és nyugdíjpolitikáért felelős miniszter által kijelölt szervezettel.
 
-c) ellátja az Ösztöndíjprogram megvalósítása kapcsán felmerülő rendezvényszervezési feladatokat.
+(3)[^10]
 
-[^4]: A 3. § (1) bekezdése a 377/2014. (XII. 31.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
-[^5]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 797. §-a, a 377/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdés c) pontja szerint módosított szöveg.
-[^6]: A 3. § (3) bekezdését a 377/2014. (XII. 31.) Korm. rendelet 20. § (3) bekezdése iktatta be.
+[^5]: A 3. § (1) bekezdése a 377/2014. (XII. 31.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^6]: A 3. § (1) bekezdés k) pontját a 251/2016. (VIII. 24.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^7]: A 3. § (1) bekezdés l) pontját a 251/2016. (VIII. 24.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^8]: A 3. § (1) bekezdés m) pontját a 251/2016. (VIII. 24.) Korm. rendelet 9. § (1) bekezdése iktatta be.
+[^9]: A 3. § (2) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 797. §-a, a 377/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^10]: A 3. § (3) bekezdését a 377/2014. (XII. 31.) Korm. rendelet 20. § (3) bekezdése iktatta be, hatályon kívül helyezte a 251/2016. (VIII. 24.) Korm. rendelet 10. § (1) bekezdése.

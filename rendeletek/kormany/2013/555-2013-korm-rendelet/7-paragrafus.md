@@ -8,9 +8,9 @@ b) a hallgatót a felsőfokú tanulmányaihoz, képességeihez illeszkedő felad
 
 c) a mentor személyére javaslatot tenni a Testületnek,
 
-d)[^16] együttműködési megállapodást kötni a minisztériummal az Ösztöndíjprogram lefolytatására,
+d)[^20] együttműködési megállapodást kötni a minisztériummal az Ösztöndíjprogram lefolytatására,
 
-e)[^17] ösztöndíjas szerződést kötni a hallgatóval és Hivatallal.
+e)[^21] ösztöndíjas szerződést kötni a hallgatóval és a minisztériummal.
 
-[^16]: A 7. § d) pontja a 377/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdés f) pontja szerint módosított szöveg.
-[^17]: A 7. § e) pontja a 377/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^20]: A 7. § d) pontja a 377/2014. (XII. 31.) Korm. rendelet 21. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^21]: A 7. § e) pontja a 251/2016. (VIII. 24.) Korm. rendelet 9. § (2) bekezdés a) pontja szerint módosított szöveg.
