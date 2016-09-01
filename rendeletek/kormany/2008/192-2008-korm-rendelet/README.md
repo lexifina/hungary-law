@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-192-20-
 | 2014-01-01 | 2008-192-20-22.14 | 37/2013. (II. 14.) Korm. rendelet |
 | 2014-09-13 | 2008-192-20-22.15 | 37/2013. (II. 14.) Korm. rendelet |
 | 2015-04-01 | 2008-192-20-22.16 | 72/2015. (III. 30.) Korm. rendelet |
+| 2016-09-01 | 2008-192-20-22.17 | 72/2015. (III. 30.) Korm. rendelet |
