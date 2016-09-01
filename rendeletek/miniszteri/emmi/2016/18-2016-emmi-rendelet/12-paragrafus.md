@@ -1,3 +1,1 @@
-## 11. §[^1]
-
-[^1]: A 11. § a 7. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+## 11. § A 6. § (1) bekezdésében az „1a.” szövegrész helyébe az „1b.” szöveg lép.
