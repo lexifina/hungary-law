@@ -8,7 +8,7 @@
 
 ## 4. fővárosi és megyei kormányhivatalok
 
-## 5. Közigazgatási és Igazságügyi Hivatal
+## 5.[^8]
 
 ## 6. Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és az irányítása alá tartozó szervek
 
@@ -65,3 +65,5 @@
 ## 32. Nemzeti Közszolgálati Egyetem
 
 2. melléklet a 320/2015. (X. 30.) Korm. rendelethez
+
+[^8]: Az 1. melléklet 5. pontját a 251/2016. (VIII. 24.) Korm. rendelet 14. §-a hatályon kívül helyezte.
