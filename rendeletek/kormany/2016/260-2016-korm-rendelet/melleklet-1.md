@@ -1,0 +1,3 @@
+## 5. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+
+1. melléklet a 260/2016. (VIII. 31.) Korm. rendelethez
