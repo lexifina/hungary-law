@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-283-20-
 | 2014-12-22 | 2002-283-20-22.11 | 342/2014. (XII. 19.) Korm. rendelet |
 | 2015-04-01 | 2002-283-20-22.12 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-12-11 | 2002-283-20-22.13 | 201/2013. (VI. 13.) Korm. rendelet |
+| 2016-09-01 | 2002-283-20-22.14 | 201/2013. (VI. 13.) Korm. rendelet |

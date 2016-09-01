@@ -36,7 +36,7 @@ A vízpart-rehabilitációs tanulmányterv, valamint a partvonal-szabályozási 
 
 | 15. |  | talajvédelmi hatáskörben eljáró megyei kormányhivatal |  | talajvédelem |
 
-| 16. |  | Honvédelmi Minisztérium Hatósági Hivatal vezetője |  | honvédelem |
+| 16. |  | honvédelemért felelős miniszter |  | honvédelem |
 
 | 17. |  | bányafelügyeleti hatáskörben eljáró megyei kormányhivatal |  | bányászat, geológia, morfológia, csúszásveszély |
 
@@ -47,4 +47,4 @@ A vízpart-rehabilitációs tanulmányterv, valamint a partvonal-szabályozási 
 | 20. |  | Magyar Építész Kamara, megyei építész kamara |  | településtervezés |
 
 [^48]: A 21. §-t a 213/2003. (XII. 10.) Korm. rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 201/2013. (VI. 13.) Korm. rendelet 16. §-a iktatta be.
-[^49]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 59. § (2) bekezdésével megállapított, a 385/2015. (XII. 8.) Korm. rendelet 1. §-a szerint módosított szöveg.
+[^49]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 59. § (2) bekezdésével megállapított, a 385/2015. (XII. 8.) Korm. rendelet 1. §-a, a 259/2016. (VIII. 31.) Korm. rendelet 101. §-a szerint módosított szöveg.
