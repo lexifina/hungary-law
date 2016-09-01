@@ -1,4 +1,4 @@
-## 3. § A települési önkormányzat a helyben szokásos módon közzéteszi az általa elfogadott helyi esélyegyenlőségi programot, valamint soron kívül megküldi a TKKI számára, mely azt honlapján közzéteszi.
+## 3. §[^5] A települési önkormányzat a helyben szokásos módon közzéteszi az általa elfogadott helyi esélyegyenlőségi programot, valamint soron kívül megküldi az SZGYF számára, mely azt honlapján közzéteszi.
 
 ## 2. A helyi esélyegyenlőségi program elkészítésének szempontjai
 
@@ -95,3 +95,5 @@ fb) az önkormányzati közszolgáltatások információs és kommunikációs ak
 fc) az építésügyi hatóságok felkészültségére az akadálymentesítés építészeti szempontjainak vizsgálatában;
 
 fd) a helyi tömegközlekedés akadálymentesítésére.
+
+[^5]: A 3. § a 253/2016. (VIII. 24.) Korm. rendelet 3. § d) pontja szerint módosított szöveg.
