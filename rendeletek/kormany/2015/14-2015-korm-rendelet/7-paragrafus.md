@@ -1,6 +1,6 @@
-## 7. [^34] F-ÜHG-t tartalmazó, valamint F-ÜHG-val működtetett termékek és berendezések címkézéséről, valamint magyarországi forgalomba hozataláról, forgalmazásáról
+## 7. [^35] F-ÜHG-t tartalmazó, valamint F-ÜHG-val működtetett termékek és berendezések címkézéséről, valamint magyarországi forgalomba hozataláról, forgalmazásáról
 
-7. §[^35] (1) F-ÜHG-t tartalmazó, valamint azzal működtetett termékeket és berendezéseket a (2) és (3) bekezdés alapján az 517/2014/EU európai parlamenti és tanácsi rendelet 12. cikke valamint a 2015/2068/EU bizottsági végrehajtási rendelet szerinti forgalomba-hozatali címkével; a (4) és (5) bekezdés alapján a (7) bekezdés szerinti, adatbázisból generált telepítési hatósági címkével; F-ÜHG közeget tartalmazó tartályokat az adatbázisból generált, a (6) bekezdés alapján a tartály változó tartalmának megjelölésére szolgáló címkével kell ellátni.
+7. §[^36] (1) F-ÜHG-t tartalmazó, valamint azzal működtetett termékeket és berendezéseket a (2) és (3) bekezdés alapján az 517/2014/EU európai parlamenti és tanácsi rendelet 12. cikke valamint a 2015/2068/EU bizottsági végrehajtási rendelet szerinti forgalomba-hozatali címkével; a (4) és (5) bekezdés alapján a (7) bekezdés szerinti, adatbázisból generált telepítési hatósági címkével; F-ÜHG közeget tartalmazó tartályokat az adatbázisból generált, a (6) bekezdés alapján a tartály változó tartalmának megjelölésére szolgáló címkével kell ellátni.
 
 (2) Az Európai Unió területén első alkalommal Magyarország területére importált vagy ott forgalomba hozott, az 517/2014/EU európai parlamenti és tanácsi rendelet 12. cikk (1) és (2) bekezdésében rögzített F-ÜHG-t tartalmazó, illetve ilyen gázokkal működő termékeket és berendezéseket az 517/2014/EU európai parlamenti és tanácsi rendelet 12. cikk (3) és (4) bekezdésében meghatározott adattartalommal rendelkező forgalomba-hozatali címkével szükséges ellátni.
 
@@ -32,5 +32,5 @@ f) tájékoztatást arról, hogy a klímagázokat hermetikusan zárt berendezés
 
 g) a Hatóság által kiadott egyedi azonosítót.
 
-[^34]: A 7. alcím címe a 112/2016. (V. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^35]: A 7. § a 112/2016. (V. 27.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^35]: A 7. alcím címe a 112/2016. (V. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^36]: A 7. § a 112/2016. (V. 27.) Korm. rendelet 7. §-ával megállapított szöveg.

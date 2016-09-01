@@ -40,10 +40,11 @@ b) többszöri regisztráció esetén az újabb regisztrációt.
 
 (6) Az Európai Bizottság megkeresése esetén a Hatóság a nyilvántartásban szereplő adatokat a Bizottság rendelkezésére bocsátja.
 
-(7) A honvédségi alkalmazásokról a HM HH nyilvántartást vezet, a nyilvántartásban szereplő adatokról megkeresésre, összesített formában adatot szolgáltat, kivéve az 517/2014/EU európai parlamenti és tanácsi rendelet és az 1005/2009/EK parlamenti és tanácsi rendelet szerinti kötelező adatszolgáltatásokat és jelentéseket.
+(7)[^32] A honvédségi alkalmazásokról a honvédelemért felelős miniszter nyilvántartást vezet, a nyilvántartásban szereplő adatokról megkeresésre, összesített formában adatot szolgáltat, kivéve az 517/2014/EU európai parlamenti és tanácsi rendelet és az 1005/2009/EK parlamenti és tanácsi rendelet szerinti kötelező adatszolgáltatásokat és jelentéseket.
 
 [^27]: Az 5. § (1a) bekezdését az 55/2015. (III. 17.) Korm. rendelet 1. §-a iktatta be.
 [^28]: Az 5. § (2) bekezdés a) pontja a 389/2015. (XII. 8.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.
 [^29]: Az 5. § (4a) bekezdését a 112/2016. (V. 27.) Korm. rendelet 5. §-a iktatta be.
 [^30]: Az 5. § (4b) bekezdését a 112/2016. (V. 27.) Korm. rendelet 5. §-a iktatta be.
 [^31]: Az 5. § (5) bekezdését a 112/2016. (V. 27.) Korm. rendelet 30. § 2. pontja hatályon kívül helyezte.
+[^32]: Az 5. § (7) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.

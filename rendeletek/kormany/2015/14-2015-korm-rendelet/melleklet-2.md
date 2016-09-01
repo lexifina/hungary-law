@@ -104,7 +104,7 @@ Az 517/2014/EU európai parlamenti és tanácsi rendelet 4. cikk (2) bekezdésé
 
 3. Az üzemeltető köteles a rendszeres, kötelező szivárgásvizsgálatok elvégzéséhez a berendezés tervezőjével vagy a képesített személyzettel elkészíttetni egy, az adott hűtőkör ellenőrzését támogató, a közvetlen és közvetett szivárgásvizsgálatok, a mérések és dokumentálás módját részletesen meghatározó, a rendszer kapcsolási vázlatát és a potenciális szivárgási helyeit tartalmazó szivárgásvizsgálati dokumentációt készíttetni, amit elektronikus formában, a Hatóság nyilvántartó rendszerébe a regisztrált hűtőkörhöz kell feltölteni.
 
-4.[^97] Az F-ÜHG közeget tartalmazó hűtőkörök töltetét minden, a hűtőkör megbontásával járó munkavégzés előtt a hűtőkör nem érintett részébe, vagy külön tartályba kell visszanyerni. A visszanyert közeg – amíg jogszabály nem tiltja – ugyanabba a hűtőkörbe a szükséges tisztítást követően visszatölthető vagy regenerálás után más hűtőkörben újrafelhasználható. Visszatöltés előtt a rendszer tömörségét ellenőrizni kell.
+4.[^98] Az F-ÜHG közeget tartalmazó hűtőkörök töltetét minden, a hűtőkör megbontásával járó munkavégzés előtt a hűtőkör nem érintett részébe, vagy külön tartályba kell visszanyerni. A visszanyert közeg – amíg jogszabály nem tiltja – ugyanabba a hűtőkörbe a szükséges tisztítást követően visszatölthető vagy regenerálás után más hűtőkörben újrafelhasználható. Visszatöltés előtt a rendszer tömörségét ellenőrizni kell.
 
 5. Hűtőköröknél F-ÜHG közeg vesztesége miatti F-ÜHG közeg utántöltés, felhasználás csak a hűtőkör javítását és szivárgásvizsgálatát követően végezhető.
 
@@ -120,11 +120,11 @@ c) bármilyen oldható, vagy nem oldható hűtőköri kötést a szivárgáselle
 
 d) F-ÜHG közeget új vagy beavatkozással javított hűtőkörbe tölteni csak annak sikeres tömörségi nyomáspróbáját, valamint szakszerű vákuumozását követően szabad,
 
-e)[^98] hűtőkört bármilyen módon szerelés céljából megbontani csak az F-ÜHG közeg töltetnek az érintett szakaszból történt teljes eltávolítását követően szabad. Az F-ÜHG közeg visszanyerését az atmoszférikus nyomás eléréséig kell biztosítani,
+e)[^99] hűtőkört bármilyen módon szerelés céljából megbontani csak az F-ÜHG közeg töltetnek az érintett szakaszból történt teljes eltávolítását követően szabad. Az F-ÜHG közeg visszanyerését az atmoszférikus nyomás eléréséig kell biztosítani,
 
 f) atmoszférikus nyomás feletti nyomású, F-ÜHG közeg töltetű hűtőköröket csak a töltőszelephez való csatlakozással lehet megbontani,
 
-g)[^99] F-ÜHG közeget tömörségre ellenőrzött csatlakozásokkal és elzáró szelepekkel rendelkező, az F-ÜHG közeg paramétereinek megfelelő tömlőkkel kell visszanyerni és tölteni,
+g)[^100] F-ÜHG közeget tömörségre ellenőrzött csatlakozásokkal és elzáró szelepekkel rendelkező, az F-ÜHG közeg paramétereinek megfelelő tömlőkkel kell visszanyerni és tölteni,
 
 h) kiszerelt alkotóelem helyén, megbontott csőhálózatnál a csőcsatlakozásokat visszaszerelésig le kell dugózni,
 
@@ -132,14 +132,14 @@ i) F-ÜHG közeg csak a megfelelően címkézett nyomástartó berendezések és
 
 8. Valamennyi szerelési és javítási technológia alkalmazása során csak az alábbi esetekben juthat elkerülhetetlen, de elhanyagolható mennyiségű F-ÜHG közeg a környezetbe:
 
-a)[^100] a teljes F-ÜHG közeg visszanyerést követően a rendszerben maradt F-ÜHG közeg a megbontáskor a környezetbe juthat,
+a)[^101] a teljes F-ÜHG közeg visszanyerést követően a rendszerben maradt F-ÜHG közeg a megbontáskor a környezetbe juthat,
 
 b) a vákuumozás során a vákuumszivattyú F-ÜHG közeget szállíthat a légkörbe, a szerkezeti okokból nem vákuumozható csatlakozások, csatlakozócsövek, szelepek F-ÜHG közeggel történő légtelenítése (öblítés) megengedhető, más esetben a csövek öblítésére és légtelenítésére nem alkalmazható,
 
-c)[^101] töltésre, visszanyerésre, mérőműszer csatlakoztatásra szolgáló szerviz-tömlőkben normál légköri nyomáson maradó F-ÜHG közeg a környezetbe juthat.
+c)[^102] töltésre, visszanyerésre, mérőműszer csatlakoztatásra szolgáló szerviz-tömlőkben normál légköri nyomáson maradó F-ÜHG közeg a környezetbe juthat.
 
-[^97]: A 2. melléklet 4. pontja a 112/2016. (V. 27.) Korm. rendelet 29. § 22. pontja szerint módosított szöveg.
-[^98]: A 2. melléklet 7. pont e) alpontja a 112/2016. (V. 27.) Korm. rendelet 29. § 23. pontja szerint módosított szöveg.
-[^99]: A 2. melléklet 7. pont g) pontja a 112/2016. (V. 27.) Korm. rendelet 29. § 22. pontja szerint módosított szöveg. [A 29. § 22. pontjával megállapított módosítás – mely szerint a 2. melléklet 7. pont g) pontjában a „lefejtett” szövegrész helyébe a „visszanyert” szöveg lép – nem vezethető át.]
-[^100]: A 2. melléklet 8. pont a) alpontja a 112/2016. (V. 27.) Korm. rendelet 29. § 20. pontja szerint módosított szöveg.
-[^101]: A 2. melléklet 8. pont c) alpontja a 112/2016. (V. 27.) Korm. rendelet 29. § 24. pontja szerint módosított szöveg.
+[^98]: A 2. melléklet 4. pontja a 112/2016. (V. 27.) Korm. rendelet 29. § 22. pontja szerint módosított szöveg.
+[^99]: A 2. melléklet 7. pont e) alpontja a 112/2016. (V. 27.) Korm. rendelet 29. § 23. pontja szerint módosított szöveg.
+[^100]: A 2. melléklet 7. pont g) pontja a 112/2016. (V. 27.) Korm. rendelet 29. § 22. pontja szerint módosított szöveg. [A 29. § 22. pontjával megállapított módosítás – mely szerint a 2. melléklet 7. pont g) pontjában a „lefejtett” szövegrész helyébe a „visszanyert” szöveg lép – nem vezethető át.]
+[^101]: A 2. melléklet 8. pont a) alpontja a 112/2016. (V. 27.) Korm. rendelet 29. § 20. pontja szerint módosított szöveg.
+[^102]: A 2. melléklet 8. pont c) alpontja a 112/2016. (V. 27.) Korm. rendelet 29. § 24. pontja szerint módosított szöveg.

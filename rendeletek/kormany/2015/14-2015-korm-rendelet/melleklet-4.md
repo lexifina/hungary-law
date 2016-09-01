@@ -1,4 +1,4 @@
-4. melléklet a 14/2015. (II. 10.) Korm. rendelethez[^103]
+4. melléklet a 14/2015. (II. 10.) Korm. rendelethez[^104]
 
 1. HR és MR szektor klímagázt tartalmazó alkalmazásai szerelő, karbantartó, szervizelő és szivárgásvizsgáló, valamint klímagáz kezelést végző természetes személy képesítési igazolásainak jele, megnevezése és az 517/2014/EU európai parlamenti és tanácsi rendeletnek való megfelelése:
 
@@ -74,4 +74,4 @@ Regisztrált vállalkozások tevékenységi kategóriája:
 
 ”
 
-[^103]: A 4. mellékletet a 20/2015. (II. 17.) Korm. rendelet 32. § b) pontja iktatta be, szövege a 112/2016. (V. 27.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^104]: A 4. mellékletet a 20/2015. (II. 17.) Korm. rendelet 32. § b) pontja iktatta be, szövege a 112/2016. (V. 27.) Korm. rendelet 27. §-ával megállapított szöveg.

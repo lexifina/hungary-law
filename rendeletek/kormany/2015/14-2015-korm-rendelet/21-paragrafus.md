@@ -1,6 +1,6 @@
 ## 15. Üzemeltetői felelősség
 
-21. § (1)[^60] Az 517/2014/EU európai parlamenti és tanácsi rendelet szerint F-ÜHG-t, valamint az 1005/2009/EK parlamenti és tanácsi rendelet szerint ORLA-t tartalmazó, vagy azzal működtetett alkalmazások üzemeltetői kötelesek az 517/2014/EU európai parlamenti és tanácsi rendeletben, valamint az 1005/2009/EK parlamenti és tanácsi rendeletben előírtakat betartani, különösen
+21. § (1)[^61] Az 517/2014/EU európai parlamenti és tanácsi rendelet szerint F-ÜHG-t, valamint az 1005/2009/EK parlamenti és tanácsi rendelet szerint ORLA-t tartalmazó, vagy azzal működtetett alkalmazások üzemeltetői kötelesek az 517/2014/EU európai parlamenti és tanácsi rendeletben, valamint az 1005/2009/EK parlamenti és tanácsi rendeletben előírtakat betartani, különösen
 
 a) megtenni minden, a polgári jog szerinti elvárható magatartás követelményeinek megfelelő óvintézkedést a véletlen és szándékos szivárgás megelőzése érdekében,
 
@@ -18,7 +18,7 @@ g) gondoskodni a tulajdonát képező tartályban, készülékben tárolt F-ÜHG
 
 h) gondoskodni a kötelező adminisztratív feladatok elvégzéséről, amelyet a tényadatoknak az adatbázisban való feltöltésével kell teljesíteni.
 
-(2)[^61]
+(2)[^62]
 
 (3) Az üzemeltető az e rendeletben meghatározott és más jogszabályokban szabályozott módon büntetőjogi, polgári jogi és közigazgatási jogi felelősséggel tartozik tevékenységéért.
 
@@ -26,5 +26,5 @@ h) gondoskodni a kötelező adminisztratív feladatok elvégzéséről, amelyet 
 
 (5) A tulajdonos mentesül az egyetemleges felelősség alól, ha megnevezi a létesítmény vagy berendezés tényleges üzemeltetőjét, és kétséget kizáróan bizonyítja, hogy a felelősség nem őt terheli.
 
-[^60]: A 21. § (1) bekezdése a 112/2016. (V. 27.) Korm. rendelet 17. §-ával megállapított szöveg.
-[^61]: A 21. § (2) bekezdését a 112/2016. (V. 27.) Korm. rendelet 30. § 13. pontja hatályon kívül helyezte.
+[^61]: A 21. § (1) bekezdése a 112/2016. (V. 27.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^62]: A 21. § (2) bekezdését a 112/2016. (V. 27.) Korm. rendelet 30. § 13. pontja hatályon kívül helyezte.
