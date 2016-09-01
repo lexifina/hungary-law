@@ -1,10 +1,10 @@
-## 11. §[^18]
+## 11. §[^19]
 
-1. melléklet a 316/2012. (XI. 13.) Korm. rendelethez
+1. melléklet a 316/2012. (XI. 13.) Korm. rendelethez[^20]
 
 A Főigazgatóság Központi szervének közvetlen fenntartásában lévő intézmények
 
-Emberi Erőforrások Minisztériuma Reménysugár Habilitációs Intézet (RHI)
+Reménysugár Habilitációs Intézet (RH)
 
 1223 Budapest, Kápolna u. 3.
 
@@ -12,7 +12,7 @@ Alaptevékenysége:
 
 Tartós bentlakás biztosításával egy éves korukat betöltött súlyos fokban értelmi fogyatékos, súlyos fokban autista, súlyozottan-halmozottan sérült emberek szociális ellátását biztosítja, akik ápolása, gondozása, gyógypedagógiai fejlesztése, fejlesztő felkészítő és munkarehabilitációs foglalkoztatása, fejlesztő iskolai oktatása, képzése intézményi keretek között megvalósítható.
 
-Emberi Erőforrások Minisztériuma Vakok Állami Intézete (VÁI)
+Vakok Állami Intézete (VÁI)
 
 1146 Budapest, Hermina u. 21.
 
@@ -20,7 +20,7 @@ Alaptevékenysége:
 
 Komplex rehabilitáció nyújtása azoknak a nem tanköteles látássérült személyeknek, akiknek oktatása, képzése, átképzése és rehabilitációs célú foglalkoztatása intézményi keretek között megvalósítható: lakóotthonban, vagy önmagát ellátni nem képes látássérült emberek részére ápoló, gondozó intézményi ellátás keretében.
 
-Emberi Erőforrások Minisztériuma ÉletFa Rehabilitációs Intézet (ÉFRI)
+ÉletFa Rehabilitációs Intézet (ÉFRI)
 
 2120 Dunakeszi, Fóti u. 75.
 
@@ -28,7 +28,7 @@ Alaptevékenysége:
 
 Felnőtt értelmi fogyatékos emberek szociális ellátása, habilitációs, rehabilitációs lehetőségeinek biztosítása, foglalkoztatása, felkészítése az önálló életvitelre, integrációra, családba történő reintegrálása és az utógondozás biztosítása, lakhatás biztosítása lakóotthonokban.
 
-Emberi Erőforrások Minisztériuma Mozgássérült Emberek Rehabilitációs Központja (MEREK)
+Mozgássérült Emberek Rehabilitációs Központja (MEREK)
 
 1022 Budapest, Marcibányi tér 3.
 
@@ -74,18 +74,6 @@ Alaptevékenysége:
 
 – Az ellátottak részére nevelést, oktatást biztosít.
 
-Emberi Erőforrások Minisztériuma Kalocsai Gyermekotthon, Általános Iskola és Szakiskola
-
-6300 Kalocsa, Szent István király út 16–22.
-
-Alaptevékenysége:
-
-– A gyermekvédelmi szakellátás keretében otthont nyújtó ellátásként speciális gyermekotthoni ellátást biztosít 12. életévét – kivételesen indokolt esetben 10. életévét – betöltött, súlyos beilleszkedési, magatartási vagy tanulási zavarokkal küzdő, átmeneti vagy tartós nevelt fiúk számára.
-
-– A nagykorúvá vált – korábban a gyermekotthonban elhelyezett – fiatal felnőttek részére utógondozói ellátást biztosít.
-
-– A Gyermekotthon az otthonban elhelyezett kiskorú és az utógondozói ellátásban részesülő fiatal felnőtt számára általános és szakiskolai nevelés, oktatás.
-
 Károlyi István Gyermekközpont
 
 2153 Fót, Vörösmarty tér 2.
@@ -126,14 +114,5 @@ Alaptevékenysége:
 
 – Ellátottak részére általános és szakiskolai nevelés, oktatás.
 
-Emberi Erőforrások Minisztériuma Zalaegerszegi Gyermekotthona
-
-8900 Zalaegerszeg, Posta u. 144.
-
-Alaptevékenysége:
-
-– A gyermekvédelmi szakellátás keretében otthont nyújtó ellátásként speciális gyermekotthoni ellátást biztosít 12. életévét – kivételesen indokolt esetben 10. életévét – betöltött, súlyos beilleszkedési, magatartási vagy tanulási zavarokkal küzdő, átmeneti vagy tartós nevelt fiúk számára.
-
-– A nagykorúvá vált – korábban a gyermekotthonban elhelyezett – fiatal felnőttek részére utógondozói ellátást biztosít.
-
-[^18]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: Az 1. melléklet a 253/2016. (VIII. 24.) Korm. rendelet 6–7. §-a szerint módosított szöveg.
