@@ -236,6 +236,6 @@
 
 ## Zalka Máté Műszaki Katonai Főiskolán (jogutód: Bólyai János Műszaki Katonai Főiskola) szerzett szakirányú végzettséget.
 
-10. melléklet a 30/2015. (VI. 16.) BM rendelethez[^12]
+10. melléklet a 30/2015. (VI. 16.) BM rendelethez[^15]
 
-[^12]: A 10. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § g) pontja szerint módosított szöveg.
+[^15]: A 10. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § g) pontja szerint módosított szöveg.

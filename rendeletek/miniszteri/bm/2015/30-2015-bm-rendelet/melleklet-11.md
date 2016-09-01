@@ -234,7 +234,7 @@
 
 ## büntetés-végrehajtási alapfokú szaktanfolyamot.
 
-11. melléklet a 30/2015. (VI. 16.) BM rendelethez[^13]
+11. melléklet a 30/2015. (VI. 16.) BM rendelethez[^16]
 
 A folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások, a készenléti jellegű szolgálati beosztások, valamint az őrszolgálati beosztások
 
@@ -394,4 +394,4 @@ j) biztonsági felügyelő
 
 k) kutyavezető.
 
-[^13]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított szöveg.
+[^16]: A 11. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § h) pontjával megállapított szöveg.

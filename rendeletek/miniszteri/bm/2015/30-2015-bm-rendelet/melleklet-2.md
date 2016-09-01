@@ -1,4 +1,4 @@
-2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^4]
+2. melléklet a 30/2015. (VI. 16.) BM rendelethez[^7]
 
 ## Az általános rendőrségi feladatok ellátására létrehozott szerv szolgálati beosztásai
 
@@ -19,6 +19,8 @@ I. Vezetői besorolási osztályba tartozó szolgálati beosztások
 | 5. | rendészeti országos rendőrfőkapitány-helyettes | 100 |  |
 
 | 6. | gazdasági országos rendőrfőkapitány-helyettes |  | 100 |
+
+| 6a. | kiemelt vezető | központi szerv vezetőjének helyettese | személyügyi országos rendőrfőkapitány-helyettes |  | 100 |
 
 | 7. | közép- vezető | szakirányító 1 | szolgálatvezető (ORFK humánigazgatási, ellenőrzési) |  | 100 |
 
@@ -538,7 +540,7 @@ VI. Készenléti Rendőrség szolgálati beosztásai
 
 | 4. | közép- vezető | szakirányító 1 | igazgató | 200 | 150 |
 
-| 5. | főosztályvezető 1 | igazgató-helyettes (KR GI GEK) |  | 150 |
+| 5. | főosztályvezető 1 | igazgató-helyettes (KR MÜIG, KR KIG) |  | 150 |
 
 | 6. | főosztályvezető 2 | szolgálatvezető (humánigazgatási, ellenőrzési, ÁFSZ, KR LRSZ) | 200 | 150 |
 
@@ -986,6 +988,70 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 **** Az ellenőr/főellenőr/kiemelt főellenőr szolgálati beosztások esetében akkor jár az alapfeladatra vonatkozó magasabb mértékű hivatásos pótlék, ha a szolgálati beosztást bűnügyi, közbiztonsági, vagy mobil ellenőrzési feladatok végrehajtására rendszeresítették.
 
+VIII. A Nemzetközi Oktatási Központ szolgálati beosztásai
+
+## (területi szerv besorolású)
+
+1. Vezetői besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D | E |
+
+| 1. | vezetői |  |  | hivatásos pótlék mértéke (%) |
+
+| 2. | kategória | besorolási kategória | beosztás | alapfeladat | nem alap- feladat |
+
+| 3. | kiemelt | területi szerv vezetője | igazgató | 100 |  |
+
+| 4. | középvezető | szakirányító 2 | igazgató-helyettes | 100 |  |
+
+| 5. | középvezető | főosztályvezető 2 | osztályvezető (NEO) | 100 |  |
+
+| 6. | beosztott vezető | főosztályvezető- helyettes 1 | osztályvezető (ILEA, KERA, CEPOL, ICOFI, TKO) | 100 |  |
+
+2. Tiszti besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D |
+
+| 1. | besorolási |  | hivatásos pótlék mértéke (%) |
+
+| 2. | kategória | beosztás | alapfeladat | nem alap- feladat |
+
+| 3. | E | osztályvezető-helyettes | 100 | 100 |
+
+| 4. | E | alosztályvezető | 100 | 100 |
+
+| 5. | D | kiemelt főelőadó | 100 | 100 |
+
+| 6. | C | főelőadó | 100 | 100 |
+
+3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
+
+|  | A | B | C | D |
+
+| 1. | besorolási |  | hivatásos pótlék mértéke (%) |
+
+| 2. | kategória | beosztás | alapfeladat | nem alap- feladat |
+
+| 3. | D | referens | 100 | 100 |
+
+| 4. | C | segédelőadó |  | 100 |
+
+| 5. | B | gépjárművezető |  | 100 |
+
+Rövidítések:
+
+NEO Nemzetközi Ellátó Osztály
+
+ILEA Nemzetközi Rendészeti Akadémia (International Law Enforcement Academy)
+
+KERA Közép-európai Rendőr Akadémia
+
+CEPOL Európai Rendőr Akadémia (European Police College)
+
+ICOFI Nemzetközi Pénzügyi Nyomozói Akadémia (International College of Financial Investigation)
+
+TKO Továbbképzési és Koordinációs Osztály
+
 Megjegyzés:
 
 Központi szerv:
@@ -994,7 +1060,7 @@ Országos Rendőr-főkapitányság (ORFK)
 
 Területi szervek: (megyei illetékességű középirányító és azonos jogállású):
 
-BRFK + MRFK-k + KR + RRI + BSZKI + Rendőrségi Oktatási és Kiképzési Központ + Nemzetközi Bűnügyi Együttműködési Központ
+BRFK + MRFK-k + KR + RRI + BSZKI + Rendőrségi Oktatási és Kiképző Központ + Nemzetközi Bűnügyi Együttműködési Központ + Nemzetközi Oktatási Központ
 
 Helyi szervek:
 
@@ -1002,42 +1068,42 @@ rendőrkapitányságok, határrendészeti kirendeltségek
 
 Kiemelt rendőrkapitányságok:
 
-a BRFK II., III., IV., V., VII., VIII., IX., X., XI., XIII., XIV. kerületi és a Dunai Vízirendészeti Rendőrkapitányság, a megyeszékhelyi rendőrkapitányságok, a Gödöllői, Soproni, Nagykanizsai, Dunaújvárosi, Érdi, Hódmezővásárhelyi Rendőrkapitányság
+a BRFK II., III., IV., V., VII., VIII., IX., X., XI., XIII., XIV. kerületi és a Dunai Vízirendészeti Rendőrkapitányság, a megyeszékhelyi rendőrkapitányságok, a Gödöllői, a Soproni, a Nagykanizsai, a Dunaújvárosi, az Érdi, a Hódmezővásárhelyi Rendőrkapitányság
 
 Kiemelt Határrendészeti Kirendeltségek:
 
-a Szegedi, Kelebiai, Záhonyi Határrendészeti Kirendeltség
+a Szegedi, a Kelebiai, a Záhonyi Határrendészeti Kirendeltség
 
 Egyéb rövidítések:
 
-| ÁFSZ: | Készenléti Rendőrség Állami Futárszolgálat |
+ÁFSZ: Készenléti Rendőrség Állami Futárszolgálat
 
-| BRFK: | Budapesti Rendőr-főkapitányság |
+BRFK: Budapesti Rendőr-főkapitányság
 
-| BSZKI: | Bűnügyi Szakértői és Kutatóintézet |
+BSZKI: Bűnügyi Szakértői és Kutatóintézet
 
-| KHSZ: | Közigazgatási Hatósági Szolgálat |
+KHSZ: Közigazgatási Hatósági Szolgálat
 
-| KR: | Készenléti Rendőrség |
+KR: Készenléti Rendőrség
 
-| KR GI: | Készenléti Rendőrség Gazdasági Igazgatóság |
+KR MÜIG: Készenléti Rendőrség Műszaki és Üzemeltetési Igazgatóság
 
-| KR GI GEK: | Készenléti Rendőrség Gazdasági Igazgatóság Gazdasági Ellátó Központ |
+KR KIG: Készenléti Rendőrség Költségvetési Igazgatóság
 
-| KR NNI: | Készenléti Rendőrség Nemzeti Nyomozó Iroda |
+KR NNI: Készenléti Rendőrség Nemzeti Nyomozó Iroda
 
-| KR TŰSZ: | Készenléti Rendőrség Tűzszerész Szolgálat |
+KR TŰSZ: Készenléti Rendőrség Tűzszerész Szolgálat
 
-| KR ÜVSZ: | Készenléti Rendőrség Ügyeleti Védelmi Szolgálat |
+KR ÜVSZ: Készenléti Rendőrség Ügyeleti Védelmi Szolgálat
 
-| KR KEŐ: | Készenléti Rendőrség Köztársasági Elnöki Őrség |
+KR KEŐ: Készenléti Rendőrség Köztársasági Elnöki Őrség
 
-| KR KEŐ SZO: | Készenléti Rendőrség Köztársasági Elnöki Őrség Személyvédelmi Osztály |
+KR KEŐ SZO: Készenléti Rendőrség Köztársasági Elnöki Őrség Személyvédelmi Osztály
 
-| KR LRSZ: | Légirendészeti Szolgálat |
+KR LRSZ: Légirendészeti Szolgálat
 
-| MRFK: | Megyei Rendőr-főkapitányság |
+MRFK: Megyei Rendőr-főkapitányság
 
-| RRI: | Repülőtéri Rendőr Igazgatóság |
+RRI: Repülőtéri Rendőr Igazgatóság
 
-[^4]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja szerint módosított szöveg.
+[^7]: A 2. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 17. § (1) bekezdése szerint módosított szöveg.

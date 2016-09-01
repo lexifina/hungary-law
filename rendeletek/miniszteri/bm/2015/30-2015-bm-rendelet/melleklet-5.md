@@ -148,7 +148,7 @@
 
 ## 500** A TEK Ügyeleti és Objektumvédelmi Igazgatóságon szolgálatot teljesítők esetében a hivatásos pótlék mértéke 500%.
 
-5. melléklet a 30/2015. (VI. 16.) BM rendelethez[^7]
+5. melléklet a 30/2015. (VI. 16.) BM rendelethez[^10]
 
 ## A hivatásos katasztrófavédelmi szerv szolgálati beosztásai
 
@@ -330,4 +330,4 @@ II. Tiszti besorolási osztályba tartozó szolgálati beosztások
 
 III. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
 
-[^7]: Az 5. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § d) pontja szerint módosított szöveg.
+[^10]: Az 5. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § d) pontja szerint módosított szöveg.

@@ -118,117 +118,11 @@
 
 | 9. | szolgálatparancsnok-helyettes | 100 | 100 |
 
-## C) A Belügyminisztérium Nemzetközi Oktatási Központ szolgálati beosztásai
+## C)
 
-## 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
+## D)
 
-|  | A | B | C | D | E |
-
-| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alap- feladat |
-
-| 3. | kiemelt | területi szerv vezetője | főigazgató | 100 |  |
-
-| 4. | közép vezető | főosztályvezető 1 | főigazgató-helyettes | 100 |  |
-
-| 5. | főosztályvezető 2 | osztályvezető (GNEO) | 100 |  |
-
-| 6. | beosztott vezető | főosztályvezető- helyettes 1 | osztályvezető (ILEA, KERA, CEPOL, ICOFI, TKO) | 100 |  |
-
-## 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
-
-|  | A | B | C | D |
-
-| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alap- feladat |
-
-| 3. | E | osztályvezető-helyettes | 100 | 100 |
-
-| 4. | alosztályvezető | 100 | 100 |
-
-| 5. | D | főreferens | 100 | 100 |
-
-| 6. | C | referens | 100 | 100 |
-
-## 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
-
-|  | A | B | C | D |
-
-| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alap- feladat |
-
-| 3. | D | referens | 100 | 100 |
-
-| 4. | C | főelőadó |  | 100 |
-
-| 5. | B | gépkocsivezető |  | 100 |
-
-## Rövidítések:
-
-| GNEO |  | Gazdasági és Nemzetközi Ellátó Osztály |
-
-| ILEA |  | Nemzetközi Rendészeti Akadémia (International Law Enforcement Academy) |
-
-| KERA |  | Közép-európai Rendőr Akadémia |
-
-| CEPOL |  | Európai Rendőr Akadémia (European Police College) |
-
-| ICOFI |  | Nemzetközi Pénzügyi Nyomozói Akadémia (International College of Financial Investigation) |
-
-| TKO |  | Továbbképzési és Koordinációs Osztály |
-
-## D) A Közszolgálati Személyzetfejlesztési Főigazgatóság szolgálati beosztásai
-
-## 1. Vezetői besorolási osztályba tartozó szolgálati beosztások
-
-|  | A | B | C | D | E |
-
-| 1. | vezetői kategória | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alap- feladat |
-
-| 3. | kiemelt vezető | területi szerv vezetője | főigazgató | 100 |  |
-
-| 4. | közép- vezető | főosztályvezető 1 | főigazgató-helyettes | 100 | 100 |
-
-| 5. | beosztott vezető | főosztályvezető-helyettes 1 | igazgató | 100 |  |
-
-| 6. | osztályvezető 1 | osztályvezető | 100 | 100 |
-
-## 2. Tiszti besorolási osztályba tartozó szolgálati beosztások
-
-|  | A | B | C | D |
-
-| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alap- feladat |
-
-| 3. | E | kiemelt főreferens | 100 | 100 |
-
-| 4. | vezető tréner | 100 | 100 |
-
-| 5. | D | kiemelt főelőadó | 100 | 100 |
-
-| 6. | C | főelőadó | 100 | 100 |
-
-## 3. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások
-
-|  | A | B | C | D |
-
-| 1. | besorolási kategória | beosztás | hivatásos pótlék mértéke (%) |
-
-| 2. | alapfeladat | nem alap- feladat |
-
-| 3. | D | referens |  | 100 |
-
-| 4. | C | főelőadó |  | 100 |
-
-| 5. | gépkocsivezető |  | 100 |
-
-8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^10]
+8. melléklet a 30/2015. (VI. 16.) BM rendelethez[^13]
 
 ## A Nemzeti Közszolgálati Egyetemen rendszeresített szolgálati beosztások, azok besorolási kategóriája
 
@@ -308,4 +202,4 @@ II. Oktatói, nevelői és képzést támogató beosztások
 
 III. Kiképzői beosztások
 
-[^10]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a szerint módosított szöveg.
+[^13]: A 8. melléklet a 76/2015. (XII. 22.) BM rendelet 31. § f) pontja, a 20/2016. (VI. 9.) BM rendelet 47. §-a szerint módosított szöveg.
