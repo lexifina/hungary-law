@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-359-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2015-12-17 | 2015-359-20-22.1 | 359/2015. (XII. 2.) Korm. rendelet |
+| 2016-09-01 | 2015-359-20-22.2 | 259/2016. (VIII. 31.) Korm. rendelet |
