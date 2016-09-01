@@ -12,7 +12,7 @@
 
 6. igényjogosult: az 1. §-ban meghatározott rendvédelmi feladatokat ellátó szervek hivatásos állománya, valamint a rendvédelmi oktatási intézmények tanulói és hallgatói állománya;
 
-7.[^3] középfokú szakirányító szerv: a központi szerv, az AH, az NBSZ, a TIBEK, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, továbbá – a hallgatók vonatkozásában – a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar (a továbbiakban: NKE-RTK), valamint – az ezen szervekhez vezényelt hivatásos állomány vonatkozásában – a Belügyminisztérium Nemzetközi Oktatási Központ és a Közszolgálati Személyzetfejlesztési Főigazgatóság;
+7.[^3] középfokú szakirányító szerv: a központi szerv, az AH, az NBSZ, a TIBEK, a belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv, továbbá – a hallgatók vonatkozásában – a Nemzeti Közszolgálati Egyetem Rendészettudományi Kar (a továbbiakban: NKE-RTK);
 
 8. Központi Ellátó Szerv: a központosított ellátásba vont termékek beszerzését végző szerv;
 
@@ -22,7 +22,7 @@
 
 11. miniszter: a rendvédelmi feladatokat ellátó szervet irányító miniszter;
 
-12.[^4] önálló szerv: a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, az AH, az NBSZ, a TIBEK, a rendvédelmi oktatási intézmények, valamint – az ezen szervhez vezényelt hivatásos állomány vonatkozásában – a Belügyminisztérium Nemzetközi Oktatási Központ és a Közszolgálati Személyzetfejlesztési Főigazgatóság;
+12.[^4] önálló szerv: a rendőrség, a büntetés-végrehajtási szervezet, a hivatásos katasztrófavédelmi szerv, az AH, az NBSZ, a TIBEK, a rendvédelmi oktatási intézmények;
 
 13.[^5] ruházati szakszolgálat: az AH, az NBSZ és a TIBEK hivatásos állománya kivételével a ruházati ellátással kapcsolatos feladatokat ellátó személyek, szervezetek és szervezeti elemek rendszere;
 
@@ -48,6 +48,6 @@ g) a javító- és karbantartóanyagok;
 
 17. végrehajtó szervezeti egység: a területi szerv, a büntetés-végrehajtási szervezet esetében a területi és helyi szerv, valamint a rendészeti szakközépiskolák.
 
-[^3]: A 2. § 7. pontja a 29/2016. (VII. 15.) BM rendelet 45. § a) pontja szerint módosított szöveg.
-[^4]: A 2. § 12. pontja a 29/2016. (VII. 15.) BM rendelet 45. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § 7. pontja a 29/2016. (VII. 15.) BM rendelet 45. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 20. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^4]: A 2. § 12. pontja a 29/2016. (VII. 15.) BM rendelet 45. § a) pontja, a 37/2016. (IX. 1.) BM rendelet 20. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^5]: A 2. § 13. pontja a 29/2016. (VII. 15.) BM rendelet 45. § b) pontja szerint módosított szöveg.
