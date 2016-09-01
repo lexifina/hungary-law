@@ -46,15 +46,15 @@ l) a központi és területi védelmi igazgatási szervek intézkedési tervrend
 
 A HIKOM összetétele
 
-2. A HIKOM vezetője a HM Védelmi Hivatal főigazgatója.
+2.[^3] A HIKOM vezetője a honvédelemért felelős miniszter által kijelölt személy.
 
-3. A HIKOM-vezető helyettese a HM Védelmi Hivatal főigazgatója által kijelölt személy.
+3.[^4] A HIKOM-vezető helyettese a honvédelemért felelős miniszter által kijelölt személy.
 
 4. A HIKOM tagjai:
 
-a)[^3] a honvédelmi miniszter, a Miniszterelnökséget vezető miniszter, az igazságügyi miniszter, a belügyminiszter, a külgazdasági és külügyminiszter, a nemzetgazdasági miniszter, az emberi erőforrások minisztere, a nemzeti fejlesztési miniszter, valamint a földművelésügyi miniszter által kijelölt,
+a)[^5] a honvédelmi miniszter, a Miniszterelnökséget vezető miniszter, az igazságügyi miniszter, a belügyminiszter, a külgazdasági és külügyminiszter, a nemzetgazdasági miniszter, az emberi erőforrások minisztere, a nemzeti fejlesztési miniszter, valamint a földművelésügyi miniszter által kijelölt,
 
-b)[^4] az Információs Hivatal főigazgatója, az Alkotmányvédelmi Hivatal főigazgatója, a Katonai Nemzetbiztonsági Szolgálat főigazgatója, a Nemzetbiztonsági Szakszolgálat főigazgatója, valamint a Bevándorlási és Állampolgársági Hivatal főigazgatója által kijelölt,
+b)[^6] az Információs Hivatal főigazgatója, az Alkotmányvédelmi Hivatal főigazgatója, a Katonai Nemzetbiztonsági Szolgálat főigazgatója, a Nemzetbiztonsági Szakszolgálat főigazgatója, valamint a Bevándorlási és Állampolgársági Hivatal főigazgatója által kijelölt,
 
 c) az országos rendőrfőkapitány, a Terrorelhárítási Központ főigazgatója, valamint a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság főigazgatója által kijelölt, továbbá
 
@@ -66,13 +66,13 @@ d) a HIKOM vezetője által felkért
 
 A HIKOM összehívásának és működésének rendje
 
-6.[^5] A HIKOM üléseit a HIKOM vezetője hívja össze.
+6.[^7] A HIKOM üléseit a HIKOM vezetője hívja össze.
 
-7.[^6] A HIKOM ülésének összehívását bármely HIKOM tag, az indok egyidejű megjelölésével kezdeményezheti a HIKOM vezetőjénél. A kezdeményezésről a HIKOM vezetője haladéktalanul dönt.
+7.[^8] A HIKOM ülésének összehívását bármely HIKOM tag, az indok egyidejű megjelölésével kezdeményezheti a HIKOM vezetőjénél. A kezdeményezésről a HIKOM vezetője haladéktalanul dönt.
 
-8.[^7] A HIKOM adminisztratív feladatainak ellátásáról a HIKOM vezetője gondoskodik.
+8.[^9] A HIKOM adminisztratív feladatainak ellátásáról a HIKOM vezetője gondoskodik.
 
-9.[^8] A HIKOM üléseiről emlékeztető készül. Az emlékeztető elkészítéséről és a munkacsoport tagok részére – az ülést követő 8 munkanapon belül – történő megküldéséről a HIKOM vezetője gondoskodik.
+9.[^10] A HIKOM üléseiről emlékeztető készül. Az emlékeztető elkészítéséről és a munkacsoport tagok részére – az ülést követő 8 munkanapon belül – történő megküldéséről a HIKOM vezetője gondoskodik.
 
 10. A HIKOM működésének részletes szabályait a HIKOM az ügyrendjében maga állapítja meg. A HIKOM ügyrendjét a honvédelmi miniszter hagyja jóvá.
 
@@ -80,13 +80,16 @@ Javaslattételi, véleményező, és tanácsadói tevékenység a Kormány rész
 
 11. A HIKOM a Kormány döntését szükségessé tevő kérdésekben előterjesztést készít, amelyben a szükség szerinti részletességgel kifejti a javaslatait, véleményét, tanácsait. A HIKOM által előkészített kormány-előterjesztések benyújtója a honvédelmi miniszter.
 
-12. A HIKOM által készített előterjesztések alapján született kormánydöntések végrehajtásának koordinálását a honvédelmi igazgatás központi végrehajtás-koordináló szakmai szerve végzi.
+12.[^11] A HIKOM által készített előterjesztések alapján született kormánydöntések végrehajtásának koordinálását a Honvédelmi Minisztérium végzi.
 
 [^1]: A 3. pont b) alpontja az 1501/2015. (VII. 23.) Korm. határozat 1. pontjával megállapított szöveg.
 [^2]: A 3. pont c) alpontját az 1501/2015. (VII. 23.) Korm. határozat 4. pontja hatályon kívül helyezte.
-[^3]: Az 1. melléklet 4. pont a) alpontja az 1501/2015. (VII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
-[^4]: Az 1. melléklet 4. pont b) alpontja az 1501/2015. (VII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
-[^5]: Az 1. melléklet 6. pontja az 1501/2015. (VII. 23.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
-[^6]: Az 1. melléklet 7. pontja az 1501/2015. (VII. 23.) Korm. határozat 3. pont a)–b) alpontja szerint módosított szöveg.
-[^7]: Az 1. melléklet 8. pontja az 1501/2015. (VII. 23.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
-[^8]: Az 1. melléklet 9. pontja az 1501/2015. (VII. 23.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^3]: Az 1. melléklet 2. pontja az 1467/2016. (VIII. 31.) Korm. határozat 1. pont a) pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet 3. pontja az 1467/2016. (VIII. 31.) Korm. határozat 1. pont b) pontja szerint módosított szöveg.
+[^5]: Az 1. melléklet 4. pont a) alpontja az 1501/2015. (VII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
+[^6]: Az 1. melléklet 4. pont b) alpontja az 1501/2015. (VII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
+[^7]: Az 1. melléklet 6. pontja az 1501/2015. (VII. 23.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^8]: Az 1. melléklet 7. pontja az 1501/2015. (VII. 23.) Korm. határozat 3. pont a)–b) alpontja szerint módosított szöveg.
+[^9]: Az 1. melléklet 8. pontja az 1501/2015. (VII. 23.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^10]: Az 1. melléklet 9. pontja az 1501/2015. (VII. 23.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^11]: Az 1. melléklet 12. pontja az 1467/2016. (VIII. 31.) Korm. határozat 1. pont c) pontja szerint módosított szöveg.
