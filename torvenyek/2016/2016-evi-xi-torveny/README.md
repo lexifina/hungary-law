@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-11-00-00
 | --- | --- | --- |
 | 2016-03-25 | 2016. évi XI. törvény | 2016-11-00-00.0 (közlönyállapot) |
 | 2016-03-25 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-11-00-00.1 |
+| 2016-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-11-00-00.2 |
