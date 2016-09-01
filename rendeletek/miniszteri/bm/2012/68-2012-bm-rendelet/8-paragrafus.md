@@ -4,8 +4,8 @@
 
 (2) Ha a vizsgán a vizsgázó nem jelenik meg, a vizsgát követő 5 napon belül igazolással élhet.
 
-(3)[^14] A halasztott vizsga időpontját a KSZF állapítja meg azzal, hogy a vizsgaidőpontot a halasztási kérelem benyújtásától számított 30 napon belüli időpontra biztosítja.
+(3)[^10] A halasztott vizsga időpontját a rendészetért felelős miniszter állapítja meg azzal, hogy a vizsgaidőpontot a halasztási kérelem benyújtásától számított 30 napon belüli időpontra biztosítja.
 
 (4) Ha a vizsgázó a vizsgán nem jelenik meg és igazolással sem él, a vizsga letételére három hónapon belül ismételten bejelentkezhet.
 
-[^14]: A 8. § (3) bekezdése a 16/2015. (IV. 17.) BM rendelet 8. § b) pontja szerint módosított szöveg.
+[^10]: A 8. § (3) bekezdése a 37/2016. (IX. 1.) BM rendelet 10. § (7) bekezdésével megállapított szöveg.

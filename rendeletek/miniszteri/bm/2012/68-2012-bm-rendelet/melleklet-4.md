@@ -56,7 +56,7 @@
 
 ## f) a vizsgán elért eredményeket.
 
-## 4.[^17] A vizsgát szervező intézmény a vizsgajegyzőkönyv egy példányát a vizsgát követő nyolc napon belül megküldi a KSZF részére. A vizsgajegyzőkönyv nem selejtezhető.
+## 4.[^13] A vizsgát szervező intézmény a vizsgajegyzőkönyv egy példányát a vizsgát követő nyolc napon belül megküldi a rendészetért felelős miniszter részére. A vizsgajegyzőkönyv nem selejtezhető.
 
 4. melléklet a 68/2012. (XII. 14.) BM rendelethez
 
@@ -144,4 +144,4 @@ P. H.
 
 | vizsgaszervező vezetője | vizsgabizottság elnöke |
 
-[^17]: A 3. melléklet III. pont 4. alpontja a 16/2015. (IV. 17.) BM rendelet 8. § b) pontja szerint módosított szöveg.
+[^13]: A 3. melléklet III. pont 4. alpontja a 37/2016. (IX. 1.) BM rendelet 10. § (8) bekezdésével megállapított szöveg.
