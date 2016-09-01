@@ -2,9 +2,9 @@
 
 ## Az Alapprogram kezelő szervezete
 
-12. §[^22] (1)[^23] Az Alapprogram kezelő szerve az Intézet.
+12. §[^22] (1)[^23] Az Alapprogram kezelő szerve az EMET.
 
-(2)[^24] Az Intézet az Alapprogram kezelésével összefüggő feladatok tekintetében a Wekerle Sándor Alapkezelő és az ESZA Társadalmi Szolgáltató Nonprofit Korlátolt Felelősségű Társaság jogutódja.
+(2)[^24] Az EMET az Alapprogram kezelésével és – a 14. §-ban foglaltak kivételével – az egyéb pályázatkezeléssel összefüggő feladatok tekintetében a Család-, Ifjúság- és Népesedéspolitikai Intézet jogutódja.
 
 (3)[^25]
 
@@ -12,6 +12,6 @@
 
 [^21]: A 11. §-t és az azt megelőző alcímet a 16/2012. (VIII. 23.) EMMI rendelet 3. § h) pontja hatályon kívül helyezte.
 [^22]: A 12. § a 8/2006. (XII. 27.) SZMM rendelet 5. §-ával megállapított szöveg.
-[^23]: A 12. § (1) bekezdése a 42/2011. (VII. 5.) NEFMI rendelet 2. §-ával megállapított szöveg.
-[^24]: A 12. § (2) bekezdése a 42/2011. (VII. 5.) NEFMI rendelet 2. §-ával megállapított szöveg.
+[^23]: A 12. § (1) bekezdése a 42/2011. (VII. 5.) NEFMI rendelet 2. §-ával megállapított, a 21/2016. (VIII. 24.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
+[^24]: A 12. § (2) bekezdése a 21/2016. (VIII. 24.) EMMI rendelet 4. §-ával megállapított szöveg.
 [^25]: A 12. § (3) bekezdését a 16/2012. (VIII. 23.) EMMI rendelet 3. § i) pontja hatályon kívül helyezte.
