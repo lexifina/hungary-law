@@ -74,7 +74,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 18. | Határrendészet | illetékes megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 19. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+| 19. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
 | 20. | Környezetvédelem, természetvédelem és tájvédelem. Környezet- és természetvédelem, ha a tevékenység megkezdéséhez egységes környezethasználati engedély vagy környezetvédelmi engedély nem szükséges | illetékes megyei kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
 
@@ -84,4 +84,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 23. | Építésügy | illetékes járási hivatal | illetékes megyei kormányhivatal |
 
-[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 32. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 32. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) korm. rendelet 41. §-a szerint módosított szöveg.
