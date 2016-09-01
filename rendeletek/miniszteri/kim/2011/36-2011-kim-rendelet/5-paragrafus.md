@@ -8,7 +8,9 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 Önálló vállalkozók tevékenységi jegyzéke (ÖVTJ)
 
-| ÖVTJ-kód 2016 | ÖVTJ 2016 megnevezés |
+2016 szeptember
+
+| ÖVTJ-kód | ÖVTJ megnevezés |
 
 | 01 | Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások |
 
@@ -170,7 +172,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 016102 | Növénytermesztési szolgáltatás kézi erővel |
 
-| 016103 | Mezőgazdasági kártevőirtás |
+| 016103 | Mezőgazdasági kártevőírtás |
 
 | 016104 | Beporzási szolgáltatás |
 
@@ -560,7 +562,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 1102 | Szőlőbor termelése |
 
-| 110201 | Bortemelés (nem saját termelésű alapanyagól) m.n.s. |
+| 110201 | Bortermelés (nem saját termelésű alapanyagól) m.n.s. |
 
 | 110202 | Pezsgőtermelés (nem saját termelésű alapanyagból) |
 
@@ -576,7 +578,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 1104 | Egyéb nem desztillált, erjesztett ital gyártása |
 
-| 110401 | Egyéb nem desztillált, erjesztett ital gyártása (nem saját termelésű alapanyagból) |
+| 110401 | Egyéb nem desztilált, erjeszett ital gyártása (nem saját termelésű alapanyagból) |
 
 | 110402 | Egyéb nem desztillált, erjesztett ital gyártása (saját termelésű alapanyagból) |
 
@@ -1028,7 +1030,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 212001 | Gyógyszergyártás |
 
-| 212002 | Gyógyászati felhasználású anyagok gyártása |
+| 212003 | Gyógyászati felhasználású anyagok gyártása |
 
 | 22 | Gumi-, műanyag termék gyártása |
 
@@ -1784,7 +1786,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 329101 | Seprű-, kefegyártás |
 
-| 3299 | Egyéb m.n.s feldolgozóipari tevékenység |
+| 3299 | Egyéb m.n.s. feldolgozóipari tevékenység |
 
 | 329901 | Egyéb m.n.s. feldolgozóipari tevékenység |
 
@@ -2132,7 +2134,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 3900 | Szennyeződésmentesítés, egyéb hulladékkezelés |
 
-| 390001 | Szennyeződésmentesítés, egyéb hulladékkezelés m.n.s |
+| 390001 | Szennyeződésmentesítés, egyéb hulladékkezelés m.n.s. |
 
 | 390002 | Területtisztítás |
 
@@ -2348,7 +2350,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 433902 | Sírkő felállítása, javítása, felújítása, tisztítása, bontása helyszínen |
 
-| 433903 | Betonfúrás és -vágás, szögbelövés, |
+| 433903 | Betonfúrás és -vágás, szögbelövés |
 
 | 439 | Egyéb speciális szaképítés |
 
@@ -2844,7 +2846,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 472103 | Savanyúság-kiskereskedelem |
 
-| 4722 | Hús-, húsáru kiskereskedelme |
+| 4722 | Hús, húsáru kiskereskedelme |
 
 | 472201 | Egyéb húsáru-kiskereskedelem |
 
@@ -2888,7 +2890,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 4730 | Gépjárműüzemanyag-kiskereskedelem |
 
-| 473001 | Gépjármű üzemanyag kiskereskedelem m.n.s. |
+| 473001 | Gépjárműüzemanyag-kiskereskedelem m.n.s. |
 
 | 473002 | Egyéb kőolajszármazék kiskereskedelem |
 
@@ -2948,7 +2950,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 4759 | Bútor, világítási eszköz, egyéb háztartási cikk kiskereskedelme |
 
-| 475901 | Egyéb háztartási termék kiskereskedelem m.n.s |
+| 475901 | Egyéb háztartási termék kiskereskedelem m.n.s. |
 
 | 475902 | Finomacéláru kiskereskedelem |
 
@@ -2968,7 +2970,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 475910 | Zenemű (kotta)-kiskereskedelem |
 
-| 475911 | Irodabútor kiskereskedelme |
+| 475911 | Irodabútor kiskereskdeleme |
 
 | 475912 | Népművészeti bútor és díszműáru kiskereskedelem |
 
@@ -3116,6 +3118,8 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 4779 | Használtcikk bolti kiskereskedelme |
 
+| 477901 | Egyéb használtcikk-kiskereskedelem |
+
 | 477902 | Használtruha-, lábbeli-kiskereskedelem |
 
 | 477903 | Használtbútor kiskereskedelem |
@@ -3153,8 +3157,6 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 | 479102 | Csomagküldő, internetes kiskereskedelem |
 
 | 4799 | Egyéb nem bolti, piaci kiskereskedelem |
-
-| 479901 | Egyéb nem bolti kiskereskedelem |
 
 | 479903 | Értékesítés automatán keresztül |
 
@@ -4208,7 +4210,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 812902 | Egyéb tisztítás |
 
-| 812904 | Egészségügyi kártevők elleni védekezés (rovar- és rágcsálóirtás) |
+| 812904 | Egészségügyi kártevők elleni védekezés (rovar- és rágcsálóírtás) |
 
 | 812905 | Köz- és egyéb területek tisztítása, hó- és jégmentesítése |
 
@@ -4846,7 +4848,7 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 960208 | Kozmetika, szépségápolás az ügyfél otthonában |
 
-| 960209 | Kéz-­ és lábápolás az ügyfél otthonában |
+| 960209 | Kéz- és lábápolás az ügyfél otthonában |
 
 | 9603 | Temetkezés, temetkezést kiegészítő szolgáltatás |
 
@@ -4906,4 +4908,4 @@ Melléklet a 36/2011. (XII. 23.) KIM rendelethez[^2]
 
 | 990001 | Külföldi képviseletet ellátó személy |
 
-[^2]: A Melléklet a 22/2016. (VII. 28.) MvM rendelet 1. §-ával megállapított szöveg.
+[^2]: A Melléklet a 24/2016. (VIII. 30.) MvM rendelet 1. §-ával megállapított szöveg.
