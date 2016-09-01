@@ -16,11 +16,11 @@ f) az interfészen keresztül történő adatátadások biztosítása.
 
 (2) A munkáltató a KSzSzR működése érdekében az alábbi feladatokat látja el:
 
-a)[^23] a rendszer használata során feltárt hibák, illetve módosítási igények megküldése a Hivatal felé;
+a)[^24] a rendszer használata során feltárt hibák, illetve módosítási igények megküldése a miniszter felé;
 
-b)[^24] a jogosultságok beállításával, törlésével kapcsolatos igények jelzése a Hivatal felé;
+b)[^25] a jogosultságok beállításával, törlésével kapcsolatos igények jelzése a miniszter felé;
 
-c)[^25] együttműködés a Hivatallal a KSzSzR-ben végrehajtott módosítások, fejlesztések felhasználói tesztelésében.
+c)[^26] együttműködés a miniszterrel a KSzSzR-ben végrehajtott módosítások, fejlesztések felhasználói tesztelésében.
 
 (3) A munkáltató adminisztratív jellegű feladatai különösen:
 
@@ -28,6 +28,6 @@ a) a KSzSzR-rel összefüggő belső szabályzatok felülvizsgálata;
 
 b) a vezetői információs igények kiszolgálása érdekében lekérdezések, kimutatások készítése.
 
-[^23]: A 19. § (2) bekezdés a) pontja a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^24]: A 19. § (2) bekezdés b) pontja a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés b) pontja szerint módosított szöveg.
-[^25]: A 19. § (2) bekezdés c) pontja a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^24]: A 19. § (2) bekezdés a) pontja a 227/2016. (VII. 29.) Korm. rendelet 2. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^25]: A 19. § (2) bekezdés b) pontja a 227/2016. (VII. 29.) Korm. rendelet 2. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^26]: A 19. § (2) bekezdés c) pontja a 227/2016. (VII. 29.) Korm. rendelet 2. § (4) bekezdés a) pontja szerint módosított szöveg.

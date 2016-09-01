@@ -1,4 +1,4 @@
-## 1/A. §[^2] A Kormány a közszolgálati tisztviselőkről szóló törvény szerinti kormányzati személyügyi igazgatási feladatokat ellátó szervként a Hivatalt jelöli ki.
+## 1/A. §[^2] A Kormány a közszolgálati tisztviselőkről szóló törvény szerinti személyügyi központként a közszolgálati életpálya kidolgozásáért felelős minisztert (a továbbiakban: miniszter) jelöli ki.
 
 ## Értelmező rendelkezések
 
@@ -14,7 +14,7 @@
 
 5. Interfész: két funkcionális egység összekapcsolhatóságát és együttműködését biztosító előírások összessége, a KSzSzR azon eleme, amely biztosítja a külső informatikai rendszerekkel történő kommunikációt (elektronikus adatátadás–átvétel);
 
-6.[^3] Munkáltató: a minisztériumok és a Hivatal;
+6.[^3] Munkáltató: a minisztériumok;
 
 7. Állománytábla: a munkáltató szervezeti felépítéséhez igazodó, az egyes szervezeti egységekhez rendelt álláshelyek és az álláshelyekhez szükséges ismérvek összessége;
 
@@ -36,6 +36,6 @@
 
 16. Értékkészlet: a KSzSzR-ben rögzítendő egyes adatokra jellemző, választható elemek halmaza.
 
-[^2]: Az 1/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 523. §-a iktatta be.
-[^3]: A 2. § 6. pontja a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 527. §-a szerint módosított szöveg.
+[^2]: Az 1/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 523. §-a iktatta be, szövege a 227/2016. (VII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 6. pontja a 178/2012. (VII. 26.) Korm. rendelet 6. § (1) bekezdés b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 527. §-a, a 227/2016. (VII. 29.) Korm. rendelet 2. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^4]: A 2. § 14. pontja a 221/2014. (IX. 4.) Korm. rendelet 526. § a) pontja szerint módosított szöveg.

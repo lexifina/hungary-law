@@ -1,6 +1,5 @@
-13. § (1)[^9] A KSzSzR – 17. §-ban meghatározott feladatok ellátásával megvalósított – szakmai üzemeltetését a Hivatal végzi.
+13. §[^9] (1) A KSzSzR működtetéséről a miniszter gondoskodik.
 
-(2)[^10] A KSzSzR működtetéséhez szükséges informatikai, műszaki üzemeltetési feltételeket – a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. (a továbbiakban: NISZ) bevonásával – a Hivatal biztosítja. A NISZ tevékenységének szakmai felügyeletét e feladatok ellátása vonatkozásában a Hivatal látja el.
+(2) A KSzSzR működtetéséhez szükséges informatikai, műszaki üzemeltetési feltételeket – a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság bevonásával – a miniszter biztosítja.
 
-[^9]: A 13. § (1) bekezdése a 273/2012. (IX. 28.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^10]: A 13. § (2) bekezdése a 323/2014. (XII. 15.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^9]: A 13. § a 227/2016. (VII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
