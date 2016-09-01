@@ -66,6 +66,6 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 17. | helyi védelem (helyi jelentőségű védett természeti terület esetében) | Onga Város Önkormányzatának jegyzője | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
-| 18. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+| 18. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^9]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 62. § (1) bekezdés b) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^9]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 62. § (1) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 33. §-a szerint módosítot szöveg.
