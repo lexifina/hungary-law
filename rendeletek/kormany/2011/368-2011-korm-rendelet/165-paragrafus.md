@@ -6,9 +6,9 @@
 
 165. § (1) Az államháztartás információs rendszerében
 
-a)[^521] a központi költségvetésről szóló törvényben megállapított bevételi és kiadási előirányzatokról, azok Országgyűlés, Kormány hatáskörében végzett módosításairól, átcsoportosításairól, továbbá azoknak az egységes rovatrend szerinti előirányzatairól, az előirányzatok módosításairól, átcsoportosításairól a Kincstár, és
+a)[^522] a központi költségvetésről szóló törvényben megállapított bevételi és kiadási előirányzatokról, azok Országgyűlés, Kormány hatáskörében végzett módosításairól, átcsoportosításairól, továbbá azoknak az egységes rovatrend szerinti előirányzatairól, az előirányzatok módosításairól, átcsoportosításairól a Kincstár, és
 
-b)[^522] a helyi önkormányzatok, helyi nemzetiségi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások előirányzatainak módosításairól, átcsoportosításairól a helyi önkormányzatokért felelős miniszter, a nemzetiségi önkormányzatok költségvetési támogatását biztosító előirányzatok módosításairól, átcsoportosításairól a nemzetiségpolitikáért felelős állami szerv
+b)[^523] a helyi önkormányzatok, helyi nemzetiségi önkormányzatok általános működéséhez és ágazati feladataihoz kapcsolódó támogatások előirányzatainak módosításairól, átcsoportosításairól a helyi önkormányzatokért felelős miniszter, a nemzetiségi önkormányzatok költségvetési támogatását biztosító előirányzatok módosításairól, átcsoportosításairól a nemzetiségpolitikáért felelős állami szerv
 
 nyilvántartást vezet.
 
@@ -20,5 +20,5 @@ b) az előirányzatnak, és azok módosításának, átcsoportosításának egys
 
 c) az előirányzatok módosításának, átcsoportosításának hatásköreire.
 
-[^521]: Az Ávr. 165. § (1) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 56. pontja szerint módosított szöveg.
-[^522]: Az Ávr. 165. § (1) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 40. pontja szerint módosított szöveg.
+[^522]: Az Ávr. 165. § (1) bekezdés a) pontja a 497/2013. (XII. 29.) Korm. rendelet 62. § (1) bekezdés 56. pontja szerint módosított szöveg.
+[^523]: Az Ávr. 165. § (1) bekezdés b) pontja a 413/2012. (XII. 29.) Korm. rendelet 39. § 40. pontja szerint módosított szöveg.

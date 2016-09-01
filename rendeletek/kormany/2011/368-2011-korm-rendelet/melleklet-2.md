@@ -48,7 +48,7 @@
 
 ## 14. a központi költségvetés XV. fejezeténél a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
-## 15.[^611] a központi költségvetés XVI. fejezeténél a Nemzeti Adó- és Vámhivatal és az állami adó- és vámhatóság vezetője,
+## 15.[^612] a központi költségvetés XVI. fejezeténél a Nemzeti Adó- és Vámhivatal és az állami adó- és vámhatóság vezetője,
 
 ## 16. a központi költségvetés XVII. fejezeténél – az a) és b) alpontban meghatározott kivétellel – a Nemzeti Fejlesztési Minisztérium és a Kormánynak a Ktfr. 109. §-a szerinti tagja,
 
@@ -66,7 +66,7 @@
 
 ## b) a 26. és 27. cím tekintetében az Országos Egészségbiztosítási Pénztár és annak vezetője,
 
-## 19a.[^612] a központi költségvetés XXI. fejezeténél a Miniszterelnöki Kabinetiroda és a Kormánynak a Ktfr. 19/B. §-a szerinti tagja,
+## 19a.[^613] a központi költségvetés XXI. fejezeténél a Miniszterelnöki Kabinetiroda és a Kormánynak a Ktfr. 19/B. §-a szerinti tagja,
 
 ## 20. a központi költségvetés XXX. fejezeténél a Gazdasági Versenyhivatal és annak elnöke,
 
@@ -90,9 +90,9 @@
 
 ## 30. a központi költségvetés LXIII. fejezeténél a Nemzetgazdasági Minisztérium és a Kormánynak a Ktfr. 90. §-a szerinti tagja,
 
-## 30a.[^613] a központi költségvetés LXIV. fejezeténél a Kormánynak a Ktfr. 4. §-a szerinti tagja,
+## 30a.[^614] a központi költségvetés LXIV. fejezeténél a Kormánynak a Ktfr. 4. §-a szerinti tagja,
 
-## 31.[^614] a központi költségvetés LXV. fejezeténél a Bethlen Gábor Alapért felelős testület,
+## 31.[^615] a központi költségvetés LXV. fejezeténél a Bethlen Gábor Alapért felelős testület,
 
 ## 32. a központi költségvetés LXVI. fejezeténél a Nemzeti Fejlesztési Minisztérium és a Kormánynak a Ktfr. 109. §-a szerinti tagja,
 
@@ -122,7 +122,7 @@
 
 ## b) az országos nemzetiségi önkormányzat esetében az országos nemzetiségi önkormányzat képviselő-testülete és a képviselő-testület elnöke.
 
-2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^615]
+2. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^616]
 
 Fejezetek megnevezése:
 
@@ -130,8 +130,8 @@ ADATLAP A KÖLTSÉGVETÉSI ELŐIRÁNYZATOK MÓDOSÍTÁSÁRA
 
 Költségvetési év: ........
 
-[^611]: Az Ávr. 1. melléklet I. pont 15. alpontja a 486/2015. (XII. 29.) Korm. rendelet 34. §-a szerint módosított szöveg.
-[^612]: Az Ávr. 1. melléklet I. alcím 19a. pontját a 306/2015. (X. 26.) Korm. rendelet 3. §-a iktatta be.
-[^613]: Az 1. melléklet I. pont 30a. alpontját a 175/2015. (VII. 7.) Korm. rendelet 27. §-a iktatta be.
-[^614]: Az Ávr. 1. melléklet 31. pontja a 20/2015. (II. 17.) Korm. rendelet 15. § l) pontja szerint módosított szöveg.
-[^615]: Az Ávr. 2. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 2. pontjával megállapított, a 465/2015. (XII. 29.) Korm. rendelet 23. § 1. pontja szerint módosított szöveg.
+[^612]: Az Ávr. 1. melléklet I. pont 15. alpontja a 486/2015. (XII. 29.) Korm. rendelet 34. §-a szerint módosított szöveg.
+[^613]: Az Ávr. 1. melléklet I. alcím 19a. pontját a 306/2015. (X. 26.) Korm. rendelet 3. §-a iktatta be.
+[^614]: Az 1. melléklet I. pont 30a. alpontját a 175/2015. (VII. 7.) Korm. rendelet 27. §-a iktatta be.
+[^615]: Az Ávr. 1. melléklet 31. pontja a 20/2015. (II. 17.) Korm. rendelet 15. § l) pontja szerint módosított szöveg.
+[^616]: Az Ávr. 2. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 2. pontjával megállapított, a 465/2015. (XII. 29.) Korm. rendelet 23. § 1. pontja szerint módosított szöveg.
