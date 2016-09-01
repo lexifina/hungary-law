@@ -10,6 +10,4 @@ b) 9. § e) pontja és 9/A. § (3) bekezdése szerinti hatékonysági, pénzügy
 
 ## hatásköröket.
 
-(4)[^7]
-
-[^7]: A 19. § (4) bekezdése a 14. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+(4) A KLIK fenntartásában lévő köznevelési intézmény a KLIK belső szabályzatában meghatározott összeg erejéig és kiadási jogcímen átruházott hatáskörben a KLIK költségvetése terhére kötelezettséget vállalhat és kiadás teljesítését kezdeményezheti.
