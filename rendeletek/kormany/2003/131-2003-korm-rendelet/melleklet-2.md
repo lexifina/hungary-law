@@ -264,9 +264,9 @@
 
 ## – Az államháztartásért felelős miniszter a gazdasági prognózisok és a GDP előírt százalékában meghatározza a tervezési évben figyelembe veendő védelmi kiadások összesített nagyságrendjét s ezen belül az egyéb védelmi kiadásokat is.
 
-## – A tervező szervek költségvetési javaslatait megküldik a HM Védelmi Hivatalnak, amely az összesített adatokat az államháztartásért felelős miniszternek továbbítja.
+## – A tervező szervek költségvetési javaslatait megküldik a honvédelemért felelős miniszternek, amely az összesített adatokat az államháztartásért felelős miniszternek továbbítja.
 
-## Amennyiben a HM Védelmi Hivatal által megadott összesített igény és az államháztartásért felelős miniszter által kimunkált főszámok nem felelnek meg egymásnak, további egyeztetés következik. A költségvetési törvényjavaslatban már konszenzusos számadatok jelennek meg, amelyekről az Országgyűlés dönt. Az elfogadott előirányzathoz kell ezután igazítani a költségvetési igényeket.
+## Amennyiben a honvédelemért felelős miniszter által megadott összesített igény és az államháztartásért felelős miniszter által kimunkált főszámok nem felelnek meg egymásnak, további egyeztetés következik. A költségvetési törvényjavaslatban már konszenzusos számadatok jelennek meg, amelyekről az Országgyűlés dönt. Az elfogadott előirányzathoz kell ezután igazítani a költségvetési igényeket.
 
 ## Az Országgyűlés által elfogadott előirányzatból kiindulva a honvédelemért felelős miniszter előterjesztésében a Kormány minden évben jóváhagyja az előző évi felhasználásról szóló beszámolót, és egyidejűleg tételes bontásban, tárcánként meghatározza a tárgyévi előirányzatokat. E jóváhagyást követően kezdődhet meg az államháztartásért felelős miniszter részéről a konkrét finanszírozás.
 
@@ -1421,7 +1421,7 @@
 [^73]: Az 1. számú melléklet III. fejezet 1. pontjának 1.1. alpontja a 273/2010. (XII. 9.) Korm. rendelet 99. § (7) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés a) pontja szerint módosított szöveg.
 [^74]: Az 1. számú melléklet III. fejezete 2. pontjának 2.1. alpontja a 331/2007. (XII. 13.) Korm. rendelet 3. § 17. pontja, a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés b) pontja szerint módosított szöveg.
 [^75]: A befogadó nemzeti támogatás egyes kérdéseiről szóló 176/2003. (X. 28.) Korm. rendelet.
-[^76]: Az 1. számú melléklet III. fejezete 3. pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^76]: Az 1. számú melléklet III. fejezete 3. pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés c) pontja, a 259/2016. (VIII. 31.) Korm. rendelet 94. §-a szerint módosított szöveg.
 [^77]: Az 1. számú melléklet III. fejezete 4. pontja a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés d) és e) pontja szerint módosított szöveg.
 [^78]: A polgári védelemről szóló 1996. évi XXXVII. törvény, a polgári védelmi tervezés rendszeréről és követelményeiről szóló 20/1998. (IV. 10.) BM rendelet, az egészségügyi intézmények katasztrófa tervének tartalmi követelményeiről szóló 29/2000. (X. 30.) EüM rendelet.
 [^79]: Az 1. számú melléklet IV. alcíme a 221/2014. (IX. 4.) Korm. rendelet 251. § (3) bekezdés f), g) és h) pontja szerint módosított szöveg.
