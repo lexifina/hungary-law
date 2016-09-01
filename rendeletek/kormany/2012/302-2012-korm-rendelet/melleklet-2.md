@@ -68,7 +68,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 12. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 13. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+| 13. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 | 14. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
@@ -88,4 +88,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 22. | Területrendezési előírásokkal való összhang | Hajdú-Bihar Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
-[^5]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 33. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^5]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 33. § b) pontjával megállapított, a 259/2016. (VIII. 31.) korm. rendelet 42. §-a szerint módosított szöveg.
