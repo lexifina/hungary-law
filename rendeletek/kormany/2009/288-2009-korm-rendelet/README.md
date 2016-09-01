@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-288-20-
 | 2015-04-01 | 2009-288-20-22.27 | 305/2014. (XII. 5.) Korm. rendelet |
 | 2016-01-01 | 2009-288-20-22.28 | 375/2015. (XII. 3.) Korm. rendelet |
 | 2016-04-02 | 2009-288-20-22.29 | 375/2015. (XII. 3.) Korm. rendelet |
+| 2016-09-01 | 2009-288-20-22.30 | 375/2015. (XII. 3.) Korm. rendelet |
