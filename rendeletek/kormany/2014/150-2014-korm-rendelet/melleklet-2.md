@@ -64,6 +64,6 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 16. | régészet | Miskolci Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 17. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+| 17. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 83. § (2) bekezdés b) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 83. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 14. §-a szerint módosított szöveg.
