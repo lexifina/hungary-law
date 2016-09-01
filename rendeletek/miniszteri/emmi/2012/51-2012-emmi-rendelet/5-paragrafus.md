@@ -14,10 +14,10 @@ a) teljes pedagógiai szakaszra,
 
 b) az Nkt. 7. § (1) bekezdés b)–e), valamint g) pontjában meghatározott iskolatípusra,
 
-## abban az esetben, ha az tartalmazza a teljes körű tantárgyi rendszert, az érintett pedagógiai szakaszok mindegyik évfolyamára és az összes tantárgyára kiterjedő teljes tananyagtartalmat.
+abban az esetben, ha az tartalmazza a teljes körű tantárgyi rendszert, az érintett pedagógiai szakaszok mindegyik évfolyamára és az összes tantárgyára kiterjedő teljes tananyagtartalmat.
 
 (4) A miniszter az oktatásirányítási feladatok megvalósítása érdekében, továbbá egyes sajátos köznevelési feladatok megvalósításához a (3) bekezdésben foglaltaktól eltérő kerettantervet is készíthet.
 
-(5)[^23] Az alternatív nevelés-oktatást folytató iskola kerettanterve az Nkt. 9. § (8)–(10) bekezdéseire figyelemmel eltérhet a 3–5. §-okban meghatározottaktól. Ezen iskolának nem kell alkalmaznia továbbá a Rendelet 4. § (2) bekezdés a)–b) pontjait.
+(5)[^29] Az alternatív nevelés-oktatást folytató iskola kerettanterve az Nkt. 9. § (8)–(10) bekezdéseire figyelemmel eltérhet a 3–5. §-okban meghatározottaktól. Ezen iskolának nem kell alkalmaznia továbbá a Rendelet 4. § (2) bekezdés a)–b) pontjait.
 
-[^23]: Az 5. § (5) bekezdése a 23/2013. (III. 29.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^29]: Az 5. § (5) bekezdése a 23/2013. (III. 29.) EMMI rendelet 3. §-ával megállapított szöveg.

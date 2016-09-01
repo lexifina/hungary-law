@@ -12,7 +12,7 @@ c) két tanítási nyelvű nevelés-oktatást,
 
 d) alternatív iskolai nevelés-oktatást
 
-## érint.
+érint.
 
 (4) A felkért harmadik szakértőnek a szakértői rendeletben meghatározott feltételek mellett az adott szakterületen szerzett legalább hároméves pedagógiai gyakorlattal is rendelkeznie kell. Amennyiben nincs az Országos szakértői névjegyzéken a feltételeknek megfelelő szerinti szakértő, akkor az OFI bármilyen más szakterület szakértőjét is felkérheti, feltéve, hogy a szakértő pedagógiai gyakorlata szorosan kapcsolódik az érintett szakterülethez.
 
