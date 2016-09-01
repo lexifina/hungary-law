@@ -78,8 +78,8 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 19. | földtan, bányászat | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 20. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 20. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 | 21. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-[^8]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 49. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^8]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 49. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 25. §-a szerint módosított szöveg.
