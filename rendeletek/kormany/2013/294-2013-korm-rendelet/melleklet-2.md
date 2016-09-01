@@ -78,10 +78,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 17. | földtan és bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 18. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+| 18. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 | 19. | a településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelőség | Budapest Főváros XII. kerület Hegyvidéki Önkormányzat jegyzője | Budapest Főváros Kormányhivatala |
 
 | 20. | helyi környezet- és természetvédelem | Budapest Főváros II. Kerületi Önkormányzat jegyzője | Budapest Főváros Kormányhivatala |
 
-[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 56. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 56. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 29. §-a szerint módosított szöveg.
