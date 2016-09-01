@@ -496,7 +496,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Debreceni Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 2. BARANYA MEGYE
 
@@ -528,7 +528,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Szekszárdi Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 3. BÁCS-KISKUN MEGYE
 
@@ -560,7 +560,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Szegedi Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 4. BORSOD-ABAÚJ-ZEMPLÉN MEGYE
 
@@ -592,7 +592,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Egri Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 5. CSONGRÁD MEGYE
 
@@ -624,7 +624,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Békéscsabai Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 6. FEJÉR MEGYE
 
@@ -656,7 +656,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Tatabányai Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 7. GYŐR-MOSON-SOPRON MEGYE
 
@@ -688,7 +688,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Szombathelyi Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 8. HAJDÚ-BIHAR MEGYE
 
@@ -720,7 +720,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Nyíregyházi Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 9. HEVES MEGYE
 
@@ -752,7 +752,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Salgótarjáni Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 10. JÁSZ-NAGYKUN-SZOLNOK MEGYE
 
@@ -784,7 +784,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Kecskeméti Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 11. KOMÁROM-ESZTERGOM MEGYE
 
@@ -816,7 +816,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Veszprémi Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 12. NÓGRÁD MEGYE
 
@@ -848,7 +848,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Szolnoki Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 13. PEST MEGYE (az 1. melléklet 13. pontja szerinti kiemelt jelentőségű ügyekben)
 
@@ -880,7 +880,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala I. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 14. PEST MEGYE (az 1. melléklet 14. pontja szerinti kiemelt jelentőségű ügyekben)
 
@@ -912,7 +912,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala V. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 15. SOMOGY MEGYE
 
@@ -944,7 +944,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Pécsi Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 16. SZABOLCS-SZATMÁR-BEREG MEGYE
 
@@ -976,7 +976,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Miskolci Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 17. TOLNA MEGYE
 
@@ -1008,7 +1008,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Székesfehérvári Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 18. VAS MEGYE
 
@@ -1040,7 +1040,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Zalaegerszegi Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 19. VESZPRÉM MEGYE
 
@@ -1072,7 +1072,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Győri Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 20. ZALA MEGYE
 
@@ -1104,7 +1104,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Kaposvári Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 21. BUDAPEST
 
@@ -1136,6 +1136,6 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | régészet és műemlékvédelem | Érdi Járási Hivatal | a kulturális örökség védelméért felelős miniszter |
 
-| 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^9]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 44. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^9]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 44. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 24. §-a szerint módosított szöveg.
