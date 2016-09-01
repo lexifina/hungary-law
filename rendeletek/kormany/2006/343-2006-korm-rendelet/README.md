@@ -31,3 +31,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-343-20-
 | 2016-01-01 | 2006-343-20-22.35 | 207/2015. (VII. 23.) Korm. rendelet |
 | 2016-06-14 | 2006-343-20-22.36 | 156/2016. (VI. 13.) Korm. rendelet |
 | 2016-07-23 | 2006-343-20-22.37 | 217/2016. (VII. 22.) Korm. rendelet |
+| 2016-09-01 | 2006-343-20-22.38 | 259/2016. (VIII. 31.) Korm. rendelet |

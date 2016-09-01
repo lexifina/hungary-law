@@ -2,13 +2,7 @@
 
 ## A sajátos építményfajták körébe tartozó nemzetbiztonsági célú, illetve rendeltetésű építmények engedélyezését ellátó építésügyi hatóság és építésfelügyeletét ellátó hatóság kijelölése[^23]
 
-3/B. §[^24] (1)[^25] A Kormány a nemzetbiztonsági célú, illetve rendeltetésű építmények vonatkozásában az építésügyi és építésfelügyeleti hatósági jogkör gyakorlójaként, országos illetékességgel
-
-a) első fokon a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét,
-
-b) másodfokon a honvédelemért felelős minisztert
-
-jelöli ki.
+3/B. §[^24] (1)[^25] A Kormány a nemzetbiztonsági célú, illetve rendeltetésű építmények vonatkozásában az építésügyi és építésfelügyeleti hatósági jogkör gyakorlójaként, országos illetékességgel első fokon a honvédelemért felelős minisztert jelöli ki.
 
 (1a)[^26] Az (1) bekezdés szerinti nemzetbiztonsági célú építmény, építményrész, épületegyüttes
 
@@ -37,7 +31,7 @@ c) a mosást, főzést, élelmiszertárolást, mosogatást, az étkezést, valam
 [^22]: A 3/A. §-t újonnan a 322/2012. (XI. 16.) Korm. rendelet 36. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 91. § (5) bekezdésével megállapított szöveg.
 [^23]: A 3/B. §-t megelőző alcímet a 196/2009. (IX. 15.) Korm. rendelet 14. §-a iktatta be.
 [^24]: A 3/B. §-t a 196/2009. (IX. 15.) Korm. rendelet 14. §-a iktatta be. E módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2011. január 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
-[^25]: A 3/B. § (1) bekezdése a 158/2011. (VIII. 11.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^25]: A 3/B. § (1) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 98. §-ával megállapított szöveg.
 [^26]: A 3/B. § (1a) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 3. § (1) bekezdése iktatta be.
 [^27]: A 3/B. § (2) bekezdése a 260/2015. (IX. 14.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^28]: A 3/B. § (3) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 3. § (2) bekezdése iktatta be.
