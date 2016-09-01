@@ -20,13 +20,13 @@ af)[^6] a miniszter által vezetett minisztériumban a miniszter,
 
 ag) a hajózási hatóságoknál a Nemzeti Közlekedési Hatóság elnöke,
 
-ah) a közlekedésbiztonsági szervnél a Közlekedésbiztonsági Szervezet főigazgatója,
+ah)[^7] a közlekedésbiztonsági szervnél a közlekedésbiztonsági szerv vezetője,
 
 ai) a honvédelmi érdekből, vagyon-, illetve katasztrófavédelmi feladatok, terrorcselekmények felszámolásának végrehajtását, illetve közszolgálati tevékenységet ellátó (robbanótestek keresése, kiemelése, hatástalanítása) katonai szervezeteknél a honvédelemért felelős miniszter,
 
 b) a RIS hatálya alá tartozó legalább IV. osztályú vízi utak hajózási térképként felhasználható, ECDIS-szabványnak megfelelő elektronikus alaptérképének átadásáról és folyamatos frissítéséről, valamint a vízállási és gázlóadatok átadásáról és folyamatos frissítéséről a vízügyért felelős miniszter,
 
-c)[^7] a RIS hatálya alá tartozó legalább IV. osztályú vízi utak partélétől, továbbá az e vízi utak mentén elhelyezkedő kikötők, illetve egyéb hajózási létesítmények, terminálok területétől legfeljebb 200 m távolságban elhelyezkedő ingatlanokra vonatkozó, a térképészetért felelős miniszter felügyelete alá tartozó szerveknél nyilvántartott térképészeti adatok átadásáról, valamint az állategészségügyi hatóságoknál és a növényvédelmi hatósági feladatokat ellátó szerveknél keletkező, a 2. § a)–e) pontjában meghatározott adatok rögzítéséről és frissítéséről az agrárpolitikáért felelős miniszter
+c)[^8] a RIS hatálya alá tartozó legalább IV. osztályú vízi utak partélétől, továbbá az e vízi utak mentén elhelyezkedő kikötők, illetve egyéb hajózási létesítmények, terminálok területétől legfeljebb 200 m távolságban elhelyezkedő ingatlanokra vonatkozó, a térképészetért felelős miniszter felügyelete alá tartozó szerveknél nyilvántartott térképészeti adatok átadásáról, valamint az állategészségügyi hatóságoknál és a növényvédelmi hatósági feladatokat ellátó szerveknél keletkező, a 2. § a)–e) pontjában meghatározott adatok rögzítéséről és frissítéséről az agrárpolitikáért felelős miniszter
 
 ## gondoskodik.
 
@@ -43,4 +43,5 @@ c)[^7] a RIS hatálya alá tartozó legalább IV. osztályú vízi utak partél�
 [^4]: A 6. § (1) bekezdése a) pontjának ab) alpontja a 331/2007. (XII. 13.) Korm. rendelet 1. § 70. pontjával megállapított szöveg.
 [^5]: A 6. § (1) bekezdés a) pont ac) alpontja a 486/2015. (XII. 29.) Korm. rendelet 20. §-a szerint módosított szöveg.
 [^6]: A 6. § (1) bekezdés a) pont af) alpontja a 221/2014. (IX. 4.) Korm. rendelet 394. § a) pontja szerint módosított szöveg.
-[^7]: A 6. § (1) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 394. § b) pontja szerint módosított szöveg.
+[^7]: A 6. § (1) bekezdés a) pont ah) alpontja a 230/2016. (VII. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^8]: A 6. § (1) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 394. § b) pontja szerint módosított szöveg.
