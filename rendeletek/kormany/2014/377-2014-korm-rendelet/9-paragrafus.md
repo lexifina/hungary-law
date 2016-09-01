@@ -1,4 +1,4 @@
-9. § (1) A pályázó, a kormányhivatal és a Hivatal az ösztöndíj odaítéléséről szóló értesítésben megjelölt határidőn belül ösztöndíjas jogviszonyt létrehozó szerződést kötnek.
+9. § (1)[^3] A pályázó, a kormányhivatal és a minisztérium az ösztöndíj odaítéléséről szóló értesítésben megjelölt határidőn belül ösztöndíjas jogviszonyt létrehozó szerződést kötnek.
 
 (2) Ha a pályázó az ösztöndíj odaítéléséről szóló értesítésben megjelölt határidőn belül nem köti meg az ösztöndíjas jogviszonyt létrehozó szerződést, a listán következő eredményt elért pályázó lép a helyébe.
 
@@ -20,6 +20,9 @@ f) az adatkezelésre vonatkozó felhatalmazást,
 
 g) azt, hogy az ösztöndíjas vállalja, hogy a kormányhivatal által tett kormánytisztviselői állásajánlat elfogadását követően a kormánytisztviselői kinevezésétől számított egy éven keresztül a munkáltató közigazgatási szervvel kormányzati szolgálati jogviszonyát fenntartja,
 
-h) arra vonatkozó rendelkezést, hogy az ösztöndíjas köteles a részére kifizetett ösztöndíj teljes összegét a Hivatal részére kilencven napon belül visszafizetni, ha az ösztöndíjas a kormányhivatal által részére tett állásajánlatot nem fogadja el,
+h)[^4] arra vonatkozó rendelkezést, hogy az ösztöndíjas köteles a részére kifizetett ösztöndíj teljes összegét a minisztérium részére kilencven napon belül visszafizetni, ha az ösztöndíjas a kormányhivatal által részére tett állásajánlatot nem fogadja el,
 
 i) a g) pontban foglaltak megsértése vagy elmulasztása esetén a jogkövetkezményeket.
+
+[^3]: A 9. § (1) bekezdése a 251/2016. (VIII. 24.) Korm. rendelet 12. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^4]: A 9. § (4) bekezdés h) pontja a 251/2016. (VIII. 24.) Korm. rendelet 12. § (2) bekezdés d) pontja szerint módosított szöveg.

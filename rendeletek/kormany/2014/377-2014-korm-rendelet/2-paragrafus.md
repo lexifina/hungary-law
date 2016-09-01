@@ -10,4 +10,6 @@ b) a fővárosi és megyei kormányhivatalok (a továbbiakban: kormányhivatal) 
 
 c) a miniszter által vezetett minisztérium (a továbbiakban: minisztérium) által delegált egy fő.
 
-(3) Az Ösztöndíjprogram pénzügyi-ügyviteli feladatait a Közigazgatási és Igazságügyi Hivatal (a továbbiakban: Hivatal) látja el. Az Ösztöndíjprogram működtetésének pénzügyi fedezetét a Hivatal költségvetésében kell tervezni.
+(3)[^1] Az Ösztöndíjprogram pénzügyi-ügyviteli feladatait a minisztérium látja el. Az Ösztöndíjprogram működtetésének pénzügyi fedezetét a minisztérium költségvetésében kell tervezni.
+
+[^1]: A 2. § (3) bekezdése a 251/2016. (VIII. 24.) Korm. rendelet 12. § (2) bekezdés a) és b) pontja szerint módosított szöveg.

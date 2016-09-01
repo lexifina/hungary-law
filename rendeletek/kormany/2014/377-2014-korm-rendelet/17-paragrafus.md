@@ -1,8 +1,8 @@
-17. § (1) Az ösztöndíjas köteles a részére kifizetett ösztöndíj teljes összegét a Hivatal részére kilencven napon belül visszafizetni, ha
+17. § (1)[^9] Az ösztöndíjas köteles a részére kifizetett ösztöndíj teljes összegét a minisztérium részére kilencven napon belül visszafizetni, ha
 
 a) a kormányhivatal az ösztöndíjas jogviszonyt létrehozó szerződést a 11. § a) pontjában meghatározott okból azonnali hatállyal felmondja,
 
-b) az ösztöndíjas az ösztöndíjas jogviszonyt létrehozó szerződést azonnali hatállyal felmondja, és a felmondás oka nem a kormányhivatal vagy a Hivatal szerződésszegése,
+b)[^10] az ösztöndíjas az ösztöndíjas jogviszonyt létrehozó szerződést azonnali hatállyal felmondja, és a felmondás oka nem a kormányhivatal vagy a minisztérium szerződésszegése,
 
 c) az ösztöndíjas a kormányhivatal által részére tett állásajánlatot nem fogadja el,
 
@@ -20,6 +20,10 @@ b) az (1) bekezdés c) és d) pontja szerinti esetekben az ösztöndíjas kérel
 
 pontja szerinti okból történő felmondása esetén az ösztöndíjast visszafizetési kötelezettség nem terheli.
 
-(4) Ha az ösztöndíjas a kormányhivatal vagy a Hivatal szerződésszegésére hivatkozva az ösztöndíjas jogviszonyt létrehozó szerződést azonnali hatállyal felmondja, az ösztöndíjas indokolását a PIB megvizsgálja. Ha a szerződés felmondásának oka a kormányhivatal vagy a Hivatal szerződésszegése, az ösztöndíjast a részére kifizetett ösztöndíj visszafizetésére vonatkozó kötelezettség nem terheli.
+(4)[^11] Ha az ösztöndíjas a kormányhivatal vagy a minisztérium szerződésszegésére hivatkozva az ösztöndíjas jogviszonyt létrehozó szerződést azonnali hatállyal felmondja, az ösztöndíjas indokolását a PIB megvizsgálja. Ha a szerződés felmondásának oka a kormányhivatal vagy a minisztérium szerződésszegése, az ösztöndíjast a részére kifizetett ösztöndíj visszafizetésére vonatkozó kötelezettség nem terheli.
 
 (5) Ha az ösztöndíjas nem ért egyet a PIB (4) bekezdésen alapuló eljárása során hozott döntésével, a döntés kézhezvételétől számított öt munkanapon belül a miniszterhez fordulhat, kérve a PIB által meghozott döntés felülvizsgálatát.
+
+[^9]: A 17. § (1) bekezdés nyitó szövegrésze a 251/2016. (VIII. 24.) Korm. rendelet 12. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^10]: A 17. § (1) bekezdés b) pontja a 251/2016. (VIII. 24.) Korm. rendelet 12. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^11]: A 17. § (4) bekezdése a 251/2016. (VIII. 24.) Korm. rendelet 12. § (2) bekezdés g) pontja szerint módosított szöveg.
