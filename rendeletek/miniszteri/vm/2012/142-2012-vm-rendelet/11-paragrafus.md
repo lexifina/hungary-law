@@ -1,10 +1,10 @@
 ## 8. Az egyéni terv elfogadása
 
-11. § (1)[^12]
+11. § (1)[^13]
 
 (2) Az MVH a 2013/2014 borpiaci évtől kezdődően benyújtott egyéni terveket a beérkezés sorrendjében az adott borpiaci év február 28-ig bírálja el.
 
-(3)[^13] Az MVH az egyéni terveket 119 715 000 euró összeg erejéig hagyja jóvá.
+(3)[^14] Az MVH az egyéni terveket 124 077 000 euró összeg erejéig hagyja jóvá.
 
 (4) Az MVH a (3) bekezdése szerinti keretösszegen felül benyújtott egyéni tervet elutasítja.
 
@@ -26,5 +26,5 @@ a) azon egyéni tervek tekintetében, amelyek hiánytalanul érkeztek be, az egy
 
 b) azon egyéni tervek tekintetében, amelyek hiányosan érkeztek be, az utolsó hiánypótlás beérkezésének időpontja.
 
-[^12]: A 11. § (1) bekezdését a 72/2015. (XI. 3.) FM rendelet 13. § c) pontja hatályon kívül helyezte.
-[^13]: A 11. § (3) bekezdése a 72/2015. (XI. 3.) FM rendelet 6. §-ával megállapított szöveg.
+[^13]: A 11. § (1) bekezdését a 72/2015. (XI. 3.) FM rendelet 13. § c) pontja hatályon kívül helyezte.
+[^14]: A 11. § (3) bekezdése az 57/2016. (VIII. 24.) FM rendelet 4. §-ával megállapított szöveg.

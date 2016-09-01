@@ -16,7 +16,10 @@
 
 (8) A 2013/2014 borpiaci évtől benyújtott egyéni tervben kizárólag olyan területre igényelhető támogatás, amelynek termőhelyi kataszteri pontértéke a 200 pontértéket meghaladja.
 
-(9)[^4] A 2015/2016. borpiaci év során benyújtott egyéni tervben csak olyan tevékenységre igényelhető támogatás, amely esetében az ültetést legkésőbb a 2016/2017. borpiaci évben, a támrendszer létesítését pedig legkésőbb a 2017/2018. borpiaci évben elvégzik.
+(9)[^4] A 2015/2016 borpiaci év során és azt követően benyújtott és jóváhagyott egyéni tervben csak olyan tevékenységre igényelhető támogatás, amely esetében az ültetést és a támrendszer létesítését legkésőbb 2018. július 15-ig elvégzik.
+
+(10)[^5] A 2016/2017 borpiaci év során egyéni terv legfeljebb 10 hektár területre nyújtható be.
 
 [^3]: A 7. § (7) bekezdését a 72/2015. (XI. 3.) FM rendelet 13. § a) pontja hatályon kívül helyezte.
-[^4]: A 7. § (9) bekezdését a 72/2015. (XI. 3.) FM rendelet 2. §-a iktatta be.
+[^4]: A 7. § (9) bekezdését a 72/2015. (XI. 3.) FM rendelet 2. §-a iktatta be, szövege az 57/2016. (VIII. 24.) FM rendelet 1. §-ával megállapított szöveg.
+[^5]: A 7. § (10) bekezdését az 57/2016. (VIII. 24.) FM rendelet 1. §-a iktatta be.

@@ -22,6 +22,9 @@ i) a helyszíni ellenőrzés során megállapítást nyer, hogy a kérelmező ha
 
 j) az ültetvényt nem érvényes vagy hatályos engedély alapján telepítették;
 
-k)[^25] a tevékenységet a 7. § (9) bekezdésében jelölt időszakon túl valósították meg.
+k)[^28] a tevékenységet a 7. § (9) bekezdésében jelölt időszakon túl valósították meg;
 
-[^25]: A 17. § k) pontját a 72/2015. (XI. 3.) FM rendelet 10. §-a iktatta be.
+l)[^29] azt a jóváhagyott egyéni tervben megjelölt tevékenység végrehajtásának borpiaci évét követő borpiaci év után nyújtották be.
+
+[^28]: A 17. § k) pontját a 72/2015. (XI. 3.) FM rendelet 10. §-a iktatta be.
+[^29]: A 17. § l) pontját az 57/2016. (VIII. 24.) FM rendelet 7. §-a iktatta be.

@@ -34,6 +34,6 @@
 
 | (sz. ig. sz.) | (sz. ig. sz.) |
 
-5. melléklet a 142/2012. (XII. 27.) VM rendelethez[^37]
+5. melléklet a 142/2012. (XII. 27.) VM rendelethez[^44]
 
-[^37]: Az 5. melléklet a 12/2014. (II. 21.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^44]: Az 5. melléklet a 12/2014. (II. 21.) VM rendelet 7. § (3) bekezdésével megállapított szöveg.
