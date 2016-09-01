@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-51-20-2
 | --- | --- | --- |
 | 2016-03-18 | 2016-51-20-22.1 | 51/2016. (III. 17.) Korm. rendelet |
 | 2016-07-02 | 2016-51-20-22.2 | 179/2016. (VII. 1.) Korm. rendelet |
+| 2016-09-01 | 2016-51-20-22.3 | 269/2016. (VIII. 31.) Korm. rendelet |
