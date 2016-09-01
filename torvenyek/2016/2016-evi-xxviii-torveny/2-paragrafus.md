@@ -1,1 +1,1 @@
-2–3. §
+2. § Az Országgyűlés a Szerződést e törvénnyel kihirdeti.
