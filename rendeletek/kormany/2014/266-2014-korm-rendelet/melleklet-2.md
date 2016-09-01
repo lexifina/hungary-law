@@ -74,11 +74,11 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | rendészet | Győr-Moson-Sopron Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 14. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 14. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 15. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+| 15. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-| 16. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 16. |  |  |  |
 
 | 17. | talajvédelem | Győr-Moson-Sopron Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -90,4 +90,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 21. | műszaki biztonság | Győr-Moson-Sopron Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^5]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 97. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^5]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 97. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 18. §-a szerint módosított szöveg.
