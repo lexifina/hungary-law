@@ -1,0 +1,3 @@
+4. § Az Szt. 8. §-a a következő (6) bekezdéssel egészül ki:
+
+„(6) A tanulószerződés alapján folyó gyakorlati képzés esetén a teljes gyakorlati képzési idő 5%-át kitevő időtartamban a tanuló – kiskorú tanuló esetén a szülő (törvényes képviselő) – vagy a gyakorlati képzést folytató szervezet kezdeményezésére gyakorlati tananyagtartalmak szakképző iskolában történő elsajátítására kerül sor a szakképző iskola vezetője által a gazdasági kamara – a gyakorlati képzés feltételrendszerének megfelelőségére vonatkozó – véleményének kikérésével meghozott döntés alapján. Ennek megvalósítására a befejező szakképzési évfolyam második félévében egybefüggően kerül sor.”
