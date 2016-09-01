@@ -6,9 +6,9 @@ b) ha a szálláshely-szolgáltató az a) pontban meghatározott határidő elte
 
 c) ha a szálláshely nem felel meg a 4. §-ban meghatározott követelményeknek, határidő kitűzésével felhívja a szálláshely-szolgáltatót a jogsértő állapot megszüntetésére és a jogszerű állapot helyreállítására, és a jogsértő állapot megszüntetéséig, illetve a jogszerű állapot helyreállításáig, de legfeljebb kilencven napig elrendeli a szálláshely ideiglenes bezárását,
 
-d)[^29] azonnali hatállyal megtiltja a szálláshely-nyilvántartásban nem szereplő szálláshely üzemeltetését, és pénzbírságot szab ki,
+d)[^31] azonnali hatállyal megtiltja a szálláshely-nyilvántartásban nem szereplő szálláshely üzemeltetését, és pénzbírságot szab ki,
 
-e)[^30] ha az ideiglenes bezárást követően a szálláshely-szolgáltató a megjelölt határidőn belül a jogsértő állapotot nem szünteti meg, vagy a szálláshely-szolgáltató egy éven belül ismételten olyan jogsértő magatartást tanúsít, amely miatt vele szemben a b) pont szerinti pénzbírságot kell kiszabni, elrendeli a szálláshely bezárását,, egyidejűleg törli a szolgáltatót a nyilvántartásból.
+e)[^32] ha az ideiglenes bezárást követően a szálláshely-szolgáltató a megjelölt határidőn belül a jogsértő állapotot nem szünteti meg, vagy a szálláshely-szolgáltató egy éven belül ismételten olyan jogsértő magatartást tanúsít, amely miatt vele szemben a b) pont szerinti pénzbírságot kell kiszabni, elrendeli a szálláshely bezárását,, egyidejűleg törli a szolgáltatót a nyilvántartásból.
 
 (2) Az (1) bekezdés b) pontja szerinti pénzbírság összege
 
@@ -50,5 +50,5 @@ f) egyéb szálláshely esetében 50 ezer Ft.
 
 (4) Az (1) bekezdés b) és d) pontja szerinti pénzbírság összege a központi költségvetést illeti meg.
 
-[^29]: A 14. § (1) bekezdés d) pontja a 441/2015. (XII. 28.) Korm. rendelet 119. § (10) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^30]: A 14. § (1) bekezdés e) pontja a 441/2015. (XII. 28.) Korm. rendelet 121. § e) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^31]: A 14. § (1) bekezdés d) pontja a 441/2015. (XII. 28.) Korm. rendelet 119. § (10) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^32]: A 14. § (1) bekezdés e) pontja a 441/2015. (XII. 28.) Korm. rendelet 121. § e) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

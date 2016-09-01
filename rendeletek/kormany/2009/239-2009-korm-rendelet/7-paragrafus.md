@@ -4,7 +4,7 @@ a) a higiénés és egészségvédelmi, táplálkozás-egészségügyi és diete
 
 aa) a Magyar Honvédség létesítményeinek területén kívül működtetni kívánt szálláshely esetében – elsőfokú eljárásban a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát,
 
-ab) a Magyar Honvédség létesítményeinek területén működtetni kívánt szálláshely esetében – elsőfokú eljárásban a honvédelemért felelős miniszter által létrehozott, a szakkérdés elbírálására jogosult hatóságot, másodfokú eljárásban a honvédelemért felelős minisztert,
+ab)[^12] a Magyar Honvédség létesítményeinek területén működtetni kívánt szálláshely esetében – elsőfokú eljárásban a honvédelemért felelős minisztert,
 
 b) ha a szálláshelyen élelmiszert, élelmiszer-nyersanyagot állítanak elő, használnak fel, hoznak forgalomba – az élelmiszer-higiéniai, -biztonsági, -minőségi követelményeknek való megfelelés kérdésében – elsőfokú eljárásban megyei kormányhivatalnak a szálláshely helye szerint illetékes élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát,
 
@@ -12,8 +12,10 @@ c) a 10 fő feletti befogadóképességű szálláshely esetében annak elbírá
 
 ca) a Magyar Honvédség létesítményeinek területén kívül működtetni kívánt szálláshely esetében – első- és másodfokú eljárásban az első- és másodfokú tűzvédelmi hatóságot,
 
-cb) a Magyar Honvédség létesítményeinek területén működtetni kívánt szálláshely esetében – elsőfokú eljárásban a honvédelemért felelős miniszter által létrehozott, a ellenőrzés lefolytatására jogosult hatóságot, másodfokú eljárásban a honvédelemért felelős minisztert, valamint
+cb)[^13] a Magyar Honvédség létesítményeinek területén működtetni kívánt szálláshely esetében – elsőfokú eljárásban a honvédelemért felelős minisztert, valamint
 
 d) ha arra az építményre, amelyben a szálláshelyet működtetni kívánják, ugyanarra a rendeltetésre vonatkozóan a bejelentést megelőző hat hónapon belül használatbavételi engedélyt vagy fennmaradási engedélyt nem adtak ki – az általános építésügyi követelményeknek való megfelelés kérdésében – elsőfokú eljárásban az építésügyi hatáskörben eljáró járási (fővárosi kerületi) hivatalt
 
 [^11]: A 7. § a 441/2015. (XII. 28.) Korm. rendelet 119. § (4) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^12]: A 7. § a) pont ab) alpontja a 259/2016. (VIII. 31.) Korm. rendelet 81. § a) pontja szerint módosított szöveg.
+[^13]: A 7. § c) pont cb) alpontja a 259/2016. (VIII. 31.) Korm. rendelet 81. § b) pontja szerint módosított szöveg.
