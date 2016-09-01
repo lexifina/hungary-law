@@ -1,5 +1,6 @@
-## 11. § Az e rendelet hatálybalépésekor honvédelmi foglalkoztatónak minősülő adatszolgáltató a 9. § a), b) és d) pontja szerinti adatok bejelentési kötelezettségét – első alkalommal – az e rendelet hatálybalépését követő 15 napon belül teljesíti.
+## 11. §[^13]
 
-12. §[^1]
+12. §[^14]
 
-[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 11. §-t a 16/2016. (VIII. 31.) HM rendelet 22. § c) pontja hatályon kívül helyezte.
+[^14]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

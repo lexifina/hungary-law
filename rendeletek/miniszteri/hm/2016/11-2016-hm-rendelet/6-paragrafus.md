@@ -4,7 +4,7 @@ a) az ellenőrzésre tervezett honvédelmi foglalkoztatókat,
 
 b) a jóváhagyás keltét, és
 
-c) a Hatóság vezetőjének aláírását.
+c)[^9] a Hatóság nevében kiadmányozási jogkörrel rendelkező személy aláírását.
 
 (2) Az 5. § (3) bekezdése szerinti vizsgálati program tartalmazza
 
@@ -31,3 +31,5 @@ j) a jóváhagyás keltét, és
 k) a vizsgálatvezető és a jóváhagyó aláírását.
 
 (3) A vizsgálati program végrehajtását a (2) bekezdés a) pontja szerinti szervezeti egység vezetője felügyeli.
+
+[^9]: A 6. § (1) bekezdés c) pontja a 16/2016. (VIII. 31.) HM rendelet 19. §-ával megállapított szöveg.

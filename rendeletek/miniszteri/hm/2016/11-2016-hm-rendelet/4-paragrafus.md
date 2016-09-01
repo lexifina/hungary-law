@@ -1,11 +1,11 @@
-## 4. § A Hatóság vezetője a 3. §-ban meghatározottak végrehajtása érdekében
+## 4. §[^4] A Hatóság a 3. §-ban meghatározottak végrehajtása érdekében
 
-a) jóváhagyja és a Hatóság honlapján közzéteszi az ellenőrzési időszakban végrehajtandó munkaügyi ellenőrzések tervét,
+a) jóváhagyja és a miniszter által vezetett minisztérium honlapján közzéteszi az ellenőrzési időszakban végrehajtandó munkaügyi ellenőrzések tervét,
 
 b) elrendeli a munkaügyi ellenőrzések végrehajtását,
 
-c) működteti a munkaügyi hatósági feladatok ellátásához szükséges informatikai rendszert,
+c) működteti a munkaügyi hatósági feladatok ellátásához szükséges informatikai rendszert és
 
-d) a tárgyév március 15-ig felterjeszti a miniszter részére a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 91. § (2) bekezdése szerinti jelentést, és
+d) közreműködik a munkaügyi előírások betartásának elősegítését szolgáló tájékoztató, felvilágosító tevékenység végzésében.
 
-e) közreműködik a munkaügyi előírások betartásának elősegítését szolgáló tájékoztató, felvilágosító tevékenység végzésében.
+[^4]: A 4. § a 16/2016. (VIII. 31.) HM rendelet 18. §-ával megállapított szöveg.
