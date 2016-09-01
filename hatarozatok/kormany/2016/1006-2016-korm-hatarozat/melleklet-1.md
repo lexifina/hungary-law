@@ -20,13 +20,13 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP-1.1.1-16 | Vállalkozói inkubációs tevékenységek fejlesztése | 2,20 | standard | 2016. május |
+| 2. | GINOP-1.1.1-16 | Vállalkozói inkubációs tevékenységek fejlesztése | 1,00 | standard | 2016. szeptember |
 
-| 3. | GINOP-1.1.2-VEKOP-16 | Vállalkozói mentorálás a mikro-, kis- és középvállalkozások részére | 1,02 [ebből Versenyképes Közép-Magyarország Operatív Program (a továbbiakban: VEKOP): 0,28] | kiemelt | 2016. április |
+| 3. | GINOP-1.1.2-VEKOP-16 | KKV szektor hatékonyságának növelése pénzügyi ismeretek, vállalkozói mentorálás és tőzsdei bevezetést szolgáló intézkedések biztosítása révén | 4,29 [ebből Versenyképes Közép-Magyarország Operatív Program (a továbbiakban: VEKOP): 0,28] | kiemelt | 2016. szeptember |
 
-| 3a. | GINOP-1.1.3-16 | Termelő KKV-k digitális és automatizációs fejlesztéseinek élénkítése érdekében „Ipar 4.0” mintaalkalmazások kialakítása | 2,35 | kiemelt | 2016. június |
+| 3a. | GINOP-1.1.3-16 | Termelő KKV-k digitális és automatizációs fejlesztéseinek élénkítése érdekében „Ipar 4.0” mintaalkalmazások kialakítása | 2,35 | kiemelt | 2016. augusztus |
 
-| 3b. | GINOP-1.1.4-16 | A kiemelt növekedési és innovációs potenciállal bíró feldolgozóipari KKV-k azonosítása, felmérése, motiválása, támogatása nemzetközi versenyképességük és hálózatosodásuk elősegítése céljából | 1,70 | kiemelt | 2016. június |
+| 3b. | GINOP-1.1.4-16 | A kiemelt növekedési és innovációs potenciállal bíró feldolgozóipari KKV-k azonosítása, felmérése, motiválása, támogatása nemzetközi versenyképességük és hálózatosodásuk elősegítése céljából | 1,70 | kiemelt | 2016. augusztus |
 
 | 4. | GINOP-1.2.1-14 | Mikro-, kis- és középvállalkozások termelési kapacitásainak bővítése | 32,40 | egyszerűsített | Meghirdetve 2014. októberben |
 
@@ -34,13 +34,13 @@
 
 | 6. | GINOP-1.2.2-15 | Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása | 60,00 | egyszerűsített | Meghirdetve 2015. júniusban |
 
-| 7. | GINOP-1.2.3-16 | Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása kombinált hiteltermék keretében | 37,50 | standard | 2016. július |
+| 7. | GINOP-1.2.3-16 | Mikro-, kis- és középvállalkozások kapacitásbővítő beruházásainak támogatása kombinált hiteltermék keretében | 37,50 | egyszerűsített | 2016. szeptember |
 
-| 8. | GINOP-1.2.4-16 | Ipari parkok fejlesztése | 6,00 | standard | 2016. április |
+| 8. | GINOP-1.2.4-16 | Ipari parkok fejlesztése | 6,00 | standard | Meghirdetve 2016. áprilisban |
 
 | 9. | GINOP-1.2.5-15 | Logisztikai szolgáltató központok fejlesztéseinek támogatása | 6,00 | standard | Meghirdetve 2015. decemberben |
 
-| 10. | GINOP-1.2.6-16 | Élelmiszeripari középvállalatok komplex beruházásainak támogatása kombinált hiteltermékkel | 22,00 | standard | 2016. július |
+| 10. | GINOP-1.2.6-16 | Élelmiszeripari komplex beruházások támogatása kombinált hiteltermékkel | 50,00 | standard | 2016. szeptember |
 
 | 11. | GINOP-1.3.1-14 | Mikro-, kis- és középvállalkozások piaci megjelenésének támogatása | 0,48 | egyszerűsített | Meghirdetve 2014. októberben |
 
@@ -48,7 +48,7 @@
 
 | 13. | GINOP-1.3.2-15 | Professzionális klaszterszervezetek minőségi szolgáltatás-nyújtásának támogatása | 2,00 | standard | Meghirdetve 2015. decemberben |
 
-| 14. | GINOP-1.3.3-16 | Beszállítói integrátorok és beszállító mikro-, kis- és középvállalkozások támogatása | 20,00 | standard | 2016. április |
+| 14. | GINOP-1.3.3-16 | Beszállítói integrátorok és beszállító mikro-, kis- és középvállalkozások támogatása | 20,00 | standard | 2016. augusztus |
 
 | 15. | GINOP-1.3.4-15 | Turisztikai szervezetek (TDM) fejlesztése | 2,00 | standard | Meghirdetve 2015. novemberben |
 
@@ -62,9 +62,9 @@
 
 | 2. | GINOP-2.1.1-15 | Vállalatok K+F+I tevékenységének támogatása | 60,00 | standard | Meghirdetve 2015. augusztusban |
 
-| 2a. | GINOP-2.1.1-16 | Vállalatok K+F+I tevékenységének támogatása hiteltermékkel kiegészítve | 30,00 | standard | 2016. június |
+| 2a. | GINOP-2.1.1-16 | Vállalatok K+F+I tevékenységének támogatása hiteltermékkel kiegészítve | 30,00 | standard | 2016. augusztus |
 
-| 2b. | GINOP-2.1.2-16 | Vállalatok K+F+I tevékenységének támogatása kombinált hiteltermék keretében | 55,00 | standard | 2016. július |
+| 2b. | GINOP-2.1.2-16 | Vállalatok K+F+I tevékenységének támogatása kombinált hiteltermék keretében | 55,00 | standard | 2016. augusztus |
 
 | 3. | GINOP-2.1.3-15 | Iparjog | 1,00 | egyszerűsített | Meghirdetve 2015. augusztusban |
 
@@ -74,13 +74,13 @@
 
 | 6. | GINOP-2.1.7-15 | Prototípus, termék-, technológia- és szolgáltatásfejlesztés | 35,00 | standard | Meghirdetve 2015. októberben |
 
-| 7. | GINOP-2.2.1-15 | Versenyképességi és kiválósági együttműködések | 80,00 | standard | Meghirdetve 2015. szeptemberben |
+| 7. | GINOP-2.2.1-15 | Versenyképességi és kiválósági együttműködések | 83,50 | standard | Meghirdetve 2015. szeptemberben |
 
-| 8. | GINOP-2.2.3-16 | Kereskedelmi hasznosítást megelőző beszerzés | 1,00 | standard | 2016. november |
+| 8. |  |  |  |  |  |
 
-| 9. | GINOP-2.3.1-16 | Nemzetközi K+F kapcsolatok fejlesztése | 3,50 | egyszerűsített | 2016. október |
+| 9. |  |  |  |  |  |
 
-| 10. | GINOP-2.3.2-15 | Stratégiai K+F műhelyek kiválósága | 65,00 | standard | Meghirdetve 2015. szeptemberben |
+| 10. | GINOP-2.3.2-15 | Stratégiai K+F műhelyek kiválósága | 66,00 | standard | Meghirdetve 2015. szeptemberben |
 
 | 11. | GINOP-2.3.3-15 | Kutatási infrastruktúra erősítése – nemzetköziesedés, hálózatosodás | 35,00 | standard | Meghirdetve 2015. augusztusban |
 
@@ -94,9 +94,9 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP-3.1.1-VEKOP-15 | Oktatási intézmények és IKT vállalkozások közötti együttműködés ösztönzése és támogatása | 2,84 (ebből VEKOP: 0,84) | kiemelt | Meghirdetve 2015. decemberben |
+| 2. | GINOP-3.1.1-VEKOP-15 | Oktatási intézmények és IKT vállalkozások közötti együttműködés ösztönzése és támogatása | 5,50 (ebből VEKOP: 1,62) | kiemelt | Meghirdetve 2015. decemberben |
 
-| 3. | GINOP-3.1.2-16 | Az infokommunikációs ágazatban működő mikro- kis- és középvállalkozások által előállított termékek és szolgáltatások piacosításának , nemzetközi piacokra való belépésének támogatása | 4,50 | egyszerűsített | 2016. július |
+| 3. | GINOP-3.1.2-16 | Az infokommunikációs ágazatban működő mikro- kis- és középvállalkozások által előállított termékek és szolgáltatások piacosításának , nemzetközi piacokra való belépésének támogatása | 4,50 | egyszerűsített | 2016. augusztus |
 
 | 4. | GINOP-3.1.3-15 | IKT startup cégek nemzetközi piacra lépését segítő szakértői, mentori hálózat kialakítása | 2,50 | kiemelt | Meghirdetve 2015. decemberben |
 
@@ -104,23 +104,25 @@
 
 | 6. | GINOP-3.2.1-15 | Infokommunikációs motivációs, szemléletformáló és kompetencia-fejlesztő program KKV-knak | 2,00 | kiemelt | Meghirdetve 2015. áprilisban |
 
-| 7. | GINOP-3.2.2-16 | Vállalati komplex infokommunikációs és mobilfejlesztések, felhőalapú online üzleti szolgáltatások terjesztésének támogatása | 17,50 | egyszerűsített | 2016. július |
+| 7. | GINOP-3.2.2-16 | Vállalati komplex infokommunikációs és mobilfejlesztések, felhőalapú online üzleti szolgáltatások terjesztésének támogatása | 17,50 | egyszerűsített | 2016. augusztus |
 
-| 8. | GINOP-3.2.4-16 | Felhőalapú (IaaS, PaaS, SaaS) vállalati szolgáltatások, IKT megoldások fejlesztésének és piaci bevezetésének támogatása | 2,00 | standard | 2016. július |
+| 8. | GINOP-3.2.4-16 | Felhőalapú (IaaS, PaaS, SaaS) vállalati szolgáltatások, IKT megoldások fejlesztésének és piaci bevezetésének támogatása | 2,00 | standard | 2016. augusztus |
 
 | 9. |  |  |  |  |  |
 
-| 10. | GINOP-3.3.1-16 | Közösségi internet hozzáférési pontok fejlesztése, szolgáltatási portfóliójuk bővítése | 5,00 | kiemelt | 2016. április |
+| 10. | GINOP-3.3.1-16 | Közösségi internet hozzáférési pontok fejlesztése, szolgáltatási portfóliójuk bővítése | 5,00 | kiemelt | Meghirdetve 2016. májusban |
 
-| 11. | GINOP-3.3.2-16 | Online kormányzati, közigazgatási és e-egészségügyi szolgáltatások terjedésének elősegítése | 3,00 | kiemelt | 2016. június |
+| 11. | GINOP-3.3.2-16 | Online kormányzati, közigazgatási és e-egészségügyi szolgáltatások terjedésének elősegítése és a Digitális Jólét Program kiterjesztésének elősegítése | 3,00 | kiemelt | 2016. szeptember |
 
 | 12. | GINOP-3.4.1-15 | Újgenerációs NGA és felhordó hálózatok fejlesztése | 68,00 | standard | Meghirdetve 2015. augusztusban |
 
 | 13. | GINOP-3.4.2-VEKOP-15 | Intézmények hálózati hozzáféréseinek, kapcsolatainak fejlesztése | 2,86 (ebből VEKOP: 0,86) | kiemelt | Meghirdetve 2015. decemberben |
 
-| 14. | GINOP-3.4.3-VEKOP-15 | Kormányzati hálózatok konszolidációja, kapacitásainak, teljesítményének növelése | 8,58 (ebből VEKOP: 2,58) | kiemelt | Meghirdetve 2015. decemberben |
+| 14. | GINOP-3.4.3-VEKOP-15 | Kormányzati hálózatok konszolidációja, kapacitásainak, teljesítményének növelése | 4,29 (ebből VEKOP: 1,29) | kiemelt | Meghirdetve 2015. decemberben |
 
-| 15. | GINOP-3.4.4-16 | Szélessávú fejlesztések előkészítéséhez és végrehajtásához kapcsolódó feladatok ellátása | 1,00 | kiemelt | 2016. április |
+| 15. | GINOP-3.4.4-16 | Szélessávú fejlesztések előkészítéséhez és végrehajtásához kapcsolódó feladatok ellátása | 1,00 | kiemelt | 2016. Meghirdetve 2016. júliusban |
+
+| 16. | GINOP-3.4.5-VEKOP-16 | Kormányzati hálózatok konszolidációja, kapacitásainak, teljesítményének növelése és intézmények hálózati hozzáféréseinek, kapcsolatainak fejlesztése | 4,29 (ebből VEKOP: 1,29) | kiemelt | 2016. augusztus |
 
 4. Az energiáról szóló 4. prioritás
 
@@ -128,7 +130,7 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP-4.1.1-16 | Épületenergetikai fejlesztések megújuló energiaforrás hasznosítással kombinálva | 59,45 | egyszerűsített | 2016. július |
+| 2. | GINOP-4.1.1-16 | Megújuló energia használatával megvalósuló épületenergetikai fejlesztések támogatása kombinált hiteltermékkel | 59,45 | egyszerűsített | 2016. szeptember |
 
 5. A foglalkoztatásról szóló 5. prioritás
 
@@ -140,11 +142,11 @@
 
 | 3. | GINOP-5.1.2-15 | Társadalmi célú vállalkozások ösztönzése – támogató szolgáltatások | 1,30 | kiemelt | Meghirdetve 2015. decemberben |
 
-| 4. | GINOP-5.1.3-16 | Társadalmi célú vállalkozások ösztönzése | 6,00 | egyszerűsített | 2016. április |
+| 4. | GINOP-5.1.3-16 | Társadalmi célú vállalkozások ösztönzése | 6,00 | egyszerűsített | Meghirdetve 2016. júniusban |
 
 | 5. | GINOP-5.1.4-16 | Tranzitfoglalkoztatási programok támogatása | 6,00 | standard | 2016. október |
 
-| 6. | GINOP-5.1.5-16 | Nem állami szervezetek munkaerő-piaci szolgáltatásainak támogatása | 4,00 | standard | 2016. május |
+| 6. | GINOP-5.1.5-16 | Nem állami szervezetek munkaerő-piaci szolgáltatásainak támogatása | 6,00 | standard | 2016. augusztus |
 
 | 7. | GINOP-5.2.1-14 | Ifjúsági Garancia | 160,00 | kiemelt | Meghirdetve 2014. októberben |
 
@@ -162,11 +164,11 @@
 
 | 14. | GINOP-5.3.3-15 | Jogszerű foglalkoztatást célzó szolgáltatásnyújtás támogatása | 3,50 | standard | Meghirdetve 2015. augusztusban |
 
-| 15. | GINOP-5.3.4-16 | A munkahelyi egészség és biztonság fejlesztése | 2,00 | standard | 2016. május |
+| 15. | GINOP-5.3.4-16 | A munkahelyi egészség és biztonság fejlesztése | 2,00 | standard | 2016. Meghirdetve 2016. júniusban |
 
-| 16. | GINOP-5.3.6- VEKOP-16 | Jogszerű foglalkoztatás ösztönzése, valamint a kevésbé fejlett régiókban vállalati felelősségvállalás ösztönzése és állásfeltárás | 6,60 (ebből VEKOP: 1,00) | kiemelt | 2016. szeptember |
+| 16. | GINOP-5.3.6-16 | Vállalati felelősségvállalás ösztönzése és állásfeltárás | 3,00 | kiemelt | 2016. szeptember |
 
-| 17. | GINOP-5.3.8-16 | Munkahelyi bölcsődék létrehozásának támogatása | 1,00 | egyszerűsített | 2016. december |
+| 17. | GINOP-5.3.8-16 | Munkahelyi bölcsődék létrehozásának támogatása | 4,00 | egyszerűsített | 2016. december |
 
 | 18. |  |  |  |  |  |
 
@@ -180,23 +182,23 @@
 
 | 2. | GINOP-6.1.1-15 | Alacsony képzettségűek és közfoglalkoztatottak képzése | 30,00 | kiemelt | Meghirdetve 2015. augusztusban |
 
-| 3. | GINOP-6.1.2-15 | A digitális szakadék csökkentése | 17,90 | kiemelt | Meghirdetve 2015. áprilisban |
+| 3. | GINOP-6.1.2-15 | A digitális szakadék csökkentése | 20,40 | kiemelt | Meghirdetve 2015. áprilisban |
 
-| 4. | GINOP-6.1.3-16 | Idegen nyelvi készségek fejlesztése | 15,00 | kiemelt | 2016. augusztus |
+| 4. | GINOP-6.1.3-16 | Idegen nyelvi készségek fejlesztése | 15,00 | kiemelt | 2016. október |
 
-| 5. | GINOP-6.1.4-16 | Munkaerőpiaci kulcskompetenciák fejlesztése | 2,50 | standard | 2016. június |
+| 5. | GINOP-6.1.4-16 | Munkaerőpiaci kompetenciák fejlesztése a konvergencia régiókban | 2,50 | kiemelt | 2016. szeptember |
 
-| 6. | GINOP-6.1.5-16 | Munkahelyi képzések támogatása nagyvállalatok munkavállalói számára | 10,00 | standard | 2016. augusztus |
+| 6. | GINOP-6.1.5-16 | Munkahelyi képzések támogatása nagyvállalatok munkavállalói számára | 10,00 | standard | 2016. szeptember |
 
-| 7. | GINOP-6.1.6-16 | Munkahelyi képzések támogatása kis- és középvállalatok munkavállalói számára | 20,00 | kiemelt | 2016. augusztus |
+| 7. | GINOP-6.1.6-16 | Munkahelyi képzések támogatása mikro-, kis- és középvállalatok munkavállalói számára | 20,00 | kiemelt | 2016. szeptember |
 
 | 8. | GINOP-6.2.1 VEKOP-15 | Részvétel az OECD Felnőttek Képesség- és Kompetenciamérése programjában (PIAAC) | 1,10 (ebből VEKOP: 0,30) | kiemelt | Meghirdetve 2015. augusztusban |
 
 | 9. | GINOP-6.2.2-VEKOP-15 | A szakképzést végzettség nélkül elhagyók számának csökkentése | 1,80 (ebből VEKOP: 0,49) | kiemelt | Meghirdetve 2015. decemberben |
 
-| 10. | GINOP-6.2.3-16 | A szakképzési intézményrendszer átfogó fejlesztése | 8,75 | egyszerűsített | 2016. május |
+| 10. | GINOP-6.2.3-16 | A szakképzési intézményrendszer átfogó fejlesztése | 12,50 | egyszerűsített | 2016. október |
 
-| 11. | GINOP-6.2.4-VEKOP-16 | A 21. századi szakképzés és felnőttképzés minőségének, valamint tartalmának fejlesztése | 7,00 (ebből VEKOP: 1,92) | kiemelt | 2016. április |
+| 11. | GINOP-6.2.4-VEKOP-16 | A 21. századi szakképzés és felnőttképzés minőségének, valamint tartalmának fejlesztése | 7,00 (ebből VEKOP: 1,92) | kiemelt | Meghirdetve 2016. májusban |
 
 7. A turizmusról szóló 7. prioritás
 
@@ -210,11 +212,11 @@
 
 | 4. | GINOP-7.1.3-15 | Gyógyhelyek komplex turisztikai fejlesztése | 13,90 | standard | Meghirdetve 2015. novemberben |
 
-| 5. | GINOP-7.1.4-16 | Egyházi kulturális örökség turisztikai fejlesztése | 7,30 | standard | 2016. április |
+| 5. | GINOP-7.1.4-16 | Egyházi kulturális örökség turisztikai fejlesztése | 7,30 | standard | Meghirdetve 2016. júniusban |
 
 | 6. | GINOP-7.1.5-16 | Nemzeti parkok komplex turisztikai fejlesztése | 4,50 | standard | Meghirdetve 2016. márciusban |
 
-| 7. | GINOP-7.1.6-16 | Világörökségi helyszínek fejlesztése | 6,50 | standard | 2016. június |
+| 7. | GINOP-7.1.6-16 | Világörökségi helyszínek fejlesztése | 11,50 | standard | 2016. augusztus |
 
 | 8. | GINOP-7.1.7-16 | Kulturális tematikus hálózatok fejlesztése | 2,50 | standard | 2016. augusztus |
 
@@ -224,9 +226,9 @@
 
 | 1. | Felhívás azonosító jele | Felhívás neve | Felhívás keretösszege (Mrd Ft) | Kapcsolódó felhívás azonosító jele (vissza nem térítendő) | Kapcsolódó felhívás keretösszege (vissza nem térítendő) (Mrd Ft) | Felhívás meghirdetésének módja | Felhívás meghirdetésének tervezett ideje |
 
-| 2. | GINOP-8.1.1-16 | Vállalatok K+F+I tevékenységének támogatása hitel | 26,00 | – | – | pénzügyi közvetítők kiválasztása | 2016. május |
+| 2. | GINOP-8.1.1-16 | Vállalatok K+F+I tevékenységének támogatása hitel | 26,00 | – | – | pénzügyi közvetítők kiválasztása | 2016. augusztus |
 
-| 2a. | GINOP-8.1.1/A-16 | Vállalatok K+F+I tevékenységének támogatása hitel vissza nem térítendő támogatással kiegészítve | 15,00 | GINOP-2.1.1-16 | 30,00 | pénzügyi közvetítők kiválasztása | 2016. június |
+| 2a. | GINOP-8.1.1/A-16 | Vállalatok K+F+I tevékenységének támogatása hitel vissza nem térítendő támogatással kiegészítve | 15,00 | GINOP-2.1.1-16 | 30,00 | pénzügyi közvetítők kiválasztása | 2016. augusztus |
 
 | 3. | GINOP-8.1.2-16 | K+F+I viszontgarancia program | 10,00 | – | – | pénzügyi közvetítők kiválasztása | 2016. augusztus |
 
@@ -234,34 +236,34 @@
 
 | 5. | GINOP-8.1.3/B-16 | Intelligens szakosodási kockázati tőkeprogram | 70,00 | – | – | pénzügyi közvetítők kiválasztása | 2016. szeptember |
 
-| 5a. | GINOP-8.1.4-2.1.2-16 | Vállalatok K+F+I tevékenységének támogatása kombinált hitel | 28,00 | GINOP-2.1.2-16 | 55,00 | pénzügyi közvetítők kiválasztása | 2016. július |
+| 5a. | GINOP-8.1.4-2.1.2-16 | Vállalatok K+F+I tevékenységének támogatása kombinált hitel | 28,00 | GINOP-2.1.2-16 | 55,00 | pénzügyi közvetítők kiválasztása | 2016. augusztus |
 
 | 6. | GINOP-8.2.1-3.4.1-15 | Újgenerációs Hozzáférési Hálózat (NGA) és körzethálózatok fejlesztése hitel | 45,60 | GINOP-3.4.1-15 | 68,00 | alapok alapját végrehajtó szervezet jár el pénzügyi közvetítőként | Meghirdetve 2015. szeptemberben |
 
 | 7. | GINOP-8.2.3-16 | Specializált seed és pre- seed befektetési tőkealap induló IKT vállalkozások számára új ötletekhez, új piacra lépéshez – kockázati tőke | 5,10 | – | – | pénzügyi közvetítők kiválasztása | 2016. szeptember |
 
-| 8. | GINOP-8.2.4-16 | Infokommunikációs- technológiai vállalati fejlesztéseket támogató kombinált hitel | 30,00 | GINOP-3.1.2-16 GINOP-3.2.2-16 GINOP-3.2.4-16 | 24,00 | pénzügyi közvetítők kiválasztása | 2016. július |
+| 8. | GINOP-8.2.4-16 | Infokommunikációs- technológiai vállalati fejlesztéseket támogató kombinált hitel | 30,00 | GINOP-3.1.2-16 GINOP-3.2.2-16 GINOP-3.2.4-16 | 24,00 | pénzügyi közvetítők kiválasztása | 2016. augusztus |
 
-| 9. | GINOP-8.3.1-16 | Mikro-, kis-és középvállalkozások versenyképességének növelése hitel | 44,00 | – | – | pénzügyi közvetítők kiválasztása | 2016. április |
+| 9. | GINOP-8.3.1-16 | Mikro-, kis-és középvállalkozások versenyképességének növelése hitel | 44,00 | – | – | pénzügyi közvetítők kiválasztása | Meghirdetve 2016. májusban |
 
 | 10. | GINOP-8.3.2-16 | KKV Versenyképesség viszontgarancia program | 10,00 | – | – | pénzügyi közvetítők kiválasztása | 2016. augusztus |
 
 | 11. | GINOP-8.3.3-16 | KKV Versenyképesség kockázati tőkeprogram | 21,00 | – | – | pénzügyi közvetítők kiválasztása | 2016. szeptember |
 
-| 12. | GINOP-8.3.4-1.2.3-16 | Mikro-, kis-és középvállalkozások kapacitásbővítő beruházásainak támogatását célzó kombinált hitel | 75,00 | GINOP-1.2.3-16 | 37,50 | pénzügyi közvetítők kiválasztása | 2016. július |
+| 12. | GINOP-8.3.4-1.2.3-16 | Mikro-, kis-és középvállalkozások kapacitásbővítő beruházásainak támogatását célzó kombinált hitel | 75,00 | GINOP-1.2.3-16 | 37,50 | pénzügyi közvetítők kiválasztása | 2016. szeptember |
 
-| 13. | GINOP-8.3.4-1.2.6-16 | Élelmiszeripari középvállalkozások termelési kapacitásainak bővítése keretében finanszírozott kombinált hitel | 40,00 | GINOP-1.2.6-16 | 22,00 | pénzügyi közvetítők kiválasztása | 2016. július |
+| 13. | GINOP-8.3.4-1.2.6-16 | Élelmiszeripari termelési kapacitás bővítése keretében finanszírozott kombinált hitel | 50,00 | GINOP-1.2.6-16 | 50,00 | pénzügyi közvetítők kiválasztása | 2016. szeptember |
 
-| 14. | GINOP-8.4.4-4.1.1-16 | Termelő és szolgáltató vállalkozások támogatása az energetika területén kombinált hitel | 30,89 | GINOP-4.1.1-16 | 59,45 | pénzügyi közvetítők kiválasztása | 2016. július |
+| 14. | GINOP-8.4.4-4.1.1-16 | Megújuló energia használatával megvalósuló épületenergetikai fejlesztések támogatása kombinált hitel | 62,08 | GINOP-4.1.1-16 | 59,45 | pénzügyi közvetítők kiválasztása | 2016. szeptember |
 
 | 15. | GINOP-8.4.1-16 | Lakóépületek energiahatékonyságának és megújuló energia felhasználásának növelését célzó hitel | 105,20 | – | – | pénzügyi közvetítők kiválasztása | 2016. augusztus |
 
-| 16. | GINOP-8.6.4-16 | Távhő-szektor energetikai korszerűsítése és helyi hő és hűtési igény kielégítése megújuló energiaforrás felhasználásának lehetőségével finanszírozott kombinált hitel | 20,34 | KEHOP-5.3.3-16 KEHOP-5.3.4-16 | 26,47 8,49 | pénzügyi közvetítők kiválasztása | 2016. június |
+| 16. |  |  |  |  |  |  |  |
 
-| 17. | GINOP-8.6.4-16-KEHOP-5.1.2-16 | Megújuló alapú zöldáram-termelés elősegítése pénzügyi eszközök révén finanszírozott kombinált hitel | 10,85 | KEHOP-5.1.2-16 | 11,97 | pénzügyi közvetítők kiválasztása | 2016. december |
+| 17. |  |  |  |  |  |  |  |
 
 | 18. | GINOP-8.8.1-16 | Foglalkoztatás ösztönzése célú hitel | 15,00 | – | – | pénzügyi közvetítők kiválasztása | 2016. szeptember |
 
 [^1]: Az 1. pont c) alpontját az 1201/2016. (IV. 15.) Korm. határozat 1. pontja iktatta be.
 [^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet az 1201/2016. (IV. 15.) Korm. határozat 2. és 4. pontja, az 1472/2016. (VIII. 31.) Korm. határozat 1. és 3. pontja szerint módosított szöveg.
