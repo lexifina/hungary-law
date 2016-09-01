@@ -22,9 +22,9 @@
 
 10. Kormányzati Ellenőrzési Hivatal
 
-11. Közigazgatási és Igazságügyi Hivatal
+11.[^160]
 
-12.[^160] Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal
+12.[^161] Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal
 
 13. Nemzetstratégiai Kutatóintézet
 
@@ -38,7 +38,7 @@
 
 18. VERITAS Történetkutató Intézet
 
-19.[^161] Fővárosi és megyei kormányhivatalok, valamint járási (fővárosi kerületi) hivatalaik
+19.[^162] Fővárosi és megyei kormányhivatalok, valamint járási (fővárosi kerületi) hivatalaik
 
 20. Bevándorlási és Állampolgársági Hivatal
 
@@ -46,7 +46,7 @@
 
 22. Nemzeti Védelmi Szolgálat
 
-23.[^162] Terrorelhárítási Információs és Bűnügyi Elemző Központ
+23.[^163] Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
 24. Rendőrség, Független Rendészeti Panasztestület
 
@@ -66,11 +66,11 @@
 
 32. Országos Vízügyi Főigazgatóság
 
-33.[^163] Egészségügyi Nyilvántartási és Képzési Központ
+33.[^164] Egészségügyi Nyilvántartási és Képzési Központ
 
 34. Emberi Erőforrás Támogatáskezelő
 
-35. Nemzeti Család- és Szociálpolitikai Intézet
+35.[^165]
 
 36. Nemzeti Rehabilitációs és Szociális Hivatal
 
@@ -106,7 +106,7 @@
 
 52. Közbeszerzési és Ellátási Főigazgatóság
 
-53. Közlekedésbiztonsági Szervezet
+53.[^166]
 
 54. Kormányzati Informatikai Fejlesztési Ügynökség
 
@@ -118,11 +118,14 @@
 
 58. Országos Atomenergia Hivatal
 
-59.[^164] Nemzeti Szakképzési és Felnőttképzési Hivatal
+59.[^167] Nemzeti Szakképzési és Felnőttképzési Hivatal
 
 [^159]: Az 1. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
-[^160]: Az 1. melléklet 12. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^161]: Az 1. melléklet 19. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^162]: Az 1. melléklet 23. pontja a 186/2016. (VII. 13.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^163]: Az 1. melléklet 33. pontja a 30/2015. (II. 25.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^164]: Az 1. melléklet 59. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^160]: Az 1. melléklet 11. pontját a 251/2016. (VIII. 24.) Korm. rendelet 4. §-a hatályon kívül helyezte.
+[^161]: Az 1. melléklet 12. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^162]: Az 1. melléklet 19. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^163]: Az 1. melléklet 23. pontja a 186/2016. (VII. 13.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^164]: Az 1. melléklet 33. pontja a 30/2015. (II. 25.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^165]: Az 1. melléklet 35. pontját a 244/2016. (VIII. 17.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^166]: Az 1. melléklet 53. pontját a 230/2016. (VII. 29.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^167]: Az 1. melléklet 59. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
