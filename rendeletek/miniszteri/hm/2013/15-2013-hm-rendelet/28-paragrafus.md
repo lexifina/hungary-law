@@ -1,6 +1,6 @@
 ## 27. § Nem részesíthető elismerésben a személyi állomány tagja, ha szolgálati viszonya a Hjt. 59. § (1) bekezdés c) pontja vagy a 68. § (1) bekezdés k)–m) pontja alapján szűnt meg, továbbá, ha a kormányzati szolgálati jogviszonya méltatlanság miatt szűnt meg.
 
-28. §[^8] (1) A személyi állomány tagjának nem minősülő személy elismerésére vonatkozó javaslat véleményezésére a Honvédelmi Minisztérium Társadalmi Véleményező Munkacsoportja (a továbbiakban: HM TVMCS) működik. A HM TVMCS összetételét, tagjainak számát és működését a miniszter utasításban szabályozza.
+28. §[^9] (1) A személyi állomány tagjának nem minősülő személy elismerésére vonatkozó javaslat véleményezésére a Honvédelmi Minisztérium Társadalmi Véleményező Munkacsoportja (a továbbiakban: HM TVMCS) működik. A HM TVMCS összetételét, tagjainak számát és működését a miniszter utasításban szabályozza.
 
 (2) A személyi állomány tagjának nem minősülő személy elismerésére vonatkozó javaslatot a felterjesztő a HM TVMCS elnöke részére küldi meg a 8. melléklet szerinti javaslati lapon, amelyhez csatolni kell a 9. melléklet szerinti személyes adatok kezeléséhez történő hozzájáruló nyilatkozatot.
 
@@ -10,4 +10,4 @@
 
 (5) A HM TVMCS véleményét az átadás tervezett időpontját megelőzően 30 nappal terjeszti fel a miniszternek.
 
-[^8]: A 28. § a 14/2015. (XII. 17.) HM rendelet 3. §-ával megállapított szöveg.
+[^9]: A 28. § a 14/2015. (XII. 17.) HM rendelet 3. §-ával megállapított szöveg.
