@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-157-20-
 | 2015-12-17 | 2005-157-20-22.25 | 363/2015. (XII. 2.) Korm. rendelet |
 | 2016-01-01 | 2005-157-20-22.26 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-07-01 | 2005-157-20-22.27 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2016-09-01 | 2005-157-20-22.28 | 123/2015. (V. 26.) Korm. rendelet |

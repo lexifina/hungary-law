@@ -12,7 +12,7 @@ e) a fűtési költségmegosztókat a felszerelésüket követően beavatkozás,
 
 f) a fűtési költségmegosztók leolvasása, működőképességük és a plomba sértetlenségének ellenőrzése az elszámolási időszak végén a tulajdonosi közösség által meghatározott időpontig megtörténik.
 
-(1a)[^40] A felhasználó köteles gondoskodni – a közös használatú épületrészek kivételével – az épületrészekben az elfogyasztott távhő, valamint meleg víz elszámolása érdekében hiteles hőmennyiségmérő vagy költségmegosztó felszereléséről
+(1a)[^40] A felhasználó köteles gondoskodni a közös használatú épületrészek kivételével az épületrészekben az elfogyasztott távhő, valamint – ha használati melegvíz biztosítására is sor kerül – a használati melegvíz elszámolása érdekében hiteles fűtési hőfogyasztás-mérő és vízmennyiség-mérő felszereléséről
 
 a) új csatlakozás esetén, ha az új épületben kerül kialakításra, vagy
 
@@ -23,4 +23,4 @@ b) ha az épületen az épületek energetikai jellemzőinek meghatározásáról
 (3) Párologtatós fűtési költségmegosztó – a 23/A. § (3) bekezdésében foglaltak kivételével – fűtési költségmegosztóként nem alkalmazható.
 
 [^39]: A Vhr. 17/C. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
-[^40]: A Vhr. 17/C. § (1a) bekezdését a 123/2015. (V. 26.) Korm. rendelet 3. §-a iktatta be.
+[^40]: A Vhr. 17/C. § (1a) bekezdését a 123/2015. (V. 26.) Korm. rendelet 3. §-a iktatta be, szövege a 202/2016. (VII. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

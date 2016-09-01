@@ -1,4 +1,4 @@
-23/C. §[^67] E rendeletnek az egyes kormányrendeletek energiahatékonysággal összefüggő módosításáról szóló 123/2015. (V. 26.) Korm. rendelet (a továbbiakban: Mód. 3. Korm. rendelet) 3. §-ával megállapított 17/C. § (1a) bekezdését a Mód. 3. Korm. rendelet hatálybalépésének[^68] napját megelőzően meghirdetett energiahatékonysági pályázatok keretében megvalósuló jelentős felújítások esetében nem kell alkalmazni.
+23/C. §[^67] E rendeletnek az egyes energetikai tárgyú kormányrendeletek módosításáról szóló 202/2016. (VII. 21.) Korm. rendelet (a továbbiakban: Mód. 4. Korm. rendelet) 1. § (1) bekezdésével megállapított 17/C. § (1a) bekezdését a Mód. 4. Korm. rendelet hatálybalépésének[^68] napját megelőzően meghirdetett energiahatékonysági pályázatok keretében megvalósuló jelentős felújítások esetében nem kell alkalmazni.
 
-[^67]: A Vhr. 23/C. §-át a 123/2015. (V. 26.) Korm. rendelet 6. §-a iktatta be.
-[^68]: A hatálybalépés időpontja 2015. június 7.
+[^67]: A Vhr. 23/C. §-át a 123/2015. (V. 26.) Korm. rendelet 6. §-a iktatta be, szövege a 202/2016. (VII. 21.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^68]: A hatálybalépés időpontja 2016. július 29.
