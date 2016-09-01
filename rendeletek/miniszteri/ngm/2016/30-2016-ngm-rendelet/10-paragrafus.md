@@ -1,0 +1,1 @@
+## 9. § A rendelet hatálybalépését megelőzően indult iskolai rendszerű szakképzésben folyó képzéseket – az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet 9. § (11) bekezdésének figyelembevételével – a megkezdésükkor hatályos szabályok alapján kell befejezni.
