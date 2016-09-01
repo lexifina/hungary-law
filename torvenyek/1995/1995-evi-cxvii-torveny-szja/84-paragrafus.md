@@ -2,7 +2,7 @@
 
 a) a Tanács 90/434/EGK irányelve a különböző tagállamok társaságait érintő egyesülésekre, szétválásokra, eszközátruházásokra és részesedéscserékre alkalmazandó közös adózási rendszerről;
 
-b) a Tanács 2003/48/EK irányelve a kamatozó megtakarítási formákból eredő jövedelmek adóztatásáról;
+b) a megtakarításokból származó kamatjövedelem adóztatásáról szóló 2003/48/EK irányelv hatályon kívül helyezéséről szóló 2015. november 10-i 2015/2060. tanácsi irányelv;
 
 c) az Európai Közösségek Bizottsága 94/79/EGK ajánlása a magánszemély által nem az illetősége szerinti tagállamban szerzett egyes jövedelmek adóztatásáról.
 
