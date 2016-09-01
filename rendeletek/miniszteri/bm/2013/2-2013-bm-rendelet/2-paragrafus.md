@@ -1,8 +1,8 @@
 2. § (1) Az e rendeletben meghatározott továbbképzési programjegyzéken szereplő minősített továbbképzési programok a közigazgatási és honvédelmi szerveknél foglalkoztatottak továbbképzése esetén igénybe vehetők.
 
-(2)[^3] A KSZF együttműködik a Nemzeti Közszolgálati Egyetemmel (a továbbiakban: NKE), különösen a közszolgálati továbbképzési rendszer és a belügyi szervek hivatásos állománya továbbképzési rendszerének összehangolása, a minősített továbbképzési programok fejlesztése, az oktatók felkészítése és továbbképzése, a vezetőképzés és tehetséggondozás terén, valamint minden olyan kérdésben, amelynek közös elvi alapokon nyugvó végrehajtása hozzájárul a közszolgálati életpálya kölcsönös átjárhatóságához, minőségi fejlesztéséhez.
+(2)[^4] A miniszter együttműködik a Nemzeti Közszolgálati Egyetemmel (a továbbiakban: NKE), különösen a közszolgálati továbbképzési rendszer és a belügyi szervek hivatásos állománya továbbképzési rendszerének összehangolása, a minősített továbbképzési programok fejlesztése, az oktatók felkészítése és továbbképzése, a vezetőképzés és tehetséggondozás terén, valamint minden olyan kérdésben, amelynek közös elvi alapokon nyugvó végrehajtása hozzájárul a közszolgálati életpálya kölcsönös átjárhatóságához, minőségi fejlesztéséhez.
 
-(3)[^4] A nemzetközi kötelezettség teljesítéséhez kapcsolódó speciális szakmai ismeretek, készségek megszerzésére irányuló kül- és belföldi képzésre, valamint a nemzetközi konferenciára, tanulmányútra – mint továbbképzésre – a bejelentés-köteles továbbképzési programra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a továbbképzési pontértéket a kérelmet benyújtó javaslatát figyelembe véve a KSZF határozza meg.
+(3)[^5] A nemzetközi kötelezettség teljesítéséhez kapcsolódó speciális szakmai ismeretek, készségek megszerzésére irányuló kül- és belföldi képzésre, valamint a nemzetközi konferenciára, tanulmányútra – mint továbbképzésre – a bejelentés-köteles továbbképzési programra vonatkozó szabályokat kell megfelelően alkalmazni azzal, hogy a továbbképzési pontértéket a kérelmet benyújtó javaslatát figyelembe véve a miniszter határozza meg.
 
-[^3]: A 2. § (2) bekezdése a 76/2014. (XII. 29.) BM rendelet 7. § b) pontja szerint módosított szöveg.
-[^4]: A 2. § (3) bekezdése a 76/2014. (XII. 29.) BM rendelet 7. § c) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 2. § (3) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés a) pontja szerint módosított szöveg.

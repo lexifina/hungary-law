@@ -1,4 +1,4 @@
-54. § (1)[^107] A KSZF főigazgatója által felkért, a rendészeti vezetőképzésben közreműködő előadót, a trénert, a vizsgáztató bizottság elnökét, tagjait és jegyzőjét vizsgáztatási díj illeti meg.
+54. § (1)[^107] A miniszter által felkért, a rendészeti vezetőképzésben közreműködő előadót, a trénert, a vizsgáztató bizottság elnökét, tagjait és jegyzőjét vizsgáztatási díj illeti meg.
 
 (2) Az előadók óradíja az illetményalap szociális hozzájárulási adóval növelt összegének 15%-a.
 
@@ -8,4 +8,4 @@
 
 (5) A jegyző díja az illetményalap szociális hozzájárulási adóval növelt összegének 2%-a.
 
-[^107]: Az 54. § (1) bekezdése a 76/2014. (XII. 29.) BM rendelet 7. § b) pontja szerint módosított szöveg.
+[^107]: Az 54. § (1) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés e) pontja szerint módosított szöveg.

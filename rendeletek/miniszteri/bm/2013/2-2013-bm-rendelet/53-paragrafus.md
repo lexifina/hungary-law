@@ -1,6 +1,6 @@
 ## 16. A rendészeti vezetőképzéssel és a Rendészeti Tehetséggondozási Programmal kapcsolatos költségek
 
-53. § (1)[^104] A rendészeti vezetőképzés és a Rendészeti Tehetséggondozási Program működtetésével kapcsolatos költségeket a KSZF költségvetésében külön szakfeladati számon kell tervezni és biztosítani.
+53. § (1)[^104] A rendészeti vezetőképzés és a Rendészeti Tehetséggondozási Program működtetésével kapcsolatos költségeket a minisztérium költségvetésében külön szakfeladati számon kell tervezni és biztosítani.
 
 (2) A rendészeti vezetővé képző tanfolyamon való részvétel egy főre eső díja az illetményalap szociális hozzájárulási adóval növelt összegének 200%-a.
 
@@ -16,8 +16,8 @@
 
 (8)[^105] Akit önhibájából a rendészeti vezetővé képző tanfolyamon vagy a rendészeti mestervezetővé képző tanfolyamon való újbóli részvételre köteleznek, köteles az ismételt felkészítő tanfolyam költségeit megfizetni.
 
-(9)[^106] A 3. § (3) bekezdésében meghatározott továbbképzésre a KSZF és az NKE közötti megállapodás alapján kerül sor. A teljesített továbbképzésről kiadott NKE igazolás alapján a KSZF megtéríti a megállapodásban rögzített költségeket.
+(9)[^106] A 3. § (3) bekezdésében meghatározott továbbképzésre a miniszter és az NKE közötti megállapodás alapján kerül sor. A teljesített továbbképzésről kiadott NKE igazolás alapján a minisztérium megtéríti a megállapodásban rögzített költségeket.
 
-[^104]: Az 53. § (1) bekezdése a 76/2014. (XII. 29.) BM rendelet 7. § c) pontja szerint módosított szöveg.
+[^104]: Az 53. § (1) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés i) pontja szerint módosított szöveg.
 [^105]: Az 53. § (8) bekezdése a 37/2015. (VI. 16.) BM rendelet 69. § (1) bekezdés 18. pontja szerint módosított szöveg.
-[^106]: A 53. § (9) bekezdése a 76/2014. (XII. 29.) BM rendelet 7. § d) pontja szerint módosított szöveg.
+[^106]: Az 53. § (9) bekezdése a 37/2016. (IX. 1.) BM rendelet 11. § (8) bekezdés m) pontja szerint módosított szöveg.

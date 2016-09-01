@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-2-20-0A
 | 2015-04-08 | 2013-2-20-0A.7 | 14/2015. (IV. 7.) BM rendelet |
 | 2015-07-01 | 2013-2-20-0A.8 | 37/2015. (VI. 16.) BM rendelet |
 | 2016-07-17 | 2013-2-20-0A.9 | 37/2015. (VI. 16.) BM rendelet |
+| 2016-09-01 | 2013-2-20-0A.10 | 37/2016. (IX. 1.) BM rendelet |

@@ -4,11 +4,15 @@
 
 ## 1. § E rendelet alkalmazásában:
 
-1. bejelentés-köteles továbbképzési program: minősítési eljáráshoz nem kötött továbbképzési pontértékkel bíró, a belügyi szerv által bejelentett, és az egyszerűsített nyilvántartásba vételi eljárás során nyilvántartásba vett továbbképzési program;
+1.[^1] bejelentés-köteles továbbképzési program: minősítési eljáráshoz nem kötött továbbképzési pontértékkel bíró és az egyszerűsített nyilvántartásba vételi eljárás során nyilvántartásba vett továbbképzési program;
 
 2. bejelentés-köteles továbbképzési program alapján folyó továbbképzés: a nyilvántartásba vett bejelentés-köteles továbbképzési program alapján folyó továbbképzési tevékenység, amely magában foglalja a képzésszervezési feladatok ellátását, valamint az oktatáshoz szükséges személyi és tárgyi feltételek biztosítását;
 
-3.[^1] belügyi szerv: a Belügyminisztérium, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 1. § (1) bekezdésében meghatározott – a belügyminiszter irányítása alatt álló – rendvédelmi feladatokat ellátó szervek, a Közszolgálati Személyzetfejlesztési Főigazgatóság (a továbbiakban: KSZF), a Belügyminisztérium Nemzetközi Oktatási Központ;
+3.[^2] belügyi szerv:
+
+a) a rendészetért felelős miniszter (a továbbiakban miniszter) által vezetett minisztérium (a továbbiakban: minisztérium), kivéve a 3. § (2) bekezdése, 5. § (1) bekezdés b) pont bb) alpontja, 6. § (3) bekezdése, 6. § (4) bekezdés c) és d) pontja, 11. § (2)–(8) bekezdése, 19. § (4) bekezdés a) pontja, 25. §, 27. § (2) bekezdése, 51. § (3) bekezdése tekintetében, valamint
+
+b) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 1. § (1) bekezdésében meghatározott – a miniszter irányítása alatt álló – rendvédelmi feladatokat ellátó szervek;
 
 4. egyéni továbbképzési terv: a hivatásos állomány tagja részére a belügyi szerv által a tárgyévre előírt továbbképzési kötelezettségek és egyéni fejlesztési igények teljesítését biztosító képzési terv;
 
@@ -26,7 +30,8 @@
 
 11. Rendészeti Vezetőképzési és Tehetséggondozási Rendszer: egy olyan emberi erőforrás-gazdálkodási folyamat, amely a belügyi szerv hivatásos állományának arra alkalmas tagjai rendészeti vezetővé vagy rendészeti szakértővé válását segíti elő, valamint egyéb karriermenedzselési tevékenységeket tartalmaz;
 
-12.[^2] továbbképzési programminősítés: a felsőoktatási, az akkreditált felnőttképzési, továbbá a köznevelési intézmény (a továbbiakban együtt: intézményi akkreditációval rendelkező képzőintézmények) által fejlesztett továbbképzési programok kérelemre történő, minőségi megfelelőségének tanúsítása.
+12.[^3] továbbképzési programminősítés: a felsőoktatási, az akkreditált felnőttképzési, továbbá a köznevelési intézmény (a továbbiakban együtt: intézményi akkreditációval rendelkező képzőintézmények) által fejlesztett továbbképzési programok kérelemre történő, minőségi megfelelőségének tanúsítása.
 
-[^1]: Az 1. § 3. pontja a 37/2015. (VI. 16.) BM rendelet 65. §-ával megállapított, a 29/2016. (VII. 15.) BM rendelet 24. §-a szerint módosított szöveg.
-[^2]: Az 1. § 12. pontja a 37/2015. (VI. 16.) BM rendelet 69. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^1]: Az 1. § 1. pontja a 37/2016. (IX. 1.) BM rendelet 11. § (9) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 1. § 3. pontja a 37/2016. (IX. 1.) BM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § 12. pontja a 37/2015. (VI. 16.) BM rendelet 69. § (1) bekezdés 1. pontja szerint módosított szöveg.
