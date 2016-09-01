@@ -8,6 +8,6 @@
 
 (4) A BÁHBÁ esetében a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek minősülnek a szociális munkás, valamint a pénzügyi ügyintéző munkakörök.
 
-(5)[^5] A hivatásos katasztrófavédelmi szerveknél a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek – kizárólag a polgári védelmi és a tűzoltó szakterületeken meglévő – csoportvezető, főelőadó, jogtanácsos, kiemelt főelőadó munkakörök minősülnek.
+(5)[^4] A hivatásos katasztrófavédelmi szerveknél a gyakornoki idővel, valamint a munkaerő-kölcsönzéssel kapcsolatban a munkáltató alaptevékenysége ellátásával összefüggő munkakörnek – kizárólag a polgári védelmi és a tűzoltó szakterületeken meglévő – csoportvezető, főelőadó, jogtanácsos, kiemelt főelőadó munkakörök minősülnek.
 
-[^5]: A 3. § (5) bekezdése a 46/2012. (IX. 20.) BM rendelet 2. §-ával megállapított szöveg.
+[^4]: A 3. § (5) bekezdése a 46/2012. (IX. 20.) BM rendelet 2. §-ával megállapított szöveg.

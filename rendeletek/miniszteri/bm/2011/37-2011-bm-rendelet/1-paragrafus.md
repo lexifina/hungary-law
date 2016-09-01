@@ -8,15 +8,12 @@ b) a Büntetés-végrehajtás Országos Parancsnokságán, a büntetés-végreha
 
 c) a Bevándorlási és Állampolgársági Hivatal befogadó állomásain (a továbbiakban: BÁHBÁ),
 
-d)[^1] a Belügyminisztérium Nemzetközi Oktatási Központnál (a továbbiakban: BM NOK),
+d)–e)[^1]
 
-e)[^2] a Közszolgálati Személyzetfejlesztési Főigazgatóságon (a továbbiakban: KSZF),
+f)[^2] a hivatásos katasztrófavédelmi szerveknél (a továbbiakban: hivatásos katasztrófavédelmi szervek),
 
-f)[^3] a hivatásos katasztrófavédelmi szerveknél (a továbbiakban: hivatásos katasztrófavédelmi szervek),
+g)[^3] az Országos Vízügyi Főigazgatóságon és a vízügyi igazgatóságokon (a továbbiakban együtt: vízügyi igazgatási szervek)
 
-g)[^4] az Országos Vízügyi Főigazgatóságon és a vízügyi igazgatóságokon (a továbbiakban együtt: vízügyi igazgatási szervek)
-
-[^1]: Az 1. § d) pontja a 46/2012. (IX. 20.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § e) pontja a 46/2012. (IX. 20.) BM rendelet 1. § (1) bekezdésével megállapított, a 16/2015. (IV. 17.) BM rendelet 2. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § f) pontja a 46/2012. (IX. 20.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: Az 1. § g) pontját a 46/2012. (IX. 20.) BM rendelet 1. § (2) bekezdése iktatta be.
+[^1]: Az 1. § d)–e) pontját a 37/2016. (IX. 1.) BM rendelet 6. § a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § f) pontja a 46/2012. (IX. 20.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § g) pontját a 46/2012. (IX. 20.) BM rendelet 1. § (2) bekezdése iktatta be.

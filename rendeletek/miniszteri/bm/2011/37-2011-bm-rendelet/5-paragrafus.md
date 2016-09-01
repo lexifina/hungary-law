@@ -2,7 +2,7 @@
 
 ## 4. A Kjt. 23. §-ához
 
-5. §[^6] (1) Az 1. § a)–f) pontjában meghatározott munkáltatóknál magasabb vezető:
+5. §[^5] (1) Az 1. § a)–f) pontjában meghatározott munkáltatóknál magasabb vezető:
 
 a) a főigazgató,
 
@@ -30,7 +30,7 @@ c) a gazdasági igazgató-helyettes,
 
 d) az igazgató,
 
-e)[^7] a műszaki főigazgató-helyettes (főmérnök), valamint
+e)[^6] a műszaki főigazgató-helyettes (főmérnök), valamint
 
 f) a műszaki igazgató-helyettes.
 
@@ -44,7 +44,7 @@ c) a gazdasági osztályvezető, valamint
 
 d) a büntetés-végrehajtási szerv kivételével az osztályvezető-helyettes.
 
-(4)[^8] Az 1. § g) pontjában meghatározott munkáltatóknál vezető:
+(4)[^7] Az 1. § g) pontjában meghatározott munkáltatóknál vezető:
 
 a) a főosztályvezető,
 
@@ -80,6 +80,6 @@ m) a levéltárvezető.
 
 (8) A vezetői megbízás legfeljebb öt évig terjedő időtartamra adható. A határozott idő lejártát követően a közalkalmazott ismételten megbízható a vezetői beosztás ellátásával.
 
-[^6]: Az 5. § a 46/2012. (IX. 20.) BM rendelet 3. §-ával megállapított szöveg.
-[^7]: Az 5. § (2) bekezdés e) pontja az 1/2016. (I. 7.) BM rendelet 4. §-a szerint módosított szöveg.
-[^8]: Az 5. § (4) bekezdése az 1/2016. (I. 7.) BM rendelet 2. §-ával megállapított szöveg.
+[^5]: Az 5. § a 46/2012. (IX. 20.) BM rendelet 3. §-ával megállapított szöveg.
+[^6]: Az 5. § (2) bekezdés e) pontja az 1/2016. (I. 7.) BM rendelet 4. §-a szerint módosított szöveg.
+[^7]: Az 5. § (4) bekezdése az 1/2016. (I. 7.) BM rendelet 2. §-ával megállapított szöveg.
