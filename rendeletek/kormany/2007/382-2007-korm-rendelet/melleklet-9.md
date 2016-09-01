@@ -1,4 +1,4 @@
-9. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^107]
+9. számú melléklet a 382/2007. (XII. 23.) Korm. rendelethez[^110]
 
 ## Bontási engedély és bontás tudomásulvétele nélkül végezhető bontási tevékenységek
 
@@ -8,4 +8,4 @@
 
 3. Bruttó 50 m3 térfogatot meg nem haladó felvonulási épület bontása.
 
-[^107]: A 9. számú mellékletet a 441/2015. (XII. 28.) Korm. rendelet 100. § (5) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^110]: A 9. számú mellékletet a 441/2015. (XII. 28.) Korm. rendelet 100. § (5) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

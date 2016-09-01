@@ -6,7 +6,7 @@ b) az üzembe helyezés során betartották-e a külön jogszabályban foglalt k
 
 c) az üzembe helyezési eljárás során a meghívottak által adott nyilatkozatban foglaltak megvalósultak-e.
 
-(1a)[^59] Közcélú, magán-, termelői és közvetlen vezetékre üzemeltetési engedély csak akkor adható, ha a kérelmező az üzemeltetési engedély iránti kérelemhez csatolja az e-közmű adatszolgáltatásra kötelezett leendő üzemeltető igazolását a geodéziai bemérésben szereplő nyomvonal ellenőrzéséről, adatszolgáltatási szintek szerinti minősítéséről és nyilvántartásba vételéről. A Hatóság az üzemeltetési engedélyt közli a közcélú, magán-, termelői és közvetlen vezeték üzemeltetőjével is.
+(1a)[^60] Közcélú, magán-, termelői és közvetlen vezetékre üzemeltetési engedély csak akkor adható, ha a kérelmező az üzemeltetési engedély iránti kérelemhez csatolja az e-közmű adatszolgáltatásra kötelezett leendő üzemeltető igazolását a geodéziai bemérésben szereplő nyomvonal ellenőrzéséről, adatszolgáltatási szintek szerinti minősítéséről és nyilvántartásba vételéről. A Hatóság az üzemeltetési engedélyt közli a közcélú, magán-, termelői és közvetlen vezeték üzemeltetőjével is.
 
 (2) Az (1) bekezdés alapján a Hatóság az üzemeltetési engedélyt megadja, az engedély megadását a hiányzó feltételek teljesítéséhez kötheti, vagy a további üzemeltetést megtiltja.
 
@@ -14,4 +14,4 @@ c) az üzembe helyezési eljárás során a meghívottak által adott nyilatkoza
 
 (4) Ha az (1) bekezdésben felsorolt építmények további feltételek előírásával sem feleltethetők meg a jogszabályban meghatározott követelményeknek, a Hatóság azok bontását rendeli el.
 
-[^59]: A 26. § (1a) bekezdését a 324/2013. (VIII. 29.) Korm. rendelet 18. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 11–15. §-át.
+[^60]: A 26. § (1a) bekezdését a 324/2013. (VIII. 29.) Korm. rendelet 18. § (1) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 11–15. §-át.
