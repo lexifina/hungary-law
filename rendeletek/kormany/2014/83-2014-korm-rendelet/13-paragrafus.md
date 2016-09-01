@@ -6,7 +6,7 @@
 
 (3)[^8] A készítő a tervdokumentációra vonatkozóan beszerzi a tervezési területtel érintett
 
-a)[^9] központi államigazgatási szervek területi szervei – így különösen a környezetvédelmi és természetvédelmi feladatkörükben eljáró megyei kormányhivatalok, a működési területük szerint érintett nemzeti park igazgatóságok –, a Honvédelmi Minisztérium Hatósági Hivatala,
+a)[^9] központi államigazgatási szervek területi szervei – így különösen a környezetvédelmi és természetvédelmi feladatkörükben eljáró megyei kormányhivatalok, a működési területük szerint érintett nemzeti park igazgatóságok –, a Honvédelmi Minisztérium,
 
 b) a települési önkormányzatok, valamint
 
@@ -34,7 +34,7 @@ c) az agrárkamarák, továbbá ipari és kereskedelmi kamarák
 
 [^7]: A 13. § (2) bekezdése a 100/2016. (V. 13.) Korm. rendelet 23. §-ával megállapított szöveg.
 [^8]: A 13. § (3) bekezdés nyitó szövegrésze a 100/2016. (V. 13.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
-[^9]: A 13. § (3) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 247. §-a szerint módosított szöveg.
+[^9]: A 13. § (3) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 247. §-a, a 259/2016. (VIII. 31.) Korm. rendelet 12. §-a szerint módosított szöveg.
 [^10]: A 13. § (4) bekezdése a 100/2016. (V. 13.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
 [^11]: A 13. § (5) bekezdése a 100/2016. (V. 13.) Korm. rendelet 26. § d)–f) pontja szerint módosított szöveg.
 [^12]: A 13. § (6) bekezdése a 100/2016. (V. 13.) Korm. rendelet 26. § g) pontja szerint módosított szöveg.
