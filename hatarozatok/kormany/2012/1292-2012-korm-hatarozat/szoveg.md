@@ -60,7 +60,7 @@ a) a megbízatásra méltatlanná válik,
 
 b) a megbízatásból adódó feladatokat nem látja el, vagy nem képes ellátni.
 
-10. A Tanács működtetésével kapcsolatos titkársági teendőket a Nemzeti Család- és Szociálpolitikai Intézet látja el.
+10.[^2] A Tanács működtetésével kapcsolatos titkársági teendőket az Emberi Erőforrás Támogatáskezelő látja el.
 
 11. A Tanács a miniszter által – a Tanács tagjainak előzetes véleményére figyelemmel – meghatározott ügyrend és munkaterv szerint, de legalább negyedévente ülésezik. A Tanács feladatainak végrehajtásáról évente két alkalommal írásban tájékoztatja a minisztert.
 
@@ -71,3 +71,4 @@ b) a megbízatásból adódó feladatokat nem látja el, vagy nem képes ellátn
 14. Ez a határozat a közzétételét követő napon lép hatályba.
 
 [^1]: Az 5. pont c) pont ce) alpontját az 1222/2015. (IV. 20.) Korm. határozat 1. pontja iktatta be.
+[^2]: A 10. pont az 1428/2016. (VIII. 18.) Korm. határozat 1. pontjával megállapított szöveg.
