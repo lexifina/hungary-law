@@ -1,0 +1,1 @@
+## 4. § A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII. 13.) Korm. rendelet 6. § (3) bekezdés h) pontjában a „Közlekedésbiztonsági Szervezet által üzemben tartott gépjárművek” szövegrész helyébe a „közlekedésbiztonsági szerv által használt gépjárművek” szöveg lép.

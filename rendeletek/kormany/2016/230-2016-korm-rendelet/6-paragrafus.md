@@ -1,0 +1,1 @@
+## 5. § Az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló 288/2009. (XII. 15.) Korm. rendelet 1. melléklet Országos Statisztikai Adatgyűjtési Program Adatgyűjtések és Adatátvételek rész 2166. sorában a „Közlekedésbiztonsági Szervezet” szövegrész helyébe a „közlekedésbiztonsági szerv” szöveg lép.
