@@ -66,8 +66,8 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 16. | Bányászat | Veszprém Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 17. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+| 17. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
 | 18. | Rendészet: az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Soproni Rendőrkapitányság | Győr-Moson-Sopron Megyei Rendőr-főkapitányság |
 
-[^5]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 104. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^5]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 104. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 20. §-a szerint módosított szöveg.
