@@ -1,196 +1,380 @@
-## A belügyminiszter ágazatába tartozó szakképesítések rendszere
+## A belügyminiszter felelősségi körébe tartozó szakképesítések
 
 |  |  | A | B | C |
 
-| 1. | Sor- szám | Szakképesítés azonosító száma | Szakképesítés/ részszakképesítés/ szakképesítés-ráépülés megnevezése | Szakmacsoport megnevezése |
+| 1. | Sorszám | Szakképesítés azonosító száma | Szakképesítés/részszakképesítés/szakképesítés-ráépülés megnevezése | Szakmacsoport megnevezése |
 
-| 2. | 1. | 52 | 861 | 01 | Biztonságszervező | Közszolgálat |
+| 2. | 1. | 55 | 861 | 01 | Baleseti helyszínelő | Rendészet, honvédelem és közszolgálat |
 
-| 3. | 2. | 52 | 861 | 02 | Büntetés-végrehajtási felügyelő | Közszolgálat |
+| 3. | 2. | 52 | 861 | 01 | Biztonságszervező | Rendészet, honvédelem és közszolgálat |
 
-| 4. | 3. | 31 | 861 | 01 | Büntetés-végrehajtási őr | Közszolgálat |
+| 4. | 3. | 53 | 861 | 01 | Büntetés-végrehajtási egészségügyi főfelügyelő | Rendészet, honvédelem és közszolgálat |
 
-| 5. | 4. | 31 | 861 | 02 | Büntetés-végrehajtási segédfelügyelő | Közszolgálat |
+| 5. | 4. | 52 | 861 | 02 | Büntetés-végrehajtási felügyelő | Rendészet, honvédelem és közszolgálat |
 
-| 6. | 5. | 53 | 861 | 01 | Büntetés-végrehajtási egészségügyi főfelügyelő | Közszolgálat |
+| 6. | 5. | 53 | 861 | 02 | Büntetés-végrehajtási főfelügyelő | Rendészet, honvédelem és közszolgálat |
 
-| 7. | 6. | 53 | 861 | 02 | Büntetés-végrehajtási főfelügyelő | Közszolgálat |
+| 7. | 6. | 53 | 861 | 03 | Büntetés-végrehajtási gazdálkodási főfelügyelő | Rendészet, honvédelem és közszolgálat |
 
-| 8. | 7. | 53 | 861 | 03 | Büntetés-végrehajtási gazdálkodási főfelügyelő | Közszolgálat |
+| 8. | 7. | 53 | 861 | 04 | Büntetés-végrehajtási igazgatási főfelügyelő | Rendészet, honvédelem és közszolgálat |
 
-| 9. | 8. | 53 | 861 | 04 | Büntetés-végrehajtási igazgatási főfelügyelő | Közszolgálat |
+| 9. | 8. | 31 | 861 | 01 | Büntetés-végrehajtási őr | Rendészet, honvédelem és közszolgálat |
 
-| 10. | 9. | 35 | 861 | 01 | Elektronikus vagyonvédelmi rendszerszerelő | Egyéb szolgáltatások |
+| 10. | 9. | 31 | 861 | 02 | Büntetés-végrehajtási segédfelügyelő | Rendészet, honvédelem és közszolgálat |
 
-| 11. |  |  |  |  |  |  |
+| 11. | 10. | 55 | 861 | 02 | Bűnügyi technikus | Rendészet, honvédelem és közszolgálat |
 
-| 12. |  |  |  |  |  |  |
+| 12. | 11. | 51 | 861 | 01 | Csapatszolgálati járőrtárs | Rendészet, honvédelem és közszolgálat |
 
-| 13. | 12. | 52 | 861 | 03 | Katasztrófavédelmi előadó | Közszolgálat |
+| 13. | 12. | 51 | 853 | 03 | Csatornamű-kezelő | Vízügy |
 
-| 14. | 13. | 53 | 861 | 06 | Katasztrófavédelmi főelőadó | Közszolgálat |
+| 14. | 13. | 35 | 861 | 01 | Elektronikus vagyonvédelmi rendszerszerelő | Egyéb szolgáltatások |
 
-| 15. | 14. | 52 | 861 | 04 | Katasztrófavédelmi szakelőadó | Közszolgálat |
+| 15. | 14. | 53 | 861 | 05 | Fegyveres biztonsági őr | Rendészet, honvédelem és közszolgálat |
 
-| 16. | 15. | 53 | 861 | 07 | Katasztrófavédelmi referens | Közszolgálat |
+| 16. | 15. | 55 | 861 | 03 | Fő határrendész | Rendészet, honvédelem és közszolgálat |
 
-| 17. | 16. | 32 | 853 | 02 | Kéményseprő | Gépészet |
+| 17. | 16. | 51 | 853 | 02 | Fürdőüzemi gépész | Vízügy |
 
-| 18. | 17. | 52 | 861 | 05 | Közterület-felügyelő | Közszolgálat |
+| 18. | 17. | 31 | 853 | 04 | Gát- és csatornaőr | Vízügy |
 
-| 19. | 18. | 52 | 861 | 06 | Magánnyomozó | Közszolgálat |
+| 19. | 18. | 51 | 861 | 02 | Járőr | Rendészet, honvédelem és közszolgálat |
 
-| 20. | 19. | 35 | 861 | 02 | Mechanikus vagyonvédelmi szerelő | Egyéb szolgáltatások |
+| 20. | 19. | 52 | 861 | 03 | Katasztrófavédelmi előadó | Rendészet, honvédelem és közszolgálat |
 
-| 21. | 20. | 52 | 347 | 07 | Migrációs ügyintéző | Közszolgálat |
+| 21. | 20. | 53 | 861 | 06 | Katasztrófavédelmi főelőadó | Rendészet, honvédelem és közszolgálat |
 
-| 22. |  |  |  |  |  |  |
+| 22. | 21. | 52 | 861 | 04 | Katasztrófavédelmi szakelőadó | Rendészet, honvédelem és közszolgálat |
 
-| 23. | 22. | 62 | 861 | 01 | Rendészeti szervező (a szakmairány megjelölésével) – Bűnügyi szervező – Közlekedési és közrendvédelmi szervező – Határrendészeti szervező – Katasztrófavédelmi szervező – Tűzvédelmi szervező – Iparbiztonsági szervező – Büntetés-végrehajtási szervező | Közszolgálat |
+| 23. | 22. | 53 | 861 | 07 | Katasztrófavédelmi referens | Rendészet, honvédelem és közszolgálat |
 
-| 24. | 23. | 54 | 861 | 01 | Rendőr tiszthelyettes (a szakmairány megjelölésével) – Bűnügyi rendőr – Közlekedési rendőr – Közrendvédelmi rendőr – Határrendészeti rendőr | Közszolgálat |
+| 24. | 23. | 32 | 853 | 02 | Kéményseprő | Gépészet |
 
-| 25. | 24. | 51 | 861 | 03 | Őr-járőrtárs | Közszolgálat |
+| 25. | 24. | 55 | 861 | 04 | Körzeti megbízott | Rendészet, honvédelem és közszolgálat |
 
-| 26. | 25. | 51 | 861 | 01 | Csapatszolgálati járőrtárs | Közszolgálat |
+| 26. | 25. | 52 | 861 | 05 | Közterület-felügyelő | Rendészet, honvédelem és közszolgálat |
 
-| 27. | 26. | 51 | 861 | 02 | Járőr | Közszolgálat |
+| 27. | 26. | 52 | 345 | 01 | Közszolgálati ügyintéző | Rendészet, honvédelem és közszolgálat |
 
-| 28. | 27. | 55 | 861 | 01 | Baleseti helyszínelő | Közszolgálat |
+| 28. | 27. | 52 | 345 | 04 | Közszolgálati ügykezelő | Rendészet, honvédelem és közszolgálat |
 
-| 29. | 28. | 55 | 861 | 02 | Bűnügyi technikus | Közszolgálat |
+| 29. | 28. | 55 | 861 | 05 | Kutyavezető-rendőr | Rendészet, honvédelem és közszolgálat |
 
-| 30. | 29. | 55 | 861 | 03 | Fő határrendész | Közszolgálat |
+| 30. | 29. | 33 | 861 | 01 | Kutyavezető-vagyonőr | Rendészet, honvédelem és közszolgálat |
 
-| 31. | 30. | 55 | 861 | 04 | Körzeti megbízott | Közszolgálat |
+| 31. | 30. | 52 | 861 | 06 | Magánnyomozó | Rendészet, honvédelem és közszolgálat |
 
-| 32. | 31. | 55 | 861 | 05 | Kutyavezető-rendőr | Közszolgálat |
+| 32. | 31. | 35 | 861 | 02 | Mechanikus vagyonvédelmi szerelő | Egyéb szolgáltatások |
 
-| 33. | 32. | 55 | 861 | 06 | Okmányvizsgáló | Közszolgálat |
+| 33. | 32. | 52 | 347 | 07 | Migrációs ügyintéző | Rendészet, honvédelem és közszolgálat |
 
-| 34. | 33. | 55 | 861 | 07 | Rendőr zászlós | Közszolgálat |
+| 34. | 33. | 55 | 861 | 06 | Okmányvizsgáló | Rendészet, honvédelem és közszolgálat |
 
-| 35. | 34. | 32 | 861 | 01 | Személy- és vagyonőr | Közszolgálat |
+| 35. | 34. | 51 | 861 | 03 | Őr-járőrtárs | Rendészet, honvédelem és közszolgálat |
 
-| 36. | 35. | 53 | 861 | 05 | Fegyveres biztonsági őr | Közszolgálat |
+| 36. | 35. | 34 | 861 | 01 | Rendészeti őr | Rendészet, honvédelem és közszolgálat |
 
-| 37. | 36. | 33 | 861 | 01 | Kutyavezető-vagyonőr | Közszolgálat |
+| 37. | 36. | 52 | 861 | 11 | Rendészeti ügyintéző | Rendészet, honvédelem és közszolgálat |
 
-| 38. | 37. | 33 | 861 | 02 | Testőr | Közszolgálat |
+| 38. | 37. | 62 | 861 | 01 | Rendészeti szervező (a szakmairány megjelölésével) - Bűnügyi szervező - Közlekedési és közrendvédelmi szervező - Határrendészeti szervező - Katasztrófavédelmi szervező - Tűzvédelmi szervező - Iparbiztonsági szervező - Büntetés-végrehajtási szervező | Rendészet, honvédelem és közszolgálat |
 
-| 39. | 38. | 52 | 853 | 01 | Temetkezési szolgáltató | Egyéb szolgáltatások |
+| 39. | 38. | 54 | 861 | 01 | Rendőr tiszthelyettes (a szakmairány megjelölésével) - Bűnügyi rendőr - Közlekedési rendőr - Közrendvédelmi rendőr - Határrendészeti rendőr | Rendészet, honvédelem és közszolgálat |
 
-| 40. | 39. | 52 | 861 | 08 | Tűzoltó I. | Közszolgálat |
+| 40. | 39. | 55 | 861 | 07 | Rendőr zászlós | Rendészet, honvédelem és közszolgálat |
 
-| 41. | 40. | 31 | 861 | 03 | Tűzoltó II. | Közszolgálat |
+| 41. | 40. | 32 | 861 | 01 | Személy- és vagyonőr | Rendészet, honvédelem és közszolgálat |
 
-| 42. | 41. | 53 | 861 | 08 | Tűzoltó szerparancsnok | Közszolgálat |
+| 42. | 41. | 51 | 853 | 04 | Szivattyútelepi duzzasztóműkezelő és fenntartó gépész | Vízügy |
 
-| 43. | 42. | 53 | 861 | 09 | Tűzoltósági referens | Közszolgálat |
+| 43. | 42. | 52 | 853 | 01 | Temetkezési szolgáltató | Egyéb szolgáltatások |
 
-| 44. | 43. | 52 | 861 | 10 | Tűzvédelmi előadó | Közszolgálat |
+| 44. | 43. | 33 | 861 | 02 | Testőr | Rendészet, honvédelem és közszolgálat |
 
-| 45. | 44. | 53 | 861 | 10 | Tűzvédelmi főelőadó | Közszolgálat |
+| 45. | 44. | 52 | 861 | 08 | Tűzoltó I. | Rendészet, honvédelem és közszolgálat |
 
-| 46. | 45. | 31 | 853 | 01 | Csatornamű-kezelő | Vízgazdálkodás |
+| 46. | 45. | 31 | 861 | 03 | Tűzoltó II. | Rendészet, honvédelem és közszolgálat |
 
-| 47. | 46. | 31 | 853 | 02 | Fürdőüzemi gépész | Vízgazdálkodás |
+| 47. | 46. | 53 | 861 | 08 | Tűzoltó szerparancsnok | Rendészet, honvédelem és közszolgálat |
 
-| 48. | 47. | 34 | 853 | 01 | Víz- és csatornaműkezelő | Vízgazdálkodás |
+| 48. | 47. | 53 | 861 | 09 | Tűzoltósági referens | Rendészet, honvédelem és közszolgálat |
 
-| 49. | 48. | 51 | 853 | 01 | Víz- és szennyvízkezelő | Vízgazdálkodás |
+| 49. | 48. | 52 | 861 | 10 | Tűzvédelmi előadó | Rendészet, honvédelem és közszolgálat |
 
-| 50. | 49. | 31 | 853 | 04 | Vízműkezelő | Vízgazdálkodás |
+| 50. | 49. | 53 | 861 | 10 | Tűzvédelmi főelőadó | Rendészet, honvédelem és közszolgálat |
 
-| 51. | 50. | 54 | 853 | 01 | Vízügyi technikus | Vízgazdálkodás |
+| 51. | 50. | 55 | 853 | 01 | Vízépítő szaktechnikus | Vízügy |
 
-| 52. | 51. | 55 | 850 | 06 | Vízgazdálkodó szaktechnikus | Környezetvédelem-vízgazdálkodás |
+| 52. | 51. | 54 | 853 | 02 | Vízgazdálkodó technikus | Vízügy |
 
-| 53. | 52. | 31 | 853 | 03 | Vízkárelhárító | Környezetvédelem- vízgazdálkodás |
+| 53. | 52. | 54 | 853 | 03 | Vízgépészeti technikus | Vízügy |
 
-2. melléklet a 20/2013. (V. 28.) BM rendelethez[^4]
+| 54. | 53. | 54 | 853 | 04 | Víziközmű technikus | Vízügy |
 
-Az 1. sorszámú Biztonságszervező megnevezésű szakképesítés szakmai és vizsgakövetelménye
+| 55. | 54. | 31 | 853 | 03 | Vízkárelhárító | Vízügy |
 
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+| 56. | 55. | 31 | 853 | 07 | Vízminőség vizsgáló | Vízügy |
 
-1.1. A szakképesítés azonosító száma: 52 861 01
+| 57. | 56. | 55 | 853 | 02 | Vízminőség-védelmi szaktechnikus | Vízügy |
 
-1.2. Szakképesítés megnevezése: Biztonságszervező
+| 58. | 57. | 51 | 853 | 05 | Vízműkezelő | Vízügy |
 
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
+| 59. | 58. | 51 | 853 | 06 | Vízrajzi állomás üzemeltető | Vízügy |
 
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 600-700
+| 60. | 59. | 34 | 853 | 02 | Vízügyi szakmunkás | Vízügy |
 
-2. EGYÉB ADATOK
+| 61. | 60. | 52 | 853 | 03 | Vízügyi ügyintéző | Vízügy |
+
+2. melléklet a 20/2013. (V. 28.) BM rendelethez[^6]
+
+AZ 1. SORSZÁMÚ BALESETI HELYSZÍNELŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+1. Az Országos Képzési Jegyzékben szereplő adatok
+
+1.1. A szakképesítés-ráépülés azonosító száma: 55 861 01
+
+1.2. Szakképesítés-ráépülés megnevezése: Baleseti helyszínelő
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 300-600
+
+2. Egyéb adatok
 
 2.1. A képzés megkezdésének feltételei:
 
 2.1.1. Iskolai előképzettség: érettségi végzettség
 
-2.1.2. Bemeneti kompetenciák: -
+2.1.2. Bemeneti kompetenciák: –
 
-2.2. Szakmai előképzettség: -
+2.2. Szakmai előképzettség: 54 861 01 Rendőr tiszthelyettes szakképesítés
 
-2.3. Előírt gyakorlat: -
+2.3. Előírt gyakorlat: –
 
 2.4. Egészségügyi alkalmassági követelmények: szükségesek
 
 2.5. Pályaalkalmassági követelmények: -
 
+2.6. Elméleti képzési idő aránya: 40%
+
+2.7. Gyakorlati képzési idő aránya: 60%
+
+2.8. Szintvizsga: –
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
+
+3. Pályatükör
+
+3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör, foglalkozás
+
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | a szakképesítés-ráépüléssel betölthető munkakör(ök) |
+
+| 3.1.2. | 5251 | Rendőr | Baleseti helyszínelő |
+
+3.2. A szakképesítés-ráépülés munkaterületének rövid leírása
+
+Baleseteket kivizsgál, helyszínt és nyomokat biztosít, tanúkat kihallgat, feljegyzéseket és jegyzeteket összeállít, bizonyítékokat szolgáltat.
+
+A szakképesítés-ráépüléssel rendelkező képes:
+
+- elsődleges hatáskör alapján elvégezni a személyi sérüléssel nem járó közlekedési balesetekkel kapcsolatos intézkedést
+
+- közlekedés körében elkövetett bűncselekmény, személyi sérüléssel járó és rendkívüli halált okozó baleset esetén helyszíni szemlét végrehajtani
+
+- alkalmazni a balesethelyszínelés végrehajtásához szükséges technikai-, és egyéb eszközöket
+
+- intézkedni meghatározott személyeket, külföldieket és egyéb speciális személyi kört érintő közlekedési baleseteknél
+
+- végrehajtani a veszélyes árut szállító járművek, valamint a közlekedés egyes ágazataiban bekövetkezett balesetek helyszínén szükségessé váló intézkedéseket
+
+- közúti közlekedési balesetek esetén járművekkel, személyekkel, úttal kapcsolatos, a baleset jellegéhez kapcsolódó helyszíni sajátosságokat, a baleset érintettjeire vonatkozó speciális jellemzőket rögzíteni, elemezni, értékelni
+
+- egyéb speciális adatokat rögzíteni
+
+- dokumentálni a baleset helyszínén végrehajtott eljárási cselekményeket, intézkedéseket, és részt venni a szemlebizottság munkájában
+
+- végrehajtani az elsődleges intézkedési feladatokat, speciális kötelezettségeket vízi, légi vasúti balesetek esetén, és szükség esetén értesíteni a társhatóságokat
+
+3.3. Kapcsolódó szakképesítések
+
+|  | A | B | C |
+
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+| 3.3.3. | 54 861 01 | Rendőr tiszthelyettes (Bűnügyi-rendőr) | szakképesítés |
+
+| 3.3.4. | 54 861 01 | Rendőr tiszthelyettes (Határrendészeti-rendőr) | szakképesítés |
+
+| 3.3.5. | 54 861 01 | Rendőr tiszthelyettes (Közlekedési rendőr) | szakképesítés |
+
+| 3.3.6. | 54 861 01 | Rendőr tiszthelyettes (Közrendvédelmi rendőr) | szakképesítés |
+
+4. Szakmai követelmények
+
+|  | A | B |
+
+| 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+
+| 4.2. | azonosító száma | megnevezése |
+
+| 4.3. | 10405-12 | Baleseti helyszínelő feladatai |
+
+5. Vizsgáztatási követelmények
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei
+
+Iskolarendszeren kívüli szakképzés esetén az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
+
+|  | A | B | C |
+
+| 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
+
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.3. | 10405-12 | Baleseti helyszínelő feladatai | írásbeli, szóbeli, gyakorlati |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
+
+5.3.1. Gyakorlati vizsgatevékenység
+
+A vizsgafeladat megnevezése: Baleseti helyszínelő gyakorlati feladatok
+
+A vizsgafeladat ismertetése: Egy beállított helyszín komplett dokumentációjának részfeladatát végzi el.
+
+A vizsgafeladat időtartama: 45 perc
+
+A vizsgafeladat értékelési súlyaránya: 40%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Baleseti helyszínelő írásbeli vizsgafeladatok
+
+A vizsgafeladat ismertetése: Egy vizsgafeladat lap kitöltésének elvégzése.
+
+A vizsgafeladat időtartama: 90 perc
+
+A vizsgafeladat értékelési súlyaránya: 30%
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Baleseti helyszínelő szóbeli vizsgafeladatok (jogi és kriminalisztikai ismeretek)
+
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények pontban megadott modulokhoz tartozó témakörök mindegyikét tartalmazza.
+
+A vizsgafeladat időtartama: 15 perc (ebből felkészülési idő: 5 perc, válaszadási idő 10 perc)
+
+A vizsgafeladat értékelési súlyaránya: 30%
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
+
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
+
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
+
+6. Eszköz és felszerelési jegyzék
+
+|  | A |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Tanterem (oktatástechnikai eszközökkel) |
+
+| 6.3. | Számítástechnikai szakkabinet |
+
+| 6.4. | Szolgálati járművek |
+
+| 6.5. | Digitális tükörreflexes fényképezőgépek |
+
+| 6.6. | Videokamerák |
+
+| 6.7. | Mérőeszközök |
+
+| 6.8. | Forgalom (el)terelő eszközök |
+
+| 6.9. | Speciális világító eszközök |
+
+| 6.10. | Speciális csomagoló- és hitelesítő-anyagok |
+
+| 6.11. | Speciális nyomtatványok |
+
+| 6.12. | Eszközök számára táskák |
+
+7. Egyebek
+
+7.1. Validáció: -
+
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
+
+|  | A | B | C |
+
+| 7.2.1. | azonosító száma | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+
+| 7.2.2. | 55 861 01 | Baleseti helyszínelő | Országos Rendőr-főkapitányság |
+
+A 2. SORSZÁMÚ BIZTONSÁGSZERVEZŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+1. Az Országos Képzési Jegyzékben szereplő adatok
+
+1.1. A szakképesítés azonosító száma: 52 861 01
+
+1.2. Szakképesítés megnevezése: Biztonságszervező
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 350-450
+
+2. Egyéb adatok
+
+2.1. A képzés megkezdésének feltételei:
+
+2.1.1. Iskolai előképzettség: érettségi végzettség
+
+2.1.2. Bemeneti kompetenciák: –
+
+2.2. Szakmai előképzettség: –
+
+2.3. Előírt gyakorlat: –
+
+2.4. Egészségügyi alkalmassági követelmények: szükségesek
+
+2.5. Pályaalkalmassági követelmények: –
+
 2.6. Elméleti képzési idő aránya: 50%
 
 2.7. Gyakorlati képzési idő aránya: 50%
 
-2.8. Szintvizsga: -
+2.8. Szintvizsga: –
 
-2.9. Az iskolai rendszeren kívüli szakképzésben az összefüggő szakmai gyakorlat: -
+2.9. Az iskolai rendszeren kívüli szakképzésben az összefüggő szakmai gyakorlat: –
 
-3. PÁLYATÜKÖR
+3. Pályatükör
 
-3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
+3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
 
 |  | A | B | C |
 
-| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakör(ök) |
+| 3.1.1. | FEOR száma | FEOR megnevezése | a szakképesítéssel betölthető munkakör(ök) |
 
 | 3.1.2. | 5254 | Vagyonőr, testőr | Személy- és vagyonőr, Biztonsági őr, Munkahelyi biztonsági felügyelő, Repülőtéri biztonsági őr |
 
 | 3.1.3. | 5259 | Személy és vagyonvédelmi foglalkozású | Egyéb személy- és vagyonvédelmi foglalkozású |
 
-| 3.1.4. | 3163 | Munkavédelmi és üzembiztonsági foglalkozású | Munkavédelmi előadó, Munkavédelmi megbízott, Tűzbiztonsági előadó,Tűzvédelmi referens, Tűzvédelmi ügyintéző, Üzembiztonsági megbízott |
+| 3.1.4. | 3163 | Munkavédelmi és üzembiztonsági foglalkozású | Munkavédelmi előadó, Munkavédelmi megbízott, Tűzbiztonsági előadó, Tűzvédelmi referens, Tűzvédelmi ügyintéző, Üzembiztonsági megbízott |
 
 | 3.1.5. | 9231 | Portás, telepőr, egyszerű őr | Ipari, kereskedelmi intézet, oktatási intézmény, egészségügyi intézmény portása, Múzeumi teremőr |
 
 | 3.1.6. | 9238 | Egyéb egyszerű szolgáltatási és szállítási foglalkozások | Parkolóőr |
 
-3.2. A szakképesítés munkaterületének rövid leírása:
+3.2. A szakképesítés munkaterületének rövid leírása
 
-- elkészíti a vagyonvédelmi, tűzvédelmi, munkavédelmi, környezetvédelmi, katasztrófavédelmi tervet
-
-- elkészíti a rendészeti-vagyonvédelmi és az őrzési szabályzatot
-
-- elkészíti a lőfegyver és a támadáselhárító eszközök tárolásának és karbantartásának szabályait
-
-- kialakítja a védelmi koncepciót
-
-- felkészül és végrehajt biztosítási feladatokat
-
-- intézkedik rendkívüli eseményeknél
-
-- elkészíti az objektum tűzriadó tervét
-
-- tűzvédelmi megelőző tevékenységet szervez és végrehajt
-
-- ellát jogkörében munkavédelmi feladatokat
-
-- ellát jogkörében környezetvédelmi feladatokat
-
-- elkészíti szakmai útmutatás szerint a védelmi felkészülési, elhárítási okmányokat, terveket, dokumentációkat
-
-- ellátja a munkakörébe utalt egyéb feladatokat
-
-- ellát gazdasági, vezetési feladatokat
+A Biztonságszervező a szakképesítéssel rendelkező személy szakképesítése tekintetében megnevezve Biztonságszervező a szakmai ismereteinek megfelelő, az alábbiakban felsorolt tevékenységeket a szakmai, valamint a vonatkozó munkabiztonsági előírások betartásával, az adott munkaszervezet belső szervezeti rendjének megfelelő irányítással, vagy önállóan végzi el.
 
 A szakképesítéssel rendelkező képes:
 
@@ -220,7 +404,7 @@ A szakképesítéssel rendelkező képes:
 
 - ellátni gazdasági, vezetési feladatokat
 
-3.3. Kapcsolódó szakképesítések
+3.3. Kapcsolódó szakképesítések:
 
 |  | A | B | C |
 
@@ -230,13 +414,13 @@ A szakképesítéssel rendelkező képes:
 
 | - | - | - | - |
 
-4. SZAKMAI KÖVETELMÉNYEK
+4. Szakmai követelmények
 
 |  | A | B |
 
 | 4.1. | A szakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
 
-| 4.2. | azonosító száma | megnevezése |
+| 4.2. | azonosítója | megnevezése |
 
 | 4.3. | 10348-12 | Magán-biztonságvédelmi alapfeladatok |
 
@@ -246,21 +430,21 @@ A szakképesítéssel rendelkező képes:
 
 | 4.6. | 10351-12 | Biztonságszervező szakfeladatai |
 
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
+5. Vizsgáztatási követelmények
 
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
+5.1. A komplex szakmai vizsgára bocsátás feltételei
 
-Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
 
 Záró dolgozat elkészítése és a komplex szakmai vizsga megkezdése előtt 30 nappal korábban történő beadása a szakmai vizsgát szervező intézménynek. (A formai követelményektől való eltérés esetén a záró dolgozat „értékelhetetlen” minősítést kap, a jelölt vizsgára nem bocsátható.)
 
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
 
 |  | A | B | C |
 
 | 5.2.1. | A szakképesítés szakmai követelménymoduljainak |
 
-| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+| 5.2.2. | azonosítója | megnevezése | a modulzáró vizsga vizsgatevékenysége |
 
 | 5.2.3. | 10348-12 | Magán-biztonságvédelmi alapfeladatok | írásbeli, gyakorlati |
 
@@ -272,25 +456,23 @@ Záró dolgozat elkészítése és a komplex szakmai vizsga megkezdése előtt 3
 
 Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
 
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
 
 5.3.1. Gyakorlati vizsgatevékenység
 
-A.) A vizsgafeladat megnevezése: Záró dolgozat bemutatása
+A) Vizsgafeladat megnevezése: Záró dolgozat bemutatása
 
 A vizsgafeladat ismertetése: A záró dolgozat tárgya a szakmai irányultságnak megfelelő komplex feladat kidolgozása ötoldalnyi terjedelemben (a címlapon kívül). A záró dolgozatot csak a képző intézmény által jóváhagyott témában lehet benyújtani.
 
 A záró dolgozatnak tükröznie kell a választott probléma (kiinduló rendszer) összefüggéseit, kapcsolódásait. Lehetőleg teljes képet kell adnia a választott témáról, de terjedelménél fogva nem kell minden részletet tartalmaznia. A kidolgozást olyan mélységig kell elkészíteni, hogy az bemutassa a kitűzött feladat megoldását.
 
-Formai elvárások: a vizsgázó által fűzött A/4-es oldalak, 2,5 centiméteres margókkal, 12 pontos Times betűtípussal, másfeles sorközzel és szimpla szóközökkel, oldalanként minimum 2500 karakter. A címlap tartalmi elemei: a dolgozat címe, a dolgozat készítőjének a neve, a dátum és a képző intézmény megnevezése.
-
 A vizsgafeladat időtartama: 0 perc (A komplex szakmai vizsga megkezdése előtt elkészített és értékelt)
 
-A vizsgafeladat értékelési súlyaránya: 30 %
+A vizsgafeladat értékelési súlyaránya: 30%
 
-B.) A vizsgafeladat megnevezése: Biztonságszervező szakfeladatok
+B) Vizsgafeladat megnevezése: Biztonságszervező szakfeladatok
 
-A gyakorlati vizsgán a jelölt egy összetett írásbeli feladatot old meg biztonságszervező szakfeladatok: rendészet-vagyonvédelem, munkavédelem, tűzvédelem, környezetvédelem, katasztrófavédelem, illetve üzemeltetés témakörben, az általa megismert szakanyagok felhasználásával.
+A gyakorlati vizsgán a jelölt egy összetett írásbeli feladatot old meg biztonságszervező szakfeladatok témakörben: rendészet-vagyonvédelem, munkavédelem, tűzvédelem, környezetvédelem, katasztrófavédelem, illetve üzemeltetés, az általa megismert szakanyagok felhasználásával.
 
 A vizsgafeladat időtartama: 240 perc
 
@@ -298,25 +480,25 @@ A vizsgafeladat értékelési súlyaránya: 40%
 
 5.3.2. Központi írásbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése: -
+A vizsgafeladat megnevezése: –
 
-A vizsgafeladat ismertetése: -
+A vizsgafeladat ismertetése: –
 
-A vizsgafeladat időtartama: -
+A vizsgafeladat időtartama: –
 
-A vizsgafeladat értékelési súlyaránya: -
+A vizsgafeladat értékelési súlyaránya: –
 
 5.3.3. Szóbeli vizsgatevékenység
 
-A.) A vizsgafeladat megnevezése: A záró dolgozat bemutatása
+A) A vizsgafeladat megnevezése: A záró dolgozat bemutatása
 
 A vizsgázó a záró dolgozatát bemutatja
 
 A vizsgafeladat időtartama: 10 perc
 
-A vizsgafeladat értékelési súlyaránya: 10 %
+A vizsgafeladat értékelési súlyaránya: 10%
 
-B.) A vizsgafeladat megnevezése: Biztonságszervező szakfeladatok
+B) A vizsgafeladat megnevezése: Biztonságszervező szakfeladatok
 
 A szóbeli központilag összeállított vizsga kérdései az összes modul követelményeire vonatkoznak.
 
@@ -328,21 +510,21 @@ A vizsgafeladat értékelési súlyaránya: 20%
 
 Az 5.3.1. A) vizsgafeladat érdemi előkészítéseként a képző intézmény a záró dolgozatot a komplex szakmai vizsgát megelőzően legalább 25 nappal a vizsgabizottság elnökének, legalább 10 nappal a vizsgabizottság további tagjainak a rendelkezésére kell bocsátania - az előzetes formai és szakmai bírálattal együtt.
 
-Az 5.3.1. B.) feladat végrehajtása során saját jegyzeteit és a vonatkozó kézikönyveket (szabályzatokat, nemzeti szabványokat) használhatja a vizsgázó.
+Az 5.3.1. B) feladat végrehajtása során saját jegyzeteit és a vonatkozó kézikönyveket (szabályzatokat, nemzeti szabványokat) használhatja a vizsgázó.
 
-Az 5.3.1. B.) gyakorlati, de írásban teljesítendő vizsgafeladat teljesítését önálló vizsganapon kell megszervezni.
+Az 5.3.1. B) gyakorlati, de írásban teljesítendő vizsgafeladat teljesítését önálló vizsganapon kell megszervezni.
 
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
 
 5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
 
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+6. Eszköz és felszerelési jegyzék
 
 |  | A |
 
 | 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
 
-| 6.2. | Támadás - elhárítás eszközei |
+| 6.2. | Támadás-elhárítás eszközei |
 
 | 6.3. | Számítógép szoftverekkel |
 
@@ -360,47 +542,257 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 | 6.10. | Telefon, fax |
 
-7. EGYEBEK
+7. Egyebek
 
-7.1. Megfeleltetés: Kizárólag a modulzáró vizsgák alóli felmentést biztosítják
+7.1. Validáció: Kizárólag a modulzáró vizsgák alóli felmentést biztosítják
 
-7.1.1. 0701-06 számú Biztonságszervező alapfeladatok követelménymodul sikeres teljesítése beszámítható a 10350-12 számú Biztonságszervező alapfeladatok követelménymodul teljesítéseként.
+7.1.1. A 0701-06 számú Biztonságszervező alapfeladatok követelménymodul sikeres teljesítése egyenértékű a 10350-12 számú Biztonságszervező alapfeladatok követelménymodullal.
 
-7.1.2. 0713-06 számú Biztonságszervező szakfeladatok követelménymodul sikeres teljesítése beszámítható a 10351-12 számú Biztonságszervező szakfeladatok követelménymodul teljesítéseként.
+7.1.2. A 0713-06 számú Biztonságszervező szakfeladatok követelménymodul sikeres teljesítése egyenértékű a 10351-12 számú Biztonságszervező szakfeladatok követelménymodullal.
 
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezete:
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
 
 |  | A | B | C |
 
-| 7.2.1. | azonosító szám | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+| 7.2.1. | azonosító száma | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
 
 | 7.2.2. | 52 861 01 | Biztonságszervező | Személy-, Vagyonvédelmi és Magánnyomozói Szakmai Kamara |
 
-7.3. A képzés megkezdésének feltétele: a vagyonvédelemről szóló jogszabályokban megfogalmazott erkölcsi alkalmazási feltételek megléte.
+A 3. SORSZÁMÚ BÜNTETÉS-VÉGREHAJTÁSI EGÉSZSÉGÜGYI FŐFELÜGYELŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
-A 2. sorszámú Büntetés-végrehajtási felügyelő megnevezésű szakképesítés szakmai és vizsgakövetelménye
+1. Az Országos Képzési Jegyzékben szereplő adatok
 
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+1.1. A szakképesítés-ráépülés azonosító száma: 53 861 01
 
-1.1. A szakképesítés azonosító száma: 52 861 02
+1.2. Szakképesítés-ráépülés megnevezése: Büntetés-végrehajtási egészségügyi főfelügyelő
 
-1.2. Szakképesítés megnevezése: Büntetés-végrehajtási felügyelő
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
 
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 500-700
 
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 800 – 1 500
-
-2. EGYÉB ADATOK
+2. Egyéb adatok
 
 2.1. A képzés megkezdésének feltételei:
 
 2.1.1. Iskolai előképzettség: érettségi végzettség
 
-2.1.2. Bemeneti kompetenciák: -
+2.1.2. Bemeneti kompetenciák: –
 
-2.2. Szakmai előképzettség: -
+2.2. Szakmai előképzettség: 52 861 02 Büntetés-végrehajtási felügyelő szakképesítés, valamint a 7.1. pontban meghatározott további végzettség(ek)
 
-2.3. Előírt gyakorlat: -
+2.3. Előírt gyakorlat: 1 év büntetés-végrehajtási hivatásos szakterületi szolgálati jogviszony
+
+2.4. Egészségügyi alkalmassági követelmények: –
+
+2.5. Pályaalkalmassági követelmények: –
+
+2.6. Elméleti képzési idő aránya: 25%
+
+2.7. Gyakorlati képzési idő aránya: 75%
+
+2.8. Szintvizsga: –
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
+
+3. Pályatükör
+
+3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
+
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | a szakképesítés-ráépüléssel betölthető munkakör(ök) |
+
+| 3.1.2. | 5253 | Büntetés-végrehajtási felügyelő | Büntetés-végrehajtási egészségügyi főfelügyelő |
+
+3.2. A szakképesítés-ráépülés munkaterületének rövid leírása
+
+A büntetés-végrehajtási szervezet egészségügyi főfelügyelői állományban:
+
+− büntetés-végrehajtási alaptevékenységet végez
+
+− büntetés-végrehajtási egészségügyi főfelügyelői alapfeladatokat hajt végre
+
+− büntetés-végrehajtási szakmairányú szaktevékenységet végez
+
+A szakképesítés-ráépüléssel rendelkező képes:
+
+− a büntetés-végrehajtási szervezeten belül az egészségügyi ellátásban megelőző, gyógyító, gondozó és rehabilitációs folyamatokban egészségügyi szakképesítéssel vagy szakképzettséggel rendelkező irányítása és felügyelete alatt közreműködni
+
+− alapszintű elsősegélynyújtást biztosítani
+
+− a szükséges intézkedéseket meghozni
+
+− a beteg alapvető szükségleteit feltárni, ápolási diagnózis felállításában közreműködni
+
+− betartani az etikai normákat és a betegek és ellátottak jogaira vonatkozó rendelkezéseket
+
+− betartani a betegbiztonságra vonatkozó előírásokat
+
+− a beteg és környezetének higiéniáját biztosítani az alapvető szükségletekhez kapcsolódóan
+
+− ellátni jogkörében a környezetvédelmi feladatokat
+
+− elkészíteni szakmai útmutatás szerint a védelmi felkészülési, elhárítási okmányokat, terveket, dokumentációkat
+
+− ellátni a munkakörébe utalt egyéb feladatokat
+
+− ellátni gazdasági, vezetési feladatokat
+
+3.3. Kapcsolódó szakképesítések
+
+|  | A | B | C |
+
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+| 3.3.3. | 52 861 02 | Büntetés-végrehajtási felügyelő | szakképesítés |
+
+4. Szakmai követelmények
+
+|  | A | B |
+
+| 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+
+| 4.2. | azonosító száma | megnevezése |
+
+| 4.3. | 10359-12 | Büntetés-végrehajtási egészségügyi főfelügyelő feladatai |
+
+5. Vizsgáztatási követelmények
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei
+
+Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
+
+|  | A | B | C |
+
+| 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
+
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.3. | 10359-12 | Büntetés-végrehajtási egészségügyi főfelügyelő feladatai | írásbeli |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
+
+5.3.1. Gyakorlati vizsgatevékenység
+
+A vizsgafeladat megnevezése: A napi szolgálati feladatok irányítása, ellenőrzése, valamint elsődleges intézkedések, és jelentések megtétele.
+
+A vizsgafeladat ismertetése: A gyakorlati vizsgán a jelölt a büntetés-végrehajtási egészségügyi főfelügyelő feladatrendszerébe tartozó szolgálattal összefüggő feladatot hajt végre.
+
+A vizsgafeladat időtartama: 15 perc
+
+A vizsgafeladat értékelési súlyaránya: 40%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: –
+
+A vizsgafeladat ismertetése: –
+
+A vizsgafeladat időtartama: –
+
+A vizsgafeladat értékelési súlyaránya: –
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Válaszadás a büntetés-végrehajtási egészségügyi főfelügyelő részére meghatározott vizsgakövetelmények alapján összeállított, előre kiadott tételsorokból húzott kérdésekre.
+
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott témakörök mindegyikét tartalmazza.
+
+A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
+
+A vizsgafeladat értékelési súlyaránya: 60%
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
+
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
+
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
+
+6. Eszköz és felszerelési jegyzék
+
+|  | A |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Fegyverzet |
+
+| 6.3. | Lövedékálló mellény |
+
+| 6.4. | Speciális egyéni felszerelés és kiegészítői |
+
+| 6.5. | Kényszerítő eszközök |
+
+| 6.6. | Mozgást korlátozó eszközök |
+
+| 6.7. | Tömegoszlatás speciális eszközei |
+
+| 6.8. | Szolgálati járművek |
+
+| 6.9. | Számítógép és perifériái (informatikai eszközök) |
+
+| 6.10. | Híradástechnikai eszközök |
+
+| 6.11. | Világító berendezés |
+
+| 6.12. | Videokamera |
+
+| 6.13. | Fényképezőgép |
+
+| 6.14. | Nyomtató |
+
+| 6.15. | Telefon, fax |
+
+| 6.16. | Figyelést, látást, tájékozódást segítő eszközök, berendezések |
+
+| 6.17. | Okmányminták |
+
+| 6.18. | Betegellátás (Büntetés-végrehajtás szervezetéhez szükséges) eszközei |
+
+| 6.19. | Elsősegélynyújtás (Büntetésvégrehajtás-szervezetéhez szükséges) eszközei |
+
+| 6.20. | AMBU - baba eszköz nélküli újraélesztéshez |
+
+7. Egyebek
+
+7.1. Validáció: A szakképzés megkezdhető a Büntetés-végrehajtási Szervezet Oktatási Központjában, 1996. szeptember 1-jét követően megszerzett alapfokú szaktanfolyami végzettség birtokában.
+
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
+
+|  | A | B | C |
+
+| 7.2.1. | azonosító száma | A szakképesítés-ráépülés megnevezése | A szakképesítés-ráépülés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+
+| 7.2.2. | 53 861 01 | Büntetés-végrehajtási egészségügyi főfelügyelő | Büntetés-végrehajtás Országos Parancsnoksága |
+
+A 4. SORSZÁMÚ BÜNTETÉS-VÉGREHAJTÁSI FELÜGYELŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+1. Az Országos Képzési Jegyzékben szereplő adatok
+
+1.1. A szakképesítés azonosító száma: 52 861 02
+
+1.2. Szakképesítés megnevezése: Büntetés-végrehajtási felügyelő
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 800-1500
+
+2. Egyéb adatok
+
+2.1. A képzés megkezdésének feltételei:
+
+2.1.1. Iskolai előképzettség: érettségi végzettség
+
+2.1.2. Bemeneti kompetenciák: –
+
+2.2. Szakmai előképzettség: –
+
+2.3. Előírt gyakorlat: –
 
 2.4. Egészségügyi alkalmassági követelmények: szükségesek
 
@@ -410,13 +802,13 @@ A 2. sorszámú Büntetés-végrehajtási felügyelő megnevezésű szakképesí
 
 2.7. Gyakorlati képzési idő aránya: 40%
 
-2.8. Szintvizsga: -
+2.8. Szintvizsga: –
 
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
 
-3. PÁLYATÜKÖR
+3. Pályatükör
 
-3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
+3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
 
 |  | A | B | C |
 
@@ -424,55 +816,55 @@ A 2. sorszámú Büntetés-végrehajtási felügyelő megnevezésű szakképesí
 
 | 3.1.2. | 5253 | Büntetés-végrehajtási felügyelő | Büntetés-végrehajtási őr |
 
-3.2. A szakképesítés munkaterületének rövid leírása:
+3.2. A szakképesítés munkaterületének rövid leírása
 
 A büntetés-végrehajtási szervezet felügyelői állományban:
 
-- büntetés-végrehajtási alaptevékenységet végez
+– büntetés-végrehajtási alaptevékenységet végez
 
-- büntetés-végrehajtási felügyelői alapfeladatokat hajt végre
+– büntetés-végrehajtási felügyelői alapfeladatokat hajt végre
 
-- büntetés-végrehajtási szakmairányú szaktevékenységet végez
+– büntetés-végrehajtási szakmairányú szaktevékenységet végez
 
 A szakképesítéssel rendelkező képes:
 
-- az eligazításon meghatározott feladatokat végrehajtani
+− az eligazításon meghatározott feladatokat végrehajtani
 
-- ellátni a büntetés-végrehajtási szerv őrzését
+− ellátni a büntetés-végrehajtási szerv őrzését
 
-- betartatni a büntetés-végrehajtási szerv házirendjét
+− betartatni a büntetés-végrehajtási szerv házirendjét
 
-- intézeten belül végrehajtani a fogvatartottak őrzését
+− intézeten belül végrehajtani a fogvatartottak őrzését
 
-- intézeten belül végrehajtani a fogvatartottak kísérését
+− intézeten belül végrehajtani a fogvatartottak kísérését
 
-- végrehajtani a fogvatartottak előállítását
+− végrehajtani a fogvatartottak előállítását
 
-- megtartani a fogvatartottak számára szükséges eligazítást
+− megtartani a fogvatartottak számára szükséges eligazítást
 
-- ellátni az intézeten belüli programok biztosítását
+− ellátni az intézeten belüli programok biztosítását
 
-- látogatás biztosításában részt venni
+− látogatás biztosításában részt venni
 
-- biztonsági ellenőrzést végrehajtani
+− biztonsági ellenőrzést végrehajtani
 
-- mozgáskorlátozó eszközt alkalmazni
+− mozgáskorlátozó eszközt alkalmazni
 
-- végrehajtani a zárkába helyezést
+− végrehajtani a zárkába helyezést
 
-- közreműködni a fogvatartottak nevelésében, kapcsolatot tartani a nevelővel
+− közreműködni a fogvatartottak nevelésében, kapcsolatot tartani a nevelővel
 
-- végrehajtani a fogvatartottak körletről történő kiadását
+− végrehajtani a fogvatartottak körletről történő kiadását
 
-- elrendelni és végrehajtatni a díjazás nélküli munkavégzést
+− elrendelni és végrehajtatni a díjazás nélküli munkavégzést
 
-- fegyveres biztosítási feladatokat ellátni
+− fegyveres biztosítási feladatokat ellátni
 
-- fogvatartottakat munkáltatni
+− fogvatartottakat munkáltatni
 
-- szolgálatban történt eseményekről elöljárójának jelentést tenni
+− szolgálatban történt eseményekről elöljárójának jelentést tenni
 
-3.3. Kapcsolódó szakképesítések:
+3.3. Kapcsolódó szakképesítések
 
 |  | A | B | C |
 
@@ -492,7 +884,7 @@ A szakképesítéssel rendelkező képes:
 
 | 3.3.8. | 53 861 04 | Büntetés-végrehajtási igazgatási főfelügyelő | szakképesítés-ráépülés |
 
-4. SZAKMAI KÖVETELMÉNYEK
+4. Szakmai követelmények
 
 |  | A | B |
 
@@ -508,11 +900,11 @@ A szakképesítéssel rendelkező képes:
 
 | 4.6. | 10355-12 | Büntetés-végrehajtási felügyelő feladatai |
 
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
+5. Vizsgáztatási követelmények
 
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
+5.1. A komplex szakmai vizsgára bocsátás feltételei
 
-Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
 
 5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
 
@@ -528,29 +920,25 @@ Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamenny
 
 | 5.2.5. | 10354-12 | Büntetés-végrehajtási segédfelügyelő feladatai | írásbeli |
 
-| 5.2.6. | 10355-12 |  | Büntetés-végrehajtási felügyelő feladatai |  | írásbeli |
+| 5.2.6. | 10355-12 | Büntetés-végrehajtási felügyelő feladatai | írásbeli |
 
 Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
 
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
 
 5.3.1. Gyakorlati vizsgatevékenység
 
-A.) A vizsgafeladat megnevezése: Büntetés-végrehajtási alaki mozgások
+A) A vizsgafeladat megnevezése: Büntetés-végrehajtási alaki mozgások
 
-A vizsgafeladat ismertetése:
-
-A vizsgázók szakasz, raj kötelékben és egyénileg alaki gyakorlatokat hajtanak végre. Az értékelés kitér az egyéni feladat-végrehajtáson túl a raj, illetve szakasz kötelékben végrehajtott mozgások összhangjára is.
+A vizsgafeladat ismertetése: A vizsgázók szakasz, raj kötelékben és egyénileg alaki gyakorlatokat hajtanak végre. Az értékelés kitér az egyéni feladat-végrehajtáson túl a raj, illetve szakasz kötelékben végrehajtott mozgások összhangjára is.
 
 A vizsgafeladat időtartama: 10 perc
 
 A vizsgafeladat értékelési súlyaránya: 15%
 
-B.) A vizsgafeladat megnevezése: Szolgálatteljesítésre vonatkozó szabályok
+B) A vizsgafeladat megnevezése: Szolgálatteljesítésre vonatkozó szabályok
 
-A vizsgafeladat ismertetése:
-
-A gyakorlati vizsgán a vizsgázó a büntetés-végrehajtási felügyelő feladatrendszerébe tartozó szolgálattal összefüggő feladatot hajt végre.
+A vizsgafeladat ismertetése: A gyakorlati vizsgán a vizsgázó a büntetés-végrehajtási felügyelő feladatrendszerébe tartozó szolgálattal összefüggő feladatot hajt végre.
 
 A vizsgafeladat időtartama: 15 perc
 
@@ -560,9 +948,7 @@ A vizsgafeladat értékelési súlyaránya: 25%
 
 A vizsgafeladat megnevezése: A rendvédelmi szervek, ezen belül a büntetés-végrehajtási szervezet feladatai és szabályzói
 
-A vizsgafeladat ismertetése:
-
-A szolgálatteljesítés általános szabályai, a büntetés-végrehajtási őr, büntetés-végrehajtási segédfelügyelő, büntetés-végrehajtási felügyelő feladatai
+A vizsgafeladat ismertetése: A szolgálatteljesítés általános szabályai, a büntetés-végrehajtási őr, büntetés-végrehajtási segédfelügyelő, büntetés-végrehajtási felügyelő feladatai
 
 Írásbeli számonkérés az 10352-12 Rendvédelmi alapfeladatok és az 10353-12 Büntetés-végrehajtási őr feladatai, az 10354-12 Büntetés-végrehajtási segédfelügyelő és az 10355-12 Büntetés-végrehajtási felügyelő modulok tartalmát átölelő vizsgafeladat-sor összeállításával.
 
@@ -574,9 +960,7 @@ A vizsgafeladat értékelési súlyaránya: 30%
 
 A vizsgafeladat megnevezése: Válaszadás a büntetés-végrehajtási felügyelő részére meghatározott vizsgakövetelmények alapján összeállított, előre kiadott tételsorokból húzott kérdésekre
 
-A vizsgafeladat ismertetése:
-
-A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott témakörök mindegyikét tartalmazza.
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott témakörök mindegyikét tartalmazza.
 
 A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
 
@@ -584,11 +968,11 @@ A vizsgafeladat értékelési súlyaránya: 30%
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
 
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
 
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
 
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+6. Eszköz és felszerelési jegyzék
 
 |  | A |
 
@@ -626,31 +1010,645 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 | 6.17. | Okmányminták |
 
-7. EGYEBEK
+7. Egyebek
 
-7.1. Validáció: -
+7.1. Validáció: –
 
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
 
 |  | A | B | C |
 
-| 7.2.1. | azonosító szám | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+| 7.2.1. | azonosító száma | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
 
 | 7.2.2. | 52 861 02 | Büntetés-végrehajtási felügyelő | Büntetés-végrehajtás Országos Parancsnoksága |
 
-A 3. sorszámú Büntetés-végrehajtási őr megnevezésű részszakképesítés szakmai és vizsgakövetelménye
+A 5. SORSZÁMÚ BÜNTETÉS-VÉGREHAJTÁSI FŐFELÜGYELŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+1. Az Országos Képzési Jegyzékben szereplő adatok
+
+1.1. A szakképesítés-ráépülés azonosító száma: 53 861 02
+
+1.2. Szakképesítés-ráépülés megnevezése: Büntetés-végrehajtási főfelügyelő
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 500-1000
+
+2. Egyéb adatok
+
+2.1. A képzés megkezdésének feltételei:
+
+2.1.1. Iskolai előképzettség: érettségi végzettség
+
+2.1.2. Bemeneti kompetenciák: –
+
+2.2. Szakmai előképzettség: 52 861 02 Büntetés-végrehajtási felügyelő szakképesítés, valamint a 7.1. pontban meghatározott további végzettség(ek)
+
+2.3. Előírt gyakorlat: 1 év büntetés-végrehajtási hivatásos szolgálati jogviszony
+
+2.4. Egészségügyi alkalmassági követelmények: –
+
+2.5. Pályaalkalmassági követelmények: –
+
+2.6. Elméleti képzési idő aránya: 25%
+
+2.7. Gyakorlati képzési idő aránya: 75%
+
+2.8. Szintvizsga: –
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
+
+3. Pályatükör
+
+3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
+
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítés-ráépüléssel betölthető munkakör(ök) |
+
+| 3.1.2. | 5253 | Büntetés-végrehajtási felügyelő | Büntetés-végrehajtási főfelügyelő |
+
+3.2. A szakképesítés-ráépüléssel munkaterületének rövid leírása
+
+A büntetés-végrehajtási szervezet főfelügyelői állományban:
+
+– büntetés-végrehajtási alaptevékenységet végez
+
+– büntetés-végrehajtási főfelügyelői alapfeladatokat hajt végre
+
+– büntetés-végrehajtási szakmairányú szaktevékenységet végez
+
+A szakképesítés-ráépüléssel rendelkező képes:
+
+– az alárendeltségébe tartozó büntetés-végrehajtási felügyelők eligazítását végrehajtani
+
+– a házi-, illetve a napirendben meghatározott feladatokat végrehajtatni
+
+– a büntetés-végrehajtási felügyelők napi szolgálati tevékenységét irányítani, ellenőrizni
+
+– a fogvatartottak személymotozását a meghatározott módon végrehajtatni, a végrehajtást ellenőrizni
+
+– a napi biztonsági ellenőrzések végrehajtását irányítani, ellenőrizni
+
+– a biztonsági vizsgálatban, valamint a biztonsági szemlében közreműködni
+
+– a fogvatartottak elkülönítését irányítani, valamint a végrehajtását ellenőrizni
+
+– a fogvatartottak elhelyezési körletén rendszeresített okmányok vezetését ellenőrizni
+
+– az elhelyezési körlet tisztántartásához szükséges anyagokat megigényelni
+
+– a rendkívüli események bekövetkezésének megelőzésére, megszakítására intézkedni, a szükséges jelentéseket megtenni
+
+– a nevelői állománnyal együttműködni
+
+– a fogvatartottak előállításával, szállításával, mozgatásával kapcsolatos feladatok megszervezésében, végrehajtásában közreműködni
+
+3.3. Kapcsolódó szakképesítések
+
+|  | A | B | C |
+
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+| 3.3.3. | 52 861 02 | Büntetés-végrehajtási felügyelő | szakképesítés |
+
+4. Szakmai követelmények
+
+|  | A | B |
+
+| 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+
+| 4.2. | azonosító száma | megnevezése |
+
+| 4.3. | 10358-12 | Büntetés-végrehajtási főfelügyelő feladatai |
+
+5. Vizsgáztatási követelmények
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei
+
+Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
+
+|  | A | B | C |
+
+| 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
+
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.3. | 10358-12 | Büntetés-végrehajtási főfelügyelő feladatai | írásbeli |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
+
+5.3.1. Gyakorlati vizsgatevékenység
+
+A vizsgafeladat megnevezése: A napi szolgálati feladatok irányítása, ellenőrzése, valamint elsődleges intézkedések, és jelentések megtétele.
+
+A vizsgafeladat ismertetése: A gyakorlati vizsgán a jelölt a büntetés-végrehajtási főfelügyelő feladatrendszerébe tartozó szolgálattal összefüggő feladatot hajt végre.
+
+A vizsgafeladat időtartama: 15 perc
+
+A vizsgafeladat értékelési súlyaránya: 40%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: –
+
+A vizsgafeladat ismertetése: –
+
+A vizsgafeladat időtartama: –
+
+A vizsgafeladat értékelési súlyaránya: –
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Válaszadás a büntetés-végrehajtási főfelügyelő részére meghatározott vizsgakövetelmények alapján összeállított, előre kiadott tételsorokból húzott kérdésekre.
+
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott témakörök mindegyikét tartalmazza.
+
+A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
+
+A vizsgafeladat értékelési súlyaránya: 60%
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
+
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
+
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
+
+6. Eszköz- és felszerelési jegyzék
+
+|  | A |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Fegyverzet |
+
+| 6.3. | Lövedékálló mellény |
+
+| 6.4. | Speciális egyéni felszerelés és kiegészítői |
+
+| 6.5. | Kényszerítő eszközök |
+
+| 6.6. | Mozgást korlátozó eszközök |
+
+| 6.7. | Tömegoszlatás speciális eszközei |
+
+| 6.8. | Szolgálati járművek |
+
+| 6.9. | Számítógép és perifériái (informatikai eszközök) |
+
+| 6.10. | Híradástechnikai eszközök |
+
+| 6.11. | Világító berendezés |
+
+| 6.12. | Videokamera |
+
+| 6.13. | Fényképezőgép |
+
+| 6.14. | Nyomtató |
+
+| 6.15. | Telefon, fax |
+
+| 6.16. | Figyelést-, látást, tájékozódást segítő eszközök, berendezések |
+
+| 6.17. | Okmányminták |
+
+7. Egyebek
+
+7.1. Validáció: A szakképzés megkezdhető a Büntetés-végrehajtási Szervezet Oktatási Központjában, 1996. szeptember 1-jét követően megszerzett alapfokú szaktanfolyami végzettség birtokában.
+
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
+
+|  | A | B | C |
+
+| 7.2.1. | azonosító száma | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat / szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+
+| 7.2.2. | 53 861 02 | Büntetés-végrehajtási főfelügyelő | Büntetés-végrehajtás Országos Parancsnoksága |
+
+A 6. SORSZÁMÚ BÜNTETÉS-VÉGREHAJTÁSI GAZDÁLKODÁSI FŐFELÜGYELŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS
+
+SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+1. Az Országos Képzési Jegyzékben szereplő adatok
+
+1.1. A szakképesítés-ráépülés azonosító száma: 53 861 03
+
+1.2. Szakképesítés-ráépülés megnevezése: Büntetés-végrehajtási gazdálkodási főfelügyelő
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 400-700
+
+2. Egyéb adatok
+
+2.1. A képzés megkezdésének feltételei:
+
+2.1.1. Iskolai előképzettség: érettségi végzettség
+
+2.1.2. Bemeneti kompetenciák: –
+
+2.2. Szakmai előképzettség: 52 861 02 Büntetés-végrehajtási felügyelő szakképesítés, valamint a 7.1. pontban meghatározott további végzettség(ek)
+
+2.3. Előírt gyakorlat: 1 év büntetés-végrehajtási hivatásos szolgálati jogviszony
+
+2.4. Egészségügyi alkalmassági követelmények: –
+
+2.5. Pályaalkalmassági követelmények: –
+
+2.6. Elméleti képzési idő aránya: 25%
+
+2.7. Gyakorlati képzési idő aránya: 75%
+
+2.8. Szintvizsga: –
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
+
+3. Pályatükör
+
+3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
+
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítés-ráépüléssel betölthető munkakör(ök) |
+
+| 3.1.2. | 5253 | Büntetés-végrehajtási felügyelő | Büntetés-végrehajtási gazdálkodási főfelügyelő |
+
+3.2. A szakképesítés-ráépüléssel munkaterületének rövid leírása
+
+A büntetés-végrehajtási szervezet gazdasági szakterületének állományában:
+
+– büntetés-végrehajtási alaptevékenységet végez
+
+– büntetés-végrehajtási gazdálkodási főfelügyelői alapfeladatokat hajt végre
+
+– büntetés-végrehajtási szakmairányú szaktevékenységet végez
+
+A szakképesítés-ráépüléssel rendelkező képes:
+
+– a költségvetési szervekre vonatkozó számviteli szabályokat alkalmazni
+
+– a selejtezési és leltározási feladatokban részt venni
+
+– raktárosi feladatokat ellátni
+
+– az elemi költségvetés és a költségvetési beszámoló összeállításában részt venni
+
+– a gépjármű ellátás, forgalmazás, elszámolás rendjének kialakításában közreműködni
+
+– a személyi és a fogvatartotti állomány ellátásával kapcsolatos feladatokat végrehajtani
+
+– a fogvatartottak munkáltatását és az ehhez kapcsolódó feladatokat elvégezni
+
+– a fogvatartottak kártérítési ügyeit kezelni
+
+3.3. Kapcsolódó szakképesítés
+
+|  | A | B | C |
+
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+| 3.3.3. | 52 861 02 | Büntetés-végrehajtási felügyelő | szakképesítés |
+
+4. Szakmai követelmények
+
+|  | A | B |
+
+| 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+
+| 4.2. | azonosító száma | megnevezése |
+
+| 4.3. | 10357-12 | Büntetés-végrehajtási gazdálkodási főfelügyelő feladatai |
+
+5. Vizsgáztatási követelmények
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei
+
+Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
+
+|  | A | B | C |
+
+| 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
+
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.3. | 10357-12 | Büntetés-végrehajtási gazdálkodási főfelügyelő feladatai | írásbeli |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+
+5.3.1. Gyakorlati vizsgatevékenység
+
+A vizsgafeladat megnevezése: A napi szolgálati feladatok irányítása, ellenőrzése, valamint elsődleges intézkedések, és jelentések megtétele.
+
+A vizsgafeladat ismertetése: A gyakorlati vizsgán a jelölt a büntetés-végrehajtási gazdálkodási főfelügyelő feladatrendszerébe tartozó szolgálattal összefüggő feladatot hajt végre.
+
+A vizsgafeladat időtartama: 15 perc
+
+A vizsgafeladat értékelési súlyaránya: 40%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: –
+
+A vizsgafeladat ismertetése: –
+
+A vizsgafeladat időtartama: –
+
+A vizsgafeladat értékelési súlyaránya: –
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Válaszadás a büntetés-végrehajtási gazdálkodási főfelügyelő részére meghatározott vizsgakövetelmények alapján összeállított, előre kiadott tételsorokból húzott kérdésekre.
+
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott témakörök mindegyikét tartalmazza.
+
+A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
+
+A vizsgafeladat értékelési súlyaránya: 60%
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
+
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
+
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
+
+6. Eszköz- és felszerelési jegyzék
+
+|  | A |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Fegyverzet |
+
+| 6.3. | Lövedékálló mellény |
+
+| 6.4. | Speciális egyéni felszerelés és kiegészítői |
+
+| 6.5. | Kényszerítő eszközök |
+
+| 6.6. | Mozgást korlátozó eszközök |
+
+| 6.7. | Tömegoszlatás speciális eszközei |
+
+| 6.8. | Szolgálati járművek |
+
+| 6.9. | Számítógép és perifériái (informatikai eszközök) |
+
+| 6.10. | Híradástechnikai eszközök |
+
+| 6.11. | Világító berendezés |
+
+| 6.12. | Videokamera |
+
+| 6.13. | Fényképezőgép |
+
+| 6.14. | Nyomtató |
+
+| 6.15. | Telefon, fax |
+
+| 6.16. | Figyelést-, látást, tájékozódást segítő eszközök, berendezések |
+
+| 6.17. | Okmányminták |
+
+7. Egyebek
+
+7.1. Validáció: A szakképzés megkezdhető a Büntetés-végrehajtási Szervezet Oktatási Központjában, 1996. szeptember 1-jét követően megszerzett alapfokú szaktanfolyami végzettség birtokában.
+
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
+
+|  | A | B | C |
+
+| 7.2.1. | azonosító száma | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+
+| 7.2.2. | 53 861 03 | Büntetés-végrehajtási gazdálkodási főfelügyelő | Büntetés-végrehajtás Országos Parancsnoksága |
+
+A 7. SORSZÁMÚ BÜNTETÉS-VÉGREHAJTÁSI IGAZGATÁSI FŐFELÜGYELŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS
+
+SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+1. Az Országos Képzési Jegyzékben szereplő adatok
+
+1.1. A szakképesítés-ráépülés azonosító száma: 53 861 04
+
+1.2. Szakképesítés-ráépülés megnevezése: Büntetés-végrehajtási igazgatási főfelügyelő
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 400-700
+
+2. Egyéb adatok
+
+2.1. A képzés megkezdésének feltételei:
+
+2.1.1. Iskolai előképzettség: érettségi végzettség
+
+2.1.2. Bemeneti kompetenciák: –
+
+2.2. Szakmai előképzettség: 52 861 02 Büntetés-végrehajtási felügyelő szakképesítés, valamint a 7.1. pontban meghatározott további végzettség(ek)
+
+2.3. Előírt gyakorlat: 1 év büntetés-végrehajtási hivatásos szolgálati jogviszony
+
+2.4. Egészségügyi alkalmassági követelmények: –
+
+2.5. Pályaalkalmassági követelmények: –
+
+2.6. Elméleti képzési idő aránya: 25%
+
+2.7. Gyakorlati képzési idő aránya: 75%
+
+2.8. Szintvizsga: –
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
+
+3. Pályatükör
+
+3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
+
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítés-ráépülésessel betölthető munkakör(ök) |
+
+| 3.1.2. | 5253 | Büntetés-végrehajtási felügyelő | Büntetés-végrehajtási igazgatási főfelügyelő |
+
+3.2. A szakképesítés-ráépüléssel munkaterületének rövid leírása
+
+A büntetés-végrehajtási szervezet igazgatási főfelügyelő szakterületének állományában:
+
+− büntetés-végrehajtási alaptevékenységet végez
+
+− büntetés-végrehajtási igazgatási főfelügyelői alapfeladatokat hajt végre
+
+− büntetés-végrehajtási szakmairányú szaktevékenységet végez
+
+A szakképesítés-ráépüléssel rendelkező képes:
+
+− a fogvatartottak befogadásához kapcsolódó feladatokat végrehajtani
+
+− a fogvatartottak élő és archív büntetés-végrehajtási iratanyagát kezelni
+
+− a szabadság-elvonással járó büntetések kezdő és utolsó napját megállapítani
+
+− a feladatköréhez kapcsolódó adminisztratív feladatokat végrehajtani
+
+− jogszabályban előírt adatrögzítéseket, adatkezelést végrehajtani
+
+− a fogvatartottak büntetés-végrehajtási ügyeinek intézésében közreműködni
+
+− a fogvatartottak előállítását, szállítását szervezni
+
+− a fogvatartottak ideiglenes eltávozásával kapcsolatos feladatokat ügyintézni
+
+− a fogvatartottak szabadítási eljárásában közreműködni
+
+3.3. Kapcsolódó szakképesítések
+
+|  | A | B | C |
+
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+| 3.3.3. | 52 861 02 | Büntetés-végrehajtási felügyelő | szakképesítés |
+
+4. Szakmai követelmények
+
+|  | A | B |
+
+| 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerint |
+
+| 4.2. | azonosító száma | megnevezése |
+
+| 4.3. | 10356-12 | Büntetés-végrehajtási igazgatási főfelügyelő feladatai |
+
+5. Vizsgáztatási követelmények
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei
+
+Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
+
+|  | A | B | C |
+
+| 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
+
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.3. | 10356-12 | Büntetés-végrehajtási igazgatási főfelügyelő feladatai | írásbeli |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+
+5.3.1. Gyakorlati vizsgatevékenység
+
+A vizsgafeladat megnevezése: A napi szolgálati feladatok irányítása, ellenőrzése, valamint elsődleges intézkedések, és jelentések megtétele.
+
+A vizsgafeladat ismertetése: A gyakorlati vizsgán a jelölt a büntetés-végrehajtási igazgatási főfelügyelő feladatrendszerébe tartozó szolgálattal összefüggő feladatot hajt végre.
+
+A vizsgafeladat időtartama: 30 perc
+
+A vizsgafeladat értékelési súlyaránya: 40%
+
+5.3.2. Központi írásbeli vizsgatevékenység –
+
+A vizsgafeladat megnevezése: –
+
+A vizsgafeladat ismertetése: –
+
+A vizsgafeladat időtartama: –
+
+A vizsgafeladat értékelési súlyaránya: –
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Válaszadás a büntetés-végrehajtási igazgatási főfelügyelő részére meghatározott vizsgakövetelmények alapján összeállított, előre kiadott tételsorokból húzott kérdésekre.
+
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott témakörök mindegyikét tartalmazza.
+
+A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
+
+A vizsgafeladat értékelési súlyaránya: 60%
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok: –
+
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
+
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
+
+6. Eszköz- és felszerelési jegyzék
+
+|  | A |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Fegyverzet |
+
+| 6.3. | Lövedékálló mellény |
+
+| 6.4. | Speciális egyéni felszerelés és kiegészítői |
+
+| 6.5. | Kényszerítő eszközök |
+
+| 6.6. | Mozgást korlátozó eszközök |
+
+| 6.7. | Tömegoszlatás speciális eszközei |
+
+| 6.8. | Szolgálati járművek |
+
+| 6.9. | Számítógép és perifériái (informatikai eszközök) |
+
+| 6.10. | Híradástechnikai eszközök |
+
+| 6.11. | Világító berendezés |
+
+| 6.12. | Videokamera |
+
+| 6.13. | Fényképezőgép |
+
+| 6.14. | Nyomtató |
+
+| 6.15. | Telefon, fax |
+
+| 6.16. | Figyelést-, látást, tájékozódást segítő eszközök, berendezések |
+
+| 6.17. | Okmányminták |
+
+7. Egyebek
+
+7.1. Validáció: A szakképzés megkezdhető a Büntetés-végrehajtási Szervezet Oktatási Központjában, 1996. szeptember 1-jét követően megszerzett alapfokú szaktanfolyami végzettség birtokában.
+
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
+
+|  | A | B | C |
+
+| 7.2.1. | azonosító száma | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+
+| 7.2.2. | 53 861 04 | Büntetés-végrehajtási igazgatási főfelügyelő | Büntetés-végrehajtás Országos Parancsnoksága |
+
+A 8. SORSZÁMÚ BÜNTETÉS-VÉGREHAJTÁSI ŐR MEGNEVEZÉSŰ RÉSZSZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+1. Az Országos Képzési Jegyzékben szereplő adatok
 
 1.1. A részszakképesítés azonosító száma: 31 861 01
 
 1.2. Részszakképesítés megnevezése: Büntetés-végrehajtási őr
 
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
 
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 500 - 700
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 500-700
 
-2. EGYÉB ADATOK
+2. Egyéb adatok
 
 2.1. A képzés megkezdésének feltételei:
 
@@ -658,9 +1656,9 @@ A 3. sorszámú Büntetés-végrehajtási őr megnevezésű részszakképesíté
 
 2.1.2. Bemeneti kompetenciák: a képzés megkezdhető a 3. számú mellékletben a Közszolgálat szakmacsoportra meghatározott kompetenciák birtokában
 
-2.2. Szakmai előképzettség: -
+2.2. Szakmai előképzettség: –
 
-2.3. Előírt gyakorlat: -
+2.3. Előírt gyakorlat: –
 
 2.4. Egészségügyi alkalmassági követelmények: szükségesek
 
@@ -670,11 +1668,11 @@ A 3. sorszámú Büntetés-végrehajtási őr megnevezésű részszakképesíté
 
 2.7. Gyakorlati képzési idő aránya: 40%
 
-2.8. Szintvizsga: -
+2.8. Szintvizsga:
 
 2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
 
-3. PÁLYATÜKÖR
+3. Pályatükör
 
 3.1. A részszakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
 
@@ -688,27 +1686,27 @@ A 3. sorszámú Büntetés-végrehajtási őr megnevezésű részszakképesíté
 
 A büntetés-végrehajtási szervezet felügyelői állományban:
 
-- büntetés-végrehajtási alaptevékenységet végez
+− büntetés-végrehajtási alaptevékenységet végez
 
-- büntetés-végrehajtási felügyelői alapfeladatokat hajt végre
+− büntetés-végrehajtási felügyelői alapfeladatokat hajt végre
 
-- büntetés-végrehajtási szakmairányú tevékenységet végez
+− büntetés-végrehajtási szakmairányú tevékenységet végez
 
 A részszakképesítéssel rendelkező képes:
 
-- az eligazításon meghatározott feladatokat végrehajtani
+− az eligazításon meghatározott feladatokat végrehajtani
 
-- ellátni a büntetés-végrehajtási szerv őrzését
+− ellátni a büntetés-végrehajtási szerv őrzését
 
-- intézeten belül végrehajtani a fogvatartottak őrzését
+− intézeten belül végrehajtani a fogvatartottak őrzését
 
-- intézeten belül végrehajtani a fogvatartottak kísérését
+− intézeten belül végrehajtani a fogvatartottak kísérését
 
-- ellátni az intézeten belüli programok biztosítását
+− ellátni az intézeten belüli programok biztosítását
 
-- látogatás biztosításában részt venni
+− látogatás biztosításában részt venni
 
-- szolgálatban történt eseményekről elöljárójának jelentést tenni
+− szolgálatban történt eseményekről elöljárójának jelentést tenni
 
 3.3. Kapcsolódó szakképesítések:
 
@@ -720,7 +1718,7 @@ A részszakképesítéssel rendelkező képes:
 
 | 3.3.3. | 52 861 02 | Büntetés-végrehajtási felügyelő | szakképesítés |
 
-4. SZAKMAI KÖVETELMÉNYEK
+4. Szakmai követelmények
 
 |  | A | B |
 
@@ -732,7 +1730,7 @@ A részszakképesítéssel rendelkező képes:
 
 | 4.4. | 10353-12 | Büntetés-végrehajtási őr feladatai |
 
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
+5. Vizsgáztatási követelmények
 
 5.1. A komplex szakmai vizsgára bocsátás feltételei:
 
@@ -758,9 +1756,7 @@ Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredmén
 
 A vizsgafeladat megnevezése: Büntetés-végrehajtási alaki mozgások
 
-A vizsgafeladat ismertetése:
-
-A vizsgázók szakasz, raj kötelékben és egyénileg alaki gyakorlatokat hajtanak végre. Az értékelés kitér az egyéni feladat-végrehajtáson túl a raj, illetve szakasz kötelékben végrehajtott mozgások összhangjára is.
+A vizsgafeladat ismertetése: A vizsgázók szakasz, raj kötelékben és egyénileg alaki gyakorlatokat hajtanak végre. Az értékelés kitér az egyéni feladat-végrehajtáson túl a raj, illetve szakasz kötelékben végrehajtott mozgások összhangjára is.
 
 A vizsgafeladat időtartama: 10 perc
 
@@ -770,9 +1766,7 @@ A vizsgafeladat értékelési súlyaránya: 40%
 
 A vizsgafeladat megnevezése: A szolgálatteljesítés általános szabályai, büntetés-végrehajtási őr feladatai
 
-A vizsgafeladat ismertetése:
-
-Írásbeli számonkérés az 10352-12 Rendvédelmi alapfeladatok és az 10353-12 Büntetés-végrehajtási őr feladatai két modul tartalmát átölelő vizsgafeladat-sor összeállításával.
+A vizsgafeladat ismertetése: Írásbeli számonkérés az 10352-12 Rendvédelmi alapfeladatok és az 10353-12 Büntetés-végrehajtási őr feladatai két modul tartalmát átölelő vizsgafeladat-sor összeállításával.
 
 A vizsgafeladat időtartama: 90 perc
 
@@ -780,21 +1774,21 @@ A vizsgafeladat értékelési súlyaránya: 60%
 
 5.3.3. Szóbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése: -
+A vizsgafeladat megnevezése: –
 
-A vizsgafeladat ismertetése: -
+A vizsgafeladat ismertetése: –
 
-A vizsgafeladat időtartama: -
+A vizsgafeladat időtartama: –
 
-A vizsgafeladat értékelési súlyaránya: -
+A vizsgafeladat értékelési súlyaránya: –
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
 
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv érhetők el.
 
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
 
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+6. Eszköz- és felszerelési jegyzék
 
 |  | A |
 
@@ -832,31 +1826,31 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 | 6.17. | Okmányminták |
 
-7. EGYEBEK
+7. Egyebek
 
-7.1. Validáció: -
+7.1. Validáció: –
 
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
 
 |  | A | B | C |
 
-| 7.2.1. | azonosító szám | A részszakképesítés megnevezése | A szakképesítés ágazat / szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+| 7.2.1. | azonosító száma | A részszakképesítés megnevezése | A szakképesítés ágazat / szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
 
 | 7.2.2. | 31 861 01 | Büntetés-végrehajtási őr | Büntetés-végrehajtás Országos Parancsnoksága |
 
-A 4. sorszámú Büntetés-végrehajtási segédfelügyelő megnevezésű részszakképesítés szakmai és vizsgakövetelménye
+A 9. SORSZÁMÚ BÜNTETÉS-VÉGREHAJTÁSI SEGÉDFELÜGYELŐ MEGNEVEZÉSŰ RÉSZSZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+1. Az Országos Képzési Jegyzékben szereplő adatok
 
 1.1. A részszakképesítés azonosító száma: 31 861 02
 
 1.2. Részszakképesítés megnevezése: Büntetés-végrehajtási segédfelügyelő
 
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
 
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 200 - 300
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 200-300
 
-2. EGYÉB ADATOK
+2. Egyéb adatok
 
 2.1. A képzés megkezdésének feltételei:
 
@@ -864,9 +1858,9 @@ A 4. sorszámú Büntetés-végrehajtási segédfelügyelő megnevezésű részs
 
 2.1.2. Bemeneti kompetenciák: a képzés megkezdhető a 3. számú mellékletben a Közszolgálat szakmacsoportra meghatározott kompetenciák birtokában
 
-2.2. Szakmai előképzettség: -
+2.2. Szakmai előképzettség: –
 
-2.3. Előírt gyakorlat: -
+2.3. Előírt gyakorlat: –
 
 2.4. Egészségügyi alkalmassági követelmények: szükségesek
 
@@ -876,11 +1870,11 @@ A 4. sorszámú Büntetés-végrehajtási segédfelügyelő megnevezésű részs
 
 2.7. Gyakorlati képzési idő aránya: 40%
 
-2.8. Szintvizsga: -
+2.8. Szintvizsga: –
 
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
 
-3. PÁLYATÜKÖR
+3. Pályatükör
 
 3.1. A részszakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
 
@@ -894,35 +1888,35 @@ A 4. sorszámú Büntetés-végrehajtási segédfelügyelő megnevezésű részs
 
 A büntetés-végrehajtási szervezet segédfelügyelői állományban:
 
-- büntetés-végrehajtási alaptevékenységet végez
+− büntetés-végrehajtási alaptevékenységet végez
 
-- büntetés-végrehajtási segédfelügyelői alapfeladatokat hajt végre
+− büntetés-végrehajtási segédfelügyelői alapfeladatokat hajt végre
 
-- büntetés-végrehajtási szakmairányú szaktevékenységet végez
+− büntetés-végrehajtási szakmairányú szaktevékenységet végez
 
 A részszakképesítéssel rendelkező képes:
 
-- az eligazításon meghatározott feladatokat végrehajtani
+− az eligazításon meghatározott feladatokat végrehajtani
 
-- ellátni a büntetés-végrehajtási szerv őrzését
+− ellátni a büntetés-végrehajtási szerv őrzését
 
-- intézeten belül végrehajtani a fogvatartottak őrzését
+− intézeten belül végrehajtani a fogvatartottak őrzését
 
-- intézeten belül végrehajtani a fogvatartottak kísérést
+− intézeten belül végrehajtani a fogvatartottak kísérést
 
-- ellátni az intézeten belüli programok biztosítását
+− ellátni az intézeten belüli programok biztosítását
 
-- látogatás biztosításában részt venni
+− látogatás biztosításában részt venni
 
-- biztonsági ellenőrzést végrehajtani
+− biztonsági ellenőrzést végrehajtani
 
-- mozgáskorlátozó eszközt alkalmazni
+− mozgáskorlátozó eszközt alkalmazni
 
-- fegyveres biztosítási feladatokat ellátni
+− fegyveres biztosítási feladatokat ellátni
 
-- fogvatartottakat munkáltatni
+− fogvatartottakat munkáltatni
 
-- szolgálatban történt eseményekről elöljárójának jelentést tenni
+− szolgálatban történt eseményekről elöljárójának jelentést tenni
 
 3.3. Kapcsolódó szakképesítések:
 
@@ -934,7 +1928,7 @@ A részszakképesítéssel rendelkező képes:
 
 | 3.3.3. | 52 861 02 | Büntetés-végrehajtási felügyelő | szakképesítés |
 
-4. SZAKMAI KÖVETELMÉNYEK
+4. Szakmai követelmények
 
 |  | A | B |
 
@@ -948,9 +1942,9 @@ A részszakképesítéssel rendelkező képes:
 
 | 4.5. | 10354-12 | Büntetés-végrehajtási segédfelügyelő feladatai |
 
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
+5. Vizsgáztatási követelmények
 
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
+5.1. A komplex szakmai vizsgára bocsátás feltételei
 
 Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
 
@@ -970,25 +1964,21 @@ Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamenny
 
 Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
 
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
 
 5.3.1. Gyakorlati vizsgatevékenység
 
-A.) A vizsgafeladat megnevezése: Büntetés-végrehajtási alaki mozgások
+A) A vizsgafeladat megnevezése: Büntetés-végrehajtási alaki mozgások
 
-A vizsgafeladat ismertetése:
-
-A vizsgázók szakasz, raj kötelékben és egyénileg alaki gyakorlatokat hajtanak végre. Az értékelés kitér az egyéni feladat-végrehajtáson túl a raj, illetve szakasz kötelékben végrehajtott mozgások összhangjára is.
+A vizsgafeladat ismertetése: A vizsgázók szakasz, raj kötelékben és egyénileg alaki gyakorlatokat hajtanak végre. Az értékelés kitér az egyéni feladat-végrehajtáson túl a raj, illetve szakasz kötelékben végrehajtott mozgások összhangjára is.
 
 A vizsgafeladat időtartama: 10 perc
 
 A vizsgafeladat értékelési súlyaránya: 15%
 
-B.) A vizsgafeladat megnevezése: szolgálatteljesítésre vonatkozó szabályok.
+B) A vizsgafeladat megnevezése: szolgálatteljesítésre vonatkozó szabályok.
 
-A vizsgafeladat ismertetése:
-
-A büntetés-végrehajtási segédfelügyelő szolgálattal összefüggő gyakorlati feladatot hajt végre.
+A vizsgafeladat ismertetése: A büntetés-végrehajtási segédfelügyelő szolgálattal összefüggő gyakorlati feladatot hajt végre.
 
 A vizsgafeladat időtartama: 15 perc
 
@@ -998,9 +1988,7 @@ A vizsgafeladat értékelési súlyaránya: 25%
 
 A vizsgafeladat megnevezése: A rendvédelmi szervek, ezen belül a büntetés-végrehajtási szervezet feladatai és szabályzói
 
-A vizsgafeladat ismertetése:
-
-A szolgálatteljesítés általános szabályai, a büntetés-végrehajtási őr, büntetés-végrehajtási segédfelügyelő feladatai
+A vizsgafeladat ismertetése: A szolgálatteljesítés általános szabályai, a büntetés-végrehajtási őr, büntetés-végrehajtási segédfelügyelő feladatai
 
 A vizsgafeladat ismertetése: Írásbeli számonkérés az 10352-12 Rendvédelmi alapfeladatok és az 10353-12 Büntetés-végrehajtási őr feladatai és a 10354-12 Büntetés-végrehajtási segédfelügyelő modulok tartalmát átölelő vizsgafeladat-sor összeállításával.
 
@@ -1012,9 +2000,7 @@ A vizsgafeladat értékelési súlyaránya: 30%
 
 A vizsgafeladat megnevezése: Válaszadás a büntetés-végrehajtási segédfelügyelő részére meghatározott vizsgakövetelmények alapján összeállított, előre kiadott tételsorokból húzott kérdésekre.
 
-A vizsgafeladat ismertetése:
-
-A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott témakörök mindegyikét tartalmazza.
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott témakörök mindegyikét tartalmazza.
 
 A vizsgafeladat időtartama: 15 perc (felkészülési idő 15 perc)
 
@@ -1022,11 +2008,11 @@ A vizsgafeladat értékelési súlyaránya: 30%
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
 
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
 
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
 
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+6. Eszköz- és felszerelési jegyzék
 
 |  | A |
 
@@ -1064,949 +2050,757 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 | 6.17. | Okmányminták |
 
-7. EGYEBEK
+7. Egyebek
 
-7.1. Validáció: -
+7.1. Validáció: –
 
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
 
 |  | A | B | C |
 
-| 7.2.1. | azonosító szám | A részszakképesítés megnevezése | A szakképesítés ágazat / szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+| 7.2.1. | azonosító száma | A részszakképesítés megnevezése | A szakképesítés ágazat / szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
 
 | 7.2.2. | 31 861 02 | Büntetés-végrehajtási segédfelügyelő | Büntetés-végrehajtás Országos Parancsnoksága |
 
 7.3. Előképzettségnek tekinthető:
 
-- eredményes modulzáró vizsga a 31 861 01 Büntetés-végrehajtási őr részszakképesítésben, amennyiben megszakítás nélkül folytatja tovább a tanulmányokat a büntetés-végrehajtási segédfelügyelő képzésben,
+− eredményes modulzáró vizsga a 31 861 01 Büntetés-végrehajtási őr részszakképesítésben, amennyiben megszakítás nélkül folytatja tovább a tanulmányokat a büntetés-végrehajtási segédfelügyelő képzésben,
 
-- eredményes komplex vizsga a 31 861 01 Büntetés-végrehajtási őr részszakképesítésben
+− eredményes komplex vizsga a 31 861 01 Büntetés-végrehajtási őr részszakképesítésben
 
-Az 5. sorszámú Büntetés-végrehajtási egészségügyi főfelügyelő megnevezésű szakképesítés-ráépülés
+A 10. SORSZÁMÚ BŰNÜGYI TECHNIKUS MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
-szakmai és vizsgakövetelménye
+1. Az Országos Képzési Jegyzékben szereplő adatok
 
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+1.1. A szakképesítés-ráépülés azonosító száma: 55 861 02
 
-1.1. A szakképesítés-ráépülés azonosító száma: 53 861 01
+1.2. Szakképesítés-ráépülés megnevezése: Bűnügyi technikus
 
-1.2. Szakképesítés-ráépülés megnevezése: Büntetés-végrehajtási egészségügyi főfelügyelő
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
 
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 300-600
 
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 500 - 700
-
-2. EGYÉB ADATOK
+2. Egyéb adatok
 
 2.1. A képzés megkezdésének feltételei:
 
 2.1.1. Iskolai előképzettség: érettségi végzettség
 
-2.1.2. Bemeneti kompetenciák: -
+2.1.2. Bemeneti kompetenciák: –
 
-2.2. Szakmai előképzettség: 52 861 02 Büntetés-végrehajtási felügyelő szakképesítés
+2.2. Szakmai előképzettség: 54 861 01 Rendőr tiszthelyettes (Bűnügyi rendőr) szakképesítés
 
-2.3. Előírt gyakorlat: 1 év büntetés-végrehajtási hivatásos szakterületi szolgálati jogviszony
+2.3. Előírt gyakorlat: –
 
-2.4. Egészségügyi alkalmassági követelmények: -
+2.4. Egészségügyi alkalmassági követelmények: –
 
-2.5. Pályaalkalmassági követelmények: -
-
-2.6. Elméleti képzési idő aránya: 25%
-
-2.7. Gyakorlati képzési idő aránya: 75%
-
-2.8. Szintvizsga: -
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
-
-3. PÁLYATÜKÖR
-
-3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
-
-|  | A | B | C |
-
-| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítés-ráépüléssel betölthető munkakör(ök) |
-
-| 3.1.2. | 5253 | Büntetés-végrehajtási felügyelő | Büntetés-végrehajtási egészségügyi főfelügyelő |
-
-3.2. A szakképesítés-ráépülés munkaterületének rövid leírása:
-
-A büntetés-végrehajtási szervezet egészségügyi főfelügyelői állományban:
-
-- büntetés-végrehajtási alaptevékenységet végez
-
-- büntetés-végrehajtási egészségügyi főfelügyelői alapfeladatokat hajt végre
-
-- büntetés-végrehajtási szakmairányú szaktevékenységet végez
-
-A szakképesítés-ráépüléssel rendelkező képes:
-
-- a büntetés-végrehajtási szervezeten belül az egészségügyi ellátásban megelőző, gyógyító, gondozó és rehabilitációs folyamatokban egészségügyi szakképesítéssel vagy szakképzettséggel rendelkező irányítása és felügyelete alatt közreműködni
-
-- alapszintű elsősegélynyújtást biztosítani
-
-- a szükséges intézkedéseket meghozni
-
-- a beteg alapvető szükségleteit feltárni, ápolási diagnózis felállításában közreműködni
-
-- betartani az etikai normákat és a betegek és ellátottak jogaira vonatkozó rendelkezéseket
-
-- betartani a betegbiztonságra vonatkozó előírásokat
-
-- a beteg és környezetének higiéniáját biztosítani az alapvető szükségletekhez kapcsolódóan
-
-3.3. Kapcsolódó szakképesítések:
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| 3.3.3. | 52 861 02 | Büntetés-végrehajtási felügyelő | szakképesítés |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  | A | B |
-
-| 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.2 | azonosító száma | megnevezése |
-
-| 4.3. | 10359-12 | Büntetés-végrehajtási egészségügyi főfelügyelő feladatai |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  | A | B | C |
-
-| 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
-
-| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.3. | 10359-12 | Büntetés-végrehajtási egészségügyi főfelügyelő feladatai | írásbeli, gyakorlati |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A vizsgafeladat megnevezése: A napi szolgálati feladatok irányítása, ellenőrzése, valamint elsődleges intézkedések, és jelentések megtétele.
-
-A vizsgafeladat ismertetése:
-
-A gyakorlati vizsgán a jelölt a büntetés-végrehajtási egészségügyi főfelügyelő feladatrendszerébe tartozó szolgálattal összefüggő feladatot hajt végre.
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 40%
-
-5.3.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: -
-
-A vizsgafeladat ismertetése: -
-
-A vizsgafeladat időtartama: -
-
-A vizsgafeladat értékelési súlyaránya: -
-
-5.3.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Válaszadás a büntetés-végrehajtási egészségügyi főfelügyelő részére meghatározott vizsgakövetelmények alapján összeállított, előre kiadott tételsorokból húzott kérdésekre.
-
-A vizsgafeladat ismertetése:
-
-A szóbeli központilag összeállított vizsga kérdései a 4.. Szakmai követelmények fejezetben megadott témakörök mindegyikét tartalmazza.
-
-A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 60%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok: -
-
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  | A |
-
-| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-| 6.2. | Fegyverzet |
-
-| 6.3. | Lövedékálló mellény |
-
-| 6.4. | Speciális egyéni felszerelés és kiegészítői |
-
-| 6.5. | Kényszerítő eszközök |
-
-| 6.6. | Mozgást korlátozó eszközök |
-
-| 6.7. | Tömegoszlatás speciális eszközei |
-
-| 6.8. | Szolgálati járművek |
-
-| 6.9. | Számítógép és perifériái (informatikai eszközök) |
-
-| 6.10. | Híradástechnikai eszközök |
-
-| 6.11. | Világító berendezés |
-
-| 6.12. | Videokamera |
-
-| 6.13. | Fényképezőgép |
-
-| 6.14. | Nyomtató |
-
-| 6.15. | Telefon, fax |
-
-| 6.16. | Figyelést-, látást, tájékozódást segítő eszközök, berendezések |
-
-| 6.17. | Okmányminták |
-
-| 6.18. | Betegellátás (Büntetés-végrehajtás szervezetéhez szükséges) eszközei |
-
-| 6.19. | Elsősegélynyújtás (Büntetésvégrehajtás-szervezetéhez szükséges) eszközei |
-
-| 6.20. | AMBU – baba eszköz nélküli újraélesztéshez |
-
-7. EGYEBEK
-
-7.1. Validáció: A szakképzés megkezdhető a Büntetés-végrehajtási Szervezet Oktatási Központjában, 1996. szeptember 1-jét követően megszerzett alapfokú szaktanfolyami végzettség birtokában.
-
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
-
-|  | A | B | C |
-
-| 7.2.1. | azonosító szám | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
-
-| 7.2.2. | 53 861 01 | Büntetés-végrehajtási egészségügyi főfelügyelő | Büntetés-végrehajtás Országos Parancsnoksága |
-
-A 6. sorszámú Büntetés-végrehajtási főfelügyelő megnevezésű szakképesítés-ráépülés
-
-szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés-ráépülés azonosító száma: 53 861 02
-
-1.2. Szakképesítés-ráépülés megnevezése: Büntetés-végrehajtási főfelügyelő
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 500 - 1 000
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: érettségi végzettség
-
-2.1.2. Bemeneti kompetenciák: -
-
-2.2. Szakmai előképzettség: 52 861 02 Büntetés-végrehajtási felügyelő szakképesítés
-
-2.3. Előírt gyakorlat: 1 év büntetés-végrehajtási hivatásos szolgálati jogviszony
-
-2.4. Egészségügyi alkalmassági követelmények: -
-
-2.5. Pályaalkalmassági követelmények: -
-
-2.6. Elméleti képzési idő aránya: 25%
-
-2.7. Gyakorlati képzési idő aránya: 75%
-
-2.8. Szintvizsga: -
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
-
-3. PÁLYATÜKÖR
-
-3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
-
-|  | A | B | C |
-
-| 3.1.1. | FEOR szám | FEOR megnevezése | A szakképesítés-ráépüléssel betölthető munkakör(ök) |
-
-| 3.1.2. | 5253 | Büntetés-végrehajtási felügyelő | Büntetés-végrehajtási főfelügyelő |
-
-3.2. A szakképesítés-ráépüléssel munkaterületének rövid leírása:
-
-A büntetés-végrehajtási szervezet főfelügyelői állományban:
-
-- büntetés-végrehajtási alaptevékenységet végez
-
-- büntetés-végrehajtási főfelügyelői alapfeladatokat hajt végre
-
-- büntetés-végrehajtási szakmairányú szaktevékenységet végez
-
-A szakképesítés-ráépüléssel rendelkező képes:
-
-- az alárendeltségébe tartozó büntetés-végrehajtási felügyelők eligazítását végrehajtani
-
-- a házi-, illetve a napirendben meghatározott feladatokat végrehajtatni
-
-- a büntetés-végrehajtási felügyelők napi szolgálati tevékenységét irányítani, ellenőrizni
-
-- a fogvatartottak személymotozását a meghatározott módon végrehajtatni, a végrehajtást ellenőrizni
-
-- a napi biztonsági ellenőrzések végrehajtását irányítani, ellenőrizni
-
-- a biztonsági vizsgálatban, valamint a biztonsági szemlében közreműködni
-
-- a fogvatartottak elkülönítését irányítani, valamint a végrehajtását ellenőrizni
-
-- a fogvatartottak elhelyezési körletén rendszeresített okmányok vezetését ellenőrizni
-
-- az elhelyezési körlet tisztántartásához szükséges anyagokat megigényelni
-
-- a rendkívüli események bekövetkezésének megelőzésére, megszakítására intézkedni, a szükséges jelentéseket megtenni
-
-- a nevelői állománnyal együttműködni
-
-- a fogvatartottak előállításával, szállításával, mozgatásával kapcsolatos feladatok megszervezésében, végrehajtásában közreműködni
-
-3.3. Kapcsolódó szakképesítések:
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| 3.3.3. | 52 861 02 | Büntetés-végrehajtási felügyelő | szakképesítés |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  | A | B |
-
-| 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.2. | azonosító száma | megnevezése |
-
-| 4.3. | 10358-12 | Büntetés-végrehajtási főfelügyelő feladatai |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  | A | B | C |
-
-| 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
-
-| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.3. | 10358-12 | Büntetés-végrehajtási főfelügyelő feladatai | írásbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A vizsgafeladat megnevezése: A napi szolgálati feladatok irányítása, ellenőrzése, valamint elsődleges intézkedések, és jelentések megtétele.
-
-A vizsgafeladat ismertetése:
-
-A gyakorlati vizsgán a jelölt a büntetés-végrehajtási főfelügyelő feladatrendszerébe tartozó szolgálattal összefüggő feladatot hajt végre.
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 40%
-
-5.3.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: -
-
-A vizsgafeladat ismertetése: -
-
-A vizsgafeladat időtartama: -
-
-A vizsgafeladat értékelési súlyaránya: -
-
-5.3.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Válaszadás a büntetés-végrehajtási főfelügyelő részére meghatározott vizsgakövetelmények alapján összeállított, előre kiadott tételsorokból húzott kérdésekre.
-
-A vizsgafeladat ismertetése:
-
-A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott témakörök mindegyikét tartalmazza.
-
-A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 60%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
-
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  | A |
-
-| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-| 6.2. | Fegyverzet |
-
-| 6.3. | Lövedékálló mellény |
-
-| 6.4. | Speciális egyéni felszerelés és kiegészítői |
-
-| 6.5. | Kényszerítő eszközök |
-
-| 6.6. | Mozgást korlátozó eszközök |
-
-| 6.7. | Tömegoszlatás speciális eszközei |
-
-| 6.8. | Szolgálati járművek |
-
-| 6.9. | Számítógép és perifériái (informatikai eszközök) |
-
-| 6.10. | Híradástechnikai eszközök |
-
-| 6.11. | Világító berendezés |
-
-| 6.12. | Videokamera |
-
-| 6.13. | Fényképezőgép |
-
-| 6.14. | Nyomtató |
-
-| 6.15. | Telefon, fax |
-
-| 6.16. | Figyelést-, látást, tájékozódást segítő eszközök, berendezések |
-
-| 6.17. | Okmányminták |
-
-7. EGYEBEK
-
-7.1. Validáció: A szakképzés megkezdhető a Büntetés-végrehajtási Szervezet Oktatási Központjában, 1996. szeptember 1-jét követően megszerzett alapfokú szaktanfolyami végzettség birtokában.
-
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
-
-|  | A | B | C |
-
-| 7.2.1. | azonosító szám | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat / szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
-
-| 7.2.2. | 53 861 02 | Büntetés-végrehajtási főfelügyelő | Büntetés-végrehajtás Országos Parancsnoksága |
-
-A 7. sorszámú Büntetés-végrehajtási gazdálkodási főfelügyelő megnevezésű szakképesítés-ráépülés
-
-szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés-ráépülés azonosító száma: 53 861 03
-
-1.2. Szakképesítés-ráépülés megnevezése: Büntetés-végrehajtási gazdálkodási főfelügyelő
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 400 - 700
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: érettségi végzettség
-
-2.1.2. Bemeneti kompetenciák: -
-
-2.2. Szakmai előképzettség: 52 861 02 Büntetés-végrehajtási felügyelő szakképesítés
-
-2.3. Előírt gyakorlat: 1 év büntetés-végrehajtási hivatásos szolgálati jogviszony
-
-2.4. Egészségügyi alkalmassági követelmények: -
-
-2.5. Pályaalkalmassági követelmények: -
-
-2.6. Elméleti képzési idő aránya: 25%
-
-2.7. Gyakorlati képzési idő aránya: 75%
-
-2.8. Szintvizsga: -
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
-
-3. PÁLYATÜKÖR
-
-3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
-
-|  | A | B | C |
-
-| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítés-ráépüléssel betölthető munkakör(ök) |
-
-| 3.1.2. | 5253 | Büntetés-végrehajtási felügyelő | Büntetés-végrehajtási gazdálkodási főfelügyelő |
-
-3.2. A szakképesítés-ráépüléssel munkaterületének rövid leírása:
-
-A büntetés-végrehajtási szervezet gazdasági szakterületének állományában:
-
-- büntetés-végrehajtási alaptevékenységet végez
-
-- büntetés-végrehajtási gazdálkodási főfelügyelői alapfeladatokat hajt végre
-
-- büntetés-végrehajtási szakmairányú szaktevékenységet végez
-
-A szakképesítés-ráépüléssel rendelkező képes:
-
-- a költségvetési szervekre vonatkozó számviteli szabályokat alkalmazni
-
-- a selejtezési és leltározási feladatokban részt venni
-
-- raktárosi feladatokat ellátni
-
-- az elemi költségvetés és a költségvetési beszámoló összeállításában részt venni
-
-- a gépjármű ellátás, forgalmazás, elszámolás rendjének kialakításában közreműködni
-
-- a személyi és a fogvatartotti állomány ellátásával kapcsolatos feladatokat végrehajtani
-
-- a fogvatartottak munkáltatását és az ehhez kapcsolódó feladatokat elvégezni
-
-- a fogvatartottak kártérítési ügyeit kezelni
-
-3.3. Kapcsolódó szakképesítés:
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| 3.3.3. | 52 861 02 | Büntetés-végrehajtási felügyelő | szakképesítés |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  | A | B |
-
-| 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.2. | azonosító száma | megnevezése |
-
-| 4.3. | 10357-12 | Büntetés-végrehajtási gazdálkodási főfelügyelő feladatai |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  | A | B | C |
-
-| 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
-
-| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.3. | 10357-12 | Büntetés-végrehajtási gazdálkodási főfelügyelő feladatai | írásbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A vizsgafeladat megnevezése: A napi szolgálati feladatok irányítása, ellenőrzése, valamint elsődleges intézkedések, és jelentések megtétele.
-
-A vizsgafeladat ismertetése:
-
-A gyakorlati vizsgán a jelölt a büntetés-végrehajtási gazdálkodási főfelügyelő feladatrendszerébe tartozó szolgálattal összefüggő feladatot hajt végre.
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 40%
-
-5.3.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: -
-
-A vizsgafeladat ismertetése: -
-
-A vizsgafeladat időtartama: -
-
-A vizsgafeladat értékelési súlyaránya: -
-
-5.3.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Válaszadás a büntetés-végrehajtási gazdálkodási főfelügyelő részére meghatározott vizsgakövetelmények alapján összeállított, előre kiadott tételsorokból húzott kérdésekre.
-
-A vizsgafeladat ismertetése:
-
-A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott témakörök mindegyikét tartalmazza.
-
-A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 60%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok: -
-
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  | A |
-
-| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-| 6.2. | Fegyverzet |
-
-| 6.3. | Lövedékálló mellény |
-
-| 6.4. | Speciális egyéni felszerelés és kiegészítői |
-
-| 6.5. | Kényszerítő eszközök |
-
-| 6.6. | Mozgást korlátozó eszközök |
-
-| 6.7. | Tömegoszlatás speciális eszközei |
-
-| 6.8. | Szolgálati járművek |
-
-| 6.9. | Számítógép és perifériái (informatikai eszközök) |
-
-| 6.10. | Híradástechnikai eszközök |
-
-| 6.11. | Világító berendezés |
-
-| 6.12. | Videokamera |
-
-| 6.13. | Fényképezőgép |
-
-| 6.14. | Nyomtató |
-
-| 6.15. | Telefon, fax |
-
-| 6.16. | Figyelést-, látást, tájékozódást segítő eszközök, berendezések |
-
-| 6.17. | Okmányminták |
-
-7. EGYEBEK
-
-7.1. Validáció: A szakképzés megkezdhető a Büntetés-végrehajtási Szervezet Oktatási Központjában, 1996. szeptember 1-jét követően megszerzett alapfokú szaktanfolyami végzettség birtokában.
-
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
-
-|  | A | B | C |
-
-| 7.2.1. | azonosító szám | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
-
-| 7.2.2. | 53 861 03 | Büntetés-végrehajtási gazdálkodási főfelügyelő | Büntetés-végrehajtás Országos Parancsnoksága |
-
-A 8. sorszámú Büntetés-végrehajtási igazgatási főfelügyelő megnevezésű szakképesítés-ráépülés
-
-szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés-ráépülés azonosító száma: 53 861 04
-
-1.2. Szakképesítés-ráépülés megnevezése: Büntetés-végrehajtási igazgatási főfelügyelő
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 400 - 700
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: érettségi végzettség
-
-2.1.2. Bemeneti kompetenciák:-
-
-2.2. Szakmai előképzettség: 52 861 02 Büntetés-végrehajtási felügyelő szakképesítés
-
-2.3. Előírt gyakorlat: 1 év büntetés-végrehajtási hivatásos szolgálati jogviszony
-
-2.4. Egészségügyi alkalmassági követelmények: -
-
-2.5. Pályaalkalmassági követelmények: -
-
-2.6. Elméleti képzési idő aránya: 25%
-
-2.7. Gyakorlati képzési idő aránya: 75%
-
-2.8. Szintvizsga: -
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
-
-3. PÁLYATÜKÖR
-
-3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
-
-|  | A | B | C |
-
-| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítés-ráépülésessel betölthető munkakör(ök) |
-
-| 3.1.2. | 5253 | Büntetés-végrehajtási felügyelő | Büntetés-végrehajtási igazgatási főfelügyelő |
-
-3.2. A szakképesítés-ráépüléssel munkaterületének rövid leírása:
-
-A büntetés-végrehajtási szervezet igazgatási főfelügyelő szakterületének állományában:
-
-- büntetés-végrehajtási alaptevékenységet végez
-
-- büntetés-végrehajtási igazgatási főfelügyelői alapfeladatokat hajt végre
-
-- büntetés-végrehajtási szakmairányú szaktevékenységet végez
-
-A szakképesítés-ráépüléssel rendelkező képes:
-
-- a fogvatartottak befogadásához kapcsolódó feladatokat végrehajtani
-
-- a fogvatartottak élő és archív büntetés-végrehajtási iratanyagát kezelni
-
-- a szabadság-elvonással járó büntetések kezdő és utolsó napját megállapítani
-
-- a feladatköréhez kapcsolódó adminisztratív feladatokat végrehajtani
-
-- jogszabályban előírt adatrögzítéseket, adatkezelést végrehajtani
-
-- a fogvatartottak büntetés-végrehajtási ügyeinek intézésében közreműködni
-
-- a fogvatartottak előállítását, szállítását szervezni
-
-- a fogvatartottak ideiglenes eltávozásával kapcsolatos feladatokat ügyintézni
-
-- a fogvatartottak szabadítási eljárásában közreműködni
-
-3.3. Kapcsolódó szakképesítések:
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| 3.3.3. | 52 861 02 | Büntetés-végrehajtási felügyelő | szakképesítés |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  | A | B |
-
-| 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerint |
-
-| 4.2. | azonosító száma | megnevezése |
-
-| 4.3. | 10356-12 | Büntetés-végrehajtási igazgatási főfelügyelő feladatai |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  | A | B | C |
-
-| 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
-
-| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.3. | 10356-12 | Büntetés-végrehajtási igazgatási főfelügyelő feladatai | írásbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A vizsgafeladat megnevezése: A napi szolgálati feladatok irányítása, ellenőrzése, valamint elsődleges intézkedések, és jelentések megtétele.
-
-A vizsgafeladat ismertetése:
-
-A gyakorlati vizsgán a jelölt a büntetés-végrehajtási igazgatási főfelügyelő feladatrendszerébe tartozó szolgálattal összefüggő feladatot hajt végre.
-
-A vizsgafeladat időtartama: 30 perc
-
-A vizsgafeladat értékelési súlyaránya: 40%
-
-5.3.2. Központi írásbeli vizsgatevékenység -
-
-A vizsgafeladat megnevezése: -
-
-A vizsgafeladat ismertetése: -
-
-A vizsgafeladat időtartama: -
-
-A vizsgafeladat értékelési súlyaránya: -
-
-5.3.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Válaszadás a büntetés-végrehajtási igazgatási főfelügyelő részére meghatározott vizsgakövetelmények alapján összeállított, előre kiadott tételsorokból húzott kérdésekre.
-
-A vizsgafeladat ismertetése:
-
-A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott témakörök mindegyikét tartalmazza.
-
-A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 60%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok: -
-
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  | A |
-
-| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-| 6.2. | Fegyverzet |
-
-| 6.3. | Lövedékálló mellény |
-
-| 6.4. | Speciális egyéni felszerelés és kiegészítői |
-
-| 6.5. | Kényszerítő eszközök |
-
-| 6.6. | Mozgást korlátozó eszközök |
-
-| 6.7. | Tömegoszlatás speciális eszközei |
-
-| 6.8. | Szolgálati járművek |
-
-| 6.9. | Számítógép és perifériái (informatikai eszközök) |
-
-| 6.10. | Híradástechnikai eszközök |
-
-| 6.11. | Világító berendezés |
-
-| 6.12. | Videokamera |
-
-| 6.13. | Fényképezőgép |
-
-| 6.14. | Nyomtató |
-
-| 6.15. | Telefon, fax |
-
-| 6.16. | Figyelést-, látást, tájékozódást segítő eszközök, berendezések |
-
-| 6.17. | Okmányminták |
-
-7. EGYEBEK
-
-7.1. Validáció: A szakképzés megkezdhető a Büntetés-végrehajtási Szervezet Oktatási Központjában, 1996. szeptember 1-jét követően megszerzett alapfokú szaktanfolyami végzettség birtokában.
-
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
-
-|  | A | B | C |
-
-| 7.2.1. | azonosító szám | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
-
-| 7.2.2. | 53 861 04 | Büntetés-végrehajtási igazgatási főfelügyelő | Büntetés-végrehajtás Országos Parancsnoksága |
-
-A 9. sorszámú Elektronikus vagyonvédelmi rendszerszerelő megnevezésű szakképesítés-ráépülés
-
-szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés-ráépülés azonosító száma: 35 861 01
-
-1.2. Szakképesítés-ráépülés megnevezése: Elektronikus vagyonvédelmi rendszerszerelő
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 250 - 350
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: alapfokú iskolai végzettség
-
-2.1.2. Bemeneti kompetenciák: -
-
-2.2. Szakmai előképzettség:
-
-− 34 522 03 Elektronikai műszerész,
-
-− 34 522 01 Elektromechanikai műszerész,
-
-− 33 523 02 000 Távközlési és informatikai hálózatszerelő,
-
-− 34 522 04 Villanyszerelő,
-
-− 54 523 01 Automatikai technikus,
-
-− 34 522 02 Elektromos gép- és készülékszerelő,
-
-− 31 522 01 Elektronikai gyártósori műszerész,
-
-− 54 523 02 Elektronikai technikus,
-
-− 54 522 01 Erősáramú elektrotechnikus,
-
-− 32 521 02 Kereskedelmi, háztartási és vendéglátóipari gépszerelő,
-
-− 34 523 01 Mechatronikus-karbantartó,
-
-− 32 521 04 Órás,
-
-− 51 523 01 PLC programozó,
-
-− 54 481 03 Infokommunikációs hálózatépítő és üzemeltető,
-
-− 54 523 05 Távközlési technikus,
-
-− 51 523 02 Távközlési üzemeltető,
-
-− 31 523 01 Távközlési és informatikai hálózatszerelő,
-
-− 35 522 01 Audio- és vizuáltechnikai műszerész,
-
-− 55 523 05 Beszédátviteli rendszerüzemeltető technikus,
-
-− 55 523 01 Elektronikus hozzáférési és magánhálózati rendszerüzemeltető technikus,
-
-− 55 523 02 Elektronikus műsorközlő és tartalomátviteli rendszerüzemeltető technikus,
-
-− 55 523 03 Gerinchálózati rendszerüzemeltető
-
-szakképesítés.
-
-2.3. Előírt gyakorlat: -
-
-2.4. Egészségügyi alkalmassági követelmények: szükségesek
-
-2.5. Pályaalkalmassági követelmények: -
+2.5. Pályaalkalmassági követelmények: –
 
 2.6. Elméleti képzési idő aránya: 40%
 
 2.7. Gyakorlati képzési idő aránya: 60%
 
-2.8. Szintvizsga: -
+2.8. Szintvizsga: –
 
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
 
-3. PÁLYATÜKÖR
+3. Pályatükör
 
-3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
+3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör, foglalkozás
+
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | a szakképesítés-ráépüléssel betölthető munkakör(ök) |
+
+| 3.1.2. | 5321 | Rendőr | Bűnügyi technikus |
+
+3.2. A szakképesítés-ráépülés munkaterületének rövid leírása:
+
+Bűnügyi technikusi feladatokat lát el.
+
+A szakképesítés-ráépüléssel rendelkező képes:
+
+– bűncselekmények, vagy egyéb esemény helyszínén, eljárási cselekményeknél bűnügyi technikai tevékenységet végezni, dokumentációs tevékenységet végrehajtani
+
+– speciális büntetőeljárás-jogi és közigazgatás-jogi szabályokat alkalmazni
+
+– védőfelszereléseket használni
+
+– fotó- és videotechnikai eszközöket alkalmazni
+
+– fotó- és videotechnikai dokumentációt készítni
+
+– fotó- és videotechnikai programokat felhasználni az informatikai archiválás során
+
+– helyszínvázlatot, helyszínrajzot készíteni szoftveres támogatással
+
+– nyomokat, anyagmaradványokat biztosítani, rögzíteni
+
+– speciális technikai eszközöket és módszereket alkalmazni
+
+– fizikai, fizikai-kémiai és vegyszeres nyomkutatást végrehajtani
+
+– tárgyi bizonyítási eszközöket szakszerűen kezelni
+
+– a helyszíni nyomokat és anyagmaradványokat értékelni, ezekből következtetéseket levonni
+
+– a rögzített nyomokat, anyagmaradványokat szakértői vizsgálatra biztosítani
+
+– nyilvántartásba vételi tevékenységet végrehajtani
+
+– szolgálata ellátása során szükség esetén lőfegyvert használni
+
+– eljárása során betartani a jogszerűség, szakszerűség, arányosság, objektivitás, biztonság és eredményesség követelményeit
+
+3.3. Kapcsolódó szakképesítések
+
+|  | A | B | C |
+
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+| 3.3.3. | 54 861 01 | Rendőr tiszthelyettes (Bűnügyi-rendőr) | szakképesítés |
+
+4. Szakmai követelmények
+
+|  | A | B |
+
+| 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+
+| 4.2. | azonosító száma | megnevezése |
+
+| 4.3. | 10406-12 | Bűnügyi technikusi feladatok |
+
+5. Vizsgáztatási követelmények
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei
+
+Iskolarendszeren kívüli szakképzés esetén az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele, valamint a képzés során készített fényképmellékletek, munkadossziék legalább megfelelő minősítése
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
+
+|  | A | B | C |
+
+| 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
+
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.3. | 10406-12 | Bűnügyi technikusi feladatok | írásbeli |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
+
+5.3.1. Gyakorlati vizsgatevékenység
+
+A vizsgafeladat megnevezése: Bűnügyi technikusi gyakorlati feladatok
+
+A vizsgafeladat ismertetése: Egy beállított gyakorló helyszínről a fotódokumentáció, helyszínvázlat, helyszínrajz elkészítése, a helyszínen telepített nyomok, anyagmaradványok felkutatása, rögzítése, csomagolása
+
+A vizsgafeladat időtartama: 360 perc
+
+A vizsgafeladat értékelési súlyaránya: 60%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: –
+
+A vizsgafeladat ismertetése: –
+
+A vizsgafeladat időtartama: –
+
+A vizsgafeladat értékelési súlyaránya: –
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Bűnügyi technikusi feladatok, jogi és kriminalisztikai ismeretek
+
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények pontban megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
+
+A vizsgafeladat időtartama: 25 perc (ebből felkészülési idő: 15 perc, válaszadási idő 10 perc)
+
+A vizsgafeladat értékelési súlyaránya: 40%
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok
+
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
+
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
+
+6. Eszköz- és felszerelési jegyzék
+
+|  | A |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Tanterem |
+
+| 6.3. | Vegyi labor |
+
+| 6.4. | Számítástechnikai szakkabinet |
+
+| 6.5. | Szituációs helyiségek berendezési tárgyakkal |
+
+| 6.6. | Szolgálati járművek |
+
+| 6.7. | Digitális fényképezőgépek |
+
+| 6.8. | Videokamerák |
+
+| 6.9. | Mérőeszközök |
+
+| 6.10. | Forgalom elterelő eszközök |
+
+| 6.11. | Speciális világító eszközök |
+
+| 6.12. | Speciális nyomkutató, előhívó anyagok, eszközök, csomagolóanyagok |
+
+| 6.13. | Speciális nyomtatványok |
+
+| 6.14. | Hitelesítő anyagok |
+
+| 6.15. | Eszközök számára táskák |
+
+7. Egyebek
+
+7.1. Validáció: –
+
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
+
+|  | A | B | C |
+
+| 7.2.1. | azonosító száma | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+
+| 7.2.2. | 55 861 02 | Bűnügyi technikus | Országos Rendőr-főkapitányság |
+
+A 11. SORSZÁMÚ CSAPATSZOLGÁLATI JÁRŐRTÁRS MEGNEVEZÉSŰ RÉSZSZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+1. Az Országos Képzési Jegyzékben szereplő adatok
+
+1.1. A részszakképesítés azonosító száma: 51 861 01
+
+1.2. Részszakképesítés megnevezése: Csapatszolgálati járőrtárs
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 1000-1500
+
+2. Egyéb adatok
+
+2.1. A képzés megkezdésének feltételei:
+
+2.1.1. Iskolai előképzettség: érettségi végzettség
+
+2.1.2. Bemeneti kompetenciák: –
+
+2.2. Szakmai előképzettség: –
+
+2.3. Előírt gyakorlat: –
+
+2.4. Egészségügyi alkalmassági követelmények: szükségesek
+
+2.5. Pályaalkalmassági követelmények: szükségesek
+
+2.6. Elméleti képzési idő aránya: 40%
+
+2.7. Gyakorlati képzési idő aránya: 60%
+
+2.8. Szintvizsga: –
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
+
+3. Pályatükör
+
+3.1. A részszakképesítéssel legjellemzőbben betölthető munkakör, foglalkozás
+
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | A részszakképesítéssel betölthető munkakörök |
+
+| 3.1.2. | 5251 | Rendőr | Rendőr járőr |
+
+| 3.1.3. | 5251 | Rendőr | Objektumőr és kísérő |
+
+| 3.1.4. | 5251 | Rendőr | Fogdaőr |
+
+3.2. A részszakképesítés munkaterületének rövid leírása:
+
+Bűnügyi, közrendvédelmi, közlekedési, határrendészeti szakszolgálat ellátásával védi a közbiztonságot és a belső rendet, az államhatár rendjét, részt vesz menekültügyi feladatok ellátásában.
+
+A részszakképesítéssel rendelkező képes:
+
+− általános szolgálati feladatokat teljesíteni
+
+− szakterületéhez kapcsolódó eszközöket kezelni, használni
+
+− őrzési, objektum-, létesítményvédelmi és általános személyvédelmi feladatokat ellátni
+
+− személyes szabadságot nem-, továbbá személyes szabadságot korlátozó intézkedéseket végrehajtani, kényszerítő eszközöket alkalmazni
+
+− csapatszolgálati feladatokat teljesíteni
+
+− tömegkezelési, tömegoszlatási, rendezvénybiztosítási feladatokat ellátni
+
+− közrendvédelmi feladatokat ellátni
+
+− az államhatár rendjét védeni
+
+− menekültügyi feladatokat ellátni.
+
+3.3. Kapcsolódó szakképesítések
+
+|  | A | B | C |
+
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+| 3.3.3. | 54 861 01 | Rendőr tiszthelyettes (Bűnügyi-rendőr) | szakképesítés |
+
+| 3.3.4. | 54 861 01 | Rendőr tiszthelyettes (Határrendészeti-rendőr) | szakképesítés |
+
+| 3.3.5. | 54 861 01 | Rendőr tiszthelyettes (Közlekedési-rendőr) | szakképesítés |
+
+| 3.3.6. | 54 861 01 | Rendőr tiszthelyettes (Közrendvédelmi-rendőr) | szakképesítés |
+
+4. Szakmai követelmények
+
+|  | A | B |
+
+| 4.1. | A részszakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+
+| 4.2. | azonosítója | megnevezése |
+
+| 4.3. | 10352-12 | Rendvédelmi alapfeladatok |
+
+| 4.4. | 10370-12 | Őr-járőrtársi feladatok |
+
+| 4.5. | 10371-12 | Csapatszolgálati feladatok |
+
+5. Vizsgáztatási követelmények
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei
+
+Iskolai rendszerű szakképzés esetén:
+
+Az előírt területi szakmai gyakorlatok értékelt, eredményes teljesítése.
+
+E szakmát gyakorlókra vonatkozó – külön jogszabályban meghatározott - fizikai, erőnléti követelmények norma szerinti legalább megfelelt szintű teljesítése.
+
+Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizonyítványban foglaltak szerint teljesített tantárgyak – a szakképzési kerettantervben meghatározottak szerint – egyenértékűek az adott követelménymodulhoz tartozó modulzáró vizsga teljesítésével.
+
+Az iskolarendszeren kívüli szakképzés esetén: az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele. A képzési programban előírt gyakorlat teljesítéséről szóló igazolás, és a területi rendőri szerv, valamint a képző intézmény által hitelesített, legalább elégséges szintet elérő értékelés.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
+
+|  | A | B | C |
+
+| 5.2.1 | A részszakképesítés szakmai követelménymoduljainak |
+
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.3. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
+
+| 5.2.4. | 10370-12 | Őr-járőrtársi feladatok | gyakorlati, írásbeli, szóbeli |
+
+| 5.2.5. | 10371-12 | Csapatszolgálati feladatok | írásbeli |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
+
+5.3.1. Gyakorlati vizsgatevékenység
+
+A vizsgafeladat megnevezése: Rendőri intézkedés a gyakorlatban
+
+A vizsgafeladat ismertetése: Komplex rendőri intézkedés végrehajtása vizsgahelyszínen, melyen keresztül lemérhető a vizsgázó alakiassága, fizikai felkészültsége, a szakszerű és jogszerű rendőri intézkedésre való felkészültség, kommunikációja és eszközhasználati készség. A közterületi intézkedést szimuláló feladatban jelzők és járőrtárs által támogatott feladat-végrehajtás történik.
+
+A vizsgafeladat időtartama: 30 perc
+
+A vizsgafeladat értékelési súlyaránya: 40%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Csapatszolgálati járőrtárs szakfeladatok
+
+A vizsgafeladat ismertetése: A szolgálatteljesítés általános szabályai, csapatszolgálati feladatok
+
+A vizsgafeladat időtartama: 75 perc
+
+A vizsgafeladat értékelési súlyaránya: 40%
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Objektum-, személy- és vagyonvédelmi ismeretek
+
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények pontban megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
+
+A vizsgafeladat időtartama: 20 perc (ebből felkészülési idő: 10 perc, válaszadási idő 10 perc)
+
+A vizsgafeladat értékelési súlyaránya: 20%
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
+
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
+
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai:
+
+Amennyiben a teljesítendő írásbeli feladat eredménye nem éri el az 51%-ot, akkor az írásbeli vizsgatevékenység eredménye elégtelen. Sikertelen a szakmai vizsga, ha bármely teljesítendő vizsgatevékenység (gyakorlati írásbeli, szóbeli) eredményét elégtelenre értékeli a vizsgabizottság.
+
+6. Eszköz- és felszerelési jegyzék
+
+|  | A |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Fegyverzet |
+
+| 6.3. | Lövedékálló mellény |
+
+| 6.4. | Speciális egyéni felszerelés és kiegészítői |
+
+| 6.5. | Kényszerítő eszközök |
+
+| 6.6. | Tömegoszlatás speciális eszközei |
+
+| 6.7. | Szolgálati járművek |
+
+| 6.8. | Számítógép és perifériái (informatikai eszközök) |
+
+| 6.9. | Híradástechnikai eszközök |
+
+| 6.10. | Világító berendezés |
+
+| 6.11. | Forgalom elterelő eszközök |
+
+| 6.12. | Nyomtató |
+
+| 6.13. | Telefon, fax |
+
+| 6.14. | Járőr-, őr felszerelés |
+
+| 6.15. | Figyelést-, látást-, tájékozódást segítő eszközök, berendezések |
+
+| 6.16. | Okmányminták |
+
+7. Egyebek
+
+7.1. Megfeleltetés: Kizárólag a modulzáró vizsgák alóli felmentést biztosítják
+
+Jelen részszakképesítés egyenértékűnek tekintendő
+
+− a 15/2008. (VII. 28.) IRM rendelet szerinti 52 861 06 0100 52 03 azonosítószámú Csapatszolgálati járőrtárs részszakképesítéssel.
+
+− a 15/2008. (VII. 28.) IRM rendelet szerinti 52 861 06 0100 52 02 számú Objektumőr-kísérő részszakképesítés akkor tekinthető egyenértékűnek jelen részszakképesítéssel, ha az Objektumőr-kísérő részszakképesítés megszerzését követően öt éven belül a Készenléti rendőrség vagy az Országos-rendőrfőkapitányság által kiállított Tanúsítvány igazolja, hogy a személy 160 órás Csapatszolgálati felkészítésben eredményesen részt vett.
+
+7.2. A szakmai szervezet szakmai vizsgabizottságban betöltött feladatait a Rendőr tiszthelyettes szakképesítés és részszakképesítései tekintetében az Országos Rendőr-főkapitányság látja el.
+
+|  | A | B | C |
+
+| 7.2.1. | azonosító száma | A részszakképesítés megnevezése | A részszakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+
+| 7.2.2. | 51 861 01 | Csapatszolgálati járőrtárs | Országos Rendőr-főkapitányság |
+
+A 12. SORSZÁMÚ CSATORNAMŰ-KEZELŐ
+
+MEGNEVEZÉSŰ RÉSZSZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+1. Az Országos Képzési Jegyzékben szereplő adatok
+
+1.1. A részszakképesítés azonosító száma: 51 853 03
+
+1.2. Részszakképesítés megnevezése: Csatornamű-kezelő
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 200 – 300 óra
+
+2. Egyéb adatok
+
+2.1. A képzés megkezdésének feltételei:
+
+2.1.1. Iskolai előképzettség: érettségi végzettség
+
+2.1.2. Bemeneti kompetenciák: –
+
+2.2. Szakmai előképzettség: –
+
+2.3. Előírt gyakorlat: –
+
+2.4. Egészségügyi alkalmassági követelmények: szükségesek
+
+2.5. Pályaalkalmassági követelmények: –
+
+2.6. Elméleti képzési idő aránya: 40%
+
+2.7. Gyakorlati képzési idő aránya: 60%
+
+2.8. Szintvizsga: –
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
+
+3. Pályatükör
+
+3.1. A részszakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
+
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | A részszakképesítéssel betölthető munkakör(ök) |
+
+| 3.1.2. | 7521 | Vezeték- és csőhálózat-szerelő | Víz- és szennyvízcsőfektető |
+
+| 3.1.3. | 8322 | Vízgazdálkodási gép kezelője | Csatornaműgép-kezelő |
+
+| 3.1.4. | 8322 | Vízgazdálkodási gép kezelője | Csatornaüzemi gép kezelője |
+
+| 3.1.5. | 8322 | Vízgazdálkodási gép kezelője | Szennyvíztelep-kezelő |
+
+| 3.1.6. | 8322 | Vízgazdálkodási gép kezelője | Szennyvíztelepi gépkezelő |
+
+3.2. A részszakképesítés munkaterületének rövid leírása:
+
+A csatornamű-kezelő a szakismeretének megfelelő, alábbiakban felsorolt tevékenységeket a kezelési, karbantartási és javítási utasításoknak megfelelően, a hatósági, és a vonatkozó jogszabályi előírások betartásával, az adott közüzem belső szervezeti szabályzatának megfelelő irányítással, önállóan végzi.
+
+A részszakképesítéssel rendelkező képes:
+
+− szennyvízelvezetésre és tisztításra szolgáló létesítmények és berendezések, valamint a hozzájuk tartozó kiszolgáló berendezések kezelési, karbantartási feladatait elvégezni
+
+− a csatornahálózat, és tisztítómű üzemzavar elhárítási feladatait megoldani
+
+− a gravitációs csatornahálózat tisztítási, javítási feladatait elvégezni
+
+− kényszer-áramoltatású (nyomás és vákuum alatti) csatornahálózat, üzemeltetési, karbantartási, javítási feladatait megoldani
+
+− a szennyvíz útjának nyomon követésével, csatornahálózatot ellenőrizni, a tisztítótelep műtárgyainak, berendezéseit üzemeltetni, karbantartani, javítási feladatokat elvégezni
+
+− nyomás, illetve vákuum alatt üzemelő berendezéseket üzemeltetni, karbantartani, javítani, sűrített levegő előállítására és tárolására szolgáló berendezések és a hozzájuk tartozó csőhálózat üzemeltetési, karbantartási, javítási feladatait elvégezni,
+
+− fertőtlenítő berendezéseket üzemeltetni
+
+− kémiai és fizikai segédanyagokat kimérni, előkészíteni, adagolni
+
+− szippantott szennyvíz kiemelését, szállítását és előkezelését megoldani
+
+− mechanikus, pneumatikus, robbanó-motoros valamint elektromos segédeszközöket és kéziszerszámokat használni
+
+− hordozható laboratóriumi mérőműszerekkel, gyorstesztekkel fizikai és kémiai üzemviteli ellenőrző méréseket végezni
+
+− hagyományos és számítógépes műszaki dokumentációkat használni
+
+− hagyományos és számítógépes nyilvántartásokat, üzemnaplókat vezetni
+
+− ügyfélszolgálati tevékenységeket ellátni
+
+− mintavételi, mérési feladatok ellátásában közreműködni
+
+− munkavégzés közben a munkavédelmi, balesetvédelmi, tűzvédelmi és környezetvédelmi szabályokat betartani, és betartatni
+
+3.3. Kapcsolódó szakképesítések
+
+|  | A | B | C |
+
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+| 3.3.3. | 51 853 02 | Fürdőüzemi gépész | részszakképesítés |
+
+| 3.3.4. | 51 853 05 | Vízműkezelő | részszakképesítés |
+
+| 3.3.5. | 54 853 04 | Víziközmű technikus | szakképesítés |
+
+| 3.3.6. | 55 853 01 | Vízépítő szaktechnikus | szakképesítés-ráépülés |
+
+| 3.3.7. | 55 853 02 | Vízminőség-védelmi szaktechnikus | szakképesítés-ráépülés |
+
+4. Szakmai követelmények
+
+|  | A | B |
+
+| 4.1. | A részszakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+
+| 4.2. | azonosító száma | megnevezése |
+
+| 4.3. | 11550-16 | Csatornamű-kezelő feladatai |
+
+5. Vizsgáztatási követelmények
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei
+
+Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
+
+|  | A | B | C |
+
+| 5.2.1. | A részszakképesítés szakmai követelménymoduljainak |
+
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.3. | 11550-16 | Csatornamű-kezelő feladatai | gyakorlati, szóbeli |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
+
+5.3.1. Gyakorlati vizsgatevékenység
+
+A vizsgafeladat megnevezése:
+
+Csatornamű-kezelő gépészeti, üzemeltetési feladatok a munka-, tűz- és környezetvédelmi előírások betartásával
+
+A vizsgafeladat ismertetése:
+
+Csatornák és csővezetékek szerelési, javítási munkáinak elvégzése műhelykörülmények között. Valamely csatornamű üzemeltetés során alkalmazott gép vagy szerelvény (szivattyú, tolózár, visszacsapó szelep) ellenőrzése, szétszerelése, hiba-felvételezése, javítása, összeszerelése. Üzemi körülmények között, valamely gépcsoport vagy berendezés üzemeltetésével kapcsolatos feladat (üzembe helyezés, üzemi paraméterek ellenőrzése, kiiktatás) elvégzése. Hordozható laboratóriumi mérőműszerekkel, fizikai és kémiai üzemviteli ellenőrző mérések elvégezése.
+
+A vizsgafeladat időtartama: 60 perc
+
+A vizsgafeladat aránya: 60%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: –
+
+A vizsgafeladat ismertetése: –
+
+A vizsgafeladat időtartama: –
+
+A vizsgafeladat értékelési súlyaránya: –
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Csatornaműkezelő szakmai ismeretek, munkaügy, munkabiztonság, környezetvédelem
+
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott valamennyi modulhoz tartozó témakörök mindegyikét tartalmazza.
+
+A vizsgafeladat időtartama: 30 perc (felkészülési idő 20 perc, válaszadási idő 10 perc)
+
+A vizsgafeladat aránya: 40%
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok: -
+
+A részszakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők.
+
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
+
+6. Eszköz- és felszerelési jegyzék
+
+|  | A |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Különféle tisztítófejek |
+
+| 6.3. | Szerelhető szivattyú |
+
+| 6.4. | Szerelhető tolózár, szelep |
+
+| 6.5. | Szerelhető csövek és szerelvények, idomok |
+
+| 6.6. | Mosópisztoly, sugárfej |
+
+| 6.7. | Mechanikus és elektromos kéziszerszámok |
+
+| 6.8. | Csőszerelés szerszámai |
+
+| 6.9. | Mérőeszközök: szintező műszerek, hosszúság, tömeg |
+
+| 6.10. | Szintjelző műszerek |
+
+| 6.11. | Fertőtlenítő berendezés |
+
+| 6.12. | Hordozható laboratóriumi műszerek, gyorstesztek |
+
+| 6.13. | Munkavédelmi felszerelések, eszközök |
+
+7. Egyebek
+
+A 13. SORSZÁMÚ ELEKTRONIKUS VAGYONVÉDELMI RENDSZERSZERELŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+1. Az Országos Képzési Jegyzékben szereplő adatok
+
+1.1. A szakképesítés-ráépülés azonosító száma: 35 861 01
+
+1.2. Szakképesítés-ráépülés megnevezése: Elektronikus vagyonvédelmi rendszerszerelő
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 250-350
+
+2. Egyéb adatok
+
+2.1. A képzés megkezdésének feltétele: a vagyonvédelemről szóló jogszabályokban megfogalmazott erkölcsi alkalmazási feltételek megléte.
+
+2.1.1. Iskolai előképzettség: alapfokú iskolai végzettség
+
+2.1.2. Bemeneti kompetenciák: –
+
+2.2. Szakmai előképzettség:
+
+– 34 522 03 Elektronikai műszerész
+
+– 34 522 01 Elektromechanikai műszerész
+
+– 33 523 02 Távközlési és informatikai hálózatszerelő
+
+– 34 522 04 Villanyszerelő
+
+– 54 523 01 Automatikai technikus
+
+– 34 522 02 Elektromos gép- és készülékszerelő
+
+– 31 522 01 Elektronikai gyártósori műszerész
+
+– 54 523 02 Elektronikai technikus
+
+– 54 522 01 Erősáramú elektrotechnikus
+
+– 32 521 02 Kereskedelmi, háztartási és vendéglátóipari gépszerelő
+
+– 34 523 01 Mechatronikus-karbantartó
+
+– 32 521 04 Órás
+
+– 51 523 01 PLC programozó
+
+– 54 481 03 Infokommunikációs hálózatépítő és üzemeltető
+
+– 54 523 05 Távközlési technikus
+
+– 51 523 02 Távközlési üzemeltető
+
+– 31 523 01 Távközlési és informatikai hálózatszerelő
+
+– 35 522 01 Audio- és vizuáltechnikai műszerész
+
+– 55 523 05 Beszédátviteli rendszerüzemeltető technikus
+
+– 55 523 01 Elektronikus hozzáférési és magánhálózati rendszerüzemeltető technikus
+
+– 55 523 02 Elektronikus műsorközlő és tartalomátviteli rendszerüzemeltető technikus
+
+– 55 523 03 Gerinchálózati rendszerüzemeltető
+
+szakképesítés.
+
+2.3. Előírt gyakorlat: –
+
+2.4. Egészségügyi alkalmassági követelmények: szükségesek
+
+2.5. Pályaalkalmassági követelmények: –
+
+2.6. Elméleti képzési idő aránya: 40%
+
+2.7. Gyakorlati képzési idő aránya: 60%
+
+2.8. Szintvizsga: –
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
+
+3. Pályatükör
+
+3.1 A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
 
 |  | A | B | C |
 
@@ -2014,91 +2808,53 @@ szakképesítés.
 
 | 3.1.2. | 5259 | Egyéb személy és vagyonvédelmi foglalkozású | Elektronikus vagyonvédelmi rendszerszerelő |
 
-3.2. A szakképesítés-ráépülés munkaterületének rövid leírása:
+3.2. A szakképesítés-ráépülés munkaterületének rövid leírása
 
-- felveszi a megrendelést
-
-- a hatályos jogszabályok, szabványi előírások, ajánlások ismeretében a helyszíni felmérést, kockázatelemzést elvégzi
-
-- vázlatot, ajánlatot készít
-
-- terveket, műszaki leírásokat olvas, értelmez
-
-- erőforrást és időszükségletet meghatároz
-
-- informatikai,- munkaszervezési,- technológiai munkákat tervez
-
-- a kiviteli munkafolyamatot előkészíti, a beépítésre tervezett anyagot beszerezi
-
-- a bel,- és/vagy kültéri védelmi létesítményeket szereli, telepíti és karbantartja
-
-- beléptető rendszert telepít, karbantart és javít
-
-- behatolás jelző,- videó és megfigyelő rendszert telepít, karbantart és javít
-
-- a szakszerű használatra vonatkozó tájékoztatást megadja
-
-- elektronikus vagyonvédelmi rendszerjavítást, karbantartást végez
-
-- elektronikus vagyonvédelmi rendszer hibáját feltárja
-
-- elektromechanikus és elektronikus műszerekkel méréseket végez
-
-- elektronikai, elektrotechnikai összefüggések ismeretében alapvető számításokat elvégez
-
-- számítógéppel a rendszert beállítja, internetet használ
-
-- üzemelteti a számítógépes jelfeldolgozás eszközeit
-
-- a kiviteli munkafolyamatot dokumentálja
-
-- a kezelő személyzetet oktatja
-
-- munkafolyamatokat lezár
+Az Elektronikus vagyonvédelmi rendszerszerelő a szakképesítéssel rendelkező személy szakképesítése tekintetében megnevezve az Elektronikus vagyonvédelmi rendszerszerelő szakmai ismereteinek megfelelő, az alábbiakban felsorolt tevékenységeket a szakmai, valamint a vonatkozó munkabiztonsági előírások betartásával, az adott munkaszervezet belső szervezeti rendjének megfelelő irányítással, vagy önállóan végzi el.
 
 A szakképesítés-ráépüléssel rendelkező képes:
 
-- felvenni a megrendelést
+– felvenni a megrendelést
 
-- a hatályos jogszabályok, szabványi előírások, ajánlások ismeretében a helyszíni felmérést, kockázatelemzést elvégezni
+– a hatályos jogszabályok, szabványi előírások, ajánlások ismeretében a helyszíni felmérést, kockázatelemzést elvégezni
 
-- vázlatot, ajánlatot készíteni
+– vázlatot, ajánlatot készíteni
 
-- terveket, műszaki leírásokat olvasni, értelmezni
+– terveket, műszaki leírásokat olvasni, értelmezni
 
-- erőforrást és időszükségletet meghatározni
+– erőforrást és időszükségletet meghatározni
 
-- informatikai,- munkaszervezési,- technológiai munkákat tervezni
+– informatikai, munkaszervezési, technológiai munkákat tervezni
 
-- a kiviteli munkafolyamatot előkészíteni, a beépítésre tervezett anyagot beszerezni
+– a kiviteli munkafolyamatot előkészíteni, a beépítésre tervezett anyagot beszerezni
 
-- a bel,- és/vagy kültéri védelmi létesítményeket szerelni, telepíteni és karbantartani
+– a bel- és/vagy kültéri védelmi létesítményeket szerelni, telepíteni és karbantartani
 
-- beléptető rendszert telepíteni, karbantartani és javítani
+– beléptető rendszert telepíteni, karbantartani és javítani
 
-- behatolás jelző,- videó és megfigyelő rendszert telepíteni, karbantartani és javítani
+– behatolás jelző-, videó- és megfigyelőrendszert telepíteni, karbantartani és javítani
 
-- a szakszerű használatra vonatkozó tájékoztatást megadni
+– a szakszerű használatra vonatkozó tájékoztatást megadni
 
-- elektronikus vagyonvédelmi rendszerjavítást, karbantartást végezni
+– elektronikus vagyonvédelmi rendszerjavítást, karbantartást végezni
 
-- elektronikus vagyonvédelmi rendszer hibáját feltárni
+– elektronikus vagyonvédelmi rendszer hibáját feltárni
 
-- elektromechanikus és elektronikus műszerekkel méréseket végezni
+– elektromechanikus és elektronikus műszerekkel méréseket végezni
 
-- elektronikai, elektrotechnikai összefüggések ismeretében alapvető számításokat elvégezni
+– elektronikai, elektrotechnikai összefüggések ismeretében alapvető számításokat elvégezni
 
-- számítógéppel a rendszert beállítani, internetet használni
+– számítógéppel a rendszert beállítani, internetet használni
 
-- üzemeltetni a számítógépes jelfeldolgozás eszközeit
+– üzemeltetni a számítógépes jelfeldolgozás eszközeit
 
-- a kiviteli munkafolyamatot dokumentálni
+– a kiviteli munkafolyamatot dokumentálni
 
-- a kezelő személyzetet oktatni
+– a kezelő személyzetet oktatni
 
-- munkafolyamatokat lezárni
+– munkafolyamatokat lezárni
 
-3.3. Kapcsolódó szakképesítések:
+3.3. Kapcsolódó szakképesítések
 
 |  | A | B | C |
 
@@ -2110,7 +2866,7 @@ A szakképesítés-ráépüléssel rendelkező képes:
 
 | 3.3.4. | 34 522 01 | Elektromechanikai műszerész | szakképesítés |
 
-| 3.3.5. | 33 523 02 000 | Távközlési és informatikai hálózatszerelő | szakképesítés |
+| 3.3.5. | 33 523 02 | Távközlési és informatikai hálózatszerelő | szakképesítés |
 
 | 3.3.6. | 34 522 04 | Villanyszerelő megnevezésű | szakképesítés |
 
@@ -2150,7 +2906,7 @@ A szakképesítés-ráépüléssel rendelkező képes:
 
 | 3.3.24. | 55 523 03 | Gerinchálózati rendszerüzemeltető | szakképesítés |
 
-4. SZAKMAI KÖVETELMÉNYEK
+4. Szakmai követelmények
 
 |  | A | B |
 
@@ -2162,13 +2918,13 @@ A szakképesítés-ráépüléssel rendelkező képes:
 
 | 4.4. | 10360-12 | Elektronikai vagyonvédelmi rendszerszerelői feladatok |
 
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
+5. Vizsgáztatási követelmények
 
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
+5.1. A komplex szakmai vizsgára bocsátás feltételei
 
 Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
 
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
 
 |  | A | B | C |
 
@@ -2182,13 +2938,13 @@ Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamenny
 
 Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladatok mindegyikének végrehajtása legalább 51%-osra értékelhető.
 
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
 
 5.3.1. Gyakorlati vizsgatevékenység
 
 A vizsgafeladat megnevezése: Elektronikus vagyonvédelmi rendszerszerelői és életmentési tevékenység
 
-A vizsgafeladat ismertetése: A megrendelt elektronikai jellegű védelmi eszköz, berendezés telepítési vázlatának és energia szükséglet számításának elkészítése, a munka beindítása, a szükséges eszközök és részegységek kiválasztása, egy részének telepítése, a rendszer beüzemelése, programozása, valamint életmentéssel kapcsolatos részfeladat elvégzése.
+A vizsgafeladat ismertetése: A megrendelt elektronikai jellegű védelmi eszköz, berendezés telepítési vázlatának és energiaszükséglet számításának elkészítése, a munka beindítása, a szükséges eszközök és részegységek kiválasztása, egy részének telepítése, a rendszer beüzemelése, programozása, valamint életmentéssel kapcsolatos részfeladat elvégzése.
 
 A vizsgafeladat időtartama: 75 perc
 
@@ -2206,7 +2962,9 @@ A vizsgafeladat értékelési súlyaránya: 35%
 
 5.3.3. Szóbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése: A Személy-, Vagyonvédelmi és Magánnyomozói Szakmai A vizsgafeladat ismertetése: Kamarára és a felügyeleti szervére vonatkozó-, illetve a szakmához kapcsolódó előírások, szabályok, valamint ezek érvényesítése.
+A vizsgafeladat megnevezése: Szakmai ismeretek
+
+A vizsgafeladat ismertetése: Szabályozási és szakmai rendszerismeretek.
 
 A szóbeli központilag összeállított vizsga kérdései az összes modul követelményeire vonatkoznak.
 
@@ -2216,11 +2974,11 @@ A vizsgafeladat értékelési súlyaránya: 15%
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok: -
 
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
 
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
 
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+6. Eszköz- és felszerelési jegyzék
 
 |  | A |
 
@@ -2242,59 +3000,1237 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 | 6.9. | Különféle biztonságtechnikai eszközök |
 
-7. EGYEBEK
+7. Egyebek
 
 7.1. Megfeleltetés: Kizárólag a modulzáró vizsgák alóli felmentést biztosítják
 
 7.1.1. A 0714-06 Elektronikus vagyonvédelmi rendszerszerelési feladatok, a 0716-06 Biztonsági alapfeladatok II., a 0718-06 Biztonságtechnikai szerelési feladatok elektronikus vagyonvédelmi rendszerszerelők részére megnevezésű modulok együttesen megfelelnek a 10360-12 számú Elektronikai vagyonvédelmi rendszerszerelői teendők megnevezésű modulnak.
 
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezete:
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
 
 |  | A | B | C |
 
-| 7.2.1. | azonosító szám | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+| 7.2.1. | azonosító száma | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
 
 | 7.2.2. | 35 861 01 | Elektronikus vagyonvédelmi rendszerszerelő | Személy-, Vagyonvédelmi és Magánnyomozói Szakmai Kamara |
 
-7.3. A képzés megkezdésének feltétele: a vagyonvédelemről szóló jogszabályokban megfogalmazott erkölcsi alkalmazási feltételek megléte.
+A 14. SORSZÁMÚ FEGYVERES BIZTONSÁGI ŐR MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
-A 12. sorszámú Katasztrófavédelmi előadó megnevezésű szakképesítés szakmai és vizsgakövetelménye
+1. Az Országos Képzési Jegyzékben szereplő adatok
 
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+1.1. A szakképesítés-ráépülés azonosító száma: 53 861 05
+
+1.2. Szakképesítés-ráépülés megnevezése: Fegyveres biztonsági őr
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 250-350
+
+2. Egyéb adatok
+
+2.1. A képzés megkezdésének feltétele: a fegyveres biztonsági őrségről szóló jogszabályokban megfogalmazott erkölcsi alkalmazási feltételek megléte.
+
+2.1.1. Iskolai előképzettség: érettségi végzettség
+
+2.1.2. Bemeneti kompetenciák: –
+
+2.2. Szakmai előképzettség: 32 861 01 Személy- és vagyonőr szakképesítés
+
+2.3. Előírt gyakorlat: –
+
+2.4. Egészségügyi alkalmassági követelmények: szükségesek
+
+2.5. Pályaalkalmassági követelmények: szükségesek
+
+2.6. Elméleti képzési idő aránya: 40%
+
+2.7. Gyakorlati képzési idő aránya: 60%
+
+2.8. Szintvizsga: –
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
+
+3. Pályatükör
+
+3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör-(ök), foglalkozás(ok)
+
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítés-ráépüléssel betölthető munkakör |
+
+| 3.1.2. | 5254 | Vagyonőr, testőr | Fegyveres biztonsági őr, Felvezető, Őrparancsnok, Őrségparancsnok |
+
+3.2. A szakképesítés-ráépülés munkaterületének rövid leírása:
+
+A szakképesítés birtokában, a fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvényben meghatározott, az állam működése és a lakosság ellátása szempontjából kiemelkedően fontos létesítmények, szállítmányok és tevékenységek védelmét látja el.
+
+Feladatának ellátásához jogszabály biztosította speciális közhatalmi és kényszerítőeszköz-használati jogosultságokkal rendelkezik, melyek közterületen ellátott szolgálata során is megilletik tevékenységével kapcsolatban. Szolgálatát kényszerítő eszközökkel látja el, melyhez hozzátartozik speciális, kettős – rövid és hosszú tűzfegyver, vagy automata lőfegyver – fegyverzete is.
+
+A szakképesítés-ráépüléssel rendelkező képes:
+
+− fegyveresen szolgálatot ellátni
+
+− őrzés-védelmi feladatot ellátni
+
+− járőrtevékenységet végezni, több fős járőrt irányítani
+
+− személyeket őrizni, kísérni
+
+− be- és kiléptetést végrehajtani
+
+− jármű, csomag, ruházat átvizsgálást végrehajtani
+
+− biztonságtechnikai rendszert kezelni
+
+− biztonságtechnikai rendszer jelzéseire reagálni
+
+− szolgálattal összefüggő dokumentálást elkészíteni
+
+− igazoltatni
+
+− elfogni
+
+− visszatartást végrehajtani
+
+− személyt hatóság elé állítani
+
+− kényszerítő eszközöket használni
+
+− lőfegyvert használni
+
+− objektum őrzési tervét elkészíteni
+
+− őrségek szolgálatát megszervezni
+
+− az őrök képzését megtervezni, helyszíni felkészítésüket végrehajtani
+
+− az őrök szolgálatát irányítani az őrzött javakat, vagy személyeket ért támadás során
+
+− az őrök munkáját ellenőrizni, minősíteni
+
+− fejlesztési terveket készíteni, megvalósításukat menedzselni
+
+− biztonsági helyzetet értékelő értékeléseket, jelentéseket készíteni
+
+3.3. Kapcsolódó szakképesítések:
+
+|  | A | B | C |
+
+| 3.3.1. | A kapcsolódó szakképesítés, rész-szakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+| 3.3.3. | 32 861 01 | Személy- és vagyonőr | szakképesítés |
+
+4. Szakmai követelmények
+
+|  | A | B |
+
+| 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+
+| 4.2. | azonosító száma | megnevezése |
+
+| 4.3. | 10412-12 | Fegyverismeret, kényszerítőeszköz-kezelés-, tárolás-, karbantartás |
+
+| 4.4. | 10413-12 | Fegyveres biztonsági őrségre vonatkozó jogszabályok |
+
+| 4.5. | 10414-12 | Intézkedéstaktikai, konfliktuskezelési szituációs gyakorlat |
+
+5. Vizsgáztatási követelmények
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei
+
+Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
+
+|  | A | B | C |
+
+| 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
+
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.3. | 10412-12 | Fegyverismeret, kényszerítőeszköz-kezelés-, tárolás-, karbantartás | gyakorlati |
+
+| 5.2.4. | 10413-12 | Fegyveres biztonsági őrségre vonatkozó jogszabályok | írásbeli |
+
+| 5.2.5. | 10414-12 | Intézkedéstaktikai, konfliktuskezelési szituációs gyakorlat | szóbeli |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
+
+5.3.1. Gyakorlati vizsgatevékenység
+
+A vizsgafeladat megnevezése: Fegyveres biztonsági őri gyakorlati szakfeladatok
+
+A vizsgafeladat ismertetése: Pisztoly szituációs lőgyakorlat (a 7. pont Egyebek fejezetben meghatározott tartalommal). Gépkarabély szituációs lőgyakorlat (a 7. pont Egyebek fejezetben meghatározott tartalommal). Konfliktuskezelés és kényszerítőeszköz használat (a 7. pont Egyebek fejezetben meghatározott tartalommal).
+
+A vizsgafeladat időtartama: 45 perc
+
+A vizsgafeladat értékelési súlyaránya: 60%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Fegyveres biztonsági őrségekre vonatkozó jogszabályok
+
+A vizsgafeladat ismertetése: Jogi és szakmai ismeretek felelet kiválasztásos, feleletalkotásos és felelet kiegészítéses feladatokkal (a 7. pont Egyebek fejezetben meghatározott tartalommal) központilag összeállított és kiadott feladatlap kitöltése.
+
+A vizsgafeladat időtartama: 120 perc
+
+A vizsgafeladat értékelési súlyaránya: 20%
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: A fegyveres biztonsági őr szolgálati tevékenységével összefüggő komplex szóbeli kérdés megválaszolása.
+
+A vizsgafeladat ismertetése: Intézkedéstaktikai, konfliktuskezelési szituációs probléma megoldása a központilag összeállított és kiadott tételsorból húzott szóbeli vizsgakérdés alapján.
+
+A vizsgafeladat időtartama: 30 perc (felkészülési idő 20 perc, válaszadási idő 10 perc)
+
+A vizsgafeladat értékelési súlyaránya: 20%
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
+
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
+
+Vizsgát kizárólag a képzést felügyelő minisztérium által akkreditált vizsgaszervező szervezhet. Az írásbeli, szóbeli és gyakorlati vizsgához központi vizsgalapokat kell használni.
+
+A gyakorlati lövészeti vizsga lőtéren kerül végrehajtásra, a vizsgafeladathoz szükséges mennyiségű lőszer-javadalmazással. A lőfegyvert, lőszert és a gyakorlati vizsgán az eszközöket a vizsgaszervező biztosítja.
+
+5.5. A szakmai vizsga értékelésének a szakmai szabályzattól eltérő szempontjai: A komplex szakmai vizsga írásbeli, valamint szóbeli vizsgatevékenysége csak a sikeresen végrehajtott lőgyakorlatot követően kezdhető meg.
+
+6. Eszköz- és felszerelési jegyzék
+
+|  | A |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Telefon, Fax |
+
+| 6.3. | Híradástechnikai eszközök |
+
+| 6.4. | Rendőrbot |
+
+| 6.5. | Bilincs |
+
+| 6.6. | Könnyfakasztó spray |
+
+| 6.7. | Rövid lőfegyver (félautomata pisztoly) |
+
+| 6.8. | Hosszú lőfegyver gépkarabély/géppisztoly) |
+
+| 6.9. | Elemlámpa |
+
+| 6.10. | Jegyzettömb |
+
+| 6.11. | Toll |
+
+| 6.12. | Okmányminták |
+
+| 6.13. | Szolgálati jelvény (kitűző) |
+
+| 6.14. | Szolgálati igazolvány (imitált) |
+
+7. Egyebek
+
+7.1. Validáció: a 2.2. pont tekintetében az alábbi szakmák – illetve végzettségek – fogadhatók el a ráépülés-képzés megkezdéséhez, mint alapképesítés
+
+|  | A | B | C |
+
+| 7.1.1 | Megnevezés | OKJ szám | OKJ szám |
+
+| 7.1.2. | Személy- és vagyonőr | 33 8919 01 | 31 861 01 1000 |
+
+| 7.1.3. | Biztonságszervező I. | 54 8919 01 | 54 861 01 0000 00 00 |
+
+| 7.1.4. | Biztonságszervező II. | 34 8919 01 | 54 861 01 0100 33 01 |
+
+| 7.1.5. | Magánnyomozó | 52 8919 01 | 52 861 04 0000 00 00 |
+
+| 7.1.6. | Rendőr | 52 8912 02 | 52 861 06 0000 00 00 |
+
+| 7.1.7. | Rendőrszervező | 71 8912 01 | 61 861 01 0010 61 03 |
+
+| 7.1.8. | Büntetés-végrehajtási felügyelő | 51 8912 01 | 52 861 01 0000 00 00 |
+
+| 7.1.9. | Honvéd tiszthelyettes I. | 52 8917 12 | 52 863 01 1000 00 00 |
+
+| 7.1.10. | Honvéd tiszthelyettes II. | 32 8917 01 | 31 863 02 0000 00 00 |
+
+| 7.1.11. | Honvéd zászlós | 54 8917 04 | 54 863 01 0000 00 00 |
+
+| 7.1.12. | Kormányőr | – | 52 861 06 0100 52 01 |
+
+| 7.1.13. | Közterület felügyelő | 52 8919 04 | 52 861 03 0000 00 00 |
+
+| 7.1.14. | Határrendész | 52 8919 01 | 52 861 06 0010 52 01 |
+
+| 7.1.15. | Határrendész-szervező | 71 8912 02 | 61 861 01 0010 61 01 |
+
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
+
+|  | A | B | C |
+
+| 7.2.1. | azonosító száma | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+
+| 7.2.2. | 53 861 05 | Fegyveres biztonsági őr | Magyarországi Fegyveres Biztonsági Őrök Szakmai Egyesülete |
+
+7.3. Gyakorlati vizsgarész vizsgafeladatainak tartalmi és sikerességi követelményei
+
+− Pisztoly lőgyakorlat: a tűzparancsot követően 20 mp alatt egy 20 méterre lévő anatómiai szembefutó célra 4, majd tárcsere után egy 10 méterre lévő anatómiai szembefutó célra 3 lövés leadása. A testhelyzetet a vizsgázó szabadon megválaszthatja, illetve változtathatja.
+
+A pisztoly lőgyakorlat végrehajtása akkor sikeres, ha a vizsgázó legalább egy alkalommal eltalálja bármely anatómiai célt.
+
+− Gépkarabély lőgyakorlat: a tűzparancsot követően 30 mp alatt egy 50 méterre lévő anatómiai szembefutó, egy 30 méterre és egy 20 méterre lévő anatómiai szembefutó célra – két tárba tárazott 5-5 lőszerrel – 10 egyes lövés tárcserével történő leadása. A testhelyzetet a vizsgázó szabadon megválaszthatja, illetve változtathatja.
+
+A gépkarabély lőgyakorlat végrehajtása akkor sikeres, ha a vizsgázó az 50 méterre lévő célt legalább egyszer, és a 30 méterre lévő célt legalább kétszer, és a 20 méterre lévő célt legalább kétszer eltalálja.
+
+− Intézkedéstaktikai és kényszerítőeszköz használati, illetve alkalmazási ismeretek: 3 gyakorlat – egy pusztakezes és egy eszközös támadás – elhárítása testi kényszerrel, vagy kényszerítő eszközzel, bilincselés valamely módozatának bemutatása passzív ellenszegülővel szemben, vagy testi kényszerrel passzívan ellenszegülő személy elvezetése – bemutatása.
+
+7.4. Központi írásbeli vizsgatevékenység
+
+A fegyveres biztonsági őrségről, a természetvédelmi és a mezei őrszolgálatról szóló 1997. évi CLIX. törvény, valamint a fegyveres biztonsági őrség Működési és Szolgálati Szabályzatának kiadásáról szóló 27/1998. (VI. 10.) BM rendelet ismeretére, a Büntető Törvénykönyvről szóló 2012. évi C. törvény különös részi rendelkezéseire, a tűzvédelemre, munkavédelemre, helyszínbiztosításra, rendkívüli esemény protokollok ismeretére vonatkozó kérdéssorok.
+
+Tartalmilag a fegyveres biztonsági őrség Működési és Szolgálati Szabályzatának kiadásáról szóló 27/1998. (VI. 10.) BM rendelet 73. §-ában meghatározott ismeretek ellenőrzésére szolgál, központilag kiadott vizsgalapok alapján.
+
+7.5. A fegyveres biztonsági őr korábbi érvényes vizsgakövetelményei
+
+Fegyveres biztonsági őr szakképesítésnek felel meg e rendelet hatálybalépését megelőzően, a közületi szervek rendészeti tevékenységéről szóló 6/1988. (II. 12.) MT rendelet szerint az ágazati minisztériumok és továbbképző intézmények által a polgári fegyveres őrség (fegyveres biztonsági őrség) részére szervezett éves és kétéves tanfolyamokon szerzett képesítés.
+
+Az 1997. CLIX. törvény végrehajtási utasításaként kiadott a fegyveres biztonsági őrség Működési és Szolgálati Szabályzatának kiadásáról szóló 27/1998. (VI. 10.) BM rendelet Mellékletének 73-74. §-ában meghatározott elméleti (írásbeli) és gyakorlati vizsgát tett személyek, akik 2015. december 31-ig érvényes hatósági vizsgát tettek.
+
+A 15. SORSZÁMÚ FŐ HATÁRRENDÉSZ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+1. Az Országos Képzési Jegyzékben szereplő adatok
+
+1.1. A szakképesítés-ráépülés azonosító száma: 55 861 03
+
+1.2. Szakképesítés-ráépülés megnevezése: Fő határrendész
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 300-500
+
+2. Egyéb adatok
+
+2.1. A képzés megkezdésének feltételei: –
+
+2.1.1. Iskolai előképzettség: érettségi végzettség
+
+2.1.2. Bemeneti kompetenciák: –
+
+2.2. Szakmai előképzettség: 54 861 01 Rendőr tiszthelyettes (Határrendészeti rendőr) szakképesítés
+
+2.3. Előírt gyakorlat: 1 év szakterületi gyakorlat
+
+2.4. Egészségügyi alkalmassági követelmények: szükségesek
+
+2.5. Pályaalkalmassági követelmények: szükségesek
+
+2.6. Elméleti képzési idő aránya: 40%
+
+2.7. Gyakorlati képzési idő aránya: 60%
+
+2.8. Szintvizsga: –
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
+
+3. Pályatükör
+
+3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakörök, foglalkozások
+
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítés-ráépüléssel betölthető munkakör(ök) |
+
+| 3.1.2. | 5251 | Rendőr | Szolgálatparancsnok |
+
+| 3.1.3. | 5251 | Rendőr | Kiemelt főhatárrendész |
+
+| 3.1.4. | 5251 | Rendőr | Főhatárrendész |
+
+| 3.1.5. | 5251 | Rendőr | Határrendészeti szakértő |
+
+3.2. A szakképesítés-ráépülés munkaterületének rövid leírása
+
+Határrendészeti, ügyeleti, idegenrendészeti és menekültügyi feladatokat szakszerűen lát el.
+
+A szakképesítés-ráépüléssel rendelkező képes:
+
+− határrendészeti jellegű feladatokat teljes körűen önállóan végezni
+
+− ügyeleti, menekültügyi feladatokat ellátni
+
+− helyi szintű szervező, irányító és ellenőrző szolgálatot ellátni
+
+− nemzeti és nemzetközi együttműködésben részt venni
+
+− kockázatelemzést végezni
+
+− kötelékben végrehajtott határrendészeti tevékenységeket (üldözés, zárás, kutatás, ellenőrző átengedő pont működtetés) irányítani
+
+− menekültügyi eljárásban a határrendészek szolgálati tevékenységét megszervezni, irányítani
+
+− közreműködni a határrendészek helyi szintű felkészítésében, továbbképzésében
+
+− határvédelmi tevékenység során kiskötelékek (raj, szakasz, csoport) harcát megszervezni és vezetni
+
+− műszaki-technikai és figyelő eszközöket telepíteni, üzemeltetni
+
+− számítástechnikai eszközöket alkalmazni, valamint munkája során a határrendészetet támogató informatikai rendszerek szolgáltatásait igénybe venni
+
+− a határhelyzet alakulásával összefüggő elemzéseket végezni, írásos jelentéseket készíteni, szóbeli tájékoztatást tenni
+
+− idegenek számára a határrendészeti és menekültügyi eljárásokról idegen nyelvű tájékoztatást adni
+
+3.3. Kapcsolódó szakképesítések
+
+|  | A | B | C |
+
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+| 3.3.3. | 54 861 01 | Rendőr tiszthelyettes (Határrendészeti-rendőr) | szakképesítés |
+
+4. Szakmai követelmények
+
+|  | A | B |
+
+| 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+
+| 4.2. | azonosítója | megnevezése |
+
+| 4.3. | 10407-12 | Fő határrendész feladatai |
+
+5. Vizsgáztatási követelmények
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei
+
+Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
+
+|  | A | B | C |
+
+| 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
+
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.3. | 10407-12 | Fő határrendész feladatai | gyakorlati, írásbeli, szóbeli |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
+
+5.3.1. Gyakorlati vizsgatevékenység
+
+A vizsgafeladat megnevezése: Határrendészeti intézkedés
+
+A vizsgafeladat ismertetése: A vizsgázó a tétel szerinti szituációban, fő határrendészként (járőrvezető/ügyeletes) intézkedik.
+
+A vizsgafeladat időtartama: 15 perc
+
+A vizsgafeladat értékelési súlyaránya: 30%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Fő határrendészi ismeretek
+
+A vizsgafeladat ismertetése: A vizsgafeladat az 10407-12 Fő határrendész feladatai követelménymodul elméleti ismeretanyagát tartalmazza.
+
+A vizsgafeladat időtartama: 60 perc
+
+A vizsgafeladat értékelési súlyaránya: 30%
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Fő határrendészeti szakfeladatok
+
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények pontban megadott modulokhoz tartozó témakörök mindegyikét tartalmazza.
+
+A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő: 10 perc, válaszadási idő 20 perc)
+
+A vizsgafeladat értékelési súlyaránya: 40%
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
+
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
+
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
+
+6. Eszköz- és felszerelési jegyzék
+
+|  | A |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Fegyverzet |
+
+| 6.3. | Lövedékálló mellény |
+
+| 6.4. | Speciális egyéni felszerelés és kiegészítői |
+
+| 6.5. | Kényszerítő eszközök |
+
+| 6.6. | Szolgálati járművek |
+
+| 6.7. | Számítógép és perifériái (informatikai eszközök) |
+
+| 6.8. | Híradástechnikai eszközök |
+
+| 6.9. | Világító berendezés |
+
+| 6.10. | Nyomtató |
+
+| 6.11. | Telefon, fax |
+
+| 6.12. | Járőr-, őr felszerelés |
+
+| 6.13. | Figyelést, látást, tájékozódást segítő eszközök, berendezések |
+
+| 6.14. | Okmányminták |
+
+| 6.15. | Határforgalom-ellenőrzést szolgáló eszközök, berendezések |
+
+7. Egyebek
+
+7.1. Validáció: A határrendészeti rendőr szakirányú szakképesítésen túl a fő határrendészi ráépülés képzést megkezdheti az 52 861 06 0010 52 01 azonosító számú szakképesítéssel rendelkező határrendészeti rendőr, vagy 52 8912 01 azonosító számú szakképesítéssel rendelkező határrendész szakképesítésű hivatásos állományú személy is.
+
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
+
+|  | A | B | C |
+
+| 7.2.1. | azonosító száma | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+
+| 7.2.2. | 55 861 03 | Fő határrendész | Országos Rendőr-főkapitányság |
+
+A 16. SORSZÁMÚ FÜRDŐÜZEMI GÉPÉSZ MEGNEVEZÉSŰ RÉSZSZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+1. Az Országos Képzési Jegyzékben szereplő adatok
+
+1.1. A részszakképesítés azonosító száma: 51 853 02
+
+1.2. Részszakképesítés megnevezése: Fürdőüzemi gépész
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 200–300
+
+2. Egyéb Adatok
+
+2.1. A képzés megkezdésének feltételei: –
+
+2.1.1. Iskolai előképzettség: érettségi végzettség
+
+2.1.2. Bemeneti kompetenciák: –
+
+2.2. Szakmai előképzettség: –
+
+2.3. Előírt gyakorlat: –
+
+2.4. Egészségügyi alkalmassági követelmények: szükségesek
+
+2.5. Pályaalkalmassági követelmények: –
+
+2.6. Elméleti képzési idő aránya: 40%
+
+2.7. Gyakorlati képzési idő aránya: 60%
+
+2.8. Szintvizsga: –
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
+
+3. Pályatükör
+
+3.1. A részszakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
+
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | A részszakképesítéssel betölthető munkakör(ök) |
+
+| 3.1.2. | 8322 | Vízgazdálkodási gép kezelője | Hidrofor kezelő |
+
+| 3.1.3. | 8322 | Vízgazdálkodási gép kezelője | Szelepkezelő vízműgépházi gépész |
+
+| 3.1.4. | 8322 | Vízgazdálkodási gép kezelője | Vízforgató-gépész |
+
+| 3.1.5. | 8322 | Vízgazdálkodási gép kezelője | Vízműszivattyú-kezelő |
+
+| 3.1.6. | 8322 | Vízgazdálkodási gép kezelője | Vízvisszaforgató-berendezés kezelő gépész |
+
+3.2. A részszakképesítés munkaterületének rövid leírása
+
+A fürdőüzemi gépész szakmunkás a szakismeretének megfelelő, alábbiakban felsorolt tevékenységeket a kezelési, karbantartási és javítási utasításoknak megfelelően, a hatósági, és a vonatkozó jogszabályi előírások betartásával, az adott közüzem belső szervezeti szabályzatának megfelelő irányítással, önállóan végzi.
+
+A részszakképesítéssel rendelkező képes:
+
+− közfürdők (tisztasági-, strand-, termál-, gyógy-, wellness-, és élményfürdők, valamint uszodák), hideg-, termál-, és hévíz kitermelő, víztároló és vízkezelő, valamint fürdő- és úszómedencei létesítmények, és ezek kiszolgálását segítő berendezések kezelési, karbantartási, javítási feladatait elvégezni
+
+− gondoskodni a kútüzem megfelelő működéséről
+
+− vendégtéri medencéket és berendezéseiket, hidroélményelemeket ellenőrizni, üzemeltetni
+
+− vendégtéri medencéket és berendezéseket, élménykamrákat, élményelemeket ellenőrizni, üzemeltetni
+
+− egyéb fürdőüzemi műszaki berendezéseket ellenőrizni, üzemeltetni
+
+− a vízhálózatok kezelési, karbantartási, javítási feladatait elvégezni
+
+− hideg- és forróvizes vízhálózatok, berendezések, valamint csatornahálózatok kezelési, karbantartási, javítási feladatait elvégezni
+
+− gravitációs, illetve nyomás alatti csővezetékek kezelési, karbantartási, javítási feladatait elvégezni
+
+− az átemelő szivattyúk és a közbenső tárolók üzemeltetési, ellenőrzési, karbantartási, és javítási feladatait megoldani
+
+− a fürdők, és uszodák műtárgyaihoz tartozó gépészeti berendezések üzemeltetési, karbantartási, javítási feladatait elvégezni, gáztalanító, hűtésre szolgáló és vízminőségét javító műtárgyakat, berendezéseket kezelni, karbantartani, javítani
+
+− nyomás alatt üzemelő berendezéseket üzemeltetni, karbantartani, javítani
+
+− hőcserélő, és vízkeverésre szolgáló műtárgyak és berendezések kezelési, karbantartási, javítási feladatait elvégezni
+
+− vízforgató, víztisztító és fertőtlenítő berendezések kezelési, karbantartási, javítási feladatait megoldani
+
+− használt víz és szennyvíz elvezetésére, tisztításra szolgáló létesítmények és berendezések, valamint a hozzájuk tartozó kiszolgáló berendezéseket kezelni, karbantartani
+
+− gravitációs csatornahálózatot tisztítani, javítani kényszer-áramoltatású (nyomás és vákuum alatti) csatornahálózat, üzemeltetési, karbantartási, javítási feladatait elvégezni
+
+− sűrített levegő előállítására és tárolására szolgáló berendezések és a hozzájuk tartozó csőhálózat üzemeltetési, karbantartási, javítási feladatait megoldani
+
+− vízfertőtlenítő berendezéseket üzemeltetni, karbantartani
+
+− mechanikus, pneumatikus, robbanómotoros, valamint elektromos segédeszközöket és kéziszerszámokat használni
+
+− ellenőrizni, beállítani a víz paramétereit
+
+− hordozható laboratóriumi mérőműszerekkel, gyorstesztekkel fizikai és kémiai üzemviteli ellenőrző méréseket végezni
+
+− kémiai és fizikai segédanyagokat kimérni, előkészíteni, adagolni
+
+− hagyományos és számítógépes műszaki dokumentációkat használni
+
+− hagyományos, illetve számítógépes üzemirányítási rendszert üzemeltetni
+
+− hagyományos és számítógépes nyilvántartásokat, üzemnaplókat vezetni
+
+− mintavételi, mérési feladatok ellátásában közreműködni
+
+− munkavégzés közben a munkavédelmi, balesetvédelmi, tűzvédelmi és környezetvédelmi szabályokat betartani és betartatni
+
+3.3. Kapcsolódó szakképesítések
+
+|  | A | B | C |
+
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+| 3.3.3. | 51 853 03 | Csatornamű-kezelő | részszakképesítés |
+
+| 3.3.4. | 51 853 05 | Vízműkezelő | részszakképesítés |
+
+| 3.3.5. | 54 853 04 | Víziközmű technikus | szakképesítés |
+
+| 3.3.6. | 55 853 01 | Vízépítő szaktechnikus | szakképesítés-ráépülés |
+
+| 3.3.7. | 55 853 02 | Vízminőség-védelmi szaktechnikus | szakképesítés-ráépülés |
+
+4. Szakmai követelmények
+
+|  | A | B |
+
+| 4.1. | A részszakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+
+| 4.2. | azonosító száma | megnevezése |
+
+| 4.3. | 10881-16 | Fürdőüzemi gépész feladatai |
+
+5. Vizsgáztatási követelmények
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei
+
+Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
+
+|  | A | B | C |
+
+| 5.2.1. | A részszakképesítés szakmai követelménymoduljainak |
+
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.3. | 10881-16 | Fürdőüzemi gépész feladatai | gyakorlati |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
+
+5.3.1. Gyakorlati vizsgatevékenység
+
+A vizsgafeladat megnevezése: Fürdők, uszodák gépészetének és vendégtéri berendezéseinek üzemeltetése, karbantartása a munka-, tűz- és környezetvédelmi előírások betartásával
+
+A vizsgafeladat ismertetése: Üzemi körülmények között, valamely gépcsoport vagy berendezés üzemeltetésével kapcsolatos feladat (üzembe helyezés, üzemi paraméterek ellenőrzése, módosítása, kiiktatás) elvégzése, vízminőségi követelmények ismertetése, automata vízelemző-adagoló rendszer üzemének ellenőrzése, hordozható laboratóriumi mérőműszerekkel, fizikai és kémiai üzemviteli ellenőrző mérések elvégezése.
+
+A vizsgafeladat időtartama: 60 perc
+
+A vizsgafeladat aránya: 60%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: –
+
+A vizsgafeladat ismertetése: –
+
+A vizsgafeladat időtartama: –
+
+A vizsgafeladat értékelési súlyaránya: –
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Fürdőüzemi gépész szakmai ismeretek, munkabiztonság, környezetvédelem
+
+A vizsgafeladat ismertetése: A szóbeli vizsga kérdései a 4. Szakmai követelmények fejezetben megadott modulhoz tartozó témakörök mindegyikét tartalmazza.
+
+A vizsgafeladat időtartama: 30 perc (felkészülési idő 20 perc, válaszadási idő 10 perc)
+
+A vizsgafeladat aránya: 40%
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok: –
+
+A részszakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
+
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
+
+6. Eszköz- és felszerelési jegyzék
+
+|  | A |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Szintjelző műszerek |
+
+| 6.3. | Vezérlő és regisztráló berendezések |
+
+| 6.4. | Fürdőüzemi kisegítő berendezések |
+
+| 6.5. | Mérőeszközök |
+
+| 6.6. | Mosópisztoly |
+
+| 6.7. | Szerelhető szivattyú |
+
+| 6.8. | Szerelhető tolózár |
+
+| 6.9. | Szerelhető csövek és szerelvények |
+
+| 6.10. | Csőszerelés szerszámai |
+
+| 6.11. | Mechanikus és elektromos kézi szerszámok |
+
+| 6.12. | Anyagmozgató eszközök |
+
+| 6.13. | Hordozható laboratóriumi mérőműszerek |
+
+| 6.14. | Munkavédelmi felszerelések, eszközök |
+
+| 6.15. | Vezérlő és regisztráló berendezések |
+
+| 6.16. | Számítógép, adatrögzítő és üzemirányító szoftver |
+
+| 6.17. | Kommunikációs eszközök |
+
+7. Egyebek
+
+7.1. A szakmai vizsgabizottságban való részvételre kijelölt szakmai szervezet:
+
+– Magyar Fürdőszövetség, 1146 Budapest, Borostyán u. 1/b. Tel: +36(1)220-2282
+
+A 17. SORSZÁMÚ GÁT- ÉS CSATORNAŐR MEGNEVEZÉSŰ RÉSZSZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+1. Az Országos Képzési Jegyzékben szereplő adatok
+
+1.1. A részszakképesítés azonosító száma: 31 853 04
+
+1.2. Részszakképesítés megnevezése: Gát- és csatornaőr
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 200-300
+
+2. Egyéb adatok
+
+2.1. A képzés megkezdésének feltételei: –
+
+2.1.1. Iskolai előképzettség: alapfokú iskolai végzettség
+
+2.1.2. Bemeneti kompetenciák: a képzés megkezdhető e rendelet 3. számú mellékletében a Vízügy szakmacsoportra meghatározott kompetenciák birtokában
+
+2.2. Szakmai előképzettség: –
+
+2.3. Előírt gyakorlat: –
+
+2.4. Egészségügyi alkalmassági követelmények: szükségesek
+
+2.5. Pályaalkalmassági követelmények: nem szükségesek
+
+2.6. Elméleti képzési idő aránya: 40%
+
+2.7. Gyakorlati képzési idő aránya: 60%
+
+2.8. Szintvizsga: –
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
+
+3. Pályatükör
+
+3.1. A részszakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
+
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | A részszakképesítéssel betölthető munkakör(ök) |
+
+| 3.1.2. | 7919 | Egyéb máshova nem sorolható ipari és építőipari foglalkozású | Gátőr |
+
+| 3.1.3. | 7919 | Egyéb máshova nem sorolható ipari és építőipari foglalkozású | Csatornaőr |
+
+| 3.1.4. | 7919 | Egyéb máshova nem sorolható ipari és építőipari foglalkozású | Mederőr |
+
+| 3.1.5. | 7919 | Egyéb máshova nem sorolható ipari és építőipari foglalkozású | Segéd-gátőr |
+
+| 3.1.6. | 7919 | Egyéb máshova nem sorolható ipari és építőipari foglalkozású | Tározóőr |
+
+3.2. A részszakképesítés munkaterületének rövid leírása
+
+A Gát- és csatornaőr a szakismeretének megfelelő, alábbiakban felsorolt tevékenységeket, a munkabiztonsági előírásoknak megfelelően, a hatósági, és a vonatkozó jogszabályi előírások betartásával, a foglalkoztató szervezet belső szabályzatának megfelelő irányítással, önállóan végzi.
+
+A részszakképesítéssel rendelkező képes:
+
+− figyelőszolgálatot ellátni
+
+− területének helyi nyilvántartásait vezetni
+
+− vízállást észlelni, jelenteni
+
+− hidrometeorológiai állomás adatait jelenteni
+
+− hidrometriai mérésekben közreműködni
+
+− karbantartási feladatokat végezni a védelmi eszközökön és a védelmi létesítményeken
+
+− árvízvédelmi töltéseket és védősávjukat karbantartani
+
+− biztosítani a meder zavartalan vízlevezető képességét
+
+− műtárgyakat üzemeltetni, karbantartani
+
+− közreműködni az árvízvédekezés munkálatainál
+
+− közreműködni a belvízvédekezés munkálatainál
+
+− közreműködni a vízminőségi kárelhárítás munkálatainál
+
+− közreműködni a helyi vízkárelhárítás munkálatainál
+
+− vízminőséget ellenőrizni; gyors teszteket végezni
+
+− elvégezni a kárelhárítás utáni teendőket
+
+− munkavédelmi, tűzvédelmi, balesetvédelmi és biztonságtechnikai előírásokat betartani
+
+− környezetvédelmi tevékenységet végezni
+
+3.3. Kapcsolódó szakképesítések
+
+|  | A | B | C |
+
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+| 3.3.3. | 34 853 02 | Vízügyi szakmunkás | szakképesítés |
+
+| 3.3.4. | 31 853 03 | Vízkárelhárító | részszakképesítés |
+
+| 3.3.5. | 31 853 07 | Vízminőség vizsgáló | részszakképesítés |
+
+4. Szakmai követelmények
+
+|  | A | B |
+
+| 4.1. | A részszakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+
+| 4.2. | azonosító száma | megnevezése |
+
+| 4.3. | 11653-16 | Gát- és csatornaőr ismeretek |
+
+5. Vizsgáztatási követelmények
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei:
+
+Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
+
+|  | A | B | C |
+
+| 5.2.1. | A részszakképesítés szakmai követelménymoduljainak |
+
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.3. | 11653-16 | Gát- és csatornaőr ismeretek | gyakorlati, szóbeli |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
+
+5.3.1. Gyakorlati vizsgatevékenység
+
+A vizsgafeladat megnevezése: Gát- és csatornaőr gyakorlati ismeretek
+
+A vizsgafeladat ismertetése:
+
+– ideiglenes védmű építése
+
+– vízminőségi kárelhárítás
+
+– vízállás és hidrometeorológiai észlelés
+
+– vízmintavétel élővízből, felszíni vizek minőségi vizsgálata gyorstesztekkel
+
+– mobil szivattyú telepítése, beüzemelése
+
+– vízkivételi és vízkormányzó műtárgyak üzemeltetése, karbantartása
+
+– munka- és balesetvédelmi szabályok betartása
+
+A vizsgafeladat időtartama: 120 perc
+
+A vizsgafeladat aránya: 60%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: –
+
+A vizsgafeladat ismertetése: –
+
+A vizsgafeladat időtartama: –
+
+A vizsgafeladat aránya: –
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Gát- és csatornaőr ismeretek
+
+A vizsgafeladat ismertetése: A szóbeli vizsgatevékenység központilag összeállított vizsgakérdései a 4. Szakmai követelmények fejezetben megadott valamennyi modulhoz tartozó témakörök mindegyikét tartalmazzák.
+
+A vizsgafeladat időtartama: 30 perc (felkészülési idő 20 perc, válaszadási idő 10 perc)
+
+A vizsgafeladat aránya: 40%
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok: –
+
+A részszakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
+
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
+
+6. Eszköz- és felszerelési jegyzék
+
+|  | A |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Árvízvédelmi anyagok, eszközök |
+
+| 6.3. | Vízminőségi kárelhárítás anyagai, eszközei |
+
+| 6.4. | Telekommunikációs eszközök |
+
+| 6.5. | Kéziszerszámok |
+
+| 6.6. | Számítógép, szoftver, nyomtató |
+
+| 6.7. | Munkavédelmi felszerelések, eszközök |
+
+| 6.8. | Terepi mintavevő eszközök |
+
+| 6.9. | Hordozható vízvizsgáló műszerek, gyorstesztek |
+
+| 6.10. | Mobil szivattyú szerelvényekkel |
+
+| 6.11. | Vízmércék |
+
+| 6.12. | Hidrometeorológiai mérőállomás |
+
+7. Egyebek
+
+7.1. A szakmai tevékenység ellátása során alkalmazott gépek kezelésének feltétele a Gát- és csatornaőr részszakképesítés esetén: a gépek kezelésére külön jogszabályban meghatározott gépkezelői jogosítvány.
+
+A 18. SORSZÁMÚ JÁRŐR MEGNEVEZÉSŰ RÉSZSZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+1. Az Országos Képzési Jegyzékben szereplő adatok
+
+1.1. A részszakképesítés azonosító száma: 51 861 02
+
+1.2. Részszakképesítés megnevezése: Járőr
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 1 800-2 300
+
+2. Egyéb adatok
+
+2.1. A képzés megkezdésének feltételei: –
+
+2.1.1. Iskolai előképzettség: érettségi végzettség
+
+2.1.2. Bemeneti kompetenciák: –
+
+2.2. Szakmai előképzettség: –
+
+2.3. Előírt gyakorlat: –
+
+2.4. Egészségügyi alkalmassági követelmények: szükségesek
+
+2.5. Pályaalkalmassági követelmények: szükségesek
+
+2.6. Elméleti képzési idő aránya: 50%
+
+2.7. Gyakorlati képzési idő aránya: 50%
+
+2.8. Szintvizsga: –
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
+
+1. Pályatükör
+
+3.1. A részszakképesítéssel legjellemzőbben betölthető munkakörök, foglalkozások
+
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | A részszakképesítéssel betölthető munkakörök |
+
+| 3.1.2. | 5251 | Rendőr | Rendőr járőr |
+
+| 3.1.3. | 5251 | Rendőr | Objektumőr és kísérő |
+
+| 3.1.4. | 5251 | Rendőr | Fogdaőr |
+
+3.2. A részszakképesítés munkaterületének rövid leírása
+
+Bűnügyi, közrendvédelmi, közlekedési szakszolgálat ellátásával védi a közbiztonságot és a belső rendet.
+
+A részszakképesítéssel rendelkező képes:
+
+− általános szolgálati feladatokat teljesíteni
+
+− szakterületéhez kapcsolódó eszközöket kezelni, használni
+
+− őrzési, objektum-, létesítményvédelmi és általános személyvédelmi feladatokat ellátni
+
+− járőrszolgálatot ellátni, intézkedéseket foganatosítani
+
+− személyes szabadságot nem-, továbbá személyes szabadságot korlátozó intézkedéseket foganatosítani, kényszerítő eszközöket használni
+
+− csapatszolgálati feladatokat teljesíteni
+
+− tömegkezelési, tömegoszlatási, rendezvénybiztosítási feladatokat ellátni
+
+− közrendvédelmi feladatokat ellátni
+
+− határrendészeti és menekültügyi feladatok ellátásában részt venni
+
+− idegen nyelven kommunikálni
+
+− jogszerűen és szabályszerűen intézkedni
+
+1.3. Kapcsolódó szakképesítések
+
+|  | A | B | C |
+
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+| 3.3.3. | 54 861 01 | Rendőr tiszthelyettes (Bűnügyi-rendőr) | szakképesítés |
+
+| 3.3.4. | 54 861 01 | Rendőr tiszthelyettes (Határrendészeti-rendőr) | szakképesítés |
+
+| 3.3.5. | 54 861 01 | Rendőr tiszthelyettes (Közlekedési-rendőr) | szakképesítés |
+
+| 3.3.6. | 54 861 01 | Rendőr tiszthelyettes (Közrendvédelmi-rendőr) | szakképesítés |
+
+2. Szakmai követelmények
+
+|  | A | B |
+
+| 4.1. | A részszakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+
+| 4.2. | azonosító száma | megnevezése |
+
+| 4.3. | 10352-12 | Rendvédelmi alapfeladatok |
+
+| 4.4. | 10370-12 | Őr-járőrtársi feladatok |
+
+| 4.5. | 10371-12 | Csapatszolgálati feladatok |
+
+| 4.6. | 10372-12 | Járőri feladatok |
+
+3. Vizsgáztatási követelmények
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei
+
+5.1.1. Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizonyítványban foglaltak szerint teljesített tantárgyak – a szakképzési kerettantervben meghatározottak szerint – egyenértékűek az adott követelménymodulhoz tartozó modulzáró vizsga teljesítésével.
+
+5.1.2. Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+
+5.1.3. A képzési programban előírt gyakorlat teljesítéséről szóló igazolás, és a területi rendőri szerv, valamint a képző intézmény által hitelesített, legalább elégséges szintet elérő értékelés.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
+
+|  | A | B | C |
+
+| 5.2.1. | A részszakképesítés szakmai követelménymodulja |
+
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
+
+| 5.2.3. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
+
+| 5.2.4. | 10370-12 | Őr-járőrtársi feladatok | gyakorlati, írásbeli, szóbeli |
+
+| 5.2.5. | 10371-12 | Csapatszolgálati feladatok | írásbeli |
+
+| 5.2.6. | 10372-12 | Járőri feladatok | gyakorlati, írásbeli, szóbeli |
+
+Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
+
+5.3.1. Gyakorlati vizsgatevékenység
+
+A vizsgafeladat megnevezése: Rendőri intézkedés a gyakorlatban
+
+A vizsgafeladat ismertetése: Komplex rendőri intézkedés végrehajtása vizsgahelyszínen, melyen keresztül lemérhető a vizsgázó alakiassága, fizikai felkészültsége, a szakszerű és jogszerű rendőri intézkedésre való felkészültsége, kommunikációja és eszközhasználati készsége. A közterületi intézkedést szimuláló feladatban jelzők és járőrtárs által támogatott feladat-végrehajtás történik.
+
+A vizsgafeladat időtartama: 30 perc
+
+A vizsgafeladat értékelési súlyaránya: 40%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Járőri szolgálati szakfeladatok
+
+A vizsgafeladat ismertetése: Csapatszolgálati, közbiztonsági és rendészeti jellegű feladatok számonkérése írásban
+
+A vizsgafeladat időtartama: 60 perc
+
+A vizsgafeladat értékelési súlyaránya: 40%
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Objektum-, személy- és vagyonvédelmi ismeretek
+
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények pontban megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
+
+A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő: 10 perc, válaszadási idő 20 perc)
+
+A vizsgafeladat értékelési súlyaránya: 20%
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
+
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
+
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai:
+
+Amennyiben a teljesítendő írásbeli feladat eredménye nem éri el az 51%-ot, akkor az írásbeli vizsgatevékenység eredménye elégtelen. Sikertelen a szakmai vizsga, ha bármely teljesítendő vizsgatevékenység (gyakorlati írásbeli, szóbeli) eredményét elégtelenre értékeli a vizsgabizottság.
+
+4. Eszköz- és felszerelési jegyzék
+
+|  | A |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Fegyverzet |
+
+| 6.3. | Lövedékálló mellény |
+
+| 6.4. | Speciális egyéni felszerelés és kiegészítői |
+
+| 6.5. | Kényszerítő eszközök |
+
+| 6.6. | Tömegoszlatás speciális eszközei |
+
+| 6.7. | Szolgálati járművek |
+
+| 6.8. | Számítógép és perifériái (informatikai eszközök) |
+
+| 6.9. | Híradástechnikai eszközök |
+
+| 6.10. | Világító berendezés |
+
+| 6.11. | Forgalom elterelő eszközök |
+
+| 6.12. | Nyomtató |
+
+| 6.13. | Telefon, fax |
+
+| 6.14. | Járőr-, őr felszerelés |
+
+| 6.15. | Figyelést-, látást-, tájékozódást segítő eszközök, berendezések |
+
+| 6.16. | Okmányminták |
+
+5. Egyebek
+
+7.1. Megfeleltetés: Kizárólag a modulzáró vizsgák alóli felmentést biztosítják
+
+Jelen részszakképesítés egyenértékűnek tekintendő a 15/2008. (VII. 28.) IRM rendelet szerinti 52 861 06 0100 52 04 azonosítószámú Járőr részszakképesítéssel.
+
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
+
+|  | A | B | C |
+
+| 7.2.1. | azonosító száma | A részszakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+
+| 7.2.2. | 51 861 02 | Járőr | Országos Rendőr-főkapitányság |
+
+A 19. SORSZÁMÚ KATASZTRÓFAVÉDELMI ELŐADÓ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+1. Az Országos Képzési Jegyzékben szereplő adatok
 
 1.1. A szakképesítés azonosító száma: 52 861 03
 
 1.2. Szakképesítés megnevezése: Katasztrófavédelmi előadó
 
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
 
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 350 - 450
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 350-450
 
-2. EGYÉB ADATOK
+2. Egyéb adatok
 
-2. 1. A képzés megkezdésének feltételei:
+2. 1. A képzés megkezdésének feltételei: –
 
 2.1.1. Iskolai előképzettség: érettségi végzettség
 
-2.1.2. Bemeneti kompetenciák: -
+2.1.2. Bemeneti kompetenciák: –
 
-2.2. Szakmai előképzettség: -
+2.2. Szakmai előképzettség: –
 
-2.3. Előírt gyakorlat: -
+2.3. Előírt gyakorlat: –
 
-2.4. Egészségügyi alkalmassági követelmények: -
+2.4. Egészségügyi alkalmassági követelmények: –
 
-2.5. Pályaalkalmassági követelmények: -
+2.5. Pályaalkalmassági követelmények: –
 
 2.6. Elméleti képzési idő aránya: 60%
 
 2.7. Gyakorlati képzési idő aránya: 40%
 
-2.8. Szintvizsga: -
+2.8. Szintvizsga: –
 
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
 
-3. PÁLYATÜKÖR
+3. Pályatükör
 
 3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
 
@@ -2304,37 +4240,35 @@ A 12. sorszámú Katasztrófavédelmi előadó megnevezésű szakképesítés sz
 
 | 3.1.2. | 5259 | Egyéb személy- és vagyonvédelmi foglalkozású | Polgári szervek, szervezetek, gazdálkodó szervezetek védelmi ügyintézői |
 
-3.2. A szakképesítés munkaterületének rövid leírása:
-
-A katasztrófavédelmi előadó feladata:
+3.2. A szakképesítés munkaterületének rövid leírása
 
 Szakmai irányítás és felügyelet mellett, a természeti és civilizációs katasztrófák okozta veszélyekkel szemben a szervezet munkavállalóinak, anyagi javainak és a környezet megóvása érdekében, a polgári védelmi feladatokat előkészíti, szervezi, végrehajtja és ellenőrzi.
 
 A szakképesítéssel rendelkező képes:
 
-- veszélyazonosítást és veszélyelemzést végezni
+− veszélyazonosítást és veszélyelemzést végezni
 
-- terveket készíteni
+− terveket készíteni
 
-- polgári védelmi szervezeteket létrehozni és alkalmazni
+− polgári védelmi szervezeteket létrehozni és alkalmazni
 
-- részt venni szakmai területének szabályozásában
+− részt venni szakmai területének szabályozásában
 
-- védelemszervezői tevékenységet végezni
+− védelemszervezői tevékenységet végezni
 
-- veszélykezelésben részt venni
+− veszélykezelésben részt venni
 
-- kapcsolatot tartani és együttműködni más szervezetekkel
+− kapcsolatot tartani és együttműködni más szervezetekkel
 
-- részt venni a logisztikai biztosítás megszervezésében
+− részt venni a logisztikai biztosítás megszervezésében
 
-- védelmi létesítményeket kezelni
+− védelmi létesítményeket kezelni
 
-- megalakított szervezeteket oktatni, felkészíteni
+− megalakított szervezeteket oktatni, felkészíteni
 
-- szakmailag tovább képezni magát
+− szakmailag tovább képezni magát
 
-- ellenőrzést végezni
+− ellenőrzést végezni
 
 3.3. Kapcsolódó szakképesítések
 
@@ -2346,7 +4280,7 @@ A szakképesítéssel rendelkező képes:
 
 | 3.3.3. | 53 861 06 | Katasztrófavédelmi főelőadó | Szakképesítés-ráépülés |
 
-4. SZAKMAI KÖVETELMÉNYEK
+4. Szakmai követelmények
 
 |  | A | B |
 
@@ -2356,17 +4290,17 @@ A szakképesítéssel rendelkező képes:
 
 | 4.3. | 10385-12 | Polgári védelmi feladatok |
 
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
+5. Vizsgáztatási követelmények
 
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
+5.1. A komplex szakmai vizsgára bocsátás feltételei
 
-Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+5.1.1. Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
 
-A szakképzést végző által kidolgozott képzési programban előírt tanulmányi kötelezettségeinek eleget tesz.
+5.1.2. A szakképzést végző által kidolgozott képzési programban előírt tanulmányi kötelezettségeinek eleget tesz.
 
-A képzési programban előírt tanulmányi kötelezettségek teljesítése.
+5.1.3. A képzési programban előírt tanulmányi kötelezettségek teljesítése.
 
-A hiányzási óraszám nem haladhatja meg a képzési programban rögzített teljes óraszám 15%-át.
+5.1.4. A hiányzási óraszám nem haladhatja meg a képzési programban rögzített teljes óraszám 15%-át.
 
 5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
 
@@ -2380,19 +4314,13 @@ A hiányzási óraszám nem haladhatja meg a képzési programban rögzített te
 
 Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
 
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
 
 5.3.1. Gyakorlati vizsgatevékenység
 
-A vizsgafeladat megnevezése:
+A vizsgafeladat megnevezése: Lakosság és anyagi javak védelme
 
-Lakosság és anyagi javak védelme
-
-A vizsgafeladat ismertetése:
-
-Veszélyhelyzettel kapcsolatos megelőzési feladat végrehajtása (veszélyelemzés, kockázatértékelés, hatásvizsgálat, térképi rögzítés, veszélyhelyzeti tervezés);
-
-veszélyhelyzet kezelési feladat megtervezése (riasztás, tájékoztatás, helyi-, távolsági védelem végrehajtása).
+A vizsgafeladat ismertetése: Veszélyhelyzettel kapcsolatos megelőzési feladat végrehajtása (veszélyelemzés, kockázatértékelés, hatásvizsgálat, térképi rögzítés, veszélyhelyzeti tervezés); veszélyhelyzet kezelési feladat megtervezése (riasztás, tájékoztatás, helyi-, távolsági védelem végrehajtása).
 
 A vizsgafeladat időtartama: 180 perc
 
@@ -2400,13 +4328,9 @@ A vizsgafeladat értékelési súlyaránya: 50%
 
 5.3.2. Központi írásbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése:
+A vizsgafeladat megnevezése: Védelmi igazgatási, polgári védelmi ismeretek
 
-Védelmi igazgatási, polgári védelmi ismeretek
-
-A vizsgafeladat ismertetése:
-
-A helyi szintű védelmi igazgatás és a polgári védelem jogi alapjaival, irányításával, feladataival kapcsolatos ismeretek felmérése feleletválasztásos, feleletalkotásos és felelet kiegészítéses kérdések alapján.
+A vizsgafeladat ismertetése: A helyi szintű védelmi igazgatás és a polgári védelem jogi alapjaival, irányításával, feladataival kapcsolatos ismeretek felmérése feleletválasztásos, feleletalkotásos és felelet kiegészítéses kérdések alapján.
 
 A vizsgafeladat időtartama: 60 perc
 
@@ -2414,15 +4338,9 @@ A vizsgafeladat értékelési súlyaránya: 30%
 
 5.3.3. Szóbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése:
+A vizsgafeladat megnevezése: Polgári védelmi szervezetek
 
-Polgári védelmi szervezetek
-
-A vizsgafeladat ismertetése:
-
-A munkahelyi, települési, területi és központi köteles polgári védelmi szervezetek, az önkéntes mentőszervezetek megalakításával, felkészítésével, mozgósításával és alkalmazásával kapcsolatos ismeretek,
-
-a központilag összeállított szóbeli vizsga kérdései a katasztrófavédelmi előadó szakmai ismeretek témaköreinek ismeretanyagát tartalmazza.
+A vizsgafeladat ismertetése: A munkahelyi, települési, területi és központi köteles polgári védelmi szervezetek, az önkéntes mentőszervezetek megalakításával, felkészítésével, mozgósításával és alkalmazásával kapcsolatos ismeretek, a központilag összeállított szóbeli vizsga kérdései a katasztrófavédelmi előadó szakmai ismeretek témaköreinek ismeretanyagát tartalmazza.
 
 A vizsgafeladat időtartama: 25 perc (ebből felkészülési idő:15 perc, válaszadási idő 10 perc)
 
@@ -2430,11 +4348,11 @@ A vizsgafeladat értékelési súlyaránya: 20%
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
 
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
 
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
 
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+6. Eszköz- és felszerelési jegyzék
 
 |  | A |
 
@@ -2466,15 +4384,15 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 | 6.14. | Infokommunikációs eszközök |
 
-7. EGYEBEK
+7. Egyebek
 
-7. 1. Validáció: -
+7. 1. Validáció: –
 
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
 
 |  | A | B | C |
 
-| 7.2.1. | azonosító szám | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+| 7.2.1. | azonosító száma | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
 
 | 7.2.2. | 52 861 03 | Katasztrófavédelmi előadó | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -2484,45 +4402,43 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 7.5. A kijavított és értékelt írásbeli feladatot, az eredeti írásbeli vizsgafeladat egy példányát, valamint a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt el kell juttatni a vizsgaelnökhöz.
 
-A 13. sorszámú Katasztrófavédelmi főelőadó megnevezésű szakképesítés-ráépülés
+A 20. SORSZÁMÚ KATASZTRÓFAVÉDELMI FŐELŐADÓ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
-szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+1. Az Országos Képzési Jegyzékben szereplő adatok
 
 1.1. A szakképesítés-rápülés azonosító száma: 53 861 06
 
 1.2. Szakképesítés-ráépülés megnevezése: Katasztrófavédelmi főelőadó
 
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
 
 1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 240-340
 
-2. EGYÉB ADATOK
+2. Egyéb Adatok
 
-2. 1. A képzés megkezdésének feltételei:
+2. 1. A képzés megkezdésének feltételei: –
 
 2.1.1. Iskolai előképzettség: érettségi végzettség
 
-2.1.2. Bemeneti kompetenciák: -
+2.1.2. Bemeneti kompetenciák: –
 
 2.2. Szakmai előképzettség: 52 861 03 Katasztrófavédelmi előadó szakképesítés
 
-2.3. Előírt gyakorlat: -
+2.3. Előírt gyakorlat: –
 
-2.4. Egészségügyi alkalmassági követelmények: -
+2.4. Egészségügyi alkalmassági követelmények: –
 
-2.5. Pályaalkalmassági követelmények: -
+2.5. Pályaalkalmassági követelmények: –
 
 2.6. Elméleti képzési idő aránya: 60%
 
 2.7. Gyakorlati képzési idő aránya: 40%
 
-2.8. Szintvizsga: -
+2.8. Szintvizsga: –
 
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
 
-3. PÁLYATÜKÖR
+3. Pályatükör
 
 3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
 
@@ -2532,43 +4448,41 @@ szakmai és vizsgakövetelménye
 
 | 3.1.2. | 5259 | Egyéb személy és vagyonvédelmi foglalkozású | Polgári szervek, szervezetek, gazdálkodó szervezetek védelmi ügyintézői, védelmi vezetői |
 
-3.2. A szakképesítés-ráépülés munkaterületének rövid leírása:
+3.2. A szakképesítés-ráépülés munkaterületének rövid leírása
 
-A katasztrófavédelmi főelőadó feladata:
+− a természeti és civilizációs katasztrófák okozta veszélyekkel szemben a szervezet munkavállalóinak, anyagi javainak és a környezet megóvása érdekében a katasztrófavédelmi feladatokat tervezi, szervezi, a végrehajtást irányítja és ellenőrzi
 
-- a természeti és civilizációs katasztrófák okozta veszélyekkel szemben a szervezet munkavállalóinak, anyagi javainak és a környezet megóvása érdekében a katasztrófavédelmi feladatokat tervezi, szervezi, a végrehajtást irányítja és ellenőrzi
-
-- a közreműködő szervezetek közötti együttműködést megszervezi, koordinálja
+− a közreműködő szervezetek közötti együttműködést megszervezi, koordinálja
 
 A szakképesítés-ráépüléssel rendelkező képes:
 
-- integrált kockázatértékelést végezni
+− integrált kockázatértékelést végezni
 
-- terveket készíteni
+− terveket készíteni
 
-- koordinálni a szervezetek katasztrófavédelemmel kapcsolatos tervező, szervező tevékenységét
+− koordinálni a szervezetek katasztrófavédelemmel kapcsolatos tervező, szervező tevékenységét
 
-- polgári védelmi szervezeteket létrehozni és alkalmazni
+− polgári védelmi szervezeteket létrehozni és alkalmazni
 
-- döntés előkészítést végezni
+− döntés-előkészítést végezni
 
-- részt venni szakmai területének szabályozásában
+− részt venni szakmai területének szabályozásában
 
-- védelemszervezői tevékenységet végezni
+− védelemszervezői tevékenységet végezni
 
-- veszélykezelésben részt venni
+− veszélykezelésben részt venni
 
-- kapcsolatot tartani és együttműködni más szervezetekkel
+− kapcsolatot tartani és együttműködni más szervezetekkel
 
-- részt venni a készletképzésben és a készletgazdálkodásban
+− részt venni a készletképzésben és a készletgazdálkodásban
 
-- védelmi létesítményeket kezelni
+− védelmi létesítményeket kezelni
 
-- megalakított szervezetek felkészítését irányítani
+− megalakított szervezetek felkészítését irányítani
 
-- szakmailag továbbképezni magát
+− szakmailag továbbképezni magát
 
-- ellenőrzést végezni
+− ellenőrzést végezni
 
 3.3. Kapcsolódó szakképesítések
 
@@ -2580,7 +4494,7 @@ A szakképesítés-ráépüléssel rendelkező képes:
 
 | 3.3.3. | 52 861 03 | Katasztrófavédelmi előadó | szakképesítés |
 
-4. SZAKMAI KÖVETELMÉNYEK
+4. Szakmai követelmények
 
 |  | A | B |
 
@@ -2590,19 +4504,19 @@ A szakképesítés-ráépüléssel rendelkező képes:
 
 | 4.3. | 10386-12 | Katasztrófavédelmi feladatok |
 
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
+5. Vizsgáztatási követelmények
 
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
+5.1. A komplex szakmai vizsgára bocsátás feltételei
 
-Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+5.1.1. Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
 
-A szakképzést végző által kidolgozott képzési programban előírt tanulmányi kötelezettségeinek eleget tesz.
+5.1.2. A szakképzést végző által kidolgozott képzési programban előírt tanulmányi kötelezettségeinek eleget tesz.
 
-A képzési programban előírt tanulmányi kötelezettségek teljesítése.
+5.1.3. A képzési programban előírt tanulmányi kötelezettségek teljesítése.
 
-A hiányzási óraszám nem haladhatja meg a képzési programban rögzített teljes óraszám 15%-át.
+5.1.4. A hiányzási óraszám nem haladhatja meg a képzési programban rögzített teljes óraszám 15%-át.
 
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
 
 |  | A | B | C |
 
@@ -2614,19 +4528,13 @@ A hiányzási óraszám nem haladhatja meg a képzési programban rögzített te
 
 Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
 
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
 
 5.3.1. Gyakorlati vizsgatevékenység
 
-A vizsgafeladat megnevezése:
+A vizsgafeladat megnevezése: Lakosság és anyagi javak védelme
 
-Lakosság és anyagi javak védelme
-
-A vizsgafeladat ismertetése:
-
-Veszélyhelyzettel kapcsolatos megelőzési feladat (veszélyelemzés, kockázatértékelés, hatásvizsgálat, térképi rögzítés, veszélyhelyzeti tervezés) végrehajtásának koordinálása, irányítása
-
-veszélyhelyzet kezelési feladatterv (riasztás, tájékoztatás, helyi-, távolsági védelem végrehajtása) értékelése, a feladat végrehajtásának irányítása
+A vizsgafeladat ismertetése: Veszélyhelyzettel kapcsolatos megelőzési feladat (veszélyelemzés, kockázatértékelés, hatásvizsgálat, térképi rögzítés, veszélyhelyzeti tervezés) végrehajtásának koordinálása, irányítása, veszélyhelyzet kezelési feladatterv (riasztás, tájékoztatás, helyi-, távolsági védelem végrehajtása) értékelése, a feladat végrehajtásának irányítása
 
 A vizsgafeladat időtartama: 180 perc
 
@@ -2634,13 +4542,9 @@ A vizsgafeladat értékelési súlyaránya: 50%
 
 5.3.2. Központi írásbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése:
+A vizsgafeladat megnevezése: A katasztrófák elleni védekezés megszervezése
 
-A katasztrófák elleni védekezés megszervezése
-
-A vizsgafeladat ismertetése:
-
-A védelemigazgatás, a polgári védelem jogi alapjaival, irányításával, feladataival, az iparbiztonsági feladatok tervezésével, szervezésével kapcsolatos ismeretek felmérése feleletválasztásos, feleletalkotásos és felelet kiegészítéses kérdések alapján
+A vizsgafeladat ismertetése: A védelemigazgatás, a polgári védelem jogi alapjaival, irányításával, feladataival, az iparbiztonsági feladatok tervezésével, szervezésével kapcsolatos ismeretek felmérése feleletválasztásos, feleletalkotásos és felelet kiegészítéses kérdések alapján
 
 A vizsgafeladat időtartama: 90 perc
 
@@ -2648,13 +4552,9 @@ A vizsgafeladat értékelési súlyaránya: 20%
 
 5.3.3. Szóbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése:
+A vizsgafeladat megnevezése: Katasztrófák elleni védekezés munkahelyi, települési, területi és központi szinten.
 
-Katasztrófák elleni védekezés munkahelyi, települési, területi és központi szinten.
-
-A vizsgafeladat ismertetése:
-
-A központilag összeállított szóbeli vizsga kérdései a katasztrófavédelmi főelőadó szakmai képzés témaköreinek ismeretanyagát tartalmazza.
+A vizsgafeladat ismertetése: A központilag összeállított szóbeli vizsga kérdései a katasztrófavédelmi főelőadó szakmai képzés témaköreinek ismeretanyagát tartalmazza.
 
 A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő:15 perc, válaszadásidő 15 perc)
 
@@ -2662,11 +4562,11 @@ A vizsgafeladat értékelési súlyaránya: 30%
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
 
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
 
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
 
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+6. Eszköz- és felszerelési jegyzék
 
 |  | A |
 
@@ -2684,43 +4584,43 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 | 6.7. | Oktatástechnikai eszközök |
 
-7. EGYEBEK
+7. Egyebek
 
-7.1. Validáció: -
+7.1. Validáció: –
 
-7.2.1. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
 
 |  | A | B | C |
 
-| 7.2.2. | azonosító szám | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+| 7.2.1. | azonosító száma | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
 
-| 7.2.3. | 53 861 06 | Katasztrófavédelmi főelőadó | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7.2.2. | 53 861 06 | Katasztrófavédelmi főelőadó | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 7.3. A kijavított és értékelt írásbeli feladatot, az eredeti írásbeli vizsgafeladat egy példányát, valamint a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt el kell juttatni a vizsgaelnökhöz.
 
-A 14. sorszámú Katasztrófavédelmi szakelőadó megnevezésű szakképesítés szakmai és vizsgakövetelménye
+A 21. SORSZÁMÚ KATASZTRÓFAVÉDELMI SZAKELŐADÓ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+1. Az Országos Képzési Jegyzékben szereplő adatok
 
 1.1. A szakképesítés azonosító száma: 52 861 04
 
 1.2. Szakképesítés megnevezése: Katasztrófavédelmi szakelőadó
 
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
 
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 500 - 800
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 500-800
 
-2. EGYÉB ADATOK
+2. Egyéb adatok
 
-2. 1. A képzés megkezdésének feltételei:
+2. 1. A képzés megkezdésének feltételei: –
 
 2.1.1. Iskolai előképzettség: érettségi végzettség
 
-2.1.2. Bemeneti kompetenciák: -
+2.1.2. Bemeneti kompetenciák: –
 
-2.2. Szakmai előképzettség: -
+2.2. Szakmai előképzettség: –
 
-2.3. Előírt gyakorlat: -
+2.3. Előírt gyakorlat: –
 
 2.4. Egészségügyi alkalmassági követelmények: szükségesek
 
@@ -2730,11 +4630,11 @@ A 14. sorszámú Katasztrófavédelmi szakelőadó megnevezésű szakképesíté
 
 2.7. Gyakorlati képzési idő aránya: 40%
 
-2.8. Szintvizsga: -
+2.8. Szintvizsga: –
 
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
 
-3. PÁLYATÜKÖR
+3. Pályatükör
 
 3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
 
@@ -2746,43 +4646,41 @@ A 14. sorszámú Katasztrófavédelmi szakelőadó megnevezésű szakképesíté
 
 3.2. A szakképesítés munkaterületének rövid leírása
 
-A katasztrófavédelmi szakelőadó feladata:
+− irányítás mellett részfeladatokat lát el a katasztrófák megelőzésében, a katasztrófák elhárítására való felkészülésben, a katasztrófák elleni védekezésben és a következményeik felszámolásában
 
-- irányítás mellett részfeladatokat lát el a katasztrófák megelőzésében, a katasztrófák elhárítására való felkészülésben, a katasztrófák elleni védekezésben és a következményeik felszámolásában
+− felügyelet mellett ellenőrzésekben vesz részt
 
-- felügyelet mellett ellenőrzésekben vesz részt
-
-- részt vesz a lakosság polgári védelmi felkészítésében, a polgári védelmi szervezetek létrehozásában, megalakításában, képzésében és továbbképzésében, mozgósításában és alkalmazásában
+− részt vesz a lakosság polgári védelmi felkészítésében, a polgári védelmi szervezetek létrehozásában, megalakításában, képzésében és továbbképzésében, mozgósításában és alkalmazásában
 
 A szakképesítéssel rendelkező képes:
 
-- informálódni és kommunikálni
+− informálódni és kommunikálni
 
-- veszélyazonosítást és veszélyelemzést végezni
+− veszélyazonosítást és veszélyelemzést végezni
 
-- terveket készíteni
+− terveket készíteni
 
-- szervezeteket létrehozni és működtetni
+− szervezeteket létrehozni és működtetni
 
-- döntés előkészítést végezni
+− döntés előkészítést végezni
 
-- részt venni szakmai területének szabályozásában
+− részt venni szakmai területének szabályozásában
 
-- védelemszervezői tevékenységet végezni
+− védelemszervezői tevékenységet végezni
 
-- veszélykezelésben részt venni
+− veszélykezelésben részt venni
 
-- kapcsolatot tartani és együttműködni
+− kapcsolatot tartani és együttműködni
 
-- részt venni készletképzésben és a készletgazdálkodásban
+− részt venni készletképzésben és a készletgazdálkodásban
 
-- védőlétesítményeket kezelni
+− védőlétesítményeket kezelni
 
-- oktatni, felkészíteni
+− oktatni, felkészíteni
 
-- adatkezelést és adminisztrációs feladatokat végezni
+− adatkezelést és adminisztrációs feladatokat végezni
 
-- ellenőrzést végezni
+− ellenőrzést végezni
 
 3.3. Kapcsolódó szakképesítések
 
@@ -2794,7 +4692,7 @@ A szakképesítéssel rendelkező képes:
 
 | 3.3.3. | 53 861 07 | Katasztrófavédelmi referens | szakképesítés-ráépülés |
 
-4. SZAKMAI KÖVETELMÉNYEK
+4. Szakmai követelmények
 
 |  | A | B |
 
@@ -2806,17 +4704,17 @@ A szakképesítéssel rendelkező képes:
 
 | 4.4. | 10389-12 | A polgári védelmi tevékenység megszervezése és működtetése |
 
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
+5. Vizsgáztatási követelmények
 
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
+5.1. A komplex szakmai vizsgára bocsátás feltételei
 
-Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+5.1.1. Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
 
-A szakképzést végző által kidolgozott képzési programban előírt tanulmányi kötelezettségeinek eleget tesz.
+5.1.2. A szakképzést végző által kidolgozott képzési programban előírt tanulmányi kötelezettségeinek eleget tesz.
 
-A képzési programban előírt tanulmányi kötelezettségek teljesítése.
+5.1.3. A képzési programban előírt tanulmányi kötelezettségek teljesítése.
 
-A hiányzási óraszám nem haladhatja meg a képzési programban rögzített teljes óraszám 15%-át.
+5.1.4. A hiányzási óraszám nem haladhatja meg a képzési programban rögzített teljes óraszám 15%-át.
 
 5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
 
@@ -2832,29 +4730,21 @@ A hiányzási óraszám nem haladhatja meg a képzési programban rögzített te
 
 Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
 
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
 
 5.3.1. Gyakorlati vizsgatevékenység
 
 A) A vizsgafeladat megnevezése: Rendvédelmi alapfeladatok
 
-A vizsgafeladat ismertetése:
-
-A vizsgázó feltételezett szituációról az alaki szabályoknak megfelelő, szóbeli jelentést, majd a kapott utasításnak megfelelően írásbeli jelentést tesz.
+A vizsgafeladat ismertetése: A vizsgázó feltételezett szituációról az alaki szabályoknak megfelelő, szóbeli jelentést, majd a kapott utasításnak megfelelően írásbeli jelentést tesz.
 
 A vizsgafeladat időtartama: 30 perc
 
 A vizsgafeladat értékelési súlyaránya: 10%
 
-B. ) A vizsgafeladat megnevezése:
+B) A vizsgafeladat megnevezése: A lakosság és anyagi javak védelme
 
-A lakosság és anyagi javak védelme
-
-A vizsgafeladat ismertetése:
-
-Veszélyhelyzettel kapcsolatos megelőzési feladat végrehajtása (veszélyelemzés, kockázatértékelés, hatásvizsgálat, térképi rögzítés, veszélyhelyzeti tervezés),
-
-veszélyhelyzet kezelés során jelentkező lakosság és anyagi javak védelmét szolgáló feladat megoldása.
+A vizsgafeladat ismertetése: Veszélyhelyzettel kapcsolatos megelőzési feladat végrehajtása (veszélyelemzés, kockázatértékelés, hatásvizsgálat, térképi rögzítés, veszélyhelyzeti tervezés), veszélyhelyzet kezelés során jelentkező lakosság és anyagi javak védelmét szolgáló feladat megoldása.
 
 A vizsgafeladat időtartama: 180 perc
 
@@ -2862,13 +4752,9 @@ A vizsgafeladat értékelési súlyaránya: 30%
 
 5.3.2. Központi írásbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése:
+A vizsgafeladat megnevezése: Rendvédelmi alapfeladatok, védelmi igazgatási, polgári védelmi ismeretek
 
-Rendvédelmi alapfeladatok, védelmi igazgatási, polgári védelmi ismeretek
-
-A vizsgafeladat ismertetése:
-
-Hivatásos katasztrófavédelmi szervek feladatainak rendszere, rendvédelmi alapfeladatok, a szolgálatteljesítésre vonatkozó jogszabályok, előírások ismerete és alkalmazása.
+A vizsgafeladat ismertetése: Hivatásos katasztrófavédelmi szervek feladatainak rendszere, rendvédelmi alapfeladatok, a szolgálatteljesítésre vonatkozó jogszabályok, előírások ismerete és alkalmazása.
 
 A vizsgafeladat időtartama: 120 perc
 
@@ -2876,27 +4762,23 @@ A vizsgafeladat értékelési súlyaránya: 40%
 
 5.3.3. Szóbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése:
+A vizsgafeladat megnevezése: Polgári védelmi szervezetek megalakítása, felkészítése, alkalmazása
 
-Polgári védelmi szervezetek megalakítása, felkészítése, alkalmazása
-
-A vizsgafeladat ismertetése:
-
-A munkahelyi, települési, területi és központi köteles polgári védelmi szervezetek, az önkéntes mentőszervezetek megalakításával, felkészítésével, mozgósításával és alkalmazásával kapcsolatos ismeretek
+A vizsgafeladat ismertetése: A munkahelyi, települési, területi és központi köteles polgári védelmi szervezetek, az önkéntes mentőszervezetek megalakításával, felkészítésével, mozgósításával és alkalmazásával kapcsolatos ismeretek.
 
 A központilag összeállított szóbeli vizsga kérdései a katasztrófavédelmi szakelőadó szakmai képzés témaköreinek ismeretanyagát tartalmazza.
 
-A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő:15 perc, válaszadási idő 15 perc)
+A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő: 15 perc, válaszadási idő 15 perc)
 
 A vizsgafeladat értékelési súlyaránya: 20%
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidő-szakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
 
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
 
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
 
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+6. Eszköz- és felszerelési jegyzék
 
 |  | A |
 
@@ -2936,45 +4818,41 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 | 6.18. | Oktatástechnikai eszközök |
 
-7. EGYEBEK
+7. Egyebek
 
-7. 1. Validáció: -
+7.1. Validáció: –
 
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
 
 |  | A | B | C |
 
-| 7.2.1. | azonosító szám | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+| 7.2.1. | azonosító száma | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
 
 | 7.2.2. | 52 861 04 | Katasztrófavédelmi szakelőadó | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-7.3. A képzésben résztvevők és a vizsgázók részére az egyéni védőfelszereléseket a beiskolázó biztosítja.
+A 22. SORSZÁMÚ KATASZTRÓFAVÉDELMI REFERENS MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
-7.4. A kijavított és értékelt írásbeli feladatot, az eredeti írásbeli vizsgafeladat egy példányát, valamint a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt el kell juttatni a vizsgaelnökhöz.
-
-A 15. sorszámú Katasztrófavédelmi referens megnevezésű szakképesítés-ráépülés szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+1. Az Országos Képzési Jegyzékben szereplő adatok
 
 1.1. A szakképesítés-ráépülés azonosító száma: 53 861 07
 
 1.2. Szakképesítés-ráépülés megnevezése: Katasztrófavédelmi referens
 
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
 
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 200 - 300
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 200-300
 
-2. EGYÉB ADATOK
+2. Egyéb adatok
 
-2. 1. A képzés megkezdésének feltételei:
+2. 1. A képzés megkezdésének feltételei: –
 
 2.1.1. Iskolai előképzettség: érettségi végzettség
 
-2.1.2. Bemeneti kompetenciák: -
+2.1.2. Bemeneti kompetenciák: –
 
 2.2. Szakmai előképzettség: 52 861 04 Katasztrófavédelmi szakelőadó szakképesítés
 
-2.3. Előírt gyakorlat: -
+2.3. Előírt gyakorlat: –
 
 2.4. Egészségügyi alkalmassági követelmények: szükségesek
 
@@ -2984,11 +4862,11 @@ A 15. sorszámú Katasztrófavédelmi referens megnevezésű szakképesítés-r�
 
 2.7. Gyakorlati képzési idő aránya: 40%
 
-2.8. Szintvizsga: -
+2.8. Szintvizsga: –
 
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
 
-3. PÁLYATÜKÖR
+3. Pályatükör
 
 3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
 
@@ -2998,49 +4876,47 @@ A 15. sorszámú Katasztrófavédelmi referens megnevezésű szakképesítés-r�
 
 | 3.1.2. | 5259 | Egyéb személy- és vagyonvédelmi foglalkozású | Hivatásos katasztrófavédelmi szervnél zászlósi rendfokozattal rendszeresített beosztások |
 
-3.2. A szakképesítés-ráépülés munkaterületének rövid leírása
+3.2. A szakképesítés-ráépülés munkaterületének rövid leírása:
 
-A katasztrófavédelmi referens feladata:
+− önállóan vagy elöljárói felügyelet mellett katasztrófavédelmi, polgári védelmi, iparbiztonsági feladatokat lát el
 
-- önállóan vagy elöljárói felügyelet mellett katasztrófavédelmi, polgári védelmi, iparbiztonsági feladatokat lát el
-
-- közreműködik megelőző tűzvédelmi (oktatási) feladatok megoldásában
+− közreműködik megelőző tűzvédelmi (oktatási) feladatok megoldásában
 
 A szakképesítés-ráépüléssel rendelkező képes:
 
-- tájékozódni és kommunikálni
+− tájékozódni és kommunikálni
 
-- alkalmazni a közigazgatási hatósági eljárás szabályait
+− alkalmazni a közigazgatási hatósági eljárás szabályait
 
-- tűzvédelmi, iparbiztonsági és polgári védelmi ismereteket alkalmazni
+− tűzvédelmi, iparbiztonsági és polgári védelmi ismereteket alkalmazni
 
-- kockázatelemzést, bevetéselemzést végezni
+− kockázatelemzést, bevetéselemzést végezni
 
-- terveket készíteni
+− terveket készíteni
 
-- szervezeteket létrehozni és működtetni
+− szervezeteket létrehozni és működtetni
 
-- döntés előkészítést végezni
+− döntés-előkészítést végezni
 
-- részt venni szakmai területének szabályozásában
+− részt venni szakmai területének szabályozásában
 
-- közreműködni hatósági, szakhatósági eljárásban
+− közreműködni hatósági, szakhatósági eljárásban
 
-- védelemszervezői tevékenységet végezni
+− védelemszervezői tevékenységet végezni
 
-- veszélykezelésben közreműködni
+− veszélykezelésben közreműködni
 
-- kapcsolatot tartani és együttműködni
+− kapcsolatot tartani és együttműködni
 
-- logisztikai támogatást tervezni, szervezni
+− logisztikai támogatást tervezni, szervezni
 
-- védőlétesítményeket kezelni
+− védőlétesítményeket kezelni
 
-- oktatást, felkészítést tervezni, szervezni és végrehajtani
+− oktatást, felkészítést tervezni, szervezni és végrehajtani
 
-- adatkezelést és adminisztrációs feladatokat végezni
+− adatkezelést és adminisztrációs feladatokat végezni
 
-- ellenőrizni, értékelni
+− ellenőrizni, értékelni
 
 3.3. Kapcsolódó szakképesítések
 
@@ -3052,7 +4928,7 @@ A szakképesítés-ráépüléssel rendelkező képes:
 
 | 3.3.3. | 52 861 04 | Katasztrófavédelmi szakelőadó | szakképesítés |
 
-4. SZAKMAI KÖVETELMÉNYEK
+4. Szakmai követelmények
 
 |  | A | B |
 
@@ -3062,19 +4938,19 @@ A szakképesítés-ráépüléssel rendelkező képes:
 
 | 4.3. | 10387-12 | A katasztrófavédelmi referens tevékenysége |
 
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
+5. Vizsgáztatási követelmények
 
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
+5.1. A komplex szakmai vizsgára bocsátás feltételei
 
-Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+5.1.1. Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
 
-A szakképzést végző által kidolgozott képzési programban előírt tanulmányi kötelezettségeinek eleget tesz.
+5.1.2. A szakképzést végző által kidolgozott képzési programban előírt tanulmányi kötelezettségeinek eleget tesz.
 
-A képzési programban előírt tanulmányi kötelezettségek teljesítése.
+5.1.3. A képzési programban előírt tanulmányi kötelezettségek teljesítése.
 
-A hiányzási óraszám nem haladhatja meg a képzési programban rögzített teljes óraszám 15%-át.
+5.1.4. A hiányzási óraszám nem haladhatja meg a képzési programban rögzített teljes óraszám 15%-át.
 
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
 
 |  | A | B | C |
 
@@ -3086,41 +4962,33 @@ A hiányzási óraszám nem haladhatja meg a képzési programban rögzített te
 
 Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
 
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
 
 5.3.1. Gyakorlati vizsgatevékenység
 
-A vizsgafeladat megnevezése:
+A vizsgafeladat megnevezése: Az állami katasztrófavédelem feladatainak megszervezése
 
-Az állami katasztrófavédelem feladatainak megszervezése
-
-A vizsgafeladat ismertetése:
-
-Feltételezett helyzet alapján a katasztrófavédelmi referens tervezési, szervezési feladatainak megoldása a lakosság és anyagi javak védelme érdekében.
+A vizsgafeladat ismertetése: Feltételezett helyzet alapján a katasztrófavédelmi referens tervezési, szervezési feladatainak megoldása a lakosság és anyagi javak védelme érdekében.
 
 A vizsgafeladat időtartama: 180 perc
 
 A vizsgafeladat értékelési súlyaránya: 60%
 
-5.3.2. Központi írásbeli vizsgatevékenység -
+5.3.2. Központi írásbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése: -
+A vizsgafeladat megnevezése: –
 
-A vizsgafeladat ismertetése: -
+A vizsgafeladat ismertetése: –
 
-A vizsgafeladat időtartama: -
+A vizsgafeladat időtartama: –
 
-A vizsgafeladat értékelési súlyaránya: -
+A vizsgafeladat értékelési súlyaránya: –
 
 5.3.3. Szóbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése:
+A vizsgafeladat megnevezése: A polgári védelmi, az iparbiztonsági és a tűzvédelmi feladatok szervezeti és irányítási rendszere, tervezése, szervezése, végrehajtása és ellenőrzése az illetékességi területen belül.
 
-A polgári védelmi, az iparbiztonsági és a tűzvédelmi feladatok szervezeti és irányítási rendszere, tervezése, szervezése, végrehajtása és ellenőrzése az illetékességi területen belül.
-
-A vizsgafeladat ismertetése:
-
-A szóbeli központilag összeállított vizsga kérdései a katasztrófavédelmi referens szakmai képzés témaköreinek ismeretanyagát tartalmazza.
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a katasztrófavédelmi referens szakmai képzés témaköreinek ismeretanyagát tartalmazza.
 
 A vizsgafeladat időtartama: 45 perc (ebből felkészülési idő:30 perc, válaszadási idő 15 perc)
 
@@ -3128,11 +4996,11 @@ A vizsgafeladat értékelési súlyaránya: 40%
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
 
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
 
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
 
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+6. Eszköz- és felszerelési jegyzék
 
 |  | A |
 
@@ -3158,57 +5026,57 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 | 6.11. | Szállítóeszközök |
 
-7. EGYEBEK
+7. Egyebek
 
-7. 1. Validáció: -
+7. 1. Validáció: –
 
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
 
 |  | A | B | C |
 
-| 7.2.1. | azonosító szám | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+| 7.2.1. | azonosító száma | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
 
 | 7.2.2. | 53 861 07 | Katasztrófavédelmi referens | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 7.3. A képzésben résztvevők és a vizsgázók részére az egyéni védőfelszereléseket a beiskolázó biztosítja.
 
-A 16. sorszámú Kéményseprő megnevezésű szakképesítés szakmai és vizsgakövetelménye
+A 23. SORSZÁMÚ KÉMÉNYSEPRŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+1. Az Országos Képzési Jegyzékben szereplő adatok
 
 1.1. A szakképesítés azonosító száma: 32 853 02
 
 1.2. Szakképesítés megnevezése: Kéményseprő
 
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
 
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 800 - 1000
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 800-1000
 
-2. EGYÉB ADATOK
+2. Egyéb adatok
 
-2.1. A képzés megkezdésének feltételei:
+2.1. A képzés megkezdésének feltételei: –
 
 2.1.1. Iskolai előképzettség: alapfokú iskolai végzettség
 
-2.1.2. Bemeneti kompetenciák: a képzés megkezdhető a 3. számú mellékletben a Gépészet szakmacsoportra meghatározott kompetenciák birtokában
+2.1.2. Bemeneti kompetenciák: a képzés megkezdhető a 3. mellékletben a Gépészet szakmacsoportra meghatározott kompetenciák birtokában
 
-2.2. Szakmai előképzettség: -
+2.2. Szakmai előképzettség: –
 
 2.3. Előírt gyakorlat:
 
-2.4. Egészségügyi alkalmassági követelmények: -
+2.4. Egészségügyi alkalmassági követelmények: –
 
-2.5. Pályaalkalmassági követelmények: -
+2.5. Pályaalkalmassági követelmények: –
 
 2.6. Elméleti képzési idő aránya: 30%
 
 2.7. Gyakorlati képzési idő aránya: 70%
 
-2.8. Szintvizsga: -
+2.8. Szintvizsga: –
 
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
 
-3. PÁLYATÜKÖR
+3. Pályatükör
 
 3.1. A szakképesítéssel legjellemzőbben betölthető munkakör, foglalkozás
 
@@ -3224,27 +5092,27 @@ A 16. sorszámú Kéményseprő megnevezésű szakképesítés szakmai és vizsg
 
 A szakképesítéssel rendelkező képes:
 
-- égéstermék-elvezetőt tisztítani
+− égéstermék-elvezetőt tisztítani
 
-- égéstermék-elvezetőt ellenőrizni, vizsgálni
+− égéstermék-elvezetőt ellenőrizni, vizsgálni
 
-- égéstermék-elvezetőn hibákat feltárni
+− égéstermék-elvezetőn hibákat feltárni
 
-- égéstermék-elvezetővel kapcsolatban szaktanácsot adni
+− égéstermék-elvezetővel kapcsolatban szaktanácsot adni
 
-- égéstermék-elvezetőhöz kapcsolódó méréseket végezni
+− égéstermék-elvezetőhöz kapcsolódó méréseket végezni
 
-- építész és gépész tervet olvasni
+− építész és gépész tervet olvasni
 
-- tüzelőberendezés égéstermék oldalát tisztítani
+− tüzelőberendezés égéstermék oldalát tisztítani
 
-- tüzeléstechnikai mérést végezni
+− tüzeléstechnikai mérést végezni
 
-- légcsatornát tisztítani
+− légcsatornát tisztítani
 
-- légtechnikai mérést végezni
+− légtechnikai mérést végezni
 
-- munkával kapcsolatos dokumentációt kitölteni
+− munkával kapcsolatos dokumentációt kitölteni
 
 3.3. Kapcsolódó szakképesítések
 
@@ -3254,33 +5122,33 @@ A szakképesítéssel rendelkező képes:
 
 | 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
 
-| - | - | - | - |
+| – | – | – | – |
 
-4. SZAKMAI KÖVETELMÉNYEK
+4. Szakmai követelmények
 
 |  | A | B |
 
 | 4.1. | A szakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
 
-| 4.2. | azonosítója | megnevezése |
+| 4.2. | azonosító száma | megnevezése |
 
 | 4.3. | 10390-12 | Égéstermék elvezetés |
 
 | 4.4. | 10391-12 | Tüzelés-, és légtechnika |
 
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
+5. Vizsgáztatási követelmények
 
 5.1. A komplex szakmai vizsgára bocsátás feltételei:
 
 Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
 
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
 
 |  | A | B | C |
 
 | 5.2.1. | A szakképesítés szakmai követelménymoduljainak |
 
-| 5.2.2. | azonosító | megnevezés | a modulzáró vizsga vizsgatevékenysége |
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
 
 | 5.2.3. | 10390-12 | Égéstermék elvezetés | gyakorlati, írásbeli |
 
@@ -3288,75 +5156,61 @@ Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi
 
 A modulzáró vizsga akkor eredményes, ha a modulhoz előírt vizsgatevékenység legalább 51%-osra értékelhető.
 
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
 
 5.3.1. Gyakorlati vizsgatevékenység
 
-A.) A vizsgafeladat megnevezése: égéstermék-elvezető ellenőrzése, tisztítása, vizsgálata
+A) A vizsgafeladat megnevezése: égéstermék-elvezető ellenőrzése, tisztítása, vizsgálata
 
-A vizsgafeladat ismertetése:
-
-Az égéstermék-elvezető megközelítése, átvizsgálása, kitisztítása, égéstermék maradéktalan eltávozásának ellenőrzése, égési levegő utánpótlás ellenőrzése, szén-monoxid mérése, égéstermék-elvezető szivárgási érték vizsgálata, szükséges adminisztráció elkészítése
+A vizsgafeladat ismertetése: Az égéstermék-elvezető megközelítése, átvizsgálása, kitisztítása, égéstermék maradéktalan eltávozásának ellenőrzése, égési levegő utánpótlás ellenőrzése, szén-monoxid mérése, égéstermék-elvezető szivárgási érték vizsgálata, szükséges adminisztráció elkészítése
 
 A vizsgafeladat időtartama: 60 perc
 
 A vizsgafeladat értékelési súlyaránya: 34%
 
-B.) A vizsgafeladat megnevezése: tüzelőberendezés égéstermék oldali tisztítása, tüzeléstechnikai mérése
+B) A vizsgafeladat megnevezése: tüzelőberendezés égéstermék oldali tisztítása, tüzeléstechnikai mérése
 
-A vizsgafeladat ismertetése:
-
-A tüzelőberendezés szemrevételezése, tisztítási munkálatok előkészítése, tisztítás, az üzemkész állapot visszaállítása, tüzeléstechnikai mérés feltételeinek kialakítása, tüzeléstechnikai mérés, mérési eredmények kiértékelése.
+A vizsgafeladat ismertetése: A tüzelőberendezés szemrevételezése, tisztítási munkálatok előkészítése, tisztítás, az üzemkész állapot visszaállítása, tüzeléstechnikai mérés feltételeinek kialakítása, tüzeléstechnikai mérés, mérési eredmények kiértékelése.
 
 A vizsgafeladat időtartama: 20 perc
 
 A vizsgafeladat értékelési súlyaránya: 8%
 
-C.) A vizsgafeladat megnevezése: légtechnikai berendezés tisztítása, ellenőrzése, vizsgálata
+C) A vizsgafeladat megnevezése: légtechnikai berendezés tisztítása, ellenőrzése, vizsgálata
 
-A vizsgafeladat ismertetése:
-
-A légtechnikai berendezés szemrevételezése, tisztítási munkálatok előkészítése, tisztítás, az üzemkész állapot visszaállítása, az eltávolított szennyeződés kezelése, áramló közeg mennyiségének mérése.
+A vizsgafeladat ismertetése: A légtechnikai berendezés szemrevételezése, tisztítási munkálatok előkészítése, tisztítás, az üzemkész állapot visszaállítása, az eltávolított szennyeződés kezelése, áramló közeg mennyiségének mérése.
 
 A vizsgafeladat időtartama: 20 perc
 
-A vizsgafeladat értékelési súlyaránya: 8 %
+A vizsgafeladat értékelési súlyaránya: 8%
 
 5.3.2. Központi írásbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése:
+A vizsgafeladat megnevezése: Égéstermék-elvezetés, tüzelés-, és légtechnikai berendezések ismertetése
 
-Égéstermék-elvezetés, tüzelés-, és légtechnikai berendezések ismertetése
-
-A vizsgafeladat ismertetése:
-
-Szakrajz, szakmai számítások, mértékegységek átszámítása, anyagismeret, hő- és áramlástechnika, jogszabályok, szabványok, műszaki előírások, munka-, tűz-, és környezetvédelem
+A vizsgafeladat ismertetése: Szakrajz, szakmai számítások, mértékegységek átszámítása, anyagismeret, hő- és áramlástechnika, jogszabályok, szabványok, műszaki előírások, munka-, tűz-, és környezetvédelem
 
 A vizsgafeladat időtartama: 180 perc
 
-A vizsgafeladat értékelési súlyaránya: 30 %
+A vizsgafeladat értékelési súlyaránya: 30%
 
 5.3.3. Szóbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése:
+A vizsgafeladat megnevezése: Az égéstermék-elvezetők, tüzelő- és légtechnikai berendezések kialakításai, típusai, fajtái, szerkezetük és működésük, tisztítási-, ellenőrzési- és vizsgálati technológiák, munka-, tűz- és környezetvédelmi előírások
 
-Az égéstermék-elvezetők, tüzelő- és légtechnikai berendezések kialakításai, típusai, fajtái, szerkezetük és működésük, tisztítási-, ellenőrzési- és vizsgálati technológiák, munka-, tűz- és környezetvédelmi előírások
-
-A vizsgafeladat ismertetése:
-
-A szóbeli központilag összeállított vizsga kérdései a IV. Szakmai követelmények fejezetben megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a IV. Szakmai követelmények fejezetben megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
 
 A vizsgafeladat időtartama: 45 perc (ebből felkészülési idő: 30 perc, válaszadási idő 15 perc)
 
-A vizsgafeladat értékelési súlyaránya: 20 %
+A vizsgafeladat értékelési súlyaránya: 20%
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
 
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
 
 5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: a sikeres vizsgához vizsgatevékenységenként 50% feletti teljesítményt kell elérni.
 
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+6. Eszköz- és felszerelési jegyzék
 
 |  | A |
 
@@ -3510,43 +5364,263 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 | 6.75. | Munkavégzéshez szükséges nyomtatványok |
 
-7. EGYEBEK
+7. Egyebek
 
-7.1. Validáció: -
+7.1. Validáció: –
 
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
 
 |  | A | B | C |
 
-| 7.2.1. | azonosító szám | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+| 7.2.1. | azonosító száma | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
 
 | 7.2.2. | 32 853 02 | Kéményseprő | Belügyminisztérium |
 
 7.3. Szervezett képzésben való részvétel kötelező. A hiányzás mértéke az órák 20%-át nem haladhatja meg.
 
-A 17. sorszámú Közterület-felügyelő megnevezésű szakképesítés szakmai és vizsgakövetelménye
+A 24. SORSZÁMÚ KÖRZETI MEGBÍZOTT MEGNEVEZÉSŰ SZAKKÉPESÍTÉS-RÁÉPÜLÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+1. Az Országos Képzési Jegyzékben szereplő adatok
 
-1.1. A szakképesítés azonosító száma: 52 861 05
+1.1. A szakképesítés-ráépülés azonosító száma: 55 861 04
 
-1.2. Szakképesítés megnevezése: Közterület-felügyelő
+1.2. Szakképesítés-ráépülés megnevezése: Körzeti megbízott
 
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
 
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 500-600
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 300-500
 
-2. EGYÉB ADATOK
+2. Egyéb adatok
 
 2.1. A képzés megkezdésének feltételei:
 
 2.1.1. Iskolai előképzettség: érettségi végzettség
 
-2.1.2. Bemeneti kompetenciák: -
+2.1.2. Bemeneti kompetenciák: –
 
-2.2. Szakmai előképzettség: -
+2.2. Szakmai előképzettség: 54 861 01 Rendőr tiszthelyettes szakképesítés
 
-2.3. Előírt gyakorlat: -
+2.3. Előírt gyakorlat: 2 év rendőr szakmai gyakorlat
+
+2.4. Egészségügyi alkalmassági követelmények: –
+
+2.5. Pályaalkalmassági követelmények: –
+
+2.6. Elméleti képzési idő aránya: 40%
+
+2.7. Gyakorlati képzési idő aránya: 60 %
+
+2.8. Szintvizsga: –
+
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
+
+3. Pályatükör
+
+3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör, foglalkozás
+
+|  | A | B | C |
+
+| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítés-ráépüléssel betölthető munkakör(ök) |
+
+| 3.1.2. | 5361 | Rendőr | Körzeti megbízott |
+
+3.2. A szakképesítés-ráépülés munkaterületének rövid leírása
+
+Bűnügyi, közrendvédelmi, közlekedés- és igazgatásrendészeti szakszolgálat ellátásával védi a közbiztonságot és a belső rendet.
+
+A szakképesítés-ráépüléssel rendelkező képes:
+
+− végezni a körzeti megbízott általános feladatait
+
+− végezni a körzeti megbízott bűnügyi feladatait
+
+− végezni a körzeti megbízott közlekedési és speciális közlekedésrendészeti feladatait,
+
+− az iratkezelési szabályok alapján nyilvántartani és kezelni a részére kiadott ügyiratokat és okmányokat, végezni a nyilvántartott személyek ellenőrzését
+
+− együttműködni az illetékességi területén működő települési önkormányzattal
+
+− megtervezni - az elöljárótól kapott szempontok alapján – szolgálatát
+
+− felkészülni a szolgálatára irányuló ellenőrzésekre és együttműködni az ellenőrzések során
+
+− végezni a körzeti megbízotti elemző-értékelő tevékenységét
+
+− végezni körzeti megbízott bűnmegelőzési feladatait
+
+− végezni a körzeti megbízott statisztikai feladatait
+
+− bűnügyi iratok informatikai eszközökkel történő dokumentálását alkalmazni
+
+− a jogsértő cselekményeket felismerni, megszakítani, intézkedni bűncselekmény vagy szabálysértés észlelése esetén
+
+− adatot, információt gyűjteni, ellenőrizni, megkeresést végrehajtani
+
+− bizonyítási cselekményeket végrehajtani és dokumentálni
+
+− büntetőeljárási kényszerintézkedéseket végrehajtani és dokumentálni
+
+− elvégezni az áldozatvédelemmel és a családon belüli erőszakkal kapcsolatos egyes feladatokat
+
+− intézkedni saját elhatározásából, felkérésre vagy utasításra, melynek során a jogszerűséget betartani
+
+− szakszerűség, arányosság, objektivitás, biztonság és eredményesség követelményeit betartani
+
+− szolgálata ellátása során lőfegyvert használni
+
+3.3. Kapcsolódó szakképesítések
+
+|  | A | B | C |
+
+| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
+
+| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
+
+| 3.3.3. | 54 861 01 | Rendőr tiszthelyettes (Bűnügyi-rendőr) | szakképesítés |
+
+| 3.3.4. | 54 861 01 | Rendőr tiszthelyettes (Határrendészeti-rendőr) | szakképesítés |
+
+| 3.3.5. | 54 861 01 | Rendőr tiszthelyettes (Közlekedési-rendőr) | szakképesítés |
+
+| 3.3.6. | 54 861 01 | Rendőr tiszthelyettes (Közrendvédelmi-rendőr) | szakképesítés |
+
+4. Szakmai követelmények
+
+|  | A | B |
+
+| 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
+
+| 4.2. | azonosító száma | megnevezése |
+
+| 4.3. | 10408-12 | Körzeti megbízotti feladatok |
+
+5. Vizsgáztatási követelmények
+
+5.1. A komplex szakmai vizsgára bocsátás feltételei
+
+Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
+
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
+
+|  | A |  | B | C |
+
+| 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
+
+| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenységei |
+
+| 5.2.3. | 10408-12 | Körzeti megbízotti feladatok | gyakorlati, szóbeli |
+
+5.2.4. A képzés foglalkozásain való részvétel, a gyakorlati feladatok megoldásában való közreműködés, a személyre kiadott feladatok végrehajtása, és a szakmai gyakorlat feladat megoldásainak adott határidőig történő leadása.
+
+5.2.5. A hiányzás mértéke a kontakt foglalkozási órák 20%-át nem haladja meg.
+
+5.2.6. Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
+
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
+
+5.3.1. Gyakorlati vizsgatevékenység
+
+A vizsgafeladat megnevezése: Körzeti megbízotti gyakorlati feladatok
+
+A vizsgafeladat ismertetése: Szituációs gyakorlatok, közlekedési, Neozsaru rendszerben elvégzendő adminisztrációs tevékenység, közrendvédelmi szituáció, illetve különböző bűnügyi helyzetek megoldása
+
+A vizsgafeladat időtartama: 30 perc
+
+A vizsgafeladat értékelési súlyaránya: 60%
+
+5.3.2. Központi írásbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: –
+
+A vizsgafeladat ismertetése: –
+
+A vizsgafeladat időtartama: –
+
+A vizsgafeladat értékelési súlyaránya: –
+
+5.3.3. Szóbeli vizsgatevékenység
+
+A vizsgafeladat megnevezése: Körzeti megbízotti szakfeladatok
+
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények pontban megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
+
+A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő: 10 perc, válaszadási idő 20 perc)
+
+A vizsgafeladat értékelési súlyaránya: 40%
+
+5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
+
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el
+
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
+
+6. Eszköz- és felszerelési jegyzék
+
+|  | A |
+
+| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
+
+| 6.2. | Fegyverzet |
+
+| 6.3. | Lövedékálló mellény |
+
+| 6.4. | Speciális egyéni felszerelés és kiegészítői |
+
+| 6.5. | Szolgálati járművek |
+
+| 6.6. | Számítógép és perifériái (informatikai eszközök) |
+
+| 6.7. | Híradástechnikai eszközök |
+
+| 6.8. | Mérőeszközök |
+
+| 6.9. | Világító berendezés |
+
+| 6.10. | Forgalom elterelő eszközök |
+
+| 6.11. | Videokamera |
+
+| 6.12. | Fényképezőgép |
+
+| 6.13. | Nyomtató |
+
+| 6.14. | Figyelést, látást, tájékozódást segítő eszközök, berendezések |
+
+7. Egyebek
+
+7.1. Validáció: –
+
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
+
+|  | A | B | C |
+
+| 7.2.1. | azonosító száma | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
+
+| 7.2.2. | 55 861 04 | Körzeti megbízott | Országos Rendőr-főkapitányság |
+
+A 25. SORSZÁMÚ KÖZTERÜLET-FELÜGYELŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
+
+1. Az Országos Képzési Jegyzékben szereplő adatok
+
+1.1. A szakképesítés azonosító száma: 52 861 05
+
+1.2. Szakképesítés megnevezése: Közterület-felügyelő
+
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: –
+
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 300-500
+
+2. Egyéb adatok
+
+2.1. A képzés megkezdésének feltételei:
+
+2.1.1. Iskolai előképzettség: érettségi végzettség
+
+2.1.2. Bemeneti kompetenciák: –
+
+2.2. Szakmai előképzettség: –
+
+2.3. Előírt gyakorlat: –
 
 2.4. Egészségügyi alkalmassági követelmények: szükségesek
 
@@ -3556,11 +5630,11 @@ A 17. sorszámú Közterület-felügyelő megnevezésű szakképesítés szakmai
 
 2.7. Gyakorlati képzési idő aránya: 60%
 
-2.8. Szintvizsga: -
+2.8. Szintvizsga: –
 
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: –
 
-3. PÁLYATÜKÖR
+1. Pályatükör
 
 3.1. A szakképesítéssel legjellemzőbben betölthető munkakör, foglalkozás
 
@@ -3570,57 +5644,57 @@ A 17. sorszámú Közterület-felügyelő megnevezésű szakképesítés szakmai
 
 | 3.1.2. | 5256 | Közterület-felügyelő | Közterület-felügyelő |
 
-3.2. A szakképesítés munkaterületének rövid leírása:
+3.2. A szakképesítés munkaterületének rövid leírása
 
-- a felügyelő feladatait az önkormányzat illetékességi területén lévő közterülten, az önkormányzat intézményeinek, gazdasági szervezeteinek területén, valamint az önkormányzat tömegközlekedési feladatának ellátása során üzemeltetett tömegközlekedési eszköz szerződésszerű használatának ellenőrzése során látja el
+– a felügyelő feladatait az önkormányzat illetékességi területén lévő közterületen, az önkormányzat intézményeinek, gazdasági szervezeteinek területén, valamint az önkormányzat tömegközlekedési feladatának ellátása során üzemeltetett tömegközlekedési eszköz szerződésszerű használatának ellenőrzése során látja el
 
-- szabálysértési és közigazgatási hatósági eljárást kezdeményez, helyszíni bírságot szab ki, illetve helyreállítja a közterület eredeti rendjét
+− szabálysértési és közigazgatási hatósági eljárást kezdeményez, helyszíni bírságot szab ki, illetve helyreállítja a közterület eredeti rendjét
 
 A szakképesítéssel rendelkező képes:
 
-- hatósági intézkedést folytatni
+− hatósági intézkedést folytatni
 
-- védeni a közterület rendjét és tisztaságát
+− védeni a közterület rendjét és tisztaságát
 
-- alkalmazni a tevékenységére vonatkozó jogszabályokat, és egyéb jogi normákat, valamint a speciális szakmai, továbbá etikai szabályokat
+− alkalmazni a tevékenységére vonatkozó jogszabályokat, és egyéb jogi normákat, valamint a speciális szakmai, továbbá etikai szabályokat
 
-- ellenőrizni a közterület jogszerű, engedélyhez kötött használatát;
+− ellenőrizni a közterület jogszerű, engedélyhez kötött használatát
 
-- segíteni a hajléktalan ellátás alapfeladatait
+− segíteni a hajléktalan ellátás alapfeladatait
 
-- közreműködni az önkormányzati vagyon védelmében, részt venni az önkormányzat közterületi rendezvényein
+− közreműködni az önkormányzati vagyon védelmében, részt venni az önkormányzat közterületi rendezvényein
 
-- részt venni az önkormányzati tulajdonú közösségi tömegközlekedési eszközök rendeltetésszerű használatának ellenőrzésében
+− részt venni az önkormányzati tulajdonú közösségi tömegközlekedési eszközök rendeltetésszerű használatának ellenőrzésében
 
-- ellenőrizni az útkezelői hozzájáruláshoz kötött tevékenységet, és a súlykorlátozás szabályainak betartását
+− ellenőrizni az útkezelői hozzájáruláshoz kötött tevékenységet, és a súlykorlátozás szabályainak betartását
 
-- közreműködni az állategészségügyi és állatrendészeti feladatok ellátásában
+− közreműködni az állategészségügyi és állatrendészeti feladatok ellátásában
 
-- ügyeleti, koordináló feladatokat ellátni a település üzemeltetésében résztvevő szervezetekkel
+− ügyeleti, koordináló feladatokat ellátni a település üzemeltetésében résztvevő szervezetekkel
 
-- jogszabályi felhatalmazás alapján részt venni a közlekedési szabályszegők, illetve tiltott, közösségellenes magatartást tanúsítók közigazgatási helyszíni bírságolásában, illetve feljelentésében
+− jogszabályi felhatalmazás alapján részt venni a közlekedési szabályszegők, illetve tiltott, közösségellenes magatartást tanúsítók közigazgatási helyszíni bírságolásában, illetve feljelentésében
 
-- részt venni a szabálysértési és közigazgatási eljárások kezdeményezésében, lefolytatásában, törvény illetve önkormányzati rendeletben meghatározott esetekben lefoglalást vagy elkobzást kezdeményezni, illetve ruházat, csomag és gépjármű átvizsgálást végrehajtani
+− részt venni a szabálysértési és közigazgatási eljárások kezdeményezésében, lefolytatásában, törvény illetve önkormányzati rendeletben meghatározott esetekben lefoglalást vagy elkobzást kezdeményezni, illetve ruházat, csomag és gépjármű átvizsgálást végrehajtani
 
-- részt venni a társadalmi bűnmegelőzési feladatok megvalósításában, a közrend és a közbiztonság védelmében
+− részt venni a társadalmi bűnmegelőzési feladatok megvalósításában, a közrend és a közbiztonság védelmében
 
-- közreműködni a köztisztaságra vonatkozó jogszabályok végrehajtásának ellenőrzésében
+− közreműködni a köztisztaságra vonatkozó jogszabályok végrehajtásának ellenőrzésében
 
-- részt venni a térfigyelő rendszerek üzemeltetésében
+− részt venni a térfigyelő rendszerek üzemeltetésében
 
-- közveszély esetén a szakmai szabályok szerint intézkedni
+− közveszély esetén a szakmai szabályok szerint intézkedni
 
-- segítséget nyújtani a hozzá forduló állampolgároknak, szükség esetén részt venni az alapszintű elsősegély ellátásban
+− segítséget nyújtani a hozzá forduló állampolgároknak, szükség esetén részt venni az alapszintű elsősegélyellátásban
 
-- kezelni a hírösszeköttetést biztosító eszközöket
+− kezelni a hírösszeköttetést biztosító eszközöket
 
-- közreműködni a közterület, az épített és a természeti környezet védelmében
+− közreműködni a közterület, az épített és a természeti környezet védelmében
 
-- jogszerű intézkedésével szembeni ellenállás, illetve a törvényben felsorolt veszélyhelyzetek elhárítása érdekében kényszerítő és önvédelmi eszközt alkalmazni
+− jogszerű intézkedésével szembeni ellenállás, illetve a törvényben felsorolt veszélyhelyzetek elhárítása érdekében kényszerítő és önvédelmi eszközt alkalmazni
 
-- a jogszabályokban meghatározott esetekben közreműködni a jármű elszállításában, illetve kerékbilincset alkalmazni
+− a jogszabályokban meghatározott esetekben közreműködni a jármű elszállításában, illetve kerékbilincset alkalmazni
 
-3.3. Kapcsolódó szakképesítések:
+3.3. Kapcsolódó szakképesítések
 
 |  | A | B | C |
 
@@ -3628,9 +5702,9 @@ A szakképesítéssel rendelkező képes:
 
 | 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
 
-| - | - | - | - |
+| – | – | – | – |
 
-4. SZAKMAI KÖVETELMÉNYEK
+4. Szakmai követelmények
 
 |  | A | B |
 
@@ -3640,13 +5714,13 @@ A szakképesítéssel rendelkező képes:
 
 | 4.3. | 10392-12 | Közterület-felügyelő feladatai |
 
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
+5. Vizsgáztatási követelmények
 
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
+5.1. A komplex szakmai vizsgára bocsátás feltételei
 
 Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
 
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
+5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele
 
 |  | A | B | C |
 
@@ -3658,41 +5732,33 @@ Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi
 
 A szakmai követelménymodulhoz kapcsolódó modulzáróvizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
 
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
+5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai
 
-5.3.1. Gyakorlati vizsgatevékenység:
+5.3.1. Gyakorlati vizsgatevékenység
 
-A vizsgafeladat megnevezése:
+A vizsgafeladat megnevezése: Adott szituációs közterület-felügyelői összetett feladat
 
-Adott szituációs közterület-felügyelői összetett feladat
-
-A vizsgafeladat ismertetése:
-
-Felvilágosítás adása, intézkedés végrehajtása, (térfelügyeleti) megfigyelés, kapcsolódó mérések elvégzése, szabálytalanságok tényének rögzítése és a szükséges intézkedések megtétele, okmányok kitöltése, konfliktuskezelés, az önvédelmi fogások, rendszeresített támadáselhárító és kényszerítő eszközök alkalmazásának bemutatása.
+A vizsgafeladat ismertetése: Felvilágosítás adása, intézkedés végrehajtása, (térfelügyeleti) megfigyelés, kapcsolódó mérések elvégzése, szabálytalanságok tényének rögzítése és a szükséges intézkedések megtétele, okmányok kitöltése, konfliktuskezelés, az önvédelmi fogások, rendszeresített támadáselhárító és kényszerítő eszközök alkalmazásának bemutatása.
 
 A vizsgafeladat időtartama: 75 perc
 
 A vizsgafeladat értékelési súlyaránya: 75%
 
-5.3.2. Központi írásbeli vizsgatevékenység -
+5.3.2. Központi írásbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése: -
+A vizsgafeladat megnevezése: –
 
-A vizsgafeladat ismertetése: A közterület-felügyelet szabályozása, az alkalmazási feltételek, a közterület-felügyeleti tevékenység szakmai szabályai, a tevékenység során leggyakrabban előforduló bűncselekmények, szabálysértések, a büntető- és szabálysértési eljárás, a közterület-felügyelői intézkedés elleni panasz kivizsgálása.
+A vizsgafeladat ismertetése: –
 
-A vizsgafeladat időtartama: -
+A vizsgafeladat időtartama: –
 
-A vizsgafeladat értékelési súlyaránya: -
+A vizsgafeladat értékelési súlyaránya: –
 
-5.3.3. Szóbeli vizsgatevékenység:
+5.3.3. Szóbeli vizsgatevékenység
 
-A vizsgafeladat megnevezése:
+A vizsgafeladat megnevezése: A közterület-felügyelő hatáskörébe tartozó szituációs feladatok értelmezése, és a hozzá kapcsolódó jogszabályi háttér ismertetése
 
-A közterület-felügyelő hatáskörébe tartozó szituációs feladatok értelmezése, és a hozzá kapcsolódó jogszabályi háttér ismertetése
-
-A vizsgafeladat ismertetése:
-
-A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
+A vizsgafeladat ismertetése: A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
 
 A vizsgafeladat időtartama: 25 perc (ebből felkészülési idő: 15 perc, válaszadási idő 10 perc)
 
@@ -3700,11 +5766,11 @@ A vizsgafeladat értékelési súlyaránya: 25%
 
 5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
 
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
+A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv weblapján érhetők el.
 
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
+5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: –
 
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
+6. Eszköz- és felszerelési jegyzék
 
 |  | A |
 
@@ -3728,2362 +5794,56 @@ A szakképesítéssel kapcsolatos előírások az állami szakképzési és feln
 
 | 6.10. | irodatechnikai/számítástechnikai eszközök |
 
-7. EGYEBEK
+7. Egyebek
 
-7.1. Validáció: -
+7.1. Validáció: –
 
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
+7.2. A szakmai és vizsgakövetelményben szereplő képzések tekintetében a szakmai kamarai jogkör gyakorlására, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezet:
 
 |  | A | B | C |
 
-| 7.2.1. | azonosító szám | A szakképesítés megnevezése | A szakképesítés ágazat/ szakirány szerint illetékes szakmai kamarai jogkör gyakorló szerv, szervezet |
+| 7.2.1. | azonosító száma | A szakképesítés megnevezése | A szakképesítés ágazat/ szakirány szerint illetékes szakmai kamarai jogkör gyakorló szerv, szervezet |
 
-| 7.2.2. | 52 861 05 | Közterület-felügyelő | a Települési Önkormányzatok Országos Szövetsége |
+| 7.2.2. | 52 861 05 | Közterület-felügyelő | Települési Önkormányzatok Országos Szövetsége |
 
-A 18. sorszámú Magánnyomozó megnevezésű szakképesítés szakmai és vizsgakövetelménye
+A 26. SORSZÁMÚ KÖZSZOLGÁLATI ÜGYINTÉZŐ MEGNEVEZÉSŰ SZAKKÉPESÍTÉS SZAKMAI ÉS VIZSGAKÖVETELMÉNYE
 
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
+1. Az Országos Képzési Jegyzékben szereplő adatok
 
-1.1. A szakképesítés azonosító száma: 52 861 06
+1.1. A szakképesítés azonosító száma: 54 345 01
 
-1.2. Szakképesítés megnevezése: Magánnyomozó
+1.2. Szakképesítés megnevezése: Közszolgálati ügyintéző
 
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
+1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: 2
 
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 450 - 550
+1.4. Iskolarendszeren kívüli szakképzésben az óraszám: –
 
-2. EGYÉB ADATOK
+2. Egyéb adatok
 
-2.1. A képzés megkezdésének feltételei:
+2.1. A képzés megkezdésének feltételei: –
 
 2.1.1. Iskolai előképzettség: érettségi végzettség
 
-2.1.2. Bemeneti kompetenciák: -
+2.1.2. Bemeneti kompetenciák: –
 
-2.2. Szakmai előképzettség: -
+2.2. Szakmai előképzettség: –
 
-2.3. Előírt gyakorlat: -
+2.3. Előírt gyakorlat: –
 
 2.4. Egészségügyi alkalmassági követelmények: szükségesek
 
-2.5. Pályaalkalmassági követelmények: -
-
-2.6. Elméleti képzési idő aránya: 50%
-
-2.7. Gyakorlati képzési idő aránya: 50%
-
-2.8. Szintvizsga: -
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
-
-3. PÁLYATÜKÖR
-
-3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
-
-|  | A | B | C |
-
-| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakör(ök) |
-
-| 3.1.2. | 5259 | Egyéb személy -és vagyonvédelmi foglalkozású | Magánnyomozó |
-
-3.2. A szakképesítés munkaterületének rövid leírása:
-
-- a megbízó általi megrendelést áttekinti, és elvállalja a megbízást vagy elutasítja
-
-- a kockázatelemzést elvégzi, ajánlatot készít
-
-- erőforrást és időszükségletet meghatároz, a megvalósítást előkészít
-
-- adatokat, információkat begyűjt, elemzi-értékeli, ezekből következtetéseket von le
-
-- személy,- és tárgykutatás végzésére irányuló megbízatást teljesít
-
-- nyomozási,- ellenőrzési tevékenységet, tanácsadó-javaslattevő munkát végez
-
-- bűnmegelőzési felkészítőt tart
-
-- kapcsolatot tart a megbízóval, más magán- és jogi személyekkel, hatóságokkal
-
-- munkaköréhez kapcsolódó technikai, számítástechnikai eszközöket használ
-
-- hang- és képfelvételeket készít, ezeket jogszerűen felhasznál
-
-- adminisztratív jellegű, adat- és ügykezelési teendőket szabályszerűen ellát
-
-- elvégzi a megbízatással kapcsolatos munkamozzanatokat
-
-A szakképesítéssel rendelkező képes:
-
-- a megbízó általi megrendelést áttekinteni, és elvállalni a megbízást vagy elutasítani
-
-- a kockázatelemzést elvégezni, ajánlatot készíteni
-
-- erőforrást és időszükségletet meghatározni, a megvalósítást előkészíteni
-
-- adatokat, információkat begyűjteni, elemezni-értékelni, ezekből következtetéseket levonni
-
-- személy,- és tárgykutatási végzésére irányuló megbízatást teljesíteni
-
-- nyomozási,- ellenőrzési tevékenységet, tanácsadó-javaslattevő munkát végezni
-
-- bűnmegelőzési felkészítőt tartani
-
-- kapcsolatot tartani a megbízóval, más magán- és jogi személyekkel, hatóságokkal
-
-- munkaköréhez kapcsolódó technikai,- számítástechnikai eszközöket használni
-
-- hang- és képfelvételeket készíteni, ezeket jogszerűen felhasználni
-
-- adminisztratív jellegű, adat- és ügykezelési teendőket szabályszerűen ellátni
-
-- elvégezni a megbízatással kapcsolatos munkamozzanatokat
-
-3.3. Kapcsolódó szakképesítések:
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| - | - | - | - |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  | A | B |
-
-| 4.1. | A szakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.2. | azonosító száma | megnevezése |
-
-| 4.3. | 10348-12 | Magán-biztonságvédelmi alapfeladatok |
-
-| 4.4. | 10380-12 | Általános magánnyomozói tevékenységek végzése |
-
-| 4.5. | 10381-12 | Magánnyomozói adminisztrációs feladatok |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
-
-Az összefüggő munkahelyi szakmai gyakorlat igazolása. Az összefüggő munkahelyi szakmai gyakorlat időtartama: 80 óra, a képzés utolsó szakaszában, a Személy-, Vagyonvédelmi és Magánnyomozói Kamara minősítési rendszerében erre feljogosított, magánnyomozással foglalkozó vállalkozásnál.
-
-Záró dolgozat elkészítése és a komplex szakmai vizsga megkezdése előtt 30 nappal korábban történő beadása a szakmai vizsgát szervező intézménynek
-
-Záró dolgozatra vonatkozó előírások: A dolgozatnak tartalmaznia kell a szakmai gyakorlat teljes időszaki munkáját, avagy ennek során tapasztalt egy olyan esetet, mely tanulságos lehet a szakma gyakorlása szempontjából - ötoldalnyi terjedelemben (a címlapon kívül).
-
-Formai elvárások: a vizsgázó által fűzött A/4-es oldalak, 2,5 centiméteres margókkal, 12 pontos Times New Roman betűtípussal, másfeles sorközzel és szimpla szóközökkel, oldalanként minimum 2500 karakter. A címlap tartalmi elemei: a dolgozat címe, a dolgozat készítőjének a neve, a dátum és a képző intézmény megnevezése. A formai követelményektől való eltérés esetén a záró dolgozat „értékelhetetlen” minősítést kap, a jelölt szakmai vizsgára nem bocsátható.
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  | A | B | C |
-
-| 5.2.1. | A szakképesítés szakmai követelménymoduljainak |
-
-| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.3. | 10348-12 | Magán-biztonságvédelmi alapfeladatok | írásbeli, gyakorlati |
-
-| 5.2.4. | 10380-12 | Általános magánnyomozói tevékenységek végzése | szóbeli, gyakorlati |
-
-| 5.2.5. | 10381-12 | Magánnyomozói adminisztrációs feladatok | írásbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladatok mindegyikének végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A vizsgafeladat megnevezése: Konkrét megbízatási és életmentési feladat. A megbízás teljesítésére vonatkozó elképzelés kialakítása, a kockázatelemzés és az ár-, illetve költségajánlat elkészítése, vagy a megrendelés tartalmára vonatkozó munka beindítása, a szükséges információk és megszerzésük módjai közül egynek a kivitelezése, életmentéssel kapcsolatos részfeladat elvégzése.
-
-A vizsgafeladat időtartama: 35 perc (felkészülési idő 20 perc)
-
-A vizsgafeladat értékelési súlyaránya: 45%
-
-5.3.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Személy- és vagyonvédelmi szabályok, előírások
-
-Magánnyomozói munkavégzésével kapcsolatos legfontosabb jogi normák tartalma, az adatkezelés, valamint adminisztratív jellegű teendők végzésének követelményei, szabályai
-
-A vizsgafeladat időtartama: 60 perc
-
-A vizsgafeladat értékelési súlyaránya: 25%
-
-5.3.3. Szóbeli vizsgatevékenység
-
-A.) A vizsgafeladat megnevezése: Magánnyomozói szakmai szabályok, előírások
-
-A szóbeli központilag összeállított vizsgakérdései az összes modul követelményeire vonatkoznak.
-
-A vizsgafeladat időtartama: 20 perc (felkészülési idő 10 perc, válaszadási idő 10 perc)
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-B.) A vizsgafeladat megnevezése: A záró dolgozat védése
-
-A vizsgázó a záró dolgozatát bemutatja, megvédi
-
-A vizsgafeladat időtartama: 10 perc
-
-A vizsgafeladat értékelési súlyaránya: 10%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
-
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  | A |
-
-| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-| 6.2. | Támadáselhárítás eszközei |
-
-| 6.3. | Mobil számítógép és szoftver (Word és Excel) |
-
-| 6.4. | Hang és képrögzítő eszközök (fényképezőgép, videó felvevő, diktafon, hordozható kismagnetofon) |
-
-| 6.5. | Mobiltelefon és kézi rádió |
-
-| 6.6. | Adattároló médium és iratmegsemmisítő |
-
-| 6.7. | Intranet hozzáférés (távoli is) |
-
-| 6.8. | Irodatechnikai eszközök, nyomtató,- másoló berendezés |
-
-| 6.9. | CD jogtár vagy Hatályos jogszabálygyűjtemény |
-
-| 6.10. | Támadáselhárító és védő eszközök |
-
-| 6.11. | Speciális egyéni felszerelés |
-
-7. EGYEBEK
-
-7.1. Validáció: -
-
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezete:
-
-|  | A | B | C |
-
-| 7.2.1. | azonosító szám | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
-
-| 7.2.2. | 52 861 06 | Magánnyomozó | Személy-, Vagyonvédelmi és Magánnyomozói Szakmai Kamara |
-
-7.3. A képzés megkezdésének feltétele: a jelölt rendelkezzen a magánnyomozói igazolvány megszerzésének jogszabályban előírt feltételeivel.
-
-A 19. sorszámú Mechanikus vagyonvédelmi szerelő megnevezésű szakképesítés-ráépülés
-
-szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés-ráépülés azonosító száma: 35 861 02
-
-1.2. Szakképesítés-ráépülés megnevezése: Mechanikus vagyonvédelmi szerelő
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 300 - 400
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: alapfokú iskolai végzettség
-
-2.1.2. Bemeneti kompetenciák: -
-
-2.2. Szakmai előképzettség: 34 521 10 Szerszámkészítő vagy 34 521 03 Gépi forgácsoló vagy 34 521 06 Hegesztő megnevezésű szakképesítés
-
-2.3. Előírt gyakorlat: -
-
-2.4. Egészségügyi alkalmassági követelmények: szükségesek
-
-2.5. Pályaalkalmassági követelmények: -
-
-2.6. Elméleti képzési idő aránya: 40%
-
-2.7. Gyakorlati képzési idő aránya: 60%
-
-2.8. Szintvizsga: -
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
-
-3. PÁLYATÜKÖR
-
-3.1. A szakképesítés-ráépüléssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
-
-|  | A | B | C |
-
-| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítés-ráépüléssel betölthető munkakör(ök) |
-
-| 3.1.2. | 5259 | Egyéb személy- és vagyonvédelmi foglalkozású | Mechanikus vagyonvédelmi szerelő |
-
-3.2. A szakképesítés-ráépülés munkaterületének rövid leírása:
-
-- megrendelést felvesz
-
-- helyszíni felmérést, kockázatelemzést végez
-
-- vázlatot, ajánlatot készít
-
-- kiviteli munkafolyamatot előkészít, a szükséges anyagot beszerzi, különféle - a védelemre hivatott - anyagot megmunkál
-
-- díszítő munkát, lekezelést, felületkezelést végez, befejező munkálatokat, a beépítést elvégzi
-
-- fémelemeket hegeszt
-
-- karbantartást, felújítást végez
-
-- munkafolyamatokat lezár
-
-A szakképesítés-ráépüléssel rendelkező képes:
-
-- megrendelést felvenni
-
-- helyszíni felmérést, kockázatelemzést végezni
-
-- vázlatot, ajánlatot készíteni
-
-- kiviteli munkafolyamatot előkészíteni, a szükséges anyagot beszerezni, különféle - a védelemre hivatott - anyagot megmunkálni
-
-- díszítő munkát, lekezelést, felületkezelést végezni, befejező munkálatokat, a beépítést elvégezni
-
-- fémelemeket hegeszteni
-
-- karbantartást, felújítást végezni
-
-- munkafolyamatokat lezárni
-
-3.3. Kapcsolódó szakképesítések:
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | szakképesítés köre |
-
-| 3.3.3. | 34 521 10 | Szerszámkészítő | szakképesítés |
-
-| 3.3.4. | 34 521 03 | Gépi forgácsoló | szakképesítés |
-
-| 3.3.5. | 34 521 06 | Hegesztő | szakképesítés |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  | A | B |
-
-| 4.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.2. | azonosító száma | megnevezése |
-
-| 4.3. | 10348-12 | Magán-biztonságvédelmi alapfeladatok |
-
-| 4.4. | 10382-12 | Mechanikai vagyonvédelmi szerelői teendők |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Az iskolarendszeren kívüli szakképzésben az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  | A | B | C |
-
-| 5.2.1. | A szakképesítés-ráépülés szakmai követelménymoduljainak |
-
-| 5.2.2. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.3. | 10348-12 | Magán-biztonságvédelmi alapfeladatok | írásbeli, gyakorlati |
-
-| 5.2.4. | 10382-12 | Mechanikai vagyonvédelmi szerelői teendők | írásbeli, gyakorlati, szóbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladatok mindegyikének végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A vizsgafeladat megnevezése: Mechanikus vagyonvédelmi szerelői szak-, és életmentéssel kapcsolatos feladatok
-
-A vizsgafeladat ismertetése: A megrendelt mechanikai jellegű védelmi eszköz vázlatának és a költségajánlatnak elkészítése, a munka beindítása, a szükséges szerszámok kiválasztása, a munkatárgy egy részének elkészítése, életmentéssel kapcsolatos részfeladat elvégzése.
-
-A vizsgafeladat időtartama: 75 perc
-
-A vizsgafeladat értékelési súlyaránya: 50%
-
-5.3.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Mechanikus vagyonvédelmi szerelői szakfeladatok
-
-A vizsgafeladat ismertetése: A mechanikus védelmi rendszerszerelő munkavégzésével kapcsolatos elméleti tudnivalók, szabályok, előírások
-
-A vizsgafeladat időtartama: 60 perc
-
-A vizsgafeladat értékelési súlyaránya: 35%
-
-5.3.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: A Személy-, Vagyonvédelmi és Magánnyomozói Szakmai Kamarára és a felügyeleti szervére vonatkozó-, illetve a szakmához kapcsolódó előírások, szabályok, valamint ezek érvényesítése.
-
-A szóbeli központilag összeállított vizsga kérdései az összes modul követelményeire vonatkoznak.
-
-A vizsgafeladat időtartama: 35 perc (felkészülési idő: 20 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 15%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
-
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  | A |
-
-| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-| 6.2. | Támadáselhárítás eszközei |
-
-| 6.3. | Diagnosztikai (felületvizsgáló) eszközök, berendezések, műszerek |
-
-| 6.4. | Fémet megmunkáló kéziszerszámok, gépi meghajtású kéziszerszámok |
-
-| 6.5. | Íróeszköz, rajztábla és rajzlap ceruzával |
-
-| 6.6. | Hegesztő készülék |
-
-| 6.7. | Segédeszközök, nyersanyagok a megmunkáláshoz |
-
-| 6.8. | Mérőeszközök |
-
-| 6.9. | Állvány, létra |
-
-| 6.10. | Műszaki dokumentáció |
-
-| 6.11. | Melegítő égő, szén a melegítéshez |
-
-| 6.12. | Eszközök fém festéséhez |
-
-| 6.13. | Munkaasztal satuval és köszörűvel |
-
-| 6.14. | Egyéni és csoportos munkavédelmi eszközök, berendezések |
-
-7. EGYEBEK
-
-7.1. Megfeleltetés: Kizárólag a modulzáró vizsgák alóli felmentést biztosítják
-
-A 0111-06 Általános gépészeti technológiai feladatok I. (szerelő), a 0220-06 Gépészeti kötési feladatok, a 0716-06 Biztonsági alapfeladatok II., a 0719-06 Biztonságtechnikai szerelési feladatok mechanikus vagyonvédelmi rendszerszerelők részére megnevezésű modulok együttesen megfelelnek a 10382-12 számú Mechanikai vagyonvédelmi szerelői teendők megnevezésű modulnak.
-
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezete:
-
-|  | A | B | C |
-
-| 7.2.1. | azonosító szám | A szakképesítés-ráépülés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
-
-| 7.2.2. | 35 861 02 | Mechanikus vagyonvédelmi szerelő | Személy-, Vagyonvédelmi és Magánnyomozói Szakmai Kamara |
-
-7.3. A képzés megkezdésének feltétele: a vagyonvédelemről szóló jogszabályokban megfogalmazott erkölcsi alkalmazási feltételek megléte.
-
-A 20. sorszámú Migrációs ügyintéző megnevezésű szakképesítés szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés azonosító száma: 52 347 07
-
-1.2. Szakképesítés megnevezése: Migrációs ügyintéző
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 400-500
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: érettségi végzettség
-
-2.1.2. Bemeneti kompetenciák:
-
-2.2. Szakmai előképzettség: -
-
-2.3. Előírt gyakorlat: -
-
-2.4. Egészségügyi alkalmassági követelmények: szükségesek
-
-2.5. Pályaalkalmassági követelmények: szükségesek
-
-2.6. Elméleti képzési idő aránya: 50%
-
-2.7. Gyakorlati képzési idő aránya: 50%
-
-2.8. Szintvizsga: -
-
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
-
-3. PÁLYATÜKÖR
-
-3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok):
-
-|  | A | B | C |
-
-| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakör(ök) |
-
-| 3.1.2. | 2910 | Egyéb magasan képzett ügyintéző | Állampolgársági ügyintéző |
-
-| 3.1.3. | 2910 | Egyéb magasan képzett ügyintéző | Engedélyügyi ügyintéző |
-
-| 3.1.4. | 2910 | Egyéb magasan képzett ügyintéző | Idegenrendészeti ügyintéző |
-
-| 3.1.5. | 2910 | Egyéb magasan képzett ügyintéző | Menekültügyi ügyintéző |
-
-| 3.1.6. | 2910 | Egyéb magasan képzett ügyintéző | Migrációs ügyintéző |
-
-| 3.1.7. | 4229 | Egyéb ügyfélkapcsolati foglalkozású | Ügyfélszolgálati ügyintéző |
-
-3.2. A szakképesítés munkaterületének rövid leírása:
-
-Idegenrendészeti szabálysértési eljárást, idegenrendészeti büntetőeljárást kezdeményez. Jogkörében idegenrendészeti alap,- jogorvoslati és végrehajtási eljárásokat folytat le.
-
-A szakképesítéssel rendelkező képes:
-
-- idegenrendészeti szabálysértési eljárást, idegenrendészeti büntetőeljárást kezdeményezni
-
-- jogkörében idegenrendészeti alap,- jogorvoslati és végrehajtási eljárásokat lefolytatni
-
-- feladatkörébe tartozó alapeljárást lefolytatni
-
-- feladatkörébe tartozó jogorvoslati eljárást lefolytatni
-
-- feladatkörébe tartozó végrehajtási eljárást lefolytatni
-
-- közreműködni más hatósági és bírósági eljárásokban
-
-- döntés-előkészítést végezni
-
-- tájékoztatást adni, adatszolgáltatást végezni szóban és írásban
-
-- iratkezelési feladatokat és adminisztratív teendőket ellátni
-
-- idegenrendészeti és menekültügyi feladatokat végezni
-
-- állampolgársági ügyekben döntés-előkészítést támogató feladatokat végezni
-
-- ellátni a munkakörébe tartozó idegenrendészeti feladatokat
-
-- önállóan végezni a hatáskörébe tartozó menekültügyi feladatokat
-
-- okmányokat előkészíteni gyártásra, kezelni az ehhez szükséges eszközöket
-
-- okmányokat előállítani, illetve visszavonni
-
-- ügyfélfogadást végezni
-
-- ellátni a munkakörébe tartozó egyéb feladatokat
-
-3.3. Kapcsolódó szakképesítések:
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| - | - | - | - |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  | A | B |
-
-| 4.1. | A szakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.2. | azonosító száma | megnevezése |
-
-| 4.3. | 10393-12 | Migrációs közszolgálati ismeretek |
-
-| 4.4. | 10394-12 | Migrációs szakmai ismeretek |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Iskolarendszeren kívüli szakképzés esetén: az 5. 2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
-
-Szakmai záró dolgozat elkészítése, amelyet a szakmai vizsga megkezdése előtt 15 nappal korábban kell leadni a szakmai vizsgaszervező intézménynek, az előzetes szakmai értékeléssel együtt. (A záró dolgozattal kapcsolatos tudnivalókat bővebben a 7. Egyebek fejezet tartalmazza.)
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  | A | B | C |
-
-|  | A szakképesítés szakmai követelménymoduljainak |
-
-| 5.2.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.2. | 10393-12 | Migrációs közszolgálati ismeretek | írásbeli |
-
-| 5.2.3. | 10394-12 | Migrációs szakmai ismeretek | írásbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. Gyakorlati vizsgatevékenység
-
-A.) A vizsgafeladat megnevezése:
-
-Záró dolgozat
-
-A vizsgafeladat ismertetése:
-
-A korábban elkészített és előzetesen értékelt záró dolgozat a gyakorlati vizsgafeladatnál kerül beszámításra
-
-A vizsgafeladat időtartama: 0 perc
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-B.) A vizsgafeladat megnevezése:
-
-Záró dolgozat ismertetése, megvédése
-
-A vizsgafeladat ismertetése:
-
-A vizsgázó (jelölt) a korábban elkészített és előzetesen értékelt záró dolgozatát bemutatja, megvédi a vizsgabizottság előtt, a záró dolgozat témájához kapcsolódó kérdésekre válaszol
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-5.3.2. Központi írásbeli vizsgatevékenység -
-
-A vizsgafeladat megnevezése: -
-
-A vizsgafeladat ismertetése: -
-
-A vizsgafeladat időtartama: -
-
-A vizsgafeladat értékelési súlyaránya: -
-
-5.3.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése:
-
-Migrációs ügyintézői szakfeladatok
-
-A vizsgafeladat ismertetése:
-
-A szóbeli vizsgatevékenység központilag összeállított vizsgakérdései a 4. Szakmai követelmények fejezetben megadott témakörökhöz kapcsolódóan kerülnek kialakítására
-
-A vizsgafeladat időtartama: 25 perc (ebből felkészülési idő 15 perc, válaszadási idő 10 perc)
-
-A vizsgafeladat értékelési súlyaránya: 60%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
-
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  | A |
-
-| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-| 6.2. | Számítógép |
-
-| 6.3. | Szoftverek |
-
-| 6.4. | Internet hozzáférés |
-
-| 6.5. | Irodaszerek |
-
-| 6.6. | Hivatali nyomtatványok (másolatok) |
-
-| 6.7. | Szakmai okmányok |
-
-| 6.8. | Szakmai felkészítési jegyzetek |
-
-7. EGYEBEK
-
-7.1. Validáció: -
-
-7.2. A szakmai és vizsgakövetelményben szereplő képzések szakmai kamarai jogkört gyakorlóként, valamint a szakmai vizsgabizottságban való részvételre kijelölt szervezetei:
-
-|  | A | B | C |
-
-| 7.2.1. | azonosító szám | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
-
-| 7.2.2. | 52 347 07 | Migrációs ügyintéző | Bevándorlási és Állampolgársági Hivatal |
-
-7.3. A képzés megkezdésének feltételei:
-
-7.3.1. Büntetlen előéletet igazoló erkölcsi bizonyítvány vagy a munkáltató által kiadott igazolás arról, hogy a jelentkező olyan munkakörben dolgozik, amelynek betöltéséhez elengedhetetlen feltétel az erkölcsi bizonyítvány.
-
-7.3.2. Ha a jelentkező nem a munkaadó (hivatal) által kötelezett a szakképzettség megszerzésére, akkor igazolás a munkáltatótól, hogy a jelentkezőt a képesítés megszerzését követően a szakképesítéshez kötött munkakörben kívánja foglalkoztatni, továbbá a jelentkező részére a szakmai képzés személyi és tárgyi feltételeit biztosítja.
-
-7.4. Záró dolgozattal kapcsolatos előírások:
-
-A szakmai záró dolgozat elkészítése a komplex szakmai vizsga integráns része. A szakmai záró dolgozat elkészítése, előírt időben történő beadása majd a szakmai vizsgabizottság előtti megvédése alól felmentés nem adható. A szakmai záró dolgozatokat csak szakmai képző intézmény által javasolt és a szakmai vizsgaszervező intézmény által jóváhagyott témában lehet benyújtani, a képzés befejezését követő legkésőbb 1 évig. A záró dolgozati témaköröket a kamarai feladatokat ellátó szakmai szervezetként a Bevándorlási és Állampolgársági Hivatal adja ki. A kiadott szakmai témakörök közül a jelöltek húzással választják ki azt a témakört, amelyet a záró dolgozat elkészítése során fel kell dolgozniuk.
-
-A szakmai záró dolgozatnak tükröznie kell a választott témakör összefüggéseit, kapcsolódásait, a hatályos szakmai és jogszabályi környezetét. Lehetőség szerint törekedni kell a témakör hatályos szakmai és jogszabályi környezetének korrekt bemutatására, továbbá az egyes szakmai tevékenységek munkakörének ellátásához szükséges szakmai ismeretek közlésére.
-
-A szakmai záró dolgozat borítólap és mellékletek nélkül legalább 8, de legfeljebb 15 oldal terjedelmű lehet. A záró dolgozatot MS Office Word szövegszerkesztő programmal kell elkészíteni 12-es betűmérettel, Times New Roman betűtípussal, 1,5-ös sortávolsággal, laponként minden irányban 2,5-2,5 cm-es margóval.
-
-A 22. sorszámú Rendészeti szervező (a szakmairány megjelölésével) megnevezésű szakképesítés szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés azonosító száma: 62 861 01
-
-1.2. Szakképesítés megnevezése: Rendészeti szervező (Bűnügyi szervező, Büntetés-végrehajtási szervező, Határrendészeti szervező, Iparbiztonsági szervező, Katasztrófavédelmi szervező, Közlekedési és közrendvédelmi szervező, Tűzvédelmi szervező)
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: -
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 1100 - 1600
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: felsőfokú iskolai végzettség
-
-2.1.2. Bemeneti kompetenciák: -
-
-2.2. Szakmai előképzettség: -
-
-2.3. Előírt gyakorlat: -
-
-2.4. Egészségügyi alkalmassági követelmények: szükségesek
-
-2.5. Pályaalkalmassági követelmények: szükségesek
+2.5. Pályaalkalmassági követelmények: –
 
 2.6. Elméleti képzési idő aránya: 60%
 
 2.7. Gyakorlati képzési idő aránya: 40%
 
-2.8. Szintvizsga: -
+2.8. Szintvizsga: –
 
-2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: -
+2.9. Az iskolai rendszerű képzésben az összefüggő szakmai gyakorlat időtartama: az első szakképzési évfolyamot követően 160 óra
 
-3. PÁLYATÜKÖR
-
-3.1. A szakképesítéssel legjellemzőbben betölthető munkakör(ök), foglalkozás(ok)
-
-|  | A | B | C |
-
-| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakör(ök) |
-
-| 3.1.2. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-| 3.1.3. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-| 3.1.4. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-| 3.1.5. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-| 3.1.6. | 0120 | rendvédelmi feladatokat ellátó szervek középfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-| 3.1.7. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-| 3.1.8. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-| 3.1.9. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-| 3.1.10. | 0120 | rendvédelmi feladatokat ellátó szervek középfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-| 3.1.11. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-| 3.1.12. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-| 3.1.13. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-| 3.1.14. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-| 3.1.15. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-| 3.1.16. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-| 3.1.17. | 0110 | rendvédelmi feladatokat ellátó szervek felsőfokú képesítést igénylő foglalkozásai | Jogszabályban meghatározottak szerint |
-
-3.2. A szakképesítés munkaterületének rövid leírása:
-
-3.2.1. Bűnügyi szervező
-
-A szakképesítés munkaterületének rövid leírása:
-
-- bűnüldözési feladatokat lát el
-
-- megelőzi és felderíti a bűncselekményeket
-
-- megelőzi és felderíti a szabálysértéseket
-
-A szakképesítéssel rendelkező képes:
-
-- általános szolgálati feladatokat ellátni
-
-- eszközöket kezelni, használni
-
-- adminisztratív, ügykezelési feladatokat végezni
-
-- kommunikálni szervezeten belül és kívül
-
-- ügyeleti szolgálatot ellátni
-
-- nemzetközi együttműködési feladatokat végezni
-
-- államigazgatási és rendészeti feladatokat végezni
-
-- különleges jogrend fennállása időszakában feladatokat ellátni
-
-- vezetési, szervezési és ellenőrzési feladatokat ellátni
-
-- adatokat, információkat elemezni, értékelni
-
-- egyéb szolgálati feladatokat ellátni
-
-3.2.2. Büntetés-végrehajtási szervező
-
-A szakképesítés munkaterületének rövid leírása:
-
-A büntetés-végrehajtási szervezet felsőfokú végzettséggel rendelkező, hivatásos állományban:
-
-- büntetés-végrehajtási alaptevékenységet végez
-
-- büntetés-végrehajtási szakmairányú szaktevékenységet végez
-
-A szakképesítéssel rendelkező képes:
-
-- a meghatározott büntetés-végrehajtási feladatokat végrehajtani
-
-- a beosztott állomány részére eligazítást tartani
-
-- a fogvatartottak nevelési feladatait végrehajtani
-
-- a büntetés-végrehajtási szerv biztonsági szabályait, előírásait betartani
-
-- vezetési, szervezési és ellenőrzési feladatokat ellátni
-
-- egyéb szolgálati feladatokat ellátni
-
-3.2.3. Határrendészeti szervező
-
-A szakképesítés munkaterületének rövid leírása:
-
-- határrendészeti feladatok ellátásával védi a közrendet és a közbiztonságot
-
-- őrzi az államhatárt, ellenőrzi a határforgalmat
-
-- fenntartja a határrendet
-
-- megelőzi és felderíti a bűncselekményeket
-
-- megelőzi és felderíti a szabálysértéseket
-
-A szakképesítéssel rendelkező képes:
-
-- általános szolgálati feladatokat ellátni
-
-- eszközöket kezelni, használni
-
-- adminisztratív, ügykezelési feladatokat elvégezni
-
-- kommunikálni szervezeten belül és kívül
-
-- a közrend és közbiztonság megőrzésével összefüggő feladatokat elvégezni
-
-- határrendészeti és idegenrendészeti feladatokat elvégezni
-
-- határforgalom és úti okmányokat ellenőrizni
-
-- a határrendet fenntartani
-
-- nemzetközi együttműködési feladatokat elvégezni
-
-- államigazgatási és rendészeti feladatokat elvégezni
-
-- különleges jogrend fennállása időszakában feladatokat ellátni
-
-- vezetési, szervezési és ellenőrzési feladatokat ellátni
-
-- adatokat, információkat elemezni, értékelni
-
-- egyéb szolgálati feladatokat ellátni.
-
-3.2.4. Iparbiztonsági szervező
-
-A szakképesítés munkaterületének rövid leírása:
-
-- hatósági, iparbiztonsági, nukleáris biztonsághoz tartozó tervezési, szervezési, baleset-elhárítási feladatokat végez
-
-A szakképesítéssel rendelkező képes:
-
-- hatósági ellenőrzést végezni a veszélyes üzemek és a veszélyes áru szállítás biztonsága, valamint a kritikus infrastruktúra védelem területén
-
-- hatósági engedélyezési és szankcionálási tevékenységet végezni a veszélyes üzemek, veszélyes áru szállítás és kritikus infrastruktúra védelem területén
-
-- iparbiztonsági tervezési, szervezési és mentésszervezési feladatokat végezni a veszélyes üzemek, veszélyes áru szállítás és kritikus infrastruktúra védelem területén
-
-- nukleáris biztonsághoz tartozó tervezési, szervezési, baleset-elhárítási feladatokat végezni
-
-- iparbiztonsági hatósági felügyeleti ellenőrzési rendszer működtetésével kapcsolatos feladatokat ellátni
-
-- iparbiztonsági hatósági és katasztrófavédelmi eljárásokkal kapcsolatos adatokat kezelni
-
-- továbbképzések, gyakorlatok szervezésében és lebonyolításában a katasztrófavédelmi szervezet képviseletében iparbiztonsági szakértői feladatot ellátni
-
-- katasztrófavédelmi beavatkozások kockázatelemzési feladataiban részt venni
-
-3.2.5. Katasztrófavédelmi szervező
-
-A szakképesítés munkaterületének rövid leírása:
-
-- az előfordulható veszélyhelyzetek tekintetében informálódik és kommunikál
-
-- veszélyazonosítást és veszélyelemzést végez
-
-- terveket készít, döntést előkészít, veszélykezelésben részt vesz
-
-- szervezeteket létrehoz és működtet
-
-- részt vesz a katasztrófák elleni védekezés érdekében a szabályozásban
-
-- védelemszervezői tevékenységet végez
-
-- életvédelmi létesítményeket kezel
-
-- oktatáson, felkészítésen, önképzésen vesz részt,
-
-- adatkezelés és adminisztrációs feladatokat végez
-
-- ellenőrzést végez
-
-- katasztrófavédelmi beavatkozások kockázatelemzési feladataiban vesz részt
-
-A szakképesítéssel rendelkező képes:
-
-- az előfordulható veszélyhelyzetek tekintetében informálódni és kommunikálni
-
-- veszélyazonosítást és veszélyelemzést végezni
-
-- terveket készíteni, döntést előkészíteni, veszélykezelésben részt venni
-
-- szervezeteket létrehozni és működtetni
-
-- részt venni a katasztrófák elleni védekezés érdekében a szabályozásban
-
-- védelemszervezői tevékenységet végezni
-
-- életvédelmi létesítményeket kezelni
-
-- oktatáson, felkészítésen, önképzésen részt venni
-
-- adatkezelés és adminisztrációs feladatokat végezni
-
-- ellenőrzést végezni
-
-- katasztrófavédelmi beavatkozások kockázatelemzési feladataiban részt venni
-
-- veszélykezelésben részt venni
-
-3.2.6. Közlekedési és közrendvédelmi szervező
-
-A szakképesítés munkaterületének rövid leírása:
-
-- közrendvédelmi, közlekedési- és igazgatásrendészeti feladatok ellátásával védi a közrendet és a közbiztonságot
-
-- megelőzi és felderíti a bűncselekményeket
-
-- megelőzi és felderíti a szabálysértéseket
-
-- közlekedési hatósági és rendészeti jogkört gyakorol
-
-A szakképesítéssel rendelkező képes:
-
-- általános szolgálati feladatokat ellátni
-
-- eszközöket kezelni, használni
-
-- adminisztratív, ügykezelési feladatokat végezni
-
-- kommunikálni szervezeten belül és kívül
-
-- a közrend és közbiztonság megőrzésével összefüggő feladatokat végezni
-
-- őr- és ügyeleti szolgálatot ellátni
-
-- csapatszolgálati feladatokat ellátni
-
-- közlekedésrendészeti feladatokat ellátni
-
-- idegenrendészeti feladatokat végezni
-
-- a határrendet fenntartani
-
-- nemzetközi együttműködési feladatokat végezni
-
-- államigazgatási és rendészeti feladatokat végezni
-
-- személy- és objektumvédelmi feladatokat ellátni
-
-- különleges jogrend fennállása időszakában feladatokat ellátni
-
-- vezetési, szervezési és ellenőrzési feladatokat ellátni
-
-- adatokat, információkat elemezni, értékelni
-
-- egyéb szolgálati feladatokat ellátni
-
-3.2.7. Tűzvédelmi szervező
-
-A szakképesítés munkaterületének rövid leírása:
-
-- a hivatásos tűzoltóság készenléti jellegű szolgálatát vezeti és szervezi
-
-- tűzvédelmi hatósági, szakhatósági ügyintézői feladatokat lát el
-
-- tűzoltás-vezetői, mentésvezetői feladatokat lát el
-
-- irányítói feladatokat lát el tűzoltás, műszaki mentés szervezetében
-
-- közreműködik a tűzoltók képzésében, szakmai és fizikai felkészítésében
-
-A szakképesítéssel rendelkező képes:
-
-- vezetni és szervezni a hivatásos tűzoltóság készenléti jellegű szolgálatát
-
-- tűzvédelmi hatósági, szakhatósági ügyintézői feladatokat ellátni
-
-- ellátni a tűzoltás-vezetői, mentésvezetői feladatokat
-
-- irányítói feladatokat ellátni a tűzoltás, műszaki mentés szervezetében
-
-- közreműködni a tűzoltók képzésében, szakmai és fizikai felkészítésében
-
-- gyakorlatokat, ellenőrzéseket, helyszínbejárásokat tervezni, végrehajtani, értékelni, dokumentálni
-
-- épületet, építményt, tevékenységet, beépített és egyéb tűzvédelmi berendezéseket, tűzvédelmi szempontból szemlézni, elemezni, értékelni, engedélyezni, ellenőrizni, dokumentálni és eljárni a tűzvédelmi szabályoknak történő megfelelés érdekében
-
-- tűzjelzést fogadni, értékelni, riasztást elrendelni, vonulást irányítani
-
-- tervet készíteni a tűzoltás, műszaki mentés tevékenységére
-
-- közreműködni a tűzvizsgálati eljárásban
-
-3.3. Kapcsolódó szakképesítések:
-
-|  | A | B | C |
-
-| 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-| 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-| - | - | - | - |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  | A | B |
-
-| 4.1. | A Rendészeti szervező (Bűnügyi szervező) megnevezésű szakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.1.1. | azonosító száma | megnevezése |
-
-| 4.1.2. | 10352-12 | Rendvédelmi alapfeladatok |
-
-| 4.1.3. | 10362-12 | Rendőrszervező közös feladatok |
-
-| 4.1.4. | 10363-12 | Bűnügyi szervező szakfeladatok |
-
-|  | A | B |
-
-| 4.2. | A Rendészeti szervező (Büntetés-végrehajtási szervező) megnevezésű szakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.2.1. | azonosító száma | megnevezése |
-
-| 4.2.2. | 10352-12 | Rendvédelmi alapfeladatok |
-
-| 4.2.3. | 10361-12 | Büntetés-végrehajtási szervező szakfeladatok |
-
-|  | A | B |
-
-| 4.3. | A Rendészeti szervező (Határrendészeti szervező) megnevezésű szakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.3.1. | azonosító száma | megnevezése |
-
-| 4.3.2. | 10352-12 | Rendvédelmi alapfeladatok |
-
-| 4.3.3. | 10362-12 | Rendőrszervező közös feladatok |
-
-| 4.3.4. | 10364-12 | Határrendészeti szervező szakfeladatok |
-
-|  | A | B |
-
-| 4.4. | A Rendészeti szervező (Iparbiztonsági szervező) megnevezésű szakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.4.1. | azonosító száma | megnevezése |
-
-| 4.4.2. | 10352-12 | Rendvédelmi alapfeladatok |
-
-| 4.4.3. | 10365-12 | Katasztrófavédelmi közös feladatok |
-
-| 4.4.4. | 10366-12 | Iparbiztonsági szakfeladatok |
-
-|  | A | B |
-
-| 4.5. | A Rendészeti szervező (Katasztrófavédelmi szervező) megnevezésű szakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.5.1. | azonosító száma | megnevezése |
-
-| 4.5.2. | 10352-12 | Rendvédelmi alapfeladatok |
-
-| 4.5.3. | 10365-12 | Katasztrófavédelmi közös feladatok |
-
-| 4.5.4. | 10367-12 | Polgári védelmi szakfeladatok |
-
-|  | A | B |
-
-| 4.6. | A Rendészeti szervező (Közlekedési és közrendvédelmi szervező) megnevezésű szakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.6.1. | azonosító száma | megnevezése |
-
-| 4.6.2. | 10352-12 | Rendvédelmi alapfeladatok |
-
-| 4.6.3. | 10362-12 | Rendőrszervező közös feladatok |
-
-| 4.6.4. | 10368-12 | Közlekedési és közrendvédelmi szervező szakfeladatok |
-
-|  | A | B |
-
-| 4.7. | A Rendészeti szervező (Tűzvédelmi szervező) megnevezésű szakképesítés szakmai követelménymoduljainak az állam által elismert szakképesítések szakmai követelménymoduljairól szóló kormányrendelet szerinti |
-
-| 4.7.1. | azonosító száma | megnevezése |
-
-| 4.7.2. | 10352-12 | Rendvédelmi alapfeladatok |
-
-| 4.7.3. | 10365-12 | Katasztrófavédelmi közös feladatok |
-
-| 4.7.4. | 10369-12 | Tűzoltó szervező szakfeladatok |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-A rendészeti szervező szakképzésnek - a szakképzést végző által kidolgozott - képzési programjában előírt tanulmányi kötelezettségeinek eleget tesz, továbbá a képzési programban előírt időtartamú és formájú területi szakmai gyakorlatot - a számára meghatározott rendvédelmi szervnél - eredményesen teljesíti.
-
-Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  | A | B | C |
-
-| 5.2.1. | A Rendészeti szervező (Bűnügyi szervező) megnevezésű szakképesítés szakmai követelménymoduljainak |
-
-| 5.2.1.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.1.2. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
-
-| 5.2.1.3. | 10362-12 | Rendőrszervező közös feladatok | írásbeli |
-
-| 5.2.1.4. | 10363-12 | Bűnügyi szervező szakfeladatok | írásbeli |
-
-|  | A | B | C |
-
-| 5.2.2. | A Rendészeti szervező (Büntetés-végrehajtási szervező) megnevezésű szakképesítés szakmai követelménymoduljainak |
-
-| 5.2.2.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.2.2. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
-
-| 5.2.2.3. | 10361-12 | Büntetés-végrehajtási szervező szakfeladatok | szóbeli |
-
-|  | A | B | C |
-
-| 5.2.3. | A Rendészeti szervező (Határrendészeti szervező) megnevezésű szakképesítés szakmai követelménymoduljainak |
-
-| 5.2.3.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.3.2. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
-
-| 5.2.3.3. | 10362-12 | Rendőrszervező közös feladatok | írásbeli |
-
-| 5.2.3.4. | 10364-12 | Határrendészeti szervező szakfeladatok | írásbeli |
-
-|  | A | B | C |
-
-| 5.2.4. | A Rendészeti szervező (Iparbiztonsági szervező) megnevezésű szakképesítés szakmai követelménymoduljainak |
-
-| 5.2.4.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.4.2. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
-
-| 5.2.4.3. | 10365-12 | Katasztrófavédelmi közös feladatok | gyakorlati, írásbeli |
-
-| 5.2.4.4. | 10366-12 | Iparbiztonsági szakfeladatok | gyakorlati, írásbeli |
-
-|  | A | B | C |
-
-| 5.2.5. | A Rendészeti szervező (Katasztrófavédelmi szervező) megnevezésű szakképesítés szakmai követelménymoduljainak |
-
-| 5.2.5.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.5.2. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
-
-| 5.2.5.3. | 10365-12 | Katasztrófavédelmi közös feladatok | gyakorlati, írásbeli |
-
-| 5.2.5.4. | 10367-12 | Polgári védelmi szakfeladatok | gyakorlati, írásbeli |
-
-|  | A | B | C |
-
-| 5.2.6. | A Rendészeti szervező (Közlekedési és közrendvédelmi szervező) megnevezésű szakképesítés szakmai követelménymoduljainak |
-
-| 5.2.6.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.6.2. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
-
-| 5.2.6.3. | 10362-12 | Rendőrszervező közös feladatok | írásbeli |
-
-| 5.2.6.4. | 10368-12 | Közlekedési és közrendvédelmi szervező szakfeladatok | írásbeli |
-
-|  | A | B | C |
-
-| 5.2.7. | A Rendészeti szervező (Tűzvédelmi szervező) megnevezésű szakképesítés szakmai követelménymoduljainak |
-
-| 5.2.7.1. | azonosító száma | megnevezése | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.7.2. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
-
-| 5.2.7.3. | 10365-12 | Katasztrófavédelmi közös feladatok | gyakorlati, írásbeli |
-
-| 5.2.7.4. | 10369-12 | Tűzoltó szervező szakfeladatok | gyakorlati, írásbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. A Rendészeti szervező (Bűnügyi szervező) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1.1. Gyakorlati vizsgatevékenység
-
-A.) A vizsgafeladat megnevezése: Általános rendőri ismeretek
-
-A vizsgafeladat ismertetése:
-
-A vizsgafeladat az 10352-12 Rendvédelmi alapfeladatok és az 10362-12 Rendőrszervező közös feladatok követelménymodulok ismeretanyagára épülő gyakorlati szituáció végrehajtása.
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 40%
-
-B.) A vizsgafeladat megnevezése: Bűnügyi ismeretek
-
-A vizsgafeladat ismertetése:
-
-A vizsgafeladat az 10363-12 Bűnügyi szervező szakfeladatok követelménymodul ismeretanyagára épülő gyakorlati szituáció végrehajtása.
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 30%
-
-5.3.1.2. Központi írásbeli vizsgatevékenység –
-
-A vizsgafeladat megnevezése: -
-
-A vizsgafeladat ismertetése: -
-
-A vizsgafeladat időtartama: -
-
-A vizsgafeladat értékelési súlyaránya: -
-
-5.3.1.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Rendőri ismeretek
-
-A vizsgafeladat ismertetése:
-
-A vizsgafeladat a 10352-12 Rendvédelmi alapfeladatok, a 10362-12 Rendőrszervező közös feladatok és a 10363-12 Bűnügyi szervező szakfeladatok követelménymodulok ismeretanyagát tartalmazó közös kibővített kérdéssor.
-
-A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 30 %
-
-5.3.2. A Rendészeti szervező (Büntetés-végrehajtási szervező) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.2.1. Gyakorlati vizsgatevékenység
-
-A vizsgafeladat megnevezése: Büntetés-végrehajtási alaki mozgások
-
-A vizsgafeladat ismertetése:
-
-A vizsgázók szakasz, raj kötelékben és egyénileg alaki gyakorlatokat hajtanak végre. Az értékelés kitér az egyéni feladat-végrehajtáson túl a raj, illetve szakasz kötelékben végrehajtott mozgások összhangjára is.
-
-A vizsgafeladat időtartama: 10 perc
-
-A vizsgafeladat értékelési súlyaránya: 40%
-
-5.3.2.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: A szolgálatteljesítés általános szabályai, Rendészeti szervező (büntetés-végrehajtási szakmairány) feladatai
-
-A vizsgafeladat ismertetése:
-
-Írásbeli számonkérés a 10352-12 Rendvédelmi alapfeladatok és a 10361-12 Büntetés-végrehajtási szervező szakfeladatok modul tartalmát átölelő vizsgafeladat-sor összeállításával.
-
-A vizsgafeladat időtartama: 90 perc
-
-A vizsgafeladat értékelési súlyaránya: 30%
-
-5.3.2.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Válaszadás a rendészeti szervező (Büntetés-végrehajtási szervező szakmairány) részére meghatározott vizsgakövetelmények alapján összeállított, előre kiadott tételsorokból húzott kérdésekre.
-
-A vizsgafeladat ismertetése:
-
-A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények fejezetben megadott témakörök mindegyikét tartalmazza.
-
-A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 30%
-
-5.3.3. A Rendészeti szervező (Határrendészeti szervező) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.3.1. Gyakorlati vizsgatevékenység
-
-A.) A vizsgafeladat megnevezése: Általános rendőri ismeretek
-
-A vizsgafeladat ismertetése:
-
-A vizsgafeladat a 10352-12 Rendvédelmi alapfeladatok és a 10362-12 Rendőrszervező közös feladatok követelménymodulok ismeretanyagára épülő gyakorlati szituáció végrehajtása.
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 40%
-
-B.) A vizsgafeladat megnevezése: Határrendészeti ismeretek
-
-A vizsgafeladat ismertetése:
-
-A vizsgafeladat a 10364-12 Határrendészeti szervező szakfeladatok követelménymodul ismeretanyagára épülő gyakorlati szituáció végrehajtása.
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 30%
-
-5.3.3.2. Központi írásbeli vizsgatevékenység –
-
-A vizsgafeladat megnevezése: -
-
-A vizsgafeladat ismertetése: -
-
-A vizsgafeladat időtartama: -
-
-A vizsgafeladat értékelési súlyaránya: -
-
-5.3.3.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Rendőri ismeretek
-
-A vizsgafeladat ismertetése:
-
-A vizsgafeladat a 10352-12 Rendvédelmi alapfeladatok, a 10362-12 Rendőrszervező közös feladatok és a 10364-12 Határrendészeti szervező szakfeladatok követelménymodulok ismeretanyagát tartalmazó közös kibővített kérdéssor.
-
-A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási)
-
-A vizsgafeladat értékelési súlyaránya: 30%
-
-5.3.4. A Rendészeti szervező (Iparbiztonsági szervező) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.4.1. Gyakorlati vizsgatevékenység
-
-A) A vizsgafeladat megnevezése: Rendvédelmi alapfeladatok
-
-A vizsgafeladat ismertetése:
-
-A vizsgázó feltételezett szituációról az alaki szabályoknak megfelelő, szóbeli jelentést, majd a kapott utasításnak megfelelően írásbeli jelentést tesz.
-
-A vizsgafeladat időtartama: 30 perc
-
-A vizsgafeladat értékelési súlyaránya: 10%
-
-B) A vizsgafeladat megnevezése: iparbiztonsági tervezési és mentésszervezési tevékenység és rendészeti alapfeladatok
-
-A vizsgafeladat ismertetése:
-
-A vizsgázó berendezett helyszínen feltételezett káresetnél, veszélyes anyag jelenlétében ellátja a káresemény felszámolásához szükséges iparbiztonsági (támogatói) szakértői feladatot, a szükséges védőöltözetben, a tűzoltó felszerelések és a hírforgalmazási eszközök tényleges alkalmazásával, majd elvégzi a hatósági eljáráshoz kapcsolódó, kötelező adatgyűjtési feladatokat, soron kívüli ellenőrzést tart.
-
-A vizsgafeladat időtartama: 40 perc
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-5.3.4.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Rendvédelmi alapfeladatok, katasztrófavédelmi közös és iparbiztonsági szakmai ismeretek
-
-A vizsgafeladat ismertetése:
-
-Rendvédelmi alapfeladatok, katasztrófavédelmi és iparbiztonsági szakismeretek, szolgálatteljesítésre vonatkozó általános szabályok.
-
-A vizsgafeladat időtartama: 180 perc
-
-A vizsgafeladat értékelési súlyaránya: 30%
-
-5.3.4.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Iparbiztonsági szakfeladatok
-
-A vizsgafeladat ismertetése:
-
-A központilag összeállított szóbeli vizsga kérdései a katasztrófavédelmi közös feladatok és az iparbiztonsági szervező szakmai ismeretek témakörök ismeretanyagát tartalmazzák.
-
-A vizsgafeladat időtartama: 40 perc (ebből felkészülési idő: 20 perc, válaszadási idő 20 perc)
-
-A vizsgafeladat értékelési súlyaránya: 40%
-
-5.3.5. A Rendészeti szervező (Katasztrófavédelmi szervező) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.5.1. Gyakorlati vizsgatevékenység
-
-A) A vizsgafeladat megnevezése: Rendvédelmi alapfeladatok
-
-A vizsgafeladat ismertetése:
-
-A vizsgázó feltételezett szituációról az alaki szabályoknak megfelelő, szóbeli jelentést, majd a kapott utasításnak megfelelően írásbeli jelentést tesz.
-
-A vizsgafeladat időtartama: 30 perc
-
-A vizsgafeladat értékelési súlyaránya: 10%
-
-B) A vizsgafeladat megnevezése: A katasztrófák elleni védekezés során végrehajtandó feladatok
-
-A vizsgafeladat ismertetése: A vizsgázó a katasztrófák elleni védekezés megszervezésével, illetve megelőzési feladataival kapcsolatos gyakorlati feladatot hajt végre.
-
-A vizsgafeladat időtartama: 120 perc
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-5.3.5.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Rendvédelmi alapfeladatok, katasztrófavédelmi közös és polgári védelmi ismeretek
-
-A vizsgafeladat ismertetése:
-
-Rendvédelmi alapfeladatok, katasztrófavédelmi és polgári védelmi szakismeretek, szolgálatteljesítésre vonatkozó általános szabályok.
-
-A vizsgafeladat időtartama: 180 perc
-
-A vizsgafeladat értékelési súlyaránya: 30 %
-
-5.3.5.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Katasztrófa- és polgári védelmi ismeretek
-
-A vizsgafeladat ismertetése: központilag összeállított szóbeli vizsga kérdései a katasztrófavédelmi közös feladatok és a katasztrófavédelmi szervező szakmai ismeretek témakörök ismeretanyagát tartalmazzák.
-
-A vizsgafeladat időtartama: 40 perc (felkészülési idő 20 perc, válaszadási idő 20 perc)
-
-A vizsgafeladat értékelési súlyaránya: 40%
-
-5.3.6. A Rendészeti szervező (Közlekedési és közrendvédelmi szervező) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.6.1. Gyakorlati vizsgatevékenység
-
-A.) A vizsgafeladat megnevezése: Általános rendőri ismeretek
-
-A vizsgafeladat ismertetése: A vizsgafeladat a 10352-12 Rendvédelmi alapfeladatok és a 10362-12 Rendőrszervező közös feladatok követelménymodulok ismeretanyagára épülő gyakorlati szituáció végrehajtása.
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 40%
-
-B.) A vizsgafeladat megnevezése: Közrendvédelmi és közlekedési rendőri ismeretek
-
-A vizsgafeladat ismertetése:
-
-A vizsgafeladat az 10368-12 Közlekedési és közrendvédelmi szervező szakfeladatok követelménymodul ismeretanyagára épülő gyakorlati szituáció végrehajtása.
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 30%
-
-5.3.6.2. Központi írásbeli vizsgatevékenység –
-
-A vizsgafeladat megnevezése: -
-
-A vizsgafeladat ismertetése: -
-
-A vizsgafeladat időtartama: -
-
-A vizsgafeladat értékelési súlyaránya: -
-
-5.3.6.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Rendőri ismeretek
-
-A vizsgafeladat ismertetése:
-
-A vizsgafeladat a 10352-12 Rendvédelmi alapfeladatok, a 10362-12 Rendőrszervező közös feladatok és a 10368-12 Közlekedési és közrendvédelmi szervező szakfeladatok követelménymodulok ismeretanyagát tartalmazó közös kibővített kérdéssor.
-
-A vizsgafeladat időtartama: 30 perc (felkészülési idő 15 perc, válaszadási idő 15 perc)
-
-A vizsgafeladat értékelési súlyaránya: 30 %
-
-5.3.7. A Rendészeti szervező (Tűzvédelmi szervező) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.7.1. Gyakorlati vizsgatevékenység
-
-A) A vizsgafeladat megnevezése: Rendvédelmi alapfeladatok
-
-A vizsgafeladat ismertetése:
-
-A vizsgázó feltételezett szituációról az alaki szabályoknak megfelelő, szóbeli jelentést, majd a kapott utasításnak megfelelően írásbeli jelentést tesz.
-
-A vizsgafeladat időtartama: 30 perc
-
-A vizsgafeladat értékelési súlyaránya: 10%
-
-B) A vizsgafeladat megnevezése: Tűzoltás-vezetői feladat végrehajtása
-
-A vizsgafeladat ismertetése:
-
-A vizsgázó berendezett helyszínen, feltételezett tűzesetnél ellátja a tűzoltás-vezető feladatait, a szükséges védőöltözetben, a tűzoltó felszerelések és a hírforgalmazási eszközök tényleges alkalmazásával, majd elvégzi a tűzvizsgálathoz kapcsolódó, kötelező adatgyűjtési feladatokat.
-
-A vizsgafeladat időtartama: 40 perc
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-5.3.7.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Rendvédelmi alapfeladatok, katasztrófavédelmi közös és tűzoltó szakismeretek
-
-A vizsgafeladat ismertetése:
-
-Rendvédelmi alapfeladatok, katasztrófavédelmi és tűzoltó szakismeretek, szolgálatteljesítésre vonatkozó általános szabályok.
-
-A vizsgafeladat időtartama: 180 perc
-
-A vizsgafeladat értékelési súlyaránya: 30%
-
-5.3.7.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Tűzoltó szervezői szakismeretek
-
-A vizsgafeladat ismertetése:
-
-A központilag összeállított szóbeli vizsga kérdései a katasztrófavédelmi közös feladatok és a tűzoltó szervező szakmai ismeretek témakörök ismeretanyagát tartalmazzák.
-
-A vizsgafeladat időtartama: 40 perc (felkészülési idő 20 perc)
-
-A vizsgafeladat értékelési súlyaránya: 40%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
-
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai: -
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  | A |
-
-| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-| 6.2. | Fegyverzet |
-
-| 6.3. | Speciális egyéni felszerelés és kiegészítői |
-
-| 6.4. | Kényszerítő eszközök |
-
-| 6.5. | Szolgálati járművek |
-
-| 6.6. | Számítógép és perifériái (informatikai eszközök) |
-
-| 6.7. | Híradástechnikai eszközök |
-
-| 6.8. | Mérőeszközök (valamely meghatározott fizikai illetve kémiai jellemzőt mér) |
-
-| 6.9. | Világító berendezés |
-
-| 6.10. | Videokamera |
-
-| 6.11. | Fényképezőgép |
-
-| 6.12. | Nyomtató |
-
-| 6.13. | Telefon, fax, szkenner |
-
-| 6.14. | Járőr,- őr felszerelés. |
-
-| 6.15. | Figyelést,- látást,- tájékozódást segítő eszközök, berendezések |
-
-| 6.16. | Okmányminták |
-
-| 6.17. | Lövedékálló mellény |
-
-| 6.18. | Mozgást korlátozó eszközök |
-
-| 6.19. | Tömegoszlatás speciális eszközei |
-
-| 6.20. | Forgalom elterelő eszközök |
-
-| 6.21. | Forgalomellenőrző berendezések |
-
-| 6.22. | Védőeszközök (védőruhák, légzés-védők) |
-
-| 6.23. | Műszaki mentés eszközei |
-
-| 6.24. | Munkaokmányok, nyilvántartások |
-
-| 6.25. | Külső valós gyakorlati helyszínek |
-
-| 6.26. | Szakmai jegyzetek, tankönyvek |
-
-| 6.27. | Sugárfelderítő műszerek |
-
-| 6.28. | Vegyi felderítő műszerek |
-
-| 6.29. | Biológiai mintavevők |
-
-| 6.30. | Meteorológiai felderítő műszerek |
-
-| 6.31. | Mentesítő eszközök és anyagok |
-
-| 6.32. | Térképek, rajzeszközök |
-
-| 6.33. | Jogszabálygyűjtemény |
-
-| 6.34. | Tantermek |
-
-| 6.35. | Oktatás-technikai eszközök |
-
-| 6.36. | Tornaterem, sporteszközök |
-
-| 6.37. | Könyvtár |
-
-| 6.38. | Tűzoltó egyéni védőfelszerelések, légzőkészülék |
-
-| 6.39. | A hivatásos katasztrófavédelmi szervnél rendszeresített gépjárművek, málházva |
-
-| 6.40. | Tűzoltó szakfelszerelések, kisgépek, felszerelések |
-
-| 6.41. | Tűz-szimulációs eszközök |
-
-| 6.42. | Sugárvédelmi, biológiai és vegyi védelmi eszközök, védőruhák, mentesítő eszközök és anyagok |
-
-| 6.43. | Tűzoltó gyakorlóházak, gyakorlópályák |
-
-| 6.44. | Életmentés, elsősegélynyújtás oktatási eszközei |
-
-| 6.45. | Iratminták, rendszeresített nyomtatványok |
-
-| 6.46. | Tűzoltósport-felszerelések |
-
-| 6.47. | Veszélyes áru szállítás ellenőrzési eszközei, felszerelései és okmánymintái |
-
-| 6.48. | Veszélyes anyag, veszélyes üzem, veszélyes szállítmány, kritikus infrastruktúra hatósági adatbázisok, ellenőrzési kézikönyvek és eljárási rendek |
-
-| 6.49. | Veszélyes anyag terjedési modellezés szoftvereszközei |
-
-| 6.50. | Műszaki gyakorlópálya |
-
-| 6.51. | RBV gyakorlópálya |
-
-| 6.52. | Vegyi mentés eszközei |
-
-| 6.53. | Munkaokmányok, nyilvántartások |
-
-7. EGYEBEK
-
-7. 1. Validáció: -
-
-7. 2. A szakmai szervezet szakmai vizsgabizottságban betöltött feladatainak ellátása:
-
-|  | A | B | C |
-
-| 7.2.1. | azonosító szám | A szakképesítés megnevezése a szakmairány megjelölésével | A szakképesítés ágazat / szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
-
-| 7.2.2. | 62 861 01 | Bűnügyi szervező Határrendészeti szervező Közlekedési és közrendvédelmi szervező | Országos Rendőr-főkapitányság |
-
-| 7.2.3. | 62 861 01 | Iparbiztonsági szervező Katasztrófavédelmi szervező Tűzvédelmi szervező | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
-
-| 7.2.4. | 62 861 01 | Büntetés-végrehajtási szervező | Büntetés-végrehajtás Országos Parancsnoksága |
-
-7.3. A szakképző intézménybe – a munkáltató által támogatott szakképesítésre – történő jelentkezést a Belügyminisztériumban és a rendvédelmi szerveknél hivatásos szolgálati jogviszonyban, kormányzati szolgálati jogviszonyban, közalkalmazotti jogviszonyban, továbbá munkaviszonyban lévő, az állam által elismert felsőfokú (egyetemi vagy főiskolai) végzettséggel rendelkező nyújthat be.
-
-7.4. A Rendészeti szervező (Iparbiztonsági szervező, Katasztrófavédelmi szervező és Tűzvédelmi szervező) szakmairányok esetén a képzésben részt vevők és a vizsgázók részére az egyéni védőfelszereléseket a beiskolázó biztosítja.
-
-7.5. A Rendészeti szervező (Iparbiztonsági szervező, Katasztrófavédelmi szervező és Tűzvédelmi szervező) szakmairányok vizsgái esetén a kijavított és értékelt írásbeli feladatot, az eredeti írásbeli vizsgafeladat egy példányát, valamint a javítási-értékelési útmutatókat a vizsga utolsó vizsgafeladatának megkezdése előtt el kell juttatni a vizsgaelnökhöz.
-
-A 23. sorszámú Rendőr tiszthelyettes (a szakmairány megjelölésével) megnevezésű szakképesítés
-
-szakmai és vizsgakövetelménye
-
-1. AZ ORSZÁGOS KÉPZÉSI JEGYZÉKBEN SZEREPLŐ ADATOK
-
-1.1. A szakképesítés azonosító száma: 54 861 01
-
-1.2. Szakképesítés megnevezése: Rendőr tiszthelyettes (Bűnügyi rendőr; Határrendészeti rendőr; Közlekedési rendőr; Közrendvédelmi rendőr)
-
-1.3. Iskolai rendszerű szakképzésben a szakképzési évfolyamok száma: 2
-
-1.4. Iskolarendszeren kívüli szakképzésben az óraszám: 1800-2500
-
-2. EGYÉB ADATOK
-
-2.1. A képzés megkezdésének feltételei:
-
-2.1.1. Iskolai előképzettség: érettségi végzettség
-
-2.1.2. Bemeneti kompetenciák: -
-
-2.2. Szakmai előképzettség: -
-
-2.3. Előírt gyakorlat: -
-
-2.4. Egészségügyi alkalmassági követelmények: szükségesek
-
-2.5. Pályaalkalmassági követelmények: szükségesek
-
-2.6. Elméleti képzési idő aránya: 50%
-
-2.7. Gyakorlati képzési idő aránya: 50%
-
-2.8. Szintvizsga: -
-
-2.9. Az összefüggő szakmai gyakorlat időtartama iskolai rendszerű szakképzés esetén: az első szakképzési évfolyamot követően 160 óra
-
-3. PÁLYATÜKÖR
+3. Pályatükör
 
 3.1. A szakképesítéssel legjellemzőbben betölthető munkakörök, foglalkozások
 
-|  | A | B | C |
-
-| 3.1.1. | FEOR száma | FEOR megnevezése | A szakképesítéssel betölthető munkakörök |
-
-| 3.1.2. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
-
-| 3.1.3. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
-
-| 3.1.4. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
-
-| 3.1.5. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
-
-| 3.1.6. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
-
-| 3.1.7. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
-
-| 3.1.8. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
-
-| 3.1.9. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
-
-| 3.1.10. | 5251 | Rendőr | Jogszabályban meghatározottak szerint |
-
-| 3.1.11. | 3655 | Nyomozó | Jogszabályban meghatározottak szerint |
-
-3.2. A szakképesítés munkaterületének rövid leírása:
-
-- a rendőr a törvényben és más jogszabályokban meghatározott, rendészeti feladatokat lát el
-
-- tevékenységét önállóan vagy utasításra hajtja végre
-
-- tájékoztatást ad és segítséget nyújt
-
-- személy és objektumvédelmi feladatokat lát el
-
-- jelenlétével támogatja a bűnügyi megelőző tevékenységet
-
-- segíti a közrend fenntartását, a biztonságos közlekedés feltételeinek megteremtését, s a közlekedési balesetek megelőzését
-
-- végrehajtja a szükséges intézkedéseket rendőri feladatai ellátása során
-
-- csapatszolgálati tevékenységet végez
-
-- őrzi az államhatárt, idegenrendészeti-ellenőrzési feladatokat hajt végre
-
-- a közterület rendjének fenntartása érdekében, igazgatás-rendészeti feladatokat lát el
-
-- intézkedéseivel elősegíti a rendészeti prevenciós célok megvalósulását
-
-- megfelelő szintű kommunikációs képességgel rendelkezik, munkáját felelősségteljesen, kellő hivatástudattal a Rendőrség Etikai Kódexében meghatározottak betartásával gyakorolja
-
-A szakképesítéssel rendelkező képes:
-
-- általános szolgálati feladatokat teljesíteni
-
-- adminisztratív, ügykezelési feladatokat végezni
-
-- jogsértő cselekményeket felismerni, megelőzni, megszakítani, intézkedni bűncselekmény vagy szabálysértés észlelése esetén (figyelmeztet, helyszíni bírságot alkalmazni, feljelenteni, jegyzőkönyvet készíteni)
-
-- államhatárral kapcsolatos jogellenes cselekményeket megelőzni, megakadályozni
-
-- biztonsági intézkedést foganatosítani, elővezetést, előállítást, elfogást végrehajtani
-
-- elvégezni a személyi sérüléssel járó baleseteknél a hatáskörébe tartozó feladatokat
-
-- felvilágosítani, felvilágosítást kérni, segítséget nyújtani a rászorulóknak
-
-- idegen nyelven kommunikálni
-
-- idegenrendészeti és menekültügyi feladatok ellátásában részt venni, mélységi ellenőrzést végezni
-
-- járőrszolgálatot ellátni, intézkedéseket foganatosítani és határforgalmat ellenőrizni
-
-- jogszerűen és szabályszerűen intézkedni
-
-- közrendvédelmi, közlekedésrendészeti, bűnügyi, igazgatásrendészeti, idegenrendészeti és határrendészeti, őrzési, objektum-, létesítményvédelmi és általános személyvédelmi feladatokat ellátni
-
-- csapatszolgálati feladatokat teljesíteni
-
-- szakterületéhez kapcsolódó eszközöket kezelni, használni
-
-- személyes szabadságot nem-, továbbá személyes szabadságot korlátozó intézkedéseket foganatosítani, kényszerítő eszközöket használni
-
-- szolgálata ellátása során kényszerítő eszközt, lőfegyvert használni
-
-- tanúkutatást, meghallgatást végezni, helyszíni szemlével kapcsolatos teendőt ellátni
-
-- tömegkezelési, tömegoszlatási, rendezvénybiztosítási feladatokat ellátni
-
-3.3. Kapcsolódó szakképesítések
-
-|  |  | A | B | C |
-
-|  | 3.3.1. | A kapcsolódó szakképesítés, részszakképesítés, szakképesítés-ráépülés |
-
-|  | 3.3.2. | azonosító száma | megnevezése | a kapcsolódás módja |
-
-|  | 3.3.3. | 51 861 01 | Csapatszolgálati járőrtárs | részszakképesítés |
-
-|  | 3.3.4. | 51 861 02 | Járőr | részszakképesítés |
-
-|  | 3.3.5. | 51 861 03 | Őr-járőrtás | részszakképesítés |
-
-|  | 3.3.6. | 55 861 01 | Baleseti helyszínelő | szakképesítés-ráépülés |
-
-|  | 3.3.7. | 55 861 02 | Bűnügyi technikus | szakképesítés-ráépülés |
-
-|  | 3.3.8. | 55 861 03 | Fő határrendész | szakképesítés-ráépülés |
-
-|  | 3.3.9. | 55 861 04 | Körzeti megbízott | szakképesítés-ráépülés |
-
-|  | 3.3.10. | 55 861 05 | Kutyavezető-rendőr | szakképesítés-ráépülés |
-
-|  | 3.3.11. | 55 861 06 | Okmányvizsgáló | szakképesítés-ráépülés |
-
-|  | 3.3.12. | 55 861 07 | Rendőr zászlós | szakképesítés-ráépülés |
-
-4. SZAKMAI KÖVETELMÉNYEK
-
-|  | A | B |
-
-| 4.1. | A Rendőr tiszthelyettes (Bűnügyi rendőr) szakképesítés szakmai követelménymoduljainak |
-
-| 4.1.1. | azonosítója | megnevezése |
-
-| 4.1.2. | 10352-12 | Rendvédelmi alapfeladatok |
-
-| 4.1.3. | 10370-12 | Őr-járőrtársi feladatok |
-
-| 4.1.4. | 10371-12 | Csapatszolgálati feladatok |
-
-| 4.1.5. | 10372-12 | Járőri feladatok |
-
-| 4.1.6. | 10376-12 | Bűnügyi rendőr feladatok |
-
-|  | A | B |
-
-| 4.2. | A Rendőr tiszthelyettes (Határrendészeti rendőr) szakképesítés szakmai követelménymoduljainak |
-
-| 4.2.1. | azonosítója | megnevezése |
-
-| 4.2.2. | 10352-12 | Rendvédelmi alapfeladatok |
-
-| 4.2.3. | 10370-12 | Őr-járőrtársi feladatok |
-
-| 4.2.4. | 10371-12 | Csapatszolgálati feladatok |
-
-| 4.2.5. | 10372-12 | Járőri feladatok |
-
-| 4.2.6. | 10373-12 | Határrendészeti rendőri feladatok |
-
-|  | A | B |
-
-| 4.3. | A Rendőr tiszthelyettes (Közlekedési rendőr) szakképesítés szakmai követelménymoduljainak |
-
-| 4.3.1. | azonosítója | megnevezése |
-
-| 4.3.2. | 10352-12 | Rendvédelmi alapfeladatok |
-
-| 4.3.3. | 10370-12 | Őr-járőrtársi feladatok |
-
-| 4.3.4. | 10371-12 | Csapatszolgálati feladatok |
-
-| 4.3.5. | 10372-12 | Járőri feladatok |
-
-| 4.3.6. | 10375-12 | Közlekedési rendőri feladatok |
-
-|  | A | B |
-
-| 4.4. | A Rendőr tiszthelyettes (Közrendvédelmi rendőr) szakképesítés szakmai követelménymoduljainak |
-
-| 4.4.1. | azonosítója | megnevezése |
-
-| 4.4.2. | 10352-12 | Rendvédelmi alapfeladatok |
-
-| 4.4.3. | 10370-12 | Őr-járőrtársi feladatok |
-
-| 4.4.4. | 10371-12 | Csapatszolgálati feladatok |
-
-| 4.4.5. | 10372-12 | Járőri feladatok |
-
-| 4.4.6. | 10374-12 | Közrendvédelmi rendőri feladatok |
-
-5. VIZSGÁZTATÁSI KÖVETELMÉNYEK
-
-5.1. A komplex szakmai vizsgára bocsátás feltételei:
-
-Iskolarendszerű szakképzés esetén:
-
-A második szakképző évfolyam eredményes elvégzése.
-
-A kerettantervben előírt csapatszolgálati gyakorlat teljesítéséről szóló igazolás, és a területi rendőri szerv, valamint a képző intézmény által hitelesített, legalább elégséges szintet elérő értékelése.
-
-„B” kategóriás vezetői engedély megléte.
-
-Az iskolai rendszerű szakképzésben az évfolyam teljesítését igazoló bizonyítványban foglaltak szerint teljesített tantárgyak – a szakképzési kerettantervben meghatározottak szerint – egyenértékűek az adott követelménymodulhoz tartozó modulzáró vizsga teljesítésével.
-
-Iskolarendszeren kívüli szakképzés esetén:
-
-A képzési programban előírt gyakorlat teljesítéséről szóló igazolás, és a területi rendőri szerv, valamint a képző intézmény által hitelesített, legalább elégséges szintet elérő értékelése.
-
-Az iskolarendszeren kívüli szakképzésben az 5.2. pontban előírt valamennyi modulzáró vizsga eredményes letétele.
-
-5.2. A modulzáró vizsga vizsgatevékenysége és az eredményesség feltétele:
-
-|  | A | B | C |
-
-| 5.2.1. | A Rendőr tiszthelyettes (Bűnügyi rendőr) szakképesítés szakmai követelménymodulja |
-
-| 5.2.1.1. | azonosító | megnevezés | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.1.2. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
-
-| 5.2.1.3. | 10370-12 | Őr-járőrtársi feladatok | gyakorlati, írásbeli, szóbeli |
-
-| 5.2.1.4. | 10371-12 | Csapatszolgálati feladatok | írásbeli |
-
-| 5.2.1.5. | 10372-12 | Járőri feladatok | gyakorlati, írásbeli, szóbeli |
-
-| 5.2.1.6. | 10376-12 | Bűnügyi rendőr feladatok | gyakorlati, írásbeli |
-
-|  | A | B | C |
-
-| 5.2.2. | A Rendőr tiszthelyettes (Határrendészeti rendőr) szakképesítés szakmai követelménymodulja |
-
-| 5.2.2.1. | azonosító | megnevezés | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.2.2. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
-
-| 5.2.2.3. | 10370-12 | Őr-járőrtársi feladatok | gyakorlati, írásbeli, szóbeli |
-
-| 5.2.2.4. | 10371-12 | Csapatszolgálati feladatok | írásbeli |
-
-| 5.2.2.5. | 10372-12 | Járőri feladatok | gyakorlati, írásbeli, szóbeli |
-
-| 5.2.2.6. | 10373-12 | Határrendészeti rendőri feladatok | gyakorlati, írásbeli |
-
-|  | A | B | C |
-
-| 5.2.3. | A Rendőr tiszthelyettes (Közlekedési rendőr) szakképesítés szakmai követelménymodulja |
-
-| 5.2.3.1. | azonosító | megnevezés | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.3.2. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
-
-| 5.2.3.3. | 10370-12 | Őr-járőrtársi feladatok | gyakorlati, írásbeli, szóbeli |
-
-| 5.2.3.4. | 10371-12 | Csapatszolgálati feladatok | írásbeli |
-
-| 5.2.3.5. | 10372-12 | Járőri feladatok | gyakorlati, írásbeli, szóbeli |
-
-| 5.2.3.6. | 10375-12 | Közlekedési rendőri feladatok | gyakorlati, szóbeli |
-
-|  | A | B | C |
-
-| 5.2.4. | A Rendőr tiszthelyettes (Közrendvédelmi rendőr) szakképesítés szakmai követelménymodulja |
-
-| 5.2.4.1. | azonosító | megnevezés | a modulzáró vizsga vizsgatevékenysége |
-
-| 5.2.4.2. | 10352-12 | Rendvédelmi alapfeladatok | gyakorlati, írásbeli |
-
-| 5.2.4.3. | 10370-12 | Őr-járőrtársi feladatok | gyakorlati, írásbeli, szóbeli |
-
-| 5.2.4.4. | 10371-12 | Csapatszolgálati feladatok | írásbeli |
-
-| 5.2.4.5. | 10372-12 | Járőri feladatok | gyakorlati, írásbeli, szóbeli |
-
-| 5.2.4.6. | 10374-12 | Közrendvédelmi rendőri feladatok | gyakorlati, írásbeli |
-
-Egy szakmai követelménymodulhoz kapcsolódó modulzáró vizsga akkor eredményes, ha a modulhoz előírt feladat végrehajtása legalább 51%-osra értékelhető.
-
-5.3. A komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1. A Rendőr tiszthelyettes (Bűnügyi rendőr) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.1.1. Gyakorlati vizsgatevékenység
-
-A.) A vizsgafeladat megnevezése: Rendőri alaki mozgások
-
-A vizsgafeladat ismertetése:
-
-A vizsgázók szakasz, raj kötelékben és egyénileg alaki gyakorlatokat hajtanak végre. Az értékelés kitér az egyéni feladat-végrehajtáson túl a raj, illetve szakasz kötelékben végrehajtott mozgások összhangjára is
-
-A vizsgafeladat időtartama: 10 perc
-
-A vizsgafeladat értékelési súlyaránya: 10%
-
-B.) A vizsgafeladat megnevezése: Rendőri önvédelem és kényszerítő eszközök alkalmazása
-
-A vizsgafeladat ismertetése:
-
-Önvédelmi fogások és kényszerítő eszközök alkalmazása vizsgázók között
-
-Az értékelés kitér a végrehajtás szabályszerűségére, dinamikájára, célszerűségére, hatékonyságára, és a vizsgázó kommunikációjára is
-
-A vizsgafeladat időtartama: 5 perc
-
-A vizsgafeladat értékelési súlyaránya: 10%
-
-C.) A vizsgafeladat megnevezése: Rendőri intézkedés a gyakorlatban
-
-A vizsgafeladat ismertetése:
-
-Komplex rendőri intézkedés végrehajtása vizsgahelyszínen, melyen keresztül lemérhető a vizsgázó alakiassága, fizikális felkészültsége, a szakszerű és jogszerű rendőri intézkedésre való felkészültsége, kommunikációja és eszközhasználati készsége. A közterületi intézkedést szimuláló feladatban jelzők és járőrtárs által támogatott feladat-végrehajtás történik
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 10%
-
-D.) A vizsgafeladat megnevezése: Intézkedések, eljárási cselekmények végrehajtása büntetőeljárásban
-
-A vizsgafeladat ismertetése:
-
-Komplex bűnügyi rendőri intézkedések, büntetőeljárási kényszerintézkedések, nyomozási cselekmények, bizonyítási eljárások végrehajtása vizsgahelyszínen, amely során lemérhető vizsgázó büntetőjogi és büntetőeljárás jogi ismereteinek gyakorlatban történő alkalmazásának készsége, kommunikációja, kriminalisztikai ajánlások alapján a szakmai, taktikai fogásokból való felkészültsége. Az intézkedéseket, eljárási cselekményeket szimuláló feladatban jelzők és nyomozó kolléga által együttes feladat végrehajtás történik.
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-5.3.1.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Bűnügyi rendőri szakmai ismeretek
-
-A vizsgafeladat ismertetése:
-
-Bűnügyi, közbiztonsági, rendészeti, csapatszolgálati, szolgálatteljesítési és általános őr- és járőrtársi feladatok
-
-A vizsgafeladat időtartama: 180 perc
-
-A vizsgafeladat értékelési súlyaránya: 30%
-
-5.3.1.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Objektum-, személy- és vagyonvédelmi ismeretek
-
-A vizsgafeladat ismertetése:
-
-A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények pontban megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
-
-A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő: 10 perc, válaszadási idő 20 perc)
-
-A vizsgafeladat értékelési súlyaránya: 20 %
-
-5.3.2. A Rendőr tiszthelyettes (Határrendészeti rendőr) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.2.1. Gyakorlati vizsgatevékenység
-
-A.) A vizsgafeladat megnevezése: Rendőri alaki mozgások
-
-A vizsgafeladat ismertetése:
-
-A vizsgázók szakasz, raj kötelékben és egyénileg alaki gyakorlatokat hajtanak végre. Az értékelés kitér az egyéni feladat-végrehajtáson túl a raj, illetve szakasz kötelékben végrehajtott mozgások összhangjára is
-
-A vizsgafeladat időtartama: 10 perc
-
-A vizsgafeladat értékelési súlyaránya: 10%
-
-B.) A vizsgafeladat megnevezése: Rendőri önvédelem és kényszerítő eszközök alkalmazása
-
-A vizsgafeladat ismertetése:
-
-Önvédelmi fogások és kényszerítő eszközök alkalmazása vizsgázók között
-
-Az értékelés kitér a végrehajtás szabályszerűségére, dinamikájára, célszerűségére, hatékonyságára, és a vizsgázó kommunikációjára is
-
-A vizsgafeladat időtartama: 5 perc
-
-A vizsgafeladat értékelési súlyaránya: 10%
-
-C.) A vizsgafeladat megnevezése: Rendőri intézkedés a gyakorlatban
-
-A vizsgafeladat ismertetése:
-
-Komplex rendőri intézkedés végrehajtása vizsgahelyszínen, melyen keresztül lemérhető a vizsgázó alakiassága, fizikális felkészültsége, a szakszerű és jogszerű rendőri intézkedésre való felkészültsége, kommunikációja és eszközhasználati készsége. A közterületi intézkedést szimuláló feladatban jelzők és járőrtárs által támogatott feladat-végrehajtás történik
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 10%
-
-D.) A vizsgafeladat megnevezése: Határrendészeti rendőri feladatok szituációban
-
-A vizsgafeladat ismertetése:
-
-Komplex határrendészeti rendőri (határforgalom-ellenőrzési, mélységi- és idegenrendészeti ellenőri, határrendészeti járőr) intézkedés végrehajtása vizsgahelyszínen, melyen keresztül lemérhető a vizsgázó alakiassága, fizikális felkészültsége, a szakszerű és jogszerű rendőri intézkedésre való felkészültsége, kommunikációja és eszközhasználati készsége. A határrendészeti intézkedést szimuláló feladatban jelzők és járőrtárs által támogatott feladat-végrehajtás történik
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-5.3.2.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Határrendészeti szakmai ismeretek
-
-A vizsgafeladat ismertetése:
-
-Határrendészeti, közbiztonsági, rendészeti, csapatszolgálati, szolgálatteljesítési és általános őr- és járőrtársi feladatok
-
-A vizsgafeladat időtartama: 180 perc
-
-A vizsgafeladat értékelési súlyaránya: 30%
-
-5.3.2.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Objektum-, személy- és vagyonvédelmi ismeretek
-
-A vizsgafeladat ismertetése:
-
-A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények pontban megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
-
-A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő: 10 perc, válaszadási 20 perc)
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-5.3.3. A Rendőr tiszthelyettes (Közlekedési rendőr) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.3.1. Gyakorlati vizsgatevékenység
-
-A.) A vizsgafeladat megnevezése: Rendőri alaki mozgások
-
-A vizsgafeladat ismertetése:
-
-A vizsgázók szakasz, raj kötelékben és egyénileg alaki gyakorlatokat hajtanak végre. Az értékelés kitér az egyéni feladat-végrehajtáson túl a raj, illetve szakasz kötelékben végrehajtott mozgások összhangjára is
-
-A vizsgafeladat időtartama: 10 perc
-
-A vizsgafeladat értékelési súlyaránya: 10%
-
-B.) A vizsgafeladat megnevezése: Rendőri önvédelem és kényszerítő eszközök alkalmazása
-
-A vizsgafeladat ismertetése:
-
-Önvédelmi fogások és kényszerítő eszközök alkalmazása vizsgázók között
-
-Az értékelés kitér a végrehajtás szabályszerűségére, dinamikájára, célszerűségére, hatékonyságára, és a vizsgázó kommunikációjára is
-
-A vizsgafeladat időtartama: 5 perc
-
-A vizsgafeladat értékelési súlyaránya: 10%
-
-C.) A vizsgafeladat megnevezése: Rendőri intézkedés a gyakorlatban
-
-A vizsgafeladat ismertetése:
-
-Komplex rendőri intézkedés végrehajtása vizsgahelyszínen, melyen keresztül lemérhető a vizsgázó alakiassága, fizikális felkészültsége, a szakszerű és jogszerű rendőri intézkedésre való felkészültsége, kommunikációja és eszközhasználati készsége. A közterületi intézkedést szimuláló feladatban jelzők és járőrtárs által támogatott feladat-végrehajtás történik
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 10 %
-
-D.) A vizsgafeladat megnevezése: Intézkedés, közlekedési szituációban.
-
-A vizsgafeladat ismertetése:
-
-Komplex közlekedési rendőri (forgalomellenőrzési, forgalomirányítási, baleseti) intézkedés végrehajtása vizsgahelyszínen, melyen keresztül lemérhető a vizsgázó alakiassága, fizikális felkészültsége, a szakszerű és jogszerű rendőri intézkedésre való felkészültsége, kommunikációja és eszközhasználati készsége. A közterületi közlekedési intézkedést szimuláló feladatban jelzők és járőrtárs által támogatott feladat-végrehajtás történik
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 20 %
-
-5.3.3.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Közlekedési szakmai ismeretek
-
-A vizsgafeladat ismertetése:
-
-Közlekedési, közbiztonsági, rendészeti, csapatszolgálati, szolgálatteljesítési és általános őr- és járőrtársi feladatok
-
-A vizsgafeladat időtartama: 180 perc
-
-A vizsgafeladat értékelési súlyaránya: 30%
-
-5.3.3.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Objektum-, személy- és vagyonvédelmi ismeretek
-
-A vizsgafeladat ismertetése:
-
-A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények pontban megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
-
-A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő: 10 perc, válaszadási idő 20 perc)
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-5.3.4. A Rendőr tiszthelyettes (Közrendvédelmi rendőr) megnevezésű szakképesítés komplex szakmai vizsga vizsgatevékenységei és vizsgafeladatai:
-
-5.3.4.1. Gyakorlati vizsgatevékenység
-
-A.) A vizsgafeladat megnevezése: Rendőri alaki mozgások
-
-A vizsgafeladat ismertetése:
-
-A vizsgázók szakasz, raj kötelékben és egyénileg alaki gyakorlatokat hajtanak végre. Az értékelés kitér az egyéni feladat-végrehajtáson túl a raj, illetve szakasz kötelékben végrehajtott mozgások összhangjára is
-
-A vizsgafeladat időtartama: 10 perc
-
-A vizsgafeladat értékelési súlyaránya: 10%
-
-B.) A vizsgafeladat megnevezése: Rendőri önvédelem és kényszerítő eszközök alkalmazása
-
-A vizsgafeladat ismertetése:
-
-Önvédelmi fogások és kényszerítő eszközök alkalmazása vizsgázók között
-
-Az értékelés kitér a végrehajtás szabályszerűségére, dinamikájára, célszerűségére, hatékonyságára, és a vizsgázó kommunikációjára is
-
-A vizsgafeladat időtartama: 5 perc
-
-A vizsgafeladat értékelési súlyaránya: 10%
-
-C.) A vizsgafeladat megnevezése: Rendőri intézkedés a gyakorlatban
-
-A vizsgafeladat ismertetése:
-
-Komplex rendőri intézkedés végrehajtása vizsgahelyszínen, melyen keresztül lemérhető a vizsgázó alakiassága, fizikális felkészültsége, a szakszerű és jogszerű rendőri intézkedésre való felkészültsége, kommunikációja és eszközhasználati készsége. A közterületi intézkedést szimuláló feladatban jelzők és járőrtárs által támogatott feladat-végrehajtás történik
-
-A vizsgafeladat időtartama: 15 perc
-
-A vizsgafeladat értékelési súlyaránya: 10%
-
-D.) A vizsgafeladat megnevezése: Közterületen, nyilvános helyen, magánlakásban történő intézkedés
-
-A vizsgafeladat ismertetése:
-
-A szituációs feladat önálló - járőrtárs biztosítása mellett - történő végrehajtása. A rögzített szituációnak megfelelően, jog- és szakszerű intézkedés lefolytatása, szükség esetén – az elkövetett jogsértés miatti szankció, kényszerítő eszköz alkalmazása, személyi szabadságot korlátozó intézkedés foganatosítása. Az intézkedéshez szükséges írásos tevékenység (jelentés, feljelentés) elkészítése
-
-A vizsgafeladat időtartama: 30 perc
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-5.3.4.2. Központi írásbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Közrendvédelmi szakmai ismeretek
-
-A vizsgafeladat ismertetése:
-
-Közrendvédelmi, közbiztonsági, rendészeti, csapatszolgálati, szolgálatteljesítési és általános őr- és járőrtársi feladatok
-
-A vizsgafeladat időtartama: 180 perc
-
-A vizsgafeladat értékelési súlyaránya: 30%
-
-5.3.4.3. Szóbeli vizsgatevékenység
-
-A vizsgafeladat megnevezése: Objektum-, személy- és vagyonvédelmi ismeretek
-
-A vizsgafeladat ismertetése:
-
-A szóbeli központilag összeállított vizsga kérdései a 4. Szakmai követelmények pontban megadott modulokhoz tartozó témakörök mindegyikét tartalmazza
-
-A vizsgafeladat időtartama: 30 perc (ebből felkészülési idő: 10 perc, válaszadási idő 20 perc)
-
-A vizsgafeladat értékelési súlyaránya: 20%
-
-5.4. A vizsgatevékenységek szervezésére, azok vizsgaidőpontjaira, a vizsgaidőszakokra, a vizsgatevékenységek vizsgatételeire, értékelési útmutatóira és egyéb dokumentumaira, a vizsgán használható segédeszközökre vonatkozó részletes szabályok:
-
-A szakképesítéssel kapcsolatos előírások az állami szakképzési és felnőttképzési szerv http://www.munka.hu/ című weblapján érhetők el a Szak- és felnőttképzés Vizsgák menüpontjában.
-
-5.5. A szakmai vizsga értékelésének a szakmai vizsgaszabályzattól eltérő szempontjai:
-
-Amennyiben a teljesítendő írásbeli feladat eredménye nem éri el az 51%-ot, akkor az írásbeli vizsgatevékenység eredménye elégtelen. Sikertelen a szakmai vizsga, ha bármely teljesítendő vizsgatevékenység (gyakorlati, írásbeli, szóbeli) eredményét elégtelenre értékeli a vizsgabizottság.
-
-6. ESZKÖZ- ÉS FELSZERELÉSI JEGYZÉK
-
-|  | A |
-
-| 6.1. | A képzési és vizsgáztatási feladatok teljesítéséhez szükséges eszközök minimumát meghatározó eszköz- és felszerelési jegyzék |
-
-| 6.2. | Fegyverzet |
-
-| 6.3. | Lövedékálló mellény |
-
-| 6.4. | Speciális egyéni felszerelés és kiegészítői |
-
-| 6.5. | Kényszerítő eszközök |
-
-| 6.6. | Tömegoszlatás speciális eszközei |
-
-| 6.7. | Szolgálati járművek |
-
-| 6.8. | Számítógép és perifériái (informatikai eszközök) |
-
-| 6.9. | Híradástechnikai eszközök |
-
-| 6.10. | Világító berendezés |
-
-| 6.11. | Forgalom elterelő eszközök |
-
-| 6.12. | Nyomtató |
-
-| 6.13. | Telefon, fax |
-
-| 6.14. | Járőr-, őr felszerelés |
-
-| 6.15. | Figyelést-, látást-, tájékozódást segítő eszközök, berendezések |
-
-| 6.16. | Okmányminták |
-
-| 6.17. | Videokamera |
-
-| 6.18. | Fényképezőgép |
-
-| 6.19. | Forgalomellenőrző berendezések |
-
-| 6.20. | Határforgalom-ellenőrzést szolgáló eszközök, berendezések |
-
-7. EGYEBEK
-
-7.1. Validáció: -
-
-7.2. A szakmai szervezet szakmai vizsgabizottságban betöltött feladatait a Rendőr tiszthelyettes szakképesítés és részszakképesítései tekintetében az Országos Rendőr-főkapitányság látja el.
-
-|  | A | B | C |
-
-| 7.2.1. | azonosító szám | A szakképesítés megnevezése | A szakképesítés ágazat/szakmairány szerint illetékes szakmai kamarai jogkört gyakorló szerv, szervezet |
-
-| 7.2.2. | 54 861 01 | Rendőr tiszthelyettes | Országos Rendőr-főkapitányság |
-
-7.3. Részszakképesítés megszerzése:
-
-7.3.1. Amennyiben a Rendőr tiszthelyettes komplex szakmai vizsga sikertelen, de az 5.3.3.1. A), B), C), 5.3.3.2., 5.3.3.3 feladatok mindegyike eredményes (eléri az 51%-ot), akkor a Járőr részszakképesítést igazoló bizonyítvány kiadható a Járőr részszakképesítés szakmai és vizsgakövetelményben meghatározott súlyozási rend figyelembe vételével. A gyakorlati vizsgatevékenység %-os eredménye az 5.3.3.1. A), B), C) feladataira kapott %-os értékek matematikai álaga, felfelé kerekítve egész értékre. Ebben az esetben további részszakképesítést igazoló bizonyítvány kiadása nem történhet meg.
-
-7.3.2. Amennyiben a Rendőr tiszthelyettes komplex szakmai vizsga sikertelen, és nem adható ki a Járőr részszakképesítést igazoló bizonyítvány sem, de az 5.3.3.1. A), B), 5.3.3.2., 5.3.3.3 feladatok mindegyike eredményes (eléri az 51%-ot), akkor a Csapatszolgálati járőrtárs részszakképesítést igazoló bizonyítvány kiadható a Csapatszolgálati járőrtárs részszakképesítés szakmai és vizsgakövetelményben meghatározott súlyozási rend figyelembe vételével. A gyakorlati vizsgatevékenység %-os eredménye az 5.3.3.1. A), B) feladataira kapott %-os értékek matematikai álaga, felfelé kerekítve egész értékre. Ebben az esetben további részszakképesítést igazoló bizonyítvány kiadása nem történhet meg.
-
-7.4. Megfeleltetés: Kizárólag a modulzáró vizsgák alóli felmentést biztosítják
-
-7.4.1. A 15/2008. (VII. 28.) IRM rendelet szerinti Határrendészeti-rendőr szakképesítés-elágazás (szakmai követelménymoduljai: 0725-06 Rendészeti alapfeladatok, 0731-06 Általános őr- és járőrszolgálati feladatok, 0732-06 Határrendészeti rendőri feladatok) végzettség tekintetében megegyezik a 3690-11 A rendvédelmi szervek általános feladatai és szabályzói, 3691-11 Őr-járőrtársi feladatok, 3692-11 Csapatszolgálati járőrtársi feladatok, 3693-11 Járőri feladatok, 3695-11 Határrendészeti rendőri feladatok szakmai követelménymodulokat tartalmazó Határrendészeti-rendőr szakképesítés-elágazással, és a jelen szakképesítés szerinti Rendőr tiszthelyettes (határrendészeti rendőr) végzettséggel.
-
-[^4]: A 2. melléklet a 83/2013. (XII. 31.) BM rendelet 2. § b) pontja, a 23/2014. (III. 14.) BM rendelet 2. § (2) bekezdése, a 25/2014. (VIII. 26.) NGM rendelet 4. § (2) bekezdése, a 43/2014. (VIII. 29.) BM rendelet 2. § (1) bekezdés b) pontja és (2) bekezdése, a 65/2014. (XII. 16.) BM rendelet 1. §-a, a 37/2015. (VI. 16.) BM rendelet 72. §-a szerint módosított szöveg.
+[^6]: A 2. melléklet a 36/2016. (VIII. 30.) BM rendelet 4. §-ával megállapított szöveg.
