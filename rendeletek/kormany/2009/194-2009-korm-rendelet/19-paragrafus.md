@@ -61,7 +61,7 @@ e)[^25]
 [^19]: A 19. § (2) bekezdés b) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
 [^20]: A 19. § (2) bekezdés c) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
 [^21]: A 19. § (2) bekezdés e) pontját a 134/2012. (VI. 28.) Korm. rendelet 24. § c) pont cb) alpontja hatályon kívül helyezte.
-[^22]: A 19. § (5) bekezdés záró szövegrésze a 158/2011. (VIII. 11.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^22]: A 19. § (5) bekezdés záró szövegrésze a 259/2016. (VIII. 31.) Korm. rendelet 76. §-a szerint módosított szöveg.
 [^23]: A 19. § (5) bekezdés b) pontja a 322/2012. (XI. 16.) Korm. rendelet 103. § a) pontja szerint módosított szöveg.
 [^24]: A 19. § (5) bekezdés d) pontja a 322/2012. (XI. 16.) Korm. rendelet 103. § b) pontja szerint módosított szöveg.
 [^25]: A 19. § (5) bekezdés e) pontját a 322/2012. (XI. 16.) Korm. rendelet 103. § c) pontja hatályon kívül helyezte.

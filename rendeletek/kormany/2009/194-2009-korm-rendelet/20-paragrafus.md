@@ -1,3 +1,5 @@
+## folytatható le integrált építésügyi eljárásban, amely esetében a közreműködő hatóság a honvédelemért felelős miniszter.
+
 ## Integrált engedélyezési eljárás
 
 20. § (1) Ha építésügyi hatósági eljáráson kívül más hatóság eljárásának lefolytatása is szükséges egyazon építési beruházás megvalósításához, akkor az építésügyi hatóság és más hatóságok engedélyezési eljárásait a közreműködő hatóság koordinálja integrált engedélyezési eljárásban.
@@ -10,6 +12,6 @@ a) az építmények (ideértve a műemléket, a sajátos építményfajtát is) 
 
 b) az építményben folytatott vagy az építmény használatához kapcsolódó tevékenység (nem építésügyi hatósági) engedélyezésére irányuló eljárások
 
-folytathatók le integrált engedélyezési eljárásban, amely esetében a közreműködő hatóság a Honvédelmi Minisztérium Hatósági Hivatal vezetője.
+folytathatók le integrált engedélyezési eljárásban, amely esetében a közreműködő hatóság a honvédelemért felelős miniszter.
 
-[^26]: A 20. § (3) bekezdés záró szövegrésze a 158/2011. (VIII. 11.) Korm. rendelet 26. §-a szerint módosított szöveg.
+[^26]: A 20. § (3) bekezdés záró szövegrésze a 259/2016. (VIII. 31.) Korm. rendelet 76. §-a szerint módosított szöveg.
