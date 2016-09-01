@@ -78,7 +78,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 10. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 11. | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | Honvédelemért felelős miniszter |
+| 11. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
 | 12. | Termőföldvédelem | illetékes fővárosi és megyei kormányhivatal | földügyért felelős miniszter |
 
@@ -98,4 +98,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 20. | Vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-[^5]: A 2. számú melléklet a 72/2015. (III. 30.) Korm. rendelet 1. § b) pontjával megállapított szöveg.
+[^5]: A 2. számú melléklet a 72/2015. (III. 30.) Korm. rendelet 1. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 93. §-a szerint módosított szöveg.
