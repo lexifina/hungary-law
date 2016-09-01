@@ -2,7 +2,7 @@
 
 1.[^2] ágazati célkitűzések: a belügyminiszter által a rendvédelmi feladatokat ellátó szerv részére a tárgyévre vonatkozóan megállapított lényeges szakmai és szervezeti célok és elvárások;
 
-2.[^3] belügyi szerv: a Belügyminisztérium, a Közszolgálati Személyzetfejlesztési Főigazgatóság, a Belügyminisztérium Nemzetközi Oktatási Központ, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, valamint a 6. pontban felsorolt rendvédelmi feladatokat ellátó szervek;
+2.[^3] belügyi szerv: a Belügyminisztérium, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, az Alkotmányvédelmi Hivatal, a Nemzetbiztonsági Szakszolgálat, valamint a 6. pontban felsorolt rendvédelmi feladatokat ellátó szervek;
 
 3. értékelés: a teljesítmény megállapítására irányuló tevékenység, amikor – mérhető mutatók hiányában – az értékelő vezető megítélésén alapul a teljesítmény megállapítása;
 
@@ -51,7 +51,7 @@
 25. vezető besorolású értékelt személy: osztályvezető, vagy annál magasabb besorolású vezető.
 
 [^2]: A 2. § 1. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja szerint módosított szöveg.
-[^3]: A 2. § 2. pontja a 16/2015. (IV. 17.) BM rendelet 13. §-a, a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja, a 29/2016. (VII. 15.) BM rendelet 32. §-a szerint módosított szöveg.
+[^3]: A 2. § 2. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 1. pontja, a 29/2016. (VII. 15.) BM rendelet 32. §-a, a 37/2016. (IX. 1.) BM rendelet 13. §-a szerint módosított szöveg.
 [^4]: A 2. § 6. pontja a 29/2016. (VII. 15.) BM rendelet 31. § (1) bekezdésével megállapított szöveg.
 [^5]: A 2. § 7. pontja a 37/2015. (VI. 16.) BM rendelet 78. § (1) bekezdés 2. pontja szerint módosított szöveg.
 [^6]: A 2. § 16. pontja a 29/2016. (VII. 15.) BM rendelet 31. § (2) bekezdésével megállapított szöveg.
