@@ -1,6 +1,6 @@
 ## 1. Általános rendelkezések
 
-1. § (1) A rendelet hatálya kiterjed a Magyar Honvédségre, a honvédelmi miniszter közvetlen alárendeltségébe, fenntartói irányítása, közvetlen irányítása, valamint felügyelete alá tartozó szervezetekre (a továbbiakban együtt: honvédelmi szervezet), a Magyar Honvédség személyi állományára, valamint a honvédelmi szervezetnél szervezett munkavégzés keretében munkát végző személyekre (a továbbiakban együtt: munkavállaló).
+1. § (1)[^1] A rendelet hatálya kiterjed a Magyar Honvédségre, a honvédelemért felelős miniszter közvetlen alárendeltségébe, fenntartói irányítása, közvetlen irányítása, valamint felügyelete alá tartozó szervezetekre (a továbbiakban együtt: honvédelmi szervezet), a Magyar Honvédség személyi állományára, valamint a honvédelmi szervezetnél szervezett munkavégzés keretében munkát végző személyekre (a továbbiakban együtt: munkavállaló).
 
 (2) E rendelet szerint kell bejelenteni, kivizsgálni és nyilvántartani
 
@@ -15,3 +15,5 @@ a) a külföldi szolgálatot ellátó honvédelmi szervezeteknél történő sze
 b) a honvédelmi szervezetnél kiképzés vagy egyéb szolgálati tevékenység ellátása céljából tartózkodó más állam katonáját ért baleset esetén.
 
 (4) A rendelet a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 9. § (3) bekezdése alapján az Mvt.-től eltérő szabályokat állapítja meg.
+
+[^1]: Az 1. § (1) bekezdése a 16/2016. (VIII. 31.) HM rendelet 4. § a) pontja szerint módosított szöveg.

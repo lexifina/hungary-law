@@ -1,4 +1,4 @@
-4. melléklet a 13/2011. (X. 20.) HM rendelethez
+4. melléklet a 13/2011. (X. 20.) HM rendelethez[^3]
 
 | FEJRÉSZ | ...................... példány |
 
@@ -16,7 +16,7 @@ Tájékoztatom, hogy az Ön által bejelentett, ................................
 
 nem honvédelmi baleset.
 
-Az értesítés ellen a kézhezvételtől számított 15 napon belül a HM Hatósági Hivatalhoz címzett, de hozzám benyújtott panasszal élhet.
+Az értesítés ellen a kézhezvételtől számított 15 napon belül a honvédelemért felelős miniszter által vezetett minisztériumhoz címzett, de hozzám benyújtott panasszal élhet.
 
 INDOKOLÁS
 
@@ -45,3 +45,5 @@ Egy példány: lap
 Kapják: 1. sz. pld.: Sérült
 
 2. sz. pld.: Irattár
+
+[^3]: A 4. melléklet a 16/2016. (VIII. 31.) HM rendelet 4. § b) pontja szerint módosított szöveg.
