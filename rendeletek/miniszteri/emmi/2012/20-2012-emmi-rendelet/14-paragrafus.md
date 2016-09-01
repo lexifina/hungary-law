@@ -6,10 +6,10 @@
 
 (4) A kötelező felvételt biztosító iskolának, valamint a nemzetiségi iskolai nevelést és oktatást nyújtó iskolának lehetőséget kell biztosítania arra, hogy azok is megkezdhessék, valamint folytathassák tanulmányaikat, akik a szabadon választott tanítási órákon nem kívánnak részt venni.
 
-(5)[^20] Az iskolának – az alapfokú művészeti iskola kivételével – minden év május 20-áig fel kell mérnie, hogy a tanuló a következő tanítási évben milyen szabadon választott tanítási órán kíván részt venni.
+(5)[^30] Az iskolának – az alapfokú művészeti iskola kivételével – minden év május 20-áig fel kell mérnie, hogy a tanuló a következő tanítási évben milyen szabadon választott tanítási órán kíván részt venni.
 
 (6) A tanulónak, vagy kiskorú tanuló esetén a szülőnek írásban kell bejelentenie, ha a tanuló a következő tanítási évben már nem kíván részt venni a szabadon választott tanítási órán, továbbá ha jelentkezni kíván a szabadon választott tanítási órára.
 
 (7) Az (1)–(2) bekezdésben foglaltakat alkalmazni kell azoknál a tanulóknál is, akik az egységes iskolában vesznek részt az alapfokú művészetoktatásban.
 
-[^20]: A 14. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^30]: A 14. § (5) bekezdése a 45/2014. (X. 27.) EMMI rendelet 7. §-ával megállapított szöveg.

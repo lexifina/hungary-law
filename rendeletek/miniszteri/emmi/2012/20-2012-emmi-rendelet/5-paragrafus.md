@@ -4,7 +4,7 @@
 
 a) a gyermek, tanuló távolmaradásának, mulasztásának, késésének igazolására vonatkozó előírásokat,
 
-b) a térítési díj, tandíj befizetésére, visszafizetésére vonatkozó rendelkezéseket, továbbá a tanuló által előállított termék, dolog, alkotás vagyoni jogára vonatkozó díjazás szabályait,
+b)[^13] az állami fenntartású nevelési-oktatási intézmények kivételével a térítési díj, tandíj befizetésére, visszafizetésére vonatkozó rendelkezéseket, továbbá a tanuló által előállított termék, dolog, alkotás vagyoni jogára vonatkozó díjazás szabályait,
 
 c) a szociális ösztöndíj, a szociális támogatás megállapításának és felosztásának elveit, a nem alanyi jogon járó tankönyvtámogatás elvét, az elosztás rendjét,
 
@@ -18,7 +18,7 @@ g) elektronikus napló használata esetén a szülő részéről történő hozz
 
 h) az osztályozó vizsga tantárgyankénti, évfolyamonkénti követelményeit, a tanulmányok alatti vizsgák tervezett idejét, az osztályozó vizsgára jelentkezés módját és határidejét,
 
-i)[^9] a tankönyvellátás iskolán belüli szabályait.
+i)[^14] a tankönyvellátás iskolán belüli szabályait.
 
 (2) Az (1) bekezdésben foglaltakon túl az iskola és a kollégium házirendje állapítja meg
 
@@ -36,4 +36,5 @@ f) az iskola és a kollégium helyiségei, berendezési tárgyai, eszközei és 
 
 g) az iskola, kollégium által szervezett, a pedagógiai program végrehajtásához kapcsolódó iskolán, kollégiumon kívüli rendezvényeken elvárt tanulói magatartást.
 
-[^9]: Az 5. § (1) bekezdés i) pontját a 45/2014. (X. 27.) EMMI rendelet 2. §-a iktatta be.
+[^13]: Az 5. § (1) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 27. § 4. pontja szerint módosított szöveg.
+[^14]: Az 5. § (1) bekezdés i) pontját a 45/2014. (X. 27.) EMMI rendelet 2. §-a iktatta be.

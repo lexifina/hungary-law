@@ -6,7 +6,7 @@
 
 ## 1. § A rendelet hatálya – fenntartóra tekintet nélkül – kiterjed
 
-a) a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 7. § (1) bekezdés a)–h) pontjában foglalt nevelési-oktatási intézményekre,
+a)[^1] a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban: Nkt.) 7. § (1) bekezdés a)–j) pontjában foglalt nevelési-oktatási intézményekre,
 
 b) a nevelési-oktatási intézménybe felvett gyermekekre, tanulókra,
 
@@ -14,7 +14,7 @@ c) a pedagógus és a nevelő és oktató munkát közvetlenül segítő munkak�
 
 d) a gyermekek, tanulók szüleire, törvényes képviselőire (a továbbiakban együtt: szülők),
 
-e)[^1] a fővárosi és megyei kormányhivatalokra (a továbbiakban: kormányhivatal), valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalaira (a továbbiakban: járási hivatal),
+e)[^2] a fővárosi és megyei kormányhivatalokra (a továbbiakban: kormányhivatal), valamint a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalaira (a továbbiakban: járási hivatal),
 
 f) az oktatásért felelős miniszter köznevelési feladatkörében eljáró, kormányrendeletben kijelölt központi hivatalára (a továbbiakban: hivatal),
 
@@ -24,4 +24,5 @@ h) a pedagógiai szakszolgálat keretében ellátott szakértői bizottsági tev
 
 i) a névhasználatra vonatkozó rendelkezések tekintetében a pedagógiai szakszolgálati intézményekre, a pedagógiai-szakmai szolgáltató intézményekre és a többcélú köznevelési intézményekre is.
 
-[^1]: Az 1. § e) pontja a 22/2013. (III. 22.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^1]: Az 1. § a) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 1. pontja szerint módosított szöveg.
+[^2]: Az 1. § e) pontja a 22/2013. (III. 22.) EMMI rendelet 1. §-ával megállapított szöveg.

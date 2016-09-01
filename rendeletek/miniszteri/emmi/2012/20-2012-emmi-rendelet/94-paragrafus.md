@@ -1,51 +1,59 @@
-## 94. § Az iskola által használt nyomtatvány
+## 94. §[^164] Az iskola által használt nyomtatvány
 
-a) a beírási napló,
+1. a beírási napló,
 
-b) a bizonyítvány,
+2. a bizonyítvány,
 
-c) a nemzetiségi bizonyítvány,
+3. a nemzetiségi bizonyítvány,
 
-d) az érettségi bizonyítvány, az érettségi tanúsítvány,
+4. az érettségi bizonyítvány, az érettségi tanúsítvány,
 
-e) a szakmai vizsga letételét tanúsító bizonyítvány,
+5. a szakmai vizsga letételét tanúsító bizonyítvány,
 
-f) a törzslap külíve, belíve,
+6. a törzslap külíve, belíve,
 
-g) a nemzetiségi törzslap külíve, belíve,
+7. a nemzetiségi törzslap külíve, belíve,
 
-h) a törzslap külíve, belíve érettségi vizsgához, az érettségi törzslap kivonata,
+8. a törzslap külíve, belíve érettségi vizsgához, az érettségi törzslap kivonata,
 
-i) a törzslap külíve, belíve szakmai vizsgához,
+9. törzslap külíve, belíve szakmai vizsgához,
 
-j) az értesítő (ellenőrző),
+10. az értesítő (ellenőrző),
 
-k) az osztálynapló,
+11. az osztálynapló,
 
-l) a csoportnapló,
+12. a csoportnapló,
 
-m) az egyéb foglalkozási napló,
+13. az egyéb foglalkozási napló,
 
-n) a jegyzőkönyv a tanulmányok alatti vizsgához,
+14. a jegyzőkönyv a tanulmányok alatti vizsgához,
 
-o) az osztályozóív tanulmányok alatti vizsgához,
+15. az osztályozóív a tanulmányok alatti vizsgához,
 
-p) az érettségi vizsga vizsgaszabályzatában meghatározott nyomtatványok,
+16. az érettségi vizsga vizsgaszabályzatában meghatározott nyomtatványok,
 
-q) az órarend,
+17. az órarend,
 
-r) a tantárgyfelosztás,
+18. a tantárgyfelosztás,
 
-s) a továbbtanulók nyilvántartása,
+19. a továbbtanulók nyilvántartása,
 
-t) az egyéni és csoportos foglalkozási napló az alapfokú művészeti iskolában,
+20. az egyéni és csoportos foglalkozási napló az alapfokú művészeti iskolában,
 
-u) az egyéni és csoportos foglalkozási napló a zeneművészeti szakközépiskolában,
+21. az egyéni és csoportos foglalkozási napló a zeneművészeti szakközépiskolában,
 
-v) az étkeztetési nyilvántartás,
+22. az étkeztetési nyilvántartás,
 
-w) a közösségi szolgálati jelentkezési lap,
+23. a közösségi szolgálati jelentkezési lap,
 
-x) a tanulói jogviszony igazoló lapja,
+24. a tanulói jogviszony igazoló lapja,
 
-y) a tanúsítvány a Hídprogram elvégzéséről.
+25. a tanúsítvány a Köznevelési Hídprogram elvégzéséről, tanúsítvány a Szakképzési Hídprogram elvégzéséről,
+
+26. a tanulószerződés-minta,
+
+27. a gyakorlati foglalkozásról vezetett napló,
+
+28. az együttműködési megállapodás.
+
+[^164]: A 94. § a 20/2016. (VIII. 24.) EMMI rendelet 8. §-ával megállapított szöveg.

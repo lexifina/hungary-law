@@ -1,6 +1,6 @@
 35. § (1) A vizsga dolgozatainak javítását a hivatal által kiadott javítási-értékelési útmutató alapján kell elvégezni. A feladatlapokat és a javítási-értékelési útmutatókat legkésőbb a vizsga napját követő napon a hivatal a honlapján közzéteszi.
 
-(2)[^69] Az írásbeli vizsgát szervező intézmény a KIFIR rendszerben rögzíti a vizsgán való részvétel tényét, a 33. § (3) bekezdés alapján biztosított speciális körülményeket, a vizsgaeredményeket, valamint elvégzi az értékelő lapok előállítását, kinyomtatását, hitelesítését.
+(2)[^86] Az írásbeli vizsgát szervező intézmény a KIFIR rendszerben rögzíti a vizsgán való részvétel tényét, a 33. § (3) bekezdés alapján biztosított speciális körülményeket, a vizsgaeredményeket, valamint elvégzi az értékelő lapok előállítását, kinyomtatását, hitelesítését.
 
 (3) Az írásbeli vizsga kiértékelt dolgozatait a vizsgázó és szülője az iskola képviselőjének jelenlétében, az igazgató által meghatározott helyen és időben megtekintheti, azokról kézzel vagy elektronikus úton másolatot készíthet, és – kizárólag a hivatalos javítási-értékelési útmutatótól eltérő értékelés esetén – az értékelésre észrevételt tehet. Ha az iskolában a feltételek rendelkezésre állnak, a vizsgázó kérésére a saját kiértékelt dolgozatáról másolatot kell készíteni.
 
@@ -12,4 +12,4 @@
 
 (7) A hivatal a fenntartott észrevételt érdemben elbírálja. A bírálat eredményét határozat formájában, megfelelő indokolással, az észrevétel benyújtását követő nyolc munkanapon belül rövid úton (elektronikus úton) írásban közli az iskolával, valamint postai úton megküldi az iskolának és az észrevételt tevőnek.
 
-[^69]: A 35. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 12. pontja szerint módosított szöveg.
+[^86]: A 35. § (2) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 12. pontja szerint módosított szöveg.

@@ -4,7 +4,7 @@
 
 ## 39. A köznevelési intézmény hivatalos neve
 
-123. § (1)[^150] A köznevelési intézmény a működése során kizárólag olyan nevet használhat, amely megfelel az e rendeletben meghatározottaknak és – a (2) bekezdés e) pontját kivéve –szerepel a köznevelési intézmény alapító okiratában, szakmai alapdokumentumában.
+123. § (1)[^190] A köznevelési intézmény a működése során kizárólag olyan nevet használhat, amely megfelel az e rendeletben meghatározottaknak és – a (2) bekezdés e) pontját kivéve –szerepel a köznevelési intézmény alapító okiratában, szakmai alapdokumentumában.
 
 (2) A köznevelési intézmény
 
@@ -14,7 +14,7 @@ b) többcélú intézmény esetében a hivatalos névből képzett rövid nevet,
 
 c) tagintézmény esetében a hivatalos név vagy a rövid név feltüntetésével képzett tagintézményi nevet,
 
-d)[^151] az a)–c) pont szerinti nevet nemzetiségi vagy idegen nyelven,
+d)[^191] az a)–c) pont szerinti nevet nemzetiségi vagy idegen nyelven,
 
 e) rövidített nevet
 
@@ -22,54 +22,51 @@ e) rövidített nevet
 
 (3) A köznevelési intézmény hivatalos neve az az egyedi, megkülönböztetésre alkalmas és az ellátott feladatokat tükröző, jogszabály szerinti megnevezésekből álló elnevezés, amely kifejezi azt a tevékenységet, amelyre az adott köznevelési intézményt létrehozták.
 
-(4) A köznevelési intézmény jogszabály szerinti megnevezése
+(4)[^192] A köznevelési intézmény jogszabály szerinti megnevezése
 
-a)[^152] óvoda, egységes óvoda-bölcsőde,
+1. óvoda, egységes óvoda-bölcsőde,
 
-b) általános iskola,
+2. általános iskola,
 
-c) szakiskola,
+3. gimnázium,
 
-d) gimnázium,
+4. szakgimnázium,
 
-e) szakközépiskola,
+5. szakközépiskola,
 
-f) alapfokú művészeti iskola,
+6. szakiskola,
 
-g) speciális szakiskola,
+7. készségfejlesztő iskola,
 
-h) készségfejlesztő speciális szakiskola,
+8. alapfokú művészeti iskola,
 
-i) előkészítő szakiskola,
+9. nyelvoktató nemzetiségi iskola,
 
-j) nyelvoktató nemzetiségi iskola,
+10. kollégium,
 
-k) kollégium,
+11. pedagógiai szakszolgálat,
 
-l) pedagógiai szakszolgálat,
+12. fejlesztő nevelés-oktatást végző iskola,
 
-m) fejlesztő nevelés-oktatást végző iskola,
+13. pedagógiai intézet,
 
-n) pedagógiai intézet,
+14. egységes gyógypedagógiai módszertani intézmény,
 
-o) egységes gyógypedagógiai módszertani intézmény, valamint
+15. egységes konduktív pedagógiai módszertani intézmény, valamint
 
-p) egységes konduktív pedagógiai módszertani intézmény,
-
-q)[^153] szakképzési centrum
+16. szakképzési centrum
 
 ## lehet.
 
-(5)[^154] A honvédelemért felelős miniszter által fenntartott, szakképzési feladatot ellátó katonai köznevelési intézmények, továbbá más, a magyar oktatástörténetben jelentős hagyományokkal rendelkező köznevelési intézmények esetében – az oktatásért felelős miniszter egyetértésével – a (4) bekezdésétől eltérő megnevezés is alkalmazható.
+(5)[^193] A honvédelemért felelős miniszter által fenntartott, szakképzési feladatot ellátó katonai köznevelési intézmények, továbbá más, a magyar oktatástörténetben jelentős hagyományokkal rendelkező köznevelési intézmények esetében – az oktatásért felelős miniszter egyetértésével – a (4) bekezdésétől eltérő megnevezés is alkalmazható.
 
-(6)[^155] Ha az országos nemzetiségi önkormányzat önálló iskola létesítésével megszervezte az anyanyelv és népismeret követelményeinek oktatását, az iskola hivatalos nevében a kiegészítő nemzetiségi oktatás jogszabály szerinti megnevezése a nyelvoktató nemzetiségi iskola. A megnevezés tartalmazza az adott nemzetiségi nyelv megjelölését.
+(6)[^194] Ha az országos nemzetiségi önkormányzat önálló iskola létesítésével megszervezte az anyanyelv és népismeret követelményeinek oktatását, az iskola hivatalos nevében a kiegészítő nemzetiségi oktatás jogszabály szerinti megnevezése a nyelvoktató nemzetiségi iskola. A megnevezés tartalmazza az adott nemzetiségi nyelv megjelölését.
 
-(7)[^156] A gyógypedagógiai nevelési-oktatási intézmény, az egységes iskola és az összetett iskola, valamint e feladatokra létrehozott intézményegységek esetében a (4) bekezdés szerinti megnevezéssel kell a hivatalos nevet megállapítani.
+(7)[^195] A gyógypedagógiai nevelési-oktatási intézmény, az egységes iskola és az összetett iskola, valamint e feladatokra létrehozott intézményegységek esetében a (4) bekezdés szerinti megnevezéssel kell a hivatalos nevet megállapítani.
 
-[^150]: A 123. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 4. pontja szerint módosított szöveg.
-[^151]: A 123. § (2) bekezdés d) pontja a 45/2014. (X. 27.) EMMI rendelet 54. § 25. pontja szerint módosított szöveg.
-[^152]: A 123. § (4) bekezdés a) pontja a 45/2014. (X. 27.) EMMI rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^153]: A 123. § (4) bekezdés q) pontját a 32/2015. (VI. 19.) EMMI rendelet 7. §-a iktatta be.
-[^154]: A 123. § (5) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § i) pontja szerint módosított szöveg.
-[^155]: A 123. § (6) bekezdését a 45/2014. (X. 27.) EMMI rendelet 27. § (2) bekezdése iktatta be.
-[^156]: A 123. § (7) bekezdését a 45/2014. (X. 27.) EMMI rendelet 27. § (2) bekezdése iktatta be.
+[^190]: A 123. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 54. § 4. pontja szerint módosított szöveg.
+[^191]: A 123. § (2) bekezdés d) pontja a 45/2014. (X. 27.) EMMI rendelet 54. § 25. pontja szerint módosított szöveg.
+[^192]: A 123. § (4) bekezdése a 20/2016. (VIII. 24.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^193]: A 123. § (5) bekezdése a 22/2013. (III. 22.) EMMI rendelet 39. § i) pontja szerint módosított szöveg.
+[^194]: A 123. § (6) bekezdését a 45/2014. (X. 27.) EMMI rendelet 27. § (2) bekezdése iktatta be.
+[^195]: A 123. § (7) bekezdését a 45/2014. (X. 27.) EMMI rendelet 27. § (2) bekezdése iktatta be.

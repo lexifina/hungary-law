@@ -4,11 +4,11 @@
 
 a) a működési engedély iránti kérelem tárgyát,
 
-b)[^225] a nevelési-oktatási intézményt nyilvántartásba vevő szerv nevét, címét, a nyilvántartásba vételről szóló határozat számát, keltét, költségvetési szerv esetén a bejegyzés napját,
+b)[^277] a nevelési-oktatási intézményt nyilvántartásba vevő szerv nevét, címét, a nyilvántartásba vételről szóló határozat számát, keltét, költségvetési szerv esetén a bejegyzés napját,
 
-c) az alapító nevét, működési formáját, nyilvántartásba vételének formáját és azonosítóját, székhelyét, értesítési címét,
+c)[^278] az alapító nevét,, székhelyét, értesítési címét,
 
-d) a fenntartó nevét, működési formáját, nyilvántartásba vételének formáját és azonosítóját, székhelyét, értesítési címét,
+d)[^279] a fenntartó nevét,, székhelyét, értesítési címét,
 
 e) a nevelési-oktatási intézmény hivatalos nevét, az intézmény típusát, székhelyét,
 
@@ -38,7 +38,7 @@ fk) a tervezett óvodai csoportok számát,
 
 fl) az óvoda napi nyitvatartási idejét, a nyitás és a zárás időpontját,
 
-fm) szakképzés esetén a szakképesítés megnevezését, azonosító számát és szakközépiskola esetén az ágazat megnevezését az Országos Képzési Jegyzékben meghatározottak szerint, a gyakorlati képzés megszervezésének módját (iskolai tanműhely, tanulószerződés alapján, megállapodás keretében, munkarendenként),
+fm)[^280] szakképzés esetén a szakképesítés megnevezését, azonosító számát és szakgimnázium esetén az ágazat megnevezését az Országos Képzési Jegyzékben meghatározottak szerint, a gyakorlati képzés megszervezésének módját (iskolai tanműhely, tanulószerződés alapján, megállapodás keretében, munkarendenként),
 
 fn) alapfeladatonként és munkarendenként a legmagasabb gyermek- és tanulói létszámot,
 
@@ -46,7 +46,7 @@ g) a nevelési-oktatási intézmény feladatával, működésével kapcsolatos e
 
 (2) A működési engedély iránti kérelemhez eredetiben vagy másolatban – másolat esetén az eljárás során a kormányhivatal kérheti az eredeti dokumentum bemutatását – csatolni kell
 
-a)[^226] a nevelési-oktatási intézmény alapító okiratát, valamint a nyilvántartásba vételről szóló jogerős határozatot, költségvetési szerv esetén a törzskönyvi igazolást,
+a)[^281] a nevelési-oktatási intézmény alapító okiratát, valamint a nyilvántartásba vételről szóló jogerős határozatot, költségvetési szerv esetén a törzskönyvi igazolást,
 
 b) a pedagógiai programot,
 
@@ -54,20 +54,25 @@ c) fenntartói igazolást arról, hogy a feladatai ellátásához szükséges, j
 
 d) annak igazolását, hogy a helyiségek a nevelési-oktatási intézmény feladatainak ellátására alkalmasak (használatba vételi engedély, hatósági bizonyítvány),
 
-e) szakképzésben részt vevő iskola esetén annak ismertetését, hogy a gyakorlati oktatást milyen módon szervezik meg, saját gyakorlati oktatási hely hiányában a gyakorlati oktatási hely biztosítására kötött megállapodást vagy nyilatkozatot arról, hogy a gyakorlati képzést tanulószerződés alapján végzik,
+e)[^282] szakképző iskola esetén annak ismertetését, hogy a gyakorlati oktatást milyen módon szervezik meg, saját gyakorlati oktatási hely hiányában a gyakorlati oktatási hely biztosítására kötött megállapodást vagy nyilatkozatot arról, hogy a gyakorlati képzést tanulószerződés alapján végzik,
 
-f) a székhelyre és valamennyi telephelyre vonatkozóan külön-külön a tárgyi feltételek meglétét igazoló tételes jegyzéket – a 161. § (1) bekezdése szerinti kötelező (minimális) eszköz- és felszerelési jegyzékben meghatározottak szerint elkészítve, külön feltüntetve a testnevelési és a gyakorlati foglalkozások megtartását szolgáló helyiségeket –, valamint a fenntartó nyilatkozatát arról, hogy a működés megkezdéséhez, a nevelő, oktató munkához szükséges, jogszabályban meghatározott tárgyi feltételek rendelkezésre állnak vagy fokozatosan megteremthetők, felmenő rendszerben történő oktatásszervezés esetén az eszközök és felszerelések beszerzésének ütemtervét, szakképzésben részt vevő iskola esetén a gyakorlati képzésre vonatkozó felszerelési jegyzéket,
+f)[^283] a székhelyre és valamennyi telephelyre vonatkozóan külön-külön a tárgyi feltételek meglétét igazoló tételes jegyzéket – a 161. § (1) bekezdése szerinti kötelező (minimális) eszköz- és felszerelési jegyzékben meghatározottak szerint elkészítve, külön feltüntetve a testnevelési és a gyakorlati foglalkozások megtartását szolgáló helyiségeket –, valamint a fenntartó nyilatkozatát arról, hogy a működés megkezdéséhez, a nevelő, oktató munkához szükséges, jogszabályban meghatározott tárgyi feltételek rendelkezésre állnak vagy fokozatosan megteremthetők, felmenő rendszerben történő oktatásszervezés esetén az eszközök és felszerelések beszerzésének ütemtervét, szakképző iskola esetén a gyakorlati képzésre vonatkozó felszerelési jegyzéket,
 
 g) a székhelyre és valamennyi telephelyre vonatkozóan külön-külön az óvodai nevelésben, az iskolai nevelésben-oktatásban foglalkoztatott pedagógusok, óraadók listáját, feltüntetve a pedagógusok nevét, végzettségét és szakképzettségét, iskola esetén tantárgyi bontásban, valamint a pedagógus-végzettséget tanúsító oklevél kiállítóját és az oklevél számát, a tantárgyfelosztást, továbbá a működéshez szükséges többi alkalmazott nevét, végzettségét és szakképzettségét, foglalkoztatásuk módját és időtartamát, valamint a fenntartó nyilatkozatát arról, hogy a működés megkezdéséhez, a nevelő, oktató munkához szükséges, jogszabályban meghatározott személyi feltételek biztosítottak,
 
 h) a pénzügyi feltételek teljesítésének igazolásához
 
-ha)[^227] a nevelési-oktatási intézmény egészére vonatkozóan a székhelyre és valamennyi telephelyre vonatkozóan együttesen részletes kimutatást arról, hogy az intézmény tevékenységét milyen forrásokból finanszírozzák, a források között feltüntetve a feladatellátáshoz rendelkezésre álló készpénzt, a befektetett eszközök és forgóeszközök értékét, a tervezett bevételi forrásokat, a költségvetési hozzájárulást, és az egyéb támogatást, az előírt tandíjat, az alapítványi támogatást, a bankhitelt, minden egyéb bevételt, bármilyen, a működéshez felhasználható tárgyi vagy pénzbeli juttatást, a tevékenységben való ingyenes közreműködést,
+ha)[^284] a nevelési-oktatási intézmény egészére vonatkozóan a székhelyre és valamennyi telephelyre vonatkozóan együttesen részletes kimutatást arról, hogy az intézmény tevékenységét milyen forrásokból finanszírozzák, a források között feltüntetve a feladatellátáshoz rendelkezésre álló készpénzt, a befektetett eszközök és forgóeszközök értékét, a tervezett bevételi forrásokat, a költségvetési hozzájárulást, és az egyéb támogatást, az előírt tandíjat, az alapítványi támogatást, a bankhitelt, minden egyéb bevételt, bármilyen, a működéshez felhasználható tárgyi vagy pénzbeli juttatást, a tevékenységben való ingyenes közreműködést,
 
 hb) a fenntartó által jóváhagyott egy évre szóló költségvetést, amely tartalmazza a működéshez szükséges befektetett eszközök és forgóeszközök beszerzési értékét, a dologi és személyi kiadások összegét, utóbbiba beleértve az alkalmazottak bérét, annak közterheit és a tanulói juttatások költségeit, valamint
 
 hc) a fenntartó nyilatkozatát arról, hogy a feladatok ellátásához szükséges fedezetet biztosítja.
 
-[^225]: A 159. § (1) bekezdés b) pontja a 45/2014. (X. 27.) EMMI rendelet 40. § (1) bekezdésével megállapított szöveg.
-[^226]: A 159. § (2) bekezdés a) pontja a 45/2014. (X. 27.) EMMI rendelet 40. § (2) bekezdésével megállapított szöveg.
-[^227]: A 159. § (2) bekezdés h) pont ha) alpontja a 45/2014. (X. 27.) EMMI rendelet 40. § (3) bekezdésével megállapított szöveg.
+[^277]: A 159. § (1) bekezdés b) pontja a 45/2014. (X. 27.) EMMI rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^278]: A 159. § (1) bekezdés c) pontja a 20/2016. (VIII. 24.) EMMI rendelet 28. § 12. pontja szerint módosított szöveg.
+[^279]: A 159. § (1) bekezdés d) pontja a 20/2016. (VIII. 24.) EMMI rendelet 28. § 12. pontja szerint módosított szöveg.
+[^280]: A 159. § (1) bekezdés f) pont fm) alpontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 34. pont a) alpontja szerint módosított szöveg.
+[^281]: A 159. § (2) bekezdés a) pontja a 45/2014. (X. 27.) EMMI rendelet 40. § (2) bekezdésével megállapított szöveg.
+[^282]: A 159. § (2) bekezdés e) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 34. pont b) alpontja szerint módosított szöveg.
+[^283]: A 159. § (2) bekezdés f) pontja a 20/2016. (VIII. 24.) EMMI rendelet 27. § 34. pont b) alpontja szerint módosított szöveg.
+[^284]: A 159. § (2) bekezdés h) pont ha) alpontja a 45/2014. (X. 27.) EMMI rendelet 40. § (3) bekezdésével megállapított szöveg.

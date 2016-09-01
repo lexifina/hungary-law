@@ -1,6 +1,6 @@
 ## tartalmazza.
 
-11. § (1)[^16] A sajátos nevelési igényű gyermekek, tanulók
+11. § (1)[^26] A sajátos nevelési igényű gyermekek, tanulók
 
 a) óvodai nevelése esetén az óvoda pedagógiai programja a sajátos nevelési igényből eredő hátrányok csökkentését szolgáló speciális fejlesztő tevékenységet,
 
@@ -10,4 +10,4 @@ b) iskolai nevelése és oktatása esetén a helyi tanterv a fogyatékosság tí
 
 (2) A helyi tanterv, a szakmai program az egyes évfolyamok követelményeinek teljesítéséhez egy tanítási évnél hosszabb időt is megjelölhet.
 
-[^16]: A 11. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^26]: A 11. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 5. §-ával megállapított szöveg.

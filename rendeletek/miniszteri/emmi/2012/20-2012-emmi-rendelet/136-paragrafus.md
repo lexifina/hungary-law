@@ -1,17 +1,15 @@
-## 48. A két tanítási nyelvű középiskolai nevelés-oktatás feltételei
+## 48. [^229] A két tanítási nyelvű gimnáziumi, szakgimnáziumi nevelés-oktatás feltételei
 
-136. §[^182] (1)[^183] Két tanítási nyelvű nevelés-oktatás adott célnyelvből abban a középiskolában folytatható, amelyik három egymást követő tanévben megfelel az alábbi feltételeknek:
+136. § (1) Két tanítási nyelvű nevelés-oktatás adott célnyelvből abban a gimnáziumban, szakgimnáziumban folytatható, amelyik három egymást követő tanév átlagában megfelel annak a feltételnek, hogy a két tanítási nyelvű nevelés-oktatásban érettségi vizsgabizonyítványt szerzett gimnáziumi tanulók kilencven százaléka, a szakgimnáziumi tanulók nyolcvan százaléka a célnyelvből rendelkezik a KER szerinti B2 szintű nyelvtudást igazoló érettségi vizsgaeredménnyel vagy államilag elismert nyelvvizsgával.
 
-a) a két tanítási nyelvű nevelés-oktatásban részt vevő tanulók ötven százaléka a tizedik évfolyam végére megfelel a hivatal által szervezett, a KER szerinti B2 szintű nyelvtudást mérő célnyelvi mérésben meghatározott követelményeknek,
+(2) Amennyiben a gimnázium, a szakgimnázium az (1) bekezdésben foglaltaknak nem felel meg, új két tanítási nyelvű nevelés-oktatásra a mérések eredményének nyilvánosságra hozatalát követő évben kezdődő tanévben a kezdő évfolyamára nem hirdethet felvételt.
 
-b) a két tanítási nyelvű nevelés-oktatásba a képzés indulásának tanévére beiratkozott tanulók legalább nyolcvan százaléka a két tanítási nyelvű nevelés-oktatásban a célnyelvből két tanítási nyelvű érettségi vizsgabizonyítványt szerzett, és
+(3) Az (1) bekezdésben foglalt feltétel teljesülését egy intézményben célnyelvenként, az adott célnyelvet egy évfolyamon tanulók összesített eredménye alapján kell vizsgálni.
 
-c) a két tanítási nyelvű nevelés-oktatásban érettségi vizsgabizonyítványt szerzett tanulók kilencven százaléka a célnyelvből rendelkezik a KER szerinti B2 szintű nyelvtudást igazoló érettségi vizsgaeredménnyel vagy államilag elismert nyelvvizsgával.
+(4) Két tanítási nyelvű nevelés-oktatás abban az intézményben indítható, amelyben az (1) bekezdés szerinti feltételt az idegen nyelv tekintetében teljesítik.
 
-(2) Az (1) bekezdés a) pontjában meghatározott mérés alól mentesül az a tanuló, aki a mérés időpontjáig bemutatja a célnyelvből szerzett, a KER szerinti B2 szintű nyelvtudást igazoló államilag elismert nyelvvizsga-bizonyítványát.
+(5) Az (1) bekezdésben foglalt feltétel teljesülését egy intézményben célnyelvenként, az adott célnyelvet egy évfolyamon tanulók összesített eredménye alapján a fenntartónak kell évente vizsgálnia, és a feltétel nem teljesülése esetén a (2) bekezdés szerinti intézkedést megtennie.
 
-(3)[^184] Amennyiben a középiskola az (1) bekezdésben foglaltaknak nem felel meg, új két tanítási nyelvű nevelés-oktatásra a következő tanévben a kezdő évfolyamára nem hirdethet felvételt.
+(6) Fenntartóváltás esetén az (1) bekezdés szerinti feltételt csak a fenntartóváltás évét követő évtől, felmenő rendszerben kell alkalmazni.
 
-[^182]: A 136. § a 22/2013. (III. 22.) EMMI rendelet 24. §-ával megállapított szöveg.
-[^183]: A 136. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 36. § (1) bekezdésével megállapított szöveg.
-[^184]: A 136. § (3) bekezdése a 45/2014. (X. 27.) EMMI rendelet 36. § (2) bekezdésével megállapított szöveg.
+[^229]: A 48. alcím (136. §) a 20/2016. (VIII. 24.) EMMI rendelet 15. §-ával megállapított szöveg.

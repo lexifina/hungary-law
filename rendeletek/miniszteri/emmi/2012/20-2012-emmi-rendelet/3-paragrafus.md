@@ -24,7 +24,9 @@ f) az intézmény bemutatkozását szolgáló pedagógiai célú óvodai, iskola
 
 g) az alapfokú művészeti iskola és kollégium kivételével a tanulók fizikai állapotát felmérő vizsgálat időpontját,
 
-h) minden egyéb, a nevelőtestület által szükségesnek ítélt kérdést.
+h) minden egyéb, a nevelőtestület által szükségesnek ítélt kérdést,
+
+i)[^9] az iskolai kórus időpontjait, amely foglalkozás ideje alatt más tanórán kívüli tevékenység a kórustagok számára nem folytatható.
 
 (3) Az iskolai tanítás nélküli munkanapok időpontjáról az iskola a vele tanulói jogviszonyban álló tanulók elhelyezését biztosító kollégiumot, a gyakorlati képzés folytatóját és szervezőjét, valamint a vele kapcsolatban álló alapfokú művészeti iskolát tájékoztatja. A kollégiumban az iskolai tanítás nélküli munkanapokkal összhangban az adott iskolával tanulói jogviszonyban álló tanulók vonatkozásában kollégiumi foglalkozás nélküli munkanap tartható.
 
@@ -36,6 +38,7 @@ h) minden egyéb, a nevelőtestület által szükségesnek ítélt kérdést.
 
 (7) Az óvodában a napirendet úgy kell kialakítani, hogy a szülők – a házirendben meghatározottak szerint – gyermeküket az óvodai tevékenység zavarása nélkül behozhassák és hazavihessék. Az óvoda nyári zárva tartásáról legkésőbb február tizenötödikéig, a nevelés nélküli munkanapokról legalább hét nappal a zárva tartást megelőzően a szülőket tájékoztatni kell.
 
-(8)[^7]
+(8)[^10]
 
-[^7]: A 3. § (8) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § a) pontja hatályon kívül helyezte.
+[^9]: A 3. § (2) bekezdés i) pontját a 20/2016. (VIII. 24.) EMMI rendelet 2. §-a iktatta be.
+[^10]: A 3. § (8) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § a) pontja hatályon kívül helyezte.

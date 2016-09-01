@@ -32,9 +32,9 @@ f) a személyi higiéné
 
 (6) A helyi egészségfejlesztési programot a nevelőtestület az iskola-egészségügyi szolgálat közreműködésével készíti el.
 
-(7)[^163] A nevelési-oktatási intézmény saját pedagógus-munkakörben foglalkoztatott alkalmazottján és az intézményben iskola-egészségügyi szolgálatot ellátó szakemberen kívül csak olyan, a nevelési-oktatási intézménnyel jogviszonyban nem álló szakembert vagy szervezet programját megvalósító személyt vonhat be tanórai vagy gyermek, tanuló részére szervezett egyéb foglalkozás vagy egyéb egészségfejlesztési és prevenciós tevékenység megszervezésébe, aki vagy amely rendelkezik az egészségügyért felelős miniszter által kijelölt intézmény szakmai ajánlásával.
+(7)[^205] A nevelési-oktatási intézmény saját pedagógus-munkakörben foglalkoztatott alkalmazottján és az intézményben iskola-egészségügyi szolgálatot ellátó szakemberen kívül csak olyan, a nevelési-oktatási intézménnyel jogviszonyban nem álló szakembert vagy szervezet programját megvalósító személyt vonhat be tanórai vagy gyermek, tanuló részére szervezett egyéb foglalkozás vagy egyéb egészségfejlesztési és prevenciós tevékenység megszervezésébe, aki vagy amely rendelkezik az egészségügyért felelős miniszter által kijelölt intézmény szakmai ajánlásával.
 
-(8)[^164] A nevelési-oktatási intézmény vezetője az egészségfejlesztési és prevenciós programok kiválasztásánál beszerzi
+(8)[^206] A nevelési-oktatási intézmény vezetője az egészségfejlesztési és prevenciós programok kiválasztásánál beszerzi
 
 a) az intézményben dolgozó óvoda- vagy iskolapszichológus,
 
@@ -44,10 +44,10 @@ c) amennyiben működik, a helyi vagy megyei Kábítószerügyi Egyeztető Fóru
 
 ## véleményét.
 
-(9)[^165] A nevelési-oktatási intézményekben megvalósuló teljes körű egészségfejlesztés módszertani útmutatóját az egészségfejlesztésért felelős országos intézet dolgozza ki.
+(9)[^207] A nevelési-oktatási intézményekben megvalósuló teljes körű egészségfejlesztés módszertani útmutatóját az egészségfejlesztésért felelős országos intézet dolgozza ki.
 
 (10) Az alapfokú művészeti iskolában az (1)–(9) bekezdés rendelkezéseit nem kell alkalmazni.
 
-[^163]: A 128. § (7) bekezdése a 45/2014. (X. 27.) EMMI rendelet 31. §-ával megállapított szöveg.
-[^164]: A 128. § (8) bekezdése a 45/2014. (X. 27.) EMMI rendelet 31. §-ával megállapított szöveg.
-[^165]: A 128. § (9) bekezdése a 45/2014. (X. 27.) EMMI rendelet 31. §-ával megállapított szöveg.
+[^205]: A 128. § (7) bekezdése a 45/2014. (X. 27.) EMMI rendelet 31. §-ával megállapított szöveg.
+[^206]: A 128. § (8) bekezdése a 45/2014. (X. 27.) EMMI rendelet 31. §-ával megállapított szöveg.
+[^207]: A 128. § (9) bekezdése a 45/2014. (X. 27.) EMMI rendelet 31. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 19. § (1) Egész napos iskolai nevelés-oktatást akkor szervezhet az általános iskola, ha szükség esetén másik osztály indításával, ha pedig ez nem oldható meg, az érintett tanuló, kiskorú tanuló esetén a szülő egyetértésével a tanuló másik iskolába történő átvételével gondoskodnak annak a tanulónak az ellátásáról, aki – kiskorú tanuló esetén akinek a szülei – nem kívánja ezt az ellátást igénybe venni. Egész napos iskolai nevelés és oktatás esetében a kötelező tanórai és egyéb foglalkozásokat a délelőtti és délutáni időszakra egyenletesen szétosztva, egymást váltva, a tanulók arányos terhelését figyelembe véve kell megszervezni. Az iskola a pedagógiai programját az Nkt. 26. § (3) bekezdésében meghatározottak alapján készíti el.
 
-(2)[^25]
+(2)[^35]
 
 (3) Az egész napos iskolai nevelés-oktatás keretében kell biztosítani
 
@@ -16,4 +16,4 @@ c) a felzárkóztatással és a tehetséggondozással kapcsolatos feladatok ell�
 
 (5) E szakasz rendelkezéseit az iskolaotthonos nevelés-oktatásra kifutó rendszerben kell alkalmazni.
 
-[^25]: A 19. § (2) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § b) pontja hatályon kívül helyezte.
+[^35]: A 19. § (2) bekezdését a 45/2014. (X. 27.) EMMI rendelet 55. § b) pontja hatályon kívül helyezte.
