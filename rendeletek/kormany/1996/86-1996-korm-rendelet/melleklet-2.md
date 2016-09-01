@@ -252,7 +252,7 @@
 
 ## 1.94.[^98] a Nemzeti Média- és Hírközlési Hatóság hatósági ellenőrzésre és intézkedésre feljogosított személyeinek igazolványa;
 
-## 1.95.[^99] a Nemzeti Fejlesztési Minisztérium, a Nemzeti Közlekedési Hatóság, a közlekedési feladatkörében eljáró fővárosi és megyei kormányhivatal, valamint a Közlekedésbiztonsági Szervezet által kiadott felügyeleti igazolványok;
+## 1.95.[^99] a Nemzeti Fejlesztési Minisztérium, a Nemzeti Közlekedési Hatóság, a közlekedési feladatkörében eljáró fővárosi és megyei kormányhivatal által kiadott felügyeleti igazolványok;
 
 ## 1.96. bányafelügyeleti hatósági feladatokat ellátó személyek részére rendszeresített igazolványok;
 
@@ -505,7 +505,7 @@ III. Az okmányvédelmi kategóriák és az okmányinformatikai védelmi kategó
 [^96]: Az 1. számú melléklet III. részének 1.92. pontját a 235/2007. (IX. 4.) Korm. rendelet 11. § (2) bekezdése iktatta be.
 [^97]: Az 1. számú melléklet III. rész 1. pont 1.93. alpontja a 318/2014. (XII. 13.) Korm. rendelet 1. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
 [^98]: Az 1. számú melléklet III. rész 1. pont 1.94. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.
-[^99]: Az 1. számú melléklet III. rész 1. pont 1.95. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^99]: Az 1. számú melléklet III. rész 1. pont 1.95. alpontja a 145/2011. (VII. 27.) Korm. rendelet 12. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 19. § c) pontja, a 230/2016. (VII. 29.) Korm. rendelet 7. § a) pontja szerint módosított szöveg.
 [^100]: Az 1. melléklet III. fejezet 1. pont 1.98. alpontja a 351/2010. (XII. 30.) Korm. rendelet 30. § f) pontjával megállapított szöveg.
 [^101]: Az 1. számú melléklet III. rész 1. pont 1.99. alpontját a 186/2016. (VII. 13.) Korm. rendelet 1. §-a hatályon kívül helyezte.
 [^102]: Az 1. számú melléklet III. rész 1. pont 1.100. alpontját a 145/2011. (VII. 27.) Korm. rendelet 12. §-a iktatta be, szövege a 23/2012. (II. 29.) Korm. rendelet 1. §-a szerint módosított szöveg.
