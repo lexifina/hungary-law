@@ -38,7 +38,7 @@
 
 16. MTA Csillagászati és Földtudományi Kutatóközpont Geodéziai és Geofizikai Intézet,
 
-17. Közlekedésbiztonsági Szervezet,
+17.[^7] közlekedésbiztonsági szerv,
 
 18. Magyar Közút Nonprofit Zártkörűen Működő Részvénytársaság, Útinform,
 
@@ -68,3 +68,4 @@
 [^4]: Az 1. melléklet 9a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 757. § c) pontja szerint módosított szöveg.
 [^5]: Az 1. melléklet 10. pontja az 527/2013. (XII. 30.) Korm. rendelet 153. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 233. §-a szerint módosított szöveg.
 [^6]: Az 1. melléklet 10a. pontját az 527/2013. (XII. 30.) Korm. rendelet 153. §-a iktatta be, hatályon kívül helyezte a 221/2014. (IX. 4.) Korm. rendelet 758. §-a.
+[^7]: Az 1. melléklet 17. pontja a 230/2016. (VII. 29.) Korm. rendelet 6. §-ával megállapított szöveg.
