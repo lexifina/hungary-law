@@ -24,7 +24,7 @@
 
 10. segélyhívás: amikor a rendőr saját maga észleli más személy segélykérését, és emiatt, ezzel összefüggésben intézkedésbe kezd,
 
-11.[^3] rendőri szerv: az Országos Rendőr-főkapitányság, a megyei (fővárosi) rendőr-főkapitányság, a rendőrkapitányság, a határrendészeti kirendeltség, a Készenléti Rendőrség, a Repülőtéri Rendőr Igazgatóság, a Bűnügyi Szakértői és Kutatóintézet, a Rendőrségi Oktatási és Kiképző Központ, a Nemzetközi Bűnügyi Együttműködési Központ, a Terrorelhárítási Központ, valamint a Nemzeti Védelmi Szolgálat,
+11.[^3] rendőri szerv: az Országos Rendőr-főkapitányság, a megyei (fővárosi) rendőr-főkapitányság, a rendőrkapitányság, a határrendészeti kirendeltség, a Készenléti Rendőrség, a Repülőtéri Rendőr Igazgatóság, a Bűnügyi Szakértői és Kutatóintézet, a Rendőrségi Oktatási és Kiképző Központ, a Nemzetközi Oktatási Központ, a Nemzetközi Bűnügyi Együttműködési Központ, a Terrorelhárítási Központ, valamint a Nemzeti Védelmi Szolgálat,
 
 12. támadással közvetlenül fenyegető magatartás: az a fellépés, amikor a támadó helyzetéből, tevékenységének módjából és eszközéből a rendőr alaposan következtet arra, hogy a támadás nyomban bekövetkezik,
 
@@ -40,7 +40,7 @@
 
 [^1]: Az 1. § a 68/2011. (XII. 30.) BM rendelet 35. § (1) bekezdése szerint módosított szöveg.
 [^2]: A 2. § 4. pontja a 37/2015. (VI. 16.) BM rendelet 44. § (1) bekezdésével megállapított szöveg.
-[^3]: A 2. § 11. pontja a 61/2015. (XI. 24.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § 11. pontja a 37/2016. (IX. 1.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^4]: A 2. § 13a. pontját a 37/2015. (VI. 16.) BM rendelet 44. § (2) bekezdése iktatta be.
 [^5]: A 2. § 14. pontját a 18/2013. (V. 9.) BM rendelet 1. §-a iktatta be.
 [^6]: A 2. § 15. pontját a 61/2015. (XI. 24.) BM rendelet 1. § (2) bekezdése iktatta be.
