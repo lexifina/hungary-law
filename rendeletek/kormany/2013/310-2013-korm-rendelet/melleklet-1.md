@@ -18,7 +18,7 @@ A hulladékgazdálkodási terv és a megelőzési program előkészítése sorá
 
 6. a Nemzeti Média-és Hírközlési Hatóságot a hírközlési szakkérdések vonatkozásában.
 
-7. a Honvédelmi Minisztérium Hatósági Hivatalát a honvédelmi szakkérdések vonatkozásában,
+7. a honvédelemért felelős minisztert a honvédelmi szakkérdések vonatkozásában,
 
 8. a területileg illetékes települési, fővárosi kerületi önkormányzat jegyzőjét, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyzőt a településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelés vonatkozásában,
 
@@ -45,4 +45,4 @@ g) fogyasztóvédelmi hatáskörében eljárva a fogyasztóvédelmi szakkérdés
 h) népegészségügyi hatáskörében eljárva a környezetbiztonsági és a közegészségügyi szakkérdések vonatkozásában.
 
 [^10]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: Az 1. mellékelt a 70/2015. (III. 30.) Korm. rendelet 228. § (2) bekezdésével megállapított, a 70/2016. (III. 31.) Korm. rendelet 3. § 4. pontja szerint módosított szöveg.
+[^11]: Az 1. mellékelt a 70/2015. (III. 30.) Korm. rendelet 228. § (2) bekezdésével megállapított, a 70/2016. (III. 31.) Korm. rendelet 3. § 4. pontja, a 259/2016. (VIII. 31.) Korm. rendelet 30. §-a szerint módosított szöveg.
