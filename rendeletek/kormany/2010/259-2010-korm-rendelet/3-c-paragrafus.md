@@ -1,3 +1,3 @@
-## 3/B. §[^5] A Támogatáskezelő közreműködik egyes fejezeti kezelésű előirányzatok pályázati, illetve más úton történő felhasználásának előkészítésében, lebonyolításában és ellenőrzésében, valamint európai uniós forrásból támogatott fejlesztések tervezésében, előkészítésében, megvalósításában, elszámolásában és lezárásában.
+## 3/B. §[^5] A Támogatáskezelő ellátja a jogszabályban meghatározott elkülönített állami pénzalap és a miniszter által megjelölt vagy jogszabály alapján kijelölt fejezeti kezelésű előirányzatok, ösztöndíjak és más programok pályázati, illetve más úton történő felhasználásának társadalompolitikai koordinációjával, előkészítésével, lebonyolításával és ellenőrzésével kapcsolatos feladatokat, valamint – szükség szerint – közreműködik az európai uniós forrásból támogatott fejlesztések tervezésében, előkészítésében, megvalósításában, elszámolásában és lezárásában.
 
-[^5]: A 3/B. §-t a 221/2014. (IX. 4.) Korm. rendelet 480. §-a iktatta be.
+[^5]: A 3/B. §-t a 221/2014. (IX. 4.) Korm. rendelet 480. §-a iktatta be, szövege a 253/2016. (VIII. 24.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.

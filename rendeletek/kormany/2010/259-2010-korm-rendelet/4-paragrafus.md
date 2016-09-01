@@ -1,6 +1,6 @@
-## 3/C. §[^6] A Nemzeti Civil Alapprogramhoz kapcsolódó jogviszonyokból eredően felmerülő kötelezettségek a Támogatáskezelő – mint a Nemzeti Civil Alapprogram kezelő szervének e feladat tekintetében jogutód szervezete – költségvetésének terhére vállalt kötelezettségnek minősülnek.
+## 3/D. §[^7] A Támogatáskezelő ellátja az EFOP 3.1.4. Útravaló Ösztöndíj és mentorálási támogatás hátrányos helyzetű tanulóknak – Útravaló ösztöndíjprogram megnevezésű kiemelt projekt tekintetében a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendeletben a kedvezményezettnek előírt feladatokat, a kapcsolódó jogok és kötelezettségek tekintetében a Türr István Képző és Kutató Intézet jogutódja.
 
-## 3.[^7] ECOSTAT Kormányzati Hatásvizsgálati Központ
+## 3.[^8] ECOSTAT Kormányzati Hatásvizsgálati Központ
 
-[^6]: A 3/C. §-t a 221/2014. (IX. 4.) Korm. rendelet 480. §-a iktatta be.
-[^7]: A 4. §-t megelőző alcím a 374/2010. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 6. §-át.
+[^7]: A 3/D. §-t a 253/2016. (VIII. 24.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^8]: A 4. §-t megelőző alcím a 374/2010. (XII. 31.) Korm. rendelet 4. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 6. §-át.
