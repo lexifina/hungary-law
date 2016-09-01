@@ -43,3 +43,5 @@ b) az indikáción túli gyógyszerrendelés keretében rendelt gyógyszer előn
 (12) A (6)–(6a) bekezdés szerinti kérelemre, a (8) bekezdés szerinti engedélyre és a (10) bekezdés szerinti betegtájékoztatásra vonatkozó részletes szabályokat külön jogszabály tartalmazza.
 
 (13) A (2), (6) és (6a) bekezdés szerinti eljárások igazgatási szolgáltatási díjmentesek.
+
+(14) A (2), (6) és (6a) bekezdéstől eltérően a mentés során történő gyógyszeralkalmazásra az egészségügyért felelős miniszter rendeletében foglaltak szerint kerülhet sor.
