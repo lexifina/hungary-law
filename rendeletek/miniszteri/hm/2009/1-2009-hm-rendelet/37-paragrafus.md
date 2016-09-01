@@ -12,7 +12,7 @@ c) az Európai Közösség munkavédelmi előírásainak megfelelő, a megelőz�
 
 d) a NATO-ban alkalmazott, az egészséget nem veszélyeztető és biztonságos munkakörülmények, eljárások harmonizálása, átvétele, egységesítése lehetőségeinek kutatása.
 
-(3)[^16] A munkabiztonsági hatóság által kiszabott munkavédelmi bírságot a Honvédelmi Minisztérium Hatósági Hivatal Magyar Államkincstárnál vezetett 10023002-00285142-00000000 számú számlájára, a munkaegészségügyi hatóság által kiszabott munkavédelmi bírságot az MH egészségügyi feladatokat ellátó központi szerve Magyar Államkincstárnál vezetett 10023002-00290483-00000000 számú számlájára kell befizetni.
+(3)[^16] A munkabiztonsági hatóság által kiszabott munkavédelmi bírságot a HM Magyar Államkincstárnál vezetett 10023002-01780499-00000000 számú számlájára, a munkaegészségügyi hatóság által kiszabott munkavédelmi bírságot az MH egészségügyi feladatokat ellátó központi szerve Magyar Államkincstárnál vezetett 10023002-00290469-00000000 számú számlájára kell befizetni.
 
 [^15]: A 37. § (1) bekezdése az 5/2010. (III. 9.) HM rendelet 7. § (3) bekezdése szerint módosított szöveg. E módosító rendelet 8. § (1) bekezdése alapján a rendelkezést a 2010. március 17. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^16]: A 37. § (3) bekezdése az 1/2012. (I. 11.) HM rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^16]: A 37. § (3) bekezdése a 16/2016. (VIII. 31.) HM rendelet 1. §-ával megállapított szöveg.
