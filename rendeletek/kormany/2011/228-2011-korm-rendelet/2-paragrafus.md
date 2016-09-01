@@ -4,8 +4,9 @@
 
 (2) A miniszternek az (1) bekezdés szerinti tevékenységében közreműködik
 
-a)[^1] a Közigazgatási és Igazságügyi Hivatal (a továbbiakban: Hivatal)
+a)[^1]
 
-b) és a Program Irányító Bizottság (a továbbiakban: PIB).
+b)[^2] a Program Irányító Bizottság (a továbbiakban: PIB).
 
-[^1]: A 2. § (2) bekezdés a) pontja a 178/2012. (VII. 26.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^1]: A 2. § (2) bekezdés a) pontját a 251/2016. (VIII. 24.) Korm. rendelet 7. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^2]: A 2. § (2) bekezdés b) pontja a 251/2016. (VIII. 24.) Korm. rendelet 7. § (2) bekezdés b) pontja szerint módosított szöveg.

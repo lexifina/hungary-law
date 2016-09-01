@@ -2,21 +2,22 @@
 
 a) a befogadó intézmény által kiadott feladatokat a jogszabályok, a befogadó intézmény belső szabályzatai, utasításai, valamint a szakmai gyakorlati programterv alapján ellátni,
 
-b)[^21] a befogadó intézmény által előírt megbeszéléseken, egyéb programokon, valamint a minisztérium által előírt képzéseken, és egyéb, az ösztöndíjasok részére szervezett programokon részt venni,
+b)[^28] a befogadó intézmény által előírt megbeszéléseken, egyéb programokon, valamint a minisztérium által előírt képzéseken, és egyéb, az ösztöndíjasok részére szervezett programokon részt venni,
 
-c)[^22] tevékenységéről havonta, a külföldi gyakorlatot követően, valamint a minisztérium által előírt képzés végén – a mentor által végzett értékelés keretében – az ösztöndíj program működési szabályzatában meghatározottak szerint beszámolót készíteni.
+c)[^29] tevékenységéről havonta, a külföldi gyakorlatot követően, valamint a minisztérium által előírt képzés végén – a mentor által végzett értékelés keretében – az ösztöndíj program működési szabályzatában meghatározottak szerint beszámolót készíteni.
 
-(2) Az ösztöndíjas az ösztöndíjas szerződés időtartama alatt munkaviszonyban, állami vezetői szolgálati jogviszonyban, köztisztviselői, kormánytisztviselői, közalkalmazotti jogviszonyban, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, ügyészi szolgálati, valamint hivatásos szolgálati jogviszonyban nem állhat.
+(2)[^30] Az ösztöndíjas az ösztöndíjas szerződés időtartama alatt munkaviszonyban, állami vezetői szolgálati jogviszonyban, kormányzati szolgálati, közszolgálati, állami szolgálati, közalkalmazotti jogviszonyban, bírósági szolgálati, igazságügyi alkalmazotti szolgálati, ügyészi szolgálati, valamint hivatásos szolgálati jogviszonyban nem állhat.
 
 (3) A PIB elnöke – különösen indokolt esetben, méltányosságból – mentesítést adhat az ösztöndíjas részére az ösztöndíjas szerződésből származó egyes kötelezettségeinek teljesítése alól.
 
-(4)[^23] Az ösztöndíjas az ösztöndíjas szerződésben vállalja, hogy a 13. § (1) bekezdésének megfelelő kinevezésétől számított tíz hónapon keresztül a munkáltató közigazgatási szervvel kormánytisztviselői jogviszonyát fenntartja.
+(4)[^31] Az ösztöndíjas az ösztöndíjas szerződésben vállalja, hogy a 13. § (1) bekezdésének megfelelő kinevezésétől számított tíz hónapon keresztül a munkáltató közigazgatási szervvel kormánytisztviselői jogviszonyát fenntartja.
 
-(5)[^24] Ha a kormánytisztviselői kinevezést kapott ösztöndíjas kormánytisztviselői jogviszonyát a (4) bekezdés szerinti időtartam alatt lemondással megszünteti, köteles a részére folyósított ösztöndíj teljes összegét a Hivatal részére kilencven napon belül visszafizetni.
+(5)[^32] Ha a kormánytisztviselői kinevezést kapott ösztöndíjas kormánytisztviselői jogviszonyát a (4) bekezdés szerinti időtartam alatt lemondással megszünteti, köteles a részére folyósított ösztöndíj teljes összegét a Hivatal részére kilencven napon belül visszafizetni.
 
 (6) Ha a kormánytisztviselői kinevezést kapott ösztöndíjas rendkívüli méltánylást érdemlő okot igazol a (4) bekezdésben foglaltak megsértésével összefüggésben, az ösztöndíjast a PIB elnöke a részére folyósított ösztöndíj visszafizetése alól mentesítheti.
 
-[^21]: A 9. § (1) bekezdés b) pontja a 178/2012. (VII. 26.) Korm. rendelet 4. § d) pontja, a 377/2014. (XII. 31.) Korm. rendelet 21. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^22]: A 9. § (1) bekezdés c) pontja a 178/2012. (VII. 26.) Korm. rendelet 4. § d) pontja, a 377/2014. (XII. 31.) Korm. rendelet 21. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^23]: A 9. § (4) bekezdése a 246/2012. (VIII. 31.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^24]: A 9. § (5) bekezdése a 178/2012. (VII. 26.) Korm. rendelet 4. § d) pontja szerint módosított szöveg.
+[^28]: A 9. § (1) bekezdés b) pontja a 178/2012. (VII. 26.) Korm. rendelet 4. § d) pontja, a 377/2014. (XII. 31.) Korm. rendelet 21. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^29]: A 9. § (1) bekezdés c) pontja a 178/2012. (VII. 26.) Korm. rendelet 4. § d) pontja, a 377/2014. (XII. 31.) Korm. rendelet 21. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^30]: A 9. § (2) bekezdése a 251/2016. (VIII. 24.) Korm. rendelet 6. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^31]: A 9. § (4) bekezdése a 246/2012. (VIII. 31.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^32]: A 9. § (5) bekezdése a 251/2016. (VIII. 24.) Korm. rendelet 6. § (2) bekezdés a) pontja szerint módosított szöveg.
