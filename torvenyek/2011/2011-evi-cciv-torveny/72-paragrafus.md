@@ -8,7 +8,7 @@
 
 (4) A Magyar Rektori Konferencia működésének gazdasági, igazgatási feltételeit a felsőoktatási intézmények biztosítják.
 
-(5) Az Országos Doktori Tanács a felsőoktatási intézmények doktori tanácsai elnökeiből álló testület, amely állást foglal a doktori képzéssel, fokozatadással kapcsolatos kérdésekben. Az Országos Doktori Tanács határozza meg a doktori képzésre biztosított magyar állami (rész)ösztöndíjjal támogatott hallgatói létszámkeret felsőoktatási intézmények közötti minőség- és teljesítményalapú elosztásának elveit.
+(5) Az Országos Doktori Tanács a felsőoktatási intézmények doktori tanácsai elnökeiből álló testület, amely állást foglal a doktori képzéssel, fokozatadással kapcsolatos kérdésekben, valamint – a Doktoranduszok Országos Szövetségével egyeztetve – meghatározza a komplex vizsga szervezésének elveit. Az Országos Doktori Tanács határozza meg a doktori képzésre biztosított magyar állami (rész)ösztöndíjjal támogatott hallgatói létszám felsőoktatási intézmények közötti minőség- és teljesítményalapú elosztásának elveit.
 
 (6) Az Országos Doktori Tanács jogi személy. Az Országos Doktori Tanács az oktatási hivatal által a felsőoktatási információs rendszer keretében vezetett hatósági nyilvántartásba való bejegyzéssel jön létre, képviseletére az elnök jogosult. Az Országos Doktori Tanács a közhasznúsági nyilvántartásba vétel nélkül közhasznú szervezet. Az Országos Doktori Tanács alapító okiratát a miniszter adja ki.
 

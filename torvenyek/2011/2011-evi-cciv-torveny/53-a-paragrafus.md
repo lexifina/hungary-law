@@ -2,4 +2,4 @@
 
 (2) A doktori értekezést és téziseit elektronikus formában az Adatbázisban, az általánosan elfogadott nemzetközi gyakorlatnak megfelelő (DOI) azonosítóval ellátva, mindenki számára hozzáférhetővé kell tenni.
 
-(3) Szabadalmi, oltalmi eljárással érintett doktori értekezés esetén a doktori értekezés és a doktori tézisek nyilvánosságra hozatala a doktorjelölt kérelmére, a bírálóbizottság támogató véleménye alapján és a doktori tanács jóváhagyásával, legfeljebb a szabadalom, oltalom bejegyzésének időpontjáig elhalasztható. Nemzetbiztonsági okból minősített adatot tartalmazó doktori értekezést és doktori téziseit a minősítés időtartamának letelte után kell nyilvánosságra hozni.
+(3) Szabadalmi, oltalmi eljárással érintett doktori értekezés esetén a doktori értekezés és a doktori tézisek nyilvánosságra hozatala az értekezést benyújtó kérelmére, a bírálóbizottság támogató véleménye alapján és a doktori tanács jóváhagyásával, legfeljebb a szabadalom, oltalom bejegyzésének időpontjáig elhalasztható. Nemzetbiztonsági okból minősített adatot tartalmazó doktori értekezést és doktori téziseit a minősítés időtartamának letelte után kell nyilvánosságra hozni.

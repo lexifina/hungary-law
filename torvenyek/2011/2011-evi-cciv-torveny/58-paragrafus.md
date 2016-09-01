@@ -6,7 +6,7 @@
 
 a) a felsőoktatási intézménybe jelentkezőt,
 
-b) a doktoranduszt és a doktorjelöltet, továbbá
+b)
 
 c) az időközben megszűnt hallgatói jogviszonnyal rendelkezett hallgatót
 

@@ -70,11 +70,11 @@
 
 ## af) a 48/D. § (2) bekezdése szerinti nyilatkozat azonosító száma;
 
-## b) a hallgatói (doktorjelölt) jogviszonnyal összefüggő adatok:
+## b) a hallgatói jogviszonnyal összefüggő adatok:
 
 ## ba) a hallgató neve, neme, születési neve, anyja neve, születési helye és ideje, állampolgársága, lakóhelye, tartózkodási helye, értesítési címe és telefonszáma, elektronikus levélcíme, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
-## bb) a hallgatói (doktorjelölti, vendéghallgatói) jogviszony típusa, keletkezésének és megszűnésének időpontja és módja, a hallgató által folytatott képzés megnevezése, a képzés költségviselési formája és munkarendje, a képzés befejezésének várható időpontja, a hallgató tanulmányainak értékelése, vizsgaadatok, megkezdett félévek, igénybe vett támogatási idő, a hallgatói jogviszony szünetelésének ideje,
+## bb) a hallgatói (vendéghallgatói) jogviszony típusa, keletkezésének és megszűnésének időpontja és módja, a hallgató által folytatott képzés megnevezése, állami támogatottsága és munkarendje, a képzés befejezésének várható időpontja, a hallgató tanulmányainak értékelése, vizsgaadatok, megkezdett félévek, igénybe vett támogatási idő, a hallgatói jogviszony szünetelésének ideje,
 
 ## bc) a külföldi felsőoktatási résztanulmányok helye, ideje,
 
@@ -218,19 +218,19 @@
 
 ## 3. Az 1. pontban felsorolt adatok továbbíthatók: a társadalombiztosítási, illetmény és munkabér vagy más juttatás kifizetőhelyének (minden olyan adat, amely az illetmény, munkabér vagy más juttatás, jogosultság megállapításához, igénybevételéhez szükséges); a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek (a konkrét ügy eldöntéséhez szükséges adatok); a nemzetbiztonsági szolgálatnak (az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat); a fenntartónak (a fenntartói jogok gyakorlásához szükséges valamennyi adat); a Magyar Felsőoktatási Akkreditációs Bizottságnak (a szakértői tevékenyég ellátásához szükséges valamennyi adat); a felsőoktatási intézménynek (az alkalmazottjával kapcsolatos minden adat); továbbá a köznevelési információs rendszernek (az 1. a) és b) pont szerinti adat annak biztosítása érdekében, hogy egy személynek csak egy azonosító száma legyen).
 
-## II/C. A hallgatói, doktorjelölti személy törzs
+## II/C. A hallgatói személy törzs
 
 ## 1. E törvény alapján nyilvántartott adatok:
 
-## a) a hallgatói (doktorjelölti) jogviszonnyal összefüggő adatok:
+## a) a hallgatói jogviszonnyal összefüggő adatok:
 
-## aa) a hallgató (doktorjelölt) neve, születési neve, anyja neve, születési helye és ideje, állampolgársága, neme, lakóhelye, tartózkodási helye, értesítési címe, telefonszáma, elektronikus levélcíme,
+## aa) a hallgató neve, születési neve, anyja neve, születési helye és ideje, állampolgársága, neme, lakóhelye, tartózkodási helye, értesítési címe, telefonszáma, elektronikus levélcíme,
 
 ## ab) nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
 ## ac) a jogviszony típusa, keletkezésének és megszűnésének időpontja és módja,
 
-## ad) a hallgató által folytatott képzés megnevezése, képzés költségviselési formája és munkarendje, megkezdett félévek, a hallgatói jogviszony szünetelésének ideje, a képzés befejezésének várható időpontja
+## ad) a hallgató által folytatott képzés megnevezése, finanszírozásának módja és munkarendje, megkezdett félévek, a hallgatói jogviszony szünetelésének ideje, a képzés befejezésének várható időpontja
 
 ## ae) a képzés során, illetve azt megelőzően igénybe vett támogatási idő,
 
@@ -280,11 +280,9 @@
 
 ## e) a hallgató által fizetett díjak és térítések adatai;
 
-## f) hallgatói támogatásban, gyermekgondozást segítő ellátásban, gyermekgondozási díjban, rendszeres gyermekvédelmi támogatásban, lakhatási támogatásban részesülés esetén e támogatások adatai;
+## f) hallgatói támogatásban, gyermekellátási segélyben, gyermekgondozási díjban, rendszeres gyermekvédelmi támogatásban, lakhatási támogatásban részesülés esetén e támogatások adatai;
 
-## g) a hallgató tanulmányai támogatása érdekében, a hallgató jogviszonyára tekintettel folyósított – a 85. § (1) és (2) bekezdésében foglaltak szerint a Kormány által rendelettel alapított – ösztöndíj adatai;
-
-## h) a hallgató részére nyújtott pénzbeli juttatások adatai.
+## g) a hallgató tanulmányai támogatása érdekében, a hallgató jogviszonyára tekintettel folyósított – a 85. § (1) és (2) bekezdésében foglaltak szerint a Kormány által rendelettel alapított – ösztöndíj adatai.
 
 ## 2. Az 1. pontban fel nem sorolt személyes és különleges adat az érintett írásbeli hozzájárulásával tartható nyilván.
 
@@ -312,7 +310,7 @@
 
 ## e) a társadalombiztosítási hatóságnak a társadalombiztosítási ellátásra való jogosultságot meghatározó adatok;
 
-## f) a felsőoktatási intézménynek a hozzá jelentkező és vele hallgatói (doktorjelölti) jogviszonyban álló személyre vonatkozó valamennyi adat;
+## f) a felsőoktatási intézménynek a hozzá jelentkező és vele hallgatói jogviszonyban álló személyre vonatkozó valamennyi adat;
 
 ## g) a felsőoktatási intézménynek a hozzá felvételre, átvételre került személyekre vonatkozó valamennyi adat;
 

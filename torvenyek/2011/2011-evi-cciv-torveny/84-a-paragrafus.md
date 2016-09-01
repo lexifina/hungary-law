@@ -4,6 +4,6 @@
 
 (3) A képzési támogatást – kifutó rendszerben – a felsőoktatásról szóló 2005. évi CXXXIX. törvény szerinti államilag támogatott képzésben részt vevő hallgatók számított létszáma alapján kell meghatározni. A képzési támogatás összegét a képzés szakmai jellegére tekintettel képzési ciklusokra kell meghatározni. A képzéseket a képzési támogatáshoz való jogosultság szempontjából finanszírozási csoportokba kell sorolni.
 
-(4)
+(4) A felsőoktatási intézménynek folyósított képzési támogatás összege a fokozatszerzési eljárás idejére az adott doktori képzésben részt vett hallgató után nyújtott képzési támogatás összegének felével csökkenthető, ha a felsőoktatási intézmény hallgatója nem szerez doktori fokozatot.
 
 (5) Az (1)–(3) bekezdés szerinti képzési támogatás rendszerét a Kormány rendeletében állapítja meg.

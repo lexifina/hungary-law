@@ -10,7 +10,7 @@
 
 81. § (1) A magyar állami (rész)ösztöndíjjal támogatott képzés keretében a hallgató által igénybe vehető szolgáltatások a következők:
 
-a) a képzési programban meghatározott oktatási és tanulmányi követelmények teljesítéséhez, az oklevél, illetve doktori abszolutórium megszerzéséhez szükséges előadások, szemináriumok, konzultációk, gyakorlati foglalkozások, terepgyakorlatok első alkalommal történő felvétele, a beszámolók, vizsgák és a sikertelen beszámolók, illetve vizsgák egy alkalommal történő megismétlése, a záróvizsga letétele, továbbá a fokozatszerzési eljárás a hallgatói jogviszony fennállása alatt, az 53. § (2) bekezdésben foglaltak szerint,
+a) a képzési programban meghatározott oktatási és tanulmányi követelmények teljesítéséhez, az oklevél, illetve doktori abszolutórium megszerzéséhez szükséges előadások, szemináriumok, konzultációk, gyakorlati foglalkozások, terepgyakorlatok első alkalommal történő felvétele, a beszámolók, vizsgák és a sikertelen beszámolók, illetve vizsgák egy alkalommal történő megismétlése, a záróvizsga letétele, továbbá a fokozatszerzési eljárás a hallgatói jogviszony fennállása alatt,
 
 b) szakkollégiumi foglalkozások,
 

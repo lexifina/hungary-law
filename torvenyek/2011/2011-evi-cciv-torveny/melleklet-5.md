@@ -51,5 +51,3 @@
 ## 5. Továbbítható:
 
 ## a) a bíróságnak, a rendőrségnek, az ügyészségnek, a bírósági végrehajtónak, valamint az államigazgatási szervnek, ha konkrét ügy eldöntéséhez szükséges adat;
-
-## b) a nemzetbiztonsági szolgálatnak az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat;
