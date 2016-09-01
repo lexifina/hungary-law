@@ -66,6 +66,6 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 16. | földtan és bányászat | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 17. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+| 17. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^7]: A 3. melléklet a 72/2015. (III. 30.) Korm. rendelet 40. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^7]: A 3. melléklet a 72/2015. (III. 30.) Korm. rendelet 40. § (1) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 22. §-a szerint módosított szöveg.
