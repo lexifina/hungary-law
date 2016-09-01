@@ -1,5 +1,3 @@
-## 3. §[^3]
+## 3. § Hatályát veszti a kormányzati célú hálózatokról szóló 346/2010. (XII. 28.) Korm. rendelet 3. melléklet I. pontjába foglalt táblázat 1. alpont 1.9. sora.
 
 ## 4. A közfoglalkoztatáshoz nyújtható támogatásokról szóló 375/2010. (XII. 31.) Korm. rendelet módosítása
-
-[^3]: A 3. § a 10. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
