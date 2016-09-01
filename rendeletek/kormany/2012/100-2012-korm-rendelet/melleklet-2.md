@@ -68,6 +68,6 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 15. | bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 16. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+| 16. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^17]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 27. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^17]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 27. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 38. §-a szerint módosított szöveg.
