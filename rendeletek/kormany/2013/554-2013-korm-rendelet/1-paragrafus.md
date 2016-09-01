@@ -38,10 +38,11 @@ f) a Balassi Intézet;
 
 g) a fővárosi és megyei kormányhivatal;
 
-h) a Közigazgatási és Igazságügyi Hivatal;
+h)[^2]
 
 i) a nemzeti park igazgatóság;
 
 j) a Nemzeti Agrár-szaktanácsadási, Képzési és Vidékfejlesztési Intézet, az Integrált Közösségi Szolgáltató.
 
 [^1]: Az 1. § (1) bekezdés 11. pontja a 20/2015. (II. 17.) Korm. rendelet 31. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdés h) pontját a 251/2016. (VIII. 24.) Korm. rendelet 8. §-a hatályon kívül helyezte.
