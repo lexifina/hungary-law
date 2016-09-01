@@ -6,15 +6,15 @@
 
 ## 3. Egyéni vállalkozói igazolvány pótlása iránti kérelem
 
-## 4. Egyéni vállalkozói tevékenység gyakorlásával kapcsolatos adatváltozás bejelentése és nyilvántartásba vétele
+## 4.[^31]
 
 ## 5. Egyéni vállalkozói tevékenység megkezdésének bejelentése és nyilvántartásba vétele
 
-## 6. Egyéni vállalkozói tevékenység szünetelésének bejelentése és nyilvántartásba vétele
+## 6.[^32]
 
 ## 7. Egyéni vállalkozói tevékenység megszüntetésének bejelentése és nyilvántartásba vétele
 
-## 8. Egyéni vállalkozói tevékenység szünetelés utáni folytatásának bejelentése és nyilvántartásba vétele
+## 8.[^33]
 
 ## 9. Egyéni vállalkozói tevékenység özvegy vagy örökös által történő folytatásának bejelentése és nyilvántartásba vétele
 
@@ -84,8 +84,11 @@
 
 ## 42. Hajós szolgálati útlevél kiadása, cseréje iránti kérelem soron kívüli eljárásban
 
-## 43.[^31]
+## 43.[^34]
 
 3. melléklet az 515/2013. (XII. 30.) Korm. rendelethez
 
-[^31]: A 2. melléklet 43. pontját a 194/2015. (VII. 21.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
+[^31]: A 2. melléklet 4. pontját a 143/2016. (VI. 13.) Korm. rendelet 2. § a) pontja hatályon kívül helyezte.
+[^32]: A 2. melléklet 6. pontját a 143/2016. (VI. 13.) Korm. rendelet 2. § b) pontja hatályon kívül helyezte.
+[^33]: A 2. melléklet 8. pontját a 143/2016. (VI. 13.) Korm. rendelet 2. § c) pontja hatályon kívül helyezte.
+[^34]: A 2. melléklet 43. pontját a 194/2015. (VII. 21.) Korm. rendelet 6. § (2) bekezdése hatályon kívül helyezte.
