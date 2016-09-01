@@ -26,7 +26,7 @@ d) a külön jogszabályban foglaltak szerint, tűzoltási és műszaki mentési
 
 e) a jóváhagyott együttműködési megállapodás alapján a hivatásos katasztrófavédelmi szerv ügyeletének utasítására kivonul a létesítményi tűzoltóság vonulási területén kívül keletkezett eseményhez, ahol a tűzoltásvezető által meghatározott feladatokat hajtja végre, ha az nem veszélyezteti a d) pontban rögzített feladatainak ellátását.
 
-(3) A létesítményi tűzoltóság – jogszabályban meghatározottak szerint – a tűzvizsgálat érdekében haladéktalanul tájékoztatja az illetékes hivatásos tűzoltóságot az általa eloltott, vagy a más által eloltott és hozzá bejelentett tűzesetről. Ha a tűz a Magyar Honvédség objektumában keletkezett, akkor a Honvédelmi Minisztérium Hatósági Hivatalát kell tájékoztatni.
+(3)[^6] A létesítményi tűzoltóság – jogszabályban meghatározottak szerint – a tűzvizsgálat érdekében haladéktalanul tájékoztatja az illetékes hivatásos tűzoltóságot az általa eloltott, vagy a más által eloltott és hozzá bejelentett tűzesetről. Ha a tűz a Magyar Honvédség objektumában keletkezett, akkor a Honvédelmi Minisztériumot kell tájékoztatni.
 
 (4) A létesítményi tűzoltóság vagy annak fenntartója gondoskodik szakfelszereléseinek és egyéni védőeszközeinek karbantartásáról.
 
@@ -35,3 +35,5 @@ e) a jóváhagyott együttműködési megállapodás alapján a hivatásos katas
 (6) Az együttműködési megállapodást a hivatásos tűzoltóság parancsnoka a területi szervhez jóváhagyás céljából felterjeszti.
 
 (7) A létesítményi tűzoltóság jogszabályban meghatározottak szerint – a fenntartója engedélyével – a folyamatos készenléti vagy ügyeleti szolgálat biztosításával a hivatásos tűzoltóságok által végezhető szolgáltatások köréről, valamint a hivatásos tűzoltósági célokat szolgáló ingatlanok, felszerelések kapacitás kihasználását célzó hasznosításának szabályairól szóló miniszteri rendelet szerinti tűzvédelmi szolgáltatást végezhet. A szolgáltatás végzése nem veszélyeztetheti a (2) bekezdés d) pontban rögzített feladatainak ellátását.
+
+[^6]: A 16. § (3) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 50. §-a szerint módosított szöveg.

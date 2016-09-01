@@ -1,4 +1,4 @@
-20. § (1)[^8] Létesítményi tűzoltóság létrehozatala nem kötelező, de az létrehozható
+20. § (1)[^9] Létesítményi tűzoltóság létrehozatala nem kötelező, de az létrehozható
 
 a) tömegtartózkodásra szolgáló, vagy közösségi, nagy forgalmú létesítményben, valamint lakóépületek védelmére;
 
@@ -10,4 +10,4 @@ d) abban a mezőgazdasági létesítményben, melyben termények ömlesztett tá
 
 (2) Az (1) bekezdés alapján létrehozott létesítményi tűzoltóság esetében a szükséges létszámot, gépjárműveket, felszereléseket, oltó- és mentesítő anyagokat, a szükséges tartalékot a területi szerv a létesítményi tűzoltóság fenntartójának kezdeményezése alapján, annak figyelembevételével határozza meg. A kötelezés nélkül fenntartott létesítményi tűzoltóságnak meg kell felelnie a 18. § (4) bekezdésében meghatározott követelményeknek.
 
-[^8]: A 20. § (1) bekezdés nyitó szövegrésze a 74/2012. (IV. 13.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^9]: A 20. § (1) bekezdés nyitó szövegrésze a 74/2012. (IV. 13.) Korm. rendelet 16. § (2) bekezdésével megállapított szöveg.

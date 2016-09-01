@@ -1,3 +1,3 @@
-1. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^10]
+1. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^11]
 
-[^10]: Az 1. melléklet a 486/2015. (XII. 29.) Korm. rendelet 32. §-a szerint módosított szöveg.
+[^11]: Az 1. melléklet a 486/2015. (XII. 29.) Korm. rendelet 32. §-a szerint módosított szöveg.

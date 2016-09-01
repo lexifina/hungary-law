@@ -148,7 +148,7 @@
 
 | 72. | Zöldség- és gyümölcsbolt | 200 |
 
-7. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^15]
+7. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^16]
 
 Ipari és szolgáltató tevékenység normatív tűzterhelési értékei
 
@@ -372,4 +372,4 @@ Ipari és szolgáltató tevékenység normatív tűzterhelési értékei
 
 | 108. | Zöldség-gyümölcs szárító | 700 |
 
-[^15]: A 7. mellékletet a 300/2014. (XII. 5.) Korm. rendelet 11. §-a iktatta be.
+[^16]: A 7. mellékletet a 300/2014. (XII. 5.) Korm. rendelet 11. §-a iktatta be.

@@ -16,7 +16,7 @@
 
 | 6. | 2000 MJ/m2 felett | 4 fő | 8 fő | 12 fő | 16 fő |
 
-3. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^11]
+3. melléklet a 239/2011. (XI. 18.) Korm. rendelethez[^12]
 
 ## A számított tűzterhelés meghatározása és igazolása
 
@@ -92,4 +92,4 @@ ami az i-edik anyagra jellemző tényező.
 
 10. Az egyes éghető anyagfajták ami tényezőit az 5. melléklet tartalmazza.
 
-[^11]: A 3. mellékletet a 300/2014. (XII. 5.) Korm. rendelet 11. §-a iktatta be.
+[^12]: A 3. mellékletet a 300/2014. (XII. 5.) Korm. rendelet 11. §-a iktatta be.

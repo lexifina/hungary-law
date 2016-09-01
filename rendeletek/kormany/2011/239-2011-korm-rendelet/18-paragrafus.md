@@ -1,6 +1,6 @@
 18. § (1) Létesítményi tűzoltóságot kell működtetni ott ahol
 
-a)[^6] a 2. mellékletben foglalt tűzszakasz alapterülete és a 3–7. melléklet alapján meghatározott számított tűzterhelése megkívánja, az ott meghatározott létszámmal,
+a)[^7] a 2. mellékletben foglalt tűzszakasz alapterülete és a 3–7. melléklet alapján meghatározott számított tűzterhelése megkívánja, az ott meghatározott létszámmal,
 
 b) az üzemi technológiai folyamat vagy egyéb helyi sajátosság alapján szükséges.
 
@@ -14,7 +14,7 @@ c) ahol az üzemi technológiai folyamat vagy egyéb helyi sajátosság alapján
 
 d) a Magyar Honvédség objektumaiban jogszabályban meghatározottak alapján.
 
-(3)[^7] A létesítményi tűzoltóság kötelező működtetéséről az (1) bekezdés b) pontja szerinti esetben a helyi szerv javaslatára a területi szerv, a főfoglalkozású létesítményi tűzoltóság kötelező működtetéséről
+(3)[^8] A létesítményi tűzoltóság kötelező működtetéséről az (1) bekezdés b) pontja szerinti esetben a helyi szerv javaslatára a területi szerv, a főfoglalkozású létesítményi tűzoltóság kötelező működtetéséről
 
 a) (2) bekezdés b) pontja szerinti esetben a területi szerv,
 
@@ -38,5 +38,5 @@ b) a (2) bekezdés c) pontja szerinti esetben a helyi szerv javaslatára a terü
 
 (11) A legkisebb készenléti létszám biztosításánál a létesítményi tűzoltóparancsnokot nem lehet figyelembe venni.
 
-[^6]: A 18. § (1) bekezdés a) pontja a 300/2014. (XII. 5.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
-[^7]: A 18. § (3) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^7]: A 18. § (1) bekezdés a) pontja a 300/2014. (XII. 5.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^8]: A 18. § (3) bekezdése a 74/2012. (IV. 13.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
