@@ -12,5 +12,8 @@
 
 (6)[^2] Az Sztv. 4/A. § (2) bekezdésében foglaltak szerinti agrárágazathoz tartozó szakképesítéseket a 6. melléklet tartalmazza.
 
+(7)[^3] Az egyes hatósági jellegű képzések szakmai tartalmát is magában foglaló szakképesítéseket a 7. melléklet tartalmazza.
+
 [^1]: Az 1. § (4) bekezdése a 25/2016. (II. 25.) Korm. rendelet 6. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (6) bekezdése a 25/2016. (II. 25.) Korm. rendelet 6. § b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (7) bekezdését a 25/2016. (II. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be.
