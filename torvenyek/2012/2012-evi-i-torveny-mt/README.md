@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-1-00-00
 | 2016-01-01 | 2015. évi CCXXIII. törvény | 2012-1-00-00.12 |
 | 2016-04-16 | 2016. évi XXIII. törvény | 2012-1-00-00.13 |
 | 2016-06-18 | 2016. évi LXVII. törvény | 2012-1-00-00.14 |
+| 2016-09-01 | 2016. évi XLIX. törvény | 2012-1-00-00.15 |

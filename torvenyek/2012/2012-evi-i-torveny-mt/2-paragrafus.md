@@ -18,6 +18,6 @@ terjed ki.
 
 a) XVI. fejezetét a kölcsönvevőre,
 
-b) XVII. fejezetét az iskolaszövetkezet által nyújtott szolgáltatás jogosultjára
+b)
 
 alkalmazni kell.
