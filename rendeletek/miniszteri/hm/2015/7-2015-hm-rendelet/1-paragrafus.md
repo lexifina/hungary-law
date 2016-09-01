@@ -20,11 +20,12 @@ c) a Magyar Honvédség (a továbbiakban: Honvédség) középszintű vezető sz
 
 d) a Honvédség MH vezénylő zászlósi beosztása esetén 9,00.
 
-(2) A Hjt. 123. § (4) bekezdés e) pontja alapján az állomány Honvéd Vezérkar törzsigazgatói beosztást betöltő tagjának alapilletményét a Hjt. 6. mellékletének 6. pontja szerinti alapilletmény-szorzószámmal kell megállapítani.
+(2)[^4]
 
-(3)[^4] A Honvéd Vezérkar főnökének (a továbbiakban: HVKF) alapilletményét a Hjt. 6. mellékletében foglaltaktól eltérően 32,00 alapilletmény szorzószámmal kell megállapítani.
+(3)[^5] A Honvéd Vezérkar főnökének (a továbbiakban: HVKF) alapilletményét a Hjt. 6. mellékletében foglaltaktól eltérően 32,00 alapilletmény szorzószámmal kell megállapítani.
 
 [^1]: Az 1. § (1) bekezdés nyitó szövegrésze a 13/2015. (XII. 3.) HM rendelet 4. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (1) bekezdés a) pontja a 13/2015. (XII. 3.) HM rendelet 4. § b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (1) bekezdés b) pontja a 13/2015. (XII. 3.) HM rendelet 4. § c) pontja szerint módosított szöveg.
-[^4]: Az 1. § (3) bekezdését a 18/2015. (XII. 22.) HM rendelet 24. §-a iktatta be.
+[^4]: Az 1. § (2) bekezdését a 16/2016. (VIII. 31.) HM rendelet 15. § a) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (3) bekezdését a 18/2015. (XII. 22.) HM rendelet 24. §-a iktatta be.

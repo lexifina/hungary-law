@@ -1,5 +1,5 @@
-## 93. §[^60] E rendeletnek a Módr.-rel megállapított 2/A. §-át az állomány 2016. június 30. után áthelyezett tagja esetében kell alkalmazni.
+## 94. §[^64] E rendeletnek az egyes honvédelmi miniszteri rendeleteknek a honvédelmi miniszter irányítása alá tartozó központi hivatalok szervezeti integrációjával összefüggő módosításáról szóló 16/2016. (VIII. 31.) HM rendelettel módosított 76. § (4) bekezdését és 79/A. §-át 2016. július 1-jétől kell alkalmazni.
 
 1. melléklet a 7/2015. (VI. 22.) HM rendelethez
 
-[^60]: A 93. §-t a 9/2016. (VI. 29.) HM rendelet 19. §-a iktatta be.
+[^64]: A 94. §-t a 16/2016. (VIII. 31.) HM rendelet 13. §-a iktatta be.
