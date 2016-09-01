@@ -20,7 +20,7 @@ de) a felsőoktatási felvételi alkalmazással kapcsolatos feladatok, és
 
 df) az AVIR és a DPR alkalmazással kapcsolatos feladatok
 
-ellátását;
+## ellátását;
 
 e) a FIR biztosítani tudja a miniszter számára a jogorvoslati és döntés-felülvizsgálati eljárásaival kapcsolatos feladatai ellátását.
 

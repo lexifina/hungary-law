@@ -4,7 +4,7 @@ a)[^23] felsőoktatási intézmény keretében működő, vagy a 24/2013. (II. 5
 
 b) diákotthon keretében működő szakkollégium esetében a diákotthon fenntartója
 
-kérelmezi.
+## kérelmezi.
 
 (2) A kérelemhez mellékelni kell
 

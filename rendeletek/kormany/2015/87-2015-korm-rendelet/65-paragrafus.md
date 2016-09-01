@@ -42,6 +42,6 @@ c) a megszerzett kreditek számát,
 
 d) hallgatói jogviszonyának megszűnése okát és időpontját,
 
-a mentorprogrammal kapcsolatban kezelje és a minisztériumnak a mentorprogram végrehajtásának megfigyelése, valamint a mentorprogram megvalósításának szakmai és pénzügyi ellenőrzése érdekében átadja.
+## a mentorprogrammal kapcsolatban kezelje és a minisztériumnak a mentorprogram végrehajtásának megfigyelése, valamint a mentorprogram megvalósításának szakmai és pénzügyi ellenőrzése érdekében átadja.
 
 (8) A mentorprogramban részt vevő hallgató a szerződésben szereplő személyi adataiban bekövetkezett minden változást a mentorszervezetnek a változást követő tizenöt napon belül bejelent.

@@ -36,9 +36,9 @@ a) a közösségi felsőoktatási képzési központban az együttműködő fels
 
 b) azt, hogy a közösségi felsőoktatási képzési központ – figyelemmel a hallgatók fogadásához és az oktatási tevékenység folytatásához rendelkezésre álló személyi feltételekre, helyiségekre és eszközökre – valamennyi évfolyamra számítva, teljes kihasználtsággal működve mekkora maximális hallgatói létszámot fogadhat.
 
-(6)[^9] A közösségi felsőoktatási képzési központ működési engedélyében szereplő maximális hallgatói létszám módosítását a közösségi felsőoktatási képzési központ képviselője kérelmezi a Hivatalnál. A működési engedély módosítására a működési engedély kiadására vonatkozó szabályokat kell megfelelően alkalmazni. A maximális hallgatói létszám megállapítása, módosítása a februárban induló képzések tekintetében legkésőbb a megelőző év szeptember 20-áig, a szeptemberben induló képzések tekintetében legkésőbb a megelőző év december 5-éig kezdeményezhető.
+(6)[^9] A közösségi felsőoktatási képzési központ működési engedélyében szereplő maximális hallgatói létszám módosítását a közösségi felsőoktatási képzési központ képviselője kérelmezi a Hivatalnál. A működési engedély módosítására a működési engedély kiadására vonatkozó szabályokat kell megfelelően alkalmazni. A maximális hallgatói létszám megállapítása, módosítása a februárban induló képzések tekintetében legkésőbb a megelőző év szeptember 20-áig, a szeptemberben induló képzések tekintetében legkésőbb a megelőző év november 5-éig kezdeményezhető.
 
 (7) Az Nftv. 14. § (2a) bekezdés d) pontjában szabályozott megállapodás tartalmára a (3) bekezdést megfelelően alkalmazni kell.
 
 [^8]: A 4/A. §-t a 345/2015. (XI. 19.) Korm. rendelet 60. §-a iktatta be.
-[^9]: A 4/A. § (6) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
+[^9]: A 4/A. § (6) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 37. § a) pontja, a 266/2016. (VIII. 31.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-4. § (1)[^5] Működési engedéllyel rendelkező felsőoktatási intézmény maximális hallgatói létszámának megállapítását, módosítását a felsőoktatási intézmény vezetője kérelmezi a Hivatalnál. A kérelemhez mellékelni kell a 2. mellékletben előírt feltételek meglétének igazolását. A maximális hallgatói létszám megállapítása, módosítása a februárban induló képzések tekintetében legkésőbb a megelőző év szeptember 20-áig, a szeptemberben induló képzések tekintetében legkésőbb a megelőző év december 5-éig kezdeményezhető.
+4. § (1)[^5] Működési engedéllyel rendelkező felsőoktatási intézmény maximális hallgatói létszámának megállapítását, módosítását a felsőoktatási intézmény vezetője kérelmezi a Hivatalnál. A kérelemhez mellékelni kell a 2. mellékletben előírt feltételek meglétének igazolását. A maximális hallgatói létszám megállapítása, módosítása a februárban induló képzések tekintetében legkésőbb a megelőző év szeptember 20-áig, a szeptemberben induló képzések tekintetében legkésőbb a megelőző év november 5-éig kezdeményezhető.
 
 (2) Ha a kérelem a felsőoktatási intézmény alapító okiratában szereplő maximális hallgatói létszámot meghaladó létszám megállapítására irányul, a kérelemhez mellékelni kell a fenntartó által módosított maximális hallgatói létszámot tartalmazó alapító okiratot.
 
@@ -10,6 +10,6 @@
 
 (6)[^7] Külföldi székhelyen kívüli képzési helyen történő képzésindítás engedélyezésekor a (4) bekezdésben foglalt rendelkezéseket az 1. melléklet 6. pontja, valamint a 2. melléklet 9. pontja figyelembevételével kell alkalmazni.
 
-[^5]: A 4. § (1) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 37. § a) pontja szerint módosított szöveg.
+[^5]: A 61. § (1) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 37. § a) pontja, a 266/2016. (VIII. 31.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
 [^6]: A 4. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 89. § 2. pontja szerint módosított szöveg.
 [^7]: A 4. § (6) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 59. §-a iktatta be.

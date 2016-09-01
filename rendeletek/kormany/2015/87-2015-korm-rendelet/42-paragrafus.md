@@ -36,27 +36,27 @@ h) a feltett kérdéseket,
 
 i) a záróvizsga végső értékelését, minősítését.
 
-(4) A doktori szigorlati jegyzőkönyv tartalmazza
+(4)[^81] A doktori szigorlati jegyzőkönyv, illetve komplexvizsga-jegyzőkönyv tartalmazza
 
 a) a felsőoktatási intézmény nevét, intézményi azonosító számát,
 
-b) a doktorjelölt nevét, hallgatói azonosító számát, korábbi végzettségi szintjét és szakképzettségét,
+b) a doktorjelölt, illetve a doktorandusz hallgató nevét, hallgatói azonosító számát, korábbi végzettségi szintjét és szakképzettségét,
 
 c) a témavezető nevét és oktatói azonosító számát,
 
 d) a megszerzendő fokozat tudományterületét és tudományágát,
 
-e) a szigorlaton elhangzott kérdéseket és a válaszok minősítését,
+e) a szigorlaton, illetve komplex vizsgán elhangzott kérdéseket és a válaszok minősítését,
 
-f) a szigorlat minősítését,
+f) a szigorlat, illetve komplex vizsga minősítését,
 
-g) a szigorlati bizottság elnökének és tagjainak nevét, oktatói azonosító számát és aláírását.
+g) a szigorlati bizottság, illetve komplexvizsga-bizottság elnökének és tagjainak nevét, oktatói azonosító számát és aláírását.
 
 (5) A doktori védési jegyzőkönyv tartalmazza
 
 a) a felsőoktatási intézmény nevét, intézményi azonosító számát,
 
-b) a doktorjelölt nevét, hallgatói azonosító számát, végzettségét és szakképzettségét,
+b)[^82] a doktorjelölt, illetve a doktori értekezés benyújtója nevét, hallgatói azonosító számát, végzettségét és szakképzettségét,
 
 c) a megszerzendő fokozat tudományterületét és tudományágát,
 
@@ -76,10 +76,14 @@ j) a vitában résztvevők nevét,
 
 k) a bírálóbizottság véleményét és értékelését.
 
-(6) A záróvizsga jegyzőkönyv, a doktori szigorlati jegyzőkönyv és a doktori védési jegyzőkönyv a törzslap melléklete.
+(6)[^83] A záróvizsga jegyzőkönyv, a doktori szigorlati jegyzőkönyv, a komplexvizsga-jegyzőkönyv és a doktori védési jegyzőkönyv a törzslap melléklete.
 
 (7) Az (1) és (3)–(5) bekezdésben meghatározott irat lehet:
 
 a) a felsőoktatási intézmény TR-ében nyilvántartott adatokból előállított papír alapú irat, vagy
 
 b) papír alapú irat.
+
+[^81]: A 42. § (4) bekezdése a 266/2016. (VIII. 31.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^82]: A 42. § (5) bekezdés b) pontja a 266/2016. (VIII. 31.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^83]: A 42. § (6) bekezdése a 266/2016. (VIII. 31.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.

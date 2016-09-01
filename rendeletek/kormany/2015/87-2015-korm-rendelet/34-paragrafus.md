@@ -36,5 +36,8 @@ h) az átvevő nevét és aláírását.
 
 (10) A felsőoktatási intézmény a kötelezően kezelt iratokon kívüli, a hallgatói jogviszonyhoz kapcsolódó egyéb iratokról a szabályzatában rendelkezik.
 
+(11)[^68] A felsőoktatási intézmény iratkezelési rendjét az intézmény a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény és a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet előírásai alapján szabályozza.
+
 [^66]: A 34. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 75. §-ával megállapított szöveg.
 [^67]: A 34. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 89. § 8. pontja szerint módosított szöveg.
+[^68]: A 34. § (11) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 32. §-a iktatta be.
