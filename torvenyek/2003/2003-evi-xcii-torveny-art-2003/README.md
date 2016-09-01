@@ -83,3 +83,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2003-92-00-00
 | 2016-06-16 | 2016. évi LXVI. törvény | 2003-92-00-00.134 |
 | 2016-07-01 | 2016. évi LXVI. törvény | 2003-92-00-00.135 |
 | 2016-08-01 | 2016. évi LXVI. törvény | 2003-92-00-00.136 |
+| 2016-09-01 | 2016. évi LXVI. törvény | 2003-92-00-00.137 |

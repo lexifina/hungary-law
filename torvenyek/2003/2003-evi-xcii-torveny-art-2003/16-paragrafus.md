@@ -74,15 +74,11 @@ c) ha a foglalkoztató személyében jogutódlás következik be, a jogutód mun
 
 (10) Az előtársaság a cégbejegyzési kérelme benyújtása napjáig tartó időszakában az Efo. tv.-ben meghatározott bejelentési kötelezettségének elektronikus úton, a központi elektronikus szolgáltató rendszeren keresztül, adószám feltüntetése nélkül tesz eleget. Az előtársaság az adószám megszerzésétől számított nyolc napon belül – az adószámot és a korábban teljesített bejelentés adóhatósági iktatószámát is feltüntetve – ismételten bejelenti a cégbejegyzési kérelem benyújtását megelőzően az Efo. tv. keretében általa foglalkoztatott természetes személy Efo. tv. 11. § (3) bekezdése szerinti adatait.
 
-(11) Az iskolaszövetkezetnek a Tbj. 5. § (1) bekezdés b) pontja alapján biztosítottnak nem minősülő, a munka törvénykönyvéről szóló 2012. évi I. törvény 223. §-a szerint megkötött munkaszerződéssel létesített munkaviszony keretében személyesen közreműködő tagja esetében – a (4) bekezdésben foglaltaktól eltérően – a munkáltató iskolaszövetkezet az állami adó- és vámhatóság felé köteles a munkaszerződés megkötésének napján bejelenteni
+(11) Az iskolaszövetkezetnek a Tbj. 5. § (1) bekezdés b) pontja alapján biztosítottnak nem minősülő, a szövetkezetekről szóló 2006. évi X. törvény 10/B. § (2) bekezdése szerinti megállapodás alapján személyesen közreműködő tagja esetében – a (4) bekezdésben foglaltaktól eltérően – az iskolaszövetkezet az állami adó- és vámhatóság felé köteles a külső szolgáltatásra vonatkozó tagsági megállapodás megkötésének napján bejelenteni
 
-a) a munkáltató (iskolaszövetkezet) adószámát,
+a) az iskolaszövetkezet adószámát,
 
-b) a munkavállaló iskolaszövetkezeti tag adóazonosító jelét és társadalombiztosítási azonosító jelét, diákigazolványa számát,
-
-c)
-
-A munkáltató iskolaszövetkezet köteles az állami adó- és vámhatósághoz bejelenteni a jogviszony megszűnését követő 8 napon belül a munkavállaló iskolaszövetkezeti tag jogviszonya megszűnésének napját. Jogutódlás esetén a (4) bekezdés c) pontjában foglaltakat megfelelően alkalmazni kell.
+b) az iskolaszövetkezeti tag adóazonosító jelét és társadalombiztosítási azonosító jelét, diákigazolványa számát.
 
 (12) Az iskolaszövetkezet munkáltató bejelentési kötelezettségét az egyszerűsített foglalkoztatás bejelentésével azonos módon
 

@@ -120,7 +120,7 @@ m) elektronikus úton negyedévente, a negyedévet követő hó utolsó napjáig
 
 (11) Az állami adó- és vámhatóság vezetője a nemzetgazdaság aktuális állapotának, illetőleg az azt befolyásoló hatások, folyamatok elemzése, értékelése érdekében a 10 000 legnagyobb adóteljesítménnyel rendelkező adózót soron kívüli adatszolgáltatásra kötelezheti gazdasági tevékenységének olyan adatairól, amelyek a jogszabály alapján vezetett nyilvántartásaiból megállapíthatók és adókötelezettségeivel összefüggésben állnak.
 
-(12) E törvény 7. számú mellékletében meghatározott kamatjövedelem kifizetője, illetve az ezzel összefüggésben adatszolgáltatásra kötelezett más személy a 7. számú melléklet szerinti módon és tartalommal adatot szolgáltat az állami adó- és vámhatósághoz.
+(12)
 
 (12a) A nyugdíjat folyósító szerv az adó- és egyéb közterhekkel kapcsolatos nemzetközi közigazgatási együttműködés egyes szabályairól szóló 2013. évi XXXVII. törvény 19/A. § (2) bekezdés d) pontjában meghatározott jövedelemkategóriát érintő automatikus információcsere teljesítése érdekében a rendelkezésre álló azonosító adatok alapján az Európai Unió más tagállamában illetőséggel rendelkező személy részére kifizetett nyugellátás adóévi összegéről az adóévet követő év január 31-ig az adózó azonosításához rendelkezésre álló adatok feltüntetésével elektronikus úton adatot szolgáltat az állami adó- és vámhatóságnak.
 
