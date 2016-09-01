@@ -24,7 +24,7 @@ b) a Polgári Törvénykönyvben szabályozott közkereseti társaság és beté
 
 c) a közérdekű önkéntes tevékenységről szóló 2005. évi LXXXVIII. törvényben (a továbbiakban: Köt.) szabályozott önkéntes szerződés alapján végzett közérdekű önkéntes tevékenység,
 
-d) a szövetkezet tagjának a szövetkezet részére kifejtett személyes közreműködése, ha a tag a személyes közreműködést vállalkozási vagy megbízási szerződés alapján teljesíti,
+d) a szövetkezet tagjának a szövetkezet részére kifejtett személyes közreműködése, ha a tag a személyes közreműködést vállalkozási vagy megbízási szerződés – ideértve a szövetkezetekről szóló 2006. évi X. törvény (a továbbiakban: Sztv.) 10/B. § (2) bekezdése szerinti megállapodást is – alapján teljesíti,
 
 e) az önálló kereskedelmi ügynöki szerződés alapján végzett munka.
 
