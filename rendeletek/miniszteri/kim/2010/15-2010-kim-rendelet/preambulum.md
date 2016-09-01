@@ -1,1 +1,0 @@
-A Balassi Intézet létrehozásáról szóló 309/2006. (XII. 23.) Korm. rendelet 7. § (4) bekezdés b) pontjában kapott felhatalmazás alapján, az egyes miniszterek, valamint a Miniszterelnökséget vezető államtitkár feladat- és hatásköréről szóló 212/2010. (VII. 1.) Korm. rendelet 36. § (1) bekezdés f) pontjában meghatározott feladatkörömben eljárva, a következőket rendelem el:
