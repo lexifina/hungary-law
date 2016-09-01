@@ -40,7 +40,7 @@
 
 ## 1.19. a védelmi tervezési rendszer keretein belül stratégiai tervek, valamint nemzeti tervek kidolgozásában részt vevő munkakör.
 
-## 2. A miniszter irányítása alá tartozó központi hivatal, a miniszter közvetlen alárendeltségébe tartozó szervezet és az MH katonai szervezete
+## 2.[^2] A miniszter közvetlen alárendeltségébe tartozó szervezet és az MH katonai szervezete
 
 ## 2.1. a szervezet parancsnoka vagy vezetője, helyettese és törzsfőnöke,
 
@@ -88,7 +88,7 @@ A 2. § (2) bekezdés b) pontja szerinti nemzetbiztonsági ellenőrzés alá es�
 
 1.6. a tervezési és koordinációs feladatokat ellátó szervezeti elem munkaköre.
 
-2. A miniszter irányítása alá tartozó központi hivatal, a miniszter közvetlen alárendeltségébe tartozó szervezet és az MH katonai szervezete
+2.[^3] A miniszter közvetlen alárendeltségébe tartozó szervezet és az MH katonai szervezete
 
 2.1. az MH katonai szervezet ügyeleti szolgálatának munkaköre,
 
@@ -119,3 +119,6 @@ A 2. § (2) bekezdés b) pontja szerinti nemzetbiztonsági ellenőrzés alá es�
 2.14. a hadfelszerelés-fejlesztést, a logisztikai tervezést, -irányítást és minősített beszerzést bonyolító szervezet munkaköre, továbbá a minősített beszerzési eljárásokban részt vevő munkakör,
 
 2.15. az MH Altiszti Akadémia oktatási tevékenységet folytató katona állománya, továbbá a honvéd tisztjelölt, a honvéd altiszt-jelölt és az önkéntes tartalékos.
+
+[^2]: Az 1. melléklet 2. pont nyitó szövegrésze a 16/2016. (VIII. 31.) HM rendelet 8. § b) pontja szerint módosított szöveg.
+[^3]: A 2. melléklet 2. pont nyitó szövegrésze a 16/2016. (VIII. 31.) HM rendelet 8. § c) pontja szerint módosított szöveg.
