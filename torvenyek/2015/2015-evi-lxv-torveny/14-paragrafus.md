@@ -1,1 +1,3 @@
-14. §
+14. § Az Nkt. 99. §-a a következő (15) bekezdéssel egészül ki:
+
+„(15) 2016. szeptember 1-jétől szakközépiskolában a középfokú nevelés-oktatásban a 9–11. évfolyamon főiskolai szintű végzettséggel és tanári szakképzettséggel is betölthető pedagógus-munkakör, feltéve, hogy a mesterfokozatú, a tantárgynak megfelelő szakos tanári végzettséget és szakképzettséget 2021. szeptember 1-jéig megszerzi az érintett. Ezt a rendelkezést nem kell alkalmazni és pedagógus-munkakörben a szakközépiskolában továbbra is alkalmazható, de az érettségi vizsgán vizsgáztató tanár nem lehet az, akinek a rá irányadó öregségi nyugdíjjogosultság eléréséhez szükséges korhatárig tíz évnél kevesebb ideje van hátra.”
