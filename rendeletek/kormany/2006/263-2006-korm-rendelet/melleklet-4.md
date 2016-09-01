@@ -12,7 +12,7 @@
 
 | 2.3. | Helyi közutak esetében |  | rendőrkapitányság | Rendőr-főkapitányság |
 
-| 3. | Az eljárás honvédelmi és katonai célú létesítmény működési vagy védőterületén tervezett utak engedélyezésére irányul. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | HM Hatósági Hivatal vezetője | honvédelmi miniszter |
+| 3. | Az eljárás honvédelmi és katonai célú létesítmény működési vagy védőterületén tervezett utak engedélyezésére irányul. | Annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e. | honvédelemért felelős miniszter | nincs |
 
 | 4. | Gyorsforgalmi út esetén. | Annak elbírálása kérdésében, hogy az adott tevékenység megfelel-e a) a felszín alatti vizek minősége védelmére vonatkozó jogszabályi követelményeknek, b) az ivóvízbázis védelmére vonatkozó jogszabályi követelményeknek, valamint c) a vizek lefolyására, az árvíz és a jég levonulására vonatkozó követelményeknek. | a) területi vízvédelmi hatóság b)-c) területi vízügyi hatóság | a) országos vízvédelmi hatóság b)-c) országos vízügyi hatóság |
 

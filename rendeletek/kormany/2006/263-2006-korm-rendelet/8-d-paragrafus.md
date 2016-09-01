@@ -4,7 +4,7 @@
 
 a) – az államhatár rendje, a határrend-sértések és határesemények megelőzéséhez szükséges feltételek, valamint a közlekedésbiztonsági követelmények megállapítása kérdésében – első fokú eljárásban a megyei, fővárosi rendőr-főkapitányságot, másodfokú eljárásban az Országos Rendőr-főkapitányságot,
 
-b)[^239] ha az eljárás honvédelmi vagy katonai célú létesítmény működési vagy védőterületén tervezett vasúti építményre vonatkozik, – annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e – az első fokú hatósági eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, a másodfokú hatósági eljárásban pedig a honvédelemért felelős minisztert,
+b)[^239] ha az eljárás honvédelmi vagy katonai célú létesítmény működési vagy védőterületén tervezett vasúti építményre vonatkozik, – annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e – az első fokú hatósági eljárásban a honvédelemért felelős minisztert,
 
 c)[^240] ha az építési tevékenység külön jogszabály alapján hatósági felügyelet alá tartozó veszélyes folyadék és olvadék vasúti töltő-lefejtő berendezést érint, – az ezen építményekkel, berendezésekkel összefüggő műszaki biztonsági követelményeknek való megfelelés kérdésében – első fokú eljárásban mérésügyi és műszaki biztonsági hatáskörében eljáró fővárosi és megyei kormányhivatalt, másodfokú eljárásban a Magyar Kereskedelmi Engedélyezési Hivatalt,
 
@@ -58,7 +58,7 @@ első fokú eljárásban a környezetvédelmi és természetvédelmi hatáskör�
 
 [^237]: A 8/D. §-t megelőző alcímet a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be.
 [^238]: A 8/D. §-t a 362/2008. (XII. 31.) Korm. rendelet 24. § (1) bekezdése iktatta be. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^239]: A 8/D. § (1) bekezdés b) pontja a 158/2011. (VIII. 11.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^239]: A 8/D. § (1) bekezdés b) pontja a 158/2011. (VIII. 11.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 97. §-a szerint módosított szöveg.
 [^240]: A 8/D. § (1) bekezdés c) pontja a 326/2010. (XII. 27.) Korm. rendelet 14. § (3) bekezdés l) pontja, a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 14. pontja szerint módosított szöveg.
 [^241]: A 8/D. § (1) bekezdés d) pontja a 326/2010. (XII. 27.) Korm. rendelet 14. § (3) bekezdés m) pontja, a 394/2012. (XII. 20.) Korm. rendelet 14. § (2) bekezdése, a 38/2015. (III. 11.) Korm. rendelet 8. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 19. pontja szerint módosított szöveg.
 [^242]: A 8/D. § (1) bekezdés e) pontja a 311/2014. (XII. 11.) Korm. rendelet 27. § (1) bekezdésével megállapított, záró szövegrésze a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 20. pontja szerint módosított szöveg.

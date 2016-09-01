@@ -64,7 +64,7 @@ b) – a radioaktív anyag szállítása biztonsági feltételeinek, valamint an
 
 ## szakhatóságként jelöli ki.
 
-(7)[^219] A Kormány a nyilvános repülőtérre, leszállóhelyre vonatkozó hatósági engedélyezési eljárásban – annak kérdésében, hogy a tervezett tevékenység az állami célú légiközlekedés biztonságát, így különösen a honvédelemért felelős miniszter által létrehozott légi kutató-mentő szolgálat hatáskörébe tartozó feladatok ellátását, Magyarország légterének védelmét ellátó szolgálatok tevékenységét vagy a Magyar Honvédség, illetve a szövetséges fegyveres erők állami célú légiközlekedéssel kapcsolatos feladatainak ellátását akadályozza-e – az első fokú hatósági eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, a másodfokú hatósági eljárásban pedig a honvédelemért felelős minisztert szakhatóságként jelöli ki.
+(7)[^219] A Kormány a nyilvános repülőtérre, leszállóhelyre vonatkozó hatósági engedélyezési eljárásban – annak kérdésében, hogy a tervezett tevékenység az állami célú légiközlekedés biztonságát, így különösen a honvédelemért felelős miniszter által létrehozott légi kutató-mentő szolgálat hatáskörébe tartozó feladatok ellátását, Magyarország légterének védelmét ellátó szolgálatok tevékenységét vagy a Magyar Honvédség, illetve a szövetséges fegyveres erők állami célú légiközlekedéssel kapcsolatos feladatainak ellátását akadályozza-e – az első fokú hatósági eljárásban a honvédelemért felelős minisztert szakhatóságként jelöli ki.
 
 (8)[^220] A Kormány a leszállóhely létesítésére irányuló engedélyezési eljárásban
 
@@ -92,7 +92,7 @@ b)[^222] – annak elbírálása kérdésében, hogy a tevékenység a természe
 [^216]: A 8/B. § (5) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 16. pontja szerint módosított szöveg.
 [^217]: A 8/B. § (6) bekezdés nyitó szövegrésze a 488/2015. (XII. 30.) Korm. rendelet 2. §-a szerint módosított szöveg.
 [^218]: A 8/B. § (6) bekezdés a) pontja a 488/2015. (XII. 30.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^219]: A 8/B. § (7) bekezdését újonnan a 159/2010. (V. 6.) Korm. rendelet 46. § (5) bekezdése iktatta be, szövege a 304/2011. (XII. 23.) Korm. rendelet a) pontja szerint módosított szöveg.
+[^219]: A 8/B. § (7) bekezdését újonnan a 159/2010. (V. 6.) Korm. rendelet 46. § (5) bekezdése iktatta be, szövege a 304/2011. (XII. 23.) Korm. rendelet 24. § a) pontja, a 259/2016. (VIII. 31.) Korm. rendelet 97. §-a szerint módosított szöveg.
 [^220]: A 8/B. § (8) bekezdését a 159/2010. (V. 6.) Korm. rendelet 46. § (5) bekezdése iktatta be, nyitó szövegrésze a 207/2014. (VIII. 15.) Korm. rendelet 20. § b) pontja szerint módosított szöveg.
 [^221]: A 8/B. § (8) bekezdés a) pontja a 221/2014. (IX. 4.) Korm. rendelet 331. §-ával megállapított szöveg.
 [^222]: A 8/B. § (8) bekezdés b) pontja az 527/2013. (XII. 30.) Korm. rendelet 40. § (2) bekezdés b) pontja, a 42/2014. (II. 24.) Korm. rendelet 4. § (2) bekezdés b) pontja, a 221/2014. (IX. 4.) Korm. rendelet 335. § (1) bekezdés c) pontja, a 70/2015. (III. 30.) Korm. rendelet 84. § (18) bekezdés 18. pontja szerint módosított szöveg.
