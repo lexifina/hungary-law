@@ -416,7 +416,7 @@ Békéscsabai Járás
 
 Békési Járás
 
-3.2.[^23] Gyomaendrődi Járási Hivatal
+3.2.[^25] Gyomaendrődi Járási Hivatal
 
 Gyomaendrődi Járás
 
@@ -946,4 +946,4 @@ Letenyei Járás
 
 Zalaegerszegi Járás
 
-[^23]: A 2. melléklet 3. pont 3.2. alpontja a 136/2016. (VI. 13.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^25]: A 2. melléklet 3. pont 3.2. alpontja a 136/2016. (VI. 13.) Korm. rendelet 14. §-ával megállapított szöveg.

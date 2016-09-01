@@ -1,4 +1,4 @@
-13. §[^7] (1) A Kormány elsőfokú vadászati hatóságként – ha kormányrendelet eltérően nem rendelkezik – a megyei kormányhivatalt jelöli ki.
+13. §[^8] (1) A Kormány elsőfokú vadászati hatóságként – ha kormányrendelet eltérően nem rendelkezik – a megyei kormányhivatalt jelöli ki.
 
 (2) Vadászati hatósági ügyben – ha kormányrendelet eltérően nem rendelkezik – az eljárással érintett vadászterület fekvése szerint illetékes megyei kormányhivatal jár el.
 
@@ -8,4 +8,4 @@
 
 (5) A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 35. § (2) bekezdésében és 91. §-ában foglaltak tekintetében a Kormány élelmiszerlánc-felügyeleti szervként a megyei kormányhivatalt jelöli ki.
 
-[^7]: A 13. § a 37/2016. (III. 3.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^8]: A 13. § a 37/2016. (III. 3.) Korm. rendelet 5. §-ával megállapított szöveg.

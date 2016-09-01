@@ -1,4 +1,4 @@
-56. §[^21] (1) A Kormány honvédelmi rendeltetésű erdő esetén
+56. §[^22] (1)[^23] A Kormány honvédelmi rendeltetésű erdő esetén
 
 a) az erdőterv megállapítási és módosítási eljárásban,
 
@@ -12,8 +12,9 @@ e) új erdő telepítésekor az erdő elsődleges rendeltetésének megállapít
 
 f) az elsődleges rendeltetés megváltoztatására vonatkozó eljárásban,
 
-## – annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e –, az elsőfokú eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét szakhatóságként jelöli ki.
+## – annak elbírálása kérdésében, hogy a Magyar Honvédség nemzeti és szövetségi védelmi feladatai a kérelemben foglaltak szerinti esetben vagy további feltételek mellett biztosíthatóak-e –, az elsőfokú eljárásban a honvédelemért felelős minisztert szakhatóságként jelöli ki.
 
 (2) Amennyiben az erdőterv megállapítása honvédelmi rendeltetésű erdő esetén az Evt. alapján készített körzeti erdőtervben meghatározott, vagy a körzeti erdőtervezést követően kizárólag az Evt. 40. § (2) bekezdésében foglaltak szerint módosított erdőgazdálkodási jogok és kötelezettségek alapján, hivatalból történik, akkor a szakhatóság (1) bekezdés szerinti bevonása mellőzhető.
 
-[^21]: Az 56. § a 441/2015. (XII. 28.) Korm. rendelet 245. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^22]: Az 56. § a 441/2015. (XII. 28.) Korm. rendelet 245. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^23]: Az 56. § (1) bekezdés záró szövegrésze a 259/2016. (VIII. 31.) Korm. rendelet 7. §-a szerint módosított szöveg.

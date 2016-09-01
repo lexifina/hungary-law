@@ -1,4 +1,4 @@
-8. § (1)[^2] Az állati eredetű melléktermékekből készített komposztok mezőgazdasági területen történő felhasználásának hatósági engedélyezési eljárása tekintetében a Kormány élelmiszerlánc-felügyeleti szervként a talajvédelmi hatóságként eljáró megyei kormányhivatalt jelöli ki.
+8. § (1)[^3] Az állati eredetű melléktermékekből készített komposztok mezőgazdasági területen történő felhasználásának hatósági engedélyezési eljárása tekintetében a Kormány élelmiszerlánc-felügyeleti szervként a talajvédelmi hatóságként eljáró megyei kormányhivatalt jelöli ki.
 
 (2) Az Éltv. 17. § (1) bekezdés c) pontjában és a (4) bekezdésben foglalt védekezési kötelezettség megszegése esetén a növényvédelmi bírság kiszabására a növény- és talajvédelmi hatóságként eljáró megyei kormányhivatal jogosult.
 
@@ -12,4 +12,4 @@
 
 (7) A Magyar Növényvédő Mérnöki és Növényorvosi Kamaráról szóló 2000. évi LXXXIV. törvény 2. § (3) bekezdés c) pontjában és 19. § (9) bekezdésében foglaltak tekintetében a Kormány élelmiszerlánc-felügyeleti szervként a növény- és talajvédelmi hatóságként eljáró megyei kormányhivatalt jelöli ki.
 
-[^2]: A 8. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 246. § a) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^3]: A 8. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 246. § a) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

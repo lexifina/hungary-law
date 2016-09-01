@@ -1,4 +1,4 @@
-55. §[^20] (1) A Kormány partvédelmi és vízvédelmi rendeltetésű erdő esetén
+55. §[^21] (1) A Kormány partvédelmi és vízvédelmi rendeltetésű erdő esetén
 
 a) erdei épület, erdei vasút kivételével minden erdészeti létesítmény létesítésére, bővítésére, felújítására, helyreállítására, korszerűsítésére, lebontására, elmozdítására, illetve használatbavételére, fennmaradására vagy a rendeltetésének megváltoztatására irányuló eljárásban,
 
@@ -18,4 +18,4 @@ ha a tevékenység megkezdéséhez környezetvédelmi engedély vagy egységes k
 
 (2) Amennyiben az erdőterv megállapítása partvédelmi és vízvédelmi rendeltetésű erdő esetén az Evt. alapján készített körzeti erdőtervben meghatározott, vagy a körzeti erdőtervezést követően kizárólag az Evt. 40. § (2) bekezdésében foglaltak szerint módosított erdőgazdálkodási jogok és kötelezettségek alapján, hivatalból történik, akkor a szakhatóság (1) bekezdés szerinti bevonása mellőzhető.
 
-[^20]: Az 55. § a 441/2015. (XII. 28.) Korm. rendelet 245. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^21]: Az 55. § a 441/2015. (XII. 28.) Korm. rendelet 245. § (3) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
