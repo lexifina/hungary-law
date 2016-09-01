@@ -16,7 +16,7 @@
 
 |  | 5 | Kormányzati Ellenőrzési Hivatal | irányítás |
 
-|  | 6 | Közigazgatási és Igazságügyi Hivatal | irányítás |
+|  | 6 |  |  |
 
 |  | 7 | Központi Statisztikai Hivatal | felügyelet |
 
@@ -142,7 +142,7 @@
 
 |  | 1 | A központi államigazgatási szerv neve | A miniszter hatásköre |
 
-|  | 2 | Balassi Intézet | irányítás |
+|  | 2 |  |  |
 
 |  | 3 | Külügyi és Külgazdasági Intézet | irányítás |
 
@@ -172,7 +172,7 @@
 
 |  | 1 | A központi államigazgatási szerv neve | A miniszter hatásköre |
 
-|  | 2 | Közlekedésbiztonsági Szervezet | irányítás |
+|  | 2 |  |  |
 
 |  | 3 | Közlekedésfejlesztési Koordinációs Központ | irányítás |
 

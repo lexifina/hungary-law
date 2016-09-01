@@ -1,3 +1,3 @@
-107. §[^95]
+107. §[^98]
 
-[^95]: A 107–108. §-t a 87/2016. (IV. 25.) Korm. rendelet 3. §-a hatályon kívül helyezte.
+[^98]: A 107–108. §-t a 87/2016. (IV. 25.) Korm. rendelet 3. §-a hatályon kívül helyezte.
