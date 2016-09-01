@@ -1,3 +1,3 @@
-58. §[^58]
+## 57. § A Hvt. vhr. 28. §-a helyébe a következő rendelkezés lép:
 
-[^58]: Az 53–64. § a 105. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+## „28. § A megyei, fővárosi védelmi bizottság munkaszervezete a megyei, fővárosi védelmi bizottság titkársága, amely a fővárosi és megyei kormányhivatalban, a megyei, fővárosi védelmi bizottság elnökének közvetlen alárendeltségében működő, önálló osztály jogállású szervezet. A megyei, fővárosi védelmi bizottság titkársága a Honvédség, a hivatásos katasztrófavédelmi szerv állományába tartozó titkárból és titkárhelyettesből, valamint a fővárosi és megyei kormányhivatal által foglalkoztatott személyekből áll. A megyei, fővárosi védelmi bizottság titkárságát a megyei, fővárosi védelmi bizottság titkára vezeti, akit akadályoztatása esetén a titkárhelyettes helyettesít.”

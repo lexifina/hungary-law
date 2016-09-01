@@ -1,3 +1,11 @@
-91. §[^91]
+## 90. § A veszélyes katonai objektumokkal kapcsolatos hatósági eljárás rendjéről szóló 95/2006. (IV. 18.) Korm. rendelet (a továbbiakban: Korm. rendelet5.) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^91]: A 90–91. § a 105. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+## „(1) A Kormány a veszélyes katonai objektum felügyeleti hatósági jogkör gyakorlójaként, országos illetékességgel első fokon a honvédelemért felelős minisztert jelöli ki (a továbbiakban: veszélyes katonai objektum felügyeleti hatóság).”
+
+## 91. § A Korm. rendelet5.
+
+a) 12. § (1) bekezdésében az „az elsőfokú” szövegrész helyébe az „a” szöveg, és
+
+b) 12. § (2) bekezdésében az „Az első fokú” szövegrész helyébe az „A”szöveg
+
+lép.

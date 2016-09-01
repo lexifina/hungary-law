@@ -1,3 +1,3 @@
-54. §[^54]
+## 53. § A Hvt. vhr. 8. § (1) bekezdése helyébe a következő rendelkezés lép:
 
-[^54]: Az 53–64. § a 105. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+## „(1) A jogi és igazgatási ügyekért felelős helyettes államtitkár felelősségi körébe tartozik a 6. § (1) bekezdés 9., 10–11., 13–17. és 36–42. pontjában meghatározott szakterületek szakmai irányítása.”

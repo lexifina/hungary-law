@@ -1,3 +1,11 @@
-64. §[^64]
+## 64. § Hatályát veszti a Hvt. vhr.
 
-[^64]: Az 53–64. § a 105. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+a) 2. § (3) bekezdés 2. pontja,
+
+b) 17. §-a,
+
+c) 37. és 38. §-a,
+
+d) 61. § (5) bekezdése, valamint
+
+e) 39. alcíme.

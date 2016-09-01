@@ -1,3 +1,5 @@
-57. §[^57]
+## 56. § A Hvt. vhr. 26. § c) pontja helyébe a következő rendelkezés lép:
 
-[^57]: Az 53–64. § a 105. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+## (A megyei, fővárosi védelmi bizottság elnöke)
+
+## „c) gondoskodik a megyei, fővárosi védelmi bizottság honvédelmi célú vezetési infrastruktúrájáról, valamint infokommunikációs rendszere folyamatos működőképességéről,”

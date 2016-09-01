@@ -1,3 +1,3 @@
-55. §[^55]
+## 54. § A Hvt. vhr. 20. § (5) bekezdése helyébe a következő rendelkezés lép:
 
-[^55]: Az 53–64. § a 105. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+## „(5) A polgármester, a polgármester által kijelölt közbiztonsági referens fegyveres összeütközésekkel kapcsolatos speciális polgári védelmi felkészítése a megyei, fővárosi védelmi bizottság éves feladat- és pénzügyi terve szerint történik, négyévente legalább egyszer. A felkészítések tervezését, szervezését és végrehajtását a megyei, fővárosi védelmi bizottság az illetékes katasztrófavédelmi igazgatóság és a HM védelmi igazgatási feladatokat ellátó szervezeti egységének közreműködésével végzi.”

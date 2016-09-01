@@ -1,5 +1,9 @@
 ## 5. A fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet módosítása
 
-5. §[^4]
+## 5. § A fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló 14/2015. (II. 10.) Korm. rendelet
 
-[^4]: Az 5. § a 105. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+a) 3. § (3) bekezdésében a „Honvédelmi Minisztérium Hatósági Hivatal (a továbbiakban: HM HH) vezetőjét, másodfokon a honvédelemért felelős minisztert” szövegrész helyébe a „honvédelemért felelős minisztert” szöveg és
+
+b) 5. § (7) bekezdésében a „HM HH” szövegrész helyébe a „honvédelemért felelős miniszter” szöveg
+
+lép.

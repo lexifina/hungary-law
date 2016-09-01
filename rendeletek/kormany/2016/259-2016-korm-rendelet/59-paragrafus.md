@@ -1,3 +1,3 @@
-59. §[^59]
+## 58. § A Hvt. vhr. 32. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^59]: Az 53–64. § a 105. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+## „(2) A helyi védelmi bizottság gazdasági ügyeit a fővárosi és megyei kormányhivatal intézi.”

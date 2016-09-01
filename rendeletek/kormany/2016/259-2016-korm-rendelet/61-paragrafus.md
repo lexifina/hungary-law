@@ -1,3 +1,1 @@
-61. §[^61]
-
-[^61]: Az 53–64. § a 105. § (2) bekezdése alapján 2016. szeptember 1-jén lép hatályba.
+## „(3) A megyei, fővárosi védelmi bizottság határozata elleni fellebbezést másodfokon a honvédelemért felelős miniszter bírálja el, a fellebbezést a megyei, fővárosi kormányhivatalban kell benyújtani.”
