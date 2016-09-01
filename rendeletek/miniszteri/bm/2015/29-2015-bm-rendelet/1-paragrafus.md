@@ -14,11 +14,9 @@ f) az Alkotmányvédelmi Hivatalnál,
 
 g) a Nemzetbiztonsági Szakszolgálatnál,
 
-h) a rendészeti szakközépiskoláknál a nem tanár (pedagógus) munkakörökben,
+h)[^2] a rendészeti szakközépiskoláknál a nem tanár (pedagógus) munkakörökben, vagy
 
-i) a Belügyminisztérium Nemzetközi Oktatási Központnál,
-
-j) a Közszolgálati Személyzetfejlesztési Főigazgatóságon, vagy
+i)–j)[^3]
 
 k) a Terrorelhárítási Információs és Bűnügyi Elemző Központnál
 
@@ -28,10 +26,12 @@ k) a Terrorelhárítási Információs és Bűnügyi Elemző Központnál
 
 a) azon rendvédelmi közalkalmazott esetében, akinek jogviszonya 2015. július 1-jét megelőzően létesült a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 65., 66. és 67. §-a alapján megállapított illetményének, a Kjt. 70. §-a szerinti vezetői pótlékának, a Kjt. 71. §-a szerinti címpótlékának és a Kjt. 72. §-a szerinti pótlékának 2015. június 30-án számított együttes bruttó összege;
 
-b)[^2] azon rendvédelmi közalkalmazott esetében, akinek jogviszonya 2015. július 1-jét követően létesült vagy akinek az átsorolására, fizetési fokozatban előrelépésére, áthelyezésére, továbbá a kinevezésének az illetményét is érintő egyéb módosítására ezt követően került sor a Kjt. 65., 66. és 67. §-a alapján megállapított illetményének, a Kjt. 70. §-a szerinti vezetői pótlékának, a Kjt. 71. §-a szerinti címpótlékának és a Kjt. 72. §-a szerinti pótlékának a kinevezés vagy az átsorolás napján számított együttes bruttó összege.
+b)[^4] azon rendvédelmi közalkalmazott esetében, akinek jogviszonya 2015. július 1-jét követően létesült vagy akinek az átsorolására, fizetési fokozatban előrelépésére, áthelyezésére, továbbá a kinevezésének az illetményét is érintő egyéb módosítására ezt követően került sor a Kjt. 65., 66. és 67. §-a alapján megállapított illetményének, a Kjt. 70. §-a szerinti vezetői pótlékának, a Kjt. 71. §-a szerinti címpótlékának és a Kjt. 72. §-a szerinti pótlékának a kinevezés vagy az átsorolás napján számított együttes bruttó összege.
 
-(3)[^3] A Kjt. 78. §-a alapján járó jubileumi jutalom folyósításánál az illetmény összegébe az e rendelet alapján járó rendvédelmi ágazati pótlék összege is beszámítandó.
+(3)[^5] A Kjt. 78. §-a alapján járó jubileumi jutalom folyósításánál az illetmény összegébe az e rendelet alapján járó rendvédelmi ágazati pótlék összege is beszámítandó.
 
 [^1]: Az 1. § (1) bekezdése a 29/2016. (VII. 15.) BM rendelet 37. §-ával megállapított szöveg.
-[^2]: Az 1. § (2) bekezdés b) pontja a 76/2015. (XII. 22.) BM rendelet 29. §-a szerint módosított szöveg.
-[^3]: Az 1. § (3) bekezdését a 76/2015. (XII. 22.) BM rendelet 27. §-a iktatta be.
+[^2]: Az 1. § (1) bekezdés h) pontja a 37/2016. (IX. 1.) BM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés i)–j) pontját a 37/2016. (IX. 1.) BM rendelet 16. § (2) bekezdése hatályon kívül helyezte.
+[^4]: Az 1. § (2) bekezdés b) pontja a 76/2015. (XII. 22.) BM rendelet 29. §-a szerint módosított szöveg.
+[^5]: Az 1. § (3) bekezdését a 76/2015. (XII. 22.) BM rendelet 27. §-a iktatta be.
