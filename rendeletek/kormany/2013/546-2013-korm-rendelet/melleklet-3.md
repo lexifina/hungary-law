@@ -70,6 +70,6 @@ Az 1. § (1) bekezdés b) pontja szerinti kiemelt jelentőségű ügyekben eljá
 
 | 17 | Bányászat | Pest Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 18 | Honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+| 18 | Honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^23]: A 3. mellékletet a 373/2015. (XII. 2.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^23]: A 3. mellékletet a 373/2015. (XII. 2.) Korm. rendelet 5. § (3) bekezdése iktatta be, szövege a 259/2016. (VIII. 31.) Korm. rendelet 35. §-a szerint módosított szöveg.
