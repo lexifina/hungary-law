@@ -28,7 +28,7 @@ k) a minisztériumokba vezényelt hivatásos állomány,
 
 l) a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 62. § (1) bekezdése szerint más szervhez vezényelt hivatásos állomány, valamint a Hszt. 67. §-a szerint az ügyészi szervezethez vezényelt hivatásos állomány,
 
-m) a Szervezett Bűnözés Elleni Koordinációs Központhoz, a Belügyminisztérium Nemzetközi Oktatási Központba, a Közszolgálati Személyzetfejlesztési Főigazgatósághoz, a Közigazgatási Elektronikus Közszolgáltatások Központi Hivatalához, valamint a Bevándorlási és Állampolgársági Hivatalhoz vezényelt hivatásos állomány,
+m)[^2] a Terrorelhárítási Információs és Bűnügyi Elemző Központhoz, a a Közigazgatási Elektronikus Közszolgáltatások Központi Hivatalához, valamint a Bevándorlási és Állampolgársági Hivatalhoz vezényelt hivatásos állomány,
 
 n) a Nemzeti Közszolgálati Egyetemhez vezényelt hivatásos állomány, kivéve a Büntetés-végrehajtási Tanszék tanári és hallgatói állományát,
 
@@ -42,4 +42,9 @@ r) az, aki szülési szabadságon van, továbbá a várandós nő, ha a várand�
 
 s) az, aki felmentési idejét tölti,
 
-t) az, akinek a hivatásos szolgálati jogviszonya a nyugdíjazására tekintettel 2016. december 31-ig megszűnik.
+t) az, akinek a hivatásos szolgálati jogviszonya a nyugdíjazására tekintettel 2016. december 31-ig megszűnik,
+
+u)[^3] a Nemzetközi Oktatási Központ hivatásos állománya.
+
+[^2]: A 6. § m) pontja a 37/2016. (IX. 1.) BM rendelet 19. § (2)–(3) bekezdése szerint módosított szöveg.
+[^3]: A 6. § u) pontját a 37/2016. (IX. 1.) BM rendelet 19. § (1) bekezdése iktatta be.
