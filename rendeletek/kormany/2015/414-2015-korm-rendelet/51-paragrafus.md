@@ -1,8 +1,8 @@
-## 15. [^5] Az e-aláírási funkcióval és időbélyegzéssel kapcsolatos szolgáltatási szerződés
+## 15. [^10] Az e-aláírási funkcióval és időbélyegzéssel kapcsolatos szolgáltatási szerződés
 
-51. § (1)[^6] Az e-aláírási funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés a járási hivatalnál és a központi szervnél köthető meg.
+51. § (1)[^11] Az e-aláírási funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés a járási hivatalnál és a központi szervnél köthető meg.
 
-(2)[^7] Az e-aláírási funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés
+(2)[^12] Az e-aláírási funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés
 
 a) – a (3) bekezdésben foglalt kivételekkel – az állandó személyazonosító igazolvány kiadására irányuló kérelem előterjesztésével egyidejűleg, valamint
 
@@ -10,7 +10,7 @@ b) tároló elemmel ellátott érvényes állandó személyazonosító igazolvá
 
 személyesen köthető meg.
 
-(3)[^8] Az e-aláírási funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés a (2) bekezdés b) pont szerinti feltételekkel köthető meg, ha az állandó személyazonosító igazolvány kiadására
+(3)[^13] Az e-aláírási funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés a (2) bekezdés b) pont szerinti feltételekkel köthető meg, ha az állandó személyazonosító igazolvány kiadására
 
 a) hivatalból,
 
@@ -26,7 +26,7 @@ került sor.
 
 (4) Ha annak műszaki és technikai feltételei adottak, a szolgáltatási szerződés megkötése és az e-aláírás funkcióhoz kapcsolódó tanúsítvány igénylése a szolgáltatást igénybe vevő által on-line felületen is megtehető.
 
-[^5]: A 15. alcím címe a 93/2016. (V. 2.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^6]: Az 51. § (1) bekezdése a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^7]: Az 51. § (2) bekezdés nyitó szövegrésze a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^8]: Az 51. § (3) bekezdés nyitó szövegrésze a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^10]: A 15. alcím címe a 93/2016. (V. 2.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^11]: Az 51. § (1) bekezdése a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^12]: Az 51. § (2) bekezdés nyitó szövegrésze a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^13]: Az 51. § (3) bekezdés nyitó szövegrésze a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.

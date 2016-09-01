@@ -6,4 +6,11 @@ b) a kézfejek két gyűrűsujja,
 
 c) a kézfejek két hüvelykujja.
 
+(1a)[^2] Ha az (1) bekezdés szerinti sorrend megtartásával az ujjnyomat nem rögzíthető, az ujjnyomatot a két kézfej azon (1) bekezdés szerinti ujjairól kell rögzíteni, amelyek az ujjnyomat rögzítésére alkalmasak.
+
+(1b)[^3] Az adat felvételezésekor és az okmányban jelölni kell, hogy mely ujjakról történt az ujjnyomat-rögzítés.
+
 (2) A polgár az állandó személyazonosító igazolvány iránti kérelemben nyilatkozik, ha az ujjnyomat rögzítését visszautasítja.
+
+[^2]: A 15. § (1a) bekezdését a 227/2016. (VII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^3]: A 15. § (1b) bekezdését a 227/2016. (VII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.

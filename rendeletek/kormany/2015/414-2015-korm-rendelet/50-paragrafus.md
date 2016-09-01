@@ -1,10 +1,10 @@
 ## III. Fejezet
 
-## AZ E-ALÁÍRÁSI FUNKCIÓVAL ÉS IDŐBÉLYEGZÉSSEL KAPCSOLATOS ELJÁRÁS SZABÁLYAI[^1]
+## AZ E-ALÁÍRÁSI FUNKCIÓVAL ÉS IDŐBÉLYEGZÉSSEL KAPCSOLATOS ELJÁRÁS SZABÁLYAI[^6]
 
 ## 14. Az eljáró hatóságok, feladat- és hatáskörük
 
-50. § (1)[^2] A kijelölt hitelesítés-szolgáltató az állandó személyazonosító igazolvány e-aláírási funkciójához kapcsolódó hitelesítés-szolgáltatást az aláírás-létrehozó eszközön az aláírás-létrehozó adat elhelyezése szolgáltatással együtt nyújtja. A kijelölt hitelesítés-szolgáltató olyan minősített időbélyegzés szolgáltatást (a továbbiakban: időbélyegzés szolgáltatás) is nyújt, amely kizárólag az állandó személyazonosító igazolvány e-aláírási funkciójához használható fel.
+50. § (1)[^7] A kijelölt hitelesítés-szolgáltató az állandó személyazonosító igazolvány e-aláírási funkciójához kapcsolódó hitelesítés-szolgáltatást az aláírás-létrehozó eszközön az aláírás-létrehozó adat elhelyezése szolgáltatással együtt nyújtja. A kijelölt hitelesítés-szolgáltató olyan minősített időbélyegzés szolgáltatást (a továbbiakban: időbélyegzés szolgáltatás) is nyújt, amely kizárólag az állandó személyazonosító igazolvány e-aláírási funkciójához használható fel.
 
 (2) A központi szerv
 
@@ -12,7 +12,7 @@ a) a kijelölt hitelesítés-szolgáltatóval kötött együttműködési megál
 
 b) a nála előterjesztett kérelem esetében
 
-ba)[^3] közreműködik az e-aláírás funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés megkötésében, ellenőrzi a szolgáltatást igénybe vevő személyazonosságát és elvégzi a szolgáltatást igénybe vevő adatainak a törvényben előírt egyeztetését,
+ba)[^8] közreműködik az e-aláírás funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés megkötésében, ellenőrzi a szolgáltatást igénybe vevő személyazonosságát és elvégzi a szolgáltatást igénybe vevő adatainak a törvényben előírt egyeztetését,
 
 bb) lehetővé teszi a tanúsítvány visszavonásával kapcsolatos bejelentés fogadását,
 
@@ -20,13 +20,13 @@ bc) lehetővé teszi az elektronikus aláíráshoz tartozó PIN kód és a vissz
 
 (3) A járási hivatal
 
-a)[^4] közreműködik az e-aláírás funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés megkötésében, ellenőrzi a szolgáltatást igénybe vevő személyazonosságát és elvégzi a szolgáltatást igénybe vevő adatainak a törvény szerinti egyeztetését,
+a)[^9] közreműködik az e-aláírás funkcióval és az időbélyegzés szolgáltatással kapcsolatos szolgáltatási szerződés megkötésében, ellenőrzi a szolgáltatást igénybe vevő személyazonosságát és elvégzi a szolgáltatást igénybe vevő adatainak a törvény szerinti egyeztetését,
 
 b) lehetővé teszi a tanúsítvány visszavonásával kapcsolatos bejelentés fogadását,
 
 c) lehetővé teszi az elektronikus aláíráshoz tartozó PIN kód és a visszavonási jelszó cseréjét.
 
-[^1]: A III. fejezet címe a 93/2016. (V. 2.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
-[^2]: Az 50. § (1) bekezdése a 93/2016. (V. 2.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 50. § (2) bekezdés b) pont ba) alpontja a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
-[^4]: Az 50. § (3) bekezdés a) pontja a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^6]: A III. fejezet címe a 93/2016. (V. 2.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^7]: Az 50. § (1) bekezdése a 93/2016. (V. 2.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 50. § (2) bekezdés b) pont ba) alpontja a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.
+[^9]: Az 50. § (3) bekezdés a) pontja a 93/2016. (V. 2.) Korm. rendelet 4. § b) pontja szerint módosított szöveg.

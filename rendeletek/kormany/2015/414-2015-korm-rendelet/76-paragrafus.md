@@ -1,5 +1,5 @@
 ## 23. Hatályon kívül helyező rendelkezések
 
-76. §[^29]
+76. §[^37]
 
-[^29]: A 76–77. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^37]: A 76–77. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

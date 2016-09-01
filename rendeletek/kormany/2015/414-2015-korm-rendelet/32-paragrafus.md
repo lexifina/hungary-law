@@ -1,6 +1,6 @@
 ## 8. A személyazonosító igazolvány cseréje
 
-## 32. § Érvényes személyazonosító igazolvány cseréjét a polgár akkor kezdeményezheti, ha
+## 32. §[^4] Érvényes személyazonosító igazolvány cseréjét a polgár akkor kezdeményezheti, ha
 
 a) az abban tárolt vagy azon szereplő adataiban változás következett be, ide nem értve az Nytv. 29. § (7) bekezdés d) és e) pontjában meghatározott adatokat,
 
@@ -8,6 +8,14 @@ b) az gyártáshibás,
 
 c) a tároló elem nem vagy hibásan tartalmazza az Nytv.-ben meghatározott, a polgárnak vagy az igazolványnak a személyiadat- és lakcímnyilvántartásban szereplő adatait,
 
-d) az érvényességi idejéből legfeljebb 60 nap van hátra, vagy
+d) az érvényességi idejéből legfeljebb 60 nap van hátra,
 
-e) a tároló elem nem működik.
+e) a tároló elem nem működik,
+
+f) a 65. életévét betöltött kérelmező tároló elemmel rendelkező személyazonosító igazolvány helyett az Nytv. 29/E. § (2) bekezdése szerinti személyazonosító igazolványt igényel,
+
+g) a 65. életévét betöltött kérelmező az Nytv. 29/E. § (2) bekezdése szerinti személyazonosító igazolvány helyett tároló elemmel rendelkező személyazonosító igazolványt igényel,
+
+h) a személyazonosító igazolvány tároló eleme ujjnyomatot nem tartalmaz, és a polgár ujjnyomat rögzítését kéri.
+
+[^4]: A 32. § a 227/2016. (VII. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
