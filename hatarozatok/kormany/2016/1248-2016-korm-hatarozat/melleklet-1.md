@@ -10,6 +10,7 @@
 
 ## 3.[^1]
 
-1. melléklet az 1248/2016. (V. 18.) Korm. határozathoz
+1. melléklet az 1248/2016. (V. 18.) Korm. határozathoz[^2]
 
 [^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet az 1476/2016. (VIII. 31.) Korm. határozat 1. pont a) pontja és 2. pontja szerint módosított szöveg.
