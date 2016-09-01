@@ -1,6 +1,6 @@
-## 31/A. §[^40] A megyei, fővárosi védelmi bizottság a Titkársága közreműködésével felügyeletet gyakorol a helyi védelmi bizottság felett. A megyei, fővárosi védelmi bizottság e jogkörében egyedi határozattal megsemmisíti a helyi védelmi bizottság jogszabálysértő döntését, szükség esetén új eljárásra utasítja a helyi védelmi bizottságot.
+## 31/A. §[^57] A megyei, fővárosi védelmi bizottság a Titkársága közreműködésével felügyeletet gyakorol a helyi védelmi bizottság felett. A megyei, fővárosi védelmi bizottság e jogkörében egyedi határozattal megsemmisíti a helyi védelmi bizottság jogszabálysértő döntését, szükség esetén új eljárásra utasítja a helyi védelmi bizottságot.
 
-31/B. §[^41] (1) A megyei, fővárosi védelmi bizottság ellenőrzi a megyei, fővárosi védelmi bizottság által kijelölt helyi szerveknél a honvédelmi feladatok végrehajtását.
+31/B. §[^58] (1) A megyei, fővárosi védelmi bizottság ellenőrzi a megyei, fővárosi védelmi bizottság által kijelölt helyi szerveknél a honvédelmi feladatok végrehajtását.
 
 (2) Az (1) bekezdés szerinti ellenőrzést a megyei, fővárosi védelmi bizottság által kijelölt bizottság hajtja végre a területi államigazgatási szervek bevonásával. Ennek keretében vizsgálja és értékeli
 
@@ -24,5 +24,5 @@ i) a helyi védelmi bizottság gazdálkodásának jogszerűségét és célszer�
 
 j) a támogató infokommunikációs rendszer alkalmazását.
 
-[^40]: A 31/A. §-t a 174/2012. (VII. 26.) Korm. rendelet 87. § (7) bekezdése iktatta be.
-[^41]: A 31/B. §-t a 174/2012. (VII. 26.) Korm. rendelet 87. § (7) bekezdése iktatta be.
+[^57]: A 31/A. §-t a 174/2012. (VII. 26.) Korm. rendelet 87. § (7) bekezdése iktatta be.
+[^58]: A 31/B. §-t a 174/2012. (VII. 26.) Korm. rendelet 87. § (7) bekezdése iktatta be.

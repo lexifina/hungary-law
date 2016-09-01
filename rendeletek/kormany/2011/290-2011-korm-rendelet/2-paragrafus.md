@@ -54,7 +54,7 @@
 
 1. meghatározza a Honvédség vezetési szintjeit, azok feladat- és hatásköreit,
 
-2. irányítja az e rendelettel létrehozott központi hivatalokat,
+2.[^8]
 
 3. előkészíti a Honvédség létszámára, állományarányaira, felépítésére, felszerelésére, és az ország területének védelmi célú előkészítésére vonatkozó javaslatokat, gondoskodik a döntések végrehajtásáról,
 
@@ -108,3 +108,4 @@ jogszabályokat és – jogszabályi rendezést nem igénylő kérdésekben – 
 [^5]: A 2. § (1) bekezdését a 152/2014. (VI. 6.) Korm. rendelet 136. § (2) bekezdése hatályon kívül helyezte.
 [^6]: A 2. § (2) bekezdés 15. pontja a 273/2015. (IX. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § (2) bekezdés 21. pontját a 273/2015. (IX. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^8]: A 2. § (3) bekezdés 2. pontját a 259/2016. (VIII. 31.) Korm. rendelet 64. § a) pontja hatályon kívül helyezte.

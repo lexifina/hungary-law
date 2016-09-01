@@ -1,4 +1,4 @@
-## 33. §[^52] A Kormány a Honvédség katonai igazgatási és központi adatfeldolgozó szervének a Magyar Honvédség Katonai Igazgatási és Központi Nyilvántartó Parancsnokságot jelöli ki, amelynek illetékessége az ország egész területére kiterjed.
+## 33. §[^69] A Kormány a Honvédség katonai igazgatási és központi adatfeldolgozó szervének a Magyar Honvédség Katonai Igazgatási és Központi Nyilvántartó Parancsnokságot jelöli ki, amelynek illetékessége az ország egész területére kiterjed.
 
 ## 14. A katonai igazgatási központok illetékességi területe
 
@@ -50,4 +50,4 @@ b) a 2. Katonai Igazgatási Központ illetékessége kiterjed Hajdú-Bihar megye
 
 c) a 3. Katonai Igazgatási Központ illetékessége kiterjed Fejér megye közigazgatási területére.
 
-[^52]: A 33. § a 168/2016. (VII. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^69]: A 33. § a 168/2016. (VII. 1.) Korm. rendelet 6. §-ával megállapított szöveg.
