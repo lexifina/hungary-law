@@ -1,4 +1,4 @@
-17. §[^82] (1) A gyermekvédelmi gyám a hivatásos gyámi és a gyámi, gondozói tanácsadói feladatokat – azok megszűnéséig – a gyermekvédelmi gyámi munkakör keretében látja el.
+17. §[^81] (1) A gyermekvédelmi gyám a hivatásos gyámi és a gyámi, gondozói tanácsadói feladatokat – azok megszűnéséig – a gyermekvédelmi gyámi munkakör keretében látja el.
 
 (2) A gyermekvédelmi gyámi pótlékkal együtt a 15. § (6f) bekezdésében meghatározott pótlék nem folyósítható.
 
@@ -8,4 +8,4 @@
 
 (5) Ha a 2013. december 31-én gyermekvédelmi szakellátási intézményben pedagógus munkakörben családgondozóként vagy utógondozóként alkalmazott személyt 2014-ben gyermekvédelmi gyámi munkakörbe nevezik ki, a kinevezés időtartama alatt havi illetményének és havi rendszeres illetménypótlékainak együttes összege nem lehet kevesebb a 2013. decemberre irányadó havi illetményének és havi rendszeres illetménypótlékainak együttes összegénél.
 
-[^82]: A 17. §-t az 517/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.
+[^81]: A 17. §-t az 517/2013. (XII. 30.) Korm. rendelet 2. §-a iktatta be.

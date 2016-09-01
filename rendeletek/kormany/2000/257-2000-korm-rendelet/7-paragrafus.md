@@ -1,3 +1,5 @@
+## 6. §[^31]
+
 ## (A törvény 55. §-ához)
 
 7. § (1)[^32] A teljes napi munkaidőből hét órát kell a munkahelyen eltölteni a bölcsődében foglalkoztatott kisgyermeknevelőnek.
@@ -26,6 +28,7 @@ e)[^34] bölcsődében a sajátos nevelési igényű gyermekek nevelését, gond
 
 (5)[^35] A bölcsődében foglalkoztatottak az (1) bekezdés, a (2) bekezdés a) pontja, illetve a (3) bekezdés e) pontja szerinti, munkahelyen eltöltendő munkaidején felüli időtartam tekintetében a bölcsődei nevelést, gondozást előkészítő, illetve azzal összefüggő egyéb feladatok elvégzése, továbbá gyakornok szakmai segítése, eseti helyettesítés rendelhető el.
 
+[^31]: A 6. §-t újonnan a 60/2011. (IV. 12.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte a 244/2016. (VIII. 17.) Korm. rendelet 1. § f) pontja.
 [^32]: A 7. § (1) bekezdése a 60/2011. (IV. 12.) Korm. rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^33]: A 7. § (2) bekezdés a) pontja a 326/2008. (XII. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
 [^34]: A 7. § (3) bekezdés e) pontja a 60/2011. (IV. 12.) Korm. rendelet 9. § (1) bekezdés c) pontja, a 349/2012. (XII. 12.) Korm. rendelet 2. §-ával megállapított szöveg.

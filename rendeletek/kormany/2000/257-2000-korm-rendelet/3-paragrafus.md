@@ -1,4 +1,4 @@
-## figyelembe vehető, és ezzel a közalkalmazott rendelkezik.
+## 2/B. §[^23]
 
 ## [A törvény 23. §-ának (2)–(3) bekezdéséhez]
 
@@ -6,9 +6,7 @@
 
 a) a szociális intézmény, a gyermekjóléti és gyermekvédelmi intézmény intézményvezetője, valamint az intézményvezető helyettese,
 
-b)[^25] a Család-, Ifjúság- és Népesedéspolitikai Intézet (a továbbiakban: Intézet) főigazgatója, igazgatója és
-
-c) az Intézet gazdasági vezetője.
+b)–c)[^25]
 
 (2) Vezetőnek minősül
 
@@ -18,10 +16,12 @@ b) az intézmény szervezeti és működési szabályzatában meghatározott, a 
 
 c) az (1) bekezdés a) pontja szerinti intézmény gazdasági vezetője, a vezető gondozó, az intézményvezető ápoló, az osztályvezető ápoló, a szociális és mentálhigiénés csoportvezető, a vezető pedagógus, a bölcsődei tagintézmény-vezető,
 
-d) az Intézet igazgatóhelyettese, főosztályvezetője, osztályvezetője és csoportvezetője.
+d)[^26]
 
-(3)[^26] A magasabb vezető beosztásra történő megbízás feltétele az (1) bekezdés b) és c) pontja szerinti megbízás kivételével legalább öt év felsőfokú végzettséget vagy felsőfokú szakmai képesítést igénylő, a gyermekvédelem, a szociális ellátás, az egészségügyi ellátás, illetve a közoktatás területén betöltött munkakörben szerzett szakmai gyakorlat.
+(3)[^27] A magasabb vezető beosztásra történő megbízás feltétele legalább öt év felsőfokú végzettséget vagy felsőfokú szakmai képesítést igénylő, a gyermekvédelem, a szociális ellátás, az egészségügyi ellátás, illetve a közoktatás területén betöltött munkakörben szerzett szakmai gyakorlat.
 
+[^23]: A 2/B. §-t újonnan a 60/2011. (IV. 12.) Korm. rendelet 2. §-a iktatta be, hatályon kívül helyezte a 244/2016. (VIII. 17.) Korm. rendelet 1. § b) pontja.
 [^24]: A 3. § a 60/2011. (IV. 12.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^25]: A 3. § (1) bekezdés b) pontja a 116/2016. (VI. 6.) Korm. rendelet 15. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^26]: A 3. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 31. § (2) bekezdése szerint módosított szöveg.
+[^25]: A 3. § (1) bekezdés b)–c) pontját a 244/2016. (VIII. 17.) Korm. rendelet 1. § c) pontja hatályon kívül helyezte.
+[^26]: A 3. § (2) bekezdés d) pontját a 244/2016. (VIII. 17.) Korm. rendelet 1. § d) pontja hatályon kívül helyezte.
+[^27]: A 3. § (3) bekezdése a 244/2016. (VIII. 17.) Korm. rendelet 1. § e) pontja szerint módosított szöveg.
