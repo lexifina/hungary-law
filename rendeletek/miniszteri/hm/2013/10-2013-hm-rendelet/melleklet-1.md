@@ -1,4 +1,4 @@
-## 49. §[^8]
+## 49. §[^9]
 
 1. melléklet a 10/2013. (VIII. 12.) HM rendelethez
 
@@ -54,4 +54,4 @@ ___________
 
 * A megfelelő rész aláhúzandó.
 
-[^8]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 49. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
