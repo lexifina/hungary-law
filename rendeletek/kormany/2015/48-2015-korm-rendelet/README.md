@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-48-20-2
 | 2015-03-13 | 2015-48-20-22.1 | 48/2015. (III. 12.) Korm. rendelet |
 | 2015-04-01 | 2015-48-20-22.2 | 72/2015. (III. 30.) Korm. rendelet |
 | 2015-10-08 | 2015-48-20-22.3 | 289/2015. (X. 7.) Korm. rendelet |
+| 2016-09-01 | 2015-48-20-22.4 | 72/2015. (III. 30.) Korm. rendelet |
