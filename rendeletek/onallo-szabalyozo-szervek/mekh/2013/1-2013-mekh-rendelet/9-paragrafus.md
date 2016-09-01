@@ -50,6 +50,13 @@ e) a földgáztermelő
 
 (14) Az R. 3/A. § (1) bekezdése szerinti visszatérítés mértékét a 3. melléklet 2. pontja, az R. 3/A. § (2) bekezdése szerinti táblázatot a 3. melléklet 3. pontja tartalmazza.
 
+(15)[^61] A földgázszállító hálózatokhoz való hozzáférés feltételeiről és az 1775/2005/EK rendelet hatályon kívül helyezéséről szóló 715/2009/EK európai parlamenti és tanácsi rendelet szerinti
+
+a) lekötött kapacitás visszaadása, illetve
+
+b) hosszú távú lekötött kapacitás visszavétele
+
 [^58]: A 9. § (3) bekezdése a 13/2015. (XII. 11.) MEKH rendelet 11. § d) pontja szerint módosított szöveg.
 [^59]: A 9. § (11) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § e) pontja szerint módosított szöveg.
 [^60]: A 9. § (12) bekezdését a 8/2014. (IX. 15.) MEKH rendelet 15. § b) pontja hatályon kívül helyezte.
+[^61]: A 9. § (15) bekezdését az 5/2016. (VIII. 16.) MEKH rendelet 2. §-a iktatta be.
