@@ -22,7 +22,7 @@
 
 | 10. | A légiközlekedésre, a földi telepítésű berendezések működésére és a légiközlekedés biztonságára vonatkozó követelmények | Nemzeti Közlekedési Hatóság Légügyi Hivatala |
 
-| 11. | A Magyar Honvédség nemzeti és szövetségi védelmi feladatainak ellátásához kapcsolódó követelmények | Honvédelmi Minisztérium Hatósági Hivatal vezetője |
+| 11. | A Magyar Honvédség nemzeti és szövetségi védelmi feladatainak ellátásához kapcsolódó követelmények | honvédelemért felelős miniszter |
 
 | 12. | A tervezett koncessziós tevékenység érint-e helyi természetvédelmi oltalom alatt álló (önkormányzati rendeletben meghatározott) területet, és a helyi építési szabályzatnak való megfelelése. | Települési önkormányzat jegyzője, fővárosban a főjegyző |
 

@@ -2,4 +2,4 @@
 
 1. melléklet a 103/2011. (VI. 29.) Korm. rendelethez[^19]
 
-[^19]: Az 1. melléklet a 441/2015. (XII. 28.) Korm. rendelet 140. § (4) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^19]: Az 1. melléklet a 441/2015. (XII. 28.) Korm. rendelet 140. § (4) bekezdésével megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 48. §-a szerint módosított szöveg.
