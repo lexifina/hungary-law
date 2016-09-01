@@ -254,7 +254,7 @@
 
 4. Rendészeti Szakközépiskolák
 
-5.[^14] Közszolgálati Személyzetfejlesztési Főigazgatóság
+5.[^14]
 
 6. Nemzetbiztonsági Szakszolgálat
 
@@ -276,7 +276,7 @@
 
 15.[^19] Bevándorlási és Állampolgársági Hivatal Befogadó Állomás, Bicske
 
-16.[^20] Belügyminisztérium Nemzetközi Oktatási Központ
+16.[^20]
 
 17.[^21] Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala
 
@@ -288,11 +288,11 @@
 [^11]: Az 1. melléklet 20/A. pontját a 4/2016. (I. 22.) BM rendelet 1. pontja iktatta be.
 [^12]: Az 1. melléklet 27. pont l) pontját a 61/2014. (XII. 12.) BM rendelet 3. §-a iktatta be.
 [^13]: Az 1. melléklet 32. pontját a 4/2016. (I. 22.) BM rendelet 1. pontja iktatta be.
-[^14]: A 2. melléklet 5. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^14]: A 2. melléklet 5. pontját a 37/2016. (IX. 1.) BM rendelet 4. §-a hatályon kívül helyezte.
 [^15]: A 2. melléklet 9. pontja a 29/2016. (VII. 15.) BM rendelet 4. §-ával megállapított szöveg.
 [^16]: A 2. melléklet 12. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
 [^17]: A 2. melléklet 13. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
 [^18]: A 2. melléklet 14. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
 [^19]: A 2. melléklet 15. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
-[^20]: A 2. melléklet 16. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
+[^20]: A 2. melléklet 16. pontját a 37/2016. (IX. 1.) BM rendelet 4. §-a hatályon kívül helyezte.
 [^21]: A 2. melléklet 17. pontja a 61/2014. (XII. 12.) BM rendelet 2. §-a szerint módosított szöveg.
