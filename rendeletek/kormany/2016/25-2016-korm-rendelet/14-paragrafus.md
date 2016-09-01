@@ -1,4 +1,4 @@
-## 8–13. §[^10]
+## 8–13. §[^7]
 
 ## 3. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1. § (1) bekezdése, az 5. § (3) bekezdése és a 3. melléklet 2020. január 1-jén lép hatályba.
 
-[^10]: A 8–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 8–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

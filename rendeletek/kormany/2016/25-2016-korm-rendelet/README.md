@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-25-20-2
 | --- | --- | --- |
 | 2016-03-04 | 2016-25-20-22.1 | 25/2016. (II. 25.) Korm. rendelet |
 | 2016-03-05 | 2016-25-20-22.2 | 2010: CXXX. törvény |
+| 2016-09-01 | 2016-25-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
