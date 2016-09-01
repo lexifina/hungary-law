@@ -24,4 +24,6 @@ d) a c) pont szerinti feladatkörrel rendelkező miniszter hiányában, vagy ha 
 
 (6) Az atomenergia békés célú alkalmazásával összefüggő nukleáris biztonságot, nukleáris védettséget és a nukleáris biztosítéki területet érintő beszerzések esetében a kérelemhez az Országos Atomenergia Hivatal szakmai véleményét is csatolni kell, amelyben az Országos Atomenergia Hivatal az ajánlatkérő erre irányuló megkeresésének kézhezvételétől számított 8 napon belül nyilatkozik arról, hogy a beszerzés érinti-e a nukleáris biztonságot.
 
-(7) Ha az 1. § szerinti, Vbt. szerinti beszerzési eljárás lefolytatása alól mentesíteni kívánt szerződést nemzetbiztonsági szolgálat – ide nem értve a Terrorelhárítási és Bűnügyi Elemző Központot – kívánja megvalósítani, akkor külön szakmai állásfoglalást nem kell beszereznie, hanem a (4) és (5) bekezdésben meghatározott körülményeket a mentesítési kérelemben ismerteti.
+(7)[^1] Ha az 1. § szerinti, Vbt. szerinti beszerzési eljárás lefolytatása alól mentesíteni kívánt szerződést nemzetbiztonsági szolgálat – ide nem értve a Terrorelhárítási Információs és Bűnügyi Elemző Központot – kívánja megvalósítani, akkor külön szakmai állásfoglalást nem kell beszereznie, hanem a (4) és (5) bekezdésben meghatározott körülményeket a mentesítési kérelemben ismerteti.
+
+[^1]: A 2. § (7) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 2. §-a szerint módosított szöveg.
