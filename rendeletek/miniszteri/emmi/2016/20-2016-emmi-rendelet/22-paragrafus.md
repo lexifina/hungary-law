@@ -1,0 +1,5 @@
+## 21. § Az R. 175. § (1) és (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az Arany János Kollégiumi-Szakközépiskolai Programban azok a szakközépiskolák és kollégiumok vehetnek részt, amelyek közösen vállalják, hogy az Arany János Kollégiumi-Szakközépiskolai Programban részt vevő tanulóknak nappali rendszerű iskolai oktatás keretében szakközépiskolában, kollégiumi elhelyezéssel államilag elismert szakképesítés megszerzését biztosítják.
+
+## (2) Az Arany János Kollégiumi-Szakközépiskolai Programban részt vevő kollégium kiválasztása a 174. § (2)–(5) bekezdése szerinti eljárással történik. Az Arany János Kollégiumi-Szakközépiskolai Program esetében a pályázathoz a 174. § (5) bekezdésében foglaltakon túl csatolni kell a partnerként közreműködő szakközépiskola nyilatkozatát arról, hogy a résztvevők szakközépiskolai tanulmányokra történő felkészítését, a tanulmányok megkezdését és a tanulmányok alatti felkészítést biztosítja. A kollégium fenntartói jogának átadása esetén a 174. § (6) bekezdésében foglaltak az irányadók.”
