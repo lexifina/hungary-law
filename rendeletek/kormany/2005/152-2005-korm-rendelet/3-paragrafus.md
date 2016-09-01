@@ -1,14 +1,10 @@
-3. § (1)[^12] Az esélyteremtő ösztöndíjak esetében pályázhat az a Magyarország területén működő köznevelési intézménnyel tanulói jogviszonyban álló magyar állampolgár vagy külföldi állampolgár, aki halmozottan hátrányos helyzetű vagy védelembe vett vagy családba fogadott vagy ideiglenes hatállyal elhelyezett vagy utógondozásban részesül vagy hátrányos helyzetű, és a pályázat időszakának tanévében nappali rendszerű iskolai oktatás keretében:
+3. § (1)[^12] Az 1. § (2) bekezdés a)–c) pontjai szerinti esélyteremtő ösztöndíjak esetében az a Magyarország területén működő köznevelési intézménnyel tanulói jogviszonyban álló magyar állampolgár vagy külföldi állampolgár pályázhat, aki halmozottan hátrányos helyzetű vagy védelembe vett vagy családba fogadott vagy ideiglenes hatállyal elhelyezett vagy utógondozásban részesül vagy hátrányos helyzetű, és a pályázat időszakának tanévében nappali rendszerű iskolai oktatás keretében:
 
-a) az Út a középiskolába ösztöndíj esetén 7–8. évfolyamon tanul;
+a) az Út a középiskolába ösztöndíj esetén 7–8. évfolyamon;
 
-b) az Út az érettségihez ösztöndíj esetében középiskolában érettségit adó képzésben 9–12. évfolyamon, illetve 6 vagy 8 évfolyammal működő középiskolában 7–12. évfolyamon vagy két tanítási nyelvű, vagy nyelvi előkészítő osztállyal induló oktatásban 7–13. évfolyamon tanul (az előbbi évfolyamokba beleértendők a 7 Ny, 7 N, 9 N és 9 Ny és 9 Kny évfolyamok is);
+b) az Út az érettségihez ösztöndíj esetében középiskolában érettségit adó képzésben 9–12. évfolyamon, illetve 6 vagy 8 évfolyammal működő középiskolában 7–12. évfolyamon vagy két tanítási nyelvű, vagy nyelvi előkészítő osztállyal induló oktatásban 7–13. évfolyamon tanul – ideértve a nyelvi előkészítő évfolyammal szervezett nevelés-oktatás 7 Ny és 9 Ny, nemzetiségi nevelés-oktatást folytató középiskola nemzetiségi előkészítő 7 N, 9 N és a két tanítási nyelvű középiskola által szervezett nevelés-oktatás 9 Kny évfolyamait is –, továbbá a szakközépiskola érettségi vizsgára felkészítő 12–13. évfolyamain, valamint
 
-c) az Út a szakmához ösztöndíj esetében
-
-ca) szakiskolai képzésben általános műveltséget megalapozó nevelés-oktatás keretében – 9–10. évfolyamon – tanul,
-
-cb) szakiskola valamely szakképző évfolyamán az ösztöndíjas jogviszony tanévében tanul.
+c) az Út a szakmához ösztöndíj esetében szakközépiskola valamely szakképzési évfolyamán továbbá a szakiskola, készségfejlesztő iskola valamely évfolyamán az ösztöndíjas jogviszony tanévében tanul.
 
 (2)[^13]
 
@@ -26,7 +22,7 @@ b) az Út a szakmához ösztöndíj esetében tanárképzésben vagy tanítói k
 
 (7)[^18] Az esélyteremtő ösztöndíjakra nem pályázhat olyan tanuló vagy mentor, aki az Út a szakmaválasztáshoz programban ösztöndíjban részesül.
 
-[^12]: A 3. § (1) bekezdése a 207/2013. (VI. 17.) Korm. rendelet 3. § (1) bekezdésével megállapított, nyitó szövegrésze az 58/2014. (III. 4.) Korm. rendelet 4. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 3. § (1) bekezdése a 171/2016. (VII. 1.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^13]: A 3. § (2) bekezdését a 222/2012. (VIII. 15.) Korm. rendelet 13. § (1) bekezdés a) pontja hatályon kívül helyezte.
 [^14]: A 3. § (3) bekezdése a 157/2009. (VII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított, a 7. § (2) bekezdése, a 222/2012. (VIII. 15.) Korm. rendelet 12. § e) pontja, a 207/2013. (VI. 17.) Korm. rendelet 12. § d) pontja szerint módosított szöveg.
 [^15]: A 3. § (4) bekezdése a 38/2007. (III. 7.) Korm. rendelet 2. § (2) bekezdésével megállapított és a 207/2013. (VI. 17.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
