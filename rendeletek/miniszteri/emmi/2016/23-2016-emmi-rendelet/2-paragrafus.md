@@ -1,3 +1,0 @@
-## 1. § A kerettantervek kiadásának és jóváhagyásának rendjéről szóló 51/2012. (XII. 21.) EMMI rendelet (a továbbiakban: Rendelet) 2. § (5) bekezdése helyébe a következő rendelkezés lép:
-
-## „(5) Az iskola, a pedagógus a tantárgyi kerettanterv helyi alkalmazása során a tematikai egységekben előírt tevékenységektől, ismeretektől, fejlesztési követelményektől – a Nat.-ban meghatározott fejlesztési feladatok, közműveltségi tartalmak kivételével – eltérhet, a kerettantervben meghatározott tananyag tartalmakat elhagyhat. A tantárgy felszabaduló órakerete a pedagógus döntése alapján átcsoportosítható ismétlésre, gyakorlásra az adott tanulócsoport szükségletei szerint.”
