@@ -2,6 +2,6 @@
 
 (2) Az építésfelügyelő az ellenőrzési jogosultságát a helyszíni ellenőrzés megkezdésekor az 1. melléklet szerinti építésfelügyelői igazolvány felmutatásával köteles igazolni.
 
-(3)[^2] Az építésfelügyelői igazolványt a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve állítja ki. Az építésfelügyelői igazolványok kezelésére, illetve kiadására a hivatásos, szerződéses és nyugállományú katonák, valamint a honvédelmi ágazatban foglalkoztatott köztisztviselők és közalkalmazottak igazolványairól szóló miniszteri rendelet igazolványok kezelésével, illetve kiadásával kapcsolatos szabályait kell megfelelően alkalmazni.
+(3)[^4] Az építésfelügyelői igazolványt a Magyar Honvédség katonai igazgatási és központi adatfeldolgozó szerve állítja ki. Az építésfelügyelői igazolványok kezelésére, illetve kiadására a hivatásos, szerződéses és nyugállományú katonák, valamint a honvédelmi ágazatban foglalkoztatott köztisztviselők és közalkalmazottak igazolványairól szóló miniszteri rendelet igazolványok kezelésével, illetve kiadásával kapcsolatos szabályait kell megfelelően alkalmazni.
 
-[^2]: Az 5. § (3) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 89. § (1) bekezdése szerint módosított szöveg.
+[^4]: Az 5. § (3) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 89. § (1) bekezdése szerint módosított szöveg.

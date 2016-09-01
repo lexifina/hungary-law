@@ -1,6 +1,6 @@
 ## 3. § Az építésfelügyeleti ellenőrzés célja a kivitelezési tevékenység során felhasznált építési célú termékek, építési módszerek, eljárások használatának, valamint az építésügyi hatósági engedélyben, az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvényben (a továbbiakban: Étv.), az országos településrendezési és építési követelményekről szóló kormányrendeletben, a helyi építési szabályzatban és szabályozási tervben, továbbá a NATO szabványokban, illetve egyéb jogszabályokban megfogalmazott követelmények teljesülésének ellenőrzése.
 
-4. § (1) A honvédelemért felelős miniszter évente február 15-ig ellenőrzési tervet ad ki, amelyben
+4. § (1)[^2] A katonai építésfelügyeleti hatóság évente február 15-ig ellenőrzési tervet ad ki, amelyben
 
 a) meghatározza
 
@@ -10,4 +10,7 @@ ab) azokat a honvédelmi és katonai célú beruházásokat és építőipari ki
 
 b) utóvizsgálati ellenőrzést ír elő azoknál a még folyamatban lévő építőipari kivitelezési tevékenységeknél, amelyeknél a katonai építésfelügyeleti hatóság az építésfelügyeleti ellenőrzés során szabálytalanságot állapított meg.
 
-(2) Az első fokon eljáró katonai építésfelügyeleti hatóság az építésfelügyeleti ellenőrzéseinek megállapításairól összefoglaló éves jelentést készít, amelyet évente január 31-ig köteles megküldeni a honvédelemért felelős miniszternek.
+(2)[^3] A katonai építésfelügyeleti hatóság az építésfelügyeleti ellenőrzéseinek megállapításairól tárgyév január 31-ig összefoglaló éves jelentést készít.
+
+[^2]: A 4. § (1) bekezdés nyitó szövegrésze a 259/2016. (VIII. 31.) Korm. rendelet 78. § a) pontja szerint módosított szöveg.
+[^3]: A 4. § (2) bekezdése a 259/2016. (VIII. 31.) Korm. rendelet 78. § b) pontja szerint módosított szöveg.

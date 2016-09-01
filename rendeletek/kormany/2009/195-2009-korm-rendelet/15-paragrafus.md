@@ -1,10 +1,10 @@
 ## Működési feltételek
 
-15. § (1)[^7] A katonai építésfelügyeleti hatósághoz tartozó – kormánytisztviselői, hivatásos és szerződéses katonai – létszámot úgy kell meghatározni, hogy a hatósági tevékenység folyamatos végzése biztosított legyen.
+15. § (1)[^10] A katonai építésfelügyeleti hatósághoz tartozó – kormánytisztviselői, hivatásos és szerződéses katonai – létszámot úgy kell meghatározni, hogy a hatósági tevékenység folyamatos végzése biztosított legyen.
 
 (2) A katonai építésfelügyeleti ellenőrzési tevékenységet, az építésfelügyeleti hatósági ügyek döntésre való szakmai előkészítését, a döntés meghozatalát, végrehajtását ellátó építésfelügyelő foglalkoztatási feltétele a külön jogszabályokban előírt nemzetbiztonsági ellenőrzés és a Nemzeti Biztonsági Tanúsítvány meglétén túl
 
-a)[^8] kormánytisztviselő esetén az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló kormányrendeletben foglalt alkalmazási feltételek teljesítése,
+a)[^11] kormánytisztviselő esetén az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló kormányrendeletben foglalt alkalmazási feltételek teljesítése,
 
 b) hivatásos és szerződéses állományú katona esetén
 
@@ -36,5 +36,5 @@ j) katonai elhelyezési vagy ingatlankezelési
 
 tevékenység folytatásának időtartamát kell figyelembe venni.
 
-[^7]: A 15. § (1) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 89. § (3) bekezdése szerint módosított szöveg.
-[^8]: A 15. § (2) bekezdés a) pontja a 290/2011. (XII. 22.) Korm. rendelet 89. § (4) bekezdése szerint módosított szöveg.
+[^10]: A 15. § (1) bekezdése a 290/2011. (XII. 22.) Korm. rendelet 89. § (3) bekezdése szerint módosított szöveg.
+[^11]: A 15. § (2) bekezdés a) pontja a 290/2011. (XII. 22.) Korm. rendelet 89. § (4) bekezdése szerint módosított szöveg.
