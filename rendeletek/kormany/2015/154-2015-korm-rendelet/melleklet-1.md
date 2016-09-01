@@ -20,6 +20,8 @@ I. Az általános rendőrségi feladatok ellátására létrehozott szerv
 
 | 7. |  | megyei, fővárosi rendőr-főkapitányság |  |
 
+| 8. |  | Nemzetközi Oktatási Központ | – |
+
 II. Belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
 
 |  | A | B | C |
@@ -94,6 +96,8 @@ V. Büntetés-végrehajtási szervezet
 
 | 21. |  | Központi Kivizsgáló és Módszertani Intézet |  |
 
+| 22. |  | Tököli Országos Büntetés-végrehajtási Intézet | – |
+
 VI. Országgyűlési Őrség
 
 |  | A | B | C |
@@ -128,4 +132,4 @@ IX. Nemzetbiztonsági Szakszolgálat
 
 X. Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
-[^25]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^25]: Az 1. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (1) bekezdése, a 442/2015. (XII. 28.) Korm. rendelet 7. §-a, a 186/2016. (VII. 13.) Korm. rendelet 13. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § a) pontja szerint módosított szöveg.

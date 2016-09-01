@@ -36,6 +36,8 @@ I. Az általános rendőrségi feladatok ellátására létrehozott szerv
 
 | 12. | határrendészeti kirendeltség | határrendészeti kirendeltségvezető |
 
+| 13. | Nemzetközi Oktatási Központ | igazgató |
+
 II. Belső bűnmegelőzési és bűnfelderítési feladatokat ellátó szerv
 
 |  | A | B |
@@ -78,7 +80,7 @@ V. Büntetés-végrehajtási szervezet
 
 | 4. | Igazságügyi Megfigyelő és Elmegyógyító Intézet | főigazgató-főorvos |
 
-| 4a. | Központi Kivizsgáló és Módszertani Intézet | igazgató |
+| 4a. | Központi Kivizsgáló és Módszertani Intézet | főigazgató |
 
 | 5. | a 3–4a. sorban nem szereplő büntetés-végrehajtási intézet | büntetés-végrehajtási intézet parancsnoka |
 
@@ -130,4 +132,4 @@ IX. Nemzetbiztonsági Szakszolgálat
 
 X. Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
-[^26]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a szerint módosított szöveg.
+[^26]: A 2. melléklet a 394/2015. (XII. 12.) Korm. rendelet 8. § (2) bekezdése, a 186/2016. (VII. 13.) Korm. rendelet 14. §-a, a 227/2016. (VII. 29.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
