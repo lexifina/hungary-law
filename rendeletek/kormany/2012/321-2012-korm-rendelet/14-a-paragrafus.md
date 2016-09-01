@@ -6,7 +6,7 @@ a) lakosságszáma a KSH által a kezdeményezés elbírálásának évében nyi
 
 b) esetében a csatornázottsági arány minimum 60%-os,
 
-c) területén az országos településrendezési és építési követelményekről szóló kormányrendelet szerinti teljes közművesítettség 60%-ban megvalósul,
+c)[^5] esetében a KSH által az 1. mellékletben meghatározott mutatók alapján számított várossá nyilvánítási komplex mutatószám eléri a tárgyévre vonatkozó városi átlagot,
 
 d) esetén a belterületi szilárdburkolatú utak aránya legalább 90%-os,
 
@@ -25,3 +25,4 @@ j) rendelkezik tanuszodával vagy többcélú sportcsarnokkal,
 k) esetén – ha a helyi önkormányzat bevezetett ilyen adónemet – az elbírálást megelőző évben a helyi önkormányzat bevételeinek legalább 20%-a helyi iparűzési adóból folyt be.
 
 [^4]: A 14/A. §-t a 61/2015. (III. 24.) Korm. rendelet 9. §-a iktatta be.
+[^5]: A 14/A. § (2) bekezdés c) pontja a 136/2016. (VI. 13.) Korm. rendelet 6. §-ával megállapított szöveg.

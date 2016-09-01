@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-321-20-
 | 2013-03-09 | 2012-321-20-22.2 | 67/2013. (III. 8.) Korm. rendelet |
 | 2015-03-25 | 2012-321-20-22.3 | 61/2015. (III. 24.) Korm. rendelet |
 | 2015-04-01 | 2012-321-20-22.4 | 70/2015. (III. 30.) Korm. rendelet |
+| 2016-09-01 | 2012-321-20-22.5 | 136/2016. (VI. 13.) Korm. rendelet |
