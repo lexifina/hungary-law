@@ -412,7 +412,7 @@ II. Idegen nyelvek műveltségi terület
 
 – a képzési idő 10 félév
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakiskolai szakaszainak évfolyamain, a felnőttképzésben, az angol nyelv tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakközépiskolai szakaszainak évfolyamain, a felnőttképzésben, az angol nyelv tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
 
 4. Az elsajátítandó szakmai tudás, képesség
 
@@ -504,7 +504,7 @@ b) Az általános iskolai tanári szakon az önálló képzési szakasz ismeretk
 
 – Szóbeli és írásbeli tudományos és osztálytermi nyelvhasználat (prezentációs készségek, képességek fejlesztése), minimum 8 kredit.
 
-– Az általános iskolai és szakiskolai tantárgy-pedagógiához kapcsolódó ismeretek és kompetenciák, minimum 8 kredit.
+– Az általános iskolai és szakközépiskolai tantárgy-pedagógiához kapcsolódó ismeretek és kompetenciák, minimum 8 kredit.
 
 5. Az angol nyelv és kultúra tanára sajátos szakmódszertani (tantárgy-pedagógiai) ismeretei
 
@@ -824,7 +824,7 @@ A mesterképzésbe történő belépés további feltétele egy idegen nyelvből
 
 – a képzési idő 10 félév
 
-3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakiskolai szakaszainak évfolyamain, a felnőttképzésben a német nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
+3. A képzés célja az iskolai nevelés-oktatás, valamint az iskolai nevelés-oktatás szakképesítés megszerzésére felkészítő szakközépiskolai szakaszainak évfolyamain, a felnőttképzésben a német nyelv és kultúra tantárgy tanítására, az iskola pedagógiai feladatainak ellátására pedagógiai kutatási, tervezési és fejlesztési feladatok végzésére képes tanárok képzése, továbbá a tanulmányok doktori képzésben való folytatására történő felkészítése.
 
 4. Az elsajátítandó szakmai tudás, képesség
 
@@ -4240,4 +4240,4 @@ III. Matematika műveltségi terület
 
 – a képzési idő 10 félév
 
-[^11]: A 3. melléklet a 18/2016. (VIII. 5.) EMMI rendelet 15. § (2) bekezdése szerint módosított szöveg.
+[^11]: A 3. melléklet a 18/2016. (VIII. 5.) EMMI rendelet 15. § (2) és (3) bekezdése szerint módosított szöveg.
