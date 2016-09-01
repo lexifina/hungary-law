@@ -1,6 +1,4 @@
-## 10. § A Magyar Bírósági Végrehajtói Kar egyes feladatairól, valamint egyes igazságügyi tárgyú miniszteri rendeletek módosításáról szóló 5/2016. (III. 8.) IM rendelet (a továbbiakban: Rendelet) 10. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-## „(2) A 13. § (1), (2) és (13) bekezdése, a 13. § (17) bekezdés a) pontja, a 14. § (1)–(5) és (7) bekezdése, valamint a 15. § 2017. január 1. napján lép hatályba.”
+## 10. §[^2]
 
 11. § (1) A bírósági végrehajtás szervezetéről szóló 16/2001. (X. 26.) IM rendeletnek a Rendelet 13. § (13) bekezdésével megállapított 77. §-a a következő szöveggel lép hatályba:
 
@@ -13,3 +11,5 @@
 (3) A közjegyzői ügyvitel szabályairól szóló 37/2003. (X. 29.) IM rendeletnek a Rendelet 15. § (3) bekezdésével megállapított 55. § (3) bekezdése a következő szöveggel lép hatályba:
 
 „(3) E rendeletnek a Magyar Bírósági Végrehajtói Kar egyes feladatairól, valamint egyes igazságügyi tárgyú miniszteri rendeletek módosításáról szóló 5/2016. (III. 8.) IM rendelettel megállapított rendelkezéseit a 2017. január 1. napját követően elrendelt végrehajtási ügyek vonatkozásában kell alkalmazni.”
+
+[^2]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
