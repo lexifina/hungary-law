@@ -9,3 +9,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-100-00-00
 | 2016-01-01 | 1210/2016. (IV. 25.) Korm. határozat | 2015-100-00-00.2 |
 | 2016-06-24 | 2016. évi LXXVI. törvény | 2015-100-00-00.3 |
 | 2016-07-01 | 2016. évi LXXVI. törvény | 2015-100-00-00.4 |
+| 2016-09-01 | 2016. évi LXXVI. törvény | 2015-100-00-00.5 |
