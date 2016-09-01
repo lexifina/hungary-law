@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-311-20-
 | 2012-12-18 | 2006-311-20-22.8 | 365/2012. (XII. 17.) Korm. rendelet |
 | 2014-09-05 | 2006-311-20-22.9 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2015-04-01 | 2006-311-20-22.10 | 62/2015. (III. 24.) Korm. rendelet |
+| 2016-09-01 | 2006-311-20-22.11 | 264/2016. (VIII. 31.) Korm. rendelet |
