@@ -4,11 +4,13 @@
 
 ## 37. A tanulói pénzbeli juttatás mértéke
 
-63. § (1) Pénzbeli juttatást köteles fizetni
+63. § (1) Pénzbeli juttatást kizárólag
 
 a) a gyakorlati képzést szervező szervezet a tanuló részére a tanulószerződés alapján, továbbá
 
-b) a gyakorlati képzést folytató szervezet az 56. §-ban foglaltak szerint a gyakorlati képzésben együttműködési megállapodás alapján és nappali rendszerű oktatásban és a nappali oktatás munkarendje szerint szervezett felnőttoktatásban részt vevő tanuló részére a szorgalmi időszakon kívüli összefüggő szakmai gyakorlat idejére.
+b) a gyakorlati képzést folytató szervezet az 56. §-ban foglaltak szerint a gyakorlati képzésben együttműködési megállapodás alapján és nappali rendszerű oktatásban és a nappali oktatás munkarendje szerint szervezett felnőttoktatásban részt vevő tanuló részére a szorgalmi időszakon kívüli összefüggő szakmai gyakorlat idejére
+
+köteles fizetni.
 
 (2) Tanulószerződés alapján kifizetett tanulói pénzbeli juttatás havi mértékének legkisebb összege annak a szakképzési évfolyamnak az első félévében, amelyben a tanuló tanulószerződés alapján vesz részt szakképzésben, ha – a szakképesítésre a szakmai és vizsgakövetelményben meghatározott elméleti és gyakorlati képzési idő arányát figyelembe véve – a gyakorlati képzési idő eléri
 

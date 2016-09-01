@@ -10,6 +10,6 @@
 
 (5) Az adott szakképző iskola típusára és évfolyamára – a nemzeti köznevelésről szóló törvényben – a nappali rendszerű oktatásra meghatározott tanulói éves kötelező összes óraszám szakmai elméleti és gyakorlati képzésre rendelkezésre álló részének legalább kilencven százalékának tartalmát a szakképzési kerettanterv állapítja meg. A szabadon hagyott időkeret szakmai tartalmát a szakképző iskola szakmai programja határozza meg.
 
-(6)
+(6) A tanulószerződés alapján folyó gyakorlati képzés esetén a teljes gyakorlati képzési idő 5%-át kitevő időtartamban a tanuló – kiskorú tanuló esetén a szülő (törvényes képviselő) – vagy a gyakorlati képzést folytató szervezet kezdeményezésére gyakorlati tananyagtartalmak szakképző iskolában történő elsajátítására kerül sor a szakképző iskola vezetője által a gazdasági kamara – a gyakorlati képzés feltételrendszerének megfelelőségére vonatkozó – véleményének kikérésével meghozott döntés alapján. Ennek megvalósítására a befejező szakképzési évfolyam második félévében egybefüggően kerül sor.
 
 (7) A szakképzési kerettantervet a szakképzésért és felnőttképzésért felelős miniszter – az oktatásért felelős miniszterrel és az adott szakképesítésért felelős miniszterrel egyetértésben – adja ki rendeletben.

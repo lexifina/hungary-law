@@ -2,7 +2,7 @@
 
 44. § (1) A nyilvántartás tartalmazza
 
-a) a gyakorlati képzés folytatására jogosult szervezet megnevezését, székhelyén vagy telephelyén lévő gyakorlati képzési helyszínét vagy helyszíneit, adószámát, statisztikai számjelét, cégjegyzékszámát vagy egyéni vállalkozó, egyéb szervezet nyilvántartási számát, képviselőjének és a gyakorlati képzésért felelős személy nevét,
+a) a gyakorlati képzés folytatására jogosult szervezet megnevezését, székhelyén vagy telephelyén lévő gyakorlati képzési helyszínét vagy helyszíneit, adószámát, statisztikai számjelét, cégjegyzékszámát vagy egyéni vállalkozó, egyéb szervezet nyilvántartási számát, képviselőjének és a gyakorlati képzésért felelős személy nevét, valamint azt, hogy az Szht. 3. § d) pontjában meghatározott szervezetek körébe tartozik-e,
 
 b) azon szakképesítésnek a megnevezését és azonosító számát, amelyekre a gyakorlati képzőhely a felkészítést nyújtja,
 

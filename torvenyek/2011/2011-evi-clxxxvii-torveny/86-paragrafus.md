@@ -26,4 +26,4 @@ meghatározott adatokról. A pályakövetési rendszer működtetéséért felel
 
 (9) A pályakövetési rendszer működésére, az adatszolgáltatás rendjére, továbbá a pályakövetési rendszer működtetéséért felelős szerv feladataira vonatkozó részletes szabályokat kormányrendelet állapítja meg.
 
-(10) A pályakövetési rendszer működtetéséért felelős szerv a 4/A. § (2) bekezdése szerinti miniszter részére a felelősségi körébe tartozó szakképesítésekre és ezeket megalapozó ágazati szakközépiskolai képzésekre vonatkozóan a szakképesítésért felelős miniszter megkeresését követő 15 napon belül személyazonosításra alkalmatlan pályakövetési adatokat szolgáltat.
+(10) A pályakövetési rendszer működtetéséért felelős szerv a 4/A. § (2) bekezdése szerinti miniszter részére a felelősségi körébe tartozó szakképesítésekre és ezeket megalapozó ágazati szakgimnáziumi képzésekre vonatkozóan a szakképesítésért felelős miniszter megkeresését követő 15 napon belül személyazonosításra alkalmatlan pályakövetési adatokat szolgáltat.

@@ -2,7 +2,7 @@
 
 (2)–(9)
 
-(10) Ha az Szt. 2. § (6) bekezdése szerint vagy a Kt. 89/B. § (13) bekezdése szerint létrejött gazdasági társaság az uniós támogatás kedvezményezettje és legalább egy tulajdonosa olyan önkormányzat, amely 2012. december 31-ig szakképző iskola fenntartója volt, – eltérő megállapodás hiányában – 2013. január 1-jét követően is a gazdasági társaság a 92. § (6) bekezdése szerint kijelölt jogi személy. Ebben az esetben az állami intézményfenntartó központ és a szakképzési centrum fenntartója köteles együttműködni a fenntartási kötelezettség teljesítése érdekében az e bekezdés szerinti gazdasági társasággal és a térségi integrált szakképző központ tagjaival, azonban az uniós támogatásban részesült projekt fenntartási kötelezettségével összefüggésben költségviselésre nem kötelezhető.
+(10)
 
 (11) A szakképző iskola fenntartója a 2013/2014-es tanév előtt indult képzéseket a szakképzési megállapodás megkötése nélkül is befejezheti, a szakképzési megállapodás megkötése, tartalma vagy annak hiánya a szakképző iskolai fenntartónak a 2013/2014-es tanévben vagy ezt követően indított szakmai képzéseivel kapcsolatos jogosultságaira vonatkozik.
 

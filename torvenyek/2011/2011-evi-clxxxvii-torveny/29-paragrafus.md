@@ -2,21 +2,21 @@
 
 29. § (1) Az állam által támogatott iskolai rendszerű szakképzésben – e törvény rendelkezéseinek figyelembevételével, függetlenül az oktatás munkarendjétől – ingyenes
 
-a) a tanuló részére az első és második szakképesítésre történő felkészítés keretében az elméleti és a gyakorlati képzés a szakiskolai képzésben az első szakképesítés esetén öt, a második szakképesítés esetén három tanéven keresztül, az érettségi végzettséggel rendelkező tanulók esetén a szakközépiskolai képzésben szakképesítésenként három tanéven keresztül, valamint a szakképesítés-ráépülésre történő felkészítés az OKJ-ban előírt képzési időnél egy tanévvel hosszabb ideig,
+a) a tanuló részére az első és második szakképesítésre történő felkészítés keretében az elméleti és a gyakorlati képzés a szakközépiskolai vagy szakiskolai képzésben az első szakképesítés esetén öt, a második szakképesítés esetén három tanéven keresztül, az érettségi végzettséggel rendelkező tanulók esetén a szakgimnáziumi képzésben szakképesítésenként három tanéven keresztül, valamint a szakképesítés-ráépülésre történő felkészítés az OKJ-ban előírt képzési időnél egy tanévvel hosszabb ideig,
 
-b) a tanuló részére a szakközépiskolában a szakmai érettségire történő felkészítés hat tanéven keresztül,
+b) a tanuló részére a szakgimnáziumban a szakmai érettségire történő felkészítés hat tanéven keresztül,
 
 c) a szakiskolai végzettséggel rendelkező tanuló részére a 24. § (3) és (4) bekezdésében meghatározott kétéves, érettségire történő középiskolai felkészítésben három tanév,
 
-d) a tanuló részére szakközépiskolában a szakmai érettségi vizsga és első alkalommal a javító- és pótló érettségi vizsga,
+d) a tanuló részére szakgimnáziumban a szakmai érettségi vizsga és első alkalommal a javító- és pótló érettségi vizsga,
 
-e) a szakközépiskolában az érettségi végzettséggel rendelkező tanuló részére egy szakmai érettségi vizsgatárgyból tett érettségi vizsga és első alkalommal a javító- és pótlóvizsga,
+e) a szakgimnáziumban az érettségi végzettséggel rendelkező tanuló részére egy szakmai érettségi vizsgatárgyból tett érettségi vizsga és első alkalommal a javító- és pótlóvizsga,
 
-f) a tanuló részére az iskolai rendszerű szakképzésben az első és második komplex szakmai vizsga és mindkét komplex szakmai vizsga esetén első alkalommal a javító- és pótlóvizsga.
+f) a tanuló részére az iskolai rendszerű szakképzésben a harmadik szakképesítés megszerzésére irányuló komplex szakmai vizsgát megelőző valamennyi komplex szakmai vizsga és első alkalommal az ezekhez kapcsolódó javító- és pótlóvizsga.
 
 (1a) Az (1) bekezdés d) és e) pontjában meghatározott javító-, pótlóvizsga ingyenes, bármely szakképző intézmény korábbi tanulója részére első alkalommal a tanulói jogviszony megszűnése után is.
 
-(1b) Az (1) bekezdésben foglaltaktól eltérően minden esetben ingyenes az iskolai rendszerű szakképzésben való részvétel a halmozottan hátrányos helyzetű és – az enyhe értelmi fogyatékos és az egyéb pszichés fejlődési zavarral küzdő tanuló kivételével – a sajátos nevelési igényű tanuló részére. Ingyenes az iskolai rendszerű szakképzésben való részvétel az enyhe értelmi fogyatékos és az egyéb pszichés fejlődési zavarral küzdő tanuló részére a második szakképesítés megszerzéséig.
+(1b) Az (1) bekezdésben foglaltaktól eltérően minden esetben ingyenes az iskolai rendszerű szakképzésben való részvétel a halmozottan hátrányos helyzetű és a sajátos nevelési igényű tanuló részére.
 
 (1c) A kormányhivatal méltányosságból, a hátrányos helyzetű tanuló – kiskorú tanuló esetén szülője, gyámja – kérelmére, valamint tartós betegség vagy egyéb, méltányolható körülmény esetén a tanuló – kiskorú tanuló esetén szülője, gyámja – kérelmére és a szakképző iskola javaslatára engedélyezheti az (1) bekezdés szerinti időtartam legfeljebb két tanévvel történő meghosszabbítását.
 

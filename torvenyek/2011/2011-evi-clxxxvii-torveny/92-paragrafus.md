@@ -4,6 +4,18 @@
 
 (2) A közoktatásról szóló 1993. évi LXXIX. törvény (a továbbiakban: Kt.) és az Szt. szabályai szerinti szakiskolai és szakközépiskolai képzés utoljára a 2012/2013-as tanévben indulhat. A 2013/2014-es tanévtől kizárólag a nemzeti köznevelésről szóló törvényben és az e törvényben meghatározott szakiskolai és szakközépiskolai képzés indítható. Ahol e törvény a nemzeti köznevelésről szóló törvény rendelkezésére utal, azon a nemzeti köznevelésről szóló törvény vonatkozó rendelkezésének hatálybalépéséig a Kt. azonos kérdést szabályozó rendelkezését kell érteni.
 
+(2a) A 2016/2017-es tanévtől szakképzés kizárólag szakgimnáziumi, szakközépiskolai és szakiskolai formában indítható.
+
+(2b) E törvény 2016. augusztus 31-én hatályos rendelkezései szerinti
+
+a) szakközépiskolai szakmai elméleti és gyakorlati képzést szakgimnáziumban,
+
+b) szakiskolai szakmai elméleti és gyakorlati képzést szakközépiskolában,
+
+c) speciális szakiskolai szakmai elméleti és gyakorlati képzést szakiskolában
+
+kell 2016. szeptember 1-jétől kifutó jelleggel megszervezni.
+
 (3) Az 5. § (7) bekezdésében meghatározottakon túl e törvény hatálybalépését követően 2016. június 30-ig, de legfeljebb a fenntartási időszak végéig térségi integrált szakképző központ tagjának minősül
 
 a) egy vagy több állami fenntartónak azonos megyében vagy a fővárosban működő összesen legalább kettő szakképző iskolája, vagy
@@ -84,4 +96,4 @@ Amennyiben a szakiskolai közismereti kerettanterv 2012. augusztus 15-ig nem ker
 
 (36) A 4/A. § (1) bekezdés b) pontjában meghatározott szakképző iskola fenntartója a 2013/2014-es tanév előtt indult képzéseket és a 2013/2014-es tanévre 2013. szeptember 1-je előtt beiskolázott tanulókat érintő képzéseket a szakképző iskola fenntartói jogainak az agrárpolitikáért felelős miniszternek történő átadása és szakképzési megállapodás megkötése nélkül is befejezheti.
 
-(37) A 2013/2014-es, a 2014/2015-ös és a 2015/2016-os tanévben szakközépiskolába beiskolázott tanuló által a kötelező szakmai érettségi vizsgatárgyból letett érettségi vizsga emelt szintű érettségi vizsgának minősül.
+(37)

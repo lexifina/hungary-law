@@ -1,4 +1,4 @@
-26. § (1) A szakiskolai képzésben a kilencedik évfolyamon a szakmai gyakorlati képzést – az összefüggő szakmai gyakorlat kivételével – a szakképző iskolában vagy a gyakorlati képzés folytatására jogosult szervezet kizárólag gyakorlati képzési célt szolgáló tanműhelyében kell megszervezni.
+26. § (1) A szakközépiskolai vagy szakiskolai képzésben a kilencedik évfolyamon a szakmai gyakorlati képzést – az összefüggő szakmai gyakorlat kivételével – a szakképző iskolában vagy a gyakorlati képzés folytatására jogosult szervezet kizárólag gyakorlati képzési célt szolgáló tanműhelyében kell megszervezni.
 
 (2) Az iskolai rendszerű szakképzésben a gyakorlati képzés a szorgalmi időszakban teljesítendő gyakorlati képzésből és a szorgalmi időszakon kívüli összefüggő szakmai gyakorlati képzésből áll.
 
@@ -10,4 +10,10 @@
 
 (6) Az iskolai rendszerű szakképzésben az összefüggő szakmai gyakorlat a szakmai és vizsgakövetelményben meghatározott gyakorlat része.
 
-(7) A szakközépiskola és a szakiskola tanulóját a szakképzési évfolyamokon tanulószerződés alapján folyó gyakorlati képzés keretében az érdekvédelem és a munkavédelem tekintetében megilletik mindazok a jogok, amelyeket a munka törvénykönyvéről szóló törvény biztosít a munkavállalók részére. A tanuló foglalkoztatására – e törvény eltérő rendelkezésének hiányában – alkalmazni kell továbbá a munkavédelemre vonatkozó jogszabályokat. A tanuló a gyakorlati képzéssel kapcsolatos igényeinek érvényesítése érdekében – a munkaügyi jogvitára vonatkozó rendelkezések szerint – jogvitát kezdeményezhet. E rendelkezések alkalmazásában munkavállalón a tanulót, munkáltatón a gyakorlati képzés szervezőjét, munkaviszonyon a tanulószerződéses jogviszonyt, szakszervezeten a tanulói szakszervezetet kell érteni.
+(7) A szakgimnázium, a szakközépiskola és a szakiskola tanulóját a szakképzési évfolyamokon tanulószerződés alapján folyó gyakorlati képzés keretében megilletik mindazon jogok, amelyet
+
+a) az érdekvédelem tekintetében a munka törvénykönyvéről szóló törvény, valamint
+
+b) az egészséget nem veszélyeztető biztonságos munkavégzés követelményei tekintetében a munkavédelemre vonatkozó törvény és végrehajtási rendeletei
+
+biztosítanak a munkavállaló részére. E rendelkezések alkalmazásában munkavállalón a tanulót, munkáltatón a gyakorlati képzés szervezőjét, munkaviszonyon a tanulószerződéses jogviszonyt kell érteni.

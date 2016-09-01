@@ -46,7 +46,7 @@ e) a komplex szakmai vizsgával kapcsolatos adatszolgáltatásnak a szabályait,
 
 f) a komplex szakmai vizsgán kiadott szakmai bizonyítványok központi elektronikus nyilvántartásának szabályait.
 
-(5) Felhatalmazást kap a Kormány, hogy megyénként és a fővárosra tekintettel rendeletben határozza meg azon szakképesítések és szakközépiskolai ágazatok körét és keretszámait, amelyekre vonatkozóan a szakképző iskola fenntartója a 84. § (5) bekezdése szerint költségvetési hozzájárulásra jogosult, valamint azon szakképesítéseket, amelyekre a bizottság a 82. § b) pontja alapján tesz javaslatot.
+(5) Felhatalmazást kap a Kormány, hogy megyénként és a fővárosra tekintettel rendeletben határozza meg azon szakképesítések és szakközépiskolai ágazatok körét és a nappali rendszerű oktatásra és a felnőttoktatásra vonatkozó keretszámait, a keretszámok átadásának lehetőségét és szabályait, a fel nem használt keretszámok felhasználásának, valamint a fenntartók keretszámokkal összefüggő – személyes adatot nem tartalmazó – adatszolgáltatásának a szabályait, amelyekre vonatkozóan a szakképző iskola fenntartója a 84. § (5) bekezdése szerint költségvetési hozzájárulásra jogosult, valamint azon szakképesítéseket, amelyekre a bizottság a 82. § b) pontja alapján tesz javaslatot.
 
 (6) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg a szakképesítéseknek az Európai Képesítési Keretrendszerhez kapcsolódó Magyar Képesítési Keretrendszer szerinti szintjeinek meghatározását és besorolását.
 

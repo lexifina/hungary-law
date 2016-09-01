@@ -14,7 +14,7 @@
 
 5. előírt gyakorlat: a szakképesítés megszerzéséhez szükséges, meghatározott munkaterületen, munkakörben korábban megszerzett gyakorlat, amelynek időtartamát a szakképesítés szakmai és vizsgakövetelménye (a továbbiakban: szakmai és vizsgakövetelmény) tartalmazza;
 
-6. első és második szakképesítés: az OKJ-ban szereplő, az iskolai rendszerű szakképzésben megszerzett első és második államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására képesít;
+6. első és második szakképesítés: az OKJ-ban szereplő, az iskolai rendszerű szakképzésben megszervezett állam által támogatott képzésben megszerzett első és második államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására képesít;
 
 7. eszköz- és felszerelési jegyzék: a szakmai és vizsgakövetelményben szakképesítésenként meghatározott, a képzési feladatok teljesítéséhez szükséges eszközök, gépek, szerszámok, alapanyagok, helyiségek és felszerelések minimuma;
 
@@ -50,7 +50,7 @@
 
 23. költségvetési támogatás: a szakképző iskolai feladatok ellátására a központi költségvetés terhére nyújtott és önkormányzati forrásból nyújtható – a költségvetési hozzájárulást is tartalmazó – támogatások összessége;
 
-24. harmadik és további szakképesítés: az iskolai rendszerű szakképzésben megszerzett, az OKJ-ban szereplő minden olyan államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására képesít, és már kettő meglévő, államilag elismert szakképesítés birtokában szerzik meg;
+24. harmadik és további szakképesítés: az iskolai rendszerű szakképzésben megszerzett, az OKJ-ban szereplő minden olyan államilag elismert szakképesítés, amely munkakör betöltésére, foglalkozás, tevékenység gyakorlására képesít, és már kettő meglévő, az iskolai rendszerű szakképzésben megszervezett állam által támogatott képzésben megszerzett államilag elismert szakképesítés birtokában szerzik meg;
 
 25. mesterképzés: olyan képzési forma, amelynek során meghatározott szakképesítéssel és szakmai gyakorlattal rendelkező szakembereket mestervizsgára készítenek fel a szakmai tevékenység mester szintű gyakorlásához szükséges szakmai elméleti és gyakorlati, a vállalkozás vezetéséhez szükséges gazdasági, jogi és munkaügyi, továbbá a tanulók képzéséhez szükséges alapvető pedagógiai ismeretek elsajátításával;
 
@@ -74,15 +74,15 @@
 
 35. rehabilitációs képzés: a megváltozott munkaképességű, fogyatékossággal élő személy sajátos képességeire alapozó, és azt fejlesztő szakmai képzés, át- és továbbképzés, amely az érintett munkavállalási esélyének, további munkahelymegtartó képességének javítását szolgálja;
 
-36. szakiskolai végzettség: szakiskolában szerzett középfokú iskolai végzettség, amely egyúttal az OKJ-ban meghatározottak szerint államilag elismert szakiskolai szakmai végzettséget is tanúsít;
+36.
 
-37. szakképzési kerettanterv: a szakmai és vizsgakövetelmény alapján kidolgozott, a szakképesítés követelményei átadásának tartalmát és menetét leíró egységes, kötelezően alkalmazandó dokumentum, amelyet a szakiskolai képzésben szakképesítésenként, a szakközépiskolákban ágazatonként és szakképesítésenként a szakképzésért és felnőttképzésért felelős miniszter rendeletben ad ki az oktatásért felelős miniszterrel és az adott szakképesítésért felelős miniszterrel egyetértésben;
+37. szakképzési kerettanterv: a szakmai és vizsgakövetelmény alapján kidolgozott, a szakképesítés követelményei átadásának tartalmát és menetét leíró egységes, kötelezően alkalmazandó dokumentum, amelyet a szakközépiskolai vagy szakiskolai képzésben szakképesítésenként, a szakgimnáziumban ágazatonként és szakképesítésenként a szakképzésért és felnőttképzésért felelős miniszter rendeletben ad ki az oktatásért felelős miniszterrel és az adott szakképesítésért felelős miniszterrel egyetértésben;
 
 38. szakmai ellenőrzés: a törvényességi és hatósági ellenőrzés mellett a szakképzés ágazati irányításának olyan eszköze, amelynek keretében a hatályos követelmények érvényesülésének szakmai vizsgálata, a kapott eredmények értékelése, az információknak a döntéshozók számára történő visszacsatolása történik meg;
 
 39. szakmai előképzettség: a szakképesítés megkezdésének feltételéül szolgáló, a szakképesítés megszerzéséhez szükséges, korábban megszerzett szakképesítés, megnevezését a szakképesítés szakmai és vizsgakövetelménye tartalmazza;
 
-40. szakmai érettségi végzettség: a nemzeti köznevelésről szóló törvényben meghatározott kötelező közismereti érettségi vizsgatárgyakból és a szakközépiskola ágazata szerinti kötelező szakmai vizsgatárgyból álló érettségi vizsgával megszerezhető végzettség, amely az OKJ-ról szóló kormányrendeletben meghatározottak szerint munkakör betöltésére képesít. Az ágazat szerinti kötelező szakmai vizsgatárgy teljesítése magasabb követelmények szerint teljesített érettségi vizsgatárgynak minősül;
+40. szakmai érettségi végzettség: a nemzeti köznevelésről szóló törvényben meghatározott kötelező közismereti érettségi vizsgatárgyakból és a szakközépiskola ágazata szerinti kötelező szakmai vizsgatárgyból álló érettségi vizsgával megszerezhető végzettség, amely az OKJ-ról szóló kormányrendeletben meghatározottak szerint munkakör betöltésére képesít;
 
 41. szakmai és vizsgakövetelmény: a szakképesítésért felelős miniszter által rendeletben kiadott központi képzési dokumentum, amely meghatározza az adott szakképesítés komplex szakmai vizsgájára történő felkészülés szakmai követelményeit, feltételeit és azokat a követelményeket, amelyeket a komplex szakmai vizsga során szükséges teljesíteni;
 

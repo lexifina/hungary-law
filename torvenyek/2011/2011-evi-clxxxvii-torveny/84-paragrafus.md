@@ -12,7 +12,9 @@
 
 (3) Amennyiben az 56. §-ban szabályozott együttműködési megállapodás alapján gyakorlati képzést folytató gazdálkodó szervezet szakképzési hozzájárulásra kötelezett, a szakképző iskola a költségvetési támogatás terhére további forrásokat nem adhat át részére.
 
-(4) Amennyiben a gyakorlati képzést részben vagy egészben folytató szervezet nem szakképzési hozzájárulásra kötelezett, a szakképző iskola fenntartója a gyakorlati képzés együttműködési megállapodás alapján folyó időarányos részére az iskolai tanműhelyben folyó gyakorlati képzés finanszírozási feltételei szerint jogosult a költségvetési támogatásra és a gyakorlati képzésben részt vevő tanuló költségeit – részben vagy egészben – megtérítheti a gyakorlati képzést részben vagy egészben folytató szervezet részére a költségvetési támogatása terhére. A költségek viselésének, megosztásának és átadásának módját a felek az együttműködési megállapodásban rögzítik.
+(4) Amennyiben a gyakorlati képzést együttműködési megállapodás alapján részben vagy egészben folytató szervezet nem szakképzési hozzájárulásra kötelezett, állami fenntartású szakképző iskola esetén az iskola, nem állami fenntartású szakképző iskola esetén az iskola fenntartója a gyakorlati képzés együttműködési megállapodás alapján folyó időarányos részére az iskolai tanműhelyben folyó gyakorlati képzés finanszírozási feltételei szerint jogosult a költségvetési támogatásra, és a gyakorlati képzésben részt vevő tanuló költségeit – részben vagy egészben – megtérítheti a gyakorlati képzést részben vagy egészben folytató szervezet részére a költségvetési támogatása terhére. A költségek viselésének, megosztásának és átadásának módját a felek az együttműködési megállapodásban rögzítik.
+
+(4a) A (4) bekezdésben foglaltakat akkor is alkalmazni kell, ha a 43. § (2) bekezdés a) pontjában meghatározott, tanulószerződés alapján gyakorlati képzést folytató egyéb szervezet az Szht. 2. § (1) bekezdés h) pontja alapján szakképzési hozzájárulásra kötelezett.
 
 (5) A Kormány rendeletben hozza meg azon szakképesítésekre vonatkozó döntését, amelyekkel kapcsolatban a szakképző iskola fenntartója költségvetési hozzájárulásra jogosult. A Kormány a döntésében megyénként és a fővárosra tekintettel meghatározza azon szakképesítések és szakközépiskolai ágazatok körét, amelyekre a szakképző iskola fenntartója
 
@@ -20,11 +22,11 @@ a) korlátozás nélkül beiskolázhat,
 
 b) költségvetési hozzájárulásra nem jogosult,
 
-c) költségvetési hozzájárulást korlátozott keretszámok alapján igényelhet, ezen belül meghatározza a Kormány az adott megyében és a fővárosban iskolai rendszerű szakképzést folytató intézmények fenntartói tekintetében, fenntartónként a szakképesítések és szakközépiskolai ágazatok keretszámait.
+c) költségvetési hozzájárulást korlátozott keretszámok alapján igényelhet, ezen belül meghatározza a Kormány az adott megyében és a fővárosban iskolai rendszerű szakképzést folytató intézmények fenntartói tekintetében, fenntartónként a szakképesítésekre és szakközépiskolai ágazatokra vonatkozóan a nappali rendszerű oktatás, valamint a felnőttoktatás keretszámait.
 
 (5a) Azon szakképesítésre és szakközépiskolai ágazatra, amelyre a bizottság javaslattételi jogköre a 81. § (3) bekezdése szerint nem terjed ki, az érintett szakképesítésért felelős miniszter – a honvédelemért felelős miniszter kivételével – megyénként és a fővárosra tekintettel tesz a 81. § (3)–(5) bekezdése szerinti tartalmú javaslatot az érintett tanévet megelőző év március utolsó munkanapjáig.
 
-(5b) Az állami szakképzési és felnőttképzési szerv a bizottság 81. § (3)–(5) bekezdése szerinti és a szakképesítésért felelős miniszter (5a) bekezdés szerinti, megyénként és a fővárosra tett javaslatában foglalt keretszámoknak a megyén, a fővároson belüli, fenntartók közötti elosztására – az (5c) bekezdés szerinti szakképesítések és szakközépiskolai ágazatok kivételével – az érintett tanévet megelőző év április utolsó munkanapjáig tesz javaslatot.
+(5b) Az állami szakképzési és felnőttképzési szerv a bizottság 81. § (3)–(5) bekezdése szerinti és a szakképesítésért felelős miniszter (5a) bekezdés szerinti, megyénként és a fővárosra tett javaslatában foglalt keretszámoknak a megyén, a fővároson belüli, fenntartók közötti elosztására – az (5c) bekezdés szerinti szakképesítések és szakgimnáziumi ágazatok kivételével – az érintett tanévet megelőző év április utolsó munkanapjáig tesz javaslatot.
 
 (5c) A keretszámok fenntartók közötti elosztásáról a 4/A. § (2) bekezdése szerinti miniszter felelősségi körébe tartozó szakképesítések és ezeket megalapozó szakközépiskolai ágazatok, továbbá a rendészeti szakképesítések és szakközépiskolai ágazatok tekintetében a szakképesítésért felelős miniszter – az (5b) bekezdés szerinti tartalommal – tesz javaslatot megyénként és a fővárosra tekintettel az érintett tanévet megelőző év április utolsó munkanapjáig.
 
@@ -43,3 +45,5 @@ c) költségvetési hozzájárulást korlátozott keretszámok alapján igényel
 (11) Az állam az e törvény értelmében ingyenesen biztosítandó képzésekhez költségvetési hozzájárulást biztosít.
 
 (12) A szakképző iskola térítési díjat szedhet a 29. § (1) bekezdésében meghatározottak után, amennyiben kizárólag költségvetési hozzájárulásra jogosult. A térítési díjat a tanulói jogviszony kezdete előtt kell megállapítani és a tanuló tudomására hozni. A szakképző iskola nem szedhet térítési díjat a gyakorlati képzés tanulószerződés keretében folyó része után.
+
+(13) A Kormány (5) bekezdés szerinti döntése megyénként és a fővárosra tekintettel, valamint fenntartóként tartalmazza a szakközépiskolában folyó érettségi vizsgára felkészítő kétéves képzések nappali oktatás, valamint felnőttoktatás szerinti keretszámait is.

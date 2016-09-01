@@ -4,4 +4,4 @@
 
 (3) A szakképzési centrum saját, heti negyven órás munkaidőben foglalkoztatott közalkalmazottját a napi munkaidőn és a nemzeti köznevelésről szóló törvény 62. § (5) és (6) bekezdésében meghatározott időkereten túli órákra – kizárólag a felnőttoktatás esti, levelező munkarend szerint megszervezett osztályainak óráira vonatkozóan – megbízási jogviszonyban alkalmazhatja óraadóként. Az ilyen további foglalkoztatás keretében foglalkoztatott óraadókra nem kell alkalmazni a nemzeti köznevelésről szóló törvényben az óraadókra vonatkozóan meghatározott óraszámkorlátot.
 
-(4) A tanuló attól az évtől kezdődően, amelyben iskolai rendszerű szakképzésben az első szakképesítését megszerezte, új tanévet a második szakképesítés megszerzésére irányuló képzésben kizárólag felnőttoktatásban kezdhet.
+(4) A tanuló – a halmozottan hátrányos helyzetű és a sajátos nevelési igényű tanuló kivételével – második szakképesítés megszerzésére irányuló képzést kizárólag felnőttoktatásban kezdhet.

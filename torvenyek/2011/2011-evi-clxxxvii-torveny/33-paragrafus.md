@@ -14,4 +14,4 @@
 
 (6) A szakképzési kerettanterv alapján az iskola a pedagógiai program részét képező helyi tantervében és szakmai programjában meghatározza a felnőttoktatás keretében oktatott szakmai tantárgyak óraszámait az (5) bekezdésben meghatározottak alapján.
 
-(7)
+(7) A felnőttoktatás esti munkarendje szerint folyó képzésben – az (5) bekezdésben előírtak megtartása mellett – a szakképzési évfolyamok OKJ-ban meghatározott száma a felére csökkenthető.
