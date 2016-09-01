@@ -1,3 +1,13 @@
+## 4/B. §[^49] A Családbarát Ország Nonprofit Közhasznú Kft. közreműködik a koragyermekkori intervenció ágazatközi fejlesztés keretében történő rendszerszintű fejlesztésével kapcsolatos feladatok ellátásának koordinálásában.
+
+## II. Fejezet
+
+## A GYERMEKJÓLÉTI ALAPELLÁTÁSOK
+
+## 1. CÍM
+
+## ÁLTALÁNOS SZABÁLYOK
+
 5. § (1) Az alapellátásnak a gyermek szükségleteit figyelembe véve kell szolgálnia a Gyvt. 38. § (1) bekezdésében meghatározott célokat.
 
 (2)[^50] A települési önkormányzatnak az igénybe vehető alapellátásokról tájékoztatnia kell a gyámhivatalt, valamint a lakosságot a helyben szokásos módon.
@@ -6,5 +16,6 @@
 
 (3) Az alapellátást a jogosult lakóhelyéhez vagy tartózkodási helyéhez legközelebb eső szolgáltatást nyújtó személynél vagy intézménynél kell biztosítani, kivéve, ha ez nem áll a gyermek érdekében.
 
+[^49]: A 4/B. §-t újonnan a 21/2016. (VIII. 24.) EMMI rendelet 1. §-a iktatta be.
 [^50]: Az 5. § (2) bekezdése a 11/2013. (II. 7.) EMMI rendelet 44. § a) pontja szerint módosított szöveg.
 [^51]: Az 5. § (2a) bekezdését az 55/2015. (XI. 30.) EMMI rendelet 2. §-a iktatta be.
