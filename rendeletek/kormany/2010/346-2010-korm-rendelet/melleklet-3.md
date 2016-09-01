@@ -34,7 +34,7 @@ I. Központi finanszírozásúak
 
 | 1.8. Országgyűlési Őrség | X |
 
-| 1.9. Belügyminisztérium Nemzetközi Oktatási Központ | X |
+| 1.9. |  |
 
 | 1.10. Rendészeti szakközépiskolák | X |
 
@@ -121,4 +121,4 @@ II. Egyedi finanszírozásúak
 [^122]: A 2. melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § a) pontja szerint módosított szöveg.
 [^123]: A 2. melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § b) pontja szerint módosított szöveg.
 [^124]: A 2. melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § c) pontja szerint módosított szöveg.
-[^125]: A 3. mellékelt a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^125]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
