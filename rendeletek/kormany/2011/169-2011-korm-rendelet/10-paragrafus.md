@@ -32,9 +32,10 @@ n) tagja-e a település valamilyen társulásnak,
 
 o) a közfoglalkoztató által benyújtott, folyamatban lévő hazai és európai uniós finanszírozású pályázatok, a várt támogatási összeg.
 
-(2) Az (1) bekezdésben meghatározott adatokat a helyi és kisebbségi önkormányzat, valamint ezek társulása, továbbá az önkormányzati költségvetési szerv által történő közfoglalkoztatás esetén az önkormányzat jegyzője elektronikus úton továbbítja az Adatbázis részére. A jegyző folyamatosan frissíti, aktualizálja, karbantartja az általa továbbított adatokat.
+(2)[^23] Az (1) bekezdésben meghatározott adatokat a helyi és nemzetiségi önkormányzat, valamint ezek társulása, továbbá az önkormányzati költségvetési szerv által történő közfoglalkoztatás esetén az önkormányzat jegyzője elektronikus úton továbbítja az Adatbázis részére. A jegyző folyamatosan frissíti, aktualizálja, karbantartja az általa továbbított adatokat.
 
-(3)[^23] Az adatokhoz való teljes körű betekintési jogosultságot – munkaerőpiaci feladataik ellátása során végzett tevékenységük tekintetében – a kormányhivatal és a járási hivatal, valamint a közfoglalkoztatásért felelős miniszter, és a foglalkoztatáspolitikáért felelős miniszter részére kell biztosítani.
+(3)[^24] Az adatokhoz való teljes körű betekintési jogosultságot – munkaerőpiaci feladataik ellátása során végzett tevékenységük tekintetében – a kormányhivatal és a járási hivatal, valamint a közfoglalkoztatásért felelős miniszter, és a foglalkoztatáspolitikáért felelős miniszter részére kell biztosítani.
 
 [^22]: A 10. § (1) bekezdés c) pontja a 414/2012. (XII. 29.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^23]: A 10. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 176. § (1) bekezdésével megállapított szöveg.
+[^23]: A 10. § (2) bekezdése a 253/2016. (VIII. 24.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^24]: A 10. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 176. § (1) bekezdésével megállapított szöveg.

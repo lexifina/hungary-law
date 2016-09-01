@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-169-20-
 | 2015-03-01 | 2011-169-20-22.7 | 24/2015. (II. 20.) Korm. rendelet |
 | 2015-04-01 | 2011-169-20-22.8 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-07-23 | 2011-169-20-22.9 | 217/2016. (VII. 22.) Korm. rendelet |
+| 2016-09-01 | 2011-169-20-22.10 | 221/2014. (IX. 4.) Korm. rendelet |
