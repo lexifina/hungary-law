@@ -68,7 +68,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 12. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 13. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+| 13. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 | 14. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
@@ -86,4 +86,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 21. | településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelés | Csömör település önkormányzatának jegyzője | Pest Megyei Kormányhivatal |
 
-[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 52. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 52. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) korm. rendelet 26. §-a szerint módosított szöveg.
