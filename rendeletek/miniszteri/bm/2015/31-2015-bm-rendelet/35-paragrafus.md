@@ -1,4 +1,4 @@
-## 34. § A Belügyminisztérium Nemzetközi Oktatási Központ által folytatott vagy szervezett belföldi és külföldi képzésekre a hivatásos állomány tagját – a képzés időtartamára történő szolgálatmentesség biztosítása mellett – az állományilletékes parancsnok átrendeli. Az átrendelésről állományparancs rendelkezik.
+## 34. §[^16] A Nemzetközi Oktatási Központ által folytatott vagy szervezett belföldi és külföldi képzésekre a hivatásos állomány tagját – a képzés időtartamára történő szolgálatmentesség biztosítása mellett – az állományilletékes parancsnok átrendeli. Az átrendelésről állományparancs rendelkezik.
 
 ## 10. Megbízás helyettesítésre
 
@@ -17,3 +17,5 @@
 (7) A Hszt. 71. § (1) bekezdés b) pontjának alkalmazásában a szolgálati beosztás ellátásában tartósan akadályozott személynek különösen azt kell tekinteni, aki előreláthatólag három hónapig vagy azt meghaladó ideig nem tudja a szolgálati feladatait ellátni.
 
 (8) A Hszt. 185. § (1) bekezdés g) pontjában foglalt fegyelmi fenyítés alkalmazásakor a hivatásos állomány tagjának eredeti szolgálati beosztása a fenyítés időtartama alatt csak a Hszt. 71. §-a szerinti megbízással, esetlegesen határozott idejű szolgálati viszony létesítésével látható el.
+
+[^16]: A 34. § a 37/2016. (IX. 1.) BM rendelet 18. § (3) bekezdése szerint módosított szöveg.
