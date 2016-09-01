@@ -1,4 +1,4 @@
-7/A. §[^23] (1) Az OTH ellátja a jogszabályban meghatározott munkahigiénés és foglalkozás-egészségügyi kutatással összefüggő feladatait.
+7/A. §[^24] (1) Az OTH ellátja a jogszabályban meghatározott munkahigiénés és foglalkozás-egészségügyi kutatással összefüggő feladatait.
 
 (2) Az OTH ellátja a munkahigiénés és foglalkozás-egészségügyi szervnek az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 15/A. § (2) és (3) bekezdésében meghatározott feladatait.
 
@@ -30,4 +30,4 @@ e) a munkaegészségüggyel foglalkozó hazai és nemzetközi szervezetek tevék
 
 (11) Az OTH egyes meghatározott tevékenységekre akkreditált laboratóriumokat működtet és tart fenn.
 
-[^23]: A 7/A. §-t a 321/2014. (XII. 13.) Korm. rendelet 2. §-a iktatta be.
+[^24]: A 7/A. §-t a 321/2014. (XII. 13.) Korm. rendelet 2. §-a iktatta be.

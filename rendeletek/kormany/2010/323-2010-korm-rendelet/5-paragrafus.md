@@ -1,4 +1,4 @@
-5. §[^7] (1) Egyes jogszabályban meghatározott sugár-egészségügyi feladatokat a kormányhivatalok a 3. melléklet szerinti illetékességi területen látják el.
+5. §[^8] (1) Egyes jogszabályban meghatározott sugár-egészségügyi feladatokat a kormányhivatalok a 3. melléklet szerinti illetékességi területen látják el.
 
 (2) A közegészségügyi-járványügyi kockázatok feltárása és a hatósági feladatok ellátása
 
@@ -8,4 +8,4 @@ b) a határkikötő, a nemzetközi áru- vagy személyforgalmat lebonyolító ki
 
 (3) A (2) bekezdés szerinti repülőtéren és kikötőkben a fővárosi kormányhivatal, illetve a Baranya Megyei Kormányhivatal látja el az illetékes járási hivatal számára jogszabályban meghatározott népegészségügyi feladat- és hatásköröket.
 
-[^7]: Az 5. § a 70/2015. (III. 30.) Korm. rendelet 164. § (2) bekezdésével megállapított szöveg.
+[^8]: Az 5. § a 70/2015. (III. 30.) Korm. rendelet 164. § (2) bekezdésével megállapított szöveg.

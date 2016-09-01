@@ -45,3 +45,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-323-20-
 | 2016-01-01 | 2010-323-20-22.37 | 413/2015. (XII. 23.) Korm. rendelet |
 | 2016-07-01 | 2010-323-20-22.38 | 73/2011. (IV. 29.) Korm. rendelet |
 | 2016-07-23 | 2010-323-20-22.39 | 70/2015. (III. 30.) Korm. rendelet |
+| 2016-09-01 | 2010-323-20-22.40 | 259/2016. (VIII. 31.) Korm. rendelet |

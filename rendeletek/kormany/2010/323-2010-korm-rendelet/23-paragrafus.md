@@ -1,4 +1,4 @@
-## 10. [^98] A közigazgatási hatósági eljárásokban vizsgálandó szakkérdések köre, és közreműködő szakhatóságok kijelölése
+## 10. [^99] A közigazgatási hatósági eljárásokban vizsgálandó szakkérdések köre, és közreműködő szakhatóságok kijelölése
 
 23. § (1) A Kormány a természetes fürdővízzé nyilvánítási eljárásban
 
@@ -8,7 +8,7 @@ b) a külső határon lévő határvízen – az államhatár rendje fenntarthat
 
 c) dunai, tiszai, valamint balatoni fürdőhely esetén – annak elbírálása kérdésében, hogy a vízterületen nem tilos-e fürdeni, milyen feltételek esetén szabad fürdeni, a vízterületen történő fürdés nem veszélyezteti-e a hajók közlekedését –, első fokú eljárásban az illetékes vízirendészeti rendőrkapitányságot, másodfokú eljárásban az illetékes rendőr-főkapitányságot,
 
-d) dunai és tiszai fürdőhely esetén – annak elbírálása kérdésében, hogy a fürdővíz használatának engedélyezése során a Magyar Honvédség nemzeti és szövetségi védelmi feladatai biztosíthatóak-e –, első fokú eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, másodfokú eljárásban a honvédelemért felelős minisztert,
+d)[^100] dunai és tiszai fürdőhely esetén – annak elbírálása kérdésében, hogy a fürdővíz használatának engedélyezése során a Magyar Honvédség nemzeti és szövetségi védelmi feladatai biztosíthatóak-e –, első fokú eljárásban a honvédelemért felelős minisztert,
 
 e) a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapításának kérdésében , első fokú eljárásban a fürdővíz helye szerint illetékes vízvédelmi feladatkörében eljáró fővárosi, megyei katasztrófavédelmi igazgatóságot (a továbbiakban: megyei katasztrófavédelmi igazgatóság), másodfokú eljárásban a vízvédelmi feladatkörében eljáró BM Országos Katasztrófavédelmi Főigazgatóságot szakhatóságként jelöli ki. A fürdővíz használatának engedélyezésére irányuló eljárásban hozott határozatot a fürdővíz helye szerint illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal is közölni kell.
 
@@ -20,7 +20,7 @@ b) a külső határon lévő határvízen – az államhatár rendje fenntarthat
 
 c) dunai, tiszai, valamint balatoni fürdőhely esetén – annak elbírálása kérdésében, hogy a vízterületen nem tilos-e fürdeni, milyen feltételek esetén szabad fürdeni, a vízterületen történő fürdés nem veszélyezteti-e a hajók közlekedését –, első fokú eljárásban az illetékes vízirendészeti rendőrkapitányságot, másodfokú eljárásban az illetékes rendőr-főkapitányságot,
 
-d) dunai és tiszai fürdőhely esetén – annak elbírálása kérdésében, hogy a fürdőhely kijelölése során a Magyar Honvédség nemzeti és szövetségi védelmi feladatai biztosíthatók-e –, első fokú eljárásban a Honvédelmi Minisztérium Hatósági Hivatal vezetőjét, másodfokú eljárásban a honvédelemért felelős minisztert,
+d)[^101] dunai és tiszai fürdőhely esetén – annak elbírálása kérdésében, hogy a fürdőhely kijelölése során a Magyar Honvédség nemzeti és szövetségi védelmi feladatai biztosíthatók-e –, első fokú eljárásban a honvédelemért felelős minisztert,
 
 e) a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapításának kérdésében, első fokú eljárásban a fürdővíz helye szerint illetékes vízvédelmi feladatkörében eljáró megyei katasztrófavédelmi igazgatóságot, másodfokú eljárásban a vízvédelmi feladatkörében eljáró BM Országos Katasztrófavédelmi Főigazgatóságot, valamint
 
@@ -64,4 +64,6 @@ első fokú eljárásban az Egészségügyi Tudományos Tanács (a továbbiakban
 
 (10) A Kormány az emberen végzett orvostudományi kutatások (Eütv. 157. §) engedélyezésére irányuló eljárásban az emberi reprodukcióra irányuló különleges eljárásokkal, az embriókkal, ivarsejtekkel, őssejtekkel végzendő beavatkozásokkal és kutatásokkal, a gén- és sejtterápiával végzett beavatkozásokkal, továbbá az emberi génállományt érintő beavatkozásokkal és kutatásokkal kapcsolatos kutatás esetében, első fokú eljárásban az ETT Humán Reprodukciós Bizottságát, másodfokú eljárásban az ETT Elnökségét szakhatóságként jelöli ki.
 
-[^98]: A 10. alcím (23. §) a 70/2015. (III. 30.) Korm. rendelet 164. § (9) bekezdésével megállapított szöveg.
+[^99]: A 10. alcím (23. §) a 70/2015. (III. 30.) Korm. rendelet 164. § (9) bekezdésével megállapított szöveg.
+[^100]: A 23. § (1) bekezdés d) pontja a 259/2016. (VIII. 31.) Korm. rendelet 70. §-a szerint módosított szöveg.
+[^101]: A 23. § (2) bekezdés d) pontja a 259/2016. (VIII. 31.) Korm. rendelet 70. §-a szerint módosított szöveg.

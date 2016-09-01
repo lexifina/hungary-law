@@ -1,4 +1,4 @@
-## 6. [^26] A kormányhivatal népegészségügyi feladatai
+## 6. [^27] A kormányhivatal népegészségügyi feladatai
 
 10. § (1) A kormányhivatal népegészségügyi feladatai keretében
 
@@ -20,4 +20,4 @@ d) ellátja a jogszabályban a feladatkörébe utalt, az egészségügyi szolgá
 
 (2) A kormányhivatal részt vesz a lakosság egészségének megőrzését célzó népegészségügyi programok kidolgozásában, irányítja, szervezi és koordinálja a programok végrehajtását.
 
-[^26]: A 6. alcím (10. §) a 70/2015. (III. 30.) Korm. rendelet 164. § (6) bekezdésével megállapított szöveg.
+[^27]: A 6. alcím (10. §) a 70/2015. (III. 30.) Korm. rendelet 164. § (6) bekezdésével megállapított szöveg.

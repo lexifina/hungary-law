@@ -1,4 +1,4 @@
-## 4. [^24] A kormányhivatal és a járási hivatal szakmai irányításának szabályai
+## 4. [^25] A kormányhivatal és a járási hivatal szakmai irányításának szabályai
 
 8. § (1) A kormányhivatal népegészségügyi feladatköreivel összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § g)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket a miniszter gyakorolja. A miniszter hatáskörei gyakorlásához szükséges döntések szakmai előkészítésében az országos tisztifőorvos közreműködik.
 
@@ -36,4 +36,4 @@ f) ellátják a gyorsriasztási rendszerek üzemeltetésében jelentkező felada
 
 g) az OTH által kiadott feladataik elvégzéséről közvetlenül tájékoztatják az OTH-t.
 
-[^24]: A 4. alcím (8. §) a 70/2015. (III. 30.) Korm. rendelet 164. § (5) bekezdésével megállapított szöveg.
+[^25]: A 4. alcím (8. §) a 70/2015. (III. 30.) Korm. rendelet 164. § (5) bekezdésével megállapított szöveg.
