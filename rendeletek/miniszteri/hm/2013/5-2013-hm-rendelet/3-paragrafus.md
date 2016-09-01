@@ -47,3 +47,9 @@ b) meghatalmazott képviselője útján,
 c) a Magyar Honvédség futárszolgálatán keresztül, vagy
 
 d) a küldő állam magyarországi diplomáciai képviselete útján
+
+## nyújthatja be.
+
+(5)[^2] Az Észak-atlanti Szerződés és a Békepartnerség részes államainak Magyarországon szolgálati céllal három hónapot meg nem haladó ideig tartózkodó fegyveres erői és a nemzetközi katonai parancsokság hivatali beszerzéseire vonatkozó adómentességi igazolás kiállításához a Küfetv. 4. § (6) bekezdésében foglaltak alapján az 1. mellékletben szereplő kérelmet kell katonadiplomáciai úton benyújtani.
+
+[^2]: A 3. § (5) bekezdését a 16/2016. (VIII. 31.) HM rendelet 5. § (1) bekezdése iktatta be.
