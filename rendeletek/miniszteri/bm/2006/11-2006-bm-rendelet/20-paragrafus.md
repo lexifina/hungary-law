@@ -6,29 +6,29 @@ a) nem köteles az ügy érdemére nyilatkozatot tenni, azonban a nyilatkozat me
 
 b) nyilatkozatát írásban is megteheti,
 
-c)[^44] nem köteles olyan nyilatkozatot tenni, amellyel önmagát vagy hozzátartozóját bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével vádolná,
+c)[^45] nem köteles olyan nyilatkozatot tenni, amellyel önmagát vagy hozzátartozóját bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével vádolná,
 
-d)[^45] aki a fegyelmi eljárás során mást bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével hamisan vádol vagy koholt bizonyítékot szolgáltat, hamis vád bűncselekményét követi el.
+d)[^46] aki a fegyelmi eljárás során mást bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével hamisan vádol vagy koholt bizonyítékot szolgáltat, hamis vád bűncselekményét követi el.
 
 (3) Ha az eljárás alá vont a meghallgatáson szabályszerű értesítés ellenére nem jelent meg és írásos védekezését sem terjesztette elő vagy nem kívánt az ügy érdemére nyilatkozni, a vizsgáló írásban, illetve a jegyzőkönyvben tájékoztatja, hogy az ügyét a védekezése előterjesztése hiányában a rendelkezésre álló adatok alapján fogják elbírálni.
 
-(4)[^46] A tanút és jogi képviselőjét a tanú meghallgatása előtt tájékoztatni kell arról, hogy
+(4)[^47] A tanút és jogi képviselőjét a tanú meghallgatása előtt tájékoztatni kell arról, hogy
 
 a) milyen ügyben kívánják meghallgatni,
 
-b)[^47] nem terheli tanúzási kötelezettség, ha nem rendvédelmi szerv állományába tartozik,
+b)[^48] nem terheli tanúzási kötelezettség, ha nem rendvédelmi szerv állományába tartozik,
 
-c)[^48] nem köteles olyan nyilatkozatot tenni, amellyel önmagát vagy hozzátartozóját bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével vádolná,
+c)[^49] nem köteles olyan nyilatkozatot tenni, amellyel önmagát vagy hozzátartozóját bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével vádolná,
 
-d)[^49] aki a fegyelmi eljárás során mást bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével hamisan vádol vagy koholt bizonyítékot szolgáltat, hamis vád bűncselekményét követi el,
+d)[^50] aki a fegyelmi eljárás során mást bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével hamisan vádol vagy koholt bizonyítékot szolgáltat, hamis vád bűncselekményét követi el,
 
 e) a fegyelmi ügyben elkövetett hamis tanúzást a törvény büntetni rendeli,
 
-f)[^50] a tanú vagy jogi képviselője kérheti a tanú személyi adatainak zártan történő kezelését.
+f)[^51] a tanú vagy jogi képviselője kérheti a tanú személyi adatainak zártan történő kezelését.
 
 (5) A tanútól csak olyan személyes adat közlése kérhető, amely a személye azonosításához, illetve elérhetőségéhez feltétlen szükséges.
 
-(6)[^51] E rendelet alkalmazásában hozzátartozó: az egyeneságbeli rokon és ennek házastársa, az örökbefogadó és nevelőszülő, az örökbefogadott és a nevelt gyermek, a testvér, a házastárs, az élettárs és a jegyes, a házastárs egyeneságbeli rokona és testvére, a testvér házastársa.
+(6)[^52] E rendelet alkalmazásában hozzátartozó: az egyeneságbeli rokon és ennek házastársa, az örökbefogadó és nevelőszülő, az örökbefogadott és a nevelt gyermek, a testvér, a házastárs, az élettárs és a jegyes, a házastárs egyeneságbeli rokona és testvére, a testvér házastársa.
 
 (7) Ha a tanú adatainak zártan kezelését kérte, a – nevén kívüli – személyes adatait a fegyelmi iratokhoz csatolt zárt borítékban kell kezelni és az eljárás jogerős befejezésekor meg kell semmisíteni. A zártan kezelt adatokat csak az ügyben eljáró vizsgáló, fegyelmi jogkör gyakorlója, a panaszt elbíráló elöljáró és kivizsgálásában résztvevő személy, valamint jogvita esetén a bíróság jogosult megismerni.
 
@@ -48,7 +48,7 @@ f) az eljárás alá vont adatait [születési évét és helyét, anyja leányk
 
 g) a tanú adatait (nevét, születési évét és helyét, anyja leánykori nevét, lakcímét, tartózkodási helyét – ha a szerv állományába tartozik lakcím helyett a munkakörét, szolgálati beosztását),
 
-h)[^52] a tanú vagy jogi képviselője nyilatkozatát a tanú adatainak zártan történő kezeléséről,
+h)[^53] a tanú vagy jogi képviselője nyilatkozatát a tanú adatainak zártan történő kezeléséről,
 
 i) a meghallgatott tájékoztatását a vizsgálat tárgyáról,
 
@@ -74,12 +74,12 @@ p) záradékot és a jelenlevők aláírásait.
 
 (12) Ha a tanú és az eljárás alá vont nyilatkozata között olyan lényeges ellentmondás van, amely az ügy érdemi elbírálását befolyásolhatja, meg kell kísérelni az ellentmondást szembesítéssel feloldani. Nincs helye szembesítésnek, ha a tanú vagy az eljárás alá vont a szembesítést nem vállalja. Szembesítéskor a vizsgáló által feltett kérdésekre adott válaszokat szó szerint kell lejegyezni és a nyilatkozatokat külön-külön aláíratni.
 
-[^44]: A 20. § (2) bekezdés c) pontja a 34/2013. (VI. 30.) BM rendelet 25. §-a szerint módosított szöveg.
-[^45]: A 20. § (2) bekezdés d) pontja a 34/2013. (VI. 30.) BM rendelet 25. §-a szerint módosított szöveg.
-[^46]: A 20. § (4) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése szerint módosított szöveg.
-[^47]: A 20. § (4) bekezdésének b) pontja a 12/2006. (VIII. 3.) IRM rendelet 1. §-ával megállapított, a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 5. pontja szerint módosított szöveg.
-[^48]: A 20. § (4) bekezdés c) pontja a 34/2013. (VI. 30.) BM rendelet 25. §-a szerint módosított szöveg.
-[^49]: A 20. § (4) bekezdés d) pontja a 34/2013. (VI. 30.) BM rendelet 25. §-a szerint módosított szöveg.
-[^50]: A 20. § (4) bekezdés f) pontja a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^51]: A 20. § (6) bekezdése az 54/2012. (X. 29.) BM rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^52]: A 20. § (8) bekezdés h) pontja a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^45]: A 20. § (2) bekezdés c) pontja a 34/2013. (VI. 30.) BM rendelet 25. §-a szerint módosított szöveg.
+[^46]: A 20. § (2) bekezdés d) pontja a 34/2013. (VI. 30.) BM rendelet 25. §-a szerint módosított szöveg.
+[^47]: A 20. § (4) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^48]: A 20. § (4) bekezdésének b) pontja a 12/2006. (VIII. 3.) IRM rendelet 1. §-ával megállapított, a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 5. pontja szerint módosított szöveg.
+[^49]: A 20. § (4) bekezdés c) pontja a 34/2013. (VI. 30.) BM rendelet 25. §-a szerint módosított szöveg.
+[^50]: A 20. § (4) bekezdés d) pontja a 34/2013. (VI. 30.) BM rendelet 25. §-a szerint módosított szöveg.
+[^51]: A 20. § (4) bekezdés f) pontja a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^52]: A 20. § (6) bekezdése az 54/2012. (X. 29.) BM rendelet 8. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^53]: A 20. § (8) bekezdés h) pontja a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 2. § (2) bekezdésével megállapított szöveg.

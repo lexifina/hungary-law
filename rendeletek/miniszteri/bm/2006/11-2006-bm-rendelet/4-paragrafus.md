@@ -22,20 +22,21 @@ cc) a rendvédelmi oktatási intézmény igazgatója,
 
 cd) a Bevándorlási és Állampolgársági Hivatalnál a főigazgató,
 
-ce)[^9] a Közszolgálati Személyzetfejlesztési Főigazgatóságon a főigazgató,
+ce)[^9]
 
 cf)[^10] a Terrorelhárítási Információs és Bűnügyi Elemző Központnál a főigazgató,
 
-cg) a Belügyminisztérium Nemzetközi Oktatási Központban a főigazgató.
+cg)[^11]
 
 (4) A (3) bekezdés alá nem tartozó más szervnél vagy katonai oktatási intézménynél szolgálatot teljesítő hivatásos állományúval szemben a fegyelmi jogkört az országos parancsnok gyakorolja.
 
-(5)–(6)[^11]
+(5)–(6)[^12]
 
 [^5]: A 3. § a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 2. pontja szerint módosított szöveg.
 [^6]: A 4. § (1) bekezdése az 54/2012. (X. 29.) BM rendelet 2. § (1) bekezdésével megállapított szöveg. [A 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 3. pontjával elrendelt módosítás, amely szerint a „Hszt.” szövegrész helyébe a „Tv.” szöveg lép, nem vezethető át.]
 [^7]: A 4. § (2) bekezdése a 79/2009. (XII. 28.) IRM–ÖM együttes rendelet 11. § (2) bekezdése, a 16/2010. (XII. 31.) BM rendelet 3. §-a szerint módosított szöveg.
 [^8]: A 4. § (3) bekezdése az 54/2012. (X. 29.) BM rendelet 2. § (2) bekezdésével megállapított, nyitó szövegrésze a 81/2012. (XII. 28.) BM rendelet 17. § b) pontja, a 37/2015. (VI. 16.) BM rendelet 39. § (1) bekezdés 4–5. pontja szerint módosított szöveg.
-[^9]: A 4. § (3) bekezdés c) pont ce) alpontja a 16/2015. (IV. 17.) BM rendelet 1. §-a szerint módosított szöveg.
+[^9]: A 4. § (3) bekezdés c) pont ce) alpontját a 37/2016. (IX. 1.) BM rendelet 2. §-a hatályon kívül helyezte.
 [^10]: A 4. § (3) bekezdés c) pont cf) alpontja a 29/2016. (VII. 15.) BM rendelet 1. §-ával megállapított szöveg.
-[^11]: A 4. § (5)–(6) bekezdését a 37/2015. (VI. 16.) BM rendelet 39. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^11]: A 4. § (3) bekezdés c) pont cg) alpontját a 37/2016. (IX. 1.) BM rendelet 2. §-a hatályon kívül helyezte.
+[^12]: A 4. § (5)–(6) bekezdését a 37/2015. (VI. 16.) BM rendelet 39. § (2) bekezdés a) pontja hatályon kívül helyezte.

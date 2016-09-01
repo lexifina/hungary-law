@@ -1,4 +1,4 @@
-47/E. §[^98] (1) A sérelmezett döntést hozó elöljáró a szabályszerűen előterjesztett kérelem megérkezését követő három munkanapon belül kijelöli a névjegyzékből a Becsületbíróság tagjait és a Becsületbíróság elnökének kijelölése céljából megkeresi a Magyar Rendvédelmi Kar Elnökségét. A megkeresésnek tartalmaznia kell a kérelmező nevét, rendfokozatát, szolgálati helyét és szolgálati beosztását, azt, hogy milyen ügyben kérte a Becsületbíróság összehívását, valamint a Becsületbíróság sérelmezett döntést hozó elöljáró által kijelölt két tagjának nevét, szolgálati helyét és szolgálati beosztását.
+47/E. §[^99] (1) A sérelmezett döntést hozó elöljáró a szabályszerűen előterjesztett kérelem megérkezését követő három munkanapon belül kijelöli a névjegyzékből a Becsületbíróság tagjait és a Becsületbíróság elnökének kijelölése céljából megkeresi a Magyar Rendvédelmi Kar Elnökségét. A megkeresésnek tartalmaznia kell a kérelmező nevét, rendfokozatát, szolgálati helyét és szolgálati beosztását, azt, hogy milyen ügyben kérte a Becsületbíróság összehívását, valamint a Becsületbíróság sérelmezett döntést hozó elöljáró által kijelölt két tagjának nevét, szolgálati helyét és szolgálati beosztását.
 
 (2) A Magyar Rendvédelmi Kar Elnöksége – a Tv. 227. § (3) bekezdésében meghatározott módon – a megkeresés megérkezését követő tíz napon belül kijelöli a Becsületbíróság elnökét, és erről írásban tájékoztatja a megkeresőt, aki haladéktalanul felterjeszti az országos parancsnokhoz a Becsületbíróság kijelölt elnökének és tagjainak nevét és szolgálati beosztását. A felterjesztés alapján az országos parancsnok az adott ügyre szóló eseti megbízólevelet ad ki.
 
@@ -8,4 +8,4 @@
 
 (5) A Becsületbíróság elnöke, illetve tagja elleni kifogást – az eseti megbízásról szóló értesítés kézhezvételét követő három munkanapon belül – a jelölő személynél kell előterjeszteni.
 
-[^98]: A 47/E. §-t a 68/2015. (XII. 16.) BM rendelet 3. §-a iktatta be.
+[^99]: A 47/E. §-t a 68/2015. (XII. 16.) BM rendelet 3. §-a iktatta be.
