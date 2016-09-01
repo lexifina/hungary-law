@@ -20,9 +20,11 @@ i) a katonadiplomáciai tevékenységet végző kiküldöttek esetén a vezeték
 
 j)[^42] a HM rendelet1 1. § 10. pont g) alpontja szerinti külföldi szolgálat esetén az attasé beosztást betöltő kiküldött részére a közüzemi szolgáltatások díjának azt a részét, amelynek havi együttes összege meghaladja a kiküldött havi nettó külszolgálati ellátmányának 7%-át,
 
-k)[^43] az ideiglenes elhelyezés költségeit, ideértve a szállásköltség részét képező, a számlán elkülönítve fel nem tüntetett kötelező reggeli árát, azonban ide nem értve a mosatás, valamint egyéb kiegészítő szolgáltatások – különösen a minibár – igénybevételéből eredő költségeket, és
+k)[^43] az ideiglenes elhelyezés költségeit, ideértve a szállásköltség részét képező, a számlán elkülönítve fel nem tüntetett kötelező reggeli árát, azonban ide nem értve a mosatás, valamint egyéb kiegészítő szolgáltatások – különösen a minibár – igénybevételéből eredő költségeket,
 
-l)[^44] az MH Katonai Képviselő Hivatala (a továbbiakban: MH KKH) katonai képviselője, az MH Nemzeti Katonai Képviselet (a továbbiakban: MH NKK) katonai képviselője, az MH Nemzeti Összekötő Képviselet (a továbbiakban: MH NÖK) képviseletvezetője, a Magyarország Állandó NATO Képviselet, Védelempolitikai Részleg (a továbbiakban: MÁNK VPR) képviseletvezetője, valamint a Magyarország Állandó EBESZ Képviselet, Katonai Képviselet (a továbbiakban: MÁEK KK) képviseletvezetője esetén a közüzemi szolgáltatások éves díjának a kiküldött tárgyévi nettó külszolgálati ellátmánya 7%-át meghaladó részének 50%-át.
+l)[^44] az MH Katonai Képviselő Hivatala (a továbbiakban: MH KKH) katonai képviselője, az MH Nemzeti Katonai Képviselet (a továbbiakban: MH NKK) katonai képviselője, az MH Nemzeti Összekötő Képviselet (a továbbiakban: MH NÖK) képviseletvezetője, a Magyarország Állandó NATO Képviselet, Védelempolitikai Részleg (a továbbiakban: MÁNK VPR) képviseletvezetője, valamint a Magyarország Állandó EBESZ Képviselet, Katonai Képviselet (a továbbiakban: MÁEK KK) képviseletvezetője esetén a közüzemi szolgáltatások éves díjának a kiküldött tárgyévi nettó külszolgálati ellátmánya 7%-át meghaladó részének 50%-át, és
+
+m)[^45] lakásberendezés helyszíni bérlete esetén a be- és kiköltözéskor a lakásberendezés egyszeri össze- és szétszerelésének, továbbá a lakásberendezés egyszeri ki- és elszállításának számlával igazolt költségét.
 
 (2) A kiküldött
 
@@ -42,10 +44,11 @@ a) a bérbeadó tulajdonát képezik, de a bérlés ideje alatt azokat a lakóin
 
 b) külön szolgáltatótól kerülnek bérlésre, és a bérlés díja a biztosítási díjat nem tartalmazza.
 
-(4)[^45] A 2. § (2) bekezdés a) pontja szerinti kiküldöttek tekintetében a 20. és a 21. §-ban foglalt eljárásrendet a KNBSZ főigazgatója intézkedésben határozza meg.
+(4)[^46] A 2. § (2) bekezdés a) pontja szerinti kiküldöttek tekintetében a 20. és a 21. §-ban foglalt eljárásrendet a KNBSZ főigazgatója intézkedésben határozza meg.
 
 [^41]: A 22. § (1) bekezdés f) pontja a 9/2015. (VII. 13.) HM rendelet 17. § f) pontja szerint módosított szöveg.
 [^42]: A 22. § (1) bekezdés j) pontja a 17/2014. (XII. 17.) HM rendelet 9. § f) pontja szerint módosított szöveg.
-[^43]: A 22. § (1) bekezdés k) pontja a 17/2014. (XII. 17.) HM rendelet 9. § g) pontja szerint módosított szöveg.
-[^44]: A 22. § (1) bekezdés l) pontját a 17/2014. (XII. 17.) HM rendelet 3. §-a iktatta be, szövege a 9/2015. (VII. 13.) HM rendelet 9. §-ával megállapított szöveg.
-[^45]: A 22. § (4) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § f) pontja szerint módosított szöveg.
+[^43]: A 22. § (1) bekezdés k) pontja a 16/2016. (VIII. 31.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^44]: A 22. § (1) bekezdés l) pontját a 17/2014. (XII. 17.) HM rendelet 3. §-a iktatta be, szövege a 16/2016. (VIII. 31.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^45]: A 22. § (1) bekezdés m) pontját a 16/2016. (VIII. 31.) HM rendelet 9. § (2) bekezdése iktatta be.
+[^46]: A 22. § (4) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § f) pontja szerint módosított szöveg.

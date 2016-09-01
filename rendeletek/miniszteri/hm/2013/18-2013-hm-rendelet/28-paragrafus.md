@@ -6,9 +6,9 @@ b) kizárólag gépkocsi vásárlás céljára igénybe vehető, a 2,5-es szorz�
 
 ## megfelelő ellátmányelőlegre jogosult azzal, hogy az ellátmányelőlegek havi törlesztő részletei együttesen sem haladhatják meg a kiküldött havi nettó ellátmányának 50%-át.
 
-(2)[^53] Az (1) bekezdéstől eltérően nem jogosult ellátmányelőlegre a kiküldött, ha a külföldi szolgálat időtartama az 1 évet nem haladja meg. E rendelkezés nem alkalmazható a 2. § (2) bekezdés a) pontja szerinti kiküldöttre.
+(2)[^54] Az (1) bekezdéstől eltérően nem jogosult ellátmányelőlegre a kiküldött, ha a külföldi szolgálat időtartama az 1 évet nem haladja meg. E rendelkezés nem alkalmazható a 2. § (2) bekezdés a) pontja szerinti kiküldöttre.
 
-(3)[^54] Az (1) bekezdés b) pontja szerinti ellátmányelőleg kizárólag egy darab gépkocsinak az állomáshely szerinti országban vagy Magyarország kivételével az állomáshely szerinti országgal szomszédos országban történő beszerzésére használható fel legkésőbb az előleg folyósítását követő 90 napon belül.
+(3)[^55] Az (1) bekezdés b) pontja szerinti ellátmányelőleg kizárólag egy darab gépkocsinak az állomáshely szerinti országban vagy Magyarország kivételével az állomáshely szerinti országgal szomszédos országban történő beszerzésére használható fel legkésőbb az előleg folyósítását követő 90 napon belül.
 
 (4) Az (1) bekezdés b) pontja szerinti ellátmányelőleg felhasználásának igazolásához a kiküldött köteles a gépkocsi vételárának kifizetését követő 30 napon belül
 
@@ -20,5 +20,5 @@ a másolatát – aláírásával ellátva – az illetékes pénzügyi ellátó
 
 (5) A kiküldött az (1) bekezdés b) pontja szerinti ellátmányelőleg felhasználásával vásárolt gépkocsira, a vásárlással egyidejűleg, az ellátmányelőleg törlesztésének időtartamára, teljes körű CASCO vagy azzal egyenértékű biztosítást köteles kötni, és annak létrejöttét a biztosítási szerződés megkötését követő 30 napon belül az illetékes pénzügyi ellátó szerv felé igazolni. A gépjárműre vonatkozó teljes körű biztosítás díja a kiküldöttet terheli.
 
-[^53]: A 28. § (2) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § f) pontja szerint módosított szöveg.
-[^54]: A 28. § (3) bekezdése a 9/2015. (VII. 13.) HM rendelet 10. §-ával megállapított szöveg.
+[^54]: A 28. § (2) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § f) pontja szerint módosított szöveg.
+[^55]: A 28. § (3) bekezdése a 9/2015. (VII. 13.) HM rendelet 10. §-ával megállapított szöveg.

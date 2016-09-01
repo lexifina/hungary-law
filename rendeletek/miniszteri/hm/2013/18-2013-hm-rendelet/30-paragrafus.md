@@ -8,6 +8,6 @@ b) 1 évet meg nem haladó külföldi szolgálat esetén legkésőbb a végleges
 
 ## kell a Honvédség részére visszatéríteni.
 
-(3)[^58] A 2. § (2) bekezdés a) pontja szerinti kiküldöttek utazási előlegre való jogosultságát és a folyósítás szabályait a KNBSZ főigazgatója határozza meg.
+(3)[^59] A 2. § (2) bekezdés a) pontja szerinti kiküldöttek utazási előlegre való jogosultságát és a folyósítás szabályait a KNBSZ főigazgatója határozza meg.
 
-[^58]: A 30. § (3) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § f) pontja szerint módosított szöveg.
+[^59]: A 30. § (3) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § f) pontja szerint módosított szöveg.
