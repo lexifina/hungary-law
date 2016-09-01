@@ -40,6 +40,6 @@ A területrendezési hatósági eljárásban közreműködő szakhatóságok
 
 | 7. | A 6. sor szerinti országos jelentőségű elem beillesztése esetén. | A 6. sor szerinti országos jelentőségű elem beillesztése esetén a védelmi kockázat felmérése. | Alkotmányvédelmi Hivatal |
 
-| 8. | Azoknál az eljárásoknál, amelyek a honvédelmi és a katonai célú építmény vagy ingatlan védőterületét vagy működési területét érintik. | A Magyar Honvédség nemzeti és szövetségesi védelmi feladatai biztosíthatók-e. | Honvédelmi Minisztérium Hatósági Hivatal |
+| 8. | Azoknál az eljárásoknál, amelyek a honvédelmi és a katonai célú építmény vagy ingatlan védőterületét vagy működési területét érintik. | A Magyar Honvédség nemzeti és szövetségesi védelmi feladatai biztosíthatók-e. | honvédelemért felelős miniszter |
 
-[^53]: A 3. számú mellékletet a 70/2015. (III. 30.) Korm. rendelet 133. § (6) bekezdése iktatta be.
+[^53]: A 3. számú mellékletet a 70/2015. (III. 30.) Korm. rendelet 133. § (6) bekezdése iktatta be, szövege a 259/2016. (VIII. 31.) Korm. rendelet 71. §-a szerint módosított szöveg.
