@@ -74,7 +74,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 12. | tűzvédelem | Dunaújvárosi Katasztrófavédelmi Kirendeltség | Fejér Megyei Katasztrófavédelmi Igazgatóság |
 
-| 13. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
+| 13. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 | 14. | katasztrófavédelem | Dunaújvárosi Katasztrófavédelmi Kirendeltség | Fejér Megyei Katasztrófavédelmi Igazgatóság |
 
@@ -90,4 +90,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 20. | műszaki biztonság | Fejér Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^6]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 69. § (2) bekezdés b) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^6]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 69. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 34. a szerint módosított szöveg.
