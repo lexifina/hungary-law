@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-498-20-
 | 2014-01-02 | 2013-498-20-22.2 | 2010: CXXX. törvény |
 | 2015-04-01 | 2013-498-20-22.3 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-07-23 | 2013-498-20-22.4 | 217/2016. (VII. 22.) Korm. rendelet |
+| 2016-09-01 | 2013-498-20-22.5 | 230/2016. (VII. 29.) Korm. rendelet |
