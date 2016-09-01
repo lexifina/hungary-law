@@ -28,4 +28,4 @@
 
 2. melléklet a 166/2012. (VII. 19.) Korm. rendelethez[^6]
 
-[^6]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 29. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^6]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 29. § b) pontjával megállapított, a 259/2016. (VIII. 31.) korm. rendelet 40. §-a szerint módosított szöveg.

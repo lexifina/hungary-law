@@ -34,7 +34,7 @@
 
 | 16. | helyi védelem (természetvédelem) | Debrecen Megyei Jogú Város Önkormányzatának jegyzője | Hajdú-Bihar Megyei Kormányhivatal |
 
-| 17. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal igazgatója | honvédelemért felelős miniszter |
+| 17. | honvédelem | honvédelemért felelős miniszter | nincs |
 
 3–5. melléklet a 166/2012. (VII. 19.) Korm. rendelethez[^7]
 

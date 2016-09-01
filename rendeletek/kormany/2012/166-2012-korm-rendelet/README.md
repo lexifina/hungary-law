@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-166-20-
 | 2014-01-01 | 2012-166-20-22.4 | 296/2012. (X. 17.) Korm. rendelet |
 | 2014-09-13 | 2012-166-20-22.5 | 2010: CXXX. törvény |
 | 2015-04-01 | 2012-166-20-22.6 | 72/2015. (III. 30.) Korm. rendelet |
+| 2016-09-01 | 2012-166-20-22.7 | 72/2015. (III. 30.) Korm. rendelet |
