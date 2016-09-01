@@ -1,4 +1,4 @@
-## A fővárosi és megyei kormányhivatal vezetője vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetője
+## A rehabilitációs szakértői szerv vezetője
 
 ## …………………………
 
@@ -68,9 +68,9 @@
 
 ## …………………………… ……………………………
 
-## (fővárosi és megyei kormányhivatal vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetője)
+## (rehabilitációs szakértői szerv vezetője)
 
-4. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^52]
+4. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^47]
 
 ELSŐFOKÚ HADIGONDOZÁSI HATÓSÁG RÉSZÉRE
 
@@ -104,4 +104,4 @@ Minden újonnan hadigondozásba vett személy esetén kitöltendő!
 
 * A nem kívánt szövegrész törlendő!
 
-[^52]: Az R. 4. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^47]: Az R. 4. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított szöveg.

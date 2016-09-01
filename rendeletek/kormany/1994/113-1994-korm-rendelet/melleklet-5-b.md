@@ -40,7 +40,7 @@
 
 ## * A megfelelő szövegrész aláhúzandó!
 
-## 5/A. melléket a 113/1994. (VIII. 31.) Korm. rendelethez[^54]
+## 5/A. melléket a 113/1994. (VIII. 31.) Korm. rendelethez[^49]
 
 ## IGÉNYBEJELENTÉS A VOLT HADIÁRVA, A VOLT HADIGONDOZOTT CSALÁDTAG ÉS VOLT HADIGYÁMOLT RENDSZERES HAVI JÁRADÉKÁNAK MEGÁLLAPÍTÁSÁHOZ
 
@@ -94,7 +94,7 @@
 
 ## igénylő
 
-5/B. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^55]
+5/B. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^50]
 
-[^54]: Az R. 5/A. mellékletét a 200/2015. (VII. 23.) Korm. rendelet 5. §-a iktatta be.
-[^55]: Az R. 5/B. mellékletét a 479/2015. (XII. 29.) Korm. rendelet 5. § (5) bekezdése iktatta.
+[^49]: Az R. 5/A. mellékletét a 200/2015. (VII. 23.) Korm. rendelet 5. §-a iktatta be.
+[^50]: Az R. 5/B. mellékletét a 479/2015. (XII. 29.) Korm. rendelet 5. § (5) bekezdése iktatta.

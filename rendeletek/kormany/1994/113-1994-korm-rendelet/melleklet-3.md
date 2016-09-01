@@ -8,7 +8,7 @@
 
 |  | Mell.: |  |
 
-## A fővárosi és megyei kormányhivatal vagy a Nemzeti Rehabilitációs és Szociális Hivatal vezetőjének
+## A rehabilitációs szakértői szerv vezetőjének
 
 ## A hadigondozásról szóló 1994. évi XLV. törvény 3. § (3) bekezdése alapján kérem .................... nevű személy vizsgálatát.
 
@@ -40,6 +40,6 @@
 
 ## hatóság vezetőjének aláírása
 
-3. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^51]
+3. melléklet a 113/1994. (VIII. 31.) Korm. rendelethez[^46]
 
-[^51]: Az R. 3. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^46]: Az R. 3. melléklete a 479/2015. (XII. 29.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 103. § b) és c) pontja szerint módosított szöveg.
