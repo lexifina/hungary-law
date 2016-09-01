@@ -6,12 +6,12 @@
 
 (4) E rendelet hatályba lépését megelőzően kiadott diákigazolványok az arra való jogosultság megszűnéséig az e rendeletben szabályozott módon érvényesíthetőek.
 
-(5)–(6)[^90]
+(5)–(6)[^92]
 
 (7) A NEK oktatási igazolványokra vonatkozó specifikációjának közzétételéig az oktatási igazolványokra vonatkozó műszaki (technikai) előírásokat a KEK KH határozza meg.
 
-(8)[^91] A 39. § (4a) bekezdésében foglalt rendelkezés az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet módosításáról szóló 299/2013. (VII. 29.) Korm. rendelet hatálybalépését[^92] követően kibocsátott diákigazolványokra kell alkalmazni.
+(8)[^93] A 39. § (4a) bekezdésében foglalt rendelkezés az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet módosításáról szóló 299/2013. (VII. 29.) Korm. rendelet hatálybalépését[^94] követően kibocsátott diákigazolványokra kell alkalmazni.
 
-[^90]: A 42. § (5)–(6) bekezdését a 74/2014. (III. 13.) Korm. rendelet 13. § e) pontja hatályon kívül helyezte.
-[^91]: A 42. § (8) bekezdését a 299/2013. (VII. 29.) Korm. rendelet 4. §-a iktatta be.
-[^92]: A hatálybalépés időpontja 2013. július 30.
+[^92]: A 42. § (5)–(6) bekezdését a 74/2014. (III. 13.) Korm. rendelet 13. § e) pontja hatályon kívül helyezte.
+[^93]: A 42. § (8) bekezdését a 299/2013. (VII. 29.) Korm. rendelet 4. §-a iktatta be.
+[^94]: A hatálybalépés időpontja 2013. július 30.

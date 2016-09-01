@@ -4,8 +4,8 @@
 
 ## 24. § A pedagógusigazolvány
 
-a)[^55] az Nktv. 63. § (1) bekezdés j) pontjában szabályozott kedvezmények igénybevételére való jogosultságot,
+a)[^57] az Nktv. 63. § (1) bekezdés j) pontjában szabályozott kedvezmények igénybevételére való jogosultságot,
 
 b) a pedagógusigazolványhoz kapcsolódó, állam által nem garantált (kereskedelmi) kedvezményekre való jogosultságot
 
-[^55]: A 24. § a) pontja a 74/2014. (III. 13.) Korm. rendelet 12. § h) pontja szerint módosított szöveg.
+[^57]: A 24. § a) pontja a 74/2014. (III. 13.) Korm. rendelet 12. § h) pontja szerint módosított szöveg.
