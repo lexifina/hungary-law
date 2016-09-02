@@ -2,11 +2,11 @@
 
 a)
 
-b) 17. § (1) bekezdésében a „háromszáz” szövegrész helyébe a „kettőszáz”,
+b)
 
 c)
 
-d) 51. § (5) bekezdésében a „szakképzettség megnevezését,” szövegrész helyébe a „szakképzettség megnevezését, az oklevél minősítését,”
+d)
 
 e)–m)
 
