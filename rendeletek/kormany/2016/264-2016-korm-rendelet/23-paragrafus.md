@@ -1,3 +1,3 @@
-23. §[^25]
+23. §[^27]
 
-[^25]: A 23. § a 28. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^27]: A 23. § a 28. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.

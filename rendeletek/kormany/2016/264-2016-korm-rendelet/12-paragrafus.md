@@ -1,3 +1,3 @@
-12. §[^15]
+12. §[^16]
 
-[^15]: A 10–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 10–13. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
