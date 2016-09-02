@@ -1,1 +1,3 @@
-## 96. § A Korm. rendelet6. 5. melléklet I. pontjába foglalt táblázat 5. sorában a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szövegrész helyébe a „honvédelemért felelős miniszter” szöveg, a „honvédelemért felelős miniszter” szövegrész helyébe a „nincs” szöveg lép.
+97. §[^97]
+
+[^97]: A 95–97. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

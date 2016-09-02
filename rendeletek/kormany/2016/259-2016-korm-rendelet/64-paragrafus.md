@@ -1,11 +1,3 @@
-## 64. § Hatályát veszti a Hvt. vhr.
+64. §[^64]
 
-a) 2. § (3) bekezdés 2. pontja,
-
-b) 17. §-a,
-
-c) 37. és 38. §-a,
-
-d) 61. § (5) bekezdése, valamint
-
-e) 39. alcíme.
+[^64]: Az 53–64. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

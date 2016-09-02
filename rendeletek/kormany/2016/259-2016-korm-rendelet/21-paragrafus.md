@@ -1,9 +1,5 @@
 ## 21. A Millenáris területén megvalósítandó egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 395/2014. (XII. 31.) Korm. rendelet módosítása
 
-## 21. § A Millenáris területén megvalósítandó egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 395/2014. (XII. 31.) Korm. rendelet 2. mellékletében foglalt táblázat
+21. §[^20]
 
-a) B:17 mezőjében a „Honvédelmi Minisztérium Hatósági Hivatal vezetője” szövegrész helyébe a „honvédelemért felelős miniszter” szöveg, és
-
-b) C:17 mezőjében a „honvédelemért felelős miniszter” szövegrész helyébe a „nincs” szöveg
-
-lép.
+[^20]: A 21. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

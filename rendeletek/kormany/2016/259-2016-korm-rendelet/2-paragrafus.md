@@ -7,3 +7,7 @@
 ## (2) A KSZF által ellátott, a központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet 1. sz. mellékletében foglalt feladatokat a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság látja el, és ezzel összefüggésben megilletik a KSZF magánjogi jogai és kötelezettségei, valamint az ezzel, illetve a KSZF munkavégzésével összefüggésben szükséges informatikai-telekommunikációs eszközökhöz kapcsolódó vagyonkezelői jogok és kötelezettségek.””
 
 ## 2. Az alapvető biztonsági érdeket érintő beszerzések Országgyűlés általi mentesítésének kezdeményezésére vonatkozó feltételekről és eljárásról, valamint az ilyen beszerzések megvalósításakor az ajánlatkérő által érvényesítendő követelményekről szóló 225/2016. (VII. 29.) Korm. rendelet módosítása
+
+2. §[^1]
+
+[^1]: A 2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

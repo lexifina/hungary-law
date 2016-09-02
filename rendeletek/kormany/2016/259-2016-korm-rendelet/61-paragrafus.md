@@ -1,1 +1,3 @@
-## „(3) A megyei, fővárosi védelmi bizottság határozata elleni fellebbezést másodfokon a honvédelemért felelős miniszter bírálja el, a fellebbezést a megyei, fővárosi kormányhivatalban kell benyújtani.”
+61. §[^61]
+
+[^61]: Az 53–64. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

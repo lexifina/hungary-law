@@ -1,3 +1,3 @@
-## 58. § A Hvt. vhr. 32. § (2) bekezdése helyébe a következő rendelkezés lép:
+59. §[^59]
 
-## „(2) A helyi védelmi bizottság gazdasági ügyeit a fővárosi és megyei kormányhivatal intézi.”
+[^59]: Az 53–64. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
