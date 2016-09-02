@@ -46,13 +46,13 @@
 
 14. négy szem elve: minden végrehajtási és pénzügyi tranzakció engedélyezését megelőzően az adott feladatot ellátó személy munkáját egy másik személy teljeskörűen felülvizsgálja, beleértve az ellenőrzési listák és a kitöltési útmutatók alkalmazását is;
 
-15. Nemzeti Koordinációs Egység (a továbbiakban: NKE): a Keretmegállapodásban rögzítetteknek megfelelően Magyarországon a Svájci–Magyar Együttműködési Program koordinációjáért felelős egység, mely feladatot a Nemzeti Fejlesztési Ügynökség (a továbbiakban: NFÜ) elnöke által kijelölt szervezeti egység látja el;
+15.[^16] Nemzeti Koordinációs Egység (a továbbiakban: NKE): a Keretmegállapodásban rögzítetteknek megfelelően Magyarországon a Svájci–Magyar Együttműködési Program koordinációjáért felelős egység, mely feladatot az európai uniós források felhasználásáért felelős miniszter által kijelölt szervezeti egység látja el;
 
 16. önálló projekt: meghatározott célra rendelt, meghatározott szerepet betöltő feladatok egy egységet képező sorozata;
 
 17. Pályázati Alap: egy világosan meghatározott cél érdekében létrehozott, szervezeteknek vagy intézményeknek támogatást nyújtó alap, mely elsősorban a több kis projektet tartalmazó programok költséghatékony adminisztrációját biztosítja. A támogatási összeget egy támogatásközvetítő szervezet osztja szét további pályáztatással;
 
-17a.[^16] Pályázati Alap Megállapodás: egyrészről a Svájci Fejlesztési és Együttműködési Ügynökség (a továbbiakban: SFEÜ), másrészről az NKE és a kiválasztott Támogatásközvetítő Szervezet között létrejött megállapodás, amely adott Pályázati Alapra vonatkozóan rögzíti a támogatás és a végrehajtás feltételeit;
+17a.[^17] Pályázati Alap Megállapodás: egyrészről a Svájci Fejlesztési és Együttműködési Ügynökség (a továbbiakban: SFEÜ), másrészről az NKE és a kiválasztott Támogatásközvetítő Szervezet között létrejött megállapodás, amely adott Pályázati Alapra vonatkozóan rögzíti a támogatás és a végrehajtás feltételeit;
 
 18. partner: több jogi személy vagy jogi személyiséggel nem rendelkező gazdasági társaság által közösen megvalósítandó projekt esetén a megvalósításban részt vevő, illetőleg a Svájci–Magyar Együttműködési Programból támogatásban részesülő fél;
 
@@ -64,9 +64,9 @@
 
 22. Projekt Előkészítési Támogatás: Projekt Előkészítési Alap terhére megítélt, a Projekt Előkészítési Megállapodásban rögzített támogatás;
 
-23.[^17] Projekt Megállapodás: egyrészről a SFEÜ, illetve a Gazdasági Államtitkárság (a továbbiakban: GÁ), másrészről az NKE vagy további szerződő felek között létrejött megállapodás, amely adott projektre vonatkozóan rögzíti a támogatás és a projektvégrehajtás feltételeit;
+23.[^18] Projekt Megállapodás: egyrészről a SFEÜ, illetve a Gazdasági Államtitkárság (a továbbiakban: GÁ), másrészről az NKE vagy további szerződő felek között létrejött megállapodás, amely adott projektre vonatkozóan rögzíti a támogatás és a projektvégrehajtás feltételeit;
 
-24.[^18] Projekt Végrehajtó: a Keretmegállapodás értelmében egy adott projekt végrehajtásával megbízott államigazgatási szerv, köz- vagy magántestület, melyet elismernek a felek és megbíznak a Keretmegállapodás hatálya alá tartozó projekt végrehajtásával;
+24.[^19] Projekt Végrehajtó: a Keretmegállapodás értelmében egy adott projekt végrehajtásával megbízott államigazgatási szerv, köz- vagy magántestület, melyet elismernek a felek és megbíznak a Keretmegállapodás hatálya alá tartozó projekt végrehajtásával;
 
 25. Projekttervezet: a projektkiválasztás alkalmával az első fordulóban benyújtott projekttervezet tartalmazza valamennyi szükséges információt annak érdekében, hogy a javasolt projekt általános értékelése megvalósítható legyen és egy elvi döntésre kerülhessen sor;
 
@@ -82,37 +82,37 @@
 
 31. technikai segítségnyújtás projekt: a Technikai Segítségnyújtási Alap keretében megvalósuló projekt;
 
-32.[^19] tematikai összpontosítás: legfeljebb kilenc prioritási területre történő összpontosítás, amely területeken a Hozzájárulás legalább 70%-a kerül felhasználásra;
+32.[^20] tematikai összpontosítás: legfeljebb kilenc prioritási területre történő összpontosítás, amely területeken a Hozzájárulás legalább 70%-a kerül felhasználásra;
 
-32a.[^20] Testvértelepülés és Partnerségi Pályázati Alap: a magyarországi és svájci szervezetek, intézmények közötti kapcsolatok kölcsönös fejlesztése céljából létrehozott pályázati alap;
+32a.[^21] Testvértelepülés és Partnerségi Pályázati Alap: a magyarországi és svájci szervezetek, intézmények közötti kapcsolatok kölcsönös fejlesztése céljából létrehozott pályázati alap;
 
 33. Végleges Projektjavaslat: a projektkiválasztás alkalmával a sikeres első forduló esetén kezdődhet meg a második forduló, amelyben egy Végleges Projekttervezet kerül benyújtásra;
 
-34.[^21] Végrehajtási Megállapodás: a KSz és a Projekt Végrehajtó között a Projekt Megállapodás alapján, illetve Pályázati Alap esetén a KSz és a TKSz között a Pályázati Alap Megállapodás alapján kötött szerződés, amely rögzíti a felek jogait és kötelezettségeit a projekt végrehajtására vonatkozóan.
+34.[^22] Végrehajtási Megállapodás: a KSz és a Projekt Végrehajtó között a Projekt Megállapodás alapján, illetve Pályázati Alap esetén a KSz és a TKSz között a Pályázati Alap Megállapodás alapján kötött szerződés, amely rögzíti a felek jogait és kötelezettségeit a projekt végrehajtására vonatkozóan.
 
 (2) E rendelet állami támogatásokra vonatkozó rendelkezései alkalmazásában
 
-1.[^22]
+1.[^23]
 
 2. alapkutatás: a 800/2008/EK bizottsági rendelet 30. cikk 2. pontjában meghatározott fogalom;
 
-2a.[^23] alternatív helyzet: olyan beruházás megvalósítását jelenti, amely műszaki szempontból hasonló (azaz a közvetlenül a környezetvédelmi többletberuházáshoz kapcsolódó jellemzők kivételével termelőkapacitása és minden egyéb műszaki jellemzője azonos a beruházáséval és üzletileg hiteles alternatívát jelent) az értékelés tárgyát képező beruházáshoz, de alacsonyabb környezetvédelmi szintet képvisel, és amennyiben vannak ilyenek, megfelel a vonatkozó kötelező közösségi szabványoknak, valamint hitelt érdemlően megvalósítható lenne támogatás nélkül;
+2a.[^24] alternatív helyzet: olyan beruházás megvalósítását jelenti, amely műszaki szempontból hasonló (azaz a közvetlenül a környezetvédelmi többletberuházáshoz kapcsolódó jellemzők kivételével termelőkapacitása és minden egyéb műszaki jellemzője azonos a beruházáséval és üzletileg hiteles alternatívát jelent) az értékelés tárgyát képező beruházáshoz, de alacsonyabb környezetvédelmi szintet képvisel, és amennyiben vannak ilyenek, megfelel a vonatkozó kötelező közösségi szabványoknak, valamint hitelt érdemlően megvalósítható lenne támogatás nélkül;
 
 3. általános képzés: a 800/2008/EK bizottsági rendelet 38. cikk 2. pontjában meghatározott fogalom;
 
-3a.[^24] belső szolgáltató: vasúti személyszállítási közszolgáltatás esetén a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 2. § (2) bekezdés 21. pontja, és közúti személyszállítási közszolgáltatás esetén az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvény (a továbbiakban: Atv.) 2. § f) pontja szerinti fogalom;
+3a.[^25] belső szolgáltató: vasúti személyszállítási közszolgáltatás esetén a vasúti közlekedésről szóló 2005. évi CLXXXIII. törvény (a továbbiakban: Vtv.) 2. § (2) bekezdés 21. pontja, és közúti személyszállítási közszolgáltatás esetén az autóbusszal végzett menetrend szerinti személyszállításról szóló 2004. évi XXXIII. törvény (a továbbiakban: Atv.) 2. § f) pontja szerinti fogalom;
 
 4. bérköltség: a 800/2008/EK bizottsági rendelet 2. cikk 15. pontjában meghatározott fogalom;
 
 5. célvállalkozás: a 800/2008/EK bizottsági rendelet 28. cikk 8. pontjában meghatározott fogalom;
 
-5a.[^25] diszkont kamatláb: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 3. pontja szerinti kamatláb;
+5a.[^26] diszkont kamatláb: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet (a továbbiakban: Atr.) 2. § 3. pontja szerinti kamatláb;
 
-5b.[^26] elszámolható költség: a támogatás alapjának meghatározásakor figyelembe vett, a támogatás tárgyával összefüggésben közvetlenül felmerült vagy ahhoz közvetett módon hozzárendelhető költségek, ráfordítások és beszerzett eszközök bekerülési értéke, amelyek finanszírozására a támogatás felhasználható;
+5b.[^27] elszámolható költség: a támogatás alapjának meghatározásakor figyelembe vett, a támogatás tárgyával összefüggésben közvetlenül felmerült vagy ahhoz közvetett módon hozzárendelhető költségek, ráfordítások és beszerzett eszközök bekerülési értéke, amelyek finanszírozására a támogatás felhasználható;
 
-5c.[^27] energiamegtakarítási intézkedések: azok az intézkedések, amelyek révén a vállalkozások csökkenteni tudják a termelési folyamatban felmerülő energiafelhasználást;
+5c.[^28] energiamegtakarítási intézkedések: azok az intézkedések, amelyek révén a vállalkozások csökkenteni tudják a termelési folyamatban felmerülő energiafelhasználást;
 
-5d.[^28] érték: a személyszállítás tekintetében valamely szolgáltatás, útvonal, közszolgáltatási szerződés vagy ellentételezési rendszer értéke, amely megfelel a közszolgáltató vagy közszolgáltatók általános forgalmi adó (a továbbiakban: ÁFA) nélküli teljes bevételének, beleértve a hatóságok által kifizetett, bármilyen jellegű ellentételezéseket is, valamint az olyan menetjegyek eladásából származó bevételeket, amelyeket nem fizetnek vissza a kérdéses a települési (fővárosi) önkormányzat számára;
+5d.[^29] érték: a személyszállítás tekintetében valamely szolgáltatás, útvonal, közszolgáltatási szerződés vagy ellentételezési rendszer értéke, amely megfelel a közszolgáltató vagy közszolgáltatók általános forgalmi adó (a továbbiakban: ÁFA) nélküli teljes bevételének, beleértve a hatóságok által kifizetett, bármilyen jellegű ellentételezéseket is, valamint az olyan menetjegyek eladásából származó bevételeket, amelyeket nem fizetnek vissza a kérdéses a települési (fővárosi) önkormányzat számára;
 
 6. fogyatékkal élő munkavállaló: a 800/2008/EK bizottsági rendelet 2. cikk 20. pontjában meghatározott fogalom;
 
@@ -138,19 +138,19 @@
 
 17. kockázati tőke: a 800/2008/EK bizottsági rendelet 2. cikk 27. pontjában meghatározott fogalom;
 
-17a.[^29] környezetvédelem: minden olyan intézkedés, amely a fizikai környezetnek vagy a természeti erőforrásoknak a kedvezményezett saját tevékenységei által történő károsodásának felszámolására vagy megakadályozására, e károsodás bekövetkezése kockázatának csökkentésére, vagy a természeti erőforrások hatékonyabb felhasználására irányul, beleértve az energia-megtakarítási intézkedéseket és a megújuló energiaforrások használatát is;
+17a.[^30] környezetvédelem: minden olyan intézkedés, amely a fizikai környezetnek vagy a természeti erőforrásoknak a kedvezményezett saját tevékenységei által történő károsodásának felszámolására vagy megakadályozására, e károsodás bekövetkezése kockázatának csökkentésére, vagy a természeti erőforrások hatékonyabb felhasználására irányul, beleértve az energia-megtakarítási intézkedéseket és a megújuló energiaforrások használatát is;
 
-17b.[^30] közösségi szabvány: olyan kötelező közösségi szabvány, amely környezeti mutatókra ír elő a vállalkozások által elérendő szinteket, vagy a környezetszennyezés integrált megelőzéséről és csökkentéséről szóló 2008. január 15-i 2008/1/EK európai parlamenti és tanácsi irányelvben rögzített, az elérhető legjobb technikák használatára vonatkozó kötelezettség;
+17b.[^31] közösségi szabvány: olyan kötelező közösségi szabvány, amely környezeti mutatókra ír elő a vállalkozások által elérendő szinteket, vagy a környezetszennyezés integrált megelőzéséről és csökkentéséről szóló 2008. január 15-i 2008/1/EK európai parlamenti és tanácsi irányelvben rögzített, az elérhető legjobb technikák használatára vonatkozó kötelezettség;
 
-18.[^31] közszolgáltatás: az EUMSZ 106. cikk (2) bekezdése szerinti általános gazdasági érdekű szolgáltatás;
+18.[^32] közszolgáltatás: az EUMSZ 106. cikk (2) bekezdése szerinti általános gazdasági érdekű szolgáltatás;
 
-18a.[^32] közszolgáltató: a személyszállítási ágazathoz kapcsolódó közszolgáltatás vonatkozásában, bármely köz- vagy magánvállalkozás vagy e vállalkozások csoportja, amely személyszállítási közszolgáltatásokat működtet, vagy bármely olyan közjogi szerv, amely személyszállítási közszolgáltatásokat nyújt;
+18a.[^33] közszolgáltató: a személyszállítási ágazathoz kapcsolódó közszolgáltatás vonatkozásában, bármely köz- vagy magánvállalkozás vagy e vállalkozások csoportja, amely személyszállítási közszolgáltatásokat működtet, vagy bármely olyan közjogi szerv, amely személyszállítási közszolgáltatásokat nyújt;
 
-18b.[^33] közszolgáltatási kötelezettség: az 1370/2007/EK európai parlamenti és tanácsi rendelet 2. cikk e) pontjában meghatározott fogalom;
+18b.[^34] közszolgáltatási kötelezettség: az 1370/2007/EK európai parlamenti és tanácsi rendelet 2. cikk e) pontjában meghatározott fogalom;
 
-18c.[^34] közszolgáltatási ellentételezés: az 1370/2007/EK európai parlamenti és tanácsi rendelet 2. cikk g) pontjában meghatározott fogalom;
+18c.[^35] közszolgáltatási ellentételezés: az 1370/2007/EK európai parlamenti és tanácsi rendelet 2. cikk g) pontjában meghatározott fogalom;
 
-18d.[^35] közszolgáltatási szerződés: az 1370/2007/EK európai parlamenti és tanácsi rendelet 2. cikk i) pontjában meghatározott fogalom;
+18d.[^36] közszolgáltatási szerződés: az 1370/2007/EK európai parlamenti és tanácsi rendelet 2. cikk i) pontjában meghatározott fogalom;
 
 19. közvetlenül a beruházási projekt által teremtett munkahelyek: a 800/2008/EK bizottsági rendelet 2. cikk 14. pontjában meghatározott fogalom;
 
@@ -166,9 +166,9 @@
 
 25. magvető tőke: a 800/2008/EK bizottsági rendelet 28. cikk 4. pontjában meghatározott fogalom;
 
-25a.[^36] megújuló energiaforrás: a villamos energiáról szóló 2007. évi LXXXVI. törvény 3. § 45. pontjában meghatározott energiaforrás;
+25a.[^37] megújuló energiaforrás: a villamos energiáról szóló 2007. évi LXXXVI. törvény 3. § 45. pontjában meghatározott energiaforrás;
 
-25b.[^37] megújuló energiaforrásokból származó energia: a kizárólag megújuló energiaforrásokat felhasználó erőművek által végzett energiatermelés, valamint hagyományos energiaforrásokat is alkalmazó vegyes létesítményekben megújuló energiaforrásokból nyert, az energiaérték alapján számított energiarész, beleértve a tárolórendszerek feltöltésére használt megújuló villamos energiát, a tárolórendszerek eredményeként nyert villamos energia kivételével;
+25b.[^38] megújuló energiaforrásokból származó energia: a kizárólag megújuló energiaforrásokat felhasználó erőművek által végzett energiatermelés, valamint hagyományos energiaforrásokat is alkalmazó vegyes létesítményekben megújuló energiaforrásokból nyert, az energiaérték alapján számított energiarész, beleértve a tárolórendszerek feltöltésére használt megújuló villamos energiát, a tárolórendszerek eredményeként nyert villamos energia kivételével;
 
 26. mezőgazdasági termék: a 800/2008/EK bizottsági rendelet 2. cikk 22. pontjában meghatározott fogalom;
 
@@ -178,13 +178,13 @@
 
 28. nagyberuházás: a 800/2008/EK bizottsági rendelet 2. cikk 12. pontjában meghatározott fogalom;
 
-29.[^38] nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás;
+29.[^39] nehéz helyzetben lévő vállalkozás: az Atr. 6. §-ában meghatározott vállalkozás;
 
 30. növekedési tőke: a 800/2008/EK bizottsági rendelet 28. cikk 6. pontjában meghatározott fogalom;
 
-30a.[^39] női vállalkozó által újonnan létrehozott vállalkozás: a 800/2008/EK bizottsági rendelet 2. cikk 28. pontjában meghatározott vállalkozás;
+30a.[^40] női vállalkozó által újonnan létrehozott vállalkozás: a 800/2008/EK bizottsági rendelet 2. cikk 28. pontjában meghatározott vállalkozás;
 
-31.[^40] referencia alapkamatláb: az Atr. 2. § 13. pontjában meghatározott kamatláb;
+31.[^41] referencia alapkamatláb: az Atr. 2. § 13. pontjában meghatározott kamatláb;
 
 32. saját forrás: a Projekt Végrehajtó által a fejlesztési programhoz igénybe vett, támogatásnak nem minősülő forrás;
 
@@ -194,25 +194,25 @@
 
 35. szakképzés: a 800/2008/EK bizottsági rendelet 38. cikk 1. pontjában meghatározott fogalom;
 
-35a.[^41] személyszállítási közszolgáltatás: a nyilvánosság számára megkülönböztetés nélkül és folyamatosan nyújtott általános gazdasági érdekű személyszállítási szolgáltatás;
+35a.[^42] személyszállítási közszolgáltatás: a nyilvánosság számára megkülönböztetés nélkül és folyamatosan nyújtott általános gazdasági érdekű személyszállítási szolgáltatás;
 
 36. szénipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított nemzetközi kodifikációs rendszer értelmében kiváló minőségű, közepes minőségű és gyenge minőségű A és B csoportba sorolt szén kitermelése;
 
 37. szintetikusszál-ipar: a 800/2008/EK bizottsági rendelet 2. cikk 30. pontjában meghatározott fogalom;
 
-38.[^42] támogatási intenzitás: az Atr. 2. § 15. pontjában meghatározott támogatási mérték;
+38.[^43] támogatási intenzitás: az Atr. 2. § 15. pontjában meghatározott támogatási mérték;
 
-39.[^43] támogatástartalom: az Atr. 2. § 19. pontjában meghatározott érték;
+39.[^44] támogatástartalom: az Atr. 2. § 19. pontjában meghatározott érték;
 
-40.[^44] támogatott területek: az EUMSZ 107. cikk (3) bekezdés a) pontja szerint támogatott régiók: Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl, Nyugat-Dunántúl, az EUMSZ 107. cikk (3) bekezdés c) pontja szerint támogatott régió: Közép-Magyarország;
+40.[^45] támogatott területek: az EUMSZ 107. cikk (3) bekezdés a) pontja szerint támogatott régiók: Észak-Magyarország, Észak-Alföld, Dél-Alföld, Dél-Dunántúl, Közép-Dunántúl, Nyugat-Dunántúl, az EUMSZ 107. cikk (3) bekezdés c) pontja szerint támogatott régió: Közép-Magyarország;
 
-41.[^45] tárgyi eszköz: a 800/2008/EK bizottsági rendelet 2. cikk 10. pontja szerinti, illetve környezetvédelmi támogatások esetében a 800/2008/EK bizottsági rendelet 17. cikk 12. pontja szerinti eszköz;
+41.[^46] tárgyi eszköz: a 800/2008/EK bizottsági rendelet 2. cikk 10. pontja szerinti, illetve környezetvédelmi támogatások esetében a 800/2008/EK bizottsági rendelet 17. cikk 12. pontja szerinti eszköz;
 
 42. védett munkahely: a 800/2008/EK bizottsági rendelet 2. cikk 21. pontjában meghatározott fogalom.
 
-(3)[^46] Az (1) bekezdés 10d. pontja alapján az állami támogatásokra vonatkozó szabályok esetén Kisprojekt Végrehajtón a projektgazdát is érteni kell.
+(3)[^47] Az (1) bekezdés 10d. pontja alapján az állami támogatásokra vonatkozó szabályok esetén Kisprojekt Végrehajtón a projektgazdát is érteni kell.
 
-(4)[^47] Az (1) bekezdés 24. pontja alapján az állami támogatásokra vonatkozó szabályok esetén Projekt Végrehajtón a projektgazdát is érteni kell.
+(4)[^48] Az (1) bekezdés 24. pontja alapján az állami támogatásokra vonatkozó szabályok esetén Projekt Végrehajtón a projektgazdát is érteni kell.
 
 [^1]: A 2. § (1) bekezdése a 226/2009. (X. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdés 1. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
@@ -229,35 +229,36 @@
 [^13]: A 2. § (1) bekezdés 12. pontja a 11/2012. (II. 14.) Korm. rendelet 35. §-a szerint módosított szöveg.
 [^14]: A 2. § (1) bekezdés 13. pontja a 33/2011. (III. 17.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^15]: A 2. § (1) bekezdés 13a. pontját a 33/2011. (III. 17.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^16]: A 2. § (1) bekezdés 17a. pontját a 11/2012. (II. 14.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^17]: A 2. § (1) bekezdés 23. pontja a 11/2012. (II. 14.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^18]: A 2. § (1) bekezdés 24. pontja a 11/2012. (II. 14.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
-[^19]: A 2. § (1) bekezdés 32. pontja a 11/2012. (II. 14.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
-[^20]: A 2. § (1) bekezdés 32a. pontját a 11/2012. (II. 14.) Korm. rendelet 1. § (7) bekezdése iktatta be.
-[^21]: A 2. § (1) bekezdés 34. pontja a 11/2012. (II. 14.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
-[^22]: A 2. § (2) bekezdés 1. pontját a 95/2010. (III. 31.) Korm. rendelet 7. §-a hatályon kívül helyezte.
-[^23]: A 2. § (2) bekezdés 2a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^24]: A 2. § (2) bekezdés 3a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^25]: A 2. § (2) bekezdés 5a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 37/2011. (III. 22.) Korm. rendelet 39. § (10) bekezdésével megállapított szöveg.
-[^26]: A 2. § (2) bekezdés 5b. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^27]: A 2. § (2) bekezdés 5c. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^28]: A 2. § (2) bekezdés 5d. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
-[^29]: A 2. § (2) bekezdés 17a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^30]: A 2. § (2) bekezdés 17b. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (5) bekezdése iktatta be.
-[^31]: A 2. § (2) bekezdés 18. pontja a 95/2010. (III. 31.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^32]: A 2. § (2) bekezdés 18a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
-[^33]: A 2. § (2) bekezdés 18b. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
-[^34]: A 2. § (2) bekezdés 18c. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
-[^35]: A 2. § (2) bekezdés 18d. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
-[^36]: A 2. § (2) bekezdés 25a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be.
-[^37]: A 2. § (2) bekezdés 25b. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be.
-[^38]: A 2. § (2) bekezdés 29. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (8) bekezdésével megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^39]: A 2. § (2) bekezdés 30a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (9) bekezdése iktatta be.
-[^40]: A 2. § (2) bekezdés 31. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (10) bekezdésével megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (5) bekezdés b) pontja szerint módosított szöveg.
-[^41]: A 2. § (2) bekezdés 35a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (11) bekezdése iktatta be.
-[^42]: A 2. § (2) bekezdés 38. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^43]: A 2. § (2) bekezdés 39. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (5) bekezdés d) pontja szerint módosított szöveg.
-[^44]: A 2. § (2) bekezdés 40. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
-[^45]: A 2. § (2) bekezdés 41. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
-[^46]: A 2. § (3) bekezdését a 11/2012. (II. 14.) Korm. rendelet 1. § (9) bekezdése iktatta be.
-[^47]: A 2. § (4) bekezdését a 11/2012. (II. 14.) Korm. rendelet 1. § (9) bekezdése iktatta be.
+[^16]: A 2. § (1) bekezdés 15. pontja a 221/2016. (VII. 22.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
+[^17]: A 2. § (1) bekezdés 17a. pontját a 11/2012. (II. 14.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^18]: A 2. § (1) bekezdés 23. pontja a 11/2012. (II. 14.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^19]: A 2. § (1) bekezdés 24. pontja a 11/2012. (II. 14.) Korm. rendelet 1. § (5) bekezdésével megállapított szöveg.
+[^20]: A 2. § (1) bekezdés 32. pontja a 11/2012. (II. 14.) Korm. rendelet 1. § (6) bekezdésével megállapított szöveg.
+[^21]: A 2. § (1) bekezdés 32a. pontját a 11/2012. (II. 14.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^22]: A 2. § (1) bekezdés 34. pontja a 11/2012. (II. 14.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.
+[^23]: A 2. § (2) bekezdés 1. pontját a 95/2010. (III. 31.) Korm. rendelet 7. §-a hatályon kívül helyezte.
+[^24]: A 2. § (2) bekezdés 2a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^25]: A 2. § (2) bekezdés 3a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^26]: A 2. § (2) bekezdés 5a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be, szövege a 37/2011. (III. 22.) Korm. rendelet 39. § (10) bekezdésével megállapított szöveg.
+[^27]: A 2. § (2) bekezdés 5b. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^28]: A 2. § (2) bekezdés 5c. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^29]: A 2. § (2) bekezdés 5d. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (4) bekezdése iktatta be.
+[^30]: A 2. § (2) bekezdés 17a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^31]: A 2. § (2) bekezdés 17b. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (5) bekezdése iktatta be.
+[^32]: A 2. § (2) bekezdés 18. pontja a 95/2010. (III. 31.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^33]: A 2. § (2) bekezdés 18a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^34]: A 2. § (2) bekezdés 18b. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^35]: A 2. § (2) bekezdés 18c. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^36]: A 2. § (2) bekezdés 18d. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (6) bekezdése iktatta be.
+[^37]: A 2. § (2) bekezdés 25a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^38]: A 2. § (2) bekezdés 25b. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (7) bekezdése iktatta be.
+[^39]: A 2. § (2) bekezdés 29. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (8) bekezdésével megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (5) bekezdés a) pontja szerint módosított szöveg.
+[^40]: A 2. § (2) bekezdés 30a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (9) bekezdése iktatta be.
+[^41]: A 2. § (2) bekezdés 31. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (10) bekezdésével megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (5) bekezdés b) pontja szerint módosított szöveg.
+[^42]: A 2. § (2) bekezdés 35a. pontját a 95/2010. (III. 31.) Korm. rendelet 1. § (11) bekezdése iktatta be.
+[^43]: A 2. § (2) bekezdés 38. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^44]: A 2. § (2) bekezdés 39. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított, a 37/2011. (III. 22.) Korm. rendelet 40. § (5) bekezdés d) pontja szerint módosított szöveg.
+[^45]: A 2. § (2) bekezdés 40. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
+[^46]: A 2. § (2) bekezdés 41. pontja a 95/2010. (III. 31.) Korm. rendelet 1. § (12) bekezdésével megállapított szöveg.
+[^47]: A 2. § (3) bekezdését a 11/2012. (II. 14.) Korm. rendelet 1. § (9) bekezdése iktatta be.
+[^48]: A 2. § (4) bekezdését a 11/2012. (II. 14.) Korm. rendelet 1. § (9) bekezdése iktatta be.

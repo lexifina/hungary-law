@@ -16,11 +16,11 @@ e) az alapkezelés a legjobb gyakorlatok alkalmazásával és prudenciális fel�
 
 (3) A befektetési alap által a célvállalkozások részére juttatott beruházási részösszegek bármely 12 hónap vonatkozásában nem haladhatják meg az 1,5 millió eurót.
 
-(4)[^215] Az egyes befektetések finanszírozását legalább harminc százalékban magánbefektetők útján kell biztosítani.
+(4)[^219] Az egyes befektetések finanszírozását legalább harminc százalékban magánbefektetők útján kell biztosítani.
 
 (5) A befektetési alap a célvállalkozásokba fektetett teljes költségvetésének legalább 70%-át sajáttőke, illetve kvázi-sajáttőke formájában nyújtja.
 
-(6)[^216] Ha a célvállalkozás az e § szerinti kockázati tőke befektetés intézkedés alapján kapott tőkét – a 100–106. § szerinti kutatás-fejlesztési támogatást kivéve – a tőkejuttatástól számított három éven belül a 800/2008/EK bizottsági rendelet hatálya alá tartozó támogatási jogcímen támogatás iránti kérelmet nyújt be – a nyújtott tőke összegéig – a támogatás intenzitását vagy a maximális elszámolható költségeket 20 százalékkal csökkenteni kell.
+(6)[^220] Ha a célvállalkozás az e § szerinti kockázati tőke befektetés intézkedés alapján kapott tőkét – a 100–106. § szerinti kutatás-fejlesztési támogatást kivéve – a tőkejuttatástól számított három éven belül a 800/2008/EK bizottsági rendelet hatálya alá tartozó támogatási jogcímen támogatás iránti kérelmet nyújt be – a nyújtott tőke összegéig – a támogatás intenzitását vagy a maximális elszámolható költségeket 20 százalékkal csökkenteni kell.
 
-[^215]: A 110. § (4) bekezdése a 33/2011. (III. 17.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^216]: A 110. § (6) bekezdését a 33/2011. (III. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^219]: A 110. § (4) bekezdése a 33/2011. (III. 17.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^220]: A 110. § (6) bekezdését a 33/2011. (III. 17.) Korm. rendelet 10. § (2) bekezdése iktatta be.

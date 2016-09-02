@@ -8,8 +8,8 @@ b) Éves projektjelentés,
 
 c) Projektzáró jelentés.
 
-(2)[^91] A jelentéstételi kötelezettség kezdő időpontja minden projekt esetében a kötelezettségvállalás, azaz a Projekt Megállapodás, Pályázati Alap esetében a Pályázati Alap Megállapodás hatálybalépésének időpontja.
+(2)[^92] A jelentéstételi kötelezettség kezdő időpontja minden projekt esetében a kötelezettségvállalás, azaz a Projekt Megállapodás, Pályázati Alap esetében a Pályázati Alap Megállapodás hatálybalépésének időpontja.
 
 (3) A jelentéseket az NKE által meghatározott formátumban kell elkészíteni.
 
-[^91]: A 30. § (2) bekezdése a 11/2012. (II. 14.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^92]: A 30. § (2) bekezdése a 11/2012. (II. 14.) Korm. rendelet 9. §-ával megállapított szöveg.

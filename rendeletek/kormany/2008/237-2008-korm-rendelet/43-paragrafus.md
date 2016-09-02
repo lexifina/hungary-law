@@ -1,4 +1,4 @@
-43. §[^113] (1) A Kisprojekt Végrehajtók kiválasztása során a TKSz a következő alapelvek szerint jár el:
+43. §[^114] (1) A Kisprojekt Végrehajtók kiválasztása során a TKSz a következő alapelvek szerint jár el:
 
 a) a pályázati lehetőség széles körű meghirdetése,
 
@@ -10,4 +10,4 @@ d) átláthatóság.
 
 (2) A TKSz a Kisprojekt Elfogadó Bizottság pályázatokkal kapcsolatos döntését mind a pályázónak, mind az NKE-nek megküldi.
 
-[^113]: A 43. § a 11/2012. (II. 14.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^114]: A 43. § a 11/2012. (II. 14.) Korm. rendelet 17. §-ával megállapított szöveg.
