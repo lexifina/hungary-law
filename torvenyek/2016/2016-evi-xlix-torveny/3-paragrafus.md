@@ -1,5 +1,0 @@
-3. § Az Sztv. 9. §-a helyébe a következő rendelkezés lép:
-
-„9. § (1) Az iskolaszövetkezet felügyelő bizottságának egy-egy tagja az iskolaszövetkezet alapításában részt vevő, a 8. § (1) bekezdésében meghatározott intézmény, továbbá az intézmény fenntartója által delegált személy.
-
-(2) Az iskolaszövetkezet alapszabályának érvényességéhez a 8. § (1) bekezdésében meghatározott intézmény fenntartójának jóváhagyása szükséges. Az iskolaszövetkezet alapszabályának jóváhagyása abban az esetben tagadható meg, ha jogszabályba ütközik vagy ellentétes az intézmény szervezeti és működési szabályzatában, illetve más belső szabályzatában foglaltakkal, továbbá, ha az iskolaszövetkezet tevékenysége veszélyezteti az intézmény működését.”
