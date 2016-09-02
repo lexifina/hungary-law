@@ -1,3 +1,3 @@
-## 6. §[^2]
+## 6. §[^5]
 
-[^2]: A 6. § a 10. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^5]: A 6. § a 379/2016. (XII. 2.) Korm. rendelet 324. §-a alapján nem lép hatályba.
