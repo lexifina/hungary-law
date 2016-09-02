@@ -1,1 +1,0 @@
-## 3. § A folyami információs szolgáltatásokról szóló 219/2007. (VIII. 15.) Korm. rendelet 6. § (1) bekezdés a) pont ah) alpontjában a „Közlekedésbiztonsági Szervezet főigazgatója” szövegrész helyébe a „közlekedésbiztonsági szerv vezetője” szöveg lép.
