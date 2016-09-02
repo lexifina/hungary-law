@@ -1,9 +1,9 @@
-201. § (1) Hatályát veszti az Art.
+201. § (1)
 
-1. 52. § (12) bekezdése,
+1.
 
 2–3.
 
-4. 7. számú melléklet 1–18. pontja.
+4.
 
 (2)

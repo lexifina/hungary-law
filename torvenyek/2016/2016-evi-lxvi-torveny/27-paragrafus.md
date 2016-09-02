@@ -4,7 +4,7 @@
 
 2.
 
-3. 65. § (3) bekezdés a) pont ab) alpontja,
+3.
 
 4–5.
 
