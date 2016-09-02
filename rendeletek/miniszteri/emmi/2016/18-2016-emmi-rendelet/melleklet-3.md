@@ -5985,3 +5985,7 @@ c) attitűdje
 - A perzsa nyelv-, irodalom-, történelem-, vallás- és kultúratudomány gondolkodásmódját hitelesen közvetíti.
 
 - Törekszik a perzsa kultúra hazai megismertetésére.
+
+- Törekszik perzsa szaknyelvi tudásának fejlesztésére.
+
+d) autonómiája és felelőssége

@@ -1,1 +1,3 @@
-## 11. § A 6. § (1) bekezdésében az „1a.” szövegrész helyébe az „1b.” szöveg lép.
+## 11. §[^2]
+
+[^2]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
