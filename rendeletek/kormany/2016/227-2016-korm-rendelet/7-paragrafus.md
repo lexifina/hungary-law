@@ -1,5 +1,0 @@
-## 6. § A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet a következő 15. §-sal egészül ki:
-
-## „15. § Ha jogszabály rendelkezése alapján az e rendelet szerinti szolgáltatást kötelezően igénybevevő szervezet egyesül egy másik – ilyen szolgáltatást kötelezően igénybe nem vevő – költségvetési szervvel vagy minisztériumi háttérintézménnyel, akkor az igénybevételre nem kötelezett szerv 1. mellékletben meghatározott szolgáltatások tárgyában, azok igénybevételére kötött szerződéseiből származó jogok és kötelezettségek a központi szolgáltatóra szállnak át – a közbeszerzési tárgyú szerződések esetében jogutódként –, az ilyen szerződések esetében a központi szolgáltató az igénybevételre nem kötelezett szerv helyébe lép.”
-
-## 7. A közszolgálati tisztviselők személyi irataira, a közigazgatási szerveknél foglalkoztatott munkavállalók személyi irataira és a munkaügyi nyilvántartásra, a közszolgálati alapnyilvántartásra és közszolgálati statisztikai adatgyűjtésre, valamint a tartalékállományra vonatkozó egyes szabályokról szóló 45/2012. (III. 20.) Korm. rendelet módosítása
