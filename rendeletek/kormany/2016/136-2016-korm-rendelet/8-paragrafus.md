@@ -1,3 +1,5 @@
-## 7. § A 321/2012. (XI. 16.) Korm. rendelet az 1. melléklet szerinti 1. melléklettel egészül ki.
+## 6–7. §[^6]
 
 ## 7. Az Oktatási Hivatalról szóló 121/2013. (IV. 26.) Korm. rendelet módosítása
+
+[^6]: A 6–7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
