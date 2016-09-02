@@ -1,9 +1,3 @@
-## 3. § Az R. 21. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 2–3. §[^2]
 
-## „(3) A kapacitásaukció során aukciós felárnak
-
-## a) a kiinduló ár százalékban kifejezett részét, melynek alapértéke 0% vagy
-
-## b) a szállítási rendszerüzemeltető által meghatározott abszolút értéket
-
-## kell tekinteni.”
+[^2]: A 2–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
