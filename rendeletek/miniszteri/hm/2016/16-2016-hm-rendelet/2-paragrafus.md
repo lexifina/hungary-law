@@ -1,3 +1,0 @@
-## 1. § A Magyar Honvédségre, illetve a katonai nemzetbiztonsági szolgálatokra vonatkozó eltérő munkavédelmi követelményekről, eljárási szabályokról szóló 1/2009. (I. 30.) HM rendelet (a továbbiakban: R1.) 37. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) A munkabiztonsági hatóság által kiszabott munkavédelmi bírságot a HM Magyar Államkincstárnál vezetett 10023002-01780499-00000000 számú számlájára, a munkaegészségügyi hatóság által kiszabott munkavédelmi bírságot az MH egészségügyi feladatokat ellátó központi szerve Magyar Államkincstárnál vezetett 10023002-00290469-00000000 számú számlájára kell befizetni.”
