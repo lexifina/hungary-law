@@ -1,4 +1,4 @@
-14. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^52]
+14. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^53]
 
 Kerettanterv a szakgimnáziumok 9-12. évfolyama számára
 
@@ -428,44 +428,4 @@ Képző- és iparművészet V.,
 
 Hang-, film és színháztechnika VI., ágazatok esetében
 
-6K13490_6
-
-| Tantárgyak | 9. évf. | 10. évf. | 11. évf. | 12. évf. | 9-12. óraszám összesen | 13. évf. | 13. évf. óraszám összesen |
-
-| Magyar nyelv és irodalom | 4 | 4 | 4 | 4 | 556 | - | - |
-
-| Idegen nyelv | 4 | 4 | 4 | 4 | 556 | 4 | 124 |
-
-| Matematika | 3 | 3 | 3 | 3 | 417 | - | - |
-
-| Történelem | 2 | 2 | 3 | 3 | 345 | - | - |
-
-| Etika | - | - | - | 1 | 31 | - | - |
-
-| Informatika | 2 | 2 | - | - | 144 | - | - |
-
-| Művészetek | - | - | 1 | - | 36 | - | - |
-
-| Testnevelés | 5 | 5 | 5 | 5 | 695 | - | - |
-
-| Osztályfőnöki | 1 | 1 | 1 | 1 | 139 | - | - |
-
-| Kötelező komplex természettudományos tantárgy | 3 | - | - | - | 108 | - | - |
-
-| Ágazathoz kapcsolódó tantárgy: Fizika | - | 2 | 2 | 2 | 206 | - | - |
-
-| Kötelezően választható tantárgy: Érettségi tantárgy, vagy Idegen nyelv, vagy Kémia*, vagy Informatika, vagy Szakmai tantárgy** | - | - | 2 | 2 | 134 | - | - |
-
-| Pénzügyi és vállalkozói ismeretek | - | 1 | - | - | 36 | - | - |
-
-| Érettségire épülő (fő) szakképesítés | 8 | 8 | 7 | 7 | (1045+453) 1498 | 31 | 961 |
-
-| Érettségi vizsga keretében megszerezhető szakképesítés | 3 | 4 | 3 | 3 | - | - |
-
-| Rendelkezésre álló órakeret/hét | 35 | 36 | 35 | 35 |  | 35 |  |
-
-| Tanítási hetek száma | 36 | 36 | 36 | 31 |  | 31 |  |
-
-| Éves összes óraszám | 1260 | 1296 | 1260 | 1085 | 4901 | 1085 | 1085 |
-
-[^52]: A 14. mellékletet a 22/2016. (VIII. 25.) EMMI rendelet 5. § (1) bekezdése iktatta be.
+[^53]: A 14. mellékletet a 22/2016. (VIII. 25.) EMMI rendelet 5. § (1) bekezdése iktatta be.
