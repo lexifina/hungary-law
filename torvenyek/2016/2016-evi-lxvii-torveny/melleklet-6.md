@@ -1,5 +1,1 @@
-## A nemzeti köznevelésről szóló 2011. évi CXC. törvény 6. mellékletében foglalt táblázat 3. sora helyébe következő rendelkezés lép:
-
-## | | (A | B | C | D | E | 1 | évfolyam | gyermek, tanuló heti óraszáma | osztályok heti időkerete | Nemzetiségi iskolai nevelés- oktatás többlet tanórai foglalko- zásainak száma | sajátos nevelési igényű tanulók heti egészségügyi és pedagógiai célú habilitációs, rehabilitációs tanórai foglalkozásainak száma | 2 | | BA test- neve- lés nélkül | BB test- neve- lés | BC órák test-neve-léssel | CA enge- délye- zett | CB a hittan többlet óra- kerete egy- házi intéz- mé- nyek- ben | CC 6 és 8 évf. gimná- zium több- letórái | DA nemzeti- ség | EA értel- mi fo- gya- tékos | EB gyen- gén- látó | EC vak, na- gyot- halló,moz- gás- és be- széd- fo- gya- tékos | EE siket és autis- ta | EF egyéb) | 3 | óvoda | 50 | | 50 | 50 | 2 | | | 11
-
 6. melléklet a 2016. évi LXVII. törvényhez
