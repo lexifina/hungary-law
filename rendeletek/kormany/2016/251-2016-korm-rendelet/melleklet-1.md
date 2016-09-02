@@ -1,3 +1,5 @@
-## 16. § Hatályát veszti a Közigazgatási és Igazságügyi Hivatalról szóló 177/2012. (VII. 26.) Korm. rendelet.
+## 16. §[^11]
 
 1. melléklet a 251/2016. (VIII. 24.) Korm. rendelethez
+
+[^11]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
