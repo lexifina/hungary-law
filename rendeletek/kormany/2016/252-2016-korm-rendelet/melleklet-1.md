@@ -1,3 +1,5 @@
-## 11. § Hatályát veszti a 328/2009. (XII. 29.) Korm. rendelet.
+## 11. §[^2]
 
 1. melléklet a 252/2016. (VIII. 24.) Korm. rendelethez
+
+[^2]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
