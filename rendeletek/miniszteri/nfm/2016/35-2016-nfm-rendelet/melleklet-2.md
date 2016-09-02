@@ -5717,3 +5717,5 @@ A záródolgozat áttekinthetősége, formai és nyelvi igényessége.
 A hallgató munkájáról kialakult vélemény.
 
 A terjedelmi követelmények.
+
+A záródolgozatokat, a komplex szakmai vizsgát megelőzően legalább 10 nappal az előzetes szakmai bírálattal együtt a vizsgabizottság elnökének rendelkezésére kell bocsátani.
