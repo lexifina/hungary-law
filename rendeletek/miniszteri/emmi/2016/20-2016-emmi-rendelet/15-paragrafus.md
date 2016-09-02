@@ -1,1 +1,0 @@
-## „d) a művészeti felsőoktatási intézmény által fenntartott nyolc évfolyamos gimnázium kivételével az e § szerinti gimnáziumi nevelés-oktatásra jelentkezők száma minden meghirdetett tanulmányi területre vonatkozóan minden tanévben legalább húsz százalékkal meghaladja az Nkt.-ben az intézménytípusra meghatározott minimális osztálylétszámot,”
