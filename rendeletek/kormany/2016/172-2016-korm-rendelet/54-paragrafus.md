@@ -1,3 +1,3 @@
-54. §[^52]
+54. §[^54]
 
-[^52]: Az 52–54. § a 80. § (4) bekezdése alapján 2016. október 1-jén lép hatályba.
+[^54]: Az 52–54. § a 80. § (4) bekezdése alapján 2016. október 1-jén lép hatályba.
