@@ -2,4 +2,4 @@
 
 (2)
 
-(3) Hatályát veszti az Szt. 2. § 36. pontja.
+(3)
