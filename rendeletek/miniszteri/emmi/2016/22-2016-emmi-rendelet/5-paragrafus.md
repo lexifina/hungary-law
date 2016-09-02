@@ -1,3 +1,3 @@
-5. § (1) A Rendelet a 9. melléklet szerinti 14. melléklettel egészül ki.
+5. §[^5]
 
-(2) A Rendelet a 10. melléklet szerinti 15. melléklettel egészül ki.
+[^5]: Az 1–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
