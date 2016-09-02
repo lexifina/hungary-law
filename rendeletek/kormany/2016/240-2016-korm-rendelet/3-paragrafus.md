@@ -1,5 +1,6 @@
-3. § (1) Hatályát veszti az R. 1. melléklet G) pontjában foglalt táblázat 2. sora.
+3. § (1)[^5]
 
-(2)[^3]
+(2)[^6]
 
-[^3]: A 3. § (2) bekezdése a 4. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^5]: A 3. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 3. § (2) bekezdése a 4. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
