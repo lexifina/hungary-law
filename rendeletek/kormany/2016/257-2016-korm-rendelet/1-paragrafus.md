@@ -1,0 +1,21 @@
+## 1. Értelmező rendelkezések
+
+## 1. § E rendelet alkalmazásában:
+
+1. alapinfrastruktúra: az önkormányzati ASP rendszer működését biztosító adatközponti és hálózati informatikai infrastruktúra, valamint a szakrendszeri átjárhatóságot és a külső rendszerkapcsolatok kiépítésének lehetőségét biztosító integrációs platformszolgáltatás;
+
+2. alkalmazásüzemeltetés: az alkalmazások elérhetővé tétele és működtetése, jogosultságkezelés, hibakezelés; a rendszertámogatási szerződések megkötése;
+
+3. csatlakozás: a szolgáltatások tényleges használatának megkezdése;
+
+4. interfész: adatok automatizált módon, elektronikus úton történő átadását lehetővé tevő kapcsolódási felület;
+
+5. központi szolgáltató: a NISZ Nemzeti Infokommunikációs Szolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: NISZ Zrt.) és az IdomSoft Informatikai Zártkörűen Működő Részvénytársaság (a továbbiakban: IdomSoft Zrt.);
+
+6. önkormányzati ASP rendszer: a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény (a továbbiakban: Mötv.) 114. § (2) bekezdése szerinti, a helyi önkormányzatok feladatellátását támogató, számítástechnikai hálózaton keresztül távoli alkalmazásszolgáltatást (Application Service Provider, ASP) nyújtó elektronikus információs rendszer;
+
+7. rendszertámogatás: a fejlesztési időszakot követő hibajavítás, verziófrissítés, jogszabálykövetés;
+
+8. szakrendszer: az önkormányzati ASP rendszer által nyújtott, igazgatási feladatokat támogató szakalkalmazás;
+
+9. ügyféltámogatás: a működéssel kapcsolatos felhasználói segítségkérelmek megválaszolása.
