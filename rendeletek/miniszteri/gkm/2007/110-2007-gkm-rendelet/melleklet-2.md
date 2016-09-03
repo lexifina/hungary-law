@@ -1,4 +1,4 @@
-## 1.[^38] A kapcsolt energiatermelésből származó villamos energia kiszámításának szabályai
+## 1.[^43] A kapcsolt energiatermelésből származó villamos energia kiszámításának szabályai
 
 ## 1.1. A kapcsolt energiatermelésből származó villamos energia kiszámításához felhasznált értékek meghatározása az adott egység várható vagy tényleges rendeltetésszerű használata során tapasztaltak alapján történik. A mikroegységek esetében a számítást hiteles értékekre lehet alapozni.
 
@@ -104,7 +104,7 @@
 
 ## 2.7. Ha az első erőgép nem termel villamos vagy mechanikus energiát, akkor a kapcsolt energiatermelő erőműegység határai a második erőgép körül húzódnak. A második erőgép üzemanyagát az első erőgép által megtermelt hő adja.
 
-2. számú melléklet a 110/2007. (XII. 23.) GKM rendelethez[^39]
+2. számú melléklet a 110/2007. (XII. 23.) GKM rendelethez[^44]
 
-[^38]: Az 1. számú melléklet 1. pontja a 24/2015. (V. 26.) NFM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^39]: A 2. számú melléklet a 24/2015. (V. 26.) NFM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^43]: Az 1. számú melléklet 1. pontja a 24/2015. (V. 26.) NFM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^44]: A 2. számú melléklet a 24/2015. (V. 26.) NFM rendelet 8. § (2) bekezdésével megállapított, a 34/2016. (VIII. 26.) NFM rendelet 3. § c) pontja szerint módosított szöveg.

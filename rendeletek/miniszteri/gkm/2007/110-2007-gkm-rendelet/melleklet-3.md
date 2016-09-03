@@ -2,7 +2,7 @@
 
 ## 1. A nagy hatásfokú kapcsolt energiatermelésnek a következő követelményeknek kell megfelelnie:
 
-## a) a kapcsolt energiatermelő egységekből származó kapcsolt energiatermelésnek a 2. pont szerint számítva legalább 10 %-os primerenergia-megtakarítást kell elérnie a 3. és 4. számú melléklet szerinti, külön hőtermelésre, illetve külön villamosenergia-termelésre vonatkozó referenciaértékekhez képest,
+## a) a kapcsolt energiatermelő egységekből származó kapcsolt energiatermelésnek a 2. pont szerint számítva legalább 10 %-os primerenergia-megtakarítást kell elérnie az e rendelet, valamint a 2015/2402 bizottsági rendelet alapján meghatározott, külön hőtermelésre, illetve külön villamosenergia-termelésre vonatkozó referenciaértékekhez képest,
 
 ## b) a primerenergia-megtakarítást biztosító, kapcsolt energiatermelő kis- és mikroegységek termelése nagy hatásfokú kapcsolt energiatermelésnek minősíthető.
 
@@ -20,6 +20,6 @@
 
 ## 3.5. Ref Eη: a külön villamosenergia-termelés hatásfokának referenciaértéke.
 
-3. számú melléklet a 110/2007. (XII. 23.) GKM rendelethez[^40]
+3–4. számú melléklet a 110/2007. (XII. 23.) GKM rendelethez[^45]
 
-[^40]: Az 3. számú melléklet a 2/2012. (I. 31.) NFM rendelet 2. §-a szerint módosított szöveg.
+[^45]: A 3–4. mellékletet a 34/2016. (VIII. 26.) NFM rendelet 4. § b) pontja hatályon kívül helyezte.
