@@ -1,4 +1,4 @@
-## 4. §[^5] A központi szolgáltató feladatát a 2. mellékletben meghatározott költségvetési szervek esetében a miniszterrel kötött közszolgáltatási szerződés alapján látja el, amelyben a felek rögzítik az elvárt szolgáltatások körét és a szolgáltatások elvárt szintjét, valamint az általános informatikai biztonsági követelményeket (a továbbiakban: központi szolgáltatási megállapodás). A központi szolgáltatási megállapodásban foglalt szolgáltatások ellátásának fedezetét a miniszter biztosítja.
+## 4. §[^6] A központi szolgáltató feladatát a 2. mellékletben meghatározott költségvetési szervek esetében a miniszterrel kötött közszolgáltatási szerződés alapján látja el, amelyben a felek rögzítik az elvárt szolgáltatások körét és a szolgáltatások elvárt szintjét, valamint az általános informatikai biztonsági követelményeket (a továbbiakban: központi szolgáltatási megállapodás). A központi szolgáltatási megállapodásban foglalt szolgáltatások ellátásának fedezetét a miniszter biztosítja.
 
 5. § (1) A központi szolgáltatási megállapodásban foglalt követelmények meghatározását és ellenőrzését a Kormány által létrehozott munkacsoport (a továbbiakban: Munkacsoport) végzi.
 
@@ -8,9 +8,9 @@ a) javaslatot tesz a központi szolgáltatási megállapodás tartalmára,
 
 b) rendszeresen vizsgálja a központi szolgáltatási megállapodásban foglaltak teljesülését, és erről jelentést készít a miniszter részére.
 
-(3)[^6] A központi szolgáltatási megállapodás a Munkacsoportnak a kormányzati tevékenység összehangolásáért felelős miniszter által kijelölt tagja egyetértésével hozható létre.
+(3)[^7] A központi szolgáltatási megállapodás a Munkacsoportnak a kormányzati tevékenység összehangolásáért felelős miniszter által kijelölt tagja egyetértésével hozható létre.
 
 (4) A központi szolgáltatási megállapodás rögzíti az igénybe vételre kötelezett szervezet részvételének módját és feltételeit a központi szolgáltatási megállapodásban foglalt informatikai biztonsági követelmények teljesülésének ellenőrzésében.
 
-[^5]: A 4. § a 300/2012. (X. 26.) Korm. rendelet 9. §-ával megállapított, a 306/2015. (X. 26.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^6]: Az 5. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 600. §-ával megállapított szöveg.
+[^6]: A 4. § a 300/2012. (X. 26.) Korm. rendelet 9. §-ával megállapított, a 306/2015. (X. 26.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^7]: Az 5. § (3) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 600. §-ával megállapított szöveg.

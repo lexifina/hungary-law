@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-309-20-
 | 2016-01-01 | 2011-309-20-22.10 | 384/2015. (XII. 8.) Korm. rendelet |
 | 2016-08-01 | 2011-309-20-22.11 | 206/2016. (VII. 21.) Korm. rendelet |
 | 2016-09-01 | 2011-309-20-22.12 | 2010: CXXX. törvény |
+| 2016-09-03 | 2011-309-20-22.13 | 257/2016. (VIII. 31.) Korm. rendelet |

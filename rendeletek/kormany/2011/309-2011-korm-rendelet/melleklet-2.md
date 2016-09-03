@@ -48,7 +48,7 @@
 
 ## 2.9. Központi tárolóhely, nyomtatási várakozási sorok és központi levelezési szolgáltatások üzemeltetése
 
-## 2.10.[^18] Dobozos és egyedi fejlesztésű alkalmazásoknak a központi vagy egyedi szolgáltatási megállapodás szerint történő üzemeltetése.
+## 2.10.[^21] Dobozos és egyedi fejlesztésű alkalmazásoknak a központi vagy egyedi szolgáltatási megállapodás szerint történő üzemeltetése.
 
 ## 2.11. Egyéb alapvető informatikai és elektronikus hírközlő eszköz üzemeltetése, karbantartása
 
@@ -134,7 +134,7 @@
 
 ## 3. Egyedileg igényelt perifériákkal való ellátás (szkenner, nyomtató) raktári készletből
 
-2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^19]
+2. melléklet a 309/2011. (XII. 23.) Korm. rendelethez[^22]
 
 ## A kötelezően biztosítandó központosított informatikai és elektronikus hírközlési szolgáltatásokat kötelezően igénybe vevő központi költségvetési szervek
 
@@ -158,5 +158,5 @@
 
 10. Nemzeti Fejlesztési Minisztérium
 
-[^18]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
-[^19]: A 2. melléklet a 206/2016. (VII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^21]: Az 1. melléklet 2.10. pontja a 300/2012. (X. 26.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^22]: A 2. melléklet a 206/2016. (VII. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
