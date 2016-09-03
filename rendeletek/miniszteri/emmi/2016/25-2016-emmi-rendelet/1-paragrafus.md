@@ -1,1 +1,0 @@
-## 1. A területi felzárkózási koordinációs központi és felnőttképzési feladatot ellátó regionális képző központok irányításáról, feladatairól szóló 3/2011. (II. 11.) KIM rendelet hatályon kívül helyezése
