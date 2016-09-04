@@ -4,4 +4,6 @@
 
 10. § (1) Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-(2) Hatályát veszti az önkormányzati ASP központról és a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet módosításáról szóló 62/2015. (III. 24.) Korm. rendelet.
+(2)[^1]
+
+[^1]: A 10. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
