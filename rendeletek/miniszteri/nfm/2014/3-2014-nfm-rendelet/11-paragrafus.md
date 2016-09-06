@@ -4,6 +4,6 @@
 
 (3) A díj díszdobozban elhelyezett, bronzból készült, kör alakú emlékplakett, átmérője 125 mm. Előlapján kis település látható, a tájban a fölé repülő angyallal. Hátoldalán a Kárpát-medence karéjából kiemelt Magyarország cizellált domborzati látványképe és a Pro Regio felirat helyezkedik el.
 
-(4)[^9] A díj az október 23-i nemzeti ünnep alkalmából adományozható.
+(4)[^11] A díj az október 23-i nemzeti ünnep alkalmából adományozható.
 
-[^9]: A 11. § (4) bekezdése a 41/2014. (X. 15.) NFM rendelet 4. §-ával megállapított szöveg.
+[^11]: A 11. § (4) bekezdése a 41/2014. (X. 15.) NFM rendelet 4. §-ával megállapított szöveg.
