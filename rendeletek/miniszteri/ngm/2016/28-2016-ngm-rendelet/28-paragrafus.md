@@ -1,0 +1,7 @@
+## 27. A megfelelő felvonó és felvonókhoz készült, kockázatot jelentő biztonsági berendezések
+
+28. § (1) Amennyiben a piacfelügyeleti hatóság a 26. § (2)–(5) bekezdése szerinti értékelés elvégzését követően megállapítja, hogy bár a felvonókhoz készült biztonsági berendezés megfelel ennek a rendeletnek, azonban mégis kockázatot jelent a személyek egészségére vagy biztonságára vagy a tulajdon biztonságára, akkor felszólítja az érintett gazdasági szereplőt a megfelelő intézkedések meghozatalára annak biztosítása érdekében, hogy az érintett, felvonókhoz készült biztonsági berendezés a forgalomba hozatalkor ne jelentsen kockázatot, és hogy egy általa meghatározott, a kockázat jellegével arányos, ésszerű határidőn belül kivonja a forgalomból.
+
+(2) A gazdasági szereplő gondoskodik minden megfelelő kiigazító intézkedés meghozataláról az általa forgalomba hozott vagy forgalmazott, szóban forgó felvonó vagy felvonókhoz készült biztonsági berendezés tekintetében.
+
+(3) A piacfelügyeleti hatóság az (1)–(2) bekezdésben foglaltakkal kapcsolatban haladéktalanul tájékoztatja a Bizottságot és a többi tagállamot. A tájékoztatásban meg kell adni az összes rendelkezésre álló adatot, különösen az érintett felvonó vagy felvonókhoz készült biztonsági berendezés azonosításához szükséges adatokat, a készülék származási helyét és értékesítési láncát, a felmerülő kockázat jellegét, valamint a meghozott nemzeti intézkedések jellegét és időtartamát.

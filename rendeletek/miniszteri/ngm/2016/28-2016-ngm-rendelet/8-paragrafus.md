@@ -1,0 +1,19 @@
+## 8. A gyártó kötelezettségei
+
+8. § (1) Felvonókhoz készült biztonsági berendezések forgalomba hozatalakor a gyártó biztosítja, hogy azok tervezése és gyártása az 5. § (2) bekezdésével összhangban történt.
+
+(2) A gyártó elkészíti a szükséges műszaki dokumentációt, és elvégzi vagy elvégezteti a 15. §-ban említett megfelelőségértékelési eljárást. Amennyiben az eljárás során megállapítást nyer, hogy a felvonókhoz készült biztonsági berendezés megfelel az alkalmazandó alapvető egészségvédelmi és biztonsági követelményeknek, a gyártó elkészíti az EU-megfelelőségi nyilatkozatot, biztosítja, hogy azt a felvonókhoz készült biztonsági berendezéshez mellékelje, és feltünteti a terméken a CE megfelelőségi jelölést.
+
+(3) A gyártó a felvonókhoz készült biztonsági berendezés forgalomba hozatalát követően 10 éven keresztül megőrzi a műszaki dokumentációt, az EU-megfelelőségi nyilatkozatot, valamint a jóváhagyási döntéseket.
+
+(4) A gyártó biztosítja a sorozatgyártás e rendeletnek való megfelelőségének fenntartását szolgáló eljárások működését, és megfelelően figyelembe veszi a termék tervezésének és jellemzőinek változásait, valamint azon harmonizált szabványok vagy azokkal egyenértékű más műszaki előírások változásait, amelyek alapján a felvonókhoz készült biztonsági berendezések megfelelőségét megállapították. Ha a felvonókhoz készült biztonsági alkatrésszel járó kockázat miatt szükséges, a gyártó a felhasználók egészségének és biztonságának védelme érdekében elvégzi a forgalmazott biztonsági berendezés mintájának vizsgálatát, kivizsgálja a panaszokat, és nyilvántartást vezet a panaszokról és a nem megfelelő biztonsági berendezésekről, valamint azok visszahívásáról, és folyamatosan tájékoztatja a forgalmazókat és a felvonószerelő vállalkozásokat minden ilyen intézkedésről.
+
+(5) A gyártó biztosítja, hogy az általa forgalomba hozott, felvonókhoz készült biztonsági berendezésen a termék azonosítását lehetővé tevő típus-, tétel- vagy sorozatszám vagy egyéb ilyen elem fel legyen tüntetve, vagy ha a felvonókhoz készült biztonsági berendezés mérete vagy jellege nem teszi lehetővé ezt, a szükséges információt 17. § (1) bekezdésében említett címkén adja meg.
+
+(6) A gyártó a felvonókhoz készült biztonsági berendezésen, vagy ha ez nem lehetséges, a 17. § (1) bekezdésében említett címkén tünteti fel a nevét, bejegyzett kereskedelmi nevét vagy bejegyzett védjegyét és azt a postacímet, amelyen kapcsolatba lehet lépni vele. Címként a gyártó kapcsolattartási címét kell megadni. Az elérhetőséget a felhasználók és a piacfelügyeleti hatóság számára magyar nyelven tünteti fel.
+
+(7) A gyártó gondoskodik arról, hogy a felvonókhoz készült biztonsági berendezéshez mellékelje az 1. melléklet 7.1. pontjában említett, a felhasználók által könnyen érthető nyelven készült használati utasítást. Az ilyen használati utasításnak, és bármely jelölésnek egyértelműnek, érthetőnek és könnyen értelmezhetőnek kell lennie.
+
+(8) Ha a gyártónak olyan adat jut a tudomására, amelynek alapján feltételezhető, hogy az általa forgalomba hozott, felvonókhoz készült biztonsági berendezés nem felel meg e rendeletnek, azonnal meghozza a biztonsági berendezés megfelelőségének biztosításához szükséges kiigazító intézkedéseket és a biztonsági berendezést kivonja a forgalomból vagy visszahívja. Amennyiben a felvonókhoz készült biztonsági berendezés kockázatot jelent, a gyártó erről azonnal tájékoztatja azon tagállamok piacfelügyeleti hatóságait, amelyekben a felvonókhoz készült biztonsági berendezést forgalmazták, részletes tájékoztatást adva elsősorban a megfelelés hiányáról és valamennyi meghozott kiigazító intézkedésről.
+
+(9) A gyártó a piacfelügyeleti hatóság kérésére az Európai Unió hivatalos nyelvén vagy magyar nyelven átadja a felvonókhoz készült biztonsági berendezés e rendeletnek való megfelelőségének igazolásához szükséges összes nyomtatott vagy elektronikus formátumú információt és dokumentációt.
