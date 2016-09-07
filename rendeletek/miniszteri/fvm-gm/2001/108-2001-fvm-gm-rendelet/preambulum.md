@@ -1,1 +1,0 @@
-A felvonók biztonságos kialakítása és működtetése, valamint az egységes üzembe helyezés feltételeinek megteremtése érdekében a fogyasztóvédelemről szóló 1997. évi CLV. törvény 56. §-ának a) pontjában kapott felhatalmazás alapján a következőket rendeljük el:
