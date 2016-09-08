@@ -1,4 +1,4 @@
-## 33. § Hatályát veszti a felvonók biztonsági követelményeiről és megfelelőségének tanúsításáról szóló 108/2001. (XII. 23.) FVM–GM együttes rendelet.
+## 33. §[^1]
 
 1. melléklet a 28/2016. (VIII. 23.) NGM rendelethez
 
@@ -131,3 +131,5 @@ b) a felvonókról, mozgólépcsőkről és mozgójárdákról szóló 146/2014.
 7.3. A gépkönyvet és a használati utasítást azon országok nyelvén kell mellékelni, ahol a felvonót használni fogják, és mellékelni kell a gyártó vagy szerelővállalkozás eredeti nyelvű utasítását is. A fordítást a gyártónak vagy annak a személynek kell biztosítania, aki a felvonót vagy a biztonsági berendezést az érintett nyelvterületen forgalomba hozza.
 
 7.4. A felvonót kísérő ismertetők, iratok, utasítások a biztonsági szempontokat tekintve nem mondhatnak ellent a gyártó által biztosított használati utasításnak.
+
+[^1]: A 33. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
