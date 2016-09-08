@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-41-20-2
 | --- | --- | --- |
 | 2016-03-10 | 2016-41-20-22.1 | 41/2016. (III. 9.) Korm. rendelet |
 | 2016-03-11 | 2016-41-20-22.2 | 2010: CXXX. törvény |
+| 2016-09-08 | 2016-41-20-22.3 | 272/2016. (IX. 5.) Korm. rendelet |

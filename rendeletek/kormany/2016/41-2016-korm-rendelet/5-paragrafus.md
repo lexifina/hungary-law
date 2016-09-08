@@ -4,4 +4,6 @@
 
 5. § (1) Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-(2) Ez a rendelet 2016. szeptember 9-én hatályát veszti.
+(2)[^2] Ez a rendelet 2017. március 8-án hatályát veszti.
+
+[^2]: Az 5. § (2) bekezdése a 272/2016. (IX. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
