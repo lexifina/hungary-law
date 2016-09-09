@@ -1,6 +1,6 @@
 ## 4. § Ez a rendelet a kihirdetését követő napon lép hatályba.
 
-1. melléklet a 334/2012. (XII. 4.) Korm. rendelethez[^3]
+1. melléklet a 334/2012. (XII. 4.) Korm. rendelethez[^6]
 
 A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüggő kiemelt jelentőségű üggyé minősített közigazgatási hatósági eljárások
 
@@ -44,4 +44,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 
 | 19. | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott |
 
-[^3]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 34. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^6]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 34. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
