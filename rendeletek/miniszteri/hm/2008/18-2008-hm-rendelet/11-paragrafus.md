@@ -2,7 +2,7 @@
 
 11. § Ez a rendelet a kihirdetését követő 8. napon lép hatályba, ezzel egyidejűleg hatályát veszti a tűzvédelem és a műszaki mentés honvédelmi ágazatra vonatkozó különös szabályairól szóló 31/2001. (XII. 28.) HM rendelet.
 
-Melléklet a 18/2008. (VIII. 6.) HM rendelethez[^18]
+Melléklet a 18/2008. (VIII. 6.) HM rendelethez[^20]
 
 Jelentés tűzesetről
 
@@ -62,4 +62,4 @@ Kelt ...............
 
 a jelentést teljesítő olvasható aláírása
 
-[^18]: A melléklet a 2/2016. (I. 7.) HM rendelet 5. § g) pontja szerint módosított szöveg.
+[^20]: A melléklet a 2/2016. (I. 7.) HM rendelet 5. § g) pontja szerint módosított szöveg.
