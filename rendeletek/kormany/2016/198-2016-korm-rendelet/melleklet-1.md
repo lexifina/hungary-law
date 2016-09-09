@@ -1,4 +1,4 @@
-## 10. §[^1]
+## 10. §[^2]
 
 1. melléklet a 198/2016. (VII. 13.) Korm. rendelethez
 
@@ -42,7 +42,7 @@
 
 19. területrendezési hatósági eljárások,
 
-20. katasztrófavédelmi hatósági eljárások,
+20.[^3]
 
 21. rendészeti hatósági eljárások,
 
@@ -52,4 +52,5 @@
 
 24. az 1–23. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^1]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 1. melléklet 20. pontját a 271/2016. (IX. 1.) Korm. rendelet 79. § (2) bekezdése hatályon kívül helyezte.
