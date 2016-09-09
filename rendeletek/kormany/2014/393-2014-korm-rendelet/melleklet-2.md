@@ -40,13 +40,15 @@
 
 | 19. | vasúti és szalagpálya hatósági engedélyezési eljárás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 20. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások; beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai; a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 20. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások; beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai; a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+
+| 20a. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 | 21. | a jogszabályban rögzített közegészségügyi hatósági eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Országos Tisztifőorvosi Hivatal |
 
-| 22. | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 22. | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 393/2014. (XII. 31.) Korm. rendelethez[^4]
+2. melléklet a 393/2014. (XII. 31.) Korm. rendelethez[^7]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -78,11 +80,11 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | rendészet | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 14. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 14. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 15. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-| 16. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 16. |  |  |  |
 
 | 17. | talajvédelem | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -96,4 +98,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 22. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^4]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 103. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 103. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 19. §-a, a 271/2016. (IX. 1.) Korm. rendelet 68. § (3)–(4) bekezdése szerint módosított szöveg.
