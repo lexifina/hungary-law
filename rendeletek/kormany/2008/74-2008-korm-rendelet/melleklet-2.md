@@ -140,7 +140,7 @@
 
 | 69. | Szennyvízcsatorna és csapadékvíz elvezetés: 40712, 40711, 40707, 19147, 19144, 19150/1, 40713/2, 19150/1, 19150/2, 19150/3, 40713/1, 40722/2, 40714/12, 40680, 19139, 19144, 19149/2, 40722/14, 40722/5, 40722/1, 40710 hrsz.-ek | Vízjogi engedélyek | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. számú melléklet a 74/2008. (IV. 3.) Korm. rendelethez[^6]
+2. számú melléklet a 74/2008. (IV. 3.) Korm. rendelethez[^9]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -168,7 +168,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 11. | Rendészet: az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 12. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 12. | Tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 13. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
@@ -188,4 +188,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 21. | Régészet és műemlékvédelem | illetékes járási hivatal | Budapest Főváros Kormányhivatala |
 
-[^6]: A 2. számú melléklet a 72/2015. (III. 30.) Korm. rendelet 4. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 84. §-a szerint módosított szöveg.
+[^9]: A 2. számú melléklet a 72/2015. (III. 30.) Korm. rendelet 4. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 84. §-a, a 271/2016. (IX. 1.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
