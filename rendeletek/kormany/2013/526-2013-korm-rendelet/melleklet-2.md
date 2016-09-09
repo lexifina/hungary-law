@@ -36,15 +36,15 @@
 
 | 17. | vasúti hatósági engedélyezési eljárás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 18. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 18. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 19. | a jogszabályban, nemzeti szabványban teljes körűen nem szabályozott beépített tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 19. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 20. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Dunaújvárosi Katasztrófavédelmi Kirendeltség | Fejér Megyei Katasztrófavédelmi Igazgatóság |
+| 20. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 21. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Dunaújvárosi Katasztrófavédelmi Kirendeltség | Fejér Megyei Katasztrófavédelmi Igazgatóság |
+| 21. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet az 526/2013. (XII. 30.) Korm. rendelethez[^6]
+2. melléklet az 526/2013. (XII. 30.) Korm. rendelethez[^8]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -72,11 +72,11 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 11. | rendészet | Fejér Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 12. | tűzvédelem | Dunaújvárosi Katasztrófavédelmi Kirendeltség | Fejér Megyei Katasztrófavédelmi Igazgatóság |
+| 12. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 13. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-| 14. | katasztrófavédelem | Dunaújvárosi Katasztrófavédelmi Kirendeltség | Fejér Megyei Katasztrófavédelmi Igazgatóság |
+| 14. |  |  |  |
 
 | 15. | talajvédelem | Fejér Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -90,4 +90,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 20. | műszaki biztonság | Fejér Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^6]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 69. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 34. a szerint módosított szöveg.
+[^8]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 69. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 34. a szerint, a 271/2016. (IX. 1.) Korm. rendelet 48. § (3)–(4) bekezdése szerint módosított szöveg.
