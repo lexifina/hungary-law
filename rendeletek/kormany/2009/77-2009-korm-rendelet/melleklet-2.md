@@ -240,7 +240,7 @@
 
 | 119. | hajózás és víziközlekedés | a projekt megvalósítása során szükségessé váló hajózási tevékenység és víziközlekedési forgalomszabályozási engedélyek | hajózási hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-2. számú melléklet a 77/2009. (IV. 8.) Korm. rendelethez[^6]
+2. számú melléklet a 77/2009. (IV. 8.) Korm. rendelethez[^9]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -264,7 +264,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 9. | rendészet (rendőrség): az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 10. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 11. | honvédelem | honvédelemért felelős miniszter | nincs |
 
@@ -286,4 +286,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 20. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-[^6]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 10. § (1) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 72. §-a szerint módosított szöveg.
+[^9]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 10. § (1) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 72. §-a, a 271/2016. (IX. 1.) Korm. rendelet 7. § (2) bekezdése szerint módosított szöveg.
