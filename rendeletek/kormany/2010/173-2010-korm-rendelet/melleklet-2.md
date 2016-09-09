@@ -38,15 +38,15 @@
 
 | 18. | gázvezeték és tartozékai építési engedélyeztetése | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 19. | Báta kompresszorállomás vonatkozásában beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 19. | Báta kompresszorállomás vonatkozásában beépített tűzjelző, tűzoltó berendezések létesítésének és használatbavételének engedélyezése | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 20. | beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése a) Túrony szakaszoló állomáson, b) Drávaszerdahely szakaszoló és mérőállomáson | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 20. | beépített tűzjelző, tűzoltó berendezések létesítésének és használatbavételének engedélyezése a) Túrony szakaszoló állomáson, b) Drávaszerdahely szakaszoló és mérőállomáson | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 21. | építésügyi hatósági engedélyezési eljárások a) Báta kompresszorállomás épület, b) Drávaszerdahely mérőállomás | a) Szekszárdi Járási Hivatal b) Pécsi Járási Hivatal | Baranya Megyei Kormányhivatal |
 
 | 22. | Báta kompresszorállomás bekötőút vonatkozásában útügyi hatósági engedélyezési eljárások | Tolna Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
 
-2. melléklet a 173/2010. (V. 13.) Korm. rendelethez[^7]
+2. melléklet a 173/2010. (V. 13.) Korm. rendelethez[^10]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -76,7 +76,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 12. | Légi közlekedés: állami célú | Nemzeti Közlekedési Hatóság Légügyi Hivatal | honvédelemért felelős miniszter |
 
-| 13. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 13. | Tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 14. | Határrendészet | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -90,4 +90,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 19. | Műszaki biztonság | illetékes fővárosi és megyei kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 16. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 68. §-a szerint módosított szöveg.
+[^10]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 16. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 68. §-a, a 271/2016. (IX. 1.) Korm. rendelet 13. § (3) bekezdése szerint módosított szöveg.
