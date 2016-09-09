@@ -20,19 +20,19 @@
 
 | 9. | építésügyi hatósági engedélyezési eljárások a bányafelügyelet hatáskörébe tartozó sajátos építményekre | illetékes megyei kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 10. | beépített tűzjelző, tűzoltó berendezések létesítésének engedélyezése | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. | beépített tűzjelző, tűzoltó berendezések létesítésének és használatbavételének engedélyezése | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 11. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai | illetékes megyei kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
 | 12. | általános építésügyi hatósági engedélyezési eljárások | illetékes járási hivatal | illetékes fővárosi és megyei kormányhivatal |
 
-| 13. | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 13. | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 14. | területrendezési eljárások | illetékes megyei kormányhivatal | nincs |
 
 | 15. | útügyi hatósági engedélyezési eljárások | illetékes megyei kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
 
-2. melléklet a 297/2012. (X. 25.) Korm. rendelethez[^7]
+2. melléklet a 297/2012. (X. 25.) Korm. rendelethez[^10]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -70,7 +70,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 16. | Vasúti közlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatal | Nemzeti Közlekedési Hatóság Központja |
 
-| 17. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 17. | Tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 18. | Határrendészet | illetékes megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -84,4 +84,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 23. | Építésügy | illetékes járási hivatal | illetékes megyei kormányhivatal |
 
-[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 32. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) korm. rendelet 41. §-a szerint módosított szöveg.
+[^10]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 32. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) korm. rendelet 41. §-a, a 271/2016. (IX. 1.) Korm. rendelet 25. § (3) bekezdése szerint módosított szöveg.

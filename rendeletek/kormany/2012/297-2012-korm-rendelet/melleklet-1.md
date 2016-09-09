@@ -1,3 +1,3 @@
-1. melléklet a 297/2012. (X. 25.) Korm. rendelethez[^6]
+1. melléklet a 297/2012. (X. 25.) Korm. rendelethez[^9]
 
-[^6]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 32. § (2) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^9]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 32. § (2) bekezdés a) pontjával megállapított, a 271/2016. (IX. 1.) Korm. rendelet 25. § (2) bekezdése szerint módosított szöveg.
