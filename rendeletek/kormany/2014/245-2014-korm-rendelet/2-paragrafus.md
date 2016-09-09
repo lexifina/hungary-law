@@ -6,8 +6,8 @@
 
 (4) Az 1. § (1) bekezdése szerinti közigazgatási hatósági eljárásokra vonatkozó ügyintézési határidő tizenöt nap.
 
-(5)[^1]
+(5)[^5]
 
 (6) Az 1. § (1) bekezdése szerinti beruházással összefüggésben településképi bejelentési eljárásnak nincs helye.
 
-[^1]: A 2. § (5) bekezdését a 72/2015. (III. 30.) Korm. rendelet 94. § (2) bekezdése hatályon kívül helyezte, Alkalmazására lásd e hatályon kívül helyező rendelet 114. §-át.
+[^5]: A 2. § (5) bekezdését a 72/2015. (III. 30.) Korm. rendelet 94. § (2) bekezdése hatályon kívül helyezte, Alkalmazására lásd e hatályon kívül helyező rendelet 114. §-át.

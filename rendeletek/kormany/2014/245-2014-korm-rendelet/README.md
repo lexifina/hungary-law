@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-245-20-
 | --- | --- | --- |
 | 2014-09-25 | 2014-245-20-22.1 | 245/2014. (IX. 24.) Korm. rendelet |
 | 2015-04-01 | 2014-245-20-22.2 | 72/2015. (III. 30.) Korm. rendelet |
+| 2016-09-09 | 2014-245-20-22.3 | 271/2016. (IX. 1.) Korm. rendelet |
