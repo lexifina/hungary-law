@@ -20,11 +20,11 @@
 
 7. tűzvédelmi hatósági eljárások,
 
-8. katasztrófavédelmi hatósági eljárások,
+8.[^6]
 
 9. útügyi hatósági eljárások,
 
-10.[^3] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
+10.[^7] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
 
 11. műszaki biztonsági engedélyezési eljárások,
 
@@ -48,4 +48,5 @@
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^3]: Az 1. melléklet 10. pontja a 72/2015. (III. 30.) Korm. rendelet 82. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^6]: Az 1. melléklet 8. sorát a 271/2016. (IX. 1.) Korm. rendelet 55. § (3) bekezdése hatályon kívül helyezte.
+[^7]: Az 1. melléklet 10. pontja a 72/2015. (III. 30.) Korm. rendelet 82. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
