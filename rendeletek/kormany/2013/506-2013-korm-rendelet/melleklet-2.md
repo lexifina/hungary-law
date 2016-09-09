@@ -22,13 +22,15 @@
 
 | 10. | földvédelmi, telekalakítási, földmérési, ingatlan-nyilvántartási hatósági eljárások | Debreceni Járási Hivatal | Hajdú-Bihar Megyei Kormányhivatal |
 
-| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai, tűzvédelmi hatósági engedélyezési eljárások, jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai, tűzvédelmi hatósági engedélyezési eljárások, jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 12. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 12. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+
+| 12a. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 | 13. | területrendezési eljárások | Hajdú-Bihar Megyei Kormányhivatal | nincs |
 
-2. melléklet az 506/2013. (XII. 29.) Korm. rendelethez[^9]
+2. melléklet az 506/2013. (XII. 29.) Korm. rendelethez[^11]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -40,7 +42,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 3. | műemlékvédelem, régészet | Debreceni Járási Hivatal | Budapest Főváros Kormányhivatala |
 
-| 4. | katasztrófavédelem, tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 4. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 5. | közlekedés | Hajdú-Bihar Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
 
@@ -56,4 +58,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 11. | rendészet | Hajdú-Bihar Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-[^9]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 67. § (2) bekezdés b) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^11]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 67. § (2) bekezdés b) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át. A melléklet a 271/2016. (IX. 1.) Korm. rendelet 47. § (3) bekezdése szerint módosított szöveg.
