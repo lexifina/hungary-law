@@ -50,13 +50,13 @@
 
 7. tűzvédelmi hatósági eljárások,
 
-8. katasztrófavédelmi hatósági eljárások,
+8.[^13]
 
 9. rendészeti hatósági eljárások,
 
 10. útügyi hatósági eljárások,
 
-11.[^10] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
+11.[^14] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
 
 12. műszaki biztonsági engedélyezési eljárások,
 
@@ -76,9 +76,10 @@
 
 20. közegészségügyi hatósági eljárások,
 
-20a.[^11] azok az 1–20. pontban nem szereplő hatósági engedélyezési és tudomásulvételi eljárások, amelyek az 1. § (1) bekezdése szerinti beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
+20a.[^15] azok az 1–20. pontban nem szereplő hatósági engedélyezési és tudomásulvételi eljárások, amelyek az 1. § (1) bekezdése szerinti beruházások megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^10]: A 2. melléklet 11. pontja a 72/2015. (III. 30.) Korm. rendelet 74. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
-[^11]: A 2. melléklet 20a. pontját a 15/2016. (II. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^13]: A 2. melléklet 8. pontját a 271/2016. (IX. 1.) Korm. rendelet 50. § (3) bekezdése hatályon kívül helyezte.
+[^14]: A 2. melléklet 11. pontja a 72/2015. (III. 30.) Korm. rendelet 74. §-ával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^15]: A 2. melléklet 20a. pontját a 15/2016. (II. 9.) Korm. rendelet 3. § (2) bekezdése iktatta be.
