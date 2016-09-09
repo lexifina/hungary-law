@@ -22,6 +22,6 @@
 
 | 10. | Mezőtúr-Álomzugi belvízöblözet | Mezőtúr 0283, 0325, Túrkeve 0540 |
 
-2. melléklet a 12/2013. (I. 22.) Korm. rendelethez[^6]
+2. melléklet a 12/2013. (I. 22.) Korm. rendelethez[^9]
 
-[^6]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 40. § (1) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^9]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 40. § (1) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.

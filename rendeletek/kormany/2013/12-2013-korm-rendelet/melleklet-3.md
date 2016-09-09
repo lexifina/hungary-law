@@ -28,7 +28,7 @@
 
 | 13. | erdő igénybevétele és fakitermelés bejelentése | illetékes megyei kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-3. melléklet a 12/2013. (I. 22.) Korm. rendelethez[^7]
+3. melléklet a 12/2013. (I. 22.) Korm. rendelethez[^10]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -42,7 +42,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 4. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 5. | katasztrófavédelem és tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 5. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 6. | műemlékvédelem és régészet | illetékes járási hivatal | Budapest Főváros Kormányhivatala |
 
@@ -68,4 +68,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 17. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^7]: A 3. melléklet a 72/2015. (III. 30.) Korm. rendelet 40. § (1) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^10]: A 3. melléklet a 72/2015. (III. 30.) Korm. rendelet 40. § (1) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 22. §-a, a 271/2016. (IX. 1.) Korm. rendelet 31. § (2) bekezdése szerint módosított szöveg.
