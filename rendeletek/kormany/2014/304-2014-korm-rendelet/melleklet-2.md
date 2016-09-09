@@ -22,11 +22,13 @@
 
 | 10. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 11. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások; beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófa- védelmi Főigazgatóság | nincs |
+| 11. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások; beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai, a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 12. | azok a 2-11. sorban nem szereplő további hatósági engedélyezési eljárások, amelyek a beruházások megvalósításához és használatbavételéhez közvetlenül szükségesek | az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként kijelölt hatóság | az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként kijelölt hatóság |
+| 11a. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 304/2014. (XII. 5.) Korm. rendelethez[^4]
+| 12. | azok a 2-11a. sorban nem szereplő további hatósági engedélyezési eljárások, amelyek a beruházások megvalósításához és használatbavételéhez közvetlenül szükségesek | az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként kijelölt hatóság | az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként kijelölt hatóság |
+
+2. melléklet a 304/2014. (XII. 5.) Korm. rendelethez[^7]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -46,9 +48,9 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 7. | Rendészet: az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Budaörsi Rendőrkapitányság | Pest Megyei Rendőr-főkapitányság |
 
-| 8. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 8. | Tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 9. | Katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 9. |  |  |  |
 
 | 10. | Talajvédelem | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -70,4 +72,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 19. | Településrendezési követelményeknek és a helyi építési szabályzatnak való megfelelőség | Nagykovácsi Nagyközség Önkormányzat jegyzője | Pest Megyei Kormányhivatal |
 
-[^4]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 100. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 100. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át. A melléklet a 271/2016. (IX. 1.) Korm. rendelet 67. § (3)–(4) bekezdése szerint módosított szöveg.
