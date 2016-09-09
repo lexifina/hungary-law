@@ -26,11 +26,13 @@
 
 | 12. | bányahatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 13. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások; beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai; a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 13. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások; beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai; a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavé-delmi Főigazgatóság |
 
-| 14. | azok a 2-13. sorban nem szereplő további hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához és használatbavételéhez közvetlenül szükségesek | az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként kijelölt hatóság | az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként kijelölt hatóság |
+| 13a. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-2. melléklet a 9/2015. (I. 29.) Korm. rendelethez[^4]
+| 14. | azok a 2–13a. sorban nem szereplő további hatósági engedélyezési eljárások, amelyek a Beruházások megvalósításához és használatbavételéhez közvetlenül szükségesek | az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú hatóságként kijelölt hatóság | az adott ügyfajtára vonatkozó jogszabály szerint másodfokú hatóságként kijelölt hatóság |
+
+2. melléklet a 9/2015. (I. 29.) Korm. rendelethez[^7]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -52,9 +54,9 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 8. | Rendészet: az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Tolcsva közigazgatási területe tekintetében: Sárospataki Rendőrkapitányság, Szegi és Szegilong közigazgatási területe tekintetében: Szerencsi Rendőrkapitányság | Borsod-Abaúj-Zemplén Megyei Rendőr-főkapitányság |
 
-| 9. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 9. | Tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 10. | Katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. |  |  |  |
 
 | 11. | Földvédelem | Tolcsva közigazgatási területe tekintetében: Sátoraljaújhelyi Járási Hivatal, Szegi és Szegilong közigazgatási területe tekintetében: Szerencsi Járási Hivatal | Borsod-Abaúj-Zemplén Megyei Kormányhivatal |
 
@@ -78,4 +80,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 21. | A 2-20. sorban nem említett, egyéb szakhatósági közreműködésre vonatkozó tárgykörök | az adott ügyfajtára vonatkozó jogszabály szerint elsőfokú eljárásban szakhatóságként kijelölt hatóság | az adott ügyfajtára vonatkozó jogszabály szerint másodfokú eljárásban szakhatóságként kijelölt hatóság |
 
-[^4]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 107. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 107. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 4. §-a, a 271/2016. (IX. 1.) Korm. rendelet 71. § (3)–(4) bekezdése szerint módosított szöveg.
