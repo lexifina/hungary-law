@@ -1,6 +1,6 @@
-## 6. §[^3] E rendeletnek a Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 228/2015. (VIII. 7.) Korm. rendelet módosításáról szóló 21/2016. (II. 15.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor[^4] folyamatban lévő ügyekben is alkalmazni kell.
+## 6. §[^4] E rendeletnek a Magyar Állami Operaház és Erkel Színház műhelyháza és próbacentruma megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 228/2015. (VIII. 7.) Korm. rendelet módosításáról szóló 21/2016. (II. 15.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor[^5] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 228/2015. (VIII. 7.) Korm. rendelethez[^5]
+1. melléklet a 228/2015. (VIII. 7.) Korm. rendelethez[^6]
 
 ## Az 1. §-ban foglalt beruházással összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági eljárások:
 
@@ -46,6 +46,6 @@
 
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^3]: A 6. §-t a 21/2016. (II. 15.) Korm. rendelet 3. §-a iktatta be.
-[^4]: A hatálybalépés napja 2016. február 16.
-[^5]: Az 1. melléklet a 21/2016. (II. 15.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^4]: A 6. §-t a 21/2016. (II. 15.) Korm. rendelet 3. §-a iktatta be.
+[^5]: A hatálybalépés napja 2016. február 16.
+[^6]: Az 1. melléklet a 21/2016. (II. 15.) Korm. rendelet 4. §-ával megállapított szöveg.

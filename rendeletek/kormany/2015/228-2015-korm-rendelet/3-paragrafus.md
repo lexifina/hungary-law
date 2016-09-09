@@ -16,6 +16,6 @@ c) beruházással összefüggésben nem kell építészeti-műszaki tervtanácsi
 
 (6) Az 1. §-ban meghatározott beruházás esetén az előzetes régészeti dokumentáció elkészítéséhez próbafeltárást csak akkor lehet alkalmazni, ha a beruházó rendelkezésére állnak annak elvégzéséhez szükséges földrészletek. A földrészletek rendelkezésre állása tekintetében a beruházó nyilatkozata az irányadó.
 
-(7)[^2] Az 1. § szerinti közigazgatási hatósági ügyekben hirdetményi úton történő közlés esetén a döntés közlésének napja a hirdetmény kifüggesztését követő nap.
+(7)[^3] Az 1. § szerinti közigazgatási hatósági ügyekben hirdetményi úton történő közlés esetén a döntés közlésének napja a hirdetmény kifüggesztését követő nap.
 
-[^2]: A 3. § (7) bekezdését a 21/2016. (II. 15.) Korm. rendelet 2. §-a iktatta be.
+[^3]: A 3. § (7) bekezdését a 21/2016. (II. 15.) Korm. rendelet 2. §-a iktatta be.
