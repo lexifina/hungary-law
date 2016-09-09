@@ -20,13 +20,15 @@
 
 | 9. | talajvédelmi hatósági eljárások | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 10. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 11. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 11. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 12. | jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 12. | jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 32/2012. (III. 7.) Korm. rendelethez[^9]
+| 13. |  |  | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+
+2. melléklet a 32/2012. (III. 7.) Korm. rendelethez[^12]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -46,9 +48,9 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 7. | rendészet: az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | XI. Kerületi Rendőrkapitányság | Budapesti Rendőr-főkapitányság |
 
-| 8. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 8. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 9. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 9. |  |  |  |
 
 | 10. | földművelésügy: talajvédelem | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -60,4 +62,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 14. | régészet és műemlékvédelem | Budapest Főváros Kormányhivatala I. Kerületi Hivatala | Budapest Főváros Kormányhivatala |
 
-[^9]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 26. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^12]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 26. § b) pontjával megállapított, a 271/2016. (IX. 1.) Korm. rendelet 23. § (3)–(4) bekezdése szerint módosított szöveg.
