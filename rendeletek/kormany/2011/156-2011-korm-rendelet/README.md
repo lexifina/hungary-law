@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-156-20-
 | 2014-09-13 | 2011-156-20-22.11 | 2010: CXXX. törvény |
 | 2015-04-01 | 2011-156-20-22.12 | 72/2015. (III. 30.) Korm. rendelet |
 | 2016-09-01 | 2011-156-20-22.13 | 72/2015. (III. 30.) Korm. rendelet |
+| 2016-09-09 | 2011-156-20-22.14 | 72/2015. (III. 30.) Korm. rendelet |

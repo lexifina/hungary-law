@@ -22,11 +22,13 @@
 
 | 10. | erdészeti hatósági eljárások | Pest Megyei Kormányhivatal | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
 
-| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 11. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 12. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 12. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 156/2011. (VIII. 10.) Korm. rendelethez[^11]
+| 13. |  |  | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+
+2. melléklet a 156/2011. (VIII. 10.) Korm. rendelethez[^13]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -44,7 +46,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 6. | rendészet: az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Dabasi Rendőrkapitányság | Pest Megyei Rendőr-főkapitányság |
 
-| 7. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 7. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 8. | földművelésügy: termőföldvédelem | illetékes járási hivatal | Pest Megyei Kormányhivatal |
 
@@ -62,4 +64,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 15. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-[^11]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 21. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 49. §-a szerint módosított szöveg.
+[^13]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 21. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 49. §-a, a 271/2016. (IX. 1.) Korm. rendelet 18. § (3) bekezdése szerint módosított szöveg.
