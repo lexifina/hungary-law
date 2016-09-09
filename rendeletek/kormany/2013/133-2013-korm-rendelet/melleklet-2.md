@@ -28,13 +28,15 @@
 
 | 13. | bányahatósági engedélyezési eljárás | Jász-Nagykun-Szolnok Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 14. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 14. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 15. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 15. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 16. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 16. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 133/2013. (V. 9.) Korm. rendelethez[^7]
+| 17. |  |  | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+
+2. melléklet a 133/2013. (V. 9.) Korm. rendelethez[^10]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -60,9 +62,9 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 10. | rendészet | Kecskeméti Rendőrkapitányság | Bács-Kiskun Megyei Rendőr-főkapitányság |
 
-| 11. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 11. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 12. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 12. |  |  |  |
 
 | 13. | talajvédelem | Bács-Kiskun Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -72,4 +74,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 16. | műszaki biztonság | Csongrád Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 45. § (2) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^10]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 45. § (2) bekezdés b) pontjával megállapított, a 271/2016. (IX. 1.) Korm. rendelet 34. § (3)–(4) bekezdése szerint módosított szöveg.
