@@ -48,7 +48,7 @@
 
 | 14. | vízjogi engedély | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. számú melléklet a 151/2006. (VII. 21.) Korm. rendelethez[^5]
+2. számú melléklet a 151/2006. (VII. 21.) Korm. rendelethez[^8]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -74,7 +74,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 10. | Régészet és műemlékvédelem | illetékes járási hivatal | Budapest Főváros Kormányhivatala |
 
-| 11. | Lakosság életének védelme | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 11. |  |  |  |
 
 | 12. | Nukleáris biztonság | Országos Atomenergia Hivatal | nincs |
 
@@ -102,10 +102,10 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 24. | Rendészet: az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | illetékes megyei rendőr-főkapitányság, a fővárosban a Budapesti Rendőr- főkapitányság | Országos Rendőr-főkapitányság |
 
-| 25. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 25. | Tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 26. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
 | 27. | Hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-[^5]: A 2. számú melléklet a 72/2015. (III. 30.) Korm. rendelet 2. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 92. §-a szerint módosított szöveg.
+[^8]: A 2. számú melléklet a 72/2015. (III. 30.) Korm. rendelet 2. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 92. §-a, a 271/2016. (IX. 1.) Korm. rendelet 2. § (2)–(3) bekezdése szerint módosított szöveg.
