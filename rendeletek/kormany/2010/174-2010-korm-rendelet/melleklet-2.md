@@ -24,15 +24,17 @@
 
 | 11. | bányaszolgalom alapítására irányuló engedélyezési eljárás | illetékes fővárosi és megyei kormányhivatal | nincs |
 
-| 12. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 12. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 13. | a jogszabályokban rögzített tűzvédelmi hatósági ügyek, egyeztetésekkel kapcsolatos hatósági engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 13. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 14. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 14. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 15. | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 15. | veszélyes anyagokkal kapcsolatos súlyos balesetek elleni védekezésre vonatkozó katasztrófavédelmi engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-2. melléklet a 174/2010. (V. 13.) Korm. rendelethez[^7]
+| 16. |  | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+
+2. melléklet a 174/2010. (V. 13.) Korm. rendelethez[^10]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -48,7 +50,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 5. | Vízi utat, vízi közlekedést érintő építmény | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 6. | Tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 6. | Tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 7. | Honvédelem | honvédelemért felelős miniszter | nincs |
 
@@ -80,4 +82,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 21. | Közlekedésrendészet | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 17. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 69. §-a szerint módosított szöveg.
+[^10]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 17. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 69. §-a, a 271/2016. (IX. 1.) Korm. rendelet 14. § (3) bekezdése szerint módosított szöveg.
