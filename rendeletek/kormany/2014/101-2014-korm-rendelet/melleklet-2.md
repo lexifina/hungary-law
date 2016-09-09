@@ -34,15 +34,17 @@
 
 | 16. | vasúti hatósági engedélyezési eljárás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 17. | tűzvédelmi hatósági ügyekben eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 17. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 18. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi eljárásai | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 18. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 19. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 19. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+
+| 19a. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 | 20. | a jogszabályban rögzített egészségügyi hatósági eljárások | Heves Megyei Kormányhivatal | Országos Tisztifőorvosi Hivatal |
 
-2. melléklet a 101/2014. (III. 25.) Korm. rendelethez[^7]
+2. melléklet a 101/2014. (III. 25.) Korm. rendelethez[^10]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -70,11 +72,11 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 11. | rendészet | Heves Megyei Rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 12. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 12. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 13. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-| 14. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 14. |  |  |  |
 
 | 15. | talajvédelem | Heves Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
@@ -86,4 +88,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 19. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^7]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 79. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^10]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 79. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 13. §-a, a 271/2016. (IX. 1.) Korm. rendelet 54. § (3)–(4) bekezdése szerint módosított szöveg.
