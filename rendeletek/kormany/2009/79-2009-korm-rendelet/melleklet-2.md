@@ -84,7 +84,7 @@
 
 | 41. | vízimunka, közlekedési korlátozás, rakodási tevékenység |  | hajózási hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-2. számú melléklet a 79/2009. (IV. 8.) Korm. rendelethez[^5]
+2. számú melléklet a 79/2009. (IV. 8.) Korm. rendelethez[^8]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -110,7 +110,7 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 10. | rendészet (rendőrség) az egyéb országos közutak, helyi közutak és közforgalom elől el nem zárt magánutak esetében | illetékes megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
-| 11. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 11. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 12. | honvédelem | honvédelemért felelős miniszter | nincs |
 
@@ -128,4 +128,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 19. | műszaki biztonság | illetékes fővárosi és megyei kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
-[^5]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 12. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 74. §-a szerint módosított szöveg.
+[^8]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 12. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 74. §-a, a 271/2016. (IX. 1.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
