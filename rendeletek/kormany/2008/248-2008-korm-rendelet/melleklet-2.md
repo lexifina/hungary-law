@@ -32,7 +32,7 @@
 
 | 15. | vasúti hatósági engedélyek | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-2. számú melléklet a 248/2008. (X. 14.) Korm. rendelethez[^6]
+2. számú melléklet a 248/2008. (X. 14.) Korm. rendelethez[^9]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -62,11 +62,11 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 12. | rendészet (rendőrség) az egyéb országos közutak, a helyi közutak és a közforgalom elől el nem zárt magánutak esetén | Marcali Rendőrkapitányság | Somogy Megyei Rendőr-főkapitányság |
 
-| 13. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 13. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 14. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-| 15. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 15. |  |  |  |
 
 | 16. | földművelésügy: termőföldvédelem | illetékes járási hivatal | Somogy Megyei Kormányhivatal |
 
@@ -84,4 +84,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 23. | élelmiszer-biztonság | Somogy Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^6]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 9. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 86. §-a szerint módosított szöveg.
+[^9]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 9. § b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 86. §-a, a 271/2016. (IX. 1.) Korm. rendelet 6. § (2)–(3) bekezdése szerint módosított szöveg.
