@@ -108,6 +108,6 @@
 
 | 51. | eltérés a tűzvédelmi hatóság által jóváhagyott eltérő műszaki megoldástól, kivéve, ha a jogszabályban, nemzeti szabványban vagy tűzvédelmi műszaki irányelvben foglalt műszaki megoldást alkalmazzák | 50 000 | 1 000 000 |
 
-2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez[^75]
+2. melléklet a 259/2011. (XII. 7.) Korm. rendelethez[^77]
 
-[^75]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^77]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
