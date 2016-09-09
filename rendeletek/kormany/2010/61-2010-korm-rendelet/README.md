@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-61-20-2
 | 2014-01-01 | 2010-61-20-22.13 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2014-09-13 | 2010-61-20-22.14 | 351/2010. (XII. 30.) Korm. rendelet |
 | 2015-04-01 | 2010-61-20-22.15 | 72/2015. (III. 30.) Korm. rendelet |
+| 2016-09-09 | 2010-61-20-22.16 | 72/2015. (III. 30.) Korm. rendelet |

@@ -36,11 +36,13 @@
 
 | 17. | vasúti hatósági eljárások | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-| 18. | tűzvédelmi berendezés létesítési és használatbavételi ügyeivel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 18. | beépített tűzjelző, tűzoltó berendezések létesítési és használatbavételi engedélyezési eljárásai | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 19. | tűzvédelmi hatósági ügyekben eltérési hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 19. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési hatósági eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 20. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos hatósági eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 20. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+
+| 20a. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
 | 21. | nyomástartó berendezés, veszélyes folyadéktároló engedélyezésével kapcsolatos hatósági eljárások | Hajdú-Bihar Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
 
@@ -50,7 +52,7 @@
 
 | 24. | üvegházhatású gázkibocsátással járó tevékenység hatósági engedélyezési eljárása | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség | nincs |
 
-2. melléklet a 61/2010. (III. 18.) Korm. rendelethez[^6]
+2. melléklet a 61/2010. (III. 18.) Korm. rendelethez[^8]
 
 A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfajtára vonatkozó jogszabály az adott ügyben szakhatóság közreműködését rendeli el
 
@@ -80,11 +82,11 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 12. | rendészet (rendőrség) az A:11 mezőben foglaltakon kívüli egyéb országos közút, a helyi közút és a közforgalom elől el nem zárt magánút esetén | Püspökladányi Rendőrkapitányság | Hajdú-Bihar Megyei Rendőr-főkapitányság |
 
-| 13. | tűzvédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 13. | tűzvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
 | 14. | honvédelem | Honvédelmi Minisztérium Hatósági Hivatal vezetője | honvédelemért felelős miniszter |
 
-| 15. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 15. |  |  |  |
 
 | 16. | termőföldvédelem | illetékes járási hivatal | Hajdú-Bihar Megyei kormányhivatal |
 
@@ -102,4 +104,4 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 23. | élelmiszer-biztonság | Hajdú-Bihar Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
 
-[^6]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 15. § b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^8]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 15. § b) pontjával megállapított, a 271/2016. (IX. 1.) Korm. rendelet 12. § (3)–(4) bekezdése szerint módosított szöveg.
