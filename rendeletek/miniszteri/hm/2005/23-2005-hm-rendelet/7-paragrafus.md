@@ -1,6 +1,6 @@
-## 6. §[^12]
+## 6. §[^13]
 
-## 7. §[^13] A HM KÁT a védekezés időszakában
+## 7. §[^14] A HM KÁT a védekezés időszakában
 
 a) irányítja a VKCS-t,
 
@@ -8,5 +8,5 @@ b) jóváhagyásra előterjeszti a honvédelmi miniszternek a katasztrófaveszé
 
 c) felterjeszti a honvédelmi miniszternek a Honvéd Vezérkar főnöke (a továbbiakban: HVKF) jogkörét meghaladó kirendelésekre vonatkozó javaslatokat, előkészíti a tájékoztatót az Országgyűlés honvédelmi ügyekkel foglalkozó bizottsága részére.
 
-[^12]: A 6. §-t a 2/2012. (III. 6.) HM rendelet 11. §-a hatályon kívül helyezte.
-[^13]: A 7. § a 12/2014. (VIII. 14.) HM rendelet 3. §-ával megállapított szöveg.
+[^13]: A 6. §-t a 2/2012. (III. 6.) HM rendelet 11. §-a hatályon kívül helyezte.
+[^14]: A 7. § a 12/2014. (VIII. 14.) HM rendelet 3. §-ával megállapított szöveg.

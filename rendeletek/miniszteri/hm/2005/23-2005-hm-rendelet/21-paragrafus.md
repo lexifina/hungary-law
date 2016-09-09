@@ -1,4 +1,4 @@
-21. §[^43] (1) Rendkívüli esetben, amennyiben a katasztrófa következtében az élet- és vagyonmentés indokolja az azonnali intézkedést és katonai képességek közreműködését, a védelmi igazgatási, rendvédelmi, vagy az Országos Mentő Szolgálathoz tartozó szervek igénye alapján, illetve ha az ebből adódó késedelem súlyos következménnyel járna, közvetlenül az érintett által felkért katonai szervezet parancsnoka a regionális együttműködés kereteire figyelemmel saját hatáskörben dönt a segítségnyújtásról, melynek során a közreműködés mértéke és jellege nem veszélyeztetheti az adott katonai szervezet alaprendeltetés szerinti feladatellátásának maradéktalan biztosítását, a készenlét fenntartását, a hadrafoghatóság szintjét.
+21. §[^45] (1) Rendkívüli esetben, amennyiben a katasztrófa következtében az élet- és vagyonmentés indokolja az azonnali intézkedést és katonai képességek közreműködését, a védelmi igazgatási, rendvédelmi, vagy az Országos Mentő Szolgálathoz tartozó szervek igénye alapján, illetve ha az ebből adódó késedelem súlyos következménnyel járna, közvetlenül az érintett által felkért katonai szervezet parancsnoka a regionális együttműködés kereteire figyelemmel saját hatáskörben dönt a segítségnyújtásról, melynek során a közreműködés mértéke és jellege nem veszélyeztetheti az adott katonai szervezet alaprendeltetés szerinti feladatellátásának maradéktalan biztosítását, a készenlét fenntartását, a hadrafoghatóság szintjét.
 
 (2) Az (1) bekezdésben meghatározott kirendelés és feladatvégrehajtás jóváhagyását az adott katonai szervezet parancsnoka a tevékenység megkezdésével párhuzamosan a hadműveleti ügyeleti szolgálatok útján, illetve aktivizált HKR esetén a HKR vezetési rendjének megfelelő úton kezdeményezi a HVKF-nél.
 
@@ -10,4 +10,4 @@
 
 (6) A rendkívüli kirendelések során felmerülő veszteségek pótlásáról, költségek elszámolásáról és járandóságok biztosításáról a kirendelő katonai szervezet parancsnokának összefoglaló jelentésére és előterjesztésére figyelemmel a HVKF dönt.
 
-[^43]: A 21. § a 12/2014. (VIII. 14.) HM rendelet 11. §-ával megállapított szöveg.
+[^45]: A 21. § a 12/2014. (VIII. 14.) HM rendelet 11. §-ával megállapított szöveg.

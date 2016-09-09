@@ -1,3 +1,3 @@
-## 16. §[^31] A KKB operatív munkaszervében ágazati szakértőként részt vesznek a VKCS-nak a HM katasztrófavédelmi tevékenységét koordináló szervezetének és a honvédelmi miniszter irányítása alatt álló, védelmi igazgatási feladatok szakmai előkészítését végző és végrehajtását koordináló központi hivatalának kijelölt képviselői. Feladatkörükben egyidejűleg, folyamatosan információt szolgáltatnak a VKCS és az SMVCS-KOT részére.
+## 16. §[^33] A KKB operatív munkaszervében ágazati szakértőként részt vesznek a VKCS-nak a HM katasztrófavédelmi tevékenységet koordináló önálló szervezeti egységének és a HM védelmi igazgatási feladatokat ellátó önálló szervezeti egységének kijelölt képviselői. Feladatkörükben egyidejűleg, folyamatosan információt szolgáltatnak a VKCS és az SMVCS-KOT részére.
 
-[^31]: A 16. § a 12/2014. (VIII. 14.) HM rendelet 6. §-ával megállapított szöveg.
+[^33]: A 16. § a 17/2016. (IX. 8.) HM rendelet 2. §-ával megállapított szöveg.

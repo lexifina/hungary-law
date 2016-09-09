@@ -1,4 +1,4 @@
-## 23. §[^47] A HM KÁT a felkészülés és a megelőzés időszakában
+## 23. §[^49] A HM KÁT a felkészülés és a megelőzés időszakában
 
 a) gondoskodik a HKR felkészítéséről,
 
@@ -10,4 +10,4 @@ d) a katasztrófavédelmi ágazati költségvetés felhasználása irányelveine
 
 e) meghatározza a VKCS szakmai összetételét.
 
-[^47]: A 23. § a 12/2014. (VIII. 14.) HM rendelet 12. §-ával megállapított szöveg.
+[^49]: A 23. § a 12/2014. (VIII. 14.) HM rendelet 12. §-ával megállapított szöveg.

@@ -1,8 +1,8 @@
-9. §[^15] (1) A VKCS a HKR felsőszintű közigazgatási, védelmi igazgatási és külső-belső koordinációs feladatokat ellátó szerve, mely a HM KÁT döntéseinek előkészítéséért, illetve a honvédelmi miniszter részére felterjesztésre kerülő javaslatok szakmai kidolgozásáért, a HM-hez beérkező igények pontosításáért, és a pontosított igények SMVCS-KOT felé történő továbbításáért, valamint a KKB Nemzeti Veszélyhelyzet-kezelési Központtal (a továbbiakban: NVK) történő együttműködésért felel.
+9. §[^16] (1) A VKCS a HKR felsőszintű közigazgatási, védelmi igazgatási és külső-belső koordinációs feladatokat ellátó szerve, mely a HM KÁT döntéseinek előkészítéséért, illetve a honvédelmi miniszter részére felterjesztésre kerülő javaslatok szakmai kidolgozásáért, a HM-hez beérkező igények pontosításáért, és a pontosított igények SMVCS-KOT felé történő továbbításáért, valamint a KKB Nemzeti Veszélyhelyzet-kezelési Központtal (a továbbiakban: NVK) történő együttműködésért felel.
 
 (2) A VKCS részleges vagy teljes állománnyal a HM KÁT intézkedése alapján, a HVKF egyidejű tájékoztatása mellett kerül aktivizálásra. Azonnali intézkedést igénylő helyzetben, a VKCS vezetőjének döntése alapján – a HM KÁT tájékoztatása mellett – a VKCS részleges vagy teljes állománnyal kerül aktivizálásra.
 
-(3) A VKCS vezetői beosztást a HM katasztrófavédelmi tevékenységét koordináló szervezet, illetve a honvédelmi miniszter irányítása alatt álló, védelmi igazgatási feladatok szakmai előkészítését végző és végrehajtását koordináló központi hivatal vezetői állományából, a HM KÁT által kijelölt személyek látják el.
+(3)[^17] A VKCS vezetői beosztást a HM katasztrófavédelmi tevékenységet koordináló önálló szervezeti egysége, illetve a HM védelmi igazgatási feladatokat ellátó önálló szervezeti egysége vezetői állományából a HM KÁT által kijelölt személyek látják el.
 
 (4) A VKCS szakmai összetételét a HM KÁT határozza meg. A HVKF-et a VKCS-ben az általa kijelölt és vezényelt állandó összekötő képviseli.
 
@@ -22,4 +22,5 @@ e) közreműködik a fővárosi és megyei védelmi bizottságok hatáskörébe 
 
 f) folyamatosan együttműködik az SMVCS-KOT-tal és pontosított információkkal látja el azt az MH védekezésben való közreműködésével kapcsolatos igények vonatkozásában, mely tevékenység nem befolyásolja a KKB NVK részéről a VKCS, illetve az SMVCS-KOT irányába történő párhuzamos információáramlást.
 
-[^15]: A 9. § a 12/2014. (VIII. 14.) HM rendelet 3. §-ával megállapított szöveg.
+[^16]: A 9. § a 12/2014. (VIII. 14.) HM rendelet 3. §-ával megállapított szöveg.
+[^17]: A 9. § (3) bekezdése a 17/2016. (IX. 8.) HM rendelet 1. §-ával megállapított szöveg.

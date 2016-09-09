@@ -1,4 +1,4 @@
-11. §[^17] (1) Az SMVCS-KOT parancsnok feladatait, valamint az SMVCS-KOT szakmai feladatait a HVKF által kijelölt személyek látják el. Az SMVCS-KOT a HVKF intézkedése alapján, az SMVCS-KOT parancsnok javaslatára további személyekkel kiegészíthető.
+11. §[^19] (1) Az SMVCS-KOT parancsnok feladatait, valamint az SMVCS-KOT szakmai feladatait a HVKF által kijelölt személyek látják el. Az SMVCS-KOT a HVKF intézkedése alapján, az SMVCS-KOT parancsnok javaslatára további személyekkel kiegészíthető.
 
 (2) Az SMVCS-KOT a védekezés időszakában
 
@@ -22,4 +22,4 @@ i) az MH-n kívüli együttműködőkkel a VKCS-n keresztül tartja a kapcsolato
 
 j) előkészíti a HVKF-nek a katasztrófák elleni védekezéssel kapcsolatos döntéseit.
 
-[^17]: A 11. § a 12/2014. (VIII. 14.) HM rendelet 3. §-ával megállapított szöveg.
+[^19]: A 11. § a 12/2014. (VIII. 14.) HM rendelet 3. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 24. §[^48] A HVKF a felkészülés és a megelőzés időszakában
+## 24. §[^50] A HVKF a felkészülés és a megelőzés időszakában
 
 a) szabályozza a középszintű vezető szervek, végrehajtásban részt vevő katonai szervezetek Katasztrófavédelmi Alkalmazási Terveinek kidolgozását,
 
@@ -16,4 +16,4 @@ g) kijelöli az MH nukleáris, vegyi és biológiai veszély előrejelzésére, 
 
 h) meghatározza az SMVCS-KOT szakmai összetételét.
 
-[^48]: A 24. § a 12/2014. (VIII. 14.) HM rendelet 12. §-ával megállapított szöveg.
+[^50]: A 24. § a 12/2014. (VIII. 14.) HM rendelet 12. §-ával megállapított szöveg.
