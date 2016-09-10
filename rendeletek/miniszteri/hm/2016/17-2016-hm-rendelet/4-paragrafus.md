@@ -1,1 +1,0 @@
-## „(4a) A (4) bekezdés b) pontja szerinti adatbázis felhasználhatóságát a HM veszélyes katonai objektum felügyeleti hatósági feladatokat ellátó önálló szervezeti egysége biztosítja a HM SMVCS-KOT működtetéséért felelős önálló szervezeti egysége és az Ágazati Információs Központot működtető katonai szervezet részére.”
