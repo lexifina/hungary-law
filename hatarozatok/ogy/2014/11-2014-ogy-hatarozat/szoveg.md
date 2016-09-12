@@ -36,15 +36,16 @@ Hiszékeny Dezső (MSZP)
 
 Hegedűs Lorántné (Jobbik)
 
-Mirkóczki Ádám (Jobbik)
+Szávay István (Jobbik)[^4]
 
-Ikotity István (LMP)[^4]
+Ikotity István (LMP)[^5]
 
 2. Ez a határozat az elfogadásakor lép hatályba.
 
-3.[^5]
+3.[^6]
 
 [^2]: A 22/2014. (VI. 3.) OGY határozat 1. pontjával megállapított szöveg.
 [^3]: A 28/2014. (VI. 26.) OGY határozat 1. pontjával megállapított szöveg.
-[^4]: A 42/2015. (X. 21.) OGY határozat 1. pontjával megállapított szöveg.
-[^5]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 13/2016. (IX. 14.) OGY határozat 1. pontjával megállapított szöveg.
+[^5]: A 42/2015. (X. 21.) OGY határozat 1. pontjával megállapított szöveg.
+[^6]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
