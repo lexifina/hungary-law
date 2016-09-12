@@ -1,4 +1,4 @@
-## 16. § Hatályát veszti az emberi erőforrások minisztere által adományozható elismerésekről szóló 49/2012. (XII. 15.) EMMI rendelet.
+## 16. §[^1]
 
 1. melléklet a 26/2016. (IX. 8.) EMMI rendelethez
 
@@ -793,3 +793,5 @@ VII. FEJEZET
 57.4. A díjazott az adományozást igazoló oklevelet kap.
 
 57.5. A díjhoz pénzjutalom jár. A díjjal járó pénzjutalom mértéke az illetményalap tízszeresének megfelelő összeg.
+
+[^1]: A 16. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

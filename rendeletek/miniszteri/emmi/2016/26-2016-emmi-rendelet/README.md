@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-26-20-5
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-09-11 | 2016-26-20-5H.1 | 26/2016. (IX. 8.) EMMI rendelet |
+| 2016-09-12 | 2016-26-20-5H.2 | 2010: CXXX. törvény |
