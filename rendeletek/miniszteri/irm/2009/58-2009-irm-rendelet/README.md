@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-58-20-1
 | --- | --- | --- |
 | 2009-12-14 | 2009-58-20-1U.1 | 58/2009. (X. 30.) IRM rendelet |
 | 2011-01-01 | 2009-58-20-1U.2 | 17/2010. (XII. 17.) KIM rendelet |
+| 2016-09-15 | 2009-58-20-1U.3 | 14/2016. (VI. 29.) IM rendelet |
