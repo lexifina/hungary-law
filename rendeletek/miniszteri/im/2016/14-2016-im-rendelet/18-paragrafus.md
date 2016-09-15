@@ -1,4 +1,4 @@
-## 15–17. §
+## 17. § Hatályát veszti az R3 Melléklete.
 
 ## 7. Záró rendelkezések
 
