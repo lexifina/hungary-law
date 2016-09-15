@@ -1,0 +1,3 @@
+12. § (1) Ez a rendelet a honvédelem és biztonság területén egyes építési beruházásra, árubeszerzésre és szolgáltatásnyújtásra irányuló, ajánlatkérő szervek vagy ajánlatkérők által odaítélt szerződések odaítélési eljárásainak összehangolásáról, valamint a 2004/17/EK és 2004/18/EK irányelv módosításáról szóló 2009. július 13-i 2009/81/EK európai parlamenti és tanácsi irányelv 30–32. cikkének való megfelelést szolgálja.
+
+(2) Ez a rendelet a közbeszerzési hirdetmények közzétételére használandó hirdetményminták létrehozásáról és az 1564/2005/EK rendelet hatályon kívül helyezéséről szóló 2015. november 11-ei (EU) 1986/2015 bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
