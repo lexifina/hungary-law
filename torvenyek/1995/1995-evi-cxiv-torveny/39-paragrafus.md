@@ -1,3 +1,0 @@
-39. § (1) Ha az etikai tanács tárgyalást tűz ki, arra a tanács elnöke a tárgyalás helyének és időpontjának közlésével a panaszolt szakértőt és képviselőjét, továbbá – ha a meghallgatására még nem került sor és az etikai tanács szerint az szükséges – a kezdeményezőt, mint tanút, a további tanút, a kirendelt szakértőt megidézi, a vizsgálóbiztost és a tagság szerinti kamara elnökét értesíti. A tárgyaláson a megidézettek és az értesítettek lehetnek jelen.
-
-(2) A tárgyalás megtartására csak akkor kerülhet sor, ha azon az etikai tanács elnöke és minden tagja jelen van. A tárgyalás a panaszolt szakértő és képviselője távollétében is megtartható, erről őket az idézésben tájékoztatni kell.
