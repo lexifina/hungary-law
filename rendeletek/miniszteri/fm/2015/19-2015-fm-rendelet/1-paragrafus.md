@@ -20,4 +20,8 @@ e) adott tanév május 1. és július 31. közötti időszaka;
 
 4. nevelési-oktatási intézmény: a nemzeti köznevelési törvény 7. § (1) bekezdés a), b), c), d), e) és g) pontjában meghatározott intézmények;
 
-5. a nevelési-oktatási intézmény működtetője: a nevelési-oktatási intézmények működtetését végző jogi személy vagy települési önkormányzat.
+5. a nevelési-oktatási intézmény működtetője: a nevelési-oktatási intézmények működtetését végző jogi személy vagy települési önkormányzat;
+
+6.[^1] összevont termékkategória: azon termékek együttese, amelyek esetében a 15. §-ban meghatározott támogatási alap felső határa azonos.
+
+[^1]: Az 1. § 6. pontját a 60/2016. (IX. 14.) FM rendelet 1. §-a iktatta be.
