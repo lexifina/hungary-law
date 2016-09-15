@@ -1,0 +1,15 @@
+# A Kormány 1497/2016. (IX. 15.) Korm. határozata
+
+Magyar Közlöny 2016. évi 138. szám, 2016. szeptember 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/0750361d5dd5a5ee8c31587f25f129cbd7ee9b06/dokumentumok/63fcf7af83e1f745cd4216367998ccf9ad97ce37/letoltes)
+
+---
+
+A Kormány 1497/2016. (IX. 15.) Korm. határozata
+a Vecsés város külterületén fekvő földrészletek beruházási célterületté nyilvánításáról
+A Kormány a termőföld védelméről szóló 2007. évi CXXIX. törvény 11. § (2) és (3) bekezdésében foglaltakra
+figyelemmel beruházási célterületté nyilvánítja a Vecsés város közigazgatási területén fekvő, az ingatlan-
+nyilvántartás szerint 0122/16, 0122/25, 0122/29, 0122/45, 0122/46, 0122/47, 0122/48, 0122/49, 0122/51, 0122/52,
+0122/54, 0122/55, 0122/56 helyrajzi számú földrészleteket, valamint az ezen földrészletekből a telekalakítási
+eljárások jogerős befejezését követően kialakított földrészleteket.
+ Orbán Viktor s. k.,
+ miniszterelnök
