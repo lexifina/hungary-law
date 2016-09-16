@@ -1,0 +1,3 @@
+## 11. § Az R1. 48. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A családi otthonteremtési kedvezmény összegének folyósítása új lakás vásárlása esetén a támogatási szerződés megkötését követően, egy összegben történik. A 18. § (2) bekezdés b) pontja szerinti új lakás vásárlása esetén a támogatási szerződés megköthető, azonban a családi otthonteremtési kedvezmény összegének folyósítására kizárólag a használatbavételi engedély, a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvány hitelintézet részére történő bemutatását követően, egy összegben kerülhet sor.”
