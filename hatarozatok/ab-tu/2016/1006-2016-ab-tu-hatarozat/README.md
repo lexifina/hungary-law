@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1006-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-09-15 | 2016-1006-30-29.1 | 1006/2016. (IX. 14.) AB Tü. határozat |
+| 2016-09-16 | 2016-1006-30-29.2 | 2010: CXXX. törvény |

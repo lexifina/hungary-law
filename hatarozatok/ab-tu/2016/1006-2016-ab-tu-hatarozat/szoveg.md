@@ -44,8 +44,10 @@ Dr. Szalay Péter alkotmánybíró.
 
 4. Ez a határozat 2016. szeptember 15-én lép hatályba.
 
-5. E határozat hatálybalépésével egyidejűleg az Alkotmánybíróság öttagú tanácsainak összetételéről és a tanácsvezetők személyéről szóló 1002/2015. (VI. 15.) AB Tü. határozat és az Alkotmánybíróság öttagú tanácsai tanácsvezetőinek személyéről szóló 1004/2016. (VI. 22.) AB Tü. határozat, továbbá az Alkotmánybíróság elnökének az öttagú tanács tagjának helyettesítéséről szóló 1/2016. (III. 21.) és 4/2016. (IV. 21.) elnöki utasításai hatályát vesztik.
+5.[^1]
 
 6. Az Alkotmánybíróság e határozatát a jogalkotásról szóló 2010. évi CXXX. törvény 26. § (2) bekezdése alapján a Magyar Közlönyben közzé kell tenni.
 
 Alkotmánybírósági ügyszám: XVIII/1562/2016.
+
+[^1]: Az 5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
