@@ -6,7 +6,7 @@ a) az igénylő büntetőjogi felelősségét az 1. melléklet szerinti bűncsel
 
 b) az igénylőnek ne legyen az állami adóhatóságnál nyilvántartott köztartozása;
 
-c) az igénylő, együttes igénylés esetén legalább az egyik igénylő 30 napnál nem régebbi okirattal igazolja, hogy a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. §-a szerint – ide nem értve a nemzeti felsőoktatásról szóló törvény hatálya alá tartozó felsőoktatási intézményben nappali rendszerű oktatás keretében tanulmányokat folytató személyt – biztosított, és legalább 180 napja – legfeljebb 30 nap megszakítással – folyamatosan
+c)[^8] az igénylő, együttes igénylés esetén legalább az egyik igénylő 30 napnál nem régebbi okirattal igazolja, hogy a családi otthonteremtési kedvezmény iránti kérelem benyújtásának időpontjában a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény (a továbbiakban: Tbj.) 5. §-a szerint biztosított, és legalább 180 napja – legfeljebb 30 nap megszakítással – folyamatosan
 
 ca) a Tbj. 5. §-a szerint biztosítottként szerepel,
 
@@ -50,13 +50,13 @@ ai) adóazonosító jel
 
 b) – és azt megelőzően a kérelemben is – büntetőjogi felelőssége tudatában nyilatkozik arról, hogy a családi otthonteremtési kedvezmény iránti kérelem benyújtását megelőző 5 éven belül az e rendelet vagy az egyéb lakáscélú állami támogatásokról szóló jogszabályok szerint igénybe vett, vissza nem térítendő lakáscélú állami támogatás vagy ezt megelőlegező kölcsön visszafizetésre jogerősen nem kötelezték;
 
-c) lakás vásárlása esetén nyilatkozik arról, hogy az eladó az igénylőnek nem közeli hozzátartozója vagy élettársa, valamint gazdálkodó szervezet eladó esetén az igénylő a gazdálkodó szervezetben nem rendelkezik tulajdonnal;
+c)[^9] nyilatkozik arról, hogy az eladó vagy az építési tevékenységet végző az igénylőnek nem közeli hozzátartozója vagy élettársa, valamint ha az eladó vagy az építési munkálatokat végző gazdálkodó szervezet, az igénylő a gazdálkodó szervezetben nem rendelkezik tulajdonnal;
 
 d) vállalja, hogy lakás vásárlása esetén a vételár, lakáscsere esetén a vételár-különbözet legfeljebb 10 százalékát készpénzben, a fennmaradó fizetési kötelezettséget az eladó által megjelölt – a pénzforgalmi szolgáltatás nyújtásáról szóló törvényben meghatározott – fizetési számlára vagy pénzügyi intézmény által vezetett, kölcsöntartozást nyilvántartó technikai számlára teljesíti;
 
 e) vállalja, hogy lakás bővítése esetén a készültségi fokkal arányos folyósítást megelőzően bemutatja az adott készültségi foknak megfelelő, a hitelintézet által elfogadott költségvetésben szereplő bekerülési költség legalább 70 százalékáról a támogatott személy saját nevére kiállított számlákat;
 
-f) tudomásul veszi, hogy ha lakás bővítése során az azonos számlakibocsátó által kiállított számlák alapján az igénylő által visszaigényelhető általános forgalmi adó mértéke a 2 000 000 Ft-ot meghaladja, a hitelintézet csak abban az esetben fogadhatja el a számlákat, ha az építőipari kivitelezési szolgáltatást nyújtó számlakibocsátóval kötött, a kibocsátott számla alapjául szolgáló építési munkákra vonatkozó kivitelezési szerződést – a folyósítást megelőzően – bemutatja;
+f)[^10] tudomásul veszi, hogy ha lakás bővítése során az azonos számlakibocsátó által kiállított számlák alapján az igénylő által megfizetett általános forgalmi adó mértéke a 2 000 000 Ft-ot meghaladja, a hitelintézet csak abban az esetben fogadhatja el a számlákat, ha az építőipari kivitelezési szolgáltatást nyújtó számlakibocsátóval kötött, a kibocsátott számla alapjául szolgáló építési munkákra vonatkozó kivitelezési szerződést – a folyósítást megelőzően – bemutatja;
 
 g) tudomásul veszi, hogy a hitelintézet kizárólag olyan számlát fogad el, amelynek kiállítására a kérelem benyújtását követően került sor, valamint amelynek kibocsátója az állami adóhatóság nyilvántartásában működő adóalanyként szerepel, vagy ennek hiányában az állami adóhatóság a működő adóalanyiságot a számlakibocsátó tekintetében igazolja;
 
@@ -66,7 +66,7 @@ i) hozzájárul ahhoz, hogy az állami adóhatóság, a kormányhivatal és a hi
 
 j) vállalja, hogy az igénylő és azon gyermek, akire tekintettel a családi otthonteremtési kedvezmény folyósításra került, a családi otthonteremtési kedvezmény folyósításától, bővítés esetén az utolsó részfolyósítástól számított 10 évig – a meglévő gyermek legalább nagykorúvá válásáig – a lakásban életvitelszerűen lakik;
 
-k) vállalja, hogy a családi otthonteremtési kedvezmény folyósítását, bővítés esetén az utolsó részfolyósítását követő 30 napon belül bemutatja a hitelintézet számára a lakcímet igazoló hatósági igazolványt, hontalan támogatott személy esetében a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti ideiglenes tartózkodásra jogosító igazolást, amely igazolja, hogy a családi otthonteremtési kedvezménnyel vásárolt vagy bővített lakás mindazon személyek lakóhelye, hontalan esetében szálláshelye, akikre tekintettel a családi otthonteremtési kedvezmény folyósítása történt;
+k)[^11] vállalja, hogy a családi otthonteremtési kedvezmény folyósítását, bővítés esetén az utolsó részfolyósítását követő 90 napon belül bemutatja a hitelintézet számára a lakcímet igazoló hatósági igazolványt, hontalan támogatott személy esetében a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény szerinti ideiglenes tartózkodásra jogosító igazolást, amely igazolja, hogy a családi otthonteremtési kedvezménnyel vásárolt vagy bővített lakás mindazon személyek lakóhelye, hontalan esetében szálláshelye, akikre tekintettel a családi otthonteremtési kedvezmény folyósítása történt;
 
 l) a 10. § (3) bekezdés c) pont szerinti esetben nyilatkozik a gyermekvállalásról;
 
@@ -74,7 +74,7 @@ m) a 10. § (3) bekezdés c) pont szerinti esetben, valamint magzat után igény
 
 ma) hozzájárul ahhoz, hogy a gyermek születését a Kincstár – a családtámogatási adatbázist magában foglaló egységes szociális nyilvántartásban már rendelkezésre álló, és a hitelintézet által szolgáltatott adatokat összevetve – megállapítsa,
 
-mb) vállalja, hogy ha a gyermek születését követően nem igényel családtámogatási ellátást, a gyermek születési anyakönyvi kivonatát, lakcímét igazoló hatósági igazolványát és adóazonosító jelét tartalmazó adóigazolványát, vagy a gyermek halva születése esetén annak tényét igazoló dokumentumot a gyermek születését követő legfeljebb 60 napon belül a hitelintézet részére bemutatja;
+mb)[^12] vállalja, hogy ha a gyermek születését követően nem igényel családtámogatási ellátást, vagy ha azt a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdése szerinti családtámogatási kifizetőhelyen igényli, a gyermek születési anyakönyvi kivonatát, lakcímét igazoló hatósági igazolványát és adóazonosító jelét tartalmazó adóigazolványát, vagy a gyermek halva születése esetén annak tényét igazoló dokumentumot a gyermek születését követő legfeljebb 60 napon belül a hitelintézet részére bemutatja;
 
 n) a 3. § (2) bekezdése szerinti korábbi igénybevétel esetén a gyermek neve, adóazonosító jele, születési adatai megjelölésével büntetőjogi felelőssége tudatában nyilatkozik arról, hogy mely gyermek után, mikor, melyik hitelintézeten keresztül, mekkora összegben, helyrajzi számmal megjelölve mely lakás vonatkozásában vette igénybe a vissza nem térítendő állami támogatást;
 
@@ -83,3 +83,9 @@ o) az igénylő a 12. § (2) bekezdése szerinti esetben vállalja, hogy tartóz
 (4) A (3) bekezdés a) és k) pontja szerinti nyilatkozatot azon nagykorú, közös háztartásban élő gyermeknek is meg kell tennie, akire tekintettel a családi otthonteremtési kedvezményt igénybe veszik.
 
 (5) Ha a támogatási szerződésben foglalt bármely feltétel nem teljesül, erről a hitelintézet tudomásszerzését követően haladéktalanul tájékoztatja a kormányhivatalt.
+
+[^8]: A 14. § (1) bekezdés c) pont nyitó szövegrésze a 273/2016. (IX. 15.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
+[^9]: A 14. § (3) bekezdés c) pontja a 273/2016. (IX. 15.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^10]: A 14. § (3) bekezdés f) pontja a 273/2016. (IX. 15.) Korm. rendelet 26. § c) pontja szerint módosított szöveg.
+[^11]: A 14. § (3) bekezdés k) pontja a 273/2016. (IX. 15.) Korm. rendelet 26. § d) pontja szerint módosított szöveg.
+[^12]: A 14. § (3) bekezdés m) pont mb) alpontja a 273/2016. (IX. 15.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.

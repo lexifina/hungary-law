@@ -6,6 +6,8 @@
 
 (3) Ha a támogatott személy a családi otthonteremtési kedvezménnyel kapcsolatos ügyintézéssel mást hatalmaz meg, a családi otthonteremtési kedvezmény folyósítása kizárólag a használatbavételi engedély, a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány bemutatását követően, egy összegben történhet.
 
-(4) A folyósítás akkor kezdhető meg, ha a támogatott személy a családi otthonteremtési kedvezményen és a hitelintézeti kölcsönön kívül saját erejét a lakásbővítésre már felhasználta.
+(4)[^26] A folyósítás akkor kezdhető meg, ha a támogatott személy a családi otthonteremtési kedvezményen és a hitelintézeti kölcsönön kívül saját erejét a lakás vásárlására vagy a lakásbővítésre már felhasználta.
 
 (5) A hitelintézet lakás bővítése esetén a családi otthonteremtési kedvezmény készültségi fokkal arányos folyósítását megelőzően a készültségi fok feltételeinek teljesítését a helyszínen, valamint a 14. § (3) bekezdés e) pontja szerinti számlabemutatással ellenőrzi.
+
+[^26]: A 34. § (4) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 26. § j) pontja szerint módosított szöveg.

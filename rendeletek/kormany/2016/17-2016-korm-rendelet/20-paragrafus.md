@@ -4,7 +4,7 @@
 
 (2) A fiatal házaspár gyermekvállalásának teljesítésére előírt határidő – a (6) és (7) bekezdésben foglalt eltérésekkel – egy gyermek vállalása esetén 4 év, két gyermek vállalása esetén 8 év.
 
-(3) A vállalt gyermek megszületésére vonatkozó határidőt lakás vásárlása esetén a támogatási szerződés megkötésének időpontjától, építési engedélyköteles bővítésnél használatbavételi engedély, a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány vagy nem építési engedély köteles bővítés esetén a bővítés megtörténtéről szóló hatósági bizonyítvány kiadásának napjától kell számítani.
+(3)[^20] A vállalt gyermek megszületésére vonatkozó határidőt lakás vásárlása esetén a támogatási szerződés megkötésének időpontjától, építési engedélyköteles bővítésnél használatbavételi engedély, a használatbavétel tudomásulvételét igazoló hatósági bizonyítvány vagy nem építési engedély köteles bővítés esetén a bővítési munkálatok befejezéséről szóló teljes bizonyító erejű magánokiratba foglalt nyilatkozat hitelintézet részére történő bemutatásának napjától kell számítani.
 
 (4) A (3) bekezdés szerinti okiratot a fiatal házaspár az annak kiadását követő 30 napon belül, de legkésőbb a használatbavétel tudomásulvételét követő 45 napon belül köteles a hitelintézet részére bemutatni.
 
@@ -19,3 +19,5 @@
 (9) A Kincstár a (2) bekezdésben meghatározott, a gyermekvállalás teljesítésére vonatkozó határidő alatt, illetve annak leteltét követő 6 hónapon belül adategyeztetésre hívhatja fel a fiatal házaspárt.
 
 (10) Ha a fiatal házaspár vállalt gyermeke után nem igényelt családtámogatási ellátást vagy azt a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdése szerinti családtámogatási kifizetőhelyen igényelte, úgy – a kiállítást követő 60 napon belül – a gyermekvállalás teljesítését igazoló okiratot és a gyermek adóazonosító jelét tartalmazó adóigazolványát köteles a hitelintézet részére bemutatni.
+
+[^20]: A 20. § (3) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 26. § i) pontja szerint módosított szöveg.

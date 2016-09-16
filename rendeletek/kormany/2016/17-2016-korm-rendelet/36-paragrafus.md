@@ -12,14 +12,8 @@ a támogatott személy – a családi otthonteremtési kedvezmény visszafizeté
 
 (2) Nem minősül a 14. § (3) bekezdés j) pontjában foglalt életvitelszerű tartózkodás megsértésének, ha a támogatott, vagy az a gyermek, akire tekintettel a családi otthonteremtési kedvezményt igényelte, a 14. § (3) bekezdés j) pontjában meghatározott időtartam vége előtt elhalálozik.
 
-(3) A támogatott személy
-
-a) a lakás elidegenítését az erre vonatkozó szerződés megkötésétől,
-
-b) a saját maga és azon gyermeke lakóhelyét érintő változást, akire tekintettel a családi otthonteremtési kedvezményt igényelte a változás bekövetkezésének időpontjától,
-
-c) a bontást, a lakáscéltól eltérő hasznosítást, a lakás használatának harmadik személy részére történő átengedését annak megkezdésétől
-
-számított 30 napon belül köteles a kormányhivatalnak bejelenteni az ezekre vonatkozó iratok egyidejű csatolásával. Ha a szerződés létrejöttéhez harmadik személy beleegyezése szükséges, a bejelentési határidő 45 nap, ha a szerződés érvényességéhez hatósági jóváhagyás vagy hatósági nyilvántartásba történő bejegyzés szükséges, a bejelentési határidő ennek megtörténtét követő 30 nap.
+(3)[^27]
 
 (4) Az állam javára bejegyzett jelzálogjog, valamint az azt biztosító elidegenítési és terhelési tilalom törlése iránt a teljes visszafizetés igazolása után a kormányhivatal intézkedik.
+
+[^27]: A 36. § (3) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 27. § b) pontja hatályon kívül helyezte.

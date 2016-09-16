@@ -8,15 +8,13 @@
 
 3. gyermek:
 
-a) a magzat a várandósság betöltött 24. hetét követően, valamint
+a)[^3] a magzat a várandósság betöltött 12. hetét követően, valamint
 
-b) aki az igénylő vér szerinti vagy örökbefogadott eltartottja, és
+b)[^4] aki az igénylő vér szerinti vagy örökbefogadott eltartottja, és
 
-ba) a 20. életévét még nem töltötte be,
+ba) a 25. életévét még nem töltötte be vagy
 
-bb) a 20. életévét már betöltötte, de felsőoktatási intézmény nappali tagozatán tanul és a 25. életévét még nem töltötte be, vagy
-
-bc) a 20. életévét már betöltötte, de megváltozott munkaképességű személy és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg;
+bb) a 25. életévét betöltött, megváltozott munkaképességű személy és ez az állapota legalább egy éve tart, vagy egy év alatt előreláthatóan nem szűnik meg;
 
 4. használt lakás: olyan lakóingatlan, amely nem minősül az új lakások építéséhez, vásárlásához kapcsolódó lakáscélú támogatásról szóló kormányrendeletben meghatározott új lakásnak;
 
@@ -69,3 +67,6 @@ e) közműves ivóvíz-szolgáltatással, ennek hiányában a telken ivóvíz mi
 8. megváltozott munkaképességű személy: akinek a rehabilitációs hatóság vagy jogelődjei által végzett hatályos minősítés alapján egészségkárosodása legalább 50%-os mértékű, vagy 2008. január 1-jét megelőzően kiállított hatályos szakvéleménye szerint a munkaképességét legalább 67%-ban elvesztette.
 
 (2) Az e rendeletben meg nem határozott fogalmakat a Polgári Törvénykönyvről szóló törvényben (a továbbiakban: Ptk.), a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvényben, az országos településrendezési és az építési követelményekről szóló kormányrendeletben, valamint az épített környezet alakításáról és védelméről szóló törvényben meghatározottak szerint kell értelmezni.
+
+[^3]: Az 5. § (1) bekezdés 3. pont a) alpontja a 273/2016. (IX. 15.) Korm. rendelet 26. § b) pontja szerint módosított szöveg.
+[^4]: Az 5. § (1) bekezdés 3. pont b) alpontja a 273/2016. (IX. 15.) Korm. rendelet 18. §-ával megállapított szöveg.

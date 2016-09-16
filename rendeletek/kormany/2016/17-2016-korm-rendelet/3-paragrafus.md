@@ -4,6 +4,8 @@
 
 (3) A (2) bekezdés szerinti esetben a korábban igénybe vett támogatással összefüggésben előírt életvitelszerű bentlakási kötelezettséget az e rendelet szerinti újabb családi otthonteremtési támogatással érintett lakásban kell teljesíteni.
 
-(4) Ha a fiatal házaspár az egyéb lakáscélú állami támogatásokról szóló jogszabályok szerinti lakásépítési kedvezményt megelőlegező kölcsönszerződéssel rendelkezik vagy megelőlegezett otthonteremtési kedvezményt vett igénybe, e rendelet szerinti családi otthonteremtési kedvezményre akkor köthető támogatási szerződés, ha a korábbi gyermekvállalás teljesült.
+(4)[^2] Ha a fiatal házaspár megelőlegezett formában nyújtott lakáscélú állami támogatást – ide értve a megelőlegező kölcsönt is – vett igénybe, e rendelet szerinti megelőlegezett családi otthonteremtési kedvezményre akkor köthető támogatási szerződés, ha a korábbi gyermekvállalás teljesült.
 
 (5) A hitelintézet a (4) bekezdés szerinti korábbi igénybevételt a Kincstár által üzemeltetett lakástámogatási szakmai informatikai rendszerben lévő adatok alapján és a TAKARNET rendszerből ellenőrzi.
+
+[^2]: A 3. § (4) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 17. §-ával megállapított szöveg.

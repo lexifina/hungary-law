@@ -1,5 +1,3 @@
-## 56. § Az e rendelet hatálybalépését megelőzően a 256/2011. (XII. 6.) Korm. rendelet alapján létrejött jogviszonyokra és benyújtott kérelmekre a 256/2011. (XII. 6.) Korm. rendeletnek a 2016. február 10. napján hatályos rendelkezéseit kell alkalmazni.
-
 1. melléklet a 17/2016. (II. 10.) Korm. rendelethez
 
 Büntetőjogi kizáró feltételek

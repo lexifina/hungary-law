@@ -10,7 +10,7 @@ a) a lakás elidegenítését az erre vonatkozó szerződés megkötésétől,
 
 b) a saját maga és a vér szerinti, vagy örökbefogadott gyermekének lakóhelyét érintő változást a változás bekövetkezésének időpontjától, vagy
 
-c) a bontást, a lakáscéltól eltérő hasznosítást, a lakás használatának a 16. § (1) bekezdése szerinti átengedését annak megkezdésétől
+c)[^31] a bontást, a lakáscéltól eltérő hasznosítást, a lakás használatának a 16. § (1) bekezdése szerinti időszak alatti átengedését annak megkezdésétől
 
 számított 30 napon belül köteles a kormányhivatalnak bejelenteni az ezekre vonatkozó iratok egyidejű csatolásával. Ha a szerződés létrejöttéhez harmadik személy beleegyezése szükséges, úgy a bejelentési határidő 45 nap. Ha a szerződés érvényességéhez hatósági jóváhagyás vagy hatósági nyilvántartásba történő bejegyzés szükséges, úgy a bejelentési határidő az ennek megtörténtét követő 30 nap.
 
@@ -23,3 +23,5 @@ számított 30 napon belül köteles a kormányhivatalnak bejelenteni az ezekre 
 a) a lakás átruházásából származó jövedelem után az állami adóhatóság által igazoltan megfizetett személyi jövedelemadó összegével,
 
 b) azzal az összeggel, melyet az adós az elidegenítésből származó bevételből az értékesített lakás építését vagy vásárlását szolgáló lakáscélú hitelintézeti kölcsön egyösszegű előtörlesztésére és annak díjára fordított,
+
+[^31]: A 44. § (4) bekezdés c) pontja a 273/2016. (IX. 15.) Korm. rendelet 26. § m) pontja szerint módosított szöveg.

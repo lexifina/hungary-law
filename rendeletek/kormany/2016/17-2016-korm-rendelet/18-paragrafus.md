@@ -6,8 +6,10 @@ a) az adásvételt követően vásárolt ingatlan vételárának,
 
 b) a lakástulajdont terhelő, a vételárból visszafizetett munkáltatói vagy önkormányzati támogatás,
 
-c) az értékesített lakás vásárlására vagy építésére felvett lakáscélú hitelintézeti kölcsön vételárból törlesztett,
+c)[^17] az értékesített vagy a bővítendő lakásra felvett lakáscélú hitelintézeti kölcsön vételárból történő elő- vagy végtörlesztés,
 
 d) a számlával igazolt ingatlanközvetítői jutalék,
 
 e) az adásvételre tekintettel megfizetett közteher
+
+[^17]: A 18. § c) pontja a 273/2016. (IX. 15.) Korm. rendelet 26. § h) pontja szerint módosított szöveg.

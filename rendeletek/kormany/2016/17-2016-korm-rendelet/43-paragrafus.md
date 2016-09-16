@@ -36,7 +36,7 @@ b) a tulajdonjog megszerzésére irányuló kérelem benyújtását, ha az adás
 
 (8) A (6) bekezdés esetében a családi otthonteremtési kedvezményt biztosító jelzálogjognak, valamint elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásban az újabb lakásra való átjegyzése iránt a kormányhivatal intézkedik.
 
-(9) Ha a támogatott személy a családi otthonteremtési kedvezmény igénybevételével vásárolt vagy bővített lakásnak a 16. § (1) bekezdése szerinti időszakon belül történő elidegenítését követően, de legfeljebb a 44. § (4) bekezdés b) pontja szerinti bejelentés megtételét követő 60 napon belül
+(9)[^30] Ha a támogatott személy a családi otthonteremtési kedvezmény igénybevételével vásárolt vagy bővített lakásnak a 16. § (1) bekezdése szerinti időszakon belül történő elidegenítését követően, de legfeljebb a 44. § (4) bekezdése szerinti bejelentés megtételét követő 60 napon belül
 
 a) a lakásigényét a lakás cseréjével, vagy a (2) bekezdés d) pontja szerinti újabb lakás építése vagy vásárlása útján elégíti ki és
 
@@ -57,3 +57,5 @@ b) az újabb lakás megszerzését adásvételi szerződés, használatbavételi
 a) az újabb lakás vételára vagy építési költsége az elidegenített lakás vételárát – a 44. § (7) bekezdésében foglaltak figyelembevételével – meghaladja, vagy
 
 b) a támogatott személy a családi otthonteremtési kedvezmény összegének – az eladási és a vételár vagy építési költség különbözetének a 44. § (7) bekezdése szerint csökkentett – arányos részét visszafizesse.
+
+[^30]: A 43. § (9) bekezdés nyitó szövegrésze a 273/2016. (IX. 15.) Korm. rendelet 26. § l) pontja szerint módosított szöveg.

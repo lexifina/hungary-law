@@ -16,7 +16,7 @@ b) a gyermek megszületését a házastársak egyikének a családi otthonteremt
 
 c) a gyermek a várandósság 24. betöltött hetét megelőzően halva születik;
 
-d) két vállalt gyermek esetében a vállalt első gyermek, három vállalt gyermek esetében a vállalt első vagy második gyermek a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet 1. mellékletében foglalt táblázat B oszlop K), L), M) vagy N) betűjellel és C oszlop 1. számjellel megjelölt fogyatékossággal születik vagy a gyermekvállalásra rendelkezésre álló határidő alatt fennáll, vagy B oszlopában P) betűjellel megjelölt többszörös és összetett betegséggel születik vagy az a gyermekvállalásra rendelkezésre álló határidő alatt fennáll, illetve a gyermek többszörös és összetett betegségei közül legalább az egyik a B oszlop K), L), M) vagy N) betűjellel és C oszlop 1. számjellel megjelölt fogyatékosság;
+d)[^28] két vállalt gyermek esetében a vállalt első gyermek, a magasabb összegű családi pótlékra jogosító betegségekről és fogyatékosságokról szóló 5/2003. (II. 19.) ESZCSM rendelet 1. mellékletében foglalt táblázat B oszlop K), L), M) vagy N) betűjellel és C oszlop 1. számjellel megjelölt fogyatékossággal születik vagy a gyermekvállalásra rendelkezésre álló határidő alatt fennáll, vagy B oszlopában P) betűjellel megjelölt többszörös és összetett betegséggel születik vagy az a gyermekvállalásra rendelkezésre álló határidő alatt fennáll, illetve a gyermek többszörös és összetett betegségei közül legalább az egyik a B oszlop K), L), M) vagy N) betűjellel és C oszlop 1. számjellel megjelölt fogyatékosság;
 
 e) az emberi reprodukcióra irányuló különleges eljárások végzésére vonatkozó, valamint az ivarsejtekkel és embriókkal való rendelkezésre és azok fagyasztva tárolására vonatkozó részletes szabályokról szóló 30/1998. (VI. 24.) NM rendelet [a továbbiakban: 30/1998. (VI. 24.) NM rendelet] szerinti, az egészségügyi szakellátás társadalombiztosítási finanszírozásának egyes kérdéseiről szóló 9/1993. (IV. 2.) NM rendelet 4. számú melléklet 13. főcsoportjában megjelölt egészségügyi szolgáltató igazolja, hogy a fiatal házaspár
 
@@ -38,4 +38,7 @@ f) a fiatal házaspár számára a gyermekvállalás egészségügyi dokumentác
 
 (12) A (4) bekezdés szerinti részletfizetési és (5) bekezdés szerinti halasztott fizetési kérelmet a családi otthonteremtési kedvezmény visszafizetését elrendelő határozat támogatott általi kézhezvételét követő 30. napig lehet benyújtani.
 
-(13) A (4) és (5) bekezdés, a (6) bekezdés a), b) és d) pontja, a (7), (8), (11) és (12) bekezdés rendelkezéseit a gyermekvállalásra tekintettel családi otthonteremtési kedvezményt igénybe vevő fiatal házaspáron kívül valamennyi támogatott személy e rendelet szerinti visszafizetési kötelezettségére megfelelően alkalmazni kell.
+(13)[^29] A (4) és (5) bekezdés, a (6) bekezdés a) és b) pontja, a (7), (8), (11) és (12) bekezdés rendelkezéseit a gyermekvállalásra tekintettel családi otthonteremtési kedvezményt igénybe vevő fiatal házaspáron kívül valamennyi támogatott személy e rendelet szerinti visszafizetési kötelezettségére megfelelően alkalmazni kell.
+
+[^28]: A 39. § (6) bekezdés d) pontja a 273/2016. (IX. 15.) Korm. rendelet 27. § c) pontja szerint módosított szöveg.
+[^29]: A 39. § (13) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 26. § k) pontja szerint módosított szöveg.
