@@ -20,13 +20,13 @@ i) a gyermek 57. § (6) bekezdés d) pontja szerinti fogyatékosságát vagy tö
 
 j) a saját és gyermeke adóazonosító jelét adóigazolvánnyal,
 
-k) a várandósság betöltött 24. hetét a várandósgondozási könyvvel,
+k)[^19] a várandósság betöltött 12. hetét a várandósgondozási könyvvel,
 
 l) a megváltozott munkaképességű személlyé válást az orvos szakértői szerv igazolásával,
 
 m) a közös háztartásban élést, valamint élettársak esetében ennek időtartamát teljes bizonyító erejű magánokiratba foglalt nyilatkozattal, elvált szülők kiskorú gyermekeinek elhelyezését a jogerős ítélet bemutatásával,
 
-n) a 30. § (1) bekezdésében, a 31. § (1) és (2) bekezdésében foglaltakat az illetékes egészségbiztosítási pénztári feladatokat ellátó fővárosi és megyei kormányhivatal által kiállított igazolással,
+n)[^20] a 30. § (1) bekezdésében, a 31. § (1) és (2) bekezdésében foglaltakat az illetékes egészségbiztosítási pénztári feladatokat ellátó fővárosi és megyei kormányhivatal által kiállított igazolással, vagy az illetékes külföldi hatóság által kiállított igazolás hiteles magyar nyelvű fordításával,
 
 o) a köztartozásmentességet – ha az igénylő nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban – nemleges együttes adóigazolással,
 
@@ -38,16 +38,29 @@ r) a 25. § (2) bekezdésében foglaltakat az igénylő teljes bizonyító erej�
 
 s) a tulajdonjog fennállását 30 napnál nem régebbi hiteles tulajdoni lap másolattal, a tulajdonjog megszerzésére irányuló szándékot adásvételi szerződéssel és 30 napnál nem régebbi hiteles tulajdoni lap másolattal,
 
-t) az egyszerű bejelentéshez kötött építési tevékenységet
+t)[^21] az egyszerű bejelentéshez kötött építési tevékenységet
 
-ta) a lakóépület építésének egyszerű bejelentéséről és egyes építésügyi tárgyú kormányrendeletek módosításáról szóló 456/2015. (XII. 29.) Korm. rendelet 1. melléklete szerinti egyszerű bejelentés másolatával és az annak mellékletét képező egyszerű bejelentési dokumentációval,
+ta) a lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet [a továbbiakban: 155/2016. (VI. 13.) Korm. rendelet] 1. § (2) bekezdése szerinti, az elektronikus építési napló üzemeltetője által előállított, a készenlétbe helyezett elektronikus építési napló adatait feltüntető visszaigazolással,
 
-tb) az építésügyi hatóság által kiállított, a bejelentés megtörténtét igazoló dokumentummal, és
+tb) az építész tervező által az egyszerű bejelentés mellékleteként az elektronikus építési naplóba feltöltött, legalább a 155/2016. (VI. 13.) Korm. rendelet 1. melléklete szerinti munkarészekből álló kivitelezési dokumentációval, és
 
-tc) az igénylőnek a bejelentés megtörténtét követő 15 nap elteltével tett nyilatkozatával, mely szerint az építési tevékenységet megkezdheti és a hitelintézet részére benyújtott ta) alpont szerinti dokumentumok megegyeznek az építésügyi hatóság részére benyújtottakkal,
+tc) az igénylőnek az egyszerű bejelentés megtörténtét követő 15 nap elteltével tett nyilatkozatával, mely szerint az építési tevékenységet megkezdheti és a hitelintézet részére benyújtott tb) alpont szerinti dokumentumok megegyeznek az elektronikus építési naplóba feltöltött dokumentumokkal,
 
-u) a büntetlen előéletet érvényes hatósági bizonyítvánnyal, amelyhez csatolni kell az igénylő írásbeli hozzájárulását ahhoz, hogy a hatósági bizonyítványban foglalt személyes adataikat a hitelintézet a családi otthonteremtési kedvezményre való jogosultsága megállapításának céljából és időtartamára kezelje.
+u) a büntetlen előéletet érvényes hatósági bizonyítvánnyal, amelyhez csatolni kell az igénylő írásbeli hozzájárulását ahhoz, hogy a hatósági bizonyítványban foglalt személyes adataikat a hitelintézet a családi otthonteremtési kedvezményre való jogosultsága megállapításának céljából és időtartamára kezelje,
+
+v)[^22] annak tényét, hogy a több önálló lakásból álló, osztatlan közös tulajdon esetén a családi otthonteremtési kedvezménnyel érintett lakásra vonatkozóan a támogatott személy kizárólagos használati joga áll fenn, közokiratba vagy ügyvéd által ellenjegyzett magánokiratba foglalt, a támogatott személy részére a lakás teljes területének használatára jogosító használati megosztási megállapodással,
+
+w)[^23] annak tényét, hogy az igénylő építőközösség tagja, az építőközösségi szerződéssel,
+
+z)[^24] a gyámság fennállását a gyámhatóság kirendelő határozatával.
 
 (2) Ha a fiatal házaspár vállalt gyermeke után nem igényelt családtámogatási ellátást vagy azt a családok támogatásáról szóló 1998. évi LXXXIV. törvény végrehajtásáról szóló 223/1998. (XII. 30.) Korm. rendelet 4/B. § (4) bekezdése szerinti családtámogatási kifizetőhelyen igényelte, akkor – a kiállítást követő 60 napon belül – a gyermekvállalás teljesítését igazoló okiratot és a gyermek adóazonosító jelét tartalmazó adóigazolványát köteles a hitelintézet részére bemutatni. Az okiratok benyújtásáról a hitelintézet a 63. § (1) bekezdése szerinti adatszolgáltatással egyidejűleg tájékoztatja a Kincstárt.
 
 (3) A hitelintézet az igénylő erre irányuló kérelme esetén beszerzi az illetékes hatóságtól a jogosultság feltételeit igazoló adatokat és okiratokat.
+
+[^19]: A 43. § (1) bekezdés k) pontja a 273/2016. (IX. 15.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^20]: A 43. § (1) bekezdés n) pontja a 273/2016. (IX. 15.) Korm. rendelet 15. § h) pontja szerint módosított szöveg.
+[^21]: A 43. § (1) bekezdés t) pontja a 273/2016. (IX. 15.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^22]: A 43. § (1) bekezdés v) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^23]: A 43. § (1) bekezdés w) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be.
+[^24]: A 43. § (1) bekezdés z) pontját a 273/2016. (IX. 15.) Korm. rendelet 10. § (2) bekezdése iktatta be.

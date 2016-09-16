@@ -2,6 +2,17 @@
 
 18. § (1) Családi otthonteremtési kedvezmény vehető igénybe a 2008. július 1-jén vagy azt követően kiállított építési engedéllyel vagy az egyszerű bejelentéshez kötött építési tevékenység bejelentésének megtörténtét az építésügyi hatóság által kiállított igazoló dokumentummal rendelkező új lakás építéséhez.
 
-(2) Családi otthonteremtési kedvezmény vehető igénybe a 2008. július 1-jén vagy azt követően kiállított használatbavételi engedéllyel, használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvánnyal rendelkező olyan új lakás vásárlásához, amelyet gazdálkodó szervezet természetes személy részére való értékesítés céljára épít vagy építtet, és amelyet első ízben természetes személy részére értékesítenek.
+(2)[^4] Családi otthonteremtési kedvezmény vehető igénybe
+
+a) a 2008. július 1-jén vagy azt követően kiállított használatbavételi engedéllyel, használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvánnyal rendelkező, vagy
+
+b) a kérelem benyújtásának időpontjában építési engedéllyel vagy az egyszerű bejelentéshez kötött építési tevékenység bejelentésének megtörténtét az építésügyi hatóság által kiállított igazoló dokumentummal, hatósági bizonyítvánnyal vagy az elektronikus építési napló üzemeltetője által előállított visszaigazolással rendelkező, de használatbavételi engedéllyel, használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvánnyal még nem rendelkező
+
+## olyan új lakás vásárlásához, amelyet gazdálkodó szervezet természetes személy részére való értékesítés céljára épít vagy építtet, és amelyet első ízben, természetes személy részére értékesítenek.
 
 (3) A használatbavételi engedéllyel, a használatbavétel tudomásulvételét igazoló hatósági bizonyítvánnyal vagy az egyszerű bejelentéshez kötött épület felépítésének megtörténtéről szóló hatósági bizonyítvánnyal még nem rendelkező lakás tulajdonjogának a használatbavételi engedély megszerzése, a használatbavétel tudomásulvétele vagy az egyszerű bejelentéshez kötött épület felépítése bejelentésének megtörténte előtt történő átruházás esetén, ha az építkezés 2008. július 1-jén vagy azt követően kiadott építési engedély vagy 2016. január 1-jét követően az egyszerű bejelentéshez kötött építési tevékenység esetén az építési tevékenység bejelentése alapján történt, úgy a családi otthonteremtési kedvezményt az új tulajdonos – az e rendeletben meghatározott feltételekkel – igénybe veheti.
+
+(4)[^5] Építőközösség tagjaként a családi otthonteremtési kedvezményt az igénylő a felépítendő társasházból az építőközösségi szerződés alapján megállapítható bekerülési költségnek az építőközösségi szerződés szerint tulajdonába kerülő lakásra számított és a közös tulajdonba kerülő épületrészekből őt megillető tulajdoni hányad arányában, az építőközösség nevére kiállított számlák alapján is igényelheti.
+
+[^4]: A 18. § (2) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 3. § (1) bekezdsével megállapított szöveg.
+[^5]: A 18. § (4) bekezdését a 273/2016. (IX. 15.) Korm. rendelet 3. § (2) bekezdse iktatta be.

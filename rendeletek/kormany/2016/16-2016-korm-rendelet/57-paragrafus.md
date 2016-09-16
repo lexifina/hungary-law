@@ -36,8 +36,10 @@ f) a fiatal házaspár számára a gyermekvállalás egészségügyi dokumentác
 
 (10) Az igazolást a gyermekvállalásra biztosított határidő leteltéig lehet benyújtani.
 
-(11) A járási hivatal és a kormányhivatal csak olyan igazolást fogadhat el, amely alapján megállapítható, hogy a családok megelőlegezett otthonteremtési kedvezménye igénybevételére irányuló szerződés megkötésének időpontja megelőzi a méltányossági döntést megalapozó ok megállapításának első időpontját.
+(11)[^28] A járási hivatal és a kormányhivatal csak olyan igazolást fogadhat el, amely alapján megállapítható, hogy a megelőlegezett családi otthonteremtési kedvezmény igénybevételére irányuló szerződés megkötésének időpontja megelőzi a méltányossági döntést megalapozó ok megállapításának első időpontját.
 
 (12) A (4) bekezdés szerinti részletfizetési és (5) bekezdés szerinti halasztott fizetési kérelmet a családi otthonteremtési kedvezmény visszafizetését elrendelő határozat támogatott általi kézhezvételét követő 30. napig lehet benyújtani.
 
 (13) A (4) és (5) bekezdés, a (6) bekezdés a), b) és d) pontja, a (7), (8), (11) és (12) bekezdés rendelkezéseit a gyermekvállalásra tekintettel családi otthonteremtési kedvezményt igénybe vevő fiatal házaspáron kívül valamennyi támogatott személy e rendelet szerinti visszafizetési kötelezettségére megfelelően alkalmazni kell.
+
+[^28]: Az 57. § (11) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 15. § k) pontja szerint módosított szöveg.

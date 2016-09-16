@@ -6,7 +6,7 @@ b) az építkezés helyéül szolgáló építési telek vételárához az épí
 
 adó-visszatérítési támogatást igényelhet.
 
-(2) Adó-visszaigénylési támogatási kérelem ahhoz a hitelintézethez nyújtható be, amely teljesíti az e rendeletben foglalt kötelezettségeit.
+(2)[^34] Adó-visszatérítési támogatás iránti kérelem ahhoz a hitelintézethez nyújtható be, amely teljesíti az e rendeletben foglalt kötelezettségeit.
 
 (3) Az adó-visszatérítési támogatás az (1) bekezdés szerinti költségekre egyidejűleg és legfeljebb egy alkalommal, 2015. január 1-jén vagy azt követően kiállított számla alapján legkésőbb 2019. december 31-ig igényelhető.
 
@@ -25,3 +25,5 @@ adó-visszatérítési támogatást igényelhet.
 (10) A támogatott személy az adó-visszatérítési támogatásra – ideértve a visszafizetéshez kapcsolódó kamatfizetési kötelezettséget is – vonatkozó visszafizetési kötelezettség kapcsán részletfizetési kérelemmel fordulhat az új lakás fekvése szerint illetékes járási hivatalhoz. A járási hivatal eljárására az 57. § (4) bekezdésében foglaltakat kell megfelelően alkalmazni.
 
 (11) A támogatott személy az adó-visszatérítési támogatásra – ideértve a visszafizetéshez kapcsolódó kamatfizetési kötelezettséget is – vonatkozó visszafizetési kötelezettség halasztott teljesítése, mérséklése vagy elengedése iránti kérelemmel fordulhat a kormányhivatalhoz. A kormányhivatal eljárására az 57. § (5) és (7) bekezdésében foglaltakat kell megfelelően alkalmazni.
+
+[^34]: A 69. § (2) bekezdése a 273/2016. (IX. 15.) Korm. rendelet 15. § q) pontja szerint módosított szöveg.
