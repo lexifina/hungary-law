@@ -122,7 +122,7 @@
 
 | 61. | Dr. Török Sándor Egészségügyi Központ | Balatonboglár |
 
-| 62. | Dunakeszi Város Önkormányzatának Szakorvosi Rendelőintézete | Dunakeszi |
+| 62. | Dunakeszi Szakorvosi Rendelőintézet Nonprofit Kft. | Dunakeszi |
 
 | 63. | Dunavecse Város Önkormányzat Dr. Kolozs Gergely Kistérségi Járóbeteg Szakellátó Centrum és Szociális Intézmény | Dunavecse |
 
@@ -430,7 +430,7 @@
 
 | 215. | Tiszaújváros Városi Rendelőintézet | Tiszaújváros |
 
-| 216. | Tiszavasvári Többcélú Kistérségi Társulás Tiszavasvári Szociális és Egészségügyi Szolgáltató Központja (SZESZK) | Tiszavasvári |
+| 216. | Tiszavasvári Egészségügyi Szolgáltató Nonprofit Közhasznú Korlátolt Felelősségű Társaság | Tiszavasvári |
 
 | 217. | Tokaji Egészségfejlesztő Központ Nonprofit Kft. | Tokaj |
 
@@ -508,7 +508,7 @@
 
 | 254. | Bácsalmási Egészségügyi Szolgáltató Kft. | Bácsalmás |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^32]
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^40]
 
 ## Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót megillető bérkiegészítés mértéke
 
@@ -714,4 +714,4 @@
 
 | 17 | 49–51 | 46 600 | 49 114 | 56 724 |
 
-[^32]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^40]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.

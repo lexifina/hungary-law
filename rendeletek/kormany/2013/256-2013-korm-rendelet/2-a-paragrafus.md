@@ -4,7 +4,7 @@
 
 (2) A bérkiegészítést nem kell figyelembe venni az adó- és járulékváltozások ellentételezésére szolgáló, az egészségügyi dolgozót vagy az egészségügyben dolgozót megillető, kormányrendeletben meghatározott kompenzációra való jogosultság és a kompenzáció összegének számítása tekintetében.
 
-(3) Az ügyeleti díj, az Eütev. 14/B. §-a szerinti pótlék, a készenléti díj, valamint a rendkívüli munkavégzés bérpótlékának számítási alapja az Eütev. szerinti alapbérnek a 3. melléklet szerinti bérkiegészítéssel növelt összege.
+(3)[^7] Az ügyeleti díj, az Eütev. 14/B. §-a szerinti pótlék, a készenléti díj, valamint a rendkívüli munkavégzés bérpótlékának (a továbbiakban együtt: mozgóbér elemek) számítási alapja az Eütev. szerinti alapbérnek a 3. melléklet szerinti bérkiegészítéssel növelt összege.
 
 (4) Az egészségügyi ágazati előmeneteli szabályok alapján járó, a bérkiegészítéssel növelt illetmény- vagy bérnövelést a munka törvénykönyvéről szóló 2012. évi I. törvény, a Kjt. és a Hjt. alkalmazásában a távolléti díj számítása során, továbbá a Kjt. alkalmazásában a jubileumi jutalom számítása során figyelembe kell venni.
 
@@ -13,3 +13,4 @@
 (6) Részmunkaidő esetén a bérkiegészítéssel növelt illetmény- vagy bérnövelés a munkaidő teljes munkaidőhöz viszonyított arányában jár.
 
 [^6]: A 2/A. alcímet (2/A. §) a 413/2015. (XII. 23.) Korm. rendelet 63. § a) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 2. §-a iktatta be.
+[^7]: A 2/A. § (3) bekezdése a 276/2016. (IX. 15.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
