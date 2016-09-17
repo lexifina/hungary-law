@@ -8,7 +8,8 @@ b) a nemzetközi közúti fuvarozást végző járművek személyzetének munká
 
 c)[^12] a közúti közlekedésben használt menetíró készülékekről, a közúti közlekedésben használt menetíró készülékekről szóló 3821/85/EGK tanácsi rendelet hatályon kívül helyezéséről és a közúti szállításra vonatkozó egyes szociális jogszabályok összehangolásáról szóló 561/2006/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2014. február 4-i 165/2014/EU európai parlamenti és tanácsi rendeletben
 
-d) a közúti közlekedésben használt menetíró készülékekről szóló, 1985. december 20-i 3821/85/EGK tanácsi rendelet végrehajtásáról szóló 124/2005. (XII. 29.) GKM rendeletben
+d)[^13]
 
 [^11]: A 3. § a 228/2012. (VIII. 23.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 171/2014. (VII. 18.) Korm. rendelet 11. § b) pontja szerint módosított szöveg.
 [^12]: A 4. § c) pontja a 8/2016. (II. 9.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^13]: A 4. § d) pontját a 246/2016. (VIII. 17.) Korm. rendelet 6. §-a hatályon kívül helyezte.
