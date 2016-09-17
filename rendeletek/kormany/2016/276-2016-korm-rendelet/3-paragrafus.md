@@ -1,3 +1,0 @@
-## 2. § A 256/2013. (VII. 5.) Korm. rendelet 4. §-a a következő (1a) bekezdéssel egészül ki:
-
-## „(1a) Az egészségügyi szolgáltató munkáltató a 3. § (5) bekezdése szerinti támogatás iránti igényét az OEP által meghatározott, elektronikusan kitölthető kérelem formájában nyújthatja be legkésőbb 2016. szeptember 20-áig. Az igénylést követően az egészségügyi szolgáltató munkáltató jogosult korrekciós igényt benyújtani minden hónap 5. napjáig az OEP által meghatározott adatszolgáltatási formátumban. Az egészségügyi szolgáltató munkáltató a támogatási összeget a 2016. szeptember 1-je és 2016. december 31-e közötti időszakra vonatkozóan a munkáltatói foglalkoztatási adatok alapján állapítja meg.”
