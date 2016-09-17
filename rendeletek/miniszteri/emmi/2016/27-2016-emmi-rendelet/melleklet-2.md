@@ -4097,3 +4097,5 @@ A vizsgafeladat időtartama: 30 perc
 A vizsgafeladat értékelési súlyaránya: 50%
 
 B) A vizsgafeladat megnevezése: Fertőtlenítés
+
+A vizsgafeladat ismertetése: Feladatleírásban rögzítetten, meghatározás után kiválasztja a megfelelő módszert, technológiát, a szükséges gépeket, eszközöket, anyagokat, védőfelszereléseket, elvégzi a fertőtlenítést és ellátja az azzal kapcsolatos adminisztrációt.
