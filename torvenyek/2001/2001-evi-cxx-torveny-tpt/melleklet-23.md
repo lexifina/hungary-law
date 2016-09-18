@@ -9,9 +9,3 @@ E törvény és az e törvény felhatalmazása alapján kiadott jogszabályok al
 3. az Amerika-közi Fejlesztési Bank,
 
 4. az Ázsiai Fejlesztési Bank,
-
-5. az Európai Beruházási Alap,
-
-6. az Európai Beruházási Bank,
-
-7. az Európai Közösség,
