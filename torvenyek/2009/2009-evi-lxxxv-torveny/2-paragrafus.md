@@ -1,6 +1,6 @@
 ## Értelmező rendelkezések
 
-2. § E törvény alkalmazásában
+2. § E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában
 
 1. átutalás: a fizető fél rendelkezése alapján végzett olyan pénzforgalmi szolgáltatás, amelynek során a fizető fél fizetési számláját a kedvezményezett javára megterhelik, valamint a hatósági átutalás és az átutalási végzés alapján történő átutalás,
 
@@ -17,6 +17,8 @@
 7. fizetési művelet: a fizető fél, a kedvezményezett, a hatósági átutalási megbízás adására jogosult és az átutalási végzést kibocsátó által kezdeményezett megbízás – valamely fizetési mód szerinti – lebonyolítása, függetlenül a fizető fél és a kedvezményezett közötti jogviszonytól,
 
 8. fizetési számla: fizetési műveletek teljesítésére szolgáló, a pénzforgalmi szolgáltató egy vagy több ügyfele nevére megnyitott számla, ideértve a bankszámlát is,
+
+8a. fizetési számla váltása: fogyasztó kérésére a valamely fizetési számlán végrehajtott, rendszeres átutalásra, rendszeresen ismétlődő beszedésre és várhatóan rendszeresen beérkező átutalásokra vonatkozó fizetési megbízások mindegyikére vagy meghatározott megbízásokra vonatkozó információnak az egyik pénzforgalmi szolgáltatótól egy másik pénzforgalmi szolgáltatóhoz történő átadása, vagy az egyik fizetési számla pozitív számlaegyenlegének a másikra történő transzfere, vagy mindkettő, akár a korábbi fizetési számla lezárásával, akár anélkül,
 
 9. fizető fél: az a jogalany,
 
