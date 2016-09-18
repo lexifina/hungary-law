@@ -1,9 +1,10 @@
-## 1. §[^1]
+## 1. §[^2]
 
-2. § (1)[^2]
+2. § (1)[^3]
 
-(2)[^3]
+(2) Az R1. 10. § (3) bekezdése a következő k) ponttal egészül ki:
 
-[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: A 2. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 2. § (2) bekezdése a 7. § (2) bekezdése alapján 2016. szeptember 18-án lép hatályba.
+(Ez a rendelet)
+
+[^2]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

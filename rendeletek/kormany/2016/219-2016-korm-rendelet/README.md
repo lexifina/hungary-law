@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-219-20-
 | --- | --- | --- |
 | 2016-08-06 | 2016-219-20-22.1 | 219/2016. (VII. 22.) Korm. rendelet |
 | 2016-08-07 | 2016-219-20-22.2 | 2010: CXXX. törvény |
+| 2016-09-18 | 2016-219-20-22.3 | 2010: CXXX. törvény |
