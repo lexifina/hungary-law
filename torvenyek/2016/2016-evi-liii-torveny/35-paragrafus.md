@@ -1,1 +1,9 @@
-35. §
+35. § (1) A Tpt. 38. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha az értékpapír forgalomba hozatala a befektetők szempontjából fokozottan, illetve kiemelten kockázatos, a forgalmazó és a kibocsátó, az ajánlattevő vagy az értékpapír szabályozott piacra történő bevezetését, illetve a multilaterális kereskedési rendszerbe történő regisztrációt kezdeményező személy köteles ennek a tájékoztató elején, valamint kereskedelmi kommunikációjában feltűnő módon történő feltüntetésére, a vonatkozó arányszám egyidejű bemutatásával.”
+
+(2) A Tpt. 38. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
+
+„(4a) Az értékpapír forgalomba hozatala a befektetők szempontjából fokozottan kockázatos, ha a hitelviszonyt megtestesítő értékpapír forgalomba hozatala következtében a tervezett kibocsátás mennyisége (vagy a kibocsátási program együttes keretösszege) és a kibocsátó legutolsó auditált beszámolójában szereplő mérlegfőösszeg saját tőkén felüli összege meghaladja a kibocsátó saját tőkéjét, hitelintézetek esetében a saját tőke tízszeresét.
+
+(4b) Az értékpapír forgalomba hozatala a befektetők szempontjából kiemelten kockázatos, ha a hitelviszonyt megtestesítő értékpapír kibocsátója kevesebb mint egy éve működik, ha a kibocsátó, az ajánlattevő, vagy az értékpapír szabályozott piacra történő bevezetését, illetve a multilaterális kereskedési rendszerbe történő regisztrációt kezdeményező személy és a forgalmazó felelőssége a tájékoztatóval kapcsolatosan nem egyetemleges, vagy ha a hitelviszonyt megtestesítő értékpapír forgalomba hozatala következtében a tervezett kibocsátás mennyisége (vagy a kibocsátási program együttes keretösszege) és a kibocsátó legutolsó auditált beszámolójában szereplő mérlegfőösszeg saját tőkén felüli összege meghaladja a saját tőke kétszeresét, hitelintézetek esetében a saját tőke hússzorosát.”

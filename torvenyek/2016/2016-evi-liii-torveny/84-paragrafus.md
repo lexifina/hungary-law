@@ -1,0 +1,1 @@
+84. § A Pft. 2. §-ának nyitó szövegrészében az „E törvény alkalmazásában” szövegrész helyébe az „E törvényben, valamint az e törvény felhatalmazása alapján kiadott jogszabályok vonatkozásában” szöveg lép.
