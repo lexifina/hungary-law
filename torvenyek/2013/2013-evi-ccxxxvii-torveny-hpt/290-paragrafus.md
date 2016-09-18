@@ -18,6 +18,8 @@ g) a 2012. április 1-je előtt hatályos 1996. évi CXII. törvény 210/A. §-�
 
 h) a javadalmazási politikának az érintett hitelintézet mérete, tevékenységének jellege, köre és jogi formájából eredő sajátossága figyelembevételével történő alkalmazására
 
+i) az alapszámlához való hozzáférésre, az alapszámla jellemzőire, valamint díjára
+
 vonatkozó részletes szabályokat.
 
 (2) Felhatalmazást kap a pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter, hogy rendeletben állapítsa meg:
