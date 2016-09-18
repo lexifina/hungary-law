@@ -1,0 +1,3 @@
+2. § (1) E rendelet alkalmazásában EGT-államban tartózkodásra jogosult az a természetes személy, aki uniós jogi aktus vagy EGT-állam jogszabálya alapján Magyarországon jogszerűen tartózkodhat, ideértve az állandó lakhellyel nem rendelkező személyeket és a menekültek helyzetére vonatkozó 1951. évi július hó 28. napján elfogadott egyezmény, valamint a menekültek helyzetére vonatkozóan az 1967. évi január hó 31. napján létrejött jegyzőkönyv értelmében menedékkérelemért folyamodó személyt is.
+
+(2) Az (1) bekezdésben meghatározottakon kívül az e rendeletben használt fogalmak meghatározását a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény, valamint a pénzforgalmi szolgáltatás nyújtásáról szóló törvény tartalmazza.

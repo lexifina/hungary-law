@@ -1,0 +1,5 @@
+7. § (1) Alapszámlát vezető hitelintézet az alapszámla vezetésére vonatkozó keretszerződés megkötése iránti kérelem elfogadásáról vagy elutasításáról haladéktalanul, de legkésőbb a hiánytalan kérelem kézhezvételét követő 10 munkanapon belül dönt, amelyről értesíti a fogyasztót.
+
+(2) Ha jogszabály nem tiltja, a kérelem elutasításának indokáról az (1) bekezdésben meghatározott határidőn belül a hitelintézet köteles a fogyasztót írásban, külön díj felszámítása nélkül tájékoztatni.
+
+(3) Az elutasításról szóló értesítésben tájékoztatni kell a fogyasztót az elutasításhoz kapcsolódó panasztételi lehetőségéről, valamint arról, hogy az alapszámlát vezető hitelintézet a Pénzügyi Békéltető Testület irányába tett-e általános alávetési nyilatkozatot, meg kell adnia a Pénzügyi Békéltető Testület székhelyét, telefonos és internetes elérhetőségét, valamint a levelezési címét, továbbá a fogyasztó külön kérésére meg kell küldenie a Pénzügyi Békéltető Testület által készített és a hitelintézet rendelkezésére bocsátott kérelem-nyomtatványt.
