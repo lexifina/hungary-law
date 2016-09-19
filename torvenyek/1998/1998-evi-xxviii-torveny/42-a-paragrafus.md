@@ -10,7 +10,7 @@ a) az eb tulajdonosának nevét, címét,
 
 b) az ebtartó nevét, lakcímét, telefonszámát, elektronikus levélcímét,
 
-c) az eb fajtáját, nemét, születési idejét, színét, hívónevét,
+c) az eb fajtáját vagy fajtajellegét vagy a keverék mivoltára való utalást, nemét, születési idejét, színét, hívónevét,
 
 d) az eb tartási helyét,
 
