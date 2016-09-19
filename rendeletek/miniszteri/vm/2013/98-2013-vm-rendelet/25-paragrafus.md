@@ -1,3 +1,3 @@
-## 24/A. §[^18] A 7. § (2) bekezdés e) pontjában meghatározott határidőt megtartottnak kell tekinteni, ha a tagsági viszony 2014. március 1-jéig létrejött.
+## 24–24/A. §[^55]
 
-[^18]: A 24/A. §-t az 53/2014. (IV. 29.) VM rendelet 18. § (11) bekezdése iktatta be.
+[^55]: A 24–24/A. §-t a 62/2016. (IX. 16.) FM rendelet 9. § (14) bekezdés j) pontja hatályon kívül helyezte.

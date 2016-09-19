@@ -2,7 +2,7 @@
 
 (2) A kérelem tartalmazza
 
-a) az elismerést kérő szervezet nevét, székhelyét, képviselője nevét;
+a)[^23] az elismerést kérő egyesület vagy szövetség nevét, székhelyét, képviselője nevét;
 
 b) a kérelmező taglétszámát;
 
@@ -10,23 +10,23 @@ c) a tenyészteni kívánt fajtát és fajtákat;
 
 d) a nyilvántartott élő egyedek számát fajtánként;
 
-e)[^10] az egyedekről a kérelmező nyilvántartásában szereplő tenyésztési adatokat, az ebek elektronikus azonosítójának (transzponder) sorszámát, a tenyésztőjének nevét és az ebek tartási helyét;
+e)[^24] az egyedekről a kérelmező nyilvántartásában szereplő tenyésztési adatokat, az ebek elektronikus azonosítójának (transzponder) sorszámát, a tenyésztőjének nevét és az ebek tartási helyét;
 
 f) a személyi és tárgyi feltételeket, a tenyésztésvezető személyének és adatainak feltüntetésével.
 
 (3) A kérelemhez csatolni kell
 
-a) a kinológiai szövetséggel egyeztetett, bélyegző lenyomattal ellátott származási igazolás mintát, vagy a nyilatkozatot a kinológiai szövetség által rendszeresített, ajánlott származásigazolás nyomtatvány használatáról;
+a)[^25] a bélyegzőlenyomattal ellátott származási igazolás mintát;
 
 b) a származási igazolás aláírására jogosult személy aláírásmintáját;
 
 c) az elfogadott alapszabály hiteles másolatát;
 
-d) a bírósági bejegyzés hiteles másolatát vagy kivonatot a társadalmi szervezet bírósági nyilvántartás szerinti adatairól;
+d)[^26] a bírósági bejegyzés hiteles másolatát vagy kivonatot az egyesület vagy szövetség bírósági nyilvántartás szerinti adatairól;
 
 e) a tenyésztésvezető jelen jogszabályban előírt felsőfokú végzettségét igazoló okirat másolatát;
 
-f)[^11] a kinológiai szövetség igazolását a tagsági jogviszony fennállásáról, illetve új kinológiai szövetség kijelölése esetén a kinológiai szövetséghez benyújtott tagfelvételi kérelmet és annak átvételét igazoló dokumentumot, és
+f)[^27]
 
 g) a fajtánkénti tenyésztési programot, nyomtatott vagy elektronikus formában is.
 
@@ -50,9 +50,44 @@ h) a nyilvántartás, azonosítás és igazolások rendjét;
 
 i) az ebek jelölésének módját;
 
-j) az alomellenőrzés és a származás ellenőrzés módját és dokumentálásának rendjét, és
+j)[^28] az alomellenőrzés és a származás ellenőrzés módját és dokumentálásának rendjét;
 
-k) az örökletes betegségek kiszűrésére alkalmas vizsgálatokkal kapcsolatos kötelezettségeket és szabályozást.
+k)[^29] az örökletes betegségek kiszűrésére alkalmas vizsgálatokkal kapcsolatos kötelezettségeket és szabályokat, valamint a genetikai betegségekkel terhelt egyedek tenyésztésének tilalmát;
 
-[^10]: A 8. § (2) bekezdés e) pontja az 53/2014. (IV. 29.) VM rendelet 18. § (7) bekezdésével megállapított szöveg.
-[^11]: A 8. § (3) bekezdés f) pontja az 53/2014. (IV. 29.) VM rendelet 18. § (8) bekezdésével megállapított szöveg.
+l)[^30] a fajtaazonosság vizsgálat érdekében végzett DNS alapú származásellenőrzés rendjét;
+
+m)[^31] nukleusz állomány kijelölésének elveit;
+
+n)[^32] az in-vitro megőrzés feltételeit, a génbankban megőrzendő szaporítóanyag és genetikai minta meghatározását, begyűjtésének, előkészítésének és letárolásának szabályait;
+
+o)[^33] a törzskönyvi részekbe és osztályokba sorolás rendjét, valamint a felderített egyedek törzskönyvbe emelésének előírását;
+
+p)[^34] a tenyészvonalakat, illetve családokat, a párosítási terv készítésének elveit és a szelekció rendjét;
+
+q)[^35] az apaállat használatának szabályait;
+
+r)[^36] a fajta génkészletei felderítésének eljárását és hasznosítását;
+
+s)[^37] a tenyészállat forgalmazása, kivitele és behozatala során követendő szabályokat;
+
+t)[^38] az in-situ tartás feltételeit, indokolt esetben az ex-situ tartás feltételeit;
+
+u)[^39] a kennel vagy részpopuláció megszüntetése esetén követendő szabályokat.
+
+[^23]: A 8. § (2) bekezdés a) pontja a 62/2016. (IX. 16.) FM rendelet 9. § (13) bekezdés f) pontja szerint módosított szöveg.
+[^24]: A 8. § (2) bekezdés e) pontja az 53/2014. (IV. 29.) VM rendelet 18. § (7) bekezdésével megállapított szöveg.
+[^25]: A 8. § (3) bekezdés a) pontja a 62/2016. (IX. 16.) FM rendelet 9. § (7) bekezdésével megállapított szöveg.
+[^26]: A 8. § (3) bekezdés d) pontja a 62/2016. (IX. 16.) FM rendelet 9. § (13) bekezdés g) pontja szerint módosított szöveg.
+[^27]: A 8. § (3) bekezdés f) pontját a 62/2016. (IX. 16.) FM rendelet 9. § (14) bekezdés f) pontja hatályon kívül helyezte.
+[^28]: A 8. § (4) bekezdés j) pontja a 62/2016. (IX. 16.) FM rendelet 9. § (13) bekezdés h) pontja szerint módosított szöveg.
+[^29]: A 8. § (4) bekezdés k) pontja a 62/2016. (IX. 16.) FM rendelet 9. § (13) bekezdés i) pontja szerint módosított szöveg.
+[^30]: A 8. § (4) bekezdés l) pontját a 62/2016. (IX. 16.) FM rendelet 9. § (8) bekezdése iktatta be.
+[^31]: A 8. § (4) bekezdés m) pontját a 62/2016. (IX. 16.) FM rendelet 9. § (8) bekezdése iktatta be.
+[^32]: A 8. § (4) bekezdés n) pontját a 62/2016. (IX. 16.) FM rendelet 9. § (8) bekezdése iktatta be.
+[^33]: A 8. § (4) bekezdés o) pontját a 62/2016. (IX. 16.) FM rendelet 9. § (8) bekezdése iktatta be.
+[^34]: A 8. § (4) bekezdés p) pontját a 62/2016. (IX. 16.) FM rendelet 9. § (8) bekezdése iktatta be.
+[^35]: A 8. § (4) bekezdés q) pontját a 62/2016. (IX. 16.) FM rendelet 9. § (8) bekezdése iktatta be.
+[^36]: A 8. § (4) bekezdés r) pontját a 62/2016. (IX. 16.) FM rendelet 9. § (8) bekezdése iktatta be.
+[^37]: A 8. § (4) bekezdés s) pontját a 62/2016. (IX. 16.) FM rendelet 9. § (8) bekezdése iktatta be.
+[^38]: A 8. § (4) bekezdés t) pontját a 62/2016. (IX. 16.) FM rendelet 9. § (8) bekezdése iktatta be.
+[^39]: A 8. § (4) bekezdés u) pontját a 62/2016. (IX. 16.) FM rendelet 9. § (8) bekezdése iktatta be.

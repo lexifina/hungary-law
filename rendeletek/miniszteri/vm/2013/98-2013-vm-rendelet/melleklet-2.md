@@ -64,7 +64,7 @@
 
 ## 3.6. a felelősség viselését a jelölésért, az előírt bejelentésekért, a feljegyzésekért, valamint a regisztrációkért;
 
-## 3.7. a kinológiai szövetség részére történő adatszolgáltatás rendjét.
+## 3.7.
 
 ## II. A származási igazolás kiállításának előírásai
 

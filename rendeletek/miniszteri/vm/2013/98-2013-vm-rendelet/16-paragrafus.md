@@ -2,4 +2,6 @@
 
 16. § (1) A tenyésztési hatóság a tenyésztőszervezet által vezetett nyilvántartásokat és a teljesítményvizsgálatokat szúrópróbaszerűen ellenőrzi, a tenyésztőszervezet tevékenységét felülvizsgálja, amennyiben az ellenőrzések és a felülvizsgálat nem állapít meg hiányosságot, a hatóság a törzskönyvi adatokat hitelesnek tekinti.
 
-(2) A tenyésztési hatóság ellenőrizheti, hogy a kinológiai szövetség a tenyésztők vonatkozásában betartja-e a nemzetközi szakmai szabályokat.
+(2)[^50]
+
+[^50]: A 16. § (2) bekezdését a 62/2016. (IX. 16.) FM rendelet 9. § (14) bekezdés h) pontja hatályon kívül helyezte.
