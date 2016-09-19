@@ -20,7 +20,9 @@ i) adatszolgáltatási kötelezettségét nem teljesíti, a valóságnak nem meg
 
 j) tenyészállatot, szaporítóanyagot jogosulatlanul forgalmaz;
 
-k) tenyésztési bizonylatot, igazolást vagy nyilvántartást meghamisít.
+k) tenyésztési bizonylatot, igazolást vagy nyilvántartást meghamisít;
+
+l) határidőben nem tesz eleget a 48/A. § (2) bekezdésében foglalt kötelezettségének.
 
 (1a)
 
