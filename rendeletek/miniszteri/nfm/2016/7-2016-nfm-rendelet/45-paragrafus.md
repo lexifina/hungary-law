@@ -1,15 +1,31 @@
-## 45. § A 3. §
+45. §[^62] (1) Az e rendelet hatálya alá tartozó,
 
-a) b) pont ba) alpontja, d) pont dc) alpontja, e) pontja, f) pontja, g) pont gc) alpontja, h) pont ha) alpontja, j) pont ja) alpontja, k) pont ka) alpontja, l) pont lc) alpontja, n) pontja, o) pont oa) alpontja, p) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352, 2013.12.24. 1. o.),
+a) 500 000 eurónak megfelelő forintösszeget meghaladó támogatásokról a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából,
 
-b) h) pont hb) alpontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (HL L 352, 2013.12.24. 9. o.),
+b) az elsődleges mezőgazdasági termeléssel foglalkozó kedvezményezettek esetében 60 000 eurónak megfelelő forintösszeget meghaladó támogatásokról, az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatás 3.7. pontja szerinti közzététel céljából
 
-c) b) pont ba) alpontja, c) pont ca) alpontja, d) pont da) alpontja, g) pont ga) alpontja, i) pont ia) alpontja, l) pont la) alpontja, p) pontja az Európai Unió működéséről szóló szerződés 107. és 108. cikkének az általános gazdasági érdekű szolgáltatást nyújtó vállalkozások számára nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2012. április 25-i 360/2012/EU bizottsági rendelet (HL L 114, 2012.4.26., 8–13. o.),
+c) a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek forgalmazásával foglalkozó, az erdészeti ágazatban működő vagy az Európai Unió működéséről szóló Szerződés 42. cikkének hatályán kívül eső tevékenységet folytató kedvezményezettek esetében az 500 000 eurónak megfelelő forintösszeget meghaladó támogatásokról, kedvezményezettek esetében az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló európai uniós iránymutatás 3.7. pontja szerinti közzététel céljából
 
-d) j) pont jb)–ji) alpontja, k) pont kb) alpontja, o) pont ob)–oe) alpontja és p) pontja a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1. o.) I. és II. fejezete, valamint 22., 25., 26., 28., 36–38., 41., 48., 49. és 55. cikke,
+## adatot kell szolgáltatni a Támogatásokat Vizsgáló Iroda, mint az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére.
 
-e) b) pont bb) alpontja, c) pont cb) alpontja, d) pont db) alpontja, g) pont gb) alpontja, i) pont ib) alpontja, l) pont lb) alpontja, p) pontja az Európai Unió működéséről szóló szerződés 106. cikke (2) bekezdésének az általános gazdasági érdekű szolgáltatások nyújtásával megbízott egyes vállalkozások javára közszolgáltatás ellentételezése formájában nyújtott állami támogatásra való alkalmazásáról szóló, 2011. december 20-i 2012/21/EU bizottsági határozat (HL L 7., 2012.1.11., 3–10. o.),
+(2) Az (1) bekezdés a) pontja szerinti adatszolgáltatást az Atr. 18/A–18/D. §-a szerint kell teljesíteni.
 
-f) d) pont dd) alpontja, j) pont jj) és jk) alpontja, l) pont ld) alpontja, o) pont of) alpontja és p) pontja a vasúti és közúti személyszállítási közszolgáltatásról, valamint az 1191/69/EGK és az 1107/70/EGK tanácsi rendelet hatályon kívül helyezéséről szóló, 2007. október 23-i 1370/2007/EK európai parlamenti és tanácsi rendelet (HL L 315., 2007.12.3., 1. o.),
+(3) Az (1) bekezdés b) és c) pontja szerinti adatszolgáltatást a támogatást nyújtó a támogatás odaítélést követő 3 hónapon belül teljesíteni az alábbi adatokról:
 
-g) m) és p) pontja az SA.34770 (2012/N-2) sz. bizottsági határozat, a) és p) pontja az SA.38478 (2014/N) sz. bizottsági határozat
+a) a kedvezményezett neve, székhelye, adószáma,
+
+b) a kedvezményezett az agrár- és erdészeti iránymutatás 2.4. pont (35) bekezdés 13. és 14. alpont szerinti típusa (kis- és középvállalkozás vagy nagyvállalat),
+
+c) a kedvezményezett főtevékenysége a mindenkor hatályos TEÁOR nomenklatúra szerint, egyéni vállalkozó esetén ÖVTJ-kódok szerint,
+
+d) támogatás összege,
+
+e) támogatástartalom,
+
+f) támogatás formája,
+
+g) támogatás célja,
+
+h) támogatást nyújtó hatóság megnevezése.
+
+[^62]: A 45. § a 39/2016. (IX. 20.) NFM rendelet 10. §-ával megállapított szöveg.

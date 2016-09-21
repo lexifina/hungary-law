@@ -1,4 +1,4 @@
-## azzal, hogy nem tekintendő a beruházás megkezdésének a földterület megvásárlása, ha az nem képezi a beruházás elszámolható költségét, valamint az előkészítő munka költségének felmerülése.
+## 6. §[^45]
 
 ## 7. § Az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a támogatás összege
 
@@ -28,4 +28,28 @@ f) az elosztóhálózathoz nyújtott, energiahatékony távfűtéshez és távh�
 
 g) energetikai célú infrastruktúrához nyújtott beruházási támogatás esetén vállalkozásonként és beruházásonként meghaladja az 50 millió eurónak megfelelő forintösszeget, vagy
 
-h) sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott beruházási támogatás esetén meghaladja a 15 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja az 50 millió eurónak megfelelő forintösszeget, valamint sportlétesítményhez nyújtott működési támogatás esetén infrastruktúránként és évenként meghaladja a 2 millió eurónak megfelelő forintösszeget.
+h) sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott beruházási támogatás esetén meghaladja a 15 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja az 50 millió eurónak megfelelő forintösszeget, valamint sportlétesítményhez nyújtott működési támogatás esetén infrastruktúránként és évenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
+
+i)[^46] regionális beruházási támogatás esetén a beruházáshoz igényelt összes állami támogatással együtt – figyelembe véve a nagyberuházásokra vonatkozó rendelkezéseket – meghaladja azt az összeget, amelyet ugyanazon településen egy jelenértéken 100 millió eurónak megfelelő forintösszeget meghaladó elszámolható költségű beruházás az adott régióban kaphat,
+
+j)[^47] regionális beruházási támogatás esetén, ha a kérelmet benyújtó beruházó, vagy a kérelmet benyújtó beruházóval egy vállalatcsoportba tartozó beruházó a támogatási kérelem benyújtását megelőző két évben a támogatási kérelemmel érintett tevékenységgel azonos vagy hasonló tevékenységet szüntetett meg az EGT területén, vagy a támogatási kérelem benyújtásakor tervezi, hogy a támogatási kérelem benyújtásától a beruházás befejezésétől számított második év végéig a támogatási kérelemmel érintett tevékenységgel azonos vagy hasonló tevékenységet szüntet meg az EGT,
+
+k)[^48] a kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás esetén vállalkozásonként és beruházási projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
+
+l)[^49] a kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás esetén vállalkozásonként meghaladja a 2 millió eurónak megfelelő forintösszeget,
+
+m)[^50] képzési támogatás esetén képzési projektenként meghaladja a 2 millió eurónak megfelelő forintösszeget,
+
+n)[^51] a kultúrát és a kulturális örökség megőrzését előmozdító
+
+i. beruházási támogatás esetében meghaladja a projektenként 100 millió eurónak megfelelő forintösszeget;
+
+ii. működési támogatás esetében meghaladja a vállalkozásonként évente 50 millió eurónak megfelelő forintösszeget.
+
+[^45]: A 6. §-t a 39/2016. (IX. 20.) NFM rendelet 12. § b) pontja hatályon kívül helyezte.
+[^46]: A 7. § i) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
+[^47]: A 7. § j) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
+[^48]: A 7. § k) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
+[^49]: A 7. § l) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
+[^50]: A 7. § m) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.
+[^51]: A 7. § n) pontját a 39/2016. (IX. 20.) NFM rendelet 5. §-a iktatta be.

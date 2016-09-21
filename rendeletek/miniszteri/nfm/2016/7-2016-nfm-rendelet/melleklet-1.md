@@ -1,6 +1,5 @@
-## 46. §[^1]
+## hatálya alá tartozó támogatást tartalmaz.
 
-1. melléklet a 7/2016. (IV. 8.) NFM rendelethez[^2]
+1. melléklet a 7/2016. (IV. 8.) NFM rendelethez[^64]
 
-[^1]: A 46. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 1. melléklet a 15/2016. (V. 27.) NFM rendelet 1. §-a szerint módosított szöveg.
+[^64]: Az 1. melléklet a 15/2016. (V. 27.) NFM rendelet 1. §-a, a 39/2016. (IX. 20.) NFM rendelet 13. §-a szerint módosított szöveg.

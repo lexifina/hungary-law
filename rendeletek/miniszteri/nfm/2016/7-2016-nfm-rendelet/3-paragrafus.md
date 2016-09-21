@@ -1,4 +1,4 @@
-## 3. § Az e rendeletben szereplő, az EUMSz 107. cikk (1) bekezdése szerinti állami támogatás esetében az 1. melléklet
+## 3. §[^1] Az e rendeletben szereplő, az EUMSz 107. cikk (1) bekezdése szerinti állami támogatás esetében az 1. melléklet
 
 a) 5. sora alapján az Európai Bizottságnak a Győr-Gönyű Országos Közforgalmú Kikötő fejlesztését engedélyező, SA.38478 (2014/N) sz. határozata szerinti támogatás,
 
@@ -36,80 +36,102 @@ gb) közszolgáltatásért járó ellentételezés,
 
 gc) csekély összegű támogatás,
 
-h) 24. sora alapján
+h) 23a. sora alapján
 
-ha) csekély összegű támogatás,
+ha) regionális beruházási támogatás,
 
-hb) mezőgazdasági csekély összegű támogatás,
+hb) kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás,
 
-i) 26. sor a) és d)–f) pontja alapján
+hc) kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás,
 
-ia) csekély összegű közszolgáltatási támogatás,
+hd) induló vállalkozásnak nyújtott támogatás,
 
-ib) közszolgáltatásért járó ellentételezés,
+he) képzési támogatás,
 
-j) 31. sor
+hf) kultúrát és a kulturális örökség megőrzését előmozdító támogatás,
 
-ja) 2. pont a)–k) alpontja alapján csekély összegű támogatás,
+hg) a 2012/21/EU bizottsági határozat szerinti közszolgáltatásért járó ellentételezéshez nyújtott támogatás,
 
-jb) 2. pont a)–k) alpontja alapján induló vállalkozásnak nyújtott támogatás,
+hh) a mezőgazdasági csekély összegű támogatás,
 
-jc) 2. pont b), c) és g) alpontja alapján uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás,
+hi) csekély összegű támogatás,
 
-jd) 2. pont b), c) és g) alpontja alapján jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás,
+hj) tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás,
 
-je) 2. pont b) és c) alpontja alapján energiahatékonysági intézkedéshez nyújtott beruházási támogatás,
+hk) tanácsadási szolgáltatásokhoz nyújtott támogatás,
 
-jf) 2. pont a) alpontja alapján megújuló energia termeléséhez nyújtott beruházási támogatás,
+hl) mezőgazdasági termékekkel kapcsolatos promóciós intézkedésekhez nyújtott támogatás,
 
-jg) 2. pont a)–c) és f) alpontja alapján energetikai célú infrastruktúrához nyújtott beruházási támogatás,
+i) 24. sora alapján
 
-jh) 2. pont a)–c) és g) alpontja alapján a c)–g) alpont szerinti támogatási kategóriával támogatott beruházáshoz közvetlenül kapcsolódó, környezetvédelmi tanulmányhoz nyújtott támogatás,
+ia) csekély összegű támogatás,
 
-ji) 2. pont a), f), h), i) és j) alpontja alapján
+ib) mezőgazdasági csekély összegű támogatás,
 
-jia) kutatás-fejlesztési projektekhez nyújtott támogatás,
+j) 26. sor a) és d)–f) pontja alapján
 
-jib) kutatási infrastruktúrához nyújtott támogatás,
+ja) csekély összegű közszolgáltatási támogatás,
 
-jic) kis- és középvállalkozásnak nyújtott innovációs támogatás,
+jb) közszolgáltatásért járó ellentételezés,
 
-jj) 2. pont g) alpontja alapján személyszállítási közszolgáltatásért járó ellentételezés,
+k) 31. sor
 
-jk) 2. pont e) alpontja alapján a kezdeményezések tartalmától függően és a vonatkozó európai uniós jogszabályok előírásainak betartása mellett a k) pontban meghatározott valamennyi támogatási kategória,
+ka) 2. pont a)–k) alpontja alapján csekély összegű támogatás,
 
-k) 49–53., 56., 63–65., 91–105., 107., 111–122. sora alapján
+kb) 2. pont a)–k) alpontja alapján induló vállalkozásnak nyújtott támogatás,
 
-ka) csekély összegű támogatás,
+kc) 2. pont b), c) és g) alpontja alapján uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás,
 
-kb) sportlétesítményhez és multifunkcionális szabadidő létesítményhez nyújtott támogatás,
+kd) 2. pont b), c) és g) alpontja alapján jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás,
 
-l) 73. sora alapján
+ke) 2. pont b) és c) alpontja alapján energiahatékonysági intézkedéshez nyújtott beruházási támogatás,
 
-la) csekély összegű közszolgáltatási támogatás,
+kf) 2. pont a) alpontja alapján megújuló energia termeléséhez nyújtott beruházási támogatás,
 
-lb) közszolgáltatásért járó ellentételezés,
+kg) 2. pont a)–c) és f) alpontja alapján energetikai célú infrastruktúrához nyújtott beruházási támogatás,
 
-lc) csekély összegű támogatás,
+kh) 2. pont a)–c) és g) alpontja alapján a c)–g) alpont szerinti támogatási kategóriával támogatott beruházáshoz közvetlenül kapcsolódó, környezetvédelmi tanulmányhoz nyújtott támogatás,
 
-ld) személyszállítási közszolgáltatásért járó ellentételezés,
+ki) 2. pont a), f), h), i) és j) alpontja alapján kutatás-fejlesztési projektekhez nyújtott támogatás, kutatási infrastruktúrához nyújtott támogatás, kis- és középvállalkozásnak nyújtott innovációs támogatás,
 
-m) 76., 80. és 81. sora alapján kulturális célú támogatás,
+kj) 2. pont g) alpontja alapján személyszállítási közszolgáltatásért járó ellentételezés,
 
-n) 84. sor 1. pont a)–i) alpontja alapján csekély összegű támogatás,
+kk) 2. pont e) alpontja alapján a kezdeményezések tartalmától függően és a vonatkozó európai uniós jogszabályok előírásainak betartása mellett a k) pontban meghatározott valamennyi támogatási kategória,
 
-o) 87. sor
+l) 49–53., 56., 63–65., 91–105., 107., 111–122. sora alapján
 
-oa) 1. pont a)–i) alpontja alapján csekély összegű támogatás,
+la) csekély összegű támogatás,
 
-ob) 1. pont a), b), d) és e) alpontja alapján energiahatékonysági intézkedéshez nyújtott beruházási támogatás,
+lb) sportlétesítményhez és multifunkcionális szabadidő létesítményhez nyújtott támogatás,
 
-oc) 1. pont b) alpontja alapján megújuló energia termeléséhez nyújtott beruházási támogatás,
+m) 73. sora alapján
 
-od) 1. pont c) alpontja alapján az energiahatékony távfűtéshez és távhűtéshez nyújtott beruházási támogatás,
+ma) csekély összegű közszolgáltatási támogatás,
 
-oe) 1. pont g) alpontja alapján az uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás, valamint személyszállítási közszolgáltatásért járó ellentételezés,
+mb) közszolgáltatásért járó ellentételezés,
 
-of) 1. pont g) alpontja alapján személyszállítási közszolgáltatásért járó ellentételezés,
+mc) csekély összegű támogatás,
 
-p) 90. sora alapján a kezdeményezések tartalmától függően és a vonatkozó európai uniós jogszabályok előírásainak betartása mellett az a)–o) pontban meghatározott valamennyi támogatási kategória
+md) személyszállítási közszolgáltatásért járó ellentételezés,
+
+n) 76., 80. és 81. sora alapján kulturális célú támogatás,
+
+o) 84. sor 1. pont a)–i) alpontja alapján csekély összegű támogatás,
+
+p) 87. sor
+
+pa) 1. pont a)–i) alpontja alapján csekély összegű támogatás,
+
+pb) 1. pont a), b), d) és e) alpontja alapján energiahatékonysági intézkedéshez nyújtott beruházási támogatás,
+
+pc) 1. pont b) alpontja alapján megújuló energia termeléséhez nyújtott beruházási támogatás,
+
+pd) 1. pont c) alpontja alapján az energiahatékony távfűtéshez és távhűtéshez nyújtott beruházási támogatás,
+
+pe) 1. pont g) alpontja alapján az uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás, valamint személyszállítási közszolgáltatásért járó ellentételezés,
+
+pf) 1. pont g) alpontja alapján személyszállítási közszolgáltatásért járó ellentételezés,
+
+q) 90. sora alapján a kezdeményezések tartalmától függően és a vonatkozó európai uniós jogszabályok előírásainak betartása mellett az a)–p) pontban meghatározott valamennyi támogatási kategória
+
+[^1]: A 3. § a 39/2016. (IX. 20.) NFM rendelet 1. §-ával megállapított szöveg.
