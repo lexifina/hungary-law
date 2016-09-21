@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-10-20-0
 | 2015-05-31 | 2015-10-20-06.2 | 2010: CXXX. törvény |
 | 2015-11-20 | 2015-10-20-06.3 | 36/2015. (XI. 19.) IM rendelet |
 | 2016-03-05 | 2015-10-20-06.4 | 36/2015. (XI. 19.) IM rendelet |
+| 2016-09-21 | 2015-10-20-06.5 | 36/2015. (XI. 19.) IM rendelet |
