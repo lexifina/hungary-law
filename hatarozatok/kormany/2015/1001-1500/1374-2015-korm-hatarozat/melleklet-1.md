@@ -10,7 +10,7 @@
 
 ## Felelős: nemzeti fejlesztési miniszter
 
-## Határidő: 2015. szeptember 30.
+## Határidő: 2016. szeptember 30.[^1]
 
 1. melléklet az 1374/2015. (VI. 9.) Korm. határozathoz
 
@@ -65,3 +65,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határidő az 1514/2016. (IX. 22.) Korm. határozat 2. pontjával megállapítva.
