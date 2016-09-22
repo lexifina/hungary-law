@@ -548,6 +548,26 @@ A műszaki-biztonságtechnikai vizsgálatok a kivitelezés részét képezik. C�
 
 5.1.2.11. Atomerőmű létesítése alkalmával a nukleáris biztonságtechnikára vonatkozó jogszabály előírásait is figyelembe kell venni.
 
+5.1.2.12.[^5] Szélerőművek létesítése során betartandó kiegészítő előírások
+
+5.1.2.12.1. Egy szélturbina toronyba legfeljebb 2,0 MW-os villamos termelőegység építhető be.
+
+5.1.2.12.2. A szélturbina föld feletti magasságát úgy kell meghatározni, hogy az ne zavarja a légi közlekedést, valamint a föld feletti rádiófrekvenciás távközlési, hírközlési, honvédelmi célú hálózatokat, és mértéke nem haladhatja meg a 100 m-t.
+
+5.1.2.12.3. Az 50 kW-nál nagyobb névleges teljesítményű szélturbinalapát hosszát úgy kell meghatározni, hogy működés közben a földfelszínt 50 m-nél jobban ne közelítse meg.
+
+5.1.2.12.4. A szélturbinalapát kerületi (lapátvég) sebességét úgy kell meghatározni, hogy ne veszélyeztesse a szabadon élő repülő madárfajokat, a repülésbiztonságot, és mértéke nem haladhatja meg a 60 m/s-t.
+
+5.1.2.12.5. A szélturbinának 25 m/s szélsebesség felett biztonsági leállást kell végeznie.
+
+5.1.2.12.6. A szélturbina zajterhelése 1,5 m-re a terepszint felett nem haladhatja meg a villamosművek, valamint a termelői, magán- és közvetlen vezetékek biztonsági övezetéről szóló miniszteri rendeletben meghatározott biztonsági övezeten belül a 60 dB-t, a biztonsági övezeten kívül a 40 dB-t.
+
+5.1.2.12.7. Az 5–25 MW közötti névleges teljesítményű szélerőmű park csatlakozási pontját az átviteli vagy elosztóhálózati alállomás középfeszültségű gyűjtősínjén kell kialakítani.
+
+5.1.2.12.8. A 25 MW feletti névleges teljesítményű szélerőmű park csatlakozási pontját az átviteli vagy elosztóhálózati alállomás nagyfeszültségű gyűjtősínjén kell kialakítani.
+
+5.1.2.12.9. Az 50 kW-nál nagyobb névleges teljesítményű szélerőmű villámvédelmének legalább a norma szerinti villámvédelem LPS II villámvédelmi fokozatát ki kell elégítenie.
+
 5.1.3. Üzembe helyezés
 
 5.1.3.1. Alapelvek
@@ -839,3 +859,5 @@ d) a villamosműre vonatkozó belső szabályzatokat.
 5.3.4.2. Engedélyhez kötött megszüntetés esetében a tervben szereplő elbontási időütemezés alapján, de legalább negyedévenként, az elvégzett munkákról tájékoztatni kell az engedélyező hatóságot.
 
 5.3.4.3. A megszüntetési tervben szereplő munkák befejezésekor a maradó létesítmények, technológiák figyelembevételével a végállapot ismertetését tartalmazó dokumentumokat el kell készíteni – beleértve a jogi rendelkezéseket is –, a megszüntetést engedélyező hatóságnak be kell nyújtani és dokumentálni kell.
+
+[^5]: A Melléklet 5. „Villamosmű és berendezéseinek létesítése, üzemeltetése és megszüntetése” alcím 5.1. pont 5.1.2. alpont 5.1.2.12. pontját (5.1.2.12.1.–5.1.2.12.9. alpont) a 34/2016. (IX. 14.) NGM rendelet 1. §-a iktatta be.
