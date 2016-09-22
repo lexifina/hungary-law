@@ -1,4 +1,4 @@
-## 21–22. §[^1]
+## 21–22. §[^2]
 
 1. melléklet a 2/2013. (I. 22.) NGM rendelethez
 
@@ -84,4 +84,4 @@ c) a vontatót és a mozgásképtelen járművet össze kell kapcsolni,
 
 d) közvetlenül a vontatás előtt szabad az összekötő vezetőt – bármilyen sorrendben – eltávolítani, majd a mozgásképtelen jármű földelését a 7. pont d) alpontjának előírásai szerint kell lebontani; ezután a vontatót és a mozgásképtelen járművet földön állva megérinteni és azokról leszállni, azokra felszállni nem szabad.
 
-[^1]: A 21–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 21–22. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
