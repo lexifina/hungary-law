@@ -36,11 +36,11 @@
 
 ## 0150 Vegyes gazdálkodás
 
-3. melléklet a 77/2015. (XII. 1.) FM rendelethez[^7]
+3. melléklet a 77/2015. (XII. 1.) FM rendelethez[^8]
 
 Kamat- és költségmentességben részesülő települések listája
 
-Bács-Kiskun megye (74)
+Bács-Kiskun megye (75)
 
 Ágasegyháza
 
@@ -73,6 +73,8 @@ Csengőd
 Csikéria
 
 Csólyospálos
+
+Dávod
 
 Dunapataj
 
@@ -190,7 +192,7 @@ Tompa
 
 Városföld
 
-Baranya megye (35)
+Baranya megye (36)
 
 Almamellék
 
@@ -250,6 +252,8 @@ Szászvár
 
 Szava
 
+Szederkény
+
 Szigetvár
 
 Túrony
@@ -292,7 +296,7 @@ Nagykamarás
 
 Szarvas
 
-Borsod-Abaúj-Zemplén megye (24)
+Borsod-Abaúj-Zemplén megye (42)
 
 Alsóberecki
 
@@ -302,11 +306,23 @@ Arka
 
 Baktakék
 
+Bekecs
+
 Berzék
+
+Bodroghalom
+
+Bodrogkeresztúr
+
+Bodrogkisfalud
+
+Bodrogolaszi
 
 Boldogkőváralja
 
 Borsodgeszt
+
+Borsodivánka
 
 Cigánd
 
@@ -322,15 +338,37 @@ Györgytarló
 
 Harsány
 
+Karos
+
+Legyesbénye
+
+Mád
+
 Mezőnyárád
+
+Mezőzombor
 
 Nagyrozvágy
 
 Pálháza
 
+Rátka
+
+Ricse
+
+Sárazsadány
+
+Sárospatak
+
 Sátoraljaújhely
 
 Szakácsi
+
+Szegi
+
+Szegilong
+
+Szerencs
 
 Tállya
 
@@ -338,11 +376,13 @@ Tarcal
 
 Tokaj
 
+Tolcsva
+
 Zemplénagárd
 
 Zsujta
 
-Csongrád megye (21)
+Csongrád megye (22)
 
 Apátfalva
 
@@ -356,9 +396,11 @@ Csongrád
 
 Eperjes
 
-Hódmezővásárhely
+Felgyő
 
 Forráskút
+
+Hódmezővásárhely
 
 Mórahalom
 
@@ -386,7 +428,7 @@ Zákányszék
 
 Zsombó
 
-Fejér megye (19)
+Fejér megye (23)
 
 Aba
 
@@ -412,9 +454,17 @@ Mór
 
 Pákozd
 
+Pázmánd
+
 Pusztaszabolcs
 
 Pusztavám
+
+Seregélyes
+
+Söréd
+
+Szabadhídvég
 
 Tabajd
 
@@ -426,7 +476,7 @@ Vereb
 
 Zámoly
 
-Győr-Moson-Sopron megye (51)
+Győr-Moson-Sopron megye (52)
 
 Abda
 
@@ -485,6 +535,8 @@ Kópháza
 Koroncó
 
 Lövő
+
+Mihályi
 
 Mórichida
 
@@ -574,7 +626,7 @@ Téglás
 
 Tiszagyulaháza
 
-Heves megye (12)
+Heves megye (15)
 
 Atkár
 
@@ -590,17 +642,23 @@ Gyöngyössolymos
 
 Gyöngyöstarján
 
+Halmajugra
+
 Hatvan
 
 Heves
 
 Maklár
 
+Markaz
+
 Nagyréde
 
 Szűcsi
 
-Jász-Nagykun-Szolnok megye (18)
+Vécs
+
+Jász-Nagykun-Szolnok megye (22)
 
 Alattyán
 
@@ -618,6 +676,8 @@ Jászberény
 
 Jászdózsa
 
+Jászfelsőszentgyörgy
+
 Jászjákóhalma
 
 Jászszentandrás
@@ -626,7 +686,11 @@ Jásztelek
 
 Kengyel
 
+Kunszentmárton
+
 Nagykörű
+
+Nagyrév
 
 Szajol
 
@@ -635,6 +699,8 @@ Szolnok
 Tiszajenő
 
 Tiszakürt
+
+Tiszasas
 
 Törökszentmiklós
 
@@ -872,7 +938,9 @@ Verseg
 
 Zsámbék
 
-Somogy megye (59)
+Somogy megye (60)
+
+Ádánd
 
 Balatonberény
 
@@ -992,7 +1060,7 @@ Visnye
 
 Visz
 
-Szabolcs-Szatmár-Bereg megye (199)
+Szabolcs-Szatmár-Bereg megye (202)
 
 Ajak
 
@@ -1276,6 +1344,8 @@ Penyige
 
 Petneháza
 
+Piricse
+
 Pócspetri
 
 Porcsalma
@@ -1348,6 +1418,8 @@ Tiszanagyfalu
 
 Tiszaszentmárton
 
+Tiszatelek
+
 Tiszavasvári
 
 Tisztaberek
@@ -1367,6 +1439,8 @@ Tyukod
 Ura
 
 Uszka
+
+Újdombrád
 
 Újfehértó
 
@@ -1392,7 +1466,7 @@ Zsarolyán
 
 Zsurk
 
-Tolna megye (23)
+Tolna megye (27)
 
 Alsónyék
 
@@ -1410,6 +1484,8 @@ Dunaföldvár
 
 Dúzs
 
+Felsőnyék
+
 Györe
 
 Györköny
@@ -1422,9 +1498,15 @@ Lengyel
 
 Madocsa
 
+Magyarkeszi
+
 Mőcsény
 
 Mucsfa
+
+Nagyszokoly
+
+Ozora
 
 Őcsény
 
@@ -1532,11 +1614,13 @@ Vép
 
 Vönöck
 
-Veszprém megye (57)
+Veszprém megye (70)
 
 Adorjánháza
 
 Ajka
+
+Alsóörs
 
 Aszófő
 
@@ -1548,13 +1632,21 @@ Balatonakali
 
 Balatonederics
 
+Balatonfüred
+
+Balatonkenese
+
 Balatonrendes
 
 Balatonszőlős
 
+Balatonudvari
+
 Béb
 
 Csabrendek
+
+Csopak
 
 Dabrony
 
@@ -1564,11 +1656,17 @@ Dörgicse
 
 Egeralja
 
+Felsőörs
+
 Gyulakeszi
+
+Hegyesd
 
 Hegymagas
 
 Homokbödöge
+
+Kapolcs
 
 Káptalantóti
 
@@ -1592,6 +1690,10 @@ Lesencetomaj
 
 Litér
 
+Lovas
+
+Mencshely
+
 Mindszentkálla
 
 Monostorapáti
@@ -1608,7 +1710,11 @@ Nemesgulács
 
 Nemesvita
 
+Örvényes
+
 Ősi
+
+Paloznak
 
 Pápa
 
@@ -1642,13 +1748,15 @@ Tüskevár
 
 Várkesző
 
+Vászoly
+
 Vigántpetend
 
 Zalahaláp
 
 Zánka
 
-Zala megye (66)
+Zala megye (68)
 
 Alsószenterzsébet
 
@@ -1688,9 +1796,13 @@ Gelse
 
 Gutorfölde
 
+Kehidakustány
+
 Keszthely
 
 Kilimán
+
+Kisgörbő
 
 Kiskutas
 
@@ -1782,4 +1894,4 @@ Zalaszántó
 
 Zalaszentgrót
 
-[^7]: A 3. mellékletet az 51/2016. (VII. 21.) FM rendelet 31. §-a iktatta be.
+[^8]: A 3. mellékletet az 51/2016. (VII. 21.) FM rendelet 31. §-a iktatta be, szövege a 65/2016. (IX. 21.) FM rendelet 34. §-ával megállapított szöveg.
