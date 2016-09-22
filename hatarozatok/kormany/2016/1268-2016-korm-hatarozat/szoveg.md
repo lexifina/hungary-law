@@ -10,6 +10,8 @@ c) megvizsgálásra kerül az önkormányzati szerephez vagy önkormányzati tul
 
 d) megvizsgálásra kerül a magántulajdonban lévő ipari parkok helyzete, a működésükben betölthető állami szerepvállalás kérdése;
 
+e)[^1] megvizsgálásra kerül a Modern Városok Programon kívüli, egyes kijelölt településeken, az állam által támogatott, vagy a NIPÜF Zrt. által üzleti szempontból támogatott ipari fejlesztési projektek megvalósításával kapcsolatos feladatok ellátása
+
 2. felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján, a NIPÜF Nemzeti Ipari Park Üzemeltető és Fejlesztő Zártkörűen Működő Részvénytársaság (a továbbiakban: NIPÜF Zrt.) bevonásával gondoskodjon az 1. pont szerinti feladatok végrehajtásáról és az 1. pontban megjelölt célok eléréséhez szükséges intézkedések megtételéről;
 
 Felelős: nemzeti fejlesztési miniszter
@@ -101,3 +103,5 @@ Határidő: az a) pont tekintetében: azonnal
 a b) pont tekintetében: folyamatos
 
 a c) pont tekintetében: a projektek megvalósulását követően folyamatos
+
+[^1]: Az 1. § e) pontját az 1515/2016. (IX. 22.) Korm. határozat 4. pontja iktatta be.
