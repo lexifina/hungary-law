@@ -1,0 +1,1 @@
+## 39. § A 30/2016. (IV. 29.) FM rendelet 6. § (4) bekezdésében az „a felhívásban” szövegrész helyébe az „az egyedi támogatási kérelem benyújtásáról szóló felhívásban (a továbbiakban: felhívás)” szöveg lép.

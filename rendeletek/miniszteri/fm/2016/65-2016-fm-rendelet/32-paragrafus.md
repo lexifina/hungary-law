@@ -1,0 +1,1 @@
+## „(4) A támogatási jogosultság 16. § (1) bekezdése szerinti átruházása esetén az MVH a 16. § (2) bekezdése szerinti átvezetési kérelemről szóló döntésben rendelkezik a támogatási jogosultságot átvevő dohánytermelőnek a szerkezetátalakítási programban való részvételi jogosultságáról.”

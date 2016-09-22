@@ -1,0 +1,9 @@
+## 26. § A pénzügyi fegyelem alkalmazásából eredő visszatérítésről szóló 51/2015. (IX. 7.) FM rendelet [a továbbiakban: 51/2015. (IX. 7.) FM rendelet] 1. § 1–3. pontja helyébe a következő rendelkezések lépnek:
+
+## (E rendelet alkalmazásában:)
+
+## „1. közvetlen támogatás: a közös agrárpolitika keretébe tartozó, mezőgazdasági termelők részére meghatározott közvetlen támogatási rendszerek közös szabályainak megállapításáról és a mezőgazdasági termelők részére meghatározott egyes támogatási rendszerek létrehozásáról, az 1290/2005/EK, a 247/2006/EK és a 378/2007/EK rendelet módosításáról, valamint az 1782/2003/EK rendelet hatályon kívül helyezéséről szóló, 2009. január 19-i 73/2009/EK tanácsi rendelet (a továbbiakban: 73/2009/EK tanácsi rendelet) 1. mellékletében, valamint a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1307/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1307/2013/EU parlamenti és tanácsi rendelet) 1. mellékletében nevesített közvetlen támogatási jogcímek;
+
+## 2. pénzügyi fegyelem: a 73/2009/EK tanácsi rendelet 11. cikkében, az 1307/2013/EU parlamenti és tanácsi rendelet 8. cikkében, valamint a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK, a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet 26. cikkében meghatározott kiigazítás;
+
+## 3. tagállami keret: a 2015/2094/EU bizottsági végrehajtási rendelet mellékletében meghatározott összeg;”
