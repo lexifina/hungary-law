@@ -1,0 +1,9 @@
+# 1512/2016. (IX. 22.) Korm. határozat
+
+az Egyetemes Postaegyesület (Universal Postal Union) 26. Kongresszusára kialakított tárgyalási álláspontról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1512-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-09-22 | 2016-1512-30-22.1 | 1512/2016. (IX. 22.) Korm. határozat |

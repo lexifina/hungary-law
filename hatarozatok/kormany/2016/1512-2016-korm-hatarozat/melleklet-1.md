@@ -1,0 +1,29 @@
+## 1. felhatalmazza a postaügyért és a nemzeti pénzügyi szolgáltatásokért felelős kormánybiztost vagy az általa kijelölt személyt, hogy az Egyetemes Postaegyesület (Universal Postal Union, a továbbiakban: UPU) 26. Kongresszusának záró okiratát kézjegyével lássa el;
+
+## 2. jóváhagyja az 1. mellékletben meghatározott tárgyalási álláspontot és ennek tekintetében felhatalmazza a magyar küldöttséget Magyarország érdekeinek képviseletére.
+
+1. melléklet az 1512/2016. (IX. 22.) Korm. határozathoz
+
+## Tárgyalási álláspont az UPU 26. Kongresszusán részt vevő magyar küldöttség tevékenységéhez
+
+## Az UPU 26. Kongresszusán (2016. szeptember 20. – október 7.) a magyar küldöttség az alábbi tárgyalási álláspontokban javasoltak lehetőség szerinti támogatásával, összhangban a Kormány általános politikájának céljaival és feladataival, valamint az Európai Unió prioritásaival, a magyar nemzeti érdekeket és a közös euro-atlanti értékeket egyidejűleg érvényesítve igyekszik tevékenységét kifejteni.
+
+1. Az UPU stratégiája az elkövetkező 4 évre
+
+Javasolt UPU által előkészített „Isztambuli Postastratégia” támogatása, mely ezen három kitűzött cél eléréséhez vezető útvonaltervet tartalmazza: a hálózati infrastruktúra interoperabilitásának javítása, fenntartható és modern termékek biztosítása és a piaci hatékonyság erősítése. E három stratégiai szempont következetes alkalmazása megfelelő lehetőséget ad valamennyi tagállam számára, hogy javítsa a gyors piaci változásokhoz való alkalmazkodási képességét oly módon, hogy az elektronikus kereskedelem globális piacán a nemzetközi együttműködések erősítésével mind a jelentős mértékben átalakuló piaci igényeknek, mind pedig a fenntarthatóságot megkövetelő belső strukturális változásoknak meg tudjon felelni a nemzetközi postahálózat.
+
+2. Az UPU hatékonyabb működésére vonatkozó javaslatok
+
+Javasolt az UPU reformjának támogatása annak érdekében, hogy a hatékonyan elkülönüljenek az eddig keveredő szabályozási és operatív feladatok. Az európai posták támogatását élvező megoldás támogatása javasolt, mely felválthatja az Okiratokban jelenleg szereplő megoldást, mely „tagállami adminisztráció”-ra vonatkozóan határoz meg feladatokat. Támogatandó cél, hogy a kormányzati, szabályozási témák a „tagország”, a működési, operatív, műszaki, kereskedelmi témák a „kijelölt szolgáltató” feladatkörébe tartozzanak.
+
+3. Az adatvédelmi kérdések
+
+Javasolt támogatni azon pontosításokat, melyek az uniós adatvédelmi szabályozással konform módon rögzítik a postai szolgáltatók adatvédelmi felelősségeit
+
+4. A postaforgalom biztonsági kérdései
+
+A biztonsági kockázatok csökkentése érdekében javasolt a nemzetközi postaforgalomból kizárt tárgyak listájának felülvizsgálata és a lista megfelelő bővítésének támogatása, továbbá ehhez kapcsolódóan a feladók felelőssége megfelelő pontosításának támogatása.
+
+5. A panaszkezelési folyamatok pontosítása
+
+A panaszkezelésre vonatkozó nemzetközi együttműködés során alkalmazandó szabályokat érintő módosítások közül javasolt támogatni az uniós és hazai szabályoknak megfelelő változtatásokat.
