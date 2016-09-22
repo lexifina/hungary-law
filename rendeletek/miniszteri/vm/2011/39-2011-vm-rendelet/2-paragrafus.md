@@ -24,7 +24,7 @@ d) a mezőgazdasági vállalkozások likviditási problémáinak áthidalása.
 
 (2) Az (1) bekezdésben meghatározott célok elérése érdekében az Agrár Széchenyi Kártya Folyószámlahitelhez (a továbbiakban: Folyószámlahitel) támogatás vehető igénybe.
 
-(3)[^12] Az Agrár Széchenyi Kártya Konstrukciók igénybevevői köre, egyúttal a támogatás címzettjei azon – az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet I. mellékletében meghatározott kis- és középvállalkozás kritériumoknak megfelelő – vállalkozások, valamint azon természetes személyek (a továbbiakban együtt: mezőgazdasági vállalkozás), akik (amelyek)
+(3)[^11] Az Agrár Széchenyi Kártya Konstrukciók igénybevevői köre, egyúttal a támogatás címzettjei azon – az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és az erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet I. mellékletében meghatározott kis- és középvállalkozás kritériumoknak megfelelő – vállalkozások, valamint azon természetes személyek (a továbbiakban együtt: mezőgazdasági vállalkozás), akik (amelyek)
 
 a) az (1) bekezdés a) pont aa)–ae) alpontja szerinti tevékenységet végeznek, és
 
@@ -36,21 +36,21 @@ a) kamattámogatás és
 
 b) kezességi díjtámogatás
 
-c)[^13] költségtámogatás.
+c)[^12] költségtámogatás.
 
-(5)[^14] Az Agrár Széchenyi Kártya Konstrukciókhoz kezességvállaló intézmény kezessége kapcsolódik. Ha a kezességi díjtámogatásra a mezőgazdasági vállalkozásnak nincs szabad csekély összegű támogatási kerete, az Agrár Széchenyi Kártya Konstrukciók kezességi díjtámogatás nélkül is nyújthatóak.
+(5)[^13] Az Agrár Széchenyi Kártya Konstrukciókhoz kezességvállaló intézmény kezessége kapcsolódik. Ha a kezességi díjtámogatásra a mezőgazdasági vállalkozásnak nincs szabad csekély összegű támogatási kerete, az Agrár Széchenyi Kártya Konstrukciók kezességi díjtámogatás nélkül is nyújthatóak.
 
-(6)[^15] A támogatástartalom kiszámítása a Korm. rendelet 2. számú mellékletében foglaltak alapján történik azzal, hogy a támogatástartalom forint összegének kiszámításánál az igénylés benyújtásának időpontjában érvényes adatokat kell figyelembe venni, továbbá a (8a) bekezdés szerinti támogatás megállapításának időpontjában hatályos hitelszerződés esetén kizárólag a támogatásnövekményt kell figyelembe venni.
+(6)[^14] A támogatástartalom kiszámítása a Korm. rendelet 2. számú mellékletében foglaltak alapján történik azzal, hogy a támogatástartalom forint összegének kiszámításánál az igénylés benyújtásának időpontjában érvényes adatokat kell figyelembe venni, továbbá a (8a) bekezdés szerinti támogatás megállapításának időpontjában hatályos hitelszerződés esetén kizárólag a támogatásnövekményt kell figyelembe venni.
 
-(7)[^16] A (4) bekezdésben meghatározott támogatások azon Folyószámlahitel esetén vehetők igénybe, amelynek összege százezer forint pozitív egész számú többszöröse, de minimum ötszázezer forint, maximum 50 millió forint, és futamideje legfeljebb 3 év.
+(7)[^15] A (4) bekezdésben meghatározott támogatások azon Folyószámlahitel esetén vehetők igénybe, amelynek összege százezer forint pozitív egész számú többszöröse, de minimum ötszázezer forint, maximum 50 millió forint, és futamideje legfeljebb 3 év.
 
-(8)[^17] A támogatás mértéke – kivéve a (8a) bekezdésben foglalt eseteket –
+(8)[^16] A támogatás mértéke – kivéve a (8a) bekezdésben foglalt eseteket –
 
 a) évi 4 százalékpontnyi kamattámogatás, valamint
 
 b) a hitelhez nyújtott kezességi díj 50%-áig terjedő támogatás azzal, hogy a támogatás nem haladhatja meg a kezességi díj vetítési alapjának 0,75%-át.
 
-(8a)[^18] A kedvezőtlen időjárás miatt szükségessé váló támogatásokról és az azokkal összefüggő miniszteri rendeletek módosításáról szóló 77/2015. (XII. 1.) FM rendeletnek [a továbbiakban: 77/2015. (XII. 1.) FM rendelet]
+(8a)[^17] A kedvezőtlen időjárás miatt szükségessé váló támogatásokról és az azokkal összefüggő miniszteri rendeletek módosításáról szóló 77/2015. (XII. 1.) FM rendeletnek [a továbbiakban: 77/2015. (XII. 1.) FM rendelet]
 
 a) az 1. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen a 77/2015. (XII. 1.) FM rendelet 2. mellékletében meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő és legkésőbb 2016. június 30-áig hatályba lépett hitelszerződéssel rendelkező mezőgazdasági vállalkozás esetében a támogatás mértéke
 
@@ -72,18 +72,18 @@ bc) az 51/2016. (VII. 21.) FM rendelet hatálybalépése és 2016. november 30. 
 
 bd) az 51/2016. (VII. 21.) FM rendelet hatálybalépését megelőzően hatályba lépett hitelszerződések esetében az 51/2016. (VII. 21.) FM rendelet hatálybalépését követően esedékessé váló, a fedezetek egy alkalommal történő értékbecslésének költsége, az egyszeri közjegyzői díj, a hitel hátralévő futamideje alatt esedékes bírálati díj, a különdíj együttes összegének 100%-ára, valamint a ba) alpontban meghatározott szabályok szerint kiszámított kezelési költség 100%-ára vonatkozó költségtámogatás.
 
-(8b)[^19] A (8a) bekezdés a) pont ac) és ad) alpontjában, valamint a (8a) bekezdés b) pont bc) és bd) alpontjában foglalt költségtámogatás általános forgalmi adó (a továbbiakban: ÁFA) levonási joggal rendelkezők esetén a költség nettó összegére, ÁFA-levonási joggal nem rendelkezők esetén a költség bruttó összegére vonatkozik.
+(8b)[^18] A (8a) bekezdés a) pont ac) és ad) alpontjában, valamint a (8a) bekezdés b) pont bc) és bd) alpontjában foglalt költségtámogatás általános forgalmi adó (a továbbiakban: ÁFA) levonási joggal rendelkezők esetén a költség nettó összegére, ÁFA-levonási joggal nem rendelkezők esetén a költség bruttó összegére vonatkozik.
 
-(8c)[^20] A (8a) bekezdés a) pont ac) és ad) alpontjában, valamint a (8a) bekezdés b) pont bc) és bd) alpontjában foglalt költségtámogatás esetén – a kezelési költségtámogatás kivételével – a támogatás összegét a támogatási kérelem benyújtását megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.
+(8c)[^19] A (8a) bekezdés a) pont ac) és ad) alpontjában, valamint a (8a) bekezdés b) pont bc) és bd) alpontjában foglalt költségtámogatás esetén – a kezelési költségtámogatás kivételével – a támogatás összegét a támogatási kérelem benyújtását megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam alapján kell euróban meghatározni.
 
 (9) Az Agrár Széchenyi Kártya Konstrukciók keretében létrejött ügylet támogatástartalmának kimutatásakor a de minimis támogatás összegének euróra történő átszámításakor az igénylőlap benyújtásának hónapját megelőző hónap utolsó napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyamot kell alkalmazni.
 
-[^12]: A 2. § (3) bekezdése a 49/2015. (VIII. 12.) FM rendelet 14. § (5) bekezdése szerint módosított szöveg.
-[^13]: A 2. § (4) bekezdés c) pontját a 77/2015. (XII. 1.) FM rendelet 13. § (2) bekezdése iktatta be.
-[^14]: A 2. § (5) bekezdése a 49/2015. (VIII. 12.) FM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^15]: A 2. § (6) bekezdése a 77/2015. (XII. 1.) FM rendelet 13. § (3) bekezdésével megállapított szöveg.
-[^16]: A 2. § (7) bekezdése a 49/2015. (VIII. 12.) FM rendelet 14. § (2) bekezdésével megállapított szöveg.
-[^17]: A 2. § (8) bekezdése a 25/2016. (IV. 11.) FM rendelet 20. §-ával megállapított szöveg.
-[^18]: A 2. § (8a) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 6. §-ával megállapított szöveg.
-[^19]: A 2. § (8b) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 6. §-ával megállapított szöveg.
-[^20]: A 2. § (8c) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 6. §-ával megállapított szöveg.
+[^11]: A 2. § (3) bekezdése a 49/2015. (VIII. 12.) FM rendelet 14. § (5) bekezdése szerint módosított szöveg.
+[^12]: A 2. § (4) bekezdés c) pontját a 77/2015. (XII. 1.) FM rendelet 13. § (2) bekezdése iktatta be.
+[^13]: A 2. § (5) bekezdése a 49/2015. (VIII. 12.) FM rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^14]: A 2. § (6) bekezdése a 77/2015. (XII. 1.) FM rendelet 13. § (3) bekezdésével megállapított szöveg.
+[^15]: A 2. § (7) bekezdése a 49/2015. (VIII. 12.) FM rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^16]: A 2. § (8) bekezdése a 25/2016. (IV. 11.) FM rendelet 20. §-ával megállapított szöveg.
+[^17]: A 2. § (8a) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 6. §-ával megállapított szöveg.
+[^18]: A 2. § (8b) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 6. §-ával megállapított szöveg.
+[^19]: A 2. § (8c) bekezdését a 77/2015. (XII. 1.) FM rendelet 13. § (4) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 6. §-ával megállapított szöveg.
