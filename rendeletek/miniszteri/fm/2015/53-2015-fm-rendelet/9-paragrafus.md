@@ -6,8 +6,8 @@
 
 (2) Ha a dohánytermelő és a vele együttműködő termelő támogatási kérelme együtt magasabb számú támogatási jogosultság igénybevételére vonatkozik, mint a 4. § (1) bekezdés c) és d) pontja szerinti szerkezetátalakítási programban előírt követelményeknek megfelelő támogatási jogosultságok száma, akkor a különbséggel először az együttműködő termelő vagy termelők 13. § (2) bekezdése szerint figyelembe vehető területeit kell arányosan csökkenteni.
 
-(3)[^3] A támogatási kérelemhez csatolni kell a 13. § (4) bekezdése és a 14. § (3), (8) és (12) bekezdése szerinti dokumentumokat. A támogatási kérelemben meg kell jelölni, hogy a dohánytermelő és a vele együttműködő termelő külön-külön hány támogatási jogosultság figyelembevételével igényel csekély összegű támogatást azzal, hogy mezőgazdasági csekély összegű támogatás igénybevétele esetén dohánytermelőnként legfeljebb öt szerkezetátalakítási támogatási jogosultság állapítható meg.
+(3)[^5] A támogatási kérelemhez csatolni kell a 13. § (4) bekezdése és a 14. § (3), (8) és (12) bekezdése szerinti dokumentumokat. A támogatási kérelemben meg kell jelölni, hogy a dohánytermelő és a vele együttműködő termelő külön-külön hány támogatási jogosultság figyelembevételével igényel csekély összegű támogatást azzal, hogy mezőgazdasági csekély összegű támogatás igénybevétele esetén dohánytermelőnként legfeljebb öt szerkezetátalakítási támogatási jogosultság állapítható meg.
 
 (4) A támogatási kérelemmel kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatalának napjától számított tíz évig meg kell őrizni.
 
-[^3]: A 9. § (3) bekezdése a 4/2016. (I. 20.) FM rendelet 29. § a) pontja szerint módosított szöveg.
+[^5]: A 9. § (3) bekezdése a 4/2016. (I. 20.) FM rendelet 29. § a) pontja szerint módosított szöveg.

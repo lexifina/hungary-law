@@ -8,7 +8,7 @@
 
 (5) A természetes szárítású dohány esetében az (1)–(4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a dohányszárító működési költségei alatt a felhasznált tüzelőanyag helyett a számlával igazoltan megvásárolt természetes alapanyagú fűzőzsineg felhasználását kell érteni (hektáronként 7x2 kilogrammos keresztorsó).
 
-(6)[^5] Az energiával fűtött dohányszárítónként vagy az (5) bekezdés szerinti dohányszárítók falugazdász által igazolt minden 400 légköbmétere után az igényelhető általános csekély összegű támogatás legmagasabb összege
+(6)[^7] Az energiával fűtött dohányszárítónként vagy az (5) bekezdés szerinti dohányszárítók falugazdász által igazolt minden 400 légköbmétere után az igényelhető általános csekély összegű támogatás legmagasabb összege
 
 a) 1,5 millió Ft – a 2015. évet követően benyújtott támogatási kérelmek esetében 1 559 300 Ft –,
 
@@ -30,4 +30,4 @@ c) ha a támogatás összege – a támogatáshalmozódási szabályokra is figy
 
 (13) A (6) bekezdés szerinti, támogatásra rendelkezésre álló összeg a 13. § (1) bekezdése szerint megállapított, összes mezőgazdasági csekély összegű támogatás levonása után a 12. §-ban meghatározott keretösszegből fennmaradó összeg. Ha a (6) bekezdés szerint kifizethető összes általános csekély összegű támogatás meghaladja a rendelkezésre álló összeget, akkor a támogatás mértékét minden dohánytermelő vonatkozásában arányos csökkentéssel kell megállapítani.
 
-[^5]: A 14. § (6) bekezdése a 25/2016. (IV. 11.) FM rendelet 68. §-ával megállapított szöveg.
+[^7]: A 14. § (6) bekezdése a 25/2016. (IV. 11.) FM rendelet 68. §-ával megállapított szöveg.
