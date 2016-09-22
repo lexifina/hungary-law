@@ -25,3 +25,7 @@ g) Burley-dohány termesztésének támogatása,
 h) Virginia-dohány termesztésének támogatása,
 
 (2) Az (1) bekezdés a), b), d), f), g) és h) pontja szerinti jogcímek alapján termeléstől elválasztott támogatás, az (1) bekezdés c), e) pontja szerinti jogcímek alapján termeléshez kötött támogatás vehető igénybe.
+
+(2a)[^4] A 7. § (1) bekezdés c) és e) pontja szerinti támogatási jogcím vonatkozásában kérelmezett állatokra és a tenyészetekre vonatkozó adminisztratív ellenőrzés során kizárólag azon adatok tekinthetőek a támogatás szempontjából elfogadhatónak, és támogatás csak azon adatok figyelembevételével állapítható meg, amelyek az ENAR nyilvántartásba a támogatási kérelem benyújtási időszakának végéig – figyelemmel a juh- és kecskefélék egyedeinek Egységes Nyilvántartási és Azonosítási Rendszeréről szóló miniszteri rendelet (a továbbiakban: Juh ENAR rendelet), a szarvasmarha-fajok egyedeinek jelöléséről, valamint az Egységes Nyilvántartási és Azonosítási Rendszeréről szóló miniszteri rendelet (a továbbiakban: Szarvasmarha ENAR rendelet) szerinti bejelentési határidőkre is – bejelentésre kerültek és az ENAR nyilvántartásban szerepelnek. A birtokon tartási idő alatt történő ellés, termékenyítés és kiesés-pótlás esetében a birtokon tartási időszak lejártát követő, legfeljebb tizenöt napon belül bejelentett és nyilvántartott adatok fogadhatóak el.
+
+[^4]: A 7. § (2a) bekezdését a 65/2016. (IX. 21.) FM rendelet 18. §-a iktatta be.
