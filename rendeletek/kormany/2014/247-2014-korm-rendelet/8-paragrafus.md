@@ -1,4 +1,4 @@
-8. §[^9] (1) Az érintett szervezet köteles a Hivatal által meghatározott útmutató alapján az 1. mellékletben meghatározott kommunikációs szolgáltatásokra vonatkozó
+8. §[^10] (1) Az érintett szervezet köteles a Hivatal által meghatározott útmutató alapján az 1. mellékletben meghatározott kommunikációs szolgáltatásokra vonatkozó
 
 a) éves összesített beszerzési tervet és szponzorációs költségkerettervet a tárgyévet megelőző év december 15. napjáig,
 
@@ -14,4 +14,4 @@ e) szponzorációra irányuló igényét a megvalósítás megkezdését megelő
 
 (2) Amennyiben a Hivatal a rendkívüli sürgősségű eljárást az eset összes körülményei alapján nem tartja indokoltnak, a beszerzési igényt elutasítja. Az elutasítás nem akadálya a beszerzési igény (1) bekezdés a)–c) pontjai szerinti ismételt előterjesztésének.
 
-[^9]: A 8. § a 189/2016. (VII. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^10]: A 8. § a 189/2016. (VII. 13.) Korm. rendelet 6. §-ával megállapított szöveg.

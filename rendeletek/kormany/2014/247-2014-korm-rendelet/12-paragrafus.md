@@ -1,4 +1,4 @@
-## 5. [^21] Beszerzésre és szponzorációra vonatkozó igények
+## 5. [^22] Beszerzésre és szponzorációra vonatkozó igények
 
 12. § (1) Az érintett szervezet köteles a Hivatal részére a Nemzeti Kommunikációs Hivatal Központosított Közbeszerzési Portálján keresztül jóváhagyásra megküldeni a beszerzési igényét a beszerzési eljárás megkezdését megelőzően legalább 10 nappal. A Hivatalhoz kizárólag olyan beszerzésre vonatkozóan nyújtható be igény, amely az éves összesített beszerzési tervben és a negyedéves beszerzési tervben is szerepel, továbbá amelynek megvalósításához a Hivatal a 9. § (4) bekezdés a)–c) pontjai szerint hozzájárult.
 
@@ -30,4 +30,4 @@ c) a beszerzés összes körülménye alapján a Hivatal elnöke indokoltnak lá
 
 (7) Az érintett szervezetnek a megvalósítani kívánt beszerzés becsült értékét a Kbt. becsült értékre vonatkozó rendelkezéseire figyelemmel kell megállapítania.
 
-[^21]: Az 5. alcím (12–13. §) a 189/2016. (VII. 13.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^22]: Az 5. alcím (12–13. §) a 189/2016. (VII. 13.) Korm. rendelet 9. §-ával megállapított szöveg.

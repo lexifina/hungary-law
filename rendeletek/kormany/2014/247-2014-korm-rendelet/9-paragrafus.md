@@ -1,4 +1,4 @@
-9. §[^10] (1) Az érintett szervezet köteles a negyedéves beszerzési tervét a tárgyi negyedévet megelőző hónap 15. napjáig a Hivatal részére a Nemzeti Kommunikációs Hivatal Központosított Közbeszerzési Portálján keresztül jóváhagyásra megküldeni. Az adott negyedéves beszerzési tervben kizárólag olyan beszerzés szerepelhet, amelyet az éves összesített beszerzési terv is tartalmaz.
+9. §[^11] (1) Az érintett szervezet köteles a negyedéves beszerzési tervét a tárgyi negyedévet megelőző hónap 15. napjáig a Hivatal részére a Nemzeti Kommunikációs Hivatal Központosított Közbeszerzési Portálján keresztül jóváhagyásra megküldeni. Az adott negyedéves beszerzési tervben kizárólag olyan beszerzés szerepelhet, amelyet az éves összesített beszerzési terv is tartalmaz.
 
 (2) A Hivatal a negyedéves beszerzési terv beérkezését követő 15 napon belül dönt az adott kormányzati kommunikációs feladat megvalósíthatóságáról, és annak a kormányzati kommunikációs irányokkal való összhangjáról. A határidőbe nem számít bele a (4) bekezdés e) pontja szerinti hiánypótlás időtartama.
 
@@ -20,4 +20,4 @@ e) határidő tűzésével további információkat kér.
 
 (6) Ha az elbírált negyedéves beszerzési tervben szereplő valamely beszerzés adataiban változás áll be, azt a Hivatal részére haladéktalanul meg kell küldeni jóváhagyásra a Nemzeti Kommunikációs Hivatal Központosított Közbeszerzési Portálján keresztül. Az érintett szervezet a beszerzést a Hivatal megváltozott adatokra vonatkozó – a (2) és (3) bekezdés szerinti határidőben történő – (4) bekezdés a)–c) pontjai szerinti hozzájárulását követően valósíthatja meg.
 
-[^10]: A 9. § a 189/2016. (VII. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^11]: A 9. § a 189/2016. (VII. 13.) Korm. rendelet 7. §-ával megállapított szöveg.
