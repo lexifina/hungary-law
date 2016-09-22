@@ -1,146 +1,10 @@
-## 1. A referencia-időszak három évének meghatározása:
+4. melléklet a 27/2014. (XI. 25.) FM rendelethez[^35]
 
-## A referencia-időszak három éve: a tárgyévet megelőző ötéves időszakból a legmagasabb és a legalacsonyabb hozammal rendelkező kettő év elhagyásával képzett három év.
-
-## Amennyiben a legmagasabb vagy a legalacsonyabb hozam két vagy több évben előfordul, úgy a mezőgazdasági termelőnek nyilatkoznia kell arról, hogy a referencia-időszak azonos hozamú éveiből melyiket tekinti a legalacsonyabb vagy a legmagasabb hozamú évnek.
-
-| A növénykultúra hozama adott évben (t/ha) = | a növénykultúra adott évben megtermelt termésmennyisége (t) |
-
-| a növénykultúra adott évi területe (ha) |
-
-## Azokban az években, amelyekben a termelő nem termesztette az adott növénykultúrát, a növénykultúra adott évi hozamánál az Mkk. tv. 2. § 2a. pontja szerinti átlaghozamot kell feltüntetni.
-
-## 2. A referenciahozam kiszámítása
-
-## A referenciahozam: a referencia-időszak 1. pont szerint meghatározott három évére számított hozamok számtani átlaga.
-
-| referenciahozam (t/ha) = | hozam1 (t/ha) + hozam2 (t/ha) + hozam3 (t/ha); |
-
-| 3 |
-
-## ahol hozamn = hozam a referencia időszak n. évében (t/ha)
-
-## n= 1, 2, 3.
-
-## A referenciahozamot termesztett növénykultúránként külön-külön kell megállapítani.
-
-## 3. A referencia-átlagár kiszámítása
-
-## Referencia-átlagár: A referencia-időszak 1. pont szerint meghatározott három évében meghirdetett referenciaárak számtani átlaga.
-
-| referencia-átlagár (Ft/t) = | referenciaár1 (Ft/t) + referenciaár2 (Ft/t) + referenciaár3 (Ft/t) |
-
-| 3 |
-
-## ahol a referenciaárn = meghirdetett referenciaár a referencia időszak n. évében (Ft/t);
-
-## n=1, 2, 3.
-
-## Azon növénykultúrák esetében, amelyeknél ársáv közzétételére is sor kerül, a mezőgazdasági termelő a közzétett referenciaár helyett az adott kárenyhítési év értékesítéseinek számlával igazolt ár adatait jogosult felhasználni, amennyiben ezen ár adat a közzétett ársávba esik.
-
-## A referencia-átlagárat termesztett növénykultúránként külön-külön kell megállapítani.
-
-## 4. A kárenyhítő juttatás összegének meghatározása
-
-|  | A növénykultúra tárgyévi hozamértéke (Ft) | = | a növénykultúra tárgyévi vetésterülete (ha) | x | a növénykultúra tárgyévi hozama (t/ha) | x | a növénykultúra tárgyévi referenciaára (Ft/t) | , |
-
-## ahol azon növénykultúrák esetében, amelyeknél a tárgyévben ársáv közzétételére is sor kerül, a mezőgazdasági termelő a közzétett tárgyévi referenciaár helyett a tárgyév értékesítéseinek számlával igazolt ár adatait jogosult felhasználni, amennyiben ezen ár adat a közzétett ársávba esik.
-
-|  | A növénykultúra referencia hozamértéke (Ft) | = | a növénykultúra tárgyévi vetésterülete (ha) | x | a növénykultúra referenciahozama (t/ha) | x | a növénykultúra referencia-átlagára (Ft/t) |
-
-|  | A növénykultúra hozamérték- csökkenése (Ft) | = | a növénykultúra referencia hozamértéke (Ft) | – | a növénykultúra tárgyévi hozamértéke (Ft) |  |  |
-
-|  | Az üzemi szinten számított tárgyévi hozamérték (Ft) | = | az egyes növénykultúrák tárgyévi hozamértékeinek összege (Ft) |
-
-|  | Az üzemi szinten számított referencia hozamérték (Ft) | = | az egyes növénykultúrák referencia hozamértékeinek összege (Ft) |
-
-|  | Az üzemi szinten számított hozamérték-csökkenés (Ft) | = | Az üzemi szinten számított referencia hozamérték (Ft) | – | Az üzemi szinten számított tárgyévi hozamérték (Ft) |  |  |
-
-|  | Az üzemi szinten számított hozamérték- csökkenés mértéke (%) | = | az üzemi szinten számított hozamérték-csökkenés (Ft) | x100 |
-
-| az üzemi szinten számított referencia hozamérték (Ft) |
-
-## A növénykultúrára számított kárenyhítő juttatás maximális összege:
-
-|  | A növénykultúrára számított kárenyhítő juttatás maximális összege (Ft) | = | 0,8 x |  | a növénykultúra hozamérték- csökkenése (Ft) | – | a növénykultúra hozamérték- csökkenéséből levonásra kerülő tételek (Ft) |  |
-
-## Amennyiben egy növénykultúra hozamérték-csökkenése negatív vagy a növénykultúra elemi káreseménnyel nem érintett, úgy a kárenyhítő juttatás összegének meghatározásakor a növénykultúra számított kárenyhítő juttatás összegénél nullával kell számolni.
-
-## Az üzemi szinten számított kárenyhítő juttatás maximális összege
-
-## a) az Mkk. tv. 11. § (5) bekezdése szerinti mezőgazdasági biztosítás megléte esetén:
-
-|  | Az üzemi szinten számított kárenyhítő juttatás maximális összege (Ft) | = ∑ | a növénykultúrára számított kárenyhítő juttatás maximális összege (Ft) | – | a biztosító által a kárenyhítő juttatás iránti kérelemben szereplő káresemény miatt kifizetett kártérítés összege (Ft) |
-
-## b) az Mkk. tv. 11. § (5) bekezdése szerinti mezőgazdasági biztosítás hiányában:
-
-|  | Az üzemi szinten számított kárenyhítő juttatás maximális összege (Ft) | = ∑ | a növénykultúrára számított kárenyhítő juttatás maximális összege (Ft) | ÷ | 2 |  |  |
-
-## A növénykultúra hozamérték-csökkenéséből levonásra kerülő tételek:
-
-## 1. a hozamcsökkenés miatt keletkezett költségmegtakarítás összege,
-
-## 2. az egyes szántóföldi növénykultúrák tekintetében a mezőgazdasági káresemény miatti teljes kipusztulás vagy ki nem kelés esetén fennálló hozamcsökkenés miatt keletkezett költségmegtakarítás összege, és
-
-## 3. földbérlet esetén a 12. § (3) bekezdésben meghatározott bérleti díjcsökkenés összege.
-
-## 1. Hozamcsökkenés miatt keletkezett költségmegtakarítás összege:
-
-|  | Hozamcsökkenés miatt keletkezett költségmegtakarítás összege (Ft) | = | a növénykultúra tárgyévi vetésterülete (ha) | x | a növénykultúra hozamcsökkenése (t/ha) | x | a növény- csoportonként meghatározott fajlagos költség- megtakarítás (Ft/t) | , |
-
-## ahol
-
-|  | A növénykultúra hozamcsökkenése (t/ha) | = | a növénykultúra referencia hozama (t/ha) | – | növénykultúra tárgyévi hozama (t/ha) | , |  |
-
-## a növénycsoportonként meghatározott költségmegtakarítás (Ft/t):
-
-## - szántóföldi növények 1 t terméscsökkenése esetén 3240,00 Ft,
-
-## - szántóföldi zöldségek 1 t terméscsökkenése esetén 2990,00 Ft,
-
-## - gyümölcsfélék 1 t terméscsökkenése esetén 1940,00 Ft,
-
-## - szőlő 1 t terméscsökkenése esetén 7350,00 Ft.
-
-|  | A növénykultúra terméscsökkenése (t) | = | a növénykultúra tárgyévi vetésterülete (ha) | x | a növénykultúra hozamcsökkenése (t/ha) | , |  |
-
-## 2. A lent felsorolt szántóföldi növénykultúrák mezőgazdasági káresemény miatti korai teljes kipusztulása vagy ki nem kelése esetén fennálló hozamcsökkenés miatt keletkezett költségmegtakarítás összege:
-
-|  | Korai teljes kipusztulás, vagy ki nem kelés miatt keletkezett költségmegtakarítás összege (Ft) | = | a növénykultúra kipusztult/ki nem kelt területe (ha) | x | a növénykultúránként maghatározott fajlagos költség-megtakarítás (Ft/ha) | , |  |
-
-## ahol a növénykultúránként meghatározott fajlagos költségmegtakarítás (Ft/ha):
-
-## – őszi káposztarepce: 102 829 Ft/ha,
-
-## – őszi búza: 91 697 Ft/ha,
-
-## – őszi árpa: 80 084 Ft/ha,
-
-## – zab: 73 281 Ft/ha,
-
-## – triticale: 70 320 Ft/ha,
-
-## – rozs: 55 724 Ft/ha.
-
-## A fenti rendelkezést kell alkalmazni abban az esetben, ha a felsorolt szántóföldi növénykultúrák korai teljes kipusztulását vagy ki nem kelését jelzi az a tény, hogy az adott növénykultúra tárgyévi hozama nulla.
-
-## 3. Földbérlet esetén a bérleti díjcsökkenés összege
-
-|  | Bérleti díjcsökkenés összege (Ft) | = | a növénykultúra tárgyévi vetésterülete (ha) | x | [piaci bérleti díj (Ft/ha) – kedvezményes bérleti díj (Ft/ha)] |
-
-4. melléklet a 27/2014. (XI. 25.) FM rendelethez
-
-Jóváhagyta:
-
-…...…….
-
-miniszter
-
-Kifizetési terv (20... február ….-i állapot szerint, forintban) Keltezés:…...
+| Jóváhagyta: ............................. miniszter Kifizetési terv (20... . február … -i állapot szerint, forintban) Keltezés: … . |
 
 | 1. Az adott kárenyhítési évben keletkezett kárigényekre és a kapcsolódó tervezett kifizetésre vonatkozó információk |
 
-| 1.1. | A mezőgazdasági termelőknél a 12. § (1) bekezdés szerinti hozamérték-csökkenés agrárkár-megállapító szerv által ellenőrzött és igazolt, országosan összesített összege |  |
+| 1.1. | A mezőgazdasági termelőknél a 9. § (3) bekezdés b) pontjának és a 12. § (1) bekezdésnek megfelelő hozamérték-csökkenés agrárkár-megállapító szerv által ellenőrzött és igazolt, országosan összesített összege |  |
 
 | 1.2. | A mezőgazdasági termelőknél a termés betakarításához kapcsolódó ráfordítás-csökkenés, valamint az Mkk. tv. 22. §-ában meghatározott haszonbér-mérséklésből eredő bérleti díjcsökkenés országosan összesített összege |  |
 
@@ -152,25 +16,25 @@ Kifizetési terv (20... február ….-i állapot szerint, forintban) Keltezés:�
 
 | 1.6. | Az Mkk. tv. 11. § (5) bekezdése szerinti mezőgazdasági biztosítással rendelkező termelők részére az agrárkár-enyhítési szerv által jogosnak megállapított kárenyhítő juttatás országosan összesített összege |  |
 
-| 1.7. | Az Mkk. tv. 11.§ (5) bekezdése szerinti mezőgazdasági biztosítással nem rendelkező termelők részére az agrárkár-enyhítési szerv által jogosnak megállapított kárenyhítő juttatás országosan összesített összege |  |
+| 1.7. | Az Mkk. tv. 11. § (5) bekezdése szerinti mezőgazdasági biztosítással nem rendelkező termelők részére az agrárkár-enyhítési szerv által jogosnak megállapított kárenyhítő juttatás országosan összesített összege |  |
 
 | 1.8. | A mezőgazdasági termelők által igényelt kárenyhítő juttatás agrárkár-megállapító szerv által ellenőrzött, és az agrárkár-enyhítési szerv által jogosnak megállapított, kifizetni javasolt országosan összesített összege |  |
 
 | 1.9. | Az adott kárenyhítési év kárenyhítési eljárásának felfüggesztett ügyeihez kapcsolódó kárenyhítő juttatás országosan összesített összege (az 1.8. pont szerinti összegen belül) |  |
 
-| 2. A tárgyévet követő év Nemzeti agrárkárenyhítés előirányzatának információi |
+| 2. A tárgyévet követő év Nemzeti agrárkár-enyhítés előirányzatának információi |
 
-| 2.1. | A Nemzeti agrárkárenyhítés előirányzat tárgyév december 31-i egyenlege |  |
+| 2.1. | A Nemzeti agrárkár-enyhítés előirányzat tárgyév december 31-i egyenlege |  |
 
 | 2.2. | A mindenkori költségvetési törvény alapján a tárgyévet követő évre megállapított költségvetési támogatás összege |  |
 
-| 2.3. | A Kormány egyedi döntése alapján a központi költségvetésből nyújtott, tárgyévet követő évre megállapított többlettámogatás összege (Mkk. tv. 7. § (1) bekezdés d) pont) |  |
+| 2.3. | A Kormány egyedi döntése alapján a központi költségvetésből nyújtott, tárgyévet követő évre megállapított többlettámogatás összege [Mkk. tv. 7. § (1) bekezdés d) pont] |  |
 
 | 2.4. | Fennálló fizetési kötelezettség alapján a termelők által befizetett, behajtott, illetve kompenzáció útján beszedett összegek, (beleértve a jogosulatlan igénybevétel miatti visszakövetelést is) a tárgyévet követő év január 1-től a kifizetési terv elkészítésének időpontjáig |  |
 
-| 2.5. | A kifizetési terv elkészítésének időpontjáig lezárult, az adott kárenyhítési évet megelőző kárenyhítési évek jogorvoslati eljárásainak kifizetett összege, valamint egyéb áthúzódó kifizetéseinek összege a tárgyévet követő év január 1-től a kifizetési terv elkészítésének időpontjáig (Mkk. tv. 15. § (4) bekezdés a) és b) pont) |  |
+| 2.5. | A kifizetési terv elkészítésének időpontjáig lezárult, az adott kárenyhítési évet megelőző kárenyhítési évek jogorvoslati eljárásainak kifizetett összege, valamint egyéb áthúzódó kifizetéseinek összege a tárgyévet követő év január 1-től a kifizetési terv elkészítésének időpontjáig [Mkk. tv. 15. § (4) bekezdés a) és b) pont] |  |
 
-| 2.6. | Működési és fejlesztési célokra a miniszter által, a tárgyévet követő évben jóváhagyott összeg (a termelői befizetések és az állami hozzájárulás összegének max. 4%-a, Mkk. tv. 7. § (6) bekezdés) |  |
+| 2.6. | Működési és fejlesztési célokra a miniszter által, a tárgyévet követő évben jóváhagyott összeg [a termelői befizetések és az állami hozzájárulás összegének max. 4%-a, Mkk. tv. 7. § (6) bekezdés] |  |
 
 | 2.7. | A kifizetési terv elkészítésének időpontjáig le nem zárult és ki nem fizetett, az adott kárenyhítési évet megelőző kárenyhítési évek jogorvoslati eljárásaiban és egyéb folyamatban lévő eljárásaiban foglalt tételek összege |  |
 
@@ -226,14 +90,26 @@ Kifizetési terv (20... február ….-i állapot szerint, forintban) Keltezés:�
 
 | 3.22. | Kifizetéssel érintett, az Mkk. tv. 11. § (5) bekezdése szerinti mezőgazdasági biztosítással rendelkező termelők száma (fő) |  |
 
-| 3.23. | Kifizetéssel érintett, az Mkk. tv. 11.§ (5) bekezdése szerinti mezőgazdasági biztosítással nem rendelkező termelők száma (fő) |  |
+| 3.23. | Kifizetéssel érintett, az Mkk. tv. 11. § (5) bekezdése szerinti mezőgazdasági biztosítással nem rendelkező termelők száma (fő) |  |
 
 | 3.24. | Kifizetéssel érintett, mikro-, kis- és középvállalkozásnak (KKV) minősülő mezőgazdasági termelők száma (fő) *** |  |
 
 | 3.25. | Kifizetéssel érintett, nagyvállalkozásnak minősülő mezőgazdasági termelők száma (fő) *** |  |
+
+| 3.26. | Kifizetéssel érintett területek nagysága összesen (ha)**** |  |
+
+| 3.27. | Kifizetéssel érintett, ültetvény művelésére szolgáló területek nagysága összesen (ha) |  |
+
+| 3.28. | Kifizetéssel érintett, szántóföldi zöldség termesztésére szolgáló területek nagysága összesen (ha) |  |
+
+| 3.29. | Kifizetéssel érintett, 3.28. ponttól eltérő szántóföldi növénykultúra művelésére szolgáló területek nagysága összesen (ha) |  |
 
 * A jogorvoslati- és az egyéb folyamatban lévő eljárások kifizetésének ütemezéséhez igazodó évközi forráslehívás alapján kerül átadásra.
 
 ** A kifizetésre javasolt kárenyhítő juttatás összegét az egyes elemi káresemények szerinti bontásban a kérelmen belüli arányosítással kell kimutatni.
 
 *** A mikro-, kis- és középvállalkozás (KKV) méretkategóriába nem eső mezőgazdasági termelő nagyvállalkozásnak minősül.
+
+**** A kifizetéssel érintett területek nagyságát az egyes növénycsoportok szerinti bontásban a kérelmen belüli arányosítással kell kimutatni.
+
+[^35]: A 4. melléklet a 65/2016. (IX. 21.) FM rendelet 16. § (2) bekezdésével megállapított szöveg.

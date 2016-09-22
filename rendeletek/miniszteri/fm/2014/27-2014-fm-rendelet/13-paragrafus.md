@@ -2,7 +2,7 @@
 
 13. § (1) Az agrárkár-enyhítési szerv a mezőgazdasági kockázatkezelési adatbázisában rögzíti a kárenyhítési hozzájárulás befizetésére vonatkozó kötelezettségeket, a befizetési kötelezettségek teljesítését, valamint – az agrárkár-megállapító szerv által kiállított dokumentumok alapján a hozzá a tárgyévet követő év január 31-ig beérkezett adatok figyelembevételével – vizsgálja a kárenyhítő juttatás iránti kérelmek jogosságát, a kérelmek adatait feldolgozza, azokról adatállományt készít.
 
-(2) Az agrárkár-enyhítési szerv az (1) bekezdés szerinti adatállomány, valamint a miniszternek a 20/05/10/00 Nemzeti agrárkárenyhítés előirányzatra vonatkozó tájékoztatása alapján a jogos kárenyhítő juttatás iránti igények teljesítésére a 4. melléklet szerinti kifizetési tervet készít. A kifizetési terv részét képezi a kárenyhítési lebonyolítási számla felhasználásának tárgyév december 31-i állapotát tükröző éves elszámolás. Az agrárkár-enyhítési szerv a kifizetési tervet a tárgyévet követő év február 28-áig a miniszter és az agrárkár-enyhítési szerv közötti külön megállapodás szerinti adattartalommal megküldi a miniszter részére.
+(2)[^30] Az agrárkár-enyhítési szerv az (1) bekezdés szerinti adatállomány, valamint a miniszternek a 20/05/10/00 Nemzeti agrárkár-enyhítés előirányzatra vonatkozó tájékoztatása alapján a jogos kárenyhítő juttatás iránti igények teljesítésére a 4. melléklet szerinti kifizetési tervet készít. A kifizetési terv részét képezi a kárenyhítési lebonyolítási számla felhasználásának tárgyév december 31-i állapotát tükröző éves elszámolás. Az agrárkár-enyhítési szerv a kifizetési tervet a tárgyévet követő év február 28-áig a miniszter és az agrárkár-enyhítési szerv közötti külön megállapodás szerinti adattartalommal megküldi a miniszter részére.
 
 (3) A miniszter a (2) bekezdésben foglaltak szerint összeállított és előterjesztett kifizetési tervet – egyetértése esetén – jóváhagyja, és a kifizetési terv jóváhagyásáról tájékoztatja az agrárkár-enyhítési szervet, valamint a mezőgazdasági igazgatási szervet.
 
@@ -23,3 +23,5 @@ tükröző évközi elszámolásokat is.
 (8) Kárenyhítő juttatás kifizetésére mezőgazdasági árvízkár és aszálykár vonatkozásában az Mkk. tv. 12. § (5) és (6) bekezdésében meghatározottak alapján van lehetőség.
 
 (9) A mezőgazdasági árvíz vonatkozásában védműnek minősül az OVF által belföldi jogsegély keretében kiadott igazolás alapján az árvizek kártételei elleni védekezéshez szükséges vízilétesítmény is.
+
+[^30]: A 13. § (2) bekezdése a 65/2016. (IX. 21.) FM rendelet 17. § d) pontja szerint módosított szöveg.

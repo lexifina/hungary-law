@@ -1,8 +1,8 @@
 ## 8. A kárenyhítő juttatás összegének megállapítása
 
-12. § (1) A kárenyhítő juttatás összegének 2. melléklet V. pontja és 3. melléklet szerinti megállapítása során kizárólag azon növénykultúrák hozamérték-csökkenése vehető figyelembe, amelyeket – üzemi szinten a növénykultúrában 30%-ot meghaladó mértékű hozamcsökkenést előidéző – elemi káresemény okozott és azt az agrárkár-megállapító szerv igazolta.
+12. § (1)[^28] A kárenyhítő juttatás összegének 2. melléklet V. pontja és 3. melléklet szerinti megállapítása során kizárólag a növénykultúra azon hozamérték-csökkenése vehető figyelembe, amelyeket – üzemi szinten a növénykultúrában 30%-ot meghaladó mértékű hozamcsökkenést előidéző – elemi káresemény okozott és azt az agrárkár-megállapító szerv igazolta.
 
-(2) Nem nyújtható kárenyhítő juttatás, ha az agrárkár-megállapító szerv a 10. § (1) bekezdés szerinti döntésében nem igazolta a 9. § (3) bekezdésben meghatározott mértékű hozamérték-csökkenést.
+(2)[^29] Nem nyújtható kárenyhítő juttatás, ha az agrárkár-megállapító szerv a 10. § (1) bekezdés szerinti döntésében nem igazolta a 9. § (3) bekezdés b) pontjában meghatározott mértékű hozamérték-csökkenést.
 
 (3) A kárenyhítő juttatás összegének 3. melléklet szerinti számítási módszer alapján történő megállapítása során az elemi káresemények folytán lecsökkent termés betakarításához kapcsolódó ráfordítás-csökkenést, az Mkk. tv. 22. §-ában meghatározott haszonbér-mérséklésből eredő bérleti díjcsökkenést le kell vonni a hozamérték-csökkenés összegéből, és a számítás során a 3. melléklet szerinti költségmegtakarítási fajlagos összegeket kell alkalmazni.
 
@@ -11,3 +11,6 @@
 (5) A (4) bekezdés szerinti elszámolható költségnek a növénykultúra elemi káresemény által okozott az (1) és (3) bekezdés alapján számított hozamérték-csökkenése minősül.
 
 (6) A (4) bekezdés szerinti támogatási intenzitás maximumának túllépése esetén a mezőgazdasági termelőt a túllépés összegével megegyező visszafizetési kötelezettség terheli. A túllépés összegét és a visszafizetési kötelezettségre történő felszólítást az agrárkár-enyhítési szerv határozatban közli a mezőgazdasági termelővel.
+
+[^28]: A 12. § (1) bekezdése a 65/2016. (IX. 21.) FM rendelet 17. § b) pontja szerint módosított szöveg.
+[^29]: A 12. § (2) bekezdése a 65/2016. (IX. 21.) FM rendelet 17. § c) pontja szerint módosított szöveg.

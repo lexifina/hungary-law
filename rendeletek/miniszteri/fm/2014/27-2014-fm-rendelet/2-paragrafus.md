@@ -2,7 +2,7 @@
 
 2. § (1) A kárenyhítési hozzájárulás-fizetési kötelezettséget az agrárkár-enyhítési szerv minden évben a tárgyévet megelőző év november 1-jétől tárgyév október 31-ig terjedő kárenyhítési év vonatkozásában állapítja meg.
 
-(2)[^4] Az agrárkár-enyhítési szerv tárgyév július 22-ig határozatban értesíti a mezőgazdasági termelőt kárenyhítési hozzájárulás-fizetési kötelezettségének összegéről.
+(2)[^4] Az agrárkár-enyhítési szerv tárgyév július 15-ig határozatban értesíti a mezőgazdasági termelőt kárenyhítési hozzájárulás-fizetési kötelezettségének összegéről.
 
 (3) A kárenyhítési hozzájárulás-fizetési kötelezettség összege üzemi szinten
 
@@ -18,6 +18,6 @@ figyelembevételével kerül meghatározásra.
 
 (5)[^6] Az agrárkár-enyhítési szerv az Mkk. tv. 18. § (2) bekezdés a), c) és g) pontjában meghatározott adattartalmat tárgyév július 22-ig elektronikus úton elérhetővé teszi az agrárpolitikáért felelős miniszter (a továbbiakban: miniszter) számára.
 
-[^4]: A 2. § (2) bekezdése a 40/2015. (VII. 13.) FM rendeet 7. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdése a 65/2016. (IX. 21.) FM rendelet 17. § a) pontja szerint módosított szöveg.
 [^5]: A 2. § (4) bekezdése a 40/2015. (VII. 13.) FM rendeet 7. § b) pontja szerint módosított szöveg.
 [^6]: A 2. § (5) bekezdése a 40/2015. (VII. 13.) FM rendeet 7. § c) pontja szerint módosított szöveg.
