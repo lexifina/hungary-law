@@ -38,6 +38,8 @@ a) az 1–3. célterület esetében a pályázó legkésőbb a pályázat, a 4. 
 
 b) a pályázó, valamint az egyedi támogatási kérelmet benyújtó ügyfél megfelel az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 50. § (1) bekezdésében meghatározott feltételeknek,
 
-c) a 2. célterület esetében a pályázó megfelel a 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek,
+c)[^3]
 
 d) a 2. célterület esetében a pályázó a pályázat benyújtását megelőző kettő és a folyamatban lévő üzleti évben kapott valamennyi, az általános csekély összegű rendelet hatálya alá tartozó csekély összegű támogatás euróban kifejezett összegéről, a támogatóról, a támogatási vagy egyéb szerződés számáról és a támogatástartalomról szóló határozat számáról, továbbá aki más vállalkozással egy és ugyanazon vállalkozásnak tekinthető, úgy azon vállalkozások adatairól, valamint a naptári évtől eltérő üzleti év alkalmazása esetén az általa alkalmazott üzleti évről, illetve a 37/2011. (III. 22.) Korm. rendelet 11/A. §-ban foglaltakról nyilatkozzon.
+
+[^3]: A 3. § (7) bekezdés c) pontját a 65/2016. (IX. 21.) FM rendelet 40. §-a hatályon kívül helyezte.

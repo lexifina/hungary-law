@@ -96,4 +96,19 @@
 
 47. védett őshonos és veszélyeztetett mezőgazdasági állatfajta: a védett őshonos mezőgazdasági állatfajták és a veszélyeztetett mezőgazdasági állatfajták körének megállapításáról szóló 4/2007. (I. 18.) FVM–KvVM együttes rendelet 1. és 2. számú mellékletében szereplő mezőgazdasági állatfajták;
 
-48. végső kedvezményezett: az a természetes vagy jogi személy, akinél vagy amelynél a támogatásból származó gazdasági előny ténylegesen jelentkezik.
+48. végső kedvezményezett: az a természetes vagy jogi személy, akinél vagy amelynél a támogatásból származó gazdasági előny ténylegesen jelentkezik;
+
+49.[^1] csekély összegű támogatás:
+
+a) a mezőgazdasági csekély összegű rendelet 3. cikke,
+
+b) az általános csekély összegű rendelet 3. cikke, vagy
+
+c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra- ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet (a továbbiakban: halászati bizottsági rendelet) 3. cikke
+
+## alapján nyújtott támogatás;
+
+50.[^2] mezőgazdasági termék: az Európai Unió működéséről szóló szerződés I. mellékletében felsorolt termékek a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-i 1379/2013/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó halászati és akvakultúra-termékek kivételével.
+
+[^1]: Az 1. § 49. pontját a 65/2016. (IX. 21.) FM rendelet 35. §-a iktatta be.
+[^2]: Az 1. § 50. pontját a 65/2016. (IX. 21.) FM rendelet 35. §-a iktatta be.

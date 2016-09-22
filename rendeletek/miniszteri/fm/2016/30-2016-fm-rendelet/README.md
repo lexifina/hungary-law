@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-30-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-04-30 | 2016-30-20-11.1 | 30/2016. (IV. 29.) FM rendelet |
+| 2016-09-22 | 2016-30-20-11.2 | 65/2016. (IX. 21.) FM rendelet |
