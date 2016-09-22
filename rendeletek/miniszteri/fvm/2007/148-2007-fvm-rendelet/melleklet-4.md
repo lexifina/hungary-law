@@ -38,13 +38,13 @@
 
 ## 7.3. A sertés állatfaj (tenyészkoca) esetén a C001 technikai kód alapján történő igényléshez a 4. számú melléklet szerinti adattartalmú, az MVH által rendszeresített és honlapján közzétett nyilatkozat.
 
-## 7.4.[^88] Nyúl állatfaj esetén C001 technikai kód alapján történő igényléshez a Traces bizonyítvány vagy az „Állategészségügyi bizonyítvány a gazdaságból” című nyomtatvány másolata.
+## 7.4.[^94] Nyúl állatfaj esetén C001 technikai kód alapján történő igényléshez a Traces bizonyítvány vagy az „Állategészségügyi bizonyítvány a gazdaságból” című nyomtatvány másolata.
 
 ## 8. A megyei kormányhivatal igazolása a támogatási kérelemben megjelölt engedélyes és kedvezményezett(ek) által az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján meghatározott feltételek teljesítéséről és a támogatási kérelem postai úton történő beküldésének időpontjáról.
 
 ## 9. Keltezés, a kedvezményezett telephelye szerint illetékes megyei kormányhivatal főállatorvosának (cégszerű) aláírása.
 
-4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^89]
+4. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^95]
 
 ## Nyilatkozat az egyes állatbetegségek megelőzésével, illetve leküzdésével kapcsolatos támogatások igénylésének és kifizetésének rendjéről szóló 148/2007. (XII. 8.) FVM rendelet alapján tenyészsertés állományokban lévő tenyészállatok számára vonatkozó igazolás adattartalma
 
@@ -66,10 +66,10 @@
 
 5.2. arról, hogy a kedvezményezett fenti tenyészetkódú telepén lévő tenyészállatok száma megegyezik a valósággal és erről a kedvezményezett és az engedélyes is büntetőjogi felelőssége tudatában nyilatkozik,
 
-5.3.[^90] arról, hogy a nyilatkozathoz kapcsolódó számlán szereplő szolgáltatás teljesítése megtörtént.
+5.3.[^96] arról, hogy a nyilatkozathoz kapcsolódó számlán szereplő szolgáltatás teljesítése megtörtént.
 
 6. Keltezés, a kedvezményezett és az engedélyes aláírása
 
-[^88]: A 3. számú melléklet 7. pont 7.4. alpontját az 51/2016. (VII. 21.) FM rendelet 3. § (2) bekezdése iktatta be.
-[^89]: A 4. számú melléklet a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés d) pontjával megállapított szöveg.
-[^90]: A 4. számú melléklet 5. pont 5.3. alpontja az 51/2016. (VII. 21.) FM rendelet 4. § a) pontja szerint módosított szöveg.
+[^94]: A 3. számú melléklet 7. pont 7.4. alpontját az 51/2016. (VII. 21.) FM rendelet 3. § (2) bekezdése iktatta be.
+[^95]: A 4. számú melléklet a 24/2014. (XI. 6.) FM rendelet 9. § (1) bekezdés d) pontjával megállapított szöveg.
+[^96]: A 4. számú melléklet 5. pont 5.3. alpontja az 51/2016. (VII. 21.) FM rendelet 4. § a) pontja szerint módosított szöveg.

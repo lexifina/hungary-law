@@ -1,6 +1,6 @@
-## A kéknyelv immunizálással kapcsolatos költségek mezőgazdasági csekély összegű támogatásáról[^14]
+## A kéknyelv immunizálással kapcsolatos költségek mezőgazdasági csekély összegű támogatásáról[^16]
 
-3/A. §[^15] (1) A szarvasmarha, juh és a kecske állatállományokat érintő, a kéknyelv betegség terjedésének megelőzésével kapcsolatban 2015. május 1-jétől 2015. július 15-ig teljesített önkéntes vakcinázás (a továbbiakban: kéknyelv immunizálás) költségeihez, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet) alapján, vissza nem térítendő támogatás (a továbbiakban: mezőgazdasági csekély összegű támogatás) vehető igénybe.
+3/A. §[^17] (1) A szarvasmarha, juh és a kecske állatállományokat érintő, a kéknyelv betegség terjedésének megelőzésével kapcsolatban 2015. május 1-jétől 2015. július 15-ig teljesített önkéntes vakcinázás (a továbbiakban: kéknyelv immunizálás) költségeihez, az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet (a továbbiakban: 1408/2013/EU bizottsági rendelet) alapján, vissza nem térítendő támogatás (a továbbiakban: mezőgazdasági csekély összegű támogatás) vehető igénybe.
 
 (2) A mezőgazdasági csekély összegű támogatásra az e §-ban és a 7. §-ban foglaltakat kell alkalmazni.
 
@@ -52,5 +52,5 @@ gd) arról, hogy a kéknyelv betegség terjedésének megelőzésével kapcsolat
 
 (12) A támogatáshoz kapcsolódó iratokat az odaítélést követő 10 évig meg kell őrizni, és a támogatást nyújtó ilyen irányú felhívása esetén a támogatott köteles azokat bemutatni.
 
-[^14]: A 3/A. §-t megelőző alcímet a 40/2015. (VII. 13.) FM rendelet 2. § (4) bekezdése iktatta be.
-[^15]: A 3/A. §-t a 40/2015. (VII. 13.) FM rendelet 2. § (4) bekezdése iktatta be.
+[^16]: A 3/A. §-t megelőző alcímet a 40/2015. (VII. 13.) FM rendelet 2. § (4) bekezdése iktatta be.
+[^17]: A 3/A. §-t a 40/2015. (VII. 13.) FM rendelet 2. § (4) bekezdése iktatta be.

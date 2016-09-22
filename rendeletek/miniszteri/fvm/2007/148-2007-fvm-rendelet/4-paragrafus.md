@@ -1,27 +1,27 @@
 ## Az intézkedésben részt vevők köre
 
-4. § (1)[^16] Támogatott állat-egészségügyi szolgáltatást az a természetes személy vagy jogi személy (a továbbiakban: kedvezményezett) vehet igénybe, aki/amely
+4. § (1)[^18] Támogatott állat-egészségügyi szolgáltatást az a természetes személy vagy jogi személy (a továbbiakban: kedvezményezett) vehet igénybe, aki/amely
 
-a)[^17] megfelel a 702/2014/EU rendelet I. mellékletében megfogalmazott mikro-, kis- és középvállalkozás meghatározásának,
+a)[^19] megfelel a 702/2014/EU rendelet I. mellékletében megfogalmazott mikro-, kis- és középvállalkozás meghatározásának,
 
-b)[^18] rendelkezik a telephelye szerint illetékes megyei kormányhivatal e rendelet szerinti támogatott intézkedésekben való részvételhez szükséges jóváhagyásával.
+b)[^20] rendelkezik a telephelye szerint illetékes megyei kormányhivatal e rendelet szerinti támogatott intézkedésekben való részvételhez szükséges jóváhagyásával.
 
-(2)[^19] A támogatott szolgáltatás elvégzésére és a támogatás igénylésére az az állat-egészségügyi szolgáltatást végző természetes személy, jogi személy, jogi személyiséggel nem rendelkező szervezet (a továbbiakban: engedélyes) jogosult, aki
+(2)[^21] A támogatott szolgáltatás elvégzésére és a támogatás igénylésére az az állat-egészségügyi szolgáltatást végző természetes személy, jogi személy, jogi személyiséggel nem rendelkező szervezet (a továbbiakban: engedélyes) jogosult, aki
 
-a)[^20] külön jogszabály alapján rendelkezik a megyei kormányhivatal, illetve a Magyar Állatorvosi Kamara engedélyével, laboratóriumok esetében akkreditációval vagy jogszabályi felhatalmazással, valamint
+a)[^22] külön jogszabály alapján rendelkezik a megyei kormányhivatal, illetve a Magyar Állatorvosi Kamara engedélyével, laboratóriumok esetében akkreditációval vagy jogszabályi felhatalmazással, valamint
 
 b) nyilatkozik a támogatott állat-egészségügyi szolgáltatás nyújtásával kapcsolatos szakmai, eljárásrendi és tájékoztatási kötelezettségek vállalásáról.
 
-(3)[^21]
+(3)[^23]
 
 (4) A vizsgálathoz szükséges minták vételére kizárólag az e tevékenységre külön jogszabály alapján engedéllyel rendelkező állatorvost, illetve engedélyest lehet igénybe venni.
 
-(5)[^22] Nem nyújtható támogatás olyan kedvezményezett részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatában foglalt feltételeknek nem tett eleget.
+(5)[^24] Nem nyújtható támogatás olyan kedvezményezett részére, amely az Európai Bizottság európai uniós versenyjogi értelemben vett állami támogatás visszafizetésére kötelező határozatában foglalt feltételeknek nem tett eleget.
 
-[^16]: A 4. § (1) bekezdés nyitó szövegrésze a 22/2014. (III. 14.) VM rendelet 53. § b) pontja, a 24/2014. (XI. 6.) FM rendelet 10. § b) pontja szerint módosított szöveg.
-[^17]: A 4. § (1) bekezdés a) pontja a 24/2014. (XI. 6.) FM rendelet 2. §-ával megállapított szöveg.
-[^18]: A 4. § (1) bekezdés b) pontja a 23/2011. (III. 28.) VM rendelet 2. § (1) bekezdésével megállapított, a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés a) pontja szerint módosított szöveg.
-[^19]: A 4. § (2) bekezdése a 23/2011. (III. 28.) VM rendelet 2. § (2) bekezdésével megállapított, a 22/2014. (III. 14.) VM rendelet 53. § b) pontja szerint módosított szöveg.
-[^20]: A 4. § (2) bekezdés a) pontja a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés b) pontja szerint módosított szöveg.
-[^21]: A 4. § (3) bekezdését a 23/2011. (III. 28.) VM rendelet 12. §-a hatályon kívül helyezte.
-[^22]: A 4. § (5) bekezdését a 23/2015. (V. 13.) FM rendelet 5. § (2) bekezdése iktatta be.
+[^18]: A 4. § (1) bekezdés nyitó szövegrésze a 22/2014. (III. 14.) VM rendelet 53. § b) pontja, a 24/2014. (XI. 6.) FM rendelet 10. § b) pontja szerint módosított szöveg.
+[^19]: A 4. § (1) bekezdés a) pontja a 24/2014. (XI. 6.) FM rendelet 2. §-ával megállapított szöveg.
+[^20]: A 4. § (1) bekezdés b) pontja a 23/2011. (III. 28.) VM rendelet 2. § (1) bekezdésével megállapított, a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés a) pontja szerint módosított szöveg.
+[^21]: A 4. § (2) bekezdése a 23/2011. (III. 28.) VM rendelet 2. § (2) bekezdésével megállapított, a 22/2014. (III. 14.) VM rendelet 53. § b) pontja szerint módosított szöveg.
+[^22]: A 4. § (2) bekezdés a) pontja a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés b) pontja szerint módosított szöveg.
+[^23]: A 4. § (3) bekezdését a 23/2011. (III. 28.) VM rendelet 12. §-a hatályon kívül helyezte.
+[^24]: A 4. § (5) bekezdését a 23/2015. (V. 13.) FM rendelet 5. § (2) bekezdése iktatta be.
