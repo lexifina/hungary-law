@@ -12,11 +12,11 @@
 
 3.[^4] igénylőlap: a kezességi díjtámogatás igénybevételére vonatkozó kérelem, ideértve a kedvezőtlen időjárással érintett vállalkozás által benyújtott olyan kérelmet, amely egy korábban már megítélt kezességi díjtámogatás növelésére vonatkozik;
 
-4. kedvezményezett: a Szerződés 87. és 88. cikke alkalmazásában a támogatások bizonyos fajtáinak a közös piaccal összeegyeztethetőnek nyilvánításáról szóló, 2008. augusztus 6-i 800/2008/EK bizottsági rendelet I. melléklete szerinti vállalkozás;
+4.[^5] kedvezményezett: a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló 2014. június 17-i 651/2014/EU bizottsági rendelet I. melléklete szerinti vállalkozás,
 
 5. kezességvállaló intézmény: az Agrár-Vállalkozási Hitelgarancia Alapítvány;
 
-6.[^5] kedvezőtlen időjárással érintett vállalkozás: az MFB Agrár Forgóeszköz Hitelprogram 2020 vagy az MFB TÉSZ Forgóeszköz Hitelprogram 2020 (a továbbiakban együttesen: hitelprogram) jogosultsági feltételeinek megfelelő, a kedvezőtlen időjárás miatt szükségessé váló támogatásokról és az azokkal összefüggő miniszteri rendeletek módosításáról szóló 77/2015. (XII. 1.) FM rendelet [a továbbiakban: 77/2015. (XII. 1.) FM rendelet] 1., illetve 3. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen a 77/2015. (XII. 1.) FM rendelet 2. mellékletében meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő hitelfelvevő, aki a hitelprogram keretében
+6.[^6] kedvezőtlen időjárással érintett vállalkozás: az MFB Agrár Forgóeszköz Hitelprogram 2020 vagy az MFB TÉSZ Forgóeszköz Hitelprogram 2020 (a továbbiakban együttesen: hitelprogram) jogosultsági feltételeinek megfelelő, a kedvezőtlen időjárás miatt szükségessé váló támogatásokról és az azokkal összefüggő miniszteri rendeletek módosításáról szóló 77/2015. (XII. 1.) FM rendelet [a továbbiakban: 77/2015. (XII. 1.) FM rendelet] 1., illetve 3. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen a 77/2015. (XII. 1.) FM rendelet 2. mellékletében meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő hitelfelvevő, aki a hitelprogram keretében
 
 a) a 77/2015. (XII. 1.) FM rendeletnek kizárólag az 1. mellékletében szereplő település esetében 2016. június 30-áig,
 
@@ -28,19 +28,23 @@ c) a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szerepl�
 
 7. pénzügyi intézmény: olyan intézmény, amely a kezességvállalás pénzügyi szolgáltatás igénybevétele érdekében csatlakozási, együttműködési vagy partneri keretszerződés alapján kapcsolatban áll a kezességvállaló intézménnyel;
 
-8.[^6] támogatási intenzitás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 15. pontjában meghatározott intenzitás;
+8.[^7] támogatási intenzitás: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet [a továbbiakban: 37/2011. (III. 22.) Korm. rendelet] 2. § 15. pontjában meghatározott intenzitás;
 
-9.[^7] támogatástartalom: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 19. pontjában meghatározott támogatási egyenérték;
+9.[^8] támogatástartalom: az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 19. pontjában meghatározott támogatási egyenérték;
 
 10. támogatástartalomról szóló igazolás: a támogatás támogatástartalmáról szóló igazolás, amely a megállapított támogatás „de minimis” jellegét is megjelöli utalva a támogatás alapját képező bizottsági rendeletre, annak pontos címére és az Európai Unió Hivatalos Lapjában való kihirdetésre.
 
-11.[^8] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
+11.[^9] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem.
+
+12.[^10] egy és ugyanazon vállalkozás: a 37/2011. (III. 22.) Korm. rendelet 2. § 5a. pontjában meghatározott vállalkozás.
 
 [^1]: Az 1. § 1. pont 1.1. alpontja a 36/2014. (IV. 4.) VM rendelet 92. §-ával megállapított szöveg.
 [^2]: Az 1. § 1. pont 1.2. alpontja a 36/2014. (IV. 4.) VM rendelet 92. §-ával megállapított szöveg.
 [^3]: Az 1. § 1. pont 1.3. alpontja a 18/2014. (X. 29.) FM rendelet 43. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § 3. pontja a 77/2015. (XII. 1.) FM rendelet 14. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1. § 6. pontját a 36/2014. (IV. 4.) VM rendelet 95. §-a hatályon kívül helyezte, újonnan a 77/2015. (XII. 1.) FM rendelet 14. § (2) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 15. § (1) bekezdésével megállapított szöveg.
-[^6]: Az 1. § 8. pontja a 18/2014. (X. 29.) FM rendelet 43. § (2) bekezdésével megállapított szöveg.
-[^7]: Az 1. § 9. pontja a 18/2014. (X. 29.) FM rendelet 43. § (2) bekezdésével megállapított szöveg.
-[^8]: Az 1. § 11. pontját az 51/2016. (VII. 21.) FM rendelet 15. § (2) bekezdése iktatta be.
+[^5]: Az 1. § 4. pontja a 65/2016. (IX. 21.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. § 6. pontját a 36/2014. (IV. 4.) VM rendelet 95. §-a hatályon kívül helyezte, újonnan a 77/2015. (XII. 1.) FM rendelet 14. § (2) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 1. § 8. pontja a 65/2016. (IX. 21.) FM rendelet 11. § (2) bekezdésével megállapított szöveg.
+[^8]: Az 1. § 9. pontja a 18/2014. (X. 29.) FM rendelet 43. § (2) bekezdésével megállapított szöveg.
+[^9]: Az 1. § 11. pontját az 51/2016. (VII. 21.) FM rendelet 15. § (2) bekezdése iktatta be.
+[^10]: Az 1. § 12. pontját a 65/2016. (IX. 21.) FM rendelet 11. § (3) bekezdése iktatta be.
