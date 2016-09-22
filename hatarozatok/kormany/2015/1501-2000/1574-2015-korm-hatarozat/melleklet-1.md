@@ -18,7 +18,7 @@
 
 ## Felelős: emberi erőforrások minisztere
 
-## Határidő: az a) pont tekintetében: 2016. augusztus 31.,
+## Határidő: az a) pont tekintetében: 2017. január 30.,[^1]
 
 ## a b) pont tekintetében: 2016. november 30.
 
@@ -103,3 +103,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A határidő az 1514/2016. (IX. 22.) Korm. határozat 3. pontjával megállapított szöveg.
