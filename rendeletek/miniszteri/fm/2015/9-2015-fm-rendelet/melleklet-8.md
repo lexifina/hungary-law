@@ -72,6 +72,6 @@
 
 ## Megjegyzés: * Többéves művelésre alkalmas kultúra
 
-8. melléklet a 9/2015. (III. 13.) FM rendelethez[^68]
+8. melléklet a 9/2015. (III. 13.) FM rendelethez[^75]
 
-[^68]: A 8. melléklet a 97/2015. (XII. 23.) FM rendelet 4. §-ával megállapított szöveg.
+[^75]: A 8. melléklet a 97/2015. (XII. 23.) FM rendelet 4. §-ával megállapított szöveg.

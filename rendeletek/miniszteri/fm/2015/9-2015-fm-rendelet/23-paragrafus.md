@@ -1,4 +1,4 @@
-## 22/D. §[^62] E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó, egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 37/2016. (V. 18.) FM rendelettel [a továbbiakban: 37/2016. (V. 18.) FM rendelet] megállapított 11. § (1) bekezdés b) pontját, 14. § (7a) bekezdését és 17. § (3) bekezdését a 37/2016. (V. 18.) FM rendelet hatálybalépésekor[^63] folyamatban lévő ügyekben is alkalmazni kell.
+## 22/E. §[^69] E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó, egyes agrárágazati tárgyú támogatásokat szabályozó rendeletek módosításáról szóló 65/2016. (IX. 21.) FM rendelettel [a továbbiakban: 65/2016. (IX. 21.) FM rendelet] megállapított 11. § (1) bekezdés e) és f) pontját, valamint (9) bekezdését a 65/2016. (IX. 21.) FM rendelet hatálybalépésekor[^70] folyamatban lévő eljárásokban is alkalmazni kell.
 
 ## 20. Az Európai Unió jogának való megfelelés
 
@@ -16,5 +16,5 @@ e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabá
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^62]: A 22/D. §-t a 37/2016. (V. 18.) FM rendelet 13. §-a iktatta be.
-[^63]: A hatálybalépés napja 2016. május 19.
+[^69]: A 22/E. §-t a 65/2016. (IX. 21.) FM rendelet 24. §-a iktatta be.
+[^70]: A hatálybalépés napja 2016. szeptember 21.

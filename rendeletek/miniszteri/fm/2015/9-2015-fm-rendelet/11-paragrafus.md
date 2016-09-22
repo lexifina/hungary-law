@@ -12,15 +12,17 @@ c) a tenyészet vonatkozásban igazolja, hogy az a támogatási kérelem benyúj
 
 d) gondoskodik az állattenyésztésről szóló törvényben foglaltak szerinti apaállat-használatról és a támogatásra bejelentett állatállományában központi lajstromszámmal ellátott, az a) pont alapján támogatható fajtájú tenyészbikát vagy mélyhűtött spermát, petesejtet vagy embriót használ, valamint a tárgyév január 1. és a birtokon tartási idő lejárata között történt ellésekhez tartozó termékenyítéseket (fedeztetéseket), a szabad és háremszerű pároztatásokat és az embrió-átültetéseket az erre a célra a Termékenyítési Rendszerben rendszeresített bizonylaton a Nemzeti Élelmiszerlánc-biztonsági Hivatalhoz (a továbbiakban: NÉBIH) – a központi adatbázisban történő regisztráció céljából – hibátlanul bejelenti,
 
-e) a támogatásra bejelentett tenyészetében 50%-ot meghaladó mértékben hústermelés céljára tart borjakat és a tenyészetében a kérelmezett állatok legalább 30%-ának van ellése a tárgyév során, valamint a kérelmezett állattól a birtokon tartás során született borjakat a születésük napjától kezdődően legalább egy hónapon keresztül az anyjukkal azonos tenyészetben tartja,
+e)[^21] a támogatásra bejelentett tenyészetében 50%-ot meghaladó mértékben hústermelés céljára tart borjakat és a tenyészetében a kérelmezett állatok legalább 30%-ának van ellése a tárgyév során, valamint a kérelmezett állattól a birtokon tartás során született borjakat a születésük napjától kezdődően legalább egy hónapon keresztül az anyjukkal azonos tenyészetben tartja, és
 
-f) tenyészetében a támogatás alapjául szolgáló állatok esetén az üszők aránya a birtokon tartás teljes ideje alatt legfeljebb 40%, és
+f)[^22] vállalja, hogy a támogatási kérelemben bejelentett állatokat a támogatási kérelem benyújtását követő naptól számított hat hónapig folyamatosan birtokon tartja.
 
-g) vállalja, hogy a támogatási kérelemben bejelentett állatokat folyamatosan birtokon tartja a támogatási kérelem benyújtását követő naptól számított hat hónapig.
+g)[^23]
+
+(1a)[^24] A mezőgazdasági termelő tenyészetében a támogatás alapjául szolgáló állatok esetén az üszők aránya a birtokon tartás teljes ideje alatt legfeljebb 40% lehet.
 
 (2) Az (1) bekezdés c) pontja szerinti mentességnek már a támogatási kérelem benyújtásakor fenn kell állnia, amelyet a hatósági állatorvos vagy a járási főállatorvos igazol.
 
-(3)[^21] A támogatási kérelem tárgyévente – az egységes kérelem rendeletben foglalt időpontig – nyújtható be.
+(3)[^25] A támogatási kérelem tárgyévente – az egységes kérelem rendeletben foglalt időpontig – nyújtható be.
 
 (4) A támogatási kérelemhez mellékelni kell a hatósági állatorvos vagy a járási főállatorvos által kiállított, (2) bekezdés szerinti igazolás másolatát.
 
@@ -42,10 +44,15 @@ e) a mezőgazdasági termelő a b) pont szerinti bejelentéshez a (2) bekezdésb
 
 (8) A pótlásként beállított állatra vonatkozó, (1) bekezdés g) pontjában foglalt hat hónapos birtokon tartási kötelezettség számításakor a kieső állat esetében eltelt időt figyelembe kell venni.
 
-(9) Az (1) bekezdés e) és f) pontja szerinti feltételeket három egyed alatti jogosult állatlétszám esetén nem kell betartani.
+(9)[^26] Az (1) bekezdés e) pontja és az (1a) bekezdés szerinti feltételeket három egyed alatti jogosult állatlétszám esetén nem kell betartani.
 
 (10) Ha a mezőgazdasági termelő a SAPS-ÁNT rendelet szerinti anyatehéntartás támogatáshoz kapcsolódó átmeneti nemzeti támogatással érintett állat után kíván anyatehén tartásához kapcsolódó termeléshez kötött közvetlen támogatást igénybe venni, és benyújtotta a SAPS-ÁNT rendelet szerinti, az anyatehéntartás támogatásához kapcsolódó átmeneti nemzeti támogatás igénybevételéhez szükséges igazolásokat, akkor ezen igazolásokat az MVH a (2) bekezdésben és a (6) bekezdés b) pontjában meghatározott igazolásként fogadja el.
 
 [^19]: A 10/A. §-t a 4/2016. (I. 20.) FM rendelet 24. §-a iktatta be.
 [^20]: A 11. § (1) bekezdés b) pontja a 17/2015. (IV. 9.) FM rendelet 13. §-ával megállapított, a 22/2015. (V. 13.) FM rendelet 4. § b) pontja, a 37/2016. (V. 18.) FM rendelet 14. § a) pontja szerint módosított szöveg.
-[^21]: A 11. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 48. §-ával megállapított szöveg.
+[^21]: A 11. § (1) bekezdés e) pontja a 65/2016. (IX. 21.) FM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^22]: A 11. § (1) bekezdés f) pontja a 65/2016. (IX. 21.) FM rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^23]: A 11. § (1) bekezdés g) pontját a 65/2016. (IX. 21.) FM rendelet 25. §-a hatályon kívül helyezte.
+[^24]: A 11. § (1a) bekezdését a 65/2016. (IX. 21.) FM rendelet 23. § (2) bekezdése iktatta be.
+[^25]: A 11. § (3) bekezdése a 25/2016. (IV. 11.) FM rendelet 48. §-ával megállapított szöveg.
+[^26]: A 11. § (9) bekezdése a 65/2016. (IX. 21.) FM rendelet 23. § (3) bekezdésével megállapított szöveg.
