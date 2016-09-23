@@ -22,6 +22,6 @@ nemzeti fejlesztési miniszter
 
 Határidő: a 2. pont szerinti tárgyalások lefolytatását követően azonnal
 
-4. döntése alapján az Országos Ipari Park Koncepcióról szóló 1268/2016. (VI. 7.) Korm. határozat 1. pontja a következő e) alponttal egészül ki:
+4.[^1]
 
-„e) megvizsgálásra kerül a Modern Városok Programon kívüli, egyes kijelölt településeken, az állam által támogatott, vagy a NIPÜF Zrt. által üzleti szempontból támogatott ipari fejlesztési projektek megvalósításával kapcsolatos feladatok ellátása”.
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
