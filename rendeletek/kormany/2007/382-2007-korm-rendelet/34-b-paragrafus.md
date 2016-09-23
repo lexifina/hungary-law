@@ -1,4 +1,4 @@
-34/B. §[^76] (1) Bontás tudomásulvételéhez kötött minden olyan bontási tevékenység, amely nem tartozik a 14. § (4) bekezdésében és a 9. számú mellékletben felsorolt bontási tevékenységek körébe.
+34/B. §[^83] (1) Bontás tudomásulvételéhez kötött minden olyan bontási tevékenység, amely nem tartozik a 14. § (4) bekezdésében és a 9. számú mellékletben felsorolt bontási tevékenységek körébe.
 
 (2) Az (1) bekezdés szerinti bontási tevékenységet a Hatóságnak a bontás tudomásul vételéről szóló döntésétől számított egy évig lehet végezni.
 
@@ -16,4 +16,4 @@ c) az illeték befizetésének igazolását.
 
 (6) Az építtető a bontási tevékenység befejezésének tényét, a befejezéstől számított tizenöt napon belül a Hatósággal közli.
 
-[^76]: A 34/B. §-t a 441/2015. (XII. 28.) Korm. rendelet 99. § (11) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^83]: A 34/B. §-t a 441/2015. (XII. 28.) Korm. rendelet 99. § (11) bekezdése iktatta be, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
