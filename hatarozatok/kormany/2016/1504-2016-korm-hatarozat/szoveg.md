@@ -36,4 +36,6 @@ vezetője tevékenységét.
 
 8. Ez a határozat a közzétételét követő napon lép hatályba.
 
-9. Hatályát veszti a Paksi Atomerőmű teljesítményének fenntartásáért felelős kormánybiztos kinevezéséről és feladatairól szóló 1358/2014. (VI. 30.) Korm. határozat.
+9.[^2]
+
+[^2]: A 9. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
