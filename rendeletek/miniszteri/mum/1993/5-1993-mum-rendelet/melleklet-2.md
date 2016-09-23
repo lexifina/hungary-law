@@ -2,7 +2,7 @@
 
 Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglalkoztatásának feltételei
 
-1. A munkáltatók tevékenységük alapján a következő munkavédelmi szempontú veszélyességi osztályba tartoznak az EU tagországok számára kötelezően alkalmazandó a NACE Rev. 2. (magyar nyelvű megfelelője, a gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszere: TEÁOR ’08) alapján.
+1. A munkáltatók tevékenységük alapján a következő munkavédelmi szempontú veszélyességi osztályba tartoznak az EU tagországok számára kötelezően alkalmazandó, a gazdasági tevékenységek egységes ágazati osztályozási rendszere: TEÁOR ’08 alapján.
 
 | Ágazati számjel | Gazdasági tevékenység megnevezése |
 
@@ -10,9 +10,9 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 
 | 02 | Erdőgazdálkodás |
 
-|  | Kivéve: |
+| Kivéve: |
 
-|  | 02.3 Vadon termő egyéb erdei termék gyűjtése |
+| 02.3 Vadon termő egyéb erdei termék gyűjtése |
 
 | 05 | Szénbányászat |
 
@@ -52,7 +52,7 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 
 | 25.5 | Fémalakítás, porkohászat |
 
-| 28 | Gép, gépi berendezés gyártása Kivlve: 28.23 Irodagép gyártása (kivéve: számítógép és perifériái) |
+| 28 | Gép, gépi berendezés gyártása Kivéve: 28.23 Irodagép gyártása (kivéve: számítógép és perifériái) |
 
 | 30.11 | Hajógyártás |
 
@@ -72,7 +72,7 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 
 | 42 | Egyéb építmény építése |
 
-| 43 | Speciális szakképítés |
+| 43 | Speciális szaképítés |
 
 | 49 | Szárazföldi, csővezetékes szállítás |
 
@@ -132,11 +132,7 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 
 | 45.4 | Motorkerékpár, -alkatrész kereskedelme, javítása |
 
-| 58 | Kiadói tevékenység |
-
-| 59 | Film, videó gyártás, televízióműsor gyártása, hangfelvétel kiadás |
-
-| 60 | Műsorösszeállítás, műsorszolgáltatás |
+| 59 | Film, -videógyártás, televízióműsor gyártása, hangfelvétel kiadás |
 
 | 61 | Távközlés |
 
@@ -146,7 +142,7 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 
 | 80 | Biztonsági, nyomozói tevékenység |
 
-| 81 | Építmény üzemeltetés, zöldterület-kezelés |
+| 81 | Építményüzemeltetés, zöldterület-kezelés |
 
 | 85.32 | Szakmai középfokú oktatás |
 
@@ -168,7 +164,7 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 
 | III. VESZÉLYESSÉGI OSZTÁLY |
 
-| 45 | Gépjármű-, motorkerékpár kereskedelme, javítása Kivéve: 45.2 Gépjárműjavítás, karbantartás 45.4 Motorkerékpár, -alkatrész kereskedelme, javítása |
+| 45 | Gépjármű, motorkerékpár kereskedelme, javítása Kivéve: 45.2 Gépjárműjavítás, -karbantartás 45.4 Motorkerékpár, -alkatrész kereskedelme, javítása |
 
 | 46 | Nagykereskedelem (kivéve: jármű, motorkerékpár) |
 
@@ -179,6 +175,10 @@ Munkavédelmi (munkabiztonsági) szakképesítéssel rendelkező személy foglal
 | 55 | Szálláshely-szolgáltatás |
 
 | 56 | Vendéglátás |
+
+| 58 | Kiadói tevékenység |
+
+| 60 | Műsorösszeállítás, műsorszolgáltatás |
 
 | 62 | Információ-technológiai szolgáltatás |
 
@@ -292,4 +292,4 @@ Tanulókat, hallgatókat abban az arányban kell a munkavállalói létszámhoz 
 
 7. A munkáltató köteles a besorolását veszélyességi osztály vagy létszám kategória megváltozásakor módosítani és a besorolás megfelelősségét évenként felülvizsgálni, valamint mindezt írásban dokumentálni.
 
-[^36]: A Vhr. 2. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (2) bekezdésével megállapított, a 41/2011. (X. 14.) NGM rendelet 9. §-a, 10. § (1) bekezdése szerint módosított szöveg.
+[^36]: A Vhr. 2. számú melléklete az 5/2010. (III. 9.) SZMM rendelet 8. § (2) bekezdésével megállapított, a 41/2011. (X. 14.) NGM rendelet 9. §-a, 10. § (1) bekezdése, a 33/2016. (IX. 8.) NGM rendelet 2. § (1) bekezdése szerint módosított szöveg.

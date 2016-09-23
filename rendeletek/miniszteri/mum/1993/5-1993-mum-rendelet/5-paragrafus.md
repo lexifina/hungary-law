@@ -2,7 +2,7 @@
 
 ## [Az Mvt. 64. § (1) és (4) bekezdéséhez][^7]
 
-5. §[^8] (1)[^9] A munkáltató minden munkaképtelenséggel járó munkabalesetet, ideértve a bányászati munkabalesetet is (a továbbiakban együttesen: munkabaleset), a bekövetkezését követően köteles haladéktalanul kivizsgálni. A három munkanapot meghaladó munkaképtelenséggel járó munkabalesetet ki kell vizsgálni, nyilvántartásba kell venni és be kell jelenteni.
+5. §[^8] (1)[^9] A munkáltató minden munkaképtelenséggel járó munkabalesetet, ideértve a bányászati munkabalesetet is (a továbbiakban együttesen: munkabaleset), a bekövetkezését követően köteles haladéktalanul kivizsgálni. A három munkanapot meghaladó munkaképtelenséggel járó munkabalesetet ki kell vizsgálni, nyilvántartásba kell venni és be kell jelenteni. Munkaképtelenséget nem okozó munkabaleset esetén a kötelező egészségbiztosítási ellátásról szóló törvény végrehajtására kiadott kormányrendeletben foglalt szabályokat kell alkalmazni.
 
 (2) A munkabaleseti nyilvántartás – az Mvt. 64. § (3) bekezdésében megjelölteken túlmenően – az alábbi adatokat tartalmazza:
 
@@ -20,6 +20,6 @@ e) annak tényét, hogy a sérült folytatta-e a munkáját.
 
 [^7]: A Vhr. 5. §-át megelőző alcímet a 35/2015. (XII. 23.) NGM rendelet 1. § (3) bekezdése módosította.
 [^8]: A Vhr. 5. §-a a 20/1997. ( XII. 19.) MüM rendelet 2. §-ával megállapított szöveg.
-[^9]: A Vhr. 5. § (1) bekezdése a 35/2015. (XII. 23.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^9]: A Vhr. 5. § (1) bekezdése a 33/2016. (IX. 8.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^10]: A Vhr. 5. § (2) bekezdésének c) pontja a 16/2004. (IV. 19.) FMM rendelet 2. §-ával megállapított szöveg.
 [^11]: A Vhr. 5. § (3) bekezdése az 5/2010. (III. 9.) SZMM rendelet 1. §-ával megállapított szöveg.
