@@ -8,5 +8,8 @@
 
 (3) Minden területen elhelyezhető az előírások szerinti gépjárművek elhelyezését biztosító építmény. A lakóterületen – a falusias lakóterület kivételével –, a vegyes területen és az üdülőterületen nem helyezhető el önálló parkolóterület és garázs a 3,5 tonna önsúlynál nehezebb gépjárművek és az ilyeneket szállító járművek számára. A nagyvárosias lakó-, településközpont- és az intézményi területen új önálló üzemanyagtöltő nem helyezhető el.
 
+(4)[^34] Beépítésre szánt területen és beépítésre szánt terület határától számított 12 000 méteren belül – a háztartási méretű kiserőműnek számító szélerőmű kivételével – szélerőmű, szélerőmű park nem helyezhető el.
+
 [^32]: A 9. § a 90/2012. (IV. 26.) Korm. rendelet 32. § 6. pontja szerint módosított szöveg. [A 314/2012. (XI. 8.) Korm. rendelet 56. § a) pontjával elrendelt módosítás, amely szerint hatályát veszti a „, a szabályozási tervben–a főváros estében a szabályozási kerettervben is–” szövegrész, nem vezethető át.]
 [^33]: A 10. § a 90/2012. (IV. 26.) Korm. rendelet 6. §-ával megállapított szöveg. A 10. §-t megelőző alcímet a 266/2013. (VII. 11.) Korm. rendelet 55. § a) pontja hatályon kívül helyezte.
+[^34]: A 10. § (4) bekezdését a 277/2016. (IX. 15.) Korm. rendelet 1. §-a iktatta be.

@@ -2,9 +2,9 @@
 
 ## Helyiségek méretei, kialakítása
 
-85. § (1)[^297] A helyiségek, terek méreteit, kapcsolatait, határoló építményszerkezeteit, beépített vezetékrendszereit, berendezéseit a rendeltetésüknek megfelelően kell tervezni és megvalósítani.
+85. § (1)[^301] A helyiségek, terek méreteit, kapcsolatait, határoló építményszerkezeteit, beépített vezetékrendszereit, berendezéseit a rendeltetésüknek megfelelően kell tervezni és megvalósítani.
 
-(2)[^298] A helyiség legkisebb alaprajzi méretét úgy kell tervezni és megvalósítani, hogy
+(2)[^302] A helyiség legkisebb alaprajzi méretét úgy kell tervezni és megvalósítani, hogy
 
 a) a nem huzamos tartózkodás céljára szolgáló helyiség szabad mérete 0,80 m-nél, szabad mélysége 1,10 m-nél kevesebb nem lehet,
 
@@ -12,13 +12,13 @@ b) a huzamos tartózkodás céljára szolgáló helyiség szabad mérete 2,00 m-
 
 (3) A helyiség belmagasságát a rendeltetésének és a lehetséges legnagyobb befogadóképességének megfelelően kell meghatározni, de a helyiség hasznos alapterületének belmagassága legalább a következő legyen:
 
-a)[^299] 3,0 m átlagos belmagasság
+a)[^303] 3,0 m átlagos belmagasság
 
-–[^300] a nevelési, oktatási épület tantermében, foglalkoztatótermében,
+–[^304] a nevelési, oktatási épület tantermében, foglalkoztatótermében,
 
 – 200 m2 hasznos alapterületet meghaladó nagyságú huzamos tartózkodásra szolgáló helyiségben,
 
-–[^301] az egészségügyi épületek közvetlen fekvő-betegellátást szolgáló helyiségeiben,
+–[^305] az egészségügyi épületek közvetlen fekvő-betegellátást szolgáló helyiségeiben,
 
 b) 2,50 m átlagos belmagasság
 
@@ -28,7 +28,7 @@ c) 2,20 m átlagos belmagasság
 
 – a lakás, üdülőegység második és további (nem nappali tartózkodásra szolgáló) lakószobájában,
 
-–[^302] a nem huzamos tartózkodásra szolgáló helyiségben a d) és e) pontban említett kivétellel,
+–[^306] a nem huzamos tartózkodásra szolgáló helyiségben a d) és e) pontban említett kivétellel,
 
 d) 2,20 m szabad belmagasság
 
@@ -38,7 +38,7 @@ e) 1,90 m szabad belmagasság
 
 – a tároló helyiségekben,
 
-f)[^303] 2,75 m átlagos belmagasság a 200 m2 hasznos alapterületet meghaladó nagyságú irodai munkahelyeken.
+f)[^307] 2,75 m átlagos belmagasság a 200 m2 hasznos alapterületet meghaladó nagyságú irodai munkahelyeken.
 
 A szabad keresztmetszet legkisebb mérete
 
@@ -54,35 +54,35 @@ a) 15 m3/fő a szobákban, kórtermekben és az irodai munkahelyeken,
 
 b) 2,0 m3/fő mesterséges légcsere esetén a kabinokban (tolmács-, riporter-fülkékben).
 
-(5)[^304] Huzamos tartózkodás céljára szolgáló helyiség padlója akkor kerülhet az épülethez csatlakozó külső terep szintje (terepcsatlakozása) alá, ha a helyiség rendeltetésének megfelelő alapvető követelmények biztosíthatók. Lakószoba pinceszinti helyiség nem lehet, kivéve, ha a természetes szellőzés és megvilágítás biztosított.
+(5)[^308] Huzamos tartózkodás céljára szolgáló helyiség padlója akkor kerülhet az épülethez csatlakozó külső terep szintje (terepcsatlakozása) alá, ha a helyiség rendeltetésének megfelelő alapvető követelmények biztosíthatók. Lakószoba pinceszinti helyiség nem lehet, kivéve, ha a természetes szellőzés és megvilágítás biztosított.
 
-(6)[^305] Tömegtartózkodás céljára szolgáló helyiség akkor lehet belső fekvésű, ha a mesterséges megvilágítása és a szellőzése a használat során folyamatosan biztosítható, valamint a helyiségben tartalékvilágítás létesült.
+(6)[^309] Tömegtartózkodás céljára szolgáló helyiség akkor lehet belső fekvésű, ha a mesterséges megvilágítása és a szellőzése a használat során folyamatosan biztosítható, valamint a helyiségben tartalékvilágítás létesült.
 
 (7) A be nem épített tetőteret, tetőtérrészt a meghatározott rendeltetésű helyiségektől és építményszintektől a tűzvédelmi előírásoknak megfelelő szerkezettel kell elválasztani, megközelítését biztosítani kell.
 
-(8)[^306]
+(8)[^310]
 
-(9)[^307] Az előadótermek, nézőterek, gyülekezeti termek ülőhelyeit úgy kell kialakítani, hogy azok a tér előírt időn belüli kiürítését (pl. elmozdulással, feldőléssel) ne gátolhassák. Az előadótermek, nézőterek, gyülekezeti termek belső kiürítési útvonalának szabad szélessége 1,20 m-nél keskenyebb nem lehet.
+(9)[^311] Az előadótermek, nézőterek, gyülekezeti termek ülőhelyeit úgy kell kialakítani, hogy azok a tér előírt időn belüli kiürítését (pl. elmozdulással, feldőléssel) ne gátolhassák. Az előadótermek, nézőterek, gyülekezeti termek belső kiürítési útvonalának szabad szélessége 1,20 m-nél keskenyebb nem lehet.
 
-(10)[^308] Az egészségi állapotuk vagy koruk miatt mozgásukban korlátozott személyek (pl. 0–6 éves korú gyermekek, időskorúak, fekvőbetegek stb.) használatára szolgáló helyiségek akkor lehetnek a külső terep szintjénél egy szinttel magasabban, ha tűz esetén a mentés megfelelő feltételei biztosítottak.
+(10)[^312] Az egészségi állapotuk vagy koruk miatt mozgásukban korlátozott személyek (pl. 0–6 éves korú gyermekek, időskorúak, fekvőbetegek stb.) használatára szolgáló helyiségek akkor lehetnek a külső terep szintjénél egy szinttel magasabban, ha tűz esetén a mentés megfelelő feltételei biztosítottak.
 
-(11)[^309] A helyiség akkor használható mindenki számára akadálymentesen, ha
+(11)[^313] A helyiség akkor használható mindenki számára akadálymentesen, ha
 
-a)[^310] a helyiség bejárati ajtaja akadály nélkül megközelíthető, és szabad mérete lehetővé teszi az akadálymentes áthaladást,,
+a)[^314] a helyiség bejárati ajtaja akadály nélkül megközelíthető, és szabad mérete lehetővé teszi az akadálymentes áthaladást,,
 
 b) a helyiség mérete és kialakítása a rendeltetéséhez szükséges berendezési és felszerelési tárgyak elhelyezésével együtt alkalmas a fogyatékos személyek által történő használatra és mozgásra.
 
-[^297]: A 85. § (1) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^298]: A 85. § (2) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
-[^299]: A 85. § (3) bekezdésének a) pontja a 182/2008. (VII. 14.) Korm. rendelet 38. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^300]: A 85. § (3) bekezdése a) pont első franciabekezdése a 211/2012. (VII. 30.) Korm. rendelet 32. § 38. pontja szerint módosított szöveg.
-[^301]: A 85. § (3) bekezdése a) pont harmadik franciabekezdése a 211/2012. (VII. 30.) Korm. rendelet 32. § 38. pontja szerint módosított szöveg.
-[^302]: A 85. § (3) bekezdése c) pontjának második franciabekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének s) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^303]: A 85. § (3) bekezdés f) pontját a 211/2012. (VII. 30.) Korm. rendelet 23. § (2) bekezdése iktatta be.
-[^304]: A 85. § (5) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
-[^305]: A 85. § (6) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
-[^306]: A 85. § (8) bekezdését a 211/2012. (VII. 30.) Korm. rendelet 33. § 13. pontja hatályon kívül helyezte.
-[^307]: A 85. § (9) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 32. § 39. pontja szerint módosított szöveg.
-[^308]: A 85. § (10) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdés s) pontja, a 196/2009. (IX. 15.) Korm. rendelet 61. § (6) bekezdésének d) pontja, a 211/2012. (VII. 30.) Korm. rendelet 32. § 40. pontja szerint módosított szöveg.
-[^309]: A 85. § (11) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 38. § (2) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
-[^310]: A 85. § (11) bekezdés a) pontja a 211/2012. (VII. 30.) Korm. rendelet 32. § 41. pontja szerint módosított szöveg.
+[^301]: A 85. § (1) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^302]: A 85. § (2) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 23. § (1) bekezdésével megállapított szöveg.
+[^303]: A 85. § (3) bekezdésének a) pontja a 182/2008. (VII. 14.) Korm. rendelet 38. § (1) bekezdésével megállapított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^304]: A 85. § (3) bekezdése a) pont első franciabekezdése a 211/2012. (VII. 30.) Korm. rendelet 32. § 38. pontja szerint módosított szöveg.
+[^305]: A 85. § (3) bekezdése a) pont harmadik franciabekezdése a 211/2012. (VII. 30.) Korm. rendelet 32. § 38. pontja szerint módosított szöveg.
+[^306]: A 85. § (3) bekezdése c) pontjának második franciabekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdésének s) pontja szerint módosított szöveg. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^307]: A 85. § (3) bekezdés f) pontját a 211/2012. (VII. 30.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^308]: A 85. § (5) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
+[^309]: A 85. § (6) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 23. § (3) bekezdésével megállapított szöveg.
+[^310]: A 85. § (8) bekezdését a 211/2012. (VII. 30.) Korm. rendelet 33. § 13. pontja hatályon kívül helyezte.
+[^311]: A 85. § (9) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 32. § 39. pontja szerint módosított szöveg.
+[^312]: A 85. § (10) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 52. § (7) bekezdés s) pontja, a 196/2009. (IX. 15.) Korm. rendelet 61. § (6) bekezdésének d) pontja, a 211/2012. (VII. 30.) Korm. rendelet 32. § 40. pontja szerint módosított szöveg.
+[^313]: A 85. § (11) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 38. § (2) bekezdése iktatta be. E módosító rendelet 52. § (1) bekezdése alapján a rendelkezést a 2008. szeptember 12. napját követően indított ügyekben kell alkalmazni.
+[^314]: A 85. § (11) bekezdés a) pontja a 211/2012. (VII. 30.) Korm. rendelet 32. § 41. pontja szerint módosított szöveg.

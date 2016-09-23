@@ -1,17 +1,17 @@
 ## Padlók
 
-61. § (1)[^215] Az építmények helyiségeit, tereit a rendeltetésüknek és a vonatkozó balesetvédelmi, munkavédelmi, tűzvédelmi, közegészségügyi követelményeknek is megfelelő padlóval kell tervezni és megvalósítani.
+61. § (1)[^219] Az építmények helyiségeit, tereit a rendeltetésüknek és a vonatkozó balesetvédelmi, munkavédelmi, tűzvédelmi, közegészségügyi követelményeknek is megfelelő padlóval kell tervezni és megvalósítani.
 
-(2)[^216] A járófelületen alkalmazott rács (pl. taposórács, lépcsőfok) legfeljebb 20 X 20 mm osztású lehet. Menekülési útvonalon nem alkalmazható rács.
+(2)[^220] A járófelületen alkalmazott rács (pl. taposórács, lépcsőfok) legfeljebb 20 X 20 mm osztású lehet. Menekülési útvonalon nem alkalmazható rács.
 
-(3)[^217] A közhasználatú építmény akadálymentes használatra szolgáló belső közlekedőit és tereit összefüggő csúszásgátló padlóburkolattal kell ellátni.
+(3)[^221] A közhasználatú építmény akadálymentes használatra szolgáló belső közlekedőit és tereit összefüggő csúszásgátló padlóburkolattal kell ellátni.
 
-(4)[^218] Akadálymentes használatnál a meglévő közhasználatú építmény esetében a 20 mm-nél magasabb küszöböt lejtős kialakítással kell ellátni.
+(4)[^222] Akadálymentes használatnál a meglévő közhasználatú építmény esetében a 20 mm-nél magasabb küszöböt lejtős kialakítással kell ellátni.
 
-(5)[^219] A járófelületen alkalmazott hézagos burkolat osztását úgy kell megválasztani, hogy az a rendeltetésszerű és biztonságos használatra alkalmas legyen, továbbá sérülést, és anyagi kárt ne okozzon.
+(5)[^223] A járófelületen alkalmazott hézagos burkolat osztását úgy kell megválasztani, hogy az a rendeltetésszerű és biztonságos használatra alkalmas legyen, továbbá sérülést, és anyagi kárt ne okozzon.
 
-[^215]: A 61. § (1) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 32. § 14. pontja szerint módosított szöveg.
-[^216]: A 61. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 20. § (1) bekezdése, a 196/2009. (IX. 15.) Korm. rendelet 62. § (8) bekezdésének c) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
-[^217]: A 61. § (3) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^218]: A 61. § (4) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 20. § (3) bekezdése iktatta be, szövege a 211/2012. (VII. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^219]: A 61. § (5) bekezdését a 211/2012. (VII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^219]: A 61. § (1) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 32. § 14. pontja szerint módosított szöveg.
+[^220]: A 61. § (2) bekezdése a 182/2008. (VII. 14.) Korm. rendelet 20. § (1) bekezdése, a 196/2009. (IX. 15.) Korm. rendelet 62. § (8) bekezdésének c) pontja szerint módosított szöveg. Ez utóbbi módosító rendelet 60. § (6) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt közigazgatási eljárásokban kell alkalmazni.
+[^221]: A 61. § (3) bekezdése a 211/2012. (VII. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^222]: A 61. § (4) bekezdését a 182/2008. (VII. 14.) Korm. rendelet 20. § (3) bekezdése iktatta be, szövege a 211/2012. (VII. 30.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^223]: A 61. § (5) bekezdését a 211/2012. (VII. 30.) Korm. rendelet 10. §-a iktatta be.

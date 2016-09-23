@@ -30,3 +30,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-253-20-
 | 2016-03-10 | 1997-253-20-22.42 | 10/2016. (II. 9.) Korm. rendelet |
 | 2016-06-14 | 1997-253-20-22.43 | 156/2016. (VI. 13.) Korm. rendelet |
 | 2016-07-01 | 1997-253-20-22.44 | 109/2016. (V. 20.) Korm. rendelet |
+| 2016-09-23 | 1997-253-20-22.45 | 277/2016. (IX. 15.) Korm. rendelet |
