@@ -18,9 +18,7 @@
 
 ## c) egyetért azzal, hogy a FINA Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság Budapesten történő megrendezéséhez szükséges forrás biztosítása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1374/2015. (VI. 9.) Korm. határozat (a továbbiakban: Határozat) szerint átcsoportosított összeg a 2016. évben fizetendő jogdíjakra is felhasználható.
 
-## 2. A Határozatban a „2015. szeptember 30.” szövegrész helyébe a „2016. szeptember 30.” szöveg lép.
-
-## 3. A Miniszterelnökség és az Emberi Erőforrások Minisztériuma fejezetek közötti előirányzat-átcsoportosításokról szóló 1574/2015. (IX. 4.) Korm. határozatban a „2016. augusztus 31.” szövegrész helyébe a „2017. január 30.” szöveg lép.
+## 2–3.[^1]
 
 1. melléklet az 1514/2016. (IX. 22.) Korm. határozathoz
 
@@ -119,3 +117,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
