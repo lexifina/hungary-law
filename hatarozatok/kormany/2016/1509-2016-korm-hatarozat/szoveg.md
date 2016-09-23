@@ -6,4 +6,6 @@ A Kormány a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. 
 
 3. felhívja a külpolitikáért felelős minisztert, hogy az esedékes ülésen való részvételhez szükséges meghatalmazási okiratot adja ki;
 
-4. visszavonja az ENSZ Éghajlatváltozási Keretegyezményben Részes Felek Konferenciájának ülésszakain való magyar részvételről szóló 2299/2004. (XII. 1.) Korm. határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
