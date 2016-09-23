@@ -6,4 +6,6 @@ A Kormány a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. 
 
 3. felhívja a külpolitikáért felelős minisztert, hogy az esedékes ülésen való részvételhez szükséges meghatalmazási okiratot adja ki;
 
-4. visszavonja az ózonréteget lebontó anyagokról szóló Montreali Jegyzőkönyv részes országai Konferenciájának ülésein való magyar részvételről szóló 2293/2004. (XI. 24.) Korm. határozatot.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
