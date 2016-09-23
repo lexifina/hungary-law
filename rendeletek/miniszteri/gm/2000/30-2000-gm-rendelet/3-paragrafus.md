@@ -6,9 +6,10 @@
 
 3. § (1) Az információnyújtás célja, hogy elősegítse az elhelyezkedést és az üres álláshelyek betöltését.
 
-(2) Az Flt. 13/A. §-a (2) bekezdésének a) pontjában meghatározott szolgáltatás a foglalkozásokra, a térségben elérhető képzésekre, a régió, a megye, valamint a kistérség munkaerőpiaci helyzetére, a munkaerő-kereslet és -kínálat helyi jellemzőire vonatkozó információk nyújtását, a foglalkoztatást elősegítő támogatások és a munkanélküli ellátásokra[^6] vonatkozó lehetőségek ismertetését, továbbá a foglalkoztatással összefüggő jogszabályokkal kapcsolatos tájékoztatást és az azokról szóló ismertetők átadását tartalmazza (a továbbiakban: információnyújtás).
+(2)[^6] A munkaerő-piaci és foglalkozási információ nyújtása szolgáltatás a foglalkozásokra, a térségben elérhető képzésekre, a régió, a megye, valamint a kistérség munkaerőpiaci helyzetére, a munkaerő-kereslet és -kínálat helyi jellemzőire vonatkozó információk nyújtását, a foglalkoztatást elősegítő támogatások és a munkanélküli ellátásokra[^7] vonatkozó lehetőségek ismertetését, továbbá a foglalkoztatással összefüggő jogszabályokkal kapcsolatos tájékoztatást és az azokról szóló ismertetők átadását tartalmazza (a továbbiakban: információnyújtás).
 
 (3) Az információnyújtás történhet önállóan vagy tanácsadás, állásbörze, továbbá munkaközvetítés keretében.
 
 [^5]: A 2. § a 9/2015. (III. 31.) NGM rendelet 22. § c) és d) pontja szerint módosított szöveg.
-[^6]: A 20/2005. (X. 27.) FMM rendelet 29. § (6) bekezdése alapján a "munkanélküli ellátások" kifejezés alatt "álláskeresők támogatása" kifejezést is érteni kell.
+[^6]: A 3. § (2) bekezdése a 32/2016. (IX. 8.) NGM rendelet 7. § b) pontja szerint módosított szöveg.
+[^7]: A 20/2005. (X. 27.) FMM rendelet 29. § (6) bekezdése alapján a "munkanélküli ellátások" kifejezés alatt "álláskeresők támogatása" kifejezést is érteni kell.
