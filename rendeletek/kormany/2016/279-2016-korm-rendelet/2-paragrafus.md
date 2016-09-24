@@ -1,0 +1,1 @@
+## 1. § Az elem- és akkumulátorhulladékkal kapcsolatos hulladékgazdálkodási tevékenységekről szóló 445/2012. (XII. 29.) Korm. rendelet (a továbbiakban: R.) 2. melléklete az 1. melléklet szerint módosul.
