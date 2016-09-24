@@ -54,13 +54,13 @@ gd) kilogrammonkénti vagy darabonkénti forgalmi értékét.
 
 (6) Az állat, anyag, eszköz, tárgy, élelmiszer vagy takarmány káreseménykori forgalmi értéke megállapításának alapja:
 
-a) tenyészállatoknál a számlákkal igazolt, három hónapnál nem régebbi, beszerzési ár (beleértve az importárat is), vagy a megelőző három hónapban az üzem által értékesített állatok számlákkal igazolt, átlagos tenyészállat-értékesítési súly- vagy egyedenkénti átlagára,
+a)[^13] tenyészállatoknál – az adott fertőző állatbetegség megelőzéséről és leküzdéséről szóló miniszteri rendeletben foglaltakat is figyelembe véve – a számlákkal igazolt, három hónapnál nem régebbi beszerzési ár, beleértve az importárat is, vagy a megelőző három hónapban az üzem által értékesített állatok számlákkal igazolt, átlagos tenyészállat-értékesítési súly- vagy egyedenkénti átlagára,
 
 b) hízóállatok esetén a területen működő, engedéllyel rendelkező felvásárló szervezet által számlával igazolt, a káresemény időszakában alkalmazott élőtömeg kilogrammonkénti ára,
 
 c) a legalább hat hónapja zárt körülmények között, vadasparkban, vadaskertben, röptetőben tartott vagy tenyésztett vadonélő haszonállatok esetén a felvásárló szervezet által számlával igazolt, a káresemény időszakában alkalmazott felvásárlási ár,
 
-d) az a)–c) pontban megnevezettek hiánya esetén a kárbecslésben érintett állathoz hasonló, azzal azonos fajú, fajtájú, ivarú, korú és hasznosítású állatra vonatkozó, szakértő által megadott, az adott területen a káresemény időszakában kialakult piaci árak átlaga,
+d)[^14] az a)–c) pontban megnevezettek hiánya esetén a kárbecslésben érintett állathoz hasonló, azzal azonos fajú, fajtájú, ivarú, korú és hasznosítású állatra vonatkozó, az adott fertőző állatbetegség megelőzéséről és leküzdéséről szóló miniszteri rendeletben foglaltak figyelembevételével, szakértő által megadott, az adott területen a káresemény időszakában kialakult piaci árak átlaga,
 
 e) sperma, embrió, tenyész- és keltetőtojás esetén az előállító, valamint forgalmazó szervezet által számlával igazolt, a káreseményt megelőző három hónapos időszak kialakult értékesítési átlagára, vagy szakértő által megadott piaci árak átlaga,
 
@@ -106,11 +106,11 @@ n) fertőzésközvetítő anyagok, eszközök, tárgyak esetén szakértő álta
 
 (9) Az Éltv. 51. § (3) bekezdés p) pontja szerinti intézkedés elrendelése esetén kártalanítási összeget úgy kell megállapítani, mintha az adott földterületet, járművet, épületet, berendezést vagy eszközt bérbe adták volna a káresemény időszakában az adott területen kialakult bérleti díjak figyelembevételével.
 
-(10)[^13] A felhasznált anyagok esetében a kártalanítási összeget az adott anyag forgalmi értéke alapján kell megállapítani. A becslési eljárás során a járási hivatal szakértőt is igénybe vehet.
+(10)[^15] A felhasznált anyagok esetében a kártalanítási összeget az adott anyag forgalmi értéke alapján kell megállapítani. A becslési eljárás során a járási hivatal szakértőt is igénybe vehet.
 
 (11) Ha a földterület, jármű, épület, berendezés, eszköz igénybevételét követően felmerül, hogy az már nem használható a rendeltetésének megfelelően, akkor a kártalanítási összeget független szakértő bevonásával kell megállapítani.
 
-(12)[^14] A rendelet hatálya alá tartozó eljárásokban elsősorban olyan szakértőt lehet igénybe venni, aki vagy amely
+(12)[^16] A rendelet hatálya alá tartozó eljárásokban elsősorban olyan szakértőt lehet igénybe venni, aki vagy amely
 
 a) az érintett állatfaj – illetve azon belül állatfajta – vonatkozásában elismert tenyésztő szervezet vagy annak hiányában tenyésztő szövetség vagy egyesület, mezőgazdasági és élelmiszeripari termékek tekintetében az adott ágazatban elismert szakmaközi szervezet, vagy
 
@@ -118,5 +118,7 @@ b) meghatározott anyagok, eszközök és tárgyak esetében az adott anyag, esz
 
 [^11]: Az 5. § (2) bekezdés nyitó szövegrésze a 29/2016. (IV. 11.) FM rendelet 9. § e) pontja szerint módosított szöveg.
 [^12]: Az 5. § (4) bekezdése a 29/2016. (IV. 11.) FM rendelet 9. § e) pontja szerint módosított szöveg.
-[^13]: Az 5. § (10) bekezdése a 29/2016. (IV. 11.) FM rendelet 9. § e) pontja szerint módosított szöveg.
-[^14]: Az 5. § (12) bekezdését a 29/2016. (IV. 11.) FM rendelet 5. §-a iktatta be.
+[^13]: Az 5. § (6) bekezdés a) pontja a 64/2016. (IX. 19.) FM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^14]: Az 5. § (6) bekezdés d) pontja a 64/2016. (IX. 19.) FM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^15]: Az 5. § (10) bekezdése a 29/2016. (IV. 11.) FM rendelet 9. § e) pontja szerint módosított szöveg.
+[^16]: Az 5. § (12) bekezdését a 29/2016. (IV. 11.) FM rendelet 5. §-a iktatta be.

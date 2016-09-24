@@ -1,4 +1,4 @@
-## 6. [^19] Az aktív közreműködő
+## 6. [^21] Az aktív közreműködő
 
 7. § (1) Amennyiben a kártalanításra jogosult megszegi az Éltv. 18. § (1) bekezdés g) pontjában foglalt kötelezettségét vagy önhibáján kívül azt nem tudja teljesíteni, a járványügyi intézkedések végrehajtása érdekében a megyei kormányhivatal a járási hivatal tájékoztatásával egyidejűleg, illetve a járási hivatal az Éltv. 51. § (3) bekezdés p) és q) pontjában előírt tevékenység végzésére alkalmas aktív közreműködőt jelöl ki.
 
@@ -16,4 +16,4 @@ c) – szükség esetén – a szállítás és a járműfertőtlenítés rendj�
 
 (5) A 8. és 9. §-ban szereplő eljárások kivételével a (2)–(4) bekezdés rendelkezéseit kell alkalmazni azokban az esetekben is, amikor az aktív közreműködésre nem az (1) bekezdésben leírtak, hanem valamely speciális szakértelmet igénylő tevékenység végrehajtása miatt van szükség.
 
-[^19]: A 6. alcím (7–9. §) a 29/2016. (IV. 11.) FM rendelet 7. §-ával megállapított szöveg.
+[^21]: A 6. alcím (7–9. §) a 29/2016. (IV. 11.) FM rendelet 7. §-ával megállapított szöveg.
