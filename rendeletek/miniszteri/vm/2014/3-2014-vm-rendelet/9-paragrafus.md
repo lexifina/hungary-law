@@ -1,26 +1,29 @@
 ## 6. Eljárás fertőzöttség megállapítása esetén
 
-9. § (1)[^28] A fertőzöttség hatósági megállapítását követően a fertőzött állományok felszámolása vagy mentesítése iránt a járási hivatal intézkedik.
+9. § (1)[^31] A fertőzöttség megállapítását követően a fertőzött állományok mentesítése iránt a járási hivatal intézkedik.
 
-(2)[^29] Fertőzöttségre gyanús sertést diagnosztikai vizsgálat céljából az aktuális járványügyi helyzet alapján a járási hivatal határozatával a fertőzöttség hatósági megállapítása nélkül is le lehet öletni állami kártalanítás mellett.
+(2)[^32]
 
-(3)[^30] Fertőzött nagylétszámú állomány esetében az állattartónak mentesítési tervet kell készítenie, amelyet a megyei kormányhivatalnak jóváhagyásra be kell nyújtania. Az esetleges vakcinás védekezésről – a földrajzi és járványügyi szempontok figyelembevételével – a megyei kormányhivatal a mentesítési tervet jóváhagyó határozatában foglal állást. A mentesítési terv végrehajtásának valamennyi költsége, beleértve a vakcina árát, az állattartót terheli.
+(3)[^33] Fertőzött nagylétszámú állomány esetében az állattartónak mentesítési tervet kell készítenie és azt a megyei kormányhivatalhoz jóváhagyásra be kell nyújtania. A megyei kormányhivatal a mentesítési tervet határozattal hagyja jóvá. Az állományok mentesítését azonnali állománycsere módszerével csak az országos főállatorvos engedélyével lehet végrehajtani. A mentesítési terv végrehajtásának valamennyi költsége – beleértve a vakcina árát is – az állattartót terheli.
 
-(3a)[^31] A fertőzött sertéseket a járási hivatal határozata alapján vágásra kell bocsátani. Amennyiben tenyészállatokat kell vágásra értékesíteni, a tulajdonos a tenyészérték és a vágóérték különbségének mértékében állami kártalanításra jogosult. A nagylétszámú tenyésztelepek esetében az állami kártalanítás feltétele a tulajdonos részéről két éven belül legalább hasonló nagyságú mentes tenyésztelep létrehozására vállalt kötelezettség.
+(3a)[^34] A nagylétszámú tenyésztelepek esetében a fertőzött sertéseket a jóváhagyott mentesítési terv üteme szerint kell levágatni. A mentesítés során levágott állatok után – ha e rendelet eltérően nem rendelkezik – állami kártalanítás nem jár. A mentesítés adott telepen történő gyorsítása vagy befejezése érdekében tenyészállatok állami kártalanítás melletti levágatása csak az országos főállatorvos engedélyével rendelhető el. Az állami kártalanítás további feltétele a tulajdonos részéről két éven belül legalább hasonló nagyságú mentes tenyésztelep létrehozására vállalt kötelezettség.
 
-(4)[^32] Amennyiben egy település kislétszámú állományaiban a minősítő vizsgálatok során a vizsgált állományok 5%-a vagy kevesebb bizonyul pozitívnak, akkor a pozitív egyedeket és a velük egy udvarban tartott sertéseket haladéktalanul vágásra kell értékesíteni. A fertőzött egyedek eltávolítását követően a településen újból minősítő vizsgálatokat kell végezni. Amennyiben ismételten találnak pozitív egyedeket, akkor a járási hivatal a település sertésállományaira vonatkozóan mentesítési tervet készít, amelyet a megyei kormányhivatal hagy jóvá.
+(3b)[^35] Tenyészállatok járványügyi intézkedésként elrendelt levágatása esetén a tulajdonos a forgalmi érték és a vágóérték különbségének mértékében állami kártalanításra jogosult. Az állatok forgalmi értéke tenyészállatok esetében a járványügyi intézkedésként levágatott vagy leöletett egyedekkel, azok vágatásának időpontjában megegyező genetikai és állategészségügyi státuszban lévő tenyészállatok számlákkal igazolt, három hónapnál nem régebbi beszerzési ára (beleértve az importárat is), vagy a megelőző három hónapban a tenyészetből értékesített, a járványügyi intézkedésként levágatott vagy leöletett egyedekkel azok vágatásának időpontjában megegyező genetikai és állategészségügyi státuszban lévő tenyészállatok számlákkal igazolt, átlagos súly- vagy egyedenkénti átlagára. Számlákkal igazolt beszerzési vagy értékesítési ár hiányában a forgalmi érték a kárbecslésben érintett állathoz hasonló, azzal azonos fajú, fajtájú, ivarú, korú, hasznosítású és levágatás időpontjában azonos állategészségügyi státuszú állatra vonatkozó, szakértő által megadott, az adott területen a káresemény időszakában kialakult piaci árak átlaga.
 
-(5)[^33] Amennyiben egy település kislétszámú állományában a minősítő vizsgálatok során a vizsgált egyedeknek több, mint 5%-a bizonyult pozitívnak, akkor a járási hivatal a település sertésállományaira vonatkozóan mentesítési tervet készít, amelyet a megyei kormányhivatal hagy jóvá. Amennyiben a település körül vont 3 km-es zónán belül nagylétszámú mentes állomány található, akkor a pozitív egyedeket és a velük egy udvarban tartott sertéseket vágásra kell értékesíteni.
+(4)[^36] Amennyiben egy település kislétszámú állományaiban a minősítő vagy ellenőrző vizsgálatok során pozitív egyedet találnak, a járási hivatal a település sertésállományaira vonatkozóan mentesítési tervet készít, melyet a megyei kormányhivatal hagy jóvá. A mentesítés adott településen történő gyorsítása vagy befejezése érdekében tenyészállatok állami kártalanítás melletti levágatása csak az országos főállatorvos engedélyével rendelhető el.
 
-(6)[^34] Az állománycserére kerülő kislétszámú állományok felszámolása elhalasztható, amíg valamennyi, az állományban lévő hízóállat eléri a vágási testtömeget. Ez esetben a tenyészállatok termékenyítése tilos, valamint a gazdaságba sertés nem szállítható be, amíg az utolsó állat eltávolítását követő takarítás és fertőtlenítés meg nem történik. A hatósági állatorvosnak az állattartó erre vonatkozó bejelentését követően a helyszínen ellenőriznie kell, hogy megtörtént-e az állomány felszámolása, illetve hogy nem került-e sor valamely hízó tenyészállattá történő átminősítésére.
+(5)[^37]
 
-(7)[^35] A fertőzött vagy fertőzöttségre gyanús sertések elhullása során keletkezett összes mellékterméket a nem emberi fogyasztásra szánt állati eredetű melléktermékekre vonatkozó állategészségügyi szabályok megállapításáról szóló miniszteri rendeletben előírt módon ártalmatlanítani kell.
+(6)[^38] A fertőzött kislétszámú állományokban a tenyészállatok termékenyítése tilos, valamint a gazdaságba sertés nem szállítható be, amíg az utolsó állat eltávolítását követő takarítás és fertőtlenítés meg nem történik. A hatósági állatorvos az állattartó erre vonatkozó bejelentését követően az állattartó telep kiürítését és a takarítás megtörténtét a helyszínen ellenőrzi.
 
-[^28]: A 9. § (1) bekezdése a 16/2016. (III. 11.) FM rendelet 15. § 3. pontja szerint módosított szöveg.
-[^29]: A 9. § (2) bekezdése a 16/2016. (III. 11.) FM rendelet 15. § 3. pontja szerint módosított szöveg.
-[^30]: A 9. § (3) bekezdése a 16/2016. (III. 11.) FM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^31]: A 9. § (3a) bekezdését a 16/2016. (III. 11.) FM rendelet 8. § (1) bekezdése iktatta be.
-[^32]: A 9. § (4) bekezdése a 16/2016. (III. 11.) FM rendelet 15. § 3., 6. és 8. pontja szerint módosított szöveg.
-[^33]: A 9. § (5) bekezdése a 16/2016. (III. 11.) FM rendelet 15. § 3., 6. és 8. pontja szerint módosított szöveg.
-[^34]: A 9. § (6) bekezdése a 16/2016. (III. 11.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.
-[^35]: A 9. § (7) bekezdése a 16/2016. (III. 11.) FM rendelet 15. § 9. pontja szerint módosított szöveg.
+(7)[^39] A fertőzött vagy fertőzöttségre gyanús sertések elhullása során keletkezett összes mellékterméket a nem emberi fogyasztásra szánt állati eredetű melléktermékekre vonatkozó állategészségügyi szabályok megállapításáról szóló miniszteri rendeletben előírt módon ártalmatlanítani kell.
+
+[^31]: A 9. § (1) bekezdése a 16/2016. (III. 11.) FM rendelet 15. § 3. pontja, a 64/2016. (IX. 19.) FM rendelet 7. § c) pontja szerint módosított szöveg.
+[^32]: A 9. § (2) bekezdését a 64/2016. (IX. 19.) FM rendelet 7. § d) pontja hatályon kívül helyezte.
+[^33]: A 9. § (3) bekezdése a 64/2016. (IX. 19.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^34]: A 9. § (3a) bekezdését a 16/2016. (III. 11.) FM rendelet 8. § (1) bekezdése iktatta be, szövege a 64/2016. (IX. 19.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^35]: A 9. § (3b) bekezdését a 64/2016. (IX. 19.) FM rendelet 4. § (1) bekezdése iktatta be.
+[^36]: A 9. § (4) bekezdése a 64/2016. (IX. 19.) FM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^37]: A 9. § (5) bekezdését a 64/2016. (IX. 19.) FM rendelet 7. § d) pontja hatályon kívül helyezte.
+[^38]: A 9. § (6) bekezdése a 64/2016. (IX. 19.) FM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^39]: A 9. § (7) bekezdése a 16/2016. (III. 11.) FM rendelet 15. § 9. pontja szerint módosított szöveg.

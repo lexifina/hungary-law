@@ -6,6 +6,6 @@
 
 (3) Az NRL feladatait a Nemzeti Élelmiszerlánc-biztonsági Hivatal Állategészségügyi Diagnosztikai Igazgatósága látja el.
 
-(4)[^48] A laboratórium a vizsgálatok eredményéről köteles értesíteni a beküldő állatorvost és a megyei kormányhivatalt.
+(4)[^58] A laboratórium a vizsgálatok eredményéről köteles értesíteni a beküldő állatorvost és a megyei kormányhivatalt.
 
-[^48]: A 19. § (4) bekezdése a 16/2016. (III. 11.) FM rendelet 15. § 10. pontja szerint módosított szöveg.
+[^58]: A 19. § (4) bekezdése a 16/2016. (III. 11.) FM rendelet 15. § 10. pontja szerint módosított szöveg.

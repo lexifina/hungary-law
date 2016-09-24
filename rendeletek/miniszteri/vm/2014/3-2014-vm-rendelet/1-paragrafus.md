@@ -18,8 +18,8 @@ g)[^2] tenyészkoca: az állattenyésztési jogszabályok szerint tenyésztési 
 
 h) tenyészkocasüldő: hat hónaposnál idősebb, az állattenyésztési jogszabályok szerint tenyésztési célra kiválasztott, még egyszer sem fialt, nőivarú sertés;
 
-i)[^3] mentes terület: a NÉBIH határozatával mentesnek minősített egy vagy több járás vagy megye.
+i)[^3] mentes terület: a NÉBIH határozatával mentesnek minősített egy vagy több járás vagy megye területe.
 
 [^1]: Az 1. § b) pontja a 16/2016. (III. 11.) FM rendelet 15. § 1. pontja szerint módosított szöveg.
 [^2]: Az 1. § g) pontja a 16/2016. (III. 11.) FM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § i) pontját a 16/2016. (III. 11.) FM rendelet 1. § (2) bekezdése iktatta be.
+[^3]: Az 1. § i) pontját a 16/2016. (III. 11.) FM rendelet 1. § (2) bekezdése iktatta be, szövege a 64/2016. (IX. 19.) FM rendelet 6. § a) pontja szerint módosított szöveg.

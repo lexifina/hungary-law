@@ -16,7 +16,7 @@ f) az állattartó telepen belül az állatok tartózkodási helyéhez (istáll�
 
 g) az elhullott, leölt sertéseket ártalmatlanná tételükig úgy kell megőrizni, hogy azokhoz sem állatok, sem pedig illetéktelen személyek ne juthassanak hozzá;
 
-h)[^49] a zárlat alatt lévő helyen a sertéstrágyát, az almot és a takarmányhulladékot össze kell gyűjteni és azt a nem emberi fogyasztásra szánt állati eredetű melléktermékekre vonatkozó állategészségügyi szabályok megállapításáról szóló miniszteri rendelet szerint ártalmatlanítani kell.
+h)[^59] a zárlat alatt lévő helyen a sertéstrágyát, az almot és a takarmányhulladékot össze kell gyűjteni és azt a nem emberi fogyasztásra szánt állati eredetű melléktermékekre vonatkozó állategészségügyi szabályok megállapításáról szóló miniszteri rendelet szerint ártalmatlanítani kell.
 
 (2) A helyi zárlat alá helyezett gazdaságban az (1) bekezdésben foglaltakon túlmenően:
 
@@ -26,4 +26,4 @@ b) helyi zárlat alatt álló helyen termékenyíteni és fedeztetni tilos;
 
 c) helyi zárlat alatt álló helyről sertést kiszállítani csak az 5. § (3) bekezdése alapján lehet.
 
-[^49]: A 20. § (1) bekezdés h) pontja a 16/2016. (III. 11.) FM rendelet 15. § 13. pontja szerint módosított szöveg.
+[^59]: A 20. § (1) bekezdés h) pontja a 16/2016. (III. 11.) FM rendelet 15. § 13. pontja szerint módosított szöveg.
