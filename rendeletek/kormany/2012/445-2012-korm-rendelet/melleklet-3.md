@@ -22,6 +22,8 @@
 
 | 10 | 2016. szeptember 26-ig | 0,45 |
 
+| 11 | 2016. szeptember 26-a után | 0,45 |
+
 ## A gyűjtési kötelezettség megállapítására a következő képletet kell alkalmazni:
 
 ## ahol:

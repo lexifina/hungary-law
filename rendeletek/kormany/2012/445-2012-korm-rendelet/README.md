@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-445-20-
 | 2015-01-01 | 2012-445-20-22.4 | 310/2014. (XII. 11.) Korm. rendelet |
 | 2015-01-02 | 2012-445-20-22.5 | 370/2014. (XII. 30.) Korm. rendelet |
 | 2015-10-02 | 2012-445-20-22.6 | 370/2014. (XII. 30.) Korm. rendelet |
+| 2016-09-24 | 2012-445-20-22.7 | 370/2014. (XII. 30.) Korm. rendelet |
