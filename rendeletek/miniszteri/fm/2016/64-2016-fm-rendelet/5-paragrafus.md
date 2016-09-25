@@ -1,1 +1,0 @@
-## „(6) A fertőzött kislétszámú állományokban a tenyészállatok termékenyítése tilos, valamint a gazdaságba sertés nem szállítható be, amíg az utolsó állat eltávolítását követő takarítás és fertőtlenítés meg nem történik. A hatósági állatorvos az állattartó erre vonatkozó bejelentését követően az állattartó telep kiürítését és a takarítás megtörténtét a helyszínen ellenőrzi.”
