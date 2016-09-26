@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1992-111-20-
 | 2013-08-01 | 1992-111-20-22.11 | 297/2013. (VII. 29.) Korm. rendelet |
 | 2014-12-17 | 1992-111-20-22.12 | 317/2014. (XII. 12.) Korm. rendelet |
 | 2015-06-01 | 1992-111-20-22.13 | 128/2015. (V. 27.) Korm. rendelet |
+| 2016-09-26 | 1992-111-20-22.14 | 283/2016. (IX. 21.) Korm. rendelet |
