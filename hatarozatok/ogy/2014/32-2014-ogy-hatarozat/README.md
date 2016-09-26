@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-32-30-4
 | --- | --- | --- |
 | 2014-07-08 | 2014-32-30-41.1 | 32/2014. (VII. 8.) OGY határozat |
 | 2015-11-02 | 2014-32-30-41.2 | 51/2015. (XI. 6.) OGY határozat |
+| 2016-09-26 | 2014-32-30-41.3 | 5/2018. (V. 8.) OGY határozat |

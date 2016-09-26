@@ -16,8 +16,9 @@ Nyitrai Zsolt (Fidesz)
 
 dr. Vitányi István (Fidesz)[^2]
 
-dr. Schiffer András (LMP)
+Sallai R. Benedek (LMP)[^3]
 
 2. Ez a határozat az Abth. hatálybalépésének napján lép hatályba.
 
 [^2]: Az 51/2015. (XI. 6.) OGY határozat 1. pontjával megállapított szöveg.
+[^3]: A 17/2016. (IX. 27.) OGY határozat 1. pontjával megállapított szöveg.
