@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külgazdasági és külügyminiszter előterjesztésére – Máthé László Eduárd rendkívüli és meghatalmazott nagykövetet – Magyarország nairobi nagykövetségének a vezetésére, valamint Magyarországnak az Etióp Demokratikus Szövetségi Köztársaságban, az Ugandai Köztársaságban, a Dzsibuti Köztársaságban, a Tanzániai Egyesült Köztársaságban, a Szomáliai Szövetségi Köztársaságban és a Kongói Demokratikus Köztársaságban való képviseletére kapott megbízása érintetlenül hagyása mellett – megbízom Magyarországnak a Seychelle-szigeteki Köztársaságban való képviseletével.
+
+KEH ügyszám: IV-5/04452-2/2015.
