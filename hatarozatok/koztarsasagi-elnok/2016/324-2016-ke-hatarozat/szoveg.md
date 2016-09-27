@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés b) pontja alapján – a külgazdasági és külügyminiszter előterjesztésére – dr. Varga Koritár Pál rendkívüli és meghatalmazott nagykövetet – Magyarország mexikóvárosi nagykövetségének a vezetésére, valamint Magyarországnak a Guatemalai Köztársaságban, a Costa Rica-i Köztársaságban, a Hondurasi Köztársaságban és az El Salvadori Köztársaságban való képviseletére kapott megbízása érintetlenül hagyása mellett – felmentem Magyarország Jamaicában való képviseletére kapott megbízása alól, egyúttal megbízom Magyarországnak a Panamai Köztársaságban való képviseletével.
+
+KEH ügyszám: IV-5/02092-2/2015.
