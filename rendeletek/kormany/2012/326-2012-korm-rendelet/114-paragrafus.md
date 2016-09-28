@@ -12,11 +12,11 @@ a) a kedvezményezett, a vele együtt jogosított vagy kötelezett személy, tov
 
 b) az a) pont alá tartozó személy vagy szervezet képviselője, vagy olyan volt képviselője, aki a szabálytalansági eljárás tárgyát illetően érintett volt,
 
-c)[^114] az a) vagy a b) pont alá tartozó személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa,
+c)[^115] az a) vagy a b) pont alá tartozó személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa,
 
-d)[^115] aki az érintett projektkiválasztási eljárásában, illetve a támogatási döntés előkészítésében részt vett,
+d)[^116] aki az érintett projektkiválasztási eljárásában, illetve a támogatási döntés előkészítésében részt vett,
 
-e)[^116] a d) pontban meghatározott személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa.
+e)[^117] a d) pontban meghatározott személynek a Ptk. 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy volt házastársa.
 
 (3) A szabálytalansági eljárás során eljáró szervezet az eljárásában köteles törekedni arra, hogy a szabálytalansággal érintett projekt célja megvalósuljon és lehetőség szerint a cél indokolatlanul ne sérüljön.
 
@@ -28,6 +28,6 @@ e)[^116] a d) pontban meghatározott személynek a Ptk. 8:1. § (1) bekezdés 1.
 
 (7) A szabálytalansági eljárás az eljáró szervezet vezetőjének döntésével zárul.
 
-[^114]: A 114. § (2) bekezdés c) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 49. pontja szerint módosított szöveg.
-[^115]: A 114. § (2) bekezdés d) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 50. pontja szerint módosított szöveg.
-[^116]: A 114. § (2) bekezdés e) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 51. pontja szerint módosított szöveg.
+[^115]: A 114. § (2) bekezdés c) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 49. pontja szerint módosított szöveg.
+[^116]: A 114. § (2) bekezdés d) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 50. pontja szerint módosított szöveg.
+[^117]: A 114. § (2) bekezdés e) pontja a 35/2016. (II. 29.) Korm. rendelet 49. § 51. pontja szerint módosított szöveg.

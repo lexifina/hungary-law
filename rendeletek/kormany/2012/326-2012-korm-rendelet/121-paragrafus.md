@@ -1,4 +1,4 @@
-121. § (1)[^120] A szabálytalansági eljárás eredményéről – szabálytalanság megállapításának hiányában is – a szabálytalanság felelős szabálytalanság-eljárási jegyzőkönyvet készít.
+121. § (1)[^121] A szabálytalansági eljárás eredményéről – szabálytalanság megállapításának hiányában is – a szabálytalanság felelős szabálytalanság-eljárási jegyzőkönyvet készít.
 
 (2) A szabálytalanság-eljárási jegyzőkönyvnek tartalmaznia kell
 
@@ -28,4 +28,4 @@ a) pontos hivatkozást a megsértett rendelkezésekre,
 
 b) azt, hogy a szabálytalanság a donor országok által meghatározott jelentéstételi kötelezettség alá tartozik-e.
 
-[^120]: A 121. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 54. pontja szerint módosított szöveg.
+[^121]: A 121. § (1) bekezdése a 35/2016. (II. 29.) Korm. rendelet 49. § 54. pontja szerint módosított szöveg.

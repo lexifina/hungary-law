@@ -1,6 +1,6 @@
 ## 154. §
 
-## 60. [^147] A kis- és középvállalkozásoknak nyújtott innovációs támogatás
+## 60. [^148] A kis- és középvállalkozásoknak nyújtott innovációs támogatás
 
 155. § (1) A kis- és középvállalkozásoknak nyújtott innovációs támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében elszámolható
 
@@ -14,4 +14,4 @@ c) innovációs tanácsadás és innovációs támogató szolgáltatás költsé
 
 (3) Az (1) bekezdés c) pontja szerinti esetben a támogatási intenzitás az elszámolható költségek 100%-áig növelhető, ha a támogatás összege nem haladja meg három év alatt a 200 000 eurót.
 
-[^147]: A 60. alcím (155. §) a 35/2016. (II. 29.) Korm. rendelet 43. §-ával megállapított szöveg.
+[^148]: A 60. alcím (155. §) a 35/2016. (II. 29.) Korm. rendelet 43. §-ával megállapított szöveg.

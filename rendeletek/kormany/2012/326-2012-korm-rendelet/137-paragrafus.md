@@ -1,4 +1,4 @@
-## 47. [^133] A regionális beruházási támogatás
+## 47. [^134] A regionális beruházási támogatás
 
 137. § (1) A regionális beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) igénybevételének feltétele, hogy a tervezett beruházás
 
@@ -16,4 +16,4 @@ b) olyan új gazdasági tevékenység végzésére irányuló induló beruházá
 
 (3) Meglévő létesítmény termékkínálatának a létesítményben addig nem gyártott termékkel történő bővítését eredményező induló beruházás, valamint meglévő létesítmény tevékenységének új tevékenységgel történő bővítését eredményező, új gazdasági tevékenység végzésére irányuló induló beruházás esetén az elszámolható költségeknek legalább 200%-kal meg kell haladniuk az eredeti tevékenység keretében használt és az új tevékenység keretében is használni tervezett tárgyi eszközöknek és immateriális javaknak a beruházás megkezdése előtti adóévben nyilvántartott könyv szerinti értékét.
 
-[^133]: A 47. alcím (137–140/A. §) a 35/2016. (II. 29.) Korm. rendelet 41. §-ával megállapított szöveg.
+[^134]: A 47. alcím (137–140/A. §) a 35/2016. (II. 29.) Korm. rendelet 41. §-ával megállapított szöveg.

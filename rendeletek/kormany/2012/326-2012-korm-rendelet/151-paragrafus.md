@@ -1,3 +1,3 @@
-## 56.[^143]
+## 56.[^144]
 
-[^143]: Az 56. alcímet (151. §) a 35/2016. (II. 29.) Korm. rendelet 50. § 13. pontja hatályon kívül helyezte.
+[^144]: Az 56. alcímet (151. §) a 35/2016. (II. 29.) Korm. rendelet 50. § 13. pontja hatályon kívül helyezte.

@@ -1,5 +1,5 @@
 ## 152. §
 
-## 58.[^145]
+## 58.[^146]
 
-[^145]: Az 58. alcímet (153. §) a 35/2016. (II. 29.) Korm. rendelet 50. § 13. pontja hatályon kívül helyezte.
+[^146]: Az 58. alcímet (153. §) a 35/2016. (II. 29.) Korm. rendelet 50. § 13. pontja hatályon kívül helyezte.
