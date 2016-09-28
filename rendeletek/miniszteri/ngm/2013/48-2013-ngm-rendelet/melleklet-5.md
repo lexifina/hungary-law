@@ -1,4 +1,4 @@
-5. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^130]
+5. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^131]
 
 ## Az Adóügyi Ellenőrző Egység (AEE) és a NAV szerverei közötti kommunikáció protokolljára vonatkozó előírások
 
@@ -1186,4 +1186,4 @@ A technikai tájékoztatás bizonylat nem adóügyi bizonylat.
 
 | 4. | Az AEE bontja az SSL kapcsolatot |
 
-[^130]: Az 5. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § f) pontjával megállapított szöveg.
+[^131]: Az 5. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § f) pontjával megállapított szöveg.

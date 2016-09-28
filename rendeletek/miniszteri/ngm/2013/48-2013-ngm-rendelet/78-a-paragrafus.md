@@ -1,6 +1,6 @@
 78/A. §[^118] (1) E rendeletnek a pénztárgépek műszaki követelményeiről, a nyugtakibocsátásra szolgáló pénztárgépek forgalmazásáról, használatáról és szervizeléséről, valamint a pénztárgéppel rögzített adatok adóhatóság felé történő szolgáltatásáról szóló 48/2013. (XI. 15.) NGM rendelet módosításáról szóló 9/2016. (III. 25.) NGM rendelettel (a továbbiakban: Mód. rendelet) megállapított 3., 4. és 5. melléklete szerinti rendelkezéseknek való megfelelést a pénztárgép forgalmazója az AEE szoftver frissítésével köteles az általa forgalmazott pénztárgépek tekintetében biztosítani.
 
-(2) Az (1) bekezdés szerinti megfelelés biztosítása érdekében a pénztárgép forgalmazásának engedélyezése iránti kérelmet és a forgalmazási engedély módosítása iránti kérelmet a Mód. rendelet hatálybalépésétől[^119] számított 180 napon belül kell az engedélyező hatóság részére a szükséges dokumentációval, valamint a típusvizsgálható pénztárgéppel együtt benyújtani, egyidejűleg pedig igazolni a 7. § (2) bekezdésének való megfelelést. A kérelem benyújtásának legkorábban a Mód. rendelet hatálybalépésétől számított 91. napon van helye.
+(2)[^119] Az (1) bekezdés szerinti megfelelés biztosítása érdekében a pénztárgép forgalmazásának engedélyezése iránti kérelmet és a forgalmazási engedély módosítása iránti kérelmet 2017. április 30-ig kell az engedélyező hatóság részére a szükséges dokumentációval, valamint a típusvizsgálható pénztárgéppel együtt benyújtani, egyidejűleg pedig igazolni a 7. § (2) bekezdésének való megfelelést. A kérelem benyújtásának legkorábban a Mód. rendelet hatálybalépésétől számított 91. napon van helye.
 
 (3) Ha a pénztárgép forgalmazására irányuló engedélykérelmet vagy forgalmazási engedély módosítására irányuló kérelmet a Mód. rendelet hatálybalépésétől[^120] számított 91. napot megelőzően nyújtják be, az engedélyező hatóság e rendelet Mód. rendelet hatálybalépését megelőzően hatályos rendelkezéseinek alkalmazásával folytatja le az engedélyezési eljárást. A jelen bekezdés alapján kiadott engedély azonban nem mentesíti a forgalmazót az (1) és (2) bekezdésben foglalt előírásoknak való megfelelés alól.
 
@@ -8,6 +8,9 @@
 
 (5) Ha sem a forgalmazó, sem a forgalmazási engedéllyel érintett pénztárgép AEE gyártója nem kezdeményezi a jelen § szerinti eljárásokat, vagy ha az engedélyező hatóság a forgalmazási engedély módosítása iránti kérelmet elutasítja, az engedélyező hatóság a Mód. rendelet előírásainak meg nem felelő pénztárgépek forgalmazási engedélyét visszavonja. A visszavont forgalmazási engedélyű pénztárgép a forgalmazási engedély visszavonásáról szóló határozat jogerőre emelkedésétől számított 5 évig üzemeltethető. A visszavont forgalmazási engedély jogerőre emelkedését követően az engedélyező hatóság haladéktalanul közleményt ad ki a visszavont forgalmazási engedély számáról, a visszavont forgalmazási engedéllyel érintett pénztárgép típusáról és annak üzemeltetési véghatáridejéről. Az MKEH és az állami adó- és vámhatóság honlapján közzéteszi a visszavont forgalmazási engedély számát, a visszavont forgalmazási engedéllyel érintett pénztárgép típusát és annak üzemeltetési véghatáridejét.
 
+(6)[^121] 2017. január 1-jét követően kizárólag a Mód. rendelet által megállapított követelményeknek megfelelő pénztárgép helyezhető üzembe.
+
 [^118]: A 78/A. §-t a 9/2016. (III. 25.) NGM rendelet 34. §-a iktatta be.
-[^119]: A hatálybalépés időpontja 2016. április 2.
+[^119]: A 78/A. § (2) bekezdése a 36/2016. (IX. 27.) NGM rendelet 2. §-a szerint módosított szöveg.
 [^120]: A hatálybalépés időpontja 2016. április 2.
+[^121]: A 78/A. § (6) bekezdését a 36/2016. (IX. 27.) NGM rendelet 1. §-a iktatta be.
