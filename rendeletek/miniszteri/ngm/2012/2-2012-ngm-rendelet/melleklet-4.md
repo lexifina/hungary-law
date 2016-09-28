@@ -34,7 +34,7 @@
 
 ## Karrier Híd Program résztvevője
 
-4. melléklet a 2/2012. (II. 7.) NGM rendelethez[^17]
+4. melléklet a 2/2012. (II. 7.) NGM rendelethez[^19]
 
 | Hatósági bizonyítvány |
 
@@ -70,4 +70,4 @@
 
 | .................................................................................... járási hivatal vezető /kiadmányozási jogkörrel rendelkező ügyintéző |
 
-[^17]: A 4. melléklet a 9/2015. (III. 31.) NGM rendelet 50. § (2) bekezdésével megállapított szöveg.
+[^19]: A 4. melléklet a 9/2015. (III. 31.) NGM rendelet 50. § (2) bekezdésével megállapított szöveg.
