@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1084-30
 | 2016-03-02 | 2016-1084-30-22.2 | 2010: CXXX. törvény |
 | 2016-07-02 | 2016-1084-30-22.3 | 1323/2016. (VII. 1.) Korm. határozat |
 | 2016-08-25 | 2016-1084-30-22.4 | 1463/2016. (VIII. 24.) Korm. határozat |
+| 2016-09-28 | 2016-1084-30-22.5 | 1463/2016. (VIII. 24.) Korm. határozat |
