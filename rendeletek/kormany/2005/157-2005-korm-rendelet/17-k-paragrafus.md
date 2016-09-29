@@ -1,4 +1,4 @@
-17/K. §[^54] (1) A közintézményi felhasználó a Tszt. 51/A. §-a szerinti moratórium (a továbbiakban: moratórium) biztosítását a moratóriummal érintett időszakot (a továbbiakban: moratóriumi időszak) legalább 15 nappal megelőzően kezdeményezi a távhőszolgáltatónál.
+17/K. §[^47] (1) A közintézményi felhasználó a Tszt. 51/A. §-a szerinti moratórium (a továbbiakban: moratórium) biztosítását a moratóriummal érintett időszakot (a továbbiakban: moratóriumi időszak) legalább 15 nappal megelőzően kezdeményezi a távhőszolgáltatónál.
 
 (2) A közintézményi felhasználó a moratórium biztosításának kezdeményezésével egyidejűleg az alábbi dokumentumokkal igazolja, hogy a Tszt. 51/A. §-ában és e rendelet 17/J. §-ában meghatározott feltételeknek megfelel:
 
@@ -18,4 +18,4 @@ g) a javítóintézet alapító okirattal, és
 
 h) a 17/J. § d) pontja szerinti közintézményi felhasználó hatályos közfinanszírozási szerződéssel.
 
-[^54]: A Vhr. 17/K. §-át a 378/2011. (XII. 31.) Korm. rendelet 81. § (3) bekezdése iktatta be.
+[^47]: A Vhr. 17/K. §-át a 378/2011. (XII. 31.) Korm. rendelet 81. § (3) bekezdése iktatta be.

@@ -1,54 +1,42 @@
-## A távhőtermelő és a távhőszolgáltató létesítési és működési engedélyének tartalma
+## A távhőtermelői létesítési és működési, valamint a távhőszolgáltatói működési engedély[^6]
 
-## [a Tszt. 12–13. §-aihoz]
+## [a Tszt. 12–17. §-aihoz]
 
-3. § (1) A távhőtermelő létesítmény létesítési és a távhőtermelői működési engedély iránti kérelemnek tartalmaznia kell:
+3. §[^7] (1) A távhőtermelői létesítési engedély iránti kérelemnek tartalmaznia kell:
 
-a)[^6] ha a kérelmező cégjegyzékben nyilvántartott cég, a kérelmező nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozatát,
+a) ha a kérelmező cégjegyzékben nyilvántartott cég, a kérelmező nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozatát,
 
-b)[^7]
+b) a kérelmező kapcsolattartójának nevét, telefonszámát, elektronikus elérhetőségét,
 
-c) az ügyintéző nevét, telefonszámát,
+c) a hőtermelő létesítmény energiahordozójának megnevezését, származását és beszerzési módját,
 
-d)[^8]
+d) a hőtermelő létesítmény (ideértve a kapcsolt villamosenergia-termelő berendezést is) beépített teljesítőképességét és jellemző műszaki adatait,
 
-e) a hőtermelő létesítmény energiahordozójának (tüzelőanyagának) megnevezését, származását és beszerzési módját,
+e) az üzembe helyezés tervezett időpontját,
 
-f) a megújuló energiahordozó felhasználására vonatkozó vizsgálat eredményét,
+f) a hőtermelésre vonatkozó főbb mennyiségi és gazdálkodási adatokat.
 
-g) a hőtermelő létesítmény beépített teljesítőképességét (kapcsolt villamosenergia-termelő berendezés teljesítmény-adatait is),
+(2) A távhőtermelői létesítési engedély iránti kérelemhez – a 8/A. § (1) bekezdésben foglaltak figyelembevételével – mellékelni kell:
 
-h) a hőtermelő létesítmény (beleértve a kapcsolt villamosenergia-termelő berendezést is) jellemző műszaki adatait,
+a) a távhőtermelés fenntarthatóságát alátámasztó ötéves üzleti tervet,
 
-i) az üzembe helyezés időpontját,
+b) a nem földgáz energiahordozón alapuló hőtermelés esetében a középtávú távhőigény kielégítéséhez szükséges energiahordozó rendelkezésre állására szolgáló szerződéseket,
 
-j) a hőtermelésre vonatkozó főbb mennyiségi és gazdálkodási adatokat,
+c) az energetikai berendezések, valamint azok energetikai és hidraulikai kapcsolatainak grafikus ábrázolását a jellemző adatok feltüntetésével,
 
-k) az egyedi közüzemi szerződés alapján a hőt vásárolók megnevezését cégnév, cím és mennyiség megjelölésével.
+d) a megújuló energiahordozó felhasználására vonatkozó vizsgálat teljes dokumentációját és
 
-(2)[^9] A távhőtermelő létesítmény létesítési és a távhőtermelői működési engedély iránti kérelemhez – az (5) bekezdésben foglaltak figyelembevételével – mellékelni kell:
+e) amennyiben annak megszerzése jogszabály alapján szükséges
 
-a)[^10]
+ea) a környezetvédelmi engedélyt vagy az egységes környezethasználati engedélyt,
 
-b) az éves üzleti tervet,
+eb) a sajátos építményre vonatkozó építési engedélyt,
 
-c) a minőségbiztosítási rendszer leírását,
+ec) a nyomástartó létesítmény létesítésére vonatkozó engedélyt,
 
-d) a középtávú távhőigény (5 év) kielégítéséhez szükséges energiahordozó rendelkezésre állására szolgáló szerződéseket,
+ed) a vízjogi létesítési engedélyt,
 
-e) a távhőszolgáltatóval kötött kereskedelmi szerződést,
+ee) a levegőtisztaság-védelmi vagy pontforrás-üzemeltetési engedélyt.
 
-f) kulturális örökségvédelmi hatástanulmányt,
-
-g) a jogszabályban előírt egyéb engedélyeket.
-
-(3) Ha a Tszt. alapján működési engedéllyel rendelkező engedélyes kér működési engedélyt, a (2) bekezdésben felsorolt csatolandó dokumentumokat nem kell a Hivatalhoz benyújtania, ha a Hivatalhoz korábban benyújtott dokumentumai már tartalmazzák a kért adatokat, és azok változatlan érvényességéről az engedélyért folyamodó nyilatkozik.
-
-(4)[^11] Ha a kérelmező cégjegyzékben nyilvántartott cég, annak cégkivonatát a Hivatal a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
-
-[^6]: A Vhr. 3. § (1) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 415. §-a hatályon kívül helyezte, újonnan a 355/2012. (XII. 13.) Korm. rendelet 15. § (1) bekezdése iktatta be.
-[^7]: A Vhr. 3. § (1) bekezdés b) pontját a 182/2009. (IX. 10.) Korm. rendelet 415. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^8]: A Vhr. 3. § (1) bekezdés d) pontját a 182/2009. (IX. 10.) Korm. rendelet 415. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^9]: A Vhr. 3. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 414. § szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^10]: A Vhr. 3. § (2) bekezdés a) pontját a 355/2012. (XII. 13.) Korm. rendelet 16. § a) pontja hatályon kívül helyezte.
-[^11]: A Vhr. 3. § (4) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^6]: A Vhr. 3. §-át megelőző alcím a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A Vhr. 3. §-a a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.

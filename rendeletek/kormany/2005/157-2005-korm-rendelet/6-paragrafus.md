@@ -1,21 +1,33 @@
-6. § (1) A távhőtermelő létesítmény létesítési és a távhőtermelő működési engedélyének tartalmaznia kell:
+6. §[^10] (1) A távhőtermelői létesítési és a távhőtermelői működési engedélynek tartalmaznia kell:
 
-a)[^15]
+a) a hőtermelő létesítmény telephelyét,
 
-b) a hőtermelő létesítmény telephelyét,
+b) a hőtermelő létesítmény energiahordozójának megnevezését,
 
-c) a hőtermelő létesítmény energiahordozójának (tüzelőanyagának) megnevezését,
+c) a hőtermelő létesítmény beépített teljesítőképességét,
 
-d) a hőtermelő létesítmény beépített teljesítőképességét,
+d) a hőtermelő létesítmény egyéb jellemző műszaki-gazdasági adatait,
 
-e) a hőtermelő létesítmény egyéb jellemző műszaki-gazdasági adatait,
+e) az üzembe helyezés időpontját, távhőtermelői létesítési engedély esetén annak tervezett időpontját,
 
-f) az üzembe helyezés időpontját,
+f) a működés során és annak megszüntetése után szükséges, a környezet- és természetvédelmi hatósággal egyetértésben meghatározott környezetvédelmi feltételeket és garanciális – rekultiválási, tájrendezési, veszélyeshulladék-kezelési és egyéb – kötelezettségeket és
 
-g) a működés során és annak megszüntetése után szükséges, a környezet- és természetvédelmi hatósággal egyetértésben meghatározott környezetvédelmi feltételeket és garanciális – rekultiválási, tájrendezési, veszélyeshulladék-kezelési és egyéb – kötelezettségeket,
+g) az egyéb – jogszabályban meghatározott – követelményeket.
 
-h) az egyéb – jogszabályban meghatározott – feltételeket.
+(2) A távhőszolgáltatói működési engedélynek tartalmaznia kell:
 
-(2) Az 5 MW-nál kisebb névleges hőteljesítményű létesítményre csak távhőtermelői működési engedélyt kell kérni és kiadni.
+a) a távhővel ellátott területi egységek megnevezését és telephelyét,
 
-[^15]: A Vhr. 6. § (1) bekezdés a) pontját a 182/2009. (IX. 10.) Korm. rendelet 415. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+b) az ellátási terület adatait,
+
+c) a működés megkezdésének időpontját,
+
+d) a távhővezeték-hálózat és más szolgáltatói berendezés üzemeltetésével, fenntartásával és fejlesztésével kapcsolatos jogokat és kötelezettségeket,
+
+e) a szükséges környezet- és természetvédelmi előírásokat,
+
+f) a felhasználói korlátozási sorrend készítésére vonatkozó követelményt és
+
+g) az egyéb – jogszabályban meghatározott – követelményeket.
+
+[^10]: A Vhr. 6. §-a a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.

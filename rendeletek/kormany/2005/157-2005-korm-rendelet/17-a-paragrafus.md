@@ -1,12 +1,14 @@
-## A költségmegosztók alkalmazásának és a költségek megosztásának általános szabályai[^36]
+## A költségmegosztók alkalmazásának és a költségek megosztásának általános szabályai[^27]
 
 ## [a Tszt. 44. § (1) bekezdéséhez]
 
-17/A. §[^37] E rendelet 17/B–17/H. §-ának alkalmazásában:
+17/A. §[^28] E rendelet 17/B–17/H. §-ának alkalmazásában:
 
 1. elszámolási időszak: azon legfeljebb 12 hónap hosszúságú időszak, amelyre vonatkozóan a felhasználási helyen igénybe vett fűtési hőmennyiség és ennek díja az épületrészek között megosztásra kerül;
 
-2. felhasználási hely fajlagos fűtési hőfelhasználása: a felhasználási helyen egy elszámolási időszakban igénybe vett fűtési hőmennyiségnek és a felhasználási hely épületrészeinek távhőrendszerről fűtött – a számlázás alapjául szolgáló – légtérfogatának a hányadosa (GJ/légm3);
+2.[^29] felhasználási hely fajlagos fűtési hőfelhasználása: a felhasználási helyen egy elszámolási időszakban igénybe vett fűtési hőmennyiségnek és a felhasználási hely épületrészeinek távhőrendszerről fűtött – a számlázás alapjául szolgáló – légtérfogatának a hányadosa (GJ/légköbméter);
+
+2a.[^30] épületrész fajlagos fűtési hőfelhasználása: az épületrészen egy elszámolási időszakban igénybe vett összes fűtési hőmennyiségnek és az épületrész légtérfogatának a hányadosa (GJ/légköbméter);
 
 3. költségmegosztó: a felhasználási helyen igénybe vett hőmennyiségnek az épületrészek közötti fogyasztásarányos megosztására alkalmas eszköz vagy műszer;
 
@@ -28,5 +30,7 @@ c) fűtési költségmegosztás céljára alkalmazott hőfogyasztásmérő, ha t
 
 9. megbízott: az a gazdálkodó szervezet, amely a tulajdonosi közösséggel kötött megbízási szerződés alapján felszereli, működteti, karbantartja a költségmegosztókat, elvégzi a költségmegosztók időszakos ellenőrzését, leolvassa, kiértékeli a költségmegosztók adatait és kiszámítja a fűtési díjmegosztási arányokat, valamint a melegvíz- díjmegosztási arányokat.
 
-[^36]: A Vhr. 17/A. §-át megelőző alcímet a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
-[^37]: A Vhr. 17/A. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^27]: A Vhr. 17/A. §-át megelőző alcímet a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^28]: A Vhr. 17/A. §-át a 104/2011. (VI. 29.) Korm. rendelet 1. §-a iktatta be.
+[^29]: A Vhr. 17/A. § 2. pontja a 281/2016. (IX. 21.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^30]: A Vhr. 17/A. § 2a. pontját a 281/2016. (IX. 21.) Korm. rendelet 2. §-a iktatta be.

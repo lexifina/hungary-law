@@ -1,7 +1,31 @@
-5. §[^12] (1)[^13] A hőtermelő létesítmények létesítése iránti eljárásban, ha a hőtermelő létesítmény építésével összefüggő eljárás során, a tevékenységgel kapcsolatban ugyanezen szakkérdést – a kérelem benyújtását megelőző hat hónapon belül – más önálló eljárásban, vagy szakhatóságként nem vizsgálták meg, az 1. mellékletben meghatározott feltételek fennállása esetén és szakkérdés elbírálása tekintetében, a Hivatal eljárásában a Kormány az 1. mellékletben meghatározott hatóságokat szakhatóságként jelöli ki.
+5. §[^9] (1) A távhőszolgáltatói működési engedély iránti kérelemnek tartalmaznia kell:
 
-(2)[^14] A hőtermelő létesítmények létesítési eljárásaiban hozott határozatot az illetékes megyei katasztrófavédelmi igazgatósággal, a főváros területén a Fővárosi Katasztrófavédelmi Igazgatósággal is közölni kell.
+a) ha a kérelmező cégjegyzékben nyilvántartott cég, a kérelmező nevét, cégjegyzékszámát és adószámát tartalmazó nyilatkozatát,
 
-[^12]: A Vhr. 5. §-a a 362/2008. (XII. 31.) Korm. rendelet 29. § (1) bekezdésével megállapított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni.
-[^13]: A Vhr. 5. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 73. § (4) bekezdés a) pontja szerint módosított szöveg.
-[^14]: A Vhr. 5. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 73. § (4) bekezdés b) pontja szerint módosított szöveg.
+b) a távhővel ellátandó terület adatait, a közigazgatási határok megjelölésével,
+
+c) a területi egységek (kirendeltségek, felhasználói irodák stb.) megnevezését és telephelyét és
+
+d) a szolgáltatandó távhő termelőjének megnevezését és telephelyét.
+
+(2) A távhőszolgáltatói működési engedély iránti kérelemhez mellékelni kell:
+
+a) a távhővel ellátandó terület szöveges körülírását, az ellátandó területi egységek vagy az ellátandó területet határoló közterület megnevezésével,
+
+b) a távhőszolgáltatás fenntarthatóságát alátámasztó ötéves üzleti tervet,
+
+c) a minőségbiztosítási rendszer leírását, amely tartalmazza a meghibásodás elhárítására, illetve a karbantartásra vonatkozó szabályokat,
+
+d) a középtávú távhőigény-felmérést és a kielégítéséhez szükséges teljesítménytervet,
+
+e) az üzletszabályzatot vagy annak tervezetét,
+
+f) a távhővezeték-hálózat gerinc- és elosztó vezetékeinek léptékhelyes vonalas rajzát a távhővel ellátott terület körvonalainak térképi feltüntetésével és
+
+g) amennyiben annak megszerzése jogszabály alapján szükséges
+
+ga) a nyomástartó létesítményre vonatkozó használatbavételi engedélyt,
+
+gb) a vízjogi – üzemeltetési vagy fennmaradási – engedélyt.
+
+[^9]: A Vhr. 5. §-a a 281/2016. (IX. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
