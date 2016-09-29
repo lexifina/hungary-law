@@ -1,4 +1,4 @@
-8. § (1)[^11] A szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély átruházása iránti kérelemhez mellékelni kell:
+8. § (1)[^12] A szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély átruházása iránti kérelemhez mellékelni kell:
 
 a) a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély átruházására vonatkozó, közokiratba vagy ügyvéd, jogtanácsos által ellenjegyzett magánokiratba foglalt megállapodást,
 
@@ -18,7 +18,7 @@ h) a kérelem benyújtását megelőző három évre vonatkozó, az átvevő sza
 
 i) az átvevő fizetőképességét igazoló pénzintézeti igazolást.
 
-(2)[^12] Ha az átvevő cégjegyzékben nyilvántartott cég a cég cégkivonatát a bányafelügyelet a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
+(2)[^13] Ha az átvevő cégjegyzékben nyilvántartott cég a cég cégkivonatát a bányafelügyelet a cégnyilvántartásból elektronikus úton, közvetlen lekérdezéssel szerzi meg.
 
-[^11]: A 8. § (1) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 42. §-ával megállapított szöveg.
-[^12]: A 8. § (2) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 49. §-ával megállapított szöveg.
+[^12]: A 8. § (1) bekezdése a 311/2014. (XII. 11.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^13]: A 8. § (2) bekezdése a 355/2012. (XII. 13.) Korm. rendelet 49. §-ával megállapított szöveg.

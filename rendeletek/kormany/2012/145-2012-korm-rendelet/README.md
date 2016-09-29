@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-145-20-
 | 2013-02-01 | 2012-145-20-22.5 | 355/2012. (XII. 13.) Korm. rendelet |
 | 2015-01-11 | 2012-145-20-22.6 | 311/2014. (XII. 11.) Korm. rendelet |
 | 2016-01-01 | 2012-145-20-22.7 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2016-09-29 | 2012-145-20-22.8 | 281/2016. (IX. 21.) Korm. rendelet |

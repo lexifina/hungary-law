@@ -20,10 +20,10 @@ ga) az adózás rendjéről szóló 2003. évi XCII. törvény 178. § 32. pontj
 
 gb) szerepel a köztartozásmentes adózói adatbázisban.
 
-(3)[^13]
+(3)[^15]
 
 (4) A bányafelügyelet a határozat tervezetét és a döntés meghozatalánál figyelembe vett dokumentumokat véleményezés céljából megküldi a Bizottságnak. Az ügyintézési határidőbe nem számít bele a határozat-tervezet Bizottságnak történő megküldésétől a Bizottság véleményének megérkezéséig terjedő időszak.
 
 (5) A bányafelügyelet a határozat meghozatala során a Bizottság véleményét figyelembe veszi. A bányafelügyelet a jogerős tárolási engedélyben foglaltakról és amennyiben a Bizottság véleményétől eltért, az eltérés indokairól a tárolási engedély jogerőre emelkedéstől számított 15 napon belül értesíti a Bizottságot.
 
-[^13]: A 11. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 175. § a) pontja hatályon kívül helyezte.
+[^15]: A 11. § (3) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 175. § a) pontja hatályon kívül helyezte.

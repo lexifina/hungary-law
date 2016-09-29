@@ -18,7 +18,7 @@ e) a besajtolni és tárolni kívánt szén-dioxid összmennyiségét, a várhat
 
 f) a jelentős rendellenességek megelőzésére irányuló intézkedések leírását,
 
-g) a 4. melléklet szerint elkészített monitoringtervre vonatkozó javaslatot,
+g)[^14] a 3. melléklet 3. pontja szerint elvégzett kockázatértékelési elemzéssel összhangban a 4. melléklet szerint elkészített monitoringtervre vonatkozó javaslatot,
 
 h) a korrekciós intézkedési tervre vonatkozó javaslatot,
 
@@ -45,3 +45,5 @@ e) a leendő üzemeltetőnek a földalatti gáztárolás, a szénhidrogén bány
 f) a tárolóhely 10. § szerint elkészített térképét.
 
 (5) A tárolási engedélyben tárolóhelyként csak olyan geológiai formációt lehet kijelölni, ahol az engedélyben előírt feltételek betartása mellett a szivárgásnak, az emberi egészség veszélyeztetésének és a környezetkárosodásnak a jelentős kockázata nem áll fenn.
+
+[^14]: A 9. § (3) bekezdés g) pontja a 281/2016. (IX. 21.) Korm. rendelet 13. §-ával megállapított szöveg.

@@ -1,6 +1,6 @@
 ## Követelmények a monitoringterv összeállításához, átdolgozásához, valamint a bezárást követő időszakban elvégzendő monitoringhoz
 
-| 1. | A monitoringtervnek tartalmaznia kell: |
+| 1. | A monitoringtervnek – minden egyes szakaszra vonatkozóan – tartalmaznia kell: |
 
 |  | a) | az ellenőrizendő célterületeket és célcsoportokat (3.1. táblázat), valamint a mérendő paramétereket, |
 
@@ -10,9 +10,9 @@
 
 |  | d) | az ellenőrzések gyakoriságát és a mintavételi időpontok felvételének indokait, |
 
-|  | e) | a besajtoló-berendezésből ellenőrizetlenül eltávozó szén-dioxid mennyiségét, |
+|  | e) | a besajtoló berendezésből ellenőrizetlenül eltávozó szén-dioxid mennyiségét, |
 
-|  | f) | a besajtolókút kútfején belépő szén-dioxid térfogatát, |
+|  | f) | a besajtoló kút kútfején belépő szén-dioxid térfogatát, |
 
 |  | g) | a szén-dioxid nyomását és hőmérsékletét a besajtolókút kútfején a tömegáram meghatározása céljából, |
 
@@ -24,7 +24,7 @@
 
 |  | a) | a szén-dioxid földfelszín alatti és felszíni jelenlétének, elhelyezkedésének és vándorlási útvonalainak kimutatására képes technológiák, |
 
-|  | b) | olyan technológiák, amelyek a tároló formációkról a 4. §-ban foglaltak és az 1. melléklet alapján összeállított térbeli geológiai modelleken végrehajtott térbeli numerikus szimuláció finomítása érdekében információkat szolgáltatnak a szén-dioxid csóva nyomás–térfogat viselkedéséről, és alaprajzi vagy térbeli eloszlásáról, |
+|  | b) | olyan technológiák, amelyek a tároló formációkról a 2., 5., 6., és a 9. §-ban foglaltak és a 3. melléklet alapján összeállított térbeli geológiai modelleken végrehajtott térbeli numerikus szimuláció finomítása érdekében információkat szolgáltatnak a szén-dioxid csóva nyomás-térfogat viselkedéséről, és alaprajzi vagy térbeli eloszlásáról, |
 
 |  | c) | olyan technológiák, amelyek – jelentős rendellenességek vagy a szén-dioxidnak a tároló-komplexumon kívülre távozása esetén – nagy területet átfogva, a tároló-komplexum teljes vízszintes vetületi területére vonatkozóan és azon túlmenően is képesek információkat szolgáltatni az esetleg korábban figyelmen kívül hagyott szivárgási útvonalakról, különös tekintettel az alábbiakra: |
 
@@ -188,6 +188,6 @@
 
 |  | 53. | Egyéb | Ökoszisztéma monitoring |  |  |  | Környezet |
 
-5. melléklet a 145/2012. (VII. 3.) Korm. rendelethez[^20]
+5. melléklet a 145/2012. (VII. 3.) Korm. rendelethez[^25]
 
-[^20]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

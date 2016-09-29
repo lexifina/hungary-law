@@ -6,6 +6,7 @@
 
 (4) A bányafelügyelet a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedély iránti kérelmet elutasítja a kérelemben megjelölt kutatási terület azon részére, amelyre másnak a szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedélyt adtak ki.
 
-(5) A szén-dioxid geológiai tárolásához kapcsolódó földtani kutatási engedélyben meghatározott kutatási területen, a kutatási idő leteltéig, a kutatási engedélyben foglalt tevékenységgel össze nem egyeztethető bányászati tevékenység nem engedélyezhető.
+(5)[^5] A kutatási engedély időtartama alatt a kutatási területtel lehatárolt térrészt más, a szén-dioxid geológiai tárolásával ellentétes célra igénybe venni nem lehet, az ilyen igénybevételre irányuló engedély iránti kérelmeket el kell utasítani.
 
 [^4]: A 4. § a 311/2014. (XII. 11.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^5]: A 4. § (5) bekezdése a 281/2016. (IX. 21.) Korm. rendelet 12. §-ával megállapított szöveg.
