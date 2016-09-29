@@ -50,7 +50,7 @@
 
 ## 9. A Kormány felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy a Szombathely Megyei Jogú Város Önkormányzatával megkötésre kerülő tulajdonátruházási szerződés – a 3. pontban foglaltakon túlmenően – tartalmazza azt is, hogy:
 
-## a) a Szombathely 4877/3 helyrajzi számú ingatlannak a kérelmező önkormányzat javára történő ingyenes tulajdonba adására kizárólag abban az esetben kerülhet sor, ha Szombathely Megyei Jogú Város Önkormányzata a tulajdonában álló, Szombathely 6128 helyrajzi számú ingatlannak a tulajdonjogát az állam részére ingyenesen átruházza;
+## a)[^1] a Szombathely 4877/3 helyrajzi számú ingatlannak a kérelmező önkormányzat javára történő ingyenes tulajdonba adására kizárólag abban az esetben kerülhet sor, ha Szombathely Megyei Jogú Város Önkormányzata a tulajdonában álló, Szombathely 6130 helyrajzi számú ingatlannak a tulajdonjogát az állam részére ingyenesen átruházza;
 
 ## b) a Szombathely 4877/3 helyrajzi számú ingatlannak a kérelmező önkormányzat javára történő ingyenes tulajdonba adására kizárólag a 12. pontban meghatározott társasági részesedés kérelmező önkormányzat részére történő átruházásával együtt, egyidejűleg kerülhet sor.
 
@@ -81,3 +81,5 @@
 ## Határidő: közzétételt követő hat hónapon belül
 
 1. melléklet az 1762/2013. (X. 25.) Korm. határozathoz
+
+[^1]: A 9. pont a) alpontja az 1528/2016. (IX. 29.) Korm. határozat szerint módosított szöveg.
