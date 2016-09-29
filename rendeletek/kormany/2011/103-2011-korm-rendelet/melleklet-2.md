@@ -28,7 +28,7 @@
 
 | 13. | A kulturális örökségvédelmi hatósági nyilvántartás alapján, a területen található nyilvántartott vagy védetté nyilvánított régészeti lelőhelyre, régészeti védőövezetre, nyilvántartott műemléki értékre vagy műemlékre és műemléki területre vonatkozó követelmények. | kulturális örökségvédelmi feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala |
 
-2. melléklet a 103/2011. (VI. 29.) Korm. rendelethez[^20]
+2. melléklet a 103/2011. (VI. 29.) Korm. rendelethez[^21]
 
 A komplex érzékenységi és terhelhetőségi vizsgálati tanulmány tartalma
 
@@ -74,4 +74,4 @@ A komplex érzékenységi és terhelhetőségi vizsgálati tanulmány tartalma
 
 3.4. A bányászati tevékenység értékelése a védett természeti és NATURA 2000 területekre vonatkozóan a várható állapotváltozások megadása, a várható regionális vagy országhatáron átnyúló hatások bemutatása.
 
-[^20]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 100. § (6) bekezdése szerint módosított szöveg.
+[^21]: A 2. melléklet az 527/2013. (XII. 30.) Korm. rendelet 100. § (6) bekezdése szerint módosított szöveg.
