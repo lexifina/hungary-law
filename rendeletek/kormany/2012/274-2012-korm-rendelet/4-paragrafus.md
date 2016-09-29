@@ -4,7 +4,7 @@ a) a rendészeti szakvizsga letételének kötelezettsége alól mentesül,
 
 b) a Nemzeti Közszolgálati Egyetemen, valamint jogelőd intézményeinél felsőfokú végzettséget szerzett,
 
-c)[^9] jogi, közigazgatási, rendészeti vagy katonai képzési területhez tartozó szakon vagy e szakoknak megfeleltethető, korábban létesített szakon felsőfokú végzettséget szerzett és a rendvédelmi feladatokat ellátó szerv által szervezett képzésben a rendészeti alapismereteket elsajátította,
+c)[^9] jogi képzési területhez, az államtudományi és közigazgatási, rendészeti, katonai, nemzetbiztonsági vagy nemzetközi és európai közszolgálati felsőoktatáshoz képzési területhez tartozó szakon vagy e szakoknak megfeleltethető, korábban létesített szakon felsőfokú végzettséget szerzett és a rendvédelmi feladatokat ellátó szerv által szervezett képzésben a rendészeti alapismereteket elsajátította,
 
 d) rendvédelmi oktatási intézményben rendészeti tárgyú szakképesítést vagy végzettséget, vagy arra jogosult képző intézményben felsőfokú végzettségre épülő rendészeti tárgyú szakképesítést vagy végzettséget szerzett,
 
@@ -20,7 +20,7 @@ g)[^11] a Nemzeti Adó- és Vámhivatal hivatásos állományú tagja és a Nemz
 
 (4) A rendészeti alapvizsgával rendelkező személy a jogszabályban meghatározott közigazgatási alapvizsga-kötelezettség teljesítése alól mentesül.
 
-[^9]: A 4. § (1) bekezdés c) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja szerint módosított szöveg.
+[^9]: A 4. § (1) bekezdés c) pontja a 157/2015. (VI. 25.) Korm. rendelet 34. § b) pontja, a 282/2016. (IX. 21.) Korm. rendelet 16. §-a szerint módosított szöveg.
 [^10]: A 4. § (1) bekezdés e) pontja a 186/2016. (VII. 13.) Korm. rendelet 6. §-ával megállapított szöveg.
 [^11]: A 4. § (1) bekezdés g) pontját a 325/2014. (XII. 15.) Korm. rendelet 18. §-a iktatta be.
 [^12]: A 4. § (3) bekezdése a 217/2016. (VII. 22.) Korm. rendelet 36. § b) pontja szerint módosított szöveg.
