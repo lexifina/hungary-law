@@ -1,7 +1,5 @@
 ## A felsőoktatási szakképzések és a megszerezhető szakképzettségek jegyzéke
 
-## 5K07138_0
-
 |  | A | B | C | D | E | F | G |
 
 | 1. | Képzési terület | Képzési terület angol nyelvű megnevezése | Felsőoktatási szakképzés | Felsőoktatási szakképzés angol nyelvű megnevezése | Szakképzettség | Felsőoktatási szakképzésben szerezhető szakképzettség angol nyelvű megnevezése | EKKR és MKKR szint |
@@ -40,6 +38,6 @@
 
 | 18. | Műszaki | Engineering Science | műszaki felsőoktatási szakképzés | Engineer Assistant | műszaki mérnökasszisztens | Technical Engineer Assistant | 5 |
 
-2. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^19]
+2. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^18]
 
-[^19]: A 2. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (1) bekezdése szerint módosított szöveg.
+[^18]: A 2. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (1) bekezdése szerint módosított szöveg.

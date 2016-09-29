@@ -1,7 +1,5 @@
 ## Magyar és külföldi intézmények közös képzéseinek jegyzéke
 
-## 6K07750O_0
-
 |  | A |  | B | C | D | E | F | G |
 
 |  | 1. | Képzési terület |  | Study Field in English | Szak | Programme in English | Szakképzettség | Qualifications Obtainable in Master Programme in English | EKKR és MKKR szint |

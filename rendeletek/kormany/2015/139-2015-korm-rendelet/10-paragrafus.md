@@ -40,8 +40,6 @@ b) az Nftv. 15. § (3) bekezdése szerinti képzést a Magyar Képesítési Kere
 
 c) az Nftv. 15. § (4) és (5) bekezdése szerinti képzést a Magyar Képesítési Keretrendszer 7-es
 
-szintjére kell besorolni.
-
 [^8]: A 10. § (4) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 42. §-a szerint módosított szöveg.
 [^9]: A 10. § (6a) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 40. §-a iktatta be.
 [^10]: A hatálybalépés időpontja 2016. július 1.

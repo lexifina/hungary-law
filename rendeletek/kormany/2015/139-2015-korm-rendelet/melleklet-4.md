@@ -1,7 +1,5 @@
 ## Mesterképzések és mesterképzésben, osztatlan képzésben szerezhető szakképzettségek jegyzéke
 
-## 6K07750N_0
-
 |  | A | B | C | D | E | F | G | H |
 
 | 1. | Képzési terület | Képzési terület angol nyelvű megnevezése |  |  | Mesterképzési szak, osztatlan szak angol nyelvű megnevezése | Szakképzettség | Mesterképzésben, osztatlan képzésben szerezhető szakképzettség angol nyelvű megnevezése | EKKR és MKKR szint |
@@ -514,6 +512,6 @@
 
 | 254. |  |  | zeneteoretikus |  |  | Music Theory |  | okleveles zeneteoretikus |  | Music Theorist | 7 |
 
-4. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^21]
+4. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^20]
 
-[^21]: A 4. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (3) bekezdése szerint módosított szöveg.
+[^20]: A 4. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (3) bekezdése szerint módosított szöveg.

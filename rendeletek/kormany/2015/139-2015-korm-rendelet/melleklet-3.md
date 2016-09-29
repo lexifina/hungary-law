@@ -226,6 +226,6 @@
 
 | 112. |  |  | zenekultúra | Music Culture | zenekultúra szakember | Music Culture Expert | 6 |
 
-3. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^20]
+3. melléklet a 139/2015. (VI. 9.) Korm. rendelethez[^19]
 
-[^20]: A 3. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (2) bekezdése szerint módosított szöveg.
+[^19]: A 3. melléklet a 169/2016. (VII. 1.) Korm. rendelet 41. § (2) bekezdése szerint módosított szöveg.
