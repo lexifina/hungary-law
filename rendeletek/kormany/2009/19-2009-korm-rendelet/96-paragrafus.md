@@ -1,4 +1,4 @@
-96. §[^314] (1)[^315] A rendszerhasználó – azon rendszerüzemeltetők részére, amelyek rendszerére az általa ellátott felhasználók csatlakoznak – tájékoztató jelleggel minden évben legkésőbb május 31-ig megadja a felhasználók várható 10 éves kapacitásigényét az első 5 évre éves, azt követően 5 éves megosztásban.
+96. §[^314] (1)[^315] A rendszerhasználó – azon rendszerüzemeltetők részére, amelyek rendszerére az általa ellátott felhasználók csatlakoznak – tájékoztató jelleggel minden évben legkésőbb április 30-ig megadja a felhasználók várható 10 éves kapacitásigényét az első 5 évre éves, azt követően 5 éves megosztásban.
 
 (2) A rendszerüzemeltető évente az igénybejelentések alapján köteles elvégezni a rendszer technikai rendelkezésre állásának számításos ellenőrzését. Az ellenőrzés során figyelembe kell venni, hogy a nyilvántartott szerződéses és nyilvántartásba vételt kezdeményező felhasználók ellátása legalább –12 °C-ig fenntartható legyen.
 
@@ -23,7 +23,7 @@ b) a fejlesztési javaslatát a szállítási rendszerirányítónak megküldi.
 (7)[^320] A rendszerüzemeltető – a fejlesztési javaslat GET 82. § (4) bekezdés szerinti felülvizsgálatát megelőzően – jogosult a Hivatalt előzetesen tájékoztatni a 10 éves hálózatfejlesztési terv jóváhagyását követően felmerült vagy módosult fejlesztési igényről.
 
 [^314]: A Vhr. 96. §-a a 100/2011. (VI. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^315]: A Vhr. 96. § (1) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 21. § i) pontja szerint módosított szöveg.
+[^315]: A Vhr. 96. § (1) bekezdése a 281/2016. (IX. 21.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
 [^316]: A Vhr. 96. § (4a) bekezdését a 384/2014. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
 [^317]: A Vhr. 96. § (4b) bekezdését a 91/2015. (IV. 9.) Korm. rendelet 12. §-a iktatta be.
 [^318]: A Vhr. 96. § (5a) bekezdését a 212/2014. (VIII. 27.) Korm. rendelet 4. § (1) bekezdése iktatta be.

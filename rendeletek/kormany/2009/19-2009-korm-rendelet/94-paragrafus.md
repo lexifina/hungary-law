@@ -2,13 +2,11 @@
 
 ## Szolgáltatás szüneteltetése
 
-94. §[^311] (1)[^312] A szállítási rendszerüzemeltető a rendszer üzemeltetése érdekében folyamatosan gondoskodik a szállítóvezeték üzembiztonságáról és karbantartásáról. Ennek érdekében jogosult díjvisszatérítési és pótdíjfizetési kötelezettség nélkül évente egy alkalommal, legfeljebb 48 óra időtartamú
+94. §[^311] (1)[^312] A szállítási rendszerüzemeltető a rendszer üzemeltetése érdekében folyamatosan gondoskodik a szállítóvezeték üzembiztonságáról és karbantartásáról és fejlesztéséről. Ennek érdekében jogosult díjvisszatérítési és pótdíjfizetési kötelezettség nélkül évente egy alkalommal, legfeljebb
 
-a) gázszünettel vagy
+a) 48 óra időtartamú gázszünettel vagy
 
-b) a kapacitás átmeneti csökkentésével
-
-(e § alkalmazásában a továbbiakban együtt: gázszünet) járó karbantartást végezni a betáplálási-kiadási és az összekapcsolási ponton.
+b) 120 óra időtartamú, a kapacitás legfeljebb 50%-os átmeneti csökkentésével (e § alkalmazásában a továbbiakban együtt: gázszünet) járó karbantartást és fejlesztést végezni a szállítóvezetéken.
 
 (2) A rendszerüzemeltető – az (5) bekezdés kivételével – a gázszünettel járó karbantartások időpontját és a tervezett leállások időpontját a következő évre vonatkozóan – a GET 78. § (2) bekezdése szerinti határidő figyelembevételével – minden év december 15-ig bejelenti a kapcsolódó szállítási rendszerüzemeltető részére. A bejelentés részletes szabályait az ÜKSZ tartalmazza.
 
@@ -27,4 +25,4 @@ b) törölni, ha a kapcsolódó rendszerüzemeltető nem tervezett a szállító
 (7) A rendszerhasználó jogosult egyedi műszaki megoldás alkalmazását igényelni, amely lehetővé teszi a karbantartás gázszüneteltetés nélküli elvégzését, az ezzel kapcsolatos költségek a felhasználót terhelik.
 
 [^311]: A Vhr. 94. §-a a 378/2011. (XII. 31.) Korm. rendelet 66. §-ával megállapított szöveg.
-[^312]: A Vhr. 94. § (1) bekezdése a 254/2015. (IX. 10.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^312]: A Vhr. 94. § (1) bekezdése a 281/2016. (IX. 21.) Korm. rendelet 8. §-ával megállapított szöveg.

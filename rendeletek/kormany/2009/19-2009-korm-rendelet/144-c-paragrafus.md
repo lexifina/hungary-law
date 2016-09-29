@@ -1,4 +1,4 @@
-144/C. §[^479] (1) A földgázelosztónak és az egyetemes szolgáltatónak rendelkeznie kell
+144/C. §[^482] (1) A földgázelosztónak és az egyetemes szolgáltatónak rendelkeznie kell
 
 a) a felhasználási hely adatai,
 
@@ -12,4 +12,4 @@ tárolását és védelmét biztosító információtechnológiai és egyéb kap
 
 (2) Kapcsolt vállalkozások esetében az (1) bekezdés szerinti tulajdonjoggal elegendő egy engedélyes kapcsolt vállalkozásnak rendelkeznie.
 
-[^479]: A Vhr. 144/C. §-át a 300/2013. (VII. 29.) Korm. rendelet 14. §-a iktatta be.
+[^482]: A Vhr. 144/C. §-át a 300/2013. (VII. 29.) Korm. rendelet 14. §-a iktatta be.
