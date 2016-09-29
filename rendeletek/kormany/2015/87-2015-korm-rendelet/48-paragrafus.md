@@ -2,9 +2,9 @@
 
 (2) A felsőoktatási intézmény az üres oklevél, oklevélmelléklet formanyomtatványokat zárt helyen elhelyezi oly módon, hogy ahhoz csak a felsőoktatási intézmény szabályzatában meghatározott személyek férjenek hozzá.
 
-(3)[^87] A felsőoktatási intézmény az elrontott és a kicserélt oklevél, oklevélmelléklet formanyomtatványok adatait az (1) bekezdés szerinti nyilvántartásba haladéktalanul rögzíti, majd a felsőoktatási intézmény szabályzatában meghatározott módon és időben selejtezési jegyzőkönyvet készít, illetve az elrontott, kicserélt példányokat megsemmisíti.
+(3)[^88] A felsőoktatási intézmény az elrontott és a kicserélt oklevél, oklevélmelléklet formanyomtatványok adatait az (1) bekezdés szerinti nyilvántartásba haladéktalanul rögzíti, majd a felsőoktatási intézmény szabályzatában meghatározott módon és időben selejtezési jegyzőkönyvet készít, illetve az elrontott, kicserélt példányokat megsemmisíti.
 
-(4)[^88] A felsőoktatási intézmény az elveszett, ellopott vagy megsemmisült üres oklevél, oklevélmelléklet formanyomtatványokról haladéktalanul jegyzőkönyvet vesz fel, és az (1) bekezdés szerinti nyilvántartásba rögzíti.
+(4)[^89] A felsőoktatási intézmény az elveszett, ellopott vagy megsemmisült üres oklevél, oklevélmelléklet formanyomtatványokról haladéktalanul jegyzőkönyvet vesz fel, és az (1) bekezdés szerinti nyilvántartásba rögzíti.
 
 (5) A felsőoktatási intézmény – a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelettől eltérően – az átadást követően elveszett, ellopott, megsemmisült oklevélről kérelemre oklevélmásodlatot állít ki a 46. § (2) bekezdésében meghatározott formanyomtatványon. A másodlat tartalmában megegyezik a törzslap 46. § (7) bekezdésében foglalt mellékletével, továbbá tartalmazza a 9. mellékletben meghatározott másodlati záradékot és a hitelesítést. A másodlat nyilvántartásának rendje megegyezik az oklevél nyilvántartásának rendjével. Ugyanazon oklevélről további másodlat kiállításakor úgy kell eljárni, mint az első másodlat kiadásakor.
 
@@ -22,5 +22,5 @@
 
 (12) A (9) bekezdés szerint érvénytelennek nyilvánított oklevél alapjául szolgáló tanulmányokról a 36. § (10) bekezdése szerinti törzslapkivonatot kell kiállítani az érvénytelenné nyilvánító határozat jogerőre emelkedésével.
 
-[^87]: A 48. § (3) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 33. §-ával megállapított szöveg.
-[^88]: A 48. § (4) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 37. § e) pontja szerint módosított szöveg.
+[^88]: A 48. § (3) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^89]: A 48. § (4) bekezdése a 169/2016. (VII. 1.) Korm. rendelet 37. § e) pontja szerint módosított szöveg.

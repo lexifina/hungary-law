@@ -12,7 +12,7 @@
 
 (6) A FIR-be adatot közöl:
 
-a)[^59] a felsőoktatási intézményi nyilvántartás tekintetében a Hivatal, a fenntartó, a felsőoktatási intézmény és a diákotthon, a közösségi felsőoktatási képzési központ tekintetében annak képviselője;
+a)[^60] a felsőoktatási intézményi nyilvántartás tekintetében a Hivatal, a fenntartó, a felsőoktatási intézmény és a diákotthon, a közösségi felsőoktatási képzési központ tekintetében annak képviselője;
 
 b) az alkalmazottak személyi nyilvántartása tekintetében a felsőoktatási intézmény;
 
@@ -34,4 +34,4 @@ g) a DPR tekintetében a Hivatal, a felsőoktatási intézmény, egyéb államig
 
 (10) A felsőoktatási intézménynek a működés megkezdése időpontjától számított harminc napon belül be kell jelentkeznie a FIR-be. A felsőoktatási intézmény vezetője meghatalmazza azt a személyt, aki a FIR tekintetében a Hivatallal kapcsolatot tart, és az intézményi adatszolgáltatást elektronikus aláírással hitelesíti. A kapcsolattartó adatait és meghatalmazását a Hivatal részére tizenöt napon belül meg kell küldeni. A Hivatal az adatokat – a (9) bekezdés szerinti hitelesítés ellenőrzése érdekében – nyilvántartja.
 
-[^59]: A 25. § (6) bekezdés a) pontja a 345/2015. (XI. 19.) Korm. rendelet 71. §-ával megállapított szöveg.
+[^60]: A 25. § (6) bekezdés a) pontja a 345/2015. (XI. 19.) Korm. rendelet 71. §-ával megállapított szöveg.

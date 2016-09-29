@@ -22,7 +22,7 @@ e)[^48] a képzésnek az Nftv. 14. § (2a) bekezdés d) pontja szerinti képzés
 
 (5b)[^51] A korábban már nyilvántartásba vett, más nyelven, más munkarendben vagy más képzési helyen – ide nem értve a külföldi székhelyen kívüli képzési helyet és a 19. § (6) bekezdésében foglalt esetet – indítandó képzés nyilvántartásba vétele esetén a (4)–(5a) bekezdésben meghatározott rendelkezések azzal az eltéréssel irányadók, hogy nem kell beszerezni szakértői véleményt, és nem kell benyújtani a (4) bekezdés a) pontja szerinti dokumentációt.
 
-(6) A közigazgatási, rendészeti és katonai képzési területhez tartozó felsőoktatási szakképzés esetén a (4) bekezdés b) pontját nem kell alkalmazni.
+(6)[^52] Az államtudományi képzési területhez tartozó felsőoktatási szakképzés esetén a (4) bekezdés b) pontját nem kell alkalmazni.
 
 [^44]: A 21. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 69. § (1) bekezdésével megállapított szöveg.
 [^45]: A 21. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 69. § (1) bekezdésével megállapított szöveg.
@@ -32,3 +32,4 @@ e)[^48] a képzésnek az Nftv. 14. § (2a) bekezdés d) pontja szerinti képzés
 [^49]: A 21. § (5) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 69. § (4) bekezdésével megállapított szöveg.
 [^50]: A 21. § (5a) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 69. § (4) bekezdése iktatta be.
 [^51]: A 21. § (5b) bekezdését a 345/2015. (XI. 19.) Korm. rendelet 69. § (4) bekezdése iktatta be.
+[^52]: A 21. § (6) bekezdése a 282/2016. (IX. 21.) Korm. rendelet 17. §-a szerint módosított szöveg.
