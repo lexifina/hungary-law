@@ -1,5 +1,0 @@
-## 10. § A krízis megelőzése, enyhítése céljából automatikus korlátozó és kikapcsoló berendezések beszerzése, felszerelése, üzemeltetése, karbantartása és ellenőrzése a hálózati engedélyesek feladata, saját költségükön, az átviteli rendszerirányító koordinálásában. A felhasználó engedni, tűrni, és helyet biztosítani köteles az őt érintő berendezés számára. Az elosztó és átviteli rendszerirányító eljárása nem járhat a felhasználó aránytalan sérelmével.
-
-11. § (1) Az elosztó saját működési területére lebontva kidolgozza a krízistervet a 7. § (1) bekezdése figyelembevételével.
-
-(2) Az elosztó a működési területén lévő, az RKR-ben megnevezett, kikapcsolásra kerülő felhasználókról nyilvántartást vezet. A felhasználók, a hírközlő szervek, a megyei (fővárosi) katasztrófavédelmi igazgatóság és a területileg illetékes hivatásos önkormányzati tűzoltóság részére a területre működési engedéllyel rendelkező elosztó, illetve az átviteli rendszerirányító megadja azt az információt, amit azok a kikapcsolásokkal kapcsolatban felkészülésükhöz szükségesnek ítélnek.
