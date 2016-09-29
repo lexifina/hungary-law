@@ -1,1 +1,0 @@
-Az egyes adótörvények és azzal összefüggő egyéb törvények módosításáról szóló 2011. évi CLVI. törvény 462. § (4) bekezdés b) és d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. és 6. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
