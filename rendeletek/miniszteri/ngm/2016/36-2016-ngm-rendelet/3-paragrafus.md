@@ -1,1 +1,3 @@
-## 2. § Az R1. 78/A. § (2) bekezdésében az „a Mód. rendelet hatálybalépésétől számított 180 napon belül” szövegrész helyébe a „2017. április 30-ig” szöveg lép.
+## 1–2. §[^1]
+
+[^1]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
