@@ -4,9 +4,9 @@
 
 (2) Az ösztöndíj havi összege megfelel
 
-a)[^31] alap- és mesterképzésben részt vevő hallgatók esetében a törvényben meghatározott hallgatói normatíva éves összege 30%-ának,
+a)[^32] alap- és mesterképzésben részt vevő hallgatók esetében a törvényben meghatározott hallgatói normatíva éves összege 30%-ának,
 
-b)[^32] doktori képzésben részt vevő hallgatók esetében a törvényben e célra megállapított normatíva éves összege egy tizenketted részének.
+b)[^33] doktori képzésben részt vevő hallgatók esetében a törvényben e célra megállapított normatíva éves összege egy tizenketted részének.
 
 (3) Az ösztöndíjat a hallgatónak az Egyetem fizeti ki.
 
@@ -14,5 +14,5 @@ b)[^32] doktori képzésben részt vevő hallgatók esetében a törvényben e c
 
 (5) Nemzetközi megállapodás alapján részképzésben részt vevő nem magyar állampolgárok esetében az (1)–(4) bekezdés rendelkezéseit kell alkalmazni azzal az eltéréssel, hogy az adományozott ösztöndíj a részképzés időtartamára szól.
 
-[^31]: A 16. § (2) bekezdés a) pontja a 205/2015. (VII. 23.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
-[^32]: A 16. § (2) bekezdés b) pontja a 205/2015. (VII. 23.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
+[^32]: A 16. § (2) bekezdés a) pontja a 205/2015. (VII. 23.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.
+[^33]: A 16. § (2) bekezdés b) pontja a 205/2015. (VII. 23.) Korm. rendelet 11. § e) pontja szerint módosított szöveg.

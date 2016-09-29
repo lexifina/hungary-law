@@ -1,6 +1,6 @@
 ## III/A. Fejezet[^8]
 
-## A SZAKINDÍTÁS SPECIÁLIS SZABÁLYAI AZ ÁLLAMTUDOMÁNYI ÉS KÖZIGAZGATÁSI, RENDÉSZETI, KATONAI, NEMZETBIZTONSÁGI, VALAMINT A NEMZETKÖZI ÉS EURÓPAI KÖZSZOLGÁLATI FELSŐOKTATÁSBAN[^9]
+## A SZAKLÉTESÍTÉS ÉS SZAKINDÍTÁS SPECIÁLIS SZABÁLYAI AZ ÁLLAMTUDOMÁNYI ÉS KÖZIGAZGATÁSI, RENDÉSZETI, KATONAI, NEMZETBIZTONSÁGI, VALAMINT A NEMZETKÖZI ÉS EURÓPAI KÖZSZOLGÁLATI FELSŐOKTATÁSBAN[^9]
 
 6/A. §[^10] (1)[^11] A felsőoktatásban szerezhető képesítések jegyzékéről és új képesítések jegyzékbe történő felvételéről szóló 139/2015. (VI. 9.) Korm. rendeletet (a továbbiakban: Rendelet) az államtudományi és közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás tekintetében az e szakaszban meghatározott eltérésekkel kell alkalmazni.
 
@@ -8,15 +8,15 @@
 
 (3)[^13] Az e szakaszon alapuló eljárásban a Rendelet 3. § (1)–(4) és (6) bekezdését, 4. §-át, valamint 6. §-át nem kell alkalmazni.
 
-(4)[^14] Ahol a Rendelet vagy e rendelet felsőoktatási képesítési jegyzéket említ, azon a közigazgatási, a rendészeti, a katonai, a nemzetbiztonsági, valamint a nemzetközi és európai közszolgálati felsőoktatás alap- és mesterképzési szakjainak meghatározásáról, e szakok képzési és kimeneti követelményeiről, valamint az alapképzés képzési ágairól szóló 1/2015. (I. 14.) MvM rendeletet [a továbbiakban: 1/2015. (I. 14.) MvM rendelet] kell érteni. A szakokon, felsőoktatási szakképzéseken szerezhető szakképzettségek a Magyar Képesítési Keretrendszer (a továbbiakban: MKKR) szintjeire besorolt képesítések, megfeleltetve az Európai Képesítési Keretrendszer szintjeivel. A munkakör betöltésére, foglalkozás, tevékenység gyakorlására jogosító szakképzettség tanulási eredményeit, alapképzésben és mesterképzésben a végzettségi szint és a szakképzettség, felsőoktatási szakképzésben a szakképzettség megszerzésével szerezhető tudás követelményeit – a tudás, a képesség, az attitűd, illetve az autonómia és felelősség jellemzőinek az MKKR szintleírásával összevethetően – az 1/2015. (I. 14.) MvM rendelet határozza meg.
+(4)[^14] Ahol a Rendelet vagy e rendelet felsőoktatási képesítési jegyzéket említ, azon az államtudományi képzési terület alap- és mesterképzési szakjainak meghatározásáról és azok képzési és kimeneti követelményeiről szóló kormányrendeletet [a továbbiakban: Kormányrendelet] kell érteni. A szakokon, felsőoktatási szakképzéseken szerezhető szakképzettségek a Magyar Képesítési Keretrendszer (a továbbiakban: MKKR) szintjeire besorolt képesítések, megfeleltetve az Európai Képesítési Keretrendszer szintjeivel. A munkakör betöltésére, foglalkozás, tevékenység gyakorlására jogosító szakképzettség tanulási eredményeit, alapképzésben és mesterképzésben a végzettségi szint és a szakképzettség, felsőoktatási szakképzésben a szakképzettség megszerzésével szerezhető tudás követelményeit – a tudás, a képesség, az attitűd, illetve az autonómia és felelősség jellemzőinek az MKKR szintleírásának megfelelően – a Kormányrendelet határozza meg.
 
 (5)[^15] Az új alapképzési szak, mesterképzési szak, illetve szakképzettség, felsőoktatási szakképzés létesítési dokumentumának tartalmaznia kell a (4) bekezdésben meghatározottaknak megfelelően az MKKR szerinti szintleírással összhangban kidolgozott képzési és kimeneti követelményeket, valamint az indokolást arra vonatkozóan, hogy a képzési és kimeneti követelmények összhangban állnak a Nemzeti Közszolgálati Egyetemről, valamint a közigazgatási, rendészeti és katonai felsőoktatásról szóló 2011. évi CXXXII. törvény (a továbbiakban: NKE törvény) 3. §-ában meghatározott képzési célokkal.
 
 [^8]: A III/A. fejezetet (6/A. §) a 99/2012. (V. 16.) Korm. rendelet 1. §-a iktatta be.
-[^9]: A III/A. fejezet címe a 205/2015. (VII. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^9]: A III/A. fejezet címe a 205/2015. (VII. 23.) Korm. rendelet 10. § b) pontja, a 282/2016. (IX. 21.) Korm. rendelet 15. §-a szerint módosított szöveg.
 [^10]: A 6/A. § a 290/2013. (VII. 26.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^11]: A 6/A. § (1) bekezdése a 205/2015. (VII. 23.) Korm. rendelet 10. § c) pontja, a 139/2015. (VI. 9.) Korm. rendelet 13. § (2) bekezdése szerint módosított szöveg.
 [^12]: A 6/A. § (2) bekezdése a 205/2015. (VII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^13]: A 6/A. § (3) bekezdése a 205/2015. (VII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^14]: A 6/A. § (4) bekezdése a 205/2015. (VII. 23.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^14]: A 6/A. § (4) bekezdése a 282/2016. (IX. 21.) Korm. rendelet 12. §-ával megállapított szöveg.
 [^15]: A 6/A. § (5) bekezdését a 205/2015. (VII. 23.) Korm. rendelet 4. §-a iktatta be.
