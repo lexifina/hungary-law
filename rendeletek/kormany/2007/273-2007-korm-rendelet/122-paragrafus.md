@@ -1,3 +1,3 @@
-122. §[^375] Nem köthető 7. § (8) bekezdése szerinti szerződés olyan villamosenergia-kereskedővel, aki a 7. § (6a) bekezdésében foglaltaknak nem felel meg.
+122. §[^378] Nem köthető 7. § (8) bekezdése szerinti szerződés olyan villamosenergia-kereskedővel, aki a 7. § (6a) bekezdésében foglaltaknak nem felel meg.
 
-[^375]: A Vhr. 122. §-a a 9/2014. (I. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
+[^378]: A Vhr. 122. §-a a 9/2014. (I. 20.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.

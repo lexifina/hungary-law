@@ -1,27 +1,17 @@
-110. § (1) A VET 107. §-a (1) bekezdésének 1. pontja szerinti piacokon jelentős piaci erővel rendelkező engedélyes számára a Hivatal átlátható értékesítési kötelezettség keretében megszabott időközönként megtartandó nyilvános kapacitásaukció megtartását írhatja elő, amennyiben
+110. §[^333] (1) A VET 107. § (1) bekezdés 1. pontja szerinti piacokon jelentős piaci erővel rendelkező engedélyes (e § alkalmazásában a továbbiakban: engedélyes) a VET 111. § (1) bekezdésében meghatározott értékesítési formákat együttesen is alkalmazhatja.
 
-a) a VET 106. §-ának hatálya alá tartozó engedélyes az ott meghatározott jogszabályi kötelezettségeit nem teljesíti, vagy
+(2) A Hivatal által meghatározott, értékesítésre kerülő villamos energia mennyisége naptári évekre vonatkoztatva nem lehet alacsonyabb annál, mint ami ahhoz szükséges, hogy az engedélyesnek a VET 111. § (1) bekezdés szerinti értékesítési kötelezettsége (e § alkalmazásában a továbbiakban: értékesítési kötelezettség) keretében értékesített villamos energia nélkül számított piaci részesedése a Hivatal által meghatározott mérték, de legalább 40% alá csökkenjen. Az értékesítési kötelezettség meghatározása során a Hivatal figyelembe veszi az adott piac sajátosságait.
 
-b) az engedélyes nem kötelezett a VET 106. §-a szerinti értékesítésre.
+(3) Az engedélyes a szervezett villamosenergia-piacon való értékesítési kötelezettsége keretében történő értékesítés tényét és formáját, valamint az értékesített villamos energia mennyiségét a tárgyévet követő év február 1-jéig bejelenti a Hivatal számára.
 
-(2) A Hivatal – legkésőbb június 30. napjáig meghozott – kapacitásaukciót előíró határozatában rendelkezik az aukción felajánlásra kerülő termékek köréről, illetve a kapacitásaukció gyakoriságáról és megtartásának határidejéről, valamint kötelezi az engedélyest, hogy jóváhagyás céljából a Hivatal számára
+(4) Aukción történő értékesítésre kizárólag az engedélyes által jóváhagyásra benyújtott és a Hivatal által jóváhagyott, aukció lebonyolítására vonatkozó szabályzat alapján kerülhet sor.
 
-a) jelentse be az aukción felajánlásra kerülő kapacitás mennyiségét és forrásösszetételét, továbbá
+(5) Az engedélyes az aukciós értékesítési kötelezettsége keretében történő értékesítés időpontját, valamint az értékesíteni tervezett villamos energia mennyiségét az értékesítés előtt 10 munkanappal bejelenti a Hivatal számára.
 
-b) nyújtsa be az aukció lebonyolítására vonatkozó szabályzatát.
+(6) Az aukció lebonyolítására vonatkozó szabályzat rendelkezéseit úgy kell megállapítani, hogy az aukció feltételei és lebonyolítása minden szereplő számára átlátható legyen, a nyertes ajánlat megállapítása egyértelmű feltételek alapján történjen, továbbá biztosítani kell az indulás során az esélyegyenlőséget. Az aukción értékesített termékek mennyiségét és az aukción kialakuló termékenkénti átlagárat az engedélyes az aukció lezárását követő 3 munkanapon belül nyilvánosságra hozza.
 
-(3) Az aukción felajánlásra kerülő kapacitás mennyiségének és forrásösszetételének meghatározása során az engedélyes az alábbiak szerint köteles eljárni:
+(7) Az engedélyes értékesítési kötelezettsége addig áll fenn, amíg a VET 109. §-a szerinti újabb piacelemzési eljárásban a Hivatal új határozatot nem hoz.
 
-a) az aukció során értékesítésre kerülő kapacitás mennyisége nem lehet alacsonyabb annál, mint ami ahhoz szükséges, hogy az aukcióra kerülő kapacitások, illetve az ebből származó villamosenergia-értékesítés nélkül számított piaci részesedése 40% alá csökkenjen,
+(8) Az értékesítési kötelezettség alapján történő villamosenergia-értékesítés nem nyújt jogalapot állami támogatás vagy kompenzáció igénybevételére.
 
-b) az értékesítésre kerülő kapacitások forrásösszetételének meghatározásakor az engedélyesnek a portfolió elemeket arányosan figyelembe véve a portfoliója optimális teherkiosztását kell megvalósítania,
-
-c) a kapacitásaukció során elszenvedett veszteség nem nyújt jogalapot állami támogatás vagy kompenzáció igénybevételére.
-
-(4) Az aukciós szabályzat rendelkezéseit úgy kell megállapítani, hogy az aukció feltételei, lebonyolítása minden szereplő számára átlátható legyen, a nyertes ajánlat megállapítása egyértelmű feltételek alapján történjen és mindenkinek biztosítani kell, hogy egyenlő esélyekkel indulhasson. Az aukción értékesített termékek mennyiségét és az aukción kialakuló árat az engedélyes az aukció lezárását követő 3 napon belül köteles nyilvánosságra hozni.
-
-(5) Az aukción értékesített kapacitások mennyiségét és forrásösszetételét, illetve az aukciós szabályzatot a Hivatal jóváhagyja, a jóváhagyást feltételekhez köti, vagy megtagadja.
-
-(6) A Hivatal a határozatában az engedélyes számára előírt kötelezettségek teljesítésére vonatkozó határidőt úgy állapítja meg, hogy ésszerű idő álljon az engedélyes rendelkezésére a jóváhagyásra benyújtandó dokumentáció elkészítéséhez, a Hivatal jóváhagyását feltételekhez kötő, illetve megtagadó határozata esetén a dokumentáció szükséges módosításához és az aukció is megtartható legyen legkésőbb a határozatban meghatározott időpontig. A (2) bekezdésben meghatározott kötelezettségek teljesítésére a Hivatal által előírt határidő 30 napnál nem lehet rövidebb.
-
-(7) Az (1) bekezdésben meghatározott engedélyes – a Hivatal további határozata nélkül -mindaddig nyilvános kapacitásaukció formájában köteles kapacitásait értékesíteni, amíg a VET 109. §-a szerinti újabb piacelemzési eljárás eredményeként a Hivatal határozata szerint már nem minősül jelentős piaci erővel rendelkező engedélyesnek.
+[^333]: A Vhr. 110. §-a a 281/2016. (IX. 21.) Korm. rendelet 5. §-ával megállapított szöveg.
