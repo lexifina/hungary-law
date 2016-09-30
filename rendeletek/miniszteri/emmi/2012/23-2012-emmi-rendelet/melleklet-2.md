@@ -36,6 +36,14 @@
 
 | 17. | Gyermekszemészet | specializációs | 24 hónap |
 
+| 18. | Reumatológiai ultrahang | beavatkozási | 12 hónap |
+
+| 19. | Szülészeti-nőgyógyászati ultrahang diagnosztika | specializációs | 12 hónap |
+
+| 20. | Felnőtt transtorakális echokardiográfia | specializációs | 12 hónap |
+
+| 21. | Felnőtt transoesophagealis echokardiográfia | specializációs | 12 hónap |
+
 2. melléklet a 23/2012. (IX. 14.) EMMI rendelethez[^41]
 
 A szakorvosok által megszerezhető licencek képzési követelményei
@@ -1682,4 +1690,280 @@ A képzésben részt vevő oktató minimum 5 év folyamatos munkaviszonyban dolg
 
 Az egészségügyi szolgáltatások nyújtásához szükséges szakmai minimumfeltételekről szóló jogszabályban foglaltaknak megfelelően.
 
-[^41]: A 2. mellékletet a 69/2013. (XI. 19.) EMMI rendelet 19. § (2) bekezdése iktatta be, szövege a 14/2014. (III. 10.) EMMI rendelet 29. § b) pontja, a 4/2015. (I. 20.) EMMI rendelet 14. § b) pontja, az 54/2015. (XI. 24.) EMMI rendelet 52. §-a szerint módosított szöveg.
+17. REUMATOLÓGIAI ULTRAHANG
+
+1. A képzésben való részvételhez szükséges képesítés és szakmai feltétel: reumatológia szakképesítés.
+
+2. A licenc típusa: beavatkozási.
+
+3. A képzés időtartama: 12 hónap.
+
+4. A képzési program
+
+4.1. alapképzés: 3 hónap reumatológiai UH licenc képzésre akkreditált helyen,
+
+4.2. szakmaspecifikus képzés: 9 hónap (3 hét elmélet, 8 hónap és egy hét gyakorlat) minősített reumatológiai UH licenc helyen (minimum két reumatológiai ultrahang elméleti és gyakorlati oktatásban jártas oktató és reumatológiai UH vizsgálatra alkalmas minimum két UH készülék)
+
+5. A képzés és a vizsga szakmai tartalma
+
+5.1. Az ultrahang és a mozgásszervi ultrahang diagnosztika története
+
+5.2. Az ultrahang diagnosztika fizikai alapjai, ultrahanggal kapcsolatos technikai, technológiai ismeretek
+
+5.3. Biztonságosság, az ALARA (As Low AS Reasonable) elv ismertetése
+
+5.4. Az ultrahang készülék és a vizsgálófej használata, a B-mód, a Doppler kép optimalizálásának lehetőségei
+
+5.5. A mozgásszerveket alkotó szövetek ultrahang képe
+
+5.6. Az ultrahangvizsgálat során előforduló műtermékek ismerete
+
+5.7. Standard mozgásszervi ultrahangvizsgálat végzésének menete, a kapott kép értékelése
+
+5.8. Váll, könyök, csukló, kézkisízületek, csípő, térd, boka, lábkisízületek, ritkán vizsgált ízületek (temporomandibularis, sternocostalis, sternoclavicularis etc.) standard ultrahangvizsgálata
+
+5.9. Ultrahangvizsgálat során az ízületben ábrázolható, illetve felismerhető patológiás elváltozások: synovitis, ízületi folyadékgyülem, synoviális hypertrophia, bursitis, ízületi szalag elváltozások, szabad ízületi testek, degeneratív ízületi és meniscus elváltozások, hyalin-és rostos porc defektusok, posztoperatív ízületi elváltozások, ortopédiai fém, kerámia, műanyagok felismerése, csonteróziók, ízületi kristály depozitumok
+
+5.10. Ultrahangvizsgálat során az ízület körüli szövetekben ábrázolható, illetve felismerhető patológiás elváltozások: periarticularis cystosus képletek, ganglionok, tenosynovitis, paratenonitis, ínszakadások, tendinopathia, tendinosis, ín szubluxációk, posztoperatív, lágyrész elváltozások, izomelváltozások (myositis, sérülések) alagút szindrómák, enthesitis, enthesopathia, lágyrész kalcifikáció, osszifikáció, idegen testek, ízület körüli kristálydepozitumok, lágyrésszel és csonttal összefüggő tumorok
+
+5.11. Ízületi és lágyrész ultrahang-vezérelt aspiráció, injekciózási technika
+
+5.12. Ultrahang pontrendszerek ismertetése: synovitis, enthesitis, tenosynovitis, rheumatoid erózió. Méret meghatározás ínszakadás, izomsérülés esetén
+
+5.13. Ultrahang alkalmazása a reumatológiában: indikációk és korlátok
+
+5.14. Újabb ultrahang technikai ismeretek ismerete: 4D, panoráma ultrahang, szonoelastographia és kontrasztanyagos mozgásszervi ultrahang
+
+5.15. Képek értékelése, dokumentálása, leletezés, további képalkotó vizsgálatok indikációja, radiológiai konzílium szükségessége
+
+6. A vizsgára bocsátás feltételei: összesen 300 UH vizsgálat igazolt teljesítése.
+
+7. A megszerzett licenc birtokában végezhető tevékenységek köre: reumatológiai ultrahang végzése és lelet kiadása
+
+8. A képzés személyi és tárgyi feltételei
+
+8.1. Képzés személyi feltétele: Ultrahangos tapasztalattal és legalább 5 éves szakmai gyakorlattal rendelkező reumatológus, mint tutor, aki 5 évente részt vesz akkreditált reumatológiai ultrahangos kurzuson, vagy ezek szervezésében, vagy azokon előadásokat tart.
+
+8.2. Tárgyi feltételek:
+
+8.2.1. alkalmas ultrahang készülék (ennek típusa szerepeljen a leleten)
+
+8.2.2. archiválási lehetőség.
+
+18. SZÜLÉSZETI-NŐGYÓGYÁSZATI ULTRAHANG-DIAGNOSZTIKA
+
+1. A képzésben való részvételhez szükséges képesítés és szakmai feltétel: szülészet nőgyógyászat szakképesítés
+
+2. Licenc típusa: specializációs
+
+3. A képzés időtartama: 12 hónap
+
+4. Képzési program
+
+4.1. Az egyetemek Szülészeti és Nőgyógyászati Klinikáin szervezett 5 napos Szülészeti- Nőgyógyászati Ultrahang-Diagnosztikai Tanfolyam
+
+4.2. A Magyar Szülészeti és Nőgyógyászati Ultrahang Társaság által akkreditált laboratóriumokban 1 hónapos továbbképzés, valamint
+
+4.3. Licencszel rendelkező szülész nőgyógyász szakorvos által vezetett, II-III progresszivitású szintű Szülészeti és Nőgyógyászati Osztályok Ultrahang Laboratóriumban 11 hónapos képzés
+
+5. A képzés és vizsga szakmai tartalma
+
+5.1. Az ultrahangvizsgálatok elméleti alapjai, 2D, 3D, Color Doppler technika
+
+5.2. A női kismedence (húgyhólyag, uterus, endometrium, ováriumok, stb.) szonoanatómiája
+
+5.3. Koraterhességi ultrahangvizsgálat (intra-, extrauterin-, heg-, cervicalis terhesség, petezsák, szikhólyag, embryo, elválasztó burok, koraterhességi pathológiás állapotok)
+
+5.4. Terhesség alatti szűrővizsgálatok, genetikai tanácsadás
+
+5.5. Első trimeszteri ultrahangvizsgálat, lepény-, köldökzsinór-, magzatvíz-, magzat, méhszáj szonoanatómiája
+
+5.6. Magzati paraméterek mérése, terhességi kor megállapítása
+
+5.7. Második - harmadik trimeszteri ultrahangvizsgálat
+
+5.8. Magzati szív ultrahangvizsgálata
+
+5.9. Szülészeti- nőgyógyászati keringésvizsgálat
+
+5.10. Magzati fejlődési rendellenességek, pathológiás terhességek felismerése
+
+5.11. Ultrahang-vezérelt invazív intrauterin beavatkozások ismerete
+
+5.12. Nőgyógyászati megbetegedések ultrahangvizsgálata
+
+5.13. Nőgyógyászati onkológiai megbetegedések ultrahangvizsgálata
+
+5.14. Protokollok, beleegyező nyilatkozat, leletezés jogi megítélés
+
+6. A vizsgára bocsátás feltételei
+
+6.1. a 4.1., 4.2., 4.3. pontban leírt továbbképzések teljesítése
+
+6.2. licencvizsgával rendelkező tutor felügyelete alatt önállóan végzett és dokumentált 500 szülészeti és 200 nőgyógyászati ultrahangvizsgálat
+
+6.3. részvétel a Magyar Szülészeti- Nőgyógyászati Ultrahang Társaság kongresszusain, vagy hazai- nemzetközi ultrahang témájú továbbképzéseken
+
+7. A megszerezhető képesítés birtokában végezhető szakmai tevékenység
+
+7.1. szülészeti- nőgyógyászati- és nőgyógyászati onkológiai szűrő- és diagnosztikus ultrahangvizsgálatok végzése,
+
+7.2. szonográfusok szakmai felügyelete
+
+8. A képzés személyi és tárgyi feltételei
+
+8.1. A képzés személyi feltétele: a képzésben résztvevő oktató szülészeti- nőgyógyászati ultrahang- diagnosztikai licencszel és legalább 5 éves gyakorlattal rendelkező szülész- nőgyógyász szakorvos lehet.
+
+8.2. A képzés tárgyi feltétele: egyetemi klinikák, a MSZNUT által akkreditált vagy II-III progresszivitási szintű Szülészeti és Nőgyógyászati Osztályok Ultrahang Laboratóriumai.
+
+19. FELNŐTT TRANSTORAKÁLIS ECHOKARDIOGRÁFIA
+
+1. A képzésben való részvételhez szükséges képesítés és szakmai feltétel:
+
+1.1. kardiológiai szakképesítés,
+
+1.2. csecsemő és gyermekkardiológiai szakképesítés, vagy
+
+1.3. aneszteziológia és intenzív terápia szakképesítés.
+
+2. Licens típusa: specializációs
+
+3. A képzés időtartama: 12 hónap
+
+4. Képzési program: A képzésre jelentkező echockardiográfiás laboratóriumban licenc vizsgával rendelkező tutor felügyelete mellett elvégez legalább 800 vizsgálatot, azokról részletes leletet ír, véleményt nyilvánít a betegségről és a további teendőkről.
+
+5. A képzés és a vizsga szakmai tartalma:
+
+5.1. A vizsgára be kell küldeni 180 olyan vizsgálati leletet az elvégzett 800-ból, melynek során 2-dimenziós, M-mód, pulzatilis és folyamatos hullámú valamint színes - Doppler vizsgálatok történnek, ezeket kiegészítve a Doppler Tissue Imaging, a Strain Imaging, illetve 3-dimenziós vizsgálatokkal. A leletezés kiterjed a strukturális, funkcionális (billentyű funkciók, szívüregi systoles és diastoles funkciók) értékelésére, és a kapott adatokból számítható hemodinamikai paraméterek közlésére is. A leletnek tartalmaznia kell egy leíró részt pontos adatokkal, választ a vizsgálat kérésekor feltett kérdésre, a kapott nem várt eredményeket és egy véleményt is, javaslatokat a további teendőkkel kapcsolatban.
+
+5.2. A vizsgán a gyakorlatban meg kell vizsgálni egy beteget, részletes leletet írni, amelynek van egy leíró része, amely tartalmazza a szükséges számításokat, a véleményt és instrukciókat a további teendőkről.
+
+5.3. Az ultrahang technika fizikai alapjaival, a gép beállításaival, valamint a különböző kórképek vizsgálatával kapcsolatos 30 kérdésből álló teszt kitöltése.
+
+5.4. 15 kérdésből álló videó-teszt, ahol a látott képpel vagy clippel kapcsolatos kérdésekre kell válaszokat adni.
+
+6. A vizsgára bocsátás további feltételei: részvétel legalább 2 credit-pontos echokardiográfiás kurzuson.
+
+7. Megszerezhető képesítés birtokában végezhető szakmai tevékenységek köre:
+
+7.1. Szívbillentyűhibák vizsgálata, a stenosis, vagy regurgitáció súlyosságának megítélése: area számítások, gradiensek, regurgitációk quantifikálása, sz.e. műtéti indikáció felállítása
+
+7.2. A bal kamra systoles és diastoles funkció vizsgálata
+
+7.3. Ischaemiás szívbetegség vizsgálata - falmozgászavarok elemzése
+
+7.4. A szívinfarctus mechanikai szövődményeinek vizsgálata
+
+7.5. A szívizom betegségek, köztük a ritka kardiomiopátiák vizsgálata
+
+7.6. DCM esetén asnyncronia mérések, a szívelégtelenségben használatos, a súlyossági fokot megadó és a prognosztikus paraméterek meghatározása
+
+7.7. A jobb szívfél vizsgálata
+
+7.8. A bal pitvar és a jobb pitvar vizsgálata-annak morfológiai és funkcionális paramétereinek elemzése.
+
+7.9. A nagy artériák és a nagy vénák morfológiai és funkcionális vizsgálata
+
+7.10. Congenitalis szivhibák vizsgálata, súlyosságuk megítélése
+
+7.11. Emboliaforrás keresés a szívben (tumorok, thrombusok, vegetációk)
+
+7.12. Az infectiv endocarditis és szövődményeinek vizsgálata
+
+7.13. A Szöveti Doppler és a Strain technikák ismerete és lehetőség szerint alkalmazása
+
+7.14. 7.14. A szívburok és betegségeinek vizsgálata. A szivtumorok és más intracardialis terimék vizsgálata.
+
+8. A képzés személyi és tárgyi feltételei
+
+8.1. A képzés személyi feltételei: Echokardiográfiás licencszel és 5 éves szakmai gyakorlattal rendelkező kardiológus, mint tutor, aki 5 évente részt vesz legalább 3 credit-pontos Echocardiográfiás kurzuson, vagy ezek szervezésében, vagy azokon előadásokat tart.
+
+8.2. A képzés tárgyi feltételei:
+
+8.2.1. echokardiográfiás készülék (ennek típusa szerepeljen a leleten) 2-7 Mhz közti transducerrel
+
+8.2.2. lehetőség EKG regisztrálásra
+
+c) archiválási lehetőség
+
+d) előny a strain és 3D-lehetőséget is tartalmazó softver.
+
+20. FELNŐTT TRANSOESOPHAGEALIS ECHOKARDIOGRÁFIA
+
+1. A képzésben való részvételhez szükséges képesítés és szakmai feltétel
+
+1.1. aneszteziológia és intenzív terápia szakképesítés,
+
+1.2. kardiológiai szakképesítés esetén, felnőtt transtorakális echocardiográfia licenc vizsga megléte, vagy
+
+1.3. csecsemő és gyermekkardiológus szakképesítés esetén, felnőtt transtorakális echocardiográfia licenc vizsga megléte
+
+2. Licenc típusa: beavatkozási
+
+3. A képzés időtartama: minimum 6 hónap.
+
+4. A képzési program: olyan echockardiográfiás laboratóriumban vagy műtőben megszerzett gyakorlat, ahol a jelölt egy TEE licenc vizsgával rendelkező tutor felügyelete mellett elvégez legalább 150 vizsgálatot, azokról részletes leletet ír, véleményt nyilvánít a betegségről, és a további, illetve a műtőben az aktuális teendőkről.
+
+5. A képzés és a vizsga szakmai tartalma:
+
+5.1. A képzés alatt a jelöltnek gyakorlatot kell szereznie a vizsgálat lefolytatásáról, ismernie kell annak indikációit, kontraindikációit, a vizsgálat lefolytatásának menetét, be kell tudni állítani a nemzetközi standardnak megfelelő metszeteket, értékelnie kell a talált eltéréseket, majd véleményt kell mondania és javasolnia kell a vizsgálat eredményéből adódó egyéb vizsgálatokat illetve terápiás megoldásokat.
+
+5.2. A leletnek tartalmaznia kell egy leíró részt pontos adatokkal, választ a vizsgálat kérésekor feltett kérdésre, az esetleg talált (nem várt) eredményeket, és egy véleményt, javaslatokat a további teendőkkel kapcsolatban.
+
+5.3. A vizsgán értékelni kell a beküldött leleteket (50 részletes lelet elküldése a vizsgáztató központba legalább két héttel a vizsga előtt az elvégzett 150 vizsgálatból).
+
+5.4. A vizsgán meg kell vizsgálni egy beteget, a vizsgáztató kérésére különböző metszeteket be kell tudni állítani, quantifikálni kell az eltéréseket, stb. Ezt követően erről részleletes leletet írni, és a szükséges teendőkkel kapcsolatban is javaslatot tenni.
+
+5.5. 30 kérdésből álló teszt kitöltése.
+
+5.6. Video teszt, amely egy-egy képet vagy videót mutat különböző betegségekről, és ezzel kapcsolatos kérdéseket kell megválaszolni.
+
+6. A vizsgára bocsátás további feltételei: részvétel legalább 2 credit-pontos echokardiográfiás kurzuson.
+
+7. Megszerezhető képesítés birtokában végezhető szakmai tevékenységek köre:
+
+7.1. Szívbillentyűhibák vizsgálata, a stenosis, vagy regurgitáció súlyosságának megítélése: area számítások, gradiensek, regurgitációk quantifikálása
+
+7.2. A bal kamra systoles és diastoles funkció vizsgálata
+
+7.3. Ischaemiás szívbetegség vizsgálata -faImozgászavarok
+
+7.4. A szívinfarctus mechanikai szövődményeinek vizsgálata
+
+7.5. A szívizom betegségek, köztük a ritka kardiomiopátiák vizsgálata
+
+7.6. DCM esetén asnyncronia mérések, a szívelégtelenségben használatos, a súlyossági fokot megadó és a prognosztikus paraméterek meghatározása
+
+7.7. A jobb szívfél vizsgálata
+
+7.8. A bal pitvar és a jobb pitvar vizsgálata-annak morfoligiai és funkcionális paramétereinek elemzése.
+
+7.9. A nagy artériák és a nagy vénák morfológiai és funkcionális vizsgálata
+
+7.10. Congenitalis szivhibák vizsgálata, súlyosságuk megítélése
+
+7.11. Emboliaforrás keresés a szívben (tumorok, thrombusok, vegetációk)
+
+7.12. Az infectiv endocarditis és szövődményeinek vizsgálata
+
+7.13. A Szöveti Doppler és a Strain technikák ismerete és alkalmazása
+
+7.14. A szívburok és betegségeinek vizsgálata
+
+7.15. A szívtumorok és más intracardialis terimék vizsgálata
+
+7.16. A szívműtőben preoperativan a dg- megerősítése, pontosítása, segítség a szívsebésznek a műtéti típus kiválasztásában, postoperativan az eredmény értékelése
+
+7.17. Nem szívműtétek alatti intraoperativ TEE során a bal kamra funkció követése, az adódódó problémák időben történő észlelése, korrekciós javaslat (hasi műtétek, mellkasi műtétek kapcsán szívbeteg műtétek során)
+
+7.18. Intervenciók kapcsán (fülcse-zárás, ASD-zárás, TAVI, stb.) az intervenció vezérlésében való részvétel, ezzel az intervenció segítése (hol van az intervenciós katéter, transseptalis szúrás vezérlése, az eredmények lemérése, stb.)
+
+7.19. A TEE licenc birtokában intraoperativ TEE vizsgálatok, illetve intervenciók során a echos-vezetés (guiding) is végezhető.
+
+8. A képzés személyi és tárgyi feltételei
+
+8.1. A képzés személyi feltételei: TTE és TEE licencszel és minimum 5 éves szakmai gyakorlattal rendelkező kardiológus, mint tutor, aki 5 évente részt vesz legalább 2 credit-pontos Echocardiográfiás kurzuson, vagy ezek szervezésében, vagy azokon előadásokat tart.
+
+8.2. A képzés tárgyi feltételei: echokardiográfiás készülék (ennek típusa szerepeljen a leleten), multiplan transoesophagealis transducer (előny a három-dimentiós).
+
+[^41]: A 2. mellékletet a 69/2013. (XI. 19.) EMMI rendelet 19. § (2) bekezdése iktatta be, szövege a 14/2014. (III. 10.) EMMI rendelet 29. § b) pontja, a 4/2015. (I. 20.) EMMI rendelet 14. § b) pontja, az 54/2015. (XI. 24.) EMMI rendelet 52. §-a, a 28/2016. (IX. 29.) EMMI rendelet 14. § (2) bekezdése szerint módosított szöveg.
