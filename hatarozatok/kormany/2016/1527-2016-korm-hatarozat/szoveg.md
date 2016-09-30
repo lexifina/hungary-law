@@ -34,4 +34,6 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2017. június 30.
 
-6. visszavonja a Testnevelési Egyetem új kampusza, valamint a hozzá kapcsolódó sportlétesítmények, szálláshelyek és szolgáltató egységek megépítésének érdekében szükséges források biztosításáról szóló 2005/2015. (XII. 28.) Korm. határozatot.
+6.[^1]
+
+[^1]: A 6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
