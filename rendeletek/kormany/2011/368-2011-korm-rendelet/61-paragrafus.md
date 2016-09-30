@@ -1,6 +1,6 @@
 ## [Az Áht. 39. §-ához]
 
-61. § (1)[^202] Költségvetési főfelügyelői, felügyelői megbízás annak a természetes személynek adható, aki a felsőoktatásban szerzett gazdasági szakképzettséggel és a kijelölés évét megelőző tíz évben legalább hároméves költségvetési gyakorlattal rendelkezik, továbbá írásban nyilatkozik arról, hogy a (2) és (3) bekezdésben meghatározott kizáró okok a tekintetében nem állnak fenn.
+61. § (1)[^203] Költségvetési főfelügyelői, felügyelői megbízás annak a természetes személynek adható, aki a felsőoktatásban szerzett gazdasági szakképzettséggel és a kijelölés évét megelőző tíz évben legalább hároméves költségvetési gyakorlattal rendelkezik, továbbá írásban nyilatkozik arról, hogy a (2) és (3) bekezdésben meghatározott kizáró okok a tekintetében nem állnak fenn.
 
 (2) A Kormány irányítása alá tartozó fejezetet irányító szervnél, a Kormány irányítása vagy felügyelete alá tartozó költségvetési szervnél, az elkülönített állami pénzalapok és a társadalombiztosítás pénzügyi alapjai kezelő szervénél (ezen alcím alkalmazásában a továbbiakban együtt: kijelölt szerv) nem lehet költségvetési főfelügyelő, felügyelő az a természetes személy, aki
 
@@ -28,4 +28,4 @@ c) a költségvetési főfelügyelő, felügyelő nevét és
 
 d) a megbízatás időtartamát.
 
-[^202]: Az Ávr. 61. §-a a 175/2015. (VII. 7.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^203]: Az Ávr. 61. §-a a 175/2015. (VII. 7.) Korm. rendelet 6. §-ával megállapított szöveg.

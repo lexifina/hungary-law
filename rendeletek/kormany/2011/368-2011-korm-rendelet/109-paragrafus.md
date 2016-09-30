@@ -18,14 +18,14 @@ d) az ellenőrzött szervnél bármilyen munkavégzésre irányuló tevékenysé
 
 e) az ellenőrzött szerv vezetőjének a Polgári Törvénykönyv szerinti közeli hozzátartozója,
 
-f)[^326] vagyonnyilatkozati kötelezettségének nem tett eleget vagy azt megtagadta,
+f)[^327] vagyonnyilatkozati kötelezettségének nem tett eleget vagy azt megtagadta,
 
-g)[^327] az ellenőrzött szervnél a felülvizsgálat megkezdését megelőző két naptári évben kincstári ellenőrzést végzett.
+g)[^328] az ellenőrzött szervnél a felülvizsgálat megkezdését megelőző két naptári évben kincstári ellenőrzést végzett.
 
-(5)[^328] A felülvizsgálat keretében végzett hatósági ellenőrzés ügyintézési határideje százhúsz nap, amely szükség esetén egy alkalommal, legfeljebb harminc nappal meghosszabbítható. A másodfokú döntés meghozatalára a fellebbezés kézhezvételét követően hatvan nap áll rendelkezésre.
+(5)[^329] A felülvizsgálat keretében végzett hatósági ellenőrzés ügyintézési határideje százhúsz nap, amely szükség esetén egy alkalommal, legfeljebb harminc nappal meghosszabbítható. A másodfokú döntés meghozatalára a fellebbezés kézhezvételét követően hatvan nap áll rendelkezésre.
 
 (6) A Kincstár az Áht. 59. §-a szerinti felülvizsgálatok tapasztalatait és számszaki összegzéseit május 31-éig megküldi az államháztartásért felelős miniszternek, a helyi önkormányzatokért felelős miniszternek és az Állami Számvevőszék elnökének.
 
-[^326]: Az Ávr. 109. § (4) bekezdés f) pontja a 20/2015. (II. 17.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
-[^327]: Az Ávr. 109. § (4) bekezdés g) pontját a 20/2015. (II. 17.) Korm. rendelet 11. §-a iktatta be.
-[^328]: Az Ávr. 109. § (5) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 14. pontja szerint módosított szöveg.
+[^327]: Az Ávr. 109. § (4) bekezdés f) pontja a 20/2015. (II. 17.) Korm. rendelet 15. § e) pontja szerint módosított szöveg.
+[^328]: Az Ávr. 109. § (4) bekezdés g) pontját a 20/2015. (II. 17.) Korm. rendelet 11. §-a iktatta be.
+[^329]: Az Ávr. 109. § (5) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 28. § 14. pontja szerint módosított szöveg.

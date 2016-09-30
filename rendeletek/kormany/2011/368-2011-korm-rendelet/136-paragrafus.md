@@ -18,9 +18,9 @@ a) a Nyugdíjbiztosítási Alap előirányzat-felhasználási tervét visszaigaz
 
 b) az Egészségbiztosítási Alap előirányzat-felhasználási tervét, ha
 
-ba)[^421] a zárt előirányzatok tárgyhónap végéig tervezett összegei az időarányos előirányzatot nem haladják meg, a tárgyhónapot megelőző utolsó kincstári napon gondoskodik az előirányzat-felhasználási keretek megnyitásáról és jóváhagyó aláírásával ellátva ezt visszaigazolja,
+ba)[^422] a zárt előirányzatok tárgyhónap végéig tervezett összegei az időarányos előirányzatot nem haladják meg, a tárgyhónapot megelőző utolsó kincstári napon gondoskodik az előirányzat-felhasználási keretek megnyitásáról és jóváhagyó aláírásával ellátva ezt visszaigazolja,
 
-bb)[^422] bármely zárt előirányzat tárgyhónap végéig tervezett összege meghaladja az éves előirányzat időarányos mértékét, az államháztartásért felelős miniszter számára jóváhagyásra megküldi.
+bb)[^423] bármely zárt előirányzat tárgyhónap végéig tervezett összege meghaladja az éves előirányzat időarányos mértékét, az államháztartásért felelős miniszter számára jóváhagyásra megküldi.
 
 (6) A jóváhagyott előirányzat-felhasználási terv alapján a Kincstár gondoskodik az előirányzat-felhasználási keretek megnyitásáról és azt visszaigazolja a társadalombiztosítás pénzügyi alapjai kezelő szervei részére.
 
@@ -30,5 +30,5 @@ bb)[^422] bármely zárt előirányzat tárgyhónap végéig tervezett összege 
 
 (9) Ha az államháztartásért felelős miniszter a zárt előirányzatok tárgyhavi előirányzat-felhasználási kereteit az előző időszakban képződött megtakarítás beszámításával hagyja jóvá és az előirányzat-felhasználási terv nem így került benyújtásra, az előirányzat-felhasználási tervet a döntésnek megfelelően korrigálni kell. A társadalombiztosítás pénzügyi alapjának kezelő szerve a korrekciót a Kincstár tájékoztatása alapján soron kívül végrehajtja és a korrigált tervet a Kincstárnak megküldi.
 
-[^421]: Az Ávr. 136. § (5) bekezdés b) pont ba) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^422]: Az Ávr. 136. § (5) bekezdés b) pont bb) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^422]: Az Ávr. 136. § (5) bekezdés b) pont ba) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^423]: Az Ávr. 136. § (5) bekezdés b) pont bb) alpontja a 264/2016. (VIII. 31.) Korm. rendelet 22. §-ával megállapított szöveg.

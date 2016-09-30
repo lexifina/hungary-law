@@ -1,3 +1,3 @@
-1. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^611]
+1. melléklet a 368/2011. (XII. 31.) Korm. rendelethez[^612]
 
-[^611]: Az Ávr. 1. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 1. pontjával megállapított szöveg.
+[^612]: Az Ávr. 1. melléklete a 397/2014. (XII. 31.) Korm. rendelet 43. § 1. pontjával megállapított szöveg.

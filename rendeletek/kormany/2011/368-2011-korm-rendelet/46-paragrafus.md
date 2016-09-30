@@ -10,9 +10,9 @@ b) a december 31-ét követően esedékes fizetési kötelezettségek az esedék
 
 kiadási előirányzatai terhére vállalható kötelezettség.
 
-(3)[^148] A központi kezelésű előirányzatok, helyi önkormányzatok, nemzetiségi önkormányzatok, társulások és a térségi fejlesztési tanácsok kiadási előirányzatai terhére kötelezettségvállalásra a (2) bekezdés szerint kerülhet sor.
+(3)[^149] A központi kezelésű előirányzatok, helyi önkormányzatok, nemzetiségi önkormányzatok, társulások és a térségi fejlesztési tanácsok kiadási előirányzatai terhére kötelezettségvállalásra a (2) bekezdés szerint kerülhet sor.
 
-(4)[^149] Az Áht. 36. § (1) bekezdése szerinti más fizetési kötelezettségekkel az (1)–(3) bekezdés szerint kell a költségvetési év vagy az azt követő évek szabad kiadási előirányzatait csökkenteni.
+(4)[^150] Az Áht. 36. § (1) bekezdése szerinti más fizetési kötelezettségekkel az (1)–(3) bekezdés szerint kell a költségvetési év vagy az azt követő évek szabad kiadási előirányzatait csökkenteni.
 
-[^148]: Az Ávr. 46. § (3) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 7. pontja szerint módosított szöveg.
-[^149]: Az Ávr. 46. § (4) bekezdése a 89/2016. (IV. 29.) Korm. rendelet 4. § 3. pontja szerint módosított szöveg.
+[^149]: Az Ávr. 46. § (3) bekezdése a 413/2012. (XII. 29.) Korm. rendelet 40. § (2) bekezdés 7. pontja szerint módosított szöveg.
+[^150]: Az Ávr. 46. § (4) bekezdése a 89/2016. (IV. 29.) Korm. rendelet 4. § 3. pontja szerint módosított szöveg.

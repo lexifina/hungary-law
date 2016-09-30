@@ -1,6 +1,6 @@
-## [Az Áht. 78. § (4) bekezdéséhez][^382]
+## [Az Áht. 78. § (4) bekezdéséhez][^383]
 
-122/A. §[^383] (1) A Kincstár a Kincstári Egységes Számla terhére díj és kamat felszámítása nélkül megelőlegezheti
+122/A. §[^384] (1) A Kincstár a Kincstári Egységes Számla terhére díj és kamat felszámítása nélkül megelőlegezheti
 
 a) az agrártámogatások Európai Unió által finanszírozott része, valamint az Európai Unió részére történő cukorágazati hozzájárulás-fizetési kötelezettség teljesítéséhez szükséges forrás,
 
@@ -26,8 +26,8 @@ d) a családok támogatásáról szóló 1998. évi LXXXIV. törvény szerinti c
 
 e) a Nemzeti Foglalkoztatási Alapból finanszírozott álláskeresési és keresetpótló támogatások kiadásait,
 
-f)[^384] a helyi önkormányzatokat a tárgyévet követő évben a nettó finanszírozás keretében megillető támogatások összegének 4%-át kitevő, és a tárgyév december 20-án fennálló lemondás miatti visszafizetési kötelezettséggel, forgótőke-visszapótlással, valamint jogszabály alapján érvényesített egyéb levonási kötelezettséggel csökkentett összegét.
+f)[^385] a helyi önkormányzatokat a tárgyévet követő évben a nettó finanszírozás keretében megillető támogatások összegének 4%-át kitevő, és a tárgyév december 20-án fennálló lemondás miatti visszafizetési kötelezettséggel, forgótőke-visszapótlással, valamint jogszabály alapján érvényesített egyéb levonási kötelezettséggel csökkentett összegét.
 
-[^382]: Az Ávr. 122/A. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 29. §-ával megállapított szöveg.
-[^383]: Az Ávr. 122/A. §-át a 397/2014. (XII. 31.) Korm. rendelet 29. §-a iktatta be.
-[^384]: Az Ávr. 122/A. § (2) bekezdés f) pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 17. pontja szerint módosított szöveg.
+[^383]: Az Ávr. 122/A. §-át megelőző alcím a 397/2014. (XII. 31.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^384]: Az Ávr. 122/A. §-át a 397/2014. (XII. 31.) Korm. rendelet 29. §-a iktatta be.
+[^385]: Az Ávr. 122/A. § (2) bekezdés f) pontja a 264/2016. (VIII. 31.) Korm. rendelet 25. § 17. pontja szerint módosított szöveg.

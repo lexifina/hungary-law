@@ -1,3 +1,3 @@
-172. §[^581]
+172. §[^582]
 
-[^581]: Az Ávr. 172. §-át az 56/2012. (III. 30.) Korm. rendelet 29. § (1) bekezdése hatályon kívül helyezte.
+[^582]: Az Ávr. 172. §-át az 56/2012. (III. 30.) Korm. rendelet 29. § (1) bekezdése hatályon kívül helyezte.

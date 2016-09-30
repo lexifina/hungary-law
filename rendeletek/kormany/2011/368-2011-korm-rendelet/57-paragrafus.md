@@ -4,9 +4,9 @@
 
 (2) A kötelezettséget vállaló szerv belső szabályzatában előírhatja a bevételek meghatározott körére nézve is a teljesítés igazolásának kötelezettségét.
 
-(3)[^194] A teljesítést az igazolás dátumának és a teljesítés tényére történő utalás megjelölésével, az arra jogosult személy aláírásával kell igazolni. A kötelezettséget vállaló szerv belső szabályzatában nem szükséges külön teljesítés igazolását előírni az Áht. 36. § (1) bekezdése szerinti más fizetési kötelezettségek teljesítéséhez.
+(3)[^195] A teljesítést az igazolás dátumának és a teljesítés tényére történő utalás megjelölésével, az arra jogosult személy aláírásával kell igazolni. A kötelezettséget vállaló szerv belső szabályzatában nem szükséges külön teljesítés igazolását előírni az Áht. 36. § (1) bekezdése szerinti más fizetési kötelezettségek teljesítéséhez.
 
-(4)[^195] A teljesítés igazolására jogosult személyeket – az adott kötelezettségvállaláshoz, vagy a kötelezettségvállalások előre meghatározott csoportjaihoz kapcsolódóan – a kötelezettségvállaló írásban jelöli ki.
+(4)[^196] A teljesítés igazolására jogosult személyeket – az adott kötelezettségvállaláshoz, vagy a kötelezettségvállalások előre meghatározott csoportjaihoz kapcsolódóan – a kötelezettségvállaló írásban jelöli ki.
 
-[^194]: Az Ávr. 57. § (3) bekezdése a 89/2016. (IV. 29.) Korm. rendelet 4. § 3. pontja szerint módosított szöveg.
-[^195]: Az Ávr. 57. § (4) bekezdése az 56/2012. (III. 30.) Korm. rendelet 29. § (3) bekezdése szerint módosított szöveg.
+[^195]: Az Ávr. 57. § (3) bekezdése a 89/2016. (IV. 29.) Korm. rendelet 4. § 3. pontja szerint módosított szöveg.
+[^196]: Az Ávr. 57. § (4) bekezdése az 56/2012. (III. 30.) Korm. rendelet 29. § (3) bekezdése szerint módosított szöveg.
