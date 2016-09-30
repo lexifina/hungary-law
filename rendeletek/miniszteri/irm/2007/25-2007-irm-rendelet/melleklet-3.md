@@ -354,6 +354,6 @@
 
 | A döntés indoka röviden: |
 
-3. melléklet a 25/2007. (V. 31.) IRM rendelethez[^54]
+3. melléklet a 25/2007. (V. 31.) IRM rendelethez[^59]
 
-[^54]: A 3. melléklet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés c) pontjával megállapított szöveg.
+[^59]: A 3. melléklet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés c) pontjával megállapított szöveg.

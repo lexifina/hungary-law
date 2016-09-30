@@ -176,6 +176,6 @@
 
 | Az eljárás során az idegenrendészeti hatóság a tényállás tisztázása érdekében további okiratok benyújtására is felhívhatja! |
 
-14. melléklet a 25/2007. (V. 31.) IRM rendelethez[^65]
+14. melléklet a 25/2007. (V. 31.) IRM rendelethez[^70]
 
-[^65]: A 14. melléklet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés h) pontjával megállapított szöveg.
+[^70]: A 14. melléklet a 23/2016. (VI. 29.) BM rendelet 10. § (1) bekezdés h) pontjával megállapított szöveg.

@@ -122,7 +122,7 @@
 
 ## 10. hátoldalon kiegészítő információ: Csak érvényes személyi igazolvánnyal vagy úti okmánnyal (harmadik ország állampolgárságával rendelkező családtag esetén úti okmánnyal) együtt érvényes./Valid together with a valid personal identification document or travel document. (In case of third country national family member only with valid travel document.)
 
-7. melléklet a 25/2007. (V. 31.) IRM rendelethez[^58]
+7. melléklet a 25/2007. (V. 31.) IRM rendelethez[^63]
 
 ## 1M40933O_0
 
@@ -158,4 +158,4 @@ I. Alulírott
 
 II. Alulírott
 
-[^58]: A 7. melléklet a 68/2011. (XII. 30.) BM rendelet 24. § b) pontja szerint módosított szöveg.
+[^63]: A 7. melléklet a 68/2011. (XII. 30.) BM rendelet 24. § b) pontja szerint módosított szöveg.

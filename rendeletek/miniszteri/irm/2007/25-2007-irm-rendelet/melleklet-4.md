@@ -150,6 +150,6 @@
 
 | A döntés indoka (röviden): |
 
-4. melléklet a 25/2007. (V. 31.) IRM rendelethez[^55]
+4. melléklet a 25/2007. (V. 31.) IRM rendelethez[^60]
 
-[^55]: A 4. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (4) bekezdésével megállapított szöveg.
+[^60]: A 4. melléklet a 27/2011. (VIII. 24.) BM rendelet 5. § (4) bekezdésével megállapított szöveg.

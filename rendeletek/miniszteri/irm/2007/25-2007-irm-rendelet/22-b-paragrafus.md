@@ -1,3 +1,3 @@
-## Az aláírás minta[^31]
+## Az aláírás minta[^34]
 
-[^31]: A 22/B. §-t megelőző alcímet a 12/2010. (XII. 23.) BM rendelet 10. §-a iktatta be.
+[^34]: A 22/B. §-t megelőző alcímet a 12/2010. (XII. 23.) BM rendelet 10. §-a iktatta be.
