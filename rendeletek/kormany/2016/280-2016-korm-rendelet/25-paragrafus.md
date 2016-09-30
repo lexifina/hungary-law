@@ -8,4 +8,6 @@
 
 (4) A 14. § (3) bekezdésben foglalt rendelkezéseket a 2021. január 1-jét követő kikapcsolások esetében kell alkalmazni. 2020. december 31-ig alapvető felhasználót tartalmazó kikapcsolási csoport korlátozására abban az esetben kerülhet sor, ha az alapvető felhasználókat nem tartalmazó csoportok nem elegendők a rotáció megvalósítására.
 
-(5) Hatályát veszti a Korm. rendelet.
+(5)[^1]
+
+[^1]: A 25. § (5) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
