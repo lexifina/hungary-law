@@ -106,7 +106,7 @@ c) a munkaviszonynak a munkaadó részéről felmondással történő megszünte
 
 d) munkaviszony létesítéséhez szükséges feltételekkel az a személy rendelkezik, aki az Mt. alapján munkaviszonyt létesíthet.
 
-(7)
+(7) E törvény alkalmazásában szezonális munka olyan tevékenység, amely a naptári év bizonyos szakaszához kötődik, az adott évszak feltételeihez kapcsolódó, ismétlődő esemény, vagy események sorozata miatt, amikor az általában zajló műveletek esetében jóval több munkaerőre van szükség.
 
 (8) Felhatalmazást kap a miniszter, hogy rendeletben határozza meg
 

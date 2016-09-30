@@ -18,7 +18,9 @@ b) az (1) bekezdés b) pontjában meghatározott engedély tekintetében
 
 ba) Magyarország nemzetközi kötelezettségeire, a harmadik országbeli állampolgár személyi, családi és egyéb körülményeire figyelemmel, valamint munkaerő-piaci szempontok alapján egyes tevékenységeket érintően, az engedélyezési kötelezettség alóli mentesség eseteit, valamint
 
-bb) az engedély kiadásának részletes eljárási szabályait
+bb) az engedély kiadásának részletes eljárási szabályait,
+
+c) azokat a foglalkoztatási ágazatokat, amelyekben végzett tevékenységet szezonális munkának kell tekinteni – a Nemzeti Gazdasági és Társadalmi Tanácsban folytatott konzultációt követően –
 
 rendeletben állapítsa meg.
 
@@ -32,7 +34,7 @@ b) azokat a foglalkozásokat, amelyekben a magyarországi munkanélküliség ala
 
 c) az EU Kék Kártya alapján, Magyarországon foglalkoztatásra irányuló jogviszonyt létesítő harmadik országbeli állampolgár részére fizetendő minimális díjazás mértékének kiszámítási módját.
 
-(7) A foglalkoztató és a harmadik országbeli munkavállaló az (1) bekezdés a) pontjában meghatározott engedély alapján történő munkavállalás céljából előzetes megállapodást köt foglalkoztatásra irányuló jogviszony létesítésére. A megállapodás – a (7a) bekezdésben foglalt kivétellel – legfeljebb kétéves, határozott időtartamú foglalkoztatásra irányuló jogviszony létesítésére szólhat. A megállapodás kötelező érvényű állásajánlatnak minősül. Ha az engedély kiállításra kerül a harmadik országbeli állampolgár részére, a foglalkoztatásra irányuló jogviszonyt – a (9) bekezdésben foglalt kivétellel – az előzetes megállapodásban foglalt feltételeknek megfelelően, valamint az (1) bekezdés a) pontjában meghatározott engedély időtartamának megfelelő időtartammal kell létrehozniuk. A felek ettől eltérő megállapodása érvénytelen.
+(7) A foglalkoztató és a harmadik országbeli munkavállaló az (1) bekezdés a) pontjában meghatározott engedély alapján történő munkavállalás céljából – a (8a) bekezdésben foglaltak kivételével – előzetes megállapodást köt foglalkoztatásra irányuló jogviszony létesítésére. A megállapodás – a (7a) bekezdésben foglalt kivétellel – legfeljebb kétéves, határozott időtartamú foglalkoztatásra irányuló jogviszony létesítésére szólhat. A megállapodás kötelező érvényű állásajánlatnak minősül. Ha az engedély kiállításra kerül a harmadik országbeli állampolgár részére, a foglalkoztatásra irányuló jogviszonyt – a (9) bekezdésben foglalt kivétellel – az előzetes megállapodásban foglalt feltételeknek megfelelően, valamint az (1) bekezdés a) pontjában meghatározott engedély időtartamának megfelelő időtartammal kell létrehozniuk. A felek ettől eltérő megállapodása érvénytelen.
 
 (7a) A megállapodás
 
@@ -44,7 +46,9 @@ c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáró
 
 d) a Harmtv. 29. § (1) bekezdés e)–f) pontja szerinti humanitárius tartózkodási engedély esetén legfeljebb hat hónapos,
 
-e) a Harmtv. 29. § (1a) bekezdése szerinti humanitárius tartózkodási engedély esetén legfeljebb egyéves
+e) a Harmtv. 29. § (1a) bekezdése szerinti humanitárius tartózkodási engedély esetén legfeljebb egyéves,
+
+f) az 58. § (7) bekezdésében meghatározott szezonális munka esetében tizenkét hónapon belül legfeljebb hat hónapos
 
 határozott időtartamú foglalkoztatásra irányuló jogviszony létesítésére szólhat.
 
@@ -63,6 +67,14 @@ e) a foglalkoztatásra irányuló jogviszony várható kezdő és befejező idő
 f) a foglalkoztatás helyének megjelölését, valamint
 
 g) ha a foglalkoztatásra várhatóan nem az általános teljes napi munkaidőben kerül sor, a részmunkaidős foglalkoztatás munkaidejét.
+
+(8a) A foglalkoztató és a harmadik országbeli állampolgár nem köt előzetes megállapodást, ha harmadik országbeli állampolgár magyarországi foglalkoztatására
+
+a) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvényben meghatározott vállalaton belüli áthelyezés, vagy
+
+b) belföldi foglalkoztatóval kötött megállapodás teljesítése érdekében külföldi munkáltatóval fennálló munkaviszonya
+
+alapján kerül sor.
 
 (9) A felek a (8) bekezdés c) pontja szerinti díjazás mértékétől kizárólag a harmadik országbeli állampolgár javára térhetnek el.
 
