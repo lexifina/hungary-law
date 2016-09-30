@@ -1,0 +1,3 @@
+## 1. § A Yanfeng Hungary Automotive Interior Systems Kft. Pápa város területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 82/2016. (IV. 12.) Korm. rendelet (a továbbiakban: R.) a következő 7. §-sal egészül ki:
+
+## „7. § A Yanfeng Hungary Automotive Interior Systems Kft. Pápa területén megvalósuló beruházásával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 82/2016. (IV. 12.) Korm. rendelet módosításáról szóló 298/2016. (IX. 29.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (1) bekezdését a Módr. hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.”
