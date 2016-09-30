@@ -68,7 +68,9 @@ lc) 25. pontjával módosított 33a. cikke,
 
 ld) 28. pontjával megállapított 37. cikk (3) és (4) bekezdése és
 
-le) 32. pontjával módosított 43. cikke.
+le) 32. pontjával módosított 43. cikke,
+
+m)[^10] az irányelv 5.1.1–5.1.4. pontja a Bizottság 2016/790 felhatalmazáson alapuló határozata (2016. január 13.) szerint.
 
 [^2]: A 3. § az 50/2011. (VIII. 18.) NEFMI rendelet 3. §-ával megállapított szöveg.
 [^3]: A 3. § b) pont bk) alpontját a 24/2012. (IV. 18.) NEFMI rendelet 5. §-a iktatta be.
@@ -78,3 +80,4 @@ le) 32. pontjával módosított 43. cikke.
 [^7]: A 3. § j) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
 [^8]: A 3. § k) pontját a 61/2013. (VIII. 22.) EMMI rendelet 2. §-a iktatta be.
 [^9]: A 3. § l) pontját az 56/2015. (XII.17.) EMMI rendelet 2. §-a iktatta be.
+[^10]: A 3. § m) pontját a 28/2016. (IX. 29.) EMMI rendelet 2. §-a iktatta be.
