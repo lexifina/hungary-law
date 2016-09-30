@@ -1,16 +1,17 @@
-## 2. A mezőgazdasági szezonális munkavállalási engedély
+## 2. [^25] Munkavállalási engedély szezonális munka keretében történő, 90 napot meg nem haladó foglalkoztatáshoz
 
-7. § (1) A mezőgazdaságban történő szezonális foglalkoztatás (a továbbiakban: szezonális foglalkoztatás) engedélyezésére a 3–6. §-ban foglaltakat ebben az alcímben szabályozott eltérésekkel kell alkalmazni.
+7. § (1) Szezonális munkavállalási engedéllyel a harmadik országbeli állampolgár szezonális munka keretében történő, 90 napot meg nem haladó folyamatos foglalkoztatása engedélyezhető.
 
-(2)[^13] A miniszter a kiadott mezőgazdasági szezonális munkavállalási engedélyekről nyilvántartást vezet.
+(2) A szezonális munkavállalási engedélyre a 3–6. §-ban foglaltakat ebben az alcímben szabályozott eltérésekkel kell alkalmazni.
 
-(3) A szezonális foglalkoztatás egy naptári éven belül legfeljebb száznyolcvan napra engedélyezhető, a munkavállalási engedély meghosszabbításának helye nincs. Egy engedélyben a foglalkoztatás időtartama több részletben is meghatározható. A kérelmet a 1. melléklet szerinti formanyomtatványon kell benyújtani.
+(3) Ugyanazon harmadik országbeli állampolgár foglalkoztatásához kiadott több szezonális munkavállalási engedély esetében az egyes engedélyekben meghatározott szezonális munka együttes időtartama 12 hónapon belül nem haladhatja meg a 180 napot.
 
-(4) Az engedélyt – az (5) bekezdésben meghatározott kivétellel – a munkaerőpiaci helyzet vizsgálata alapján kell kiadni.
+(4) A szezonális munkavállalási engedély egyszer hosszabbítható meg. Az engedély meghosszabbításának feltétele, hogy a szezonális munka időtartama a meghosszabbítással együtt ne haladja meg a 90 napot.
 
-(5)[^14] Amennyiben egy naptári éven belül a szezonális foglalkoztatás időtartama nem haladja meg a hatvan napot, az engedélyt a munkaerőpiaci helyzet vizsgálata nélkül kell kiadni. E bekezdés szerinti foglalkoztatás esetén a 8. § (1) bekezdés b) pontja nem alkalmazható.
+(5) A szezonális munkavállalási engedélyt a munkaerőpiaci helyzet vizsgálata nélkül kell kiadni.
 
-(6) A mezőgazdasági szezonális munkavállalási engedély kiadása során nem kell vizsgálni a 3. § (2) bekezdés c) pontjában foglaltakat.
+(6) A szezonális munkavállalási engedély kiadása során nem kell vizsgálni a 3. § (2) bekezdésben foglaltakat.
 
-[^13]: A 7. § (2) bekezdése a 318/2014. (XII. 13.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.
-[^14]: A 7. § (5) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 218. § a) pontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+(7) A kiadott szezonális munkavállalási engedélyekről az Flt. 57/A. §-a szerinti nyilvántartást a miniszter vezeti.
+
+[^25]: A 2. alcím (7–8. §) a 113/2016. (V. 30.) Korm. rendelet 80. §-ával megállapított szöveg.

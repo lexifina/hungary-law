@@ -26,8 +26,8 @@ c) hatvan napnál régebben nyújtott be, de azt legalább a kérelem benyújtá
 
 (5) Ha a (4) bekezdésben megjelölt munkavégzéssel érintett többi megye valamelyikének területén rendelkezésre áll megfelelő kiközvetíthető munkaerő, akkor e megye területére az engedély nem adható ki, azonban a munkavégzés engedélyezhető azon munkavégzéssel érintett többi megye területén, ahol megfelelő munkaerő nem áll rendelkezésre.
 
-(6)[^5] Ha a foglalkoztató egy időben több személyre vonatkozóan nyújtott be munkavállalási engedély iránti kérelmet, és a kérelem elbírálására illetékes kormányhivatal illetékességi területén, illetve a többi megye valamelyikének területén a kérelmezett létszámhoz képest csak részben áll rendelkezésre kiközvetíthető munkaerő, akkor a foglalkoztatás – a kormányhivatal felhívására a foglalkoztató által megnevezett személyek tekintetében – a rendelkezésre nem álló kiközvetíthető munkaerő tekintetében engedélyezhető.
+(6)[^17] Ha a foglalkoztató egy időben több személyre vonatkozóan nyújtott be munkavállalási engedély iránti kérelmet, és a kérelem elbírálására illetékes kormányhivatal illetékességi területén, illetve a többi megye valamelyikének területén a kérelmezett létszámhoz képest csak részben áll rendelkezésre kiközvetíthető munkaerő, akkor a foglalkoztatás – a kormányhivatal felhívására a foglalkoztató által megnevezett személyek tekintetében – a rendelkezésre nem álló kiközvetíthető munkaerő tekintetében engedélyezhető.
 
 (7) Ha a munkavégzés a munka természetéből adódóan több megye területére terjedhet ki, a (2) bekezdés a) és b) pontjában meghatározott feltételeknek a munkavégzés megkezdésének helye szerinti megye vonatkozásában kell fennállnia.
 
-[^5]: A 3. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés b) pontja szerint módosított szöveg.
+[^17]: A 3. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés b) pontja szerint módosított szöveg.

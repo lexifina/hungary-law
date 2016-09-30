@@ -1,6 +1,6 @@
-## 27–28. §[^71]
+## 27–28. §[^98]
 
-1. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^72]
+1. melléklet a 445/2013. (XI. 28.) Korm. rendelethez[^99]
 
 KÉRELEM
 
@@ -60,17 +60,13 @@ Utóneve:
 
 2.5. Születési ideje:
 
-2.6. Neme: □férfi □ nő
+2.6. Neme: □ férfi □ nő
 
 2.7. Állampolgársága:
 
-2.8. Útlevélszáma:.
+2.8. Útlevélszáma:
 
-2.9. A tevékenység ellátásához szükséges iskolai végzettsége:
-
-Szakképzettsége(i), képzettsége(i), ismerete(i):
-
-2.10. Magyarországi tartózkodási helye (ha van):
+2.9. Magyarországi tartózkodási helye (ha van):
 
 3. A harmadik országbeli állampolgár által ellátandó tevékenység, betöltendő munkakör:
 
@@ -78,17 +74,15 @@ Szakképzettsége(i), képzettsége(i), ismerete(i):
 
 3.2. FEOR-kódja:
 
-3.3. A tevékenység ellátásához szükséges szakképzettség:
+3.3. Az ellátandó tevékenység részletes leírása:
 
-3.4. Az ellátandó tevékenység részletes leírása:
+3.4. A foglalkoztatás helye(i):
 
-3.5. A foglalkoztatás helye(i):
+3.5. Heti munkaidő:
 
-3.6. Heti munkaidő:
+Teljes/részmunkaidő ..................... óra.
 
-Teljes/részmunkaidő ............................... óra.
-
-3.7. A foglalkoztatás várható kezdetének (kezdeteinek) és befejezésének (befejezéseinek) dátumai:
+3.6. A foglalkoztatás várható kezdetének (kezdeteinek) és befejezésének (befejezéseinek) dátumai:
 
 ....................................-tól ..............................-ig
 
@@ -96,7 +90,7 @@ Teljes/részmunkaidő ............................... óra.
 
 ....................................-tól ..............................-ig
 
-3.8. Várható (bruttó) alapbér, illetmény, díjazás, ellenérték összege:
+3.7. Várható (bruttó) alapbér, illetmény, díjazás, ellenérték összege: .................................................
 
 4. A harmadik országbeli állampolgár foglalkoztatásának indokolása, a foglalkoztatás egyéb feltételei:
 
@@ -104,11 +98,11 @@ Teljes/részmunkaidő ............................... óra.
 
 Igen Nem
 
-5. A harmadik országbeli állampolgár dolgozott-e korábban mezőgazdasági szezonális munkavállalási engedély alapján Magyarországon?
+5. A harmadik országbeli állampolgár dolgozott-e korábban szezonális munkavállalási engedély alapján Magyarországon?
 
 Igen Nem
 
-Előző munkavállalási engedélyt kiadó kormányhivatal megnevezése:
+Előző munkavállalási engedélyt kiadó kormányhivatal megnevezése: .................................................
 
 6. A kérelmező foglalkoztató nyilatkozatai:
 
@@ -122,33 +116,27 @@ Előző munkavállalási engedélyt kiadó kormányhivatal megnevezése:
 
 – köteleztek:
 
-a befizetésnek ..................................... napján eleget tettem.
+a befizetésnek ................................................. napján eleget tettem.
 
 – nem köteleztek.
 
-6.3. Kijelentem, hogy a kérelmezett munkakörre vonatkozóan érvényes (folyamatos) munkaerőigénnyel:
+6.3. Kijelentem, hogy a kérelemben megjelölt harmadik országbeli állampolgár magyarországi foglalkoztatására nem tőlem eltérő foglalkoztatónál kerül sor.
 
-– rendelkezem, a kérelmet megelőzően nyújtottam be
+6.4. Kijelentem, hogy az illetékes hatósága szezonális munkavállalási engedély iránti kérelem benyújtását megelőző egy éven belül
 
-mikor:
+– velem szemben a foglalkoztatási jogviszony létesítésével, megszűnésével, megszüntetésével kapcsolatos bejelentési kötelezettség elmulasztása miatt pénzbírságot nem szabott ki,
 
-melyik járási hivatalnál:
+– a Met. 7/A. §-ában foglaltak szerint a központi költségvetésbe történő befizetésre nem kötelezett vagy
 
-– nem rendelkezem
+– nem állok felszámolási eljárás alatt, gazdasági tevékenységet folytatok.
 
-– a kérelemmel egyidejűleg nyújtom be.
+7. A kormányhivatal – az egyéni vállalkozó, illetve a cégbíróság által nyilvántartott gazdasági társaság kivételével – a foglalkoztatótól az azonosítására vonatkozóan további adatok és okiratok becsatolását kérheti.
 
-7. A kérelemhez csatolandó mellékletek:
+Dátum: .................................................
 
-7.1. Munkaerőigény benyújtása, amennyiben korábban nem nyújtotta be a foglalkoztatás tervezett helye szerinti járási hivatalnál.
-
-8. A kormányhivatal – az egyéni vállalkozó, illetve a cégbíróság által nyilvántartott gazdasági társaság kivételével – a foglalkoztatótól az azonosítására vonatkozóan további adatok és okiratok becsatolását kérheti.
-
-Dátum: ........................................................
-
-...............................................................
+................................................................................................
 
 foglalkoztató cégszerű aláírása
 
-[^71]: A 27–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^72]: Az 1. melléklet a 70/2015. (III. 30.) Korm. rendelet 236. § (9) bekezdése szerint módosított szöveg.
+[^98]: A 27–28. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^99]: Az 1. melléklet a 113/2016. (V. 30.) Korm. rendelet 90. §-ával megállapított szöveg.

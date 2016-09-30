@@ -18,7 +18,7 @@ h) a szolgáltatás kizárólagos tárgya a külföldi munkáltatóval kötött 
 
 i) a harmadik országbeli állampolgár állandó lakóhelye szerinti ország illetékes hatósága a magyar állampolgárok adott országban történő munkavállalásának engedélyezését más országok állampolgáraira irányadó általános feltételekhez képest indokolatlanul nehezebb feltételhez köti (viszonosság hiánya),
 
-j)[^8] a harmadik országbeli állampolgár magyarországi foglalkoztatására a kérelmezett foglalkoztatás időtartamát érintően érvényes engedély van hatályban,
+j)[^20] a harmadik országbeli állampolgár magyarországi foglalkoztatására a kérelmezett foglalkoztatás időtartamát érintően érvényes munkavállalási engedély van hatályban,
 
 k) a foglalkoztató a harmadik országbeli állampolgár foglalkoztatása érdekében hamis vagy hamisított szakképzettséget, iskolai végzettséget igazoló okiratot nyújtott be.
 
@@ -28,13 +28,13 @@ a) a munkaerőigényében a munkakör betöltésére vagy a tevékenység ellát
 
 b) a feltételeknek megfelelő kiközvetíthető munkaerő foglalkoztatásától elzárkózott, vagy
 
-c)[^9] érvényes munkaerőigénnyel rendelkezett, de abban közvetítést nem kért, vagy a munkaerőigény érvényességi idejét tíz napnál rövidebb időtartamban határozta meg.
+c)[^21] érvényes munkaerőigénnyel rendelkezett, de abban közvetítést nem kért, vagy a munkaerőigény érvényességi idejét tíz napnál rövidebb időtartamban határozta meg.
 
-(3)[^10] Az (1) bekezdés i) pontjában meghatározott körülmény fennállásáról a kormányhivatalt a miniszter tájékoztatja.
+(3)[^22] Az (1) bekezdés i) pontjában meghatározott körülmény fennállásáról a kormányhivatalt a miniszter tájékoztatja.
 
-(4)[^11] Az (1) bekezdés j) pontja alkalmazásában nem minősül érvényes engedélynek, ha a másik érvényes engedéllyel rendelkező foglalkoztató a munkavállalási engedély elbírálásáig kezdeményezi az engedély visszavonását, vagy a harmadik országbeli állampolgár írásban nyilatkozik arról, hogy a korábbi foglalkoztatónál a jogviszonya megszűnt.
+(4)[^23] Az (1) bekezdés j) pontja alkalmazásában nem minősül érvényes engedélynek, ha a másik érvényes engedéllyel rendelkező foglalkoztató a munkavállalási engedély elbírálásáig kezdeményezi az engedély visszavonását, vagy a harmadik országbeli állampolgár írásban nyilatkozik arról, hogy a korábbi foglalkoztatónál a jogviszonya megszűnt.
 
-[^8]: Az 5. § (1) bekezdés j) pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (3) bekezdésével megállapított szöveg.
-[^9]: Az 5. § (2) bekezdés c) pontja a 113/2016. (V. 30.) Korm. rendelet 91. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^10]: Az 5. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés c) pontja szerint módosított szöveg.
-[^11]: Az 5. § (4) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (4) bekezdése iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 216. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^20]: Az 5. § (1) bekezdés j) pontja a 89/2014. (III. 20.) Korm. rendelet 7. § (3) bekezdésével megállapított, a 113/2016. (V. 30.) Korm. rendelet 91. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^21]: Az 5. § (2) bekezdés c) pontja a 113/2016. (V. 30.) Korm. rendelet 91. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^22]: Az 5. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 236. § (7) bekezdés c) pontja szerint módosított szöveg.
+[^23]: Az 5. § (4) bekezdését a 89/2014. (III. 20.) Korm. rendelet 7. § (4) bekezdése iktatta be, szövege a 441/2015. (XII. 28.) Korm. rendelet 216. § (1) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
