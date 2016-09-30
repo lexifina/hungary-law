@@ -18,4 +18,8 @@ g) a harmadik országbeli állampolgárok valamely tagállam területén való t
 
 h) a harmadik országbeli állampolgárok és hontalan személyek nemzetközi védelemre jogosultként való elismerésére, az egységes menekült- vagy kiegészítő védelmet biztosító jogállásra, valamint a nyújtott védelem tartalmára vonatkozó szabályokról szóló, 2011. december 13-i, 2011/95/EU európai parlamenti és tanácsi irányelv, 28. cikk,
 
-i) a szakmai képesítések elismeréséről szóló 2005/36/EK irányelv és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2013. november 20-i 2013/55/EU európai parlamenti és tanácsi irányelv.
+i) a szakmai képesítések elismeréséről szóló 2005/36/EK irányelv és a belső piaci információs rendszer keretében történő igazgatási együttműködésről szóló 1024/2012/EU rendelet (az IMI-rendelet) módosításáról szóló, 2013. november 20-i 2013/55/EU európai parlamenti és tanácsi irányelv,
+
+j) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2014. február 26-ai 2014/36/EU európai parlamenti és tanácsi irányelve,
+
+k) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló 2014. május 15-i 2014/66/EU parlamenti és tanácsi irányelve.
