@@ -1,0 +1,9 @@
+# 38/2016. (IX. 29.) BM rendelet
+
+a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományának 2017. évi ruházati utánpótlási ellátmánya terhére kiadott természetbeni ellátásról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-38-20-0A
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-09-30 | 2016-38-20-0A.1 | 38/2016. (IX. 29.) BM rendelet |
