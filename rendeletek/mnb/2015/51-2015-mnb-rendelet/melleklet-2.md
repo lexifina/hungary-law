@@ -94,6 +94,8 @@
 
 ## 1.46. a devizakölcsönök törlesztési árfolyamának rögzítését érintő megtérítésről és a közszférában dolgozók támogatásáról szóló 57/2012. (III. 30.) Korm. rendelet;
 
+## 1.46a. az alapszámlához való hozzáférésről, az alapszámla jellemzőiről és díjazásáról szóló 262/2016. (VIII. 31.) Korm. rendelet [a továbbiakban: 262/2016. (VIII. 31.) Korm. rendelet];
+
 ## 1.47. a hitelintézetek devizapozícióbeli lejárati összhangjának szabályozásáról, valamint a pénz- és hitelpiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 43/2013. (XII. 29.) MNB rendelet módosításáról szóló 14/2014. (V. 19.) MNB rendelet (a továbbiakban: Dmmr.);
 
 ## 1.48. a hitelintézetek likviditásfedezeti rátájának minimum szintjéről szóló 35/2015. (IX. 24.) MNB rendelet;
@@ -121,6 +123,8 @@
 ## 2. Fogalmak
 
 ## 2.1. Alapjavadalmazás: a Hpt. 6. § (1) bekezdés 1. pontja szerinti fogalom.
+
+## 2.1a. Alapszámla: a 262/2016. (VIII. 31.) Korm. rendelet 1. §-a szerinti fizetési számla.
 
 ## 2.2. Állampapír: a Tpt. 5. § (1) bekezdés 6. pontja szerinti fogalom.
 
@@ -788,6 +792,6 @@
 
 ## A forgalmi típusú jelentéseknél az adott tábla kitöltési előírásainak eltérő rendelkezése hiányában a forintra átszámítás az ügylet napján érvényes árfolyammal történik az intézmény számviteli politikájában lefektetetteknek megfelelően.
 
-2. melléklet az 51/2015. (XII. 9.) MNB rendelethez[^7]
+2. melléklet az 51/2015. (XII. 9.) MNB rendelethez[^10]
 
-[^7]: A 2. melléklet a 3/2016. (II. 8.) MNB rendelet 2. §-a szerint módosított szöveg.
+[^10]: A 2. melléklet a 3/2016. (II. 8.) MNB rendelet 2. §-a szerint módosított szöveg.

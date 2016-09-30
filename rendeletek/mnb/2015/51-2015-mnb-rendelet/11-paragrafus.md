@@ -1,4 +1,4 @@
-11. §[^4] (1) Az adatszolgáltató a felügyeleti jelentés, adatszolgáltatás teljesítésében való technikai akadályoztatásával kapcsolatos bejelentését elektronikus formában, az ERA rendszeren keresztül nyújtja be az MNB részére.
+11. §[^5] (1) Az adatszolgáltató a felügyeleti jelentés, adatszolgáltatás teljesítésében való technikai akadályoztatásával kapcsolatos bejelentését elektronikus formában, az ERA rendszeren keresztül nyújtja be az MNB részére.
 
 (2) Az akadályoztatás technikai oka lehet különösen
 
@@ -26,4 +26,4 @@ c) felhasználó: az adatszolgáltató nevében eljáró természetes személy;
 
 d) üzemzavar: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 172. § n) pontjában meghatározott fogalom.
 
-[^4]: A 11. § a 21/2016. (VI. 29.) MNB rendelet 4. §-ával megállapított szöveg.
+[^5]: A 11. § a 21/2016. (VI. 29.) MNB rendelet 4. §-ával megállapított szöveg.

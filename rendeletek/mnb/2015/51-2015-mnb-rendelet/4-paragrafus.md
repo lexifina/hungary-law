@@ -10,7 +10,7 @@ c) „ÖSSZEFOGLALÓ TÁBLA EGYEDI JELENTÉSEK – HARMADIK ORSZÁGBELI HITELINT
 
 teljesíti az MNB részére.
 
-(3)[^2] Az összevont alapú felügyelet alá tartozó, a 680/2014/EU bizottsági végrehajtási rendelet 9. és 10. cikke szerinti adatszolgáltatások teljesítésére kötelezett hitelintézet a 2. melléklet „ÖSSZEFOGLALÓ TÁBLA KONSZOLIDÁLT JELENTÉSEK – HITELINTÉZETEK” megnevezésű táblázatában meghatározott felügyeleti jelentések közül kizárólag a 13a–49. sor szerinti, valamint – az MNB kijelölése alapján – a 12. és 13. sor szerinti felügyeleti jelentést teljesíti az MNB részére.
+(3)[^3] Az összevont alapú felügyelet alá tartozó, a 680/2014/EU bizottsági végrehajtási rendelet 9. és 10. cikke szerinti adatszolgáltatások teljesítésére kötelezett hitelintézet a 2. melléklet „ÖSSZEFOGLALÓ TÁBLA KONSZOLIDÁLT JELENTÉSEK – HITELINTÉZETEK” megnevezésű táblázatában meghatározott felügyeleti jelentések közül kizárólag a 13a–49. sor szerinti, valamint – az MNB kijelölése alapján – a 12. és 13. sor szerinti felügyeleti jelentést teljesíti az MNB részére.
 
 (4) A külföldön hitelintézeti leányvállalattal rendelkező, összevont alapú felügyelet alá tartozó hitelintézet az összevont alapú felügyelet alá tartozó intézményeiről országonként felügyeleti jelentést teljesít az MNB részére a tárgyidőszakot követő 25. munkanapig
 
@@ -26,4 +26,4 @@ a 3. melléklet IV. 2. pontjában foglalt kitöltési előírások szerint.
 
 (6) A kitöltésre vonatkozó általános előírásokat az 1. melléklet, a kitöltésre vonatkozó részletes előírásokat a 3. melléklet tartalmazza. A kitöltést segítő technikai segédletet az MNB e rendelet hatálybalépésével egyidejűleg a honlapján teszi közzé.
 
-[^2]: A 4. § (3) bekezdése a 3/2016. (II. 8.) MNB rendelet 4. §-a szerint módosított szöveg.
+[^3]: A 4. § (3) bekezdése a 3/2016. (II. 8.) MNB rendelet 4. §-a szerint módosított szöveg.
