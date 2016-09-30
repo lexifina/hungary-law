@@ -14,13 +14,15 @@ b) aki gazdasági társaság, szövetkezet vagy egyéb – jövedelemszerzési c
 
 (4) Az (1) és a (2) bekezdés szerinti keresőtevékenységet – ha e törvény eltérően nem rendelkezik – az a harmadik országbeli állampolgár folytathat, aki
 
-a) szezonális munkavállalási vízummal,
+a) szezonális munkavállalás célú tartózkodási engedéllyel,
 
 b) humanitárius célból kiadott tartózkodási engedéllyel,
 
-c) keresőtevékenység folytatása céljából, jövedelemszerzés vagy munkavállalás céljából, családi együttélés biztosítása céljából, kutatás céljából vagy tanulmányi célból kiadott tartózkodási engedéllyel, vagy
+c) keresőtevékenység folytatása céljából, jövedelemszerzés vagy munkavállalás céljából, családi együttélés biztosítása céljából, kutatás céljából vagy tanulmányi célból kiadott tartózkodási engedéllyel,
 
-d) EU Kék Kártyával
+d) EU Kék Kártyával vagy
+
+e) vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel
 
 rendelkezik.
 

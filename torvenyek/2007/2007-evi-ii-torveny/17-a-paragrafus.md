@@ -6,6 +6,8 @@ b) a kilencven napot meghaladó tartózkodás célja kutatás, vagy
 
 c) az 539/2001/EK rendelet II. mellékletében szereplő állam állampolgáraként vagy ilyen harmadik országbeli állampolgárral együtt, családtagként tartózkodik jogszerűen Magyarország területén.
 
+(1a) A Magyarország területén tartózkodó, az Európai Unió tagállama által vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár vállalaton belüli áthelyezés céljából tartózkodási engedély (hosszú távú mobilitási engedély) kiadása iránti kérelmét, valamint az ilyen engedéllyel rendelkező harmadik országbeli állampolgárral együtt Magyarországon jogszerűen tartózkodó családtag tartózkodási engedély iránti kérelmét Magyarországon terjesztheti elő, amennyiben az első tagállam által kiadott tartózkodási engedélye érvényes.
+
 (2) Az (1) bekezdés a) pontjában meghatározott kivételesen méltányolható körülmény különösen a gyógykezeléssel, a családegyesítéssel vagy a keresőtevékenységgel összefüggő olyan tény, amely a harmadik országbeli állampolgárnak nem felróható okból következett be és akadályozza a jogszabályban meghatározott általános feltételeknek megfelelő helyen történő kérelmezést.
 
 (3) Az idegenrendészeti hatóság az (1) bekezdésben foglaltak szerint előterjesztett tartózkodási engedély kiadása iránti kérelmet nyolc napon belül érdemi vizsgálat nélkül végzéssel elutasítja, ha megállapítja, hogy

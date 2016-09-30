@@ -6,9 +6,15 @@
 
 a) családi együttélés biztosítása céljából tartózkodási engedély,
 
-b) EU Kék Kártya, vagy
+b) EU Kék Kártya,
 
-c) kutatás célú tartózkodási engedély
+c) kutatás célú tartózkodási engedély,
+
+d) szezonális munkavállalási célú tartózkodási engedély,
+
+e) vállalaton belüli áthelyezés célú tartózkodási engedély, vagy
+
+f) hosszú távú mobilitási engedély
 
 iránti kérelmet terjeszt elő.
 
@@ -24,6 +30,12 @@ d) a 29. § (1) bekezdés a), illetve e)–f) pontja, vagy (1a) bekezdése alapj
 
 e) kutatás céljából kiadott tartózkodási engedéllyel;
 
+f) szezonális munkavállalási célú tartózkodási engedéllyel,
+
+g) vállalaton belüli áthelyezés célú tartózkodási engedéllyel, vagy
+
+h) hosszú távú mobilitási engedéllyel
+
 rendelkezik.
 
 (3a) A (3) bekezdés c) pontjában meghatározott esetben összevont kérelmezési eljárás keretében a harmadik országbeli állampolgár tartózkodási engedélye akkor hosszabbítható meg, ha a harmadik országbeli állampolgár a tartózkodási engedély meghosszabbítását munkavállalás céljából kérelmezi.
@@ -34,9 +46,9 @@ a) a törvényben meghatározottak szerint szabad mozgás és tartózkodás jog�
 
 b) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, 1996. december 16-i, 96/71/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó harmadik országbeli állampolgárra, aki Magyarország területén kiküldetésben tartózkodik,
 
-c) arra a harmadik országbeli állampolgárra, aki Magyarország területén szezonális munkavállalási vízummal tartózkodik, illetve az Európai Unió más tagállamában szezonális munkát végez,
+c)
 
-d) a vállalaton belül áthelyezett munkavállalóként, au pairként vagy tengerészként Magyarország területén tartózkodni szándékozó, illetve tartózkodó harmadik országbeli állampolgárra,
+d) au pairként vagy tengerészként Magyarország területén tartózkodni szándékozó, illetve tartózkodó harmadik országbeli állampolgárra,
 
 e) arra a harmadik országbeli állampolgárra, aki a menekültügyi hatóságtól menekültkénti elismerését kérte vagy a menekültügyi hatóságtól ideiglenes vagy kiegészítő védelmet kért,
 
@@ -64,7 +76,7 @@ a) foglalkoztatása jogszabályban meghatározott szempontok alapján, valamint 
 
 b) a törvényben meghatározott tartózkodási feltételeket teljesíti.
 
-(8) Ha a tartózkodási engedély összevont engedélyként kerül kiállításra, a tartózkodási engedély érvényességi ideje – a családi együttélés biztosítása céljából kiadott tartózkodási engedély, a kutatás céljából kiadott tartózkodási engedély, az EU Kék Kártya, valamint a 29. § (1) bekezdés a), illetve e)–f) pontja vagy (1a) bekezdése alapján kiadott humanitárius tartózkodási engedély kivételével – legfeljebb a jogszabályban meghatározott szakhatósági állásfoglalásban szereplő időtartamig terjedhet, amely alkalmanként legfeljebb az új eljárásban adott szakhatósági állásfoglalásban szereplő időpontig meghosszabbítható.
+(8) Ha a tartózkodási engedély összevont engedélyként kerül kiállításra, a tartózkodási engedély érvényességi ideje – a családi együttélés biztosítása céljából, a szezonális munkavállalás céljából, vállalaton belüli áthelyezés céljából kiadott tartózkodási engedély, a hosszú távú mobilitási engedély, a kutatás céljából kiadott tartózkodási engedély, az EU Kék Kártya, valamint a 29. § (1) bekezdés a), illetve e)–f) pontja vagy (1a) bekezdése alapján kiadott humanitárius tartózkodási engedély kivételével – legfeljebb a jogszabályban meghatározott szakhatósági állásfoglalásban szereplő időtartamig terjedhet, amely alkalmanként legfeljebb az új eljárásban adott szakhatósági állásfoglalásban szereplő időpontig meghosszabbítható.
 
 (9) A harmadik országbeli állampolgár a meghatározott foglalkoztatóval történő foglalkoztatási jogviszony létesítésére irányuló szándékát köteles az idegenrendészeti hatóságnál bejelenteni, ha
 

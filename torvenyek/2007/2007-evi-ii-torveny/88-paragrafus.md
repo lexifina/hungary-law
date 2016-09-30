@@ -1,6 +1,6 @@
 88. § (1) Az e törvényben szabályozott kérelemre indult eljárásokban kérelme előterjesztésekor az ügyfélnek – a (2) bekezdésben meghatározott kivétellel – az eljáró hatóság előtt személyesen meg kell jelennie. A személyes megjelenési kötelezettség teljesítésétől az eljáró hatóság eltekinthet, ha a kérelmező a megjelenésre egészségi állapota miatt képtelen.
 
-(2) A 29/A. § (1) bekezdésében, a 29/A. § (2) bekezdés b) pontjában, valamint a 29/A. § (3) bekezdés b) pontjában meghatározott esetekben, valamint a harmadik országbeli állampolgárral együtt kérelmező családtag esetén a tartózkodási engedély kiadására és meghosszabbítására irányuló kérelem külön jogszabályban meghatározott foglalkoztató útján is előterjeszthető, ha ehhez az ügyfél írásban hozzájárul.
+(2) A 29/A. § (1) bekezdésében, a 29/A. § (2) bekezdés b) és e) pontjában, valamint a 29/A. § (3) bekezdés b) és g) pontjában meghatározott esetekben, valamint a harmadik országbeli állampolgárral együtt kérelmező családtag esetén a tartózkodási engedély kiadására és meghosszabbítására irányuló kérelem külön jogszabályban meghatározott foglalkoztató vagy fogadó szervezet útján is előterjeszthető, ha ehhez az ügyfél írásban hozzájárul.
 
 (3) A (2) bekezdésben meghatározott esetben az eljáró hatóság az eljárás során a foglalkoztatóval is kapcsolatot tarthat, de minden eljárási cselekményről értesíteni kell az ügyfelet.
 

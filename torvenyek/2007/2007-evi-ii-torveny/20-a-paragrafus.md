@@ -24,7 +24,7 @@ f) az a harmadik országbeli állampolgár, aki az Európai Unió más tagállam
 
 g) az a harmadik országbeli állampolgár, aki a kereskedelem és befektetések terén tevékenykedő természetes személyek egyes kategóriáinak beutazását és tartózkodását megkönnyítő nemzetközi megállapodásban foglalt kötelezettségvállalás alapján utazott be Magyarország területére,
 
-h) az a harmadik országbeli állampolgár, aki Magyarország területén szezonális munkavállalási vízummal tartózkodik, illetve az Európai Unió más tagállamában szezonális munkát végez,
+h) az a harmadik országbeli állampolgár, aki Magyarország területén szezonális munkavállalás céljából kiadott tartózkodási engedéllyel tartózkodik, illetve az Európai Unió más tagállamában szezonális munkát végez,
 
 i) a munkavállalók szolgáltatások nyújtása keretében történő kiküldetéséről szóló, 1996. december 16-i 96/71/EK európai parlamenti és tanácsi irányelv hatálya alá tartozó harmadik országbeli állampolgár, aki Magyarország területén kiküldetésben tartózkodik.
 

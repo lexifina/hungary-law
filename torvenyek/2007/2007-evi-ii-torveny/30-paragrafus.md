@@ -40,9 +40,17 @@ e) az (1) bekezdés k) pontjában foglalt esetben három hónap, amely nem hossz
 
 a) keresőtevékenység folytatására jogosító tartózkodási engedély birtokában jövedelemszerzési vagy munkavállalási célú tartózkodási engedély iránti kérelmet nyújtott be,
 
-b) jövedelemszerzési vagy munkavállalási célú tartózkodási engedély birtokában jövedelemszerzési vagy munkavállalási célú tartózkodási engedély iránti kérelmet nyújtott be, vagy
+b) jövedelemszerzési vagy munkavállalási célú tartózkodási engedély birtokában jövedelemszerzési vagy munkavállalási célú tartózkodási engedély iránti kérelmet nyújtott be,
 
-c) a 29/A. § (2) vagy (3) bekezdése alapján tartózkodási engedély iránti kérelmet nyújtott be.
+c) a 29/A. § (2) vagy (3) bekezdése alapján tartózkodási engedély iránti kérelmet nyújtott be,
+
+d) szezonális munkavállalásra jogosító, kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízuma meghosszabbítása iránti kérelmet nyújtott be szezonális munkavállalás céljából;
+
+e) szezonális munkavállalásra jogosító, kilencven napot meg nem haladó, tervezett tartózkodásra jogosító vízuma birtokában szezonális munkavállalás célú tartózkodási engedély kiadása iránti kérelmet nyújtott be;
+
+f) szezonális munkavállalásra jogosító tartózkodási engedélye meghosszabbítása iránti kérelmet nyújtott be szezonális munkavállalás céljából;
+
+g) az Európai Unió tagállama által vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgár vállalaton belüli áthelyezés céljából tartózkodási engedély (hosszú távú mobilitási engedély) kiadása iránti kérelmet nyújtott be, feltéve, hogy az első tagállam által kiadott tartózkodási engedélye érvényes, és a kérelmét a rövid távú mobilitási időszak lejárta előtt legalább 20 nappal nyújtotta be.
 
 (4) Az ideiglenes tartózkodásra jogosító igazolás nem hosszabbítható meg, illetve azt vissza kell vonni, ha a kiállítására okot adó körülmény már nem áll fenn.
 
