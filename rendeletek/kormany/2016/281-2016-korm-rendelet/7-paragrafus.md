@@ -1,1 +1,3 @@
-## 6. § A Vet. Vhr. az 1. melléklet szerinti 27. számú melléklettel egészül ki.
+## 4–6. §[^6]
+
+[^6]: A 4–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
