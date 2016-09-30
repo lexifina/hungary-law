@@ -1,0 +1,3 @@
+## „(9) Az országos szakképzési grémiumok működtetésével kapcsolatos feladatokat az ENKK kijelölése alapján rotációs rendszerben az egyetemek látják el.
+
+## (10) Az országos szakképzési grémiumok működtetésével kapcsolatos feladatok ellátására – az országos szakképzési grémium kijelölt tagjainak javaslata alapján – az ENKK 5 évre bízza meg a kiválasztott egyetemet. Az ötéves megbízás elteltét követő 15 napon belül az országos szakképzési grémium kijelölt tagjai ismételten javaslatot tesznek az ENKK részére azzal, hogy az az egyetem, amelynek megbízatása megszűnik, a megszűnést követően közvetlenül nem jelölhető ki újra.”
