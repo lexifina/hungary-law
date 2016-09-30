@@ -1,0 +1,3 @@
+## 3. § A Miniszterelnökség a Magyarország Európai Unió melletti Állandó Képviselete működésével összefüggésben felmerülő, az adózás rendjéről szóló 2003. évi XCII. törvény (a továbbiakban: Art.) 16. § (4) bekezdése szerinti, a foglalkoztatottak bejelentésével kapcsolatos kötelezettségét, az Art. 31. § (2) bekezdése szerinti, a személyi juttatásokat terhelő, továbbá azokkal összefüggésben felmerülő, valamint az államháztartásról szóló 2011. évi CXCV. törvény 44. §-a alapján az állami adó- és vámhatóság felé teljesítendő bevallási és befizetési kötelezettséget és a bevallás önellenőrzését technikai adószámon – első alkalommal 2016. október 20-áig – teljesíti.
+
+## 3. Záró rendelkezések

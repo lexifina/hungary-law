@@ -1,0 +1,1 @@
+## 1. Az ”EUROVEGAS” Entertainment & Casino Park Szolgáltató Korlátolt Felelősségű Társaság „felszámolás alatt”, valamint az ”Ipari Terület Bezenye” Ipari és Kereskedelmi Korlátolt Felelősségű Társaság „felszámolás alatt” stratégiailag kiemelt jelentőségű gazdálkodó szervezetté minősítése
