@@ -1,3 +1,3 @@
-1. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^16]
+1. melléklet a 100/2012. (V. 16.) Korm. rendelethez[^26]
 
-[^16]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 27. § a) pontjával megállapított, a 96/2015. (IV. 9.) Korm. rendelet 2. § c) pontja szerint módosított szöveg.
+[^26]: Az 1. melléklet a 294/2016. (IX. 29.) Korm. rendelet 5. §-ával megállapított szöveg.
