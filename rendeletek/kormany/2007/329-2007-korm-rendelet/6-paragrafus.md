@@ -96,9 +96,11 @@ k)[^42] a határrend fenntartásával, a határrend-sértések és határesemén
 
 l)[^43] lefolytatja a fegyveres biztonsági őrség létrehozásával, megszüntetésével, valamint a fegyveres biztonsági őrzés elrendelésével kapcsolatos közigazgatási hatósági eljárásokat,
 
-m)[^44] engedélyezi a fegyveres biztonsági őrség lőfegyverrel, lőszerrel és más kényszerítő eszközzel való ellátását.
+m)[^44] engedélyezi a fegyveres biztonsági őrség lőfegyverrel, lőszerrel és más kényszerítő eszközzel való ellátását,
 
-(4)[^45] Az ORFK középirányító szervként – az Rtv.-ben foglalt irányítási feladatok mellett –
+n)[^45] fogadja azon magyarországi székhellyel, fiókteleppel rendelkező gazdasági szereplő gyanús tranzakciók jelentésére vonatkozó bejelentését, amely korlátozott robbanóanyag-prekurzorokat bocsát Magyarországon lakossági személyek rendelkezésére.
+
+(4)[^46] Az ORFK középirányító szervként – az Rtv.-ben foglalt irányítási feladatok mellett –
 
 a) gyakorolja a rendőr-főkapitányságok gazdasági vezetője tekintetében a kinevezés, felmentés, megbízás vagy megbízás visszavonásának jogkörét,
 
@@ -140,4 +142,5 @@ e) rendőr-főkapitányságokat jelentéstételre vagy beszámolóra kötelezhet
 [^42]: A 6. § (3) bekezdés j) pontja a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 4. pontja szerint módosított szöveg. E módosító rendelet 45. § (1) bekezdése alapján a rendelkezést a 2009. március 1-jét követően indult eljárásokban kell alkalmazni. A 6. § (3) bekezdés eredeti j) pontjának megjelölését a 30/2009. (II. 19.) Korm. rendelet 1. § (4) bekezdése k) pontra változtatta.
 [^43]: A 6. § (3) bekezdés l) pontját a 30/2009. (II. 19.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 247/2009. (XI. 10.) Korm. rendelet 25. § (5) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^44]: A 6. § (3) bekezdés m) pontját a 247/2009. (XI. 10.) Korm. rendelet 25. § (5) bekezdése iktatta be, e módosító rendelet 37. § (1) bekezdése alapján a 2009. november 13-át követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^45]: A 6. § (4) bekezdését a 352/2014. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^45]: A 6. § (3) bekezdés n) pontját a 275/2016. (IX. 15.) Korm. rendelet 1. §-a iktatta be.
+[^46]: A 6. § (4) bekezdését a 352/2014. (XII. 29.) Korm. rendelet 2. § (2) bekezdése iktatta be.
