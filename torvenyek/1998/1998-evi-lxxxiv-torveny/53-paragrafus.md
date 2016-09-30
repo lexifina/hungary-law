@@ -8,4 +8,8 @@ b) az Európai Parlament és a Tanács 2004/38/EK irányelve (2004. április 29.
 
 c) a Tanács 2009/50/EK irányelve (2009. május 25.) a harmadik országbeli állampolgárok magas szintű képzettséget igénylő munkavállalás céljából való belépésének és tartózkodásának feltételeiről, 14. cikk (1) bekezdés e) pont,
 
-d) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv, 12. cikk (1) bekezdés e) pont, valamint 12. cikk (2) bekezdés b) pont.
+d) a harmadik országbeli állampolgárok valamely tagállam területén való tartózkodására és munkavállalására vonatkozó összevont engedélyre irányuló összevont kérelmezési eljárásról, valamint a harmadik országból származó, valamely tagállam területén jogszerűen tartózkodó munkavállalók közös jogairól szóló, 2011. december 13-i, 2011/98/EU európai parlamenti és tanácsi irányelv, 12. cikk (1) bekezdés e) pont, valamint 12. cikk (2) bekezdés b) pont,
+
+e) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló 2014. február 26-ai 2014/36/EU európai parlamenti és tanácsi irányelv,
+
+f) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló 2014. május 15-ei 2014/66/EU európai parlamenti és tanácsi irányelv.

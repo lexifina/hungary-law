@@ -12,4 +12,4 @@ d) – az anyasági támogatás (IV. fejezet) kivételével – a szociális biz
 
 e) – az anyasági támogatás (IV. fejezet) kivételével – a magas szintű képzettséget igénylő munkavállalás és tartózkodás céljából kiállított engedéllyel (EU Kék Kártyával) rendelkező és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező harmadik országbeli állampolgárra,
 
-f) összevont engedéllyel rendelkező harmadik országbeli állampolgárra, feltéve, hogy a munkavállalást számára hat hónapot meghaladó időtartamra engedélyezték.
+f) összevont engedéllyel rendelkező harmadik országbeli állampolgárra, feltéve, hogy a munkavállalást számára hat hónapot meghaladó időtartamra, de a vállalaton belül áthelyezett személy esetén legalább kilenc hónapra engedélyezték.
