@@ -1,3 +1,7 @@
 53. § (1)–(2)
 
-(3)
+(3) A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény 45. § (8b) és (8c) bekezdése helyébe a következő rendelkezések lépnek:
+
+„(8b) Az Európai Unió valamely tagállama által kiállított EU Kék Kártyával vagy vállalaton belüli áthelyezés céljából kiadott tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárt és családtagját azon tagállamba kell kiutasítani, amely az EU Kék Kártyát vagy a vállalaton belüli áthelyezés célú, illetve családi együttélés biztosítása célú tartózkodási engedélyt kiadta, még abban az esetben is, ha az EU Kék Kártya vagy a vállalaton belüli áthelyezés, vagy családi együttélés biztosítása célú tartózkodási engedély érvényességi ideje a magyarországi tartózkodás alatt lejárt.
+
+(8c) Amennyiben az EU Kék Kártyával vagy vállalaton belüli áthelyezés célú tartózkodási engedéllyel rendelkező harmadik országbeli állampolgárt vagy családtagját az Európai Unió valamely tagállama kiutasítja, abban az esetben is lehetővé kell tenni a visszatérését Magyarország területére, ha az EU Kék Kártya vagy a vállalaton belüli áthelyezés célú vagy a családi együttélés biztosítása céljából kiadott tartózkodási engedély érvényességi ideje lejárt. A visszafogadást követően a harmadik országbeli állampolgárra, valamint a családtagjára a 18. § (1) bekezdésben, az (1b) bekezdésben, illetve (1f)–(1i) bekezdésében foglalt rendelkezéseket kell alkalmazni.”
