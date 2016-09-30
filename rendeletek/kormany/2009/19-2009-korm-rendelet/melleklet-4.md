@@ -634,14 +634,6 @@ Függelék
 
 1. A társaság szervezeti felépítése.
 
-2. Jogszabályok, szabványok, belső utasítások.
-
-3. Az érdek-képviseleti szervezetek felsorolása.
-
-1.5.[^586] A földgázkereskedő üzletszabályzatának tartalmi elemei
-
-1. Az üzletszabályzat hatálya és érvényességi köre, fogalom meghatározások, az engedélyesre vonatkozó adatok.
-
 [^574]: A Vhr. 4. számú melléklet „A benyújtandó üzletszabályzatok formátumára vonatkozó előírások” címet követő szövegrész a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
 [^575]: A Vhr. 4. számú melléklet 1.1. pont címe a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése szerint módosított szöveg.
 [^576]: A Vhr. 4. számú melléklet 1.1. pont 6. pont a) alpontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése szerint módosított szöveg.
@@ -654,4 +646,3 @@ Függelék
 [^583]: A Vhr. 4. számú melléklet 1.2. pont 14. alpontját a 300/2013. (VII. 29.) Korm. rendelet 18. §-a iktatta be.
 [^584]: A Vhr. 4. számú melléklet 1.4. pont 6. pont d) pont dg) alpontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
 [^585]: A Vhr. 4. számú melléklet 1.4. pont 6. pont g) alpontját a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdése haátlyon kívül helyezte.
-[^586]: A Vhr. 4. számú melléklet 1.5. pontja a 378/2011. (XII. 31.) Korm. rendelet 78. § (3) bekezdésével megállapított szöveg.
