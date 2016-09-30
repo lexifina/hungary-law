@@ -34,7 +34,7 @@
 
 | 16. | Pesti alsó rakpart közterületi megújítása, gyalogos-kerékpáros útvonal kiépítése | Budapest V. kerület 23809/4, Budapest V. kerület 24897/2, Budapest V. kerület 24897/3, Budapest V. kerület 25122/5, Budapest XIII. kerület 23805/2, Budapest XIII. kerület 23806/1, Budapest XIII. kerület 25122/2, Budapest XIII. kerület 25122/5, Budapest XIII. kerület 25122/7, Budapest XIII. kerület 25122/8, Budapest XIII. kerület 25123/1, Budapest XIII. kerület 25123/10, Budapest XIII. kerület 25123/11, Budapest XIII. kerület 25123/12, Budapest XIII. kerület 25123/4, Budapest XIII. kerület 25123/5, Budapest XIII. kerület 25123/8, Budapest XIII. kerület 25123/9, Budapest XIII. kerület 25598/1, Budapest XIII. kerület 25723/2, Budapest XIII. kerület 25666/2, Budapest XIII. kerület 25666/4, Budapest XIII. kerület 25666/9, Budapest XIII. kerület 25666/12, Budapest XIII. kerület 25666/3, Budapest V. kerület 25794, Budapest XIII. kerület 25812/1, Budapest XIII. kerület 25812/2, Budapest XIII. kerület 25831, Budapest XIII. kerület 25833, Budapest XIII. kerület 25830/1 | Budapest Főváros Önkormányzata |
 
-| 17. | Margitsziget – FINA MARKET II. – beléptetés – biztonságtechnika | Margitsziget 23800/1, Margitsziget 23800/2, Margitsziget 23800/3, Margitsziget 23800/4, Margitsziget 23800/5, Margitsziget 23800/6, Margitsziget 23800/7, Margitsziget 23800/8 | Budapest Főváros Önkormányzata |
+| 17. | Margitsziget – FINA MARKET II. – beléptetés – biztonságtechnika | Margitsziget 23800/1, Margitsziget 23800/2, Margitsziget 23800/3, Margitsziget 23800/4, Margitsziget 23800/5, Margitsziget 23800/6, Margitsziget 23800/7, Margitsziget 23800/8 | Bp2017 Világbajnokság Szervező és Lebonyolító Nonprofit Kft. |
 
 | 18. | Margitsziget rekonstrukciója | Margitsziget 23800/1, Margitsziget 23800/2, Margitsziget 23800/3, Margitsziget 23800/4, Margitsziget 23800/5, Margitsziget 23800/6, Margitsziget 23800/7, Margitsziget 23800/8 | Budapest Főváros Önkormányzata |
 
@@ -42,7 +42,7 @@
 
 | 20. | Balatonfűzfő Balaton Uszoda | Balatonfűzfő 1488/2, 1498/3 | BMSK Sport Közhasznú Nonprofit Korlátolt Felelősségű Társaság |
 
-| 21. | Balatonfüredi lelátók, egyéb kiszolgáló létesítmények, minimálisan szükséges közlekedésfejlesztés | Balatonfüred 84, 85/1, 85/2, 86, 96/1, 96/2, 116, 117/3, 118/2, 118/4, 376/1, 376/2, 377, 847/5, 0200/21 | Balatonfüred Város Önkormányzata |
+| 21. | Balatonfüredi lelátók, egyéb kiszolgáló létesítmények, minimálisan szükséges közlekedésfejlesztés | Balatonfüred 84, 85/1, 85/2, 86, 95/8, 116, 117/3, 118/4, 376/1, 376/2, 377, 847/5, 0200/21 | Balatonfüred Város Önkormányzata |
 
 | 22. | Balatonfüredi parkolóház és mélygarázs megközelítéséhez szükséges közúti kapcsolat kialakítása | Balatonfüred 107, 118/2, 118/4, 118/5, 118/7, 846/1, 847/5, 847/8, 849/4 | Nemzeti Infrastruktúrafejlesztő Zártkörűen Működő Részvénytársaság |
 
@@ -55,6 +55,8 @@
 | 26. | Róbert Károly krt. egyes szakaszainak felújítása | Budapest XIII. kerület 23806/1, 25714/41, 25714/40, 27404, 25808/2, 25830/1, 25944, 27404, 27816/1, 27947/18, 27950/1, 27950/2, 27950/17, 27951, 27955, 27960, 27972, 28000, 28021/2, 28023/17; Budapest XIV. kerület 27816/2, 28023/18 | Budapest Főváros Önkormányzata |
 
 | 27. | Palatinus Strandfürdő rekonstrukciója | Budapest XIII. kerület 23800/4 | Budapest Gyógyfürdői és Hévizei Zártkörűen Működő Részvénytársaság |
+
+| 28. | Balatonfüredi parkoló fejlesztés | Balatonfüred 88, 89, 95/2, 95/3, 95/4, 95/7, 95/8, 107, 116, 117/2, 117/3, 117/4, 118/4, 121, 122, 847/5, 847/8, 849/4 | Balatonfüred Város Önkormányzata |
 
 2. melléklet a 451/2015. (XII. 28.) Korm. rendelethez
 
