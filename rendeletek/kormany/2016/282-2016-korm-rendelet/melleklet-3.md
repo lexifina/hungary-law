@@ -5735,3 +5735,51 @@ A Magyar Honvédség számára olyan katonai vezetők (főtisztek) képzése, ak
 – a szakterület információs és média ismereteit;
 
 – interkulturális ismeretek körében más kultúrkörök társadalmi, vallási, ideológiai felépítését, gondolkodásmódját;
+
+– a globális társadalmi és gazdasági folyamatokat;
+
+– az összhaderőnemi műveletek elméleti és gyakorlati problémáit tudományos igényű elemzések és megoldási alternatívák kidolgozásának módszereit;
+
+– az összhaderőnemi műveletekben részt vevő magasabb-egységek, hadműveleti magasabb-egységek tevékenységének tervezési, szervezési és irányítási kérdéseit;
+
+– a különböző szintű harcászati szimulációs rendszerek működési feltételeit, valamint az alárendeltek tevékenységének a begyakorláshoz szükséges előkészítési, tervezési, eljárási módszereket;
+
+– az összhaderőnemi műveletek, illetve saját tevékenységük joganyagát;
+
+– a vezetett részleg (törzs) munkájának, tevékenységének, működési problémáinak tudományos igényű elemzési módszereit, a vezetett szervezet munkarendjének korszerűsítésére, új munkamódszerek, eljárások kidolgozására vonatkozó lehetőségeket;
+
+– a nemzetközi szervezetek (NATO, Európai Unió, ENSZ, EBESZ) döntéshozatali, döntés-előkészítési folyamatait, a katonadiplomácia alapvető rendszerét.
+
+8.2. A mesterképzési szakon végzettek alkalmasak:
+
+– széleskörű általános műveltség és társadalomtudományi ismeretek alapján eligazodásra a nemzetközi, a társadalmi és politikai eseményekben és jelenségekben;
+
+– a honvédség, illetve saját tevékenységük törvényi és jogi alapjainak átfogó megértésére;
+
+– a vezetéselméleti ismeretek és kreatív technika alkalmazására;
+
+– vezetői ismereteik, jártasságuk, valamint szakmai tudásuk birtokában a rájuk bízott szervezet tevékenységeinek megtervezésére, megszervezésére és folyamatos vezetésére, a szervezet tevékenységében való hatékony részvételre;
+
+– konkrét helyzetben a helyi célok és teendők körültekintő meghatározására, a végrehajtás feltételei biztosításának figyelembevételével;
+
+– küldetésorientált vezetés megvalósítására;
+
+– az alárendeltek tevékenységeinek, feladatainak megalapozott, előrelátó és a gyakorlatban végrehajtható meghatározására, a végrehajtás koordinálására, célirányos ellenőrzésére;
+
+– a megszerzett korszerű hadműveletei-harcászati ismeretek birtokában a kialakult helyzet elemzésére, döntések előkészítésére és meghozatalára;
+
+– katonai feladatok végrehajtása érdekében érdemi együttműködés megvalósítására a fegyveres testületek, a polgári szervek vezetőivel (képviselőivel);
+
+– technikai ismereteik alapján a haditechnikai eszközök korszerűségének, harcászati alkalmazásuk lehetőségeinek, korlátainak megítélésére;
+
+– a hivatásos tiszt számára előírt fizikai edzettség és állóképesség követelményeinek folyamatos teljesítésére;
+
+– nemzetközi műveletek, illetve harctéri körülmények között az együttműködésre, annak tervezésére, megszervezésére és fenntartására a napi munka során;
+
+– összfegyvernemi, (össz)haderőnemi műveleti gyakorlatok tervezésére, levezetésére;
+
+– hadműveleti művészet alapvetéseinek gyakorlatban történő alkalmazására;
+
+– megszerzett korszerű hadműveleti, harcászati ismereteik birtokában a kialakult helyzet elemzésére, a harcászati hadműveleti döntések előkészítésére, meghozatalára összhaderőnemi háborús és nem háborús katonai műveletek során;
+
+– törzstájékoztatók, eligazítások anyagainak elkészítésére, azok irányítására, levezetésére, a tervező-kidolgozó munka irányítására;

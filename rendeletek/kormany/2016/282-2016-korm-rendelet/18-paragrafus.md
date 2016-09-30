@@ -1,1 +1,0 @@
-## 17. § A nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény egyes rendelkezéseinek végrehajtásáról szóló 87/2015. (IV. 9.) Korm. rendelet 21. § (6) bekezdésében az „A közigazgatási, rendészeti és katonai” szövegrész helyébe az „Az államtudományi” szöveg, 10. mellékletében a „közigazgatási, rendészeti és katonai” szövegrész helyébe az „államtudományi” szöveg lép.
