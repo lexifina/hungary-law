@@ -1,4 +1,4 @@
-3. melléklet a 14/2016. (V. 10.) BM rendelethez
+3. melléklet a 14/2016. (V. 10.) BM rendelethez[^11]
 
 ## A Terrorelhárítási Központ hivatásos állományára vonatkozó ruházati ellátási normák
 
@@ -272,6 +272,20 @@ bg) P6: Polgári ruhás alapellátási norma az Operatív Technikai-Informatikai
 
 | 5 | Rövidnadrág női/férfi | db | 1 |
 
+2.7. Az Operatív Technikai-Informatikai Igazgatóság állományának speciális szolgálati egyenruházata
+
+|  | A | B | C |
+
+| 1. | termék megnevezése | menny. egység | mennyiség |
+
+| 2. | 5.11-es nadrág Stryke Pants* | db | 1 |
+
+| 3. | Phike póló Performance Short Sleeve* | db | 1 |
+
+a) Megjegyzés:
+
+* ha a termék rendszeresítésére sor kerül
+
 3. Az E, P1, P2, P3, P4, P5, P6 normába sorolt állomány részére – alegységkészletként – az alábbi termékeket kell biztosítani:
 
 |  | A | B | C |
@@ -285,3 +299,5 @@ bg) P6: Polgári ruhás alapellátási norma az Operatív Technikai-Informatikai
 | 3 | Fekete málhazsák/TEK | db |  |  |  | 15 |  |  |  |
 
 | 4 | Öltönyzsák | db |  |  |  | 10 |  |  |  |
+
+[^11]: A 3. melléklet a 38/2016. (IX. 29.) BM rendelet 10. § (2) bekezdése szerint módosított szöveg.
