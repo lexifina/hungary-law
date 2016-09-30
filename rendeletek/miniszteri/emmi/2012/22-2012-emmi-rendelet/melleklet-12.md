@@ -28,7 +28,9 @@
 
 | 13. | Orvosi rehabilitáció (pulmonológia területen) | fizikális medicina és rehabilitációs orvoslás, tüdőgyógyászat |
 
-12. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^28]
+| 14. | Gyermek radiológia | Csecsemő- és gyermekgyógyászat, radiológia |
+
+12. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^29]
 
 Egyes képesítések megfeleltethetősége
 
@@ -48,6 +50,14 @@ Egyes képesítések megfeleltethetősége
 
 | 7. | Pszichoterápia | Pszichoterápia |
 
-| 8. | Rehabilitáció | Orvosi rehabilitáció |
+| 8. | Rehabilitáció | Rehabilitációs medicina |
 
-[^28]: A 12. mellékletet a 34/2015. (VI 30.) EMMI rendelet 25. § (2) bekezdés a) pontja iktatta be.
+| 9. | Mozgásszervi rehabilitáció | Rehabilitációs medicina |
+
+| 10. | Orvosi rehabilitáció (rehabilitációs szakterület megnevezésével) | Rehabilitációs medicina |
+
+| 11. | E rendelet szerint megszerezett orvosi rehabilitáció (mozgásszervi) képesítés | Rehabilitációs medicina |
+
+| 12. | E rendelet szerint megszerezett Fizikális medicina és rehabilitációs orvoslás képesítés | Rehabilitációs medicina |
+
+[^29]: A 12. mellékletet a 34/2015. (VI 30.) EMMI rendelet 25. § (2) bekezdés a) pontja iktatta be, szövege a 28/2016. (IX. 29.) EMMI rendelet 12. § (4) bekezdése szerint módosított szöveg.

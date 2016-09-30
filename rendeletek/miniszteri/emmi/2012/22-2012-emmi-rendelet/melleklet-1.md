@@ -1,6 +1,6 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^21]
+1. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^22]
 
 1. Szakorvosi alap szakképesítések
 
@@ -20,7 +20,7 @@
 
 | 7. | 6. Érsebészet | 72 hó | 24 hó | 48 hó |
 
-| 8. | 7. Fizikális medicina és rehabilitációs orvoslás | 60 hó | 24 hó | 36 hó |
+| 8. | 7. Rehabilitációs medicina | 60 hó | 24 hó | 36 hó |
 
 | 9. | 8. Foglalkozás-orvostan | 48 hó | 24 hó | 24 hó |
 
@@ -180,9 +180,9 @@
 
 | 39. | Nőgyógyászati daganatsebészet | szülészet-nőgyógyászat | (60) + 36 hó |
 
-| 40. | Orvosi rehabilitáció | Mozgásszervi területen: bármely alap szakképesítés | (36-72) + 24 hó |
+| 40. |  |  |  |
 
-| 41. | Kardiológia területen: kardiológia | (60) + 25 hó |
+| 41. | Orvosi rehabilitáció | Kardiológia területen: kardiológia | (60) + 25 hó |
 
 | 42. | Gyermekgyógyászat területen: csecsemő- és gyermekgyógyászat | (60) + 25 hó |
 
@@ -326,4 +326,4 @@
 
 | 7. | 2.1. Molekuláris biológiai diagnosztika | klinikai mikrobiológia, klinikai biokémia | 24 hó |
 
-[^21]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^22]: Az 1. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (1) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (1) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § a) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés a) pontja, a 28/2016. (IX. 29.) EMMI rendelet 12. § (1) bekezdése szerint módosított szöveg.

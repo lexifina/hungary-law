@@ -280,7 +280,7 @@
 
 ## Meghatározott számú és típusú beavatkozás teljesítése.
 
-## 7. FIZIKÁLIS MEDICINA ÉS REHABILITÁCIÓS ORVOSLÁS
+## 7. REHABILITÁCIÓS ORVOSLÁS
 
 ## 1. Képzési idő: 60 hónap
 
@@ -2188,6 +2188,6 @@
 
 ## Szakvizsga-felkészítő program sikeres teljesítése (évente 5x3 nap elméleti és gyakorlati képzés a teljes urológiai tananyagot felölelően, forgó rendszerben).
 
-3. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^23]
+3. melléklet a 22/2012. (IX. 14.) EMMI rendelethez[^24]
 
-[^23]: A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (3) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (3) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § b) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^24]: A 3. melléklet a 2/2013. (I. 2.) EMMI rendelet 36. § (3) bekezdése, a 69/2013. (XI. 19.) EMMI rendelet 12. § (3) bekezdése, a 14/2014. (III. 10.) EMMI rendelet 24. § b) pontja, a 34/2015. (VI 30.) EMMI rendelet 25. § (1) bekezdés c) pontja szerint módosított szöveg.

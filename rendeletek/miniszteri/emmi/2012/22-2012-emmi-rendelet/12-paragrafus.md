@@ -28,9 +28,9 @@ b) más szakképzés teljesítéséhez szükséges gyakorlati idő a ráépítet
 
 (11) A (2) bekezdés és az (5)–(7) bekezdés szerinti döntés ellen a jelölt jogorvoslattal élhet. A jogorvoslati kérelmet az egyetem rektorához kell benyújtani a döntés kézhezvételétől számított 15 napon belül.
 
-(12)[^16] A szakképzés megkezdése előtt magyarországi egészségügyi szolgáltatónál teljesített gyakorlati idő a szakképzésbe beszámítható. A külföldön töltött gyakorlati idő beszámításánál a (6) és a (7) bekezdésben foglaltakat kell alkalmazni.
+(12)[^16] A szakképzés megkezdése előtt magyarországi egészségügyi szolgáltatónál teljesített gyakorlati idő a szakképzésbe beszámítható. A szakképzés megkezdése előtt teljesített gyakorlati idő beszámításánál a (6) és a (7) bekezdésben foglaltakat kell alkalmazni.
 
 [^13]: A 12. § (5) bekezdése a 34/2015. (VI 30.) EMMI rendelet 26. §-a szerint módosított szöveg.
 [^14]: A 12. § (8) bekezdése a 34/2015. (VI 30.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
 [^15]: A 12. § (9) bekezdése a 34/2015. (VI 30.) EMMI rendelet 22. § (1) bekezdésével megállapított szöveg.
-[^16]: A 12. § (12) bekezdését a 34/2015. (VI 30.) EMMI rendelet 22. § (2) bekezdése iktatta be.
+[^16]: A 12. § (12) bekezdését a 34/2015. (VI 30.) EMMI rendelet 22. § (2) bekezdése iktatta be, szövege a 28/2016. (IX. 29.) EMMI rendelet 13. §-a szerint módosított szöveg.
