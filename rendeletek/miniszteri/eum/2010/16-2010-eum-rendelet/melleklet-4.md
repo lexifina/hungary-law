@@ -1,107 +1,105 @@
-4. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^91]
+4. melléklet a 16/2010. (IV. 15.) EüM rendelethez[^94]
 
 A támogatott szakképzés szakképzési grémiumai
 
-|  | A | B | C |
+|  | A | B |
 
-| 1. | Grémium | Szakképesítés | Legkisebb létszám egyetemenként |
+| 1. | Grémium | Minimum létszám - elnökön felül - egyetemenként |
 
-| 2. | Alapellátás | foglalkozás-orvostan | 5 |
+| 2. | Aneszteziológia és intenzív terápia | 2 |
 
-| 3. | háziorvostan |
+| 3. | Arc-, állcsont- és szájsebészet | 2 |
 
-| 4. | Aneszteziológia | aneszteziológia és intenzív terápia | 5 |
+| 4. | Belgyógyászat | 2 |
 
-| 5. | Belgyógyászat | belgyógyászat | 9 |
+| 5. | Bőrgyógyászat | 2 |
 
-| 6. | gasztroenterológia |
+| 6. | Csecsemő- és gyermekgyógyászat | 2 |
 
-| 7. | geriátria |
+| 7. | Érsebészet | 2 |
 
-| 8. | hematológia |
+| 8. | Rehabilitációs medicina | 2 |
 
-| 9. | infektológia |
+| 9. | Foglalkozás-orvostan | 2 |
 
-| 10. | kardiológia |
+| 10. | Fül-orr-gégegyógyászat | 2 |
 
-| 11. | klinikai onkológia |
+| 11. | Gasztroenterológia | 2 |
 
-| 12. | nefrológia |
+| 12. | Geriátria | 2 |
 
-| 13. | Bőrgyógyászat | bőrgyógyászat | 3 |
+| 13. | Gyermek- és ifjúságpszichiátria | 2 |
 
-| 14. | Fül-orr-gégegyógyászat | fül-orr-gégegyógyászat | 3 |
+| 14. | Gyermeksebészet | 2 |
 
-| 15. | Gyermekgyógyászat | csecsemő- és gyermekgyógyászat | 7 |
+| 15. | Háziorvostan | 2 |
 
-| 16. | gyermeksebészet |
+| 16. | Hematológia | 2 |
 
-| 17. | Honvédorvostan | honvéd-, katasztrófa- és rendvédelem orvostan | 3* |
+| 17. | Honvéd-, katasztrófa- és rendvédelem orvostan | országos |
 
-| 18. | repülőorvostan |
+| 18. | Idegsebészet | 2 |
 
-| 19. | Laboratóriumi diagnosztika | klinikai genetika | 3 |
+| 19. | Igazságügyi orvostan | 2 |
 
-| 20. | orvosi laboratóriumi diagnosztika |
+| 20. | Infektológia | 2 |
 
-| 21. | orvosi mikrobiológia |
+| 21. | Kardiológia | 2 |
 
-| 22. | transzfuziológia |
+| 22. | Klinikai genetika | 2 |
 
-| 23. | Népegészségügy | megelőző orvostan és népegészségtan | 3 |
+| 23. | Klinikai onkológia | 2 |
 
-| 24. | Neurológia | neurológia | 3 |
+| 24. | Megelőző orvostan és népegészségtan | 2 |
 
-| 25. | Patológia és igazságügyi orvostan | igazságügyi orvostan | 3 |
+| 25. | Mellkassebészet | 2 |
 
-| 26. | patológia |
+| 26. | Nefrológia | 2 |
 
-| 27. | Plasztikai és égés-sebészet | plasztikai és égés-sebészet | 3* |
+| 27. | Neurológia | 2 |
 
-| 28. | Pszichiátria | gyermek- és ifjúságpszichiátria | 3 |
+| 28. | Nukleáris medicina | 2 |
 
-| 29. | pszichiátria |
+| 29. | Ortopédia és traumatológia | 2 |
 
-| 30. | Radiológia | nukleáris medicina | 3 |
+| 30. | Orvosi laboratóriumi diagnosztika | 2 |
 
-| 31. | radiológia |
+| 31. | Orvosi mikrobiológia | 2 |
 
-| 32. | sugárterápia |
+| 32. | Oxyológia és sürgősségi orvostan | 2 |
 
-| 33. | Reumatológia | fizikális medicina és rehabilitációs orvoslás | 3 |
+| 33. | Patológia | 2 |
 
-| 34. | reumatológia |
+| 34. | Plasztikai és égés-sebészet | országos |
 
-| 35. | Sebészet | arc-, állcsont- és szájsebészet | 9 |
+| 35. | Pszichiátria | 2 |
 
-| 36. | érsebészet |
+| 36. | Radiológia | 2 |
 
-| 37. | idegsebészet |
+| 37. | Repülőorvostan | országos |
 
-| 38. | mellkassebészet |
+| 38. | Reumatológia | 2 |
 
-| 39. | ortopédia és traumatológia |
+| 39. | Sebészet | 2 |
 
-| 40. | sebészet |
+| 40. | Sugárterápia | 2 |
 
-| 41. | szívsebészet |
+| 41. | Szemészet | 2 |
 
-| 42. | Sürgősség | oxyológia és sürgősségi orvostan | 3 |
+| 42. | Szívsebészet | 2 |
 
-| 43. | Szakfogorvos | valamennyi szakfogorvosi szakképesítés | 5 |
+| 43. | Szülészet-nőgyógyászat | 2 |
 
-| 44. | Szakgyógyszerész | valamennyi szakgyógyszerészi szakképesítés | 5 |
+| 44. | Transzfuziológia | 2 |
 
-| 45. | Szakpszichológus | valamennyi szakpszichológusi szakképesítés | 3 |
+| 45. | Tüdőgyógyászat | 2 |
 
-| 46. | Szemészet | szemészet | 3 |
+| 46. | Urológia | 2 |
 
-| 47. | Szülészet-nőgyógyászat | szülészet-nőgyógyászat | 3 |
+| 47. | Szakfogorvos | 2 |
 
-| 48. | Tüdőgyógyászat | tüdőgyógyászat | 3 |
+| 48. | Szakgyógyszerész | 2 |
 
-| 49. | Urológia | urológia | 3 |
+| 49. | Szakpszichológus | 2 |
 
-* A honvédorvostan és a plasztikai és égés-sebészet szakképzési grémium esetében a táblázat az országos grémium létszámát tartalmazza.
-
-[^91]: A 4. mellékletet a 34/2015. (VI. 30.) EMMI rendelet 17. §-a iktatta be.
+[^94]: A 4. mellékletet a 34/2015. (VI. 30.) EMMI rendelet 17. §-a iktatta be, szövege a 28/2016. (IX. 29.) EMMI rendelet 6. §-ával megállapított szöveg.

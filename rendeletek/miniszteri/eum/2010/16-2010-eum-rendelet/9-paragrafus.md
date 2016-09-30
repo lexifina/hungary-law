@@ -2,7 +2,7 @@
 
 9. §[^38] (1) Az egyetemen belül a szakképzés szakmai irányítását a szakképzési grémium látja el.
 
-(2) A szakképzés vonatkozásában a szakképzési grémiumok felsorolását, az egyes szakképzési grémiumokhoz tartozó alap szakképesítéseket, valamint az egyes szakképzési grémiumok legkisebb létszámát a 4. melléklet tartalmazza.
+(2)[^39] A szakképzés vonatkozásában a szakképzési grémiumok felsorolását, az egyes szakképzési grémiumokhoz tartozó alap szakképesítéseket, valamint az egyes szakképzési grémiumok legkisebb létszámát a 4. melléklet tartalmazza. A ráépített szakképzések esetében önálló szakképzési grémium létrehozásáról, vagy az adott szakképesítéshez tartozó feladatoknak valamely alapszakképesítéshez történő rendeléséről az egyetemek a helyi képzési adottságoknak megfelelően jogosultak dönteni.
 
 (3) A házi gyermekorvosi tevékenység végzése céljából csecsemő- és gyermekgyógyászat szakképzésben részt vevő jelöltek esetében a gyermekgyógyászati szakképzési grémium az illetékes.
 
@@ -42,5 +42,12 @@ d) képviseleti jogosultsága, jogviszonya, tagsága megszűnik az általa képv
 
 (8) Az országos szakképzési grémium elnöke az egészségügyi szakmai kollégium képviselője.
 
+(9)[^40] Az országos szakképzési grémiumok működtetésével kapcsolatos feladatokat az ENKK kijelölése alapján rotációs rendszerben az egyetemek látják el.
+
+(10)[^41] Az országos szakképzési grémiumok működtetésével kapcsolatos feladatok ellátására – az országos szakképzési grémium kijelölt tagjainak javaslata alapján – az ENKK 5 évre bízza meg a kiválasztott egyetemet. Az ötéves megbízás elteltét követő 15 napon belül az országos szakképzési grémium kijelölt tagjai ismételten javaslatot tesznek az ENKK részére azzal, hogy az az egyetem, amelynek megbízatása megszűnik, a megszűnést követően közvetlenül nem jelölhető ki újra.
+
 [^37]: A 6/B. alcímet a 34/2015. (VI. 30.) EMMI rendelet 11. §-a iktatta be.
 [^38]: A 9. §-t a 14/2014. (III. 10.) EMMI rendelet 12. § b) pontja hatályon kívül helyezte, újonnan a 34/2015. (VI. 30.) EMMI rendelet 11. §-a iktatta be.
+[^39]: A 9. § (2) bekezdése a 28/2016. (IX. 29.) EMMI rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^40]: A 9. § (9) bekezdését a 28/2016. (IX. 29.) EMMI rendelet 4. § (2) bekezdése iktatta be.
+[^41]: A 9. § (10) bekezdését a 28/2016. (IX. 29.) EMMI rendelet 4. § (2) bekezdése iktatta be.

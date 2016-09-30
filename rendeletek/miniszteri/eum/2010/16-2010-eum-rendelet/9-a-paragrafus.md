@@ -1,4 +1,4 @@
-9/A. §[^39] (1) A szakképzési grémium feladata a 4. melléklet szerint hozzá tartozó szakképesítések tekintetében:
+9/A. §[^42] (1) A szakképzési grémium feladata a 4. melléklet szerint hozzá tartozó szakképesítések tekintetében:
 
 a) az ENKK felkérése alapján a szakképző hellyé minősítés eljárásában szakértőként történő közreműködés,
 
@@ -18,4 +18,4 @@ f) folyamatos kapcsolattartás a képzőhelyekkel és a jelöltek mellé kijelö
 
 (4) Ha az egyetem a beszámolót a (3) bekezdés szerinti határidőig nem küldi meg, annak pótlásáig a Kr. 12. § (1) bekezdés b) pont ba) alpontja szerinti támogatás folyósítása szünetel.
 
-[^39]: A 9/A. §-t újonnan a 34/2015. (VI. 30.) EMMI rendelet 11. §-a iktatta be.
+[^42]: A 9/A. §-t újonnan a 34/2015. (VI. 30.) EMMI rendelet 11. §-a iktatta be.
