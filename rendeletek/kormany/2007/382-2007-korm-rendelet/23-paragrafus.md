@@ -28,9 +28,9 @@ c) közös tulajdonban álló ingatlanon történő építési tevékenység vé
 
 d) társasházi tulajdon esetében az erről szóló külön jogszabályban meghatározottak szerint.
 
-(2a)[^48] A termelői engedélyesnek vagy az építtetőnek az erőmű építési engedélyezési eljárása során az építési engedély iránti kéreleméhez csatolni kell a villamosművek, valamint a termelői, magán- és közvetlen vezetékek biztonsági övezetéről szóló miniszteri rendeletben megállapított biztonsági övezetben korlátozni kívánt idegen ingatlan tulajdonosával a Polgári Törvénykönyvről szóló törvény rendelkezései szerint kötött megállapodást is. A megállapodásban rendelkezni kell a korlátozás mértékéről és a kártalanításról, valamint a korlátozás ingatlan-nyilvántartásban történő feltüntetéséről. Az előírt biztonsági övezet nagyságát és a korlátozás tényét illetően az ingatlan-nyilvántartásba történő bejegyzést az engedélyes köteles kérni.
+(2a)[^48] A termelői engedélyesnek vagy az építtetőnek szélerőmű vagy szélerőmű park építési engedélyezési eljárása során az építési engedély iránti kéreleméhez csatolni kell a villamosművek, valamint a termelői, magán- és közvetlen vezetékek biztonsági övezetéről szóló miniszteri rendeletben megállapított biztonsági övezetben korlátozni kívánt idegen ingatlan tulajdonosával a Polgári Törvénykönyvről szóló törvény rendelkezései szerint kötött megállapodást is. A megállapodásban rendelkezni kell a korlátozás mértékéről és a kártalanításról, valamint a korlátozás ingatlan-nyilvántartásban történő feltüntetéséről. Az előírt biztonsági övezet nagyságát és a korlátozás tényét illetően az ingatlan-nyilvántartásba történő bejegyzést az engedélyes köteles kérni.
 
-(2b)[^49] Ha a tervezett villamos erőmű termőföld igénybevételével jár, az engedély iránti kérelemhez mellékelni kell az ingatlanügyi hatóság művelés alól kivonást engedélyező, legalább három éve jogerőre emelkedett határozatát.
+(2b)[^49] Szélerőmű vagy szélerőmű park esetén, ha a tervezett villamos erőmű termőföld igénybevételével jár, az engedély iránti kérelemhez mellékelni kell az ingatlanügyi hatóság művelés alól kivonást engedélyező, legalább három éve jogerőre emelkedett határozatát.
 
 (3)[^50] Ha a kérelmező a kérelemhez az érintett telekre vonatkozó tulajdonjogát feltüntető ingatlan-nyilvántartási tulajdoni lap három hónapnál nem régebbi hiteles másolatát nem csatolja, a Hatóság – az ügy elbírálásához szükséges adatok szolgáltatása iránt – megkeresi az ingatlan-nyilvántartást vezető szervet.
 
@@ -63,8 +63,8 @@ d) ha a létesítményt nagy hatásfokú kapcsolt energiatermelésre alkalmasnak
 [^45]: A 23. § (1a) bekezdését a 122/2015. (V. 26.) Korm. rendelet 34. § (1) bekezdése iktatta be.
 [^46]: A 23. § (2) bekezdésének bevezető szövegrésze a 239/2008. (IX. 29.) Korm. rendelet 7. § (3) bekezdésének c) pontja, a 182/2009. (IX. 10.) Korm. rendelet 607. §-a, a 245/2012. (VIII. 31.) Korm. rendelet 12. § a) pont ab) alpontja szerint módosított szöveg.
 [^47]: A 23. § (2) bekezdés b) pont bb) alpontja a 154/2013. (V. 24.) Korm. rendelet 13. §-ával megállapított szöveg.
-[^48]: A 23. § (2a) bekezdését a 277/2016. (IX. 15.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^49]: A 23. § (2b) bekezdését a 277/2016. (IX. 15.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^48]: A 23. § (2a) bekezdését a 277/2016. (IX. 15.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 295/2016. (IX. 29.) Korm. rendelet 5. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^49]: A 23. § (2b) bekezdését a 277/2016. (IX. 15.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 295/2016. (IX. 29.) Korm. rendelet 5. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^50]: A 23. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 606. § (4) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^51]: A 23. § (4) bekezdését a 122/2015. (V. 26.) Korm. rendelet 34. § (2) bekezdése iktatta be.
 [^52]: A 23. § (5) bekezdését a 122/2015. (V. 26.) Korm. rendelet 34. § (2) bekezdése iktatta be.
