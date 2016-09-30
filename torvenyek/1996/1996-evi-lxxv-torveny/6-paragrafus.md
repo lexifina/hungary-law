@@ -12,9 +12,11 @@ e) az 1. § (5) bekezdése alapján eljárva megállapítja a foglalkoztatásra 
 
 f) eltiltja a foglalkoztatót tevékenysége folytatásától, ha foglalkoztatásra vonatkozó jogszabályban előírt engedéllyel, nyilvántartásba vétellel nem rendelkezik,
 
-g) a 3. § (1) bekezdés a) pontjában foglalt, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó jogsértés megállapítása esetén a gyermek veszélyeztetettsége miatt jelzéssel él a gyermekjóléti szolgálatnál, vagy
+g) a 3. § (1) bekezdés a) pontjában foglalt, a munkavállalói jogalanyisággal kapcsolatos életkori feltételekre vonatkozó jogsértés megállapítása esetén a gyermek veszélyeztetettsége miatt jelzéssel él a gyermekjóléti szolgálatnál,
 
-h) a további jogsértés megelőzésének érdekében – a b) pont alkalmazhatóságának hiányában – megállapítja a munkáltató jogsértését,
+h) a további jogsértés megelőzésének érdekében – a b) pont alkalmazhatóságának hiányában – megállapítja a munkáltató jogsértését, vagy
+
+i) kötelezi az 1. § (8) bekezdése szerint felelős fővállalkozót vagy a köztes alvállalkozót az elmaradt munkabérnek a munkáltató helyett történő megfizetésére,
 
 j) kötelezi a foglalkoztatót a 3. § (1a) bekezdés szerinti megkeresés teljesítéséhez szükséges adatok szolgáltatására.
 

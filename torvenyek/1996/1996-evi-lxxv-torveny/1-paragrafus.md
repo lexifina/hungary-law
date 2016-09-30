@@ -38,4 +38,4 @@ e) az önálló kereskedelmi ügynöki szerződés alapján végzett munka.
 
 (7) A (6) bekezdés szerinti vélelemre alapított határozat kizárólag a 3. § (1) bekezdés a)–b), valamint i) pontjainak megsértésével összefüggésben tartalmazhat rendelkezést. Az ebbe a körbe nem tartozó jogsértések miatt a tevékenységet ténylegesen irányító foglalkoztatóval szemben a vélelemmel megállapított munkaviszonyt érintően csak a vélelmet tartalmazó határozat jogerőre emelkedése után történt elkövetés esetén hozható határozat.
 
-(8)
+(8) A munkaügyi hatóság a fővállalkozó vagy a vele jogviszonyban álló köztes alvállalkozó helytállási kötelezettségét állapíthatja meg, ha az alvállalkozó olyan munkáltató, aki a külön jogszabály szerinti szezonális munka keretében harmadik országbeli állampolgárt foglalkoztat, és a részére járó munkabért a foglalkoztatás megszűnéséig nem fizette meg.
