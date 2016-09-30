@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-78-00-00
 | 2016-07-01 | 2016. évi LXXVIII. törvény | 2016-78-00-00.0 (közlönyállapot) |
 | 2016-07-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-78-00-00.1 |
 | 2016-07-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-78-00-00.2 |
+| 2016-09-30 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-78-00-00.3 |
