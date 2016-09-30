@@ -1,3 +1,3 @@
-## 19–26. §[^7]
+## 19–26. §[^8]
 
-[^7]: A 19–26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 19–26. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

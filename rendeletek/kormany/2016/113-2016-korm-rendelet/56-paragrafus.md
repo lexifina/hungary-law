@@ -1,18 +1,25 @@
-## 55. §[^23]
+## 55. § Az R3. 183. § (1) bekezdése a következő p) és r) ponttal egészül ki:
 
-56. § (1)[^24]
+## (E rendelet – a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvénnyel együtt – a következő közösségi jogi aktusoknak történő megfelelést szolgálja:)
 
-(2)[^25]
+## „p) a harmadik országbeli állampolgárok idénymunkásként való munkavállalás céljából való belépésének és tartózkodásának feltételeiről szóló, 2014. február 26-i 2014/36/EU európai parlamenti és tanácsi irányelv;
 
-(3)[^26]
+## r) a harmadik országbeli állampolgárok vállalaton belüli áthelyezés keretében történő belépésének és tartózkodásának feltételeiről szóló, 2014. május 15-i 2014/66/EU európai parlamenti és tanácsi irányelv.”
 
-(4)[^27]
+56. § (1)[^19]
 
-(5)[^28]
+(2) Az R3. 34. § (1) és (2) bekezdésében, 35. § (1), (2) és (5) bekezdésében, valamint 38. §-ában a „szezonális munkavállalási vízum, valamint a nemzeti vízum” szövegrész helyébe „nemzeti vízum” szöveg lép.
 
-[^23]: Az 55. § a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
-[^24]: Az 56. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^25]: Az 56. § (2) bekezdése a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
-[^26]: Az 56. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^27]: Az 56. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^28]: Az 56. § (5) bekezdése a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
+(3)[^20]
+
+(4)[^21]
+
+(5) Hatályát veszti az R3.
+
+a) 32. § c) pontja,
+
+b) 40. §-a.
+
+[^19]: Az 56. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: Az 56. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az 56. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

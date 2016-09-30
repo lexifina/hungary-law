@@ -1,3 +1,3 @@
-## 54. §[^22]
+## 54. §[^18]
 
-[^22]: Az 54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: Az 54. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

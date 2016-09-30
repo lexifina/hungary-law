@@ -1,3 +1,5 @@
+## lép.
+
 ## 6. Záró rendelkezések
 
 92. § (1) Ez a rendelet – a (2)–(3) bekezdésben meghatározott kivétellel – 2016. június 1-jén lép hatályba.

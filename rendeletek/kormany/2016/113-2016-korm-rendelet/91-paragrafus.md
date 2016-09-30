@@ -1,9 +1,13 @@
-## 89–90. §[^41]
+## 90. § Az R5. 1. melléklete helyébe a 2. melléklet lép.
 
-91. § (1)[^42]
+91. § (1)[^27]
 
-(2)[^43]
+(2) Az R5.
 
-[^41]: A 89–90. § a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
-[^42]: A 91. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^43]: A 91. § (2) bekezdése a 92. § (3) bekezdése alapján 2016. szeptember 30-án lép hatályba.
+a) 5. § (1) bekezdés j) pontjában az „engedély” szövegrész helyébe a „munkavállalási engedély” szöveg,
+
+b) 6. § (2) bekezdés b) pontjában az „a munkaügyi ellenőrzésről szóló törvényben” szövegrész helyébe az „a munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvényben (a továbbiakban: Met.)” szöveg,
+
+c) 12. § (1) bekezdésében a „mezőgazdasági szezonális munkavállalási engedély” szövegrész helyébe a „szezonális munkavállalási engedély” szöveg
+
+[^27]: A 91. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
