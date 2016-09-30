@@ -1,6 +1,6 @@
-## 1/A. §[^2] A Hivatalt főigazgató vezeti.
+## 1/A. §[^3] A Hivatalt főigazgató vezeti.
 
-## 2. [^3] A mérésügyi és műszaki feladatkörében eljáró fővárosi és megyei kormányhivatal
+## 2. [^4] A mérésügyi és műszaki feladatkörében eljáró fővárosi és megyei kormányhivatal
 
 2. § (1) A fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § g)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként az iparügyekért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
 
@@ -42,5 +42,5 @@ g) a műszaki biztonsági felügyeleti tevékenységekhez tartozó munkakörök 
 
 (7) A Hivatal központi szerve, illetve a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal hatáskörébe tartozó mérésügyi és műszaki biztonsági ügyben az eljárást az ügyfél a lakóhelye vagy tevékenysége folytatásának helye szerint illetékes fővárosi és megyei kormányhivatal ügyfélszolgálatán keresztül is benyújthatja. Az ügyintézési határidőt ebben az esetben a kérelemnek az ügy elbírálására hatáskörrel rendelkező hatósághoz való megérkezéstől kell számítani.
 
-[^2]: Az 1/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 515. §-a iktatta be.
-[^3]: A 2. alcím (2. §) a 70/2015. (III. 30.) Korm. rendelet 162. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 515. §-a iktatta be.
+[^4]: A 2. alcím (2. §) a 70/2015. (III. 30.) Korm. rendelet 162. § (1) bekezdésével megállapított szöveg.

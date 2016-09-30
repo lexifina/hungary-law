@@ -18,9 +18,12 @@
 
 8. a 15. § (1) bekezdés m) pontjában az Európai Közösségbe irányuló faanyag-behozatal FLEGT engedélyezési rendszerének létrehozásáról szóló, 2005. december 20-i 2173/2005/EK tanácsi rendelet I. fejezet 2. cikk 8. pontjának, valamint az Európai Közösségbe irányuló faanyag-behozatal FLEGT engedélyezési rendszerének létrehozásáról szóló 2173/2005/EK tanácsi rendelet végrehajtására vonatkozó részletes rendelkezések megállapításáról szóló, 2008. október 17-i 1024/2008/EK bizottsági rendelet I. fejezet 2. cikk 4. pontjának,
 
-9.[^62] a 14. §-ban az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 10. cikk (1) bekezdésének,
+9.[^64] a 14. §-ban az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 10. cikk (1) bekezdésének,
 
-10.[^63] a 15. §-ban az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 29. cikk (1) bekezdésének, 39. cikkének
+10.[^65] a 15. §-ban az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet 29. cikk (1) bekezdésének, 39. cikkének
 
-[^62]: A 25. § 9. pontját a 322/2012. (XI. 16.) Korm. rendelet 107. §-a iktatta be.
-[^63]: A 25. § 10. pontját a 322/2012. (XI. 16.) Korm. rendelet 107. §-a iktatta be.
+11.[^66] a 7. § (2) bekezdésében és a 7. § (3) bekezdés g) pontjában a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i 98/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (6) bekezdésének
+
+[^64]: A 25. § 9. pontját a 322/2012. (XI. 16.) Korm. rendelet 107. §-a iktatta be.
+[^65]: A 25. § 10. pontját a 322/2012. (XI. 16.) Korm. rendelet 107. §-a iktatta be.
+[^66]: A 25. § 11. pontját a 275/2016. (IX. 15.) Korm. rendelet 4. §-a iktatta be.

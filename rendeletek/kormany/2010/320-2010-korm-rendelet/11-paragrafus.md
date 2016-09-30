@@ -1,6 +1,6 @@
 ## 10. Mérésügyi hatóság kijelölése
 
-11. § (1)[^21] A Kormány mérésügyi hatóságként – a (2) bekezdésben foglalt kivételekkel – első fokon az illetékes mérésügyi és műszaki biztonsági feladatkörben eljáró fővárosi és megyei kormányhivatalt, másodfokon a Hivatal központi szervét jelöli ki.
+11. § (1)[^23] A Kormány mérésügyi hatóságként – a (2) bekezdésben foglalt kivételekkel – első fokon az illetékes mérésügyi és műszaki biztonsági feladatkörben eljáró fővárosi és megyei kormányhivatalt, másodfokon a Hivatal központi szervét jelöli ki.
 
 (2) A Kormány mérésügyi hatóságként országos illetékességgel – az alábbi ügyfajták tekintetében – első fokon a Hivatal metrológiai hatóságát, másodfokon a Hivatal központi szervét jelöli ki:
 
@@ -26,7 +26,7 @@ j) kaszinókban üzemelő pénznyerő automaták hitelesítésével,
 
 k) hitelesítést helyettesítő minősítő laborok (szervezetek) engedélyezésével és ellenőrzésével kapcsolatos mérésügyi eljárásokban.
 
-(3)[^22] A h)–j) pontban meghatározott hatáskörök ellátásához a metrológiai hatóság a mérésügyi és műszaki biztonsági feladatkörben eljáró fővárosi és megyei kormányhivatal közreműködését veheti igénybe a közigazgatási hatósági eljárásról szóló törvény rendelkezései szerint.
+(3)[^24] A h)–j) pontban meghatározott hatáskörök ellátásához a metrológiai hatóság a mérésügyi és műszaki biztonsági feladatkörben eljáró fővárosi és megyei kormányhivatal közreműködését veheti igénybe a közigazgatási hatósági eljárásról szóló törvény rendelkezései szerint.
 
-[^21]: A 11. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 162. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^22]: A 11. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 162. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^23]: A 11. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 162. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^24]: A 11. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 162. § (2) bekezdés a) pontja szerint módosított szöveg.

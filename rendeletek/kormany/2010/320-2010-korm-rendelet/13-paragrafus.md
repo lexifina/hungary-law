@@ -1,6 +1,6 @@
 ## 12. Építésügyi hatóság kijelölése
 
-13. § (1)[^29] A Kormány – a (2) bekezdésben meghatározott körben – építésügyi hatóságként az illetékes mérésügyi és műszaki biztonsági feladatkörben eljáró fővárosi és megyei kormányhivatalt, másodfokon a Hivatal központi szervét jelöli ki.
+13. § (1)[^31] A Kormány – a (2) bekezdésben meghatározott körben – építésügyi hatóságként az illetékes mérésügyi és műszaki biztonsági feladatkörben eljáró fővárosi és megyei kormányhivatalt, másodfokon a Hivatal központi szervét jelöli ki.
 
 (2) A 13. § (1) bekezdés szerinti hatóság építésügyi hatóságként jár el az alábbi sajátos építményfajták tekintetében
 
@@ -28,7 +28,7 @@ k) a hőtávvezetéket tartó vagy magában foglaló építmény, beleértve a h
 
 l) a külön jogszabályban meghatározott villamosmű, a termelői vezeték, a magánvezeték és a közvetlen vezeték.
 
-(3)[^30] Ha az engedélykérelemmel érintett közcélú vezeték, termelői vezeték, magánvezeték vagy a közvetlen vezeték több mérésügyi és műszaki biztonsági feladatkörben eljáró fővárosi és megyei kormányhivatal illetékességi területén halad át, akkor az illetékes eljárni, amelyiknek az illetékességi területére a vezetékből hosszabb szakasz esik.
+(3)[^32] Ha az engedélykérelemmel érintett közcélú vezeték, termelői vezeték, magánvezeték vagy a közvetlen vezeték több mérésügyi és műszaki biztonsági feladatkörben eljáró fővárosi és megyei kormányhivatal illetékességi területén halad át, akkor az illetékes eljárni, amelyiknek az illetékességi területére a vezetékből hosszabb szakasz esik.
 
-[^29]: A 13. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 162. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^30]: A 13. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 162. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^31]: A 13. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 162. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^32]: A 13. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 162. § (2) bekezdés c) pontja szerint módosított szöveg.

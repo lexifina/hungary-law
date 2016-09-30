@@ -2,11 +2,11 @@
 
 7. § (1) A Kormány a (3)–(4) bekezdésben meghatározott körben a Hivatalt kereskedelmi hatóságként jelöli ki.
 
-(2)[^10] A (3) bekezdés a)–d) és f) pontja szerinti eljárásban a Hivatal kereskedelmi hatósága, a (3) bekezdés e) pontja és a (4) bekezdés a) és b) pontja szerinti eljárásban a nemesfémvizsgáló és -hitelesítő hatóság folytatja le országos illetékességgel az elsőfokú eljárást, másodfokon – ha jogszabály másként nem rendelkezik – a Hivatal központi szerve jár el.
+(2)[^11] A (3) bekezdés a)–d), f) és g) pontja szerinti eljárásban a Hivatal kereskedelmi hatósága, a (3) bekezdés e) pontja és a (4) bekezdés a) és b) pontja szerinti eljárásban a nemesfémvizsgáló és -hitelesítő hatóság folytatja le országos illetékességgel az elsőfokú eljárást, másodfokon – ha jogszabály másként nem rendelkezik – a Hivatal központi szerve jár el.
 
 (3) A Hivatal kereskedelmi hatóságként jár el:
 
-a)[^11] az utazásszervező és -közvetítői tevékenység bejelentésére, nyilvántartásba vételére irányuló eljárásokban és az azokkal kapcsolatos ellenőrzési feladatokban,
+a)[^12] az utazásszervező és -közvetítői tevékenység bejelentésére, nyilvántartásba vételére irányuló eljárásokban és az azokkal kapcsolatos ellenőrzési feladatokban,
 
 b) az idegenvezetői tevékenység bejelentésére és nyilvántartásba vételére irányuló eljárásban,
 
@@ -16,7 +16,9 @@ d) a tartós szálláshasználati szolgáltatási tevékenység bejelentésére 
 
 e) a nemesfémből készült ékszer, díszműáru és egyéb tárgy forgalmazására irányuló kereskedelmi tevékenységgel összefüggő eljárásokban,
 
-f)[^12] a Széchenyi Pihenő Kártya kibocsátásával kapcsolatos nyilvántartási, valamint a Széchenyi Pihenő Kártya kibocsátásával és felhasználásával összefüggő ellenőrzési eljárásokban.
+f)[^13] a Széchenyi Pihenő Kártya kibocsátásával kapcsolatos nyilvántartási, valamint a Széchenyi Pihenő Kártya kibocsátásával és felhasználásával összefüggő ellenőrzési eljárásokban,
+
+g)[^14] a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló jogszabályban meghatározott hatósági eljárásokban.
 
 (4) A Hivatal jár el a pénzmosás és a terrorizmus finanszírozása megelőzéséről és megakadályozásáról szóló 2007. évi CXXXVI. törvény (a továbbiakban: 2007. évi CXXXVI. törvény) 5. § f) pontja szerinti felügyeletet ellátó szerv feladatkörében a 2007. évi CXXXVI. törvény
 
@@ -28,16 +30,17 @@ b) 1. § (1) bekezdés k) pontjában meghatározott tevékenység
 
 (5) A Kormány a (3) bekezdésben meghatározott tevékenységek tekintetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként a Hivatalt jelöli ki.
 
-(6)[^13] Az idegenvezetői tevékenység bejelentésére és nyilvántartásba vételére irányuló, illetve az azzal kapcsolatos ellenőrzési eljárásokban bizonyítási eszköznek minősül:
+(6)[^15] Az idegenvezetői tevékenység bejelentésére és nyilvántartásba vételére irányuló, illetve az azzal kapcsolatos ellenőrzési eljárásokban bizonyítási eszköznek minősül:
 
 a) az idegenvezetői szolgáltatást ténylegesen végző személy idegenvezető szakképesítését igazoló okirat másolata,
 
 b) az idegenvezetői szolgáltatást ténylegesen végző személy nyelvismeretét tanúsító nyelvvizsga-bizonyítvány másolata vagy azzal egyenértékű nyelvismeretet igazoló okirat másolata.
 
-(7)[^14] A lovas szolgáltatók bejelentésére és nyilvántartásba vételére irányuló, illetve az azzal kapcsolatos ellenőrzési eljárásokban bizonyítási eszköznek minősül a szolgáltatás igénybevevőjének lovagoltatásával járó lovas szolgáltató tevékenység esetén a szakmai tevékenységért felelős személy szakképesítését igazoló okirat.
+(7)[^16] A lovas szolgáltatók bejelentésére és nyilvántartásba vételére irányuló, illetve az azzal kapcsolatos ellenőrzési eljárásokban bizonyítási eszköznek minősül a szolgáltatás igénybevevőjének lovagoltatásával járó lovas szolgáltató tevékenység esetén a szakmai tevékenységért felelős személy szakképesítését igazoló okirat.
 
-[^10]: A 7. § (2) bekezdése a 245/2012. (VIII. 31.) Korm. rendelet 16. §-ával megállapított, a 7/2013. (I. 18.) Korm. rendelet 5. § (11) bekezdése szerint módosított szöveg.
-[^11]: A 7. § (3) bekezdés a) pontja a 441/2015. (XII. 28.) Korm. rendelet 136. § (1) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^12]: A 7. § (3) bekezdés f) pontját az 55/2011. (IV. 12.) Korm. rendelet 21. §-a iktatta be, szövege a 7/2013. (I. 18.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^13]: A 7. § (6) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 23. § (1) bekezdése iktatta be.
-[^14]: A 7. § (7) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^11]: A 7. § (2) bekezdése a 275/2016. (IX. 15.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^12]: A 7. § (3) bekezdés a) pontja a 441/2015. (XII. 28.) Korm. rendelet 136. § (1) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^13]: A 7. § (3) bekezdés f) pontját az 55/2011. (IV. 12.) Korm. rendelet 21. §-a iktatta be, szövege a 7/2013. (I. 18.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^14]: A 7. § (3) bekezdés g) pontját a 275/2016. (IX. 15.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^15]: A 7. § (6) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 23. § (1) bekezdése iktatta be.
+[^16]: A 7. § (7) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 23. § (1) bekezdése iktatta be.
