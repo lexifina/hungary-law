@@ -1,4 +1,4 @@
-57. §[^152] (1)[^153] A menekültként, vagy oltalmazottként elismert személy családtagja tartózkodási engedély átvételére jogosító vízum, illetve tartózkodási engedély iránti kérelméről a menekültügyi hatóságot értesíteni kell.
+57. §[^154] (1)[^155] A menekültként, vagy oltalmazottként elismert személy családtagja tartózkodási engedély átvételére jogosító vízum, illetve tartózkodási engedély iránti kérelméről a menekültügyi hatóságot értesíteni kell.
 
 (2) A menekültként vagy oltalmazottként elismert személyhez történő családegyesítés során a családi kapcsolat fennállása bármilyen hitelt érdemlő módon – különösen DNS- vizsgálattal – igazolható.
 
@@ -8,10 +8,10 @@
 
 (5) A DNS-vizsgálattal kapcsolatban felmerülő összes költséget a kérelmező viseli.
 
-(6)[^154] A menekültként elismert harmadik országbeli állampolgár családtagjának a Tv. 13. § (1) bekezdés e)–g) pontjában foglalt feltételek fennállását akkor kell igazolnia, ha a menekültkénti elismerés és a családegyesítés kérelmezése között három hónapnál hosszabb időtartam telt el.
+(6)[^156] A menekültként elismert harmadik országbeli állampolgár családtagjának a Tv. 13. § (1) bekezdés e)–g) pontjában foglalt feltételek fennállását akkor kell igazolnia, ha a menekültkénti elismerés és a családegyesítés kérelmezése között három hónapnál hosszabb időtartam telt el.
 
 (7) A (6) bekezdésekben foglalt kedvezmények az oltalmazottként elismert harmadik országbeli állampolgár családtagja által benyújtott tartózkodási engedély iránti kérelem esetén nem alkalmazhatóak.
 
-[^152]: Az 57. § a 290/2010. (XII. 21.) Korm. rendelet 42. §-ával megállapított szöveg.
-[^153]: Az 57. § (1) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.
-[^154]: Az 57. § (6) bekezdése a 113/2016. (V. 30.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^154]: Az 57. § a 290/2010. (XII. 21.) Korm. rendelet 42. §-ával megállapított szöveg.
+[^155]: Az 57. § (1) bekezdése a 81/2012. (IV. 18.) Korm. rendelet 11. §-a szerint módosított szöveg.
+[^156]: Az 57. § (6) bekezdése a 113/2016. (V. 30.) Korm. rendelet 29. §-ával megállapított szöveg.

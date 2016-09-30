@@ -2,7 +2,7 @@
 
 a) érvényességi ideje lejárt;
 
-b)[^287] a bevándorlási engedélyt, letelepedési engedélyt vagy nemzeti letelepedési engedélyt jogerősen és végrehajthatóan visszavonták;
+b)[^295] a bevándorlási engedélyt, letelepedési engedélyt vagy nemzeti letelepedési engedélyt jogerősen és végrehajthatóan visszavonták;
 
 c) az okmány helyett a harmadik országbeli állampolgár – az okmány cseréjére, pótlására irányuló eljárásban vagy az okmány érvényességi idejének meghosszabbítása miatt – új okmányt kapott;
 
@@ -14,4 +14,4 @@ f) a jogosultja EK letelepedési engedélyt vagy a szabad mozgás és tartózkod
 
 g) jogosultja meghalt.
 
-[^287]: A 106. § b) pontja a 113/2016. (V. 30.) Korm. rendelet 47. §-ával megállapított szöveg.
+[^295]: A 106. § b) pontja a 113/2016. (V. 30.) Korm. rendelet 47. §-ával megállapított szöveg.

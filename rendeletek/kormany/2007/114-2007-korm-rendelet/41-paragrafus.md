@@ -1,3 +1,3 @@
-## 40. §[^113] A vízumkiadó hatóság a szezonális munkavállalási vízum által lehetővé tett tartózkodás időtartamát és a vízum érvényességi idejét – a Tv.-ben foglalt keretek között – a kérelemhez mellékelt okiratok tartalma, a beutazás és tartózkodás igazolt célja, a tartózkodás tervezett időtartama, valamint a tartózkodás körülményei tekintetében rendelkezésére álló valamennyi egyéb adat alapján, a kérelmező egyedi körülményeit is figyelembe véve határozza meg.
+## 40. §[^114]
 
-[^113]: A 40. § a 182. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^114]: A 40. §-t a 113/2016. (V. 30.) Korm. rendelet 56. § (5) bekezdés b) pontja hatályon kívül helyezte.

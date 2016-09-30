@@ -1,4 +1,4 @@
-95/A. §[^252] (1) A Tv. 35/A. § (1) bekezdése szerinti nemzeti letelepedési engedély iránti kérelem benyújtásakor a kérelmezőnek be kell mutatnia az érvényes úti okmányát, valamint kérelméhez csatolnia kell:
+95/A. §[^260] (1) A Tv. 35/A. § (1) bekezdése szerinti nemzeti letelepedési engedély iránti kérelem benyújtásakor a kérelmezőnek be kell mutatnia az érvényes úti okmányát, valamint kérelméhez csatolnia kell:
 
 a) a Tv. 35/A. § (2) bekezdés a) pontja szerinti értékpapír tulajdonjogának a kérelmező harmadik országbeli állampolgár vagy a többségi tulajdonában álló gazdasági társaság általi megszerzését tanúsító hitelt érdemlő okiratot és a Tv. 35/A. § (2) bekezdés b) pontjában előírt okiratot;
 
@@ -10,4 +10,4 @@ d) a jogi képviselő meghatalmazását.
 
 (2) Az országos illetékességgel rendelkező Budapesti és Pest Megyei Regionális Igazgatóság a Tv. 35/A. § (1) bekezdése alapján előterjesztett nemzeti letelepedési engedély kiadása iránti kérelem elbírálása során a megélhetés és az egészségügyi ellátás igazolása vonatkozásában a Tv. 35/A. § (2) bekezdésében meghatározott feltételek igazolására benyújtott okiratokat veszi figyelembe.
 
-[^252]: A 95/A. §-t a 113/2016. (V. 30.) Korm. rendelet 41. §-a iktatta be.
+[^260]: A 95/A. §-t a 113/2016. (V. 30.) Korm. rendelet 41. §-a iktatta be.
