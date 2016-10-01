@@ -8,7 +8,7 @@ b) az a) pont szerint minősített (osztályba sorolt) területek nádállomány
 
 (2) A nádasok (1) bekezdés a) pontjában érintett minősítésénél az ipari (építési), mezőgazdasági vagy egyéb célra történő hasznosíthatóságot, valamint a terület jellegét (zárt állomány, ritka, szabdalt) a környezettel, a természetvédelemmel, valamint a partvédelemmel összefüggő jelentőségét, a vízminőségre gyakorolt kedvező, illetőleg kedvezőtlen hatását kell figyelembe venni.
 
-(3)[^26]
+(3)[^26] Az állam tulajdonában álló vizek medrében és azok csatlakozó szárazulatain nádaratás, nádégetés és nádirtás csak a vízügyi igazgatási szerv vagyonkezelői hozzájárulásával végezhető.
 
 (4) Azokon a vizeken, amelyek nem az (1) bekezdésben meghatározott tulajdonban állnak, a rendeletnek megfelelő nádgazdálkodásról a vizek, illetve a meder tulajdonosa köteles gondoskodni.
 
@@ -29,7 +29,7 @@ b) az a) pont szerint minősített (osztályba sorolt) területek nádállomány
 (12) E rendeletben meghatározott és a természetvédelmi érdekekkel összefüggő rendelkezések megtartását, ideértve a környezet-, természet- és vízminőségvédelmi szempontok figyelembevételével elkészített minősítést, a természetvédelmi és a környezetvédelmi hatóság ellenőrzi.
 
 [^25]: A 9. § (1) bekezdésének bevezető szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 172. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^26]: A 9. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 172. §-a hatályon kívül helyezte. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A 9. § (3) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 172. §-a hatályon kívül helyezte, újonnan a 232/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
 [^27]: A 9. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 171–172. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^28]: A 9. § (6) bekezdése a 174/2012. (VII. 26.) Korm. rendelet 21. §-ával megállapított szöveg.
 [^29]: A 9. § (7) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 171. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

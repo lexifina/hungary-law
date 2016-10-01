@@ -1,4 +1,4 @@
-## 1. §[^1] A rendelet hatálya – a víziközművek kivételével – a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) hatálya alá tartozó vizek és vízilétesítmények körében az állami, önkormányzati tulajdonában álló, valamint a magántulajdonban lévő, de a vízügyi igazgatóság által fenntartott felszíni vizekre – vízfolyásokra, természetes tavakra, ezek medrére és partjára – és vízilétesítményekre terjed ki.
+## 1. §[^1] A rendelet hatálya – a víziközművek kivételével – a vízgazdálkodásról szóló 1995. évi LVII. törvény (a továbbiakban: Vgtv.) hatálya alá tartozó vizek és vízilétesítmények körében az állami, önkormányzati tulajdonban álló vagy a vízügyi hatóság kijelölő döntése alapján állami üzemeltetésben és fenntartásban lévő, valamint a magántulajdonban lévő, de a vízügyi igazgatóság által fenntartott felszíni vizekre – vízfolyásokra, természetes tavakra, ezek medrére és partjára –, vízkárelhárítási vízilétesítményekre, vízkészletek átcsoportosítását szolgáló vízelosztó, többes rendeltetésű és a mezőgazdasági vízszolgáltató rendszerek vízilétesítményeire terjed ki.
 
 ## Értelmező rendelkezések
 
@@ -14,6 +14,6 @@
 
 5.[^3] tulajdonos: a tulajdonos, valamint – állami tulajdonban álló ingatlan esetében – az állami tulajdonban álló ingatlan felett jogszabály vagy szerződés alapján tulajdonosi jogokat gyakorló személy vagy szervezet.
 
-[^1]: Az 1. § az 527/2013. (XII. 30.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § a 232/2016. (VII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § 2. pontja az 527/2013. (XII. 30.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.
 [^3]: A 2. § 5. pontját a 242/2012. (VIII. 31.) Korm. rendelet 2. § (1) bekezdése iktatta be.

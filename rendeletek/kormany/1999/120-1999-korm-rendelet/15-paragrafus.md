@@ -66,33 +66,41 @@ II. Folyó- és tószabályozási művek, folyómedrek
 
 7. A hajóút parti és úszó kitűző jelei láthatóságának, működőképességének biztosítása, azok cseréje, és a vízállás változása vagy a meder módosulása esetén az esetleges áthelyezése.
 
-III. Vízfolyások, csatornák, tározók
+III.[^39] Vízfolyások, csatornák, tározók
 
-1. A medreknek az engedélyezési terv szerinti rendezett állapotának kialakítása:
+1. A medreknek az engedélyezési terv szerinti rendezett állapota kialakításának keretében:
 
-– feliszapolódások eltávolítása,
+1.1. a feliszapolódások eltávolítása,
 
-– rézsűcsúszás, kagylósodás, mederrongálódások megszüntetése,
+1.2. rézsűcsúszás, kagylósodás, mederrongálódások megszüntetése,
 
-– gaztalanítás, kaszálás a csatorna rendeltetésétől függően évenként legalább egyszer vagy kétszer,
+1.3. gaztalanítás, kaszálás a csatorna rendeltetésétől függően évenként legalább egyszer vagy kétszer,
 
-– a medreket kísérő töltések engedélyezési terv szerinti helyreállítása, tartozékainak karbantartása, cseréje, pótlása,
+1.4. a medreket kísérő töltések engedélyezési terv szerinti helyreállítása, tartozékainak karbantartása, cseréje, pótlása,
 
-– műtárgyakkal kapcsolatos munkák a I. 3. pont szerint,
+1.5. műtárgyakkal kapcsolatos munkák az I. fejezet 3. pontja szerint,
 
-– a mederben, valamint a parti sávban fák, cserjék kivágása,
+1.6. a mederben, valamint a parti sávban fák, cserjék kivágása,
 
-– gyepápolás: kaszálás, gyomtalanítás, felülvetés, újravetés,
+1.7. gyepápolás: kaszálás, gyomtalanítás, felülvetés, újravetés,
 
-– tartozékok karbantartása a I. 2. pont szerint,
+1.8. tartozékok karbantartása az I. fejezet 2. pontja szerint,
 
-– a műtárgyaknál, a különféle keresztezéseknél és a mederből az uszadék eltávolítása,
+1.9. a műtárgyaknál, a különféle keresztezéseknél és a mederből az uszadék eltávolítása,
 
-– hó- és jégeltávolítás,
+1.10. hó- és jégeltávolítás,
 
-– a parti sávok kialakítása,
+1.11. a parti sávok kialakítása,
 
-– vízfolyás, csatorna nyomvonal korrekciója, 1 km hosszig.
+1.12. vízfolyás, csatorna nyomvonal korrekciója, 1 km hosszig,
+
+1.13. nádkaszálás, vízinövényzet-szabályozás,
+
+1.14. üzemi vízszint előállítása, fenntartása,
+
+1.15. kettősműködésű csatornák, illetve öntözőcsatornák belvízelvezetésre történő igénybevételét követően a meder átmosásának biztosítása,
+
+1.16. az állami tulajdonban lévő vízilétesítményeknél – a vízgazdálkodási közfeladatok ellátásához szükséges – a vízgazdálkodási feladatokkal összefüggő alapadatokról szóló kormányrendelet szerinti, a vizek, vízilétesítmények állapotának feltárását, valamint állapotuk értékelését szolgáló monitoringadatok gyűjtése.
 
 IV. Szivattyútelepek, szivattyúállások, zsilipek
 
@@ -103,6 +111,8 @@ IV. Szivattyútelepek, szivattyúállások, zsilipek
 3. Gépészeti és villamos berendezések (szivattyúk, motorok, transzformátorok, gerebek, csövek, segédberendezések, szerelvények, automaták) működőképességének biztosítása, javítása, egyes alkotóelemeinek cseréje.
 
 4. Korrózióvédelem.
+
+5.[^40] Az öntözőrendszerek és felszíni vízelvezető főcsatornák fővízkivételénél, valamint a vízátadó helyeken a vízmennyiség mérése a vizek hasznosítását, védelmét és kártételeinek elhárítását szolgáló tevékenységekre és létesítményekre vonatkozó műszaki szabályokról szóló miniszteri rendelet szerinti módon és a mérési eredmények nyilvántartása.
 
 V. Hírközlő és adatgyűjtő rendszerek
 
@@ -117,3 +127,5 @@ VI. Műszaki tervezés
 Fenntartási munkák műszaki terveinek elkészítése, ezekhez állapotfelvételek, térképek készítése.
 
 [^38]: A 15. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1227. pontja hatályon kívül helyezte.
+[^39]: A melléklet III. fejezete a 232/2016. (VII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^40]: A melléklet IV. fejezet 5. pontját a 232/2016. (VII. 29.) Korm. rendelet 3. §-a iktatta be.

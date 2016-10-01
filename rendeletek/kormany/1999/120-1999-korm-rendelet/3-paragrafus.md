@@ -4,7 +4,7 @@
 
 (2) Az (1) bekezdésben érintett közfeladatok ellátásának szakmai követelményeit a jogszabályok, illetve a közcélú vízilétesítmények vízgazdálkodási célját, rendeltetését is rögzítő hatósági (vízjogi) engedélyek határozzák meg.
 
-(3)[^5] Az állami tulajdonban vagy kijelölő döntés alapján állami üzemeltetésben lévő, az önkormányzati tulajdonban lévő, valamint az önkormányzattól a vízitársulat által üzemeltetésre átvett vizek és közcélú vízkárelhárítási vízilétesítmények fenntartása a Mellékletben felsorolt munkák rendszeres vagy az igénybevétel, elhasználódás mértéke szerinti, időszakos elvégzését jelenti.
+(3)[^5] Az állami tulajdonban vagy kijelölő döntés alapján állami üzemeltetésben lévő, az önkormányzati tulajdonban lévő, valamint az önkormányzattól a vízitársulat által üzemeltetésre átvett vizek és 1. § szerinti vízilétesítmények fenntartása a Mellékletben felsorolt munkák rendszeres vagy az igénybevétel, elhasználódás mértéke szerinti, időszakos elvégzését jelenti.
 
 (4) A fenntartó által elvégzett, de a közédekű fenntartás körébe nem tartozó fenntartás költségeit az abban érdekelt személyek, illetve az azt igénylők az e rendeletben foglaltak szerint a fenntartó részére kötelesek megtéríteni.
 
@@ -15,4 +15,4 @@ a) vízilétesítmény fenntartásának összköltségeihez viszonyítva, vagy
 b) a közérdek mértékét meghaladó költségekre figyelemmel kell megállapítani.
 
 [^4]: A 3. § (1) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^5]: A 3. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^5]: A 3. § (3) bekezdése az 527/2013. (XII. 30.) Korm. rendelet 12. § (4) bekezdésével megállapított, a 232/2016. (VII. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
