@@ -1,1 +1,0 @@
-13. § A társulati közfeladattal érintett működési terület meghatározásához a szervezőbizottságnak be kell szereznie az illetékes mezőgazdasági és vízügyi igazgatási szervezet javaslatát. A javaslatokat a helyszínrajz elkészítésénél figyelembe kell venni.
