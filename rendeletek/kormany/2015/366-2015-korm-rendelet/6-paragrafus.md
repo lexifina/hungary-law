@@ -4,7 +4,7 @@
 
 a) – szükség esetén a megyei katasztrófavédelmi igazgatóság bevonásával – szolgáltatja a kormányzati munka ellátásához szükséges, tevékenysége során keletkezett vízvédelmi adatokat,
 
-b) a miniszter kijelölése alapján közreműködik a vízvédelmet érintő nemzetközi feladatok végrehajtásában,
+b)[^12] a miniszter kijelölése alapján közreműködik a két- és többoldalú nemzetközi együttműködések, különösen a Duna védelmére és fenntartható használatára irányuló együttműködésről szóló 1994. június 29-én, Szófiában létrehozott Egyezmény és egyéb vízvédelmet érintő nemzetközi feladatok végrehajtásában,
 
 c) összegyűjti, ellenőrzi, értékeli és rendelkezésre bocsátja az OKIR működéséhez szükséges – vízvédelmi hatósági és szakhatósági, valamint igazgatási feladataival összefüggő – adatokat, illetve az OKIR-ból adatokat szolgáltat, továbbá együttműködik más ellenőrző és információs rendszerek működtetőivel,
 
@@ -18,4 +18,21 @@ g) együttműködik a vízvédelmi igazgatási feladatai végrehajtását megala
 
 h) irányítja, koordinálja és ellenőrzi a katasztrófavédelmi igazgatóság vízvédelmi igazgatási szakmai tevékenységét,
 
-i) együttműködik az OVF-fel a vízvédelmi igazgatási feladatai ellátása során.
+i) együttműködik az OVF-fel a vízvédelmi igazgatási feladatai ellátása során,
+
+j)[^13] ellátja a VKI végrehajtásához kapcsolódó vízvédelmi vonatkozású feladatokat,
+
+k)[^14] szakterülete vonatkozásában közreműködik az Espoo-i Egyezmény és a hatásvizsgálati irányelv szerinti nemzetközi eljárásokban,
+
+l)[^15] elemzi és értékeli a feladat- és hatáskörét érintő jogszabályok végrehajtását,
+
+m)[^16] véleményezi a feladat- és hatáskörét érintő jogszabálytervezeteket,
+
+n)[^17] tevékenységéről évente átfogó jelentést készít a vízvédelemért felelős miniszter számára.
+
+[^12]: A 6. § b) pontja a 289/2016. (IX. 22.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^13]: A 6. § j) pontját a 289/2016. (IX. 22.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^14]: A 6. § k) pontját a 289/2016. (IX. 22.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^15]: A 6. § l) pontját a 289/2016. (IX. 22.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^16]: A 6. § m) pontját a 289/2016. (IX. 22.) Korm. rendelet 15. § (2) bekezdése iktatta be.
+[^17]: A 6. § n) pontját a 289/2016. (IX. 22.) Korm. rendelet 15. § (2) bekezdése iktatta be.

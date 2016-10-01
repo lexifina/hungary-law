@@ -16,4 +16,14 @@ f) kapcsolatot tart a vízminőség-védelmi, kármegelőzési és kárelhárít
 
 g) a kiemelt üdülőterületekre vonatkozó vízminőség-védelmi információs rendszert üzemeltethet,
 
-h) együttműködik a vízügyi igazgatósággal a vízvédelmi igazgatási feladatai ellátása során.
+h) együttműködik a vízügyi igazgatósággal a vízvédelmi igazgatási feladatai ellátása során,
+
+i)[^19] ellátja a VKI végrehajtásához kapcsolódó vízvédelmi vonatkozású feladatokat,
+
+j)[^20] szakterülete vonatkozásában közreműködik az Espoo-i Egyezmény és a hatásvizsgálati irányelv szerinti nemzetközi eljárásokban,
+
+k)[^21] közreműködik a két- és többoldalú nemzetközi együttműködések vízvédelmi feladatainak végrehajtásában.
+
+[^19]: A 8. § i) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.
+[^20]: A 8. § j) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.
+[^21]: A 8. § k) pontját a 289/2016. (IX. 22.) Korm. rendelet 17. §-a iktatta be.

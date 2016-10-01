@@ -6,11 +6,11 @@ a) a Vgtv.-ben előírtakkal összhangban, a Kvt. előírásai alapján elemzi �
 
 b) szolgáltatja a kormányzati munka ellátásához szükséges, tevékenysége során keletkezett adatokat, információkat,
 
-c) közreműködik a VKI végrehajtásához kapcsolódó vízvédelmi vonatkozású feladatokban,
+c)[^8] közreműködik a VKI végrehajtásához kapcsolódó – kiemelten a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott – vízvédelmi feladatokban,
 
 d) közreműködik a két- és többoldalú nemzetközi együttműködések vízvédelmi feladatainak végrehajtásából származó feladatokban,
 
-e) szakterülete vonatkozásában közreműködik az országhatáron átterjedő környezeti hatások vizsgálatáról szóló, Espooban (Finnország) 1991. február 26. napján aláírt egyezmény, illetve az egyes köz- és magánprojektek környezetre gyakorolt hatásainak vizsgálatáról szóló, 2011. december 13-i 2011/92/EU európai parlamenti és tanácsi irányelv szerinti nemzetközi eljárásokban,
+e)[^9] szakterülete vonatkozásában közreműködik az Espoo-i Egyezmény és a hatásvizsgálati irányelv szerinti nemzetközi eljárásokban,
 
 f) közreműködik a vízvédelmi szakterületi feladatok ellátását támogató hatástanulmányok, elemzések, jelentések készítésében,
 
@@ -24,4 +24,13 @@ j) észrevételeivel, javaslataival támogatja az OKIR működtetéséhez kapcso
 
 k) közreműködik a szennyezés csökkentési feladatok ellátásában, akcióprogramok megvalósításában,
 
-l) együttműködik a területi vízvédelmi hatósággal a vízvédelmi igazgatási feladatai ellátása során.
+l) együttműködik a területi vízvédelmi hatósággal a vízvédelmi igazgatási feladatai ellátása során,
+
+m)[^10] a Kvt. felelősségi szabályaira tekintettel ellátja a felelősségi irányelv végrehajtását szolgáló, a környezetkárosodás megelőzésének és elhárításának rendjéről szóló kormányrendeletben meghatározott vízminőség-védelmi kárelhárítási feladatokat,
+
+n)[^11] a Kvt. felelősségi szabályaira tekintettel közreműködik a felelősségi irányelv végrehajtásához kapcsolódó, a felszíni vizek minősége védelmének szabályairól szóló kormányrendeletben és a felszín alatti vizek védelméről szóló kormányrendeletben meghatározott vízvédelmi feladatokban.
+
+[^8]: Az 5. § c) pontja a 289/2016. (IX. 22.) Korm. rendelet 14. § (1) bekezdésével megállapított szöveg.
+[^9]: Az 5. § e) pontja a 289/2016. (IX. 22.) Korm. rendelet 14. § (2) bekezdésével megállapított szöveg.
+[^10]: Az 5. § m) pontját a 289/2016. (IX. 22.) Korm. rendelet 14. § (3) bekezdése iktatta be.
+[^11]: Az 5. § n) pontját a 289/2016. (IX. 22.) Korm. rendelet 14. § (3) bekezdése iktatta be.
