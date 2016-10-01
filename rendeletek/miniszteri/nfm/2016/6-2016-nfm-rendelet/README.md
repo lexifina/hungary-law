@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-6-20-2W
 | 2016-04-02 | 2016-6-20-2W.2 | 2010: CXXX. törvény |
 | 2016-04-07 | 2016-6-20-2W.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-04-08 | 2016-6-20-2W.4 | 2010: CXXX. törvény |
+| 2016-10-01 | 2016-6-20-2W.5 | 2010: CXXX. törvény |
