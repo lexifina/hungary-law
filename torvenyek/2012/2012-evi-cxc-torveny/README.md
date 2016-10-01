@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-190-00-00
 | 2013-01-02 | 2010. évi CXXX. törvény | 2012-190-00-00.4 |
 | 2013-06-08 | 2013. évi LXXIV. törvény | 2012-190-00-00.5 |
 | 2013-11-29 | 2013. évi CXCII. törvény | 2012-190-00-00.6 |
+| 2016-10-01 | 2016. évi LXVII. törvény | 2012-190-00-00.7 |
