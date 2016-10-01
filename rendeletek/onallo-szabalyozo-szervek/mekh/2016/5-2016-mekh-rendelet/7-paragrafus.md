@@ -1,3 +1,1 @@
-## 4–6. §[^3]
-
-[^3]: A 4–6. § a 8. § (2) bekezdése alapján 2016. október 1-jén lép hatályba.
+## 6. § Hatályát veszti az R. 2. § (1) bekezdés r) pontja, V. Rendszerirányítási díjrendszer című fejezete, 53–67. §-a és 9. melléklete.
