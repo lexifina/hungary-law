@@ -1,3 +1,5 @@
+## 6/D. §[^18] A vízitársulatra, valamint a vízitársulat tagjaira, vezető tisztségviselőire vonatkozó, a cégnyilvántartás részét képező jogok, tények és adatok nyilvánosak.
+
 ## A társulat szervezete és működése
 
 7. § (1) A törvény szerinti testületi szervek mellett a társulat alapszabálya ügyviteli és egyéb szervezeti egységekről is rendelkezhet.
@@ -43,3 +45,5 @@ d) az ellenőrző bizottság vagy a cégbíróság indítványozza.
 (6) A taggyűlési jegyzőkönyvekről nyilvántartást kell vezetni, és a jegyzőkönyveket a nyilvántartás mellékleteként kell megőrizni.
 
 (7) A taggyűlésre tanácskozási joggal meg kell hívni a társulat ügyvezetőjét, az ellenőrző bizottság elnökét, továbbá a 2. § (2) bekezdése szerinti szerveket, valamint azt, akinek a meghívását az alapszabály előírja.
+
+[^18]: A 6/D. §-t a 289/2016. (IX. 22.) Korm. rendelet 6. §-a iktatta be.

@@ -8,11 +8,14 @@ c) a tervezett érdekeltségi területen az ingatlantulajdonosok (használók) t
 
 d) víziközmű-társulat esetén a pénzügyi, műszaki számítás elkészítése;
 
-e) az alakuló közgyűlés összehívása.
+e) az alakuló közgyűlés összehívása;
 
-(2)[^2] A társulati közfeladattal érintett érdekeltségi terület meghatározásához a szervezőbizottságnak be kell szereznie az illetékes vízügyi igazgatóság[^3], továbbá víziközmű-társulat szervezése esetén az illetékes önkormányzat jegyzőjének javaslatát. A javaslatokat a helyszínrajz elkészítésénél figyelembe kell venni.
+f)[^7] vízitársulat esetén a szándéknyilatkozatok és a küldöttjelöltek nyilvántartásba vétele.
+
+(2)[^8] A társulati közfeladattal érintett érdekeltségi terület meghatározásához a szervezőbizottságnak be kell szereznie az illetékes vízügyi igazgatóság[^9], továbbá víziközmű-társulat szervezése esetén az illetékes önkormányzat jegyzőjének javaslatát. A javaslatokat a helyszínrajz elkészítésénél figyelembe kell venni.
 
 (3) A szervezőbizottság a társulat nevében jogokat nem szerezhet, kötelezettségeket nem vállalhat, és működése a társulat megalakulásával megszűnik.
 
-[^2]: [A 3. § (2) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 27. § b) pontjával elrendelt módosítása, amely szerint a „KÖVIZIG” szövegrész helyébe a „vízügyi igazgatóság” szöveg lép, nem vezethető át.]
-[^3]: A 269/2003. (XII. 24.) Korm. rendelet 3. §-ának (2) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIZIG-et kell érteni.
+[^7]: A 3. § (1) bekezdés f) pontját a 289/2016. (IX. 22.) Korm. rendelet 3. §-a iktatta be.
+[^8]: [A 3. § (2) bekezdésének a 300/2011. (XII. 22.) Korm. rendelet 27. § b) pontjával elrendelt módosítása, amely szerint a „KÖVIZIG” szövegrész helyébe a „vízügyi igazgatóság” szöveg lép, nem vezethető át.]
+[^9]: A 269/2003. (XII. 24.) Korm. rendelet 3. §-ának (2) bekezdése alapján, ahol a vízügyi igazgatóságot említ azon a KÖVIZIG-et kell érteni.

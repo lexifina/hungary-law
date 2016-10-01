@@ -6,7 +6,7 @@ b) az ellenőrző bizottság elnöke, tagjai.
 
 (2) Tisztségviselő csak a társulat tagja – jogi személy vagy jogi személyiséggel nem rendelkező gazdálkodó szervezet esetén annak képviselője – lehet. Egy tag két tisztségre nem választható.
 
-(3) A társulat ügyvezetője tisztségviselő nem lehet és a tag képviseletét nem láthatja el. A tisztségviselők és az ügyvezető nem lehetnek egymásnak a Ptk. szerinti közeli hozzátartozói.[^6]
+(3) A társulat ügyvezetője tisztségviselő nem lehet és a tag képviseletét nem láthatja el. A tisztségviselők és az ügyvezető nem lehetnek egymásnak a Ptk. szerinti közeli hozzátartozói.[^19]
 
 (4) A tisztségviselőt fel kell menteni, ha
 
@@ -24,4 +24,4 @@ d) a tisztség betöltésére alkalmatlanná vált.
 
 (7) Az intézőbizottság elnöke tevékenységéről a taggyűlésnek évente beszámol.
 
-[^6]: Lásd az 1959: IV. törvény 685. §-ának b) pontját.
+[^19]: Lásd az 1959: IV. törvény 685. §-ának b) pontját.
