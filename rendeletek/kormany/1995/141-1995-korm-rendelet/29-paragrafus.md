@@ -1,13 +1,13 @@
-29. §[^43] Ez a rendelet
+29. §[^44] Ez a rendelet
 
 a) a polgári repülés területén közös szabályokról és az Európai Repülésbiztonsági Ügynökség létrehozásáról, valamint a 91/670/EK tanácsi rendelet, 1592/2002/EK rendelet és a 2004/36/EK irányelv hatályon kívül helyezéséről szóló, 2008. február 20-i 216/2008/EK európai parlamenti és a tanácsi rendeletnek,
 
-b)[^44] a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendeletnek,
+b)[^45] a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendeletnek,
 
-c)[^45] a léginavigációs szolgálatok ellátására vonatkozó közös követelmények megállapításáról, valamint a 482/2008/EK és a 691/2010/EU rendelet módosításáról szóló, 2011. október 17-i 1035/2011/EU bizottsági végrehajtási rendelet II. melléklet 4. pontjának
+c)[^46] a léginavigációs szolgálatok ellátására vonatkozó közös követelmények megállapításáról, valamint a 482/2008/EK és a 691/2010/EU rendelet módosításáról szóló, 2011. október 17-i 1035/2011/EU bizottsági végrehajtási rendelet II. melléklet 4. pontjának
 
 a végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-[^43]: A Vhr. 29. §-át a 242/2005. (X. 28.) Korm. rendelet 7. §-a iktatta be, szövege a 108/2010. (IV. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^44]: A Vhr. 29. § b) pontja a 246/2016. (VIII. 17.) Korm. rendelet 1. § b) pontjával megállapított szöveg.
-[^45]: A Vhr. 29. § c) pontja a 88/2012. (IV. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^44]: A Vhr. 29. §-át a 242/2005. (X. 28.) Korm. rendelet 7. §-a iktatta be, szövege a 108/2010. (IV. 9.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^45]: A Vhr. 29. § b) pontja a 246/2016. (VIII. 17.) Korm. rendelet 1. § b) pontjával megállapított szöveg.
+[^46]: A Vhr. 29. § c) pontja a 88/2012. (IV. 26.) Korm. rendelet 2. §-ával megállapított szöveg.
