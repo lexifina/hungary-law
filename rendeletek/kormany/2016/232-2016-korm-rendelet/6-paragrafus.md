@@ -1,0 +1,3 @@
+## 5. § A mezőgazdasági vízszolgáltatás díjképzési rendjéről szóló 115/2014. (IV. 3.) Korm. rendelet (a továbbiakban: R2.) 2. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A mezőgazdasági vízszolgáltató a költségkalkulációt az elkészítését követő 8 napon belül megküldi a mezőgazdasági vízhasználók, valamint a területi vízügyi igazgatási szerv részére. Ha a területi vízügyi igazgatási szerv végzi a mezőgazdasági vízszolgáltatást, az Országos Vízügyi Főigazgatóságnak küldi meg a költségkalkulációt. Vízszolgáltatási szerződés csak a területi vízügyi igazgatási szerv vagy – ha a területi vízügyi igazgatási szerv a vízszolgáltató – az Országos Vízügyi Főigazgatóság által előzetesen jóváhagyott költségkalkuláció alkalmazásával köthető.”
