@@ -1,4 +1,4 @@
-6. § (1) Ha az elemzés alapján lehetőség van az elosztó vagy átviteli hálózathoz csatlakozó új szélerőművi termelő kapacitás létesítésére, a Hivatal elkészíti a kiírási dokumentációt, valamint a VET 7. § (3) bekezdése szerint – az elemzés közzétételét követő 30 napon belül – hirdetményt tesz közzé saját honlapján, az Európai Unió Hivatalos Lapjában, valamint legalább két országos napilapban. A hirdetmény közzétételén az Európai Unió Hivatalos Lapjában történő közzététel napját kell érteni.
+6. § (1)[^10] A Hivatal az elemzést követően az energiapolitikáért felelős miniszter felkérésére elkészíti a kiírási dokumentációt, valamint hirdetményt tesz közzé saját honlapján, az Európai Unió Hivatalos Lapjában, valamint legalább két országos napilapban. A hirdetmény közzétételén az Európai Unió Hivatalos Lapjában történő közzététel napját kell érteni.
 
 (2) A hirdetménynek tartalmaznia kell a kiírási dokumentáció beszerzésének helyét, módját és határidejét, a kiíró megnevezését, valamint a kiírás tárgyát.
 
@@ -29,3 +29,5 @@ d) a 7. § szerinti konzultáció feltételeit,
 e) a 18. § szerinti forrás rendelkezésre állásának igazolására vonatkozó feltételeket,
 
 f) az értékelés jogszabályi kereteken belüli további részletes szempontjait, valamint az eredmény közzétételének módját.
+
+[^10]: A 6. § (1) bekezdése a 38/2016. (IX. 16.) NFM rendelet 2. §-ával megállapított szöveg.

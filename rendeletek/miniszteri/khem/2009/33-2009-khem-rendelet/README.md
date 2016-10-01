@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-33-20-2
 | 2010-06-19 | 2009-33-20-2M.3 | 1/2010. (VI. 18.) NFM rendelet |
 | 2010-12-16 | 2009-33-20-2M.4 | 20/2010. (XII. 8.) NFM rendelet |
 | 2014-03-15 | 2009-33-20-2M.5 | 12/2014. (III. 14.) NFM rendelet |
+| 2016-10-01 | 2009-33-20-2M.6 | 38/2016. (IX. 16.) NFM rendelet |
