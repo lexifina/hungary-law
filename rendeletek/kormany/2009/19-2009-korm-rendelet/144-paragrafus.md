@@ -1,19 +1,19 @@
-144. §[^474] (1) Az engedélyes a 100. §-ban részletezett tevékenységeket saját szervezetén belül köteles végezni.
+144. §[^476] (1) Az engedélyes a 100. §-ban részletezett tevékenységeket saját szervezetén belül köteles végezni.
 
 (2) Az engedélyes a 100. § alá nem tartozó tevékenységek tekintetében jogosult
 
-a)[^475] bármely személyt felhatalmazni arra, hogy a működési engedélyében meghatározott tevékenységeket a Hivatal hozzájáruló határozata alapján,
+a)[^477] bármely személyt felhatalmazni arra, hogy a működési engedélyében meghatározott tevékenységeket a Hivatal hozzájáruló határozata alapján,
 
-b)[^476] bármely személyt felhatalmazni arra, hogy a működési engedélyében az a) pont szerint meg nem határozott tevékenységeket a Hivatal előzetes értesítése mellett szerződés alapján
+b)[^478] bármely személyt felhatalmazni arra, hogy a működési engedélyében az a) pont szerint meg nem határozott tevékenységeket a Hivatal előzetes értesítése mellett szerződés alapján
 
 lássa el.
 
-(3)[^477]
+(3)[^479]
 
-(4)–(5)[^478]
+(4)–(5)[^480]
 
-[^474]: A Vhr. 144. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^475]: A Vhr. 144. § (2) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 669. §-a, a 254/2015. (IX. 10.) Korm. rendelet 21. § m) pontja szerint módosított szöveg.
-[^476]: A Vhr. 144. § (2) bekezdés b) pontja a 254/2015. (IX. 10.) Korm. rendelet 21. § m) pontja szerint módosított szöveg.
-[^477]: A Vhr. 144. § (3) bekezdését a 75/2011. (V. 2.) Korm. rendelet 28. § (1) bekezdése hatályon kívül helyezte.
-[^478]: A Vhr. 144. § (4)–(5) bekezdését a 300/2013. (VII. 29.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^476]: A Vhr. 144. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^477]: A Vhr. 144. § (2) bekezdés a) pontja a 182/2009. (IX. 10.) Korm. rendelet 669. §-a, a 254/2015. (IX. 10.) Korm. rendelet 21. § m) pontja szerint módosított szöveg.
+[^478]: A Vhr. 144. § (2) bekezdés b) pontja a 254/2015. (IX. 10.) Korm. rendelet 21. § m) pontja szerint módosított szöveg.
+[^479]: A Vhr. 144. § (3) bekezdését a 75/2011. (V. 2.) Korm. rendelet 28. § (1) bekezdése hatályon kívül helyezte.
+[^480]: A Vhr. 144. § (4)–(5) bekezdését a 300/2013. (VII. 29.) Korm. rendelet 20. §-a hatályon kívül helyezte.
