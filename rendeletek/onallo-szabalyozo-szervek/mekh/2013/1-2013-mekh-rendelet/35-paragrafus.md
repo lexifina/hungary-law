@@ -1,5 +1,5 @@
-## 34. §[^145]
+## 34. §[^160]
 
 ## 18. A napi megszakítható elosztási kapacitás-lekötés szabályai az átadási-átvételi pontokon, kapacitáslekötés-típusonként
 
-[^145]: A 34. §-t a 2/2015. (IV. 14.) MEKH rendelet 21. § b) pontja hatályon kívül helyezte.
+[^160]: A 34. §-t a 2/2015. (IV. 14.) MEKH rendelet 21. § b) pontja hatályon kívül helyezte.

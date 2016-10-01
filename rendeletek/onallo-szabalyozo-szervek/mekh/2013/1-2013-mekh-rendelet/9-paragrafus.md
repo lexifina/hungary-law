@@ -1,3 +1,5 @@
+## 8. §
+
 ## VI. Fejezet
 
 ## SZÁLLÍTÁSI RENDSZERÜZEMELTETÉSI DÍJRENDSZER
@@ -14,7 +16,7 @@ c) szagosítási díjat
 
 (2) A szállítási rendszerüzemeltetési díj nyújt fedezetet a szállítóvezeték és szagosító rendszerek indokolt értékcsökkenésére, működési és tőkeköltségére, valamint a szállítóvezeték indokolt hálózati veszteségére. A szállítási rendszerüzemeltetési díj nem nyújt fedezetet a külön díj ellenében végezhető szolgáltatások köréről és díjairól szóló rendeletben meghatározott egyéb szolgáltatásokkal kapcsolatban felmerülő költségekre.
 
-(3)[^58] A szállítási rendszerüzemeltetési díj és alkalmazási feltételei a 2. § (1) bekezdés a) pont aa) alpontja – kivéve az aah) alpont szerinti átadási-átvételi pontot – és ac) alpontja szerinti átadási-átvételi pontokra vonatkoznak.
+(3)[^64] A szállítási rendszerüzemeltetési díj és alkalmazási feltételei a 2. § (1) bekezdés a) pont aa) alpontja – kivéve az aah) alpont szerinti átadási-átvételi pontot – és ac) alpontja szerinti átadási-átvételi pontokra vonatkoznak.
 
 (4) A szállítóvezeték igénybevétele esetén a szállítási rendszerüzemeltető részére a szállítási kapacitásdíjat és a szállítási forgalmi díjat
 
@@ -42,21 +44,21 @@ e) a földgáztermelő
 
 (10) A részleges szigetüzem esetében az összevont kiadási pontra a szállítóvezetékről igénybe vett kiadási kapacitás után szállítási kapacitás díjat és az allokált mennyiség termeléssel arányosan csökkentett mértéke után a szállítási forgalmi díjat, valamint a teljes allokált mennyiségre vonatkozóan a szagosítási díjat meg kell fizetni a szállítási rendszerüzemeltető részére.
 
-(11)[^59] A 2. § (1) bekezdés a) pont aa) alpont aaj) alpontjában lévő kiadási pontra vonatkozó szállítási kapacitási díj a következő árszabályozási ciklus kezdetéig a 2. § (1) bekezdés a) pont aa) alpont aaa) alpontjában meghatározott kiadási pontra vonatkozó eszköz- és költség-felülvizsgálat, valamint árkorrekció figyelembevételével kerül megállapításra.
+(11)[^65] A 2. § (1) bekezdés a) pont aa) alpont aaj) alpontjában lévő kiadási pontra vonatkozó szállítási kapacitási díj a következő árszabályozási ciklus kezdetéig a 2. § (1) bekezdés a) pont aa) alpont aaa) alpontjában meghatározott kiadási pontra vonatkozó eszköz- és költség-felülvizsgálat, valamint árkorrekció figyelembevételével kerül megállapításra.
 
-(12)[^60]
+(12)[^66]
 
 (13) A földgázpiaci egyetemes szolgáltatáshoz kapcsolódó árak képzéséről szóló 29/2009. (VI. 25.) KHEM rendelet (a továbbiakban: ESZ rendelet) 6. § (4) bekezdése szerinti fajlagos értéket a 3. melléklet 1. pontja tartalmazza.
 
 (14) Az R. 3/A. § (1) bekezdése szerinti visszatérítés mértékét a 3. melléklet 2. pontja, az R. 3/A. § (2) bekezdése szerinti táblázatot a 3. melléklet 3. pontja tartalmazza.
 
-(15)[^61] A földgázszállító hálózatokhoz való hozzáférés feltételeiről és az 1775/2005/EK rendelet hatályon kívül helyezéséről szóló 715/2009/EK európai parlamenti és tanácsi rendelet szerinti
+(15)[^67] A földgázszállító hálózatokhoz való hozzáférés feltételeiről és az 1775/2005/EK rendelet hatályon kívül helyezéséről szóló 715/2009/EK európai parlamenti és tanácsi rendelet szerinti
 
 a) lekötött kapacitás visszaadása, illetve
 
 b) hosszú távú lekötött kapacitás visszavétele
 
-[^58]: A 9. § (3) bekezdése a 13/2015. (XII. 11.) MEKH rendelet 11. § d) pontja szerint módosított szöveg.
-[^59]: A 9. § (11) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § e) pontja szerint módosított szöveg.
-[^60]: A 9. § (12) bekezdését a 8/2014. (IX. 15.) MEKH rendelet 15. § b) pontja hatályon kívül helyezte.
-[^61]: A 9. § (15) bekezdését az 5/2016. (VIII. 16.) MEKH rendelet 2. §-a iktatta be.
+[^64]: A 9. § (3) bekezdése a 13/2015. (XII. 11.) MEKH rendelet 11. § d) pontja szerint módosított szöveg.
+[^65]: A 9. § (11) bekezdése a 6/2013. (XII. 16.) MEKH rendelet 25. § e) pontja szerint módosított szöveg.
+[^66]: A 9. § (12) bekezdését a 8/2014. (IX. 15.) MEKH rendelet 15. § b) pontja hatályon kívül helyezte.
+[^67]: A 9. § (15) bekezdését az 5/2016. (VIII. 16.) MEKH rendelet 2. §-a iktatta be.
