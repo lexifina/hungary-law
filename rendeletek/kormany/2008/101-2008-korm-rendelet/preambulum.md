@@ -1,1 +1,0 @@
-A Kormány az Európai Közösségek saját forrásainak rendszeréről szóló 2007. június 7-i 2007/436/EK, Euratom tanácsi határozat kihirdetéséről szóló 2008. évi XII. törvény 5. §-ának (5) bekezdésében kapott felhatalmazás alapján, az Alkotmány 35. §-a (1) bekezdés b) pontjában meghatározott feladatkörében eljárva a következőket rendeli el:
