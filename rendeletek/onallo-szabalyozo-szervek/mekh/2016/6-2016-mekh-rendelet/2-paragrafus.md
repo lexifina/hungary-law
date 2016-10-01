@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 3. § (2) bekezdése alapján 2016. október 1-jén lép hatályba.
+## 1. § A földgáz rendszerhasználati díjakról, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályairól, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakról, valamint a rendszerhasználati díjak alkalmazásának feltételeiről szóló 1/2013. (VII. 11.) MEKH rendelet 2. melléklete helyébe az 1. melléklet lép.
