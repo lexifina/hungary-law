@@ -22,9 +22,15 @@ j) ha a vízkészletjárulék tárgyévre vonatkozó összege nem haladja meg az
 
 k) kármentesítés céljából történő vízkivétel esetén, ha az hatósági kötelezés vagy engedély alapján történt,
 
-l) öntözési, rizstermelési és halgazdasági vízhasználatok vonatkozásában.
+l) az öntözési célú vízhasználat esetében vízhasználónként az évi 50 000 m3-t, a halgazdálkodási és rizstermelési célú vízhasználat esetében vízhasználónként az évi 150 000 m3-t meg nem haladó vízmennyiség után,
 
-(2) Az (1) bekezdés f), g) és l) pontjában foglalt esetben a vízkészletjárulék-fizetési kötelezettség alóli mentesítés nem érinti a vízhasználatra vonatkozó, 15/E. § szerinti nyilatkozattételi és adatszolgáltatási kötelezettségeket.
+m) a (9) bekezdés szerinti tartósan vízhiányos időszakban az öntözési, halgazdálkodási és rizstermelési vízhasználat vízmennyisége után,
+
+n) a vízügyi hatósági jogkörben kiadott vízjogi engedélyben megadott vízmennyiségből a tél végi többletvizek – felszíni vizek, ár- és belvizek – visszatartásából és tározásából származó hasznosított vízkészlet után, amennyiben a vízügyi igazgatási szerv igazolja, hogy a vízkivételi ponton a többlet felszíni víz mennyisége rendelkezésre áll.
+
+(1a) Az (1) bekezdés l) pontja szerinti vízkészletjárulék fizetési kötelezettségre vonatkozó rendelkezéstől az állam szociális, környezeti és gazdasági hatásokra, valamint a földrajzi és éghajlati jellemzőkre alapított okból a vízhasználó javára eltérhet.
+
+(2) Az (1) bekezdés f), g), l)–n) pontjában foglalt esetben, továbbá az (1) bekezdés c) pontjában foglalt azon esetben, ha az engedélyes a vízügyi hatósági jogkörben kiadott vízjogi engedéllyel rendelkezik, a vízkészletjárulék-fizetési kötelezettség alóli mentesség nem érinti a vízhasználatra vonatkozó, a 15/E. § szerinti nyilatkozattételi és adatszolgáltatási kötelezettségeket.
 
 (3) A vízhasználónak az (1) bekezdés b) és f) pontjaiban megjelölt mentesség megállapítását az ok bekövetkezésétől számított hatvan napon belül az illetékes vízügyi hatóságtól kell kérnie. Hatvan nap után a mentességre hivatkozni nem lehet.
 
@@ -37,3 +43,5 @@ l) öntözési, rizstermelési és halgazdasági vízhasználatok vonatkozásáb
 (7) Azt, hogy a vízkészletjárulék az államháztartás mely szervezete javára számolható fel, továbbá annak mértékét külön jogszabály állapítja meg.
 
 (8) A vízhasználó a kizárólag energiahasznosítás céljából kitermelt termálvíz használatára tekintettel általa fizetendő víz-készletjárulékot – legfeljebb a vízkészletjárulék összege erejéig – csökkentheti a termálvíz visszatáplálását biztosító kút kialakításával, illetve a berendezések korszerűsítésével összefüggésben, az adóévben felmerült igazolt és a vízügyi hatósági feladatokat ellátó szerv által elfogadott költségének az összegével.
+
+(9) A tartósan vízhiányos időszak várható kezdetét és végét a hidrometeorológiai előrejelzések figyelembevételével a vízgazdálkodásért felelős miniszter a Hivatalos Értesítőben közleményben közzéteszi.

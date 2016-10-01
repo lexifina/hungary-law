@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdésben megjelölt feladat:
 
-a) a vízbázisvédelem ellátása, a vízkészletek átcsoportosítását szolgáló vízelosztó rendszerek — ideértve a csatornákat is — létesítése, fenntartása és üzemeltetése, továbbá a többes rendeltetésű rendszerek fenntartása és üzemeltetése;
+a) vízbázisvédelem ellátása;
 
 b) a vízfolyások medrében (így például a kis-, a közép-, a nagyvízi mederben és a mellékágakban) a víz, a hordalék, a jég zavartalan levonulási lehetőségének megteremtése, a folyószabályozási, mederfenntartási munkálatok elvégzése, valamint a hajózható folyószakaszokon, természetes tavakon, csatornákon a hajóút kijelölése, kitűzése és fenntartása;
 
@@ -14,7 +14,9 @@ e) a vízépítési műtárgyak (vízlépcsők) — fenntartása és üzemeltet�
 
 f) a belvízelvezető művek (így például a belvízcsatornák, szivattyútelepek, belvíztározók) létesítése, fenntartása, bővítése, a belvízvédekezés irányítása és végrehajtása;
 
-g) a vízkészlet-gazdálkodási célú feladatokat ellátó vízátvezető csatornák bővítése és üzemeltetése.
+g) a vízkészlet-gazdálkodási célú feladatokat ellátó vízátvezető csatornák bővítése és üzemeltetése;
+
+h) a vízkészletek átcsoportosítását szolgáló vízelosztó rendszerek – ideértve a csatornákat is – létesítése, fenntartása és üzemeltetése, a többes rendeltetésű rendszerek fenntartása és üzemeltetése, valamint a mezőgazdasági vízszolgáltatás biztosítása.
 
 (3) A helyi önkormányzat tulajdonában lévő vizekről és vízilétesítményekről a 9–10. §-okban és a 13. §-ban foglaltakra is figyelemmel a központi és az önkormányzati költségvetésben meghatározott pénzeszközök felhasználásával, illetve a külön törvényben szabályozott vízitársulat útján lehet gondoskodni.
 
