@@ -1,5 +1,0 @@
-3. § (1) Az egyes önkormányzatokat az 1–2. § alapján megillető járandóságok értékét az 1. számú melléklet tartalmazza, amely a 2000. augusztus 12-i átszámított értékeket tünteti fel.
-
-(2) Az 1. számú melléklet a szétválással vagy kiválással létrejött új településeket a szétválással vagy kiválással érintett eredeti jogosult településsel egy sorban tartalmazza (kivéve, ha az érintett önkormányzatok kérték járandóságuk szétválasztását és a megosztás tekintetében is megegyeztek). Az egy sorban szereplő települések önkormányzatai együttesen jogosultak a melléklet szerinti járandóság átvételére, az egymás közötti megosztásra megállapodásuk irányadó.
-
-(3) Nem lehet üzleti titokra hivatkozni azon tények, adatok vonatkozásában, amelyek ismerete nélkül az önkormányzati járandóságok értékének megállapítására nem kerülhetett volna sor. Az érintett önkormányzat kérésére, a kéréstől számított 15 napon belül, kötelező írásban kiszolgáltatni a rá vonatkozó adatokat – ideértve a települések közötti külterületi vezetékvagyonra vonatkozó adatokat is – és kétség esetén azok valódiságát okiratokkal igazolni.
