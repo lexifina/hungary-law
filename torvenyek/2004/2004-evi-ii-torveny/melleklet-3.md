@@ -1,6 +1,8 @@
 3. melléklet a 2004. évi II. törvényhez
 
-A városi, a megyei jogú városi, a fővárosi és a kerületi önkormányzat tulajdonában álló közterületek filmforgatási célú használatának díjai a használat célja szerint
+A települési önkormányzat tulajdonában álló közterületek filmforgatási célú használatának díjai a
+
+használat célja szerint
 
 |
 
@@ -26,29 +28,59 @@ E
 
 |
 
+F
+
+|
+
 1
 
 |
 
-Közterület megnevezése
+Közterületbesorolás
 
 |
 
-Forgatási helyszín
+forgatási terület
 
 |
 
-Technikai kiszolgálás
+technikai terület
 
 |
 
-Stáb parkolás
+stáb-
+
+parkolási terület
 
 |
 
-Ha valamely közterület
+kiürítési terület
 
-a táblázat alapján két különböző díjkategóriába eső területet is magában foglal, a közterület filmforgatási célú használatának díját a magasabb díjtétel szerinti kategória alapján kell meghatározni
+|
+
+forgalom-
+
+technikai biztonsági terület
+
+|
+
+Ft/m2/nap
+
+|
+
+Ft/m2/nap
+
+|
+
+Ft/m2/nap
+
+|
+
+Ft/m2/nap
+
+|
+
+Ft/m2/nap
 
 |
 
@@ -56,17 +88,61 @@ a táblázat alapján két különböző díjkategóriába eső területet is ma
 
 |
 
-|
+A világörökségről szóló
 
-Ft/m2/nap
+2011. évi LXXVII. törvény
 
-|
-
-Ft/m2/nap
+1. mellékletében felsorolt világörökségi területek és Budapest turisztikailag kiemelt központi területei
 
 |
 
-Ft/m2/nap
+2 084
+
+|
+
+1 042
+
+|
+
+521
+
+|
+
+521
+
+|
+
+100
+
+|
+
+töredéknap esetén
+
+1042
+
+|
+
+töredéknap esetén
+
+521
+
+|
+
+töredéknap esetén
+
+261
+
+|
+
+töredéknap esetén
+
+261
+
+|
+
+töredéknap esetén
+
+50
 
 |
 
@@ -74,19 +150,57 @@ Ft/m2/nap
 
 |
 
-a Világörökségről szóló 2011. évi LXXVII. törvényben felsorolt budapesti világörökségi területek és Budapest turisztikailag kiemelt központi területei
+Budapest nagykörúton belüli területei, valamint Budapest Gellérthegy, Krisztinaváros, Rézmál, Rózsadomb, Tabán, Vérhalom,Viziváros városrészei
 
 |
 
-2 000
+833
 
 |
 
-1 000
+416
 
 |
 
-500
+208
+
+|
+
+208
+
+|
+
+40
+
+|
+
+töredéknap esetén
+
+416
+
+|
+
+töredéknap esetén
+
+208
+
+|
+
+töredéknap esetén
+
+104
+
+|
+
+töredéknap esetén
+
+104
+
+|
+
+töredéknap esetén
+
+20
 
 |
 
@@ -94,19 +208,57 @@ a Világörökségről szóló 2011. évi LXXVII. törvényben felsorolt budapes
 
 |
 
-Budapest nagykörúton belüli területei, valamint Budapest Gellérthegy, Krisztinaváros, Rézmál, Rózsadomb, Tabán, Vérhalom, Víziváros városrészei
+Budapest közigazgatási területe a nagykörúton kívül
 
 |
 
-800
+312
 
 |
 
-400
+156
 
 |
 
-200
+104
+
+|
+
+104
+
+|
+
+10
+
+|
+
+töredéknap esetén
+
+156
+
+|
+
+töredéknap esetén
+
+78
+
+|
+
+töredéknap esetén
+
+52
+
+|
+
+töredéknap esetén
+
+52
+
+|
+
+töredéknap esetén
+
+5
 
 |
 
@@ -114,19 +266,57 @@ Budapest nagykörúton belüli területei, valamint Budapest Gellérthegy, Krisz
 
 |
 
-Budapest közigazgatási területe a nagykörúton kívül
+a város, a megyei jogú város, a járásszékhely város, a község díszburkolatos vagy turisztikailag kiemelt központi területei
 
 |
 
-300
+521
 
 |
 
-150
+208
 
 |
 
-100
+208
+
+|
+
+208
+
+|
+
+20
+
+|
+
+töredéknap esetén
+
+261
+
+|
+
+töredéknap esetén
+
+104
+
+|
+
+töredéknap esetén
+
+104
+
+|
+
+töredéknap esetén
+
+104
+
+|
+
+töredéknap esetén
+
+10
 
 |
 
@@ -134,44 +324,72 @@ Budapest közigazgatási területe a nagykörúton kívül
 
 |
 
-a város, a megyei jogú város díszburkolatos vagy turisztikailag kiemelt központi területei
+a város, a megyei jogú város, a járásszékhely város, a község nem díszburkolatos vagy nem turisztikailag kiemelt központi területei
 
 |
 
-500
+208
 
 |
 
-200
+156
 
 |
 
-200
+104
 
 |
 
-7
+104
 
 |
 
-a város, a megyei jogú város közigazgatási területének nem díszburkolatos vagy nem turisztikailag kiemelt központi területei
+10
 
 |
 
-200
+töredéknap esetén
+
+104
 
 |
 
-150
+töredéknap esetén
+
+78
 
 |
 
-100
+töredéknap esetén
 
-E melléklet alkalmazásában:
+52
 
-1. Forgatási helyszín: a forgatás során a felvételi képmezőben szereplő színészek, egyéb közreműködők, díszletelemek, berendezési tárgyak, kellékek, járművek által elfoglalt terület;
+|
 
-2. Technikai kiszolgálás: a forgatási helyszín közvetlen környezetében felvonuló, a forgatás technikai megvalósulását elősegítő eszközök (különösen kamerák, világító és hangrögzítő berendezések), az azt kezelő stáb, műszaki személyzet, a forgatást közvetlenül kiszolgáló egyéb egységek és járművek által elfoglalt terület;
+töredéknap esetén
 
-3. Stáb parkolás: Az 1–2. kategóriába nem tartozó, a forgatás és a technikai kiszolgálás helyszínétől területileg elválasztható háttér-kiszolgáló egységek és járművek által elfoglalt terület.
+52
+
+|
+
+töredéknap esetén
+
+5
+
+|
+
+|
+
+A melléklet alkalmazásában:
+
+|
+
+a) forgalomtechnika biztonsági terület: A filmforgatás által nem használt, de a filmforgatás érdekében a gyalogos és a járműközlekedés elől elzárt terület. A biztonsági terület nagyságának a forgatási terület nagyságával arányos mértékben kell állnia. Az arányosság mértéke a közútkezelője által elfogadott forgalomtechnikai terv alapján kerül meghatározásra.
+
+b) forgatási terület: A filmforgatás során a felvételi képmezőben szereplő színészek, egyéb közreműködők, díszletelemek, berendezési tárgyak, kellékek, járművek által elfoglalt terület.
+
+c) kiürítési terület: A b), d) és e) pont szerinti kategóriákba tartozó területeken, a filmforgatási napot megelőző napon, kifejezetten a filmforgatási, technikai, illetve a parkolási terület kiürítésének szándékával igénybe vett terület, amennyiben a területen a d) pont szerinti tevékenységen kívül más nem történik.
+
+d) stábparkolási terület: A b) és e) pont szerinti kategóriákba nem tartozó, a forgatás és technikai kiszolgálás helyszínétől területileg elválasztható háttérkiszolgáló egységek és járművek által elfoglalt terület.
+
+e) technikai terület: A filmforgatási helyszín közvetlen környezetében felvonuló, a filmforgatás technikai megvalósulását elősegítő eszközök (különösen kamerák, világító és hangrögzítő berendezések), az azt kezelő stáb, műszaki személyzet, a filmforgatást közvetlenül kiszolgáló egyéb egységek és járművek által elfoglalt terület.

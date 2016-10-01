@@ -1,16 +1,16 @@
 ## IV. Fejezet
 
-## A TELEPÜLÉSI ÖNKORMÁNYZAT TULAJDONÁBAN ÁLLÓ KÖZTERÜLET FILMFORGATÁSI CÉLÚ HASZNÁLATA
+## A KÖZTERÜLETEK ÉS AZ ÁLLAM TULAJDONÁBAN ÁLLÓ EGYÉB INGATLANOK FILMFORGATÁSI CÉLÚ HASZNÁLATA
 
-34. § (1) A települési önkormányzat tulajdonában álló közterület filmalkotás forgatása céljából történő igénybevételére e fejezetet kell alkalmazni. E fejezet alkalmazásában
+34. § (1) A települési önkormányzat tulajdonában álló közterület, valamint a nemzeti vagyonról szóló törvény (a továbbiakban: Nvt.) szerinti tulajdonosi joggyakorló tulajdonosi joggyakorlása alatt álló ingatlan – a kiemelt nemzeti emlékhely kivételével – filmalkotás forgatása céljából történő igénybevételére e fejezetet kell alkalmazni. E fejezet alkalmazásában
 
 a) filmalkotásnak minősül a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló törvény hatálya alá tartozó reklámfilm is,
 
-b) filmforgatási célú közterület-használatnak minősül a közterület használata akkor is, ha az csak a filmforgatáshoz kapcsolódó technikai jellegű tevékenységhez, illetve a stáb parkolásához szükséges.
+b) filmforgatási célú közterület-használatnak minősül a közterület használata akkor is, ha az csak a filmforgatáshoz kapcsolódó technikai jellegű tevékenységhez, illetve a stáb parkolásához, a kiürítéshez, a forgalomtechnikai biztonság biztosításához szükséges.
 
 (2) Kérelmet filmelőállító vagy filmgyártó vállalkozás (a továbbiakban együtt: kérelmező) nyújthat be.
 
-(3) A települési önkormányzat képviselő-testülete a települési önkormányzat tulajdonában álló közterületek filmforgatási célú használatát legfeljebb a 3. mellékletnek – községi önkormányzat képviselő-testülete pedig a rendeletében foglalt felső határnak – megfelelő mértékben meghatározott díj ellenében biztosíthatja. A közterület használatáért megállapított díj a tulajdonos települési önkormányzatot illeti. A 3. melléklet szerinti legmagasabb díjak évente a tárgyévet megelőző második évre közzétett éves fogyasztói árindexek szorzatával növelt mértékben emelkednek. A 3. melléklet e bekezdés szerinti módosított díjtételeit a fővárosi és megyei kormányhivatal és a saját honlappal rendelkező települési önkormányzat a 2014. évtől kezdve az adott év elején a honlapján közzéteszi.
+(3) A települési önkormányzat a közterületek filmforgatási célú használatát legfeljebb a 3. mellékletnek megfelelő mértékben meghatározott díj ellenében biztosíthatja. A naptári napon legfeljebb hat órával átnyúló éjszakai forgatások esetében a töredéknapra a 3. mellékletben meghatározott összegeket kell alkalmazni. A közterület használatáért megállapított díj a tulajdonosi joggyakorlót illeti meg. A 3. melléklet szerinti legmagasabb díjak évente a tárgyévet megelőző második évre közzétett éves fogyasztói árindexek szorzatával növelt mértékben emelkednek. A 3. melléklet e bekezdés szerinti módosított díjtételeit az MNF és a saját honlappal rendelkező települési önkormányzat az adott év elején honlapján közzéteszi.
 
 (4) A közterület filmforgatási célú használata csak az elkerülhetetlenül szükséges mértékben korlátozhatja a közterülettel határos magántulajdonú ingatlanok használatát, és a korlátozás nem jelenthet aránytalan terhet a tulajdonos számára.
 
