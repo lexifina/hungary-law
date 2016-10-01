@@ -1,14 +1,4 @@
-## 4. § A 3,50% (m/m)-ot meghaladó kéntartalmú, tengeri hajózásban használatos tüzelő- és üzemanyagot csak a 9. § szerinti zárt rendszerekben működő kibocsátás-csökkentési módszereket alkalmazó hajók ellátására lehet használni.
-
-5. § (1) Tengeri hajózásban használatos üzemanyag SOx kibocsátás-szabályozási területen fekvő, kizárólagos gazdasági övezetben és környezetszennyezés-ellenőrzési területen
-
-a) a MARPOL VI. melléklet 14. rendelkezés (3) bekezdés a) pontjában meghatározott balti-tengeri körzetben 2006. augusztus 11-től kezdődően,
-
-b) az Északi-tengeren az IMO által történő kijelölést követő 12 hónap vagy 2007. augusztus 11. közül a korábbi időpontot követően,
-
-c) a MARPOL VI. melléklet 14. rendelkezés (3) bekezdés b) pontja alapján kijelölt bármely tengerszakaszon, beleértve a kikötőket, a kijelölés hatálybalépését követő 12 hónap eltelte után,
-
-akkor hozható forgalomba, illetve használható fel hajón, ha kéntartalma legfeljebb 0,10% (m/m).
+5. § (1)[^9] Tengeri hajózásban használatos üzemanyag SOx kibocsátás-szabályozási területen fekvő, kizárólagos gazdasági övezetben és környezetszennyezés-ellenőrzési területen akkor hozható forgalomba, illetve használható fel hajón, ha a kéntartalma legfeljebb 0,10% (m/m). A forgalombahozatal, a felhasználás kezdő időpontja a kijelölés hatálybalépését követő 12 hónap minden olyan tengerszakasz tekintetében, beleértve a kikötőket is, amelyet az IMO a MARPOL VI. mellékletének 14. szabályának (3) bekezdése b) alpontjával összhangban a SOx-kibocsátás-ellenőrzési területének kijelöl.
 
 (2) Az (1) bekezdésben foglaltak végrehajtásáért a forgalomba hozatal tekintetében az üzemanyag-forgalmazó, a felhasználás tekintetében a magyar lajstromban nyilvántartott tengeri hajó üzemeltetője, illetve parancsnoka felel.
 
@@ -29,3 +19,5 @@ ca) eljárjon a nem megfelelő minőségű tengeri hajózásban használatos tü
 cb) határozatban kötelezze a tengeri hajózásban használatos tüzelő-, illetve üzemanyag nem megfelelő minőségéért felelős forgalmazót arra, hogy a tüzelő-, illetve üzemanyag megfelelővé finomításának költségeit viselje.
 
 (6) Hajózási üzemanyag akkor hozható forgalomba, ha kéntartalma legfeljebb 1,50% (m/m).
+
+[^9]: Az 5. § (1) bekezdése a 40/2016. (IX. 30.) NFM rendelet 6. § (2) bekezdésével megállapított szöveg.
