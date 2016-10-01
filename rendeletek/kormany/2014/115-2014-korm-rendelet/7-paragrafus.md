@@ -1,1 +1,1 @@
-## szolgáltatási szerződés tartalmazza.
+## szerződés tartalmazza.

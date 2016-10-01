@@ -8,16 +8,16 @@ c) az a) pont szerinti létesítmények, eszközök értékcsökkenését, illet
 
 d) az engedélyezési hatósági eljárásért fizetett illetéket vagy igazgatási szolgáltatási díjat, a jogszabályon alapuló környezetvédelmi kötelezettségek teljesítése érdekében végzett beruházások, mérések és vizsgálatok költségét.
 
-(2) Az (1) bekezdésben szabályozott ráfordításokat és költségeket
+(2)[^4] Az (1) bekezdésben szabályozott ráfordításokat és költségeket
 
-a) az egy mezőgazdasági vízszolgáltatási idényre eső üzemeltetési költségeknek és ráfordításoknak az előző öt év átlaga és az éves infláció figyelembevételével,
+a) az egy mezőgazdasági vízszolgáltatási idényre eső üzemeltetési költségeknek az előző öt év átlaga és az éves infláció figyelembevételével,
 
-b) az egy mezőgazdasági vízszolgáltatási idényre eső fenntartási költségeknek és ráfordításoknak az adott évre országosan megállapított fajlagos költségeinek figyelembevételével,
-
-c) az egy éven túli fenntartási, karbantartási költségek esetében az 1. melléklet 2. táblázata alapján, a fenntartási feladatok ciklusidejének figyelembevételével
+b) a fenntartási és karbantartási költségek esetében az 1. melléklet 2. táblázata alapján, a fenntartási feladatok ciklusidejének figyelembevételével
 
 ## kell meghatározni.
 
 (3) A térségi vízpótló és -elosztó művek, valamint a kettős működésű csatornák mezőgazdasági vízszolgáltatásra terhelhető költségeit az igénybevétel és a vízmérlegek alapján a mezőgazdasági célú vízfelhasználás arányában kell megállapítani. A kettős működésű csatornák működési költségeinek meghatározásánál a fenntartási költségek maximum 50%-át lehet a vízszolgáltatásra terhelni.
 
 (4) A belvízi védekezésben érintett, kettős működésű csatornaszakaszra elrendelt védekezés esetén – ha a főbefogadóba többlet vízbeemelés szükséges – a vízhasználó egyidejű vízkivétele térítésmentes, ha a vízhasználó a vízkivétellel járó vízminőségi kockázatot vállalja.
+
+[^4]: Az 5. § (2) bekezdése a 232/2016. (VII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

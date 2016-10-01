@@ -1,6 +1,6 @@
 ## 9. § Ez a rendelet a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 9. cikkének való megfelelést szolgálja.
 
-1. melléklet a 115/2014. (IV. 3.) Korm. rendelethez
+1. melléklet a 115/2014. (IV. 3.) Korm. rendelethez[^9]
 
 1. táblázat
 
@@ -36,13 +36,13 @@ Az állandó és változó költségek költségkalkulációs sémája
 
 | 3.1. | Gyártási, szolgáltatási külön költség |
 
-| 3.1.1. | fenntartás, karbantartás | a 2. táblázatban meghatározottak szerint | – |
+| 3.1.1. | fenntartás, karbantartás | a 2. táblázatban meghatározottak szerint | vízhiány miatt szükséges vízpótlásból eredő fenntartási költségek |
 
 | 3.1.2. | vízvizsgálat | rendszeres vízvizsgálat | a tényleges vízátadáshoz kapcsolódó vízvizsgálat költsége |
 
 | 3.1.3. | egyéb dologi kiadások, szolgáltatások | kiküldetés, alaptevékenység nem adóköteles részhez vásárolt termék vagy szolgáltatás ÁFA-ja; gépjármű-felelősségbiztosítás, CASCO; gépjárművek egyéb üzemi kiadásai stb. |  |
 
-| 3.2. | Értékesítési külön költség (VKJ) |  | – |
+| 3.2. | Értékesítési külön költség | Rendszerveszteség, ökológiai vízpótlás költsége | – |
 
 | 4. |  | ÉRTÉKCSÖKKENÉSI LEÍRÁS | az elmúlt 5 év átlagos vízforgalmából (mezőgazdasági vízfelhasználás és térségi, ökológiai, rekreációs célú vízátvezetés) a mezőgazdasági vízfelhasználás aránya | – |
 
@@ -141,3 +141,5 @@ A fenntartási, karbantartási költségek költségkalkulációs sémája
 | 4.2. |  | iszapeltávolítás, m3 | 15 |  |  |
 
 | 4.3. |  | töltéskorona és burkolat karbantartás, km | 1 |  |  |
+
+[^9]: Az 1. melléklet a 232/2016. (VII. 29.) Korm. rendelet 12. §-a szerint módosított szöveg.
