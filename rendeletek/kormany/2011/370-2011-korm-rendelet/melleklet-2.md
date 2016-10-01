@@ -1,12 +1,14 @@
 ## NYILATKOZAT
 
-## A) Alulírott ................................................., a .......................................................................... költségvetési szerv vezetője jogi felelősségem tudatában kijelentem, hogy az előírásoknak megfelelően ........................... évben / időszakban az általam vezetett költségvetési szervnél gondoskodtam
+## A) Alulírott ................................................., a .......................................................................... költségvetési szerv vezetője jogi felelősségem tudatában kijelentem, hogy az előírásoknak megfelelően ........................... évben/időszakban az általam vezetett költségvetési szervnél gondoskodtam
 
 ## – a belső kontrollrendszer kialakításáról, valamint szabályszerű, eredményes, gazdaságos és hatékony működéséről,
 
-## – a költségvetési szerv vagyonkezelésébe, használatába adott vagyon rendeltetésszerű igénybevételéről, az alapító okiratban előírt tevékenységek jogszabályban meghatározott követelményeknek megfelelő ellátásáról,
+## – olyan szervezeti kultúra kialakításáról, amely biztosítja az elkötelezettséget a szervezeti célok és értékek iránt, valamint alkalmas az integritás érvényesítésének biztosítására,
 
-## – a rendelkezésre álló előirányzatoknak a célnak megfelelő felhasználásáról,
+## – a költségvetési szerv vagyonkezelésébe, használatába adott vagyon rendeltetésszerű használatáról, az alapító okiratban megjelölt tevékenységek jogszabályban meghatározott követelményeknek megfelelő ellátásáról,
+
+## – a rendelkezésre álló előirányzatok célnak megfelelő felhasználásáról,
 
 ## – a költségvetési szerv tevékenységében a hatékonyság, eredményesség és a gazdaságosság követelményeinek érvényesítéséről,
 
@@ -24,7 +26,7 @@
 
 ## Kontrollkörnyezet:
 
-## Kockázatkezelési rendszer:
+## Integrált kockázatkezelési rendszer:
 
 ## Kontrolltevékenységek:
 
@@ -32,17 +34,19 @@
 
 ## Nyomon követési rendszer (monitoring):
 
-## Kijelentem, hogy a benyújtott beszámolók a jogszabályi előírások szerint a valóságnak megfelelően, átláthatóan, teljeskörűen és pontosan tükrözik a szóban forgó pénzügyi évre vonatkozó kiadásokat és bevételeket.
+## Kijelentem, hogy a benyújtott beszámolók a jogszabályi előírások szerint a valóságnak megfelelően, átláthatóan, teljes körűen és pontosan tükrözik a szóban forgó pénzügyi évre vonatkozó kiadásokat és bevételeket.
 
 ## Az általam vezetett költségvetési szerv gazdasági vezetője eleget tett tárgyévben esedékes továbbképzési kötelezettségének a belső kontrollok témakörében:
 
-## igen – nem
+## igen-nem
 
 ## Kelt: ..................................
 
 ## P. H.
 
-| ................................. aláírás |
+## .................................................
+
+## aláírás
 
 ## B) Az A) pontban meghatározott nyilatkozatot az alábbiak miatt nem áll módomban megtenni:
 
@@ -50,8 +54,10 @@
 
 ## P. H.
 
-| ................................. aláírás |
+## .................................................
 
-2. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^109]
+## aláírás
 
-[^109]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+2. melléklet a 370/2011. (XII. 31.) Korm. rendelethez[^131]
+
+[^131]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,14 +1,14 @@
-8. § (1) A költségvetési szerv vezetője köteles a szervezeten belül kontrolltevékenységeket kialakítani, melyek biztosítják a kockázatok kezelését, hozzájárulnak a szervezet céljainak eléréséhez.
+8. § (1)[^29] A költségvetési szerv vezetője köteles a szervezeten belül kontrolltevékenységeket kialakítani, melyek biztosítják a kockázatok kezelését, hozzájárulnak a szervezet céljainak eléréséhez, és erősítik a szervezet integritását.
 
-(2) A kontrolltevékenység részeként minden tevékenységre vonatkozóan biztosítani kell a folyamatba épített, előzetes, utólagos és vezetői ellenőrzést (FEUVE), különösen az alábbiak vonatkozásában:
+(2)[^30] A kontrolltevékenység részeként minden tevékenységre vonatkozóan biztosítani kell a szervezeti célok elérését veszélyeztető kockázatok csökkentésére irányuló kontrollok kiépítését, különösen az alábbiak vonatkozásában:
 
-a) a pénzügyi döntések dokumentumainak elkészítése (ideértve a költségvetési tervezés, a kötelezettségvállalások, a szerződések, a kifizetések, a támogatásokkal való elszámolás, a szabálytalanság miatti visszafizettetések dokumentumait is),
+a) a döntések dokumentumainak elkészítése (ideértve a költségvetési tervezés, a kötelezettségvállalások, a szerződések, a kifizetések, a támogatásokkal való elszámolás, a szabálytalanság miatti visszafizettetések dokumentumait is),
 
-b) a pénzügyi kihatású döntések célszerűségi, gazdaságossági, hatékonysági és eredményességi szempontú megalapozottsága,
+b) a döntések célszerűségi, gazdaságossági, hatékonysági és eredményességi szempontú megalapozottsága,
 
-c) a költségvetési gazdálkodás során az előzetes és utólagos pénzügyi ellenőrzés, a pénzügyi döntések szabályszerűségi szempontból történő jóváhagyása, illetve ellenjegyzése,
+c) a döntések szabályszerűségi szempontból történő jóváhagyása, illetve ellenjegyzése, valamint
 
-d) a gazdasági események elszámolása (a hatályos jogszabályoknak megfelelő könyvvezetés és beszámolás) kontrollja.
+d) a gazdasági események elszámolása (a hatályos jogszabályoknak megfelelő könyvvezetés és beszámolás).
 
 (3) Az (2) bekezdés a), c) és d) pontjában felsorolt tevékenységek feladatköri elkülönítését biztosítani kell.
 
@@ -19,3 +19,6 @@ a) engedélyezési, jóváhagyási és kontrolleljárások,
 b) a dokumentumokhoz és információkhoz való hozzáférés,
 
 c) beszámolási eljárások.
+
+[^29]: A 8. § (1) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 16. § j) pontja szerint módosított szöveg.
+[^30]: A 8. § (2) bekezdése a 187/2016. (VII. 13.) Korm. rendelet 5. §-ával megállapított szöveg.

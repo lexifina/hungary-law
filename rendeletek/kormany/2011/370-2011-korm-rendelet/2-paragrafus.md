@@ -26,17 +26,17 @@ k) intézkedési terv: az ellenőrzési javaslatok alapján az ellenőrzött sze
 
 l)[^6] kockázatelemzés: objektív módszer az ellenőrizendő területek kiválasztására, mely meghatározza a költségvetési szerv tevékenységében és belső kontrollrendszerében rejlő kockázatokat;
 
-m) kockázatkezelési rendszer: olyan irányítási eszközök és módszerek összessége, melynek elemei a szervezeti célok elérését veszélyeztető tényezők (kockázatok) azonosítása, elemzése, csoportosítása, nyomon követése, valamint szükség esetén a kockázati kitettség mérséklése;
+m)[^7] integrált kockázatkezelési rendszer: olyan folyamatalapú kockázatkezelési rendszer, amely a szervezet minden tevékenységére kiterjed, egységes módszertan és eljárások alkalmazásával, a szervezet célkitűzéseinek és értékeinek figyelembevételével biztosítja a szervezet kockázatainak teljes körű azonosítását, azok meghatározott kritériumok szerinti értékelését, valamint a kockázatok kezelésére vonatkozó intézkedési terv elkészítését és az abban foglaltak nyomon követését;
 
-n)[^7] költségvetési szerv vezetője:
+n)[^8] költségvetési szerv vezetője:
 
 na) központi költségvetési szerv esetén a központi költségvetési szerv első számú vezetője, minisztérium esetén a miniszter vagy a miniszter döntése alapján a közigazgatási államtitkár,
 
-nb) helyi önkormányzat esetén a jegyző, főjegyző, társult képviselő-testület esetén a társulási megállapodásban meghatározott önkormányzat jegyzője, térségi fejlesztési tanács esetén a térségi fejlesztési tanács munkaszervezetének vezetője,
+nb)[^9] helyi önkormányzat esetén a jegyző, főjegyző, társulás esetén a társulási megállapodásban meghatározott önkormányzat jegyzője, térségi fejlesztési tanács esetén a térségi fejlesztési tanács munkaszervezetének vezetője,
 
-nc)[^8]
+nc)[^10]
 
-nd) helyi önkormányzati költségvetési szerv és nemzetiségi önkormányzati költségvetési szerv esetén annak első számú vezetője,
+nd)[^11] helyi önkormányzati költségvetési szerv és nemzetiségi önkormányzati költségvetési szerv esetén annak vezetője,
 
 o) lezárt ellenőrzési jelentés: a belső ellenőr által elkészített, az ellenőrzött szervezettel egyeztetett, az elfogadott észrevételek átvezetésével véglegezésre került és aláírt ellenőrzési jelentés;
 
@@ -50,11 +50,14 @@ s) utóellenőrzés: az intézkedések nyomon követése érdekében elrendelt e
 
 t) vizsgálatvezető: a belső ellenőrzési vezető által kijelölt, az adott ellenőrzés irányításáért felelős személy.
 
-u)[^9]
+u)[^12] szervezeti integritást sértő esemény: minden olyan esemény, amely a szervezetre vonatkozó szabályoktól, valamint a jogszabályi keretek között a költségvetési szerv vezetője és az irányító szerv által meghatározott szervezeti célkitűzéseknek, értékeknek és elveknek megfelelő működéstől eltér.
 
 [^4]: A 2. § d) pontját a 175/2015. (VII. 7.) Korm. rendelet 36. § (2) bekezdés 1. pontja hatályon kívül helyezte.
 [^5]: A 2. § h) pontját a 175/2015. (VII. 7.) Korm. rendelet 36. § (2) bekezdés 1. pontja hatályon kívül helyezte.
 [^6]: A 2. § l) pontja a 465/2015. (XII. 29.) Korm. rendelet 35. § (2) bekezdés 1. pontja szerint módosított szöveg.
-[^7]: A 2. § n) pontja a 465/2015. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^8]: A 2. § n) pont nc) alpontját a 486/2015. (XII. 29.) Korm. rendelet 36. § a) pontja hatályon kívül helyezte.
-[^9]: A 2. § u) pontját a 497/2013. (XII. 29.) Korm. rendelet 65. §-a iktatta be, hatályon kívül helyezte a 465/2015. (XII. 29.) Korm. rendelet 35. § (1) bekezdés 1. pontja.
+[^7]: A 2. § m) pontja a 187/2016. (VII. 13.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § n) pontja a 465/2015. (XII. 29.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^9]: A 2. § n) pont nb) alpontja a 187/2016. (VII. 13.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^10]: A 2. § n) pont nc) alpontját a 486/2015. (XII. 29.) Korm. rendelet 36. § a) pontja hatályon kívül helyezte.
+[^11]: A 2. § n) pont nd) alpontja a 187/2016. (VII. 13.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
+[^12]: A 2. § u) pontját újonnan a 187/2016. (VII. 13.) Korm. rendelet 2. § (2) bekezdése iktatta be.
