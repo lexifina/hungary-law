@@ -1,0 +1,1 @@
+A Kormány az Európai Unió saját forrásainak rendszeréről szóló, 2014. május 26-i 2014/335/EU, Euratom tanácsi határozat kihirdetéséről szóló 2015. évi XCIII. törvény 5. §-ában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
