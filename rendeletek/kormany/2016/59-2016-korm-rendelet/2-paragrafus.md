@@ -1,0 +1,1 @@
+## „(4) A Tájékoztató tartalmazza a Duális Képzési Tanács által a februárban induló képzések esetében legkésőbb a megelőző év szeptember 30-ig, a szeptemberben induló képzések esetében legkésőbb a megelőző év november 30-ig támogatott – és a felsőoktatási intézmények által meghirdetett – duális képzéseket.”
