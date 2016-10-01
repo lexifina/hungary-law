@@ -1,1 +1,1 @@
-17. §
+17. § E törvény 1. és 3. §-a a vízpolitika terén a közösségi fellépés kereteinek meghatározásáról szóló, 2000. október 23-i 2000/60/EK európai parlamenti és tanácsi irányelv 9. cikkének való megfelelést szolgálja.
