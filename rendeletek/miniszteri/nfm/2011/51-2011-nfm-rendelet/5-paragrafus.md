@@ -20,7 +20,16 @@ b)[^11] a részbeni kifizetésre az (5) vagy (6) bekezdés szerint alkalmazott a
 
 (8) A (7) bekezdés b) pontja szerinti esetben a tartalék kizárólag a tárgyhavi támogatási igények hetvenöt százalékáig történő kifizetése teljesítéséig szabadítható fel.
 
+(9)[^12] A rendszerirányító a támogatás igénylése során benyújtott negatív előjelű támogatási igény összegét göngyölítve tartja nyilván, és a negatív előjelű göngyölített támogatási összeget az ugyanazon igénylőtől beérkező pozitív előjelű támogatási összeghez hozzáadva teljesíti a támogatás kifizetését, amennyiben a göngyölített negatív támogatási igény kisebb, mint a benyújtott pozitív támogatási igény.
+
+(10)[^13] Ha a nyilvántartott göngyölített összeg nagyobb, mint a tárgyhavi pozitív összegű támogatási igény, akkor a rendszerirányító csökkenti a göngyölített támogatást a tárgyhavi pozitív igény összegével, amely eljárást hónapról hónapra mindaddig alkalmazza, amíg a nyilvántartott göngyölített támogatás kisebb nem lesz, mint az adott tárgyhavi támogatási igénybejelentésben szereplő pozitív előjelű támogatási igény, és ekkor a támogatás kifizetését a (9) bekezdésben foglaltak szerint teljesíti.
+
+(11)[^14] A negatív előjelű támogatási igénybejelentés alapján az igénylőnek nem keletkezik a rendszerirányító irányába befizetési kötelezettsége, de köteles a negatív előjelű támogatási igény bejelentésére a tárgyhóra vonatkozó igénylési határnapig.
+
 [^8]: Az 5. § (1) bekezdése a 66/2011. (XI. 30.) NFM rendelet 8. § (1) bekezdésével megállapított, az 59/2012. (X. 31.) NFM rendelet 13. § (2) bekezdése szerint módosított szöveg.
 [^9]: Az 5. § (5) bekezdése a 66/2011. (XI. 30.) NFM rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^10]: Az 5. § (6) bekezdése a 66/2011. (XI. 30.) NFM rendelet 8. § (2) bekezdésével megállapított szöveg.
 [^11]: Az 5. § (7) bekezdés b) pontja a 66/2011. (XI. 30.) NFM rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^12]: Az 5. § (9) bekezdését a 40/2016. (IX. 30.) NFM rendelet 4. §-a iktatta be.
+[^13]: Az 5. § (10) bekezdését a 40/2016. (IX. 30.) NFM rendelet 4. §-a iktatta be.
+[^14]: Az 5. § (11) bekezdését a 40/2016. (IX. 30.) NFM rendelet 4. §-a iktatta be.
