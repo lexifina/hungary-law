@@ -1,0 +1,1 @@
+## 5. § A nyilvántartásba vétel iránti eljárásáért a Nemzeti Média- és Hírközlési Hatóság egyes eljárásainak igazgatási szolgáltatási díjairól és a díjfizetés módjáról szóló NMHH rendeletben foglaltak szerint igazgatási szolgáltatási díjat kell fizetni.
