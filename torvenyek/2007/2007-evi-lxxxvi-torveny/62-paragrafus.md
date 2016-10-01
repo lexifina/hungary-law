@@ -16,7 +16,7 @@ g) a szerződésszegés esetei és jogkövetkezményei, különös tekintettel a
 
 h) a felhasználói, illetve lakossági fogyasztói panasz benyújtásának és ügyintézésének lehetőségéről és módjáról való tájékoztatás, valamint a fogyasztóvédelemről szóló törvényben meghatározott fogyasztói jogvita egyezségen alapuló rendezésének megkísérlésére, továbbá ennek eredménytelensége esetén az ügy eldöntésére irányuló eljárások kezdeményezésének módja és feltételei,
 
-i) a külön díj ellenében nyújtott szolgáltatások megnevezése és feltételei, ha az egyetemes szolgáltató, illetve a kereskedő ilyet biztosít,
+i) a külön díj ellenében végezhető szolgáltatások megnevezése és feltételei, ha az egyetemes szolgáltató, illetve a kereskedő ilyet biztosít,
 
 j) annak a hálózati engedélyesnek a megnevezése, székhelye, amely hálózatához a felhasználó közvetve vagy közvetlenül csatlakozik,
 

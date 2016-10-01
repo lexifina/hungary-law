@@ -56,3 +56,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-86-00-00
 | 2016-04-01 | 2015. évi CXCVI. törvény | 2007-86-00-00.61 |
 | 2016-06-22 | 2016. évi LIX. törvény | 2007-86-00-00.62 |
 | 2016-07-01 | 2016. évi LXXXI. törvény | 2007-86-00-00.63 |
+| 2016-10-01 | 2016. évi LIX. törvény | 2007-86-00-00.64 |

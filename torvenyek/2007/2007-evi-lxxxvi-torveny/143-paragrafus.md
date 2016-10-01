@@ -1,13 +1,29 @@
-143. § (1) Az egyetemes szolgáltatást méltányos, könnyen és tisztán összehasonlítható, átlátható árszabások alkalmazásával, külön jogszabályban meghatározott típusú termékcsomagok biztosításával kell megvalósítani.
+143. § (1) A rendszerhasználati díjak szabályozása az árszabályozási cikluson belül évenkénti ármegállapítással történik.
 
-(2) Az egyetemes szolgáltatás árát a villamosenergia-piaci árak, továbbá a hatékonyan működő engedélyesek indokolt működési és tőkeköltsége, valamint összehasonlító elemzések alapján kell meghatározni úgy, hogy a legkisebb költség elvének érvényre juttatása érdekében a szabályozás által érintett engedélyeseket gazdálkodásuk hatékonyságának, és az általuk nyújtott szolgáltatás minőségének folyamatos javítására ösztönözze.
+(2) Az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat a Hivatal elnöke rendeletben állapítja meg a következő árszabályozási ciklus kezdetét megelőző év május 15-ig.
 
-(3) Az egyetemes szolgáltató által az (1) bekezdés szerint kötelezően nyújtott termékcsomagokat, a kötelezően nyújtott egyetemes szolgáltatás árát, az áralkalmazási feltételeket, valamint az árszabályozás kereteit – a 143/A. § (1) bekezdésében foglaltaknak megfelelően – a Hivatal javaslata alapján a miniszter rendeletben állapítja meg. A Hivatal a javaslatát a rendelet tervezett hatálybalépését megelőzően legalább 40 nappal megküldi a miniszternek.
+(3) A (2) bekezdésben meghatározott rendelet figyelembevételével a Hivatal – a 142. § (2)–(5) bekezdésében foglaltak teljesítése céljából – az árszabályozási ciklus
 
-(3a) Az (1) bekezdés szerinti jogszabályban megállapított termékcsomagokon belül, az Esz. rendeletben nem megállapított, az egyes egyetemes szolgáltatók által a jelen bekezdés hatálybalépésekor jogszerűen alkalmazott árszabások árát és áralkalmazási feltételeit az egyetemes szolgáltató kérelmére a Hivatal hagyja jóvá.
+a) induló árainak meghatározását megelőző eszköz- és költség-felülvizsgálatra, és
 
-(4)
+b) egyes éveire vonatkozó ármegállapítás rendszerére
 
-(5) A kihirdetett egyetemes szolgáltatói árakat legmagasabb áraknak kell tekinteni. A legmagasabb ártól lefelé megkülönböztetés-mentesen, előre nyilvánosságra hozott módon el lehet térni.
+vonatkozóan módszertani útmutatót (a továbbiakban együtt: módszertani útmutatók) ad ki.
 
-(6) A villamosenergia-iparban fennálló vagy eltöltött munkaviszonnyal összefüggésben nyújtott kedvezményes árú villamosenergia-ellátás szabályozásában bekövetkező változást az ellátási körülmények megváltozásának kell tekinteni.
+(4) A Hivatal
+
+a) a (3) bekezdés a) pontja szerinti módszertani útmutatót a következő árszabályozási ciklus kezdetét megelőző év május 15-ig,
+
+b) a (3) bekezdés b) pontja szerinti útmutatót a következő árszabályozási ciklus kezdetét legalább 60 nappal megelőzően
+
+a honlapján közzéteszi.
+
+(5) A rendszerhasználati díjak mértékét a Hivatal – figyelemmel a (2) bekezdés szerinti rendeletre és a módszertani útmutatókra – határozatban állapítja meg, legkésőbb a díjak alkalmazhatósága előtt 45 nappal. A Hivatal a határozatát a rendszerhasználati díjak alkalmazhatósága előtt legalább 25 nappal a honlapján közzéteszi.
+
+(6) A 142. § (6) bekezdése szerinti kiegyenlítő fizetések mértékét a Hivatal a rendszerhasználati díjakról kiadott határozatában – a rendszerhasználati díjakkal egyidejűleg – állapítja meg.
+
+(7) A rendszerhasználati díjak fizetésére kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait a Hivatal elnöke rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.
+
+(8) Az e § szerinti rendeletek, valamint a módszertani útmutatóinak előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
+
+(9) A hálózati engedélyesek a Hivatal elnökének határozatában meghatározott rendszerhasználati díjakat és áralkalmazási feltételeket kötelesek a honlapjukon 3 munkanapon belül közzétenni.

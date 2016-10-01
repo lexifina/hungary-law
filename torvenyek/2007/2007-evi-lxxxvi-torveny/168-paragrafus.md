@@ -34,7 +34,9 @@ h) a harmadik országokkal kapcsolatos 160/A. § szerinti tanúsítási eljárá
 
 i) a kábelcsere-ütemezési tervvel kapcsolatos ügyekben 30 nap,
 
-j) az átadó egyetemes szolgáltató engedélyét visszavonó határozat és az átvevőt kijelölő határozat meghozatalához szükséges eljárás során 20 nap.
+j) az átadó egyetemes szolgáltató engedélyét visszavonó határozat és az átvevőt kijelölő határozat meghozatalához szükséges eljárás során 20 nap,
+
+k) az árszabályozási ciklus indulását megelőzően lefolytatott, 141. § (10) bekezdés szerinti eszköz- és költség-felülvizsgálati eljárásban hat hónap, amely egy alkalommal, három hónappal meghosszabbítható.
 
 (4a)
 
@@ -50,7 +52,7 @@ j) az átadó egyetemes szolgáltató engedélyét visszavonó határozat és az
 
 (9) A Hivatal köteles határozatait nyilvánosan közzétenni.
 
-(10) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat, a más engedélyes kijelölési eljárás során hozott határozat, továbbá a végső menedékes kijelölési eljárásban hozott határozat kivételével – a határozatot jogosult megváltoztatni.
+(10) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat, a más engedélyes kijelölési eljárás során hozott határozat, továbbá a rendszerhasználati díjakat, az elosztó által külön díj ellenében végezhető szolgáltatások díjait, a csatlakozási díjakat megállapító határozat, továbbá a végső menedékes kijelölési eljárásban hozott határozat kivételével – a határozatot jogosult megváltoztatni.
 
 (11) A Hivatal jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi kérelem.
 
@@ -75,6 +77,8 @@ d) a magánvezeték üzemeltetésére átmenetileg elosztót jelöl ki,
 e) a folyamatos ellátás vagy a folyamatos közvilágítás biztosítása érdekében más engedélyest jelöl ki,
 
 f) a más engedélyes kijelölése érdekében a korábbi engedélyes vagy az eszköz tulajdonosának jogait, kötelezettségeit korlátozza,
+
+g) rendszerhasználati díjakat, az elosztó által külön díj ellenében végezhető szolgáltatások díjait vagy csatlakozási díjakat állapít meg.
 
 (16) A Hivatal engedélyezési eljárásai során hirdetményt tesz közzé az eljárás megindításáról.
 

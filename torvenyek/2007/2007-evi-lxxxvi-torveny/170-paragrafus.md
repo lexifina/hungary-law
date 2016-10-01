@@ -106,9 +106,9 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-1. az egyetemes szolgáltatáshoz kapcsolódó árakat, áralkalmazási feltételeket, az árszabályozás kereteit, az egyetemes szolgáltatás keretében nyújtandó termékcsomagokat és az azokhoz kapcsolódó árszabásokat, valamint az egyetemes szolgáltató által benyújtott árváltoztatási javaslatot megelőzően alkalmazandó induló tételes árszabásokat,
+1. az egyetemes szolgáltatási árakat, áralkalmazási feltételeket, az árszabályozás kereteit, az egyetemes szolgáltatáshoz kapcsolódó árszabásokat,
 
-2. az elosztó és az egyetemes szolgáltató által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végezhető szolgáltatások körét és annak díjait, a felhasználók vagy az engedélyes igénye alapján ingyenesen biztosítandó szolgáltatások legszűkebb körét, a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét és azok díjait,
+2. az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végzett szolgáltatások körét, azok külön díjait, valamint ezen külön díjak alkalmazásának szabályait, továbbá az egyetemes szolgáltató által a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások körét, azok külön díjait, valamint ezen külön díjak alkalmazásának szabályait,
 
 3. a Hivatal miniszter részére történő adatszolgáltatási és javaslattételi kötelezettségének rendjére, módjára, tartalmára, formájára és időpontjára vonatkozó részletes szabályokat,
 
@@ -126,7 +126,7 @@ rendeletben állapítsa meg.
 
 10. a megújuló energiaforrásból történő energiatermelő berendezések és rendszerek beszerzéséhez és működtetéséhez szükséges támogatások nyújtásának feltételét képező műszaki előírásokat, valamint a megújuló energiaforrásból származó energia felhasználásáról, alkalmazásáról, a felhasználás támogatásáról szóló tájékoztatás szabályait,
 
-11. rendszerhasználati díjak képzésének alapelveit, árszabályozásának kereteit,
+11.
 
 12.
 
@@ -178,12 +178,14 @@ rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
 
-1. a rendszerhasználati díjakat és alkalmazásuk szabályait,
+1. az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjfizetésre kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait,
 
-2. a csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, valamint a csatlakozási díjak mértékét és alkalmazásuk szabályait,
+2. a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait,
 
 3. az elosztók közötti kiegyenlítő fizetések mértékét,
 
 4. e törvény szerint rendszeres adatszolgáltatásra kötelezettek által szolgáltatandó adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség határidejét, továbbá a rendkívüli adatszolgáltatásra kötelezettek körét és a rendkívüli adatszolgáltatással kapcsolatos rendelkezéseket;
 
-5. a hálózathasználati szerződés és az egyetemes szolgáltatásra jogosult felhasználó esetén a villamosenergia-vásárlási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket;
+5. a hálózathasználati szerződés és az egyetemes szolgáltatásra jogosult felhasználó esetén a villamosenergia-vásárlási szerződés engedélyes általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket;
+
+9. az elosztó által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végzett szolgáltatások körét, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait.
