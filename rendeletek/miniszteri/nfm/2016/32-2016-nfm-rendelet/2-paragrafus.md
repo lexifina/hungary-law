@@ -1,3 +1,1 @@
-## 1. §[^1]
-
-[^1]: Az 1. § a 3. § (2) bekezdése alapján 2016. október 1-jén lép hatályba.
+## 1. § Hatályát veszti az interfészek bejelentéséről, műszaki leírásának tartalmi követelményeiről és az azokhoz való hozzáférés előírásairól szóló 9/2004. (IV. 22.) IHM rendelet.
