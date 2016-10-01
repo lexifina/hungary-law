@@ -1,1 +1,1 @@
-60. § E törvénynek a szociális szövetkezetekkel összefüggésben egyes törvények, továbbá a közfoglalkoztatáshoz kapcsolódó egyes törvények módosításáról szóló 2013. évi XLI. törvénnyel megállapított 4/A. § (1) bekezdésének rendelkezéseit a 2013. szeptember 1-jét megelőzően létesített közfoglalkoztatási jogviszonyok esetén is alkalmazni kell.
+### 60. §
