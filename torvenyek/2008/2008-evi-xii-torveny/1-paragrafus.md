@@ -1,1 +1,0 @@
-1. § Az Országgyűlés e törvénnyel felhatalmazást ad az Európai Közösségek saját forrásainak rendszeréről szóló 2007. június 7-i 2007/436/EK, Euratom tanácsi határozat (a továbbiakban: Határozat) kötelező hatályának elismerésére.
