@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-62-20-1
 | 2013-01-01 | 2009-62-20-1U.7 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2013-01-02 | 2009-62-20-1U.8 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-09-22 | 2009-62-20-1U.9 | 24/2015. (IX. 21.) IM rendelet |
+| 2016-10-01 | 2009-62-20-1U.10 | 24/2015. (IX. 21.) IM rendelet |

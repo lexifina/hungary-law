@@ -6,9 +6,9 @@
 
 (2) A 2. § b) pont, a 10. §, a 11. §, a 21. §, az 59. § és a 60. §-nak a közjegyzőkről szóló 1991. évi XLI. törvény végrehajtásáról szóló 13/1991. (X. 26.) IM rendelet 23/A. § (2) bekezdés b) pontját és (3) bekezdését megállapító rendelkezése 2011. július 1-jén lép hatályba.
 
-(3)–(4)[^18]
+(3)–(4)[^20]
 
-(5)[^19]
+(5)[^21]
 
-[^18]: Az 58. § (3)–(4) bekezdését ugyanezen § (5) bekezdése hatályon kívül helyezte.
-[^19]: Az 58. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.
+[^20]: Az 58. § (3)–(4) bekezdését ugyanezen § (5) bekezdése hatályon kívül helyezte.
+[^21]: Az 58. § (5) bekezdése ugyanezen bekezdés alapján hatályát vesztette.

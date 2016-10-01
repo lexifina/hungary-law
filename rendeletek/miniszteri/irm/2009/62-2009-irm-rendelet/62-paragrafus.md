@@ -1,6 +1,6 @@
-## 61. §[^22]
+## 61. §[^24]
 
-62. §[^23]
+62. §[^25]
 
-[^22]: A 61. §-t a 62. § (1) bekezdése hatályon kívül helyezte.
-[^23]: A 62. § ugyanezen § (3) bekezdése alapján hatályát vesztette.
+[^24]: A 61. §-t a 62. § (1) bekezdése hatályon kívül helyezte.
+[^25]: A 62. § ugyanezen § (3) bekezdése alapján hatályát vesztette.

@@ -2,6 +2,6 @@
 
 ## A levéltári anyag átvételének különös szabályai a közjegyzői szolgálat megszűnése, a közjegyzői kinevezés érvénytelenségének megállapítása
 
-## vagy a közjegyző áthelyezése esetén[^10]
+## vagy a közjegyző áthelyezése esetén[^12]
 
-[^10]: Az 17. §-t megelőző alcím a 6/2010. (III. 12.) IRM rendelet 4. § b) pontja szerint módosított szöveg.
+[^12]: Az 17. §-t megelőző alcím a 6/2010. (III. 12.) IRM rendelet 4. § b) pontja szerint módosított szöveg.
