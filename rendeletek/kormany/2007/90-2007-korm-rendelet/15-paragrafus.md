@@ -4,7 +4,7 @@
 
 (2)[^26] A környezetkárosodás felderítése a vízügyi hatóság, a környezetvédelmi hatóság, a VIZIG és az NPI feladata.
 
-(3)[^27] A környezetvédelmi hatóságnál és a VIZIG-en állandó ügyeletet kell tartani. A környezetkárosodással kapcsolatos bejelentésről a környezetvédelmi hatóság a VIZIG-et, a vízügyi hatóságot és az NPI-t, a VIZIG a környezetvédelmi hatóságot, a vízügyi hatóságot és az NPI-t azonnal tájékoztatja.
+(3)[^27] A környezetvédelmi hatóságnál, a vízügyi hatóságnál és a VIZIG-en állandó ügyeletet kell tartani. A környezetkárosodással kapcsolatos bejelentésről a (2) bekezdés szerinti szervek egymást azonnal értesítik.
 
 (4)[^28] A vízügyi igazgatási szervek irányításáért felelős miniszter az OVF-en folyamatosan működő Központi Ügyeletet tart fenn, amely fogadja országos szinten a felszíni és felszín alatti vizekkel, a vízkárelhárítással és a vízgazdálkodással összefüggő bejelentéseket, és azokat továbbítja a VIZIG-hez, a vízügyi hatósághoz és a környezetvédelmi hatósághoz.
 
@@ -14,6 +14,6 @@
 
 [^25]: A 15. § az 527/2013. (XII. 30.) Korm. rendelet 49. § (10) bekezdésével megállapított szöveg.
 [^26]: A 15. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^27]: A 15. § (3) bekezdése a 42/2014. (II. 24.) Korm. rendelet 7. § (5) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b), d) és f) pontja szerint módosított szöveg.
+[^27]: A 15. § (3) bekezdése a 289/2016. (IX. 22.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^28]: A 15. § (4) bekezdése a 42/2014. (II. 24.) Korm. rendelet 7. § (5) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés g) pontja szerint módosított szöveg.
 [^29]: A 15. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 98. § (2) bekezdés b) és h) pontja szerint módosított szöveg.
