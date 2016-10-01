@@ -1,3 +1,0 @@
-## 52–53. §[^17]
-
-[^17]: Az 52–53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
