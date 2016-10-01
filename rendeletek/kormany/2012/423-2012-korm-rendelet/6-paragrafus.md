@@ -1,8 +1,12 @@
-6. § (1) A Tájékoztató az adott intézmény által meghirdetett felsőoktatási szakképzésre vonatkozóan tartalmazza az adott felsőoktatási intézmény által a felvétel feltételéül meghatározott
+6. § (1)[^12] A Tájékoztató az adott intézmény által meghirdetett felsőoktatási szakképzésre vonatkozóan tartalmazza
 
-a) érettségi vizsgatárgyakat és a vizsga szintjét, a szakképesítést;
+a) az adott felsőoktatási intézmény által a felvétel feltételéül meghatározott
 
-b) egészségügyi, pályaalkalmassági követelményeket, a szakmai alkalmassági vizsga követelményeit.
+aa) érettségi vizsgatárgyakat és a vizsga szintjét, a szakképesítést;
+
+ab) egészségügyi, pályaalkalmassági követelményeket, a szakmai alkalmassági vizsga követelményeit;
+
+b) az adott képzési területen képzést folytató felsőoktatási intézmények által a 21. §-ban foglaltak figyelembevételével az adott képzési területre, felsőoktatási szakképzésre meghatározott többletpontokat.
 
 (2) A Tájékoztató az adott intézmény által meghirdetett alapképzési szakokra és az osztatlan képzésekre vonatkozóan tartalmazza
 
@@ -14,8 +18,12 @@ c) az adott képzési területen képzést folytató felsőoktatási intézmény
 
 d) az 1. melléklet alapján az adott intézmény által meghatározott egészségügyi, pályaalkalmassági követelményeket, szakmai alkalmassági vizsgakövetelményeket, gyakorlati vizsgakövetelményeket;
 
-e)[^12] az adott képzési területen képzést folytató felsőoktatási intézmények által a 21. §-ban foglaltak figyelembevételével az adott képzési területre, szakra meghatározott többletpontokat.
+e)[^13] az adott képzési területen képzést folytató felsőoktatási intézmények által a 21. §-ban foglaltak figyelembevételével az adott képzési területre, szakra meghatározott többletpontokat.
 
 (3) Az osztatlan tanárszakon az adott tanárszaknak megfelelő alapképzési szakok emelt szintű érettségi követelményeit kell alkalmazni, azzal, hogy a jelentkező csak egy emelt szintű érettségi vizsga letételére kötelezhető.
 
-[^12]: A 6. § (2) bekezdés e) pontja a 345/2015. (XI. 19.) Korm. rendelet 47. § 1. pontja szerint módosított szöveg.
+(4)[^14] A Tájékoztató tartalmazza a Duális Képzési Tanács által a februárban induló képzések esetében legkésőbb a megelőző év szeptember 30-ig, a szeptemberben induló képzések esetében legkésőbb a megelőző év november 30-ig támogatott – és a felsőoktatási intézmények által meghirdetett – duális képzéseket.
+
+[^12]: A 6. § (1) bekezdése az 59/2016. (III. 25.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^13]: A 6. § (2) bekezdés e) pontja a 345/2015. (XI. 19.) Korm. rendelet 47. § 1. pontja szerint módosított szöveg.
+[^14]: A 6. § (4) bekezdését az 59/2016. (III. 25.) Korm. rendelet 1. § (2) bekezdése iktatta be.

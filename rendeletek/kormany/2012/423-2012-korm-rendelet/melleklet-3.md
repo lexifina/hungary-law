@@ -1,4 +1,4 @@
-3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^142]
+3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^155]
 
 A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű érettségi vizsgák jegyzéke szakonként, képzési területenként
 
@@ -28,7 +28,7 @@ A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű ére
 
 |  | 5. | germanisztika (önálló szakképzettséget eredményező szakirányok: német, német nemzetiségi, néderlandisztika, skandinavisztika) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: német nyelv, német nemzetiségi nyelv, német nemzetiségi nyelv és irodalom, angol nyelv (csak a néderlandisztika és a skandinavisztika szakirányra történő jelentkezés esetén választható). |
 
-|  | 6. | romanisztika (önálló szakképzettséget eredményező szakirányok: francia, olasz, portugál, román, román nemzetiségi, spanyol) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: a szakiránynak megfelelően francia nyelv, olasz nyelv, portugál nyelv, román nyelv, román nyelv és irodalom, spanyol nyelv. |
+|  | 6. | romanisztika (önálló szakképzettséget eredményező szakirányok: francia, olasz, portugál, román, román nemzetiségi, spanyol) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: a szakiránynak megfelelően: francia nyelv, olasz nyelv, spanyol nyelv, román nyelv, román nyelv és irodalom; a portugál szakirányon a felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, latin nyelv, magyar nyelv és irodalom, német nyelv, olasz nyelv, portugál nyelv, román nyelv, román nyelv és irodalom, spanyol nyelv, történelem. |
 
 |  | 7. | romológia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, beás nyelv, magyar nyelv és irodalom, történelem, francia nyelv, latin nyelv, lovári nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv. |
 
@@ -40,7 +40,7 @@ A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű ére
 
 |  | 11. | andragógia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, biológia, francia nyelv, magyar nyelv és irodalom, matematika, német nyelv, orosz nyelv, történelem. |
 
-|  | 12. | pedagógia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, biológia, francia nyelv, magyar nyelv és irodalom, matematika, német nyelv, orosz nyelv, történelem. |
+|  | 12. | pedagógia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, biológia, francia nyelv, magyar nyelv és irodalom, matematika, német nyelv, orosz nyelv, olasz nyelv, spanyol nyelv, bármely nemzetiségi nyelv (és irodalom), történelem. |
 
 |  | 13. | pszichológia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, biológia, francia nyelv, magyar nyelv és irodalom, matematika, német nyelv, orosz nyelv, történelem. |
 
@@ -126,4 +126,4 @@ A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű ére
 
 |  | 1. | matematika |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: biológia, fizika, földrajz, kémia, matematika. |
 
-[^142]: A 3. melléklet a 47/2013. (II. 20.) Korm. rendelet 11. §-a, az 502/2013. (XII. 29.) Korm. rendelet 23. § (3) bekezdése, a 345/2015. (XI. 19.) Korm. rendelet 45. § (2) bekezdése, a 335/2014. (XII. 18.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg.
+[^155]: A 3. melléklet a 47/2013. (II. 20.) Korm. rendelet 11. §-a, az 502/2013. (XII. 29.) Korm. rendelet 23. § (3) bekezdése, a 345/2015. (XI. 19.) Korm. rendelet 45. § (2)–(3) bekezdése, a 335/2014. (XII. 18.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg.

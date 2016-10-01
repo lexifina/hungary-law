@@ -40,7 +40,7 @@ m) a képzésen belül az intézmények által indítani tervezett specializáci
 
 (7) A fizetési kötelezettségeket és a lehetséges juttatásokat Magyarország törvényes fizetőeszközében kell közölni.
 
-[^7]: Az 5. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 34. § (1) bekezdésével megállapított, a 169/2016. (VII. 1.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.
+[^7]: Az 5. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 34. § (1) bekezdésével megállapított, a 169/2016. (VII. 1.) Korm. rendelet 22. § a) pontja szerint módosított szöveg. [Az 59/2016. (III. 25.) Korm. rendelet 10. § a) pontjával elrendelt módosítás, amely szerint a „megelőző év november 15-ig” szövegrész helyébe a „megelőző év november 30-ig” szöveg lép, nem vezethető át.]
 [^8]: Az 5. § (2) bekezdés c) pontja a 345/2015. (XI. 19.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
 [^9]: Az 5. § (2) bekezdés h) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § b) pontja, a 345/2015. (XI. 19.) Korm. rendelet 46. § 4. pontja szerint módosított szöveg.
 [^10]: Az 5. § (5) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
