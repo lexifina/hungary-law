@@ -26,6 +26,6 @@
 
 ## 6. Pontszerű létesítmények (így például kutak, szikkasztók, zárt gyűjtők, közműpótló létesítmények) esetében a létesítmény részlettervét, a vízgazdálkodási és a létesítményre vonatkozó műszaki paraméterek feltüntetésével.
 
-4. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^53]
+4. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^56]
 
-[^53]: A 4. számú mellékletet a 67/2014. (XII. 17.) BM rendelet 4. §-a iktatta be, szövege a 49/2015. (IX. 8.) BM rendelet 1. §-ával megállapított szöveg.
+[^56]: A 4. számú mellékletet a 67/2014. (XII. 17.) BM rendelet 4. §-a iktatta be, szövege a 49/2015. (IX. 8.) BM rendelet 1. §-ával megállapított szöveg.

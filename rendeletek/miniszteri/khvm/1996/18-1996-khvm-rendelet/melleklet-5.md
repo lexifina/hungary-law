@@ -16,7 +16,7 @@
 
 ## aláírás
 
-5. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^54]
+5. számú melléklet a 18/1996. (VI. 13.) KHVM rendelethez[^57]
 
 Szennyezőforrások ismertetése a tervdokumentációban
 
@@ -114,4 +114,4 @@ Annak felderítésével, hogy ezekből nem szivároghat-e szennyezett felszíni 
 
 A műszaki-hidrológiai dokumentációk alapján értékelve a vízzáró képződmények harántolásával okozott veszélyt, különösen állagromlás esetén
 
-[^54]: Az újabb 3. számú melléklet a 123/1997. (VII. 18.) Korm. rendelet 6. számú melléklete alapján került beiktatásra. A melléklet számozását 5. számú mellékletre változtatta a 19/2016. (VI. 8.) BM rendelet 8. § b) pontja.
+[^57]: Az újabb 3. számú melléklet a 123/1997. (VII. 18.) Korm. rendelet 6. számú melléklete alapján került beiktatásra. A melléklet számozását 5. számú mellékletre változtatta a 19/2016. (VI. 8.) BM rendelet 8. § b) pontja.

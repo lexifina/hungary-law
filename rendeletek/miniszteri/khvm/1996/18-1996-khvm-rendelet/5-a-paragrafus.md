@@ -1,6 +1,6 @@
 ## 5. § Távlati ivóvízbázisok, valamint az elvi vízjogi engedéllyel már lekötött vízkészlet védelme érdekében — ha jogszabály eltérően nem rendelkezik — a 4. §-ban foglaltak megfelelő alkalmazásával kell eljárni.
 
-5/A. §[^26] (1) A vízjogi megszüntetési engedély iránti kérelem tartalmazza, illetőleg ahhoz mellékelni kell:
+5/A. §[^27] (1) A vízjogi megszüntetési engedély iránti kérelem tartalmazza, illetőleg ahhoz mellékelni kell:
 
 a) a kérelem időpontjában érvényes vízjogi üzemeltetési vagy fennmaradási engedély esetén a határozat számának megjelölését;
 
@@ -22,4 +22,4 @@ a) a vízilétesítmény 2. számú mellékletben meghatározott műszaki leír�
 
 b) az általános (átnézetes), a megszüntetés előtti (jelenlegi) és a megszüntetés után tervezett állapotra vonatkozó 1:10 000 méretarányú helyszínrajzot.
 
-[^26]: Az 5/A. §-t a 19/2016. (VI. 8.) BM rendelet 4. §-a iktatta be.
+[^27]: Az 5/A. §-t a 19/2016. (VI. 8.) BM rendelet 4. §-a iktatta be.
