@@ -1,3 +1,0 @@
-## 10. § Az egészségügyi felsőfokú szakirányú szakképesítés megszerzéséről szóló 22/2012. (IX. 14.) EMMI rendelet (a továbbiakban: 22/2012. EMMI rendelet) 3. § (8) bekezdése helyébe a következő rendelkezés lép:
-
-## „(8) A 12. melléklet tartalmazza azon, a szakorvosi, a szakgyógyszerészi szakképesítés megszerzéséről és a képesítésről, továbbá az orvosok, fogorvosok és a gyógyszerészek továbbképzéséről szóló 9/1978. (XI. 29.) EüM rendelet, valamint a szakorvos, szakfogorvos, szakgyógyszerész és klinikai szakpszichológus szakképesítés megszerzéséről szóló 66/1999. (XII. 25.) EüM rendelet alapján megszerzett képesítéseket, amelyek valamely, e rendelet szerinti szakképesítésnek megfeleltethetők.”
