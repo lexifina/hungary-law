@@ -4,11 +4,9 @@
 
 | 1. | Szerződött egyetemes szolgáltató | Az árban érvényesíthető legmagasabb szállítási és tárolási kapacitásdíjak [Ft/(kWh/h)/gázév] |
 
-| 2. | ENKSZ Észak-Dél Regionális Földgázszolgáltató Zrt. | 1678,56 |
+| 2. | ENKSZ Észak-Dél Regionális Földgázszolgáltató Zrt. | 1434,32 |
 
-| 3. | Tigáz Zrt. | 1734,46 |
-
-13. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^63]
+13. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^65]
 
 A felajánlási ár tekintetében a földgáz beszerzési költség indokolt mértékének meghatározásakor figyelembe vett elismert fajlagos földgázár
 
@@ -38,11 +36,11 @@ Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QFedezett * PFed
 
 1) Ha QTény>= (QFedezett + QAllokált tárolói fedezés + QHazai termelés_tervezett), akkor
 
-Elismert ár = (QFedezett * PFedezett import ár + QAllokált tárolói fedezés * PFedezett tárolói ár + QHazai termelés_tervezett * PHazai termelés + (QTény – QFedezett – QAllokált tárolói fedezés – QHazai termelés_tervezett) * PAktuális import ár + (QHazai termelés_éves tény – QHazai termelés_éves tervezett) * (PHazai termelés_éves átlag – PAktuális import ár_éves átlag) – (MtMt – MtMt-1)) / QTény
+Elismert ár = (QFedezett * PFedezett import ár + QAllokált tárolói fedezés * PFedezett tárolói ár + QHazai termelés_tervezett * PHazai termelés + (QTény – QFedezett – QAllokált tárolói fedezés – QHazai termelés_tervezett) * PAktuális import ár + ∑((QHazai termelés_negyedéves tény – QHazai termelés_negyedéves tervezett) * (PHazai termelés_negyedéves átlag – PAktuális import ár_negyedéves átlag)) – (MtMt – MtMt-1)) / QTény
 
 2) Ha QTény< (QFedezett + QAllokált tárolói fedezés + QHazai termelés_tervezett), akkor
 
-Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QFedezett * PFedezett import ár + (QTény – QHazai termelés_tervezett – QFedezett) * PFedezett tárolói ár + (QFedezett + QAllokált tárolói fedezés + QHazai termelés_tervezett – QTény) * (PFedezett tárolói ár – PAktuális import ár) + (QHazai termelés_éves tény – QHazai termelés_éves tervezett) * (PHazai termelés_éves átlag – PAktuális import ár_éves átlag) – (MtMt – MtMt-1)) / QTény
+Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QFedezett * PFedezett import ár + (QTény – QHazai termelés_tervezett – QFedezett) * PFedezett tárolói ár + (QFedezett + QAllokált tárolói fedezés + QHazai termelés_tervezett – QTény) * (PFedezett tárolói ár – PAktuális import ár) + ∑((QHazai termelés_negyedéves tény – QHazai termelés_negyedéves tervezett) * (PHazai termelés_negyedéves átlag – PAktuális import ár_negyedéves átlag)) – (MtMt – MtMt-1)) / QTény
 
 4. E mellékletben alkalmazott rövidítések:
 
@@ -68,9 +66,9 @@ Elismert ár = (QHazai termelés_tervezett * PHazai termelés + QFedezett * PFed
 
 4.11. QHazai termelés_tervezett (hazai termelésből beszerzett tervezett havi mennyiség): a volt közüzemi nagykereskedő által hazai termelésből beszerezni kívánt, tervezett földgáz mennyisége tárgyhónapban, kWh-ban, melyet a Hivatal határoz meg előre olyan módon, hogy a tervezett hazai termelés profilja meg kell, hogy egyezzen az egyetemes szolgáltatók számára tervezett értékesítési profillal);
 
-4.12. QHazai termelés_éves tervezett (hazai termelésből beszerzett tervezett éves mennyiség): a volt közüzemi nagykereskedő által hazai termelésből beszerezni kívánt, tervezett földgáz mennyisége az adott naptári évben, kWh-ban, melyet a Hivatal a termelő adatszolgáltatása alapján határoz meg a volt közüzemi nagykereskedő számára;
+4.12. QHazai termelés_negyedéves tervezett (hazai termelésből beszerzett egyenletes ütemezésű tervezett negyedéves mennyiség): a volt közüzemi nagykereskedő által hazai termelésből beszerezni kívánt, tervezett földgáz mennyisége az adott naptári év negyedévében, kWh-ban, melyet a Hivatal a termelő adatszolgáltatása alapján határoz meg a volt közüzemi nagykereskedő számára;
 
-4.13. QHazai termelés_éves tény (hazai termelésből beszerzett éves tény mennyiség): a volt közüzemi nagykereskedő által hazai termelésből beszerzett földgáz tény mennyisége az adott naptári évben, kWh-ban;
+4.13. QHazai termelés_negyedéves tény (hazai termelésből beszerzett negyedéves tény mennyiség): a volt közüzemi nagykereskedő által hazai termelésből beszerzett földgáz tény mennyisége az adott naptári év negyedévében, kWh-ban;
 
 4.14. PAktuális import ár (import földgáz ára az adott hónapban, HUF/kWh-ban kifejezve):
 
@@ -82,7 +80,7 @@ PAktuális import ár = (fgS + sp) * EURHUF /1000, ahol:
 
 4.14.3. EURHUF: Az adott hónap utolsó 5 banki napjára vonatkozó hivatalos MNB napi EURHUF (tény) árfolyamainak számtani átlaga;
 
-4.15. PAktuális import ár_éves átlag (import földgáz átlagos ára az adott naptári évben, HUF/kWh-ban kifejezve): az adott naptári év egyes hónapjaira vonatkozó PAktuális import ár mennyiséggel súlyozott átlaga;
+4.15. PAktuális import ár_negyedéves átlag (import földgáz átlagos ára az adott naptári év negyedévében, HUF/kWh-ban kifejezve): az adott negyedév egyes hónapjaira vonatkozó PAktuális import ár mennyiséggel súlyozott átlaga, ahol a mennyiségi súlyozás alapja az egyetemes szolgáltatók számára tervezett értékesítési profil;
 
 4.16. PFedezett import ár (import földgáz fedezett ára az adott hónapban, HUF/kWh-ban kifejezve):
 
@@ -122,10 +120,10 @@ PFedezett tárolói ár = ( ∑QTárolói fedezés *(fgSFedezett tároló+ sp) *
 
 4.17.7. EURHUFNem_fedezett_tároló: az adott betárolási időszak hónapjainak utolsó 5 banki napjára vonatkozó hivatalos MNB napi EURHUF (tény) árfolyamainak számtani átlaga;
 
-4.18. PHazai termelés (hazai termelésből beszerzett földgáz ára): a hazai termelésből beszerzett, veszteség elszámolás nélkül számított földgáz e rendelet szerinti ára a tárgyhónapban HUF/kWh-ban meghatározva, melynek mértékéről a Hivatal adatot szolgáltat a volt közüzemi nagykereskedő számára;
+4.18. PHazai termelés (hazai termelésből értékesített földgáz ára): a hazai termelésből beszerzett földgáz tárgyhónapra vonatkozóan HUF/kWh-ban meghatározott értékesítési ára, mely a hazai termelésű földgáz e rendelet szerint beszerzett, veszteség elszámolás nélkül számított árából kerül meghatározásra, figyelembevéve az ezt megelőzően átvett, de tárgyhónapig fel nem használt hazai termelésű földgáz veszteség elszámolás nélkül számított beszerzési árát is. A hazai termelésből értékesített földgáz árának mértékéről a Hivatal adatot szolgáltat a volt közüzemi nagykereskedő számára;
 
-4.19. PHazai termelés_éves átlag (hazai termelésből beszerzett földgáz átlagos ára az adott naptári évben): az adott naptári év egyes hónapjaira vonatkozó PHazai termelés mennyiséggel súlyozott átlaga;
+4.19 PHazai termelés_negyedéves átlag (hazai termelésből beszerzett földgáz átlagos ára az adott naptári negyedévben): a tárgy naptári év negyedéveire vonatkozó PHazai termelés egyenletes ütemezésű tervezett napi mennyiségekkel (QHazai termelés_negyedéves tervezett) súlyozott átlaga;
 
-4.20. MtM (nyitott fedezeti ügyletek aktuális piaci értéke): a volt közüzemi nagykereskedő által az egyetemes szolgáltatók ellátása érdekében kötött minden olyan fedezeti ügylet aktuális piaci értékének összege (beleértve a fedezett és tárolói fedezett mennyiségekre kötött tömegáru és devizaügyleteket is) a tárgyév utolsó napjára vonatkozóan meghatározva, amelyek lejárata a számítás időpontját követően történik. Az MtM kezdeti értéke 0.
+4.20. MtM (nyitott fedezeti ügyletek aktuális piaci értéke): a volt közüzemi nagykereskedő által kizárólag az egyetemes szolgáltatók ellátása érdekében kötött minden, a tárgyév utolsó napján nyitott, a volt közüzemi nagykereskedő számviteli nyilvántartásában a számvitelről szóló 2000. évi C. törvény 59/E. § alá nem tartozó fedezeti ügylet (beleértve a fedezett és tárolói fedezett mennyiségekre kötött tömegáru és devizaügyleteket is) aktuális piaci értékének összege, a tárgyév utolsó napjára vonatkozóan meghatározva. Az MtM 2016. évi kezdeti értéke 0.
 
-[^63]: A 13. mellékletet a 6/2016. (III. 30.) NFM rendelet 7. § (6) bekezdése iktatta be, szövege a 20/2016. (VI. 30.) NFM rendelet 2. § d) pontja szerint módosított szöveg.
+[^65]: A 13. mellékletet a 6/2016. (III. 30.) NFM rendelet 7. § (6) bekezdése iktatta be, szövege a 20/2016. (VI. 30.) NFM rendelet 2. § d) pontja, a 40/2016. (IX. 30.) NFM rendelet 2. § e) pontja szerint módosított szöveg.

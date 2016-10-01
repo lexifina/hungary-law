@@ -1,4 +1,4 @@
-## A 2. § szerinti földgázforrás ára és mennyisége 2016. harmadik negyedévre, valamint a felek köre
+## A 2. § szerinti földgázforrás ára és mennyisége 2016. negyedik negyedévre, valamint a felek köre
 
 ## A Magyar Földgázkereskedő Zrt. mint volt közüzemi nagykereskedő által értékesítendő földgázforrás legmagasabb hatósági ára és mennyisége:
 
@@ -6,12 +6,12 @@
 
 | 1. | Hónap | Szerződött egyetemes szolgáltató | Nem földgáztárolóból származó földgázforrás mennyisége (kWh) | Földgáztárolóból származó földgázforrás mennyisége (kWh) | Földgázforrás ára (forint/kWh) |
 
-| 2. | július | Főgáz Zrt. | 237 367 788 | 0 | 6,036 |
+| 2. | október | Főgáz Zrt. | 1 866 280 000 | 0 | 5,657 |
 
-| 3. | augusztus | Főgáz Zrt. | 227 583 342 | 0 | 6,036 |
+| 3. | november | Főgáz Zrt. | 3 571 151 000 | 0 | 5,657 |
 
-| 4. | szeptember | Főgáz Zrt. | 338 826 582 | 0 | 6,036 |
+| 4. | december | Főgáz Zrt. | 5 386 990 000 | 0 | 5,657 |
 
-3. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^53]
+3. melléklet a 19/2010. (XII. 3.) NFM rendelethez[^55]
 
-[^53]: A 3. melléklet a 20/2016. (VI. 30.) NFM rendelet 2. § b) pontjával megállapított szöveg.
+[^55]: A 3. melléklet a 40/2016. (IX. 30.) NFM rendelet 2. § b) pontjával megállapított szöveg.
