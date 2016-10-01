@@ -1,5 +1,0 @@
-10. § (1) A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet a következő 57. §-sal egészül ki:
-
-## „57. § A Terrorelhárítási Központ a belügyminiszter irányítása alá tartozó rendvédelmi feladatokat ellátó szervek hivatásos állományának 2017. évi ruházati utánpótlási ellátmánya terhére kiadott természetbeni ellátásról szóló 38/2016. (IX. 29.) BM rendeletettel megállapított 3. melléklet 2.7. pontjában szereplő termékek rendszeresítésére irányuló javaslatot 2016. november 15-ig köteles megküldeni a miniszter részére.”
-
-(2) A belügyminiszter irányítása alá tartozó szervek egyenruha-ellátásra jogosult személyi állományának ruházati és öltözködési szabályzatáról, valamint a különleges foglalkoztatási állomány ruházati, fegyverzeti, kényszerítőeszköz- és világítástechnikai felszereléséről szóló 14/2016. (V. 10.) BM rendelet 3. melléklete az 1. melléklet szerint módosul.

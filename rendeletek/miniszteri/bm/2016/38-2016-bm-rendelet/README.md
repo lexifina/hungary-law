@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-38-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-09-30 | 2016-38-20-0A.1 | 38/2016. (IX. 29.) BM rendelet |
+| 2016-10-01 | 2016-38-20-0A.2 | 2010: CXXX. törvény |
