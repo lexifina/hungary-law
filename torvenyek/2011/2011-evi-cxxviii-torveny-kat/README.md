@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-128-00-00
 | 2015-06-01 | 2013. évi CXCII. törvény | 2011-128-00-00.12 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2011-128-00-00.13 |
 | 2016-07-01 | 2015. évi CCIII. törvény | 2011-128-00-00.14 |
+| 2016-10-01 | 2016. évi LXVII. törvény | 2011-128-00-00.15 |
