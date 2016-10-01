@@ -1,6 +1,6 @@
 ### 5:89. § [A zálogszerződés]
 
-(1) A zálogszerződésben a zálogkötelezett és a zálogjogosult zálogjognak meghatározott zálogtárgyon meghatározott követelés biztosítása céljából való alapításában állapodnak meg.
+(1) A zálogszerződésben a zálogkötelezett és a zálogjogosult zálogjognak meghatározott zálogtárgyon és – ha e törvény eltérően nem rendelkezik – meghatározott követelés biztosítása céljából való alapításában állapodnak meg.
 
 (2) A zálogszerződés alapján a zálogkötelezett köteles
 

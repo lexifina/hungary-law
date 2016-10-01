@@ -14,4 +14,4 @@
 
 (7) Az elzálogosított követelés teljesítéseként szolgáltatott, illetve az elzálogosított követelést biztosító zálogjog, kezesség vagy más biztosíték alapján befolyt pénz vagy más vagyontárgy az eredeti zálogtárgy helyébe lép.
 
-(8) A különvált zálogjog érvényesítése eredményeként a különvált zálogjog jogosultjához befolyt pénzösszegen vagy más vagyontárgyon a zálogjog átruházására okot adó követelést biztosító kézizálogjog keletkezik.
+(8)

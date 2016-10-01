@@ -14,7 +14,7 @@ c) a kézizálogjog jogosultja elveszíti a zálogtárgy birtokát, kivéve, ha 
 
 d) a zálogjoggal biztosított követelés, illetve minden olyan jogviszony, amely alapján a jövőben zálogjoggal biztosított követelés keletkezhet, megszűnik;
 
-e) a zálogjoggal biztosított követelés elévül;
+e) a zálogjoggal biztosított követelés elévül, ez azonban a követelést biztosító kézizálogból való kielégítést nem akadályozza;
 
 f) a zálogjogosult a kielégítési jogát gyakorolva a zálogtárgyat értékesíti vagy a zálogtárgy tulajdonjogát megszerzi.
 
@@ -22,4 +22,4 @@ f) a zálogjogosult a kielégítési jogát gyakorolva a zálogtárgyat értéke
 
 (3) A zálogjog fennmarad a zálogjoggal biztosított követelés biztosítékául, ha ugyanaz a személy lesz a zálogkötelezett és a zálogjogosult.
 
-(4) Az előző bekezdésekben meghatározott esetekben a zálogjog akkor is megszűnik, ha korábban annak átruházására került sor.
+(4) Megszűnik a zálogjog, ha a követelés átruházása kifejezetten az azt biztosító zálogjog átszállásának kizárásával történt. Ha azonban a zálogjog a követelés átruházójának az átruházott követelését meghaladóan más követelését is biztosítja, e követelés biztosítékaként a zálogjog fennmarad.

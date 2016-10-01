@@ -2,22 +2,22 @@
 
 (1) Óvadék
 
-a) pénzen és értékpapíron kézizálogjogként;
+a) pénzen és értékpapíron,
 
-b) dematerializált értékpapíron kézizálogjogként vagy a (2) bekezdésben meghatározott módokon;
+b) fizetésiszámla-követelésen, illetve betétszerződésből eredő követelésen vagy egyébként jogszabály rendelkezése szerint számlavezetőként erre feljogosított intézmény által vezetett számlán nyilvántartott követelésen (a továbbiakban e cím alkalmazásában: fizetésiszámla-követelés), továbbá
 
-c) fizetésiszámla-követelésen a (2) bekezdésben meghatározott módokon;
-
-d) jogszabályban meghatározott egyéb vagyontárgyon a (4) bekezdésben meghatározott módon
+c) jogszabályban óvadék tárgyaként meghatározott más vagyontárgyon
 
 alapítható.
 
-(2) Dematerializált értékpapíron és fizetésiszámla-követelésen óvadék alapítása történhet
+(2) Óvadékot pénzen és nem dematerializált értékpapíron kézizálogjogként, dematerializált értékpapíron, fizetésiszámla-követelésen és jogszabályban óvadék tárgyaként meghatározott más vagyontárgyon pedig úgy kell alapítani, hogy annak eredményeként az óvadék tárgya egyértelműen azonosítható módon az óvadék kötelezettjének hatalmából az óvadék jogosultjának hatalmába kerüljön, vagy az óvadék kötelezettjének korlátlan rendelkezése alól egyébként kikerüljön.
 
-a) a számlatulajdonos, a számlavezető és a zálogjogosult közötti írásbeli megállapodással, amely szerint a számlavezető a számlatulajdonos rendelkezéseit a zálogjogosult jóváhagyásával, a zálogjogosult rendelkezéseit a számlatulajdonos jóváhagyása nélkül is teljesíti; vagy
+(3) Dematerializált értékpapíron és fizetésiszámla-követelésen óvadék
 
-b) a számlavezető javára önmagában a számlatulajdonos és a számlavezető közötti zálogszerződéssel.
+a) a számlatulajdonos, a számlavezető és az óvadék jogosultja közötti írásbeli megállapodással, amely szerint a számlavezető a számlatulajdonos rendelkezéseit az óvadék jogosultjának jóváhagyásával, az óvadék jogosultjának rendelkezéseit a számlatulajdonos jóváhagyása nélkül is teljesíti; vagy
 
-(3) A számlavezető a (2) bekezdésben foglaltak szerint fennálló zálogjogot valamennyi számlakivonaton és egyéb egyenlegközlő iraton köteles feltüntetni.
+b) a számlavezető javára önmagában a számlatulajdonos és a számlavezető közötti zálogszerződéssel
 
-(4) Ha az óvadék tárgya jogszabályban meghatározott vagyontárgy, az óvadék alapításához az szükséges, hogy az óvadék tárgya egyértelműen azonosítható módon a kötelezett hatalmából a jogosult hatalmába kerüljön, vagy a kötelezett korlátlan rendelkezése alól egyébként kikerüljön.
+is alapítható.
+
+(4) A számlavezető a dematerializált értékpapíron és fizetésiszámla-követelésen fennálló óvadékot valamennyi számlakivonaton és egyéb egyenlegközlő iraton köteles feltüntetni.

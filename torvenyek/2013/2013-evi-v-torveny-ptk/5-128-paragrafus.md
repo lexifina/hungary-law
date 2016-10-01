@@ -1,7 +1,9 @@
-### 5:128. § [A kielégítési jog gyakorlása fogyasztói zálogszerződés esetén]
+### 5:128. § [A kielégítési jog gyakorlása fogyasztóval szemben]
 
-Fogyasztói zálogszerződés esetén a zálogjogosult
+A zálogjogosult a fogyasztóval szembeni kielégítési jogát bírósági végrehajtáson kívül csak akkor gyakorolhatja, ha
 
-a) csak nyilvánosan értékesítheti a zálogtárgyat, kivéve, ha a felek a kielégítési jog megnyílása után írásban eltérő értékesítési módban állapodtak meg; és
+a) az óvadék tárgyára vonatkozóan a közvetlen kielégítés jogával él,
 
-b) nem szerezheti meg - az óvadék kivételével - a kielégítés fejében a zálogtárgy tulajdonjogát.
+b) az elzálogosított jogot vagy követelést e törvény szerint érvényesíti, vagy
+
+c) a kielégítési jog megnyílása után a zálogkötelezettel a zálogtárgy zálogjogosult által történő értékesítésének módjában írásban megállapodott.

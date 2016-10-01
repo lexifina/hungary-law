@@ -10,7 +10,7 @@ c) a zálogkötelezett számlavezetőjét vagy azt a harmadik személyt, aki min
 
 (2) A harmadik személy, aki mint zálogtartó a zálogtárgy birtokában van vagy akinek a számláján a zálogtárgyat a zálogjogosult javára jóváírták, a zálogjog megszűntéről való írásbeli értesítés kézhezvételét követően késedelem nélkül köteles a zálogtárgyat a zálogkötelezettnek visszaadni vagy a számláján jóváírt zálogtárgynak a zálogkötelezett számláján való jóváírásáról rendelkezni.
 
-(3) A különvált zálogjog jogosultja köteles a zálogjog megszűnésekor és az eredeti zálogjogosultra való visszaszállásakor az eredeti zálogjogosulttal elszámolni.
+(3)
 
 ## VIII. CÍM
 

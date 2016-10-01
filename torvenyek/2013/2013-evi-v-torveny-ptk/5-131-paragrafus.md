@@ -12,7 +12,7 @@ c) lajstromozott zálogtárgy esetén mindazokat, akiknek a zálogtárgyra vonat
 
 d) azokat, akik a zálogtárgyat terhelő joguk fennállásáról, annak igazolása mellett, a zálogjogosult által adott értesítést megelőző tizedik napig írásban értesítették.
 
-(2) Az előzetes értesítés és az értékesítés között legalább tíz napnak, fogyasztói zálogszerződés esetén legalább harminc napnak kell eltelnie.
+(2) Az előzetes értesítés és az értékesítés időpontja között legalább tíz napnak kell eltelnie.
 
 (3) Az előzetes értesítésben meg kell jelölni
 
