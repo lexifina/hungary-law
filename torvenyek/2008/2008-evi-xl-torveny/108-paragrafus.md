@@ -1,13 +1,15 @@
-108. § (1) A földgázszállító vagy a földgázelosztó vezetékhez történő csatlakozásért vagy a korábban vásárolt kapacitást meghaladó többletkapacitásért csatlakozási díjat kell fizetni. A csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjakat és alkalmazásuk szabályait a Hivatal elnöke rendeletben állapítja meg. A csatlakozási díj általános forgalmiadó-fizetési kötelezettségére külön törvény rendelkezései irányadók.
+108. § (1) A földgázszállító vagy a földgázelosztó vezetékhez történő csatlakozásért vagy a korábban vásárolt kapacitást meghaladó többletkapacitásért díjat (a továbbiakban: csatlakozási díj) kell fizetni. A Hivatal elnöke rendeletben állapítja meg
 
-(2) A csatlakozási díjat úgy kell megállapítani, hogy az igények befolyásolásán keresztül segítse elő a legkisebb költség elvének érvényesülését, valamint vegye figyelembe a hálózatra később csatlakozott rendszerhasználók csatlakozásának hatásaiból származó előnyöket. A csatlakozási díj nem haladhatja meg a szállítási rendszerüzemeltető vagy a földgázelosztó által közvetlenül a csatlakozás érdekében végrehajtott hálózati beruházásra fordított összeg nagyságát.
+a) a csatlakozási díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat a következő árszabályozási ciklus kezdetét megelőző év május 15-ig,
 
-(3) A csatlakozási díjból származó bevételt a csatlakozáshoz szükséges beruházásokra kell fordítani.
+b) a csatlakozási díjak elemeit, a díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.
 
-(3a) A rendszerüzemeltető köteles a Hivatal által megállapított áralkalmazási feltételeket alkalmazni.
+(2) A csatlakozási díjak mértékét a Hivatal határozatban állapítja meg legkésőbb a díjak alkalmazhatósága előtt 45 nappal. A Hivatal a határozatát a csatlakozási díjak alkalmazhatósága előtt legkésőbb 25 nappal a honlapján közzéteszi.
 
-(4) A Hivatal az (1) bekezdésben meghatározott elnöki rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét. A Hivatal a rendelet tervezetét az engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveivel történő egyeztetést megelőzően a honlapján közzéteszi.
+(3) A csatlakozási díjat úgy kell megállapítani, hogy az igények befolyásolásán keresztül segítse elő a legkisebb költség elvének érvényesülését, valamint figyelembe vegye a hálózatra később csatlakozott rendszerhasználók csatlakozásának hatásaiból származó előnyöket. A csatlakozási díj nem haladhatja meg a szállítási rendszerüzemeltető vagy a földgázelosztó által közvetlenül a csatlakozások érdekében végrehajtott hálózati beruházásokra fordított összegek nagyságát.
 
-(5) A csatlakozási díjból származó vagy a csatlakozási díj megállapításáról szóló külön jogszabályban meghatározott bevételből finanszírozott beruházást a rendszerhasználati díjak meghatározásával összefüggésben a tőkeköltség számításánál figyelmen kívül kell hagyni.
+(4) A csatlakozási díjból származó összes bevételt a csatlakozáshoz szükséges beruházásokra kell fordítani.
 
-(6)
+(5) A Hivatal az (1) bekezdés szerinti rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét. A Hivatal a rendelet tervezetét az egyeztetést megelőzően a honlapján közzéteszi.
+
+(6) Az (1) bekezdés szerinti rendeletben meghatározott bevételből finanszírozott beruházást a rendszerhasználati díjak meghatározásával összefüggésben a tőkeköltség és az értékcsökkenés számításánál figyelmen kívül kell hagyni.

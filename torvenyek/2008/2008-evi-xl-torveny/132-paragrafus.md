@@ -38,15 +38,15 @@
 
 17. a szervezett földgázpiaci tevékenységre és a tevékenység engedélyezésére, valamint a szervezett földgázpiac működtetésére vonatkozó részletes szabályokat,
 
-18. a földgázszállítási tevékenység végzésének és a földgázszállítói kapacitás értékesítésének részletes szabályait, az egyensúlytartással, az egyensúlyozó eszközökkel és felhasználásukkal kapcsolatos szabályokat, különösen a felhasználásukkal kapcsolatos jogokat és kötelezettségeket, valamint a kiegyensúlyozási pótdíj nyilvántartásával kapcsolatos rendelkezéseket,
+18. a földgázszállítási tevékenység végzésének részletszabályait és a földgázszállítói kapacitás értékesítésének alapelveit, az egyensúlytartással, az egyensúlyozó eszközökkel és felhasználásukkal kapcsolatos szabályok kialakításához szükséges alapelveket,
 
-19. a földgázelosztási szolgáltatás végzésének, és a földgázelosztói kapacitás értékesítésének részletes szabályait, a földgázelosztási szabályzatot, valamint a földgázkereskedő, és az egyetemes szolgáltató által kezdeményezett földgázelosztási szüneteltetés eseteit, az elosztóhálózat-használati szerződés tartalmi és formai követelményeit, valamint a szerződésszegés eseteit és jogkövetkezményeit, továbbá az elosztóvezetékhez kapcsolódó fogyasztási helyek és az ott vételező felhasználók adatainak nyilvántartására, a nyilvántartásból történő adatszolgáltatásra vonatkozó rendelkezéseket,
+19. a földgázelosztási szolgáltatás végzésének és a földgázelosztói kapacitás értékesítésének részletes szabályait, a földgázelosztási szabályzatot, valamint a szerződésszegésből vagy nemfizetésből eredő kikapcsolás és szüneteltetés eseteit, az elosztóhálózat-használati szerződés tartalmi és formai követelményeit, a szerződésszegés eseteit és jogkövetkezményeit, továbbá az elosztóvezetékhez kapcsolódó fogyasztási helyek és az ott vételező felhasználók adatainak nyilvántartására, a nyilvántartásból történő adatszolgáltatásra vonatkozó rendelkezéseket,
 
 20. a földgáztárolási tevékenység végzésére, ezen belül a kapacitáslekötésre és értékesítés feltételeire, valamint a földgáztárolási szolgáltatásra vonatkozó részletes szabályokat,
 
 21. az egyetemes szolgáltató által létesített ügyfélszolgálatok elhelyezésére és működtettetésére vonatkozó részletes szabályokat,
 
-22. az egyensúlytartás feltételeit, valamint a rendszerhasználók és rendszerüzemeltetők együttműködésének részletes szabályait,
+22.
 
 23. a vezetékes PB-gáz szolgáltatásra, ezen belül az elosztási és az értékesítési tevékenységre vonatkozó részletes szabályokat,
 
@@ -56,11 +56,11 @@
 
 26. a védendő fogyasztók, valamint az őket az e törvényben meghatározottakon túlmenően megillető kedvezmények körét, biztosításuk és igénybevételük részletes szabályait, továbbá a fogyatékkal élő fogyasztókat megillető különleges bánásmód részletes szabályait, a védendő fogyasztói körbe tartozás igazolására alkalmas okiratok körét, tartalmi és formai követelményeit,
 
-27. a felhasználók és földgáztermelők földgázrendszerre történő csatlakozásának részletes szabályait, ezen belül a csatlakozás műszaki-gazdasági feltételeit, és azok közzétételét, a földgázelosztó és a földgázszállító csatlakozással kapcsolatos együttműködésének szabályait, a szerződéskötési kötelezettség részletes feltételeit, valamint jogsértés esetén a Hivatal által alkalmazható jogkövetkezményeket,
+27. a felhasználók és földgáztermelők földgázrendszerre történő csatlakozására vonatkozó részletes szabályok kialakításához szükséges alapelveket, a csatlakozásra vonatkozó igénybejelentésre és a csatlakozási igény kielégítésére vonatkozó ajánlattal kapcsolatos általános szabályokat, a szerződéskötési kötelezettség feltételeit és a csatlakozási szerződés tartalmi elemeit, valamint jogsértése esetén a Hivatal által alkalmazható jogkövetkezményeket,
 
-28. a kapacitáslekötés részletes szabályait, ezen belül az igény kielégítés rendjét, a továbbértékesítés szabályait, a szabad kapacitás közzétételének, és lekötésének szabályait,
+28. a nem határponti betáplálási-kiadási pontokon történő kapacitáslekötés szabályait, ezen belül az igénykielégítés rendjét, a továbbértékesítés szabályait, a szabad kapacitás közzétételének, és lekötésének szabályait,
 
-29. a rendszerüzemeltető üzemeltetésében lévő rendszerhez való hozzáférés, a hozzáférés megtagadásának, felfüggesztésének, visszaállításának részletes szabályait,
+29. a rendszerüzemeltető üzemeltetésében lévő rendszerhez való hozzáférés, a hozzáférés megtagadása, felfüggesztése és visszaállítása általános szabályainak részletes kialakításához szükséges iránymutatásokat,
 
 30. a földgáz szagosítására vonatkozó rendelkezéseket és a nem többségi földgázelosztói vagy földgázszállítói tulajdonban lévő vezeték szakaszok esetében az üzemeltetési szerződés kötelező tartalmi elemeit, valamint a szállító-, és az elosztóvezeték tulajdonosainak jogait és kötelezettségeit,
 

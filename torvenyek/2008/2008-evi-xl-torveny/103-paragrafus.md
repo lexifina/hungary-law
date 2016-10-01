@@ -10,7 +10,7 @@ a) a 105. § (1) bekezdése szerinti rendszerhasználati díj – kivéve a 105/
 
 b) a 108. § (1) bekezdése szerinti csatlakozási díj,
 
-c) az egyetemes szolgáltató által a felhasználó vagy a rendszerhasználó igénye alapján végzett alapszolgáltatásokon túli egyéb szolgáltatások 106. § szerinti díja,
+c) a 106. § és a 106/A. § szerinti külön díjak,
 
 d) az egyetemes szolgáltatás 107. § (3) bekezdése szerinti ára
 
@@ -24,7 +24,9 @@ h) a 11,5 kg-os töltettömegű palackos PB-gáz
 
 ha) gázkiskereskedő részére történő értékesítésének ára, és
 
-hb) palackos PB-gáz fogyasztó részére történő értékesítésének ára.
+hb) palackos PB-gáz fogyasztó részére történő értékesítésének ára,
+
+i) a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes által a felhasználók igénye alapján végzett adatszolgáltatás 100. § (2c) bekezdése szerinti díjai.
 
 (2a) A földgázellátással összefüggésben
 
@@ -32,7 +34,7 @@ a) a rendszerhasználó és a rendszerüzemeltető a (2) bekezdés a) pontjában
 
 b) a leendő felhasználó, a felhasználó és a földgáztermelő a (2) bekezdés b) pontjában,
 
-c) miniszteri rendeletben meghatározott személyek a (2) bekezdés c) pontjában,
+c) miniszteri rendeletben, továbbá a Hivatal elnökének rendeletében meghatározott személy a (2) bekezdés c) pontjában,
 
 d) az egyetemes szolgáltatás keretében ellátott felhasználó a (2) bekezdés d) pontjában,
 
@@ -52,7 +54,7 @@ c) a palackos PB-gáz fogyasztó a (2) bekezdés h) pont hb) alpontjában
 
 foglalt árat köteles megfizetni.
 
-(3) Az együttműködő földgázrendszer használatáért fizetendő 105. § (1) bekezdése szerinti díjakat a Hivatal elnöke rendeletben állapítja meg. A földgázkereskedő által a felhasználónak értékesített földgáz árát a felek megállapodása vagy a földgázkereskedő üzletszabályzata tartalmazza. Az egyetemes szolgáltatás keretében értékesített földgáz árát, a vételre felajánlott földgázforrás árát, mennyiségét, valamint az egyetemes szolgáltatás keretében földgázt vételező felhasználók, illetve a 141/C. § (2) bekezdése szerinti földgázkereskedő által ellátott, egyetemes szolgáltatásra jogosult felhasználók ellátásához szükséges mennyiség mértékéig a hazai termelésű földgáz árát, valamint a 141/C. § (5) bekezdése és a 141/J. § (8) bekezdése szerinti mennyiséget és árat, továbbá a 141/J. § (3) bekezdés b) pontja szerinti árelemeket a Hivatal javaslata alapján a miniszter rendeletben állapítja meg.
+(3) Az együttműködő földgázrendszer használatáért fizetendő 105. § (1) bekezdése szerinti díjakat a Hivatal határozatban állapítja meg. A földgázkereskedő által a felhasználónak értékesített földgáz árát a felek megállapodása vagy a földgázkereskedő üzletszabályzata tartalmazza. Az egyetemes szolgáltatás keretében értékesített földgáz árát, a vételre felajánlott földgázforrás árát, mennyiségét, valamint az egyetemes szolgáltatás keretében földgázt vételező felhasználók és a 141/J. § (8) bekezdése szerinti mennyiséget és árat, továbbá a 141/J. § (3) bekezdés b) pontja szerinti árelemeket a Hivatal javaslata alapján a miniszter rendeletben állapítja meg.
 
 (4) A távhőszolgáltatás versenyképesebbé tételéről szóló 2008. évi LXVII. törvény és a közművezetékek adójáról szóló 2012. évi CLXVIII. törvény (a továbbiakban együtt: Különadó törvények) szerint külön jövedelemadó, illetve közművezetékek után fizetendő adó (a továbbiakban együtt: különadó) fizetésére kötelezett termelő, valamint e törvény szerinti engedélyes a különadót nem háríthatja át a vele szerződésben állóra. Ebből következően a különadó az engedélyes, illetve a termelő által nyújtott termék vagy szolgáltatás árába közvetlenül vagy közvetve semmilyen formában nem számítható be, illetve külön nem számlázható ki. Az adókötelezettség terhét a Különadó törvények szerinti adóalany önállóan viseli.
 

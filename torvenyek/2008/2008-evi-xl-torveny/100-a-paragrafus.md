@@ -1,6 +1,6 @@
 100/A. § (1) A felhasználó esedékes díjfizetési kötelezettségének elmulasztása miatt – a 29. § (3) bekezdése szerinti feltételek teljesülése esetén – a földgázkereskedő a földgázelosztónál kezdeményezheti előre fizető mérő felszerelését.
 
-(2) (2) A szállítási rendszerüzemeltető és a földgázelosztó – eltérő megállapodás hiányában – térítésmentesen köteles biztosítani és felszerelni
+(2) A szállítási rendszerüzemeltető és a földgázelosztó – eltérő megállapodás hiányában – térítésmentesen köteles biztosítani és felszerelni
 
 a) a felhasználó számára a fogyasztásmérő berendezést, valamint
 

@@ -48,7 +48,7 @@ c) az azonos típusú működési engedéllyel rendelkező engedélyesekkel és 
 
 (7) A rendszerüzemeltetők és a telephelyi szolgáltatók nem élhetnek vissza azokkal az üzleti érdeket érintő információkkal, amelyekhez a rendszerhasználóktól az együttműködő földgázrendszerhez való hozzáférés megvalósítása vagy tárgyalása során jutottak, és kötelesek továbbá mindazon üzleti titoknak nem minősülő információkat az összes érdekelt rendelkezésére bocsátani, amelyeket bármelyik érdekelt részére eljuttattak.
 
-(8) A rendszerhasználók és a rendszerüzemeltetők kötelesek a rendszeregyensúly fenntartásához szükséges operatív jellegű, az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat folyamatosan szolgáltatni. Az adatforgalomban résztvevők kötelesek biztosítani az üzleti titoknak minősülő információk bizalmas kezelését.
+(8) A rendszerhasználók, a rendszerüzemeltetők és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes kötelesek a rendszeregyensúly fenntartásához szükséges operatív jellegű, az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat folyamatosan szolgáltatni. Az adatforgalomban résztvevők kötelesek biztosítani az üzleti titoknak minősülő információk bizalmas kezelését.
 
 (9) A szállítási rendszerüzemeltető köteles a rendszerüzemeltetőknek, a szállítóvezetékhez közvetlenül kapcsolódó felhasználóknak, a földgáztermelőnek és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyesnek a földgázszállítási alapszolgáltatás keretében a szállított földgáz minőségére vonatkozó napi elszámolási adatot szolgáltatni.
 

@@ -10,7 +10,17 @@ c) saját szervezetén belül a rendszerüzemeltetőkkel, a rendszerhasználókk
 
 (2) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyesnek meg kell felelnie a földgázelosztóra vonatkozó, XIII. fejezetben meghatározott szétválasztási szabályoknak.
 
-(3) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes főbb feladata az elosztóvezetékhez közvetlenül csatlakozó felhasználók, valamint a telephelyi vezetékhez közvetlenül csatlakozó, a földgázt közvetlenül földgázkereskedőtől beszerző telephelyi felhasználók felhasználási helye azonosítóinak, fogyasztásmérő berendezése adatainak, elszámolási mérési adatainak, lekötött kapacitás adatainak, elszámolási adatainak és az elszámolási adatok kiszámításához szükséges adatoknak, a felhasználót ellátó földgázkereskedő feltüntetésével együtt, az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerinti nyilvántartása.
+(3) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes főbb feladatai az elosztóvezetékhez közvetlenül csatlakozó felhasználók, valamint a telephelyi vezetékhez közvetlenül csatlakozó, a földgázt közvetlenül földgázkereskedőtől beszerző telephelyi felhasználók vonatkozásában:
+
+a) a felhasználási hely azonosítóinak, fogyasztásmérő berendezés adatainak, elszámolási mérési adatoknak, lekötött kapacitás adatoknak, elszámolási adatoknak és az elszámolási adatok kiszámításához szükséges adatoknak, a felhasználót ellátó földgázkereskedő feltüntetésével együtt, az Üzemi és Kereskedelmi Szabályzatban meghatározottak szerinti nyilvántartása,
+
+b) a földgázfelhasználás felhasználási hely egyedi azonosítónkénti (POD) mennyiségekre történő felosztása,
+
+c) a mérőleolvasás alapján meghatározott tényleges fogyasztás és felhasználási hely egyedi azonosítónként felosztott földgáz vételezés közötti különbség meghatározása és továbbítása a földgázelosztó, valamint a rendszerhasználók felé,
+
+d) a mérési és az elszámolási adatok szolgáltatása a felhasználók és a felhasználó hozzájáruló nyilatkozatával rendelkező földgázkereskedő részére.
+
+(3a) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes korrekciós elszámolásához kapcsolódó földgáz adásvétele nem minősül e törvény szerinti földgáz-kereskedelemnek.
 
 (4) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes köteles az üzleti titoknak minősülő információk bizalmas kezelését az e törvényben előírtak szerint biztosítani. A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes tevékenységének a piaci szereplők számára átláthatónak és diszkriminációmentesnek kell lennie.
 
@@ -22,7 +32,7 @@ c) saját szervezetén belül a rendszerüzemeltetőkkel, a rendszerhasználókk
 
 (8) A központi adatgyűjtő és feldolgozó rendszert a magyar állam közvetlen vagy közvetett, kizárólagos tulajdonában lévő zártkörűen működő részvénytársaság működteti. A társaság átalakulásához, megszüntetéséhez, a központi adatgyűjtő és feldolgozó rendszer működtetését érintő vagyonelemeinek megterheléséhez vagy biztosítékul való lekötéséhez, elidegenítéséhez a Hivatal előzetes hozzájárulása szükséges.
 
-(9) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes az általános biztonsági, minőségi, műszaki, informatikai és adatvédelmi előírásainak szabályozására köteles szabályzatot készíteni. A központi adatgyűjtő és feldolgozó rendszer szabályzatát a Hivatal hagyja jóvá.
+(9) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes az általa nyújtott szolgáltatások általános biztonsági, minőségi, műszaki, informatikai és adatvédelmi előírásainak szabályozására, az elszámolási adatok meghatározására vonatkozó részletes szabályokra, valamint a részére fizetendő díjak elszámolási és fizetési szabályainak meghatározására köteles szabályzatot készíteni. A központi adatgyűjtő és feldolgozó rendszer szabályzatát a Hivatal hagyja jóvá.
 
 (10) A központi adatgyűjtő és feldolgozó rendszer működtetésére vonatkozó részletes szabályokat az e törvény rendelkezéseinek végrehajtásáról szóló kormányrendelet, az Üzemi és Kereskedelmi Szabályzat, valamint a központi adatgyűjtő és feldolgozó rendszer szabályzata tartalmazza.
 

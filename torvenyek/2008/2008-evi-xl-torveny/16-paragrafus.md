@@ -24,6 +24,10 @@ g) a felhasználót ellátó rendszerhasználó vagy a saját jogon eljáró fel
 
 h) a szállítási rendszerüzemeltető felfüggesztette a szállítói rendszerhasználati szerződések teljesítését a felhasználó vagy a felhasználót ellátó rendszerhasználó vonatkozásában.
 
+(1a) A földgázelosztó az elosztási szolgáltatás megkezdésének vagy folytatásának megtagadásáról, felfüggesztéséről, a felhasználó kikapcsolásáról, a felhasználó által kezdeményezett rendszerhasználat szüneteltetésről és a szolgáltatás igénybevételének felhagyásáról köteles a központi adatgyűjtő és feldolgozó rendszert működtető engedélyest tájékoztatni.
+
+(1b) A földgázelosztó az elosztási szolgáltatás megkezdéséről, folytatásáról, a felhasználó visszakapcsolásáról, a rendszerhasználat szüneteltetését követő újraindításról köteles a központi adatgyűjtő és feldolgozó rendszert működtető engedélyest tájékoztatni.
+
 (2) A szolgáltatás nyújtása csak a kizárás alapjául szolgáló helyzet fennállásáig függeszthető fel, annak megszűnését követően a felhasználó részére a földgázelosztási szolgáltatást a megszűnés tényéről való tudomásszerzéstől számított 2 munkanapon – lakossági fogyasztó esetében 24 órán – belül biztosítani kell.
 
 (3) A földgázelosztó a felhasználási helyre való bejutás érdekében a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalához (a továbbiakban: járási hivatal) fordulhat, amennyiben a felhasználó akadályozza vagy meghiúsítja:

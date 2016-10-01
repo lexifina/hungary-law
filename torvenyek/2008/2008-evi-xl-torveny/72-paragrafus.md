@@ -1,6 +1,6 @@
 72. § (1) A rendszerüzemeltető a rendszerhasználó részére a rendszerhez való hozzáférést a kapacitáslekötéssel érintett időszakra rendszerhasználati szerződés alapján biztosítja.
 
-(2) A rendszerhasználó a rendszerhasználati szerződés megkötését követően jogosult a betáplálási-kiadási pont vagy a földgáztároló lekötött kapacitásait, valamint az összekapcsolási pont technikai kapacitásait a rendszerhasználati szerződésben foglaltak szerint igénybe venni. A rendszerhasználó köteles a lekötött kapacitás után a Hivatal elnökének rendeletében meghatározott rendszerhasználati díjat megfizetni.
+(2) A rendszerhasználó a rendszerhasználati szerződés megkötését követően jogosult a betáplálási-kiadási pont vagy a földgáztároló lekötött kapacitásait, valamint az összekapcsolási pont technikai kapacitásait a rendszerhasználati szerződésben foglaltak szerint igénybe venni. A rendszerhasználó köteles a lekötött kapacitás után a Hivatal határozatában meghatározott rendszerhasználati díjat megfizetni.
 
 (3) Elosztóvezetékhez csatlakozó felhasználó részére az adott felhasználási helyen legfeljebb a felhasználási hely vásárolt kapacitásának mértékéig köthető le kapacitás. A szállítóvezetékhez csatlakozó felhasználó részére az érintett gázátadó állomáson mint kiadási ponton legfeljebb a felhasználási hely vásárolt kapacitásának mértékéig köthető le kapacitás.
 
@@ -11,6 +11,8 @@
 (5a) Az elosztóvezetékhez közvetlenül csatlakozó felhasználó, valamint a telephelyi vezetékhez közvetlenül csatlakozó, a földgázt közvetlenül földgázkereskedőtől beszerző telephelyi felhasználó által lekötött kapacitás adatait a földgázelosztó köteles a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes részére megküldeni.
 
 (6) A felhasználó kérésére a vásárolt kapacitásról, a lekötött kapacitásról, a felhasználói profilba történő besorolásról, továbbá a felhasználási hely – e törvény végrehajtásáról szóló kormányrendeletben meghatározott – jellemző adatairól a felhasználó csatlakozását biztosító rendszerüzemeltető köteles igazolást kiadni.
+
+(6a) A saját jogon eljáró felhasználó vagy a felhasználó hozzájáruló nyilatkozatával rendelkező földgázkereskedő kérésére – ide nem értve a szállítóvezetékhez közvetlenül csatlakozó felhasználót vagy ezen felhasználó hozzájáruló nyilatkozatával rendelkező földgázkereskedőt – a lekötött kapacitásról, a felhasználói profilba történő besorolásról, továbbá a felhasználási hely – e törvény végrehajtásáról szóló kormányrendeletben meghatározott – jellemző adatairól a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes köteles igazolást kiadni.
 
 (7) A saját jogon eljáró felhasználó a betáplálási-kiadási ponton a saját földgáz felhasználása mértékéig kapacitást köthet le. Ha a felhasználó ezen kapacitáslekötési jogát átadta a földgázkereskedő részére, akkor a felhasználó rendszerhasználati szerződés megkötésére, valamint a betáplálási-kiadási ponton kapacitás lekötésére nem jogosult.
 
