@@ -1,5 +1,15 @@
 ## Öntözés
 
-69. § (1) Az öntözőtelep létesítményeit – a vízkorlátozási időszakot kivéve – úgy kell kialakítani, hogy az ellátandó terület tervezett vízszükséglete a szükséges időben és vízszintmagassággal biztosítható legyen.
+69. §[^15] (1) Az öntözés céljából történő vízkivételek során a kivett víz mennyiségét meg kell határozni vízbeszerzési létesítményként
 
-(2) Öntözőtelepek esetében az állami tulajdonú vízilétesítmény területén elhelyezhető a szívócső, a vízkitermelést végző szivattyú és a legközelebbi birtokhatárig érő nyomócső. Az öntözéshez szükséges egyéb tartozék vagy berendezés csak az öntözőtelep területén helyezhető el.
+a) folyamatosan mérő hitelesített vízmérővel,
+
+b) felszín alatti vízkivétel esetén akkreditált kalibráló laboratórium által 5 évnél nem régebben kalibrált kútvízmérővel, vagy
+
+c) felszíni vízkivétel esetén hiteles vagy kalibrált vízállásmérővel vagy kalibrált vízhozam-mérővel.
+
+(2) Több vízbeszerzési létesítményt csak akkor lehet összevontan mérni, ha azok vízkészletének jellege és vízminőségi kategóriája azonos.
+
+(3) Ha a mérés műszaki szempontból és méréstechnikailag nem megoldható, akkor a vízkészletjárulék kiszámításáról szóló miniszteri rendeletben meghatározott számítást kell alkalmazni.
+
+[^15]: A 69. § a 34/2016. (VIII. 2.) BM rendelet 12. §-ával megállapított szöveg.

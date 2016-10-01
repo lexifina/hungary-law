@@ -1,4 +1,4 @@
-## 91. §[^16] A 16/A. § valamint a 4. számú melléklet tervezete a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.
+## 91. §[^20] A 16/A. § valamint a 4. számú melléklet tervezete a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikke szerinti előzetes bejelentése megtörtént.
 
 1. számú melléklet a 30/2008. (XII. 31.) KvVM rendelethez
 
@@ -24,4 +24,4 @@ c) burkolt rézsűnél 1:1,5.
 
 4. Azon a védvonalon, amelynek a koronaszélessége 5 m-nél kisebb, szükség szerinti távolságban, 50 m hosszban, a korona 6 m-re szélesítésével kitérőket kell létesíteni.
 
-[^16]: A 91. §-t a 115/2012. (XI. 16.) VM rendelet 2. §-a iktatta be.
+[^20]: A 91. §-t a 115/2012. (XI. 16.) VM rendelet 2. §-a iktatta be.
