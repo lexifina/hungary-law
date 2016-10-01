@@ -1,3 +1,0 @@
-6. § (1) Az egyes önkormányzatokat az 1–5. § alapján megillető járandóság 2002. december 31. napjára számított összegét e törvény 1. számú melléklete tartalmazza.
-
-(2) Az 1. számú melléklet a közös beruházással érintett, valamint a szétválással vagy kiválással létrejött új településeket a szétválással vagy kiválással érintett eredeti jogosult településsel egy sorban tartalmazza (kivéve, ha az érintett önkormányzatok kérték járandóságuk szétválasztását és a megosztás tekintetében is megegyeztek). Az egy sorban szereplő települések önkormányzatai együttesen jogosultak a melléklet szerinti járandóság átvételére, az egymás közötti megosztásra megállapodásuk irányadó.

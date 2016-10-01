@@ -1,1 +1,0 @@
-9. § E törvény a Magyar Köztársaság 2003. évi költségvetéséről szóló törvénynek a – Magyar Köztársaság 2001. és 2002. évi költségvetéséről szóló – 2000. évi CXXXIII. törvényt módosító rendelkezései hatálybalépésének napján lép hatályba.

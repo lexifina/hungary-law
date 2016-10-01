@@ -1,1 +1,0 @@
-1. § Az 1993. augusztus 4-e és 1995. december 31-e közötti időszakban önkormányzati hozzájárulásból létesített, de a gázszolgáltató társaság (a továbbiakban: gázszolgáltató) tulajdonába került és az állam által privatizált gázközmű-vagyonnal összefüggésben a helyi önkormányzatokat (a továbbiakban: önkormányzat) e törvény alapján járandóság illeti meg.
