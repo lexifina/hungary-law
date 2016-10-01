@@ -12,6 +12,6 @@
 
 (4) A szennyvízhálózat létesítésével, bővítésével egyidejűleg gondoskodni kell az összegyűjtött települési szennyvizek megfelelő tisztításáról, elvezetéséről, illetve ártalommentes elhelyezéséről is.
 
-(5)[^17] Az egyedi zárt szennyvíztároló üzemeltetése során gondoskodni kell a szennyvíz ártalmatlanításáról.
+(5)[^20] Az egyedi zárt szennyvíztároló üzemeltetése során gondoskodni kell a szennyvíz ártalmatlanításáról.
 
-[^17]: A 18. § (5) bekezdését a 100/2016. (V. 13.) Korm. rendelet 15. §-a iktatta be.
+[^20]: A 18. § (5) bekezdését a 100/2016. (V. 13.) Korm. rendelet 15. §-a iktatta be.

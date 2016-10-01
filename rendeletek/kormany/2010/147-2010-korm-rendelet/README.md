@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-147-20-
 | 2015-07-01 | 2010-147-20-22.14 | 156/2012. (VII. 13.) Korm. rendelet |
 | 2016-01-01 | 2010-147-20-22.15 | 438/2015. (XII. 28.) Korm. rendelet |
 | 2016-06-15 | 2010-147-20-22.16 | 100/2016. (V. 13.) Korm. rendelet |
+| 2016-10-01 | 2010-147-20-22.17 | 289/2016. (IX. 22.) Korm. rendelet |
