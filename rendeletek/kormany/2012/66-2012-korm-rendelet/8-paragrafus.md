@@ -10,7 +10,7 @@ d) új telephely, üzemrész tevékenységi körbe vonása, valamint
 
 e)[^40] a tevékenységi engedélyben nem szereplő, újabb, az 1. melléklet és az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendelet szerinti anyag, vagy új gyógyszerforma tevékenységi körbe vonása
 
-előtt az engedély módosítását kell kérnie a tervezett változások indokolásával és annak dokumentálásával, illetve feldolgozás esetén a kiinduló anyag és az előállított terméknek az 1. melléklet és az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendelet szerinti hatóanyagra számított tervezett mennyiségének a megadásával.
+## előtt az engedély módosítását kell kérnie a tervezett változások indokolásával és annak dokumentálásával, illetve feldolgozás esetén a kiinduló anyag és az előállított terméknek az 1. melléklet és az új pszichoaktív anyaggá minősített anyagokról vagy vegyületcsoportokról szóló miniszteri rendelet szerinti hatóanyagra számított tervezett mennyiségének a megadásával.
 
 (2)[^41]
 

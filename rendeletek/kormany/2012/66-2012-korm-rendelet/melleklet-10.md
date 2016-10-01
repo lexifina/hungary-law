@@ -4,8 +4,6 @@
 
 ## Becsült kábítószer felhasználás (1)
 
-## 5K26955O_0
-
 | Kábítószer megnevezése | 1 | 2 | 3 | 4 | 5 | 6 |
 
 | Import | Export | Nagykeres- kedelmi értékesítés | Kiskereskedelmi értékesítés és tudományos felhasználás | Gyártáshoz felhasználni kívánt mennyiség | .... XII. 31-i tervezett készlet |
@@ -17,8 +15,6 @@
 | kg | g | kg | g | kg | g | kg | g | kg | g | kg | g | kg | g | kg | g |
 
 ## Becsült CPS felhasználás (2)
-
-## 5K26955O_1
 
 | Kábítószer megnevezése | 1 | 2 | 3 |
 

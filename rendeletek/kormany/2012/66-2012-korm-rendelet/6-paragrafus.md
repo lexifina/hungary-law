@@ -1,3 +1,5 @@
+## 5. §[^29]
+
 ## 4. A gyógyászati célú tevékenységi engedély kiadásával kapcsolatos szabályok
 
 6. § (1) A tevékenységi engedély iránti kérelemnek tartalmaznia kell:
@@ -36,6 +38,7 @@ f)[^34] az 1. melléklet és az új pszichoaktív anyaggá minősített anyagokr
 
 (6) A kábítószer-felelős és helyettese köteles évente legalább egy alkalommal az engedélyező és ellenőrző hatóságok által rendezett, a kábítószerekre és pszichotróp anyagokra vonatkozó továbbképzésen részt venni.
 
+[^29]: Az 5. §-t a 413/2015. (XII. 23.) Korm. rendelet 44. § b) pontja hatályon kívül helyezte.
 [^30]: A 6. § (1) bekezdés b) pontja a 367/2014. (XII. 30.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
 [^31]: A 6. § (2) bekezdés a) pontja a 355/2012. (XII. 13.) Korm. rendelet 48. § (1) bekezdésével megállapított szöveg.
 [^32]: A 6. § (2) bekezdés b) pontja a 413/2015. (XII. 23.) Korm. rendelet 44. c) pontja szerint módosított szöveg.

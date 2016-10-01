@@ -10,7 +10,7 @@ b) a 4. és 5. melléklet szerinti adatokat az adott negyedévet követő hónap
 
 c) a speciális raktárkészletek (katasztrófa-egészségügyi és honvédségi tartalékok) esetén az éves készlet változásait a tárgyévet követő év február 28. napjáig
 
-küldi meg.
+## küldi meg.
 
 (3)[^80] Az átadó a 6. melléklet szerinti megrendelőlapok ötödik példányait az adott negyedévet követő hónap 10. napjáig a hatóanyag szerinti összesítő kíséretében – elektronikusan is – megküldi az ENKK-nak, amely 2 évig megőrzi azokat.
 
