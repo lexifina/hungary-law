@@ -1,3 +1,3 @@
-## 8. §[^5] A rendészetért felelős miniszter az integritási és korrupciós kockázatok felmérését, valamint a korrupciómegelőzési intézkedési terv és az integritásjelentés elkészítését támogató módszertani segédletet tesz közzé.
+## 8. §[^13] A rendészetért felelős miniszter az integritási és korrupciós kockázatok felmérésének, valamint az intézkedési terv és az integritásjelentés elkészítésének támogatására, továbbá az államháztartásért felelős miniszterrel közösen a kontrollkörnyezet kialakításának és az integrált kockázatkezelési folyamatnak a szervezésére, a szervezeti integritást sértő eseményekre vonatkozó bejelentések fogadására és kivizsgálására módszertani útmutatót tesz közzé.
 
-[^5]: A 8. § a 221/2014. (IX. 4.) Korm. rendelet 718. §-ával megállapított szöveg.
+[^13]: A 8. § a 187/2016. (VII. 13.) Korm. rendelet 23. §-ával megállapított szöveg.
