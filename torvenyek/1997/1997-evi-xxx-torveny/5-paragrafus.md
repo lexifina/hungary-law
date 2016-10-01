@@ -1,6 +1,6 @@
 ## Jelzáloghitelezés
 
-5. § (1) A teljes hitelállományban a kölcsönszerződések megkötésekor, a jelzáloghitelek megvásárlásakor, a különvált jelzálogjog fedezete mellett történő pénzkölcsönnyújtáskor (a továbbiakban: refinanszírozási jelzáloghitel), valamint az önálló zálogjogvásárlások időpontjában a legalább ötéves futamidejű jelzálog-hitelintézeti követelések aránya nem lehet kevesebb nyolcvan százaléknál.
+5. § (1) A teljes hitelállományban a kölcsönszerződések megkötésekor, a jelzáloghitelek megvásárlásakor, a különvált jelzálogjog fedezete mellett történő pénzkölcsönnyújtáskor (a továbbiakban: refinanszírozási jelzáloghitel), valamint az önálló és átalakításos önálló zálogjog (a továbbiakban együtt: önálló zálogjog) megvásárlásának időpontjában a legalább ötéves futamidejű jelzálog-hitelintézeti követelések aránya nem lehet kevesebb nyolcvan százaléknál.
 
 (2)
 

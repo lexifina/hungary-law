@@ -1,6 +1,6 @@
 ## A jelzálog-hitelintézet fogalma, tevékenységi köre
 
-3. § (1) Jelzálog-hitelintézet pénzkölcsönt nyújt Magyarország, az Európai Unió más tagállama vagy az Európai Gazdasági Térségről szóló megállapodásban részes más állam (a továbbiakban: EGT-állam) területén lévő ingatlanon alapított jelzálogjog, ideértve az önálló zálogjogként alapított, valamint a különvált jelzálogjogot is (a továbbiakban együtt: jelzálogjog) fedezete mellett, amelyhez forrásait alapvetően jelzáloglevél kibocsátásával gyűjti.
+3. § (1) Jelzálog-hitelintézet pénzkölcsönt nyújt Magyarország, az Európai Unió más tagállama vagy az Európai Gazdasági Térségről szóló megállapodásban részes más állam (a továbbiakban: EGT-állam) területén lévő ingatlanon alapított jelzálogjog, ideértve az önálló zálogjogként alapított, átalakításos önálló zálogjoggá átalakított, valamint a különvált jelzálogjogot is (a továbbiakban együtt: jelzálogjog) fedezete mellett, amelyhez forrásait alapvetően jelzáloglevél kibocsátásával gyűjti.
 
 (2) Jelzálog-hitelintézet kizárólag az alábbi pénzügyi szolgáltatási, befektetési szolgáltatási, illetve kiegészítő befektetési szolgáltatási tevékenységeket végzi:
 

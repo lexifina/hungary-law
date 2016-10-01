@@ -14,7 +14,7 @@ d) amely szerződéseket tartalmazó okiratok megfelelnek a 6. §-ban foglalt k�
 
 (4) Jelzálog-hitelintézet olyan Magyarország területén lévő ingatlanon alapított önálló zálogjogot vásárolhat meg,
 
-a) amelyet az eladó hitelintézet jelzáloghitel biztosítékaként a (2) bekezdésben meghatározott valamennyi egyéb feltételnek megfelelően alapított, és
+a) amelyet az eladó hitelintézet jelzáloghitel biztosítékaként a (2) bekezdésben meghatározott valamennyi egyéb feltételnek megfelelően alapított vagy ilyenné átalakított, és
 
 b) amelyet az eladó hitelintézet – az eladással egyidejűleg – részletvétel keretében vagy halasztott fizetés mellett azzal a feltétellel vásárol vissza, hogy a jelzálogjog a visszavásárló hitelintézetre a teljes vételár megfizetése napján száll át.
 
