@@ -1,7 +1,7 @@
-## Az R1. 1. melléklete a következő IV. ponttal egészül ki:
+2. melléklet az 59/2016. (III. 25.) Korm. rendelethez
 
-## „IV. A 17. § (8) bekezdése szerinti felsőoktatási felvételi szakmai vizsga valamennyi szakon tartható.”
+Az R1. 2. melléklet 3. pont n) alpontja helyébe a következő rendelkezés lép:
 
-2. melléklet az 59/2016. (III. 25.) Korm. rendelethez[^3]
+(a választható szakmai előkészítő vizsgatárgyak közül a magyar nyelven, nemzetiségi és két tanítási nyelvű iskolákban a tanítás nyelvén letett)
 
-[^3]: A 2. melléklet a 14. § (3) bekezdése alapján 2016. október 2-án lép hatályba.
+„n) ágazati és ágazaton kívüli szakmai érettségi vizsgatárgy;”
