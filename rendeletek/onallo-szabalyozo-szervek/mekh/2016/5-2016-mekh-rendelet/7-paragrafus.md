@@ -1,1 +1,3 @@
-## 6. § Hatályát veszti az R. 2. § (1) bekezdés r) pontja, V. Rendszerirányítási díjrendszer című fejezete, 53–67. §-a és 9. melléklete.
+## 6. §[^7]
+
+[^7]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

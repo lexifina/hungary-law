@@ -1,9 +1,12 @@
-## szöveg lép.
+## 4. §[^3]
 
-5. § (1) Az R. 1. melléklete helyébe az 1. melléklet lép.
+5. § (1)[^4]
 
-(2)[^2]
+(2)[^5]
 
-(3) Az R. 10. melléklete helyébe a 3. melléklet lép.
+(3)[^6]
 
-[^2]: Az 5. § (2) bekezdése a 6/2016. (IX. 15.) MEKH rendelet 2. §-a alapján nem lép hatályba.
+[^3]: A 4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: Az 5. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: Az 5. § (2) bekezdése a 6/2016. (IX. 15.) MEKH rendelet 2. §-a alapján nem lép hatályba.
+[^6]: Az 5. § (3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

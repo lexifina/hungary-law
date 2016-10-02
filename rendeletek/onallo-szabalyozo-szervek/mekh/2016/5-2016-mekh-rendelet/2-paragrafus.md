@@ -1,5 +1,3 @@
-## 1. § A földgáz rendszerhasználati díjakról, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályairól, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjakról, valamint a rendszerhasználati díjak alkalmazásának feltételeiről szóló 1/2013. (VII. 11.) MEKH rendelet (a továbbiakban: R.) 2. § (1) bekezdés i) pontja helyébe a következő rendelkezés lép:
+## 1. §[^1]
 
-## [E rendelet alkalmazásában:]
-
-## „i) elosztási kapacitásdíj: az a díj, amelyet a 964–5264 kWh/h kapacitás-lekötési igényű felhasználót ellátó földgázkereskedőnek és az 5264 kWh/h feletti kapacitás-lekötési igényű felhasználót ellátó földgázkereskedőnek, a felhasználó részére lekötött legnagyobb kapacitás (kWh/h) alapján a szerződési időszakra vonatkozóan kell fizetni, valamint az ilyen kapacitás-lekötéssel rendelkező rendszerhasználóként eljáró felhasználónak a lekötött legnagyobb kapacitás (kWh/h) alapján a szerződési időszakra vonatkozóan kell fizetnie,”
+[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
