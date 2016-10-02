@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-345-20-
 | 2016-09-01 | 2015-345-20-22.9 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-09-02 | 2015-345-20-22.10 | 2010: CXXX. törvény |
 | 2016-10-01 | 2015-345-20-22.11 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2016-10-02 | 2015-345-20-22.12 | 2010: CXXX. törvény |
