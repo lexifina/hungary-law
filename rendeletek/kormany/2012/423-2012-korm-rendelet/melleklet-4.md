@@ -1,4 +1,4 @@
-4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^156]
+4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^157]
 
 Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámítás szempontjából
 
@@ -54,4 +54,4 @@ Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámít
 
 | 25. | osztatlan tanári mesterképzési szak: a tanári szakképzettségnek megfelelő alapképzési szak képzési területe az irányadó a szakirányú továbbtanulás meghatározása szempontjából (szakképzettség-páron is csak egyszer kapható többletpont) |
 
-[^156]: A 4. mellékletet a 47/2013. (II. 20.) Korm. rendelet 10. §-a iktatta be, szövege a 345/2015. (XI. 19.) Korm. rendelet 45. § (4) bekezdésével megállapított, a 169/2016. (VII. 1.) Korm. rendelet 20. § (2) bekezdése szerint módosított szöveg.
+[^157]: A 4. mellékletet a 47/2013. (II. 20.) Korm. rendelet 10. §-a iktatta be, szövege a 345/2015. (XI. 19.) Korm. rendelet 45. § (4) bekezdésével megállapított, a 169/2016. (VII. 1.) Korm. rendelet 20. § (2) bekezdése szerint módosított szöveg.

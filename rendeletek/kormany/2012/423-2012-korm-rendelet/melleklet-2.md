@@ -134,9 +134,9 @@ l) vendéglátás-idegenforgalom alapismeretek,
 
 m) faipari alapismeretek,
 
-n) a képzési területnek megfeleltethető szakmacsoport szerinti vizsgatárgy;
+n)[^154] ágazati és ágazaton kívüli szakmai érettségi vizsgatárgy;
 
-4.[^154] a választható élő idegen nyelvek közül a(z)
+4.[^155] a választható élő idegen nyelvek közül a(z)
 
 a) portugál nyelv,
 
@@ -158,4 +158,5 @@ g) finn nyelv.
 [^151]: Az 1. melléklet III. pont 4. alpontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (1) bekezdése iktatta be.
 [^152]: Az 1. melléklet IV. pontját az 59/2016. (III. 25.) Korm. rendelet 9. § a) pontja iktatta be.
 [^153]: A 2. melléklet 3. pontja a 345/2015. (XI. 19.) Korm. rendelet 45. § (1) bekezdésével megállapított szöveg.
-[^154]: A 2. melléklet 4. pontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (2) bekezdése iktatta be.
+[^154]: A 2. melléklet 3. pont n) alpontja az 59/2016. (III. 25.) Korm. rendelet 9. § b) pontjával megállapított szöveg.
+[^155]: A 2. melléklet 4. pontját az 502/2013. (XII. 29.) Korm. rendelet 23. § (2) bekezdése iktatta be.
