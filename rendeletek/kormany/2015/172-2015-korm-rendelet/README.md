@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-172-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-10-01 | 2015-172-20-22.1 | 172/2015. (VII. 2.) Korm. rendelet |
+| 2016-10-02 | 2015-172-20-22.2 | 2010: CXXX. törvény |
