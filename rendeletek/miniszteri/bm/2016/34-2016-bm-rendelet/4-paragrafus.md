@@ -1,1 +1,0 @@
-## „(3) Nem kell alkalmazni a (2) bekezdés b) pontja szerinti szorzószámot, amennyiben a felszíni vízkivétel egynél több kalibrált mérőeszköz után történik. E tényt a mezőgazdasági vízszolgáltató igazolja.”
