@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-67-00-00
 | 2016-09-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-67-00-00.5 |
 | 2016-09-02 | 2010. évi CXXX. törvény | 2016-67-00-00.6 |
 | 2016-10-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-67-00-00.7 |
+| 2016-10-02 | 2010. évi CXXX. törvény | 2016-67-00-00.8 |
