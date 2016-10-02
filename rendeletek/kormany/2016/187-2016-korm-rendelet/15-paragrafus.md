@@ -1,3 +1,3 @@
-## 7–14. §[^1]
+## 7–14. §[^3]
 
-[^1]: A 7–14. § a 25. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^3]: A 7–14. § a 25. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

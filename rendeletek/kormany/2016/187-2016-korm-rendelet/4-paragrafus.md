@@ -1,1 +1,0 @@
-## „(5) A költségvetési szerv vezetőjének felelőssége olyan belső kontrollrendszer kialakítása, amely minden tevékenységi kör esetében alkalmas az etikai értékek és az integritás érvényesítésének biztosítására.”

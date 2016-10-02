@@ -1,3 +1,3 @@
-## 6. § A 370/2011. (XII. 31.) Korm. rendelet 11. §-a a következő (2a) bekezdéssel egészül ki:
+## 2–6. §[^2]
 
-## „(2a) A helyi önkormányzati költségvetési szerv vezetője a nyilatkozatot az éves költségvetési beszámolóval együtt küldi meg az irányító szerv vezetőjének. A vezetői nyilatkozatot a polgármester a zárszámadási rendelet tervezetével együtt terjeszti a képviselő-testület elé.”
+[^2]: A 2–6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
