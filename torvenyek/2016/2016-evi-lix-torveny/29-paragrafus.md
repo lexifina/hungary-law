@@ -1,17 +1,3 @@
 ## 3. A Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény módosítása
 
-29. § (1) A Magyar Energetikai és Közmű-szabályozási Hivatalról szóló 2013. évi XXII. törvény (a továbbiakban: Statútum törvény) 12. § a) és b) pontja helyébe a következő rendelkezések lépnek:
-
-(A Hivatal elnöke)
-
-„a) rendeletben megállapítja az egyes villamos energia rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjfizetésre kötelezettek körét, és a rendszerhasználati díjak alkalmazásának szabályait, a villamos energiáról szóló törvény szerinti elosztók közötti kiegyenlítő fizetések mértékét, a villamos energia csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, valamint az elosztó által a felhasználó vagy az engedélyes igénye alapján, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és alkalmazásuknak szabályait, az elosztóhálózat-használati szerződés és a villamosenergia-vásárlási szerződés engedélyes általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,
-
-b) rendeletben megállapítja a földgázellátásról szóló törvény szerinti rendszerüzemeltető által nyújtott szolgáltatás minőségének a földgáz rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható földgáz rendszerhasználati díjszabályozás kereteit, valamint a földgáz rendszerhasználati díjak alkalmazásának feltételeit, a földgáz rendszerhasználat árszabályozásának kereteit, a felhasználók és földgáztermelők földgázrendszerre történő csatlakozásának részletes szabályait, ezen belül a csatlakozás műszaki-gazdasági feltételeit, és azok közzétételét, a földgázelosztó és a földgázszállító csatlakozással kapcsolatos együttműködésének szabályait, a földgáz csatlakozási díjak meghatározásának szempontjait, a csatlakozási díjak elemeit, a csatlakozási díjak alkalmazásának szabályait, a rendszerüzemeltetők által a felhasználó vagy a rendszerhasználó igénye alapján, valamint felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és alkalmazásuknak szabályait, az elosztóhálózat-használati szerződés és az egyetemes szolgáltatási szerződés engedélyes általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket,”
-
-(2) A Statútum törvény 12. §-a a következő n) és o) ponttal egészül ki:
-
-(A Hivatal elnöke)
-
-„n) határozatban megállapítja a villamos energia rendszerhasználati díjakat, a villamos energia csatlakozási díjakat, valamint az elosztó által a felhasználó vagy az engedélyes igénye alapján külön díj ellenében végezhető szolgáltatások díját, továbbá az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások díját,
-
-o) határozatban megállapítja a földgáz rendszerhasználati díjakat, a földgáz csatlakozási díjakat, valamint a rendszerüzemeltetők által a felhasználók vagy a rendszerhasználó igénye alapján külön díj ellenében végezhető szolgáltatások díját, továbbá a rendszerüzemeltetők által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások díjait.”
+### 29. §
