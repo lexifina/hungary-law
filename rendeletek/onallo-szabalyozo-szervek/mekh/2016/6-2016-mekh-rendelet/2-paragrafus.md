@@ -1,3 +1,3 @@
-## 1. §[^1]
+2. §[^3]
 
-[^1]: Az 1. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 2. §-t a 3. § (3) bekezdése hatályon kívül helyezte.
