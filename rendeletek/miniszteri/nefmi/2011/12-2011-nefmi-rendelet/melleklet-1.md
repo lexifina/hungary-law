@@ -1,6 +1,6 @@
-## 11. §[^35] Az egyes egészségügyi tárgyú miniszteri rendeletek módosításáról szóló 54/2015. (XI. 24.) EMMI rendelettel megállapított 1. mellékletben szereplő új tagozatokat és tanácsokat 2016. január 1-jéig kell megválasztani.
+## 11/A. §[^36] Az egészségügyi szakmai kollégium működéséről szóló 12/2011. (III. 30.) NEFMI rendelet módosításáról szóló 29/2016. (X. 3.) EMMI rendelettel megállapított 7. § (4) bekezdését az annak hatálybalépésekor[^37] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 12/2011. (III. 30.) NEFMI rendelethez[^36]
+1. melléklet a 12/2011. (III. 30.) NEFMI rendelethez[^38]
 
 A szakmai kollégium 3 fős tagozatainak elnevezése, valamint tanácsainak elnevezése és létszáma
 
@@ -126,5 +126,6 @@ A szakmai kollégium 3 fős tagozatainak elnevezése, valamint tanácsainak elne
 
 61. Védőnő (területi, iskolai, kórházi, családvédelmi) tagozat/tanács (15 fő)
 
-[^35]: A 11. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan az 54/2015. (XI. 24.) EMMI rendelet 42. §-a iktatta be.
-[^36]: Az 1. melléklet az 54/2015. (XI. 24.) EMMI rendelet 43. §-ával megállapított szöveg.
+[^36]: A 11/A. §-t a 29/2016. (X. 3.) EMMI rendelet 2. §-a iktatta be.
+[^37]: A hatálybalépés napja 2016. október 4.
+[^38]: Az 1. melléklet az 54/2015. (XI. 24.) EMMI rendelet 43. §-ával megállapított szöveg.

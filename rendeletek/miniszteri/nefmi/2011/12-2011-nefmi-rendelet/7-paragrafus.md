@@ -6,9 +6,9 @@
 
 (3) A (2) bekezdés szerinti szakmai társaságok és egyesületek által az egyes tanácsokba delegálható tagok számát – az 1. mellékletben foglalt létszám figyelembevételével – a kamarák javaslatára a miniszter állapítja meg.
 
-(4)[^22] Az egészségügyi informatikai, valamint a menedzsment és egészséggazdaságtan tagozatok a (2) bekezdés szerinti javaslattételi jogukat a miniszter által kijelölt szervezeten keresztül gyakorolják.
+(4)[^22] A klinikai szakpszichológia és pszichoterapeuta klinikai szakpszichológus, valamint a menedzsment, egészséggazdaságtan és egészségügyi informatikai (nem orvosi) és minőségügyi tagozatok a (2) bekezdés szerinti javaslattételi jogukat a miniszter által kijelölt szervezeten keresztül gyakorolják.
 
-(4a)[^23] A klinikai szakpszichológia és pszichoterapeuta klinikai szakpszichológus tanácsra vonatkozó (2) bekezdés szerinti javaslatot a Magyar Orvosi Kamara Klinikai Szakpszichológiai Csoportja adja meg.
+(4a)[^23]
 
 (5) A tanács elnökét a tanács tagjai a tagok közül választják. Az elnök megbízatása négy évre szól. Egy személy egyidejűleg csak egy tanácsnak lehet a tagja.
 
@@ -32,8 +32,8 @@ f)[^28] a tagozat vezetőjének felkérésére javaslatot tesznek az osztályvez
 
 (9) A tanácsok javaslataikat, állásfoglalásaikat az adott szakterület szerint illetékes tagozathoz nyújtják be, amelyeket a tagozatok véleményezés után a miniszternek továbbítanak.
 
-[^22]: A 7. § (4) bekezdése a 44/2014. (X. 27.) EMMI rendelet 8. § b) pontja szerint módosított szöveg.
-[^23]: A 7. § (4a) bekezdését a 44/2014. (X. 27.) EMMI rendelet 6. §-a iktatta be.
+[^22]: A 7. § (4) bekezdése a 29/2016. (X. 3.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^23]: A 7. § (4a) bekezdését a 44/2014. (X. 27.) EMMI rendelet 6. §-a iktatta be, a 29/2016. (X. 3.) EMMI rendelet 3. §-a hatályon kívül helyezte.
 [^24]: A 7. § (6) bekezdése a 33/2013. (V. 10.) EMMI rendelet 27. § b) pontja, a 44/2014. (X. 27.) EMMI rendelet 8. § c) pontja, az 54/2015. (XI. 24.) EMMI rendelet 44. § e) pontja szerint módosított szöveg.
 [^25]: A 7. § (7) bekezdés a) pontja a 44/2014. (X. 27.) EMMI rendelet 9. § c) pontja szerint módosított szöveg.
 [^26]: A 7. § (7) bekezdés b) pontja az 54/2015. (XI. 24.) EMMI rendelet 44. § f) pont fa) alpontja szerint módosított szöveg.
