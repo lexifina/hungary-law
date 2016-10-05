@@ -1,0 +1,1 @@
+8. § Hatályát veszti az Szjtv. 1. § (5) bekezdésében az „Az engedély nélküli szerencsejátékban történő részvételre vonatkozó ajánlatok közzétételében, illetve elfogadásában a pénzügyi szervezetek és a hírközlési szolgáltatók nem működhetnek közre, ilyenekhez nem nyújthatnak technikai támogatást.” szövegrész.

@@ -1,0 +1,3 @@
+4. § Az Szjtv. 36/J. §-a helyébe a következő rendelkezés lép:
+
+„36/J. § Az állami adóhatóság a jogkövető magatartás elősegítése, valamint a játékosok és a pénzforgalmi szolgáltatók tájékoztatása érdekében honlapján az ezen alcím szerinti intézkedés végrehajtásának időtartama alatt közzéteszi a jogerős ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlap elnevezését, valamint – amennyiben az megállapítható – az ideiglenes hozzáférhetetlenné tétel elrendelésével érintett honlapon tiltott szerencsejáték-szervezést megvalósító szervezet vagy személy elnevezését, és a tiltott szerencsejáték szervezéséhez használt fizetési számla számát.”
