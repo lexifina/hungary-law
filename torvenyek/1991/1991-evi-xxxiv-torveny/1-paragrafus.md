@@ -20,7 +20,7 @@ g) a lóversenyfogadás és az a)–f) pontok alá nem tartozó, e törvényben 
 
 (4) Magyarország területéről hírközlő eszköz és rendszer által részvételi jogosultságot biztosító szerencsejáték szervezési tevékenység kizárólag e törvény előírásainak megfelelően folytatható.
 
-(5) Hírközlő eszközök és rendszerek által szervezett szerencsejátékban való részvételre ajánlatok közzétételéhez az állami adóhatóság engedélye szükséges. Az engedély nélküli szerencsejátékban történő részvételre vonatkozó ajánlatok közzétételében, illetve elfogadásában a pénzügyi szervezetek és a hírközlési szolgáltatók nem működhetnek közre, ilyenekhez nem nyújthatnak technikai támogatást.
+(5) Hírközlő eszközök és rendszerek által szervezett szerencsejátékban való részvételre ajánlatok közzétételéhez az állami adóhatóság engedélye szükséges.
 
 (5a) A szerencsejáték-szervező az e törvény hatálya alá tartozó tevékenysége során a felelős játékszervezés elvének megfelelően köteles eljárni. A felelős játékszervezés elvének megfelelő szervezői tevékenységnek minősül különösen
 

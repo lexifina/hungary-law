@@ -42,6 +42,8 @@ i) a távszerencsejáték és az online kaszinójáték szervezésének engedél
 
 j) a díjfizetés módjának meghatározása kivételével a felügyeleti díj fizetésével és nyilvántartásával
 
+k) a pénzforgalmi szolgáltató 13/A. § (1) bekezdés szerinti eljárásával és ezen eljárás ellenőrzésével
+
 kapcsolatos részletes szabályokat rendeletben határozza meg.
 
 (3) Felhatalmazást kap az agrárpolitikáért felelős miniszter a lóversenyek és az agárversenyek szabályainak rendeletben történő megállapítására.
