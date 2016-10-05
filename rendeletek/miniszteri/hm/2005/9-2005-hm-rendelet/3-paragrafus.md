@@ -164,15 +164,15 @@ Tiltó rendelkezések
 
 a)[^25] az MH-nál rendszeresítettől eltérő anyagú, formájú és színű egyenruhát, lábbelit, rendfokozati jelzést, továbbá a katonanőknek testszínűtől eltérő színű vagy mintás harisnyát (harisnyanadrágot) hordani, az egyenruházatot a Honvédségben forgalmazott formától, kiviteltől, színtől és alapanyagtól eltérően előállítani, átalakítani, illetőleg ilyen ruházatot viselni,
 
-b) az e szabályzatban meghatározottakon kívül kitüntetést, kitüntetési szalagsávot, jelvényt, kitűzőt, különböző emblémát, jelzést és feliratot, nem rendszeresített csapatkarjelzést viselni,
+b)[^26] az e szabályzatban meghatározottakon kívül kitüntetést és elismerést (a továbbiakban együtt: kitüntetés), kitüntetési szalagsávot, jelvényt, kitűzőt, különböző emblémát, jelzést és feliratot, nem rendszeresített csapatkarjelzést viselni,
 
-c)[^26] az egyenruhához ékszert – kivéve a karikagyűrűt, a pecsétgyűrűt, katonanők esetében az egyenruha szellemiségéhez illő fülbevalót, ha az a munkavégzést nem akadályozza, illetőleg, ha az a testi épséget nem veszélyezteti – látható módon viselni,
+c)[^27] az egyenruhához ékszert – kivéve a karikagyűrűt, a pecsétgyűrűt, katonanők esetében az egyenruha szellemiségéhez illő fülbevalót, ha az a munkavégzést nem akadályozza, illetőleg, ha az a testi épséget nem veszélyezteti – látható módon viselni,
 
 d) az öltözeti cikkeken az arra kialakított speciális célzsebek kivételével, a külső zsebekben kilátszó vagy átnyomódó tárgyat elhelyezni,
 
 e) az egyenruházaton – a meghatározottakon kívül – könnyíteni, a hosszú ujjú ing és ingblúz, a 90 M és a 93 M gyakorlózubbony ujját felhajtani (felgyűrni),
 
-f)[^27] a ruha fazonján, gallérhajtókán gyászszalagot viselni, élő vagy művirágot feltűzni,
+f)[^28] a ruha fazonján, gallérhajtókán gyászszalagot viselni, élő vagy művirágot feltűzni,
 
 g) a hadi- (gyakorló-) öltözethez köznapi – kivételt képez a repülőhajózó állomány – vagy társasági sapkát viselni,
 
@@ -186,13 +186,13 @@ k) egyenruhát polgári ruhával vegyes öltözetként viselni,
 
 l) a 90 M hadi- (gyakorló-), a 93 M hadi- (gyakorló-), a 2000 M nyári, valamint a 2003 M sivatagi gyakorlózubbonyokat és gyakorlónadrágokat vegyesen viselni,
 
-m)[^28] a 2003 M sivatagi hadi- (gyakorló-) öltözetet – a felkészítési időszak, a búcsúztató, illetve visszafogadó ünnepség, valamint a szolgálati érdekű utazások kivételével – honi területen viselni,
+m)[^29] a 2003 M sivatagi hadi- (gyakorló-) öltözetet – a felkészítési időszak, a búcsúztató, illetve visszafogadó ünnepség, valamint a szolgálati érdekű utazások kivételével – honi területen viselni,
 
 n) a köznapi és hadiruházati cikkeket vegyesen viselni,
 
 o) gyakorlópulóveren névkitűzőt elhelyezni,
 
-p)[^29] a gyakorlózubbonyt és a gyakorlópólót a gyakorlónadrágon, illetve a köznapi (társasági) inget a köznapi (társasági) pantallón (szoknyán) kívül hordani,
+p)[^30] a gyakorlózubbonyt és a gyakorlópólót a gyakorlónadrágon, illetve a köznapi (társasági) inget a köznapi (társasági) pantallón (szoknyán) kívül hordani,
 
 q) politikai rendezvényen – a 16. pontban meghatározott eset kivételével – egyenruhát viselni,
 
@@ -200,21 +200,21 @@ r) a katonanőknek a térd középvonalától felfelé számított 10 centiméte
 
 s) az egyenruhával össze nem egyeztethető, illetve kulturálatlan táskát, reklámtasakot, csomagot vinni,
 
-t)[^30] az egyenruhához esernyőt hordani,
+t)[^31] az egyenruhához esernyőt hordani,
 
-u)[^31] a megengedett hosszú haját úgy hordania, hogy az a viselt rendfokozati jelzését eltakarja, illetve fedje.
+u)[^32] a megengedett hosszú haját úgy hordania, hogy az a viselt rendfokozati jelzését eltakarja, illetve fedje.
 
 41. Beteg (sérült) tényleges állományú katona a szolgálatképessége helyreállításáig egyenruhát csak a betegség (sérülés) jellege figyelembevételével viselhet.
 
 A haj, bajusz és szakáll viselés szabályai
 
-42.[^32] a) A katona hajviseletének ki kell elégítenie a gondozott, rendezett, konszolidált megjelenés kritériumait. Haja legfeljebb olyan hosszú legyen, hogy az a sapka szegélyétől a nyak érintkezéséig lefelé haladva fokozatosan csökkenjen. A katonanőknek olyan – az egyenruhához méltó – hajat kell viselniük, hogy az ne akadályozza feladatuk végrehajtását, illetőleg tábori körülmények között is könnyen ápolható legyen, továbbá feleljen meg a 40. pont u) alpontjában előírtaknak.
+42.[^33] a) A katona hajviseletének ki kell elégítenie a gondozott, rendezett, konszolidált megjelenés kritériumait. Haja legfeljebb olyan hosszú legyen, hogy az a sapka szegélyétől a nyak érintkezéséig lefelé haladva fokozatosan csökkenjen. A katonanőknek olyan – az egyenruhához méltó – hajat kell viselniük, hogy az ne akadályozza feladatuk végrehajtását, illetőleg tábori körülmények között is könnyen ápolható legyen, továbbá feleljen meg a 40. pont u) alpontjában előírtaknak.
 
 b) A Szolgálati Szabályzatban meghatározott magatartási szabályokkal, a tényleges katonai szolgálatot teljesítő katona szájszél vonaláig érő ápolt bajuszt, 1,5 cm-nél nem hosszabb ápolt szakállat, pofaszakállat, pajeszt viselhet.
 
 43. Az állományilletékes parancsnok által megtiltható a szakáll viselete, ha az akadályozza a katonai tevékenység ellátását, veszélyezteti a katona életét, testi épségét, egészségét, illetve a szolgálati tevékenység biztonságát, továbbá ha az nem felel meg az általános higiénés követelményeknek.
 
-44.[^33] A 43. pontban meghatározott követelmények alapján, az Öltözködési Szabályzat hatálybalépését követően, a Honvéd Vezérkar főnöke határozza meg azon katonai és szolgálati tevékenységek, illetve alkalmak körét, amikor a katona szakállt nem viselhet.
+44.[^34] A 43. pontban meghatározott követelmények alapján, az Öltözködési Szabályzat hatálybalépését követően, a Honvéd Vezérkar főnöke határozza meg azon katonai és szolgálati tevékenységek, illetve alkalmak körét, amikor a katona szakállt nem viselhet.
 
 II. Fejezet
 
@@ -222,13 +222,13 @@ II. Fejezet
 
 Hadi- (gyakorló-) öltözet
 
-45. A)[^34] A 90 M és 2000 M általános hadi- (gyakorló-) öltözetet viseli – az ejtőernyős – mélységi és csapatfelderítő –, a tűzszerész és hadihajós, a repülőszerelő és a szakfeladatot végrehajtó repülőhajózó állomány kivételével – az MH tényleges állománya. A 90 M és 2000 M általános hadi- (gyakorló-) öltözetet viseli az állomány béketámogató és az MH feladatát képező egyéb műveletek – különösen katasztrófa-elhárítás, humanitárius segítségnyújtás, terrorelhárítás – során, harcászati gyakorlaton, terepen végrehajtott foglalkozások alkalmával, alaki szemlén, készenlét fokozásakor, katonai rendezvényeken, továbbá ha a sorakozás, felvonulás fegyverrel vagy haditechnikával történik.
+45. A)[^35] A 90 M és 2000 M általános hadi- (gyakorló-) öltözetet viseli – az ejtőernyős – mélységi és csapatfelderítő –, a tűzszerész és hadihajós, a repülőszerelő és a szakfeladatot végrehajtó repülőhajózó állomány kivételével – az MH tényleges állománya. A 90 M és 2000 M általános hadi- (gyakorló-) öltözetet viseli az állomány béketámogató és az MH feladatát képező egyéb műveletek – különösen katasztrófa-elhárítás, humanitárius segítségnyújtás, terrorelhárítás – során, harcászati gyakorlaton, terepen végrehajtott foglalkozások alkalmával, alaki szemlén, készenlét fokozásakor, katonai rendezvényeken, továbbá ha a sorakozás, felvonulás fegyverrel vagy haditechnikával történik.
 
 Az öltözetet a hivatásos és a szerződéses főtiszt, tiszt, zászlós, altiszt, valamint a tisztesi rendfokozatú szerződéses állomány és a közkatona, továbbá a honvéd tisztjelölt és a honvéd altiszt-jelölt viseli az egység-, illetve ennél alacsonyabb szintű 24 órás ügyeleti szolgálatban; továbbá a próbaidős szerződéses, az önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány szolgálati idejében, továbbá őr- és ügyeleti szolgálatban.
 
 Az öltözetet a hivatásos és a szerződéses állomány a napi szolgálati tevékenysége során is viselheti.
 
-Az öltözet változatai:[^35]
+Az öltözet változatai:[^36]
 
 | Télen |  |
 
@@ -314,7 +314,7 @@ Az öltözet változatai:[^35]
 
 | Hevederöv |  |
 
-B)[^36] A 93 M ejtőernyős (eje.) hadi- (gyakorló-) öltözetet az MH tényleges állományú tagjainak ejtőernyős, mélységi- és csapatfelderítő, tűzszerész és hadihajós állománya viseli béketámogató és az MH feladatát képező egyéb műveletek – katasztrófa-elhárítás, humanitárius segítségnyújtás, terrorelhárítás stb. – során, harcászati gyakorlaton, terepen, vízen végrehajtott foglalkozások alkalmával, alaki szemlén, készenlét fokozásakor, katonai rendezvényeken, továbbá ha a sorakozás (felvonulás) fegyverrel vagy haditechnikával történik. A szakállomány a 93 M ejtőernyős hadi- (gyakorló-) öltözetet viseli az egység-, illetve ennél alacsonyabb szintű 24 órás őr- és ügyeleti szolgálatban.
+B)[^37] A 93 M ejtőernyős (eje.) hadi- (gyakorló-) öltözetet az MH tényleges állományú tagjainak ejtőernyős, mélységi- és csapatfelderítő, tűzszerész és hadihajós állománya viseli béketámogató és az MH feladatát képező egyéb műveletek – katasztrófa-elhárítás, humanitárius segítségnyújtás, terrorelhárítás stb. – során, harcászati gyakorlaton, terepen, vízen végrehajtott foglalkozások alkalmával, alaki szemlén, készenlét fokozásakor, katonai rendezvényeken, továbbá ha a sorakozás (felvonulás) fegyverrel vagy haditechnikával történik. A szakállomány a 93 M ejtőernyős hadi- (gyakorló-) öltözetet viseli az egység-, illetve ennél alacsonyabb szintű 24 órás őr- és ügyeleti szolgálatban.
 
 Az öltözet változatai:
 
@@ -430,7 +430,7 @@ Nyári bakancs
 
 Hevederöv
 
-C)[^37] A 93 M repülőszerelő (repülőműszaki) hadi- (gyakorló-) öltözetet az MH, hivatásos és szerződéses tiszt, altiszt repülőszerelő (re. szerelő) állománya viseli szolgálati helyén szakfeladat végrehajtásakor, egység-, illetve ennél alacsonyabb szintű 24 órás ügyeleti szolgálatban.
+C)[^38] A 93 M repülőszerelő (repülőműszaki) hadi- (gyakorló-) öltözetet az MH, hivatásos és szerződéses tiszt, altiszt repülőszerelő (re. szerelő) állománya viseli szolgálati helyén szakfeladat végrehajtásakor, egység-, illetve ennél alacsonyabb szintű 24 órás ügyeleti szolgálatban.
 
 Az öltözet változatai:
 
@@ -548,7 +548,7 @@ Hevederöv
 
 A 90 M és 2000 M általános, a 93 M ejtőernyős és a 93 M repülőszerelő hadi- (gyakorló-) öltözet hordmód változatai:
 
-a)[^38] télen:
+a)[^39] télen:
 
 aa) 2008 M gyakorló esővédő kabát polárpulóverrel, zárt gallérral, csősállal,
 
@@ -558,7 +558,7 @@ ac) 90 M téli gyakorlókabát béléssel begombolt gallérral, csősállal, ill
 
 ad) 90 M téli gyakorlókabát felső gombja kigombolva, illetve 93 M ejtőernyős és repülőszerelő téli gyakorlókabát nyitott gallérral, alatta 90 M gyakorlózubbony begombolt gallérral, 93 M ejtőernyős és repülőszerelő téli gyakorlózubbony zárt gallérral,
 
-b)[^39] átmeneti időszakban:
+b)[^40] átmeneti időszakban:
 
 ba) 2008 M gyakorló esővédő kabát – polárpulóver nélkül – nyitott gallérral, alatta 90 M gyakorlózubbony begombolt, illetve zárt gallérral,
 
@@ -566,7 +566,7 @@ bb) 90 M téli gyakorlókabát – bélés nélkül – felső gombja kigombolva
 
 bc) 90 M gyakorlózubbony felső gombja kigombolva, illetve 93 M ejtőernyős és repülőszerelő téli gyakorlózubbony nyitott gallérral, alatta póló,
 
-c)[^40] nyáron:
+c)[^41] nyáron:
 
 ca) 90 M gyakorlózubbony felső gombja kigombolva, 93 M ejtőernyős és repülőszerelő téli gyakorlózubbony nyitott gallérral, alatta gyakorlópóló,
 
@@ -580,7 +580,7 @@ ce) 2000 M nyári hosszú ujjú gyakorlózubbony felső gombja kigombolva, ujja 
 
 cf) gyakorlópóló tépőzáras hímzett gyakorló rendfokozati jelzéssel,
 
-d)[^41] nyáron és átmeneti időszakban 90 M nyári gyakorló sapkát visel
+d)[^42] nyáron és átmeneti időszakban 90 M nyári gyakorló sapkát visel
 
 da) a nem szervezetszerű díszalegység alkalmazása során a díszalegységbe beosztott állomány,
 
@@ -598,29 +598,29 @@ dg) az altisztavatáson az avatandó, a honvéd eskün az esküt tevő, tovább�
 
 dh) az egység, alegység sorakozón felsorakozó állomány,
 
-e)[^42] a 2008 M polárpulóver, valamint a 95 M gyakorlópulóver a tényleges állomány – a gyakorlópulóver esetében a próbaidejét töltő szerződéses katona kivételével – hímzett névvel, államjelzővel és gyakorló rendfokozati jelzéssel ellátott, megengedett öltözetként viselt, felső ruhadarabja,
+e)[^43] a 2008 M polárpulóver, valamint a 95 M gyakorlópulóver a tényleges állomány – a gyakorlópulóver esetében a próbaidejét töltő szerződéses katona kivételével – hímzett névvel, államjelzővel és gyakorló rendfokozati jelzéssel ellátott, megengedett öltözetként viselt, felső ruhadarabja,
 
 ea) a 2008 M polárpulóver, illetőleg a 95 M gyakorlópulóver a 90 M gyakorlózubbony helyett – a gyakorlópóló, a téli ing vagy a 2008 M téli felső fölött – a 90 M gyakorlónadrágon kívül viselendő,
 
 eb) a 2008 M polárpulóver, illetve a 95 M gyakorlópulóver felső ruhadarabként történő viselése esetén fegyver, málha és egyéb eszköz, felszerelés nem hordható,
 
-f)[^43] az állomány a hevederövet a 2008 M gyakorló esővédő kabáton, illetőleg a 90 M téli gyakorlókabáton csak külön parancsra viseli,
+f)[^44] az állomány a hevederövet a 2008 M gyakorló esővédő kabáton, illetőleg a 90 M téli gyakorlókabáton csak külön parancsra viseli,
 
-g)[^44] az MH állománya a felszerelését a málhaeszközön, a tábori pihentetési eszközeit hátizsákon viseli,
+g)[^45] az MH állománya a felszerelését a málhaeszközön, a tábori pihentetési eszközeit hátizsákon viseli,
 
-h)[^45] a felderítő és az ejtőernyős szakbeosztású állomány ejtőernyős szakfeladata végrehajtása során ejtőernyős bakancsot hord, valamint a gyakorlókalap helyett, hímzett felderítő, ejtőernyős jelvénnyel ellátott zöld barett sapkát viselhet,
+h)[^46] a felderítő és az ejtőernyős szakbeosztású állomány ejtőernyős szakfeladata végrehajtása során ejtőernyős bakancsot hord, valamint a gyakorlókalap helyett, hímzett felderítő, ejtőernyős jelvénnyel ellátott zöld barett sapkát viselhet,
 
-i)[^46] a harckocsizó és a hadihajós szakbeosztású állomány, valamint a tábori lelkész a gyakorlókalap helyett, hímzett harckocsizó, hadihajós, illetőleg tábori lelkészi jelvénnyel ellátott fekete barett sapkát viselhet. A HM Tábori Rabbinátus állománya a gyakorlókalap, illetőleg a fekete barett sapka helyett a 2000 M nyári gyakorlóöltözet alapanyagából készített, hímzett magyar és héber felirattal ellátott kipát viselhet,
+i)[^47] a harckocsizó és a hadihajós szakbeosztású állomány, valamint a tábori lelkész a gyakorlókalap helyett, hímzett harckocsizó, hadihajós, illetőleg tábori lelkészi jelvénnyel ellátott fekete barett sapkát viselhet. A HM Tábori Rabbinátus állománya a gyakorlókalap, illetőleg a fekete barett sapka helyett a 2000 M nyári gyakorlóöltözet alapanyagából készített, hímzett magyar és héber felirattal ellátott kipát viselhet,
 
-j)[^47] a tüzér, légvédelmi tüzér és a katonai rendész szakbeosztású állomány a gyakorlókalap helyett, hímzett tüzér, légvédelmi tüzér, illetve katonai rendész jelvénnyel ellátott skarlátpiros barett sapkát viselhet,
+j)[^48] a tüzér, légvédelmi tüzér és a katonai rendész szakbeosztású állomány a gyakorlókalap helyett, hímzett tüzér, légvédelmi tüzér, illetve katonai rendész jelvénnyel ellátott skarlátpiros barett sapkát viselhet,
 
 k) a fegyvernemi alegység (zászlóalj, század, szakasz) teljes személyi állománya a fegyvernemnek megfelelő színű (pl. felderítőzászlóalj zöld, harckocsi zászlóalj fekete, tüzérosztály skarlátpiros) barett sapkát hord,
 
 l) télen a h)–k) pontban nevesített állomány, a barett sapka helyett téli gyakorlósapkát viselhet,
 
-m)[^48] az MH tényleges állománya csapadékos időjárás esetén a hadi- (gyakorló-) öltözet összes változatához, rendfokozatának megfelelő, tépőzáras hímzett rendfokozati jelzéssel ellátott esővédő öltönyt visel, az esővédő zubbony önállóan, felső ruhadarabként (esővédő nadrág nélkül) is viselhető,
+m)[^49] az MH tényleges állománya csapadékos időjárás esetén a hadi- (gyakorló-) öltözet összes változatához, rendfokozatának megfelelő, tépőzáras hímzett rendfokozati jelzéssel ellátott esővédő öltönyt visel, az esővédő zubbony önállóan, felső ruhadarabként (esővédő nadrág nélkül) is viselhető,
 
-n)[^49] a repülőszerelő állomány szakfeladat végrehajtásakor
+n)[^50] a repülőszerelő állomány szakfeladat végrehajtásakor
 
 na) 2000 M nyári gyakorlóöltözetet, 2008 M polárpulóvert, valamint 95 M gyakorlópulóvert felső ruhadarabként nem viselhet,
 
@@ -630,11 +630,11 @@ nc) a vonatkozó munkavédelmi előírások betartása mellett – a 93 M repül
 
 o) a nemzetközi kontingensekben szolgálatot teljesítő állomány zöld barett sapkát visel hímzett sapkajelvénnyel,
 
-p)[^50] átmeneti időszakban az általános bakancs helyett a nyári bakancs, nyáron a nyári bakancs helyett az általános bakancs, továbbá védőlábbeliként téli védőbakancs és gumicsizma is viselhető,
+p)[^51] átmeneti időszakban az általános bakancs helyett a nyári bakancs, nyáron a nyári bakancs helyett az általános bakancs, továbbá védőlábbeliként téli védőbakancs és gumicsizma is viselhető,
 
 q) speciális feladat végrehajtásakor a gyakorlókesztyű helyett ujjatlan taktikai kesztyű is viselhető,
 
-r)[^51] térképtáskát (tereptarka huzattal) hord a hivatásos és a honvéd tisztjelölti, honvéd tiszthelyettes-jelölti állomány a készenlét fokozása és gyakorlatok alkalmával, amennyiben azt az állományilletékes parancsnok elrendeli,
+r)[^52] térképtáskát (tereptarka huzattal) hord a hivatásos és a honvéd tisztjelölti, honvéd tiszthelyettes-jelölti állomány a készenlét fokozása és gyakorlatok alkalmával, amennyiben azt az állományilletékes parancsnok elrendeli,
 
 s) a hadiöltözetet viselő állomány a 90 M téli gyakorlónadrágot és nadrágbélést, a taktikai kesztyűt, a könyök- és térdvédőt, valamint a fényvédő szemüveget kiegészítő felszerelésként hordja. A könyökvédő a gyakorlózubbonyon, illetve a térdvédő a gyakorlónadrágon viselendő,
 
@@ -642,7 +642,7 @@ t) nyáron és átmeneti időszakban a hadihajós katona szakfeladatai végrehaj
 
 u) télen és átmeneti időszakban a hadihajós katona szakfeladatainak hajón történő végrehajtása során hímzett hadihajós jelvénnyel ellátott kötött fekete sapkát viselhet,
 
-v)[^52] sorakozó, illetve kiemelkedő fontosságú katonai rendezvények alkalmával a 90 M és 2000 M általános, a 93 M ejtőernyős és a 93 M repülőszerelő hadi- (gyakorló-) öltözetet viselő állomány – télen az ab) és ad), átmeneti időszakban a ba)–bc), nyáron a ca)–ce) alpontok szerinti hordmód változathoz – fegyvernemi hovatartozását kifejező, illetőleg beosztásának megfelelő
+v)[^53] sorakozó, illetve kiemelkedő fontosságú katonai rendezvények alkalmával a 90 M és 2000 M általános, a 93 M ejtőernyős és a 93 M repülőszerelő hadi- (gyakorló-) öltözetet viselő állomány – télen az ab) és ad), átmeneti időszakban a ba)–bc), nyáron a ca)–ce) alpontok szerinti hordmód változathoz – fegyvernemi hovatartozását kifejező, illetőleg beosztásának megfelelő
 
 va) légvédelmi tüzér tábornok kivételével világoskék szakmai sálat visel a légierő öltözetét viselő tábornok és zenész, a repülőszerelő, a repülésirányító, a meteorológus,
 
@@ -658,9 +658,9 @@ vf) fehér szakmai sálat visel a felderítő,
 
 vg) fekete szakmai sálat visel a harckocsizó, a HM Tábori Lelkészi Szolgálat teljes személyi állománya, valamint a díszelgő és zenéz állomány katonai temetés alkalmával,
 
-vh)[^53] kármin szakmai sálat visel a hadtáp, a logisztikus, a térképész, a mérnök, a technikus, a jogi- és igazgatási, az egészségügyi, a gépkocsiszállító, a közlekedési, a KNBSZ szakállománya,
+vh)[^54] kármin szakmai sálat visel a hadtáp, a logisztikus, a térképész, a mérnök, a technikus, a jogi- és igazgatási, az egészségügyi, a gépkocsiszállító, a közlekedési, a KNBSZ szakállománya,
 
-vi)[^54] a tábori lelkész tábornok kivételével skarlátpiros szakmai sálat visel az általános öltözetet viselő tábornok, a tüzér, a légvédelmi tüzér, a légvédelmi lokátoros, a zenész, a díszelgő, a katonai rendész, a honvéd tisztjelölt, honvéd tiszthelyettes-jelölt, továbbá a va)–vh) alpontban nem nevesített végzettséggel rendelkező, illetőleg beosztást betöltő katona,
+vi)[^55] a tábori lelkész tábornok kivételével skarlátpiros szakmai sálat visel az általános öltözetet viselő tábornok, a tüzér, a légvédelmi tüzér, a légvédelmi lokátoros, a zenész, a díszelgő, a katonai rendész, a honvéd tisztjelölt, honvéd tiszthelyettes-jelölt, továbbá a va)–vh) alpontban nem nevesített végzettséggel rendelkező, illetőleg beosztást betöltő katona,
 
 vj) a fegyvernemi egység, alegység teljes személyi állománya a fegyvernemnek megfelelő színű szakmai sálat viselhet,
 
@@ -670,15 +670,15 @@ w) a katona a hadi- (gyakorló-) öltözethez napszemüveget viselhet, azonban k
 
 x) a katonanőkre a katona férfiakkal azonos előírások vonatkoznak.
 
-y)[^55] a 2/A. változat nyáron, a 8. és a 13. változat átmeneti időszakban is viselhető,
+y)[^56] a 2/A. változat nyáron, a 8. és a 13. változat átmeneti időszakban is viselhető,
 
-z)[^56] a 90 M gyakorlózubbony és a 90 M gyakorlónadrág alatt
+z)[^57] a 90 M gyakorlózubbony és a 90 M gyakorlónadrág alatt
 
 za) télen és átmenetei időszakban a gyakorlópólón 2008 M téli vékony felső, vagy 2008 M téli vastag felső, a 90 M gyakorlónadrág alatt 2008 M téli vékony alsó, vagy 2008 M téli vastag alsó,
 
-zb)[^57] télen a gyakorlópóló és a 2008 M téli vékony felső fölött a 2008 M téli vastag felső, a 90 M gyakorlónadrág alatt a 2008 M téli vékony alsón a 2008 M téli vastag alsó viselhető.
+zb)[^58] télen a gyakorlópóló és a 2008 M téli vékony felső fölött a 2008 M téli vastag felső, a 90 M gyakorlónadrág alatt a 2008 M téli vékony alsón a 2008 M téli vastag alsó viselhető.
 
-D)[^58] A 2003 M repülőhajózó hadi- (gyakorló-) védőöltözetet az MH repülőhajózó (repülőgép- és helikoptervezető, valamint fedélzeti) állománya viseli szakkiképzési feladatai végrehajtásakor, alaki szemlén, készenlét fokozásakor, valamint készültségi szolgálatban.
+D)[^59] A 2003 M repülőhajózó hadi- (gyakorló-) védőöltözetet az MH repülőhajózó (repülőgép- és helikoptervezető, valamint fedélzeti) állománya viseli szakkiképzési feladatai végrehajtásakor, alaki szemlén, készenlét fokozásakor, valamint készültségi szolgálatban.
 
 Az öltözet változatai:
 
@@ -688,7 +688,7 @@ Télen
 
 ----------
 
-16. változat[^59]
+16. változat[^60]
 
 Sötétkék köznapi sapka
 
@@ -714,7 +714,7 @@ Selyem nyaksál
 
 ----------
 
-17. változat[^60]
+17. változat[^61]
 
 Sötétkék köznapi sapka
 
@@ -740,7 +740,7 @@ Nyáron
 
 ----------
 
-18. változat[^61]
+18. változat[^62]
 
 Sötétkék köznapi sapka
 
@@ -762,15 +762,15 @@ A 2003 M repülőhajózó hadi- (gyakorló-) védőöltözet hordmód változata
 
 a) a repülőhajózó állomány a 2003 M repülőhajózó overall mellrészén hímzett tépőzáras színes név- (becenévvel) és Hungary feliratot, valamint egységjelzést, a bal felkaron hímzett színes nemzeti színű pajzsot, a jobb felkaron hímzett tépőzáras századjelvényt, valamint hímzett tépőzáras rendfokozati jelzést visel,
 
-b)[^62] a repülőhajózó állomány télen és átmenetei időszakban a 2003 M repülőhajózó dzsekihez, nyáron a 2003 M repülőhajózó overallhoz a századának megfelelő nyaksálat hord, továbbá sorakozó, illetve kiemelkedő fontosságú katonai rendezvények alkalmával világoskék szakmai sálat visel,
+b)[^63] a repülőhajózó állomány télen és átmenetei időszakban a 2003 M repülőhajózó dzsekihez, nyáron a 2003 M repülőhajózó overallhoz a századának megfelelő nyaksálat hord, továbbá sorakozó, illetve kiemelkedő fontosságú katonai rendezvények alkalmával világoskék szakmai sálat visel,
 
-c)[^63] a repülőhajózó állomány, amennyiben a terepen végrehajtott foglalkozás nem esik egybe szakfeladata teljesítésével, a 2003 M repülőhajózó hadi- (gyakorló-) védőöltözet megkímélése céljából – a 45. A) pontban meghatározott hordmód változatok betartásával – 90 vagy 2000 M hadi- (gyakorló-) öltözetet visel,
+c)[^64] a repülőhajózó állomány, amennyiben a terepen végrehajtott foglalkozás nem esik egybe szakfeladata teljesítésével, a 2003 M repülőhajózó hadi- (gyakorló-) védőöltözet megkímélése céljából – a 45. A) pontban meghatározott hordmód változatok betartásával – 90 vagy 2000 M hadi- (gyakorló-) öltözetet visel,
 
 d) a katonanőkre a katona férfiakkal azonos előírások vonatkoznak,
 
-e)[^64] a repülőhajózó állomány a 2003 M repülőhajózó overall fölött, megengedett felső ruhadarabként, repülőhajózó fekete bőrdzsekit viselhet. A repülőhajózó fekete bőrdzseki viselésének részletes szabályait a Honvéd Vezérkar főnöke intézkedésben határozza meg.
+e)[^65] a repülőhajózó állomány a 2003 M repülőhajózó overall fölött, megengedett felső ruhadarabként, repülőhajózó fekete bőrdzsekit viselhet. A repülőhajózó fekete bőrdzseki viselésének részletes szabályait a Honvéd Vezérkar főnöke intézkedésben határozza meg.
 
-E)[^65] A 2003 M sivatagi hadi- (gyakorló-) öltözetet az MH kijelölt hivatásos és szerződéses állománya, ENSZ, NATO, illetőleg EU műveletekben való részvétel során, extrém sivatagi időjárási körülmények közötti szakfeladat végrehajtásakor viseli.
+E)[^66] A 2003 M sivatagi hadi- (gyakorló-) öltözetet az MH kijelölt hivatásos és szerződéses állománya, ENSZ, NATO, illetőleg EU műveletekben való részvétel során, extrém sivatagi időjárási körülmények közötti szakfeladat végrehajtásakor viseli.
 
 Az öltözet változatai:
 
@@ -890,19 +890,19 @@ Hevederöv
 
 A 2003 M sivatagi hadi- (gyakorló-) öltözet hordmód változatai:
 
-a)[^66] télen:
+a)[^67] télen:
 
 aa) sivatagi kabát, (esővédő) zárt gallérral,
 
 ab) sivatagi kabát (esővédő) nyitott gallérral, sivatagi gyakorlózubbony begombolt gallérral,
 
-b)[^67] átmeneti időszakban:
+b)[^68] átmeneti időszakban:
 
 ba) sivatagi kabát (esővédő) – bélés nélkül – nyitott gallérral, sivatagi gyakorlózubbony begombolt gallérral,
 
 bb) sivatagi gyakorlózubbony felső gombja kigombolva, alatta gyakorlópóló,
 
-c)[^68] nyáron:
+c)[^69] nyáron:
 
 ca) sivatagi gyakorlózubbony felső gombja kigombolva, alatta gyakorlópóló,
 
@@ -928,21 +928,21 @@ h) speciális feladat végrehajtásakor a gyakorlókesztyű helyett ujjatlan tak
 
 i) a sivatagi hadi- (gyakorló-) öltözethez fényvédő napszemüveg és porvédő védőszemüveg is viselhető,
 
-j)[^69] a háti italhordó (Camel Bak) a sivatagi kabát vagy a sivatagi gyakorlózubbony fölött, a háton viselendő,
+j)[^70] a háti italhordó (Camel Bak) a sivatagi kabát vagy a sivatagi gyakorlózubbony fölött, a háton viselendő,
 
 k) az állomány a málháját málhaeszközön hordja, illetve egyéb felszerelését tengerészzsákban helyezi el,
 
 l) a katonanőkre a katona férfiakkal azonos előírások vonatkoznak,
 
-m)[^70] a 2003 M sivatagi hadi- (gyakorló-) öltözet ENSZ, NATO, illetve EU műveletek során, csak sivatagi körülmények között viselhető, melyet a Honvéd Vezérkar főnöke külön intézkedésben rendel el,
+m)[^71] a 2003 M sivatagi hadi- (gyakorló-) öltözet ENSZ, NATO, illetve EU műveletek során, csak sivatagi körülmények között viselhető, melyet a Honvéd Vezérkar főnöke külön intézkedésben rendel el,
 
-n)[^71] a 21. változat átmeneti időszakban is viselhető,
+n)[^72] a 21. változat átmeneti időszakban is viselhető,
 
-o)[^72] a tábori lelkész a sivatagi kalap helyett hímzett tábori lelkészi jelvénnyel ellátott fekete barett sapkát viselhet, a HM Tábori Rabbinátus állománya a fekete barett sapka helyett a 2000 M nyári gyakorlóöltözet alapanyagából készített, hímzett magyar és héber felirattal ellátott kipát viselhet,
+o)[^73] a tábori lelkész a sivatagi kalap helyett hímzett tábori lelkészi jelvénnyel ellátott fekete barett sapkát viselhet, a HM Tábori Rabbinátus állománya a fekete barett sapka helyett a 2000 M nyári gyakorlóöltözet alapanyagából készített, hímzett magyar és héber felirattal ellátott kipát viselhet,
 
-p)[^73] a nemzetközi műveletekben résztvevő katonai szervezet állománya sorakozó, illetve kiemelkedő fontosságú katonai rendezvények alkalmával – amennyiben a kontingensre vonatkozó más eltérő szabályozás nincs – télen az ab), átmeneti időszakban a ba)–bb), nyáron a ca)–ce) alpontok szerinti hordmód változathoz „lövész” zöld, az egyéni beosztást betöltő katona – e szabályzat 45. C) pontjának v) alpontja előírásai szerint – a fegyvernemi hovatartozásának megfelelő szakmai sálat visel.
+p)[^74] a nemzetközi műveletekben résztvevő katonai szervezet állománya sorakozó, illetve kiemelkedő fontosságú katonai rendezvények alkalmával – amennyiben a kontingensre vonatkozó más eltérő szabályozás nincs – télen az ab), átmeneti időszakban a ba)–bb), nyáron a ca)–ce) alpontok szerinti hordmód változathoz „lövész” zöld, az egyéni beosztást betöltő katona – e szabályzat 45. C) pontjának v) alpontja előírásai szerint – a fegyvernemi hovatartozásának megfelelő szakmai sálat visel.
 
-F)[^74] A trópusi hadi- (gyakorló-) öltözetet az MH kijelölt hivatásos és szerződéses állománya, ENSZ, NATO, illetőleg EU műveletekben való részvétel során, trópusi időjárási körülmények közötti szakfeladat végrehajtásakor viseli.
+F)[^75] A trópusi hadi- (gyakorló-) öltözetet az MH kijelölt hivatásos és szerződéses állománya, ENSZ, NATO, illetőleg EU műveletekben való részvétel során, trópusi időjárási körülmények közötti szakfeladat végrehajtásakor viseli.
 
 Az öltözet változatai:
 
@@ -986,7 +986,7 @@ Hevederöv
 
 A trópusi hadi- (gyakorló-) öltözet hordmód változatai:
 
-a)[^75] nyáron és átmeneti időszakban:
+a)[^76] nyáron és átmeneti időszakban:
 
 aa) 2000 M nyári gyakorlózubbony felső gombja kigombolva, alatta gyakorlópóló,
 
@@ -1004,21 +1004,21 @@ c) a könyökvédő és a térdvédő a 2000 M nyári gyakorlózubbonyon, illetv
 
 d) speciális feladat végrehajtásakor ujjatlan taktikai kesztyű is viselhető,
 
-e)[^76] a háti italhordó (Camel Bak) a 2000 M nyári gyakorlózubbony fölött, a háton viselendő,
+e)[^77] a háti italhordó (Camel Bak) a 2000 M nyári gyakorlózubbony fölött, a háton viselendő,
 
 f) az állomány a málháját málhaeszközön hordja, illetve egyéb felszerelését tengerészzsákban helyezi el,
 
-g)[^77] a katona csapadékos időjárás esetén a trópusi hadi- (gyakorló-) öltözet összes változatához, rendfokozatának megfelelő, tépőzáras hímzett rendfokozati jelzéssel ellátott esővédő öltönyt visel, az esővédő zubbony önállóan, felső ruhadarabként (esővédő nadrág nélkül) is viselhető,
+g)[^78] a katona csapadékos időjárás esetén a trópusi hadi- (gyakorló-) öltözet összes változatához, rendfokozatának megfelelő, tépőzáras hímzett rendfokozati jelzéssel ellátott esővédő öltönyt visel, az esővédő zubbony önállóan, felső ruhadarabként (esővédő nadrág nélkül) is viselhető,
 
 h) a katonanőkre a katona férfiakkal azonos előírások vonatkoznak,
 
-i)[^78] a trópusi hadi- (gyakorló-) öltözet ENSZ, NATO, illetve EU műveletek során, csak trópusi körülmények között viselhető, melyet a Honvéd Vezérkar főnöke külön intézkedésben rendel el,
+i)[^79] a trópusi hadi- (gyakorló-) öltözet ENSZ, NATO, illetve EU műveletek során, csak trópusi körülmények között viselhető, melyet a Honvéd Vezérkar főnöke külön intézkedésben rendel el,
 
-j)[^79] a tábori lelkész a trópusi kalap helyett hímzett tábori lelkészi jelvénnyel ellátott fekete barett sapkát viselhet, a HM Tábori Rabbinátus állománya a fekete barett sapka helyett a 2000 M nyári gyakorlóöltözet alapanyagából készített, hímzett magyar és héber felirattal ellátott kipát viselhet,
+j)[^80] a tábori lelkész a trópusi kalap helyett hímzett tábori lelkészi jelvénnyel ellátott fekete barett sapkát viselhet, a HM Tábori Rabbinátus állománya a fekete barett sapka helyett a 2000 M nyári gyakorlóöltözet alapanyagából készített, hímzett magyar és héber felirattal ellátott kipát viselhet,
 
-k)[^80] a nemzetközi műveletekben résztvevő katonai szervezet állománya sorakozó, illetve kiemelkedő fontosságú katonai rendezvények alkalmával – amennyiben a kontingensre vonatkozó más eltérő szabályozás nincs – nyáron és átmeneti időszakban az aa)–ad) alpontok szerinti hordmód változathoz „lövész” zöld, az egyéni beosztást betöltő katona – e szabályzat 45. C) pontjának v) alpontja előírásai szerint – a fegyvernemi hovatartozásának megfelelő szakmai sálat visel.
+k)[^81] a nemzetközi műveletekben résztvevő katonai szervezet állománya sorakozó, illetve kiemelkedő fontosságú katonai rendezvények alkalmával – amennyiben a kontingensre vonatkozó más eltérő szabályozás nincs – nyáron és átmeneti időszakban az aa)–ad) alpontok szerinti hordmód változathoz „lövész” zöld, az egyéni beosztást betöltő katona – e szabályzat 45. C) pontjának v) alpontja előírásai szerint – a fegyvernemi hovatartozásának megfelelő szakmai sálat visel.
 
-G)[^81] Az önkéntes védelmi tartalékos békeidőben – a rendelkezésre állás időszakában, a szerződésében meghatározott őrzés-védelmi feladata ellátása során – formaruházatként 90 M és 2000 M általános hadi- (gyakorló-) öltözetet viselhet.
+G)[^82] Az önkéntes védelmi tartalékos békeidőben – a rendelkezésre állás időszakában, a szerződésében meghatározott őrzés-védelmi feladata ellátása során – formaruházatként 90 M és 2000 M általános hadi- (gyakorló-) öltözetet viselhet.
 
 Az öltözet változatai:
 
@@ -1134,9 +1134,9 @@ j) az önkéntes védelmi tartalékos katonanőkre az önkéntes védelmi tartal
 
 Köznapi öltözet
 
-46.[^82] Az öltözetet viseli a hivatásos és a szerződéses tiszti, altiszti, viselheti a szerződéses legénységi és az önkéntes műveleti tartalékos, önkéntes védelmi tartalékos állomány a napi szolgálati tevékenysége során, valamint viseli a honvéd tisztjelölt a tantermi foglalkozások alkalmával, ha más öltözetet nem rendeltek el, továbbá ügyeleti szolgálatban, ha annak jellege nem teszi szükségessé a hadi- (gyakorló-) öltözetet.
+46.[^83] Az öltözetet viseli a hivatásos és a szerződéses tiszti, altiszti, viselheti a szerződéses legénységi és az önkéntes műveleti tartalékos, önkéntes védelmi tartalékos állomány a napi szolgálati tevékenysége során, valamint viseli a honvéd tisztjelölt a tantermi foglalkozások alkalmával, ha más öltözetet nem rendeltek el, továbbá ügyeleti szolgálatban, ha annak jellege nem teszi szükségessé a hadi- (gyakorló-) öltözetet.
 
-A)[^83] Az általános köznapi öltözetet viselő katona és honvéd tisztjelölti állomány
+A)[^84] Az általános köznapi öltözetet viselő katona és honvéd tisztjelölti állomány
 
 öltözet változatai:
 
@@ -1324,7 +1324,7 @@ Névkitűző
 
 Deréköv
 
-B)[^84] A légierő köznapi öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós köznapi öltözetet visel a hadihajós szakbeosztást betöltő állomány.
+B)[^85] A légierő köznapi öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós köznapi öltözetet visel a hadihajós szakbeosztást betöltő állomány.
 
 A légierő által viselt és a hadihajós köznapi öltözetet viselő katona állomány
 
@@ -1516,31 +1516,31 @@ Fekete deréköv
 
 A köznapi öltözet hordmód változatai:
 
-a)[^85] a honvéd tisztjelölt, valamint az általános köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány köznapi sapkát, a légierő által viselt és a hadihajós köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány sötétkék köznapi sapkát hord a köznapi öltözet valamennyi változatához,
+a)[^86] a honvéd tisztjelölt, valamint az általános köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány köznapi sapkát, a légierő által viselt és a hadihajós köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány sötétkék köznapi sapkát hord a köznapi öltözet valamennyi változatához,
 
-b)[^86] a hadihajós fegyvernemhez tartozó hivatásos és szerződéses tiszt, altiszt szakállomány a sötétkék köznapi sapka helyett minden öltözeti változathoz hadihajós köznapi tányérsapkát visel,
+b)[^87] a hadihajós fegyvernemhez tartozó hivatásos és szerződéses tiszt, altiszt szakállomány a sötétkék köznapi sapka helyett minden öltözeti változathoz hadihajós köznapi tányérsapkát visel,
 
-c)[^87] a köznapi öltözet valamennyi változatához – megengedettként – a felderítő (ejtőernyős) szakállomány hímzett felderítő (ejtőernyős) jelvénnyel ellátott zöld, a harckocsizó szakállomány és a tábori lelkész hímzett harckocsizó, illetve tábori lelkészi jelvénnyel ellátott fekete, a tüzér, a légvédelmi tüzér, valamint a rendész szakállomány hímzett tüzér, légvédelmi tüzér, illetve rendész jelvénnyel ellátott skarlátpiros barett sapkát, a vezető tábori rabbi és a rabbi a fekete barett sapka helyett kipát viselhet,
+c)[^88] a köznapi öltözet valamennyi változatához – megengedettként – a felderítő (ejtőernyős) szakállomány hímzett felderítő (ejtőernyős) jelvénnyel ellátott zöld, a harckocsizó szakállomány és a tábori lelkész hímzett harckocsizó, illetve tábori lelkészi jelvénnyel ellátott fekete, a tüzér, a légvédelmi tüzér, valamint a rendész szakállomány hímzett tüzér, légvédelmi tüzér, illetve rendész jelvénnyel ellátott skarlátpiros barett sapkát, a vezető tábori rabbi és a rabbi a fekete barett sapka helyett kipát viselhet,
 
-d)[^88] a honvéd tisztjelölt, valamint az általános köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány a posztóköpeny helyett 3/4-es ballonkabátot, a légierő által viselt és a hadihajós köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány a sötétkék posztóköpeny helyett sötétkék 3/4-es ballonkabátot hord,
+d)[^89] a honvéd tisztjelölt, valamint az általános köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány a posztóköpeny helyett 3/4-es ballonkabátot, a légierő által viselt és a hadihajós köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány a sötétkék posztóköpeny helyett sötétkék 3/4-es ballonkabátot hord,
 
-e)[^89] csapadékos időjárás esetén a 4–7. változat esőkabáttal, a 11–14. változat sötétkék esőkabáttal egészül ki, az 5–7. változat viselése esetén az esőkabát, illetve a 12–14. változat viselése esetén a sötétkék esőkabát helyett, felső ruhadarabként, tépőzáras hímzett rendfokozati jelzéssel ellátott esővédő zubbony viselhető,
+e)[^90] csapadékos időjárás esetén a 4–7. változat esőkabáttal, a 11–14. változat sötétkék esőkabáttal egészül ki, az 5–7. változat viselése esetén az esőkabát, illetve a 12–14. változat viselése esetén a sötétkék esőkabát helyett, felső ruhadarabként, tépőzáras hímzett rendfokozati jelzéssel ellátott esővédő zubbony viselhető,
 
 f) a 3/4-es és 4/4-es ballonkabát, a sötétkék ballonkabát, az esőkabát, a sötétkék esőkabát, a gyakorlópulóver, a sötétkék pulóver hímzett köznapi rendfokozati jelzéssel viselendő,
 
-g)[^90] a köznapi zubbony köznapi paroli rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett színes jelvénnyel – kivéve a honvéd tisztjelölt állományt – viselendő,
+g)[^91] a köznapi zubbony köznapi paroli rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett színes jelvénnyel – kivéve a honvéd tisztjelölt állományt – viselendő,
 
-h)[^91] a hosszú ujjú köznapi ing hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölti állományt –, nyakkendővel viselendő,
+h)[^92] a hosszú ujjú köznapi ing hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölti állományt –, nyakkendővel viselendő,
 
-i)[^92] a 6. és 13. változat – megengedettként – rövid ujjú köznapi inggel, hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölti állományt –, nyakkendő nélkül viselhető,
+i)[^93] a 6. és 13. változat – megengedettként – rövid ujjú köznapi inggel, hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölti állományt –, nyakkendő nélkül viselhető,
 
-j)[^93] a hosszú ujjú ingblúz hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölti állományt – viselendő,
+j)[^94] a hosszú ujjú ingblúz hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölti állományt – viselendő,
 
-k)[^94] a 7. és 14. változat – megengedettként – rövid ujjú ingblúzzal, hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölt állományt – viselhető,
+k)[^95] a 7. és 14. változat – megengedettként – rövid ujjú ingblúzzal, hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölt állományt – viselhető,
 
-l)[^95] az általános köznapi öltözetet viselő állomány a köznapi öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal, a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt, a tisztes, valamint a honvéd tisztjelölt ezüstszínű stilizált címerrel díszítve,
+l)[^96] az általános köznapi öltözetet viselő állomány a köznapi öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal, a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt, a tisztes, valamint a honvéd tisztjelölt ezüstszínű stilizált címerrel díszítve,
 
-m)[^96] a légierő által viselt és a hadihajós köznapi öltözetet viselő állomány a köznapi öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal; a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt és a tisztes ezüstszínű stilizált címerrel díszítve,
+m)[^97] a légierő által viselt és a hadihajós köznapi öltözetet viselő állomány a köznapi öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal; a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt és a tisztes ezüstszínű stilizált címerrel díszítve,
 
 n) az 5. változatnál a gyakorlópulóver, a 12. változatnál a sötétkék pulóver felső ruhadarabként, kihajtott inggallérral viselendő,
 
@@ -1552,19 +1552,19 @@ q) az 1–2. és a 8–9. változat bokacipővel is viselhető,
 
 r) a nyári változatok – megengedettként – nyári (lukacsos) félcipővel is viselhetőek,
 
-s)[^97] a légierő által viselt és a hadihajós köznapi ruházat formailag megegyezik az általánossal, csak színében tér el,
+s)[^98] a légierő által viselt és a hadihajós köznapi ruházat formailag megegyezik az általánossal, csak színében tér el,
 
 t) a katona a köznapi öltözetéhez napszemüveget viselhet, azonban katonai rendezvények alkalmával az azt elrendelő állományilletékes parancsnok dönt a napszemüveg viseléséről,
 
-u)[^98] az általános köznapi öltözetet viselő állomány – a szerződéses legénységi, az önkéntes műveleti tartalékos és az önkéntes védelmi tartalékos katona, valamint a honvéd tisztjelölt kivételével – a köznapi öltözet nyári változataihoz a köznapi sapka helyett köznapi Bocskai sapkát is viselhet.
+u)[^99] az általános köznapi öltözetet viselő állomány – a szerződéses legénységi, az önkéntes műveleti tartalékos és az önkéntes védelmi tartalékos katona, valamint a honvéd tisztjelölt kivételével – a köznapi öltözet nyári változataihoz a köznapi sapka helyett köznapi Bocskai sapkát is viselhet.
 
-v)[^99] a tábori lelkész a hosszú és rövid ujjú köznapi ing, valamint a hosszú és rövid ujjú ingblúz bal zsebére gomboltan keresztet visel,
+v)[^100] a tábori lelkész a hosszú és rövid ujjú köznapi ing, valamint a hosszú és rövid ujjú ingblúz bal zsebére gomboltan keresztet visel,
 
-w)[^100] a főtiszt, tiszt, zászlós, altiszt és tisztes egészségügyi (orvosi, ápolói) szakállomány gyógyító szaktevékenysége alkalmával, a rendelőintézeten belül, hímzett társasági rendfokozati jelzéssel és névkitűzővel ellátott egészségügyi munkaruházatot (ing, köpeny, nadrág) visel.
+w)[^101] a főtiszt, tiszt, zászlós, altiszt és tisztes egészségügyi (orvosi, ápolói) szakállomány gyógyító szaktevékenysége alkalmával, a rendelőintézeten belül, hímzett társasági rendfokozati jelzéssel és névkitűzővel ellátott egészségügyi munkaruházatot (ing, köpeny, nadrág) visel.
 
-x)[^101] a hivatásos, szerződéses tábornok, főtiszt, tiszt és altiszt átmeneti időszakban, az időjárás függvényében a 4/4-es ballonkabát helyett posztóköpenyt, a sötétkék 4/4-es ballonkabát helyett sötétkék posztóköpenyt viselhet.
+x)[^102] a hivatásos, szerződéses tábornok, főtiszt, tiszt és altiszt átmeneti időszakban, az időjárás függvényében a 4/4-es ballonkabát helyett posztóköpenyt, a sötétkék 4/4-es ballonkabát helyett sötétkék posztóköpenyt viselhet.
 
-C)[^102] Az általános köznapi öltözetet viselő katonanői és honvéd tisztjelölt női állomány
+C)[^103] Az általános köznapi öltözetet viselő katonanői és honvéd tisztjelölt női állomány
 
 öltözet változatai:
 
@@ -1708,7 +1708,7 @@ Névkitűző
 
 Deréköv
 
-D)[^103] A légierő női köznapi öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós női köznapi öltözetet visel a hadihajós szakbeosztást betöltő katonanői állomány.
+D)[^104] A légierő női köznapi öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós női köznapi öltözetet visel a hadihajós szakbeosztást betöltő katonanői állomány.
 
 A légierő által viselt és a hadihajós köznapi öltözetet viselő katonanői állomány
 
@@ -1856,29 +1856,29 @@ Fekete deréköv
 
 A női köznapi öltözet hordmód változatai:
 
-a)[^104] a honvéd tisztjelölt női, valamint az általános köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos katonanői állomány köznapi sapkát, a légierő által viselt és a hadihajós köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos katonanői állomány sötétkék köznapi sapkát hord a köznapi öltözet valamennyi változatához,
+a)[^105] a honvéd tisztjelölt női, valamint az általános köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos katonanői állomány köznapi sapkát, a légierő által viselt és a hadihajós köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos katonanői állomány sötétkék köznapi sapkát hord a köznapi öltözet valamennyi változatához,
 
-b)[^105] télen és átmeneti időszakban a hadihajós fegyvernemhez tartozó hivatásos és szerződéses tiszt, altiszt katonanői szakállomány a sötétkék köznapi sapka helyett minden öltözeti változathoz fekete kalapot visel,
+b)[^106] télen és átmeneti időszakban a hadihajós fegyvernemhez tartozó hivatásos és szerződéses tiszt, altiszt katonanői szakállomány a sötétkék köznapi sapka helyett minden öltözeti változathoz fekete kalapot visel,
 
-c)[^106] a köznapi öltözet valamennyi változatához – megengedettként – a felderítő (ejtőernyős) szakállomány hímzett felderítő (ejtőernyős) jelvénnyel ellátott zöld, a harckocsizó szakállomány és a tábori lelkésznő hímzett harckocsizó, illetve tábori lelkészi jelvénnyel ellátott fekete, a tüzér, a légvédelmi tüzér, illetve a rendész szakállomány hímzett tüzér, légvédelmi tüzér, illetve rendész jelvénnyel ellátott skarlátpiros barett sapkát viselhet,
+c)[^107] a köznapi öltözet valamennyi változatához – megengedettként – a felderítő (ejtőernyős) szakállomány hímzett felderítő (ejtőernyős) jelvénnyel ellátott zöld, a harckocsizó szakállomány és a tábori lelkésznő hímzett harckocsizó, illetve tábori lelkészi jelvénnyel ellátott fekete, a tüzér, a légvédelmi tüzér, illetve a rendész szakállomány hímzett tüzér, légvédelmi tüzér, illetve rendész jelvénnyel ellátott skarlátpiros barett sapkát viselhet,
 
-d)[^107] csapadékos időjárás esetén a 17–20. változat női esőkabáttal, a 23–26. változat sötétkék női esőkabáttal egészül ki, a 18–20. változat viselése esetén a női esőkabát, illetve a 24–26. változat viselése esetén a sötétkék női esőkabát helyett, felső ruhadarabként, tépőzáras hímzett rendfokozati jelzéssel ellátott esővédő zubbony viselhető,
+d)[^108] csapadékos időjárás esetén a 17–20. változat női esőkabáttal, a 23–26. változat sötétkék női esőkabáttal egészül ki, a 18–20. változat viselése esetén a női esőkabát, illetve a 24–26. változat viselése esetén a sötétkék női esőkabát helyett, felső ruhadarabként, tépőzáras hímzett rendfokozati jelzéssel ellátott esővédő zubbony viselhető,
 
 e) a női ballonkabát, a női sötétkék ballonkabát, a női esőkabát, a sötétkék női esőkabát, a gyakorlópulóver, a sötétkék pulóver, a női mellény és a sötétkék női mellény hímzett köznapi rendfokozati jelzéssel viselendő,
 
-f)[^108] a női köznapi zubbony köznapi paroli rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező színes hímzett jelvénnyel – kivéve a honvéd tisztjelölt női állományt – viselendő,
+f)[^109] a női köznapi zubbony köznapi paroli rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező színes hímzett jelvénnyel – kivéve a honvéd tisztjelölt női állományt – viselendő,
 
-g)[^109] a hosszú ujjú női köznapi ing hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölt női állományt –, női köznapi nyakkendővel viselendő,
+g)[^110] a hosszú ujjú női köznapi ing hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölt női állományt –, női köznapi nyakkendővel viselendő,
 
-h)[^110] a 19. és 25. változat – megengedettként – rövid ujjú női köznapi inggel, hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölt női állományt –, női köznapi nyakkendő nélkül viselhető,
+h)[^111] a 19. és 25. változat – megengedettként – rövid ujjú női köznapi inggel, hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölt női állományt –, női köznapi nyakkendő nélkül viselhető,
 
-i)[^111] a hosszú ujjú női ingblúz hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölt női állományt – viselendő,
+i)[^112] a hosszú ujjú női ingblúz hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölt női állományt – viselendő,
 
-j)[^112] a 20. és 26. változat – megengedettként – rövid ujjú női ingblúzzal, hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölt női állományt – viselhető,
+j)[^113] a 20. és 26. változat – megengedettként – rövid ujjú női ingblúzzal, hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett jelvénnyel – kivéve a honvéd tisztjelölt női állományt – viselhető,
 
-k)[^113] az általános női köznapi öltözetet viselő állomány a köznapi öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal; a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt, a tisztes, valamint a honvéd tisztjelölt ezüstszínű stilizált címerrel díszítve,
+k)[^114] az általános női köznapi öltözetet viselő állomány a köznapi öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal; a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt, a tisztes, valamint a honvéd tisztjelölt ezüstszínű stilizált címerrel díszítve,
 
-l)[^114] a légierő által viselt és a hadihajós női köznapi öltözetet viselő katonanői állomány a köznapi öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal, a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt és a tisztes ezüstszínű stilizált címerrel díszítve,
+l)[^115] a légierő által viselt és a hadihajós női köznapi öltözetet viselő katonanői állomány a köznapi öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal, a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt és a tisztes ezüstszínű stilizált címerrel díszítve,
 
 m) a 18. változatnál a gyakorlópulóver, a 24. változatnál a sötétkék pulóver felső ruhadarabként, kihajtott inggallérral viselendő,
 
@@ -1894,29 +1894,29 @@ r) a 15. és a 21. változat csizmával is viselhető,
 
 s) a 17–20. és a 23–26. változathoz – megengedettként – szandál is viselhető,
 
-t)[^115] a légierő által viselt és a hadihajós köznapi ruházat formailag megegyezik az általánossal, csak színében tér el,
+t)[^116] a légierő által viselt és a hadihajós köznapi ruházat formailag megegyezik az általánossal, csak színében tér el,
 
 u) a katonanő a köznapi öltözetéhez napszemüveget viselhet, azonban katonai rendezvények alkalmával az azt elrendelő állományilletékes parancsnok dönt a napszemüveg viseléséről,
 
 v) a katonanő a terhesség harmadik hónapjától kezdődően szolgálati idejében polgári ruhát viselhet,
 
-w)[^116] az általános köznapi öltözetet viselő katonanő – kivétel a szerződéses legénységi, az önkéntes műveleti tartalékos és az önkéntes védelmi tartalékos katonanő, valamint a honvéd tisztjelölt nő – a köznapi öltözet nyári változataihoz a köznapi sapka helyett női kalapot is viselhet,
+w)[^117] az általános köznapi öltözetet viselő katonanő – kivétel a szerződéses legénységi, az önkéntes műveleti tartalékos és az önkéntes védelmi tartalékos katonanő, valamint a honvéd tisztjelölt nő – a köznapi öltözet nyári változataihoz a köznapi sapka helyett női kalapot is viselhet,
 
-x)[^117] a tábori lelkésznő a hosszú és rövid ujjú női köznapi ing, valamint a hosszú és rövid ujjú női ingblúz bal zsebére gomboltan keresztet visel,
+x)[^118] a tábori lelkésznő a hosszú és rövid ujjú női köznapi ing, valamint a hosszú és rövid ujjú női ingblúz bal zsebére gomboltan keresztet visel,
 
-y)[^118] a főtiszt, tiszt, zászlós, altiszt és tisztes egészségügyi (orvosi, ápolói) katonanői szakállomány gyógyító szaktevékenysége alkalmával, a rendelőintézeten belül, hímzett társasági rendfokozati jelzéssel és névkitűzővel ellátott egészségügyi munkaruházatot (női ing, tunika, női köpeny, női nadrág, szoknya) visel.
+y)[^119] a főtiszt, tiszt, zászlós, altiszt és tisztes egészségügyi (orvosi, ápolói) katonanői szakállomány gyógyító szaktevékenysége alkalmával, a rendelőintézeten belül, hímzett társasági rendfokozati jelzéssel és névkitűzővel ellátott egészségügyi munkaruházatot (női ing, tunika, női köpeny, női nadrág, szoknya) visel.
 
-z)[^119] a hivatásos, szerződéses tábornok, főtiszt, tiszt, zászlós és altiszt katonanő átmeneti időszakban, az időjárás függvényében a női ballonkabát helyett női posztóköpenyt, a sötétkék
+z)[^120] a hivatásos, szerződéses tábornok, főtiszt, tiszt, zászlós és altiszt katonanő átmeneti időszakban, az időjárás függvényében a női ballonkabát helyett női posztóköpenyt, a sötétkék
 
 női ballonkabát helyett sötétkék női posztóköpenyt viselhet.
 
 Ünnepi öltözet
 
-47.[^120] Ünnepi öltözetet visel a hivatásos, a szerződéses tiszti, altiszti, viselhet a szerződéses legénységi, az önkéntes műveleti tartalékos és az önkéntes védelmi tartalékos állomány, valamint viseli a honvéd tisztjelölt a laktanyán belül és kívül ünnepi állománygyűlések, rendezvények, továbbá külföldi katonai küldöttségek fogadása, baráti és nyugdíjas találkozók, valamint egyéb kulturális események alkalmával.
+47.[^121] Ünnepi öltözetet visel a hivatásos, a szerződéses tiszti, altiszti, viselhet a szerződéses legénységi, az önkéntes műveleti tartalékos és az önkéntes védelmi tartalékos állomány, valamint viseli a honvéd tisztjelölt a laktanyán belül és kívül ünnepi állománygyűlések, rendezvények, továbbá külföldi katonai küldöttségek fogadása, baráti és nyugdíjas találkozók, valamint egyéb kulturális események alkalmával.
 
 Ezt az öltözetet viseli a honvéd tisztjelölt, továbbá viselheti a szerződéses legénységi, az önkéntes műveleti tartalékos és az önkéntes védelmi tartalékos állomány nemzeti és állami ünnepeken, kiemelkedő társadalmi és ünnepélyes katonai rendezvényeken, ha a sorakozás (felvonulás) fegyver és haditechnika nélkül történik, valamint az elöljáró által meghatározott alkalommal, katonai temetésen, illetve viselheti jelentősebb családi eseményeken (különösen házasságkötés, keresztelő).
 
-A)[^121] Az általános ünnepi öltözetet viselő katona és honvéd tisztjelölti állomány
+A)[^122] Az általános ünnepi öltözetet viselő katona és honvéd tisztjelölti állomány
 
 öltözet változatai:
 
@@ -2042,7 +2042,7 @@ Kézelőgomb
 
 Deréköv
 
-B)[^122] A légierő ünnepi öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós ünnepi öltözetet visel a hadihajós szakbeosztást betöltő állomány.
+B)[^123] A légierő ünnepi öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós ünnepi öltözetet visel a hadihajós szakbeosztást betöltő állomány.
 
 A légierő által viselt és a hadihajós ünnepi öltözetet viselő katona állomány
 
@@ -2172,45 +2172,45 @@ Fekete deréköv
 
 Az ünnepi öltözet hordmód változatai:
 
-a)[^123] a honvéd tisztjelölt, valamint az általános ünnepi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány köznapi sapkát, a légierő által viselt és a hadihajós ünnepi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány sötétkék köznapi sapkát hord az ünnepi öltözet valamennyi változatához,
+a)[^124] a honvéd tisztjelölt, valamint az általános ünnepi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány köznapi sapkát, a légierő által viselt és a hadihajós ünnepi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány sötétkék köznapi sapkát hord az ünnepi öltözet valamennyi változatához,
 
-b)[^124] a hadihajós fegyvernemhez tartozó hivatásos és szerződéses tiszt, altiszt szakállomány a sötétkék köznapi sapka helyett minden öltözeti változathoz hadihajós köznapi tányérsapkát visel,
+b)[^125] a hadihajós fegyvernemhez tartozó hivatásos és szerződéses tiszt, altiszt szakállomány a sötétkék köznapi sapka helyett minden öltözeti változathoz hadihajós köznapi tányérsapkát visel,
 
-c)[^125] a honvéd tisztjelölt, valamint az általános ünnepi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány a posztóköpeny helyett 3/4-es ballonkabátot, a légierő által viselt és a hadihajós ünnepi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány a sötétkék posztóköpeny helyett sötétkék 3/4-es ballonkabátot hord,
+c)[^126] a honvéd tisztjelölt, valamint az általános ünnepi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány a posztóköpeny helyett 3/4-es ballonkabátot, a légierő által viselt és a hadihajós ünnepi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állomány a sötétkék posztóköpeny helyett sötétkék 3/4-es ballonkabátot hord,
 
 d) csapadékos időjárás esetén a 3–4. változat esőkabáttal, a 7–8. változat sötétkék esőkabáttal egészül ki,
 
 e) a 3/4-es és 4/4-es ballonkabát, a sötétkék ballonkabát, az esőkabát, a sötétkék esőkabát hímzett köznapi rendfokozati jelzéssel viselendő,
 
-f)[^126] a köznapi zubbony köznapi paroli rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező színes hímzett jelvénnyel – kivéve a honvéd tisztjelölt állományt – viselendő,
+f)[^127] a köznapi zubbony köznapi paroli rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező színes hímzett jelvénnyel – kivéve a honvéd tisztjelölt állományt – viselendő,
 
-g)[^127] a hosszú ujjú társasági fehér ing hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett társasági jelvénnyel – kivéve a honvéd tisztjelölti állományt –, köznapi nyakkendővel viselendő,
+g)[^128] a hosszú ujjú társasági fehér ing hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett társasági jelvénnyel – kivéve a honvéd tisztjelölti állományt –, köznapi nyakkendővel viselendő,
 
-h)[^128] a honvéd tisztjelölt a társasági fehér inget nemzeti és állami ünnepeken, kiemelkedő társadalmi és ünnepélyes katonai rendezvényeken, katonai temetés, jelentősebb családi események (házasságkötés, keresztelő stb.) alkalmával – hivatásos állományt kifejező társasági hímzett jelvény nélkül – névkitűzővel, hímzett társasági rendfokozati jelzéssel, köznapi nyakkendővel viseli,
+h)[^129] a honvéd tisztjelölt a társasági fehér inget nemzeti és állami ünnepeken, kiemelkedő társadalmi és ünnepélyes katonai rendezvényeken, katonai temetés, jelentősebb családi események (házasságkötés, keresztelő stb.) alkalmával – hivatásos állományt kifejező társasági hímzett jelvény nélkül – névkitűzővel, hímzett társasági rendfokozati jelzéssel, köznapi nyakkendővel viseli,
 
-i)[^129] a 4. és 8. változat – megengedettként – rövid ujjú társasági fehér inggel, névkitűzővel, hivatásos állományt kifejező hímzett társasági jelvénnyel – kivéve a honvéd tisztjelölti állományt –, nyakkendő nélkül, a g) és h) pontok előírásai szerinti hímzett rendfokozati jelzéssel viselhető,
+i)[^130] a 4. és 8. változat – megengedettként – rövid ujjú társasági fehér inggel, névkitűzővel, hivatásos állományt kifejező hímzett társasági jelvénnyel – kivéve a honvéd tisztjelölti állományt –, nyakkendő nélkül, a g) és h) pontok előírásai szerinti hímzett rendfokozati jelzéssel viselhető,
 
-j)[^130] az általános ünnepi öltözetet viselő állomány az ünnepi öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal, a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt, a tisztes, valamint a honvéd tisztjelölt ezüstszínű stilizált címerrel díszítve,
+j)[^131] az általános ünnepi öltözetet viselő állomány az ünnepi öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal, a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt, a tisztes, valamint a honvéd tisztjelölt ezüstszínű stilizált címerrel díszítve,
 
-k)[^131] a légierő által viselt és a hadihajós ünnepi öltözetet viselő állomány az ünnepi öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal, a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt és a tisztes ezüstszínű stilizált címerrel díszítve,
+k)[^132] a légierő által viselt és a hadihajós ünnepi öltözetet viselő állomány az ünnepi öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal, a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt és a tisztes ezüstszínű stilizált címerrel díszítve,
 
 l) az ünnepi öltözethez csak zárt cipő viselhető,
 
 m) az 1. és 5. változat bokacipővel is viselhető,
 
-n)[^132] a légierő által viselt és a hadihajós ünnepi ruházat formailag megegyezik az általánossal, csak színében tér el,
+n)[^133] a légierő által viselt és a hadihajós ünnepi ruházat formailag megegyezik az általánossal, csak színében tér el,
 
 o) a katona az ünnepi öltözetéhez napszemüveget viselhet, azonban katonai rendezvények alkalmával az azt elrendelő állományilletékes parancsnok dönt a napszemüveg viseléséről,
 
 p) az állomány a fehér kesztyűt, katonai ünnepségeken, zárt alakzatban (felvonulásokon) külön intézkedés alapján viseli,
 
-q)[^133] a tábori lelkész a hosszú és rövid ujjú társasági fehér ing bal zsebére gomboltan keresztet visel,
+q)[^134] a tábori lelkész a hosszú és rövid ujjú társasági fehér ing bal zsebére gomboltan keresztet visel,
 
-r)[^134] a vezető tábori rabbi és a rabbi az ünnepi öltözet valamennyi változatához a köznapi Bocskai-sapka helyett kipát viselhet,
+r)[^135] a vezető tábori rabbi és a rabbi az ünnepi öltözet valamennyi változatához a köznapi Bocskai-sapka helyett kipát viselhet,
 
-s)[^135] a hivatásos, szerződéses tábornok, főtiszt, tiszt és altiszt átmeneti időszakban, az időjárás függvényében a 4/4-es ballonkabát helyett posztóköpenyt, a sötétkék 4/4-es ballonkabát helyett sötétkék posztóköpenyt viselhet.
+s)[^136] a hivatásos, szerződéses tábornok, főtiszt, tiszt és altiszt átmeneti időszakban, az időjárás függvényében a 4/4-es ballonkabát helyett posztóköpenyt, a sötétkék 4/4-es ballonkabát helyett sötétkék posztóköpenyt viselhet.
 
-C)[^136] Az általános ünnepi öltözetet viselő katonanői és honvéd tisztjelölt női állomány
+C)[^137] Az általános ünnepi öltözetet viselő katonanői és honvéd tisztjelölt női állomány
 
 öltözet változatai:
 
@@ -2322,7 +2322,7 @@ Névkitűző
 
 Deréköv
 
-D)[^137] A légierő női ünnepi öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós női ünnepi öltözetet visel a hadihajós szakbeosztást betöltő katonanői állomány.
+D)[^138] A légierő női ünnepi öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós női ünnepi öltözetet visel a hadihajós szakbeosztást betöltő katonanői állomány.
 
 A légierő által viselt és a hadihajós ünnepi öltözetet viselő katonanői állomány
 
@@ -2438,31 +2438,31 @@ Fekete deréköv
 
 A női ünnepi öltözet hordmód változatai:
 
-a)[^138] a honvéd tisztjelölt női, valamint az általános ünnepi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos katonanői állomány köznapi sapkát, a légierő által viselt és a hadihajós ünnepi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos katonanői állomány sötétkék köznapi sapkát hord az ünnepi öltözet valamennyi változatához,
+a)[^139] a honvéd tisztjelölt női, valamint az általános ünnepi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos katonanői állomány köznapi sapkát, a légierő által viselt és a hadihajós ünnepi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos katonanői állomány sötétkék köznapi sapkát hord az ünnepi öltözet valamennyi változatához,
 
-b)[^139] a hadihajós fegyvernemhez tartozó hivatásos és szerződéses tiszt, altiszt katonanői szakállomány a sötétkék köznapi sapka helyett minden öltözeti változathoz fekete kalapot visel,
+b)[^140] a hadihajós fegyvernemhez tartozó hivatásos és szerződéses tiszt, altiszt katonanői szakállomány a sötétkék köznapi sapka helyett minden öltözeti változathoz fekete kalapot visel,
 
 c) csapadékos időjárás esetén a 11–12. változat női esőkabáttal, a 15–16. változat sötétkék női esőkabáttal egészül ki,
 
 d) a női ballonkabát, a női sötétkék ballonkabát, a női esőkabát, illetve a sötétkék női esőkabát hímzett köznapi rendfokozati jelzéssel viselendő,
 
-e)[^140] a női köznapi zubbony köznapi paroli rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező színes hímzett jelvénnyel – kivéve a honvéd tisztjelölt női állományt – viselendő,
+e)[^141] a női köznapi zubbony köznapi paroli rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező színes hímzett jelvénnyel – kivéve a honvéd tisztjelölt női állományt – viselendő,
 
-f)[^141] a hosszú ujjú női társasági fehér ing hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett társasági jelvénnyel – kivéve a honvéd tisztjelölt női állományt –, női köznapi nyakkendővel viselendő,
+f)[^142] a hosszú ujjú női társasági fehér ing hímzett köznapi rendfokozati jelzéssel, névkitűzővel, hivatásos állományt kifejező hímzett társasági jelvénnyel – kivéve a honvéd tisztjelölt női állományt –, női köznapi nyakkendővel viselendő,
 
-g)[^142] a honvéd tisztjelölt nő a társasági fehér inget nemzeti és állami ünnepeken, kiemelkedő társadalmi és ünnepélyes katonai rendezvényeken, katonai temetésen, jelentősebb családi események (házasságkötés, keresztelő stb.) alkalmával – hivatásos állományt kifejező társasági hímzett jelvény nélkül – névkitűzővel, hímzett társasági rendfokozati jelzéssel, női köznapi nyakkendővel viseli,
+g)[^143] a honvéd tisztjelölt nő a társasági fehér inget nemzeti és állami ünnepeken, kiemelkedő társadalmi és ünnepélyes katonai rendezvényeken, katonai temetésen, jelentősebb családi események (házasságkötés, keresztelő stb.) alkalmával – hivatásos állományt kifejező társasági hímzett jelvény nélkül – névkitűzővel, hímzett társasági rendfokozati jelzéssel, női köznapi nyakkendővel viseli,
 
-h)[^143] a 12. és 16. változat – megengedettként – rövid ujjú társasági fehér inggel, hivatásos állományt kifejező hímzett társasági jelvénnyel – kivéve a honvéd tisztjelölti állományt –, névkitűzővel, női köznapi nyakkendő nélkül, az f) és g) pontok előírásai szerinti hímzett rendfokozati jelzéssel viselhető,
+h)[^144] a 12. és 16. változat – megengedettként – rövid ujjú társasági fehér inggel, hivatásos állományt kifejező hímzett társasági jelvénnyel – kivéve a honvéd tisztjelölti állományt –, névkitűzővel, női köznapi nyakkendő nélkül, az f) és g) pontok előírásai szerinti hímzett rendfokozati jelzéssel viselhető,
 
-i)[^144] az általános női ünnepi öltözetet viselő állomány az ünnepi öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal, a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt, a tisztes, valamint a honvéd tisztjelölt ezüstszínű stilizált címerrel díszítve,
+i)[^145] az általános női ünnepi öltözetet viselő állomány az ünnepi öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal, a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt, a tisztes, valamint a honvéd tisztjelölt ezüstszínű stilizált címerrel díszítve,
 
-j)[^145] a légierő által viselt és a hadihajós női ünnepi öltözetet viselő állomány az ünnepi öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal, a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt és a tisztes ezüstszínű stilizált címerrel díszítve,
+j)[^146] a légierő által viselt és a hadihajós női ünnepi öltözetet viselő állomány az ünnepi öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal, a tábornok, a főtiszt, a tiszt és a zászlós aranyszínű, az altiszt és a tisztes ezüstszínű stilizált címerrel díszítve,
 
 k) az ünnepi öltözethez csak zárt cipő viselhető,
 
 l) a 9. és a 13. változat csizmával is viselhető,
 
-m)[^146] a légierő által viselt és a hadihajós ünnepi ruházat formailag megegyezik az általánossal, csak színében tér el,
+m)[^147] a légierő által viselt és a hadihajós ünnepi ruházat formailag megegyezik az általánossal, csak színében tér el,
 
 n) az állomány a fehér kesztyűt katonai ünnepségeken, zárt alakzatban (felvonulásokon) külön intézkedés alapján viseli,
 
@@ -2470,13 +2470,13 @@ o) a katonanő az ünnepi öltözetéhez napszemüveget viselhet, azonban katona
 
 p) a katonanő a terhesség harmadik hónapjától kezdődően szolgálati idejében polgári ruhát viselhet,
 
-q)[^147] a tábori lelkésznő a hosszú és rövid ujjú társasági fehér női ing bal zsebére gomboltan keresztet visel,
+q)[^148] a tábori lelkésznő a hosszú és rövid ujjú társasági fehér női ing bal zsebére gomboltan keresztet visel,
 
-r)[^148] a hivatásos, szerződéses tábornok, főtiszt, tiszt és altiszt katonanő átmeneti időszakban, az időjárás függvényében a női ballonkabát helyett női posztóköpenyt, a sötétkék női ballonkabát helyett sötétkék női posztóköpenyt viselhet.
+r)[^149] a hivatásos, szerződéses tábornok, főtiszt, tiszt és altiszt katonanő átmeneti időszakban, az időjárás függvényében a női ballonkabát helyett női posztóköpenyt, a sötétkék női ballonkabát helyett sötétkék női posztóköpenyt viselhet.
 
 Társasági öltözet
 
-48.[^149] Az öltözetet az MH hivatásos és szerződéses főtiszti, tiszti, zászlósi, altiszti állománya viseli nemzeti és állami ünnepeken, kiemelkedő katonai és társadalmi rendezvényeken, ha a sorakozás, felvonulás fegyver és haditechnika nélkül történik, valamint az elöljáró által meghatározott alkalommal, katonai temetésen, illetve viselheti jelentősebb családi – különösen keresztelő, házasságkötés – eseményeken.
+48.[^150] Az öltözetet az MH hivatásos és szerződéses főtiszti, tiszti, zászlósi, altiszti állománya viseli nemzeti és állami ünnepeken, kiemelkedő katonai és társadalmi rendezvényeken, ha a sorakozás, felvonulás fegyver és haditechnika nélkül történik, valamint az elöljáró által meghatározott alkalommal, katonai temetésen, illetve viselheti jelentősebb családi – különösen keresztelő, házasságkötés – eseményeken.
 
 Általános társasági öltözetet viselhet a címzetes önkéntes tartalékos nemzeti és állami ünnepségek katonai rendezvényein, kiemelkedő katonai és katonai vonatkozású társadalmi eseményeken, valamint katonai temetéseken.
 
@@ -2606,7 +2606,7 @@ Kézelőgomb
 
 Fekete deréköv
 
-B)[^150] Az általános társasági öltözetet viselő altiszti állomány
+B)[^151] Az általános társasági öltözetet viselő altiszti állomány
 
 öltözet változatai:
 
@@ -2732,7 +2732,7 @@ Kézelőgomb
 
 Deréköv
 
-C)[^151] A légierő társasági öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós társasági öltözetet visel a hadihajós szakbeosztást betöltő állomány.
+C)[^152] A légierő társasági öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós társasági öltözetet visel a hadihajós szakbeosztást betöltő állomány.
 
 A légierő által viselt és a hadihajós társasági öltözetet viselő tábornoki, főtiszti, tiszti, zászlósi és altiszti állomány
 
@@ -2872,25 +2872,25 @@ d) a hosszú ujjú társasági fehér ing hivatásos állományt kifejező hímz
 
 e) a 4., 8. és a 12. változat – megengedettként – rövid ujjú társasági fehér inggel, hivatásos állományt kifejező hímzett jelvénnyel, névkitűzővel, hímzett társasági rendfokozati jelzéssel, társasági nyakkendő nélkül viselhető,
 
-f)[^152] az általános társasági öltözetet viselő állomány – az altiszt kivételével –, valamint a légierő által viselt és a hadihajós társasági öltözetet viselő állomány a társasági öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal, a tábornok, főtiszt, tiszt, zászlós aranyszínű, a légierő által viselt és a hadihajós társasági öltözetet viselő altiszt ezüstszínű stilizált címerrel díszítve,
+f)[^153] az általános társasági öltözetet viselő állomány – az altiszt kivételével –, valamint a légierő által viselt és a hadihajós társasági öltözetet viselő állomány a társasági öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal, a tábornok, főtiszt, tiszt, zászlós aranyszínű, a légierő által viselt és a hadihajós társasági öltözetet viselő altiszt ezüstszínű stilizált címerrel díszítve,
 
-g)[^153] az általános társasági öltözetet viselő altiszt a társasági öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal, ezüstszínű stilizált címerrel díszítve,
+g)[^154] az általános társasági öltözetet viselő altiszt a társasági öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal, ezüstszínű stilizált címerrel díszítve,
 
 h) a társasági öltözet valamennyi változatához csak zárt félcipő viselhető,
 
-i)[^154] a légierő által viselt és a hadihajós ünnepi ruházat formailag (kivétel a hadihajós társasági zubbony) megegyezik az általánossal, csak színében tér el,
+i)[^155] a légierő által viselt és a hadihajós ünnepi ruházat formailag (kivétel a hadihajós társasági zubbony) megegyezik az általánossal, csak színében tér el,
 
 j) az állomány a fehér kesztyűt katonai ünnepségeken zárt alakzatban (felvonulásokon) külön intézkedés alapján viseli,
 
-k)[^155] a katonai ünnepségeken, zárt alakzatban (felvonuláson), külön intézkedés szerint, a tábornok, főtiszt, tiszt, zászlós fekete színű díszövet aranyszínű csattal, az altiszt barna színű – a repülő és a hadihajós fegyvernemhez tartozó fekete színű – díszövet ezüstszínű csattal visel a társasági zubbonyon,
+k)[^156] a katonai ünnepségeken, zárt alakzatban (felvonuláson), külön intézkedés szerint, a tábornok, főtiszt, tiszt, zászlós fekete színű díszövet aranyszínű csattal, az altiszt barna színű – a repülő és a hadihajós fegyvernemhez tartozó fekete színű – díszövet ezüstszínű csattal visel a társasági zubbonyon,
 
 l) a katona a társasági öltözetéhez napszemüveget viselhet, azonban katonai rendezvények alkalmával az azt elrendelő állományilletékes parancsnok dönt a napszemüveg viseléséről,
 
-m)[^156] a tábori lelkész a hosszú és rövid ujjú társasági fehér ing bal zsebére gomboltan keresztet visel, továbbá az 1–3. és a 9–11. változat elrendelése esetén a társasági fehér ing és a társasági nyakkendő helyett papi inget hordhat,
+m)[^157] a tábori lelkész a hosszú és rövid ujjú társasági fehér ing bal zsebére gomboltan keresztet visel, továbbá az 1–3. és a 9–11. változat elrendelése esetén a társasági fehér ing és a társasági nyakkendő helyett papi inget hordhat,
 
-n)[^157] a vezető tábori rabbi és a rabbi a társasági öltözet valamennyi változatához a társasági Bocskai-sapka helyett kipát viselhet,
+n)[^158] a vezető tábori rabbi és a rabbi a társasági öltözet valamennyi változatához a társasági Bocskai-sapka helyett kipát viselhet,
 
-o)[^158] a hivatásos, szerződéses tábornok, főtiszt, tiszt és altiszt átmeneti időszakban, az időjárás függvényében a 4/4-es ballonkabát helyett posztóköpenyt, a sötétkék 4/4-es ballonkabát helyett sötétkék posztóköpenyt viselhet.
+o)[^159] a hivatásos, szerződéses tábornok, főtiszt, tiszt és altiszt átmeneti időszakban, az időjárás függvényében a 4/4-es ballonkabát helyett posztóköpenyt, a sötétkék 4/4-es ballonkabát helyett sötétkék posztóköpenyt viselhet.
 
 D) Az általános társasági öltözetet viselő női tábornoki, főtiszti, tiszti és zászlósi állomány
 
@@ -3002,7 +3002,7 @@ Névkitűző
 
 Fekete deréköv
 
-E)[^159] Az általános társasági öltözetet viselő női altiszti állomány
+E)[^160] Az általános társasági öltözetet viselő női altiszti állomány
 
 öltözet változatai:
 
@@ -3112,7 +3112,7 @@ Névkitűző
 
 Deréköv
 
-F)[^160] A légierő női társasági öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós női társasági öltözetet visel a hadihajós szakbeosztást betöltő katonanői állomány.
+F)[^161] A légierő női társasági öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós női társasági öltözetet visel a hadihajós szakbeosztást betöltő katonanői állomány.
 
 A légierő által viselt és a hadihajós társasági öltözetet viselő női tábornoki, főtiszti, tiszti, zászlósi és altiszti állomány
 
@@ -3236,9 +3236,9 @@ d) a hosszú ujjú társasági fehér női ing, hivatásos állományt kifejező
 
 e) a 16., 20. és a 24. változat – megengedettként – rövid ujjú társasági fehér női inggel, hivatásos állományt kifejező hímzett társasági jelvénnyel, névkitűzővel, hímzett társasági rendfokozati jelzéssel, társasági női nyakkendő nélkül viselhető,
 
-f)[^161] az általános női társasági öltözetet viselő állomány – az altiszt kivételével –, valamint a légierő által viselt és a hadihajós női társasági öltözetet viselő állomány a társasági öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal, a tábornok, főtiszt, tiszt, zászlós aranyszínű, a légierő által viselt és a hadihajós női társasági öltözetet viselő altiszt ezüstszínű stilizált címerrel díszítve,
+f)[^162] az általános női társasági öltözetet viselő állomány – az altiszt kivételével –, valamint a légierő által viselt és a hadihajós női társasági öltözetet viselő állomány a társasági öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal, a tábornok, főtiszt, tiszt, zászlós aranyszínű, a légierő által viselt és a hadihajós női társasági öltözetet viselő altiszt ezüstszínű stilizált címerrel díszítve,
 
-g)[^162] az általános női társasági öltözetet viselő altiszt állomány a társasági öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal, ezüstszínű stilizált címerrel díszítve,
+g)[^163] az általános női társasági öltözetet viselő altiszt állomány a társasági öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal, ezüstszínű stilizált címerrel díszítve,
 
 h) a társasági öltözet valamennyi változatához csak zárt cipő viselhető,
 
@@ -3246,7 +3246,7 @@ i) a 13. és a 21. változat fekete, a 17. változat barna csizmával is viselhe
 
 j) télen és átmeneti időszakban temetésen, illetve szabadtéren végrehajtott katonai rendezvényen a társasági szoknya helyett női társasági pantalló, a fekete társasági szoknya helyett fekete női társasági pantalló, a sötétkék társasági szoknya helyett sötétkék női társasági pantalló viselhető,
 
-k)[^163] a légierő által viselt és a hadihajós ünnepi ruházat formailag megegyezik az általánossal, csak színében tér el,
+k)[^164] a légierő által viselt és a hadihajós ünnepi ruházat formailag megegyezik az általánossal, csak színében tér el,
 
 l) az állomány a fehér kesztyűt katonai ünnepségeken, zárt alakzatban (felvonulásokon) külön intézkedés alapján viseli,
 
@@ -3254,13 +3254,13 @@ m) a katonanő a társasági öltözetéhez napszemüveget viselhet, azonban kat
 
 n) a katonanő a terhesség harmadik hónapjától kezdődően szolgálati idejében polgári ruhát viselhet,
 
-o)[^164] a tábori lelkésznő a hosszú és rövid ujjú társasági fehér női ing bal zsebére gomboltan keresztet visel, továbbá a 13–15. és a 21–23. változat elrendelése esetén a társasági fehér ing és a társasági nyakkendő helyett papi inget hordhat,
+o)[^165] a tábori lelkésznő a hosszú és rövid ujjú társasági fehér női ing bal zsebére gomboltan keresztet visel, továbbá a 13–15. és a 21–23. változat elrendelése esetén a társasági fehér ing és a társasági nyakkendő helyett papi inget hordhat,
 
-p)[^165] a hivatásos, szerződéses tábornok, főtiszt, tiszt és altiszt katonanő átmeneti időszakban, az időjárás függvényében a női ballonkabát helyett női posztóköpenyt, a sötétkék női ballonkabát helyett sötétkék női posztóköpenyt viselhet.
+p)[^166] a hivatásos, szerződéses tábornok, főtiszt, tiszt és altiszt katonanő átmeneti időszakban, az időjárás függvényében a női ballonkabát helyett női posztóköpenyt, a sötétkék női ballonkabát helyett sötétkék női posztóköpenyt viselhet.
 
 Estélyi öltözet
 
-49.[^166] Az estélyi öltözet az MH nem fegyveres külszolgálatot teljesítő (katonai attasé, NATO beosztást betöltő, külképviseleten dolgozó stb.) hivatásos, valamint szerződéses tiszt, altiszt állományának viselete estélyek, bálok, délutáni fogadások alkalmával. Ezt az öltözetet viselheti a külföldön, hivatalos látogatáson tartózkodó delegáció tagja, amennyiben a hivatalos meghívó programjában az esemény szerepel.
+49.[^167] Az estélyi öltözet az MH nem fegyveres külszolgálatot teljesítő (katonai attasé, NATO beosztást betöltő, külképviseleten dolgozó stb.) hivatásos, valamint szerződéses tiszt, altiszt állományának viselete estélyek, bálok, délutáni fogadások alkalmával. Ezt az öltözetet viselheti a külföldön, hivatalos látogatáson tartózkodó delegáció tagja, amennyiben a hivatalos meghívó programjában az esemény szerepel.
 
 A) Az általános estélyi öltözetet viselő tábornoki, főtiszti, tiszti és zászlósi állomány
 
@@ -3360,7 +3360,7 @@ Kézelőgomb
 
 Fekete deréköv
 
-B)[^167] Az általános estélyi öltözetet viselő altiszti állomány
+B)[^168] Az általános estélyi öltözetet viselő altiszti állomány
 
 öltözet változatai:
 
@@ -3458,7 +3458,7 @@ Kézelőgomb
 
 Deréköv
 
-C)[^168] A légierő estélyi öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós estélyi öltözetet visel a hadihajós szakbeosztást betöltő állomány.
+C)[^169] A légierő estélyi öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós estélyi öltözetet visel a hadihajós szakbeosztást betöltő állomány.
 
 A légierő által viselt és a hadihajós estélyi öltözetet viselő tábornoki, főtiszti, tiszti, zászlósi és altiszti állomány
 
@@ -3564,19 +3564,19 @@ a) a hadihajós fegyvernemhez tartozó szakállomány a sötétkék tányérsapk
 
 b) a ballonkabát, a sötétkék ballonkabát köznapi hímzett rendfokozati jelzéssel viselendő,
 
-c)[^169] az általános estélyi öltözetet viselő állomány – az altiszt kivételével –, valamint a légierő által viselt és a hadihajós estélyi öltözetet viselő állomány az estélyi öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal, a tábornok, főtiszt, tiszt, zászlós aranyszínű, a légierő által viselt és a hadihajós társasági öltözetet viselő altiszt ezüstszínű stilizált címerrel díszítve,
+c)[^170] az általános estélyi öltözetet viselő állomány – az altiszt kivételével –, valamint a légierő által viselt és a hadihajós estélyi öltözetet viselő állomány az estélyi öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal, a tábornok, főtiszt, tiszt, zászlós aranyszínű, a légierő által viselt és a hadihajós társasági öltözetet viselő altiszt ezüstszínű stilizált címerrel díszítve,
 
-d)[^170] az általános estélyi öltözetet viselő altiszt az estélyi öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal, ezüstszínű stilizált címerrel díszítve,
+d)[^171] az általános estélyi öltözetet viselő altiszt az estélyi öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal, ezüstszínű stilizált címerrel díszítve,
 
 e) az estélyi öltözet valamennyi változatához csak zárt félcipő viselhető,
 
-f)[^171] a légierő által viselt és a hadihajós ünnepi ruházat formailag megegyezik az általánossal, csak színében tér el,
+f)[^172] a légierő által viselt és a hadihajós ünnepi ruházat formailag megegyezik az általánossal, csak színében tér el,
 
-g)[^172] a tábori lelkész a fehér szmokinging és a fekete csokornyakkendő helyett papi inget hordhat,
+g)[^173] a tábori lelkész a fehér szmokinging és a fekete csokornyakkendő helyett papi inget hordhat,
 
-h)[^173] a vezető tábori rabbi és a rabbi az estélyi öltözet valamennyi változatához a társasági Bocskai-sapka helyett kipát viselhet,
+h)[^174] a vezető tábori rabbi és a rabbi az estélyi öltözet valamennyi változatához a társasági Bocskai-sapka helyett kipát viselhet,
 
-i)[^174] a hivatásos, szerződéses tábornok, főtiszt, tiszt és altiszt átmeneti időszakban, az időjárás függvényében a 4/4-es ballonkabát helyett posztóköpenyt, a sötétkék 4/4-es ballonkabát helyett sötétkék posztóköpenyt viselhet.
+i)[^175] a hivatásos, szerződéses tábornok, főtiszt, tiszt és altiszt átmeneti időszakban, az időjárás függvényében a 4/4-es ballonkabát helyett posztóköpenyt, a sötétkék 4/4-es ballonkabát helyett sötétkék posztóköpenyt viselhet.
 
 D) Az általános estélyi öltözetet viselő női tábornoki, főtiszti, tiszti és zászlósi állomány
 
@@ -3670,7 +3670,7 @@ Névkitűző
 
 Fekete deréköv
 
-E)[^175] Az általános estélyi öltözetet viselő női altiszti állomány
+E)[^176] Az általános estélyi öltözetet viselő női altiszti állomány
 
 öltözet változatai:
 
@@ -3764,7 +3764,7 @@ Deréköv
 
 Női kalap
 
-F)[^176] A légierő női estélyi öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós női estélyi öltözetet visel a hadihajós szakbeosztást betöltő katonanői állomány.
+F)[^177] A légierő női estélyi öltözetét viseli a repülőhajózó, a repülésirányító, a repülőszerelő, a légvédelmi tüzér, a légvédelmi lokátoros és a meteorológus szakképzettséggel rendelkező, valamint ezen beosztást betöltő szakállomány, hadihajós női estélyi öltözetet visel a hadihajós szakbeosztást betöltő katonanői állomány.
 
 A légierő által viselt és a hadihajós estélyi öltözetet viselő női tábornoki, főtiszti, tiszti, zászlósi és altiszti állomány
 
@@ -3866,29 +3866,29 @@ a) a hadihajós fegyvernemhez tartozó női szakállomány a sötétkék társas
 
 b) a női ballonkabát, a sötétkék női ballonkabát köznapi hímzett rendfokozati jelzéssel viselendő,
 
-c)[^177] az általános női estélyi öltözetet viselő altiszt az estélyi öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal, ezüstszínű stilizált címerrel díszítve,
+c)[^178] az általános női estélyi öltözetet viselő altiszt az estélyi öltözet valamennyi változatához barna színű derékövet hord ezüstszínű csattal, ezüstszínű stilizált címerrel díszítve,
 
-d)[^178] az általános női estélyi öltözetet viselő állomány – az altiszt kivételével –, valamint a légierő által viselt és a hadihajós női estélyi öltözetet viselő állomány az estélyi öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal, a tábornok, főtiszt, tiszt, zászlós aranyszínű, a légierő által viselt és a hadihajós társasági öltözetet viselő altiszt ezüstszínű stilizált címerrel díszítve,
+d)[^179] az általános női estélyi öltözetet viselő állomány – az altiszt kivételével –, valamint a légierő által viselt és a hadihajós női estélyi öltözetet viselő állomány az estélyi öltözet valamennyi változatához fekete színű derékövet hord ezüstszínű csattal, a tábornok, főtiszt, tiszt, zászlós aranyszínű, a légierő által viselt és a hadihajós társasági öltözetet viselő altiszt ezüstszínű stilizált címerrel díszítve,
 
 e) az estélyi öltözet valamennyi változatához csak zárt cipő viselhető,
 
-f)[^179] a légierő által viselt és a hadihajós ünnepi ruházat formailag megegyezik az általánossal, csak színében tér el,
+f)[^180] a légierő által viselt és a hadihajós ünnepi ruházat formailag megegyezik az általánossal, csak színében tér el,
 
 g) a katonanő a terhesség harmadik hónapjától kezdődően szolgálati idejében polgári ruhát viselhet,
 
-h)[^180] a tábori lelkésznő a fehér női szmokinging és a fekete csokornyakkendő helyett papi inget hordhat,
+h)[^181] a tábori lelkésznő a fehér női szmokinging és a fekete csokornyakkendő helyett papi inget hordhat,
 
-i)[^181] a hivatásos, szerződéses tábornok, főtiszt, tiszt és altiszt katonanő átmeneti időszakban, az időjárás függvényében a női ballonkabát helyett női posztóköpenyt, a sötétkék női ballonkabát helyett sötétkék női posztóköpenyt viselhet.
+i)[^182] a hivatásos, szerződéses tábornok, főtiszt, tiszt és altiszt katonanő átmeneti időszakban, az időjárás függvényében a női ballonkabát helyett női posztóköpenyt, a sötétkék női ballonkabát helyett sötétkék női posztóköpenyt viselhet.
 
-G)[^182] A katonadiplomaták, illetve azok is, akik külföldön tartós, 1 évet meghaladó kiküldetésen vesznek részt, külföldi fogadások, estélyek, bálok alkalmával megengedett ruházatként nagyestélyi öltözetet viselhetnek.
+G)[^183] A katonadiplomaták, illetve azok is, akik külföldön tartós, 1 évet meghaladó kiküldetésen vesznek részt, külföldi fogadások, estélyek, bálok alkalmával megengedett ruházatként nagyestélyi öltözetet viselhetnek.
 
-Díszelgő öltözet[^183]
+Díszelgő öltözet[^184]
 
-A díszzászlóalj díszelgő öltözete[^184]
+A díszzászlóalj díszelgő öltözete[^185]
 
-50.[^185] Az öltözetet az MH központi díszalegysége viseli a nemzeti és állami ünnepeken, az államfők, kormányfők, miniszterek fogadásakor és búcsúztatásakor, Magyarország zászlajának őrzésekor, a koszorúzási ünnepségeken, a kiemelkedő katonai és társadalmi rendezvényeken, továbbá a hősi halott, illetve a Magyar Honvédség halottja minősítés esetén történő kirendelés alkalmával.
+50.[^186] Az öltözetet az MH központi díszalegysége viseli a nemzeti és állami ünnepeken, az államfők, kormányfők, miniszterek fogadásakor és búcsúztatásakor, Magyarország zászlajának őrzésekor, a koszorúzási ünnepségeken, a kiemelkedő katonai és társadalmi rendezvényeken, továbbá a hősi halott, illetve a Magyar Honvédség halottja minősítés esetén történő kirendelés alkalmával.
 
-A)[^186] A díszelgő öltözetet viselő főtiszti, tiszti, zászlósi és altiszti állomány
+A)[^187] A díszelgő öltözetet viselő főtiszti, tiszti, zászlósi és altiszti állomány
 
 öltözet változatai:
 
@@ -3950,7 +3950,7 @@ Nadrágtartó
 
 Zokni
 
-B)[^187] A díszelgő öltözetet viselő szerződéses legénységi állomány
+B)[^188] A díszelgő öltözetet viselő szerződéses legénységi állomány
 
 öltözet változatai:
 
@@ -3960,7 +3960,7 @@ Télen
 
 ----------
 
-1. változat[^188]
+1. változat[^189]
 
 Díszsapka
 
@@ -3990,7 +3990,7 @@ Zokni
 
 ----------
 
-2. változat[^189]
+2. változat[^190]
 
 Díszsapka
 
@@ -4018,11 +4018,11 @@ a) átmeneti időszakban a díszköpeny viseléséről az állományilletékes p
 
 b) a díszegység állománya a díszzsinórt csak a tábori barna díszzubbonyon viseli,
 
-c)[^190] ha a díszelgési feladat hadi- (gyakorló-) öltözetben kerül végrehajtásra, a díszegység állománya a 45. A) pont szerint meghatározott általános hadi- (gyakorló-) öltözetet gyakorló sapkával, skarlátpiros színű szakmai sállal és fehér kesztyűvel kiegészítve viseli. +25 °C feletti hőmérséklet esetén a szakmai sál viselése – a feladatot elrendelő állományilletékes parancsnok külön parancsa alapján – mellőzhető,
+c)[^191] ha a díszelgési feladat hadi- (gyakorló-) öltözetben kerül végrehajtásra, a díszegység állománya a 45. A) pont szerint meghatározott általános hadi- (gyakorló-) öltözetet gyakorló sapkával, skarlátpiros színű szakmai sállal és fehér kesztyűvel kiegészítve viseli. +25 °C feletti hőmérséklet esetén a szakmai sál viselése – a feladatot elrendelő állományilletékes parancsnok külön parancsa alapján – mellőzhető,
 
-d)[^191] a díszelgő altiszti állomány a barna díszövet ezüst színű csattal viseli,
+d)[^192] a díszelgő altiszti állomány a barna díszövet ezüst színű csattal viseli,
 
-e)[^192] a díszalegység állománya a tábori barna díszzubbony megkímélése érdekében, a díszelgés helyszínére történő utazás alatt, valamint a helyszínen a díszelgési feladat megkezdéséig a díszzubbony helyett az e szabályzatban előírt ékítményekkel ellátott
+e)[^193] a díszalegység állománya a tábori barna díszzubbony megkímélése érdekében, a díszelgés helyszínére történő utazás alatt, valamint a helyszínen a díszelgési feladat megkezdéséig a díszzubbony helyett az e szabályzatban előírt ékítményekkel ellátott
 
 ea) télen és átmeneti időszakban polárpulóvert,
 
@@ -4030,9 +4030,9 @@ eb) nyáron ingblúzt
 
 viselhet.
 
-A Honvéd Koronaőrség díszelgő öltözete[^193]
+A Honvéd Koronaőrség díszelgő öltözete[^194]
 
-50/A.[^194] Az öltözetet a Honvéd Koronaőrség állománya viseli a Szent Korona és a hozzá tartozó egyes jelvények protokolláris díszelgési szakfeladattal egybekötött őrzése során.
+50/A.[^195] Az öltözetet a Honvéd Koronaőrség állománya viseli a Szent Korona és a hozzá tartozó egyes jelvények protokolláris díszelgési szakfeladattal egybekötött őrzése során.
 
 A) A koronaőri díszelgő öltözetet viselő főtiszti, tiszti, zászlósi és altiszti állomány öltözete:
 
@@ -4122,9 +4122,9 @@ f) a koronaőri díszelgő szolgálati öltözet a biztonsági feladatok végreh
 
 g) a koronaőri díszelgő szolgálati öltözet csak a speciális őrzésvédelmi feladatok teljesítése alkalmával viselhető.
 
-A Honvéd Palotaőrség díszelgő öltözete[^195]
+A Honvéd Palotaőrség díszelgő öltözete[^196]
 
-50/B.[^196] Az öltözetet a Honvéd Palotaőrség állománya viseli a Sándor Palotával kapcsolatos protokolláris díszelgési és egyéb speciális szakfeladata végrehajtása során.
+50/B.[^197] Az öltözetet a Honvéd Palotaőrség állománya viseli a Sándor Palotával kapcsolatos protokolláris díszelgési és egyéb speciális szakfeladata végrehajtása során.
 
 A) A palotaőri díszelgő öltözetet viselő főtiszt, tiszt, zászlós, altiszt és szerződéses legénységi állomány öltözet változatai:
 
@@ -4228,9 +4228,9 @@ f) a palotaőr állomány, a szolgálati helyiségben történő tartózkodása 
 
 g) a palotaőri díszelgő szolgálati öltözet az időjárási körülményektől függően kiegészíthető téli inggel, téli alsóval.
 
-A honvéd tisztjelölti díszöltözet[^197]
+A honvéd tisztjelölti díszöltözet[^198]
 
-50/C.[^198] Az öltözetet az MH LZ másod-, harmad- és negyedévfolyamos honvéd tisztjelölti állománya viseli nemzeti és állami ünnepeken, a tisztavatáson, a Ludovika Fesztivál alkalmával, az MH és az NKE kiemelkedő katonai-, oktatási-, társadalmi- és kulturális rendezvényein, valamint az MH LZ parancsnokának külön engedélye alapján, családi eseményeken.
+50/C.[^199] Az öltözetet az MH LZ másod-, harmad- és negyedévfolyamos honvéd tisztjelölti állománya viseli nemzeti és állami ünnepeken, a tisztavatáson, a Ludovika Fesztivál alkalmával, az MH és az NKE kiemelkedő katonai-, oktatási-, társadalmi- és kulturális rendezvényein, valamint az MH LZ parancsnokának külön engedélye alapján, családi eseményeken.
 
 A) A honvéd tisztjelölti díszöltözetet viselő állomány öltözete:
 
@@ -4268,9 +4268,9 @@ c) honvéd tisztjelölt női állomány díszöltözetének alapváltozata az id
 
 Zenekarok díszelgő öltözete
 
-51.[^199] Az öltözetet a katonazenekar állománya viseli a nemzeti és állami ünnepen, az államfők, kormányfők, miniszterek fogadásakor és búcsúztatásakor, a kiemelkedő katonai és társadalmi rendezvényen végrehajtott zenés feladatai végrehajtása során, valamint zenekari fesztiválon, külföldi szereplésen, hangversenyen, térzenén, katonai temetésen a hősi halott, illetve a Magyar Honvédség halottja minősítés esetén történő kirendelés alkalmával, továbbá a polgári lakosság körében rendezett zenés eseményen.
+51.[^200] Az öltözetet a katonazenekar állománya viseli a nemzeti és állami ünnepen, az államfők, kormányfők, miniszterek fogadásakor és búcsúztatásakor, a kiemelkedő katonai és társadalmi rendezvényen végrehajtott zenés feladatai végrehajtása során, valamint zenekari fesztiválon, külföldi szereplésen, hangversenyen, térzenén, katonai temetésen a hősi halott, illetve a Magyar Honvédség halottja minősítés esetén történő kirendelés alkalmával, továbbá a polgári lakosság körében rendezett zenés eseményen.
 
-A)[^200] A zenekari díszelgő öltözetet viselő főtiszt, tiszt, zászlós, altiszt állomány
+A)[^201] A zenekari díszelgő öltözetet viselő főtiszt, tiszt, zászlós, altiszt állomány
 
 öltözet változatai:
 
@@ -4298,15 +4298,15 @@ d) nyáron, valamint koncertteremben a 3. változat társasági zubbony nélkül
 
 e) a d) alpont szerint meghatározott öltözet helyett – megengedettként – a rövid ujjú társasági fehér ing hímzett társasági rendfokozati jelzéssel, hivatásos állományt kifejező hímzett társasági jelvénnyel, névkitűzővel, arany (ezüst) mellzsinórral, társasági nyakkendő nélkül viselhető,
 
-f)[^201] a főtiszt, a tiszt, a zászlós a fekete derékövet aranyszínű, az altiszt ezüstszínű stilizált címerrel díszített csattal viseli,
+f)[^202] a főtiszt, a tiszt, a zászlós a fekete derékövet aranyszínű, az altiszt ezüstszínű stilizált címerrel díszített csattal viseli,
 
 g) a „légierő zenekarok” állománya a 48. C) pont 9–11. változatban meghatározott társasági öltözetet arany (ezüst) mellzsinórral és arany (ezüst) karjelzéssel kiegészítve viseli,
 
 h) a zenekarok díszelgő öltözetéhez csak zárt félcipő viselhető,
 
-i)[^202] ha a díszelgési feladat hadi- (gyakorló-) öltözetben kerül végrehajtásra, akkor a zenekar állománya a 45. A) pont szerint meghatározott általános hadi- (gyakorló-) öltözetet gyakorló sapkával, skarlátpiros színű (a „légierő zenekar” állománya világoskék színű) szakmai sállal és fehér kesztyűvel kiegészítve viseli. +25 °C feletti hőmérséklet esetén a szakmai sál viselése – a feladatot elrendelő állományilletékes parancsnok külön parancsa alapján – mellőzhető,
+i)[^203] ha a díszelgési feladat hadi- (gyakorló-) öltözetben kerül végrehajtásra, akkor a zenekar állománya a 45. A) pont szerint meghatározott általános hadi- (gyakorló-) öltözetet gyakorló sapkával, skarlátpiros színű (a „légierő zenekar” állománya világoskék színű) szakmai sállal és fehér kesztyűvel kiegészítve viseli. +25 °C feletti hőmérséklet esetén a szakmai sál viselése – a feladatot elrendelő állományilletékes parancsnok külön parancsa alapján – mellőzhető,
 
-B)[^203] A zenekari díszelgő öltözetet viselő női főtiszti, tiszti, zászlósi, altiszti állomány
+B)[^204] A zenekari díszelgő öltözetet viselő női főtiszti, tiszti, zászlósi, altiszti állomány
 
 öltözet változatai:
 
@@ -4334,7 +4334,7 @@ d) nyáron, valamint koncertteremben a 6. változat társasági kosztümkabát n
 
 e) a d) alpont szerint meghatározott öltözet helyett – megengedettként – a rövid ujjú társasági fehér női ing hímzett társasági rendfokozati jelzéssel, hivatásos állományt kifejező hímzett társasági jelvénnyel, névkitűzővel, arany (ezüst) mellzsinórral, társasági nyakkendő nélkül viselhető,
 
-f)[^204] a főtiszt, a tiszt, a zászlós a fekete derékövet aranyszínű, az altiszt ezüstszínű stilizált címerrel díszített csattal viseli,
+f)[^205] a főtiszt, a tiszt, a zászlós a fekete derékövet aranyszínű, az altiszt ezüstszínű stilizált címerrel díszített csattal viseli,
 
 g) a „légierő zenekarok” katonanői állománya a 48. F) pont 21–23. változatban meghatározott társasági öltözetet arany (ezüst) mellzsinórral és arany (ezüst) karjelzéssel kiegészítve viseli,
 
@@ -4342,11 +4342,11 @@ h) télen és átmeneti időszakban temetésen, illetve szabadtéren végrehajto
 
 i) a zenekarok díszelgő öltözetéhez csak zárt cipő viselhető,
 
-j)[^205] ha a díszelgési feladat hadi- (gyakorló-) öltözetben kerül végrehajtásra, akkor a zenekar állománya a 45. A) pont szerint meghatározott általános hadi- (gyakorló-) öltözetet gyakorló sapkával, skarlátpiros színű (a „légierő zenekar” állománya világoskék színű) szakmai sállal és fehér kesztyűvel kiegészítve viseli. +25 °C feletti hőmérséklet esetén a szakmai sál viselése – a feladatot elrendelő állományilletékes parancsnok külön parancsa alapján – mellőzhető,
+j)[^206] ha a díszelgési feladat hadi- (gyakorló-) öltözetben kerül végrehajtásra, akkor a zenekar állománya a 45. A) pont szerint meghatározott általános hadi- (gyakorló-) öltözetet gyakorló sapkával, skarlátpiros színű (a „légierő zenekar” állománya világoskék színű) szakmai sállal és fehér kesztyűvel kiegészítve viseli. +25 °C feletti hőmérséklet esetén a szakmai sál viselése – a feladatot elrendelő állományilletékes parancsnok külön parancsa alapján – mellőzhető,
 
 Sport- és szabadidő öltözet
 
-52.[^206]
+52.[^207]
 
 A tényleges állománynak az alábbi sport- és szabadidő öltözettel rendelkeznie:
 
@@ -4374,7 +4374,7 @@ b) a sportrendezvények ünnepélyes megnyitása, illetve eredményhirdetés alk
 
 c) a sportöltözet egységes bevezetéséről, illetve a végrehajtás rendjéről egy későbbiekben kiadásra kerülő utasítás fog rendelkezni.
 
-52/A.[^207] A hosszú ujjú szabadidő felső és a hosszú szárú szabadidő alsó helyett sportkabát, kétrészes sportruha, melegítő, tréningruha, jogging, szabadidőruha viselhető. Az edzőpóló és a sporttrikó helyett sporting, sportpóló, az edzőnadrág helyett sportnadrág, a sportcipő helyett az adott sportág gyakorlásához, űzéséhez szükséges speciális edzőcipő, futócipő, futballcipő, kosárcipő, szabadidőcipő hordható, továbbá egyéni védőfelszerelés, különösen boka-, térd-, combvédő gumi alkalmazható. A sportöltözet kialakítása, színe, mintája, esetleges felirata nem veszélyeztetheti, illetve nem sértheti az MH szolgálati érdekeit.
+52/A.[^208] A hosszú ujjú szabadidő felső és a hosszú szárú szabadidő alsó helyett sportkabát, kétrészes sportruha, melegítő, tréningruha, jogging, szabadidőruha viselhető. Az edzőpóló és a sporttrikó helyett sporting, sportpóló, az edzőnadrág helyett sportnadrág, a sportcipő helyett az adott sportág gyakorlásához, űzéséhez szükséges speciális edzőcipő, futócipő, futballcipő, kosárcipő, szabadidőcipő hordható, továbbá egyéni védőfelszerelés, különösen boka-, térd-, combvédő gumi alkalmazható. A sportöltözet kialakítása, színe, mintája, esetleges felirata nem veszélyeztetheti, illetve nem sértheti az MH szolgálati érdekeit.
 
 III. Fejezet
 
@@ -4392,7 +4392,7 @@ A nem szervezetszerű díszalegységek, díszkíséretek öltözete és felszere
 
 – fehér derékszíj,
 
-–[^208] pisztoly, pisztolytáska (csak a hivatásos és a szerződéses főtiszti, tiszti, zászlós, altiszti állománynak),
+–[^209] pisztoly, pisztolytáska (csak a hivatásos és a szerződéses főtiszti, tiszti, zászlós, altiszti állománynak),
 
 – gépkarabély egy tárral (csak a tisztesi rendfokozattal rendelkező, illetve rendfokozat nélküli szerződéses katonáknak).
 
@@ -4410,7 +4410,7 @@ A rendész, forgalomszabályozó, diszpécser
 
 és az ellenőri beosztású katonák felszerelése
 
-54.[^209] Szakfeladat végrehajtásakor a rendész, a forgalomszabályozó, a közúti komendáns, a diszpécser, az ellenőrző áteresztő ponton szolgálatot teljesítő ellenőri beosztású hivatásos és szerződéses katona a hadi- (gyakorló-) öltözetét – a 45. A) pontban meghatározott öltözeti és hordmód változatok betartásával – az évszaknak megfelelően, a következő megkülönböztető jelzésekkel és felszerelési cikkekkel kiegészítve viseli:
+54.[^210] Szakfeladat végrehajtásakor a rendész, a forgalomszabályozó, a közúti komendáns, a diszpécser, az ellenőrző áteresztő ponton szolgálatot teljesítő ellenőri beosztású hivatásos és szerződéses katona a hadi- (gyakorló-) öltözetét – a 45. A) pontban meghatározott öltözeti és hordmód változatok betartásával – az évszaknak megfelelően, a következő megkülönböztető jelzésekkel és felszerelési cikkekkel kiegészítve viseli:
 
 Az öltözet változatai:
 
@@ -4452,7 +4452,7 @@ A vasúti katonai parancsnoki beosztású,
 
 illetve szállítmánykísérő katonák felszerelése
 
-55.[^210] Szakfeladat végrehajtásakor a vasúti kommendáns parancsnoki beosztású állomány, valamint a szállítmánykísérő katona általános hadi- (gyakorló-) öltözetet visel az alábbi megkülönböztető jelzésekkel és felszerelési cikkekkel:
+55.[^211] Szakfeladat végrehajtásakor a vasúti kommendáns parancsnoki beosztású állomány, valamint a szállítmánykísérő katona általános hadi- (gyakorló-) öltözetet visel az alábbi megkülönböztető jelzésekkel és felszerelési cikkekkel:
 
 Az öltözet változatai:
 
@@ -4496,6 +4496,24 @@ c) a köznapi öltözeten az állomány a VKP-jelvényt a bal zubbonyzseb gombj�
 
 d) a feladat függvényében az előírt öltözet kiegészíthető jó láthatóságot biztosító sisakhuzattal ellátott rohamsisakkal, továbbá jó láthatóságot biztosító kantárral és kézelővel.
 
+A katonai vámügyi szerv katonai állományú tagjának felszerelése[^212]
+
+55/A.[^213] Szakfeladat végrehajtásakor az egyéb jogszabályban meghatározott katonai vámügyi szerv (KVSZ) állományában szolgálatot teljesítő katona általános hadi- (gyakorló-) öltözetet visel az alábbi megkülönböztető jelzésekkel és felszerelési cikkekkel:
+
+Az öltözet változatai:
+
+a 140. pontban meghatározott jelvény (KVSZ jelvény)
+
+KVSZ karszalag (MC, Military Customs felirattal)
+
+A hordmód változatai:
+
+a) a KVSZ jelvényt az állomány a 90 M hadi- (gyakorló-) öltözet bal zubbonyzseb belső gombjára gombolva viseli,
+
+b) a feladat függvényében az előírt öltözet kiegészíthető jó láthatóságot biztosító sisakhuzattal ellátott rohamsisakkal, munkavédelmi sisakkal, továbbá jó láthatóságot biztosító kantárral (mellénnyel),
+
+c) a jó láthatóságot biztosító sisakhuzatot a rohamsisakon, a jó láthatóságot biztosító kantárt (mellényt) a gyakorlókabáton, illetve a gyakorlózubbonyon kell viselni.
+
 IV. Fejezet
 
 EGYES DÍSZÍTŐELEMEK, RUHADARABOK,
@@ -4506,7 +4524,7 @@ TÁRGYAK VISELÉSÉNEK RENDJE
 
 Névkitűző, hímzett feliratok
 
-56.[^211] Az MH hivatásos és szerződéses tábornoki, főtiszti, tiszti, zászlós, altiszti állományú tagja – a pulóver kivételével – a köznapi, ünnepi, társasági, estélyi öltözeti változatokhoz, valamint a honvéd tisztjelölti állomány – a pulóver kivételével – a köznapi és ünnepi öltözeti változatokhoz névkitűzőt visel. Az MH teljes állománya a hadi- (gyakorló-) öltözetekhez, így a 90 M és 2000 M általános, 93 M ejtőernyős és repülőszerelő, a 2003 M repülőhajózó, a 2003 M sivatagi öltözethez a gyakorlópulóveren, a sötétkék pulóveren hímzett államjelzőt és hímzett nevet visel.
+56.[^214] Az MH hivatásos és szerződéses tábornoki, főtiszti, tiszti, zászlós, altiszti állományú tagja – a pulóver kivételével – a köznapi, ünnepi, társasági, estélyi öltözeti változatokhoz, valamint a honvéd tisztjelölti állomány – a pulóver kivételével – a köznapi és ünnepi öltözeti változatokhoz névkitűzőt visel. Az MH teljes állománya a hadi- (gyakorló-) öltözetekhez, így a 90 M és 2000 M általános, 93 M ejtőernyős és repülőszerelő, a 2003 M repülőhajózó, a 2003 M sivatagi öltözethez a gyakorlópulóveren, a sötétkék pulóveren hímzett államjelzőt és hímzett nevet visel.
 
 57. A feliratok formája, tartalma és viselésük módja:
 
@@ -4516,25 +4534,25 @@ a) a névkitűző, valamint a hímzett név a viselőjének nyomtatott nagy bet�
 
 – a hadi- (gyakorló-) öltözeteken, a jobb mellen, közvetlenül a zseb felett vízszintesen – a gyakorlópulóveren, a sötétkék pulóveren az arra kialakított helyen – viselendő, 105 x 25 mm méretben készülő, hímzett felirat;
 
-b)[^212] az államjelző 105 x 25 mm méretben készülő hímzett felirat, amely hímzett „HUNGARY” megnevezést tartalmaz. Az államjelző a hadi- (gyakorló-) öltözeteken, a gyakorlópulóveren és a sötétkék pulóveren a bal mellen vízszintesen, közvetlenül a zseb felett viselendő úgy, hogy az államjelző középvonala a zseb középvonalával egybeessen;
+b)[^215] az államjelző 105 x 25 mm méretben készülő hímzett felirat, amely hímzett „HUNGARY” megnevezést tartalmaz. Az államjelző a hadi- (gyakorló-) öltözeteken, a gyakorlópulóveren és a sötétkék pulóveren a bal mellen vízszintesen, közvetlenül a zseb felett viselendő úgy, hogy az államjelző középvonala a zseb középvonalával egybeessen;
 
-c)[^213] a hímzett név és államjelző a hadi- (gyakorló-) öltözeteken, valamint a gyakorlópulóveren barna színnel, zöld alapra, a sötétkék pulóveren barna színnel, sötétkék alapra, a sivatagi öltözeten barna színnel, barna alapra hímzett;
+c)[^216] a hímzett név és államjelző a hadi- (gyakorló-) öltözeteken, valamint a gyakorlópulóveren barna színnel, zöld alapra, a sötétkék pulóveren barna színnel, sötétkék alapra, a sivatagi öltözeten barna színnel, barna alapra hímzett;
 
 d) az állandó belépési engedélyt, belépőkártyát, tanfolyam-azonosító kártyát a nyakba akasztva, vagy a gyakorló-, köznapi társasági zubbony, a köznapi társasági ing, az ingblúz és a gyakorlópulóver bal zsebtakarójára csíptetve kell hordani,
 
-e)[^214] az önkéntes védelmi tartalékos békeidőben, a rendelkezésre állás időszakában, a szerződésében meghatározott őrzés-védelmi feladata ellátása során
+e)[^217] az önkéntes védelmi tartalékos békeidőben, a rendelkezésre állás időszakában, a szerződésében meghatározott őrzés-védelmi feladata ellátása során
 
 ea) az a) alpontban részletezett hímzett név felirat helyett 105 x 25 mm méretben készülő hímzett „FEGYVERES BIZTONSÁGI ŐR” feliratot visel, továbbá a 90 M gyakorlókabát, a 90 M és a 2000 M gyakorlózubbony bal zsebtakarója alá gombolva FBŐ jelvényt, jobb zsebtakarója alá gombolva FBŐ igazolványt hord,
 
 eb) a „FEGYVERES BIZTONSÁGI ŐR” felirat fehér színnel, olívzöld alapra hímzett.
 
-Nemzeti színű pajzs, szalag, kokárda[^215]
+Nemzeti színű pajzs, szalag, kokárda[^218]
 
-58.[^216] az MH állománya a hímzett színes nemzeti színű pajzsot a 2008 M gyakorló esővédő kabát, a 90 és 93 M gyakorlózubbony, a 90 és 93 M téli gyakorlókabát, a 2000 M nyári gyakorlózubbony, a 2003 M sivatagi gyakorlózubbony és a 2003 M sivatagi kabát bal ujján viseli. A pajzsot a vállcsúcstól 3 cm-re úgy kell rögzíteni, hogy a pajzs középvonala a zubbony ujjának hossztengelyétől 1 cm-rel előbbre helyezkedjen el.
+58.[^219] az MH állománya a hímzett színes nemzeti színű pajzsot a 2008 M gyakorló esővédő kabát, a 90 és 93 M gyakorlózubbony, a 90 és 93 M téli gyakorlókabát, a 2000 M nyári gyakorlózubbony, a 2003 M sivatagi gyakorlózubbony és a 2003 M sivatagi kabát bal ujján viseli. A pajzsot a vállcsúcstól 3 cm-re úgy kell rögzíteni, hogy a pajzs középvonala a zubbony ujjának hossztengelyétől 1 cm-rel előbbre helyezkedjen el.
 
-58/A.[^217] A hivatásos, a szerződéses, az önkéntes műveleti tartalékos és az önkéntes védelmi tartalékos katona, továbbá a honvéd tisztjelölt a köznapi- és a sötétkék köznapi-, a társasági- és a sötétkék társasági-, valamint a hadihajós társasági zubbonyon, valamint a női és a sötétkék női köznapi zubbonyon, a női és a sötétkék női társasági kosztümkabáton a nemzeti hovatartozást kifejező, 35x20 mm méretű, nemzeti színű szövött szalagot visel. A nemzeti színű szalagot a bal vállcsúcstól 4 cm-re úgy kell vízszintesen rögzíteni, hogy a nemzeti színű szalag középvonala a zubbony ujjának hossztengelyétől 1 cm-rel előbbre helyezkedjen el.
+58/A.[^220] A hivatásos, a szerződéses, az önkéntes műveleti tartalékos és az önkéntes védelmi tartalékos katona, továbbá a honvéd tisztjelölt a köznapi- és a sötétkék köznapi-, a társasági- és a sötétkék társasági-, valamint a hadihajós társasági zubbonyon, valamint a női és a sötétkék női köznapi zubbonyon, a női és a sötétkék női társasági kosztümkabáton a nemzeti hovatartozást kifejező, 35x20 mm méretű, nemzeti színű szövött szalagot visel. A nemzeti színű szalagot a bal vállcsúcstól 4 cm-re úgy kell vízszintesen rögzíteni, hogy a nemzeti színű szalag középvonala a zubbony ujjának hossztengelyétől 1 cm-rel előbbre helyezkedjen el.
 
-58/B.[^218] Nemzeti ünnepünk, március 15-e alkalmából rendezett állami és katonai rendezvényen nemzeti színű kokárdát viselhet
+58/B.[^221] Nemzeti ünnepünk, március 15-e alkalmából rendezett állami és katonai rendezvényen nemzeti színű kokárdát viselhet
 
 a) a társasági öltözetet viselő katona állomány
 
@@ -4566,9 +4584,9 @@ d) Az egyenruházaton formai megkötés nélkül viselhető kokárda, amely az 5
 
 e) hadi- (gyakorló-) öltözeten a kokárda nem viselhető.
 
-Csapatkarjelzés, karfelirat[^219]
+Csapatkarjelzés, karfelirat[^222]
 
-59.[^220] A csapatkarjelzés az adott katonai szervezethez való tartozás jelképe.
+59.[^223] A csapatkarjelzés az adott katonai szervezethez való tartozás jelképe.
 
 a) hímzett színes köznapi és társasági, csapatkarjelzés:
 
@@ -4610,7 +4628,7 @@ ed) a speciális szolgálatteljesítést kifejező színes karfeliratokat a zubb
 
 Sapka, fejfedő, csősál
 
-60. a)[^221] Gyakorló sapka, gyakorló kalap:
+60. a)[^224] Gyakorló sapka, gyakorló kalap:
 
 aa) úgy kell viselni, hogy a sapkajelvény az arc középvonalának meghosszabbításával egybeessen, és a sapkaernyő széle egy ujjnyival a szemöldök felett helyezkedjen el,
 
@@ -4638,13 +4656,13 @@ f) Csősál:
 
 – úgy kell viselni, hogy a félbehajtott csősál a fejre felhúzva a téli gyakorlósapka alatt, több rétegben összehajtva a nyakban legyen.
 
-Nyaksál, szakmai sál[^222]
+Nyaksál, szakmai sál[^225]
 
 61. a) A nyaksál a nyakban, a posztóköpeny, illetve a 3/4-es ballonkabát alatt, kisimított csomókötés nélkül viselendő úgy, hogy a sál mindkét vége rejtett legyen.
 
 A katonanők a selyem nyaksálat a nyakban, a női köpeny alatt laza, kisimított egyszeri csomókötéssel viselik úgy, hogy a sál mindkét vége rejtett legyen.
 
-b)[^223] A szakmai sál nyáron és átmeneti időszakban – télen csak abban az esetben, ha csősál nincs elrendelve – viselhető.
+b)[^226] A szakmai sál nyáron és átmeneti időszakban – télen csak abban az esetben, ha csősál nincs elrendelve – viselhető.
 
 A szakmai sál a nyakban, a gyakorlókabát, illetve a gyakorlózubbony alatt laza, kisimított egyszeri csomókötéssel viselendő úgy, hogy a sál mindkét vége rejtett legyen.
 
@@ -4682,7 +4700,7 @@ Hevederöv, deréköv, díszöv
 
 Fehérnemű, zokni, harisnya
 
-68.[^224] a) A katonának rendelkeznie kell a szolgálatteljesítéséhez szükséges mennyiségű, nemének és az Öltözködési Szabályzat előírásainak megfelelő fehérneművel.
+68.[^227] a) A katonának rendelkeznie kell a szolgálatteljesítéséhez szükséges mennyiségű, nemének és az Öltözködési Szabályzat előírásainak megfelelő fehérneművel.
 
 b) Az egyenruhához csak a rendszeresített téli-, nyári gyakorló, köznapi, társasági zokni viselhető.
 
@@ -4690,7 +4708,7 @@ c) A katonanők a köznapi, ünnepi, társasági, estélyi öltözeti változato
 
 Lábbeli
 
-69.[^225] a) Az egyenruhához csak a rendszeresített lábbeli viselhető.
+69.[^228] a) Az egyenruhához csak a rendszeresített lábbeli viselhető.
 
 b) Orvosi javaslat alapján – a parancsnok engedélyével – a rendszeresített színben gyógycipő is viselhető.
 
@@ -4698,9 +4716,9 @@ c) A katonának rendelkeznie kell a szolgálatteljesítéséhez szükséges, az 
 
 Női táska
 
-70. a)[^226] Az általános köznapi, ünnepi, társasági, estélyi öltözetet viselő katonanő köznapi, ünnepi öltözetéhez barna, társasági, estélyi öltözetéhez fekete – az altiszt barna – női táskát hordhat.
+70. a)[^229] Az általános köznapi, ünnepi, társasági, estélyi öltözetet viselő katonanő köznapi, ünnepi öltözetéhez barna, társasági, estélyi öltözetéhez fekete – az altiszt barna – női táskát hordhat.
 
-b)[^227] A légierő által viselt és a hadihajós köznapi, ünnepi, társasági, estélyi öltözetet viselő katonanő köznapi, ünnepi, társasági, estélyi öltözetéhez fekete női táskát hordhat.
+b)[^230] A légierő által viselt és a hadihajós köznapi, ünnepi, társasági, estélyi öltözetet viselő katonanő köznapi, ünnepi, társasági, estélyi öltözetéhez fekete női táskát hordhat.
 
 c) A női táskát a bal kézben vagy a bal vállon kell hordani.
 
@@ -4732,13 +4750,13 @@ Az időjárás változása esetén a kesztyű a kézben is vihető (fogható).
 
 Nyakkendőcsíptető, kézelőgomb
 
-75.[^228] Nyakkendőcsíptető és kézelőgomb a hosszú ujjú köznapi és társasági ingen együttesen viselendő kiegészítők, melyeken stilizált nemzetiszín pajzs található. A tábornok, a főtiszt, a tiszt, a zászlós és a honvéd tisztjelölt aranyszínű, az altiszt ezüstszínű nyakkendőcsíptetőt és kézelőgombot visel.
+75.[^231] Nyakkendőcsíptető és kézelőgomb a hosszú ujjú köznapi és társasági ingen együttesen viselendő kiegészítők, melyeken stilizált nemzetiszín pajzs található. A tábornok, a főtiszt, a tiszt, a zászlós és a honvéd tisztjelölt aranyszínű, az altiszt ezüstszínű nyakkendőcsíptetőt és kézelőgombot visel.
 
 A nyakkendőcsíptetőt a hosszú ujjú ing zsebfedőjének aljával egyvonalban, a nyakkendőre és az ingre csíptetve kell felhelyezni, és rögzíteni.
 
 Fegyvernemi jelvények, fegyvernemi színek
 
-76. a)[^229] Rendszeresített fegyvernemi jelvények, jelzések
+76. a)[^232] Rendszeresített fegyvernemi jelvények, jelzések
 
 tábornok
 
@@ -4798,7 +4816,7 @@ palotaőr
 
 címzetes önkéntes tartalékos
 
-b)[^230] Fegyvernemi színek és a hozzájuk tartozó fegyvernemek, állománykategóriák
+b)[^233] Fegyvernemi színek és a hozzájuk tartozó fegyvernemek, állománykategóriák
 
 ----------
 
@@ -4928,9 +4946,9 @@ palack zöld
 
 palotaőr
 
-c)[^231] A korábban a légierőnél szolgálatot teljesített és a légierő öltözetével ellátott állomány a sötétkék köznapi és társasági öltözetét megtarthatja, illetve hordhatja, melyen a saját fegyvernemi jelvényét világoskék színű fegyvernemi parolin viseli.
+c)[^234] A korábban a légierőnél szolgálatot teljesített és a légierő öltözetével ellátott állomány a sötétkék köznapi és társasági öltözetét megtarthatja, illetve hordhatja, melyen a saját fegyvernemi jelvényét világoskék színű fegyvernemi parolin viseli.
 
-77.[^232] A fegyvernemi jelzések viselési rendje:
+77.[^235] A fegyvernemi jelzések viselési rendje:
 
 Fegyvernemi jelvényt, jelzést a köznapi, társasági zubbonyon, posztóköpenyen kell viselni. A honvéd tisztjelöltek a fegyvernemüknek, a tényleges állomány pedig szakmai végzettségének megfelelő jelvényt visel.
 
@@ -4940,7 +4958,7 @@ b) tábornoki hímzett aranyszínű tölgyfalombot visel a tábornok a posztók�
 
 c) tábornoki hímzett aranyszínű stilizált címert visel a tábornok a posztóköpeny ujján, közvetlenül a rendfokozati jelzés felett,
 
-d)[^233] aranyszínű fegyvernemi jelvényt visel
+d)[^236] aranyszínű fegyvernemi jelvényt visel
 
 da) a főtiszt, tiszt, zászlós a köznapi és társasági parolin, valamint a posztóköpeny paroliján, a hadihajós állomány a hadihajós társasági zubbony hajtókáján,
 
@@ -4952,7 +4970,7 @@ dd) a Honvéd Palotaőrség főtiszt, tiszt, zászlós állománya a díszelgő 
 
 de) a címzetes önkéntes tartalékos a címzetes önkéntes tartalékos társasági parolin,
 
-e)[^234] ezüstszínű fegyvernemi jelvényt visel
+e)[^237] ezüstszínű fegyvernemi jelvényt visel
 
 ea) az altiszt a köznapi és társasági parolin, valamint a posztóköpeny paroliján, a hadihajós állomány a hadihajós társasági zubbony hajtókáján,
 
@@ -4970,33 +4988,33 @@ b) Aranyszínű hímzett tábornoki sapkajelvényt visel az általános köznapi
 
 b) Aranyszínű ovális sapkajelvényt visel az általános köznapi öltözetet viselő főtiszt, tiszt és zászlós a köznapi Bocskai-sapkán, illetve a katonanő a női kalapon.
 
-c)[^235] Aranyszínű hímzett kerek sapkajelvényt visel az általános köznapi öltözetet viselő hivatásos, szerződéses, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos főtiszt, tiszt, zászlós katona és katonanő, a honvéd tisztjelölt és a honvéd tisztjelölt nő a köznapi sapkán.
+c)[^238] Aranyszínű hímzett kerek sapkajelvényt visel az általános köznapi öltözetet viselő hivatásos, szerződéses, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos főtiszt, tiszt, zászlós katona és katonanő, a honvéd tisztjelölt és a honvéd tisztjelölt nő a köznapi sapkán.
 
-80. a)[^236] Ezüstszínű kerek sapkajelvényt visel az általános társasági öltözetet viselő altiszt a társasági Bocskai-sapkán, illetve a katonanő a női kalapon.
+80. a)[^239] Ezüstszínű kerek sapkajelvényt visel az általános társasági öltözetet viselő altiszt a társasági Bocskai-sapkán, illetve a katonanő a női kalapon.
 
-b)[^237] Ezüstszínű ovális sapkajelvényt visel az általános köznapi öltözetet viselő altiszt a köznapi Bocskai-sapkán, illetve a katonanő a női kalapon.
+b)[^240] Ezüstszínű ovális sapkajelvényt visel az általános köznapi öltözetet viselő altiszt a köznapi Bocskai-sapkán, illetve a katonanő a női kalapon.
 
-c)[^238] Ezüstszínű hímzett kerek sapkajelvényt visel az általános köznapi öltözetet viselő hivatásos, szerződéses és önkéntes műveleti tartalékos, önkéntes védelmi tartalékos altiszt, tisztes katona és katonanő a köznapi sapkán.
+c)[^241] Ezüstszínű hímzett kerek sapkajelvényt visel az általános köznapi öltözetet viselő hivatásos, szerződéses és önkéntes műveleti tartalékos, önkéntes védelmi tartalékos altiszt, tisztes katona és katonanő a köznapi sapkán.
 
-81. a)[^239] Repülő tábornoki sapkadíszt visel a légierő által viselt társasági öltözetet viselő tábornok a sötétkék társasági tányérsapkán.
+81. a)[^242] Repülő tábornoki sapkadíszt visel a légierő által viselt társasági öltözetet viselő tábornok a sötétkék társasági tányérsapkán.
 
-b)[^240] Aranyszínű hímzett repülő tábornoki sapkajelvényt visel a légierő által viselt köznapi öltözetet viselő tábornok a sötétkék köznapi sapkán.
+b)[^243] Aranyszínű hímzett repülő tábornoki sapkajelvényt visel a légierő által viselt köznapi öltözetet viselő tábornok a sötétkék köznapi sapkán.
 
 82. a) Aranyszínű repülő sapkadíszt és aranyszínű kerek sapkajelvényt visel a repülőhajózó, repülőszerelő (műszaki) és megfigyelő (repülőirányító) beosztású főtiszt, tiszt, zászlós a sötétkék társasági tányérsapkán, illetve aranyszínű repülő sapkadíszt visel a katonanő a fekete női kalapon.
 
 b) Aranyszínű hímzett repülő sapkajelvényt visel a repülőhajózó, repülőszerelő (műszaki) és megfigyelő (repülőirányító) beosztású főtiszt, tiszt, zászlós és katonanő a sötétkék köznapi sapkán.
 
-83. a)[^241] Ezüstszínű repülő sapkadíszt és ezüstszínű kerek sapkajelvényt visel a repülőhajózó, repülőszerelő (műszaki) és megfigyelő (repülőirányító) beosztású altiszt a sötétkék társasági tányérsapkán, illetve ezüstszínű repülő sapkadíszt visel a katonanő a fekete női kalapon.
+83. a)[^244] Ezüstszínű repülő sapkadíszt és ezüstszínű kerek sapkajelvényt visel a repülőhajózó, repülőszerelő (műszaki) és megfigyelő (repülőirányító) beosztású altiszt a sötétkék társasági tányérsapkán, illetve ezüstszínű repülő sapkadíszt visel a katonanő a fekete női kalapon.
 
-b)[^242] Ezüstszínű hímzett repülő sapkajelvényt visel a repülőhajózó, repülőszerelő (műszaki) és megfigyelő (repülőirányító) beosztású altiszt és katonanő a sötétkék köznapi sapkán.
+b)[^245] Ezüstszínű hímzett repülő sapkajelvényt visel a repülőhajózó, repülőszerelő (műszaki) és megfigyelő (repülőirányító) beosztású altiszt és katonanő a sötétkék köznapi sapkán.
 
-84. a)[^243] Aranyszínű sapkadíszt visel a légierő által viselt társasági öltözetet viselő – nem a repülő fegyvernemhez tartozó – főtiszt, tiszt és zászlós a sötétkék társasági tányérsapkán, illetve a katonanő a fekete női kalapon.
+84. a)[^246] Aranyszínű sapkadíszt visel a légierő által viselt társasági öltözetet viselő – nem a repülő fegyvernemhez tartozó – főtiszt, tiszt és zászlós a sötétkék társasági tányérsapkán, illetve a katonanő a fekete női kalapon.
 
-b)[^244] Aranyszínű hímzett kerek sapkajelvényt visel a légierő által viselt köznapi öltözetet viselő – nem a repülő fegyvernemhez tartozó – hivatásos, szerződéses és önkéntes műveleti tartalékos, önkéntes védelmi tartalékos, valamint a hadihajós köznapi öltözetet viselő önkéntes műveleti tartalékos, önkéntes védelmi tartalékos főtiszt, tiszt, zászlós katona és katonanő a sötétkék köznapi sapkán.
+b)[^247] Aranyszínű hímzett kerek sapkajelvényt visel a légierő által viselt köznapi öltözetet viselő – nem a repülő fegyvernemhez tartozó – hivatásos, szerződéses és önkéntes műveleti tartalékos, önkéntes védelmi tartalékos, valamint a hadihajós köznapi öltözetet viselő önkéntes műveleti tartalékos, önkéntes védelmi tartalékos főtiszt, tiszt, zászlós katona és katonanő a sötétkék köznapi sapkán.
 
-85. a)[^245] Ezüstszínű kerek sapkajelvényt visel a légierő által viselt társasági öltözetet viselő – nem a repülő fegyvernemhez tartozó – altiszt a sötétkék társasági tányérsapkán, illetve a katonanő a fekete női kalapon.
+85. a)[^248] Ezüstszínű kerek sapkajelvényt visel a légierő által viselt társasági öltözetet viselő – nem a repülő fegyvernemhez tartozó – altiszt a sötétkék társasági tányérsapkán, illetve a katonanő a fekete női kalapon.
 
-b)[^246] Ezüstszínű hímzett kerek sapkajelvényt visel a légierő által viselt köznapi öltözetet viselő – nem a repülő fegyvernemhez tartozó – hivatásos, szerződéses, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos altiszt, tisztes, valamint a hadihajós köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állományú altiszt, tisztes katona és katonanő a sötétkék köznapi sapkán.
+b)[^249] Ezüstszínű hímzett kerek sapkajelvényt visel a légierő által viselt köznapi öltözetet viselő – nem a repülő fegyvernemhez tartozó – hivatásos, szerződéses, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos altiszt, tisztes, valamint a hadihajós köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állományú altiszt, tisztes katona és katonanő a sötétkék köznapi sapkán.
 
 86. a) Aranyszínű kerek sapkajelvényt és aranyszínű hímzett hadihajós jelvényt visel a hadihajós fegyvernemhez tartozó főtiszt, tiszt, zászlós a hadihajós társasági tányérsapkán.
 
@@ -5004,27 +5022,27 @@ b) Arany színű ovális sapkajelvényt és aranyszínű hímzett hadihajós jel
 
 c) A hadihajós főtiszt, tiszt, zászlós katonanő a sötétkék társasági öltözetéhez a fekete női kalapon aranyszínű sapkadíszt, a sötétkék köznapi öltözetéhez a sötétkék köznapi sapkán aranyszínű hímzett kerek sapkajelvényt visel.
 
-87. a)[^247] Ezüstszínű kerek sapkajelvényt és ezüstszínű hímzett hadihajós jelvényt visel a hadihajós fegyvernemhez tartozó altiszt a hadihajós társasági tányérsapkán.
+87. a)[^250] Ezüstszínű kerek sapkajelvényt és ezüstszínű hímzett hadihajós jelvényt visel a hadihajós fegyvernemhez tartozó altiszt a hadihajós társasági tányérsapkán.
 
-b)[^248] Ezüstszínű ovális sapkajelvényt és ezüstszínű hímzett hadihajós jelvényt visel a hadihajós altiszt a hadihajós köznapi tányérsapkán, illetve ezüstszínű ovális sapkajelvényt visel a katonanő a fekete női kalapon.
+b)[^251] Ezüstszínű ovális sapkajelvényt és ezüstszínű hímzett hadihajós jelvényt visel a hadihajós altiszt a hadihajós köznapi tányérsapkán, illetve ezüstszínű ovális sapkajelvényt visel a katonanő a fekete női kalapon.
 
-c)[^249] A hadihajós altiszt katonanő a sötétkék társasági öltözetéhez, a fekete női kalapon ezüstszínű kerek sapkajelvényt, a sötétkék köznapi öltözetéhez, a sötétkék köznapi sapkán ezüstszínű hímzett kerek sapkajelvényt visel.
+c)[^252] A hadihajós altiszt katonanő a sötétkék társasági öltözetéhez, a fekete női kalapon ezüstszínű kerek sapkajelvényt, a sötétkék köznapi öltözetéhez, a sötétkék köznapi sapkán ezüstszínű hímzett kerek sapkajelvényt visel.
 
-88.[^250] a) Aranyszínű kerek sapkajelvényt visel a díszzászlóaljnál a főtiszt, a tiszt, a zászlós a díszsapkán, a katonazenekarnál a zászlós a zenész díszsapkán, a zenész főtiszt, tiszt, zászlós katonanő a fekete női kalapon.
+88.[^253] a) Aranyszínű kerek sapkajelvényt visel a díszzászlóaljnál a főtiszt, a tiszt, a zászlós a díszsapkán, a katonazenekarnál a zászlós a zenész díszsapkán, a zenész főtiszt, tiszt, zászlós katonanő a fekete női kalapon.
 
-b)[^251] Ezüstszínű kerek sapkajelvényt visel a díszzászlóaljnál az altiszt és a szerződéses legénységi állomány a díszsapkán, a katonazenekarnál az altiszt a zenész díszsapkán, a zenész altiszt katonanő a fekete női kalapon.
+b)[^254] Ezüstszínű kerek sapkajelvényt visel a díszzászlóaljnál az altiszt és a szerződéses legénységi állomány a díszsapkán, a katonazenekarnál az altiszt a zenész díszsapkán, a zenész altiszt katonanő a fekete női kalapon.
 
-88/A.[^252] a) Szent Koronát ábrázoló aranyszínű koronaőr sapkajelvényt visel a koronaőr főtiszt, tiszt, zászlós a koronaőri díszsapkán és a koronaőri köznapi Bocskai sapkán,
+88/A.[^255] a) Szent Koronát ábrázoló aranyszínű koronaőr sapkajelvényt visel a koronaőr főtiszt, tiszt, zászlós a koronaőri díszsapkán és a koronaőri köznapi Bocskai sapkán,
 
 b) Szent Koronát ábrázoló ezüstszínű koronaőr sapkajelvényt visel a koronaőr altiszt a koronaőri díszsapkán és a koronaőri köznapi Bocskai sapkán.
 
-88/B.[^253] a) Magyarország, két angyal által tartott, koronás címerét ábrázoló aranyszínű palotaőr sapkajelvényt visel a palotaőr főtiszt, tiszt, zászlós a palotaőri díszsapkán és a palotaőri köznapi Bocskai sapkán,
+88/B.[^256] a) Magyarország, két angyal által tartott, koronás címerét ábrázoló aranyszínű palotaőr sapkajelvényt visel a palotaőr főtiszt, tiszt, zászlós a palotaőri díszsapkán és a palotaőri köznapi Bocskai sapkán,
 
 b) Magyarország, két angyal által tartott, koronás címerét ábrázoló ezüstszínű palotaőr sapkajelvényt visel a palotaőr altiszt és a palotaőr szerződéses legénységi állomány a palotaőri díszsapkán és a palotaőri köznapi Bocskai sapkán.
 
-88/C.[^254] Aranyszínű csákódíszt, valamint aranyszínű színes csákórózsát visel a honvéd tisztjelölt és honvéd tisztjelölt nő a hallgatói díszcsákón.
+88/C.[^257] Aranyszínű csákódíszt, valamint aranyszínű színes csákórózsát visel a honvéd tisztjelölt és honvéd tisztjelölt nő a hallgatói díszcsákón.
 
-89.[^255] Barna színű színes hímzett kerek sapkajelvényt visel az MH tényleges katona állománya
+89.[^258] Barna színű színes hímzett kerek sapkajelvényt visel az MH tényleges katona állománya
 
 a) a gyakorló-, a sivatagi- és a trópusi kalapon,
 
@@ -5040,17 +5058,17 @@ c) barna színű hímzett tábornoki sapkajelvényt visel a tábornok a 90 M ny�
 
 93. Barna színű hímzett hadihajós sapkajelvényt visel a hadihajós állomány a fekete barett sapkán.
 
-93/A.[^256] Barna színű, hímzett tábori lelkészi sapkajelvényt visel a tábori lelkész a fekete barett sapkán.
+93/A.[^259] Barna színű, hímzett tábori lelkészi sapkajelvényt visel a tábori lelkész a fekete barett sapkán.
 
-93/B.[^257] Az önkéntes védelmi tartalékos békeidőben – a rendelkezésre állás időszakában, a szerződésében meghatározott őrzés-védelmi feladata ellátása során – a fekete barett sapkán olívzöld alapra hímzett önkéntes védelmi tartalékos sapkajelvényt viselhet.
+93/B.[^260] Az önkéntes védelmi tartalékos békeidőben – a rendelkezésre állás időszakában, a szerződésében meghatározott őrzés-védelmi feladata ellátása során – a fekete barett sapkán olívzöld alapra hímzett önkéntes védelmi tartalékos sapkajelvényt viselhet.
 
 94. Barna színű hímzett fegyvernemi sapkajelvényt visel az ENSZ, NATO, illetve EU béketámogató műveletekben résztvevő szakkontingens állománya a zöld barett sapkán.
 
-95.[^258] Az általános öltözetet viselő tábornok hímzett tábornoki aranydíszítést, a főtiszt, tiszt, zászlós hímzett aranydíszítést, az altiszt hímzett ezüstdíszítést visel a társasági Bocskai-sapka sapkaernyőjén.
+95.[^261] Az általános öltözetet viselő tábornok hímzett tábornoki aranydíszítést, a főtiszt, tiszt, zászlós hímzett aranydíszítést, az altiszt hímzett ezüstdíszítést visel a társasági Bocskai-sapka sapkaernyőjén.
 
 Topán, topánalátét
 
-96.[^259] Topánt és topánalátétet visel a tábornok, főtiszt, tiszt, zászlós, altiszt a köznapi és társasági Bocskai sapkán, a Díszzászlóalj állománya a díszsapkán, a katonazenekar tagja a zenész díszsapkán, továbbá a koronaőr a koronaőri díszsapkán és a koronaőri köznapi Bocskai sapkán, valamint a palotaőr a palotaőri díszsapkán és a palotaőri köznapi Bocskai sapkán.
+96.[^262] Topánt és topánalátétet visel a tábornok, főtiszt, tiszt, zászlós, altiszt a köznapi és társasági Bocskai sapkán, a Díszzászlóalj állománya a díszsapkán, a katonazenekar tagja a zenész díszsapkán, továbbá a koronaőr a koronaőri díszsapkán és a koronaőri köznapi Bocskai sapkán, valamint a palotaőr a palotaőri díszsapkán és a palotaőri köznapi Bocskai sapkán.
 
 a) A topán a tábornoki, főtiszti, tiszti, zászlósi állomány részére arany, az altiszt, valamint a szerződéses legénységi állománya részére ezüstszínű,
 
@@ -5062,41 +5080,41 @@ Sapkazsinór, vállzsinór, mellzsinór, díszzsinór
 
 98. Aranyszínű tábornoki sapkazsinórt visel a tábornok a köznapi Bocskai-sapkán.
 
-99.[^260] A főtiszt, tiszt, zászlós aranyszínű – pirossal átszőtt – sapkazsinórt visel a társasági Bocskai sapkán, a sötétkék és a hadihajós társasági tányérsapkán, a Díszzászlóalj állománya a díszsapkán, a katonazenekar tagja a zenész díszsapkán, továbbá a koronaőr a koronaőri díszsapkán, valamint a palotaőr a palotaőri díszsapkán.
+99.[^263] A főtiszt, tiszt, zászlós aranyszínű – pirossal átszőtt – sapkazsinórt visel a társasági Bocskai sapkán, a sötétkék és a hadihajós társasági tányérsapkán, a Díszzászlóalj állománya a díszsapkán, a katonazenekar tagja a zenész díszsapkán, továbbá a koronaőr a koronaőri díszsapkán, valamint a palotaőr a palotaőri díszsapkán.
 
-100.[^261] A főtiszt, tiszt, zászlós aranyszínű sapkazsinórt visel a köznapi Bocskai sapkán, a hadihajós köznapi tányérsapkán, a koronaőr a koronaőri köznapi Bocskai sapkán, valamint a palotaőr a palotaőri köznapi Bocskai sapkán.
+100.[^264] A főtiszt, tiszt, zászlós aranyszínű sapkazsinórt visel a köznapi Bocskai sapkán, a hadihajós köznapi tányérsapkán, a koronaőr a koronaőri köznapi Bocskai sapkán, valamint a palotaőr a palotaőri köznapi Bocskai sapkán.
 
-101.[^262] Az altiszt ezüstszínű – pirossal átszőtt – sapkazsinórt visel a társasági Bocskai sapkán, a sötétkék és a hadihajós társasági tányérsapkán, a Díszzászlóalj állománya a díszsapkán, a katonazenekar tagja a zenész díszsapkán, továbbá a koronaőr a koronaőri díszsapkán, valamint a palotaőr és a palotaőr szerződéses legénységi állomány a palotaőri díszsapkán.
+101.[^265] Az altiszt ezüstszínű – pirossal átszőtt – sapkazsinórt visel a társasági Bocskai sapkán, a sötétkék és a hadihajós társasági tányérsapkán, a Díszzászlóalj állománya a díszsapkán, a katonazenekar tagja a zenész díszsapkán, továbbá a koronaőr a koronaőri díszsapkán, valamint a palotaőr és a palotaőr szerződéses legénységi állomány a palotaőri díszsapkán.
 
-102.[^263] Az altiszt ezüstszínű sapkazsinórt visel a köznapi Bocskai sapkán, a hadihajós köznapi tányérsapkán, a koronaőr a koronaőri köznapi Bocskai sapkán, valamint a palotaőr és a palotaőr szerződéses legénységi állomány a palotaőri köznapi Bocskai sapkán.
+102.[^266] Az altiszt ezüstszínű sapkazsinórt visel a köznapi Bocskai sapkán, a hadihajós köznapi tányérsapkán, a koronaőr a koronaőri köznapi Bocskai sapkán, valamint a palotaőr és a palotaőr szerződéses legénységi állomány a palotaőri köznapi Bocskai sapkán.
 
-103.[^264] Barna színű viharszíjat visel a díszzászlóalj állománya a díszsapkán.
+103.[^267] Barna színű viharszíjat visel a díszzászlóalj állománya a díszsapkán.
 
 104. a) Aranyszínű – pirossal átszőtt – és fegyvernemi színű alátéttel ellátott vállzsinórt visel a tábornok, főtiszt, tiszt, zászlós a társasági, sötétkék társasági és a hadihajós társasági zubbony vállain.
 
-b)[^265] A Díszzászlóalj főtiszt, tiszt, zászlós állománya a tábori barna díszzubbony, a katonazenekar tagja a társasági-, illetve a sötétkék társasági zubbony, továbbá a koronaőr a tábori barna koronaőri díszzubbony bal vállán aranyszínű – pirossal átszőtt – és fegyvernemi színű alátéttel ellátott vállzsinórt visel,
+b)[^268] A Díszzászlóalj főtiszt, tiszt, zászlós állománya a tábori barna díszzubbony, a katonazenekar tagja a társasági-, illetve a sötétkék társasági zubbony, továbbá a koronaőr a tábori barna koronaőri díszzubbony bal vállán aranyszínű – pirossal átszőtt – és fegyvernemi színű alátéttel ellátott vállzsinórt visel,
 
-c)[^266] A Díszzászlóalj altiszti állománya a tábori barna díszzubbony, a katonazenekar tagja a társasági-, illetve a sötétkék társasági zubbony, továbbá a koronaőr a tábori barna koronaőri díszzubbony bal vállán ezüstszínű – pirossal átszőtt – és fegyvernemi színű alátéttel ellátott vállzsinórt visel,
+c)[^269] A Díszzászlóalj altiszti állománya a tábori barna díszzubbony, a katonazenekar tagja a társasági-, illetve a sötétkék társasági zubbony, továbbá a koronaőr a tábori barna koronaőri díszzubbony bal vállán ezüstszínű – pirossal átszőtt – és fegyvernemi színű alátéttel ellátott vállzsinórt visel,
 
-d)[^267] a Honvéd Palotaőrség főtiszt, tiszt, zászlós állománya aranyszínű, altiszti és szerződéses legénységi állománya ezüstszínű, hármas zsinórfonatból készült, Magyarország koronás címerét ábrázoló gombbal díszített és fegyvernemi színű alátéttel ellátott vállfődíszt visel a tábori barna palotaőri díszzubbony és a palotaőri köznapi zubbony bal vállán, valamint a palotaőri díszköpeny mindkét vállán az ujja bevarrástól 1 cm-re keresztben elhelyezve.
+d)[^270] a Honvéd Palotaőrség főtiszt, tiszt, zászlós állománya aranyszínű, altiszti és szerződéses legénységi állománya ezüstszínű, hármas zsinórfonatból készült, Magyarország koronás címerét ábrázoló gombbal díszített és fegyvernemi színű alátéttel ellátott vállfődíszt visel a tábori barna palotaőri díszzubbony és a palotaőri köznapi zubbony bal vállán, valamint a palotaőri díszköpeny mindkét vállán az ujja bevarrástól 1 cm-re keresztben elhelyezve.
 
-105. a)[^268] Aranybevonatú szárnysegédi díszzsinórt visel a köznapi és a társasági zubbonyon a Köztársasági Elnök főhadsegédje, a parancsőrtiszt és a Honvéd Vezérkar főnökének segédtisztje.
+105. a)[^271] Aranybevonatú szárnysegédi díszzsinórt visel a köznapi és a társasági zubbonyon a Köztársasági Elnök főhadsegédje, a parancsőrtiszt és a Honvéd Vezérkar főnökének segédtisztje.
 
-b)[^269] Aranyszínű díszzsinórt visel a főtiszt, tiszt, zászlós, ezüstszínű díszzsinórt visel az altiszt a díszzászlóaljnál, a katonai zenekarnál a díszzubbonyon.
+b)[^272] Aranyszínű díszzsinórt visel a főtiszt, tiszt, zászlós, ezüstszínű díszzsinórt visel az altiszt a díszzászlóaljnál, a katonai zenekarnál a díszzubbonyon.
 
-c)[^270] Aranyszínű mellzsinórt visel a Honvéd Vezérkarnál, ezüstszínű mellzsinórt visel az MH ÖHP-n, bronzszínű mellzsinórt visel a csapatnál szolgálatot teljesítő vezénylő zászlós a köznapi és a társasági zubbonyon.
+c)[^273] Aranyszínű mellzsinórt visel a Honvéd Vezérkarnál, ezüstszínű mellzsinórt visel az MH ÖHP-n, bronzszínű mellzsinórt visel a csapatnál szolgálatot teljesítő vezénylő zászlós a köznapi és a társasági zubbonyon.
 
-d)[^271] Fegyvernemi színű koronaőri mellzsinórt visel a koronaőr a tábori barna koronaőri díszzubbonyon és a koronaőri köznapi zubbonyon, valamint viselhet a társasági zubbonyon, palotaőri mellzsinórt visel a palotaőr a tábori barna palotaőri díszzubbonyon és a palotaőri köznapi zubbonyon, valamint viselhet a társasági zubbonyon.
+d)[^274] Fegyvernemi színű koronaőri mellzsinórt visel a koronaőr a tábori barna koronaőri díszzubbonyon és a koronaőri köznapi zubbonyon, valamint viselhet a társasági zubbonyon, palotaőri mellzsinórt visel a palotaőr a tábori barna palotaőri díszzubbonyon és a palotaőri köznapi zubbonyon, valamint viselhet a társasági zubbonyon.
 
-e)[^272] A szárnysegédi díszzsinórt, a díszzsinórt, a koronaőri és palotaőri mellzsinórt, valamint a mellzsinórt a köznapi és a társasági zubbony, valamint a tábori barna díszzubbony jobb vállcsúcsára, illetve a zubbony felső, a díszelgő állomány esetében a díszzubbony második gombjára gombolva kell viselni.
+e)[^275] A szárnysegédi díszzsinórt, a díszzsinórt, a koronaőri és palotaőri mellzsinórt, valamint a mellzsinórt a köznapi és a társasági zubbony, valamint a tábori barna díszzubbony jobb vállcsúcsára, illetve a zubbony felső, a díszelgő állomány esetében a díszzubbony második gombjára gombolva kell viselni.
 
 Rendfokozati jelzések
 
-106.[^273] a) Aranydíszítésű, aranyszínű köznapi, illetve társasági paroli rendfokozati jelzést visel a tábornok a köznapi- és a társasági zubbonyon, a sötétkék köznapi- és a sötétkék társasági zubbonyon,
+106.[^276] a) Aranydíszítésű, aranyszínű köznapi, illetve társasági paroli rendfokozati jelzést visel a tábornok a köznapi- és a társasági zubbonyon, a sötétkék köznapi- és a sötétkék társasági zubbonyon,
 
 b) Aranydíszítésű, fegyvernemi színű címzetes önkéntes tartalékos társasági paroli rendfokozati jelzést visel a címzetes önkéntes tartalékos tábornok a társasági zubbonyon.
 
-107.[^274] a)[^275] Aranydíszítésű, fegyvernemi színű
+107.[^277] a)[^278] Aranydíszítésű, fegyvernemi színű
 
 aa) köznapi, illetve társasági paroli rendfokozati jelzést visel az általános köznapi-, társasági öltözetet viselő főtiszt, tiszt a köznapi- és a társasági zubbonyon, a katonazenekarnál a zenész társasági zubbonyon, valamint a katonanő a köznapi női zubbonyon és a társasági kosztümkabáton, a katonazenekarnál a zenész társasági kosztümkabáton,
 
@@ -5106,9 +5124,9 @@ ac) címzetes önkéntes tartalékos társasági paroli rendfokozati jelzést vi
 
 b) Aranydíszítésű (világoskék fegyvernemi színű) köznapi, illetve társasági paroli rendfokozati jelzést visel a légierő állományába tartozó főtiszt, tiszt a sötétkék köznapi és társasági zubbonyon, valamint a katonazenekarnál a sötétkék zenész társasági zubbonyon, illetve a katonanő a sötétkék köznapi női zubbonyon és sötétkék társasági kosztümkabáton.
 
-c)[^276] Aranydíszítésű, fegyvernemi színű köznapi paroli rendfokozati jelzést visel az általános köznapi öltözetet viselő, aranydíszítésű, világoskék fegyvernemi színű köznapi paroli rendfokozati jelzést visel a légierő által viselt köznapi öltözetet viselő önkéntes műveleti tartalékos, önkéntes védelmi tartalékos főtiszt, tiszt a köznapi- és a sötétkék köznapi zubbonyon, illetve a női köznapi- és a sötétkék női köznapi zubbonyon.
+c)[^279] Aranydíszítésű, fegyvernemi színű köznapi paroli rendfokozati jelzést visel az általános köznapi öltözetet viselő, aranydíszítésű, világoskék fegyvernemi színű köznapi paroli rendfokozati jelzést visel a légierő által viselt köznapi öltözetet viselő önkéntes műveleti tartalékos, önkéntes védelmi tartalékos főtiszt, tiszt a köznapi- és a sötétkék köznapi zubbonyon, illetve a női köznapi- és a sötétkék női köznapi zubbonyon.
 
-108.[^277] a)[^278] Ezüst- és aranydíszítésű, fegyvernemi színű
+108.[^280] a)[^281] Ezüst- és aranydíszítésű, fegyvernemi színű
 
 aa) köznapi, illetve társasági paroli rendfokozati jelzést visel az általános köznapi-, társasági öltözetet viselő zászlós a köznapi- és a társasági zubbonyon, a katonazenekarnál a zenész társasági zubbonyon, valamint a katonanő a köznapi női zubbonyon és a társasági kosztümkabáton, a katonazenekarnál a zenész társasági kosztümkabáton,
 
@@ -5116,39 +5134,39 @@ ab) díszelgő paroli rendfokozati jelzést visel a zászlós a Honvéd Koronaő
 
 b) Ezüst- és aranydíszítésű (világoskék fegyvernemi színű) köznapi, illetve társasági paroli rendfokozati jelzést visel a légierő állományába tartozó zászlós a sötétkék köznapi és társasági zubbonyon, valamint a katonazenekarnál a sötétkék zenész társasági zubbonyon, illetve a katonanő a sötétkék köznapi női zubbonyon és sötétkék társasági kosztümkabáton.
 
-c)[^279] Ezüst- és aranydíszítésű, fegyvernemi színű köznapi paroli rendfokozati jelzést visel az általános köznapi öltözetet viselő, ezüst- és aranydíszítésű, világoskék fegyvernemi színű köznapi paroli rendfokozati jelzést visel a légierő által viselt köznapi öltözetet viselő önkéntes műveleti tartalékos, önkéntes védelmi tartalékos zászlós a köznapi- és a sötétkék köznapi zubbonyon, illetve a női köznapi- és a sötétkék női köznapi zubbonyon.
+c)[^282] Ezüst- és aranydíszítésű, fegyvernemi színű köznapi paroli rendfokozati jelzést visel az általános köznapi öltözetet viselő, ezüst- és aranydíszítésű, világoskék fegyvernemi színű köznapi paroli rendfokozati jelzést visel a légierő által viselt köznapi öltözetet viselő önkéntes műveleti tartalékos, önkéntes védelmi tartalékos zászlós a köznapi- és a sötétkék köznapi zubbonyon, illetve a női köznapi- és a sötétkék női köznapi zubbonyon.
 
-109.[^280] a)[^281] Ezüstdíszítésű, fegyvernemi színű
+109.[^283] a)[^284] Ezüstdíszítésű, fegyvernemi színű
 
 aa) köznapi, illetve társasági paroli rendfokozati jelzést visel az általános köznapi-, társasági öltözetet viselő altiszt a köznapi- és a társasági zubbonyon, a katonazenekarnál a zenész társasági zubbonyon, valamint a katonanő a köznapi női zubbonyon és a társasági kosztümkabáton, a katonazenekarnál a zenész társasági kosztümkabáton,
 
 ab) díszelgő paroli rendfokozati jelzést visel az altiszt a Honvéd Koronaőrségnél, a Honvéd Palotaőrségnél és a Díszzászlóaljnál a tábori barna díszzubbonyon.
 
-b)[^282] Ezüstdíszítésű (világoskék fegyvernemi színű) köznapi, illetve társasági paroli rendfokozati jelzést visel a légierő állományába tartozó altiszt a sötétkék köznapi és társasági zubbonyon, valamint a katonazenekarnál a sötétkék zenész társasági zubbonyon.
+b)[^285] Ezüstdíszítésű (világoskék fegyvernemi színű) köznapi, illetve társasági paroli rendfokozati jelzést visel a légierő állományába tartozó altiszt a sötétkék köznapi és társasági zubbonyon, valamint a katonazenekarnál a sötétkék zenész társasági zubbonyon.
 
-c)[^283] Ezüstdíszítésű, fegyvernemi színű köznapi paroli rendfokozati jelzést visel az általános köznapi öltözetet viselő, ezüstdíszítésű, világoskék fegyvernemi színű köznapi paroli rendfokozati jelzést visel a légierő által viselt köznapi öltözetet viselő önkéntes műveleti tartalékos és önkéntes védelmi tartalékos altiszt a köznapi- és a sötétkék köznapi zubbonyon, illetve a női köznapi- és a sötétkék női köznapi zubbonyon,
+c)[^286] Ezüstdíszítésű, fegyvernemi színű köznapi paroli rendfokozati jelzést visel az általános köznapi öltözetet viselő, ezüstdíszítésű, világoskék fegyvernemi színű köznapi paroli rendfokozati jelzést visel a légierő által viselt köznapi öltözetet viselő önkéntes műveleti tartalékos és önkéntes védelmi tartalékos altiszt a köznapi- és a sötétkék köznapi zubbonyon, illetve a női köznapi- és a sötétkék női köznapi zubbonyon,
 
-d)[^284] Szürkedíszítésű, fegyvernemi színű köznapi paroli rendfokozati jelzést visel az általános köznapi öltözetet viselő, szürkedíszítésű, világoskék fegyvernemi színű köznapi paroli rendfokozati jelzést visel a légierő által viselt köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állományú tisztes a köznapi- és a sötétkék köznapi zubbonyon, illetve a női köznapi- és a sötétkék női köznapi zubbonyon.
+d)[^287] Szürkedíszítésű, fegyvernemi színű köznapi paroli rendfokozati jelzést visel az általános köznapi öltözetet viselő, szürkedíszítésű, világoskék fegyvernemi színű köznapi paroli rendfokozati jelzést visel a légierő által viselt köznapi öltözetet viselő szerződéses legénységi, önkéntes műveleti tartalékos és önkéntes védelmi tartalékos állományú tisztes a köznapi- és a sötétkék köznapi zubbonyon, illetve a női köznapi- és a sötétkék női köznapi zubbonyon.
 
-110. a)[^285] A hadihajós főtiszt, tiszt aranydíszítésű, a zászlós ezüst- és aranydíszítésű, az altiszt ezüstdíszítésű (sötétkék fegyvernemi színű) paroli rendfokozati jelzést visel a sötétkék köznapi zubbonyon, illetve a katonanő a sötétkék női köznapi zubbonyon.
+110. a)[^288] A hadihajós főtiszt, tiszt aranydíszítésű, a zászlós ezüst- és aranydíszítésű, az altiszt ezüstdíszítésű (sötétkék fegyvernemi színű) paroli rendfokozati jelzést visel a sötétkék köznapi zubbonyon, illetve a katonanő a sötétkék női köznapi zubbonyon.
 
-b)[^286] Hadihajós társasági rendfokozati jelzést visel a hadihajós főtiszt, tiszt, zászlós, altiszt a hadihajós társasági zubbony ujjain, valamint a hadihajós katonanő a sötétkék társasági kosztümkabát ujjain.
+b)[^289] Hadihajós társasági rendfokozati jelzést visel a hadihajós főtiszt, tiszt, zászlós, altiszt a hadihajós társasági zubbony ujjain, valamint a hadihajós katonanő a sötétkék társasági kosztümkabát ujjain.
 
-c)[^287] A hadihajós önkéntes műveleti tartalékos, önkéntes védelmi tartalékos főtiszt, tiszt aranydíszítésű, a zászlós ezüst- és aranydíszítésű, az altiszt ezüstdíszítésű, a tisztes és a szerződéses legénységi állományú tisztes szürkedíszítésű, sötétkék fegyvernemi színű köznapi paroli rendfokozati jelzést visel a sötétkék köznapi zubbonyon, illetve a katonanő a sötétkék női köznapi zubbonyon.
+c)[^290] A hadihajós önkéntes műveleti tartalékos, önkéntes védelmi tartalékos főtiszt, tiszt aranydíszítésű, a zászlós ezüst- és aranydíszítésű, az altiszt ezüstdíszítésű, a tisztes és a szerződéses legénységi állományú tisztes szürkedíszítésű, sötétkék fegyvernemi színű köznapi paroli rendfokozati jelzést visel a sötétkék köznapi zubbonyon, illetve a katonanő a sötétkék női köznapi zubbonyon.
 
-111.[^288] Fehérselyem díszítésű, fegyvernemi színű díszelgő paroli rendfokozati jelzést visel a szerződéses legénységi állomány a Honvéd Palotaőrségnél és a Díszzászlóaljnál a tábori barna díszzubbonyon.”
+111.[^291] Fehérselyem díszítésű, fegyvernemi színű díszelgő paroli rendfokozati jelzést visel a szerződéses legénységi állomány a Honvéd Palotaőrségnél és a Díszzászlóaljnál a tábori barna díszzubbonyon.”
 
-112.[^289] A honvéd tisztjelölt és a honvéd tisztjelölt nő az évfolyamának megfelelő
+112.[^292] A honvéd tisztjelölt és a honvéd tisztjelölt nő az évfolyamának megfelelő
 
 a) sárgadíszítésű barna paroli évfolyamjelzést visel a köznapi zubbonyon, illetve a köznapi női zubbonyon,
 
 b) aranydíszítésű meggypiros hallgatói évfolyamjelzést visel a hallgatói díszzubbonyon, illetve a hallgatói női díszzubbonyon.
 
-113.[^290] a) Aranydíszítésű, aranyszínű hímzett rendfokozati jelzést visel a tábornok a 3/4-es és a 4/4-es ballonkabáton, az esőkabáton, a gyakorlópulóver köznapi változatán, a köznapi és a társasági ingen, valamint az ingblúzon,
+113.[^293] a) Aranydíszítésű, aranyszínű hímzett rendfokozati jelzést visel a tábornok a 3/4-es és a 4/4-es ballonkabáton, az esőkabáton, a gyakorlópulóver köznapi változatán, a köznapi és a társasági ingen, valamint az ingblúzon,
 
 b) Aranydíszítésű hímzett címzetes önkéntes tartalékos rendfokozati jelzést visel az önkéntes tartalékos tábornok a 4/4-es ballonkabáton és a társasági ingen.
 
-114.[^291] a)[^292] Aranydíszítésű hímzett
+114.[^294] a)[^295] Aranydíszítésű hímzett
 
 aa) rendfokozati jelzést visel a főtiszt, tiszt,
 
@@ -5156,25 +5174,25 @@ ab) címzetes önkéntes tartalékos rendfokozati jelzést visel a címzetes ön
 
 b) ezüst- és aranydíszítésű hímzett rendfokozati jelzést visel a zászlós,
 
-c)[^293] ezüstdíszítésű hímzett rendfokozati jelzést visel az altiszt,
+c)[^296] ezüstdíszítésű hímzett rendfokozati jelzést visel az altiszt,
 
-d)[^294] szürkedíszítésű hímzett rendfokozati jelzést visel szerződéses legénységi és az önkéntes műveleti tartalékos, önkéntes védelmi tartalékos állományú tisztes,
+d)[^297] szürkedíszítésű hímzett rendfokozati jelzést visel szerződéses legénységi és az önkéntes műveleti tartalékos, önkéntes védelmi tartalékos állományú tisztes,
 
-e)[^295] sárgadíszítésű hímzett hallgatói évfolyamjelzést visel a honvéd tisztjelölt a 3/4-es és 4/4-es ballonkabáton, a női ballonkabáton, az esőkabáton, a női esőkabáton, a gyakorlópulóver köznapi változatán, a köznapi- és társasági ingen, a női köznapi- és társasági ingen, az ingblúzon, a női ingblúzon és a női mellényen.
+e)[^298] sárgadíszítésű hímzett hallgatói évfolyamjelzést visel a honvéd tisztjelölt a 3/4-es és 4/4-es ballonkabáton, a női ballonkabáton, az esőkabáton, a női esőkabáton, a gyakorlópulóver köznapi változatán, a köznapi- és társasági ingen, a női köznapi- és társasági ingen, az ingblúzon, a női ingblúzon és a női mellényen.
 
 115. A hímzett rendfokozati jelzés a társasági ingen fehér, a 3/4-es és 4/4-es (női) ballonkabátokon, a (női) esőkabátokon, a gyakorlópulóver köznapi változatán, a köznapi (női) ingen, a (női) ingblúzon, a női mellényen barna – a repülő és a hadihajós fegyvernemhez tartozó szakállomány részére sötétkék –, a gyakorlópulóveren zöld alapra hímzett.
 
-116.[^296] A tábornok, főtiszt, tiszt, zászlós, altiszt, valamint a katonanő posztóköpeny rendfokozati jelzést – a honvéd tisztjelölt nő az évfolyamának megfelelő posztóköpeny évfolyamjelzést – visel a posztóköpeny, illetve a női köpeny két ujján zöld, a légierő által viselt öltözetet viselő és a hadihajós öltözetet viselő állomány a sötétkék posztóköpeny, illetve a női sötétkék köpeny két ujján sötétkék alapszínben.
+116.[^299] A tábornok, főtiszt, tiszt, zászlós, altiszt, valamint a katonanő posztóköpeny rendfokozati jelzést – a honvéd tisztjelölt nő az évfolyamának megfelelő posztóköpeny évfolyamjelzést – visel a posztóköpeny, illetve a női köpeny két ujján zöld, a légierő által viselt öltözetet viselő és a hadihajós öltözetet viselő állomány a sötétkék posztóköpeny, illetve a női sötétkék köpeny két ujján sötétkék alapszínben.
 
-117.[^297] a) Az MH állománya barna színű gyakorló paroli rendfokozati jelzést – a honvéd tisztjelölt és a honvéd altiszt-jelölt az évfolyamának megfelelő gyakorló paroli évfolyamjelzést – visel, zöld alapszínre hímzetten a gyakorlózubbony és a gyakorlókabát, valamint barna alapszínre hímzetten a sivatagi gyakorlózubbony gallérján,
+117.[^300] a) Az MH állománya barna színű gyakorló paroli rendfokozati jelzést – a honvéd tisztjelölt és a honvéd altiszt-jelölt az évfolyamának megfelelő gyakorló paroli évfolyamjelzést – visel, zöld alapszínre hímzetten a gyakorlózubbony és a gyakorlókabát, valamint barna alapszínre hímzetten a sivatagi gyakorlózubbony gallérján,
 
 b) az önkéntes védelmi tartalékos békeidőben, a rendelkezésre állás időszakában, a szerződésében meghatározott őrzés-védelmi feladata ellátása során, a gyakorló paroli rendfokozati jelzés helyett fehér színnel, olívzöld alapra hímzett gyakorló paroli beosztásjelzést visel.
 
-118.[^298] a) Az MH állománya barna színű gyakorló rendfokozati jelzést – a honvéd tisztjelölt és a honvéd altiszt-jelölt az évfolyamának megfelelő gyakorló évfolyamjelzést – visel, zöld alapszínre hímzetten a gyakorlósapkán, a 2008 M gyakorló esővédő kabát és az esővédő zubbony mellrészén, a gyakorlópóló, a matróztrikó, a 2008 M polárpulóver, a 2003 M repülőhajózó overall és dzseki ujján, továbbá barna alapszínre hímzetten a sivatagi kabát mellrészén, valamint a sivatagi kabátbélés (polárpulóver) és a sivatagi öltözethez viselt gyakorlópóló ujján az arra kialakított helyen,
+118.[^301] a) Az MH állománya barna színű gyakorló rendfokozati jelzést – a honvéd tisztjelölt és a honvéd altiszt-jelölt az évfolyamának megfelelő gyakorló évfolyamjelzést – visel, zöld alapszínre hímzetten a gyakorlósapkán, a 2008 M gyakorló esővédő kabát és az esővédő zubbony mellrészén, a gyakorlópóló, a matróztrikó, a 2008 M polárpulóver, a 2003 M repülőhajózó overall és dzseki ujján, továbbá barna alapszínre hímzetten a sivatagi kabát mellrészén, valamint a sivatagi kabátbélés (polárpulóver) és a sivatagi öltözethez viselt gyakorlópóló ujján az arra kialakított helyen,
 
 b) az önkéntes védelmi tartalékos békeidőben, a rendelkezésre állás időszakában, a szerződésében meghatározott őrzés-védelmi feladata ellátása során, a gyakorló rendfokozati jelzés helyett fehér színnel, olívzöld alapra hímzett gyakorló beosztásjelzést visel.
 
-119–120.[^299]
+119–120.[^302]
 
 Gombok
 
@@ -5182,7 +5200,7 @@ Gombok
 
 a) az általános köznapi és társasági öltözetet viselő tábornok a köznapi és társasági zubbonyon, a posztóköpenyen, a köznapi és társasági Bocskai-sapkán, valamint a tábornoki rendfokozattal rendelkező katonanő a női köznapi és társasági zubbonyon, a női köpenyen, a női mellényen,
 
-b)[^300] a főtiszt, tiszt, zászlós
+b)[^303] a főtiszt, tiszt, zászlós
 
 ba) a díszzászlóaljnál a díszköpenyen, a tábori barna díszzubbonyon és a díszsapkán,
 
@@ -5190,23 +5208,23 @@ bb) koronaőr Szent Koronát ábrázoló aranyozott gombot visel a tábori barna
 
 bc) palotaőr Magyarország koronás címerét ábrázoló aranyozott gombot visel a palotaőri díszköpenyen, a tábori barna palotaőri díszzubbonyon, a palotaőri díszsapkán, a palotaőri köznapi zubbonyon és a palotaőri köznapi Bocskai sapkán, valamint a palotaőri vállfődíszen,
 
-c)[^301] a légierő által viselt köznapi és társasági öltözetet viselő tábornok a sötétkék köznapi és társasági zubbonyon, a sötétkék posztóköpenyen, a sötétkék társasági tányérsapkán, valamint a tábornoki rendfokozattal rendelkező katonanő a sötétkék női köznapi és társasági zubbonyon, a sötétkék női köpenyen, a sötétkék női mellényen.
+c)[^304] a légierő által viselt köznapi és társasági öltözetet viselő tábornok a sötétkék köznapi és társasági zubbonyon, a sötétkék posztóköpenyen, a sötétkék társasági tányérsapkán, valamint a tábornoki rendfokozattal rendelkező katonanő a sötétkék női köznapi és társasági zubbonyon, a sötétkék női köpenyen, a sötétkék női mellényen.
 
 122. Aranyszínű gombot visel:
 
-a)[^302] az általános köznapi és társasági öltözetet viselő főtiszt, tiszt, zászlós a köznapi és társasági zubbonyon, a posztóköpenyen, a köznapi és társasági Bocskai-sapkán, a katonanő a női köznapi és társasági zubbonyon, a női köpenyen, a női mellényen, a honvéd tisztjelölt a köznapi zubbonyon, a honvéd tisztjelölt nő a női köznapi zubbonyon, a női köpenyen, a női mellényen,
+a)[^305] az általános köznapi és társasági öltözetet viselő főtiszt, tiszt, zászlós a köznapi és társasági zubbonyon, a posztóköpenyen, a köznapi és társasági Bocskai-sapkán, a katonanő a női köznapi és társasági zubbonyon, a női köpenyen, a női mellényen, a honvéd tisztjelölt a köznapi zubbonyon, a honvéd tisztjelölt nő a női köznapi zubbonyon, a női köpenyen, a női mellényen,
 
 b) a katonazenekaroknál a zenész főtiszt, tiszt, zászlós a társasági zubbonyon, a posztóköpenyen és a díszsapkán,
 
-c)[^303] a légierő által viselt köznapi- és társasági öltözetet viselő főtiszt, tiszt, zászlós a sötétkék társasági tányérsapkán, a sötétkék posztóköpenyen, a sötétkék köznapi- és társasági zubbonyon, a katonanő a sötétkék női köpenyen, a sötétkék női köznapi zubbonyon, a sötétkék női társasági kosztümkabáton, a sötétkék női mellényen, továbbá a hadihajós köznapi öltözetet viselő főtiszt, tiszt, zászlós a sötétkék posztóköpenyen, a sötétkék köznapi zubbonyon, a katonanő a sötétkék női köpenyen, a sötétkék női köznapi zubbonyon, a sötétkék női mellényen,
+c)[^306] a légierő által viselt köznapi- és társasági öltözetet viselő főtiszt, tiszt, zászlós a sötétkék társasági tányérsapkán, a sötétkék posztóköpenyen, a sötétkék köznapi- és társasági zubbonyon, a katonanő a sötétkék női köpenyen, a sötétkék női köznapi zubbonyon, a sötétkék női társasági kosztümkabáton, a sötétkék női mellényen, továbbá a hadihajós köznapi öltözetet viselő főtiszt, tiszt, zászlós a sötétkék posztóköpenyen, a sötétkék köznapi zubbonyon, a katonanő a sötétkék női köpenyen, a sötétkék női köznapi zubbonyon, a sötétkék női mellényen,
 
-d)[^304] az általános köznapi öltözetet, illetve a légierő által viselt köznapi öltözetet viselő önkéntes műveleti tartalékos, önkéntes védelmi tartalékos főtiszt, tiszt, zászlós a köznapi- és a sötétkék köznapi zubbonyon, illetve a katonanő a női és a sötétkék női köpenyen, a női és a sötétkék női köznapi zubbonyon, valamint a női és a sötétkék női mellényen.
+d)[^307] az általános köznapi öltözetet, illetve a légierő által viselt köznapi öltözetet viselő önkéntes műveleti tartalékos, önkéntes védelmi tartalékos főtiszt, tiszt, zászlós a köznapi- és a sötétkék köznapi zubbonyon, illetve a katonanő a női és a sötétkék női köpenyen, a női és a sötétkék női köznapi zubbonyon, valamint a női és a sötétkék női mellényen.
 
 123. Ezüstszínű gombot visel:
 
-a)[^305] az általános köznapi és társasági öltözetet viselő altiszt a köznapi és társasági zubbonyon, a posztóköpenyen, a köznapi és társasági Bocskai-sapkán, a katonanő a női köznapi és társasági zubbonyon, a női köpenyen, a női mellényen,
+a)[^308] az általános köznapi és társasági öltözetet viselő altiszt a köznapi és társasági zubbonyon, a posztóköpenyen, a köznapi és társasági Bocskai-sapkán, a katonanő a női köznapi és társasági zubbonyon, a női köpenyen, a női mellényen,
 
-b)[^306] az altiszt
+b)[^309] az altiszt
 
 ba) és a szerződéses legénységi állomány a díszzászlóaljnál a díszköpenyen, a tábori barna díszzubbonyon és a díszsapkán,
 
@@ -5216,27 +5234,27 @@ bc) koronaőr Szent Koronát ábrázoló ezüstszínű gombot visel a tábori ba
 
 bd) és a szerződéses legénységi állományú palotaőr Magyarország koronás címerét ábrázoló ezüstszínű gombot visel a palotaőri díszköpenyen, a tábori barna palotaőri díszzubbonyon, a palotaőri díszsapkán, a palotaőri köznapi zubbonyon és a palotaőri köznapi Bocskai sapkán, valamint a palotaőri vállfődíszen,
 
-c)[^307] a légierő által viselt köznapi- és társasági öltözetet viselő altiszt a sötétkék társasági tányérsapkán, a sötétkék posztóköpenyen, a sötétkék köznapi- és társasági zubbonyon, a katonanő a sötétkék női köpenyen, a sötétkék női köznapi zubbonyon, a sötétkék női társasági kosztümkabáton, a sötétkék női mellényen, továbbá a hadihajós köznapi öltözetet viselő altiszt a sötétkék posztóköpenyen, a sötétkék köznapi zubbonyon, a katonanő a sötétkék női köpenyen, a sötétkék női köznapi zubbonyon, a sötétkék női mellényen,
+c)[^310] a légierő által viselt köznapi- és társasági öltözetet viselő altiszt a sötétkék társasági tányérsapkán, a sötétkék posztóköpenyen, a sötétkék köznapi- és társasági zubbonyon, a katonanő a sötétkék női köpenyen, a sötétkék női köznapi zubbonyon, a sötétkék női társasági kosztümkabáton, a sötétkék női mellényen, továbbá a hadihajós köznapi öltözetet viselő altiszt a sötétkék posztóköpenyen, a sötétkék köznapi zubbonyon, a katonanő a sötétkék női köpenyen, a sötétkék női köznapi zubbonyon, a sötétkék női mellényen,
 
-d)[^308] az általános köznapi öltözetet, illetve a légierő által viselt köznapi öltözetet viselő önkéntes műveleti tartalékos, önkéntes védelmi tartalékos és szerződéses legénységi állományú altiszt, tisztes a köznapi- és a sötétkék köznapi zubbonyon, illetve a katonanő a női és a sötétkék női köpenyen, a női és a sötétkék női köznapi zubbonyon, valamint a női és a sötétkék női mellényen.
+d)[^311] az általános köznapi öltözetet, illetve a légierő által viselt köznapi öltözetet viselő önkéntes műveleti tartalékos, önkéntes védelmi tartalékos és szerződéses legénységi állományú altiszt, tisztes a köznapi- és a sötétkék köznapi zubbonyon, illetve a katonanő a női és a sötétkék női köpenyen, a női és a sötétkék női köznapi zubbonyon, valamint a női és a sötétkék női mellényen.
 
-124.[^309] A hadihajós öltözetet viselő főtiszt, tiszt, zászlós aranyszínű, az altiszt ezüstszínű – hadihajós jelvénnyel díszített – gombot visel a köznapi- és a társasági hadihajós tányérsapkán, a hadihajós társasági zubbonyon, a katonanő a sötétkék női társasági kosztümkabáton.
+124.[^312] A hadihajós öltözetet viselő főtiszt, tiszt, zászlós aranyszínű, az altiszt ezüstszínű – hadihajós jelvénnyel díszített – gombot visel a köznapi- és a társasági hadihajós tányérsapkán, a hadihajós társasági zubbonyon, a katonanő a sötétkék női társasági kosztümkabáton.
 
-125.[^310] Barna színű (puskás) gombot visel az MH tényleges állománya – a repülőhajózó, repülőszerelő kivételével – a nyári és téli gyakorlósapkán.
+125.[^313] Barna színű (puskás) gombot visel az MH tényleges állománya – a repülőhajózó, repülőszerelő kivételével – a nyári és téli gyakorlósapkán.
 
-126.[^311] Barna színű gombot visel a Honvédség tényleges állománya – a repülőhajózó, repülőszerelő kivételével – a 90 M és a 93 M hadi- (gyakorló-) öltözeteken, valamint a 2000 M nyári gyakorlóöltözeten.
+126.[^314] Barna színű gombot visel a Honvédség tényleges állománya – a repülőhajózó, repülőszerelő kivételével – a 90 M és a 93 M hadi- (gyakorló-) öltözeteken, valamint a 2000 M nyári gyakorlóöltözeten.
 
-127.[^312] Homokszínű gombot visel az MH tényleges állománya a 2003 M sivatagi öltözeteken.
+127.[^315] Homokszínű gombot visel az MH tényleges állománya a 2003 M sivatagi öltözeteken.
 
 Csillagok
 
-128.[^313] Ezüstszínű 17 mm-es hatágú csillagot visel az általános és a légierő által viselt öltözetet viselő tábornok a köznapi és a társasági parolin.
+128.[^316] Ezüstszínű 17 mm-es hatágú csillagot visel az általános és a légierő által viselt öltözetet viselő tábornok a köznapi és a társasági parolin.
 
-129.[^314] Ezüstszínű 15 mm-es hatágú csillagot visel az általános és a légierő által viselt köznapi és társasági öltözetet viselő főtiszt és altiszt a köznapi- és a társasági parolin, tisztes a köznapi parolin, a hadihajós köznapi öltözetet viselő főtiszt, altiszt és tisztes a köznapi parolin, a díszzászlóaljnál a főtiszt és altiszt a díszelgő parolin, valamint a katonazenekaroknál a zenész főtiszt és altiszt a társasági parolin.
+129.[^317] Ezüstszínű 15 mm-es hatágú csillagot visel az általános és a légierő által viselt köznapi és társasági öltözetet viselő főtiszt és altiszt a köznapi- és a társasági parolin, tisztes a köznapi parolin, a hadihajós köznapi öltözetet viselő főtiszt, altiszt és tisztes a köznapi parolin, a díszzászlóaljnál a főtiszt és altiszt a díszelgő parolin, valamint a katonazenekaroknál a zenész főtiszt és altiszt a társasági parolin.
 
-130.[^315] Aranyszínű 15 mm-es hatágú csillagot visel az általános és a légierős öltözetet viselő tiszt és zászlós a köznapi és a társasági parolin, a hadihajós öltözetet viselő tiszt és zászlós a köznapi parolin, a díszzászlóaljnál a tiszt és zászlós a díszelgő parolin, valamint a katonazenekaroknál a tiszt és zászlós zenész a társasági parolin.
+130.[^318] Aranyszínű 15 mm-es hatágú csillagot visel az általános és a légierős öltözetet viselő tiszt és zászlós a köznapi és a társasági parolin, a hadihajós öltözetet viselő tiszt és zászlós a köznapi parolin, a díszzászlóaljnál a tiszt és zászlós a díszelgő parolin, valamint a katonazenekaroknál a tiszt és zászlós zenész a társasági parolin.
 
-131.[^316] 20 mm-es hímzett hatágú csillagot visel a hadihajós főtiszt, tiszt, zászlós arany, a hadihajós altiszt ezüstszínben a társasági zubbony mindkét ujján.
+131.[^319] 20 mm-es hímzett hatágú csillagot visel a hadihajós főtiszt, tiszt, zászlós arany, a hadihajós altiszt ezüstszínben a társasági zubbony mindkét ujján.
 
 V. Fejezet
 
@@ -5244,15 +5262,15 @@ KITÜNTETÉSEK, SZOLGÁLATI JELEK ÉS JELVÉNYEK VISELÉSÉNEK RENDJE
 
 Kitüntetések, szolgálati jelek, kitüntető címek, miniatűr jelvények viselésének rendje
 
-132.[^317] a)[^318] A köztársasági elnök, a Kormány, a honvédelmi miniszter, továbbá a jogszabályban feljogosított más szerv által alapított és adományozott kitüntetést, szolgálati jelet, kitüntető címet, miniatűr jelvényt a Honvédség állománya az egyenruhán viseli.
+132.[^320] a)[^321] A köztársasági elnök, a Kormány, a honvédelmi miniszter, továbbá a jogszabályban feljogosított más szerv által alapított és adományozott kitüntetést, szolgálati jelet, kitüntető címet, miniatűr jelvényt a Honvédség állománya az egyenruhán viseli.
 
-b)[^319] Külföldi kitüntetést csak az hordhat, aki erre a honvédelmi minisztertől, illetve átruházott jogkörben a Honvéd Vezérkar főnökétől engedélyt kapott.
+b)[^322] Külföldi kitüntetést csak az hordhat, aki erre a honvédelmi minisztertől, illetve átruházott jogkörben a Honvéd Vezérkar főnökétől engedélyt kapott.
 
 c) Az adományozott kitüntetéseket szalagsávon kell viselni, azonban ezen elismerések eredeti formában – kivéve az 1948–1990 között alapítottakat – a g) alpontban meghatározottak szerint is viselhetőek.
 
 d) A kitüntetések szalagsávon és eredeti formában együtt nem viselhetők.
 
-e) Az elismerések viselésének sorrendjét a honvédelmi miniszter által alapítható és adományozható elismerésekről szóló jogszabály külön szabályozza.
+e)[^323] A kitüntetéseket a 132/A. pontban meghatározott sorrendben kell viselni.
 
 f) A kitüntetések szalagsávon történő viselésének szabályai:
 
@@ -5276,9 +5294,119 @@ g) A kitüntetések eredeti formában történő viselésének szabályai:
 
 – 12-nél több kitüntetés esetén egy sorban 6-nál több kitüntetés is elhelyezhető. Ebben az esetben a 2 cm távolságot – a kitüntetések számának megfelelően – arányosan csökkenteni kell. A kitüntetések számát a sorok között egyenlő arányban kell megosztani, páratlan számú kitüntetés esetén a felső sorban eggyel több kitüntetést kell elhelyezni.
 
-h)[^320] A „Kardokkal Ékesített Szolgálati Érdemjel” arany, ezüst és bronz fokozata, továbbá a sebesülések számának megfelelő „Sebesülési Szolgálati Érdemjel” a hadi- (gyakorló-) zubbony, valamint a sivatagi gyakorlózubbony baloldalán közvetlenül az államjelző felett, gyakorló kivitelű szalagsáv (gyakorló változata barna színű zöld alapszínre, sivatagi változata barna színű barna alapszínre hímzett) formában – az f) pontban meghatározott módon – viselendő,
+h)[^324] A „Kardokkal Ékesített Szolgálati Érdemjel” arany, ezüst és bronz fokozata, továbbá a sebesülések számának megfelelő „Sebesülési Szolgálati Érdemjel” a hadi- (gyakorló-) zubbony, valamint a sivatagi gyakorlózubbony baloldalán közvetlenül az államjelző felett, gyakorló kivitelű szalagsáv (gyakorló változata barna színű zöld alapszínre, sivatagi változata barna színű barna alapszínre hímzett) formában – az f) pontban meghatározott módon – viselendő,
 
 i) A honvédelmi miniszter által alapított díjak bármelyikével elismert katona jogosult az arra utaló miniatűr jelvényt kitűzni. A miniatűr jelvény a köznapi és a társasági zubbony fazon részén, a baloldali kihajtó széleitől 1-1 cm-re feltűzve viselhető.
+
+132/A.[^325] Az állomány tagja által viselhető kitüntetések sorrendje a következő:
+
+1. Magyar Szent István Rend
+
+2. Magyar Becsület Rend
+
+3. Magyar Érdemrend nagykeresztje a nyaklánccal és az arany sugaras csillaggal
+
+4. Magyar Érdemrend nagykeresztje (Magyar Köztársasági Érdemrend nagykeresztje)
+
+5. Magyar Érdemrend középkeresztje a csillaggal (Magyar Köztársasági Érdemrend középkeresztje a csillaggal)
+
+6. Magyar Érdemrend középkeresztje (Magyar Köztársasági Érdemrend középkeresztje)
+
+7. Magyar Érdemrend tisztikeresztje (Magyar Köztársasági Érdemrend tisztikeresztje)
+
+8. Magyar Érdemrend lovagkeresztje (Magyar Köztársasági Érdemrend lovagkeresztje)
+
+9. Magyar Arany Érdemkereszt (Magyar Köztársasági Arany Érdemkereszt)
+
+10. Magyar Ezüst Érdemkereszt (Magyar Köztársasági Ezüst Érdemkereszt)
+
+11. Magyar Bronz Érdemkereszt (Magyar Köztársasági Bronz Érdemkereszt)
+
+12. Magyar Köztársaság rubinokkal ékesített Zászlórendje
+
+13. Magyar Köztársaság babérkoszorúval ékesített Zászlórendje
+
+14. Magyar Köztársaság Zászlórendje
+
+15. Magyar Köztársaság aranykoszorúval díszített Csillagrendje
+
+16. Magyar Köztársaság kardokkal díszített Csillagrendje
+
+17. Magyar Köztársaság Csillagrendje
+
+18. Hazáért Érdemjel (Hazáért Kitüntető Cím)
+
+19. Kardokkal ékesített Szolgálati Érdemjel arany fokozat
+
+20. Szolgálati Érdemjel Babérkoszorúval ékesített arany fokozat (Babérkoszorúval Ékesített Szolgálati Érdemjel)
+
+21. Honvédelemért Kitüntető Cím Babérkoszorúval ékesített fokozat
+
+22. Szolgálati Emlékjel
+
+23. Szolgálati Érdemjel arany fokozat [Szolgálati Jel (érdem utáni) I. osztálya]
+
+24. Honvédelemért Kitüntető Cím I. fokozat (Honvédelemért Kitüntető Cím I. osztálya)
+
+25. Aranykor Kitüntető Cím arany fokozat
+
+26. Magyar Hadisírgondozásért Kitüntető Cím arany fokozat (Magyar Hadisírgondozásért Kitüntető Cím I. osztálya)
+
+27. Kardokkal ékesített Szolgálati Érdemjel ezüst fokozat
+
+28. Szolgálati Érdemjel ezüst fokozat [Szolgálati Jel (érdem utáni) II. osztálya]
+
+29. Honvédelemért Kitüntető Cím II. fokozat (Honvédelemért Kitüntető Cím II. osztálya)
+
+30. Aranykor Kitüntető Cím ezüst fokozat
+
+31. Magyar Hadisírgondozásért Kitüntető Cím ezüst fokozat (Magyar Hadisírgondozásért Kitüntető Cím II. osztálya)
+
+32. Kardokkal ékesített Szolgálati Érdemjel bronz fokozat
+
+33. Szolgálati Érdemjel bronz fokozat [Szolgálati Jel (érdem utáni) III. osztálya]
+
+34. Honvédelemért Kitüntető Cím III. fokozat (Honvédelemért Kitüntető Cím III. osztálya)
+
+35. Aranykor Kitüntető Cím bronz fokozat
+
+36. Magyar Hadisírgondozásért Kitüntető Cím bronz fokozat (Magyar Hadisírgondozásért Kitüntető Cím III. osztálya)
+
+37. Első Tűzharcért Szolgálati Jel
+
+38. Békefenntartásért Szolgálati Jel
+
+39. Katasztrófa-elhárításért Szolgálati Jel [Árvízvédelemért Szolgálati Jel, Katasztrófa-elhárításért Szolgálati Jel (2010)]
+
+40. Migrációs Válsághelyzet Kezeléséért Szolgálati Jel
+
+41. Külszolgálatért Szolgálati Jel (NATO/EU/EBESZ/ENSZ Szolgálati Érdemérem)
+
+42. Sebesülési Emlékérem (Sebesülési Szolgálati Érdemjel)
+
+43. Tiszti Szolgálati Jel Babérkoszorúval ékesített fokozata, Altiszti-legénységi Szolgálati Jel Babérkoszorúval ékesített fokozata
+
+44. Tiszti Szolgálati Jel I. fokozata, Altiszti-legénységi Szolgálati Jel I. fokozata (Altiszti Szolgálati Jel I. fokozata, Tiszthelyettesi Szolgálati Jel I. fokozata)
+
+45. Tiszti Szolgálati Jel II. fokozata, Altiszti-legénységi Szolgálati Jel II. fokozata (Altiszti Szolgálati Jel II. fokozata, Tiszthelyettesi Szolgálati Jel II. fokozata)
+
+46. Legénységi Szolgálati Jel I. fokozata
+
+47. Tiszti Szolgálati Jel III. fokozata, Altiszti-legénységi Szolgálati Jel III. fokozata (Altiszti Szolgálati Jel III. fokozata, Tiszthelyettesi Szolgálati Jel III. fokozata)
+
+48. Legénységi Szolgálati Jel II. fokozata
+
+49. Legénységi Szolgálati Jel III. fokozata
+
+50. Független Demokratikus Magyarországért Emlékérem
+
+51. 1945 előtt alapított kitüntetések, az 1944. évi viselési sornak megfelelően
+
+52. 1945–1990 között alapított kitüntetések, az 1989. évben hatályos viselési sornak megfelelően (viselésük csak szalagsávon engedélyezett)
+
+53. Más miniszteri elismerések az adományozás sorrendjében
+
+54. Külföldi kitüntetések az adományozás sorrendjében
 
 Jelvények viselésének rendje
 
@@ -5286,13 +5414,13 @@ Jelvények viselésének rendje
 
 134. A hivatásos állomány közvetlenül a jobb zsebtakaró fölött hivatásos állománykategóriát kifejező hímzett jelvényt visel a következők szerint:
 
-a)[^321] a köznapi és társasági zubbonyon, női köznapi zubbonyon, női társasági kosztümkabáton, női mellényen a tábornok, főtiszt, tiszt, zászlós arany, az altiszt ezüst alapszínben, színes kivitelben, az általános öltözetet viselő állomány részére barna, a légierő által viselt és a hadihajós öltözetet viselő állomány részére sötétkék alapra hímzetten felvarrva,
+a)[^326] a köznapi és társasági zubbonyon, női köznapi zubbonyon, női társasági kosztümkabáton, női mellényen a tábornok, főtiszt, tiszt, zászlós arany, az altiszt ezüst alapszínben, színes kivitelben, az általános öltözetet viselő állomány részére barna, a légierő által viselt és a hadihajós öltözetet viselő állomány részére sötétkék alapra hímzetten felvarrva,
 
-b)[^322] a társasági fehér ingen a tábornok, főtiszt, tiszt, zászlós sárga, az altiszt szürke színben, műselyemmel hímzett színes kivitelben fehér alapra hímzetten felvarrva,
+b)[^327] a társasági fehér ingen a tábornok, főtiszt, tiszt, zászlós sárga, az altiszt szürke színben, műselyemmel hímzett színes kivitelben fehér alapra hímzetten felvarrva,
 
-c)[^323] a köznapi ingen, ingblúzon a tábornok, tiszt, zászlós sárga, az altiszt szürke színben, egyszínű műselyemmel hímzett kivitelben, az általános öltözetet viselő állomány részére barna, a légierő által viselt és a hadihajós öltözetet viselő állomány részére világoskék alapra hímzetten felvarrva,
+c)[^328] a köznapi ingen, ingblúzon a tábornok, tiszt, zászlós sárga, az altiszt szürke színben, egyszínű műselyemmel hímzett kivitelben, az általános öltözetet viselő állomány részére barna, a légierő által viselt és a hadihajós öltözetet viselő állomány részére világoskék alapra hímzetten felvarrva,
 
-d)[^324] a hivatásos állományt kifejező hímzett jelvény helyett
+d)[^329] a hivatásos állományt kifejező hímzett jelvény helyett
 
 da) a nyugállományú katona nyugállományt kifejező hímzett jelvényt,
 
@@ -5310,29 +5438,29 @@ df) a palotaőr palotaőri állományt kifejező színes jelvényt visel a tábo
 
 a) a tábornok, főtiszt, tiszt a hazai felsőfokú oktatási intézményben (vezérkari tanfolyam, egyetem, főiskola, polgári egyetem és főiskola) szerzett, oklevéllel (diplomával) tanúsított végzettséget kifejező jelvényt arany, illetve ezüst kivitelben, az intézményt megjelenítő jelzéssel,
 
-b)[^325] a zászlós és altiszt a Magyar Honvédség tiszthelyettes-képző katonai oktatási intézményben szerzett végzettséget kifejező jelvényt,
+b)[^330] a zászlós és altiszt a Magyar Honvédség tiszthelyettes-képző katonai oktatási intézményben szerzett végzettséget kifejező jelvényt,
 
 c) a végzettséget tanúsító képzettségi jelvények közül csak egy, a legmagasabb végzettséget tanúsító viselhető.
 
 136. A külföldi oktatási intézmény által adott, oklevéllel tanúsított képzettségi – az önkényuralmi jelképek használatáról szóló 1993. évi XLV. törvény előírásaiba nem ütköző – jelvényt visel a hivatásos katona a bal zsebtakaró alatt a zsebközépre helyezve a köznapi és társasági zubbonyon.
 
-137.[^326] az MH tényleges állományának tagja, ha beosztásában a rendszeresített haditechnikai eszközt kezeli (vezeti stb.), és az osztályba sorolás követelményeinek eleget tett, osztályos kezelői fokozatot kifejező jelvényt visel az alábbiak szerint:
+137.[^331] az MH tényleges állományának tagja, ha beosztásában a rendszeresített haditechnikai eszközt kezeli (vezeti stb.), és az osztályba sorolás követelményeinek eleget tett, osztályos kezelői fokozatot kifejező jelvényt visel az alábbiak szerint:
 
-a)[^327] a repülőhajózó hivatásos szakállomány a Repülőgép- és helikoptervezető jelvényt, meghatározott képzettségi szint fölött az Aranykoszorús Repülőgép- és helikoptervezető jelvényt a köznapi és társasági zubbony bal felső zsebtakaró tűzésén, illetve a 2003 M repülőhajózó overall mellrészén elhelyezve, hímzett kivitelben viseli,
+a)[^332] a repülőhajózó hivatásos szakállomány a Repülőgép- és helikoptervezető jelvényt, meghatározott képzettségi szint fölött az Aranykoszorús Repülőgép- és helikoptervezető jelvényt a köznapi és társasági zubbony bal felső zsebtakaró tűzésén, illetve a 2003 M repülőhajózó overall mellrészén elhelyezve, hímzett kivitelben viseli,
 
-b)[^328] a repülőfedélzeti beosztást ellátó hivatásos szakállomány a Repülőfedélzeti beosztást ellátó szakszemélyzet jelvényt, meghatározott képzettségi szint fölött az Aranykoszorús Repülőfedélzeti beosztást ellátó szakszemélyzet jelvényt a köznapi és társasági zubbony bal felső zsebtakaró tűzésén, illetve a 2003 M repülőhajózó overall mellrészén elhelyezve, hímzett kivitelben viseli,
+b)[^333] a repülőfedélzeti beosztást ellátó hivatásos szakállomány a Repülőfedélzeti beosztást ellátó szakszemélyzet jelvényt, meghatározott képzettségi szint fölött az Aranykoszorús Repülőfedélzeti beosztást ellátó szakszemélyzet jelvényt a köznapi és társasági zubbony bal felső zsebtakaró tűzésén, illetve a 2003 M repülőhajózó overall mellrészén elhelyezve, hímzett kivitelben viseli,
 
-c)[^329] a repülő-műszaki beosztású hivatásos és szerződéses tiszt, altiszt szakállomány a Repülő-műszaki jelvényt, meghatározott képzettségi szint fölött a Mester fokozatú Repülő-műszaki jelvényt a köznapi és társasági zubbony bal felső zsebtakaró tűzésén viseli,
+c)[^334] a repülő-műszaki beosztású hivatásos és szerződéses tiszt, altiszt szakállomány a Repülő-műszaki jelvényt, meghatározott képzettségi szint fölött a Mester fokozatú Repülő-műszaki jelvényt a köznapi és társasági zubbony bal felső zsebtakaró tűzésén viseli,
 
-d)[^330] a vadászirányító-megfigyelő és légiforgalmi irányító hivatásos és szerződéses tiszt, altiszt szakállomány a Vadászirányító-megfigyelő és légiforgalmi irányító jelvényt, meghatározott képzettségi szint fölött a Mester fokozatú Vadászirányító-megfigyelő és légiforgalmi irányító jelvényt a köznapi és társasági zubbony bal felső zsebtakaró tűzésén viseli,
+d)[^335] a vadászirányító-megfigyelő és légiforgalmi irányító hivatásos és szerződéses tiszt, altiszt szakállomány a Vadászirányító-megfigyelő és légiforgalmi irányító jelvényt, meghatározott képzettségi szint fölött a Mester fokozatú Vadászirányító-megfigyelő és légiforgalmi irányító jelvényt a köznapi és társasági zubbony bal felső zsebtakaró tűzésén viseli,
 
-e)[^331] a hivatásos állomány a szárazföldi osztályos kezelői fokozatot jelző jelvényt (Mester, I., II., III. osztályú) a köznapi és társasági zubbony bal felső zsebének gombján, a zsebtakaró alá gombolva, illetve a gyakorlózubbony bal zseb zsebtakaróján hímzett kivitelben, a tisztesi rendfokozattal rendelkező, valamint a közkatona a szárazföldi osztályos kezelői fokozatot jelző jelvényt (I., II., III. osztályú) a gyakorlózubbony bal zseb zsebtakaróján hímzett kivitelben viseli,
+e)[^336] a hivatásos állomány a szárazföldi osztályos kezelői fokozatot jelző jelvényt (Mester, I., II., III. osztályú) a köznapi és társasági zubbony bal felső zsebének gombján, a zsebtakaró alá gombolva, illetve a gyakorlózubbony bal zseb zsebtakaróján hímzett kivitelben, a tisztesi rendfokozattal rendelkező, valamint a közkatona a szárazföldi osztályos kezelői fokozatot jelző jelvényt (I., II., III. osztályú) a gyakorlózubbony bal zseb zsebtakaróján hímzett kivitelben viseli,
 
-f)[^332] az ejtőernyős szakbeosztású hivatásos állomány az ejtőernyős osztályos kezelői fokozatot jelző jelvényt (Aranykoszorús, I., II., III. osztályú) a köznapi és társasági zubbony bal felső zseb zsebtakarója alatt a zsebközépre helyezve, illetve a gyakorlózubbony bal zseb zsebtakaróján, hímzett kivitelben, a tisztesi rendfokozattal rendelkező, valamint a közkatona az ejtőernyős osztályos kezelői fokozatot jelző jelvényt (I., II., III. osztályú) a gyakorlózubbony bal zseb zsebtakaróján, hímzett kivitelben viseli.
+f)[^337] az ejtőernyős szakbeosztású hivatásos állomány az ejtőernyős osztályos kezelői fokozatot jelző jelvényt (Aranykoszorús, I., II., III. osztályú) a köznapi és társasági zubbony bal felső zseb zsebtakarója alatt a zsebközépre helyezve, illetve a gyakorlózubbony bal zseb zsebtakaróján, hímzett kivitelben, a tisztesi rendfokozattal rendelkező, valamint a közkatona az ejtőernyős osztályos kezelői fokozatot jelző jelvényt (I., II., III. osztályú) a gyakorlózubbony bal zseb zsebtakaróján, hímzett kivitelben viseli.
 
-138.[^333] Csapatjelvényt visel a hivatásos és a szerződéses tábornok, főtiszt, tiszt, zászlós, altiszt állomány a köznapi- és világoskék köznapi-, valamint a társasági fehér ing, az ingblúz és világoskék ingblúz, továbbá a köznapi- és világoskék köznapi-, valamint a társasági fehér női ing, a női ingblúz és világoskék női ingblúz bal zseb gombján a zsebtakaró alá gombolva. A csapatjelvény a csapatkarjelzés kicsinyített jelvényváltozata.
+138.[^338] Csapatjelvényt visel a hivatásos és a szerződéses tábornok, főtiszt, tiszt, zászlós, altiszt állomány a köznapi- és világoskék köznapi-, valamint a társasági fehér ing, az ingblúz és világoskék ingblúz, továbbá a köznapi- és világoskék köznapi-, valamint a társasági fehér női ing, a női ingblúz és világoskék női ingblúz bal zseb gombján a zsebtakaró alá gombolva. A csapatjelvény a csapatkarjelzés kicsinyített jelvényváltozata.
 
-139.[^334] A vezénylő zászlósi beosztást betöltő állomány
+139.[^339] A vezénylő zászlósi beosztást betöltő állomány
 
 a) vezénylő zászlósi jelvényt visel a köznapi- és világoskék köznapi-, valamint a társasági fehér ing, az ingblúz és világoskék ingblúz, továbbá a köznapi- és világoskék köznapi-, valamint a társasági fehér női ing, a női ingblúz és világoskék női ingblúz jobb zseb gombján a zsebtakaró alá gombolva,
 
@@ -5340,7 +5468,7 @@ b) textil kivitelű színes vezénylő zászlósi jelvényt visel a köznapi- é
 
 c) textil kivitelű gyakorló vezénylő zászlósi jelvényt visel a gyakorló zubbony bal zsebtakaróján középre felvarrva,
 
-d)[^335] a vezénylő zászlósi jelvény megkülönbözteti a Honvéd Vezérkar, az MH Összhaderőnemi Parancsnokság és csapatszintű vezénylő zászlósi beosztásokat.
+d)[^340] a vezénylő zászlósi jelvény megkülönbözteti a Honvéd Vezérkar, az MH Összhaderőnemi Parancsnokság és csapatszintű vezénylő zászlósi beosztásokat.
 
 140. A külön rendeletben meghatározott katonai vámügyi szerv katonai állományú tagja – a rendelet szerinti – jelvényét a köznapi és társasági zubbony bal felső zseb gombján, illetve a gyakorlózubbony bal zseb belső gombján, a zsebtakaró alá gombolva viseli.
 
@@ -5360,7 +5488,7 @@ c) átmeneti időszak: március 1-jétől – április 30-ig, október 1-jétől
 
 143. A védőcikkek – őrruha, szerelőoverall, téli védőbakancs, gumicsizma stb. – viselésének elrendeléséről az állományilletékes parancsnok, illetve munkahelyi vezető saját hatáskörében határoz.
 
-144.[^336] A légierőtől, illetve a hadihajós fegyvernemtől áthelyezett állomány az új szolgálati helyén, az állományilletékes parancsnok engedélyével a légierő által viselt, illetve a hadihajós köznapi és társasági öltözetet viselheti.
+144.[^341] A légierőtől, illetve a hadihajós fegyvernemtől áthelyezett állomány az új szolgálati helyén, az állományilletékes parancsnok engedélyével a légierő által viselt, illetve a hadihajós köznapi és társasági öltözetet viselheti.
 
 VII. Fejezet
 
@@ -5370,7 +5498,7 @@ KIHORDÁS ALATT LÉVŐ ÖLTÖZETEK
 
 145. Hadi- (gyakorló-) öltözetek
 
-A)[^337] A 65 M hadi- (gyakorló-) öltözetet (zöld) a tisztesi rendfokozattal rendelkező, illetve rendfokozat nélküli szerződéses állomány, továbbá a honvéd tisztjelölt, honvéd tiszthelyettes-jelölt viselheti kiképzési feladatai során, elsősorban a 90 M hadi- (gyakorló-) öltözet kímélése céljából.
+A)[^342] A 65 M hadi- (gyakorló-) öltözetet (zöld) a tisztesi rendfokozattal rendelkező, illetve rendfokozat nélküli szerződéses állomány, továbbá a honvéd tisztjelölt, honvéd tiszthelyettes-jelölt viselheti kiképzési feladatai során, elsősorban a 90 M hadi- (gyakorló-) öltözet kímélése céljából.
 
 Az öltözet változatai:
 
@@ -5598,11 +5726,11 @@ h) a katonanőkre a férfi katonákkal azonos előírások vonatkoznak,
 
 i) a 65 M általános, a 87 M ejtőernyős és a 87 M repülőszerelő hadi- (gyakorló-) öltözet 2006. december 31-ig viselhető,
 
-j)[^338] a 2000 M rövid ujjú nyári gyakorlózubbony 2018. december 31-ig viselhető,
+j)[^343] a 2000 M rövid ujjú nyári gyakorlózubbony 2018. december 31-ig viselhető,
 
-k)[^339] a 65 M és 85 M bakancs 2014. december 31-ig viselhető.
+k)[^344] a 65 M és 85 M bakancs 2014. december 31-ig viselhető.
 
-D)[^340] A 93 M repülőhajózó hadi- (gyakorló-) öltözetet az MH tényleges repülőhajózó, helikoptervezető szakállománya viseli szakfeladat végrehajtásakor, készültségi szolgálatban, továbbá a 2003 M repülőhajózó hadi- (gyakorló-) öltözet kímélése céljából.
+D)[^345] A 93 M repülőhajózó hadi- (gyakorló-) öltözetet az MH tényleges repülőhajózó, helikoptervezető szakállománya viseli szakfeladat végrehajtásakor, készültségi szolgálatban, továbbá a 2003 M repülőhajózó hadi- (gyakorló-) öltözet kímélése céljából.
 
 Az öltözet változatai:
 
@@ -5668,37 +5796,37 @@ a) a gyakorlópulóver a téli, illetve a nyári hajózó zubbony alatt viselend
 
 b) a 93 M repülőhajózó hadi- (gyakorló-) öltözet 2008. december 31-ig viselhető.
 
-E)[^341] A 90 M és 2000 M általános hadi-(gyakorló-) öltözethez a 90 M téli gyakorlókabát béléssel, a 95 M gyakorlópulóver, valamint a téli ing és téli alsó 2018. december 31-ig viselhető.
+E)[^346] A 90 M és 2000 M általános hadi-(gyakorló-) öltözethez a 90 M téli gyakorlókabát béléssel, a 95 M gyakorlópulóver, valamint a téli ing és téli alsó 2018. december 31-ig viselhető.
 
 Ingblúz
 
-146.[^342]
+146.[^347]
 
 Női ruha
 
-147.[^343]
+147.[^348]
 
 Hólos szoknya
 
-148.[^344]
+148.[^349]
 
 Nadrágszoknya
 
-149.[^345]
+149.[^350]
 
 Köznapi zubbony
 
-150.[^346]
+150.[^351]
 
-Köznapi kosztümkabát[^347]
+Köznapi kosztümkabát[^352]
 
-150/A.[^348] Az általános, a légierő által viselt és a hadihajós köznapi öltözetet viselő katonanő a köznapi kosztümkabátot, illetőleg a sötétkék köznapi kosztümkabátot (a hivatásos és szerződéses főtiszt, tiszt, zászlós arany, a tiszthelyettes ezüst színű) hímzett hivatásos állományt kifejező jelvénnyel, hímzett köznapi rendfokozati jelzéssel, névkitűzővel 2010. december 31-ig, a honvéd tisztjelölt nő a köznapi kosztümkabátot hímzett köznapi rendfokozati jelzéssel, névkitűzővel 2014. december 31-ig viselheti.
+150/A.[^353] Az általános, a légierő által viselt és a hadihajós köznapi öltözetet viselő katonanő a köznapi kosztümkabátot, illetőleg a sötétkék köznapi kosztümkabátot (a hivatásos és szerződéses főtiszt, tiszt, zászlós arany, a tiszthelyettes ezüst színű) hímzett hivatásos állományt kifejező jelvénnyel, hímzett köznapi rendfokozati jelzéssel, névkitűzővel 2010. december 31-ig, a honvéd tisztjelölt nő a köznapi kosztümkabátot hímzett köznapi rendfokozati jelzéssel, névkitűzővel 2014. december 31-ig viselheti.
 
 VIII. Fejezet
 
 ÖLTÖZETEK, RUHÁZATI CIKKEK RENDSZERESÍTÉSE, RENDSZERBŐL TÖRTÉNŐ KIVONÁSA
 
-151.[^349] A gyakorló, a köznapi, az ünnepi, a társasági, az estélyi, a díszelgő, valamint a sportöltözet körébe tartozó ruházati cikkek viselésének szabályozását, rendszeresítését, a rendszerből történő kivonását, a kihordás alatt lévő öltözetek és ruházati cikkek viselésének szabályozását a Honvéd Vezérkar főnöke javaslata alapján a honvédelmi miniszter végzi.
+151.[^354] A gyakorló, a köznapi, az ünnepi, a társasági, az estélyi, a díszelgő, valamint a sportöltözet körébe tartozó ruházati cikkek viselésének szabályozását, rendszeresítését, a rendszerből történő kivonását, a kihordás alatt lévő öltözetek és ruházati cikkek viselésének szabályozását a Honvéd Vezérkar főnöke javaslata alapján a honvédelmi miniszter végzi.
 
 [^2]: A melléklet 1. pontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
 [^3]: A melléklet 2. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
@@ -5724,327 +5852,332 @@ VIII. Fejezet
 [^23]: A melléklet 27. pontja a 21/2009. (XII. 29.) HM rendelet 2. §-ával megállapított szöveg.
 [^24]: A melléklet 30. pontjának a) alpontja a 12/2008. (V. 29.) HM rendelet 4. §-ával megállapított szöveg.
 [^25]: A melléklet 40. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^26]: A melléklet 40. pontjának c) alpontja a 42/2005. (XI. 29.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^27]: A melléklet 40. pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^28]: A melléklet 40. pontjának m) alpontja a 42/2005. (XI. 29.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^29]: A melléklet 40. pontjának p) alpontja a 42/2005. (XI. 29.) HM rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^30]: A melléklet 40. pontjának t) alpontját a 42/2005. (XI. 29.) HM rendelet 4. § (4) bekezdése iktatta be.
-[^31]: A melléklet 40. pont u) alpontját a 21/2009. (XII. 29.) HM rendelet 3. §-a iktatta be.
-[^32]: A melléklet 42. pontja és az azt megelőző alcím a 21/2009. (XII. 29.) HM rendelet 4. §-ával megállapított szöveg.
-[^33]: A melléklet 44. pont a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^34]: A melléklet 45. A) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^35]: A melléklet 45. pont A) alpontjának „Az öltözet változatai:” szövegrésze a 21/2009. (XII. 29.) HM rendelet 5. §-a szerint módosított szöveg.
-[^36]: A melléklet 45. B) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^37]: A melléklet 45. C) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^38]: A melléklet 45. C) pont a) alpontja a 21/2009. (XII. 29.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^39]: A melléklet 45. C) pont b) alpontja a 21/2009. (XII. 29.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^40]: A melléklet 45. C) pont c) alpontja a 21/2009. (XII. 29.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^41]: A melléklet 45. C) pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^42]: A melléklet 45. C) pont e) alpontja a 21/2009. (XII. 29.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^43]: A melléklet 45. C) pont f) alpontja a 21/2009. (XII. 29.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^44]: A melléklet 45. C) pont g) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^45]: A melléklet 45. C) pont h) alpontja a 21/2009. XII. 29.) HM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^46]: A melléklet 45. C) pont i) alpontja a 21/2009. (XII. 29.) HM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^47]: A melléklet 45. C) pont j) alpontja a 21/2009. XII. 29.) HM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^48]: A melléklet 45. C) pont m) alpontja a 42/2005. (XI. 29.) HM rendelet 5. § (4) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^49]: A melléklet 45. C) pont n) alpontja a 21/2009. XII. 29.) HM rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^50]: A melléklet 45. C) pont p) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^51]: A melléklet 45. C) pont r) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^52]: A melléklet 45. C) pont v) alpontja a 21/2009. (XII. 29.) HM rendelet 6. § (4) bekezdésével megállapított szöveg.
-[^53]: A melléklet 45. C) pont v) alpont vh) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^54]: A melléklet 45. C) pont v) alpont vi) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^55]: A melléklet 45. pont C) pontjának y) alpontját a 42/2005. (XI. 29.) HM rendelet 5. § (7) bekezdése iktatta be, szövege a 12/2008. (V. 29.) HM rendelet 5. § (3) bekezdésével megállapított szöveg.
-[^56]: A melléklet 45. C) pont z) alpontját a 21/2009. XII. 29.) HM rendelet 6. § (5) bekezdése iktatta be.
-[^57]: A melléklet 45. C) pont z) alpont zb) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^58]: A melléklet 45. D) pont nyitó szövegrésze a 12/2008. (V. 29.) HM rendelet 5. § (4) bekezdése, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^59]: A melléklet 45. D) pont 16. változata a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^60]: A melléklet 45. D) pont 17. változata a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^61]: A melléklet 45. D) pont 18. változata a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés c) pontja szerint módosított szöveg.
-[^62]: A melléklet 45. D) pont b) alpontja a 21/2009. XII. 29.) HM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^63]: A melléklet 45. pont D) pontjának c) alpontja a 42/2005. (XI. 29.) HM rendelet 5. § (9) bekezdésével megállapított szöveg.
-[^64]: A melléklet 45. D) pont e) alpontját a 21/2009. XII. 29.) HM rendelet 7. § (2) bekezdése iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^65]: A melléklet 45. E) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^66]: A melléklet 45. E) pont a) alpontja a 21/2009. XII. 29.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^67]: A melléklet 45. E) pont b) alpontja a 21/2009. XII. 29.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^68]: A melléklet 45. E) pont c) alpontja a 21/2009. XII. 29.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^69]: A melléklet 45. pont E) pontjának j) alpontja a 42/2005. (XI. 29.) HM rendelet 5. § (11) bekezdése szerint módosított szöveg.
-[^70]: A melléklet 45. E) pont m) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^71]: A melléklet 45. E) pontjának n) alpontját a 12/2008. (V. 29.) HM rendelet 5. § (5) bekezdése iktatta be.
-[^72]: A melléklet 45. E) pontjának o) alpontját a 12/2008. (V. 29.) HM rendelet 5. § (5) bekezdése iktatta be.
-[^73]: A melléklet 45. E) pont p) alpontját a 21/2009. XII. 29.) HM rendelet 8. § (2) bekezdése iktatta be.
-[^74]: A melléklet 45. F) pontja a 12/2008. (V. 29.) HM rendelet 24. § (5) bekezdése, nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^75]: A melléklet 45. F) pont a) alpontja a 21/2009. XII. 29.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^76]: A melléklet 45. pont F) pontjának e) alpontja a 42/2005. (XI. 29.) HM rendelet 5. § (11) bekezdése szerint módosított szöveg.
-[^77]: A melléklet 45. pont F) pontjának g) alpontja a 42/2005. (XI. 29.) HM rendelet 5. § (13) bekezdésével megállapított szöveg.
-[^78]: A melléklet 45. F) pont i) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^79]: A melléklet 45. F) pontjának j) alpontját a 12/2008. (V. 29.) HM rendelet 5. § (6) bekezdése iktatta be.
-[^80]: A melléklet 45. F) pont k) alpontját a 21/2009. XII. 29.) HM rendelet 9. § (2) bekezdése iktatta be.
-[^81]: A melléklet 45. G) pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^82]: A melléklet 46. pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^83]: A melléklet 46. A) pont nyitó szövegrésze a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés d) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^84]: A melléklet 46. B) pontjának bevezető szövegrésze a 12/2008. (V. 29.) HM rendelet 6. § (1) bekezdésével megállapított, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés e) pontja szerint módosított szöveg.
-[^85]: A melléklet 46. B) pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^86]: A melléklet 46. B) pont b) alpontja a 21/2009. (XII. 29.) HM rendelet 11. § (1) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^87]: A melléklet 46. B) pontjának c) alpontja a 12/2008. (V. 29.) HM rendelet 6. § (2) bekezdésével megállapított szöveg.
-[^88]: A melléklet 46. B) pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^89]: A melléklet 46. B) pont e) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^90]: A melléklet 46. B) pont g) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^91]: A melléklet 46. B) pont h) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^92]: A melléklet 46. B) pont i) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^93]: A melléklet 46. B) pont j) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^94]: A melléklet 46. B) pont k) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^95]: A melléklet 46. B) pont l) alpontja a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés f) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^96]: A melléklet 46. B) pont m) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés g) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^97]: A melléklet 46. B) pontjának s) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
-[^98]: A melléklet 46. B) pont u) alpontját a 42/2005. (XI. 29.) HM rendelet 6. § (1) bekezdése iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^99]: A melléklet 46. B) pontjának v) alpontját a 12/2008. (V. 29.) HM rendelet 6. § (3) bekezdése iktatta be.
-[^100]: A melléklet 46. B) pont w) alpontját a 12/2008. (V. 29.) HM rendelet 6. § (3) bekezdése iktatta be, szövege a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés h) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^101]: A melléklet 46. B) pont x) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^102]: A melléklet 46. C) pont nyitó szövegrésze a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés i) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^103]: A melléklet 46. D) pontjának bevezető szövegrésze a 12/2008. (V. 29.) HM rendelet 6. § (4) bekezdésével megállapított, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés j) pontja szerint módosított szöveg.
-[^104]: A melléklet 46. D) pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^105]: A melléklet 46. D) pont b) alpontja a 21/2009. (XII. 29.) HM rendelet 12. § (1) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^106]: A melléklet 46. D) pontjának c) alpontja a 12/2008. (V. 29.) HM rendelet 6. § (5) bekezdésével megállapított szöveg.
-[^107]: A melléklet 46. D) pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^108]: A melléklet 46. D) pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^109]: A melléklet 46. D) pont g) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^110]: A melléklet 46. D) pont h) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^111]: A melléklet 46. D) pont i) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^112]: A melléklet 46. D) pont j) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^113]: A melléklet 46. D) pont k) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^114]: A melléklet 46. D) pont l) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés l) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^115]: A melléklet 46. D) pontjának t) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése alapján módosított szöveg.
-[^116]: A melléklet 46. pont D) pontjának w) alpontját a 42/2005. (XI. 29.) HM rendelet 6. § (2) bekezdése iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^117]: A melléklet 46. D) pontjának x) alpontját a 12/2008. (V. 29.) HM rendelet 6. § (6) bekezdése iktatta be.
-[^118]: A melléklet 46. D) pont y) alpontját a 12/2008. (V. 29.) HM rendelet 6. § (6) bekezdése iktatta be, szövege a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés m) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^119]: A melléklet 46. D) pont z) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^120]: A melléklet 47. pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^121]: A melléklet 47. A) pont nyitó szövegrésze a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés o) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^122]: A melléklet 47. B) pontjának bevezető szövegrésze a 12/2008. (V. 29.) HM rendelet 7. § (1) bekezdésével megállapított, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés p) pontja szerint módosított szöveg.
-[^123]: A melléklet 47. B) pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^124]: A melléklet 47. B) pont b) alpontja a 21/2009. (XII. 29.) HM rendelet 13. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^125]: A melléklet 47. B) pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^126]: A melléklet 47. B) pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^127]: A melléklet 47. B) pont g) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^128]: A melléklet 47. B) pont h) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^129]: A melléklet 47. B) pont i) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^130]: A melléklet 47. B) pont j) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^131]: A melléklet 47. B) pontjának k) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés r) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^132]: A melléklet 47. B) pontjának n) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
-[^133]: A melléklet 47. B) pontjának q) alpontját a 12/2008. (V. 29.) HM rendelet 7. § (2) bekezdése iktatta be.
-[^134]: A melléklet 47. B) pontjának r) alpontját a 12/2008. (V. 29.) HM rendelet 7. § (2) bekezdése iktatta be.
-[^135]: A melléklet 47. B) pont s) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^136]: A melléklet 47. C) pont nyitó szövegrésze a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés s) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^137]: A melléklet 47. D) pontjának bevezető szövegrésze a 12/2008. (V. 29.) HM rendelet 7. § (3) bekezdésével megállapított, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés t) pontja szerint módosított szöveg.
-[^138]: A melléklet 47. D) pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^139]: A melléklet 47. D) pont b) alpontja a 21/2009. (XII. 29.) HM rendelet 14. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^140]: A melléklet 47. D) pont e) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^141]: A melléklet 47. D) pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^142]: A melléklet 47. D) pont g) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^143]: A melléklet 47. D) pont h) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^144]: A melléklet 47. D) pont i) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^145]: A melléklet 47. D) pontjának j) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés v) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^146]: A melléklet 47. D) pontjának m) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
-[^147]: A melléklet 47. D) pontjának q) pontját a 12/2008. (V. 29.) HM rendelet 7. § (4) bekezdése iktatta be.
-[^148]: A melléklet 47. D) pont r) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^149]: A melléklet 48. pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^150]: A melléklet 48. B) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^151]: A melléklet 48. C) pont nyitó szövegrésze a 12/2008. (V. 29.) HM rendelet 8. § (1) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^152]: A melléklet 48. C) pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^153]: A melléklet 48. C) pont g) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^154]: A melléklet 48. C) pontjának i) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
-[^155]: A melléklet 48. C) pont k) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^156]: A melléklet 48. C) pontjának m) pontját a 12/2008. (V. 29.) HM rendelet 8. § (2) bekezdése iktatta be.
-[^157]: A melléklet 48. C) pontjának n) pontját a 12/2008. (V. 29.) HM rendelet 8. § (2) bekezdése iktatta be.
-[^158]: A melléklet 48. C) pont o) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^159]: A melléklet 48. E) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^160]: A melléklet 48. F) pont nyitó szövegrésze a 12/2008. (V. 29.) HM rendelet 8. § (3) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^161]: A melléklet 48. F) pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^162]: A melléklet 48. F) pont g) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^163]: A melléklet 48. F) pontjának k) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
-[^164]: A melléklet 48. F) pontjának o) alpontját a 12/2008. (V. 29.) HM rendelet 8. § (4) bekezdése iktatta be.
-[^165]: A melléklet 48. F) pont p) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^166]: A melléklet 49. pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^167]: A melléklet 49. B) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^168]: A melléklet 49. C) pont nyitó szövegrésze a 12/2008. (V. 29.) HM rendelet 9. § (1) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^169]: A melléklet 49. C) pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^170]: A melléklet 49. C) pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^171]: A melléklet 49. C) pontjának f) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
-[^172]: A melléklet 49. C) pontjának g) alpontját a 12/2008. (V. 29.) HM rendelet 9. § (2) bekezdése iktatta be.
-[^173]: A melléklet 49. C) pontjának h) alpontját a 12/2008. (V. 29.) HM rendelet 9. § (2) bekezdése iktatta be.
-[^174]: A melléklet 49. C) pont i) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^175]: A melléklet 49. E) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^176]: A melléklet 49. F) pont nyitó szövegrésze a 12/2008. (V. 29.) HM rendelet 9. § (3) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^177]: A melléklet 49. F) pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^178]: A melléklet 49. F) pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^179]: A melléklet 49. F) pontjának f) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
-[^180]: A melléklet 49. F) pontjának h) alpontját a 12/2008. (V. 29.) HM rendelet 9. § (4) bekezdése iktatta be.
-[^181]: A melléklet 49. F) pont i) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^182]: A melléklet 49. G) pontját a 21/2009. (XII. 29.) HM rendelet 15. §-a iktatta be.
-[^183]: A melléklet 50. pontját megelőző cím a 12/2008. (V. 29.) HM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^184]: A melléklet 50. pontját megelőző alcím a 12/2008. (V. 29.) HM rendelet 10. § (1) bekezdésével megállapított szöveg.
-[^185]: A melléklet 50. pont nyitó szövegrésze a 12/2008. (V. 29.) HM rendelet 10. § (2) bekezdése, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^186]: A melléklet 50. A) pontja a 12/2008. (V. 29.) HM rendelet 24. § (5) bekezdése, nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^187]: A melléklet 50. B) pontja a 12/2008. (V. 29.) HM rendelet 24. § (5) bekezdése szerint módosított, nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^188]: A melléklet 50. pont B) pontjának télen viselendő öltözet 1. változata a 42/2005. (XI. 29.) HM rendelet 8. § (1) bekezdése szerint módosított szöveg.
-[^189]: A melléklet 50. pont B) pontjának átmeneti és nyári időszakban viselendő öltözet 2. változata a 42/2005. (XI. 29.) HM rendelet 8. § (1) bekezdése szerint módosított szöveg.
-[^190]: A melléklet 50. B) pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^191]: A melléklet 50. B) pont d) alpontját a 42/2005. (XI. 29.) HM rendelet 8. § (2) bekezdése iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^192]: A melléklet 50. B) pont e) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^193]: A melléklet 50/A. pontját megelőző alcímet a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^194]: A melléklet 50/A. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^195]: A melléklet 50/B. pontját megelőző alcímet a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^196]: A melléklet 50/B. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^197]: A melléklet 50/C. pontját megelőző alcímet a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^198]: A melléklet 50/C. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^199]: A melléklet 51. pontja a 12/2008. (V. 29.) HM rendelet 11. §-ával megállapított szöveg.
-[^200]: A melléklet 51. A) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^201]: A melléklet 51. A) pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^202]: A melléklet 51. A) pont i) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^203]: A melléklet 51. B) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^204]: A melléklet 51. B) pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^205]: A melléklet 51. B) pont j) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^206]: A melléklet 52. pontja a 21/2009. (XII. 29.) HM rendelet 16. §-ával megállapított szöveg.
-[^207]: A melléklet 52/A. pontját a 21/2009. (XII. 29.) HM rendelet 17. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^208]: A melléklet 53. pont ötödik franciabekezdése a 42/2005. (XI. 29.) HM rendelet 10. §-a, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^209]: A melléklet 54. pontja a 12/2008. (V. 29.) HM rendelet 12. §-ával megállapított, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés w) pontja szerint módosított szöveg.
-[^210]: A melléklet 55. pontja a 42/2005. (XI. 29.) HM rendelet 10. §-a szerint módosított szöveg.
-[^211]: A melléklet 56. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^212]: A melléklet 57. pontjának b) alpontja a 12/2008. (V. 29.) HM rendelet 13. §-ával megállapított szöveg.
-[^213]: A melléklet 57. pontjának c) alpontja a 12/2008. (V. 29.) HM rendelet 13. §-ával megállapított szöveg.
-[^214]: A melléklet 57. pont e) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^215]: A melléklet 58. pontját megelőző alcím a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^216]: A melléklet 58. pontja a 21/2009. (XII. 29.) HM rendelet 18. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^217]: A melléklet 58/A. pontját a 21/2009. (XII. 29.) HM rendelet 19. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^218]: A melléklet 58/B. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^219]: A melléklet 59. pontját megelőző alcím a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^220]: A melléklet 59. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^221]: A melléklet 60. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^222]: A melléklet 61. pontját megelőző alcíme a 12/2008. (V. 29.) HM rendelet 24. § (5) bekezdése szerint módosított szöveg.
-[^223]: A melléklet 61. pontjának b) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (5) bekezdése szerint módosított szöveg.
-[^224]: A melléklet 68. pontja és az azt megelőző alcím a 21/2009. (XII. 29.) HM rendelet 20. §-ával megállapított szöveg.
-[^225]: A melléklet 69. pontja a 21/2009. (XII. 29.) HM rendelet 21. §-ával megállapított szöveg.
-[^226]: A melléklet 70. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^227]: A melléklet 70. pontjának b) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
-[^228]: A melléklet 75. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^229]: A melléklet 76. pont a) alpontja a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés x) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^230]: A melléklet 76. pont b) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (3) és (6) bekezdése, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés x) és y) pontja, valamint 40. § (4) bekezdése, 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^231]: A melléklet 76. pont c) alpontja a 21/2009. (XII. 29.) HM rendelet 22. §-ával megállapított szöveg.
-[^232]: A melléklet 77. pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^233]: A melléklet 77. pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^234]: A melléklet 77. pont e) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^235]: A melléklet 79. pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^236]: A melléklet 80. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^237]: A melléklet 80. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^238]: A melléklet 80. pont c) alpontja a 21/2009. (XII. 29.) HM rendelet 24. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^239]: A melléklet 81. pontjának a) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
-[^240]: A melléklet 81. pontjának b) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
-[^241]: A melléklet 83. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^242]: A melléklet 83. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^243]: A melléklet 84. pontjának a) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
-[^244]: A melléklet 84. pont b) alpontja a 21/2009. (XII. 29.) HM rendelet 25. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^245]: A melléklet 85. pont a) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^246]: A melléklet 85. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^247]: A melléklet 87. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^248]: A melléklet 87. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^249]: A melléklet 87. pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^250]: A melléklet 88. pontja a 12/2008. (V. 29.) HM rendelet 16. §-ával megállapított szöveg.
-[^251]: A melléklet 88. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^252]: A melléklet 88/A. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^253]: A melléklet 88/B. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^254]: A melléklet 88/C. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^255]: A melléklet 89. pontja a 21/2009. (XII. 29.) HM rendelet 27. §-ával megállapított, nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^256]: A melléklet 93/A. pontját a 12/2008. (V. 29.) HM rendelet 17. §-a iktatta be.
-[^257]: A melléklet 93/B. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^258]: A melléklet 95. pontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^259]: A melléklet 96. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^260]: A melléklet 99. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^261]: A melléklet 100. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^262]: A melléklet 101. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^263]: A melléklet 102. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^264]: A melléklet 103. pontja a 12/2008. (V. 29.) HM rendelet 24. § (3) bekezdése szerint módosított szöveg.
-[^265]: A melléklet 104. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^266]: A melléklet 104. pont c) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^267]: A melléklet 104. pont d) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^268]: A melléklet 105. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^269]: A melléklet 105. pont b) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (3) bekezdése, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^270]: A melléklet 105. pont c) alpontja a 12/2008. (V. 29.) HM rendelet 18. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^271]: A melléklet 105. pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^272]: A melléklet 105. pont e) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
-[^273]: A melléklet 106. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^274]: A melléklet 107. pontja a 42/2005. (XI. 29.) HM rendelet 11. §-ával megállapított szöveg.
-[^275]: A melléklet 107. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^276]: A melléklet 107. pont c) alpontját a 21/2009. (XII. 29.) HM rendelet 28. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^277]: A melléklet 108. pontja a 42/2005. (XI. 29.) HM rendelet 11. §-ával megállapított szöveg.
-[^278]: A melléklet 108. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^279]: A melléklet 108. pont c) alpontját a 21/2009. (XII. 29.) HM rendelet 29. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^280]: A melléklet 109. pontja a 42/2005. (XI. 29.) HM rendelet 11. §-ával megállapított szöveg.
-[^281]: A melléklet 109. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^282]: A melléklet 109. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^283]: A melléklet 109. pont c) alpontját a 21/2009. (XII. 29.) HM rendelet 30. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^284]: A melléklet 109. pont d) alpontját a 21/2009. (XII. 29.) HM rendelet 30. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^285]: A melléklet 110. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^286]: A melléklet 110. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^287]: A melléklet 110. pont c) alpontját a 21/2009. (XII. 29.) HM rendelet 31. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^288]: A melléklet 111. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^289]: A melléklet 112. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^290]: A melléklet 113. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^291]: A melléklet 114. pontja a 21/2009. (XII. 29.) HM rendelet 32. §-ával megállapított szöveg.
-[^292]: A melléklet 114. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^293]: A melléklet 114. pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^294]: A melléklet 114. pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^295]: A melléklet 114. pont e) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^296]: A melléklet 116. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^297]: A melléklet 117. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^298]: A melléklet 118. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^299]: A melléklet 119–120. pontját a 12/2008. (V. 29.) HM rendelet 24. § (2) bekezdése hatályon kívül helyezte.
-[^300]: A melléklet 121. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^301]: A melléklet 121. pontjának c) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
-[^302]: A melléklet 122. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^303]: A melléklet 122. pont c) alpontja a 21/2009. (XII. 29.) HM rendelet 33. § (1) bekezdésével megállapított szöveg.
-[^304]: A melléklet 122. pont d) alpontját a 21/2009. (XII. 29.) HM rendelet 33. § (2) bekezdése iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^305]: A melléklet 123. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^306]: A melléklet 123. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^307]: A melléklet 123. pont c) alpontja a 21/2009. (XII. 29.) HM rendelet 34. § (1) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^308]: A melléklet 123. pont d) alpontját a 21/2009. (XII. 29.) HM rendelet 34. § (2) bekezdése iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^309]: A melléklet 124. pontja a 21/2009. (XII. 29.) HM rendelet 35. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^310]: A melléklet 125. pontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^311]: A melléklet 126. pontja a 12/2008. (V. 29.) HM rendelet 21. §-ával megállapított szöveg.
-[^312]: A melléklet 127. pontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^313]: A melléklet 128. pontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
-[^314]: A melléklet 129. pontja a 21/2009. (XII. 29.) HM rendelet 36. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^315]: A melléklet 130. pontja a 12/2008. (V. 29.) HM rendelet 24. § (3) bekezdése szerint módosított szöveg.
-[^316]: A melléklet 131. pontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^317]: A melléklet 132. pontja a 12/2008. (V. 29.) HM rendelet 22. §-ával megállapított szöveg.
-[^318]: A melléklet 132. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^319]: A melléklet 132. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^320]: A melléklet 132. pont h) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^321]: A melléklet 134. pont a) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^322]: A melléklet 134. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^323]: A melléklet 134. pontjának c) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^324]: A melléklet 134. pont d) alpontját a 21/2009. (XII. 29.) HM rendelet 37. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^325]: A melléklet 135. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^326]: A melléklet 137. pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^327]: A melléklet 137. pontjának a) alpontja a 42/2005. (XI. 29.) HM rendelet 13. §-ával megállapított szöveg.
-[^328]: A melléklet 137. pontjának új b) alpontját a 42/2005. (XI. 29.) HM rendelet 13. §-a iktatta be, egyidejűleg az eredeti b) alpontjának jelölését e) alpontra változtatta.
-[^329]: A melléklet 137. pont új c) alpontját a 42/2005. (XI. 29.) HM rendelet 13. §-a iktatta be, egyidejűleg az eredeti c) alpontjának jelölését f) alpontra változtatta. A melléklet 137. pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^330]: A melléklet 137. pontjának d) alpontját a 42/2005. (XI. 29.) HM rendelet 13. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^331]: A melléklet 137. pontjának eredeti b) alpontjának jelölését e) alpontra változtatta a 42/2005. (XI. 29.) HM rendelet 13. §-a. A melléklet 137. pont e) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^332]: A melléklet 137. pontjának eredeti c) alpontjának jelölését f) alpontra változtatta a 42/2005. (XI. 29.) HM rendelet 13. §-a. A melléklet 137. pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^333]: A melléklet 138. pontja a 21/2009. (XII. 29.) HM rendelet 38. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^334]: A melléklet 139. pontja a 21/2009. (XII. 29.) HM rendelet 38. §-ával megállapított szöveg.
-[^335]: A melléklet 139. pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^336]: A melléklet 144. pontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
-[^337]: A melléklet 145. A) pontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^338]: A melléklet 145. C) pont j) alpontját a 42/2005. (XI. 29.) HM rendelet 14. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^339]: A melléklet 145. pont C) pontjának k) alpontját a 42/2005. (XI. 29.) HM rendelet 14. §-a iktatta be.
-[^340]: A melléklet 145. D) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^341]: A melléklet 145. pont E) alpontját a 21/2009. (XII. 29.) HM rendelet 39. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
-[^342]: A melléklet 146. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a hatályon kívül helyezte.
-[^343]: A melléklet 147. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a hatályon kívül helyezte.
-[^344]: A melléklet 148. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a hatályon kívül helyezte.
-[^345]: A melléklet 149. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a hatályon kívül helyezte.
-[^346]: A melléklet 150. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a hatályon kívül helyezte.
-[^347]: A melléklet 150/A. pontjának alcímét a 12/2008. (V. 29.) HM rendelet 23. §-a iktatta be.
-[^348]: A melléklet 150/A. pontját a 12/2008. (V. 29.) HM rendelet 23. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
-[^349]: A melléklet 151. pontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^26]: A melléklet 40. pont b) alpontja a 20/2016. (IX. 30.) HM rendelet 1. §-a szerint módosított szöveg.
+[^27]: A melléklet 40. pontjának c) alpontja a 42/2005. (XI. 29.) HM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^28]: A melléklet 40. pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^29]: A melléklet 40. pontjának m) alpontja a 42/2005. (XI. 29.) HM rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^30]: A melléklet 40. pontjának p) alpontja a 42/2005. (XI. 29.) HM rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^31]: A melléklet 40. pontjának t) alpontját a 42/2005. (XI. 29.) HM rendelet 4. § (4) bekezdése iktatta be.
+[^32]: A melléklet 40. pont u) alpontját a 21/2009. (XII. 29.) HM rendelet 3. §-a iktatta be.
+[^33]: A melléklet 42. pontja és az azt megelőző alcím a 21/2009. (XII. 29.) HM rendelet 4. §-ával megállapított szöveg.
+[^34]: A melléklet 44. pont a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^35]: A melléklet 45. A) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^36]: A melléklet 45. pont A) alpontjának „Az öltözet változatai:” szövegrésze a 21/2009. (XII. 29.) HM rendelet 5. §-a szerint módosított szöveg.
+[^37]: A melléklet 45. B) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^38]: A melléklet 45. C) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^39]: A melléklet 45. C) pont a) alpontja a 21/2009. (XII. 29.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^40]: A melléklet 45. C) pont b) alpontja a 21/2009. (XII. 29.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^41]: A melléklet 45. C) pont c) alpontja a 21/2009. (XII. 29.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^42]: A melléklet 45. C) pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^43]: A melléklet 45. C) pont e) alpontja a 21/2009. (XII. 29.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^44]: A melléklet 45. C) pont f) alpontja a 21/2009. (XII. 29.) HM rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^45]: A melléklet 45. C) pont g) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^46]: A melléklet 45. C) pont h) alpontja a 21/2009. XII. 29.) HM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^47]: A melléklet 45. C) pont i) alpontja a 21/2009. (XII. 29.) HM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^48]: A melléklet 45. C) pont j) alpontja a 21/2009. XII. 29.) HM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^49]: A melléklet 45. C) pont m) alpontja a 42/2005. (XI. 29.) HM rendelet 5. § (4) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^50]: A melléklet 45. C) pont n) alpontja a 21/2009. XII. 29.) HM rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^51]: A melléklet 45. C) pont p) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^52]: A melléklet 45. C) pont r) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^53]: A melléklet 45. C) pont v) alpontja a 21/2009. (XII. 29.) HM rendelet 6. § (4) bekezdésével megállapított szöveg.
+[^54]: A melléklet 45. C) pont v) alpont vh) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^55]: A melléklet 45. C) pont v) alpont vi) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^56]: A melléklet 45. pont C) pontjának y) alpontját a 42/2005. (XI. 29.) HM rendelet 5. § (7) bekezdése iktatta be, szövege a 12/2008. (V. 29.) HM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^57]: A melléklet 45. C) pont z) alpontját a 21/2009. XII. 29.) HM rendelet 6. § (5) bekezdése iktatta be.
+[^58]: A melléklet 45. C) pont z) alpont zb) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^59]: A melléklet 45. D) pont nyitó szövegrésze a 12/2008. (V. 29.) HM rendelet 5. § (4) bekezdése, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^60]: A melléklet 45. D) pont 16. változata a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^61]: A melléklet 45. D) pont 17. változata a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^62]: A melléklet 45. D) pont 18. változata a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^63]: A melléklet 45. D) pont b) alpontja a 21/2009. XII. 29.) HM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^64]: A melléklet 45. pont D) pontjának c) alpontja a 42/2005. (XI. 29.) HM rendelet 5. § (9) bekezdésével megállapított szöveg.
+[^65]: A melléklet 45. D) pont e) alpontját a 21/2009. XII. 29.) HM rendelet 7. § (2) bekezdése iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^66]: A melléklet 45. E) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^67]: A melléklet 45. E) pont a) alpontja a 21/2009. XII. 29.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^68]: A melléklet 45. E) pont b) alpontja a 21/2009. XII. 29.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^69]: A melléklet 45. E) pont c) alpontja a 21/2009. XII. 29.) HM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^70]: A melléklet 45. pont E) pontjának j) alpontja a 42/2005. (XI. 29.) HM rendelet 5. § (11) bekezdése szerint módosított szöveg.
+[^71]: A melléklet 45. E) pont m) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^72]: A melléklet 45. E) pontjának n) alpontját a 12/2008. (V. 29.) HM rendelet 5. § (5) bekezdése iktatta be.
+[^73]: A melléklet 45. E) pontjának o) alpontját a 12/2008. (V. 29.) HM rendelet 5. § (5) bekezdése iktatta be.
+[^74]: A melléklet 45. E) pont p) alpontját a 21/2009. XII. 29.) HM rendelet 8. § (2) bekezdése iktatta be.
+[^75]: A melléklet 45. F) pontja a 12/2008. (V. 29.) HM rendelet 24. § (5) bekezdése, nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^76]: A melléklet 45. F) pont a) alpontja a 21/2009. XII. 29.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^77]: A melléklet 45. pont F) pontjának e) alpontja a 42/2005. (XI. 29.) HM rendelet 5. § (11) bekezdése szerint módosított szöveg.
+[^78]: A melléklet 45. pont F) pontjának g) alpontja a 42/2005. (XI. 29.) HM rendelet 5. § (13) bekezdésével megállapított szöveg.
+[^79]: A melléklet 45. F) pont i) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^80]: A melléklet 45. F) pontjának j) alpontját a 12/2008. (V. 29.) HM rendelet 5. § (6) bekezdése iktatta be.
+[^81]: A melléklet 45. F) pont k) alpontját a 21/2009. XII. 29.) HM rendelet 9. § (2) bekezdése iktatta be.
+[^82]: A melléklet 45. G) pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^83]: A melléklet 46. pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^84]: A melléklet 46. A) pont nyitó szövegrésze a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés d) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^85]: A melléklet 46. B) pontjának bevezető szövegrésze a 12/2008. (V. 29.) HM rendelet 6. § (1) bekezdésével megállapított, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^86]: A melléklet 46. B) pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^87]: A melléklet 46. B) pont b) alpontja a 21/2009. (XII. 29.) HM rendelet 11. § (1) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^88]: A melléklet 46. B) pontjának c) alpontja a 12/2008. (V. 29.) HM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^89]: A melléklet 46. B) pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^90]: A melléklet 46. B) pont e) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^91]: A melléklet 46. B) pont g) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^92]: A melléklet 46. B) pont h) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^93]: A melléklet 46. B) pont i) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^94]: A melléklet 46. B) pont j) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^95]: A melléklet 46. B) pont k) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^96]: A melléklet 46. B) pont l) alpontja a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés f) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^97]: A melléklet 46. B) pont m) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés g) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^98]: A melléklet 46. B) pontjának s) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
+[^99]: A melléklet 46. B) pont u) alpontját a 42/2005. (XI. 29.) HM rendelet 6. § (1) bekezdése iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^100]: A melléklet 46. B) pontjának v) alpontját a 12/2008. (V. 29.) HM rendelet 6. § (3) bekezdése iktatta be.
+[^101]: A melléklet 46. B) pont w) alpontját a 12/2008. (V. 29.) HM rendelet 6. § (3) bekezdése iktatta be, szövege a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés h) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^102]: A melléklet 46. B) pont x) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^103]: A melléklet 46. C) pont nyitó szövegrésze a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés i) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^104]: A melléklet 46. D) pontjának bevezető szövegrésze a 12/2008. (V. 29.) HM rendelet 6. § (4) bekezdésével megállapított, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés j) pontja szerint módosított szöveg.
+[^105]: A melléklet 46. D) pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^106]: A melléklet 46. D) pont b) alpontja a 21/2009. (XII. 29.) HM rendelet 12. § (1) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^107]: A melléklet 46. D) pontjának c) alpontja a 12/2008. (V. 29.) HM rendelet 6. § (5) bekezdésével megállapított szöveg.
+[^108]: A melléklet 46. D) pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^109]: A melléklet 46. D) pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^110]: A melléklet 46. D) pont g) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^111]: A melléklet 46. D) pont h) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^112]: A melléklet 46. D) pont i) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^113]: A melléklet 46. D) pont j) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^114]: A melléklet 46. D) pont k) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^115]: A melléklet 46. D) pont l) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés l) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^116]: A melléklet 46. D) pontjának t) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése alapján módosított szöveg.
+[^117]: A melléklet 46. pont D) pontjának w) alpontját a 42/2005. (XI. 29.) HM rendelet 6. § (2) bekezdése iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^118]: A melléklet 46. D) pontjának x) alpontját a 12/2008. (V. 29.) HM rendelet 6. § (6) bekezdése iktatta be.
+[^119]: A melléklet 46. D) pont y) alpontját a 12/2008. (V. 29.) HM rendelet 6. § (6) bekezdése iktatta be, szövege a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés m) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^120]: A melléklet 46. D) pont z) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^121]: A melléklet 47. pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^122]: A melléklet 47. A) pont nyitó szövegrésze a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés o) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^123]: A melléklet 47. B) pontjának bevezető szövegrésze a 12/2008. (V. 29.) HM rendelet 7. § (1) bekezdésével megállapított, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés p) pontja szerint módosított szöveg.
+[^124]: A melléklet 47. B) pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^125]: A melléklet 47. B) pont b) alpontja a 21/2009. (XII. 29.) HM rendelet 13. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^126]: A melléklet 47. B) pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^127]: A melléklet 47. B) pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^128]: A melléklet 47. B) pont g) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^129]: A melléklet 47. B) pont h) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^130]: A melléklet 47. B) pont i) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^131]: A melléklet 47. B) pont j) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^132]: A melléklet 47. B) pontjának k) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés r) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^133]: A melléklet 47. B) pontjának n) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
+[^134]: A melléklet 47. B) pontjának q) alpontját a 12/2008. (V. 29.) HM rendelet 7. § (2) bekezdése iktatta be.
+[^135]: A melléklet 47. B) pontjának r) alpontját a 12/2008. (V. 29.) HM rendelet 7. § (2) bekezdése iktatta be.
+[^136]: A melléklet 47. B) pont s) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^137]: A melléklet 47. C) pont nyitó szövegrésze a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés s) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^138]: A melléklet 47. D) pontjának bevezető szövegrésze a 12/2008. (V. 29.) HM rendelet 7. § (3) bekezdésével megállapított, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés t) pontja szerint módosított szöveg.
+[^139]: A melléklet 47. D) pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^140]: A melléklet 47. D) pont b) alpontja a 21/2009. (XII. 29.) HM rendelet 14. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^141]: A melléklet 47. D) pont e) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^142]: A melléklet 47. D) pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^143]: A melléklet 47. D) pont g) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^144]: A melléklet 47. D) pont h) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^145]: A melléklet 47. D) pont i) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^146]: A melléklet 47. D) pontjának j) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés v) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^147]: A melléklet 47. D) pontjának m) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
+[^148]: A melléklet 47. D) pontjának q) pontját a 12/2008. (V. 29.) HM rendelet 7. § (4) bekezdése iktatta be.
+[^149]: A melléklet 47. D) pont r) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^150]: A melléklet 48. pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^151]: A melléklet 48. B) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^152]: A melléklet 48. C) pont nyitó szövegrésze a 12/2008. (V. 29.) HM rendelet 8. § (1) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^153]: A melléklet 48. C) pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^154]: A melléklet 48. C) pont g) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^155]: A melléklet 48. C) pontjának i) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
+[^156]: A melléklet 48. C) pont k) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^157]: A melléklet 48. C) pontjának m) pontját a 12/2008. (V. 29.) HM rendelet 8. § (2) bekezdése iktatta be.
+[^158]: A melléklet 48. C) pontjának n) pontját a 12/2008. (V. 29.) HM rendelet 8. § (2) bekezdése iktatta be.
+[^159]: A melléklet 48. C) pont o) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^160]: A melléklet 48. E) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^161]: A melléklet 48. F) pont nyitó szövegrésze a 12/2008. (V. 29.) HM rendelet 8. § (3) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^162]: A melléklet 48. F) pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^163]: A melléklet 48. F) pont g) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^164]: A melléklet 48. F) pontjának k) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
+[^165]: A melléklet 48. F) pontjának o) alpontját a 12/2008. (V. 29.) HM rendelet 8. § (4) bekezdése iktatta be.
+[^166]: A melléklet 48. F) pont p) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^167]: A melléklet 49. pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^168]: A melléklet 49. B) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^169]: A melléklet 49. C) pont nyitó szövegrésze a 12/2008. (V. 29.) HM rendelet 9. § (1) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^170]: A melléklet 49. C) pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^171]: A melléklet 49. C) pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^172]: A melléklet 49. C) pontjának f) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
+[^173]: A melléklet 49. C) pontjának g) alpontját a 12/2008. (V. 29.) HM rendelet 9. § (2) bekezdése iktatta be.
+[^174]: A melléklet 49. C) pontjának h) alpontját a 12/2008. (V. 29.) HM rendelet 9. § (2) bekezdése iktatta be.
+[^175]: A melléklet 49. C) pont i) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^176]: A melléklet 49. E) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^177]: A melléklet 49. F) pont nyitó szövegrésze a 12/2008. (V. 29.) HM rendelet 9. § (3) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^178]: A melléklet 49. F) pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^179]: A melléklet 49. F) pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^180]: A melléklet 49. F) pontjának f) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
+[^181]: A melléklet 49. F) pontjának h) alpontját a 12/2008. (V. 29.) HM rendelet 9. § (4) bekezdése iktatta be.
+[^182]: A melléklet 49. F) pont i) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^183]: A melléklet 49. G) pontját a 21/2009. (XII. 29.) HM rendelet 15. §-a iktatta be.
+[^184]: A melléklet 50. pontját megelőző cím a 12/2008. (V. 29.) HM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^185]: A melléklet 50. pontját megelőző alcím a 12/2008. (V. 29.) HM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^186]: A melléklet 50. pont nyitó szövegrésze a 12/2008. (V. 29.) HM rendelet 10. § (2) bekezdése, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^187]: A melléklet 50. A) pontja a 12/2008. (V. 29.) HM rendelet 24. § (5) bekezdése, nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^188]: A melléklet 50. B) pontja a 12/2008. (V. 29.) HM rendelet 24. § (5) bekezdése szerint módosított, nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^189]: A melléklet 50. pont B) pontjának télen viselendő öltözet 1. változata a 42/2005. (XI. 29.) HM rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^190]: A melléklet 50. pont B) pontjának átmeneti és nyári időszakban viselendő öltözet 2. változata a 42/2005. (XI. 29.) HM rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^191]: A melléklet 50. B) pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^192]: A melléklet 50. B) pont d) alpontját a 42/2005. (XI. 29.) HM rendelet 8. § (2) bekezdése iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^193]: A melléklet 50. B) pont e) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^194]: A melléklet 50/A. pontját megelőző alcímet a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^195]: A melléklet 50/A. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^196]: A melléklet 50/B. pontját megelőző alcímet a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^197]: A melléklet 50/B. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^198]: A melléklet 50/C. pontját megelőző alcímet a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^199]: A melléklet 50/C. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^200]: A melléklet 51. pontja a 12/2008. (V. 29.) HM rendelet 11. §-ával megállapított szöveg.
+[^201]: A melléklet 51. A) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^202]: A melléklet 51. A) pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^203]: A melléklet 51. A) pont i) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^204]: A melléklet 51. B) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^205]: A melléklet 51. B) pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^206]: A melléklet 51. B) pont j) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^207]: A melléklet 52. pontja a 21/2009. (XII. 29.) HM rendelet 16. §-ával megállapított szöveg.
+[^208]: A melléklet 52/A. pontját a 21/2009. (XII. 29.) HM rendelet 17. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^209]: A melléklet 53. pont ötödik franciabekezdése a 42/2005. (XI. 29.) HM rendelet 10. §-a, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^210]: A melléklet 54. pontja a 12/2008. (V. 29.) HM rendelet 12. §-ával megállapított, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés w) pontja szerint módosított szöveg.
+[^211]: A melléklet 55. pontja a 42/2005. (XI. 29.) HM rendelet 10. §-a szerint módosított szöveg.
+[^212]: A melléklet 55/A. pontját megelőző alcímet a 20/2016. (IX. 30.) HM rendelet 1. §-a iktatta be.
+[^213]: A melléklet 55/A. pontját a 20/2016. (IX. 30.) HM rendelet 1. §-a iktatta be.
+[^214]: A melléklet 56. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^215]: A melléklet 57. pontjának b) alpontja a 12/2008. (V. 29.) HM rendelet 13. §-ával megállapított szöveg.
+[^216]: A melléklet 57. pontjának c) alpontja a 12/2008. (V. 29.) HM rendelet 13. §-ával megállapított szöveg.
+[^217]: A melléklet 57. pont e) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^218]: A melléklet 58. pontját megelőző alcím a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^219]: A melléklet 58. pontja a 21/2009. (XII. 29.) HM rendelet 18. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^220]: A melléklet 58/A. pontját a 21/2009. (XII. 29.) HM rendelet 19. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^221]: A melléklet 58/B. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^222]: A melléklet 59. pontját megelőző alcím a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^223]: A melléklet 59. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^224]: A melléklet 60. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^225]: A melléklet 61. pontját megelőző alcíme a 12/2008. (V. 29.) HM rendelet 24. § (5) bekezdése szerint módosított szöveg.
+[^226]: A melléklet 61. pontjának b) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (5) bekezdése szerint módosított szöveg.
+[^227]: A melléklet 68. pontja és az azt megelőző alcím a 21/2009. (XII. 29.) HM rendelet 20. §-ával megállapított szöveg.
+[^228]: A melléklet 69. pontja a 21/2009. (XII. 29.) HM rendelet 21. §-ával megállapított szöveg.
+[^229]: A melléklet 70. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^230]: A melléklet 70. pontjának b) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
+[^231]: A melléklet 75. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^232]: A melléklet 76. pont a) alpontja a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés x) pontja, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^233]: A melléklet 76. pont b) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (3) és (6) bekezdése, a 21/2009. (XII. 29.) HM rendelet 40. § (3) bekezdés x) és y) pontja, valamint 40. § (4) bekezdése, 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^234]: A melléklet 76. pont c) alpontja a 21/2009. (XII. 29.) HM rendelet 22. §-ával megállapított szöveg.
+[^235]: A melléklet 77. pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^236]: A melléklet 77. pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^237]: A melléklet 77. pont e) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^238]: A melléklet 79. pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^239]: A melléklet 80. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^240]: A melléklet 80. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^241]: A melléklet 80. pont c) alpontja a 21/2009. (XII. 29.) HM rendelet 24. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^242]: A melléklet 81. pontjának a) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
+[^243]: A melléklet 81. pontjának b) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
+[^244]: A melléklet 83. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^245]: A melléklet 83. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^246]: A melléklet 84. pontjának a) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
+[^247]: A melléklet 84. pont b) alpontja a 21/2009. (XII. 29.) HM rendelet 25. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^248]: A melléklet 85. pont a) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^249]: A melléklet 85. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^250]: A melléklet 87. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^251]: A melléklet 87. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^252]: A melléklet 87. pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^253]: A melléklet 88. pontja a 12/2008. (V. 29.) HM rendelet 16. §-ával megállapított szöveg.
+[^254]: A melléklet 88. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^255]: A melléklet 88/A. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^256]: A melléklet 88/B. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^257]: A melléklet 88/C. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^258]: A melléklet 89. pontja a 21/2009. (XII. 29.) HM rendelet 27. §-ával megállapított, nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^259]: A melléklet 93/A. pontját a 12/2008. (V. 29.) HM rendelet 17. §-a iktatta be.
+[^260]: A melléklet 93/B. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^261]: A melléklet 95. pontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^262]: A melléklet 96. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^263]: A melléklet 99. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^264]: A melléklet 100. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^265]: A melléklet 101. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^266]: A melléklet 102. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^267]: A melléklet 103. pontja a 12/2008. (V. 29.) HM rendelet 24. § (3) bekezdése szerint módosított szöveg.
+[^268]: A melléklet 104. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^269]: A melléklet 104. pont c) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^270]: A melléklet 104. pont d) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^271]: A melléklet 105. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^272]: A melléklet 105. pont b) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (3) bekezdése, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^273]: A melléklet 105. pont c) alpontja a 12/2008. (V. 29.) HM rendelet 18. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^274]: A melléklet 105. pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^275]: A melléklet 105. pont e) alpontját a 21/2012. (X. 11.) HM rendelet 2. §-a iktatta be.
+[^276]: A melléklet 106. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^277]: A melléklet 107. pontja a 42/2005. (XI. 29.) HM rendelet 11. §-ával megállapított szöveg.
+[^278]: A melléklet 107. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^279]: A melléklet 107. pont c) alpontját a 21/2009. (XII. 29.) HM rendelet 28. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^280]: A melléklet 108. pontja a 42/2005. (XI. 29.) HM rendelet 11. §-ával megállapított szöveg.
+[^281]: A melléklet 108. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^282]: A melléklet 108. pont c) alpontját a 21/2009. (XII. 29.) HM rendelet 29. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^283]: A melléklet 109. pontja a 42/2005. (XI. 29.) HM rendelet 11. §-ával megállapított szöveg.
+[^284]: A melléklet 109. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^285]: A melléklet 109. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^286]: A melléklet 109. pont c) alpontját a 21/2009. (XII. 29.) HM rendelet 30. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^287]: A melléklet 109. pont d) alpontját a 21/2009. (XII. 29.) HM rendelet 30. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^288]: A melléklet 110. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^289]: A melléklet 110. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^290]: A melléklet 110. pont c) alpontját a 21/2009. (XII. 29.) HM rendelet 31. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^291]: A melléklet 111. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^292]: A melléklet 112. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^293]: A melléklet 113. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^294]: A melléklet 114. pontja a 21/2009. (XII. 29.) HM rendelet 32. §-ával megállapított szöveg.
+[^295]: A melléklet 114. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^296]: A melléklet 114. pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^297]: A melléklet 114. pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^298]: A melléklet 114. pont e) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^299]: A melléklet 116. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^300]: A melléklet 117. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^301]: A melléklet 118. pontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^302]: A melléklet 119–120. pontját a 12/2008. (V. 29.) HM rendelet 24. § (2) bekezdése hatályon kívül helyezte.
+[^303]: A melléklet 121. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^304]: A melléklet 121. pontjának c) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
+[^305]: A melléklet 122. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^306]: A melléklet 122. pont c) alpontja a 21/2009. (XII. 29.) HM rendelet 33. § (1) bekezdésével megállapított szöveg.
+[^307]: A melléklet 122. pont d) alpontját a 21/2009. (XII. 29.) HM rendelet 33. § (2) bekezdése iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^308]: A melléklet 123. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^309]: A melléklet 123. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^310]: A melléklet 123. pont c) alpontja a 21/2009. (XII. 29.) HM rendelet 34. § (1) bekezdésével megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^311]: A melléklet 123. pont d) alpontját a 21/2009. (XII. 29.) HM rendelet 34. § (2) bekezdése iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^312]: A melléklet 124. pontja a 21/2009. (XII. 29.) HM rendelet 35. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^313]: A melléklet 125. pontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^314]: A melléklet 126. pontja a 12/2008. (V. 29.) HM rendelet 21. §-ával megállapított szöveg.
+[^315]: A melléklet 127. pontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^316]: A melléklet 128. pontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
+[^317]: A melléklet 129. pontja a 21/2009. (XII. 29.) HM rendelet 36. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^318]: A melléklet 130. pontja a 12/2008. (V. 29.) HM rendelet 24. § (3) bekezdése szerint módosított szöveg.
+[^319]: A melléklet 131. pontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^320]: A melléklet 132. pontja a 12/2008. (V. 29.) HM rendelet 22. §-ával megállapított szöveg.
+[^321]: A melléklet 132. pont a) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^322]: A melléklet 132. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^323]: A melléklet 132. pont e) alpontja a 20/2016. (IX. 30.) HM rendelet 1. §-ával megállapított szöveg.
+[^324]: A melléklet 132. pont h) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^325]: A melléklet 132/A. pontját a 20/2016. (IX. 30.) HM rendelet 1. §-a iktatta be.
+[^326]: A melléklet 134. pont a) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^327]: A melléklet 134. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^328]: A melléklet 134. pontjának c) alpontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^329]: A melléklet 134. pont d) alpontját a 21/2009. (XII. 29.) HM rendelet 37. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^330]: A melléklet 135. pont b) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^331]: A melléklet 137. pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^332]: A melléklet 137. pontjának a) alpontja a 42/2005. (XI. 29.) HM rendelet 13. §-ával megállapított szöveg.
+[^333]: A melléklet 137. pontjának új b) alpontját a 42/2005. (XI. 29.) HM rendelet 13. §-a iktatta be, egyidejűleg az eredeti b) alpontjának jelölését e) alpontra változtatta.
+[^334]: A melléklet 137. pont új c) alpontját a 42/2005. (XI. 29.) HM rendelet 13. §-a iktatta be, egyidejűleg az eredeti c) alpontjának jelölését f) alpontra változtatta. A melléklet 137. pont c) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^335]: A melléklet 137. pontjának d) alpontját a 42/2005. (XI. 29.) HM rendelet 13. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^336]: A melléklet 137. pontjának eredeti b) alpontjának jelölését e) alpontra változtatta a 42/2005. (XI. 29.) HM rendelet 13. §-a. A melléklet 137. pont e) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^337]: A melléklet 137. pontjának eredeti c) alpontjának jelölését f) alpontra változtatta a 42/2005. (XI. 29.) HM rendelet 13. §-a. A melléklet 137. pont f) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^338]: A melléklet 138. pontja a 21/2009. (XII. 29.) HM rendelet 38. §-ával megállapított, a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^339]: A melléklet 139. pontja a 21/2009. (XII. 29.) HM rendelet 38. §-ával megállapított szöveg.
+[^340]: A melléklet 139. pont d) alpontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^341]: A melléklet 144. pontja a 12/2008. (V. 29.) HM rendelet 24. § (4) bekezdése szerint módosított szöveg.
+[^342]: A melléklet 145. A) pontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^343]: A melléklet 145. C) pont j) alpontját a 42/2005. (XI. 29.) HM rendelet 14. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^344]: A melléklet 145. pont C) pontjának k) alpontját a 42/2005. (XI. 29.) HM rendelet 14. §-a iktatta be.
+[^345]: A melléklet 145. D) pont nyitó szövegrésze a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^346]: A melléklet 145. pont E) alpontját a 21/2009. (XII. 29.) HM rendelet 39. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-ával megállapított szöveg.
+[^347]: A melléklet 146. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a hatályon kívül helyezte.
+[^348]: A melléklet 147. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a hatályon kívül helyezte.
+[^349]: A melléklet 148. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a hatályon kívül helyezte.
+[^350]: A melléklet 149. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a hatályon kívül helyezte.
+[^351]: A melléklet 150. pontját a 21/2012. (X. 11.) HM rendelet 2. §-a hatályon kívül helyezte.
+[^352]: A melléklet 150/A. pontjának alcímét a 12/2008. (V. 29.) HM rendelet 23. §-a iktatta be.
+[^353]: A melléklet 150/A. pontját a 12/2008. (V. 29.) HM rendelet 23. §-a iktatta be, szövege a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
+[^354]: A melléklet 151. pontja a 21/2012. (X. 11.) HM rendelet 2. §-a szerint módosított szöveg.
