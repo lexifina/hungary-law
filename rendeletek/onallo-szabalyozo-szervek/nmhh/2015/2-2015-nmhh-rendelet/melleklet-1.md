@@ -1,10 +1,10 @@
 ## való megfelelést szolgálja.
 
-1. melléklet a 2/2015. (III. 30.) NMHH rendelethez
+1. melléklet a 2/2015. (III. 30.) NMHH rendelethez[^16]
 
-Egységes internet-hozzáférés szolgáltatás leíró táblázat
+Egységes internet-hozzáférési szolgáltatás leíró táblázat
 
-| EGYSÉGES INTERNET-HOZZÁFÉRÉS SZOLGÁLTATÁS LEÍRÓ TÁBLÁZAT |
+| EGYSÉGES INTERNET-HOZZÁFÉRÉSI SZOLGÁLTATÁS LEÍRÓ TÁBLÁZAT |
 
 | Díjcsomag neve |  |
 
@@ -52,7 +52,7 @@ A hálózatsemlegességgel összefüggő fogalmak meghatározása
 
 | Elnevezés | Definíció |
 
-| Kínált letöltési sebesség | Az elektronikus hírközlési szolgáltató által az előfizetői szerződésben rögzített, az internet hozzáférési szolgáltatás nyújtása során az adott előfizetői hozzáférési ponton letöltési irányban elérhető, a szolgáltatáshoz rendelt adatátviteli sebesség felső elméleti határa.1 |
+| Kínált letöltési sebesség | Az elektronikus hírközlési szolgáltató által az előfizetői szerződésben rögzített, az internet-hozzáférési szolgáltatás nyújtása során az adott előfizetői hozzáférési ponton letöltési irányban elérhető, a szolgáltatáshoz rendelt adatátviteli sebesség felső elméleti határa.1 |
 
 | Kínált feltöltési sebesség | Az elektronikus hírközlési szolgáltató által az előfizetői szerződésben rögzített, az internet-hozzáférés szolgáltatás nyújtása során az adott előfizetői hozzáférési ponton feltöltési irányban elérhető, a szolgáltatáshoz rendelt adatátviteli sebesség felső elméleti határa.2 |
 
@@ -60,11 +60,11 @@ A hálózatsemlegességgel összefüggő fogalmak meghatározása
 
 | Garantált feltöltési sebesség | Az internet hozzáférési szolgáltatáshoz rendelt és az előfizetői szerződésben rögzített, az elektronikus hírközlési szolgáltató által az adott előfizetői hozzáférési ponton feltöltési irányban teljesíteni vállalt legkisebb adatátviteli sebesség.3 |
 
-| Csomagban foglalt adatforgalom | Az elektronikus hírközlési szolgáltató által az előfizetői szerződésben rögzített havi díjban foglalt az internet hozzáférési szolgáltatás nyújtása során az adott előfizetői hozzáférési ponton mért adatmennyiség, amely vagy a le- és feltöltési irányban fogadott és küldött adatmennyiség összege, vagy csak a letöltési irányban fogadott adatmennyiséggel egyezik meg. |
+| Csomagban foglalt adatforgalom | Az elektronikus hírközlési szolgáltató által az előfizetői szerződésben rögzített havi díjban foglalt az internet-hozzáférési szolgáltatás nyújtása során az adott előfizetői hozzáférési ponton mért adatmennyiség, amely vagy a le- és feltöltési irányban fogadott és küldött adatmennyiség összege, vagy csak a letöltési irányban fogadott adatmennyiséggel egyezik meg. |
 
 | Túlforgalmazás kezelése | Az elektronikus hírközlési szolgáltató által az előfizetői szerződésben rögzített, a Csomagban foglalt adatforgalom elérése esetén tett intézkedés. |
 
-| Több saját eszköz közötti megosztási lehetősége | Az elektronikus hírközlési szolgáltató által az előfizetői szerződésben rögzített módon, az internet hozzáférési szolgáltatás nyújtása során az adott előfizetői hozzáférési ponton az internet hozzáférési szolgáltatás végberendezések közötti megosztási lehetősége támogatott-e (igen/nem). |
+| Több saját eszköz közötti megosztási lehetősége | Az elektronikus hírközlési szolgáltató által az előfizetői szerződésben rögzített módon, az internet-hozzáférési szolgáltatás nyújtása során az adott előfizetői hozzáférési ponton az internet-hozzáférési szolgáltatás végberendezések közötti megosztási lehetősége támogatott-e (igen/nem). |
 
 | Felhasználási módok VoIP Chat alkalmazások Közösségi oldalak Fájlcserélő alkalmazások Video megosztó alkalmazások Egyéb | Az elektronikus hírközlési szolgáltató által az előfizetői szerződésben rögzített azon forgalmi típus, amelyhez feltétel kapcsolódhat. Az adott felhasználási módra vonatkozó feltétel megadásának módja lehet: – igénybe vehető – nem vehető igénybe – feltételekkel vehető igénybe. |
 
@@ -75,3 +75,5 @@ ______________
 2 A Rendelet 2. § (1) bekezdés 12. pontja alapján.
 
 3 A Rendelet 2. § (1) bekezdés 6. pontja alapján.
+
+[^16]: Az 1. melléklet a 6/2016. (IX. 30.) NMHH rendelet 5. § 11. és 12. pont a), e)–f) alpontja szerint módosított szöveg. [Nem vezethető át a 6/2016. (IX. 30.) NMHH rendelet 5. § 12. pont b)–d) alpontjában foglalt módosítás.]

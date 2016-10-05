@@ -26,7 +26,7 @@
 
 2.4. az előfizetői hozzáférési pont létesítésére, vagy hálózati végponthoz, hálózathoz történő csatlakozására és a szolgáltatás megkezdésére vállalt határidő,
 
-2.5. mobil internet-hozzáférés, mobil rádiótelefon, műholdas, valamint földfelszíni digitális műsorterjesztési szolgáltatást nyújtó szolgáltatók esetén a 8. § (2) bekezdésében meghatározott felmondás feltételei;
+2.5.[^3] mobil internet-hozzáférési, mobil rádiótelefon, műholdas, valamint földfelszíni digitális műsorterjesztési szolgáltatást nyújtó szolgáltatók esetén a 8. § (2) bekezdésében meghatározott felmondás feltételei;
 
 3. az előfizetői szolgáltatás tartalma:
 
@@ -74,7 +74,7 @@
 
 7. díjak, díjszabás, díjfizetés, számlázás, kártérítés, kötbér:
 
-7.1. az előfizetői szolgáltatásokért fizetendő díjak meghatározása, mértéke, ennek keretében az egyszeri, rendszeres és forgalmi díjak, díjazási időszakok, díjcsomagok, hibajavításhoz kapcsolódó díjak, kedvezményes feltételekre vonatkozó általános rendelkezések, ideértve a kedvezmény igénybevételéhez szükséges minimális használatra vagy időtartamra vonatkozó bármely követelményt, az előfizetői szerződés megszűnése, módosítása, a szolgáltatás szüneteltetése, korlátozása alkalmával esedékessé váló díjak, díjazási feltételek, ideértve a végberendezéssel kapcsolatos költségszámítást, díj visszatérítési kötelezettséget is, a díjfizetés és számlázás módja, rendszeressége, a számlák kézbesítésének időpontja, minden egyéb díj,
+7.1.[^4] az előfizetői szolgáltatásokért fizetendő díjak meghatározása, mértéke, ennek keretében az egyszeri, rendszeres és forgalmi díjak, a 20/A. § szerinti internet-hozzáférési szolgáltatást is tartalmazó szerződés esetén külön feltüntetve az internet-hozzáférési szolgáltatás díját, díjazási időszakok, díjcsomagok, hibajavításhoz kapcsolódó díjak, kedvezményes feltételekre vonatkozó általános rendelkezések, ideértve a kedvezmény igénybevételéhez szükséges minimális használatra vagy időtartamra vonatkozó bármely követelményt, az előfizetői szerződés megszűnése, módosítása, a szolgáltatás szüneteltetése, korlátozása alkalmával esedékessé váló díjak, díjazási feltételek, ideértve a végberendezéssel kapcsolatos költségszámítást, díj visszatérítési kötelezettséget is, a díjfizetés és számlázás módja, rendszeressége, a számlák kézbesítésének időpontja, minden egyéb díj,
 
 7.2. a különböző fizetési módokból adódó, előfizetőt érintő eltérések,
 
@@ -86,7 +86,7 @@
 
 8.1. a telefonszolgáltatók esetében a számhordozással kapcsolatos eljárás részletes szabályai,
 
-8.2. internet-hozzáférés szolgáltatók esetében a szünetmentes szolgáltatóváltással kapcsolatos eljárás részletes szabályai, amennyiben a szolgáltatás sajátosságai lehetővé teszik,
+8.2.[^5] internet-hozzáférési szolgáltatást nyújtó szolgáltatók esetében a szünetmentes szolgáltatóváltással kapcsolatos eljárás részletes szabályai, amennyiben a szolgáltatás sajátosságai lehetővé teszik,
 
 8.3. a közvetítőválasztással kapcsolatos eljárás részletes szabályai a közvetítőválasztást biztosító hálózati szerződésekben foglaltakkal összhangban;
 
@@ -131,3 +131,7 @@
 (3) Az olyan összefüggő szabályok, feltételek, amelyek terjedelmi okból a főszövegben nem helyezhetők el, mellékletben is meghatározhatók. A főszövegben a mellékletre utalni kell. A mellékletek az általános szerződési feltételek részét képezik, azonban az általános szerződési feltételek főszövegét nem módosíthatják.
 
 (4) Az általános szerződési feltételek külön melléklete tartalmazza az akciók részletes leírását, így különösen azok időtartamát, feltételeit, díjait és a nyújtott kedvezményeket. E melléklet módosítása esetén a szolgáltató köteles e mellékletet az általános szerződési feltételek módosítására vonatkozó általános szabályok szerint közzétenni és rendelkezésre bocsátani, továbbá – az előfizetők értesítését mellőzve – köteles azt a módosítás hatálybalépését követő 8 napon belül a Hatóságnak megküldeni.
+
+[^3]: A 10. § (1) bekezdés 2.5. pontja a 6/2016. (IX. 30.) NMHH rendelet 5. § 3. pontja szerint módosított szöveg.
+[^4]: A 10. § (1) bekezdés 7. pont 7.1. alpontja a 6/2016. (IX. 30.) NMHH rendelet 1. §-ával megállapított szöveg.
+[^5]: A 10. § (1) bekezdés 8.2. pontja a 6/2016. (IX. 30.) NMHH rendelet 5. § 4. pontja szerint módosított szöveg.

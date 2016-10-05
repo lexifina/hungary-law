@@ -12,7 +12,7 @@ c) a módosítások hatálybalépésének időpontját;
 
 d) a közzétett általános szerződési feltételek elérhetőségét;
 
-e) ha a szolgáltató az előfizetői szolgáltatások díját módosítja, vagy a díjban foglalt szolgáltatás mennyiségét csökkenti, akkor a módosított díjat, mennyiséget és a változás összegét, több szolgáltatást tartalmazó díjcsomag esetében szolgáltatásonként elkülönítve;
+e)[^6] ha a szolgáltató az előfizetői szolgáltatások díját módosítja, vagy a díjban foglalt szolgáltatás mennyiségét csökkenti, akkor a módosított díjat, mennyiséget és a változás összegét, több szolgáltatást tartalmazó díjcsomag esetében – ideértve azt is, ha a szolgáltató előfizetői szolgáltatással együtt más típusú szolgáltatást csomagban értékesít – előfizetői szolgáltatásonként elkülönítve;
 
 f) azt a feltételt, jogszabályváltozást vagy hatósági döntést, lényeges körülményt (különösen a műsorterjesztés szolgáltatás keretében kínált csatornák összetételében bekövetkező változás esetén az Eht. 132. § (2a) bekezdés szerinti indokot), amellyel a szolgáltató a módosítást indokolja;
 
@@ -37,3 +37,5 @@ d) az előfizetőt az általános szerződési feltételek egyoldalú módosít�
 (6) Az egyedi előfizetői szerződés időtartamát érintő módosítást megelőzően a szolgáltató köteles igazolható módon tájékoztatást adni a határozatlan és a határozott idejű előfizetői szerződés részletes feltételeiről. A tájékoztatás elmaradása esetén az előfizetői szerződésben az előfizetőt érintő, a határozott idejű előfizetői szerződésből eredő bármilyen hátrányos jogkövetkezményt megállapító szerződéses rendelkezés semmis.
 
 (7) Ráutaló magatartással határozatlan időre kötött egyedi előfizetői szerződés ráutaló magatartással akkor módosítható, ha az előfizető az előfizetői szerződés ideje alatt igazolható módon szóban vagy írásban nyilatkozik arról, hogy amennyiben a szolgáltató az előfizetői szerződés módosítását kezdeményezi, az előfizető nyilatkozattételének elmulasztása, vagy tevőleges magatartásának tanúsítása elfogadásnak minősül.
+
+[^6]: A 12. § (2) bekezdés e) pontja a 6/2016. (IX. 30.) NMHH rendelet 2. §-ával megállapított szöveg.

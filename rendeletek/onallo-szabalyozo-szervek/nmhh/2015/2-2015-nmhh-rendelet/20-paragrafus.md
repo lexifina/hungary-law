@@ -6,8 +6,10 @@
 
 a) helyhez kötött telefon szolgáltatás esetén hívó oldali bontásnál 1 másodperccel, hívott oldali bontásnál 90 másodperccel,
 
-b) internet-hozzáférés szolgáltatás esetén 1 másodperccel,
+b)[^7] internet-hozzáférési szolgáltatás esetén 1 másodperccel,
 
 c) mobil rádiótelefon-hálózathoz történő előfizetői csatlakozás esetén 2 másodperccel haladhatja meg.
 
 (3) Adatmennyiségen alapuló szolgáltatás díjának számítását és számlázását az általános szerződési feltételekben rögzített egységekben kell kialakítani.
+
+[^7]: A 20. § (2) bekezdés b) pontja a 6/2016. (IX. 30.) NMHH rendelet 5. § 5. pontja szerint módosított szöveg.
