@@ -1,0 +1,1 @@
+## 2. § A közös jogkezelő szervezet vagy a független jogkezelő szervezet bejelentése a szerzői jogok és szerzői joghoz kapcsolódó jogok közös kezeléséről szóló 2016. évi XCIII. törvény (a továbbiakban: Kjkt.) 84. § c) és d) pontjában meghatározott adataiban bekövetkezett változás bejelentéséért fizetendő igazgatási szolgáltatási díj 25 000 Ft.
