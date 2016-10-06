@@ -1,3 +1,0 @@
-## 3. § Az R. 12. alcíme a következő 20/A. §-sal egészül ki:
-
-## „20/A. § Az olyan, internet-hozzáférési szolgáltatást más szolgáltatással együtt tartalmazó előfizetői szerződés esetén – ideértve azt is, ha a szolgáltató az internet-hozzáférési szolgáltatást nem előfizetői szolgáltatással csomagban értékesíti –, amelyben az internet-hozzáférési szolgáltatás díja forgalomtól független, vagy az adatmennyiség előre meghatározott, a szolgáltató köteles a számlán és az Eht. 142. § (1) bekezdésében meghatározott számlamellékletben az internet-hozzáférési szolgáltatás díját – ideértve a szolgáltatás díjára vonatkozó kedvezményeket is – a többi, számlában foglalt szolgáltatás díjától elkülönítetten is feltüntetni.”

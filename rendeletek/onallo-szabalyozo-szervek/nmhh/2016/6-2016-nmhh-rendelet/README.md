@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-6-20-3H
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-10-05 | 2016-6-20-3H.1 | 6/2016. (IX. 30.) NMHH rendelet |
+| 2016-10-06 | 2016-6-20-3H.2 | 2010: CXXX. törvény |
