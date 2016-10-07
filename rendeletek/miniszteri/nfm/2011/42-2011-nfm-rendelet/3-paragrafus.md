@@ -36,6 +36,8 @@ a) a b) pontban meghatározott kivétellel a bírságot kiszabó szervezetet lé
 
 b) a bírságot kiszabó, önálló költségvetési szervként létrehozott közterület-felügyelet számlájára kell befizetni. E bevételeket a közterület-felügyelet havonta köteles az azt létrehozó települési önkormányzat számlájára átutalni.
 
+(6)[^19] A Kkt. 20. § (7) bekezdése szerinti pénzkövetelés biztosításának összegét az eljáró hatóság 1. melléklet szerinti számlájára kell befizetni.
+
 [^12]: A 2/A. §-t a 47/2012. (VIII. 23.) NFM rendelet 3. § (2) bekezdése iktatta be.
 [^13]: A 3. § (2) bekezdés b) pont ba) alpontja a 47/2012. (VIII. 23.) NFM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^14]: A 3. § (2) bekezdés d) pontját a 75/2015. (XII. 29.) NFM rendelet 26. §-a iktatta be.
@@ -43,3 +45,4 @@ b) a bírságot kiszabó, önálló költségvetési szervként létrehozott kö
 [^16]: A 3. § (4) bekezdése a 31/2013. (VI. 18.) NFM rendelet 6. § (1) bekezdésével megállapított szöveg. [E módosító rendelet 6. § (3) bekezdés a) pontjával elrendelt módosítás, amely szerint az „előirányzat-felhasználási keret számlájára” szövegrész helyébe a „megfelelő számlájára” szöveg lép, nem vezethető át.]. A 3. § (4) bekezdése a 75/2015. (XII. 29.) NFM rendelet 27. § c) pontja szerint módosított szöveg.
 [^17]: A 3. § (4a) bekezdését a 31/2013. (VI. 18.) NFM rendelet 6. § (2) bekezdése iktatta be.
 [^18]: A 3. § (5) bekezdését a 47/2012. (VIII. 23.) NFM rendelet 4. § (3) bekezdése iktatta be.
+[^19]: A 3. § (6) bekezdését a 41/2016. (X. 6.) NFM rendelet 1. §-a iktatta be.

@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-42-20-2
 | 2015-01-21 | 2011-42-20-2W.6 | 2/2015. (I. 20.) NFM rendelet |
 | 2015-04-01 | 2011-42-20-2W.7 | 15/2015. (III. 31.) NFM rendelet |
 | 2016-01-01 | 2011-42-20-2W.8 | 75/2015. (XII. 29.) NFM rendelet |
+| 2016-10-07 | 2011-42-20-2W.9 | 41/2016. (X. 6.) NFM rendelet |

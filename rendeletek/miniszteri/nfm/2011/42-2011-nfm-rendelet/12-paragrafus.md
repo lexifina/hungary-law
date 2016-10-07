@@ -14,7 +14,7 @@ e) a bírság megfizetésének,
 
 f) az adók módjára történő behajtás elrendeléséről szóló döntés meghozatalának,
 
-g)[^22] a gépjárművezető távollétében kiszabott bírság megfizetésének
+g)[^24] a gépjárművezető távollétében kiszabott bírság megfizetésének
 
 napjától számított öt munkanapon belül kell teljesíteni.
 
@@ -28,4 +28,4 @@ napjától számított öt munkanapon belül kell teljesíteni.
 
 (7) A közlekedési hatóság gondoskodik a kezelt adatokhoz való jogosulatlan hozzáférés, azok jogosulatlan megváltoztatása, nyilvánosságra hozatala vagy törlése, illetve sérülés vagy megsemmisülés elleni védelméről, valamint felel a nyilvántartásból történő adatszolgáltatás jogszerűségéért.
 
-[^22]: A 12. § (2) bekezdés g) pontját a 47/2012. (VIII. 23.) NFM rendelet 7. §-a iktatta be.
+[^24]: A 12. § (2) bekezdés g) pontját a 47/2012. (VIII. 23.) NFM rendelet 7. §-a iktatta be.

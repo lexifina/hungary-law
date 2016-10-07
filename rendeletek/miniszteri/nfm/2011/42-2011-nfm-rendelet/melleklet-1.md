@@ -1,12 +1,12 @@
 ## 17. § Hatályát veszti a közúti közlekedéssel kapcsolatos egyes bírságok kivetésének részletes szabályairól és a bírságok felhasználásának rendjéről szóló 45/2005. (VI. 23.) GKM rendelet, valamint a közúti közlekedéssel kapcsolatos egyes bírságok kivetésének részletes szabályairól és a bírságok felhasználásának rendjéről szóló 45/2005. (VI. 23.) GKM rendelet módosításról szóló 15/2011. (IV. 27.) NFM rendelet.
 
-1. melléklet a 42/2011. (VIII. 11.) NFM rendelethez[^23]
+1. melléklet a 42/2011. (VIII. 11.) NFM rendelethez[^25]
 
 ## Az eljáró hatóságok számlaszámai
 
 1. Az NKH Magyar Államkincstár számlaszáma: 10032000-00289926-00000000.
 
-2. A Nemzeti Adó- és Vámhivatal Magyar Államkincstárnál vezetett számlaszáma: 10032000-01037241-00000000 NAV vám- és adóbírság, kamat bevételi számla.
+2. A Nemzeti Adó- és Vámhivatal Magyar Államkincstárnál vezetett számlaszáma: 10032000-01037629 NAV Közigazgatási bírság bevételi számla.
 
 3. Az NKH központosított bevételek beszedési célelszámolási előirányzat-felhasználási keretszámlái:
 
@@ -104,4 +104,4 @@
 
 6. Az Országos Katasztrófavédelmi Főigazgatóság Magyar Államkincstár számlaszáma: 10023002-00283494-20000002 Közúti közlekedési bírság letéti számla.
 
-[^23]: Az 1. melléklet a 19/2012. (IV. 26.) NFM rendelet 3. § b) pontja, a 31/2013. (VI. 18.) NFM rendelet 6. § (3) bekezdés b) pontja, a 2/2015. (I. 20.) NFM rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^25]: Az 1. melléklet a 19/2012. (IV. 26.) NFM rendelet 3. § b) pontja, a 31/2013. (VI. 18.) NFM rendelet 6. § (3) bekezdés b) pontja, a 2/2015. (I. 20.) NFM rendelet 3. § (2) bekezdése, a 41/2016. (X. 6.) NFM rendelet 3. §-a szerint módosított szöveg.
