@@ -1,0 +1,5 @@
+## 25. § A megismételt rendfokozati vizsga díja a vizsgázót terheli, amelynek mértéke a rendvédelmi illetményalap összegének 15%-a. A megismételt rendfokozati vizsga során felmerülő utazási, szállás- és étkezési költség a vizsgázót terheli.
+
+26. § (1) A rendfokozati vizsga halasztása – az első halasztás kivételével – díjköteles. A halasztás díja a rendvédelmi illetményalap összegének 7,5%-a, amelynek megfizetésére a vizsgázó köteles.
+
+(2) Az (1) bekezdésben foglaltaktól eltérően a rendfokozati vizsgára kötelezett vizsgázó esetében a halasztás díja a munkáltatót – vezényeltek, átrendeltek esetében a vezénylés, átrendelés helye szerinti szervet – terheli, ha a halasztásra a munkáltató érdekkörében felmerült okból került sor. Ha a halasztásra a rendfokozati vizsgára kötelezett vizsgázó érdekkörében felmerült, de neki fel nem róható okból került sor, a halasztás díját a munkáltató – vezényeltek, átrendeltek esetében a vezénylés, átrendelés helye szerinti szerv – saját költségvetése terhére átvállalhatja.
