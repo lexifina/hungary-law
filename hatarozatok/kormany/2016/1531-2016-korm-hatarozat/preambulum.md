@@ -1,0 +1,1 @@
+A Nemzeti Ménesbirtok és Tangazdaságról szóló 2016. évi XCI. törvény végrehajtása, ennek keretében a Nemzeti Ménesbirtok és Tangazdaság mint az állam tulajdonában álló, zártkörűen működő részvénytársaság feladatellátásának elősegítése érdekében a Kormány
