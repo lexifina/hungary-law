@@ -1,0 +1,1 @@
+## 37. § A potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések és védelmi rendszerek vizsgálatáról és tanúsításáról szóló 8/2002. (II. 16.) GM rendeletnek (a továbbiakban: GM rendelet) megfelelő és 2016. április 20-a előtt forgalomba hozott termékek forgalmazhatók és üzembe helyezhetők.
