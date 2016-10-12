@@ -1,14 +1,13 @@
-24. § (1)[^78] A végrehajtói szakvizsgára bocsátás iránti kérelmet a Jogakadémiához kell benyújtani.
+24. §[^83] (1) A jelölt a végrehajtói szakvizsgára történő jelentkezését a Jogakadémia képzésszervezést támogató informatikai rendszere útján nyújthatja be.
 
-(2) A végrehajtói szakvizsgára bocsátás iránti kérelemhez csatolni kell:
+(2) A jelöltnek a jelentkezéssel egyidejűleg a Jogakadémia képzésszervezést támogató informatikai rendszerébe a következő dokumentumokat kell feltöltenie:
 
-a) a középfokú iskolai végzettséget, vagy a jogi szakvizsga letételét igazoló eredeti bizonyítványt vagy hiteles másolatát,
+a) a középfokú iskolai végzettséget vagy a jogi szakvizsga letételét igazoló eredeti bizonyítványt vagy hiteles másolatát,
 
 b) a szakmai gyakorlat teljesítéséről és – adott esetben – az abba beszámítható időről szóló igazolást,
 
-c)[^79] a szakvizsgára készített, a miniszter által közzétett tartalmi és formai követelményeknek megfelelő írásbeli vizsgamunkát (szakdolgozat), és
+c) a szakvizsgára készített, a Jogakadémia által közzétett tartalmi és formai követelményeknek megfelelő írásbeli vizsgamunkát (szakdolgozat) és
 
 d) a végrehajtói szakvizsga díjának befizetéséről szóló igazolást.
 
-[^78]: A 24. § (1) bekezdése a 43/2015. (XII. 30.) IM rendelet 2. § (9) bekezdés b) pontja szerint módosított szöveg.
-[^79]: A 24. § (2) bekezdés c) pontja a 26/2011. (VIII. 31.) KIM rendelet 5. § (3) bekezdésével megállapított szöveg.
+[^83]: A 24. § a 21/2016. (X. 11.) IM rendelet 5. §-ával megállapított szöveg.

@@ -1,20 +1,22 @@
 ## A bírósági végrehajtói állásra pályázók szakmai értékelésének szempontjai és a szakmai értékelésnél adható pontok
 
-## 1. Iskolai végzettség – maximális pontszám: 40
+## 1. Iskolai végzettség – maximális pontszám: 20
 
 |  | értékelési szempont | adható pontszám |
 
-| 1.1. | a végrehajtói tevékenység során használható ismereteket adó felsőfokú végzettség | 10 |
+| 1.1. | a végrehajtói tevékenység során használható ismereteket adó szakjogászi szakképzettség | 15 |
 
-| 1.2. | a végrehajtói tevékenység során használható ismereteket adó egyéb végzettség, szakképzettség | 5 |
+| 1.2. | a végrehajtói tevékenység során használható ismereteket adó egyéb felsőfokú szakképzettség | 10 |
 
-## 2. Szakmai vizsga – maximális pontszám: 40
+| 1.3. | a végrehajtói tevékenység során használható ismereteket adó egyéb végzettség, szakképzettség | 5 |
+
+## 2. Szakmai vizsga – maximális pontszám: 60
 
 |  | értékelési szempont | adható pontszám |
 
-| 2.1. | bírósági végrehajtói szakvizsga | 20 |
+| 2.1. | jogi szakvizsga | 30 |
 
-| 2.2. | jogi szakvizsga | 15 |
+| 2.2. | bírósági végrehajtói szakvizsga | 20 |
 
 | 2.3. | végrehajtójelölti kézbesítési vizsga | 5 |
 
@@ -22,19 +24,15 @@
 
 | 2.5. | a végrehajtói tevékenység során használható ismeretekről számot adó egyéb szakmai vizsga | 2 |
 
-## 3. Szakmai gyakorlat – maximális pontszám: 40
+## 3. Szakmai gyakorlat – maximális pontszám: 30
 
 |  | értékelési szempont | adható pontszám |
 
-| 3.1. | bírósági végrehajtói gyakorlat | 4 |
+| 3.1. | szakirányú gyakorlat | 4 |
 
-| 3.2. | bírósági végrehajtó-helyettesi gyakorlat | 3 |
+| 3.2. | egyéb szakirányú gyakorlat | 3 |
 
-| 3.3. | egyéb szakirányú gyakorlat | 2 |
-
-| 3.4. | jogi szakterületen szerzett egyéb gyakorlat | 1 |
-
-## 4. Nyelvtudás – maximális pontszám: 15
+## 4. Nyelvtudás – maximális pontszám: 10
 
 |  | értékelési szempont | adható pontszám |
 
@@ -44,21 +42,15 @@
 
 | 4.3. | szaknyelvi vizsga | 4 |
 
-## 5. Személyes meghallgatás – adható maximális pontszám: 40
+## 5. Személyes meghallgatás – maximális pontszám: 60
 
 |  | értékelési szempont | adható maximális pontszám |
 
-| 5.1. | végrehajtási joggal és kapcsolódó jogterületekkel összefüggő naprakész ismeretek | 12 |
+| 5.1. | végrehajtási joggal és kapcsolódó jogterületekkel összefüggő naprakész jogi ismeretek | 40 |
 
-| 5.2. | bírósági végrehajtási iratkezelés és pénzkezelés | 7 |
+| 5.2. | a végrehajtási eljárással kapcsolatos gyakorlati ismeretek | 20 |
 
-| 5.3. | a végrehajtás foganatosításának technikai lebonyolításával kapcsolatos ismeretek | 7 |
-
-| 5.4. | kommunikációs képességek | 7 |
-
-| 5.5. | végrehajtói iroda létrehozásával és működtetésével, irodai alkalmazottak foglalkoztatásával kapcsolatos ismeretek | 7 |
-
-## 6. Tudományos eredmény, szakmai oktatás, publikáció – maximális pontszám: 15
+## 6. Tudományos eredmény, szakmai oktatás – maximális pontszám: 5
 
 |  | értékelési szempont | adható maximális pontszám |
 
@@ -66,6 +58,6 @@
 
 | 6.2. | egyéb szakirányú tudományos eredmény, oktatás, vizsgáztatás | 5 |
 
-3. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^139]
+3. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^148]
 
-[^139]: Az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatta a 2/2011. (II. 3.) KIM rendelet 8. §-a, szövege a 43/2015. (XII. 30.) IM rendelet 2. § (8) bekezdés a) pontjával megállapított szöveg.
+[^148]: Az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatta a 2/2011. (II. 3.) KIM rendelet 8. §-a, szövege a 43/2015. (XII. 30.) IM rendelet 2. § (8) bekezdés a) pontjával megállapított szöveg.

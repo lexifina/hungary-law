@@ -6,7 +6,7 @@
 
 ## és végrehajtójelölti állások betöltése
 
-9. § (1)[^16] Az önálló végrehajtói állásra a Kar Hivatali szerve az állás létesítésétől (megüresedésétől) számított 6 hónapon belül pályázatot ír ki.
+9. § (1)[^16] Az önálló végrehajtói állásra a Kar Hivatali szerve a miniszter egyetértésével az állás létesítésétől (megüresedésétől) számított 6 hónapon belül pályázatot ír ki.
 
 (1a)[^17] Amennyiben a Kar Hivatali szerve egyidejűleg több állásra ír ki pályázatot, meg kell határoznia a pályázatok elbírálásának sorrendjét.
 
@@ -26,7 +26,7 @@ e)[^21] a pályázathoz mellékelendő iratok, igazolások körét és a Vht. 23
 
 (4)[^23] A pályázat benyújtásának határideje a hirdetménynek a Hivatalos Értesítőben való közzétételét követő 30. nap.
 
-[^16]: A 9. § (1) bekezdése az 5/2016. (III. 8.) IM rendelet 13. § (16) bekezdés 3. és 4. pontja szerint módosított szöveg.
+[^16]: A 9. § (1) bekezdése a 21/2016. (X. 11.) IM rendelet 1. §-ával megállapított szöveg.
 [^17]: A 9. § (1a) bekezdését az 5/2016. (III. 8.) IM rendelet 13. § (3) bekezdése iktatta be.
 [^18]: A 9. § (2) bekezdés b) pontját a 2/2011. (II. 3.) KIM rendelet 11. § (2) bekezdése hatályon kívül helyezte, újonnan az 5/2016. (III. 8.) IM rendelet 13. § (4) bekezdése iktatta be.
 [^19]: A 9. § (2) bekezdés c) pontját az 5/2016. (III. 8.) IM rendelet 13. § (17) bekezdés b) pontja hatályon kívül helyezte.

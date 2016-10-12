@@ -1,11 +1,11 @@
-## 42. § A végrehajtási ügyintézői vizsgára bocsátás iránti kérelemhez csatolni kell
+## 42. §[^99] A jelöltnek az ügyintézői vizsgára való jelentkezéssel egyidejűleg a Jogakadémia képzésszervezést támogató informatikai rendszerébe a következő dokumentumokat kell feltöltenie:
 
 a) a középfokú iskolai végzettséget igazoló eredeti bizonyítványt vagy hiteles másolatát,
 
-b)[^93] a szakmai gyakorlat teljesítéséről szóló – a vizsgázó tevékenységének értékelésére is kiterjedő – a törvényszék elnöke által kiállított igazolást,
+b) a szakmai gyakorlat teljesítéséről szóló – a vizsgázó tevékenységének értékelésére is kiterjedő –, a törvényszék elnöke által kiállított igazolást,
 
 c) a szakvizsgára készített írásbeli vizsgamunkát (szakdolgozat),
 
-d) a végrehajtási ügyintézői vizsga díjának befizetéséről szóló igazolást.
+d) a végrehajtói ügyintéző vizsga díjának befizetéséről szóló igazolást.
 
-[^93]: A 42. § b) pontja a 40/2011. (XII. 30.) KIM rendelet 18. § (1) bekezdés 21. pontja szerint módosított szöveg.
+[^99]: A 42. § a 21/2016. (X. 11.) IM rendelet 11. §-ával megállapított szöveg.

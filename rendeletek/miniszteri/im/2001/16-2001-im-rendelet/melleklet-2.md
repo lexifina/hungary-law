@@ -1,6 +1,6 @@
 ## Az önálló bírósági végrehajtói állások száma
 
-## Országosan: 219
+## Országosan: 230
 
 ## I.
 
@@ -178,7 +178,7 @@
 
 ## Szolnoki Törvényszék
 
-| Jászberényi Járásbíróság | 3 |
+| Jászberényi Járásbíróság | 2 |
 
 | Karcagi Járásbíróság | 1 |
 
@@ -188,7 +188,7 @@
 
 | Szolnoki Járásbíróság | 4 |
 
-| Tiszafüredi Járásbíróság | 1 |
+| Tiszafüredi Járásbíróság | 2 |
 
 | Összesen: | 11 |
 
@@ -344,6 +344,6 @@
 
 | Összesen: | 9 |
 
-2. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^138]
+2. számú melléklet a 16/2001. (X. 26.) IM rendelethez[^147]
 
-[^138]: Az új 2. számú mellékletet a 2/2011. (II. 3.) KIM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatva. A 2. számú melléklet az 5/2016. (III. 8.) IM rendelet 13. § (15) bekezdésével megállapított szöveg.
+[^147]: Az új 2. számú mellékletet a 2/2011. (II. 3.) KIM rendelet 8. §-a iktatta be, egyidejűleg az eredeti 2. számú melléklet megjelölését 3. számú mellékletre változtatva. A 2. számú melléklet a 21/2016. (X. 11.) IM rendelet 16. §-ával megállapított szöveg.

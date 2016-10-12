@@ -1,3 +1,3 @@
-## IV. Fejezet[^98]
+## IV. Fejezet[^105]
 
-[^98]: A IV. Fejezet címét a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 117. pontja hatályon kívül helyezte.
+[^105]: A IV. Fejezet címét a 118/2008. (V. 8.) Korm. rendelet 18. §-ának 117. pontja hatályon kívül helyezte.

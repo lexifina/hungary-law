@@ -1,4 +1,4 @@
-## 35. §[^90] Ha a bírósági végrehajtói oklevél elveszett, megsemmisült vagy megrongálódott, a Jogakadémia az oklevél pótlására tanúsítványt állít ki.
+## 35. §[^94] Ha a bírósági végrehajtói oklevél elveszett, megsemmisült vagy megrongálódott, a 2016. július 1. napja után teljesített szakvizsga esetén a Jogakadémia, az ezt megelőzően teljesített szakvizsga esetén a minisztérium pótolja az oklevelet.
 
 ## A végrehajtói szakvizsga megismétlése
 
@@ -6,4 +6,4 @@
 
 (2) A végrehajtói szakvizsga többszöri megismétlésének lehetősége nincs korlátozva.
 
-[^90]: A 35. § a 43/2015. (XII. 30.) IM rendelet 2. § (9) bekezdés d) pontja szerint módosított szöveg.
+[^94]: A 35. § a 21/2016. (X. 11.) IM rendelet 8. §-ával megállapított szöveg.
