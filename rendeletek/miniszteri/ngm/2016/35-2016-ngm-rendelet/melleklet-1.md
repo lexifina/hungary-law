@@ -1,4 +1,4 @@
-## 38. § Hatályát veszti a GM rendelet.
+## 38. §[^1]
 
 1. melléklet a 35/2016. (IX. 27.) NGM rendelethez
 
@@ -17,3 +17,5 @@ a) Az 1. kategóriába azok a berendezések tartoznak, amelyeket úgy terveztek,
 b) A 2. kategóriába azok a berendezések tartoznak, amelyeket úgy terveztek, hogy a gyártó által megállapított működési paraméterek mellett magas védelmi szintet biztosítsanak. Az ebbe a kategóriába tartozó berendezéseket olyan terekben való alkalmazásra szánták, ahol valószínűleg alkalmilag kialakul robbanásveszélyes környezet, melyet gázok, gőzök vagy ködök vagy levegő-por keverékek okoznak. Az ebbe a kategóriába tartozó berendezésekre vonatkozó robbanásbiztos védelmi módoknak úgy kell működniük, hogy megfelelő biztonsági szintet nyújtsanak még gyakran előforduló üzemzavarok vagy berendezéshibák esetén is, melyeket normál körülmények között figyelembe kell venni. Az ebbe a kategóriába tartozó berendezéseknek meg kell felelniük a 2. melléklet 2.2. pontjában hivatkozott kiegészítő követelményeknek.
 
 c) A 3. kategóriába azok a berendezések tartoznak, amelyeket úgy terveztek, hogy a gyártó által megállapított működési paraméterek mellett normál védelmi szintet biztosítsanak. Az ebbe a kategóriába tartozó berendezéseket olyan terekben való alkalmazásra szánták, ahol kevésbé valószínű, hogy levegő és gázok, gőzök, ködpárák, valamint levegő-por keverékek robbanásveszélyes környezetet okoznak, vagy ha igen, ez csak ritkán és rövid ideig tart. Az e kategóriába tartozó berendezések nyújtanak megfelelő biztonsági szintet normál üzemelés mellett. Az ebbe a kategóriába tartozó berendezéseknek meg kell felelniük a 2. melléklet 2.3. pontjában hivatkozott kiegészítő követelményeknek.
+
+[^1]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
