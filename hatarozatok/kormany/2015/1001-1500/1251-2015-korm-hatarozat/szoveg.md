@@ -18,25 +18,25 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2015. július 31.
 
-3. felhívja a Miniszterelnökséget vezető minisztert és a nemzetgazdasági minisztert, hogy – a már megkezdett fejlesztéseket folytatva, uniós fejlesztési források bevonásával – tegyék meg a szükséges intézkedéseket hazánk kiemelten fontos kulturális öröksége, nemzeti emlékhelye, az egri vár és környezete fejlesztési programjának megvalósítása érdekében, amely keretében megtörténik
+3.[^1] felhívja a Miniszterelnökséget vezető minisztert és a nemzetgazdasági minisztert, hogy a már megkezdett fejlesztéseket folytatva tegyék meg a szükséges intézkedéseket hazánk kiemelten fontos kulturális öröksége, nemzeti emlékhelye, az egri vár és környezete fejlesztési programjának megvalósítása érdekében, amely keretében megtörténik
 
-a) az alsó várudvar funkcióbővítő megújítása,
+a) a Nemzeti Várprogram keretében európai uniós forrásból az egri vár és erődrendszer turisztikai célú fejlesztése,
 
-b) a Gótikus palota műemléki felújítása,
+b) az egri vár állagmegóvó felújítása keretében:
 
-c) a vár középkori főtere és a Provizori palota rekonstrukciója,
+ba) a vár középkori főtere és a Provizori palota rekonstrukciója,
 
-d) a középkori székesegyház részleges rekonstrukciója és környezetének megújítása,
+bb) a középkori székesegyház részleges rekonstrukciója és környezetének megújítása,
 
-e) a Dobó István Vármúzeum turisztikai fejlesztési programjának megvalósítása,
+bc) a vár északi bástya-rendszerének, valamint a Gótikus-palota és környezetének helyreállítása, rekonstrukciója (Föld-bástya, Tömlöc-bástya),
 
-f) a Műemlékőr projekt folytatása, megvalósítása;
+bd) az egykori városfal jelenleg is álló, de leromlott állapotban lévő szakaszának helyreállítása (Bródy Sándor és Városfal utca sarka);
 
 Felelős: Miniszterelnökséget vezető miniszter
 
 nemzetgazdasági miniszter
 
-Határidő: a fejlesztési program megvalósítására 2017. december 31.
+Határidő: a fejlesztési program megvalósítására 2018. december 31.
 
 4. egyetért azzal, hogy Egerben Nemzeti Vízilabda és Úszóközpont kerüljön megépítésre, és felhívja a nemzeti fejlesztési minisztert, hogy – az emberi erőforrások minisztere bevonásával – gondoskodjon az egri Nemzeti Vízilabda és Úszóközpont kormányzati támogatással történő megvalósítását szolgáló beruházási program elkészítéséről és Kormány részére történő benyújtásáról;
 
@@ -51,3 +51,5 @@ Határidő: 2015. szeptember 15.
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
+
+[^1]: A 3. pont az 1554/2016. (X. 13.) Korm. határozat 4. pontjával megállapított szöveg.
