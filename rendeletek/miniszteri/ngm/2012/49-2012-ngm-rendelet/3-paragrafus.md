@@ -10,4 +10,6 @@ b) az Art. 151. § (1) bekezdés szerinti visszatartási jog gyakorlására
 
 ## kerül sor.
 
-(3) Az adóhatóság az (1) bekezdés szerinti költségátalányról végzést hoz.
+(3)[^2]
+
+[^2]: A 3. § (3) bekezdését a 38/2016. (X. 12.) NGM rendelet 13. §-a hatályon kívül helyezte.
