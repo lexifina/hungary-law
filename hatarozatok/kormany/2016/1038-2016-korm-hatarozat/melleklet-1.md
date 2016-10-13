@@ -44,7 +44,7 @@
 
 ## Határidő: folyamatos, első alkalommal 2016. március 31. napjáig
 
-1. melléklet az 1038/2016. (II. 10.) Korm. határozathoz
+1. melléklet az 1038/2016. (II. 10.) Korm. határozathoz[^1]
 
 ## A Modern Városok Program keretében Magyarország Kormánya és a megyei jogú városok önkormányzatai között első ütemben kötött együttműködési megállapodásokban foglaltak megvalósításával kapcsolatos forrásigény
 
@@ -76,17 +76,17 @@ II. Magyarország Kormánya és Eger Megyei Jogú Város Önkormányzata közöt
 
 | 2. | 2. pont Intermodális csomópont megvalósítása Egerben |  |
 
-| 3. | 3. pont a) alpont Az egri vár és környezete fejlesztési programjának megvalósítása - az alsó várudvar funkcióbővítő megújítása | 250 |
+| 3. | 3. pont a) alpont Az egri vár és erődrendszer turisztikai célú fejlesztése | nincsen költségvetési forrásigény |
 
-| 4. | 3. pont b) alpont Az egri vár és környezete fejlesztési programjának megvalósítása - a Gótikus palota műemléki felújítása | 2016-ban nincsen költségvetési forrásigény |
+| 4. | 3. pont b) alpont Az egri vár állagmegóvó felújítása | 250 |
 
-| 5. | 3. pont c) alpont Az egri vár és környezete fejlesztési programjának megvalósítása - a vár középkori főtere és a Provizori palota rekonstrukciója | 2016-ban nincsen költségvetési forrásigény |
+| 5. |
 
-| 6. | 3. pont d) alpont Az egri vár és környezete fejlesztési programjának megvalósítása - a középkori székesegyház részleges rekonstrukciója és környezetének megújítása | 2016-ban nincsen költségvetési forrásigény |
+| 6. |
 
-| 7. | 3. pont e) alpont Az egri vár és környezete fejlesztési programjának megvalósítása - a Dobó István Vármúzeum turisztikai fejlesztési programjának megvalósítása | 2016-ban nincsen költségvetési forrásigény |
+| 7. |
 
-| 8. | 3. pont f) alpont Az egri vár és környezete fejlesztési programjának megvalósítása - Műemlékőr projekt folytatása, megvalósítása | 2016-ban nincsen költségvetési forrásigény |
+| 8. |
 
 | 9. | 4. pont Nemzeti Vízilabda és Úszóközpont megépítése Egerben | 1600 |
 
@@ -345,3 +345,5 @@ XIII. Magyarország Kormánya és Nyíregyháza Megyei Jogú Város Önkormányz
 | 11. | 7. pont Atlétikai centrum megépítése (tiszavasvári úti sporttelep) | 250 |
 
 | 12. | 8. pont A városi szabadtéri színpad felújítási programjának támogatása | 100 |
+
+[^1]: Az 1. melléklet az 1554/2016. (X. 13.) Korm. határozat 5. pontja szerint módosított szöveg.
