@@ -10,4 +10,6 @@ b) valamely feltétel bekövetkezéséig (különösen adott munkakör, tisztsé
 
 (3) A lakásbérleti szerződésnek tartalmaznia kell, hogy a bérlő a bérleti jogviszony megszűnése után – e rendeletben meghatározott feltételek szerint – a bérbeadótól igényt tarthat-e elhelyezésre, és az milyen szobaszámú, komfortfokozatú lehet.
 
-(4) Amennyiben az igénylés benyújtásakor a kérelmező vagy bármely vele együtt költöző személy lakásbérleti jogviszonnyal rendelkezett, úgy legkésőbb a lakásbérleti szerződés aláírásakor írásban nyilatkoznia kell arra vonatkozóan, hogy a korábbi lakásbérleti jogviszony – legkésőbb a lakásbérleti szerződés hatálybalépésének időpontjára történő – megszüntetését kezdeményezte.
+(4)[^7]
+
+[^7]: Az 5. § (4) bekezdését a 38/2016. (X. 12.) NGM rendelet 8. § a) pontja hatályon kívül helyezte.

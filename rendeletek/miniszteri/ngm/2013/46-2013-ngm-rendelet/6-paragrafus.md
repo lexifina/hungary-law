@@ -4,4 +4,6 @@
 
 a) a bérlő anyagi, szociális, egészségügyi helyzetére figyelemmel az előtakarékosság vállalása a bérlő részére aránytalanul súlyos megterhelést jelent, vagy
 
-b) a bérlő vagy a vele együtt költöző személy – a szolgálati hely (munkahely) vonzáskörzetén kívül – lakástulajdonnal rendelkezik.
+b)[^8] a bérlő vagy a vele együtt költöző személy önálló lakástulajdonnal rendelkezik.
+
+[^8]: A 6. § (2) bekezdés b) pontja a 38/2016. (X. 12.) NGM rendelet 5. §-ával megállapított szöveg.

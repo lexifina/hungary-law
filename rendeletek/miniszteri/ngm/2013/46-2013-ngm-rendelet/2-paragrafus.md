@@ -4,19 +4,15 @@
 
 1. bérbeadó: a NAV;
 
+1/a.[^2] bérlőkijelölő szerv: az 1. § (2) bekezdés c) pontja szerinti költségvetési szerv;
+
 2. együtt költöző személy: az igénylő által a NAV rendelkezése alatt álló lakás iránti kérelemben megjelölt közeli hozzátartozó, élettárs, aki a bérleti jogviszony kezdetétől az igénylővel együtt jogosult a lakás használatára;
 
 3. élettársi kapcsolat: két olyan, házasságkötés nélkül közös háztartásban, érzelmi és gazdasági közösségben együtt élő személy közötti kapcsolat, akik közül egyiknek sem áll fenn mással házassági életközössége, bejegyzett élettársi életközössége vagy élettársi kapcsolata, és akik nem állnak egymással egyenesági rokonságban vagy testvéri kapcsolatban. Az élettársi kapcsolat fennállásának tényéről a feleknek írásban nyilatkozniuk kell;
 
-4.[^1] lakásügyi szerv:
+4.[^3] lakásügyi szerv: a NAV Központi Irányítása (a továbbiakban: NAV KI);
 
-a) a NAV Központi Irányítás (a továbbiakban: NAV KI) a saját, a NAV Informatikai Intézete, valamint a budapesti székhelyű területi szervek személyi állománya vonatkozásában,
-
-b) illetékességi területükön a NAV megyei igazgatóságai személyi állományuk vonatkozásában,
-
-c) a NAV Bűnügyi Főigazgatósága a saját személyi állománya vonatkozásában,
-
-d) a NAV Képzési, Egészségügyi és Kulturális Intézetének személyi állománya vonatkozásában a szolgálatteljesítés helyétől (munkavégzés helyétől) függően az a) vagy b) pontban megjelölt szerv;
+4/a.[^4] lakásügyi szerv vezetője: a NAV KI főigazgatója;
 
 5. tiszta, rendeltetésszerű használatra alkalmas állapotú lakás: olyan lakás, melyben:
 
@@ -44,4 +40,6 @@ a) helyiség;
 
 b) elválasztó vonallal vagy azonosító jellel meghatározott leállósáv, útpadka.
 
-[^1]: A 2. § 4. pontja a 47/2015. (XII. 30.) NGM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 1/a. pontját a 38/2016. (X. 12.) NGM rendelet 2. § (1) bekezdése iktatta be.
+[^3]: A 2. § 4. pontja a 38/2016. (X. 12.) NGM rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § 4/a. pontját a 38/2016. (X. 12.) NGM rendelet 2. § (3) bekezdése iktatta be.
