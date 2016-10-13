@@ -1,3 +1,3 @@
-## 13. §[^1]
+## 13. §[^2]
 
-[^1]: A 13. § a 19. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^2]: A 13. § a 19. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
