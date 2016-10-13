@@ -1,4 +1,4 @@
-## 2. §[^2] E rendelet alkalmazásában:
+## 2. §[^3] E rendelet alkalmazásában:
 
 1. adatelemzés: az alkalmazott eljárástól függetlenül az a folyamat, amelynek során a bűnügyi statisztikai adatokból a bűnözés és a sértetté válás jellemzőire és alakulására, a bűnüldözésre, valamint a bűnözéssel és a bűnüldözéssel összefüggő egyéb kriminalisztikai sajátosságra vonatkozó következtetést vagy következtetéseket vonnak le;
 
@@ -34,4 +34,4 @@
 
 17. statisztikai adatlap: az ENyÜBS által gyűjtött, az Országos Statisztikai Adatgyűjtési Programról szóló kormányrendeletben meghatározott adatköröknek megfelelően strukturált, az adatkezelő rendszerben megfigyelési egységenként rögzített bűnügyi statisztikai adatok összessége.
 
-[^2]: A 2. § a 15. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.
+[^3]: A 2. § a 15. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.

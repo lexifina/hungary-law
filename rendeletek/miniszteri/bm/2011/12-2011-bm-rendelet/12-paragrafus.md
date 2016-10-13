@@ -1,10 +1,10 @@
 ## irányítja és ellenőrzi.
 
-12. §[^12] (1) A rendészetért felelős miniszter által vezetett minisztérium az adatgyűjtő rendszerben összegyűjtött bűnügyi statisztikai adatállomány teljességét adatfeldolgozás és felhasználás céljából legkésőbb minden hónap ötödik napját követő első munkanapon átadja a Legfőbb Ügyészségnek.
+12. §[^15] (1) A rendészetért felelős miniszter által vezetett minisztérium az adatgyűjtő rendszerben összegyűjtött bűnügyi statisztikai adatállomány teljességét adatfeldolgozás és felhasználás céljából legkésőbb minden hónap ötödik napját követő első munkanapon átadja a Legfőbb Ügyészségnek.
 
 (2) A rendészetért felelős miniszter által vezetett minisztérium a rendőrség nyomozó hatóságai által folytatott büntetőeljárásokkal, illetve a rendőrség nyomozó hatóságai által hozott bűnügyi statisztikai adat rögzítésére okot adó büntetőeljárási döntésekkel összefüggő bűnügyi statisztikai adatállományt adatfeldolgozás és felhasználás céljából legkésőbb minden hónap ötödik napját követő első munkanapon átadja az Országos Rendőr-főkapitányságnak.
 
-(3) A rendészetért felelős miniszter által vezetett minisztérium a NAV nyomozó hatóságai által folytatott büntetőeljárásokkal, illetőleg a NAV nyomozó hatóságai által hozott bűnügyi statisztikai adat rögzítésére okot adó büntetőeljárási döntésekkel összefüggő bűnügyi statisztikai adatállományt adatfeldolgozás és felhasználás céljából legkésőbb minden hónap ötödik napját követő első munkanapon átadja a NAV Bűnügyi Főigazgatóságának.
+(3)[^16] A rendészetért felelős miniszter által vezetett minisztérium a NAV nyomozó hatósági feladatot ellátó szervei által folytatott büntetőeljárásokkal, illetőleg a NAV nyomozó hatósági feladatot ellátó szervei által hozott bűnügyi statisztikai adat rögzítésére okot adó büntetőeljárási döntésekkel összefüggő bűnügyi statisztikai adatállományt adatfeldolgozás és felhasználás céljából legkésőbb minden hónap ötödik napját követő első munkanapon átadja a NAV Bűnügyi Főigazgatóságának.
 
 (4) A rendészetért felelős miniszter által vezetett minisztérium a bűnügyi statisztikai adatállományok (1)–(3) bekezdés szerinti átadását az adatgyűjtő rendszer és az adatkezelő rendszer között megvalósuló dokumentált adatátadással teljesíti.
 
@@ -16,4 +16,5 @@
 
 (8) A bűnügyi statisztikai adatok a Központi Statisztikai Hivatalnak statisztikai célra az Országos Statisztikai Adatgyűjtési Programról szóló kormányrendelet rendelkezéseivel összhangban átadhatók.
 
-[^12]: A 12. § a 15. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.
+[^15]: A 12. § a 15. § (2) bekezdése alapján 2011. július 1-jén lépett hatályba.
+[^16]: A 12. § (3) bekezdése a 40/2016. (X. 12.) BM rendelet 4. § (1) bekezdés c) pontja szerint módosított szöveg.
