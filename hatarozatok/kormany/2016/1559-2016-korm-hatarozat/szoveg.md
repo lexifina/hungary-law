@@ -1,0 +1,1 @@
+A Kormány egyetért azzal, hogy az Elektronikus Közigazgatás Operatív Program végrehajtásának tapasztalatait a Közigazgatás- és Közszolgáltatás-fejlesztési Operatív Program végrehajtása során érvényesítsék.
