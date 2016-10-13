@@ -1,0 +1,1 @@
+A Kormány – az igazságügyi miniszter javaslatára – egyetért azzal, hogy az Emberi Jogok Európai Bírósága magyar bírói posztjának betöltésére nyilvános pályázat kerüljön kiírásra, ezért az Emberi Jogok Európai Bírósága magyar bírójelöltjeiről szóló 1465/2016. (VIII. 31.) Korm. határozatot visszavonja.
