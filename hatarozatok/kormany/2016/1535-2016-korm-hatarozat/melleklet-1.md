@@ -1,0 +1,353 @@
+## a) elfogadja a Nemzeti Ifjúsági Stratégiáról szóló 88/2009. (X. 29.) OGY határozat 2. pont b) alpontjában foglalt feladat végrehajtása érdekében készített, az 1. mellékletben foglalt cselekvési tervet;
+
+## b) felhívja az érintett minisztereket, hogy a cselekvési tervben foglalt feladatok végrehajtásáról készítsenek beszámolót, és azt küldjék meg a gyermek- és ifjúságpolitikáért felelős miniszternek;
+
+## Felelős: érintett miniszterek
+
+## Határidő: 2018. január 31.
+
+## c) felhívja a gyermek- és ifjúságpolitikáért felelős minisztert, hogy a b) pont szerinti beszámolók alapján készítsen jelentést a Kormány számára a cselekvési tervben foglalt feladatok végrehajtásáról.
+
+## Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+
+## Határidő: 2018. április 30.
+
+1. melléklet az 1535/2016. (X. 13.) Korm. határozathoz
+
+## A Nemzeti Ifjúsági Stratégia 2016–2017. évekre vonatkozó cselekvési terve
+
+## Bevezetés – politikai célkitűzés
+
+## Bízunk a közösen alakított jövőben, a fiatal nemzedékek elhivatottságában. Hisszük, hogy gyermekeink és unokáink tehetségükkel, kitartásukkal és lelkierejükkel ismét naggyá teszik Magyarországot. Sikeres országot építeni jól képzett, versenyképes tudással rendelkező, életerős, a demokratikus és a családi értékek mellett elkötelezett, a közösségi részvételt preferáló és az önkéntes munkára nyitott fiatalokkal lehet.
+
+## A fiatalok jövőnk legfontosabb erőforrásai, akik kreativitásukkal, kitartásukkal, lendületükkel biztosítják nemzetünk megmaradását, így az államnak a családokkal, a civil, az egyházi és a magánszektorral együtt kell megfelelő jövőképet nyújtania számukra, és segíteni a kibontakozásukat a határokon innen és túl. Fontos, hogy a magyar fiatalok határokon átívelő közösségei támogassák egymást, mert csak egy összetartó, egymást segítő nemzet tagjaiként lehetnek ők is erősek. Alapvető, hogy ne pusztán a saját, hanem nemzedékük, nemzetük, hazájuk boldogulását, fejlődését is szem előtt tartsák.
+
+## Az eredményes ifjúságpolitika legfőbb fokmérője a fiataloknak a biztonságérzete és elégedettsége önmaguk és nemzetük helyzetével. Ezért a lehető legtöbbet kell tennünk a fiatalokért, ezzel is hozzájárulva a következő évek, évtizedek sikeres Magyarországának megteremtéséhez.
+
+## Mindezen célok megvalósulásához a következő intézkedések szükségesek:
+
+## I. PILLÉR: AZ IFJÚSÁGI KOROSZTÁLYOK SIKERES TÁRSADALMI INTEGRÁCIÓJÁHOZ SZÜKSÉGES KÖRNYEZET FEJLESZTÉSE
+
+1.1. Hatékony és célzott intézkedésekkel elő kell segíteni a fiatalok életpálya-tervezését.
+
+Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+
+Határidő: 2017. december 31.
+
+1.2. A korai gyermekkortól az ifjúkorig tartó célzott fejlesztésekkel, intézkedésekkel, speciális programokkal csökkenteni kell a végzettség nélküli iskolaelhagyók arányát és a hátrányos helyzetű tanulók lemorzsolódását.
+
+Felelős: oktatásért felelős miniszter
+
+társadalmi felzárkózásért felelős miniszter
+
+szakképzésért és felnőttképzésért felelős miniszter
+
+Határidő: 2017. december 31.
+
+1.3. Az ifjúsági korosztály pénzügyi tudatosságának fejlesztése céljából elő kell mozdítani a pénzügyi ismeretek elsajátítását.
+
+Felelős: oktatásért felelős miniszter
+
+pénz-, tőke- és biztosítási piac szabályozásáért felelős miniszter
+
+gyermek- és ifjúságpolitikáért felelős miniszter
+
+Határidő: folyamatos
+
+1.4. Az ifjúsági munkanélküliség visszaszorítása érdekében folytatni kell az Ifjúsági Garancia rendszer kiépítését és működtetni kell a fiatalok foglalkoztatását elősegítő munkaerő-piaci programokat.
+
+Felelős: foglalkoztatáspolitikáért felelős miniszter
+
+szakképzésért és felnőttképzésért felelős miniszter
+
+oktatásért felelős miniszter
+
+társadalmi felzárkózásért felelős miniszter
+
+gyermek- és ifjúságpolitikáért felelős miniszter
+
+Határidő: 2017. december 31.
+
+1.5. Elő kell segíteni a fiatalok vállalkozóvá válását direkt támogatásokkal és vállalkozói ismeretek elterjesztésével.
+
+Felelős: gazdaságpolitikáért felelős miniszter
+
+oktatásért felelős miniszter
+
+foglalkoztatáspolitikáért felelős miniszter
+
+Határidő: 2017. december 31.
+
+1.6. A fiatalok körében népszerűsíteni kell a vidéki térségek gazdasági lehetőségeit és a vidéki gazdálkodói életmódot a fiatalok helyben maradása, a helyben történő munkavállalás és társadalmi aktivitás növelése céljából.
+
+Felelős: agrárpolitikáért felelős miniszter
+
+gyermek- és ifjúságpolitikáért felelős miniszter
+
+Határidő: folyamatos
+
+1.7. Ösztönözni kell a fiatalok családalapítását, gyermekvállalási kedvét a családok otthonteremtési kedvezményével, az első házasok kedvezményeivel és a diplomás GYED-del.
+
+Felelős: családpolitikáért felelős miniszter
+
+lakásgazdálkodásért és lakáspolitikáért felelős miniszter
+
+Határidő: folyamatos
+
+1.8. Elő kell segíteni a munka és magánélet összehangolását rugalmas foglalkoztatást elősegítő intézkedésekkel, a részmunkaidőben foglalkoztatott kisgyermekes munkavállalók utáni kedvezményekkel.
+
+Felelős: családpolitikáért felelős miniszter
+
+foglalkoztatáspolitikáért felelős miniszter
+
+adópolitikáért felelős miniszter
+
+Határidő: folyamatos
+
+1.9. Elő kell segíteni a kreatív iparban rejlő lehetőség kiaknázását és támogatni kell az innovációt, a K+F tevékenységeket.
+
+Felelős: kultúráért felelős miniszter
+
+gyermek- és ifjúságpolitikáért felelős miniszter
+
+építésügyért felelős miniszter
+
+Határidő: folyamatos
+
+II. PILLÉR: AZ IFJÚSÁGI KOROSZTÁLYOK ÉS KÖZÖSSÉGEIK ÉRVÉNYESÜLÉSÉNEK ELŐSEGÍTÉSE
+
+2.1. Támogatni kell a tehetséggondozást, biztosítani kell a tehetségek fejlődését.
+
+Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+
+Határidő: folyamatos
+
+2.2. Fejleszteni kell a tanulói készségek és képességek, kulcskompetenciák elsajátítását elősegítő támogató eszközrendszert.
+
+Felelős: oktatásért felelős miniszter
+
+kormányzati tevékenység összehangolásáért felelős miniszter
+
+informatikáért felelős miniszter
+
+foglalkoztatáspolitikáért felelős miniszter
+
+Határidő: 2017. december 31.
+
+2.3. Ki kell terjeszteni a munkaerő-piaci részvételhez jobban alkalmazkodó képzési formákat.
+
+Felelős: oktatásért felelős miniszter
+
+Határidő: 2017. december 31.
+
+2.4. A hátrányos helyzetű régiók versenyképességének javítása érdekében vagy közösségi felsőoktatási képzési központokat, vagy telephelyeket kell létrehozni.
+
+Felelős: oktatásért felelős miniszter
+
+társadalmi felzárkózásért felelős miniszter
+
+Határidő: 2017. december 31.
+
+2.5. Ösztönözni kell a felsőoktatásban részt vevő hallgatók nemzetközi mobilitását és a felsőoktatási intézmények nemzetköziesítését.
+
+Felelős: oktatásért felelős miniszter
+
+Határidő: 2017. december 31.
+
+2.6. Be kell vezetni és működtetni kell a hallgatói kompetenciamérés rendszerét.
+
+Felelős: oktatásért felelős miniszter
+
+Határidő: 2017. december 31.
+
+2.7. Elő kell segíteni a magyar identitás megerősítését, a magyar-magyar kapcsolatok kialakítását és elmélyítését a fiatalok körében.
+
+Felelős: nemzetpolitikáért felelős miniszterelnök-helyettes
+
+oktatásért felelős miniszter
+
+kultúráért felelős miniszter
+
+Határidő: folyamatos
+
+2.8. Az összetartozás és a nemzeti tudat erősítése érdekében mobilizálni és ösztönözni kell a fiatalokat a nemzeti értékek gyűjtésére, védelmezésére határainkon belül és azon túl.
+
+Felelős: agrárpolitikáért felelős miniszter
+
+kultúráért felelős miniszter
+
+Határidő: folyamatos
+
+2.9. Elő kell segíteni a kisközösségek létrejöttét és fejlesztését, támogatni kell az ifjúsági korosztályok és közösségeik önálló kezdeményezéseit.
+
+Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+
+egyházakkal való kapcsolattartás koordinációjáért felelős miniszter
+
+nemzetiségpolitikáért felelős miniszter
+
+társadalmi felzárkózásért felelős miniszter
+
+társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter
+
+kultúráért felelős miniszter
+
+Határidő: 2017. december 31.
+
+2.10. Biztosítani kell a nem formális és informális tanulást támogató programokat, valamint elő kell segíteni főként a vidéken élő fiatalok kulturális és szabadidős tevékenységeinek támogatását, a kulturális értékek és a kulturális szolgáltatások eljutását a kulturális, illetve kulturális értékközvetítő intézményekkel nem rendelkező térségek, települések fiataljaihoz.
+
+Felelős: kultúráért felelős miniszter
+
+társadalmi felzárkózásért felelős miniszter
+
+építésügyért felelős miniszter
+
+Határidő: 2017. december 31.
+
+2.11. Pályázati úton támogatni kell a fiatalok és az ifjúsági területen aktív szakemberek nemzetközi tapasztalatszerzését, a fiatalok és döntéshozók közötti érdemi párbeszéd kialakítását, valamint erősíteni kell a fiatalok társadalmi részvételét.
+
+Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+
+Határidő: 2017. december 31.
+
+2.12. Az iskolai szociális segítés módszereinek és eszközeinek felhasználásával támogatni kell az iskoláskorú fiatalok egészségfejlesztését, sikeres iskolai előmenetelüket, illetve veszélyeztetettségük megelőzését.
+
+Felelős: szociál- és nyugdíjpolitikáért felelős miniszter
+
+társadalmi felzárkózásért felelős miniszter
+
+Határidő: 2017. december 31.
+
+2.13. Támogatni kell az ifjúságot érintő egészségvédelmi és egészségfejlesztési intézkedéseket, amelyek egészségtudatosabb magatartást eredményeznek a felnövekvő generációknál.
+
+Felelős: egészségügyért felelős miniszter
+
+Határidő: folyamatos
+
+2.14. Növelni kell a fiatalok sportolási hajlandóságát, elő kell segíteni a sportra és mozgásgazdag életmódra nevelést, valamint a mozgásra ösztönző környezet fejlesztését a jövő generációjának egészséges fejlődése érdekében.
+
+Felelős: sportpolitikáért felelős miniszter
+
+nemzetpolitikáért felelős miniszterelnök-helyettes
+
+az állami vagyon felügyeletéért és az állami vagyonnal való gazdálkodás szabályozásáért felelős miniszter
+
+Határidő: folyamatos
+
+2.15. Elő kell segíteni, hogy az ifjúsági korosztály minél szélesebb körében elérhetővé váljanak egészségfejlesztési, rehabilitációs, drogprevenciós programok és ellátások.
+
+Felelős: egészségügyért felelős miniszter
+
+kábítószer-megelőzésért és kábítószerügyi koordinációs feladatokért felelős miniszter
+
+Határidő: 2017. december 31.
+
+2.16. Támogatni kell a telefonos lelki segítő szolgálatok ifjúsági korosztály számára is hiánypótló tevékenységét és infrastruktúrafejlesztését.
+
+Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+
+Határidő: folyamatos
+
+2.17. Növelni kell a gyermek- és fiatalkorúak áldozattá és elkövetővé válásának megelőzését célzó programok hatékonyságát.
+
+Felelős: bűncselekmények megelőzéséért felelős miniszter
+
+oktatásért felelős miniszter
+
+Határidő: folyamatos
+
+2.18. Az ifjúsági bűnmegelőzés területén biztosítani kell a tárcák közötti hatékony együttműködést.
+
+Felelős: bűncselekmények megelőzéséért felelős miniszter
+
+építésügyért felelős miniszter
+
+Határidő: folyamatos
+
+2.19. Támogatni kell az ifjúsági korosztályt a fogyasztóvédelmi ismeretek elsajátításában, illetve az ifjúsági korosztályt oktató pedagógusokat a fiatalok tudatos fogyasztóvá nevelésének elérésében.
+
+Felelős: fogyasztóvédelemért felelős miniszter
+
+oktatásért felelős miniszter
+
+szakképzésért és felnőttképzésért felelős miniszter
+
+Határidő: folyamatos
+
+2.20. Felül kell vizsgálni a nem üzleti célú közösségi, szabadidős szálláshelyek jogszabályi környezetét.
+
+Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+
+turizmusért felelős miniszter
+
+Határidő: 2016. december 31.
+
+2.21. Fejleszteni kell a közösségi internet hozzáférési pontokat és bővíteni kell szolgáltatási portfóliójukat.
+
+Felelős: informatikáért felelős miniszter
+
+Határidő: 2017. december 31.
+
+III. PILLÉR: AZ IFJÚSÁGI SZAKMA ÉS AZ IFJÚSÁGI CIVIL SZERVEZETEK MUNKÁJÁNAK ELŐSEGÍTÉSE
+
+3.1. Le kell folytatni a nagymintás ifjúságkutatást és publikálni kell annak eredményeit.
+
+Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+
+nemzetpolitikáért felelős miniszterelnök-helyettes
+
+Határidő: 2017. december 31.
+
+3.2. Meg kell vizsgálni az ifjúságot érintő kedvezmények kiterjesztésének lehetőségeit.
+
+Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+
+közlekedésért felelős miniszter
+
+személyiadat- és lakcímnyilvántartásért felelős miniszter
+
+Határidő: 2017. december 31.
+
+3.3. Elő kell segíteni az ifjúságszakmai alapszak elindítását, valamint az ifjúsági szakemberek foglalkoztatását.
+
+Felelős: oktatásért felelős miniszter
+
+gyermek- és ifjúságpolitikáért felelős miniszter
+
+kultúráért felelős miniszter
+
+Határidő: 2017. december 31.
+
+3.4. Támogatni kell az önkormányzati ifjúsági célú feladatok ellátását, valamint elő kell mozdítani az önkormányzati feladatellátást elősegítő jogszabályi környezet megteremtését.
+
+Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+
+helyi önkormányzatokért felelős miniszter
+
+Határidő: 2017. december 31.
+
+3.5. Az Ifjúsági Szakmai Egyeztető Fórum (ISZEF) működtetésével a Nemzeti Ifjúsági Stratégia céljainak megvalósítása érdekében koordinálni és értékelni kell a kormányzati és civil szervezetek ifjúságügy terén végzett tevékenységét, biztosítani kell az ifjúsági munkában érintett társadalmi szereplők folyamatos együttműködését.
+
+Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+
+Határidő: folyamatos
+
+3.6. Össze kell hangolni az ifjúság körében a közös nemzetpolitikai célkitűzések megvalósítását, a magyar civil és egyházi ifjúsági szervezetek hálózatos együttműködését államhatárokra való tekintet nélkül. Ennek érdekében működtetni kell a Magyar Ifjúsági Konferenciát.
+
+Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+
+nemzetpolitikáért felelős miniszterelnök-helyettes
+
+társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter
+
+egyházakkal való kapcsolattartás koordinációjáért felelős miniszter
+
+Határidő: folyamatos
+
+3.7. Erősíteni kell a magyar ifjúságpolitika nemzetközi kapcsolatrendszerét a bilaterális és multilaterális együttműködéseken keresztül.
+
+Felelős: gyermek- és ifjúságpolitikáért felelős miniszter
+
+külpolitikáért felelős miniszter
+
+Határidő: folyamatos
