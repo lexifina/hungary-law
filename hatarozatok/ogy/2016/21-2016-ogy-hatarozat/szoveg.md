@@ -1,0 +1,3 @@
+1. Az Országgyűlés megállapítja, hogy az Állami Számvevőszék törvényi kötelezettségeit teljesítette, a gazdálkodását független könyvvizsgáló ellenőrizte, illetve erre vonatkozó pénzügyi beszámolóját hitelesnek minősítette, ezért a szervezet 2015. évi ellenőrzési tevékenységéről, működéséről, gazdálkodásáról készített beszámolót elfogadja.
+
+2. Az Országgyűlés elismeri a 41/2014. (XI. 13.) OGY határozat 2. pontja szerint az Állami Számvevőszék pénzügyi kultúra feltérképezésére irányuló tevékenysége végrehajtását és a pénzügyi kultúra elterjesztése érdekében végzett tevékenységét. A továbbiakban az Országgyűlés támogatja az Állami Számvevőszék feladatellátását a pénzügyi tudatosság egész társadalomra történő kiterjesztése érdekében.
