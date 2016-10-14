@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-61-20-1
 | 2015-11-25 | 2015-61-20-11.2 | 76/2015. (XI. 24.) FM rendelet |
 | 2016-04-12 | 2015-61-20-11.3 | 25/2016. (IV. 11.) FM rendelet |
 | 2016-05-19 | 2015-61-20-11.4 | 37/2016. (V. 18.) FM rendelet |
+| 2016-10-14 | 2015-61-20-11.5 | 68/2016. (X. 13.) FM rendelet |
