@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-191-20-
 | 2016-01-01 | 2009-191-20-22.29 | 109/2013. (IV. 9.) Korm. rendelet |
 | 2016-06-14 | 2009-191-20-22.30 | 156/2016. (VI. 13.) Korm. rendelet |
 | 2016-06-29 | 2009-191-20-22.31 | 156/2016. (VI. 13.) Korm. rendelet |
+| 2016-10-14 | 2009-191-20-22.32 | 306/2016. (X. 13.) Korm. rendelet |
