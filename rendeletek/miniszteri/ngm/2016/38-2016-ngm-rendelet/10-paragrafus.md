@@ -1,3 +1,3 @@
-## 9. §[^1]
+## 9. §[^2]
 
-[^1]: A 9. § a 14. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^2]: A 9. § a 14. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
