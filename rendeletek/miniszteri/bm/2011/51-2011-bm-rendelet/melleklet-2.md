@@ -16,23 +16,29 @@
 
 | 3.3 | küszöbérték alatti üzem | Kat. 40.§ (1)-(3); Kat. 27.§ (3) b); Kat. 27.§ (4) R. 35. § (1) | 135 000 Ft |
 
-| 4. | Katasztrófavédelmi engedélyezési eljárás üzem jelentős változtatásához | Kat. 27.§ (3) b); Kat. 27.§ (4) | 285 000 Ft |
+| 4. | Katasztrófavédelmi engedélyezési eljárás üzem Kat. 27. § (3) bekezdés b), c) és d) pontja szerinti jelentős változtatásához | Kat. 27. § (3) b), c), d) |  |
 
-| 5. | Katasztrófavédelmi engedélyezési eljárás veszélyes tevékenység ismételt folytatásához | Kat. 27.§ (3) a); Kat. 27.§ (4) | 145 000 Ft |
+| 4.1 | felső küszöbértékű veszélyes anyagokkal foglalkozó üzem |  | 285 000 Ft |
 
-| 6. | Biztonsági jelentés üzemeltető által kezdeményezett felülvizsgálata | Kat. 28.§ (4); | 115 000 Ft |
+| 4.2 | alsó küszöbértékű veszélyes anyagokkal foglalkozó üzem |  | 285 000 Ft |
+
+| 4.3 | küszöbérték alatti üzem |  | 135 000 Ft |
+
+| 5. |  |  |  |
+
+| 6. | Biztonsági jelentés üzemeltető által kezdeményezett felülvizsgálata | Kat. 27. § (3) a); Kat. 28. § (4); | 115 000 Ft |
 
 | 7. | Biztonsági elemzés üzemeltető által kezdeményezett felülvizsgálata | R. 11. § (3) | 115 000 Ft |
 
 | 8. | Belső védelmi terv üzemeltető által kezdeményezett felülvizsgálata | Kat. 38.§; R. 20. § (3) | 75 000 Ft |
 
-| 9. | Súlyos káresemény elhárítási terv üzemeltető által kezdeményezett felülvizsgálata | Kat. 41.§ d); R. 38. § | 75 000 Ft |
+| 9. | Súlyos káresemény elhárítási terv üzemeltető által kezdeményezett felülvizsgálata | Kat. 27. § (3) a); Kat. 41. § d); R. 38. § | 75 000 Ft |
 
 | 10. | Veszélyes tevékenység azonosítása | Kat. 40.§ (1); R. 7. §; R. 33. § (1) | 100 000 Ft |
 
-2. melléklet az 51/2011. (XII. 21.) BM rendelethez[^3]
+2. melléklet az 51/2011. (XII. 21.) BM rendelethez[^6]
 
-A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság területi szerveinek előirányzat-felhasználási keretszámla számai
+A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság és területi szerveinek előirányzat-felhasználási keretszámla számai
 
 | Sorszám | Szervezet megnevezése | Előirányzat-felhasználási keretszámla száma |
 
@@ -76,4 +82,6 @@ A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság területi
 
 | 20. | Zala Megyei Katasztrófavédelmi Igazgatóság | 10049006-00283724-00000000 |
 
-[^3]: A 2. mellékletet a 24/2012. (V. 8.) BM rendelet 17. § (3) bekezdése iktatta be.
+| 21. | BM Országos Katasztrófavédelmi Főigazgatóság | 10023002-00283494-00000000 |
+
+[^6]: A 2. mellékletet a 24/2012. (V. 8.) BM rendelet 17. § (3) bekezdése iktatta be, szövege a 35/2016. (VIII. 30.) BM rendelet 3. §-a szerint módosított szöveg.
