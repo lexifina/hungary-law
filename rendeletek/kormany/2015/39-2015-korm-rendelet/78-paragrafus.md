@@ -1,6 +1,6 @@
 ## szakértői véleményét.
 
-## 38. [^70] A hatóság nem hatósági örökségvédelmi feladatainak ellátása
+## 38. [^134] A hatóság nem hatósági örökségvédelmi feladatainak ellátása
 
 78. § (1) A hatóság nem hatósági örökségvédelmi feladatai különösen:
 
@@ -10,7 +10,7 @@ b) az örökségvédelem érdekeit érintő helyi szintű szakmai és társadalm
 
 (2) A hatóság örökségvédelmi szolgáltatás keretében
 
-a) a jogszabályban meghatározott módon, a műemléki érték nyilvántartásba vétele során – a Hivatal megkeresésére –
+a)[^135] a jogszabályban meghatározott módon, a műemléki érték nyilvántartásba vétele során – a nyilvántartást vezető hatóság megkeresésére –
 
 aa) vizsgálja és véleményezi a műemléki érték nyilvántartásba vételére irányuló kezdeményezéseket,
 
@@ -18,11 +18,11 @@ ab) szakértői jogosultság birtokában értékvizsgálatot folytathat le, ért
 
 ac) szemrevételezésen alapuló értékleltárt vehet fel.
 
-b) az (1) bekezdés a) pontjában meghatározott céllal – a Hivatallal együttműködve – segíti a tulajdonosokat az alábbiak tekintetében:
+b)[^136] az (1) bekezdés a) pontjában meghatározott céllal – a nyilvántartást vezető hatósággal együttműködve – segíti a tulajdonosokat az alábbiak tekintetében:
 
 ba) a védett műemléki értéket érintő jókarbantartási kötelezettségük teljesítése,
 
-bb)[^71] a nyilvántartott régészeti lelőhely fenntartására és a műemlék helyreállítására, különösen annak előkészítésére, kutatására, restaurálására fordítható pályázati lehetőségek feltérképezése,
+bb)[^137] a nyilvántartott régészeti lelőhely fenntartására és a műemlék helyreállítására, különösen annak előkészítésére, kutatására, restaurálására fordítható pályázati lehetőségek feltérképezése,
 
 bc) a műemlékvédelmi követelményekre, szempontokra, eljárási szabályokra vonatkozó, valamint – a 72. § (1) bekezdés b) pont szerinti helyszíni ellenőrzést követően – az örökségvédelmi engedély lejáratának jogkövetkezményeiről szóló tájékoztatás nyújtása.
 
@@ -36,5 +36,7 @@ cb) a tervezett tevékenységek megvalósításához szükséges örökségvéde
 
 (3) A hatóságot az előzetes tájékoztatása azokban a kérdésekben, amelyekről tájékoztatást adott, mindaddig köti, amíg a vonatkozó jogszabályi rendelkezés vagy a nyilatkozat iránti kérelemben meghatározott tevékenység érdemben nem változik meg.
 
-[^70]: A 38. alcím címe a 171/2015. (VI. 30.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
-[^71]: A 78. § (2) bekezdés b) pont bb) alpontja a 171/2015. (VI. 30.) Korm. rendelet 43. § (2) bekezdésével megállapított szöveg.
+[^134]: A 38. alcím címe a 171/2015. (VI. 30.) Korm. rendelet 43. § (1) bekezdésével megállapított szöveg.
+[^135]: A 78. § (2) bekezdés a) pont nyitó szövegrésze a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 34. pontja szerint módosított szöveg.
+[^136]: A 78. § (2) bekezdés b) pont nyitó szövegrésze a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 35. pontja szerint módosított szöveg.
+[^137]: A 78. § (2) bekezdés b) pont bb) alpontja a 171/2015. (VI. 30.) Korm. rendelet 43. § (2) bekezdésével megállapított szöveg.

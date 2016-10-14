@@ -26,22 +26,6 @@ c) az értékleltár elkészült.
 
 (4) Ha a nyilvántartott műemléki érték értékleltára vagy feltárása még nem teljes körű, a közérdekűség megállapítására akkor kerülhet sor, ha a kiemelkedő és országos jelentőség a feltárt tudományos tények alapján legalább valószínűsíthető.
 
-(5) A nyilvántartott műemléki érték műemlékké nyilvánításának előkészítéséről értesíteni kell
+(5)–(8)[^55]
 
-a) az érintett ingatlannal rendelkezni jogosultat,
-
-b) a védetté nyilvánítás kezdeményezőjét,
-
-c) a hatóságot,
-
-d) más jogszabály alapján is védett vagy védendő műemléki érték esetében a hatáskörrel rendelkező illetékes hatóságot,
-
-e) a (6) bekezdésben meghatározott módon a tervezett műemléki környezet területén fekvő ingatlan tulajdonosát, valamint
-
-f) a természetvédelmi kezelésért felelős szervet, ha a védelemre tervezett történeti kert, történeti táj, műemléki jelentőségű terület, műemléki környezet országos jelentőségű védett természeti területen helyezkedik el.
-
-(6) A védelem alá vonni tervezett területen álló ingatlanok tulajdonosait a műemlékké nyilvánítás előkészítésének megindításáról a Hivatal megkeresésére az érintett ingatlan fekvése szerinti települési önkormányzat hirdetmény útján értesíti.
-
-(7) Ha az előkészítés alatt álló területi védelem ötven tulajdonosnál többet érint, a Hivatal a települési önkormányzat bevonásával szervezett közmeghallgatás keretében tájékoztatást ad.
-
-(8) Az (5) bekezdés szerinti értesítés közlése, a (6) bekezdés szerinti megkeresés iránt és a (7) bekezdés szerinti közmeghallgatás érdekében a védetté nyilvánítás előkészítésének megindításától számított tizenöt napon belül kell intézkedni.
+[^55]: A 28. § (5)–(8) bekezdését a 306/2016. (X. 13.) Korm. rendelet 42. § e) pontja hatályon kívül helyezte.

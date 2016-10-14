@@ -1,4 +1,4 @@
-## 60. § A bejelentés, illetve hatósági nyilatkozat szabályai és az örökségvédelmi hatósági eljárás lefolytatása alóli mentesség a tevékenység végzésére jogosultat nem mentesíti a tervezett tevékenység elvégzéséhez szükséges más hatósági engedélyek, nyilatkozatok vagy hozzájárulások megszerzésének kötelezettsége alól.
+## 60. §[^93] A bejelentés, illetve a tudomásulvétel szabályai és az örökségvédelmi hatósági eljárás lefolytatása alóli mentesség a tevékenység végzésére jogosultat nem mentesíti a tervezett tevékenység elvégzéséhez szükséges más hatósági engedélyek, nyilatkozatok vagy hozzájárulások megszerzésének kötelezettsége alól.
 
 ## VI. Fejezet
 
@@ -33,3 +33,5 @@ b) önálló jogorvoslattal meg nem támadható végzés formájában elvi örö
 (8) A hatóságot az elvi keretengedélyében foglaltak mindaddig kötik, amíg a kérelemben meghatározott tevékenység érdemben nem változik meg.
 
 (9) Az elvi örökségvédelmi keretengedély a tervezett tevékenység végzésére nem jogosít.
+
+[^93]: A 60. § a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 22. pontja szerint módosított szöveg.

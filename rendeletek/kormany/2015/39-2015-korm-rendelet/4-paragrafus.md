@@ -1,4 +1,4 @@
-## 3/A. § A fővárosi és megyei kormányhivatal örökségvédelemmel kapcsolatos feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként a miniszter gyakorolja.
+## 3/B. §[^7] A Kötv. szerinti, jogszabályban kijelölt örökségvédelmi szerv a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ.
 
 ## II. Fejezet
 
@@ -19,3 +19,5 @@ b) a nyilvántartott tájképi jelentőségű régészeti lelőhelyet és
 c) az eredeti összefüggéseiben megmaradt, helyben és fizikai állapotromlás nélkül megőrzendő régészeti emléket.
 
 (4) A lelőhely állapotváltozásával járó régészeti feltárás esetén előnyben kell részesíteni az eredeti rétegsort és történeti összefüggést tartalmazó lelőhelyrész megtartását.
+
+[^7]: A 3/B. §-t a 306/2016. (X. 13.) Korm. rendelet 19. §-a iktatta be.

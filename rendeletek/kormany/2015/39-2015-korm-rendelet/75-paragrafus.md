@@ -1,21 +1,26 @@
-## 35. Az örökségvédelmi fennmaradási engedélyezési eljárás a védett műemléki értéket érintő beavatkozások esetén
+## 35. [^130] Az örökségvédelmi fennmaradási tudomásulvétel a védett műemléki értéket érintő beavatkozások esetén
 
-75. § (1) A hatóság az e rendeletben foglaltak szerint dönt a védett műemléki értéket érintő bejelentéshez vagy az örökségvédelmi engedélyhez kötött, de hozzájáruló nyilatkozat, illetve engedély nélkül vagy szakszerűtlenül, a hatóság által jóváhagyott tervtől vagy dokumentációtól eltérően végzett tevékenységek befejezésével megvalósult beavatkozások fennmaradásának engedélyezéséről és egyúttal örökségvédelmi bírság kiszabásáról.
+75. §[^131] (1) A védett műemléki érték szabályos vagy szabályossá tett állapotát a hatóság jogszerű hallgatással tudomásul veszi.
 
-(2) Az örökségvédelmi fennmaradási engedélyezési eljárás során a hatóság szabályossá tételi, helyreállítási bontási kötelezettség teljesítését rendelheti el, amelynek határideje a döntés jogerőssé és végrehajthatóvá válásától számított legfeljebb hat hónap, mely határidő a kötelezett kérelmére indokolt esetben egyszer három hónappal meghosszabbítható.
+(2) Ha a védett műemléki érték szabálytalan állapota helyreállítással nem orvosolható, a hatóság – a (4) bekezdésben meghatározott esetek kivételével – a 74. §-ban meghatározott helyszíni szemlét követő tizenöt napon belül jogszerű hallgatással tudomásul veszi a védett műemléki értéket érintő bejelentéshez vagy örökségvédelmi engedélyhez kötött, de a hatósághoz benyújtott bejelentés vagy engedélykérelem mellékleteitől eltérően végzett tevékenységek befejezésével megvalósult állapot fennmaradását.
 
-(3) A szabályossá tételi kötelezettség nem teljesítése esetén a hatóság, örökségvédelmi bírság kiszabása mellett, haladéktalanul elrendeli a jogszerűtlenül, szakszerűtlenül megvalósított beavatkozás bontását, illetve az eredeti állapot visszaállítását vagy a helyreállítást.
+(3) Az örökségvédelmi fennmaradási tudomásulvétel során, amennyiben annak jogszabályi feltételei fennállnak – a (4) bekezdés kivételével – a hatóság a tevékenységek befejezésével megvalósult állapot fennmaradását feltételekhez kötheti. A 9. melléklet II. rész A. pontja szerinti állapotdokumentáció elkészítése feltételként szabható.
 
-(4) Nem adható fennmaradási engedély és örökségvédelmi bírságot kell kiszabni, ha a jogszerűtlenül, szakszerűtlenül megvalósított beavatkozás eredményeként
+(4) A megvalósult beavatkozások fennmaradása nem vehető tudomásul, ha a szabálytalanul megvalósított beavatkozás eredményeként
 
 a) a nyilvántartott műemléki érték esetén az egymást követő egyes beavatkozások összeadódó hatása miatt az érintett védett érték
 
 aa) anyagában helyreállíthatatlanul megsérült vagy elpusztult,
 
-ab) veszélyeztetetté vált, vagy
+ab) veszélyeztetetté vált; vagy
 
 b) műemlék esetén – az a) pontban felsoroltakon túlmenően –
 
 ba) a védett érték jellegét, történelmi és eszmei jelentőségét, ezek eredetiségét, hitelességét, integritását veszélyeztető és sértő állapot jött létre,
 
-bb) olyan állapot jön létre, amely a védett érték érvényesülését és megjelenését gátolja.
+bb) olyan állapot jön létre, amely a védett érték érvényesülését és megjelenését gátolja;
+
+c) műemléki jelentőségű területen, műemlék történeti tájon a védettséget megalapozó értéket veszélyeztető és sértő, valamint az érték, műemléki környezetben a műemlék zavartalan érvényesülését gátló állapot jött létre.
+
+[^130]: A 35. alcím címe a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 32. pontja szerint módosított szöveg.
+[^131]: A 75. § a 306/2016. (X. 13.) Korm. rendelet 39. §-ával megállapított szöveg.

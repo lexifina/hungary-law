@@ -1,29 +1,13 @@
-20. § (1)[^24] Egyszerűsített előzetes régészeti dokumentáció készítése szükséges a Hivatal döntése szerint, ha a beruházás jellege próbafeltárás végzését nem indokolja, vagy azt nem teszi lehetővé. Az egyszerűsített előzetes régészeti dokumentáció készítésére a próbafeltárás kivételével a Kötv. 23/C. §-át kell alkalmazni.
+20. §[^34] (1) Egyszerűsített előzetes régészeti dokumentáció készíthető, ha
 
-(2) Egyszerűsített előzetes régészeti dokumentáció készíthető különösen az alábbi esetekben:
+a) a nyomvonalas létesítmény esetén a tervezett földmunkák által érintett terület szélessége nem éri el a 3,5 métert,
 
-a) kerékpárút létesítése,
+b) nem nyomvonalas létesítmény esetén a régészeti lelőhely földmunkával érintett területe nem éri el az 1000 m2-t,
 
-b)[^25] két méternél keskenyebb nyomvonalas létesítmények építése, közművek létesítése, kiváltása, áthelyezése,
+c) a jogszabályban kijelölt örökségvédelmi szerv rendelkezésére álló tervezési és régészeti adatok alapján megállapítható, hogy a beruházás során végzett földmunka nem éri el a régészeti örökség jelentkezésének felső síkját, vagy a beruházás megvalósításának módja nem veszélyezteti a régészeti jelenségeket, vagy
 
-c) légvezeték oszlopának létesítése,
+d) az előzetes régészeti dokumentáció készítése során elvégzett roncsolásmentes vizsgálatok eredményei vagy a beruházás jellege próbafeltárás végzését nem indokolják.
 
-d) beépített területen,
+(2) Egyszerűsített előzetes régészeti dokumentáció készítésére – a próbafeltárás végzésének kivételével – a Kötv. 23/C. §-át kell alkalmazni.
 
-e) hulladéklerakó rekultivációja,
-
-f) a két méter szélességet szakaszokban sem meghaladó, pálya- és ívkorrekció nélküli 11,5 tonnás burkolat-megerősítés,
-
-g) belterületi aszfaltos környezetben körforgalmak építése,
-
-h) helyben cserés vasúti felújítások,
-
-i) természetes és mesterséges vízfolyások mederrendezése,
-
-j) vasúti vagy közúti töltést érintő munkálatok,
-
-k)[^26] ha a földmunkával érintett régészeti lelőhely területe nem haladja meg az 1000 m2-t.
-
-[^24]: A 20. § (1) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 45. § b) pontja szerint módosított szöveg.
-[^25]: A 20. § (2) bekezdés b) pontja a 171/2015. (VI. 30.) Korm. rendelet 27. § (1) bekezdésével megállapított szöveg.
-[^26]: A 20. § (2) bekezdés k) pontját a 171/2015. (VI. 30.) Korm. rendelet 27. § (2) bekezdése iktatta be.
+[^34]: A 20. § a 306/2016. (X. 13.) Korm. rendelet 22. §-ával megállapított szöveg.

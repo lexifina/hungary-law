@@ -6,7 +6,7 @@ a) a védett műemléki értéket érintően a bejelentést tudomásul veszi, va
 
 b) műemlék esetében dönt az örökségvédelmi engedély kiadásáról, módosításáról vagy hatályának legfeljebb két évvel való meghosszabbításáról.
 
-(2) Építésügyi vagy örökségvédelmi eljárásban, illetve a bejelentést követően a hatóság
+(2)[^87] Örökségvédelmi eljárásban, illetve a bejelentést követően a hatóság
 
 a) nyilvántartott műemléki értéken tervezett tevékenység esetén:
 
@@ -27,3 +27,5 @@ bc) az érték hiteles és meghatározó módon történő érvényesülése,
 bd) a hagyományos anyaghasználat,
 
 be) az építészeti minőség és illeszkedés
+
+[^87]: Az 53. § (2) bekezdés nyitó szövegrésze a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 18. pontja szerint módosított szöveg.

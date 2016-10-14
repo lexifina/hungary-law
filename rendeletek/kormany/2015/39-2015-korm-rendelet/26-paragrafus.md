@@ -10,6 +10,6 @@
 
 (5) Ha a feltárás során 1711 utáni emberi maradványok kerülnek elő, a feltárást végző intézmény erről haladéktalanul köteles a hatóságot értesíteni.
 
-(6)[^39] A végleges leletbefogadás költségeiről a feltáró intézmény és a leletanyagot véglegesen befogadó múzeum között kötendő megállapodás során figyelemmel kell lenni a befogadott leletek mennyiségével arányos egyszeri költségekre, melyek különösen a gyűjteményi alapleltárba vétel és a raktárkapacitás bővítésének költségei.
+(6)[^51] A végleges leletbefogadás költségeiről a feltáró intézmény és a leletanyagot véglegesen befogadó múzeum között kötendő megállapodás során figyelemmel kell lenni a befogadott leletek mennyiségével arányos egyszeri költségekre, melyek különösen a gyűjteményi alapleltárba vétel és a raktárkapacitás bővítésének költségei.
 
-[^39]: A 26. § (6) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 33. §-a iktatta be.
+[^51]: A 26. § (6) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 33. §-a iktatta be.

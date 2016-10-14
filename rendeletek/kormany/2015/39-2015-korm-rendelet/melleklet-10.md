@@ -148,7 +148,7 @@
 
 ## G. KUTATÁSI DOKUMENTÁCIÓ
 
-## 1. az A. pont 1–3. pontjában meghatározott munkarészek felhasználásával a tevékenység közbeni és az elvégzett beavatkozásokat követő állapot állapotdokumentációja,
+## 1.[^143] az A. pont 1–3. pontjában meghatározott munkarészek felhasználásával a tevékenység kutatási naplója és az elvégzett beavatkozásokat követő állapot állapotdokumentációja,
 
 ## 2. a kutatás tárgyát képező védett műemléki érték történeti leírása,
 
@@ -174,10 +174,13 @@
 
 ## I. A RESTAURÁLÁSI DOKUMENTÁCIÓ
 
-## 1. az A. pont 1–3. pontjában meghatározott munkarészek felhasználásával a tevékenység közbeni és az elvégzett beavatkozásokat követő állapot állapotdokumentációja és a tevékenység eredményeinek részletes kiértékelése,
+## 1.[^144] az A. pont 1–3. pontjában meghatározott munkarészek felhasználásával a tevékenység restaurálási naplója és az elvégzett beavatkozásokat követő állapot állapotdokumentációja és a tevékenység eredményeinek részletes kiértékelése,
 
 ## 2. az elvégzett technikai, technológiai, anyagi beavatkozások, kezelések, kiegészítések és a mindezek során alkalmazott anyagok és módszerek leírása, rajz- és fényképmellékleteket tartalmazó dokumentálása és kiértékelése,
 
 ## 3. a további fenntartást biztosító kezelésre és megőrzésre vonatkozó javaslatok.
 
 10. melléklet a 39/2015. (III. 11.) Korm. rendelethez
+
+[^143]: A 9. melléklet II. pont G. alpont 1. alpontja a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 36. pontja szerint módosított szöveg.
+[^144]: A 9. melléklet II. pont I. alpont 1. alpontja a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 37. pontja szerint módosított szöveg.

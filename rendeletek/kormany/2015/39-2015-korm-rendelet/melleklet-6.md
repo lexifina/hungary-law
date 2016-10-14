@@ -50,7 +50,7 @@
 
 | 23. | b) Nyomvonalas | Ft/km | 10000 + áfa, de legalább 30000 + áfa |
 
-| 24. | Próbafeltárás (az ár a Hivatal által végzett földmunka költségét nem tartalmazza) |  |  |
+| 24. | Próbafeltárás (az ár a földmunka költségét nem tartalmazza) |  |  |
 
 | 25. | a) egy vagy több korszak történeti összefüggésben megmaradt emlékanyagának feltárása (1 vagy 2 rétegű) | Ft/m² | 3150 + áfa |
 

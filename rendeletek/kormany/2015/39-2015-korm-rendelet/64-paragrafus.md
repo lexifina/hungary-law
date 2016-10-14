@@ -1,8 +1,8 @@
 ## esetén, ha előzetes régészeti dokumentáció nem áll rendelkezésre.
 
-## 29. [^59] Az örökségvédelmi szakhatóság régészeti lelőhelyet, régészeti védőövezetet érintő eljárásában vagy szakkérdés vizsgálata során figyelembe veendő régészeti követelmények és szempontok
+## 29. [^100] Az örökségvédelmi szakhatósági eljárás és szakkérdés vizsgálatának követelményei és szempontjai régészeti lelőhely, régészeti védőövezet esetén
 
-64. § (1)[^60] A régészeti lelőhelyet érintő szakhatósági eljárásokban vagy örökségvédelmi szakkérdés vizsgálata során a hatóság vizsgálja:
+64. § (1)[^101] A régészeti lelőhelyet érintő szakhatósági eljárásokban vagy örökségvédelmi szakkérdés vizsgálata során a hatóság vizsgálja:
 
 a) a nyilvántartott régészeti lelőhely, lelőhelyrész ismert és várható horizontális és vertikális kiterjedését az érintett ingatlan vagy ingatlanok területén,
 
@@ -36,13 +36,13 @@ cd) elfedés
 
 d) a régészeti lelőhely elkerülése lehetőségét.
 
-(2)[^61] A telekalakítási ügyben szakkérdést vizsgáló hatóság a telekalakítás engedélyezéséhez történő hozzájárulást megtagadhatja, ha a tervezett telekfelosztás következtében az egy telken fekvő régészeti emlék több telekre kerülne, és az veszélyezteti a régészeti emlék védelmét.
+(2)[^102] A telekalakítási ügyben szakkérdést vizsgáló hatóság a telekalakítás engedélyezéséhez történő hozzájárulást megtagadhatja, ha a tervezett telekfelosztás következtében az egy telken fekvő régészeti emlék több telekre kerülne, és az veszélyezteti a régészeti emlék védelmét.
 
-(3)[^62] A telekalakítási eljárás a védettség hatályát nem érinti, a telekalakítással érintett telek régészeti védelme a telekalakítás folytán létrejött telkekre is vonatkozik, kivéve ha a hatóság a szakkérdés vizsgálata során másként rendelkezik.
+(3)[^103] A telekalakítási eljárás a védettség hatályát nem érinti, a telekalakítással érintett telek régészeti védelme a telekalakítás folytán létrejött telkekre is vonatkozik, kivéve ha a hatóság a szakkérdés vizsgálata során másként rendelkezik.
 
-(4)[^63] A védetté vagy ideiglenesen védetté nyilvánított régészeti lelőhelyet érintő szakhatósági eljárásokban vagy örökségvédelmi szakkérdés vizsgálata során a hatóság az e §-ban, valamint a 66. §-ban meghatározott szempontokon túl tekintetbe veszi, hogy a tervezett beavatkozás összhangban áll-e a védetté nyilvánítás céljával, ezen belül biztosítható-e – a fenntartható használat elvét is figyelembe véve – a lelőhely hosszú távú megőrzése, valamint jövőbeni kutathatósága.
+(4)[^104] A védetté vagy ideiglenesen védetté nyilvánított régészeti lelőhelyet érintő szakhatósági eljárásokban vagy örökségvédelmi szakkérdés vizsgálata során a hatóság az e §-ban, valamint a 66. §-ban meghatározott szempontokon túl tekintetbe veszi, hogy a tervezett beavatkozás összhangban áll-e a védetté nyilvánítás céljával, ezen belül biztosítható-e – a fenntartható használat elvét is figyelembe véve – a lelőhely hosszú távú megőrzése, valamint jövőbeni kutathatósága.
 
-(5)[^64] A régészeti védőövezetet érintő szakhatósági eljárásokban vagy örökségvédelmi szakkérdés vizsgálata során a hatóság az e §-ban, valamint a 66. §-ban meghatározott szempontokon túl tekintetbe veszi a tervezett beavatkozás hatását a védetté nyilvánított régészeti lelőhelyre – összhangban a védetté nyilvánítás céljával –, különös tekintettel arra, hogy a tervezett tevékenység, beruházás, építmény nem veszélyezteti-e a védetté nyilvánított lelőhely
+(5)[^105] A régészeti védőövezetet érintő szakhatósági eljárásokban vagy örökségvédelmi szakkérdés vizsgálata során a hatóság az e §-ban, valamint a 66. §-ban meghatározott szempontokon túl tekintetbe veszi a tervezett beavatkozás hatását a védetté nyilvánított régészeti lelőhelyre – összhangban a védetté nyilvánítás céljával –, különös tekintettel arra, hogy a tervezett tevékenység, beruházás, építmény nem veszélyezteti-e a védetté nyilvánított lelőhely
 
 a) tájképi megjelenését,
 
@@ -54,9 +54,9 @@ d) esetleges bemutathatóságát, vagy
 
 e) rövid- és hosszú távú kutathatóságát.
 
-[^59]: A 29. alcím címe a 171/2015. (VI. 30.) Korm. rendelet 41. §-ával megállapított szöveg.
-[^60]: A 64. § (1) bekezdés nyitó szövegrésze a 171/2015. (VI. 30.) Korm. rendelet 45. § l) pontja szerint módosított szöveg.
-[^61]: A 64. § (2) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 45. § m) pontja szerint módosított szöveg.
-[^62]: A 64. § (3) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 45. § n) pontja szerint módosított szöveg.
-[^63]: A 64. § (4) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 45. § o) pontja szerint módosított szöveg.
-[^64]: A 64. § (5) bekezdés nyitó szövegrésze a 171/2015. (VI. 30.) Korm. rendelet 45. § o) pontja szerint módosított szöveg.
+[^100]: A 29. alcím címe a 306/2016. (X. 13.) Korm. rendelet 32. §-ával megállapított szöveg.
+[^101]: A 64. § (1) bekezdés nyitó szövegrésze a 171/2015. (VI. 30.) Korm. rendelet 45. § l) pontja szerint módosított szöveg.
+[^102]: A 64. § (2) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 45. § m) pontja szerint módosított szöveg.
+[^103]: A 64. § (3) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 45. § n) pontja szerint módosított szöveg.
+[^104]: A 64. § (4) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 45. § o) pontja szerint módosított szöveg.
+[^105]: A 64. § (5) bekezdés nyitó szövegrésze a 171/2015. (VI. 30.) Korm. rendelet 45. § o) pontja szerint módosított szöveg.
