@@ -1,4 +1,4 @@
-4. §[^15] (1) A Központ a kezelési terv tervezetét honlapján közzéteszi, és erről egyidejűleg elektronikus úton értesítést küld
+4. §[^19] (1)[^20] A Központ az általa vezetett minisztérium honlapján a kezelési terv tervezetét közzéteszi, és erről egyidejűleg elektronikus úton értesítést küld
 
 a) a miniszternek és az érintett minisztereknek,
 
@@ -32,6 +32,8 @@ d) az (1) bekezdés f) pontjában foglalt természetvédelmi érintettségtől f
 
 ## részvételével.
 
-(4) A kezelési terv elfogadására a továbbiakban a 3. § (2) bekezdése és a 3. § (3) bekezdés a) pontja szerinti eljárást kell megfelelően alkalmazni.
+(4)[^21] A kezelési terv elfogadására a továbbiakban a 3. § (2)–(4) bekezdése szerinti eljárást kell megfelelően alkalmazni.
 
-[^15]: A 4. § a 279/2015. (IX. 22.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^19]: A 4. § a 279/2015. (IX. 22.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^20]: A 4. § (1) bekezdése a 306/2016. (X. 13.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
+[^21]: A 4. § (4) bekezdése a 306/2016. (X. 13.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.

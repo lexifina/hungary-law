@@ -62,6 +62,6 @@
 
 ## 5. Világörökségi szempontból lényeges tartalmú statisztikai adatok
 
-2. melléklet a 315/2011. (XII. 27.) Korm. rendelethez[^28]
+2. melléklet a 315/2011. (XII. 27.) Korm. rendelethez[^35]
 
-[^28]: A 2. melléklet a 279/2015. (IX. 22.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
+[^35]: A 2. melléklet a 279/2015. (IX. 22.) Korm. rendelet 18. § (2) bekezdésével megállapított, a 306/2016. (X. 13.) Korm. rendelet 10. § i) pontja szerint módosított szöveg.

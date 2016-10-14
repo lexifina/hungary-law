@@ -56,11 +56,11 @@ g) az illetékes önkormányzati és állami főépítészeket.
 
 (7) Az (6) bekezdésben meghatározott szervek és személyek együttműködnek a kezelési terv készítőjével.
 
-(8) A megalapozó dokumentáció és a kezelési terv elkészítése során a kezelési terv készítője együttműködik a világörökségi területen működő, világörökségi gondnoksággal.
+(8)[^12]
 
-(9)[^12] A kezelési terv készítője a megalapozó dokumentáció és a kezelési terv tervezetéről a világörökségi terület használatában és megőrzésében érintett szereplőkkel 20 napos egyeztetési határidővel helyi fórumok útján széleskörű társadalmi egyeztetést folytat.
+(9)[^13] A kezelési terv készítője a megalapozó dokumentáció és a kezelési terv tervezetéről a világörökségi terület használatában és megőrzésében érintett szereplőkkel 20 napos egyeztetési határidővel helyi fórumok útján széleskörű társadalmi egyeztetést folytat.
 
-(10)[^13] A megalapozó dokumentáció és kezelési terv elbírálásában nem vehet részt olyan személy vagy szervezet, amely azok elkészítésében részt vett. Az összeférhetetlenség elbírálására a hatályos közbeszerzésekről szóló törvény rendelkezései irányadók.
+(10)[^14] A megalapozó dokumentáció és kezelési terv elbírálásában nem vehet részt olyan személy vagy szervezet, amely azok elkészítésében részt vett. Az összeférhetetlenség elbírálására a hatályos közbeszerzésekről szóló törvény rendelkezései irányadók.
 
 [^6]: A 2. § (1) bekezdése a 279/2015. (IX. 22.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^7]: A 2. § (1a) bekezdését a 310/2012. (XI. 6.) Korm. rendelet 19. § (2) bekezdése iktatta be, hatályon kívül helyezte a 279/2015. (IX. 22.) Korm. rendelet 17. § a) pontja.
@@ -68,5 +68,6 @@ g) az illetékes önkormányzati és állami főépítészeket.
 [^9]: A 2. § (5) bekezdése a 279/2015. (IX. 22.) Korm. rendelet 16. §-a szerint módosított szöveg.
 [^10]: A 2. § (6) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 181. § (1) bekezdésével megállapított szöveg.
 [^11]: A 2. § (6) bekezdés b) pontja a 279/2015. (IX. 22.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^12]: A 2. § (9) bekezdését a 279/2015. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be.
-[^13]: A 2. § (10) bekezdését a 279/2015. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^12]: A 2. § (8) bekezdését a 306/2016. (X. 13.) Korm. rendelet 11. § b) pontja hatályon kívül helyezte.
+[^13]: A 2. § (9) bekezdését a 279/2015. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be.
+[^14]: A 2. § (10) bekezdését a 279/2015. (IX. 22.) Korm. rendelet 5. § (3) bekezdése iktatta be.

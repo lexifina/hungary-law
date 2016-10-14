@@ -12,7 +12,7 @@
 
 ## b) területi jellemzők – területi kiterjedés, méret meghatározás helyszín és védőövezet bontásban (határon átnyúló helyszín esetén a magyar és a külföldi oldalt megkülönböztetve is),
 
-## c) a világörökségi helyszín és védőövezete helyrajzi számok szerinti megadása és határának EOV síkkoordináták és WGS 84 alapfelületre vonatkozó földrajzi koordináták szerinti megállapítása fok, perc, másodperc formában (DMS)
+## c) a világörökségi helyszín és védőövezete helyrajzi számok szerinti megadása vagy határának EOV síkkoordináták és WGS 84 alapfelületre vonatkozó földrajzi koordináták szerinti megállapítása fok, perc, másodperc formában (DMS)
 
 ## III. A kezelés céljai
 
@@ -92,6 +92,6 @@
 
 ## 2. Egyéb szempontok
 
-3. melléklet a 315/2011. (XII. 27.) Korm. rendelethez[^29]
+3. melléklet a 315/2011. (XII. 27.) Korm. rendelethez[^36]
 
-[^29]: A 3. melléklet a 279/2015. (IX. 22.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^36]: A 3. melléklet a 279/2015. (IX. 22.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
