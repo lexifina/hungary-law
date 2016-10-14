@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-312-20-
 | 2016-01-01 | 2012-312-20-22.25 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-06-14 | 2012-312-20-22.26 | 156/2016. (VI. 13.) Korm. rendelet |
 | 2016-09-01 | 2012-312-20-22.27 | 70/2015. (III. 30.) Korm. rendelet |
+| 2016-10-14 | 2012-312-20-22.28 | 306/2016. (X. 13.) Korm. rendelet |
