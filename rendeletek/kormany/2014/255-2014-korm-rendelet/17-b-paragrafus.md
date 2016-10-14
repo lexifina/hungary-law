@@ -1,4 +1,4 @@
-## 17/A. §[^122] A 651/2014/EU bizottsági rendelet, a 702/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet és az 1408/2013/EU bizottsági rendelet hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
+## 17/A. §[^125]
 
 ## 17/B. § A Vidékfejlesztési Program előirányzatából nyújtható állami támogatásnak minősülő jogcímek:
 
@@ -38,7 +38,7 @@ e) az erdő környezeti és közjóléti értékének növelése vagy
 
 f) erdősítés és fásítás támogatása,
 
-g)[^123] az erdészeti technológiákra, valamint erdei termékek feldolgozására és piaci értékesítésére irányuló beruházások,
+g)[^126] az erdészeti technológiákra, valamint erdei termékek feldolgozására és piaci értékesítésére irányuló beruházások,
 
 8. termelői csoport vagy szervezet létrehozása,
 
@@ -70,5 +70,5 @@ a) együttműködés vagy
 
 b) stratégia
 
-[^122]: A 17/A. § a 127/2016. (VI. 7.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^123]: A 17/B. § (7) bekezdés g) pontját a 127/2016. (VI. 7.) Korm. rendelet 6. §-a iktatta be.
+[^125]: A 17/A. §-t a 305/2016. (X. 13.) Korm. rendelet 19. § a) pontja hatályon kívül helyezte.
+[^126]: A 17/B. § (7) bekezdés g) pontját a 127/2016. (VI. 7.) Korm. rendelet 6. §-a iktatta be.

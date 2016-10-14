@@ -1,12 +1,12 @@
 ## 7. § Ha a 6. § szerinti célra nyújtott támogatás állami támogatásnak minősül, a 6. §
 
-1.[^62] 1–3., 5–9., 11., 19., 22. és 23. pontja alapján regionális beruházási támogatás,
+1.[^64] 1–3., 5–9., 11., 19., 22. és 23. pontja alapján regionális beruházási támogatás,
 
-2.[^63] 1–9. és 21. pontja alapján a 651/2014/EU bizottsági rendelet 17. cikke szerinti, kis- és középvállalkozásnak nyújtott beruházási támogatás,
+2.[^65] 1–9. és 21. pontja alapján a 651/2014/EU bizottsági rendelet 17. cikke szerinti, kis- és középvállalkozásnak nyújtott beruházási támogatás,
 
-3.[^64] 1., 3–6., 8–10. és 21. pontja alapján a kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás,
+3.[^66] 1., 3–6., 8–10. és 21. pontja alapján a kis- és középvállalkozás részére tanácsadáshoz nyújtott támogatás,
 
-4.[^65] 1., 3–6., 8. és 21. pontja alapján a kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás,
+4.[^67] 1., 3–6., 8. és 21. pontja alapján a kis- és középvállalkozás vásáron való részvételéhez nyújtott támogatás,
 
 5. 8. és 20–22. pontja alapján kockázatfinanszírozási támogatás,
 
@@ -16,13 +16,13 @@
 
 8. 4–6. és 20–22. pontja alapján kutatási infrastruktúrához nyújtott beruházási támogatás,
 
-9.[^66] 1–6., 8. és 20–22. pontja alapján innovációs klaszterre nyújtott támogatás,
+9.[^68] 1–6., 8. és 20–22. pontja alapján innovációs klaszterre nyújtott támogatás,
 
 10. 1–5., 8–10. és 20–22. pontja alapján kis- és középvállalkozásnak nyújtott innovációs támogatás,
 
 11. 1–5., 8., 9., 20–22. és 24. pontja alapján eljárási innováció és szervezési innováció támogatásához nyújtott támogatás,
 
-12.[^67] 1–3., 5., 8–10., 12–14., 17., 18. és 22–24. pontja alapján képzési támogatás,
+12.[^69] 1–3., 5., 8–10., 12–14., 17., 18. és 22–24. pontja alapján képzési támogatás,
 
 13. 12–14., 22. és 24. pontja alapján a hátrányos helyzetű munkavállaló felvételéhez bértámogatás formájában nyújtott támogatás,
 
@@ -46,26 +46,29 @@
 
 23. 1–24. pontja alapján csekély összegű támogatás,
 
-24.[^68] 7., 8., 10., 13. és 21–23. pontja alapján csekély összegű közszolgáltatási támogatás,
+24.[^70] 7., 8., 10., 13. és 21–23. pontja alapján csekély összegű közszolgáltatási támogatás,
 
-25.[^69] 7., 8., 10., 13. és 21–23. pontja alapján közszolgáltatásért járó ellentételezés,
+25.[^71] 7., 8., 10., 13. és 21–23. pontja alapján közszolgáltatásért járó ellentételezés,
 
 26. 4. és 6. pontja alapján halászati- és akvakultúra-ágazatban nyújtott kutatás-fejlesztési támogatás,
 
-27.[^70] 1–6., 11., 19. és 21. pontja alapján helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás
+27.[^72] 1–6., 11., 19. és 21. pontja alapján helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás
 
-28.[^71] 19. pontja alapján sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás,
+28.[^73] 19. pontja alapján sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás,
 
-29.[^72] 5. és 6. pontja alapján az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás
+29.[^74] 5. és 6. pontja alapján az elsődleges mezőgazdasági termeléshez kapcsolódó, mezőgazdasági üzemekben végrehajtott, tárgyi eszközökre vagy immateriális javakra irányuló beruházásokhoz nyújtott támogatás,
 
-[^62]: A 7. § 1. pontja a 127/2016. (VI. 7.) Korm. rendelet 17. § 6. pontja szerint módosított szöveg.
-[^63]: A 7. § 2. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 22. pontja szerint módosított szöveg.
-[^64]: A 7. § 3. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 23. pontja szerint módosított szöveg.
-[^65]: A 7. § 4. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 24. pontja szerint módosított szöveg.
-[^66]: A 7. § 9. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 25. pontja szerint módosított szöveg.
-[^67]: A 7. § 12. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 26. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 7. pontja szerint módosított szöveg.
-[^68]: A 7. § 24. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 27. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 8. pontja szerint módosított szöveg.
-[^69]: A 7. § 25. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 28. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 9. pontja szerint módosított szöveg.
-[^70]: A 7. § 27. pontját a 445/2015. (XII. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^71]: A 7. § 28. pontját a 127/2016. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
-[^72]: A 7. § 29. pontját a 127/2016. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
+30.[^75] 2. pontja alapján a mezőgazdasági termékek feldolgozásával és a mezőgazdasági termékek forgalmazásával kapcsolatos beruházásokhoz nyújtott támogatás
+
+[^64]: A 7. § 1. pontja a 127/2016. (VI. 7.) Korm. rendelet 17. § 6. pontja szerint módosított szöveg.
+[^65]: A 7. § 2. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 22. pontja szerint módosított szöveg.
+[^66]: A 7. § 3. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 23. pontja szerint módosított szöveg.
+[^67]: A 7. § 4. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 24. pontja szerint módosított szöveg.
+[^68]: A 7. § 9. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 25. pontja szerint módosított szöveg.
+[^69]: A 7. § 12. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 26. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 7. pontja szerint módosított szöveg.
+[^70]: A 7. § 24. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 27. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 8. pontja szerint módosított szöveg.
+[^71]: A 7. § 25. pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 28. pontja, a 127/2016. (VI. 7.) Korm. rendelet 17. § 9. pontja szerint módosított szöveg.
+[^72]: A 7. § 27. pontját a 445/2015. (XII. 28.) Korm. rendelet 2. § (1) bekezdése iktatta be.
+[^73]: A 7. § 28. pontját a 127/2016. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
+[^74]: A 7. § 29. pontját a 127/2016. (VI. 7.) Korm. rendelet 2. §-a iktatta be.
+[^75]: A 7. § 30. pontját a 305/2016. (X. 13.) Korm. rendelet 2. §-a iktatta be.

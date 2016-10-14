@@ -230,7 +230,7 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 
 94. szélessávú infrastruktúra kiépítéséhez kapcsolódó mélyépítési munka: a 651/2014/EU bizottsági rendelet 2. cikk 134. pontja szerinti munka,
 
-95. szénipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított és a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozatban pontosított nemzetközi kodifikációs rendszer értelmében kiváló minőségű, közepes minőségű és gyenge minőségű A. és B. csoportba sorolt szén kitermelésével kapcsolatos tevékenység,
+95.[^23] szénipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított és a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozatban (a továbbiakban: 2010/787/EU tanácsi határozat) pontosított nemzetközi kodifikációs rendszer értelmében kiváló minőségű, közepes minőségű és gyenge minőségű A. és B. csoportba sorolt szén kitermelésével kapcsolatos tevékenység,
 
 96. szinten tartást szolgáló eszköz: olyan eszköz, amely a kedvezményezett által már használt tárgyi eszközt, immateriális javakat váltja ki anélkül, hogy a kiváltás az előállított termék, a nyújtott szolgáltatás, a termelési, illetve a szolgáltatási folyamat alapvető változását vagy bővülését eredményezné,
 
@@ -244,11 +244,11 @@ b) esetén a támogatás nyújtását megelőző három év legalább egyikében
 
 101. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz,
 
-101a.[^23] termelői csoport vagy szervezet: a 702/2014/EU bizottsági rendelet 2. cikk (43) bekezdése szerinti csoport vagy szervezet,
+101a.[^24] termelői csoport vagy szervezet: a 702/2014/EU bizottsági rendelet 2. cikk (43) bekezdése szerinti csoport vagy szervezet,
 
-101b.[^24] természeti katasztrófa: a 702/2014/EU bizottsági rendelet 2. cikk (9) bekezdése szerinti természeti jelenség,
+101b.[^25] természeti katasztrófa: a 702/2014/EU bizottsági rendelet 2. cikk (9) bekezdése szerinti természeti jelenség,
 
-101c.[^25] természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség: a 702/2014/EU bizottsági rendelet 2. cikk (16) bekezdése szerinti éghajlati jelenség,
+101c.[^26] természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség: a 702/2014/EU bizottsági rendelet 2. cikk (16) bekezdése szerinti éghajlati jelenség,
 
 102. tőkejuttatás: a 651/2014/EU bizottsági rendelet 2. cikk 70. pontja szerinti juttatás,
 
@@ -300,6 +300,7 @@ c) új termék- vagy földrajzi piacra való belépés céljából készített �
 [^20]: A 2. § (1) bekezdés 78. pontja a 271/2015. (IX. 18.) Korm. rendelet 2. § (11) bekezdésével megállapított szöveg.
 [^21]: A 2. § (1) bekezdés 80a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (12) bekezdése iktatta be.
 [^22]: A 2. § (1) bekezdés 81. pontja a 271/2015. (IX. 18.) Korm. rendelet 2. § (13) bekezdésével megállapított szöveg.
-[^23]: A 2. § (1) bekezdés 101a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be.
-[^24]: A 2. § (1) bekezdés 101b. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be.
-[^25]: A 2. § (1) bekezdés 101c. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be.
+[^23]: A 2. § (1) bekezdés 95. pontja a 305/2016. (X. 13.) Korm. rendelet 18. § 1. pontja szerint módosított szöveg.
+[^24]: A 2. § (1) bekezdés 101a. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be.
+[^25]: A 2. § (1) bekezdés 101b. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be.
+[^26]: A 2. § (1) bekezdés 101c. pontját a 271/2015. (IX. 18.) Korm. rendelet 2. § (14) bekezdése iktatta be.

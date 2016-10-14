@@ -56,10 +56,12 @@ f) kutatási tevékenységet előkészítő megvalósíthatósági tanulmányhoz
 
 22. energetikai célú infrastruktúrához nyújtott beruházási támogatás esetén vállalkozásonként és beruházásonként meghaladja az 50 millió eurónak megfelelő forintösszeget,
 
-23. a kultúrát és a kulturális örökség megőrzését előmozdító támogatás esetén projektenként meghaladja a 100 millió eurónak megfelelő forintösszeget,
+23.[^142] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 100 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente meghaladja az 50 millió eurónak megfelelő forintösszeget,
 
 24. sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás esetén meghaladja a 15 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja az 50 millió eurónak megfelelő forintösszeget,
 
 25. helyi infrastruktúra fejlesztéséhez nyújtott beruházási támogatás esetén meghaladja egyazon infrastruktúra esetén a 10 millió eurónak megfelelő forintösszeget vagy a 20 millió eurónak megfelelő forintösszeget meghaladó összköltséget.
 
 (2) A szélessávú infrastruktúra kiépítéséhez nyújtott beruházási támogatás esetén az Atr. 18. § (2) bekezdés a) pontja szerint előzetesen be kell jelenteni az Európai Bizottság részére az egyedi támogatást, ha a projekt teljes költsége meghaladja a 70 millió eurónak megfelelő forintösszeget.
+
+[^142]: A 23. § (1) bekezdés 23. pontja a 305/2016. (X. 13.) Korm. rendelet 5. §-ával megállapított szöveg.

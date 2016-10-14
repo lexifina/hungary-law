@@ -2,7 +2,7 @@
 
 (2) Működési támogatás esetén a támogatás a működési veszteségen felül fedezetet nyújthat az ésszerű nyereségre is.
 
-(3) A működésből származó veszteség összegét előzetesen, megalapozott előrejelzések alapján kell meghatározni.
+(3)[^167] A működésből származó veszteség és ésszerű nyereség összegét előzetesen, megalapozott előrejelzések alapján kell meghatározni.
 
 (4) Az (1) és (2) bekezdésben meghatározottak teljesítése – a (3) bekezdéstől eltérően – visszafizetési mechanizmus alkalmazásával utólag is biztosítható.
 
@@ -35,3 +35,5 @@ dh) a projekt vagy tevékenység eredményeként közvetlenül felmerült költs
 e) a kulturális intézmény, örökségi helyszín vagy projekt személyi jellegű ráfordítása,
 
 f) a külső tanácsadással és külső szolgáltatók által biztosított támogató szolgáltatásokkal kapcsolatos, közvetlenül a projekt eredményeként felmerülő költség.
+
+[^167]: A 92. § (3) bekezdése a 305/2016. (X. 13.) Korm. rendelet 18. § 9. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 57. [^176] Az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség, egyéb kedvezőtlen éghajlati jelenség, növénykárosító vagy katasztrófaesemény által okozott erdőkár megelőzéséhez és elhárításához nyújtott támogatás
+## 57. [^183] Az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség, egyéb kedvezőtlen éghajlati jelenség, növénykárosító vagy katasztrófaesemény által okozott erdőkár megelőzéséhez és elhárításához nyújtott támogatás
 
 103/H. § (1) Az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlítható kedvezőtlen éghajlati jelenség, egyéb kedvezőtlen éghajlati jelenség, növénykárosító vagy katasztrófaesemény által okozott erdőkár megelőzéséhez és elhárításához nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében
 
@@ -16,7 +16,7 @@ f) tűzvédelmi pászták fenntartási költsége
 
 ## számolható el.
 
-(2) Támogatás az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 17. § (1) bekezdése szerinti erdőgazdálkodó (a továbbiakban: erdőgazdálkodó) részére nyújtható.
+(2)[^184] Támogatás az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 17. § (1) bekezdése szerinti erdőgazdálkodó (a továbbiakban: erdőgazdálkodó) és az erdészeti szaporítóanyagokról szóló 110/2003. (X. 21.) FVM rendelet [a továbbiakban: 110/2003. (X. 21.) FVM rendelet] 1. § (3) bekezdés c) pontja szerinti szervezet részére nyújtható.
 
 (3) A támogatási összeg egységköltség alapján kerül meghatározásra.
 
@@ -32,4 +32,5 @@ b) az erdőtűz, természeti katasztrófa, természeti katasztrófához hasonlí
 
 (7) A növénykárosító által okozott erdőkár megelőzéséhez nyújtott támogatás esetén a növénykárosítóval való fertőzöttség bekövetkezésének kockázatát igazolni szükséges.
 
-[^176]: Az 57. alcímet (103/H. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^183]: Az 57. alcímet (103/H. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^184]: A 103/H. § (2) bekezdése a 305/2016. (X. 13.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -1,10 +1,21 @@
-## 64. [^185] Az erdő genetikai erőforrásainak megőrzéséhez nyújtott támogatás
+## 64. [^203] Az erdő genetikai erőforrásainak megőrzéséhez nyújtott támogatás
 
 103/O. § (1) Az erdő genetikai erőforrásainak megőrzéséhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) in situ megőrzéshez, illetve ex situ megőrzéshez nyújtható.
 
-(2)[^186] Támogatás erdőgazdálkodó és az erdészeti szaporítóanyagokról szóló 110/2003. (X. 21.) FVM rendelet 1. § (3) bekezdés c) pontja szerinti szervezet részére nyújtható.
+(2)[^204] Támogatás erdőgazdálkodó és a 110/2003. (X. 21.) FVM rendelet 1. § (3) bekezdés c) pontja szerinti szervezet részére nyújtható.
 
 (3) A támogatási intenzitás nem haladhatja meg az elszámolható költségek 100%-át.
 
-[^185]: A 64. alcímet (103/O. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
-[^186]: A 103/O. § (2) bekezdése a 127/2016. (VI. 7.) Korm. rendelet 14. §-ával megállapított szöveg.
+(4)[^205] A támogatás keretében
+
+a) az erdők genetikai erőforrásainak in situ megőrzését, ex situ megőrzését, jellemzését, összegyűjtését és hasznosítását segítő intézkedés költsége – beleértve a jelenleg in situ megőrzött genetikai erőforrások webes nyilvántartásait, ideértve az erdőgazdálkodási üzemen belüli megőrzést és az ex situ gyűjteményeket és adatbázisokat is –,
+
+b) az uniós erdők genetikai erőforrásainak megőrzésére, jellemzésére, gyűjtésére és felhasználására vonatkozó információknak a tagállamok illetékes szervezetei közötti cseréjét elősegítő intézkedések költsége,
+
+c) a nem kormányzati szervezetek és más érdekelt felek részvételével megvalósuló tájékoztatási, ismeretterjesztési és tanácsadási tevékenységek, tanfolyamok, valamint szakmai jelentések készítésének költsége
+
+számolható el.
+
+[^203]: A 64. alcímet (103/O. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^204]: A 103/O. § (2) bekezdése a 127/2016. (VI. 7.) Korm. rendelet 14. §-ával megállapított, a 305/2016. (X. 13.) Korm. rendelet 18. § 15. pontja szerint módosított szöveg.
+[^205]: A 103/O. § (4) bekezdését a 305/2016. (X. 13.) Korm. rendelet 14. §-a iktatta be.

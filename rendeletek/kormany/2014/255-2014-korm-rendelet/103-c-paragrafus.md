@@ -1,4 +1,4 @@
-## 52. [^168] A tudástranszferhez és tájékoztatási tevékenységhez nyújtott támogatás
+## 52. [^175] A tudástranszferhez és tájékoztatási tevékenységhez nyújtott támogatás
 
 103/C. § (1) A tudástranszferhez és tájékoztatási tevékenységhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében
 
@@ -14,11 +14,11 @@ da) ingatlan építése, vásárlása – ide értve a lízinget is – vagy fej
 
 db) gép és berendezés vásárlása – ide értve a lízinget is – kapcsán annak piaci értéke,
 
-dc)[^169] a lízing kivételével a da) és db) alpont szerinti kiadáshoz kapcsolódó költség,
+dc)[^176] a lízing kivételével a da) és db) alpont szerinti kiadáshoz kapcsolódó költség,
 
 dd) számítógépes szoftver vásárlásának, fejlesztésének, valamint szabadalom, licencia, szerzői jog és védjegy megszerzésének költsége
 
-de)[^170] a megvalósíthatósági tanulmány költsége – ide értve, ha a megvalósíthatósági tanulmány eredménye alapján nem merül fel a da) és a db) alpont szerinti költség,
+de)[^177] a megvalósíthatósági tanulmány költsége – ide értve, ha a megvalósíthatósági tanulmány eredménye alapján nem merül fel a da) és a db) alpont szerinti költség,
 
 ## számolható el.
 
@@ -30,6 +30,6 @@ de)[^170] a megvalósíthatósági tanulmány költsége – ide értve, ha a me
 
 (5) A támogatásnak – objektív módon meghatározott feltételek alapján – az érintett területen működő valamennyi támogatható vállalkozás számára hozzáférhetőnek kell lennie.
 
-[^168]: Az 52. alcímet (103/C. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
-[^169]: A 103/C. § (1) bekezdés d) pont dc) alpontja a 127/2016. (VI. 7.) Korm. rendelet 17. § 27. pontja szerint módosított szöveg.
-[^170]: A 103/C. § (1) bekezdés d) pont de) alpontját a 127/2016. (VI. 7.) Korm. rendelet 11. §-a iktatta be.
+[^175]: Az 52. alcímet (103/C. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^176]: A 103/C. § (1) bekezdés d) pont dc) alpontja a 127/2016. (VI. 7.) Korm. rendelet 17. § 27. pontja szerint módosított szöveg.
+[^177]: A 103/C. § (1) bekezdés d) pont de) alpontját a 127/2016. (VI. 7.) Korm. rendelet 11. §-a iktatta be.

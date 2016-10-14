@@ -16,7 +16,7 @@ növelhető.
 
 (4) A támogatás keretében elszámolható
 
-a)[^158] az oktatók személyi jellegű ráfordítása, azokra az órákra vonatkozóan, amikor az oktatók részt vesznek a képzésen,
+a)[^160] az oktatók személyi jellegű ráfordítása, azokra az órákra vonatkozóan, amikor az oktatók részt vesznek a képzésen,
 
 b) az oktatók és a képzésben résztvevők közvetlenül a képzési projekthez kapcsolódó működési költsége (pl. útiköltség, közvetlenül a projekthez kapcsolódó anyagok és fogyóeszközök költsége, valamint az eszközök és berendezések értékcsökkenése kizárólag a képzési projekt keretében történő használatuk mértékéig),
 
@@ -26,7 +26,7 @@ d) a képzésben résztvevők személyi jellegű ráfordításai és az általá
 
 e) a képzésben résztvevő megváltozott munkaképességű munkavállalók minimálisan szükséges szállásköltsége.
 
-(5)[^159] Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez.
+(5)[^161] Nem nyújtható támogatás a kötelező nemzeti képzési előírásoknak való megfeleléshez, valamint támogatott beruházás esetén a beruházás alapvető működtetéséhez szükséges képzéshez.
 
-[^158]: Az 58. § (4) bekezdés a) pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 65. pontja szerint módosított szöveg.
-[^159]: Az 58. § (5) bekezdése a 271/2015. (IX. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^160]: Az 58. § (4) bekezdés a) pontja a 271/2015. (IX. 18.) Korm. rendelet 21. § 65. pontja szerint módosított szöveg.
+[^161]: Az 58. § (5) bekezdése a 271/2015. (IX. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
