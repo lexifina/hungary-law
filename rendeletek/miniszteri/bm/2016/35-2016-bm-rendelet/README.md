@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-35-20-0
 | --- | --- | --- |
 | 2016-08-31 | 2016-35-20-0A.1 | 35/2016. (VIII. 30.) BM rendelet |
 | 2016-09-01 | 2016-35-20-0A.2 | 2010: CXXX. törvény |
+| 2016-10-14 | 2016-35-20-0A.3 | 2010: CXXX. törvény |
