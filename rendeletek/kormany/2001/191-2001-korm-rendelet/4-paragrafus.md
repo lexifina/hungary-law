@@ -1,4 +1,4 @@
-4. §[^12] (1) A bírság összege a kulturális örökségnek a Kövt. hatálybalépése előtt védetté nyilvánított elemei közül a régészeti lelőhelyek és kulturális javak vonatkozásában
+4. §[^12] (1)[^13] A bírság összege a régészeti lelőhelyek és kulturális javak vonatkozásában
 
 a) az I. kategória esetén 10 ezertől 250 millió forintig,
 
@@ -19,3 +19,4 @@ b) a II. kategória esetén 175 ezertől 125 millió forintig,
 c) a III. kategória esetén 50 ezertől 25 millió forintig
 
 [^12]: A 4. § a 38/2015. (III. 11.) Korm. rendelet 2. § (4) bekezdésével megállapított szöveg.
+[^13]: A 4. § (1) bekezdés a) pontja a 306/2016. (X. 13.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
