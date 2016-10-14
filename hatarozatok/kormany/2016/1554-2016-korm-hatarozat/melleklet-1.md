@@ -34,48 +34,9 @@
 
 ## Határidő: 2016. október 31.
 
-## 4. A Magyarország Kormánya és Eger Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1251/2015. (IV. 23.) Korm. határozat 3. pontja helyébe a következő rendelkezés lép:
+## 4–5.[^1]
 
-## [A Kormány 2015. április 10. napján együttműködési megállapodást (a továbbiakban: Megállapodás) kötött Eger Megyei Jogú Város Önkormányzatával. A Kormány a Megállapodásban foglaltak eredményes kormányzati végrehajtása érdekében]
+1. melléklet az 1554/2016. (X. 13.) Korm. határozathoz[^2]
 
-## „3. felhívja a Miniszterelnökséget vezető minisztert és a nemzetgazdasági minisztert, hogy a már megkezdett fejlesztéseket folytatva tegyék meg a szükséges intézkedéseket hazánk kiemelten fontos kulturális öröksége, nemzeti emlékhelye, az egri vár és környezete fejlesztési programjának megvalósítása érdekében, amely keretében megtörténik
-
-## a) a Nemzeti Várprogram keretében európai uniós forrásból az egri vár és erődrendszer turisztikai célú fejlesztése,
-
-## b) az egri vár állagmegóvó felújítása keretében:
-
-## ba) a vár középkori főtere és a Provizori palota rekonstrukciója,
-
-## bb) a középkori székesegyház részleges rekonstrukciója és környezetének megújítása,
-
-## bc) a vár északi bástya-rendszerének, valamint a Gótikus-palota és környezetének helyreállítása, rekonstrukciója (Föld-bástya, Tömlöc-bástya),
-
-## bd) az egykori városfal jelenleg is álló, de leromlott állapotban lévő szakaszának helyreállítása (Bródy Sándor és Városfal utca sarka);
-
-## Felelős: Miniszterelnökséget vezető miniszter
-
-## nemzetgazdasági miniszter
-
-## Határidő: a fejlesztési program megvalósítására 2018. december 31.”
-
-## 5. A Modern Városok Program keretében Magyarország Kormánya és a megyei jogú városok önkormányzatai között első ütemben kötött együttműködési megállapodásokkal összefüggő intézkedésekről szóló 1038/2016. (II. 10.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete az 1. melléklet szerint módosul.
-
-1. melléklet az 1554/2016. (X. 13.) Korm. határozathoz
-
-A Határozat 1. melléklet II. pontjában foglalt táblázat 3–8. sora helyébe a következő rendelkezés lép:
-
-|  | [A Kormány által a Megállapodásokban meghatározott célkitűzések és az azok megvalósításával összefüggő, 1251/2015. (IV. 23.) Korm. határozatban rögzített kormányzati feladatok] | [2016. évi forrásigény (millió forint)] |
-
-„
-
-| 3. | 3. pont a) alpont Az egri vár és erődrendszer turisztikai célú fejlesztése | nincsen költségvetési forrásigény |
-
-| 4. | 3. pont b) alpont Az egri vár állagmegóvó felújítása | 250 |
-
-| 5. |
-
-| 6. |
-
-| 7. |
-
-| 8. |
+[^1]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
