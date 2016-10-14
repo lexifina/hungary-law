@@ -1,5 +1,3 @@
-## 6K03411_0
-
 | I. RÉSZ |
 
 | Az 1388/2014/EU bizottsági rendelet feltételei szerint mentesülő állami támogatásokkal kapcsolatos információk |
@@ -134,7 +132,7 @@
 
 | Kérjük, jelölje és indokolja, hogy miért került sor állami támogatási program létrehozására vagy egyedi támogatás odaítélésére az Európai Tengerügyi és Halászati Alap keretében nyújtott támogatás igénybevétele helyett. | □ A nemzeti operatív program nem tartalmazza a fenti intézkedést □ A nemzeti operatív program keretében rendelkezésre álló pénzeszközök elosztása során alkalmazott fontossági sorrend miatt □ Az Európai Tengerügyi és Halászati Alap keretében már nem állnak rendelkezésre pénzeszközök □ Egyéb (kérjük, nevezze meg): ………… |
 
-6. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^176]
+6. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^175]
 
 1. A kedvezményezett neve, székhelye, adószáma vagy adóazonosító jele, és közösségi adószáma [a 702/2014/EU bizottsági rendelet hatálya alá tartozó támogatásnál a közösségi adószám és az adószám (adóazonosító jel) megadása nem szükséges],
 
@@ -156,4 +154,4 @@
 
 10. a támogatás európai bizottsági hivatkozási száma.
 
-[^176]: A 6. mellékletet a 42. § b) pontja hatályon kívül helyezte, újonnan a 158/2014. (VI. 30.) Korm. rendelet 12. § (4) bekezdése iktatta be, szövege a 177/2016. (VII. 1.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^175]: A 6. mellékletet a 42. § b) pontja hatályon kívül helyezte, újonnan a 158/2014. (VI. 30.) Korm. rendelet 12. § (4) bekezdése iktatta be, szövege a 177/2016. (VII. 1.) Korm. rendelet 7. §-ával megállapított szöveg.

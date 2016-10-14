@@ -8,8 +8,6 @@ b)[^89] nem tartozik a csekély összegű támogatásokra vonatkozó bizottsági
 
 c)[^90] nem tartozik a csekély összegű támogatásokra vonatkozó bizottsági rendeletek vagy a csoportmentességi rendeletek hatálya alá, és nem felel meg valamely más támogatási kategória feltételeinek, a miniszter a 15. § (3) bekezdés b) pontja alapján
 
-jár el.
-
 [^86]: A 12. § (1) bekezdés a 381/2012. (XII. 19.) Korm. rendelet 12. § d) pontja, az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.
 [^87]: A 12. § (2) bekezdés nyitó szövegrésze az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés h) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 10. pontja szerint módosított szöveg.
 [^88]: A 12. § (2) bekezdés a) pontja a 381/2012. (XII. 19.) Korm. rendelet 12. § e) pontja, az 550/2013. (XII. 30.) Korm. rendelet 67. § (11) bekezdés c) pontja, a 158/2014. (VI. 30.) Korm. rendelet 13. § 1. pontja szerint módosított szöveg.

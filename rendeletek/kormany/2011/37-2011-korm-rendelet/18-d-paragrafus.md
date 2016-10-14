@@ -1,3 +1,5 @@
+## a támogatást nyújtó az adott támogatás vonatkozásában fennálló közzétételi kötelezettséget úgy is teljesítheti, hogy az (1) bekezdés b) pontja szerinti nyilatkozatban vagy a (3) bekezdés szerinti adatszolgáltatáskor a közzététel helye szerinti weboldalt jelöli meg.
+
 18/D. § (1) A miniszter a Támogatásokat Vizsgáló Iroda honlapján közzéteszi
 
 a) a 651/2014/EU bizottsági rendelet hatálya alá tartozó támogatások esetén a 6. melléklet szerinti adatokat, ha a közzétételi kötelezettség hatálya alá tartozó támogatás támogatástartalma meghaladja az ötszázezer eurónak megfelelő forintösszeget,
@@ -8,7 +10,7 @@ ba) az elsődleges mezőgazdasági termeléssel foglalkozó kedvezményezett ese
 
 bb) a mezőgazdasági termékek feldolgozásával vagy mezőgazdasági termékek forgalmazásával foglalkozó, az erdészeti ágazatban működő vagy az EUMSz 42. cikkének hatályán kívül eső tevékenységet folytató kedvezményezett esetén az ötszázezer eurónak
 
-megfelelő forintösszeget,
+## megfelelő forintösszeget,
 
 c) az 1388/2014/EU bizottsági rendelet hatálya alá tartozó támogatások esetén a 6. melléklet szerinti adatokat, ha a közzétételi kötelezettség hatálya alá tartozó támogatás támogatástartalma meghaladja a harmincezer eurónak megfelelő forintösszeget,
 
@@ -34,7 +36,7 @@ ae) a tízmillió eurót meghaladó, de harmincmillió eurót meg nem haladó, v
 
 af) a harmincmillió eurót meghaladó
 
-összegű,
+## összegű,
 
 b) a 702/2014/EU bizottsági rendelet hatálya alá tartozó adókedvezményt tartalmazó támogatási program esetén a támogatástartalom forintösszegben kifejezve
 
@@ -54,7 +56,7 @@ cd) a hatszázezer eurót meghaladó, de a nyolcszázezer eurót meg nem haladó
 
 ce) a nyolcszázezer eurót meghaladó, de az egymillió eurót meg nem haladó
 
-összegű
+## összegű
 
 ## kategóriába esik.
 

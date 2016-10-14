@@ -12,7 +12,7 @@ c) az Európai Unió működéséről szóló szerződés 107. és 108. cikkéne
 
 d) az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet (HL L 352., 2013.12.24., 1. o.) (a továbbiakban: 1407/2013/EU bizottsági rendelet) 3. cikke
 
-[az a)–d) pont a továbbiakban együtt: csekély összegű támogatásokra vonatkozó bizottsági rendeletek] alapján nyújtott támogatás,
+## [az a)–d) pont a továbbiakban együtt: csekély összegű támogatásokra vonatkozó bizottsági rendeletek] alapján nyújtott támogatás,
 
 2.[^6] ad hoc támogatás: támogatási programon kívül nyújtott támogatás,
 

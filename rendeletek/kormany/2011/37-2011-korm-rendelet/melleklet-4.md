@@ -1,6 +1,6 @@
 4. melléklet a 37/2011. (III. 22.) Korm. rendelethez
 
-Az 1370/2007/EK európai parlamenti és tanácsi rendelet alapján nyújtott állami támogatásokról készítendő beszámoló kötelező adattartalma[^168]
+## Az 1370/2007/EK európai parlamenti és tanácsi rendelet alapján nyújtott állami támogatásokról készítendő beszámoló kötelező adattartalma[^167]
 
 1. Kedvezményezett neve
 
@@ -22,18 +22,18 @@ Az 1370/2007/EK európai parlamenti és tanácsi rendelet alapján nyújtott ál
 
 10. Ellentételezés összege
 
-11.[^169] A közszolgáltatás működtetéséből származó költségek az 1370/2007/EK európai parlamenti és tanácsi rendelet I. melléklete szerint
+11.[^168] A közszolgáltatás működtetéséből származó költségek az 1370/2007/EK európai parlamenti és tanácsi rendelet I. melléklete szerint
 
-12.[^170] Bevételek az 1370/2007/EK európai parlamenti és tanácsi rendelet I. melléklete szerint
+12.[^169] Bevételek az 1370/2007/EK európai parlamenti és tanácsi rendelet I. melléklete szerint
 
-13.[^171] Ésszerű nyereség az 1370/2007/EK európai parlamenti és tanácsi I. melléklete szerint
+13.[^170] Ésszerű nyereség az 1370/2007/EK európai parlamenti és tanácsi I. melléklete szerint
 
-14.[^172] A túlkompenzáció összege az 1370/2007/EK európai parlamenti és tanácsi rendelet I. melléklete szerint
+14.[^171] A túlkompenzáció összege az 1370/2007/EK európai parlamenti és tanácsi rendelet I. melléklete szerint
 
 15. Megjegyzések
 
-[^168]: A 4. melléklet címe a 158/2014. (VI. 30.) Korm. rendelet 13. § 27. pontja szerint módosított szöveg.
-[^169]: A 4. melléklet 11. pontja a 158/2014. (VI. 30.) Korm. rendelet 13. § 29. pontja szerint módosított szöveg.
-[^170]: A 4. melléklet 12. pontja a 158/2014. (VI. 30.) Korm. rendelet 13. § 29. pontja szerint módosított szöveg.
-[^171]: A 4. melléklet 13. pontja a 158/2014. (VI. 30.) Korm. rendelet 13. § 29. pontja szerint módosított szöveg.
-[^172]: A 4. melléklet 14. pontja a 158/2014. (VI. 30.) Korm. rendelet 13. § 29. pontja szerint módosított szöveg.
+[^167]: A 4. melléklet címe a 158/2014. (VI. 30.) Korm. rendelet 13. § 27. pontja szerint módosított szöveg.
+[^168]: A 4. melléklet 11. pontja a 158/2014. (VI. 30.) Korm. rendelet 13. § 29. pontja szerint módosított szöveg.
+[^169]: A 4. melléklet 12. pontja a 158/2014. (VI. 30.) Korm. rendelet 13. § 29. pontja szerint módosított szöveg.
+[^170]: A 4. melléklet 13. pontja a 158/2014. (VI. 30.) Korm. rendelet 13. § 29. pontja szerint módosított szöveg.
+[^171]: A 4. melléklet 14. pontja a 158/2014. (VI. 30.) Korm. rendelet 13. § 29. pontja szerint módosított szöveg.

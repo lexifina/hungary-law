@@ -42,7 +42,7 @@ dc) a 20. § (5) bekezdése és a 21. § (3) bekezdése szerinti beszámolási k
 
 dd) a 34. § szerinti éves jelentéstételi kötelezettség
 
-teljesítése vonatkozásában.
+## teljesítése vonatkozásában.
 
 (2) A támogatási tervezetben az állami támogatás formája különösen vissza nem térítendő és visszatérítendő pénzeszközök nyújtásaként, kamatmentes hitelként, kedvezményes kamatozású hitelként, kamattámogatásként, kedvezményes feltételű kezességvállalásként, állami tőkejuttatásként, adókedvezményként, adóalap- kedvezményként, ingyenesen és kedvezményes feltételek mellett nyújtott szolgáltatásként, ingatlanjuttatásként, követelésről való lemondásként, tartozásátvállalásként, kedvezményes bérletként vagy kedvezményes lízingként határozható meg.
 

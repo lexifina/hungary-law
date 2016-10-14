@@ -12,8 +12,6 @@ d)[^159] az Európai Unió működéséről szóló szerződés 107. és 108. ci
 
 e)[^160] az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. december 16-i 1388/2014/EU bizottsági rendelet (HL L 369., 2014.12.24., 37-63. o.)
 
-végrehajtásához szükséges rendelkezéseket állapít meg.
-
 [^156]: A 18. alcím címe a 381/2012. (XII. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^157]: A 38. § a 38/2016. (III. 3.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^158]: A 38. § c) pontját a 177/2016. (VII. 1.) Korm. rendelet 6. §-a iktatta be.
