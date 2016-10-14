@@ -34,6 +34,10 @@ m) a szükséges szakági tervezők, szakértők körét,
 
 n) az egyéb meghatározó követelmények általános szempontjait,
 
-o) a tervezendő építmény használatának, üzemeltetésének, karbantartásának feltételeit.
+o)[^20] a tervezendő építmény használatának, üzemeltetésének, karbantartásának feltételeit,
+
+p)[^21] a helyszínen fennálló régészeti érintettség vagy védelem tényét a közhiteles örökségvédelmi nyilvántartástól lekért adatok alapján.
 
 [^19]: A 16. § (3) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^20]: A 16. § (3) bekezdés o) pontja a 306/2016. (X. 13.) Korm. rendelet 17. §-a szerint módosított szöveg.
+[^21]: A 16. § (3) bekezdés p) pontját a 306/2016. (X. 13.) Korm. rendelet 16. §-a iktatta be.

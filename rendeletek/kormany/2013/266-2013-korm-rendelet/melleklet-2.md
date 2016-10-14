@@ -1,4 +1,4 @@
-2. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^75]
+2. melléklet a 266/2013. (VII. 11.) Korm. rendelethez[^77]
 
 I. Az építész kamarák által nyilvántartott, korábbi jogszabály alapján megállapított építészeti tervezési jogosultságok és a hozzájuk tartozó építészeti-műszaki tervezési tevékenységek
 
@@ -58,4 +58,4 @@ A sajátos építményfajták építési műszaki ellenőri szakterületei
 
 III. Az építész és a mérnöki kamarák által nyilvántartott, korábbi jogszabály alapján megállapított felelős műszaki vezetői jogosultságok és a hozzájuk tartozó tevékenység
 
-[^75]: A 2. melléklet a 38/2015. (III. 11.) Korm. rendelet 22. § (5) bekezdése, a 168/2015. (VI. 30.) Korm. rendelet 4. § (9) bekezdése szerint módosított szöveg.
+[^77]: A 2. melléklet a 38/2015. (III. 11.) Korm. rendelet 22. § (5) bekezdése, a 168/2015. (VI. 30.) Korm. rendelet 4. § (9) bekezdése szerint módosított szöveg.
