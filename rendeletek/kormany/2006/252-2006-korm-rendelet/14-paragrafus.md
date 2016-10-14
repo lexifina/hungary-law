@@ -1,16 +1,18 @@
+## 13/A. §[^58] A tájegységi tervtanács üléseit a világörökségi helyszínen helyben kell megtartani.
+
 ## A tervtanácsi jegyzőkönyv
 
-14. § (1)[^57] Az építészeti-műszaki tervtanácsi tárgyalásról minden esetben hangfelvétel, az elhangzott lényeges megállapításokról jegyzőkönyv készül. A jegyzőkönyv mellékletét képezi a hangfelvétel és a bírálat.
+14. § (1)[^59] Az építészeti-műszaki tervtanácsi tárgyalásról minden esetben hangfelvétel, az elhangzott lényeges megállapításokról jegyzőkönyv készül. A jegyzőkönyv mellékletét képezi a hangfelvétel és a bírálat.
 
 (2) A jegyzőkönyvnek tartalmaznia kell:
 
 a) a tervtanács nevét és székhelyét, a tárgyalás helyét és idejét,
 
-b)[^58] a megtárgyalt tervdokumentáció tartalmának megnevezését, építészeti-műszaki tervtanács esetében az építés helyét (címét),
+b)[^60] a megtárgyalt tervdokumentáció tartalmának megnevezését, építészeti-műszaki tervtanács esetében az építés helyét (címét),
 
 c) napirendi pontonként a tervtanácsi tagok létszámát és a határozatképesség vagy határozatképtelenség tényét,
 
-d)[^59] a tervező nevét, illetve elnevezését, valamint címét, illetve székhelyét,
+d)[^61] a tervező nevét, illetve elnevezését, valamint címét, illetve székhelyét,
 
 e) a tervdokumentáció benyújtójának nevét, illetve elnevezését, címét, illetve székhelyét,
 
@@ -28,6 +30,7 @@ k) egyhangúság esetén annak tényére történő utalást, véleménykülönb
 
 l) a tervtanács jelen lévő tagjainak aláírását.
 
-[^57]: A 14. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 31. § g) pontja szerint módosított szöveg.
-[^58]: A 14. § (2) bekezdésének b) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének f) pontja szerint módosított szöveg.
-[^59]: A 14. § (2) bekezdésének d) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének g) pontja szerint módosított szöveg.
+[^58]: A 13/A. §-t a 306/2016. (X. 13.) Korm. rendelet 6. §-a iktatta be.
+[^59]: A 14. § (1) bekezdése a 322/2012. (XI. 16.) Korm. rendelet 31. § g) pontja szerint módosított szöveg.
+[^60]: A 14. § (2) bekezdésének b) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének f) pontja szerint módosított szöveg.
+[^61]: A 14. § (2) bekezdésének d) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének g) pontja szerint módosított szöveg.

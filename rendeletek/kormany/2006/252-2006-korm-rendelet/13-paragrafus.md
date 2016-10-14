@@ -30,19 +30,21 @@ cc) településrendezési szerződés alapján készülő településrendezési 
 
 d)[^52] építészeti-műszaki tervtanács esetén az építtető,
 
-e)[^53] a központi és a területi építészeti-műszaki tervtanács esetén az illetékes önkormányzat polgármestere.
+e)[^53] a központi és a területi építészeti-műszaki tervtanács esetén az illetékes önkormányzat polgármestere,
+
+f)[^54] világörökségi helyszínen a tájegységi tervtanácsban a világörökségi gondnokság képviselője.
 
 (5) Az elnök a (4) bekezdésben meghatározottakon kívül más személyek tárgyalásra történő meghívását is elrendelheti, akik a tárgyaláson tanácskozási joggal, szavazati jog nélkül vesznek részt.
 
 (6) Nem vehet részt a tervtanácsi eljárásban elnökként, tagként, valamint bírálóként az a személy, aki
 
-a)[^54] bűncselekményt vagy szakmagyakorlással kapcsolatos szabálysértést követett el annak jogerős megállapításától számított egy évig,
+a)[^55] bűncselekményt vagy szakmagyakorlással kapcsolatos szabálysértést követett el annak jogerős megállapításától számított egy évig,
 
 b) a külön jogszabályban meghatározottak szerint etikai-fegyelmi büntetést kapott a büntetés időtartama alatt és annak a kamarai nyilvántartásból való törléséig.
 
-(7)[^55]
+(7)[^56]
 
-(8)[^56]
+(8)[^57]
 
 [^43]: A 13. § (1) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 12. § (8) bekezdése szerint módosított szöveg.
 [^44]: A 13. § (2) bekezdése a 199/2007. (VII. 30.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 8. § (2) bekezdése alapján a rendelkezést a 2007. augusztus 14. napja után indított ügyekben kell alkalmazni.
@@ -55,6 +57,7 @@ b) a külön jogszabályban meghatározottak szerint etikai-fegyelmi büntetést
 [^51]: A 13. § (4) bekezdés c) pontja a 322/2012. (XI. 16.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
 [^52]: A 13. § (4) bekezdés d) pontja a 322/2012. (XI. 16.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
 [^53]: A 13. § (4) bekezdés e) pontja a 322/2012. (XI. 16.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
-[^54]: A 13. § (6) bekezdésének a) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének d) pontja szerint módosított szöveg.
-[^55]: A 13. § (7) bekezdését a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének e) pontja hatályon kívül helyezte.
-[^56]: A 13. § (8) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 31. § f) pontja hatályon kívül helyezte.
+[^54]: A 13. § (4) bekezdés f) pontját a 306/2016. (X. 13.) Korm. rendelet 5. §-a iktatta be.
+[^55]: A 13. § (6) bekezdésének a) pontja a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének d) pontja szerint módosított szöveg.
+[^56]: A 13. § (7) bekezdését a 196/2009. (IX. 15.) Korm. rendelet 61. § (9) bekezdésének e) pontja hatályon kívül helyezte.
+[^57]: A 13. § (8) bekezdését a 322/2012. (XI. 16.) Korm. rendelet 31. § f) pontja hatályon kívül helyezte.

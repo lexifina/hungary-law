@@ -1,4 +1,4 @@
-## 2/A. §[^6]
+## 2/A. §[^6] Világörökségi helyszínen a tájegységi tervtanácsba tervtanácsi tagként az e jogszabályban meghatározott követelményeknek megfelelő és szakmagyakorlási jogosultsággal rendelkező olyan tervezőt vagy szakértőt is delegálni kell, aki a tevékenységét az adott világörökségi helyszínen vagy világörökségi területen végzi, ilyen hiányában más tervező vagy szakértő is delegálható.
 
 ## A tervtanács elnöke
 
@@ -30,6 +30,6 @@ i) gondoskodik a tervtanács működésével kapcsolatos iratkezelési, nyilván
 
 j) gondoskodik akadályoztatása esetén a helyettesítéséről.
 
-[^6]: A 2/A. §-t a 394/2012. (XII. 20.) Korm. rendelet 12. § (2) bekezdése iktatta be, hatályon kívül helyezte a 38/2015. (III. 11.) Korm. rendelet 7. § (2) bekezdés b) pontja.
+[^6]: A 2/A. §-t újonnan a 306/2016. (X. 13.) Korm. rendelet 4. §-a iktatta be.
 [^7]: A 3. § a 322/2012. (XI. 16.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^8]: A 3. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 82. § (1) bekezdésével megállapított szöveg.
