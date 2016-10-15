@@ -1,67 +1,121 @@
-| Az előterjesztés formai követelményei |
+## Az előterjesztés formai követelményei
 
-| MINTA |
+## MINTA
 
-| — — — — — — — — — — — — — — — — — — — — — |
+## Javaslattevő szerv megnevezése, címe:
 
-| javaslattevő szerv megnevezése |
+## Vezető neve, beosztása:
 
-| Elérhetőségek: cím, telefon, telefax, e-mail |
+## Elérhetőségek (telefon, telefax, e-mail)
 
-| Előterjesztés |
+## ELŐTERJESZTÉS
 
-| A FÖLDMŰVELÉSÜGYI MINISZTERHEZ |
+## A FÖLDMŰVELÉSÜGYI MINISZTERHEZ
 
-| Díj, emlékplakett, érdemérem, oklevél adományozására |
+## ...................................................................................................
 
-| .............................................................................................................................................................................. alkalmából |
+## (díj, emlékplakett, érdemérem, oklevél, elismerés megnevezése)
 
-| Név (születéskori név): |
+## adományozására
 
-| Munkahely: |
+## .............................................................................................................
 
-| Munkakör, beosztás (foglalkozás): |
+## alkalmából
 
-| Tudományos fokozat: |
+## Név:
 
-| Születési hely, év, hó, nap: |
+## Születéskori név:
 
-| Anyja neve: |
+## Munkahely:
 
-| Lakcíme irányítószámmal: |
+## Munkakör, beosztás (foglalkozás):
 
-| Telefonszáma és telefaxszáma: |
+## Tudományos fokozat:
 
-| E-mail címe: |
+## Születési hely, év, hó, nap:
 
-| Korábbi miniszteri, állami kitüntetései, elismerései: |
+## Anyja neve:
 
-| Az átadás javasolt időpontja: |
+## Lakcíme irányítószámmal:
 
-| Hivatalos indokolás röviden (sajtóban, honlapon megjelentethető módon): |
+## Telefonszáma és telefaxszáma:
 
-| Szakmai életút, érdemek részletes ismertetése: |
+## E-mail címe:
 
-| Dátum: ............................................................ |
+## Korábbi miniszteri, állami kitüntetései, elismerései:
 
-| P. H. |
+## Az átadás javasolt időpontja:
 
-| .................................................... javaslattevő neve /munkaköre/ aláírása |
+## Hivatalos indokolás röviden (sajtóban, honlapon megjelentethető módon, csak az érdemek összefoglalása egy mondatban):
 
-| Publikációs jegyzék: |
+## Külön lapon csatolandó:
 
-2. melléklet a 25/2015. (V. 27.) FM rendelethez
+## szakmai életút, érdemek részletes ismertetése – legfeljebb 3 oldalban, továbbá ha van, publikációs jegyzék – legfeljebb 1 oldalban
+
+## Dátum:
+
+| ................................................. |
+
+| javaslattevő aláírása, bélyegző |
+
+## Kapcsolattartó neve, beosztása:
+
+## Elérhetőségei:
+
+2. melléklet a 25/2015. (V. 27.) FM rendelethez[^22]
 
 MINTA
 
-Nyilatkozat
+NYILATKOZAT
 
-Alulírott kijelentem, hogy hozzájárulok természetes személyazonosító adataim és lakcím adatom, valamint a javaslatban szereplő személyes adataimnak az elismerésben részesülők nyilvántartásában való kezeléséhez, illetve a nyilvánosság elismerésemről és érdemeimről történő tájékoztatásához.
+a MAGYARORSZÁG FÖLDMŰVELÉSÜGYI MINISZTERE által
 
-E nyilatkozat a földművelésügyi miniszter által adományozható díjakról és más elismerésekről szóló 25/2015. (V. 27.) FM rendelet 3. § (1) bekezdésén alapul.
+.................................................................... alkalmából
 
-Kelt: ...............................................................
+adományozott kitüntetés elfogadásához
 
-.........................................................
+N É V :
 
-elismerésre javasolt aláírása
+Születéskori név:
+
+Születési hely, év, hó, nap:
+
+Anyja neve:
+
+Lakcíme:
+
+Munkahelye*:
+
+Munkaköre/beosztása*:
+
+Nyilatkozom, hogy a földművelésügyi miniszter által adományozható elismerésben
+
+a) még nem részesültem**
+
+b) már részesültem, mégpedig**
+
+elismerés megnevezése:
+
+adományozás időpontja:
+
+Kijelentem, hogy adományozás esetén az elismerést
+
+a) elfogadom**
+
+b) nem fogadom el**.
+
+Adományozás esetén hozzájárulok természetes személyazonosító adataim és lakcím adatom, valamint a javaslatban szereplő személyes adataimnak az elismerésben részesülők nyilvántartásában való kezeléséhez, illetve a nyilvánosság elismerésemről és érdemeimről történő tájékoztatásához. E nyilatkozat a földművelésügyi miniszter által adományozható díjakról és más elismerésekről szóló 25/2015. (V. 27.) FM rendelet 3. § (1) bekezdésén alapul.
+
+Kelt:
+
+____________________________
+
+aláírás
+
+* Nyugalmazott személy esetén volt/utolsó munkahelye és munkaköre (pl. nyugalmazott felügyelő) feltüntetését
+
+kérjük.
+
+** A kívánt részt kérjük aláhúzni/bekarikázni.
+
+[^22]: A 2. melléklet a 70/2016. (X. 14.) FM rendelet 6. § (2) bekezdésével megállapított szöveg.
