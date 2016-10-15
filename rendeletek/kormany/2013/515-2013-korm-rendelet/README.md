@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-515-20-
 | 2016-06-15 | 2013-515-20-22.24 | 143/2016. (VI. 13.) Korm. rendelet |
 | 2016-07-01 | 2013-515-20-22.25 | 77/2016. (IV. 6.) Korm. rendelet |
 | 2016-09-01 | 2013-515-20-22.26 | 143/2016. (VI. 13.) Korm. rendelet |
+| 2016-10-15 | 2013-515-20-22.27 | 304/2016. (X. 13.) Korm. rendelet |
