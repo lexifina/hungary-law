@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-36-20-2
 | 2016-01-01 | 2015-36-20-22.5 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-01-02 | 2015-36-20-22.6 | 2010: CXXX. törvény |
 | 2016-01-23 | 2015-36-20-22.7 | 5/2016. (I. 22.) Korm. rendelet |
+| 2016-10-15 | 2015-36-20-22.8 | 311/2016. (X. 14.) Korm. rendelet |
