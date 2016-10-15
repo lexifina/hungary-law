@@ -27,3 +27,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1997-100-20-
 | 2015-08-01 | 1997-100-20-22.42 | 36/2015. (III. 6.) Korm. rendelet |
 | 2016-01-01 | 1997-100-20-22.43 | 36/2015. (III. 6.) Korm. rendelet |
 | 2016-01-23 | 1997-100-20-22.44 | 5/2016. (I. 22.) Korm. rendelet |
+| 2016-10-15 | 1997-100-20-22.45 | 256/2005. (XII. 7.) Korm. rendelet |
