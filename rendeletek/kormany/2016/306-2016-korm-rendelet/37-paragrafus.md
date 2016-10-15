@@ -1,3 +1,0 @@
-## 36. § A 39/2015. Korm.r. 73. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Ha a hatóság a tevékenység végzésének folytatását a 72. § (2) bekezdés a) pontja szerint megtiltotta, az ellenőrzés napjától számított nyolc napon belül a helyszínen felvett jegyzőkönyv megállapításai és fényképfelvételek alapján, azonnal végrehajtható határozattal elrendeli a szabálytalan állapot megszüntetését. A szabálytalan állapot megszüntetésének határideje a döntés kézbesítésétől számított legfeljebb hat hónap, mely határidő a kötelezett kérelmére indokolt esetben egyszer három hónappal meghosszabbítható.”

@@ -1,3 +1,0 @@
-## 12. § Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet (a továbbiakban: 312/2012. Korm.r.) 10/A. alcíme a következő 11/C. §-sal egészül ki:
-
-## „11/C. § Az építésügyi hatóság a világörökségi helyszínen vagy világörökségi területen új épület építésére vagy meglévő épület bővítésére, átalakítására vagy bontására irányuló építésügyi engedélyezési eljárásban az általa vizsgált örökségvédelmi szakkérdésben öt napos határidővel kikéri a világörökségi hatóság véleményét, és állásfoglalását ennek figyelembevételével adja meg.”
