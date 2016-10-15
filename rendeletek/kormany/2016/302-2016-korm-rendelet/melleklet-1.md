@@ -1,4 +1,4 @@
-## 8. § Hatályát veszti a települési önkormányzat tulajdonában álló közterület filmforgatási célú használatához kapcsolódó részletes szabályokról szóló 205/2013. (VI. 14.) Korm. rendelet.
+## 8. §[^1]
 
 1. melléklet a 302/2016. (X. 13.) Korm. rendelethez
 
@@ -109,3 +109,5 @@ _____________________
 Kérelmező
 
 [cégszerű aláírás vagy a meghatalmazott cégszerű aláírása]
+
+[^1]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
