@@ -4,6 +4,7 @@
 
 a)[^4]
 
-b) 45. § (2) bekezdésében az „a vizsga törzslapjának számát,” szövegrész helyébe az „a vizsga törzslapjának számát, annak tényét, hogy az érettségi bizonyítvány a Magyar Képesítési Keretrendszer szerinti 4. és az Európai Képesítési Keretrendszer szerinti 4. szintet tanúsít,”
+b)[^5]
 
 [^4]: A 3. § a) pontja a 7. § (3) bekezdése alapján 2017. január 2-án lép hatályba.
+[^5]: A 3. § b) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

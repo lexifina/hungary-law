@@ -1,1 +1,3 @@
-## 5. § Hatályát veszti az érettségi vizsga vizsgaszabályzatának kiadásáról szóló 100/1997. (VI. 13.) Korm. rendelet módosításáról szóló 36/2015. (III. 6.) Korm. rendelet (a továbbiakban: R2.) 12. § (4) bekezdése.
+## 5. §[^7]
+
+[^7]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
