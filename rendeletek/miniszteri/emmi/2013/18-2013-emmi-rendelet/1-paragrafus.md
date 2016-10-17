@@ -12,7 +12,7 @@ d) témaválasztási javaslat: azon szándék kinyilvánítása, amikor valamely
 
 e) algoritmus: az ajánlásoknak a döntéshozatal logikai sorrendjének megfelelő összesítése a döntési pontok és végzett tevékenységek egyértelmű meghatározásával, amelyet folyamatábra alapú grafikus ábrázolás is kiegészíthet;
 
-f) egészségügyi szakmai irányelv összefoglalója: az egészségügyi szakmai irányelv ellátást meghatározó ajánlásainak az ellátás menetét követő jól elkülönült felsorolása, alkalmanként algoritmussal vagy algoritmusokkal kiegészítve az egészségügyi szakmai irányelv gyakorlati alkalmazásának elősegítésére;
+f)[^1]
 
 g) egészségügyi szakmai irányelv módszertani szűrőértékelése: az egészségügyi szakmai irányelv fejlesztése során meghatározott szerkezetben elkészült, alapvető módszertani elvárásoknak való megfelelést igazoló dokumentum, amely alapján a további fejlesztési munka iránya korrigálható;
 
@@ -23,3 +23,5 @@ i) egészségügyi szakmai irányelvek tára: az egészségügyi szakmai kollég
 j) módszertani szakértő: a bizonyítékokon alapuló irányelvfejlesztés nemzetközileg elfogadott módszertanában jártas szakember, aki módszertani támogatást nyújt az egészségügyi szakmai irányelvet kidolgozó fejlesztő csoportnak, illetve az egészségügyi szakmai irányelv értékelését végzi;
 
 k) ajánlás: az egészségügyi szakmai irányelven belül konkrét javaslat az irányelv hatókörébe tartozó adott lépésre.
+
+[^1]: Az 1. § f) pontját a 31/2016. (X. 12.) EMMI rendelet 4. §-a hatályon kívül helyezte.

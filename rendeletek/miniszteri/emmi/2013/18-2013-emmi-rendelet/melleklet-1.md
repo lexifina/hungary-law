@@ -1,77 +1,66 @@
-## 13–14. §[^13]
+## 13–14. §[^16]
 
-1. melléklet a 18/2013. (III. 5.) EMMI rendelethez
+1. melléklet a 18/2013. (III. 5.) EMMI rendelethez[^17]
 
-## Az egészségügyi szakmai irányelv szerkezeti felépítése
+Az egészségügyi szakmai irányelv szerkezeti felépítése
 
-I. ADATLAP
+|  | FEDLAP |
 
-1. A dokumentum jellemzői
+| I. | IRÁNYELVFEJLESZTÉSBEN RÉSZTVEVŐK |
 
-2. Kiadás és elérhetőség
+| II. | ELŐSZÓ |
 
-3. Időbeli határok
+| III. | HATÓKÖR |
 
-4. Hatókör
+| IV. | MEGHATÁROZÁSOK |
 
-5. Felhasználói célcsoport és a felhasználás célja
+|  | 1. Fogalmak |
 
-6. A tartalomért felelősök köre
+|  | 2. Rövidítések |
 
-7. Kapcsolat a hivatalos hazai és külföldi szakmai irányelvekkel, népegészségügyi programmal
+|  | 3. Bizonyítékok szintje |
 
-8. Kulcsszavak
+|  | 4. Ajánlások rangsorolása |
 
-II. CÍM
+| V. | BEVEZETÉS |
 
-III. ELŐSZÓ
+|  | 1. A témakör hazai helyzete, a témaválasztás indoklása |
 
-IV. DEFINÍCIÓK
+|  | 2. Felhasználói célcsoport |
 
-1. Fogalmak
+|  | 3. Kapcsolat a hivatalos hazai és külföldi szakmai irányelvekkel |
 
-2. Rövidítések
+| VI. | AJÁNLÁSOK SZAKMAI RÉSZLETEZÉSE |
 
-3. Bizonyítékok szintjének meghatározási módja
+| VII. | JAVASLAT AZ AJÁNLÁSOK ALKALMAZÁSÁHOZ |
 
-4. Ajánlások rangsorolásának módja
+|  | 1. Az alkalmazás feltételei a hazai gyakorlatban |
 
-V. BEVEZETÉS
+|  | 2. Alkalmazást segítő dokumentumok listája |
 
-1. A témakör hazai helyzete, a témaválasztás indoklása
+|  | 3. A gyakorlati alkalmazás mutatói, audit kritériumok |
 
-2. Célok
+| VIII. | IRÁNYELV FELÜLVIZSGÁLATÁNAK TERVE |
 
-VI. ÖSSZEFOGLALÓ
+| IX. | IRODALOM |
 
-1. Felülvizsgálatkor változtatott ajánlások (opcionális)
+| X. | FEJLESZTÉS MÓDSZERE |
 
-2. Meghatározó ajánlások
+|  | 1. Fejlesztőcsoport megalakulása, a fejlesztési folyamat és a feladatok dokumentálásának módja |
 
-3. Az ellátási folyamat algoritmusa (opcionális)
+|  | 2. Irodalomkeresés, szelekció |
 
-VII. AJÁNLÁSOK SZAKMAI RÉSZLETEZÉSE
+|  | 3. Felhasznált bizonyítékok erősségének, hiányosságainak leírása (kritikus értékelés, „bizonyíték vagy ajánlás mátrix”), bizonyítékok szintjének meghatározási módja |
 
-VIII. AJÁNLÁSOK ALKALMAZÁSA
+|  | 4. Ajánlások kialakításának módszere |
 
-1. Az alkalmazás feltételei a hazai gyakorlatban
+|  | 5. Véleményezés módszere |
 
-2. Alkalmazást segítő dokumentumok listája
+|  | 6. Független szakértői véleményezés módszere |
 
-3. A gyakorlati alkalmazás mutatói, audit kritériumok
+| XI. | MELLÉKLET |
 
-4. Az ajánlások terjesztésének terve
+|  | 1. Alkalmazást segítő dokumentumok |
 
-IX. A DOKUMENTUM FELÜLVIZSGÁLATÁNAK TERVE
-
-X. IRODALOM
-
-XI. MELLÉKLET
-
-1. A folyamat teljesítését igazoló dokumentumok
-
-2. A fejlesztés módszerének leírása és kapcsolódó dokumentumok
-
-3. Alkalmazást segítő dokumentumok
-
-[^13]: A 13–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 13–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: Az 1. melléklet a 31/2016. (X. 12.) EMMI rendelet 3. §-ával megállapított szöveg.
