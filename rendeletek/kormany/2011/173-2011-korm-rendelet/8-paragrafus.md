@@ -1,6 +1,6 @@
-## 7. §[^21] A gyártó köteles biztosítani, hogy a pirotechnikai termék megfelel a rá vonatkozó alapvető biztonsági követelményeknek, és kiállítja a 8. melléklet szerinti EU-megfelelőségi nyilatkozatot.
+## foglalja magában.
 
-8. § (1) Az e rendeletben meghatározott hatóság engedélyével rendelkező gyártó, a pirotechnikai termék megfelelőségértékelési tanúsítására bejelentett szervezet (a továbbiakban: bejelentett szervezet) felé közli a teljesítményi jellemzőket, a lehető legnagyobb biztonság és megbízhatóság elérése érdekében.
+8. § (1)[^23] Az e rendeletben meghatározott hatóság engedélyével rendelkező gyártó a bejelentett szervezet felé közli a teljesítményi jellemzőket a lehető legnagyobb biztonság és megbízhatóság elérése érdekében.
 
 (2) A pirotechnikai terméket úgy kell megtervezni és előállítani, hogy a megfelelő eljárás alkalmazásával biztonságosan kezelt hulladékként a lehető legkisebb hatást gyakorolja a környezetre.
 
@@ -30,4 +30,4 @@ j) a pirotechnikai termék biztonságos működéséhez szükséges eszközök �
 
 (5) A szállítás és a szokásos körülmények közötti tárolás során a pirotechnikai termék összetétele nem változhat meg, kivéve, ha a gyártó a használati és kezelési útmutatóban másként nem rendelkezett.
 
-[^21]: A 7. § a 100/2015. (IV. 20.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^23]: A 8. § (1) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 4. §-ával megállapított szöveg.

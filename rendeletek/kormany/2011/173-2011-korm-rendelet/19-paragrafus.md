@@ -1,4 +1,4 @@
-## 18. §[^29] A pirotechnikai raktárépületet és a pirotechnikai raktárhelyiséget úgy kell kialakítani, hogy légterében a robbanóanyag, a pirotechnikai elegy és az Országos Tűzvédelmi Szabályzat szerint robbanásveszélyes osztályba tartozó anyag üzemzavar vagy előrelátható meghibásodás esetében is legfeljebb veszélytelen módon lehet jelen, vagy a pirotechnikai raktárépületnek és a pirotechnikai raktárhelyiségnek meg kell felelnie a 19–21. §-ban előírtaknak.
+## 18. §[^33] A pirotechnikai raktárépületet és a pirotechnikai raktárhelyiséget úgy kell kialakítani, hogy légterében a robbanóanyag, a pirotechnikai elegy és az Országos Tűzvédelmi Szabályzat szerint robbanásveszélyes osztályba tartozó anyag üzemzavar vagy előrelátható meghibásodás esetében is legfeljebb veszélytelen módon lehet jelen, vagy a pirotechnikai raktárépületnek és a pirotechnikai raktárhelyiségnek meg kell felelnie a 19–21. §-ban előírtaknak.
 
 19. § (1) A pirotechnikai raktárépületet, illetve a pirotechnikai raktárhelyiséget egyszintesre kell alakítani.
 
@@ -38,4 +38,4 @@ e) A tárolóhelyek tartó- és szakipari szerkezeteire vonatkozó tűzállósá
 
 (4) A pirotechnikai raktárépületnek, illetve a pirotechnikai raktárhelyiség építményének a kifúvási oldalán – védőtávolságon belül – tilos az átmenő forgalom számára utakat, iparvágányt vagy keskeny nyomközű iparvágányt kiépíteni.
 
-[^29]: A 18. § a 300/2014. (XII. 5.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^33]: A 18. § a 300/2014. (XII. 5.) Korm. rendelet 8. § (3) bekezdésével megállapított szöveg.

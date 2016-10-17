@@ -14,6 +14,6 @@ d) pirotechnikusi bizonyítvány másolatát,
 
 e) tűzvédelmi szakvizsga bizonyítvány másolatát.
 
-(3)[^64] A forgalmazáshoz kapcsolódó tárolás esetében a kérelemnek tartalmaznia kell a 97. § (2) bekezdés a)–e) és h)–i) pontjában meghatározott dokumentumokat, valamint a 3. melléklet 7. pontjában meghatározott adatokat is.
+(3)[^70] A forgalmazáshoz kapcsolódó tárolás esetében a kérelemnek tartalmaznia kell a 97. § (2) bekezdés a)–e) és h)–i) pontjában meghatározott dokumentumokat, valamint a 3. melléklet 7. pontjában meghatározott adatokat is.
 
-[^64]: A 93. § (3) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 19. §-ával megállapított szöveg.
+[^70]: A 93. § (3) bekezdése a 100/2015. (IV. 20.) Korm. rendelet 19. §-ával megállapított szöveg.
