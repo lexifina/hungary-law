@@ -1,4 +1,4 @@
-21. § (1)[^36] A helyszíni minőségértékelés során a minőségügyi szakfőorvos, illetve szakterületi vezető és az OBDK közreműködő kormánytisztviselője jogosult:
+21. § (1)[^40] A helyszíni minőségértékelés során a minőségügyi szakfőorvos, illetve szakterületi vezető és az OBDK közreműködő kormánytisztviselője jogosult:
 
 a) az egészségügyi szolgáltató helyiségeibe belépni, figyelemmel a minőségértékelésben résztvevő szerv, illetve szervezeti egység biztonsági előírásaira, munkarendjére,
 
@@ -10,4 +10,4 @@ d) az egészségügyi ellátásban közreműködő valamennyi személytől és a
 
 (2) A helyszíni minőségértékelésről az értékelést végző jegyzőkönyvet vesz fel, amelyben rögzíti az értékelés lefolytatásának és megállapításainak lényegét. A jegyzőkönyv egy példányát az értékelést végző személy átadja az értékelt egészségügyi szolgáltató képviselőjének.
 
-[^36]: A 21. § (1) bekezdés nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 149. § c) pontja szerint módosított szöveg.
+[^40]: A 21. § (1) bekezdés nyitó szövegrésze a 23/2015. (IV. 28.) EMMI rendelet 149. § c) pontja szerint módosított szöveg.

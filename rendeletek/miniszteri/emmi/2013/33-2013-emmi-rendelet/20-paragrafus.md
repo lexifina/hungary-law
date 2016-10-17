@@ -6,6 +6,6 @@ b) amelynél közeli hozzátartozója alkalmazásban áll, vagy
 
 c) amellyel kapcsolatban részéről nem várható el az ügy tárgyilagos vizsgálata.
 
-(2)[^35] Az (1) bekezdés szerinti valamely kizárási ok fennállását a minőségügyi szakfőorvos, illetve szakterületi vezető köteles az OBDK-nak bejelenteni, amely ennek alapján kezdeményezi az érintett klinikai auditban vagy egyéb szakmai minőségértékelési tevékenységben való részvételre eseti minőségügyi szakfőorvos vagy szakterületi vezető megbízását.
+(2)[^39] Az (1) bekezdés szerinti valamely kizárási ok fennállását a minőségügyi szakfőorvos, illetve szakterületi vezető köteles az OBDK-nak bejelenteni, amely ennek alapján kezdeményezi az érintett klinikai auditban vagy egyéb szakmai minőségértékelési tevékenységben való részvételre eseti minőségügyi szakfőorvos vagy szakterületi vezető megbízását.
 
-[^35]: A 20. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 149. § e) pontja szerint módosított szöveg.
+[^39]: A 20. § (2) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 149. § e) pontja szerint módosított szöveg.

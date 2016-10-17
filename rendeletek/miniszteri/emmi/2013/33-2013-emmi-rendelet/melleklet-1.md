@@ -1,6 +1,6 @@
-## 25–30. §[^40]
+## 25–30. §[^44]
 
-1. melléklet a 33/2013. (V. 10.) EMMI rendelethez[^41]
+1. melléklet a 33/2013. (V. 10.) EMMI rendelethez[^45]
 
-[^40]: A 25–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^41]: Az 1. melléklet a 11/2014. (II. 24.) EMMI rendelet 52. §-a szerint módosított szöveg.
+[^44]: A 25–30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^45]: Az 1. melléklet a 11/2014. (II. 24.) EMMI rendelet 52. §-a szerint módosított szöveg.
