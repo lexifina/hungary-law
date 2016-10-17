@@ -1,3 +1,3 @@
-## 4. §[^4]
+## 4. § A Korm. rendelet 8. § (1) bekezdés helyébe a következő rendelkezés lép:
 
-[^4]: A 4. § a 32. § (2) bekezdése alapján 2016. október 17-én lép hatályba.
+## „(1) Az e rendeletben meghatározott hatóság engedélyével rendelkező gyártó a bejelentett szervezet felé közli a teljesítményi jellemzőket a lehető legnagyobb biztonság és megbízhatóság elérése érdekében.”

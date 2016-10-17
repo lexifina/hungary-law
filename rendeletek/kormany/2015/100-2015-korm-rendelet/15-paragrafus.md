@@ -1,9 +1,8 @@
-## 11–14. §[^7]
+## 11–14. §[^5]
 
-15. § (1)[^8]
+15. § (1)[^6]
 
-(2)[^9]
+(2) A Korm. rendelet 79/A. § (2) bekezdése helyébe a következő rendelkezés lép:
 
-[^7]: A 11–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 15. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 15. § (2) bekezdése a 32. § (2) bekezdése alapján 2016. október 17-én lép hatályba.
+[^5]: A 11–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 15. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
