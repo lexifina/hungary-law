@@ -1,0 +1,3 @@
+Az Alaptörvény 9. cikk (4) bekezdés j) pontja, valamint a honvédek jogállásáról szóló 2012. évi CCV. törvény 4/A. § (2) bekezdés b) pontja, 59. § (2) bekezdés c) pontja és 69. §-a alapján – a honvédelmi miniszter előterjesztésére, más közszolgálati jogviszonyba áthelyezésére tekintettel – Sulyok János dandártábornok hivatásos szolgálati viszonyát 2016. október 11-ei hatállyal megszüntetem, egyúttal az Alaptörvény 9. cikk (4) bekezdés j) pontja, valamint a honvédek jogállásáról szóló 2012. évi CCV. törvény 4/A. § (2) bekezdés f) pontja és 76. §-a alapján – a honvédelmi miniszter előterjesztésére – a Magyar Honvédség szolgálaton kívüliek állományába 2016. október 12-ei hatállyal felveszem.
+
+KEH ügyszám: IV-6/05479-2/2016.
