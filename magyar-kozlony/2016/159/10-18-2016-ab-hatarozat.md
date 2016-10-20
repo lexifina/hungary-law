@@ -1,0 +1,259 @@
+# Az Alkotmánybíróság 18/2016. (X. 20.) AB határozata
+
+Magyar Közlöny 2016. évi 159. szám, 2016. október 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/1f7d22509032a9013f0e831f0c12d998a694bf34/dokumentumok/a0de21a0fabe5f38834ffb213e9517309703c7f5/letoltes)
+
+---
+
+Az Alkotmánybíróság 18/2016. (X. 20.) AB határozata
+a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes
+rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény 103/A. § (2) bekezdése szövegrésze
+alaptörvény-ellenességének megállapításáról és megsemmisítéséről, valamint folyamatban lévő ügyekben
+történő alkalmazhatóságának kizárásáról
+Az Alkotmánybíróság teljes ülése jogszabály alaptörvény-ellenességének megállapítására irányuló bírói
+kezdeményezés tárgyában – dr. Czine Ágnes alkotmánybíró párhuzamos indokolásával – meghozta a következő
+h a t á r o z a t o t:
+1. Az Alkotmánybíróság megállapítja, hogy a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi
+CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény
+103/A. § (2) bekezdése utolsó mondatának „a helyi földbizottsággal, a kifogást tevővel és a mezőgazdasági
+igazgatási szervvel”szövegrésze alaptörvény-ellenes, ezért azt megsemmisíti.
+A 103/A. § (2) bekezdése a következő szöveggel marad hatályban:
+„(2) A képviselő-testület megváltoztatja a kifogással érintett állásfoglalást, ha annak kiadására a Földforgalmi
+törvény 23–25. §-a megsértésével került sor, egyébként a kifogást elutasítja. Az elkésett kifogást a képviselő-
+testület érdemi vizsgálat nélkül elutasítja. A képviselő-testület a kifogást 15 napon belül zárt ülésen bírálja el.
+A képviselő-testület a döntését jegyző útján közli.”
+2. Az alaptörvény-ellenessé nyilvánított és megsemmisített rendelkezés az Alkotmánybíróság
+megsemmisítésről szóló határozatának a hivatalos lapban való közzétételét követő napon veszti hatályát, és
+e naptól nem alkalmazható.
+3. Az alaptörvény-ellenessé nyilvánított és megsemmisített rendelkezés nem alkalmazható a Veszprémi
+Közigazgatási és Munkaügyi Bíróság előtt 2.K.27.194/2016. számon folyamatban lévő, továbbá valamennyi,
+bármely bíróság előtt folyamatban lévő ugyanilyen tárgyú ügyben.
+4. Az Alkotmánybíróság e határozatát a Magyar Közlönyben közzé kell tenni.
+
+I n d o k o l á s
+I.
+[1] 1. A Veszprémi Közigazgatási és Munkaügyi Bíróság bírája (8210 Veszprém, Pf. 1029) az előtte 2.K.27.194/2016.
+számon folyamatban lévő, földforgalmi ügyben hozott határozat bírósági felülvizsgálata iránt indított
+perben az Alaptörvény 24. cikk (2) bekezdés b) pontja, valamint az Alkotmánybíróságról szóló 2011. évi
+CLl. törvény (a továbbiakban: Abtv.) 25. §-a alapján a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi
+CXXII. törvénnyel (a továbbiakban: Ftv.) összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló
+2013. évi CCXII. törvény (a továbbiakban: Fétv.) 103/A. § (2) bekezdésében foglaltak – a képviselő-testület
+döntésének közlésére vonatkozó rendelkezésének – Alaptörvénybe ütközésének vizsgálatát és a rendelkezés
+megsemmisítését kezdeményezte, a per tárgyalásának felfüggesztése mellett.
+[2] 1.1. A kezdeményezés alapjául szolgáló ügy tényállása szerint a perben nem álló eladó ingatlanokon fennálló
+tulajdoni hányadát értékesítette a vevő (a perben a megyei kormányhivatal alperes pernyertessége érdekében
+beavatkozó magánszemély) részére. A szerződést az önkormányzat hirdetőtábláján kifüggesztették, és a felperes
+mint elővásárlási jogosult elfogadó nyilatkozatot tett. Az alperes mint mezőgazdasági igazgatási szerv megkereste
+a helyi földbizottságot állásfoglalás beszerzése céljából. A helyi földbizottság helyett eljáró Magyar Agrár-,
+Élelmiszergazdasági és Vidékfejlesztési Kamara Területi Szervezete állásfoglalásában az elővásárlásra jogosult,
+továbbá a szerződés szerinti vevő tekintetében is támogatta a szerződés jóváhagyását. Az alperes a 2015. augusztus
+4-én kelt határozatával a szerződés szerinti vevő vonatkozásában megtagadta, míg az elővásárlásra jogosult
+vonatkozásában jóváhagyta az adásvételi szerződést. Időközben a vevő a helyi földbizottság állásfoglalása ellen
+kifogást nyújtott be, amit a helyi önkormányzat képviselő-testülete bírált el a 315/2015. (VIII. 26.) KT határozatával
+és az állásfoglalást megváltoztatta azzal, hogy az elővásárlásra jogosult tekintetében nem támogatta a szerződés
+jóváhagyását. A képviselő-testület határozatát a helyi földbizottsággal, a kifogást benyújtó szerződés szerinti
+vevővel és a mezőgazdasági igazgatási szervvel közölték, míg az elővásárlásra jogosult felperes részére nem
+kézbesítették.
+[3] Az alperes kormányhivatal a 2015. november 10-én kelt határozatával korábbi határozatát módosította azzal,
+hogy a szerződés szerinti vevő vonatkozásában jóváhagyta az adásvételi szerződést, míg az elővásárlásra jogosult
+vonatkozásában a jóváhagyást megtagadta. Döntését azzal indokolta, hogy a helyi földbizottság állásfoglalását
+a képviselő-testület határozatával megváltoztatta, és nem támogatta az elővásárlásra jogosult vonatkozásában
+a szerződés jóváhagyását.
+[4] Az elővásárlásra jogosult felperes kereseti kérelmében ezen határozat bírósági felülvizsgálatát kezdeményezte.
+Álláspontja szerint jogszabálysértő a határozat, mivel sem a helyi földbizottság állásfoglalása ellen benyújtott
+kifogást, sem a képviselő-testület határozatát nem kézbesítették számára, arról kizárólag az alperes határozatából
+szerzett tudomást. Így a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi
+CXL. törvény (a továbbiakban: Ket.) 78. § (1) bekezdése és a Fétv. 27. § (2) bekezdésében foglalt rendelkezés
+sérült, mivel az ügyfél részére a határozatot nem kézbesítették, garanciális jelentőségű ügyféli jogait nem
+gyakorolhatta. Elzárták attól, hogy a kifogással kapcsolatban észrevételeit megtegye, illetve, hogy a számára
+kedvezőtlen képviselő-testületi határozat bírósági felülvizsgálatát kezdeményezze. Ezzel az Alaptörvény XXVIII. cikk
+(7) bekezdésében biztosított jogorvoslati joga sérült, s az eljárás ellentétes az Alkotmánybíróság 17/2015. (VI. 5.)
+AB határozatával.
+[5] Az alperes oldalán beavatkozó a jogszerű határozatra hivatkozva kérte a kereset elutasítását.
+[6] 1.2. A bíró kezdeményezése szerint a Fétv. 103/A. § (2) bekezdése meghatározza, hogy a képviselő-testület
+határozatát kivel kell közölni. A rendelkezés szűkíti a jogosultak körét, mivel nem kell kézbesíteni a határozatot
+a döntés alapjául szolgáló állásfoglalással egyébként érintett ügyfelek részére, akik nem éltek kifogással a számukra
+kedvező állásfoglalás ellen. Ez azzal a következménnyel jár, hogy a képviselő-testület határozatára alapozva
+a mezőgazdasági igazgatási szerv határozattal jóváhagyja (vagy megtagadja) az adásvételi szerződést, s ezt
+a határozatot az Ftv. 30. § (4) bekezdése alapján közölni kell az eladóval, az adásvételi szerződés szerinti vevővel,
+valamint azokkal az elővásárlásra jogosultakkal, akik az adásvételi szerződésre elfogadó jognyilatkozatot tettek,
+továbbá a helyi földbizottsággal. Azok az ügyfelek, akiket a helyi földbizottság állásfoglalása érintett, de sem
+a kifogás benyújtásáról, sem a képviselő-testület határozatáról nem értesültek, ekkor kerülnek abba a helyzetbe,
+hogy a számukra sérelmes mezőgazdasági szakigazgatási szerv döntését az Ftv. 30. § (5) bekezdése alapján
+a bíróság előtt megtámadják. Ebben az eljárásban már nem vitathatják a képviselő-testület határozatát, amely
+ellen önálló jogorvoslatot biztosít a törvény, azonban ezt a határozat közlésének hiánya miatt nem gyakorolhatják.
+
+Az Alaptörvény XXIV. cikk (1) bekezdés rendelkezései szerint mindenkinek joga van ahhoz, hogy ügyeit a hatóságok
+részrehajlás nélkül, tisztességes módon és észszerű határidőn belül intézzék. A XXVIII. cikk (7) bekezdés értelmében
+mindenkinek joga van ahhoz, hogy jogorvoslattal éljen az olyan bírósági, hatósági és más közigazgatási döntés
+ellen, amely a jogát vagy jogos érdekét sérti. A bíró álláspontja szerint a tisztességes eljáráshoz és a jogorvoslathoz
+való alapjogot sérti az a rendelkezés, amely nem biztosítja az ügyben érintett valamennyi ügyfél számára
+a lehetőséget ahhoz, hogy a jogát, jogos érdekét közvetlenül érintő döntést megismerhesse. Alaptörvény-ellenes
+a rendelkezés, hiszen a döntés elleni jogorvoslati jogát nem gyakorolhatja az, aki a határozatot sérelmesnek tartja,
+illetve a döntésre alapított határozat elleni bírósági felülvizsgálati eljárásban már a jogszerűséget nem vitathatja.
+Az alperes döntésének bírósági felülvizsgálata formálissá válik, hiszen a bíróság éppen azt nem vizsgálhatja
+(a képviselő-testület határozatát), ami a döntés jogalapja volt.
+II.
+[7] 1. Az Alaptörvénynek az indítvánnyal érintett rendelkezései:
+„XXIV. cikk (1) Mindenkinek joga van ahhoz, hogy ügyeit a hatóságok részrehajlás nélkül, tisztességes módon és
+ésszerű határidőn belül intézzék. A hatóságok törvényben meghatározottak szerint kötelesek döntéseiket indokolni.”
+„XXVIII. cikk (7) Mindenkinek joga van ahhoz, hogy jogorvoslattal éljen az olyan bírósági, hatósági és más
+közigazgatási döntés ellen, amely a jogát vagy jogos érdekét sérti.”
+[8] 2. A törvény támadott rendelkezései:
+„103/A. § (1) A helyi földbizottság az állásfoglalását a települési önkormányzat jegyzője annak kézhezvételét követő
+3 napon belül a települési önkormányzat polgármesteri hivatala, illetve közös önkormányzati hivatal esetében
+a közös önkormányzati hivatal hirdetőtábláján 5 napra kifüggeszti. Az állásfoglalás ellen – 5 napon belül – az eladó,
+a vevő, illetve a határidőben elfogadó nyilatkozatot tevő elővásárlásra jogosult kifogást terjeszthet elő a települési
+önkormányzat képviselő-testületénél. A kifogást a jegyzőhöz kell benyújtani. A kifogás benyújtásáról és annak
+időpontjáról a jegyző haladéktalanul értesíti a mezőgazdasági igazgatási szervet.
+(2) A képviselő-testület megváltoztatja a kifogással érintett állásfoglalást, ha annak kiadására a Földforgalmi törvény
+23–25. §-a megsértésével került sor, egyébként a kifogást elutasítja. Az elkésett kifogást a képviselő-testület érdemi
+vizsgálat nélkül elutasítja. A képviselő-testület a kifogást 15 napon belül zárt ülésen bírálja el. A képviselő-testület
+a döntését jegyző útján közli a helyi földbizottsággal, a kifogást tevővel és a mezőgazdasági igazgatási szervvel.
+(3) Kifogás benyújtása esetén e törvény és a Földforgalmi törvény alkalmazásában a helyi földbizottság
+állásfoglalásának közlésétől számított határidők a képviselő-testület döntése közlésétől számítandók.”
+III.
+[9] Az indítvány megalapozott.
+[10] Az Alkotmánybíróság vizsgálta, hogy a beadvány megfelel-e a törvényben előírt feltételeknek. Az Abtv. 25. §-a
+szerint a bíró – a bírósági eljárás felfüggesztése mellett – abban az esetben kezdeményezi az Alaptörvény 24. cikk
+(2) bekezdés b) pontja alapján az Alkotmánybíróságnál a jogszabály vagy jogszabályi rendelkezés alaptörvény-
+ellenességének megállapítását, illetve az alaptörvény-ellenes jogszabály alkalmazásának kizárását, ha az előtte
+folyamatban lévő egyedi ügy elbírálása során olyan jogszabályt kell alkalmazni, amelynek alaptörvény-
+ellenességét észleli, vagy alaptörvény-ellenességét az Alkotmánybíróság már megállapította. Az Alkotmánybíróság
+álláspontja szerint a bírói kezdeményezés az Abtv. 25. §-ában, valamint az 52. § (1) és (1b) bekezdéseiben előírt,
+az Alkotmánybíróság 3058/2015. (III. 31.) AB végzésében értelmezett feltételeknek megfelel. A bírói kezdeményezés
+szerint a felperes kereseti kérelmére és az alperes ellenkérelmére tekintettel a Fétv. 103/A. § (2) bekezdését
+az eljárásban alkalmazni kell, a norma alaptörvény-ellenessége esetén a hiánya más döntéshez vezethet a konkrét
+ügyben, az eljárás felfüggesztése megtörtént, és az indítvány határozott kérelmet tartalmaz.
+[11] 1. Az Alkotmánybíróság a jelen ügyben elsőként azt vizsgálta, hogy a Fétv. 103/A. § (2) bekezdésében foglalt
+– a képviselő-testület döntésének közlésére vonatkozó – rendelkezés, amely szerint a képviselő-testület döntését
+csupán a helyi földbizottsággal, a kifogást tevővel és a mezőgazdasági igazgatási szervvel kell közölni, összhangban
+áll-e a jogorvoslathoz való alapvető joggal.
+[12] Az Ftv. 7. § (1) bekezdése értelmében a tulajdonjog átruházásáról szóló szerződést a mezőgazdasági igazgatási
+szerv hagyja jóvá. Az Ftv. 23. § (5) bekezdése alapján a mezőgazdasági igazgatási szerv megkeresi a helyi
+földbizottságot az állásfoglalásának beszerzése céljából. A helyi földbizottságon a Fétv. 103. § (1)–(2) bekezdésében
+
+szabályozott esetben a Kamara területi szervét kell érteni. Az Ftv. 24. § (1) bekezdése alapján a helyi földbizottság
+a (2) bekezdésben írt szempontok értékelésével adja ki állásfoglalását. Az Ftv. 68. § (5) bekezdése szerint a helyi
+földbizottság állásfoglalása ellen kifogás terjeszthető elő a települési önkormányzat képviselő-testületénél.
+Kifogást a Fétv. 103/A. § (1) bekezdése értelmében az eladó, a vevő, illetve a határidőben elfogadó nyilatkozatot
+tevő elővásárlásra jogosult terjeszthet elő. A Fétv. 103/A. § (2) bekezdése alapján a képviselő-testület döntését
+jegyző útján közli a helyi földbizottsággal, a kifogást tevővel és a mezőgazdasági igazgatási szervvel. A Fétv. 103/D. §
+a) pontja értelmében a képviselő-testület határozata ellen bírósági felülvizsgálatnak van helye.
+[13] A Ket. 15. § (1) bekezdése értelmében ügyfél az a természetes vagy jogi személy, továbbá jogi személyiséggel nem
+rendelkező szervezet, akinek jogát vagy jogos érdekét az ügy érinti, akit hatósági ellenőrzés alá vontak, illetve
+akire nézve a hatósági nyilvántartás adatot tartalmaz. A Ket. 78. § (1) bekezdése szerint a határozatot közölni kell
+az ügyféllel és azzal, akire nézve az jogot vagy kötelezettséget állapít meg, az ügyben eljárt szakhatósággal
+és a jogszabályban meghatározott más hatósággal vagy állami szervvel. A Fétv. 27. § (1) bekezdése szerint
+a földforgalmi törvényben meghatározott, a mezőgazdasági igazgatási szerv hatósági jóváhagyásához kötött, a föld
+tulajdonjogának megszerzésére irányuló szerződésnek, illetve a tulajdonjog átruházásnak nem minősülő módon
+történő megszerzésének (e fejezetben a továbbiakban együtt: jogügylet) – ide nem értve a föld tulajdonjogának
+a földforgalmi törvény 35. §-a szerinti árverés útján történő megszerzését – hatósági jóváhagyására vonatkozó
+eljárásra a földforgalmi törvényben és az e törvényben foglalt eltérésekkel a Ket. rendelkezéseit kell alkalmazni.
+A Fétv. 27. § (2) bekezdés c) pontja értelmében az eljárásban ügyfél a jogügylet tárgya szerinti földre a földforgalmi
+törvényen, más törvényen vagy megállapodáson alapuló elővásárlási joggal rendelkező személy.
+[14] 2. Az Ftv. és a Fétv. ismertetett rendelkezései alapján megállapítható, hogy a jogszabályok alapján ügyfélnek
+minősülnek olyan személyek is, akik a Fétv. 103/A. § (2) bekezdése utolsó mondatában nem szerepelnek.
+[15] 2.1. A 17/2015. (VI. 5.) AB határozat az Ftv. és a Fétv. számos előírását vizsgálta. Egyebek között megállapította,
+hogy az Ftv. és a Fétv. jegyzőre és a képviselő-testület eljárására vonatkozó szabályainak alaptörvény-ellenessége
+az Alaptörvény XXVIII. cikkének (7) bekezdése vonatkozásában vizsgálható, a képviselő-testület a mondott
+törvények szerinti eljárásban hatóság, a kifogást elbíráló eljárása pedig hatósági eljárás, ezért eljárására vonatkoznak
+a XXIV. cikkben megfogalmazott követelmények (Indokolás [62], [95]).
+[16] Az Alaptörvény XXVIII. cikk (7) bekezdése szerint mindenkinek joga van ahhoz, hogy jogorvoslattal éljen az olyan
+bírósági, hatósági és más közigazgatási döntés ellen, amely a jogát vagy jogos érdekét sérti. Az alaptörvényi
+rendelkezés értelmezését az Alkotmánybíróság a 35/2013. (XI. 22.) AB határozatban foglalta össze. Eszerint
+„[a] jogorvoslathoz való jog lényegi tartalma azt követeli meg a jogalkotótól, hogy a hatóságok vagy bíróságok
+érdemi, ügydöntő határozatai tekintetében tegye lehetővé a valamely más szervhez, vagy ugyanazon szervezeten
+belüli magasabb fórumhoz fordulás lehetőségét olyan döntés meghozataláért, amely képes a sérelmezett
+döntést felülvizsgálni, és a sérelem megállapítása esetén a döntésre visszaható módon a sérelmet orvosolni. […]
+Az Alkotmánybíróság szerint a jogorvoslat biztosításának követelménye az érdemi határozatokra vonatkozik. Annak
+vizsgálata során, hogy mely döntés minősül ilyennek, a döntés személyre gyakorolt hatása és a tárgya meghatározó,
+vagyis az, hogy a döntés lényegesen befolyásolta-e az érintett helyzetét, jogait.” A határozatban – a földbizottság
+jogállásával kapcsolatban – az Alkotmánybíróság már megállapította, hogy a földbizottság állásfoglalásával
+szemben a képviselő-testülethez intézhető kifogás alapján hozott döntésnek meg kell felelnie a jogorvoslathoz való
+jog alkotmányos mércéjének. Az Alkotmánybíróság megállapította már, hogy a képviselő-testület kifogást elbíráló
+határozata közbenső érdemi döntésként meghatározza a későbbi hatósági döntést. Ebből viszont az következik,
+hogy a képviselő-testület döntésével szemben a bírósági felülvizsgálat biztosítása az Alaptörvényből eredő
+követelmény. Az Alkotmánybíróság megállapította, hogy az Ftv. 68. § (5) bekezdésének második mondata azáltal,
+hogy kizárja a kifogást elbíráló határozat bírósági felülvizsgálatát, sérti az Alaptörvény XXVIII. cikk (7) bekezdésében
+biztosított jogorvoslathoz való jogot, ezért az alaptörvény-ellenes rendelkezést megsemmisítette (Indokolás [62],
+[95]).
+[17] 2.2. A bírósághoz fordulás jogának gyakorlásához szükséges, hogy az érintettek értesüljenek a határozatról, amely
+jogukat vagy jogos érdekeiket érinti és megismerhessék annak tartalmát. A jogorvoslathoz való jog gyakorlásához
+is – egyebek mellett – elengedhetetlenül szükséges, hogy az érintettek értesüljenek a határozatról, amely jogukat
+vagy jogos érdekeiket érinti és megismerhessék annak tartalmát. A jogorvoslat egyes elemei mikénti szabályozása
+vizsgálatánál figyelembe kell venni a jogorvoslattal megtámadható döntésről való tudomásszerzés garantáltságát.
+Az Alkotmánybíróság szerint a tudomásszerzés akkor garantált, ha megállapítható, hogy a tudomásszerzés
+lehetősége minden kétséget kizáróan fennáll.
+
+[18] Jelen ügyben az Alkotmánybíróság azt állapította meg, hogy ez a hivatkozott feltétel, a tudomásszerzés
+garantáltsága – a képviselő-testület döntésének közlésére vonatkozó rendelkezés korlátozó voltára figyelemmel –
+hiányzik. Előállhat – és a konkrét ügyben elő is állt – a hatályos szabályozás mellett az a helyzet, hogy a hatósági
+döntés, az érdemi, ügydöntő határozat ellen önhibán kívül nem lehet jogorvoslattal élni és a hátrányos
+következmények másként sem háríthatók el.
+[19] Mindezekre figyelemmel az Alkotmánybíróság a jogszabályi rendelkezést az Alaptörvény XXVIII. cikk
+(7) bekezdésébe ütközése miatt alaptörvény-ellenessé nyilvánította és megsemmisítette.
+[20] Az Alkotmánybíróság az Alaptörvény védelme, a jogbiztonság és más eljárásokban érintett személyek különösen
+fontos érdekére tekintettel az Abtv. 45. § (4) bekezdése alapján általános alkalmazási tilalmat írt elő, ezért a Fétv.
+alaptörvény-ellenessé nyilvánított és megsemmisített rendelkezése a bíróságok előtt folyamatban lévő egyedi
+ügyekben sem alkalmazhatók.
+[21] Az Alkotmánybíróság nem vizsgálta, hogy a szabály ellentétben áll-e az Alaptörvény XXIV. cikk (1) bekezdésével.
+Az Alkotmánybíróság állandó gyakorlata szerint, ha az indítvánnyal támadott jogszabályt vagy annak egy részét
+az Alaptörvény valamely rendelkezésébe ütközőnek minősíti, és ezért azt megsemmisíti, akkor a további alkotmányi
+rendelkezés esetleges sérelmét – a már megsemmisített jogszabályi rendelkezéssel összefüggésben – érdemben
+nem vizsgálja.
+[22] A határozatot az Abtv. 44. § (1) bekezdésének első mondata alapján közzé kell tenni a Magyar Közlönyben.
+Budapest, 2016. október 18.
+Dr. Sulyok Tamás s. k.,
+az Alkotmánybíróság elnökhelyettese
+Dr. Balsai István s. k., Dr. Czine Ágnes s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Dienes-Oehm Egon s. k., Dr. Juhász Imre s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Pokol Béla s. k., Dr. Salamon László s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Stumpf István s. k., Dr. Szalay Péter s. k.,
+alkotmánybíró alkotmánybíró
+Dr. Szívós Mária s. k., Dr. Varga Zs. András s. k.,
+alkotmánybíró előadó alkotmánybíró
+Alkotmánybírósági ügyszám: III/1363/2016.
+Dr. Czine Ágnes alkotmánybíró párhuzamos indokolása
+[23] Egyetértek a döntéssel, ugyanakkor szükségesnek tartottam volna a rendelkező rész 3. pontjához fűződő indokolás
+kiegészítését.
+[24] A hatályos Abtv. – a korábbi szabályozáshoz hasonlóan – rugalmasságot biztosít az Alkotmánybíróságnak a döntése
+jogkövetkezményeinek meghatározására. Az Alkotmánybíróság ezért eltérhet a megsemmisítés időbeli hatályának
+főszabályától (ex nunc), és a konkrét eset körülményeihez igazodóan a megsemmisítés lehet eltérő hatályú (ex tunc
+vagy pro futuro).
+[25] Az Alkotmánybíróságnak lehetősége van továbbá arra is, hogy egy megsemmisített rendelkezéssel
+összefüggésben ne csak az adott ügyben történő alkalmazhatatlanságot rendelje el, hanem általában rendelkezzen
+e jogkövetkezményről. Ennek módja lehet, hogy az Alkotmánybíróság az általános alkalmazási tilalmat minden
+folyamatban lévő jogerősen le nem zárt összes eljárásban, illetve a jövőbeni eljárásokban rendeli el.
+
+[26] Az Abtv. 45. § (4) bekezdése ugyanakkor előírja, hogy általános alkalmazási tilalom kizárólag akkor rendelhető el, ha
+„az Alaptörvény védelme, a jogbiztonság vagy az eljárást kezdeményező különösen fontos érdeke indokolja”.
+[27] Az adott esetben az Alkotmánybíróság az általános alkalmazási tilalmat a következőkkel indokolta:
+„[a]z Alkotmánybíróság az Alaptörvény védelme, a jogbiztonság és más eljárásokban érintett személyek különösen
+fontos érdekére tekintettel az Abtv. 45. § (4) bekezdése alapján általános alkalmazási tilalmat írt elő, ezért a Fétv.
+alaptörvény-ellenessé nyilvánított és megsemmisített rendelkezése a bíróságok előtt folyamatban lévő egyedi
+ügyekben sem alkalmazhatók.”(Indokolás [20])
+[28] Véleményem szerint az Alkotmánybíróságnak az általános alkalmazási tilalom törvényi feltételeit érdemben
+szükséges vizsgálnia, és az alkalmazási tilalom elrendelése esetén azt résztelesebben kell indokolnia.
+[29] Az adott esetben, úgy gondolom, hogy az általános alkalmazási tilalmat a jogbiztonság indokolja, és azért kellett
+elrendelni, mert a Polgári perrendtartásról szóló 1952. évi III. törvény 339/A. §-a szerint „a bíróság a közigazgatási
+határozatot – jogszabály eltérő rendelkezése hiányában – a meghozatalakor alkalmazandó jogszabályok és
+fennálló tények alapján vizsgálja felül.” Erre tekintettel szükséges annak egyértelművé tétele, hogy a Fétv. 103/A. §
+(2) bekezdésének megsemmisített rendelkezéseit folyamatban lévő peres eljárásokban egyáltalán nem lehet
+alkalmazni.
+[30] Az általános alkalmazási tilalom megállapításával ezért egyetértek. Úgy vélem azonban, hogy az általános
+alkalmazási tilalom elrendelésével összefüggésben nem volt szükség annak megállapítására, hogy az „ugyanilyen
+tárgyú ügyekre” vonatkozik. Az Alkotmánybíróság által megsemmisített – a képviselő-testület döntésének közlésére
+vonatkozó – rendelkezés ugyanis nem tekinthető az érintett eljárások „tárgyának”, ezért az „ugyanilyen tárgyú
+ügyek”körét sem jelöli ki.
+[31] Véleményem szerint az általános alkalmazási tilalom megállapítása az adott ügyben azt vonja maga után, hogy a Pp.
+fentiekben hivatkozott rendelkezése ellenére a Fétv. 103/A. § (2) bekezdésének megsemmisített rendelkezéseit
+folyamatban lévő közigazgatási peres eljárásban – az eljárás tárgyától függetlenül – egyáltalán nem lehet
+alkalmazni.
+Budapest, 2016. október 18.
+Dr. Czine Ágnes s. k.,
+alkotmánybíró
+
+IX. Határozatok Tára

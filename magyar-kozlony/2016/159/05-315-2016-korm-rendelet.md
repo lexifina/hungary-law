@@ -1,0 +1,803 @@
+# A Kormány 315/2016. (X. 20.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 159. szám, 2016. október 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/1f7d22509032a9013f0e831f0c12d998a694bf34/dokumentumok/a0de21a0fabe5f38834ffb213e9517309703c7f5/letoltes)
+
+---
+
+A Kormány 315/2016. (X. 20.) Korm. rendelete
+az állami tisztviselők képesítési előírásairól
+A Kormány az állami tisztviselőkről szóló 2016. évi LII. törvény 28. § (1) bekezdés c) pontjában,
+a 7. § tekintetében az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény 62. § (1) bekezdés 1. pont
+1.2. alpontjában,
+a 8. § tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 14. pontjában,
+a 9. § tekintetében az anyakönyvi eljárásról szóló 2010. évi I. törvény 94. § b) pontjában,
+a 10. § tekintetében a közszolgálati tisztviselőkről szóló 2011. évi CXCIX. törvény 259. § (1) bekezdés 2. pontjában
+kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket
+rendeli el:
+1. § (1) Állami tisztviselővé az nevezhető ki, aki rendelkezik az 1. mellékletben a feladatkörére meghatározott képesítések
+valamelyikével.
+(2) Ha az 1. mellékletben szereplő feladatkör képesítési követelménye nem tartalmaz az érettségi végzettségű állami
+tisztviselők vonatkozásában képesítési előírást, a feladatkör ellátására kizárólag felsőfokú iskolai végzettséggel
+rendelkező állami tisztviselő nevezhető ki.
+(3) Ha az állami tisztviselő munkakörében több feladatkört lát el, legalább az egyik feladatköre ellátására előírt
+képesítéssel rendelkeznie kell.
+2. §
+Az e rendelet szerinti képesítési előírások alól felmentés nem adható.
+3. §
+Ha a kormányablakokról szóló 515/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésében meghatározott
+kormányablaknál lévő ügyfélszolgálati feladatkör ellátásához szükséges kormányablak ügyintézői vizsga
+megszerzésére irányuló képzés az állami szolgálati jogviszony létesítésének vagy az ügyfélszolgálati feladatkör
+betöltésének időpontját követően indul, a kormányablak ügyintézői vizsgát a képzés indulásától számított egy éven
+belül kell teljesíteni.
+4. §
+Az 1. melléklet 31. pontja szerinti közlekedési, mérésügyi és műszaki biztonsági feladatkör képesítési előírásainál
+meghatározott mérésügyi hitelesítő vizsgát és műszaki-biztonsági felügyelői szakvizsgát a kinevezéstől számított
+egy éven belül kell teljesíteni.
+5. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+(2) A 7. § b) pontja, a 9. § és a 10. § 2017. január 1. napján lép hatályba.
+6. §
+Az e rendelet hatálybalépésekor állami szolgálati jogviszonyban álló állami tisztviselőt – ha a közszolgálati
+tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet alapján feladatköre ellátására képesítettnek
+minősült – feladatköre megváltozásáig képesítettnek kell tekinteni.
+7. §
+Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.)
+Korm. rendelet
+a) 4. § (4a)–(4c) bekezdésében az „a közszolgálati tisztviselők képesítési előírásairól szóló kormányrendeletben”
+szövegrész helyébe az„az állami tisztviselők képesítési előírásairól szóló kormányrendeletben”,
+b) 4. § (6) bekezdésében az „a közszolgálati tisztviselők képesítési előírásairól szóló kormányrendeletben”
+szövegrész helyébe az „a közszolgálati tisztviselők képesítési előírásairól szóló kormányrendeletben – állami
+tisztviselő esetén az állami tisztviselők képesítési előírásairól szóló kormányrendeletben –”
+szöveg lép.
+
+8. § (1) A közszolgálati tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet 2. § (8) bekezdés a) pontjában
+az „a közigazgatási, rendészeti és katonai képzési területen szerzett szakképzettség” szövegrész helyébe
+az „a közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi képzési területen szerzett
+szakképzettség”szöveg lép.
+(2) Hatályát veszti a közszolgálati tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet 10. §
+(2) bekezdése.
+9. §
+Az anyakönyvezéshez szükséges képesítési feltételekről szóló 76/2014. (III. 14.) Korm. rendelet 1. §-a helyébe
+a következő rendelkezés lép:
+„1. § Az anyakönyvezést
+a) polgármester és jegyző anyakönyvi szakvizsgával vagy a közszolgálati tisztviselők képesítési előírásairól szóló
+kormányrendeletben az anyakönyvi feladatkörre meghatározott képesítéssel,
+b) az anyakönyvi szerv kormánytisztviselője, a polgármesteri hivatal és a közös önkormányzati hivatal
+köztisztviselője a közszolgálati tisztviselők képesítési előírásairól szóló kormányrendeletben meghatározott
+képesítéssel,
+c) az anyakönyvi szerv állami tisztviselője az állami tisztviselők képesítési előírásairól szóló kormányrendeletben
+meghatározott képesítéssel
+láthatja el.”
+10. §
+A Területi Közigazgatási Ösztöndíjról és egyes kormányrendeletek módosításáról szóló 377/2014. (XII. 31.)
+Korm. rendelet
+a) 8. § (3) bekezdésében a „kormánytisztviselői” szövegrész helyébe az „állami tisztviselői”, az „a közszolgálati
+tisztviselők képesítési előírásairól szóló 29/2012. (III. 7.) Korm. rendelet 2. melléklet II. pont 1. alpontjában”
+szövegrész helyébe az „az állami tisztviselők képesítési előírásairól szóló kormányrendelet 1. melléklete
+szerinti humánpolitikai feladatkörben”,
+b) 9. § (4) bekezdés e) pontjában és 15. § (1) bekezdés b) pontjában a „kormánytisztviselői” szövegrész helyébe
+az„állami tisztviselői”,
+c) 9. § (4) bekezdés g) pontjában a„kormánytisztviselői állásajánlat elfogadását követően a kormánytisztviselői”
+szövegrész helyébe az„állami tisztviselői állásajánlat elfogadását követően az állami tisztviselői”,
+d) 9. § (4) bekezdés g) pontjában, 16. § (1) bekezdésében és 17. § (1) bekezdés d) pontjában a „kormányzati
+szolgálati”szövegrész helyébe az„állami szolgálati”,
+e) 14. § (1) bekezdésében a„kormánytisztviselője”szövegrész helyébe az„állami tisztviselője”
+szöveg lép.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 315/2016. (X. 20.) Korm. rendelethez
+Az egyes feladatkörökhöz meghatározott végzettségek és szakképzettségek, szakirányú
+szakképesítések
+1. Állami támogatásokkal kapcsolatos feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban agrár, természettudományi, műszaki, gazdaságtudományok képzési területen
+szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség, vagy
+c) közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi képzési
+területen szerzett szakképzettség, vagy
+d) felsőoktatásban szerzett szakképzettség és az Országos Képzési Jegyzék (a továbbiakban: OKJ)
+szerinti közgazdasági szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen
+szerzett szakképesítés.
+
+Érettségi végzettséggel:
+érettségi végzettség és OKJ szerinti közgazdasági szakmacsoportba tartozó, a feladatkörhöz kapcsolódó
+tanulmányi területen szerzett szakképesítés.
+2. Állampolgársági és honosítási feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség, vagy
+b) közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi képzési
+területen szerzett szakképzettség, vagy
+c) felsőoktatásban jogi, bölcsészettudományi, társadalomtudományi, pedagógus-képzés képzési
+területen szerzett szakképzettség és OKJ szerinti ügyviteli szakmacsoportba tartozó migrációs
+ügyintéző szakképesítés.
+Érettségi végzettséggel:
+a) érettségi végzettség és OKJ szerinti rendészeti, honvédelmi, közszolgálati szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés, vagy
+b) ügyfélszolgálati feladatkört is érintő munkakörben: érettségi végzettség és OKJ szerinti ügyviteli
+szakmacsoportba tartozó migrációs ügyintéző szakképesítés.
+3. Állat-egészségügyi és élelmiszer-biztonsági feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban agrár képzési területen szerzett állatorvos szakképzettség, vagy
+b) felsőoktatásban agrár, műszaki, gazdaságtudományok, orvos- és egészségtudományi,
+természettudományi képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség.
+Érettségi végzettséggel:
+a) mezőgazdasági ágazati tevékenységet végző szakközépiskolában szerzett érettségi végzettség,
+b) érettségi végzettség és OKJ szerinti egészségügyi, mezőgazdasági, élelmiszeripari, kereskedelem-
+marketing, üzleti adminisztráció, ügyviteli, közgazdasági, rendészeti, honvédelemi és közszolgálati
+szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképzettség.
+4. Anyakönyvi szakfelügyeleti feladatkör
+4.1. Anyakönyvi szakfelügyeleti és koordinációs feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség és anyakönyvi
+szakvizsga, vagy
+b) felsőoktatásban közigazgatási, államtudományi képzési területen szerzett szakképzettség
+és anyakönyvi szakvizsga.
+4.2. Hazai anyakönyvezési feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség és anyakönyvi
+szakvizsga, vagy
+b) felsőoktatásban közigazgatási, államtudományi képzési területen szerzett szakképzettség
+és anyakönyvi szakvizsga
+Érettségi végzettséggel:
+érettségi végzettség és anyakönyvi szakvizsga.
+4.3. Névváltoztatási feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség és anyakönyvi
+szakvizsga, vagy
+b) felsőoktatásban közigazgatási, államtudományi képzési területen szerzett szakképzettség
+és anyakönyvi szakvizsga.
+5. Bányászati és műszaki felügyeleti feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban műszaki, természettudományi, gazdaságtudományok, bölcsészettudományi
+képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség, vagy
+
+c) felsőoktatásban közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi
+képzési területen szerzett szakképzettség.
+Érettségi végzettséggel:
+a) bányászati, gépészeti, közgazdasági, villamosipari és elektronikai ágazati tevékenységet végző
+szakközépiskolában szerzett érettségi végzettség, technikusi képesítés, vagy
+b) érettségi végzettség és az OKJ szerinti gépészet, elektrotechnika-elektronika szakmacsoportba
+tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+6. Belső ellenőrzési feladatkör
+Felsőfokú végzettséggel:
+a) jogász, közgazdász, okleveles közgazdász, gazdaságinformatikus, informatikus közgazdász,
+igazgatásszervező, közigazgatás-szervező, okleveles közigazgatási szakértő, okleveles
+közigazgatási menedzser szakképzettség vagy olyan főiskolai vagy egyetemi szintű végzettség,
+amely a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló kormányrendelet szerinti
+nyilvántartásba vételt lehetővé teszi, vagy
+b) gazdasági mérnöki szakképzettséggel, vagy
+c) az a) és b) pontba nem tartozó felsőfokú iskolai végzettséggel és
+ca) okleveles pénzügyi revizori,
+cb) pénzügyi-számviteli szakellenőri,
+cc) ellenőrzési szakelőadó,
+cd) okleveles könyvvizsgálói,
+ce) költségvetési ellenőri,
+cf) mérlegképes könyvelői,
+cg) a Belső Ellenőrök Nemzetközi Szervezetének okleveles belső ellenőri (CIA),
+ch) az Information Systems Audit and Control Association (ISACA) Nemzetközi Szervezetének
+okleveles informatikai rendszerellenőri (CISA),
+ci) közigazgatási gazdálkodási és ellenőrzési szakértői,
+cj) felsőfokú költségvetési,
+ck) felsőfokú államháztartási,
+cl) államháztartási gazdálkodási és ellenőrzési,
+cm) elektronikus információbiztonsági vezetői,
+cn) integritás tanácsadói
+szakképesítéssel, és
+az a) és c) pont szerinti esetben legalább kétéves, a b) pont szerinti esetben legalább ötéves
+ellenőrzési, költségvetési, pénzügyi, számviteli vagy az adott költségvetési szerv tevékenységi
+körébe tartozó területen szerzett szakmai gyakorlattal rendelkezik.
+7. Civil kapcsolati és kommunikációs feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban bölcsészettudományi, gazdaságtudományok, társadalomtudományi,
+pedagógus-képzés, közigazgatási, rendészeti és katonai képzési területen, valamint
+az államtudományi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban szerzett szakképzettség és OKJ szerinti rendészeti, honvédelemi és közszolgálati
+szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+Érettségi végzettséggel:
+a) rendészeti és közszolgálati ágazati tevékenységet végző szakközépiskolában szerzett érettségi
+végzettség, vagy
+b) érettségi végzettség és OKJ szerinti rendészeti, honvédelemi és közszolgálati szakmacsoportba
+tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+8. Családi vagyonfelügyelői feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban gazdaságtudományok képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség
+és legalább kétéves szakmai gyakorlat, valamint jogi vagy közigazgatási szakvizsga, vagy közigazgatási
+tanulmányok szakirányú szakképzettség vagy kormányzati tanulmányok szakirányú szakképzettség.
+
+9. Családtámogatási ellátásokkal összefüggő feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban orvos- és egészségtudományi, társadalomtudományi, gazdaságtudományok,
+közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi képzési
+területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban szerzett szakképzettség és OKJ szerinti informatikai, egészségügyi, közgazdasági,
+egyéb szolgáltatások, rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó és OKJ
+szerinti rendészeti, honvédelemi és közszolgálati szakmacsoportba tartozó, a feladatkörhöz
+kapcsolódó tanulmányi területen szerzett szakképesítés.
+Érettségi végzettséggel:
+a) közgazdasági ágazati tevékenységet végző szakközépiskolában szerzett érettségi végzettség, vagy
+b) érettségi végzettség és OKJ szerinti informatikai, egészségügyi, közgazdasági, egyéb szolgáltatások,
+szociális szolgáltatások, rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+10. Egészség- és nyugdíjbiztosítási feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban szerzett orvos- és egészségtudományi, bölcsészettudományi,
+gazdaságtudományok, társadalomtudományi, informatikai, közigazgatási, rendészeti és katonai
+képzési területen, valamint az államtudományi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban szerzett szakképzettség és OKJ szerinti közgazdasági, informatika, szociális
+szolgáltatások, rendészeti, honvédelmi és közszolgálati, egészségügyi szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+Érettségi végzettséggel:
+a) közgazdasági ágazati tevékenységet végző szakközépiskolában szerzett érettségi végzettség,
+b) érettségi végzettség és OKJ szerinti közgazdasági, informatikai, ügyviteli, szociális szolgáltatások,
+egészségügyi, rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó, a feladatkörhöz
+kapcsolódó tanulmányi területen szerzett szakképesítés.
+11. Építésügyi feladatkör
+11.1. Építésügyi hatósági feladatkör
+Felsőfokú végzettséggel:
+a) egyetemi szintű építészmérnöki vagy építőmérnöki (magasépítő területen szerkezetépítő
+szakirány) szakképzettség, városgazdasági üzemmérnöki (ezzel egyenértékű
+településmérnöki) szakképzettség, főiskolai szintű magasépítő üzemmérnöki,
+építészmérnöki, építőmérnöki (magasépítő területen szerkezetépítő szakirány)
+szakképzettség, vagy az ezekkel egyenértékű szakképzettségek, vagy
+b) építészmérnöki alapképzési építész szak, épületszerkezeti konstruktőr, vagy magasépítési
+szakirányán szerzett szakképzettség, vagy az ezekkel egyenértékű szakképzettség, vagy
+c) tervező építészmérnöki, szerkezettervező építészmérnöki mesterképzési szakon,
+osztatlan képzésben építész mesterképzési szakon szerzett szakképzettség, vagy
+az ezekkel egyenértékű szakképzettség.
+11.2. Építésfelügyeleti hatósági feladatkör
+Felsőfokú végzettséggel:
+a) egyetemi szintű építészmérnöki vagy építőmérnöki (magasépítő területen szerkezetépítő
+szakirány) szakképzettség városgazdasági üzemmérnöki (ezzel egyenértékű
+településmérnöki) szakképzettség, főiskolai szintű magasépítő üzemmérnöki,
+építészmérnöki vagy építőmérnöki (magasépítő területen szerkezetépítő szakirány)
+szakképzettség, vagy az ezekkel egyenértékű szakképzettség,
+b) építészmérnöki alapképzési építész szak, épületszerkezeti konstruktőr, magasépítési
+vagy építés-kivitelezés szakirányán szerzett szakképzettség, építőmérnöki alapképzési
+szak magasépítési szakirányán szerzett szakképzettség, vagy az ezekkel egyenértékű
+szakképzettség,
+
+c) tervező építészmérnöki, szerkezettervező építészmérnöki mesterképzési szakon
+szerzett szakképzettség, szerkezet-építőmérnöki mesterképzési szak magasépítő és
+rekonstrukciós szakirányú szakképzettség, osztatlan képzésben építész mesterképzési
+szakon szerzett szakképzettség, vagy az ezekkel egyenértékű szakképzettség.
+11.3. Főépítészi feladatkör
+Felsőfokú végzettséggel:
+okleveles építészmérnök, okleveles településmérnök szakképzettség, vagy ezekkel egyenértékű
+szakképzettség.
+11.4. Település- és területfejlesztési, terület- és településrendezési feladatkör
+Felsőfokú végzettséggel:
+okleveles építészmérnök, okleveles tájépítészmérnök, okleveles táj- és kertépítészmérnök, okleveles
+táj- és kertépítész szakos kertészmérnök, városgazdasági üzemmérnöki (ezzel egyenértékű
+településmérnöki), okleveles geográfus szakképzettség, jogász szakképzettség.
+11.5. Építésügyi és építésfelügyeleti hatóságok által nyújtandó kötelező adatszolgáltatások feladatkörben
+Érettségi végzettséggel:
+érettségi végzettség és OKJ szerinti építészeti, ügyviteli, informatikai szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+12. Európai uniós feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban Európai Unió szakirányú továbbképzési szakon szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség, vagy
+c) felsőoktatásban agrár, társadalomtudományi, pedagógus-képzési, műszaki, bölcsészettudományi,
+gazdaságtudományok képzési területen szerzett szakképzettség, vagy
+d) felsőoktatásban közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi
+képzési területen szerzett szakképzettség, vagy
+e) felsőoktatásban szerzett szakképzettség és legalább középfokú komplex angol, valamint a helyi
+adottságok szerint indokolt idegen nyelvből szerzett legalább középfokú komplex nyelvvizsga.
+Érettségi végzettséggel:
+érettségi végzettség és OKJ szerinti kereskedelem-marketing, üzleti adminisztráció, közgazdasági
+(külkereskedelmi szakirányú) szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen
+szerzett szakképesítés.
+13. Fejlesztési és projekt feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban agrár, természettudományi, műszaki, gazdaságtudományok képzési területen
+szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség, vagy
+c) közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi képzési
+területen szerzett szakképzettség, vagy
+d) felsőoktatásban szerzett szakképzettség és OKJ szerinti közgazdasági, üzleti adminisztráció
+szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+Érettségi végzettséggel:
+érettségi végzettség és OKJ szerinti közgazdasági, üzleti adminisztráció szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+14. Foglalkoztatáspolitikai, munkavédelmi és munkaügyi feladatkör
+14.1. Foglalkoztatáspolitikai és munkaügyi feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban pedagógus-képzés, gazdaságtudományok, agrár, műszaki,
+bölcsészettudományi, társadalomtudományi, természettudományi, közigazgatási,
+rendészeti és katonai képzési területen, valamint az államtudományi képzési területen
+szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban szerzett szakképzettség és OKJ szerinti közgazdasági, informatikai,
+ügyviteli, rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+
+Érettségi végzettséggel:
+a) rendészeti és közszolgálati, közgazdasági ágazati tevékenységet végző
+szakközépiskolában szerzett érettségi végzettség, vagy
+b) érettségi végzettség és OKJ szerinti közgazdasági, informatikai, ügyviteli, rendészeti,
+honvédelmi és közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó
+tanulmányi területen szerzett szakképesítés, vagy kormányablak ügyintézői vizsga.
+14.2. Munkavédelmi feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban szerzett közegészségügyi és járványügyi szakképzettség és legalább
+középfokú munkavédelmi szakképesítés, vagy
+b) felsőoktatásban szerzett agrár, műszaki, orvos- és egészségtudományi szakképzettség és
+legalább középfokú munkavédelmi szakképesítés, vagy
+c) felsőoktatásban szerzett munkavédelmi szakmérnök, munkavédelmi szakember
+szakképzettség.
+15. Fogyasztóvédelmi feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban gazdaságtudományok, agrár, műszaki, informatikai, orvos- és egészségtudományi,
+természettudományi, közigazgatási, bölcsészettudományi, rendészeti és katonai képzési területen,
+valamint az államtudományi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban szerzett szakképzettség és OKJ szerinti egyéb szolgáltatások, közgazdasági,
+rendészeti, honvédelmi és közszolgálati, informatikai, kereskedelem-marketing, üzleti
+adminisztráció, vendéglátás-turisztika szakmacsoportba tartozó, a feladatkörhöz kapcsolódó
+tanulmányi területen szerzett szakképesítés.
+Érettségi végzettséggel:
+a) rendészeti és közszolgálati, közgazdasági, kereskedelmi, vendéglátó-ipari ágazati tevékenységet
+végző szakközépiskolában szerzett érettségi végzettség, vagy
+b) érettségi végzettség és OKJ szerinti egyéb szolgáltatások, közgazdasági, rendészeti, honvédelmi és
+közszolgálati, informatikai, kereskedelem-marketing, üzleti adminisztráció, vendéglátás-turisztika,
+ügyviteli szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett
+szakképesítés.
+16. Földhivatali feladatkör
+16.1. Ingatlan-nyilvántartási, földforgalmi és földműves nyilvántartási, földhasználati nyilvántartási feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban agrár, informatikai, közigazgatási, rendészeti és katonai képzési területen,
+valamint az államtudományi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+c) felsőfokú szakképzettség és OKJ szerinti közgazdasági, mezőgazdasági, műszaki,
+informatikai, rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+Érettségi végzettséggel:
+a) rendészeti és közszolgálati ágazati tevékenységet végző szakközépiskolában szerzett
+érettségi végzettség, vagy
+b) érettségi végzettség és OKJ szerinti rendészeti, honvédelmi és közszolgálati,
+közgazdasági, mezőgazdasági, műszaki, informatikai és ügyviteli szakmacsoportba
+tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+16.2. Földmérési és térképészeti feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban agrár képzési területen földmérő és földrendező mérnöki szakon szerzett
+szakképzettség, vagy
+b) felsőoktatásban műszaki képzési területen földmérő és térinformatikai mérnöki szakon
+szerzett szakképzettség, vagy
+c) felsőoktatásban szerzett okleveles építőmérnöki, okleveles erdőmérnöki, okleveles
+bányamérnöki vagy okleveles térképész, építőmérnöki szakterületen szerzett
+
+üzemmérnöki vagy mérnöki szakképzettség, ha rendelkezik a földmérési és térképészeti
+tevékenység végzéséhez szükséges szakképzettségről szóló miniszteri rendeletben
+meghatározott számú kredittel, vagy
+d) felsőoktatásban szerzett informatikai képzési területen mérnökinformatikus szakon
+szerzett szakképzettség, vagy műszaki földtudományi szakon szerzett szakképzettség,
+ha rendelkezik a földmérési és térképészeti tevékenység végzéséhez szükséges
+szakképzettségről szóló miniszteri rendeletben meghatározott számú kredittel.
+Érettségi végzettséggel:
+a) érettségi végzettség és az OKJ szerinti mezőgazdasági szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés, vagy
+b) földmérési ágazati tevékenységet végző szakközépiskolában szerzett érettségi
+végzettség.
+16.3. Földminősítési és földvédelmi feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban agrár, természettudományi képzési területen a feladatkörhöz kapcsolódó
+tanulmányi területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen igazságügyi igazgatási szakon szerzett
+szakképzettség, vagy jogi képzési területen szerzett jogász szakképzettség, vagy
+c) felsőoktatásban közigazgatási, rendészeti és katonai képzési területen, valamint
+az államtudományi képzési területen szerzett szakképzettség.
+17. Gazdálkodási feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban gazdaságtudományok képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban műszaki, közigazgatási, rendészeti és katonai képzési területen, valamint
+az államtudományi képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban szerzett végzettség és OKJ szerinti közgazdasági szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+Érettségi végzettséggel:
+a) közgazdasági ágazati tevékenységet végző szakközépiskolában szerzett érettségi végzettség, vagy
+b) érettségi végzettség és OKJ szerinti közgazdasági szakmacsoportba tartozó, a feladatkörhöz
+kapcsolódó tanulmányi területen szerzett szakképesítés.
+18. Gyámügyi és gyermekvédelmi igazgatási feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi
+képzési területen szerzett szakképzettség és legalább kétéves gyámügyi vagy gyermekvédelmi
+szakmai gyakorlat, vagy
+b) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség és legalább kétéves gyámügyi
+vagy gyermekvédelmi szakmai gyakorlat, vagy
+c) felsőoktatásban pedagógus-képzés, hittudományi, orvos- és egészségtudományi,
+társadalomtudományi, bölcsészettudományi, gazdaságtudományok képzési területen
+szerzett szakképzettség és szociális igazgatásszervező szakképzettség, vagy jogi szakokleveles
+családvédelmi tanácsadó szakirányú szakképzettség, vagy legalább kétéves gyámügyi vagy
+gyermekvédelmi szakmai gyakorlat.
+Érettségi végzettséggel:
+érettségi végzettség és OKJ szerinti szociális szolgáltatások szakmacsoportba tartozó, a feladatkörhöz
+kapcsolódó tanulmányi területen szerzett szakképesítés és legalább kétéves gyámügyi vagy gyermekvédelmi
+gyakorlat.
+19. Hatósági feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban agrár, gazdaságtudományok, természettudományi, bölcsészettudományi,
+társadalomtudományi, műszaki, közigazgatási, rendészeti és katonai képzési területen, valamint
+az államtudományi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+
+c) felsőoktatásban szerzett szakképzettség és OKJ szerinti informatikai, ügyviteli, közgazdasági,
+kereskedelem-marketing, üzleti adminisztráció, szociális szolgáltatások, rendészeti, honvédelmi és
+közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett
+szakképesítés vagy kormányablak ügyintézői vizsga.
+Érettségi végzettséggel:
+a) rendészeti és közszolgálati, közgazdasági, műszaki ágazati tevékenységet végző szakközépiskolában
+szerzett érettségi végzettség, vagy
+b) érettségi végzettség és OKJ szerinti informatikai, ügyviteli, közgazdasági, kereskedelem-
+marketing, üzleti adminisztráció, szociális szolgáltatások, rendészeti, honvédelmi és közszolgálati
+szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés
+vagy kormányablak ügyintézői vizsga.
+20. Humánpolitikai feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban gazdaságtudományok, pedagógus-képzés, bölcsészettudományi,
+társadalomtudományi, közigazgatási, rendészeti és katonai képzési területen, valamint
+az államtudományi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban szerzett szakképzettség és OKJ szerint közgazdasági, rendészeti, honvédelmi és
+közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett
+felsőfokú szakképesítés.
+Érettségi végzettséggel:
+érettségi végzettség és OKJ szerinti közgazdasági, ügyviteli, rendészeti, honvédelmi és közszolgálati
+szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+21. Igazságügyi feladatkör
+21.1. Jogi segítségnyújtási feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban közigazgatási, rendészeti és katonai képzési területen, valamint
+az államtudományi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban szerzett szakképzettség és OKJ szerinti rendészeti, honvédelmi,
+közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen
+szerzett felsőfokú szakképesítés.
+21.2. Áldozatsegítési és pártfogó felügyelői feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban társadalomtudományi, pedagógus-képzés, hittudományi, közigazgatási,
+rendészeti és katonai képzési területen, valamint az államtudományi képzési területen
+szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban bölcsészettudományi képzési területen pszichológia, pedagógia,
+neveléstudomány, mentálhigiénés családtudományi és családterápiás, valamint
+mentálhigiénés közösség- és kapcsolatépítő szakképzési területen szerzett
+szakképzettség, vagy
+d) felsőoktatásban szerzett szakképzettség és OKJ szerinti szociális szolgáltatások,
+közgazdasági, rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+Érettségi végzettséggel:
+érettségi végzettség és OKJ szerinti szociális szolgáltatások, közgazdasági, rendészeti, honvédelmi
+és közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett
+szakképesítés.
+22. Informatikai feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban pedagógus-képzés, műszaki, informatikai képzési területen szerzett szakképzettség,
+vagy
+
+b) felsőoktatásban szerzett szakképzettség és OKJ szerinti informatikai szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett felsőfokú szakképesítés.
+Érettségi végzettséggel:
+a) informatikai ágazati tevékenységet végző szakközépiskolában szerzett érettségi végzettség, vagy
+b) érettségi végzettség és OKJ szerinti informatikai szakmacsoportba tartozó, a feladatkörhöz
+kapcsolódó tanulmányi területen szerzett szakképesítés.
+23. Innovációs feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban műszaki, gazdaságtudományok, agrár, természettudományi képzési területen
+szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség.
+Érettségi végzettséggel:
+érettségi végzettség és OKJ szerinti, közgazdasági gépészeti, informatikai szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+24. Integritás tanácsadói feladatkör
+Felsőfokú végzettséggel:
+felsőoktatásban szerzett szakképzettség és integritás tanácsadó szakképzettség.
+25. Jogi és igazgatási feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség, vagy
+b) közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi képzési
+területen szerzett szakképzettség.
+26. Jogi- és perképviseleti feladatkör
+Felsőfokú végzettséggel:
+felsőoktatásban jogi képzési területen szerzett jogász szakképzettség.
+27. Képzési, továbbképzési feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban gazdaságtudományok, pedagógus-képzés, bölcsészettudományi,
+társadalomtudományi, hittudományi, műszaki, közigazgatási, rendészeti és katonai képzési
+területen, valamint az államtudományi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban szerzett szakképzettség és OKJ szerinti oktatási, közgazdasági, informatikai,
+rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó
+tanulmányi területen szerzett felsőfokú szakképesítés.
+Érettségi végzettséggel:
+érettségi végzettség és OKJ szerinti közgazdasági, informatikai, ügyviteli, rendészeti, honvédelmi és
+közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett
+szakképesítés.
+28. Koordinációs és szervezési feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban műszaki, gazdaságtudományok, pedagógus-képzés, bölcsészettudományi,
+társadalomtudományi, közigazgatási, rendészeti és katonai képzési területen, valamint
+az államtudományi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség.
+Érettségi végzettséggel:
+érettségi végzettség és OKJ szerinti közgazdasági, ügyviteli, rendészeti, honvédelmi és közszolgálati
+szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+29. Környezet- és természetvédelmi feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban agrár, erdészeti, természettudományi, pedagógus-képzés, műszaki,
+környezetvédelmi mérnöki, természetvédelmi mérnöki, gazdaságtudományok, közigazgatási,
+rendészeti és katonai képzési területen, valamint az államtudományi képzési területen szerzett
+szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség, vagy
+
+c) felsőoktatásban szerzett szakképzettség és OKJ szerinti környezetvédelmi, mezőgazdasági,
+vegyipari szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett
+szakképesítés.
+Érettségi végzettséggel:
+a) mezőgazdasági, kertészeti, erdészeti, közgazdasági, geológiai, környezetvédelmi, természetvédelmi,
+vízügyi szakképesítés, vagy
+b) érettségi végzettség és OKJ szerinti mezőgazdasági, környezetvédelmi, természetvédelmi vegyipari
+szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+30. Közbeszerzési feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban gazdaságtudományok, műszaki, közigazgatási, rendészeti és katonai képzési
+területen, valamint az államtudományi képzési területen szerzett szakképzettség, felsőoktatásban
+jogi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban szerzett szakképzettség és OKJ szerinti közgazdasági szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+31. Közlekedési, mérésügyi és műszaki biztonsági feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban agrár, műszaki, gazdaságtudományi, bölcsészettudományi, természettudományi,
+pedagógus-képzés, közigazgatási, rendészeti és katonai képzési területen, valamint
+az államtudományi képzési területen szerzett szakképzettség és mérésügyi területen mérésügyi
+hitelesítő vizsga, műszaki biztonsági területen műszaki-biztonsági felügyelői szakvizsga, közúti
+járművezetői vizsgabiztosi igazolvány, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség és mérésügyi területen mérésügyi
+hitelesítő vizsga, műszaki biztonsági területen műszaki-biztonsági felügyelői szakvizsga, közúti
+járművezetői vizsgabiztosi igazolvány, vagy
+c) felsőoktatásban szerzett szakképzettség és OKJ szerinti közlekedési, gépészeti, mezőgazdasági
+szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett felsőfokú
+szakképesítés és mérésügyi területen mérésügyi hitelesítő vizsga, műszaki biztonsági területen
+műszaki-biztonsági felügyelői szakvizsga, közúti járművezetői vizsgabiztosi igazolvány.
+Érettségi végzettséggel:
+a) rendészeti és közszolgálati, erdészet és vadgazdálkodási, közlekedési, közlekedésgépészeti,
+közlekedésépítő, informatikai, gépészeti, villamosipari és elektronikai ágazati tevékenységet végző
+szakközépiskolában szerzett érettségi végzettség és mérésügyi területen mérésügyi hitelesítő
+vizsga, műszaki biztonsági területen műszaki-biztonsági felügyelői szakvizsga, közúti járművezetői
+vizsgabiztosi igazolvány vagy
+b) érettségi végzettség és OKJ szerinti közlekedési, gépészeti, mezőgazdasági, ügyviteli, közgazdasági,
+rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó
+tanulmányi területen szerzett szakirányú szakképesítés és mérésügyi területen mérésügyi hitelesítő
+vizsga, műszaki biztonsági területen műszaki-biztonsági felügyelői szakvizsga, közúti járművezetői
+vizsgabiztosi igazolvány.
+32. Mezőgazdaság területi igazgatási feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban agrár képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban szerzett gazdaságtudományok képzési területen szerzett közgazdász szakképzettség.
+Érettségi végzettség:
+érettségi végzettség és OKJ szerinti közgazdasági, mezőgazdasági szakmacsoportba tartozó, a feladatkörhöz
+kapcsolódó tanulmányi területen szerzett szakképesítés.
+33. Nemzetközi (európai, regionális) kapcsolatok feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban jogi képzési területen szerzett szakképzettség, közigazgatási, rendészeti és katonai
+képzési területen, valamint az államtudományi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban bölcsészettudományi, társadalomtudományi, gazdaságtudományok, műszaki,
+természettudományi, agrár, pedagógus-képzés képzési területen, a feladatkörhöz kapcsolódó
+tanulmányi területen szerzett szakképzettség.
+
+34. Népegészségügyi feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi
+képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség, vagy
+c) felsőoktatásban szerzett általános orvos, fogorvos, gyógyszerész, biológus, fizikus, vegyész,
+vegyészmérnök, mérnök fizikus, építészmérnök, biomérnök, környezetmérnök, környezetvédelmi
+mérnök, pszichológus, szociológus vagy szociálpolitikus szakképzettség, agrármérnök, élelmiszermérnök,
+élelmiszer-technológus mérnök, egészségügyi menedzser, egészségpolitikai szakképzettség, vagy
+d) egészségügyi felsőoktatásban szerzett szakképzettség, környezetegészségügyi-környezetvédelmi
+szakfelügyelő szakképzettség.
+Érettségi végzettséggel:
+érettségi végzettség és OKJ szerinti egészségügyi, környezetvédelmi, vegyipari szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+34.1. Megyei és járási tisztifőorvos, tisztiorvos, helyettes megyei és járási tisztifőorvos feladatkör
+Felsőfokú végzettséggel:
+felsőoktatásban szerzett általános orvos, higiénikus orvos vagy fogorvos szakképzettség és
+szakorvosi képesítés.
+34.2. Megyei, járási vezető védőnői és szakfelügyelő védőnői feladatkör
+Felsőfokú végzettséggel:
+felsőoktatásban szerzett védőnői szakképzettség.
+34.3. Családvédelmi védőnői feladatkör
+Felsőfokú végzettséggel:
+felsőoktatásban szerzett védőnői szakképzettség és az Állami Népegészségügyi és Tisztiorvosi
+Szolgálat által szervezett képzés keretében megszerzett, a családvédelmi szolgálat feladataira
+felkészítő szakirányú végzettség.
+34.4. Megyei, járási vezető ápolói és ápolási szakfelügyelői feladatkör
+Felsőfokú végzettséggel:
+felsőoktatásban szerzett okleveles ápoló, diplomás ápoló, intézetvezető vagy szakoktató
+szakképzettség.
+34.5. Közegészségügyi-járványügyi feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban műszaki, gazdaságtudományok, természettudományi, agrár, orvos- és
+egészségtudományi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban közigazgatási, rendészeti és katonai képzési területen, valamint
+az államtudományi képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban jogi képzési területen szerzett szakképezettség.
+Érettségi végzettséggel:
+érettségi végzettség és OKJ szerinti egészségügyi szakmacsoportba tartozó, a feladatkörhöz
+kapcsolódó tanulmányi területen szerzett szakképesítés.
+34.6. Egészségügyi igazgatási feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban közigazgatási, rendészeti és katonai képzési területen, valamint
+az államtudományi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség, vagy
+c) felsőoktatásban természettudományi, gazdaságtudományok, orvos- és egészségtudományi
+képzési területen szerzett szakképzettség.
+34.7. Egészségfejlesztési feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban orvos- és egészségtudományi, természettudományi, bölcsészettudományi,
+társadalomtudományi, pedagógus-képzés, művészeti képzési területen szerzett
+szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség, vagy
+
+c) felsőoktatásban közigazgatási, rendészeti és katonai képzési területen, valamint
+az államtudományi képzési területen szerzett szakképzettség.
+Érettségi végzettséggel:
+a) érettségi végzettség és OKJ szerinti egészségügyi szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés, vagy
+b) egészségügyi ágazati tevékenységet végző szakközépiskolában szerzett érettségi
+végzettség.
+34.8. Laboratóriumi feladatkör
+Érettségi végzettséggel:
+érettségi végzettség és OKJ szerinti egészségügyi, környezetvédelmi, vegyipari szakmacsoportba
+tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+35. Növény- és talajvédelmi, erdészeti, földművelésügyi feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban agrár, gazdaságtudományok, műszaki, informatikai, természettudományi,
+közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi képzési
+területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban szerzett szakképzettség és OKJ szerinti közgazdasági, mezőgazdasági, rendészeti,
+honvédelmi és közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi
+területen szerzett szakképesítés.
+Érettségi végzettséggel:
+a) rendészeti és közszolgálati, közgazdasági, erdészeti és vadgazdálkodási, mezőgazdasági ágazati
+tevékenységet végző szakközépiskolában szerzett érettségi végzettség, vagy
+b) érettségi végzettség és OKJ szerinti mezőgazdasági, rendészeti, honvédelmi és közszolgálati
+szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+36. Oktatási és szakképzési igazgatási feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban gazdaságtudományok, természettudományi, bölcsészettudományi,
+társadalomtudományi, pedagógus-képzés, hittudományi, műszaki, művészeti, közigazgatási,
+rendészeti és katonai képzési területen, valamint az államtudományi képzési területen szerzett
+szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség.
+37. Örökségvédelmi feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban szerzett építész-, építőmérnök, műemlékvédelmi szakmérnök szakképzettség, vagy
+b) felsőoktatásban bölcsészettudományi képzési területen régészet képzési szakon szerzett
+szakképzettség.
+Érettségi végzettséggel:
+a) építőipari ágazati tevékenységet végző szakközépiskolában szerzett érettségi végzettség, vagy
+b) érettségi végzettség és OKJ szerinti építészeti szakmacsoportba tartozó, a feladatkörhöz kapcsolódó
+tanulmányi területen szerzett szakképesítés.
+38. Személyiadat, lakcím-, közlekedési, bűnügyi nyilvántartási és adatszolgáltatási feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+b) közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi képzési
+területen szerzett szakképzettség, vagy
+c) felsőoktatásban szerzett szakképzettség és OKJ szerinti közgazdasági, ügyviteli, informatikai
+szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés,
+vagy kormányablak ügyintézői vizsga.
+Érettségi végzettséggel:
+a) érettségi végzettség és OKJ szerinti közgazdasági, informatikai, ügyviteli szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés, vagy
+b) érettségi végzettség és anyakönyvi szakvizsga, vagy
+c) érettségi végzettség és kormányablak ügyintézői vizsga.
+
+39. Szociális feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban gazdaságtudományok, társadalomtudományi, bölcsészettudományi, orvos- és
+egészségtudományi, pedagógus-képzés, hittudományi, közigazgatási, rendészeti és katonai képzési
+területen, valamint az államtudományi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban szerzett szakképzettség és OKJ szerinti szociális szolgáltatások szakmacsoportba
+tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+Érettségi végzettséggel:
+érettségi végzettség és OKJ szerinti szociális szolgáltatások szakmacsoportba tartozó, a feladatkörhöz
+kapcsolódó tanulmányi területen szerzett szakképesítés vagy szociális területen szerzett szakmai gyakorlat.
+40. Támogatási és rehabilitációs feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban szerzett orvos- és egészségtudományi, gazdaságtudományok, társadalomtudományi,
+bölcsészettudományi, pedagógus-képzés képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi
+képzési területen szerzett szakképzettség, vagy
+d) felsőoktatásban szerzett szakképzettség és OKJ szerinti közgazdasági, szociális szolgáltatások,
+egészségügyi, ügyviteli, rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+Érettségi végzettséggel:
+érettségi végzettség és OKJ szerinti közgazdasági, szociális szolgáltatások, egészségügyi, ügyviteli,
+rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi
+területen szerzett szakképesítés.
+41. Területfejlesztési és vidékfejlesztési feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi
+képzési területen szerzett szakképzettség, vagy
+c) felsőoktatásban agrár, gazdaságtudományok, természettudományi, bölcsészettudományi,
+társadalomtudományi, pedagógus-képzés, műszaki képzési területen, a feladatkörhöz kapcsolódó
+tanulmányi területen szerzett szakképzettség.
+Érettségi végzettséggel:
+a) érettségi végzettség és OKJ szerinti mezőgazdasági, faipari, építészeti, közgazdasági, vízügyi,
+környezetvédelmi, rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés, vagy
+b) mezőgazdasági, kertészeti és parképítési, erdészeti és vadgazdálkodási, építőipari, vízügyi ágazati
+tevékenységet végző szakközépiskolában szerzett érettségi végzettség,
+42. Titkársági és igazgatási feladatkör
+Felsőfokú végzettséggel:
+felsőoktatásban szerzett szakképzettség.
+Érettségi végzettséggel:
+a) rendészeti és közszolgálati, közgazdasági, informatikai, ügyviteli ágazati tevékenységet végző
+szakközépiskolában szerzett érettségi végzettség, vagy
+b) érettségi végzettség és OKJ szerinti közgazdasági, ügyviteli, informatikai, rendészeti, honvédelmi és
+közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett
+szakképesítés, vagy
+c) érettségi végzettség és legalább egyéves szakmai gyakorlat.
+43. Törvényességi felügyeleti feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+b) közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi képzési
+területen szerzett szakképzettség.
+
+44. Ügyfélszolgálati feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban jogi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi
+képzési területen szerzett szakképzettség, felsőoktatásban gazdaságtudományok képzési területen
+szerzett szakképzettség, vagy
+c) felsőoktatásban szerzett szakképzettség és kormányablak ügyintéző vizsga.
+Érettségi végzettséggel:
+a) rendészeti és közszolgálati ágazati tevékenységet végző szakközépiskolában szerzett érettségi
+végzettség, vagy
+b) érettségi végzettség és kormányablak ügyintéző vizsga.
+45. Üzemeltetési feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban műszaki, gazdaságtudományok, közigazgatási, rendészeti és katonai képzési
+területen, valamint az államtudományi képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban jogi képzési területen szerzett szakképzettség.
+Érettségi végzettséggel:
+a) épületgépészeti, gépészeti, informatikai, építőipari, közgazdasági ágazati tevékenységet végző
+szakközépiskolában szerzett érettségi végzettség, vagy
+b) végzettség és OKJ szerinti közgazdasági, gépészeti, elektrotechnika-elektronikai, informatikai,
+rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó
+tanulmányi területen szerzett szakképesítés.
+46. Vadászati és halászati igazgatási feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban agrár, műszaki képzési területen szerzett szakképzettség, vagy
+b) felsőoktatásban szerzett szakképzettség és OKJ szerinti környezetvédelmi, mezőgazdasági
+szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett felsőfokú
+szakképesítés.
+Érettségi végzettséggel:
+a) érettségi végzettség és erdészeti szakképesítés, vagy
+b) erdészeti, vadgazdálkodási technikusi végzettség, vagy
+c) érettségi végzettség és OKJ szerinti környezetvédelmi, mezőgazdasági szakmacsoportba tartozó,
+a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+47. Védelmi igazgatási, honvédelmi feladatkör
+Felsőfokú végzettséggel:
+a) felsőoktatásban jogi képzési területen szerzett jogász szakképzettség, vagy
+b) felsőoktatásban gazdaságtudományok, műszaki, közigazgatási, természettudományi, rendészeti és
+katonai képzési területen, valamint az államtudományi képzési területen szerzett szakképzettség,
+vagy
+c) felsőoktatásban szerzett szakképzettség és OKJ szerinti rendészeti, honvédelmi és közszolgálati
+szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+Érettségi végzettséggel:
+a) rendészeti és közszolgálati ágazati tevékenységet végző szakközépiskolában szerzett érettségi
+végzettség, vagy
+b) érettségi végzettség és OKJ szerinti rendészeti, honvédelmi és közszolgálati szakmacsoportba
+tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
+
+V. A Kormány tagjainak rendeletei
