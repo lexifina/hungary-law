@@ -1,4 +1,4 @@
-10. § (1) A végfelhasználó a pályázatában vállalt vagy a 7. § (3) bekezdése szerinti energiahatékonysági intézkedés megvalósulását igazoló iratokat köteles legkésőbb a tárgyévet követő második év március 31-ig a miniszterhez benyújtani. A miniszter az energiahatékonysági intézkedés megvalósulását a benyújtott iratok vizsgálatával és azok alapján szükség szerint helyszíni ellenőrzés végzésével ellenőrzi.
+10. § (1)[^8] A végfelhasználó az 5. § (4) bekezdése szerinti energiahatékonysági intézkedés megvalósulását igazoló iratokat köteles legkésőbb a tárgyévet követő második év március 31-ig a miniszterhez benyújtani. A miniszter az energiahatékonysági intézkedés megvalósulását a benyújtott iratok vizsgálatával és azok alapján szükség szerint helyszíni ellenőrzés végzésével ellenőrzi.
 
 (2) A végfelhasználó köteles a számára e rendelet szerint kedvezményesen átadott villamos energia mennyiség után a villamos energia egyetemes szolgáltatáshoz kapcsolódó árakról szóló miniszteri rendeletben megállapított közintézményi árszabás szerinti árat megfizetni az állam számára, ha
 
@@ -9,3 +9,5 @@ b) az energiahatékonysági intézkedés nem vagy nem teljes körűen valósult 
 c) az energiahatékonyság javító intézkedés eredményét 5 éven keresztül nem tartotta fenn.
 
 (3) A (2) bekezdés szerinti összeg megfizetésére a végfelhasználót a miniszter határozattal kötelezi. Az összeget a központi költségvetés számára kell befizetni.
+
+[^8]: A 10. § (1) bekezdése a 312/2016. (X. 19.) Korm. rendelet 8. §-a szerint módosított szöveg.

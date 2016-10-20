@@ -1,12 +1,9 @@
 ## 12. § Ez a rendelet a kihirdetését követő 3. napon lép hatályba.
 
-13. §[^2] (1) A 2016. évi villamos energia felhasználás e rendelet szerinti biztosítására a végfelhasználókat a költségvetési intézmények közül a Kormány határozattal jelöli ki.[^3]
+13. §[^14] (1) A 4. § (1) bekezdése szerinti tájékoztatásra a 2017. évi villamosenergia-felhasználás tekintetében legkésőbb a megújuló energiák alkalmazásával kapcsolatos egyes kormányrendeletek módosításáról szóló 312/2016. (X. 19.) Korm. rendelet (a továbbiakban: Mód. rendelet) hatálybalépését[^15] követő 30 napon belül kerül sor.
 
-(2) Ha az (1) bekezdés szerinti határozat az államháztartás önkormányzati alrendszerébe tartozó szervezetet vagy általa alapított, közfeladatot ellátó gazdasági társaságot jelöl ki, és a kijelölést az érintett nem fogadja el, akkor erről a határozat közzétételét követő 15 napon belül írásban értesíti az energiapolitikáért felelős minisztert.
+(2) A 4. § (2) bekezdése szerinti kijelölésre a 2017. évi villamosenergia-felhasználás tekintetében legkésőbb a Mód. rendelet hatálybalépését[^16] követő 45 napon belül kerül sor.
 
-(3) A (2) bekezdés szerinti esetben az energiapolitikáért felelős miniszter haladéktalanul kezdeményezi az (1) bekezdés szerinti határozat módosítását és a felszabaduló energiamennyiségre új költségvetési intézmény kijelölését.
-
-(4) A 7. § (3) bekezdését az e § alapján történő kijelölés során is alkalmazni kell.
-
-[^2]: A 13. § a 388/2015. (XII. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^3]: Lásd az 1900/2015. (XII. 8.) Korm. határozatot.
+[^14]: A 13. § a 312/2016. (X. 19.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^15]: A hatálybalépés időpontja 2016. október 20.
+[^16]: A hatálybalépés időpontja 2016. október 20.
