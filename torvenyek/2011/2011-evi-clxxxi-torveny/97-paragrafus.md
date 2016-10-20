@@ -1,9 +1,3 @@
-## VIII. Fejezet
-
-## ZÁRÓ RENDELKEZÉSEK
-
-## 44. Felhatalmazó rendelkezések
-
 97. § Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
 a) az e törvényben szabályozott eljárásokban alkalmazandó papír alapú űrlapokat, azok tartalmi és formai kellékeit, az űrlapokhoz csatolható mellékleteket, az elektronikus űrlapok adatait, valamint az űrlapok közzétételének módját,
