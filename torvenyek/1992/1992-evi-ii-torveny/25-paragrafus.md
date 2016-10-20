@@ -4,7 +4,7 @@
 
 (3) A Kpt. szerinti árverés lebonyolítása után megmaradó szövetkezeti tulajdonú földet a vagyonnevesítés szabályainak megfelelő alkalmazásával a tagok tulajdonába kell adni.
 
-(4) E törvény alapján a föld fekvése szerinti települési önkormányzat tulajdonába kerül — ha e jogáról nem mond le — az a védett természeti területnek nem minősülő, és az állam által a szövetkezet ingyenes és határidő nélküli használatába adott állami tulajdonú termőföld, amelyet a Kpt. végrehajtása során 1994. május 31. napjáig árverésen nem értékesítettek. Ha eddig az időpontig a földalapok elkülönítése (13—21. §) még nem történt meg, vagy annak megtörténtétől számítva 4 hónapnál kevesebb van hátra, az önkormányzat — árverési értékesítés hiányában — a földalapok elkülönítését követő 4 hónap elteltével szerez tulajdont.
+(4)
 
 (5) Az (1) bekezdés második fordulata és a (3) bekezdés szerinti vagyonnevesítésre – ha az még nem történt meg – csak a részarány-tulajdon rendezésénél mutatkozó AK hiány megszüntetése után kerülhet sor.
 

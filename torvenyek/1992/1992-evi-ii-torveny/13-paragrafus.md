@@ -8,7 +8,7 @@ b) a haszonbérlőt a legalább öt éve használatában álló földre, valamin
 
 c) a volt szövetkezeti tagot a megváltott földjére, ha azt a megváltás óta megszakítás nélkül használja,
 
-amennyiben tulajdonszerzési szándékát a szövetkezet felhívásától számított egy hónapon belül bejelenti. A kárpótlásra jogosult a vételárat az őt megillető kárpótlási jeggyel is kiegyenlítheti. A szövetkezet az így megszerzett kárpótlási jegyeket a Kpt. 7. § (1) bekezdésében foglaltak szerint felhasználhatja.
+amennyiben tulajdonszerzési szándékát a szövetkezet felhívásától számított egy hónapon belül bejelenti. A szövetkezet az így megszerzett kárpótlási jegyeket a Kpt. 7. § (1) bekezdésében foglaltak szerint felhasználhatja.
 
 (2) Az (1) bekezdésben meghatározott vételi jog a (3) bekezdés a) és d) pontjában meghatározott földalapok terhére nem gyakorolható.
 
