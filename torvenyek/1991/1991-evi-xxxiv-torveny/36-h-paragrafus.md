@@ -2,4 +2,4 @@
 
 (2) Az ideiglenes hozzáférhetetlenné tétel végrehajtását a Nemzeti Média- és Hírközlési Hatóság (a továbbiakban: NMHH) az elektronikus hírközlésről szóló törvény alapján szervezi és ellenőrzi.
 
-(3) Az állami adóhatóság 100 ezer forinttól 500 ezer forintig terjedő bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, amely a 36/G. § és e § szerinti kötelezettségének nem tesz eleget. A bírság a kötelezettség nemteljesítésének időtartama alatt ismételten is kiszabható.
+(3) Az állami adóhatóság 1 millió forinttól 5 millió forintig terjedő bírsággal sújthatja azt az elektronikus hírközlési szolgáltatót, amely a 36/G. § és e § szerinti kötelezettségének nem tesz eleget. A bírság a kötelezettség nemteljesítésének időtartama alatt ismételten is kiszabható.
