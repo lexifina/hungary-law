@@ -1,4 +1,4 @@
-## 5. §[^40]
+## 5. §[^41]
 
 ## III. Fejezet
 
@@ -6,11 +6,11 @@
 
 ## A kötelező átvételi jogosultság megállapítására vonatkozó eljárás
 
-6. §[^41] (1) Ha az Értékesítő e rendelet szerint kívánja a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energiát vagy annak egy részét értékesíteni, akkor – a VET 11. § (3) bekezdésében foglaltak alapján – a kötelező átvétel időtartamának és az átvétel alá eső villamos energia mennyiségének megállapítása céljából a Hivatal honlapján közzétett formanyomtatvány alapján kérelmet (a továbbiakban: kérelem) kell benyújtania a Hivatalhoz.
+6. §[^42] (1) Ha az Értékesítő e rendelet szerint kívánja a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energiát vagy annak egy részét értékesíteni, akkor – a VET 11. § (3) bekezdésében foglaltak alapján – a kötelező átvétel időtartamának és az átvétel alá eső villamos energia mennyiségének megállapítása céljából a Hivatal honlapján közzétett formanyomtatvány alapján kérelmet (a továbbiakban: kérelem) kell benyújtania a Hivatalhoz.
 
 (2) A kérelem engedélyköteles erőmű esetében legkorábban a kiserőművi összevont engedélyre vonatkozó kérelemmel vagy az 50 MW vagy azt meghaladó teljesítőképességű erőmű létesítési engedélyére vonatkozó kérelemmel egyidejűleg nyújtható be. Nem engedélyköteles kiserőmű esetében a kérelmet legkorábban 1 évvel a kereskedelmi üzem tervezett megkezdését megelőzően lehet benyújtani.
 
-(3)[^42] Nem engedélyköteles kiserőmű esetében a kötelező átvételre való jogosultság megszűnik, ha a villamosenergia-termelés nem kezdődik meg a kereskedelmi üzem megkezdésének a kérelemben meghatározott, tervezett időpontjától számított három – 2016. január 1-jét követően benyújtott, napelemes erőműre vonatkozó kérelem esetén egy – éven belül.
+(3)[^43] Nem engedélyköteles kiserőmű esetében a kötelező átvételre való jogosultság megszűnik, ha a villamosenergia-termelés nem kezdődik meg a kereskedelmi üzem megkezdésének a kérelemben meghatározott, tervezett időpontjától számított három – 2016. január 1-jét követően benyújtott, napelemes erőműre vonatkozó kérelem esetén egy – éven belül.
 
 (4) Az Értékesítő a kérelméhez csatolni köteles azokat a hitelt érdemlő dokumentumokat, amelyek igazolják, hogy milyen fajtájú és összegű más támogatást (így különösen beruházási támogatás, adómentesség vagy adókedvezmény, egyéb közvetlen ártámogatás vagy kedvezményes csatlakozási díj) vett, vesz vagy tervez igénybe venni.
 
@@ -54,6 +54,6 @@ b) a kötelező átvételi jogosultság megszűnése után a vegyes tüzelés é
 
 (15) Az Értékesítő a körülmények jelentős megváltozása esetén kérheti a Hivataltól a kötelező átvétel időtartamának és a kötelező átvétel alá eső villamos energia mennyiségének meghatározásáról szóló határozat módosítását.
 
-[^40]: Az 5. §-t és az azt megelőző alcímet a 166/2011. (VIII. 24.) Korm. rendelet 3. § 11. pontja hatályon kívül helyezte.
-[^41]: A 6. § a 123/2015. (V. 26.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^42]: A 6. § (3) bekezdése a 391/2015. (XII. 11.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^41]: Az 5. §-t és az azt megelőző alcímet a 166/2011. (VIII. 24.) Korm. rendelet 3. § 11. pontja hatályon kívül helyezte.
+[^42]: A 6. § a 123/2015. (V. 26.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^43]: A 6. § (3) bekezdése a 391/2015. (XII. 11.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
