@@ -1,0 +1,1 @@
+## 58. § A hivatásos állomány tagja, ha a hivatásos állományhoz tartozását szolgálati érdek sérelme nélkül felfedheti, azt az eljáró szabálysértési hatósággal az eljárás megindításakor közölni köteles, ha a szabálysértésnek minősített magatartását szolgálattal összefüggésben vagy szolgálati helyen követte el.

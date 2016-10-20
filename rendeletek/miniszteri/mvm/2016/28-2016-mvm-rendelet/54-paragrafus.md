@@ -1,0 +1,3 @@
+54. § (1) A fegyelmi jogkör gyakorlója az ügyet nem bírálhatja el, ha a cselekménnyel arányban álló fenyítés kiszabása a hatáskörét meghaladja. Ebben az esetben a személyes meghallgatást követő három napon belül az iratokat a fenyítés kiszabására vonatkozó javaslattal együtt a hatáskörrel rendelkező elöljáróhoz felterjeszti. A felterjesztéshez mellékelni kell a fegyelmi határozat tervezetét.
+
+(2) A felterjesztés alapján a hatáskörrel rendelkező elöljáró a fegyelmi iratokat a kézhezvételtől számított három napon belül visszaküldi, ha a javasolt fenyítést a cselekménnyel arányban állónál súlyosabbnak tartja. Ebben az esetben a fegyelmi jogkör gyakorlója öt napon belül hoz érdemi döntést az ügyben.
