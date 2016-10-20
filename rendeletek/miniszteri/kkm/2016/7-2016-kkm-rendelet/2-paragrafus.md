@@ -1,0 +1,1 @@
+## kihelyezett kormánytisztviselőre és kormányzati ügykezelőre (a továbbiakban: kihelyezett), továbbá a külképviseletekről és a tartós külszolgálatról szóló 2016. évi LXXIII. törvény (a továbbiakban: Külszoltv.) szerinti hozzátartozójára (a továbbiakban: hozzátartozó) terjed ki.

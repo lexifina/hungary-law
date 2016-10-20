@@ -1,0 +1,1 @@
+13. § Az e rendelet hatálybalépésekor munkaviszony keretében tartós külszolgálatot teljesítő kihelyezett és hozzátartozója állomáshelyen történő egészségügyi ellátása tekintetében, a kihelyezés fennállásáig e rendelet rendelkezéseit kell alkalmazni.

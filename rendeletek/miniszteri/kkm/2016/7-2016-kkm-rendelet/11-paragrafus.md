@@ -1,0 +1,1 @@
+## 10. § Ha az igény – elévülés, hiányos dokumentáció vagy más, az igény érvényesítésével közvetlenül összefüggő ok miatt – nem teljesíthető, az elutasításról és a jogellenesen kifizetett költségtérítés visszafizetési kötelezettségéről a kihelyező szerv tájékoztatja a kihelyezettet, aki köteles az összeget a kihelyező szerv részére a tárgyhónapban visszafizetni.
