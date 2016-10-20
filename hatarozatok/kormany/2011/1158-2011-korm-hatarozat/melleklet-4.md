@@ -50,4 +50,6 @@ A közreműködői díjazás tilalma alól mentes testületek
 
 | Magyar Felsőoktatási Akkreditációs Bizottság | EMMI |
 
-[^10]: A 4. mellékletet az 1460/2013. (VII. 17.) Korm. határozat 4. pontja iktatta be, szövege az 1080/2014. (II. 25.) Korm. határozat 1. pontja szerint módosított szöveg.
+| Országos Könyvtári Kuratórium | EMMI |
+
+[^10]: A 4. mellékletet az 1460/2013. (VII. 17.) Korm. határozat 4. pontja iktatta be, szövege az 1080/2014. (II. 25.) Korm. határozat 1. pontja, az 1572/2016. (X. 19.) Korm. határozat 1. pontja szerint módosított szöveg.
