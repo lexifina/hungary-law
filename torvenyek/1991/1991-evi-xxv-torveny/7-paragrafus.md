@@ -1,8 +1,8 @@
 7. § (1) Az állam biztosítja, hogy a kárpótlási jegyet annak birtokosa az e törvényben foglalt feltételekkel
 
-a) az állami tulajdon privatizációja során értékesítésre kerülő vagyontárgyak, részvények, üzletrészek megvásárlására, továbbá
+a) az állami tulajdon privatizációja során értékesítésre kerülő vagyontárgyak, részvények, üzletrészek megvásárlására
 
-b) termőföld tulajdon megszerzésére
+b)
 
 felhasználhatja.
 

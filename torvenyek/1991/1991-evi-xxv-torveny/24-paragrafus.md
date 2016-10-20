@@ -1,9 +1,1 @@
-24. § (1) Az a 21. §-ban meghatározott kárpótlásra jogosult, aki vállalja, hogy az adóhatóságnál az árveréstől számított 30 napon belül mezőgazdasági vállalkozóként bejelentkezik, mezőgazdasági vállalkozási támogatásként — az árverésen való termőföldvásárlás céljából — igényt tarthat a 3. § alapján megállapított kár mértéke és a 4. § szerinti kárpótlás összege közötti különbözetre. A kárpótlás és a támogatás együttes összege az 1 millió forintot nem haladhatja meg.
-
-(2) Ha az (1) bekezdésben említett támogatásban részesülő személy az előírt határidőn belül mezőgazdasági vállalkozóként nem jelentkezik be, vagy az adóhatóság a termőföld vásárlásától számított öt éven belül megállapítja, hogy ténylegesen nem folytat mezőgazdasági vállalkozói tevékenységet, a támogatás hitellé alakul át és azonnal esedékessé válik.
-
-(3) Arra a termőföldre, amelyet a kárpótolt az (1) bekezdésben említett támogatással szerez meg, az állam javára öt évi időtartamra jelzálogjogot és elidegenítési tilalmat kell bejegyezni. Amennyiben e határidőn belül a kárpótolt az adóhatóságnál a támogatás összegét befizeti, az állam javára bejegyzett jelzálogjogot és elidegenítési tilalmat törölni kell.
-
-(4) A mezőgazdasági vállalkozási támogatás összegéről — a jogosult kérelmére — a kárpótlási hatóság utalványt ad, amelyet az árverés során a kárpótlási jeggyel azonos módon lehet felhasználni. Az utalványból — a szövetkezet tulajdonában lévő föld árverésen történő megszerzése ellenében a kárpótlásra jogosult által — felhasznált összeg erejéig a szövetkezet kárpótlási jegyet igényelhet a kárpótlási hatóságtól.
-
-(5) Ha az árverés időpontjában a kárpótlásra jogosult még nincs a megszerzett termőföld birtokában, illetőleg azt további 15 napon belül sem veheti birtokba, az (1) bekezdésben megállapított határidőt a birtokbavétel lehetőségének megnyílásától kell számítani.
+### 24. §

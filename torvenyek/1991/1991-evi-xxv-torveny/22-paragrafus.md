@@ -1,3 +1,1 @@
-22. § (1) Az árverésen résztvevők az egy aranykoronának megfelelő forintértékre licitálnak. A kikiáltási ár 3000 Ft/AK. Ha e kikiáltási áron vagy afelett nincs ajánlat, a kikiáltási ár folyamatosan, de legfeljebb 500 Ft/AK értékig csökkenthető.
-
-(2) Az árverést a végrehajtási rendeletben meghatározott módon kell lefolytatni. Az árverés során elfogadott ajánlatok tevői — az ajánlatukban foglaltaknak megfelelően — gyakorolhatják vételi jogukat a szövetkezet 15—18. §-okban meghatározott termőföldjének általuk kiválasztott részletére. A kárpótlásra jogosult tanyatulajdonost a tanyája körüli termőföldre az árverés során elővásárlási jog illeti meg.
+### 22. §
