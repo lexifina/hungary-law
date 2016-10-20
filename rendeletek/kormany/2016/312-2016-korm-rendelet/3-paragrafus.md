@@ -1,0 +1,1 @@
+## „(4) A Társaság a fenntartási időszakban akkor nem köteles a 4. § (3) bekezdés b) pontja szerinti, minimálisan értékesítendő energiamennyiség (3) bekezdés szerinti értékesítésére, ha elháríthatatlan külső okból nem képes villamos energia termelésére.”
