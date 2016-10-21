@@ -1,0 +1,5 @@
+46/K. § (1) A Közlekedésfejlesztési Koordinációs Központ (a továbbiakban: KKK) országos közúti vagyonkezelői feladatait 2017. január 1-jétől a Magyar Közút Nonprofit Zrt. látja el, ezzel összefüggésben megilletik a KKK magánjogi jogai és kötelezettségei.
+
+(2) Az (1) bekezdés alapján a a Magyar Közút Nonprofit Zrt. vagyonkezelői jogát a Magyar Közút Nonprofit Zrt. egyoldalú nyilatkozata alapján, annak kérelmére kell bejegyezni az ingatlan-nyilvántartásba azon ingatlanok vonatkozásban, amelyek bejegyzett vagyonkezelője a KKK, vagy annak valamely jogelőd szervezte.
+
+(3) A 32. § (6) bekezdése szerinti vagyonkezelői feladat ellátásával kapcsolatos jogviszonyokba és az (1) bekezdés szerinti feladatátadással összefüggő szerződésekbe, továbbá valamennyi, a korábban a KKK által a vagyonkezelésében álló vagyonra vonatkozóan megkötött szerződésbe – ide értve az ezen vagyonelemekre vonatkozó, de nem a vagyonkezelői jogviszonyon alapuló szerződéseket is, így különösen a tulajdonosi joggyakorlóval kötött megbízási szerződéseket – a KKK helyébe 2017. január 1-jén a Magyar Közút Nonprofit Zrt. lép.
