@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-74-00-00
 | 2013-07-20 | 2013. évi CXXVIII. törvény | 2007-74-00-00.13 |
 | 2015-07-01 | 2014. évi CVII. törvény | 2007-74-00-00.14 |
 | 2015-07-23 | 2015. évi CXVIII. törvény | 2007-74-00-00.15 |
+| 2016-10-21 | 2016. évi CIV. törvény | 2007-74-00-00.16 |
