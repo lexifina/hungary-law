@@ -4,4 +4,4 @@
 
 (3) Ha az állami tisztviselő az (1) és a (2) bekezdés szerinti képzést, továbbképzést vagy átképzést a szükséges oklevél, valamint a szakképzettség megszerzését – az e törvény alapján fennálló, vagy a munkáltató által előírt határidőn belül – számára felróható okból elmulasztja, a képzés, továbbképzés munkáltató által megfizetett költségét köteles megtéríteni a munkáltató számára.
 
-(4) Az e törvény alapján fennálló és előírható képzési, továbbképzési és átképzési kötelezettségek költségeivel összefüggő részletes szabályokat, valamint a képzések és továbbképzések finanszírozásának részletszabályait a Kormány rendeletben határozza meg.
+(4) Az e törvény alapján fennálló és előírható képzési, továbbképzési és átképzési kötelezettséggel összefüggő részletes szabályokat, valamint a képzések és továbbképzések finanszírozásának részletszabályait a Kormány rendeletben határozza meg.

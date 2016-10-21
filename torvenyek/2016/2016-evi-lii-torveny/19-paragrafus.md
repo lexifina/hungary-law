@@ -22,9 +22,11 @@ f) a munkakör ellátásához kapcsolódó felelősséget.
 
 a) a (3) és (4) bekezdés szerinti felülvizsgálat,
 
-b) a 16. § (5) bekezdése szerinti, a teljesítményértékelés, illetve a minősítés alapján végrehajtható munkáltatói intézkedések, valamint
+b) a 16. § (5) bekezdése szerinti, a teljesítményértékelés, illetve a minősítés alapján végrehajtható munkáltatói intézkedések,
 
-c) a fegyelmi büntetésként végrehajtható munkáltatói intézkedések
+c) a fegyelmi büntetésként végrehajtható munkáltatói intézkedések, valamint
+
+d) a 14. § (1b) bekezdésében meghatározott munkáltatói intézkedések
 
 során lehet csökkenteni. Az állami tisztviselő illetménye az (1) bekezdés szerinti összeg alá nem csökkenthető.
 

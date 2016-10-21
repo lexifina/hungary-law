@@ -10,14 +10,16 @@ a) az állami tisztviselők teljesítményértékelésének és minősítéséne
 
 b) az állami tisztviselő részére biztosítható visszatérítendő, illetve vissza nem térítendő szociális jóléti, kulturális, egészségügyi juttatásokkal összefüggő részletes szabályokat;
 
-c) az állami tisztviselővé történő kinevezéshez előírható végzettség és képesítés feltételeit;
+c) az állami tisztviselők képesítésére vonatkozó részletes szabályokat;
 
-d) az e törvény alapján fennálló és előírható képzési és továbbképzési kötelezettségek költségeivel összefüggő részletes szabályokat, a képzések és továbbképzések finanszírozásának részletes szabályait.
+d) az állami tisztviselők továbbképzésével, valamint az e törvény alapján fennálló és előírható képzési és továbbképzési kötelezettségekkel összefüggő részletes szabályokat, valamint a képzések és továbbképzések finanszírozásának részletes szabályait
+
+e) azt a testületet, amely meghatározza azokat a szakképzettségeket és fokozatokat, melyek egyenértékűként elfogadottak az e törvény 5. § (6) bekezdésében, 11. § (6) bekezdésében és a 14. § (3) bekezdésében meghatározott szakképzettségekkel és fokozatokkal.
 
 (2) Felhatalmazást kap a miniszter, hogy rendeletben állapítsa meg
 
 a) a kiemelt ügyintézői osztályra vonatkozó részletes szabályokat,
 
-b) az 5. §-ban és a 14. §-ban foglalt mentesítések részletes szabályait,
+b) az 5. §-ban és a 11. §-ban foglalt mentesítések eljárási szabályait,
 
-c) azon munkaköröket, amelyek betöltéséhez az NKE képzése keretében megszerzett oklevelet a munkakör betöltéséhez kötelező feltételként elő kell írni.
+c) azon munkaköröket, amelyek betöltéséhez az NKE képzése keretében megszerzett szakképzettséget a munkakör betöltéséhez kötelező feltételként elő kell írni.

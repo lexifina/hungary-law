@@ -4,7 +4,7 @@
 
 (2) A vezetői munkakörbe kinevezett állami tisztviselőnek a vezetői munkakörbe történő kinevezésétől számított öt éven belül kormányzati tanulmányok szakirányú továbbképzés során kormányzati tanulmányok szakirányú szakképzettséget kell szereznie.
 
-(3) Ha a vezetői munkakört betöltő állami tisztviselő a (2) bekezdés szerinti szakképzettség megszerzését a megjelölt szerinti határidőn belül számára felróható okból elmulasztja, a határidő leteltét követő nappal nem vezetői munkakörbe kell helyezni.
+(3) Ha a vezetői munkakört betöltő állami tisztviselő a (2) bekezdés szerinti szakképzettség megszerzését a megjelölt határidőn belül számára felróható okból elmulasztja, a határidő leteltét követő nappal nem vezetői munkakörbe kell helyezni.
 
 (4) A (2) bekezdésben meghatározott határidőbe nem számít bele a harminc napot meghaladó fizetés nélküli szabadság, a keresőképtelenség, továbbá a harminc napot meghaladó hivatalos kiküldetés időtartama.
 
