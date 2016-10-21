@@ -4,7 +4,7 @@
 
 (3) A mezőgazdasági és vidékfejlesztési támogatási szerv hatásköre az akkreditált feladataihoz kapcsolódó hatósági eljárás keretében kizárólagos.
 
-(4) Újrafelvételi eljárásnak és felügyeleti eljárásnak csak az EMVA-ból, illetve az EHA-ból folyósított támogatások esetében van helye azzal, hogy a felügyeleti eljárás során a felügyeleti szerv jogszabálysértés esetén a mezőgazdasági és vidékfejlesztési támogatási szerv által hozott döntést nem változtathatja meg.
+(4)
 
 (5) A törvény hatálya alá tartozó intézkedéssel kapcsolatban elektronikus kapcsolattartásra akkor van lehetőség, ha azt e törvény vagy az e törvény felhatalmazása alapján kiadott jogszabály az ügy típusának megjelölésével lehetővé teszi. Ez esetben a közigazgatási hatósági eljárás általános szabályairól szóló törvény elektronikus ügyintézésre vonatkozó rendelkezéseit kell alkalmazni.
 
