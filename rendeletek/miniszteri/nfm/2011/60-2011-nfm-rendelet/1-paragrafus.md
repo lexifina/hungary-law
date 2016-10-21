@@ -8,4 +8,7 @@
 
 (4)[^1] E rendelet alkalmazásában – a megfelelőségértékelő szervezetek kijelöléséről, valamint a kijelölt szervezetek tevékenységének részletes szabályairól szóló 315/2009. (XII. 28.) Korm. rendelet (a továbbiakban: R.) 9. §-ára figyelemmel – a kijelölő hatóság a közlekedési hatóság.
 
+(5)[^2] E rendelet alkalmazásában – a 2016/424 európai parlamenti és tanácsi rendelet 23. cikk (1) bekezdése alapján – a bejelentő hatóság a közlekedési hatóság.
+
 [^1]: Az 1. § (4) bekezdése a 11. §-sal megállapított szöveg.
+[^2]: Az 1. § (5) bekezdését a 33/2016. (VIII. 2.) NFM rendelet 34. §-a iktatta be.
