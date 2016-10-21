@@ -4,15 +4,13 @@
 
 (2a) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg a gyermek születése esetén az apát megillető pótszabadság igénybevételére vonatkozó szabályokat.
 
-(3) Felhatalmazást kap a miniszter, hogy
+(3) Felhatalmazást kap az igazságügyért felelős miniszter, hogy
 
-a)
+a) az 1. § (1) bekezdés c) pontjában meghatározott személyi kör kivételével az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OBH-ra és a bíróságokra vonatkozóan az OBH elnöke véleményének kikérésével –,
 
-b) az 1. § (1) bekezdés d) pontjában meghatározott személyi kör kivételével az igazságügyi alkalmazottak munkaköri elnevezéseit és a képesítési követelmények részletes szabályait, valamint a veszélyességi pótlékra jogosító munkaköröket – az OBH-ra és a bíróságokra vonatkozóan az OBH elnöke véleményének kikérésével–
+b) a bírósági fogalmazók felvételi rendjére és joggyakorlatára vonatkozó részletes szabályokat az OBH elnöke véleményének kikérésével,
 
-c) a bírósági fogalmazók felvételi rendjére és joggyakorlatára vonatkozó részletes szabályokat az OBH elnöke véleményének kikérésével,
-
-d) az 1. § (1) bekezdés d) pontjában meghatározott személyi kör kivételével az igazságügyi alkalmazottaknak, valamint a bíróságok által fenntartott üdülők, bölcsődék és óvodák alkalmazottainak igazolványára vonatkozó szabályokat
+c) az 1. § (1) bekezdés c) pontjában meghatározott személyi kör kivételével az igazságügyi alkalmazottaknak, valamint a bíróságok által fenntartott üdülők, bölcsődék és óvodák alkalmazottainak igazolványára vonatkozó szabályokat
 
 rendeletben állapítsa meg.
 

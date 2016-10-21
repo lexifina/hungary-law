@@ -6,7 +6,7 @@ b)
 
 c) az igazságügyi szakértők, az egyéb igazságügyi szerv vezetője és helyettese tekintetében az igazságügyért felelős miniszter (a továbbiakban: miniszter),
 
-d) a rendőrség szakértői szervénél foglalkoztatott igazságügyi alkalmazottak tekintetében jogszabályban meghatározott személy,
+d)
 
 e) a járásbírósági fogalmazók és titkárok, a bírósági ügyintézők, a végrehajtási ügyintézők tekintetében a törvényszék elnöke,
 

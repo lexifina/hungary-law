@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-68-00-00
 | 2015-07-01 | 2015. évi LXXI. törvény | 1997-68-00-00.49 |
 | 2016-06-15 | 2016. évi XXIX. törvény | 1997-68-00-00.50 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 1997-68-00-00.51 |
+| 2016-10-21 | 2016. évi CIV. törvény | 1997-68-00-00.52 |
