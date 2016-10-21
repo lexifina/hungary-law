@@ -1,0 +1,1 @@
+11/D. § A kormánymegbízott jogviszonyára egyebekben a Kttv. 26–73. §, 80–88. §, 98. §, 100. § (1) bekezdése, 101. §, 116–130. §, 131. § (2)–(7) bekezdése, 133–142. §, 150. §, 152. § (1) bekezdés a) és b) pontja, 155–159. §, 181–183/B. §, 190–191. §, 195–225. § kivételével a Kttv. kormányzati szolgálati jogviszonyra vonatkozó rendelkezéseit kell megfelelően alkalmazni.

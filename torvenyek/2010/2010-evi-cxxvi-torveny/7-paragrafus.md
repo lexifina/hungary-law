@@ -1,1 +1,1 @@
-7. §
+7. § A szakmai irányító miniszter normatív utasításban szabályozhatja a fővárosi és megyei kormányhivatalnak, valamint a járási hivatalnak a szakmai irányító miniszter által irányított feladatai ellátásának szakmai szabályait.
