@@ -1,6 +1,6 @@
 91. § (1) A miniszter által vezetett minisztérium költségvetési fejezetében kell biztosítani
 
-a) a közművelődés országos feladatainak finanszírozását,
+a) az országos és a területi szintű közművelődési szakmai szolgáltatási feladatok ellátásának fedezetét,
 
 b)
 

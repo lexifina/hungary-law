@@ -1,0 +1,1 @@
+87/A. § Az országos és a területi szintű közművelődési szakmai szolgáltató szervezet feladatait – közszolgáltatási szerződés keretei között, ha a jogszabályi feltételeknek egyebekben megfelel – államháztartáson kívüli szervezet is elláthatja, ha a feladat szerepel a létesítő okiratában.

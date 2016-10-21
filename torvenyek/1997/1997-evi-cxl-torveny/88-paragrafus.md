@@ -18,6 +18,6 @@ f)
 
 g) meghatározza a közművelődési statisztikai adatszolgáltatás tartalmát és rendjét,
 
-h) felelősségi körében gondoskodik a felügyelete alatt működő, a közművelődést szolgáló központi költségvetési intézmény fenntartásáról, irányításáról,
+h) gondoskodik az országos és területi közművelődési szakmai szolgáltatási feladatok ellátásáról,
 
 i) a szakfelügyelet keretében közművelődési szakértő bevonásával ellenőrzi e törvény előírásainak, a közművelődési intézmények tevékenységére vonatkozó egyéb jogszabályoknak, szakmai követelményeknek a betartását és a központi támogatások felhasználását.
