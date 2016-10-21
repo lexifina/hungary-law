@@ -11,11 +11,3 @@ b) a központi, irányító szervi támogatás kivételével a bevételi és az 
 (4) Az (1) bekezdés szerinti címeken és a hozzá tartozó technikai szervezeteken kizárólag a költségvetési törvény szerinti eredeti kiadási és bevételi előirányzatok megnyitását, valamint azok évközi módosítását lehet elszámolni. Kiadás és bevétel, maradvány, vagyon a címeken és a hozzá tartozó technikai szervezeteken nem mutatható ki.
 
 (5) A Kincstár a technikai szervezeteket a (3) bekezdés szerinti intézkedések elszámolását követően lezárja. A címekről és a hozzá tartozó technikai szervezetekről a fejezetet irányító szerv az év közben megszűnő költségvetési szervekre irányadó szabályok szerint éves költségvetési beszámolót készít.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke

@@ -2,28 +2,14 @@
 
 87. § Hatályát veszti a Nemzeti Földalapról szóló 2010. évi LXXXVII. törvény
 
-a) 4. § (3) bekezdés b) pontja,
+a)
 
-b) 4. § (8) bekezdése,
+b)
 
-c) 5. §-ában az „az ellenőrző bizottság és” szövegrész,
+c)–j)
 
-d) 7. § (1) bekezdés h) pontja,
+k)
 
-e) 9. § (4) bekezdése,
+l)
 
-f) 10. § (2) bekezdés b) pontja,
-
-g) 11. § (2) bekezdése,
-
-h) 11. § (4) bekezdésben, 12. § (1) bekezdésben az „és az ellenőrző bizottság” szövegrész,
-
-i) 12. § (2) bekezdésben az „és az ellenőrző bizottság” szövegrész,
-
-j) 14. § (2)–(12) bekezdése,
-
-k) 26. § (2) bekezdésében az „a földrészletek fekvése szerinti területi szervezeti egységeinél,” szövegrész,
-
-l) 27. §-ában az „és a területi szervezeti egységeinél,” szövegrész,
-
-m) 32. § (2) bekezdése.
+m)
