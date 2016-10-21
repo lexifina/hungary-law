@@ -1,0 +1,1 @@
+## 1. § Az Autóipari Próbapálya Zala Korlátolt Felelősségű Társaság felett az államot megillető tulajdonosi jogok és kötelezettségek összessége gyakorlójának 2024. november 30-ig a Nemzetgazdasági Minisztériumot jelölöm ki.
