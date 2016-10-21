@@ -320,6 +320,6 @@
 
 ## Műszaki középiskolai végzettség; vagy középiskolai végzettség és műszaki, agrár, kertészeti, közgazdasági, környezetgazdálkodási szakképesítés.
 
-2. melléklet a 29/2012. (III. 7.) Korm. rendelethez[^18]
+2. melléklet a 29/2012. (III. 7.) Korm. rendelethez[^20]
 
-[^18]: A 2. mellékletet a 70/2015. (III. 30.) Korm. rendelet 192. § (6) bekezdése hatályon kívül helyezte.
+[^20]: A 2. mellékletet a 70/2015. (III. 30.) Korm. rendelet 192. § (6) bekezdése hatályon kívül helyezte.

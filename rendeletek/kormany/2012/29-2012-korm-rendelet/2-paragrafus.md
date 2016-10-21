@@ -14,7 +14,7 @@
 
 (8)[^8] E rendelet alkalmazásában
 
-a) közszolgálati szakképzettség: a közigazgatási, rendészeti és katonai képzési területen szerzett szakképzettség,
+a)[^9] közszolgálati szakképzettség: a közigazgatási, rendészeti és katonai képzési területen, valamint az államtudományi képzési területen szerzett szakképzettség,
 
 b) hittudományi képzettség: a hittanár-nevelő tanár szakképzettség, valamint az egyházi felsőoktatási intézmények által közzétett, hittudománnyal összefüggő szakképzettség és szakképesítés.
 
@@ -23,3 +23,4 @@ b) hittudományi képzettség: a hittanár-nevelő tanár szakképzettség, vala
 [^6]: A 2. § (6) bekezdése a 415/2012. (XII. 29.) Korm. rendelet 5. § (1) bekezdés a) pontja, a 70/2015. (III. 30.) Korm. rendelet 192. § (3) bekezdés c) pontja szerint módosított szöveg.
 [^7]: A 2. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 192. § (3) bekezdés d) pontja, a 139/2015. (VI. 9.) Korm. rendelet 13. § (4) bekezdése szerint módosított szöveg.
 [^8]: A 2. § (8) bekezdését a 70/2015. (III. 30.) Korm. rendelet 192. § (1) bekezdése iktatta be.
+[^9]: A 2. § (8) bekezdés a) pontja a 315/2016. (X. 20.) Korm. rendelet 8. § (1) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 6. §-át.
