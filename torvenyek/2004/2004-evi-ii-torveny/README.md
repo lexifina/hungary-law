@@ -25,3 +25,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-2-00-00
 | 2016-07-01 | 2016. évi XXXII. törvény | 2004-2-00-00.32 |
 | 2016-07-17 | 2016. évi LXVII. törvény | 2004-2-00-00.33 |
 | 2016-10-01 | 2016. évi LXVII. törvény | 2004-2-00-00.34 |
+| 2016-10-21 | 2016. évi CIV. törvény | 2004-2-00-00.35 |
