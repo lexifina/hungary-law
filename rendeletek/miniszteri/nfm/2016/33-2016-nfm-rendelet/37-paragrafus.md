@@ -1,5 +1,3 @@
-## 34–36. §[^11]
+## 36. § Az R6. 2. melléklete helyébe az 5. melléklet lép.
 
 ## 9. A súlyos vasúti balesetek, a vasúti balesetek és a váratlan vasúti események szakmai vizsgálatának, valamint az üzembentartói vizsgálat részletes szabályairól szóló 24/2012. (V. 8.) NFM rendelet módosítása
-
-[^11]: A 34–36. § a 43. § (3) bekezdése alapján 2016. október 21-én lép hatályba.
