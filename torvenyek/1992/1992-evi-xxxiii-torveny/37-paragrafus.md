@@ -12,7 +12,9 @@ d) a (3) bekezdés szerint szűnik meg.
 
 a) legkésőbb a közalkalmazotti jogviszony megszűnésének időpontjában nyugdíjasnak minősül [Mt. 294. § (1) bekezdés g) pont],
 
-b) felmentésére a 30. § (4) bekezdése alapján kerül sor.
+b) felmentésére a 30. § (4) bekezdése alapján kerül sor,
+
+c) közalkalmazotti jogviszonya a 25/A. § (7) bekezdése vagy a 25/C. § (12) bekezdése szerint alakult át.
 
 (3) Ha a közalkalmazottal ugyanazon munkáltató legalább két alkalommal határozott időre szóló közalkalmazotti jogviszonyt létesít, és a korábbi közalkalmazotti jogviszony megszűnése, valamint az újabb közalkalmazotti jogviszony létesítésének időpontja között hat hónapnál hosszabb idő nem telt el, a közalkalmazott végkielégítésre jogosult, feltéve, hogy közalkalmazotti jogviszonya a 27. § (2) bekezdés szerinti eljárásban, a 30. § (1) bekezdés a) vagy b) pontjában foglalt okok alapján kerül megszüntetésre, vagy a 25. § (1) bekezdés a) pontja szerint szűnik meg. Kettőnél több határozott idejű közalkalmazotti jogviszony esetén a hat hónapnál hosszabb megszakítás előtt fennállt jogviszonyok időtartamát nem lehet figyelembe venni. A végkielégítésre való jogosultság megállapításakor a (6) bekezdést kell alkalmazni azzal, hogy az e bekezdés szerinti jogcímen megszűnt vagy megszüntetett határozott idejű jogviszonyok időtartamát kell összeszámítani. Ha az első mondatban szereplő okokra alapított megszüntetés vagy megszűnés alapján a közalkalmazott végkielégítésre vált jogosulttá, az azonos felek közötti újabb határozott idejű kinevezés esetén a végkielégítésre való jogosultság megállapításakor figyelmen kívül kell hagyni azon közalkalmazotti jogviszonyok időtartamát, amelyekre tekintettel a korábbi végkielégítés kifizetése megtörtént.
 

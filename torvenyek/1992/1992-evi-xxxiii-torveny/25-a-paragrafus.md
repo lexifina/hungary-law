@@ -18,4 +18,10 @@ továbbá köteles a szakszervezettel és a közalkalmazotti tanáccsal (közalk
 
 (6) Ha a közalkalmazott az átvevő munkáltatónál történő további foglalkoztatásához nem járul hozzá, az átadó munkáltató az átadás napjával köteles írásban értesíteni a közalkalmazottat a közalkalmazotti jogviszony (1) bekezdés szerinti megszűnéséről, valamint köteles a közalkalmazott számára a 37. § (2) és (4)–(6) bekezdése alkalmazásával megállapított végkielégítést – határozott idejű jogviszony esetén a 27. § (2) bekezdésében meghatározott távolléti díjat – megfizetni.
 
-(7) Ha a munkáltató személye azért változik meg, mert az alapító a költségvetési szerv útján ellátott közfeladatot – az alapító közvetett vagy közvetlen, legalább többségi befolyása alatt álló – gazdasági társaság utódszervezet részére adja át közfeladat-ellátási és továbbfoglalkoztatási kötelezettséggel, a közalkalmazotti jogviszony e törvény erejénél fogva megszűnik, és a megszűnését követő nappal az új munkáltatóval munkaviszony létesül. Ebben az esetben az átadó és átvevő munkáltatók tájékoztatási kötelezettsége csak a (2) és (3) bekezdésben foglaltakra kiterjedően áll fenn. A munkaviszony tartalmi elemeit az e bekezdésben foglaltak szerint adott tájékoztatás és a 25/B. § rendelkezései alapján kell meghatározni és legkésőbb az átadás napjáig írásba foglalni.
+(7) Ha a munkáltató személye azért változik meg, mert az alapító a költségvetési szerv útján ellátott közfeladatot
+
+a) az alapító közvetett vagy közvetlen, legalább többségi befolyása alatt álló, vagy
+
+b) az államháztartásról szóló törvény szerint az alapításra jogosult szerv által alapított és annak közvetett vagy közvetlen, legalább többségi befolyása alatt álló
+
+gazdasági társaság utódszervezet vagy alapítvány részére adja át közfeladat-ellátási és továbbfoglalkoztatási kötelezettséggel, a közalkalmazotti jogviszony megszűnik, és a megszűnését követő nappal az új munkáltatóval munkaviszony létesül. Ebben az esetben az átadó és átvevő munkáltatók tájékoztatási kötelezettsége kizárólag a (2) és (3) bekezdésben foglaltakra kiterjedően áll fenn. A munkaviszony tartalmi elemeit az e bekezdésben foglaltak szerint adott tájékoztatás és a 25/B. § rendelkezései alapján kell meghatározni és legkésőbb az átadás napjáig írásba foglalni.
