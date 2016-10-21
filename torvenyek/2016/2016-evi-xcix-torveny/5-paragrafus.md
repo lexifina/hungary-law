@@ -1,0 +1,9 @@
+5. § Ez a törvény az államháztartásról szóló 1992. évi XXXVIII. törvény és egyes kapcsolódó törvények módosításáról szóló 2006. évi LXV. törvény, valamint a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény módosításáról szóló 2016. évi CI. törvény hatálybalépését követő napon lép hatályba.
+
+Áder János s. k.,
+
+köztársasági elnök
+
+Dr. Latorcai János s. k.,
+
+az Országgyűlés alelnöke
