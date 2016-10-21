@@ -1,4 +1,4 @@
-## 12. §[^1]
+## 12. §[^2]
 
 1. melléklet a 3/2016. (IV. 29.) MK rendelethez
 
@@ -22,4 +22,4 @@
 
 | 8 | 355951 |  |  | 20/1/6 Fejezeti általános tartalék | Az előirányzat az esetlegesen felmerülő, előre nem tervezhető év közbeni kiadások finanszírozására nyújt fedezetet. A Fejezeti általános tartalék a minisztériumhoz, valamint a miniszter személyéhez kötődő egyéb rendezvényekre és az ehhez kapcsolódó kommunikációs feladatokra, a központi forrásokból nem finanszírozott fejezeti feladatokhoz szükséges, év közben jelentkező többletfeladatok kiadásaira használható fel. A költségvetési támogatás a támogatási igény benyújtásakor már megkezdett vagy megvalósult tevékenységre is nyújtható. | jogi személy, jogi személyiséggel nem rendelkező szervezet, költségvetési szerv, gazdálkodó szervezet, gazdasági szervezet, civil szervezet, helyi önkormányzat, helyi önkormányzat által fenntartott intézmény, bevett egyház, egyházi jogi személy, közalapítvány | – | – | egyösszegű kifizetéssel, részletekben történő kifizetéssel | – | – | – | – | – |
 
-[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -17,3 +17,7 @@ c) 8. sora alapján a 2012/21/EU bizottsági határozat szerinti közszolgáltat
 d) 6–8. sora alapján az SA.34770 (2012/N-2) bizottsági határozat szerinti kulturális célú támogatás nyújtható.
 
 (3) A miniszterelnök kabinetfőnökének felelősségi körébe tartozó feladatok ellátásához szükséges nyomdai tevékenységet a Magyar Közlöny Lap- és Könyvkiadó Kft. végzi.
+
+(4)[^1] A miniszterelnök kabinetfőnökének felelősségi körébe tartozó feladatok ellátásához szükséges fordítási tevékenységet az Országos Fordító- és Fordításhitelesítő Iroda Zrt. végzi.
+
+[^1]: A 2. § (4) bekezdését az 5/2016. (X. 20.) MK rendelet 1. §-a iktatta be.
