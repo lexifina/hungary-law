@@ -208,7 +208,7 @@
 
 | Csévharaszt-Felső-Tápió-vidéki |
 
-| Felső-Őrségi |
+| Felső-Őrségi és Vendvidéki |
 
 | Hatvan-Hevesi |
 
@@ -230,11 +230,9 @@
 
 | Szolnok-Jászsági |
 
-| Vendvidéki |
-
 | Verpeléti |
 
-| 2019 | Alsó-Kemenesháti |
+| 2019 | Sárvár–Celldömölki |
 
 | Baki |
 
@@ -258,19 +256,17 @@
 
 | Nyugat-Ormánsági |
 
-| Sárvári-Rábamente |
-
 | Szendrői |
 
 | Szentendrei |
 
 | Zirci |
 
-| 2020 | Alsó-Duna-menti |
+| Alsó-Duna-menti |
 
 | Alsó-Hegyközi |
 
-| Surdi |
+| 2020 | Surdi |
 
 | Baktalórántházai |
 
@@ -302,6 +298,6 @@
 
 | Várpalotai |
 
-3. számú melléklet a 11/2010. (II. 4.) FVM rendelethez[^19]
+3. számú melléklet a 11/2010. (II. 4.) FVM rendelethez[^21]
 
-[^19]: A 3. számú melléklet a 45/2015. (VII. 28.) FM rendelet 10. §-ával megállapított szöveg.
+[^21]: A 3. számú melléklet a 45/2015. (VII. 28.) FM rendelet 10. §-ával megállapított szöveg.

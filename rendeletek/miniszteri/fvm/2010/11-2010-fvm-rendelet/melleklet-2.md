@@ -5534,7 +5534,7 @@
 
 ## 9.4.23. Viszló (1713)
 
-## 9.5. Dél-Borsodi erdőtervezési körzet
+## 9.5.[^18] Dél-Borsodi erdőtervezési körzet
 
 ## 9.5.1. Alsózsolca (1774)
 
@@ -5552,115 +5552,115 @@
 
 ## 9.5.8. Bükkábrány (1830)
 
-## 9.6. Dél-Borsodi erdőtervezési körzet
+## 9.5.9. Bükkaranyos (1829)
 
-## 9.6.1. Bükkaranyos (1829)
+## 9.5.10. Csincse (1904)
 
-## 9.6.2. Csincse (1904)
+## 9.5.11. Egerlövő (1803)
 
-## 9.6.3. Egerlövő (1803)
+## 9.5.12. Emőd (1831)
 
-## 9.6.4. Emőd (1831)
+## 9.5.13. Felsőzsolca (1779)
 
-## 9.6.5. Felsőzsolca (1779)
+## 9.5.14. Gelej (1804)
 
-## 9.6.6. Gelej (1804)
+## 9.5.15. Gesztely (1780)
 
-## 9.6.7. Gesztely (1780)
+## 9.5.16. Girincs (1781)
 
-## 9.6.8. Girincs (1781)
+## 9.5.17. Harsány (1832)
 
-## 9.6.9. Harsány (1832)
+## 9.5.18. Hejőbába (1805)
 
-## 9.6.10. Hejőbába (1805)
+## 9.5.19. Hejőkeresztúr (1806)
 
-## 9.6.11. Hejőkeresztúr (1806)
+## 9.5.20. Hejőkürt (1807)
 
-## 9.6.12. Hejőkürt (1807)
+## 9.5.21. Hejőpapi (1808)
 
-## 9.6.13. Hejőpapi (1808)
+## 9.5.22. Hejőszalonta (1809)
 
-## 9.6.14. Hejőszalonta (1809)
+## 9.5.23. Hernádkak (1782)
 
-## 9.6.15. Hernádkak (1782)
+## 9.5.24. Hernádnémeti (1783)
 
-## 9.6.16. Hernádnémeti (1783)
+## 9.5.25. Igrici (1810)
 
-## 9.6.17. Igrici (1810)
+## 9.5.26. Kesznyéten (1784)
 
-## 9.6.18. Kesznyéten (1784)
+## 9.5.27. Kiscsécs (1785)
 
-## 9.6.19. Kiscsécs (1785)
+## 9.5.28. Kistokaj (1786)
 
-## 9.6.20. Kistokaj (1786)
+## 9.5.29. Köröm (1787)
 
-## 9.6.21. Köröm (1787)
+## 9.5.30. Mályi (1788)
 
-## 9.6.22. Mályi (1788)
+## 9.5.31. Mezőcsát (1811)
 
-## 9.6.23. Mezőcsát (1811)
+## 9.5.32. Mezőkeresztes (1834)
 
-## 9.6.24. Mezőkeresztes (1834)
+## 9.5.33. Mezőkövesd (1843)
 
-## 9.6.25. Mezőkövesd (1843)
+## 9.5.34. Mezőnagymihály (1812)
 
-## 9.6.26. Mezőnagymihály (1812)
+## 9.5.35. Mezőnyárád (1835)
 
-## 9.6.27. Mezőnyárád (1835)
+## 9.5.36. Muhi (1789)
 
-## 9.6.28. Muhi (1789)
+## 9.5.37. Nagycsécs (1813)
 
-## 9.6.29. Nagycsécs (1813)
+## 9.5.38. Négyes (1815)
 
-## 9.6.30. Négyes (1815)
+## 9.5.39. Nemesbikk (1814)
 
-## 9.6.31. Nemesbikk (1814)
+## 9.5.40. Nyékládháza (1790)
 
-## 9.6.32. Nyékládháza (1790)
+## 9.5.41. Onga (1791)
 
-## 9.6.33. Onga (1791)
+## 9.5.42. Ónod (1792)
 
-## 9.6.34. Ónod (1792)
+## 9.5.43. Oszlár (1816)
 
-## 9.6.35. Oszlár (1816)
+## 9.5.44. Sajóhidvég (1793)
 
-## 9.6.36. Sajóhidvég (1793)
+## 9.5.45. Sajólád (1794)
 
-## 9.6.37. Sajólád (1794)
+## 9.5.46. Sajóörös (1817)
 
-## 9.6.38. Sajóörös (1817)
+## 9.5.47. Sajópálfala (1795)
 
-## 9.6.39. Sajópálfala (1795)
+## 9.5.48. Sajópetri (1796)
 
-## 9.6.40. Sajópetri (1796)
+## 9.5.49. Sajószöged (1818)
 
-## 9.6.41. Sajószöged (1818)
+## 9.5.50. Sály (1836)
 
-## 9.6.42. Sály (1836)
+## 9.5.51. Szakáld (1819)
 
-## 9.6.43. Szakáld (1819)
+## 9.5.52. Szentistván (1820)
 
-## 9.6.44. Szentistván (1820)
+## 9.5.53. Tibolddaróc (1837)
 
-## 9.6.45. Tibolddaróc (1837)
+## 9.5.54. Tiszabábolna (1821)
 
-## 9.6.46. Tiszabábolna (1821)
+## 9.5.55. Tiszadorogma (1822)
 
-## 9.6.47. Tiszadorogma (1822)
+## 9.5.56. Tiszakeszi (1823)
 
-## 9.6.48. Tiszakeszi (1823)
+## 9.5.57. Tiszalúc (1608)
 
-## 9.6.49. Tiszalúc (1608)
+## 9.5.58. Tiszapalkonya (1824)
 
-## 9.6.50. Tiszapalkonya (1824)
+## 9.5.59. Tiszatarján (1826)
 
-## 9.6.51. Tiszatarján (1826)
+## 9.5.60. Tiszaújváros (1900)
 
-## 9.6.52. Tiszaújváros (1900)
+## 9.5.61. Tiszavalk (1827)
 
-## 9.6.53. Tiszavalk (1827)
+## 9.5.62. Vatta (1838)
 
-## 9.6.54. Vatta (1838)
+## 9.6.[^19]
 
 ## 9.7. Dél-Bükki erdőtervezési körzet
 
@@ -6758,6 +6758,8 @@
 
 ## 10.21.5. Verpelét (4102)
 
-2. számú melléklet a 11/2010. (II. 4.) FVM rendelethez[^18]
+2. számú melléklet a 11/2010. (II. 4.) FVM rendelethez[^20]
 
-[^18]: A 2. számú melléklet a 96/2011. (X. 17.) VM rendelet 13. §-a szerint módosított szöveg.
+[^18]: Az 1. melléklet 9.5. pontja a 69/2016. (X. 14.) FM rendelet 10. §-ával megállapított szöveg.
+[^19]: Az 1. melléklet 9.6. pontját a 69/2016. (X. 14.) FM rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+[^20]: A 2. számú melléklet a 96/2011. (X. 17.) VM rendelet 13. §-a, a 69/2016. (X. 14.) FM rendelet 11. § és 12. § (2) bekezdése szerint módosított szöveg.
