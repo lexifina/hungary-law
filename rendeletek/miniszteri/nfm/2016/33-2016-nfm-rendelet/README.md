@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-33-20-2
 | 2016-08-05 | 2016-33-20-2W.1 | 33/2016. (VIII. 2.) NFM rendelet |
 | 2016-08-06 | 2016-33-20-2W.2 | 2010: CXXX. törvény |
 | 2016-10-21 | 2016-33-20-2W.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2016-10-22 | 2016-33-20-2W.4 | 2010: CXXX. törvény |

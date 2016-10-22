@@ -1,25 +1,3 @@
-5. melléklet a 33/2016. (VIII. 2.) NFM rendelethez
+5. melléklet a 33/2016. (VIII. 2.) NFM rendelethez[^16]
 
-„2. melléklet a 60/2011. (XI. 25.) NFM rendelethez
-
-A felelősségbiztosítási szerződésben biztosítandó fedezet legkisebb mértéke
-
-| A | B | C |
-
-| Sorszám | A megfelelőségértékelési területet szabályozó jogszabály | A felelősségbiztosítás legalább az alábbi összeghatárig nyújtson fedezetet (forint) |
-
-| 1. | Az Országos Vasúti Szabályzat II. kötetének kiadásáról szóló 18/1998. (VII. 3.) KHVM rendelet | 50 000 000 |
-
-| 2. | A hagyományos vasúti rendszerek kölcsönös átjárhatóságáról szóló 103/2003. (XII. 27.) GKM rendelet | 50 000 000 |
-
-| 3. | A nem közúti mozgó gépekbe építendő belső égésű motorok gáznemű és részecskékből álló szennyezőanyag-kibocsátásának korlátozásáról szóló 75/2005. (IX. 29.) GKM–KvVM együttes rendelet | 1 000 000 |
-
-| 4. | A vasúti rendszer kölcsönös átjárhatóságáról szóló 30/2010. (XII. 23.) NFM rendelet | 100 000 000 |
-
-| 5. | Az építési termékek forgalmazására vonatkozó harmonizált feltételek megállapításáról és a 89/106/EGK tanácsi irányelv hatályon kívül helyezéséről szóló, 2011. március 9-i 305/2011/EU európai parlamenti és tanácsi rendelet | 50 000 000 |
-
-| 6. | Az építési termék építménybe történő betervezésének és beépítésének, ennek során a teljesítmény igazolásának részletes szabályairól szóló 275/2013. (VII. 16.) Korm. rendelet | 50 000 000 |
-
-| 7. | A kötélpálya-létesítményekről és a 2000/9/EK irányelv hatályon kívül helyezéséről szóló, 2016. március 9-i (EU) 2016/424 európai parlamenti és tanácsi rendelet | 5 000 000 |
-
-”
+[^16]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
