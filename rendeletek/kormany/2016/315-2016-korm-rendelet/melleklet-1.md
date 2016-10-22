@@ -1,4 +1,4 @@
-## 9–10. §[^2]
+## 9–10. §[^4]
 
 1. melléklet a 315/2016. (X. 20.) Korm. rendelethez
 
@@ -854,4 +854,4 @@ a) rendészeti és közszolgálati ágazati tevékenységet végző szakközépi
 
 b) érettségi végzettség és OKJ szerinti rendészeti, honvédelmi és közszolgálati szakmacsoportba tartozó, a feladatkörhöz kapcsolódó tanulmányi területen szerzett szakképesítés.
 
-[^2]: A 9–10. § az 5. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^4]: A 9–10. § a az 5. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

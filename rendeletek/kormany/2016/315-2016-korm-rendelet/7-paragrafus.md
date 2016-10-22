@@ -2,8 +2,9 @@
 
 ## 7. § Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet
 
-a) 4. § (4a)–(4c) bekezdésében az „a közszolgálati tisztviselők képesítési előírásairól szóló kormányrendeletben” szövegrész helyébe az „az állami tisztviselők képesítési előírásairól szóló kormányrendeletben”,
+a)[^1]
 
-b)[^1]
+b)[^2]
 
-[^1]: A 7. § b) pontja az 5. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^1]: A 7. § a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 7. § b) pontja az 5. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
