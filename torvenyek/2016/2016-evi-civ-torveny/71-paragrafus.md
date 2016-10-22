@@ -4,16 +4,10 @@
 
 (9) A Támtv.
 
-a) 9. § c) pontjában, 13. § (1) és (2) bekezdésében az „agrárpolitikáért” szövegrész helyébe az „agrár-vidékfejlesztésért” szöveg,
+a)
 
 b)–h)
 
 lép.
 
-(10) Hatályát veszti a Támtv.
-
-a) 12. § (4) bekezdése,
-
-b) 13. § (1) bekezdés d) pontja,
-
-c) 13. § (4) bekezdése.
+(10)
