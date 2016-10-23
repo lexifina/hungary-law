@@ -214,7 +214,7 @@ Szaporodási és utódnevelési időszakban a lakott fészektől számított 100
 
 |  | 15. | Hazai nyárasok | 40–60 | 40–60 | 40–70 | 40–70 |
 
-A korábban kialakult nagyobb, egykorú erdőtömbök felújítása esetén, átalakító üzemmód mellett az újabb egykorú erdőtömb kialakulásának megakadályozása érdekében, különleges esetben a fenti vágásérettségi szakaszoktól eltérően alacsonyabb vágásérettségi kor is megállapítható.
+## A korábban kialakult nagyobb, egykorú erdőtömbök felújítása esetén, átalakító üzemmód mellett az újabb egykorú erdőtömb kialakulásának megakadályozása érdekében, különleges esetben a fenti vágásérettségi szakaszoktól eltérően alacsonyabb vágásérettségi kor is megállapítható.
 
 6.2.3. Az egyes véghasználati módok 10 évre vonatkozó keretszámai:
 

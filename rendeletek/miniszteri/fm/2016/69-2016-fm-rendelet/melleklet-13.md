@@ -98,7 +98,7 @@ A nyilvántartott fészektől – ide nem értve a nem foglalt műfészkeket –
 
 |  | 3. | Növedékfokozó gyérítés | 20 | 80 |
 
-Átalakító üzemmódú erdők esetében a folyamatos erdőborítást biztosító erdőszerkezet mielőbbi kialakulása érdekében a táblázat C oszlopában szereplő értékektől annak 150%-áig el lehet térni.
+## Átalakító üzemmódú erdők esetében a folyamatos erdőborítást biztosító erdőszerkezet mielőbbi kialakulása érdekében a táblázat C oszlopában szereplő értékektől annak 150%-áig el lehet térni.
 
 5.1.2. A lomb elegyes fenyvesekben és lomb elegyes akácosokban a nevelővágás tervezése során a nem intenzíven terjedő lombos fafajok elegyarányának növelésére kell törekedni.
 

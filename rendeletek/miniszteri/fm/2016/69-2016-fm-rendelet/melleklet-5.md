@@ -120,7 +120,7 @@ A védett természeti terület természetvédelmi kezeléséért felelős szerv 
 
 |  | 3. | Növedékfokozó gyérítés | 20 | 45 |
 
-A fenti értékeket meghaladó előhasználati mértékek olyan erdőkben tervezhetőek, ahol a túlzott mértékű nemes nyár elegy visszaszorítása a cél.
+## A fenti értékeket meghaladó előhasználati mértékek olyan erdőkben tervezhetőek, ahol a túlzott mértékű nemes nyár elegy visszaszorítása a cél.
 
 5.2. A véghasználatok és erdőfelújítások erdőtervezésének alapelvei és keretértékei
 
@@ -172,7 +172,7 @@ A fenti értékeket meghaladó előhasználati mértékek olyan erdőkben tervez
 
 |  | 19. | Egyéb fenyvesek | 40–60 | 40–70 | 40–70 | 40–70 |
 
-Gazdasági rendeltetésű, a részletben előforduló hazai nyár faegyedek sarjaztatására alkalmatlan termőhelyen álló és 35%-nál nagyobb nemes nyár elegyarányú nemes nyár elegyes hazai nyárasokban véghasználat már 25 éves kortól tervezhető.
+## Gazdasági rendeltetésű, a részletben előforduló hazai nyár faegyedek sarjaztatására alkalmatlan termőhelyen álló és 35%-nál nagyobb nemes nyár elegyarányú nemes nyár elegyes hazai nyárasokban véghasználat már 25 éves kortól tervezhető.
 
 5.2.2. Az egyes véghasználati módok 10 évre vonatkozó keretszámai:
 
@@ -186,7 +186,7 @@ Gazdasági rendeltetésű, a részletben előforduló hazai nyár faegyedek sarj
 
 |  | 4. | Összesen | 4700 |
 
-* Hiteles és szakmailag megalapozott gazdálkodói igény esetén kísérleti jelleggel előfordulhat.
+## * Hiteles és szakmailag megalapozott gazdálkodói igény esetén kísérleti jelleggel előfordulhat.
 
 5.2.3. Védelmi vagy közjóléti elsődleges rendeltetésű erdőben tarvágás jogszabály eltérő rendelkezése hiányában az alábbi esetben tervezhető, illetve engedélyezhető:
 

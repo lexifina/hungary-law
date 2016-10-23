@@ -190,7 +190,7 @@ A védett természeti terület természetvédelmi kezeléséért felelős szerv 
 
 |  | 16. | Füzesek | 35–50 | 50–65 | 50–60 | 35–60 |
 
-A korábban kialakult nagyobb egykorú erdőtömb véghasználatának tervezése során az egykorú erdőtömb ismételt kialakulása elkerülése érdekében egyes erdőrészletekben a fenti vágásérettségi szakaszoktól eltérően alacsonyabb vágásérettségi kor is megállapítható, természetvédelmi és Natura 2000 elsődleges rendeltetésű erdők esetén is.
+## A korábban kialakult nagyobb egykorú erdőtömb véghasználatának tervezése során az egykorú erdőtömb ismételt kialakulása elkerülése érdekében egyes erdőrészletekben a fenti vágásérettségi szakaszoktól eltérően alacsonyabb vágásérettségi kor is megállapítható, természetvédelmi és Natura 2000 elsődleges rendeltetésű erdők esetén is.
 
 5.2.3. Az egyes véghasználati módok 10 évre vonatkozó keretszámai:
 

@@ -14,7 +14,7 @@ e) amelyekben a környezeti adottságok miatt a vízvédelmi, partvédelmi vagy 
 
 f) amelyek esetében az erdőgazdálkodó azt kéri,
 
-## ha ez az erdők védelmét, fennmaradását nem veszélyezteti, valamint az a)–c) pontban foglalt esetekben az erdő rendeltetéséből következő védelmi célok más üzemmód mellett nem valósíthatóak meg.
+ha ez az erdők védelmét, fennmaradását nem veszélyezteti, valamint az a)–c) pontban foglalt esetekben az erdő rendeltetéséből következő védelmi célok más üzemmód mellett nem valósíthatóak meg.
 
 (2) Szálaló üzemmód az erdőgazdálkodó javaslatára vagy egyetértésével, a magtermő kort elért, elsősorban természetes, természetszerű vagy származék erdők esetében állapítható meg.
 

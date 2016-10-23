@@ -1,5 +1,3 @@
-## fafajú vagy fajtájú faegyedek szálankénti, soros, illetve csoportos elegyítése vagy visszahagyása is tervezhető.
-
 ## 7. Vízvédelmi, partvédelmi és árvízvédelmi célú erdőtervezési alapelvek
 
 7. § (1) A folyók nagyvízi medrében lévő erdők körzeti erdőtervezését a jogszabályban foglalt nagyvízi mederkezelési tervben vagy annak hiányában a nagyvízi mederkezelési tervdokumentációban meghatározott árvízvédelmi szempontok figyelembevételével kell elvégezni.

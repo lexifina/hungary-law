@@ -17,3 +17,5 @@ cc) idegenhonos,
 cd) intenzíven nem terjedő vagy
 
 ce) allergiás kockázatot nem növelő
+
+fafajú vagy fajtájú faegyedek szálankénti, soros, illetve csoportos elegyítése vagy visszahagyása is tervezhető.

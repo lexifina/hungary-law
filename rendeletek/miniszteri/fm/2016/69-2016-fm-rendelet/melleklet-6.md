@@ -168,7 +168,7 @@ Fákon lévő gémtelepek esetében a fészektelep szélétől 100 méteren bel�
 
 |  | 3. | Növedékfokozó gyérítés | 20 | 60 |
 
-Azokban az erdőrészletekben ahol az adott erdőnevelési tevékenység tervezését a faállomány kora lehetővé teszi, de annak erélye nem érné el a 6.1.1. táblázatban foglalt alsó határértéket, erdőnevelési tevékenység nem tervezhető, kivéve, ha az invazív fafajt érint.
+## Azokban az erdőrészletekben ahol az adott erdőnevelési tevékenység tervezését a faállomány kora lehetővé teszi, de annak erélye nem érné el a 6.1.1. táblázatban foglalt alsó határértéket, erdőnevelési tevékenység nem tervezhető, kivéve, ha az invazív fafajt érint.
 
 6.1.2. A nagyvízi levezető sávokban található állományok előhasználatainak tervezése során a vízügyi szempontokat a mederérdesség csökkentésére irányuló beavatkozásokkal, a többszöri kis erélyű előhasználatok és az egyéb termelések előírásával kell elősegíteni.
 
@@ -216,7 +216,7 @@ Azokban az erdőrészletekben ahol az adott erdőnevelési tevékenység tervez�
 
 |  | 15. | Fenyvesek | 40–60 | 50–70 | 40–70 | 40–70 |
 
-* A szikes talajon lévő kocsányos tölgy főfafajú erdők esetén a vágásérettségi szakasz alsó határa gazdasági elsődleges rendeltetésű erdők esetén 60 év, közjóléti és egyéb védelmi elsődleges rendeltetésű erdők esetén 70 év.
+## * A szikes talajon lévő kocsányos tölgy főfafajú erdők esetén a vágásérettségi szakasz alsó határa gazdasági elsődleges rendeltetésű erdők esetén 60 év, közjóléti és egyéb védelmi elsődleges rendeltetésű erdők esetén 70 év.
 
 6.2.2. A nagy, összefüggő, egykorú erdőtömbök újbóli kialakulásának elkerülése érdekében a véghasználatokat megfelelő térbeli és időbeli ütemezéssel kell megtervezni. Ennek érdekében indokolttá válhat egyes erdőrészletek vágásérettségi korának a vágásérettségi szakasz alsó határértékéhez közelítése.
 

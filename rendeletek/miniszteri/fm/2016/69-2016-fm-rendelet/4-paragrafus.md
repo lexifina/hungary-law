@@ -16,7 +16,7 @@ a) a 2 hektár vagy annál nagyobb, végvágott vagy tarvágott területen lehet
 
 b) az a) pontban foglalt területnél kisebb területen 0,1 hektárnál kisebb
 
-## területű csoportokban maradjanak vissza.
+területű csoportokban maradjanak vissza.
 
 (7) Egymással szomszédos, véghasználatra tervezett erdőrészletek esetében a hagyásfa csoportokat összevontan is ki lehet alakítani.
 
@@ -48,7 +48,7 @@ d) – ha az adott fakitermelés más tervezett fakitermelés keretében nem val
 
 e) faanyagtermelést nem szolgáló erdőkben szükségessé váló fakitermelés esetében
 
-## tervezhető.
+tervezhető.
 
 (14) A nagyvízi mederkezelési terv a nagyvízi meder elsődleges és másodlagos levezető sávjában az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtásáról szóló 153/2009. (XI. 13.) FVM rendelet 4. számú mellékletében meghatározott erdőfelújítási elvárt csemete számtól – a felnyíló erdőkre vonatkozó szabályok figyelembevételével – eltérhet.
 

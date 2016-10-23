@@ -164,7 +164,7 @@ A nyilvántartott fészektől – ide nem értve a nem foglalt műfészkeket –
 
 |  | 9. | Égeresek | 45–80 | 50–100 | 60–100 | 60–100 |
 
-Készletgondozó használatokat követően vagy azok tervezése esetén a vágásérettségi kort indokolt a vágásérettségi szakasz felső határához közelítve megállapítani.
+## Készletgondozó használatokat követően vagy azok tervezése esetén a vágásérettségi kort indokolt a vágásérettségi szakasz felső határához közelítve megállapítani.
 
 5.2.2. Az egyes véghasználati módok 10 évre vonatkozó keretszámai
 

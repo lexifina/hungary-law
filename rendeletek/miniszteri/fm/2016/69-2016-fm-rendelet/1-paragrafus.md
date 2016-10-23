@@ -12,6 +12,6 @@ ab) az egyes erdőtervezési körzetekre vonatkozóan az 1–15. melléklet,
 
 b) az erdőgazdálkodás tartamosságát és fejlesztését szolgáló keretértékeit az egyes erdőtervezési körzetekre vonatkozóan az 1–15. melléklet
 
-## tartalmazza.
+tartalmazza.
 
 (3) E rendelet alkalmazásában véghasználati időszak a fokozatos felújítóvágás és szálalóvágás esetén az első és az utolsó véghasználati fakitermelés között eltelt idő.

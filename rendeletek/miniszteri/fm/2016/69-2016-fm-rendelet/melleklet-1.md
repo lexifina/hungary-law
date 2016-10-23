@@ -1,5 +1,3 @@
-## szövegrész.
-
 1. melléklet a 69/2016. (X. 14.) FM rendelethez
 
 1. Az erdőtervezési körzet neve
@@ -166,7 +164,7 @@ A nyilvántartott fészektől – ide nem értve a nem foglalt műfészkeket –
 
 |  | 19. | Egyéb fenyvesek | 40–60 | 40–70 | 40–70 | 40–70 |
 
-Gazdasági rendeltetésű, a részletben előforduló hazai nyár faegyedek sarjaztatására alkalmatlan termőhelyen álló és 35%-nál nagyobb nemes nyár elegyarányú nemes nyár elegyes hazai nyárasokban véghasználat már 25 éves kortól tervezhető.
+## Gazdasági rendeltetésű, a részletben előforduló hazai nyár faegyedek sarjaztatására alkalmatlan termőhelyen álló és 35%-nál nagyobb nemes nyár elegyarányú nemes nyár elegyes hazai nyárasokban véghasználat már 25 éves kortól tervezhető.
 
 5.2.2. Az egyes véghasználati módok 10 évre vonatkozó keretszámai:
 
@@ -180,7 +178,7 @@ Gazdasági rendeltetésű, a részletben előforduló hazai nyár faegyedek sarj
 
 |  | 4. | Összesen | 4200 |
 
-* Hiteles és szakmailag megalapozott gazdálkodói igény esetén kísérleti jelleggel előfordulhat.
+## * Hiteles és szakmailag megalapozott gazdálkodói igény esetén kísérleti jelleggel előfordulhat.
 
 5.2.3. Védelmi vagy közjóléti elsődleges rendeltetésű erdőben tarvágás jogszabály eltérő rendelkezése hiányában az alábbi esetben tervezhető, illetve engedélyezhető:
 
