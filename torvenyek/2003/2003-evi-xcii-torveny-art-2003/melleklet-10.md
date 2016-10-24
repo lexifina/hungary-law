@@ -65,15 +65,3 @@ Távolról is nyújtható szolgáltatásokat nyújtó adózókra vonatkozó kül
 4.2.2.1. az azonosító számot
 
 4.2.2.2. az adómegállapítási időszakban nyújtott távolról is nyújtható szolgáltatások HÉA nélküli teljes összegét minden egyes olyan teljesítési hely szerinti tagállam tekintetében, amelyben HÉA fizetendő,
-
-4.2.2.3. a vonatkozó HÉA – adómértékek szerint lebontott – teljes összegét,
-
-4.2.2.4. az alkalmazandó HÉA-mértéket minden egyes olyan teljesítési hely szerinti tagállam tekintetében, amelyben a HÉA fizetendő,
-
-4.2.2.5. a fizetendő HÉA teljes összegét minden egyes olyan teljesítési hely szerinti tagállam tekintetében, amelyben a HÉA fizetendő.
-
-4.2.3. A HÉA-bevallást euróban kell elkészíteni, az adómegállapítási időszak utolsó napján érvényes, az Európai Központi Bank által az adott napra vonatkozóan közzétett átváltási árfolyamon. Ha az érintett napon nem tettek közzé átváltási árfolyamot, akkor a következő közzétételi napon kiadott árfolyamot kell alkalmazni.
-
-4.2.4. A HÉA-t a bevallás benyújtásával egy időben, legkésőbb a bevallás benyújtására előírt határidőig, az állami adó- és vámhatóság által közzétett euró bankszámlára euróban, átutalással kell megfizetni, hivatkozva a befizetés alapjául szolgáló HÉA-bevallásra. Bármely, az adózó önhibájából eredő, az adóhatóságot terhelő utalási költség, így különösen a téves, beazonosíthatatlan utalás költsége az adózót terheli.
-
-4.2.5. Az adózó e törvény 44. §-ában megállapított nyilvántartás-vezetési kötelezettségének oly módon tesz eleget, hogy a teljesítési hely adóhatósága által végzett ellenőrzést is lehetővé tegye. Az adózó a nyilvántartást felhívásra elektronikus úton is rendelkezésre bocsátja. A nyilvántartást a távolról is nyújtható szolgáltatás általános forgalmi adóról szóló törvény szerinti teljesítési időpontját magában foglaló naptári év utolsó napjától számított 10 évig kell megőrizni.
