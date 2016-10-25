@@ -10,11 +10,7 @@
 
 ## Határidő: az 1. pont szerinti jóváhagyásról szóló kormányhatározat közzétételét követően azonnal
 
-## 3. felhívja az emberi erőforrások miniszterét, hogy az 1. melléklet 1. pontjában meghatározott projektek szakaszolását készítse elő, és nyújtsa be a Stratégiai Kabinet részére,
-
-## Felelős: emberi erőforrások minisztere
-
-## Határidő: a 2. pont szerinti kérelemnek az Európai Bizottsághoz történő benyújtását követően azonnal, de legkésőbb 2016. szeptember 30-ig
+## 3.[^1]
 
 ## 4. felhívja a Miniszterelnökséget vezető minisztert és az emberi erőforrások miniszterét, hogy – a nemzetgazdasági miniszter bevonásával – gondoskodjanak az 1. melléklet 2. és 3. pontjában meghatározott projektek 2015. december 31-ét követően felmerülő, uniós forrás terhére nem elszámolható költségeinek az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontja alapján a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XIX. Uniós fejlesztések fejezet, 2. Fejezeti kezelésű előirányzatok cím, 4. Nemzeti Stratégiai Referenciakeret alcím, 14. Társadalmi Infrastruktúra Operatív Program jogcímcsoport terhére történő finanszírozásáról.
 
@@ -26,17 +22,9 @@
 
 ## Határidő: folyamatosan
 
-1. melléklet az 1461/2016. (VIII. 24.) Korm. határozathoz
+1. melléklet az 1461/2016. (VIII. 24.) Korm. határozathoz[^2]
 
-1. Az EFOP módosítása esetén szakaszolható projektek:
-
-|  | A | B | C | D | E | F | G |
-
-| 1. | Projekt azonosító száma | Projekt megnevezése | Kedvezményezett neve | Összköltség (Mrd Ft) | Elszámolható közkiadás (Mrd Ft) | Támogatás (Mrd Ft) | EFOP módosítása esetén annak terhére várhatóan elszámolható támogatás (Mrd Ft) |
-
-| 2. | TIOP-2.2.4-09/1-2010-0002 | Struktúraváltást támogató infrastruktúrafejlesztés és kapcsolódó eszközbeszerzés a Fejér Megyei Szent György Kórházban | Fejér Megyei Szent György Egyetemi Oktató Kórház | 8,316 | 8,316 | 7,484 | 0,187 |
-
-| 3. | TIOP-2.2.4-09/1-2010-0015 | Kardiológia és Szívsebészeti Centrum kialakítás és infrastruktúrafejlesztés a Zala Megyei Kórházban | Állami Egészségügyi Ellátó Központ | 5,47 | 5,47 | 4,92 | 1,774 |
+1.
 
 2. A Társadalmi Infrastruktúra Operatív Program zárásához szükséges, nem szakaszolható projektek:
 
@@ -75,3 +63,6 @@
 | 6. | TIOP-2.2.6-12/1B-2013-0025 | Nagyatádi kórház fejlesztése | Nagyatádi Kórház | 1,10 | 1,10 | 1,10 | 0,192 |
 
 | 7. | TIOP-2.2.7-07/2F/2-2009-0009 | Jósa András Tömbkórház Projekt | Állami Egészségügyi Ellátó Központ | 15,02 | 15,02 | 13,52 | 0,680 |
+
+[^1]: A 3. pontot az 1582/2016. (X. 25.) Korm. határozat 4. pontja visszavonta.
+[^2]: Az 1. melléklet az 1582/2016. (X. 25.) Korm. határozat 4. pontja szerint módosított szöveg.
