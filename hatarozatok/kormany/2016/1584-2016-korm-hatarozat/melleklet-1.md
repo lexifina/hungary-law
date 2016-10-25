@@ -1,0 +1,31 @@
+## 1. hozzájárul az 1. mellékletben foglalt táblázat A–C és E oszlopában meghatározott projektjavaslatok (a továbbiakban: projektjavaslatok) 1. mellékletben foglalt táblázat D oszlopa szerinti támogatásához,
+
+## 2. hozzájárul a projektjavaslatok támogatási szerződésének megkötéséhez.
+
+## Felelős: nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+1. melléklet az 1584/2016. (X. 25.) Korm. határozathoz
+
+|  | A | B | C | D | E |
+
+| 1. | Projekt azonosító száma | Projekt megnevezése | Támogatást igénylő neve | Támogatás (Ft) | Projekt rövid bemutatása |
+
+| 2. | TOP-6.1.1- 15-EG1-2016-00001 | Déli iparterület alapinfrastruktúra fejlesztése | Eger Megyei Jogú Város Önkormányzata | 1 200 000 000 | A projekt célja Eger déli iparterületeinek fejlesztése: egyrészt útépítési munkálatokat végeznek el az ahhoz kapcsolódó közvilágítási hálózat létesítésével, járda- és vízelvezető árkok kialakításával együtt, másrészt közműépítési munkákat végeznek. A fejlesztés keretén belül a szomszédos települések irányába egy térségi iparági-gazdasági övezet kialakítása valósul meg. |
+
+| 3. | TOP-6.1.1- 15-HM1-2016-00001 | Hódmezővásárhelyi Ipari Park infrastrukturális fejlesztése | Hódmezővásárhely Megyei Jogú Város Önkormányzat | 1 094 000 000 | A projekt célja az önkormányzati tulajdonban lévő, jelenleg is működő hódmezővásárhelyi ipari park bővítése önkormányzati tulajdonban lévő területek bevonásával. A projekt keretében közműveket építenek és váltanak ki, feltáró utat építenek, útfelújítást végeznek, külterületi termőföldet vonnak ki termelésből ipari területté történő átalakításuk és belterületbe vonásuk céljából. Az ipari park területén tervezett út- és közműfejlesztések átfogóan az egész, már meglévő ipari park területére kiterjednek. |
+
+| 4. | TOP-6.1.1- 15-MI1-2016-00001 | Ipari park és iparterület fejlesztése Miskolcon | Miskolc Megyei Jogú Város Önkormányzata | 1 500 000 000 | A projekt alapvető célkitűzése a befektetői igényekkel összhangban lévő alapinfrastruktúrával ellátott, jó közlekedési kapcsolatokkal és rendezett tulajdoni viszonyokkal rendelkező ipari park kialakítása és fejlesztése Miskolc déli részén. A projekt révén elő kívánják mozdítani új vállalkozások betelepülését és a helyi vállalkozások bővülését, ezáltal új munkahelyek teremtését, értékteremtő, gazdaságélénkítő, bevételt generáló beruházások telepítését. |
+
+| 5. | TOP-6.1.1- 15-NA1-2016-00001 | Nagykanizsai ipari park fejlesztése | Nagykanizsa Megyei Jogú Város Önkormányzata | 2 767 000 000 | A projekt keretében a támogatást igénylő a helyi gazdaságfejlesztés és foglalkoztatás élénkítésének elősegítése érdekében új ipari terület kialakítását valósítja meg. Az új ipari területet – alkalmas barnamezős terület hiányában – a meglévő ipari park mellett, zöldmezős beruházásként tervezik kialakítani. |
+
+| 6. | TOP-6.3.2- 15-KA1-2016-00001 | Egykori Kórház Déli tömb rehabilitációja, kulturális és környezet- tudatos fejlesztése | Kaposvár Megyei Jogú Város Önkormányzata | 1 400 000 000 | A projekt célja a Kaposi Mór Oktató Kórház alulhasznosított épületeinek helyén zöldfelületek kialakítása, kulturális fejlesztés, gazdaságélénkítő fejlesztés megvalósítása. A kórház déli tömbjét alkotó épületeket elbontják, ennek helyén tavat, játszóteret alakít ki a támogatást igénylő. A fejlesztés során a terület kulturális és szolgáltató funkciókkal is bővül. |
+
+| 7. | TOP-6.3.2- 15-KA1-2016-00002 | Kaposvár történelmi városmagjának fenntartható és gazdaságélénkítő szempontú fejlesztése | Kaposvár Megyei Jogú Város Önkormányzata | 1 100 000 000 | A projekt Kaposvár történelmi városmagjának fenntartható és gazdaságélénkítő szempontú fejlesztését célozza. Ennek keretében elvégzik a zöldfelületek rekonstrukcióját, a zöld infrastruktúrahálózat bővítését, a támogatást igénylő tulajdonában lévő kereskedelmi és szolgáltató terek megújítását, energetikai korszerűsítését, valamint a helyi termékek árusítására szolgáló városközponti piac létesítését. Felújítják a parkolóhelyeket, sétautakat és járdákat, a hősziget-hatást csökkentő beavatkozásokat végeznek el, kicserélik az utcabútorokat, kerékpártárolókat alakítanak ki, és térfigyelő kamerákat telepítenek. |
+
+| 8. | TOP-6.3.2- 15-NY1-2016-00001 | Zöld Város kialakítása Nyíregyháza területén | Nyíregyháza Megyei Jogú Város Önkormányzata | 1 250 000 000 | A projekt célja Nyíregyháza zöldfelületeinek, belvárosi tereinek megújítása és gazdaságélénkítés céljából egy használaton kívüli önkormányzati ingatlanból szolgáltató központ kialakítása. A támogatást igénylő a fejlesztés keretében utcai fasorokat újít meg, valamint Bujtos városrészen található tavak környezetét fejleszti, közparkot létesít. A megújítani tervezett zöldfelületek nagysága: 19,55 hektár. |
+
+| 9. | TOP-6.3.2- 15-SH1-2016-00001 | A szombathelyi Sportliget fejlesztése | Szombathely Megyei Jogú Város Önkormányzata | 1 155 000 000 | A fejlesztés a Csónakázó-tavat magában foglaló ingatlan területén belül, a Sportliget akcióterületen valósul meg. Ennek keretében tornapálya, zöldfelület, kosárlabdapálya, labdarúgópálya és szolgáltató épület létesül, elvégzik az akadálymentesítés érdekében szükséges munkálatokat, valamint biztosítják a nyilvánosságot. |
+
+| 10. | TOP-6.5.1- 15-DE1-2016-00002 | A Debrecen, Jerikó u. 17. szám alatti intézmények épületegyüttesének energetikai korszerűsítése | Debrecen Megyei Jogú Város Önkormányzata | 1 265 000 000 | A projekt keretében a támogatást igénylő tulajdonában álló, Jerikó utca 17. szám alatti, az épületek energetikai jellemzőinek tanúsításáról szóló 176/2008. (VI. 30.) Korm. rendelet 3. melléklete szerinti „korszerűt megközelítő” energetikai minősítési osztály követelményeit nem teljesítő épületegyüttes épületeinek energetikai korszerűsítése valósul meg. Megvalósul az iskolaépület energiahatékonyság-központú fejlesztése, a külső határoló szerkezeteinek korszerűsítése és a nyílászárók cseréje. Fosszilis energiahordozó alapú hőtermelő berendezések beszerelése, fűtési és használatimelegvíz-rendszerek korszerűsítése, továbbá a fűtési csőhálózat felújítása, valamint a radiátorokon termosztatikus szelepek elhelyezése valósul meg. Ezen kívül kialakítanak egy hőszivattyús rendszert, korszerűsítik a központi szellőző- és légkondicionáló rendszereket, telepítenek egy mesterséges szellőztetőrendszert, valamint korszerűsítik a kül- és beltéri világítási rendszereket. |
