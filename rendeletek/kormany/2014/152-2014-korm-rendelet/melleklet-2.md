@@ -30,6 +30,8 @@
 
 |  | 11 | Magyar Nyelvstratégiai Intézet | irányítás |
 
+|  | 12 | Mezőgazdasági és Vidékfejlesztési Hivatal | irányítás |
+
 ## AA) Miniszterelnök kabinetfőnöke
 
 |  |  | A | B |
@@ -104,7 +106,7 @@
 
 |  | 2 | Földmérési és Távérzékelési Intézet | irányítás |
 
-|  | 3 | Mezőgazdasági és Vidékfejlesztési Hivatal | irányítás |
+|  | 3 |  |  |
 
 |  | 4 | Nemzeti Élelmiszerlánc-biztonsági Hivatal | irányítás |
 
