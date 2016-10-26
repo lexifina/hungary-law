@@ -1,4 +1,4 @@
-## az anyakönyvi igazgatási és szakfelügyeleti feladatok ellátásához szükséges, jogszabályban meghatározott képesítéssel rendelkező kormánytisztviselője.
+## aki az anyakönyvi igazgatási feladatok ellátásához szükséges, jogszabályban meghatározott képesítéssel rendelkezik.
 
 ## 3. Az anyakönyvvezető illetékességi területe
 

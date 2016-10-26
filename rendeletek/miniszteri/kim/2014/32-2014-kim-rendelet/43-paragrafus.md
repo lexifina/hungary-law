@@ -1,4 +1,4 @@
-43. § (1)[^60] A hazai anyakönyvezésre irányuló – a hazai anyakönyvezést végző hatóság által rendszeresített – kérelmet
+43. § (1)[^61] A hazai anyakönyvezésre irányuló – a hazai anyakönyvezést végző hatóság által rendszeresített – kérelmet
 
 a) az anyakönyvvezető az EAK rendszerben haladéktalanul rögzíti és a kérelem benyújtásától számított öt napon belül,
 
@@ -14,7 +14,7 @@ c) az állampolgársági ügyekben eljáró szerv az állampolgárság igazolás
 
 (4) Ha a kérelem mellékletei közül valamely magyar anyakönyvi okirat hiányzik, a szükséges adatokat a hiánypótlásra való felhívás mellőzésével a hazai anyakönyvezést végző hatóság szerzi be, ha az érintett anyakönyvi esemény helye és ideje ismert.
 
-(5)[^61] Ha a hivatásos konzuli szolgálatnál az EAK rendszer használatához szükséges infrastruktúra átmenetileg nem áll rendelkezésre, a hivatásos konzuli tisztviselő a hazai anyakönyvezésre irányuló kérelmeket és azok mellékleteit diplomáciai postával továbbítja a hazai anyakönyvezést végző hatóságnak.
+(5)[^62] Ha a hivatásos konzuli szolgálatnál az EAK rendszer használatához szükséges infrastruktúra átmenetileg nem áll rendelkezésre, a hivatásos konzuli tisztviselő a hazai anyakönyvezésre irányuló kérelmeket és azok mellékleteit diplomáciai postával továbbítja a hazai anyakönyvezést végző hatóságnak.
 
-[^60]: A 43. § (1) bekezdése a 8/2016. (III. 8.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^61]: A 43. § (5) bekezdését a 8/2016. (III. 8.) BM rendelet 2. § (2) bekezdése iktatta be.
+[^61]: A 43. § (1) bekezdése a 8/2016. (III. 8.) BM rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^62]: A 43. § (5) bekezdését a 8/2016. (III. 8.) BM rendelet 2. § (2) bekezdése iktatta be.
