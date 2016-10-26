@@ -8,7 +8,7 @@
 
 (3) A hivatásos szolgálati jogviszony megszűnése esetén az igényjogosult a tárgyévben jóváírt ruházati utánpótlási ellátmányból csak a hivatásos szolgálati jogviszony megszűnéséig, ha a jogviszony megszűnésekor szolgálati beosztásából történő felfüggesztés hatálya alatt áll, a szolgálati beosztásból történő felfüggesztés elrendelése szerinti naptári hónap végéig esedékes összegre jogosult.
 
-(4) Kormányzati szolgálati, közszolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezés esetén a nem hivatásos szolgálati jogviszonyban továbbfoglalkoztatott igényjogosult a tárgyévben kifizetett ruházati utánpótlási ellátmányból csak a hivatásos állományban töltött hónap végéig esedékes összegre jogosult.
+(4)[^8] Kormányzati szolgálati, közszolgálati, állami szolgálati, közalkalmazotti, igazságügyi alkalmazotti jogviszonyba történő áthelyezés esetén a nem hivatásos szolgálati jogviszonyban továbbfoglalkoztatott igényjogosult a tárgyévben kifizetett ruházati utánpótlási ellátmányból csak a hivatásos állományban töltött hónap végéig esedékes összegre jogosult.
 
 (5) A hivatásos szolgálati jogviszony megszűnésekor még ki nem fizetett ruházati utánpótlási ellátmányt a 20. §-ban foglaltak figyelembevételével a szolgálatban töltött időre pótlólag időarányosan biztosítani kell.
 
@@ -19,3 +19,5 @@
 (8) Ha a hivatásos szolgálati jogviszony megszűnésére az igényjogosult nyugdíjazására tekintettel kerül sor, a ruházati termékekkel és felszerelési cikkekkel történő elszámoltatása során figyelembe kell venni az 51. §-ban foglaltakat.
 
 (9) A hivatásos állomány elhunyt tagjának ruházati termékeire és felszerelési cikkeire – a rohamsisak és a speciális szolgálati egyenruházat kivételével – a szolgálati időre való tekintet nélkül az öröklési jog szabályai az irányadók. Az utolsó szolgálati évre jóváírt egész évi ruházati utánpótlási ellátmányt – ha még nem került kifizetésre – az örökös részére ki kell fizetni, az azt terhelő adó megfizetése a ruházati utánpótlási ellátmányt folyósító szervet terheli. A kifizetett ruházati utánpótlási ellátmánynak azon részét, amelyre a jogosultság megszűnt, nem kell visszatéríttetni.
+
+[^8]: A 23. § (4) bekezdése a 43/2016. (X. 25.) BM rendelet 6. §-a szerint módosított szöveg.
