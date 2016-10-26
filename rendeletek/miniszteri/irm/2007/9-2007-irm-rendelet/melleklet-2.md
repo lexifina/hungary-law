@@ -4,7 +4,7 @@
 
 ## 1. Közigazgatási szerv neve és címe:
 
-## 2. A polgármester vagy a közszolgálati tisztviselő
+## 2. A jelölt
 
 ## neve:
 

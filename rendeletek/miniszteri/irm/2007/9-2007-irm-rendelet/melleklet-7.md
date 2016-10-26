@@ -4,7 +4,7 @@
 
 ## 1. Készült a ...................................................................... Kormányhivatalban 20.......... év .............................. hó .......... napján az anyakönyvi szakvizsgáról szóló 9/2007. (III. 6.) IRM rendelet által szabályozott anyakönyvi szakvizsga gyakorlati vizsgáján.
 
-## 2. A polgármester vagy a közszolgálati tisztviselő
+## 2. A jelölt
 
 ## neve:
 
@@ -38,7 +38,7 @@
 
 ## 9. A vizsga átlageredménye:
 
-## 10. A polgármester vagy a közszolgálati tisztviselő az anyakönyvi szakvizsgáról – .................................................. sorszám alatt .................................................. minősítéssel bizonyítványt kapott.
+## 10. A jelölt az anyakönyvi szakvizsgáról – .................................................. sorszám alatt .................................................. minősítéssel bizonyítványt kapott.
 
 ## 11. Megjegyzések:
 
