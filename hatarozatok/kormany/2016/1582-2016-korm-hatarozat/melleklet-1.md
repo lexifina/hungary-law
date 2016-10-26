@@ -18,7 +18,7 @@
 
 ## Határidő: a 2. pont végrehajtását követően azonnal
 
-## 4. visszavonja a folyamatban lévő kórházi beruházások többlettámogatásáról szóló 1461/2016. (VIII. 24.) Korm. határozat 3. pontját és 1. mellékletének 1. pontját.
+## 4.[^1]
 
 1. melléklet az 1582/2016. (X. 25.) Korm. határozathoz
 
@@ -29,3 +29,5 @@
 | 2. | TIOP-2.2.4-09/1- 2010-0002 | Struktúraváltást támogató infrastruktúrafejlesztés és kapcsolódó eszközbeszerzés a Fejér Megyei Szent György Kórházban | Fejér Megyei Szent György Kórház | 8,316 | 8,316 | 7,484 | 0,187 |
 
 | 3. | TIOP-2.2.4-09/1- 2010-0015 | Kardiológia és Szívsebészeti Centrum kialakítás és infrastruktúrafejlesztés a Zala Megyei Kórházban | Állami Egészségügyi Ellátó Központ | 5,47 | 5,47 | 4,92 | 2,344 |
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
