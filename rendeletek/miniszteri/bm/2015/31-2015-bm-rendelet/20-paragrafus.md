@@ -2,4 +2,6 @@
 
 (2) A megkeresés alapján a megkeresett humánigazgatási szakszolgálat a rendelkezésére álló nyilvántartások adatai alapján harminc napon belül javaslattal élhet a megkereső szervezeti egység részére.
 
-(3) Ha a kiválasztási eljárás vagy a rendvédelmi szerven belüli pályáztatás eredménytelenül zárult, az állományilletékes parancsnok – az országos parancsnok útján – felterjeszti javaslatát a miniszterhez más rendvédelmi szerv, a Magyar Honvédség vagy a közszolgálati tisztviselőkről szóló törvény hatálya alá tartozó szerv személyi állománya körében kiírásra javasolt pályázat engedélyezése érdekében. A pályázatot egyes szervek vagy valamennyi érintett szerv körében együttesen is ki lehet írni.
+(3)[^2] Ha a kiválasztási eljárás vagy a rendvédelmi szerven belüli pályáztatás eredménytelenül zárult, az állományilletékes parancsnok – az országos parancsnok útján – felterjeszti javaslatát a miniszterhez más rendvédelmi szerv, a Magyar Honvédség, a közszolgálati tisztviselőkről szóló törvény vagy az állami tisztviselőkről szóló törvény hatálya alá tartozó szerv személyi állománya körében kiírásra javasolt pályázat engedélyezése érdekében. A pályázatot egyes szervek vagy valamennyi érintett szerv körében együttesen is ki lehet írni.
+
+[^2]: A 20. § (3) bekezdése a 43/2016. (X. 25.) BM rendelet 5. § b) pontja szerint módosított szöveg.
