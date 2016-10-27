@@ -1,0 +1,444 @@
+# A Kormány 322/2016. (X. 27.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 165. szám, 2016. október 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/3ec4f70755b6aad751ec52f5447d6c0ad58c5017/dokumentumok/929e64ca5cd57bdafae4b703283f45f7c2a53111/letoltes)
+
+---
+
+A Kormány 322/2016. (X. 27.) Korm. rendelete
+a Szakképzési Hídprogramban részt vevő tanulók ösztöndíjáról, valamint a részt vevő pedagógusok pótlékáról
+A Kormány a szakképzésről szóló 2011. évi CLXXXVII. törvény 88. § (7) bekezdésében kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A Szakképzési Hídprogramban részt vevő tanulók ösztöndíja
+1. § (1) A Szakképzési Hídprogramban részt vevő tanuló (a továbbiakban: tanuló) a tanulói jogviszonya fennállása alatt
+a szakképzésről szóló 2011. évi CLXXXVII. törvény (a továbbiakban: Szt.) 24/A. § (6) bekezdésében foglaltak alapján
+évfolyamonként legfeljebb két tanéven keresztül ösztöndíjban részesül. A jogosultság az adott tanítási év végéig
+vagy a tanulói jogviszony megszűnéséig tart, a (4) és (5) bekezdésben foglaltak figyelembevételével.
+(2) Az ösztöndíj mértéke a (3) bekezdésben rögzített kivétellel a Szakképzési Hídprogram első évfolyamán havonta
+8 ezer forint, második évfolyamán havonta 10 ezer forint.
+(3) Ha a tanuló a tanulmányi követelmények nem teljesítése miatt évfolyamot ismétel, az ösztöndíj mértéke
+a Szakképzési Hídprogram megismételt első évfolyamán havonta 4 ezer forint, megismételt második évfolyamán
+havonta 5 ezer forint.
+(4) A Szakképzési Hídprogram első évfolyamát a tanítási év végéig sikeresen teljesítő tanuló további – a (2), illetve
+a (3) bekezdés szerinti, az adott évfolyamra meghatározott összeg alapján számított – kéthavi ösztöndíjat kap
+az első évfolyam teljesítését igazoló bizonyítvány kiállítását követő második hónap 28. napjáig.
+(5) A Szakképzési Hídprogram második évfolyamát követően a részszakképesítés megszerzésére irányuló komplex
+szakmai vizsgát, továbbá az alapfokú iskolai végzettséggel nem rendelkező tanulók esetén a záróvizsgát sikeresen
+teljesítő tanuló további – a (2), illetve a (3) bekezdés szerinti, az adott évfolyamra meghatározott összeg alapján
+számított – kéthavi ösztöndíjat kap egy összegben, a vizsgákat követő második hónap 28. napjáig.
+(6) A tanuló a tanítási év azon hónapjaira vonatkozóan jogosult ösztöndíjra, amely hónapban a tanulói jogviszonya
+fennállt, a 2. §-ban foglalt kivételekkel.
+2. § (1) Ha a tanuló tanulói jogviszonya tanítási év közben szűnik meg, tanulói jogviszonya megszűnésének hónapját
+megelőző hónapra vonatkozóan jogosult utoljára ösztöndíjra.
+(2) A tanuló nem jogosult a 3. § (4) bekezdése szerint fizetendő ösztöndíjra, ha a tanulói jogviszonya a tanítási félév első
+vagy második hónapja folyamán megszűnt.
+(3) A tanuló nem jogosult ösztöndíjra arra a hónapra vonatkozóan, amelyben igazolatlanul mulasztott tanórái száma
+az adott tanévben eléri a tizenöt tanórát.
+(4) A tanuló nem jogosult ösztöndíjra attól a hónaptól kezdődően, amelyben igazolatlan mulasztásai száma eléri azt
+a nevelési-oktatási intézmények működéséről és a köznevelési intézmények névhasználatáról szóló miniszteri
+rendeletben meghatározott mértéket, amely fölött a nem tanköteles tanuló tanulói jogviszonyát meg kell szüntetni.
+3. § (1) Az ösztöndíj folyósításával kapcsolatos feladatokat a Szakképzési Hídprogramban közreműködő szakképzési
+centrum vagy szakképző iskola (a továbbiakban együtt: szakképző iskola) látja el.
+(2) A szakképző iskola a tanuló részére az ösztöndíjat banki átutalással folyósítja. Ha a tanuló nem rendelkezik saját
+fizetési számlával és
+a) a tanuló kiskorú, vagy a nagykorú tanuló cselekvőképtelen vagy korlátozottan cselekvőképes, az ösztöndíjat
+a tanuló törvényes képviselőjének a fizetési számlájára,
+b) a tanuló nagykorú és cselekvőképes, a tanuló írásbeli kérelmére vele azonos lakcímen élő szintén nagykorú
+személy fizetési számlájára
+kell folyósítani.
+(3) A szakképző iskola az ösztöndíjat havonta, az ösztöndíjra jogosultsággal érintett hónapot követő hónap 28. napjáig
+folyósítja a tanuló részére, az 1. § (4)–(5) bekezdésében és a (4) bekezdésben foglalt kivételekkel.
+(4) A Szakképzési Hídprogram első évfolyamának első két hónapjára járó ösztöndíj a tanítási félév harmadik
+hónapjának 28. napjáig egy összegben kerül átutalásra.
+
+(5) Ha a szakképző iskola önellenőrzés keretében, vagy valamely más szerv vagy személy jelzése alapján megállapítja,
+hogy
+a) az arra jogosult tanuló részére nem folyósított vagy
+b) az arra nem jogosult tanuló részére folyósított
+ösztöndíjat, köteles haladéktalanul intézkedni az ösztöndíj folyósítása, vagy visszafizetése érdekében.
+2. A Szakképzési Hídprogramban részt vevő pedagógusok pótléka
+4. § (1) A Szakképzési Hídprogramban részt vevő pedagógusnak az Szt. 24/A. § (6) bekezdésében foglaltak alapján járó
+pótlék (a továbbiakban: pótlék) alapja
+a) a Szakképzési Hídprogram első évfolyamán tanulónként havi bruttó 8 ezer forint,
+b) a Szakképzési Hídprogram második évfolyamán tanulónként havi bruttó 10 ezer forint.
+(2) A pótlékot a nemzeti köznevelésről szóló 2011. évi CXC. törvény 62. § (6) bekezdése alapján a pedagógus neveléssel-
+oktatással lekötött munkaidejébe beszámító, a Szakképzési Hídprogram megvalósításával összefüggő tanórai
+és egyéb foglalkozások (a továbbiakban: óraszám) − ideértve az egyéni és kiscsoportos foglalkozásokat is −
+arányában félévenként kell megállapítani a Szakképzési Hídprogramban részt vevő pedagógusok között elosztva,
+az 1. mellékletben részletezett módon, figyelembe véve a (4) bekezdésben foglaltakat.
+(3) A részt vevő pedagógusok tekintetében a pótlék számítását a Szakképzési Hídprogramban szervezett
+osztályonként kell elvégezni. Egy pedagógus több osztály által is jogosult lehet pótlékra, ez esetben a havi pótlékát
+az osztályonként számított pótlékok összegeként kell megállapítani.
+(4) Ha a pedagógus osztályfőnöki munkakört is betölt, a (2) bekezdés szerint számított óraszámot eggyel növelni kell
+a pótlék számításakor. Az összes óraszámot az osztályban tanító pedagógusoknak az adott osztályban teljesített
+óraszámának összegéhez egyet hozzáadva kell kiszámítani.
+(5) Az első évfolyamban tanító pedagógus további kéthavi pótlékra jogosult, melynek a (2) bekezdés szerinti
+számításakor az általa tanított, az első évfolyamot teljesített tanulók számát kell figyelembe venni. A folyósítás egy
+összegben, a tanítási év lezárását követő második hónap 28. napjáig történik.
+(6) A második évfolyamban tanító pedagógus további kéthavi pótlékra jogosult, melynek a (2) bekezdés szerinti
+számításakor az általa tanított, a Szakképzési Hídprogramot lezáró, a részszakképesítés megszerzésére irányuló
+komplex szakmai vizsgát, továbbá az alapfokú iskolai végzettséggel nem rendelkező tanulók esetén a záróvizsgát
+teljesített tanulók számát kell figyelembe venni. A folyósítás egy összegben a tanítási év lezárását követő második
+hónap 28. napjáig történik.
+(7) Egy pedagógus több osztályra vonatkozóan is jogosult lehet az (5) és (6) bekezdés szerinti pótlékra, ez esetben
+az (5) és (6) bekezdés szerinti pótlékát az osztályonként számított pótlékok összegeként kell megállapítani.
+5. § (1) A pedagógus pótlékát évfolyamonként két, egyenként öthónapos időszakra kell megállapítani,
+a) az első évfolyam szeptember–január hónapjaira az október 15-én,
+b) a második évfolyam szeptember–január hónapjaira a szeptember 1-jén,
+c) a február–június hónapokra a február 1-jén
+tanulói jogviszonnyal rendelkező tanulók számát figyelembe véve.
+(2) A munkáltató a pedagógust az e rendelet alapján számára járó pótlék összegéről, az annak kiszámításakor
+figyelembe vett adatokról és a kiszámítás módjáról,
+a) az (1) bekezdés a) pontja szerinti időszakra nézve október 31. napjáig,
+b) az (1) bekezdés b) pontja szerinti időszakra nézve szeptember 15. napjáig,
+c) az (1) bekezdés c) pontja szerinti időszakra nézve február 15. napjáig
+írásban tájékoztatja.
+(3) A szakképző iskola a pótlékot havonta, a pótlékra jogosultsággal érintett hónapot követő hónap 28. napjáig
+folyósítja a pedagógus részére, a (4) bekezdésben foglalt kivétellel.
+(4) Az első évfolyam első két hónapjára járó pótlék a tanítási félév harmadik hónapjának 28. napjáig egy összegben
+kerül átutalásra.
+3. A támogatás igénylése, elszámolása, ellenőrzése
+6. § (1) A szakképző iskola a Nemzeti Foglalkoztatási Alap képzési alaprésze (a továbbiakban: NFA képzési alaprész) terhére
+a pedagógus pótlék, és az ösztöndíj formájában nyújtott támogatás biztosításának céljából támogatásra jogosult.
+
+(2) A szakképző iskolát az ösztöndíj folyósításából eredő többletfeladatai ellátására és az ezzel összefüggésben
+felmerülő költségek fedezetére az általa kifizetett ösztöndíj 2 százalékának megfelelő lebonyolítási díj illeti meg.
+(3) A szakképző iskola az e rendeletben meghatározott feladatai ellátásához szükséges forrás igényléséhez
+a 2. melléklet szerinti igénylő lapot
+a) a szeptember 1-jétől január 31-éig terjedő időszakra szeptember 15-éig,
+b) a február 1-jétől augusztus 31-éig terjedő időszakra február 15-éig
+nyújtja be a Nemzeti Szakképzési és Felnőttképzési Hivatal (a továbbiakban: NSZFH) részére.
+(4) A (3) bekezdés szerint benyújtott igénylés alapján az NSZFH támogatási szerződést köt a szakképző iskolával.
+Az NSZFH a támogatási szerződés alapján és az (5) bekezdésben foglaltak figyelembevételével az adott félévre
+vonatkozóan előfinanszírozással biztosítja a támogatást.
+(5) A szakképző iskola az adott félévre kapott támogatásról köteles elszámolni. A szakképző iskola a 3. melléklet szerinti
+elszámoló lapot a következő félévre vonatkozó igénybejelentésével együtt – a (3) bekezdésben meghatározott
+időpontoknak megfelelően –nyújtja be az NSZFH részére. Az NSZFH 8 napon belül dönt az elszámolásról, és annak
+elfogadása esetén folyósítja a következő félévre járó támogatást a szakképző iskola részére.
+7. § (1) A szakképző iskola rendelkezésére bocsátott összeg felhasználásának, valamint az ösztöndíj és a pótlék
+folyósításának ellenőrzését az NSZFH végzi.
+(2) A tárgyévi ellenőrzésekről, a foganatosított intézkedésekről és azok eredményéről az NSZFH a szakképzésért
+és felnőttképzésért felelős minisztert – az NFA képzési alaprésze terhére az adott évben külön jogszabály alapján
+nyújtott egyéb támogatások ellenőrzéséről benyújtott beszámoló keretein belül – legkésőbb a tárgyévet követő év
+február 15. napjáig tájékoztatja.
+(3) A szakképző iskolát − a rendelkezésére bocsátott összeg jogszabálysértő vagy nem rendeltetésszerű felhasználása
+esetén − terhelő visszafizetési és kamatfizetési kötelezettség nem érinti a tanulót megillető ösztöndíj, illetve
+a pedagógust megillető pótlék folyósítását.
+4. Záró rendelkezések
+8. §
+Ez a rendelet a kihirdetését követő nyolcadik napon lép hatályba.
+9. § (1) A Szakképzési Hídprogram első évfolyamán tanulónak első alkalommal a 2016/2017. tanévben 2017. január 15-i
+határidővel kell ösztöndíjat fizetni.
+(2) Az (1) bekezdés szerinti határidőig fizetendő ösztöndíjra az a tanuló jogosult, akinek 2017. január 1-jén
+a Szakképzési Hídprogramban részt vevő tanulóként fennáll a tanulói jogviszonya a szakképző iskolával.
+(3) A (2) bekezdés szerinti tanuló az (1) bekezdésben foglalt határidőig egy összegben legfeljebb négyhavi ösztöndíjra
+jogosult, figyelembe véve a tanulói jogviszony keletkezésének időpontját, valamint az 1–2. §-ok ösztöndíj
+jogosultságra vonatkozó szabályait.
+(4) A Szakképzési Hídprogramban részt vevő pedagógust a 2016/2017-es tanév első három hónapjára megillető
+pótlékot 2016. december 28-i határidővel egy összegben kell kifizetni.
+(5) A munkáltató az 5. § (2) bekezdés a) pontja szerinti tájékoztatást első alkalommal a 2016/2017. tanévben
+a Szakképzési Hídprogramban részt vevő pedagógusok részére az e rendelet hatálybalépését követő hetedik napig
+adja meg.
+(6) A 6. § (3) bekezdés a) pontja szerinti igénylések benyújtásának határideje a 2016/2017. tanévben az e rendelet
+hatálybalépését követő hetedik nap.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 322/2016. (X. 27.) Korm. rendelethez
+Az osztály tanulólétszáma: L
+Az osztály összes órakerete: O
+Egy adott, az osztályban tanító pedagógus (tanár): T
+i
+T
+i
+pedagógus óraszáma az adott osztályban: O
+i
+T
+i
+pedagógus pótléka: P
+i
+Az osztályban tanító pedagógusok száma: n
+4. § (1) bekezdés szerinti pótlékszámítási alap: A
+������������������������
+=
+
+
+������������������������
+T
+i
+adott osztály után járó pótlékának kiszámítási módja a fenti jelölések használatával:
+������������������������
+=
+������������������������ ∙ ������������������������
+������������������������
+∙ ������������������������
+
+2. melléklet a 322/2016. (X. 27.) Korm. rendelethez
+Szakképzési Hídprogram ösztöndíj és pótlék igénylése
+A
+1. Támogatási szerződés száma:
+2. Támogatott neve:
+3. Támogatott címe:
+4. OM azonosítója:
+5. Pénzforgalmi számlaszám:
+6. Ügyintéző neve:
+7. Telefonszáma:
+8. E-mail címe:
+9. / tanév tanfélév
+10. Ösztöndíj igénylése
+A B C D E
+10.1 Ösztöndíj mértéke
+Ösztöndíjas tanulói
+létszám
+Hónapok száma
+Igényelt öszt
+öndíj összeg
+e
+10.2 Ft/hó/fő fő hó Ft
+10.3 b c d e=b*c*d
+10.4 8 000 0
+10.5 4 000 0
+10.6 10 000 0
+10.7 5 000 0
+10.8 Összesen 0 0 0
+Az igénylés időszaka:
+B C
+
+11. Ösztöndíj pótigénylése
+A B C D E F G H I J K
+11.1 Ösztöndíj mértéke
+Pótigényléssel érintett
+ösztöndíjas tanulói
+összlétszám
+Igényelt ösztöndíj
+összege
+11.2 Ft/hó/fő fő 1. hónap 2. hónap 3. hónap 4. hónap 5. hónap 6. hónap* 7. hónap* Ft
+11.3 b c=d+f+g+h+i+j+k d f g h i j k l=b*c
+11.4 8 000 0 0
+11.5 4 000 0 0
+11.6 10 000 0 0
+11.7 5 000 0 0
+11.8 Összesen (11.4+11.5+11.6+11.7): 0 0 0 0 0 0 0 0 0
+12. Pedagógusok pótlékának igénylése
+A B C D E F G
+12.1 Pótlék tanulónkénti alapja
+Ösztöndíjas tanulói
+létszám
+Hónapok száma
+Bruttó
+pótlékok
+összege
+Munkáltatót
+terhelő
+adóteher
+Igényelt
+összeg
+12.2 Ft/hó/fő fő hó Ft Ft Ft
+12.3 b c d e=b*c*d f=e*0,27 g=e+f
+12.4 8 000 0 0 0
+12.5 10 000 0 0 0
+12.6 Összesen 0 0 0 0 0
+*Kizárólag képzési évfolyam második félévére tölthető ki, az évfolyamot/tanulmányokat lezáró vizsgákat sikeresen teljesítők számával
+Ösztöndíjas tanulói létszám az elmaradt hónapok tekintetében
+
+13. Pedagógusok pótlékának pótigénylése (az első évfolyam első félévében)
+A B C D E F G
+13.1 Pótlék tanulónkénti alapja
+Pótigényléssel érintett
+ösztöndíjas tanulói
+létszám
+Hónapok száma
+Bruttó
+pótlékok
+összege
+Munkáltatót
+terhelő
+adóteher
+Igényelt
+összeg
+13.2 Ft/hó/fő fő hó Ft Ft Ft
+13.3 b c d e=b*c*d f=e*0,27 g=e+f
+13.4 8 000 0 0 0
+13.5 10 000 0 0 0
+13.6 Összesen (13.4+13.5): 0 0 0 0 0
+14. Lebonyolítási költségtérítés igénylése
+A B C
+14.1 Tanulmányi ösztöndíj igénylés összege
+Igényelhető lebonyolítási
+költségtérítés igénylés
+összege
+14.2 Ft Ft
+14.3 a=10.8E b=a*0,02
+14.4 0
+15. Lebonyolítási költségtérítés pótigénylése
+A B C
+15.1
+Tanulmányi ösztöndíj pótigénylés
+összege
+Igényelhető lebonyolítási
+költségtérítés igénylés
+összege
+15.2 Ft Ft
+15.3 a=11.8K b=a*0,02
+15.4 0
+
+16. Igénylés összesítő
+A B C F
+16.1
+Tanulmányi ösztöndíj Igény
+összesen
+16.2 Ft Ft
+16.3 a b e=b+c+d
+16.4 Igényelt összeg 0 0
+16.5 Pótigénylés összege 0 0
+16.6 Igény összesen (16.4+16.5): 0 0
+17. Kiutalási összesítő
+A B C
+17.1 Igénylés és pótigénylés mindösszesen
+Elszámolás szerinti
+egyenleg
+17.2 Ft Ft
+17.3 a= 16.6 F b
+17.4 0
+Dátum:
+P.H.
+Ft
+Megnevezés
+Pedagógusok pótléka munkáltatói
+közterhekkel
+
+d
+aláírás
+Ft
+c
+
+c=a+/-b
+
+Kiutalandó összeg
+D
+Ft
+Lebonyolítási költségtérítés
+D E
+
+3. melléklet a 322/2016. (X. 27.) Korm. rendelethez
+Szakképzési Hídprogram ösztöndíj és pótlék elszámolása
+A
+1. Támogatási szerződés száma:
+2. Támogatott neve:
+3. Támogatott címe:
+4. OM azonosítója:
+5. Pénzforgalmi számlaszám:
+6. Ügyintéző neve:
+7. Telefonszáma:
+8. E-mail címe:
+9. / tanév tanfélév
+10. Ösztöndíj elszámolása
+A B C D E F G H I J K L M N O
+10.1 Ösztöndíj mértéke
+Igénylésben,
+pótigénylésben szereplő
+ösztöndíjas tanulói
+létszám
+Igényelt ösz-
+töndíj összege
+Pótigény keretében
+igényelt ösztöndíj
+Tanfélévre
+összesen kiutalt
+összeg
+Kifizetett ösztöndíj Különbözet
+10.2 Ft/hó/fő fő Ft Ft Ft 1. hónap 2. hónap 3. hónap 4. hónap 5. hónap 6. hónap* 7. hónap* Ft Ft
+10.3 b c d e f
+g h i j k l m
+n=(g+h+i+j
++k+l+m)*b o=f-n
+10.4 8 000 0 0 0
+10.5 4 000 0 0 0
+10.6 10 000 0 0 0
+10.7 5 000 0 0 0
+10.8
+Összesen
+(10.4+10.5+10.6+10.7):
+0 0 0 0 0 0 0 0 0 0 0 0 0
+B C
+*Kizárólag képzési évfolyam második félévére tölthető ki, az évfolyamot/tanulmányokat lezáró vizsgákat sikeresen teljesítők számával
+Az elszámolás időszaka:
+Ösztöndíjas tanulói létszám az elszámolással érintett hónapok tekintetében
+
+11. Pedagógusok pótlékának elszámolása
+A B C D E F G H I J K L M
+11.1
+Pótlék tanulónkénti
+alapja
+Kifizetett
+bruttó pótlék
+Munkáltatót
+terhelő
+adóteher
+Összesen
+Igényelt
+összeg
+Pótigény
+keretében
+igényelt
+összeg
+Tanfélévre
+összesen kiutalt
+összeg
+Különbözet
+11.2
+Ft/hó/fő félév első napja
+félév második
+hónapjának 15.
+napja (csak ha d>c)
+évfolyamot
+sikeresen
+teljesítők/képzést
+lezáró vizsgákat
+sikeresen teljesítők
+száma*
+összesen:
+f=5*c+4*(d-
+c)+2e, ha d-c>0;
+f=5*c+2*e, ha d-
+c<0 vagy d-c=0
+Ft
+Ft Ft Ft Ft Ft Ft
+11.3 b c d e f g=f*b h=g*0,27 i=g+h j k l=j+k m=l-i
+11.4 8 000 0 0 0 0 0
+11.5 10 000 0 0 0 0 0
+11.6 Összesen (11.4+11.5): 0 0 0 0 0 0 0 0 0 0 0
+12. Lebonyolítási költségtérítés elszámolása 13. Elszámolási összesítő
+A B C D E A B C D E F
+12.1
+Kiutalt lebonyolítási
+költségtérítés összege
+Elszámolási időszakban
+a tanulóknak kifizetett
+ösztöndíj összege
+A kifizetett ösztöndíj
+2 %-a
+Különbözet 13.1 Ösztöndíj
+Pedagógus
+pótlék
+munkáltatói
+közteherrel
+Lebonyolítási
+költségtérítés
+Összesen
+12.2 Ft Ft Ft Ft 13.2 Ft Ft Ft Ft
+12.3 b c=10.8N d=c*0,02 e=b-d 13.3 b c d e f=c+d+e
+12.4 0 0 13.4 Kiutalt összeg 0
+13.5
+Elszámolható
+összeg
+
+13.6
+Összesen (13.4-
+13.5):
+0 0 0 0
+Dátum:
+P.H.
+aláírás
+Megnevezés
+*Kizárólag képzési évfolyam második félévére vonatkozóan
+Ösztöndíjas tanulói létszám a pótlékalapként számító időpontokban
