@@ -1,9 +1,0 @@
-Az anyakönyvi eljárásról szóló 2010. évi I. törvény 95. § (1) bekezdés d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 2. pontjában meghatározott feladatkörömben eljárva,
-
-a 2. alcím tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 22. pontjában meghatározott feladatkörömben eljárva – a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (2) bekezdésében biztosított véleményezési jogkörében eljáró Országgyűlés elnöke véleményének kikérésével –,
-
-a 3. alcím tekintetében az anyakönyvi eljárásról szóló 2010. évi I. törvény 95. § (1) bekezdés a), b) és c) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 2. pontjában meghatározott feladatkörömben eljárva,
-
-a 4. alcím tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (1) bekezdés 6. pont b) és c) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 4., 10., 21. és 22. pontjában meghatározott feladatkörömben eljárva,
-
-az 5. alcím tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény 341. § (1) bekezdés 3. pont c) alpontjában és 341. § (1) bekezdés 21. pont f) és g) alpontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 4., 10., 21. és 22. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
