@@ -84,11 +84,7 @@
 
 ## Határidő: a 2017. évi központi költségvetés tervezése során
 
-## 13. az Áht. 36. § (4b) bekezdés b) pontja alapján az 1. melléklet 8. pontja szerinti fejlesztések esetében felhatalmazást ad éven túli kötelezettségvállalásra a 2017. év vonatkozásában bruttó 1206,0 millió forint tekintetében;
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: 2016. június 30.
+## 13.[^5]
 
 ## 14. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az 5. pont szerint átcsoportosított 10 183,2 millió forint visszapótlásáról a Kvtv. 1. melléklet XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 39. Sportlétesítmények fejlesztése és kezelése alcím, 17. Nemzeti Olimpiai Központ beruházás támogatása jogcímcsoport javára.
 
@@ -102,3 +98,4 @@
 [^2]: A 7. pont az 1238/2016. (V. 13.) Korm. határozat 4. pont b) alpontja szerint módosított szöveg.
 [^3]: A 8. pont nyitó szövegrésze az 1238/2016. (V. 13.) Korm. határozat c) alpontja szerint módosított szöveg.
 [^4]: A 8. pont a) alpontja az 1238/2016. (V. 13.) Korm. határozat d) alpontja szerint módosított szöveg.
+[^5]: A 13. pontot az 1588/2016. (X. 27.) Korm. határozat 8. pontja visszavonta.
