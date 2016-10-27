@@ -1,0 +1,9 @@
+# 23/2016. (X. 27.) OGY határozat
+
+országos népszavazásról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-23-30-41
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-10-27 | 2016-23-30-41.1 | 23/2016. (X. 27.) OGY határozat |

@@ -1,0 +1,3 @@
+Az Országgyűlés a népszavazás kezdeményezéséről, az európai polgári kezdeményezésről, valamint a népszavazási eljárásról szóló 2013. évi CCXXXVIII. törvény rendelkezései szerint megtárgyalta Kész Zoltán magánszemély szervező által benyújtott országos népszavazási kezdeményezést, és arról a következők szerint döntött:
+
+Az Országgyűlés az „Egyetért Ön azzal, hogy a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 2. számú mellékletében meghatározott gazdasági társasággal foglalkoztatási jogviszonyban álló természetes személy havonta legfeljebb bruttó 2 millió forint összegű javadalmazásban részesülhessen?” kérdésben az országos népszavazást nem rendeli el.
