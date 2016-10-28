@@ -1,8 +1,8 @@
 75. § (1) A vagyonelkobzást pénzösszegben kifejezve kell elrendelni,
 
-a) ha a vagyon már nem lelhető fel,
+a) ha a vagyonelkobzás alá eső vagyon már nem lelhető fel,
 
-b) ha a 74. § (1) bekezdése alapján vagyonelkobzás alá eső vagyon az egyéb vagyontól nem különíthető el, vagy az elkülönítése aránytalan nehézséget okozna,
+b) ha a vagyonelkobzás alá eső vagyon az egyéb vagyontól nem különíthető el, vagy az elkülönítése aránytalan nehézséget okozna,
 
 c) a 74. § (5) bekezdés b) pontjában meghatározott esetben.
 

@@ -1,14 +1,12 @@
 ## Értelmező rendelkezések
 
-414. § (1) A 410. és a 411. § alkalmazásában pénzügyi eszközön
+414. § (1) A 410–411. § alkalmazásában pénzügyi eszközön a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott pénzügyi eszközt kell érteni, feltéve, hogy az megfelel az 596/2014/EU rendelet 2. cikk (1) bekezdésében foglaltaknak, ide nem értve
 
-a) a pénzügyi eszközt, az egyéb tőzsdei terméket és bármilyen más eszközt, amelynek a forgalmazását az Európai Unió valamely tagállama szabályozott piacán engedélyezték, vagy amelyre vonatkozóan az ilyen piacon történő forgalmazásra engedélyezés iránti kérelmet nyújtottak be,
+a) az 596/2014/EU rendelet 5. cikk (1)–(3) bekezdésében meghatározott eseteket;
 
-b) azt a pénzügyi eszközt, amely nincs jelen szabályozott piacon, de értéke valamely, az a) pontban felsorolt pénzügyi eszköz értékétől vagy árfolyamától függ,
+b) az 596/2014/EU rendelet 5. cikk (4) és (5) bekezdésében meghatározott eseteket;
 
-c) a rendszeres vagy rendkívüli tájékoztatási kötelezettség megszűnéséig a nyilvánosan forgalomba hozott értékpapírt
-
-is érteni kell.
+c) az 596/2014/EU rendelet 6. cikk (1)–(4) bekezdésében meghatározott eseteket.
 
 (2) A 409. és a 411. § alkalmazásában vezető állású személy:
 

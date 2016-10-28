@@ -4,6 +4,14 @@
 
 (2) Aki abból a célból, hogy az ellene folytatott büntetőeljárás alól kivonja magát, a lakhelyelhagyási tilalom tartama alatt a számára kijelölt területet, körzetet vagy a házi őrizet tartama alatt a kijelölt lakást és az ahhoz tartozó bekerített helyet a kényszerintézkedés szabályainak megszegésével elhagyja, vétség miatt két évig terjedő szabadságvesztéssel büntetendő.
 
+(2a) A (2) bekezdés szerint büntetendő, aki abból a célból, hogy az ellene folytatott kiadatási vagy átadási eljárás alól kivonja magát,
+
+a) az ideiglenes kiadatási lakhelyelhagyási tilalom, illetve az ideiglenes átadási lakhelyelhagyási tilalom tartama alatt a számára kijelölt területet, körzetet, vagy
+
+b) az ideiglenes kiadatási házi őrizet, illetve az ideiglenes átadási házi őrizet tartama alatt a számára kijelölt lakást és az ahhoz tartozó bekerített helyet
+
+a kényszerintézkedés szabályainak megszegésével elhagyja.
+
 (3) A büntetés egy évig terjedő szabadságvesztés, ha az elítélt a szabadságvesztés végrehajtása során a részére engedélyezett büntetés félbeszakítás, eltávozás, rövid tartamú eltávozás vagy kimaradás tartamának elteltével abból a célból nem tér vissza, hogy a büntetés végrehajtása alól kivonja magát.
 
 (3a) A büntetés egy évig terjedő szabadságvesztés, ha az elítélt a reintegrációs őrizet tartama alatt a számára kijelölt lakást és az ahhoz tartozó bekerített helyet vagy a számára meghatározott napirend szerinti tartózkodási helyet a reintegrációs őrizet szabályainak megszegésével abból a célból hagyja el, hogy a szabadságvesztés végrehajtása alól kivonja magát.
