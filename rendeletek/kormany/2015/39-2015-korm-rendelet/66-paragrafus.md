@@ -20,7 +20,7 @@ b) a műemléki jelentőségű területet érintően a tervezett telekalakítás
 
 (5)[^113] A telekalakítás a védettség hatályát nem érinti, a telekalakítással érintett telek általános vagy a műemlékké nyilvánítással keletkező védelme a telekalakítás folytán létrejött telkekre is vonatkozik.
 
-[^107]: A 64/A. §-t a 306/2016. (X. 13.) Korm. rendelet 33. §-a iktatta be.
+[^107]: A 65/A. §-t a 306/2016. (X. 13.) Korm. rendelet 33. §-a iktatta be.
 [^108]: A 30. alcím címe a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 25. pontja szerint módosított szöveg.
 [^109]: A 66. § (1) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 45. § q) pontja szerint módosított szöveg.
 [^110]: A 66. § (2) bekezdés nyitó szövegrésze a 171/2015. (VI. 30.) Korm. rendelet 45. § q) pontja, a 306/2016. (X. 13.) Korm. rendelet 41. § (4) bekezdés b) pontja szerint módosított szöveg.
