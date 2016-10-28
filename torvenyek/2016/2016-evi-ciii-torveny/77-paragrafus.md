@@ -1,3 +1,0 @@
-77. § Az EUtv. 111. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A (2) és (3) bekezdés szerinti esetben – indokolt esetben a 109. § (2) bekezdése szerinti konzultációt követően – a miniszter részletes indokolással ellátott írásbeli véleményben tájékoztatja a kibocsátó tagállami igazságügyi hatóságot, ha a szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtásának átvétele az elítélt társadalomba való beilleszkedésének elősegítését nem szolgálná. A (3) bekezdés szerinti esetben a miniszteri vélemény – szükség szerint – tartalmazza azt is, hogy a miniszter nem járul hozzá a tagállami határozat és a tanúsítvány megküldéséhez.”

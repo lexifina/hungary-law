@@ -25,11 +25,3 @@
 (12) E törvény 99. § (1) bekezdése a személyek eljárási jogainak megerősítése, valamint a kölcsönös elismerés elvének az érintett személy megjelenése nélkül lefolytatott eljárásokat követően hozott határozatokra való alkalmazásának előmozdítása tekintetében a 2002/584/IB, a 2005/214/IB, a 2006/783/IB, a 2008/909/IB és a 2008/947/IB kerethatározat módosításáról szóló, 2009. február 26-i 2009/299/IB tanácsi kerethatározatnak való megfelelést szolgálja.
 
 (13) E törvény 97. § 4. pontja és 99. § (2) bekezdése a Bűnüldözési Együttműködés Európai Uniós Ügynökségéről (Europol), valamint a 2009/371/IB, a 2009/934/IB, a 2009/935/IB, a 2009/936/IB és a 2009/968/IB tanácsi határozat felváltásáról és hatályon kívül helyezéséről szóló 2016. május 11-i (EU) 2016/794 európai parlamenti és tanácsi rendeletnek való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
