@@ -1,8 +1,8 @@
-## kell feltüntetni.
+## 120/A. §[^221] E rendeletnek a közúti közlekedési igazgatási feladatokról, a közúti közlekedési okmányok kiadásáról és visszavonásáról szóló 326/2011. (XII. 28.) Korm. rendelet módosításáról szóló 319/2016. (X. 25.) Korm. rendelettel (a továbbiakban: Módr.) módosított rendelkezéseit a Módr. hatálybalépésekor[^222] folyamatban lévő ügyekben is alkalmazni kell.
 
 ## 29. Az Európai Unió jogának való megfelelés
 
-## 121. §[^213] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
+## 121. §[^223] Ez a rendelet a következő európai uniós jogi aktusoknak való megfelelést szolgálja:
 
 a) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló, 1999. április 29-i 1999/37/EK tanácsi irányelv,
 
@@ -14,4 +14,6 @@ d) a közúti járművezetők és a közúti közlekedési szakemberek képzés�
 
 e) a vezetői engedélyekről szóló 2006/126/EK európai parlamenti és tanácsi irányelv módosításáról szóló, 2012. november 19-i 2012/36/EU bizottsági irányelv.
 
-[^213]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.
+[^221]: A 120/A. §-t a 319/2016. (X. 25.) Korm. rendelet 7. §-a iktatta be.
+[^222]: A hatálybalépés időpontja 2016. október 28.
+[^223]: A 121. § (1) az 544/2013. (XII. 30.) Korm. rendelet 40. § (1) bekezdésével megállapított szöveg.

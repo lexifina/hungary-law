@@ -1,4 +1,4 @@
-57. § (1)[^113] Az A típusú rendszámtáblát kell felszerelni a személygépkocsira, az autóbuszra, a tehergépkocsira, a vontatóra, a nyerges vontatóra, a mezőgazdasági vontatóra és a lassú járműre előre, továbbá a felsorolt járművekre, valamint a pótkocsira, a félpótkocsira és a lassújármű pótkocsijára hátulra akkor, ha az elhelyezésre elegendő hely áll rendelkezésre, és a rendszámtábla jogszabályban előírt módon megvilágítható.
+57. § (1)[^117] Az A típusú rendszámtáblát kell felszerelni a személygépkocsira, az autóbuszra, a tehergépkocsira, a vontatóra, a nyerges vontatóra, a mezőgazdasági vontatóra és a lassú járműre előre, továbbá a felsorolt járművekre, valamint a pótkocsira, a félpótkocsira és a lassújármű pótkocsijára hátulra akkor, ha az elhelyezésre elegendő hely áll rendelkezésre, és a rendszámtábla jogszabályban előírt módon megvilágítható.
 
 (2) C típusú rendszámtáblát kell felszerelni az (1) bekezdésben felsorolt járművekre hátulra, ha az A típusú rendszámtábla felszerelésére nincs elegendő hely, vagy, ha az A típusú tábla nem világítható meg.
 
@@ -14,4 +14,4 @@
 
 (8) A korábban kiadott rendszámtáblát az új rendszámtábla kiadásával, vagy a jármű végleges kivonásával egyidejűleg be kell vonni. A bevont rendszámtáblák selejtezéséről a közlekedési igazgatási hatóság, megsemmisítéséről a Hivatal gondoskodik.
 
-[^113]: Az 57. § (1) bekezdése a 467/2015. (XII. 27.) Korm. rendelet 29. § k) pontja szerint módosított szöveg.
+[^117]: Az 57. § (1) bekezdése a 467/2015. (XII. 27.) Korm. rendelet 29. § k) pontja szerint módosított szöveg.

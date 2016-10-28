@@ -1,10 +1,10 @@
-## 4. §[^15] A vezetői engedély különböző kategóriákba és kombinált kategóriákba sorolt járművek vezetésére jogosít, amelyeket az 1. és a 2. melléklet tartalmaz.
+## 4. §[^16] A vezetői engedély különböző kategóriákba és kombinált kategóriákba sorolt járművek vezetésére jogosít, amelyeket az 1. és a 2. melléklet tartalmaz.
 
-5. § (1)[^16] A nemzetközi kategóriára, valamint a „TR” és „V” nemzeti kategóriára megszerzett vizsga a vezetői engedélybe bejegyzett kategória érvényességi idejének lejárta után is – ha a közúti járművezetők egészségi alkalmasságáról szóló miniszteri rendelet egészségi alkalmasságot nem ír elő – jogosít a 4. mellékletben meghatározott járművek vezetésére.
+5. § (1)[^17] A nemzetközi kategóriára, valamint a „TR” és „V” nemzeti kategóriára megszerzett vizsga a vezetői engedélybe bejegyzett kategória érvényességi idejének lejárta után is – ha a közúti járművezetők egészségi alkalmasságáról szóló miniszteri rendelet egészségi alkalmasságot nem ír elő – jogosít a 4. mellékletben meghatározott járművek vezetésére.
 
-(2)[^17] A közlekedési igazgatási hatóság az ügyfél kérelmére nemzeti kategóriára érvényesített vezetői engedélyt állít ki, ha az ügyfél az (1) bekezdésben meghatározott vezetési jogosultságát kívánja gyakorolni.
+(2)[^18] A közlekedési igazgatási hatóság az ügyfél kérelmére nemzeti kategóriára érvényesített vezetői engedélyt állít ki, ha az ügyfél az (1) bekezdésben meghatározott vezetési jogosultságát kívánja gyakorolni.
 
-(3)[^18] A vezetői engedély a járművezető alábbiak szerinti életkorának eléréséig csak belföldön történő járművezetésre jogosít:
+(3)[^19] A vezetői engedély a járművezető alábbiak szerinti életkorának eléréséig csak belföldön történő járművezetésre jogosít:
 
 a) a „B” kategória esetében 18. életév,
 
@@ -18,7 +18,7 @@ bc) a „D” kategóriánál – a járművezető által végezhető tevékenys
 
 A nemzeti kategóriára érvényesített vezetői engedély csak belföldön történő járművezetésre jogosít.
 
-(4)[^19] A vezetői engedély a személyazonosság igazolására a kiállításától számított tíz évig, a 65. életévüket betöltöttek esetében határidő nélkül alkalmas.
+(4)[^20] A vezetői engedély a személyazonosság igazolására a kiállításától számított tíz évig, a 65. életévüket betöltöttek esetében határidő nélkül alkalmas.
 
 (5) A vezetői engedély vezetési jogosultság igazolására a következő határidőig alkalmas:
 
@@ -28,8 +28,8 @@ b) a nemzeti kategóriában – a „TR” és „V” kategória kivételével 
 
 (6) A vezetői engedély érvényességi idejének meghosszabbítása az okmány cseréjével történik.
 
-[^15]: A 4. § a 90/2015. (IV. 9.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
-[^16]: Az 5. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^17]: Az 5. § (2) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
-[^18]: Az 5. § (3) bekezdése az 5/2013. (I. 16.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^19]: Az 5. § (4) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
+[^16]: A 4. § a 90/2015. (IV. 9.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
+[^17]: Az 5. § (1) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^18]: Az 5. § (2) bekezdése az 544/2013. (XII. 30.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^19]: Az 5. § (3) bekezdése az 5/2013. (I. 16.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^20]: Az 5. § (4) bekezdése a 90/2015. (IV. 9.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.

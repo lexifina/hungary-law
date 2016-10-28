@@ -1,6 +1,6 @@
 ## 28. § A vezetői engedélybe az állampolgársági adatot az országkód, az egészségi feltételeket vagy a korlátozásokat a 8. mellékletben meghatározott számkód formájában kell feltüntetni.
 
-29. § (1)[^66] A vezetői engedély a következő határidőig jogosít vezetésre:
+29. § (1)[^68] A vezetői engedély a következő határidőig jogosít vezetésre:
 
 a) a vezetői engedély kategória érvényessége az előírt orvosi vizsgálaton megállapított egészségi alkalmassági időpontig, de a „C1”, a „C1E”, a „C”, a „CE”, a „D1”, a „D1E”, a „D” és a „DE” vezetői engedély kategóriák esetében a vezetői engedély kiállításától számított legfeljebb öt évig, egyéb nemzetközi vezetői engedély kategóriák esetében legfeljebb tíz évig,
 
@@ -14,4 +14,4 @@ b) nemzeti kategóriában – a „TR” és „V” kategória kivételével �
 
 (5) A vezetői engedély kiállítása során annak érvényességi idejét az ügyfél kérelmére úgy kell meghatározni, hogy a lejáratának időpontja megegyezzen az 5. melléklet C. pontja szerinti vezetői engedély 11. sorában feltüntetett kategória érvényesség időpontjával.
 
-[^66]: A 29. § (1) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^68]: A 29. § (1) bekezdése a 467/2015. (XII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.

@@ -1,8 +1,8 @@
-## 75/A. §[^145] A Hivatal az állandó rendszámtábla elvesztése, eltulajdonítása, megkerülése tényének a nyilvántartáson történő átvezetésével egyidejűleg gondoskodik a figyelmeztető jelzés SIS II-ben történő elhelyezéséről vagy törléséről a 75. § (8)–(11) bekezdéseiben meghatározott esetekben. Ezen rendelkezések a négykerekű segédmotoros kerékpárokra nem vonatkoznak.
+## 75/A. §[^150] A Hivatal az állandó rendszámtábla elvesztése, eltulajdonítása, megkerülése tényének a nyilvántartáson történő átvezetésével egyidejűleg gondoskodik a figyelmeztető jelzés SIS II-ben történő elhelyezéséről vagy törléséről a 75. § (8)–(11) bekezdéseiben meghatározott esetekben. Ezen rendelkezések a négykerekű segédmotoros kerékpárokra nem vonatkoznak.
 
-## 17. [^146] A jármű műszaki alkalmasságának igazolása
+## 17. [^151] A jármű műszaki alkalmasságának igazolása
 
-76. §[^147] (1) A jármű műszaki alkalmasságának érvényességi idejét
+76. §[^152] (1) A jármű műszaki alkalmasságának érvényességi idejét
 
 a) a forgalmi engedély „Műszaki érvényessége” rovatba bejegyzett időpont és a berögzített – egyedi sorszámmal ellátott – jelzőcsík (a továbbiakban: címke), illetve a bejegyzett időpont és a (3) bekezdés alapján a forgalmi engedélybe a közlekedési igazgatási hatóság által hitelesítetten bejegyzett címke sorszáma,
 
@@ -22,6 +22,6 @@ b) egyéb esetekben a közlekedési igazgatási hatóság a közlekedési hatós
 
 (4) A forgalmi engedély cseréjekor a közlekedési igazgatási hatóság az új típusú forgalmi engedélybe a címke sorszámát, a lejárati hónapot, valamint napot bejegyzi, és a bejegyzést lebélyegzi.
 
-[^145]: A 75/A. §-t a 15/2013. (I. 28.) Korm. rendelet 38. § (4) bekezdése iktatta be, az 544/2013. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
-[^146]: A 17. alcím címe a 441/2015. (XII. 28.) Korm. rendelet 154. § (9) bekezdésével megállapított szöveg.
-[^147]: A 76. § a 441/2015. (XII. 28.) Korm. rendelet 154. § (10) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^150]: A 75/A. §-t a 15/2013. (I. 28.) Korm. rendelet 38. § (4) bekezdése iktatta be, az 544/2013. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^151]: A 17. alcím címe a 441/2015. (XII. 28.) Korm. rendelet 154. § (9) bekezdésével megállapított szöveg.
+[^152]: A 76. § a 441/2015. (XII. 28.) Korm. rendelet 154. § (10) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
