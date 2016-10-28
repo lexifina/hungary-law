@@ -1,0 +1,11 @@
+21. § Az Nbjt. 32. §-a helyébe a következő rendelkezés lép:
+
+„32. § (1) A terhelttel szemben – feltéve, hogy a bűncselekmény tárgyi súlya ezt indokolja – a bíróság nemzetközi elfogatóparancsot bocsáthat ki büntetőeljárás lefolytatása, illetve szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából, ha a terhelttel szemben a 11. § (2) bekezdése értelmében kiadatásnak van helye.
+
+(2) Büntetőeljárás lefolytatása céljából a vádirat benyújtását követően az (1) bekezdésben foglalt feltétel megvalósulása esetén is csak akkor bocsátható ki nemzetközi elfogatóparancs, ha a vádiratban, illetve a vád módosítása vagy kiterjesztése során az ügyész végrehajtandó szabadságvesztés büntetés kiszabására vagy javítóintézeti nevelés alkalmazására tett indítványt.
+
+(3) A vádirat benyújtása előtt a nemzetközi elfogatóparancsot a nyomozási bíró bocsátja ki. Ha a terhelten jogerősen kiszabott szabadságvesztést vagy szabadságelvonással járó intézkedést kell végrehajtani, a nemzetközi elfogatóparancsot a büntetés-végrehajtási bíró bocsátja ki.
+
+(4) A bíróság a nemzetközi elfogatóparancsot, valamint szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából kibocsátott nemzetközi elfogatóparancs esetén a jogerős ítéletet megküldi a miniszternek.
+
+(5) A nemzetközi elfogatóparancsot haladéktalanul vissza kell vonni, ha a kibocsátásának oka megszűnt. A bíróság a vádirat benyújtása előtt az elfogatóparancsot hivatalból is visszavonhatja. Ha a vádirat benyújtását megelőzően nemzetközi elfogatóparancsot bocsátottak ki, de a vádiratban az ügyész végrehajtandó szabadságvesztés büntetés kiszabására vagy javítóintézeti nevelés alkalmazására nem tett indítványt, a nemzetközi elfogatóparancsot haladéktalanul vissza kell vonni. Ha a nemzetközi elfogatóparancs alapján a terheltet elfogják, és a nemzetközi elfogatóparancs kibocsátásának feltételei egyébként fennállnak, a nemzetközi elfogatóparancsot – a 33. § (2) bekezdésében foglaltak kivételével – csak a terhelt Magyarországra történt átadását követően lehet visszavonni. A nemzetközi elfogatóparancs visszavonásáról szóló végzést a kibocsátó bíróság haladéktalanul megküldi a miniszternek.”
