@@ -1,0 +1,1 @@
+## „(3) A lófélék egyedeinek jelölése során felhasználható transzponderek igénylésének módját a törzskönyvezett egyedek esetében az adott fajta NÉBIH által jóváhagyott tenyésztési programja tartalmazza, a nem törzskönyvezett és a nyilvántartásba vett lófélék esetében pedig a kibocsátó szerv határozza meg.”
