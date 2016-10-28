@@ -1,6 +1,6 @@
-## 15. §[^86]
+## 15. §[^88]
 
-## 5/A. [^87] A gyakornoki idő és a mentor
+## 5/A. [^89] A gyakornoki idő és a mentor
 
 15/A. § (1) A mentorálás célja, hogy a gyakornokot felkészítse a pedagógus életpálya feladataira.
 
@@ -10,5 +10,5 @@
 
 (4) A Gyvt. hatálya alá tartozó intézmény esetében – ha a gyakornok munkakörével azonos pedagógus-munkakörben foglalkoztatott, a (2) bekezdésben meghatározott feltétellel rendelkező mentor nem jelölhető ki – a mentori feladatokat az intézményvezető vagy döntése alapján a gyakornok közvetlen szakmai felettese látja el.
 
-[^86]: A 15. §-t a 235/2016. (VII. 29.) Korm. rendelet 38. § c) pontja hatályon kívül helyezte.
-[^87]: Az 5/A. alcímet (15/A–15/B. §) a 249/2015. (IX. 8.) Korm. rendelet 9. §-a iktatta be.
+[^88]: A 15. §-t a 235/2016. (VII. 29.) Korm. rendelet 38. § c) pontja hatályon kívül helyezte.
+[^89]: Az 5/A. alcímet (15/A–15/B. §) a 249/2015. (IX. 8.) Korm. rendelet 9. §-a iktatta be.

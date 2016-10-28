@@ -34,11 +34,11 @@ d) a szakmai életút bemutatását és elemzését,
 
 e) a bemutató portfóliót,
 
-f)[^30] a Mesterprogramot – kivéve az országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő vizsgáján vagy minősítési eljárásában szakértőként részt vevő, szaktanácsadói vagy pedagógiai-szakmai szolgáltatási feladatot ellátó pedagógust –, vagy Kutatóprogramot, valamint
+f)[^32] a Mesterprogramot – kivéve az országos pedagógiai-szakmai ellenőrzésben, a pedagógusok minősítő vizsgáján vagy minősítési eljárásában szakértőként részt vevő, szaktanácsadói vagy pedagógiai-szakmai szolgáltatási feladatot ellátó pedagógust –, vagy Kutatóprogramot, valamint
 
-g)[^31] az együttműködési megállapodást.
+g)[^33] az együttműködési megállapodást.
 
-(4a)[^32] Az együttműködési megállapodás a – 8. § (5) bekezdése szerint a pályázat megújítására vonatkozó kötelezettséggel érintett – Mesterpedagógus vagy Kutatótanár fokozatra irányuló minősítési eljárásban részt vevő pedagógus és az őt foglalkoztató köznevelési vagy a Gyvt. hatálya alá tartozó intézmény, továbbá – a felek szándékától függően – harmadik személy (a továbbiakban: külső szakmai partner) között a pályázat megújításáig terjedő időre szólóan létrejött megállapodás, amelyben rögzíteni kell:
+(4a)[^34] Az együttműködési megállapodás a – 8. § (5) bekezdése szerint a pályázat megújítására vonatkozó kötelezettséggel érintett – Mesterpedagógus vagy Kutatótanár fokozatra irányuló minősítési eljárásban részt vevő pedagógus és az őt foglalkoztató köznevelési vagy a Gyvt. hatálya alá tartozó intézmény, továbbá – a felek szándékától függően – harmadik személy (a továbbiakban: külső szakmai partner) között a pályázat megújításáig terjedő időre szólóan létrejött megállapodás, amelyben rögzíteni kell:
 
 a) a Mester- vagy Kutatóprogram céljait, megvalósításának elemeit, a pedagógus ezzel kapcsolatos kötelezettségvállalását,
 
@@ -46,12 +46,12 @@ b) a köznevelési vagy a Gyvt. hatálya alá tartozó intézménynek és – a 
 
 c) a megállapodás időbeli hatályát.
 
-(5)[^33] A Mesterpedagógus pályázat bemutatása és védése alkalmával a pedagógus a pályázatban szereplő dokumentumok alapján bemutatja a szakmai életútját, annak elemzését, bemutató portfólióját, Mesterprogramját, valamint reflektál a minősítő bizottság 8. § (4) bekezdésében foglaltak szerint feltett kérdéseire.
+(5)[^35] A Mesterpedagógus pályázat bemutatása és védése alkalmával a pedagógus a pályázatban szereplő dokumentumok alapján bemutatja a szakmai életútját, annak elemzését, bemutató portfólióját, Mesterprogramját, valamint reflektál a minősítő bizottság 8. § (4) bekezdésében foglaltak szerint feltett kérdéseire.
 
-(6)[^34] A (3) bekezdés szerinti portfólióvédés részletes szabályait, a (4) bekezdés szerinti pályázat tartalmára vonatkozó részletes szabályokat, a 8. § (2) bekezdés a) pontjában foglalt felkészülési terv részletes szabályait, valamint a 9. § (1) bekezdése szerinti pedagógusértékelési eszközöket a miniszter által elfogadott Útmutató tartalmazza, amelyet az OH a honlapján közzétesz. A minősítő vizsga vagy minősítési eljárás során a portfólió vagy pályázat feltöltését lehetővé tévő informatikai hozzáférés megnyíltakor hatályos Útmutató szerint kell eljárni.
+(6)[^36] A (3) bekezdés szerinti portfólióvédés részletes szabályait, a (4) bekezdés szerinti pályázat tartalmára vonatkozó részletes szabályokat, a 8. § (2) bekezdés a) pontjában foglalt felkészülési terv részletes szabályait, valamint a 9. § (1) bekezdése szerinti pedagógusértékelési eszközöket a miniszter által elfogadott Útmutató tartalmazza, amelyet az OH a honlapján közzétesz. A minősítő vizsga vagy minősítési eljárás során a portfólió vagy pályázat feltöltését lehetővé tévő informatikai hozzáférés megnyíltakor hatályos Útmutató szerint kell eljárni.
 
-[^30]: A 9/B. § (4) bekezdés f) pontja a 235/2016. (VII. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^31]: A 9/B. § (4) bekezdés g) pontja a 235/2016. (VII. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^32]: A 9/B. § (4a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.
-[^33]: A 9/B. § (5) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
-[^34]: A 9/B. § (6) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^32]: A 9/B. § (4) bekezdés f) pontja a 235/2016. (VII. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^33]: A 9/B. § (4) bekezdés g) pontja a 235/2016. (VII. 29.) Korm. rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^34]: A 9/B. § (4a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 9. § (2) bekezdése iktatta be.
+[^35]: A 9/B. § (5) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.
+[^36]: A 9/B. § (6) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 9. § (3) bekezdésével megállapított szöveg.

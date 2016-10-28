@@ -2,6 +2,6 @@
 
 (2) A gyakornok minősítő vizsgája esetében az óra, foglalkozás látogatásán és megbeszélésén a mentor is részt vehet.
 
-(3)[^29] A pedagógus szakképzettséggel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben, Gyakornok besorolásban foglalkoztatottak esetén, ha a hospitálás feltételei a munkáltatónál nem biztosíthatóak, a hospitálást biztosító nevelési-oktatási intézményt – az intézményvezető kezdeményezésére – az OH jelöli ki a munkáltatóval azonos településen lévő, vagy ahhoz legközelebb – az OH helyi pedagógiai-szakmai szolgáltatásokat biztosító szervezeti egységei működési területén – található, a hospitálás lebonyolításának feltételeivel rendelkező intézmények közül.
+(3)[^31] A pedagógus szakképzettséggel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben, Gyakornok besorolásban foglalkoztatottak esetén, ha a hospitálás feltételei a munkáltatónál nem biztosíthatóak, a hospitálást biztosító nevelési-oktatási intézményt – az intézményvezető kezdeményezésére – az OH jelöli ki a munkáltatóval azonos településen lévő, vagy ahhoz legközelebb – az OH helyi pedagógiai-szakmai szolgáltatásokat biztosító szervezeti egységei működési területén – található, a hospitálás lebonyolításának feltételeivel rendelkező intézmények közül.
 
-[^29]: A 9/A. § (3) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 8. §-a iktatta be.
+[^31]: A 9/A. § (3) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 8. §-a iktatta be.

@@ -62,7 +62,7 @@
 
 | 30 | pedagógiai felügyelő | amennyiben a kollégium nevelőtestülete e rendelet hatálybalépését megelőzően döntött a munkakör bevezetéséről, kollégiumban nemenként és épületenként 100 tanulóra számítva, de legalább | 1 |
 
-5. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^181]
+5. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^185]
 
 A pedagógus szakképzettséggel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra vonatkozó helyi értékelési mintaszabályzat
 
@@ -162,4 +162,4 @@ A pontszámok alapján a gyakornok munkájának értékelése lehet: kiválóan 
 
 6. Jelen szabályzat ...-án lép hatályba.
 
-[^181]: Az 5. mellékletet a 235/2016. (VII. 29.) Korm. rendelet 36. § b) pontja iktatta be.
+[^185]: Az 5. mellékletet a 235/2016. (VII. 29.) Korm. rendelet 36. § b) pontja iktatta be.

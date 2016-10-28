@@ -1,4 +1,4 @@
-## 5/B. [^88] A pedagógus előmenetel hatálya alá tartozók egyes csoportjaira vonatkozó szabályok
+## 5/B. [^90] A pedagógus előmenetel hatálya alá tartozók egyes csoportjaira vonatkozó szabályok
 
 15/C. § (1) Az 1–14/A., valamint a 15/A–15/B. §-ban foglaltakat
 
@@ -10,4 +10,4 @@ b) a pedagógus szakképzettséggel rendelkező, nevelő és oktató munkát kö
 
 (2) A pedagógus-munkakört, valamint nevelő és oktató munkát közvetlenül segítő munkakört egyaránt betöltő személy minősítésére és szakmai gyakorlatának számítására a pedagógus munkakört betöltőkre vonatkozó szabályokat kell alkalmazni.
 
-[^88]: Az 5/B. alcímet (15/C. §) a 235/2016. (VII. 29.) Korm. rendelet 23. §-a iktatta be.
+[^90]: Az 5/B. alcímet (15/C. §) a 235/2016. (VII. 29.) Korm. rendelet 23. §-a iktatta be.

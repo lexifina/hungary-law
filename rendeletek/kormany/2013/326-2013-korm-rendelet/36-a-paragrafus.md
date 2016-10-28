@@ -1,6 +1,6 @@
 ## fokozatba történő besoroláshoz szükséges minősítési eljárást.
 
-36/A. §[^144] (1) A 2016. évben – a családpolitikáért felelős miniszter által közzétett pályázat alapján – soron kívüli Mesterpedagógus fokozatba lépéshez szükséges minősítési eljárásban vehet részt a 4. § (1) bekezdésben foglaltaktól, valamint a 10. § (1) bekezdés c) pontja alapján meghatározott, a minősítési tervbe történő felvétel különös feltételeitől eltérően aki
+36/A. §[^146] (1) A 2016. évben – a családpolitikáért felelős miniszter által közzétett pályázat alapján – soron kívüli Mesterpedagógus fokozatba lépéshez szükséges minősítési eljárásban vehet részt a 4. § (1) bekezdésben foglaltaktól, valamint a 10. § (1) bekezdés c) pontja alapján meghatározott, a minősítési tervbe történő felvétel különös feltételeitől eltérően aki
 
 a) 2016. január 1-jén bölcsődében, egységes óvoda-bölcsődében kisgyermeknevelőként pedagógus-munkakörben foglalkoztatott,
 
@@ -22,4 +22,4 @@ g) vállalja, hogy külön díjazás nélkül, a központi költségvetés álta
 
 (4) Az e § alapján Mesterpedagógus fokozatba besorolt kisgyermeknevelő besorolását azonnali hatállyal vissza kell vonni, ha önhibájából nem tesz eleget az (1) bekezdés g) pontjában meghatározott feladatok ellátására vonatkozó felkérésnek. A besorolás visszavonásakor a kisgyermeknevelőt a Mesterpedagógus fokozatba való besorolást megelőző fokozatba és a fizetési kategória megállapításához figyelembe vehető jogviszonyának megfelelő kategóriába kell besorolni.
 
-[^144]: A 36/A. §-t a 418/2015. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
+[^146]: A 36/A. §-t a 418/2015. (XII. 23.) Korm. rendelet 13. §-a iktatta be.
