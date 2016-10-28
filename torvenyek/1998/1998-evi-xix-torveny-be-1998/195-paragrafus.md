@@ -10,7 +10,15 @@
 
 (5) A panasz elbírálásáról a panaszt tevőt – a határozat hatályon kívül helyezése, illetőleg a megváltoztatása esetén azokat is, akikkel a határozatot közölték – értesíteni kell. A panaszt elbíráló határozat ellen további jogorvoslatnak – a (6) bekezdés eseteit kivéve – nincs helye.
 
-(6) A 70/B. § (8) bekezdése, a 149. § (3) bekezdése, a 150. § (2) bekezdése, a 151. § (4) bekezdése, valamint a 153. § (2) bekezdése szerinti határozat, továbbá a 151. § (2) bekezdése és a 155. § (1) bekezdése szerinti ügyészi határozat elleni panaszt elutasító határozat ellen a kézbesítéstől számított nyolc napon belül a határozatot hozó ügyészségnél felülbírálati indítvány terjeszthető elő, az ügyészség a felülbírálati indítványt az iratokkal és indítványával együtt három napon belül megküldi a bíróságnak.
+(6) A panaszt elbíráló ügyészségnél a kézbesítéstől számított nyolc napon belül felülbírálati indítvány terjeszthető elő
+
+a) a 70/B. § (8) bekezdése, a 149. § (3) bekezdése és a 150. § (2) bekezdése szerinti határozat elleni panaszt elutasító határozat ellen,
+
+b) a gyanúsított vagy a védő által a 185. § (3) bekezdés alapján a nyomozási cselekményről történő eltávolítás elrendelése elleni panaszt elbíráló, illetve a 185. § (4) bekezdés szerinti értesítést mellőző határozat elleni panaszt elutasító határozat ellen, valamint
+
+c) a 151. § (2) és (4) bekezdése, a 153. § (2) bekezdése és a 155. § (1) bekezdése szerinti ügyészi határozat elleni panaszt elutasító határozat ellen,
+
+amelyet az ügyészség az iratokkal és indítványával együtt három napon belül megküld a bíróságnak.
 
 (6a) Az őrizetbe vételt elrendelő határozat ellen tett panasz elbírását mellőzni kell, ha az ügyész a terhelt előzetes letartóztatásának elrendelésére indítványt tesz a bíróságnak.
 

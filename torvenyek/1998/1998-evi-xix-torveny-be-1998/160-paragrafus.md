@@ -15,7 +15,3 @@ e) a polgári jogi igény egyéb törvényes útra utasítása esetén az ügyé
 (3) Az 54. § (2a) bekezdése szerinti polgári jogi igénynek a Polgári perrendtartás szerint határkörrel és illetékességgel rendelkező bíróságnak történő megküldése esetén a zár alá vételt nem kell feloldani.
 
 (4) A zár alá vételt a vádirat benyújtásáig az ügyész is feloldhatja.
-
-X. CÍM
-
-AZ ELJÁRÁS RENDJÉNEK BIZTOSÍTÁSA

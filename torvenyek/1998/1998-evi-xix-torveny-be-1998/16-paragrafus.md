@@ -42,7 +42,7 @@ t) a különösen nagy vagy a különösen jelentős vagyoni hátrányt okozó k
 
 u) a pénzmosás (Btk. 399. §);
 
-v) a bennfentes kereskedelem (Btk. 410. §), a tőkebefektetési csalás (Btk. 411. §) és a piramisjáték szervezése (Btk. 412. §);
+v) a bennfentes kereskedelem (Btk. 410. §), a bennfentes információ jogosulatlan közzététele (Btk. 410/A. §), a tiltott piacbefolyásolás (Btk. 411. §) és a piramisjáték szervezése (Btk. 412. §);
 
 w) a katonai büntetőeljárás hatálya alá tartozó bűncselekmények;
 
