@@ -1,3 +1,3 @@
-30. §[^64]
+30. §[^67]
 
-[^64]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^67]: A 30. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
