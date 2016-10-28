@@ -1,6 +1,6 @@
 ## 6. A kibocsátó szerv adatbázisa és a központi adatbázis
 
-12. § (1) A kibocsátó szerv köteles az általa nyilvántartott lófélék egyedeiről adatbázist létrehozni és működtetni.
+12. § (1)[^33] A kibocsátó szerv köteles az általa nyilvántartott lófélék egyedeiről adatbázist létrehozni és működtetni, és az abban összegyűjtött információkat legalább 35 évig vagy a lóféle elpusztulásának bejelentésétől számított 3 évig megőrizni.
 
 (2) A kibocsátó szerv fogadja és rögzíti az adatbázisában
 
@@ -10,36 +10,21 @@ b) a vágásra került vagy elhullott lófélék lóútlevelét,
 
 c) a külföldre történő értékesítésről beérkezett jelentéseket.
 
-(3) A kibocsátó szerv az 504/2008/EK bizottsági rendelet 21. cikk (3) bekezdése alapján az adatrögzítésekkel egyidejűleg továbbítja a központi adatbázisba legalább a következő adatokat:
+(3)[^34] A kibocsátó szerv 15 napon belül továbbítja a központi adatbázisba a következő adatokat:
 
-a) életszám,
+a) a 2015/262/EU bizottsági végrehajtási rendelet 38. cikk (1) bekezdés a)–i) és l)–o) pontjában írt adatokat,
 
-b) faj,
+b) „lófélékhez tartozó törzskönyvezett egyed”, „lófélékhez tartozó, nem törzskönyvezett egyed”, „lófélékhez tartozó nyilvántartásba vett egyed” státuszt,
 
-c) nem,
+c) a 2015/262/EU bizottsági végrehajtási rendelet I. melléklet I. szakasz A rész, 3. pontja szerinti jegyleírást,
 
-d) szín, jegyleírás,
-
-e) születési dátum,
-
-f) a transzponder által hordozott kód utolsó 15 számjegye, vagy az 504/2008/EK bizottsági rendelet 2. cikk (2) bekezdés b) pontja szerinti szabványnak nem megfelelő azonosító készülékkel továbbított kód, valamint – ha van ilyen – az alternatív jelölésre vonatkozó információ (a jelölés módja, helye és az általa továbbított információk),
-
-g) az állat elhullásának bejelentett időpontja,
-
-h) az állattartó, és ha az állattartó személye eltér az állat tulajdonosától, az állat tulajdonosának neve, címe,
-
-i) a lóféle tartási helyének pontos megnevezése és címe,
-
-j) a fedeztetési jegyzőkönyv sorszáma és a jelölt lóféle származási adatai (apa törzskönyvi száma, neve, korábbi azonosítója, életszáma, anya korábbi azonosító száma, életszáma és neve),
-
-k) törzskönyvezett lóféle esetében a származás-ellenőrzés elrendelésének, illetve elvégzésének ténye,
-
-l) törzskönyvezett lóféle esetében a lóféle fajtája,
-
-m) a lóféle pontos születési dátuma, valamint tenyésztőjének neve és címe.
+d) a 6. § (3) bekezdés b), c), e) és f), pontja szerinti adatokat.
 
 (4) A Magyarország területére behozott lóféle esetében alkalmazni kell e rendeletnek a tartási hely és a tulajdonosváltozás bejelentésére vonatkozó előírásait, és az ilyen lófélét haladéktalanul be kell jelenteni. Az állat tulajdonosa vagy annak megbízásából az állattartó köteles
 
 a) a Magyarország területére az Európai Unió valamely tagállamából behozott lóféle esetében – az adatok központi adatbázisban történő rögzítése céljából – a lóféle útlevelét,
 
 b) a harmadik országból behozott lóféle esetében – a központi adatbázisba való felvétel és szükség szerint a lóútlevél kiállításának érdekében – a lóféle (3) bekezdése szerinti adatait
+
+[^33]: A 12. § (1) bekezdése a 320/2016. (X. 25.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^34]: A 12. § (3) bekezdése a 320/2016. (X. 25.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.

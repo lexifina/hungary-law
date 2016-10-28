@@ -8,58 +8,41 @@ b) a kibocsátó szervnek az adatok felvétele és a lóútlevél, valamint – 
 
 (2) A lóútlevelet a lóféle tulajdonosa, vagy annak megbízásából az állattartó, a lóféle megjelölésekor igényli a lóútlevél-igénylő lapnak a transzponder beültetését végző állatorvosnak vagy állatorvosi asszisztensnek, illetve a kibocsátó szervnek történő átadásával, a 4. § (4) bekezdésében foglaltak szerint.
 
-(3) A lóútlevél-igénylő laphoz csatolni kell a tulajdonosi nyilatkozatot, valamint a csikójelölési jegyzőkönyv egy példányát vagy hiteles másolatát, amely tartalmazza legalább
+(3)[^21] A lóútlevél-igénylő lap – amelyhez csatolni kell a tulajdonosi nyilatkozatot, valamint a csikójelölési jegyzőkönyv egy példányát vagy hiteles másolatát – tartalmazza
 
-a) a lóútlevélnek az 504/2008/EK bizottsági rendelet I. melléklete I. szakaszának A. és B. részében meghatározott adatait,
+a) a lóútlevélnek a 2015/262/EU bizottsági végrehajtási rendelet I. melléklet I. szakasz A., B. és – amennyiben az értelmezhető – C. részében meghatározott adatait;
 
-b) a lóféle faját,
+b) az állattartó, illetve ha az állattartó személye eltér az állat tulajdonosától, az állat tulajdonosának nevét, címét;
 
-c) az állattartó, illetve ha az állattartó személye eltér az állat tulajdonosától, az állat tulajdonosának nevét, címét,
+c) a lóféle tartási helyének megnevezését és címét;
 
-d) a lóféle tartási helyének megnevezését és címét,
+d) a csikójelölési jegyzőkönyv sorszámát és kitöltési dátumát;
 
-e) a lóféle nemét, színét,
+e) regisztrált fedeztetés esetén a fedeztetési jegyzőkönyv sorszámát és a jelölt lóféle származási adatait (a termékenyítés dátuma, apa törzskönyvi száma, neve, azonosító száma vagy életszáma, anya azonosító száma vagy életszáma és neve);
 
-f) a lóféle jelölésére vonatkozó adatokat (bélyegzés a testtáj meghatározásával, illetve transzponder kódja),
+f) törzskönyvezett lóféle esetében
 
-g) a lóféle ismertető jegyeinek szöveges leírását testtájankénti bontásban (fej, elülső bal láb, elülső jobb láb, hátulsó bal láb, hátulsó jobb láb, test, egyéb jegy),
+fa) a lóféle fajtáját,
 
-h) a lóféle ismertető jegyeinek lórajzon (lódiagramon) történő feltüntetését,
+fb) a tenyésztési program alapján esetlegesen elrendelt származás-ellenőrzésre vonatkozó adatokat,
 
-i) a lóféle életszámát és azonosító számát,
+fc) a lóféle tenyésztőjének nevét, címét.
 
-j) a lóféle jelölését és azonosítását végző személy vagy személyek aláírását és bélyegzőjét,
+(4)[^22] A 2015/262/EU bizottsági végrehajtási rendelet I. melléklete szerinti lóútlevél
 
-k) a jegyzőkönyv sorszámát és kitöltési dátumát,
+a) I. szakasza A., B. és C. részébe, IV.,V. és XI. szakaszába a kibocsátó szerv vagy megbízottja,
 
-l) regisztrált fedeztetés esetén a fedeztetési jegyzőkönyv sorszámát és a jelölt lóféle származási adatait (apa törzskönyvi száma és neve, anya azonosító száma és neve),
+b) II. szakaszába a tulajdonos, illetve a tulajdonos megbízásából az állat tartója és az eljáró állatorvos,
 
-m) a tenyésztési program alapján esetlegesen elrendelt származás-ellenőrzésre vonatkozó adatokat,
+c) III. szakaszába az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró járási hivatal, az élelmiszerlánc-biztonsági és állategészségügyi hatáskörében eljáró megyei kormányhivatal és a NÉBIH (a továbbiakban együtt: élelmiszerlánc-biztonsági és állategészségügyi hatóság),
 
-n) törzskönyvezett lóféle esetében a lóféle fajtáját,
+d) VI. szakaszába az élelmiszerlánc-biztonsági és állategészségügyi hatóság, a kezelő állatorvos, valamint az ellenőrzés helyéül szolgáló rendezvény rendezéséért felelős szakmai szervezet,
 
-o) regisztrált fedeztetésből született lóféle esetén
+e) VII. és VIII. szakaszába a kezelést végző állatorvos,
 
-oa) a lóféle pontos születési dátumát,
+f) IX. szakaszába a laboratóriumi vizsgálatot megrendelő állatorvos,
 
-ob) a lóféle tenyésztőjének nevét, címét.
+g) X. szakaszába az élelmiszerlánc-biztonsági és állategészségügyi hatóság
 
-(4) Az 504/2008/EK bizottsági rendelet I. melléklete szerinti lóútlevél
-
-a)[^2] I. szakasza A. és B. részébe, II. és III. szakaszába a kibocsátó szerv vagy megbízottja,
-
-b) IV. szakaszába az ellenőrzést végző hatóság, a NÉBIH, és az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró megyei kormányhivatal (a továbbiakban: élelmiszerlánc-biztonsági és állategészségügyi hatóság), a kezelő állatorvos, valamint az ellenőrzés helyéül szolgáló rendezvény rendezéséért felelős szakmai szervezet,
-
-c) V. és VI. szakaszába a kezelést végző állatorvos,
-
-d) VII. szakaszába a laboratóriumi vizsgálatot megrendelő állatorvos,
-
-e)[^3] VIII. szakaszába az élelmiszerlánc-biztonsági és állategészségügyi hatóság,
-
-f) IX. szakaszába a tulajdonos, illetve a tulajdonos megbízásából az állat tartója és az eljáró állatorvos,
-
-g)[^4] X. szakaszába az élelmiszerlánc-biztonsági és állategészségügyi hatóság
-
-[^2]: A 6. § (4) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 225. § a) pontja szerint módosított szöveg.
-[^3]: A 6. § (4) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 225. § b) pontja szerint módosított szöveg.
-[^4]: A 6. § (4) bekezdés g) pontja a 70/2015. (III. 30.) Korm. rendelet 225. § b) pontja szerint módosított szöveg.
+[^21]: A 6. § (3) bekezdése a 320/2016. (X. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^22]: A 6. § (4) bekezdése a 320/2016. (X. 25.) Korm. rendelet 5. §-ával megállapított szöveg.
