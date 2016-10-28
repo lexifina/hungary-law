@@ -54,7 +54,7 @@
 
 ## Határidő: a szerződéskötést követően azonnal
 
-## 8. visszavonja az egyes városi infrastruktúra-elemek megújítását szolgáló kormányzati intézkedésekről szóló 1118/2016. (III. 10.) Korm. határozat 13. pontját.
+## 8.[^1]
 
 1. melléklet az 1588/2016. (X. 27.) Korm. határozathoz
 
@@ -133,3 +133,5 @@
 | Nemzetgazdasági Minisztérium |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

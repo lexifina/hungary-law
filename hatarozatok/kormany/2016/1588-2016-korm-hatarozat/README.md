@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1588-30
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-10-27 | 2016-1588-30-22.1 | 1588/2016. (X. 27.) Korm. határozat |
+| 2016-10-28 | 2016-1588-30-22.2 | 2010: CXXX. törvény |
