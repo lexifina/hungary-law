@@ -18,7 +18,7 @@ af) az elítélt meghatározott tanulmányokat folytasson;
 
 ag) az elítélt – hozzájárulása esetén – meghatározott gyógykezelésnek vagy gyógyító eljárásnak vesse alá magát;
 
-ah) az elítélt, ha munkaképes – a lehetőségekhez képest – álljon munkaviszonyban, vagy egyéb kereső foglalkozást folytasson;
+ah)
 
 ai) az elítélt a munkahelyének és a lakóhelyének megváltoztatására irányuló szándékát a pártfogó felügyelőnek előzetesen jelentse be;
 

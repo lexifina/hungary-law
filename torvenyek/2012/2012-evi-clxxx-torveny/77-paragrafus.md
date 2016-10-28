@@ -22,4 +22,4 @@ i) a keresett személy gyermekkor miatt nem büntethető.
 
 (3) Az (1) bekezdés b)–f) pontjaiban meghatározott megtagadási okok fennállása esetén a nyomozási bíró a megtagadó határozat meghozatala előtt egyeztet a tagállami hatósággal, és azt felkérheti a döntéséhez szükséges tájékoztatás megadására.
 
-(4) A felügyeleti intézkedést elrendelő tagállami határozat elismerésének és végrehajtásának megtagadásáról a nyomozási bíró indokolt határozatot hoz, amelyet a tagállami hatóság részére haladéktalanul megküld. A határozat ellen jogorvoslatnak helye nincs.
+(4)

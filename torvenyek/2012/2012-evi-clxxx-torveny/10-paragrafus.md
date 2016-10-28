@@ -25,3 +25,5 @@ h) a bűncselekmény jogi minősítése,
 i) a bűncselekmény elkövetési helye és ideje, a keresett személy részvételének módja a bűncselekményben,
 
 j) a jogerősen kiszabott szabadságvesztés tartama, illetve a bűncselekmény miatt kiszabható szabadságvesztés tartamának felső határa.
+
+(4) A foganatosító szerv tájékoztatja a terheltet, hogy jogában áll az európai elfogatóparancsot kibocsátó tagállamban – annak szabályai szerint – ügyvédet megbízni, és ennek érdekében a kibocsátó tagállam illetékes hatóságától segítséget kérni. A terheltet tájékoztatni kell arról is, hogy a kibocsátó tagállamban megbízott ügyvédnek lehetősége van kapcsolatba lépni a terhelt védőjével, és ennek során információk rendelkezésre bocsátásával segítséget nyújtani a terhelt eljárási jogainak gyakorlásában. A foganatosító szerv a terheltnek a kibocsátó tagállambeli ügyvéd megbízásával kapcsolatos figyelmeztetését és nyilatkozatát jegyzőkönyvben rögzíti. Ha a terhelt a kibocsátó tagállamban ügyvédet kíván megbízni, a foganatosító szerv a terhelt nyilatkozatáról a miniszter útján haladéktalanul tájékoztatja a kibocsátó tagállami hatóságot.

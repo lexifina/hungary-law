@@ -40,6 +40,6 @@ c) az alternatív szankciót kiszabó tagállami határozat kézbesítése megt�
 
 (3) A bíróság az alternatív szankciót kiszabó tagállami határozat elismerését és végrehajtását nem tagadhatja meg az adókkal és az illetékekkel, a vámokkal és a devizával kapcsolatos bűncselekmények esetén amiatt, hogy a magyar jog nem ismer ugyanolyan adót, illetéket, valamint vámmal, illetve adóval, illetékkel azonos hatású díjat, vagy nem tartalmaz ugyanolyan típusú szabályokat az adó-, illeték-, valamint vám- és devizaszabályozás terén, mint a kibocsátó tagállam joga.
 
-(4) Az alternatív szankciót kiszabó tagállami határozat elismerésének és végrehajtásának megtagadásáról a bíróság indokolt határozatot hoz, amelyet a tagállami hatóság részére haladéktalanul megküld. A határozat meghozatala előtt – ha az szükséges – a bíróság egyeztet a tagállami hatósággal. A határozat ellen jogorvoslatnak helye nincs.
+(4)
 
 (5) A bíróság haladéktalanul tájékoztatja a tagállami hatóságot, ha az alternatív szankciót kiszabó tagállami határozat végrehajtásának megkezdése akadályba ütközik, különösen, ha az elítélt Magyarország területén lakóhellyel vagy tartózkodási hellyel már nem rendelkezik.

@@ -1,4 +1,4 @@
-140. § (1) A bíróság az alternatív szankciót kiszabó tagállami határozat elismeréséről és végrehajtásáról hozott határozatát megküldi a tagállami hatóságnak.
+140. § (1)
 
 (2) A bíróság a határozatában az 137. § (2) bekezdése szerint állapítja meg az adott bűncselekményre alkalmazandó magatartási szabályt vagy alternatív szankciót, és ennek megfelelően rendelkezik ennek végrehajtásáról úgy, hogy az a lehető legnagyobb mértékben megfeleljen annak a magatartási szabálynak vagy alternatív szankciónak, amelyet a tagállami határozat tartalmaz.
 
