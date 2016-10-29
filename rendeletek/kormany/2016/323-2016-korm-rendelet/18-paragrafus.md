@@ -1,3 +1,5 @@
-## 17. § A régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló 39/2015. (III. 11.) Korm. rendelet 63. § (3) bekezdésében a „miniszter” szövegrész helyébe a „Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ” szöveg lép.
+## 17. §[^3]
 
 ## 4. Záró rendelkezések
+
+[^3]: A 17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
