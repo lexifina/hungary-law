@@ -130,21 +130,7 @@
 
 ## Növényvédelmi gépek felülvizsgálata[^107]
 
-## 1.[^108] A felülvizsgálatot az Intézet tanúsítványával rendelkező állomások végezhetik. A felülvizsgálatra kerülő növényvédelmi gépekkel szemben támasztott követelményeket, az ellenőrzési és vizsgálati módszereket, a felülvizsgálatok során alkalmazandó mérőeszközök és vizsgálóberendezések jellemzőit, továbbá a felülvizsgálatról készítendő jegyzőkönyv mintáját a 9. függelék tartalmazza.
-
-## 2. Az állomás működése akkor tanúsítható, ha
-
-## a) legalább középfokú szakirányú végzettséggel rendelkező, továbbá az Intézet által szervezett rendszeres képzésen részt vevő vezetővel,
-
-## b) a feladatra célirányosan felkészített, legalább 1 fő szakmunkással,
-
-## c) a 9. függelék szerinti mérőberendezésekkel és eszközökkel rendelkezik.
-
-## 3.[^109] A növényvédelmi gépek felülvizsgálatára szóló jogosultság megszerzéséhez a 7. függelék szerinti pályázati űrlapot kell benyújtani az Intézethez, amely a kérelem alapján kiadja a 8. függelékben foglalt tanúsítványt meghatározott díj befizetését követően.
-
-## 4.[^110] Felülvizsgálatra a növényvédelmi gép tulajdonosának a növényvédelmi gép működési engedélyének lejártát megelőzően kell jelentkeznie. A jelentkezést az állomás címére kell beküldeni, amely értesíti a növényvédelmi gép tulajdonosát a felülvizsgálat időpontjáról. A felülvizsgálat elvégzéséig a növényvédelmi gép rendeltetés szerint használható.
-
-## 5.[^111] Ha a felülvizsgálat eredménye megfelelő, az állomás kiadja a 10. függelék szerinti, a növényvédelmi gép működési engedélyét igazoló matricát. Ha a növényvédelmi gép állapota a felülvizsgálat eredménye alapján nem megfelelő, a növényvédelmi gép működési engedélyt nem kaphat.
+## 1–5.[^108]
 
 ## 1. függelék
 
@@ -403,7 +389,4 @@ A gyorsan kopó alkatrészeknek hozzáférhetőeknek és cserélhetőeknek kell 
 [^105]: A 3. melléklet címe a 46/2012. (V. 8.) VM rendelet 4. § b) pontja szerint módosított szöveg.
 [^106]: A 3. melléklet 1. pontját a 46/2012. (V. 8.) VM rendelet 6. §-a hatályon kívül helyezte.
 [^107]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcíme a 46/2012. (V. 8.) VM rendelet 4. § c) pontja szerint módosított szöveg.
-[^108]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 1. pontja a 46/2012. (V. 8.) VM rendelet d) pontja szerint módosított szöveg.
-[^109]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 3. pontja a 46/2012. (V. 8.) VM rendelet e) pontja szerint módosított szöveg.
-[^110]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 4. pontja a 46/2012. (V. 8.) VM rendelet f) pontja szerint módosított szöveg.
-[^111]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 5. pontja a 46/2012. (V. 8.) VM rendelet f) pontja szerint módosított szöveg.
+[^108]: A 3. melléklet „Növényvédelmi gépek felülvizsgálata” alcím 1–5. pontját a 71/2016. (X. 28.) FM rendelet 2. §-a hatályon kívül helyezte.

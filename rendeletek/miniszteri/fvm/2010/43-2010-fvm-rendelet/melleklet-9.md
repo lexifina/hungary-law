@@ -1,4 +1,4 @@
-9. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^124]
+9. melléklet a 43/2010. (IV. 23.) FVM rendelethez[^118]
 
 ## A növényvédelmi munkavégzésre irányuló szerződésekről szóló bejelentés adattartalma
 
@@ -16,4 +16,4 @@
 
 5. a szerződés kötésének és – amennyiben a felek arról megállapodtak – megszűnésének ideje.
 
-[^124]: A 9. mellékletet a 84/2015. (XII. 17.) FM rendelet 13. § (3) bekezdése iktatta be.
+[^118]: A 9. mellékletet a 84/2015. (XII. 17.) FM rendelet 13. § (3) bekezdése iktatta be.

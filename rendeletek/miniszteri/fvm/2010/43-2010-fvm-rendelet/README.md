@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-43-20-8
 | 2014-03-13 | 2010-43-20-82.11 | 70/2013. (VII. 31.) VM rendelet |
 | 2015-12-25 | 2010-43-20-82.12 | 84/2015. (XII. 17.) FM rendelet |
 | 2016-01-01 | 2010-43-20-82.13 | 84/2015. (XII. 17.) FM rendelet |
+| 2016-10-29 | 2010-43-20-82.14 | 71/2016. (X. 28.) FM rendelet |
