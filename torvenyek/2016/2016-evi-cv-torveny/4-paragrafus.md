@@ -13,11 +13,3 @@ d) a Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás (SzMGSz) és 
 e) a Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás (SzMGSz) és Mellékletei 2014. évi módosításának kihirdetéséről szóló 2014. évi LXVII. törvény.
 
 (3) E törvény végrehajtásához szükséges intézkedésekről a közlekedésért felelős miniszter gondoskodik.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Dr. Latorcai János s. k.,
-
-az Országgyűlés alelnöke
