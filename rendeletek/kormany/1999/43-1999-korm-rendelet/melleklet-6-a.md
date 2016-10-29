@@ -1,28 +1,28 @@
-| millió forint |
+|  |  |  | millió forint |
 
 |  | Megnevezés | 2016. évi előirányzat |
 
 |  | Háziorvosi, háziorvosi ügyeleti ellátás |  |
 
-|  | Praxisfinanszírozás | 106 292,0 |
+|  |  | Praxisfinanszírozás | 106 292,0 |
 
-| Eseti ellátás díjazása | 649,3 |
+|  |  | Eseti ellátás díjazása | 649,3 |
 
-| Ügyeleti szolgálat | 10 106,2 |
+|  |  | Ügyeleti szolgálat | 10 106,2 |
 
 | 1. | Háziorvosi, háziorvosi ügyeleti ellátás összesen | 117 047,5 |
 
 |  | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem |  |
 
-|  | Iskolaegészségügyi ellátás | 2 317,1 |
+|  |  | Iskolaegészségügyi ellátás | 2 317,1 |
 
-| Védőnői ellátás | 22 009,8 |
+|  |  | Védőnői ellátás | 22 009,8 |
 
-| Anya-, gyermek- és csecsemővédelem | 483,4 |
+|  |  | Anya-, gyermek- és csecsemővédelem | 483,4 |
 
-| MSZSZ: gyermekgyógyászat | 121,6 |
+|  |  | MSZSZ: gyermekgyógyászat | 121,6 |
 
-| MSZSZ: nőgyógyászat | 96,3 |
+|  |  | MSZSZ: nőgyógyászat | 96,3 |
 
 | 2. | Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem összesen | 25 028,2 |
 
@@ -38,55 +38,55 @@
 
 |  | Célelőirányzatok |  |
 
-|  | Méltányossági alapon történő térítések | 5 611,3 |
+|  |  | Méltányossági alapon történő térítések | 5 611,3 |
 
-| Alapellátási vállalkozás támogatási átalánydíj | 55,0 |
+|  |  | Alapellátási vállalkozás támogatási átalánydíj | 55,0 |
 
-| Tartósan betöltetlen háziorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása | 750,0 |
+|  |  | Tartósan betöltetlen háziorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása | 750,0 |
 
-| Tervezett külföldi ellátások orvosi felülvizsgálata | 20,0 |
+|  |  | Tervezett külföldi ellátások orvosi felülvizsgálata | 20,0 |
 
-| Egészségügyi dolgozók béremelésének fedezete | 41 602,0 |
+|  |  | Egészségügyi dolgozók béremelésének fedezete | 41 602,0 |
 
-| Az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése | 8 600,0 |
+|  |  | Az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése | 8 600,0 |
 
-| Egészségügyi dolgozók mozgóbér elemeinek támogatása | 7 779,0 |
+|  |  | Egészségügyi dolgozók mozgóbér elemeinek támogatása | 7 779,0 |
 
-| Fiatal szakorvosok támogatása | 2 520,0 |
+|  |  | Fiatal szakorvosok támogatása | 2 520,0 |
 
-| Egészségügyi dolgozók 2016. évi béremelésének fedezete | 19 200,0 |
+|  |  | Egészségügyi dolgozók 2016. évi béremelésének fedezete | 19 200,0 |
 
 | 13. | Célelőirányzatok összesen | 86 137,3 |
 
-| 15. | Mentés | 30 255,1 |
+| 15. | Mentés |  | 30 255,1 |
 
 | 17. | Laboratóriumi ellátás | 22 002,4 |
 
 |  | Összevont szakellátás |  |
 
-|  | Járóbeteg szakellátás | 128 656,6 |
+|  |  | Járóbeteg szakellátás | 128 656,6 |
 
-| Fekvőbeteg szakellátás | 445 419,2 |
+|  |  | Fekvőbeteg szakellátás | 445 419,2 |
 
-| – aktív fekvőbeteg szakellátás | 373 989,1 |
+|  |  | - aktív fekvőbeteg szakellátás | 373 989,1 |
 
-| – krónikus fekvőbeteg szakellátás | 65 380,3 |
+|  |  | - krónikus fekvőbeteg szakellátás | 65 380,3 |
 
-| – bázis finanszírozású szakellátás (BVOP) | 1 049,8 |
+|  |  | - bázis finanszírozású szakellátás (BVOP) | 1 049,8 |
 
-| – várólista csökkentés és egyéb szakmapolitikai célok | 5 000,0 |
+|  |  | - várólista csökkentés és egyéb szakmapolitikai célok | 5 000,0 |
 
-| Extrafinanszírozás | 1 000,0 |
+|  |  | Extrafinanszírozás | 1 000,0 |
 
-| Speciális finanszírozású szakellátás | 78 780,7 |
+|  |  | Speciális finanszírozású szakellátás | 87 268,7 |
 
-| 18. | Összevont szakellátás összesen | 653 856,5 |
+| 18. | Összevont szakellátás összesen | 662 344,5 |
 
 | 21. | Gyógyító-megelőző ellátás céltartalék | 3 321,3 |
 
 | 22. | Alapellátás megújításának II. üteme | 0,0 |
 
-| Összesen |  | 1 001 559,9 |
+| Összesen |  |  | 1 010 047,9 |
 
 6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^578]
 
