@@ -1,6 +1,6 @@
 ## Az MVH eljárása
 
-## 4. §[^5] Az MVH döntései ellen irányuló jogorvoslati kérelmet a következő ügyekben a miniszter bírálja el:
+## 4. §[^6] Az MVH döntései ellen irányuló jogorvoslati kérelmet a következő ügyekben az agrárpolitikáért felelős miniszter bírálja el:
 
 a) az Agrár- és Vidékfejlesztési Operatív Programmal és a Halászati Orientációs Pénzügyi Eszközzel kapcsolatos jogorvoslati eljárás,
 
@@ -36,4 +36,4 @@ p) a Mezőgazdasági Parcella Azonosító Rendszer (MePAR) változásvezetéssel
 
 q) a nem hatósági eljárásban az MVH kirendeltségei által hozott döntések, elállási nyilatkozatok ellen benyújtott kifogások.
 
-[^5]: A 4. §-t a 91/2009. (IV. 22.) Korm. rendelet 8. § (3) bekezdése hatályon kívül helyezte, újonnan a 167/2014. (VII. 17.) Korm. rendelet 5. §-a iktatta be, szövege a 177/2015. (VII. 7.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 4. §-t újonnan a 167/2014. (VII. 17.) Korm. rendelet 5. §-a iktatta be, szövege a 177/2015. (VII. 7.) Korm. rendelet 2. § (1) bekezdésével megállapított, nyitó szövegrésze a 328/2016. (X. 28.) Korm. rendelet 10. §-a szerint módosított szöveg.

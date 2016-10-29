@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-256-20-
 | 2015-04-01 | 2007-256-20-22.25 | 232/2011. (XI. 8.) Korm. rendelet |
 | 2015-07-08 | 2007-256-20-22.26 | 91/2009. (IV. 22.) Korm. rendelet |
 | 2016-10-25 | 2007-256-20-22.27 | 316/2016. (X. 24.) Korm. rendelet |
+| 2016-10-29 | 2007-256-20-22.28 | 328/2016. (X. 28.) Korm. rendelet |
