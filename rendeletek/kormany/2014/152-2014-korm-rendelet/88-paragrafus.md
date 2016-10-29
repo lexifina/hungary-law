@@ -1,6 +1,6 @@
-88. § (1)[^75]
+88. § (1)[^76]
 
-(2)[^76] A miniszter a külgazdasági ügyekért való felelőssége keretében
+(2)[^77] A miniszter a külgazdasági ügyekért való felelőssége keretében
 
 a) kialakítja a Kormány külgazdasági politikáját,
 
@@ -18,12 +18,12 @@ fa) a Kormány feladatkörében érintett tagjával együttműködve kialakítja
 
 fb) gondoskodik a nemzetközi kereskedelempolitikai kötelezettségek és a hazai jogi szabályozás összhangjának megőrzéséről,
 
-g)[^77]
+g)[^78]
 
 h) koordinálja az Európai Duna Stratégiával kapcsolatos kormányzati feladatokat, ellátja a Régiók Bizottsága tevékenységével kapcsolatos koordinációs feladatokat,
 
 i) felel a külgazdasági diplomata hálózat irányításáért, kezdeményezi a szakdiplomaták kinevezését és felmentését.
 
-[^75]: A 88. § (1) bekezdését a 353/2015. (XI. 26.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
-[^76]: A 88. § (2) bekezdése az 1/2015. (I. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^77]: A 88. § (2) bekezdés g) pontját a 353/2015. (XI. 26.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^76]: A 88. § (1) bekezdését a 353/2015. (XI. 26.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^77]: A 88. § (2) bekezdése az 1/2015. (I. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^78]: A 88. § (2) bekezdés g) pontját a 353/2015. (XI. 26.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte.

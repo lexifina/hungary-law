@@ -18,4 +18,8 @@ h) tárgyalásokat folytat – a Kormány európai uniós források felhasznál�
 
 i) biztosítja az európai uniós fejlesztési programok összehangolt végrehajtását és a programokból nyújtott támogatások igénylésével és felhasználásával kapcsolatos eljárásrend egységes alkalmazását,
 
-j) gondoskodik a hazai források és az európai uniós források tekintetében az Európai Unió működéséről szóló Szerződés 107. cikk (1) bekezdésének hatálya alá tartozó állami támogatások versenyszempontú vizsgálatáról.
+j) gondoskodik a hazai források és az európai uniós források tekintetében az Európai Unió működéséről szóló Szerződés 107. cikk (1) bekezdésének hatálya alá tartozó állami támogatások versenyszempontú vizsgálatáról,
+
+k)[^23] ellátja az Európai Unió közös agrárpolitikájának finanszírozásával kapcsolatos illetékes hatósági feladatokat.
+
+[^23]: A 12. § k) pontját a 328/2016. (X. 28.) Korm. rendelet 19. § (1) bekezdése iktatta be.

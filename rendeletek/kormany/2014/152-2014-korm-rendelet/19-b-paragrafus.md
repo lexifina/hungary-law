@@ -1,4 +1,4 @@
-## II/A. Fejezet[^29]
+## II/A. Fejezet[^30]
 
 ## ÁLTALÁNOS POLITIKAI KOORDINÁCIÓ
 
@@ -20,4 +20,4 @@ e) a Kossuth-díj, a Széchenyi-díj adományozásának rendjéről, valamint a 
 
 tekintetében a Kormány kormányzati tevékenység összehangolásáért felelős tagja.
 
-[^29]: A II/A. fejezetet (19/B–19/D. §) a 306/2015. (X. 26.) Korm. rendelet 8. §-a iktatta be.
+[^30]: A II/A. fejezetet (19/B–19/D. §) a 306/2015. (X. 26.) Korm. rendelet 8. §-a iktatta be.

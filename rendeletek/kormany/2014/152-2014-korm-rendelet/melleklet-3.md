@@ -110,7 +110,7 @@
 
 ## átadó
 
-3. melléklet a 152/2014. (VI. 6.) Korm. rendelethez[^135]
+3. melléklet a 152/2014. (VI. 6.) Korm. rendelethez[^136]
 
 A kormányzati munkamegosztás átalakulása a postaügyért és a nemzeti pénzügyi szolgáltatásokért viselt felelősség tekintetében
 
@@ -120,4 +120,4 @@ A kormányzati munkamegosztás átalakulása a postaügyért és a nemzeti pénz
 
 3. Ennek megfelelően a továbbiakban a vagyonpolitika tekintetében – ideértve a postaügyet és a Magyar Fejlesztési Bankot is – a kormányzati tevékenység összehangolásáért a nemzeti fejlesztési miniszter a felelős.
 
-[^135]: A 3. mellékletet a 236/2016. (VII. 29.) Korm. rendelet 7. §-a iktatta be.
+[^136]: A 3. mellékletet a 236/2016. (VII. 29.) Korm. rendelet 7. §-a iktatta be.

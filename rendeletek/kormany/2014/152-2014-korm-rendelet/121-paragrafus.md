@@ -1,3 +1,3 @@
-121. §[^115]
+121. §[^116]
 
-[^115]: A 121. §-t a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^116]: A 121. §-t a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.

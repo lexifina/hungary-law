@@ -50,13 +50,13 @@
 
 24. személyiadat- és lakcímnyilvántartásért,
 
-25.[^31]
+25.[^32]
 
 26. terrorizmus elleni küzdelemért,
 
-27.[^32]
+27.[^33]
 
-28.[^33] településüzemeltetésért, kéményseprő-ipari tevékenységért,
+28.[^34] településüzemeltetésért, kéményseprő-ipari tevékenységért,
 
 29. vízgazdálkodásért,
 
@@ -66,6 +66,6 @@
 
 felelős tagja.
 
-[^31]: A 21. § 25. pontját a 186/2016. (VII. 13.) Korm. rendelet 12. §-a hatályon kívül helyezte.
-[^32]: A 21. § 27. pontját a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.
-[^33]: A 21. § 28. pontja a 99/2016. (V. 13.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését.
+[^32]: A 21. § 25. pontját a 186/2016. (VII. 13.) Korm. rendelet 12. §-a hatályon kívül helyezte.
+[^33]: A 21. § 27. pontját a 221/2014. (IX. 4.) Korm. rendelet 836. § (2) bekezdése hatályon kívül helyezte.
+[^34]: A 21. § 28. pontja a 99/2016. (V. 13.) Korm. rendelet 10. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 5. § (2) bekezdését.

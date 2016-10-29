@@ -24,15 +24,15 @@
 
 11. informatikáért,
 
-12.[^101]
+12.[^102]
 
 13. közlekedésért,
 
 14. nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért,
 
-15.[^102] nemzeti pénzügyi szolgáltatásokért,
+15.[^103] nemzeti pénzügyi szolgáltatásokért,
 
-15a.[^103] postaügyért,
+15a.[^104] postaügyért,
 
 16. területfejlesztésért,
 
@@ -40,14 +40,14 @@
 
 18. víziközmű-szolgáltatásért,
 
-19.[^104] turizmusért,
+19.[^105] turizmusért,
 
-20.[^105] vendéglátásért
+20.[^106] vendéglátásért
 
 felelős tagja.
 
-[^101]: A 109. § 12. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
-[^102]: A 109. § 15. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte, újonnan a 236/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^103]: A 109. § 15a. pontját a 236/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^104]: A 109. § 19. pontját a 87/2016. (IV. 25.) Korm. rendelet 1. §-a iktatta be.
-[^105]: A 109. § 20. pontját a 87/2016. (IV. 25.) Korm. rendelet 1. §-a iktatta be.
+[^102]: A 109. § 12. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
+[^103]: A 109. § 15. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte, újonnan a 236/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^104]: A 109. § 15a. pontját a 236/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^105]: A 109. § 19. pontját a 87/2016. (IV. 25.) Korm. rendelet 1. §-a iktatta be.
+[^106]: A 109. § 20. pontját a 87/2016. (IV. 25.) Korm. rendelet 1. §-a iktatta be.
