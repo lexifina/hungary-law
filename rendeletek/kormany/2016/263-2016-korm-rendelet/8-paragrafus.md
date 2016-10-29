@@ -1,0 +1,3 @@
+8. § (1) A fizetési-számlaszerződés megszüntetésének és a felek közötti elszámolásnak nem lehet akadálya, hogy a fogyasztó a fizetési számlát szolgáltatáscsomagban veszi igénybe, vagy a fogyasztó és a korábbi számlavezető pénzforgalmi szolgáltató között egyéb üzleti kapcsolat is fennáll, ide nem értve a jogszabályban kifejezetten megengedett árukapcsolás esetét.
+
+(2) A korábbi számlavezető pénzforgalmi szolgáltató a számlaváltási meghatalmazásban megadott dátumot megelőzően, a fogyasztó számára nyújtott pénzforgalmi szolgáltatás zökkenőmentessége érdekében a jogszabályban, uniós jogi aktusban vagy keretszerződésben meghatározott esetek kivételével nem tilthatja le a fizetési számlához tartozó készpénz-helyettesítő fizetési eszközöket.
