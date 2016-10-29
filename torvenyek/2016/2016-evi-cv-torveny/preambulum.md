@@ -1,0 +1,1 @@
+(A Nemzetközi Vasúti Árufuvarozásról szóló Megállapodás és Mellékleteinek 2015. évi módosításai Magyarország vonatkozásában 2015. július 1-jén léptek nemzetközi jogilag hatályba, 2016. évi módosításai 2016. július 1-jén léptek nemzetközi jogilag hatályba.)
