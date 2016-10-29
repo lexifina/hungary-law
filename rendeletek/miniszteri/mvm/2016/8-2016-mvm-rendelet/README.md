@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-8-20-6N
 | 2016-03-26 | 2016-8-20-6N.1 | 8/2016. (III. 25.) MvM rendelet |
 | 2016-03-27 | 2016-8-20-6N.2 | 2010: CXXX. törvény |
 | 2016-08-25 | 2016-8-20-6N.3 | 23/2016. (VIII. 24.) MvM rendelet |
+| 2016-10-29 | 2016-8-20-6N.4 | 23/2016. (VIII. 24.) MvM rendelet |
