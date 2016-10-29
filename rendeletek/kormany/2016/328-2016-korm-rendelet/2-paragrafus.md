@@ -1,0 +1,3 @@
+2. § (1) A mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 9. § c) pontja szerinti illetékes hatósági feladatok tekintetében a Miniszterelnökség a Földművelésügyi Minisztérium jogutódja.
+
+(2) Az MVH feletti irányítási jogok a Mezőgazdasági és Vidékfejlesztési Hivatalról szóló 256/2007. (X. 4.) Korm. rendelet, valamint a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet módosításáról szóló 316/2016. (X. 24.) Korm. rendelet szerinti átadásával összefüggő feladatok tekintetében a Miniszterelnökség a Földművelésügyi Minisztérium jogutódja.
