@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-103-00-00
 | --- | --- | --- |
 | 2016-10-28 | 2016. évi CIII. törvény | 2016-103-00-00.0 (közlönyállapot) |
 | 2016-10-28 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-103-00-00.1 |
+| 2016-10-29 | 2010. évi CXXX. törvény | 2016-103-00-00.2 |
