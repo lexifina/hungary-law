@@ -1,6 +1,4 @@
-## 17. § A Korm. rendelet 10. §-a a következő (1a) bekezdéssel egészül ki:
-
-## „(1a) Az egységes államigazgatási telefonos és elektronikus ügyfélszolgálatnál ügyfélszolgálati munkakörben foglalkoztatott kormánytisztviselő továbbképzési kötelezettsége a próbaidő leteltét követő napon kezdődik.”
+## 15–17. §[^1]
 
 1. melléklet a 321/2016. (X. 27.) Korm. rendelethez
 
@@ -29,3 +27,5 @@ P. H.
 közigazgatási minőségpolitikáért
 
 és személyzetpolitikáért felelős miniszter
+
+[^1]: A 15–17. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
