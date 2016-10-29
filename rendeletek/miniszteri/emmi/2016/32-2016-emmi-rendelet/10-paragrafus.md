@@ -1,4 +1,4 @@
-## 9. §[^13]
+## 9. §[^14]
 
 ## 6. Záró rendelkezések
 
@@ -8,4 +8,4 @@
 
 (3) Az 1. § (4) bekezdése, az 5. § (4) és (6) bekezdése, a 4. melléklet, a 18. melléklet és a 20. melléklet 2017. január 1-jén lép hatályba.
 
-[^13]: A 9. § a 10. § (2) bekezdése alapján 2016. november 1-jén lép hatályba.
+[^14]: A 9. § a 10. § (2) bekezdése alapján 2016. november 1-jén lép hatályba.

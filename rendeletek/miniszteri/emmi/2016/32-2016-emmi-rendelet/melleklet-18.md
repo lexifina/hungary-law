@@ -1,3 +1,3 @@
-18. melléklet a 32/2016. (X. 27.) EMMI rendelethez[^18]
+18. melléklet a 32/2016. (X. 27.) EMMI rendelethez[^20]
 
-[^18]: A 18. melléklet a 10. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^20]: A 18. melléklet a 10. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.

@@ -4,22 +4,23 @@
 
 5. § (1)[^6]
 
-(2) Az R3. 2. melléklete a 16. melléklet szerint módosul.
+(2)[^7]
 
-(3)[^7]
+(3)[^8]
 
-(4)[^8]
+(4)[^9]
 
-(5)[^9]
+(5)[^10]
 
-(6)[^10]
+(6)[^11]
 
-(7)[^11]
+(7)[^12]
 
 [^5]: A 4. § a 10. § (2) bekezdése alapján 2016. november 1-jén lép hatályba.
 [^6]: Az 5. § (1) bekezdése a 10. § (2) bekezdése alapján 2016. november 1-jén lép hatályba.
-[^7]: Az 5. § (3) bekezdése a 10. § (2) bekezdése alapján 2016. november 1-jén lép hatályba.
-[^8]: Az 5. § (4) bekezdése a 10. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^9]: Az 5. § (5) bekezdése a 10. § (2) bekezdése alapján 2016. november 1-jén lép hatályba.
-[^10]: Az 5. § (6) bekezdése a 10. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^11]: Az 5. § (7) bekezdése a 10. § (2) bekezdése alapján 2016. november 1-jén lép hatályba.
+[^7]: Az 5. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: Az 5. § (3) bekezdése a 10. § (2) bekezdése alapján 2016. november 1-jén lép hatályba.
+[^9]: Az 5. § (4) bekezdése a 10. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^10]: Az 5. § (5) bekezdése a 10. § (2) bekezdése alapján 2016. november 1-jén lép hatályba.
+[^11]: Az 5. § (6) bekezdése a 10. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^12]: Az 5. § (7) bekezdése a 10. § (2) bekezdése alapján 2016. november 1-jén lép hatályba.
