@@ -1,5 +1,5 @@
-## 15. §[^10]
+## 15. §[^11]
 
 ## 13. Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosítása
 
-[^10]: A 15. § a 26. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^11]: A 15. § a 26. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
