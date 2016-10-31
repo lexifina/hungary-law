@@ -6,4 +6,6 @@ a) egyetemi végzettség, vagy mesterfokozat és vasúti közlekedési szakterü
 
 b) főiskolai végzettség, vagy alapfokozat és vasúti közlekedési szakterületen szerzett legalább ötéves gyakorlat, és
 
-c) balesetvizsgáló tanfolyam elvégzése a közlekedésbiztonsági szervnél, képzőszervezetnél vagy oktatási intézményben legalább 160 óra időtartamban, a közlekedésbiztonsági szervvel egyeztetett tanterv szerint.
+c)[^1] a közlekedésbiztonsági szerv által nyilvántartásba vett képzőszervezet által szervezett balesetvizsgáló tanfolyam sikeres elvégzése, a balesetvizsgálói tevékenység megkezdését megelőző 5 éven belül.
+
+[^1]: A 11. § c) pontja a 33/2016. (VIII. 2.) NFM rendelet 37. §-ával megállapított szöveg.
