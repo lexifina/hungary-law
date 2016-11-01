@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-31-20-0
 | 2015-08-18 | 2010-31-20-0B.10 | 38/2015. (VIII. 17.) EMMI rendelet |
 | 2016-01-01 | 2010-31-20-0B.11 | 59/2015. (XII. 30.) EMMI rendelet |
 | 2016-08-01 | 2010-31-20-0B.12 | 59/2015. (XII. 30.) EMMI rendelet |
+| 2016-11-01 | 2010-31-20-0B.13 | 59/2015. (XII. 30.) EMMI rendelet |
