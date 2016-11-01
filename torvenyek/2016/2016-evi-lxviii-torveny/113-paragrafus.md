@@ -1,0 +1,17 @@
+## 74. Közlekedéshez kapcsolódó adó-visszaigénylés
+
+113. § (1) A vasúti közlekedésről szóló törvény szerinti vasúti személyszállítási vagy vasúti árutovábbítási tevékenységet végző személy jogosult az e tevékenységéhez, valamint az e tevékenységhez kapcsolódóan végzett vasúti vontatáshoz, tolatáshoz felhasznált gázolaj adójának visszaigénylésére.
+
+(2) Az üzemben tartóként nyilvántartott személy jogosult a víziközlekedésről szóló törvény szerinti úszómunkagépben felhasznált gázolaj adójából literenként 103 forint visszaigénylésére.
+
+(3) A közúti járművek műszaki megvizsgálásáról szóló miniszteri rendeletben meghatározott M2 járműkategóriába és M3 járműkategóriába tartozó autóbuszokat a helyi és helyközi közlekedésében üzemeltető személy jogosult az e tevékenységéhez felhasznált földgáz adójának visszaigénylésére.
+
+(4) Az állami vagy helyi önkormányzati feladatot, valamint jogszabályban meghatározott egyéb közfeladatot ellátó szerv jogosult a közfeladat ellátásával közvetlen összefüggésben közlekedési célra felhasznált földgáz adójának visszaigénylésére.
+
+(5) A 3. § (2) bekezdés 21. pontja szerinti jármű üzembentartója vagy – bérelt jármű esetében – bérlője jogosult
+
+a) az üzemanyagtöltő-állomáson üzemanyagkártyával megvásárolt, vagy
+
+b) belföldi telephelyén üzemanyag-tárolásra rendszeresített üzemanyag-tankoló automatával ellátott tartályból elektronikus mérőeszközön keresztül betöltött
+
+kereskedelmi gázolaj után a 110. § (1) bekezdés c) pont ca) alpontja szerinti adómérték alkalmazása esetén literenként 7 forint, a 110. § (1) bekezdés c) pont cb) lpontja szerinti adómérték alkalmazása esetén literenként 17 Ft visszaigénylésére.

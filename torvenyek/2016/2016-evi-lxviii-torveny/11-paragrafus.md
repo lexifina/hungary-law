@@ -1,0 +1,5 @@
+11. § (1) Ha a belföldtől eltérő helyen szabadforgalomba bocsátott jövedéki termék tagállamok közötti kereskedelmi célú és csomagküldő kereskedelem keretében végzett szállítása során szabálytalanság történik, és a szabálytalanság elkövetésének helye belföld, az adókötelezettség és az adófizetési kötelezettség belföldön keletkezik.
+
+(2) Ha a szabadforgalomba bocsátott jövedéki termék tagállamok közötti kereskedelmi célú és csomagküldő kereskedelem keretében végzett szállítása során történt szabálytalanság elkövetési helye nem állapítható meg, de az észlelése belföldön történt, úgy kell tekinteni, hogy a szabálytalanságot belföldön követték el.
+
+(3) Ha a (2) bekezdés szerinti esetben a jövedéki termék beszerzését követő három éven belül bizonyítottá válik, hogy a szabálytalanság elkövetésének helye belföldtől eltérő hely, az állami adó- és vámhatóság intézkedik a belföldön megfizetett adó visszatérítése vagy levonása iránt azt követően, hogy a szabálytalanság elkövetése szerinti tagállamban az adót megfizették.
