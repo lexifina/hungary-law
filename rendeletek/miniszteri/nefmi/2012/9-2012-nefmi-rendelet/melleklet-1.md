@@ -126,6 +126,10 @@ Ha az elszámolhatósági feltételek a 3. mellékletben nem kerülnek feltünte
 
 | 66. | d., egy személyre nem ismétlődhet | egy személyre nem ismétlődhet |
 
+5.1. Az orvosi munkahelyen a szakmai kompetencia szerinti elszámolhatósági korlátok
+
+A 2. melléklet tartalmazza a kompetencia listát. Az eljárást azon szakmák számára lehet elszámolni, amelyek rovatában az OENO kód sorában „O” vagy „X” jelzés található. Az „X” jelzés az eljárás paramétereinek meghatározásában a felelős szakmát jelöli.
+
 6. Kiemelt szakterületek elszámolására vonatkozó általános szabályok
 
 6.1. Gyógytornász, gyógymasszőr és fizioterápiás szakdolgozó által végezhető egészségügyi eljárások
@@ -559,4 +563,4 @@ A „11041 Vizsgálat” és „11042 Vizsgálat a rendelőn kívül” egészs�
 | 22. | Urológia | Részletes anamnézis felvétele mellett teljeskörű fizikális vizsgálat, mely a következőkből áll: a vesék, a hólyag, a herék, a mellékherék vizsgálata, a prosztata vizsgálata. A vizsgálattal egyidejűleg a rectalis vizsgálat (13200) nem számolható el. |
 
 [^8]: A 16. §-t a 7/2015. (II. 2.) EMMI rendelet 4. §-a iktatta be.
-[^9]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (1) bekezdése szerint módosított szöveg.
+[^9]: Az 1. melléklet az 55/2012. (XII. 28.) EMMI rendelet 10. § (1) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 5. § (1) bekezdése, a 31/2015. (VI. 12.) EMMI rendelet 3. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 5. § (1) bekezdése szerint módosított szöveg.
