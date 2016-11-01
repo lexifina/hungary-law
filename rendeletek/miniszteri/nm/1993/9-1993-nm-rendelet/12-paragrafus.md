@@ -14,7 +14,7 @@ f) 3. § (8) bekezdésével módosított 9. számú mellékletet,
 
 g) 3. § (9) bekezdésével módosított 10. számú mellékletet,
 
-h) 3. § (10) bekezdésével megállapított 10/a. számú mellékletet,
+h)[^82]
 
 i) 3. § (11) bekezdésével módosított 14. számú mellékletet,
 
@@ -39,3 +39,4 @@ f) 3. § (7) bekezdésével módosított 8. számú mellékletnek a Módr2. 7. m
 a 2011. április 1-jei teljesítményektől kell alkalmazni.
 
 [^81]: A 12. §-t a 29/2010. (XII. 30.) NEFMI rendelet 4. §-a iktatta be.
+[^82]: A 12. § (1) bekezdés h) pontját a 32/2016. (X. 27.) EMMI rendelet 3. § b) pontja hatályon kívül helyezte.

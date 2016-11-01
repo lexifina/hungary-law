@@ -66,7 +66,7 @@ f)[^15] ha az ellátás nem felelt meg a Kézikönyvben közzétett protokollokn
 
 (13a)[^19] Az intézeten kívüli szülés szakmai szabályairól, feltételeiről és kizáró okairól szóló kormányrendelet szerinti, az újszülött 0–4 napos korban történő életkorhoz kötött szűrővizsgálatait az E. Alap a 7270 kódszámú „Újszülött, születési súly 2499 g felett, jelentős műtét nélkül, normális újszülött-diagnózissal” HBCs súlyszám 16 százalékával finanszírozza.
 
-(14)[^20] A határnapon belüli ismételt felvétel (a 14. számú mellékletben meghatározott esetek, valamint a (21) bekezdésben foglalt esetek kivételével) az előző ellátással összevonva egy ellátási esetnek számít. Az azonos HBCs-be tartozó kúraszerű ellátás – kivéve a 99M 959A-L, illetve a 9511–9515 HBCs-k – egyes kezelései (fázisok) egy ellátási esetnek számítanak, függetlenül attól, hogy ambuláns betegként vagy fekvőbetegként történt a kezelés.
+(14)[^20] A határnapon belüli ismételt felvétel (a 14. számú mellékletben meghatározott esetek kivételével) az előző ellátással összevonva egy ellátási esetnek számít. Az azonos HBCs-be tartozó kúraszerű ellátás – kivéve a 99M 959A-L, illetve a 9511–9515 HBCs-k – egyes kezelései (fázisok) egy ellátási esetnek számítanak, függetlenül attól, hogy ambuláns betegként vagy fekvőbetegként történt a kezelés.
 
 (15)[^21] A sürgősségi betegellátásban használt 0 alsó határnapos, illetve 6–24 órás kezelésre az azonos fődiagnózisnak megfelelő ,,M'' jelű HBCs szerinti garanciális ellátási szabály az irányadó.
 
@@ -100,7 +100,7 @@ f)[^15] ha az ellátás nem felelt meg a Kézikönyvben közzétett protokollokn
 [^17]: Az 1. § (11) bekezdését a 7/1999. (IV. 7.) EüM rendelet 5. §-a (2) bekezdésének a) pontja hatályon kívül helyezte, újonnan a 49/2006. (XII. 28.) EüM rendelet 1. §-a iktatta be.
 [^18]: Az 1. § (13) bekezdését az 5/1998. (III. 11.) NM rendelet 1. §-a iktatta be, szövege a 15/2007. (III. 28.) EüM rendelet 1. §-ával megállapított szöveg. Ez utóbbi módosító rendelet 3. §-a alapján a rendelkezést a 2007. június havi kifizetésektől kell alkalmazni.
 [^19]: Az 1. § (13a) bekezdését a 23/2011. (V. 18.) NEFMI rendelet 1. §-a iktatta be.
-[^20]: Az 1. § (14) bekezdését az 5/1998. (III. 11.) NM rendelet 1. §-a iktatta be, szövege a 22/2008. (V. 26.) EüM rendelet 1. § (2) bekezdésével megállapított, a 29/2010. (XII. 30.) NEFMI rendelet 5. §-a szerint módosított szöveg.
+[^20]: Az 1. § (14) bekezdését az 5/1998. (III. 11.) NM rendelet 1. §-a iktatta be, szövege a 22/2008. (V. 26.) EüM rendelet 1. § (2) bekezdésével megállapított, a 29/2010. (XII. 30.) NEFMI rendelet 5. §-a, a 32/2016. (X. 27.) EMMI rendelet 2. § a) pontja szerint módosított szöveg.
 [^21]: Az 1. § új (15) bekezdését a 13/2000. (V. 12.) EüM rendelet 1.§-ának (4) bekezdése iktatta be.
 [^22]: Az 1. § eredeti (15) bekezdés számozását a 13/2000. (V. 12.) EüM rendelet 1. §-ának (4) bekezdése (16) bekezdésre változtatta. A 7/2001. (III. 2.) EüM rendelet 4. §-a (3) bekezdésének a) pontja módosította.
 [^23]: Az 1. § (17) bekezdését a 7/2001. (III. 2.) EüM rendelet 1. §-ának (2) bekezdése iktatta be, hatályon kívül helyezte a 29/2009. (VIII. 14.) EüM rendelet 3. § (3) bekezdésének b) pontja hatályon kívül helyezte.
