@@ -29,3 +29,7 @@
 (15) A rehabilitációs ellátási program szerinti nappali ellátás keretében végezhető rehabilitációs tevékenységek elszámolási szabályait a 15. melléklet tartalmazza.
 
 (16) A rehabilitációs ellátási program szerinti nappali ellátás keretében végezhető rehabilitációs tevékenységek besorolási szabályait a 16. melléklet tartalmazza.
+
+(17)[^8] A fődiagnózisként kódolható diagnózisok főcsoport szerinti listáját a 17. melléklet tartalmazza.
+
+[^8]: A 22. § (17) bekezdését a 32/2016. (X. 27.) EMMI rendelet 7. §-a iktatta be.

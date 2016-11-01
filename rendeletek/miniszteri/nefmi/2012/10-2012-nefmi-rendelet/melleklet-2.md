@@ -1,6 +1,6 @@
 ## 20122V20000010_4
 
-2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^10]
+2. melléklet a 10/2012. (II. 28.) NEFMI rendelethez[^12]
 
 Az aktív fekvőbeteg-ellátás diagnózisainak és beavatkozásainak besorolási táblázatai
 
@@ -3562,8 +3562,6 @@ BEAVATKOZÁSOK "D"
 
 53965 Intracranialis erek ballon teszt occlusioja
 
-BEAVATKOZÁSOK "E"
-
 ESZKÖZÖK "F"
 
 01170 1 v.2 lumenű femorocerebralis vezető katéter mikrokatéter bevez.-hez
@@ -3584,7 +3582,7 @@ ESZKÖZÖK "F"
 
 01180 Oszt.méretű embolizációs részecskék intracran.intraspin.ér embolis.hoz
 
-("A" DIAGN. ÉS "C" BEAV. ÉS "D" BEAV. ÉS "F" ESZKÖZ) VAGY ("B" DIAGN. ÉS "C" BEAV. ÉS "E" BEAV. ÉS "F" ESZKÖZ)
+(„A” DIAGN. ÉS „C” BEAV. ÉS „D” BEAV. ÉS „F” ESZKÖZ) VAGY („B” DIAGN. ÉS „C” BEAV. ÉS „F” ESZKÖZ)
 
 **** 01 029E Endovascularis aneurysma műtétek áramlásmódosítással a központi idegrendszer erein
 
@@ -5514,8 +5512,6 @@ H1100 Kúszóhártya
 
 H1120 Kötőhártya hegek
 
-H1330 Szem pemphigoid (L12.-+)
-
 H1600 Szaruhártya fekély
 
 H1610 Egyéb felszínes szaruhártya-gyulladás, kötőhártya-gyulladás nélkül
@@ -5539,8 +5535,6 @@ H1830 Elváltozások a szaruhártya membránjaiban
 H1840 Szaruhártya elfajulás
 
 H1850 Örökletes szaruhártya dystrophiák
-
-H1910 Herpesvirus szaruhártya-gyulladás és keratoconjunctivitis (B00.5+)
 
 T2610 A szaruhártya és kötőhártya égése
 
@@ -6784,6 +6778,8 @@ T2690 A szem és függelékeinek maródása, rész k.m.n.
 
 **** Főcsoport: 03 Fül-orr-gége és maxillofacialis régió megbetegedései
 
+**** Főcsoport: 03 Fül-orr-gége megbetegedések
+
 **** 03 086B Nyaki blockdissectio rosszindulatú daganatos betegség miatt
 
 BETEGSÉGEK
@@ -7546,6 +7542,4 @@ C0504 Kemény szájpad rosszindulatú daganata IV. stádium
 
 C0510 Lágy szájpad rosszindulatú daganata
 
-C0511 Lágy szájpad rosszindulatú daganata I. stádium
-
-[^10]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 7. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 7. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 134. § a) pontja, az 59/2015. (XII. 30.) EMMI rendelet 7. § (1) bekezdése szerint módosított szöveg.
+[^12]: A 2. melléklet a 24. § (2) bekezdésével megállapított és az 55/2012. (XII. 28.) EMMI rendelet 13. § (1) bekezdése, a 9/2013. (I. 31.) EMMI rendelet 5. § (2)–(3) bekezdése, a 24/2013. (III. 29.) EMMI rendelet 6. § (1)–(2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 2. § (1) bekezdése, a 4/2014. (I. 20.) EMMI rendelet 6. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 7. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 7. § (2) bekezdése, a 23/2015. (IV. 28.) EMMI rendelet 134. § a) pontja, az 59/2015. (XII. 30.) EMMI rendelet 7. § (1) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 8. § (1) bekezdése szerint módosított szöveg.

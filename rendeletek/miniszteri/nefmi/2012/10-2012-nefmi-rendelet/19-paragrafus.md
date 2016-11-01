@@ -18,11 +18,11 @@ c) az a) és b) pontok alól kivételt jelentenek az önálló intenzív osztál
 
 d) ha az intenzív osztályos ápolás „3”, vagy „4”, vagy „5” típusú diagnózisai – a típustól függetlenül – és az elvégzett beavatkozások alapján „súlyos társult betegséggel” minősítésnek megfelelő, akkor a többi osztályos eset adatait ki kell egészíteni az intenzív ellátás jellemzőivel, és ezt követően kell elvégezni a súlyszám értékek alapján történő kiválasztást;
 
-e) az intenzív ellátás csak akkor nem vehető figyelembe a kiválasztásban, ha
+e)[^7] az intenzív ellátás csak akkor nem vehető figyelembe a kiválasztásban, ha
 
 ea) a fődiagnózis („3”) légzőrendszeri megbetegedés, de a többi osztályos ellátás fődiagnózisa nem légzőrendszeri megbetegedés, vagy
 
-eb) a szeptikémiás csoporthoz tartozó a fődiagnózis (kivéve „A4191 Septicaemia többszervi elégtelenséggel”), de a többi osztályon nem szeptikémiás a fődiagnózis;
+eb) a szeptikémiás csoporthoz tartozó a fődiagnózis, de a többi osztályon nem szeptikémiás a fődiagnózis;
 
 f) az összevont eset összes jellemzője szerint kell meghatározni a végső HBCs-t, mely alól kivételt képez, ha a fő osztályos esetnek tekintett ellátás önálló besorolással meghatározott súlyszáma magasabb, mint az összevont eset összes jellemzője alapján meghatározott HBCs súlyszám;
 
@@ -41,3 +41,4 @@ i) a garanciális szabály alkalmazásakor az összevonás előtt történik ann
 (7) A HBCs összevonási és garanciális szabályt alkalmazni kell a kúraszerű ellátásra, valamint a fekvőbeteg- és kúraszerű ellátási események között is. A kúraszerű ellátási események kezelése ebben a tekintetben is azonos a kórházi ellátási eseményekkel.
 
 [^6]: A 19. § (1) bekezdés b) pontja a 4/2014. (I. 20.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^7]: A 19. § (3) bekezdés e) pontja a 32/2016. (X. 27.) EMMI rendelet 6. §-ával megállapított szöveg.
