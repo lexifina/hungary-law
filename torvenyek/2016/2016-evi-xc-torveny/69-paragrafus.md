@@ -1,1 +1,0 @@
-69. § A mozgóképről szóló 2004. évi II. törvény 13. § (5) bekezdésében meghatározott gyártási költségvetési értékhatár a 2017. évben magyar filmalkotás esetén 329,3 millió forint, magyar részvételű koprodukciós filmalkotás esetén 585,6 millió forint.
