@@ -146,6 +146,8 @@
 
 | 70591 | Kemoterápia, TXT+CDDP protokoll szerint (01. fázis) |
 
+| 70601 | Kemoterápia, TXT+NIN protokoll szerint (01. fázis) |
+
 | 70621 | Kemoterápia, EPI+CDDP/B protokoll szerint (01. fázis) |
 
 | 70631 | Kemoterápia, 5FU+FOLINAC protokoll szerint (01. fázis) |
@@ -398,7 +400,9 @@
 
 | 72021 | Kemoterápia, DTIC+CDDP+BCNU+TAMO protokoll szerint (01. fázis) |
 
-| 72051 | Kemoterápia, CDDP+DTIC protokoll szerint (01. fázis) |
+| 72031 | Kemoterápia, NIVO monoterápia protokoll szerint (2w) (01. fázis) |
+
+| 72041 | Kemoterápia, PMB monoterápia protokoll szerint (3w) (01. fázis) |
 
 | 72061 | Kemoterápia, CDDP+DTIC/B protokoll szerint (01. fázis) |
 
@@ -425,6 +429,8 @@
 | 72211 | Kemoterápia, FOSIP protokoll szerint (01. fázis) |
 
 | 72221 | Kemoterápia, FOSCE protokoll szerint (01. fázis) |
+
+| 72231 | Kemoterápia, IPI monoterápia protokoll szerint (01. fázis) |
 
 | 72351 | Kemoterápia, klasszikus CMF protokoll szerint (01. fázis) |
 
@@ -6086,4 +6092,4 @@ Fázisok leírása:
 
 | Fázisok száma | : | 1 |
 
-[^4]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 17. §-a, a 9/2013. (I. 31.) EMMI rendelet 7. § (2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 3. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 8. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 9. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 8. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 2. melléklet az 55/2012. (XII. 28.) EMMI rendelet 17. §-a, a 9/2013. (I. 31.) EMMI rendelet 7. § (2) bekezdése, a 62/2013. (VIII. 27.) EMMI rendelet 3. § (2) bekezdése, a 36/2014. (IV. 30.) EMMI rendelet 8. § (2) bekezdése, a 7/2015. (II. 2.) EMMI rendelet 9. § (2) bekezdése, az 59/2015. (XII. 30.) EMMI rendelet 8. § (2) bekezdése, a 32/2016. (X. 27.) EMMI rendelet 9. § (2) bekezdése szerint módosított szöveg.
