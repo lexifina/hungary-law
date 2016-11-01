@@ -1,1 +1,0 @@
-172. § A dohányipari vállalkozások 2015. évi egészségügyi hozzájárulásáról szóló 2014. évi XCIV. törvény 2. § 2. pontjában az „a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvényben” szövegrész helyébe az „a jövedéki adóról szóló törvényben” szöveg lép.

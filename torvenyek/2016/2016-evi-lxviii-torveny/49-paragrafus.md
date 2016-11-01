@@ -1,1 +1,0 @@
-49. § A kenőolaj másik tagállamból másik tagállamba vagy harmadik országba irányuló, belföldön áthaladó ömlesztett szállítását végző személy e tevékenységét legkésőbb a szállítást megelőző napon bejelenti az állami adó- és vámhatósághoz.

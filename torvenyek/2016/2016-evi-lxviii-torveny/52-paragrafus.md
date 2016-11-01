@@ -1,1 +1,0 @@
-52. § A lakossági energiafogyasztó a saját háztartása céljára vásárolt földgáz közúti jármű üzemanyagaként történő felhasználásának szándékát az előállítás tervezett megkezdési időpontjának megjelölésével, az azt megelőző 3. napig bejelenti az állami adó- és vámhatósághoz.
