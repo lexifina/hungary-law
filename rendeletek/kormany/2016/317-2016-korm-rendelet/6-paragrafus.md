@@ -1,0 +1,1 @@
+## 5. § Az Szt. 82. § b) pontja szerint tett javaslat alapján megyénként és a fővárosra tekintettel meghatározott, a Szabóky Adolf Szakképzési Ösztöndíjról szóló kormányrendelet alapján a 2017/2018. tanévben induló képzésekben tanulmányi ösztöndíjra jogosító hiány-szakképesítéseket az 5. melléklet tartalmazza.
