@@ -1,0 +1,9 @@
+# 418/2016. (XI. 2.) KE határozat
+
+bírói felmentésről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-418-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-11-02 | 2016-418-30-76.1 | 418/2016. (XI. 2.) KE határozat |
