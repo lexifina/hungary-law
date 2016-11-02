@@ -1,0 +1,9 @@
+# 433/2016. (XI. 2.) KE határozat
+
+a bírósági ülnökök soron kívüli választása időpontjának kitűzéséről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-433-30-76
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-11-02 | 2016-433-30-76.1 | 433/2016. (XI. 2.) KE határozat |
