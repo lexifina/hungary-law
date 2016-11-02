@@ -8,7 +8,7 @@
 
 2. AMC: az Európai Repülésbiztonsági Ügynökség által kiadott, az 1178/2011/EU rendelet IV. mellékletét kiegészítő elfogadható megfelelési módozatok és útmutatók;
 
-3. AME: repülőorvos szakorvos, aki jogosult a kijelölése szerinti repülőorvosi vizsgálatok elvégzésére, véleményezésére, a vizsgálati lap aláírására, továbbá az orvosi minősítés e rendelet és a MED rész szerinti kiadmányozására;
+3.[^1] AME: repülőorvos-szakértő vagy repülőorvos-szakorvos, aki jogosult a kijelölése szerinti repülőorvosi vizsgálatok elvégzésére, véleményezésére, a vizsgálati lap aláírására, továbbá az orvosi minősítés e rendelet és a MED rész szerinti kiadmányozására;
 
 4. AMS: a légiközlekedési hatóság repülő-egészségügyi feladatokat ellátó szervezeti egysége;
 
@@ -24,12 +24,13 @@
 
 9. repülőorvosi vizsgálat: a repülő-egészségügyi alkalmasság megállapításához előírt, AME által végzett vizsgálat;
 
-10.[^1] sárkányrepülő eszköz: olyan repülőeszköz, amelynek kormányzása súlypontáthelyezéssel vagy súlypontáthelyezéssel és aerodinamikai kormányzással együttesen történik, a szárny alakjának megtartására belső merevítő vázszerkezet szolgál, vezetője a szárnyon egyetlen felfüggesztési ponthoz csatlakozik;
+10.[^2] sárkányrepülő eszköz: olyan repülőeszköz, amelynek kormányzása súlypontáthelyezéssel vagy súlypontáthelyezéssel és aerodinamikai kormányzással együttesen történik, a szárny alakjának megtartására belső merevítő vázszerkezet szolgál, vezetője a szárnyon egyetlen felfüggesztési ponthoz csatlakozik;
 
-11.[^2] siklóernyő: olyan repülőeszköz, amelynek kormányzása aerodinamikai vagy súlypont áthelyezéses módon külön és együttesen is lehetséges, a szárny alakját az áramlás biztosítja, szabadesésben történő nyitásra nem alkalmas, vezetője a szárnyon több felfüggesztési ponthoz csatlakozik;
+11.[^3] siklóernyő: olyan repülőeszköz, amelynek kormányzása aerodinamikai vagy súlypont áthelyezéses módon külön és együttesen is lehetséges, a szárny alakját az áramlás biztosítja, szabadesésben történő nyitásra nem alkalmas, vezetője a szárnyon több felfüggesztési ponthoz csatlakozik;
 
-12.[^3] siklórepülő eszköz: repülőeszköz, amely lehet sárkányrepülő eszköz vagy siklóernyő.
+12.[^4] siklórepülő eszköz: repülőeszköz, amely lehet sárkányrepülő eszköz vagy siklóernyő.
 
-[^1]: A 2. § 10. pontja a 65/2015. (XI. 13.) NFM rendelet 10. § a) pontja szerint módosított szöveg.
-[^2]: A 2. § 11. pontja a 65/2015. (XI. 13.) NFM rendelet 10. § a) pontja szerint módosított szöveg.
-[^3]: A 2. § 12. pontja a 65/2015. (XI. 13.) NFM rendelet 10. § b) pontja szerint módosított szöveg.
+[^1]: A 2. § 3. pontja a 43/2016. (XI. 2.) NFM rendelet 19. §-a szerint módosított szöveg.
+[^2]: A 2. § 10. pontja a 65/2015. (XI. 13.) NFM rendelet 10. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § 11. pontja a 65/2015. (XI. 13.) NFM rendelet 10. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § 12. pontja a 65/2015. (XI. 13.) NFM rendelet 10. § b) pontja szerint módosított szöveg.
