@@ -1,8 +1,8 @@
 ## A szakszemélyzet vizsgáztatása
 
-41. § (1) A szakszolgálati engedély – a gyakornok légiforgalmi irányító szakszolgálati engedély kivételével –, további jogosítás, jogosítás-kiterjesztés, munkahelyi kiterjesztés megszerzéséhez munkahelyi vizsgát kell tenni.
+41. § (1)[^53] A szakszolgálati engedély, további jogosítás, jogosítás-kiterjesztés, munkahelyi kiterjesztés megszerzéséhez munkahelyi vizsgát kell tenni.
 
-(2) A munkahelyi vizsga megkezdésének feltétele a légiforgalmi irányítók esetében a munkahelyi képzés sikeres teljesítése, a repüléstájékoztató és a légiforgalmi tiszt esetében a kezdő képzés és a munkahelyi képzés sikeres teljesítése.
+(2)[^54] A munkahelyi vizsga megkezdésének feltétele a kezdő képzés és a munkahelyi képzés sikeres teljesítése.
 
 (3) A munkahelyi vizsgáztatást a munkahelyi képzést folytató képzési szervezet a légiközlekedési hatóság által kiadott vizsgaszabályzat alapján végzi.
 
@@ -29,3 +29,6 @@ g) a vizsga felfüggesztésére vonatkozó eljárás.
 (7) Ha a légiközlekedési hatóság a munkahelyi vizsga során szabálytalanságot állapít meg, a vizsgát felfüggeszti.
 
 (8) A vizsga eredményéről a szolgáltató jegyzőkönyvet állít ki.
+
+[^53]: A 41. § (1) bekezdése a 43/2016. (XI. 2.) NFM rendelet 14. § 14. pontja szerint módosított szöveg.
+[^54]: A 41. § (2) bekezdése a 43/2016. (XI. 2.) NFM rendelet 14. § 15. pontja szerint módosított szöveg.

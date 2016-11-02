@@ -1,120 +1,24 @@
-## Szakszolgálati engedélyek formai és tartalmi követelményei
+## A REPÜLÉSTÁJÉKOZTATÓ TISZT ÉS LÉGIFORGALMI TISZT SZAKSZOLGÁLATI ENGEDÉLY TARTALMI ÉS FORMAI KÖVETELMÉNYEI
 
-## GYAKORNOK LÉGIFORGALMI IRÁNYÍTÓ SZAKSZOLGÁLATI ENGEDÉLY FORMÁJA
+## 1. Repüléstájékoztató tiszt szakszolgálati engedély
 
-## A dátumok formátuma: év-hó-nap.
+## 1.1. Az engedélyeket olyan papírra kell kiállítani, amely megfelelő szinten biztosítja az engedély hamisítás elleni védelmét és a hamisítások gyors felismerését.
 
-| Előlap |  | 2. oldal |
+## 1.2. Az előlapon fel kell tüntetni a légiközlekedési hatóság megnevezését.
 
-| légiközlekedési hatóság neve name of aviation authority |  | Szakszolgálati engedély száma / Licence number: |
+## 1.3. Minden oldal alján fel kell tüntetni a kiállítás dátumát.
 
-|  |  | Engedélyes neve / Last (middle) and first name of holder: |
+## 1.4. A 2. oldalon fel kell tüntetni az engedélyes teljes nevét.
 
-| Magyarország Hungary |  | Születési dátuma és helye / Date and place of birth: |
+## 1.5. A dátumok formátuma: év-hó-nap.
 
-|  |  | Állampolgársága / Nationality: |
+## 1.6. A szakszolgálati engedély számát arab számmal kell jelölni.
 
-| GYAKORNOK LÉGIFORGALMI IRÁNYÍTÓ SZAKSZOLGÁLATI ENGEDÉLY STUDENT AIR TRAFFIC CONTROLLER LICENCE |  | Engedélyes aláírása / Signature of holder: |
+## 1.7. A 3. és az 5. oldal kitöltése során a munkahely négyjegyű ICAO azonosítóját, a 4. oldalon található rövidítéseket és az 5. pontban meghatározott dátumformátumot kell alkalmazni.
 
-|  |  | Az engedélyt kibocsátó személy aláírása és a kibocsátás dátuma / Signature of issuing officer and date of issue: |
+## 1.8. A szakszolgálati engedély színe: fehér.
 
-|  |  | Hatóság pecsétje / Seal or stamp ofissuing authority: |
-
-| Szakszolgálati engedély száma / Licence number: | Oldal / Page: 1/4 | dátum/date |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 2/4 | dátum/date |
-
-| 3. oldal |  | 4. oldal |
-
-| Érvényesség / Scope: |  | Rövidítések / Abbreviations: |
-
-| Az engedélyes jogosult gyakornok légiforgalmi irányító szolgálati tevékenység ellátására, megfelelő jogosítással és jogosítás-kiterjesztéssel rendelkező munkahelyi gyakorlati oktató felügyelete mellett, annak érdekében, hogy az alábbi jogosítás(oka)t és jogosítás-kiterjesztés(eke)t megszerezze, valamint jogosult az ITU Nemzetközi Rádiószabályzatban foglaltak alapján minden hatáskörébe tartozó korlátozott rádiótávbeszélő berendezés kezelésére. / The holderis entitled to exercise the functions of a student air traffic controller supervised by an OJTI with appropriate rating and rating endorsement so as to become qualified for the grant of the following rating(s) and rating endorsement(s). In addition, the holder is entitled to operate any restricted radiotelephony equipment according to his/her competence, in accordance with ITU Radio Regulations. |  | ADV - Repülőtéri irányítás látással / Aerodrome Control Visual ADI - Repülőtéri irányítás műszeres /Aerodrome Control Instrument APP - Bevezető eljárás irányítás / Approach Control Procedural APS - Bevezető irányítás légtérellenőrző berendezéssel / Approach Control Surveillance ACP - Körzeti eljárás irányítás / Area Control Procedural ACS - Körzeti irányítás légtérellenőrző berendezéssel / Area Control Surveillance TWR - Toronyirányítás / Tower Control GMC - Gurítóirányítás / Ground Movement Control GMS - Földi mozgások irányítása felderítő berendezéssel / Ground Movement Surveillance |
-
-|  |  | AIR - Repülőtéri körzeti irányítás / Air Control |
-
-| Jogosítás(ok) és jogosítás-kiterjesztés(ek) / Rating(s) and rating endorsement(s): | Kezdő képzés sikeres teljesítésének dátuma / Initial training completion date: |  | RAD - Radarirányítás / Radar PAR - Precíziós bevezető irányítás radarberendezéssel / Precision Approach Radar |
-
-|  |  | SRA - Bevezető irányítás légtérellenőrző radarral / Surveillance Radar Approach |
-
-| Jogosítás(ok)/jogosítás-kiterjesztés(ek) érvényessége / Rating(s)/rating endorsement(s) expiry date: |  | ADS - Automatikus berendezésfüggő légtérellenőrzés / Automatic Dependent Surveillance |
-
-|  |  | TCL - Közelkörzeti irányítás / Terminal Control |
-
-| Nyelvi kiterjesztés nyelve és szintje / Language and level of language endorsement: | Nyelvi kiterjesztés első kibocsátás dátuma/ Date of first issue of language endorsement: |  | OCL - Óceáni irányítás / Oceanic Control |
-
-| Nyelvi kiterjesztés érvényessége / Language endorsement expiry date: |  |  |
-
-| Szakszolgálati engedély száma / Licence number: | Oldal / Page: 3/4 | dátum/date |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 4/4 | dátum/date |
-
-## LÉGIFORGALMI IRÁNYÍTÓ SZAKSZOLGÁLATI ENGEDÉLY FORMÁJA
-
-## 1. A dátumok formátuma: év-hó-nap.
-
-## 2. A 3. és az 5. oldal kitöltése során a munkahely négyjegyű ICAO azonosítóját, a 4. oldalon található rövidítéseket és az 5. pontban meghatározott dátumformátumot kell alkalmazni.
-
-| Előlap |  | 2. oldal |
-
-| légiközlekedési hatóság neve name of aviation authority |  | Szakszolgálati engedély száma / Licence number: |
-
-|  |  | Engedélyes neve / Last (middle) and first name of holder: |
-
-| Magyarország Hungary |  | Születési dátuma és helye / Date and place of birth: |
-
-|  |  | Állampolgársága / Nationality: |
-
-| LÉGIFORGALMI IRÁNYÍTÓ SZAKSZOLGÁLATI ENGEDÉLY AIR TRAFFIC CONTROLLER LICENCE |  | Engedélyes aláírása / Signature of holder: |
-
-|  |  | Az engedélyt kibocsátó személy aláírása és a kibocsátás dátuma / Signature of issuing officer and date of issue: |
-
-|  |  | Hatóság pecsétje / Seal or stamp of issuing authority: |
-
-| Szakszolgálati engedély száma / Licence number: | Oldal / Page: 1/5 | dátum/date |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 2/5 | dátum/date |
-
-| 3. oldal |  | 4. oldal |
-
-| Érvényesség / Scope: |  | Rövidítések / Abbreviations: |
-
-| Az engedélyes jogosult az alábbi jogosítások és jogosítás-kiterjesztések szerinti légiforgalmi irányító szolgálati tevékenység ellátására, valamint jogosult az ITU Nemzetközi Rádiószabályzatban foglaltak alapján minden hatáskörébe tartozó korlátozott rádiótávbeszélő berendezés kezelésére. / The holder is entitled to exercise the functions of the following rating(s) and rating endorsement (s) as well as entitled to operate any restricted radiotelephony equipment according to his/her competence, in accordance with ITU Radio Regulations. |  | ADV - Repülőtéri irányítás látással / Aerodrome Control Visual ADI - Repülőtéri irányítás műszeres /Aerodrome Control Instrument APP - Bevezető eljárás irányítás / Approach Control Procedural APS - Bevezető irányítás légtérellenőrző berendezéssel / Approach Control Surveillance ACP - Körzeti eljárás irányítás / Area Control Procedural ACS - Körzeti irányítás légtérellenőrző berendezéssel / Area Control Surveillance TWR - Toronyirányítás / Tower Control |
-
-| Jogosítás(ok) és jogosítás-kiterjesztés(ek) / Rating(s) and rating endorsement(s): | Első kibocsátás dátuma / Date of first issue: |  | GMC - Gurítóirányítás / Ground Movement Control GMS - Földi mozgások irányítása felderítő berendezéssel / Ground Movement Surveillance AIR - Repülőtéri körzeti irányítás / Air Control RAD - Radarirányítás / Radar |
-
-| Nyelvi kiterjesztés nyelve: Language of language endorsement: | Nyelvi kiterjesztés első kibocsátás dátuma/ Date of first issue of language endorsement: |  | PAR - Precíziós bevezető irányítás radarberendezéssel / Precision Approach Radar SRA - Bevezető irányítás légtérellenőrző radarral / Surveillance Radar Approach ADS - Automatikus berendezésfüggő légtérellenőrzés / Automatic Dependent Surveillance |
-
-| Szakszolgálati kiterjesztés(ek) / Licence endorsement(s): | Első kibocsátás dátuma / Date of first issue: |  | TCL - Közelkörzeti irányítás / Terminal Control OCL - Óceáni irányítás / Oceanic Control |
-
-|  |  | OJTI - Munkahelyi gyakorlati oktató / On-the-Job Training Instructor LCA - Szaktudás-értékelő / Local Competence Assessor ULA - Munkahelyi vizsgáztató / Unit Licence Assessor |
-
-| Szakszolgálati engedély száma / Licence number: | Oldal / Page: 3/5 | dátum/date |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 4/5 | dátum/date |
-
-| 5. oldal |
-
-| Érvényes jogosítás(ok) / jogosítás-kiterjesztés(ek) / munkahelyi kiterjesztés(ek) / szakszolgálati kiterjesztés(ek) / |
-
-| Current rating(s) /rating endorsement(s) / unit endorsement(s) /licence endorsement(s) |
-
-| Jogosítás(ok) / Jogosítás(ok)- kiterjesztés(ek) Rating(s) /rating endorsement(s) | Munkahelyi kiterjesztés(ek) / Unit endorsement(s) ICAO indicator / sector | Érvényesség / Validity | Szakszolgálati kiterjesztés(ek) / Licence endorsement(s) | Érvényesség / Validity |
-
-| Nyelvi kiterjesztés / Language endorsement |
-
-| Nyelv/ Language | Nyelvismereti vizsga szintje / Level of language proficiency exam | Érvényesség / Validity |
-
-| Szakszolgálati engedély száma / Licence number: | Oldal / Page: 5/5 |  | dátum/date |
-
-## REPÜLÉSTÁJÉKOZTATÓ TISZT SZAKSZOLGÁLATI ENGEDÉLY
-
-## 1. Az engedélyeket olyan minőségű papírra kell kiállítani, amelyről látható, hogy eredeti példányról van szó. (Nem fénymásolat.)
-
-## 2. Az előlapon fel kell tüntetni a légiközlekedési hatóság megnevezését.
-
-## 3. Minden oldal alján a kiállítás dátumát kell feltüntetni.
-
-## 4. A 2. oldalon az engedélyes teljes nevét kell feltüntetni.
-
-## 5. A dátumok formátuma: év-hó-nap.
-
-## 6. A szakszolgálati engedély száma: arab számmal jelölve.
-
-## 7. A 3. és az 5. oldal kitöltése során a munkahely négyjegyű ICAO azonosítóját, a 4. oldalon található rövidítéseket és az 5. pontban meghatározott dátumformátumot kell alkalmazni.
-
-## 8. A szakszolgálati engedély színe: fehér.
+## 1.9. A repüléstájékoztató tiszt szakszolgálati engedély képe:
 
 | Előlap |  | 2. oldal |
 
@@ -132,21 +36,21 @@
 
 |  |  | Hatóság pecsétje / Seal or stamp of issuing authority: |
 
-| Szakszolgálati engedély száma / Licence number: | Oldal / Page: 1/5 | dátum/date |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 2/5 | dátum/date |
+| Szakszolgálati engedély száma / Licence number: | Oldal / Page: 1/5 | dátum /date |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 2/5 | dátum /date |
 
 | 3. oldal |  | 4. oldal |
 
 | Érvényesség / Scope: |  | Rövidítések / Abbreviations: |
 
-| Az engedélyes jogosult az alábbi jogosítás(ok) és jogosítás-kiterjesztés(ek) szerinti repüléstájékoztató szolgálati tevékenység ellátására, valamint jogosult az ITU Nemzetközi Rádiószabályzatban foglaltak alapján minden hatáskörébe tartozó korlátozott rádiótávbeszélő berendezés kezelésére. / The holder is entitled to exercise the functions of the following rating(s) and rating endorsement(s) at the flight information service as well as entitled to operate any restricted radiotelephony equipment according to his/her competence, in accordance with ITU Radio Regulations. |  | A/D - Repülőtér / Aerodrome AFIS - Repülőtéri repüléstájékoztatás / Aerodrome Flight Information Service FIS - Körzeti repüléstájékoztatás / Flight Information Service RADA - Radartanácsadás / Radar Advisory OJTI - Munkahelyi gyakorlati oktató / On-the-Job Training Instructor |
+| Az engedélyes jogosult az alábbi jogosítás(ok) és jogosítás-kiterjesztés(ek) szerinti repüléstájékoztató szolgálati tevékenység ellátására, valamint jogosult az ITU Nemzetközi Rádiószabályzatban foglaltak alapján minden hatáskörébe tartozó korlátozott rádiótávbeszélő berendezés kezelésére. / The holder is entitled to exercise the functions of the following rating(s) and rating endorsement(s) at the flight information service as well as entitled to operate any restricted radiotelephony equipment according to his/her competence, in accordance with ITU Radio Regulations. |  | AFIS - Repülőtéri repüléstájékoztatás / Aerodrome Flight Information Service FIS - Körzeti repüléstájékoztatás / Flight Information Service RADA - Radartanácsadás / Radar Advisory OJTI - Munkahelyi gyakorlati oktató / On-the-Job Training Instructor |
 
-| Jogosítás(ok) és jogosítás-kiterjeszté(sek) / Rating(s) and rating endorsement(s): | Első kibocsátás dátuma / Date of first issue: |  |  |
+| Jogosítás(ok) és jogosítás-kiterjesztés(ek) / Rating(s) and rating endorsement(s): | Első kibocsátás dátuma / Date of first issue: |  |  |
 
-| Nyelvi kiterjesztés nyelve: Language of language endorsement | Nyelvi kiterjesztés első kibocsátás dátuma/ Date of first issue of language endorsement |
+| Nyelvi kiterjesztések nyelve: Languages of language endorsement | Nyelvi kiterjesztés első kibocsátás dátuma / Date of first issue of language endorsement |  |  |
 
 | Szakszolgálati kiterjesztése / Licence Endorsement: | Első kibocsátás dátuma / Date of first issue: |  |  |
 
-| Szakszolgálati engedély száma / Licence number: | Oldal / Page: 3/5 | dátum/date |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 4/5 | dátum/date |
+| Szakszolgálati engedély száma / Licence number: | Oldal / Page: 3/5 | dátum /date |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 4/5 | dátum /date |
 
 | 5. oldal |
 
@@ -162,21 +66,23 @@
 
 | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 5/5 |  | dátum/ date |
 
-## LÉGIFORGALMI TISZT SZAKSZOLGÁLATI ENGEDÉLY
+## 2. A légiforgalmi tiszt szakszolgálati engedély
 
-## 1. Az engedélyeket olyan minőségű papírra kell kiállítani, amelyről látható, hogy eredeti példányról van szó. (Nem fénymásolat.)
+## 2.1. Az engedélyeket olyan papírra kell kiállítani, amely megfelelő szinten biztosítja az engedély hamisítás elleni védelmét és a hamisítások gyors felismerését.
 
-## 2. Az előlapon fel kell tüntetni a légiközlekedési hatóság megnevezését.
+## 2.2. Az előlapon fel kell tüntetni a légiközlekedési hatóság megnevezését.
 
-## 3. Minden oldal alján a kiállítás dátumát kell feltüntetni.
+## 2.3. Minden oldal alján fel kell tüntetni a kiállítás dátumát.
 
-## 4. A 2. oldalon az engedélyes teljes nevét kell feltüntetni.
+## 2.4. A 2. oldalon fel kell tüntetni az engedélyes teljes nevét.
 
-## 5. A dátumok formátuma: év-hó-nap.
+## 2.5. A dátumok formátuma: év-hó-nap.
 
-## 6. A 3. oldalt rövidített formában kell kitölteni.
+## 2.6. A 3. oldalt rövidített formában kell kitölteni.
 
-## 7. A szakszolgálati engedély színe: fehér.
+## 2.7. A szakszolgálati engedély színe: fehér.
+
+## 2.8. A légiforgalmi tiszt szakszolgálati engedély képe:
 
 | Előlap |  | 2. oldal |
 
@@ -194,7 +100,7 @@
 
 |  |  | Hatóság pecsétje / Seal or stamp of issuing authority: |
 
-| Szakszolgálati engedély száma / Licence number: | Oldal / Page: 1/4 | dátum/date |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 2/4 | dátum/date |
+| Szakszolgálati engedély száma / Licence number: | Oldal / Page: 1/4 | dátum /date |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 2/4 | dátum /date |
 
 | 3. oldal |  | 4. oldal |
 
@@ -208,6 +114,136 @@
 
 | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 3/4 | dátum |  | Szakszolgálati engedély száma / Licence number: | Oldal / Page: 4/4 | dátum |
 
-3. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^78]
+3. melléklet a 17/2008. (IV. 30.) GKM rendelethez[^142]
 
-[^78]: A 3. melléklet a 62/2012. (XI. 26.) NFM rendelet 11. § (3) bekezdésével megállapított szöveg.
+SZAKSZOLGÁLATI ENGEDÉLY KÉRŐ LAP
+
+1. Szakszolgálati engedély kérő lap:
+
+| Légiközlekedési hatóság megnevezése (A szervezet hivatalos emblémájával ellátva) | Kitöltési útmutató: Kérjük, nyomtatott NAGYBETŰKKEL töltse ki! |
+
+|  | A vonatkozó rovatokat szöveggel vagy jellel [X] töltse ki. |
+
+| [ ] | A SZAKSZOLGÁLATI ENGEDÉLY SZÁMA (HA VAN) |
+
+| 1. A kért szakszolgálati engedély |
+
+| [ ] |  |
+
+| [ ] |  |
+
+| [ ] Első repüléstájékoztató tiszt | Kitöltendő 2a., 2.b., 3a.,3b., 4., 5a., 5c., 6. / melléklet 9.-1,2, 3, 4. |
+
+| [ ] Első légiforgalmi tiszt | Kitöltendő 2a., 2.b., 3a.,3b., 5a., 6. / melléklet 9.-1.,2.,4. |
+
+|  | Szakszolgálati kiterjesztés |
+
+| [ ] | További jogosítás, jogosítás-kiterjesztés, munkahelyi kiterjesztés, nyelvi kiterjesztés Kitöltendő a kérelem típusától függően 2, 3a., 3b ., 5a., 5b., 5c., 6., / melléklet 9.-1., 2., 4. |
+
+| [ ] Munkahelyi kiterjesztés, jogosítás vagy jogosítás-kiterjesztés meghosszabbítása | Kitöltendő 2a., 2.b., 5a-5c., 6., 7a. vagy 7b. |
+
+| [ ] Szakszolgálati kiterjesztés meghosszabbítása vagy megújítása | Kitöltendő 2a., 2b., 5a., 5b., 5c., 6., 7a. |
+
+| [ ] Nyelvi kiterjesztés meghosszabbítása vagy megújítása | Kitöltendő 2a., 2.b., 4., 5a., 5c., 6. / melléklet 9.-4. |
+
+| [ ] | Munkahelyi kiterjesztés, jogosítás vagy jogosítás-kiterjesztés megújítása Kitöltendő 2a., 2.b., 3a., 3b., 4., 5a., 5c., 6. |
+
+| 2a. Személyi adatok |
+
+| Vezetéknév [ ] | Keresztnév [ ] |
+
+| Születési dátum (év/hó/nap) [ / / ] | Születési hely [ ] | Állampolgárság [ ] | Anyanyelv [ ] |
+
+| Lakcím | Helység [ ] | Irányítószám [ ] |
+
+| Utca [ ] | Házszám [ ] | Telefonszám [ ] |
+
+| E-mail [ ] |
+
+| 2b. A szolgáltató megnevezése | [ ] |
+
+| 3a. Kezdő képzés | Az 5a. pontban jelölje meg azt a jogosítást / jogosítás-kiterjesztést, amelyben a kezdő képzést sikeresen elvégezte, és amelynek kiadását kérelmezi. |
+
+|  | A képzési szervezet neve [ ] |
+
+|  | A képzés dátuma (év/hó/nap) [ / / -tól / / -ig] |
+
+| 3b. Munkahelyi képzés | Az 5c. pontban jelölje meg azt a munkahelyet, amelyben a munkahelyi képzést sikeresen elvégezte, és amelynek kiadását kérelmezi. |
+
+|  | A munkahelyi képzés dátuma (év/hó/nap) [ / / -tól / / -ig] |
+
+|  | A munkahelyi vizsga időpontja [ ] |
+
+| 4. Nyelvismereti vizsga | Nyelvismereti vizsgáztatást végző szervezet [ ] |
+
+|  | Nyelvismereti vizsga időpontja (év/hó/nap) [ / / ] |
+
+|  | Nyelvismereti vizsga nyelve / elért szintje [ / ] |
+
+|  | Oldal 1/2 |
+
+| 5a. Jogosítás és jogosítás-kiterjesztés |
+
+| [ ] |  |
+
+| Körzeti repüléstájékoztató (FIS) [ ] | Radartanácsadás (RADA) [ ] |
+
+| Repülőtéri repüléstájékoztató (AFIS) [ ] |  |
+
+|  | NOTAM (NOTAM) [ ] |
+
+| Légiforgalmi tájékoztatás (AIS) [ ] | Repülésbejelentő (ARO) [ ] |
+
+|  | PUB/SDO (PUB/SDO) [ ] |
+
+| Repülési adatfeldolgozó (FD) [ ] |
+
+| Áramlásszervezés (FMP) [ ] |
+
+| Légtérgazdálkodás (ASM) [ ] |
+
+| 5b. Szakszolgálati kiterjesztés |
+
+| Munkahelyi gyakorlati oktató (OJTI) [ ] |
+
+| 5c. Munkahelyi kiterjesztés |
+
+| Munkahelyi képzés munkahelye (ha van ICAO kód vagy szektor) [ ] |
+
+| 6. A kérelmező nyilatkozata |
+
+| Kijelentem, hogy a fenti kérelmet figyelmesen áttekintettem és abban foglaltak a valóságnak megfelelnek. |
+
+| Aláírás | Dátum |
+
+| 7a. A szolgáltató igazolása repüléstájékoztató szakszolgálati engedély munkahelyi kiterjesztésének vagy szakszolgálati kiterjesztésének meghosszabbítása esetén |
+
+| A kérelmező a léginavigációs szolgálatot és a légiforgalmi szolgáltatást ellátó szakszemélyzet szakszolgálati engedélyéről és képzéséről szóló 17/2008. (IV. 30.) GKM rendelet 28. § (3) bekezdés a)-c) pontjában meghatározott feltételeket, valamint a jóváhagyott továbbképzési programban a kérelmezőre meghatározott egyéb feltételeket teljesítette. |
+
+| Név | Aláírás | Dátum |
+
+| 7b. A szolgáltató igazolása légiforgalmi tiszt szakszolgálati engedély jogosítás vagy jogosítás kiterjesztésének meghosszabbítása esetén |
+
+| A kérelmező a léginavigációs szolgálatot és a légiforgalmi szolgáltatást ellátó szakszemélyzet szakszolgálati engedélyéről és képzéséről szóló 17/2008. (IV. 30.) GKM rendelet 35. § (3) bekezdésben meghatározott feltételeket teljesítette. |
+
+| Név | Aláírás | Dátum |
+
+| 8. Költségek (a hatóság tölti ki) |
+
+| Megjegyzések: |
+
+| Beérkezés időpontja: | Feldolgozó aláírása: |
+
+| 9. A kérelemhez csatolandó melléketek |
+
+| 1. A kezdő képzés sikeres elvégzéséről kiállított igazolás másolata – képzési szervezet állítja ki |
+
+| 2. Munkahelyi képzés sikeres elvégzéséről kiállított igazolás másolata – képzési szervezet állítja ki |
+
+| 3. Nyelvismereti vizsga teljesítéséről kiállított bizonyítvány másolata – nyelvismereti vizsgáztatást végző szervezet állítja ki –, illetve a nyelvismeretet – a léginavigációs szolgálatot és a légiforgalmi szolgáltatást ellátó szakszemélyzet szakszolgálati engedélyéről és képzéséről szóló 17/2008. (IV. 30.) GKM rendeletben foglaltak szerint – egyéb módon igazoló dokumentum |
+
+| 4. Munkahelyi vizsga jegyzőkönyv másolata – képzési szervezet állítja ki |
+
+| Oldal 2/2 |
+
+[^142]: A 3. melléklet a 43/2016. (XI. 2.) NFM rendelet 12. § (3) bekezdésével megállapított szöveg.

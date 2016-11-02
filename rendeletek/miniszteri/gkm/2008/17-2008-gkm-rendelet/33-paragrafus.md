@@ -1,10 +1,12 @@
+## 32/A. §[^34] A légiforgalmi tiszt képzésére vonatkozó követelményeket az 1. melléklet tartalmazza.
+
 ## A légiforgalmi tiszt szolgálati tevékenység
 
 ## ellátására való jogosultság korlátozása
 
 33. § (1) Az engedélyes a légiforgalmi tiszt szakszolgálati engedély érvényességén belül is legalább 3 éve érvényes légiforgalmi tiszt szakszolgálati engedéllyel és megfelelő jogosítással, – ha a jogosításhoz kapcsolódhat – jogosítás-kiterjesztéssel rendelkező személy felügyelete mellett láthat el szolgálati tevékenységet,
 
-a) ha a szakszolgálati engedélyébe bejegyzett jogosításnak és – ha a jogosításhoz kapcsolódhat – jogosítás-kiterjesztésnek megfelelő szolgálati tevékenység folyamatos ellátásában 90 napnál hosszabb időtartamú megszakítása volt,
+a)[^35] ha a szakszolgálati engedélyébe bejegyzett jogosításnak és – ha a jogosításhoz kapcsolódhat – jogosítás-kiterjesztésnek megfelelő szolgálati tevékenység folyamatos ellátásában a továbbképzési programban meghatározott időtartamú megszakítása volt,
 
 b) ha a továbbképzési követelményeket nem teljesítette, vagy
 
@@ -14,8 +16,13 @@ c) ha a szaktudását nem megfelelőnek értékelik, de a szakszolgálati enged�
 
 (3) Az engedélyes a légiforgalmi tiszt szakszolgálati engedély érvényességén belül nem láthat el szolgálati tevékenységet, ha
 
-a) a 37. §-ban meghatározott feltételek fennállnak vagy
+a)[^36]
 
-b) olyan, a szolgálati tevékenység ellátására hátrányosan ható szer befolyása alatt áll, amely képtelenné teheti arra, hogy feladatát biztonságosan és megfelelően lássa el.
+b)[^37] olyan, a szakszolgálat ellátására hátrányosan ható szer befolyása alatt áll, amely képtelenné teheti arra, hogy feladatát biztonságosan és megfelelően lássa el.
 
 (4) Az engedélyes a (3) bekezdésben meghatározott tényt köteles a szolgáltatónak haladéktalanul bejelenteni.
+
+[^34]: A 32/A. §-t a 43/2016. (XI. 2.) NFM rendelet 6. §-a iktatta be.
+[^35]: A 33. § (1) bekezdés a) pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 16. pontja szerint módosított szöveg.
+[^36]: A 33. § (3) bekezdés a) pontját a 43/2016. (XI. 2.) NFM rendelet 14. § 11. pontja hatályon kívül helyezte.
+[^37]: A 33. § (3) bekezdés b) pontja a 43/2016. (XI. 2.) NFM rendelet 13. § 17. pontja szerint módosított szöveg.
