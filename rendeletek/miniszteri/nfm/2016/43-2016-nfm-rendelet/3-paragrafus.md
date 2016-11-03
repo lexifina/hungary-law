@@ -1,3 +1,0 @@
-## 2. § Az R.1. 26. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) Az engedélyes a repüléstájékoztató szakszolgálati engedély érvényességén belül nem láthat el repüléstájékoztató szolgálati tevékenységet, ha a szolgálati tevékenység ellátására a polgári légiközlekedési személyzet egészségi alkalmasságának feltételeiről, valamint az egészségi alkalmasság megállapítását végző szervek kijelölésének és tevékenységének szabályairól szóló miniszteri rendeletben meghatározottak szerint egészségi szempontból alkalmatlan (a továbbiakban: alkalmatlanság), mindaddig, amíg ez az állapot fennáll.”
