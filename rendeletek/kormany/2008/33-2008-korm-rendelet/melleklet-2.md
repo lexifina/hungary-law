@@ -72,7 +72,7 @@
 
 | 35. | Az egészségügyről szóló 1997. évi CLIV. törvény 3. § e) pontja szerinti egészségügyi szolgáltatások nyújtására irányuló tevékenység az Etv. IX. fejezetének hatálya alá tartozó szabályozott szakmák esetén | Egészségügyi Nyilvántartási és Képzési Központ |
 
-| 36. | A régészeti örökség és a műemléki érték védelmével kapcsolatos területeken végzett szakértői tevékenység | régészeti területen: Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság; műemléki területen: Magyar Építész Kamara |
+| 36. | A régészeti örökség és a műemléki érték védelmével kapcsolatos területeken végzett szakértői tevékenység | a kulturális örökség védelméért felelős miniszter |
 
 | 37. | Energetikai auditor | Magyar Energetikai és Közmű-szabályozási Hivatal |
 
