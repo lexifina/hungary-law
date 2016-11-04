@@ -1,5 +1,5 @@
 ## 22. § Ez a rendelet a kihirdetését követő harmadik napon lép hatályba.
 
-## 19/A. [^61] Átmeneti rendelkezések
+## 19/A. [^82] Átmeneti rendelkezések
 
-[^61]: A 19/A. alcímet (22/A. §) a 23/2015. (V. 13.) FM rendelet 9. § (3) bekezdése iktatta be.
+[^82]: A 19/A. alcímet (22/A. §) a 23/2015. (V. 13.) FM rendelet 9. § (3) bekezdése iktatta be.
