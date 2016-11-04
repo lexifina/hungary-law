@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-323-20-
 | --- | --- | --- |
 | 2016-10-28 | 2016-323-20-22.1 | 323/2016. (X. 27.) Korm. rendelet |
 | 2016-10-29 | 2016-323-20-22.2 | 2010: CXXX. törvény |
+| 2016-11-04 | 2016-323-20-22.3 | 2010: CXXX. törvény |
