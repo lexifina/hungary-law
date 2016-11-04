@@ -1,0 +1,168 @@
+# A Kormány 330/2016. (XI. 4.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 170. szám, 2016. november 4. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/03fd2e69af0bb8272602b3fd7ce7aff79042bb15/dokumentumok/0c4f53262ca9ed6699b11412ca980c3ea2f3d2c8/letoltes)
+
+---
+
+A Kormány 330/2016. (XI. 4.) Korm. rendelete
+egyes kormányrendeleteknek a nem rendszeres hulladékszállítás szabályaival összefüggő módosításáról
+A Kormány az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény
+4. § a) és b) pontjában,
+a 2. alcím tekintetében a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (1) bekezdés 33. és 35. pontjában, valamint az egyes
+közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény 4. § b) pontjában
+kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek kijelöléséről
+szóló 292/2013. (VII. 26.) Korm. rendelet módosítása
+1. §
+A nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek kijelöléséről szóló 292/2013.
+(VII. 26.) Korm. rendelet (a továbbiakban: R1.) 1. §-a a következő (5) bekezdéssel egészül ki:
+„(5) A katasztrófavédelmi szerv a 2013. évi CXXXIV. törvény 1. § (2) bekezdés szerinti értesítést követően
+haladéktalanul megkeresi az NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zrt.-t
+(a továbbiakban: Koordináló szerv), amely a megkeresést követő 8 napon belül javaslatot tesz a kijelölendő
+közérdekű szolgáltató személyére, az ideiglenes ellátás keretében végzendő hulladékgazdálkodási tevékenység
+megnevezésére, a tevékenység végzésének gyakoriságára és minimális műszaki tartalmára, valamint a kötelezően
+igénybe veendő hulladékkezelő létesítmény megnevezésére.”
+2. § (1) Az R1. 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A katasztrófavédelmi szerv az ideiglenes ellátásra a Koordináló szerv 1. § (5) bekezdése szerinti javaslatában
+szereplő szolgáltatót jelöli ki. A kijelölő döntés nem lehet ellentétes a Tv. 1. § (3), (6) és (9) bekezdésében
+foglaltakkal.”
+(2) Az R1. 3. § (2) bekezdésének b) pontja helyébe a következő rendelkezés lép:
+(Az ideiglenes ellátásra kijelölő döntés tartalmazza:)
+„b) a Koordináló szerv javaslatának megfelelően az ideiglenes ellátás keretében végzendő hulladékgazdálkodási
+tevékenység megnevezését, a tevékenység végzésének gyakoriságát és minimális műszaki tartalmát, valamint
+a kötelezően igénybe veendő hulladékkezelő létesítmény megnevezését,”
+(3) Az R1. 3. § (4) bekezdés d) pontja helyébe a következő rendelkezés lép:
+(Az ideiglenes ellátás kijelölése tárgyában hozott döntést közölni kell)
+„d) a Koordináló szervvel,”
+(4) Az R1. 3. §-a a következő (5) bekezdéssel egészül ki:
+„(5) Az ideiglenes ellátás kijelölése tárgyában hozott döntésről értesíteni kell
+a) a Magyar Energetikai és Közmű-szabályozási Hivatalt (a továbbiakban: MEKH),
+b) az illetékes környezetvédelmi hatóságot,
+c) a Pest Megyei Kormányhivatalt, valamint
+d) a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős minisztert.”
+3. §
+Az R1. 3/A. §-a helyébe a következő rendelkezés lép:
+„3/A. § Az ideiglenes ellátásra történő kijelölés időtartama a kijelölés meghosszabbítása esetén sem haladhatja meg
+a három évet, kivéve, ha a települési önkormányzat a hulladékról szóló 2012. évi CLXXXV. törvény 33–34. §-a szerinti
+szerződéskötési kötelezettségét továbbra sem teljesíti, és a hulladék elszállítása a településen nem biztosított.”
+
+4. §
+Az R1. a következő 13/A. §-sal egészül ki:
+„13/A. § (1) Az ingatlanhasználó a 4. § (1) bekezdés szerinti díjfizetési kötelezettségét a Koordináló szerv részére
+teljesíti. Az ideiglenes ellátás díjáról a Koordináló szerv utólag, negyedévente állít ki számlát tizenöt napos fizetési
+határidővel. A számlázott időszak csak akkor lehet negyedévnél rövidebb, ha azt az ideiglenes ellátás megszűnése
+indokolja.
+(2) A Koordináló szerv a szolgáltatás 3. § (2) bekezdés b) pontjában foglaltak szerinti műszaki tartalmának
+megfelelően, a Koordináló szerv által fizetendő hulladékgazdálkodási szolgáltatási díjról szóló miniszteri
+rendeletben (a továbbiakban: szolgáltatási díjrendelet) foglaltak alapján kiszámolja a szolgáltatás díjat, melyet
+az 1. § (5) bekezdése szerinti javaslat megküldésével egyidejűleg megküld a MEKH részére.
+(3) A (2) bekezdés szerinti szolgáltatási díjban – a (4) bekezdésben foglaltak kivételével – az ideiglenes ellátás teljes
+közvetlen költsége megtérítésre kerül, az állami hulladékgazdálkodási közfeladat ellátására létrehozott szervezet
+kijelöléséről, feladatköréről, az adatkezelés módjáról, valamint az adatszolgáltatási kötelezettségek részletes
+szabályairól szóló kormányrendeletben (a továbbiakban: kijelölési rendelet) és a szolgáltatási díjrendeletben
+foglaltaknak megfelelően.
+(4) A szolgáltatási díj mértékét csökkenteni kell a 3. § (3) bekezdése és a 15. § (5) bekezdés a) pontja alapján
+kifizetésre kerülő kártalanítási összeggel.
+(5) Az (1) bekezdés szerinti, ideiglenes ellátás ingatlanhasználó által fizetendő díjának számlázásához, valamint
+a (2)–(4) bekezdés szerinti szolgáltatási díj megállapításához szükséges adatszolgáltatás rendjére a Tv. 3. §
+(1a) bekezdése és a kijelölési rendeletnek a közszolgáltató adatszolgáltatására vonatkozói szabályai az irányadók.”
+5. § (1) Az R1. 14. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az ideiglenes ellátás ingatlanhasználó által fizetett díja a Tv. 1. § (3) bekezdésének való megfelelését,
+valamint e díjból a Koordináló szerv részéről nem fedezhető többletköltségei indokoltságát és azok elszámolását
+a (7)–(10) bekezdés szerint a MEKH ellenőrzi.”
+(2) Az R1. 14. § (2) bekezdésének első mondata helyébe a következő rendelkezés lép:
+„A Koordináló szerv a fejezeti kezelésű előirányzat kezelőjétől (a továbbiakban: előirányzat kezelője) a szolgáltatási
+díj és az ideiglenes ellátás ingatlanhasználó részére kiszámlázott díja közötti negatív különbözet, valamint
+a Koordináló szerv – az ellátás rendszerének működtetésével összefüggő – igazolt többletköltségei megtérítését
+kérheti.”
+6. §
+Az R1. a következő 18/A. §-sal egészül ki:
+„18/A. § (1) E rendeletnek az egyes kormányrendeleteknek a nem rendszeres hulladékszállítás szabályaival
+összefüggő módosításáról szóló 330/2016. (XI. 4.) Korm. rendelettel (a továbbiakban: Mód. Kr. 2.) megállapított
+13/A. §-át – a (3) bekezdésben foglalt kivétellel – a 2017. január 1-jét követően végzett ideiglenes ellátással
+összefüggő számlázás, díjbeszedés és szolgáltatási díj kifizetés során kell alkalmazni.
+(2) A 2016. évre vonatkozó többletköltség igényekre e rendelet 2016. december 31-én hatályos rendelkezéseit kell
+alkalmazni.
+(3) Azon ideiglenes ellátásoknál, ahol a kijelölés 3/A. § szerinti hároméves időtartama legkésőbb 2017. január 31-én
+lejár, a díjmegállapítást, a számlázást, a többletköltségek igénylését és elszámolását a kijelölt közérdekű szolgáltató
+végzi, és tevékenységére e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+(4) A kijelölt közérdekű szolgáltató a (2) és (3) bekezdésben foglalt többletköltség igényét 2017. április 30-ig
+igényelheti a MEKH útján. E határidő elmulasztása jogvesztő.”
+7. §
+Az R1.
+a) 1. § (4) bekezdésében az „Az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség
+(a továbbiakban: OKTF)”szövegrész helyébe az„A Pest Megyei Kormányhivatal”,
+b) 2. §-ában a „katasztrófavédelmi szerv részére” szövegrész helyébe a „katasztrófavédelmi szerv – és ideiglenes
+ellátás esetén – a Koordináló szerv részére”,
+c) 4. § (1) bekezdésében az „az ideiglenes ellátás díjánál” szövegrész helyébe az „az ideiglenes ellátás
+ingatlanhasználó által fizetendő díjánál”,
+d) 14. § (4), (9) és (14) bekezdésében, 14/B. § (1) bekezdésében a „kijelölt közérdekű szolgáltató” szövegrész
+helyébe a„Koordináló szerv”,
+e) 14. § (8) bekezdésében, (12) bekezdés b) pontjában a „kijelölt közérdekű szolgáltatóval” szövegrész helyébe
+a„Koordináló szervvel”,
+
+f) 14. § (8) bekezdésében, (12) bekezdés b) pontjában, 14/B. § (2) és (3) bekezdésében a„közérdekű szolgáltató”
+szöveg helyébe a„Koordináló szerv”,
+g) 15. § (1) bekezdésében az „A hulladéklerakási járulék előirányzat kezelője (a továbbiakban: előirányzat
+kezelője)”szövegrész helyébe az„Az előirányzat kezelője”,
+h) 15. § (4) bekezdésében a „hulladéklerakási járulék előirányzatot” szövegrész helyébe a „fejezeti kezelésű
+előirányzatot”
+szöveg lép.
+8. §
+Hatályát veszti az R1.
+a) 3. § (4) bekezdés e)–g) pontja,
+b) 13. § (1) bekezdése,
+c) 14. § (3) bekezdése,
+d) 14/A. § (1) bekezdése.
+2. Az állami hulladékgazdálkodási közfeladat ellátására létrehozott szervezet kijelöléséről,
+feladatköréről, az adatkezelés módjáról, valamint az adatszolgáltatási kötelezettségek részletes
+szabályairól szóló 69/2016. (III. 31.) Korm. rendelet módosítása
+9. §
+Az állami hulladékgazdálkodási közfeladat ellátására létrehozott szervezet kijelöléséről, feladatköréről,
+az adatkezelés módjáról, valamint az adatszolgáltatási kötelezettségek részletes szabályairól szóló 69/2016. (III. 31.)
+Korm. rendelet (a továbbiakban: R2.) 1. §-a a következő g) ponttal egészül ki:
+(E rendelet hatálya)
+„g) az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi
+CXXXIV. törvény (a továbbiakban: 2013. évi CXXXIV. törvény) alapján ideiglenes ellátást végző közérdekű
+szolgáltatóra”
+(terjed ki.)
+10. §
+Az R2. 14. §-a helyébe a következő rendelkezés lép:
+„14. § (1) A 2013. évi CXXXIV. törvény szerinti ideiglenes ellátásnál a közszolgáltatási díjjal egyenértékű
+ingatlanhasználó által fizetendő ideiglenes ellátási díj és a szolgáltatási díj megállapításának feltételei az alábbiak
+szerint alkalmazandóak:
+a) az ideiglenes ellátás keretében az ideiglenes ellátási díjat a Koordináló szerv a 21/A. § (1) bekezdés szerinti
+adatszolgáltatás alapján számlázza ki, és a 10. § szerint szedi be,
+b) a 2013. évi CXXXIV. törvény 3. § (5a) bekezdés szerinti díjfizetési kötelezettséget az ingatlanhasználó a Koordináló
+szerv részére teljesíti,
+c) a Koordináló szerv a kijelölt közérdekű szolgáltatónak utólag, negyedévente szolgáltatási díjat fizet
+a nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek kijelöléséről szóló
+kormányrendeletben foglaltaknak megfelelően.
+(2) Ideiglenes ellátás esetén a 4. § (1) és (2) bekezdés, a 11. § (2)–(6) bekezdés, valamint a 12. § rendelkezéseit azzal
+az eltéréssel kell alkalmazni, hogy a közszolgáltató alatt közérdekű szolgáltatót, a közszolgáltatási díj alatt pedig
+ideiglenes ellátási díjat kell érteni.”
+11. §
+Az R2. a következő 21/A. §-sal egészül ki:
+„21/A. § (1) Az 1. § g) pontja szerinti szolgáltatót a 20. §-ban foglaltaknak megfelelő adatszolgáltatási kötelezettség
+terheli.
+(2) Az 1. § g) pontja szerinti szolgáltató az ellátásért felelős által kiadott teljesítésigazolással igazolja, hogy
+a közszolgáltató teljesítésével kapcsolatban kifogása nem merült fel.
+(3) Az (2) bekezdésben említett teljesítésigazolásnak a Koordináló szerv részére a rendszeres adatszolgáltatás
+keretében történő megküldése a szolgáltatási díj fizetésének feltétele.”
+12. §
+Az R2. a következő 27. §-sal egészül ki:
+„27. § (1) E rendeletnek az egyes kormányrendeleteknek a nem rendszeres hulladékszállítás szabályaival összefüggő
+módosításáról szóló 330/2016. (XI. 4.) Korm. rendelettel (a továbbiakban: Mód. Kr. 1.) megállapított 1. § g) pontját,
+14. §-át és 21/A. §-át – a (2) bekezdésben foglalt kivétellel – a 2017. január 1-jét követően végzett ideiglenes
+
+ellátással összefüggő számlázás, díjbeszedés, szolgáltatási díj kifizetés, adatszolgáltatás és teljesítésigazolás során
+kell alkalmazni.
+(2) Azon ideiglenes ellátásoknál, ahol a kijelölés végső időtartama legkésőbb 2017. január 31-én lejár,
+a díjmegállapítást, a számlázást, a többletköltségek igénylését és elszámolását a kijelölt közérdekű szolgáltató
+végzi, és tevékenységére a nem rendszeres hulladékszállítás szabályairól és az ennek során eljáró állami szervek
+kijelöléséről szóló kormányrendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.”
+13. §
+Ez a rendelet 2017. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
