@@ -1,0 +1,3 @@
+## 1. § A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet (a továbbiakban: R.) 3. §-a helyébe a következő rendelkezés lép:
+
+## „3. § A 2. mellékletben meghatározott költségvetési szervek, és a miniszternek a 12/A. § b) pontja alapján kiadott rendeletében meghatározott szervezetek számára a központi költségvetési forrásból finanszírozott, az ezen szervek és szervezetek működéséhez szükséges központosított informatikai és elektronikus hírközlési szolgáltatásokat – a 2/A. mellékletben meghatározott kivételekkel – kizárólag a központi szolgáltató nyújthatja, és e szervek és szervezetek kötelesek e szolgáltatásokat a központi szolgáltatótól igénybe venni.”
