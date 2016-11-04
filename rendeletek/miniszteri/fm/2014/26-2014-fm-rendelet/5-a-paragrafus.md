@@ -1,4 +1,4 @@
-5/A. §[^15] (1) Az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon az adott üzleti évben, valamint az azt megelőző két üzleti év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg a 15 000 eurónak megfelelő forintösszeget az 1408/2013/EU bizottsági rendelet 3. cikk (5)–(6) bekezdésében foglaltak figyelembevételével.
+5/A. §[^16] (1) Az 1408/2013/EU bizottsági rendelet hatálya alá tartozó, egy és ugyanazon vállalkozásnak minősülő vállalkozások részére Magyarországon az adott üzleti évben, valamint az azt megelőző két üzleti év alatt odaítélt támogatás bruttó támogatástartalma nem haladhatja meg a 15 000 eurónak megfelelő forintösszeget az 1408/2013/EU bizottsági rendelet 3. cikk (5)–(6) bekezdésében foglaltak figyelembevételével.
 
 (2) A támogatáshoz kapcsolódó iratokat az odaítélést követő tíz évig meg kell őrizni, és a támogatást nyújtó ilyen irányú felhívása esetén a támogatott köteles azokat bemutatni. A támogatásról az Európai Bizottság kérésére húsz munkanapon belül információt kell szolgáltatni.
 
@@ -8,4 +8,4 @@
 
 (5) A támogatás nem halmozható azonos támogatható költségek kapcsán vagy azonos kockázatfinanszírozási célú intézkedés kapcsán nyújtott állami támogatással, ha a támogatások halmozása túllépi az Európai Bizottság által elfogadott határozatban vagy csoportmentességi rendeletben az egyes esetek meghatározott körülményeire vonatkozóan rögzített maximális támogatási intenzitást vagy összeget. A nem konkrét elszámolható költségekre nyújtott vagy azokhoz hozzá nem rendelhető támogatás halmozható más, az Európai Bizottság által elfogadott csoportmentességi rendelet vagy határozat alapján nyújtott állami támogatással.
 
-[^15]: Az 5/A. §-t a 69/2015. (XI. 2.) FM rendelet 15. § (2) bekezdése iktatta be.
+[^16]: Az 5/A. §-t a 69/2015. (XI. 2.) FM rendelet 15. § (2) bekezdése iktatta be.

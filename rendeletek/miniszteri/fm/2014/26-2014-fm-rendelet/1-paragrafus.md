@@ -16,7 +16,9 @@
 
 8.[^5] mezőgazdasági termék: a 37/2011. (III. 22.) Korm. rendelet 2. § 10c. pontja szerinti termék;
 
-9.[^6] mezőgazdasági termékek elsődleges előállítása: a 37/2011. (III. 22.) Korm. rendelet 2. § 10d. pontja szerinti tevékenység.
+9.[^6] mezőgazdasági termékek elsődleges előállítása: a 37/2011. (III. 22.) Korm. rendelet 2. § 10d. pontja szerinti tevékenység;
+
+10.[^7] tárgyév: a támogatási időszak azon naptári éve, amelynek vonatkozásában a mezőgazdasági termelő a támogatást kérelmezi.
 
 [^1]: Az 1. § 3. pontja a 69/2015. (XI. 2.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 4. pontja a 69/2015. (XI. 2.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.
@@ -24,3 +26,4 @@
 [^4]: Az 1. § 7. pontját a 69/2015. (XI. 2.) FM rendelet 11. § (2) bekezdése iktatta be.
 [^5]: Az 1. § 8. pontját a 69/2015. (XI. 2.) FM rendelet 11. § (2) bekezdése iktatta be.
 [^6]: Az 1. § 9. pontját a 69/2015. (XI. 2.) FM rendelet 11. § (2) bekezdése iktatta be.
+[^7]: Az 1. § 10. pontját a 72/2016. (XI. 3.) FM rendelet 1. §-a iktatta be.
