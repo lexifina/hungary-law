@@ -1,4 +1,6 @@
-## 2. §[^3] E rendelet alkalmazásában:
+## 1/A. §[^3] E rendelet rendelkezéseit csak akkor kell alkalmazni, ha nemzetközi szerződés eltérően nem rendelkezik.
+
+## 2. §[^4] E rendelet alkalmazásában:
 
 1. dokumentálás: műemléki értéket érintő beavatkozások folyamatának és eredményének, az azok során megfigyelhető jelenségeknek, valamint a műemléki érték állapotának tárgyszerű, pontos szöveges és képi rögzítése és magyarázata;
 
@@ -6,7 +8,7 @@
 
 3. építéstörténeti tudományos dokumentáció: a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló 39/2015. (III. 11.) Korm. rendelet (a továbbiakban: Övr.) 9. melléklet II. rész D. pontjában meghatározottak összessége; többszintű megismerési folyamat eredménye, a műemléki érték engedélyhez nem kötött tudományos vizsgálatára, leltárba vételére, elemzésére, dokumentálására, a hozzá kapcsolódó források és szakirodalmi megállapítások feltárására, a műemléki érték történeti összefüggésbe helyezésére, valamint azon információk összegyűjtésére terjed ki, amelyek alapján meghatározhatók a műemléki érték megőrzését és érvényre juttatását biztosító beavatkozások és korlátozó tényezők;
 
-4. épületdiagnosztika: olyan roncsolásmentes vagy fizikai beavatkozással járó vizsgálat, különösen a faldiagnosztika, amely a tartószerkezetek műszaki állapotának – elsősorban a nedvesség és sószennyezés, a szilárdság – és anyagszerkezeti tulajdonságainak felderítésére, elemzésére és értékelésére szolgál;
+4.[^5] épületdiagnosztika: olyan roncsolásmentes vagy fizikai beavatkozással járó vizsgálat – különösen a faldiagnosztika, faanyagvédelmi vizsgálat –, amely a tartó- és egyéb épületszerkezetek műszaki állapotának elsősorban a nedvesség és sószennyezés, a biológiai károsodás, a szilárdság és anyagszerkezeti tulajdonságainak felderítésére, elemzésére és értékelésére szolgál;
 
 5. épületkutatás: az építéstörténeti tudományos dokumentáció módszereivel nem megismerhető, fizikai beavatkozással is járó komplex vizsgálat: az épületszerkezetek feltárása és elemzése, különösen a falkutatás; célja az építési periódusok és azok egymáshoz való viszonyának, a kutatott műemlék rejtett értékeinek megismerése és datálása, a kutatott műemlék használatának, funkciójának tisztázása, tudományos igényű dokumentálása; a kutatás irányulhat falazat, padló, födém vagy egyéb épületszerkezet feltárására is;
 
@@ -38,4 +40,6 @@
 
 19. vonalhálós alakhű műemlékfelmérés: alakhű építészeti felmérési módszert alkalmazó dokumentálás, amely az épülettől független (de az épület adottságához alkalmazkodó) geodéziai kitűzési hálózat felhasználásával, m=1:20, vagy m=1:50 léptékű ábrázolással pontosan rögzíti az épület geometriai jellemzőit és műszaki állapotának adatait (különösen a falszövet jellegzetességeit, repedéseket, falelválásokat, különböző korú vakolatmaradványok, festésrétegek felületi elhelyezkedését).
 
-[^3]: A 2. § a 38/2015. (III. 11.) Korm. rendelet 23. § (1) bkezdésével megállapított szöveg.
+[^3]: Az 1/A. §-t a 323/2016. (X. 27.) Korm. rendelet 2. §-a iktatta be.
+[^4]: A 2. § a 38/2015. (III. 11.) Korm. rendelet 23. § (1) bkezdésével megállapított szöveg.
+[^5]: A 2. § 4. pontja a 323/2016. (X. 27.) Korm. rendelet 3. §-ával megállapított szöveg.
