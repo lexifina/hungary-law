@@ -1,6 +1,6 @@
 ## 5. Adatváltozás bejelentése
 
-17. § (1)[^8] A 10. § (1) bekezdése szerint benyújtott egységes kérelemben megadott adatokra vonatkozó adatváltozás – a 10. § (3) bekezdésében foglaltaknak megfelelően – 2016. május 23-a után jelenthető be.
+17. § (1)[^9] A 10. § (1) bekezdése szerint benyújtott egységes kérelemben megadott adatokra vonatkozó adatváltozás – a 10. § (3) bekezdésében foglaltaknak megfelelően – 2016. május 23-a után jelenthető be.
 
 (2) Az adatváltozás bejelentéséhez kapcsolódóan a 2. § (1) bekezdésében meghatározott miniszteri rendeletekben foglalt jogkövetkezményeket kell alkalmazni.
 
@@ -20,4 +20,4 @@ c) a hasznosító személyének változásával érintett földterületek numeri
 
 (7) A hasznosító személyében bekövetkezett változásra vonatkozó, e rendelet szerinti rendelkezéseket abban az esetben kell alkalmazni, ha a 2. § (1) bekezdésében meghatározott miniszteri rendelet eltérően nem rendelkezik.
 
-[^8]: A 17. § (1) bekezdése a 37/2016. (V. 18.) FM rendelet 26. § d) és f) pontja szerint módosított szöveg.
+[^9]: A 17. § (1) bekezdése a 37/2016. (V. 18.) FM rendelet 26. § d) és f) pontja szerint módosított szöveg.
