@@ -1,4 +1,4 @@
-## 7. § Ez a rendelet a kihirdetését követő napon lép hatályba.
+## 8. §[^2] E rendeletnek az egyes közvetlen támogatásokat szabályozó miniszteri rendeletek módosításáról szóló 72/2016. (XI. 3.) FM rendelettel [a továbbiakban: 72/2016. (XI. 3.) FM rendelet] megállapított 6. § (2) bekezdését a 72/2016. (XI. 3.) FM rendelet hatálybalépésekor[^3] folyamatban lévő eljárásokban is alkalmazni kell.
 
 1. melléklet a 67/2016. (X. 13.) FM rendelethez
 
@@ -29,3 +29,6 @@ A termeléshez kötött közvetlen támogatások igénybevételének szabályair
 | 11. | szemes fehérjetakarmány-növény termesztés támogatás | 43 137 |
 
 | 12. | szálas fehérjetakarmány-növény termesztés támogatás | 19 097 |
+
+[^2]: A 8. §-t a 72/2016. (XI. 3.) FM rendelet 16. §-a iktatta be.
+[^3]: A hatálybalépés napja 2016. november 4.
