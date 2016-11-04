@@ -1,10 +1,8 @@
-## 27/D. §[^43] E rendeletnek a földművelésügyi miniszter feladat- és hatáskörébe tartozó, egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 37/2016. (V. 18.) FM rendelettel [a továbbiakban: 37/2016. (V. 18.) FM rendelet] megállapított 1. § 10. pontját, 21. § (6) bekezdését és 22. § (4) bekezdését a 2016. évben benyújtott egységes kérelmek alapján indult, folyamatban lévő eljárásokban kell alkalmazni.
-
 ## 27. Az Európai Unió jogának való megfelelés
 
 ## 28. § Ez a rendelet
 
-a) a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján az aktív mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-ei 1307/2013/EU európai parlamenti és tanácsi rendelet,
+a)[^80] a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról, valamint a 637/2008/EK és a 73/2009/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-ei 1307/2013/EU európai parlamenti és tanácsi rendelet,
 
 b) a közös agrárpolitika keretébe tartozó támogatási rendszerek alapján a mezőgazdasági termelők részére nyújtott közvetlen kifizetésekre vonatkozó szabályok megállapításáról szóló 1307/2013 európai parlamenti és tanácsi rendelet kiegészítéséről, és X. mellékletének módosításáról szóló, 2014. március 11-ei 639/2014/EU felhatalmazáson alapuló bizottsági rendelet,
 
@@ -16,4 +14,4 @@ e) az 1306/2013/EU európai parlamenti és tanácsi rendelet alkalmazási szabá
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
-[^43]: A 27/D. §-t a 37/2016. (V. 18.) FM rendelet 18. §-a iktatta be.
+[^80]: A 28. § a) pontja a 72/2016. (XI. 3.) FM rendelet 11. § j) pontja szerint módosított szöveg.
