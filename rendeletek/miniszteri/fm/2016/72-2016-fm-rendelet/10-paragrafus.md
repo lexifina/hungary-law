@@ -1,1 +1,0 @@
-## „(15) A visszaállítási kötelezettség elmulasztása, részleges teljesítése vagy a visszaállított gyepterület fenntartására vonatkozó előírások megsértése esetén az MVH a 640/2014/EU felhatalmazáson alapuló bizottsági rendelet 25. cikke szerint jár el.”
