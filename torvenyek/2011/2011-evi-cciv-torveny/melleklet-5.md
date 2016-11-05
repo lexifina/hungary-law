@@ -49,7 +49,3 @@
 ## Az adatok a hallgató részére meghatározott feltételek teljesítésétől számított 5 évig kezelhetőek. Amennyiben hallgatói jogviszony létesítésére nem kerül sor, a jelentkező 1/A. pont szerinti adatai a jelentkezéstől számított 1 évig kezelhetők.
 
 ## 5. Továbbítható:
-
-## a) a bíróságnak, a rendőrségnek, az ügyészségnek, a bírósági végrehajtónak, valamint az államigazgatási szervnek, ha konkrét ügy eldöntéséhez szükséges adat;
-
-## b) a nemzetbiztonsági szolgálatnak az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat;

@@ -10,6 +10,8 @@
 
 2. egészségügyi alkalmassági vizsgálat: orvosi vizsgálat, amelynek célja annak megállapítása, hogy az egyén testi adottságai és egészségi állapota alapján képes-e felkészülni a választott tevékenység ellátására, ennek során nem kerül-e veszélybe egészsége;
 
+2a. egyetemi kórház: az az egészségügyi szolgáltató, amely az egészségügyi felsőoktatási intézmény szervezeti egységeként az Eütv. alapján a működési engedélyében meghatározott ellátási területen és progresszivitási szinten járó- és fekvőbetegek diagnosztikus és terápiás szakorvosi ellátását, rehabilitációt és követéses gondozást, valamint a működési engedélyében meghatározott egyéb egészségügyi szolgáltatásokat végez, valamint közreműködik az orvos-, fogorvos-, gyógyszerész- és egészségtudományi képzéssel összefüggő gyakorlati képzési és kutatási feladatok ellátásában;
+
 3. esti képzés munkarendje: olyan oktatásszervezési rend, mely szerint a hallgatók tanóráira a szorgalmi időszakban munkanapokon tizenhat óra után vagy a heti pihenőnapon kerül sor;
 
 4. felmenő rendszer: képzésszervezési elv, amely alapján az új vagy módosított tanulmányi és vizsgakövetelményt azokra a hallgatókra lehet érvényesíteni, akik a bevezetését követően kezdték meg tanulmányaikat, illetve azokra, akik azt megelőzően kezdték meg tanulmányaikat, de választásuk alapján az új vagy módosított tanulmányi és vizsgakövetelmények alapján készülnek fel;
@@ -56,7 +58,7 @@ tartalmazza, a képzés részletes szabályaival, különösen a tantervvel, ill
 
 21. kis létszámú szak: nemzetközi kötelezettségvállalás, kultúr- és oktatáspolitikai érdekek alapján indított képzés, amelynek éves, magyar állami (rész)ösztöndíjjal támogatott felvehető létszáma országosan nem haladja meg a húsz főt, továbbá a nemzetiségi képzés;
 
-22. klinika: az az egészségügyi szolgáltató, amely a felsőoktatási intézmény szervezeti egységeként közreműködik az orvosképzéssel összefüggő képzési és kutatási feladatok ellátásában;
+22. klinika: a klinikai központ szervezeti egysége, amely az egészségügyi szolgáltató működési engedélye szerinti progresszivitási szinten és területi ellátási kötelezettsége keretében nyújtott gyógyító-megelőző feladatain keresztül közreműködik az orvos-, fogorvos-, gyógyszerész- és egészségtudományi képzéssel összefüggő képzési feladatok ellátásában, továbbá részt vesz az orvos- és egészségtudomány adott ágának elméleti és gyakorlati fejlesztésében, e szakterületen kutatómunkát végez;
 
 23. konzultáció: a felsőoktatási intézmény oktatója által a hallgató részére biztosított személyes megbeszélés lehetősége;
 

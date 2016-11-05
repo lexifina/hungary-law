@@ -102,6 +102,12 @@ c) a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásá
 
 rendeletben jelölje ki.
 
+(2a) Felhatalmazást kap a Kormány, hogy rendeletben
+
+a) szabályozza a gyakorló kórházzá minősítés szempontjait és eljárási szabályait,
+
+b) határozza meg a 97. § (3) bekezdése szerinti egészségügyi szolgáltatók körét, a középirányító egészségügyi felsőoktatási intézményeket, valamint a középirányító szervre átruházható hatásköröket.
+
 (3) Felhatalmazást kap a miniszter, hogy rendeletben szabályozza
 
 a) az oktatási jogok biztosa hivatalának feladatait, szervezetének és működésének szabályait, a hivatal vezetőjének juttatásait, tevékenységének irányítását,
