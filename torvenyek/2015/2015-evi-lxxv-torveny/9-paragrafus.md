@@ -3538,23 +3538,13 @@ Zalaegerszeg
 
 |
 
-Zala
+|
 
 |
 
-Zalaegerszeg
-
 |
 
-Zalaegerszeg
-
 |
-
-217/6
-
-|
-
-1/1
 
 |
 
