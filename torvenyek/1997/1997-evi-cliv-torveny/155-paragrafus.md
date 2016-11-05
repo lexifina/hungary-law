@@ -38,7 +38,7 @@ c) a költségvetési irányítás tekintetében az intézmények éves költsé
 
 d) az intézmény vezetője, gazdasági igazgatója tekintetében a munkáltatói jogok gyakorlása közül a kinevezés vagy megbízás és felmentés vagy a megbízás visszavonása, illetve – költségvetési szerv esetében, ha a vezetővel a Munka Törvénykönyve vezető állású munkavállalóra vonatkozó rendelkezései alkalmazásával munkaviszonyt kell létesíteni – a munkaviszony létesítése és megszüntetése.
 
-(5) Az állami egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója tekintetében – az (1) bekezdésben foglaltaktól eltérően – az alábbi eljárások vonatkozásában az egészségügyért felelős miniszter jár el – a fenntartó javaslatának és véleményének figyelembevételével – a fenntartói jogkör gyakorlójaként:
+(5) Az állami egészségügyi felsőoktatási intézmény által működtetett klinikai központ és egyetemi kórház tekintetében – az (1) bekezdésben foglaltaktól eltérően – az alábbi eljárások vonatkozásában az egészségügyért felelős miniszter jár el – az állami egészségügyi felsőoktatási intézmény javaslatának és véleményének figyelembevételével – a fenntartói jogkör gyakorlójaként:
 
 a) az egészségügyi szolgáltató szakmai felügyelete,
 

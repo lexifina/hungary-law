@@ -74,9 +74,9 @@ wb) egyházi jogi személy vagy vallási tevékenységet végző szervezet álta
 
 wc) alapítványi, közalapítványi egészségügyi szolgáltató esetén az alapítvány, közalapítvány,
 
-wd) egészségügyi felsőoktatási intézmény egészségügyi szolgáltatója esetén az egészségügyi felsőoktatási intézmény,
+wd) a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény (a továbbiakban: Nftv.) 97. § (1) bekezdés a), b) és c) pontja szerinti esetben az egészségügyi felsőoktatási intézmény,
 
-we) más szervezet esetén a tulajdonosi jogokat gyakorló szervezet.
+we) más szervezet esetén a tulajdonosi jogokat gyakorló szervezet;
 
 x) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 

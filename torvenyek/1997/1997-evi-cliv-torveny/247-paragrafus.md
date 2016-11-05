@@ -321,5 +321,3 @@ c) az Európai Parlament és a Tanács 2007/47/EK irányelve (2007. szeptember 5
 d) az Európai Parlament és a Tanács 2004/23/EK irányelve (2004. március 31.) az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról;
 
 e) az Európai Parlament és a Tanács 2010/53/EU irányelve (2010. július 7.) az átültetésre szánt emberi szervekre vonatkozó minőségi és biztonsági előírások megállapításáról;
-
-f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv. 107m. cikk (1)–(4) és (8) bekezdések, 107n. cikk (2) bekezdés;
