@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-115-00-00
 | --- | --- | --- |
 | 2016-11-05 | 2016. évi CXV. törvény | 2016-115-00-00.0 (közlönyállapot) |
 | 2016-11-05 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-115-00-00.1 |
+| 2016-11-06 | 2010. évi CXXX. törvény | 2016-115-00-00.2 |
