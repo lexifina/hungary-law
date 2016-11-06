@@ -1,5 +1,0 @@
-6. § Az Nftv. a következő 114/E. §-sal egészül ki:
-
-„114/E. § (1) E törvénynek az egyes törvényeknek az egyetemi kórházak létrehozásával, fenntartásával és működésével kapcsolatos módosításáról szóló 2016. évi CXIII. törvénnyel (a továbbiakban: Tv.) megállapított 97. és 97/A. §-ára, 98. § (1), (2) és (4) bekezdésére, 99. §-ára, 108. § 2a. és 22. pontjára tekintettel az egészségügyi felsőoktatási intézmények az irányítási hatáskörök átruházását követő 60 napon belül módosítják szervezeti és működési szabályzatukat.
-
-(2) A Tv. hatálybalépését megelőző napon orvos- és egészségtudományi központként működő egészségügyi szolgáltató a Tv. hatálybalépésének napjával klinikai központként működik tovább, ami nem érinti a központ vezetője megbízásának a fennállását. A Tv.-vel megállapított 99. § (2) bekezdésében meghatározott személyi képesítési és megbízási feltételeket a klinikai központ vezetője tekintetében első alkalommal a Tv. hatálybalépését követően meghirdetett pályázat alapján létesített vezetői megbízásra kell alkalmazni.”
