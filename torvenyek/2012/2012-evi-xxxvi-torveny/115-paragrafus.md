@@ -14,7 +14,7 @@ e) az ötven főt meghaladja, tizenöt fő,
 
 valamint ezen túlmenően a képviselőcsoport létszámával megegyező számú felső- vagy középfokú iskolai végzettségű köztisztviselő vagy munkavállaló segítheti.
 
-(3) A képviselőcsoport a (2) bekezdésben meghatározott személyek foglalkoztatására a (4) bekezdésben meghatározott bérkeret erejéig jogosult. A bérkeret terhére polgári jogi jogviszony is létesíthető.
+(3) A képviselőcsoport a (2) bekezdésben meghatározott személyek foglalkoztatására a (4) bekezdésben meghatározott bérkeret, illetve – a 118. § (1) bekezdése szerinti átcsoportosítás esetén – a (4) bekezdés szerinti bérkeret átcsoportosítással növelt összege erejéig jogosult. A bérkeret terhére polgári jogi jogviszony is létesíthető.
 
 (4) A képviselőcsoport a (2) bekezdés szerint megállapított létszám
 
