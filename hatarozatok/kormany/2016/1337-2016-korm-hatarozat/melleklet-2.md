@@ -14,6 +14,6 @@
 
 | 6. | „Sgrafittós ház” állagmegóvó és funkcióbővítő fejlesztése | Kőszeg Város Önkormányzata | 18 000 000 | 75 000 000 |
 
-| 7. | Menedzsment költség (együttesen) | MNV Zrt. | 112 000 000 | 1 459 445 000 |
+| 7. | Menedzsment költség (együttesen) | MNV Zrt. | 90 000 000 | 50 000 000 |
 
 2. melléklet az 1337/2016. (VII. 4.) Korm. határozathoz

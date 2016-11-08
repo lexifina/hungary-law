@@ -1,4 +1,4 @@
-## 1. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a „»Kreatív város – fenntartható vidék« – a Nyugat-Pannon régióban új regionális fejlesztési koncepció megvalósításáról” című program (a továbbiakban: KRAFT Program) első fázisa keretében megkezdett, az 1. mellékletben meghatározott beruházások lezárásához szükséges, az 1. mellékletben foglalt táblázat C oszlopában meghatározott mértékű forrásoknak a központi költségvetés terhére történő biztosításáról,
+## 1.[^1] felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a „»Kreatív város – fenntartható vidék« – a Nyugat-Pannon régióban új regionális fejlesztési koncepció megvalósításáról” című program (a továbbiakban: KRAFT Program) első fázisa keretében megkezdett, az 1. mellékletben meghatározott beruházások lezárásához szükséges, az 1. mellékletben foglalt táblázat C és D oszlopában meghatározott mértékű forrásoknak a központi költségvetés terhére történő biztosításáról,
 
 ## Felelős: nemzetgazdasági miniszter
 
@@ -44,7 +44,7 @@
 
 ## 3. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon a 2. mellékletben foglalt táblázat F oszlopában meghatározott források biztosításáról
 
-## a) Kőszeg Város Önkormányzata javára a Terület- és Településfejlesztési Operatív Program (a továbbiakban: TOP) 1–5. prioritása megyei keretből nem finanszírozható projektköltségek kiegészítő finanszírozásához a Magyarország központi költségvetéséről szóló törvényben (a továbbiakban: Kvtv.) meghatározott Belügyminisztérium fejezetben, valamint
+## a)[^2] Kőszeg Város Önkormányzata javára a Terület- és Településfejlesztési Operatív Program (a továbbiakban: TOP) 1–5. prioritása megyei keretből nem finanszírozható projektköltségek kiegészítő finanszírozásához az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet 6. § (1) bekezdés b) pontja alapján a Magyarország központi költségvetéséről szóló törvényben (a továbbiakban: Kvtv.) 1. melléklet XIX. Uniós fejlesztések fejezet, 2. Fejezeti kezelésű előirányzatok cím, 9. 2014–2020 közötti kohéziós politikai operatív programok alcím, 3. Terület- és Településfejlesztési OP (TOP) jogcímcsoport hazai társfinanszírozáson felüli felhasználásával, valamint
 
 ## b) a Magyar Nemzeti Vagyonkezelő Zártkörűen működő Részvénytársaság (a továbbiakban: MNV Zrt.) részére későbbi uniós társfinanszírozás terhére elszámolható költségek megelőlegezéseként a 2. mellékletben meghatározott táblázat 13–15. sorában meghatározott fejlesztés teljes körű tervezéséhez és projekt-előkészítéséhez a Kvtv.-ben meghatározott Az állami vagyonnal kapcsolatos bevételek és kiadások fejezetben
 
@@ -102,4 +102,8 @@
 
 ## Határidő: 2017. november 30.
 
-1. melléklet az 1337/2016. (VII. 4.) Korm. határozathoz
+1. melléklet az 1337/2016. (VII. 4.) Korm. határozathoz[^3]
+
+[^1]: Az 1. pont az 1617/2016. (XI. 8.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont a) alpontja az 1617/2016. (XI. 8.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: Az 1. melléklet az 1617/2016. (XI. 8.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
