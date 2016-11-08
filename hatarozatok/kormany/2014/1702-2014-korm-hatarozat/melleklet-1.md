@@ -22,7 +22,7 @@
 
 ## a) az 1. és a 3. pontban meghatározott keret és szempontrendszer figyelembevételével,
 
-## b) a megye közigazgatási területének a megyei jogú város közigazgatási területén kívüli részére vonatkozóan,
+## b)[^2] a megye közigazgatási területének a megyei jogú város közigazgatási területén kívüli részére – a megyei jogú város önkormányzatának egyetértése esetén a megyei jogú város közigazgatási területére is – vonatkozóan,
 
 ## c) az érintett települési önkormányzatok bevonásával
 
@@ -52,8 +52,9 @@
 
 ## Határidő: folyamatos
 
-## 13.[^1]
+## 13.[^3]
 
 1. melléklet az 1702/2014. (XII. 3.) Korm. határozathoz
 
-[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 5. pont b) alpontja az 1612/2016. (XI. 8.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^3]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
