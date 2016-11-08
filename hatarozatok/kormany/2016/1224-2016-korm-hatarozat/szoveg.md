@@ -2,17 +2,13 @@ A Kormány
 
 1. az Alkotmányvédelmi Hivatal hatékony működésének biztosítása érdekében támogatja az Alkotmányvédelmi Hivatal Budapest XI. kerület, Fehérvári út 70. szám alatt található, a Budapest XI. kerület 3893 helyrajzi számon nyilvántartott ingatlanban (a továbbiakban: ingatlan) történő elhelyezését és a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvényben foglaltak alapján a kiemelt beruházássá történő minősítését;
 
-2. felhívja a nemzeti fejlesztési minisztert, hogy a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) útján gondoskodjon az 1. pont szerinti ingatlan legfeljebb a független ingatlanforgalmi szakértő által meghatározott forgalmi értéken történő megvásárlásáról azzal, hogy a vételár megfizetéséhez szükséges fedezetet a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény (a továbbiakban: Kvtv.) 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet terhére szükséges biztosítani;
+2.[^1]
+
+3.[^2] felhívja a nemzeti fejlesztési minisztert, hogy az MNV Zrt. útján intézkedjen az 1. pont szerinti ingatlan Alkotmányvédelmi Hivatal részére történő vagyonkezelésbe adásáról;
 
 Felelős: nemzeti fejlesztési miniszter
 
-Határidő: 2016. június 15.
-
-3. felhívja a nemzeti fejlesztési minisztert, hogy az MNV Zrt. útján intézkedjen az 1. pont szerinti ingatlan Alkotmányvédelmi Hivatal részére történő vagyonkezelésbe adásáról;
-
-Felelős: nemzeti fejlesztési miniszter
-
-Határidő: 2016. július 1.
+Határidő: azonnal
 
 4. felhívja a nemzetgazdasági minisztert, hogy az Alkotmányvédelmi Hivatal, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, valamint a kormányzati adatközpont egységes elhelyezését biztosító Budapest XI. kerület, Fehérvári út 70. szám alatti ingatlan felújításához, valamint az informatikai rendszer kialakításához 2016. évben 3631,9 millió forint, 2017. évben 7000,0 millió forint, 2018. évben 4800,0 millió forint rendelkezésre állásáról gondoskodjon a Kvtv. 1. melléklet XIV. Belügyminisztérium fejezet, 8. Alkotmányvédelmi Hivatal cím részére;
 
@@ -53,3 +49,6 @@ Felelős: nemzetgazdasági miniszter
 Határidő: azonnal
 
 10. egyetért azzal, hogy az Alkotmányvédelmi Hivatal, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, valamint a kormányzati adatközpont egységes elhelyezéséhez szükséges beszerzések lefolytatása során a Kormány irányítása alá tartozó fejezetek költségvetési szerveinek eszközbeszerzéseiről szóló 1982/2013. (XII. 29.) Korm. határozat rendelkezéseit nem kell alkalmazni.
+
+[^1]: A 2. pontot az 1602/2016. (XI. 8.) Korm. határozat 2. pontja visszavonta.
+[^2]: A 3. pont az 1602/2016. (XI. 8.) Korm. határozat 3. pontja szerint módosított szöveg.
