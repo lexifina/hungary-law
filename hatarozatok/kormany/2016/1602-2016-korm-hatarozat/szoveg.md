@@ -52,6 +52,6 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: a felmerülő akadály miatti meghiúsulást követően azonnal
 
-2. A Kormány visszavonja az Alkotmányvédelmi Hivatal, a Terrorelhárítási Információs és Bűnügyi Elemző Központ, valamint a kormányzati adatközpont egységes elhelyezéséhez szükséges költségvetési többletforrások biztosításáról szóló 1224/2016. (V. 2.) Korm. határozat (a továbbiakban: Korm. határozat) 2. pontját.
+2–3.[^1]
 
-3. A Korm. határozat 3. pontjában a „Határidő: 2016. július 1.” szövegrész helyébe a „Határidő: azonnal” szöveg lép.
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
