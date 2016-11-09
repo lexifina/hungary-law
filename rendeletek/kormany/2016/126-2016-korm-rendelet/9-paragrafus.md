@@ -28,7 +28,10 @@ b) b) pontja szerinti megelőlegezés esetén legkésőbb az uniós támogatási
 
 (11) A megelőlegezési szerződés kezelése, a megelőlegezés kiutalása és visszakövetelése az IMIR 2014–2020 rendszeren keresztül történik.
 
+(12)[^22] A megelőlegezés kifizetése az előirányzat-felhasználási keretszámláról történik.
+
 [^18]: A 9. § (3) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 7. § 13. pontja szerint módosított szöveg.
 [^19]: A 9. § (4) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^20]: A 9. § (6) bekezdése a 223/2016. (VII. 22.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
 [^21]: A 9. § (6a) bekezdését a 223/2016. (VII. 22.) Korm. rendelet 5. § (2) bekezdése iktatta be.
+[^22]: A 9. § (12) bekezdését a 334/2016. (XI. 8.) Korm. rendelet 1. §-a iktatta be.
