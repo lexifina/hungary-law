@@ -20,4 +20,6 @@ nemzetgazdasági miniszter
 
 Határidő: azonnal
 
-4. visszavonja az IMIR 2014–2020 informatikai rendszer finanszírozásához szükséges intézkedésekről és a 2015. évi költségvetési maradványok egy részének felhasználásáról szóló 1400/2016. (VII. 21.) Korm. határozatot.
+4.[^2]
+
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
