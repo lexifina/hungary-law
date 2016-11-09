@@ -88,9 +88,7 @@
 
 ## 3. A Kormány egyetért azzal, hogy a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 57/A. § (1) bekezdése szerinti esetben a fejlesztés a megyei jogú város közigazgatási területén is megvalósulhat.
 
-## 4. A 2014–2020 közötti programozási időszakban a Terület- és Településfejlesztési Operatív Program tervezésének egyes szempontjairól, valamint az operatív programhoz tartozó megyék megyei önkormányzatai és a megyei jogú városok önkormányzatai tervezési jogkörébe utalt források megoszlásáról szóló 1702/2014. (XII. 3.) Korm. határozat 5. pont b) alpontjában a „vonatkozóan,” szövegrész helyébe az „– a megyei jogú város önkormányzatának egyetértése esetén a megyei jogú város közigazgatási területére is – vonatkozóan,” szöveg lép.
-
-## 5. A Kormány visszavonja a Terület- és Településfejlesztési Operatív Program keretében megvalósuló integrált területi programok jóváhagyásáról szóló 1562/2015. (VIII. 12.) Korm. határozatot.
+## 4–5.[^1]
 
 1. melléklet az 1612/2016. (XI. 8.) Korm. határozathoz
 
@@ -329,3 +327,5 @@
 | 19. | Veszprém Megyei Önkormányzat | 15,50 | 76,73 | 3,85 | 20,00 | 140,00 | 700,00 | 15 779,03 | 78 900,00 | 14,00 | 39,00 | 2 129,00 | 21 284,12 | 11,00 | 54,00 | 14,00 | 66,00 | 486,00 | 2 427,00 | 1 505,00 | 7 523,00 |
 
 | 20. | Zala Megyei Önkormányzat | 14,45 | 34,37 | 5,81 | 9,81 | 120,00 | 361,00 | 10 200,00 | 44 667,00 | 20,00 | 20,00 | 10 859,63 | 10 859,63 | 14,00 | 27,00 | 15,00 | 34,00 | 242,00 | 1 209,00 | 768,00 | 3 838,00 |
+
+[^1]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
