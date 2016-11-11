@@ -6,6 +6,8 @@ Felelős: belügyminiszter
 
 Határidő: 2018. március 31.
 
+1a.[^1] egyetért az 1. pont szerinti ingatlan-együttes átalakítása során – a világörökségi hatástanulmány ajánlása alapján – a Budapest I. kerület, Országház u. 32. szám alatti épületszárny Budapest I. kerület, Kapisztrán tér felé nyitott udvarának a kolostorépület stílusához igazodó új épületszárnnyal történő lezárásával;
+
 2. felhívja a nemzeti fejlesztési minisztert, hogy tegyen javaslatot a Belügyminisztériumhoz tartozó, az 1. pont szerinti ingatlanban el nem helyezhető állomány más, a budai Várnegyed területén található ingatlanban történő elhelyezésére;
 
 Felelős: nemzeti fejlesztési miniszter
@@ -24,25 +26,7 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: az egyeztetések lefolytatása tekintetében azonnal
 
-5. felhívja a Miniszterelnökséget vezető minisztert és a postaügyért és a nemzeti pénzügyi szolgáltatásokért felelős kormánybiztost, hogy – a nemzeti fejlesztési miniszter és az emberi erőforrások minisztere közreműködésével, a Magyar Posta Zrt., valamint a Postás Múzeumi és Művelődési Alapítvány bevonásával – tegyenek javaslatot az 1. pont szerinti épületegyüttesben működő Telefónia Múzeum áthelyezésére;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-postaügyért és a nemzeti pénzügyi szolgáltatásokért felelős kormánybiztos
-
-nemzeti fejlesztési miniszter
-
-emberi erőforrások minisztere
-
-Határidő: 2016. december 31.
-
-6. felhívja a Miniszterelnökséget vezető minisztert és a postaügyért és a nemzeti pénzügyi szolgáltatásokért felelős kormánybiztost, hogy gondoskodjanak a Telefónia Múzeum átköltöztetéséről;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-postaügyért és a nemzeti pénzügyi szolgáltatásokért felelős kormánybiztos
-
-Határidő: 2017. március 31.
+5–6.[^2]
 
 7. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az ingatlan-együttes átalakításával kapcsolatos beruházáshoz szükséges forrásnak a XIV. Belügyminisztérium költségvetési fejezetben történő rendelkezésre állásáról
 
@@ -63,3 +47,6 @@ Határidő: a felmerülés ütemében
 Felelős: belügyminiszter
 
 Határidő: azonnal
+
+[^1]: Az 1a. pontot az 1620/2016. (XI. 11.) Korm. határozat 2. pontja iktatta be.
+[^2]: Az 5–6. pontot az 1620/2016. (XI. 11.) Korm. határozat 1. pont 1.12. pont b) alpontja visszavonta.
