@@ -12,7 +12,7 @@
 
 ## Határidő: 2016. december 31.
 
-## 2. felhívja a nemzetgazdasági minisztert, hogy az 1. pont szerinti beruházás befejezése érdekében a 2016. évben 1042,6 millió forint egyszeri jelleggel történő biztosításáról gondoskodjon.
+## 2.[^2] felhívja a nemzetgazdasági minisztert, hogy az 1. pont szerinti beruházás befejezése érdekében a felmerülés ütemében 1042,6 millió forint egyszeri jelleggel történő biztosításáról gondoskodjon.
 
 1. melléklet az 1457/2015. (VII. 7.) Korm. határozathoz
 
@@ -71,3 +71,4 @@
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 [^1]: Az 1. pont az 1438/2016. (VIII. 17.) Korm. határozat 9. pontja szerint módosított szöveg.
+[^2]: A 2. pont az 1621/2016. (XI. 11.) Korm. határozat 3. pontja szerint módosított szöveg.
