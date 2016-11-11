@@ -12,9 +12,11 @@
 
 ## h) kender: minden Cannabis nemzetséghez tartozó növény;
 
-## i) [^8]alacsony tetrahidrocannabinol (a továbbiakban: THC) tartalmú kender (Cannabis sativa L.): olyan, a NÉBIH által a Nemzeti Fajtajegyzékben, valamint az Európai Bizottság által a Közösségi Fajtajegyzékben közzétett rost- és magkenderfajta, amelynek szabad THC tartalma a növény légszáraz állapotú, gyökérzettől és száraktól mentes homogenizált részében, a növény érettségi állapotától függetlenül nem éri el a 0,2%-ot;
+## i)[^8] alacsony THC tartalmú kender: olyan, a Cannabis sativa L. fajhoz tartozó rost- és magkenderfajta, amelynek tetrahidrocannabinol (THC) tartalma ténylegesen vagy a kenderfajta állami elismerési eljárása vagy a Közösségi Fajtajegyzékbe való felvételre irányuló eljárás során végzett vizsgálatok eredménye alapján a növény légszáraz állapotú, gyökérzettől és száraktól mentes homogenizált részében nem éri el a 0,2%-ot;
 
-## j) [^9]magas THC tartalmú kender: olyan, a NÉBIH által a Nemzeti Fajtajegyzékben, valamint az Európai Bizottság által a Közösségi Fajtajegyzékben közzétett rost- és magkenderfajta, amelynek szabad THC tartalma a növény légszáraz állapotú, gyökérzettől és száraktól mentes homogenizált részében, a növény érettségi állapotától függetlenül eléri vagy meghaladja a 0,2%-ot.
+## j)[^9] magas THC tartalmú kender: olyan kenderfajta, amely nem minősül alacsony THC tartalmúnak;
+
+## k)[^10] kannabisz: a KKR. 1. § 20. pontja szerinti fogalom.
 
 [^2]: Az 1. § b) pontja a 137/2012. (VI. 29.) Korm. rendelet 95. § (3) bekezdése, a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^3]: Az 1. § c) pontja a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) pontja szerint módosított szöveg.
@@ -22,5 +24,6 @@
 [^5]: Az 1. § e) pontja a 19/2015. (II. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^6]: Az 1. § f) pontja a 19/2015. (II. 16.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^7]: Az 1. § g) pontját a 19/2015. (II. 16.) Korm. rendelet 10. § a) pontja hatályon kívül helyezte.
-[^8]: Az 1. § i) pontja a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^9]: Az 1. § j) pontja a 296/2012. (X. 17.) Korm. rendelet 13. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^8]: Az 1. § i) pontja a 332/2016. (XI. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: Az 1. § j) pontja a 332/2016. (XI. 8.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: Az 1. § k) pontját a 332/2016. (XI. 8.) Korm. rendelet 1. §-a iktatta be.

@@ -1,10 +1,10 @@
-9/A. §[^45] (1)[^46] A kormányhivatal ellenőrzi az étkezési mák termesztője számára e rendeletben megállapított kötelezettség teljesítését.
+9/A. §[^47] (1)[^48] A kormányhivatal ellenőrzi az étkezési mák termesztője számára e rendeletben megállapított kötelezettség teljesítését.
 
-(2)[^47] Étkezési mák 500 m2-t meghaladó termőterületen történő termesztése esetén a kormányhivatal évente egyszer, az állomány virágzó állapotának végéig, szántóföldi ellenőrzést végez. Amennyiben a máktábla nagysága étkezési mák kereskedelmi céllal történő termesztése esetén nem haladja meg az 500 m2-t, a kormányhivatal szántóföldi ellenőrzést szúrópróbaszerűen végez az állomány virágzó állapotának végéig.
+(2)[^49] Étkezési mák 500 m2-t meghaladó termőterületen történő termesztése esetén a kormányhivatal évente egyszer, az állomány virágzó állapotának végéig, szántóföldi ellenőrzést végez. Amennyiben a máktábla nagysága étkezési mák kereskedelmi céllal történő termesztése esetén nem haladja meg az 500 m2-t, a kormányhivatal szántóföldi ellenőrzést szúrópróbaszerűen végez az állomány virágzó állapotának végéig.
 
-(3)[^48] A kormányhivatal a szántóföldi ellenőrzés keretében ellenőrzi a bejelentett adatok megfelelőségét. A kormányhivatal a szántóföldi ellenőrzés során a fajtaazonosság vagy az alkaloid tartalom laboratóriumi vizsgálattal történő megállapítása érdekében a máktokból mintát vehet.
+(3)[^50] A kormányhivatal a szántóföldi ellenőrzés keretében ellenőrzi a bejelentett adatok megfelelőségét. A kormányhivatal a szántóföldi ellenőrzés során a fajtaazonosság vagy az alkaloid tartalom laboratóriumi vizsgálattal történő megállapítása érdekében a máktokból mintát vehet.
 
-(4)[^49] A kormányhivatal a termesztő költségére elrendelheti az étkezési máktábla talajba forgatással történő megsemmisítését, amennyiben
+(4)[^51] A kormányhivatal a termesztő költségére elrendelheti az étkezési máktábla talajba forgatással történő megsemmisítését, amennyiben
 
 a) az étkezési mák termesztése a 8. § (2) bekezdése alapján bejelentési kötelezettség alá tartozik és a termesztő a bejelentési kötelezettségének határidőre nem tett eleget, illetve azt legkésőbb a mák virágzásának befejezését megelőző tizenöt napig nem pótolta,
 
@@ -12,8 +12,8 @@ b) a termesztő nem fémzárolt vetőmagot használt fel, vagy
 
 c) a termesztő valótlan adatokat jelentett be.
 
-[^45]: A 9/A. §-t a 19/2015. (II. 16.) Korm. rendelet 6. §-a iktatta be.
-[^46]: A 9/A. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 61. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^47]: A 9/A. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 61. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^48]: A 9/A. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 61. § (5) bekezdés c) pontja szerint módosított szöveg.
-[^49]: A 9/A. § (4) bekezdése a 177/2015. (VII. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^47]: A 9/A. §-t a 19/2015. (II. 16.) Korm. rendelet 6. §-a iktatta be.
+[^48]: A 9/A. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 61. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^49]: A 9/A. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 61. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^50]: A 9/A. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 61. § (5) bekezdés c) pontja szerint módosított szöveg.
+[^51]: A 9/A. § (4) bekezdése a 177/2015. (VII. 7.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.

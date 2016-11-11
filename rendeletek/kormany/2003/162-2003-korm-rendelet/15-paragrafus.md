@@ -1,6 +1,6 @@
-## 14. §[^80] Tevékenységi engedély hiányában mák és kender kábítószernek minősülő hatóanyag-tartalmának növelésére gyógyászati célú tudományos kutatási tevékenység az ENKK által kibocsátott eseti kutatási engedély birtokában folytatható. Az ENKK az engedélyt közli a miniszterrel és az Országos Rendőr-főkapitánysággal is.
+## 14. §[^84] Magas THC tartalmú kender bármely részének exportja, importja és transzfere esetén a KKR. szerinti eseti export-, illetve eseti importengedélyt az ENKK adja ki a KKR. szerinti tevékenységi engedéllyel már rendelkező gazdálkodó szervezetek részére.
 
-## 15. §[^81] A rendeletben foglaltakat
+## 15. §[^85] A rendeletben foglaltakat
 
 a) a 4. § (2) bekezdése szerinti tevékenységek,
 
@@ -10,5 +10,5 @@ c) a 14. § szerinti tevékenységek
 
 esetében a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerinti szabad szolgáltatásnyújtás jogával rendelkező szolgáltató által határon átnyúló szolgáltatásnyújtás keretében történő folytatására is alkalmazni kell.
 
-[^80]: A 14. § a 62/2010. (III. 18.) Korm. rendelet 12. §-ával megállapított, a 30/2015. (II. 25.) Korm. rendelet 14. § e) pontja szerint módosított szöveg.
-[^81]: A 15. §-t a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte, újonnan a 141/2010. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
+[^84]: A 14. § a 332/2016. (XI. 8.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^85]: A 15. §-t a 62/2010. (III. 18.) Korm. rendelet 18. § (1) bekezdése hatályon kívül helyezte, újonnan a 141/2010. (IV. 28.) Korm. rendelet 1. §-a iktatta be.
