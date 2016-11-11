@@ -1,4 +1,4 @@
-## 1.[^1] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján 6411,5 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint.
+## 1.[^2] A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 21. § (6) bekezdése alapján 6411,5 millió forint egyszeri átcsoportosítását rendeli el elszámolási, a fel nem használt rész tekintetében visszatérítési kötelezettséggel a Magyarország 2015. évi központi költségvetéséről szóló 2014. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 32. Rendkívüli kormányzati intézkedések cím terhére, az 1. melléklet szerint.
 
 ## Az átcsoportosítás tekintetében
 
@@ -10,7 +10,7 @@
 
 ## Felelős: igazságügyi miniszter, belügyminiszter, nemzeti fejlesztési miniszter, emberi erőforrások minisztere
 
-## Határidő: 2016. június 30., a Liget Budapest projekt előkészítése és megvalósítása előirányzat javára biztosított 2220,0 millió forint és a Nemzeti Infokommunikációs Stratégia (NIS) végrehajtásához kapcsolódó feladatok előirányzat javára biztosított 1401,5 millió forint, valamint a Közgyűjtemények cím javára a Szépművészeti Múzeum részére átcsoportosított 1510,0 millió forint tekintetében 2016. november 30.
+## Határidő: 2016. június 30., a Liget Budapest projekt előkészítése és megvalósítása előirányzat javára biztosított 2220,0 millió forint és a Közgyűjtemények cím javára a Szépművészeti Múzeum részére átcsoportosított 1510,0 millió forint tekintetében 2016. november 30., a Nemzeti Infokommunikációs Stratégia (NIS) végrehajtásához kapcsolódó feladatok előirányzat javára biztosított 1401,5 millió forint és a Kormányzati infokommunikációs szolgáltatások előirányzat javára biztosított 360,0 millió forint tekintetében 2017. június 30.
 
 ## 2. A Kormány egyetért azzal, hogy a Liget Budapest projekt megvalósításához a 2015. évben legfeljebb további 11 700,0 millió forint forrás biztosítása szükséges és felhívja a nemzetgazdasági minisztert, hogy gondoskodjon – az emberi erőforrások minisztere bevonásával – a szükséges források ütemezett rendelkezésre állásáról.
 
@@ -20,15 +20,15 @@
 
 ## Határidő: felmerülés ütemében
 
-## 3–6.[^2]
+## 3–6.[^3]
 
 ## 7. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1052/2014. (II. 11.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. A kommunizmus áldozatai emlékmúzeumának létrehozásához való hozzájárulás jogcímcsoport, K6. Beruházások kiemelt előirányzat javára átcsoportosított 183,8 millió forint a XI. Miniszterelnökség fejezet, 15. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 11. A kommunizmus áldozatai emlékmúzeumának létrehozásához való hozzájárulás jogcímcsoport, K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 8.[^3]
+## 8.[^4]
 
 ## 9. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, az Országvédelmi Alapból történő előirányzat-átcsoportosításról, a pártalapítványok tartalékának átcsoportosításáról, az Összevont szakellátás jogcím előirányzatának megemeléséről és egyes kormányhatározatok módosításáról szóló 1812/2014. (XII. 19.) Korm. határozat (a továbbiakban: Határozat2) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XV. Nemzetgazdasági Minisztérium, 25. Fejezeti kezelésű előirányzatok cím, 53. Turisztikai célelőirányzat alcím, K.8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 405,0 millió forintból 55,0 millió forint XV. Nemzetgazdasági Minisztérium, 25. Fejezeti kezelésű előirányzatok cím, 53. Turisztikai célelőirányzat alcím, K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 10.[^4]
+## 10.[^5]
 
 1. melléklet az 1035/2015. (I. 30.) Korm. határozathoz
 
@@ -174,7 +174,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: Az 1. pont az 1182/2016. (IV. 11.) Korm. határozat 5. pontja, az 1225/2016. (V. 2.) Korm. határozat 3. pontja, az 1301/2016. (VI. 13.) Korm. határozat 8. pontja szerint módosított szöveg.
-[^2]: A 3–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^4]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. pont az 1182/2016. (IV. 11.) Korm. határozat 5. pontja, az 1225/2016. (V. 2.) Korm. határozat 3. pontja, az 1301/2016. (VI. 13.) Korm. határozat 8. pontja, az 1621/2016. (XI. 11.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: A 3–6. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

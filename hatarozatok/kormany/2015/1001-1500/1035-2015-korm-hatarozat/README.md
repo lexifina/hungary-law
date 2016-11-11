@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-1035-30
 | 2016-04-11 | 2015-1035-30-22.3 | 1182/2016. (IV. 11.) Korm. határozat |
 | 2016-05-02 | 2015-1035-30-22.4 | 1182/2016. (IV. 11.) Korm. határozat |
 | 2016-06-13 | 2015-1035-30-22.5 | 1182/2016. (IV. 11.) Korm. határozat |
+| 2016-11-11 | 2015-1035-30-22.6 | 1853/2016. (XII. 27.) Korm. határozat |
