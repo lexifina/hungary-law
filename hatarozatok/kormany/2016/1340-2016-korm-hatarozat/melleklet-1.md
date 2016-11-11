@@ -6,17 +6,17 @@
 
 ## Határidő: azonnal
 
-## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1182/2016. (IV. 11.) Korm. határozat 1. pontja szerint a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség cím javára a K6. Beruházások kiemelt előirányzat javára biztosított 613,9 millió forint a K7. Felújítások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
+## 2.[^1] A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1182/2016. (IV. 11.) Korm. határozat 1. pontja szerint a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség cím javára a K6. Beruházások kiemelt előirányzat javára biztosított 613,9 millió forintból 499 801 ezer forint a K7. Felújítások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 3.[^1]
+## 3.[^2]
 
 ## 4. A Kormány egyetért azzal, hogy a Határozat 2. pontja szerint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcím, 7. Liget Budapest projekt előkészítése és megvalósítása jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat javára átcsoportosított 2330,5 millió forintból 237 612 500 forint a K5. Egyéb működési célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 5–11.[^2]
+## 5–11.[^3]
 
 ## 12. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1855/2015. (XI. 24.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 8. VERITAS Történetkutató Intézet cím javára átcsoportosított összesen 28,5 millió forintból 4,2 millió forint a K1. Személyi juttatások kiemelt előirányzat, 0,9 millió forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzat, 23,4 millió forint a K3. Dologi kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
-## 13.[^3]
+## 13.[^4]
 
 ## 14. A Kormány egyetért azzal, hogy az Országvédelmi Alapból történő előirányzat-átcsoportosításról és a 2015. évi költségvetési maradványok egy részének felhasználásáról szóló 1302/2016. (VI. 13.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 3. Felsőoktatási feladatok támogatása alcím, 1. Felsőoktatás speciális feladatai jogcímcsoport javára átcsoportosított összesen 927,0 millió forintból 197,0 millió forint a K5. Egyéb működési célú kiadások kiemelt előirányzat, 730,0 millió forint a K8. Egyéb felhalmozási célú kiadások kiemelt előirányzat terhére kerüljön felhasználásra és elszámolásra.
 
@@ -200,6 +200,7 @@
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^2]: Az 5–11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^3]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont az 1621/2016. (XI. 11.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: Az 5–11. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
