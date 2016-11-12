@@ -1,5 +1,0 @@
-## 4. § Az R. 9/B. §-a a következő (4a) és (4b) bekezdéssel egészül ki:
-
-## „(4a) Amennyiben a 2016. évben betakarított étkezési mák termesztője a 8. § (2) bekezdése szerinti bejelentés hiánya miatt nem rendelkezik a (3) bekezdés szerinti igazolással, a termesztő 2016. december 15-ig a 8. § (2) bekezdése szerinti adatok benyújtásával kérelmezheti a kormányhivatalnál az igazolás kiadását és ezzel egyidejűleg a betakarított mákmag 11. § (3a) bekezdése szerinti alkaloid tartalmának vizsgálatát.
-
-## (4b) A (4a) bekezdés szerinti kérelem alapján az élelmiszerlánc-biztonsági és állategészségügyi feladatkörében eljáró megyei kormányhivatal mintát vesz a betakarított mákmagból. A tétel forgalmazásához szükséges igazolás kiadására akkor kerülhet sor, ha az étkezési mákmag megfelel az élelmiszerekben előforduló egyes szennyezőanyagokra és természetes eredetű ártalmas anyagokra vonatkozó határértékekről, valamint az élelmiszerekkel rendeltetésszerűen érintkezésbe kerülő egyes anyagokkal, tárgyakkal kapcsolatos követelményekről szóló rendelet szerinti határértékeknek. Az alkaloid tartalom vizsgálatának költsége a kérelmezőt terheli.”
