@@ -66,10 +66,8 @@
 
 ## k) egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes Korm. határozatok módosításáról szóló 1514/2016. (IX. 22.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoport, K8. Egyéb felhalmozási célú kiadások kiemelt előirányzaton biztosított 63,0 millió forint a K5. Egyéb működési célú kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 2. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és egyes kormányhatározatok módosításáról szóló 1035/2015. (I. 30.) Korm. határozat 1. pontjában a „Liget Budapest projekt előkészítése és megvalósítása előirányzat javára biztosított 2220,0 millió forint és a Nemzeti Infokommunikációs Stratégia (NIS) végrehajtásához kapcsolódó feladatok előirányzat javára biztosított 1401,5 millió forint, valamint a Közgyűjtemények cím javára a Szépművészeti Múzeum részére átcsoportosított 1510,0 millió forint tekintetében 2016. november 30.” szövegrész helyébe a „Liget Budapest projekt előkészítése és megvalósítása előirányzat javára biztosított 2220,0 millió forint és a Közgyűjtemények cím javára a Szépművészeti Múzeum részére átcsoportosított 1510,0 millió forint tekintetében 2016. november 30., a Nemzeti Infokommunikációs Stratégia (NIS) végrehajtásához kapcsolódó feladatok előirányzat javára biztosított 1401,5 millió forint és a Kormányzati infokommunikációs szolgáltatások előirányzat javára biztosított 360,0 millió forint tekintetében 2017. június 30.” szöveg lép.
-
-## 3. Az Óbudai Egyetem már megkezdett kollégiumi beruházásának megvalósításához szükséges – részben a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosítással történő – forrás biztosításáról szóló 1457/2015. (VII. 7.) Korm. határozat 2. pontjában a „2016. évben” szövegrész helyébe a „felmerülés ütemében” szöveg lép.
-
-## 4. Az Országvédelmi Alapból történő előirányzat-átcsoportosításról és egyes Korm. határozatok módosításáról szóló 1340/2016. (VII. 4.) Korm. határozat 2. pontjában a „forint” szövegrész helyébe a „forintból 499 801 ezer forint” szöveg lép.
+## 2–4.[^1]
 
 1. melléklet az 1621/2016. (XI. 11.) Korm. határozathoz
+
+[^1]: A 2–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
