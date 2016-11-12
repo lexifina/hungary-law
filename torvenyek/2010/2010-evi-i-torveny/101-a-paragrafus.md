@@ -1,0 +1,1 @@
+101/A. § E törvénynek az anyakönyvi eljárásról szóló 2010. évi I. törvény módosításáról szóló 2016. évi CIX. törvénnyel (a továbbiakban: Módtv.) módosított rendelkezéseit a Módtv. hatálybalépésekor folyamatban lévő ügyekben és a megismételt eljárásokban is alkalmazni kell.

@@ -32,7 +32,7 @@ n) származási hely: az anya nyilatkozata alapján az anya lakóhelye vagy tart
 
 o) személyazonosság igazolására alkalmas hatósági igazolvány: a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény alapján személyazonosság igazolására alkalmas igazolványok,
 
-p) családi név korrekciója: az 1953. január 1-jén hatályba lépett kötőjel kötelező használatával és a megkülönböztető betűjel eltörlésével kapcsolatos rendelkezések következtében kialakult névviselés rendezése,
+p) családi név korrekciója: az 1953. január 1-jén hatályba lépett, a kötőjel kötelező használatával és megkülönböztető betűjel eltörlésével, valamint az anyakönyvekbe korábban bejegyzett ragadványnévvel kapcsolatos rendelkezések következtében kialakult névviselés rendezése,
 
 q) adatbejegyzés: adat rögzítése az elektronikus nyilvántartásba,
 

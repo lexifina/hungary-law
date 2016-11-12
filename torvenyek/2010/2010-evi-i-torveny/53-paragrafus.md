@@ -1,4 +1,4 @@
-## Megkülönböztető betűjel és egyéb jelzés
+## Megkülönböztető betűjel, ragadványnév és egyéb jelzés, valamint a családi név korrekciója
 
 53. § (1) Az egy családhoz tartozók vagy azonos családnevűek megkülönböztetésére szolgáló betűjelet a családi név részének kell tekinteni, az nem minősül külön tagnak.
 
