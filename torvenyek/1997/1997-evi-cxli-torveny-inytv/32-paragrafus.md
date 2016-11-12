@@ -40,4 +40,8 @@ g) a meghatalmazottaknak és a feleknek az okirat alapján nyilvánvalóan azono
 
 (5) Jelzálogjog alapítására, módosulására és megszűnésére vonatkozó bejegyzés olyan magánokirat alapján is teljesíthető, amelyet a nyilatkozattevő hitelintézet – nevének feltüntetésével – szabályszerűen és nyilvánvalóan azonosítható módon írt alá.
 
+(5a) E § alkalmazásában a jelzálogjog alapítására, módosulására és megszűnésére vonatkozó bejegyzés alatt az önálló zálogjog, a módosulás és megszűnés tekintetében pedig az átalakításos önálló zálogjog bejegyzését is érteni kell.
+
+(5b) Ha az átalakításos önálló zálogjog bejegyzése iránti eljárásban benyújtott okirat nem tartalmazza a zálogkötelezett (1) bekezdés a) pontja szerinti személyi azonosítóját, úgy ezt az ingatlanügyi hatóság a személyiadat- és lakcímnyilvántartást vezető szerv megkeresése útján, hivatalból pótolja.
+
 (6) A föld tulajdonjogának megszerzésére irányuló, ügyvéd által ellenjegyzett vagy közokiratba foglalt, a külön jogszabályban meghatározott biztonsági kellékekkel rendelkező okmányon elkészített, és hatósági jóváhagyáshoz kötött szerződés bejegyzés alapjául akkor szolgálhat, ha annak eredeti példányán szerepel a mezőgazdasági igazgatási szerv jóváhagyásáról szóló záradék. Az elővásárlásra jogosult javára történő bejegyzés iránti kérelemhez csatolandó bejegyzési engedélynek tartalmaznia kell a jogszerző bejegyzéshez szükséges adatait. Felszámolási, vagy önkormányzati adósságrendezési eljárás során történő tulajdonszerzés esetén a tulajdonjog bejegyzés iránti kérelemhez csatolt árverési jegyzőkönyvnek kell tartalmaznia a mezőgazdasági igazgatási szerv jóváhagyó záradékát.

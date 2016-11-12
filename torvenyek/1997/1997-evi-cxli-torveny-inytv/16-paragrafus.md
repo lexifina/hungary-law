@@ -18,6 +18,6 @@ g) elő- és visszavásárlási, vételi, valamint eladási jog,,
 
 h) tartási és életjáradéki jog,
 
-i) jelzálogjog,
+i) jelzálogjog (önálló zálogjog, ideértve az átalakításos önálló zálogjogot is),
 
 j) végrehajtási jog.

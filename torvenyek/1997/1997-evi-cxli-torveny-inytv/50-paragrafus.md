@@ -6,11 +6,15 @@
 
 a) a kisajátítási, illetőleg a telekalakítási eljárás megindítására vonatkozó bejegyzést az eljárás során hozott határozat alapján történt tulajdonváltozás,
 
-b) a jelzálogjog ranghelye előzetes biztosításának tényét az ezen alapuló jelzálogjog,
+b) a jelzálogjog ranghelye előzetes biztosításának tényét az ezen alapuló jelzálogjog (önálló zálogjog),
 
 c) a jelzálogjog ranghelye fenntartásának tényét az ezen alapuló jelzálogjog, továbbá
 
-d) az elő- és visszavásárlási jogot, a vételi jogot, az eladási jogot,, valamint a tulajdonjog fenntartásával történő eladás tényére vonatkozó feljegyzést az ezeken alapuló tulajdonszerzés bejegyzésével egyidejűleg. Törölni kell a tulajdonjog fenntartásával történő eladás tényére vonatkozó feljegyzést akkor is, ha a tény feljegyzése alapjául szolgáló okiratban a felek a tény feljegyzését meghatározott időtartamra kérték, és ez letelt.
+d) az elő- és visszavásárlási jogot, a vételi jogot, az eladási jogot, valamint a tulajdonjog fenntartásával történő eladás tényére vonatkozó feljegyzést az ezeken alapuló tulajdonszerzés
+
+bejegyzésével egyidejűleg.
+
+(2a) A (2) bekezdés d) pont szerinti esetben törölni kell a tulajdonjog fenntartásával történő eladás tényére vonatkozó feljegyzést akkor is, ha a tény feljegyzése alapjául szolgáló okiratban a felek a tény feljegyzését meghatározott időtartamra kérték, és ez az időtartam letelt.
 
 (3) Az öröklési szerződésen alapuló elidegenítési és terhelési tilalmat a szerződési örökös tulajdonjogának bejegyzésével egyidejűleg hivatalból törölni kell. Ha az örökhagyóval szerződő fél az örökhagyó előtt halt meg, a tilalom ebből az okból nem törölhető.
 

@@ -78,7 +78,7 @@ megindítása,
 
 21. a tulajdonjog fenntartással történt eladás,
 
-22. a jelzálogjog ranghelyének előzetes biztosítása,
+22. a jelzálogjog (önálló zálogjog) ranghelyének előzetes biztosítása,
 
 23. lemondás jelzálogjog előzetesen biztosított ranghelyével való rendelkezés jogáról,
 
