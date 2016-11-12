@@ -136,7 +136,7 @@ a) az 1988. évi 17. törvényerejű rendelettel kihirdetett, az Egységes Káb�
 
 b) az 1979. évi 25. törvényerejű rendelettel kihirdetett, a pszichotróp anyagokról szóló, Bécsben, az 1971. évi február hó 21. napján aláírt egyezmény mellékletének I. és II. Jegyzékében meghatározott veszélyes pszichotróp anyag és
 
-c) az emberi felhasználásra kerülő gyógyszerekről szóló törvény mellékletében meghatározott pszichotróp anyag;
+c) az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 2. számú mellékletében meghatározott pszichotróp anyag;
 
 19. készpénz-helyettesítő fizetési eszköz a hitelintézetekről szóló törvényben meghatározott készpénz-helyettesítő fizetési eszköz és a forgatható utalvány, a kincstári kártya, az utazási csekk, a kifizetőt terhelő adó mellett vagy adómentesen adható, korlátozott körű áruk vagy szolgáltatások ellenértékének kiegyenlítése céljából törvény alapján kibocsátott utalvány és a váltó, feltéve, hogy kivitelezése, kódolása vagy a rajta lévő aláírás folytán a másolás, a meghamisítás vagy a jogosulatlan felhasználás ellen védett;
 
