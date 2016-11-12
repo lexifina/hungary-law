@@ -90,17 +90,9 @@
 
 ## Határidő: a Belügyminisztérium Budavárban történő elhelyezéséhez szükséges ingatlanok közműcsatlakozást érintő közterületi munkáinak befejezését követő 30 napon belül
 
-## 1.12. visszavonja
+## 1.12.[^1]
 
-## a) az Országos Villamos Teherelosztó épületének lebontásához szükséges intézkedésekről szóló 1294/2016. (VI. 13.) Korm. határozatot,
-
-## b) a Belügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos intézkedésekről szóló 1407/2016. (VII. 29.) Korm. határozat 5. és 6. pontját.
-
-## 2. A Belügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos intézkedésekről szóló 1407/2016. (VII. 29.) Korm. határozat a következő 1a. ponttal egészül ki:
-
-## (A Kormány)
-
-## „1a. egyetért az 1. pont szerinti ingatlan-együttes átalakítása során – a világörökségi hatástanulmány ajánlása alapján – a Budapest I. kerület, Országház u. 32. szám alatti épületszárny Budapest I. kerület, Kapisztrán tér felé nyitott udvarának a kolostorépület stílusához igazodó új épületszárnnyal történő lezárásával;”
+## 2.[^2]
 
 1. melléklet az 1620/2016. (XI. 11.) Korm. határozathoz
 
@@ -155,3 +147,6 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1. pont 1.12. alpontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
