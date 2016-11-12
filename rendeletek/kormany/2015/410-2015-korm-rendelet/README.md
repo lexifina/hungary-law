@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-410-20-
 | --- | --- | --- |
 | 2015-12-16 | 2015-410-20-22.1 | 410/2015. (XII. 15.) Korm. rendelet |
 | 2016-09-09 | 2015-410-20-22.2 | 271/2016. (IX. 1.) Korm. rendelet |
+| 2016-11-12 | 2015-410-20-22.3 | 336/2016. (XI. 11.) Korm. rendelet |
