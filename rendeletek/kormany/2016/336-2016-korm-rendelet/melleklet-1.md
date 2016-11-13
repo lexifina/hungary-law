@@ -1,4 +1,4 @@
-## 10. § Hatályát veszti az Országos Villamos Teherelosztó épületének lebontásával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 148/2016. (VI. 13.) Korm. rendelet.
+## 9–10. §[^1]
 
 1. melléklet a 336/2016. (XI. 11.) Korm. rendelethez
 
@@ -41,3 +41,5 @@
 18. azok az 1–17. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához, használatbavételéhez és üzembe helyezéséhez közvetlenül szükségesek,
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: A 9–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
