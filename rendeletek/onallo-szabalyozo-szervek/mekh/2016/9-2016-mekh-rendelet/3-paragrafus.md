@@ -1,0 +1,1 @@
+## 2. § A nem EU-tagállam földgázszállító rendszeréhez kapcsolódó határkeresztező gázvezeték kiadási pontjára a szállítási rendszerüzemeltető a havi megszakítható kapacitásokat az adott hónap első naptári napját megelőző harmadik munkanapon köteles lekötésre felajánlani.
