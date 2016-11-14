@@ -1,0 +1,5 @@
+17. § (1) A bejelentett szervezet magyarországi működési engedélyének visszavonása vagy tevékenységének megszűnése esetén a bejelentett szervezet köteles megbízásainak és a megszűnő tevékenységgel kapcsolatos iratanyagának más – Magyarországon működő – megfelelőségértékelő szervezetnek való átadásáról vagy megbízásainak megszüntetéséről gondoskodni és erről a 2/2004. (I. 5.) GKM rendelet 5. § (1) bekezdése szerinti Kijelölési Bizottságot, valamint a vele szerződéses kapcsolatban álló gazdasági szereplőket megfelelően tájékoztatni.
+
+(2) Ha nincs más működési engedéllyel rendelkező megfelelőségértékelő szervezet, amely részére az iratanyag átadható, a bejelentett szervezet köteles saját költségén gondoskodni az iratanyag megőrzéséről.
+
+(3) Ha a bejelentett szervezet nem tesz eleget az (1)–(2) bekezdés szerinti kötelezettségnek, a bejelentett szervezet költségére a 2/2004. (I. 5.) GKM rendelet 5. § (1) bekezdése szerinti Kijelölési Bizottság rendelkezik az iratanyag megőrzéséről és az érintett gazdasági szereplőknek a megőrzés helyéről való megfelelő tájékoztatásáról.
