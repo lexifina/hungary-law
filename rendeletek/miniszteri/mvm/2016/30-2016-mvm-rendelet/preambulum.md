@@ -1,0 +1,1 @@
+Az állami tisztviselőkről szóló 2016. évi LII. törvény 28. § (2) bekezdésében kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. § 2. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
