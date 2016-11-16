@@ -1,0 +1,9 @@
+8. § (1) A támogatás csekély összegű (de minimis) támogatásnak minősül, amelyet a 4. § szerinti előírásokkal összhangban lehet igényelni, kivéve, ha a kérelmező a támogatást kizárólag olyan tevékenységhez használja, amely nem gazdasági tevékenység.
+
+(2) Ha az e rendelet keretében igényelt támogatás az üzemeltető által igénybe vett más csekély összegű (de minimis) támogatásokkal és egyéb állami támogatásokkal együttesen a 22–24. §-ok szerinti támogatáshalmozási szabályok alapján meghaladja a vonatkozó európai uniós jogi aktusokban meghatározott határértékeket, akkor a támogatási igény ezen határértékek nagyságáig érvényesíthető.
+
+(3) A forintban meghatározott összegek euróra történő átszámításánál az e rendelet kihirdetésének napján érvényes, a Magyar Nemzeti Bank által közzétett, két tizedes jegy pontossággal meghatározott devizaárfolyam alkalmazandó.
+
+(4) Amennyiben a kérelmező a halászati vagy akvakultúra-termékek előállításával, feldolgozásával vagy forgalmazásával, illetve mezőgazdasági termékek elsődleges termelésével is foglalkozik gazdasági tevékenységként, és a támogatással érintett pénztárgépet e tevékenységeihez is felhasználja, a pénztárgép utáni támogatásnak a mezőgazdasági termékek elsődleges termelésére eső részére a 4. § b) pontja, a halászati vagy akvakultúra-termékek előállítására, feldolgozására vagy forgalmazására eső támogatás pedig a 4. § c) pontja szerinti bizottsági rendelet alapján nyújtott csekély összegű (de minimis) támogatásnak minősül. Az egyéb gazdasági tevékenységre eső támogatás a 4. § a) pontja szerinti bizottsági rendelet alapján nyújtott csekély összegű (de minimis) támogatásnak minősül.
+
+(5) A mezőgazdasági termékek elsődleges termelésére és a halászati és akvakultúra-termékek előállítására, feldolgozására és forgalmazására eső támogatást a kérelmező legutolsó számviteli beszámolója szerinti árbevételnek e tevékenységekre eső aránya alapján kell meghatározni.
