@@ -1,0 +1,488 @@
+# A nemzetgazdasági miniszter 41/2016. (XI. 17.) NGM rendelete
+
+Magyar Közlöny 2016. évi 177. szám, 2016. november 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/bf90e0eed7a4e74333a2348e90f0b81f2b41e6ca/dokumentumok/f2f5681393c0b7f2c64c84093a65990cb11f8a99/letoltes)
+
+---
+
+A nemzetgazdasági miniszter 41/2016. (XI. 17.) NGM rendelete
+a vámtanácsadói és vámügynöki nyilvántartásról, valamint a vámtanácsadók és vámügynökök kötelező
+továbbképzéséről
+Az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény 119. § (1) bekezdés 25. pontjában kapott felhatalmazás alapján,
+a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. pontjában meghatározott
+feladatkörömben eljárva a következőket rendelem el:
+1. A vámtanácsadók és vámügynökök nyilvántartásának vezetésére vonatkozó rendelkezések
+1. § (1) A vámtanácsadók és vámügynökök nyilvántartásába (a továbbiakban: nyilvántartás) történő felvétel iránti,
+az uniós vámjog végrehajtásáról szóló 2016. évi XIII. törvény (a továbbiakban: Vtv.) 115. § (1) bekezdése
+szerinti kérelmet az 1. mellékletben meghatározott adattartalommal és mellékletekkel kell a Nemzeti Adó-
+és Vámhivatal (a továbbiakban: NAV) a kérelmező lakóhelye, székhelye szerint illetékes területi szervéhez
+benyújtani. A vámtanácsadói és vámügynöki tevékenység egyidejűleg történő nyilvántartásba vétele egy kérelem
+benyújtásával is kezdeményezhető.
+(2) Ha a kérelem hiányos, a NAV a kérelmezőt a kérelem benyújtásától számított 15 napon belül hiánypótlásra hívja fel
+30 napos hiánypótlási határidő megadásával.
+(3) A NAV az adópolitikáért felelős miniszternek (a továbbiakban: nyilvántartásba vételt végző szervezet) továbbított
+kérelemhez csatolt záradékban a feltételek fennállása esetén a nyilvántartásba vételre, ellenkező esetben
+a nyilvántartásba vétel elutasítására javaslatot tesz.
+(4) Ha a tevékenység végzése a határon átnyúló tevékenység keretében történik, a nyilvántartásba vétel iránti kérelmet
+az (1) bekezdés szerinti adattartalommal és a Vtv. 114. § (5) bekezdése szerinti mellékletekkel kell a nyilvántartásba
+vételt végző szervezethez benyújtani.
+
+2. § (1) Ha a kérelmező vámtanácsadó, és a nyilvántartásba vételhez a Vtv. 114. § (2)–(4) bekezdésében, illetve ha
+a kérelmező vámügynök, a Vtv. 117. § (2)–(4) bekezdésében foglalt feltételeknek megfelel, valamint az adatok
+a szükséges dokumentumokkal alátámasztottak, akkor a nyilvántartásba vételt végző szervezet a kérelmezőt a Vtv.
+114. § (1) bekezdése szerinti vámtanácsadói, illetve a Vtv. 117. § (1) bekezdése szerinti vámügynöki nyilvántartásba
+felveszi.
+(2) A nyilvántartásba vételt végző szervezet a nyilvántartásba vétellel egyidejűleg gondoskodik a vámtanácsadók
+esetében a 2. melléklet szerinti, vámügynökök esetében a 3. melléklet szerinti igazolvány – kizárólag magyar
+nyelven történő – elkészíttetéséről és a nyilvántartásba vett személy részére történő megküldéséről.
+(3) A (2) bekezdés szerinti igazolvány igazolja a vámtanácsadói, illetve vámügynöki tevékenység végzésére való
+jogosultságot, a nyilvántartásba vétel idejét és az időbeli hatályát.
+(4) A vámtanácsadói, illetve a vámügynöki tevékenység végzésére jogosító igazolvány a nyilvántartásba vétel napjától
+a visszavonásig érvényes.
+3. § (1) A nyilvántartásba vett személy
+a) a vámtanácsadói, illetve vámügynöki nyilvántartás adataiban bekövetkezett változásnak a Vtv. 115. §
+(5) bekezdése szerinti, valamint
+b) a vámtanácsadói, illetve vámügynöki igazolvány elvesztésének, megsemmisülésének vagy birtokából
+bűncselekmény vagy szabálysértés során történő kikerülésének a Vtv. 115. § (6) bekezdése szerinti
+bejelentését az 1. mellékletben meghatározott adattartalommal és mellékletekkel köteles megtenni
+a nyilvántartásba vételt végző szervezetnek.
+(2) A bejelentő személy az igazolvány pótlása iránti, a Vtv. 115. § (7) bekezdése szerinti kérelmét az 1. mellékletben
+meghatározott adattartalommal és mellékletekkel nyújthatja be.
+4. § (1) A nyilvántartásba vételt végző szervezet a Vtv. 116. § (1) bekezdés b) és d) pontja esetén a rendelkezésére álló vagy
+a NAV által felterjesztett adatok és információk alapján hivatalból törli az érintett személyt a nyilvántartásból.
+(2) Ha a Vtv. 116. § (1) bekezdés g)–i) pontjában meghatározott, a nyilvántartásból való törlésre okot adó körülmény
+merült fel, a nyilvántartásban szereplő személy maga vagy képviselője útján köteles azt – a törlést kiváltó ok
+felmerülésétől számított – 30 napon belül a nyilvántartásba vételt végző szervezetnek írásban bejelenteni,
+mellékelve a visszavonás alapjául szolgáló bírósági döntés másolatát.
+(3) A Vtv. 116. § (1) bekezdés j) pontja szerinti esetben a nyilvántartásból való törlésre a halotti anyakönyvi kivonat
+másolata vagy a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szerv igazolása alapján
+kerül sor.
+2. A vámtanácsadók és vámügynökök kötelező továbbképzésére vonatkozó rendelkezések
+5. § (1) A szakmai továbbképzésre kötelezett vámtanácsadó és vámügynök a Vtv. 115. § (4) bekezdése szerinti
+továbbképzési kötelezettségét az e rendelet szerinti kreditpontok megszerzésével teljesíti.
+(2) A Vtv. 115. § (4) bekezdése szerinti továbbképzési időszak tartama 1 év. Az első továbbképzési időszak
+a nyilvántartásba vétel évét követő év első napjával kezdődik. A továbbképzési év január 1-jétől december 31-ig tart.
+(3) A továbbképzésre kötelezettnek egy továbbképzési időszak alatt – a 6–9. § szerinti továbbképzésben való
+részvétellel – összesen legalább 16 kreditpontot kell teljesítenie. A 6. § (1) bekezdés a) pontja szerinti ugyanazon
+továbbképzési program teljesítése – ideértve annak elektronikus változatát is – csak egyszer jogosít kreditpontra.
+6. § (1) Továbbképzésnek minősül a továbbképzési időszakban
+a) a vámjogi szakértői hatósági képzésről és hatósági vizsgáról szóló 40/2016. (XI. 17.) NGM rendelet
+(a továbbiakban: Képzési Rendelet) szerinti képző szervek által szervezett, és a Képzési Rendelet 17. §-a
+szerinti Vámjogi Szakértői Hatósági Képzési Bizottság (a továbbiakban: Bizottság) által minősített
+továbbképzési program,
+b) a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet
+(a továbbiakban: Korm. rendelet) szerint akkreditált továbbképző szervezetnek a Képzési Rendelet
+1. mellékletében foglalt vizsgatárgykörök szakmai tartalmát a teljes továbbképzési program legalább
+25%-ában megjelenítő továbbképzési programja, amelynek e rendelet szerinti kreditpont értékére
+a Bizottság a (6) bekezdés szerinti minősítési eljárásában tesz javaslatot.
+
+(2) Az (1) bekezdés a) pontja szerinti továbbképzési program kreditpont-értéke legfeljebb 8 pont lehet, az (1) bekezdés
+b) pontja szerinti, tematikájában legalább részben vámszakmai tárgykörű továbbképzési program kreditpont-értéke
+legfeljebb 4 pont lehet.
+(3) Az (1) bekezdés szerinti továbbképzésen való részvételt, illetve a teljesített kreditpontokat tanúsító igazolásként
+a minősített továbbképzési programon való részvétel esetén a továbbképzés szervezésére és lebonyolítására
+jogosult az (1) bekezdés a) és b) pontja szerinti szervezetek (a továbbiakban: továbbképző szervezet) által kiállított
+igazolás szolgál.
+(4) Az (1) bekezdés a) pontja szerinti továbbképzések kreditpont-értékének meghatározására a Korm. rendelet 10/D. §
+(1)–(6) és (8) bekezdésében foglaltakat alkalmazni kell, azzal, hogy
+a) a kreditpont-minősítési eljárás megindításához a 4. mellékletben meghatározott adattartalmú kérelmet kell
+papíralapú kérelem esetén 3 példányban, elektronikus kérelem esetén annak mellékleteként benyújtani,
+b) a Korm. rendelet 10/D. § (2a) bekezdésében meghatározott dokumentumokat a kreditpont-minősítési
+kérelem benyújtásának évében első alkalommal benyújtott kérelemhez kell mellékelni, ha azok adattartalma
+a későbbiekben benyújtott kérelmek tekintetében nem változott, és erről a kérelmező nyilatkozatot tesz;
+ha a kérelmező nem nyilatkozik az adatok változatlanságáról, akkor a Korm. rendelet 10/D. § (2a) bekezdése
+szerinti dokumentumokat minden egyes kérelemhez csatolni kell,
+c) a Korm. rendelet 10/D. § (2b) bekezdésében meghatározott akkreditációs kérelem alatt az (1) bekezdés
+a) pontja szerinti továbbképzések minősítése esetén a Képzési Rendelet 4. § (2) bekezdése szerinti képzési
+programot kell érteni.
+(5) Az (1) bekezdés a) pontja szerinti továbbképzések kreditpont-minősítési eljárása során a Bizottság megvizsgálja
+a szabályszerűen beérkezett kérelem alapján a továbbképzési programot a Korm. rendelet 10/D. § (2) bekezdésében
+foglalt szempontok alapján, és a kreditpont-érték meghatározására javaslatot tesz a nyilvántartást végző
+szervezetnek.
+(6) Az (1) bekezdés b) pontja szerinti továbbképzések esetén a Korm. rendelet szerint akkreditált továbbképző szervezet
+továbbképzési programjának a Korm. rendelet 10/D. §-a szerinti kreditpont-minősítési eljárás során a Bizottság
+végzi el a Korm. rendelet 10/D. § (2) bekezdése szerinti értékelést vámszakmai szempontból és az e rendelet szerinti
+kreditpont-értékről javaslatot tesz a nyilvántartást végző szervezetnek.
+7. § (1) Az elektronikus képzési formában megvalósuló továbbképzésre a Korm. rendelet 10/E. §-át alkalmazni kell.
+(2) A továbbképzés megvalósításával összefüggésben a Korm. rendelet 10/G. §-át kell alkalmazni azzal, hogy
+a) a tervezett továbbképzések indításának bejelentését az 5. melléklet,
+b) a továbbképzésen való részvétel igazolására vezetett jelenléti ívet a 6. melléklet,
+c) a továbbképzési programon való részvételről szóló igazolás kiadását a 7. melléklet
+szerinti adattartalommal kell végrehajtani.
+(3) A (2) bekezdés a) pontja szerinti bejelentést a kormányzati portálon megjelenő tájékoztatóban közzétett címre kell
+megküldeni.
+8. §
+Továbbképzési év során teljes napi szakmai rendezvény esetén 2 kreditpont, félnapos szakmai rendezvény
+esetén 1 kreditpont számítható be a továbbképzés teljesítésébe, ha a továbbképzésre kötelezett vámszakmai
+érdekképviseleti vagy szakmai szervezetek tagjaként a 6. § (1) bekezdés a) pontja szerinti továbbképzésnek
+nem minősített szakmai rendezvényen részt vesz. A szakmai szervezet tagjának meghatározására a Korm.
+rendelet 10/B. § (11) bekezdését alkalmazni kell. A részvétel igazolására a szakmai rendezvényen a vámszakmai
+érdekképviseleti vagy szakmai szervezetek által kiállított igazolás szolgál, amelynek benyújtására a továbbképzésre
+kötelezett személy köteles.
+9. § (1) Ha továbbképzésre kötelezett személy az adott továbbképzési évben valamely, a (2) és (3) bekezdés szerint
+kreditpontra minősített vámszakmai kiadványt vásárol, annak a minősítés során meghatározott kreditpont-értéke,
+de legfeljebb 2 kreditpont beszámítható az adott évi továbbképzésének teljesítésébe, amennyiben
+a továbbképzésre kötelezett a kiadvány megvásárlását a vásárlást igazoló számla másolatának csatolásával
+legkésőbb az adott továbbképzési év utolsó napjáig bejelenti a nyilvántartásba vételt végző szervezetnek.
+(2) A vámszakmai kiadványok kreditpont minősítését a Korm. rendelet 10/F. §-a alkalmazásával a Bizottság végzi,
+azzal, hogy a Korm. rendelet 10/H. § b) pontja szerinti szakmai kiadványok alatt a (3) bekezdés szerinti vámszakmai
+kiadványt kell érteni.
+
+(3) Vámszakmai kiadvány a vámtanácsadók vagy vámügynökök továbbképzése szempontjából releváns tartalmat
+hordozó, papír alapon vagy elektronikus adathordozón kiadott tananyag, vámszakmai ismereteket tartalmazó
+kiadvány – ideértve a szakkönyvet, valamint a minősítési kérelem benyújtását megelőző legalább 24 hónapon
+keresztül legalább negyedévente folyamatosan megjelenő vámszakmai folyóiratot is – vagy releváns vámszakmai
+ismereteket közvetítő információs eszköz.
+10. §
+A Vtv. 115. § (4) bekezdése szerinti továbbképzésen való részvétel teljesítéséről szóló nyilatkozatot a nyilvántartásba
+vételt végző szervezethez – a kormányzati portálon közzétett tájékoztatóban megjelölt címen – kell benyújtani,
+amelyhez a továbbképzésen való részvétel 6. § (3) bekezdése szerinti igazolását, illetve a 8. és 9. § szerinti
+igazolásokat mellékletként csatolni kell.
+11. § (1) Az e rendelet szerinti továbbképzések szervezésével és lebonyolításával kapcsolatos tevékenységek helyszíni
+ellenőrzését, valamint a továbbképzésre vonatkozó követelmények teljesítésének ellenőrzését a nyilvántartásba
+vételt végző szervezet végzi. Az ellenőrzés során a közigazgatási hatósági eljárás és szolgáltatás általános
+szabályairól szóló törvény hatósági ellenőrzésre vonatkozó rendelkezéseit kell alkalmazni az e rendeletben foglaltak
+figyelembevételével.
+(2) Ha valószínűsíthető, hogy a továbbképzést végző szervezet a kreditpont minősítési eljárás vagy a működése
+során megtévesztő vagy valótlan adatokat közölt, a nyilvántartásba vételt végző szervezet soron kívüli hatósági
+ellenőrzést folytat le.
+3. Az igazgatási szolgáltatási díjra vonatkozó rendelkezések
+12. § (1) A vámtanácsadói, illetve vámügynöki nyilvántartásba való felvételért, az igazolvány pótlásáért, a nyilvántartásban
+szereplő adatok módosításáért és a kérelemre történő nyilvántartásból való törlésért a nyilvántartásba vételt,
+az igazolvány cseréjét kérő természetes személynek, továbbá az igazolvány pótlását, az adatok módosítását,
+valamint a nyilvántartásból való törlést kérő nyilvántartásban szereplő természetes személynek, továbbá
+a tevékenység határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő
+eljárás lefolytatásáért a bejelentést tevő természetes személynek igazgatási szolgáltatási díjat (a továbbiakban: díj)
+kell fizetnie az eljárás kezdeményezésével egyidejűleg. A vámtanácsadói és vámügynöki tevékenység egyidejűleg
+történő nyilvántartásba vételéhez külön-külön kell a díjat megfizetni.
+(2) A nyilvántartásba vételi eljárás díja 9000 forint.
+(3) Az igazolvány pótlásának, az új igazolvány kiállítását eredményező adatmódosításnak, valamint a kérelemre történő
+nyilvántartásból való törlésnek a díja 2000 forint. Ha az adatmódosítás új igazolvány kiadását nem vonja maga után,
+a nyilvántartásban szereplő adatváltozás átvezetésének díja 1000 forint.
+(4) A tevékenység vámtanácsadói és vámügynöki tevékenység határon átnyúló jelleggel történő megkezdésének és
+folytatásának bejelentése alapján történő nyilvántartásba vételi eljárás díja 8000 forint.
+(5) A (2)–(4) bekezdés szerinti díjat a Nemzetgazdasági Minisztérium 10032000-01460658-00000000 számú számlájára,
+az e célból rendszeresített fizetési számlára történő készpénzbefizetési megbízással vagy fizetési számlák közötti
+átutalással kell megfizetni.
+(6) A (2)–(4) bekezdés szerinti díj az adópolitikáért felelős miniszter által vezetett minisztérium működési bevétele.
+(7) Ha a kérelem és a befizetést igazoló okiratok alapján megállapítható, hogy az ügyfél a (2) és (3) bekezdésben
+meghatározott mértéket meghaladó összegű díjat fizetett, a többletet vissza kell téríteni.
+(8) A többlet visszatérítést hivatalból kell elrendelni, és annak teljesítéséről 30 napon belül intézkedni kell.
+(9) A díjfizetés vonatkozásában az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2) és
+(3) bekezdésében, 31. § (1) és (3) bekezdésében, valamint 73/A. §-ában foglaltakat, a mulasztási bírságra az Itv.
+82. §-ában foglaltakat kell alkalmazni azzal az eltéréssel, hogy az ott nevesített illeték helyett díjat kell érteni.
+4. Záró rendelkezések
+13. §
+Ez a rendelet a kihirdetését követő 31. napon lép hatályba.
+
+5. Az Európai Unió jogának való megfelelés
+14. § (1) Ez a rendelet a belső piaci szolgáltatásokról szóló, 2006. december 12-i 2006/123/EK európai parlamenti és tanácsi
+irányelvnek való megfelelést szolgálja.
+(2) Ez a rendelet az Uniós Vámkódex létrehozásáról szóló, 2013. október 10-i 952/2013/EU európai parlamenti és tanácsi
+rendelet 18. cikk (3) bekezdésének végrehajtásához szükséges rendelkezéseket állapít meg.
+ Varga Mihály s. k.,
+ nemzetgazdasági miniszter
+1. melléklet a 41/2016. (XI. 17.) NGM rendelethez
+ADATLAP
+a vámtanácsadói, vámügynöki tevékenység végzésére jogosító igazolvány kiadásához, pótlásához,
+cseréjéhez, visszavonásához, a nyilvántartásba való felvételhez és az abból való törléshez, valamint
+adatváltozás és a továbbképzési kötelezettség teljesítésének bejelentéséhez
+I. Az adatlap kötelező tartalmi elemei a következők:
+1. Az adatlapnak tartalmaznia kell annak megjelölését, hogy a kérelmező a vámtanácsadói és vámügynöki
+nyilvántartásról, valamint a vámtanácsadók és vámügynökök kötelező továbbképzéséről szóló 41/2016. (XI. 17.)
+NGM rendelet (a továbbiakban: Rendelet) alapján a vámtanácsadói vagy a vámügynöki tevékenység végzésére
+jogosító
+a) nyilvántartásba vételt,
+b) igazolványa pótlását (elveszett, ellopott, megsemmisült igazolvány esetén),
+c) igazolványa cseréjét,
+d) engedélye visszavonását,
+e) a nyilvántartásban szereplő adataiban történt változás(ok) átvezetését, ha az érinti az igazolványon
+feltüntetett adatokat is, új igazolvány kiadását,
+f) a továbbképzési kötelezettség teljesítésének nyilvántartásban való rögzítését
+kéri.
+2. A nyilvántartásba vételhez az adatlapon kötelezően szükséges megadni a következő adatokat:
+a) Név: ................................................................................................................................................................................................................
+b) Születési név: .............................................................................................................................................................................................
+c) Regisztrációs szám: .................................................................................................................................................................................
+d) Születési hely: ........................................................................................... idő: ..................... év ........................... hó ................ nap
+e) Anyja leánykori neve: .............................................................................................................................................................................
+f) Lakcím (irányítószám, helység, utca, házszám): ............................................................................................................................
+............................................................................................................................................................................................................................
+g) Levelezési cím (irányítószám, helység, utca, házszám):
+............................................................................................................................................................................................................................
+h) Telefonszám: ..............................................................................................................................................................................................
+i) Elektronikus elérhetőség: .....................................................................................................................................................................
+j) Igazolványkiadás alapjául szolgáló szakképesítést, végzettséget igazoló oklevél, okirat:
+száma kiállító intézmény neve kiállítás kelte
+............................................................. .............................................................. ..................................................
+............................................................. .............................................................. ..................................................
+k) Egyéb szakképesítés:
+oklevél, bizonyítvány megnevezése száma kiállító intézmény neve kiállítás kelte
+............................................................. ........................ ....................................... ..................................
+
+............................................................. ........................ ....................................... ..................................
+l) Nyelvvizsga (nyelv, fokozat):
+nyelv típus fokozat
+............................................................. .............................................................. ...............................................
+............................................................. .............................................................. ...............................................
+3. Nyilatkozatok:
+a) Büntetőjogi felelősségem tudatában kijelentem, hogy
+– a fenti adatok a valóságnak megfelelnek,
+– nincs tudomásom olyan tényről, körülményről, amely a Rendelet szerinti engedély kiadását és
+a nyilvántartásba történő felvételemet vagy az igazolvány pótlását, cseréjét kizárná.
+b) Tudomásul veszem, hogy az adatlap 2. pont a) és g) pontjaiban szereplő, valamint az adatlap 3. pont
+c) pontjában a kérelmező által megjelölt adatok külön rendelkezés nélkül, a Vtv. 115. § (2) bekezdése szerint
+nyilvánosak.
+c) Hozzájárulok a kérelemben rögzített következő személyes adataim Rendelet szerinti nyilvánosságra
+hozatalához:
+ca) születési név,
+cb) születési hely, idő,
+cc) anyja leánykori neve,
+cd) lakcím,
+ce) telefonszám,
+cf) elektronikus elérhetőség,
+cg) szakképesítést igazoló oklevél, okirat adatai,
+ch) egyéb szakképesítés megnevezése, az azt igazoló oklevél, okirat adatai,
+ci) nyelvvizsga típusa, fokozata.
+4. Dátum
+5. A kérelmező aláírása
+II. Az adatlaphoz csatolandó:
+a) nyilvántartásba vétel iránti kérelem esetén:
+aa) 1 darab 2,5×3,2 cm méretű, jó minőségű (fotópapíron vagy elektronikus úton, „JPEG” formátumban)
+benyújtott, 6 hónapnál nem régebbi igazolványkép,
+ab) az igazgatási szolgáltatási díj megfizetését igazoló dokumentum (a fizetési számlára történő
+készpénzbefizetés esetén a készpénzbefizetési megbízás igazoló szelvényrészének, vagy a fizetési
+számla megterhelését tartalmazó számlakivonatnak a másolata),
+ac) az egyéb szakképesítés(eke)t igazoló oklevél, illetve nyelvvizsga-bizonyítvány(ok) másolata
+ad) vámtanácsadók esetében a Vtv. 114. § (2) bekezdés b) és d) pontja szerinti képzettséget igazoló
+okirat másolata, valamint a szakmai gyakorlat igazolására alkalmas tartalmú és részletességű
+szakmai önéletrajz, vagy
+ae) vámügynökök esetében a vámjogi szakértői hatósági vizsga letételét igazoló tanúsítvány másolata,
+vagy a szakmai gyakorlat igazolására alkalmas tartalmú és részletességű szakmai önéletrajz,
+b) igazolvány pótlása esetén:
+ba) 1 darab 2,5×3,2 cm méretű, jó minőségű (fotópapíron vagy elektronikus úton, „JPEG” formátumban)
+benyújtott, 6 hónapnál nem régebbi igazolványkép,
+bb) az igazgatási szolgáltatási díj megfizetését igazoló dokumentum (a fizetési számlára történő
+készpénzbefizetés esetén a készpénzbefizetési megbízás igazoló szelvényrészének, vagy a fizetési
+számla megterhelését tartalmazó számlakivonatnak a másolata),
+c) a nyilvántartásból való törlés ügyfél általi kérelmezése esetén:
+ca) az igazolvány,
+cb) az igazgatási szolgáltatási díj megfizetését igazoló dokumentum (a fizetési számlára történő
+készpénzbefizetés esetén a készpénzbefizetési megbízás igazoló szelvényrészének, vagy a fizetési
+számla megterhelését tartalmazó számlakivonatnak a másolata),
+d) a nyilvántartásban szereplő adatokban történt változás átvezetésének kérelme esetén, ha a változás nem
+érinti az igazolványon feltüntetett adatokat:
+da) az adatváltozást igazoló dokumentum másolata,
+
+db) az igazgatási szolgáltatási díj megfizetését igazoló dokumentum (a fizetési számlára történő
+készpénzbefizetés esetén a készpénzbefizetési megbízás igazoló szelvényrészének, vagy a fizetési
+számla megterhelését tartalmazó számlakivonatnak a másolata),
+e) a nyilvántartásban szereplő adatokban történt változás átvezetésének kérelme esetén, ha a változás érinti
+az igazolványon feltüntetett adatokat:
+ea) az igazolvány,
+eb) 1 darab 2,5×3,2 cm méretű, jó minőségű (fotópapíron vagy elektronikus úton, „JPEG” formátumban)
+benyújtott, 6 hónapnál nem régebbi igazolványkép,
+ec) az igazgatási szolgáltatási díj megfizetését igazoló dokumentum (a fizetési számlára történő
+készpénzbefizetés esetén a készpénzbefizetési megbízás igazoló szelvényrészének, vagy a fizetési
+számla megterhelését tartalmazó számlakivonatnak a másolata),
+ed) az adatváltozást igazoló dokumentum másolata,
+f) továbbképzési kötelezettség teljesítésének bejelentése esetén:
+fa) a szakmai továbbképzésen való részvételt, illetve a teljesített kreditpontokat tanúsító igazolások.
+2. melléklet a 41/2016. (XI. 17.) NGM rendelethez
+VÁMTANÁCSADÓI IGAZOLVÁNY formai megjelenése és tartalmi követelményei
+a) oldal
+NEMZETGAZDASÁGI MINISZTÉRIUM
+Nyilvántartási szám:
+VÁMTANÁCSADÓI IGAZOLVÁNY
+Személyi azonosító adatok
+Név:
+Születési hely, idő:
+Anyja neve:
+Igazolványszám:
+b) oldal
+Fénykép helye
+NEMZETGAZDASÁGI MINISZTÉRIUM
+A nemzetgazdasági miniszter
+....................................................-t
+a 41/2016. (XI. 17.) NGM rendelet alapján vámtanácsadói
+tevékenység végzése céljából
+....................................................
+számon nyilvántartásba vette, aki így
+vámtanácsadói tevékenység folytatására jogosult.
+Az igazolvány érvényes:
+.................................................-től
+a visszavonásig
+Budapest,..................................................
+P. H.
+..........................................
+aláírás
+
+3. melléklet a 41/2016. (XI. 17.) NGM rendelethez
+VÁMÜGYNÖKI IGAZOLVÁNY formai megjelenése és tartalmi követelményei
+a) oldal
+NEMZETGAZDASÁGI MINISZTÉRIUM
+Nyilvántartási szám:
+VÁMÜGYNÖKI IGAZOLVÁNY
+Személyi azonosító adatok
+Név:
+Születési hely, idő:
+Anyja neve:
+Igazolványszám:
+b) oldal
+Fénykép helye
+NEMZETGAZDASÁGI MINISZTÉRIUM
+A nemzetgazdasági miniszter
+....................................................-t
+a 41/2016. (XI. 17.) NGM rendelet alapján vámügynöki
+tevékenység végzése céljából
+....................................................
+számon nyilvántartásba vette, aki így
+vámügynöki tevékenység folytatására jogosult.
+Az igazolvány érvényes:
+.................................................-től
+a visszavonásig
+Budapest,..................................................
+P. H.
+..........................................
+aláírás
+4. melléklet a 41/2016. (XI. 17.) NGM rendelethez
+ADATLAP
+a vámtanácsadók és a vámügyintézők szakmai továbbképzésére irányuló továbbképzési programok
+kreditpont-minősítési eljárása iránti kérelemhez
+Az adatlap kötelező tartalmi elemei a következők:
+1. A továbbképző szervezet
+a) neve,
+b) székhelye,
+c) levelezési címe,
+d) cégjegyzékszáma vagy egyenértékű hivatalos nyilvántartási száma és a nyilvántartásba vétel éve,
+e) honlapjának címe,
+f) hivatalos képviselőjének neve, beosztása, telefonszáma, faxszáma, elektronikus elérhetősége,
+g) által a továbbképzéssel összefüggő kapcsolattartásra kijelölt személy vagy oktatásszervező neve, beosztása,
+telefonszáma, faxszáma, elektronikus elérhetősége.
+2. A továbbképző szervezet által minősítésre benyújtott továbbképzési program
+a) címe,
+b) szakterülete (vámtanácsadó, vámügynök),
+
+c) továbbképzési formája (előadás, e-learning, online),
+d) időtartama (percben, szünetek nélkül),
+e) elszámolhatóságának kérelmezett időszaka,
+f) jellege (gyakorlati, elméleti),
+g) kapcsolódó információs segédanyagának bemutatása (ha a továbbképző szervezet vállalja ilyen információs
+anyag biztosítását a továbbképzésen),
+h) szakmai tartalmának, tematikájának bemutatása (legalább 2000, legfeljebb 12 000 karakter terjedelemben),
+i) elektronikus képzési formában tervezett megvalósítása esetén a technikai hátteret bemutató leírás (ideértve
+a képzés elektronikus rendszerének bemutatását, elérésének helyét, megvalósításának módját, a naplózást,
+az ellenőrzés módszerét, az igazolás kiállítását, a nyilvántartásba vételt végző szervezet tájékoztatásának
+módját stb.)
+j) oktatóinak név szerinti felsorolása.
+3. A 6. § (1) bekezdés a) pontja szerinti továbbképző szervezet továbbképzési tevékenységével összefüggésben:
+a) a továbbképző szervezet szakmai tevékenységének rövid bemutatása (legfeljebb 9000 karakter),
+b) továbbképzés lebonyolításához szükséges tárgyi, technikai feltételek (ideértve az oktatással kapcsolatos
+nyilvántartási rendszert is),
+c) a továbbképző szervezettel munkavégzésre irányuló jogviszonyban álló oktatók név szerinti felsorolása,
+valamint szakmai és oktatói tevékenységének bemutatása.
+4. Nyilatkozatok:
+a) „Hozzájárulok ahhoz, hogy a nyilvántartásba vételt végző szervezet a kérelemben foglalt adatokat a hatályos
+jogszabályoknak megfelelően kezelje és a kormányzati portálon közzétegye.”
+b) „Vállalom, hogy
+– továbbképző szervezetünk a vámtanácsadói és vámügynöki nyilvántartásáról, valamint a
+vámtanácsadók és vámügynökök kötelező továbbképzéséről szóló 41/2016. (XI. 17.) NGM rendelet
+(a továbbiakban: Rendelet) 7. §-ában előírt továbbképzéssel kapcsolatos kötelezettségeit teljesíti,
+– kizárólag az elfogadott (kreditpontra minősített), a 2. pontban (a továbbképzési program
+bemutatása) foglaltak szerint lebonyolított továbbképzési program teljesítése esetén adja
+ki a nyilvántartásba vételt végző szervezet által meghatározott kreditpontról szóló igazolást
+a továbbképzésben részt vevőknek,
+– ha a fenti kérelemben, valamint az 5. pontban megjelölt kötelező mellékletek tartalmában
+változás következik be, továbbá, ha a továbbképző szervezetünk a továbbiakban nem felel meg
+a Rendeletben meghatározott követelményeknek, azt haladéktalanul bejelentem a nyilvántartásba
+vételt végző szervezetnek.”
+c) „Kijelentem, hogy továbbképző szervezetünk
+– teljes körűen megfelel a Rendeletben foglalt továbbképzéssel kapcsolatos követelményeknek,
+– által a fenti kérelemben, valamint mellékleteiben megadott adatok és benyújtott dokumentumok
+megfelelnek a valóságnak,
+– a fenti kérelemhez nem csatolt, az 5. pontban meghatározott kötelező mellékleteket a ........................
+..................................................................... című, ...... év .................... hónap ...... napján benyújtott kreditpont-
+minősítési kérelemhez mellékeltük, azok tartalma a benyújtás óta nem változott.”
+5. Kötelező mellékletek:
+a) a továbbképző szervezet létesítő okiratában feltüntetett tevékenységéről szóló írásbeli nyilatkozat,
+b) a 2. pont j) alpontjában felsorolt oktatók szakirányú felsőfokú végzettségét igazoló oklevél másolata és
+részletes szakmai önéletrajza,
+c) a 2. pont j) alpontjában felsorolt oktatók nyilatkozata arra vonatkozóan, hogy a kérelemben feltüntetett
+adataiknak – a Rendeletben foglalt feltételek fennállásának ellenőrzése érdekében – a továbbképző szervezet
+és a nyilvántartásba vételt végző szervezet által történő kezeléséhez hozzájárulnak,
+d) a 2. pont j) alpontjában felsorolt oktatók nyilatkozata arra vonatkozóan, hogy a továbbképző szervezetnél
+oktatást vállalnak,
+e) az eljárás igazgatási szolgáltatási díjának befizetését igazoló dokumentum másolata.
+6. Dátum
+7. Bélyegző
+8. Cégszerű aláírás
+
+5. melléklet a 41/2016. (XI. 17.) NGM rendelethez
+ADATLAP
+a vámtanácsadók és a vámügynökök szakmai továbbképzésének indításáról
+Az adatlap kötelező tartalmi elemei a következők:
+1. A vámtanácsadók és a vámügynökök szakmai továbbképzésének indításáról a továbbképzést szervező és
+lebonyolító szervezetnek (a továbbiakban: szervezet) a következő adatokat kell megadnia:
+a) szervezet neve,
+b) szervezet címe,
+c) témafelelős neve, telefonszáma,
+d) képzés helye (pontos címe),
+e) szakterület megnevezése:
+– vámtanácsadó,
+– vámügynök,
+f) várható, tervezett létszám (fő),
+g) továbbképzési program címe,
+h) a továbbképzésre vonatkozóan kibocsátott kreditpont-minősítési határozat száma,
+i) továbbképzés időpontja (év, hónap, nap),
+j) továbbképzés kezdési időpontja (óra, perc),
+k) továbbképzés befejezési időpontja (óra, perc),
+l) oktató(k)/előadó(k) neve.
+2. Dátum
+3. Bélyegző
+4. Cégszerű aláírás
+6. melléklet a 41/2016. (XI. 17.) NGM rendelethez
+JELENLÉTI ÍV
+A továbbképző szervezet neve, címe:
+A továbbképzés helye (pontos címe):
+A továbbképzési program címe:
+A továbbképzési program kreditpont-minősítési határozatának száma:
+A továbbképzési program szakterülete: o vámtanácsadó o vámügynök
+Előadó(k) neve:
+RÉSZTVEVŐK:
+Kezdési idő (év, hónap, nap, óra, perc)
+Sorszám Regisztrálási szám Résztvevő neve Aláírás
+Befejezési idő (év, hónap, nap, óra, perc)
+Sorszám Regisztrálási szám Résztvevő neve Aláírás
+Dátum (jelenléti ív lezárásának időpontja):
+Bélyegző
+Cégszerű aláírás
+
+7. melléklet a 41/2016. (XI. 17.) NGM rendelethez
+IGAZOLÁS
+a vámtanácsadói és vámtanácsadói nyilvántartásban szereplők által továbbképzési programon való
+részvételről
+Az igazolás kötelező tartalmi elemei a következők:
+1. Igazolás sorszáma
+2. Továbbképzésre kötelezett neve
+3. Regisztrálási száma
+4. Regisztrálási számmal nem rendelkezők esetében a továbbképzésre kötelezett
+a) születési neve
+b) születési helye, ideje
+c) anyja neve
+5. Igazolást kibocsátó továbbképző szervezet
+a) neve
+b) székhelye
+6. A továbbképzés
+a) szakterülete (vámtanácsadó, vámügynök)
+b) formája (előadás, e-learning, online)
+c) időtartama (perc, szünetek nélkül)
+d) helyszíne (ha nem elektronikus a képzés)
+e) időpontja (év, hónap, nap)
+f) kezdés és befejezés időpontja (óra, perc)
+7. A teljesített továbbképzési program
+a) címe
+b) kreditpont-minősítési határozatának száma
+c) elszámolhatósági időszaka
+d) kreditpont-értéke a megjelölt szakterületen
+8. Az igazolást aláíró személy neve, beosztása
+9. Dátum
+10. Cégszerű aláírás, bélyegző

@@ -1,0 +1,41 @@
+# A Kormány 1632/2016. (XI. 17.) Korm. határozata
+
+Magyar Közlöny 2016. évi 177. szám, 2016. november 17. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/bf90e0eed7a4e74333a2348e90f0b81f2b41e6ca/dokumentumok/f2f5681393c0b7f2c64c84093a65990cb11f8a99/letoltes)
+
+---
+
+A Kormány 1632/2016. (XI. 17.) Korm. határozata
+a 2024. évi XXXIII. nyári Olimpiai Játékok, valamint a XVII. nyári Paralimpiai Játékok Budapesten történő
+megrendezése érdekében benyújtandó pályázattal összefüggő egyes hazai rendezésű sportesemények
+előkészületeinek előrehaladásáról
+1. A Kormány
+a) felhívja az egyes kiemelt budapesti beruházásokért felelős kormánybiztost (a továbbiakban: Kormánybiztos),
+mint a 2024. évi XXXIII. nyári Olimpiai Játékok, valamint a XVII. nyári Paralimpiai Játékok Budapesten
+történő megrendezése érdekében benyújtásra kerülő pályázat (a továbbiakban: Olimpiai Pályázat)
+elkészítésével kapcsolatos kormányzati feladatok ellátásának, azok összehangolásának és irányításának
+kormányzati felelősét, hogy készítsen részletes jelentést a Kormány részére arról, hogy a 2017. évben
+Magyarországon megrendezésre kerülő kiemelt nemzetközi sportesemények – különösen, de nem kizárólag
+a Győrben megrendezendő XIV. Nyári Európai Ifjúsági Olimpiai Fesztivál, a Budapesten és Balatonfüreden
+megrendezendő Úszó-, Vízilabda-, Műugró, Műúszó és Nyíltvízi Világbajnokság és a Budapesten
+megrendezendő Felnőtt Judo Világbajnokság és Világkongresszus – milyen hatással lehetnek az Olimpiai
+Pályázatra, illetve az Olimpiai Pályázat sikeressége szempontjából hogyan haladnak e sportesemények
+rendezési, szervezési és kommunikációs előkészületei;
+Felelős: az egyes kiemelt budapesti beruházásokért felelős kormánybiztos
+Határidő: 2017. január 31.
+b) felhívja a feladat- és hatáskörükben érintett minisztereket és kormánybiztosokat, hogy
+ba) az a) alpontban meghatározott feladat ellátása során működjenek együtt a Kormánybiztossal,
+ennek keretében a feladat- és hatáskörüket érintően adjanak meg minden szükséges tájékoztatást
+a Kormánybiztos részére, továbbá
+bb) biztosítsák, hogy az irányításuk vagy felügyeletük alá tartozó államigazgatási szervek, egyéb
+költségvetési szervek, valamint gazdasági társaságok a Kormánybiztos a) alpontban meghatározott
+feladata ellátásával összefüggő ügyben a Kormánybiztos részére közvetlenül tájékoztatást adjanak.
+Felelős: emberi erőforrások minisztere, nemzetgazdasági miniszter, nemzeti fejlesztési miniszter,
+a turizmussal kapcsolatos állami feladatok koordinálásáért felelős kormánybiztos és
+a 2017-ben Budapesten és Balatonfüreden megrendezendő XVII. Úszó-, Vízilabda-, Műugró,
+Műúszó és Nyíltvízi Világbajnokság megrendezésével kapcsolatos összkormányzati feladatok
+koordinációjának ellátásáért felelős kormánybiztos
+Határidő: folyamatosan
+
+2. Ez a határozat a közzétételét követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
