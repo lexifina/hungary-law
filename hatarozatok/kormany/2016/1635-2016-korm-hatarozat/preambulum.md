@@ -1,0 +1,1 @@
+A Kormány a kerékpározás növekvő népszerűségére és fenntarthatósági, klímavédelmi, turisztikai, nemzetgazdasági, továbbá egészségügyi szempontokra tekintettel támogatja a kiemelt kerékpáros útvonalhálózat fejlesztését, ennek érdekében
