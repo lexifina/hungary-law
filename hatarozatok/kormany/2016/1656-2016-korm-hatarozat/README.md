@@ -1,0 +1,9 @@
+# 1656/2016. (XI. 17.) Korm. határozat
+
+a vajdasági Magyar Ház és Pannon Médiaház beruházások megvalósításához szükséges forrás biztosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1656-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-11-17 | 2016-1656-30-22.1 | 1656/2016. (XI. 17.) Korm. határozat |
