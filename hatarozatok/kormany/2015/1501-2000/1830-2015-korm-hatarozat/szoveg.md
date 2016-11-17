@@ -26,10 +26,6 @@ Felelős: nemzetgazdasági miniszter, a külgazdasági és külügyminiszterrel 
 
 Határidő: 2015-től folyamatos
 
-6. támogatja a Magyar Export-Import Bank Zrt. tőkéjének megemelését vajdasági vállalkozásoknak szóló, 30 milliárd forint összegű kedvezményes hitelkeret biztosítása céljából és felhívja a nemzetgazdasági minisztert az ehhez szükséges költségvetési fedezet biztosítására.
+6.[^1]
 
-Felelős: külgazdasági és külügyminiszter
-
-nemzetgazdasági miniszter
-
-Határidő: a felmerüléshez igazodóan
+[^1]: A 6. pontot az 1655/2016. (XI. 17.) Korm. határozat 4. pontja visszavonta.
