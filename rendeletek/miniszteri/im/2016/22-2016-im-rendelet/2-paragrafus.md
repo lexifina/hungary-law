@@ -1,3 +1,0 @@
-## 1. § Az elektronikus cégbejegyzési eljárás és a cégnyilvántartás egyes kérdéseiről szóló 24/2006. (V. 18.) IM rendelet (a továbbiakban: eCvhr.) 2. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A céginformációs szolgálatnak biztosítania kell az elektronikus irattár megbízható üzemeltetését, az ott elhelyezett beszámolók módosítások elleni védelmét, illetve azt, hogy jogosulatlan személyek az irattár adatállományához ne férhessenek hozzá. A közzétett beszámolók ingyenes megismerésének lehetősége nem terjedhet ki az adatbázis egészének vagy jelentős részének megszerzésére. A céginformációs szolgálatnak biztosítani kell a védelmet a honlapján közzétett és ingyenesen megtekinthető beszámolók adatainak nagy mennyiségű letöltése és legyűjtése ellen.”
