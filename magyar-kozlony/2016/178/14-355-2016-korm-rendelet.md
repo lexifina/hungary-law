@@ -1,0 +1,124 @@
+# A Kormány 355/2016. (XI. 18.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 178. szám, 2016. november 18. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/76eaa29caaf077eb2c28845c6291fbad2db0613b/dokumentumok/00a1a91febaad1935369b5b9f4a4df9090846bde/letoltes)
+
+---
+
+A Kormány 355/2016. (XI. 18.) Korm. rendelete
+egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló kormányrendeletek
+módosításáról
+A Kormány a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és
+egyszerűsítéséről szóló 2006. évi LIII. törvény 12. § (5) bekezdés a), b) és g) pontjában, valamint a közigazgatási hatósági eljárás és
+szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény 174/A. § (1) bekezdés a) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek
+nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok
+kijelöléséről szóló 345/2012. (XII. 6.) Korm. rendelet módosítása
+1. §
+Az egyes közlekedésfejlesztési projektekkel összefüggő közigazgatási hatósági ügyek nemzetgazdasági
+szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 345/2012. (XII. 6.)
+Korm. rendelet (a továbbiakban: R1.) 1. §-a helyébe a következő rendelkezés lép:
+„1. § (1) A Kormány nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánítja a 1. mellékletben
+meghatározott beruházásokkal összefüggő, azok megvalósításához és használatbavételéhez (forgalomba
+helyezéséhez, üzemeltetéséhez, működéséhez) közvetlenül szükséges, a 2. mellékletben felsorolt közigazgatási
+hatósági ügyeket.
+(2) A Kormány – a nemzetgazdasági szempontból kiemelt jelentőségű ügyek közül – nemzetgazdasági szempontból
+kiemelt jelentőségű közlekedési infrastruktúra beruházással összefüggő ügyekké nyilvánítja az 1/a. mellékletben
+meghatározott beruházásokkal összefüggő, azok megvalósításához és használatbavételéhez (forgalomba
+helyezéséhez, üzemeltetéséhez, működéséhez) közvetlenül szükséges, a 2. mellékletben felsorolt közigazgatási
+hatósági ügyeket.
+(3) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyben eljáró
+a) első fokú hatóságként – az (5) bekezdésben foglalt kivétellel – azt a hatóságot jelöli ki, amely az adott ügyfajtára
+vonatkozó külön jogszabály szerint első fokú hatóságként jár el,
+b) első fokú szakhatóságként – a (6) bekezdésben foglalt kivétellel – azt a hatóságot jelöli ki, amely az adott
+ügyfajtára vonatkozó külön jogszabály szerint első fokú szakhatóságként jár el.
+(4) A Kormány az (1) bekezdés szerinti közigazgatási hatósági ügyben eljáró
+a) másodfokú hatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály szerint
+másodfokú hatóságként jár el,
+b) másodfokú szakhatóságként azt a hatóságot jelöli ki, amely az adott ügyfajtára vonatkozó külön jogszabály
+szerint másodfokú szakhatóságként jár el.
+(5) A Kormány az 1. melléklet 3.14. pontja szerinti beruházás esetén a 2. melléklet 4a. pontja szerinti közigazgatási
+hatósági ügyben első fokon eljáró hatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot
+jelöli ki.
+(6) Azokban az esetekben, amikor a 2. mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott
+ügyben tűzvédelmi szakkérdésben szakhatóság közreműködését rendeli el, az 1. melléklet 3.14. pontja szerinti
+beruházás esetén a Kormány első fokú eljárásban eljáró szakhatóságként a Belügyminisztérium Országos
+Katasztrófavédelmi Főigazgatóságot jelöli ki.”
+2. §
+Az R1. 7. §-a a következő (12) és (13) bekezdéssel egészül ki:
+„(12) E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló
+kormányrendeletek módosításáról szóló 355/2016. (XI. 18.) Korm. rendelettel (a továbbiakban: Módr5.)
+megállapított 1. §-át a Módr5. hatálybalépésekor folyamatban lévő hatósági eljárásokban is alkalmazni kell.
+(13) A Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság a Módr5. hatálybalépését megelőzően nála
+indult szakhatósági állásfoglalás vagy előzetes szakhatósági állásfoglalás kiadásával még le nem zárt ügyeket átteszi
+az illetékes megyei katasztrófavédelmi igazgatósághoz, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatósághoz.”
+
+2. A Magyar Állami Operaház korszerűsítését célzó beruházással összefüggő közigazgatási hatósági
+ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 249/2016. (VIII. 22.) Korm. rendelet módosítása
+3. §
+A Magyar Állami Operaház korszerűsítését célzó beruházással összefüggő közigazgatási hatósági ügyek kiemelt
+jelentőségű üggyé nyilvánításáról szóló 249/2016. (VIII. 22.) Korm. rendelet (a továbbiakban: R2.) a következő
+1/A. §-sal egészül ki:
+„1/A. § (1) A Kormány az 1. melléklet 6. pontja szerinti közigazgatási hatósági ügyekben első fokon eljáró
+hatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot jelöli ki.
+(2) Azokban az esetekben, amikor az 1. mellékletben meghatározott ügyfajtára vonatkozó jogszabály az adott
+ügyben tűzvédelmi szakkérdésben szakhatóság közreműködését rendeli el, a Kormány első fokú eljárásban eljáró
+szakhatóságként a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóságot jelöli ki.”
+4. §
+Az R2. a következő 6. §-sal egészül ki:
+„6. § (1) E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításról szóló
+kormányrendeletek módosításáról szóló 355/2016. (XI. 18.) Korm. rendelettel (a továbbiakban: Módr.) megállapított
+1/A. §-át a Módr. hatálybalépésekor folyamatban lévő hatósági eljárásokban is alkalmazni kell.
+(2) A Fővárosi Katasztrófavédelmi Igazgatóság a Módr. hatálybalépését megelőzően nála indult, első fokú határozat,
+szakhatósági állásfoglalás vagy előzetes szakhatósági állásfoglalás kiadásával még le nem zárt ügyeket átteszi
+a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatósághoz.”
+3. A Környezeti és Energiahatékonysági Operatív Program keretében megvalósuló egyes
+vízgazdálkodási célú beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági
+szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 285/2016. (IX. 21.) Korm. rendelet
+módosítása
+5. §
+A Környezeti és Energiahatékonysági Operatív Program keretében megvalósuló egyes vízgazdálkodási célú
+beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű
+üggyé nyilvánításáról szóló 285/2016. (IX. 21.) Korm. rendelet (a továbbiakban: R3.) a következő 6. §-sal egészül ki:
+„6. § E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló
+kormányrendeletek módosításáról szóló 355/2016. (XI. 18.) Korm. rendelettel (a továbbiakban: Módr.) megállapított
+1. mellékletében foglalt táblázat 27. sorát a Módr. hatálybalépésekor folyamatban lévő hatósági eljárásokban is
+alkalmazni kell.”
+6. §
+Az R3. 1. melléklete az 1. melléklet szerint módosul.
+4. Záró rendelkezés
+7. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 355/2016. (XI. 18.) Korm. rendelethez
+Az R3. 1. mellékletében foglalt táblázat a következő 27. sorral egészül ki:
+(A B C D
+1. Beruházás azonosító
+száma
+Beruházás címe Beruházás tartalma Beruházással érintett
+települések)
+„
+27. KEHOP-1.4.1. Duna-menti
+árvízvédelmi
+beruházások
+Visegrádon
+A beruházás keretében:
+1. Visegrád városközponti területén
+mobilfalas védműszakasz kiépítése,
+2. Apátkúti-patak medrében
+támfalas, illetve mobilfalas védmű
+kiépítése,
+3. a meglévő árvízvédelmi töltés
+földművének fejlesztése
+(a 11. számú főút Esztergom felőli
+szakaszának 200 m-es hosszúságú
+bevédésével),
+4. a 11. sz. főút Apátkúti-patakon
+átvezető hídjának felújítása,
+5. mobilgát elemek tárolására
+szolgáló tárolóépület megépítése,
+valósul meg.
+Visegrád
+”
