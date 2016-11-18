@@ -1,0 +1,3 @@
+## 2. § A Közigazgatási és Igazságügyi Hivatal megszüntetéséről, valamint egyes kapcsolódó kormányrendeletek módosításáról szóló 251/2016. (VIII. 24.) Korm. rendelet a következő 16. §-sal egészül ki:
+
+## „16. § A Közigazgatási és Igazságügyi Hivatal megszüntetéséről, valamint egyes kapcsolódó kormányrendeletek módosításáról szóló 251/2016. (VIII. 24.) Korm. rendelet módosításáról szóló 339/2016. (XI. 17.) Korm. rendelettel megállapított 4. §-sal összefüggésben a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet szerinti átadás-átvételi eljárást a Miniszterelnökség 2016. november 30. napjáig teljesíti.”
