@@ -36,7 +36,9 @@ A) Nemzeti Fejlesztési Minisztérium hivatali szervezete
 
 1.14. a víziközlekedés-védelmi feladatok ellátásával kapcsolatos szakfőosztályi munkakör,
 
-1.15. a vagyonjogi és vagyongazdálkodási feladatok ellátásával kapcsolatos szakfőosztályi munkakör.
+1.15. a vagyonjogi és vagyongazdálkodási feladatok ellátásával kapcsolatos szakfőosztályi munkakör,
+
+1.16[^1] a közlekedésbiztonsági szerv feladatainak ellátásával kapcsolatos munkakör.
 
 B) Kormányhivatalok
 
@@ -56,17 +58,7 @@ B) Kormányhivatalok
 
 C) Központi hivatalok
 
-1. A Közlekedésbiztonsági Szervezetnél
-
-1.1. a gazdasági vezető,
-
-1.2. a főosztályvezető és az osztályvezető,
-
-1.3. az informatikus,
-
-1.4. a jogtanácsos, a jogi előadó, a jogi referens munkaköre,
-
-1.5. a légiközlekedési területen foglalkoztatott balesetvizsgáló munkaköre.
+1.[^2]
 
 2. A Nemzeti Fogyasztóvédelmi Hatóságnál
 
@@ -110,7 +102,7 @@ C) Központi hivatalok
 
 4.2. a főosztályvezető,
 
-4.3.[^1]
+4.3.[^3]
 
 4.4. az informatikai és adatvédelmi feladatokat, az adattári és információs feladatokat, a humánpolitikai és igazgatási feladatokat ellátó szervezeti egység vezetője,
 
@@ -154,4 +146,6 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
 3.3. a műszaki igazgató.
 
-[^1]: Az 1. melléklet C) rész 4. pont 4.3. alpontját a 38/2015. (VI. 30.) NFM rendelet 1. §-a hatályon kívül helyezte.
+[^1]: A 1. melléklet A) rész 1. pont 1.16. alpontját a 46/2016. (XI. 17.) NFM rendelet 6. §-a iktatta be.
+[^2]: A 1. melléklet C) rész 1. pontját a 46/2016. (XI. 17.) NFM rendelet 7. §-a hatályon kívül helyezte.
+[^3]: Az 1. melléklet C) rész 4. pont 4.3. alpontját a 38/2015. (VI. 30.) NFM rendelet 1. §-a hatályon kívül helyezte.
