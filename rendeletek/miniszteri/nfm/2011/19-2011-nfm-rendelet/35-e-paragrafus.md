@@ -1,4 +1,4 @@
-## 30/B. [^101] Egyeztetési eljárás
+## 30/B. [^102] Egyeztetési eljárás
 
 35/E. § (1) A vizsgaközpont képzéssel, vizsgáztatással kapcsolatosan meghozott döntéseivel kapcsolatban – írásban – egyeztetési eljárás kezdeményezhető a döntés meghozatalától számított 5 napon belül.
 
@@ -16,4 +16,4 @@ e) a vizsgázó munkáltatója.
 
 (3) A vizsgaközpont az egyeztetés eredményéről írásban értesíti az egyeztetést kezdeményezőt.
 
-[^101]: A 30/B. alcímet (35/E. §) a 22/2015. (V. 6.) NFM rendelet 35. §-a iktatta be.
+[^102]: A 30/B. alcímet (35/E. §) a 22/2015. (V. 6.) NFM rendelet 35. §-a iktatta be.

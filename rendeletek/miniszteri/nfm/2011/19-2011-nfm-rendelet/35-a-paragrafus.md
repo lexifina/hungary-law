@@ -1,8 +1,8 @@
-## 30/A. [^90] Az alapképzésre és alapvizsgákra vonatkozó eltérő szabályok új, vagy átalakított vasúti pálya, új vasúti jármű vagy a vasútbiztonsági szabályok megváltozása esetén
+## 30/A. [^91] Az alapképzésre és alapvizsgákra vonatkozó eltérő szabályok új, vagy átalakított vasúti pálya, új vasúti jármű vagy a vasútbiztonsági szabályok megváltozása esetén
 
-35/A. § (1)[^91] Új vasúti pálya építése esetén a műszaki átadás-átvételt követően a pályahálózat-működtető köteles az új vonalra vonatkozó előképzési programot kidolgozni és azt közzétenni, valamint a vasúti társaságokat és a hatóságot erről értesíteni. A pályahálózat-működtető az előképzési programot tájékoztatásul a vizsgaközpontnak megküldi.
+35/A. § (1)[^92] Új vasúti pálya építése esetén a műszaki átadás-átvételt követően a pályahálózat-működtető köteles az új vonalra vonatkozó előképzési programot kidolgozni és azt közzétenni, valamint a vasúti társaságokat és a hatóságot erről értesíteni. A pályahálózat-működtető az előképzési programot tájékoztatásul a vizsgaközpontnak megküldi.
 
-(2)[^92] A vasúti társaság, amelynek munkavállalói számára az új vasúti pályahálózat ismeret a munkavégzés feltétele, az előképzési program alapján megszervezi a vizsgabiztosok és vasútszakmai oktatók részére a vasúti pályahálózat ismeretre vonatkozó elméleti képzést. A képzést az előképzési program alapján bármely vasútszakmai oktató is megtarthatja, akinek általános vasúti pályahálózat ismereti, vagy forgalmi képesítése van.
+(2)[^93] A vasúti társaság, amelynek munkavállalói számára az új vasúti pályahálózat ismeret a munkavégzés feltétele, az előképzési program alapján megszervezi a vizsgabiztosok és vasútszakmai oktatók részére a vasúti pályahálózat ismeretre vonatkozó elméleti képzést. A képzést az előképzési program alapján bármely vasútszakmai oktató is megtarthatja, akinek általános vasúti pályahálózat ismereti, vagy forgalmi képesítése van.
 
 (3) A képzést követően a vasúti társaság saját hatáskörében szervez vasúti pályahálózat ismereti elővizsgát, és ad ki elővizsga-igazolást a sikeres vizsgázóknak. A sikeres elővizsgát tett munkavállalókat a vasúti társaság, vagy képzőszerv a vizsgaközpontnak és a hatóságnak bejelenti. A vasúti társaság által szervezett vasúti pályahálózat ismereti elővizsga egy évig érvényes.
 
@@ -12,9 +12,9 @@
 
 (6) A jelen §-ban meghatározott értesítési és bejelentési kötelezettség elmulasztása esetén a munkavállaló az új pályahálózaton a pályahálózat ismereti vizsgához kötött munkakörben nem foglalkoztatható.
 
-(7)[^93] Az elővizsgát követő alapvizsga csak a vizsgához kapcsolódó képzési program vizsgaközpont általi jóváhagyását követően szervezhető. Az elővizsgával rendelkező munkavállaló mentesül a vonalismereti képzésen történő részvételi kötelezettség alól és e nélkül bejelenthető alapvizsgára.
+(7)[^94] Az elővizsgát követő alapvizsga csak a vizsgához kapcsolódó képzési program vizsgaközpont általi jóváhagyását követően szervezhető. Az elővizsgával rendelkező munkavállaló mentesül a vonalismereti képzésen történő részvételi kötelezettség alól és e nélkül bejelenthető alapvizsgára.
 
-[^90]: A 30/A. alcímet (35/A–35/D. §) az 5/2013. (II. 12.) NFM rendelet 19. §-a iktatta be.
-[^91]: A 35/A. § (1) bekezdése a 22/2015. (V. 6.) NFM rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^92]: A 35/A. § (2) bekezdése a 33/2016. (VIII. 2.) NFM rendelet 26. §-ával megállapított szöveg.
-[^93]: A 35/A. § (7) bekezdését a 22/2015. (V. 6.) NFM rendelet 31. § (2) bekezdése iktatta be.
+[^91]: A 30/A. alcímet (35/A–35/D. §) az 5/2013. (II. 12.) NFM rendelet 19. §-a iktatta be.
+[^92]: A 35/A. § (1) bekezdése a 22/2015. (V. 6.) NFM rendelet 31. § (1) bekezdésével megállapított szöveg.
+[^93]: A 35/A. § (2) bekezdése a 33/2016. (VIII. 2.) NFM rendelet 26. §-ával megállapított szöveg.
+[^94]: A 35/A. § (7) bekezdését a 22/2015. (V. 6.) NFM rendelet 31. § (2) bekezdése iktatta be.
