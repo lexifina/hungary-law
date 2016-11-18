@@ -1,4 +1,4 @@
-## 5K26257M_0
+## 6K76638M_0
 
 | Sor- szám | Megnevezés | A hitelesítés hatálya (év) |
 
@@ -8,11 +8,13 @@
 
 | 1. | Vízmérők |  |
 
-|  | a) bekötési és törzshálózati | 4 |
+|  | a) bekötési és törzshálózati | 8 |
 
 |  | b) mellékvízmérő elszámolásra | 8 |
 
 |  | c) mellékvízmérő költségmegosztásra | korlátlan |
+
+|  | d) telki vízmérő | 8 |
 
 | 2. | Gázmérők és számító egységek |  |
 
@@ -102,11 +104,11 @@
 
 ## 4 A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény.
 
-3. számú melléklet a 127/1991. (X. 9.) Korm. rendelethez[^78]
+3. számú melléklet a 127/1991. (X. 9.) Korm. rendelethez[^80]
 
-A mérésügyi hatóság által használt törvényes tanúsító jelek, hitelesítési bélyegzők rajzai és alkalmazásuk módja[^79]
+A mérésügyi hatóság által használt törvényes tanúsító jelek, hitelesítési bélyegzők rajzai és alkalmazásuk módja[^81]
 
-1.[^80] A törvényes tanúsító jelet a mérőeszköz
+1.[^82] A törvényes tanúsító jelet a mérőeszköz
 
 a) külső felületén, vagy
 
@@ -162,6 +164,6 @@ A Szentkorona mellett a „MÉRŐESZKÖZ MINŐSÍTÉS” felirat.
 
 A mező alsó részén azonosító jelölés, alatta a minősítés éve található.
 
-[^78]: A Vhr. 3. számú mellékletét a 294/2001. (XII. 26.) Korm. rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 266/2006. (XII. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 7. § (1)–(2) bekezdése alapján rendelkezéseit a 2007. január 1. napját követően indult hatósági eljárásokban kell alkalmazni. A „2006–2009.” évszámot és az „OMH” jelölést tartalmazó hitelesítő, valamint lezáró öntapadó matricák 2009. december 31-éig érvényesek.
-[^79]: A Vhr. 3. számú mellékletének címe a 182/2009. (IX. 10.) Korm. rendelet 24. § (7) bekezdésével megállapított szöveg.
-[^80]: A Vhr. 3. számú mellékletének 1. pontja a 217/2016. (VII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
+[^80]: A Vhr. 3. számú mellékletét a 294/2001. (XII. 26.) Korm. rendelet 7. §-ának (2) bekezdése iktatta be, szövege a 266/2006. (XII. 20.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg. Ez utóbbi módosító rendelet 7. § (1)–(2) bekezdése alapján rendelkezéseit a 2007. január 1. napját követően indult hatósági eljárásokban kell alkalmazni. A „2006–2009.” évszámot és az „OMH” jelölést tartalmazó hitelesítő, valamint lezáró öntapadó matricák 2009. december 31-éig érvényesek.
+[^81]: A Vhr. 3. számú mellékletének címe a 182/2009. (IX. 10.) Korm. rendelet 24. § (7) bekezdésével megállapított szöveg.
+[^82]: A Vhr. 3. számú mellékletének 1. pontja a 217/2016. (VII. 22.) Korm. rendelet 1. § b) pontja szerint módosított szöveg.
