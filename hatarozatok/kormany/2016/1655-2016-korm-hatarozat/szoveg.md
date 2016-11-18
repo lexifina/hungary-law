@@ -16,4 +16,6 @@ nemzetgazdasági miniszter
 
 Határidő: a felmerülés ütemében
 
-4. egyúttal visszavonja a vajdasági magyar közösségek terület- és gazdaságfejlesztési stratégiájáról szóló 1830/2015. (XI. 21.) Korm. határozat 6. pontjában foglalt rendelkezést.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
