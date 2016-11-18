@@ -1,0 +1,3 @@
+## 4. § A Vhr. a következő 30/A. §-sal egészül ki:
+
+## „30/A. § Ha az adott tájegység vonatkozásában nincs kiadott tájegységi vadgazdálkodási terv, a vadászatra jogosult a tájegységi vadgazdálkodási terv alapján elkészített vadgazdálkodási üzemterv hatályának kezdetéig terjedő időszakra vonatkozóan a vadászterület vadállománya létszámának figyelembevételével átmeneti vadgazdálkodási tervet nyújt be, amelyet a vadászati hatóság akkor hagy jóvá, ha az a vad és élőhelyének védelmét biztosítja. Az átmeneti vadgazdálkodási tervre egyebekben az éves vadgazdálkodási tervre vonatkozó szabályokat kell alkalmazni.”
