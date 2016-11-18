@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-40-20-0
 | 2013-01-04 | 2006-40-20-0L.8 | 71/2012. (XII. 20.) NFM rendelet |
 | 2014-12-31 | 2006-40-20-0L.9 | 55/2014. (XII. 23.) NFM rendelet |
 | 2016-08-05 | 2006-40-20-0L.10 | 33/2016. (VIII. 2.) NFM rendelet |
+| 2016-11-18 | 2006-40-20-0L.11 | 56/2012. (IX. 18.) NFM rendelet |
