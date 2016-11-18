@@ -23,39 +23,3 @@
 | 11. | ÁROP-1.1.15-2012-2012-0001 | Közszolgáltatások versenyképességi szempontú javítása | Nemzetgazdasági Minisztérium |
 
 3. melléklet a 251/2016. (VIII. 24.) Korm. rendelethez
-
-|  | A | B |
-
-| 1. | Ingatlan címe | Jogutód |
-
-| 2. | Budapest, VIII. kerület, Múzeum u. 17./Reviczky u. 6. | Miniszterelnökség |
-
-| 3. | Budapest, V. kerület, Bihari János u. 5. | Közbeszerzési és Ellátási Főigazgatóság |
-
-| 4. | Budapest, V. kerület, Arany János u. 25. | Közbeszerzési és Ellátási Főigazgatóság |
-
-| 5. | Budapest, VI. kerület, Bajza u. 32. | Közbeszerzési és Ellátási Főigazgatóság |
-
-| 6. | Budapest, VI. kerület, Andrássy út 77. II/13. | Közbeszerzési és Ellátási Főigazgatóság |
-
-| 7. | Budapest, XII. kerület, Maros u. 16/A (Fecskeház) | Közbeszerzési és Ellátási Főigazgatóság |
-
-| 8. | Budapest, II. kerület, Lóczy Lajos u. 3. | OMSZI Intézményfenntartó Közhasznú Nonprofit Kft. |
-
-| 9. | Budapest, II. kerület, Lóczy Lajos u. 12. | OMSZI Intézményfenntartó Közhasznú Nonprofit Kft. |
-
-| 10. | Budapest, XII. kerület, Művész u. 5–7. | OMSZI Intézményfenntartó Közhasznú Nonprofit Kft. |
-
-| 11. | Budapest, XII. kerület, Bíró u. 3. | OMSZI Intézményfenntartó Közhasznú Nonprofit Kft. |
-
-| 12. | Budapest, VI. kerület, Lendvay u. 13. | OMSZI Intézményfenntartó Közhasznú Nonprofit Kft. |
-
-| 13. | Budapest, V. kerület, Magyar u. 34. | OMSZI Intézményfenntartó Közhasznú Nonprofit Kft. |
-
-| 14. | Budapest, II. kerület, Szent József u. 8. | OMSZI Intézményfenntartó Közhasznú Nonprofit Kft. |
-
-| 15. | Sopron, Szent Margit út 2./Tulipán köz 2–4. | OMSZI Intézményfenntartó Közhasznú Nonprofit Kft. |
-
-| 16. | Budapest, V. kerület, Erzsébet tér 13. | Magyar Nemzeti Vagyonkezelő Zrt. |
-
-| 17. | Budapest, II. kerület, Rózsahegy u. 5./Zivatar u. 3. | Külgazdasági és Külügyminisztérium |

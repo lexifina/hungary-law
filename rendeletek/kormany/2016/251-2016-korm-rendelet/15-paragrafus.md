@@ -1,4 +1,4 @@
-## 14. §[^10]
+## 14. §[^11]
 
 ## 11. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 4–14. § és a 16. § 2016. szeptember 1-jén lép hatályba.
 
-[^10]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

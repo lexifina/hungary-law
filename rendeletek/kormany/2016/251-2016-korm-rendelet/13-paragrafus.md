@@ -1,5 +1,5 @@
-## 12. §[^8]
+## 12. §[^9]
 
 ## 9. A fővárosi és megyei kormányhivatalokról, valamint a járási (fővárosi kerületi) hivatalokról szóló 66/2015. (III. 30.) Korm. rendelet módosítása
 
-[^8]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
