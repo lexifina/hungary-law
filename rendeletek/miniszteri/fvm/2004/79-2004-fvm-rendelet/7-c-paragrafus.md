@@ -1,4 +1,4 @@
-7/C. §[^16] (1) A Vtv. 11/B. § (1) bekezdésében meghatározott átfedésben lévő területrésznek az a földterület minősül,
+7/C. §[^18] (1) A Vtv. 11/B. § (1) bekezdésében meghatározott átfedésben lévő területrésznek az a földterület minősül,
 
 a) amelyre befogadott módosító javaslatot nyújtottak be,
 
@@ -24,4 +24,4 @@ c) a módosító javaslattal érintett földterület területi kiterjedését, f
 
 (5) A vadászati hatóság a (4) bekezdésben meghatározott adatokat tájékoztató jelleggel az elektronikus tájékoztatásra szolgáló honlapján közzéteszi.
 
-[^16]: A Vhr. 7/C. §-át a 14/2016. (III. 2.) FM rendelet 4. §-a iktatta be.
+[^18]: A Vhr. 7/C. §-át a 14/2016. (III. 2.) FM rendelet 4. §-a iktatta be.

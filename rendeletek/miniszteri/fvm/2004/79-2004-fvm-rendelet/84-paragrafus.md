@@ -2,6 +2,6 @@
 
 (2) A mezőgazdasági (ideértve a szőlőt és gyümölcsöst is) és az erdei vadkárok becsléséhez a szakértő által alkalmazott jegyzőkönyv mintáját a 19. számú melléklet tartalmazza. A jegyzőkönyvet a szakértőnek és a jelen levő feleknek (képviselőinek) kell aláírniuk.
 
-(3)[^143]
+(3)[^147]
 
-[^143]: A Vhr. 84. § (3) bekezdését a 7/2010. (II. 2.) FVM rendelet 47. § (2) bekezdés e) pontja hatályon kívül helyezte.
+[^147]: A Vhr. 84. § (3) bekezdését a 7/2010. (II. 2.) FVM rendelet 47. § (2) bekezdés e) pontja hatályon kívül helyezte.

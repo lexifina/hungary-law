@@ -1,4 +1,4 @@
-7/A. §[^14] (1) A vadászati hatósághoz benyújtott módosító javaslatnak tartalmaznia kell
+7/A. §[^16] (1) A vadászati hatósághoz benyújtott módosító javaslatnak tartalmaznia kell
 
 a) a módosító javaslatot benyújtó személy vagy a meghatalmazott kapcsolattartó teljes bizonyító erejű magánokiratba foglalt nyilatkozatát arra vonatkozóan, hogy a módosító javaslat melyik ajánlásban szereplő – kódszámokkal megjelölt – vadászterületeket érinti;
 
@@ -14,4 +14,4 @@ f) a módosító javaslatot benyújtó személy vagy a meghatalmazott kapcsolatt
 
 (2) A módosító javaslat térképi megjelenítése és szöveges határleírása közötti eltérés esetén a szöveges határleírás tekintendő irányadónak.
 
-[^14]: A Vhr. 7/A. §-át a 14/2016. (III. 2.) FM rendelet 4. §-a iktatta be.
+[^16]: A Vhr. 7/A. §-át a 14/2016. (III. 2.) FM rendelet 4. §-a iktatta be.

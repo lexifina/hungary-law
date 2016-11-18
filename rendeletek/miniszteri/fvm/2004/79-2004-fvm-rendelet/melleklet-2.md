@@ -34,7 +34,7 @@
 
 ## 7. Keltezés, a kérelmező aláírása (bélyegzője):
 
-2. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^163]
+2. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^169]
 
 A TULAJDONOSI KÖZÖSSÉG VADÁSZATI JOG HASZNOSÍTÁSÁVAL ÖSSZEFÜGGÉSBEN KÉSZÍTETT MŰKÖDÉSI SZABÁLYZATÁNAK MINIMÁLIS ADATTARTALMA
 
@@ -80,4 +80,4 @@ A TULAJDONOSI KÖZÖSSÉG VADÁSZATI JOG HASZNOSÍTÁSÁVAL ÖSSZEFÜGGÉSBEN K�
 
 9. Dátum, a közös képviselő és két tanú aláírása
 
-[^163]: A Vhr. 2. számú melléklete a 14/2016. (III. 2.) FM rendelet 8. §-ával megállapított szöveg.
+[^169]: A Vhr. 2. számú melléklete a 14/2016. (III. 2.) FM rendelet 8. §-ával megállapított szöveg.

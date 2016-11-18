@@ -1,4 +1,4 @@
-7. §[^13] (1) A Vtv. 11/A. § (5) bekezdésében meghatározott módosító javaslatot ahhoz a vadászati hatósághoz kell benyújtani, amelyik az ajánlást tette.
+7. §[^15] (1) A Vtv. 11/A. § (5) bekezdésében meghatározott módosító javaslatot ahhoz a vadászati hatósághoz kell benyújtani, amelyik az ajánlást tette.
 
 (2) Ha a módosító javaslatot benyújtó tulajdonos nem személyesen tesz jognyilatkozatot, képviseletéről a Polgári Törvénykönyv képviseleti jogra vonatkozó rendelkezéseinek megfelelő és a 15. számú mellékletben meghatározott adattartalommal kiállított írásbeli meghatalmazás útján gondoskodhat.
 
@@ -10,4 +10,4 @@
 
 (6) Ha a földtulajdonos más földtulajdonossal együtt nyújt be módosító javaslatot a vadászati hatósághoz, a módosító javaslatban meg kell nevezni a módosító javaslat kapcsolattartóját (a továbbiakban: meghatalmazott kapcsolattartó).
 
-[^13]: A Vhr. 7. §-a a 14/2016. (III. 2.) FM rendelet 4. §-ával megállapított szöveg.
+[^15]: A Vhr. 7. §-a a 14/2016. (III. 2.) FM rendelet 4. §-ával megállapított szöveg.

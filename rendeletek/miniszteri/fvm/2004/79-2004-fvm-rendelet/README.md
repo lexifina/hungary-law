@@ -28,3 +28,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-79-20-8
 | 2016-03-01 | 2004-79-20-82.27 | 7/2010. (II. 2.) FVM rendelet |
 | 2016-03-03 | 2004-79-20-82.28 | 14/2016. (III. 2.) FM rendelet |
 | 2016-06-23 | 2004-79-20-82.29 | 41/2016. (VI. 22.) FM rendelet |
+| 2016-11-18 | 2004-79-20-82.30 | 73/2016. (XI. 17.) FM rendelet |

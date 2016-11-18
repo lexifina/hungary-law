@@ -26,6 +26,6 @@
 
 ## A vadászatra jogosultak a minisztérium által elkészíttetett éves vadgazdálkodási terv nyomtatvány tartalmi és formai előírásait kötelesek betartani.
 
-8. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^172]
+8. számú melléklet a 79/2004. (V. 4.) FVM rendelethez[^178]
 
-[^172]: A Vhr. 8. számú melléklete a 72/2012. (VII. 24.) VM rendelet 15. § b) pontjával megállapított szöveg.
+[^178]: A Vhr. 8. számú melléklete a 72/2012. (VII. 24.) VM rendelet 15. § b) pontjával megállapított szöveg.

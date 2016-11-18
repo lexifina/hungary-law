@@ -1,3 +1,3 @@
-38. §[^59]
+38. §[^63]
 
-[^59]: A Vhr. 38. §-át a 45/2013. (VI. 3.) VM rendelet 4. § (6) bekezdése hatályon kívül helyezte.
+[^63]: A Vhr. 38. §-át a 45/2013. (VI. 3.) VM rendelet 4. § (6) bekezdése hatályon kívül helyezte.
