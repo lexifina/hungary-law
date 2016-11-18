@@ -8,51 +8,9 @@ c) a gazdasági vezetői
 
 ## megbízás.
 
-(2) A KIFÜ vonatkozásában vezetői beosztásnak minősül a főosztályvezetői megbízás.
+(2)[^15] A KIFÜ vonatkozásában vezetői beosztásnak minősül a főosztályvezetői és az osztályvezetői megbízás.
 
-(3) A KEF vonatkozásában magasabb vezetői beosztásnak minősül:
-
-a) a főigazgatói,
-
-b) a főigazgató-helyettesi, valamint
-
-c) az igazgatói
-
-## megbízás.
-
-(4) A KEF vonatkozásában vezetői beosztásnak minősül:
-
-a) a főosztályvezetői,
-
-b) a főosztályvezető-helyettesi,
-
-c) az osztályvezetői,
-
-d) a titkárságvezetői,
-
-e) a részlegvezetői,
-
-f) a csoportvezetői
-
-## megbízás.
-
-(5) A NIIF Intézet vonatkozásában magasabb vezetői beosztásnak minősül:
-
-a) az igazgatói és
-
-b) a gazdasági igazgatói
-
-## megbízás.
-
-(6) A NIIF Intézet vonatkozásában vezetői beosztásnak minősül:
-
-a) az igazgató-helyettesi,
-
-b) a titkárságvezetői,
-
-c) az osztályvezetői
-
-## megbízás.
+(3)–(6)[^16]
 
 (7) A KKK vonatkozásában magasabb vezetői beosztásnak minősül a főigazgatói megbízás.
 
@@ -72,4 +30,8 @@ d) az osztályvezetői
 
 (10) A vezetői megbízás feltétele, hogy a közalkalmazott szakirányú felsőfokú végzettséggel vagy legalább középiskolai végzettséggel és felsőfokú szakirányú szakképesítéssel rendelkezzen.
 
-(11) A csoportvezető, a titkárságvezető és a részlegvezető vezetői beosztás középiskolai végzettséggel és középfokú szakirányú szakképesítéssel is betölthető.
+(11)[^17]
+
+[^15]: Az 5. § (2) bekezdése a 47/2016. (XI. 17.) NFM rendelet 2. § a) pontja szerint módosított szöveg.
+[^16]: Az 5. § (3)–(6) bekezdését a 47/2016. (XI. 17.) NFM rendelet 3. § f) pontja hatályon kívül helyezte.
+[^17]: Az 5. § (11) bekezdését a 47/2016. (XI. 17.) NFM rendelet 3. § f) pontja hatályon kívül helyezte.

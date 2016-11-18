@@ -6,7 +6,7 @@
 
 |  | A | B | C | D | E | F | G | H | I | J |
 
-| 1. | szakértői munkaköri csoport |
+| 1. szakértői munkaköri csoport |
 
 | analitikai könyvelő |  |  |  | X | X | X | X | X |  |  |
 
@@ -66,7 +66,23 @@
 
 | szóvivő |  |  |  | X | X | X | X | X |  |  |
 
-| 2. | ügyintézői munkaköri csoport |
+| szakmai főmunkatárs |  |  |  |  |  | X | X | X | X | X |
+
+| tudományos munkatárs |  |  |  |  |  | X | X | X | X | X |
+
+| informatikus I. |  |  |  |  |  |  |  | X | X | X |
+
+| informatikus II. |  |  | X | X | X | X | X |  |  |  |
+
+| szakmai felelős |  |  |  |  |  | X | X | X | X | X |
+
+| projekt pénzügyi vezető |  |  |  | X | X | X | X | X |  |  |
+
+| gazdasági főmunkatárs |  |  |  |  |  | X | X | X | X |  |
+
+| kontrolling főmunkatárs |  |  |  |  |  | X | X | X | X |  |
+
+| 2. ügyintézői munkaköri csoport |
 
 | asszisztens (szakasszisztens) |  |  | X | X | X | X |  |  |  |  |
 
@@ -84,7 +100,7 @@
 
 | informatikus |  |  |  | X |  | X |  |  |  |  |
 
-| könyvelő |  |  |  | X | X | X | X | X |  |  |
+| könyvelő |  |  | X | X | X | X | X | X |  |  |
 
 | pénztáros |  |  | X | X | X |  |  |  |  |  |
 
@@ -92,169 +108,15 @@
 
 | ügyintéző |  |  | X | X | X | X | X |  |  |  |
 
-| 3. | ügyviteli és irodai munkaköri csoport |
-
-| adminisztrátor |  | X | X | X |  |  |  |  |  |  |
-
-| üzemeltetési előadó |  | X | X | X | X |  |  |  |  |  |
-
-| műszaki előadó |  | X | X | X | X |  |  |  |  |  |
-
-| titkárnő |  | X | X | X | X |  |  |  |  |  |
-
-## II. KEF
-
-| Munkakör megnevezése | Közalkalmazotti osztályok |
-
-|  | A | B | C | D | E | F | G | H | I | J |
-
-| 1. | munkaköri csoport |
-
-| asszisztens (szakterülettel) |  |  | X | X | X | X |  |  |  |  |
-
-| belső ellenőr |  |  |  |  |  | X | X | X | X |  |
-
-| honlap szerkesztő |  |  |  |  | X | X | X | X |  |  |
-
-| jogtanácsos |  |  |  |  |  |  |  |  | X |  |
-
-| kontroller |  |  |  |  |  |  | X | X |  |  |
-
-| mérnök (szakterülettel) |  |  |  |  |  | X | X | X | X |  |
-
-| referens |  |  |  |  | X | X | X | X |  |  |
-
-| rendszerszervező |  |  |  |  |  | X | X | X |  |  |
-
-| szakértő (szakterülettel) |  |  |  |  |  | X | X | X | X |  |
-
-| szakreferens (szakterülettel) |  |  |  |  |  | X | X | X |  |  |
-
-| szaktanácsadó (szakterülettel) |  |  |  |  |  | X | X | X |  |  |
-
-| személyi titkár |  |  |  |  |  | X | X | X |  |  |
-
-| tanácsadó |  |  |  |  |  | X | X | X |  |  |
-
-| ügyvitelszervező |  |  |  |  |  | X | X | X | X |  |
-
-| 2. | munkaköri csoport |
-
-| adminisztrátor | X | X | X | X |  |  |  |  |  |  |
-
-| anyagbeszerző |  | X | X | X |  |  |  |  |  |  |
-
-| betanított munkás | X | X |  |  |  |  |  |  |  |  |
-
-| diszpécser |  |  | X | X | X | X |  |  |  |  |
-
-| előadó (szakterülettel) |  |  | X | X | X |  |  |  |  |  |
-
-| főelőadó (szakterülettel) |  |  | X | X | X | X | X | X |  |  |
-
-| garázsmester |  | X | X | X |  |  |  |  |  |  |
-
-| gépjárművezető |  | X | X | X |  |  |  |  |  |  |
-
-| gépkocsi ápoló | X | X |  |  |  |  |  |  |  |  |
-
-| gondnok |  | X | X | X | X |  |  |  |  |  |
-
-| hivatalsegéd | X | X |  |  |  |  |  |  |  |  |
-
-| iktató |  | X | X | X |  |  |  |  |  |  |
-
-| iratkezelő |  | X | X | X |  |  |  |  |  |  |
-
-| könyvelő |  |  | X | X | X | X |  |  |  |  |
-
-| leltározó |  |  | X | X | X |  |  |  |  |  |
-
-| műhelyvezető |  | X | X | X | X |  |  |  |  |  |
-
-| műhelyvezető- helyettes |  | X | X | X | X |  |  |  |  |  |
-
-| nyilvántartó (szakterülettel) |  | X | X | X |  |  |  |  |  |  |
-
-| pénz- és értékkezelő |  | X | X | X |  |  |  |  |  |  |
-
-| raktári anyagkönyvelő |  | X | X | X | X |  |  |  |  |  |
-
-| raktáros |  | X | X | X | X |  |  |  |  |  |
-
-| segédmunkás | X | X |  |  |  |  |  |  |  |  |
-
-| sokszorosító | X | X | X |  |  |  |  |  |  |  |
-
-| sokszorosítógép- kezelő | X | X | X |  |  |  |  |  |  |  |
-
-| szakmunkás (szakterülettel) |  | X | X | X |  |  |  |  |  |  |
-
-| számítógépes rendszergazda |  |  |  |  |  | X | X | X | X |  |
-
-| számítógép-rendszer üzemeltető |  |  |  | X | X | X | X | X |  |  |
-
-| takarító | X | X |  |  |  |  |  |  |  |  |
-
-| technikai alkalmazott |  |  | X | X | X | X |  |  |  |  |
-
-| technikus (szakterülettel) |  |  |  | X | X |  |  |  |  |  |
-
-| titkárnő |  |  | X | X | X | X |  |  |  |  |
-
-| ügykezelő |  | X | X | X |  |  |  |  |  |  |
-
-| ügyviteli alkalmazott | X | X | X |  |  |  |  |  |  |  |
-
-## III. NIIF Intézet
-
-| Munkakör megnevezése | Közalkalmazotti osztályok |
-
-|  | A | B | C | D | E | F | G | H | I | J |
-
-| 1. | szakértői munkaköri csoport |
-
-| szakmai koordinátor |  |  |  |  |  | X | X | X | X | X |
-
-| szakmai főmunkatárs |  |  |  |  |  | X | X | X | X | X |
-
-| tudományos munkatárs |  |  |  |  |  |  | X | X | X | X |
-
-| informatikus I. |  |  |  |  |  |  |  | X | X | X |
-
-| informatikus II. |  |  |  |  |  | X | X |  |  |  |
-
-| szakmai felelős |  |  |  |  |  | X | X | X | X | X |
-
-| szakértő |  |  |  |  |  |  | X | X | X |  |
-
-| 2. | ügyintézői munkaköri csoport |
-
 | humánerőforrás-gazdálkodó |  |  |  | X | X | X | X | X |  |  |
 
 | jogi előadó |  |  |  |  |  |  |  | X | X |  |
 
-| kommunikációs asszisztens |  |  | X | X | X | X |  |  |  |  |
+| kommunikációs asszisztens |  |  | X | X | X | X | X |  |  |  |
 
-| projekt asszisztens |  |  | X | X | X | X |  |  |  |  |
-
-| ügyfélszolgálati asszisztens |  |  | X | X | X | X |  |  |  |  |
-
-| 3. | Pénzügyi-gazdasági munkaköri csoport |
-
-| gazdasági főmunkatárs |  |  |  |  |  | X | X | X | X |  |
-
-| kontrolling főmunkatárs |  |  |  |  |  | X | X | X | X |  |
-
-| belső ellenőr |  |  |  |  |  | X | X | X | X |  |
-
-| főkönyvelő |  |  |  |  |  | X | X | X |  |  |
+| ügyfélszolgálati asszisztens |  | X | X | X | X | X | X |  |  |  |
 
 | gazdasági ügyintéző |  |  | X | X | X | X | X | X | X |  |
-
-| könyvelő |  |  | X | X | X | X |  |  |  |  |
-
-| projekt pénzügyi vezető |  |  |  | X | X | X | X | X |  |  |
 
 | projekt pénzügyi asszisztens |  |  | X | X | X | X | X | X |  |  |
 
@@ -264,15 +126,25 @@
 
 | számviteli ügyintéző |  |  | X | X | X |  |  |  |  |  |
 
-| titkársági munkatárs, gazdasági ügyintéző |  |  | X | X | X | X |  |  |  |  |
+| titkársági munkatárs |  |  | X | X | X | X |  |  |  |  |
 
 | munkaügyi ügyintéző |  |  |  | X | X | X | X |  |  |  |
 
-| 4. | Irodai és ügyviteli munkaköri csoport |
+| 3. ügyviteli és irodai munkaköri csoport |
+
+| adminisztrátor |  | X | X | X |  |  |  |  |  |  |
+
+| üzemeltetési előadó |  | X | X | X | X |  |  |  |  |  |
+
+| műszaki előadó |  | X | X | X | X |  |  |  |  |  |
 
 | titkárnő |  | X | X | X | X | X |  |  |  |  |
 
 | gondnok |  |  | X | X |  |  |  |  |  |  |
+
+## II.
+
+## III.
 
 ## IV. KKK
 
@@ -418,69 +290,31 @@
 
 | vagyon-nyilvántartási ügyintéző |  |  | X | X | X |  |  |  |  |  |
 
-2. melléklet a 68/2013. (XI. 22.) NFM rendelethez
+2. melléklet a 68/2013. (XI. 22.) NFM rendelethez[^26]
 
 A magasabb vezető és vezető beosztású közalkalmazottak vezetői pótléka
 
 I. KIFÜ
 
-| Beosztás megnevezése | Vezetői pótlék mértéke % |
+| Beosztás megnevezése | Vezetői pótlék mértéke % |  |
 
-| I. Magasabb vezető |  |
+| I. Magasabb vezető |  |  |
 
-| 1.elnök | 400 |
+| 1. elnök | 400 |  |
 
-| 2.elnökhelyettes | 350 |
+| 2. elnökhelyettes | 350 |  |
 
-| 3.gazdasági vezető | 350 |
+| 3. gazdasági vezető | 350 |  |
 
-| II. Vezető |  |
+| II. Vezető |  |  |
 
-| főosztályvezető | 250 |
+| főosztályvezető | 250 |  |
 
-II. KEF
+| osztályvezető | 150 |  |
 
-| Beosztás megnevezés | Vezetői pótlék mértéke % |
+II.
 
-| I. Magasabb vezető |
-
-| 1. főigazgató | 300 |
-
-| 2. főigazgató-helyettes | 300 |
-
-| 3. igazgató | 300 |
-
-| II. Vezető |
-
-| 1. főosztályvezető | 200 |
-
-| 2. főosztályvezető-helyettes | 175 |
-
-| 3. osztályvezető | 150 |
-
-| 4. titkárságvezető | 125 |
-
-| 5. részlegvezető | 125 |
-
-| 6. csoportvezető | 100 |
-
-III. NIIF Intézet
-
-| Beosztás megnevezés | Vezetői pótlék mértéke % |
-
-| I. Magasabb vezető |
-
-| 1. igazgató | 300 |
-
-| 2. gazdasági igazgató | 250 |
-
-| II. Vezető |
-
-| 1. igazgató-helyettes | 225 |
-
-| 2. titkárságvezető | 100 |
-
-| 3. osztályvezető | 150 |
+III.
 
 IV. KKK
 
@@ -499,3 +333,5 @@ IV. KKK
 | 3. önálló osztályvezető | 180 |
 
 | 4. osztályvezető | 150 |
+
+[^26]: A 2. melléklet a 47/2016. (XI. 17.) NFM rendelet 1. § (3) bekezdése szerint módosított szöveg.

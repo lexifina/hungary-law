@@ -4,8 +4,11 @@
 
 3. § (1) Az ügyintézői, az ügyviteli és irodai munkaköri csoportokba tartozó munkakörök betöltéséhez, továbbá a funkcionális területen alkalmazott munkakörök betöltéséhez – a (2) és (3) bekezdésben foglalt eltérésekkel – nem kötelező pályázat kiírása.
 
-(2) A KEF esetében közalkalmazotti jogviszony létesítéséhez nem kötelező pályázat kiírása az 1. melléklet II. pontjában foglalt táblázat 2. munkaköri csoport pontjában meghatározott munkakörök betöltése esetén.
+(2)[^3]
 
-(3) A KIFÜ-nél nem kötelező pályázat kiírása az 1. melléklet I. pontjában foglalt táblázatban meghatározott munkakörök vonatkozásában, a NIIF Intézetnél nem kötelező pályázat kiírása az 1. melléklet III. pontjában foglalt táblázatban megjelölt munkakörök vonatkozásában.
+(3)[^4] A KIFÜ-nél nem kötelező pályázat kiírása az 1. melléklet I. pontjában foglalt táblázatban meghatározott munkakörök vonatkozásában.
 
 [A Kjt. 22. § (4) bekezdéséhez]
+
+[^3]: A 3. § (2) bekezdését a 47/2016. (XI. 17.) NFM rendelet 3. § b) pontja hatályon kívül helyezte.
+[^4]: A 3. § (3) bekezdése a 47/2016. (XI. 17.) NFM rendelet 3. § c) pontja szerint módosított szöveg.
