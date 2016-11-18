@@ -12,6 +12,6 @@
 
 (7) Az EMVA-ból és az ETHA-ból finanszírozott intézkedések esetén felhívás eltérő rendelkezése hiányában, a jogutód ügyfél az azonos intézkedésre, azonos támogatási kérelem benyújtási időszakban benyújtott támogatási kérelmekkel összefüggő kifizetési kérelmeit együttesen köteles benyújtani.
 
-(8)[^283] A felhívás erre vonatkozó rendelkezése szerint a kedvezményezett halála esetén a kifizető ügynökség a kedvezményezettel annak halálakor együtt élt házastársa vagy törvényes örököse (a továbbiakban együtt: vélelmezett örökös) kérelmére a támogatás igénybevételéhez kapcsolódó eljárást megindítja. Ebben az esetben a kifizető ügynökség a szükséges eljárási cselekményeket a vélelmezett örökös bevonásával elvégzi, de érdemi döntést csak a jogerős hagyatékátadó végzés benyújtását követően hoz.
+(8)[^284] A felhívás erre vonatkozó rendelkezése szerint a kedvezményezett halála esetén a kifizető ügynökség a kedvezményezettel annak halálakor együtt élt házastársa vagy törvényes örököse (a továbbiakban együtt: vélelmezett örökös) kérelmére a támogatás igénybevételéhez kapcsolódó eljárást megindítja. Ebben az esetben a kifizető ügynökség a szükséges eljárási cselekményeket a vélelmezett örökös bevonásával elvégzi, de érdemi döntést csak a jogerős hagyatékátadó végzés benyújtását követően hoz.
 
-[^283]: Az 57/H. § (8) bekezdését a 98/2016. (V. 13.) Korm. rendelet 18. §-a iktatta be.
+[^284]: Az 57/H. § (8) bekezdését a 98/2016. (V. 13.) Korm. rendelet 18. §-a iktatta be.

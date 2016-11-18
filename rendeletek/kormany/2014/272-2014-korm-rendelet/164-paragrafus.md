@@ -1,16 +1,16 @@
-164. § (1)[^734] A szabálytalansági eljárás lezárásáról a szabálytalanságfelelős javaslata alapján az irányító hatóság vezetője a szabálytalanság-eljárási jegyzőkönyv alapján dönt.
+164. § (1)[^737] A szabálytalansági eljárás lezárásáról a szabálytalanságfelelős javaslata alapján az irányító hatóság vezetője a szabálytalanság-eljárási jegyzőkönyv alapján dönt.
 
-(2)[^735] A szabálytalansági eljárás lezárulhat:
+(2)[^738] A szabálytalansági eljárás lezárulhat:
 
 a) szabálytalanság megtörténtét megállapító és jogkövetkezményt, vagy egyéb intézkedést elrendelő döntéssel, vagy
 
 b) annak megállapításával, hogy nem történt szabálytalanság, és – ha szükséges – támogatási jogviszonyt érintő intézkedést elrendelő döntéssel.
 
-(3)[^736] Szabálytalanság megállapítása esetén az irányító hatóság a következő jogkövetkezményeket alkalmazhatja:
+(3)[^739] Szabálytalanság megállapítása esetén az irányító hatóság a következő jogkövetkezményeket alkalmazhatja:
 
 a) a projekt támogatás terhére elszámolható költségeinek csökkentése és a jogosulatlanul igénybe vett támogatás visszafizetésére kötelezés,
 
-b)[^737] a támogatási szerződéstől történő elállás, vagy pénzügyi eszköz esetén a végső kedvezményezettel kötött szerződés felmondása,
+b)[^740] a támogatási szerződéstől történő elállás, vagy pénzügyi eszköz esetén a végső kedvezményezettel kötött szerződés felmondása,
 
 c) pénzügyi eszközök esetén a finanszírozási megállapodás felmondása vagy a végső kedvezményezettel kötött szerződés felmondása,
 
@@ -20,13 +20,13 @@ e) e rendelet hatálya alá tartozó támogatások igénybevételéből történ
 
 f) uniós jogi aktusban meghatározott egyéb jogkövetkezmény.
 
-(3a)[^738] Ha a szabálytalanság megállapítását megelőzően a pénzügyi közvetítő az érintett ügyletet felmondja, vagy saját forrásából megfinanszírozza és az európai uniós forrást visszatéríti az alapok alapját végrehajtó szervezet részére és vállalja, hogy a visszatérített uniós forrást harminc napon belül szabályosan kihelyezi, az adott ügylet vonatkozásában nem kell szabálytalanságot megállapítani.
+(3a)[^741] Ha a szabálytalanság megállapítását megelőzően a pénzügyi közvetítő az érintett ügyletet felmondja, vagy saját forrásából megfinanszírozza és az európai uniós forrást visszatéríti az alapok alapját végrehajtó szervezet részére és vállalja, hogy a visszatérített uniós forrást harminc napon belül szabályosan kihelyezi, az adott ügylet vonatkozásában nem kell szabálytalanságot megállapítani.
 
-(3b)[^739] EMVA forrás esetén a jogosulatlanul igénybe vett támogatás visszafizetésére vonatkozó kötelezést a kifizető ügynökség rendeli el.
+(3b)[^742] EMVA forrás esetén a jogosulatlanul igénybe vett támogatás visszafizetésére vonatkozó kötelezést a kifizető ügynökség rendeli el.
 
 (4) A jogkövetkezményt úgy kell megállapítani, hogy az igazodjék a szabálytalanság súlyához.
 
-(5)[^740] A pénzügyi korrekcióval járó jogkövetkezményt minden esetben egyedileg, az egyes ügyiratok alapján kell megállapítani, és a korrekció összegének meg kell egyezni a nemzeti költségvetésre, illetve az ESB-alapokra tévesen terhelt költségek összegével. A pénzügyi korrekció célja olyan helyzet visszaállítása, ahol az alapok általi társfinanszírozásra benyújtott költségek 100%-a összhangban van a vonatkozó európai uniós és nemzeti szabályokkal.
+(5)[^743] A pénzügyi korrekcióval járó jogkövetkezményt minden esetben egyedileg, az egyes ügyiratok alapján kell megállapítani, és a korrekció összegének meg kell egyezni a nemzeti költségvetésre, illetve az ESB-alapokra tévesen terhelt költségek összegével. A pénzügyi korrekció célja olyan helyzet visszaállítása, ahol az alapok általi társfinanszírozásra benyújtott költségek 100%-a összhangban van a vonatkozó európai uniós és nemzeti szabályokkal.
 
 (6) Ha nem lehetséges egyedi módon számszerűsíteni a pénzügyi korrekció mértékét, vagy adott esetben aránytalan lenne a kérdéses kiadás egészének visszavonása, vagy az félrevezető eredményt ad, átalányon alapuló korrekciót kell alkalmazni. Az átalányon alapuló korrekció mértékét az egyedi szabálysértés súlyosságának és a szabálytalanság pénzügyi következményeinek függvényében kell meghatározni.
 
@@ -34,10 +34,10 @@ f) uniós jogi aktusban meghatározott egyéb jogkövetkezmény.
 
 (8) A kizárt kedvezményezettek nevét, a kizárás okát és időtartamát a www.szechenyi2020.hu honlapon közzé kell tenni.
 
-[^734]: A 164. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 191. pontja szerint módosított szöveg.
-[^735]: A 164. § (2) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 192. pontja szerint módosított szöveg.
-[^736]: A 164. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 89. §-ával megállapított szöveg.
-[^737]: A 164. § (3) bekezdés b) pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 60. pontja szerint módosított szöveg.
-[^738]: A 164. § (3a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 89. §-a iktatta be.
-[^739]: A 164. § (3b) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 44. §-a iktatta be.
-[^740]: A 164. § (5) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 86. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^737]: A 164. § (1) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 100. § 191. pontja szerint módosított szöveg.
+[^738]: A 164. § (2) bekezdés nyitó szövegrésze a 144/2015. (VI. 12.) Korm. rendelet 100. § 192. pontja szerint módosított szöveg.
+[^739]: A 164. § (3) bekezdése a 144/2015. (VI. 12.) Korm. rendelet 89. §-ával megállapított szöveg.
+[^740]: A 164. § (3) bekezdés b) pontja a 98/2016. (V. 13.) Korm. rendelet 45. § (1) bekezdés 60. pontja szerint módosított szöveg.
+[^741]: A 164. § (3a) bekezdését a 144/2015. (VI. 12.) Korm. rendelet 89. §-a iktatta be.
+[^742]: A 164. § (3b) bekezdését a 466/2015. (XII. 29.) Korm. rendelet 44. §-a iktatta be.
+[^743]: A 164. § (5) bekezdése a 175/2015. (VII. 7.) Korm. rendelet 86. § (1) bekezdés 1. pontja szerint módosított szöveg.
