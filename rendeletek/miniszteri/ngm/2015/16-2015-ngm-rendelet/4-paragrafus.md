@@ -30,6 +30,8 @@
 
 13. élelmiszeralapú bioüzemanyag: a 651/2014/EU bizottsági rendelet 2. cikk 113. pontja szerinti üzemanyag;
 
+13a.[^4] eljárási innováció: a 651/2014/EU bizottsági rendelet 2. cikk 97. pontja szerinti innováció;
+
 14. elsődleges mezőgazdasági termelés: az Európai Unió működéséről szóló szerződés (a továbbiakban: EUMSz) I. mellékletében felsorolt növények vagy állati eredetű termék előállítása, ide nem értve bármely, azok lényegi tulajdonságát megváltoztató tevékenységet;
 
 15. elszámolható költség: az Atr. 2. § 6. pontja szerinti költség;
@@ -42,11 +44,17 @@
 
 19. fenntartható bioüzemanyag: a 651/2014/EU bizottsági rendelet 2. cikk 112. pontja szerinti üzemanyag;
 
-19a.[^26] fiatal mezőgazdasági termelő: a 702/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti termelő;
+19a.[^5] fiatal mezőgazdasági termelő: a 702/2014/EU bizottsági rendelet 2. cikk 34. pontja szerinti termelő;
 
 20. foglalkoztatottak számának nettó növekedése: a 651/2014/EU bizottsági rendelet 2. cikk 32. pontja szerinti növekedés;
 
 21. független harmadik fél: olyan vállalkozás, amely nem minősül egy másik meghatározott vállalkozás vonatkozásában a 651/2014/EU bizottsági rendelet I. melléklet 3. cikk (2) bekezdése szerinti partnervállalkozásnak vagy (3) bekezdése szerinti kapcsolt vállalkozásnak;
+
+21a.[^6] hátrányos helyzetű munkavállaló: 651/2014/EU bizottsági rendelet 2. cikk 4. pontja szerinti munkavállaló;
+
+21b.[^7] hivatásos csapat: olyan sportvállalkozás, amely hivatásos sportolót alkalmaz;
+
+21c.[^8] hivatásos sportoló: olyan sportoló, aki jövedelemszerzési céllal, foglalkozásszerűen vagy más módon, ellenszolgáltatás fejében folytat sporttevékenységet;
 
 22. immateriális javak: a 651/2014/EU bizottsági rendelet 2. cikk 30. pontja szerinti javak;
 
@@ -74,9 +82,9 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 32. környezetvédelem: a 651/2014/EU bizottsági rendelet 2. cikk 101. pontja szerinti tevékenység;
 
-33. közösségi agrármarketing tevékenység: olyan marketing eszközökkel végzett üzleti tevékenység, amely túllép a vállalati marketingmunkán, és amely részt vesz az élelmiszereknek és szolgáltatásoknak az alapanyag-termelőtől a végső fogyasztóig történő áramoltatásában;
+33.[^9]
 
-34. közösségi bormarketing tevékenység: olyan ágazati marketing-együttműködés, amely túllép a vállalati marketingtevékenységen és azt egy termelői csoport, borvidék, borrégió vagy a magyar borászat egésze számára, az érintettek érdekében, azokkal együttműködve végzik;
+34.[^10]
 
 35. közvetlenül a beruházási projekt által létrehozott munkahely: a 651/2014/EU bizottsági rendelet 2. cikk 62. pontja szerinti munkahely;
 
@@ -96,7 +104,7 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 43. megvalósíthatósági tanulmány: a 651/2014/EU bizottsági rendelet 2. cikk 87. pontja szerinti tanulmány;
 
-43a.[^27] mezőgazdasági ágazat: a mezőgazdasági termékek elsődleges termelésével, feldolgozásával és forgalmazásával foglalkozó vállalkozások összessége,
+43a.[^11] mezőgazdasági ágazat: a mezőgazdasági termékek elsődleges termelésével, feldolgozásával és forgalmazásával foglalkozó vállalkozások összessége,
 
 44. mezőgazdasági termék: a 651/2014/EU bizottsági rendelet 2. cikk 11. pontja szerinti termék;
 
@@ -104,7 +112,7 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 46. mezőgazdasági termék forgalmazása: a 651/2014/EU bizottsági rendelet 2. cikk 8. pontja szerinti tevékenység;
 
-46a.[^28] minőségrendszer: az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló iránymutatások (282) bekezdésében meghatározott rendszerek,
+46a.[^12]
 
 47. működési eredmény: a beruházásnak a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) 3. § (4) bekezdés 5. pontja szerinti hasznos élettartama alatt diszkontált bevételek és diszkontált működési költségek közötti pozitív előjelű különbség;
 
@@ -116,11 +124,13 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 51. összeszámítási szabály: a nagyberuházás elszámolható költségeinek kiszámításakor egyetlen beruházásnak kell tekinteni az igénybejelentésben szereplő beruházást és az igénybejelentő beruházó, valamint az igénybejelentő beruházótól független harmadik félnek nem minősülő beruházó vagy beruházók által háromszor háromszázhatvanöt napos időszakon belül az igénybejelentésben szereplő beruházással azonos megyében megkezdett, állami támogatásban részesülő beruházást vagy beruházásokat;
 
-51a.[^29] promóciós intézkedés: olyan intézkedés, amelynek a célja a nyilvánosság tájékoztatása a mezőgazdasági termékek jellemzőiről – így különösen a versenyek szervezéséről, a kereskedelmi vásárokon és közönségkapcsolati tevékenységekben való részvételről – tudományos ismeretterjesztés vagy tényszerű információk közzététele révén, vagy a gazdasági szereplők vagy fogyasztók promóciós kampányok keretében történő ösztönzése a szóban forgó mezőgazdasági termék megvásárlására;
+51a.[^13]
 
 52. reklámozási tevékenység: a gazdasági reklámtevékenység alapvető feltételeiről és egyes korlátairól szóló 2008. évi XLVIII. törvény 3. § d) pontja szerinti tájékoztatás;
 
 53. saját forrás: a kedvezményezett által a projekthez igénybe vett, állami támogatást nem tartalmazó forrás;
+
+53a.[^14] súlyosan hátrányos helyzetű munkavállaló: a 651/2014/EU bizottsági rendelet 2. cikk 99. pontja szerinti munkavállaló;
 
 54. személyi jellegű ráfordítás: a 651/2014/EU bizottsági rendelet 2. cikk 88. pontja szerinti ráfordítás;
 
@@ -130,7 +140,17 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 57. szervezeti együttműködés: a 651/2014/EU bizottsági rendelet 2. cikk 63. pontja szerinti együttműködés;
 
+57a.[^15] szervezési innováció: a 651/2014/EU bizottsági rendelet 2. cikk 96. pontja szerinti innováció;
+
 58. szénipar: az Egyesült Nemzetek Európai Gazdasági Bizottsága által a szén tekintetében megállapított és a versenyképtelen szénbányák bezárását elősegítő állami támogatásról szóló, 2010. december 10-i 2010/787/EU tanácsi határozatban pontosított nemzetközi kodifikációs rendszer értelmében kiváló minőségű, közepes minőségű és gyenge minőségű A. és B. csoportba sorolt szén kitermelésével kapcsolatos tevékenység;
+
+58a.[^16] szennyezett terület: a 651/2014/EU bizottsági rendelet 2. cikk 121. pontja szerinti terület;
+
+58b.[^17] szennyezés: a 651/2014/EU bizottsági rendelet 2. cikk 123. pontja szerinti tevékenység vagy mulasztás;
+
+58c.[^18] szennyező fizet elve: a 651/2014/EU bizottsági rendelet 2. cikk 122. pontja szerinti elv;
+
+58d.[^19] szennyező: a 651/2014/EU bizottsági rendelet 2. cikk 125. pontja szerinti személy;
 
 59. szinten tartást szolgáló eszköz: olyan eszköz, amely a kedvezményezett által már használt tárgyi eszközt, immateriális javakat váltja ki anélkül, hogy a kiváltás az előállított termék, a nyújtott szolgáltatás, a termelési, illetve a szolgáltatási folyamat alapvető változását vagy bővülését eredményezné;
 
@@ -144,7 +164,7 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 64. támogatástartalom: az Atr. 2. § 19. pontja szerinti tartalom;
 
-64a.[^30] tanácsadás: a 702/2014/EU bizottsági rendelet 2. cikk 45. pontja szerinti tanácsadás;
+64a.[^20]
 
 65. tárgyi eszköz: a 651/2014/EU bizottsági rendelet 2. cikk 29. pontja szerinti eszköz;
 
@@ -156,27 +176,23 @@ b) amely esetén a támogatás nyújtását megelőző három év legalább egyi
 
 69. uniós szabvány: a 651/2014/EU bizottsági rendelet 2. cikk 102. pontja szerinti szabvány.
 
-(3)[^31] Az 1. mellékletben foglalt táblázat 15. sorában szabályozott előirányzat végrehajtása során
+(3)[^21]
 
-a) a mezőgazdasági termékek és az élelmiszerek minőségrendszereiről szóló, 2012. november 21-i 1151/2012/EU európai parlamenti és tanácsi rendeletben,
-
-b) az 1151/2012/EU európai parlamenti és tanácsi rendeletnek az oltalom alatt álló eredetmegjelölések, az oltalom alatt álló földrajzi jelzések és a hagyományos különleges termékek uniós szimbólumainak létrehozása tekintetében, valamint a származásra vonatkozó bizonyos szabályok, bizonyos eljárási szabályok és bizonyos kiegészítő átmeneti szabályok tekintetében történő kiegészítéséről szóló, 2013. december 18-i 664/2014/EU felhatalmazáson alapuló bizottsági rendeletben,
-
-c) a mezőgazdasági termékpiacok közös szervezésének létrehozásáról, és a 922/72/EGK, a 234/79/EK, az 1037/2001/EK és az 1234/2007/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1308/2013/EU európai parlamenti és tanácsi rendeletben,
-
-d) a szeszes italok meghatározásáról, megnevezéséről, kiszereléséről, címkézéséről és földrajzi árujelzőinek oltalmáról, valamint az 1576/89/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2008. január 15-i 110/2008/EK európai parlamenti és tanácsi rendeletben,
-
-e) az 1408/2013/EU bizottsági rendeletben,
-
-f)[^32] az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szóló iránymutatásokban,
-
-g)[^33] a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendeletben
-
-[^26]: A 4. § (2) bekezdés 19a. pontját a 30/2015. (XI. 19.) NGM rendelet 3. § (1) bekezdése iktatta be.
-[^27]: A 4. § (2) bekezdés 43a. pontját a 43/2015. (XII. 30.) NGM rendelet 2. § (1) bekezdése iktatta be.
-[^28]: A 4. § (2) bekezdés 46a. pontját a 43/2015. (XII. 30.) NGM rendelet 2. § (2) bekezdése iktatta be.
-[^29]: A 4. § (2) bekezdés 51a. pontját a 43/2015. (XII. 30.) NGM rendelet 2. § (3) bekezdése iktatta be.
-[^30]: A 4. § (2) bekezdés 64a. pontját a 30/2015. (XI. 19.) NGM rendelet 3. § (2) bekezdése iktatta be.
-[^31]: A 4. § (3) bekezdés nyitó szövegrésze a 30/2015. (XI. 19.) NGM rendelet 10. § 1. pontja szerint módosított szöveg.
-[^32]: A 4. § (3) bekezdés f) pontját a 43/2015. (XII. 30.) NGM rendelet 2. § (4) bekezdése iktatta be.
-[^33]: A 4. § (3) bekezdés g) pontját a 43/2015. (XII. 30.) NGM rendelet 2. § (4) bekezdése iktatta be.
+[^4]: A 4. § (2) bekezdés 13a. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (1) bekezdése iktatta be.
+[^5]: A 4. § (2) bekezdés 19a. pontját a 30/2015. (XI. 19.) NGM rendelet 3. § (1) bekezdése iktatta be.
+[^6]: A 4. § (2) bekezdés 21a. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (2) bekezdése iktatta be.
+[^7]: A 4. § (2) bekezdés 21b. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (2) bekezdése iktatta be.
+[^8]: A 4. § (2) bekezdés 21c. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (2) bekezdése iktatta be.
+[^9]: A 4. § (2) bekezdés 33. pontját a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^10]: A 4. § (2) bekezdés 34. pontját a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^11]: A 4. § (2) bekezdés 43a. pontját a 43/2015. (XII. 30.) NGM rendelet 2. § (1) bekezdése iktatta be.
+[^12]: A 4. § (2) bekezdés 46a. pontját a 43/2015. (XII. 30.) NGM rendelet 2. § (2) bekezdése iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja.
+[^13]: A 4. § (2) bekezdés 51a. pontját a 43/2015. (XII. 30.) NGM rendelet 2. § (3) bekezdése iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja.
+[^14]: A 4. § (2) bekezdés 53a. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (3) bekezdése iktatta be.
+[^15]: A 4. § (2) bekezdés 57a. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (4) bekezdése iktatta be.
+[^16]: A 4. § (2) bekezdés 58a. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (5) bekezdése iktatta be.
+[^17]: A 4. § (2) bekezdés 58b. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (5) bekezdése iktatta be.
+[^18]: A 4. § (2) bekezdés 58c. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (5) bekezdése iktatta be.
+[^19]: A 4. § (2) bekezdés 58d. pontját a 42/2016. (XI. 17.) NGM rendelet 2. § (5) bekezdése iktatta be.
+[^20]: A 4. § (2) bekezdés 64a. pontját a 30/2015. (XI. 19.) NGM rendelet 3. § (2) bekezdése iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja.
+[^21]: A 4. § (3) bekezdését a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés a) pontja hatályon kívül helyezte.

@@ -1,3 +1,5 @@
+## 37. §
+
 ## 21. A közszolgáltatásért járó ellentételezés
 
 38. § (1) A közszolgáltatásért járó ellentételezés (ezen alcím alkalmazásában a továbbiakban: támogatás) kizárólag a közszolgáltatás ellátásával megbízott kedvezményezett részére nyújtható.
