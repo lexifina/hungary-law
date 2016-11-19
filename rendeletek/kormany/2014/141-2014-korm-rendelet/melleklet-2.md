@@ -44,7 +44,7 @@
 
 | 21. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Vecsés közigazgatási területén fekvő, 4798 és 3432/2 helyrajzi számú ingatlan |
 
-| 22. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Biatorbágy közigazgatási területén fekvő, 112/1 helyrajzi számú ingatlan |
+| 22. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Biatorbágy közigazgatási területén fekvő, 110 helyrajzi számú ingatlan |
 
 | 23. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Solymár közigazgatási területén fekvő, 423/2 helyrajzi számú ingatlan |
 
@@ -157,6 +157,10 @@
 | 77. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló óvoda-fejlesztés | Szárföld közigazgatási területén fekvő, 477 helyrajzi számú ingatlan |
 
 | 78. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Budapest közigazgatási területén fekvő, 29978/166 helyrajzi számú ingatlan |
+
+| 79. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Győr közigazgatási területén fekvő, 4016 helyrajzi számú ingatlan |
+
+| 80. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Budapest közigazgatási területén fekvő, 179422/4 helyrajzi számú ingatlan |
 
 2. melléklet a 141/2014. (IV. 30.) Korm. rendelethez
 

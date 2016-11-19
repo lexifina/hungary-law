@@ -158,4 +158,8 @@ A Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvaló
 
 | 77. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Budapest XIV. kerület |
 
-[^7]: A 3. melléklet a 213/2014. (VIII. 27.) Korm. rendelet 1. § b) pontja, az 57/2015. (III. 17.) Korm. rendelet 1. § b) pontja, a 96/2015. (IV. 9.) Korm. rendelet 5. § b) pontja, a 111/2016. (V. 25.) Korm. rendelet 4. § (2) bekezdés b) pontja, a 208/2016. (VII. 21.) Korm. rendelet 3. § b) pontja szerint módosított szöveg.
+| 78. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Győr |
+
+| 79. | Nemzeti Köznevelési Infrastruktúra Fejlesztési Program keretében megvalósuló tanterem-fejlesztés | Budapest XX. kerület |
+
+[^7]: A 3. melléklet a 213/2014. (VIII. 27.) Korm. rendelet 1. § b) pontja, az 57/2015. (III. 17.) Korm. rendelet 1. § b) pontja, a 96/2015. (IV. 9.) Korm. rendelet 5. § b) pontja, a 111/2016. (V. 25.) Korm. rendelet 4. § (2) bekezdés b) pontja, a 208/2016. (VII. 21.) Korm. rendelet 3. § b) pontja, a 356/2016. (XI. 18.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
