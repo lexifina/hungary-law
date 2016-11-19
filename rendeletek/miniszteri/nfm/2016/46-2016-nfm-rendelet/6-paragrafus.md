@@ -1,3 +1,3 @@
-## 5. §[^1]
+## 5. §[^2]
 
-[^1]: Az 5. § a 8. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^2]: Az 5. § a 8. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

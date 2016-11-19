@@ -1,1 +1,3 @@
-## 4. § A vasúti közlekedés biztonságával összefüggő munkakört betöltő munkavállalók szakmai képzésének és vizsgáztatásának, a vasúti vizsgaközpont és képzőszervezetek működésének, a képzési engedély kiadásának, továbbá a vasúti járművezetői gyakorlat szabályairól szóló 19/2011. (V. 10.) NFM rendelet (a továbbiakban: R.) 15. § (2) bekezdés b) pontjában a „Közlekedésbiztonsági Szervezet” szövegrész helyébe a „közlekedésbiztonsági szerv” szöveg lép.
+## 1–4. §[^1]
+
+[^1]: Az 1–4. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
