@@ -1,0 +1,1 @@
+## „i) az Szt. 85. § (1) és (1a) bekezdésében meghatározott gazdasági eseményeket, ha azok nem tartós részesedéshez, az értékpapírok között kimutatott hitelviszonyt megtestesítő értékpapírhoz vagy vásárolt követeléshez kapcsolódnak.”
