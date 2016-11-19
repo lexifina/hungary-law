@@ -20,7 +20,7 @@ e) iskola és óvoda esetén a hátrányos helyzetű és halmozottan hátrányos
 
 ea) a településen élő összes hátrányos helyzetű és halmozottan hátrányos helyzetű gyermek, tanuló létszámát, külön nyilvántartva az óvodával jogviszonyban álló gyermekek, az alapfokú és középfokú iskolával tanulói jogviszonyban álló tanulók létszámát,
 
-eb)[^34] az óvoda és az iskola felvételi körzetében élő hátrányos helyzetű és halmozottan hátrányos helyzetű gyermekek és tanköteles tanulók létszámát, feladatellátási helyenként,
+eb)[^35] az óvoda és az iskola felvételi körzetében élő hátrányos helyzetű és halmozottan hátrányos helyzetű gyermekek és tanköteles tanulók létszámát, feladatellátási helyenként,
 
 f) a Köznevelési Hídprogramban részt vevő alap- és középfokú iskolákat.
 
@@ -28,4 +28,4 @@ f) a Köznevelési Hídprogramban részt vevő alap- és középfokú iskolákat
 
 (4) A Hivatal a KIR honlapján mindenki számára térítésmentes hozzáférést biztosít az (1)–(3) bekezdés szerinti adatokhoz.
 
-[^34]: A 22. § (2) bekezdés e) pont eb) alpontja a 73/2013. (III. 8.) Korm. rendelet 29. § j) pontja szerint módosított szöveg.
+[^35]: A 22. § (2) bekezdés e) pont eb) alpontja a 73/2013. (III. 8.) Korm. rendelet 29. § j) pontja szerint módosított szöveg.

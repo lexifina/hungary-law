@@ -46,15 +46,17 @@
 
 19. a pedagógus-továbbképzésben részt vevő szervezetek nyilvántartását,
 
-20. az állami intézményfenntartó keretében működő köznevelési intézmények közhiteles nyilvántartását.
+20. az állami intézményfenntartó keretében működő köznevelési intézmények közhiteles nyilvántartását,
+
+21.[^4] a lemorzsolódással veszélyeztetett tanulók pedagógiai támogatásához kapcsolódó korai jelző- és pedagógiai támogató rendszert a nappali rendszerű oktatást folytató, illetve a felnőttoktatást nappali munkarend szerint folytató nevelési-oktatási intézményektől begyűjtött személyazonosításra alkalmatlan, összesített statisztikai adatok alapján.
 
 (3) A KIR-t úgy kell felépíteni és fejleszteni, hogy
 
-a)[^4] az azonos adatokat csak egyszer lehessen megadni és csak egy – a (2) bekezdés szerinti – rendszerben lehessen megváltoztatni,
+a)[^5] az azonos adatokat csak egyszer lehessen megadni és csak egy – a (2) bekezdés szerinti – rendszerben lehessen megváltoztatni,
 
 b) segítse a hatósági döntéshozatalt, a szakmai feladatok ellátását, az ágazati és a fenntartói tervezés feladatait,
 
-c)[^5] alkalmas legyen a miniszter által engedélyezett, a köznevelési intézmények és fenntartóik által használt vagy a közigazgatási szerv által vezetett elektronikus információs nyilvántartásokkal való együttműködésre,
+c)[^6] alkalmas legyen a miniszter által engedélyezett, a köznevelési intézmények és fenntartóik által használt vagy a közigazgatási szerv által vezetett elektronikus információs nyilvántartásokkal való együttműködésre,
 
 d) a begyűjtött és tárolt adatokból különböző lekérdezésekkel összehasonlító elemzéseket lehessen készíteni,
 
@@ -62,11 +64,12 @@ e) a begyűjtött és tárolt adatokból az Európai Unió közvetlenül alkalma
 
 (4) A KIR adatbázisában tárolt valamennyi adat statisztikai célra feldolgozható, és statisztikai felhasználás céljára személyazonosításra alkalmatlan módon átadható. Az adatkérés módját, a közérdekű adatokat a KIR honlapján közzé kell tenni. A statisztikai céllal készült adatok a KIR honlapján megjeleníthetők.
 
-(5)[^6] A (3) bekezdés c) pontjában meghatározottak megvalósítása érdekében statisztikai adatok, valamint – a kizárólag törvényi felhatalmazás alapján – átadható személyes adatok átadásának módját az adatkezelő és a Hivatal között létrejött írásbeli szerződés határozza meg.
+(5)[^7] A (3) bekezdés c) pontjában meghatározottak megvalósítása érdekében statisztikai adatok, valamint – a kizárólag törvényi felhatalmazás alapján – átadható személyes adatok átadásának módját az adatkezelő és a Hivatal között létrejött írásbeli szerződés határozza meg.
 
 [^1]: Az 1. § (1) bekezdése a 73/2013. (III. 8.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
 [^3]: Az 1. § (2) bekezdés 18. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont aa) alpontja szerint módosított szöveg.
-[^4]: Az 1. § (3) bekezdés a) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ab) alpontja szerint módosított szöveg.
-[^5]: Az 1. § (3) bekezdés c) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ac) alpontja szerint módosított szöveg.
-[^6]: Az 1. § (5) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ad) alpontja szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdés 21. pontját a 354/2016. (XI. 18.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 1. § (3) bekezdés a) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ab) alpontja szerint módosított szöveg.
+[^6]: Az 1. § (3) bekezdés c) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ac) alpontja szerint módosított szöveg.
+[^7]: Az 1. § (5) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ad) alpontja szerint módosított szöveg.

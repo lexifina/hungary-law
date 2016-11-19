@@ -10,10 +10,10 @@ c) a jegyzék közzétételekor működő
 
 ca) köznevelési intézmény és fenntartó valamennyi elérhetőségét,
 
-cb)[^18] köznevelési intézmény esetén feladatellátási helyenként az ellátott köznevelési alapfeladatokat,
+cb)[^19] köznevelési intézmény esetén feladatellátási helyenként az ellátott köznevelési alapfeladatokat,
 
 cc) tagintézmény címét és képviselőjét,
 
 cd) köznevelési intézmény képviselőjének nevét.
 
-[^18]: A 6. § (2) bekezdés c) pont cb) alpontja a 73/2013. (III. 8.) Korm. rendelet 29. § f) pontja szerint módosított szöveg.
+[^19]: A 6. § (2) bekezdés c) pont cb) alpontja a 73/2013. (III. 8.) Korm. rendelet 29. § f) pontja szerint módosított szöveg.

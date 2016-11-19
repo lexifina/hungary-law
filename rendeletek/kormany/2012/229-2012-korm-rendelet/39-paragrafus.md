@@ -1,8 +1,8 @@
 ## V. Fejezet
 
-## A KÖZNEVELÉSI INTÉZMÉNY MŰKÖDTETÉSÉVEL KAPCSOLATOS NYILATKOZAT ÉS KÉRELEM BENYÚJTÁSÁNAK, VALAMINT A KÉRELEM ELBÍRÁLÁSÁNAK SZABÁLYAI[^128]
+## A KÖZNEVELÉSI INTÉZMÉNY MŰKÖDTETÉSÉVEL KAPCSOLATOS NYILATKOZAT ÉS KÉRELEM BENYÚJTÁSÁNAK, VALAMINT A KÉRELEM ELBÍRÁLÁSÁNAK SZABÁLYAI[^130]
 
-39. §[^129] (1) A települési önkormányzat az Nkt. 76. § (4) bekezdése szerinti nyilatkozattételi kötelezettségét, továbbá az Nkt. 74. § (4) bekezdése szerinti működtetési kötelezettség alóli mentesülésre és az Nkt. 74. § (5) bekezdése szerinti működtetés vállalására vonatkozó kérelem benyújtását
+39. §[^131] (1) A települési önkormányzat az Nkt. 76. § (4) bekezdése szerinti nyilatkozattételi kötelezettségét, továbbá az Nkt. 74. § (4) bekezdése szerinti működtetési kötelezettség alóli mentesülésre és az Nkt. 74. § (5) bekezdése szerinti működtetés vállalására vonatkozó kérelem benyújtását
 
 a) a 3000 fő lakosságszámot meg nem haladó települési önkormányzat esetében az 1. mellékletben meghatározott 1. nyilatkozat,
 
@@ -14,5 +14,5 @@ b) a 3000 fő feletti lakosságszámú települési önkormányzat esetében az 
 
 (3) A nyilatkozat egy eredeti példányát az Igazgatóság a benyújtási határidőt követően haladéktalanul megküldi a miniszter részére.
 
-[^128]: Az V. fejezet címe a 315/2012. (XI. 13.) Korm. rendelet 2. §-ával megállapított, a 143/2015. (VI. 12.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
-[^129]: A 39. § a 143/2015. (VI. 12.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^130]: Az V. fejezet címe a 315/2012. (XI. 13.) Korm. rendelet 2. §-ával megállapított, a 143/2015. (VI. 12.) Korm. rendelet 5. § a) pontja szerint módosított szöveg.
+[^131]: A 39. § a 143/2015. (VI. 12.) Korm. rendelet 2. §-ával megállapított szöveg.

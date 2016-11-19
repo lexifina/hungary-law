@@ -10,7 +10,7 @@ c) nemzetközi, külföldi nevelési-oktatási intézmény vagy a miniszter egye
 
 a KIR-en keresztül kezdeményezi.
 
-(2)[^19] Az állami intézményfenntartó központ által fenntartott köznevelési intézmény OM azonosítójának kiadása iránt a Hivatal – a köznevelési intézmény alapító okiratának kézhezvételét követő tizenöt napon belül – intézkedik.
+(2)[^20] Az állami intézményfenntartó központ által fenntartott köznevelési intézmény OM azonosítójának kiadása iránt a Hivatal – a köznevelési intézmény alapító okiratának kézhezvételét követő tizenöt napon belül – intézkedik.
 
 (3) Az illetékes kormányhivatal és a miniszter a köznevelési intézmény működési engedélyét a jogerőre emelkedését követő öt napon belül küldi meg a Hivatal számára, egyúttal csatolja
 
@@ -26,4 +26,4 @@ b) a fenntartónak a köznevelési intézmény alapítására, fenntartására j
 
 (4) A kincstár a köznevelési intézmény egységes szerkezetű alapító okiratát a nyilvántartásba vételt követő öt napon belül juttatja el a KIR részére.
 
-[^19]: A 7. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § g) pontja szerint módosított szöveg.
+[^20]: A 7. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § g) pontja szerint módosított szöveg.
