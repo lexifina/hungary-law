@@ -1,3 +1,3 @@
-2. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^281]
+2. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^285]
 
-[^281]: A 2. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 1. pontjával megállapított, a 161/2014. (VI. 30.) Korm. rendelet 6. §-a, a 233/2014. (IX. 18.) Korm. rendelet 11. § (5) bekezdése, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 35. pontja és 23. § (2) bekezdés 26. pontja és 24. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 217. § (1) bekezdése, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 1. pontja szerint módosított szöveg
+[^285]: A 2. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 1. pontjával megállapított, a 161/2014. (VI. 30.) Korm. rendelet 6. §-a, a 233/2014. (IX. 18.) Korm. rendelet 11. § (5) bekezdése, a 284/2014. (XI. 20.) Korm. rendelet 23. § (1) bekezdés 35. pontja és 23. § (2) bekezdés 26. pontja és 24. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 217. § (1) bekezdése, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 1. pontja, a 351/2016. (XI. 18.) Korm. rendelet 11. § 12. pontja szerint módosított szöveg.

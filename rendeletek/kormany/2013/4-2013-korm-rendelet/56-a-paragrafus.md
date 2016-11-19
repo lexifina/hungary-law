@@ -1,4 +1,3 @@
-## 56. §[^269] Az állami adó- és vámhatóság által beszedett közhatalmi bevételekkel kapcsolatban kimutatott túlfizetések állományát az államháztartás számviteléről szóló 4/2013. (I. 11.) Korm. rendelet módosításáról szóló 402/2015. (XII. 15.) Korm. rendelet hatálybalépését[^270] követő harminc napon belül ki kell vezetni a 414. Felhalmozott eredmény könyvviteli számlával szemben – a 3513. Költségvetési évben esedékes követelések közhatalmi bevételre könyvviteli számla közbeiktatásával – a 2015. évi könyvelésben a mérleg fordulónapjára vonatkozó dátummal. A 2015. évi éves költségvetési beszámolóban ilyen állomány nem mutatható ki.
+## 56. §[^274] Az Ávr. 32. § (6) bekezdésében előírt adatszolgáltatást oly módon kell teljesíteni, hogy annak tartalma megfeleljen az e rendelet 2017. január 1-jén hatályba lépő rendelkezései szerinti rovatrendnek.
 
-[^269]: Az 56. §-t az 58. § hatályon kívül helyezte, újonnan a 175/2015. (VII. 7.) Korm. rendelet 38. §-a iktatta be, szövege a 402/2015. (XII. 15.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^270]: A hatálybalépés napja 2016. január 1.
+[^274]: Az 56. §-t az 58. § hatályon kívül helyezte, újonnan a 175/2015. (VII. 7.) Korm. rendelet 38. §-a iktatta be, szövege a 351/2016. (XI. 18.) Korm. rendelet 9. §-ával megállapított szöveg.

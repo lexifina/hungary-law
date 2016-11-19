@@ -1,10 +1,10 @@
 ## 21. Az egységes számlakeret és a számlarend
 
-51. § (1)[^251] Az egységes számlakeretet a 16. melléklet állapítja meg. Az egységes számlakerettől nem lehet eltérni, az abban meghatározott könyvviteli és nyilvántartási számlákon kívüli új könyvviteli és nyilvántartási számlát nem lehet megnyitni.
+51. § (1)[^256] Az egységes számlakeretet a 16. melléklet állapítja meg. Az egységes számlakerettől nem lehet eltérni, az abban meghatározott könyvviteli és nyilvántartási számlákon kívüli új könyvviteli és nyilvántartási számlát nem lehet megnyitni.
 
-(1a)[^252] A könyvviteli számlák és az egységes számlakeret 00. és 01–04. számlacsoportjában meghatározott nyilvántartási számlák saját hatáskörben további részletező könyvviteli és nyilvántartási számlákra alábonthatók, az egységes számlakeretben meghatározott esetekben alábontandók.
+(1a)[^257] A könyvviteli számlák és az egységes számlakeret 00. és 01–04. számlacsoportjában meghatározott nyilvántartási számlák saját hatáskörben további részletező könyvviteli és nyilvántartási számlákra alábonthatók, az egységes számlakeretben meghatározott esetekben alábontandók.
 
-(1b)[^253] Az egységes számlatükörben meghatározott
+(1b)[^258] Az egységes számlatükörben meghatározott
 
 a) előirányzatok és követelések, kötelezettségvállalások, más fizetési kötelezettségek nyilvántartására szolgáló számlák további részletező nyilvántartási számlákra saját hatáskörben sem bonthatók alá,
 
@@ -16,6 +16,6 @@ b) teljesítések nyilvántartására szolgáló számlák – saját hatáskör
 
 (3) A részletező nyilvántartások vezetésének módját, azoknak a kapcsolódó könyvviteli és nyilvántartási számlákkal való egyeztetését, annak dokumentálását, valamint a részletező nyilvántartások és az egységes rovatrend rovataihoz kapcsolódóan vezetett nyilvántartási számlák adataiból a pénzügyi könyvvezetéshez készült összesítő bizonylatok (feladások) elkészítésének rendjét, az összesítő bizonylat tartalmi és formai követelményeit a számlarendben kell szabályozni.
 
-[^251]: Az 51. § (1) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^252]: Az 51. § (1a) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 19. § (2) bekezdése iktatta be.
-[^253]: Az 51. § (1b) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^256]: Az 51. § (1) bekezdése a 284/2014. (XI. 20.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^257]: Az 51. § (1a) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 19. § (2) bekezdése iktatta be.
+[^258]: Az 51. § (1b) bekezdését a 284/2014. (XI. 20.) Korm. rendelet 19. § (2) bekezdése iktatta be.

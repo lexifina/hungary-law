@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-4-20-22
 | 2016-01-01 | 2013-4-20-22.14 | 402/2015. (XII. 15.) Korm. rendelet |
 | 2016-07-23 | 2013-4-20-22.15 | 157/2015. (VI. 25.) Korm. rendelet |
 | 2016-08-01 | 2013-4-20-22.16 | 497/2013. (XII. 29.) Korm. rendelet |
+| 2016-11-19 | 2013-4-20-22.17 | 351/2016. (XI. 18.) Korm. rendelet |

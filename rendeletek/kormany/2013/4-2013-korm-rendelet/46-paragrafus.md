@@ -2,7 +2,7 @@
 
 (2) Az eredménykimutatás elkészítéséhez, a mérleg szerinti eredmény megállapításához szükséges adatokat az 5. és a 8. és a 9. számlaosztály könyvviteli számlái tartalmazzák.
 
-(3)[^211] A költségekről és megtérült költségekről szóló kimutatás elkészítéséhez szükséges adatokat a 7. számlaosztály és a (6) bekezdés szerinti bevételek könyvviteli számlái tartalmazzák. A 7. számlaosztályt a tevékenység során használt szakfeladatok szerint tovább kell tagolni.
+(3)[^216] A költségekről és megtérült költségekről szóló kimutatás elkészítéséhez szükséges adatokat a 7. számlaosztály és a (6) bekezdés szerinti bevételek könyvviteli számlái tartalmazzák. A 7. számlaosztályt a tevékenység során használt szakfeladatok szerint tovább kell tagolni.
 
 (4) A szakfeladathoz közvetlenül nem hozzárendelhető költségek évközi elszámolására a 6. számlaosztály használható. A 6. számlaosztályban a költségeket a következők szerint kell elszámolni:
 
@@ -22,7 +22,7 @@ f) a 66. Központi irányítás költségei számlacsoport tartalmazza a szervez
 
 (6) Az eszközök és szolgáltatások értékesítése nettó eredményszemléletű bevételei, az egyéb működési célú támogatások eredményszemléletű bevételei és a felhalmozási célú támogatások eredményszemléletű bevételei elszámolására szolgáló könyvviteli számlákat a tevékenység során használt szakfeladatok szerint tovább kell tagolni.
 
-(7)[^212] Nem kötelező a 6. és 7. számlaosztály használata, és a (6) bekezdés szerinti tagolás elvégzése, ha a tevékenység egy szakfeladatot sem vagy kizárólag egy szakfeladatot érint.
+(7)[^217] Nem kötelező a 6. és 7. számlaosztály használata, és a (6) bekezdés szerinti tagolás elvégzése, ha a tevékenység egy szakfeladatot sem vagy kizárólag egy szakfeladatot érint.
 
-[^211]: A 46. § (3) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 22. § 27. pontja szerint módosított szöveg.
-[^212]: A 46. § (7) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 103. §-a iktatta be.
+[^216]: A 46. § (3) bekezdése a 402/2015. (XII. 15.) Korm. rendelet 22. § 27. pontja szerint módosított szöveg.
+[^217]: A 46. § (7) bekezdését a 497/2013. (XII. 29.) Korm. rendelet 103. §-a iktatta be.

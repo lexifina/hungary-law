@@ -10,7 +10,7 @@
 
 ## G) Vállalkozási tevékenység felhasználható maradványa (B–F)
 
-4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^282]
+4. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^286]
 
 ## ADATSZOLGÁLTATÁS A TÁRSADALOMBIZTOSÍTÁS PÉNZÜGYI ALAPJAIBÓL FOLYÓSÍTOTT EGYES ELLÁTÁSOK ÉS TÁMOGATÁSOK TERVEZETT ÖSSZEGEIRŐL ÉS TELJESÍTÉSÉRŐL
 
@@ -46,7 +46,7 @@
 
 4. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 2. Védőnői szolgáltatás, anya-, gyermek- és ifjúságvédelem jogcím tekintetében a kifizetett támogatások közül:
 
-- iskola-egészségügyi ellátás,
+- iskolaegészségügyi ellátás,
 
 - védőnői ellátás,
 
@@ -58,8 +58,6 @@
 
 5. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 13. Célelőirányzatok jogcím tekintetében a kifizetett támogatások közül:
 
-– bázisfinanszírozott fekvőbeteg-szakellátás,
-
 – méltányossági alapon történő térítések,
 
 – alapellátási vállalkozás támogatási átalánydíj,
@@ -68,11 +66,15 @@
 
 – egészségügyi dolgozók béremelésének fedezete,
 
-– az egészségügyi dolgozók pénzellátást helyettesítő jövedelem-kiegészítése,
+– az egészségügyi dolgozók pénzellátást helyettesítő jövedelemkiegészítése,
 
 – tartósan betöltetlen háziorvosi körzetek betöltésének, valamint háziorvosi tevékenység végzéséhez szükséges praxisjog vásárlásának támogatása,
 
-– egészségügyi dolgozók bérkiegészítése.
+– egészségügyi dolgozók mozgóbér elemeinek támogatása,
+
+– fiatal szakorvosok támogatása,
+
+– egészségügyi dolgozók 2016. évi béremelésének fedezete.
 
 6. A LXXII. Egészségbiztosítási Alap 2. Egészségbiztosítási ellátások kiadásai cím, 3. Természetbeni ellátások alcím, 1. Gyógyító-megelőző ellátás jogcímcsoport, 18. Összevont szakellátás jogcím tekintetében a kifizetett támogatások közül:
 
@@ -90,4 +92,4 @@
 
 – várólista csökkentés és egyéb szakmapolitikai célok fedezete.
 
-[^282]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 39. §-a, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 2. pontja szerint módosított szöveg.
+[^286]: A 4. melléklet a 497/2013. (XII. 29.) Korm. rendelet 111. § (2) bekezdés 2. pontjával megállapított, a 175/2015. (VII. 7.) Korm. rendelet 39. §-a, a 402/2015. (XII. 15.) Korm. rendelet 21. § (1) bekezdés 2. pontja, a 351/2016. (XI. 18.) Korm. rendelet 10. § (1) bekezdés 1. pontja és 11. § 14. pontja szerint módosított szöveg.

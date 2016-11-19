@@ -1,3 +1,3 @@
-## 57. §[^273]
+## 57. §[^277]
 
-[^273]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^277]: Az 57. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -506,7 +506,7 @@
 
 ## Források összesen
 
-6. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^284]
+6. melléklet a 4/2013. (I. 11.) Korm. rendelethez[^288]
 
 ## EREDMÉNYKIMUTATÁS/KONSZOLIDÁLT EREDMÉNYKIMUTATÁS
 
@@ -594,4 +594,4 @@ VIII. Pénzügyi műveletek eredményszemléletű bevételei (17+18+19+20+21)
 
 IX. Pénzügyi műveletek ráfordításai (22+23+24+25+26)
 
-[^284]: A 6. melléklet a 402/2015. (XII. 15.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^288]: A 6. melléklet a 402/2015. (XII. 15.) Korm. rendelet 21. § (2) bekezdésével megállapított szöveg.

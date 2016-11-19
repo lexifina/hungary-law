@@ -1,8 +1,8 @@
-## 28. §[^145]
+## 28. §[^148]
 
-## 13. A költségekről és megtérült költségekről szóló kimutatás, kiegészítő melléklet
+## 13. [^149] A kiegészítő melléklet
 
-29. § (1) A költségekről és megtérült költségekről szóló kimutatás a 7. melléklet szerint formátumban, szakfeladatok szerinti bontásban tartalmazza a felmerült költségek, az eszközök és szolgáltatások értékesítése nettó eredményszemléletű bevételei, az egyéb működési célú támogatások eredményszemléletű bevételei és a felhalmozási célú támogatások eredményszemléletű bevételei bemutatását.
+29. § (1)[^150]
 
 (2) A kiegészítő melléklet tartalmazza
 
@@ -14,4 +14,6 @@ c) a kiegészítő tájékoztató adatokat.
 
 (3) A (2) bekezdés szerinti adatokat a 8–10. mellékletek szerint kell bemutatni.
 
-[^145]: A 28. §-t a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 2. pontja hatályon kívül helyezte.
+[^148]: A 28. §-t a 402/2015. (XII. 15.) Korm. rendelet 23. § (2) bekezdés 2. pontja hatályon kívül helyezte.
+[^149]: A 13. alcím címe a 351/2016. (XI. 18.) Korm. rendelet 12. § (2) bekezdés 1. pontja szerint módosított szöveg.
+[^150]: A 29. § (1) bekezdését a 351/2016. (XI. 18.) Korm. rendelet 12. § (1) bekezdés 3. pontja hatályon kívül helyezte.
