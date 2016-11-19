@@ -1,4 +1,4 @@
-1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^151]
+1/a. melléklet a 345/2012. (XII. 6.) Korm. rendelethez[^154]
 
 ## A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházások listája
 
@@ -128,23 +128,23 @@
 
 1.62. Sopron északnyugati elkerülő megvalósítása.
 
-1.63.[^152] Nyíregyháza–Tokaj közötti hiányzó kerékpárútszakaszok megvalósítása.
+1.63.[^155] Nyíregyháza–Tokaj közötti hiányzó kerékpárútszakaszok megvalósítása.
 
-1.64.[^153] Balatoni Bringakör komplex fejlesztése.
+1.64.[^156] Balatoni Bringakör komplex fejlesztése.
 
-1.65.[^154] EuroVelo 6 útvonal komplex fejlesztése (Rajka–Dömös, Budapest–Szentendre, Budapest–Dunakeszi, Budapest–Érd–Százhalombatta szakaszok).
+1.65.[^157] EuroVelo 6 útvonal komplex fejlesztése (Rajka–Dömös, Budapest–Szentendre, Budapest–Dunakeszi, Budapest–Érd–Százhalombatta szakaszok).
 
-1.66.[^155] Keszthely–Sármellék kerékpáros útvonal kiépítése.
+1.66.[^158] Keszthely–Sármellék kerékpáros útvonal kiépítése.
 
-1.67.[^156] Budapest–Balaton kerékpáros útvonal kiépítése (Budapest–Etyek–Velence–Székesfehérvár–Balatonakarattya).
+1.67.[^159] Budapest–Balaton kerékpáros útvonal kiépítése (Budapest–Etyek–Velence–Székesfehérvár–Balatonakarattya).
 
-1.68.[^157] Tiszafüred–Poroszló kerékpáros útvonal fejlesztése.
+1.68.[^160] Tiszafüred–Poroszló kerékpáros útvonal fejlesztése.
 
-1.69.[^158] Tarcal–Tokaj–Bodrogkeresztúr kerékpáros útvonal fejlesztése.
+1.69.[^161] Tarcal–Tokaj–Bodrogkeresztúr kerékpáros útvonal fejlesztése.
 
-1.70.[^159] Tépe–Berettyóújfalu kerékpáros útvonal kiépítése.
+1.70.[^162] Tépe–Berettyóújfalu kerékpáros útvonal kiépítése.
 
-1.71.[^160] Tokaj–Tiszabecs kerékpáros útvonal fejlesztése.
+1.71.[^163] Tokaj–Tiszabecs kerékpáros útvonal fejlesztése.
 
 2. Vasúti közlekedési projektek
 
@@ -304,13 +304,13 @@
 
 4.5. Vízi úti információs rendszer kiépítése.
 
-[^151]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be.
-[^152]: Az 1/a. melléklet 1. pont 1.63. alpontját a 76/2016. (IV. 5.) Korm. rendelet 2. §-a iktatta be.
-[^153]: Az 1/A. melléklet 1. pont 1.64. pontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^154]: Az 1/A. melléklet 1. pont 1.65. pontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^155]: Az 1/A. melléklet 1. pont 1.66. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^156]: Az 1/A. melléklet 1. pont 1.67. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^157]: Az 1/A. melléklet 1. pont 1.68. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^158]: Az 1/A. melléklet 1. pont 1.69. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^159]: Az 1/A. melléklet 1. pont 1.70. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^160]: Az 1/A. melléklet 1. pont 1.71. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^154]: Az 1/a. mellékletet a 226/2015. (VIII. 7.) Korm. rendelet 3. §-a iktatta be.
+[^155]: Az 1/a. melléklet 1. pont 1.63. alpontját a 76/2016. (IV. 5.) Korm. rendelet 2. §-a iktatta be.
+[^156]: Az 1/A. melléklet 1. pont 1.64. pontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^157]: Az 1/A. melléklet 1. pont 1.65. pontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^158]: Az 1/A. melléklet 1. pont 1.66. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^159]: Az 1/A. melléklet 1. pont 1.67. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^160]: Az 1/A. melléklet 1. pont 1.68. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^161]: Az 1/A. melléklet 1. pont 1.69. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^162]: Az 1/A. melléklet 1. pont 1.70. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^163]: Az 1/A. melléklet 1. pont 1.71. alpontját a 231/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
