@@ -1,5 +1,3 @@
-## 5. § E rendelet rendelkezéseit a hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
-
 1. melléklet a 249/2016. (VIII. 22.) Korm. rendelethez
 
 ## Az 1. §-ban foglalt beruházással összefüggő kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek:
