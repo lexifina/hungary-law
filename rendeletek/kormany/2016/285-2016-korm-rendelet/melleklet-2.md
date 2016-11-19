@@ -54,6 +54,8 @@
 
 | 26. | KEHOP-1.4.0-15- 2015-00005 | Árvízvédelmi védvonalak mértékadó árvízszintre történő kiépítése, védvonalak terhelésének csökkentése Felső-Tisza, Tivadari híd térsége | 1. Az árvízvédelmi töltésfejlesztések helyszínei: a) Tisza bal parti 130+681–122+900 töltéskilométer-szelvény között a töltés, b) Tisza jobb parti 52+000–54+292 töltéskilométer-szelvény között a töltés. 2. A folyószabályozási művek rekonstrukciós munkái, partbiztosítás a) tivadari partbiztosítás (705,8–707 folyókilométer), b) kisari partbiztosítás (705 folyókilométer környezete), c) tivadari híd alatti part (703,8–704,85 folyókilométer), d) kisari középső part (702,4–703,8 folyókilométer). 3. Gátőrtelepek rekonstrukciós helyszínei és új raktár kialakítások helyszínei a) Tivadar, b) Kisar. | Kisar, Tivadar, Nagyar, Gulács, Tarpa |
 
+| 27. | KEHOP-1.4.1. | Duna-menti árvízvédelmi beruházások Visegrádon | A beruházás keretében: 1. Visegrád városközponti területén mobilfalas védműszakasz kiépítése, 2. Apátkúti-patak medrében támfalas, illetve mobilfalas védmű kiépítése, 3. a meglévő árvízvédelmi töltés földművének fejlesztése (a 11. számú főút Esztergom felőli szakaszának 200 m-es hosszúságú bevédésével), 4. a 11. sz. főút Apátkúti-patakon átvezető hídjának felújítása, 5. mobilgát elemek tárolására szolgáló tárolóépület megépítése, valósul meg. | Visegrád |
+
 2. melléklet a 285/2016. (IX. 21.) Korm. rendelethez
 
 ## A beruházásokkal összefüggő, nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
