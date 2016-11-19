@@ -1,4 +1,4 @@
-## 6. § Hatályát veszti a „GSV” Kereskedelmi Korlátolt Felelősségű Társaság által Szerencs város közigazgatási területén megvalósuló üveggyapot gyártó üzem beruházásával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 276/2013. (VII. 16.) Korm. rendelet.
+## 6. §[^1]
 
 1. melléklet a 349/2016. (XI. 17.) Korm. rendelethez
 
@@ -49,3 +49,5 @@
 22. azok az 1–21. pontban nem szereplő hatósági engedélyezési eljárások, amelyek az 1. § (1) bekezdése szerinti beruházás megvalósításához, használatbavételéhez és üzemeltetésének beindításához szükségesek,
 
 23. az 1–22. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
