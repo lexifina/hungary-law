@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-96-00-00
 | --- | --- | --- |
 | 2016-10-05 | 2016. évi XCVI. törvény | 2016-96-00-00.0 (közlönyállapot) |
 | 2016-10-05 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-96-00-00.1 |
+| 2016-11-19 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-96-00-00.2 |
