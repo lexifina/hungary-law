@@ -1,5 +1,0 @@
-## 1. § A Közigazgatási és Igazságügyi Hivatal megszüntetéséről, valamint egyes kapcsolódó kormányrendeletek módosításáról szóló 251/2016. (VIII. 24.) Korm. rendelet a következő 4. §-sal egészül ki:
-
-## „4. § (1) A Miniszterelnökséghez az 1. § alapján átkerült, a Magyarországi Cigányokért Közalapítvánnyal kapcsolatos feladatokat 2016. december 1-jétől az Emberi Erőforrás Támogatáskezelő látja el. A Magyarországi Cigányokért Közalapítvánnyal kapcsolatos feladatok – ideértve a Magyarországi Cigányokért Közalapítvány megszűnésekor fennálló kötelezettségeiért való helytállást, valamint jogainak érvényesítését is – tekintetében a Miniszterelnökség jogutódja az Emberi Erőforrás Támogatáskezelő.
-
-## (2) A Miniszterelnökséghez az 1. § alapján átkerült, a 4. mellékletben meghatározott projektek támogatásával kapcsolatos feladatokat 2016. december 1-jétől az Igazságügyi Hivatal látja el. A 4. mellékletben meghatározott projektekkel kapcsolatos feladatok tekintetében a Miniszterelnökség jogutódja az Igazságügyi Hivatal.”
