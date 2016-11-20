@@ -124,6 +124,8 @@
 
 ## 4. A bekötővezeték, a fogyasztásmérő, illetve a mérőhely kialakításának, a mellékvízmérő üzembe helyezésének, valamint bélyegzéssel és zárral való ellátásának részletes szabályai.
 
+## 4a.[^306] A bekötési vízmérő hitelesítési hatályán belüli cseréjére vonatkozó szabályok.
+
 ## 5. Víziközmű-szolgáltatás szüneteltetése iránti kérelem részletes szabályai.
 
 ## 6. A vízközmű-szolgáltató által a felhasználói körben (mellékszolgáltatást is ide értve) alkalmazott szerződésminták.
@@ -132,6 +134,7 @@
 
 ## 8. E rendeletben meghatározott más követelmények.
 
-8. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^236]
+8. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^307]
 
-[^236]: A 8. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § a) pontja iktatta be.
+[^306]: A 7. melléklet 3. pont 4a. alpontját a 342/2016. (XI. 17.) Korm. rendelet 38. §-a iktatta be.
+[^307]: A 8. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § a) pontja iktatta be.

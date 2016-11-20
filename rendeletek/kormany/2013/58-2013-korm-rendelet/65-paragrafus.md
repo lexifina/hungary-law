@@ -1,6 +1,6 @@
 ## 23. Elszámolás, számlázás és díjfizetés
 
-65. §[^127] (1) A víziközmű-szolgáltató a szolgáltatási díjról felhasználási helyenként a leolvasott fogyasztási adatok szerint legalább évente egy alkalommal elszámoló számlát bocsát ki.
+65. §[^183] (1) A víziközmű-szolgáltató a szolgáltatási díjról felhasználási helyenként a leolvasott fogyasztási adatok szerint legalább évente egy alkalommal elszámoló számlát bocsát ki.
 
 (2) A víziközmű-szolgáltató az évi egy elszámoló számla mellett évi legalább 3, de legfeljebb 11 részszámlát bocsát ki.
 
@@ -14,7 +14,7 @@
 
 (7) A számlát a felhasználó a víziközmű-szolgáltatóval kötött szerződésben és az üzletszabályzatban meghatározott feltételekkel köteles kiegyenlíteni.
 
-(8) Ha a felhasználó a szolgáltatási díjat nem fizeti meg, a mulasztásnak a Vksztv. 58. §-ában meghatározott következményeire a víziközmű-szolgáltató a felhasználó figyelmét írásban felhívja. A felhívás felhasználó részére történő kézbesítése és a Vksztv. 58. §-ában meghatározott intézkedés alkalmazása között legalább 8 napnak el kell telnie.
+(8)[^184] Ha a felhasználó a szolgáltatási díjat nem fizeti meg, a víziközmű-szolgáltató – a Vksztv. 58. §-ban meghatározott következményekre való figyelemfelhívás mellett – legalább kétszer írásban felszólítja a felhasználót fizetési kötelezettsége teljesítésére. A felszólításnak tartalmaznia kell a felhasználó azonosító számát, a felhasználó nevét, a felhasználó címét, a felhasználási hely címét, az elszámolás alapjául szolgáló fogyasztásmérő gyári számát, a szerződésszámot, a bizonylatszámot, az esedékességet, lejárt idejű tartozás összegét, valamint annak eredeti fizetési határidejét. A fizetésre történő második felszólítás felhasználó részére történő kézbesítése és a Vksztv. 58. §-ban meghatározott intézkedés alkalmazása között legalább 15 napnak el kell telnie. Az értesítésben a víziközmű-szolgáltató köteles meghatározni azt az 5 munkanapot, amely időszakon belül a közüzemi ivóvíz-szolgáltatás felfüggesztését vagy korlátozását végre kívánja hajtani.
 
 (9) Ha az árváltozás, a víziközmű-szolgáltató személyében bekövetkező változás, a közérdekű üzemeltető kijelölése, illetve az ideiglenes szolgáltatás kezdő időpontjában a fogyasztásmérő leolvasására nem kerül sor, a szolgáltatásért fizetendő díjat a víziközmű-szolgáltató kezdeményezésére történt felhasználói adatközlés, ennek hiányában a felhasználás időarányos megosztásával kell megállapítani és számlázni.
 
@@ -26,4 +26,5 @@
 
 (13) Bekötési vízmérővel nem rendelkező felhasználási helyen az átalánydíjas elszámolásra irányadó ivóvíz mennyiséget a 8. melléklet tartalmazza. A víziközmű-szolgáltató indokolni köteles, ha az ott meghatározott mennyiségeknél többet tekint az elszámolás alapjának. Lakossági felhasználó kizárólagos használatában álló nyaralók, üdülők, esetében az 8. mellékletben található táblázat 1–2. sorában megállapított átalánymennyiségek alapján évente legalább 5 hónap időtartamra (május-szeptember hónapokra) kell a víziközmű-szolgáltatás díját felszámítani.
 
-[^127]: A 65. § a 367/2015. (XII. 2.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^183]: A 65. § a 367/2015. (XII. 2.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^184]: A 65. § (8) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 25. §-ával megállapított szöveg.

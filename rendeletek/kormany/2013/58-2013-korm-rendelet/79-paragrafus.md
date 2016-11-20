@@ -1,12 +1,12 @@
-## 78. §[^164]
+## 78. §[^226]
 
-79. § (1)[^165] A felhasználási hely közműves ivóvízellátása érdekében a házi, illetve csatlakozó ivóvízhálózat vonatkozásában szükséges vízelosztó, nyomásfokozó, nyomáscsökkentő vagy megszakító berendezés létesítéséhez a víziközmű-szolgáltató hozzájárulása szükséges.
+79. § (1)[^227] A felhasználási hely közműves ivóvízellátása érdekében a házi, illetve csatlakozó ivóvízhálózat vonatkozásában szükséges vízelosztó, nyomásfokozó, nyomáscsökkentő vagy megszakító berendezés létesítéséhez a víziközmű-szolgáltató hozzájárulása szükséges.
 
-(2)–(3)[^166]
+(2)–(3)[^228]
 
-(4)[^167] Az ivóvíz közműhálózatba bekapcsolt házi ivóvízhálózatot saját célú vízellátó létesítménnyel összekötni tilos.
+(4)[^229] Az ivóvíz közműhálózatba bekapcsolt házi ivóvízhálózatot saját célú vízellátó létesítménnyel összekötni tilos.
 
-[^164]: A 78. §-t a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 15. pontja hatályon kívül helyezte.
-[^165]: A 79. § (1) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 25. §-ával megállapított, a 367/2015. (XII. 2.) Korm. rendelet 27. § 29. pontja szerint módosított szöveg.
-[^166]: A 79. § (2)–(3) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 16. pontja hatályon kívül helyezte.
-[^167]: A 79. § (4) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 30. pontja szerint módosított szöveg.
+[^226]: A 78. §-t a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 15. pontja hatályon kívül helyezte.
+[^227]: A 79. § (1) bekezdése a 292/2014. (XI. 26.) Korm. rendelet 25. §-ával megállapított, a 367/2015. (XII. 2.) Korm. rendelet 27. § 29. pontja szerint módosított szöveg.
+[^228]: A 79. § (2)–(3) bekezdését a 292/2014. (XI. 26.) Korm. rendelet 38. § (1) bekezdés 16. pontja hatályon kívül helyezte.
+[^229]: A 79. § (4) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 30. pontja szerint módosított szöveg.

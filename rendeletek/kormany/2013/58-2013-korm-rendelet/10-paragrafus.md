@@ -6,4 +6,6 @@ b) a 4. § (3) bekezdésében meghatározott kizáró okok tekintetében minős�
 
 c) az a)–b) pontok alapján összefoglaló értékelést készít.
 
-(2) Az Értékelő Bizottság a pályázati eljárás során folyamatosan jogosult ellenőrizni az e rendeletben és a kiírási dokumentációban előírtak betartását.
+(2)[^49] Az Értékelő Bizottság a pályázati eljárás során folyamatosan jogosult ellenőrizni az e rendeletben és a pályázati kiírási dokumentációban előírtak betartását.
+
+[^49]: A 10. § (2) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 39. § 1. pontja szerint módosított szöveg.

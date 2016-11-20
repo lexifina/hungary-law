@@ -1,4 +1,4 @@
-## 8. § Az ellátásért felelős a pályázati kiírási dokumentációban meghatározott módon, helyen és időben konzultációt tart. A konzultációt legkésőbb a benyújtási határidő lejártát megelőző 15. napon kell megtartani. A konzultáción azok a víziközmű-szolgáltatók vehetnek részt, amelyek a pályázati kiírási dokumentációt a hirdetményben meghatározott módon beszerezték.
+## 8. §[^46] Az ellátásért felelős a pályázati kiírási dokumentációban meghatározott módon, helyen és időben konzultációt tart. A konzultációt legkésőbb a benyújtási határidő lejártát megelőző 15. napon kell megtartani. A konzultáción azok a pályázók vehetnek részt, amelyek a pályázati kiírási dokumentációt a hirdetményben meghatározott módon beszerezték.
 
 ## 5. A pályázat értékelése
 
@@ -14,7 +14,7 @@ a) aki a pályázat kidolgozásában részt vett,
 
 b) aki a pályázóval munkaviszonyban vagy munkavégzésre irányuló egyéb jogviszonyban áll,
 
-c) aki a pályázó tisztségviselője, alkalmazottja vagy felügyelő bizottságának tagja,
+c)[^47] aki a pályázó tisztségviselője, alkalmazottja, könyvvizsgálója vagy felügyelő, bizottságának tagja,
 
 d) aki a pályázó tagja, vagy aki abban közvetlen vagy közvetett tulajdoni részesedéssel rendelkezik,
 
@@ -24,8 +24,12 @@ f) az a)–e) pont szerinti személynek a Polgári Törvénykönyv szerinti köz
 
 g) akiről bejelentésre vagy hivatalból az Értékelő Bizottság elnöke megállapítja, hogy a pártatlan és objektív közreműködése nem biztosítható.
 
-(5) A pályázati döntés előkészítésében és meghozatalában döntés-előkészítő bizottsági tagként nem vehet részt politikai párt tisztségviselője, tagja, alkalmazottja, helyi önkormányzati képviselő, vagy országgyűlési képviselő.
+(5)[^48] A pályázati döntés előkészítésében és meghozatalában döntés-előkészítő bizottsági tagként nem vehet részt politikai párt tisztségviselője, tagja, alkalmazottja, vagy országgyűlési képviselő.
 
 (6) A pályázati döntés előkészítésében és meghozatalában részt vevő személy vagy szervezet képviseletére jogosult személy a döntés-előkészítési vagy döntéshozatali eljárás megkezdésekor teljes bizonyító erejű magánokiratban nyilatkozatot tesz arról, hogy a (4) és (5) bekezdések szerinti összeférhetetlenség vele szemben nem áll fenn, a támogatásra vonatkozó döntés előkészítése és meghozatala során tudomására jutott állam-, szolgálati, üzleti vagy pénzügyi titkot megőrzi. A nyilatkozatot az Értékelő Bizottság elnökének át kell adni.
 
 (7) Ha az összeférhetetlenségre okot adó körülmény a döntés-előkészítési vagy döntéshozatali eljárás során alakul ki, az érintett személy az összeférhetetlenségi okot haladéktalanul köteles bejelenti az Értékelő Bizottság elnökének.
+
+[^46]: A 8. § a 342/2016. (XI. 17.) Korm. rendelet 39. § 4. pontja szerint módosított szöveg.
+[^47]: A 9. § (4) bekezdés c) pontja a 342/2016. (XI. 17.) Korm. rendelet 39. § 5. pontja szerint módosított szöveg.
+[^48]: A 9. § (5) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 39. § 6. pontja szerint módosított szöveg.

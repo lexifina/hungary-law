@@ -1,3 +1,5 @@
-## 21. §[^51] Amennyiben az engedélyt a Hivatal módosítja, a módosításról szóló döntés a víziközmű-szolgáltató külön kérelmére egységes szerkezetben – a változatlan fennállásra történő utalással – tartalmazza a 20. § (1) és (3) bekezdés szerinti, módosítással nem érintett tartalmi elemeket is.
+## 21. § Ha a víziközmű-szolgáltatói engedélyt a Hivatal módosítja, a módosításról szóló döntés a víziközmű-szolgáltató külön kérelmére egységes szerkezetben – a változatlan tartalom megjelölésével – tartalmazza a 20. § szerinti elemeket is.
 
-[^51]: A 21. § a 292/2014. (XI. 26.) Korm. rendelet 37. § 14. pontja szerint módosított szöveg.
+22. § (1) A Hivatal a víziközmű-szolgáltatói engedélyt határozott időre is kiadhatja.
+
+(2) A Hivatal a víziközmű-szolgáltatói engedélyt legalább a Vksztv. 5/A. § (3) bekezdése szerinti átfogó ellenőrzés során felülvizsgálja.

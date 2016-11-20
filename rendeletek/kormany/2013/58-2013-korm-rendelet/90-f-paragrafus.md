@@ -1,18 +1,12 @@
-## 37. [^217] A Terv jóváhagyása és ellenőrzése
+## 37. [^282] A Terv jóváhagyása és ellenőrzése
 
-90/F. § (1)[^218] A Hivatal a Terv jóváhagyását:
+90/F. §[^283] (1) A Hivatal megtagadja a felújítási, pótlási, illetve beruházási tervrész
 
-a) az I. ütem vonatkozásában megtagadja, ha a bemutatott pénzügyi források alapján az I. ütem végrehajtása nem biztosított, vagy
+a) jóváhagyását az I. ütem vonatkozásában, ha a bemutatott pénzügyi források alapján az I. ütem végrehajtása nem biztosított, vagy
 
-b) megtagadja, ha a tervezett beruházás megvalósítása jogszabályokkal ellentétes.
+b) bármely ütemét, ha annak megvalósítása jogszabályokkal ellentétes.
 
-(2) A Hivatal a Terv jóváhagyását megtagadhatja, ha
+(2) A Hivatal megtagadhatja a felújítási, pótlási, illetve a beruházási tervrész bármely ütemének a jóváhagyását, ha a pénzügyi források bemutatása hiányos.
 
-a) a benyújtott Terv nem felel meg a 90/D. § szerinti tartalmi követelményeknek;
-
-b) a pénzügyi források bemutatása hiányos;
-
-c) a bemutatott felújítások és pótlások tervezett költsége és a szolgáltatási díjban ezen feladatok ellátása érdekében érvényesített díjhányadból számított forrás nagysága nincs összhangban.
-
-[^217]: A 37. alcím címe a 367/2015. (XII. 2.) Korm. rendelet 27. § 41. pontja szerint módosított szöveg.
-[^218]: A 90/F. § (1) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^282]: A 37. alcím címe a 367/2015. (XII. 2.) Korm. rendelet 27. § 41. pontja szerint módosított szöveg.
+[^283]: A 90/F. § a 342/2016. (XI. 17.) Korm. rendelet 35. §-ával megállapított szöveg.

@@ -1,9 +1,11 @@
-## 29. §[^57] A Hivatal legalább háromévente elvégzi a víziközmű-szolgáltatók Vksztv.-ben és a felhatalmazása alapján kiadott rendeletekben foglalt előírásoknak való teljes körű vizsgálatát (átfogó ellenőrzés).
+## 29. § A Hivatal a működési engedéllyel együtt az üzemeltetési szerződés másolatának jóváhagyott példányát megküldi a víziközmű-szolgáltató és az ellátásért felelős vagy azok képviselője részére.
 
 ## 11. Engedélyezési feltételek
 
-30. § (1) A kérelmező közgazdasági viszonyai tekintetében a Hivatal a 4. melléklet szerinti módszertan alapján megvizsgálja a kérelmező tőkeerejét, eladósodottságát, pénzügyi kockázatokat jelentő kötelezettségvállalásait, likviditását.
+30. §[^85] (1) A víziközmű-szolgáltatói engedéllyel kapcsolatos eljárásban a Hivatal a 4. melléklet szerinti módszertan alapján megvizsgálja a kérelmező tőkeerejét, eladósodottságát, pénzügyi kockázatokat jelentő kötelezettségvállalásait, likviditását.
 
-(2) Az (1) bekezdés szerinti módszertan tartalmazza a Hivatal által vizsgált mutatókat, azokra nézve azt az értékhatárt, amelyen túl működési engedély nem kerülhet kiadásra, továbbá azt az értékhatárt, amely esetében a működési engedély csak feltétel tűzésével adható ki.
+(2) Az (1) bekezdés szerinti módszertan tartalmazza a Hivatal által vizsgált mutatókat, azokra nézve azt az értékhatárt, amelyen túl víziközmű-szolgáltatói engedély nem kerülhet kiadásra.
 
-[^57]: A 29. §-a a 292/2014. (XI. 26.) Korm. rendelet 4. §-ával megállapított szöveg.
+(3) A 31. §-ban meghatározott engedélyezési feltételeket a működési engedélyezési eljárásban is vizsgálhatja a Hivatal.
+
+[^85]: A 30. § a 342/2016. (XI. 17.) Korm. rendelet 10. §-ával megállapított szöveg.

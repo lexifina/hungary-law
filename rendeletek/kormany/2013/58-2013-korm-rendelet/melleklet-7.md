@@ -1,3 +1,3 @@
-7. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^235]
+7. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^305]
 
-[^235]: A 7. melléklet a 367/2015. (XII. 2.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^305]: A 7. melléklet a 367/2015. (XII. 2.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.

@@ -1,5 +1,7 @@
-46. § (1)[^65] Amennyiben víziközmű-szolgáltató megköti a kiszervezésre irányuló szerződést, az elfogadó jognyilatkozat Polgári Törvénykönyv 6:69. § (1) bekezdése szerinti hatályossá válását követő 15 napon belül köteles annak egy példányát a Hivatal részére tájékoztatásul megküldeni.
+46. §[^108] (1) Ha a víziközmű-szolgáltató az ellátási területének kiterjesztése során az érintett felhasználók többsége tekintetében a víziközmű-üzemeltetés 49. § (1) bekezdés 1–2. pontja szerinti tevékenységei közül az egyiket, vagy a 49. § (1) bekezdés 3–8. pontja szerinti tevékenységek közül kettőnél többet kiszervezés útján kívánja megoldani, a Hivatal az adott víziközmű-szolgáltatási ágazatra vonatkozó működési engedély kiadását megtagadja.
 
-(2) A kiszervezés megvalósulása esetén a Hivatal a szolgáltatási díjra vonatkozó javaslatában a 44. § (3) bekezdés b) pontja szerint elismert összeget figyelembe veszi.
+(2) Ha a víziközmű-szolgáltató az (1) bekezdésben meghatározott tevékenységeket kiszervezési engedély nélkül vagy attól eltérően szervezi ki, a Hivatal a víziközmű-szolgáltató működési engedélyét – az egyéb jogkövetkezmények alkalmazása mellett – az adott ellátási terület vonatkozásában visszavonhatja.
 
-[^65]: A 46. § (1) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 27. § 8. pontja szerint módosított szöveg.
+(3) Az (1) bekezdés tekintetében a felhasználók számosságát a Vksztv. 1. melléklete szerinti képlet alapján kiszámított felhasználói egyenérték szerint kell figyelembe venni.
+
+[^108]: A 46. § a 342/2016. (XI. 17.) Korm. rendelet 16. §-ával megállapított szöveg.

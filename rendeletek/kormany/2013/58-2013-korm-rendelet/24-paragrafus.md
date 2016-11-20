@@ -1,5 +1,7 @@
-24. § (1) Amennyiben az engedély módosítására irányuló eljárás az engedélyes kérelmére indult, a Hivatal jogosult az engedélykérelemben nem érintett részeinek felülvizsgálatára és módosítására is.
+## 10/A. [^84] Az engedélyezési eljárás
 
-(2)[^53]
+24. § (1) A víziközmű-szolgáltatói, illetve a működési engedély kiadása, valamint módosítása iránti eljárás kérelemre indul. A víziközmű-szolgáltatói engedély kiadása iránti eljárás magában foglalja a kérelmező üzletszabályzata, valamint beszerzési szabályzata jóváhagyását.
 
-[^53]: A 24. § (2) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 28. § (1) bekezdés 1. pontja hatályon kívül helyezte.
+(2) A Hivatal előtti eljárásban a víziközmű-szolgáltatói és működési engedély iránti kérelem módosításának nincs helye.
+
+[^84]: A 10/A. alcím (24–29. §) a 342/2016. (XI. 17.) Korm. rendelet 9. §-ával megállapított szöveg.

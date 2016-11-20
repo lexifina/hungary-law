@@ -1,12 +1,12 @@
 ## A víziközmű-szolgáltatókra vonatkozó engedélyezési feltételek közgazdasági viszonyainak meghatározása
 
-## A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) fogalmainak felhasználásával az alábbi gazdasági mutatókat és értékhatárokat, kell figyelembe venni a víziközmű-szolgáltatás végzéséhez előírt működési engedély kiadásához.
+## A számvitelről szóló 2000. évi C. törvény (a továbbiakban: Sztv.) fogalmainak felhasználásával az alábbi gazdasági mutatókat és értékhatárokat kell figyelembe venni a víziközmű-szolgáltatás végzéséhez előírt víziközmű-szolgáltatói és működési engedély (a továbbiakban: engedély) kiadásához.
 
-## A meghatározott mutatókat a víziközmű-szolgáltatóknak a működési engedélykérelem benyújtását megelőző lezárt üzleti évről szóló, könyvvizsgáló által hitelesített, Sztv. által előírt beszámoló alapján kell igazolniuk.
+## A meghatározott mutatókat a víziközmű-szolgáltatóknak az engedélykérelem benyújtását megelőző lezárt üzleti évről szóló, könyvvizsgáló által hitelesített, Sztv. által előírt beszámoló alapján kell igazolniuk.
 
 ## Gazdasági mutatók
 
-## A víziközmű-szolgáltatói működési engedély kiadása során vizsgált mutatók:
+## Az engedély kiadása során vizsgált mutatók:
 
 ## 1. tőkeerősségi,
 
@@ -14,46 +14,62 @@
 
 ## 3. likviditási.
 
-## 1. Tőkeerősségi mutató
+## Tőkeerősségi mutató
 
-## 1.1. A tőkeerősségi mutató számítása a következő képlet szerint kerül meghatározásra:
+## A tőkeerősségi mutató számítása a következő képlet szerint kerül meghatározásra:
 
 | tőkeerősség = | saját tőke |
 
-| mérlegfőösszeg – víziközmű üzemeltetési jogviszonnyal összefüggő díjak |
+| mérlegfőösszeg – VKÜKöt – PTÁMpasszív – VKFpénzeszköz–MAKHasználati díj |
 
-## A mérlegfőösszeg tartalmazza a passzív időbeli elhatárolások és a céltartalékok összegét. A víziközmű üzemeltetési jogviszonnyal összefüggő díjfizetési kötelezettség alatt kizárólag a vagyonkezelési díj, a koncessziós díj, valamint a bérleti díj értendő.
+## VKÜKöt = A Vksztv. 15. § (2) bekezdésében meghatározott víziközmű-üzemeltetési jogviszonnyal összefüggő kötelezettség, a mérleg forrásoldalán a hosszú lejáratú kötelezettségek között szerepeltetett összegben.
 
-## 1.2. Az engedély kiadásának feltételeként elvárt határérték: 0,3, amely értéket elérve és afelett a Hivatal engedélyt adhat. A Hivatal 0,1 és 0,3 között feltételes engedélyt adhat, amennyiben a kérelmező nyilatkozik, hogy az engedély jogerőre emelkedését követő legkésőbb második lezárt üzleti évének könyvvizsgáló által hitelesített beszámolója alapján az elvárt határértéket eléri. A 0,1 értéket el nem érő mutatóval rendelkező kérelmező részére engedélyt a Hivatal nem ad.
+## PTÁMpasszív = kapott pályázati támogatások passzív időbeli elhatárolásokban található fel nem oldott része.
 
-## 2. Eladósodottsági mutató
+## VKFpénzeszköz = közműfejlesztési célra kapott pénzeszközök halasztott bevételként elszámolt passzív időbeli elhatárolásban található része.
 
-## 2.1. Az eladósodottsági mutató számítása a következő képlet szerint kerül meghatározásra:
+## MAKHasználati díj = a Vksztv. 18. § (2) bekezdése szerinti, az ellátásért felelőssel kötött megállapodás alapján kezelt használati díj miatt kimutatott kötelezettség vagy egyéb passzíva, a mérleg forrásoldalán szerepeltetett összegben.
 
-| eladósodottság = | összes kötelezettség - víziközmű üzemeltetési jogviszonnyal összefüggő díjfizetési kötelezettség |
+## Az engedély kiadásának feltételeként elvárt határérték: 0,3, amely értéket elérve és afelett a Hivatal engedélyt adhat.
 
-| mérlegfőösszeg – víziközmű üzemeltetési jogviszonnyal összefüggő díjfizetési kötelezettség |
+## A 0,1 értéket el nem érő mutatóval rendelkező Kérelmező részére engedélyt a Hivatal nem ad.
 
-## 2.2. Az eladósodottsági mutató az összes kötelezettség (rövid és hosszú lejáratú kötelezettségek) és a mérlegfőösszeg (beleértve a passzív időbeli elhatárolások és a céltartalékok összegét) hányadosaként kerül meghatározásra.
+## Eladósodottsági mutató
 
-## 2.3. Az engedély kiadásának feltételeként elvárt határérték: 0,65, amely értéket elérve és azalatt a Hivatal engedélyt adhat. A Hivatal 0,65 és 0,75 között feltételes engedélyt adhat, amennyiben a kérelmező nyilatkozik, hogy az engedély jogerőre emelkedését követő legkésőbb második lezárt üzleti évének könyvvizsgáló által hitelesített beszámolója alapján az elvárt határértéket eléri. A 0,75 érték feletti mutatóval rendelkező kérelmező részére engedélyt a Hivatal nem ad.
+## Az eladósodottsági mutató számítása a következő képlet szerint kerül meghatározásra:
 
-## 3. Likviditási mutató
+| eladósodottság = | összes kötelezettség – VKÜKöt – MAKHasználati díj2 |
 
-## 3.1. Az likviditási mutató számítása a következő képlet szerint kerül meghatározásra:
+| mérlegfőösszeg – VKÜKöt – PTÁMpasszív–VKFpénzeszköz – MAKHasználati díj1 |
+
+## VKÜKöt = A Vksztv. 15. § (2) bekezdésében meghatározott víziközmű-üzemeltetési jogviszonnyal összefüggő kötelezettség, a mérleg forrásoldalán a hosszú lejáratú kötelezettségek között szerepeltetett összegben.
+
+## PTÁMpasszív = kapott pályázati támogatások passzív időbeli elhatárolásokban található fel nem oldott része.
+
+## VKFpénzeszköz = közműfejlesztési célra kapott pénzeszközök halasztott bevételként elszámolt passzív időbeli elhatárolásban található része.
+
+## MAKHasználati díj1 = a Vksztv. 18. § (2) bekezdése szerinti, az ellátásért felelőssel kötött megállapodás alapján kezelt használati díj miatt kimutatott kötelezettség vagy egyéb passzíva, a mérleg forrásoldalán szerepeltetett összegben.
+
+## MAKHasználati díj2 = a Vksztv. 18. § (2) bekezdése szerinti, az ellátásért felelőssel kötött megállapodás alapján kezelt használati díj miatt kimutatott kötelezettség, a mérleg forrásoldalán szerepeltetett összegben.
+
+## Az engedély kiadásának feltételeként elvárt határérték: 0,65, amely értéket elérve és azalatt a Hivatal engedélyt adhat.
+
+## A 0,75 érték feletti mutatóval rendelkező Kérelmező részére engedélyt a Hivatal nem ad.
+
+## Likviditási mutató
+
+## Az likviditási mutató számítása a következő képlet szerint kerül meghatározásra:
 
 | likviditás = | pénzeszközök és likvid értékpapírok + követelések |
 
 | rövid lejáratú kötelezettségek |
 
-## 3.2. A likviditási mutató a pénzeszközök és likvid értékpapírok+követelések és a rövid lejáratú kötelezettségek hányadosaként kerül meghatározásra.
+## A likviditási mutató a (pénzeszközök és likvid értékpapírok+követelések)/rövid lejáratú kötelezettségek hányadosaként kerül meghatározásra.
 
-## 3.3. Az engedélyezési eljárásban elvárt határérték: 1,0, amely értéket elérve és afelett a Hivatal engedélyt adhat. A Hivatal 0,8 és 1,0 között feltételes engedélyt adhat, amennyiben a kérelmező nyilatkozik, hogy az engedély jogerőre emelkedését követő lezárt üzleti évének könyvvizsgáló által hitelesített beszámolója alapján az elvárt határértéket eléri. A 0,8 értéket el nem érő mutatóval rendelkező kérelmező részére engedélyt a Hivatal nem ad.
+## Az engedélyezési eljárásban elvárt határérték: 1,0, amely értéket elérve és afelett a Hivatal engedélyt adhat.
 
-## 4. A működési engedély kiadásának feltétele, hogy a kérelmező a köztartozásmentes adózók nyilvántartásában szerepeljen.
+## A 0,8 értéket el nem érő mutatóval rendelkező Kérelmező részére engedélyt a Hivatal nem ad.
 
-## A víziközmű-szolgáltatás új ellátási területre történő kiterjesztése esetén - amennyiben arra beolvadás vagy összeolvadás eredményeként kerül sor - a mutatók kiszámítása könyvvizsgáló által hitelesített, Sztv. által előírt vagyonmérleg alapján történik.
+5. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^303]
 
-5. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^233]
-
-[^233]: Az 5. melléklet a 292/2014. (XI. 26.) Korm. rendelet 37. § 54. pontja, a 70/2015. (III. 30.) Korm. rendelet 223. § (3) bekezdés a) pontja szerint módosított szöveg.
+[^303]: Az 5. melléklet a 292/2014. (XI. 26.) Korm. rendelet 37. § 54. pontja, a 70/2015. (III. 30.) Korm. rendelet 223. § (3) bekezdés a) pontja szerint módosított szöveg.

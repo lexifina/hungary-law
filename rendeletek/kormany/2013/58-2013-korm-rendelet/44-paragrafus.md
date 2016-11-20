@@ -4,16 +4,20 @@
 
 a) egyértelműen megállapítható, hogy a kiszervezés a víziközmű-szolgáltatás költséghatékonyságát lényegesen javítani tudja, vagy
 
-b) a kérelmező nem rendelkezik azokkal a kapacitásokkal, képességekkel, melyek az adott tevékenység elvárt tartalmú és színvonalú elvégzéséhez szükségesek.
+b)[^104] a kérelmező nem rendelkezik azokkal a kapacitásokkal, képességekkel, melyek az adott tevékenység elvárt tartalmú és színvonalú elvégzéséhez szükségesek, és ezek kiépítése, rövid vagy középtávon meg nem térülő beruházási költséggel járna, és
 
-(3) A Hivatal az engedélyező határozatban
+c)[^105] a kérelmező valamennyi engedélyezett kiszervezett tevékenységének szerződéses összege nem haladja meg a Vksztv. 45. § (2) bekezdésében meghatározott értéket.
 
-a) meghatározza azt a konkrét, tárgy szerinti tevékenységre jellemző módon kifejezett árszínvonalat, amely felett a tevékenység nem kiszervezhető,
+(3)[^106] A Hivatal az engedélyező határozatban
 
-b) meghatározza a kiszervezés díjakban megképzett költségfedezetre gyakorolt, a Hivatal által elismert összegszerű hatását,
+a) az (1) bekezdés szerinti összehasonlító elemzés alapján és a Vksztv. 45. § (2) bekezdése szerinti feltételre tekintettel meghatározza azt a – kérelem tárgyát képező tevékenységre vonatkozó – szolgáltatási díjat, amelynél magasabb ellenérték a kiszervezési szerződésben nem köthető ki érvényesen,
 
-c) a kérelemhez képest szűkebb tevékenységrészre is meghatározhatja az engedélyét,
+b) a kérelemhez képest szűkebb tevékenységrészre – a költséghatékonyság figyelembevételével – korlátozhatja az engedélyt,
 
-d) a fenntartás szükséges költségeinek elismerése mellett meghatározhatja, mely kapacitásokat tilos a kérelmezőnek a kiszervezés ellenére is leépíteni,
+c) kötelezheti a kérelmezőt, hogy az engedélyben foglalt határidő lejártáig a kiszervezett feladat egészének, vagy egy részének az ellátására hozza létre a megfelelő kapacitást, vagy
 
-e) kötelezheti a kérelmezőt, hogy kiszervezés esetén, annak engedélyben foglalt határidejének lejártáig a kiszervezett feladat egészének, vagy egy részének az ellátására hozza létre a megfelelő kapacitást.
+d) a kiszervezéssel kapcsolatban további kötelezettséget is előírhat.
+
+[^104]: A 44. § (2) bekezdés b) pontja a 342/2016. (XI. 17.) Korm. rendelet 15. § (1) bekezdésével megállapított szöveg.
+[^105]: A 44. § (2) bekezdés c) pontját a 342/2016. (XI. 17.) Korm. rendelet 15. § (1) bekezdése iktatta be.
+[^106]: A 44. § (3) bekezdése a 342/2016. (XI. 17.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.

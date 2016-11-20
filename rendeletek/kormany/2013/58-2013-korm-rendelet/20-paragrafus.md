@@ -2,24 +2,20 @@
 
 ## Az ENGEDÉLYEZÉS ÉS HOZZÁJÁRULÁS SZABÁLYAI
 
-## 9. A víziközmű-szolgáltatói működési engedély tartalma, hatálya
+## 9. [^82] A víziközmű-szolgáltatói engedély
 
-20. § (1) A víziközmű-szolgáltatói működési engedély (e fejezet tekintetében a továbbiakban: engedély) tartalmazza:
+20. § (1) A víziközmű-szolgáltatói engedély tartalmazza
 
-a) az engedélyes víziközmű-szolgáltató nevét, székhelyét, cégjegyzékszámát (személyi hatály),
+a) az engedélyes víziközmű-szolgáltató nevét, székhelyét, cégjegyzékszámát,
 
-b) az ellátási területtel érintett települések nevét, a víziközmű-szolgáltatási ágazat megnevezésével együttesen (területi hatály),
+b) az engedélyes víziközmű-szolgáltató által végezhető víziközmű-szolgáltatási ágazati tevékenység megnevezését,
 
-c) az üzemeltetett víziközmű-rendszerek megnevezését, azonosító kódját, azokra nézve a Hivatal által megállapított felhasználói egyenértéket (tárgyi hatály), és
+c) a víziközmű-szolgáltatói jogosultság időbeli hatályát.
 
-d) a működési jogosultság időbeli hatályát.
-
-(2) Amennyiben az engedély szerinti működési jogosultság az egyes víziközmű-rendszerekre nézve eltérő időbeli hatállyal jön létre, úgy az időbeli hatály az egyes víziközmű-rendszerekre történő külön utalással kerül feltüntetésre.
-
-(3) Az engedély mellékletei a víziközmű-szolgáltatónak a Hivatal által jóváhagyott
+(2) A víziközmű-szolgáltatói engedély mellékletei a víziközmű-szolgáltatónak a Hivatal által jóváhagyott
 
 a) üzletszabályzata,
 
-b) beszerzési szabályzata,
+b) beszerzési szabályzata.
 
-c) üzemeltetési szerződései.
+[^82]: A 9. alcím (20–22. §) a 342/2016. (XI. 17.) Korm. rendelet 9. §-ával megállapított szöveg.

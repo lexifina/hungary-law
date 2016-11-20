@@ -1,15 +1,5 @@
-26. § (1)[^55] Amennyiben annak lehetőségét törvény vagy kormányrendelet nem zárja ki, az adott engedélyezési feltétel fennállásának hiányában feltételesen is engedélyezhető a víziközmű-szolgáltató működése a feltétel teljesítésére szabott határidő megadásával. A Hivatal a feltételes engedélyt legfeljebb 12 hónapra adja ki, amely időtartam indokolt esetben meghosszabbítható.
+## 25. § A víziközmű-szolgáltatói és a működési engedély módosítására irányuló eljárásban a Hivatal az engedély kérelemmel nem érintett részeit felülvizsgálhatja és módosíthatja.
 
-(2) A feltétel tűzésével kiadott engedélynek mellékletként részét képezi – a kérelmező által az eljárás során, külön felhívásra benyújtott – a Hivatal által jóváhagyott felzárkózási terv.
+26. § (1) A víziközmű-szolgáltatói engedély kiadására vagy módosítására irányuló kérelmet a 2. melléklet 1. pontja szerinti adattartalmú formanyomtatványon kell benyújtani. A kérelemhez mellékelni kell a 2. melléklet 2. pontjában felsorolt dokumentumokat.
 
-(3) A felzárkózási terv időbeli ütemezés mellett tartalmazza a hiányzó engedélyezési feltétel teljesítéséhez szükséges intézkedések tervezetét, a felmerülő erőforrásigény megjelölésével együtt.
-
-(4) Az engedélyes a jóváhagyott felzárkózási terv teljesítéséről a Hivatal által meghatározott gyakorisággal előrehaladási jelentést küld a Hivatalhoz, amely a teljesítést ellenőrizi. A felzárkózási tervben foglaltak teljesítésének elmaradása esetén a Hivatal az engedélyt – a teljesítési elmaradással érintett terjedelemben – visszavonja.
-
-(5) A Hivatal feltétel tűzésével sem bocsát ki működési engedélyt, amennyiben:
-
-a) a benyújtott felzárkózási tervet tartalmi elemei hiányából fakadó teljesíthetetlensége miatt a Hivatal nem hagyta jóvá,
-
-b) a 11. alcímben foglalt engedélyezési feltételek közül egyidejűleg több feltétel is hiányzik, így az a víziközmű-szolgáltatás jelentősen csökkent színvonalú folytatását eredményezné.
-
-[^55]: A 26. § (1) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 28. § (2) bekezdés 4. pontja szerint módosított szöveg.
+(2) A működési engedély kiadására vagy módosítására irányuló kérelmet a 2. melléklet 3. pontja szerinti adattartalmú formanyomtatványon kell benyújtani. A kérelemhez mellékelni kell a jóváhagyandó üzemeltetési szerződést, valamint a 2. melléklet 4. pontjában felsorolt dokumentumokat.

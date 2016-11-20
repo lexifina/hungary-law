@@ -1,9 +1,15 @@
-## 22. § A Hivatal az engedélyt határozatlan időre is kiadhatja.
+## 10. [^83] A működési engedély
 
-## 10. Az engedélyezési eljárás
+23. § (1) A működési engedély tartalmazza
 
-23. §[^52] (1) A víziközmű-szolgáltatói működési engedély kiadására irányuló eljárás a kérelmező kérelmére magában foglalja a kérelmező üzemeltetési szerződéseinek, illetve ezek módosításának jóváhagyására irányuló eljárást is.
+a) az engedélyes víziközmű-szolgáltató nevét, székhelyét, cégjegyzékszámát, a víziközmű-szolgáltató víziközmű-szolgáltatói engedélyének számát,
 
-(2) Az (1) bekezdésben foglaltakon túl kérelemre az eljárás magában foglalja továbbá a kérelmező üzletszabályzatának, valamint beszerzési szabályzatának, illetve ezek módosításának a jóváhagyását is. E bekezdés szerinti kérelem benyújtására kizárólag akkor kerülhet sor, ha az üzletszabályzat, valamint a beszerzési szabályzat, illetve ezek módosításának jóváhagyása a víziközmű-szolgáltatói működési engedély kiadásával kapcsolatban válik szükségessé.
+b) az ellátási területtel érintett település vagy települések nevét, a víziközmű-szolgáltatási ágazat megnevezésével együtt,
 
-[^52]: A 23. § a 367/2015. (XII. 2.) Korm. rendelet 5. §-ával megállapított szöveg.
+c) az üzemeltetett víziközmű-rendszer vagy víziközmű-rendszerek megnevezését, azonosító kódját, azokra nézve a Hivatal által megállapított felhasználói egyenértéket, és
+
+d) a működési jogosultság időbeli hatályát.
+
+(2) A víziközmű-szolgáltató Hivatal által jóváhagyott üzemeltetési szerződése a működési engedély mellékletét képezi.
+
+[^83]: A 10. alcím (23. §) a 342/2016. (XI. 17.) Korm. rendelet 9. §-ával megállapított szöveg.

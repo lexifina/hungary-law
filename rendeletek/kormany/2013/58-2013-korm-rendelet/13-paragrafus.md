@@ -14,7 +14,7 @@ a) nem nyújtottak be pályázatot,
 
 b) kizárólag érvénytelen pályázat került benyújtásra,
 
-c) a pályázó által vállalt szolgáltatási és üzemeltetési színvonal az ellátási terület ellátásbiztonságát veszélyeztetheti.
+c)[^51] a pályázók által vállalt szolgáltatási és üzemeltetési színvonal az ellátási terület ellátásbiztonságát veszélyeztetheti.
 
 (3) Az ellátásért felelős – az Értékelő Bizottság összefoglaló értékelése alapján, annak közlésétől számított 15 napon belül – döntést hoz
 
@@ -29,3 +29,5 @@ c) a pályázati eljárás eredményessége esetén a pályázati eljárás nyer
 (5) Az ellátásért felelős a (3) bekezdésben meghatározott döntéséről haladéktalanul tájékoztatja a pályázókat, a Hivatalt, és döntését – annak meghozatalától számítva 3 napon belül – a honlapján közzéteszi.
 
 (6) Az ellátási területre csak egy pályázatot lehet nyertesnek minősíteni.
+
+[^51]: A 13. § (2) bekezdés c) pontja a 342/2016. (XI. 17.) Korm. rendelet 39. § 7. pontja szerint módosított szöveg.

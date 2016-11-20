@@ -1,22 +1,29 @@
-90/C. § (1) A beruházási terv, valamint a felújítási és pótlási terv az alábbi felsorolás szerinti bontásban tartalmazza a benyújtás évét követő 15 évre vonatkozó elvégzendő feladatokat:
+90/C. §[^279] (1) A beruházási tervrész, valamint a felújítási és pótlási tervrész az alábbi felsorolás szerinti bontásban tartalmazza a benyújtás évét követő 15 évre vonatkozó elvégzendő feladatokat:
 
-a) I. ütem: részletes műszaki terv és ez alapján készült költségkalkuláció (1. év),
+a) I. ütem: 1. év,
 
-b) II. ütem: megalapozó műszaki terv és költségbecslés (2–5. év),
+b) II. ütem: 2–5. év,
 
-c) III. ütem: távlati műszaki terv és költségbecslés (6–15. év).
+c) III. ütem: 6–15. év.
 
-(2)[^209] A Hivatal a terv készítésére kötelezett indokolt kérelmére az I. ütemben előirányzott feladatok átütemezéséhez vagy előre nem tervezhető beruházási, felújítási és pótlási igény teljesítéséhez az alábbiak szerint járulhat hozzá:
+(2) Az I. ütemben a tervezési időszakban előre nem látható körülmények miatt a rendkívüli helyzetből adódó azonnali feladatok elvégzésére a (3) bekezdésben foglalt kivétellel a ténylegesen rendelkezésre álló forrás 1–15 százaléka tervezhető.
 
-a) a feladatok megvalósítása valamilyen külső oknál fogva ellehetetlenült,
+(3) Ha a víziközmű-rendszer műszaki állapota vagy a rendelkezésre álló forrás mértéke alapján indokolt, a rendkívüli helyzetből adódó azonnali feladatok elvégzésére az I. ütemben ténylegesen rendelkezésre álló forrásnak a (2) bekezdésben előírt 1–15 százaléka feletti összeg is tervezhető. A 15 százalék mértéket meghaladó összeg tervezésének szükségességét a Tervben kell alátámasztani hibastatisztikákra, illetve üzemeltetési tapasztalatokra alapozva.
 
-b) a Terv készítése óta bekövetkezett változás miatt más víziközmű-fejlesztés megvalósítása kap elsőbbséget, vagy
+(4) Az I. ütemben jóváhagyott feladatok átütemezése és az azokhoz rendelt források átcsoportosítása, vagy előre nem tervezett feladat megvalósítása a rendkívüli helyzetből adódó azonnali feladatok elvégzésére elkülönített kereten felül az ütemben rendelkezésre álló forrás 20 százalékáig a Hivatal tájékoztatásával, 20 százalékát meghaladó mértékben a Hivatal előzetes hozzájárulásával az alábbi feltételek alapján végezhető el:
 
-c) az uniós társfinanszírozásban megvalósuló fejlesztéshez kapcsolódóan az ellátásért felelősnek kiegészítő – a Terv készítésekor előre nem ismert – beruházásokat, felújításokat kell végrehajtania.
+a) a jóváhagyott feladatok megvalósítása valamilyen külső oknál fogva ellehetetlenült,
 
-(3) A II–III. ütemek esetén a következő Terv benyújtásakor van lehetőség a szükséges átütemezés végrehajtására.
+b) a jóváhagyott feladatok fontossági sorrendje megváltozik, ezáltal az I. ütemből átkerül az adott feladat a II. vagy a III. ütembe, illetve a jóváhagyott II. és III. ütemben meghatározott feladat megvalósítása kap elsőbbséget,
 
-(4)[^210] A (2) bekezdés c) pontjában meghatározott esetben a Terv készítésére kötelezett a hozzájárulás iránti kérelemmel együtt a Hivatalnak megküldi a Terv módosítását, amely a kiegészítő beruházások, felújítások – a Terv készítésére irányadó szabályok szerint összeállított – leírását tartalmazza. A Hivatal a jóváhagyás iránti kérelmet soron kívül elbírálja.
+c) az uniós társfinanszírozásban megvalósuló feladathoz kapcsolódóan az ellátásért felelősnek a Terv készítésekor előre nem ismert további feladatokat kell végrehajtania, vagy
 
-[^209]: A 90/C. § (2) bekezdése a 367/2015. (XII. 2.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
-[^210]: A 90/C. § (4) bekezdését a 367/2015. (XII. 2.) Korm. rendelet 24. § (2) bekezdése iktatta be.
+d) a jóváhagyott Tervben nem szereplő új feladat megvalósítása indokolt és annak megvalósítására a jóváhagyott Terv szerinti pénzügyi forrás fedezetet nyújt vagy további pénzügyi forrás áll rendelkezésre.
+
+(5) A jóváhagyott II. és III. ütemekben ismertetett feladatok vonatkozásában szükséges átütemezésre a következő Terv benyújtásakor van lehetőség.
+
+(6) A (4) bekezdésben meghatározott esetben a Terv elkészítésére és benyújtására kötelezett a hozzájárulás iránti kérelemmel együtt a Hivatalnak megküldi a jóváhagyott Terv módosítását.
+
+(7) A Hivatal a (4) bekezdés c) pontjában meghatározott esetben a hozzájárulásról soron kívül dönt.
+
+[^279]: A 90/C. § a 342/2016. (XI. 17.) Korm. rendelet 34. §-ával megállapított szöveg.

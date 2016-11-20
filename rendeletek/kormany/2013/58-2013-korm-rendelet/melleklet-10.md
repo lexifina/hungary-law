@@ -176,7 +176,7 @@
 
 ## A nyilvántartásba történő felvételt követő évtől a szociálisan rászoruló felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll.
 
-10. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^238]
+10. melléklet az 58/2013. (II. 27.) Korm. rendelethez[^309]
 
 Kérelem fogyatékkal élő személyként a védendő felhasználók nyilvántartásába történő
 
@@ -398,4 +398,4 @@ Az igazolást az igénylőnek kell benyújtania a víziközmű-szolgáltatóhoz 
 
 A nyilvántartásba történő felvételt követő évtől a védendő felhasználó minden év március 31-ig köteles igazolni, hogy védettsége továbbra is fennáll. Nem kell évenkénti igazolást benyújtania a fogyatékkal élő felhasználók nyilvántartásában szereplő személynek, ha az állapotában, illetve a háztartásában lakó fogyatékkal élő személy állapotában – orvosi szakvéleménnyel igazolhatóan – nem várható jelentős javulás.
 
-[^238]: A 10. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § c) pontja iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 223. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^309]: A 10. mellékletet a 292/2014. (XI. 26.) Korm. rendelet 36. § c) pontja iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 223. § (3) bekezdés b) pontja szerint módosított szöveg.
