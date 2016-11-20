@@ -1,6 +1,6 @@
 1. melléklet a 356/2016. (XI. 18.) Korm. rendelethez
 
-## A Beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
+A Beruházás megvalósításához szükséges, kiemelt jelentőségű üggyé nyilvánított közigazgatási hatósági ügyek
 
 1. építésügyi hatósági engedélyezési és tudomásulvételi eljárások,
 
