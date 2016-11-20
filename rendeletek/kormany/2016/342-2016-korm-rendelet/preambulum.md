@@ -1,0 +1,1 @@
+A Kormány a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény 74. § (1) bekezdés 3–6., 9–11., 18., 20., 22–23. és 25. pontjaiban foglalt felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:

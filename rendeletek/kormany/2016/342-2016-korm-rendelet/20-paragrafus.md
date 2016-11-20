@@ -1,0 +1,3 @@
+## 19. § Az R. 56. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+## „(3) A közszolgáltatási szerződést közműves ivóvízellátás, valamint közműves szennyvízelvezetés és -tisztítás esetén a felhasználó – amennyiben a felhasználási hely megfelel a Vksztv. 55. § (6) bekezdésében foglalt feltételeknek – 30 napos határidővel felmondhatja. Ha a szerződést az ingatlant egyéb jogcímen használó mondja fel, előzetesen a tulajdonos írásbeli hozzájárulását is be kell szereznie. A közszolgáltatási szerződés felmondása nem érintheti hátrányosan az ingatlanon más felhasználó által igénybe vett víziközmű-szolgáltatást.”
