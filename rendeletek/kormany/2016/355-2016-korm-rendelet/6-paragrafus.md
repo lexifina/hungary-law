@@ -1,3 +1,0 @@
-## 5. § A Környezeti és Energiahatékonysági Operatív Program keretében megvalósuló egyes vízgazdálkodási célú beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 285/2016. (IX. 21.) Korm. rendelet (a továbbiakban: R3.) a következő 6. §-sal egészül ki:
-
-## „6. § E rendeletnek az egyes nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló kormányrendeletek módosításáról szóló 355/2016. (XI. 18.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. mellékletében foglalt táblázat 27. sorát a Módr. hatálybalépésekor folyamatban lévő hatósági eljárásokban is alkalmazni kell.”
