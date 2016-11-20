@@ -1,3 +1,3 @@
-## 5. § Az R. a következő 52. §-sal egészül ki:
+## 4–5. §[^3]
 
-## „52. § A nem az oktatásért felelős miniszterrel kötött pedagógiai szakszolgálati feladat-ellátására vonatkozó közoktatási megállapodások és köznevelési szerződések 2016. december 31. napjával hatályukat vesztik.”
+[^3]: A 4–5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
