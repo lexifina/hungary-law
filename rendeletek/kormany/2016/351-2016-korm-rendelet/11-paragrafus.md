@@ -1,41 +1,35 @@
 ## 11. § Az Áhsz.
 
-1. 6. § (2) bekezdés b) pont bb) alpontjában az „eredménykimutatás,” szövegrész helyébe az „eredménykimutatás, és” szöveg,
+1–3.[^13]
 
-2. 26. § (10a) bekezdésében a „kivezetett eszközök” szövegrész helyébe a „kivezetett – részesedésnek vagy értékpapírnak nem minősülő – eszközök” szöveg,
+4.[^14]
 
-3. 26. § (11) bekezdésében a „behajthatatlan követelés” szövegrész helyébe a „behajthatatlan – vásárolt követelésnek nem minősülő – követelés” szöveg,
+5.[^15]
 
-4.[^7]
+6–7.[^16]
 
-5. 27. § (2) bekezdésében a „mérlegkészítés időpontjáig” szövegrész helyébe a „mérleg fordulónapjáig” szöveg,
+8–9.[^17]
 
-6–7.[^8]
+10.[^18]
 
-8. 30. § (2) bekezdésében az „eszköz-, illetve forráscsoportonkénti” szövegrész helyébe az „eszközcsoportonkénti” szöveg,
+11–12.[^19]
 
-9. 32. § (1) és (3) bekezdésekben az „adatszolgáltató rendszerbe feltölti.” szövegrész helyébe az „adatszolgáltató rendszerbe feltölti az éves költségvetési beszámolót alátámasztó – könyvelési rendszerből előállított – teljes főkönyvi kivonattal együtt.” szöveg,
+13.[^20]
 
-10.[^9]
+14–15.[^21]
 
-11. 32. § (4) bekezdésben és a 33. § (1), (2) és (3) bekezdésben az „adatszolgáltató rendszerbe.” szövegrész helyébe az „adatszolgáltató rendszerbe az éves költségvetési beszámolót alátámasztó – könyvelési rendszerből előállított – teljes főkönyvi kivonattal együtt.” szöveg,
+16–20.[^22]
 
-12. 2. melléklet 17. pontjában az „Igazságügyi Hivatal” szövegrész helyébe a „fővárosi és megyei kormányhivatalok” szöveg,
+21–22.[^23]
 
-13.[^10]
-
-14. 4. melléklet 4. pontjában az „iskola-egészségügyi” szövegrész helyébe az „iskolaegészségügyi” szöveg,
-
-15. 14. melléklet II. Kötelezettségvállalások, más fizetési kötelezettségek nyilvántartása alcím 4. pont j) alpontjában a „kifiezetésével” szövegrész helyébe a „kifizetésével” szöveg,
-
-16–20.[^11]
-
-21. 16. melléklet 8. ELSZÁMOLT KÖLTSÉGEK ÉS RÁFORDÍTÁSOK pont 84. EGYÉB RÁFORDÍTÁSOK alpont 842. alpontjában a „kivezetett eszközök” szövegrész helyébe a „kivezetett, részesedésnek vagy értékpapírnak nem minősülő eszközök” szöveg,
-
-22. 17. melléklet 1. pont a) alpontjában a „számlák kivételével” szövegrész helyébe a „számlák és az Áht. 36. § (2) bekezdése szerinti esetek kivételével” szöveg
-
-[^7]: A 11. § 4. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^8]: A 11. § 6–7. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^9]: A 11. § 10. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^10]: A 11. § 13. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^11]: A 11. § 16–20. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^13]: A 11. § 1–3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 11. § 4. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^15]: A 11. § 5. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 11. § 6–7. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^17]: A 11. § 8–9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^18]: A 11. § 10. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^19]: A 11. § 11–12. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^20]: A 11. § 13. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^21]: A 11. § 14–15. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 11. § 16–20. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^23]: A 11. § 21–22. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

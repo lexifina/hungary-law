@@ -2,29 +2,29 @@
 
 12. § (1) Hatályát veszti az Áhsz.
 
-1. 6. § (2) bekezdés b) pont bc) alpontja,
+1.[^24]
 
-2.[^12]
+2.[^25]
 
-3. 29. § (1) bekezdése,
+3.[^26]
 
-4–6.[^13]
+4–6.[^27]
 
-7. 56/B. §-a,
+7–9.[^28]
 
-8. 7. melléklete,
-
-9. 10. melléklet 2–4. pontja,
-
-10–12.[^14]
+10–12.[^29]
 
 (2) Hatályát veszti az Áhsz.
 
-1. 13. alcím címében a „költségekről és megtérült költségekről szóló kimutatás,” szövegrész,
+1.[^30]
 
-2–7.[^15]
+2–7.[^31]
 
-[^12]: A 12. § (1) bekezdés 2. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^13]: A 12. § (1) bekezdés 4–6. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^14]: A 12. § (1) bekezdés 10–12. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^15]: A 12. § (2) bekezdés 2–7. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^24]: A 12. § (1) bekezdés 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^25]: A 12. § (1) bekezdés 2. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^26]: A 12. § (1) bekezdés 3. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^27]: A 12. § (1) bekezdés 4–6. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^28]: A 12. § (1) bekezdés 7–9. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^29]: A 12. § (1) bekezdés 10–12. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^30]: A 12. § (2) bekezdés 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^31]: A 12. § (2) bekezdés 2–7. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
