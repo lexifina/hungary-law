@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-13-30-4
 | 2016-09-12 | 2014-13-30-41.24 | 14/2016. (IX. 14.) OGY határozat |
 | 2016-10-10 | 2014-13-30-41.25 | 20/2016. (X. 13.) OGY határozat |
 | 2016-11-07 | 2014-13-30-41.26 | 27/2016. (XI. 8.) OGY határozat |
+| 2016-11-21 | 2014-13-30-41.27 | 29/2016. (XI. 23.) OGY határozat |
