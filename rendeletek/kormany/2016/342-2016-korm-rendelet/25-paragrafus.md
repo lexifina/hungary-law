@@ -1,1 +1,0 @@
-## „(13) A víziközmű-szolgáltató az üzletszabályzatában foglaltak szerint jogosult a bekötési vízmérőnek a mérésügyről szóló törvény végrehajtására kiadott kormányrendeletben meghatározott hitelesítési hatályán belüli cseréjére azzal, hogy erre legkorábban a bekötési vízmérő beépítését követő negyedik évben kerülhet sor.”

@@ -1,7 +1,0 @@
-## 10. § Az R. 30. §-a helyébe a következő rendelkezés lép:
-
-## „30. § (1) A víziközmű-szolgáltatói engedéllyel kapcsolatos eljárásban a Hivatal a 4. melléklet szerinti módszertan alapján megvizsgálja a kérelmező tőkeerejét, eladósodottságát, pénzügyi kockázatokat jelentő kötelezettségvállalásait, likviditását.
-
-## (2) Az (1) bekezdés szerinti módszertan tartalmazza a Hivatal által vizsgált mutatókat, azokra nézve azt az értékhatárt, amelyen túl víziközmű-szolgáltatói engedély nem kerülhet kiadásra.
-
-## (3) A 31. §-ban meghatározott engedélyezési feltételeket a működési engedélyezési eljárásban is vizsgálhatja a Hivatal.”
