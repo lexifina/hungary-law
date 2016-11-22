@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1647-30
 | --- | --- | --- |
 | 2016-11-17 | 2016-1647-30-22.1 | 1647/2016. (XI. 17.) Korm. határozat |
 | 2016-11-21 | 2016-1647-30-22.2 | Nemzeti Jogszabálytár (egységes szerkezet) |
+| 2016-11-22 | 2016-1647-30-22.3 | 2010: CXXX. törvény |

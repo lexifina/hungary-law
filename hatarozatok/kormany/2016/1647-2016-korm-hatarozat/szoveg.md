@@ -8,6 +8,7 @@ Felelős: a Modern Városok Program megvalósításáról szóló 250/2016. (VII
 
 Határidő: 2016. november 21-től 2016. december 2-ig
 
-4. 2016. november 21. napjával visszavonja az 1. és a 2. pontot, valamint a Határozat 3–5. pontját és 1. mellékletét.
+4.[^2]
 
 [^1]: Az 1–2. pontot a 4. pont visszavonta.
+[^2]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
