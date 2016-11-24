@@ -1,4 +1,4 @@
-## 55. §[^140]
+## 55. §[^141]
 
 ## ZÁRÓ ÉS ÁTMENETI RENDELKEZÉSEK
 
@@ -6,7 +6,7 @@
 
 (2) E rendelet 22. § (1) bekezdés b) pontja, 24. § (2), (4) és (5) bekezdése, valamint 12. melléklete 2010. január 1-jén lép hatályba.
 
-(3)–(4)[^141]
+(3)–(4)[^142]
 
-[^140]: Az 55. §-t negelőző alcímet és az 55. §-t a 67/2011. (XII. 30.) BM rendelet 23. § u) pontja hatályon kívül helyezte.
-[^141]: Az 56. § (3)–(4) bekezdését a (3) bekezdés hatályon kívül helyezte.
+[^141]: Az 55. §-t negelőző alcímet és az 55. §-t a 67/2011. (XII. 30.) BM rendelet 23. § u) pontja hatályon kívül helyezte.
+[^142]: Az 56. § (3)–(4) bekezdését a (3) bekezdés hatályon kívül helyezte.

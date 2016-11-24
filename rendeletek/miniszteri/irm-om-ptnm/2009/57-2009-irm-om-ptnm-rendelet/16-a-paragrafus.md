@@ -24,30 +24,31 @@ a) a vizsgálaton részt vevő személy a kötelező mozgásformák valamelyiké
 
 b) az összpontszám alapján az (5) bekezdésben meghatározottak szerint „Nem megfelelő” értékelést kap.
 
-(5) Az összpontszám alapján a fizikai alkalmassági vizsgálat értékelése korcsoportonként történik a következők szerint:
+(5)[^41] Az összpontszám alapján a fizikai alkalmassági vizsgálat értékelése korcsoportonként történik a következők szerint:
 
 a) I. korcsoport:
 
-aa) 120 pontot meghaladó eredmény esetén „Kiváló”,
+aa) férfiaknál 150, nőknél 120, vagy azt meghaladó pont esetén „Kiváló”,
 
-ab) 50–119 pont esetén „Megfelelő”,
+ab) férfiaknál 70–149, nőknél 50–119 pont esetén „Megfelelő”,
 
-ac) 0–49 pont esetén „Nem megfelelő”,
+ac) férfiaknál 0–69, nőknél 0–49 pont esetén „Nem megfelelő”,
 
 b) II. korcsoport:
 
-ba) 110 pontot meghaladó eredmény esetén „Kiváló”,
+ba) férfiaknál 125, nőknél 100, vagy azt meghaladó pont esetén „Kiváló”,
 
-bb) 45–109 pont esetén „Megfelelő”,
+bb) férfiaknál 60–124, nőknél 45–99 pont esetén „Megfelelő”,
 
-bc) 0–44 pont esetén „Nem megfelelő”,
+bc) férfiaknál 0–59, nőknél 0–44 pont esetén „Nem megfelelő”,
 
 c) III. korcsoport:
 
-ca) 100 pontot meghaladó eredmény esetén „Kiváló”,
+ca) férfiaknál 100, nőknél 80, vagy azt meghaladó pont esetén „Kiváló”,
 
-cb) 40–99 pont esetén „Megfelelő”,
+cb) férfiaknál 50–99, nőknél 40–79 pont esetén „Megfelelő”,
 
-cc) 0–39 pont esetén „Nem megfelelő”.
+cc) férfiaknál 0–49, nőknél 0–39 pont esetén „Nem megfelelő”.
 
 [^40]: A 16/A. §-t az 56/2012. (XI. 22.) BM rendelet 155. §-a iktatta be.
+[^41]: A 16/A. § (5) bekezdése a 47/2016. (XI. 23.) BM rendelet 1. §-ával megállapított szöveg.
