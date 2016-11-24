@@ -4,7 +4,7 @@
 
 ## 17. Az egyenruházati termékek viselésének általános szabályai
 
-41. § (1)[^14] Egyenruha viselésére jogosultak az Országgyűlési Őrség hivatásos állományának tagjai. A hivatásos állományból nyugállományba helyezettek kizárólag a társasági ruházatot viselhetik (nyugállományú kiegészítő jelzéssel), amennyiben az egyenruha viselésétől nem tiltották el őket.
+41. § (1)[^17] Egyenruha viselésére jogosultak az Országgyűlési Őrség hivatásos állományának tagjai. A hivatásos állományból nyugállományba helyezettek kizárólag a társasági ruházatot viselhetik (nyugállományú kiegészítő jelzéssel), amennyiben az egyenruha viselésétől nem tiltották el őket.
 
 (2) Az egyenruhás normatípusba sorolt igényjogosult szolgálatban egyenruhát köteles viselni, kivéve, ha szolgálati elöljárója szolgálati érdekből polgári ruha viselését rendeli el.
 
@@ -20,4 +20,4 @@ a) beosztásából felfüggesztették, vagy
 
 b) nem szolgálati céllal külföldön tartózkodik, kivéve, ha az Országgyűlési Őrség parancsnoka azt előzetesen írásban engedélyezte számára.
 
-[^14]: A 41. § (1) bekezdése a 36/2015. (VI. 16.) BM rendelet 16. §-ával megállapított szöveg.
+[^17]: A 41. § (1) bekezdése a 36/2015. (VI. 16.) BM rendelet 16. §-ával megállapított szöveg.

@@ -1,0 +1,1 @@
+## 24/E. § Ha a hivatásos szolgálati jogviszonyt létesítő állomány az alapfelszerelés vagy alapfelszerelés-kiegészítés során az alapellátási normájának megfelelő kiváltásra kerülő szolgálati ruházat cikkeit nem kapta meg, akkor az ellátást az újonnan bevezetett és rendszeresített termékekből kell biztosítani.

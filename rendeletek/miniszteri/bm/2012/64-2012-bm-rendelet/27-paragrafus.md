@@ -6,8 +6,8 @@
 
 (3) A rendszeres évi záráskor az elszámolás időpontjáig jóváírt és ki nem fizetett összegeket jóváírásként, az esetleges túlellátást pedig terhelésként kell a következő évre átvinni.
 
-(4)[^12] Az elszámolást a szolgálati viszony megszűnésekor, valamint más rendvédelmi feladatokat ellátó szervhez történő áthelyezéskor a 25. és 26. § előírásai szerint kell végrehajtani.
+(4)[^15] Az elszámolást a szolgálati viszony megszűnésekor, valamint más rendvédelmi feladatokat ellátó szervhez történő áthelyezéskor a 25. és 26. § előírásai szerint kell végrehajtani.
 
 (5) Az alapfelszerelés, az alapfelszerelés-kiegészítés és a ruházati utánpótlási ellátmány raktári kiadásának tényét, továbbá a kifizetett összeg számlával történő elszámolásának tényét az (1) bekezdésben meghatározott nyilvántartásban kell szerepeltetni.
 
-[^12]: A 27. § (4) bekezdése a 36/2015. (VI. 16.) BM rendelet 18. § b) pontja szerint módosított szöveg.
+[^15]: A 27. § (4) bekezdése a 36/2015. (VI. 16.) BM rendelet 18. § b) pontja szerint módosított szöveg.
