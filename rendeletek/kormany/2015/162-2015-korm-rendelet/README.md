@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-162-20-
 | 2016-07-01 | 2015-162-20-22.7 | 172/2016. (VII. 1.) Korm. rendelet |
 | 2016-08-17 | 2015-162-20-22.8 | 238/2016. (VIII. 16.) Korm. rendelet |
 | 2016-09-16 | 2015-162-20-22.9 | 238/2016. (VIII. 16.) Korm. rendelet |
+| 2016-11-24 | 2015-162-20-22.10 | 359/2016. (XI. 23.) Korm. rendelet |
