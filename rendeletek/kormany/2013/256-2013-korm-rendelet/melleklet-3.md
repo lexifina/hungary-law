@@ -508,7 +508,7 @@
 
 | 254. | Bácsalmási Egészségügyi Szolgáltató Kft. | Bácsalmás |
 
-3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^40]
+3. melléklet a 256/2013. (VII. 5.) Korm. rendelethez[^43]
 
 ## Az egészségügyi ágazati előmeneteli szabályok hatálya alá tartozó egészségügyi dolgozót vagy egészségügyben dolgozót megillető bérkiegészítés mértéke
 
@@ -714,4 +714,4 @@
 
 | 17 | 49–51 | 46 600 | 49 114 | 56 724 |
 
-[^40]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.
+[^43]: A 3. mellékletet a 205/2016. (VII. 21.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte, újonnan a 238/2016. (VIII. 16.) Korm. rendelet 5. § (1) bekezdése iktatta be.
