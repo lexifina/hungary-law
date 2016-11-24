@@ -1,0 +1,3 @@
+## 9. § Az Országgyűlési Őrség egyenruha-ellátásra jogosult hivatásos állományának ruházati és öltözködési szabályzatáról szóló 64/2012. (XII. 12.) BM rendelet (a továbbiakban: R2.) 21. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+## „(4) A ruházati utánpótlási ellátmány az elhasználódott egyenruházati termékek és felszerelési cikkek utánpótlására, az Országgyűlési Őrség parancsnoka által elrendelt egyenruházat vagy a fejlesztés eredményeként újonnan rendszeresített egyenruházat és felszerelési cikk megvásárlására és méretre igazítására, továbbá a 2. melléklet szerinti polgári ruházati termékeknek a megvásárlására szolgál.”
