@@ -1,218 +1,244 @@
-## Az Országgyűlési Őrségnél rendszeresített egyes beosztások betöltéséhez szükséges képzettségek
+## Az Országgyűlési Őrségnél rendszeresített szolgálati beosztások képesítési követelményei
 
-## A vezetői és a tiszti besorolási osztályba tartozó szolgálati beosztások betöltéséhez elismerhető felsőfokú végzettségek, továbbá az egyes szolgálati beosztások ellátásához szükséges szakképzettségek, képzettségek, szakirányú rendészeti képesítési követelmények valamint az egyéb képzettségi feltételek
+## I. A vezetői besorolási osztályba tartozó szolgálati beosztások képesítési követelményei
 
-## I. Alapfeladatokat ellátók
+|  | A | B | C | D | E | F |
 
-## 1. Személyvédelmi és létesítményvédelmi feladatokat ellátók:
+| 1. | SZOLGÁLATI BEOSZTÁS | ISKOLAI VÉGZETTSÉG | RENDÉSZETI SZAKKÉPZETTSÉG | EGYÉB SZAKKÉPZETTSÉG | EGYÉB RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
 
-## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
+| 2. | alapfeladat | nem alapfeladat |
 
-## aa) rendőr tiszthelyettes szakképesítés (OKJ 54 861 01), beosztásnak megfelelő szaktanfolyam,
+| 3. | parancsnok | szakirányú egyetemi végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | – | RSZV |
 
-## ab) rendőr tiszthelyettes rész-szakképesítés (OKJ 51 861 01-03), beosztásnak megfelelő szaktanfolyam.
+| 4. | parancsnok- helyettes | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | nem szükséges | RSZV |
 
-## Szakirányú felsőfokú végzettség:
+| 5. | igazgató | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | – | RSZV |
 
-## aa) NKE RTK bűnügyi vagy rendészeti igazgatási, vagy katasztrófavédelem, vagy nemzetbiztonsági szakán alapképzésben szerzett végzettség,
+| 6. | főosztályvezető | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztásnak megfelelő felsőfokú szakképesítés | RSZV |
 
-## ab) RTF bűnügyi vagy nemzetbiztonsági szakán szerzett végzettség,
+| 7. | főosztályvezető- helyettes | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztásnak megfelelő felsőfokú szakképesítés | RSZV |
 
-## ac) NKE nem rendvédelmi szakán szerzett végzettség és rendészeti szervező (OKJ 62 861 01) szakképesítés,
+| 8. | osztályvezető | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztásnak megfelelő felsőfokú szakképesítés | RSZV |
 
-## ad) más felsőoktatási intézményben szerzett egyetemi, főiskolai végzettség és rendészeti szervező (OKJ 62 861 01) szakképesítés.
+## II. Tiszti besorolási osztályba tartozó szolgálati beosztások képesítési követelményei az alapfeladatokat ellátók esetében
 
-## 2. Tűzoltási feladatot ellátók
+|  | A | B | C | D | E |
 
-## A hivatásos katasztrófavédelmi szerveknél, az önkormányzati és létesítményi tűzoltóságoknál, az önkéntes tűzoltó egyesületeknél, valamint az ez irányú szakágazatokban foglalkoztatottak szakmai képesítési követelményeiről és szakmai képzéseiről szóló 9/2015. (III. 25.) BM rendeletben meghatározottak szerint.
+| 1. | SZOLGÁLATI BEOSZTÁS | ISKOLAI VÉGZETTSÉG | RENDÉSZETI SZAKKÉPZETTSÉG | EGYÉB SZAKKÉPZETTSÉG | EGYÉB RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
 
-## 3. Tárgyalási rend fenntartásával kapcsolatos és protokolláris díszelgési feladatokat ellátók:
+| 2. | osztályvezető- helyettes | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam+ RSZV |
 
-## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
+| 3. | ügyeletvezető | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam+ RSZV |
 
-## aa) rendőr tiszthelyettes szakképesítés (OKJ 54 861 01), beosztásnak megfelelő szaktanfolyam,
+| 4. | kiemelt főreferens | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam+ RSZV |
 
-## ab) rendőr tiszthelyettes rész-szakképesítés (OKJ 51 861 01-03), beosztásnak megfelelő szaktanfolyam.
+| 5. | kiemelt főelőadó | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-## Szakirányú felsőfokú végzettség:
+| 6. | kiemelt biztonsági főtiszt | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-## aa) NKE RTK bűnügyi igazgatási vagy rendészeti igazgatási, vagy katasztrófavédelem, vagy nemzetbiztonsági szakán alapképzésben szerzett végzettség,
+| 7. | főmérnök | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-## ab) RTF valamely szakán szerzett végzettség,
+| 8. | biztonsági főtiszt | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-## ac) NKE nem rendvédelmi szakán szerzett végzettség és rendészeti szervező (OKJ 62 861 01) szakképesítés,
+| 9. | mérnök | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-## ad) más felsőoktatási intézményben szerzett egyetemi, főiskolai végzettség és rendészeti szervező (OKJ 62 861 01) szakképesítés.
+| 10. | rajparancsnok | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | nem szükséges | beosztáshoz előírt szaktanfolyam |
 
-## 4. Informatikai, híradó és biztonságtechnikai feladatokat ellátók:
+## III. Tiszti besorolási osztályba tartozó szolgálati beosztások képesítési követelményei a nem alapfeladatokat ellátók esetében
 
-## Rendészeti szakirányú szakképesítés (rendőr vagy határrendészeti szakképesítés):
+|  | A | B | C | D | E |
 
-## aa) rendőr tiszthelyettes szakképesítés (OKJ 54 861 01), beosztásnak megfelelő szaktanfolyam és középfokú informatikai vagy műszaki végzettség,
+| 1. | SZOLGÁLATI BEOSZTÁS | ISKOLAI VÉGZETTSÉG | RENDÉSZETI SZAKKÉPZETTSÉG | EGYÉB SZAKKÉPZETTSÉG | EGYÉB RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
 
-## ab) rendőr tiszthelyettes rész-szakképesítés (OKJ 51 861 01-03), beosztásnak megfelelő szaktanfolyam és középfokú informatikai vagy műszaki végzettség.
+| 2. | kiemelt főreferens | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | RSZV |
 
-## Szakirányú felsőfokú végzettség:
+| 3. | kiemelt főelőadó | felsőfokú végzettség | felsőfokú rendészeti szakképzettség | beosztásnak megfelelő felsőfokú szakképesítés | nem szükséges |
 
-## Felsőoktatásban szerzett egyetemi vagy főiskolai villamos-, biztonságtechnikai mérnök, mérnök-informatikus felsőfokú végzettség és rendészeti szakirányú felsőfokú végzettség.
+## IV. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások képesítési követelményei az alapfeladatokat ellátók esetében
 
-## 5. Kiképzési, továbbképzési feladatokat ellátók:
+|  | A | B | C | D | E |
 
-## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
+| 1. | SZOLGÁLATI BEOSZTÁS | ISKOLAI VÉGZETTSÉG | RENDÉSZETI SZAKKÉPZETTSÉG | EGYÉB SZAKKÉPZETTSÉG | EGYÉB RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
 
-## aa) rendőr tiszthelyettes szakképesítés (OKJ 54 861 01), beosztásnak megfelelő szaktanfolyam,
+| 2. | csoportvezető | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
 
-## ab) rendőr tiszthelyettes rész-szakképesítés (OKJ 51 861 01-03), beosztásnak megfelelő szaktanfolyam.
+| 3. | szolgálatparancsnok | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
 
-## Szakirányú felsőfokú végzettség:
+| 4. | szakreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
 
-## aa) NKE RTK vagy RTF valamely szakán szerzett felsőfokú végzettség, valamint a nem rendészeti szakok esetében rendészeti szakirányú felsőfokú végzettség,
+| 5. | szolgálatparancsnok- helyettes | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
 
-## ab) felsőoktatási intézményben humánszervező, pedagógiai szakon szerzett végzettség és rendészeti szakirányú végzettség,
+| 6. | főreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
 
-## ac) Zrínyi Miklós Nemzetvédelmi Egyetemen szerzett főiskolai végzettség és átképző tanfolyam,
+| 7. | technikus | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | beosztásnak megfelelő szakképesítés | nem szükséges |
 
-## ad) más felsőoktatási intézményben szerzett egyetemi, főiskolai végzettség és rendészeti szakirányú felsőfokú végzettség, illetve egyéb rendvédelmi szakképzettség, valamint átképző tanfolyam.
+| 8. | helyszínbiztosító | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
 
-## II. Nem alapfeladatokat ellátók
+| 9. | lakásbiztosító | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
 
-## 6. Jogi, igazgatási feladatokat ellátók:
+| 10. | biztonsági gépkocsivezető | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
 
-## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
+| 11. | objektumőr I. | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51861 03) | nem szükséges | nem szükséges |
 
-## aa) rendőr tiszthelyettes szakképesítés (OKJ 54 861 01), beosztásnak megfelelő szaktanfolyam,
+| 12. | objektumőr II. | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | nem szükséges | nem szükséges |
 
-## ab) rendőr tiszthelyettes rész-szakképesítés (OKJ 51 861 01-03), beosztásnak megfelelő szaktanfolyam.
+## V. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztások képesítési követelményei a nem alapfeladatokat ellátók esetében
 
-## Szakirányú felsőfokú végzettség:
+|  | A | B | C | D | E |
 
-## aa) NKE RTK vagy RTF valamely rendvédelmi szakán szerzett rendészeti szakirányú felsőfokú végzettség,
+| 1. | SZOLGÁLATI BEOSZTÁS | ISKOLAI VÉGZETTSÉG | RENDÉSZETI SZAKKÉPZETTSÉG | EGYÉB SZAKKÉPZETTSÉG | EGYÉB RENDÉSZETI KÉPESÍTÉSI KÖVETELMÉNY |
 
-## ab) más felsőoktatási intézményben szerzett jogász; okleveles közigazgatási szakértő szakképzettség, főiskolai szintű igazgatásszervező szakképzettség és rendészeti szervező szaktanfolyam.
+| 2. | szakreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | beosztásnak megfelelő szakképesítés | nem szükséges |
 
-## 7. Jogtanácsosi feladatokat ellátók:
+| 3. | főreferens | középiskolai végzettség, érettségi | rendőr tiszthelyettes részszakképesítés (OKJ 51 861 03) | beosztásnak megfelelő szakképesítés | nem szükséges |
 
-## Rendészeti és szakirányú szakképesítés
+## VI. A táblázatokhoz tartozó magyarázatok
 
-## NKE RTK-n vagy az RTF-n szerzett rendészeti felsőfokú szakképzettség vagy rendészeti szervező (OKJ 62 861 01) szakképesítés és jogi szakképzettség, valamint jogi szakvizsga.
+## 1. Iskolai végzettség:
 
-## 8. Humánszolgálati, személyügyi, munkaügyi és szociális feladatokat ellátók:
+## 1.1. Szakirányú egyetemi végzettség:
 
-## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
+## Rendészeti, katasztrófavédelmi, közigazgatási, katonai, jogi, közgazdász végzettséget adó egyetemi vagy mesterképzési szakon szerzett (MSc, MA) végzettség.
 
-## Középiskolai végzettség és az OKJ szerint: felsőfokú munkaügyi, felsőfokú személyzeti, felsőfokú személyügyi, felsőfokú társadalombiztosítási, középfokú munkaügyi, középfokú személyügyi, középfokú társadalombiztosítási, szociális ügyintéző, szociális asszisztens szakképesítés.
+## 1.2. Felsőfokú végzettség:
 
-## Szakirányú felsőfokú végzettség:
+## a) Főiskolai végzettség vagy felsőoktatásban alapképzési szakon szerzett végzettség (BA).
 
-## aa) NKE RTK vagy RTF valamely szakán szerzett végzettség, valamint a nem rendészeti szakok esetében rendészeti szakirányú felsőfokú végzettség,
+## b) Az informatikai, híradó- és biztonságtechnikai feladatokra rendszeresített kiemelt főreferens, főmérnök, mérnök szolgálati beosztásokban felsőfokú végzettségként kizárólag felsőoktatásban szerzett egyetemi vagy főiskolai villamos-, biztonságtechnikai mérnök, mérnök-informatikus felsőfokú végzettség fogadható el.
 
-## ab) felsőoktatási intézményben humánerőforrás, humánszervező, pszichológia, pedagógia, szociológia szakon szerzett végzettség és rendészeti szakirányú felsőfokú végzettség,
+## 2. Felsőfokú rendészeti szakképzettség:
 
-## ac) Zrínyi Miklós Nemzetvédelmi Egyetem humánerőforrás-gazdálkodási szakán szerzett végzettség és rendészeti szakirányú felsőfokú végzettség.
+## a) Rendészeti felsőoktatásban szerzett szakképesítés (Rendőrtiszti Főiskola vagy a Nemzeti Közszolgálati Egyetem bűnügyi igazgatási, rendészeti igazgatási, nemzetbiztonsági alapképzési szakán, illetve kapcsolódó mesterképzési szakon) vagy
 
-## 9. Sajtó- és tájékoztatási feladatokat ellátók:
+## b) rendészeti szervező szakképesítés (OKJ 62 861 01)
 
-## Szakirányú felsőfokú végzettség:
+## 3. Egyéb szakképzettség:
 
-## aa) Felsőoktatásban szerzett jogi egyetemi, főiskolai végzettség, kommunikációs vagy „PR” szakon szerzett képzettség és rendészeti szakirányú felsőfokú végzettség,
+## 3.1. Beosztásnak megfelelő felsőfokú szakképesítés:
 
-## ab) az RTF valamely szakán szerzett végzettség, valamint a nem rendőri szakok esetében rendészeti szervező tanfolyam.
+## Az Országos Képzési Jegyzékben vagy egyéb jogszabályban a szolgálati beosztás ellátására vonatkozó, szakterületének megfelelő felsőfokú vagy emelt szintű szakképzettség, egyéb képesítés.
 
-## 10. Ügyviteli és adatvédelmi feladatokat ellátók:
+## 3.2. Beosztásnak megfelelő szakképesítés:
 
-## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
+## a) Az Országos Képzési Jegyzékben vagy egyéb jogszabályban a beosztás ellátására vonatkozó, szakterületének megfelelő legalább középfokú szakképzettség, egyéb képesítés.
 
-## aa) rendőr tiszthelyettes szakképesítés (OKJ 54 861 01), beosztásnak megfelelő szaktanfolyam számítógép-kezelői szakképesítés,
+## b) Az informatikai, híradó- és biztonságtechnikai feladatokra rendszeresített technikus szolgálati beosztásban egyéb szakképzettségként középfokú informatikai vagy műszaki végzettség fogadható el.
 
-## ab) rendőr tiszthelyettes rész-szakképesítés (OKJ 51 861 01-03), beosztásnak megfelelő szaktanfolyam beosztásnak megfelelő szaktanfolyam, informatikai, számítógép-kezelői szakképesítés.
+## 4. Egyéb rendészeti képesítési követelmény:
 
-## Szakirányú felsőfokú végzettség:
+## 4.1. RSZV: rendészeti szakvizsga.
 
-## aa) felsőoktatásban szerzett végzettség és rendészeti szakirányú felsőfokú végzettség,
+## 4.2. Beosztáshoz előírt szaktanfolyam:
 
-## ab) az RTF vagy az NKE valamely szakán szerzett végzettség.
+## A szolgálati beosztás ellátásához szükséges ismereteket adó, munkaköri leírásban rögzített rendészeti tárgyú iskolarendszeren kívüli képzés.
 
-## 11. Pénzügyi, számviteli, gazdálkodási feladatokat ellátók:
+## 5. Megfeleltetések:
 
-## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
+## Rendészeti szakirányú felsőfokú végzettségnek kell tekinteni:
 
-## aa) középfokú közgazdasági végzettség, rendőr tiszthelyettes szakképesítés (OKJ 54 861 01), beosztásnak megfelelő szaktanfolyam,
+## a) a Kossuth Lajos Katonai Főiskola határőr szakán szerzett főiskolai végzetséget,
 
-## ab) középfokú közgazdasági végzettség vagy pénzügyi-számviteli szakképesítés rendőr tiszthelyettes rész-szakképesítés (OKJ 51 861 01-03), beosztásnak megfelelő szaktanfolyam.
+## b) a Zrínyi Miklós Katonai Akadémián (Zrínyi Miklós Nemzetvédelmi Egyetemen) határrendészeti és védelmi vezetői szakán szerzett végzettséget.
 
-## Szakirányú felsőfokú végzettség:
+## VII. Az elsődleges tűzoltási és tűzbiztonsági feladatokra rendszeresített szolgálati beosztások képesítési követelményei
 
-## aa) Felsőoktatásban szerzett gazdaságtudományi, közszolgálati, műszaki menedzser, gazdasági agrármérnöki, jogi, szakképzettség; vagy felsőoktatásban szerzett szakképzettség és gazdaságtudományi, statisztikai, informatikai, műszaki, logisztikai felsőfokú, illetve mérlegképes könyvelő szakképesítés és rendészeti szakirányú felsőfokú végzettség,
+## 1. Az elsődleges tűzoltási és tűzbiztonsági feladatokra rendszeresített szolgálati beosztások esetében az I., II. és IV. alcím nem alkalmazandó.
 
-## ab) a Zrínyi Miklós Nemzetvédelmi Egyetem logisztikai szakán szerzett végzettség és rendészeti szakirányú végzettség, illetve egyéb rendvédelmi szakképzettség és átképző tanfolyam,
+## 2. Tiszthelyettesi besorolási osztályba tartozó szolgálati beosztás betöltéséhez középiskolai végzettség, érettségi és legalább alapszintű szakképesítés szükséges.
 
-## ac) a Bolyai János Műszaki Főiskolán a szakterületnek megfelelő szakon szerzett végzettség és rendészeti szakirányú felsőfokú végzettség, vagy rendészeti szervező szakképzettség (OKJ 62 861 01),
+## 3. Tiszti besorolási osztályba tartozó szolgálati beosztás, valamint vezetői szolgálati beosztás betöltéséhez felsőfokú végzettség és felsőszintű szakképesítés, tiszti besorolási osztály D besorolási kategóriájába tartozó szolgálati beosztás és vezetői szolgálati beosztás betöltéséhez továbbá rendészeti szakvizsga is szükséges.
 
-## ad) tudományegyetem állam- és jogtudományi karán, az Államigazgatási Főiskolán, a Corvinus Egyetem Közigazgatás-tudományi Karán szerzett végzettség, felsőfokú pénzügyi-számviteli szakképesítés, valamint rendészeti szakirányú felsőfokú végzettség.
+## 4. Szakképesítések:
 
-## 12. Munkavédelemmel kapcsolatos feladatokat ellátók:
+## 4.1. Alapszintű szakképesítés:
 
-## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
+## a) tűzoltó II. részszakképesítés vagy
 
-## rendészeti szakirányú felsőfokú végzettség, vagy rendészeti szervező szakképzettség (OKJ 62 861 01).
+## b) tűzoltó I. szakképesítés.
 
-## Szakirányú felsőfokú végzettség:
+## 4.2. Középszintű szakképesítés:
 
-## felsőoktatásban szerzett foglalkozás egészségügyi és munkavédelmi szakképzettség, felsőoktatásban szerzett egészségügyi szakképzettség.
+## a) tűzoltósági referens szakképesítés vagy
 
-## 13. Belső ellenőrzési feladatkört ellátók:
+## b) tűzoltó szerparancsnok szakképesítés-ráépülés.
 
-## Rendészeti szakképesítés (rendőr vagy határrendészeti szakképesítés):
+## 4.3. Felsőszintű szakképesítés:
 
-## rendészeti szakirányú felsőfokú végzettség, vagy rendészeti szervező szakképzettség (OKJ 62 861 01).
+## a) építőmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
 
-## Szakirányú felsőfokú végzettség:
+## b) építészmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
 
-## aa) jogász, közgazdász, okleveles közgazdász, gazdaságinformatikus, informatikus közgazdász, igazgatásszervező, okleveles közigazgatási szakértő, okleveles közigazgatási menedzser
+## c) védelmi igazgatási alapképzési szak, tűzvédelmi és tűzoltó szakirány;
 
-## ab) olyan főiskolai, vagy egyetemi végzettség, amely a könyvviteli szolgáltatást végzők nyilvántartásba vételéről szóló 93/2002. (V. 5.) Korm. rendelet szerinti nyilvántartásba vételt lehetővé teszi.
+## d) had- és biztonságtechnikai mérnöki alapképzési szak, tűzvédelmi szakirány;
 
-## Más, olyan felsőfokú iskolai végzettséggel rendelkezik, amely nem az előző pontban meghatározott felsőfokú végzettség és emellett
+## e) rendészeti igazgatási alapképzési szak, katasztrófavédelmi szakirány;
 
-## a) okleveles pénzügyi revizori,
+## f) rendészeti igazgatási alapképzési szak, katasztrófavédelmi szakirány tűzvédelmi specifikáció;
 
-## b) pénzügyi-számviteli szakellenőri,
+## g) katasztrófavédelem alapképzési szak, tűzvédelmi és mentésirányítási szakirány;
 
-## c) okleveles könyvvizsgálói,
+## h) rendészeti szervező szakképesítés, tűzoltó szervező szakképesítés-elágazás;
 
-## d) költségvetési ellenőri,
+## i) rendészeti szervező szakképesítés, tűzvédelmi szervező szakmairány;
 
-## e) mérlegképes könyvelői,
+## j) tűzvédelmi szakmérnök szakképesítés;
 
-## f) a Belső Ellenőrök Nemzetközi Szervezetének okleveles belső ellenőri (CIA),
+## k) főiskolai szintű tűzvédelmi mérnök szak.
 
-## g) az Information Systems Audit and Control Association (ISACA) Nemzetközi Szervezetének okleveles informatikai rendszerellenőri (CISA),
+## 5. Megfeleltetések:
 
-## h) közigazgatási gazdálkodási és ellenőrzési szakértői,
+## 5.1. Alapszintű szakképesítésnek kell tekinteni:
 
-## i) felsőfokú költségvetési, vagy
+## a) a 6 hetes tűzoltó alapfokú tanfolyamot vagy három és fél vagy öt hónapos tiszthelyettes-képző szakon szerzett képesítést vagy
 
-## j) felsőfokú államháztartási
+## b) a tűzoltó szakképesítést.
 
-## szakképesítéssel rendelkezik.
+## 5.2. Középszintű szakképesítésnek kell tekinteni:
 
-## Tábornoki rendfokozattal rendszeresített beosztások
+## a) a katasztrófa- és tűzvédelmi technikus szakképesítést;
 
-## Felsőoktatási intézményben szerzett egyetemi végzettség vagy mesterképzési szakon (Msc, Ma) szerzett végzettség és felsőfokú rendőri szakképesítés, valamint rendészeti szakirányú továbbképzés.
+## b) a tűzoltó technikus szakképesítés-ráépülést;
 
-## További vezetői beosztások:
+## c) a hazai és külföldi tűzoltó, egy- vagy kétéves nappali, illetve hároméves levelező tiszti képzés, vagy hároméves levelező tűzvédelmi vezetői, valamint tűzoltó technikus (OKJ azonosító szám: 52 8915 01) szakképesítést;
 
-## a) felsőoktatási intézményben szerzett főiskolai vagy felsőfokú alapképzési szakon szerzett végzettség (Ba) és felsőfokú rendészeti szakképesítés valamint rendészeti szakirányú továbbképzés,
+## d) a BM Akadémia Tűzoltó Tagozatán szerzett képesítést;
 
-## b) a Nemzeti Közszolgálati Egyetem (a továbbiakban: NKE) és jogelőd szerveinél szerzett rendészeti, védelmi szakirányú végzettség, valamint rendészeti szakirányú továbbképzés.
+## e) a tiszti vizsgát;
 
-## Rövidítések:
+## f) a zászlósképző, 10 hónapos tűzoltó tiszthelyettes-képző vagy tűzoltó (OKJ azonosító szám: 32 8915 01) szakképesítést vagy
 
-## NKE: Nemzeti Közszolgálati Egyetem
+## g) az önkéntes tűzoltóságoknál az 1995 előtt, legalább megyei szintű irányító szervezet által szervezett egyesületi parancsnoki tanfolyamot, valamint a 10 hónapos vagy hosszabb képzési idejű önkéntes és létesítményi tűzoltóparancsnok-képző szakon 2002. december 31-ig megszerzett képesítést.
 
-## RTK: Rendészettudományi Kar
+## 5.3. Felsőszintű szakképesítésnek kell tekinteni:
 
-## RTF: Rendőrtiszti Főiskola
+## a) az egyetemi vagy főiskolai végzettség megszerzését követően a tűzoltó tiszti átképző, tűzoltó átképző szakon szerzett képesítést;
+
+## b) a főiskolai szintű tűzvédelmi mérnök szakot;
+
+## c) a főiskolai szintű katasztrófavédelmi szakot (e végzettség csak abban az esetben fogadható el, ha a végzett hallgató rendelkezik a hivatásos állományra előírt valamely, – tűzoltás, műszaki mentés vezetésére jogosító – legalább középfokú szakmai képesítéssel, szakképzettséggel);
+
+## d) a főiskolai szintű műszaki szakoktató szakot, tűzvédelmi szakirányt (2002. február után beiskolázottak részéről e végzettség csak abban az esetben fogadható el, ha a végzett hallgató rendelkezik a hivatásos állományra előírt valamely, – tűzoltás, műszaki mentés vezetésére jogosító – legalább középfokú szakmai képesítéssel, szakképzettséggel);
+
+## e) a katasztrófavédelmi mérnöki mesterképzési szakot, műszaki és mentésszervezői szakirányt, műszaki és technikai szakirányt Ma (egyetemi szintű);
+
+## f) a katasztrófa- és tűzvédelmi szervező (tiszt) szakképesítést;
+
+## g) a rendészeti szervező szakképzés, tűzoltó szervező szakképesítést (elágazás);
+
+## h) a hazai vagy külföldi, a munkakörnek megfelelő egyetemen, főiskolán, akadémián szerzett szakirányú végzettséget;
+
+## i) a 2002. december 31. előtt megszerzett tűzoltó technikusi képesítést a 2002. december 31. előtt megkezdett felsőfokú iskolai tanulmányokban szerzett végzettséggel együtt vagy
+
+## j) a kétéves nappali vagy hároméves levelező tisztképző szakon és a BM Akadémia Tűzoltó Tagozatán szerzett képesítést a 2002. december 31. előtt megkezdett felsőfokú iskolai tanulmányokban szerzett végzettséggel együtt.
+
+## 6. Tűzoltás, műszaki mentés vezetésére jogosító végzettségek:
+
+## a) minimum tűzoltó II. részszakképesítés − vagy annak megfelelő, elismerhető szakmai képesítés − a képesítés megszerzésétől számított minimum 5 éves, hivatásos tűzoltóságnál szerzett tűzoltási, műszaki mentési gyakorlattal, legalább középfokú iskolai végzettséggel, továbbá tűzoltásvezető I. tanfolyammal vagy
+
+## b) középszintű, vagy felsőszintű szakképesítés.
+
+## Ha a tűzoltás vezetői jogosultság megszerzése az a) pont szerint történt, akkor a beosztást betöltő személynek a tűzoltás vezetői jogosultság megszerzésétől számított 5 éven belül meg kell szereznie a legalább középszintű (tűzoltó szerparancsnok) szakképesítést. Ha a szakképesítés, szakmai képesítés megszerzésére határidőben nem kerül sor, a beosztást betöltő személy a továbbiakban a tűzoltás, műszaki mentés vezetési jogosultsághoz kötött beosztást nem töltheti be.
 
 3. melléklet az 56/2012. (XI. 22.) BM rendelethez
 
@@ -220,7 +246,7 @@
 
 1. Országgyűlési Őrség parancsnoka és helyettesei,
 
-2.[^214] az igazgató, a főosztályvezető,
+2.[^221] az igazgató, a főosztályvezető,
 
 3. a főosztályvezető-helyettes,
 
@@ -228,4 +254,4 @@
 
 5. az állományilletékes parancsnok által meghatározott egyéb beosztások, ahol az idegen nyelv használata a szolgálat ellátásához nélkülözhetetlen.
 
-[^214]: A 3. melléklet 2. pontja a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés r) pontjával megállapított szöveg.
+[^221]: A 3. melléklet 2. pontja a 81/2012. (XII. 28.) BM rendelet 43. § (1) bekezdés r) pontjával megállapított szöveg.

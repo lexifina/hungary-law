@@ -8,6 +8,8 @@ b) lakásbiztosító
 
 ## beosztást betöltő tagja lát el.
 
-(3) Ügyeleti szolgálatot az Országgyűlési Őrség Objektumvédelmi Igazgatóságának kiemelt biztonsági főtiszt beosztást betöltő tagja lát el.
+(3)[^118] Folyamatos ügyeleti szolgálat ellátására szervezett szolgálati beosztások: az ügyeletvezető, valamint az ügyeleti csoportba beosztott szolgálati beosztások.
 
 (4) Készenléti jellegű szolgálatot az Országgyűlési Őrség hivatásos állománya lát el.
+
+[^118]: Az 57. § (3) bekezdése a 47/2016. (XI. 23.) BM rendelet 4. §-ával megállapított szöveg.

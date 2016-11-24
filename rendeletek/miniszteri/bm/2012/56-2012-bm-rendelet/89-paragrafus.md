@@ -6,9 +6,9 @@ a) nem köteles az ügy érdemére nyilatkozatot tenni, azonban a nyilatkozat me
 
 b) nyilatkozatát írásban is megteheti,
 
-c)[^149] nem köteles olyan nyilatkozatot tenni, amellyel önmagát vagy hozzátartozóját bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével vádolná,
+c)[^154] nem köteles olyan nyilatkozatot tenni, amellyel önmagát vagy hozzátartozóját bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével vádolná,
 
-d)[^150] aki a fegyelmi eljárás során mást bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével hamisan vádol vagy koholt bizonyítékot szolgáltat, hamis vád bűncselekményét követi el.
+d)[^155] aki a fegyelmi eljárás során mást bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével hamisan vádol vagy koholt bizonyítékot szolgáltat, hamis vád bűncselekményét követi el.
 
 (3) Ha az eljárás alá vont a meghallgatáson szabályszerű értesítés ellenére nem jelent meg és írásos védekezését sem terjesztette elő vagy nem kívánt az ügy érdemére nyilatkozni, a vizsgáló írásban, illetve a jegyzőkönyvben tájékoztatja, hogy az ügyét a védekezése előterjesztése hiányában a rendelkezésre álló adatok alapján fogják elbírálni.
 
@@ -18,9 +18,9 @@ a) a tanút milyen ügyben kívánják meghallgatni,
 
 b) a tanút nem terheli tanúzási kötelezettség, ha nem az Országgyűlési Őrség állományába tartozik,
 
-c)[^151] a tanú nem köteles olyan nyilatkozatot tenni, amellyel önmagát vagy hozzátartozóját bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével vádolná,
+c)[^156] a tanú nem köteles olyan nyilatkozatot tenni, amellyel önmagát vagy hozzátartozóját bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével vádolná,
 
-d)[^152] aki a fegyelmi eljárás során mást bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével hamisan vádol vagy koholt bizonyítékot szolgáltat, hamis vád bűncselekményét követi el,
+d)[^157] aki a fegyelmi eljárás során mást bűncselekmény, szabálysértés, közigazgatási bírsággal sújtandó szabályszegés vagy fegyelemsértés elkövetésével hamisan vádol vagy koholt bizonyítékot szolgáltat, hamis vád bűncselekményét követi el,
 
 e) a fegyelmi ügyben elkövetett hamis tanúzást a törvény büntetni rendeli,
 
@@ -32,7 +32,7 @@ f) a tanú vagy jogi képviselője kérheti a tanú személyi adatainak zártan 
 
 (7) Ha a tanú adatainak zártan kezelését kérte, a tanú kérése szerint valamennyi személyes adatát vagy nevén kívüli személyes adatait a fegyelmi iratokhoz csatolt zárt borítékban kell kezelni és az eljárás iratainak irattári selejtezése során meg kell semmisíteni. A zártan kezelt adatokat csak az ügyben eljáró vizsgáló, a fegyelmi jogkör gyakorlója, a panaszt elbíráló elöljáró és a kivizsgálásában részt vevő személy, valamint jogvita esetén a bíróság jogosult megismerni.
 
-[^149]: A 89. § (2) bekezdés c) pontja a 34/2013. (VI. 30.) BM rendelet 43. §-a szerint módosított szöveg.
-[^150]: A 89. § (2) bekezdés d) pontja a 34/2013. (VI. 30.) BM rendelet 43. §-a szerint módosított szöveg.
-[^151]: A 89. § (4) bekezdés c) pontja a 34/2013. (VI. 30.) BM rendelet 43. §-a szerint módosított szöveg.
-[^152]: A 89. § (4) bekezdés d) pontja a 34/2013. (VI. 30.) BM rendelet 43. §-a szerint módosított szöveg.
+[^154]: A 89. § (2) bekezdés c) pontja a 34/2013. (VI. 30.) BM rendelet 43. §-a szerint módosított szöveg.
+[^155]: A 89. § (2) bekezdés d) pontja a 34/2013. (VI. 30.) BM rendelet 43. §-a szerint módosított szöveg.
+[^156]: A 89. § (4) bekezdés c) pontja a 34/2013. (VI. 30.) BM rendelet 43. §-a szerint módosított szöveg.
+[^157]: A 89. § (4) bekezdés d) pontja a 34/2013. (VI. 30.) BM rendelet 43. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-94. § (1)[^153] A vizsgáló, ha a vizsgálatra nyitva álló határidő eltelt vagy a fegyelemsértés elbírálásához szükséges bizonyítékokat már beszerezte, a vizsgálatot lezárja és kitűzi az iratismertetés időpontját. Erről a Hszt. 203. § (1) bekezdése figyelembevételével értesíti az eljárás alá vontat és képviselőjét. Nem akadálya az összefoglaló jelentés elkészítésének és az iratok fegyelmi jogkör gyakorlójának történő átadásának, ha az eljárás alá vont, illetve képviselője az iratismertetésen nem jelent meg.
+94. § (1)[^158] A vizsgáló, ha a vizsgálatra nyitva álló határidő eltelt vagy a fegyelemsértés elbírálásához szükséges bizonyítékokat már beszerezte, a vizsgálatot lezárja és kitűzi az iratismertetés időpontját. Erről a Hszt. 203. § (1) bekezdése figyelembevételével értesíti az eljárás alá vontat és képviselőjét. Nem akadálya az összefoglaló jelentés elkészítésének és az iratok fegyelmi jogkör gyakorlójának történő átadásának, ha az eljárás alá vont, illetve képviselője az iratismertetésen nem jelent meg.
 
 (2) Ha a vizsgáló az eljárás alá vont meghallgatása előtt a szükséges bizonyítékokat beszerezte, az iratismertetés az eljárás alá vont meghallgatását követően közvetlenül is megtartható, feltéve, hogy erről a körülményről a meghallgatásról szóló értesítésben előzetesen tájékoztatták az eljárás alá vontat és képviselőjét.
 
@@ -20,4 +20,4 @@ g) az eljárás alá vont és képviselője nyilatkozatát, indítványát és a
 
 (4) Ha az iratismertetésen előterjesztett bizonyítási indítványnak a vizsgáló helyt ad, a bizonyítás kiegészítését 10 munkanapon belül – akár a fegyelmi vizsgálatra nyitva álló határidőn túl is – el kell végezni és ezt követően újabb iratismertetést kell tartani. További bizonyítás kiegészítésnek nincs helye.
 
-[^153]: A 94. § (1) bekezdése a 36/2015. (VI. 16.) BM rendelet 11. § (1) bekezdés 24. pontja szerint módosított szöveg.
+[^158]: A 94. § (1) bekezdése a 36/2015. (VI. 16.) BM rendelet 11. § (1) bekezdés 24. pontja szerint módosított szöveg.
