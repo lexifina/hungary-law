@@ -1,11 +1,13 @@
-37. § (1) Nem nyújtható támogatás, ha a hivatásos állomány tagja vagy családtagja kizárólagos, illetve közös tulajdonában olyan lakás, beépítetlen telek, földterület, üdülő, hétvégi ház, tanya vagy nem lakás céljára szolgáló helyiség van, amelynek együttes beköltözhető forgalmi értéke 25%-nál nagyobb mértékben meghaladja a támogatással megszerzendő lakás építési költségét vagy vásárlási árát.
+## 36. § A lakásigény mértéke, a lakáshelyzet, a vagyoni feltételek és a család jövedelmi helyzete – mint együttes feltételek – szempontjából a hivatásos állomány tagját, valamint azon együttköltöző családtagot lehet figyelembe venni, akit a hivatásos állomány tagja a kérelmében megjelöl. A hivatásos állomány tagjánál és az általa megjelölt családtagnál valamennyi felsorolt feltételt vizsgálni kell.
 
-(2) Az (1) bekezdés alkalmazásában nem kell figyelembe venni a bérleti joggal, a haszonélvezeti joggal és a használat jogával terhelt ingatlant, kivéve, ha e jogok a hivatásos állomány tagjának családtagja javára állnak fenn, valamint azt a felépítményt, amelynek lebontását az építési hatóság engedélyezte vagy elrendelte. Nem kell figyelembe venni azt a lakótelket sem, amelyre a hivatásos állomány tagja a támogatás felhasználásával építeni kíván.
+## 37. § A munkáltatói kölcsön-kérelmek vizsgálata során az alábbi elbírálási sorrend az irányadó:
 
-(3) Amennyiben a támogatást a hivatásos állomány tagja építéshez vagy vásárláshoz igényli, és a hivatásos állomány tagja vagy családtagja kizárólagos, illetve közös tulajdonában az (1) bekezdésben meghatározott forgalmi értéket el nem érő, harmadik személy haszonélvezetével nem terhelt ingatlan van, a hivatásos állomány tagjának és családtagjának kötelezettséget kell vállalnia, hogy az ingatlant a támogatás feltételeinek vizsgálatánál figyelmen kívül hagyott személynek elidegeníti, vagy a bérleti szerződést a bérbeadóval közös megegyezéssel megszünteti. A bérleti szerződést nem kell megszüntetni akkor, ha a hivatásos állomány tagja önkormányzati vagy állami tulajdonú lakás megvásárlásához kéri a támogatást.
+a) olyan igénylő, akinek magának, házastársának, élettársának, vele közös háztartásban lévő gyermekének, együttköltöző családtagjának külön-külön vagy együttesen lakástulajdona, résztulajdona, lakásbérleti, bérlőtársi jogviszonya, állandó használati joga, haszonélvezeti joga korábban nem volt,
 
-(4) A hivatásos állomány tagjának a (3) bekezdésben meghatározott kötelezettséget a támogatásról létrejött megállapodás keltétől számított két éven belül kell teljesítenie, amelynek megtörténtét
+b) a méltányolható lakásigény mértéke alsó határát el nem érő lakással rendelkező igénylő,
 
-a) legalább széljegyzett tulajdoni lappal, vagy
+c) korszerűsítési, bővítési kérelmek,
 
-b) a bérlet megszüntetéséről kötött megállapodással
+d) a méltányolható lakásigény mértékének megfelelő lakással rendelkező igénylő,
+
+e) egyéb, a 27. §-ban meghatározott feltételeknek megfelelő kérelmek.

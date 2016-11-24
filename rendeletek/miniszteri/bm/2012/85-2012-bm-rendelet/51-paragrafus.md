@@ -1,13 +1,9 @@
-## 50. § A kölcsön folyósításával összefüggő ügyintézési díj, jelzálog bejegyzési-, valamint törlési díj az Országgyűlési Őrséget terheli.
+51. § (1) A támogatási megállapodás felmondása esetén – ha az adós a tartozását a felmondástól számított tizenöt napon belül nem fizeti meg – az Országgyűlési Őrség köteles az igény érvényesítését kezdeményezni.
 
-51. § (1) A támogatást a megállapodásban megjelölt időponttól kezdődően havonta egyenlő részletekben kell visszafizetni
+(2) Az adósnak az (1) bekezdésben megállapított határidőn belül benyújtott írásbeli kérelmére indokolt esetben az állományilletékes parancsnok – a tartozás mielőbbi kiegyenlítése érdekében – az egyösszegű visszafizetés határidejét egy ízben három hónappal meghosszabbíthatja.
 
-a) vásárlás, építés vagy csere alkalmával legfeljebb tíz év,
+(3) Az adósnak az (1) bekezdésben megállapított határidőn belül benyújtott írásbeli kérelmére rendkívül indokolt esetben – különös méltánylást érdemlő körülmények esetén, a tartozás mielőbbi kiegyenlítése érdekében – az Országgyűlési Őrség megállapodást köthet a tartozás havi részletekben történő megfizetésére.
 
-b) korszerűsítés esetén legfeljebb négy év
+(4) A (3) bekezdés szerinti megállapodásban a havonta térítendő összeget úgy kell megállapítani, hogy az a felszámított kamatot és kezelési költséget is fedezze. A tartozás visszafizetésének időtartama nem lehet hosszabb az eredeti megállapodásban rögzített futamidő lejártánál.
 
-alatt.
-
-(2) A törlesztés futamidejét úgy kell megállapítani, hogy a havi törlesztő részlet összege ne haladja meg a hivatásos állomány tagjának a kölcsön folyósítási időpontjában megállapított rendszeres nettó jövedelmének 35%-át.
-
-(3) A törlesztés havi összegét 10 000 Ft-nál kisebb összegben meghatározni nem lehet.
+(5) El kell utasítani annak az adósnak a (2) és a (3) bekezdésben foglaltakra irányuló kérelmét, akinek szolgálati viszonya bíróság által jogerősen kiszabott végrehajtható szabadságvesztés büntetése miatt szűnt meg.

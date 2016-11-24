@@ -1,3 +1,5 @@
+## 57. § A méltányolható lakásigény mértékét a lakáscélú támogatásokról szóló jogszabály határozza meg.
+
 ## 9/A.[^22] Megtérítési kötelezettség
 
 57/A. § (1) A Hszt. 100. §-ában foglaltak alkalmazásában tanulmányi támogatásnak minősülő pénzbeli juttatás különösen:

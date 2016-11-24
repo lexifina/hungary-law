@@ -1,7 +1,5 @@
-41. § (1) A támogatás összege – a rendelkezésre álló kerettől függően –
+## 40. § A kijelölt szervezeti elem a munkáltatói kölcsön iránti kérelmekben foglaltak jogszerűségét a beérkezés sorrendjében vizsgálja meg, és a 32–33. §-ban foglaltak alapján megállapítja a munkáltatói kölcsön összegét, valamint a 37. §-ban foglaltak figyelembevételével megállapítja az elbírálás sorrendjét.
 
-a) vásárlás, csere vagy építés esetén legfeljebb 4 000 000 Ft,
+41. § (1) A kijelölt szervezeti elem javaslatát továbbítja a döntésre jogosult vezetőnek.
 
-b) korszerűsítés esetén legfeljebb 1 000 000 Ft.
-
-(2) A támogatás összege a 40. §-ban meghatározott ingatlanra eső építési költség vagy vételár – csere esetén az értékkülönbözet – 1/3-át, a korszerűsítési költség 2/3-át nem haladhatja meg.
+(2) A kérelem elbírálására az állományilletékes parancsnok jogosult.

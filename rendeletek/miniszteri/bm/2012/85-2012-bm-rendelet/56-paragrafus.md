@@ -1,17 +1,7 @@
-## 55. § Ha a hivatásos állomány tagja több, mint három havi törlesztő részlettel – vagy késedelmi kamatfizetési kötelezettség esetén a kamat megfizetésével – késedelembe esik tekintet nélkül arra, hogy az az egymást követő hónapokra esik-e, a fennálló teljes tartozását egy összegben köteles megfizetni, az Országgyűlési Őrség által meghatározott időtartamon belül.
+## 55. § Ha a hivatásos állomány tagja más rendvédelmi szervhez kerül áthelyezésre – az 52. § (1) bekezdésben foglalt esetet kivéve –, fennálló tartozását változatlan feltételek mellett az Országgyűlési Őrség részére teljesíti, aki az áthelyezéssel egyidejűleg a munkáltatói kölcsön iratanyagának másolatával tájékoztatja az új munkáltatót.
 
-## 56. § A támogatás még vissza nem térített részét egy összegben vissza kell fizetni, ha a támogatással épített, vásárolt, felújított vagy korszerűsített lakást a támogatásban részesített
+56. § (1) A hivatásos állomány munkáltatói kölcsönben részesült tagja szolgálati viszonyának megszűnése esetén – írásbeli kérelemre – az Országgyűlési Őrség hozzájárulásával a hivatásos állomány tagjának házastársa vagy élettársa a fennálló tartozás teljesítését változatlan feltételekkel átvállalhatja, ha az Országgyűlési Őrséggel szolgálati viszonyban áll és a 27. §-ban foglalt feltételeknek megfelel.
 
-a) másik, a tulajdonába kerülő lakás vásárlása nélkül elidegeníti,
+(2) Házastársi vagy élettársi vagyonközösség megszűnése esetén írásbeli kérelemre a lakásban maradó volt házastárs vagy élettárs a kölcsöntartozást az Országgyűlési Őrség hozzájárulásával vállalhatja át, ha a 27. §-ban és 28. §-ban foglalt feltételeknek megfelel.
 
-b) másik, a tulajdonába kerülő lakás építése vagy vásárlása érdekében elidegeníti, de az új lakás szobaszáma meghaladja a lakásigénye méltányolható mértékének a felső határát,
-
-c) javára kikötött értékkülönbözettel elcseréli,
-
-d) részben, vagy egészben nem lakás céljára hasznosítja, továbbá a lakást másnak lakás, vagy fizetővendéglátás céljára bérbe adja,
-
-e) úgy vásárolta meg, hogy a családtagja lakástulajdonának, vagy a lakásra vonatkozó bérleti jogának a megszüntetését vállalta a támogatásról kötött megállapodásban, de a tulajdonjog vagy a bérleti jog ennek ellenére a megszüntetésre vállalt határidőn túl még fennáll,
-
-f) úgy vásárolta meg, hogy nem a valóságnak megfelelően nyilatkozott a támogatás elbírálásához szükséges adatokról,
-
-g) nem a megállapodásban megjelölt célra használta fel.
+(3) A munkáltatói kölcsön átvállalása új munkáltatói kölcsön felvételének minősül.

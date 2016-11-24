@@ -1,3 +1,15 @@
-30. § (1) A lakásigény mértéke, a lakáshelyzet, a vagyoni feltételek és a család jövedelmi helyzete – mint együttes feltételek – szempontjából a hivatásos állomány tagját, valamint azon családtagot lehet figyelembe venni, akit a hivatásos állomány tagja a kérelmében megjelöl. A hivatásos állomány tagjánál és az általa megjelölt családtagnál valamennyi felsorolt feltételt vizsgálni kell.
+## 29. § A 27. §-ban meghatározott feltételek fennállása esetén is csak az a lakásépítés, lakásvásárlás, lakásbővítés és lakáskorszerűsítés támogatható, amely abban a városban, községben vagy annak 60 km-es körzetében valósul meg, ahol a hivatásos állomány tagjának szolgálati helye van.
 
-(2) Együttlakó családtagnak minősül az, aki a támogatás iránti kérelem benyújtását megelőző egy évben azonos lakhelyen vagy lakcímen, életvitelszerűen a hivatásos állomány tagjával együtt lakik, ideértve a hivatásos állomány tagjának egy évnél fiatalabb gyermekét is.
+## 30. § Nem lehet munkáltatói kölcsönt nyújtani
+
+a) ha a munkáltatói kölcsön a személyi jövedelemadóról szóló, az elbíráláskor hatályos jogszabályban meghatározott adómentességet biztosító feltételektől eltérne,
+
+b) annak a részére, aki a meglévő lakástulajdonát elajándékozta,
+
+c) az állami, önkormányzati bérlakásnak a bérlője, vételi vagy elővásárlási jogra jogosultja általi megvásárlásához, bővítéséhez, korszerűsítéséhez,
+
+d) nem lakás céljára szolgáló épület építéséhez, vásárlásához, bővítéséhez, korszerűsítéséhez,
+
+e) annak, aki a kölcsönkérelemben szándékosan valótlan adatot közöl vagy valamely jelentős tényt, körülményt elhallgat, valamint
+
+f) lakásvásárlás esetén, ha az eladó az igénylőnek a Polgári Törvénykönyv szerinti közeli hozzátartozója és élettársa, kivéve a 27. § (1) bekezdés d) pontjában foglalt esetet.

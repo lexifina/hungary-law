@@ -1,17 +1,7 @@
-26. § (1) Lakhatási támogatás Magyarországon található lakás
+26. § (1) Az Országgyűlési Őrség lakhatási támogatásként
 
-a) vásárlásához,
+a) a hivatásos állomány tagja részére lakáscélú kamatmentes munkáltatói kölcsönt (a továbbiakban: munkáltatói kölcsön) nyújthat, vagy
 
-b) építéséhez vagy bővítéséhez,
+b) a vele szolgálati viszonyt létesítő személy volt munkáltatójával szemben fennálló kamatmentes munkáltatói kölcsönét – háromoldalú megállapodás keretében – átvállalhatja.
 
-c) korszerűsítéséhez, vagy
-
-d) tulajdonjogának megszerzéséhez
-
-nyújtható.
-
-(2)[^21] Lakásvásárlás esetén támogatás nem igényelhető, ha az eladó a hivatásos állomány tagjának a Polgári törvénykönyvről szóló 2013. évi V. törvény 8:1. § (1) bekezdés 1. pontja szerinti közeli hozzátartozója vagy élettársa, kivéve a közös tulajdon megszüntetésének esetét, ide nem értve a házasság vagy az élettársi kapcsolat fennállása alatt a házastársak vagy élettársak között fennálló közös tulajdon megszüntetését.
-
-(3) Támogatás csak egy jogcímen adható.
-
-[^21]: A 26. § (2) bekezdése a 22/2014. (III. 12.) BM rendelet 8. §-a szerint módosított szöveg.
+(2) A lakhatási támogatások fedezetének évente felhasználható összegét az Országgyűlési Őrség parancsnoka az Országgyűlés Hivatala főigazgatójának egyetértésével határozza meg.

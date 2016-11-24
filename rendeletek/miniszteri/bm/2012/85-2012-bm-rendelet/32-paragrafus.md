@@ -1,23 +1,11 @@
-32. § (1) A méltányolható lakásigény mértéke az igénylő és a családtagok számától függően:
+## 31. § Nem nyújtható munkáltatói kölcsön a hivatásos állomány tagjának, ha ő vagy együttköltöző családtagja ezen alcím szerint már munkáltatói kölcsönben részesült, ha a munkáltatói kölcsön visszafizetése még folyamatban van, vagy a munkáltatói kölcsön teljes visszafizetése óta két évnél rövidebb idő telt el.
 
-a) egy vagy két személy esetében legalább egy és legfeljebb három lakószoba,
+32. § (1) A munkáltatói kölcsön összegét
 
-b) három személy esetében legalább másfél és legfeljebb három és fél lakószoba,
+a) az építési, bővítési vagy korszerűsítési költség, illetve
 
-c) négy személy esetén legalább kettő és legfeljebb négy lakószoba,
+b) a vételár – csere esetén a hivatásos állomány tagja által fizetendő értékkülönbözet –
 
-d) négynél több személy esetén
+## alapján kell megállapítani.
 
-da) minden további személy esetében fél szobával nő a c) pontban meghatározott méltányolható lakásigény mértékének felső határa,
-
-db) három vagy több gyermeket nevelő család esetében minden további személy esetében egy szobával nő a méltányolható lakásigény mértékének felső határa.
-
-(2) Az együttlakó fiatal gyermektelen házaspár esetében a méltányolható lakásigény felső határának meghatározásánál legfeljebb két születendő gyermeket, egygyermekes fiatal házaspárok esetén további egy születendő gyermeket is számításba kell venni.
-
-(3) Az (1) bekezdés alkalmazásánál a padlóburkolat jellegétől függetlenül
-
-a) félszobának minősül az a helyiség, melynek hasznos alapterülete a 6 m2-t meghaladja, de nem haladja meg a 12 m2-t,
-
-b) szobának minősül az a helyiség, amelynek alapterülete meghaladja a 12 m2-t, de – a meglévő, kialakult állapotot kivéve – legfeljebb 30 m2, amennyiben ennél nagyobb, úgy két szobaként kell számításba venni.
-
-c) ha a nappali szoba, az étkező és a konyha osztatlan közös térben van, és hasznos alapterületük együttesen meghaladja a 60 m2-t, úgy két szobaként kell figyelembe venni.
+(2) Az (1) bekezdésben meghatározott költségből vagy vételárból le kell vonni a lakáshoz tartozó műhely, üzlet-, raktár-, iroda- vagy garázshelyiségre eső költséget vagy vételárrészt.

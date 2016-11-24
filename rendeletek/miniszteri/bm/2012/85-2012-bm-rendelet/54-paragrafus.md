@@ -1,9 +1,1 @@
 ## 53. § A hivatásos állomány tagjának elhalálozása esetén az Országgyűlési Őrség megállapodhat az ingatlan örökösével abban, hogy az örökös a visszafizetési kötelezettségnek az Országgyűlési Őrség és a hivatásos állomány elhunyt tagja közötti megállapodásban foglalt feltételek szerint tesz eleget.
-
-54. § (1) Ha a hivatásos állomány tagjának szolgálati viszonya a megállapodás keltétől számított három éven belül megszűnik, a hivatásos állomány tagja a még fennálló tartozását egy összegben köteles visszafizetni.
-
-(2) Amennyiben a hivatásos állomány tagjának szolgálati viszonya a megállapodás keltétől számított három év után, a támogatás teljes összegének visszafizetése előtt szűnik meg, a hivatásos állomány tagja a még fennálló tartozását a támogatásról kötött megállapodás szerint köteles visszafizetni, azzal, hogy a szolgálati viszony megszűnését követően a hivatásos állomány tagja a megállapított törlesztő részlet kétszeresének megfelelő összeget köteles havonta megfizetni.
-
-(3) Ha a hivatásos állomány tagjának szolgálati viszonya az Országgyűlési Őrség átszervezése miatt vagy nyugdíjazás címén szűnik meg, a tartozás visszafizetését a támogatásról kötött megállapodás eredeti feltételei szerint úgy kell teljesíteni, mintha a szolgálati viszony még fennállna.
-
-(4) Ha a hivatásos állomány tagja a szolgálati viszonyának megszüntetésével egyidejűleg új foglalkoztatási jogviszonyt létesít, a hivatásos állomány tagja az Országgyűlési Őrséggel fennálló szolgálati viszonyának megszűnését megelőzően egyeztetheti a még vissza nem fizetett támogatásnak az új munkáltató által történő átvállalását. Amennyiben az új munkáltató a még fennálló tartozás megfizetését vállalja, a fizetési kötelezettséget a hivatásos állomány tagja, az Országgyűlési Őrség és az új munkáltató megállapodásában kell rögzíteni.
