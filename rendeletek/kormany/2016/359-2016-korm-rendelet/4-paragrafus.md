@@ -1,3 +1,5 @@
-## 3. § A 256/2013. (VII. 5.) Korm. rendelet 4. § (1) bekezdésében az „Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP)” szövegrész helyébe az „OEP” szöveg lép.
+## 1–3. §[^1]
 
 ## 2. Az egészségügyi felsőfokú szakirányú szakképzési rendszerről, a Rezidens Támogatási Program ösztöndíjairól, valamint a fiatal szakorvosok támogatásáról szóló 162/2015. (VI. 30.) Korm. rendelet módosítása
+
+[^1]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,4 +1,4 @@
-## 7. § Hatályát veszti az egészségügyi ágazatban foglalkoztatottak bérfejlesztéséről, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 238/2016. (VIII. 16.) Korm. rendelet.
+## 7. §[^9]
 
 ## 4. Záró rendelkezések
 
@@ -7,3 +7,5 @@
 (2) A 6. § b), c), e), f) és g) pontja 2022. november 1-jén lép hatályba.
 
 (3) A 6. § a), d) és h) pontja 2023. április 1-jén lép hatályba.
+
+[^9]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
