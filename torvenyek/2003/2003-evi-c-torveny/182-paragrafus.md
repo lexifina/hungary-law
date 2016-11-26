@@ -2,7 +2,7 @@
 
 182. § (1) Felhatalmazást kap a Kormány arra, hogy rendelettel állapítsa meg:
 
-a) az elektronikus hírközlési szolgáltató által terrorcselekmény bekövetkezését követően vagy annak veszélye esetén kötelezően biztosítandó szolgáltatások részletszabályait.
+a)
 
 b) az elektronikus hírközlés különleges jogrend idejére irányuló felkészítésének rendszerét, az államigazgatási szervek feladatait, működésük feltételeinek biztosítását;
 
@@ -14,7 +14,7 @@ e) az e törvény szerinti egyablakos információs pontot működtető szervet,
 
 f) a nagy sebességű elektronikus hírközlő hálózati elemek építési munkáinak összehangolási kötelezettsége alól mentesülő építési munkák körét, valamint a fizikai infrastruktúrával kapcsolatos átláthatóságra, a közműhálózatok fejlesztésének átláthatóságára, és az épületen belüli fizikai infrastruktúra kiépítésére vonatkozó rendelkezések alkalmazása alóli kivételeket.
 
-(2) Felhatalmazást kap a rendészetért felelős miniszter, hogy rendeletben határozza meg azon szervek körét, amelyek által használt hívószámok tekintetében a folyamatos működést az elektronikus hírközlési szolgáltató terrorcselekmény bekövetkezése vagy annak veszélye esetén is biztosítani köteles.
+(2)
 
 (3) Felhatalmazást kap az Elnök arra, hogy rendelettel állapítsa meg:
 
