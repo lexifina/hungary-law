@@ -12,7 +12,7 @@
 
 5. használaton kívüli égéstermék-elvezető: olyan égéstermék-elvezető, amelynek összes nyílását befalazták vagy nem éghető anyaggal tömören, vagy egyéb nem oldható szerelési technológiával (kötéssel) lezárták, valamint a lezárás megfelelőségét a kéményseprő-ipari szerv vagy a kéményseprő-ipari szolgáltató által kiállított dokumentum igazolja;
 
-6. időlegesen használt ingatlan: olyan ingatlan, amelyen lakóhelyet vagy tartózkodási helyet nem létesítettek, szálláshely szolgáltatási tevékenységet nem folytatnak, és az ingatlanban életvitelszerűen nem tartózkodik senki, és amelynek időlegesen használt jellegét a kéményseprő-ipari szervnek az ingatlan tulajdonosa jogszabályban meghatározottak szerint bejelentette;
+6. időlegesen használt ingatlan: olyan ingatlan, amelyen lakóhelyet vagy tartózkodási helyet nem létesítettek, szálláshely szolgáltatási tevékenységet nem folytatnak, és az ingatlanban életvitelszerűen nem tartózkodik senki, és amelynek időlegesen használt jellegét a kéményseprő-ipari szervnek, a kéményseprő-ipari szolgáltatónak az ingatlan tulajdonosa jogszabályban meghatározottak szerint bejelentette;
 
 7. ingatlan használója: az ingatlant ténylegesen használó személy, ennek hiányában vagy ha a használó személye nem állapítható meg, az ingatlan tulajdonosa;
 

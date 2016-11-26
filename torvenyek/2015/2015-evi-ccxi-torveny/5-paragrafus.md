@@ -10,15 +10,15 @@ b) tartalék égéstermék-elvezetőt tart fenn.
 
 a) a kéményseprő-ipari szerv vagy a kéményseprő-ipari szolgáltató 2. § (4) és (5) bekezdésében meghatározott feladatainak ellátását lehetővé tenni és az ehhez szükséges feltételeket biztosítani;
 
-b) a kéményseprő-ipari szervnek a tevékenysége során megadni a családi és utónevét, a lakóhelyének, tartózkodási és értesítési helyének címét (a továbbiakban: személyes adat), az ingatlan címadatait, valamint a gazdálkodó szervezet nevét, székhelyét, telephelyét, fióktelepét, képviselőjének nevét, cégjegyzékszámát vagy egyéb nyilvántartási számát;
+b) a kéményseprő-ipari szervnek, a kéményseprő-ipari szolgáltatónak a tevékenysége során megadni a családi és utónevét, a lakóhelyének, tartózkodási és értesítési helyének címét (a továbbiakban: személyes adat), az ingatlan címadatait, valamint a gazdálkodó szervezet nevét, székhelyét, telephelyét, fióktelepét, képviselőjének nevét, cégjegyzékszámát vagy egyéb nyilvántartási számát;
 
-c) a kéményseprő-ipari szolgáltatónak a tevékenysége során az ingatlan címadatait megadni;
+c)
 
 d) a 3. § (2) és (4) bekezdésében meghatározott esetben a tüzelőberendezés és az égéstermék-elvezető üzemeltetését azonnal szüneteltetni;
 
 e) a 3. § (2) bekezdésébe nem tartozó szabálytalanságot legkésőbb a következő ellenőrzés időpontjáig megszüntetni;
 
-f) az időszakos ellenőrzés 3. § (1) bekezdésben meghatározott második időpontjától számított harminc napon belül a kéményseprő-ipari szerv tevékenységét – külön egyeztetést követően – igénybe venni, ha a kéményseprő-ipari szerv a második időpontban sem tudta az időszakos ellenőrzést elvégezni;
+f) az időszakos ellenőrzés 3. § (1) bekezdésben meghatározott második időpontjától számított harminc napon belül a kéményseprő-ipari szerv, a 10. § (3) bekezdés szerinti szolgáltató tevékenységét – külön egyeztetést követően – igénybe venni, ha a kéményseprő-ipari szerv, a 10. § (3) bekezdés szerinti szolgáltató a második időpontban sem tudta az időszakos ellenőrzést elvégezni;
 
 g) a jogszabályi kötelezés alapján felszerelt szén-monoxid-érzékelő berendezés
 

@@ -26,7 +26,7 @@ c) az (1) bekezdés b) pontja szerinti esetben rendkívüli felmondással.
 
 (9) A közszolgáltatási szerződés megszűnése után kéményseprő-ipari tevékenység kizárólag e törvény előírásai szerint végezhető.
 
-(10) Az (1) bekezdés a) pontja szerinti esetben a helyi önkormányzat a központi költségvetésből igényelheti a közszolgáltatás 2015. július 1-i állapot szerinti közszolgáltatási díjának megfelelő összeget. Az igényelhető összeget a közszolgáltatási díjból befolyó bevétel csökkenti.
+(10) Az (1) bekezdés a) pontja szerinti esetben a helyi önkormányzat a központi költségvetésből igényelheti a közszolgáltatás 2015. július 1-i állapot szerinti közszolgáltatási díjának megfelelő összeget, ha a (3) bekezdés szerinti szolgáltató a kéményseprő-ipari tevékenységet e törvény alapján térítésmentesen végezte. Az igényelhető összeget a közszolgáltatási díjból befolyó bevétel csökkenti.
 
 (11) A közérdekű szolgáltató – az egyes közszolgáltatások ellátásáról és az ezzel összefüggő törvénymódosításokról szóló 2013. évi CXXXIV. törvény alapján – átmeneti ellátásra történő kijelölésével kapcsolatos hatósági határozatok 2016. július 1-jén hatályukat vesztik.
 
@@ -54,4 +54,4 @@ az illetékes kéményseprő-ipari szerv részére – a (14) bekezdésben fogla
 
 (16) Az (1) bekezdés b) pontja szerinti esetben 2016. július 1-ig a kéményseprő-ipari tevékenységet a közszolgáltató látja el.
 
-(17) A kéményseprő-ipari szerv e törvény hatálybalépésétől nyilatkoztathatja az ingatlan használóját a helyszínen a 2. § (1) bekezdésben foglaltakról, az 5. § (2) bekezdés b) pontjában meghatározott adatokról. A kéményseprő-ipari szerv 2016. július 1-jéig, azt követően pedig a nyilatkozat-felvételt követő harminc napon belül a 2. § (1) bekezdés b) pontjába tartozó ingatlanok használóját és a kéményseprő-ipari szolgáltatót értesíti.
+(17) A kéményseprő-ipari szerv, a 10. § (3) bekezdés szerinti szolgáltató e törvény hatálybalépésétől nyilatkoztathatja az ingatlan használóját a helyszínen a 2. § (1) bekezdésben foglaltakról, az 5. § (2) bekezdés b) pontjában meghatározott adatokról. A kéményseprő-ipari szerv 2016. július 1-jéig, azt követően pedig a nyilatkozat-felvételt követő harminc napon belül a 2. § (1) bekezdés b) pontjába tartozó ingatlanok használóját és a kéményseprő-ipari szolgáltatót értesíti.
