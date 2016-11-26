@@ -31,3 +31,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-68-00-00
 | 2016-06-15 | 2016. évi XXIX. törvény | 1997-68-00-00.50 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 1997-68-00-00.51 |
 | 2016-10-21 | 2016. évi CIV. törvény | 1997-68-00-00.52 |
+| 2016-11-26 | 2016. évi CXXI. törvény | 1997-68-00-00.53 |
