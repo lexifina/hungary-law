@@ -18,7 +18,7 @@ g) a végelszámolás, a felszámolás, a kényszertörlési eljárás kezdő id
 
 h) a részesedés megszerzésének napját megelőző nappal, ha a jogi személyben egyéni cégben 50 százalékot meghaladó szavazati jogot biztosító részesedést szerez olyan magánszemély (összesen 50 százalékot meghaladó szavazati jogot biztosító részesedést szereznek olyan magánszemélyek), akivel (akikkel) a naptári évben korábban nem állt tagi jogviszonyban; az öröklés esetére e rendelkezést nem kell alkalmazni;
 
-i) a változás bekövetkezésének napját megelőző nappal, ha az egyéni cég tagjának korlátlan mögöttes felelőssége korlátolttá válik;
+i)
 
 j) a kisadózó vállalkozások tételes adója szerinti adóalanyiság létrejötte napját megelőző nappal;
 

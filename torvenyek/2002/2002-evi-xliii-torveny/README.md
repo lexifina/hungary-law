@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2002-43-00-00
 | 2014-03-15 | 2013. évi CCLII. törvény | 2002-43-00-00.30 |
 | 2015-01-01 | 2014. évi LXXIV. törvény | 2002-43-00-00.31 |
 | 2016-01-01 | 2015. évi CI. törvény | 2002-43-00-00.32 |
+| 2016-11-26 | 2016. évi CXXV. törvény | 2002-43-00-00.33 |

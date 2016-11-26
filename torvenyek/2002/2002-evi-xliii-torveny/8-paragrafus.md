@@ -1,12 +1,12 @@
 ## Az eva alapja megállapításának különös szabályai
 
-8. § (1) A számvitelről szóló törvény hatálya alá nem tartozó betéti társaság, közkereseti társaság és korlátlan mögöttes felelősséggel működő egyéni cég adóalany esetében az eva alapjának megállapításakor az összes bevételt csökkenti az adóévben megszerzett olyan bevétel, amelyet
+8. § (1) A számvitelről szóló törvény hatálya alá nem tartozó betéti társaság, közkereseti társaság és egyéni cég adóalany esetében az eva alapjának megállapításakor az összes bevételt csökkenti az adóévben megszerzett olyan bevétel, amelyet
 
 a) az adóévet megelőző bármely üzleti évre vonatkozóan a számvitelről szóló törvény rendelkezései szerint a mérlegben az aktív időbeli elhatárolások között mutatott ki;
 
 b) a bejelentés üzleti évére (adóévére) vonatkozóan a számvitelről szóló törvény rendelkezései szerint az egyszerűsített mérlegben kimutatott vevőkkel szembeni követelés alapján számolt el.
 
-(2) A számvitelről szóló törvény hatálya alá nem tartozó betéti társaság, közkereseti társaság és korlátlan mögöttes felelősséggel működő egyéni cég adóalany esetében a bejelentés adóévét követő első adóévben az eva alapjának megállapításakor az összes bevételt növeli az a bevétel, amelyet az adóévet megelőző üzleti évre vonatkozóan a számvitelről szóló törvény rendelkezései szerint készített beszámoló
+(2) A számvitelről szóló törvény hatálya alá nem tartozó betéti társaság, közkereseti társaság és egyéni cég adóalany esetében a bejelentés adóévét követő első adóévben az eva alapjának megállapításakor az összes bevételt növeli az a bevétel, amelyet az adóévet megelőző üzleti évre vonatkozóan a számvitelről szóló törvény rendelkezései szerint készített beszámoló
 
 a) mérlegében a passzív időbeli elhatárolások között,
 

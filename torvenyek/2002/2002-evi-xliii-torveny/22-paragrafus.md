@@ -1,6 +1,6 @@
 ## Vegyes rendelkezések
 
-22. § (1) A számvitelről szóló törvény hatálya alá nem tartozó betéti társaság, közkereseti társaság és korlátlan mögöttes felelősséggel működő egyéni cég adóalanyra, a gazdasági társaságokra vonatkozóan más jogszabályban meghatározott, a számvitelről szóló törvény szerinti beszámolóval, mérleggel, vagyonnal, saját tőkével, eredménnyel, valamint az osztalékkal kapcsolatos előírások nem vonatkoznak.
+22. § (1) A számvitelről szóló törvény hatálya alá nem tartozó betéti társaság, közkereseti társaság és egyéni cég adóalanyra, a gazdasági társaságokra vonatkozóan más jogszabályban meghatározott, a számvitelről szóló törvény szerinti beszámolóval, mérleggel, vagyonnal, saját tőkével, eredménnyel, valamint az osztalékkal kapcsolatos előírások nem vonatkoznak.
 
 (2) Az adóalany nem határozhatja el átalakulását, egyesülését és szétválását, valamint jegyzett tőkéjének a jegyzett tőkén felüli saját tőke terhére történő felemelését.
 
