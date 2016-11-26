@@ -1,10 +1,10 @@
-6. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^50]
+6. melléklet a 197/2014. (VIII. 1.) Korm. rendelethez[^51]
 
 ## A gyártó nyilvántartásba vételéhez szükséges adatok
 
 1. A gyártó neve, KÜJ-azonosítója, KSH statisztikai számjele, székhelye;
 
-2. A meghatalmazott képviselő (ha van) neve, címe, elérhetősége[^51];
+2. A meghatalmazott képviselő (ha van) neve, címe, elérhetősége[^52];
 
 3. A gyártó nemzeti adóazonosító száma, ennek hiányában a közösségi vagy nemzetközi adószáma;
 
@@ -28,5 +28,5 @@ d) állami hulladékgazdálkodást közvetítő szervezeten keresztül történ�
 
 9. Az értékesítés módja.
 
-[^50]: A 6. melléklet a 310/2014. (XII. 11.) Korm. rendelet – 368/2014. (XII. 30.) Korm. rendelet 12. § (6) bekezdés c) pontja szerint módosított – 19. § (6) bekezdésével megállapított szöveg.
-[^51]: Külföldi székhelyű gyártó esetén kitöltése kötelező, és ahhoz csatolni kell a meghatalmazás elfogadását tartalmazó okiratot.
+[^51]: A 6. melléklet a 310/2014. (XII. 11.) Korm. rendelet – 368/2014. (XII. 30.) Korm. rendelet 12. § (6) bekezdés c) pontja szerint módosított – 19. § (6) bekezdésével megállapított szöveg.
+[^52]: Külföldi székhelyű gyártó esetén kitöltése kötelező, és ahhoz csatolni kell a meghatalmazás elfogadását tartalmazó okiratot.
