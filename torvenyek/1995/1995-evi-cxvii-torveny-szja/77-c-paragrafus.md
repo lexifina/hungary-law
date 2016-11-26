@@ -98,7 +98,7 @@ e) a (8) bekezdés g) pontja szerinti esetben a kibocsátó jogutód nélküli m
 
 f) a (8) bekezdés h) pontja szerinti esetben a jegyzett tőke leszállításának a napja, ha az értékpapírt a program szervezője bocsátotta ki, egyébként a magánszemély tájékoztatási kötelezettsége teljesítésére nyitva álló határidő utolsó napja.
 
-(12) A magánszemély – a (8) és (11) bekezdésben foglaltaktól eltérően – nem szerez jövedelmet, ha az értékpapírt felülbélyegzése, kicserélése, vagy kedvezményezett részesedéscsere keretében történő átruházása céljából, vagy a kibocsátó átalakulása miatt veszi fel, feltéve, hogy
+(12) A magánszemély – a (8) és (11) bekezdésben foglaltaktól eltérően – nem szerez jövedelmet, ha az értékpapírt felülbélyegzése, kicserélése, vagy kedvezményezett részesedéscsere keretében történő átruházása céljából, vagy a kibocsátó átalakulása, egyesülése, szétválása miatt veszi fel, feltéve, hogy
 
 a) az említett jogügylet révén kizárólag értékpapírt szerez,
 

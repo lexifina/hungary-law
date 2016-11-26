@@ -162,7 +162,7 @@ b) a központi költségvetésből jövedelempótlék vagy annak megfelelő jogc
 
 4.10. az egészségügyi és szociális intézményben a betegek, a gondozottak részére kifizetett munkaterápiás jutalom, valamint a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitációs díj;
 
-4.11. a szakképző iskolai tanulónak, illetve felsőfokú szakképzésben részt vevő hallgatónak tanulószerződés, illetve hallgatói szerződés alapján, valamint szakképzésben tanulószerződés nélkül részt vevő tanulónak a szorgalmi idő befejezését követő összefüggő szakmai gyakorlat időtartamára külön jogszabály szerint kötelezően kifizetett díjazás, valamint a tanulószerződéses tanulót jogszabály alapján megillető kiegészítő pénzbeli juttatás, továbbá a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény alapján a Nemzeti Foglalkoztatási Alap képzési alaprésze terhére folyósított szakiskolai tanulmányi ösztöndíj;
+4.11. a szakképző iskolai tanulónak, a felsőfokú szakképzésben, felsőoktatási szakképzésben részt vevő hallgatónak tanulószerződés, hallgatói munkaszerződés alapján és a szakképzésben tanulószerződés nélkül részt vevő tanulónak a szorgalmi idő befejezését követő összefüggő szakmai gyakorlat időtartamára külön jogszabály szerint kötelezően kifizetett díjazás, továbbá a tanulószerződéses tanulót jogszabály alapján megillető kiegészítő pénzbeli juttatás, továbbá a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény vagy a szakképzésről szóló törvény alapján a szakképző iskolai tanulónak nyújtott ösztöndíj;
 
 4.12. a nemzeti felsőoktatási törvény szerinti
 
@@ -220,7 +220,7 @@ b) a munkáltató a szolgáltatást bármely, vagy – ha a pályázat a jogosul
 
 c) a szolgáltatás igénybevétele nem minősül a tevékenység ellenértékének,
 
-azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekintet alá a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatóhoz kirendelt munkavállaló, az előbbiek és/vagy az elhunyt munkavállaló közeli hozzátartozója, a szakképző iskolai tanuló, a kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató, a nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló, valamint az utóbbi magánszemély közeli hozzátartozói.
+azzal, hogy a rendelkezés alkalmazásában a munkavállalóval esik egy tekintet alá a Munka Törvénykönyvéről szóló törvény előírásai szerint a munkáltatónál másik munkáltató utasítása alapján a munkaszerződésében rögzített munkahelytől eltérő helyen foglalkoztatott munkavállaló, az előbbiek és/vagy az elhunyt munkavállaló közeli hozzátartozója, a szakképző iskolai tanuló, a kötelező szakmai gyakorlaton lévő hallgató, duális képzésben hallgatói munkaszerződés alapján részt vevő hallgató, a nyugdíjban részesülő magánszemély – ha nyugdíjazását megelőzően a munkáltatónál vagy annak jogelődjénél volt munkavállaló, valamint az utóbbi magánszemély közeli hozzátartozói.
 
 4.26. a szakiskolai és szakközépiskolai képzésbe történő bekapcsolódást célzó, a társadalmi felzárkózást elősegítő „Út a szakmaválasztáshoz” program keretében, európai uniós forrás terhére adományozott tanulói ösztöndíj.
 
@@ -312,7 +312,7 @@ c) a baleset- és betegségbiztosítás alapján járó jövedelmet pótló szol
 
 7. Egyéb indokkal adómentes:
 
-7.1. a magánszemély által örökség, hagyomány vagy meghagyás címén megszerzett vagyoni érték – ide nem értve az örökösök által az örökölt jog érvényesítése révén megszerzett jövedelmet azzal, hogy az ilyen módon megszerzett bevételből a jövedelem megállapítása során levonható a jognak az illeték megállapítása során figyelembe vett része –, a magánszemély által más magánszeméllyel kötött tartási, életjáradéki vagy öröklési szerződés révén megszerzett vagyoni érték, valamint a nyugdíjban részesülő magánszemély által központi költségvetési szervvel vagy helyi önkormányzattal kötött tartási, életjáradéki vagy öröklési szerződés révén megszerzett vagyoni érték, továbbá a szövetkezet nyugdíjas tagjának a saját szövetkezetével kötött életjáradéki szerződés keretében a vagyonnevesítés során szerzett szövetkezeti üzletrésze átruházásából származó jövedelme, feltéve, hogy annak összege évente az átalakulás befejezésekor lezárt névérték egytized részét, de legfeljebb havonta a 10 ezer forintot nem haladja meg;
+7.1. a magánszemély által örökség, hagyomány vagy meghagyás címén megszerzett vagyoni érték – ide nem értve az örökösök által az örökölt jog érvényesítése révén megszerzett jövedelmet azzal, hogy az ilyen módon megszerzett bevételből a jövedelem megállapítása során levonható a jognak az illeték megállapítása során figyelembe vett része –, a magánszemély által más magánszeméllyel kötött tartási, életjáradéki vagy öröklési szerződés révén megszerzett vagyoni érték, valamint a nyugdíjban részesülő magánszemély által központi költségvetési szervvel vagy helyi önkormányzattal kötött tartási, életjáradéki vagy öröklési szerződés révén megszerzett vagyoni érték, továbbá a szövetkezet nyugdíjas tagjának a saját szövetkezetével kötött életjáradéki szerződés keretében a vagyonnevesítés során szerzett szövetkezeti üzletrésze átruházásából származó jövedelme, feltéve, hogy annak összege évente az átalakulás, egyesülés, szétválás befejezésekor lezárt névérték egytized részét, de legfeljebb havonta a 10 ezer forintot nem haladja meg;
 
 7.2. a magánszemély részére más magánszemély(ek) által ingyenesen vagy kedvezményesen juttatott (fizetett) vagyoni érték; nem alkalmazható e rendelkezés, ha a juttatás (a fizetés) a magánszemély vagy más által teljesített termékértékesítésre (vagyoni érték átengedésére), szolgáltatásnyújtásra tekintettel vagy azzal összefüggésben történik (így különösen nem adómentes a magánszemély által, hálapénz címén megszerzett vagyoni érték);
 
@@ -368,7 +368,15 @@ d) a c) pontban említett opciós jog érvényesítésekor a magánszemély ált
 
 7.20. lakóingatlanon alapított zálogjog fedezetével kötött, deviza alapú kölcsön (ideértve a deviza alapú, lakóingatlanra vonatkozó pénzügyi lízingszerződésből származó követelést is) adósa által teljesített, törvényben rögzített árfolyamon történő végtörlesztés miatt megszűnő kötelezettség;
 
-7.21. a pénzügyi intézmény által elengedett, a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzkölcsön nyújtásából, pénzügyi lízingszerződésből származó követelés (akkor is, ha az elengedés egyezség keretében történik) feltéve, hogy a követelés elengedésére a pénzügyi intézmény belső szabályzatában foglaltak alapján, az azonos helyzetben lévőket egyenlő elbánásban részesítő elv betartásával – független felek között – kerül sor;
+7.21. a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti pénzkölcsön nyújtásából, pénzügyi lízingszerződésből származó követelés elengedése (akkor is, ha az elengedés egyezség keretében történik) feltéve, hogy a követelés elengedésére
+
+a) belső szabályzatban foglaltak alapján, az azonos helyzetben lévőket egyenlő elbánásban részesítő elv betartásával, független felek között,
+
+b) a Magyar Nemzeti Bank mellett működő Pénzügyi Békéltető Testület előtti eljárás keretében megkötött egyezség alapján vagy
+
+c) a Magyar Nemzeti Banknak a fizetési késedelembe esett lakossági jelzáloghitelek helyreállításáról szóló ajánlása alapján, az adós fizetőképességének helyreállítása érdekében
+
+kerül sor.
 
 7.22. az az összeg, amelyet az otthonteremtési kamattámogatásról szóló kormányrendelet szerint a hátralékos adós magánszemély javára a hitelintézet elenged, feltéve, hogy a magánszemély a késedelmes jelzáloghitellel terhelt átruházott ingatlanának a vonatkozó adásvételi szerződés szerinti vételárát teljes egészében hátraléka törlesztésére fordítja.
 
@@ -572,7 +580,7 @@ a) korszerűsítés: a lakás komfortfokozatának növelése céljából víz-, 
 
 b) akadálymentesítés: a mozgáskorlátozott személy fogyatékossága jellegéből fakadó, a lakáshasználattal összefüggő életvitel nehézségeit csökkentő, a rendeltetésszerű használatot biztosító műszaki akadálymentesítési munkák elvégzése új lakóépületen vagy új lakáson, meglévő lakóépületen vagy használt lakáson;
 
-c) a méltányolható lakásigény mértéke: az együttköltöző, együttlakó családtagok számától függően
+c) a méltányolható lakásigény mértéke: az együtt költöző, együtt lakó családtagok számától függően
 
 ca) egy-két személy esetében: legfeljebb három lakószoba,
 
@@ -580,9 +588,9 @@ cb) három-négy személy esetében: legfeljebb négy lakószoba.
 
 Minden további személy esetében egy lakószobával nő a lakásigény mértéke.
 
-E rendelkezés alkalmazásában lakószoba az a helyiség, amelynek hasznos alapterülete meghaladja a 8 négyzetmétert, de – a meglévő, kialakult állapotot kivéve – legfeljebb 30 négyzetméter, legalább egy 2 méter széles – ajtó és ablak nélküli – falfelülettel rendelkezik. A 30 négyzetméternél nagyobb helyiséget két szobaként kell számításba venni. Ha a nappali szoba, az étkező és a konyha osztatlan közös térben van, és hasznos alapterületük együttesen meghaladja a 60 négyzetmétert, úgy két szobaként kell figyelembe venni.
+E rendelkezés alkalmazásában nem minősül lakószobának az a lakóhelyiség, amelynek hasznos alapterülete nem haladja meg a 8 négyzetmétert. A lakószoba – a meglévő, kialakult állapotot kivéve – legfeljebb 30 négyzetméter, legalább egy 2 méter széles – ajtó és ablak nélküli – falfelülettel rendelkező lakóhelyiség. A 30 négyzetméternél nagyobb lakóhelyiséget két szobaként kell számításba venni. Ha a nappali szoba, az étkező és a konyha osztatlan közös térben van, és hasznos alapterületük együttesen meghaladja a 60 négyzetmétert, úgy két szobaként kell figyelembe venni. A 8 négyzetméternél nagyobb, de 12 négyzetmétert meg nem haladó lakóhelyiségek esetében két ilyen lakóhelyiséget egy lakószobaként kell figyelembe venni, azzal, hogy ha az így kapott szobaszám nem egész szám, a szobaszámot lefelé kerekítve kell megállapítani.
 
-d) együttköltöző, együttlakó családtag: jövedelmüktől és életkoruktól függetlenül a támogatást igénylő munkavállaló Polgári Törvénykönyv szerinti közeli hozzátartozói a testvér kivételével, továbbá élettársa és annak közeli hozzátartozói a testvér kivételével, feltéve, hogy a lakáscélú munkáltatói támogatással, munkáltatói lakáscélú hitellel érintett lakásba együtt költöznek be vagy ott életvitelszerűen együtt laknak.
+d) együtt költöző, együtt lakó családtagok: a támogatást igénylő munkavállaló, továbbá jövedelmüktől és életkoruktól függetlenül a munkavállaló polgári törvénykönyv szerinti közeli hozzátartozói, házastársának közeli hozzátartozói, élettársa és annak közeli hozzátartozói, feltéve, hogy a lakáscélú munkáltatói támogatással, munkáltatói lakáscélú hitellel érintett lakásba együtt költöznek be vagy ott életvitelszerűen együtt laknak. Fiatal gyermektelen házaspár esetében a méltányolható lakásigény meghatározásánál együtt költöző, együtt lakó családtagként legfeljebb három születendő gyermeket, egy gyermekes fiatal házaspár esetében további két születendő gyermeket, két gyermekes fiatal házaspár esetében pedig további egy születendő gyermeket is számításba lehet venni. Fiatal a házaspár, ha a lakáscélú munkáltatói támogatás igénylésekor a házastársak egyike sem töltötte be a 40. életévét.
 
 9.4. A termőföld bérbeadásából származó jövedelem adómentességére vonatkozó szabályok
 

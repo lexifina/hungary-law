@@ -12,7 +12,7 @@ b) kifizető hiányában a magánszemély ügyletenként nyilvántartja.
 
 (4)
 
-(5) A (2) bekezdés rendelkezésétől eltérően az (1)–(2) bekezdés szerint megállapított jövedelem jogcímét és az adófizetési kötelezettség mértékét a felek (a bevételt szerző magánszemély és a vele az ügyletben szerződő személy, valamint az említett személyek és más személy) között egyébként fennálló jogviszony és a szerzés körülményei figyelembevételével kell meghatározni, ha megállapítható, hogy az ügylet célja a magánszemély olyan jövedelemszerzése, amelyet – valós kockázat nélkül – a felek által a piaci ár, árfolyam, kamatláb, díj és egyéb tényezők alakulásától eltérő feltételek kikötésével ért el.
+(5) Az (1) bekezdés szerint megállapított jövedelem jogcímét és az adófizetési kötelezettség mértékét a felek (a bevételt szerző magánszemély és a vele az ügyletben szerződő személy, valamint az említett személyek és más személy) között egyébként fennálló jogviszony és a szerzés körülményei figyelembevételével kell meghatározni, ha megállapítható, hogy az ügylet célja a magánszemély olyan jövedelemszerzése, amelyet – valós kockázat nélkül – a felek által a piaci ár, árfolyam, kamatláb, díj és egyéb tényezők alakulásától eltérő feltételek kikötésével ért el.
 
 (6) Az e § szerinti jövedelemmel összefüggésben a kifizetőt adó(adóelőleg)-levonási kötelezettség nem terheli. A csereügyleti jövedelmet és annak adóját a jövedelmet szerző magánszemély az adóév végét követően ügyletenként állapítja meg, az adóévről benyújtandó bevallásában vallja be, valamint az adót a bevallás benyújtására előírt határidőig fizeti meg.
 
@@ -26,13 +26,13 @@ a) az ügylet keletkezésének évéhez fel kell tüntetni a keletkezés évér�
 
 aa) csereügyleti jövedelem bevallott adóját (a továbbiakban: adókiegyenlítési keret), vagy
 
-ab) csereügyleti veszteségnek a (2) bekezdés szerinti, akkor hatályos adókulccsal számított szorzatát (a továbbiakban: adókiegyenlítésre jogosító összeg);
+ab) csereügyleti veszteségnek az akkor hatályos adókulccsal számított szorzatát (a továbbiakban: adókiegyenlítésre jogosító összeg);
 
 b) minden további évben
 
 ba) az adókiegyenlítési keretet növeli az ügylet adott évi csereügyleti jövedelmének bevallott adója,
 
-bb) az adókiegyenlítésre jogosító összeget növeli az ügylet adott évre bevallott csereügyleti veszteségének a (2) bekezdés szerinti, akkor hatályos adókulccsal számított szorzata;
+bb) az adókiegyenlítésre jogosító összeget növeli az ügylet adott évre bevallott csereügyleti veszteségének az akkor hatályos adókulccsal számított szorzata;
 
 c) az adókiegyenlítési keretet és az adókiegyenlítésre jogosító összeget csökkenti az adott évben csereügyleti veszteség miatt már érvényesített adókiegyenlítés, amely egyenlő az ab) és a bb) pont szerint megállapított (göngyölített) adókiegyenlítésre jogosító összegnek az aa) és a ba) pont szerint megállapított (göngyölített) adókiegyenlítési keretet meg nem haladó részével.
 

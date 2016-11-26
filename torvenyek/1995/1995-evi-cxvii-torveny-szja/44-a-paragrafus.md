@@ -4,7 +4,7 @@
 
 a) az önkéntes kölcsönös pénztár(ak)ba az adóévben az általa a tagi jogviszonyára tekintettel befizetett összeg, valamint az egyéni számláján jóváírt, e törvény szerint az adóévben megszerzett egyéb jövedelmének minősülő összeg együttes értékének 20 százaléka,
 
-b) az önkéntes kölcsönös egészségpénztár, önsegélyező pénztár tagjaként – az a) pontban foglaltaktól függetlenül –
+b) az önkéntes kölcsönös egészségpénztár, önsegélyező pénztár, egészség- és önsegélyező pénztár tagjaként – az a) pontban foglaltaktól függetlenül –
 
 ba) az egyéni számláján fennálló számlaköveteléséből a rendelkezése alapján elkülönített és az adóévben a lekötéstől számítva legalább 24 hónapra lekötött – az adóév utolsó napján lekötött számlakövetelésként kimutatott – összeg 10 százaléka a lekötés adóévében,
 

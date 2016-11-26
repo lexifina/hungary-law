@@ -30,7 +30,7 @@ a) a nyugdíj-előtakarékossági számla megszüntetésével hiánytalanul más
 
 b) a nyugdíj értékpapírszámlán lévő értékpapírja eladására adott megbízásának teljesítése céljából – ha a számlavezető nem jogosult az értékpapír forgalmazására – a forgalmazásra, az ügyletben való közreműködésre jogosult befektetési szolgáltatónál lévő értékpapír-számlájára,
 
-c) a nyugdíj értékpapírszámlán lévő értékpapírt átalakítás vagy a kibocsátó átalakulása miatt az átalakításban, az átalakulásban közreműködő befektetési szolgáltatónál lévő értékpapír-számlájára
+c) a nyugdíj értékpapírszámlán lévő értékpapírt átalakítás vagy a kibocsátó átalakulása, egyesülése, szétválása miatt az átalakításban, az átalakulásban, egyesülésben, szétválásban közreműködő befektetési szolgáltatónál lévő értékpapír-számlájára
 
 helyezi át.
 
@@ -52,7 +52,7 @@ halmozott összegét, azzal, hogy adózott követelésállomány feltüntetése 
 
 b) a bekezdés b) pontja szerinti áthelyezés esetén a (4) bekezdés rendelkezését csak akkor nem kell alkalmazni, ha az áthelyezést követő 30 napon belül, vagy az átruházásra vonatkozó ügyletben jogszabály alapján meghatározott időpontig a magánszemély nyugdíj-előtakarékossági pénzszámlájára az értékpapír eladására adott megbízás teljesítés-igazolása szerinti összeget az ügyletben közreműködő befektetési szolgáltató átutalta, vagy ennek hiányában a magánszemély az értékpapír áthelyezés napján irányadó szokásos piaci értékének megfelelő összeget befizette, azzal, hogy az átutalt/befizetett összeg nem minősül nyugdíj-előtakarékossági nyilatkozat adására jogosító befizetésnek;
 
-c) a bekezdés c) pontja szerinti áthelyezés esetén a (4) bekezdés rendelkezését csak akkor nem kell alkalmazni, ha az átalakításban, átalakulásban közreműködő befektetési szolgáltató a kicserélt értékpapírt az ügyletben meghatározott időpontig a magánszemély nyugdíj-előtakarékossági értékpapírszámlájára áthelyezte.
+c) a bekezdés c) pontja szerinti áthelyezés esetén a (4) bekezdés rendelkezését csak akkor nem kell alkalmazni, ha az átalakításban, átalakulásban, egyesülésben, szétválásban közreműködő befektetési szolgáltató a kicserélt értékpapírt az ügyletben meghatározott időpontig a magánszemély nyugdíj-előtakarékossági értékpapírszámlájára áthelyezte.
 
 (8) A számlavezető az adóévet követő év február 15-éig adatot szolgáltat az állami adóhatóságnak
 
