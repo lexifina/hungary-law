@@ -1,5 +1,3 @@
-## 3. § Az adatszolgáltató az adatszolgáltatások teljesítésében való akadályoztatásával kapcsolatos bejelentését elektronikus formában, az MNB „Elektronikus Rendszer Hitelesített Adatok Fogadásához” megnevezésű rendszerén (a továbbiakban: ERA rendszer) keresztül, a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank alapvető feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló MNB rendeletben (a továbbiakban: alapvető feladatokhoz kapcsolódó adatszolgáltatási MNBr.) foglalt szabályok szerint nyújtja be az MNB részére.
-
 4. § (1) Ez a rendelet – a (2) és (3) bekezdésben foglaltak kivételével – a kihirdetését követő napon lép hatályba.
 
 (2) Az 1. melléklet
