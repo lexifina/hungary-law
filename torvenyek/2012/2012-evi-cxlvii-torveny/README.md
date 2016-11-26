@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2012-147-00-00
 | 2016-01-01 | 2015. évi CI. törvény | 2012-147-00-00.12 |
 | 2016-06-16 | 2016. évi LXVI. törvény | 2012-147-00-00.13 |
 | 2016-07-01 | 2016. évi XXXII. törvény | 2012-147-00-00.14 |
+| 2016-11-26 | 2016. évi CXXV. törvény | 2012-147-00-00.15 |
