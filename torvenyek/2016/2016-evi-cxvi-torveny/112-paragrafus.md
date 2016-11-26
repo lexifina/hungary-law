@@ -7,11 +7,3 @@
 (4) Ez a törvény a robbanóanyag-prekurzorok forgalmazásáról és felhasználásáról szóló, 2013. január 15-i 98/2013/EU európai parlamenti és tanácsi rendelet 4. cikk (1) bekezdésének, 5. cikkének, 8. cikk (1) bekezdésének, 9. cikk (1) bekezdésének és 11. cikkének végrehajtásához szükséges rendelkezéseket állapít meg.
 
 (5) Ez a törvény az EU-minősített adatok védelmét szolgáló biztonsági szabályokról szóló, 2013. szeptember 23-i 2013/488/EU tanácsi határozat végrehajtásához szükséges rendelkezéseket állapít meg.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke

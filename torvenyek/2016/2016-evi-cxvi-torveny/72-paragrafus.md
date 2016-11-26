@@ -1,3 +1,0 @@
-72. § A Szabs. tv. 107. § (2a) bekezdése helyébe a következő rendelkezés lép:
-
-„(2a) Ha a bíróság tárgyaláson hozott, kihirdetés útján közölt ügydöntő végzése a jogosultak jogorvoslati jogról való lemondása miatt nyomban jogerőre emelkedik, a végzés indokolása csupán a tényállásból és az alkalmazott jogszabályok megjelöléséből is állhat. Ebben az esetben a bíróság a tárgyalásról rövidített jegyzőkönyvet készíthet, amelynek kizárólag a 91. § (2) bekezdésében írt adatokat, valamint a bírósági tárgyalás menetét és kell tartalmaznia oly módon, hogy a jegyzőkönyv alapján az eljárási szabályok megtartása nyomon követhető legyen.”
