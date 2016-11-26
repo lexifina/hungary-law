@@ -30,7 +30,7 @@ e) 5 000 000 forintot meghaladó összegű játékadóra, vagy ismételten nem t
 
 (4) Ha a szerencsejáték szervező a működését az engedély megadásától számított hat hónapon belül nem kezdi meg, továbbá ha azt engedély nélkül szünetelteti, az engedély visszavonható.
 
-(5) Abban a kérdésben, hogy valamely játék szerencsejátéknak tekinthető-e vita esetén az állami adóhatóság dönt. Az állami adóhatóság véleménye az irányadó a szerencsejátékok fajtájának (14. §) meghatározására vonatkozóan is.
+(5) Abban a kérdésben, hogy valamely játék szerencsejátéknak tekinthető-e az állami adóhatóság dönt. Az állami adóhatóság véleménye az irányadó a szerencsejátékok fajtájának (14. §) meghatározására vonatkozóan is.
 
 (6) Ha az ügyfél a hivatalból indított eljárásban az állami adóhatóság felhívása ellenére nem közli az érdemi döntéshez szükséges adatot vagy valótlan adatot közöl, vele szemben a közigazgatási hatósági eljárás általános szabályairól szóló törvény szerinti eljárási bírság szabható ki vagy az engedély visszavonható. A bírság ismételt alkalommal is kiszabható.
 

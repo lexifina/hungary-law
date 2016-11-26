@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-34-00-00
 | 2016-03-26 | 2016. évi X. törvény | 1991-34-00-00.71 |
 | 2016-10-05 | 2016. évi XCVII. törvény | 1991-34-00-00.72 |
 | 2016-10-20 | 2016. évi XCVII. törvény | 1991-34-00-00.73 |
+| 2016-11-26 | 2016. évi CXXV. törvény | 1991-34-00-00.74 |

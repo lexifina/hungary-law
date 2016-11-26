@@ -6,7 +6,9 @@ a) amelyet engedély nélküli szerencsejáték szervezés eszközéül használ
 
 b) amelyet az engedély nélkül szervezett szerencsejátékban való részvételhez használtak fel (tét),
 
-c) amely az engedély nélkül szervezett szerencsejátékban nyereményt képezett.
+c) amely az engedély nélkül szervezett szerencsejátékban nyereményt képezett,
+
+d) amely engedély nélkül végzett szerencsejáték szervezés eszközéül használt berendezésben található
 
 (2) Az (1) bekezdés alkalmazásában dolognak minősül a birtokba vehető ingó dolog, valamint a pénz és az értékpapír.
 
