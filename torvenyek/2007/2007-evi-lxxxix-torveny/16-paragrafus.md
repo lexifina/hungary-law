@@ -34,4 +34,4 @@ b) járványveszély megelőzése érdekében vagy az Egészségügyi Világszer
 
 rendeletében részleges határzárat rendelhet el.
 
-(9) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a belső határon – a Közösségi Kódex 25. cikkében megjelölt valamely feltétel fennállása esetén – a határátlépés ellenőrzésének azonnali visszaállítását rendeletben hirdesse ki.
+(9) Felhatalmazást kap a határrendészetért felelős miniszter, hogy a belső határon – a Schengeni határ-ellenőrzési kódex 28. cikkében megjelölt valamely feltétel fennállása esetén – a határátlépés ellenőrzésének azonnali visszaállítását rendeletben hirdesse ki.

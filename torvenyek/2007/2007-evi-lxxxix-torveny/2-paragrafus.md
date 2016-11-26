@@ -2,7 +2,7 @@
 
 2. § E törvény alkalmazásában:
 
-a) határátkelőhely: a személyek határátlépésére irányadó szabályok közösségi kódexének létrehozásáról szóló 562/2006/EK rendelet (a továbbiakban: Közösségi Kódex) 2. cikk 8. pontjában meghatározott fogalom,
+a) határátkelőhely: a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet (a továbbiakban: Schengeni határ-ellenőrzési kódex) 2. cikk 8. pontjában meghatározott fogalom,
 
 b) a határátkelőhely üzemeltetője: jogszabály eltérő rendelkezése hiányában a határátkelőhely ingatlan tulajdonosa, illetve szerződés vagy más jogcím alapján a határátkelőhely üzemben tartója,
 
