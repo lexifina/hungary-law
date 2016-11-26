@@ -1,4 +1,4 @@
-104. § (1) Az informatikai fejlesztések egységességének, az informatikai rendszerek együttműködési képességének biztosítása érdekében minden állami szerv köteles bejelenteni az elektronikus kapcsolattartást vagy az informatikai rendszerek együttműködési képességét érintő informatikai fejlesztési terveit a Kormány rendeletében kijelölt szervnek a rendeletben meghatározottak szerint.
+104. § (1) Az informatikai fejlesztések egységességének, az informatikai rendszerek együttműködési képességének biztosítása érdekében minden elektronikus ügyintézés biztosítására kötelezett állami szerv a Kormány rendeletében meghatározottak szerint, az elektronikus kapcsolattartást vagy az informatikai rendszerek együttműködési képességét érintő fejlesztései tekintetében informatikai fejlesztési tervet készít és azt bejelenti a Kormány rendeletében kijelölt szervnek a rendeletben meghatározottak szerint.
 
 (2) A kijelölt szerv az elektronikus kormányzati stratégiai célokhoz és az infokommunikációs infrastruktúrához történő illeszkedés szempontjára figyelemmel kialakított álláspontjáról tizenöt munkanapon belül tájékoztatja a bejelentő szervet.
 

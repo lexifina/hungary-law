@@ -12,4 +12,4 @@
 
 (6) A bizalmi szolgáltató jogosult arra, hogy bizalmi szolgáltatását különböző feltételekkel (így különösen eltérő felelősségvállalással vagy eltérő bizalmi szolgáltatási rendnek való megfelelés szerint) nyújtsa.
 
-(7) A bizalmi szolgáltató a szerződéskötést követően tartós adathordozón a bizalmi szolgáltatás ügyfelének rendelkezésére bocsátja a szolgáltatási szerződést, a bizalmi szolgáltatási rendet és a szolgáltatási szabályzatot.
+(7) A bizalmi szolgáltató a szerződéskötést követően tartós adathordozón vagy a bizalmi szolgáltatási ügyfél számára letölthető módon a bizalmi szolgáltatás ügyfelének rendelkezésére bocsátja a szolgáltatási szerződést, a bizalmi szolgáltatási rendet és a szolgáltatási szabályzatot.

@@ -4,6 +4,6 @@ a) a bizalmi szolgáltatásokkal kapcsolatos részletes követelményeket, így 
 
 b) a bizalmi felügyelet által vezetett nyilvántartás tartalmával és a bizalmi szolgáltatás nyújtásával összefüggő bejelentésekkel kapcsolatos követelményeket,
 
-c) az adópolitikáért felelős miniszterrel egyetértésben a bizalmi felügyeletnek fizetendő igazgatási szolgáltatási díjak mértékét
+c) az adópolitikáért felelős miniszterrel egyetértésben a bizalmi felügyeletnek fizetendő igazgatási szolgáltatási díjak mértékét, valamint a díj megfizetésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
 
 rendeletben állapítsa meg.

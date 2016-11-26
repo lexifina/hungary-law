@@ -80,7 +80,9 @@ j) a közüzemi szolgáltatók,
 
 k) a törvényben vagy kormányrendeletben elektronikus ügyintézésre kötelezett közfeladatot ellátó vagy közszolgáltatást nyújtó jogalanyok, valamint
 
-l) a Kormány által rendeletben meghatározott ügyek e törvény szerinti elektronikus intézését önkéntesen vállaló, az e törvényben meghatározott feltételeknek megfelelően biztosító, az a)–k) alpont hatálya alá nem tartozó jogalanyok;
+l) a meghatározott ügyek e törvény szerinti elektronikus intézését önkéntesen vállaló, az e törvényben meghatározott feltételeknek megfelelően biztosító és ezt az Elektronikus Ügyintézési Felügyeletnek bejelentő, az a)–k) alpont hatálya alá nem tartozó jogalanyok;
+
+17a. Elektronikus ügyintézés biztosítására kötelezett állami szerv: az 17. pont a), b), d)–f) alpontja szerinti szervek, valamint a 17. pont c), k) és l) pontja szerinti állami vagy önkormányzati jogalanyok;
 
 18. Elektronikus Ügyintézési Felügyelet (a továbbiakban: Felügyelet): az elektronikus ügyintézés előmozdításáért, az elektronikus ügyintézés felügyeletéért, az együttműködő szervek együttműködéséért és koordinációjáért felelős, e törvényben és a törvény végrehajtására kiadott kormányrendeletben meghatározott feladatokat ellátó, Kormány által kijelölt szerv;
 

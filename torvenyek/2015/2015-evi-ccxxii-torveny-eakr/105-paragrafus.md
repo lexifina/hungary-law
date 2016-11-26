@@ -28,7 +28,7 @@ e) az országos telefonos ügyfélszolgálatot működtető szervet.
 
 a)–k)
 
-l) a 104. § (1) bekezdés szerinti bejelentés részletes szabályait,
+l) a 104. § (1) bekezdés szerinti informatikai fejlesztési tervre, valamint bejelentésre és a bejelentés jogkövetkezményeire vonatkozó részletes szabályokat,
 
 m)–n)
 
