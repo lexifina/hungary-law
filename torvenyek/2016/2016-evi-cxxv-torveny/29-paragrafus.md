@@ -1,0 +1,3 @@
+29. § A Tao. törvény 26. § (10) bekezdése helyébe a következő rendelkezés lép:
+
+„(10) A kettős könyvvitelt vezető belföldi illetőségű adózónak és a külföldi vállalkozónak az adóelőleget az adóévben az adóévi várható fizetendő adó összegére ki kell egészítenie, azzal, hogy a várható fizetendő adó – ha az adózó az Európai Uniótól, illetve a költségvetésből támogatást kap – e támogatások miatt elszámolt adóévi bevételből az adóév utolsó hónapjának 15. napjáig meg nem kapott összeg figyelembevétele nélkül számított adóalap alapján megállapított adó összegével azonos. E rendelkezés nem vonatkozik arra az adózóra, amelynek az adóévet megelőző adóévben az éves szinten számított árbevétele nem haladta meg a 100 millió forintot.”

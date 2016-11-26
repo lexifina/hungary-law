@@ -1,0 +1,5 @@
+105. § A Htv. 40/B. §-a helyébe a következő rendelkezés lép:
+
+„40/B. § (1) Az éves beszámolóját az IFRS-ek szerint készítő vállalkozó e törvény szabályait a nettó árbevétel, az eladott áruk beszerzési értéke, az anyagköltség, a közvetített szolgáltatások értéke és az alvállalkozói teljesítések értéke megállapítása során a 40/C–40/I. §-okban, az iparűzési adókötelezettség teljesítése során a 40/J–40/M. §-okban foglalt eltéréssel alkalmazza, függetlenül attól, hogy a nettó árbevétel, az eladott áruk beszerzési értéke, az anyagköltség, a közvetített szolgáltatások értéke, az alvállalkozói teljesítések értéke folytatódó vagy megszűnt tevékenységből származik.
+
+(2) Ha a vállalkozó az IFRS 11 Közös megállapodások című standard hatálya alá eső közös megállapodás alapján végzett tevékenységének elszámolása eltér a számvitelről szóló törvény szerinti elszámolástól, akkor az e tevékenységre vonatkozó nettó árbevételt, eladott áruk beszerzési értékét, anyagköltséget, közvetített szolgáltatások értékét, alvállalkozói teljesítések értékét úgy határozza meg, mintha ennek a tevékenységnek a teljesítményét a számvitelről szóló törvény szerint számolta volna el.”

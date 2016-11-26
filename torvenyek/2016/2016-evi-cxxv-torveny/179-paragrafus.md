@@ -1,0 +1,3 @@
+179. § Az Art. 40. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) Állami adó- és vámhatóság által kezelt elkülönített számlára kell megfizetni a költségvetést károsító [Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) 395. §, 396. §, illetve a 2013. június 30-ig hatályban volt, a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) 309. §, 310. §] bűncselekmény elkövetője által teljesített, a bűncselekménnyel okozott vagyoni hátrány összegével megegyező – a büntetés korlátlan enyhítése érdekében – megfizetett összeget.”

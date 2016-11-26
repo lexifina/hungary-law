@@ -1,0 +1,5 @@
+272. § A Vtv. 24. alcíme a következő 57/A. §-sal egészül ki:
+
+„57/A. § (1) Ha a Vámkódex 89. cikk (2) bekezdés 2. albekezdése alapján a biztosítékot kizárólag Magyarország területére kiterjedően nyújtják, úgy – a (2) bekezdésben foglaltak kivételével – a biztosítéknak a behozatali vagy kiviteli vám mellett az egyéb terheket is fedeznie kell.
+
+(2) Ha a biztosítékot nyújtó személy rendelkezik az e törvény szerinti általános forgalmi adó biztosítása alóli részleges vagy teljes mentességre jogosító engedéllyel, úgy ezen engedély fennállásáig az (1) bekezdés szerinti esetben az általános forgalmi adóra és az energiaadóra a mentesített összeg tekintetében nem kell biztosítékot nyújtania.”
