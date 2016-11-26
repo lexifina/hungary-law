@@ -26,4 +26,4 @@ h) a kisüzemi bortermelőre, a bérfőzésre és a magánfőzésre vonatkozó r
 
 (3) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel és a honvédelemért felelős miniszterrel egyetértésben – rendeletben állapítsa meg a diplomáciai és konzuli képviselet, valamint a nemzetközi szervezet és a diplomáciai és konzuli képviselet tagja és a nemzetközi szervezet tagja által megfizetett adó visszaigénylésének részletes szabályait.
 
-(4) Felhatalmazást kap a honvédelemért felelős miniszter, hogy – az adópolitikáért felelős miniszterrel egyetértésben – rendeletben állapítsa meg az egyes katonai célú felhasználással kapcsolatos jövedéki szabályokat.
+(4)

@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-68-00-00
 | --- | --- | --- |
 | 2016-11-01 | 2016. évi LXVIII. törvény | 2016-68-00-00.0 (közlönyállapot) |
 | 2016-11-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-68-00-00.1 |
+| 2016-11-26 | 2016. évi CXXV. törvény | 2016-68-00-00.2 |
