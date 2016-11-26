@@ -4,7 +4,7 @@
 
 ## A termékdíjfizetésre kötelezett adatai
 
-## II.[^121] A termékdíj-kötelezettséggel kapcsolatos bejelentés adatai:
+## II.[^122] A termékdíj-kötelezettséggel kapcsolatos bejelentés adatai:
 
 ## a) kötelezetti státusz megjelölése,
 
@@ -42,7 +42,7 @@
 
 ## k) az egyéni hulladékkezelő által lekötött kapacitás mértéke HKT kód és EWC szerint.
 
-## IV.[^122] Átvállalási szerződés nyilvántartásba vételi kérelem adattartalma
+## IV.[^123] Átvállalási szerződés nyilvántartásba vételi kérelem adattartalma
 
 ## 1. Átvállalásban érintett felek adatai
 
@@ -62,7 +62,7 @@
 
 ## 7. Az átvállalás jogcíme és pontos jogszabályi helye
 
-3. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^123]
+3. melléklet a 343/2011. (XII. 29.) Korm. rendelethez[^124]
 
 ## A Ktdt. 3. § (6) bekezdésében meghatározott nyilatkozat mintája
 
@@ -94,6 +94,6 @@ P. H.
 
 cégszerű aláírás
 
-[^121]: A 2. melléklet II. pont nyitó szövegrésze a 407/2015. (XII. 15.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
-[^122]: A 2. melléklet IV. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
-[^123]: A 3. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^122]: A 2. melléklet II. pont nyitó szövegrésze a 407/2015. (XII. 15.) Korm. rendelet 8. § e) pontja szerint módosított szöveg.
+[^123]: A 2. melléklet IV. pontja az 529/2013. (XII. 30.) Korm. rendelet 12. § (3) bekezdésével megállapított szöveg.
+[^124]: A 3. melléklet az 529/2013. (XII. 30.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.

@@ -1,8 +1,8 @@
-24. § (1)[^91]
+24. § (1)[^92]
 
-(2)[^92]
+(2)[^93]
 
-(3)[^93]
+(3)[^94]
 
 (4) A Ktdt. 25. § (2) bekezdésében meghatározott visszaigénylő kötelezett nyilvántartásának tartalmaznia kell
 
@@ -18,7 +18,7 @@ e) az átvevő által adott igazolást (ha kötelezett a hasznosítást maga vé
 
 f) lakosságtól történő visszagyűjtés esetén a hasznosításra átadó nyilatkozatát az átadott mennyiség lakossági eredetéről.
 
-(5)[^94] A Ktdt. 25. § (2a) bekezdésében meghatározott visszaigénylő nyilvántartásának tartalmaznia kell
+(5)[^95] A Ktdt. 25. § (2a) bekezdésében meghatározott visszaigénylő nyilvántartásának tartalmaznia kell
 
 a) a termékdíj megfizetésének adatait,
 
@@ -32,7 +32,7 @@ e) az átvevő által adott igazolást (ha kötelezett a hasznosítást maga vé
 
 f) a hasznosítási díj megfizetésével kapcsolatban a megfizetés napját és a számla számát.
 
-[^91]: A 24. § (1) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 14. § 3. pontja hatályon kívül helyezte.
-[^92]: A 24. § (2) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 10. pontja hatályon kívül helyezte.
-[^93]: A 24. § (3) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 10. pontja hatályon kívül helyezte.
-[^94]: A 24. § (5) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 10. §-a iktatta be.
+[^92]: A 24. § (1) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 14. § 3. pontja hatályon kívül helyezte.
+[^93]: A 24. § (2) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 10. pontja hatályon kívül helyezte.
+[^94]: A 24. § (3) bekezdését a 41/2014. (II. 24.) Korm. rendelet 5. § 10. pontja hatályon kívül helyezte.
+[^95]: A 24. § (5) bekezdését az 529/2013. (XII. 30.) Korm. rendelet 10. §-a iktatta be.
