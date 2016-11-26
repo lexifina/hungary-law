@@ -1,15 +1,15 @@
-61. § (1) A vámhatóság vámbiztosítékként azt a készpénz letétbe helyezést fogadja el, amely a vámhatóság kezelésében lévő központi vámletét számlán a vámhatóság által meghatározott egyedi azonosítással a vámhatóság rendelkezése alá került. A készpénz formájában nyújtott vámbiztosítékot kizárólag forintban lehet teljesíteni.
+## 26/A. A Vámkódex 94. cikkéhez
 
-(2) A vámhatóság vámbiztosítékként azt a banki fedezetigazolást fogadja el, amelyen a kibocsátó hitelintézet kötelezettséget vállal arra, hogy az azon feltüntetett összegről kizárólag a vámhatóság rendelkezhet.
+61. § (1) Ha a Vámkódex 94. cikk (1) bekezdés szerinti vámhatósági jóváhagyás szükséges, akkor a vám és egyéb terhekre vonatkozó, egyetlen műveletre kiterjedő biztosítéknyújtásra a jóváhagyást engedély formájában (kötelezettségvállalási engedély) a vámhatóság annak a kérelmezőnek adja ki, aki
 
-(3) A 60. § (1) bekezdés a) pontja szerinti kezességet az vállalhat, akit a vámhatóság a Vámkódex 9. cikke alapján nyilvántartásba vett, és rendelkezik a vámhatóság által a (4) bekezdésben meghatározott feltételekkel kiadott érvényes kezességvállalási engedéllyel.
+a) nem áll csődeljárás, felszámolási eljárás, végelszámolási eljárás és kényszertörlési eljárás alatt,
 
-(4) A vámhatóság a 60. § (1) bekezdés a) pontja szerinti kezességvállalásra az engedélyt annak a kérelmezőnek adja ki, aki
+b) biztosítékot nyújt garanciavállaló nyilatkozat vagy készpénz formájában, és
 
-a) biztosítékot nyújt bankgarancia, banki fedezetigazolás, biztosítói kötelezvény vagy készpénz formájában, és
+c) kérelméhez csatolja a képviseletre jogosult személy(ek) hiteles cégaláírási nyilatkozatát (közjegyzői aláírás-hitelesítéssel ellátott címpéldány) vagy cégbírósághoz benyújtott, ügyvéd által ellenjegyzett aláírásmintát.
 
-b) kérelméhez csatolja a képviseletre jogosult személy(ek) hiteles cégaláírási nyilatkozatát (közjegyzői aláírás-hitelesítéssel ellátott címpéldány) vagy cégbírósághoz benyújtott, ügyvéd által ellenjegyzett aláírásmintát.
+(2) Az (1) bekezdés szerinti engedélyben meg kell határozni – a nyújtott biztosítékkal összhangban – a kötelezettségvállalással összességében vállalható legmagasabb összeghatárt, valamint szükség esetén engedély érvényességi idejét.
 
-(5) A (4) bekezdés szerinti engedélyben meg kell határozni – a nyújtott biztosítékkal összhangban – a kezességgel összességében vállalható legmagasabb összeghatárt, valamint az engedély érvényességi idejét.
+(3) Az (1) bekezdés szerinti engedély esetén a Vámkódex 22–28. cikkének, az FJA 11–18. cikkének és a VA 10–15. cikkének kérelem alapján hozott határozatokra vonatkozó rendelkezéseit kell alkalmazni.
 
-(6) A vámhatóság az engedély kiadásának feltételeit bármikor vizsgálhatja.
+(4) A garanciajegyek formájában nyújtott egyedi kötelezettségvállalás jóváhagyása esetén e szakasz rendelkezéseit kell alkalmazni.

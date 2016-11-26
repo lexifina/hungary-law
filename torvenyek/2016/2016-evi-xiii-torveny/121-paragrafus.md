@@ -21,3 +21,5 @@
 (9) Ha az ÁFJA annak vizsgálatát írja elő, hogy megsértették-e súlyosan vagy ismételten a vámjogszabályokat vagy adószabályokat, a 23. § (2) bekezdését és a 24. §-t kell alkalmazni.
 
 (10) A vámhatóság az általa elfogadott vámbiztosítékoknak a vámjogszabályokban meghatározott célok biztosítása érdekében a VA 147. cikke szerinti Uniós Vámkódex – Biztosítékkezelés (GUM) rendszer telepítési időpontjáig köteles olyan ellenőrzési rendszert működtetni, amely a biztosítéknyújtás és felszabadítás folyamatát kezeli.
+
+(14) A 26. és 26/A. alcím hatályba lépése előtt kiadott bankgaranciák és biztosítói kötelezvények a lejáratukig vagy visszavonásukig, de legkésőbb 2019. április 30-ig érvényesek. Amennyiben e biztosítékok alapján az adott áruk 2019. április 30-át követően átmeneti megőrzésben vannak vagy vámeljárás alatt állnak, úgy a biztosíték nyújtására kötelezett köteles az e törvényben foglaltaknak megfelelően új biztosítékot nyújtani.
