@@ -26,6 +26,6 @@ d) olyan, a hatóság informatikai rendszerében kezelt személyazonosító adat
 
 e) a hatóság saját nyilvántartásában szereplő, egyértelmű hozzárendeléshez elegendő adatokkal.
 
-(7)[^5] A hatóság a párbeszédre épülő elektronikus ügyintézés során indokolt esetben, különösen biztonsági szempontból kiemelt eljárási cselekmények elvégzését megelőzően köteles gondoskodni az azonosság ismételt ellenőrzéséről.
+(7)[^7] A hatóság a párbeszédre épülő elektronikus ügyintézés során indokolt esetben, különösen biztonsági szempontból kiemelt eljárási cselekmények elvégzését megelőzően köteles gondoskodni az azonosság ismételt ellenőrzéséről.
 
-[^5]: A 16. § (7) bekezdését az 515/2013. (XII. 30.) Korm. rendelet 32. § (4) bekezdése iktatta be.
+[^7]: A 16. § (7) bekezdését az 515/2013. (XII. 30.) Korm. rendelet 32. § (4) bekezdése iktatta be.

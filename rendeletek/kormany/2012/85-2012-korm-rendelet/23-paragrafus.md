@@ -1,6 +1,6 @@
 23. § (1) Ha a dokumentum hitelesítésére elektronikus aláírással került sor, úgy az elektronikus dokumentum hitelesnek tekinthető, ha a dokumentumon elhelyezett elektronikus aláírás az aláírás időpontjában – ha pedig ez hiteles módon nem állapítható meg, úgy az aláírás ellenőrzésének időpontjában – érvényes.
 
-(2)[^10] Ha a dokumentum az iratérvényességi nyilvántartásban szerepel, úgy a másolat és az iratérvényességi nyilvántartásban elhelyezett elektronikus dokumentum egyezése akkor állapítható meg, ha
+(2)[^12] Ha a dokumentum az iratérvényességi nyilvántartásban szerepel, úgy a másolat és az iratérvényességi nyilvántartásban elhelyezett elektronikus dokumentum egyezése akkor állapítható meg, ha
 
 a) a hatóság által kézbesített elektronikus irat egyezése megállapítható az iratérvényességi nyilvántartásban elhelyezett elektronikus dokumentummal,
 
@@ -20,4 +20,4 @@ c) a hitelességi információk megváltoztathatatlansága.
 
 (5) A (4) bekezdés szerinti zárt rendszerben hitelesnek tekintett dokumentumok zárt rendszeren kívüli felhasználását a hatóság a hiteles másolat készítés szabályai szerint készített másolattal teszi lehetővé.
 
-[^10]: A 23. § (2) bekezdése az 515/2013. (XII. 30.) Korm. rendelet 32. § (6) bekezdésével megállapított szöveg.
+[^12]: A 23. § (2) bekezdése az 515/2013. (XII. 30.) Korm. rendelet 32. § (6) bekezdésével megállapított szöveg.

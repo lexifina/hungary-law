@@ -14,7 +14,7 @@ c) a hatóság által a jogszabályi előírások figyelembevételével meghatá
 
 d) ha a SZEÜSZ szolgáltató ilyen szolgáltatást is nyújt, a hatóság javára megőrzi.
 
-(4)[^14] A hatóság az (1) bekezdés szerinti hiteles elektronikus irattá alakítás során az elektronikus dokumentumot
+(4)[^16] A hatóság az (1) bekezdés szerinti hiteles elektronikus irattá alakítás során az elektronikus dokumentumot
 
 a) legalább fokozott biztonságú elektronikus aláírással vagy bélyegzővel, vagy
 
@@ -22,7 +22,7 @@ b) a hatóság nevében eljáró személyhez fűzött azonosításra visszavezet
 
 ## hitelesíti.
 
-(5)[^15] A hatósági eljárás során – ideértve a hatósági határozat bírósági felülvizsgálatát – (4) bekezdés szerint hitelesített elektronikus irat bizonyító ereje az eredeti irat bizonyító erejével azonos.
+(5)[^17] A hatósági eljárás során – ideértve a hatósági határozat bírósági felülvizsgálatát – (4) bekezdés szerint hitelesített elektronikus irat bizonyító ereje az eredeti irat bizonyító erejével azonos.
 
-[^14]: A 38. § (4) bekezdését a 123/2016. (VI. 7.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^15]: A 38. § (5) bekezdését a 123/2016. (VI. 7.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^16]: A 38. § (4) bekezdését a 123/2016. (VI. 7.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^17]: A 38. § (5) bekezdését a 123/2016. (VI. 7.) Korm. rendelet 4. § (1) bekezdése iktatta be.

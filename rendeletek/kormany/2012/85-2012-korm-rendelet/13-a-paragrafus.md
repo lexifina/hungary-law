@@ -1,4 +1,4 @@
-13/A. §[^3] (1) A hatóságok egymás közötti kapcsolattartása történhet
+13/A. §[^5] (1) A hatóságok egymás közötti kapcsolattartása történhet
 
 a) biztonságos elektronikus kézbesítési szolgáltatás igénybevételével,
 
@@ -16,4 +16,4 @@ f) a hatóságok egymás közötti megállapodásában lehetővé tett további 
 
 (3) Biztonságos kézbesítési szolgáltatás hatóság általi igénybevétele esetén a hatóság által kézbesítendő irat kézbesítési szolgáltató részére történő átadása az ÁBT részét képező BEDSZ keretében elérhető hivatali tárhelyéről, illetve a hatóság részére történő kézbesítés a hatóságnak az ÁBT részét képező BEDSZ keretében elérhető hivatali tárhelyére történhet. Ilyen esetben az irat átvételére, illetve az üzenet fogadására vonatkozó igazolást a hivatali kapu szolgáltatója is hitelesítheti.
 
-[^3]: A 13/A. §-t az 515/2013. (XII. 30.) Korm. rendelet 32. § (2) bekezdése iktatta be.
+[^5]: A 13/A. §-t az 515/2013. (XII. 30.) Korm. rendelet 32. § (2) bekezdése iktatta be.

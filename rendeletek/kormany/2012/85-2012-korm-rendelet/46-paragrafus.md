@@ -6,10 +6,11 @@
 
 a) a kiadmányozó külön jogszabályban meghatározott követelményeknek megfelelő elektronikus aláírásával és időbélyegzővel,
 
-b) a szervezet nevében történő gépi aláírással és időbélyegzővel, az ügyintéző neve mellett „s.k.” jelzéssel, vagy
+b)[^19] a szervezet nevében történő elektronikus bélyegzővel és időbélyegzővel, az ügyintéző neve mellett „s.k.” jelzéssel, vagy
 
 c) az iraton az iratérvényességi nyilvántartásban történő nyilvántartás tényének feltüntetésével és az ügyintéző neve mellett „s.k.” jelzéssel,
 
-d)[^16] a kiadmányozó személyéhez fűzött azonosításra visszavezetett dokumentumhitelesítés szolgáltatással.
+d)[^20] a kiadmányozó személyéhez fűzött azonosításra visszavezetett dokumentumhitelesítés szolgáltatással.
 
-[^16]: A 46. § d) pontját a 123/2016. (VI. 7.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^19]: A 46. § b) pontja a 352/2016. (XI. 18.) Korm. rendelet 3. § (2) bekezdése szerint módosított szöveg.
+[^20]: A 46. § d) pontját a 123/2016. (VI. 7.) Korm. rendelet 4. § (2) bekezdése iktatta be.

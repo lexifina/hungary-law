@@ -10,8 +10,10 @@
 
 3. kihelyezett ügyintézési pont: a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 169/A. § (3) bekezdés szerinti, az ott meghatározott szolgáltatások nyújtására feljogosított szervezet;
 
-4. szervezeti aláírás: olyan, legalább fokozott biztonságú elektronikus aláírás, amely elektronikus dokumentumok hatóság általi hitelesítésére szolgál, és amelyet egy informatikai eszköz automatikusan, közvetlen személyi felügyelet nélkül helyez el az elektronikus dokumentumokon;
+4.[^2]
 
 5. szabályozott elektronikus ügyintézési szolgáltatás: a Ket. 172. § j) pontja szerinti szolgáltatás;
 
 6. szabályozott elektronikus ügyintézési szolgáltatás szolgáltató: a Ket. 172. § k) pontja szerinti szolgáltató.
+
+[^2]: Az 1. § 4. pontját a 352/2016. (XI. 18.) Korm. rendelet 3. § (3) bekezdése hatályon kívül helyezte.

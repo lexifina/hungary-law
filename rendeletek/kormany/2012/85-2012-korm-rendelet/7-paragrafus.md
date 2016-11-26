@@ -4,7 +4,7 @@
 
 ## AZ ELEKTRONIKUS KAPCSOLATTARTÁS ÁLTALÁNOS SZABÁLYAI
 
-7. §[^2] (1) Ahol az elektronikus kapcsolattartás lehetősége biztosított és az adott kapcsolattartási mód alkalmazását a hatóság biztosítja, az ügyfél eltérő tartalmú ügyintézési rendelkezése hiányában elektronikus kapcsolattartás keretében beadványát benyújthatja
+7. §[^4] (1) Ahol az elektronikus kapcsolattartás lehetősége biztosított és az adott kapcsolattartási mód alkalmazását a hatóság biztosítja, az ügyfél eltérő tartalmú ügyintézési rendelkezése hiányában elektronikus kapcsolattartás keretében beadványát benyújthatja
 
 a) biztonságos elektronikus kézbesítési szolgáltatás igénybevételével,
 
@@ -36,4 +36,4 @@ d) az ügyfél ügyintézési rendelkezésében lehetővé tett további kapcsol
 
 (7) Jogszabály egyes hivatalos iratok benyújtását, így különösen az adó- és járulék bevallásokkal kapcsolatos bevallások megküldését biztonságos kézbesítési szolgáltatásnak nem minősülő elektronikus kézbesítési szolgáltatás alkalmazása esetén is lehetővé teheti, az átvétel tényének és idejének külön szabályozott módon történő igazolásával.
 
-[^2]: A 7. § az 515/2013. (XII. 30.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^4]: A 7. § az 515/2013. (XII. 30.) Korm. rendelet 32. § (1) bekezdésével megállapított szöveg.
