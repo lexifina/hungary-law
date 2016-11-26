@@ -1,0 +1,3 @@
+## 4. § Az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló 312/2012. (XI. 8.) Korm. rendelet 15. § (5) bekezdésében a „gépi elektronikus aláírással” szövegrész helyébe az „elektronikus bélyegzővel” szöveg, a „gépi aláírást” szövegrész helyébe az „elektronikus bélyegzőt” szöveg lép.
+
+## 5. A felnőttképzési tevékenység folytatásához szükséges engedélyezési eljárásra és követelményrendszerre, a felnőttképzést folytató intézmények nyilvántartásának vezetésére, valamint a felnőttképzést folytató intézmények ellenőrzésére vonatkozó részletes szabályokról szóló 393/2013. (XI. 12.) Korm. rendelet módosítása
