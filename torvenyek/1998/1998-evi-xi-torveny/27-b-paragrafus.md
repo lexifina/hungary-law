@@ -12,7 +12,7 @@ megállapítása céljából megkeresheti a személyiadat- és lakcímnyilvánta
 
 (2) Az ellenőrzés elektronikus úton történő adatigényléssel valósul meg; az adatigénylés iránti megkeresést az ügyvéd elektronikus aláírásával látja el.
 
-(3) A nyilvántartást vezető hatóság az adatigénylés iránti megkeresés teljesítése előtt ellenőrzi az elektronikus aláíráshoz tartozó tanúsítvány érvényességét; a megkeresés teljesítését megtagadja, ha a tanúsítvány érvényességét a hitelesítés-szolgáltató felfüggesztette vagy a tanúsítványt visszavonta.
+(3) A nyilvántartást vezető hatóság az adatigénylés iránti megkeresés teljesítése előtt ellenőrzi az elektronikus aláíráshoz tartozó tanúsítvány érvényességét; a megkeresés teljesítését megtagadja, ha a tanúsítvány érvényességét a bizalmi szolgáltató felfüggesztette vagy a tanúsítványt visszavonta.
 
 (4) Az okirat elkészítése előtt az ügyvéd köteles a felet az ellenőrzés megkezdését megelőzően írásban tájékoztatni az ellenőrzés lehetőségéről, céljáról, módjáról és tartalmáról, a közreműködés megtagadásának kötelezettségéről, a 27/D. § (2) bekezdésében megjelölt bejelentési kötelezettségéről, valamint az ellenőrzés során megismert adatok kezeléséről.
 

@@ -26,7 +26,7 @@ l) saját EGT-állama szerinti szakmai megnevezését (szükség szerint annak m
 
 m) saját EGT-állama szerinti ügyvédi társulásának szakmai megnevezését,
 
-n) ügyvédi tevékenység végzése érdekében beszerzett elektronikus aláírás tanúsítványa érvényességének kezdetét és lejártát, valamint a hitelesítés-szolgáltató megnevezését,
+n) ügyvédi tevékenység végzése érdekében beszerzett elektronikus aláírás tanúsítványa érvényességének kezdetét és lejártát, valamint a bizalmi szolgáltató megnevezését,
 
 o) jogosultságát az elektronikus cégeljárásban való részvételre.
 

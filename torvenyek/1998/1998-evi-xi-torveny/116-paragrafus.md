@@ -28,7 +28,7 @@ k) kitüntetéseit,
 
 l) kamarai tisztségét,
 
-m) a kamarai tagnak az ügyvédi tevékenység végzése érdekében beszerzett elektronikus aláírás tanúsítványa érvényességének kezdetét és lejártát, valamint a hitelesítés-szolgáltató megnevezését,
+m) a kamarai tagnak az ügyvédi tevékenység végzése érdekében beszerzett elektronikus aláírás tanúsítványa érvényességének kezdetét és lejártát, valamint a bizalmi szolgáltató megnevezését,
 
 n) a kamarai tag jogosultságát az elektronikus cégeljárásban való részvételre,
 
