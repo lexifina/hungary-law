@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-199-00-00
 | 2016-06-18 | 2016. évi LXVII. törvény | 2011-199-00-00.39 |
 | 2016-07-01 | 2016. évi LII. törvény | 2011-199-00-00.40 |
 | 2016-08-01 | 2016. évi LXXIII. törvény | 2011-199-00-00.41 |
+| 2016-11-26 | 2016. évi CXXI. törvény | 2011-199-00-00.42 |

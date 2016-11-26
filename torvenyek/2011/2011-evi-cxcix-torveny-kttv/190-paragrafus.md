@@ -32,7 +32,7 @@ c) a (2) bekezdésben és a b) pontban meghatározottakon kívüli egyéb tárgy
 
 (6) A munkáltatói jogkör gyakorlójának mérlegelési jogkörébe tartozó döntése ellen a kormánytisztviselő a Kormánytisztviselői Döntőbizottsághoz, illetve a bírósághoz akkor fordulhat, ha e törvény megengedi.
 
-(7) A közszolgálati panasz, illetve a keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a Kormánytisztviselői Döntőbizottsághoz intézett közszolgálati panaszt, illetve a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján postára adták. Ha a fél a közszolgálati panasz, illetve a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet. Az igény hat hónap elteltével nem érvényesíthető.
+(7) A közszolgálati panasz, illetve a keresetlevél beadására megállapított határidőt megtartottnak kell tekinteni, ha a Kormánytisztviselői Döntőbizottsághoz intézett közszolgálati panaszt, illetve a bírósághoz intézett keresetlevelet legkésőbb a határidő utolsó napján megküldték. Ha a fél a közszolgálati panasz, illetve a keresetlevél beadására megállapított határidőt elmulasztja, igazolással élhet. Az igény hat hónap elteltével nem érvényesíthető.
 
 (8) A (2) bekezdés b) és c) pontjában, valamint a (3) bekezdés b) pontjában foglalt esetben a sérelmezett intézkedés, továbbá a fegyelmi és kártérítési ügyben hozott határozat – kivéve a hivatalvesztés fegyelmi büntetést kiszabó fegyelmi határozatot – a bíróság jogerős döntéséig nem hajtható végre.
 
