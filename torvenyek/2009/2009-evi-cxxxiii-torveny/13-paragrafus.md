@@ -26,6 +26,6 @@ c) a kijelölt szervezetek éves jelentésének tartalmi követelményeit, beny�
 
 d) a kijelölt szervezetek kijelölést követő ellenőrzésének az adott termékszabályozás sajátosságaival összefüggő különös szabályait, valamint
 
-e) – az adópolitikáért felelős miniszterrel egyetértésben – a kijelölési eljárásért fizetendő igazgatási szolgáltatási díjak mértékét és a megfizetésükre, felhasználásukra vonatkozó szabályokat
+e) – az adópolitikáért felelős miniszterrel egyetértésben – a kijelölési eljárásért fizetendő igazgatási szolgáltatási díjak mértékét és a díj megfizetésével, kezelésével, nyilvántartásával. visszatérítésével kapcsolatos szabályokat
 
 rendeletben határozza meg.

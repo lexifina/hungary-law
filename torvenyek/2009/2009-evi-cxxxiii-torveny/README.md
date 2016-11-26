@@ -12,3 +12,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-133-00-00
 | 2013-07-01 | 2013. évi LXXXIV. törvény | 2009-133-00-00.6 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2009-133-00-00.7 |
 | 2016-07-01 | 2015. évi CCXXII. törvény | 2009-133-00-00.8 |
+| 2016-11-26 | 2016. évi CXXI. törvény | 2009-133-00-00.9 |
