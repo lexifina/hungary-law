@@ -1,0 +1,3 @@
+56. § A Kftv. a következő 62. §-sal egészül ki:
+
+„62. § E törvénynek az egyes belügyi tárgyú törvények módosításáról szóló 2016. évi CXVI. törvénnyel megállapított rendelkezéseinek hatálybalépése napján a 4/A. § (1)–(3a) bekezdése alapján már fennálló szerződéseket a felek 30 napon belül kötelesek a 4/A. § (3e) bekezdése szerint módosítani. Ha a szociális szövetkezet a szerződés módosítására vonatkozó javaslatot nem fogadja el, vagy a szerződés aláírását megtagadja, a szerződés azonnali hatályú felmondásának van helye. A felek a felmondás hatályossá válását követő 30 napon belül kötelesek egymással elszámolni.”

@@ -1,0 +1,3 @@
+5. § Az Rtv. 91/N. §-a helyébe a következő rendelkezés lép:
+
+„91/N. § A rendőrség a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendelet II. melléklete szerinti adatokat egy évig kezeli.”
