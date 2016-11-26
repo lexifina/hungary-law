@@ -1,1 +1,0 @@
-136. § A Pti. 8. § (1) és (2) bekezdésében a „pénzforgalmi szolgáltató, a pénzváltási tevékenység végzésére jogosult hitelintézet” szövegrész helyébe a „pénzforgalmi szolgáltató, a pénzforgalmi szolgáltatónak nem minősülő, hitelt és pénzkölcsönt nyújtó pénzügyi intézmény, a pénzváltási tevékenység végzésére jogosult hitelintézet” szöveg lép.

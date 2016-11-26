@@ -1,3 +1,0 @@
-266. § A Vtv. 41. §-a helyébe a következő rendelkezés lép:
-
-„41. § A vámellenőrzés befejezésének formája lehet írásbeli vagy szóbeli közlés, valamint a vámhatóság informatikai rendszere által küldött elektronikus üzenet. Az eljárás írásbeli közlés esetén annak postára adásával, postai kézbesítés mellőzése esetén annak személyes átadásával fejeződik be. Szóbeli közlés esetén az eljárás a vámellenőrzésre irányuló eljárásról szóló közléssel fejeződik be. Elektronikus üzenet formájában történő közlés esetén az eljárás az elektronikus üzenet küldésével fejeződik be.”

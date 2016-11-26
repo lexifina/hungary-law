@@ -6,8 +6,4 @@
 
 11. Kiküldetés: a munkáltató által elrendelt, a munkáltató tevékenységével összefüggő feladat ellátása érdekében szükséges utazás, így különösen a munkaszerződéstől eltérő foglalkoztatás keretében a munkaszerződéstől eltérő helyen történő munkavégzés; ide nem értve a lakóhelyről, tartózkodási helyről a munkahelyre történő oda- és visszautazást. Kiküldetésnek minősül a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati érdekből történő áthelyezése, vezénylése, átrendelése, valamint a Magyar Honvédség hivatásos és szerződéses állományú katonájának szolgálati érdekből történő áthelyezése, vezénylése is. E rendelkezés alkalmazásában munkahelynek minősül a munkáltatónak az a telephelye, ahol a munkavállaló a munkáját szokás szerint végzi, ilyen telephely hiányában vagy több ilyen telephely esetén a munkáltató székhelye minősül munkahelynek.”
 
-(2) Az Szja tv. 3. § 53. pontja helyébe a következő rendelkezés lép:
-
-(E törvény alkalmazásában az egyes fogalmak jelentése a következő:)
-
-„53. Termőföld haszonbérbe adása: a termőföld, illetve halastó magánszemély tulajdonosa vagy haszonélvezője által egy vagy több évre, írásban kötött megállapodás alapján, ellenérték fejében a föld használati jogosultságának mező-, erdőgazdasági, illetve halászati hasznosításra történő átengedése.”
+(2)
