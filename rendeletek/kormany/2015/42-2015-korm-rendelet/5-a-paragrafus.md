@@ -40,7 +40,17 @@ cd) a szabályozások és eljárások garantálják a rendszer biztonsági szint
 
 (5) Amennyiben a tanúsító szervezet a vizsgált intézmény informatikai rendszerének kockázatokkal arányos védelmét biztosító eszközrendszerében hibát vagy hiányosságot észlel, a hiba vagy hiányosság pontos meghatározását tartalmazó jegyzőkönyvet ad át a vizsgált intézmény részére, melynek kijavítására megfelelő határidőt biztosít. A vizsgált intézmény a jegyzőkönyvben foglaltak szerint készített tevékenységi terve alapján a hiba kijavítását vagy a hiányosság pótlását a tanúsító szervezet által megjelölt határidőn belül elvégzi. A tanúsító szervezet a hiba kijavítását vagy a hiányosság pótlását a megadott határidő leteltét követően ellenőrzi és ennek eredményétől függően dönt annak elfogadásáról vagy a tevékenységi terv elvégzéséhez szükséges határidő meghosszabbításáról.
 
-(6) A tanúsító szervezet a tanúsítvány kiadásával egyidejűleg átadja a vizsgált intézmény részére a tanúsítás alátámasztásához szükséges dokumentációt.
+(5a)[^3] A tanúsító szervezet a tanúsítási eljárás befejezését követően tájékoztatja az MNB-t a tanúsítási eljárás eredményéről. Amennyiben az átadott dokumentáció alapján az MNB a vizsgált intézmény informatikai rendszerének kockázatokkal arányos védelmét biztosító eszközrendszerében hibát vagy hiányosságot észlel, az intézménnyel szemben intézkedést alkalmazhat.
+
+(5b)[^4] Amennyiben a tanúsító szervezet az általánosan elfogadott szakmai standardok alapján és az eljárás során feltárt hibák – (5) bekezdésben meghatározottak szerinti – kijavítása ellenére nem látja lehetségesnek a tanúsítvány kiadását, akkor erről a teljes dokumentáció megküldésével egyidejűleg értesíti az MNB-t, aki ezt követően dönt a szükséges intézkedések megtételéről.
+
+(6)[^5] A tanúsító szervezet a tanúsítvány kiadásával egyidejűleg átadja a vizsgált intézmény részére a tanúsítás alátámasztásához szükséges dokumentációt. A tanúsító szervezet a tanúsítási eljárás lefolytatásáért és a tanúsítvány kiadásáért együttesen legfeljebb az alábbi összegű díjazást kérhet az intézménytől:
+
+a) 100 milliárd forintot el nem érő mérlegfőösszeg esetén legfeljebb 5 millió forint;
+
+b) 100 és 1000 milliárd forint mérlegfőösszeg között legfeljebb 25 millió forint;
+
+c) 1000 milliárd forintot meghaladó mérlegfőösszeg esetén legfeljebb 60 millió forint.
 
 (7) Amennyiben a tanúsító szervezet által vizsgált informatikai rendszerre kiadott korábbi tanúsítvány érvényességi ideje az új tanúsítvány kiadása előtt járna le, a meglévő tanúsítvány érvényességi ideje az új tanúsítvány kiadásáig a tanúsító szervezet döntése alapján meghosszabbítható.
 
@@ -55,3 +65,6 @@ cd) a szabályozások és eljárások garantálják a rendszer biztonsági szint
 (12) A vizsgált intézmények bizalmas információinak és a nagy tömegű személyes adatok védelme érdekében a tanúsító szervezetnek biztonsági szabályzattal, valamint tanúsított informatikabiztonsági irányítási rendszerrel kell rendelkeznie. A tanúsító szervezetnek és a vizsgáló laboratóriumnak legalább 3 éve rendelkeznie kell a minősített adat védelméről szóló 2009. évi CLV. törvény 16. §-a alapján kiállított telephely-biztonsági tanúsítvánnyal. A tanúsító szervezetnek és a vizsgáló laboratóriumnak szerepelnie kell a kormányzati eseménykezelő központ és az eseménykezelő központok feladat- és hatásköréről, valamint a biztonsági események kezelésének, a biztonsági események műszaki vizsgálatának és a sérülékenységvizsgálat lefolytatásának szabályairól szóló 185/2015. (VII. 13.) Korm. rendelet 14. § (5) bekezdése szerinti nyilvántartásban.
 
 [^2]: Az 5/A. §-t a 157/2016. (VI. 13.) Korm. rendelet 2. §-a iktatta be.
+[^3]: Az 5/A. § (5a) bekezdését a 358/2016. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
+[^4]: Az 5/A. § (5b) bekezdését a 358/2016. (XI. 23.) Korm. rendelet 1. §-a iktatta be.
+[^5]: Az 5/A. § (6) bekezdése a 358/2016. (XI. 23.) Korm. rendelet 2. §-ával megállapított szöveg.
