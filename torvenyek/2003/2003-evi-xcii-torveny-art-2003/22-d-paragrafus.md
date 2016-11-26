@@ -4,11 +4,13 @@
 
 a) az értékesítés megkezdését, legkésőbb az értékesítés megkezdését megelőző napon,
 
-b) az értékesítés megszüntetését, legkésőbb az azt megelőző napon,
+b) az üzemeltetés szüneteltetésének megkezdését és befejezését legkésőbb a szüneteltetés megkezdésének, illetve befejezésének napján,
 
-c) az értékesítésnek az adózó érdekkörén kívül eső okból bekövetkezett megszűnését, legkésőbb az értékesítés megszűnésének napján,
+c) az értékesítés megszüntetését, legkésőbb az azt megelőző napon,
 
-d) haladéktalanul, a külön jogszabályban meghatározott adattartalomban bekövetkezett bármely változást.
+d) az értékesítésnek az adózó érdekkörén kívül eső okból bekövetkezett megszűnését, legkésőbb az értékesítés megszűnésének napján,
+
+e) haladéktalanul, a külön jogszabályban meghatározott adattartalomban bekövetkezett bármely változást.
 
 (2) Az (1) bekezdés a) pontja szerinti bejelentés igazgatási szolgáltatási díjköteles. A díj mértéke 30 000 Ft, amelyet az állami adó- és vámhatóság által meghatározott számla javára kell megfizetni.
 
@@ -19,3 +21,9 @@ a) az igazgatási szolgáltatási díj teljes összege megfizetésre, és
 b) az automataberendezés gyártási száma bejelentésre
 
 került.
+
+(4) Az automataberendezéseket automata felügyeleti egységgel (a továbbiakban: AFE) kell ellátni, amely önállóan elkülöníthető zárt, elektronikus adattárolást és adatkommunikációt végez. Az AFE-ben tárolt adatokról az adózó rendszeresen adatszolgáltatást teljesít az állami adó- és vámhatóság részére, amely adatokat az állami adó- és vámhatóság kizárólag az e törvény szerinti adózók ellenőrzéséhez, ellenőrzésre történő kiválasztásához, törvényben meghatározott feladatai ellátásához használhatja fel az adó megállapításához való jog elévülési idején belül.
+
+(5) Az automataberendezések működését az állami adó- és vámhatóság hírközlő eszköz és rendszer útján felügyeli.
+
+(6) A (4)–(5) bekezdésben foglaltak végrehajtása érdekében az automataberendezés üzemeltetőjének szerződést kell kötnie egy felügyeleti szolgáltatóval. A felügyeleti szolgáltató az adatok rögzítésének és a NAV felé történő szolgáltatásának technikai lebonyolítását végzi az AFE automataberendezésbe történő beszerelésével, és az automataberendezés működése során történő folyamatos működtetésével. A felügyeleti szolgáltatás minimális tartalma hatósági ár-köteles.

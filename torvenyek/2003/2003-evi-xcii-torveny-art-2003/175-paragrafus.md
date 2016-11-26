@@ -16,15 +16,15 @@
 
 (4a) Felhatalmazást kap az adópolitikáért felelős miniszter, hogy
 
-a) az automataberendezések üzemeltetőinek adókötelezettségével,
+a) az automataberendezések üzemeltetőinek adókötelezettségeinek, az automataberendezés és az AFE üzemeltetésével, szervizelésével kapcsolatos kötelezettségek ellenőrzésének,
 
-b) a bejelentési eljárásért fizetendő igazgatási szolgáltatási díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével,
+b) a bejelentési eljárásért fizetendő igazgatási szolgáltatási díj beszedésének, kezelésének, nyilvántartásának, visszatérítésének,
 
-c) az automataberendezések műszaki követelményeivel, üzemeltetésüknek és szervizelésüknek, valamint az automataberendezésekben rögzített adatok adóhatóság felé történő szolgáltatásával,
+c) az AFE műszaki követelményeinek, üzemeltetésének és szervizelésének, az AFE által rögzített adatok állami adó- és vámhatóság felé történő szolgáltatásának, a felügyeleti szolgáltatókat tanúsító független tanúsító szervezet tevékenységének, a felügyeleti szolgáltatói szerződésnek, valamint a felügyeleti szolgáltató felelősségének,
 
-d) a felügyeleti szolgáltatóval kapcsolatos követelményekkel és az automataberendezéshez kapcsolódó felügyeleti szolgáltatás minimális tartalmával, a hatósági árral és annak alkalmazási feltételeivel
+d) a felügyeleti szolgáltatóval szemben támasztott követelményeknek, a felügyeleti szolgáltatói engedélyezési eljárásért és az engedély módosításáért fizetendő igazgatási szolgáltatási díj fizetésének, a felügyeleti szolgáltató regisztrációjának, a felügyeleti szolgáltatás minimális tartalmának, a hatósági árnak és annak alkalmazási feltételeinek
 
-kapcsolatos részletes szabályokat rendeletben határozza meg.
+részletes szabályait rendeletben határozza meg.
 
 (5) Az adóhatóság a fizetési meghagyást, a fizetési felszólítást és az adóívet nyomtatványon is kiadhatja.
 

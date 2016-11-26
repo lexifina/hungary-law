@@ -80,6 +80,8 @@ a) az iskolaszövetkezet adószámát,
 
 b) az iskolaszövetkezeti tag adóazonosító jelét és társadalombiztosítási azonosító jelét, diákigazolványa számát.
 
+(11a) Az iskolaszövetkezet köteles az állami adó- és vámhatósághoz bejelenteni a jogviszony megszűnését követő 8 napon belül az iskolaszövetkezeti tag jogviszonya megszűnésének napját. Jogutódlás esetén a (4) bekezdés c) pontjában foglaltakat megfelelően alkalmazni kell.
+
 (12) Az iskolaszövetkezet munkáltató bejelentési kötelezettségét az egyszerűsített foglalkoztatás bejelentésével azonos módon
 
 a) elektronikus úton központi elektronikus szolgáltató rendszeren (ügyfélkapun) keresztül vagy

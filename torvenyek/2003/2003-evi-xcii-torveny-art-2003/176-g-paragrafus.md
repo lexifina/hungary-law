@@ -7,3 +7,5 @@
 a) a külön jogszabály szerint pénztárgép használatra kötelezett, vagy
 
 b) a külön jogszabály szerint pénztárgép használatra nem kötelezett, de pénztárgépet saját döntése alapján használó.
+
+(3) Ezen alcím alkalmazásában hatósági ár az üzemeltető részére nyújtott, az automataberendezések adatszolgáltatását biztosító minimális felügyeleti szolgáltatás ára.
