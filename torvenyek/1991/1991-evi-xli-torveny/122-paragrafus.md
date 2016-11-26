@@ -14,7 +14,7 @@ ellenőrzése céljából megkeresi a személyiadat- és lakcímnyilvántartást
 
 (3) Az ellenőrzés elektronikus úton történő adatigényléssel valósul meg; az adatigénylés iránti megkeresését a közjegyző hivatali elektronikus aláírásával látja el.
 
-(4) A nyilvántartást vezető hatóság az adatigénylés iránti megkeresés teljesítése előtt ellenőrzi a hivatali elektronikus aláíráshoz tartozó tanúsítvány érvényességét; a megkeresés teljesítését megtagadja, ha a tanúsítvány érvényességét a hitelesítés-szolgáltató felfüggesztette vagy a tanúsítványt visszavonta.
+(4) A nyilvántartást vezető hatóság az adatigénylés iránti megkeresés teljesítése előtt ellenőrzi a hivatali elektronikus aláíráshoz tartozó tanúsítvány érvényességét; a megkeresés teljesítését megtagadja, ha a tanúsítvány érvényességét a bizalmi szolgáltató felfüggesztette vagy a tanúsítványt visszavonta.
 
 (5) Az ellenőrzés céljából a közjegyző a nyilvántartásokból a fél alábbi adatait ellenőrizheti:
 
