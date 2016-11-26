@@ -38,7 +38,11 @@ g) az adóellenőrzés, önellenőrzés során megállapított, adóévi bevéte
 
 h) a várható kötelezettségekre és a jövőbeni költségekre képzett céltartalék felhasználása miatt az adóévben bevételként elszámolt összeg, ha azt az adózó korábban a (2) bekezdés c) vagy h) pontja alapján az adózás előtti eredményt növelő tételként vette számításba, amelyet az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazol,
 
-i) a tulajdoni részesedésre visszaírt értékvesztés, ha azt az adózó korábban a (2) bekezdés d) vagy e) pontja alapján az adózás előtti eredményt növelő tételként vette számításba, amelyet az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazol.
+i) a tulajdoni részesedésre visszaírt értékvesztés, ha azt az adózó korábban a (2) bekezdés d) vagy e) pontja alapján az adózás előtti eredményt növelő tételként vette számításba, amelyet az erre vonatkozó adóbevallással és az azt alátámasztó kimutatásokkal igazol,
+
+j) a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 24/B. § (1) bekezdése szerinti jóváírásra tekintettel az adóévben bevételként elszámolt összeg,
+
+k) a kisajátítás, valamint a kisajátítási tervben szereplő ingatlanra megkötött adásvétel során kapott ellenérték és az érintett eszköz könyv szerinti értéke közötti pozitív különbözet az adózás előtti eredményben való megjelenése adóévében,
 
 (4) Kedvezményezett átalakulás esetén a jogelőd, illetve a jogutód – választása szerint – nem alkalmazza a (2) bekezdés c) pontját, feltéve, hogy a jogutód létesítő okirata tartalmazza a (6) bekezdésben foglaltak alkalmazására vonatkozó kötelezettségvállalást.
 
@@ -48,7 +52,7 @@ i) a tulajdoni részesedésre visszaírt értékvesztés, ha azt az adózó kor�
 
 (7) A (4), illetve (5) bekezdésben foglaltak alkalmazásának további feltétele, hogy átalakuláskor, egyesüléskor, szétváláskor a jogelőd (kiválás esetén, továbbá, ha a jogelőd külföldi vállalkozónak nem minősülő külföldi személy, akkor a jogutód), kedvezményezett eszközátruházáskor az átadó, (ha az átadó külföldi vállalkozónak nem minősülő külföldi személy, akkor az átvevő) a választását az átalakulás, egyesülés, szétválás, illetve az eszközátruházás adóévéről szóló bevallásában bejelenti az adóhatóságnak.
 
-(8) Amennyiben az adóalany kapcsolt vállalkozásával a társasági adóról és az osztalékadóról szóló 1996. évi LXXXI. törvény (a továbbiakban: Tao. tv.) 18. §-a alá tartozó jogügyletet köt, úgy az adóalap megállapításkor köteles az abban foglaltakat megfelelően alkalmazni.
+(8) Amennyiben az adóalany kapcsolt vállalkozásával a Tao. tv. 18. §-a alá tartozó jogügyletet köt, úgy az adóalap megállapításkor köteles az abban foglaltakat megfelelően alkalmazni.
 
 (9) A külföldről származó jövedelmet e § rendelkezései szerint kell megállapítani. Ennek során a külföldről származó jövedelem megállapításánál kell figyelembe venni az e bevétel megszerzéséhez közvetlenül hozzárendelhető költségeket, ráfordításokat, adózás előtti eredményt módosító tételeket. A külföldről származó árbevétel és bevétel összegének az összes árbevétel és bevétel összegéhez viszonyított arányában kell megosztani a külföldről származó jövedelem megszerzéséhez közvetlenül hozzá nem rendelhető – de nem a kizárólag belföldről származó jövedelemhez felmerült – költségeket, ráfordításokat, adózás előtti eredményt növelő, csökkentő tételeket.
 

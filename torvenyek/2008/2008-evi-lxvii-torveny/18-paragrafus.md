@@ -11,3 +11,5 @@
 (5) E törvénynek az egyes adótörvények és azokkal összefüggő más törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2014. évi LXXIV. törvénnyel megállapított 6. § (2) bekezdés b) pontját, c) pontját, h) pontját és 6. § (3) bekezdés b) és h) pontját az adózó első alkalommal a 2015. adóévi adókötelezettsége megállapítása során alkalmazhatja.
 
 (6) E törvénynek az adózással összefüggő egyes törvények módosításáról szóló 2015. évi LXXXI. törvénnyel módosított 6. § (2) bekezdés b) pontját a 2015. adóévi adókötelezettségre az adózó választása szerint alkalmazza.
+
+(7) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 6. § (3) bekezdés j) és k) pontját első alkalommal a 2016. adóévi adókötelezettség megállapítása során kell alkalmazni.
