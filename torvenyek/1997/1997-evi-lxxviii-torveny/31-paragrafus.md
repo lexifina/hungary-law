@@ -31,3 +31,7 @@ c) mindenki számára a közhasználatú építmények esetében a biztonságos 
 d) a terület geológiai, hidrológiai és szeizmológiai sajátosságainak való megfelelést.
 
 (5) Mind az építmény elhelyezése, mind pedig a külső megjelenését befolyásoló kialakítása, átalakítása, bővítése, felújítása, helyreállítása során különös figyelmet kell fordítani a településkép, a tájkép a beépítési vagy az építészeti jellegzetesség és látvány, a helyi jelleg védelmére, az épített örökség védett értékeinek érvényesülésére.
+
+(6) Az építésügyi műszaki irányelvek kidolgozásáért felelős bizottság kidolgozza az épített környezet létrehozása és fenntartása érdekében végzett tervezési, építési és üzemeltetési tevékenység területére kiterjedő, jogszabály, szabvány által nem szabályozott, azokkal nem ellentétes követelményeket, tevékenységekre vonatkozó módszereket tartalmazó építésügyi műszaki irányelveket. Az építésügyi műszaki irányelv alkalmazása önkéntes.
+
+(7) Amennyiben az építésügyi műszaki irányelv által szabályozott területen jogszabály vagy szabvány kerül kiadásra, az építésügyi műszaki irányelvet vissza kell vonni.

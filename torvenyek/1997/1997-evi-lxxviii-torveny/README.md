@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-78-00-00
 | 2016-07-01 | 2016. évi XXXII. törvény | 1997-78-00-00.74 |
 | 2016-07-23 | 2016. évi LXXIV. törvény | 1997-78-00-00.75 |
 | 2016-09-01 | 2016. évi XXXVI. törvény | 1997-78-00-00.76 |
+| 2016-11-26 | 2016. évi CXVIII. törvény | 1997-78-00-00.77 |
