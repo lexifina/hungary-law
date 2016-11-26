@@ -4,15 +4,15 @@
 
 ## 33. A fennmaradási engedély iránti kérelem és mellékletei
 
-42. § (1)[^122] Az építésügyi hatóság az Étv. 48. § (2) bekezdés a)–d) pontjában meghatározott jogszerűtlen és az Étv. 48. § (5) bekezdésében meghatározott szakszerűtlen építési tevékenységek esetén, amennyiben annak jogszabályi feltételei fennállnak, az építtető, vagy amennyiben az építtető személye nem ismert, a tulajdonos kérelmére fennmaradási engedélyt ad.
+42. § (1)[^123] Az építésügyi hatóság az Étv. 48. § (2) bekezdés a)–d) pontjában meghatározott jogszerűtlen és az Étv. 48. § (5) bekezdésében meghatározott szakszerűtlen építési tevékenységek esetén, amennyiben annak jogszabályi feltételei fennállnak, az építtető, vagy amennyiben az építtető személye nem ismert, a tulajdonos kérelmére fennmaradási engedélyt ad.
 
-(2)[^123]
+(2)[^124]
 
 (3) A fennmaradási engedély iránti kérelemben
 
 a) az országos építési követelményektől eltérő műszaki megoldás engedélyezésére,
 
-b)[^124]
+b)[^125]
 
 c) az (1) bekezdés szerinti jogszerűtlenül vagy szakszerűtlenül megépített építmény
 
@@ -28,9 +28,9 @@ a) jogszabályban előírt esetekben
 
 aa) a települési önkormányzat polgármesterének településképi véleményét vagy
 
-ab)[^125] a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményét,
+ab)[^126] a településrendezési és az építészeti-műszaki tervtanácsokról szóló kormányrendeletben előírt esetekben az építészeti-műszaki tervtanács szakmai véleményét,
 
-b)[^126] az Épkiv. 14. §-ában meghatározott tartalmú nyilatkozatot, ha az építési tevékenységet építési napló vezetése nélkül végezték,
+b)[^127] az Épkiv. 14. §-ában meghatározott tartalmú nyilatkozatot, ha az építési tevékenységet építési napló vezetése nélkül végezték,
 
 c) az eljárási illeték, igazgatási szolgáltatási díj befizetésének igazolását.
 
@@ -56,8 +56,8 @@ a) ha a kérelem benyújtásakor rendelkezésre áll, az ügyben érintett szakh
 
 b) a 4. § (4) bekezdése szerinti nyilatkozatokat, és az ügyben érintett összes ismert ügyfélnek a fellebbezési jogról lemondó nyilatkozatát.
 
-[^122]: A 42. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 19. pontja szerint módosított szöveg.
-[^123]: A 42. § (2) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 14. § l) pontja hatályon kívül helyezte.
-[^124]: A 42. § (3) bekezdés b) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § m) pontja hatályon kívül helyezte.
-[^125]: A 42. § (4) bekezdés a) pont ab) alpontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 7. pontja szerint módosított szöveg.
-[^126]: A 42. § (4) bekezdés b) pontját a 77. § hatályon kívül helyezte, újonnan a 441/2015. (XII. 28.) Korm. rendelet 179. § (13) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^123]: A 42. § (1) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 13. § 19. pontja szerint módosított szöveg.
+[^124]: A 42. § (2) bekezdését a 156/2016. (VI. 13.) Korm. rendelet 14. § l) pontja hatályon kívül helyezte.
+[^125]: A 42. § (3) bekezdés b) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § m) pontja hatályon kívül helyezte.
+[^126]: A 42. § (4) bekezdés a) pont ab) alpontja a 67/2013. (III. 8.) Korm. rendelet 18. § (6) bekezdés 7. pontja szerint módosított szöveg.
+[^127]: A 42. § (4) bekezdés b) pontját a 77. § hatályon kívül helyezte, újonnan a 441/2015. (XII. 28.) Korm. rendelet 179. § (13) bekezdése iktatta be. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

@@ -14,8 +14,9 @@ b) az építésügyi hatóság a papír alapú hiteles másolatot postán, szem�
 
 (4) Az építésügyi és építésfelügyeleti eljárásokban közreműködő hatóságok regisztrációja az ÉTDR keretében történik. A közreműködő szakhatóságoknak az építésügyi és építésfelügyeleti hatósági eljárás lefolytatásához szükséges adatait a közreműködő szakhatóság tartja karban.
 
-(5) Az ÉTDR útján történő elektronikus kapcsolattartásra a Ket. elektronikus kapcsolattartásra vonatkozó rendelkezései irányadók azzal, hogy az ÉTDR-ben feltöltésre kerülő valamennyi dokumentum gépi elektronikus aláírással automatikus hitelesítésre kerül, kivéve a hatósági felhasználók által készített, de kiadmányozásra nem került dokumentumokat. A záradékolás során az ÉTDR az elektronikus ügyintézés részletes szabályairól szóló kormányrendelet szerinti tartalommal és módon gépi aláírást és időbélyegzőt alkalmaz.
+(5)[^47] Az ÉTDR útján történő elektronikus kapcsolattartásra a Ket. elektronikus kapcsolattartásra vonatkozó rendelkezései irányadók azzal, hogy az ÉTDR-ben feltöltésre kerülő valamennyi dokumentum elektronikus bélyegzővel automatikus hitelesítésre kerül, kivéve a hatósági felhasználók által készített, de kiadmányozásra nem került dokumentumokat. A záradékolás során az ÉTDR az elektronikus ügyintézés részletes szabályairól szóló kormányrendelet szerinti tartalommal és módon elektronikus bélyegzőt és időbélyegzőt alkalmaz.
 
 (6) A kérelemhez benyújtott mellékleteknek meg kell felelniük a 8. mellékletben meghatározott technikai és formai követelményeknek.
 
 [^46]: A 15. § (1) bekezdése a 62/2014. (III. 6.) Korm. rendelet 17. § (7) bekezdés 8. pontja szerint módosított szöveg.
+[^47]: A 15. § (5) bekezdése a 352/2016. (XI. 18.) Korm. rendelet 4. §-a szerint módosított szöveg.

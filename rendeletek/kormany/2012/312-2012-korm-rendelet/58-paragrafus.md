@@ -10,11 +10,11 @@
 
 (2) Az építésfelügyeleti hatóság
 
-a)[^174]
+a)[^175]
 
 b) a 62. §-ban foglaltak szerint ellenőrzi vagy ellenőrizheti
 
-ba)[^175]
+ba)[^176]
 
 bb) az építőipari kivitelezési tevékenység folytatását,
 
@@ -22,13 +22,13 @@ bc) azt, hogy az építési folyamat résztvevői rendelkeznek-e a tevékenység
 
 bd) az építőipari kivitelezési dokumentáció meglétét,
 
-be)[^176] az építési napló meglétét, vezetését és annak tartalmát,
+be)[^177] az építési napló meglétét, vezetését és annak tartalmát,
 
 bf) az építtetői fedezetkezelőre vonatkozó előírások betartását.
 
-(3)[^177] Az építésfelügyeleti hatóság ellenőrzi a meglévő építmények körében a jogszabályban előírt jókarbantartási kötelezettség teljesítését, valamint műemléken, nyilvántartott műemléki értéken, műemléki környezetben vagy műemléki jelentőségű területen azt, hogy az építmény műszaki állapota nem veszélyezteti-e a védett műemléki értékeket.
+(3)[^178] Az építésfelügyeleti hatóság ellenőrzi a meglévő építmények körében a jogszabályban előírt jókarbantartási kötelezettség teljesítését, valamint műemléken, nyilvántartott műemléki értéken, műemléki környezetben vagy műemléki jelentőségű területen azt, hogy az építmény műszaki állapota nem veszélyezteti-e a védett műemléki értékeket.
 
-(4)[^178] Az építésfelügyeleti hatóság hatósági ellenőrzés keretében vizsgálja
+(4)[^179] Az építésfelügyeleti hatóság hatósági ellenőrzés keretében vizsgálja
 
 a) az Étv. 48. §-a szerinti szabálytalan tevékenységeket, valamint
 
@@ -40,8 +40,8 @@ b) azon építési engedélyhez vagy az Étv. 33/A. §-a szerinti egyszerű beje
 
 (7) A speciális vizsgálatok elvégzése érdekében az építésfelügyeleti hatóság az Étv. 53/A. § (3) bekezdésében meghatározott szakértő vagy minőség-ellenőrző szerv közreműködését is igénybe veheti.
 
-[^174]: Az 58. § (2) bekezdés a) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § o) pontja hatályon kívül helyezte.
-[^175]: Az 58. § (2) bekezdés b) pont ba) alpontját a 156/2016. (VI. 13.) Korm. rendelet 14. § p) pontja hatályon kívül helyezte.
-[^176]: Az 58. § (2) bekezdés b) pont be) alpontja a 156/2016. (VI. 13.) Korm. rendelet 13. § 21. pontja szerint módosított szöveg.
-[^177]: Az 58. § (3) bekezdése a 38/2015. (III. 11.) Korm. rendelet 18. § (9) bekezdésével megállapított, a 306/2016. (X. 13.) korm. rendelet 14. § b) pontja szerint módosított szöveg.
-[^178]: Az 58. § (4) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.
+[^175]: Az 58. § (2) bekezdés a) pontját a 156/2016. (VI. 13.) Korm. rendelet 14. § o) pontja hatályon kívül helyezte.
+[^176]: Az 58. § (2) bekezdés b) pont ba) alpontját a 156/2016. (VI. 13.) Korm. rendelet 14. § p) pontja hatályon kívül helyezte.
+[^177]: Az 58. § (2) bekezdés b) pont be) alpontja a 156/2016. (VI. 13.) Korm. rendelet 13. § 21. pontja szerint módosított szöveg.
+[^178]: Az 58. § (3) bekezdése a 38/2015. (III. 11.) Korm. rendelet 18. § (9) bekezdésével megállapított, a 306/2016. (X. 13.) korm. rendelet 14. § b) pontja szerint módosított szöveg.
+[^179]: Az 58. § (4) bekezdése a 156/2016. (VI. 13.) Korm. rendelet 12. § (4) bekezdésével megállapított szöveg.

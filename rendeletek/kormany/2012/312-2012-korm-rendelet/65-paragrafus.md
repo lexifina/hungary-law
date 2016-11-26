@@ -1,6 +1,6 @@
 ## 48. Építésfelügyeleti hatósági intézkedések
 
-65. §[^194] (1) Az építésfelügyeleti hatóság az elektronikus építési naplóba történő egyidejű bejegyzéssel megtiltja az építőipari kivitelezési tevékenység folytatását, ha súlyos szabálytalanságot észlel. Súlyos szabálytalanságnak minősül
+65. §[^195] (1) Az építésfelügyeleti hatóság az elektronikus építési naplóba történő egyidejű bejegyzéssel megtiltja az építőipari kivitelezési tevékenység folytatását, ha súlyos szabálytalanságot észlel. Súlyos szabálytalanságnak minősül
 
 a) a jogszabállyal kötelezően előírt építtetői fedezetkezelő közreműködésének elmaradása,
 
@@ -28,4 +28,4 @@ b) az Épkiv. 24. §-ában meghatározott építési tevékenységet elektroniku
 
 (7) Az építésfelügyeleti hatóság az építési folyamat résztvevőivel szemben bírságot kiszabó jogerős döntése ellen újrafelvételi kérelem nem nyújtható be.
 
-[^194]: A 65. § a 156/2016. (VI. 13.) Korm. rendelet 12. § (8) bekezdésével megállapított szöveg.
+[^195]: A 65. § a 156/2016. (VI. 13.) Korm. rendelet 12. § (8) bekezdésével megállapított szöveg.

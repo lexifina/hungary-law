@@ -176,7 +176,7 @@
 
 | 17. | A kulturális örökségvédelmi hatósági nyilvántartásban szereplő nyilvántartott műemléki értéket, műemléket érintően, továbbá műemlék telkén, műemléki jelentőségű területen, műemlék történeti tájon vagy világörökségi helyszínen vagy világörökségi területen új épület építése vagy meglévő épület építésügyi hatósági engedélyhez kötött bővítése, átalakítása vagy bontása esetén. | Annak elbírálása kérdésében, hogy az építési tevékenység a kulturális örökség vagy a világörökség védelme jogszabályban rögzített követelményeinek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | a) építési, b) bontási, c) összevont (elvi építési keretengedélyezési szakaszában), d) az engedély hatályának meghosszabbítási, e) használatbavételi, f) fennmaradási engedélyezési eljárás |
 
-7. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^231]
+7. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^232]
 
 I. Az összevont telepítési eljárásban benyújtandó mellékletek
 
@@ -260,4 +260,4 @@ III. Az összevont telepítési eljárásban vizsgálandó szakkérdés
 
 | 3. | Egységes környezethasználati engedélyhez kötött tervezett tevékenység esetén. | A környezetszennyezés megelőzése, a környezet terhelésének csökkentése érdekében mi az elérhető legjobb technika. |
 
-[^231]: A 7. melléklet a 70/2015. (III. 30.) Korm. rendelet 206. § (24) bekezdésével megállapított szöveg.
+[^232]: A 7. melléklet a 70/2015. (III. 30.) Korm. rendelet 206. § (24) bekezdésével megállapított szöveg.

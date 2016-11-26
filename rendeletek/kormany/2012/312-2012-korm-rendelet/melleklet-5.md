@@ -1,4 +1,4 @@
-5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^229]
+5. melléklet a 312/2012. (XI. 8.) Korm. rendelethez[^230]
 
 ## Szakhatósági vagy szakkérdés vizsgálatára alkalmas dokumentációk tartalma építésügyi hatósági engedélyezéshez
 
@@ -198,4 +198,4 @@ VII. A műemléki érték védelmével kapcsolatos szakhatósági állásfoglal�
 
 2.3.3. nyilvántartott műemléki érték, műemlék esetén a tartószerkezeti szakértői vagy amennyiben releváns egyéb épületdiagnosztikai szakvéleményt.
 
-[^229]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a, a 146/2014. (V. 5.) Korm. rendelet 35. § (2) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 45. § (1) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a, a 156/2016. (VI. 13.) Korm. rendelet 12. § (11) bekezdése, 13. § 27–30. pontja, a 306/2016. (X. 13.) korm. rendelet 14. § c) pontja szerint módosított szöveg.
+[^230]: Az 5. melléklet a 76. §, a 358/2013. (X. 9.) Korm. rendelet 6. § (3) bekezdés c) pontja, az 559/2013. (XII. 31.) Korm. rendelet 71. §-a, a 146/2014. (V. 5.) Korm. rendelet 35. § (2) bekezdése, a 311/2014. (XII. 11.) Korm. rendelet 45. § (1) bekezdése, a 300/2014. (XII. 5.) Korm. rendelet 19. §-a, a 156/2016. (VI. 13.) Korm. rendelet 12. § (11) bekezdése, 13. § 27–30. pontja, a 306/2016. (X. 13.) korm. rendelet 14. § c) pontja szerint módosított szöveg.
