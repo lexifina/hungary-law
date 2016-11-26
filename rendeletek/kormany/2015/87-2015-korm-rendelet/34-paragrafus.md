@@ -6,7 +6,7 @@
 
 (3) A felsőoktatási intézmény a nyilvántartott adatokat hitelesített iratként állítja elő és tárolja.
 
-(4)[^67] A papír alapú irat hitelesítése a felsőoktatási intézmény szabályzatában meghatározott személy aláírásával, a felsőoktatási intézmény bélyegzőjének lenyomatával, valamint keltezéssel, az elektronikus irat hitelesítése időbélyegzővel és a felsőoktatási intézmény szabályzatában meghatározott személy elektronikus aláírásával, vagy a szervezet nevében történő elektronikus aláírással való ellátásával történik.
+(4)[^67] A papír alapú irat hitelesítése a felsőoktatási intézmény szabályzatában meghatározott személy aláírásával, a felsőoktatási intézmény bélyegzőjének lenyomatával, valamint keltezéssel, az elektronikus irat hitelesítése időbélyegzővel és a felsőoktatási intézmény szabályzatában meghatározott személy elektronikus aláírásával, vagy elektronikus bélyegzővel való ellátásával történik.
 
 (5) A felsőoktatási intézménynek a hitelesített iratokat biztonságos helyen kell tárolnia oly módon, hogy ahhoz csak a felsőoktatási intézmény szabályzatában jogosultként megjelölt személyek férjenek hozzá.
 
@@ -38,6 +38,6 @@ h) az átvevő nevét és aláírását.
 
 (11)[^69] A felsőoktatási intézmény iratkezelési rendjét az intézmény a köziratokról, a közlevéltárakról és a magánlevéltári anyag védelméről szóló 1995. évi LXVI. törvény és a közfeladatot ellátó szervek iratkezelésének általános követelményeiről szóló 335/2005. (XII. 29.) Korm. rendelet előírásai alapján szabályozza.
 
-[^67]: A 34. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 75. §-ával megállapított szöveg.
+[^67]: A 34. § (4) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 75. §-ával megállapított, a 352/2016. (XI. 18.) Korm. rendelet 7. §-a szerint módosított szöveg.
 [^68]: A 34. § (8) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 89. § 8. pontja szerint módosított szöveg.
 [^69]: A 34. § (11) bekezdését a 169/2016. (VII. 1.) Korm. rendelet 32. §-a iktatta be.
