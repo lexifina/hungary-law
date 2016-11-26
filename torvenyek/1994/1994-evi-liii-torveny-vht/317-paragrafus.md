@@ -9,5 +9,3 @@ b) 184/A. §-a és 187. §-a (1) bekezdésének b) pontja a szellemi tulajdonjog
 való megfelelést szolgálja.
 
 (2) E törvény
-
-a) 13. §-ának (3) bekezdése, 16. §-ának j) pontja, 31/C. §-a, 37/B. §-a, 48. §-ának (8) bekezdése, 50. §-ának (5) bekezdése és 211. §-ának (3) bekezdése a kis értékű követelések európai eljárásának bevezetéséről szóló, 2007. július 11-i 861/2007/EK európai parlamenti és tanácsi rendelet,

@@ -36,7 +36,7 @@ fd) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazás
 
 (6) Az adatigénylés iránti megkeresésre a 47. § (4) bekezdésében, a megkeresés teljesítésének díjkötelezettségére a 47. § (3) bekezdésében, az ellenőrzés során beszerzett adatok kezelésére pedig a 47. § (5) bekezdésében foglalt rendelkezéseket kell alkalmazni.
 
-(7) A nyilvántartást vezető hatóság az adatigénylés iránti megkeresés teljesítése előtt ellenőrzi a végrehajtó hivatali elektronikus aláírásához tartozó tanúsítvány érvényességét; a megkeresés teljesítését megtagadja, ha a tanúsítvány érvényességét a hitelesítés-szolgáltató felfüggesztette vagy a tanúsítványt visszavonta.
+(7) A nyilvántartást vezető hatóság az adatigénylés iránti megkeresés teljesítése előtt ellenőrzi a végrehajtó hivatali elektronikus aláírásához tartozó tanúsítvány érvényességét; a megkeresés teljesítését megtagadja, ha a tanúsítvány érvényességét a bizalmi szolgáltató felfüggesztette vagy a tanúsítványt visszavonta.
 
 (8) A végrehajtó a nyilvántartásnak az ellenőrzés során megismert, elektronikus formában lévő adatairól papír alapú másolatot készíthet, melyet a végrehajtási ügy iratai között zártan helyez el, és azt csak a bíróság, az ügyész, a büntetőügyben eljáró hatóság, valamint a végrehajtó tevékenységének ellenőrzésére a 230. § szerint jogosult Igazságügyi Hivatal részére adhatja ki, és részükre teheti lehetővé az adatokba történő betekintést. Az adatokat tartalmazó iratokat a végrehajtó a végrehajtási iratok irattárba helyezésétől számított öt évig tárolja, azt követően gondoskodik a megsemmisítésükről.
 

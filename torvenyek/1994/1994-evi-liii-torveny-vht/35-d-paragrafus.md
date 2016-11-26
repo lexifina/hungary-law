@@ -8,7 +8,7 @@ c) kézbesítési rendszer által küldött értesítések fogadására szolgál
 
 (2) A végrehajtó a kérelem teljesítése előtt a 47/A. § szerint ellenőrzi a személyazonosság és a lakóhely igazolására szolgáló személyazonosító okmány száma alapján annak érvényességét és adatainak valódiságát. Ha a fél nem szolgáltatja az (1) bekezdésben meghatározott adatokat, vagy a személyazonosságával kapcsolatban kétség merül fel, a végrehajtó a kérelem teljesítését megtagadja.
 
-(3) A kézbesítési rendszer használatához szükséges, hogy a felhasználó rendelkezzen a legalább az elektronikus aláírásról szóló törvény szerinti fokozott biztonságú aláírás létrehozásra képes aláírást létrehozó eszközzel, időbélyegzővel, továbbá titkosító és hitelesítési tanúsítvánnyal.
+(3) A kézbesítési rendszer használatához szükséges, hogy a felhasználó rendelkezzen a legalább fokozott biztonságú aláírás létrehozásra képes aláírást létrehozó eszközzel, időbélyegző-szolgáltatásra vonatkozó szerződéssel, továbbá titkosító és hitelesítési tanúsítvánnyal.
 
 (4) A fél köteles az (1) bekezdésben meghatározott adataiban bekövetkezett változást haladéktalanul bejelenteni.
 
