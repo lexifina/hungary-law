@@ -16,7 +16,7 @@ d) aranykereskedelmi ügyletet,
 
 e) részvénykönyvvezetést,
 
-f) az elektronikus aláírásról szóló 2001. évi XXXV. törvény 6. § (1) bekezdésében foglalt szolgáltatást,
+f) bizalmi szolgáltatást,
 
 g) a hallgatói hitelrendszerről szóló kormányrendeletben meghatározott Diákhitel szervezet hitelezési tevékenységének elősegítése érdekében végzett tevékenységet,
 

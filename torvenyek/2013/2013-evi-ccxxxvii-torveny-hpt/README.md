@@ -36,3 +36,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-237-00-00
 | 2016-07-01 | 2016. évi LIII. törvény | 2013-237-00-00.29 |
 | 2016-07-17 | 2016. évi LXIX. törvény | 2013-237-00-00.30 |
 | 2016-09-18 | 2016. évi LIII. törvény | 2013-237-00-00.31 |
+| 2016-11-26 | 2016. évi CXXI. törvény | 2013-237-00-00.32 |
