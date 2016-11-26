@@ -2,7 +2,7 @@
 
 a) a helyi önkormányzatok szervei törvényben vagy önkormányzati rendeletben meghatározott feladataik ellátásához;
 
-b) a személyazonosító igazolványt kiadó és nyilvántartó hatóság az ezzel kapcsolatosan előírt feladatai végrehajtásához;
+b) a személyazonosító igazolványt kiadó és nyilvántartó hatóság, valamint a személyazonosító igazolvány kiadása során közreműködő hatóságként eljáró bv. szerv, az ezzel kapcsolatosan előírt feladatai végrehajtásához;
 
 c) a szabálysértési hatóság a hatáskörébe tartozó szabálysértési eljárásban a feljelentett vagy tanú (szakértő) személyi adatainak és lakcímének megállapításához;
 

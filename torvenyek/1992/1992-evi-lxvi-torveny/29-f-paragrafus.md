@@ -26,7 +26,9 @@ a) a menekültkénti elismerést, az oltalmazottkénti elismerést, illetve a be
 
 b) a polgár magyar állampolgársága megszűnt,
 
-c) a bevándorolt, letelepedett jogállású polgár megszerzi a szabad mozgás és tartózkodás jogát, mindaddig, amíg e joga fennáll.
+c) a bevándorolt, letelepedett jogállású polgár megszerzi a szabad mozgás és tartózkodás jogát, mindaddig, amíg e joga fennáll,
+
+d) a nem magyar állampolgár Magyarország területét a külföldön történő letelepedés szándékával elhagyja.
 
 (6) A polgár lakóhelye szerint illetékes járási hivatal vagy a központi szerv a személyazonosító igazolványt visszavonja, ha
 

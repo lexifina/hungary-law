@@ -1,6 +1,6 @@
 ## Személyazonosítás és személyazonosság igazolására alkalmas hatósági igazolványok
 
-29. § (1) A személyazonosító igazolvány a polgár írásbeli nyilatkozata, valamint az anyakönyv és a nyilvántartás – nem magyar állampolgár esetén ezeken túlmenően a polgár útlevele és a magyarországi tartózkodásának jogcímét igazoló közokirat – alapján kiállított olyan hatósági igazolvány, amely a polgár személyazonosságát és az e törvényben meghatározott adatait közhitelűen igazolja. Az állandó személyazonosító igazolvány alkalmas az ügyfél elektronikus úton történő közhiteles azonosítására, e törvényben megjelölt kivételekkel – a polgár kérelmére – minősített elektronikus aláírás létrehozására, valamint a polgár törvényben megjelölt esetekben gyakorolhatja vele a külföldre utazás jogát.
+29. § (1) A személyazonosító igazolvány a polgár írásbeli nyilatkozata, valamint az anyakönyv és a nyilvántartás – nem magyar állampolgár esetén ezeken túlmenően a polgár útlevele és a magyarországi tartózkodásának jogcímét igazoló közokirat – alapján kiállított olyan hatósági igazolvány, amely a polgár személyazonosságát és az e törvényben meghatározott adatait közhitelűen igazolja. Az állandó személyazonosító igazolvány alkalmas a polgár elektronikus úton történő közhiteles azonosítására, e törvényben megjelölt kivételekkel – a polgár kérelmére – minősített elektronikus aláírás létrehozására, valamint a polgár törvényben megjelölt esetekben gyakorolhatja vele a külföldre utazás jogát.
 
 (2) A személyazonosító igazolvány vizuálisan észlelhető módon tartalmazza
 
@@ -18,7 +18,7 @@ f) a polgár nemét,
 
 g) a polgár arcképmását,
 
-h) a polgár aláírását, ha a 12. életévét betöltötte,
+h) a polgár aláírását, ha 12. életévét betöltötte, valamint nem írásképtelen vagy írástudatlan,
 
 i) a polgár személyazonosító igazolványa érvényességi idejét,
 
@@ -80,7 +80,7 @@ b) a polgár annak rögzítését visszautasította, vagy annak adására fizika
 
 (16) A polgár a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti elektronikus úton történő kapcsolattartás útján is bejelentheti a személyazonossága igazolására alkalmas hatósági igazolványa elvesztését, eltulajdonítását, megsemmisülését, és kérheti a vezetői engedélye pótlását, ha az adataiban nem következett be változás, és ideiglenes okmány kiadására nincs szükség. Ezen, és jogszabályban meghatározott más eseteket kivéve a személyazonosság igazolására alkalmas hatósági igazolványok kiadásával összefüggő eljárásokban a hatóság nem tart elektronikusan kapcsolatot az ügyféllel.
 
-(17) Ha a személyazonosító igazolvány igénylésére – 12. életévét be nem töltött polgár kivételével – annak eltulajdonítása miatt, a (2) bekezdés a)–i) és m) pontja szerinti adatok változatlansága mellett kerül sor, a személyazonosító igazolványt a (2) bekezdés a)–i), l) és m) pontja szerinti adatok tekintetében a korábbi hatósági igazolvánnyal megegyező adattartalommal kell kiadni azzal, hogy az így kiadott személyazonosító igazolvány érvényességi ideje nem haladhatja meg a 29/E. §-ban meghatározott érvényességi időt.
+(17)
 
 (18) Ha az állandó személyazonosító igazolvány tároló eleme nem vagy nem helyesen tartalmazza a polgár társadalombiztosítási azonosító jelét, illetve az adóazonosító jelét, abban az esetben a polgár kérelmére
 

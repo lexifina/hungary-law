@@ -12,7 +12,7 @@ e) a 29/B. § (4) bekezdése szerinti hatóságot,
 
 f) a 29/D. § alapján az állandó személyazonosító igazolványhoz rendelhető másodlagos kártyák körét,
 
-g) a 29/C. § (2) bekezdés a) pontja szerinti szervet, a 29/C. § (2) bekezdés b) pontja szerinti szolgáltatót, valamint az e-aláírási funkcióra vonatkozó részletes szabályokat,
+g) a 29/C. § (2) bekezdés a) pontja szerinti szervet, a 29/C. § (2) bekezdés b) és c) pontja szerinti szolgáltatót, valamint az e-aláírás funkcióra és az ahhoz kapcsolódó bizalmi szolgáltatásokra vonatkozó részletes szabályokat,
 
 h) a 29/J. § (1) bekezdése szerinti, a személyazonosság igazolására alkalmas hatósági igazolványok nyilvántartását vezető szervet.
 
