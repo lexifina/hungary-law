@@ -16,7 +16,7 @@ b) – abban az országban, ahonnan érkeznek – az EGT-állampolgár eltartott
 
 (4) A (2) és (3) bekezdésben meghatározott személy vízum nélkül utazhat be Magyarország területére, ha rendelkezik az e törvényben meghatározott tartózkodási jogot igazoló okmánnyal, illetve az Európai Gazdasági Térségről szóló megállapodásban részes állam által az EGT-állampolgár harmadik ország állampolgárságával rendelkező családtagja részére kiadott tartózkodási kártyával.
 
-(5) A beutazásra a személyek határátlépésére irányadó szabályok közösségi kódexének létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendeletben (a továbbiakban: Schengeni határ-ellenőrzési kódex) foglalt szabályokat is alkalmazni kell.
+(5) A beutazásra a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i (EU) 2016/399 európai parlamenti és tanácsi rendeletben (a továbbiakban: Schengeni határ-ellenőrzési kódex) foglalt szabályokat is alkalmazni kell.
 
 (6)
 

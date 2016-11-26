@@ -29,3 +29,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-1-00-00
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2007-1-00-00.27 |
 | 2016-07-01 | 2016. évi XXXIX. törvény | 2007-1-00-00.28 |
 | 2016-07-17 | 2016. évi LXIX. törvény | 2007-1-00-00.29 |
+| 2016-11-26 | 2016. évi CXVI. törvény | 2007-1-00-00.30 |
