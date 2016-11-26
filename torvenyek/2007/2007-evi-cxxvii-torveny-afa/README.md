@@ -40,3 +40,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-127-00-00
 | 2016-05-01 | 2016. évi XIII. törvény | 2007-127-00-00.45 |
 | 2016-06-16 | 2016. évi LXVI. törvény | 2007-127-00-00.46 |
 | 2016-07-16 | 2016. évi LXVI. törvény | 2007-127-00-00.47 |
+| 2016-11-26 | 2016. évi CXXI. törvény | 2007-127-00-00.48 |

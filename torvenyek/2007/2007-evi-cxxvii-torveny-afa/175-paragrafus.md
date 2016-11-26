@@ -4,7 +4,7 @@
 
 (2) Az elektronikus számla 168/A. § (1) bekezdésében említett eredetének hitelességére és adattartalmának sértetlenségére vonatkozó követelményeknek történő megfelelése úgy is biztosítható, ha az elektronikus számlát
 
-a) az elektronikus aláírásról szóló törvény rendelkezései szerinti minősített elektronikus aláírással látják el; vagy
+a) minősített elektronikus aláírással látják el; vagy
 
 b) az elektronikus adatcsererendszerben (a továbbiakban: EDI) elektronikus adatként hozzák létre és továbbítják.
 
