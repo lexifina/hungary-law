@@ -12,7 +12,7 @@ a) legalább három éven át a minősítésnek megfelelő tevékenységet végz
 
 b) legalább három éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett és adott minősítésű kamarai tag könyvvizsgáló mellett legalább két évig közreműködött olyan gazdálkodó tekintetében a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában, amelyre vonatkozóan jogszabály az adott minősítés meglétét előírja, vagy
 
-c) legalább három éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett és sikeresen teljesítette az adott minősítésre előírt szakmai minősítő vizsgát.
+c) legalább három éven át jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenységet végzett – vagy IFRS minősítés esetén legalább három éven át közreműködött kamarai tag könyvvizsgáló mellett jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység ellátásában – és sikeresen teljesítette az adott minősítésre előírt szakmai minősítő vizsgát.
 
 (3) Kérelem alapján minősítést a könyvvizsgáló cég akkor kaphat, ha megfelel az alábbi feltételeknek:
 

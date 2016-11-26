@@ -2,7 +2,7 @@
 
 (2) Nem kell igazgatási szolgáltatási díjat fizetni
 
-a) a kamarai tagsági viszony, valamint a könyvvizsgáló cég engedélye megszűnésének megállapításáért,
+a) a kamarai tagsági viszony megszűnésének megállapításért, valamint a könyvvizsgáló cég nyilvántartásból való törléséért,
 
 b)
 

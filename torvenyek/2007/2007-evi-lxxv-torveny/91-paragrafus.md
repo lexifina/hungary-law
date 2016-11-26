@@ -10,6 +10,14 @@ b) mérlegképes könyvelői vagy azzal egyenértékű szakképesítéssel rende
 
 c) számviteli, pénzügyi, ellenőrzési szakterületen az a) pont szerinti végzettség megszerzését követően, de a felvételi kérelmének benyújtását megelőző három éven belül teljesített, legalább egy éves, igazolt szakmai gyakorlattal rendelkezik,
 
-d) nem áll fenn vele szemben a 12. § a) pontjában meghatározott kizáró ok,
+d) nem áll fenn vele szemben a 9/H. § a) pontjában meghatározott kizáró ok,
 
 e) az előírt igazgatási szolgáltatási díjat megfizette.
+
+(3) Az okleveles könyvvizsgálói képzési programból törölni kell azt,
+
+a) aki a (2) bekezdésben foglalt feltételeknek a továbbiakban már nem felel meg,
+
+b) akinek a vonatkozásában az okleveles könyvvizsgálói képzés képzési idejének 89. §-ban meghatározott időtartama eredménytelenül eltelt.
+
+(4) Az okleveles könyvvizsgálói képzési programból való törlés tekintetében a kamara oktatási bizottsága jár el.

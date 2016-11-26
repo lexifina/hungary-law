@@ -6,7 +6,7 @@ a) első fokon dönt a kamarai tagfelvételről és a kamarai tagság megszűné
 
 b) első fokon dönt a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység szüneteltetésének engedélyezéséről, valamint a szüneteltetést követően a tevékenység újbóli ellátásának engedélyezéséről,
 
-c) első fokon dönt a jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gazdálkodó szervezetek (szervezetek) számára történő engedélyezéséről és az engedély megszűnésének megállapításáról,
+c) első fokon dönt a gazdálkodó szervezetek (szervezetek) nyilvántartásba vételéről és a nyilvántartásból való törlésről,
 
 d) első fokon dönt a harmadik országbeli könyvvizsgálók és a harmadik országbeli könyvvizsgáló gazdálkodók jegyzékébe történő felvételről és a jegyzékből történő törlésről,
 

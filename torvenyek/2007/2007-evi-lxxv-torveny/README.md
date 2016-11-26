@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-75-00-00
 | 2016-01-01 | 2015. évi CLXXVIII. törvény | 2007-75-00-00.27 |
 | 2016-06-04 | 2016. évi XLIV. törvény | 2007-75-00-00.28 |
 | 2016-06-16 | 2016. évi LXVI. törvény | 2007-75-00-00.29 |
+| 2016-11-26 | 2016. évi CXXV. törvény | 2007-75-00-00.30 |

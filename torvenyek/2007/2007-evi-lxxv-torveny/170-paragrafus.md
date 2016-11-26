@@ -1,4 +1,4 @@
-170. § (1) A minőségellenőrzésről a minőségellenőr záró jelentést készít.
+170. § (1) A kamarai minőségellenőrzésről a minőségellenőr záró jelentést készít.
 
 (2) A záró jelentést az ellenőrzés befejezésétől számított tizenöt napon belül kell elkészíteni.
 
@@ -6,4 +6,4 @@
 
 (4) A záró jelentésre az átvételétől számított tizenöt napon belül az ellenőrzés alá vont írásban észrevételt tehet, amelyet a bizottsághoz kell benyújtani.
 
-(5) A bizottság a záró jelentés és a (4) bekezdés szerinti észrevétel alapján határozatot hoz a minőségellenőrzés eredményének minősítéséről, az ellenőrzés alá vont részére a minősítés alapján előírt kötelezettségekről, valamint az indokolt intézkedés alkalmazásáról.
+(5) A bizottság a záró jelentés és a (4) bekezdés szerinti észrevétel alapján határozatot hoz a kamarai minőségellenőrzés eredményének minősítéséről, az ellenőrzés alá vont részére a minősítés alapján előírt kötelezettségekről, valamint az indokolt intézkedés alkalmazásáról.

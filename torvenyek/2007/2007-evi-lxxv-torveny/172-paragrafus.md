@@ -1,4 +1,4 @@
-172. § (1) A minőségellenőrzéssel összefüggésben a következő intézkedések alkalmazhatók:
+172. § (1) A kamarai minőségellenőrzéssel összefüggésben a következő intézkedések alkalmazhatók:
 
 a) kötelezés továbbképzésen való részvételre,
 

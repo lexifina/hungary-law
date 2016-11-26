@@ -8,7 +8,7 @@ b) a tag fegyelmi eljárás keretében történő kizárásával,
 
 c) ha a tag a 11. §-ban foglalt feltételeknek a továbbiakban már nem felel meg,
 
-d) a közfelügyeleti hatóság jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltásról szóló határozata alapján,
+d) a közfelügyeleti hatóság, vagy a kamara minőségellenőrzési bizottságának jogszabályi kötelezettségen alapuló könyvvizsgálói tevékenység gyakorlásától történő eltiltásról szóló határozata alapján,
 
 e) a tag halálával.
 
