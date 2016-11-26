@@ -14,4 +14,4 @@
 
 (8) Az adóhatóság a (7) bekezdés hatálya alá eső adózó társasági adóbevallásával egyidejűleg adóévenként előterjesztett kérelme alapján – amennyiben az az adózóra nézve kedvezőbb adókötelezettséget eredményez – a kérelemben megjelölt, a 6. § (2a) bekezdése és a II/A. fejezet figyelmen kívül hagyásával megállapított adóévi fizetendő adót tekinti fizetendő adónak, ha az adózó alátámasztja a 6. § (2a) bekezdése és a II/A. fejezet figyelmen kívül hagyásával megállapított fizetendő adó összegét. A határidő elmulasztása esetén igazolási kérelem előterjesztésének nincs helye.
 
-(9) A (8) bekezdésben foglaltak alkalmazásától függetlenül a 18/A. § (1) bekezdése szerinti adózó a 18/C. § (4) bekezdése szerint meghatározott egyenleget a 6. § (2a) bekezdése és a II/A. fejezet figyelmen kívül hagyásával megállapított adóalapjában érvényesíti.
+(9) A (8) bekezdésben foglaltak alkalmazásától függetlenül a 18/A. § (1) bekezdése szerinti adózó a 18/C. § (4) bekezdése szerint meghatározott adóévi összeget a 6. § (2a) bekezdése és a II/A. fejezet figyelmen kívül hagyásával megállapított adóalapjában érvényesíti.

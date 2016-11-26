@@ -68,8 +68,20 @@ b) 2016. január 1-je és 2016. június 30-a közötti időszakban jogosult lett
 
 e törvény 4. § 5/a. és 20. pontjának, 7. § (1) bekezdés c), e) és s) pontjának, (16) bekezdésének 2016. június 30-án hatályos szövege szerint meghatározott kedvezményt utoljára a 2021. június 30-ig lezáruló adóévi adóalapból veheti igénybe, figyelemmel a (30) és (31) bekezdésben foglaltakra.
 
-(30) A (29) bekezdés szerinti adózó a (29) bekezdés szerinti kedvezményt a 2016. június 30-ig szerzett, előállított, e törvény 2016. június 30-án hatályos 4. § 20. pontja szerinti jószág vagy a 2016. június 30-ig bejelentett immateriális jószág vonatkozásában alkalmazhatja.
+(30) A (29) bekezdés szerinti adózó a (29) bekezdés szerinti kedvezményt a 2016. június 30-ig szerzett, előállított, e törvény 2016. június 30-án hatályos 4. § 20. pontja szerinti jószág vagy a 2016. június 30-ig bejelentett immateriális jószág vonatkozásában alkalmazhatja abban az esetben is, ha az érintett jószággal kapcsolatban az adózónak 2016. június 30-át követően költsége, ráfordítása merül fel.
 
-(31) E törvény 2016. június 30-ig hatályos 7. § (1) bekezdés c), e) és s) pontja alapján az adózás előtti eredmény utoljára a 2016. december 31-ével végződő adóévben csökkenthető, ha az adózó 2016. január 1-je és 2016. június 30-a között kapcsolt vállalkozástól olyan, e törvény 2016. június 30-án hatályos 4. § 20. pontja szerinti jószágot szerzett be, amely nem jogosította a 7. § (1) bekezdés c), e), s) pontja szerinti vagy annak megfelelő kedvezményre a kapcsolt vállalkozást az átruházáskor.
+(31) A 2016. június 30-án hatályos 7. § (1) bekezdés c), e) és s) pontja alapján az adózás előtti eredmény utoljára a 2016. december 31-ével végződő adóévben csökkenthető a 2016. január 1-je és 2016. június 30-a között kapcsolt vállalkozástól beszerzett, a 2016. június 30-án hatályos 4. § 20. pontja szerinti jószágra tekintettel szerzett bevétel alapján, ha e jószág a kapcsolt vállalkozást nem jogosította a 7. § (1) bekezdés c), e), s) pontja szerinti vagy annak megfelelő kedvezményre az átruházáskor.
 
 (32) E törvénynek az egyes adótörvények és más kapcsolódó törvények, valamint a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény módosításáról szóló 2016. évi LXVI. törvénnyel megállapított 8. § (1) bekezdés c) és n) pontját kizárólag a 2016. június 30-át követően szerzett, előállított jogdíjra jogosító immateriális jószág vagy 2016. június 30-át követően bejelentett immateriális jószág vonatkozásában kell alkalmazni.
+
+(35) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 18/A. § (5) bekezdését és 18/C. § (4a)–(4g) bekezdését a 2016. adóév vonatkozásában az adózó választása szerint alkalmazza.
+
+(36) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel módosított 22. § (1) bekezdés b) pontját első alkalommal a 2016. adóévi adózás előtti eredmény terhére nyújtott támogatásra (juttatásra) kell alkalmazni.
+
+(37) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 22/C. § (3b) és (12) bekezdését első alkalommal a 2015–2016-os támogatási időszakra benyújtott sportfejlesztési programok támogatásával összefüggésben a 2016. adóévi adózás előtti eredmény terhére nyújtott támogatásra (juttatásra) kell alkalmazni.
+
+(38) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 22/C. § (8) bekezdését az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvény hatálybalépésekor folyamatban lévő, 2013–2014-es támogatási időszaktól jóváhagyott sportfejlesztési programok megvalósítása során is alkalmazni kell.
+
+(39) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel módosított 29/ZS. § (1), (4), (10) bekezdés rendelkezései a 2015. évi és a 2016. évi adókötelezettség megállapításakor is alkalmazhatóak.
+
+(40) Az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel módosított 1. számú melléklet 5/b. pontja a 2016. évi adókötelezettség megállapításakor is alkalmazható.

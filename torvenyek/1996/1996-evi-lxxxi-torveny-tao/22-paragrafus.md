@@ -4,7 +4,7 @@
 
 a) a (6) bekezdésben meghatározott kiegészítő támogatást a támogatás juttatásának adóévében, valamint
 
-b) a (7) bekezdés szerinti kiegészítő támogatást a támogatás adóévét követő 90 napon belül
+b) a (7) bekezdés szerinti kiegészítő támogatást a támogatás adóévét követő 90 napon belül, de legkésőbb a támogatás adóévére vonatkozó társasági adóbevallás benyújtására nyitva álló határidőig
 
 megfizeti.
 
@@ -40,6 +40,10 @@ b) a (4) és (5) bekezdés hatálya alá tartozó támogatási igazolás esetén
 
 (10)
 
-(11)–(13)
+(11)
+
+(12) Amennyiben az adózó az (1) bekezdés a) pontjában meghatározott összeget a támogatás adóévét követően, de legkésőbb a támogatás adóévére vonatkozó társasági adóbevallás benyújtására nyitva álló határidőig fizeti meg, akkor a (2) bekezdés szerinti adókedvezményt legfeljebb a (3) bekezdés szerint a részére kiállított támogatási igazolásban szereplő összeg 80 százalékáig veheti igénybe.
+
+(13)
 
 (14) A szövetkezet a Ptk. alapján az adóévben képzett közösségi alap 6,5 százalékát adókedvezményként veheti igénybe. Az adókedvezmény az állami támogatásokra vonatkozó rendelkezések alkalmazásában az adóévben igénybe vett csekély összegű (de minimis) támogatásnak minősül.

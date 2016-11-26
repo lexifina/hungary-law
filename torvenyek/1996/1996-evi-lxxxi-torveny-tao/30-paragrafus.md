@@ -44,7 +44,7 @@ c) az előadó-művészeti szervezetnek a támogatás felhasználása során els
 
 d) a támogatáshalmozódás szabályait,
 
-e) a nem rendeltetésszerűen felhasznált támogatás visszafizetésének szabályait,
+e) a fel nem használt, valamint a nem rendeltetésszerűen felhasznált támogatás visszafizetésének szabályait,
 
 f) a támogatás felhasználásáról készült beszámoló formai és tartalmi követelményeit, a beszámoló benyújtásával és elfogadásával kapcsolatos részletes szabályokat,
 
@@ -61,3 +61,7 @@ h) a 22. § (4) bekezdése szerinti támogatási igazolással és a 24/A. § sze
 i) a 22. § (1) bekezdése szerinti kiegészítő támogatás megfizetésének részletes szabályait
 
 rendeletben állapítsa meg.
+
+(12) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza a korai fázisú vállalkozásként történő minősítés feltételeit, a korai fázisú vállalkozásokat támogató vállalkozásokra vonatkozó követelményeket, a korai fázisú vállalkozások és a korai fázisú vállalkozásokat támogató vállalkozások nyilvántartásba vételével kapcsolatos eljárást, a korai fázisú vállalkozásnak, a korai fázisú vállalkozásokat támogató vállalkozásnak minősülés igazolásának részletes feltételeit.
+
+(13) Felhatalmazást kap a Kormány, hogy rendeletben szabályozza az energiahatékonysági célokat szolgáló beruházások adókedvezménye igénylésének, igénybevételének, az energiahatékonysági célokat szolgáló beruházási minőség igazolásának, az adózó nyilvántartási és adatszolgáltatási kötelezettségének részletes feltételeit.

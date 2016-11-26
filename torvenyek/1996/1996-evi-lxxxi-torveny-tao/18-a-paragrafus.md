@@ -9,3 +9,5 @@
 (3) Az (1) bekezdés szerinti adózó társasági adókötelezettségét a beszámoló, a könyvviteli zárlat funkcionális pénznemben kifejezett adatainak az alapulvételével állapítja meg. Az (1) bekezdés szerinti adózó a funkcionális pénznemben kifejezett adatokat az 5. § (8) bekezdésének megfelelő alkalmazásával számítja át forintra.
 
 (4) Ahol e törvény bevételként, ráfordításként elszámolt összegekről rendelkezik, ott az (1) bekezdés szerinti adózó értelemszerűen az adózás előtti eredmény javára, terhére elszámolt összegeket veszi figyelembe.
+
+(5) Az az (1) bekezdés szerinti adózó, amely az IFRS 11 Közös megállapodások című standard szerinti olyan közös tevékenységgel rendelkezik, amelyet a számvitelről szóló törvény szerint részesedésként mutatna ki, az erre a tevékenységre vonatkozó társasági adókötelezettségét úgy határozza meg, mintha ezt a tevékenységet a számvitelről szóló törvény szerint számolta volna el.
