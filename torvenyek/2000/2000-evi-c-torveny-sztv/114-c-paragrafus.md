@@ -6,9 +6,9 @@
 
 (3) Az IFRS-ek szerinti éves beszámolóra történő áttérés napja az első IFRS-ek szerint készült éves beszámoló üzleti évének első napja.
 
-(4) Az IFRS-ekre történő áttérést a gazdálkodó legkésőbb az áttérés napja előtt 90 nappal bejelenti az állami adóhatóság, valamint a Központi Statisztikai Hivatal részére. A bejelentéshez csatolni kell az (1) bekezdés szerinti könyvvizsgálói jelentést.
+(4) Az IFRS-ekre történő áttérést a gazdálkodó legkésőbb az áttérés napja előtt 30 nappal bejelenti az állami adóhatóság részére. A bejelentéshez csatolni kell az (1) bekezdés szerinti könyvvizsgálói jelentést.
 
-(5) A pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank felügyelete alá tartozó gazdálkodó az IFRS-ek szerinti éves beszámolóra történő áttérést – a (4) bekezdésben foglalt bejelentési kötelezettségen túl – legkésőbb az áttérés napja előtt 90 nappal bejelenti a Magyar Nemzeti Bank részére. A bejelentéshez csatolni kell a (1) bekezdés szerinti könyvvizsgálói jelentést.
+(5) A pénzügyi közvetítőrendszer felügyeletével kapcsolatos feladatkörében eljáró Magyar Nemzeti Bank felügyelete alá tartozó gazdálkodó az IFRS-ek szerinti éves beszámolóra történő áttérést – a (4) bekezdésben foglalt bejelentési kötelezettségen túl – legkésőbb az áttérés napja előtt 30 nappal bejelenti a Magyar Nemzeti Bank részére. A bejelentéshez csatolni kell a (1) bekezdés szerinti könyvvizsgálói jelentést.
 
 (6) Az IFRS minősítéssel rendelkező kamarai tag könyvvizsgáló, könyvvizsgáló cég az (1) bekezdés szerinti, a felkészültségre vonatkozó vizsgálat során ellenőrzi, hogy a gazdálkodó
 
