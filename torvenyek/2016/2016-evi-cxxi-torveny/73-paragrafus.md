@@ -4,7 +4,7 @@
 
 (4) A Kttv.
 
-a) 190. § (7) bekezdésében a „postára adták” szövegrész helyébe a „megküldték” szöveg
+a)
 
 b)–c)
 
@@ -12,6 +12,6 @@ lép.
 
 (5) Hatályát veszti a Kttv.
 
-a) 20. § (4) bekezdésében az „elektronikus aláírásról szóló törvény szerinti” szövegrész,
+a)
 
 b)

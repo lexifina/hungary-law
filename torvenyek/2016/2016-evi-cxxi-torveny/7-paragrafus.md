@@ -6,6 +6,6 @@
 
 a)–b)
 
-c) 49/G. § (1) bekezdésében a „hitelesítés-szolgáltató” szövegrész helyébe a „bizalmi szolgáltató” szöveg
+c)
 
 lép.

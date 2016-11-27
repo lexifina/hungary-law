@@ -1,18 +1,6 @@
 ## 94. Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény módosítása
 
-94. § (1) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) 1. §-a 17. pont l) alpontja helyébe a következő rendelkezés lép:
-
-[E törvény alkalmazásában
-
-elektronikus ügyintézést biztosító szerv:]
-
-„l) a meghatározott ügyek e törvény szerinti elektronikus intézését önkéntesen vállaló, az e törvényben meghatározott feltételeknek megfelelően biztosító és ezt az Elektronikus Ügyintézési Felügyeletnek bejelentő, az a)–k) alpont hatálya alá nem tartozó jogalanyok;”
-
-(2) Az E-ügyintézési tv. 1. §-a a következő 17a. ponttal egészül ki:
-
-(E törvény alkalmazásában)
-
-„17a. Elektronikus ügyintézés biztosítására kötelezett állami szerv: az 17. pont a), b), d)–f) alpontja szerinti szervek, valamint a 17. pont c), k) és l) pontja szerinti állami vagy önkormányzati jogalanyok;”
+94. § (1)–(2)
 
 (3) Az E-ügyintézési tv. 3. §-a a következő szöveggel lép hatályba:
 
@@ -168,25 +156,11 @@ olyan technológiai megoldást kell alkalmazni, ami garantálja, hogy az ügyfé
 
 o) összerendelési nyilvántartás.”
 
-(15) Az E-ügyintézési tv. 104. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) Az informatikai fejlesztések egységességének, az informatikai rendszerek együttműködési képességének biztosítása érdekében minden elektronikus ügyintézés biztosítására kötelezett állami szerv a Kormány rendeletében meghatározottak szerint, az elektronikus kapcsolattartást vagy az informatikai rendszerek együttműködési képességét érintő fejlesztései tekintetében informatikai fejlesztési tervet készít és azt bejelenti a Kormány rendeletében kijelölt szervnek a rendeletben meghatározottak szerint.”
+(15)
 
 (16)
 
-(17) Az E-ügyintézési tv. 105. § (3) bekezdés l) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
-
-„l) a 104. § (1) bekezdés szerinti informatikai fejlesztési tervre, valamint bejelentésre és a bejelentés jogkövetkezményeire vonatkozó részletes szabályokat,”
-
-(18) Az E-ügyintézési tv. 106. § c) pontja helyébe a következő rendelkezés lép:
-
-(Felhatalmazást kap az e-közigazgatásért felelős miniszter, hogy)
-
-„c) az adópolitikáért felelős miniszterrel egyetértésben a bizalmi felügyeletnek fizetendő igazgatási szolgáltatási díjak mértékét, valamint a díj megfizetésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;”
-
-(rendeletben állapítsa meg.)
+(17)–(18)
 
 (19) Az E-ügyintézési tv. 108. § (2) bekezdése a következő szöveggel lép hatályba:
 
@@ -222,7 +196,7 @@ l) 108. § (5) bekezdése az „a gazdálkodó szervezet” szövegrész helyett
 
 lép hatályba.
 
-(24) Az E-ügyintézési tv. 81. § (7) bekezdésében a „tartós adathordozón” szövegrész helyébe a „tartós adathordozón vagy a bizalmi szolgáltatási ügyfél számára letölthető módon” szöveg lép.
+(24)
 
 (25) Nem lép hatályba az E-ügyintézési tv.
 

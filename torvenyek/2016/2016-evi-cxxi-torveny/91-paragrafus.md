@@ -2,4 +2,4 @@
 
 91. § (1)–(9)
 
-(10) Hatályát veszti a Hszt. 6. § (5) bekezdésében az „elektronikus aláírásról szóló törvény szerinti” szövegrész.
+(10)

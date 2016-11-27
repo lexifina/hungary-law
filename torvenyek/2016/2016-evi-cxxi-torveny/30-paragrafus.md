@@ -2,6 +2,6 @@
 
 30. § (1)
 
-(2) Az Inytv. 68. § (6) bekezdésében a „fokozott biztonságú elektronikus intézményi aláírással” szövegrész helyébe a „legalább fokozott biztonságú elektronikus bélyegzővel” szöveg lép.
+(2)
 
 (3)
