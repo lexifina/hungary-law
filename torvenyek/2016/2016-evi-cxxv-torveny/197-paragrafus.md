@@ -1,3 +1,1 @@
-197. § „Az Art. a következő 226. §-sal egészül ki:
-
-„226. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel (a továbbiakban: Módtv.6.) megállapított rendelkezéseit a hatálybalépésekor jogerősen el nem bírált ügyekben, továbbá a hatálybalépést követően az azt megelőző időszakra teljesítendő, illetve esedékessé vált kötelezettségekre is kell alkalmazni azzal, hogy ha a jogszabálysértés elkövetésének időpontjában hatályos rendelkezések az adózóra összességében kevésbé terhes bírság-, pótlékfeltételeket határoztak meg, a kötelezettségre legfeljebb az elkövetéskor hatályos törvényben meghatározott legmagasabb mérték alkalmazható.”
+197. §

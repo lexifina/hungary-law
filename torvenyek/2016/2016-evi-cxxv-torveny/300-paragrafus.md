@@ -2,4 +2,4 @@
 
 1–4.
 
-5. 114/C. § (4) bekezdésében a „ , valamint a Központi Statisztikai Hivatal” szövegrész.
+5.
