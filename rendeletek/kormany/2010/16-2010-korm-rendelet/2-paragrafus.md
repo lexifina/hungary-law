@@ -1,20 +1,10 @@
-2. § (1)[^6] A Kormány a Dokumentációs Központ üzemeltetőjeként a Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: Üzemeltető) jelöli ki.
+2. § (1)[^7] A Dokumentációs Központ működéséért a területrendezésért felelős miniszter (a továbbiakban: miniszter) a felelős. A Kormány a Dokumentációs Központ üzemeltetőjeként a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaságot (a továbbiakban: Üzemeltető) jelöli ki. A Dokumentációs Központ üzemeltetésével kapcsolatos kiadásokhoz a miniszter hozzájárulást biztosít, amelynek forrását a miniszter irányítása alá tartozó költségvetési fejezet költségvetéséből kell biztosítani a céllal összefüggésben megtervezett előirányzat terhére.
 
-(2) A területfejlesztésért és területrendezésért felelős miniszter (a továbbiakban: miniszter) az Üzemeltetővel évente közszolgáltatási szerződés köt.
+(2)[^8] A miniszter az (1) bekezdés szerinti előirányzaton rendelkezésre álló, kötelezettségvállalással nem terhelt források alakulásának figyelembevételével az üzemeltetési költségekhez történő hozzájárulás mértékéről az Üzemeltetővel évente támogatási szerződésben állapodik meg.
 
-(3) A közszolgáltatási szerződésnek tartalmaznia kell
+(3)[^9]
 
-a) az ellátandó feladatok meghatározását és ütemezését,
-
-b) a feladatok ellátásáért járó, a miniszter által éves szinten biztosítandó ellenszolgáltatás mértékét, valamint a pénzügyi folyósítás ütemezését,
-
-c) a feladatok végrehajtásáról szóló, negyedévente készítendő, az a) pont szerinti ellátandó feladatokra kiterjedő szakmai és pénzügyi beszámoló tartalmát,
-
-d) a feladatok végrehajtása – miniszter vagy az általa megbízott személy (szervezet) általi, korlátozás nélkül végezhető – ellenőrzésének módját, és
-
-e) a nem megfelelő teljesítés jogkövetkezményeit, a költségvetési támogatás szüneteltetésére és visszavonására vonatkozó feltételeket.
-
-(4) A Dokumentációs Központ Üzemeltetési Szabályzatát a miniszter hagyja jóvá. Az Üzemeltetési Szabályzatot a miniszter által vezetett minisztérium és az Üzemeltető honlapján közzé kell tenni.
+(4)[^10] A Dokumentációs Központ Üzemeltetési Szabályzatát a miniszter hagyja jóvá. Az Üzemeltetési Szabályzatot az Üzemeltető honlapján közzé kell tenni.
 
 (5) Az Üzemeltetési Szabályzatnak tartalmaznia kell különösen
 
@@ -26,4 +16,7 @@ c) a Dokumentációs Központ felelősségi körét.
 
 (6) A Dokumentációs Központ, amennyiben alapfeladatának ellátását nem veszélyezteti, a kötelező gyűjtőkörön kívüli dokumentumokat is gyűjthet. A kötelező gyűjtőkörön kívüli dokumentumok átadásáról az Üzemeltető megállapodást köt az átadó szervvel vagy személlyel, amelyben rendelkezni kell a dokumentumok átvételével és tárolásával kapcsolatban felmerülő költségek viseléséről.
 
-[^6]: A 2. § (1) bekezdése a 107/2013. (IV. 5.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg. [A 2. § (1) bekezdésének a 70/2015. (III. 30.) Korm. rendelet 150. § (2) bekezdésével elrendelt módosítása, amely szerint a „Lechner Lajos Tudásközpont Területi, Építésügyi, Örökségvédelmi és Informatikai Nonprofit Korlátolt Felelősségű Társaság” szövegrész helyébe a „Lechner Tudásközpont, Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság” szöveg lép, nem vezethető át.]
+[^7]: A 2. § (1) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § (2) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^9]: A 2. § (3) bekezdését a 343/2016. (XI. 17.) Korm. rendelet 18. § a) pontja hatályon kívül helyezte.
+[^10]: A 2. § (4) bekezdése a 343/2016. (XI. 17.) Korm. rendelet 12. § (2) bekezdésével megállapított szöveg.

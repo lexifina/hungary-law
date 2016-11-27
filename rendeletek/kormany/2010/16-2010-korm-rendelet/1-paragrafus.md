@@ -2,7 +2,7 @@
 
 a) a területfejlesztési koncepció, a területfejlesztési program és a területrendezési terv tartalmi követelményeiről, valamint illeszkedésük, kidolgozásuk, egyeztetésük, elfogadásuk és közzétételük részletes szabályairól szóló 218/2009. (X. 6.) Korm. rendelet (a továbbiakban: R.) szerint elfogadott területi tervek, beleértve a területi tervek módosításait is:
 
-aa)[^1] az Országos Területfejlesztési Koncepció, a megye, a kiemelt térség területfejlesztési koncepciója és programja,
+aa)[^1] az Országos Fejlesztési és Területfejlesztési Koncepció, a megye, a kiemelt térség területfejlesztési koncepciója és programja,
 
 ab)[^2]
 
@@ -18,20 +18,21 @@ bb) az a) pont ad) alpontja szerinti területi terv megalapozó munkarészei,
 
 bc) a területrendezési tanulmánytervek;
 
-c) a területrendezési hatósági eljárás során kiadott határozat és a határozatot megalapozó, a térségi területfelhasználási engedély iránti kérelem részét képező területi (környezeti, társadalmi és gazdasági) hatásvizsgálat;
+c)[^3] a területrendezési hatósági eljárás során kiadott határozat és a térségi területfelhasználási engedély iránti kérelem, valamint a törvényszéki határozat;
 
 d) a költségvetésből származó pénzeszközökből megvalósuló területfejlesztési és területrendezési célú, vagy ahhoz kapcsolódó területi kutatások dokumentációi;
 
-e)[^3] az Országos Területfejlesztési Tanács, a térségi fejlesztési tanácsok üléseiről készült jegyzőkönyvek;
+e)[^4] az Országos Területfejlesztési Érdekegyeztető Fórum, a térségi fejlesztési tanácsok üléseiről készült jegyzőkönyvek;
 
 f) az önkéntesen átadott dokumentációk, gyűjtemények, dokumentumtárak, szakvélemények;
 
-g)[^4] az országos, kiemelt térségi és megyei szintű monitoring jelentés, éves elemző jelentés, a területi folyamatok alakulásáról szóló jelentés;
+g)[^5] az országos, kiemelt térségi és megyei szintű monitoring jelentés, éves elemző jelentés, a területi folyamatok alakulásáról szóló jelentés;
 
-h)[^5] az országos, kiemelt térségi és megyei szintű fejlesztési koncepció, program és terv értékelő, elemző jelentése.
+h)[^6] az országos, kiemelt térségi és megyei szintű fejlesztési koncepció, program és terv értékelő, elemző jelentése.
 
-[^1]: Az 1. § a) pont aa) alpontja a 67/2012. (IV. 5.) Korm. rendelet 25. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § a) pont aa) alpontja a 67/2012. (IV. 5.) Korm. rendelet 25. § (1) bekezdésével megállapított, a 343/2016. (XI. 17.) Korm. rendelet 17. § a) pontja szerint módosított szöveg.
 [^2]: Az 1. § a) pont ab) alpontját a 67/2012. (IV. 5.) Korm. rendelet 26. §-a hatályon kívül helyezte.
-[^3]: Az 1. § e) pont a 67/2012. (IV. 5.) Korm. rendelet 25. § (2) bekezdésével megállapított szöveg.
-[^4]: Az 1. § g) pontját a 37/2010. (II. 26.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 67/2012. (IV. 5.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
-[^5]: Az 1. § h) pontját a 37/2010. (II. 26.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 67/2012. (IV. 5.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^3]: Az 1. § c) pontja a 343/2016. (XI. 17.) Korm. rendelet 11. §-ával megállapított szöveg.
+[^4]: Az 1. § e) pont a 67/2012. (IV. 5.) Korm. rendelet 25. § (2) bekezdésével megállapított, a 343/2016. (XI. 17.) Korm. rendelet 17. § b) pontja szerint módosított szöveg.
+[^5]: Az 1. § g) pontját a 37/2010. (II. 26.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 67/2012. (IV. 5.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
+[^6]: Az 1. § h) pontját a 37/2010. (II. 26.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 67/2012. (IV. 5.) Korm. rendelet 25. § (3) bekezdésével megállapított szöveg.
