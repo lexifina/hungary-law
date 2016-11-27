@@ -1,5 +1,0 @@
-## 1. § A pénzügyi intézmények, a biztosítók és a viszontbiztosítók, továbbá a befektetési vállalkozások és az árutőzsdei szolgáltatók informatikai rendszerének védelméről szóló 42/2015. (III. 12.) Korm. rendelet (a továbbiakban: rendelet) 5/A. §-a a következő (5a) és (5b) bekezdéssel egészül ki:
-
-## „(5a) A tanúsító szervezet a tanúsítási eljárás befejezését követően tájékoztatja az MNB-t a tanúsítási eljárás eredményéről. Amennyiben az átadott dokumentáció alapján az MNB a vizsgált intézmény informatikai rendszerének kockázatokkal arányos védelmét biztosító eszközrendszerében hibát vagy hiányosságot észlel, az intézménnyel szemben intézkedést alkalmazhat.
-
-## (5b) Amennyiben a tanúsító szervezet az általánosan elfogadott szakmai standardok alapján és az eljárás során feltárt hibák – (5) bekezdésben meghatározottak szerinti – kijavítása ellenére nem látja lehetségesnek a tanúsítvány kiadását, akkor erről a teljes dokumentáció megküldésével egyidejűleg értesíti az MNB-t, aki ezt követően dönt a szükséges intézkedések megtételéről.”
