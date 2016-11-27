@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában:
 
-a)[^2]
+a)[^5]
 
 b) térinformatika: a helyhez kötődő adatok digitális térképi alapú feldolgozását támogató informatikai módszerek és eszközök összessége,
 
@@ -18,7 +18,7 @@ g) korlátozott felbontású raszteres térkép: webes térképszerver vagy egye
 
 h) adatforrás: az a szervezet, amelytől a TeIR átvette az adatot,
 
-i) frissítés: az aktuális adatgyűjtési időszakra vonatkozó adatok adatszolgáltatónál történő feldolgozása,
+i)[^6] frissítés: az aktuális adatgyűjtési időszakra vonatkozó adatok adatkezelő szervezetnél történő feldolgozása,
 
 j) frissítés ideje: az adatátadás vagy javító adatátadás időpontja,
 
@@ -28,28 +28,29 @@ l) az adat mértékegysége: az a fizikai mértékviszony, amelyben az adat menn
 
 m) adatgyűjtési időszak: az adat rögzítésének ideje,
 
-n)[^3] vonatkoztatási egység: az a koordinátákkal egyértelműen körülhatárolható területegység, amelyre az adat vonatkozik vagy vonatkoztatható,
+n)[^7] vonatkoztatási egység: az a koordinátákkal egyértelműen körülhatárolható területegység, amelyre az adat vonatkozik vagy vonatkoztatható,
 
 o) vonatkoztatási egység időszaka: azon időszak, amelyben a vonatkoztatási egység állapota érvényes,
 
 p) projekt: tartalmilag és formailag részletesen kidolgozott, megfelelő pénzügyi háttérrel és végrehajtási ütemezéssel rendelkező fejlesztési elképzelés,
 
-q)[^4] térbeli objektum: meghatározott helyhez vagy földrajzi területhez kapcsolódó valós jelenség absztrakt megjelenítése,
+q)[^8] térbeli objektum: meghatározott helyhez vagy földrajzi területhez kapcsolódó valós jelenség absztrakt megjelenítése,
 
-r)[^5]
+r)[^9]
 
 s) oktatási célú hozzáférés: középiskolai és felsőoktatási képzés keretében dokumentumok, térképek megtekintése, elemzése, területi elemzések bemutatása, összeállítása, valamint ezek – TeIR-re való hivatkozással történő – felhasználása a diákok iskolai feladatainak, illetve szakdolgozatainak elkészítésében,
 
-t)[^6] téradat: a környezet védelmének általános szabályairól szóló törvényben téradatként meghatározott adat,
+t)[^10] téradat: a környezet védelmének általános szabályairól szóló törvényben téradatként meghatározott adat,
 
-u)[^7] adatgazda: azon miniszter, akinek feladatkörébe az e rendeletben meghatározott adatok tartoznak, továbbá a Központi Statisztikai Hivatal elnöke,
+u)[^11] adatgazda: azon miniszter, akinek feladatkörébe az e rendeletben meghatározott adatok tartoznak, továbbá a Központi Statisztikai Hivatal elnöke,
 
-v)[^8] adatkezelő szervezet: az e rendeletben szabályozott adatok gyűjtésével, kezelésével, szolgáltatásával megbízott szervek vagy szervezetek.
+v)[^12] adatkezelő szervezet: az e rendeletben szabályozott adatok gyűjtésével, kezelésével, szolgáltatásával megbízott szervek vagy szervezetek.
 
-[^2]: A 2. § a) pontját a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
-[^3]: A 2. § n) pontja a 65/2010. (III. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^4]: A 2. § q) pontja a 65/2010. (III. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^5]: A 2. § r) pontját a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
-[^6]: A 2. § t) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^7]: A 2. § u) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
-[^8]: A 2. § v) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^5]: A 2. § a) pontját a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^6]: A 2. § i) pontja a 343/2016. (XI. 17.) Korm. rendelet 8. § b) pontja szerint módosított szöveg.
+[^7]: A 2. § n) pontja a 65/2010. (III. 18.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § q) pontja a 65/2010. (III. 18.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^9]: A 2. § r) pontját a 65/2010. (III. 18.) Korm. rendelet 10. § (1) bekezdése hatályon kívül helyezte.
+[^10]: A 2. § t) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^11]: A 2. § u) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.
+[^12]: A 2. § v) pontját a 65/2010. (III. 18.) Korm. rendelet 1. § (3) bekezdése iktatta be.

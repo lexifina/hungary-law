@@ -4,7 +4,7 @@
 
 (2) A TeIR az 1. számú mellékletben felsorolt témakörökkel kapcsolatos adatokat tartalmazza.
 
-(3) A TeIR rendszer része egy meta-adatbázis, amely a gyűjtött adatköröket tételesen, az alábbi részletezettséggel tartalmazza:
+(3)[^18] A TeIR rendszer része egy meta-adatbázis, amely a gyűjtött adatköröket tételesen, az alábbi meta információk részletezettségével tartalmazza:
 
 a) adatforrás,
 
@@ -22,7 +22,7 @@ g) vonatkoztatási egység időszaka,
 
 h) az a jogszabály, amely alapján az adatgyűjtés történik.
 
-(4)[^11] A TeIR az 1. számú mellékletben meghatározott témaköröket, számszerű és térbeli adatokat (a továbbiakban együtt: témakörök) tekintve – az adat jellegének, illetve az adatgyűjtésnek megfelelően – a következő szintekre vonatkozó adatokat tartalmaz:
+(4)[^19] A TeIR az 1. számú mellékletben meghatározott témaköröket, számszerű és térbeli adatokat (a továbbiakban együtt: témakörök) tekintve – az adat jellegének, illetve az adatgyűjtésnek megfelelően – a következő szintekre vonatkozó adatokat tartalmaz:
 
 a) projekt,
 
@@ -36,4 +36,5 @@ e) az ország és
 
 f) az Európai Unió.
 
-[^11]: A 4. § (4) bekezdése a 65/2010. (III. 18.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^18]: A 4. § (3) bekezdés nyitó szövegrésze a 343/2016. (XI. 17.) Korm. rendelet 8. § d) pontja szerint módosított szöveg.
+[^19]: A 4. § (4) bekezdése a 65/2010. (III. 18.) Korm. rendelet 3. §-ával megállapított szöveg.

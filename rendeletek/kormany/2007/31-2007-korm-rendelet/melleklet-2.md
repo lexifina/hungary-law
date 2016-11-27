@@ -1,6 +1,6 @@
 ## A TeIR adatok témakörei összefüggésben a Nemzeti Környezeti Térinformatikai Rendszer létrehozásáról és működtetéséről szóló kormányrendeletben meghatározott téradattémákkal
 
-## 4K12980M_0
+## 6K76631M_0
 
 |  | A | B | C |
 
@@ -80,7 +80,7 @@
 
 | 38. |  | 2.4.6. Igazságszolgáltatás, bűnözés | igazságügyért felelős miniszter, rendészetért felelős miniszter |
 
-| 39. |  | 2.4.7. Felnőttképzés | felnőttképzésért felelős miniszter |
+| 39. |  | 2.4.7. Felnőttképzés | szakképzésért és felnőttképzésért felelős miniszter |
 
 | 40. | 3. Műszaki infrastruktúra alakulása, és térbeli elhelyezkedése |  |  |
 
@@ -160,22 +160,22 @@
 
 | 78. | 5. Területfejlesztés |  |  |
 
-| 79. |  | 5.1. Intézményrendszer, közigazgatás | Közigazgatási egységek | területfejlesztésért és területrendezésért felelős miniszter |
+| 79. |  | 5.1. Intézményrendszer, közigazgatás | Közigazgatási egységek | területfejlesztés stratégiai tervezéséért felelős miniszter, területfejlesztésért felelős miniszter |
 
-| 80. |  | 5.2. Támogatási rendszerek |  |
+| 80. |  | 5.2. Támogatási rendszerek |  | területfejlesztésért és területrendezésért felelős miniszter |
 
-| 81. |  | 5.3. Dokumentumok, tervanyagok |  | építésügyért felelős miniszter, területfejlesztésért és területrendezésért felelős miniszter |
+| 81. |  | 5.3. Dokumentumok, tervanyagok |  | területfejlesztés stratégiai tervezéséért felelős miniszter, területfejlesztésért felelős miniszter |
 
 | 82. | 6. Területrendezés |  |  |
 
-| 83. | 6.1. Elfogadott országos, kiemelt térségi és megyei területrendezési tervek | Területgazdálkodási, -korlátozási, -szabályozási övezetek és adatszolgáltató egységek | területfejlesztésért és területrendezésért felelős miniszter |
+| 83. |  |  | 6.1. Elfogadott országos, kiemelt térségi és megyei területrendezési tervek | Területgazdálkodási, -korlátozási, -szabályozási övezetek és adatszolgáltató egységek | területrendezésért felelős miniszter |
 
-| 84. |  | 6.2. Térségi szerkezeti tervek |
+| 84. |  | 6.2. Térségi szerkezeti tervek |  |
 
-| 85. |  | 6.3. Térségi szabályozási övezetek |
+| 85. |  | 6.3. Térségi övezetek |  |
 
-| 86. |  | 6.4. Területrendezési hatástanulmányok |
+| 86. |  | 6.4. Területrendezési hatástanulmányok |  |
 
-2. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^41]
+2. számú melléklet a 31/2007. (II. 28.) Korm. rendelethez[^48]
 
-[^41]: A 2. számú melléklet a 65/2010. (III. 18.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 341/2010. (XII. 28.) Korm. rendelet 14. §-a, a 351/2010. (XII. 30.) Korm. rendelet 174. §-a, a 300/2011. (XII. 22.) Korm. rendelet 18. § (2)–(3) bekezdése és 30. § g) pontja, a 324/2011. (XII. 28.) Korm. rendelet 11. § b)–c) pontja, a 23/2012. (II. 29.) Korm. rendelet 22. §-a, a 67/2012. (IV. 5.) Korm. rendelet 17. §-a és 18. § c) pontja, a 296/2012. (X. 17.) Korm. rendelet 27. § d)–f) és a)–c) pontja, a 394/2012. (XII. 20.) Korm. rendelet 19. §-a, az 527/2013. (XII. 30.) Korm. rendelet 45. §-a, a 221/2014. (IX. 4.) Korm. rendelet 374. § d)–g) pontja, a 318/2014. (XII. 13.) Korm. rendelet 6. §-a, a 30/2015. (II. 25.) Korm. rendelet 24. §-a, a 70/2015. (III. 30.) Korm. rendelet 93. § (2)–(3) bekezdése, a 147/2015. (VI. 12.) Korm. rendelet 1. §-a szerint módosított szöveg. [A 351/2010. (XII. 30.) Korm. rendelet 174. § (1) bekezdésével elrendelt módosítás, amely szerint a 2. melléklet 03. pontjában az „OMMF” szövegrésze helyébe a „Kormányhivatal” szöveg lép, nem vezethető át.]
+[^48]: A 2. számú melléklet a 65/2010. (III. 18.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 341/2010. (XII. 28.) Korm. rendelet 14. §-a, a 351/2010. (XII. 30.) Korm. rendelet 174. §-a, a 300/2011. (XII. 22.) Korm. rendelet 18. § (2)–(3) bekezdése és 30. § g) pontja, a 324/2011. (XII. 28.) Korm. rendelet 11. § b)–c) pontja, a 23/2012. (II. 29.) Korm. rendelet 22. §-a, a 67/2012. (IV. 5.) Korm. rendelet 17. §-a és 18. § c) pontja, a 296/2012. (X. 17.) Korm. rendelet 27. § d)–f) és a)–c) pontja, a 394/2012. (XII. 20.) Korm. rendelet 19. §-a, az 527/2013. (XII. 30.) Korm. rendelet 45. §-a, a 221/2014. (IX. 4.) Korm. rendelet 374. § d)–g) pontja, a 318/2014. (XII. 13.) Korm. rendelet 6. §-a, a 30/2015. (II. 25.) Korm. rendelet 24. §-a, a 70/2015. (III. 30.) Korm. rendelet 93. § (2)–(3) bekezdése, a 147/2015. (VI. 12.) Korm. rendelet 1. §-a, a 343/2016. (XI. 17.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg. [A 351/2010. (XII. 30.) Korm. rendelet 174. § (1) bekezdésével elrendelt módosítás, amely szerint a 2. melléklet 03. pontjában az „OMMF” szövegrésze helyébe a „Kormányhivatal” szöveg lép, nem vezethető át.]
