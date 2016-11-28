@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-41-20-0
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-11-27 | 2016-41-20-0A.1 | 41/2016. (X. 13.) BM rendelet |
+| 2016-11-28 | 2016-41-20-0A.2 | 2010: CXXX. törvény |

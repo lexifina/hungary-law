@@ -1,4 +1,4 @@
-## 12. § Hatályát veszti az elektronikus aláírási termékek tanúsítását végző szervezetekről, illetve a kijelölésükre vonatkozó szabályokról szóló 9/2005. (VII. 21.) IHM rendelet.
+## 12. §[^1]
 
 1. melléklet a 41/2016. (X. 13.) BM rendelethez
 
@@ -165,3 +165,5 @@ Kelt: ...................
 .....................
 
 cégszerű aláírás
+
+[^1]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
