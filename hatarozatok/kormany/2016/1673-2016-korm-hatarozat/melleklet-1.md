@@ -1,0 +1,257 @@
+## A Kormány elfogadta az új nemzetközi magánjogi törvény 1. mellékletben szereplő koncepcióját.
+
+1. melléklet az 1673/2016. (XI. 29.) Korm. határozathoz
+
+## Az új nemzetközi magánjogi törvény koncepciója
+
+I. A tagállami nemzetközi magánjogi szabályozás és az EU rendeleti jogalkotásának viszonya
+
+1. Az új nemzetközi magánjogi törvény koncepciója (a továbbiakban: Koncepció) értelmében az új nemzetközi magánjogi törvény (a továbbiakban: törvény) bevezető rendelkezései között általános jelleggel ki kell mondani, hogy a törvény szabályait csak olyan jogviszonyokra kell alkalmazni, amelyekre uniós rendelet hatálya nem terjed ki.
+
+II. A törvény szerkezete
+
+2. A Koncepció szerint a törvény a maga tárgyi hatályát a külföldi elemet tartalmazó magánjogi viszonyokra nézve állapítja meg.
+
+3. A törvény – a Polgári Törvénykönyvről szóló 2013. évi V. törvénnyel (a továbbiakban: Ptk.) egyezően – az államot jogi személynek tekinti, és ezért az alkalmazandó jog meghatározása körében az államra külön szabályokat nem állapít meg.
+
+4. A törvény a bevezető rendelkezéseiben rendezi a saját hatályát, és ehhez kapcsolódva a nemzetközi egyezményekhez és az uniós rendeletekhez való viszonyát. Külön részben határozza meg a törvény az általános szabályokat.
+
+5. A családjogra vonatkozó rendelkezések (a Ptk. rendszerét követve) a személyekre vonatkozó szabályokat követően kerülnek a törvénybe. A szellemi alkotások joga a dologi jogi fejezet után következik.
+
+6. A Koncepció értelmében a törvény szabályozza a joghatóságot, a peres eljárás nemzetközi sajátosságait, továbbá a külföldi határozatok elismerésére és végrehajtására vonatkozó kérdéseket.
+
+7. A Koncepció amellett foglalt állást, hogy az eljárásjogi rendelkezések, a joghatósági, továbbá az elismerési és végrehajtási szabályok – ebben a sorrendben – az alkalmazandó jog meghatározására vonatkozó szabályokat követően szerepelnek a törvényben. A szerkezeti koherencia szempontjára tekintettel mindazonáltal megfontolandó lehet egy olyan megoldás is, miszerint a bevezető rendelkezések után következnének az eljárási jogi rendelkezések, valamint a joghatóság, míg a külföldi határozatok elismerésének és végrehajtásának kérdésköre az alkalmazandó jogról szóló szabályokat követően kapna helyet a törvényben.
+
+8. A megalkotandó törvény szerkezete a következő:
+
+a) Bevezető rendelkezések
+
+b) Általános szabályok
+
+c) Személyek
+
+d) Családjog
+
+e) Dologi jog
+
+f) Szellemi alkotások joga
+
+g) Kötelmi jog
+
+h) Öröklési jog
+
+i) Eljárási szabályok
+
+j) Joghatóság
+
+k) Külföldi határozatok elismerése és végrehajtása
+
+l) Záró rendelkezések
+
+III. Általános rendelkezések
+
+## III.1. A vissza- és továbbutalás (renvoi)
+
+9. A Koncepció alapján a törvény az egyes jogviszonyok sajátosságai szerint ad majd rendelkezéseket a vissza- és továbbutalásra. Az általános szabályok között a törvény azt mondja ki, hogy elfogadja a visszautalást és az egyszeri továbbutalást, ha a különös részi szabályok így rendelkeznek.
+
+III.2. A minősítés
+
+10. A minősítésre vonatkozó szabályozás elhagyása zavart okozhatna a joggyakorlatban, ezért a Koncepció értelmében a minősítés szabályozása a nemzetközi magánjogról szóló 1979. évi 13. törvényerejű rendelet (a továbbiakban: Kódex) (3. §) alapgondolatát követve kerül be a törvénybe is: főszabály a lex fori szerinti minősítés, a magyar jogban ismeretlen jogintézmény (fogalom) esetében pedig azon állam joga szerinti minősítés, amelyik az adott jogintézményt ismeri (ami rendszerint azonos a lex causae-val). Ennek következtében viszont az ún. „elsőkérdés” szabályozására nincs szükség.
+
+III.3. Az előkérdés (és az elsőkérdés)
+
+11. Az előkérdés kapcsán nem látszik lehetségesnek és célszerűnek egyetlen egységes szabály felállítása az előkérdés megválaszolására, sem nemzeti, sem uniós szinten. Ez azt jelenti, hogy sem az önálló, sem az önállótlan kapcsolást nem lehet kizárólagos szabállyá tenni, legfeljebb egyes esetcsoportokra lehet iránytűszerű szabályt adni. A törvény nem szabályozza majd az előkérdés problematikáját.
+
+IV. A külföldi jog alkalmazása és mellőzése
+
+## IV.1. Viszonosság
+
+12. Magyarország a demokratikus államok közösségének és az Európai Uniónak tagja, és már csak ezért is evidensnek kell tekinteni, hogy a magyar nemzetközi kollíziós szabályok által irányadónak tekintett külföldi jog tényleges alkalmazásához nem kell viszonosságot megkívánni, és ezt ki sem kell mondani.
+
+13. Az állam jogviszonyaira alkalmazandó jog meghatározásával kapcsolatban megállapítható, hogy a joghatósági és elismerési szabályok összességükben megfelelő jogi eszközt biztosítanak a magyar állam érdekeinek védelméhez, az alkalmazandó jogot meghatározó kollíziós szabályoknál az állam jogviszonyait nem kell külön privilegizálni a magyar jog alkalmazásának előírásával, vagyis az állam jogviszonyaira nem kell külön kollíziós szabályokat alkotni, amint azt – ráadásul egyoldalú kollíziós szabályban – a Kódex 17. § (1) bekezdése teszi, és a viszonossági követelmény támasztása külföldi állam jogviszonyaival kapcsolatban szintén felesleges. A Koncepció értelmében a külföldi határozatok elismerése és végrehajtása körében adott esetben megkövetelendő viszonosságot a törvény e kérdések szabályozásánál fogalmazza meg.
+
+IV.2. Csalárd kapcsolás
+
+14. A Koncepció a csalárd kapcsolás általános tényállásának fenntartását nem tartja indokoltnak. A nemzetközi magánjognak vannak más (ráadásul a bíróság által könnyebben kezelhető) eljárási jogi eszközei (joghatósági, elismerési és végrehajtási rendelkezések) és anyagi jogi eszközei (a jogválasztás terjedelmét, illetve a választható jogok körét korlátozó szabályok) a visszaélés-jellegű kapcsolások kezelésére.
+
+IV.3. A felek mellőzési kérelme
+
+15. A Koncepció nem javasolja fenntartani a Kódex 9. §-ában biztosított lehetőséget a felek számára. A külföldi jog alkalmazásának mellőzésére vonatkozó közös kérelem elfogadása nehezen egyeztethető össze a nemzetközi magánjog alapeszméjével, amely a tényállással legszorosabb érdemi kapcsolatot mutató jogot tekinti irányadónak az ügy elbírálásánál.
+
+IV.4. Kitérítő klauzula
+
+16. Az egyes uniós rendeletek szabályozására történő kifejezett utalás megoldani látszik ezt a problémakört. Ezért a Koncepció javasolja, hogy a törvény tartalmazzon egy általános kitérítő klauzulát, amelynek segítségével a bíróság – a felek által választott jog kivételével – kivételesen mellőzheti a kijelölt jog alkalmazását, ha az eset körülményei alapján nyilvánvaló, hogy a tényállás egy másik joghoz ténylegesen szorosabban kapcsolódik. Természetesen nem alkalmazható az általános kitérítő klauzula az európai uniós rendeletek által szabályozott életviszonyok területén. Ez következik az uniós rendeleti jog alkalmazási elsőbbségét kimondó általános tételből.
+
+IV.5. Közrend
+
+17. A Koncepció szükségesnek tartja, hogy a törvény – az uniós rendeletekben található megfogalmazásokkal összhangban – tartalmazzon közrendi klauzulát, amely kifejezésre juttatja, hogy – kivételesen – mellőzni kell a kijelölt külföldi jogszabály alkalmazását akkor, ha annak eredménye nyilvánvalóan a magyar jog értékrendjébe ütközik. A mellőzött külföldi jogszabály helyett a megfelelő magyar jogszabályt kell alkalmazni. A törvény speciális, egy-egy konkrét területen érvényesülő közrendi záradékokat ne fogalmazzon meg. A Koncepció – idejétmúlt volta miatt – elhagyni javasolja a Kódex 7. § (2) bekezdésében foglalt tételt.
+
+IV.6. Imperatív szabályok
+
+18. A Koncepció értelmében a törvény – a szerződéses kötelezettségekre alkalmazandó jogról szóló, 2008. június 17-i 593/2008/EK európai parlamenti és tanácsi rendelet (a továbbiakban: Róma I. rendelet) 9. cikk (1) bekezdésének mintájára – definiálja a feltétlen alkalmazást kívánó (imperatív) normát. A törvény normatív formában hívja fel a jogalkalmazó figyelmét a magyar jog feltétlen alkalmazást kívánó (imperatív) normáinak érvényesítési igényére azokban az esetekben, amikor különben külföldi jogot kell alkalmazni. Emellett a Koncepció úgy foglal állást, hogy a törvény harmadik ország imperatív szabályainak meghatározott feltételek esetén való figyelembevételének lehetőségéről is rendelkezzen.
+
+IV.7. A külföldi jog alkalmazása
+
+19. A Koncepció fenntartandónak ítéli a hatályos jognak azt az elvi tételét, hogy a bíróság a külföldi jogot jogkérdésként kezeli és hivatalból alkalmazza. Az is rögzítésre kerül ugyanakkor, hogy a külföldi jogot a saját gyakorlata szerint kell értelmezni.
+
+20. A területközi és személyközi kollízió feloldására a Koncepció szükségesnek tartja megfelelő szabályok felvételét a törvénybe.
+
+IV.8. A külföldi jog tartalmának megállapítása
+
+21. A Koncepció értelmében a törvényben is azt kell rögzíteni, hogy a külföldi jog tartalmának megállapítása a bíróság kötelezettsége. A bíróság a külföldi jog tartalmának megállapításához bármely eszközt igénybe vehet, így különösen a felek előterjesztéseit, továbbá beszerezhet szakvéleményt, valamint az igazságügyért felelős minisztertől is kérhet tájékoztatást.
+
+22. A Koncepció szerint, ha a külföldi jog tartalma ésszerű határidőn belül nem állapítható meg, a bíróság a magyar jogot alkalmazza. Ha a magyar jog szabályai az adott ügy eldöntésére nem alkalmasak, akkor a tényálláshoz vagy az alkalmazandó joghoz legközelebb álló harmadik állam jogát kell alkalmazni. A külföldi jog tartalmának hibás megállapítása vagy téves alkalmazása a polgári perrendtartásról szóló törvény szerinti jogorvoslat alapját képezheti.
+
+V. A természetes személy (ember) személyes joga
+
+## V.1. Személyes jog
+
+23. Fontos rögzíteni, hogy (elsődlegesen) mire terjed ki a természetes személyek személyes joga, és mi annak tartalma. Ezért a Koncepció értelmében az ember személyes joga határozza meg a jog- és cselekvőképességet (ideértve a nagykorúvá válás feltételeit is), a személyiségi jogokat, a névviselést, továbbá a törvényben meghatározott családjogi viszonyokat. A gyámsággal kapcsolatos kapcsolóelveket a családjogi szabályok között helyezi el a törvény. A gondnokságról szóló szabályok a személyekre vonatkozó részben kapnak helyet azzal, hogy tartalmilag a felnőttek nemzetközi védelméről szóló, 2000. január 13-i hágai egyezményben foglalt rendelkezéseket – a tárgyi hatály által determinált körben – indokolt átvenni, tekintettel az egyezményhez tervezett közeli magyar csatlakozásra.
+
+24. A Koncepció megtartani javasolja a jelenlegi lépcsőzetes rendszert az ember személyes jogának meghatározásakor, azzal, hogy a kapcsolóelveket a Kódexhez képest részben eltérően határozza meg. A törvényben az ember személyes jogát az állampolgársága határozza meg. Ha a személynek több állampolgársága van és azok közül az egyik a magyar, a személyes jog a magyar jog, kivéve, ha a személyt a másik állampolgárságához – szokásos tartózkodási helyére és életvitelére tekintettel – szorosabb kapcsolat fűzi. Ha a személy több állampolgársága közül egyik sem a magyar, személyes jogát azon állampolgársága alapján kell megállapítani, amelyhez az eset körülményeire tekintettel szorosabban kapcsolódik. Azoknak a személyes jogát, akik több állampolgársággal rendelkeznek, amelyek közül egyik sem magyar, és egyik állampolgárságukhoz sem fűzi szoros kapcsolat (pl. olyan személyek esetében, akik nem valamely állampolgárságuk szerinti állam területén rendelkeznek szokásos tartózkodási hellyel és egyik állampolgárságukhoz sem fűzi őket szoros kapcsolat), továbbá azon személyek, akiknek állampolgársága nem állapítható meg, valamint a hontalanok személyes jogát a szokásos tartózkodási helyük határozza meg. Ha a fent megjelölt kapcsolószabályok alapján sem állapítható meg a személyes jog, akkor a magyar jog (lex fori) alapján kell eljárni. Magyarországon menedékjogot élvező személy személyi állapotára – a hatályos szabályozással megegyezően – a magyar jog alkalmazandó; ez a rendelkezés nem érinti a korábbi személyi állapotot és az annak alapján érvényesen létrejött jogokat és kötelezettségeket.
+
+25. A törvény kapcsán megfontolandó definíciót adni a szokásos tartózkodási hely fogalmára nézve. E meghatározásnak kellően nyitottnak kell lennie azzal, hogy fókuszában a személy életvitelének középpontja áll. A szokásos tartózkodási hely lényeges elemei különösen: a tartózkodás ténylegessége és a szabad elhatározás. A szokásos tartózkodási helyet az adott jogviszony kontextusában kell meghatározni. Átgondolandó az is, hogy a gyermek szokásos tartózkodási helyére vonatkozóan szükséges-e speciális meghatározást alkotni. A definíciónál a törvény figyelembe veszi a magyar bírósági gyakorlatot és az öröklési ügyekre irányadó joghatóságról, az alkalmazandó jogról, az öröklési ügyekben hozott határozatok elismeréséről és végrehajtásáról, valamint az öröklési ügyekben kiállított közokiratok elfogadásáról és végrehajtásáról, valamint az európai öröklési bizonyítvány bevezetéséről szóló, 2012. július 4-i 650/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Öröklési rendelet) (23) és (24) preambulum-bekezdésének gondolatait.
+
+26. A személyes jog körében a törvény – a renvoi-val kapcsolatos döntéssel összhangban – elfogadja a visszautalást és az egyszeri továbbutalást, ha az ember személyes jogát az állampolgárság alapján kell meghatározni.
+
+27. A Koncepció értelmében a halál tényének bírói megállapítására, a holtnak, illetve eltűntnek nyilvánításra az eltűnt személyes jogát kell alkalmazni. Indokolt azonban kiegészíteni e szabályt azzal, hogy ha az eltűnt személyes joga nem ismeri az adott jogintézményt, a magyar jogot kell alkalmazni. Amennyiben az eltűnt személyes joga nem a magyar jog, különös méltánylást érdemlő belföldi jogi érdek fennállása esetén a magyar jog alapján kell eljárni.
+
+28. A törvény – a forgalomképesség védelme érdekében – tartalmilag fenntartja a Kódex 15. § (2) és (3) bekezdésében foglalt szabályokat. Ezek alapján azt a nem magyar állampolgárt, aki a személyes joga szerint cselekvőképtelen vagy korlátozottan cselekvőképes, a mindennapi élet szokásos szükségleteinek fedezése körében Magyarországon kötött vagyonjogi ügyletei szempontjából cselekvőképesnek kell tekinteni, amennyiben a magyar jog szerint cselekvőképes lenne. Azt a nem magyar állampolgárt, aki személyes joga szerint cselekvőképtelen vagy korlátozottan cselekvőképes, de a magyar jog szerint cselekvőképes lenne, egyéb vagyonjogi ügyletei szempontjából is cselekvőképesnek kell tekinteni, ha az ügylet jogkövetkezményeinek Magyarországon kell beállniuk.
+
+V.2. Névviselés
+
+29. A névviselésre vonatkozó szabályok a hatályos magyar nemzetközi kollíziós jogban az ember jogalanyiságát meghatározó szabályok között találhatók. A Koncepció szerint indokolt a névjogot önállóan, a személyes jog általános szabályaitól elkülönülten szabályozni.
+
+30. A névjog terjedelme a jelenlegi szabályozásnál szélesebb kört ölel fel, hiszen a névviselés kérdése nem csak az ember születésekor merül fel. A Kódex jelenlegi szabálya indokolatlanul szűkítő. Az új szabályozást célszerű kiterjeszteni, vagy általános utalással az ember nevére vagy felsorolással pontosítva (családi- és utónév, továbbá születés, házasság, esetlegesen a bejegyzett élettársi kapcsolat révén stb. szerzett név). E második megoldáshoz hasonlót ajánl megfontolásra a Belügyminisztérium előkészítő anyaga is.
+
+31. A Koncepció szerint a névviselésre a törvény jogválasztási jogot enged, ha a személynek több állampolgársága van.
+
+VI. Jogi személyek
+
+32. A Koncepció szerint a jogi személyek honosságára vonatkozóan a törvény az inkorporációs elvre építi a főszabályát, de kisegítő kapcsolóelvekre is szükség van. Különösen a nem gazdasági társaság jogi személyekre (egyesület, szövetkezet, alapítvány stb.) tekintettel a kisegítő szabályokat árnyaltan kell megfogalmazni. A törvényben a Kódex 18. § (3) bekezdésében foglalt, tartalmilag fenntartandó kisegítő szabályba az „alapszabály” kifejezés helyett a „létesítő okirat” kifejezés kerüljön; a Kódex 18. § (4) bekezdésében foglalt, tartalmilag fenntartandó kisegítő szabályba a „központi ügyvezetés” kifejezés helyett a „központi ügyintézés” kifejezés kerüljön.
+
+33. A Koncepció megfogalmazásában a törvény – példálózóan kiemelő – felsorolást tartalmaz arra vonatkozóan, hogy a jogi személy személyes joga mire terjed ki. A felsorolást a hatályos joghoz képest ki kell bővíteni. A jogi személyekről szóló rendelkezésekben a törvény kimondja, hogy azok a jogi személyiséggel nem rendelkező jogalanyokra is megfelelően alkalmazandóak. A szolgáltatást nyújtó jogi személyek szokásos tartózkodási helyének meghatározása kapcsán a Róma I. rendelet 19. cikkében foglaltakat kell irányadónak tekinteni.
+
+VII. Fizetésképtelenségi eljárások
+
+34. A Koncepció értelmében a törvény szabályozza a fizetésképtelenségi eljárásokkal kapcsolatos – az európai uniós rendeletben nem rendezett – a joghatósági, az alkalmazandó jogra vonatkozó, továbbá az elismerésre és végrehajtásra vonatkozó kérdéseket. Ennek értelmében a törvény szerint a magyar bíróság joghatósággal rendelkezik fizetésképtelenségi eljárás lefolytatására, ha az adós jogi személy létesítő okirat szerinti székhelye Magyarországon van, vagy Magyarországon olyan működési hellyel rendelkezik, ahol nem átmeneti jellegű tevékenységet folytat (telephely). A törvény kimondja azt is, hogy ha a magyar bíróság a fizetésképtelenségi eljárás lefolytatására joghatósággal rendelkezik, eljárhat a fizetésképtelenségi eljárásból származó és azzal szorosan összefüggő valamennyi kereset tekintetében is. A magyar bíróság előtt kezdeményezett fizetésképtelenségi eljárás joghatásaira a magyar jogot rendeli alkalmazni, ez alól azonban indokolt kivételt is megállapítani (ingatlan fekvése szerinti, illetve a nyilvántartást vezető állam joga). A fizetésképtelenség tárgyában hozott határozat hazai elismerése viszonosság esetén lehetséges. A törvény speciális rendelkezésekben foglalkozik a külföldi fizetésképtelenségi főeljárás joghatásaival is.
+
+VIII. Családjog
+
+## VIII.1. A házasság létezése és érvényessége
+
+35. A Koncepció úgy foglal állást, hogy a házasság anyagi és alaki érvényességének, létezésének, nemlétezésének megítélésére alkalmazandó jog meghatározásánál a törvény a hatályos jogot tartja fenn a közös személyes jog koncepciójának kivételével. (A házasság érvényességének anyagi jogi feltételeit a házasulók házasságkötés idején fennálló személyes jogának együttes figyelembevételével kell elbírálni. Ha a házasulók személyes joga a házasságkötés idején különböző, a házasság csak akkor érvényes, ha ennek anyagi jogi feltételei mindkét házasuló személyes joga szerint megvannak.)
+
+36. A Kódex 38. § (1) és (1a) bekezdése anyakönyvezési kérdést rendez, ezért azt a Koncepció nem javasolja a törvénybe átvenni. Tartalmilag fenntartandónak tartja ugyanakkor a Kódex 38. § (2) bekezdésében foglalt házasságkötési akadályt (a házasságot Magyarországon nem lehet megkötni, ha a házasságkötésnek a magyar jog szerint elháríthatatlan akadálya van).
+
+VIII.2. A házasság felbontása
+
+37. A házasság felbontására és a különválásra alkalmazandó jog területén létrehozandó megerősített együttműködés végrehajtásáról szóló, 2010. december 20-i 1259/2010/EU tanácsi rendelet (a továbbiakban: Róma III. rendelet) (22) preambulum-bekezdésében kapott felhatalmazás alapján a törvény szerint, ha a házastársak egynél több közös állampolgársággal rendelkeznek, akkor közös állampolgárságuk annak az államnak a joga, amelyhez a házastársakat együtt – az eset összes körülményére tekintettel – szorosabb kapcsolat fűzi.
+
+38. A Koncepció úgy foglal állást, hogy a törvény a jogválasztás határideje tekintetében a Róma III. rendelet 5. cikk (3) bekezdésében adott eltérési lehetőséggel élve a jogválasztás lehetőségét a bíróság által az első tárgyaláson tűzött határidőig biztosítja.
+
+39. A Róma III. rendelet felhatalmazza a tagállamokat arra, hogy a nemzeti jogukban kiegészítő alaki szabályokat írjanak elő a jogválasztásra vonatkozó megállapodás alaki érvényességét illetően [7. cikk (2) bekezdése]. Erre tekintettel a Koncepció megfontolás tárgyává tette, hogy a magyar jogalkotó éljen-e ezzel a lehetőséggel. Ennek eredményeként a Koncepció a jogválasztás alakszerűségére a Róma III. rendelet 7. cikk (1) bekezdésében meghatározott érvényességi követelmények szigorítását nem tartja szükségesnek.
+
+VIII.3. A házastársak személyi és vagyoni viszonyai
+
+40. A Koncepció értelmében a házastársak személyi és vagyoni jogviszonyaira – a névviselést kivéve – annak az államnak a joga alkalmazandó, amelynek az elbírálás időpontjában mindkét házastárs állampolgára. Ha a házastársak állampolgársága különböző, annak az államnak a jogát kell alkalmazni, amelynek területén az elbírálás időpontjában a házastársak közös szokásos tartózkodási helye található; ennek hiányában a házastársaknak utolsó közös szokásos tartózkodási helye irányadó. Ha a házastársaknak nem volt közös szokásos tartózkodási helyük, az eljáró bíróság vagy más hatóság államának jogát kell alkalmazni. A Koncepció szerint a vagyoni jogviszonyok tekintetében a törvény jogválasztási jogot ad a házastársaknak, valamint a házasulóknak (kifejezett jogválasztás), meghatározva a választható jogok körét és a jogválasztás legkésőbbi időpontját. A Koncepció vizsgálta a házassági vagyonjogi szerződés kollíziós jogi megítélését a kötelmi kollíziós szabályok szempontjából is. Azt, hogy a házassági vagyonjogi megállapodások kollíziós jogi megítélése milyen összetett kérdéseket vethet fel, jól példázza a Kúria BH 2014/1. 26 sz. eseti döntése. A Koncepció – a szerződés alkalmazandó jog szempontjából történő feldarabolásának elkerülése érdekében – a házassági vagyonjogi szerződés egységes kollíziós jogi elbírálása mellett foglal állást. Külön szabályban rögzítendő ugyanakkor, hogy a házassági vagyonjogi szerződés alaki szempontból érvényes akkor is, ha megfelel a megkötés helye szerinti jognak. A házastársak személyes és vagyoni viszonyaira alkalmazandó jog meghatározásánál a törvény elfogadja a visszautalást és az egyszeri továbbutalást, ha a bíróság az alkalmazandó jogot a házastársak közös állampolgársága alapján állapítja meg.
+
+VIII.4. Családi jogállás, örökbefogadás, szülő és gyermek közötti jogviszonyok, gyermekre kedvezőbb jog, gyámság, gondnokság
+
+41. A magyar joggyakorlat elemzése ebben a körben csak részleges jelleggel tárt fel jogalkalmazási problémákat, a Koncepció alapján ezért a törvény alapvetően fenntartja a családi jogállásra vonatkozó szabályt azzal a kiegészítéssel, hogy amennyiben a személyes jog szerint az apai jogállás betöltetlen lenne, az üggyel szoros kapcsolatban lévő másik állam joga alkalmazandó, feltéve, ha annak alapján az apaság megállapítható (gyermekre kedvezőbb jog). Az örökbefogadás kapcsán – néhány kivételtől eltekintve – szintén megőrzésre kerül a hatályos szabály. Az örökbefogadás feltételeinek továbbra is mind az örökbefogadó, mind az örökbefogadni kívánt személy örökbefogadás idején fennálló személyes joga szerint fenn kell állnia. A magyar gyámhatósági jóváhagyásra vonatkozó szabályokat a gyámhatóság tevékenységéről szóló jogszabályokban indokolt elhelyezni, és e tekintetben tartalmi felülvizsgálat is indokolt lehet. Az örökbefogadás jogi hatásaira, az örökbefogadás megszűnésére, valamint ennek jogi hatásaira az örökbefogadónak az örökbefogadás, illetve a megszűnés idején fennálló személyes jogát kell alkalmazni; házastársak általi örökbefogadás esetében a törvény a közös személyes jog helyett a közös állampolgárság, a közös szokásos tartózkodási hely, illetve ezek hiányában a lex fori kapcsolóelvét használja. Ha az örökbefogadásra alkalmazandó külföldi jog szerint a személyes jog az érintett személy, illetve személyek állampolgársága vagy közös állampolgársága alapján kerül megállapításra, a törvény elfogadja a visszautalást és az egyszeri továbbutalást.
+
+42. A gyermek családi jogállására, továbbá az örökbefogadás jogi hatásaira, megszűnésére és ennek jogi hatásaira alkalmazandó jog meghatározásánál a törvény elfogadja a visszautalást és az egyszeri továbbutalást, ha a bíróság az érintett személy (személyek) személyes jogát állampolgársága (közös állampolgárságuk) alapján állapítja meg.
+
+43. A Koncepció a szülői felelősséggel és a gyermekek védelmét szolgáló intézkedésekkel kapcsolatos együttműködésről, valamint az ilyen ügyekre irányadó joghatóságról, alkalmazandó jogról, elismerésről és végrehajtásról szóló, Hágában, 1996. október 19-én kelt Egyezmény (a továbbiakban: 1996. évi hágai egyezmény) tárgyi hatályának hézagaiban határozza meg a szülő–gyermek jogviszonyra alkalmazandó jogot. A szülő és gyermek közötti jogviszonyra – az egyezmény szabályozási körén kívül eső kérdéskörök tekintetében, a nagykorúvá válás és a névviselés kivételével – a gyermek szokásos tartózkodási helye szerinti állam jogát rendeli majd alkalmazni azzal, hogy abban az esetben, ha a gyermek szokásos tartózkodási helye nem állapítható meg, akkor a magyar jog irányadó. A gyámságra vonatkozó kollíziós szabályozást szintén az 1996. évi hágai egyezmény tárgyi hatályára tekintettel, az azzal való összhangra figyelemmel kell kialakítani. Minthogy ez az egyezmény a gyámságot és a szülő–gyermek jogviszonyt egységesen kezeli, e két kérdéskört a törvény is egy szabályban rendezi. Ezeken a szabályozási területeken a Koncepció tehát azt irányozza elő, hogy a vonatkozó univerzális hatályú nemzetközi egyezményre tekintettel – a fent megjelölt kivételeken (nagykorúvá válás, névviselés) kívül – indokolt a szokásos tartózkodási hely, mint elsődleges kapcsolóelv alkalmazására áttérni a törvényben az egyezmény hatálya alá nem tartozó területeken.
+
+44. Ugyancsak fenntartható az ideiglenes intézkedésre vonatkozóan a hatályos jog megoldása, ezzel összefüggésben azonban az eljárásjogi rendelkezések körében való rendezéssel is számolni lehet.
+
+VIII.5. Tartási jog
+
+45. A Koncepció a családjogi tartás körében a törvényben külön szabályozást nem tart indokoltnak.
+
+46. A Koncepció a törvény általános kérdései kapcsán már döntést tartalmaz arról, hogy csak az uniós rendeletekre alkalmaz figyelemfelhívó szabályt, az egyezményekre nem. Ezt az általános elvet a konkrét ügyre alkalmazva úgy foglal állást, hogy a törvény a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-i 4/2009/EK tanácsi rendeletre vonatkozóan tartalmaz majd figyelemfelhívó utalást.
+
+IX. Élettársak, bejegyzett élettársak
+
+47. Az élettársi kapcsolat kollíziós szabályozásának tárgyai az alábbiak lehetnek: az élettársi kapcsolat létrejötte és megszűnése, valamint az élettársi kapcsolat joghatásai. A vonatkozó kérdéskör szabályozási módja, valamint e rendelkezések elhelyezése további megfontolás tárgyát képezi.
+
+48. A szabályozásnak ki kell terjednie a bejegyezett élettársi kapcsolat érvényes létrejöttének anyagi és alaki feltételeire, a bejegyezett élettársak közötti személyi és vagyoni viszonyokra, továbbá a bejegyezett élettársi kapcsolat megszűnésére alkalmazandó jog meghatározására. A Koncepció fenntartani javasolja a bejegyzett élettársakra vonatkozó hatályos kollíziós jogi szabályozást, kiegészítve azzal, hogy a más államban azonos neműek között érvényesen megkötött házasság Magyarországon nem ismerhető el, azonban az ilyen házasságot – kérelemre – a magyar jog szerint bejegyzett élettársi kapcsolatnak kell tekinteni.
+
+X. Dologi jog
+
+## X.1. Főszabály
+
+49. A Koncepció szerint a törvény mind az ingatlanokra, mind – főszabályként – az ingókra a lex rei sitae elvét tartja fenn. Ez az elv vonatkoztatható a birtokra, az idegen dologbeli (korlátolt dologi) jogokra, különösen a zálogjogra. A dolog fekvésének helyén irányadó jog annak az államnak a joga, amelynek területén a dolog a jogi hatást kiváltó tény létrejöttének időpontjában van.
+
+X.2. Kivételek a dologi jog fő nemzetközi magánjogi kapcsolóelve alól
+
+50. A törvény kapcsán a Koncepció szerint nem indokolt a jelenlegi szabálytól alapvetően eltérő rendelkezés megalkotása. Így a törvény a nyilvántartásba vett vízi és légi járműre vonatkozó dologi jogok keletkezésére, fennállására és megszűnésére a lobogó jogát tartja fenn. Fontos kiegészítés azonban, hogy a vasúti járművekre a törvény a nyilvántartásba vétel helyének jogát rendeli alkalmazni.
+
+51. A Koncepció mindezekre tekintettel az úton lévő dolog dologi jogi statútumaként a rendeltetési hely államának jogát fogadja el. A dolog kényszerű eladásával, raktározásával, elzálogosításával kapcsolatos dologi joghatásokra azonban a lex rei sitae alkalmazandó.
+
+52. Az utas személyes jogát rendeli alkalmazni a törvény az utas által magával vitt személyes használati tárgyakra vonatkozó dologi jogokra. Vállalat mint egész tulajdonjogának átruházására és dologi jogi megterhelésére – az ingatlanokra vonatkozó jogváltozások kivételével – a felek meghatározhatják a dologi jogot a vagyon eredeti fekvése és a szerződés szerinti célország állama közötti választással, feltéve, hogy a szerződő feleket megilleti a jogválasztás joga a vállalati (üzleti) vagyon értékesítése során. A felek jogválasztása jóhiszemű harmadik személyek ingóra vonatkozó jogait nem érinti. A Koncepció szerint a törvény fenntartja – a pénzügyi biztosítékokról szóló megállapodásokról szóló, 2002. június 6-i 2002/47/EK európai parlamenti és tanácsi irányelvvel összeegyeztethető szabályozást adó – hatályos rendelkezéseket, azzal, hogy a visszautalás külön kizárására nincs szükség. A törvény nem tartja fenn a hatályos szabályozást a bírósági (hatósági) rendelkezés alapján történő dologi jogi változásokra vonatkozóan.
+
+53. Az elbirtoklás kapcsán az a döntés született, hogy ingó dolog elbirtoklására a törvény annak az államnak a jogát rendeli alkalmazni, amelynek területén a dolog az elbirtoklási idő lejártakor volt. Az elbirtoklás jogi feltételeire a dolog fekvési helyének megváltozása nincs hatással.
+
+54. A Koncepció értelmében a dologi jogi statútum körében több más kérdésben is további megfontolás indokolt, így pl. abban a kérdésben, hogy a dologi jogváltozásokkal kapcsolatban lehet-e, és ha igen, milyen körben teret adni a felek autonómiájának, a választható jogok körének meghatározása mellett. Ugyancsak további vizsgálat szükséges annak eldöntéséhez, hogy a dologi jogi statútum alól esetleg szükséges-e további kivételeket tenni a 2010-ben elfogadott UNCITRAL ajánlások (Legislative Guide on Secured Transactions) alapján. A Koncepció szerint a törvényben a kulturális javakra és a tulajdonos birtokából jogellenesen kikerült vagy elvett javakra vonatkozóan külön kapcsoló szabály kerül megalkotásra.
+
+XI. Szerzői jog és iparjogvédelem
+
+55. A Koncepció szerint a törvény lényegét tekintve fenntartja a hatályos kollíziós jogi szabályt. Ennek értelmében a szellemi tulajdon két részterülete, a szerzői jog és az iparjogvédelem továbbra is önálló kapcsolószabályt kap. A szerzői jogok védelme kapcsán a lex loci protectionis, míg az iparjogvédelemnél, a szabadalmi jogot is ideértve, a lex originis kapcsolóelve érvényesül. A normavilágosság követelményének megfelelően az alkalmazandó jogra vonatkozó szabályokban mindkét részterület vonatkozásában indokolt külön nevesíteni az adott szellemi tulajdonjogi jogosultság egyes részaspektusait (keletkezés, tartalom, védelem, megszűnés), amire nézve az alkalmazandó jog kiterjed. A hatályos Kódex szövegezésével összefüggésben felmerült polémiára tekintettel a törvényben indokolt a lex loci protectionis helyes értelmezését tükröző megfogalmazás alkalmazása, eszerint a szerzői jogok elbírálására nézve annak az államnak a joga irányadó, amelynek a területére a védelmet igénylik. Az eljárásjogi vonatkozást illetően, a kizárt magyar joghatóság a külföldi iparjogvédelmi jog megadásával, terjedelmével és megszűnésével kapcsolatban szintén megmarad (hatályos Kódex 62/C. § f) pont). Ezzel szemben a belföldi iparvédelmi jog megadásával, terjedelmével és megszűnésével kapcsolatos eljárásra vonatkozó kizárólagos magyar joghatóságot megállapító szabály a törvényben nem szerepel, mivel e kérdéskört a polgári és kereskedelmi ügyekben a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról szóló, 2012. december 12-i 1215/2012/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Brüsszel Ia. rendelet) lefedi (24. cikk 4. bekezdés).
+
+XII. Szerződéses kötelmi viszonyok
+
+## XII.1. Általános kérdések
+
+56. A Róma I. rendelet tárgyi hatálya alá nem tartozó szerződésekkel összefüggésben a Kodifikációs Bizottság fontosnak tartotta rögzíteni, hogy a törvény a szerződésekre alkalmazandó jog meghatározásához lehetővé teszi a felek jogválasztását. A jogválasztás joga állami jog választását jelenti. (Ugyanakkor a Koncepció javasolja a választottbíráskodásról szóló 1994. évi LXXI. törvény olyan értelmű módosítását, hogy az a nem állami jog választását is egyértelműen lehetővé tegye.)
+
+57. Jogválasztás hiányában – a szerződés lényeges elemeinek figyelembevételével – a szerződéssel legszorosabb kapcsolatot mutató állam joga lesz alkalmazandó.
+
+XII.2. Értékpapírok
+
+58. Megfontolandó az értékpapírokra vonatkozó kollíziós normákat mind a dologi jogi, mind a szerződéses kérdések tekintetében egységesen, önálló szerkezeti egységben rendezni.
+
+XII.3. Választottbírósági megállapodásra irányadó jog meghatározása
+
+59. A Koncepció szerint mindenképpen lehetővé kell tenni a felek számára, hogy a választottbírósági szerződésük tekintetében (akár önálló szerződésről, akár a főszerződésben foglalt kikötésről van szó) jogválasztással élhessenek. A jogválasztással összefüggésben pedig célszerű lenne elismerni a kollíziós jogi separability elvét, vagyis azt, hogy a felek a főszerződésre (alapjogviszonyra) alkalmazandó jogtól eltérő jogot is választhatnak.
+
+60. A jogválasztás hiányában alkalmazandó jog meghatározása kapcsán indokoltnak tűnik az, hogy – jogválasztás hiányában – elsősorban az alapjogviszonyra alkalmazandó jogra tekintettel (azzal összhangban) kerüljön maghatározásra az ahhoz kapcsolódó választottbírósági szerződéses jogviszonyra alkalmazandó jog is. Az alapjogviszonyra alkalmazandó jog pedig elsősorban az alapjogviszonyra választott jog, jogválasztás hiányában pedig az egyébként alkalmazandó jog.
+
+61. Célszerű megteremteni annak a lehetőségét, hogy a választottbírósági szerződés alaki érvénytelenségét – kollíziós úton – ki lehessen küszöbölni, feltéve természetesen, hogy van legalább egy olyan alkalmazandónak tekinthető jogrendszer, amely alaki előírásainak a választottbírósági szerződés megfelel. Az az álláspont alakult ki, miszerint indokolt az „in favorem validitatis” elvének tételes jogi kifejezésre juttatása, amely megfelelő kisegítő jogi norma megalkotásával megoldható lenne.
+
+62. Mindezek alapján a Koncepció jogválasztás hiányában a választottbírósági megállapodásra alkalmazandó jogot három lépcsőben határozza meg: a) első lépcső: járulékos kapcsolat elve [aa) az alapjogviszonyra (főszerződésre) választott jog vagy ennek hiányában ab) az alapjogviszonyra (főszerződésre) jogválasztás hiányában alkalmazandó jog]; b) második lépcső: lex loci arbitri, azaz a választottbírósági eljárás államának joga [járulékos kapcsolat hiányában vagy szorosabb kapcsolat esetén]; c) kisegítő jog: a választottbírósági szerződést alaki okból nem lehet érvénytelennek tekinteni akkor, ha a fent meghatározott jogok bármelyike vagy a lex fori által támasztott alaki követelményeknek megfelel.
+
+XII.4. Képviselet
+
+63. A Róma I. rendelet 1. cikk (2) bekezdés g) pontja kiveszi a rendelet hatálya alól azon kérdés eldöntését, hogy harmadik személy irányában a képviselő kötelezheti-e azt a személyt, akinek a nevében eljár, illetve egy szerv kötelezheti-e a társaságot, más jogi személyt vagy jogi személyiség nélküli szervezetet harmadik személlyel szemben. A Koncepció alapján ennek megfelelően a törvény kifejezetten rendelkezik a képviseletre vonatkozó szerződésre alkalmazandó jogról.
+
+XII.5. Speciális biztosítási szerződések
+
+64. A Róma I. rendelet hatálya alá nem tartozó biztosítási szerződésekre is e rendelet szabályai kerülnek alkalmazásra.
+
+XIII. Szerződésen kívüli kötelmi viszonyok
+
+## XIII.1. Általános szabályok
+
+65. A Koncepció a következő álláspontra helyezkedik: A törvény lehetővé teszi, hogy a felek a szerződésen kívüli kötelmi jogviszonyukra alkalmazandó jogot megválasszák. A jogválasztást a törvény csak anyagi jogi hatállyal ismeri el azzal a joggal szemben, amelyhez a szerződésen kívüli kötelmi jogviszony a keletkezésekor minden tényállási elemével kapcsolódik. A törvény a környezeti károkra alkalmazandó jog meghatározása körében a károkozás helye és a kár bekövetkezésének helye közötti jog választásánál a Róma III. rendelet mintájára jelöli meg a jogválasztás végső időpontját.
+
+XIII.2. Személyiségi jogok megsértése
+
+66. Kétségtelen, hogy a személyiségi jogok megsértése a jogsértő és a sérelmet szenvedett fél között szerződésen kívüli kötelmi jogviszonyt hoz létre. Ugyanakkor e jogterület sajátosságaira tekintettel célszerűbb a személyiségi jogok megsértésére vonatkozó kollíziós szabályokat – a hatályos Kódexnek megfelelően – a személyes jogra vonatkozó szabályok között elhelyezni. A törvény a személyiségi jogok megsértéséből származó jogviszonyra a sértett szokásos tartózkodási helyének, illetve létesítő okirat szerinti székhelyének jogát rendeli alkalmazni. A sértett e jog helyett választhatja annak az államnak a jogát, amelyben érdekszférájának középpontja van, vagy választhatja a jogsértő személy szokásos tartózkodási helyének, illetve létesítő okirat szerinti székhelyének jogát, végül választhatja a magyar jogot. A jogválasztásra a bíróság által az első tárgyaláson meghatározott időpontig kerülhet sor. A személyiségi jogsértésre alkalmazandó jog alapján kell megítélni, hogy történt-e jogsértés, és e jog szerint kell megállapítani a jogsértés következményeit.
+
+XIV. Öröklési jog
+
+67. A Koncepció szerint a törvény az öröklési jogi szabályok megalkotásánál a 650/2012/EU európai parlamenti és tanácsi rendelet 31. cikke szerinti megfeleltetési nemperes eljárásról, valamint egyes igazságügyi tárgyú törvénymódosításokról szóló 2015. évi LXXI. törvény 13. §-ából kiindulva határozza meg az uniós rendeletben nem szabályozott kérdésekben alkalmazandó jogot.
+
+XV. Joghatóság, külföldi határozatok elismerése és végrehajtása
+
+68. A törvény – az általános részben rögzített elvvel összhangban – a joghatóság, továbbá az elismerés és végrehajtás körében figyelemfelhívó utaló normát alkalmaz a tematikusan kapcsolódó rendeletekre. Ezek jelenleg a következők: a Brüsszel Ia. rendelet; a házassági ügyekben és a szülői felelősségre vonatkozó eljárásokban a joghatóságról, valamint a határozatok elismeréséről és végrehajtásáról, illetve az 1347/2000/EK rendelet hatályon kívül helyezéséről szóló, 2003. november 27-i 2201/2003/EK tanácsi rendelet (Brüsszel IIa. rendelet); a tartással kapcsolatos ügyekben a joghatóságról, az alkalmazandó jogról, a határozatok elismeréséről és végrehajtásáról, valamint az e területen folytatott együttműködésről szóló, 2008. december 18-i 4/2009/EK tanácsi rendelet (Tartási rendelet); az Öröklési rendelet; a fizetésképtelenségi eljárásról szóló, 2000. május 29-i 1346/2000/EK tanácsi rendelet; a nem vitatott követelésekre vonatkozó európai végrehajtható okirat létrehozásáról szóló, 2004. április 21-i 805/2004/EK európai parlamenti és tanácsi rendelet; az európai fizetési meghagyásos eljárás létrehozásáról szóló, 2006. december 12-i 1896/2006/EK európai parlamenti és tanácsi rendelet; a kis értékű követelések európai eljárásának bevezetéséről szóló, 2007. július 11-i 861/2007/EK európai parlamenti és tanácsi rendelet; valamint a polgári ügyekben hozott védelmi intézkedések kölcsönös elismeréséről szóló, 2013. június 12-i 606/2013/EU európai parlamenti és tanácsi rendelet. A törvény – az európai uniós rendeletek személyi, illetve területi hatályának korlátozottsága miatt – a joghatóság, az elismerés és végrehajtás problematikáját teljes körűen szabályozza, és nemcsak a rendeletek tárgyi hatályának hézagait tölti ki.
+
+69. A Koncepció a joghatóság, az elismerés és végrehajtás körében alkotandó szabályokat – eltérően a hatályos jogtól – nem tankönyvi fogalmak, hanem az egyes jogviszonyok tárgya szerint rendezi; külön szabályokat alkot a vagyonjogi és a családjogi kérdésekre. A családi kapcsolatokból eredő tartási kötelezettségekre vonatkozó rendelet tárgyi hatálya körében esetleg felmerülő hézagokra a törvény nem alkot külön szabályokat, mert a családjogi szabályokkal ezek a hézagok (amelyeket egyébként is az Európai Unió Bíróságának a gyakorlata alapján lehet majd megállapítani) kitölthetők.
+
+70. A joghatóság kérdéseiben az európai uniós rendeletek alapvetően (de nem feltétlenül) követhető mintának tekinthetők a – rendeletek személyi, területi és tárgyi hatályán kívüli kérdésekre vonatkozóan megalkotandó – törvény szabályai számára. A joghatóság körében a törvény szabályozása kiterjed majd olyan kérdésekre is (például ideiglenes intézkedés, biztosítási intézkedés, közérdekű kereset stb.), amelyekkel a hatályos jog nem foglalkozik. A törvény szabályt ad a szükségszerű joghatóság (forum necessitatis) esetére.
+
+71. A Koncepció figyelembe vette, hogy az olyan ügyek rendezésénél, amelyekhez kapcsolódóan tartási ügyek is előfordulnak, arra kell figyelni, hogy ne kényszerüljenek a felek arra, hogy több bíróság előtt pereljenek. Nem célszerű ugyanis, ha a személyállapoti per kizárólagos magyar joghatóságot ír elő, de a magyar bíróság nem tud eljárni a tartás tárgyában. Ezért a törvény a házassági kötelékre és a bontáshoz kapcsolódó járulékos kereseti kérelmekre lehetőleg egységes joghatósági szabályt határoz meg.
+
+72. A Koncepció szerint a külföldi bírósági eljárás során kötött egyezségek a bírósági határozottal azonos feltételek mellett ismerhetőek el és hajthatóak végre. A törvény a külföldi határozatok elismerésének és végrehajtásának viszonosság fennállásától való függővé tételétől főszabály szerint eltekint, azt általános jellegű feltételként nem írja elő, azonban a vagyonjogi ügyben hozott határozatok elismerése és végrehajtása kapcsán – a kizárt, valamint a kikötésen alapuló joghatóság esetkörének kivételével – a viszonosság fennállását továbbra is követelményként támasztja. A Koncepció a viszonosság alatt „adminisztratív” viszonosságot ért, amelynek feltétele, hogy a két állam hatóságai egymás jogának kölcsönös megismerését és a viszonosság létrehozatalára irányuló tárgyalásokat követően deklarálják a viszonosság fennállását (a „tényleges” viszonosság megállapítása ezzel szemben az érintett külföldi állam vonatkozó jogának a beszerzését teszi szükségessé, ami költségessége és időigényessége folytán gyakorlati nehézségeket okoz, ezért mellőzendő). A viszonosság megállapításának módjáról az Alkotmánybíróság döntéseiben meghatározott keretek között kell rendelkezni. A külföldi határozatok hazai elismerésének hatályos jog szerinti megtagadási okait generálisan fenntartja a Koncepció azzal, hogy az eljárási közrend (a magyar eljárási jog alapvető elveit súlyosan sértő eljárás eredményeként született határozat) beépül a közrend sérelméről szóló megtagadási okra vonatkozó szabályba. A gyakorlati tapasztalatok alapján az elismerés megkönnyítése érdekében tekintettel kell lenni a határozat által érintett személy kettős állampolgárságára is, lehetővé téve a magyar állampolgárság melletti másik állampolgárság figyelembevételét.
