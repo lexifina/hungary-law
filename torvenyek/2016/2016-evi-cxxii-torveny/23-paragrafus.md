@@ -1,0 +1,5 @@
+## 8. Állami ingatlan ingyenes egyházi tulajdonba adása
+
+23. § (1) Az Országgyűlés a nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése, valamint az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése alapján úgy rendelkezik, hogy az állam tulajdonában lévő, Budapest VIII. kerület, Múzeum utca 17. szám és Reviczky utca 6. szám alatt található, az ingatlan-nyilvántartás szerint Budapest 36578/1 helyrajzi számú ingatlan ingyenesen, felsőoktatási feladatok ellátásának elősegítése érdekében a Magyarországi Református Egyház tulajdonába kerül, azzal a feltétellel, hogy a Magyarországi Református Egyház az ingatlant terhelő kötelezettségeket a (2) bekezdés szerinti szerződés szerint a birtokba vételt követően teljeskörűen átvállalja.
+
+(2) Az (1) bekezdés szerinti tulajdonváltozásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében a Magyar Nemzeti Vagyonkezelő Zártkörűen Működő Részvénytársaság (a továbbiakban: MNV Zrt.) készíti el és köti meg, legkésőbb 2017. október 31-ig. A szerződésben az ingatlan forgalmi értékeként az MNV Zrt. által megállapított értéket kell megjelölni.

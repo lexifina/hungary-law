@@ -1,0 +1,1 @@
+15. § Az Országgyűlés elrendeli, hogy az Ny. Alap 4560,1 millió forint többletét 2016. december 31-éig fizesse be a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 5. cím, 7. Nyugdíjbiztosítási Alap befizetése alcím javára.
