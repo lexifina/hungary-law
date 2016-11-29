@@ -1,0 +1,1 @@
+A Kormány a Magyarország Kormánya és Debrecen Megyei Jogú Város Önkormányzata közötti együttműködési megállapodás végrehajtásával összefüggő feladatokról szóló 1382/2015. (VI. 12.) Korm. határozat 6. pontjának végrehajtása érdekében
