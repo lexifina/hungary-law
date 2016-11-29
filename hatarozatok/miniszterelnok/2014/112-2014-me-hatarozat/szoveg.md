@@ -1,4 +1,4 @@
-1. A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet [a továbbiakban: 4/2011. (I. 28.) Korm. rendelet] 9. § (2) bekezdése alapján
+1.[^1] A 2007–2013 programozási időszakban az Európai Regionális Fejlesztési Alapból, az Európai Szociális Alapból és a Kohéziós Alapból származó támogatások felhasználásának rendjéről szóló 4/2011. (I. 28.) Korm. rendelet [a továbbiakban: 4/2011. (I. 28.) Korm. rendelet] 9. § (2) bekezdése alapján
 
 Hegmanné Nemes Sárát, a Nemzeti Fejlesztési Minisztérium államtitkárát a Gazdaságfejlesztési Operatív Program Monitoring Bizottsága,
 
@@ -19,8 +19,6 @@ dr. Biró Marcellt, a Külgazdasági és Külügyminisztérium államtitkárát 
 Farkas Imrét, az Elektronikus Közigazgatás Operatív Program Monitoring Bizottsága
 
 elnöki tisztségének ellátása alól – 2014. szeptember 14-i hatállyal – felmentem;
-
-Glattfelder Bélát, a Nemzetgazdasági Minisztérium gazdaságszabályozásért felelős államtitkárát a Gazdaságfejlesztési Operatív Program Monitoring Bizottsága,
 
 Tállai Andrást, a Nemzetgazdasági Minisztérium parlamenti és gazdaságstratégiáért felelős államtitkárát – a Közép-magyarországi Operatív Program kivételével – a Regionális Operatív Programok Monitoring Bizottsága,
 
@@ -53,3 +51,5 @@ d) az Operatív Programok Monitoring Bizottságai elnökeinek felmentéséről �
 e) a Gazdaságfejlesztési Operatív Program Monitoring Bizottsága elnökének felmentéséről és új elnök kinevezéséről szóló 17/2013. (II. 4.) ME határozatot
 
 – 2014. szeptember 15-i hatállyal – visszavonom.
+
+[^1]: Az 1. pont a 124/2016. (XI. 29.) ME határozat 2. pontja szerint módosított szöveg.
