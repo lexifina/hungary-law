@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-122-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2016-11-29 | 2016. évi CXXII. törvény | 2016-122-00-00.0 (közlönyállapot) |
+| 2016-11-29 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-122-00-00.1 |
