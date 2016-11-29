@@ -1,0 +1,265 @@
+# A Kormány 368/2016. (XI. 29.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 184. szám, 2016. november 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/bb23fcde5c64d1f19a818f522fd86e08264064dc/dokumentumok/cd935469c5b47e6fe4493ef5a93ac9f55b4720cc/letoltes)
+
+---
+
+A Kormány 368/2016. (XI. 29.) Korm. rendelete
+egyes, a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló
+kormányrendeletek módosításáról
+A Kormány a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi
+CLXVI. törvény 14. § b), d), g) és h) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében
+meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012.
+évi CLXVI. törvény végrehajtásáról szóló 65/2013. (III. 8.) Korm. rendelet módosítása
+1. § (1) A létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló 2012. évi
+CLXVI. törvény végrehajtásáról szóló 65/2013. (III. 8.) Korm. rendelet (a továbbiakban: Vhr.) 5. § (1) bekezdése
+helyébe a következő rendelkezés lép:
+„(1) Ha az üzemeltető által lefolytatott azonosítási eljárás alapján elkészített azonosítási jelentésben foglaltakkal
+vagy a javaslattevő hatóság európai létfontosságú rendszerelemmé történő kijelölésre irányuló kezdeményezésével
+a katasztrófák elleni védekezésért felelős miniszter nem ért egyet, a kijelölő hatóság köteles megvizsgálni a nemzeti
+létfontosságú rendszerelemmé történő kijelölés kérdését, és a jogszabályban meghatározott feltételek fennállása
+esetén dönt a nemzeti létfontosságú rendszerelemmé történő kijelölésről.”
+(2) A Vhr. 5. § (3) és (4) bekezdése helyébe a következő rendelkezések lépnek:
+„(3) Ha az EGT-állam európai létfontosságú rendszerelemmé történő kijelölés visszavonására irányuló
+kezdeményezésével, illetve az üzemeltető európai létfontosságú rendszerelemmé történő kijelölés visszavonására
+irányuló kérelmével a katasztrófák elleni védekezésért felelős miniszter egyetért, az Lrtv. 3. § (3) bekezdése
+szerinti szabályok megfelelő alkalmazásával kell eljárni. A kijelölő hatóság az Lrtv. 3. § (4) bekezdése megfelelő
+alkalmazásával az európai létfontosságú rendszerelemmé való kijelölést visszavonja, valamint a jogszabályban
+meghatározott feltételek fennállása esetén dönt a nemzeti létfontosságú rendszerelemmé történő kijelölésről.
+(4) Ha az üzemeltető európai létfontosságú rendszerelemmé történő kijelölés visszavonására irányuló kérelmével
+a katasztrófák elleni védekezésért felelős miniszter nem ért egyet, a kijelölő hatóság tájékoztatja az üzemeltetőt
+a kijelölés fenntartásáról. Ha a visszavonást EGT-állam kezdeményezi, az Lrtv. 3. § (3)–(4) bekezdése szerinti
+szabályok megfelelő alkalmazásával kell eljárni.”
+2. §
+A Vhr. 6. § (2) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A biztonsági összekötő személynek, az adott ágazatnak megfelelő szakirányú végzettség mellett rendelkeznie kell)
+„a) védelmi igazgatási, katasztrófavédelmi vagy rendészeti igazgatási szakon szerzett felsőfokú végzettséggel,”
+
+3. § (1) A Vhr. 7. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az üzemeltetői biztonsági tervet az üzemeltető az elkészítést követően szükség esetén módosítja.”
+(2) A Vhr. 7. §-a a következő (2a) bekezdéssel egészül ki:
+„(2a) Az üzemeltetői biztonsági tervet az üzemeltető az elkészítését követően kétévente felülvizsgálja.
+Az üzemeltető a felülvizsgálatról jegyzőkönyvet készít.”
+(3) A Vhr. 7. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Ha az üzemeltetői biztonsági tervet a (2)–(3) bekezdés vagy az Lrtv. 6. § (6) bekezdése alapján módosítani
+szükséges, akkor annak módosítással érintett részét, vagy jelentős tartalmi módosítás esetén a módosításokkal
+egységes szerkezetbe foglalt üzemeltetői biztonsági tervet az üzemeltető haladéktalanul megküldi tartalmi és
+formai ellenőrzésre a kijelölő hatóságnak. A (2)–(3) bekezdés alapján módosított üzemeltetői biztonsági tervet
+az ágazati kijelölő hatóság a formai és tartalmi ellenőrzést követően megküldi a nyilvántartó hatóság részére.”
+4. § (1) A Vhr. 8. § (1) és (2) bekezdése helyébe a következő rendelkezések lépnek:
+„(1) A honvédelmi létfontosságú rendszerelemek kivételével, a létfontosságú rendszerelemek védelmét a helyszíni
+ellenőrzés lefolytatására jogosult szervek a hivatásos katasztrófavédelmi szerv központi szervének koordinálásával
+ütemezett módon, éves ellenőrzési terv alapján összehangoltan is ellenőrzik, oly módon, hogy a létfontosságú
+rendszerelem 5 évente kerüljön ellenőrzésre. Az éves ellenőrzési tervet a hivatásos katasztrófavédelmi szerv
+központi szerve a tárgyévet megelőző év november 30-ig állítja össze.
+(2) Az összehangolt ellenőrzésekről, az ellenőrzési terv végrehajtásáról a hivatásos katasztrófavédelmi szerv
+központi szerve összefoglaló jelentést készít a tárgyévet követő év március 1-jéig.”
+(2) A Vhr. 8. §-a a következő (4) bekezdéssel egészül ki:
+„(4) A hivatásos katasztrófavédelmi szerv az összehangolt ellenőrzés keretében ellenőrzi
+a) a nyilvántartó hatóság által az Lrtv. 5. § (1) bekezdése szerint nyilvántartott és kezelt adatok valódiságát,
+b) az üzemeltetői biztonsági tervben foglalt, a létfontosságú rendszerelem teljes körű személyi, fizikai,
+adminisztratív védelmének, a folyamatos működést veszélyeztető kockázatoknak és kezelésüknek a teljeskörűségét.”
+5. §
+A Vhr. 11. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A 8. § (1) bekezdésében meghatározott ellenőrzési terv elkészítése érdekében az érintett hatóságok
+az együttműködés keretében, minden évben legkésőbb a tárgyévet megelőző év október 15. napjáig megküldik
+a hivatásos katasztrófavédelmi szerv központi szerve részére az ellenőrzési terv elkészítéséhez szükséges
+javaslataikat, melyeket egyúttal a saját ellenőrzési rendszerükben is megjelenítenek.”
+6. §
+A Vhr. 13. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A 17. § 2023. július 1-jén lép hatályba.”
+7. §
+A Vhr. 13. alcíme a következő 15/B. §-sal és 15/C. §-sal egészül ki:
+„15/B. § Az egyes, a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló
+kormányrendeletek módosításáról szóló 368/2016. (XI. 29.) Korm. rendelet (a továbbiakban: Módr1.) hatálybalépését
+megelőzően kijelölt létfontosságú rendszerelem üzemeltetői biztonsági tervét a 7. § (2a) bekezdése szerinti
+felülvizsgálatkor kell a Módr1.-gyel megállapított 1. mellékletnek megfelelően módosítani.
+15/C. § (1) A Módr1.-gyel megállapított 8. § (1) bekezdése és 11. § (4) bekezdése szerinti határidőket a 2018. évi
+ellenőrzési terv összeállítása során kell először alkalmazni.
+(2) A 2017. évi ellenőrzési terv összeállításához a Módr1. hatálybalépését követő 30 napon belül kell a 11. §
+(4) bekezdésében meghatározott javaslatokat megküldeni a hivatásos katasztrófavédelmi szerv központi szerve
+részére. A 2017. évi ellenőrzési tervet a hivatásos katasztrófavédelmi szerv központi szerve a Módr1. hatálybalépését
+követő 60 napon belül állítja össze.”
+8. §
+A Vhr. 2. melléklete helyébe az 1. melléklet lép.
+
+2. A létfontosságú vízgazdálkodási rendszerelemek és vízilétesítmények azonosításáról, kijelöléséről
+és védelméről szóló 541/2013. (XII. 30.) Korm. rendelet módosítása
+9. § (1) A létfontosságú vízgazdálkodási rendszerelemek és vízilétesítmények azonosításáról, kijelöléséről és védelméről
+szóló 541/2013. (XII. 30.) Korm. rendelet (a továbbiakban: Vízr.) 2. § (1) és (2) bekezdése helyébe a következő
+rendelkezések lépnek:
+„(1) Az ivóvíz-szolgáltatás területén nemzeti létfontosságú rendszerelemként kell azonosítani
+a) a felszíni ivóvízbázisként üzemeltetett tározót 2,5 millió m3 összes tározó térfogat felett, a felszíni és felszín alatti
+vízbázisra telepített víztisztító művet, ha a vízjogi üzemeltetési engedélyben rögzített kapacitása meghaladja
+a 25 000 m3/d szolgáltatott ivóvízmennyiséget;
+b) az ivóvíztároló medencét, ha térfogata meghaladja a 25 000 m3 értéket.
+(2) A szennyvízelvezetés és -tisztítás területén nemzeti létfontosságú rendszerelemként kell azonosítani azt
+a szennyvíztisztító telepet, amelynek kapacitása meghaladja a 250 000 lakosegyenérték szennyezőanyag-terhelést,
+és működésképtelenné válása a felszíni víz jelentősen kedvezőtlen állapotát eredményezi.”
+(2) A Vízr. 2. § (3) bekezdés b) pont ba) alpontja helyébe a következő rendelkezés lép:
+(Vízkárelhárítás területén nemzeti létfontosságú rendszerelemként kell azonosítani
+az elsőrendű árvízvédelmi vízilétesítményt, ha)
+„ba) legalább 2000 m3/sec éves középvízhozamú vagy államhatárt is alkotó folyók mentén olyan öblözetet véd,
+amelyben a kitört víz lokalizálására nincs lehetőség, és a védvonal nincs az előírt méretre kiépítve,”
+3. Az egészségügyi létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és
+védelméről szóló 246/2015. (IX. 8.) Korm. rendelet módosítása
+10. §
+Az egészségügyi létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről szóló
+246/2015. (IX. 8.) Korm. rendelet (a továbbiakban: Eüvhr.) 13. §-a helyébe a következő rendelkezés lép:
+„13. § (1) A Vhr. 6. § (1) bekezdése szerinti, az egészségügyi ágazatnak megfelelő szakirányú végzettségnek minősül
+az orvosi végzettség.
+(2) Laboratóriumban történő foglalkoztatás esetén az (1) bekezdésben foglaltakon túl
+a) a biológus végzettség, illetve
+b) a mikrobiológus végzettség
+minősül a Vhr. 6. § (1) bekezdése szerinti, az egészségügyi ágazatnak megfelelő szakirányú végzettségnek.
+(3) Gyógyszer-nagykereskedelemben történő foglalkoztatás esetén az (1) bekezdésben foglaltak helyett
+a) a gyógyszerek minőségbiztosítása érdekében meghatalmazott személy képesítési feltételeiről szóló miniszteri
+rendeletben meghatározott feltételeknek megfelelő végzettség, illetve
+b) bármely műszaki, mérnöki, logisztikus, gépész, gyógyszerész, vegyész vagy informatikus szakon szerzett felsőfokú
+végzettség
+minősül a Vhr. 6. § (1) bekezdése szerinti, az egészségügyi ágazatnak megfelelő szakirányú végzettségnek,
+azzal, hogy a b) pont szerinti esetben csak akkor, ha az ott meghatározott végzettséggel rendelkező gyógyszer-
+kereskedelmi, illetve egyéb gyógyszeripari tevékenységet végző gazdasági társaságnál, vállalkozásnál vagy ilyen
+területen működő hatóságnál, intézetnél vagy más szervezetnél legalább 3 év gyakorlatot szerzett a végzettségének
+megfelelő tevékenységet végezve foglalkoztatásra irányuló vagy megbízási jogviszony keretében.
+(4) A gyógyszer-nagykereskedelemben történő foglalkoztatás kivételével az (1) és (2) bekezdésben foglaltakon túl
+a Vhr. 6. § (1) bekezdése szerinti, az egészségügyi ágazatnak megfelelő szakirányú végzettségnek minősül minden
+egyéb – az (1) és (2) bekezdésben foglaltaktól eltérő – felsőfokú végzettség, ha a felsőfokú végzettséggel rendelkező
+egészségügyi igazgatási feladatkörben legalább 3 éves szakmai gyakorlatot szerzett foglalkoztatásra irányuló vagy
+megbízási jogviszony keretében.”
+11. §
+Az Eüvhr. 7. alcíme a következő 13/A. §-sal egészül ki:
+„13/A. § Az aktív fekvőbeteg-ellátás alágazatba tartozó létfontosságú rendszerelemek közös fenntartója egy
+vagy több közös biztonsági összekötő személy foglalkoztatásával is gondoskodhat a fenntartásába tartozó
+rendszerelemek tekintetében az Lrtv. 6. § (7) bekezdésében előírt kötelezettségnek.”
+
+12. §
+Az Eüvhr. a következő 17/B. §-sal egészül ki:
+„17/B. § Az egyes, a létfontosságú rendszerek és létesítmények azonosításáról, kijelöléséről és védelméről
+szóló kormányrendeletek módosításáról szóló 368/2016. (XI. 29.) Korm. rendelettel (a továbbiakban: Módr1.)
+megállapított 13. §-t a Módr1. hatálybalépését megelőzően kijelölt létfontosságú rendszerelemek tekintetében is
+alkalmazni kell.”
+13. §
+Az Eüvhr. 3. § (3) bekezdésében a„Bizottság elnöke és tagja”szövegrész helyébe a„Bizottság tagja”szöveg lép.
+4. A honvédelmi létfontosságú rendszerelemek azonosításáról, kijelöléséről és védelméről szóló
+359/2015. (XII. 2.) Korm. rendelet módosítása
+14. §
+A honvédelmi létfontosságú rendszerelemek azonosításáról, kijelöléséről és védelméről szóló 359/2015. (XII. 2.)
+Korm. rendelet (a továbbiakban: Honvr.) 6. §-ában az„5 éves”szövegrész helyébe a„2 éves”szöveg lép.
+15. §
+Hatályát veszti a Honvr. 7. alcíme.
+5. Záró rendelkezések
+16. §
+Ez a rendelet 2017. január 1-jén lép hatályba.
+17. §
+E rendelet 1. alcíme az európai kritikus infrastruktúrák azonosításáról és kijelöléséről, valamint védelmük javítása
+szükségességének értékeléséről szóló, 2008. december 8-i 2008/114/EK tanácsi irányelvnek való megfelelést
+szolgálja.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 368/2016. (XI. 29.) Korm. rendelethez
+„2. melléklet a 65/2013. (III. 8.) Korm. rendelethez
+AZ ÜZEMELTETŐI BIZTONSÁGI TERV FELÉPÍTÉSE
+I. Tartalmi követelmények
+1. Általános bemutatás
+Az üzemeltető megadja a kijelölt rendszerelem adatait: megnevezése, üzemeltetető neve, székhelye, lakcíme,
+levelezési címe, cégjegyzékszáma vagy az egyéni vállalkozói nyilvántartási száma, adóazonosító száma,
+képviselőjének neve, telefon- és telefaxszáma, e-mail-címe, pontos cím hiányában a kijelölt rendszerelem
+elhelyezkedésére vonatkozó más azonosító adat és földrajzi koordináta, a biztonsági összekötő neve, elérhetőségei.
+Az üzemeltető általánosságban bemutatja a szervezetét, tevékenységét, irányítási rendszerét, a kijelölt rendszerelem
+védelmével kapcsolatos fő célkitűzéseit, a horizontális és ágazati kritériumok teljesülését, indokoltságát:
+a) szervezeti struktúra és üzemvezetés;
+b) személyzet (saját munkavállalók, külső, szerződéses munkavállalók);
+c) kijelölt rendszerelem tevékenységének/működésének általános bemutatása, az elvárt, normális működés
+paraméterei;
+d) kijelölt rendszerelem elemeinek azonosítása és értékelése a teljesült ágazati és horizontális kritériumok
+alapján;
+e) belső audit és vezetőségi átvizsgálás;
+f) a változtatások kezelése és annak követése.
+2. A kijelölt rendszerelem környezetének bemutatása
+Az üzemeltető bemutatja a kijelölt rendszerelem környezetét a következők szerint:
+a) a környező területek jellemzése;
+
+b) a működést biztosító közműszolgáltatások, szolgáltatók bemutatása:
+ba) elektromos áramellátás biztosítása,
+bb) vezetékes gázellátás biztosítása,
+bc) közüzemi ivóvízellátás, közüzemi szennyvízelvezetés és -tisztítás biztosítása,
+bd) infokommunikációs hálózati ellátás,
+be) egyéb;
+c) a kijelölt rendszerelem környezetében található, a működésére befolyással bíró veszélyes üzemek, gyárak,
+erőművek megnevezése, címe, tevékenységi köre;
+d) a természeti környezetre vonatkozó legfontosabb információk:
+da) a területre jellemző, a kijelölt rendszerelem sérülését eredményező és a következmények alakulására
+hatást gyakorló meteorológiai jellemzők,
+db) a helyszínt jellemző, a kijelölt rendszerelem biztonságos tevékenységére, üzemeltetésére,
+működésére hatást gyakorló legfontosabb geológiai és hidrológiai jellemzők.
+3. A kijelölt rendszerelem bemutatása
+Az üzemeltető ismerteti a kijelölt rendszerelem felépítését, elemeit, azok részletes tevékenységi körét, továbbá
+ezen részekről mellékel egy méretarányos ábrát, helyszínrajzot, valamint hozzátartozó útmutatót, magyarázatot.
+A bemutatás kiemelten tartalmazza a kijelölt rendszerelem működését releváns módon befolyásoló informatikai
+rendszerek, eszközök, hálózatok ismertetését és a működésben betöltött szerepük leírását.
+A kijelölt rendszerelem felépítésének, elemeinek, részletes tevékenységének, termelési, működési folyamatainak
+bemutatását az alábbi szempontok alapján kell elvégezni:
+a) a kijelölt rendszerelem felépítése, elemei (helyszínrajz, amely bemutatja az elemeket, és vázlatosan feltünteti
+a létfontosságú elemet a hozzá tartozó útmutatóval, magyarázattal);
+b) kiszolgáló infrastruktúra (közműhálózatok, technikai berendezések, szolgáltatást végző partnerek);
+c) részletes tevékenység, a tevékenységekre vonatkozó legfontosabb technológiai és karbantartási folyamatok,
+műveletek;
+d) tartalék rendszerelemek;
+e) a lehetséges veszélyt jelentő anyagok, berendezések megjelölése, mennyisége, tárolási adatai;
+f) a működésben releváns informatikai rendszerek, alkalmazások, hálózatok, azok funkciója;
+g) a normál működési rend során a kijelölt rendszerelem működését garantáló eszközök, berendezések,
+technológiai és karbantartási folyamatok, műveletek menete, naplózása, ütemezése;
+h) belső és külső tájékoztatási rendszerek;
+i) felügyeleti és biztonsági szervezetek, eszközrendszerük, működésük (biztonsági szolgálat, elsősegélynyújtó
+és mentőszervezetek, munka-, tűz- és környezetvédelmi szolgálat, műszaki biztonsági szolgálat,
+katasztrófaelhárítási szervezet, távfelügyeleti és monitoringhálózatok, laboratóriumi hálózat, beléptető és
+az idegen behatolást érzékelő rendszerek stb.).
+4. Kockázatok azonosítása, értékelése
+Az üzemeltető azonosítja és értékeli a kijelölt rendszerelemmel összefüggő kockázatokat a következők szerint:
+a) kockázati lista [milyen releváns belső, külső kockázatok veszélyeztetik a kijelölt rendszerelem működését:
+gazdasági, technológiai, infrastrukturális (közműszolgáltatások kiesése, belső infrastruktúrák kiesése), humán,
+fizikai, információs technológiai, természeti, civilizációs katasztrófák, terrorizmus, egészségügyi, környezeti,
+társadalmi, logikai, földrajzi stb.];
+b) a kijelölt rendszerelem kölcsönösen függő (interdependens) kapcsolódásai és az azokból adódó kockázatok
+felmérése (a kijelölt rendszerelem kiesése milyen más ágazatokra, szervezetekre, személyekre van hatással);
+c) a kockázatok valószínűsíthető okainak feltárása, a bekövetkezéskor prognosztizálható negatív hatások
+meghatározása;
+d) a felmerült kockázatok értékelése a bekövetkezési valószínűség és az okozott káros hatások
+meghatározásával.
+5. Kockázatkezelés
+Az üzemeltető meghatározza a szükséges beavatkozás szintjeit a kockázati értékek szerint. Az üzemeltető bemutatja
+a feltárt kockázatok kezelésére vonatkozó szabványok, intézkedések, belső utasítások, eljárások, szabályok
+rendszerét, szükség szerint röviden ismerteti tartalmát.
+6. A kijelölt rendszerelem védelmének eszközrendszere
+Az üzemeltető megjelöli azokat a biztonsági intézkedéseket, amelyek kialakítása és működtetése biztosítja a kijelölt
+rendszerelem védelmét, továbbá meghatározza azokat az ideiglenes intézkedéseket, amelyeket a rendkívüli
+
+esemény okozta veszélyhelyzeti működés során a különböző kockázati és veszélyszinteknek megfelelően
+foganatosít. Ezen belül meghatározza a veszélyhelyzeti működés, rendkívüli esemény kritériumait (a normális
+működéssel történő összevetésben).
+Rendkívüli eseménynek tekintendő olyan külső vagy belső behatás, amely a kijelölt rendszerelem rendeltetésszerű
+működését jelentős mértékben veszélyezteti, akadályozza. Jelentősnek minősül az az esemény, melyet
+az üzemeltető saját erőforrásaival, külső segítség nélkül nem képes kezelni, elhárítani.
+Az üzemeltető bemutatja a kijelölt rendszerelem elemeinek és egészének védelmére rendszeresített felszereléseket
+és a vezetéshez, a döntés-előkészítéshez szükséges infrastruktúrát a következők szerint:
+a) a veszélyhelyzeti vezetési létesítmények;
+b) a vezetői állomány veszélyhelyzeti értesítésének eszközrendszere;
+c) a dolgozók veszélyhelyzeti riasztásának eszközrendszere;
+d) a veszélyhelyzeti híradás eszközei és rendszerei;
+e) a veszélyhelyzet értékelését és a döntések előkészítését segítő informatikai rendszerek;
+f) a veszélyhelyzet kezelésének eljárásrendje;
+g) a riasztást, a védekezést és a következmények csökkentését végző végrehajtó szervezetek rendszeresített
+egyéni védőeszközei és szaktechnikai eszközei;
+h) a védekezésbe bevonható (nem közvetlenül erre a célra létrehozott) belső és a külső erők és eszközök;
+i) a kijelölt rendszerelem kiesése következtében alkalmazható vagy rendelkezésre álló alternatív megoldások;
+j) rendkívüli eseménykor értesítendők köre.
+7. Az üzemeltetői biztonsági terv elkészítésébe bevont személyek, szervezetek megjelölése
+Az üzemeltető megjelöli az üzemeltetői biztonsági terv elkészítésébe bevont személyeket, szervezeteket.
+II. Formai követelmények
+Az üzemeltetői biztonsági tervet írásban kell elkészíteni és a nyilvántartó, valamint a kijelölő hatóság részére
+egy-egy eredeti – az üzemeltető és a biztonsági összekötő személy által aláírt – példányban papíralapon, továbbá
+elektronikus adathordozón is be kell nyújtani. A térképeket, a rajtuk szereplő méretaránynak megfelelően,
+nyomtatott formában is be lehet nyújtani. A térképvázlat vagy helyszínrajz tartalmazza a kijelölt rendszerelem
+egészét, és olyan méretarányú legyen, amely a megfelelő eligazodást biztosítja.”
