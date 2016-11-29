@@ -1,12 +1,12 @@
 A Kormány
 
-1. egyetért azzal, hogy a Székesfehérvár közigazgatási területén fekvő, 7329, 7074/4, 7075, 7076, 7309 és 7323/1 helyrajzi számú ingatlanokon a meglévő labdarúgó stadion részleges elbontását követően egy új, a nemzetközi labdarúgó-szervezetek előírásainak figyelembevételével (UEFA IV. kategória) kialakított, nemzetközi labdarúgó-mérkőzések lebonyolítására alkalmas labdarúgó stadion, kiszolgáló létesítmények és parkoló kerüljön létesítésre (a továbbiakban együtt: Beruházás) a Kormány részére bemutatott előterjesztés szerinti beruházási tartalommal, és felhívja az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztost, hogy a Beruházás megvalósítása érdekében tegye meg a szükséges intézkedéseket;
+1.[^1] egyetért azzal, hogy a Székesfehérvár közigazgatási területén fekvő, 7329, 7325, 7326 és 7331/22 helyrajzi számú ingatlanokon a meglévő labdarúgó stadion részleges elbontását követően egy új, a nemzetközi labdarúgó-szervezetek előírásainak figyelembevételével (UEFA IV. kategória) kialakított, nemzetközi labdarúgó-mérkőzések lebonyolítására alkalmas labdarúgó stadion, kiszolgáló létesítmények és parkoló kerüljön létesítésre (a továbbiakban együtt: Beruházás) a Kormány részére bemutatott előterjesztés szerinti beruházási tartalommal, és felhívja a nemzeti fejlesztési minisztert, hogy a Beruházás megvalósítása érdekében tegye meg a szükséges intézkedéseket;
 
-Felelős: az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos
+Felelős: nemzeti fejlesztési miniszter
 
 Határidő: folyamatos
 
-2. egyetért azzal, hogy a Beruházás megvalósítására a 2014. és 2017. évek között összesen 11 000,0 millió forint összegben kerüljön sor, és felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy – az egyes kiemelt jelentőségű budapesti beruházásokért felelős kormánybiztos bevonásával – gondoskodjanak a források ütemezett rendelkezésre állásáról az egyes költségvetési években, a 2016. év vonatkozásában 1500,0 millió forint, a 2017. év vonatkozásában 500,0 millió forint összegben;
+2.[^2] egyetért azzal, hogy a Beruházás megvalósítására a 2014. és 2017. évek között összesen 14 300,0 millió forint összegben kerüljön sor, és felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy gondoskodjon a 2016. évi források ütemezett rendelkezésre állásáról az egyes költségvetési években, a 2016. év vonatkozásában 4800,0 millió forint, a 2017. év vonatkozásában 500,0 millió forint összegben;
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -34,6 +34,8 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-8.[^1]
+8.[^3]
 
-[^1]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont az 1688/2016. (XI. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. pont az 1688/2016. (XI. 29.) Korm. határozat 2. pontjával megállapított szöveg.
+[^3]: A 8. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
