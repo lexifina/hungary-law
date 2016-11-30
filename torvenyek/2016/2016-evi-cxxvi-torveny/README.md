@@ -1,0 +1,7 @@
+# 2016. évi CXXVI. törvény az oktatás szabályozására vonatkozó egyes törvények módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-126-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2016-11-30 | 2016. évi CXXVI. törvény | 2016-126-00-00.0 (közlönyállapot) |
