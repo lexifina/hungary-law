@@ -1,0 +1,287 @@
+## 1. A Kormány
+
+## 1.1. egyetért az 1. mellékletben felsorolt kötöttpályás projektek (a továbbiakban: projektek) támogatásával,
+
+## 1.2. felhívja a nemzeti fejlesztési minisztert, hogy tegyen javaslatot a Kormány részére az Integrált Közlekedésfejlesztési Operatív Program (a továbbiakban: IKOP) éves fejlesztési keretének 1. melléklet szerinti módosítására,
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: azonnal
+
+## 1.3. felhívja a nemzeti fejlesztési minisztert és a közlekedési infrastrukturális fejlesztésekért felelős kormánybiztost, hogy gondoskodjanak a projektek előkészítéséről és megvalósításáról,
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## közlekedési infrastrukturális fejlesztésekért felelős kormánybiztos
+
+## Határidő: azonnal
+
+## 1.4. egyetért azzal, hogy a projektek megvalósítása érdekében az IKOP 2. és 3. prioritása keretének 110%-áig legyen kötelezettség vállalható,
+
+## 1.5. felhívja a nemzetgazdasági minisztert, hogy gondoskodjon az 1.4. alpont teljesítéséhez szükséges forrásnak a központi költségvetés Uniós fejlesztések fejezet Integrált Közlekedésfejlesztési OP (IKOP) előirányzata terhére történő biztosításáról,
+
+## Felelős: nemzetgazdasági miniszter
+
+## Határidő: azonnal
+
+## 1.6. hozzájárul ahhoz, hogy az irányító hatóság vezetője az IKOP 3.2 beruházási prioritása keretében nevesített projektek előkészítésére az IKOP 3.2 beruházási prioritás keretének 110%-át meg nem haladó összeg erejéig az 1.5. alpontban meghatározott előirányzat terhére kötelezettséget vállaljon,
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: az 1.5. alpont végrehajtását követően folyamatos
+
+## 1.7. egyetért azzal, hogy az IKOP 3.2 beruházási prioritása keretében finanszírozott azon projekt esetében, amelyben
+
+## a) a projekt megvalósításához elsődlegesen szükséges munkálatokat elvégző kivitelezőt feltételes közbeszerzési eljárásban kiválasztották, az adott projekt teljes megvalósítására legyen vállalható kötelezettség,
+
+## b) további előkészítés szükséges, a projekt megvalósításához elsődlegesen szükséges munkálatokat elvégző kivitelező kiválasztására irányuló feltételes közbeszerzési eljárás lefolytatásával bezárólag felmerült költségekre legyen vállalható kötelezettség a 2014–2020 programozási időszakban az egyes európai uniós alapokból származó támogatások felhasználásának rendjéről szóló 272/2014. (XI. 5.) Korm. rendelet 41/E. § (2) bekezdés c) pontja szerint,
+
+## 1.8. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon arról, hogy az 1.7. alpont szerinti esetben az arra jogosult csak az 1.7. alpontban meghatározott feltételekkel vállaljon kötelezettséget,
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: folyamatos
+
+## 1.9. hozzájárul a 2. mellékletben foglalt táblázatban meghatározott projektek tekintetében az 1.7. és az 1.8. alpontban, valamint a 2. mellékletben meghatározottak szerint történő kötelezettségvállaláshoz,
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: folyamatos
+
+## 1.10. felhívja a nemzeti fejlesztési minisztert, hogy az IKOP 3.2 beruházási prioritás terhére az előkészítési tevékenységre támogatási szerződéssel rendelkező projektek kivitelezésének támogatásával kapcsolatos kötelezettségvállalás érdekében a kivitelezésre lefolytatott közbeszerzési eljárást követően, az ajánlati árak ismeretében tegyen javaslatot,
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: az érintett projekt kivitelezésére kiírt közbeszerzési eljárásban az ajánlati árak ismertté válását követően azonnal
+
+## 1.11. felhívja a nemzeti fejlesztési minisztert és a közlekedési infrastrukturális fejlesztésekért felelős kormánybiztost, hogy tegyenek javaslatot a Kormány részére az 1. mellékletben nevesített, de az IKOP 3.2 beruházási prioritása kerete terhére kötelezettségvállalással még nem rendelkező azon projektek tekintetében, amelyek esetében az előkészítés önállóan nem értelmezhető, ezért az előkészítésre és a kivitelezésre vonatkozóan egy közbeszerzési eljárás írható ki,
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## közlekedési infrastrukturális fejlesztésekért felelős kormánybiztos
+
+## Határidő: folyamatos
+
+## 1.12. felhívja a nemzeti fejlesztési minisztert és a közlekedési infrastrukturális fejlesztésekért felelős kormánybiztost, hogy a nemzetgazdasági miniszterrel egyeztetve negyedévente készítsenek részletes jelentést a projektek előrehaladásáról,
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## közlekedési infrastrukturális fejlesztésekért felelős kormánybiztos
+
+## nemzetgazdasági miniszter
+
+## Határidő: folyamatos
+
+## 1.13. felhívja a nemzeti fejlesztési minisztert és a közlekedési infrastrukturális fejlesztésekért felelős kormánybiztost, hogy vizsgálják felül e határozat közzétételét megelőzően hozott, az IKOP 2. és 3. prioritása kerete terhére finanszírozni tervezett fejlesztéseire vonatkozó döntéseket, és – szükség esetén – tegyenek javaslatot a döntéshozó részére azok módosítására vagy visszavonására,
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## közlekedési infrastrukturális fejlesztésekért felelős kormánybiztos
+
+## Határidő: 2016. december 15.
+
+## 1.14. egyetért azzal, hogy a projektek tervezése, előkészítése és megvalósítása során az egyes projektek céljának és a tervezett fejlesztés funkciójának eléréséhez feltétlenül szükséges, olyan költséghatékony műszaki tartalom kialakításra kell törekedni, amely megvalósítását követően a projekt keretében létrehozott fejlesztés üzemeltetése megoldott, fenntartása biztosítható,
+
+## 1.15. felhívja a közlekedési infrastrukturális fejlesztésekért felelős kormánybiztost, hogy a nemzeti fejlesztési miniszter bevonásával gondoskodjon az 1.13. alpont szerinti költséghatékony műszaki tartalom feltételeinek meghatározásáról,
+
+## Felelős: közlekedési infrastrukturális fejlesztésekért felelős kormánybiztos
+
+## nemzeti fejlesztési miniszter
+
+## Határidő: folyamatos
+
+## 1.16. felhívja a nemzeti fejlesztési minisztert és a közlekedési infrastrukturális fejlesztésekért felelős kormánybiztost, hogy a projektek előkészítése és végrehajtása során érvényesítsék az 1.13. alpontban foglaltakat.
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## közlekedési infrastrukturális fejlesztésekért felelős kormánybiztos
+
+## Határidő: azonnal
+
+## 2. Ez a határozat a közzétételét követő napon lép hatályba.
+
+## 3. A 2014–2020 közötti időszakban uniós forrásból megvalósítani tervezett kiemelt projektek előkészítettségéről és a kapcsolódó akciótervről szóló 1212/2016. (IV. 28.) Korm. határozat a következő 3/A. ponttal egészül ki:
+
+## (A Kormány)
+
+## „3/A. felhívja a nemzeti fejlesztési minisztert, hogy az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretében a 3.2 beruházási prioritása keretében kiemelt projekt támogatást igénylőjeként nevesített szervezetekre az 1–3. pontot ne alkalmazza,
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: folyamatos”
+
+## 4. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat 1. pont e) alpontjában az „egyes prioritásai keretének 90%-át” szövegrész helyébe az „egyes prioritásai – a 2. prioritást, valamint a 3.1 és a 3.2 beruházási prioritást kivéve – 90%-át” szöveg lép.
+
+1. melléklet az 1691/2016. (XI. 29.) Korm. határozathoz
+
+## Magyarország rövid- és középtávú kötöttpályás fejlesztéséhez kapcsolódó beruházások projektlistája
+
+I. Integrált Közlekedésfejlesztési Operatív Program 2.1 beruházási prioritás terhére megvalósítani tervezett fejlesztési projektlista
+
+## A tervezett projekt megnevezése
+
+1. GYSEV központi forgalomirányítás kiépítése – szakaszolt projekt
+
+2. Infrastruktúra és gördülőállomány karbantartó szoftver és IT alkalmazás konszolidáció – szakaszolt projekt
+
+3. GSM-R távközlési hálózat kiépítése – szakaszolt projekt
+
+4. Déli összekötő vasúti Duna-híd korszerűsítésének előkészítése
+
+5. Budapest Liszt Ferenc nemzetközi repülőtér kötöttpályás kapcsolatának kialakításának előkészítése
+
+6. Szűk keresztmetszet kiváltás előkészítése a MÁV hálózatán
+
+7. Szombathely–Zalaszentiván vasútvonal korszerűsítése
+
+8. Szántód-Kőröshegy–Balatonszentgyörgy vasútvonal korszerűsítése és kiegészítő munkák elvégzése
+
+9. GSM-R távközlési hálózat kiépítése II. ütem előkészítés
+
+10. GYSEV motorvonat beszerzés
+
+11. Gyoma–Békéscsaba biztosítóberendezés korszerűsítése és Békéscsaba vasútállomás, Ferencváros–Lökösháza ETCS2 vonatbefolyásoló rendszer kiépítése (III/I.b. ütem) – szakaszolt projekt
+
+12. Székesfehérvár vasútállomás korszerűsítése – szakaszolt projekt
+
+13. Ferencváros–Székesfehérvár ETCS2 vonatbefolyásoló rendszer kiépítése – szakaszolt projekt
+
+14. Bajánsenye–Boba ETCS2 vonatbefolyásoló rendszer kiépítése – szakaszolt projekt
+
+15. Állomásfejlesztési és integrált ügyfélszolgálat fejlesztési program (Kormányablakok) – szakaszolt projekt
+
+16. Sopron–Szombathely–Szentgotthárd ETCS2 vonatbefolyásoló rendszer kiépítése
+
+17. MÁV Zrt. közlekedésbiztonsági projektjei – szakaszolt projekt
+
+18. Győr–Gönyű Országos Közforgalmú Kikötő infrastrukturális továbbfejlesztése – szakaszolt projekt
+
+19. MAHART Mobil Árvízvédelmi Gát
+
+20. Új országos közforgalmú kikötő kiépítése Mohácson
+
+21. 9 db 200 férőhelyes motorvonat beszerzése a 30a-20 sz., illetve a 80 sz. vasútvonalakra
+
+22. 6 db 200 férőhelyes motorvonat beszerzése az 1. sz. vasútvonalra
+
+23. Vasúti vontatási energiaellátás fejlesztése a MÁV hálózatán
+
+24. Bajai Közforgalmú Kikötő létesítése
+
+25. Érden a Szent István utcai – TEN-T vasútvonalak feletti – felüljárók építése
+
+26. Hídrekonstrukciós program I. ütem
+
+27. Püspökladány–Debrecen vasútvonal korszerűsítése, Debrecen állomás részleges átépítése és Szajol–Debrecen vasútvonalon ETCS2 vonatbefolyásoló rendszer kiépítése
+
+28. Közlekedésbiztonság javítási program a MÁV hálózatán II/A ütem – Közlekedésbiztonságot növelő fejlesztések
+
+29. Közlekedésbiztonság javítási program a MÁV hálózatán II/B ütem – Közlekedésbiztonságot és pályakapacitást növelő technológiai fejlesztések és eszközök
+
+30. MÁV nagykapacitású férőhelyes motorvonatok beszerzése
+
+31. Zalaszentiván–Nagykanizsa szűk keresztmetszet kiváltás és villamosítás
+
+32. Püspökladány–Biharkeresztes szűk keresztmetszet kiváltás és villamosítás
+
+33. Személyforgalmi kikötők támogatására vonatkozó projektcsomag
+
+34. Balatoni vasútállomások rekonstrukciója
+
+35. Budapest Keleti pályaudvar épület-felújítás
+
+36. Budapest Nyugati pályaudvar épület-felújítás
+
+37. GSM-R II.
+
+38. Gödöllő állomás korszerűsítése
+
+39. Budapest–Hatvan vasútvonalon elővárosi célú fejlesztések
+
+40. Zalaszentiváni deltavágány előkészítése
+
+41. Infrastruktúra és gördülőállomány karbantartó szoftver és IT alkalmazás konszolidáció II. ütem
+
+42. Jegyautomaták beszerzése, telepítése
+
+II. Integrált Közlekedésfejlesztési Operatív Program 3.1 prioritás terhére megvalósítani tervezett fejlesztési projektlista
+
+## A tervezett projekt megnevezése
+
+1. Budapest villamos- és trolibusz járműprojekt I. ütem (kapcsolódó kocsiszín infrastruktúrával) – szakaszolt projekt
+
+2. Budapest–Esztergom vasútvonal kiegészítő fejlesztések – szakaszolt projekt
+
+3. Rákosrendező–Esztergom vasútvonal villamosítása, biztosítóberendezés korszerűsítése
+
+4. Kelenföldi pályaudvar térségben P+R parkolók építése – szakaszolt projekt
+
+5. M4 metró, M1–M7 autópálya Kelenföldi pályaudvar térsége, nyugati kijárat, M1–M7 autópálya bevezetés módosított csomópontjának előkészítése és megvalósítása átszállási csomópont – szakaszolt projekt
+
+6. M3 metró vonal infrastruktúra rekonstrukciója
+
+7. 1-es villamos meghosszabbítása az Etele térig
+
+8. A városi közlekedési eszközváltási pontokhoz kapcsolódó P+R parkolók építése Budapesten
+
+9. Külső Bécsi úti villamosvonal (Vörösvári út–Aranyvölgy)
+
+10. Kelenföld intermodális központ (Kelenföld/Őrmező)
+
+11. GSM-R II.
+
+12. Budapesti villamosok beszerzése (az Újpalotai villamosvonal felújítása helyett)
+
+13. A személyszállítási közszolgáltatások hatékonyabb ellátását célzó integrált utas-tájékoztatási, jegyértékesítési és forgalomirányítási rendszerek fejlesztése (NEJP) integrálása a BKK-val
+
+III. Integrált Közlekedésfejlesztési Operatív Program 3.2. beruházási prioritás terhére megvalósítani tervezett fejlesztési projektlista
+
+## A tervezett projekt megnevezése
+
+1. Szeged–Hódmezővásárhely között vasútvonal város–elővárosi tramtrain rendszer megvalósítása
+
+2. Kaposvár megyei jogú város közösségi közlekedésének fejlesztése keretében 25 db földgázmotor (CNG – Euro 6 szabvány) hajtású alacsonypadlós szóló, és 15 db azonos kivitelű, földgázmotor (CNG – Euro 6 szabvány) hajtású, a szóló autóbusszal azonos típuscsaládba tartozó, alacsonypadlós csuklós autóbusz szállítása, üzembe helyezése – szakaszolt projekt
+
+3. Fonyód–Kaposvár vasútvonal korszerűsítése
+
+4. Debreceni intermodális személyszállítási központ létrehozása
+
+5. Rákosrendező–Esztergom vasútvonal villamosítása, biztosítóberendezés korszerűsítése
+
+6. Szombathely–Kőszeg vasútvonal korszerűsítése
+
+7. Kecskemét város közösségi közlekedés fejlesztése, átalakítása – zéró emissziós zóna megteremtése soros hibridhajtású alacsonypadlós autóbuszok beszerzésével – szakaszolt projekt
+
+8. Nyíregyháza megyei jogú város közösségi közlekedésének fejlesztése érdekében 47 db új autóbusz (41 db CNG és 6 db elektromos meghajtású) beszerzése, és töltőállomás létesítése, és autóbusz telephely kialakítása
+
+9. Szeged–Hódmezővásárhely tram-train rendszer – járműbeszerzés
+
+10. Szeged–Hódmezővásárhely szűk keresztmetszet kiváltás a tram-train rendszer kialakításával összefüggésben
+
+11. Balatoni vasútállomások rekonstrukciója
+
+12. Kaposvár megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása a megyeszékhely vasúti elővárosi körzetében I. ütem
+
+13. Nyíregyháza megyei jogú város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása a megyeszékhely vasúti elővárosi körzetében I. ütem
+
+14. Miskolc Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása
+
+15. Székesfehérvár Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása
+
+16. Tatabánya Megyei Jogú Város–Bicske vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása
+
+17. Eger Megyei Jogú Város vasútállomás intermodális átszállókapcsolatainak fejlesztése és P+R parkolók kialakítása
+
+18. GSM-R II.
+
+19. A személyszállítási közszolgáltatások hatékonyabb ellátását célzó integrált utas-tájékoztatási, jegyértékesítési és forgalomirányítási rendszerek fejlesztése
+
+20. Mezőzombor–Sátoraljaújhely vasútvonal szűk keresztmetszet kiváltás és villamosítás
+
+21. Szabadbattyán–Tapolca–Keszthely szűk keresztmetszet kiváltás, villamosítás és központi forgalomirányítás megvalósítása a Balaton körül I. ütem (Szabadbattyán – Aszófő) előkészítése és kivitelezése és a II. ütem előkészítése
+
+22. Paks város közösségi közlekedés fejlesztése
+
+23. Pécs város közösségi közlekedés fejlesztése
+
+24. Szeged–Makó vasúti elővárosi közlekedés fejlesztése, vegyesforgalmú Tisza-híd építése
