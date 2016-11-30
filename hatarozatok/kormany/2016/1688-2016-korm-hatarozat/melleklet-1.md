@@ -1,24 +1,4 @@
-## 1. A székesfehérvári stadionrekonstrukciós program megvalósításához, valamint a székesfehérvári Sóstó Természetvédelmi Terület és Vidámparki csónakázótó rehabilitációjához szükséges intézkedésekről szóló 1285/2015. (IV. 30.) Korm. határozat (a továbbiakban: Határozat) 1. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „1. egyetért azzal, hogy a Székesfehérvár közigazgatási területén fekvő, 7329, 7325, 7326 és 7331/22 helyrajzi számú ingatlanokon a meglévő labdarúgó stadion részleges elbontását követően egy új, a nemzetközi labdarúgó-szervezetek előírásainak figyelembevételével (UEFA IV. kategória) kialakított, nemzetközi labdarúgó-mérkőzések lebonyolítására alkalmas labdarúgó stadion, kiszolgáló létesítmények és parkoló kerüljön létesítésre (a továbbiakban együtt: Beruházás) a Kormány részére bemutatott előterjesztés szerinti beruházási tartalommal, és felhívja a nemzeti fejlesztési minisztert, hogy a Beruházás megvalósítása érdekében tegye meg a szükséges intézkedéseket;
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: folyamatos”
-
-## 2. A Határozat 2. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „2. egyetért azzal, hogy a Beruházás megvalósítására a 2014. és 2017. évek között összesen 14 300,0 millió forint összegben kerüljön sor, és felhívja a nemzeti fejlesztési minisztert és a nemzetgazdasági minisztert, hogy gondoskodjon a 2016. évi források ütemezett rendelkezésre állásáról az egyes költségvetési években, a 2016. év vonatkozásában 4800,0 millió forint, a 2017. év vonatkozásában 500,0 millió forint összegben;
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## nemzetgazdasági miniszter
-
-## Határidő: a 2016. és 2017. évi központi költségvetés tervezésével összhangban”
+## 1–2.[^1]
 
 ## 3. A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva 3300,0 millió forint egyszeri átcsoportosítását rendeli el a Magyarország 2016. évi központi költségvetéséről szóló 2015. évi C. törvény 1. melléklet XI. Miniszterelnökség fejezet, 33. Országvédelmi Alap cím terhére az 1. melléklet szerint.
 
@@ -87,3 +67,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1–2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
