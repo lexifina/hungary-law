@@ -16,7 +16,7 @@
 
 7. útügyi hatósági eljárások,
 
-8.[^8] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
+8.[^10] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
 
 9. hírközlési hatósági eljárások,
 
@@ -38,6 +38,9 @@
 
 18. közegészségügyi hatósági eljárások,
 
+19.[^11] víziközmű-szolgáltatással összefüggő hatósági eljárások (víziközmű-szolgáltatói engedély kiadása, működési engedély kiadása, Gördülő Fejlesztési Terv jóváhagyása),
+
 továbbá a felsorolt ügyfajtákban kiadott hatósági döntések esetleges módosítására irányuló hatósági eljárások.
 
-[^8]: A 2. melléklet 8. pontja a 72/2015. (III. 30.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^10]: A 2. melléklet 8. pontja a 72/2015. (III. 30.) Korm. rendelet 41. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^11]: A 2. melléklet 19. pontját a 370/2016. (XI. 29.) Korm. rendelet 4. §-a iktatta be.
