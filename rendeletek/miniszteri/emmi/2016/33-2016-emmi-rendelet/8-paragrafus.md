@@ -1,0 +1,3 @@
+8. § (1) A foglalkozás-egészségügyi szolgálat az elektromágneses terek expozíciójának kitett munkavállalóról az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló törvény alapján, a munkaköri, szakmai és személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló rendelet szerint elvégzett vizsgálatok megállapításairól vezeti az egészségügyi dokumentációt.
+
+(2) Az elektromos terek és sugárzások okozta foglalkozási megbetegedést, munkabalesetet a munkavédelemre vonatkozó szabályok szerint be kell jelenteni, ki kell vizsgálni, és nyilvántartásba kell venni.
