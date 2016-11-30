@@ -6,7 +6,7 @@
 
 (2) A magán felsőoktatási intézmények a 12. § (7) és (8) bekezdésében, a 29. § (1) bekezdésében, a 37. § (1) bekezdés e) pontjában és (3)–(6) bekezdésében, a 83. § (1) és (5) bekezdésében foglalt rendelkezésektől, továbbá a 13. § (5) bekezdésében előírt nyelvi követelmény nyelvvizsga-bizonyítvánnyal vagy azzal egyenértékű okirattal való igazolási kötelezettségétől a szervezeti és működési szabályzatukban eltérhetnek azzal, hogy a 37. § (1) bekezdésben meghatározottak mellett magasabb vezetőként gazdasági vezetőt foglalkoztatnak. Magán felsőoktatási intézményekben a 13/A–13/D. § és a 37. § (4a) bekezdése nem alkalmazható.
 
-(3) A magán felsőoktatási intézmények – feltéve, hogy a Kormány a támogatásra megállapodásban vállalt kötelezettséget – a megállapodásban foglalt feltételek mellett jogosultak a 84. § (2) bekezdésének a)–c), valamint e) és g) pontjában meghatározott támogatásokra. Az e bekezdésben foglaltakat az országos nemzetiségi önkormányzat által fenntartott felsőoktatási intézmény tekintetében is alkalmazni kell.
+(3) A magán felsőoktatási intézmények – feltéve, hogy a Kormány a támogatásra megállapodásban vállalt kötelezettséget – a megállapodásban foglalt feltételek mellett jogosultak a 84. § (2) bekezdés a)–b), valamint e) és g) pontjában meghatározott támogatásokra. Az e bekezdésben foglaltakat az országos nemzetiségi önkormányzat által fenntartott felsőoktatási intézmény tekintetében is alkalmazni kell.
 
 (4) A magán felsőoktatási intézmény a 2. § (1) és (3) bekezdésében meghatározott feladatok szerinti tevékenységet folytathat, ennek megvalósítása érdekében – e törvényben és a Kormány által meghatározottak szerint – gazdálkodik (a továbbiakban: magán felsőoktatási intézmény gazdálkodási rendje).
 

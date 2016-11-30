@@ -1,9 +1,11 @@
-84/A. § (1) A költségvetés képzési támogatás nyújtásával járul hozzá a felsőoktatási intézmény által nyújtott oktatás megszervezéséhez.
+84/A. § (1) A központi költségvetés a felsőoktatási intézmény 2. § (1) bekezdése szerinti alaptevékenységének biztosítását szolgáló támogatás nyújtásával járul hozzá a felsőoktatási intézmény működéséhez.
 
-(2) Az e törvény szerint magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgatókra tekintettel folyósított képzési támogatást – a 2012. szeptemberében első évfolyamon induló alap-, osztatlan, illetve mesterképzésre, valamint az azt követő évfolyamokra felvett hallgatók tekintetében – felmenő rendszerben, a magyar állami (rész)ösztöndíj összegével azonos mértékben kell megállapítani.
+(2) Az egyes speciális felsőoktatási feladatok, a kulturális és fejlesztési támogatások, valamint a 84. § (4) bekezdésében felsorolt feladatok támogatásának biztosítása az egyedi feladatok körében, különösen külön megállapodás alapján, illetve pályázati úton történhet. Az ilyen módon rendelkezésre álló, illetve elnyert támogatásokat az (1) bekezdésben meghatározott támogatástól elkülönítetten kell kezelni.
 
-(3) A képzési támogatást – kifutó rendszerben – a felsőoktatásról szóló 2005. évi CXXXIX. törvény szerinti államilag támogatott képzésben részt vevő hallgatók számított létszáma alapján kell meghatározni. A képzési támogatás összegét a képzés szakmai jellegére tekintettel képzési ciklusokra kell meghatározni. A képzéseket a képzési támogatáshoz való jogosultság szempontjából finanszírozási csoportokba kell sorolni.
+(3) Az állami fenntartású felsőoktatási intézmény által fenntartott köznevelési intézmény támogatását a felsőoktatási intézmény költségvetésében elkülönítve kell megtervezni. A köznevelési feladatok ellátására az egyedi feladatok támogatása körében további támogatás biztosítható.
 
-(4) A felsőoktatási intézménynek folyósított képzési támogatás összege a fokozatszerzési eljárás idejére az adott doktori képzésben részt vett hallgató után nyújtott képzési támogatás összegének felével csökkenthető, ha a felsőoktatási intézmény hallgatója nem szerez doktori fokozatot.
+(4) A miniszter által jóváhagyott szakmai programmal, diákotthonként működő szakkollégium, roma szakkollégium számára a 114/D. § (1) bekezdés d) pontjában meghatározott támogatáson túl egyedi támogatás biztosítható.
 
-(5) Az (1)–(3) bekezdés szerinti képzési támogatás rendszerét a Kormány rendeletében állapítja meg.
+(5) Ha a felsőoktatási intézmény hallgatója a komplex vizsgát követő öt éven belül nem szerez doktori fokozatot, az adott doktori képzésben részt vett hallgató után a 84. § (2) bekezdés b) pontja szerint a fokozatszerzési eljárás idejére folyósított támogatás összege a felével csökkenthető.
+
+(6) A felsőoktatási intézmény 2. § (1) bekezdése szerinti alaptevékenységének biztosítását szolgáló támogatás rendszerét a Kormány rendeletében állapítja meg.

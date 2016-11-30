@@ -4,7 +4,7 @@
 
 ## 1. E törvény alapján nyilvántartott adatok:
 
-## a) név, nem, születési név, születési hely és idő, anyja neve, állampolgárság, azonosító szám;
+## a) családi és utónév, nem, születési családi és utónév, születési hely és idő, anyja születési családi és utóneve, állampolgárság, azonosító szám;
 
 ## b) lakóhely, tartózkodási hely, értesítési cím;
 
@@ -58,7 +58,7 @@
 
 ## a) felvétellel összefüggő adatok:
 
-## aa) a jelentkező neve, neme, születési neve, anyja neve, születési helye és ideje, állampolgársága, lakóhelye, tartózkodási helye, értesítési címe és telefonszáma, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
+## aa) a jelentkező családi és utóneve, neme, születési családi és utóneve, anyja születési családi és utóneve, születési helye és ideje, állampolgársága, lakóhelye, tartózkodási helye, értesítési címe és telefonszáma, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
 ## ab) az érettségi vizsga adatai,
 
@@ -148,49 +148,51 @@
 
 ## a) a felsőoktatási intézmény
 
-## aa) fenntartójának neve, székhelye címe, képviselője neve, értesítési címe, elérhetősége (telefon, e-mail),
+## aa) fenntartójának neve, székhelye címe, képviselője családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail),
 
-## ab) tisztségviselőinek – rektor, rektorhelyettes, kancellár, gazdasági vezető, belső ellenőrzés vezetője, dékán, gazdasági tanács elnöke és tagjai, a szenátus tagjai, a konzisztórium tagjai, kollégiumi vezető, szakkollégium képviselője – neve, értesítési címe, elérhetősége (telefon, e-mail),
+## ab) tisztségviselőinek – rektor, rektorhelyettes, kancellár, gazdasági vezető, belső ellenőrzés vezetője, dékán, gazdasági tanács elnöke és tagjai, a szenátus tagjai, a konzisztórium tagjai, kollégiumi vezető, szakkollégium képviselője – családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail),
 
 ## ac)
 
-## ad) a felsőfokú képzések szakfelelősének neve, oktatói azonosítója,
+## ad) a felsőfokú képzések szakfelelősének családi és utóneve, oktatói azonosítója,
 
-## ae) közhasznú szervezetként való működés esetén a felügyelő bizottság tagjainak neve és értesítési címe;
+## ae) közhasznú szervezetként való működés esetén a felügyelő bizottság tagjainak családi és utóneve és értesítési címe;
 
 ## b) a Magyarországon működő külföldi felsőoktatási intézmény
 
-## ba) fenntartójának neve, székhelye címe, képviselője és magyarországi képviselője neve, értesítési címe, elérhetősége (telefon, e-mail),
+## ba) fenntartójának neve, székhelye címe, képviselője és magyarországi képviselője családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail),
 
-## bb) tisztségviselői neve, értesítési címe, elérhetősége (telefon, e-mail),
+## bb) tisztségviselői családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail),
 
-## bc) a felsőfokú képzések szakfelelősének neve, oktatói azonosítója;
+## bc) a felsőfokú képzések szakfelelősének családi és utóneve, oktatói azonosítója;
 
 ## c) a MAB, a Felsőoktatási Tervezési Testület, a Magyar Rektori Konferencia, a Hallgatói Önkormányzatok Országos Konferenciája és a Doktoranduszok Országos Szövetsége, Országos Doktori Tanács esetében
 
 ## ca) a szervezet neve, székhelye,
 
-## cb) a vezető tisztségviselőjének, felügyelő bizottsága, felülvizsgálati bizottsága tagjainak neve és értesítési címe;
+## cb) a vezető tisztségviselőjének, felügyelő bizottsága, felülvizsgálati bizottsága tagjainak családi és utóneve és értesítési címe;
 
 ## d) a 67. § (3) bekezdés g) pontja szerinti diákotthon
 
-## da) fenntartójának neve, székhelye, címe, képviselőjének neve, értesítési címe, elérhetősége (telefon, e-mail),
+## da) fenntartójának neve, székhelye, címe, képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail),
 
-## db) vezetőjének neve, értesítési címe, elérhetősége (telefon, e-mail)
+## db) vezetőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail)
 
 ## e) a 8. § (6) bekezdése szerinti megállapodás és az abban szereplő adatok,
 
 ## f) a 95/A. § (1) bekezdésben meghatározottak szerint fenntartott magán felsőoktatási intézmény esetén
 
-## fa) a fenntartó testület neve, székhelye, nyilvántartási száma, elnökének neve, elérhetősége (telefon, e-mail),
+## fa) a fenntartó testület neve, székhelye, nyilvántartási száma, elnökének családi és utóneve, elérhetősége (telefon, e-mail),
 
 ## fb) a felsőoktatási intézmény rendszeres pénzügyi támogatását biztosító külföldi támogató neve, székhelye, képviselője, értesítési címe, elérhetősége (telefon, e-mail).
+
+## g) a közösségi felsőoktatási képzési központ képviselőjének családi és utóneve, értesítési címe, elérhetősége (telefon, e-mail).
 
 ## II/B. Alkalmazotti személyi törzs
 
 ## 1. E törvény alapján nyilvántartott adatok:
 
-## a) név, nem, születési név, születési hely és idő, anyja neve, állampolgárság, azonosító szám;
+## a) családi és utónév, nem, születési családi és utónév, születési hely és idő, anyja születési családi és utóneve, állampolgárság, azonosító szám;
 
 ## b) lakóhely, tartózkodási hely, értesítési cím;
 
@@ -224,7 +226,7 @@
 
 ## a) a hallgatói jogviszonnyal összefüggő adatok:
 
-## aa) a hallgató neve, születési neve, anyja neve, születési helye és ideje, állampolgársága, neme, lakóhelye, tartózkodási helye, értesítési címe, telefonszáma, elektronikus levélcíme,
+## aa) a hallgató családi és utóneve, születési családi és utóneve, anyja születési családi és utóneve, születési helye és ideje, állampolgársága, neme, lakóhelye, tartózkodási helye, értesítési címe, telefonszáma, elektronikus levélcíme,
 
 ## ab) nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
@@ -246,7 +248,7 @@
 
 ## ak) a törzslap azonosító száma,
 
-## al) a hallgató azonosító száma, adóazonosító jele, társadalombiztosító azonosító jele, a felvételi azonosító, a 48/D. § (2) bekezdés szerinti nyilatkozat azonosító száma,
+## al) a hallgató azonosító száma, adóazonosító jele, társadalombiztosító azonosító jele, a felvételi azonosító,
 
 ## am) a szakmai gyakorlat teljesítésére, az abszolutóriumra, a záróvizsgára (doktori védésre), a nyelvvizsgára, a korábban megszerzett oklevélre vonatkozó adatok,
 
@@ -324,7 +326,7 @@
 
 ## a) felvétellel összefüggő adatok:
 
-## aa) a jelentkező neve, születési neve, anyja neve, születési helye és ideje, neme, állampolgársága, lakóhelye és tartózkodási helye, értesítési címe, oktatási azonosítója, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
+## aa) a jelentkező családi és utóneve, születési családi és utóneve, anyja születési családi és utóneve, születési helye és ideje, neme, állampolgársága, lakóhelye és tartózkodási helye, értesítési címe, oktatási azonosítója, nem magyar állampolgár esetén a Magyarország területén való tartózkodás jogcíme és a tartózkodásra jogosító okirat – külön törvény szerint a szabad mozgás és tartózkodás jogával rendelkező személyek esetén a tartózkodási jogot igazoló okmány – megnevezése, száma,
 
 ## ab) az érettségi vizsga adatai,
 
@@ -338,7 +340,7 @@
 
 ## 2. A vallási, világnézeti elkötelezettségre, annak igazolására mint jelentkezési feltételre vonatkozó személyes adatot nem lehet nyilvántartani. A többi adat az érintett hozzájárulásával tartható nyilván.
 
-## 3. Az adatok továbbíthatók: a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adat; a nemzetbiztonsági szolgálatnak az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat; a felsőoktatási intézménynek a hozzá jelentkező személyre vonatkozó valamennyi adat; a felsőoktatási intézménynek a hozzá felvett személyekre vonatkozó valamennyi adat; a köznevelés információs rendszere részére a szükséges érettségi adatok az érettségi végzettséget igazoló okirat hitelességének megállapítása céljából, a felvételi kérelmek elbírálásához; a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv részére a jelentkező oktatási azonosítója, ügyfélkapus kapcsolati kódja.
+## 3. Az adatok továbbíthatók: a bíróságnak, rendőrségnek, ügyészségnek, a bírósági végrehajtónak, államigazgatási szervnek a konkrét ügy eldöntéséhez szükséges adat; a nemzetbiztonsági szolgálatnak az Nbtv.-ben meghatározott feladatok ellátásához szükséges valamennyi adat; a felsőoktatási intézménynek a hozzá jelentkező személyre vonatkozó valamennyi adat; a felsőoktatási intézménynek a hozzá felvett személyekre vonatkozó valamennyi adat; a köznevelés információs rendszere, továbbá a nyelvvizsgák nyelvvizsga-anyakönyvei nyilvántartásának adatkezelője részére a felvételi kérelmek elbírálásához szükséges valamennyi adat; a magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv részére a jelentkező oktatási azonosítója, ügyfélkapus kapcsolati kódja.
 
 ## III. Az adatkezelésnek és az adattovábbításnak a felsőoktatási információs rendszer működéséhez kapcsolódó egyes kérdései
 
@@ -428,7 +430,7 @@
 
 A Bursa Hungarica Felsőoktatási Önkormányzati Ösztöndíjrendszer pályázati eljárása keretében nyilvántartott és kezelt személyes és különleges adatok
 
-1. E törvény által nyilvántartott adatok, az ösztöndíjra pályázó személy
+1. E törvény által nyilvántartott adatok, az ösztöndíjra pályázó és az ösztöndíjban részesülő személy
 
 a) természetes személyazonosító adatai
 
@@ -468,6 +470,8 @@ az ösztöndíj időtartamának lejártától számított 5 év.
 
 a) a 2. pontban meghatározott adatkezelők kölcsönösen továbbíthatják egymás felé a pályázó 1. pontban meghatározott valamennyi adatát,
 
-b) a felsőoktatási információs rendszer működtetéséért felelős szerv a pályázatkezelő szervezetnek valamint a támogatást nyújtó helyi önkormányzatnak a pályázó felsőoktatási intézménybe történő felvételének eredményét,
+b) a felsőoktatási információs rendszer működtetéséért felelős szerv a pályázatkezelő szervezetnek valamint a támogatást nyújtó helyi önkormányzatnak a pályázó felsőoktatási intézménybe történő felvételének eredményét, támogatási idejének adatát
 
-c) a felsőoktatási intézmény a pályázatkezelő szervezetnek, valamint a támogatást nyújtó helyi önkormányzatnak a hallgatói jogviszony állapotára vonatkozó adatot.
+c) a felsőoktatási intézmény a pályázatkezelő szervezetnek, valamint a támogatást nyújtó helyi önkormányzatnak a hallgatói jogviszony állapotára vonatkozó adatot,
+
+d) a pályázatkezelő szervezet a felsőoktatási információs rendszer működtetéséért felelős szervnek a b) pontban meghatározott adatok lekérdezéséhez szükséges adatokat.

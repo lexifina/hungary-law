@@ -14,7 +14,7 @@ c) a teljes munkaidőre megállapított kötelező legkisebb munkabér (minimál
 
 d) külföldi felsőoktatási intézmények esetében ellenőrzésének eredményéről tájékoztatja az intézmény honos országának illetékes szerveit.
 
-(3) A felsőoktatási intézményben csak olyan, e törvény végrehajtási rendeletében meghatározott, kötelezően használandó nyomtatvány alkalmazható, amelyet az oktatási hivatal kormányrendeletben meghatározottak szerint jóváhagyott. A jóváhagyott oklevél-, oklevélmelléklet-nyomtatvány előállításához, forgalmazásához az oktatási hivatal engedélye szükséges.
+(3) Az oklevél-, oklevélmelléklet-nyomtatvány előállításához, forgalmazásához az oktatási hivatal engedélye szükséges.
 
 (4) A 67. §-ban és e § (1)–(3) bekezdésében szabályozott eljárásokra, hatósági ellenőrzésekre a Ket. rendelkezéseit kell alkalmazni.
 
@@ -24,7 +24,7 @@ a) felsőoktatási intézmény működési engedélyének kiadására irányuló
 
 b) felsőoktatási intézmény működési engedélyének felülvizsgálatára irányuló eljárásban hat hónap;
 
-c) külföldi felsőoktatási intézmény működési engedélyének felülvizsgálatára irányuló eljárásban hét hónap;
+c)
 
 d) a 65–66. § szerinti törvényességi ellenőrzés esetén, az oktatási hivatal eljárását is beleértve százhúsz nap;
 
@@ -34,6 +34,8 @@ f) diákotthon nyilvántartásba vételével kapcsolatos eljárásban két hóna
 
 g) felsőoktatási intézmény nyilvántartásba vételi eljárásban két hónap.
 
-(6) A közösségi felsőoktatási képzési központ működésének felülvizsgálatára az (5) bekezdés b) pontjában foglalt határidőt kell alkalmazni.
+(6) A közösségi felsőoktatási képzési központ működésének felülvizsgálatára és a diákotthon működési feltételeinek felülvizsgálatára az (5) bekezdés b) pontjában foglalt határidőt kell alkalmazni.
 
 (7) Az e törvény szerinti hatósági eljárásokat az eljáró hatóság a büntetőeljárás jogerős befejezéséig felfüggeszti, ha az ügy érdemi eldöntése olyan kérdés előzetes elbírálásától függ, amellyel kapcsolatban büntetőeljárás indult.
+
+(8) Az oktatási hivatalnak az e törvény és a Ket. hatálya alá tartozó ügyekben első fokon hozott hatósági döntéseivel szemben – ha e törvény eltérően nem rendelkezik – a miniszter gyakorolja a fellebbezés elbírálására jogosult hatóság részére meghatározott jogosítványokat.

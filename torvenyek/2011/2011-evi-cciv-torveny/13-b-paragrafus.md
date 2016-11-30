@@ -19,3 +19,5 @@ c) határozatképes, ha az ülésen legalább három tag jelen van,
 d) döntéséhez a jelen lévő szavazásra jogosult tagok többségének támogatása szükséges.
 
 (7) A konzisztórium üléseit a kancellár készíti elő.
+
+(8) A konzisztórium tagja tevékenysége ellátásához szükséges mértékben a felsőoktatási intézmény irataiba, dokumentumaiba betekinthet, a felsőoktatási intézménytől tájékoztatást kérhet.

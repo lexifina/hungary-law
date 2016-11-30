@@ -14,7 +14,13 @@ c) az intézmény felelős vezetője és képviselője a rektor, aki eljár és 
 
 d) az intézményben a szükséges gazdálkodási intézkedések és javaslatok előkészítéséért a gazdasági főigazgató felelős, konzisztórium létesítésére nem kerül sor.
 
-(1a) A honvéd tisztjelöltek tisztjelölti szolgálati viszonya tekintetében e törvényt a honvédek jogállásáról szóló törvényben foglalt eltérésekkel együtt kell alkalmazni.
+(1a) E törvényt
+
+a) a honvéd tisztjelöltek tisztjelölti szolgálati viszonya tekintetében a honvédek jogállásáról szóló törvényben,
+
+b) a rendvédelmi feladatokat ellátó szerv tisztjelöltjei tekintetében a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvényben
+
+foglalt eltérésekkel együtt kell alkalmazni.
 
 (2) Azokat a kérdéseket, amelyeket e törvény alapján a foglalkoztatási követelményrendszerben kell szabályozni, a felsőoktatási intézmény kollektív szerződése is szabályozhatja.
 

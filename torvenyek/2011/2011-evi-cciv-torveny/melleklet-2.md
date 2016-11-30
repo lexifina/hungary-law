@@ -34,13 +34,13 @@ j) rendelkezésére bocsátott ingatlanvagyont, a vagyon feletti rendelkezés jo
 
 2. A működési engedély az 1. pontban foglalt keretek között tartalmazza a felsőoktatási intézmény
 
-a) által folytatható képzések képzési területét, illetve tudományterületét, képzési szintjét,
+a) által meghirdethető képzések képzési területét, illetve tudományterületét, képzési szintjét,
 
 b) – figyelemmel a hallgatók fogadásához és az oktatási tevékenység folytatásához rendelkezésre álló személyi feltételekre, helyiségekre és eszközökre – valamennyi évfolyamra számítva, teljes kihasználtsággal működve mekkora maximális hallgatói létszámot fogadhat,
 
-c) milyen képzésekre kapott indítási engedélyt,
+c) által meghirdethető képzésekre kapott indítási engedélyt,
 
-d) mely tudományterületen, tudományágban folytathat doktori képzést,
+d) által meghirdethető doktori képzést, annak tudományterületét, tudományágát,
 
 e) által fenntartott köznevelési intézmény gyakorlóintézményi besorolását,
 
@@ -50,7 +50,7 @@ f) ESG-nek való megfeleléséről hozott szakértői megállapítást.
 
 a) származási országa szerinti államilag elismert felsőoktatási intézményként történő működését engedélyező külföldi döntés megnevezését, számát,
 
-b) működési engedélyében szereplő képzések megnevezését,
+b) által Magyarországon meghirdethető képzések megnevezését,
 
 c) intézményi minőségbiztosítási rendszerének a rá irányadó külföldi előírások szerinti megfelelését, valamint annak határidejét, amennyiben rendelkezik ilyen rendszerrel.
 

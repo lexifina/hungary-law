@@ -30,9 +30,11 @@ g) a diákotthonok nyilvántartásba vételével,
 
 h) felsőoktatási szakkollégiumok nyilvántartásba vételével
 
+i) a diákotthon működési feltételeinek ötévenkénti felülvizsgálatával
+
 kapcsolatos ügyekben.
 
-(4) A (3) bekezdés a) és e) pontjában meghatározott eljárásokban, valamint az alap- és mesterképzés, felsőoktatási szakképzés indítása esetén a (3) bekezdés c) pontja szerinti eljárásban az oktatási hivatal köteles beszerezni a MAB szakvéleményét. Az oktatási hivatal mesterképzés indítása esetén a (3) bekezdés c) pontja szerinti, továbbá a (3) bekezdés e) pontjában meghatározott eljárásban megfogalmazott MAB szakértői véleményéhez kötve van. Az oktatási hivatal döntésével szemben előterjesztett fellebbezést a miniszter bírálja el.
+(4) A (3) bekezdés a) és e) pontjában meghatározott eljárásokban, valamint az alap- és mesterképzés, felsőoktatási szakképzés indítása esetén a (3) bekezdés c) pontja szerinti eljárásban az oktatási hivatal köteles beszerezni a MAB szakvéleményét. Az oktatási hivatal mesterképzés indítása esetén a (3) bekezdés c) pontja szerinti, továbbá a (3) bekezdés e) pontjában meghatározott eljárásban megfogalmazott MAB szakértői véleményéhez kötve van.
 
 (4a) A MAB a szakértői véleményét a (3) bekezdés a) pontjában és a 8. § (2) bekezdésében szabályozott eljárásokban a felsőoktatási minőségbiztosítás európai sztenderdjeinek (Standards and Guidelines in the European Higher Education Area, a továbbiakban: ESG) figyelembe vételével hozza meg. Az oktatási hivatal határozatában ismertetni kell a MAB ESG-nek való megfelelésről hozott szakértői megállapítását.
 

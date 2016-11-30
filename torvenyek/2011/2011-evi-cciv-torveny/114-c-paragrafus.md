@@ -1,1 +1,1 @@
-114/C. § A 84/A. § szerinti képzési támogatás megállapítása a Kormány a 84/A. § (5) bekezdés szerinti rendeletében foglaltak alapján történik azzal, hogy a finanszírozási szint – a rendelkezésre álló költségvetési forrásra tekintettel – legfeljebb húsz százalékkal csökkenhet.
+114/C. § A 84/A. § (1) bekezdés szerinti támogatás megállapítása a Kormány a 84/A. § (6) bekezdés szerinti rendeletében foglaltak alapján történik azzal, hogy a finanszírozási szint – a rendelkezésre álló költségvetési forrásra tekintettel – legfeljebb húsz százalékkal csökkenhet.

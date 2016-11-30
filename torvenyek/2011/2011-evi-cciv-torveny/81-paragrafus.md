@@ -28,4 +28,4 @@ f) a képzéssel, illetve doktori fokozatszerzéssel kapcsolatos valamennyi okir
 
 (4) A hallgató akkor jogosult az (3) bekezdésben meghatározott ösztöndíjra, ha külföldi tanulmányait a felsőoktatási intézmény hozzájárulásával kezdte meg.
 
-(5) A (3) bekezdésben meghatározott ösztöndíj a képzési támogatás terhére adható. Az ösztöndíj adományozásáról nyilvános pályázat útján kell dönteni.
+(5) A (3) bekezdésben meghatározott ösztöndíj a 84/A. § (1) bekezdése szerinti támogatás terhére adható. Az ösztöndíj adományozásáról nyilvános pályázat útján kell dönteni.

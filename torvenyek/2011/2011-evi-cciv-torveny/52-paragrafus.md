@@ -12,7 +12,7 @@ a) alapfokozat „Bachelor” vagy „baccalaureus” (rövidítve:. BA, BSc),
 
 b) mesterfokozat „Master” vagy „magister” (rövidítve MA, MSc).
 
-(6) A mesterfokozattal rendelkezők az oklevelük által tanúsított szakképzettség előtt az „okleveles” megjelölést használják (okleveles mérnök, okleveles közgazdász, okleveles tanár stb.). A mesterfokozatot eredményező jogászképzésre épülő szakirányú továbbképzésben oklevelet szerzettek a „Legum Magister” vagy „Master of Laws” (rövidítve: LL. M.) cím használatára jogosultak. A tanárképzésben oklevelet szerzettek a „Master of Education” (rövidítve: MEd) cím használatára jogosultak.
+(6) A mesterfokozattal rendelkezők az oklevelük által tanúsított szakképzettség előtt az „okleveles” megjelölést használják (okleveles mérnök, okleveles közgazdász, okleveles tanár stb.). A mesterfokozatot eredményező jogászképzésre épülő szakirányú továbbképzésben szakjogászként vagy a 116. § (5) bekezdésében meghatározott mesterképzési szakon oklevelet szerzettek a „Legum Magister” vagy „Master of Laws” (rövidítve: LL. M.) cím használatára jogosultak. A tanárképzésben oklevelet szerzettek a „Master of Education” (rövidítve: MEd) cím használatára jogosultak.
 
 (7) Az orvos, a fogorvos, a gyógyszerész, az állatorvos, a jogász és az államtudományi szakon oklevelet szerzett személyek a doktori cím használatára jogosultak. Ezek rövidített jelölése: dr. med., dr. med. dent., dr. pharm., dr. vet., dr. jur., dr. rer. pol.
 

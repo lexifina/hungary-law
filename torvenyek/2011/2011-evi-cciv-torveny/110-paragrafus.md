@@ -92,6 +92,8 @@ g) a záróvizsgák szervezésének rendjét és értékelésének elveit,
 
 27. a hallgatói hitel igénybevételének feltételeit és eljárási szabályait, a hitelszerződés megkötésének, a hallgatói hitel kamata meghatározásának, igénylésének, folyósításának, törlesztésének, előtörlesztésének, támogatásának, záró elszámolásának, megszűnésének, továbbá felmondásának részletes szabályait, a Diákhitel szervezet éves beszámoló készítésének és könyvvezetésének sajátosságait, valamint a hallgatói hitelrendszer működtetésének részletes szabályait.
 
+28. az átalakulással érintett felsőoktatási intézmény által fenntartott jogi személyiségű szervezeti egységként működtetett köznevelési intézmény jogutódlásával kapcsolatos egyedi kérdéseket.
+
 (2) Felhatalmazást kap a Kormány, hogy
 
 a) a felsőoktatási intézmények nyilvántartását vezető szervet,

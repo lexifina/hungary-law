@@ -8,4 +8,4 @@ b) foglalkoztatáspolitikai eszközrendszerére támaszkodva törekedni arra, ho
 
 (3) A magyar állami részösztöndíjas hallgató esetében az állami ösztöndíj adott félévre számított összege az azonos képzésen tanulmányokat folytató magyar állami ösztöndíjas hallgató ugyanazon félévére megállapított állami ösztöndíjának ötven százaléka.
 
-(4) Amennyiben a hallgató olyan képzésen folytat tanulmányokat magyar állami (rész)ösztöndíjjal támogatott formában, melyet az adott intézmény önköltséges formában nem indított, a (3) bekezdésben meghatározott számításokat az adott képzésre más intézményekben megállapított önköltségek közül a legalacsonyabb figyelembevételével kell elvégezni.
+(4) Amennyiben a hallgató olyan képzésen folytat tanulmányokat magyar állami (rész)ösztöndíjjal támogatott formában, melyet az adott intézmény önköltséges formában nem indított, a (2) bekezdésben meghatározott számításokat az adott képzésre más intézményekben megállapított költségek közül a legalacsonyabb figyelembevételével kell elvégezni.

@@ -1,4 +1,4 @@
-92. § (1) A Magyar Köztársaság és az Apostoli Szentszék között létrejött megállapodás alapján a Magyar Katolikus Egyház, továbbá a Kormánnyal a felsőoktatási feladatok ellátására megállapodást kötő egyházi felsőoktatási intézmény, kollégium és diákotthon a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgatói arányában jogosult a 84. § (2) bekezdés d) pontjában meghatározott fenntartási feladatokhoz biztosított állami támogatásra, továbbá eseti és egyedi támogatásokra.
+92. § (1) A Magyar Köztársaság és az Apostoli Szentszék között létrejött megállapodás alapján a Magyar Katolikus Egyház, továbbá a Kormánnyal a felsőoktatási feladatok ellátására megállapodást kötő egyházi felsőoktatási intézmény, kollégium és diákotthon a magyar állami (rész)ösztöndíjjal támogatott képzésben részt vevő hallgatói arányában jogosult a 84. § (2) bekezdés b) pontja szerinti támogatásra, továbbá eseti és egyedi támogatásokra.
 
 (2) Az (1) bekezdésben meghatározott támogatásra jogosulttá válhat az az egyházi felsőoktatási intézmény, kollégium és diákotthon is, amelynek fenntartójával a miniszter felsőoktatási feladatok ellátására megállapodást köt.
 

@@ -1,4 +1,4 @@
-48/N. § (1) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató kérelmére a 48/A. § a) pontja alapján meghatározott feltétel teljesítésének felfüggesztését engedélyezi
+48/N. § (1) A magyar állami ösztöndíj feltételei teljesítésének nyilvántartásáért felelős szerv a volt magyar állami (rész)ösztöndíjas hallgató – 48/A. § a) pontjában meghatározott határidőt megelőzően benyújtott – kérelmére a 48/A. § a) pontja alapján meghatározott feltétel teljesítésének felfüggesztését engedélyezi
 
 a) a külföldi felsőoktatási intézményben folytatott tanulmányokra,
 

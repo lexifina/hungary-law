@@ -1,1 +1,1 @@
-84/B. § A tudományos, kulturális, fenntartói és fejlesztési célú támogatás a felsőoktatási intézményekben folyó képzéssel összefüggő kutatás céljait szolgálja, valamint az állami felsőoktatási intézmények fenntartási, fejlesztési, speciális feladat-ellátási költségeihez járul hozzá.
+### 84/B. §
