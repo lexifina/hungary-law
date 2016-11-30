@@ -6,7 +6,7 @@
 
 3. 19. § (2) bekezdés f) pontjában az „alrendszerekből, valamint az intézményi nyilvántartásokból” szövegrész helyébe az „alrendszerekből, más államigazgatási adatbázisokból, valamint intézményi nyilvántartásokból”,
 
-4. 48. § (2) bekezdésében a „tizennyolc kreditet, és nem érte el” szövegrész helyébe a „tizennyolc kreditet, vagy nem érte el”,
+4.
 
 5. 48/C. § (4) bekezdésében a „(3) bekezdésben” szövegrész helyébe a „(2) bekezdésben”, az „önköltségek” szövegrész helyébe a „költségek”,
 

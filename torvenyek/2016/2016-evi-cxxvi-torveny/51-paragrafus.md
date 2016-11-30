@@ -9,11 +9,3 @@
 (4) A 41. §, a 47. § (1) bekezdése és a 2. melléklet 2017. február 1-jén lép hatályba.
 
 (5) A 46. § és a 48. § 4. pontja 2017. szeptember 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
