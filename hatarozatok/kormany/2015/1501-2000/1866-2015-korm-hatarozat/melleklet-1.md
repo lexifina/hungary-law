@@ -1,6 +1,6 @@
 ## 1. A Kormány
 
-## 1.1. egyetért azzal, hogy a Liget Budapest projekt megvalósításához a 2016–2019. években 156,72 milliárd forint forrás biztosítása szükséges a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezetében, illetve az 1.4.1. pont szerint 3500 millió forint forrás a IX. Helyi önkormányzatok támogatásai fejezetben, és felhívja a nemzetgazdasági minisztert, hogy – az emberi erőforrások minisztere, illetve az 1.4.1. pont szerinti forrás tekintetében a belügyminiszter bevonásával – gondoskodjon a szükséges források felmerülés ütemében történő rendelkezésre állásáról;
+## 1.1.[^1] egyetért azzal, hogy a Liget Budapest projekt megvalósításához a 2016–2019. években 153,02 milliárd forint forrás biztosítása szükséges a központi költségvetés XX. Emberi Erőforrások Minisztériuma fejezetében, illetve az 1.4.1. pont szerint 3500 millió forint forrás a IX. Helyi önkormányzatok támogatásai fejezetben, és felhívja a nemzetgazdasági minisztert, hogy – az emberi erőforrások minisztere, illetve az 1.4.1. pont szerinti forrás tekintetében a belügyminiszter bevonásával – gondoskodjon a szükséges források felmerülés ütemében történő rendelkezésre állásáról;
 
 ## Felelős: nemzetgazdasági miniszter
 
@@ -48,13 +48,13 @@
 
 ## Határidő: azonnal
 
-## 1.5. egyetért a Vajdahunyad vára műemléki épületrekonstrukciójának megvalósításával és felhívja az emberi erőforrások miniszterét, hogy – a földművelésügyi miniszter bevonásával – gondoskodjon a műemléki épületrekonstrukció koncepciójának részletes kidolgozásáról és a szükséges előkészületek megtételéről;
+## 1.5.[^2] egyetért a Vajdahunyad vára műemléki épületrekonstrukciójának megvalósításával és felhívja az emberi erőforrások miniszterét, hogy – a nemzeti fejlesztési miniszter és a földművelésügyi miniszter bevonásával – gondoskodjon a műemléki épületrekonstrukció koncepciójának részletes kidolgozásáról és a szükséges előkészületek megtételéről;
 
 ## Felelős: emberi erőforrások minisztere
 
-## földművelésügyi miniszter
+## nemzeti fejlesztési miniszter, földművelésügyi miniszter
 
-## Határidő: 2015. december 31.
+## Határidő: a kapcsolódó beszerzési eljárások lefolytatását követően azonnal
 
 ## 1.6. a városligeti Olof Palme Ház fejlesztése érdekében
 
@@ -120,7 +120,7 @@
 
 ## 3. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 4.[^1]
+## 4.[^3]
 
 1. melléklet az 1866/2015. (XII. 2.) Korm. határozathoz
 
@@ -190,4 +190,6 @@
 
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont 1.1. alpontja az 1687/2016. (XI. 29.) Korm. határozat 1. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 1. pont 1.5. alpontja az 1687/2016. (XI. 29.) Korm. határozat 1. pont b) alpontja szerint módosított szöveg.
+[^3]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
