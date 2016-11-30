@@ -8,7 +8,7 @@
 
 ## d) jóváhagyja, hogy az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének pénzügyi kerete meghaladja az Integrált Közlekedésfejlesztési Operatív Program pénzügyi keretét azzal, hogy ezen alpontban meghatározott pénzügyi keretek közötti különbözetre kötelezettség nem vállalható,
 
-## e) felhívja a nemzeti fejlesztési minisztert, gondoskodjon arról, hogy az Integrált Közlekedésfejlesztési Operatív Program egyes prioritásai keretének 90%-át meghaladó összegre vonatkozó kötelezettség vállalására csak annak a Kormány egyedi ügyben hozott nyilvános határozatával történő jóváhagyása alapján kerüljön sor,
+## e)[^1] felhívja a nemzeti fejlesztési minisztert, gondoskodjon arról, hogy az Integrált Közlekedésfejlesztési Operatív Program egyes prioritásai – a 2. prioritást, valamint a 3.1 és a 3.2 beruházási prioritást kivéve – 90%-át meghaladó összegre vonatkozó kötelezettség vállalására csak annak a Kormány egyedi ügyben hozott nyilvános határozatával történő jóváhagyása alapján kerüljön sor,
 
 ## Felelős: nemzeti fejlesztési miniszter
 
@@ -22,7 +22,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3.[^1]
+## 3.[^2]
 
 1. melléklet az 1247/2016. (V. 18.) Korm. határozathoz
 
@@ -62,4 +62,5 @@
 
 | 2. | IKOP-4.1.0-15 | TEN-T hálózat közúti elérhetőségének javítása | 110,71 | kiemelt | Meghirdetve: 2016. március 1. |
 
-[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 1. pont e) alpontja az 1691/2016. (XI. 29.) Korm. határozat 4. pontja szerint módosított szöveg.
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

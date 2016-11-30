@@ -1,4 +1,4 @@
-2. melléklet az 1247/2016. (V. 18.) Korm. határozathoz[^2]
+2. melléklet az 1247/2016. (V. 18.) Korm. határozathoz[^3]
 
 Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt projektjei
 
@@ -222,4 +222,4 @@ Az Integrált Közlekedésfejlesztési Operatív Program nevesített kiemelt pro
 
 | 108. | IKOP-4.1.0-15 | M25 Eger gyorsforgalmi úti bekötése (M3–Eger szakasz megvalósítása) | NIF Zrt. | 40,5 (90,0% becsült támogatási intenzitás szerint csökkentett összeg) | 2x2 sávos autóút építése, a 2502 j. út átkötésének és a 252. sz. főút rekonstrukció kiépítése |
 
-[^2]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 2. melléklet az 1422/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
