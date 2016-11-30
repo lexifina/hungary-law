@@ -1,0 +1,3 @@
+## 1. § Az egészséges ivóvíz biztosításához szükséges egyes beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 380/2012. (XII. 19.) Korm. rendelet [a továbbiakban: 380/2012. (XII. 19.) Korm. rendelet] 3. §-a a következő (4) bekezdéssel egészül ki:
+
+## „(4) E rendeletnek a víziközmű ágazatot érintő európai uniós derogációkkal kapcsolatos kötelezettségek teljesítését elősegítő egyes Korm. rendeletek módosításáról szóló 370/2016. (XI. 29.) Korm. rendelettel (a továbbiakban: Módr2.) megállapított rendelkezéseit a Módr2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”

@@ -1,0 +1,3 @@
+## 3. § A szennyvízelvezetési és -tisztítási beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról szóló 29/2013. (II. 12.) Korm. rendelet [a továbbiakban: 29/2013. (II. 12.) Korm. rendelet] a következő 9. §-sal egészül ki:
+
+## „9. § E rendeletnek a víziközmű ágazatot érintő európai uniós derogációkkal kapcsolatos kötelezettségek teljesítését elősegítő egyes Korm. rendeletek módosításáról szóló 370/2016. (XI. 29.) Korm. rendelettel [a továbbiakban: 370/2016. (XI. 29.) Korm. rendelet] megállapított rendelkezéseit a 370/2016. (XI. 29.) Korm. rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
