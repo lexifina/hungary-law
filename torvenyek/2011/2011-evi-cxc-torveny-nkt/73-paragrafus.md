@@ -8,6 +8,8 @@
 
 (4) Amennyiben a (3) bekezdésben meghatározott feltételek nem teljesülnek, abban az esetben az intézményi tanácsot a szülők, a nevelőtestület és az intézmény székhelye szerinti települési önkormányzat azonos számú delegáltjából kell létrehozni.
 
+(4a) Ha az iskola nemzetiségi nevelési-oktatási feladatot is ellát, de nem nemzetiségi önkormányzat tartja fenn, az intézményi tanácsba az egyes delegálók által delegált személyekkel azonos létszámú tagot delegál az érintett települési nemzetiségi önkormányzat, annak hiányában a településen működő érintett nemzetiségi civil szervezet.
+
 (5) Az intézményi tanács
 
 a) jogi személy, amely hatósági nyilvántartásba vétellel jön létre, a hatósági nyilvántartást a hivatal vezeti,

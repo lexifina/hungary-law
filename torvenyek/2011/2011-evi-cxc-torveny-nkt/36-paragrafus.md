@@ -16,7 +16,7 @@ c) a katonák jogállását szabályozó jogszabályok, az SZMSZ, a házirend a 
 
 d) a nevelő-oktató munka pedagógus munkakörben szolgálati viszonyban is ellátható,
 
-e) a fenntartó pályáztatás és további eljárás nélkül is adhat intézményvezetői megbízást,
+e) a fenntartó pályáztatás és további eljárás nélkül is adhat intézményvezetői megbízást, nem kell alkalmazni a 67. § (7) bekezdésében és a 83. § (3) bekezdés e) pontjában foglaltakat,
 
 f) nem kell alkalmazni az osztály-, csoportlétszámokat meghatározó rendelkezéseket, a maximális létszámra vonatkozó rendelkezések kivételével,
 
@@ -24,6 +24,6 @@ g) a tanulói jogviszony és a kollégiumi tagsági viszony megszüntetésével 
 
 h) országos feladatot ellátó intézménynek minősül,
 
-i)
+i) nem kell alkalmazni a 73. § (4) bekezdésében foglaltakat.
 
 (5) A honvédelemért felelős miniszter által fenntartott nevelési-oktatási intézménnyel altiszt-jelölti szolgálati viszonyban álló tanulók és a szolgálati viszonyban álló pedagógusok jogviszonyára, az intézményvezető megbízására, valamint a fenntartói irányítási jog gyakorlására a honvédek jogállásáról szóló törvény, valamint felhatalmazása alapján miniszteri rendelet e törvénytől eltérő rendelkezéseket állapíthat meg.

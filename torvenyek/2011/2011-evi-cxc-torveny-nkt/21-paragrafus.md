@@ -50,7 +50,7 @@ ac) képviseletére jogosult személy nevét,
 
 ad) az önálló költségvetéssel rendelkező intézmény esetében adószámát,
 
-ae) az önálló költségvetéssel rendelkező intézmény esetében valamennyi pénzforgalmi számlaszámát,
+ae)
 
 b) a nyilvántartásba vétel, létesítés napját,
 

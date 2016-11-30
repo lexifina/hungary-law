@@ -48,8 +48,12 @@ f) a 65. § (10) és (11) bekezdését nem kell alkalmazni.
 
 (9b) Pedagógus-munkakörben foglalkoztatottnak minősülnek az egységes óvoda-bölcsődében felsőfokú végzettséggel kisgyermeknevelő munkakörben foglalkoztatottak is, és rájuk a 65. § (9) bekezdés c) pontjában és (9a) bekezdésében foglaltakat, továbbá a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben a bölcsődében pedagógus-munkakörben foglalkoztatott személyekre meghatározott rendelkezéseket kell alkalmazni.
 
+(9c) A pedagógus szakképzettséggel, szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott legfeljebb Pedagógus II. fokozatot érhet el. Ha a nevelő-oktató munkát közvetlenül segítő munkakörben foglalkoztatottat korábban pedagógus-munkakörben alkalmazták és Pedagógus II. fokozatnál magasabb fokozatot ért el, illetményét, munkabérét a Pedagógus II. fokozatnak megfelelően kell megállapítani.
+
 (10) Az egyházi köznevelési intézmény és a magán köznevelési intézmény munkaviszony keretében foglalkoztatott pedagógusainak rendkívüli munkavégzése díjazására, pótszabadságára a közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni. A pedagógiai asszisztens, szabadidő-szervező, gyermek- és ifjúságvédelmi felügyelő, gyógypedagógiai asszisztens, pszichopedagógus, gyógytornász pótszabadságának meghatározására a pedagógus-munkakörben foglalkoztatott közalkalmazottakra vonatkozó rendelkezéseket kell alkalmazni.
 
 (11) Abban az esetben, ha a magasabb vezetői, vezetői megbízással rendelkező pedagógus helyettesítésének ideje eléri a tíz munkanapot, a helyettesítő pedagógus heti tanóráinak, foglalkozásainak számát az ellátott magasabb vezető, vezető beosztásra meghatározott óraszám alapján kell megállapítani.
 
 (12) Az üzemi baleset megállapíthatósága szempontjából a pedagógusok minősítő vizsgáján vagy a minősítési eljárásban, az országos pedagógiai szakmai ellenőrzésben, a pedagógiai szakmai szolgáltatási feladatokban a hivatal felkérése alapján résztvevő – nyugdíjasnak nem minősülő – szakértő vagy szaktanácsadó e tevékenysége a foglalkozása körében történő munkavégzésnek minősül.
+
+(13) A nevelési-oktatási és a pedagógiai szakszolgálati intézményben nevelő és oktató munkát közvetlenül segítő munkakörben pedagógus szakképzettséggel, szakképesítéssel rendelkező foglalkoztatott esetében a minősítő vizsga, minősítési eljárás során az ezen alcímben meghatározottaktól eltérő szabályokat a Kormány rendeletben állapítja meg.

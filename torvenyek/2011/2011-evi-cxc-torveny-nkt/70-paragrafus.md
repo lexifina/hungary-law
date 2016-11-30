@@ -38,6 +38,6 @@ b) több – nevelési-oktatási intézmény feladatát ellátó – intézmény
 
 foglalkoztatott – a 4. § 18. pontjában felsorolt – alkalmazottakból és az intézmény vezetőjéből álló nevelőtestület jár el.
 
-(5) Az óraadó a nevelőtestület döntési jogkörébe tartozó ügyekben – az (2) bekezdés h)–i) pontjába tartozó ügyek kivételével – nem rendelkezik szavazati joggal.
+(5) Az óraadó, állami iskolákban a választható hit- és erkölcstan tantárgy oktatója a nevelőtestület döntési jogkörébe tartozó ügyekben – az (2) bekezdés h)–i) pontjába tartozó ügyek kivételével – nem rendelkezik szavazati joggal.
 
 (6) Ha a köznevelési intézmény, intézményegység, tagintézmény nem nevelési-oktatási intézmény, továbbá a közös igazgatású köznevelési intézményben és az általános művelődési központban az intézmény egészét érintő kérdésekben a nevelőtestületet megillető jogosítványokat – kivéve azokat, amelyek a tanulói jogviszonnyal kapcsolatosak – a szakalkalmazotti értekezlet gyakorolja.

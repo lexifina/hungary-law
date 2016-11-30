@@ -1,6 +1,6 @@
 ## 44. A köznevelés közfeladatai, a feladatellátásra kötelezettek
 
-74. § (1) Az állam gondoskodik – az óvodai nevelés, a nemzetiséghez tartozók óvodai nevelése, a többi gyermekkel, tanulóval együtt nevelhető, oktatható sajátos nevelési igényű gyermekek óvodai nevelése kivételével – a köznevelési alapfeladatok ellátásáról.
+74. § (1) Az állam gondoskodik – az óvodai nevelés, a nemzetiséghez tartozók óvodai nevelése, a többi gyermekkel együtt nevelhető, sajátos nevelési igényű gyermekek óvodai nevelése kivételével – a köznevelési alapfeladatok ellátásáról.
 
 (2) A köznevelési feladatokat az állam intézmény alapításával és fenntartásával, továbbá az egyházi köznevelési intézmény, a nemzetiségi önkormányzat fenntartásában álló vagy a magán köznevelési intézmény útján látja el, a fenntartóval az állam köznevelési szerződést köthet. Az óvodai nevelésről, a nemzetiséghez tartozók óvodai neveléséről, a többi gyermekkel, tanulóval együtt nevelhető, oktatható sajátos nevelési igényű gyermekek óvodai neveléséről a települési önkormányzat vagy társulása intézmény alapítása és fenntartása vagy köznevelési szerződés révén gondoskodik.
 
@@ -14,4 +14,4 @@
 
 (6a) A (4) és (5) bekezdésben meghatározott működtetés egyedi feltételeit az állami intézményfenntartó központtal kötött, a köznevelési intézmény által ellátott feladatokhoz igazodó szerződésben kell megállapítani.
 
-(7) A nemzetiségi önkormányzat a nemzetiség által lakott településen a nemzetiséghez tartozók óvodai nevelésére és iskolai nevelés-oktatására létrehozott intézmény fenntartói jogát köznevelési szerződéssel átveheti a települési önkormányzattól, az államtól.
+(7) A nemzetiségi önkormányzat a nemzetiség által lakott településen a nemzetiséghez tartozók óvodai nevelésére és iskolai nevelés-oktatására létrehozott intézmény fenntartói jogát átveheti a települési önkormányzattól, az államtól.

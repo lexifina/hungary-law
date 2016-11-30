@@ -32,7 +32,7 @@ fokozatokat érheti el.
 
 (6) A pedagógusok minősítő vizsgáját és minősítési eljárását a hivatal szervezi. A minősítő vizsgára és a minősítési eljárásra a pedagógus a hivatalnál jelentkezik. A minősítő vizsga és a minősítési eljárás során a kapcsolattartás elektronikus úton történik.
 
-(7) A minősítési eljárás során minden pedagógusra egységes, nyilvános szabályok vonatkoznak. A minősítő bizottság a jelölt pedagógus teljes körű tevékenységét, különösen a jogszabályokban és a pedagógus munkaköri leírásában megfogalmazott kötelezettségek teljesítését vizsgálja.
+(7) A minősítési eljárás során minden pedagógus munkakörben foglalkoztatottra egységes, nyilvános szabályok vonatkoznak. A minősítő bizottság a jelölt pedagógus teljes körű tevékenységét, különösen a jogszabályokban és a pedagógus munkaköri leírásában megfogalmazott kötelezettségek teljesítését vizsgálja.
 
 (8) Ha a gyakornok a külön jogszabályban foglaltak szerint a megismételt minősítő vizsgán vagy a Pedagógus I. fokozatba besorolt pedagógus a megismételt minősítési eljárás eredményeként „nem felelt meg” minősítést kapott, közalkalmazotti jogviszonya, munkaviszonya e törvény erejénél fogva megszűnik. A közalkalmazotti jogviszony, munkaviszony a minősítő vizsga vagy a megismételt minősítési eljárás eredményének közlésétől számított tizedik napon szűnik meg.
 

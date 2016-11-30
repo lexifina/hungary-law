@@ -16,15 +16,17 @@ f) szakiskola [a továbbiakban a d)–f) pont alattiak együtt: szakképző isko
 
 g) készségfejlesztő iskola [a továbbiakban a c)–g) pont alattiak együtt: középfokú iskola],
 
-h) alapfokú művészeti iskola [a továbbiakban a b)–h) pont alattiak együtt: iskola],
+h) alapfokú művészeti iskola,
 
-i) gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény,
+i) kiegészítő nemzetiségi nyelvoktató iskola [a továbbiakban a b)–i) pont alattiak együtt: iskola],
 
-j) kollégium [a továbbiakban az a)–j) pont alattiak együtt: nevelési-oktatási intézmény],
+j) gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézmény,
 
-k) pedagógiai szakszolgálati intézmény,
+k) kollégium [a továbbiakban az a)–k) pont alattiak együtt: nevelési-oktatási intézmény],
 
-l) pedagógiai-szakmai szolgáltatást nyújtó intézmény [a továbbiakban az a)–l) pont alattiak együtt: köznevelési intézmény].
+l) pedagógiai szakszolgálati intézmény,
+
+m) pedagógiai-szakmai szolgáltatást nyújtó intézmény [a továbbiakban az a)–m) pont alattiak együtt: köznevelési intézmény].
 
 (2) A köznevelési intézmény több különböző típusú köznevelési intézmény feladatait is elláthatja, valamint nem köznevelési feladatot ellátó intézménnyel is összevonható az e törvényben meghatározott esetben, formában és eljárás megtartásával (a továbbiakban: többcélú intézmény). Nevelési-oktatási intézmény elláthatja a konduktív pedagógiai ellátás, gyógytestnevelés, kiemelten tehetséges gyermekek, tanulók gondozása pedagógiai szakszolgálati feladatot, jogszabályban meghatározott egyes pedagógiai-szakmai szolgáltatási feladatot, továbbá a gyermekétkeztetés feladatát anélkül is, hogy többcélú intézmény formájában működne.
 

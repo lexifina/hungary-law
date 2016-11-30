@@ -10,7 +10,7 @@
 
 (6) Az e törvényben foglaltaktól eltérően pedagógus-munkakörben továbbra is foglalkoztatható és újonnan alkalmazható
 
-a) technika-gyakorlati foglalkozás tantárgy oktatására, aki a tantárgynak megfelelő felsőfokú végzettséggel vagy felsőfokú szakoktatói vagy műszaki oktatói végzettséggel és szakképzettséggel,
+a) technika-gyakorlati foglalkozás tantárgy oktatására, aki a tantárgynak megfelelő felsőfokú végzettséggel vagy felsőfokú szakoktatói vagy műszaki oktatói vagy mérnök tanár végzettséggel és szakképzettséggel,
 
 b) óvodapedagógus-munkakörben, aki óvónői szakközépiskolában szerzett érettségi-képesítő bizonyítvánnyal
 

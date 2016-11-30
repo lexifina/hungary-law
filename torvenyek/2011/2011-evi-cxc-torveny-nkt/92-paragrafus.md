@@ -1,6 +1,6 @@
 92. § (1) A nem magyar állampolgár kiskorú akkor válik óvodai ellátásra jogosulttá, továbbá akkor tanköteles Magyarországon, ha
 
-a) a menedékjogról szóló törvény rendelkezései szerint a magyar állampolgárokkal azonos jogok illetik meg,
+a) menekült, oltalmazott, menedékes, valamint a menedékjogról szóló 2007. évi LXXX. törvény 25/B. § (1) bekezdés b) pontja alapján befogadott jogállású,
 
 b) a szabad mozgás és tartózkodás jogával rendelkező személyek beutazásáról és tartózkodásáról szóló törvény szerint a szabad mozgás és tartózkodás jogát Magyarországon gyakorolja,
 
@@ -8,11 +8,11 @@ c) a harmadik országbeli állampolgárok beutazásáról és tartózkodásáró
 
 (2) A feltételek meglétét a tanuló nevelési-oktatási intézménybe történő felvételénél igazolni kell.
 
-(3) A Magyarországon tartózkodó nem magyar állampolgár mindaddig, ameddig megfelel az (1) bekezdésben meghatározott feltételeknek az óvodai nevelést, a kollégiumi ellátást, a pedagógiai szakszolgálatokat, továbbá – ha a magyar jog szerinti tanköteles kort eléri – az iskolai nevelést-oktatást a tankötelezettség fennállása, továbbá a tankötelezettség ideje alatt megkezdett és a tankötelezettség megszűnése után folytatott tanulmányok alatt a magyar állampolgárokkal azonos feltételekkel veheti igénybe.
+(3) A Magyarországon tartózkodó nem magyar állampolgár, ha megfelel az (1) bekezdésben meghatározott feltételeknek, az óvodai nevelést, a kollégiumi ellátást, a pedagógiai szakszolgálatokat, továbbá – ha a magyar jog szerinti tanköteles kort eléri – az iskolai nevelést-oktatást a tankötelezettség fennállása, továbbá a tizennyolcadik életéve betöltése előtt megkezdett tanulmányok befejezéséig a magyar állampolgárokkal azonos feltételekkel veheti igénybe.
 
 (4) Az (1) bekezdés a) pontjában felsoroltak az elismerés iránti kérelem benyújtásától kezdődően gyakorolhatják a (3) bekezdésben meghatározott jogokat.
 
-(5) A (3) bekezdésben szabályozott jog az (1) bekezdés b), c) pontjában meghatározottak alapján akkor gyakorolható, ha a szülő három hónapot meghaladó tartózkodásra jogosító engedéllyel rendelkezik.
+(5) A (3) bekezdésben szabályozott jog az (1) bekezdés b) és c) pontjában meghatározottak alapján akkor gyakorolható, ha a szülő és a gyermek, a tanuló három hónapot meghaladó tartózkodásra jogosító engedéllyel rendelkezik.
 
 (6) Az a nem magyar állampolgár, aki az oktatásért felelős miniszter meghívólevelével rendelkezik, a meghívólevélben meghatározott ellátást a magyar állampolgárokkal azonos feltételek szerint veheti igénybe.
 

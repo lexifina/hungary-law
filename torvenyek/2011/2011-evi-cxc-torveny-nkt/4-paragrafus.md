@@ -4,51 +4,55 @@
 
 1. alapfeladat: a köznevelési intézmény alapító okiratában, szakmai alapdokumentumában foglalt köznevelési feladat, amely
 
-a) óvodai nevelés,
+1.1. óvodai nevelés,
 
-b) nemzetiséghez tartozók óvodai nevelése,
+1.2. nemzetiséghez tartozók óvodai nevelése,
 
-c) általános iskolai nevelés-oktatás,
+1.3. általános iskolai nevelés-oktatás,
 
-d) nemzetiséghez tartozók általános iskolai nevelése-oktatása,
+1.4. nemzetiséghez tartozók általános iskolai nevelése-oktatása,
 
-e) kollégiumi ellátás,
+1.5. kollégiumi ellátás,
 
-f) nemzetiségi kollégiumi ellátás,
+1.6. nemzetiségi kollégiumi ellátás,
 
-g) gimnáziumi nevelés-oktatás,
+1.7. gimnáziumi nevelés-oktatás,
 
-h) szakközépiskolai nevelés-oktatás,
+1.8. szakgimnáziumi nevelés-oktatás,
 
-i) szakiskolai nevelés-oktatás,
+1.9. szakközépiskolai nevelés-oktatás,
 
-j) nemzetiség gimnáziumi nevelés-oktatása,
+1.10. szakiskolai nevelés-oktatás,
 
-k) nemzetiség szakközépiskolai nevelés-oktatása,
+1.11. készségfejlesztő iskolai nevelés-oktatás,
 
-l) nemzetiség szakiskolai nevelés-oktatása,
+1.12. nemzetiséghez tartozók gimnáziumi nevelése-oktatása,
 
-m) Köznevelési Hídprogramok keretében folyó nevelés-oktatás,
+1.13. nemzetiséghez tartozók szakgimnáziumi nevelése-oktatása,
 
-n) felnőttoktatás,
+1.14. nemzetiséghez tartozók szakközépiskolai nevelése-oktatása,
 
-o) alapfokú művészetoktatás,
+1.15. kiegészítő nemzetiségi nyelvoktatás,
 
-p) fejlesztő nevelés-oktatás,
+1.16. Köznevelési és Szakképzési Hídprogram keretében folyó nevelés-oktatás,
 
-q) pedagógiai szakszolgálati feladat,
+1.17. felnőttoktatás,
 
-r) a többi gyermekkel, tanulóval együtt nevelhető, oktatható sajátos nevelési igényű gyermekek, tanulók óvodai nevelése és iskolai nevelése-oktatása,
+1.18. alapfokú művészetoktatás,
 
-s) azoknak a sajátos nevelési igényű gyermekeknek, tanulóknak az óvodai nevelése, iskolai nevelése-oktatása, kollégiumi ellátása, akik az e célra létrehozott gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményben, óvodai csoportban, iskolai osztályban, kollégiumi csoportban eredményesebben foglalkoztathatóak,
+1.19. fejlesztő nevelés-oktatás,
 
-t) a gyermekgyógyüdülőkben, egészségügyi intézményekben rehabilitációs intézményekben tartós gyógykezelés alatt álló gyermekek tankötelezettségének teljesítéséhez szükséges oktatás,
+1.20. pedagógiai szakszolgálati feladat,
 
-u) pedagógiai-szakmai szolgáltatás,
+1.21. a többi gyermekkel, tanulóval együtt nevelhető, oktatható sajátos nevelési igényű gyermekek, tanulók óvodai nevelése és iskolai nevelése-oktatása,
 
-v) utazó gyógypedagógusi, utazó konduktori hálózat működtetése,
+1.22. azoknak a sajátos nevelési igényű gyermekeknek, tanulóknak az óvodai nevelése, iskolai nevelése-oktatása, kollégiumi ellátása, akik az e célra létrehozott gyógypedagógiai, konduktív pedagógiai nevelési-oktatási intézményben, óvodai csoportban, iskolai osztályban, kollégiumi csoportban eredményesebben foglalkoztathatóak,
 
-x) készségfejlesztő iskolai nevelés-oktatás
+1.23. a gyermekgyógyüdülőkben, egészségügyi intézményekben rehabilitációs intézményekben tartós gyógykezelés alatt álló gyermekek tankötelezettségének teljesítéséhez szükséges oktatás,
+
+1.24. pedagógiai-szakmai szolgáltatás,
+
+1.25. utazó gyógypedagógusi, utazó konduktori hálózat működtetése
 
 lehet,
 

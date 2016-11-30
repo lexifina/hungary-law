@@ -1,6 +1,6 @@
 98. § (1) Egyéb foglalkozást a nevelési-oktatási intézményben pedagógus-munkakörben foglalkoztatott alkalmazott tarthat.
 
-(2) Középiskolában a művészetek és a technika-gyakorlati foglalkozás tantárgyakat főiskolai végzettséggel és a tantárgynak megfelelő tanári szakképzettséggel rendelkező pedagógus is taníthatja.
+(2) Középiskolában a művészetek műveltségi terület tantárgyait és a technika-gyakorlati foglalkozás tantárgyakat főiskolai végzettséggel és a tantárgynak megfelelő tanári szakképzettséggel rendelkező pedagógus is taníthatja.
 
 (3) Az óvodapedagógus-munkakör betölthető konduktor-óvodapedagógusi, a tanítói munkakör pedig felsőfokú végzettséggel és konduktor-tanítói szakképzettséggel is. Egyéb foglalkozás tartására alkalmazható az is, aki konduktor-tanítói végzettséggel és szakképzettséggel rendelkezik.
 
@@ -24,13 +24,29 @@ d) egyetemi végzettségnek és szakképzettségnek kell elfogadni a Magyar Test
 
 (9) Gyakorlati oktató munkakörben történő alkalmazáskor a képzés szakirányának megfelelő főiskolai végzettségnek kell elfogadni a – képzésről rendelkező jogszabály szerint – felsőfokú végzettséget tanúsító műszaki oktatói, technikus tanári, szakoktatói oklevelet, bizonyítványt. A felsőfokú végzettséget nem tanúsító, tanfolyami képzésben szerzett műszaki szakoktatói (oktatói) bizonyítványt az alkalmazáskor a képzés szakirányának megfelelő középfokú szakképesítésnek kell elfogadni.
 
-(10) Ha nincs a képzés szakirányának megfelelő hazai felsőfokú képzés, szakközépiskolában – a szakképzési kerettantervben az adott gyakorlati tantárgyra vonatkozó eltérő rendelkezés hiányában – alkalmazható határozatlan időre az is, továbbá köznevelési szakértői tevékenységet végezhet, aki középiskolai végzettséggel és mestervizsgával rendelkezik; továbbá a népzenész- és a szórakoztatózenész-képzésben az, aki emelt szintű szakképesítéssel rendelkezik.
+(10) Ha nincs a képzés szakirányának megfelelő hazai felsőfokú képzés, határozatlan időre alkalmazható, továbbá köznevelési szakértői tevékenységet végezhet
+
+a) szakképző iskolában
+
+aa) szakképzési kerettantervben az adott gyakorlati tantárgyra vonatkozó eltérő rendelkezés hiányában, aki érettségi végzettséggel és mestervizsgával,
+
+ab) népzenész- és a szórakoztatózenész-képzésben az, aki szakirányú emelt szintű szakképesítéssel,
+
+ac) népi kézműves képzésben az, aki népi játék és kismesterségek oktatója szakképesítéssel,
+
+b) alapfokú művészeti iskola
+
+ba) elektroakusztikus képzésében az, aki zeneművészeti ágban szerzett pedagógus szakképzettséggel és emelt szintű szórakoztatózenész (billentyűs) szakképesítéssel,
+
+bb) környezet-, kézműves kultúra tanszakán, továbbá textil és bőrműves tanszakán az, aki népi játék és kismesterségek oktatója szakképesítéssel
+
+rendelkezik.
 
 (11) Aki az oktatásért felelős miniszter által kiállított igazolás alapján a Kormánnyal kötött, törvénnyel vagy kormányrendelettel kihirdetett nemzetközi szerződés vagy tárcaközi megállapodás keretében idegen nyelven folytatott nevelési, oktatási tevékenység ellátására anyanyelvi tanárként érkezik Magyarországra, mentesül a külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvényben szabályozott elismerési eljárás alól. Az elismerési eljárás alóli mentesítés az oktatásért felelős miniszter által kiállított igazolásban megjelölt időtartamra, összesen maximum öt tanévre szól. Az e bekezdés szerinti anyanyelvi tanárral létesített óraadói megbízási jogviszonyra nem kell alkalmazni a 4. § 21. pontban az óraszámra vonatkozóan meghatározott korlátozást.
 
 (12) Az anyanyelvi tanárt küldő állam, vagy az államközi megállapodás alapján nevesített közvetítő szervezet köteles igazolást kiállítani arról, hogy az anyanyelvi tanár a küldő országban, az alap- és középfokú oktatásban pedagógus-munkakör betöltésére jogosító felsőfokú oklevéllel rendelkezik.
 
-(13)
+(13) Ha a pedagógus-munkakör megfelelő végzettséggel és szakképzettséggel rendelkezővel nem tölthető be, a nemzetiségi óvodai nevelésben, a nemzetiségi iskolai nevelésben-oktatásban legfeljebb három évre szóló határozott időre foglalkoztatható az is, aki – a hivatal igazolása alapján – olyan külföldi oklevéllel rendelkezik, amellyel az adott államban pedagógus munkakört betölthet és tanulmányait az adott nemzetiség nyelvén folytatta.
 
 (14) Ha a tantárgy vagy a tantárgyi modul vonatkozásában nincs megfelelő hazai felsőfokú képzés, vagy megfelelő végzettségű és szakképzettségű pedagógussal nem tudják ellátni a feladatot, az iskolában az adott tantárgy, tantárgyi modul tanítására határozatlan időre alkalmazható, valamint az adott tantárgy, tantárgyi modul vonatkozásában az érettségin vizsgáztató tanár lehet az is, aki a Nemzeti alaptantervben az adott pedagógiai szakaszban az érintett műveltségi terület, több műveltségi terület vagy tantárgyi tartalom összevonásával kialakított komplex tantárgy vagy tantárgyi modul esetében az adott komplex tantárgyba, tantárgyi modulba bevont bármely műveltségi terület, tantárgy tanítására feljogosító szakos tanári végzettséggel és szakképzettséggel rendelkezik, valamint
 

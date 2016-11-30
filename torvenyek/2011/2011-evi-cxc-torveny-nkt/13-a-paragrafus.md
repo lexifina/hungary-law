@@ -5,3 +5,5 @@
 (2) A szakiskolában az Országos Képzési Jegyzékben meghatározott szakképesítések körében – a sajátos nevelési igény jellegétől függően – a szakképzési kerettanterv vagy a speciális kerettanterv szerint folyhat szakképzés. A közismereti oktatás a szakiskolában a sajátos nevelési igény jellegéhez igazodó közismereti kerettanterv alapján folyik. A szakmai vizsgára történő felkészítésre vonatkozó további rendelkezéseket a szakképzésről szóló törvény határozza meg.
 
 (3) A szakiskolában az évfolyamok száma a speciális kerettanterv szerint meghatározott.
+
+(4) A szakiskolában a nevelés-oktatás az enyhe értelmi fogyatékos tanulók előkészítő évfolyama kivételével szakképzési évfolyamokon folyik.
