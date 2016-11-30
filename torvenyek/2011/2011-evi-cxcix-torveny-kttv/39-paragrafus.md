@@ -6,7 +6,7 @@ a) büntetlen előéletű,
 
 b) cselekvőképes,
 
-c) legalább középiskolai végzettséggel rendelkező
+c) legalább érettségi végzettséggel rendelkező
 
 magyar állampolgárral létesíthető és tartható fenn. Nem létesíthető kormányzati szolgálati jogviszony azzal, aki állam elleni bűncselekmény [a Büntető Törvénykönyvről szóló 2012. évi C. törvény (a továbbiakban: Btk.) XXIV. Fejezet, illetve a Büntető Törvénykönyvről szóló 1978. évi IV. törvény (a továbbiakban: 1978. évi IV. törvény) X. fejezet], igazságszolgáltatás elleni bűncselekmény (Btk. XXVI. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet VI. cím), korrupciós bűncselekmény (Btk. XXVII. Fejezet) vagy közélet tisztasága elleni, valamint a nemzetközi közélet tisztasága elleni bűncselekmény (1978. évi IV. törvény XV. fejezet VII. és VIII. cím), hivatali bűncselekmény (Btk. XXVIII. Fejezet, illetve az 1978. évi IV. törvény XV. fejezet IV. cím), illetve közbizalom elleni bűncselekmény (Btk. XXXIII. Fejezet, illetve az 1978. évi IV. törvény XVI. fejezet III. cím) miatt indult büntetőeljárás hatálya alatt áll.
 
@@ -96,7 +96,7 @@ a munkáltató a kormánytisztviselő részére más, nemzetbiztonsági ellenőr
 
 a) a kormányzati szolgálati jogviszony létesítését az (1) bekezdésben foglaltakon túlmenően meghatározott iskolai végzettséghez és szakképzettséghez, szakképesítéshez, munkaköri követelményhez, illetve gyakorlati idő letöltéséhez, valamint egészségi és pszichikai alkalmassághoz, továbbá képességhez kötheti,
 
-b) a kizárólag helyszíni hatósági ellenőrzési tevékenység ellátására irányuló kormányzati szolgálati jogviszony létesítéséhez követelményként – a 40. § (2) bekezdésétől eltérően – középiskolai végzettséget is megállapíthat.
+b) a kizárólag helyszíni hatósági ellenőrzési tevékenység ellátására irányuló kormányzati szolgálati jogviszony létesítéséhez követelményként – a 40. § (2) bekezdésétől eltérően – érettségi végzettséget is megállapíthat.
 
 (6a) Nem nevezhető ki kormánytisztviselőnek a 7. § (1) bekezdés a) pontjában meghatározott öregségi nyugdíjra való jogosultsággal rendelkező személy, kivéve ha a Kormány a munkáltató kérelmére hozzájárul a kormánytisztviselő foglalkoztatásához.
 

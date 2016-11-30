@@ -2,9 +2,9 @@
 
 ## Illetménykiegészítés
 
-234. § (1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzési Hatóságnál, az Állambiztonsági Szolgálatok Történeti Levéltáránál és a Nemzeti Emlékezet Bizottságának Hivatalánál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, középiskolai végzettségű köztisztviselő esetében az alapilletményének 15%-a.
+234. § (1) Törvény eltérő rendelkezése hiányában a Gazdasági Versenyhivatalnál, a Nemzeti Adatvédelmi és Információszabadság Hatóságnál, Magyar Tudományos Akadémia Titkárságánál, a Magyar Művészeti Akadémia Titkárságánál, a Közbeszerzési Hatóságnál, az Állambiztonsági Szolgálatok Történeti Levéltáránál és a Nemzeti Emlékezet Bizottságának Hivatalánál az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 50%-a, érettségi végzettségű köztisztviselő esetében az alapilletményének 15%-a.
 
-(2) Az Országgyűlés Hivatalánál, a Köztársasági Elnöki Hivatalnál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalában, az Állami Számvevőszéknél, a Nemzeti Választási Irodánál, a Magyar Energetikai és Közmű-szabályozási Hivatalnál és a Nemzeti Média- és Hírközlési Hatóságnál, valamint az Országgyűlési Őrségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, a középiskolai végzettségű köztisztviselő esetében az alapilletményének 35%-a.
+(2) Az Országgyűlés Hivatalánál, a Köztársasági Elnöki Hivatalnál, az Alkotmánybíróság Hivatalánál, az Alapvető Jogok Biztosának Hivatalában, az Állami Számvevőszéknél, a Nemzeti Választási Irodánál, a Magyar Energetikai és Közmű-szabályozási Hivatalnál és a Nemzeti Média- és Hírközlési Hatóságnál, valamint az Országgyűlési Őrségnél az illetménykiegészítés mértéke a felsőfokú iskolai végzettségű köztisztviselő esetében az alapilletményének 80%-a, a érettségi végzettségű köztisztviselő esetében az alapilletményének 35%-a.
 
 (3) A helyi önkormányzat rendeletben egységesen valamennyi felsőfokú iskolai végzettségű köztisztviselőnek a tárgyévre illetménykiegészítést állapíthat meg, amelynek mértéke a köztisztviselő alapilletményének
 
@@ -14,7 +14,7 @@ b) községi önkormányzatnál legfeljebb 20%-a,
 
 c) az a) és b) pontban nem szereplő önkormányzatnál legfeljebb 30%-a.
 
-(4) A helyi önkormányzat a (3) bekezdés szerint rendeletben illetménykiegészítést állapíthat meg egységesen valamennyi középiskolai végzettségű köztisztviselőnek, amelynek mértéke legfeljebb 20%.
+(4) A helyi önkormányzat a (3) bekezdés szerint rendeletben illetménykiegészítést állapíthat meg egységesen valamennyi érettségi végzettségű köztisztviselőnek, amelynek mértéke legfeljebb 20%.
 
 (5) A (3) és (4) bekezdésben meghatározott illetménykiegészítések egymástól függetlenül is megállapíthatóak.
 

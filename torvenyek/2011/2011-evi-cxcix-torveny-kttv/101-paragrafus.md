@@ -16,7 +16,7 @@ d) főtanácsos besorolásnál kilenc munkanap,
 
 e) vezető-főtanácsos besorolásnál tizenegy munkanap.
 
-(4) A középiskolai végzettségű kormánytisztviselő esetén a pótszabadság mértéke évente
+(4) A érettségi végzettségű kormánytisztviselő esetén a pótszabadság mértéke évente
 
 a) előadó besorolásnál öt munkanap,
 

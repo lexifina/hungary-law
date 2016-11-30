@@ -16,4 +16,4 @@ b) általánostól eltérő teljes napi vagy részmunkaidő esetén: 174 óra id
 
 (6) A tárgyév március 1-jétől a következő év február végéig terjedő időszakra vonatkozó havi illetmény nem haladhatja meg a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset tízszeresét.
 
-(7) A felsőfokú iskolai végzettségű kormánytisztviselőt az I., a középiskolai végzettségű kormánytisztviselőt a II. osztályba kell besorolni (a továbbiakban: besorolási osztály). A besorolási osztály fizetési fokozatokból áll.
+(7) A felsőfokú iskolai végzettségű kormánytisztviselőt az I., a érettségi végzettségű kormánytisztviselőt a II. osztályba kell besorolni (a továbbiakban: besorolási osztály). A besorolási osztály fizetési fokozatokból áll.

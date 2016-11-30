@@ -14,7 +14,7 @@ e) huszonöt év kormányzati szolgálati jogviszonyban töltött idő után vez
 
 besorolást kap.
 
-(3) A középiskolai végzettségű kormánytisztviselő
+(3) A érettségi végzettségű kormánytisztviselő
 
 a) két év gyakornoki besorolásban töltött idő után előadó,
 

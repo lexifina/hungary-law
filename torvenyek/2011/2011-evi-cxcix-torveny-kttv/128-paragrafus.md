@@ -1,4 +1,4 @@
-128. § (1) A hivatali szervezet vezetője a tartósan kiemelkedő munkát végző felsőfokú iskolai végzettségű, közigazgatási szakvizsgával rendelkező kormánytisztviselőnek címzetes vezető-tanácsosi, címzetes főtanácsosi, címzetes vezető-főtanácsosi, a középiskolai végzettségű kormánytisztviselőnek címzetes főmunkatársi címet adományozhat.
+128. § (1) A hivatali szervezet vezetője a tartósan kiemelkedő munkát végző felsőfokú iskolai végzettségű, közigazgatási szakvizsgával rendelkező kormánytisztviselőnek címzetes vezető-tanácsosi, címzetes főtanácsosi, címzetes vezető-főtanácsosi, a érettségi végzettségű kormánytisztviselőnek címzetes főmunkatársi címet adományozhat.
 
 (2) Címzetes vezető-tanácsosi cím a legalább öt, címzetes főtanácsosi cím a legalább tizenkettő, címzetes vezető-főtanácsosi cím a legalább húsz, címzetes főmunkatársi cím a legalább tizennyolc év kormányzati szolgálati jogviszonyban töltött idővel rendelkező kormánytisztviselőnek adományozható.
 
