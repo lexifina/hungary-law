@@ -24,6 +24,12 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: folyamatos
 
+3/A.[^1] felhívja a nemzeti fejlesztési minisztert, hogy az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretében a 3.2 beruházási prioritása keretében kiemelt projekt támogatást igénylőjeként nevesített szervezetekre az 1–3. pontot ne alkalmazza,
+
+Felelős: nemzeti fejlesztési miniszter
+
+Határidő: folyamatos
+
 4. egyetért azzal, hogy a 2014–2020 programozási időszak uniós forrásaiból támogatott projektek esetében a közvetett költségekre meghatározott felső forráskorláton belül a forrás rugalmasan felhasználható legyen a szükséges intézkedésekre (különösen: területszerzés, régészet), a munkák elszámolható költségeire vonatkozó további megkötés nélkül;
 
 5. egyetért azzal, hogy a 2014–2020 programozási időszak operatív programjainak éves fejlesztési keretében nevesített kiemelt projektek indikatív támogatási összege módosításának megkönnyítése vagy az éves fejlesztési keret kormányhatározat részéből való törlésének lehetősége kerüljön megteremtésre;
@@ -63,3 +69,5 @@ Határidő: azonnal
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
+
+[^1]: A 3/A. pontot az 1691/2016. (XI. 29.) Korm. határozat 3. pontja iktatta be.
