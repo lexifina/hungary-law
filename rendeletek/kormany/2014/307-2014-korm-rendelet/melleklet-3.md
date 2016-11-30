@@ -14,7 +14,7 @@
 
 ## 7. útügyi hatósági eljárások,
 
-## 8.[^3] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
+## 8.[^5] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
 
 ## 9. hírközlési hatósági eljárások,
 
@@ -36,9 +36,13 @@
 
 ## 18. közegészségügyi hatósági eljárások,
 
-## 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések esetleges módosítására irányuló hatósági eljárások.
+## 19.[^6] víziközmű-szolgáltatással összefüggő hatósági eljárások (víziközmű-szolgáltatói engedély kiadása, működési engedély kiadása, Gördülő Fejlesztési Terv jóváhagyása),
 
-3. melléklet a 307/2014. (XII. 5.) Korm. rendelethez[^4]
+## 20.[^7] az 1–19. pontokban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^3]: A 2. melléklet 8. pontja a 72/2015. (III. 30.) Korm. rendelet 101. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
-[^4]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+3. melléklet a 307/2014. (XII. 5.) Korm. rendelethez[^8]
+
+[^5]: A 2. melléklet 8. pontja a 72/2015. (III. 30.) Korm. rendelet 101. § (1) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^6]: A 2. melléklet 19. pontja a 370/2016. (XI. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^7]: A 2. melléklet 20. pontját a 370/2016. (XI. 29.) Korm. rendelet 7. §-a iktatta be.
+[^8]: A 3. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
