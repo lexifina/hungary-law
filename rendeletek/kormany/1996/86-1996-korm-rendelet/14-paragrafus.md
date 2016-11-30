@@ -70,6 +70,11 @@ c) (az európai lőfegyvertartási engedély vonatkozásában) az európai fegyv
 
 d) (a mozgásában korlátozott személy parkolási igazolványa vonatkozásában) a mozgásában korlátozott személy parkolási igazolványáról szóló, 1998. június 4-i 98/376/EK tanácsi ajánlással
 
+## összeegyeztethető rendelkezéseket tartalmaz.
+
+(5)[^45] E rendelet 1. számú melléklet III. rész 1.78/a. pontja a hatástalanított tűzfegyverek végleges működésképtelenségét biztosító hatástalanítási előírásokra és technikákra vonatkozó közös iránymutatások meghatározásáról szóló, 2015. december 15-i, 2015/2403 bizottsági rendelet végrehajtásához szükséges rendelkezéseket állapít meg.
+
 [^42]: A 14. §-t megelőző alcímet a 235/2007. (IX. 4.) Korm. rendelet 10. §-a iktatta be.
 [^43]: A 14. §-t a 235/2007. (IX. 4.) Korm. rendelet 10. §-a iktatta be, szövege a 145/2011. (VII. 27.) Korm. rendelet 10. §-ával megállapított szöveg.
 [^44]: A 14. § (3) bekezdés f) pontját a 145/2011. (VII. 27.) Korm. rendelet 11. §-a iktatta be.
+[^45]: A 14. § (5) bekezdését a 371/2016. (XI. 29.) Korm. rendelet 23. §-a iktatta be.
