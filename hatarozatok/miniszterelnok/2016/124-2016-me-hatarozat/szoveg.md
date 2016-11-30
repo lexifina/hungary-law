@@ -4,4 +4,6 @@ a) Glattfelder Bélát a Gazdaságfejlesztési Operatív Program monitoring bizo
 
 b) Rákossy Balázst, a Nemzetgazdasági Minisztérium európai uniós források felhasználásáért felelős államtitkárát a Gazdaságfejlesztési Operatív Program monitoring bizottsága elnökévé – 2016. szeptember 15-ei hatállyal – kinevezem.
 
-2. Visszavonom a 2007–2013 programozási időszak egyes operatív programjai monitoring bizottsági elnökeinek felmentéséről és új elnökök kinevezéséről szóló 112/2014. (IX. 16.) ME határozat 1. pontjában a „Glattfelder Bélát, a Nemzetgazdasági Minisztérium gazdaságszabályozásért felelős államtitkárát a Gazdaságfejlesztési Operatív Program Monitoring Bizottsága,” szövegrészt.
+2.[^1]
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
