@@ -1,8 +1,9 @@
-15/A. §[^71] (1) A közalkalmazottat – a (2) bekezdésben foglalt kivétellel – a besorolása alapján ágazati pótlék illeti meg, melynek mértékét az 5. számú melléklet tartalmazza.
+15/A. §[^71] (1) A közalkalmazottat – a (2) bekezdésben foglalt kivétellel – a fizetési osztálya és a közalkalmazotti jogviszonyban töltött ideje alapján szociális ágazati összevont pótlék illeti meg, melynek összegét az 5. számú melléklet tartalmazza.
 
-(2)[^72] Nem illeti meg az ágazati pótlék a 2/a. számú melléklet szerinti pedagógus munkakörben foglalkoztatott közalkalmazottat.
+(2) Nem illeti meg szociális ágazati összevont pótlék a 2/a. számú melléklet szerinti pedagógus munkakörben foglalkoztatott közalkalmazottat.
 
-(3) Az ágazati pótlékot nem kell figyelembe venni az adó- és járulékváltozások ellentételezésére szolgáló, a közalkalmazottat megillető, kormányrendeletben meghatározott kompenzációra való jogosultság és a kompenzáció összegének számítása tekintetében.
+(3) A szociális ágazati összevont pótlékot nem kell figyelembe venni az adó- és járulékváltozások ellentételezésére szolgáló, a közalkalmazottat megillető, kormányrendeletben meghatározott kompenzációra való jogosultság és a kompenzáció összegének számítása tekintetében.
 
-[^71]: A 15/A. §-t a 19/2014. (II. 3.) Korm. rendelet 1. §-a iktatta be.
-[^72]: A 15/A. § (2) bekezdése a 34/2014. (II. 18.) Korm. rendelet 12. §-ával megállapított, a 418/2015. (XII. 23.) Korm. rendelet 9. § d) pontja, a 244/2016. (VIII. 17.) Korm. rendelet 1. § h) pontja szerint módosított szöveg.
+(4) A szociális ágazati összevont pótlék tekintetében közalkalmazotti jogviszonyban töltött időnek a fizetési fokozat megállapításának alapjául szolgáló időt kell tekinteni. A közalkalmazott 5. számú mellékletben foglalt táblázat szerinti, a közalkalmazotti jogviszonyban töltött idő alapján történő besorolása minden megkezdett évre tekintettel a tárgyév első napján történik.
+
+[^71]: A 15/A. §-t a 19/2014. (II. 3.) Korm. rendelet 1. §-a iktatta be, szövege a 116/2016. (VI. 6.) Korm. rendelet – 244/2016. (VIII. 17.) Korm. rendelet 8. §-a szerint módosított – 12. §-ával megállapított szöveg.
