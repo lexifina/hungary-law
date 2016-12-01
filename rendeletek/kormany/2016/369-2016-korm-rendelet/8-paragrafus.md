@@ -1,3 +1,3 @@
-## 7. § Az R. 2. alcíme a következő 3/A. §-sal egészül ki:
+## 7. §[^6]
 
-## „3/A. § A Kormány az elektronikus hírközlésről szóló 2003. évi C. törvény 83. § (3a) bekezdése szerinti egyablakos információs pontként az e-közműt üzemeltető szervezetet jelöli ki.”
+[^6]: A 7. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
