@@ -16,7 +16,7 @@
 
 | bizottsági tag | bizottsági tag |
 
-24. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^194]
+24. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^215]
 
 I. A 258/2012/EU rendeletben meghatározott kiviteli engedély iránti kérelem kötelező tartalma:
 
@@ -74,4 +74,4 @@ II. A 258/2012/EU rendeletben meghatározott kiviteli engedély iránti kérelem
 
 2. a fogadó (végfelhasználó) harmadik ország illetékes hatósága által kiállított engedély hiteles másolata arról, hogy a kérelemben megjelölt eszköz behozatalát – az érvényességi idő megjelölésével – engedélyezi.
 
-[^194]: A 24. számú mellékletet a 441/2013. (XI. 20.) Korm. rendelet 5. §-a iktatta be.
+[^215]: A 24. számú mellékletet a 441/2013. (XI. 20.) Korm. rendelet 5. §-a iktatta be.

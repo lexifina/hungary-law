@@ -1,6 +1,6 @@
 ## 9. § A fegyver és lőszer gyártását, az elkészített alkatrészek összeszerelését végző személynek és a személyt közvetlenül irányító, felügyelő vagy ellenőrző személynek gyártásra jogosító szakképzettséggel kell rendelkeznie. Ennek igazolása az engedély kiadásának feltétele.
 
-10. § (1)[^25] A fegyver
+10. § (1)[^27] A fegyver
 
 a) forgalmazását vagy javítását végző személy szakképzettségeként, szakképesítéseként előírt képesítésnek kell tekinteni
 
@@ -28,17 +28,17 @@ ak) forgalmazási tevékenység esetén a megyei (fővárosi) rendőr-főkapitá
 
 b) gyártását végző személy szakképesítéseként, végzettségeként előírt képesítésnek kell tekinteni az a) pont af), ag) és aj) alpontjában meghatározott képesítést, valamint a gépgyártás-technológia szakon végzett okleveles gépészmérnök, illetve gépészmérnök szakképzettséget.
 
-(2)[^26] A fegyverforgalmazási vizsga eredményéről a megyei (fővárosi) rendőr-főkapitányság bizonyítványt ad ki. A vizsgakérdéseket és szabályait a 10. számú melléklet, a vizsgabizonyítvány formáját és tartalmát a 11. számú melléklet tartalmazza.
+(2)[^28] A fegyverforgalmazási vizsga eredményéről a megyei (fővárosi) rendőr-főkapitányság bizonyítványt ad ki. A vizsgakérdéseket és szabályait a 10. számú melléklet, a vizsgabizonyítvány formáját és tartalmát a 11. számú melléklet tartalmazza.
 
-(3)[^27] A vizsgabizottság tagjait a megyei (fővárosi) rendőrfőkapitány jelöli ki, egy tagjának az (1) bekezdés a) pont aa) alpontjában, ac) alpontjában, af) alpontjában, ag) alpontjában, ah) vagy ai) alpontjában meghatározott képesítéssel vagy igazságügyi fegyverszakértői képesítéssel kell rendelkeznie.
+(3)[^29] A vizsgabizottság tagjait a megyei (fővárosi) rendőrfőkapitány jelöli ki, egy tagjának az (1) bekezdés a) pont aa) alpontjában, ac) alpontjában, af) alpontjában, ag) alpontjában, ah) vagy ai) alpontjában meghatározott képesítéssel vagy igazságügyi fegyverszakértői képesítéssel kell rendelkeznie.
 
-(4)[^28] A fegyverforgalmazási vizsga letételére kell kötelezni azt a személyt, akinek az engedélyét az 5. § (1) bekezdés b) pontja alapján vonták vissza.
+(4)[^30] A fegyverforgalmazási vizsga letételére kell kötelezni azt a személyt, akinek az engedélyét az 5. § (1) bekezdés b) pontja alapján vonták vissza.
 
 (5) A vizsgabizonyítványt a vizsga napján kell kiállítani és a vizsgázónak átadni.
 
 (6) A fegyverforgalmazási vizsgáért díjat kell fizetni.
 
-[^25]: A 10. § (1) bekezdése az 54/2015. (III. 17.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^26]: A 10. § (2) bekezdésének első mondata a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának m) pontja szerint módosított szöveg.
-[^27]: A 10. § (3) bekezdése az 54/2015. (III. 17.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^28]: A 10. § (4) bekezdése a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^27]: A 10. § (1) bekezdése az 54/2015. (III. 17.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^28]: A 10. § (2) bekezdésének első mondata a 97/2008. (IV. 29.) Korm. rendelet 5. §-ának m) pontja szerint módosított szöveg.
+[^29]: A 10. § (3) bekezdése az 54/2015. (III. 17.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^30]: A 10. § (4) bekezdése a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.

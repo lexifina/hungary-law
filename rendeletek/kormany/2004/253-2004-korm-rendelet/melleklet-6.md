@@ -1,20 +1,32 @@
-## Sorszám: ..................
+## Sorszám:………………
 
-## LŐFEGYVER GYÁRTÁS KÉSZLETREVÉTELI JELENTŐLAPJA
+## LŐFEGYVER GYÁRTÓ KÉSZLETREVÉTELI JELENTŐLAPJA
 
-## Statisztikai jel: □□□□□□□□ Gyártó megnevezése: ................................................................................................................................................................................
+## Statisztikai jel: …………… Gyártó megnevezése: ………………………………………………………………………………………………
 
-## Tevék. helye: □□□□
+## Tevék. helye:……………………………………………………………… Gyárt.eng.sz.: ………/ 1- ………………../…….………/2……...
 
-## Gyárt. eng. sz.: ............./1- ..................../................/2........................................................................................................................................................................................
+## Eladó statisztikai jele: ……………… Megnevezése: …………………………………………………………………………………………………..
 
-## .......... db fegyver azonosító adatai a következők
+## Tevék. helye: ……………………………………………………………….. Eladó ker.eng.sz.:………../1-…..……..……/……………/2………
 
-| Darab | Fajta/ jelleg | Kat. | Gyártó | Típus | Gyártási szám | Kaliberjel |
+## Külföldi beszerzés esetén származási ország: ……………………………………Beh.eng.sz: .:………/1-……..……..……/……………/2…………
+
+## Eladó/Kereskedelmi meghatalmazott családi és utóneve: …………………………………………………………………………………………………
+
+## Születési hely, idő: …………………………………………………………. Államp.: ………………….………… ország: …………………………………..
+
+## Lakóhelye (irányítószámmal): ……………………………………………………………………………………………………………………………………..
+
+## Személyazonosságot igazoló igazolvány típusa: ....................... száma: ...................................... Engedélyt kiállító hatóság megnev.: …………………………
+
+## Lőfegyver/lőszer, csappantyú, lőpor azonosító adatai a következők
+
+| Darab Mennyiség | Fajta/ jelleg | Kat. | Gyártó | Típus | Gyártási szám | Kaliberjel |
 
 | 1 | 2 | 3 |
 
-| Kelt: ...................................................... ................ év ............................................ hó ............. nap P. H. ......................................................................................... cégszerű aláírás |
+| Kelt: ……………………………………………. …………év …………. hó ………nap P.H. …………………………………………………………………………. cégszerű aláírás |
 
 ## Kitöltési tájékoztató
 
@@ -26,25 +38,29 @@
 
 ## Tevék. helye: gyártási engedélyben szereplő működési hely.
 
-## Gy. eng. sz.: a gyártási engedély száma (a rendőrségi határozat iktatószáma).
+## Gy.eng.sz.: a gyártási engedély száma (a rendőrségi határozat iktatószáma).
 
-## Vevő statisztikai jele: a vevő statisztikai törzsszáma, ha azzal nem rendelkezik, akkor az adószámának első nyolc számjegye.
+## Eladó statisztikai jele: az eladó statisztikai törzsszáma, ha azzal nem rendelkezik, akkor az adószámának első nyolc számjegye.
 
-## Megnevezése: a vevő forgalmazási engedélyében szereplő megnevezés.
+## Megnevezése: az eladó forgalmazási engedélyében szereplő megnevezés.
 
-## Vevő ker. eng. sz.: a vevő forgalmazási engedélyének száma (a rendőrségi határozat iktatószáma).
+## Eladó ker.eng.sz.: az eladó forgalmazási engedélyének száma (a rendőrségi határozat iktatószáma).
 
-## Darab: az azonos fajtájú, kategóriájú, gyártójú és kaliberjelű, folyamatos gyártási számú fegyverek két egymást követő sorban is megadhatók. Ha a darabszám 1-nél nagyobb, akkor az első sorban kell kitölteni a darab, fajta, kat., gyártó, a kezdő gyártási szám, kaliberjel adatokat, majd a következő sorban csak az utolsó gyártási számot kell megadni.
+## Eladó/kereskedelmi meghatalmazott adatai: a lőfegyvert átadó személy felsorolt adatai.
+
+## Darab: az azonos fajtájú, kategóriájú, gyártójú és kaliberjelű, folyamatos gyártási számú fegyverek két egymást követő sorban is megadhatók. Ha a darab szám 1-nél nagyobb, akkor az első sorban kell kitölteni a darab, fajta, kat., gyártó, a kezdő gyártási szám, kaliberjel adatokat, majd a következő sorban csak az utolsó gyártási számot kell megadni.
 
 ## Figyelem! Amennyiben a mező nincs kitöltve, akkor az automatikusan 1 darabot jelent.
+
+## Mennyiség: Lőszer, csappantyú esetében darabszám, lőpor esetében kg.
 
 ## Fajta:
 
 ## fegyver esetén a fajta mező tartalma lehet:
 
-## T: tűzfegyver
+## T : tűzfegyver
 
-## L: 7,5 joule csőtorkolati energia feletti légfegyver
+## L : 7,5 joule csőtorkolati energia feletti légfegyver
 
 ## fődarab esetén a fajta mező tartalma lehet:
 
@@ -60,16 +76,20 @@
 
 ## K: tokszerkezet
 
-## lőszer esetén a fajta mező tartalma: R
+## lőszer esetén R, csappantyú esetén: C, lőpor esetén: P
 
-## Kat.: az adott fegyver kategória besorolása a fegyvertörvény mellékletében szereplő tűzfegyver kategória meghatározások alapján. Figyelem! A betűjel után szóköz kihagyása nélkül a sorszámot is be kell írni. Pl. C3
+## Jelleg: S: sörétes, G: golyós, M: marok (rövid), F: 7,5 joule vagy annál kisebb csőtorkolati energiájú flóbert.
+
+## Kat.: Az adott fegyver kategória besorolása a fegyvertörvény mellékletében szereplő tűzfegyver kategória meghatározások alapján. Figyelem ! A betűjel után szóköz kihagyása nélkül a sorszámot is be kell írni. Pl. C3
 
 ## Gyártó: a gyártási engedéllyel rendelkezőnek a rendőrség által segédletként kiadott gyártói kódszótárban szereplő neve.
 
-## Típus: a gyártó által megjelölt, a fegyver szemlézési vagy bevizsgálási tanúsítványában szereplő adat.
+## Típus: A gyártó által megjelölt, a fegyver szemlézési, vagy bevizsgálási tanúsítványában szereplő adat.
 
-## Gyártási szám: a fegyver fődarabjaiban lévő szám- és betűjelekből álló azonosító jel. Figyelem! Csak a különböző azonosító jeleket kell feltüntetni, egymástól „/” jellel elválasztva a következő sorrendben: tokszám/csőszám(ok)/zárszám/dobszám. Amennyiben a fegyver rendelkezik szemlézési vagy bevizsgálási tanúsítvánnyal, az abban szereplő gyártási számot kell megadni.
+## Gyártási szám: a fegyver fődarabjaiban lévő szám- és betűjelekből álló azonosító jel. Figyelem! Csak a különböző azonosító jeleket kell feltüntetni, egymástól „/” jellel elválasztva a következő sorrendben: tokszám/csőszám(ok)/zárszám/dobszám. Amennyiben a fegyver rendelkezik szemlézési, vagy bevizsgálási tanúsítvánnyal, az abban szereplő gyártási számot kell megadni. Lőszer esetén a gyártói azonosítószámot kell feltüntetni.
 
-## Kaliberjel: a hivatalos, a fegyver szemlézési vagy bevizsgálási tanúsítványán szereplő CIP kaliberjelet kell feltüntetni, csövenként felsorolva.
+## Kaliber jel: a hivatalos, a fegyver szemlézési, vagy bevizsgálási tanúsítványán szereplő CIP kaliberjelet kell feltüntetni, csövenként felsorolva.
 
-6. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez
+6. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^196]
+
+[^196]: A 6. számú melléklet a 371/2016. (XI. 29.) Korm. rendelet 21. § b) pontjával megállapított szöveg.

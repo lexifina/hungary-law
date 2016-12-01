@@ -8,7 +8,8 @@
 
 a) az engedélyben megjelölt eszköz megszerzését követően kiállítja az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában meghatározott engedély meglétét igazoló hatósági igazolványt, továbbá
 
-b) a jogszerű megszerzést igazoló dokumentum alapján intézkedik az Ftv. 3. § (4) bekezdése szerint megszerzett eszköznek a tartására jogosító engedély meglétét igazoló hatósági igazolványba történő bejegyzése iránt.
+b)[^3] a jogszerű megszerzést igazoló dokumentum alapján intézkedik az Ftv. 3. § (3) bekezdése szerint megszerzett eszköznek a tartására jogosító engedély meglétét igazoló hatósági igazolványba történő bejegyzése iránt.
 
 [^1]: Az 1. §-t a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 1. pontja hatályon kívül helyezte.
 [^2]: A 2. § a 39/2012. (III. 12.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^3]: A 2. § b) pontja a 371/2016. (XI. 29.) Korm. rendelet 22. § a) pontja szerint módosított szöveg.

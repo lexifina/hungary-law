@@ -1,28 +1,38 @@
-26. § (1)[^64] E rendelet eltérő rendelkezése hiányában lőfegyver tartására engedély csak akkor adható, ha a kérelmező személy
+26. § (1)[^67] E rendelet eltérő rendelkezésének hiányában
 
-a)[^65]
+a) a lőfegyver tartására jogosító engedély abban az esetben adható meg, ha a kérelmező
 
-b)[^66] a jogszabályban meghatározottak szerint a lőfegyver biztonságos használatához előírt egészségi alkalmasságát igazolja;
+aa) a jogszabályban meghatározottak szerint a lőfegyver biztonságos használatához előírt egészségi alkalmasságát igazolja,
 
-c)[^67] a jogszabályban meghatározottak szerint a lőfegyver tartásához szükséges elméleti ismereteket és gyakorlati jártasságát igazoló vizsgát tesz és a vizsgabizottság megítélése szerint a lőfegyver biztonságos kezelésére és használatára képes;
+ab) a jogszabályban meghatározottak szerint a lőfegyver tartásához szükséges elméleti ismereteket és gyakorlati jártasságát igazoló vizsgát tesz, és a vizsgabizottság megítélése szerint a lőfegyver biztonságos kezelésére és használatára képes, továbbá
 
-d) a lőfegyver, lőszer tárolásának e rendeletben meghatározott feltételeivel rendelkezik.
+ac) rendelkezik a lőfegyver, lőszer tárolásának az e rendeletben meghatározott feltételeivel;
 
-(2) Az (1) bekezdés c) pontjában meghatározott vizsgáért díjat kell fizetni.
+b) az elöltöltő fegyver vadászati célú használatára jogosító engedély abban az esetben adható meg, ha a kérelmező
+
+ba) a jogszabályban meghatározottak szerint az elöltöltő fegyver biztonságos használatához előírt egészségi alkalmasságát igazolja,
+
+bb) a jogszabályban meghatározottak szerint az elöltöltő fegyver vadászati célú használatához szükséges elméleti ismereteket és gyakorlati jártasságát igazoló vizsgát tesz, és a vizsgabizottság megítélése szerint az elöltöltő fegyver vadászati célú biztonságos használatára képes, és
+
+bc) rendelkezik a lőszerelem tárolásának az e rendeletben meghatározott feltételeivel.
+
+(2)[^68] Az (1) bekezdés a) pont ab) alpontjában, illetve az (1) bekezdés b) pont bb) alpontjában meghatározott vizsgáért díjat kell fizetni.
 
 (3) E rendelet eltérő rendelkezése hiányában hosszú lőfegyver tartásához szükséges elméleti és gyakorlati jártasságot igazoló vizsgát az elméleti és gyakorlati részből álló, az Országos Rendőr-főkapitányság által kijelölt vizsgabizottsági tag részvételével tartott Állami Vadászvizsga helyettesíti.
 
 (4) E rendelet eltérő rendelkezése hiányában a sportlőfegyver tartásához szükséges elméleti és gyakorlati jártasságot igazoló vizsgát a sportlövő versenybírák esetében a Versenybírói Igazolvány, a sportlövő edzők esetében az Edzői Oklevél helyettesíti.
 
-(5)[^68] E rendelet eltérő rendelkezése hiányában a rendőrség, a nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség, a büntetés-végrehajtás hivatásos és a Magyar Honvédség hivatásos és szerződéses állományú tagjának lőfegyver tartása az (1) bekezdés b) pontja szerinti feltétel hiányában is engedélyezhető.
+(5)[^69] E rendelet eltérő rendelkezésének hiányában a rendőrség, a nemzetbiztonsági szolgálatok, a Nemzeti Adó- és Vámhivatal, az Országgyűlési Őrség, a büntetés-végrehajtás hivatásos és a Magyar Honvédség hivatásos és szerződéses állományú tagja számára lőfegyver tartása az (1) bekezdés a) pont aa) alpontja szerinti feltétel hiányában is engedélyezhető, ha a kérelmező a munkáltatónak a 17. számú melléklet szerinti kérelem megfelelő kitöltése útján megtett nyilatkozata alapján a hivatásos, illetve a katonai szolgálatra egészségi és pszichikai szempontból alkalmas. A hivatásos, illetve a katonai szolgálatra való alkalmatlanság megállapítása esetén a munkáltató – ha a lőfegyvertartás hatóság általi engedélyezéséről hivatalos tudomással bír – köteles e körülményről az engedélyt megadó hatóságot haladéktalanul írásban tájékoztatni.
 
 (6) Az Európai Unió más tagállamában lakóhellyel rendelkező személy részére lőfegyver tartása akkor engedélyezhető, ha a lakóhely szerinti tagállam illetékes hatósága ezzel előzetesen egyetértett.
 
-(7)[^69] A 26. § (1) bekezdésének c) pontja szerinti vizsga letételére kell kötelezni a lőfegyver tartására jogosító engedély megadását kérelmező személyt, ha lőfegyvertartási engedélyét az 5. § (1) bekezdés b) pontja alapján vonták vissza.
+(7)[^70] Ha engedélyét az 5. § (1) bekezdés b) pontja alapján vonták vissza,
 
-[^64]: A 26. § (1) bekezdés nyitó szövegrésze a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 8. pontja szerint módosított szöveg.
-[^65]: A 26. § (1) bekezdés a) pontját a 21/2010. (II. 9.) Korm. rendelet 2. § (2) bekezdése hatályon kívül helyezte. E módosító rendelet 2. § (1) bekezdése alapján a rendelkezést a folyamatban lévő ügyekben is alkalmazni kell.
-[^66]: A 26. § (1) bekezdés b) pontja a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés e) pontja, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 8. pontja szerint módosított szöveg.
-[^67]: A 26. § (1) bekezdés c) pontja a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^68]: A 26. § (5) bekezdése a 39/2012. (III. 12.) Korm. rendelet 11. §-ával megállapított, a 416/2012. (XII. 29.) Korm. rendelet 12. §-a szerint módosított szöveg.
-[^69]: A 26. § (7) bekezdése a 67/2010. (III. 18.) Korm. rendelet 9. § (2) bekezdés b) pontja, a 39/2012. (III. 12.) Korm. rendelet 29. § (1) bekezdés 10. pontja szerint módosított szöveg.
+a) az (1) bekezdés a) pont ab) alpontja szerinti vizsga letételére kell kötelezni a lőfegyver tartására, vagy
+
+b) az (1) bekezdés b) pont bb) alpontja szerinti vizsga letételére kell kötelezni az elöltöltő fegyver vadászati célú használatára
+
+[^67]: A 26. § (1) bekezdése a 371/2016. (XI. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^68]: A 26. § (2) bekezdése a 371/2016. (XI. 29.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^69]: A 26. § (5) bekezdése a 371/2016. (XI. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^70]: A 26. § (7) bekezdése a 371/2016. (XI. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

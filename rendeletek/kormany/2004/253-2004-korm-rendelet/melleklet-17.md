@@ -48,4 +48,6 @@
 
 ## aláírás/signature
 
-17. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez
+17. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^208]
+
+[^208]: A 17. számú melléklet a 371/2016. (XI. 29.) Korm. rendelet 21. § e) pontjával megállapított szöveg.

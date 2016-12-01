@@ -1,4 +1,4 @@
-| Iktatószám: |  |  |  | /1- |  |  |  |  |  |  | / |  |  |  |  | / |  |  |  |  |
+| Iktatószám: |  |  |  | /1- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 ## KÉRELEM
 
@@ -6,9 +6,7 @@
 
 ## Golyós lőfegyver
 
-## Marok lőfegyver
-
-## Gumilövedékes maroklőfegyver
+## Rövid lőfegyver
 
 ## Légfegyver 7,5 joule feletti
 
@@ -16,50 +14,54 @@
 
 ## Gáz- és riasztófegyver
 
-## …………………………………… célból történő megszerzésére és tartására (viselésére) szóló engedély
+## Elöltöltő fegyver
 
-## kiadásához / megújításához. (A kívánt rész aláhúzandó.)
+## .......................................... célból történő tartására (viselésére) / használatára jogosító engedély megadásához / megújításához. (A kívánt rész aláhúzandó.)
 
-## Személyi azonosító:
+|  | Személyi azonosító: |
 
 | KÉRELMEZŐ SZEMÉLYI ADATAI |  |  |  |  |  |  |  |  |  |  |  |
 
-## Családi és utónév:
+## Családi és utónév: .......................................................................................................................
 
-## Születési név:
+## Születési név: ..............................................................................................................................
 
-## Születési hely, idő:
+## Születési hely, idő: ......................................................................................................................
 
-## Anyja születési neve:
+## Anyja születési neve: ..................................................................................................................
 
-## Személyazonosságot igazoló igazolvány típusa:
+## Személyazonosságot igazoló igazolvány típusa: .......................................................................
 
-## száma:
+## száma:............................................................
 
-## Foglalkozás:
+## Foglalkozás: ................................................................................................................................
 
-## Állampolgárság: ……………………………… Ország:
+## Állampolgárság: .................................... Ország: .......................................................................
 
-## Lakóhely:
+## Lakóhely:.....................................................................................................................................
 
-## Fegyvertárolás helye:
+## Fegyvertárolás helye: ..................................................................................................................
 
-## Munkáltató neve és címe:
+## Munkáltató neve és címe: ...........................................................................................................
 
-## Kelt: .................................., ........... év .......................... hó ............... nap.
+## Kelt: .................................., ...........év..........................hó...............nap
 
-## …………………………………...
+## .......................................
 
 ## kérelmező aláírása
 
-## A kérelem teljesítéséhez szükséges törvényes feltételek meglétének igazolása:
+## A kérelem teljesítéséhez szükséges törvényes feltételek meglétének igazolása:*
 
 ## P. H.
 
-## ………………………………………….
+## .........................................................
 
 ## munkáltató vagy egyesület elnöke
 
-## A MEGÚJÍTÁS KIVÉTELÉVEL FEGYVERENKÉNT KÜLÖN KÉRELMET KELL BENYÚJTANI !
+## *A munkáltató vagy egyesület elnökének javaslatát csak a foglalkoztatáshoz kapcsolódó lőfegyver engedélyezése esetén, vagy a 26. § (5) bekezdése szerinti esetben kell kitölteni.
 
-18. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez
+## A MEGÚJÍTÁS, VALAMINT AZ ELÖLTÖLTŐ FEGYVER KIVÉTELÉVEL FEGYVERENKÉNT KÜLÖN KÉRELMET KELL BENYÚJTANI!
+
+18. számú melléklet a 253/2004. (VIII. 31.) Korm. rendelethez[^209]
+
+[^209]: A 18. számú melléklet a 371/2016. (XI. 29.) Korm. rendelet 21. § f) pontjával megállapított szöveg.

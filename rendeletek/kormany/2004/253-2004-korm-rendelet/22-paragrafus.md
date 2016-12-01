@@ -1,4 +1,4 @@
-## 22. §[^55] Lőfegyver, lőszer tartása munkavégzési célra
+## 22. §[^58] Lőfegyver, lőszer tartása munkavégzési célra
 
 a) lőfegyver-kereskedő egyéni vállalkozónak, lőszerpróbára;
 
@@ -6,7 +6,7 @@ b) lőtér üzemeltetésére engedéllyel rendelkező egyéni vállalkozónak, a
 
 c) igazságügyi fegyverszakértőnek feladatköréhez kapcsolódóan;
 
-d)[^56] és annak a személynek engedélyezhető, akinek a foglalkozása gyakorlásához a szolgálati lőfegyver tartását törvény írja elő.
+d)[^59] és annak a személynek engedélyezhető, akinek a foglalkozása gyakorlásához a szolgálati lőfegyver tartását törvény írja elő.
 
-[^55]: A 22. § nyitó szövegrésze a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 4. pontja szerint módosított szöveg.
-[^56]: A 22. § d) pontja a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^58]: A 22. § nyitó szövegrésze a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 4. pontja szerint módosított szöveg.
+[^59]: A 22. § d) pontja a 39/2012. (III. 12.) Korm. rendelet 29. § (2) bekezdés 3. pontja szerint módosított szöveg.
