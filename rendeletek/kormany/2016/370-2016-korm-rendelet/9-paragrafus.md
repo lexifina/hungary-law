@@ -1,3 +1,0 @@
-## 8. § A 2003. évi uniós csatlakozási szerződésben rögzített egyes derogációkkal kapcsolatos kötelezettségek teljesítésére irányuló egyes beruházásokkal összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 28/2016. (II. 25.) Korm. rendelet [a továbbiakban: 28/2016. (II. 25.) Korm. rendelet] a következő 5. §-sal egészül ki:
-
-## „5. § E rendeletnek a víziközmű ágazatot érintő európai uniós derogációkkal kapcsolatos kötelezettségek teljesítését elősegítő egyes Korm. rendeletek módosításáról szóló 370/2016. (XI. 29.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”

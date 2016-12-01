@@ -1,3 +1,0 @@
-## 6. § Az egyes ivóvízminőségjavítási, szennyvízelvezetési és -tisztítási beruházásokkal összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 307/2014. (XII. 5.) Korm. rendelet [a továbbiakban: 307/2014. (XII. 5.) Korm. rendelet] a következő 4. §-sal egészül ki:
-
-## „4. § E rendeletnek a víziközmű ágazatot érintő európai uniós derogációkkal kapcsolatos kötelezettségek teljesítését elősegítő egyes Korm. rendeletek módosításáról szóló 370/2016. (XI. 29.) Korm. rendelettel (a továbbiakban: Módr.) megállapított rendelkezéseit a Módr. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
