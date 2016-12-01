@@ -1,89 +1,386 @@
+## Szakmai képesítések szintjei az alkalmazó szerveknél szakterületenként és szolgálati beosztások vagy munkakörök szerint
+
+## 1. A hivatásos katasztrófavédelmi szervek tagjainak és a katasztrófa- és tűzvédelmi szakmai képesítést nyújtó oktatási intézmények oktatást, képzést, vizsgáztatást végző tagjaira, valamint azok szakmai felügyeletét végző személyekre vonatkozóan
+
+## 1.1. A katasztrófavédelmi és polgári védelmi szakterület
+
+## 1.1.1. Alapszintű:
+
+## a) katasztrófavédelmi alapismereti tanfolyami végzettség;
+
+## b) katasztrófavédelmi előadó szakképesítés vagy
+
+## c) katasztrófavédelmi szakelőadó szakképesítés.
+
+## 1.1.2. Középszintű:
+
+## a) katasztrófavédelmi főelőadó szakképesítés-ráépülés;
+
+## b) katasztrófa- és polgári védelmi főelőadó szakképesítés-ráépülés vagy
+
+## c) katasztrófavédelmi referens szakképesítés-ráépülés.
+
+## 1.1.3.[^19] Felsőszintű:
+
+## 1. rendészeti szervező szakképesítés, katasztrófavédelmi szervező szakmairány;
+
+## 2. rendészeti szervező szakképesítés, tűzvédelmi szervező szakmairány;
+
+## 3. rendészeti szervező szakképesítés, iparbiztonsági szervező szakmairány;
+
+## 4. rendészeti szervező szakképesítés, katasztrófavédelmi és polgári védelmi szervező szakképesítés-elágazás;
+
+## 5. rendészeti szervező szakképesítés, tűzoltó szervező szakképesítés-elágazás;
+
+## 6. katasztrófavédelmi szakirányú felsőoktatási szakképzés;
+
+## 7. építőmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
+
+## 8. építészmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
+
+## 9. rendészeti igazgatás alapképzési szak, katasztrófavédelmi szakirány;
+
+## 10. rendészeti igazgatási alapképzési szak, katasztrófavédelmi szakirány tűzvédelmi specifikáció;
+
+## 11. védelmi igazgatási alapképzési szak, katasztrófavédelmi szakirány;
+
+## 12. védelmi igazgatási alapképzési szak, tűzvédelmi és tűzoltó szakirány;
+
+## 13. had- és biztonságtechnikai mérnöki alapképzési szak műszaki, katasztrófavédelmi, közlekedési (katasztrófavédelmi specializáció) vagy biztonságtechnikai szakirány;
+
+## 14. had- és biztonságtechnikai mérnöki alapképzési szak, tűzvédelmi szakirány;
+
+## 15. katasztrófavédelem alapképzési szak, katasztrófavédelmi műveleti szakirány;
+
+## 16. katasztrófavédelem alapképzési szak, tűzvédelmi és mentésirányítási szakirány;
+
+## 17. katasztrófavédelem alapképzési szak, iparbiztonsági szakirány;
+
+## 18. védelmi igazgatási mesterképzési szak, katasztrófavédelmi szakirány;
+
+## 19. katasztrófavédelmi mérnöki mesterképzési szak, műszaki és mentésszervezői szakirány, műszaki és technikai szakirány;
+
+## 20. tűzvédelmi szakmérnök szakképesítés vagy
+
+## 21. főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak.
+
+## 1.1.4. A közalkalmazotti állomány részére munkáltatói igény esetén – az érintett beleegyezésével – az előző szakmai végzettségek, szakképzettségek bármelyike.
+
+## 1.1.5. A hivatásos katasztrófavédelmi szerveknél tűzvédelmi képesítést igénylő beosztásokban elfogadott szakmai végzettségeket, szakképzettségeket az 1.2. pont tartalmazza.
+
+## 1.1.6. A nem szakmai szolgálati beosztások esetében (a beosztásnak megfelelő állami képesítés megléte esetén) a minimálisan elfogadott szakmai végzettségeket, szakképzettségeket és szaktanfolyamokat az 1.1.1. pont tartalmazza.
+
+## 1. 2. Tűzoltósági és ügyeleti szakterület
+
+## 1.2.1. Alapszintű:
+
+## a) tűzoltó II. részszaképesítés vagy
+
+## b) tűzoltó I. szakképesítés.
+
+## 1.2.2. Középszintű:
+
+## a) tűzoltósági referens szakképesítés vagy
+
+## b) tűzoltó szerparancsnok szakképesítés- ráépülés
+
+## c)[^20] műveletirányító referens képesítés (csak műveletirányító referens beosztás betöltése esetén).
+
+## 1.2. 3. Felsőszintű:
+
+## a) építőmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
+
+## b) építészmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
+
+## c) védelmi igazgatási alapképzési szak, tűzvédelmi és tűzoltó szakirány;
+
+## d) had- és biztonságtechnikai mérnöki alapképzési szak, tűzvédelmi szakirány;
+
+## e) rendészeti igazgatási alapképzési szak, katasztrófavédelmi szakirány;
+
+## f) rendészeti igazgatási alapképzési szak, katasztrófavédelmi szakirány tűzvédelmi specifikáció;
+
+## g) katasztrófavédelem alapképzési szak, tűzvédelmi és mentésirányítási szakirány;
+
+## h) rendészeti szervező szakképesítés, tűzoltó szervező szakképesítés-elágazás;
+
+## i) rendészeti szervező szakképesítés, tűzvédelmi szervező szakmairány
+
+## j) tűzvédelmi szakmérnök szakképesítés
+
+## k)[^21] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak.
+
+## 1.2.4. A közalkalmazotti állomány részére munkáltatói igény esetén – az érintett beleegyezésével – az előző szakmai végzettségek, szakképzettségek bármelyike.
+
+## 1.2.5. A nem szakmai szolgálati beosztások esetében (a beosztásnak megfelelő állami képesítés megléte esetén) a minimálisan elfogadott szakmai végzettségeket, szakképzettségeket és szaktanfolyamokat az 1.1.1. pont tartalmazza.
+
+## 1.3. Iparbiztonsági szakterület
+
+## 1.3.1. Alapszintű:
+
+## a) katasztrófavédelmi szakelőadó szakképesítés;
+
+## 1.3.2. Középszintű:
+
+## a) katasztrófavédelmi referens szakképesítés- ráépülés;
+
+## 1.3.3.[^22] Felsőszintű:
+
+## 1. rendészeti szervező szakképesítés, katasztrófavédelmi szervező szakmairány;
+
+## 2. rendészeti szervező szakképesítés, iparbiztonsági szervező szakmairány;
+
+## 3. rendészeti szervező szakképesítés, tűzvédelmi szervező szakmairány;
+
+## 4. rendészeti szervező szakképesítés, katasztrófavédelmi és polgári védelmi szervező szakképesítés-elágazás;
+
+## 5. rendészeti szervező szakképesítés, tűzoltó szervező szakképesítés-elágazás;
+
+## 6. katasztrófavédelmi szakirányú felsőoktatási szakképzés;
+
+## 7. építőmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
+
+## 8. építészmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
+
+## 9. rendészeti igazgatási alapképzési szak, katasztrófavédelmi szakirány;
+
+## 10. rendészeti igazgatási alapképzési szak, katasztrófavédelmi szakirány tűzvédelmi specifikáció;
+
+## 11. katasztrófavédelem alapképzési szak, katasztrófavédelmi műveleti szakirány;
+
+## 12. katasztrófavédelem alapképzési szak, tűzvédelmi és mentésirányítási szakirány;
+
+## 13. katasztrófavédelem alapképzési szak, iparbiztonsági szakirány;
+
+## 14. védelmi igazgatási alapképzési szak, katasztrófavédelmi szakirány;
+
+## 15. védelmi igazgatási alapképzési szak, tűzvédelmi és tűzoltó szakirány;
+
+## 16. védelmi igazgatási mesterképzési szak, katasztrófavédelmi szakirány;
+
+## 17. rendészeti igazgatási alapképzési szak igazgatásrendészeti szakirány;
+
+## 18. bűnügyi igazgatási alapképzési szak, bűnügyi nyomozó szakirány (legalább alapszintű katasztrófavédelmi vagy iparbiztonsági szakképesítéssel együtt);
+
+## 19. had- és biztonságtechnikai mérnöki alapképzési szak, tűzvédelmi szakirány BA;
+
+## 20. katasztrófavédelmi mérnöki mesterképzési szak, műszaki és mentésszervezői szakirány, vagy műszaki és technikai szakirány;
+
+## 21. környezetmérnök mesterképzési szak, katasztrófavédelmi szakirány;
+
+## 22. tűzvédelmi szakmérnök szakképesítés, főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
+
+## 23. biztonság- és védelempolitika mesterszak.
+
+## 1.3.4. A közalkalmazotti állomány részére munkáltatói igény esetén – az érintett beleegyezésével – az előző szakmai végzettségek, szakképzettségek bármelyike
+
+## 1.3.5. A nem szakmai szolgálati beosztások esetében (a beosztásnak megfelelő állami képesítés megléte esetén) a minimálisan elfogadott szakmai végzettségeket, szakképzettségeket és szaktanfolyamokat az 1. 3. 1. pont tartalmazza.
+
+## 2. Az önkormányzati és létesítményi tűzoltóságok, valamint az önkéntes tűzoltó egyesületek szaktevékenységet ellátó tagjaira vonatkozóan
+
+## 2.1. Önkormányzati, illetve létesítményi tűzoltóságok főfoglalkozású tagjaira vonatkozóan
+
+## 2.1.1. Alapszintű:
+
+## a) tűzoltó II. részszakképesítés;
+
+## b) tűzoltó I. szakképesítés;
+
+## c) önkormányzati és létesítményi tűzoltó tanfolyami végzettség;
+
+## d) önkéntes és létesítményi tűzoltó parancsnoki tanfolyami végzettség;
+
+## e) tűzoltó szakképesítés, vagy 6 hetes tűzoltó alaptanfolyami végzettség.
+
+## 2.1.2. Középszintű:
+
+## a) önkormányzati és létesítményi tűzoltó szerparancsnok képesítés vagy
+
+## b) tűzoltó szerparancsnok szakképesítés-ráépülés.
+
+## 2.1.3. Felsőszintű:
+
+## a) építőmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
+
+## b) építészmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
+
+## c) védelmi igazgatási alapképzési szak, tűzvédelmi és tűzoltó szakirány;
+
+## d) had- és biztonságtechnikai mérnöki alapképzési szak, tűzvédelmi szakirány;
+
+## e) rendészeti igazgatási alapképzési szak, katasztrófavédelmi szakirány;
+
+## f) rendészeti igazgatási alapképzési szak, katasztrófavédelmi szakirány tűzvédelmi specifikáció;
+
+## g) katasztrófavédelem alapképzési szak, tűzvédelmi és mentésirányítási szakirány;
+
+## h) rendészeti szervező szakképesítés, tűzoltó szervező szakképesítés-elágazás;
+
+## i) rendészeti szervező szakképesítés, tűzvédelmi szervező szakmairány;
+
+## j) tűzvédelmi szakmérnök szakképesítés;
+
+## k)[^23] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
+
+## l)[^24] önkormányzati és létesítményi tűzoltó szervező képesítés;
+
+## m)[^25] önkormányzati és létesítményi tűzoltó parancsnok képesítés.
+
+## 2.2. Az önkéntes tűzoltó egyesületek szaktevékenység végzésére jogosult tagjainak, valamint az önkormányzati tűzoltóságok önkéntes jogviszonyban álló és létesítményi tűzoltóságok alkalomszerűen igénybe vehető tagjaira vonatkozóan
+
+## 2.2.1. Alapszintű:
+
+## a) tűzoltó alaptanfolyami végzettség.
+
+## 2.2.2. Középszintű:
+
+## a) tűzoltó szakképesítés, tűzoltó II. részszakképesítés, önkormányzati és létesítményi tűzoltó tanfolyami, vagy 6 hetes tűzoltó tanfolyami végzettség és tűzoltásvezető I. tanfolyami végzettség;
+
+## b) tűzoltó alaptanfolyami végzettség, és tűzoltásvezető II. tanfolyami végzettség;
+
+## c) tűzoltósági referens szakképesítés;
+
+## d) tűzoltó szerparancsnok szakképesítés- ráépülés, vagy
+
+## e) önkormányzati és létesítményi tűzoltó szerparancsnok képesítés.
+
+## 2.2.3.[^26] Felsőszintű:
+
+## 1. önkéntes és létesítményi tűzoltó parancsnoki tanfolyami végzettség;
+
+## 2. építőmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
+
+## 3. építészmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
+
+## 4. építéstudományi kar, tűzvédelmi szakmérnök szakképesítés;
+
+## 5. védelmi igazgatási alapképzési szak, tűzvédelmi és tűzoltó szakirány;
+
+## 6. had- és biztonságtechnikai mérnöki alapképzési szak, tűzvédelmi szakirány;
+
+## 7. rendészeti igazgatási alapképzési szak, katasztrófavédelmi szakirány;
+
+## 8. rendészeti igazgatási alapképzési szak katasztrófavédelmi szakirány tűzvédelmi specifikáció;
+
+## 9. katasztrófavédelem alapképzési szak, tűzvédelmi és mentésirányítási szakirány;
+
+## 10. rendészeti szervező szakképesítés, tűzoltó szervező szakképesítés-elágazás;
+
+## 11. rendészeti szervező szakképesítés, tűzvédelmi szervező szakmairány;
+
+## 12. tűzvédelmi szakmérnök szakképesítés;
+
+## 13. főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
+
+## 14. önkormányzati és létesítményi tűzoltó szervező képesítés;
+
+## 15. önkormányzati és létesítményi tűzoltó parancsnok képesítés.
+
+## 3. A gazdálkodó szervezeteknél a katasztrófa- és polgári védelem szakágazat területén foglalkoztatottakra vonatkozóan
+
+## 3.1. Alapszintű:
+
+## 3.2. Középszintű:
+
+## a) katasztrófavédelmi előadó szakképesítés.
+
+## 3.3.[^27] Felsőszintű:
+
+## 1. katasztrófavédelmi referens szakképesítés-ráépülés;
+
+## 2. katasztrófavédelmi főelőadó szakképesítés-ráépülés;
+
+## 3. rendészeti szervező szakképesítés, katasztrófavédelmi szervező szakmairány;
+
+## 4. rendészeti szervező szakképesítés, tűzvédelmi szervező szakmairány;
+
+## 5. rendészeti szervező szakképesítés, iparbiztonsági szervező szakmairány;
+
+## 6. rendészeti szervező szakképesítés, katasztrófa- és polgári védelmi szervező szakképesítés-elágazás;
+
+## 7. rendészeti szervező szakképesítés, tűzoltó szervező szakképesítés-elágazás;
+
+## 8. katasztrófavédelmi szakirányú felsőoktatási szakképzés;
+
+## 9. építőmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
+
+## 10. építészmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
+
+## 11. tűzvédelmi szakmérnök szakképesítés, főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
+
+## 12. rendészeti igazgatási alapképzési szak, katasztrófavédelmi szakirány;
+
+## 13. rendészeti igazgatási alapképzési szak, katasztrófavédelmi szakirány tűzvédelmi specifikáció;
+
+## 14. védelmi igazgatási alapképzési szak, katasztrófavédelmi szakirány;
+
+## 15. védelmi igazgatási alapképzési szak, tűzvédelmi és tűzoltó szakirány;
+
+## 16. had- és biztonságtechnikai mérnöki alapképzési szak, műszaki, katasztrófavédelmi vagy közlekedési szakirány (katasztrófavédelmi specializáció);
+
+## 17. had- és biztonságtechnikai mérnöki alapképzési szak, tűzvédelmi szakirány;
+
+## 18. katasztrófavédelem alapképzési szak, katasztrófavédelmi műveleti szakirány;
+
+## 19. katasztrófavédelem alapképzési szak, tűzvédelmi és mentésirányítási szakirány;
+
+## 20. katasztrófavédelem alapképzési szak, iparbiztonsági szakirány;
+
+## 21. védelmi igazgatási mesterképzési szak, katasztrófavédelmi szakirány vagy
+
+## 22. katasztrófavédelmi mérnöki mesterképzési szak, műszaki és mentésszervezői szakirány, műszaki és technikai szakirány.
+
+## 3.4. A hivatásos katasztrófavédelmi szerveknél polgári védelmi és iparbiztonsági beosztás betöltésére jogosító képesítések elfogadottak a gazdálkodó szervezeteknél katasztrófavédelmi szakágazatban foglalkoztatottak azonos szintű képesítéseként.
+
+## 4. A gazdálkodó szervezeteknél tűzvédelmi szakágazatban foglalkoztatottakra vonatkozóan
+
+## 4.1. Alapszintű:
+
+## 4.2. Középszintű:
+
+## a) tűzvédelmi előadó szakképesítés
+
+## 4.3. Felsőszintű:
+
+## a) tűzvédelmi főelőadó szakképesítés-ráépülés;
+
+## b) építőmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
+
+## c) építészmérnöki alapképzési szak, tűz- és katasztrófavédelmi szakirány;
+
+## d) építéstudományi kar, tűzvédelmi szakmérnök szakképesítés;
+
+## e) tűzvédelmi főelőadó szakképesítés;
+
+## f) védelmi igazgatási alapképzési szak, tűzvédelmi és tűzoltó szakirány;
+
+## g) had- és biztonságtechnikai mérnöki alapképzési szak, tűzvédelmi szakirány;
+
+## h) rendészeti igazgatási alapképzési szak, katasztrófavédelmi szakirány;
+
+## i) rendészeti igazgatási alapképzési szak, katasztrófavédelmi szakirány tűzvédelmi specifikáció;
+
+## j) rendészeti szervező szakképesítés, tűzoltó szervező szakképesítés-elágazás;
+
+## k) rendészeti szervező szakképesítés, tűzvédelmi szervező szakmairány;
+
+## l) katasztrófavédelem alapképzési szak, tűzvédelmi és mentésirányítási szakirány BA;
+
+## m) tűzvédelmi szakmérnök szakképesítés vagy
+
+## n)[^28] főiskolai szintű tűzvédelmi üzemmérnök vagy tűzvédelmi mérnök szak, egyetemi szintű tűzvédelmi mérnök szak;
+
+## 4.4. A hivatásos katasztrófavédelmi szerveknél tűzoltó és tűzvédelmi beosztás betöltésére jogosító felsőszintű képesítések elfogadottak a gazdálkodó szervezeteknél tűzvédelmi szakágazatban foglalkoztatottak azonos szintű képesítéseként.
+
 2. melléklet a 9/2015. (III. 25.) BM rendelethez
 
-## Szakmai tanfolyamok, mint belső szakmai képzések
-
-1. A KOK által szervezett és lebonyolításra kerülő műszaki szaktanfolyamok:
-
-a) tűzoltótechnika-kezelői alaptanfolyam;
-
-b) emelőkosaras tűzoltó gépjármű kezelői szaktanfolyam;
-
-c) létrás tűzoltó gépjármű kezelői szaktanfolyam;
-
-d) tűzoltódaru-kezelői szaktanfolyam;
-
-e) cserefelépítmény-hordozó járművek kezelői szaktanfolyam;
-
-f) műszaki mentő gépjármű kezelői szaktanfolyam;
-
-g) vegyi balesetelhárító gépjármű kezelői szaktanfolyam;
-
-h) légzésvédő készülék-palack töltő kompresszor kezelői szaktanfolyam;
-
-i) áramfejlesztő kezelői szaktanfolyam (10 KVA teljesítmény feletti).
-
-2. A KOK-on, valamint kihelyezett formában a KOK felügyeletével a katasztrófavédelmi igazgatóságok által is lebonyolítható műszaki szaktanfolyamok:
-
-a) gépjárműfecskendő kezelői szaktanfolyam;
-
-b) habbal oltó gépjármű kezelői szaktanfolyam;
-
-c) porral oltó gépjármű kezelői szaktanfolyam;
-
-d) műszaki mentés gépeinek kezelői szaktanfolyama;
-
-e) vegyi balesetelhárító gépek kezelői szaktanfolyama;
-
-f) folyadék szállítására használható (szivattyúval ellátott) egyéb gépek kezelői szaktanfolyama;
-
-g) kismotorfecskendő és átemelő szivattyú kezelői szaktanfolyam;
-
-h) vegyi balesetelhárító cserefelépítmény kezelői szaktanfolyam;
-
-i) műszaki mentő cserefelépítmény kezelői szaktanfolyam;
-
-j) oltó cserefelépítmény kezelői szaktanfolyam;
-
-k) áramfejlesztő kezelői szaktanfolyam (10 KVA teljesítmény alatti).
-
-3. A KOK által szervezhető egyéb szakmai képzések, továbbképzések, tanfolyamok:
-
-a) katasztrófavédelmi alapismereti tanfolyam;
-
-b) tűzvizsgáló tanfolyam;
-
-c) Katasztrófavédelmi Mobil Labor (KML) tanfolyam;
-
-d) műveletirányító tanfolyam;
-
-e) Katasztrófavédelmi Műveleti Szolgálat (KMSZ) tanfolyam;
-
-f) önkéntes és létesítményi tűzoltó parancsnoki tanfolyam;
-
-g) tűzoltásvezető I. és tűzoltásvezető II. tanfolyam;
-
-h) tűzoltó alaptanfolyam;
-
-i) önkormányzati és létesítményi tűzoltó tanfolyam;
-
-j) önkormányzati és létesítményi tűzoltó szerparancsnok tanfolyam;
-
-k) Egységes Digitális Rádiórendszer kezelői tanfolyam;
-
-l) önkéntes tűzoltó egyesületek mentorainak felkészítő tanfolyama;
-
-m) a kihelyezett formában végrehajtható képzések mentorainak felkészítő tanfolyama;
-
-n) közbiztonsági referens tanfolyam;
-
-o) próbaidős tiszti állomány felkészítő tanfolyam;
-
-p) biztonsági összekötő tanfolyam;
-
-q) veszélyes ipari védelmi ügyintéző tanfolyam;
-
-r) veszélyes áru szállítás ellenőri tanfolyam;
-
-s) egyéb tűzoltó, tűzvédelmi, polgári védelmi és iparbiztonsági szakmai tanfolyamok.
-
-4. A katasztrófavédelmi, tűzvédelmi és polgári védelmi képzési rendszer az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendeletben (a továbbiakban: OKJ) nem szereplő, belső szakmai képzéseinek oktatásigazgatási szabályait a BM OKF képzési szakterületére vonatkozó szabályzata tartalmazza.
+[^19]: Az 1. melléklet 1.1.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^20]: Az 1. melléklet 1.2.2. pont c) alpontját a 46/2016. (XI. 23.) BM rendelet 8. §-a iktatta be.
+[^21]: Az 1. melléklet 1.2.3. pont k) alpontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^22]: Az 1. melléklet 1.3.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^23]: Az 1. melléklet 2.1.3. pont k) alpontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^24]: Az 1. melléklet 2.1.3. pont l) alpontját a 46/2016. (XI. 23.) BM rendelet 8. §-a iktatta be.
+[^25]: Az 1. melléklet 2.1.3. pont m) alpontját a 46/2016. (XI. 23.) BM rendelet 8. §-a iktatta be.
+[^26]: Az 1. melléklet 2.2.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^27]: Az 1. melléklet 3.3. pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.
+[^28]: Az 1. melléklet 4.3. pont n) pontja a 46/2016. (XI. 23.) BM rendelet 8. §-ával megállapított szöveg.

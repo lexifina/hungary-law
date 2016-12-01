@@ -1,9 +1,9 @@
 8. § (1) A nukleáris létesítmény és a radioaktívhulladék-tároló területén a determinisztikus tűzkockázat-elemzés és tűzterhelés számítás készítésére felsőszintű tűzvédelmi szakképesítéssel rendelkező személy jogosult.
 
-(2)[^1]
+(2)[^14]
 
 (3) A Tűzvédelmi Műszaki Megfelelőségi Kézikönyv készítésére és felülvizsgálatára tűzvédelmi szakértő, vagy tűzvédelmi tervező jogosult.
 
 (4) A tűzvédelmi szakértők esetében felsőfokú tűzvédelmi szakképesítésként elismert felsőszintű szakmai képesítéseket az 1. melléklet 1.2.3., és 2.1.3. pontja, és a 3. melléklet 2.1.3. pontja tartalmazza.
 
-[^1]: A 8. § (2) bekezdése a 19. § (2) bekezdése alapján 2017. szeptember 1-jén lép hatályba.
+[^14]: A 8. § (2) bekezdése a 19. § (2) bekezdése alapján 2017. szeptember 1-jén lép hatályba.
