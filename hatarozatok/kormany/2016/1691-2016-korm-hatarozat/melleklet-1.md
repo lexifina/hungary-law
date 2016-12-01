@@ -100,17 +100,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 3. A 2014–2020 közötti időszakban uniós forrásból megvalósítani tervezett kiemelt projektek előkészítettségéről és a kapcsolódó akciótervről szóló 1212/2016. (IV. 28.) Korm. határozat a következő 3/A. ponttal egészül ki:
-
-## (A Kormány)
-
-## „3/A. felhívja a nemzeti fejlesztési minisztert, hogy az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretében a 3.2 beruházási prioritása keretében kiemelt projekt támogatást igénylőjeként nevesített szervezetekre az 1–3. pontot ne alkalmazza,
-
-## Felelős: nemzeti fejlesztési miniszter
-
-## Határidő: folyamatos”
-
-## 4. Az Integrált Közlekedésfejlesztési Operatív Program éves fejlesztési keretének megállapításáról szóló 1247/2016. (V. 18.) Korm. határozat 1. pont e) alpontjában az „egyes prioritásai keretének 90%-át” szövegrész helyébe az „egyes prioritásai – a 2. prioritást, valamint a 3.1 és a 3.2 beruházási prioritást kivéve – 90%-át” szöveg lép.
+## 3–4.[^1]
 
 1. melléklet az 1691/2016. (XI. 29.) Korm. határozathoz
 
@@ -285,3 +275,5 @@ III. Integrált Közlekedésfejlesztési Operatív Program 3.2. beruházási pri
 23. Pécs város közösségi közlekedés fejlesztése
 
 24. Szeged–Makó vasúti elővárosi közlekedés fejlesztése, vegyesforgalmú Tisza-híd építése
+
+[^1]: A 3–4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
