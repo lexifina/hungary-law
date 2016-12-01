@@ -1,4 +1,4 @@
-22. § (1) Az elektori gyűlés helyszínei a Kormányablakok. Bármely elektor bármely Kormányablakban leadhatja szavazatát.
+22. § (1)[^72] Az elektori gyűlés helyszínei a Kormányablakok. Az elektor a Kormányablakban adhatja le a szavazatát.
 
 (2) Az elektori gyűlés időpontjait úgy kell kijelölni, hogy a Kormányablakok külön naptári napon álljanak rendelkezésre a
 
@@ -33,3 +33,5 @@ visszaigazoltan bejelentkezett, megjelent elektort kell érteni.
 (11) A választás során minden elektor egyszer jogosult szavazni. A szavazás nem szakítható meg, adattartalma a szavazat elektor általi véglegesítését követően nem módosítható.
 
 (12) A választás eredményeit a zárt hálózatú számítógépes rendszer összesíti és elkészíti az összesítést tartalmazó jegyzőkönyveket a Tanácsra és a kollégiumokra vonatkozóan, mely tartalmazza a megválasztott tagok és póttagok adatait.
+
+[^72]: A 22. § (1) bekezdése a 35/2016. (XI. 30.) EMMI rendelet 9. §-ával megállapított szöveg.

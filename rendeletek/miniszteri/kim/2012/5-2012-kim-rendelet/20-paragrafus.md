@@ -4,7 +4,7 @@
 
 ## 14. Az elektori gyűlések
 
-20. § (1) A miniszter az Alap testületeinek megalakítása és a civil delegáltak megválasztása érdekében a hivatalos honlapon a Civil tv. 71. § (3) bekezdése szerinti felhívást tesz közzé. A felhívás lényeges adatait két országos napilapban is meg kell jelentetni.
+20. § (1)[^69] A miniszter az Alap testületeinek megalakítása és a civil delegáltak megválasztása érdekében a hivatalos honlapon a Civil tv. 71. § (3) bekezdése szerinti felhívást tesz közzé.
 
 (2) Az elektori gyűlésen való részvétel a civil jelöltállítási rendszerbe való bejelentkezés alapján történik. A bejelentkezéshez a civil szervezetnek az elektori nyilvántartó rendszerben az alábbi adatokat kell rögzítenie:
 
@@ -41,3 +41,5 @@ b) a civil szervezet képviselőjének hozzájáruló nyilatkozatát arról, hog
 c) az elektor hozzájáruló nyilatkozatát arról, hogy a bejelentkezést a 20. § (2) bekezdés e) pont eb) alpontban foglalt adatok kivételével a hivatalos honlapon nyilvánosságra hozzák és a bejelentkezésben foglalt adatokat az Alap testületei civil delegáltjait megválasztó elektori gyűlések szervezése céljából az elektori választást lebonyolító szerv kezelje;
 
 d) a testületbe tagjelölés esetén a tagjelölt hozzájáruló nyilatkozatát arról, hogy a bejelentkezés szerinti életrajzot a hivatalos honlapon nyilvánosságra hozzák, a bejelentkezésben foglalt adatokat az Alap testületei civil delegáltjait megválasztó elektori gyűlések szervezése céljából az elektori választást lebonyolító szerv az elektori gyűlések 23. § (2) és (3) bekezdése szerinti jegyzőkönyv közzétételét követő 30. napig kezelje.
+
+[^69]: A 20. § (1) bekezdése a 35/2016. (XI. 30.) EMMI rendelet a 13. § k) pontja szerint módosított szöveg.

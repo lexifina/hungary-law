@@ -1,6 +1,6 @@
 18. § (1) Az Alapkezelő a hivatalos honlapon napi rendszerességgel közzéteszi és frissíti az általa működtetett internetes támogatáskezelő rendszerben kezelt, aktualizált
 
-a) bejelentkezett civil szervezetek, valamint az általuk jelölt elektorok adatait;
+a)[^64]
 
 b) támogatási adatokat támogatási igényenkénti és pályázati felhívásonkénti bontásban;
 
@@ -8,13 +8,13 @@ c) pályázati felhívások adatait;
 
 d) a testületi tagok érdekeltségi körére vonatkozó 4. melléklet szerinti adatokat.
 
-(2)[^40] Az Alapot érintő adatok Alapkezelő hivatalos honlapján történő közzétételének feltétele az adatoknak az Alap hivatalos honlapján történő közzététele és a folyamatos adategyeztetés biztosítása.
+(2)[^65] Az Alapot érintő adatok Alapkezelő hivatalos honlapján történő közzétételének feltétele az adatoknak az Alap hivatalos honlapján történő közzététele és a folyamatos adategyeztetés biztosítása.
 
 (3) A Knytv. szerinti döntés-előkészítésben közreműködő személy tekintetében a Civil tv. 69. § (5) bekezdésében foglalt közzétételi kötelezettség teljesítése során a Tanács és a kollégium tagjára vonatkozó rendelkezéseket kell alkalmazni azzal, hogy
 
-a)[^41] a döntés-előkészítésben közreműködő személy (adatfelelős) az érdekeltségi körébe tartozó civil szervezetekről, az ezzel kapcsolatos változásról az Alapkezelőnek nyilatkozik;
+a)[^66] a döntés-előkészítésben közreműködő személy (adatfelelős) az érdekeltségi körébe tartozó civil szervezetekről, az ezzel kapcsolatos változásról az Alapkezelőnek nyilatkozik;
 
-b)[^42] az közzétételért felelős az Alapkezelő.
+b)[^67] az közzétételért felelős az Alapkezelő.
 
 (4) Az Alapkezelő
 
@@ -30,11 +30,12 @@ e) a Tanácsnak szóló beszámolót a Tanácsnak történő megküldéssel egyi
 
 teszi közzé.
 
-(5)[^43] Ha az Alapkezelő részére történő adatküldésre kötelezett személy, szerv vagy testület az adatküldést a jogszabályban előírt határidőben nem teljesíti, az Alapkezelő felhívja e kötelezettség öt napon belül történő teljesítésére.
+(5)[^68] Ha az Alapkezelő részére történő adatküldésre kötelezett személy, szerv vagy testület az adatküldést a jogszabályban előírt határidőben nem teljesíti, az Alapkezelő felhívja e kötelezettség öt napon belül történő teljesítésére.
 
 (6) A közzétételre kötelezett a szükséges adatokat az e célra rendszeresített számítógépes rendszeren keresztül küldi meg az Alapkezelő részére a hivatalos honlapon való közzététel céljából.
 
-[^40]: A 18. § (2) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 11. § (1) bekezdésével megállapított szöveg.
-[^41]: A 18. § (3) bekezdés a) pontja a 74/2013. (XII. 2.) EMMI rendelet 7. § b) pontja szerint módosított szöveg.
-[^42]: A 18. § (3) bekezdés b) pontja az 56/2012. (XII. 29.) EMMI rendelet 11. § (2) bekezdésével megállapított, a 74/2013. (XII. 2.) EMMI rendelet 7. § c) pontja szerint módosított szöveg.
-[^43]: A 18. § (5) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 11. § (3) bekezdésével megállapított szöveg.
+[^64]: A 18. § (1) bekezdés a) pontját a 35/2016. (XI. 30.) EMMI rendelet 13. § j) pontja hatályon kívül helyezte.
+[^65]: A 18. § (2) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 11. § (1) bekezdésével megállapított szöveg.
+[^66]: A 18. § (3) bekezdés a) pontja a 74/2013. (XII. 2.) EMMI rendelet 7. § b) pontja szerint módosított szöveg.
+[^67]: A 18. § (3) bekezdés b) pontja az 56/2012. (XII. 29.) EMMI rendelet 11. § (2) bekezdésével megállapított, a 74/2013. (XII. 2.) EMMI rendelet 7. § c) pontja szerint módosított szöveg.
+[^68]: A 18. § (5) bekezdése az 56/2012. (XII. 29.) EMMI rendelet 11. § (3) bekezdésével megállapított szöveg.

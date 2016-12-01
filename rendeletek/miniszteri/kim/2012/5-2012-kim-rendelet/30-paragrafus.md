@@ -18,9 +18,9 @@ d) hivatalos honlap.
 
 (5) Az informatikai rendszernek nem része az elektori választás szavazási rendszere.
 
-(6)[^60] Az internetes támogatáskezelő rendszeren keresztül benyújtott támogatási kérelem esetén az internetes támogatáskezelő rendszer üzenetei az Ávr. 102/C. § (1) bekezdése alapján a támogató és a kedvezményezett egymás irányába történő nyilatkozataik megtételére rendelkezésre álló határidők számítása szempontjából értesítésnek minősülnek.
+(6)[^89] Az internetes támogatáskezelő rendszeren keresztül benyújtott támogatási kérelem esetén az internetes támogatáskezelő rendszer üzenetei az Ávr. 102/C. § (1) bekezdése alapján a támogató és a kedvezményezett egymás irányába történő nyilatkozataik megtételére rendelkezésre álló határidők számítása szempontjából értesítésnek minősülnek.
 
-(7)[^61] Az internetes támogatáskezelő rendszer üzeneteit a civil szervezet részére az üzenet továbbításával egy időben a civil szervezet által megadott elektronikus levélcímre is meg kell küldeni, valamint mobiltelefonos elérhetőség rendelkezésre állása esetén a megküldésre vonatkozó lényeges adatot tartalmazó SMS üzenetet is továbbítani kell.
+(7)[^90] Az internetes támogatáskezelő rendszer üzeneteit a civil szervezet részére az üzenet továbbításával egy időben a civil szervezet által megadott elektronikus levélcímre is meg kell küldeni.
 
-[^60]: A 30. § (6) bekezdése az 52/2015. (XI. 18.) EMMI rendelet 10. § 18. pontja szerint módosított szöveg.
-[^61]: A 30. § (7) bekezdése a 74/2013. (XII. 2.) EMMI rendelet 7. § f) pontja szerint módosított szöveg.
+[^89]: A 30. § (6) bekezdése az 52/2015. (XI. 18.) EMMI rendelet 10. § 18. pontja szerint módosított szöveg.
+[^90]: A 30. § (7) bekezdése a 74/2013. (XII. 2.) EMMI rendelet 7. § f) pontja, a 35/2016. (XI. 30.) EMMI rendelet a 13. § n) pontja szerint módosított szöveg.
