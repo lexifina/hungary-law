@@ -14,7 +14,7 @@ b) természetes ásványvíz elnevezésének engedélyezése,
 
 c) gyógyvíz természetes gyógyhatásra utaló elnevezésének engedélyezése.
 
-(6) Az ivóvíz-biztonsági terv felülvizsgálatára, illetve jóváhagyására irányuló eljárás ügyintézési határideje 45 nap.
+(6)
 
 (6)
 

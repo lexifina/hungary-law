@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-11-00-00
 | 2016-05-06 | 2016. évi XXXIV. törvény | 1991-11-00-00.38 |
 | 2016-06-18 | 2016. évi LXVII. törvény | 1991-11-00-00.39 |
 | 2016-07-01 | 2016. évi XXXIV. törvény | 1991-11-00-00.40 |
+| 2016-12-01 | 2015. évi CCXXIV. törvény | 1991-11-00-00.53 |
