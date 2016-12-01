@@ -1,6 +1,6 @@
-## 9. §[^23]
+## 9. §[^31]
 
-10. §[^24] (1) Az állami foglalkoztatási szervként eljáró kormányhivatal
+10. §[^32] (1) Az állami foglalkoztatási szervként eljáró kormányhivatal
 
 a) szakmailag irányítja és ellenőrzi az állami foglalkoztatási szervként eljáró járási hivatal tevékenységét, ennek keretében közreműködik az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal ez irányú feladatait ellátó kormánytisztviselőinek szakmai képzésében, valamint szakmai ajánlások készítésével segíti az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal ez irányú hatósági és szolgáltató tevékenységét,
 
@@ -108,5 +108,5 @@ a) gondoskodik a munkaerőpiaci szolgáltatási rendszer szakmai működtetésé
 
 b) ellátja azokat a munkaerő-piaci szolgáltatásokkal kapcsolatos feladatokat, amelyeket nem az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal lát el.
 
-[^23]: A 9. §-t a 70/2015. (III. 30.) Korm. rendelet 258. § (28) bekezdés a) pontja hatályon kívül helyezte.
-[^24]: A 10. § a 70/2015. (III. 30.) Korm. rendelet 258. § (16) bekezdésével megállapított szöveg.
+[^31]: A 9. §-t a 70/2015. (III. 30.) Korm. rendelet 258. § (28) bekezdés a) pontja hatályon kívül helyezte.
+[^32]: A 10. § a 70/2015. (III. 30.) Korm. rendelet 258. § (16) bekezdésével megállapított szöveg.

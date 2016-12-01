@@ -1,6 +1,6 @@
-## 8. [^25] Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal feladat- és hatásköre
+## 8. [^33] Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal feladat- és hatásköre
 
-11. §[^26] (1) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal
+11. §[^34] (1) Az állami foglalkoztatási szerv hatáskörében eljáró járási hivatal
 
 a) ellátja az álláskeresők nyilvántartásba vételével kapcsolatos feladatokat, valamint az álláskeresési járadék, álláskeresési segély megállapításával, szüneteltetésével, megszüntetésével és visszakövetelésével kapcsolatos, továbbá azokkal a foglalkoztatást elősegítő támogatásokkal kapcsolatos feladatokat, amelyek ellátása nem tartozik az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatal hatáskörébe,
 
@@ -62,5 +62,5 @@ i) feltárja a közfoglalkoztatási munkalehetőségeket,
 
 j) szervezi a közfoglalkoztatást.
 
-[^25]: A 8. alcím címe a 70/2015. (III. 30.) Korm. rendelet 258. § (17) bekezdésével megállapított szöveg.
-[^26]: A 11. § a 70/2015. (III. 30.) Korm. rendelet 258. § (18) bekezdésével megállapított szöveg.
+[^33]: A 8. alcím címe a 70/2015. (III. 30.) Korm. rendelet 258. § (17) bekezdésével megállapított szöveg.
+[^34]: A 11. § a 70/2015. (III. 30.) Korm. rendelet 258. § (18) bekezdésével megállapított szöveg.

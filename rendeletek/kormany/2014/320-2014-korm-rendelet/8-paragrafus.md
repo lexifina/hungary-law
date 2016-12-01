@@ -1,6 +1,6 @@
 ## 6. A közfoglalkoztatásért felelős miniszter feladatai
 
-8. §[^20] (1) A közfoglalkoztatásért felelős miniszter az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalok és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalok közfoglalkoztatási feladatai tekintetében
+8. §[^28] (1) A közfoglalkoztatásért felelős miniszter az állami foglalkoztatási szerv hatáskörében eljáró kormányhivatalok és az állami foglalkoztatási szerv hatáskörében eljáró járási hivatalok közfoglalkoztatási feladatai tekintetében
 
 a) követelményeket határoz meg a közfoglalkoztatással kapcsolatos számítógépes központi adatgyűjtések adattartalma, valamint az információ- és prognózisszolgáltatás vonatkozásában,
 
@@ -80,4 +80,4 @@ d) a c) pontban meghatározott informatikai rendszerekkel összefüggésben telj
 
 (3) A közfoglalkoztatásért felelős miniszter közreműködik az Európai Unió pénzügyi alapjaiból és más külföldi alapokból támogatott egyes közfoglalkoztatáshoz kapcsolódó képzési programok megvalósításának tervezésében és szervezésében.
 
-[^20]: A 8. § a 70/2015. (III. 30.) Korm. rendelet 258. § (13) bekezdésével megállapított szöveg.
+[^28]: A 8. § a 70/2015. (III. 30.) Korm. rendelet 258. § (13) bekezdésével megállapított szöveg.
