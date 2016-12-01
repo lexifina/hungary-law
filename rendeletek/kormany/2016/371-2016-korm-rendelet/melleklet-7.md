@@ -136,8 +136,6 @@
 
 ## ”
 
-7. melléklet a 371/2016. (XI. 29.) Korm. rendelethez
+7. melléklet a 371/2016. (XI. 29.) Korm. rendelethez[^3]
 
-A biztonsági okmányok védelmének rendjéről szóló 86/1996. (VI. 14.) Korm. rendelet 1. számú mellékletének III. rész „1. Személyi és jogosultságot igazoló okmányok” alcíme a következő 1.78/a. ponttal egészül ki:
-
-„1.78/a. a hatástalanított lőfegyverek tanúsítványa.”.
+[^3]: A 7. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
