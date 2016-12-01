@@ -1,3 +1,0 @@
-11. § Az Nkt. 45. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) A készségfejlesztő iskola a tanuló javára köteles felelősségbiztosítást kötni, amely kiterjed a tanulói balesetekre és a tanuló által okozott kárra. A tanulót a szakképzésről szóló törvény rendelkezései szerint kedvezményes étkeztetés, útiköltség-térítés, munkaruha, egyéni védőfelszerelés (védőruha), tisztálkodási eszköz és kötelező juttatások illetik meg. A tanulót az iskola a gyakorlati évfolyamon elért eredménye, teljesítménye alapján jutalomban, prémiumban, egyéb más juttatásban vagy szociális támogatásban részesítheti. Az e bekezdésben meghatározottak fedezetét a fenntartó külön előirányzatban köteles biztosítani.”
