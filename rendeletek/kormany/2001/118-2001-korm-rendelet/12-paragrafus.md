@@ -1,33 +1,29 @@
 ## Adatszolgáltatási kötelezettség
 
-## 12. §[^33] A kölcsönbeadónak a tárgyévi tevékenységéről a tárgyévet követő év január 31-éig a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) által működtetett honlapon közzétett adatlapon, telephelyenként a következő adattartalmú adatszolgáltatást kell elkészítenie:
+## 12. §[^40] A kölcsönbeadónak a tárgyévi tevékenységéről a tárgyévet követő év január 31-ig a telephely szerint illetékes kormányhivatal részére a 8. § (6) bekezdésében meghatározott honlapon közzétett adatlapon, telephelyenként a következő adattartalmú adatszolgáltatást kell elkészítenie:
 
 a) a munkaerő-kölcsönző cégre vonatkozó adatok:
 
-aa) irodák száma Magyarországon;
+aa) alkalmazottak száma;
 
-ab) alkalmazottak száma;
+ab) nettó árbevétel (millió forintban) állománycsoport szerint [a kölcsönzött munkavállalókra vetítve (külföld, belföld együtt)] és nemzetgazdasági ágazat szerint;
 
-ac) nettó árbevétel (millió forintban) állománycsoport szerint [a kölcsönzött munkavállalókra vetítve (külföld, belföld együtt)] és nemzetgazdasági ágazat szerint;
+ac) a kölcsönbevevők által átvett dolgozók száma;
 
-ad) az ügyfelek által átvett dolgozók száma;
-
-ae) az adatbázis nagysága;
+ad) az adatbázis nagysága;
 
 b) a kölcsönzés keretében foglalkoztatott munkavállalók száma a kölcsönzés céljából létesített munkaviszony határozatlan vagy határozott időtartama szerint, a foglalkoztatás irányának megadásával (belföld, külföld) a következő bontásban:
 
-ba) állománycsoportonként, korcsoportonként, nemenként, foglalkozásonként, továbbá iskolai végzettség szerint;
+ba) állománycsoportonként és nemenként, korcsoportonként, foglalkozásonként, nemzetgazdasági ágazatonként, továbbá iskolai végzettség szerint;
 
-bb) a munkavállalók részére kifizetett éves keresettömeg;
+bb) a közhasznú kölcsönző tájékoztatást köteles adni a lebonyolított képzésekről, valamint a nyújtott mentori szolgáltatásról;
 
-bc) a foglalkoztatott munkavállalók által a kölcsönvevőnél teljesített munkanapok száma (napi 8 órával számolva);
+c) a b) pontban meghatározott szerkezetben a kölcsönzés keretében foglalkoztatott munkavállalók kölcsönzési eseteinek száma állománycsoportonként;
 
-bd) a teljes és részmunkaidőben foglalkoztatottak létszáma;
+d) a munkavállalók részére kifizetett keresettömeg és a foglalkoztatott munkavállalók által a kölcsönbevevőnél teljesített munkanapok száma (napi 8 órával számolva), valamint a teljes és részmunkaidőben foglalkoztatottak létszáma a b) pontban meghatározottak szerint állománycsoportonként;
 
-be) a közhasznú kölcsönző tájékoztatást köteles adni a lebonyolított képzésekről, valamint a nyújtott mentori szolgáltatásról;
+e) a belföldi és a külföldi kölcsönvevők száma ágazati bontásban;
 
-c) a belföldi és a külföldi kölcsönvevők száma ágazati bontásban;
+f) a külföldi kölcsönvevők száma, ágazata országonkénti bontásban.
 
-d) a külföldi kölcsönvevők száma, ágazata országonkénti bontásban.
-
-[^33]: A 12. § a 70/2015. (III. 30.) Korm. rendelet 51. § (3) bekezdésével megállapított szöveg.
+[^40]: A 12. § a 335/2016. (XI. 11.) Korm. rendelet 1. § (8) bekezdésével megállapított szöveg.

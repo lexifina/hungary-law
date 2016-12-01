@@ -1,20 +1,22 @@
-13. §[^34] (1)[^35] A magán-munkaközvetítőnek a tárgyévi tevékenységéről a tárgyévet követő év január 31-éig a minisztérium honlapján közzétett adatlapon, telephelyenként a következő adattartalmú adatszolgáltatást kell elkészítenie:
+13. §[^41] (1)[^42] A magán-munkaközvetítőnek a tárgyévi tevékenységéről a tárgyévet követő év január 31-ig a telephely szerint illetékes kormányhivatal részére a 8. § (6) bekezdésében meghatározott honlapon közzétett adatlapon, telephelyenként a következő adattartalmú adatszolgáltatást kell elkészítenie:
 
 a) a magán-munkaközvetítő cégre vonatkozó adatok:
 
-aa) irodák száma Magyarországon;
+aa) alkalmazottak száma;
 
-ab) alkalmazottak száma;
+ab) nettó árbevétel (millió forintban), állománycsoport (a közvetített munkavállalókra vetítve) és nemzetgazdasági ágazat szerint;
 
-ac) nettó árbevétel (millió forintban), állománycsoport (a közvetített munkavállalókra vetítve) és nemzetgazdasági ágazat szerint;
+ac) az adatbázis nagysága;
 
-ad) az adatbázis nagysága;
+b) a munkaközvetítések száma a magyar és külföldi állampolgárság szerinti csoportosításon belül a belföldre, illetve külföldre történt közvetítések leírásával, ezen belül a sikertelen közvetítések, a folyamatban lévő közvetítések és az eredményes közvetítések száma alapján nemzetgazdasági ágazat, foglalkozások, állománycsoport és nemek, korcsoport, iskolai végzettség, nemek és a foglalkoztatásra irányuló jogviszony típusa szerinti bontásban;
 
-b) a magyar állampolgárok belföldre történt munkaközvetítéseinek száma (fő);
+c) a magyar állampolgárok külföldre történt sikeres közvetítéseinek száma a közvetítés országa szerint állománycsoportonként, foglalkozásonként, nemzetgazdasági ágazatonként;
 
-c) a külföldre történt közvetítések száma országonként, állampolgárság szerint (fő);
+d) a külföldi állampolgárok külföldre történt sikeres közvetítéseinek száma a közvetítés országa szerint állománycsoportonként, foglalkozásonként, nemzetgazdasági ágazatonként;
 
-d) a külföldi állampolgárok magyarországi munkavégzésre történő közvetítésének száma állampolgárság szerint (fő).
+e) a külföldi állampolgárok belföldre történt sikeres közvetítéseinek száma a közvetített külföldi állampolgár állampolgársága szerint;
+
+f) a közvetítést megelőzően munkával rendelkezők és nem rendelkezők száma, állománycsoportonként, korcsoportonként, nemenként, iskolai végzettség szerint.
 
 (2) Az (1) bekezdés a)–c) pontjában felsorolt adatokat a következő bontásban kell megadni, az összes munkaközvetítésen belül:
 
@@ -30,5 +32,5 @@ e) a közvetítettek száma foglalkozásonként, nemenként, állomány-, korcso
 
 f) a közvetítést megelőzően munkával rendelkező és nem rendelkező munkanélküliek száma, állománycsoportonként, korcsoportonként, nemenként, iskolai végzettség, nemzetgazdasági ágazatok szerint.
 
-[^34]: A 13. § a 171/2011. (VIII. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^35]: A 13. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 51. § (4) bekezdésével megállapított szöveg.
+[^41]: A 13. § a 171/2011. (VIII. 24.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^42]: A 13. § (1) bekezdése a 335/2016. (XI. 11.) Korm. rendelet 1. § (9) bekezdésével megállapított szöveg.

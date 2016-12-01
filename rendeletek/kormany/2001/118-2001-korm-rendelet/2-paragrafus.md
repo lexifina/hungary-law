@@ -10,11 +10,11 @@ c) a magán-munkaközvetítés szempontjából foglalkoztatásra irányuló jogv
 
 d) gyermeknevelő (au-pair) tevékenység: olyan foglalkoztatás, amelynek keretében a foglalkoztatott, magánszemélyeknél (családoknál) közreműködik a gyermekek ellátásában, nevelésében, gondozásában, és e tevékenységéért ellenszolgáltatásban (díjazás, szállás, étkezés, nyelvtanulás támogatása) részesül;
 
-e)[^5] munkaerő-kölcsönzés: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 214. § (1) bekezdés a) pontjában meghatározott tevékenység;
+e)[^5] munkaerő-kölcsönzés: a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: új Mt.) 214. § (1) bekezdés a) pontjában meghatározott tevékenység;
 
-f)[^6] kölcsönbeadó: az Mt. 214. § (1) bekezdés b) pontjában meghatározott munkáltató;
+f)[^6] kölcsönbeadó: az új Mt. 214. § (1) bekezdés b) pontjában meghatározott munkáltató;
 
-g)[^7] kölcsönvevő: az Mt. 214. § (1) bekezdés c) pontjában meghatározott munkáltató;
+g)[^7] kölcsönvevő: az új Mt. 214. § (1) bekezdés c) pontjában meghatározott munkáltató;
 
 h)[^8] közfoglalkoztatásra irányuló munkaerő-kölcsönzés: a közfoglalkoztatási jogviszony keretében történő munkaerő-kölcsönzés;
 
@@ -23,8 +23,8 @@ i)[^9] közhasznú kölcsönző: helyi vagy nemzetiségi önkormányzat, illetve
 (2) Külföldi munkavégzésre irányuló magán-munkaközvetítés esetén az (1) bekezdés c) pontjában meghatározott jogviszony tartalmára a fogadó ország vonatkozó jogszabályai az irányadók.
 
 [^4]: A 2. § (1) bekezdésének a) pontja az 57/2003. (IV. 24.) Korm. rendelet 1. §-ával megállapított, a 70/2015. (III. 30.) Korm. rendelet 51. § (7) bekezdés b) pontja szerint módosított szöveg.
-[^5]: A 2. § (1) bekezdés e) pontja a 135/2012. (VI. 28.) Korm. rendelet 8. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^6]: A 2. § (1) bekezdés f) pontja a 135/2012. (VI. 28.) Korm. rendelet 8. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^7]: A 2. § (1) bekezdés g) pontja a 135/2012. (VI. 28.) Korm. rendelet 8. § (2) bekezdés c) pontja szerint módosított szöveg.
+[^5]: A 2. § (1) bekezdés e) pontja a 335/2016. (XI. 11.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdés f) pontja a 135/2012. (VI. 28.) Korm. rendelet 8. § (2) bekezdés b) pontja, a 335/2016. (XI. 11.) Korm. rendelet 1. § (13) bekezdés a) pontja szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés g) pontja a 135/2012. (VI. 28.) Korm. rendelet 8. § (2) bekezdés c) pontja, a 335/2016. (XI. 11.) Korm. rendelet 1. § (13) bekezdés a) pontja szerint módosított szöveg.
 [^8]: A 2. § (1) bekezdés h) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be.
 [^9]: A 2. § (1) bekezdés i) pontját a 171/2011. (VIII. 24.) Korm. rendelet 2. §-a iktatta be, szövege a 135/2012. (VI. 28.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.

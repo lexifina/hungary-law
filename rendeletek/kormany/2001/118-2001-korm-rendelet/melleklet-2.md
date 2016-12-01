@@ -1,6 +1,6 @@
 ## A rendelet 4. § (1) bekezdés b) pontjában és 4/A. § (1) bekezdés a) pontjában foglalt szakképesítésként fogadható el:
 
-## a)[^56] szakirányú felsőfokú végzettség, ennek keretében
+## a)[^70] szakirányú felsőfokú végzettség, ennek keretében
 
 ## – egyetemek közgazdaságtudományi, gazdaságtudományi karán,
 
@@ -48,9 +48,9 @@
 
 ## c) középfokú iskolai végzettség és legalább ötéves, a b) pontban felsorolt humánpolitikai területen eltöltött gyakorlat; vagy
 
-## d)[^57] középfokú munkaerő-piaci ügyintéző, munkaerő-piaci menedzser és munkaerő-piaci szolgáltatási ügyintéző szakképesítés.
+## d)[^71] középfokú munkaerő-piaci ügyintéző, munkaerő-piaci menedzser és munkaerőpiaci szolgáltatási ügyintéző szakképesítés, valamint munkaerőpiaci szervező, elemző szakképesítés, munkaerő piaci szolgáltató, ügyintéző rész-szakképesítés, továbbá személyügyi gazdálkodó és fejlesztő szakképesítés és személyügyi ügyintéző rész-szaképesítés, illetve bármely középfokú szakképesítés, amely az ebben a pontban felsorolt szakképesítések valamelyikének megfeleltethető.
 
-2. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^58]
+2. számú melléklet a 118/2001. (VI. 30.) Korm. rendelethez[^72]
 
 ## A magán-munkaközvetítői tevékenység folytatásához szükséges bejelentés adattartalma
 
@@ -64,6 +64,6 @@
 
 5. A magán-munkaközvetítői tevékenység folytatásának helye(i), az irodahelyiség(ek) címe, telefonszáma, felszereltsége (telefon, telefax, számítógép, egyéb).
 
-[^56]: Az 1. számú melléklet a) pontja a 347/2013. (IX. 30.) Korm. rendelet 2. §-a, a 205/2015. (VII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^57]: Az 1. számú melléklet d) pontja a 193/2015. (VII. 21.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^58]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 231. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^70]: Az 1. számú melléklet a) pontja a 347/2013. (IX. 30.) Korm. rendelet 2. §-a, a 205/2015. (VII. 23.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^71]: Az 1. számú melléklet d) pontja a 335/2016. (XI. 11.) Korm. rendelet 1. § (14) bekezdésével megállapított szöveg.
+[^72]: A 2. számú melléklet a 182/2009. (IX. 10.) Korm. rendelet 231. § (7) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
