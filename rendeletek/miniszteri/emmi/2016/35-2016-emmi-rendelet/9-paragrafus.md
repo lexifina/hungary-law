@@ -1,0 +1,3 @@
+## 8. § A NEAr. 21. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) Az elektori választást lebonyolító szerv a civil szervezetek bírósági nyilvántartásáról és az ezzel összefüggő eljárási szabályokról szóló 2011. évi CLXXXI. törvény (a továbbiakban: Nyilvántartási tv.) 84. §-a szerinti országos névjegyzék alapján, annak benyújtásától számított öt napon belül megvizsgálja a 20. § (2) bekezdése szerinti bejelentkezések a Civil tv.-nek és e rendeletnek való megfelelőségét. Ezen eljárás keretében vizsgálni kell a bejelentkezés és a hatályos adatokat tartalmazó országos névjegyzék adatainak egyezőségét is.”
