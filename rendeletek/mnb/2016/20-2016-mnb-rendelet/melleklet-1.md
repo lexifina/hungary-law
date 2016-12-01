@@ -6,7 +6,7 @@ I. Az adatszolgáltatások és az adatszolgáltatók köre, az adatszolgáltatá
 
 | gyakorisága | teljesítésének módja | határideje |
 
-| 1 |  |  |  |  |  |  |
+| 1 | M01 | A hitelintézetek statisztikai mérlege és eredménykimutatása | hitelintézet, az ezen típusú EGT-fióktelep | havi | elektronikus úton (EBEAD rendszer) | a naptári negyedév első két hónapja tekintetében: tárgyidőszakot követő hónap 11. munkanap; a naptári negyedév utolsó hónapja tekintetében előzetes: tárgyidőszakot követő hónap 11. munkanap; végleges: tárgyidőszakot követő hónap 20. munkanap |
 
 | 2 |  |  |  |  |  |  |
 
@@ -42,4 +42,4 @@ I. Az adatszolgáltatások és az adatszolgáltatók köre, az adatszolgáltatá
 
 II. AZ EGYES ADATSZOLGÁLTATÁSOK TÁBLÁI
 
-[^2]: Az 1. melléklet I. pontjában foglalt táblázat 1. sora a 4. § (2) bekezdés a) pontja alapján 2016. december 1-jén, a 2–5., 7–10. és 15–17. sora a 4. § (3) bekezdés a) pontja alapján 2017. január 1-jén lép hatályba. Az 1. melléklet II. pontjában foglalt, az M01 MNB azonosító kódú adatszolgáltatáshoz kapcsolódó táblák a 4. § (2) bekezdés b) pontja alapján 2016. december 1-jén, az M02, M03, M04, M05, M12, M13, M14, M15, SOLO_FINREP_H, SOLO_FINREP_NE, SOLO_FINREP_AE MNB azonosító kódú adatszolgáltatáshoz kapcsolódó táblák a 4. § (3) bekezdés b) pontja alapján 2017. január 1-jén lépnek hatályba. Az 1. melléklet a 46/2016. (XI. 25.) MNB rendelet 2. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^2]: Az 1. melléklet I. pontjában foglalt táblázat 2–5., 7–10., 15–17. sora a 4. § (3) bekezdés a) pontja alapján, a II. pontjában foglalt, az M02, M03, M04, M05, M12, M13, M14, M15, SOLO_FINREP_H, SOLO_FINREP_NE, és SOLO_FINREP_AE MNB azonosító kódú adatszolgáltatáshoz kapcsolódó táblák a 4. § (3) bekezdés b) pontja alapján 2017. január 1-jén lépnek hatályba. Az 1. melléklet a 46/2016. (XI. 25.) MNB rendelet 2. § (2) bekezdés a) pontja szerint módosított szöveg.

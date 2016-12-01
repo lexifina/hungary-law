@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-20-20-2
 | --- | --- | --- |
 | 2016-06-07 | 2016-20-20-2C.1 | 20/2016. (VI. 6.) MNB rendelet |
 | 2016-11-26 | 2016-20-20-2C.2 | 46/2016. (XI. 25.) MNB rendelet |
+| 2016-12-01 | 2016-20-20-2C.3 | 46/2016. (XI. 25.) MNB rendelet |
