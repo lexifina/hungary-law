@@ -52,7 +52,9 @@
 
 | 25. | Színházi fegyver behozatalának, kivitelének, átszállításának engedélyezése – egy fegyver esetén – további fegyverenként | 8000 2000 |
 
-2. számú melléklet az 50/2004. (VIII. 31.) BM rendelethez[^10]
+| 26. | Elöltöltő fegyver vadászati célú használatának engedélyezése az engedély meglétét igazoló okmány kiállításával (az engedély cseréje, pótlása is) | 6000 |
+
+2. számú melléklet az 50/2004. (VIII. 31.) BM rendelethez[^12]
 
 |  | A | B |
 
@@ -100,4 +102,4 @@
 
 | 22. | Országos Rendőr-főkapitányság | 10023002-01451715-00000000 |
 
-[^10]: A 2. számú melléklet a 32/2016. (VII. 20.) BM rendelet 3. § b) pontjával megállapított szöveg.
+[^12]: A 2. számú melléklet a 32/2016. (VII. 20.) BM rendelet 3. § b) pontjával megállapított szöveg.
