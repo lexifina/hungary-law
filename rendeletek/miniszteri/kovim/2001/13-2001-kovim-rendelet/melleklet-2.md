@@ -2842,27 +2842,11 @@ Esés és zuhanás elleni védelem
 
 3. A fedélzeti oldaljárón elhelyezett bakok fedeleit és a közlekedési utakban lévő akadályokat, mint például a lépcsők éleit, a környező fedélzettől elütő színűre kell festeni.
 
-4. A fedélzetek és oldalfedélzetek külső szélét legalább 0,90 m magas mellvédekkel vagy az EN 711:1995 európai szabványnak megfelelő folyamatos védőkorláttal kell felszerelni. Az olyan munkaállomásokat, ahol fennáll az 1 m-t meghaladó magasságból való leesés veszélye, legalább 0,90 m magas mellvédekkel vagy nyíláskeretekkel vagy az EN 711:1995 európai szabványnak megfelelő folyamatos védőkorláttal kell felszerelni. Ha az oldalfedélzetek védőkorlátai leengedhetők:
+4.
 
-(a) a nyíláskerethez 0,7–1,1 m magasságban további, 0,02–0,04 m átmérőjű, folyamatos fogódzót kell rögzíteni; valamint
+4a.
 
-(b) ott, ahol az oldalfedélzet kezdődik, jól látható helyre az 1. függelék 10. ábrájának megfelelő, legalább 15 cm átmérőjű jelzéseket kell felhelyezni.
-
-Nyíláskeret hiányában rögzített védőkorlátot kell elhelyezni.
-
-4a. A 4. ponttól eltérően a lakótérrel nem rendelkező bárkákat és uszályokat nem kötelező mellvéddel vagy védőkorláttal ellátni, amennyiben:
-
-(a) a fedélzetek és az oldalfedélzetek külső széleit lábvédő korláttal látták el;
-
-(b) a nyíláskereteket a 4. pont (a) alpontjának megfelelően fogódzókkal látták el; valamint
-
-(c) a fedélzeten jól látható helyre az 1. függelék 10. ábrájának megfelelő, legalább 15 cm átmérőjű jelzéseket helyeztek el.
-
-4b. A 4. ponttól eltérően a süllyesztett vagy emelt rakományfedélzettel rendelkező hajók esetében nem kötelező védőkorláttal ellátni a fedélzetek külső széleit vagy az oldalfedélzeteket, amennyiben:
-
-(a) a folyosó a süllyesztett fedélzetek felett halad át és az EN 711:1995 szabványnak megfelelően rögzített védőkorlátok szegélyezik; valamint
-
-(b) a védőkorlát nélküli helyekre vezető utaknál jól látható helyre az 1. függelék 10. ábrájának megfelelő, legalább 15 cm átmérőjű jelzéseket helyeztek el.
+4b.
 
 5. Az olyan munkaterületen, ahol több mint 1 méter magasról le lehet esni, a hajózási hatóság előírhatja a megfelelő felszerelés és berendezés használatát a biztonságos munkavégzés biztosítása érdekében.
 
@@ -2878,7 +2862,7 @@ Fedélzeti oldaljáró
 
 1. A fedélzeti oldaljáró legalább 0,60 m szabad szélességgel rendelkezzen. Ez a méret bizonyos, a hajó üzemeltetésével kapcsolatos szerelvényeknél, például a fedélzetmosó csővezeték szelepeinél 0,50 m-ig, a bakoknál és kötélbikáknál 0,40 m-ig csökkenthető.
 
-2. Az oldalfedélzet felett mért 0,9 m magasságig az oldalfedélzet tiszta szélessége 0,50 m-re csökkenthető, ha a fenti tiszta szélesség a hajótest külső széle és a raktér belső széle között nem kisebb 0,65 m-nél.
+2.
 
 3. Az 1. és a 2. pont követelményei a fedélzet felett 2 m magasságig érvényesek.
 
@@ -4920,7 +4904,33 @@ A VITORLÁS SZEMÉLYHAJÓKRA VONATKOZÓ KÜLÖN KÖVETELMÉNYEK
 
 A II. rész alkalmazása
 
-[^51]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. § c) pontja, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a szerint módosított szöveg.
+A II. rész előírásain túlmenően az e fejezetben szereplő követelmények vonatkoznak a vitorlás személyhajókra.
+
+15a.02 cikk
+
+Eltérések bizonyos vitorlás személyhajók esetében
+
+1. A legfeljebb 45 m LWL hosszú és legfeljebb a méterben mért teljes LWL hossznak megfelelő számú utas szállítására engedélyezett vitorlás személyhajókra nem vonatkoznak az alábbi előírások:
+
+(a) a 3.03 cikk 7. pont, feltéve hogy a horgonyokat nem horgonyláncvezető csőben szállítják,
+
+(b) a 10.02 cikk 2. pont (d) alpont a hosszra vonatkozóan,
+
+(c) a 15.08 cikk 3. pont (a) alpont,
+
+(d) a 15.15 cikk 7. pont (a) alpont.
+
+2. Az 1. ponttól való eltérésként, ha a vitorlázat, a futókötélzet és a fedélzeti szerelvények ezt megengedik, az utasok számát a méterben mért teljes LWL hossznak megfelelő létszám 1,5-szeresére lehet növelni.
+
+15a.03 cikk
+
+Vitorláshajókra vonatkozó stabilitási követelmények
+
+1. A 15.03 cikk 3. pont szerinti billentő nyomaték kiszámításánál a hajó rendszersúlypontjának meghatározásához a behúzott vitorlákat figyelembe kell venni.
+
+2. A 15.03 cikk 2. pontja szerinti valamennyi terhelési eset figyelembevételével, továbbá a vitorlák standard elrendezésének alkalmazásával, a szélnyomás által okozott billentő nyomaték nem lehet olyan magas, hogy túllépje a 20°-os dőlésszöget. Ugyanakkor
+
+[^51]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. §-a, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a szerint módosított szöveg.
 [^*]: * Kihirdette a 2001. évi XI. törvény
 [^**]: ** Kihirdette a 2003. évi LXV. törvény
 [^***]: *** Kihirdette a 2001. évi X. törvény
