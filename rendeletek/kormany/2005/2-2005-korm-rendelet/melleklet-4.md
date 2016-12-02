@@ -92,11 +92,11 @@
 
 ## fa) a földvédelmi feladatkörében eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala,
 
-## fb) több járási (fővárosi kerületi) hivatal illetékességi területét érintő esetben a földvédelmi feladatkörében eljáró, megyeszékhely szerinti járási hivatal,
+## fb) több járási hivatal illetékességi területét érintő esetben a földvédelmi feladatkörében eljáró megyeszékhely szerinti járási hivatal,
 
-## fc) Pest megyében a földvédelmi feladatkörében eljáró Budakeszi Járási Hivatal,
+## fc) Pest megyében a több járási hivatal illetékességi területét érintő esetben a földvédelmi feladatkörében eljáró Budakeszi Járási Hivatal,
 
-## fd) a fővárosban a földvédelmi feladatkörében eljáró, Budapest Főváros Kormányhivatala XI. Kerületi Hivatala;
+## fd) a fővárosban a több fővárosi kerületi hivatal illetékességi területét érintő esetben a földvédelmi feladatkörében eljáró Budapest Főváros Kormányhivatala XI. Kerületi Hivatala;
 
 ## g)[^36] földtani és ásványvagyon védelemre kiterjedően:
 
@@ -219,7 +219,7 @@
 [^32]: A 3. számú melléklet II.2.c) pontját a 118/2015. (V. 13.) Korm. rendelet 1. §-a hatályon kívül helyezte.
 [^33]: A 3. számú melléklet II. cím 2. pont d) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a, a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés g) pontja szerint módosított szöveg.
 [^34]: A 3. számú melléklet II. cím 2. pont e) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a, a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés h) pontja szerint módosított szöveg.
-[^35]: A 3. számú melléklet II. cím 2. pont f) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a, a 296/2012. (X. 17.) Korm. rendelet 15. § b) pontja, a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^35]: A 3. melléklet II.2. pont f) alpontja a 341/2016. (XI. 17.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^36]: A 3. számú melléklet II.2. pontjának g) alpontja a 269/2006. (XII. 20.) Korm. rendelet 19. §-a, a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés j) pontja szerint módosított szöveg.
 [^37]: A 3. számú melléklet II.2.h) pontja a 118/2015. (V. 13.) Korm. rendelet 1. §-a szerint módosított szöveg.
 [^38]: A 3. számú melléklet II. cím 2. pont i) alpontja a 351/2010. (XII. 30.) Korm. rendelet 131. §-a, a 70/2015. (III. 30.) Korm. rendelet 70. § (2) bekezdés k) pontja szerint módosított szöveg.
