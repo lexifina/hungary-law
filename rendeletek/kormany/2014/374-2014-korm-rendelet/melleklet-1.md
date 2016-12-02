@@ -1,6 +1,6 @@
-1. melléklet a 374/2014. (XII. 31.) Korm. rendelethez[^85]
+1. melléklet a 374/2014. (XII. 31.) Korm. rendelethez[^106]
 
-Az osztatlan közös földtulajdon megszüntetésével kapcsolatos járási hivatal által elvégzett feladatok költségvonzata
+Az osztatlan közös földtulajdon megszüntetésével kapcsolatos, az Fkbt. 12/F. § (3) bekezdése alapján a járási hivatalt megillető költségtérítés
 
 A) Járási hivatalok adminisztrációs költségei sorsolás esetén
 
@@ -10,7 +10,7 @@ A) Járási hivatalok adminisztrációs költségei sorsolás esetén
 
 | 2. | Ügyfelek értesítése az eljárás megindulásáról | 13 000 |
 
-| 3. | Keretméréshez szükséges adatszolgáltatás a földmérők részére | 5 000 |
+| 3. | Adatszolgáltatás földmérők és jogi szolgáltatók részére | 5 000 |
 
 | 4. | Mezőgazdászi helyszínelés és földminősítés | 13 000 |
 
@@ -32,7 +32,7 @@ B) Járási hivatalok adminisztrációs költségei egyezség esetén
 
 | 2. | Ügyfelek értesítése az eljárás megindulásáról | 13 000 |
 
-| 3. | Keretméréshez szükséges adatszolgáltatás a földmérők részére | 5 000 |
+| 3. | Adatszolgáltatás földmérők és jogi szolgáltatók részére | 5 000 |
 
 | 4. | Mezőgazdászi helyszínelés és földminősítés | 13 000 |
 
@@ -44,4 +44,4 @@ B) Járási hivatalok adminisztrációs költségei egyezség esetén
 
 | 8. | Összes költség | 65 500 |
 
-[^85]: Az 1. mellékletet a 478/2015. (XII. 29.) Korm. rendelet 19. §-a iktatta be.
+[^106]: Az 1. mellékletet a 478/2015. (XII. 29.) Korm. rendelet 19. §-a iktatta be, szövege a 341/2016. (XI. 17.) Korm. rendelet 36. § k)–l) pontja szerint módosított szöveg.

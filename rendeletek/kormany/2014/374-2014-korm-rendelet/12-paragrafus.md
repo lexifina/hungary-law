@@ -8,7 +8,7 @@
 
 (4) A megosztás és kitűzés munkarészeit az R. szerint kell elkészíteni.
 
-(5)[^40] A változási vázrajz aláírását pótolja:
+(5)[^48] A változási vázrajz aláírását pótolja:
 
 a) egyezség esetén a kérelmezők aláírása,
 
@@ -18,4 +18,4 @@ b) teljes körű egyezség esetén a tulajdonosok aláírása,
 
 (6) Sorsolás esetén a változási vázrajzon a tulajdonosi aláírásokat a sorsolási jegyzőkönyv pótolja.
 
-[^40]: A 12. § (5) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.
+[^48]: A 12. § (5) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 8. §-ával megállapított szöveg.

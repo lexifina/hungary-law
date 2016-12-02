@@ -1,4 +1,4 @@
-4. § (1)[^9] A megosztási eljárásban a járási hivatal feladata:
+4. § (1)[^13] A megosztási eljárásban a járási hivatal feladata:
 
 a) a kérelmek, egyezséget tartalmazó okiratok összesítése és nyilvántartása,
 
@@ -10,13 +10,13 @@ d) a 25. §-ban meghatározott soron kívüli eljárás lefolytatása,
 
 e) a 6. § (3) bekezdésében foglalt adatszolgáltatás a Nemzeti Kataszteri Program Nonprofit Kft. részére,
 
-f) a megosztási eljárással összefüggő feladatok ellátásához szükséges adatok szolgáltatása a nyertes jogi szolgáltató és földmérő vállalkozó vagy vállalkozás (a továbbiakban: földmérő) kiválasztásáról szóló 6. § (4) bekezdése szerinti adatszolgáltatás időpontját követő 8. napig, mely adatszolgáltatás kiterjed
+f)[^14] mezőgazdászi helyszínelés, ha szükséges a művelési ág változásának átvezetése a g) pontban meghatározott határidőig,
 
-fa) a jogi szolgáltató és a földmérő részére: különösen a kérelmek digitális másolata, vagy az Fkbt. 9/C. § (1) bekezdése szerinti sorsolási jegyzőkönyv, ingatlan-nyilvántartási adatok, földmérési munkarészek szolgáltatására,
+g)[^15] a megosztási eljárással összefüggő feladatok ellátásához szükséges, elektronikus úton teljesítendő adatszolgáltatás a 6. § (4) bekezdése szerinti értesítés kézhezvételét követő 8. napig, mely adatszolgáltatás kiterjed a megosztással érintett földrészlet tekintetében
 
-fb) a jogi szolgáltató részére ezen felül a földhasználati nyilvántartásból a használatba adó tulajdonos tulajdoni lapon szereplő természetes személyazonosító adatait és a használó azonosítást és elérhetőséget segítő adatai, a használati megosztásról szóló megállapodás digitális másolata szolgáltatására,
+ga) a földmérő vállalkozó vagy vállalkozás (a továbbiakban: földmérő) és jogi szolgáltató részére különösen a kérelmek, az Fkbt. 9/E. § (4) bekezdése szerinti határozatok, az ingatlan-nyilvántartási adatok, a földmérési munkarészek és a mezőgazdászi helyszínelésről készült jegyzőkönyv másolatának, valamint
 
-g)[^10] a földrészlet természetbeni állapotának az ingatlan-nyilvántartásban szereplő adatokkal való összehasonlítása céljából végzett helyszíni szemle lefolytatása (a továbbiakban: mezőgazdászi helyszínelés), ha szükséges a művelési ág változásának átvezetése, az f) pontban meghatározott határidőig,
+gb) a jogi szolgáltató részére a ga) alpontban foglaltakon túl a földhasználati nyilvántartásból a földhasználati lap részleges szemle-másolatának, valamint a használati megosztásról szóló megállapodás másolatának szolgáltatására,
 
 h) a 2. § (1) bekezdése szerinti eljárások lefolytatása, ide nem értve a keretmérést,
 
@@ -24,7 +24,7 @@ i) a megosztási munkarészek vizsgálatára az ingatlan-nyilvántartási célú
 
 j) részvétel az Fkbt. 12/H. § (2) bekezdésében meghatározott sorsolási bizottság munkájában,
 
-k)[^11] a 15. § (1) bekezdésében, valamint a 16. §-ban meghatározott egyezség esetén befogadó nyilatkozat kiállítása és közlése,
+k)[^16] a 15. § (1) bekezdésében, valamint a 16. §-ban meghatározott egyezség esetén befogadó nyilatkozat kiállítása és közlése,
 
 l) a pénzügyi teljesítéshez szükséges igazolások kiadása,
 
@@ -32,7 +32,7 @@ m) az 1. § (2) bekezdése szerinti tájékoztató honlapon és hirdetőtáblán
 
 (2) A megosztási eljárásban – a 25. §-ban meghatározott soron kívüli eljárás kivételével – a Nemzeti Kataszteri Program Nonprofit Kft. feladata
 
-a)[^12] a járási hivatal tájékoztatása a c ) pont szerinti eljárás megindításáról,
+a)[^17] a járási hivatal tájékoztatása a c ) pont szerinti eljárás megindításáról,
 
 b) együttműködési megállapodás megkötése az érintett kormányhivatalokkal,
 
@@ -40,9 +40,9 @@ c) a földmérő és a jogi szolgáltató kiválasztása,
 
 d) a (3) és (4) bekezdésben meghatározott feladatokra a földmérővel és a jogi szolgáltatóval a szerződés megkötése,
 
-e)[^13] a nyertes jogi szolgáltató és földmérő kiválasztásáról szóló tájékoztató megküldése kormányhivatalnak,
+e)[^18] a nyertes jogi szolgáltató és földmérő kiválasztásáról szóló tájékoztató megküldése kormányhivatalnak,
 
-f)[^14] az eljárásban résztvevő járási hivatal, földmérő és jogi szolgáltató közötti együttműködés koordinálása,
+f)[^19] az eljárásban résztvevő járási hivatal, földmérő és jogi szolgáltató közötti együttműködés koordinálása,
 
 g) a teljesítés folyamatos nyomon követése.
 
@@ -52,9 +52,9 @@ a) a keretmérés,
 
 b) az egyeztetés,
 
-ba)[^15] az illetékes közlekedési hatósági hatáskörében eljáró fővárosi és megyei kormányhivatallal, abban az esetben, ha a mezőgazdasági termelés szállítási és közlekedési feladatainak kiszolgálására, továbbá feltételeinek megteremtése érdekében kialakítandó új út (a továbbiakban: szántóföldi műveleti út) országos, vagy helyi közútra közvetlenül csatlakozik,
+ba)[^20] az illetékes közlekedési hatósági hatáskörében eljáró fővárosi és megyei kormányhivatallal, abban az esetben, ha a mezőgazdasági termelés szállítási és közlekedési feladatainak kiszolgálására, továbbá feltételeinek megteremtése érdekében kialakítandó új út (a továbbiakban: szántóföldi műveleti út) országos, vagy helyi közútra közvetlenül csatlakozik,
 
-bb) az önkormányzattal belterületi megosztás esetén, a helyi építési szabályzat előírásainak követelményeiről,
+bb)[^21] az önkormányzattal belterületi megosztás esetén, a helyi építési szabályzat előírásainak az út kialakítására vonatkozó követelményeiről,
 
 c) a telekalakításról szóló miniszteri rendelet (a továbbiakban: miniszteri rendelet) előírásainak figyelembevétele,
 
@@ -62,11 +62,11 @@ d) közreműködés az egyeztető tárgyaláson, valamint a sorsolási bizottsá
 
 e) az értékarányos megosztás végrehajtása, beleértve a visszamaradó földrészletben maradó tulajdonosok változott tulajdoni arányainak meghatározását,
 
-f)[^16] az ingatlan-nyilvántartási átvezetéshez szükséges, változási munkarészek – ideértve a művelési ág változás átvezetéséhez szükséges munkarészeket is – elkészítése és azok átadása a járási hivatal, illetve a 15. §-ban és a 16. §-ban meghatározott egyezség esetén a jogi szolgáltató részére,
+f)[^22] az ingatlan-nyilvántartási átvezetéshez szükséges, változási munkarészek – ideértve a művelési ág változás átvezetéséhez szükséges munkarészeket is – elkészítése és azok átadása a járási hivatal, illetve a 15. §-ban és a 16. §-ban meghatározott egyezség esetén a jogi szolgáltató részére,
 
-g)[^17] az új földrészletek kitűzésének végrehajtása, tulajdonosok részére történő helyszíni bemutatása és dokumentálása, továbbá a helyszíni bemutatásról szóló jegyzőkönyv és földmérési dokumentáció készítése és átadása a járási hivatal részére,
+g)[^23] az új földrészletek kitűzésének végrehajtása, tulajdonosok részére történő helyszíni bemutatása és dokumentálása, továbbá a helyszíni bemutatásról szóló jegyzőkönyv és földmérési dokumentáció készítése és átadása a járási hivatal részére,
 
-h)[^18] az első egyezségi meghívó kiküldését megelőzően, a 15. § (5) bekezdés e) és f) pontja szerinti adatok közlése, a jogi szolgáltató részére.
+h)[^24] az első egyezségi meghívó kiküldését megelőzően, a 15. § (5) bekezdés e) és f) pontja szerinti adatok közlése, a jogi szolgáltató részére.
 
 (4) A megosztási eljárásban jogi szolgáltatói feladatnak minősül különösen:
 
@@ -74,7 +74,7 @@ a) az egyezség létrehozásának előkészítése, tulajdonosok értesítése, 
 
 b) az egyezségi tárgyalás megtartása,
 
-c)[^19] az alábbi nyilatkozatok beszerzése arra vonatkozóan, hogy
+c)[^25] az alábbi nyilatkozatok beszerzése arra vonatkozóan, hogy
 
 ca) az uniós állami támogatás visszatéríttetésére vonatkozó eljárás a kérelmezővel szemben fennáll,
 
@@ -86,7 +86,7 @@ d) a kérelem fenntartásával kapcsolatos nyilatkozatok beszerzése,
 
 e) az ingatlan-nyilvántartási átvezetésre alkalmas egyezségi okirat szerkesztése,
 
-f)[^20] a 15. §-ban és a 16. §-ban meghatározott egyezség, valamint a 21. § (1) bekezdése szerinti sorsolási megállapodás esetén a jogi képviselet ellátása az ingatlan-nyilvántartási eljárásban,
+f)[^26] a 15. §-ban és a 16. §-ban meghatározott egyezség, valamint a 21. § (1) bekezdése szerinti sorsolási megállapodás esetén a jogi képviselet ellátása az ingatlan-nyilvántartási eljárásban,
 
 g) a sorsolás megszervezésével, lebonyolításával kapcsolatos adminisztratív feladatok ellátása,
 
@@ -94,15 +94,17 @@ h) a sorsolási bizottság munkájában való részvétel, a sorsolás során jo
 
 i) az ingatlan-nyilvántartási átvezetésre alkalmas sorsolási megállapodási okirat szerkesztése.
 
-[^9]: A 4. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
-[^10]: A 4. § (1) bekezdés g) pontja a 478/2015. (XII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^11]: A 4. § (1) bekezdés k) pontja a 478/2015. (XII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^12]: A 4. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
-[^13]: A 4. § (2) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 7. pontja szerint módosított szöveg.
-[^14]: A 4. § (2) bekezdés f) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
-[^15]: A 4. § (3) bekezdés b) pont ba) alpontja a 478/2015. (XII. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^16]: A 4. § (3) bekezdés f) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
-[^17]: A 4. § (3) bekezdés g) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
-[^18]: A 4. § (3) bekezdés h) pontját a 478/2015. (XII. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be.
-[^19]: A 4. § (4) bekezdés c) pontja a 478/2015. (XII. 29.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
-[^20]: A 4. § (4) bekezdés f) pontja a 478/2015. (XII. 29.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.
+[^13]: A 4. § (1) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
+[^14]: A 4. § (1) bekezdés f) pontja a 341/2016. (XI. 17.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^15]: A 4. § (1) bekezdés g) pontja a 341/2016. (XI. 17.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^16]: A 4. § (1) bekezdés k) pontja a 478/2015. (XII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^17]: A 4. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
+[^18]: A 4. § (2) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 7. pontja szerint módosított szöveg.
+[^19]: A 4. § (2) bekezdés f) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
+[^20]: A 4. § (3) bekezdés b) pont ba) alpontja a 478/2015. (XII. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^21]: A 4. § (3) bekezdés b) pont bb) alpontja a 341/2016. (XI. 17.) Korm. rendelet 36. § c) pontja szerint módosított szöveg.
+[^22]: A 4. § (3) bekezdés f) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
+[^23]: A 4. § (3) bekezdés g) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
+[^24]: A 4. § (3) bekezdés h) pontját a 478/2015. (XII. 29.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^25]: A 4. § (4) bekezdés c) pontja a 478/2015. (XII. 29.) Korm. rendelet 2. § (5) bekezdésével megállapított szöveg.
+[^26]: A 4. § (4) bekezdés f) pontja a 478/2015. (XII. 29.) Korm. rendelet 2. § (6) bekezdésével megállapított szöveg.

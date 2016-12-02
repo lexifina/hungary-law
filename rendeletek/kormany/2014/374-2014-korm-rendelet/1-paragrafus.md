@@ -22,15 +22,23 @@ f) a megosztási eljárás alapjául szolgáló hatályos jogszabályok megjelö
 
 (3)[^5] A (2) bekezdés szerinti tájékoztatót a járási hivatal székhelyén, a földrészlet fekvése szerinti települési (fővárosban a kerületi) önkormányzat polgármesteri hivatala, a fővárosban a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a főpolgármesteri hivatal hirdetőtábláján, valamint a fővárosi és megyei kormányhivatal honlapján – a tájékoztató közzétételének napjától számított – 90 napra kell közzétenni. Azon települések esetében, amelyek közös önkormányzati hivatalt tartanak fenn, a tájékoztatót a közös önkormányzati hivatalban és a közös önkormányzati hivatalhoz tartozó önkormányzatnál is közzé kell tenni. A tájékoztató közzétételének napja a hirdetménynek a járási hivatal hirdetőtábláján való kifüggesztés napja.
 
-(4) E rendelet alkalmazásában kérelmezőnek az Fkbt. 12/F. § (1) bekezdésében meghatározott határidőn belül kérelmet benyújtó tulajdonostársat kell tekinteni. Ha az e rendelet hatálybalépésének időpontjáig, vagy azt követően a kérelmező tulajdoni hányada más személyre került átruházásra vagy átszállásra, a megosztási eljárásban az ingatlan-nyilvántartás szerinti tulajdonost kell kérelmezőnek tekinteni (a továbbiakban: jogutód).
+(4)[^6] E rendelet alkalmazásában kérelmezőnek kell tekinteni:
 
-(5)[^6] Ha a tulajdoni hányad már a jogutód tulajdonában (vagyonkezelésében) van, akkor a járási hivatalnak – ha ez korábban nem történt meg – 15 napos határidő tűzésével nyilatkoztatni kell arról, hogy jogutódként fenntartja-e a kérelmet.
+a) az Fkbt. 12/F. § (1) bekezdésében meghatározott határidőn belül kérelmet benyújtó tulajdonostársat,
 
-(6) Ha a jogutód az (5) bekezdés szerint nem nyilatkozik, vagy a jogutód az ingatlan-nyilvántartásból nem állapítható meg, akkor a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezései az irányadók.
+b) az Fkbt. 9/E. § (5) bekezdése szerinti tulajdonostársat,
+
+c) ha az e rendelet hatálybalépésének időpontjáig, vagy azt követően az a) és b) pont szerinti kérelmező tulajdoni hányada más személy részére került átruházásra vagy más személyre átszállt, a megosztási eljárásban az ingatlan-nyilvántartás szerinti tulajdonost (a továbbiakban: jogutód), amennyiben az (5) bekezdés szerinti jogutódként a kérelmét fenntartja, vagy nem nyilatkozik.
+
+(5)[^7] Ha a tulajdoni hányad a 6. § (4) bekezdés szerinti értesítés kézhezvételének időpontjában a jogutód tulajdonában (vagyonkezelésében) van, akkor a járási hivatalnak – ha ez korábban nem történt meg – 15 napos határidő tűzésével nyilatkoztatni kell arról, hogy jogutódként fenntartja-e a kérelmet.
+
+(6)[^8] Ha a jogutód az ingatlan-nyilvántartásból nem állapítható meg, akkor az eljárás folytatására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezései az irányadóak.
 
 [^1]: Az 1. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 1. pontja szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdés nyitó szövegrésze a 70/2015. (III. 30.) Korm. rendelet 261. § 2. pontja szerint módosított szöveg.
 [^3]: Az 1. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
 [^4]: Az 1. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
 [^5]: A 1. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 4. pontja szerint módosított szöveg.
-[^6]: Az 1. § (5) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^6]: Az 1. § (4) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^7]: Az 1. § (5) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 1. §-ával megállapított, a 341/2016. (XI. 17.) Korm. rendelet 36. § a) pontja szerint módosított szöveg.
+[^8]: Az 1. § (6) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 26. § (2) bekezdésével megállapított szöveg.

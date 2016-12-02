@@ -16,7 +16,7 @@ g) a sorsolás eredménye szerinti kiosztási sorrendet,
 
 h) mellékletként a jelenléti ívet, valamint a meghatalmazásokat tartalmazó okiratokat,
 
-i)[^63] mellékletként az osztóprogram segítségével a földmérő által elkészített és kinyomtatott megosztási térképvázlatot, melyen fel kell tüntetni a kialakítandó földrészletek – ideértve a betervezett utakat és a közös tulajdonban maradó földrészleteket is – helyrajzi számait, határvonalait és a kiosztott földrészletek tulajdonosainak nevét,
+i)[^80] mellékletként az osztóprogram segítségével a földmérő által elkészített és kinyomtatott megosztási térképvázlatot, melyen fel kell tüntetni a kialakítandó földrészletek – ideértve a betervezett utakat és a közös tulajdonban maradó földrészleteket is – helyrajzi számait, határvonalait és a kiosztott földrészletek tulajdonosainak nevét,
 
 j) az R. alapján elkészített területkimutatást,
 
@@ -24,15 +24,15 @@ k) azt a bejegyzést, hogy a jogi képviselő ismertette és a jelenlévők tudo
 
 (2) A jegyzőkönyv oldalanként tartalmazza a sorsolási bizottság elnökének és tagjainak a kézjegyét, valamint a jegyzőkönyv végén nyilvánvalóan azonosítható aláírásukat és a jogi szolgáltató ellenjegyzését.
 
-(2a)[^64] Sorsolás esetén a változásátvezetési eljárás alapjául szolgáló okirat az (1) és (2) bekezdés szerinti jegyzőkönyv.
+(2a)[^81] Sorsolás esetén a változásátvezetési eljárás alapjául szolgáló okirat az (1) és (2) bekezdés szerinti jegyzőkönyv.
 
 (3) A sorsolási jegyzőkönyv négy eredeti példányban készül.
 
-(4)[^65] A sorsolási jegyzőkönyvet a járási hivatalnak soron kívül záradékkal kell ellátnia, ha a sorsolás lefolytatása ellen a 20. § szerinti kifogás nem került benyújtásra, vagy a benyújtott kifogást a kormányhivatal elutasította és a sorsolás eredményét a kormányhivatal helyben hagyta. A záradék azt tanúsítja, hogy a megosztási eljárás a sorsolás eredményének megfelelően folytatható.
+(4)[^82] A sorsolási jegyzőkönyvet a járási hivatalnak soron kívül záradékkal kell ellátnia, ha a sorsolás lefolytatása ellen a 20. § szerinti kifogás nem került benyújtásra, vagy a benyújtott kifogást a kormányhivatal elutasította és a sorsolás eredményét a kormányhivatal helyben hagyta. A záradék azt tanúsítja, hogy a megosztási eljárás a sorsolás eredményének megfelelően folytatható.
 
-(5)[^66] Záradékolás után a sorsolási jegyzőkönyv két példánya a járási hivatalnál, egy példány a jogi szolgáltatónál és egy példány a földmérőnél kerül megőrzésre.
+(5)[^83] Záradékolás után a sorsolási jegyzőkönyv két példánya a járási hivatalnál, egy példány a jogi szolgáltatónál és egy példány a földmérőnél kerül megőrzésre.
 
-[^63]: A 19. § (1) bekezdés i) pontja a 478/2015. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
-[^64]: A 19. § (2a) bekezdését a 478/2015. (XII. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
-[^65]: A 19. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 14. és 20. pontja szerint módosított szöveg.
-[^66]: A 19. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 21. pontja szerint módosított szöveg.
+[^80]: A 19. § (1) bekezdés i) pontja a 478/2015. (XII. 29.) Korm. rendelet 12. § (1) bekezdésével megállapított szöveg.
+[^81]: A 19. § (2a) bekezdését a 478/2015. (XII. 29.) Korm. rendelet 12. § (2) bekezdése iktatta be.
+[^82]: A 19. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 14. és 20. pontja szerint módosított szöveg.
+[^83]: A 19. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 21. pontja szerint módosított szöveg.
