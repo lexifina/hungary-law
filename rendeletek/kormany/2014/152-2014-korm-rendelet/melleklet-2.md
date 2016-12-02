@@ -134,7 +134,7 @@
 
 |  | 1 | A központi államigazgatási szerv neve | A miniszter hatásköre |
 
-|  | 2 | Szellemi Tulajdon Nemzeti Hivatala | felügyelet |
+|  | 2 |  |  |
 
 |  | 3 | Igazságügyi Hivatal | irányítás |
 
@@ -167,6 +167,8 @@
 |  | 6 |  |  |
 
 |  | 7 | Nemzeti Szakképzési és Felnőttképzési Hivatal | irányítás |
+
+|  | 8. | Szellemi Tulajdon Nemzeti Hivatala | felügyelet |
 
 ## I) Nemzeti fejlesztési miniszter
 
