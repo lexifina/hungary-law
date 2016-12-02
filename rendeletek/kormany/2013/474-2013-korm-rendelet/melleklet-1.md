@@ -1,4 +1,4 @@
-1. melléklet a 474/2013. (XII. 12.) Korm. rendelethez
+1. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^22]
 
 ## Az adás-vételi szerződés hirdetményi úton történő közlésére irányuló közzétételi kérelem tartalma
 
@@ -36,7 +36,7 @@ c) az átruházással érintett tulajdoni hányad.
 
 3. A kérelem mellékleteként csatolt okiratokra vonatkozó adatok:
 
-a kérelemhez csatolt eredeti adás-vételi szerződések példányszáma.
+a kérelemhez csatolt eredeti adás-vételi szerződések példányszáma, pótlapok száma.
 
 4. A kérelmező közzététel iránti kérelme, a kérelmező aláírása, gazdálkodó szervezet, egyéb szervezet kérelmező esetében a bélyegzőlenyomata, és az aláírás dátuma.
 
@@ -49,3 +49,5 @@ II. A jegyző által feltüntetendő tartalmi elemek:
 2. Személyesen átvett közzétételi kérelem esetén az átvétel időpontja.
 
 3. A jegyző aláírása, bélyegzője és az aláírás dátuma.
+
+[^22]: Az 1. melléklet a 341/2016. (XI. 17.) Korm. rendelet 13. § b) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-2. melléklet a 474/2013. (XII. 12.) Korm. rendelethez
+2. melléklet a 474/2013. (XII. 12.) Korm. rendelethez[^23]
 
 ## A haszonbérleti szerződés hirdetményi úton történő közlésére irányuló közzétételi kérelem tartalma
 
@@ -38,13 +38,13 @@ d) a haszonbérlet kezdetének és befejezésének időpontja.
 
 4. A kérelem mellékleteként csatolt okiratokra vonatkozó adatok:
 
-a) a kérelemhez csatolt eredeti haszonbérleti szerződések példányszámának megjelölése,
+a) a kérelemhez csatolt eredeti haszonbérleti szerződések példányszámának, pótlapok oldalszámának megjelölése,
 
-b) az osztatlan közös tulajdonban álló földet érintőn, ha a haszonbérleti szerződés a haszonbérbeadó tulajdonostársanként külön okiratonként készült
+b) az osztatlan közös tulajdonban álló földet érintően, ha a haszonbérleti szerződés a haszonbérbeadó tulajdonostársanként külön okiratonként készült
 
 ba) a haszonbérlőnek a 12. § (1) bekezdés szerinti nyilatkozata,
 
-bb) 3. mellékletben meghatározott adattartalmú, a kérelmező tulajdonostárs által kitöltött közlemény.
+bb) 3. mellékletben meghatározott adattartalmú, a kérelmező tulajdonostárs által kitöltött közzétételi közlemény.
 
 5. A kérelmező közzététel iránti kérelme, a kérelmező aláírása, gazdálkodó, vagy egyéb szervezet kérelmező esetében a bélyegzőlenyomata, és az aláírás dátuma.
 
@@ -57,3 +57,5 @@ II. A jegyző által feltüntetendő tartalmi elemek:
 2. Személyesen átvett közzétételi kérelem esetén az átvétel időpontja.
 
 3. A jegyző aláírása, bélyegzője és az aláírás dátuma.
+
+[^23]: A 2. melléklet a 341/2016. (XI. 17.) Korm. rendelet 13. § c)–e) pontja szerint módosított szöveg.

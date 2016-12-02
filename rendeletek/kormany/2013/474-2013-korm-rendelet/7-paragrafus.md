@@ -1,5 +1,3 @@
-## 6. § A haszonbérleti szerződés hirdetményi úton történő közlésére a 2–4. §-ban foglaltakat a 7–11. §-ban foglalt eltérésekkel kell alkalmazni, azzal, hogy az eladó alatt a haszonbérbeadót, a vevő alatt a haszonbérlőt, az adás-vételi szerződés alatt a haszonbérleti szerződést kell érteni.
-
 7. § (1) A közzétételi kérelmet a haszonbérbeadónak kell benyújtania a jegyzőhöz. Ha a haszonbérleti szerződés tárgyát osztatlan közös tulajdonban álló föld képezi, és a szerződés szerint a haszonbérlet
 
 a) a földrészlet területének egészére jött létre, vagy
