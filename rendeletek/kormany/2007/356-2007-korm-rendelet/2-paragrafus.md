@@ -1,6 +1,6 @@
 ## 1. §[^2] A földhasználati nyilvántartás számítógépes adatbázisban rögzített, az azt kezelő számítástechnikai eszközzel olvasható és kinyomtatható formában is megjeleníthető földhasználati lapból, továbbá okirattárból, és a törölt adatok állományából áll.
 
-2. § (1)[^3] E rendelet alkalmazásában földhasználó: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvényben (a továbbiakban: Fétv.) előírása alapján földhasználati bejelentésre kötelezett olyan természetes személy, vagy gazdálkodó szervezet, akinek, vagy amelynek a földhasználata
+2. § (1)[^3] E rendelet alkalmazásában földhasználó: a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény (a továbbiakban: Fétv.) előírása alapján földhasználati bejelentésre kötelezett olyan természetes személy, vagy gazdálkodó szervezet, akinek, vagy amelynek a földhasználata
 
 a) a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvényben (a továbbiakban: Földforgalmi tv.), valamint a Fétv.-ben meghatározott földhasználati szerződésen,
 
@@ -29,7 +29,7 @@ g)[^6] a Nemzeti Földalapról szóló törvényben meghatározott megbízási s
 (4)[^11] Az okirattár a földhasználati adatlapokat, a földhasználati szerződéseket, továbbá a nyilvántartásba vétellel és az adatszolgáltatással kapcsolatos más okiratokat tartalmazza.
 
 [^2]: [Az 54/2013. (II. 26.) Korm. rendelet 7. § a) pontjával elrendelt módosítás, amely szerint az 1. § (2) bekezdésében az „iránti kérelmet el kell utasítani” szövegrész helyébe az „iránti eljárást meg kell szüntetni” szöveg lép, nem vezethető át.] Az 1. § a 473/2013. (II. 12.) Korm. rendelet 14. § (1) bekezdés a) pontja szerint módosított szöveg.
-[^3]: A 2. § (1) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § (1) bekezdése a 473/2013. (XII. 12.) Korm. rendelet 1. § (1) bekezdésével megállapított, nyitó szövegrésze a 341/2016. (XI. 17.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (1) bekezdés c) pontja a 45/2016. (III. 10.) Korm. rendelet 16. § a) pontjával megállapított szöveg.
 [^5]: A 2. § (1) bekezdés f) pontját a 45/2016. (III. 10.) Korm. rendelet 2. §-a iktatta be.
 [^6]: A 2. § (1) bekezdés g) pontját a 45/2016. (III. 10.) Korm. rendelet 2. §-a iktatta be.
