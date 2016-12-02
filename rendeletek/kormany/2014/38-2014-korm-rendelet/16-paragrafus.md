@@ -2,11 +2,11 @@
 
 (2) A hivatalbóli törlés esetén alakszerű határozatot kell hozni.
 
-(3)[^44] A járási hivatal a nyilvántartásból való törlés megtörténtét a „Törölt” megjegyzéssel ellátott adatlap másolatával közli. Hivatalbóli törlés esetén a „Törölt” megjegyzéssel ellátott adatlap másolatához csatolni kell a törlésről szóló határozatot.
+(3)[^52] A járási hivatal a nyilvántartásból való törlés megtörténtét a „Törölt” megjegyzéssel ellátott adatlap másolatával közli. Hivatalbóli törlés esetén a „Törölt” megjegyzéssel ellátott adatlap másolatához csatolni kell a törlésről szóló határozatot.
 
 (4) A 14–15. §-ban meghatározott esetekben a nyilvántartásból való törléssel az adatlap megszűnik.
 
-(5)[^45] Ha a járási hivatal ellenőrzése során vagy bejelentés alapján észleli, hogy a törlésre tévesen került sor, az adatlapot helyre kell állítani.
+(5)[^53] Ha a járási hivatal ellenőrzése során vagy bejelentés alapján észleli, hogy a törlésre tévesen került sor, az adatlapot helyre kell állítani.
 
-[^44]: A 16. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
-[^45]: A 16. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
+[^52]: A 16. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.
+[^53]: A 16. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 244. § d) pontja szerint módosított szöveg.

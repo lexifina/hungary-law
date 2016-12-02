@@ -1,6 +1,6 @@
 ## 22. § A Központi Statisztikai Hivatal a nyilvántartás adataihoz – a feladatai ellátása érdekében, statisztikai célra – egyedi azonosításra alkalmas módon jogosult hozzáférni.
 
-22/A. §[^55] (1) A Földmérési és Távérzékelési Intézet – egyedi megállapodás alapján – a földműves nyilvántartás adatbázisából adatfeldolgozási tevékenységet igénylő esetekben
+22/A. §[^63] (1) A Földmérési és Távérzékelési Intézet – egyedi megállapodás alapján – a földműves nyilvántartás adatbázisából adatfeldolgozási tevékenységet igénylő esetekben
 
 a) országos statisztikai célú adatgyűjtéshez,
 
@@ -16,4 +16,4 @@ c) több mezőgazdasági igazgatási szerv illetékességi területére kiterjed
 
 (4) Az egyedi megállapodásnak tartalmaznia kell az adatfeldolgozási tevékenység meghatározását, az adatleválogatás adattartalmát, az átadásra kerülő adattartalom formátumát, valamint az adatszolgáltatás teljesítésének a határidejét és az ellenszolgáltatás mértékét, illetve az ingyenességét.
 
-[^55]: A 22/A. §-t a 373/2014. (XII. 31.) Korm. rendelet 54. § (6) bekezdése iktatta be.
+[^63]: A 22/A. §-t a 373/2014. (XII. 31.) Korm. rendelet 54. § (6) bekezdése iktatta be.
