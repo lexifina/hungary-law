@@ -1,3 +1,0 @@
-## 9. § Az R1. 32. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-## „(1) A (2) bekezdésben meghatározott kivétellel az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában meghatározott engedély, a gáz- és riasztófegyver viselésére jogosító engedély, a muzeális fegyver sportlövészeti célú használatára jogosító engedély, az elöltöltő fegyver vadászati célú használatára jogosító engedély, illetve a házilagos lőszerszerelésre és -újratöltésre jogosító engedély visszavonásig hatályos. A házilagos lőszerszerelésre és -újratöltésre jogosító engedélyt – valamint az engedély meglétét igazoló hatósági igazolványt – a rendőrség az Ftv. 3. § (1) bekezdés c) pont ca) alpontjában meghatározott engedély visszavonásával egyidejűleg visszavonja.”

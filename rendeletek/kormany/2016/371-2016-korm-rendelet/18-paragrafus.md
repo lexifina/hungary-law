@@ -1,1 +1,0 @@
-## „(3a) A lőszerelem gyártására, javítására, forgalmazására jogosult számára – kérelmére – a (3) bekezdésben meghatározott mennyiségi korlátot meghaladó mennyiségű lőpor, illetve csappantyú tárolása is engedélyezhető, ha bizonyítja, hogy tevékenysége ezt indokolja.”
