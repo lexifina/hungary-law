@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-373-20-
 | 2015-11-11 | 2014-373-20-22.11 | 325/2015. (XI. 10.) Korm. rendelet |
 | 2016-01-01 | 2014-373-20-22.12 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-04-01 | 2014-373-20-22.13 | 67/2016. (III. 31.) Korm. rendelet |
+| 2016-12-02 | 2014-373-20-22.14 | 341/2016. (XI. 17.) Korm. rendelet |

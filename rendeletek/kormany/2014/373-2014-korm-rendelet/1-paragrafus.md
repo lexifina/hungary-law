@@ -6,9 +6,9 @@
 
 1. § (1) A földügyi igazgatás:
 
-a)[^1] helyi szervei: az ingatlanügyi és telekalakítási hatóságként, továbbá mezőgazdasági igazgatási szervként eljáró járási (fővárosi kerületi) hivatalok (a továbbiakban együtt: járási hivatal), valamint a járási hivatal önálló hatósági jogkörrel nem rendelkező földügyi kirendeltségei,
+a)[^2] helyi szervei: az ingatlanügyi és telekalakítási hatóságként, továbbá mezőgazdasági igazgatási szervként eljáró járási (fővárosi kerületi) hivatalok (a továbbiakban együtt: járási hivatal), valamint a járási hivatal önálló hatósági jogkörrel nem rendelkező földügyi kirendeltségei,
 
-b)[^2] területi szervei: az a) pontban megjelölt feladatkörükben eljáró fővárosi és megyei kormányhivatalok (a továbbiakban együtt: kormányhivatal),
+b)[^3] területi szervei: az a) pontban megjelölt feladatkörükben eljáró fővárosi és megyei kormányhivatalok (a továbbiakban együtt: kormányhivatal),
 
 c) központi szerve: a Földmérési és Távérzékelési Intézet (a továbbiakban: FÖMI).
 
@@ -26,14 +26,14 @@ e) a földforgalommal és a földművesekről, a mezőgazdasági termelőszervez
 
 ## összefüggő feladatok ellátására.
 
-(3)[^3]
+(3)[^4]
 
-(4)[^4] A járási hivatal és a kormányhivatal (2) bekezdés szerinti földügyi igazgatási feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként az ingatlan-nyilvántartásért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
+(4)[^5] A járási hivatal és a kormányhivatal (2) bekezdés szerinti földügyi igazgatási feladatköreinek gyakorlásával összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény 9. § f)–i) pontjában meghatározott, valamint a törvényességi és szakszerűségi ellenőrzési hatásköröket szakmai irányító miniszterként az ingatlan-nyilvántartásért felelős miniszter (a továbbiakban: miniszter) gyakorolja.
 
-(5)[^5]
+(5)[^6]
 
-[^1]: Az 1. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 260. § (24) bekezdés a) pontja hatályon kívül helyezte.
-[^4]: Az 1. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (2) bekezdésével megállapított szöveg.
-[^5]: Az 1. § (5) bekezdését a 70/2015. (III. 30.) Korm. rendelet 260. § (24) bekezdés a) pontja hatályon kívül helyezte.
+[^2]: Az 1. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (1) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (1) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 260. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 1. § (3) bekezdését a 70/2015. (III. 30.) Korm. rendelet 260. § (24) bekezdés a) pontja hatályon kívül helyezte.
+[^5]: Az 1. § (4) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (2) bekezdésével megállapított szöveg.
+[^6]: Az 1. § (5) bekezdését a 70/2015. (III. 30.) Korm. rendelet 260. § (24) bekezdés a) pontja hatályon kívül helyezte.

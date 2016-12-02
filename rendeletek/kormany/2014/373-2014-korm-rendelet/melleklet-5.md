@@ -22,7 +22,7 @@
 
 | 1. | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | Telekcsoport újraosztása, telek megosztása, telkek egyesítése és telekhatár rendezése esetén, kivéve termőföldek birtok összevonási céllal történő telekalakítását 50 hektárig, azzal a feltétellel, hogy a kialakítandó földrészletek területe nem lehet kisebb a változás előtti területnél. | A telekalakítás megfelel-e a településrendezési követelményeknek és a helyi építési szabályzatnak. | a telekalakítás helye szerint illetékes települési, fővárosi kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző | – |
+| 2. | Telekcsoport újraosztása, telek megosztása, telkek egyesítése és telekhatár rendezése esetén, kivéve termőföldek birtokösszevonási céllal történő telekalakítását 50 hektárig, azzal a feltétellel, hogy a kialakítandó földrészletek területe nem lehet kisebb a változás előtti területnél, ide nem értve a táblán belüli megközelítés céljából kialakítandó utakat. | A telekalakítás megfelel-e a településrendezési követelményeknek és a helyi építési szabályzatnak. | a telekalakítás helye szerint illetékes települési, fővárosi kerületi önkormányzat jegyzője, a Fővárosi Önkormányzat által közvetlenül igazgatott terület tekintetében a fővárosi főjegyző | – |
 
 | 3. | Ha a telekalakítás olyan ingatlant érint, amelyre az ingatlan-nyilvántartásban – jogi jellegként – helyi jelentőségű védett természeti terület, természetvédelmi terület, természeti emlék jogi jelleg ténye van feljegyezve. | Annak elbírálása, hogy a telekalakítás a helyi önkormányzati rendeletben meghatározott természetvédelmi követelményeknek a kérelemben foglaltak szerint vagy további feltételek mellett megfelel-e. | települési önkormányzat jegyzője, fővárosban a főjegyző | – |
 
@@ -34,6 +34,6 @@
 
 | 7. | A víziutak medrét és a kikötők, átkelők, vízpartok és vízterületek telkét érintő telekalakítás esetén. | A tervezett telekalakítás nem korlátozza-e indokolatlanul vagy indokolatlan mértékben a polgári célú vízi közlekedést, illetve hajózási létesítmények működését. | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
 
-5. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^251]
+5. melléklet a 373/2014. (XII. 31.) Korm. rendelethez[^254]
 
-[^251]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 260. § (23) bekezdése iktatta be.
+[^254]: Az 5. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 70/2015. (III. 30.) Korm. rendelet 260. § (23) bekezdése iktatta be.

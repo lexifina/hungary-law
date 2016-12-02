@@ -1,4 +1,4 @@
-## 35. §[^75] Ha a megkeresésre induló egyesített eljárás során a járási hivatal olyan változást is megállapít, amelyet az ügyfélnek kellett volna bejelentenie, a hivatalból induló egyesített eljárásra vonatkozó szabályokat kell alkalmazni.
+## 35. §[^76] Ha a megkeresésre induló egyesített eljárás során a járási hivatal olyan változást is megállapít, amelyet az ügyfélnek kellett volna bejelentenie, a hivatalból induló egyesített eljárásra vonatkozó szabályokat kell alkalmazni.
 
 ## V. Fejezet
 
@@ -52,13 +52,13 @@ eb) telekfelosztás,
 
 ec) telekegyesítés,
 
-ed) telek-határrendezés;
+ed)[^77] telekhatárrendezés;
 
 f) az igazgatási szolgáltatási díj befizetésének igazolását.
 
 (6) Az egyesített telekalakítási eljárás megindítására irányuló kérelemnek az (5) bekezdésben foglaltakon túl meg kell felelnie az ingatlan-nyilvántartásról szóló törvény szerinti előírásoknak is.
 
-(7)[^76] A telekalakítási eljárás megindítása iránti kérelmet a miniszter által rendszeresített, az általa irányított minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett formanyomtatványon kell benyújtani. A telekalakítási eljárás megindítása iránti kérelemhez mellékelni kell a telekalakítási dokumentációt, mely a 3. melléklet 1. pontjában felsorolt munkarészeket tartalmazza, a telekalakítás céljának függvényében.
+(7)[^78] A telekalakítási eljárás megindítása iránti kérelmet a miniszter által rendszeresített, az általa irányított minisztérium, valamint a földügyi szakigazgatás hivatalos honlapján közzétett formanyomtatványon kell benyújtani. A telekalakítási eljárás megindítása iránti kérelemhez mellékelni kell a telekalakítási dokumentációt, mely a 3. melléklet 1. pontjában felsorolt munkarészeket tartalmazza, a telekalakítás céljának függvényében.
 
 (8) Telekalakítási dokumentációt
 
@@ -70,8 +70,9 @@ b) az a) pont hatálya alá nem tartozó, de a földmérési és térképészeti
 
 (9) Ha a telekalakítási dokumentációt a (8) bekezdés b) pontja szerinti szakképzettséggel rendelkező személy készíti, a dokumentáció minőségét, valamint a tartalmi és pontossági előírásoknak való megfelelőségét a (8) bekezdés a) pontja szerinti jogosultsággal rendelkező szakember tanúsítja a változási vázrajzon és a telekalakítási helyszínrajzon.
 
-(10)[^77] Azokra az ingatlanokra, amelyek a kisajátítást kérő tulajdonában vannak és a kisajátítási tervben szerepelnek, az (1) bekezdés szerinti telekalakítási eljárás helyett a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott eljárásrendet kell alkalmazni és e kormányrendelet szerint záradékolt változási vázrajz alapján kerül sor a változás ingatlan-nyilvántartási átvezetésére.
+(10)[^79] Azokra az ingatlanokra, amelyek a kisajátítást kérő tulajdonában vannak és a kisajátítási tervben szerepelnek, az (1) bekezdés szerinti telekalakítási eljárás helyett a kisajátítási terv elkészítéséről, felülvizsgálatáról, záradékolásáról, valamint a kisajátítással kapcsolatos értékkülönbözet megfizetésének egyes kérdéseiről szóló kormányrendeletben meghatározott eljárásrendet kell alkalmazni és e kormányrendelet szerint záradékolt változási vázrajz alapján kerül sor a változás ingatlan-nyilvántartási átvezetésére.
 
-[^75]: A 35. § a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 1. pontja szerint módosított szöveg.
-[^76]: A 36. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 21. pontja szerint módosított szöveg.
-[^77]: A 36. § (10) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 16. §-a iktatta be.
+[^76]: A 35. § a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 1. pontja szerint módosított szöveg.
+[^77]: A 36. § (5) bekezdés e) pont ed) alpontja a 341/2016. (XI. 17.) Korm. rendelet 25. § a) pontjával megállapított szöveg.
+[^78]: A 36. § (7) bekezdése a 70/2015. (III. 30.) Korm. rendelet 260. § (17) bekezdés 21. pontja szerint módosított szöveg.
+[^79]: A 36. § (10) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 16. §-a iktatta be.
