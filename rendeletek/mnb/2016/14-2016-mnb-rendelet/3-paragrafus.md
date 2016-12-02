@@ -2,4 +2,6 @@
 
 3. § (1) Ez a rendelet – a (2) bekezdésben foglaltak kivételével – 2016. május 2-án lép hatályba.
 
-(2) Az 1. és a 4. § 2016. december 31-én lép hatályba.
+(2)[^2] Az 1. és a 4. § 2017. december 31-én lép hatályba.
+
+[^2]: A 3. § (2) bekezdése a 47/2016. (XII. 1.) MNB rendelet 1. §-ával megállapított szöveg.
