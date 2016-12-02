@@ -1,4 +1,4 @@
-## 31–32. §[^13]
+## 31–32. §[^16]
 
 ## 6. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) A 9. § (2) bekezdése, a 10. § (2) bekezdése, valamint a 4. melléklet 2017. január 1-jén lép hatályba.
 
-[^13]: A 31–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^16]: A 31–32. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

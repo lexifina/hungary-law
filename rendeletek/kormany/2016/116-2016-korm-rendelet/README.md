@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-116-20-
 | 2016-07-01 | 2016-116-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2016-07-02 | 2016-116-20-22.4 | 2010: CXXX. törvény |
 | 2016-12-01 | 2016-116-20-22.5 | 244/2016. (VIII. 17.) Korm. rendelet |
+| 2016-12-02 | 2016-116-20-22.6 | 2010: CXXX. törvény |

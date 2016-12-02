@@ -1,5 +1,6 @@
-15. § (1)[^10]
+15. § (1)[^11]
 
-(2) A Kjtvhr. 18. § (3) bekezdésében az „az ágazati pótlék” szövegrész helyébe az „a szociális ágazati összevont pótlék” szöveg lép.
+(2)[^12]
 
-[^10]: A 15. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 15. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 15. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
