@@ -39,3 +39,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-152-20-
 | 2016-10-25 | 2014-152-20-22.31 | 167/2014. (VII. 17.) Korm. rendelet |
 | 2016-10-29 | 2014-152-20-22.32 | 328/2016. (X. 28.) Korm. rendelet |
 | 2016-12-02 | 2014-152-20-22.33 | 167/2014. (VII. 17.) Korm. rendelet |
+| 2016-12-03 | 2014-152-20-22.34 | 167/2014. (VII. 17.) Korm. rendelet |

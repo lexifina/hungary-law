@@ -124,9 +124,9 @@
 
 |  | 2 | Katonai Nemzetbiztonsági Szolgálat | irányítás |
 
-|  | 3 | HM Védelmi Hivatal | irányítás |
+|  | 3 |  |  |
 
-|  | 4 | HM Hatósági Hivatal | irányítás |
+|  | 4 |  |  |
 
 ## F) Igazságügyi miniszter
 
