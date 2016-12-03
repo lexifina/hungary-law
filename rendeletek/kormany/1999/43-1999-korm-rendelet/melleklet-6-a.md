@@ -56,7 +56,9 @@
 
 |  |  | Egészségügyi dolgozók 2016. évi béremelésének fedezete | 19 200,0 |
 
-| 13. | Célelőirányzatok összesen | 86 137,3 |
+|  |  | Működési támogatás | 60 000 |
+
+| 13. | Célelőirányzatok összesen | 146 137,3 |
 
 | 15. | Mentés |  | 30 255,1 |
 
@@ -66,9 +68,9 @@
 
 |  |  | Járóbeteg szakellátás | 128 656,6 |
 
-|  |  | Fekvőbeteg szakellátás | 445 419,2 |
+|  |  | Fekvőbeteg szakellátás | 451 419,2 |
 
-|  |  | - aktív fekvőbeteg szakellátás | 373 989,1 |
+|  |  | - aktív fekvőbeteg szakellátás | 379 989,1 |
 
 |  |  | - krónikus fekvőbeteg szakellátás | 65 380,3 |
 
@@ -78,15 +80,15 @@
 
 |  |  | Extrafinanszírozás | 1 000,0 |
 
-|  |  | Speciális finanszírozású szakellátás | 87 268,7 |
+|  |  | Speciális finanszírozású szakellátás | 91 268,7 |
 
-| 18. | Összevont szakellátás összesen | 662 344,5 |
+| 18. | Összevont szakellátás összesen | 672 344,5 |
 
 | 21. | Gyógyító-megelőző ellátás céltartalék | 3 321,3 |
 
 | 22. | Alapellátás megújításának II. üteme | 0,0 |
 
-| Összesen |  |  | 1 010 047,9 |
+| Összesen |  |  | 1 080 047,9 |
 
 6/A. számú melléklet a 43/1999. (III. 3.) Korm. rendelethez[^578]
 
