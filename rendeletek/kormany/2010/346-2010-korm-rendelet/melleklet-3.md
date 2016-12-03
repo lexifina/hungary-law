@@ -60,7 +60,7 @@ I. Központi finanszírozásúak
 
 | 6.2. A honvédelemért felelős miniszter által vezetett minisztérium. | X |
 
-| 6.3. A Honvédelmi Minisztérium Védelmi Hivatala | X |
+| 6.3. |  |
 
 | 6.4. A honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 16. § (2) bekezdésében meghatározott szerveknél a honvédelemmel foglalkozó szervezeti egységek. | X |
 
@@ -121,4 +121,4 @@ II. Egyedi finanszírozásúak
 [^122]: A 2. melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § a) pontja szerint módosított szöveg.
 [^123]: A 2. melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § b) pontja szerint módosított szöveg.
 [^124]: A 2. melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § c) pontja szerint módosított szöveg.
-[^125]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^125]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (2) bekezdés a) pontja szerint módosított szöveg.
