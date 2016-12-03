@@ -20,12 +20,12 @@ b) 32. § (2) bekezdés f) pontját első alkalommal a 2014. évre vonatkozó é
 
 (4) Az Mr1. által megállapított 20/B. § (4) és (5) bekezdését 2014. január 1-jétől kell alkalmazni.
 
-(5)[^113] A 29. § (1) bekezdésében foglaltaktól eltérően a 2015. évre kiírt pályázaton nyertes munkáltatóval a Hivatal 1 évre köt keretszerződést.
+(5)[^113] A 29. § (1) bekezdésében foglaltaktól eltérően a 2015. évre kiírt pályázaton nyertes munkáltatóval a Nemzeti Rehabilitációs és Szociális Hivatal, illetve 2017. január 1-jétől a Kormányhivatal (a továbbiakban együtt: Hivatal) 1 évre köt keretszerződést.
 
 (6)[^114] A 2015. évi foglalkoztatáshoz nyújtott egyéni támogatások tekintetében a keretszerződést – a 29. § (3) bekezdésétől eltérően – 2015. január 31-éig kell megkötni.
 
 [^110]: A 48. § a 335/2013. (IX. 20.) Korm. rendelet 25. §-ával megállapított szöveg.
 [^111]: A hatálybalépés időpontja 2013. szeptember 23.
 [^112]: A hatálybalépés időpontja 2013. szeptember 23.
-[^113]: A 48. § (5) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés m) pontja szerint módosított szöveg.
+[^113]: A 48. § (5) bekezdése a 285/2014. (XI. 20.) Korm. rendelet 9. § (1) bekezdés m) pontja, a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés h) pontja szerint módosított szöveg.
 [^114]: A 48. § (6) bekezdését a 332/2014. (XII. 18.) Korm. rendelet 1. §-a iktatta be.

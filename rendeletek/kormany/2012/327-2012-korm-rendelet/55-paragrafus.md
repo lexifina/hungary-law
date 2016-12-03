@@ -12,9 +12,9 @@ e) a tartós foglalkoztatásban és tranzit foglalkoztatásban részt vevő munk
 
 (2) A miniszter a 2015. év második félévére vonatkozóan 2015. június 30-áig határozza meg az (1) bekezdés a)–e) pontjában foglaltakat.
 
-(3) Az (1) bekezdés a) és d) pontjában foglaltakról szóló tájékoztatást a miniszteri döntést követő 30 napon belül a Hivatal és a minisztérium honlapján közzé kell tenni.
+(3)[^123] Az (1) bekezdés a) és d) pontjában foglaltakról szóló tájékoztatást a miniszteri döntést követő 30 napon belül a Nemzeti Rehabilitációs és Szociális Hivatal és a minisztérium honlapján közzé kell tenni.
 
-(4) A Hivatal a miniszter (1) és (2) bekezdés szerinti döntése alapján előkészíti a miniszter részére a következő félévre szóló támogatási tervet. A miniszter a támogatási tervben munkáltatónként meghatározza
+(4)[^124] A Nemzeti Rehabilitációs és Szociális Hivatal a miniszter (1) és (2) bekezdés szerinti döntése alapján előkészíti a miniszter részére a következő félévre szóló támogatási tervet. A miniszter a támogatási tervben munkáltatónként meghatározza
 
 a) a tranzit foglalkoztatásban, illetve a tartós foglalkoztatásban támogatott megváltozott munkaképességű munkavállalók tervezett számát,
 
@@ -26,9 +26,9 @@ c) a munkáltató részére nyújtandó egyéni támogatások együttes tervezet
 
 a) az első félév vonatkozásában a keretszerződés szerinti létszám alapján kell meghatározni,
 
-b)[^123] a második félév vonatkozásában az adott munkáltató hatályos egyéni foglalkoztatási megállapodásai és a rehabilitációs hatóság javaslata figyelembevételével a második félévre tervezett új egyéni foglalkoztatási megállapodások alapján kell meghatározni azzal, hogy a támogatott munkavállalók száma nem lehet több a keretszerződés szerinti létszámnál.
+b)[^125] a második félév vonatkozásában az adott munkáltató hatályos egyéni foglalkoztatási megállapodásai és a rehabilitációs hatóság javaslata figyelembevételével a második félévre tervezett új egyéni foglalkoztatási megállapodások alapján kell meghatározni azzal, hogy a támogatott munkavállalók száma nem lehet több a keretszerződés szerinti létszámnál.
 
-(6) A miniszter a támogatási tervben meghatározza a (4) bekezdés a)–c) pontjában foglaltak módosítására vonatkozó támogatási elveket arra az esetre, ha valamely munkáltatónak az e rendelet szerinti támogatásra való jogosultsága megszűnik. A támogatási elvekről szóló tájékoztatást a miniszteri döntést követő 30 napon belül a Hivatal és a minisztérium honlapján közzé kell tenni.
+(6)[^126] A miniszter a támogatási tervben meghatározza a (4) bekezdés a)–c) pontjában foglaltak módosítására vonatkozó támogatási elveket arra az esetre, ha valamely munkáltatónak az e rendelet szerinti támogatásra való jogosultsága megszűnik. A támogatási elvekről szóló tájékoztatást a miniszteri döntést követő 30 napon belül a Nemzeti Rehabilitációs és Szociális Hivatal és a minisztérium honlapján közzé kell tenni.
 
 (7) A 2015. évi foglalkoztatáshoz nyújtott egyéni támogatások tekintetében
 
@@ -45,4 +45,7 @@ c) a 38. § (1) bekezdés d) pontjában
 (9) A 2015. évi foglalkoztatáshoz nyújtott egyéni támogatások tekintetében a 20/B. § (3) bekezdés és a 31. § nem alkalmazható.
 
 [^122]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 332/2014. (XII. 18.) Korm. rendelet 2. §-a iktatta be.
-[^123]: Az 55. § (5) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^123]: Az 55. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés i) pontja szerint módosított szöveg.
+[^124]: Az 55. § (4) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés i) pontja szerint módosított szöveg.
+[^125]: Az 55. § (5) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 210. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^126]: Az 55. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 212. § (5) bekezdés i) pontja szerint módosított szöveg.
