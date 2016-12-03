@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-338-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-12-02 | 2016-338-20-22.1 | 338/2016. (XI. 17.) Korm. rendelet |
+| 2016-12-03 | 2016-338-20-22.2 | 2010: CXXX. törvény |
