@@ -96,4 +96,13 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: folyamatos
 
-14. A hatáskör-racionalizálás időpontja: 2016. július 1.
+14.[^1] A hatáskör-racionalizálás időpontja: 2017. január 1.
+
+15.[^2] A Kormány felhívja a Miniszterelnökséget vezető minisztert, hogy a járási (fővárosi kerületi) hivatalok megerősítésének tapasztalatairól, valamint a központi hivatalok és a költségvetési szervi formában működő minisztériumi háttérintézmények felülvizsgálatával kapcsolatos intézkedésekről szóló 1312/2016. (VI. 13.) Korm. határozat alapján a fővárosi és megyei kormányhivatalokhoz került egyes hatósági feladatok járási (fővárosi kerületi) hivatalokhoz telepítésének lehetőségéről készítsen jelentést a Kormány részére.
+
+Felelős: Miniszterelnökséget vezető miniszter
+
+Határidő: 2017. július 1.
+
+[^1]: A 14. pont az 1700/2016. (XII. 2.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^2]: A 15. pontot az 1700/2016. (XII. 2.) Korm. határozat 2. pontja iktatta be.
