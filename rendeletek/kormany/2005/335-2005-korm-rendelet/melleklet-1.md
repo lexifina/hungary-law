@@ -62,15 +62,15 @@
 
 30. Nemzetközi Oktatási Központ
 
-31. Közszolgálati Személyzetfejlesztési Főigazgatóság
+31.[^164]
 
 32. Országos Vízügyi Főigazgatóság
 
-33.[^164] Egészségügyi Nyilvántartási és Képzési Központ
+33.[^165] Egészségügyi Nyilvántartási és Képzési Központ
 
 34. Emberi Erőforrás Támogatáskezelő
 
-35.[^165]
+35.[^166]
 
 36. Nemzeti Rehabilitációs és Szociális Hivatal
 
@@ -86,7 +86,7 @@
 
 42. Mezőgazdasági és Vidékfejlesztési Hivatal
 
-43. Nemzeti Környezetügyi Intézet
+43.[^167] Herman Ottó Intézet
 
 44. Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
@@ -106,7 +106,7 @@
 
 52. Közbeszerzési és Ellátási Főigazgatóság
 
-53.[^166]
+53.[^168]
 
 54. Kormányzati Informatikai Fejlesztési Ügynökség
 
@@ -118,14 +118,16 @@
 
 58. Országos Atomenergia Hivatal
 
-59.[^167] Nemzeti Szakképzési és Felnőttképzési Hivatal
+59.[^169] Nemzeti Szakképzési és Felnőttképzési Hivatal
 
 [^159]: Az 1. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
 [^160]: Az 1. melléklet 11. pontját a 251/2016. (VIII. 24.) Korm. rendelet 4. §-a hatályon kívül helyezte.
 [^161]: Az 1. melléklet 12. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
 [^162]: Az 1. melléklet 19. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
 [^163]: Az 1. melléklet 23. pontja a 186/2016. (VII. 13.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^164]: Az 1. melléklet 33. pontja a 30/2015. (II. 25.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^165]: Az 1. melléklet 35. pontját a 244/2016. (VIII. 17.) Korm. rendelet 2. §-a hatályon kívül helyezte.
-[^166]: Az 1. melléklet 53. pontját a 230/2016. (VII. 29.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
-[^167]: Az 1. melléklet 59. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^164]: Az 1. melléklet 31. pontját a 379/2016. (XII. 2.) Korm. rendelet 71. § (8) bekezdés a) pontja hatályon kívül helyezte.
+[^165]: Az 1. melléklet 33. pontja a 30/2015. (II. 25.) Korm. rendelet 19. §-a szerint módosított szöveg.
+[^166]: Az 1. melléklet 35. pontját a 244/2016. (VIII. 17.) Korm. rendelet 2. §-a hatályon kívül helyezte.
+[^167]: Az 1. melléklet 43. pontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (6) bekezdés c) pontjával megállapított szöveg.
+[^168]: Az 1. melléklet 53. pontját a 230/2016. (VII. 29.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
+[^169]: Az 1. melléklet 59. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
