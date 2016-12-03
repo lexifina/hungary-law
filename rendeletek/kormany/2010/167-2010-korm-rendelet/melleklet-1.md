@@ -42,7 +42,7 @@
 
 2.15. a Magyar Tudományos Akadémia Központi Fizikai Kutató Intézet Atomenergia Kutatóintézete
 
-2.16. a Mezőgazdasági Szakigazgatási Hivatal központi szerve
+2.16.[^34] a Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
 3. Területi és helyi szervek
 
@@ -54,8 +54,9 @@
 
 3.4. a minisztériumok, érintett kormány- és központi hivatalok irányításával működő területi szervek
 
-3.5.[^34] a rendvédelmi szervek területi és helyi szervei, valamint a Nemzeti Adó- és Vámhivatal vámszervei és nyomozóhatósági szervei
+3.5.[^35] a rendvédelmi szervek területi és helyi szervei, valamint a Nemzeti Adó- és Vámhivatal vámszervei és nyomozóhatósági szervei
 
 [^32]: Az 1. melléklet a 361/2011. (XII. 30.) Korm. rendelet 11. §-ával megállapított szöveg.
 [^33]: Az 1. melléklet 2. pont 2.8. alpontja a 486/2015. (XII. 29.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
-[^34]: Az 1. melléklet 3. pont 3.5. alpontja a 486/2015. (XII. 29.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
+[^34]: Az 1. melléklet 2. pont 2.16. alpontja a 379/2016. (XII. 2.) Korm. rendelet 157. § (1) bekezdés b) pontjával megállapított szöveg.
+[^35]: Az 1. melléklet 3. pont 3.5. alpontja a 486/2015. (XII. 29.) Korm. rendelet 28. § b) pontja szerint módosított szöveg.
