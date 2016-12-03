@@ -52,8 +52,10 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: folyamatos
 
-2.6. felhívja az érintett minisztereket, hogy a 2.3. pontban foglaltak alapján tegyék meg a szükséges intézkedéseket a jelentésben meghatározott központi hivatalok racionalizálása érdekében.
+2.6.[^1] felhívja az érintett minisztereket, hogy a 2.3. pontban foglaltak alapján tegyék meg a szükséges intézkedéseket a jelentésben meghatározott központi hivatalok racionalizálása érdekében.
 
 Felelős: érintett miniszter
 
-Határidő: 2016. június 30.
+Határidő: 2017. március 31.
+
+[^1]: A 2.6. pont az 1700/2016. (XII. 2.) Korm. határozat 1. pontja szerint módosított szöveg.
