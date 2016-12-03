@@ -1,9 +1,3 @@
-## III. Fejezet
-
-## ZÁRÓ RENDELKEZÉSEK
-
-## 8. Felhatalmazó rendelkezések
-
 21. § Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
 
 1. a Hivatal elnökének rendelet kiadásában helyettesítését ellátó elnökhelyettest,
