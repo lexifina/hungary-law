@@ -1,4 +1,4 @@
-## 25. §[^22]
+## 25. §[^28]
 
 ## 23. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 5–9. §, a 11–18. §, a 19. § (2)–(4) bekezdés, a 20–25. §, a 27. § és az 1. melléklet 2017. január 1-jén lép hatályba.
 
-[^22]: A 25. § a 26. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^28]: A 25. § a 26. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
