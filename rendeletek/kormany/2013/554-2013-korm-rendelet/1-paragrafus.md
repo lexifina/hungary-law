@@ -34,15 +34,16 @@ d) az önkormányzati fenntartású nyilvános könyvtár;
 
 e) a közművelődési intézmény;
 
-f) a Balassi Intézet;
+f)[^2] a külpolitikáért felelős miniszter által vezetett minisztérium;
 
 g) a fővárosi és megyei kormányhivatal;
 
-h)[^2]
+h)[^3]
 
 i) a nemzeti park igazgatóság;
 
 j) a Nemzeti Agrár-szaktanácsadási, Képzési és Vidékfejlesztési Intézet, az Integrált Közösségi Szolgáltató.
 
 [^1]: Az 1. § (1) bekezdés 11. pontja a 20/2015. (II. 17.) Korm. rendelet 31. §-a szerint módosított szöveg.
-[^2]: Az 1. § (2) bekezdés h) pontját a 251/2016. (VIII. 24.) Korm. rendelet 8. §-a hatályon kívül helyezte.
+[^2]: Az 1. § (2) bekezdés f) pontja a 379/2016. (XII. 2.) Korm. rendelet 263. §-ával megállapított szöveg.
+[^3]: Az 1. § (2) bekezdés h) pontját a 251/2016. (VIII. 24.) Korm. rendelet 8. §-a hatályon kívül helyezte.
