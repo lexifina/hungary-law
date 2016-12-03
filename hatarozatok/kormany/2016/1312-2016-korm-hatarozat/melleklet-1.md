@@ -26,7 +26,7 @@
 
 ## c) az egyéb országos illetékességgel ellátott feladatokat a megszűnő költségvetési szervet irányító minisztérium vagy más állami szerv,
 
-## d) az egyéb, a költségvetési szerv területi szerve vagy területi feladatok ellátására kialakított szervezeti egysége által ellátott feladatokat a fővárosi és megyei kormányhivatalok
+## d)[^1] az egyéb, a költségvetési szerv területi szerve vagy területi feladatok ellátására kialakított szervezeti egysége által ellátott feladatokat – ide nem értve a kötelező egészségbiztosítási rendszerrel kapcsolatos területi feladatokat – a fővárosi és megyei kormányhivatalok
 
 ## feladatkörébe kell utalni és – az átalakítás mellett – a feladatköröket felül kell vizsgálni a közfeladatok számának csökkentése érdekében;
 
@@ -74,6 +74,16 @@
 
 ## Határidő: 2016. szeptember 1.
 
+## 10a.[^2] felhívja az érintett minisztereket, hogy a Mezőgazdasági és Vidékfejlesztési Hivatal esetében – az új kifizető ügynökségi intézményrendszer akkreditációjára tekintettel – a 10. pontban foglaltakat nem kell alkalmazni, ugyanakkor a Mezőgazdasági és Vidékfejlesztési Hivatal be nem töltött álláshelyei a Magyar Államkincstár, illetve a megyei kormányhivatalok által nem kerülhetnek átvételre;
+
+## Felelős: nemzetgazdasági miniszter
+
+## Miniszterelnökséget vezető miniszter
+
+## földművelésügyi miniszter
+
+## Határidő: azonnal
+
 ## 11. felhívja a Miniszterelnökséget vezető minisztert, hogy a nemzetgazdasági miniszter közreműködésével vizsgálja felül a központi költségvetési szervek működésére és gazdálkodására vonatkozó államháztartási jogszabályokat a kormányhatározatban foglalt átalakításokra tekintettel.
 
 ## Felelős: Miniszterelnökséget vezető miniszter
@@ -81,6 +91,12 @@
 ## nemzetgazdasági miniszter
 
 ## Határidő: a 3. pontban foglalt határidők szerint
+
+## 12.[^3] felhívja az érintett minisztereket, hogy a 3. pontban foglalt átalakításokkal összefüggésben gondoskodjanak a feladatkörükbe tartozó miniszteri rendeletek módosításáról.
+
+## Felelős: érintett miniszterek
+
+## Határidő: azonnal.
 
 1. melléklet az 1312/2016. (VI. 13.) Korm. határozathoz
 
@@ -112,13 +128,21 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2017. január 1.
 
-e) Magyar Nemzeti Digitális Archívum és Filmintézet megszűnik és feladatait a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság lássa el;
+e)[^4] Magyar Nemzeti Digitális Archívum és Filmintézet megszűnik, azzal, hogy
+
+ea) a könyvtári dokumentumok digitalizálásával kapcsolatos közfeladatait az Országos Széchényi Könyvtár,
+
+eb) a Filmintézet és Filmarchívum feladatait (beleértve a korábban a Magyar Nemzeti Filmarchívum által őrzött filmekkel kapcsolatos digitalizálási feladatokat is, valamint a Filmintézeti Szakkönyvtár és Médiatár feladatait) – az ÉMOP-2.1.1/A-14-2014-0001 projekt keretében létrehozott Nemzeti Filmtörténeti Élménypark kivételével – a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaság,
+
+ec) az ea) és eb) pontban meghatározottakon túli közfeladatait, az európai uniós pályázatok fenntartási kötelezettségét, valamint az országos digitalizációs közfoglalkoztatási programmal kapcsolatos feladatait állami tulajdonú gazdasági társaság
+
+lássa el;
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: 2017. január 1.
 
-f) Nemzeti Művelődési Intézet megszűnik, feladatait a Lakitelken működő Népfőiskola Alapítvány lássa el;
+f)[^5] Nemzeti Művelődési Intézet megszűnik, feladatait a Lakitelken működő Népfőiskola Alapítvány kizárólagos tulajdonában álló gazdasági társaság lássa el;
 
 Felelős: emberi erőforrások minisztere
 
@@ -126,13 +150,13 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2017. január 1.
 
-g) Országos Nyugdíjbiztosítási Főigazgatóság névváltoztatással Nemzeti Családtámogatási és Társadalombiztosítási Hivatalként működik, amely átveszi az Országos Egészségbiztosítási Pénztár pénzbeli ellátásokkal, baleseti táppénzzel és utazási költségtérítéssel kapcsolatos feladatait;
+g)[^6] Országos Nyugdíjbiztosítási Főigazgatóság átveszi az Országos Egészségbiztosítási Pénztár pénzbeli ellátásokkal, baleseti táppénzzel és utazási költségtérítéssel kapcsolatos feladatait;
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: 2017. január 1.
 
-h) Egészségügyi Készletgazdálkodási Intézet és az Országos Vérellátó Szolgálat jogutódlással – az Állami Egészségügyi Ellátó Központba történő beolvadással – megszűnik;
+h)[^7] Egészségügyi Készletgazdálkodási Intézet jogutódlással – az Állami Egészségügyi Ellátó Központba történő beolvadással – megszűnik;
 
 Felelős: emberi erőforrások minisztere
 
@@ -164,31 +188,37 @@ Felelős: emberi erőforrások minisztere
 
 Határidő: 2017. január 1.
 
-m) Országos Tisztifőorvosi Hivatal jogutódlással – az Emberi Erőforrások Minisztériumába történő beolvadással – megszűnik;
+m)[^8] Országos Tisztifőorvosi Hivatal jogutódlással – az Emberi Erőforrások Minisztériumába történő beolvadással – megszűnik, azzal, hogy az európai uniós projektjei megvalósítását és az e feladat menedzsmentjével kapcsolatos feladatokat, továbbá a munkaegészségügyi feladatokat – a stratégiai és módszertani jellegű munkaegészségügyi feladatok kivételével – az Országos Közegészségügyi Intézet, a praxisprogramokkal kapcsolatos feladatokat az Állami Egészségügyi Ellátó Központ veszi át;
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: 2017. március 31.
 
-n) Nemzeti Egészségfejlesztési Intézet, Országos Közegészségügyi Központ, valamint Országos Epidemiológiai Központ jogutódlással – az Állami Egészségügyi Ellátó Központba történő beolvadással – megszűnik;
+n)[^9] Országos Epidemiológiai Központ az Országos Közegészségügyi Központba beolvad, és a létrejövő költségvetési szerv megnevezése Országos Közegészségügyi Intézetre módosul, azzal, hogy az Országos Epidemiológiai Központ stratégiai és módszertani feladatait az Emberi Erőforrások Minisztériuma veszi át;
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: 2017. március 31.
 
-o) Nemzeti Családtámogatási és Társadalombiztosítási Hivatal jogutódlással – a Magyar Államkincstárba történő beolvadással – megszűnik;
+o)[^10] Országos Nyugdíjbiztosítási Főigazgatóság jogutódlással – a Magyar Államkincstárba történő beolvadással – megszűnik;
 
 Felelős: emberi erőforrások minisztere
 
 nemzetgazdasági miniszter
 
-Határidő: 2017. március 31.
+Határidő: 2017. november 1.
 
-p) Országos Egészségbiztosítási Pénztár jogutódlással – az Emberi Erőforrások Minisztériumába történő beolvadással – megszűnik;
+p)[^11] Országos Egészségbiztosítási Pénztár jogutódja az Egészségbiztosítási Alap irányításával összefüggő feladatok tekintetében az Emberi Erőforrások Minisztériuma, az Egészségbiztosítási Alap kezelésével összefüggő feladatokat az alapkezelési feladatok ellátására kijelölt szerv látja el;
 
 Felelős: emberi erőforrások minisztere
 
-Határidő: 2016. december 31.
+Határidő: 2017. január 1.
+
+q)[^12] Nemzeti Egészségfejlesztési Intézet – az Emberi Erőforrások Minisztériumába történő beolvadással – megszűnik;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2017. március 31.
 
 2. a Földművelésügyi Minisztérium irányítása alatt álló
 
@@ -202,7 +232,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: 2016. október 1.
 
-b) Herman Ottó Intézet megszűnik, feladatait a Környezetvédelmi Termék Nonprofit Kft. gazdasági társaság lássa el;
+b)[^13] Herman Ottó Intézet megszűnik, feladatait a Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaság lássa el;
 
 Felelős: földművelésügyi miniszter
 
@@ -238,11 +268,11 @@ Határidő: 2017. január 1.
 
 f) Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) a következők szerinti jogutódlással megszűnik:
 
-fa) az MVH kifizető ügynökségi tevékenységét a Magyar Államkincstár, egyéb feladatait az Európai Mezőgazdasági Vidékfejlesztési Alap (a továbbiakban: EMVA) tekintetében az agrár-vidékfejlesztésért felelős miniszter, az Európai Mezőgazdasági Garancia Alap (a továbbiakban: EMGA) tekintetében az agrár-politikáért felelős miniszter lássa el;
+fa)[^14] az MVH kifizető ügynökségi, közbenső szervezeti, valamint mezőgazdasági és vidékfejlesztési támogatási szervként ellátott tevékenységét a Magyar Államkincstár lássa el;
 
 fb) az MVH megyei kirendeltségei a fővárosi és megyei kormányhivatalokba kerülnek integrálásra azzal, hogy az általuk ellátott feladatok tekintetében a szakmai irányítási jogköröket az EMVA vonatkozásában az agrár-vidékfejlesztésért felelős miniszter, az EMGA és a nemzeti támogatások vonatkozásában az agrárpolitikáért felelős miniszter gyakorolja;
 
-fc) az EMVA tekintetében az irányító hatósági és kifizető ügynökségi feladatokat úgy kell megosztani az agrár-vidékfejlesztésért felelős miniszter és a Magyar Államkincstár között, hogy a program hatékony irányíthatóságához és végrehajtásához kapcsolódó hatáskörök, – a delegálható feladatokat is ide értve – az agrár-vidékfejlesztésért felelős miniszterhez kerüljenek;
+fc)[^15] az EMVA irányító hatósági feladatok ellátása során a Magyar Államkincstár közbenső szervezeti feladatai vonatkozásában – a Vidékfejlesztési Program hatékony irányítása és végrehajtása érdekében – a szakmai irányítási jogköröket az agrár-vidékfejlesztésért felelős miniszter gyakorolja;
 
 fd) az MVH illetékes hatósági feladatai az agrár-vidékfejlesztésért felelős miniszterhez kerüljenek telepítésre az európai uniós fejlesztési források koordinált felhasználása és az átalakított intézményrendszer akkreditációja érdekében;
 
@@ -254,11 +284,19 @@ nemzetgazdasági miniszter
 
 Határidő: 2017. január 1.
 
-g) Nemzeti Földalapkezelő Szervezet – a központi szervének a Földművelésügyi Minisztériumba történő jogutódlással történő beolvadásával, területi szervei megszüntetésével – megszűnik;
+g)[^16] Nemzeti Földalapkezelő Szervezet – a központi szervének a Földművelésügyi Minisztériumba történő beolvadásával, területi szervei megszüntetésével – megszűnik;
 
 Felelős: földművelésügyi miniszter
 
-Határidő: a „Földet a gazdáknak!” Program lezárását követően
+Határidő: a központi szerv tekintetében a „Földet a Gazdáknak!” program lezárását követően, a területi szervei tekintetében: 2017. július 1.
+
+h)[^17] Mezőhegyesi Állami Ménes megszűnik, feladatait a Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság lássa el.
+
+Felelős: földművelésügyi miniszter
+
+Miniszterelnökséget vezető miniszter
+
+Határidő: 2017. január 1.
 
 3. a Belügyminisztérium irányítása alatt álló
 
@@ -280,7 +318,7 @@ Felelős: belügyminiszter
 
 Határidő: 2017. január 1.
 
-d) Bevándorlási és Állampolgársági Hivatal állampolgársági és névváltoztatási feladataiban – a feladatok ellátásához szükséges személyi, dologi és infrastrukturális feltételek biztosítása mellett – a fővárosi és megyei kormányhivatalok, illetve a járási (fővárosi kerületi) hivatalok járjanak el;
+d)[^18] Bevándorlási és Állampolgársági Hivatal állampolgársági és névváltoztatási feladataiban – a feladatok ellátásához szükséges személyi, dologi és infrastrukturális feltételek biztosítása mellett – a fővárosi és megyei kormányhivatalok járjanak el;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -382,19 +420,41 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2016. szeptember 1.
 
-b) Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ (a továbbiakban: Forster Központ) jogutódlással – a Miniszterelnökségbe történő beolvadással – megszűnik;
+b)[^19] Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ (a továbbiakban: Forster Központ) megszűnik, és feladatait – a d)–e) pontban meghatározott kivételekkel – a Budavári Ingatlanfejlesztő és Üzemeltető Nonprofit Kft. lássa el;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2017. január 1.
 
-c) Eszterháza Kulturális, Kutató- és Fesztiválközpont megszűnik, feladatait a „Nistema” Kft. lássa el. A „Nistema” Kft.-be történő beolvadással megszűnik a Sopronbánfalvi Kolostor Nonprofit Kft;
+c)[^20] Eszterháza Kulturális, Kutató- és Fesztiválközpont megszűnik, feladatait a „Nistema” Kft. lássa el;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2017. január 1.
 
-d) Forster Központnak a nagyberuházások régészeti előkészítését, a kiemelt nemzeti örökségvédelmi programok fejlesztési feladatait, valamint a Forster Központ vagyonkezelt ingatlanai üzemeltetési és beruházási feladatait a Budavári Ingatlanfejlesztő és Üzemeltető Nonprofit Kft. lássa el;
+d)[^21] Forster Központnak
+
+da) a kulturális örökség elemei nyilvántartásának hatósága tevékenységével,
+
+db) a kulturális javak védelmével és a műtárgyfelügyelettel kapcsolatos hatósága tevékenységével,
+
+dc) a világörökséggel,
+
+dd) a nemzetközi és határon túli ügyekkel,
+
+de) az állami elővásárlási jog gyakorlásával,
+
+df) a tudományos gyűjtemények kezelésével, gyarapításával, közzétételével, nyilvánosan hozzáférhető kutatószolgálat működtetésével,
+
+dg) a kulturális örökségi értékek osztályozásával,
+
+dh) az örökségvédelmi tanácsadói testületek működtetésével,
+
+di) a kulturális örökség elemei védettségével kapcsolatos tudományos előkészítéssel,
+
+dj) a kulturális örökségvédelem területét érintő szakértői tevékenységgel, a közszolgálati tisztviselők kötelező továbbképzésével, ismeretterjesztéssel és a közművelődéssel, valamint szakmai és társadalmi együttműködéssel
+
+összefüggő feladatait a Miniszterelnökség lássa el, e feladatok tekintetében a Miniszterelnökség a Forster Központ jogutódja.
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -406,11 +466,7 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2017. január 1.
 
-f) Forster Központ műtárgyfelügyelettel és kulturális örökségvédelmi nyilvántartással összefüggő hatósági feladatait a Miniszterelnökség lássa el;
-
-Felelős: Miniszterelnökséget vezető miniszter
-
-Határidő: 2017. január 1.
+f)[^22]
 
 9. a Nemzetgazdasági Minisztérium irányítása alatt álló
 
@@ -477,3 +533,26 @@ honvédelmi miniszter
 Határidő: 2017. január 1.
 
 11. A Kormány felkéri prof. dr. Mészáros Józsefet kormánybiztosként az 1. pont g) és o) alpontjában foglalt feladatok végrehajtására a külön kormányhatározatban foglaltak szerint.
+
+[^1]: A 4. pont d) alpontja az 1700/2016. (XII. 2.) Korm. határozat 4. pontjával megállapított szöveg.
+[^2]: A 10a. pontot az 1700/2016. (XII. 2.) Korm. határozat 5. pontja iktatta be.
+[^3]: A 12. pontot az 1700/2016. (XII. 2.) Korm. határozat 6. pontja iktatta be.
+[^4]: Az 1. melléklet 1. pont e) alpontja az 1700/2016. (XII. 2.) Korm. határozat 7. pontjával megállapított szöveg.
+[^5]: Az 1. melléklet 1. pont f) alpontja az 1700/2016. (XII. 2.) Korm. határozat 17. pont a) alpontja szerint módosított szöveg.
+[^6]: Az 1. melléklet 1. pont g) alpontja az 1700/2016. (XII. 2.) Korm. határozat 18. pont a) alpontja szerint módosított szöveg.
+[^7]: Az 1. melléklet 1. pont h) alpontja az 1700/2016. (XII. 2.) Korm. határozat 18. pont b) alpontja szerint módosított szöveg.
+[^8]: Az 1. melléklet 1. pont m) alpontja az 1700/2016. (XII. 2.) Korm. határozat 8. pontjával megállapított szöveg.
+[^9]: Az 1. melléklet 1. pont n) alpontja az 1700/2016. (XII. 2.) Korm. határozat 8. pontjával megállapított szöveg.
+[^10]: Az 1. melléklet 1. pont o) alpontja az 1700/2016. (XII. 2.) Korm. határozat 17. pont b) és c) alpontja szerint módosított szöveg.
+[^11]: Az 1. melléklet 1. pont p) alpontja az 1700/2016. (XII. 2.) Korm. határozat 9. pontjával megállapított szöveg.
+[^12]: Az 1. melléklet 1. pont q) alpontját az 1700/2016. (XII. 2.) Korm. határozat 10. pontja iktatta be.
+[^13]: Az 1. melléklet 2. pont b) alpontja az 1700/2016. (XII. 2.) Korm. határozat 17. pont d) alpontja szerint módosított szöveg.
+[^14]: Az 1. melléklet 2. pont f) alpont fa) pontja az 1700/2016. (XII. 2.) Korm. határozat 11. pontjával megállapított szöveg.
+[^15]: Az 1. melléklet 2. pont f) alpont fc) pontja az 1700/2016. (XII. 2.) Korm. határozat 12. pontjával megállapított szöveg.
+[^16]: Az 1. melléklet 2. pont g) alpontja az 1700/2016. (XII. 2.) Korm. határozat 13. pontjával megállapított szöveg.
+[^17]: Az 1. melléklet 2. pont h) alpontját az 1700/2016. (XII. 2.) Korm. határozat 14. pontja iktatta be.
+[^18]: Az 1. melléklet 3. pont d) alpontja az 1700/2016. (XII. 2.) Korm. határozat 18. pont c) alpontja szerint módosított szöveg.
+[^19]: Az 1. melléklet 8. pont b) alpontja az 1700/2016. (XII. 2.) Korm. határozat 15. pontjával megállapított szöveg.
+[^20]: Az 1. melléklet 8. pont c) alpontja az 1700/2016. (XII. 2.) Korm. határozat 18. pont d) alpontja szerint módosított szöveg.
+[^21]: Az 1. melléklet 8. pont d) alpontja az 1700/2016. (XII. 2.) Korm. határozat 16. pontjával megállapított szöveg.
+[^22]: Az 1. melléklet 8. pont f) alpontját az 1700/2016. (XII. 2.) Korm. határozat 18. pont e) alpontja hatályon kívül helyezte.
