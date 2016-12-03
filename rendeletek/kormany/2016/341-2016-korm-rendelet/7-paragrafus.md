@@ -1,1 +1,0 @@
-## „(1a) Az adás-vételi szerződés hirdetményi úton történő közlése során a közös önkormányzati hivatalhoz tartozó önkormányzat alatt a közös önkormányzati hivatalhoz tartozó, a föld fekvése szerint illetékes települési önkormányzatot kell érteni.”

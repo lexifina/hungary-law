@@ -1,1 +1,0 @@
-## „(6) Ha a jogutód az ingatlan-nyilvántartásból nem állapítható meg, akkor az eljárás folytatására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény rendelkezései az irányadóak.”
