@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-33-20-2
 | 2015-06-07 | 2008-33-20-22.23 | 122/2015. (V. 26.) Korm. rendelet |
 | 2016-01-01 | 2008-33-20-22.24 | 345/2015. (XI. 19.) Korm. rendelet |
 | 2016-11-04 | 2008-33-20-22.25 | 282/2011. (XII. 21.) Korm. rendelet |
+| 2016-12-03 | 2008-33-20-22.26 | 527/2013. (XII. 30.) Korm. rendelet |

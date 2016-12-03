@@ -42,7 +42,7 @@ o)[^10] az elektronikus hírközlésért felelős miniszter, illetve az informat
 
 p) az ügyvédi és ügyvédjelölti képesítések esetében első fokon a Budapesti Ügyvédi Kamarát, másodfokon a Magyar Ügyvédi Kamarát,
 
-q)[^11] a vízgazdálkodásért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az Országos Vízügyi Hatóságot, másodfokon a vízgazdálkodásért felelős minisztert,
+q)[^11] a vízgazdálkodásért felelős miniszter hatáskörébe tartozó szabályozott szakmák esetében első fokon az BM Országos Katasztrófavédelmi Főigazgatóságot, másodfokon a vízgazdálkodásért felelős minisztert,
 
 r)[^12] energetikai auditor képesítések esetén a Magyar Energetikai és Közmű-szabályozási Hivatalt
 
@@ -94,7 +94,7 @@ c) az a) és b) pontban nem említett esetekben az Etv. 60/B. §-a szerinti elj�
 [^8]: Az 1. § (2) bekezdés j) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § d) pontja szerint módosított szöveg.
 [^9]: Az 1. § (2) bekezdés l) pontja az 527/2013. (XII. 30.) Korm. rendelet 59. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 420. § e) pontja szerint módosított szöveg.
 [^10]: Az 1. § (2) bekezdés o) pontja a 221/2014. (IX. 4.) Korm. rendelet 420. § f) pontja szerint módosított szöveg.
-[^11]: Az 1. § (2) bekezdés q) pontját az 527/2013. (XII. 30.) Korm. rendelet 59. § (2) bekezdése iktatta be.
+[^11]: Az 1. § (2) bekezdés q) pontját az 527/2013. (XII. 30.) Korm. rendelet 59. § (2) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 112. § (9) bekezdés a) pontja szerint módosított szöveg.
 [^12]: Az 1. § (2) bekezdés r) pontját a 122/2015. (V. 26.) Korm. rendelet 37. §-a iktatta be.
 [^13]: Az 1. § (3) bekezdés a) pontja a 30/2015. (II. 25.) Korm. rendelet 28. § a) pontja szerint módosított szöveg.
 [^14]: Az 1. § (3) bekezdés b) pontja a 318/2014. (XII. 13.) Korm. rendelet 9. §-a szerint módosított szöveg.
