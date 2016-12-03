@@ -1,3 +1,5 @@
+## A természetes fürdővíz vízminőségi követelményei
+
 |  | A | B | C | D | E |
 
 |  | Paraméter | Kiváló minőség | Jó minőség | Tűrhető minőség | Elemzési referencia- módszerek |

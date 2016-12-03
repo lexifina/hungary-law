@@ -62,7 +62,7 @@
 
 3. melléklet a 78/2008. (IV. 3.) Korm. rendelethez
 
-A természetes fürdővíz és fürdőhely védőterülete
+## A természetes fürdővíz és fürdőhely védőterülete
 
 1. Tavakban és holtágakban a fürdőhely területének határától a vízfelületen minden irányban 100–100 m kiterjedésű, a vízparton pedig – az igénybe vett területen kívül – legalább 10 m szélességű védőterületet kell kijelölni.
 
