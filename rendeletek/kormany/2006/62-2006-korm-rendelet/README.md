@@ -20,3 +20,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-62-20-2
 | 2015-01-01 | 2006-62-20-22.17 | 352/2012. (XII. 13.) Korm. rendelet |
 | 2015-03-01 | 2006-62-20-22.18 | 24/2015. (II. 20.) Korm. rendelet |
 | 2015-09-01 | 2006-62-20-22.19 | 221/2015. (VIII. 7.) Korm. rendelet |
+| 2016-12-03 | 2006-62-20-22.20 | 379/2016. (XII. 2.) korm. rendelet |
