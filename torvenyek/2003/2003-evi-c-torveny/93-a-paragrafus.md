@@ -2,7 +2,7 @@
 
 93/A. § (1) A fizikai infrastruktúra 94. § (2a) bekezdése szerinti felhasználása céljából az elektronikus hírközlési szolgáltató jogosult megismerni az érintett fizikai infrastruktúrára vonatkozóan legalább a földrajzi elhelyezkedést, nyomvonalat, a fizikai infrastruktúra típusát és aktuális felhasználását, valamint a hálózatüzemeltető elérhetőségeit.
 
-(2) Az elektronikus hírközlési szolgáltató az (1) bekezdés szerinti adatokhoz kormányrendeletben meghatározott feltételekkel férhet hozzá a közmű- és nyomvonal jellegű építmények egységes elektronikus nyilvántartásából (a továbbiakban: e-közmű).
+(2) Az elektronikus hírközlési szolgáltató az (1) bekezdés szerinti adatokhoz kormányrendeletben meghatározott feltételekkel férhet hozzá az e-közműből.
 
 (3) Ha az (1) bekezdés szerinti adat nem áll rendelkezésre az e-közműben, az elektronikus hírközlési szolgáltató írásbeli megkereséssel fordulhat a hálózatüzemeltetőhöz az adathoz való hozzáférés érdekében. A megkeresésben pontosan meg kell határozni azt a földrajzi területet, amelyre vonatkozóan az elektronikus hírközlési szolgáltató az adatszolgáltatást kéri.
 
