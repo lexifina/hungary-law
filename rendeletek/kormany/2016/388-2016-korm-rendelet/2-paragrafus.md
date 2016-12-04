@@ -10,7 +10,7 @@ d) a gyógyító-megelőző ellátáshoz közvetlenül kapcsolódó, szállító
 
 e) a működési támogatás kiutalásának napján fennálló tartozásainak
 
-## csökkentésére 2016. december 31-éig használhatja fel, azzal, hogy a sorrendben következő pontban meghatározott célra a működési támogatás csak akkor használható fel, ha a sorrendben azt megelőző pont szerinti tartozását a szolgáltató már kiegyenlítette.
+csökkentésére 2016. december 31-éig használhatja fel, azzal, hogy a sorrendben következő pontban meghatározott célra a működési támogatás csak akkor használható fel, ha a sorrendben azt megelőző pont szerinti tartozását a szolgáltató már kiegyenlítette.
 
 (2) Az 1. § (1) bekezdése szerinti működési támogatás intézményi felújításra, beruházásra, fejlesztésre nem használható fel.
 

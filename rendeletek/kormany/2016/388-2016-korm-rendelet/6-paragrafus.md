@@ -1,1 +1,0 @@
-## 5. § Az egészségügyi szolgáltatások Egészségbiztosítási Alapból történő finanszírozásának részletes szabályairól szóló 43/1999. (III. 3.) Korm. rendelet (a továbbiakban: Kr.) 5. számú melléklete az 1. melléklet szerint módosul.
