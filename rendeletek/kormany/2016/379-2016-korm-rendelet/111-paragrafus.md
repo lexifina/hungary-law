@@ -1,8 +1,8 @@
-## 110. §[^183] A földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet 17/A. § (1) bekezdésében a „Földmérési és Távérzékelési Intézet” szövegrész helyébe a „földmérési és térinformatikai államigazgatási szerv” szöveg lép.
+## 110. §[^186] A földhasználati nyilvántartás részletes szabályairól szóló 356/2007. (XII. 23.) Korm. rendelet 17/A. § (1) bekezdésében a „Földmérési és Távérzékelési Intézet” szövegrész helyébe a „földmérési és térinformatikai államigazgatási szerv” szöveg lép.
 
 ## 111. A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet módosítása
 
-111. §[^184] (1) A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet (a továbbiakban: R51.) 3. §-a helyébe a következő rendelkezés lép:
+111. §[^187] (1) A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokról szóló 382/2007. (XII. 23.) Korm. rendelet (a továbbiakban: R51.) 3. §-a helyébe a következő rendelkezés lép:
 
 ## „3. § A villamosenergia-ipari építésügyi hatósági engedélyezési eljárásokban az építésügyi hatósági jogkört első fokon Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként kijelöléséről és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 1. mellékletében kijelölt műszaki biztonsági feladatkörben eljáró fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: Hatóság), másodfokon a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala gyakorolja.”
 
@@ -32,5 +32,5 @@ c) 23. § (7) bekezdés ca) pontjában az „az Országos Környezetvédelmi és
 
 (7) Az R51. 4. számú melléklet 3. pontja a 17. melléklet szerint módosul.
 
-[^183]: A 110. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^184]: A 111. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^186]: A 110. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^187]: A 111. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

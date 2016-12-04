@@ -2,7 +2,7 @@
 
 ## 96. A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet módosítása
 
-## 96. §[^168] A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet
+## 96. §[^171] A harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló 2007. évi II. törvény végrehajtásáról szóló 114/2007. (V. 24.) Korm. rendelet
 
 a) 1. § c) pontjában a „Bevándorlási és Állampolgársági Hivatal” szövegrész helyébe a „Bevándorlási és Menekültügyi Hivatal” szöveg,
 
@@ -20,4 +20,4 @@ g) 140. § (4) bekezdésében az „az OEP-hez” szövegrész helyébe az „a 
 
 h) VI. melléklet D) pontjában a „Bevándorlási és Állampolgársági Hivatalnak” szövegrész helyébe a „Bevándorlási és Menekültügyi Hivatalnak” szöveg
 
-[^168]: A 96. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^171]: A 96. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

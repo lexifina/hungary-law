@@ -1,6 +1,6 @@
 ## 112. A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet módosítása
 
-112. § (1)–(8)[^185] A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet (a továbbiakban: R52.) 1. § (2) bekezdés a)–c) pontja helyébe a következő rendelkezés lép:
+112. § (1)–(8)[^188] A külföldi bizonyítványok és oklevelek elismeréséről szóló 2001. évi C. törvény hatálya alá tartozó ügyekben eljáró hatóságok kijelöléséről, valamint a nyilatkozattételi kötelezettség alá eső szolgáltatások felsorolásáról szóló 33/2008. (II. 21.) Korm. rendelet (a továbbiakban: R52.) 1. § (2) bekezdés a)–c) pontja helyébe a következő rendelkezés lép:
 
 (Az Etv. Harmadik részének hatálya alá tartozó hatósági eljárásokban a Kormány a külföldi bizonyítványok és oklevelek elismerésért felelős hatóságként)
 
@@ -70,9 +70,9 @@
 
 (9) Az R52.
 
-a) 1. § (2) bekezdés q) pontjában az „Országos Vízügyi Hatóságot” szövegrész helyébe a „BM Országos Katasztrófavédelmi Főigazgatóságot” szöveg,
+a)[^189]
 
-b)–f)[^186] 1. számú melléklet 7. sorában az „Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség” szövegrész helyébe a „környezetvédelemért és a természetvédelemért felelős miniszter” szöveg,
+b)–f)[^190] 1. számú melléklet 7. sorában az „Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség” szövegrész helyébe a „környezetvédelemért és a természetvédelemért felelős miniszter” szöveg,
 
 c) 1. számú melléklet 11. és 12. sorában a „Magyar Kereskedelmi és Engedélyezési Hivatal” szövegrész helyébe a „Budapest Főváros Kormányhivatala” szöveg,
 
@@ -84,7 +84,7 @@ f) 2. számú melléklete 1. pontjában a „népegészségügyi feladatkörébe
 
 ## lép.
 
-(10)[^187] Az R52.
+(10)[^191] Az R52.
 
 a) 3. számú melléklete helyébe a 18. melléklet lép.
 
@@ -92,14 +92,15 @@ b) 4. számú melléklete helyébe a 19. melléklet lép.
 
 (11) Hatályát veszti az R52. 2. melléklet
 
-a)[^188] 1. sorában az „Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala” szöveg,
+a)[^192] 1. sorában az „Állami Népegészségügyi és Tisztiorvosi Szolgálat Országos Tisztifőorvosi Hivatala” szöveg,
 
-b)–c)[^189] 3. sorában a „Magyar Kereskedelmi és Engedélyezési Hivatal központi szerve” szöveg,
+b)–c)[^193] 3. sorában a „Magyar Kereskedelmi és Engedélyezési Hivatal központi szerve” szöveg,
 
 c) 13. sorában az „élelmiszerlánc-felügyeletért felelős miniszter” szöveg.
 
-[^185]: A 112. § (1)–(8) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^186]: A 112. § (9) bekezdés b)–f) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^187]: A 112. § (10) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^188]: A 112. § (11) bekezdés a) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^189]: A 112. § (11) bekezdés b)–c) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^188]: A 112. § (1)–(8) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^189]: A 112. § (9) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^190]: A 112. § (9) bekezdés b)–f) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^191]: A 112. § (10) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^192]: A 112. § (11) bekezdés a) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^193]: A 112. § (11) bekezdés b)–c) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

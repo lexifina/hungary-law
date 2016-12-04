@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-379-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-12-03 | 2016-379-20-22.1 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2016-12-04 | 2016-379-20-22.2 | 2010: CXXX. törvény |

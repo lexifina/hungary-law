@@ -1,6 +1,6 @@
 ## 72. Egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának szabályozásáról szóló 25/2006. (II. 3.) Korm. rendelet módosítása
 
-## 72. §[^122] Az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának szabályozásáról szóló 25/2006. (II. 3.) Korm. rendelet
+## 72. §[^124] Az egyes festékek, lakkok és járművek javító fényezésére szolgáló termékek szerves oldószer tartalmának szabályozásáról szóló 25/2006. (II. 3.) Korm. rendelet
 
 a) 3. § (1) bekezdésében a „Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal)” szövegrész helyébe a „kereskedelmi feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: Kormányhivatal)” szöveg,
 
@@ -26,4 +26,4 @@ k) 5. számú mellékletében az „Az MKEH” szövegrész helyébe az „A Kor
 
 l) 8. számú mellékletében az „MKEH-nál történt nyilvántartásba vételének határozatszáma:” szövegrész helyébe az „A Kormányhivatalnál történt nyilvántartásba vételének határozatszáma:” szöveg
 
-[^122]: A 72. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^124]: A 72. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

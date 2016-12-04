@@ -4,7 +4,7 @@
 
 ## 212/2008. (VIII. 29.) Korm. rendelet módosítása
 
-118. §[^201] (1) A fogyasztóvédelmi hatóság eljárása során felmerülő egyes eljárási költségekről szóló 212/2008. (VIII. 29.) Korm. rendelet (a továbbiakban: R54.) 2. §-a helyébe a következő rendelkezés lép:
+118. §[^207] (1) A fogyasztóvédelmi hatóság eljárása során felmerülő egyes eljárási költségekről szóló 212/2008. (VIII. 29.) Korm. rendelet (a továbbiakban: R54.) 2. §-a helyébe a következő rendelkezés lép:
 
 ## „2. § Az eljárási költséget a fogyasztóvédelemért felelős miniszter által vezetett minisztérium Magyar Államkincstárnál – a 10032000-00290713-00000000 számlaszámon – vezetett előirányzat-felhasználási keretszámlájára készpénzátutalási megbízáson vagy átutalással kell befizetni.”
 
@@ -18,4 +18,4 @@
 
 (4) Az R54. 3. § (2) bekezdésében a „Nemzeti Fogyasztóvédelmi Hatóság” szövegrész helyébe a „fogyasztóvédelemért felelős miniszter által vezetett minisztérium” szöveg lép.
 
-[^201]: A 118. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^207]: A 118. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

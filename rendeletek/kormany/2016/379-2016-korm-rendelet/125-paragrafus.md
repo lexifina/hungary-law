@@ -1,6 +1,6 @@
 ## 125. A humán reprodukciós eljárásokkal kapcsolatos, kötelezően nyilvánosságra hozandó eredményességi adatok, statisztikák köréről, a nyilvánosságra hozatal módjáról és helyéről, továbbá az ellenőrzés módjáról szóló 339/2008. (XII. 30.) Korm. rendelet módosítása
 
-## 125. §[^215] A humán reprodukciós eljárásokkal kapcsolatos, kötelezően nyilvánosságra hozandó eredményességi adatok, statisztikák köréről, a nyilvánosságra hozatal módjáról és helyéről, továbbá az ellenőrzés módjáról szóló 339/2008. (XII. 30.) Korm. rendelet
+## 125. §[^222] A humán reprodukciós eljárásokkal kapcsolatos, kötelezően nyilvánosságra hozandó eredményességi adatok, statisztikák köréről, a nyilvánosságra hozatal módjáról és helyéről, továbbá az ellenőrzés módjáról szóló 339/2008. (XII. 30.) Korm. rendelet
 
 a) 1. §-ában az „Országos Betegjogi, Ellátottjogi, Gyermekjogi és Dokumentációs Központ (a továbbiakban: OBDK)” szövegrész helyébe az „egészségügyért felelős miniszter (a továbbiakban: miniszter)” szöveg,
 
@@ -16,4 +16,4 @@ f) 3. § (3) bekezdésében az „az OBDK” szövegrész helyébe az „a minis
 
 g) 1. számú mellékletében az „OEP finanszírozott” szövegrész helyébe az „Egészségbiztosítási Alapból finanszírozott” szöveg
 
-[^215]: A 125. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^222]: A 125. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

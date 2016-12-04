@@ -42,21 +42,21 @@ a)[^116] 38/B. § (1) bekezdésében az „iratkezelési szabályzatában” sz�
 
 b)[^117] 38/E. § (3) bekezdésében az „iratkezelési szabályzatában” szövegrész helyébe az „önálló iratkezelési rendjében” szöveg,
 
-c) 1. melléklet 43. pontjában a „Nemzeti Környezetügyi Intézet” szövegrész helyébe a „Herman Ottó Intézet” szöveg,
+c)[^118]
 
-d)[^118] 2. melléklet II. pont n) alpontjában a „fővárosi és megyei kormányhivatal” szövegrész helyébe a „fővárosi és megyei kormányhivatal és járási (kerületi) hivatala” szöveg
+d)[^119] 2. melléklet II. pont n) alpontjában a „fővárosi és megyei kormányhivatal” szövegrész helyébe a „fővárosi és megyei kormányhivatal és járási (kerületi) hivatala” szöveg
 
 ## lép.
 
-(7)[^119] Az R34. 1. melléklete helyébe a 7. melléklet lép.
+(7)[^120] Az R34. 1. melléklete helyébe a 7. melléklet lép.
 
 (8) Hatályát veszti az R34. 1. melléklet
 
-a) 31. pontja,
+a)[^121]
 
-b)[^120] 34. pontja.
+b)[^122] 34. pontja.
 
-(9)[^121] Hatályát veszti az R34. 2. melléklet II. pont n) alpontjában a „családtámogatási és” szövegrész.
+(9)[^123] Hatályát veszti az R34. 2. melléklet II. pont n) alpontjában a „családtámogatási és” szövegrész.
 
 [^110]: A 70. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^111]: A 71. § (1) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
@@ -66,7 +66,9 @@ b)[^120] 34. pontja.
 [^115]: A 71. § (5) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^116]: A 71. § (6) bekezdés a) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^117]: A 71. § (6) bekezdés b) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^118]: A 71. § (6) bekezdés d) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^119]: A 71. § (7) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^120]: A 71. § (8) bekezdés b) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^121]: A 71. § (9) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^118]: A 71. § (6) bekezdés c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^119]: A 71. § (6) bekezdés d) pontja a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^120]: A 71. § (7) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^121]: A 71. § (8) bekezdés a) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^122]: A 71. § (8) bekezdés b) pontja a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^123]: A 71. § (9) bekezdése a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

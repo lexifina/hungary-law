@@ -1,8 +1,8 @@
-## 129. §[^219] Hatályát veszti a radioaktív hulladékok és a kiégett fűtőelemek országhatáron át történő szállításának engedélyezéséről szóló 34/2009. (II. 20.) Korm. rendelet 3. § (3) bekezdése.
+## 129. §[^226] Hatályát veszti a radioaktív hulladékok és a kiégett fűtőelemek országhatáron át történő szállításának engedélyezéséről szóló 34/2009. (II. 20.) Korm. rendelet 3. § (3) bekezdése.
 
 ## 130. A vásárokról, a piacokról, és a bevásárlóközpontokról szóló 55/2009. (III. 13.) Korm. rendelet módosítása
 
-130. §[^220] (1) A vásárokról, a piacokról, és a bevásárlóközpontokról szóló 55/2009. (III. 13.) Korm. rendelet (a továbbiakban: R61.) 4/B. § (5) bekezdés a) és b) pontja helyébe a következő rendelkezés lép:
+130. §[^227] (1) A vásárokról, a piacokról, és a bevásárlóközpontokról szóló 55/2009. (III. 13.) Korm. rendelet (a továbbiakban: R61.) 4/B. § (5) bekezdés a) és b) pontja helyébe a következő rendelkezés lép:
 
 (A jegyző a bejelentés másolatát a nyilvántartásba vételt követően a nyilvántartási számmal együtt megküldi)
 
@@ -28,5 +28,5 @@ a) 4. § (4a) bekezdése,
 
 b) 1. melléklete.
 
-[^219]: A 129. § a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
-[^220]: A 130. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^226]: A 129. § a 329. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^227]: A 130. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

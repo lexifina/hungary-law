@@ -4,7 +4,7 @@
 
 ## 329/2007. (XII. 13.) Korm. rendelet módosítása
 
-109. §[^182] (1) A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII.13.) Korm. rendelet (a továbbiakban: R50.) 14/A. § (2) bekezdés b) pontja helyébe az alábbi rendelkezés lép:
+109. §[^185] (1) A Rendőrség szerveiről és a Rendőrség szerveinek feladat- és hatásköréről szóló 329/2007. (XII.13.) Korm. rendelet (a továbbiakban: R50.) 14/A. § (2) bekezdés b) pontja helyébe az alábbi rendelkezés lép:
 
 ## „b) ha az ideiglenes határátkelőhely megnyitása kikötőt vagy víziutat érint – a hajózás biztonsága érvényesülésének biztosíthatósága szakkérdésben – elsőfokú eljárásban a közlekedésért felelős miniszter,”
 
@@ -22,4 +22,4 @@ a) C:2 mezőjében az „A környezetvédelmi és természetvédelmi feladatkör
 
 b) D:2 mezőjében az „Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség” szövegrész helyébe a „Pest Megyei Kormányhivatal” szöveg
 
-[^182]: A 109. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^185]: A 109. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

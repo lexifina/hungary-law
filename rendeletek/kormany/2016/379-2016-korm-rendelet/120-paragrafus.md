@@ -1,6 +1,6 @@
 ## 120. A parlagfű elleni közérdekű védekezés végrehajtásának, valamint az állami, illetve a közérdekű védekezés költségei megállapításának és igénylésének részletes szabályairól szóló 221/2008. (VIII. 30.) Korm. rendelet módosítása
 
-120. §[^203] (1) A parlagfű elleni közérdekű védekezés végrehajtásának, valamint az állami, illetve a közérdekű védekezés költségei megállapításának és igénylésének részletes szabályairól szóló 221/2008. (VIII. 30.) Korm. rendelet (a továbbiakban: R56.) 1. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+120. §[^209] (1) A parlagfű elleni közérdekű védekezés végrehajtásának, valamint az állami, illetve a közérdekű védekezés költségei megállapításának és igénylésének részletes szabályairól szóló 221/2008. (VIII. 30.) Korm. rendelet (a továbbiakban: R56.) 1. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
 
 [Az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény (a továbbiakban: Tv.) 17. § (4) bekezdésében előírt parlagfű elleni védekezés elmulasztása esetén]
 
@@ -40,4 +40,4 @@ a) 6. §-ában a „vidékfejlesztési” szövegrész,
 
 b) 8. § (1) bekezdése.
 
-[^203]: A 120. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^209]: A 120. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

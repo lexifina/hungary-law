@@ -2,7 +2,7 @@
 
 ## 101. A cirkuszi menazséria létesítése és működtetése engedélyezésének, valamint fenntartásának részletes szabályairól szóló 222/2007. (VIII. 29.) Korm. rendelet módosítása
 
-101. §[^173] (1) A cirkuszi menazséria létesítése és működtetése engedélyezésének, valamint fenntartásának részletes szabályairól szóló 222/2007. (VIII. 29.) Korm. rendelet (a továbbiakban: R48.) 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+101. §[^176] (1) A cirkuszi menazséria létesítése és működtetése engedélyezésének, valamint fenntartásának részletes szabályairól szóló 222/2007. (VIII. 29.) Korm. rendelet (a továbbiakban: R48.) 3. § (3) bekezdése helyébe a következő rendelkezés lép:
 
 ## „(3) Az állandó menazséria működtetéséhez szükséges engedélyezési eljárásban szakkérdésként vizsgálni kell
 
@@ -24,4 +24,4 @@ d) 4. § (7) bekezdésében az „A járási hivatal és a 3. § megyei kormány
 
 e) 6. § (6) bekezdésében az „az élelmiszerlánc-biztonsági és állat-egészségügyi, valamint természetvédelmi hatáskörében eljáró megyei kormányhivatal” szövegrész helyébe az „a megyei kormányhivatal és a területi természetvédelmi hatóság” szöveg
 
-[^173]: A 101. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^176]: A 101. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

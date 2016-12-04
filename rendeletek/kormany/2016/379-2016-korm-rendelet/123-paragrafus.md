@@ -2,7 +2,7 @@
 
 ## 292/2008. (XII. 10.) Korm. rendelet módosítása
 
-123. §[^205] (1) A veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 292/2008. (XII. 10.) Korm. rendelet (a továbbiakban: R58.) 3. § (4) bekezdése helyébe a következő rendelkezés lép:
+123. §[^212] (1) A veszélyeztetett vadon élő állat- és növényfajok nemzetközi kereskedelmét szabályozó nemzetközi és európai közösségi jogi aktusok végrehajtásának egyes szabályairól szóló 292/2008. (XII. 10.) Korm. rendelet (a továbbiakban: R58.) 3. § (4) bekezdése helyébe a következő rendelkezés lép:
 
 ## „(4) A Pest Megyei Kormányhivatal természetvédelmi hatáskörében eljáró Érdi Járási Hivatala ellátja a 4. § szerinti bejelentésekről, a 6. és 7. § szerinti bizonylatokról és igazolásokról, valamint az EU bizonylatokról szóló nyilvántartások központi koordinációját, valamint kiállítja a 6. § (4) bekezdés a) pontja szerinti eredetigazolást.”
 
@@ -48,4 +48,4 @@ h) 2. és 5. számú mellékletében a „természetvédelmi feladatkörében el
 
 i) 3. számú mellékletében a „természetvédelmi feladatkörében eljáró Pest Megyei Kormányhivatal” szövegrész helyébe az „illetékes természetvédelmi hatóság” szöveg
 
-[^205]: A 123. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^212]: A 123. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

@@ -1,8 +1,8 @@
-## 121. § A 2004. évi CIX. törvénnyel kihirdetett, a biológiai biztonságról szóló, Nairobiban, 2000. május 24-én aláírt Cartagena Jegyzőkönyv végrehajtásáról szóló 226/2008. (IX. 11.) Korm. rendelet 1. § (1) bekezdés c) pontjában a „Mezőgazdasági és Szakigazgatási Hivatal” szövegrész helyébe a „Nemzeti Élelmiszerlánc-biztonsági Hivatal” szöveg lép.
+## 121. §[^210]
 
 ## 122. A szépkorúak jubileumi köszöntéséről szóló 255/2008. (X. 21.) Korm. rendelet módosítása
 
-122. §[^204] (1) A szépkorúak jubileumi köszöntéséről szóló 255/2008. (X. 21.) Korm. rendelet (a továbbiakban: R57.)
+122. §[^211] (1) A szépkorúak jubileumi köszöntéséről szóló 255/2008. (X. 21.) Korm. rendelet (a továbbiakban: R57.)
 
 a) 1. § (5) bekezdésében a „Nyugdíjfolyósító Igazgatóság (a továbbiakban: Igazgatóság)” szövegrész helyébe a „nyugdíjfolyósító szerv” szöveg, a „Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalától (a továbbiakban: KEKKH)” szövegrész helyébe a „személyiadat- és lakcímnyilvántartásért felelős minisztertől (a továbbiakban: miniszter)” szöveg,
 
@@ -30,4 +30,5 @@ a) 4. § (3)–(5) bekezdése,
 
 b) 5. §-a.
 
-[^204]: A 122. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^210]: A 121. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^211]: A 122. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

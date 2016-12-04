@@ -2,7 +2,7 @@
 
 ## 106. A környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet módosítása
 
-## 106. §[^179] A környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet
+## 106. §[^182] A környezeti zaj és rezgés elleni védelem egyes szabályairól szóló 284/2007. (X. 29.) Korm. rendelet
 
 a) 4. § (2) és (3) bekezdésében a „környezetvédelmi hatáskörében eljáró megyei kormányhivatal” szövegrész helyébe a „területi környezetvédelmi hatóság” szöveg,
 
@@ -12,4 +12,4 @@ c) 9. § (7) bekezdésében a „közlekedési hatáskörében eljáró főváro
 
 d) 16. § (3) bekezdésében a „környezetvédelmi hatáskörében eljáró megyei kormányhivatalt” szövegrész helyébe a „területi környezetvédelmi hatóságot” szöveg
 
-[^179]: A 106. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^182]: A 106. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

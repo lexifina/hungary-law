@@ -1,4 +1,4 @@
-## 84. §[^155] A gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet a következő 19/B. §-sal egészül ki:
+## 84. §[^158] A gyermekvédelmi és gyámügyi feladat- és hatáskörök ellátásáról, valamint a gyámhatóság szervezetéről és illetékességéről szóló 331/2006. (XII. 23.) Korm. rendelet a következő 19/B. §-sal egészül ki:
 
 ## „19/B. § A Kormány a gyermekvédelmi és gyámügyi feladatkörében eljáró Budapest Főváros Kormányhivatalát jelöli ki
 
@@ -12,7 +12,7 @@
 
 ## 85. A védett állatfajok védelmére, tartására, hasznosítására és bemutatására vonatkozó részletes szabályokról szóló 348/2006. (XII. 23.) Korm. rendelet módosítása
 
-85. §[^156] (1) A védett állatfajok védelmére, tartására, hasznosítására és bemutatására vonatkozó részletes szabályokról szóló 348/2006. (XII. 23.) Korm. rendelet (a továbbiakban: R41.) 17. § (2) bekezdése helyébe a következő rendelkezés lép:
+85. §[^159] (1) A védett állatfajok védelmére, tartására, hasznosítására és bemutatására vonatkozó részletes szabályokról szóló 348/2006. (XII. 23.) Korm. rendelet (a továbbiakban: R41.) 17. § (2) bekezdése helyébe a következő rendelkezés lép:
 
 ## „(2) A védelemben részesülő állatfajok egyedének tartását, hasznosítását, bemutatását
 
@@ -42,5 +42,5 @@
 
 (4) Hatályát veszti az R41. 17. § (3) bekezdése.
 
-[^155]: A 84. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^156]: A 85. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^158]: A 84. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^159]: A 85. § a 329. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
