@@ -36,7 +36,7 @@ Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2016. március 31.
 
-5. felhívja a Miniszterelnökséget vezető minisztert, hogy az emberi erőforrások miniszterével és a nemzetgazdasági miniszterrel együttműködve, a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ bevonásával dolgozza át a Makovecz Imre munkásságának megörökítésére összeállított ötéves feladattervet és aktualizálja az abban foglalt feladatokat;
+5.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy az emberi erőforrások miniszterével és a nemzetgazdasági miniszterrel együttműködve, a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ bevonásával dolgozza át a Makovecz Imre munkásságának megörökítésére összeállított ötéves feladattervet és tegye meg az annak végrehajtásához szükséges intézkedéseket;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -44,7 +44,7 @@ emberi erőforrások minisztere
 
 nemzetgazdasági miniszter
 
-Határidő: 2016. március 31.
+Határidő: folyamatosan
 
 6. felhívja a Miniszterelnökséget vezető minisztert, hogy a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ bevonásával tegye meg a szükséges intézkedéseket Makovecz Imre egyes alkotásainak műemlékké nyilvánítása érdekében;
 
@@ -68,13 +68,13 @@ Felelős: Miniszterelnökséget vezető miniszter a feladatkörükben érintett 
 
 Határidő: 2016. május 31.
 
-9. felhívja a Miniszterelnökséget vezető minisztert, hogy a 8. pontban foglaltak teljesítését követően dolgozza ki és terjessze a Kormány elé az épületek felújításával, megvalósításával kapcsolatos intézkedések ütemtervét, továbbá tegyen javaslatot a nem vagy funkcionálisan nem megvalósítható művek 3D-ben való fotorealisztikus digitális feldolgozására, terjesztésére;
+9.[^2] felhívja a Miniszterelnökséget vezető minisztert, hogy a 8. pontban foglaltak teljesítését követően dolgozza ki és terjessze a Kormány elé az épületek felújításával, megvalósításával kapcsolatos intézkedések ütemtervét, továbbá tegyen javaslatot a nem vagy funkcionálisan nem megvalósítható művek 3D-ben való fotorealisztikus digitális feldolgozására, terjesztésére;
 
 Felelős: Miniszterelnökséget vezető miniszter a feladatkörükben érintett miniszterekkel közösen
 
-Határidő: 2016. június 30.
+Határidő: 2016. november 30.
 
-10. felhívja a Miniszterelnökséget vezető minisztert, hogy az emberi erőforrások miniszterével és a nemzetgazdasági miniszterrel közös munkacsoportot alakítson a Makovecz Imre Pályázati Alap elindítása érdekében annak vizsgálatára, hogy melyek azok a Makovecz Imre életművébe tartozó projektek, amelyek megvalósítása a hazai költségvetés, illetve európai uniós forrás terhére megvalósuló programok keretében lehetséges, valamint dolgozza ki ezen források bevonásának egyes lépéseit;
+10.[^3] felhívja a Miniszterelnökséget vezető minisztert, hogy az emberi erőforrások miniszterével és a nemzetgazdasági miniszterrel közös munkacsoportot alakítson a Makovecz Imre Pályázati Alap elindítása érdekében annak vizsgálatára, hogy melyek azok a Makovecz Imre életművébe tartozó projektek, amelyek megvalósítása a hazai költségvetés, illetve európai uniós forrás terhére megvalósuló programok keretében lehetséges, valamint dolgozza ki ezen források bevonásának egyes lépéseit;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -84,7 +84,7 @@ nemzetgazdasági miniszter
 
 Határidő: a munkacsoport megalakítására: 2016. január 31.
 
-a Makovecz Imre Pályázati Alap elindítására: 2016. július 31.
+a Makovecz Imre Pályázati Alap elindítására: 2016. november 30.
 
 11. felkéri a Makovecz-életmű méltó megőrzésében kiemelkedő szerepet betöltő alábbi szervezeteket, hogy a feladatok végrehajtása érdekében működjenek együtt a Miniszterelnökséget vezető miniszterrel és az emberi erőforrások miniszterével:
 
@@ -114,6 +114,9 @@ Határidő: a 2016. évben a költségek felmerülése ütemében
 
 a 2017–2020. évek között a központi költségvetés tervezése során
 
-13.[^1]
+13.[^4]
 
-[^1]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: Az 5. pont az 1710/2016. (XII. 5.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^2]: A 9. pont az 1710/2016. (XII. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: A 10. pont az 1710/2016. (XII. 5.) Korm. határozat 3. pontja szerint módosított szöveg.
+[^4]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
