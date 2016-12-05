@@ -1,0 +1,301 @@
+# A Kormány 401/2016. (XII. 5.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 191. szám, 2016. december 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2f1b4b93c2dece7b79f263e7382318f217ac9c6c/dokumentumok/0b7169692e5270c062b7249efb84717a1972b514/letoltes)
+
+---
+
+A Kormány 401/2016. (XII. 5.) Korm. rendelete
+az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló
+549/2013. (XII. 30.) Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 2011. CXCV. törvény 109. § (1) bekezdés 15b. pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013.
+(XII. 30.) Korm. rendelet [a továbbiakban: 549/2013. (XII. 30.) Korm. rendelet] 2. § (1) bekezdése a következő 3a. és
+3b. ponttal egészül ki:
+(E rendelet alkalmazásában)
+„3a. kifizető ügynökség: a közös agrárpolitika finanszírozásáról, irányításáról és monitoringjáról és a 352/78/EGK,
+a 165/94/EK, a 2799/98/EK, a 814/2000/EK, az 1290/2005/EK és a 485/2008/EK tanácsi rendelet hatályon kívül
+helyezéséről szóló, 2013. december 17-i 1306/2013/EU európai parlamenti és tanácsi rendelet 7. cikke szerinti
+szervezet,
+3b. komplex nemzeti térségfejlesztési program: a 2014–2020 programozási időszakra vonatkozó, az operatív
+programok stratégiai céljaihoz illeszkedő, azok megvalósulását szolgáló, több ágazatot érintő hosszú távú
+fejlesztések integrált programja,”
+2. §
+Az 549/2013. (XII. 30.) Korm. rendelet 5. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Központi, helyi önkormányzati vagy köztestületi költségvetési szerv, közvetlen vagy közvetett többségi állami
+tulajdonban álló gazdasági társaság, helyi önkormányzat, köztestület vagy közalapítvány kedvezményezett esetén, ha
+a) a kedvezményezett a fizetési számláit az Áht. alapján a kincstárban köteles vezetni,
+b) az európai uniós forrásból nyújtott költségvetési támogatások kezelésére a kincstárnál külön fizetési számlával
+rendelkezik, vagy
+c) megítélt támogatásának összege nem éri el az ötszázmillió forintot,
+a fel nem használt támogatási előleg nem minősül jogosulatlan felhasználásnak, visszafizetése során nem lehet
+kamatot felszámítani.”
+3. §
+Az 549/2013. (XII. 30.) Korm. rendelet 6. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) Az európai uniós forrást tartalmazó előirányzatok társfinanszírozáson felüli felhasználása az (1) bekezdésben
+meghatározottakon túl lehetséges a 2014–2020 programozási időszakban az Európai Regionális Fejlesztési Alap
+és az Előcsatlakozási Támogatási Eszköz pénzügyi alapok egyes, határon átnyúló együttműködéshez kapcsolódó
+programjai esetében is azzal, hogy az uniós támogatást a Területi Együttműködés előirányzatból előlegezik meg.”
+
+4. § (1) Az 549/2013. (XII. 30.) Korm. rendelet 12. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Kft. uniós feladatainak támogatása előirányzat
+célja
+a) a Nemzeti Fejlesztési Tervhez,
+b) az Új Széchenyi Tervhez,
+c) az INTERREG Közösségi Kezdeményezés programokhoz,
+d) az EGT támogatásból megvalósuló projektekhez,
+e) a Norvég Alap támogatásból megvalósuló projektekhez,
+f) a Svájci Alap támogatásból megvalósuló projektekhez, valamint
+g) az Európai Területi Együttműködés lebonyolításához
+kapcsolódó, a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság
+(a továbbiakban: SZPI) által ellátott tevékenységekből eredő, európai uniós támogatásból el nem számolható
+költségek finanszírozása lebonyolítási vagy támogatási szerződés útján.”
+(2) Az 549/2013. (XII. 30.) Korm. rendelet 12. §-a a következő (6) bekezdéssel egészül ki:
+„(6) A költségvetési támogatás a támogatási igény benyújtásakor már megkezdett vagy megvalósult tevékenységre
+is nyújtható.”
+5. § (1) Az 549/2013. (XII. 30.) Korm. rendelet 15. § (1a) bekezdése helyébe a következő rendelkezés lép:
+„(1a) Az előirányzat célja a 2014–2020 programozási időszakban a 272/2014. (XI. 5.) Korm. rendelet 5. melléklet
+3.8.2.3. és 3.12.1. pontja szerinti tevékenység ellátása érdekében a konzorciumi együttműködésben résztvevő
+a) megyei önkormányzat,
+b) megyei önkormányzat által alapított költségvetési szerv, vagy
+c) olyan gazdasági társaság, amely a tevékenység teljesítésében részt vesz, és amelyben az állam vagy
+önkormányzat – együttesen vagy külön, közvetve vagy közvetlenül – 100%-os tulajdoni részesedéssel rendelkezik,
+(a továbbiakban együtt: megelőlegezést igénylő) részére megelőlegezési szerződés keretében megelőlegezés
+biztosítása.”
+(2) Az 549/2013. (XII. 30.) Korm. rendelet 15. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Az előirányzatból nyújtott visszatérítendő támogatás szerződés szerinti visszatérítése esetén nem kell kamatot
+fizetni.”
+6. §
+Az 549/2013. (XII. 30.) Korm. rendelet a következő 8/A. alcímmel egészül ki:
+„8/A. A Komplex nemzeti térségfejlesztési programok európai uniós támogatásához kapcsolódó
+projektek előkészítésének előirányzat-felhasználási szabályai
+20/A. § (1) A Komplex nemzeti térségfejlesztési programok európai uniós támogatásához kapcsolódó projektek
+előkészítése előirányzat (ezen alcím alkalmazásában a továbbiakban: előirányzat) célja a 2014–2020 programozási
+időszakban projekt-előkészítési támogatás biztosítása
+a) a „Kreatív város – fenntartható vidék – a Nyugat-Pannon régióban új regionális fejlesztési koncepció
+megvalósításáról”című nemzeti program,
+b) a„MURA”nemzeti program és
+c) az„Ős-Dráva”nemzeti program
+kereteiben megvalósuló európai uniós támogatásra számot tartó projektek részére az adott európai uniós
+támogatási konstrukcióban elszámolható előkészítési költségekre, a konstrukcióban meghatározott maximális
+nagyságrendben.
+(2) Az előirányzat lebonyolító szervezeteként az SZPI vehető igénybe.
+(3) A lebonyolító szervezetre delegált feladatokat a fejezetet irányító szerv és a lebonyolító szervezet közötti
+megállapodásban kell rögzíteni.
+(4) A fejezetet irányító szerv vezetője az előirányzat kezelésére elkülönített előirányzat-felhasználási keretszámlát
+nyit a kincstárban.
+(5) Lebonyolító szerv igénybevétele esetén a fejezetet irányító szerv vezetője az előirányzat-felhasználási
+keretszámlára rendelkezési jogot biztosít a lebonyolító szervezet részére.
+20/B. § (1) A projekt-előkészítési támogatás formája vissza nem térítendő támogatás.
+(2) A projekt-előkészítési támogatás egyedi döntéssel, kérelemre nyújtható.
+(3) A projekt-előkészítési támogatásra előleg igényelhető, összegét a támogatási szerződés határozza meg.
+
+(4) Projekt-előkészítési támogatásban
+a) a költségvetési szerv,
+b) a nem költségvetési szervként működő közszféra szervezet kedvezményezett,
+c) a helyi önkormányzat,
+d) az önkormányzati társulás,
+e) az egyesület,
+f) a köztestület,
+g) az egyházi jogi személy,
+h) az alapítvány,
+i) a közalapítvány,
+j) a nonprofit gazdasági társaság,
+k) a kis- és középvállalkozás, valamint
+l) az európai területi társulás
+részesülhet az európai uniós támogatásra számot tartó projektje megvalósításához.
+20/C. § (1) A projekt-előkészítési támogatást igénylő szervezet a támogatást – lebonyolító szerv igénybevétele
+esetén – a lebonyolító szervezethez benyújtott kérelemmel igényelheti.
+(2) Az (1) bekezdés szerinti kérelemnek tartalmaznia kell
+a) a támogatást igénylő szervezet
+aa) nevét,
+ab) székhelyét,
+ac) adószámát,
+ad) fizetési számlájának számát,
+b) az előkészítendő projektnek az adott nemzeti programról rendelkező kormányhatározatban foglalt azonosítóját,
+c) a támogatással érintett tevékenység időtartamát és a támogatás felhasználásának határidejét,
+d) a támogatás igényelt összegét,
+e) a szakmai programot (projekttervet),
+f) a pénzügyi tervet,
+g) az igényelt előleget,
+h) a támogatás igénylése indokainak részletes, számszerűsített bemutatását, valamint
+i) nyilatkozatot a támogatási kérelem európai uniós támogatás igénybevételét biztosító felhívásra történő benyújtás
+vállalásáról.
+(3) A projekt-előkészítési támogatás összege nem haladhatja meg az igényelni tervezett európai uniós projektterv
+elszámolható összköltségének 5%-át.
+(4) A projekt-előkészítési támogatási intenzitás mértéke nem haladhatja meg az igényelni tervezett európai uniós
+támogatás támogatási intenzitásának mértékét.
+(5) A projekt-előkészítési támogatás a támogatási kérelem benyújtásakor már megkezdett vagy megvalósult olyan
+tevékenységre is nyújtható, amely 2014. január 1-jét megelőzően merült fel.
+(6) A támogatott tevékenységek, költségek a 272/2014. (XI. 5.) Korm. rendelet 5. melléklet 3.2.1. pontjában foglalt
+elszámolható előkészítési költségek közül az adott, igényelni tervezett konstrukcióban elszámolható költségek
+lehetnek.
+(7) Az előkészítő munkarészek finanszírozása során az elszámolható költségek körére és mértékére vonatkozóan
+a 272/2014. (XI. 5.) Korm. rendelet 5. mellékletében foglalt elszámolhatósági szabályok alkalmazandók.
+(8) A támogatás feltételei:
+a) kellően átgondolt, kidolgozott projektötletek,
+b) a támogatási intenzitásnak megfelelő önerő rendelkezésre állása a támogatást igénylő szervezetnél,
+c) a projektötletnek megfelelő európai uniós felhívás.
+20/D. § (1) A támogatási igényről a 48/A. § a) pontja szerinti személy dönt.
+(2) A támogatási szerződést írásba kell foglalni.
+(3) A projekt-előkészítési támogatás rendelkezésre bocsátása egy összegben előlegként, vagy részletekben történik.
+(4) A projekt-előkészítési támogatás vonatkozásában nem kell biztosítékot nyújtani.
+(5) Ha a projekt-előkészítési támogatás összege vagy annak egy része a kedvezményezett fejlesztési projektjének
+európai uniós támogatási szerződése alapján elszámolhatóvá válik, ezen összegeket a támogatott a 272/2014.
+(XI. 5.) Korm. rendelet 137. § (1) bekezdése szerinti első elszámolásban köteles benyújtani az irányító hatósághoz,
+
+a projekt-előkészítési támogatásból fedezett költségekre jutó uniós támogatási összeg a 272/2014. (XI. 5.)
+Korm. rendelet 137. § (2) bekezdése szerint a központi költségvetésben kerül elszámolásra.”
+7. §
+Az 549/2013. (XII. 30.) Korm. rendelet 21/H. § (2) bekezdése helyébe a következő rendelkezés lép, és a § a következő
+(3) bekezdéssel egészül ki:
+„(2) Az előirányzat
+a) az Európai Tengerügyi és Halászati Alapról, valamint a 2328/2003/EK, a 861/2006/EK, az 1198/2006/EK és
+a 791/2007/EK tanácsi rendelet, valamint az 1255/2011/EU európai parlamenti és tanácsi rendelet hatályon kívül
+helyezéséről szóló, 2014. május 15-i 508/2014/EU európai parlamenti és tanácsi rendelet,
+b) a közös halászati politikáról, az 1954/2003/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint
+a 2371/2002/EK és a 639/2004/EK tanácsi rendelet és a 2004/585/EK tanácsi határozat hatályon kívül helyezéséről
+szóló, 2013. december 11-i 1380/2013/EU európai parlamenti és tanácsi rendelet,
+c) az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós Alapra, az Európai Mezőgazdasági
+Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó közös rendelkezések
+megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra és
+az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések megállapításáról és az 1083/2006/EK
+tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1303/2013/EU európai parlamenti és tanácsi
+rendelet (a továbbiakban: 1303/2013/EU európai parlamenti és tanácsi rendelet) és
+d) a 272/2014. (XI. 5.) Korm. rendelet
+szerint használható fel.
+(3) A Vidékfejlesztési és halászati programok technikai segítségnyújtása előirányzat célja a Vidékfejlesztési Program
+és a Magyar Halgazdálkodási Operatív Program végrehajtásával kapcsolatos feladatokat ellátó alkalmazottaknál
+felmerült személyi juttatások, valamint a munkaadókat terhelő járulékok és szociális hozzájárulási adó kiadásainak
+finanszírozása.”
+8. § (1) Az 549/2013. (XII. 30.) Korm. rendelet 27/A. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az (1) bekezdés szerinti kérelemnek tartalmaznia kell
+a) a megyei önkormányzat
+aa) nevét,
+ab) székhelyét,
+ac) adószámát,
+ad) fizetési számla számát,
+b) a megelőlegezéssel érintett tevékenységet,
+c) a megelőlegezéssel érintett tevékenység időtartamát és a megelőlegezés felhasználásának határidejét,
+d) a megelőlegezés igényelt összegét,
+e) a szakmai programot,
+f) a pénzügyi tervet, valamint
+g) a megelőlegezés igénylése indokainak részletes, számszerűsített bemutatását.”
+(2) Az 549/2013. (XII. 30.) Korm. rendelet 27/A. §-a a következő (3a) bekezdéssel egészül ki:
+„(3a) A megelőlegezés a megelőlegezés iránti kérelem benyújtásakor már megkezdett vagy megvalósult
+tevékenységre is nyújtható.”
+(3) Az 549/2013. (XII. 30.) Korm. rendelet 27/A. § (7) és (8) bekezdése helyébe a következő rendelkezések lépnek és a §
+a következő (6a) bekezdéssel egészül ki:
+„(6a) A települési önkormányzat által megvalósított közfeladat fejlesztési projekt európai uniós támogatási
+szerződése megkötését megelőzően is sor kerülhet az (1) bekezdés szerinti kérelem benyújtására és
+a megelőlegezési szerződés megkötésére a megelőlegezést igénylővel.
+(7) A megelőlegezés kedvezményezettje köteles az európai uniós támogatási szerződés másolatát – annak
+megkötését követő harminc napon belül – a megelőlegezést nyújtó támogató részére benyújtani.
+(8) A megelőlegezés kedvezményezettje köteles a megelőlegezést a megelőlegezés nyújtása évének december 31.
+napjáig visszafizetni a megelőlegezést nyújtó támogató részére.”
+9. §
+Az 549/2013. (XII. 30.) Korm. rendelet a következő 48/A. §-sal egészül ki:
+„48/A. § A Komplex nemzeti térségfejlesztési programok európai uniós támogatásához kapcsolódó projektek
+előkészítése előirányzat (XIX. fejezet 2. cím 7. alcím 3. jogcímcsoport) vonatkozásában
+
+a) kötelezettségvállaló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
+b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy, lebonyolító szerv
+igénybevétele esetén a lebonyolító szerv vezetője vagy az általa írásban kijelölt személy,
+d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy, lebonyolító szerv
+igénybevétele esetén a lebonyolító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy, lebonyolító szerv
+igénybevétele esetén a lebonyolító szerv vezetője vagy az általa írásban kijelölt személy.”
+10. §
+Az 549/2013. (XII. 30.) Korm. rendelet 49/F. §-a helyébe a következő rendelkezés lép:
+„49/F. § (1) A Vidékfejlesztési Program (XIX. fejezet 2. cím 12. alcím 1. jogcímcsoport) vonatkozásában
+a) kötelezettségvállaló: a Program IH vezetője vagy az általa írásban kijelölt személy,
+b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+c) teljesítés igazoló: a kifizető ügynökség vezetője vagy az általa írásban kijelölt személy,
+d) érvényesítő: a kifizető ügynökség gazdasági vezetője vagy az általa írásban kijelölt személy,
+e) utalványozó: a kifizető ügynökség vezetője vagy az általa írásban kijelölt személy.
+(2) A Magyar Halgazdálkodási Operatív Program (XIX. fejezet 2. cím 12. alcím 2. jogcímcsoport) vonatkozásában
+a) kötelezettségvállaló: a Program IH vezetője vagy az általa írásban kijelölt személy,
+b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+c) teljesítés igazoló: a Program IH vezetője vagy az általa írásban kijelölt személy, vagy a közreműködő szervezet
+vezetője vagy az általa írásban kijelölt személy,
+d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy, vagy
+a közreműködő szervezet gazdasági vezetője vagy az általa írásban kijelölt személy,
+e) utalványozó: a Program IH vezetője vagy az általa írásban kijelölt személy, vagy a közreműködő szervezet vezetője
+vagy az általa írásban kijelölt személy.
+(3) A Vidékfejlesztési és halászati programok TS előirányzat (XIX. fejezet 2. cím 12. alcím 3. jogcímcsoport)
+vonatkozásában
+a) kötelezettségvállaló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
+b) pénzügyi ellenjegyző: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+c) teljesítés igazoló: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy,
+d) érvényesítő: a fejezetet irányító szerv gazdasági vezetője vagy az általa írásban kijelölt személy,
+e) utalványozó: a fejezetet irányító szerv vezetője vagy az általa írásban kijelölt személy.”
+11. §
+Az 549/2013. (XII. 30.) Korm. rendelet
+ 1. 2. § (1) bekezdés 7. pontjában a „2011. évi CVIII. törvény 6. § (1) bekezdés a)–f) pontja” szövegrész helyébe
+a„2015. évi CXLIII. törvény 5. § (1) bekezdése, valamint 7. § (1) és (2) bekezdése”szöveg,
+ 2. 2. § (1) bekezdés 13. pontjában a„nagyprojektek”szövegrész helyébe a„nagyprojektek, valamint a 2014–2020
+programozási időszakban a komplex nemzeti térségfejlesztési programok”szöveg,
+ 3. 2. § (1) bekezdés 14. pontjában a „20. pontja, a 2007–2013.” szövegrész helyébe a „20. pontja, a 2014–2020
+programozási időszakban az Európai Regionális Fejlesztési Alap és az Előcsatlakozási Támogatási Eszköz
+egyes, határon átnyúló együttműködési programjainak végrehajtásáról szóló 126/2016. (VI. 7.) Korm. rendelet
+3. § (1) bekezdés 30. pontja, a 2007–2013.”szöveg,
+ 4. 6. § (1) bekezdés b) pontjában az „Európai Bizottság” szövegrész helyébe az „az európai uniós forrást nyújtó
+szerv”szöveg,
+ 5. 6. § (1) bekezdés g) pontjában a „4. § d) és e) pontja szerinti döntés” szövegrész helyébe a „3. § (2) bekezdés
+d) és e) pontja szerinti határozat”szöveg,
+ 6. 21/A. § (1) bekezdés a) pontjában az „Európai Mezőgazdasági és Vidékfejlesztési Alapból (a továbbiakban:
+EMVA)” szövegrész helyébe az „ÚMVP (II. NVT) előirányzatból” szöveg, a „HOP) Technikai” szövegrész helyébe
+a„HOP) előirányzat Technikai”szöveg,
+ 7. 21/B. §-ában az „EMVA” szövegrész helyébe az „Európai Mezőgazdasági és Vidékfejlesztési Alapból
+(a továbbiakban: EMVA)”szöveg,
+ 8. 22. § (1) bekezdés c) pontjában a„költség haszon”szövegrész helyébe a„költség-haszon”szöveg,
+ 9. 22. § (2) bekezdésében a„költség haszon”szövegrész helyébe a„költség-haszon”szöveg,
+10. 27/A. § (1) bekezdésében a„megyei önkormányzat”szövegrész helyébe a„megelőlegezést igénylő”szöveg,
+
+11. 27/A. § (2) bekezdés a) pontjának nyitó szövegrészében a „megyei önkormányzat” szövegrész helyébe
+a„megelőlegezést igénylő”szöveg,
+12. 27/A. § (3) bekezdésében a„megyei önkormányzatonként”szövegrész helyébe a„megyénként”szöveg,
+13. 27/A. § (9) bekezdésében a „kedvezményezett megyei önkormányzat” szövegrész helyébe a „megelőlegezés
+kedvezményezettje”szöveg,
+14. 35. § (2) bekezdés d) pontjában az „a Széchenyi Programiroda Tanácsadó és Szolgáltató Nonprofit Korlátolt
+Felelősségű Társaság (a továbbiakban: SZPI)”szövegrész helyébe az„az SZPI”szöveg,
+15. 49/A. § c) pontjában a „mezőgazdasági és vidékfejlesztési támogatási szerv vezetője” szövegrész helyébe
+a„Program IH vezetője”szöveg,
+16. 50. § (3) bekezdés b) pontjában a „beszámoló készítéshez” szövegrész helyébe a „költségvetési beszámoló
+készítéshez, mérlegjelentés készítéséhez”szöveg,
+17. 1. mellékletében foglalt táblázat B:34 mezőjében a „mezőgazdasági és vidékfejlesztési támogatási szerv
+vezetője”szövegrész helyébe az„agrár-vidékfejlesztésért felelős miniszter”szöveg,
+18. 1. mellékletében foglalt táblázat B:35 mezőjében a „mezőgazdasági és vidékfejlesztési támogatási szerv
+vezetője”szövegrész helyébe az„agrár-vidékfejlesztésért felelős miniszter”szöveg,
+19. 1. mellékletében foglalt táblázat B:36 mezőjében a „mezőgazdasági és vidékfejlesztési támogatási szerv
+vezetője”szövegrész helyébe az„agrár-vidékfejlesztésért felelős miniszter”szöveg,
+20. 1. mellékletében foglalt táblázat B:37 mezőjében a „mezőgazdasági és vidékfejlesztési támogatási szerv
+vezetője”szövegrész helyébe a„kifizető ügynökség”szöveg,
+21. 1. mellékletében foglalt táblázat B:38 mezőjében a „mezőgazdasági és vidékfejlesztési támogatási szerv
+vezetője”szövegrész helyébe az„agrár-vidékfejlesztésért felelős miniszter”szöveg,
+22. 1. mellékletében foglalt táblázat B:39 mezőjében a „mezőgazdasági és vidékfejlesztési támogatási szerv
+vezetője”szövegrész helyébe a„kifizető ügynökség”szöveg,
+23. 1. mellékletében foglalt táblázat B:40 mezőjében a „mezőgazdasági és vidékfejlesztési támogatási szerv
+vezetője”szövegrész helyébe az„agrár-vidékfejlesztésért felelős miniszter”szöveg,
+24. 1. mellékletében foglalt táblázat B:41 mezőjében a „mezőgazdasági és vidékfejlesztési támogatási szerv
+vezetője”szövegrész helyébe az„agrár-vidékfejlesztésért felelős miniszter”szöveg
+lép.
+12. §
+Hatályát veszti az 549/2013. (XII. 30.) Korm. rendelet
+a) 22. § (2) bekezdésében az „Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra, a Kohéziós
+Alapra, az Európai Mezőgazdasági Vidékfejlesztési Alapra és az Európai Tengerügyi és Halászati Alapra
+vonatkozó közös rendelkezések megállapításáról, az Európai Regionális Fejlesztési Alapra, az Európai Szociális
+Alapra és a Kohéziós Alapra és az Európai Tengerügyi és Halászati Alapra vonatkozó általános rendelkezések
+megállapításáról és az 1083/2006/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i”
+szövegrész,
+b) 27. § (5) bekezdésében a„3. melléklete”szövegrész,
+c) 49/C. § c) pontjában a „vagy a mezőgazdasági és vidékfejlesztési támogatási szerv vezetője vagy az általa
+írásban kijelölt személy,”szövegrész,
+d) 50. § (2) bekezdése,
+e) 50. § (3) bekezdés nyitó szövegrészében az„a (2) bekezdés szerinti feladatokon kívül”szövegrész.
+13. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

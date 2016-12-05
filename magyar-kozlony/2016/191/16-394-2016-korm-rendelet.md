@@ -1,0 +1,423 @@
+# A Kormány 394/2016. (XII. 5.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 191. szám, 2016. december 5. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/2f1b4b93c2dece7b79f263e7382318f217ac9c6c/dokumentumok/0b7169692e5270c062b7249efb84717a1972b514/letoltes)
+
+---
+
+A Kormány 394/2016. (XII. 5.) Korm. rendelete
+az üvegházhatású gázok kibocsátásával kapcsolatos hitelesítési tevékenységet végző szervezetek
+akkreditálásáról és nyilvántartásáról szóló 295/2012. (X. 16.) Korm. rendelet, valamint az üvegházhatású
+gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában való
+részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló 410/2012. (XII. 28.)
+Korm. rendelet módosításáról
+A Kormány
+a nemzeti akkreditálásról szóló 2015. évi CXXIV. törvény 14. § (2) bekezdés a) és b) pontjában,
+a 2. alcím tekintetében az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat
+végrehajtásában történő részvételről szóló 2012. évi CCXVII. törvény 39. § (1) bekezdés c), i) és j) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az üvegházhatású gázok kibocsátásával kapcsolatos hitelesítési tevékenységet végző szervezetek
+akkreditálásáról és nyilvántartásáról szóló 295/2012. (X. 16.) Korm. rendelet módosításáról
+1. §
+Az üvegházhatású gázok kibocsátásával kapcsolatos hitelesítési tevékenységet végző szervezetek akkreditálásáról
+és nyilvántartásáról szóló 295/2012. (X. 16.) Korm. rendelet (a továbbiakban: 295/2012. Kr.) 6. §-a a következő
+(7) bekezdéssel egészül ki:
+„(7) Ha a hitelesítő szervezet akkreditált státuszát az akkreditáló szerv a Natv. 9. §-a alapján felfüggeszti, illetve
+a Natv. 10. §-a alapján visszavonja, az akkreditált státusz felfüggesztésének, illetve visszavonásának tényéről
+az akkreditáló szerv 15 napon belül tájékoztatja az államháztartásért felelős minisztert (a továbbiakban: miniszter)
+és a klímavédelemért felelős hatóságot.”
+2. §
+A 295/2012. Kr. 8. § (1) bekezdése helyébe a következő rendelkezés lép, és a § a következő (1a)–(1c) bekezdéssel
+egészül ki:
+„(1) Más tagállamban akkreditált hitelesítő szervezet Magyarországon hitelesítési tevékenységet akkor folytathat, ha
+a) szerepel a más tagállamban akkreditált hitelesítői névjegyzékben és
+b) az akkreditált státusz elismerése iránti kérelem a Natv. vhr. 17. § (2) bekezdése alapján a magyarországi
+akkreditáló szervnél benyújtásra és elfogadásra került.
+(1a) Ha az akkreditáló szerv részére más tagállam akkreditáló szerve bejelenti, hogy egy általa akkreditált hitelesítő
+szervezet Magyarországon hitelesítési tevékenységet kíván végezni, az akkreditáló szerv erről tájékoztatja
+a klímavédelemért felelős hatóságot és a minisztert.
+(1b) Ha a hitelesítő szervezetet akkreditáló tagállam az akkreditáló szervet értesíti vagy más módon az akkreditáló
+szerv tudomására jut, hogy a más tagállamban akkreditált hitelesítő szervezet akkreditálását felfüggesztették vagy
+visszavonták, az akkreditáló szerv erről haladéktalanul értesíti a klímavédelemért felelős hatóságot és a minisztert.
+(1c) Ha az akkreditáló szerv részére a más tagállam akkreditáló szerve bejelenti, hogy egy általa akkreditált
+hitelesítő szervezet tevékenységi körei bővültek, illetve szűkültek, az akkreditáló szerv erről a tényről értesíti
+a klímavédelemért felelős hatóságot és a minisztert.”
+3. §
+A 295/2012. Kr. 8. § (2) bekezdése a következő e) ponttal egészül ki:
+[Az (1) bekezdés szerinti bejelentés a következőket tartalmazza:]
+„e) a Magyarországon hitelesítést végző hitelesítő személyek neve, telefonszáma, elektronikus levelezési címe és
+annak igazolása, hogy a személy szerepel a más tagállamban akkreditált hitelesítői szervezetnél mint hitelesítő
+szakértő.”
+4. § (1) A 295/2012. Kr. 1. melléklete helyébe az 1. melléklet lép.
+(2) A 295/2012. Kr. 2. melléklete a 2. melléklet szerint módosul.
+5. §
+A 295/2012. Kr.
+a) 5. § (1) bekezdés e) pontjában az„EU ESTS”szövegrész helyébe az„EU ETS”szöveg,
+b) 6. § (2) bekezdésében a „mellékletében” szövegrész helyébe a „mellékletében és a Nemzeti Akkreditáló
+Hatóságról és az akkreditálási eljárásról szóló 424/2015. (XII. 23.) Korm. rendelet (a továbbiakban: Natv. vhr.)
+13. §-ában”szöveg,
+
+c) 6. § (4) bekezdésében a„negyedik”szövegrész helyébe az„ötödik”szöveg,
+d) 7. § (2) bekezdés b) pontjában, 7. § (7) bekezdés a), b) és c) pontjában a „nyilvántartásba vett” szövegrész
+helyébe az„akkreditált hitelesítői névjegyzékben szereplő,”szöveg,
+e) 8. § (2) bekezdésében a„bejelentés”szövegrész helyébe a„kérelem”szöveg,
+f) 9. § (6) bekezdésében a„bekezdés”szövegrész helyébe a„bekezdés a)–c) pontjai”szöveg, a„környezetvédelmi
+hatóságot”szövegrész helyébe a„klímavédelemért felelős hatóságot, valamint a minisztert”szöveg
+lép.
+6. §
+Hatályát veszti a 295/2012. Kr. 6. § (3) bekezdése.
+2. Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási
+határozat végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes
+szabályairól szóló 410/2012. (XII. 28.) Korm. rendelet módosításáról
+7. §
+Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat
+végrehajtásában való részvételről szóló 2012. évi CCXVII. törvény végrehajtásának egyes szabályairól szóló
+410/2012. (XII. 28.) Korm. rendelet (a továbbiakban: Ügkr. vhr.) 1. § (5) bekezdése helyébe a következő rendelkezés
+lép:
+„(5) A hatóság a kibocsátási engedélyt a környezethasználat feltételeit megállapító hatósági határozat alapján
+adja ki, ha megállapítja, hogy az üzemeltető megfelel az Ügkr. tv.-ben foglalt feltételeknek. A kibocsátási engedély
+részletes tartalmi követelményeit a 3. melléklet állapítja meg. A hatóság a kibocsátási engedély másolatát megküldi
+a miniszter részére.”
+8. § (1) Az Ügkr. vhr. 2. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) Az üzemeltető köteles a 3. melléklet b)–f) és m) pontjában – ideértve a normál üzemmódban, azaz folyamatos
+üzemeltetésben bekövetkező változást is – foglalt adatok megváltozását a kibocsátási engedély módosítása iránti
+kérelem benyújtásával egyidejűleg
+a) a változást követő 15 napon belül,
+b) ha a változás a már kiadott környezethasználat feltételeit megállapító határozat tartalmát is érinti, a változás
+nyomán kiadott környezethasználat feltételeit megállapító határozat jogerőre emelkedését követő 15 napon belül,
+a hatóság részére bejelenteni.”
+(2) Az Ügkr. vhr. 2. §-a a következő (4a) bekezdéssel egészül ki:
+„(4a) Az üzemeltető köteles
+a) a 3. melléklet i) pontjában, valamint a j) pont jb)–jc), je)–jg) alpontjában foglalt, az engedélyezett kibocsátási
+kategóriában, valamint a jóváhagyott nyomonkövetési tervben rögzített adatok tervezett megváltozását
+megelőzően legalább 45 nappal, a kibocsátási engedély módosítása iránti kérelem benyújtásával egyidejűleg;
+b) a 3. melléklet j) pont ja) alpontjában foglalt kibocsátási források (kibocsátást eredményező berendezések,
+eljárások) változását a kibocsátási engedély módosítása iránti kérelem benyújtásával egyidejűleg
+ba) a változást megelőzően legalább 45 nappal,
+bb) ha a változás a már kiadott környezethasználat feltételeit megállapító határozat tartalmát is érinti, a változás
+nyomán kiadott környezethasználat feltételeit megállapító határozat jogerőre emelkedését követő 15 napon belül,
+a hatóság részére bejelenteni.”
+9. §
+Az Ügkr. vhr. 2. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) A (3)–(5) bekezdésben foglalt bejelentés és kérelem alapján a hatóság intézkedik a már kiadott kibocsátási
+engedély módosítása iránt, amely eredményeként ugyanazon engedélyazonosító alatt új kibocsátási engedélyt ad
+ki és a korábbi engedélyt egyidejűleg visszavonja. A hatóság a módosított kibocsátási engedély másolatát megküldi
+a miniszter részére.”
+10. § (1) Az Ügkr. vhr. 3. §-a a következő (1a) bekezdéssel egészül ki:
+„(1a) Nem kell benyújtani az (1) bekezdés c) pontja szerinti nyilatkozatot
+a) annak a létesítménynek, amely az összes hőjét exportálja egy vagy több, az Ügkr. tv. hatálya alá tartozó
+létesítmény számára, valamint
+b) az Ügkr. tv. 17. § (1) bekezdésében foglalt létesítménynek.”
+
+(2) Az Ügkr. vhr. 3. § (11) bekezdése helyébe a következő rendelkezés lép:
+„(11) A miniszter az (1) bekezdés a) és c) pontjai szerinti kötelezettség teljesítésének ellenőrzését a hatósággal
+együttműködve végzi. A hatóság az ellenőrzés keretében készült jegyzőkönyvek másolatát a miniszter részére
+megküldi.”
+(3) Az Ügkr. vhr. 3. §-a a következő (12) és (13) bekezdéssel egészül ki:
+„(12) A hatóság az (1) bekezdés a) és c) pontja szerinti kötelezettség megfelelő teljesítésének ellenőrzésén
+túlmenően a miniszterrel együttműködve hatósági ellenőrzés keretében felülvizsgálja a térítésmentes kibocsátási
+egység kiosztás alapjául szolgáló adatok megfelelőségét is.
+(13) A hatóság a miniszter részére hozzáférést biztosít az 1. § (2) bekezdés, a 4. § (2) és (6) bekezdése szerinti önálló
+elektronikus rendszer információihoz.”
+11. §
+Az Ügkr. vhr. 12. § (4) bekezdése helyébe a következő rendelkezés lép:
+„(4) A létesítmény az (1) bekezdés g) pontja szerinti leállását követő 30 napon belül köteles a működés leállásának
+a tényét bejelenteni a miniszternek és a hatóságnak. Az (1) bekezdés g) pontja szerinti esetben a miniszter
+a térítésmentes kiosztás végrehajtását a létesítmény újraindításának igazolásáig végzéssel felfüggesztheti.”
+12. § (1) Az Ügkr. vhr. 12/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Beolvadás legalább két létesítmény egy létesítménnyé történő egyesülése a (6) bekezdésben foglalt feltételek
+együttes teljesülése esetében. Létesítmény beolvadása a beolvadó létesítmény 12. § (1) bekezdés a) pontja szerinti
+bezárásának és a beolvadással érintett másik létesítmény kapacitása bővítésének minősül, ekkor a beolvadó
+létesítmény kibocsátási engedélyét vissza kell vonni. A beolvadással összefüggésben a kiosztandó kibocsátási
+egységmennyiség meghatározása és a kérelem elbírálása az (5)–(11) bekezdésében meghatározott minősített
+eljárásban történik.”
+(2) Az Ügkr. vhr. 12/A. § (5) bekezdés b) pontja helyébe a következő rendelkezés lép:
+[Az (1) és a (3) bekezdés szerinti minősített eljárás az alábbi feltételek együttes teljesülése esetén alkalmazandó:]
+„b) a beolvadásban vagy kiválásban részt vevő létesítmények kibocsátási engedélye jogerősen módosításra
+− a beolvadó létesítmény kibocsátási engedélye jogerősen visszavonásra − került, és azok a változást követő
+állapotot tartalmazzák, valamint”
+(3) Az Ügkr. vhr. 12/A. §-a a következő (12)–(14) bekezdéssel egészül ki:
+„(12) Az e § szerinti adatszolgáltatási és jelentéstételi kötelezettségek teljesítéséhez a miniszter jogosult önálló
+elektronikus rendszert létrehozni. Erről a tényről a miniszter az önálló elektronikus rendszer üzembehelyezését
+követő 15 napon belül tájékoztatja az üzemeltetőket.
+(13) A miniszter a (8) bekezdés szerinti kötelezettség megfelelő teljesítésének ellenőrzését a hatósággal
+együttműködve végzi. A hatóság az ellenőrzés keretében készült jegyzőkönyvek másolatát a miniszter részére
+megküldi.
+(14) A hatóság a minisztert tájékoztatja, ha tudomására jut, hogy a kötelezett a (8) bekezdés szerinti kötelezettséget
+nem teljesítette. A hatóság a (8) bekezdés szerinti kötelezettség megfelelő teljesítésének ellenőrzésén túlmenően
+a miniszterrel együttműködve hatósági ellenőrzés keretében felülvizsgálja a térítésmentesen kiosztásra kerülő
+kibocsátási egységek alapjául szolgáló adatok megfelelőségét is.”
+13. §
+Az Ügkr. vhr. 20. §-a a következő (7) és (8) bekezdéssel egészül ki:
+„(7) A hatóság a miniszter részére minden év május 31-ig elküldi azon létesítmények listáját, amelyek április 30-ig
+nem tettek eleget a visszaadásra irányuló kötelezettségüknek.
+(8) A hatóság az (1), (3), (4) és (6) bekezdésekben és az Ügkr. tv.-ben szabályozott bírságok megfizetéséről szóló
+határozat másolatát tájékoztatásul továbbítja a miniszter részére, és a kiszabott bírság megfizetésének tényéről
+tájékoztatja a minisztert.”
+14. §
+Az Ügkr. vhr. 21. §-a helyébe a következő rendelkezés lép:
+„21. § (1) A (2)–(5) bekezdésben meghatározott eljárásrend követendő
+a) bezárás,
+b) jelentős kapacitáscsökkentés,
+c) részleges működésbeszüntetés,
+d) kiválás,
+e) beolvadás
+
+bejelentésének elmulasztása vagy téves adatszolgáltatás esetén, ha a mulasztás a létesítmény üzemeltetője számára
+olyan kibocsátási egységek jóváírását eredményezi az adott létesítményhez rendelt üzemeltetői számlán, amelyekre
+egyébként az üzemeltető már nem lett volna jogosult.
+(2) A miniszter határozatban kötelezi az üzemeltetőt
+a) a határozat kézhezvételétől számított 45 napos határidő tűzésével a mulasztás okáról való nyilatkozattételre és
+ezzel egyidejűleg a benyújtani elmulasztott adatok benyújtására, valamint
+b) a bejelentés elmulasztása miatt az üzemeltető részére jogosulatlanul jóváírt többlet térítésmentes kibocsátási
+egységnek a hatóság (5) bekezdés szerinti határozatát követő visszautalására.
+(3) A miniszter az üzemeltetői nyilatkozat és a benyújtott adatok kézhezvételét követő 30 napon belül tájékoztatja
+az Európai Bizottságot
+a) a mulasztás tényéről,
+b) az üzemeltetővel szemben megindított kötelező eljárás tényéről,
+c) a határozat tartalmáról és annak üzemeltető általi átvételét igazoló adatról,
+d) az üzemeltetői nyilatkozat beérkezésének időpontjáról és annak tartalmáról.
+(4) A miniszter a (3) bekezdésben meghatározott tájékoztatással egyidejűleg benyújtja a vonatkozó nemzeti
+kiosztási tábla módosítására vonatkozó javaslatát az Európai Bizottságnak.
+(5) Ha az üzemeltető a teljesítésre előírt határidőn belül a (2) bekezdésben meghatározott nyilatkozattételi
+kötelezettségének nem tesz eleget, úgy a miniszter a határidő eredménytelen elteltét követően a 20. §
+(1) bekezdésében meghatározott bírságtétel megfizetésére kötelezi.
+(6) A (3) bekezdés szerinti miniszteri tájékoztatás és módosítási javaslat Európai Bizottság általi jóváhagyását
+követően a hatóság – a miniszter tájékoztatását követően – az üzemeltetőt határozatban kötelezi
+a) a határozat kézhezvételétől számított 30 napos teljesítési határidő megjelölésével az üzemeltetői számlán
+jogosulatlanul jóváírt kibocsátási egységmennyiség visszautalására, amennyiben annak az üzemeltető még nem
+tett eleget,
+b) a visszautalás napjáig napi 20 000-től 100 000 forintig terjedő bírság megfizetésére, továbbá
+c) a (2) bekezdés szerinti kötelezettség határidőben történő teljesítésének elmulasztásáért a 20. § (1) bekezdése
+alapján meghatározott bírságtétel megfizetésére.
+(7) A hatóság a miniszteri döntés alapján indított eljárásról és annak eredményéről a minisztert az eljárást lezáró
+döntés megküldésével értesíti.”
+15. §
+Az Ügkr. vhr. 21/A. §-a a következő (4)–(6) bekezdéssel egészül ki:
+„(4) Ha a hatóság – az egyes létesítmények vonatkozásában – az ÜHG-egység jóváírásának időpontjában
+bármely olyan tény, információ birtokában van, amely a térítésmentesen kiosztható ÜHG-egységmennyiségek
+csökkentéséhez vezethet, akkor haladéktalanul felfüggeszti a vonatkozó ÜHG-egységek kiosztását és erről 15 napon
+belül tájékoztatja a minisztert.
+(5) A miniszter a hatóság tájékoztatása alapján felülvizsgálja az egyes évekre térítésmentes kiosztás szerint
+meghatározott ÜHG-egységek mennyiségeit.
+(6) Ha a miniszter megállapítja, hogy a jóváhagyott nemzeti kiosztási táblában lévő kvótamennyiségek
+a) a valóságnak megfelelnek, akkor a miniszter határozatban felhívja a hatóságot a kiosztás végrehajtására;
+b) módosítása szükséges, a miniszter benyújtja az Európai Bizottság részére a nemzeti kiosztási tábla módosítására
+vonatkozó javaslatát, és annak jóváhagyását követően határozatban hívja fel a hatóságot a kiosztás végrehajtására.”
+16. §
+Az Ügkr. vhr. 21/B. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A hatóság a határidő lejártát követő 8 napon belül fizetési kötelezettség teljesítésének elmulasztását
+megállapító és a számlavezetési díj megfizetésére kötelező határozatot hoz.”
+17. §
+Az Ügkr. vhr. 2. melléklete a 3. melléklet szerint módosul.
+18. §
+Az Ügkr. vhr.
+a) 12. § (1) bekezdés c) pontjában az „engedélyt vagy határozatot” szövegrész helyébe a „határozatban foglalt
+tevékenységet”szöveg,
+b) 12. § (2) bekezdésében a „miniszterhez kell benyújtani.” szövegrész helyébe a „miniszterhez és tájékoztatásul
+a hatósághoz kell benyújtani. A hatóság a bezárttá minősítés ügyében a kérelem elbírálását követően jár el.”
+szöveg,
+
+c) 2. melléklet táblázat alatti 2. Megjegyzések pontjának 2.3. alpontjában az „egy telephelyen” szövegrész
+helyébe az„egy létesítményen belül”szöveg,
+d) 3. melléklet j) pont jh) alpontjában a„rendszer”szövegrész helyébe a„tevékenység”szöveg
+lép.
+19. §
+Hatályát veszti az Ügkr. vhr.
+a) 1. § (4) bekezdésében, 2. § (1) bekezdés b) és c) pontjában, 2. § (3) bekezdés a) pontjában, 2. §
+(3) bekezdés b) pont nyitó szövegrészében és bb) alpontjában, 12. § (5) bekezdésében, 1. melléklet A. pont
+A.3.2. alpontjában az„engedély vagy”szövegrész,
+b) 2. § (11) bekezdése,
+c) 12. § (1) bekezdés b) pontjában az„engedélyt vagy”szövegrész,
+d) 21/B. § (2) bekezdése, valamint a
+e) 21/B. § (3) és (4) bekezdésében az„és a késedelmi pótlék”szövegrész.
+3. Záró rendelkezések
+20. §
+Ez a rendelet a kihirdetését követő 16. napon lép hatályba.
+21. § (1) Ez a rendelet az 1. alcím tekintetében a 2003/87/EK európai parlamenti és tanácsi irányelv értelmében
+az üvegházhatású gázok kibocsátására vonatkozó adatokat tartalmazó jelentések és a tonnakilométer-adatokat
+tartalmazó jelentések hitelesítéséről, valamint a hitelesítők akkreditációjáról szóló, 2012. június 21-i 600/2012/EU
+bizottsági rendeletnek a végrehajtásához szükséges rendelkezéseket állapít meg.
+(2) Ez a rendelet a 2. alcím tekintetében a kibocsátási egységekre vonatkozó harmonizált ingyenes kiosztás uniós
+szintű átmeneti szabályainak a 2003/87/EK európai parlamenti és tanácsi irányelv 10a. cikke értelmében történő
+meghatározásáról szóló, 2011. április 27-i 2011/278/EU bizottsági határozatnak való megfelelést szolgálja.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 394/2016. (XII. 5.) Korm. rendelethez
+„1. melléklet a 295/2012. (X. 16.) Korm. rendelethez
+A hitelesítői akkreditáció szakterületei
+A B C
+
+Tevékenységcsoport
+száma Szakterület neve és száma Akkreditálási alkalmazási kör
+2 1a Energetika
+Tüzelőanyagok olyan létesítményekben történő elégetése, amelyekben csak az üvegházhatást okozó gázok
+kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről
+szóló, 2012. június 21-i 601/2012/EU bizottsági rendeletben meghatározott, kereskedelemben forgalmazott szabványos
+tüzelőanyagokat használnak vagy olyan A vagy B kategóriájú létesítményekben, ahol földgázt használnak.
+3 1b Energetika Tüzelőanyagok létesítményekben történő elégetése, korlátozások nélkül
+4 2 Ásványolaj finomítása Ásványolaj finomítása
+5 3
+Koksz, fémek előállítása
+a) Koksz előállítása
+b) Fémérc (beleértve a szulfidércet is) pörkölése vagy szinterelése, ideértve a pelletezést is
+c) Nyersvas vagy acél gyártása (elsődleges vagy másodlagos olvasztás), beleértve a folyamatos öntést is
+6 4
+a) Vasfémek előállítása és feldolgozása (beleértve a vasötvözeteket is)
+b) Másodlagos alumínium előállítása
+c) Vasfémek előállítása és feldolgozása, beleértve a vasötvözetek előállítását is
+7 5 Elsődleges alumínium előállítása (CO
+
+- és PFC-kibocsátás)
+8 6
+Cement, üveg, kerámia
+stb. gyártása
+a) Cementklinker előállítása
+b) Mész előállítása, valamint dolomit és magnezit kalcinálása
+c) Üveg gyártása, beleértve az üvegszálgyártást is
+d) Kerámiatermékek égetéses előállítása
+e) Ásványi gyapot szigetelőanyag előállítása
+f) Gipszszárítás vagy kalcinálás, illetve gipszkarton és más gipsztermékek előállítása
+9 7 Papírgyártás
+a) Faanyagból származó pép vagy egyéb szálas anyagok gyártása
+b) Papír vagy karton gyártása
+
+10 8
+Vegyipari tevékenységek
+a) Ipari korom előállítása
+b) Ammónia előállítása
+c) Ömlesztett szerves vegyszerek előállítása krakkolással, reformálással, részleges vagy teljes oxidálással vagy hasonló
+eljárásokkal
+d) Hidrogén (H
+
+) és szintetikus gáz előállítása reformálással vagy részleges oxidálással
+e) Nátrium-karbonát (Na
+
+CO
+
+) és nátrium-hidrogén-karbonát (NaHCO
+
+) előállítása
+
+a) Salétromsav előállítása (CO
+
+- és N
+
+O-kibocsátás)
+b) Adipinsav előállítása (CO
+
+- és N
+
+O-kibocsátás)
+c) Glioxál és glioxilsav előállítása (CO
+
+- és N
+
+O-kibocsátás)
+d) Kaprolaktám előállítása
+12 10
+CO
+
+-elkülönítés és
+-szállítás
+a) Üvegházhatású gázoknak szállítás és a bányászatról szóló 1993. évi XLVIII. törvény alapján engedélyezett tárolóhelyen
+történő geológiai tárolás céljából való elkülönítése olyan létesítményekben, amelyekre az üvegházhatású gázok
+közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló
+törvény hatálya kiterjed
+b) Üvegházhatású gázoknak a bányászatról szóló 1993. évi XLVIII. törvény alapján engedélyezett tárolóhelyen történő
+geológiai tárolás céljából való csővezetékek révén történő szállítása
+13 11 CO
+
+geológiai tárolás
+Üvegházhatású gázoknak a bányászatról szóló 1993. évi XLVIII. törvény alapján engedélyezett tárolóhelyen történő
+geológiai tárolása
+14 12 Légiközlekedés Légiközlekedési tevékenységek (kibocsátás- és tonnakilométer-adatok)
+15 98 Egyéb A 2003/87/EK európai parlamenti és tanácsi irányelv 10a. cikke szerinti egyéb tevékenységek
+16 99 Egyéb
+A 2003/87/EK európai parlamenti és tanácsi irányelv 24. cikkének megfelelően az irányelv I. mellékletében
+meghatározottakon túlmenően a tagállam által az EU ETS hatálya alá vont egyéb tevékenységek, amelyeket
+az akkreditálási okiratban kell részletesen meghatározni
+”
+
+2. melléklet a 394/2016. (XII. 5.) Korm. rendelethez
+1. A 295/2012. Kr. 2. mellékletének I. fejezete a következő I.4. alponttal egészül ki:
+„I.4. Az 1. mellékletben található 98-as tevékenységi csoport esetén a hitelesítőnek az alábbi feltételek
+mindegyikének meg kell felelnie:
+a) Az 1. melléklet 1–9 és 12 tevékenységi csoportok valamennyi, a 600/2012/EU bizottsági rendelet 35–39. cikkén
+alapuló kompetenciájával rendelkezik.
+b) Bemutatja a kibocsátási egységekre vonatkozó harmonizált ingyenes kiosztás uniós szintű átmeneti szabályainak
+a 2003/87/EK európai parlamenti és tanácsi irányelv 10a. cikke értelmében történő meghatározásáról szóló 2011. április
+27-i 2011/278/EK európai bizottsági határozat teljes mélységű ismeretét az akkreditáló szerv számára, beleértve
+a kibocsátási egységek 2012 utáni harmonizált ingyenes kiosztására vonatkozó módszertani segédletek ismeretét is.
+c) Bemutatja a létesítményre vonatkozó teljes mélységű ismeretét az akkreditáló szerv számára, beleértve annak
+tervezett normál üzemelését, karbantartását, az általános termelési ciklusait, a bemenetek emisszióintenzitását és
+az érintett ágazatbeli jellemző kapacitáskihasználást a szektorspecifikus információkkal összehasonlítva.
+d) Szükség esetén képes az alkalmazott energia vagy üvegházhatású gáz hatékonysági és csökkentési műszaki
+technológiák nemzetközi viszonylatban vett helyzetének megítélésére.”
+2. A 295/2012. Kr. 2. mellékletének II. fejezete helyébe a következő rendelkezés lép:
+„II. Szakirányú felsőfokú végzettség
+II.1. Kötelező felsőfokú végzettség EU ETS hitelesítő szakértő esetén:
+II.1.1. Energetika területén:
+a) energetikai mérnök vagy szakmérnök;
+b) gépészmérnök vagy -szakmérnök (folyamattervező szak, géptervező szak, gépipari technológia szak, termelési
+rendszer szak, vegyipari és élelmiszer-ipari gépész szak, matematikusmérnök szak, járműgépész szak, gépesítési
+szak, gépgyártás-technológiai szak, vegyipari gépész szak; gépészeti rendszertechnika szak, gépipari automatizálási
+szak, épületgépészeti szak, autógépész szak, vasútgépész szak, járműgyártási szak, hajógépész szak, építőgépész
+szak, gyárszerelő szak, műanyag alkalmazástechnikai szak, üzemgépészeti szak, szilikát- és vegyipari szak);
+c) villamos mérnök vagy szakmérnök (híradástechnikai szak, erősáramú szak, műszer- és irányítástechnikai szak,
+mikroelektronikai és technológiai szak, mikroelektronikai alkatrész- és készüléktechnológia szak, műszeripari és
+automatizálási szak, híradásipari szak, villamosenergetika szak, villamos gépek és készülékek szak, erősáramú
+automatika szak, számítástechnikai eszközök szak, épületvillamosítási szak, vezetékes távközléstechnikai szak,
+vezeték nélküli távközléstechnikai szak, közlekedési automatika szak, mérés és automatizálási szak);
+d) vegyészmérnök vagy szakmérnök (szerves és biológiai vegyipari szak, vegyipari szervező szak, nehézvegyipari
+szak, szervező vegyészmérnöki szak, vegyipari műszer- és méréstechnikai szak, agrárkémiai szak, szerves és biológiai
+vegyipari üzemmérnöki szak, vegyipari szervező üzemmérnöki szak, szervező vegyész üzemmérnöki szak).
+II.1.2. Analitika területén:
+a) vegyész;
+b) vegyészmérnök; (szerves és biológiai vegyipari szak, vegyipari szervező szak, nehézvegyipari szak, szervező
+vegyészmérnöki szak, vegyipari műszer- és méréstechnikai szak, agrárkémiai szak, szerves és biológiai vegyipari
+üzemmérnöki szak, vegyipari szervező üzemmérnöki szak, szervező vegyész üzemmérnöki szak);
+c) műszeres analitikai mérnök.
+II.1.3. Ipari eljárástechnológia területen:
+a) az Ükt. 1. számú mellékletében szereplő valamennyi tevékenységre nézve:
+aa) vegyészmérnök vagy szakmérnök (mérnök és üzemmérnök); (szerves és biológiai vegyipari szak, vegyipari szervező szak,
+nehézvegyipari szak, szervező vegyészmérnöki szak, vegyipari műszer- és méréstechnikai szak, agrárkémiai szak, szerves és
+biológiai vegyipari üzemmérnöki szak, vegyipari szervező üzemmérnöki szak, szervező vegyész üzemmérnöki szak);
+ab) vegyipari gépészmérnök vagy szakmérnök (mérnök és üzemmérnök);
+ac) vegyész;
+ad) anyagmérnök vagy szakmérnök;
+ae) környezetmérnök és -szakmérnök, környezetvédelmi mérnök és -szakmérnök levegőtisztaság-védelmi
+szakterületen;
+b) az Ükt. 1. számú mellékletében szereplő egyes tevékenységekre nézve:
+ba) ásványolaj-feldolgozás: olaj- és gázipari mérnök; (fluidumbányászati szak, kőolaj- és földgázipari szak);
+bb) kokszolás: kohómérnök; (metallurgus szak, fémalakító szak, metallurgiai szak, alakítástechnológiai szak);
+
+bc) fémércek pörkölése és zsugorítása: kohómérnök; (metallurgus szak, fémalakító szak, metallurgiai szak,
+alakítástechnológiai szak);
+bd) vas- és acéltermelés: kohómérnök; (metallurgus szak, fémalakító szak, metallurgiai szak, alakítástechnológiai szak);
+be) ásványanyagipar: kohómérnök; (metallurgus szak, fémalakító szak, metallurgiai szak, alakítástechnológiai szak).
+II.1.4. Légiközlekedési területen:
+a) közlekedésmérnök, légiközlekedési szakirány;
+b) gépészmérnök, légiközlekedési szakterületen;
+c) energetikai mérnök;
+d) PPL(A) (Private Pilot License) magánpilóta;
+e) CPL (Commercial Pilot License) kereskedelmi pilóta.
+II.2. Kötelező felsőfokú végzettség vezető hitelesítő szakértő esetén:
+II.2.1. Minőségbiztosítási területen:
+a) minőségbiztosítási vagy minőségmenedzsment mérnök, vagy szakmérnök;
+b) műszaki menedzser vagy műszaki képzési területen és a gazdaságtudományok képzési területen szerzett
+minőségbiztosítási tárgyú szakirányú továbbképzések;
+c) gazdaságmérnök, ideértve a mérnök-közgazdász másoddiplomát is;
+d) MBA (Master of Business Administration).
+II.2.2. Kockázatkezelési területen:
+a) aktuárius (biztosítási matematikus);
+b) közgazdász, pénzügyi szakirány.
+II.2.3. Audit területen:
+a) könyvvizsgáló;
+b) közgazdász, számviteli szakirány;
+c) közgazdász, pénzügyi szakirány.”
+3. melléklet a 394/2016. (XII. 5.) Korm. rendelethez
+Az Ügkr. vhr. 2. melléklet táblázat alatti 2. Megjegyzések pontjának 2.5. alpontja helyébe a következő rendelkezés lép:
+„2.5. Ha egy létesítmény tevékenységre vonatkozó kapacitása meghaladja az 1. mellékletben meghatározott küszöbértéket,
+a veszélyes és a települési hulladék égetését végző egységeken kívül valamennyi, a létesítmény részét képező tüzelőanyag-
+égetést folytató egységet szerepeltetni kell az üvegházhatású gázok kibocsátására vonatkozó engedélyben.”
