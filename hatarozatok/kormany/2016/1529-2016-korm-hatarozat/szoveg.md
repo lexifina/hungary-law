@@ -10,6 +10,16 @@ rendelkezésre álló előirányzatból kerüljön biztosításra Kaposvár Megy
 
 2. felhívja a nemzetgazdasági minisztert, hogy – a Miniszterelnökséget vezető miniszter és az emberi erőforrások miniszterének bevonásával – gondoskodjon a felújítási program megvalósításához a 2018. évben szükséges 5 128 194 ezer forint biztosításáról a 2018. évi központi költségvetés XI. Miniszterelnökség fejezetben;
 
+2a.[^1] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4a) bekezdésében biztosított jogkörében eljárva jóváhagyja, hogy a Miniszterelnökséget vezető miniszter a felújítási program megvalósítása érdekében a 2016. évben a központi költségvetés XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 78. Modern Városok Program jogcímcsoport előirányzat terhére összesen legfeljebb bruttó 8 999 855 ezer forint összegben kötelezettséget vállaljon a 2016–2018. évek vonatkozásában azzal, hogy a kötelezettségvállalás mértéke az egyes években nem haladhatja meg a következő összegeket:
+
+a) a 2016. évre vonatkozó kötelezettségvállalás felső korlátja: 1 420 000 ezer forint,
+
+b) a 2017. évre vonatkozó kötelezettségvállalás felső korlátja: 2 451 661 ezer forint,
+
+c) a 2018. évre vonatkozó kötelezettségvállalás felső korlátja: 5 128 194 ezer forint;
+
+2b.[^2] egyetért azzal, hogy a támogatói okirat a 2a. pontnak megfelelően módosításra kerüljön.
+
 Felelős: nemzetgazdasági miniszter
 
 Miniszterelnökséget vezető miniszter
@@ -23,3 +33,6 @@ Határidő: a 2018. évi központi költségvetés tervezése során
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: a beruházás ütemében
+
+[^1]: A 2a. pontot az 1709/2016. (XII. 5.) Korm. határozat iktatta be.
+[^2]: A 2b. pontot az 1709/2016. (XII. 5.) Korm. határozat iktatta be.
