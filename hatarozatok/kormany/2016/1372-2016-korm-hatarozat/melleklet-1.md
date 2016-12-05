@@ -26,15 +26,19 @@
 
 ## 4. egyetért azzal, hogy a Galvani utca – Illatos út vonalában megépítendő új 2x3 sávos közúti Duna-híd (a továbbiakban: Galvani híd) esetében nemzetközi tervpályázat kerüljön lebonyolításra az építési engedélyezési tervdokumentáció elkészítését megelőzően;
 
-## 5. felhívja a nemzeti fejlesztési minisztert, hogy az egyes kiemelt budapesti beruházásokért felelős kormánybiztossal együttműködve és Budapest főpolgármesterének bevonásával gondoskodjon a Galvani híd megvalósítására vonatkozó tervpályázati eljárás lefolytatásáról, majd az építési engedélyezési tervdokumentáció elkészítésére vonatkozó közbeszerzési eljárásnak a legjobbnak ítélt pályamű felhasználásával történő lefolytatásáról;
+## 5.[^2] felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon:
+
+## a) az egyes kiemelt budapesti beruházásokért felelős kormánybiztos munkaszervezetét jelentő KKBK Kiemelt Kormányzati Beruházások Központja Nonprofit Zártkörűen Működő Részvénytársaság (a továbbiakban: KKBK Nonprofit Zrt.) útján és Budapest főpolgármesterének bevonásával a Galvani híd megvalósítására vonatkozó nemzetközi tervpályázati eljárás lefolytatásáról, valamint
+
+## b) az építési engedélyezési tervdokumentáció elkészítésére vonatkozó közbeszerzési eljárásnak a legjobbnak ítélt pályamű felhasználásával történő lefolytatásáról;
 
 ## Felelős: nemzeti fejlesztési miniszter
 
 ## egyes kiemelt budapesti beruházásokért felelős kormánybiztos
 
-## Határidő: a nemzetközi tervpályázat kiírására azonnal
+## Határidő: az a) alpont tekintetében azonnal
 
-## az építési engedélyezési tervdokumentáció elkészítésére a nemzetközi tervpályázat eredményét követően, a legjobbnak ítélt pályamű felhasználásával azonnal
+## a b) alpont tekintetében az a) alpont teljesülését követően azonnal
 
 ## 6. az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4b) bekezdés a) pontjában biztosított jogkörében eljárva engedélyezi, hogy az 1. mellékletében szereplő projektek előkészítésére a nemzeti fejlesztési miniszter a központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezete terhére a 2016–2018. évek tekintetében összesen legfeljebb 12 014 millió forint összegben kötelezettséget vállaljon azzal, hogy a 2016–2018. évi költségvetési kiadási előirányzat terhére vállalt kötelezettségvállalások mértéke ezt nem haladhatja meg;
 
@@ -46,7 +50,13 @@
 
 ## a Galvani híd engedélyes terveinek elkészítése esetében 2018. szeptember 30.
 
-1. melléklet az 1372/2016. (VII. 20.) Korm. határozathoz[^1]
+## 8.[^3] felhívja a nemzeti fejlesztési minisztert, hogy tegye meg a szükséges intézkedéseket annak érdekében, hogy az 5. pont szerinti nemzetközi tervpályázat lebonyolításához – a 6. pont szerinti forrás terhére – 441,0 millió forint forrás e célra rendelkezésre álljon a KKBK Nonprofit Zrt. által felhasználható módon
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: azonnal
+
+1. melléklet az 1372/2016. (VII. 20.) Korm. határozathoz[^4]
 
 Kulcsfontosságú budapesti közlekedési beruházás-előkészítések
 
@@ -68,4 +78,6 @@ Kulcsfontosságú budapesti közlekedési beruházás-előkészítések
 
 | 8. | a Földalatti rekonstrukciója és a járműbeszerzése projekt engedélyezési terveinek elkészítése |
 
-[^1]: Az 1. melléklet az 1422/2016. (VII. 29.) Korm. határozat 6. pontja szerint módosított szöveg.
+[^2]: Az 5. pont az 1715/2016. (XII. 5.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 8. pontot az 1715/2016. (XII. 5.) Korm. határozat 2. pontja iktatta be.
+[^4]: Az 1. melléklet az 1422/2016. (VII. 29.) Korm. határozat 6. pontja szerint módosított szöveg.
