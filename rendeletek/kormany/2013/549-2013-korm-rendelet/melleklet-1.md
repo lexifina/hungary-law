@@ -1,6 +1,6 @@
-## 55. §[^169] E rendeletnek az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 287/2015. (X. 6.) Korm. rendelettel [a továbbiakban: 287/2015. (X. 6.) Korm. rendelet] megállapított rendelkezéseit a 287/2015. (X. 6.) Korm. rendelet hatálybalépésekor[^170] folyamatban lévő ügyekben is alkalmazni kell.
+## 55. §[^196] E rendeletnek az Uniós fejlesztések fejezetbe tartozó fejezeti kezelésű előirányzatok felhasználásának rendjéről szóló 549/2013. (XII. 30.) Korm. rendelet módosításáról szóló 287/2015. (X. 6.) Korm. rendelettel [a továbbiakban: 287/2015. (X. 6.) Korm. rendelet] megállapított rendelkezéseit a 287/2015. (X. 6.) Korm. rendelet hatálybalépésekor[^197] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^171]
+1. melléklet az 549/2013. (XII. 30.) Korm. rendelethez[^198]
 
 Kezelő szervi kijelölés
 
@@ -72,21 +72,21 @@ Kezelő szervi kijelölés
 
 | 33. | Emberi Erőforrás Fejlesztési Operatív Program | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
-| 34. | Uniós Programok ÁFA fedezete | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+| 34. | Uniós Programok ÁFA fedezete | agrár-vidékfejlesztésért felelős miniszter |
 
-| 35. | Uniós programok árfolyam-különbözete | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+| 35. | Uniós programok árfolyam-különbözete | agrár-vidékfejlesztésért felelős miniszter |
 
-| 36. | Egyéb EU által nem térített kiadások | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+| 36. | Egyéb EU által nem térített kiadások | agrár-vidékfejlesztésért felelős miniszter |
 
-| 37. | Új Magyarország Vidékfejlesztési Program (II. NVT) | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+| 37. | Új Magyarország Vidékfejlesztési Program (II. NVT) | kifizető ügynökség |
 
-| 38. | Halászati Operatív Program | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+| 38. | Halászati Operatív Program | agrár-vidékfejlesztésért felelős miniszter |
 
-| 39. | Vidékfejlesztési Program | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+| 39. | Vidékfejlesztési Program | kifizető ügynökség |
 
-| 40. | Magyar Halgazdálkodási Operatív Program | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+| 40. | Magyar Halgazdálkodási Operatív Program | agrár-vidékfejlesztésért felelős miniszter |
 
-| 41. | SAPARD-támogatásból megvalósuló programok | mezőgazdasági és vidékfejlesztési támogatási szerv vezetője |
+| 41. | SAPARD-támogatásból megvalósuló programok | agrár-vidékfejlesztésért felelős miniszter |
 
 | 42. | EQUAL Közösségi kezdeményezés | társadalmi és civil kapcsolatok fejlesztéséért felelős miniszter |
 
@@ -100,6 +100,6 @@ Kezelő szervi kijelölés
 
 | 47. | Alapok alapja VEKOP pénzügyi eszközök | MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság |
 
-[^169]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 287/2015. (X. 6.) Korm. rendelet 28. §-a iktatta be.
-[^170]: A hatálybalépés napja 2015. október 7.
-[^171]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^196]: Az 55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 287/2015. (X. 6.) Korm. rendelet 28. §-a iktatta be.
+[^197]: A hatálybalépés napja 2015. október 7.
+[^198]: Az 1. melléklet a 287/2015. (X. 6.) Korm. rendelet 29. §-ával megállapított, a 91/2016. (IV. 29.) Korm. rendelet 4. §-a, a 401/2016. (XII. 5.) Korm. rendelet 11. § 17–24. pontja szerint módosított szöveg.

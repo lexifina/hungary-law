@@ -1,4 +1,4 @@
-29. § (1)[^95] E fejezet szerinti támogatásban a közszféra szervezetek közül
+29. § (1)[^118] E fejezet szerinti támogatásban a közszféra szervezetek közül
 
 a) a központi költségvetési szerv és a nem költségvetési szervként működő közszféra szervezet kedvezményezett és
 
@@ -10,9 +10,9 @@ b) a helyi önkormányzat, önkormányzati társulás
 
 (3) A 28. § szerinti támogatás
 
-a)[^96] a 4/2011. (I. 28.) Korm. rendelet 4. § d) és e) pontja vagy a 272/2014. (XI. 5.) Korm. rendelet 5. § (2) bekezdés a) és d) pontja szerinti döntés erre vonatkozó rendelkezése alapján vagy
+a)[^119] a 4/2011. (I. 28.) Korm. rendelet 4. § d) és e) pontja vagy a 272/2014. (XI. 5.) Korm. rendelet 5. § (2) bekezdés a) és d) pontja szerinti döntés erre vonatkozó rendelkezése alapján vagy
 
 b) kormányhatározatban nevesített esetben
 
-[^95]: A 29. § (1) bekezdése a 287/2015. (X. 6.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
-[^96]: A 29. § (3) bekezdés a) pontja a 287/2015. (X. 6.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.
+[^118]: A 29. § (1) bekezdése a 287/2015. (X. 6.) Korm. rendelet 20. § (1) bekezdésével megállapított szöveg.
+[^119]: A 29. § (3) bekezdés a) pontja a 287/2015. (X. 6.) Korm. rendelet 20. § (2) bekezdésével megállapított szöveg.

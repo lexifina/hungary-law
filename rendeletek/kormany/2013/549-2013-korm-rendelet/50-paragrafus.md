@@ -4,21 +4,23 @@
 
 50. § (1) Fejezeti kezelésű előirányzatonként az 1. melléklet szerinti kezelő szervek kerülnek kijelölésre.
 
-(2)[^165] A kezelő szerv a fejezet előirányzatai tekintetében kezelő szervi minőségben a 4/2011. (I. 28.) Korm. rendeletben, a 237/2008. (IX. 26.) Korm. rendeletben, a 326/2012. (XI. 16.) Korm. rendeletben, a 228/2008. (IX. 12.) Korm. rendeletben, a 160/2009. (VIII. 3.) Korm. rendeletben, a 359/2013. (X. 11.) Korm. rendeletben, a 82/2007. (IV. 25.) Korm. rendeletben és a 272/2014. (XI. 5.) Korm. rendeletben meghatározott feladatokat látja el.
+(2)[^190]
 
-(3) A kezelő szerv a (2) bekezdés szerinti feladatokon kívül ellátja
+(3)[^191] A kezelő szerv ellátja
 
 a) a havi és éves szintű költségvetési tervezési,
 
-b) a fejezeti likviditás biztosításához, beszámoló készítéshez, zárszámadás elkészítéséhez kapcsolódó adatszolgáltatási
+b)[^192] a fejezeti likviditás biztosításához, költségvetési beszámoló készítéshez, mérlegjelentés készítéséhez, zárszámadás elkészítéséhez kapcsolódó adatszolgáltatási
 
 feladatokat.
 
-(4)[^166] A kezelő szerv köteles a fizetési számlák forgalmáról készült elektronikus kivonatot haladéktalanul megküldeni a fejezetet irányító szerv részére.
+(4)[^193] A kezelő szerv köteles a fizetési számlák forgalmáról készült elektronikus kivonatot haladéktalanul megküldeni a fejezetet irányító szerv részére.
 
 (5) A kezelő szervi feladatok nem terjednek ki a technikai segítségnyújtás jellegű prioritásokra, programokra.
 
 (6) A fejezetet irányító szerv a (3) bekezdés szerinti feladatok vonatkozásában központi szabályzatot ad ki.
 
-[^165]: Az 50. § (2) bekezdése a 287/2015. (X. 6.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^166]: Az 50. § (4) bekezdése a 287/2015. (X 6.) Korm. rendelet 31. § 19. pontja szerint módosított szöveg.
+[^190]: Az 50. § (2) bekezdését a 401/2016. (XII. 5.) Korm. rendelet 12. § d) pontja hatályon kívül helyezte.
+[^191]: Az 50. § (3) bekezdés nyitó szövegrésze a 401/2016. (XII. 5.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^192]: Az 50. § (3) bekezdés b) pontja a 401/2016. (XII. 5.) Korm. rendelet 11. § 16. pontja szerint módosított szöveg.
+[^193]: Az 50. § (4) bekezdése a 287/2015. (X 6.) Korm. rendelet 31. § 19. pontja szerint módosított szöveg.

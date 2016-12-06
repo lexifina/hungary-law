@@ -1,6 +1,6 @@
-21/F. § (1)[^71] A Vidékfejlesztési Program előirányzat felhasználása uniós és hazai társfinanszírozással valósul meg. A közösségi finanszírozás EMVA forrásból kerül biztosításra.
+21/F. § (1)[^81] A Vidékfejlesztési Program előirányzat felhasználása uniós és hazai társfinanszírozással valósul meg. A közösségi finanszírozás EMVA forrásból kerül biztosításra.
 
-(2)[^72] Az előirányzat
+(2)[^82] Az előirányzat
 
 a) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 17-i 1305/2013/EU európai parlamenti és tanácsi rendelet (a továbbiakban: 1305/2013/EU európai parlamenti és tanácsi rendelet),
 
@@ -10,8 +10,8 @@ c) a 272/2014. (XI. 5.) Korm. rendelet
 
 ## szerint használható fel.
 
-(3)[^73]
+(3)[^83]
 
-[^71]: A 21/F. § (1) bekezdése a 287/2015. (X. 6.) Korm. rendelet 31. § 10. pontja szerint módosított szöveg.
-[^72]: A 21/F. § (2) bekezdése a 287/2015. (X. 6.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^73]: A 21/F. § (3) bekezdését a 287/2015. (X. 6.) Korm. rendelet 31. § 11. pontja hatályon kívül helyezte.
+[^81]: A 21/F. § (1) bekezdése a 287/2015. (X. 6.) Korm. rendelet 31. § 10. pontja szerint módosított szöveg.
+[^82]: A 21/F. § (2) bekezdése a 287/2015. (X. 6.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^83]: A 21/F. § (3) bekezdését a 287/2015. (X. 6.) Korm. rendelet 31. § 11. pontja hatályon kívül helyezte.
