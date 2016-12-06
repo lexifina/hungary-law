@@ -1,5 +1,5 @@
-## 19. §[^11]
+## 19. §[^18]
 
 ## 12. Kizárás a kötelező átvételi vagy prémium típusú támogatási rendszerben való részvételből
 
-[^11]: A 19. § a 21. § (2) bekezdése alapján az Európai Bizottság – az Európai Unió működéséről szóló szerződés 108. cikke szerinti – jóváhagyó határozatának meghozatalát követő 8. napon lép hatályba.
+[^18]: A 19. § a 21. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
