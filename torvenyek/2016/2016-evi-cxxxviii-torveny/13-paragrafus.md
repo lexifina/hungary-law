@@ -1,15 +1,3 @@
-13. § (1) A Vet. 170. § (5) bekezdése a következő 6. és 7. ponttal egészül ki:
+13. § (1)
 
-(Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg)
-
-„6. a kötelező átvételi jogosultságok esetében, a támogatás időtartamának és a kötelező átvétel alá eső villamos energia mennyiségének kiszámítási módszereit és a számítás eredményeit, valamint a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidejét;
-
-7. a pályázati eljárás alá nem tartozó, prémium típusú támogatási jogosultságok esetében a támogatás időtartamának és a támogatás alá eső villamos energia mennyiségének kiszámítási módszereit és eredményeit, valamint a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidejét;”
-
-(2) A Vet. 170. § (5) bekezdés 7. pontja helyébe a következő rendelkezés lép, valamint a bekezdés a következő 8. ponttal egészül ki:
-
-(Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg)
-
-„7. a pályázati eljárás alá nem tartozó, prémium típusú támogatási jogosultságok esetében a támogatás időtartamának és a támogatás alá eső villamos energia mennyiségének, valamint biomassza vagy biogáz felhasználásával történő villamosenergia-termelés fenntartásának ösztönzésére szolgáló, prémium típusú támogatás mértékének kiszámítási módszereit és eredményeit, valamint a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidejét;
-
-8. a demonstrációs projektté minősítés követelményeit és eljárásrendjét.”
+(2)
