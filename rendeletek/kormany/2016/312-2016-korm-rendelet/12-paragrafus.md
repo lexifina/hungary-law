@@ -4,4 +4,6 @@
 
 (2) Az 1. § (2) bekezdése 2017. január 1-jén lép hatályba.
 
-(3) Az 1. § (3) bekezdése a villamos energiáról szóló 2007. évi LXXXVI. törvény, valamint az energetikai tárgyú törvények módosításáról szóló 2011. évi XXIX. törvény módosításáról szóló 2016. évi LXXXII. törvény 1–12. §-ának hatálybalépése napján lép hatályba.
+(3)[^7]
+
+[^7]: A 12. § (3) bekezdését a 393/2016. (XII. 5.) Korm. rendelet 32. §-a hatályon kívül helyezte.
