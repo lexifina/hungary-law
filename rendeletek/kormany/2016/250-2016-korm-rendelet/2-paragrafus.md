@@ -1,5 +1,3 @@
-## 1. § E rendelet hatálya a Kormány és a megyei jogú város önkormányzata között, a megyei jogú város további fejlődése és megújulása érdekében létrejött együttműködési megállapodásokban foglaltak (a továbbiakban: Modern Városok Program) végrehajtását szolgáló, hazai forrásból nyújtott költségvetési támogatásokra (a továbbiakban: MVP támogatás) terjed ki.
-
 2. § (1) A Kormány és a megyei jogú város önkormányzata között létrejött együttműködési megállapodás végrehajtásával összefüggő feladatokról a Kormány nyilvános egyedi határozatban (a továbbiakban: kormányhatározat) dönt.
 
 (2) A kormányhatározatban meghatározott feladatok végrehajtásának koordinálását a kormányzati tevékenység összehangolásáért felelős miniszter (a továbbiakban: miniszter) végzi.
