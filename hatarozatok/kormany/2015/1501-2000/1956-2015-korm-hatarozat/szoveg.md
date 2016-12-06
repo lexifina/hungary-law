@@ -30,7 +30,17 @@ j) a környezetvédelmi vezetési és hitelesítési rendszert hitelesítő szer
 
 k) az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti hitelesítő szervezetek,
 
-l) Akkreditált Szervezetek Klasztere.
+l) Akkreditált Szervezetek Klasztere,
+
+m)[^1] a Magyar Szabványügyi Testület, a mérésügyi szerv, az országos kamarák,
+
+n)[^2] a tudományos és műszaki egyesületek,
+
+o)[^3] az agrár, informatika, jogi és igazgatási, gazdaságtudományok, műszaki, orvos- és egészségtudomány, természettudomány képzési területen képzést folytató felsőoktatási intézmények,
+
+p)[^4] a gyártók, a forgalmazók és a fogyasztók érdekképviseleti szervezetei, a szakmai érdekképviseleti szervezetek, a minőségüggyel foglalkozó egyesületek,
+
+q)[^5] a piacfelügyeleti hatóságok.
 
 6. A Tanács tagjaként olyan személy jelölhető, aki a szakterületén felsőfokú végzettséggel és legalább 5 éves szakmai gyakorlattal rendelkezik, továbbá jártas az akkreditálásban.
 
@@ -55,3 +65,9 @@ e) magyar állampolgárságának vagy külön törvény szerint a szabad mozgás
 11. Ez a határozat 2016. január 1-jén lép hatályba.
 
 12. A Tanács tagjait az 5. pontban foglalt szervezetek 2016. március 31-ig delegálják az iparügyekért felelős miniszterhez címzett nyilatkozattal. A Tanács tagjait és elnökét az iparügyekért felelős miniszter 2016. április 30-ig nevezi ki.
+
+[^1]: Az 5. pont m) alpontját az 1707/2016. (XII. 5.) Korm. határozat 1. pontja iktatta be.
+[^2]: Az 5. pont n) alpontját az 1707/2016. (XII. 5.) Korm. határozat 1. pontja iktatta be.
+[^3]: Az 5. pont o) alpontját az 1707/2016. (XII. 5.) Korm. határozat 1. pontja iktatta be.
+[^4]: Az 5. pont p) alpontját az 1707/2016. (XII. 5.) Korm. határozat 1. pontja iktatta be.
+[^5]: Az 5. pont q) alpontját az 1707/2016. (XII. 5.) Korm. határozat 1. pontja iktatta be.
