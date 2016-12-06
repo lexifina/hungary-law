@@ -28,7 +28,9 @@ h) az európai szomszédsági és partnerségi támogatási eszköz létrehozás
 
 i) a nemzeti kapcsolattartó pont feladatokat az INTERACT 2 Operatív Program tekintetében.
 
-(5)[^7] A Társaság – a BOR-VIDÉK Tokaj-Hegyalja Nemzeti Program kivételével – részt vesz az egyes komplex térségfejlesztési nemzeti programokkal (Tisza-tó Nemzeti Program, Ős-Dráva Program) kapcsolatos feladatellátásban, koordinációban, működteti az egyes nemzeti programok végrehajtását támogató irodákat.
+(5)[^7] A Társaság részt vesz az egyes komplex nemzeti térségfejlesztési programokkal kapcsolatos feladatellátásban, koordinációban, működteti az egyes komplex nemzeti térségfejlesztési programok végrehajtását támogató irodákat.
+
+(6)[^8] A Társaság – a nemzeti együttműködés keretében – elláthatja az egyes nemzeti támogatási programokkal kapcsolatosan a pályázók és kedvezményezettek helyben támogatását a források felhasználásának elősegítése érdekében. A Társaság feladata, hogy hatékonyan segítse céljaik megvalósításában a pályázókat és a pályázni szándékozó személyeket, szervezeteket.
 
 [^1]: A 2. § a 36/2013. (II. 14.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: A 2. § (1) bekezdése a 27/2014. (II. 7.) Korm. rendelet 9. § (1) bekezdésével megállapított, a 194/2014. (VII. 31.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
@@ -36,4 +38,5 @@ i) a nemzeti kapcsolattartó pont feladatokat az INTERACT 2 Operatív Program te
 [^4]: A 2. § (3a) bekezdését 450/2013. (XI. 28.) Korm. rendelet 1. §-a iktatta be, szövege a 221/2014. (IX. 4.) Korm. rendelet 564. §-a szerint módosított szöveg.
 [^5]: A 2. § (3b) bekezdését a 398/2015. (XII. 12.) Korm. rendelet 1. §-a iktatta be.
 [^6]: A 2. § (4) bekezdése a 194/2014. (VII. 31.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^7]: A 2. § (5) bekezdését a 27/2014. (II. 7.) Korm. rendelet 9. § (4) bekezdése iktatta be, szövege a 39/2016. (III. 3.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^7]: A 2. § (5) bekezdését a 27/2014. (II. 7.) Korm. rendelet 9. § (4) bekezdése iktatta be, szövege a 399/2016. (XII. 5.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^8]: A 2. § (6) bekezdését a 399/2016. (XII. 5.) Korm. rendelet 2. §-a iktatta be.
