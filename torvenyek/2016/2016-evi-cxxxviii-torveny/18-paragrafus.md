@@ -1,0 +1,3 @@
+18. § A Vksztv. 31/B. §-a a következő (2a) bekezdéssel egészül ki:
+
+„(2a) Önkormányzati rendelet a (2) bekezdés szerinti határozatban megállapított díjhoz képest – a rezsicsökkentésről szóló törvényben meghatározott kedvezményen felül – további kedvezményt állapíthat meg, ha az önkormányzat gondoskodik a rendeletében meghatározott díjkedvezmény miatt keletkező bevételkiesés megtérítéséhez szükséges forrás elkülönítéséről, és a szerződött víziközmű-szolgáltató díjszámlázási rendjének megfelelő ütemezés szerinti utólagos megfizetéséről a szerződött víziközmű-szolgáltató által jogszerűen igényelt összegben.”
