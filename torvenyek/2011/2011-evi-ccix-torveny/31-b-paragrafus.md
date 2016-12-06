@@ -2,9 +2,11 @@
 
 (2) A Hivatal az átmeneti díjat a szerződött víziközmű-szolgáltató díjigény alátámasztó számítás eredményéhez képest alacsonyabb mértékben is megállapíthatja.
 
+(2a) Önkormányzati rendelet a (2) bekezdés szerinti határozatban megállapított díjhoz képest – a rezsicsökkentésről szóló törvényben meghatározott kedvezményen felül – további kedvezményt állapíthat meg, ha az önkormányzat gondoskodik a rendeletében meghatározott díjkedvezmény miatt keletkező bevételkiesés megtérítéséhez szükséges forrás elkülönítéséről, és a szerződött víziközmű-szolgáltató díjszámlázási rendjének megfelelő ütemezés szerinti utólagos megfizetéséről a szerződött víziközmű-szolgáltató által jogszerűen igényelt összegben.
+
 (3) A szerződött víziközmű-szolgáltató a Hivatal által meghatározott átmeneti díjról szóló határozat kézhezvételét követően, a soron következő számlában, az ideiglenes szolgáltatás kezdete napjára visszamenőleges hatállyal érvényesítheti díjigényét az ideiglenes szolgáltatással érintett vízközmű-rendszerre csatlakozott felhasználóval szemben.
 
-(4) A Hivatal az átmeneti díjat megállapító határozatot tájékoztatásul megküldi a miniszternek.
+(4) A Hivatal az átmeneti díjat megállapító határozatot megküldi az ellátásért felelős részére, valamint a miniszternek.
 
 (5) Az átmeneti díjat megállapító határozat hatályát veszti, ha
 

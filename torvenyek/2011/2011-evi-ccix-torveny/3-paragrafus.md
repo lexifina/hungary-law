@@ -8,7 +8,7 @@
 
 (2) A Hivatal eljárására a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény szabályait az e törvényben meghatározott kivételekkel kell alkalmazni.
 
-(3) Az ügyintézési határidő a Hivatal eljárásaiban a (4) bekezdésben foglalt kivétellel 60 nap.
+(3) Az ügyintézési határidő a Hivatal eljárásaiban a (4) és (4a) bekezdésben foglalt kivétellel 60 nap.
 
 (4) Az ügyintézési határidő a Hivatal
 
@@ -21,6 +21,16 @@ c) 31/B. § szerinti eljárásában 30 nap,
 d) 36. § szerinti eljárásában 135 nap,
 
 e) 37. § és 37/A. § (2)–(7) bekezdés szerinti eljárásában 90 nap.
+
+(4a) Az ügyintézési határidő a Hivatal
+
+a) 36. § szerinti eljárásában 75 nap,
+
+b) 37. § szerinti eljárásában 60 nap,
+
+c) 37/A. § szerinti eljárásában 45 nap,
+
+ha az eljárás a 2003. évi uniós csatlakozási szerződésben rögzített derogációval összefüggő feladat végrehajtásához kapcsolódik, és erre való tekintettel kormányrendelet azt kiemelt jelentőségű közigazgatási hatósági üggyé nyilvánította.
 
 (5) Ha az ügyfél a kérelmet hiányosan nyújtotta be, a Hivatal a kérelem beérkezését követő naptól számított harminc napon belül hiánypótlási felhívást bocsát ki.
 
