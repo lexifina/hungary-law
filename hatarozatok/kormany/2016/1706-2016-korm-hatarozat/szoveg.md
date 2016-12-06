@@ -90,4 +90,6 @@ földművelésügyi miniszter
 
 Határidő: 2017. június 30.
 
-4. A Kormány visszavonja a Korm. határozat 3. és 10. pontját.
+4.[^1]
+
+[^1]: A 4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
