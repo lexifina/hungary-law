@@ -1,0 +1,1 @@
+## 33. § Nem lép hatályba a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet módosításáról szóló 166/2016. (VI. 23.) Korm. rendelet 1–3. §-a.
