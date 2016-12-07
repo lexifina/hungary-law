@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad az egyrészről az Európai Unió és tagállamai, másrészről a Kazah Köztársaság közötti megerősített partnerségi és együttműködési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
