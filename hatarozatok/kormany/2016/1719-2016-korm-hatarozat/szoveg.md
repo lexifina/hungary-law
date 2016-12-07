@@ -8,4 +8,6 @@ Felelős: külgazdasági és külügyminiszter
 
 Határidő: azonnal
 
-3. visszavonja a Magyarország csatlakozásáról a Nyílt Kormányzati Együttműködés (Open Government Partnership) elnevezésű nemzetközi kezdeményezéshez szóló 1227/2012. (VII. 6.) Korm. határozatot.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
