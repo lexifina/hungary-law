@@ -1,3 +1,3 @@
-## 24. §[^3]
+## 24. §[^12]
 
-[^3]: A 24. § a rendelet 21. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^12]: A 24. § a 374/2016. (XI. 29.) Korm. rendelet 4. § (3) bekezdése alapján nem lép hatályba.
