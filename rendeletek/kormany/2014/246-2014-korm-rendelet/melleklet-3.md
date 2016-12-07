@@ -16,7 +16,7 @@ b) illemhelyiséggel, mosdóval, zuhanyzóval, öltözővel, munkaruha- és kéz
 
 c) gyűjtő- és felhordó szalagok, válogatószalag;
 
-d) válogatókabin munkaállásokkal;
+d)[^16]
 
 e) kármentesítési anyagok;
 
@@ -49,3 +49,5 @@ g) örvényáramú szeparátor;
 h) egyéb – fajsúly, méret vagy a hasznosítható anyagok megkülönböztetésére és leválasztására szolgáló – szortírozó berendezések;
 
 i) utóaprító berendezés.
+
+[^16]: A 3. melléklet 2. pont d) alpontját a 374/2016. (XI. 29.) Korm. rendelet 1. §-a hatályon kívül helyezte.
