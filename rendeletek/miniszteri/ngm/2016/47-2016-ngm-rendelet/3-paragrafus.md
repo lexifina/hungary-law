@@ -1,0 +1,35 @@
+## 2. § E rendelet alapján csekély összegű (de minimis) támogatás az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendeletnek (a továbbiakban: 1407/2013/EU bizottsági rendelet), az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendeletnek (a továbbiakban: 1408/2013/EU bizottsági rendelet), valamint az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra-ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendeletnek (a továbbiakban: 717/2014/EU bizottsági rendelet) megfelelően nyújtható.
+
+## 2. A támogatás mértéke, igénybevételének feltételei
+
+3. § (1) Az e rendelet szerinti vissza nem térítendő támogatást (a továbbiakban: támogatás) a bankkártya-elfogadó terminál és tartozékai (a továbbiakban együtt: terminál) beszerzését, telepítését és üzemeltetését végző, e rendeletben meghatározott követelményeknek megfelelő jogi személy (a továbbiakban: szolgáltató) igényelheti.
+
+(2) Az előirányzat terhére támogatás nyújtható a terminál beszerzésével összefüggő költségekhez.
+
+(3) A támogatást kizárólag olyan szolgáltató igényelheti, amely biztosítani tudja a bankkártya-elfogadás szolgáltatást a terminálon, és vállalja, hogy
+
+a) a támogatás igénybevételével telepített terminált a telepítést követően legalább 24 hónapon keresztül üzemelteti,
+
+b) a támogatás igénybevételével telepített terminál a bankkártya-elfogadás funkció mellett, legalább a 4. § (1) bekezdése szerinti paraméterekkel rendelkezik,
+
+c) a fizikai kártyaelfogadó kereskedelmi és szolgáltató egységgel (a továbbiakban: elfogadóhely) megkötött kártya-elfogadói szerződés alapján közvetlenül vagy közvetve felszámított nettó szolgáltatói díjak – egynél több számla esetében az összes számla összesített nettó összege –, összességében egyik hónapban sem haladják meg az adott hónapban az elfogadóhelyen bonyolított bankkártyás fizetések bruttó összértékének 1%-át.
+
+(4) A támogatást a szolgáltató abban az esetben igényelheti, ha a támogatás iránti kérelem benyújtásának időpontjában
+
+a) megfelel az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 50. §-ában, továbbá az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet (a továbbiakban: Ávr.) 81. §-ában foglalt feltételeknek, és
+
+b) nem rendelkezik az állami adóhatóságnál nyilvántartott köztartozással.
+
+(5) A köztartozásmentességet a szolgáltató – ha nem szerepel az adózás rendjéről szóló törvény szerinti köztartozásmentes adózói adatbázisban – nemleges együttes adóigazolással igazolja a kérelem benyújtásával egyidejűleg.
+
+(6) A szolgáltató kérelmében megjelöli az Ávr. 69. § (1) bekezdésben foglaltakat és az általa telepíteni és üzemeltetni vállalt új terminálok darabszámát, amely legalább ezer darab, de legfeljebb tízezer darab lehet.
+
+(7) A támogatás mértéke terminálonként nyolcvanezer forint.
+
+(8) Szolgáltató a kérelem benyújtásával egyidejűleg
+
+a) nyilatkozik az Ávr. 75. § (2) bekezdésében foglaltakról,
+
+b) az Ávr. 84. § (2) bekezdés a) pontjában foglalt biztosítékot nyújtja a kezelő szerv részére, és
+
+c) 30 napnál nem régebbi cégkivonatát és a cégjegyzésre jogosult képviselője aláírási címpéldányát vagy ügyvéd által ellenjegyzett aláírásmintáját benyújtja a kezelő szerv részére.
