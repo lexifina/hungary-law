@@ -20,19 +20,19 @@
 
 9. fogyasztóvédelemért,
 
-10. hulladékgazdálkodási közszolgáltatási díj megállapításáért,
+10.[^102] hulladékgazdálkodási közszolgáltatási és szolgáltatási díj megállapításáért,
 
 11. informatikáért,
 
-12.[^102]
+12.[^103] hulladékgazdálkodási közszolgáltatásért,
 
 13. közlekedésért,
 
 14. nem európai uniós fejlesztési források felhasználásához kapcsolódó fejlesztéspolitikáért,
 
-15.[^103] nemzeti pénzügyi szolgáltatásokért,
+15.[^104] nemzeti pénzügyi szolgáltatásokért,
 
-15a.[^104] postaügyért,
+15a.[^105] postaügyért,
 
 16. területfejlesztésért,
 
@@ -40,14 +40,15 @@
 
 18. víziközmű-szolgáltatásért,
 
-19.[^105] turizmusért,
+19.[^106] turizmusért,
 
-20.[^106] vendéglátásért
+20.[^107] vendéglátásért
 
 felelős tagja.
 
-[^102]: A 109. § 12. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte.
-[^103]: A 109. § 15. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte, újonnan a 236/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^104]: A 109. § 15a. pontját a 236/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
-[^105]: A 109. § 19. pontját a 87/2016. (IV. 25.) Korm. rendelet 1. §-a iktatta be.
-[^106]: A 109. § 20. pontját a 87/2016. (IV. 25.) Korm. rendelet 1. §-a iktatta be.
+[^102]: A 109. § 10. pontja a 367/2016. (XI. 29.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^103]: A 109. § 12. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte, újonnan a 367/2016. (XI. 29.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^104]: A 109. § 15. pontját a 167/2014. (VII. 17.) Korm. rendelet 21. § (2) bekezdése hatályon kívül helyezte, újonnan a 236/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^105]: A 109. § 15a. pontját a 236/2016. (VII. 29.) Korm. rendelet 2. §-a iktatta be.
+[^106]: A 109. § 19. pontját a 87/2016. (IV. 25.) Korm. rendelet 1. §-a iktatta be.
+[^107]: A 109. § 20. pontját a 87/2016. (IV. 25.) Korm. rendelet 1. §-a iktatta be.

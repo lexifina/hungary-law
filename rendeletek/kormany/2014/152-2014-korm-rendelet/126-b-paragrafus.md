@@ -1,4 +1,4 @@
-## III/B. Fejezet[^125]
+## III/B. Fejezet[^127]
 
 ## A STRATÉGIAI KABINET ÉS A GAZDASÁGI KABINET
 
@@ -28,4 +28,4 @@ k) a Paksi Atomerőmű kapacitásának fenntartásával összefüggő beruházá
 
 tárgykörökbe tartozó ügyekben a Kormány ügydöntő jogkörrel rendelkező szerve.
 
-[^125]: A III/B. fejezetet (126/B–126/C. §) a 215/2016. (VII. 21.) Korm. rendelet 1. §-a iktatta be.
+[^127]: A III/B. fejezetet (126/B–126/C. §) a 215/2016. (VII. 21.) Korm. rendelet 1. §-a iktatta be.
