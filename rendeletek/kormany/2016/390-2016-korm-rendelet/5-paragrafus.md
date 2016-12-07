@@ -1,1 +1,0 @@
-## „(6) Amennyiben a projekt megvalósítása érdekében szükséges, a kedvezményezett a költségtervben foglalt, egyes költségtételek között a támogatói okirat módosítása nélkül – a főfelelős előzetes írásbeli jóváhagyását követően – átcsoportosíthat, feltéve, hogy az nem eredményezi az uniós állami támogatási szabályok megsértését és nem irányul a támogatás céljának megváltozására.”
