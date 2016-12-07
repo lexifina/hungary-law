@@ -1,4 +1,4 @@
-## 34. § Hatályát veszti a megújuló energiaforrásból vagy hulladékból nyert energiával termelt villamos energia, valamint a kapcsoltan termelt villamos energia kötelező átvételéről és átvételi áráról szóló 389/2007. (XII. 23.) Korm. rendelet módosításáról szóló 166/2016. (VI. 23.) Korm. rendelet.
+## 34. §[^15]
 
 ## 6. Záró rendelkezések
 
@@ -11,3 +11,5 @@
 (4) Az 1. § (3) bekezdése, a 22. § (2) bekezdése, a 23. § (2) bekezdése, a 24. § (2) bekezdése, a 28. § (1) és (8)–(10) bekezdése, valamint a 30. § az Európai Bizottság – az Európai Unió működéséről szóló szerződés 108. cikke szerinti – jóváhagyó határozatának meghozatalát követő 8. napon lép hatályba.
 
 (5) Az 1. § (3) bekezdése, a 22. § (2) bekezdése, a 23. § (2) bekezdése, a 24. § (2) bekezdése, a 28. § (1) és (8)–(10) bekezdése, valamint a 30. § hatálybalépésének naptári napját az energiapolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
+
+[^15]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
