@@ -1,9 +1,0 @@
-11. § (1) A honosított harmonizált szabvány követelményeinek megfelelő mérőműszert úgy kell tekinteni, hogy az megfelel e rendelet 1. mellékletében és a műszerspecifikus mellékletekben meghatározott alapvető követelményeknek.
-
-(2) Ha a mérőműszer csupán részben felel meg az (1) bekezdésben meghatározott szabványoknak, akkor úgy kell tekinteni, hogy csak azoknak az alapvető követelményeknek felel meg, amelyek megegyeznek a szabványok vonatkozó elemeivel. Az (1) bekezdésben meghatározott szabványok jegyzékét az MSzT hivatalos lapjában közzéteszi.
-
-(3) Az OIML ajánlások és jegyzékek vonatkozó részeinek megfelelő mérőműszert úgy kell tekinteni, hogy megfelel az 1. mellékletben és a műszerspecifikus mellékletekben meghatározott alapvető követelményeknek. Ha a mérőműszer csupán részben felel meg a meghatározott OIML ajánlásoknak, akkor úgy kell tekinteni, hogy csak azoknak az alapvető követelményeknek felel meg, amelyek megegyeznek az OIML ajánlások vonatkozó elemeivel. Az OIML ajánlások jegyzékét a Gazdasági és Közlekedési Minisztérium hivatalos lapjában közzé kell tenni.
-
-(4) A gyártó szabadon választhat azon műszaki megoldások közül, amelyek megfelelnek e rendelet 1. mellékletében és az adott mérőműszerre vonatkozó műszerspecifikus mellékletekben meghatározott alapvető követelményeknek. A gyártó pontosan alkalmazza a vonatkozó honosított harmonizált szabványban, vagy a (3) bekezdés szerinti OIML ajánlások és jegyzékek megfelelő részében rögzített, vagy azokkal egyenértékű megoldásokat.
-
-(5) A 8. § (3) bekezdés h) pontjában meghatározott vizsgálatoknak megfelelőnek kell tekinteni a mérőműszert, ha az adott vizsgálatot az (1)–(4) bekezdésben írt vonatkozó dokumentummal összhangban végezték el, továbbá amennyiben a vizsgálati eredmények az alapvető követelményeknek való megfelelőséget támasztják alá.

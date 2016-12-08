@@ -1,5 +1,0 @@
-1. § (1) E rendelet alkalmazási köre a vízmérőkre, a gázmérőkre és számítóegységekre, a hatásos villamos energia mérésére szolgáló fogyasztásmérőkre, a hőmennyiségmérőkre, a folyadékok mennyiségének folyamatos és dinamikus mérésére szolgáló mérőrendszerekre, az automatikus mérlegekre, a viteldíjjelzőkre, az anyagi mértékekre, a kiterjedést mérő műszerekre és a kipufogógáz-elemző készülékekre vonatkozó műszerspecifikus mellékletekben meghatározott eszközökkel (a továbbiakban: mérőműszer) kapcsolatos eljárásokra terjed ki.
-
-(2) A közérdekkel, a közegészségüggyel, a közbiztonsággal, a közrenddel, a környezetvédelemmel, a fogyasztóvédelemmel, az adók és vámok kivetésével, valamint a tisztességes kereskedelemmel kapcsolatos mérési feladatokra az (1) bekezdésben felsorolt mérőműszerek használatosak.
-
-(3) E rendelet rendelkezéseit mérőműszer részegységeire akkor kell alkalmazni, ha az alapvető követelményeket megállapító mellékletek tartalmaznak külön előírásokat részegységekre. A részegység és a mérőműszer a megfelelőség megállapítása céljából függetlenül és külön is vizsgálható.
