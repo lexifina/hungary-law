@@ -1,17 +1,8 @@
-## szöveg lép.
+## 3. §[^4]
 
-4. § (1) Hatályát veszti az R.
-
-a) 15. § (3) bekezdés d) pontja, valamint a
-
-b) 21. § (3) bekezdése.
-
-(2) Hatályát veszti az R.
-
-a) 3. § (2) bekezdés záró szövegrészében a „forgalmazásának”,
-
-b) 5. §-ának nyitó szövegrészében az „az újrahasználatra előkészítés, valamint a hasznosítás mértéke”
-
-## szövegrész.
+4. § (1)–(2)[^5]
 
 (3) Nem lép hatályba az R. 24. §-a.
+
+[^4]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^5]: A 4. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
