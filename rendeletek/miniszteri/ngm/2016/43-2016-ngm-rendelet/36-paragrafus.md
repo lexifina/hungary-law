@@ -1,0 +1,1 @@
+## 35. § Az e rendelet hatálya alá tartozó, 2006. október 30. előtt hatályos jogszabályoknak megfelelő mérőműszerek forgalomba hozatala és üzembe helyezése típusjóváhagyásuk érvényességének lejártáig, a korlátlan ideig érvényes típusjóváhagyású mérőműszerek esetében 2016. október 30-ig engedélyezett.
