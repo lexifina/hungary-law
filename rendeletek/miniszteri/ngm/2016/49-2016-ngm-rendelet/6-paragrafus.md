@@ -1,0 +1,1 @@
+## 5. § Az államháztartásban felmerülő egyes gyakoribb gazdasági események kötelező elszámolási módjáról szóló 38/2013. (IX. 19.) NGM rendelet (a továbbiakban: R2.) 1. melléklete a 2. melléklet szerint módosul.
