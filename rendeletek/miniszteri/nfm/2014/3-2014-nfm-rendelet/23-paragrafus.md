@@ -4,8 +4,8 @@
 
 (3)[^17] Évente legfeljebb 270 darab oklevél adományozható oly módon, hogy az 5. § (1) bekezdésében feltüntetett nemzeti ünnepek, illetve állami ünnep alkalmával alkalmanként legfeljebb 30 darab, az 5. § (1) bekezdésében feltüntetett egyéb alkalmak esetében alkalmanként legfeljebb 20 darab adományozható.
 
-(4)[^18] Szakmai indokoltság esetén a miniszter a (3) bekezdésben meghatározott, alkalmanként adható oklevélszámtól eltérhet.
+(4)[^18] Szakmai indokoltság esetén a miniszter eltérhet az elismerés adományozható darabszámától.
 
 [^16]: A 23. § (2) bekezdése a 37/2016. (IX. 5.) NFM rendelet 5. §-ával megállapított szöveg.
 [^17]: A 23. § (3) bekezdése a 37/2016. (IX. 5.) NFM rendelet 5. §-ával megállapított szöveg.
-[^18]: A 23. § (4) bekezdését a 37/2016. (IX. 5.) NFM rendelet 5. §-a iktatta be.
+[^18]: A 23. § (4) bekezdését a 37/2016. (IX. 5.) NFM rendelet 5. §-a iktatta be, szövege az 51/2016. (XII. 8.) NFM rendelet 1. §-ával megállapított szöveg.
