@@ -14,7 +14,7 @@ KÖVETELÉSEKKEL, KÖTELEZETTSÉGVÁLLALÁSOKKAL, MÁS FIZETÉSI KÖTELEZETTSÉG
 
 | Nyitás | Növekedés | Csökkenés | Zárás |
 
-| E/F | T/K | Ellen- számla | T/K | Ellen- számla | T/K | Ellen- számla | T/K | Ellen- számla |
+| E/F | T/K | Ellen- számla | T/K | Ellen- számla | T/K | Ellen- számla | T/ K | Ellen- számla |
 
 | Nyilvántartási számlák: |
 
@@ -72,11 +72,15 @@ KÖVETELÉSEKKEL, KÖTELEZETTSÉGVÁLLALÁSOKKAL, MÁS FIZETÉSI KÖTELEZETTSÉG
 
 | 358 | F | K | 491 | K |  | T |  | T | 493 |
 
+| 361 | E/F | ― | ― | T/K | 31-33 | T/K | 31-33 | ― | ― |
+
 | 363 | E/F | ― | ― | T/K |  | T/K |  | ― | ― |
 
-| 3642 | F | ― | ― | K |  | T |  | T | 3641 |
+| 3642 | F | K | 491 | K |  | T |  | T | 493 |
 
 | 36518 | F | K | 491 | K |  | T |  | T | 493 |
+
+| 3658 | E/F | T/K | 491 | T/K |  | T/K |  | T/K | 493 |
 
 | 367 | F | K | 491 | K |  | T |  | T | 493 |
 
@@ -104,7 +108,7 @@ KÖVETELÉSEKKEL, KÖTELEZETTSÉGVÁLLALÁSOKKAL, MÁS FIZETÉSI KÖTELEZETTSÉG
 
 | 6. számlaosztály |
 
-| 6 | E | ― | ― | T |  | K |  |  | 691-en keresztül átvezetés a 7. számla-osztályba |
+| 6 | E | ― | ― | T |  | K |  |  | 691-en keresztül átvezetés a 7. számla- osztályba |
 
 | 7. számlaosztály |
 
@@ -500,7 +504,13 @@ IMMATERIÁLIS JAVAKKAL, TÁRGYI ESZKÖZÖKKEL KAPCSOLATOS EGYÉB ELSZÁMOLÁSOK
 
 ## F) Térítés nélküli átadás elszámolása
 
-| 1. Az eszköz kivezetésének elszámolása: az E) Apportba adás elszámolása, ha a nyilvántartásba-vételi kérelem benyújtásáig az eszköz átadása megtörtént cím 1–3. pontja szerint |
+| 1. Az eszköz kivezetésének elszámolása a pénzügyi számvitel szerint |
+
+| a) Bruttó érték kivezetése | T8434 | – | K11/121-151 |
+
+| b) Terv szerinti értékcsökkenés, terven felüli értékcsökkenés kivezetése | T118-158 T119-149 | – | K8434 |
+
+| c) Értékhelyesbítés kivezetése | T415 | – | K116-146 |
 
 | 2. Általános forgalmi adó elszámolása a pénzügyi számvitel szerint, ha az átadó nem hárítja át az átvevőre | T8435 | – | K36422 |
 
@@ -760,7 +770,7 @@ RÉSZESEDÉSEKKEL, ÉRTÉKPAPÍROKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | c) Terv szerinti értékcsökkenés, terven felüli értékcsökkenés, értékvesztés kivezetése az átadáskor a pénzügyi számvitel szerint | T1-3(8) T11-14(9) | – | K36752/36753 |
 
-| d) Értékhelyesbítés kivezetése az átadáskor a pénzügyi számvitel szerint | T415 | – | K116-166 |
+| d) Értékhelyesbítés kivezetése az átadáskor a pénzügyi számvitel szerint | T415 | – | K116-146/166 |
 
 | e) A gazdasági társaságba bevitt vagyon nyilvántartás szerinti (könyv szerinti) értékének és a létesítő okiratban meghatározott értékének nyereségjellegű különbözete | T36752/36753 | – | K9244 |
 
@@ -1814,7 +1824,7 @@ TÁMOGATÁSOKKAL, ELLÁTÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 3. Támogatás folyósítása a pénzügyi számvitel szerint |
 
-| a) Követelésként | T3511/3512 | – | K922/923 |
+| a) Követelésként | T3511/3512 | – | K921/922/923/9244 |
 
 | b) Teljesítésként | T32/33 | – | K3511/3512 |
 
@@ -1846,7 +1856,7 @@ TÁMOGATÁSOKKAL, ELLÁTÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 10. Visszafizetési kötelezettség előírása a pénzügyi számvitel szerint |
 
-| a) Adott (a folyósítás) évén belül | T922/923 | – | K36711 |
+| a) Adott (a folyósítás) évén belül | T921/922/923/9244 | – | K36711 |
 
 | b) Adott (a folyósítás) évén túl | T8435 | – | K4215/4218 |
 
@@ -1888,7 +1898,7 @@ TÁMOGATÁSOKKAL, ELLÁTÁSOKKAL KAPCSOLATOS ELSZÁMOLÁSOK
 
 | 8. Visszafizetési követelés előírása a pénzügyi számvitel szerint |
 
-| a) Adott (a folyósítás) évén belül | T36515 | – | K8435 |
+| a) Adott (a folyósítás) évén belül | T36516 | – | K8435 |
 
 | b) Adott (a folyósítás) évén túl | T3516/3517 | – | K922/923 |
 
@@ -2664,9 +2674,9 @@ XIV. FEJEZET
 
 | 8. Éven belüli lejáratú lekötött bankbetétek és az éven túli lejáratú lekötött bankbetétek közötti átvezetések a pénzügyi számvitel szerint |  |  |  |
 
-| a) Éven túli lejáratú lekötött bankbetét kivezetése | T361 | – | K31 |
+| a) Éven túli lejáratú lekötött bankbetét kivezetése | T361 | – | K311 |
 
-| b) Éven belüli lejáratú lekötött bankbetét nyilvántartásba vétele | T33 | – | K361 |
+| b) Éven belüli lejáratú lekötött bankbetét nyilvántartásba vétele | T312 | – | K361 |
 
 XV. FEJEZET
 
@@ -2684,13 +2694,13 @@ A) A megszűnő költségvetési szervnél
 
 | 4. A passzív időbeli elhatárolások kivezetése a pénzügyi számvitel szerint | T44 | – | K414 |
 
-| 5. A záró pénzkészlet összegével megegyezően pénzforgalom nélküli támogatás elszámolása a költségvetési számvitel szerint |
+| 5. A korrigált záró pénzkészlet összegével megegyezően pénzforgalom nélküli támogatás elszámolása a költségvetési számvitel szerint |
 
 | a) Végleges kötelezettségvállalásként, más fizetési kötelezettségként | T0022 | – | K055062 |
 
 | b) Teljesítéseként | T055063 | – | K003 |
 
-| 6. A záró pénzkészlet összegével megegyezően pénzforgalom nélküli támogatás elszámolása a pénzügyi számvitel szerint |
+| 6. A korrigált záró pénzkészlet összegével megegyezően pénzforgalom nélküli támogatás elszámolása a pénzügyi számvitel szerint |
 
 | a) Kötelezettségként | T8435 | – | K4215 |
 
@@ -2726,6 +2736,8 @@ B) Beolvadás illetve jogutód nélküli megszűnés esetén a jogutód, illetve
 
 | 13. A mérleg szerinti eredmény és a felhalmozott eredmény megszűnőnél kimutatott könyv szerinti érétkének nyilvántartásba vétele az egyéb eszközök induláskori értéke és változásaként a pénzügyi számvitel szerint | T495/4133 | – | K4133/495 |
 
+| 13a. Az általános forgalmi adó elszámolása számlák megszűnőnél kimutatott bekerülési értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T364 T495 | – | K495 K364 |
+
 | 14. A követelés jellegű sajátos elszámolások megszűnőnél kimutatott bekerülési értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T365 | – | K495 |
 
 | 15. Az adott előlegek megszűnőnél elszámolt értékvesztésének nyilvántartásba vétele a pénzügyi számvitel szerint | T495 | – | K36518 |
@@ -2746,17 +2758,17 @@ B) Beolvadás illetve jogutód nélküli megszűnés esetén a jogutód, illetve
 
 | e) Kötelezettségek megszűnőnél kimutatott érétkének bekerülési értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T495 | – | K42 |
 
-| 19. Mérlegrendezési számla egyenlegének átvezetése | T495/4133 | – | K4133/495 |
+| 19. |  |  |  |
 
-| 20. Megszűnt költségvetési szerv záró pénzkészleteinek átvétele | T31-33 T4131/4132 | – | K4131/4132 K318/3318/ 3328 |
+| 20. Megszűnt költségvetési szerve záró pénzkészletének átvétele | T31-33 T495 | – | K495 K318/3318/3328 |
 
-| 21. A megszűnő költségvetési szerv záró pénzkészletének elszámolása a megszűnés fordulónapjára pénzforgalom nélküli támogatásként a költségvetési számvitel szerint |
+| 21. A megszűnő költségvetési szerv korrigált záró pénzkészletének elszámolása a megszűnés fordulónapjára pénzforgalom nélküli támogatásként a költségvetési számvitel szerint |
 
 | a) Követelésként | T09162 | – | K0041 |
 
 | b) Teljesítéseként | T005 | – | K09163 |
 
-| 22. A megszűnő költségvetési szerv záró pénzkészletének elszámolása a megszűnés fordulónapjára pénzforgalom nélküli támogatásként a pénzügyi számvitel szerint |
+| 22. A megszűnő költségvetési szerv korrigált záró pénzkészletének elszámolása a megszűnés fordulónapjára pénzforgalom nélküli támogatásként a pénzügyi számvitel szerint |
 
 | a) Követelésként | T3511 | – | K922 |
 
@@ -2792,6 +2804,8 @@ C) Összeolvadás, illetve különválás esetén a jogutód szervnél
 
 | 13. A mérleg szerinti eredmény és a felhalmozott eredmény megszűnőnél kimutatott könyv szerinti értékének nyilvántartásba vétele az egyéb eszközök induláskori értéke és változásaként a pénzügyi számvitel szerint | T491/4133 | – | K4133/491 |
 
+| 13a. Az általános forgalmi adó elszámolása számlák megszűnőnél kimutatott bekerülési értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T364 T491 | – | K491 K364 |
+
 | 14. A követelés jellegű sajátos elszámolások megszűnőnél kimutatott bekerülési értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T365 | – | K491 |
 
 | 15. Az adott előlegek megszűnőnél elszámolt értékvesztésének nyilvántartásba vétele a pénzügyi számvitel szerint | T491 | – | K36518 |
@@ -2812,17 +2826,17 @@ C) Összeolvadás, illetve különválás esetén a jogutód szervnél
 
 | e) Kötelezettségek megszűnőnél kimutatott értékének bekerülési értékének nyilvántartásba vétele a pénzügyi számvitel szerint | T491 | – | K42 |
 
-| f) Nyitómérleg számla egyenlegének átvezetése | T491/4133 | – | K4133/491 |
+| f) |  |  |  |
 
-| 19. Megszűnt költségvetési szerv záró pénzkészletének átvétele | T31-33 T4131/4132 | – | K4131/4132 K318/3318/ 3328 |
+| 19. Megszűnt költségvetési szerv záró pénzkészletének átvétele | T31-33 T491 | – | K491 K318/3318/3328 |
 
-| 20. A megszűnő költségvetési szerv záró pénzkészletének elszámolása a megszűnés fordulónapjára pénzforgalom nélküli támogatásként a költségvetési számvitel szerint |
+| 20. A megszűnő költségvetési szerv korrigált záró pénzkészletének elszámolása a megszűnés fordulónapjára pénzforgalom nélküli támogatásként a költségvetési számvitel szerint |
 
 | a) Követelésként | T09162 | – | K0041 |
 
 | b) Teljesítéseként | T005 | – | K09163 |
 
-| 21. A megszűnő költségvetési szerv záró pénzkészletének elszámolása a megszűnés fordulónapjára pénzforgalom nélküli támogatásként a pénzügyi számvitel szerint |
+| 21. A megszűnő költségvetési szerv korrigált záró pénzkészletének elszámolása a megszűnés fordulónapjára pénzforgalom nélküli támogatásként a pénzügyi számvitel szerint |
 
 | a) Követelésként | T3511 | – | K922 |
 
@@ -2857,6 +2871,8 @@ D) Központi kezelésű előirányzat, fejezeti kezelésű előirányzat esetén
 | 12. A pénzeszközök nyitó bekerülési értékének kivezetése a pénzügyi számvitel szerint | T491 | – | K31-33 |
 
 | 13. A pénzeszközök nyitó értékvesztésének kivezetése a pénzügyi számvitel szerint | T318/3318/3328 | – | K491 |
+
+| 13a. Az általános forgalmi adó elszámolása számlák nyitó értékének kivezetése a pénzügyi számvitel szerint | T364 T491 | – | K491 K364 |
 
 | 14. A követelés jellegű sajátos elszámolások nyitó bekerülési értékének kivezetése a pénzügyi számvitel szerint | T491 | – | K365 |
 
@@ -2922,9 +2938,11 @@ D) Központi kezelésű előirányzat, fejezeti kezelésű előirányzat esetén
 
 | j) Követelések és kötelezettségek könyvviteli számlái forgalmának kivezetése | T495 T358 T42 | – | K35 K495 |
 
-| 30. Mérlegrendezési számla egyenlegének átvezetése | T4133/495 | – | K495/4133 |
+| k) Az általános forgalmi adó elszámolása számlák forgalmának kivezetése a pénzügyi számvitel szerint | T364 T495 | – | K495 K364 |
 
-| 31. Pénzeszközök könyvviteli számlái forgalmának kivezetése | T4133 T318/3318/3328 | – | K31-33 K4133 |
+| 30. |  |  |  |
+
+| 31. Pénzeszközök könyvviteli számlái forgalmának kivezetése | T495 T318/3318/3328 | – | K31-33 K495 |
 
 | 32. Költségvetési számvitel nyilvántartási számlái forgalmának kivezetése a költségvetési számvitel szerint |
 
@@ -2962,6 +2980,6 @@ G) Központi kezelésű előirányzat, fejezeti kezelésű előirányzat esetén
 
 | 2. A fejezeti kezelésű előirányzat, központi kezelésű előirányzat könyvviteli számlái nyitó adatainak átvétele: e fejezet D) cím 1–5., 7., 9–16., 18–20., 22–24. és 26. pontjában szereplő tételek fordítottjaként |
 
-| 3. Kapcsolódó tételek: a fejezeti kezelésű előirányzat, központi kezelésű előirányzat záró pénzkészletének elszámolása az e fejezet C) cím 20–22. pontja szerint [megjegyzés: az új fejezetet irányító szervnek a fentiek szerint nyilvántartásba vett adatokról adatot kell szolgáltatni az időközi mérlegjelentés C) űrlapján] |
+| 3. Kapcsolódó tételek: a fejezeti kezelésű előirányzat, központi kezelésű előirányzat korrigált záró pénzkészletének elszámolása az e fejezet C) cím 20–22. pontja szerint [megjegyzés: az új fejezetet irányító szervnek a fentiek szerint nyilvántartásba vett adatokról adatot kell szolgáltatni az időközi mérlegjelentés C) űrlapján] |
 
-[^1]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5. és 7. §-a szerint módosított szöveg.
