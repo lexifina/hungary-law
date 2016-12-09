@@ -1,6 +1,6 @@
-## 3. §[^15] A belső ellenőr a költségvetési szervnél belső ellenőrzési tevékenységet végzőknek az Áht. 70. § (5) bekezdése szerinti nyilvántartásában (a továbbiakban: nyilvántartás) szereplő adataiban bekövetkezett változást az adatváltozást követően haladéktalanul, de legkésőbb 8 napon belül az 1. melléklet szerinti adatlapon köteles írásban bejelenteni a miniszternek. A bejelentéshez csatolni kell az adatváltozást igazoló dokumentum másolatát.
+## 3. §[^16] A belső ellenőr a költségvetési szervnél belső ellenőrzési tevékenységet végzőknek az Áht. 70. § (5) bekezdése szerinti nyilvántartásában (a továbbiakban: nyilvántartás) szereplő adataiban bekövetkezett változást az adatváltozást követően haladéktalanul, de legkésőbb 8 napon belül az 1. melléklet szerinti adatlapon köteles írásban bejelenteni a miniszternek. A bejelentéshez csatolni kell az adatváltozást igazoló dokumentum másolatát.
 
-3/A. §[^16] (1) A miniszter azt a természetes személyt, aki
+3/A. §[^17] (1) A miniszter azt a természetes személyt, aki
 
 a) az 1/A. §-ban meghatározott követelményeknek nem felel meg,
 
@@ -20,5 +20,5 @@ f) a nyilvántartásba vételkor, illetve a nyilvántartásba vételt követően
 
 (3) Az (1) és (2) bekezdés esetén a tevékenység újbóli gyakorlására irányuló szándék bejelentésére a 2. §-t kell alkalmazni. A tevékenység újbóli gyakorlása esetén a továbbképzési kötelezettség tekintetében a 7. §-t kell alkalmazni.
 
-[^15]: A 3. § a 35/2015. (XII. 23.) NGM rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^16]: A 3/A. §-t a 23/2012. (VIII. 6.) NGM rendelet 3. §-a iktatta be, szövege a 35/2015. (XII. 23.) NGM rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^16]: A 3. § a 35/2015. (XII. 23.) NGM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^17]: A 3/A. §-t a 23/2012. (VIII. 6.) NGM rendelet 3. §-a iktatta be, szövege a 35/2015. (XII. 23.) NGM rendelet 8. § (4) bekezdésével megállapított szöveg.

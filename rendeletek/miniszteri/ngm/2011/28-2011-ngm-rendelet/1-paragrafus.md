@@ -4,7 +4,7 @@
 
 a)[^1] ÁBPE: Államháztartási belső pénzügyi ellenőrzés, ami az államháztartási kontrollrendszer része az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 62. §-ának megfelelően;
 
-b)[^2] ÁBPE-továbbképzés I.: a belső ellenőrök kötelező hatósági jellegű szakmai továbbképzése keretében szervezett hatósági jellegű képzés;
+b)[^2] ÁBPE-továbbképzés I. belső ellenőrök részére: a belső ellenőrök kötelező hatósági jellegű szakmai továbbképzése keretében szervezett hatósági jellegű képzés (a továbbiakban: ÁBPE-továbbképzés I.);
 
 c)[^3] ÁBPE-továbbképzés I. a költségvetési szervek vezetői és gazdasági vezetői részére: a költségvetési szervek vezetői és a gazdasági vezetők kötelező hatósági jellegű szakmai továbbképzése keretében szervezett hatósági jellegű képzés;
 
@@ -16,11 +16,13 @@ f) e-learning: olyan számítógépes hálózaton elérhető képzési forma, am
 
 g)[^6] Éves Továbbképzési Tájékoztató: az államháztartásért felelős miniszter (a továbbiakban: miniszter) által a belső ellenőrök kötelező szakmai továbbképzésével és a vizsga letételével, valamint a költségvetési szervek vezetőinek és gazdasági vezetőinek belső kontrollrendszer témájú továbbképzésével kapcsolatban az Államháztartási Belső Pénzügyi Ellenőrzési Módszertani és Képzési Központ (a továbbiakban: Központ) és a miniszter által vezetett minisztérium honlapján, valamint a Hivatalos Értesítőben minden év január 15-ig közzétett tájékoztató;
 
-h)–i)[^7]
+h)[^7] kötelező szakmai továbbképzésben közreműködő szervezet: a kötelező továbbképzések szervezését a Központ keretében a Nemzeti Adó- és Vámhivatal Képzési, Egészségügyi és Kulturális Intézete látja el.
 
-j)[^8] központi költségvetésből támogatott képzés: költségvetési szervnél munkajogi, közszolgálati, hivatásos szolgálati, szolgálati vagy közalkalmazotti jogviszonyban foglalkoztatott továbbképzésre kötelezett részére a továbbképzési kötelezettség teljesítéséhez előírt képzés, amelynek – szervezési formájától függetlenül – az e-learning szolgáltatási költségét, továbbá – vizsgával záruló képzés esetén – a vizsga költségét a központi költségvetés finanszírozza az Éves Továbbképzési Tájékoztatóban meghatározott mértékig;
+i)[^8]
 
-k)[^9] térítési díj: az Éves Továbbképzési Tájékoztatóban közölt díj, amely mértékének meghatározása önköltségszámítás alapján történik. A térítési díj formái lehetnek:
+j)[^9] központi költségvetésből támogatott képzés: költségvetési szervnél munkajogi, közszolgálati, hivatásos szolgálati, szolgálati vagy közalkalmazotti jogviszonyban foglalkoztatott továbbképzésre kötelezett részére a továbbképzési kötelezettség teljesítéséhez előírt képzés, amelynek – szervezési formájától függetlenül – az e-learning szolgáltatási költségét, továbbá – vizsgával záruló képzés esetén – a vizsga költségét a központi költségvetés finanszírozza az Éves Továbbképzési Tájékoztatóban meghatározott mértékig;
+
+k)[^10] térítési díj: az Éves Továbbképzési Tájékoztatóban közölt díj, amely mértékének meghatározása önköltségszámítás alapján történik. A térítési díj formái lehetnek:
 
 ka) az e-learning szolgáltatás költsége, vizsgával záruló képzés esetén a vizsga költsége, továbbá a kontakt vagy tréning formában szervezett képzés esetén felmerülő díja,
 
@@ -30,21 +32,22 @@ kc) a szintvizsga díja, valamint
 
 kd) a pótvizsga díja;
 
-l)[^10] hatósági jellegű képzés: a felnőttképzésről szóló 2013. évi LXXVII. törvény 2. § 16. pontja szerinti hatósági képzés;
+l)[^11] hatósági jellegű képzés: a felnőttképzésről szóló 2013. évi LXXVII. törvény 2. § 16. pontja szerinti hatósági képzés;
 
-m)[^11] szintvizsga: a továbbképzési kötelezettséget elmulasztók számára biztosított választható tudásszint felmérő vizsga, amelyen a továbbképzésre kötelezett az ÁBPE továbbképzés I. tananyag ismeretére vonatkozó teszt jellegű vizsga alapján bizonyítja szakmai tudását a nyilvántartásból való törlés elkerülése érdekében,
+m)[^12] szintvizsga: a továbbképzési kötelezettséget elmulasztók számára biztosított választható tudásszint felmérő vizsga, amelyen a továbbképzésre kötelezett az ÁBPE továbbképzés I. tananyag ismeretére vonatkozó teszt jellegű vizsga alapján bizonyítja szakmai tudását a nyilvántartásból való törlés elkerülése érdekében,
 
-n)[^12] továbbképzésre kötelezett: az a természetes személy, akinek a 7. § és a Bkr. 12. § (1)–(3) bekezdése alapján továbbképzési kötelezettsége áll fenn.
+n)[^13] továbbképzésre kötelezett: az a természetes személy, akinek a 7. § és a Bkr. 12. § (1)–(3) bekezdése alapján továbbképzési kötelezettsége áll fenn.
 
 [^1]: Az 1. § a) pontja a 23/2012. (VIII. 6.) NGM rendelet 9. § 1. pontja szerint módosított szöveg.
-[^2]: Az 1. § b) pontja a 44/2014. (XII. 30.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § b) pontja a 44/2014. (XII. 30.) NGM rendelet 1. § (1) bekezdésével megállapított, a 49/2016. (XII. 8.) NGM rendelet 3. § 1. pontja szerint módosított szöveg.
 [^3]: Az 1. § c) pontja a 44/2014. (XII. 30.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § d) pontja a 44/2014. (XII. 30.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 1. § e) pontja a 44/2014. (XII. 30.) NGM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^6]: Az 1. § g) pontja a 23/2012. (VIII. 6.) NGM rendelet 9. § 4. és 5. pontja szerint módosított szöveg.
-[^7]: Az 1. § h)–i) pontját a 44/2014. (XII. 30.) NGM rendelet 17. §-a hatályon kívül helyezte.
-[^8]: Az 1. § j) pontja a 23/2012. (VIII. 6.) NGM rendelet 1. §-ával megállapított szöveg.
-[^9]: Az 1. § k) pontja a 44/2014. (XII. 30.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
-[^10]: Az 1. § l) pontját a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2014. (XII. 30.) NGM rendelet 1. § (3) bekezdése iktatta be.
-[^11]: Az 1. § m) pontját a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2014. (XII. 30.) NGM rendelet 1. § (3) bekezdése iktatta be.
-[^12]: Az 1. § n) pontját a 44/2014. (XII. 30.) NGM rendelet 1. § (3) bekezdése iktatta be, szövege a 35/2015. (XII. 23.) NGM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.
+[^7]: Az 1. § h) pontját a 44/2014. (XII. 30.) NGM rendelet 17. §-a hatályon kívül helyezte, újonnan a 49/2016. (XII. 8.) NGM rendelet 1. §-a iktatta be.
+[^8]: Az 1. § i) pontját a 44/2014. (XII. 30.) NGM rendelet 17. §-a hatályon kívül helyezte.
+[^9]: Az 1. § j) pontja a 23/2012. (VIII. 6.) NGM rendelet 1. §-ával megállapított szöveg.
+[^10]: Az 1. § k) pontja a 44/2014. (XII. 30.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^11]: Az 1. § l) pontját a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2014. (XII. 30.) NGM rendelet 1. § (3) bekezdése iktatta be.
+[^12]: Az 1. § m) pontját a 23/2012. (VIII. 6.) NGM rendelet 10. § (2) bekezdése hatályon kívül helyezte, újonnan a 44/2014. (XII. 30.) NGM rendelet 1. § (3) bekezdése iktatta be.
+[^13]: Az 1. § n) pontját a 44/2014. (XII. 30.) NGM rendelet 1. § (3) bekezdése iktatta be, szövege a 35/2015. (XII. 23.) NGM rendelet 8. § (7) bekezdés a) pontja szerint módosított szöveg.

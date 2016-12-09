@@ -1,6 +1,6 @@
-## köteles a szakmai továbbképzésben közreműködő szervezet részére az Éves Továbbképzési Tájékoztatóban közzétett központi költségvetési támogatás összegét utólag megfizetni.
+## köteles a kötelező szakmai továbbképzésben közreműködő szervezet részére az Éves Továbbképzési Tájékoztatóban közzétett központi költségvetési támogatás összegét utólag megfizetni.
 
-9. §[^45] (1) Az ÁBPE-továbbképzés I. képzéshez vizsga kapcsolódik. Az ÁBPE-továbbképzés I. képzés programzáró vizsgájára az bocsátható, aki a képzés tananyagát teljes terjedelmében feldolgozta. A képzés tananyaga akkor tekinthető teljes terjedelmében feldolgozottnak, ha a továbbképzésre kötelezett
+9. §[^48] (1) Az ÁBPE-továbbképzés I. képzéshez vizsga kapcsolódik. Az ÁBPE-továbbképzés I. képzés programzáró vizsgájára az bocsátható, aki a képzés tananyagát teljes terjedelmében feldolgozta. A képzés tananyaga akkor tekinthető teljes terjedelmében feldolgozottnak, ha a továbbképzésre kötelezett
 
 a) kontakt képzés esetén részt vett a képzéshez kapcsolódó előadások óráin és aláírta a jelenléti ívet,
 
@@ -8,7 +8,7 @@ b) e-learning képzés esetén sikeresen kitöltötte a tananyaghoz kapcsolódó
 
 (2) A vizsga eredményének minősítését a képzési program tartalmazza.
 
-(3) A vizsgaeredménnyel kapcsolatos panasz kezelését a továbbképzésben közreműködő szervezet vizsgaszabályzata szabályozza, amely a Központ honlapján kerül közzétételre.
+(3)[^49] A vizsgaeredménnyel kapcsolatos panasz kezelését a kötelező szakmai továbbképzésben közreműködő szervezet vizsgaszabályzata szabályozza, amely a Központ honlapján kerül közzétételre.
 
 (4) Sikertelen vizsga esetén a tárgyév év december 15-éig legfeljebb 3 alkalommal van lehetőség pótvizsgát tenni. A pótvizsga térítési díjköteles.
 
@@ -20,4 +20,5 @@ b) – e-learning képzési forma esetében – a programzáró önellenőrző t
 
 c) – tréning képzési forma esetében – a képzésen való részvétel.
 
-[^45]: A 9. § a 44/2014. (XII. 30.) NGM rendelet 9. §-ával megállapított szöveg.
+[^48]: A 9. § a 44/2014. (XII. 30.) NGM rendelet 9. §-ával megállapított szöveg.
+[^49]: A 9. § (3) bekezdése a 49/2016. (XII. 8.) NGM rendelet 3. § 3. pontja szerint módosított szöveg.
