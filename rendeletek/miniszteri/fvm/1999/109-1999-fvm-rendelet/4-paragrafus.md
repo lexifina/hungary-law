@@ -12,7 +12,7 @@ e)[^9] elő- és visszavásárlási, vételi jog, valamint eladási jog,
 
 f) tartási és életjáradéki jog,
 
-g)[^10] jelzálogjog (különvált zálogjog, önálló zálogjog) és végrehajtási jog,
+g)[^10] jelzálogjog (különvált zálogjog, önálló zálogjog, átalakításos önálló zálogjog) és végrehajtási jog,
 
 h)[^11] olyan egyéb jog, amelynek bejegyzését törvény rendeli el.
 
@@ -146,7 +146,7 @@ h) kiegészítő szöveges bejegyzés.
 
 [^8]: A 4. § a 48/2010. (IV. 27.) FVM rendelet 5. §-ával megállapított szöveg.
 [^9]: A 4. § (1) bekezdés e) pontja a 21/2014. (III. 14.) VM rendelet 28. § a) pontja szerint módosított szöveg.
-[^10]: A 4. § (1) bekezdés g) pontja a 21/2014. (III. 14.) VM rendelet 28. § b) pontja szerint módosított szöveg.
+[^10]: A 4. § (1) bekezdés g) pontja a 76/2016. (XII. 8.) FM rendelet 1. §-ával megállapított szöveg.
 [^11]: A 4. § (1) bekezdés h) pontját a 148/2012. (XII. 28.) VM rendelet 1. § (1) bekezdése iktatta be.
 [^12]: A 4. § (2) bekezdése a 13/2014. (IX. 25.) FM rendelet 1. §-ával megállapított szöveg.
 [^13]: A 4. § (2) bekezdés 5. pontja a 39/2014. (XII. 18.) FM rendelet 11. § (1) bekezdésével megállapított szöveg.

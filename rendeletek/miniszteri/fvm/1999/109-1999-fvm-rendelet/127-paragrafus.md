@@ -1,4 +1,4 @@
-## 127. §[^331] E rendeletnek az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet módosításáról szóló 48/2010. (IV. 27.) FVM rendelet (a továbbiakban: Mr.)
+## 127. §[^340] E rendeletnek az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet módosításáról szóló 48/2010. (IV. 27.) FVM rendelet (a továbbiakban: Mr.)
 
 1. 3. §-ával módosított 2. §-t,
 
@@ -134,7 +134,7 @@
 
 44. w) 120. § (1) bekezdését,
 
-44. x) 121. §-át az Mr. hatálybalépését[^332] követően indult ügyekben kell alkalmazni.
+44. x) 121. §-át az Mr. hatálybalépését[^341] követően indult ügyekben kell alkalmazni.
 
-[^331]: A 127. §-t a 48/2010. (IV. 27.) FVM rendelet 93. §-a iktatta be.
-[^332]: A hatálybalépés időpontja: 2010. május 12.
+[^340]: A 127. §-t a 48/2010. (IV. 27.) FVM rendelet 93. §-a iktatta be.
+[^341]: A hatálybalépés időpontja: 2010. május 12.

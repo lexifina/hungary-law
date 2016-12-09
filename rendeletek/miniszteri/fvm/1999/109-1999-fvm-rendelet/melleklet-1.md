@@ -1,7 +1,7 @@
-## 131. §[^338] E rendeletnek az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet módosításáról szóló 82/2015. (XII. 16.) FM rendelet (a továbbiakban: Mr3.) 1. §-ával megállapított 68/D. §-át az Mr3. hatálybalépésekor[^339] folyamatban lévő ügyekben, valamint a megismételt eljárásokban is alkalmazni kell.
+## 132. §[^349] E rendeletnek az ingatlan-nyilvántartásról szóló 1997. évi CXLI. törvény végrehajtásáról szóló 109/1999. (XII. 29.) FVM rendelet módosításáról szóló 76/2016. (XII. 8.) FM rendelet hatálybalépését[^350] megelőző napon hatályos 20/A. §-át a 2016. október 1-jét megelőzően jelzálogjog átruházásával keletkezett különvált zálogjog esetében továbbra is alkalmazni kell.
 
-1. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^340]
+1. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^351]
 
-[^338]: A 131. §-t a 82/2015. (XII. 16.) FM rendelet 2. §-a iktatta be.
-[^339]: A hatálybalépés időpontja 2015. december 24.
-[^340]: Az 1. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 1. számú melléklete iktatta be, szövege az 57/2013. (VI. 29.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^349]: A 132. §-t a 76/2016. (XII. 8.) FM rendelet 10. §-a iktatta be.
+[^350]: A hatálybalépés időpontja 2016. december 9.
+[^351]: Az 1. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 1. számú melléklete iktatta be, szövege az 57/2013. (VI. 29.) VM rendelet 5. § (1) bekezdésével megállapított szöveg.

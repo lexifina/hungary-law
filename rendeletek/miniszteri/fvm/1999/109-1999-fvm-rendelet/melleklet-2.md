@@ -1,4 +1,4 @@
-## 1.[^341] Az ingatlan-nyilvántartási kérelem első része az alábbi adatokat tartalmazza:
+## 1.[^352] Az ingatlan-nyilvántartási kérelem első része az alábbi adatokat tartalmazza:
 
 ## 1.1. a kérelmező értesítési címe, ügyintézőjének neve;
 
@@ -6,7 +6,7 @@
 
 ## 1.3. a kérelmező állampolgársága, vagy cégjegyzékszáma;
 
-## 1.4.[^342] a kérelemhez kapcsolódó ingatlan-nyilvántartási iktatószám (ha ismert);
+## 1.4.[^353] a kérelemhez kapcsolódó ingatlan-nyilvántartási iktatószám (ha ismert);
 
 ## 1.5. a változással érintett ingatlanok darabszáma;
 
@@ -30,9 +30,9 @@
 
 ## 1.15. a kérelmező, vagy képviselő aláírása;
 
-## 1.16.[^343] készpénzbefizetés vagy bankkártyával történő fizetés esetén a díj megfizetését igazoló nyilatkozat;
+## 1.16.[^354] készpénzbefizetés vagy bankkártyával történő fizetés esetén a díj megfizetését igazoló nyilatkozat;
 
-## 1.17.[^344] az ingatlan-nyilvántartási kérelem vizsgálatával kapcsolatos ingatlan-nyilvántartási megállapítások.
+## 1.17.[^355] az ingatlan-nyilvántartási kérelem vizsgálatával kapcsolatos ingatlan-nyilvántartási megállapítások.
 
 ## 2. Az ingatlan-nyilvántartási kérelem második része a változással érintett ingatlan (ingatlanok) tekintetében az alábbi adatokat tartalmazza:
 
@@ -50,10 +50,10 @@
 
 ## 2.7. a kérelmező, vagy képviselő aláírása.
 
-2. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^345]
+2. számú melléklet a 109/1999. (XII. 29.) FVM rendelethez[^356]
 
-[^341]: Az 1. számú melléklet 1. pontja a 21/2014. (III. 14.) VM rendelet 27. §-ával megállapított szöveg.
-[^342]: Az 1. számú melléklet 1.4. pontja a 67/2015. (X. 30.) FM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^343]: Az 1. számú melléklet 1.16. pontja a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 24. pontja szerint módosított szöveg.
-[^344]: Az 1. számú melléklet 1.17. pontja a 67/2015. (X. 30.) FM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^345]: A 2. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 2. számú melléklete iktatta be, a 48/2010. (IV. 27.) FVM rendelet 98. §-a hatályon kívül helyezte.
+[^352]: Az 1. számú melléklet 1. pontja a 21/2014. (III. 14.) VM rendelet 27. §-ával megállapított szöveg.
+[^353]: Az 1. számú melléklet 1.4. pontja a 67/2015. (X. 30.) FM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^354]: Az 1. számú melléklet 1.16. pontja a 29/2015. (VI. 5.) FM rendelet 4. § (9) bekezdés 24. pontja szerint módosított szöveg.
+[^355]: Az 1. számú melléklet 1.17. pontja a 67/2015. (X. 30.) FM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^356]: A 2. számú mellékletet a 117/2005. (XII. 19.) FVM rendelet 2. számú melléklete iktatta be, a 48/2010. (IV. 27.) FVM rendelet 98. §-a hatályon kívül helyezte.
