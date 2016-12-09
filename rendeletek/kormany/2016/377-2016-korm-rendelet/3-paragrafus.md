@@ -1,1 +1,3 @@
-## „(4) Az adatszolgáltatók kijelölését a Központi Statisztikai Hivatal a december 15. napján hatályos, rendelkezésére álló regiszterek és nyilvántartások alapulvételével végzi, kivéve ha jogszabály eltérően rendelkezik. Ha év közben a kieső adatszolgáltatók pótlása, illetve az adatszolgáltatói kör pontosítása érdekében új adatszolgáltatók kijelölése indokolt, azt a kijelölés szükségességének felmerülésekor rendelkezésre álló regiszterek és nyilvántartások alapulvételével kell elvégezni.”
+## 1–2. §[^1]
+
+[^1]: Az 1–2. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
