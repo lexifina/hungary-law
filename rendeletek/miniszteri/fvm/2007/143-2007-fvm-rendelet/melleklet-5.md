@@ -30,7 +30,7 @@
 
 ## Az országos főállatorvos a 3. §-ban meghatározott jogkörében a madárinfluenza vadon élő madarakról a baromfira és más, fogságban élő madarakra történő átvitele veszélyének csökkentése érdekében hozott intézkedéseikor az ezen mellékletében előírt szempontokat, intézkedéseket, követelményeket és kockázati tényezőket veszi figyelembe.
 
-1.[^75] Magyarország a magas kockázatúnak minősített területein, valamint más területein megtilthatja:
+1.[^76] Magyarország a magas kockázatúnak minősített területein, valamint más területein megtilthatja:
 
 a) a baromfi szabadtartását;
 
@@ -52,7 +52,7 @@ c) vadon élő vízimadarak által hozzáférhető felszíni vízből történő
 
 d) csalimadarak felhasználását madárvadászat idején:
 
-da)[^76] a nyilvántartásba vett csalimadár tulajdonosok számára az állategészségügyi hatóság szigorú felügyelete alatt a mintavételre szánt vadon élő madarak csalogatására, a tagállamok baromfik és vadon élő madarak madárinfluenza-fertőzöttségére vonatkozó felmérési programjai alapján, a 2005/732/EK határozatban előírtak szerint, vagy
+da)[^77] a nyilvántartásba vett csalimadár tulajdonosok számára az állategészségügyi hatóság szigorú felügyelete alatt a mintavételre szánt vadon élő madarak csalogatására, a tagállamok baromfik és vadon élő madarak madárinfluenza-fertőzöttségére vonatkozó felmérési programjai alapján, a 2005/732/EK határozatban előírtak szerint, vagy
 
 db) a megfelelő járványvédelmi intézkedésekkel összhangban, melyek tartalmazzák: az egyes csalimadarak gyűrűzési rendszer által való azonosítását, a csalimadarak speciális megfigyelési rendszerének megvalósítását, a csalimadarak egészségi állapotának nyilvántartását és jelentését, valamint madárinfluenzára irányuló laboratóriumi vizsgálatot ilyen madarak pusztulása esetén és a madárvadászati idény végén, a csalimadarak és a házi baromfi, illetve más fogságban tartott madarak szigorú elkülönítését, a csalimadarak szállítására és az olyan területeken való utazásra használt szállítóeszközök és felszerelések takarítását és fertőtlenítését, amelyekben csalimadarak vannak elhelyezve, a csalimadarak mozgására vonatkozó korlátozásokat és ellenőrzést, főleg a különböző nyílt vizekkel való érintkezés megakadályozása céljából, jó járványvédelmi gyakorlatra vonatkozó iránymutatások kidolgozását és végrehajtását, amelyek részletezik az elsőtől a hatodik francia bekezdésben előírt intézkedéseket, az első, a második és a harmadik francia bekezdésben említett intézkedésekből nyert adatokra vonatkozó jelentési rendszer megvalósítását, a baromfi és más fogságban tartott madarak összegyűjtését.
 
@@ -74,5 +74,5 @@ b) a 2. bekezdés szerinti engedmények alkalmazásáról szóló kockázatelemz
 
 – baromfi és más fogságban élő madarak, járművek és személyek gazdaságon belüli és gazdaságok közötti mozgásának intenzitása, és a gazdaságok közötti egyéb közvetlen vagy közvetett kapcsolat.
 
-[^75]: Az 5. számú melléklet 1. pont nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 34. § c) pontja szerint módosított szöveg.
-[^76]: Az 5. számú melléklet 2. pont da) alpontja 42/2010. (IV. 22) FVM rendelet 13. § r) pontja szerint módosított szöveg.
+[^76]: Az 5. számú melléklet 1. pont nyitó szövegrésze az 5/2012. (II. 10.) VM rendelet 34. § c) pontja szerint módosított szöveg.
+[^77]: Az 5. számú melléklet 2. pont da) alpontja 42/2010. (IV. 22) FVM rendelet 13. § r) pontja szerint módosított szöveg.

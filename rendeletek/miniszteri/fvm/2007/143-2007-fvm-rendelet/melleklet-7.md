@@ -126,6 +126,6 @@ b) nem oltott, vágóhídra küldött baromfiból származó bármely hús eset�
 
 8. További megszorítások nem alkalmazhatók a csomagolt tojások és az e melléklet szerint levágott baromfiból származó hús mozgatására.
 
-9.[^78] A baromfi (beleértve a napos baromfit is) vagy más, fogságban tartott madarak elszállítása Magyarország területéről a sürgősségi védőoltási kampány kezdetétől mindaddig tilos, amíg a készenléti tervet a közösségi intézkedések sérelme nélkül a Bizottság jóvá nem hagyja, kivéve, ha a fogadó tagállam illetékes hatósága arra felhatalmazást ad.
+9.[^79] A baromfi (beleértve a napos baromfit is) vagy más, fogságban tartott madarak elszállítása Magyarország területéről a sürgősségi védőoltási kampány kezdetétől mindaddig tilos, amíg a készenléti tervet a közösségi intézkedések sérelme nélkül a Bizottság jóvá nem hagyja, kivéve, ha a fogadó tagállam illetékes hatósága arra felhatalmazást ad.
 
-[^78]: A 7. számú melléklet 9. pontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
+[^79]: A 7. számú melléklet 9. pontja az 5/2012. (II. 10.) VM rendelet 34. § a) pontja szerint módosított szöveg.
