@@ -1,4 +1,4 @@
-## 8/A. [^5] A dohánytermék-kiskereskedelmi tevékenység szüneteltetése
+## 8/A. [^6] A dohánytermék-kiskereskedelmi tevékenység szüneteltetése
 
 10/A. § (1) A kérelmező a már kiadott engedély hatálya alatt legfeljebb két alkalommal, összesen legfeljebb hat hónapos időtartamra kérheti a dohánytermék-kiskereskedelmi tevékenységének szüneteltetését.
 
@@ -10,4 +10,4 @@
 
 (5) Az e §-ban foglaltak megsértése esetén a vámhatóság a Tv. 23. § (1) bekezdés e) pontja szerint jár el.
 
-[^5]: A 8/A. alcímet (10/A. §) a 453/2013. (XI. 28.) Korm. rendelet 3. §-a iktatta be.
+[^6]: A 8/A. alcímet (10/A. §) a 453/2013. (XI. 28.) Korm. rendelet 3. §-a iktatta be.

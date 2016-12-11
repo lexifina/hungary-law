@@ -4,4 +4,6 @@
 
 (2) A dohánytermék-kiskereskedő az egyéb termék forgalmazását a bejelentést követően kezdheti meg, feltéve, hogy már rendelkezik a vámhatóság által kiadott dohánytermék-kiskereskedelmi engedéllyel.
 
-(3) A vámhatóság a bejelentést a dohánytermék-kiskereskedő, valamint a bejelentés-köteles kereskedelmi tevékenységet folytató kereskedők nyilvántartását vezető kereskedelmi hatóság részére megküldendő értesítőjével tudomásul veszi.
+(3)[^7] Az (1) bekezdés szerint megtett bejelentésekről a vámhatóság minden hónap 10. napjáig összegző tájékoztatást nyújt a Tv. 4. § (2) bekezdése szerinti részvénytársaság részére.
+
+[^7]: A 11. § (3) bekezdése a 407/2016. (XII. 10.) Korm. rendelet 1. §-ával megállapított szöveg.
