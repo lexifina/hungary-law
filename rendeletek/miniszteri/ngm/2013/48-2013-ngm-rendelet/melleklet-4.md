@@ -384,7 +384,7 @@
 
 ## 2. Az AEE-t fizikailag a pénztárgép burkolatán belül kell elhelyezni. Az AEE a számítógép alapú, valamint a mérleggel egybeépített pénztárgépnél elhelyezhető a nyomtatóban is.
 
-## 2.1. Az AEE-nek meg kell felelnie az elektromágneses összeférhetőségről szóló 62/2006. (VIII. 30.) GKM rendelet előírásainak. Az AEE adattartalma UV sugárzással nem lehet törölhető. Az AEE környezetállóságának teljesítenie kell az IEC 60529 szabvány szerinti IP54 szintet.
+## 2.1. Az AEE-nek meg kell felelnie az elektromágneses összeférhetőségről szóló rendelet előírásainak. Az AEE adattartalma UV sugárzással nem lehet törölhető. Az AEE környezetállóságának teljesítenie kell az IEC 60529 szabvány szerinti IP54 szintet.
 
 ## 2.2. Az AEE-t úgy kell kivitelezni, hogy kizárólag az AEE burkolat roncsolásával legyen nyitható. A burkolat nyitására a pénztárgépnek/AEE-nek blokkolt állapotba kell kerülnie.
 

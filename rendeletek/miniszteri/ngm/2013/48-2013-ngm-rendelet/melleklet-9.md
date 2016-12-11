@@ -113,3 +113,7 @@ Pénztári befizetési és kifizetési bizonylat
 Üzemanyagkártyás értékesítési bizonylat
 
 Egészségkártyás értékesítési bizonylat
+
+F) Nyugta és egyszerűsített számla sztornó bizonylat mintája az alábbi, melyen a kötelező tartalmi elemek és a nem kötelező tartalmi elemek egymáshoz való viszonya a következő azzal, hogy a mintán szereplő adatok sorrendje kötelező:
+
+Sztornó bizonylat

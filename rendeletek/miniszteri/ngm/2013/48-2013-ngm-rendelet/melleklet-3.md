@@ -46,4 +46,4 @@
 
 3. melléklet a 48/2013. (XI. 15.) NGM rendelethez[^129]
 
-[^129]: A 3. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § c) pontjával megállapított szöveg.
+[^129]: A 3. melléklet a 9/2016. (III. 25.) NGM rendelet 36. § c) pontjával megállapított, a 48/2016. (XII. 6.) NGM rendelet 1. §-a szerint módosított szöveg.
