@@ -8,11 +8,7 @@
 
 ## 2. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, kormányhatározatok módosításáról, továbbá a 2015. évi költségvetési maradványok egy részének felhasználásáról szóló 1049/2016. (II. 15.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 9. Eszterháza Kulturális, Kutató- és Fesztiválközpont cím javára biztosított 300 000 000 forintból 3 080 000 forint a K1. Személyi juttatások kiemelt előirányzaton, 1 116 900 forint a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton, 81 736 722 forint a K3. Dologi kiadások kiemelt előirányzaton, 85 033 843 forint a K6. Beruházások kiemelt előirányzaton, 129 032 535 forint a K7. Felújítások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 3. A rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról és Korm. határozat módosításáról szóló 1494/2016. (IX. 15.) Korm. határozat 2. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1438/2016. (VIII. 17.) Korm. határozat 1. pont b) alpontja szerint a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 23. Sporttevékenység támogatása alcím, 4. Versenysport támogatása jogcímcsoporton a K5. Egyéb működési célú kiadások kiemelt előirányzat részére átcsoportosított 748 414 ezer forintból 25 000 ezer forint a XX. Emberi Erőforrások Minisztériuma fejezet, 1. Emberi Erőforrások Minisztériuma igazgatása címen kerüljön felhasználásra a K1. Személyi juttatások kiemelt előirányzaton 5 256 ezer forint, a K2. Munkaadókat terhelő járulékok és szociális hozzájárulási adó kiemelt előirányzaton 1 944 ezer forint, a K3. Dologi kiadások kiemelt előirányzaton 17 800 ezer forint összegben.”
+## 3.[^1]
 
 1. melléklet az 1725/2016. (XII. 10.) Korm. határozathoz
 
@@ -87,3 +83,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdésével megállapított szöveg.
