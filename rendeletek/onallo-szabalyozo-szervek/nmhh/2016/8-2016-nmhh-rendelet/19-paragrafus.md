@@ -1,0 +1,1 @@
+## 18. § Az e rendelet hatálybalépését megelőzően az elektromágneses összeférhetőségről szóló 62/2006. (VIII. 30.) GKM rendelet követelményei szerint legyártott és forgalomba hozott berendezések továbbra is forgalmazhatók és üzembe helyezhetők.
