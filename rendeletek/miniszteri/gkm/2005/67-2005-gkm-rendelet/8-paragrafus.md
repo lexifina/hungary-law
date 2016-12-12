@@ -4,163 +4,176 @@
 
 a) az Európai Parlament és a Tanács 2000/59/EK irányelve (2000. november 27.) a hajókon keletkező hulladék és a rakománymaradványok fogadására alkalmas kikötői létesítményekről, 2., 6., 7., 10. és 16. cikk, valamint II. melléklet;
 
-b) a Bizottság 2007/71/EK irányelve (2007. december 13.) a hajókon keletkező hulladék és a rakománymaradványok fogadására alkalmas kikötői létesítményekről szóló 2000/59/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról.
+b) a Bizottság 2007/71/EK irányelve (2007. december 13.) a hajókon keletkező hulladék és a rakománymaradványok fogadására alkalmas kikötői létesítményekről szóló 2000/59/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról;
 
-Melléklet a 67/2005. (IX. 13.) GKM rendelethez[^2]
+c)[^2] a Bizottság (EU) 2015/2087 irányelve (2015. november 18.) a hajókon keletkező hulladék és a rakománymaradványok fogadására alkalmas kikötői létesítményekről szóló 2000/59/EK európai parlamenti és tanácsi irányelv II. mellékletének módosításáról.
 
-A ................................- KIKÖTŐBE VALÓ ÉRKEZÉS ELŐTT KÖZLENDŐ ADATOK
+Melléklet a 67/2005. (IX. 13.) GKM rendelethez[^3]
 
-(a 2000/59/EK irányelv 6. cikkében meghatározottak szerinti kikötő)
+A .................................................................... KIKÖTŐBE VALÓ ÉRKEZÉS ELŐTT KÖZLENDŐ ADATOK
 
-1. A hajó neve, hívójele, valamint adott esetben IMO azonosító száma:
+(A 2000/59/EK irányelv 6. cikkében meghatározottak szerinti érkezési kikötő.)
 
-2. Lobogó szerinti állam: Magyarország
+1. A hajó neve, hívójele, valamint adott esetben IMO-száma: ………………………
 
-3. Várható érkezési idő (ETA):
+2. Lobogó szerinti állam: ……………………………………………………………..
 
-4. Várható indulási idő (ETD):
+3. Várható érkezési időpont: ………………………………………………………….
 
-5. Előző érkezési kikötő:
+4. Várható kifutási időpont: …………………………………………………………..
 
-6. Következő érkezési kikötő:
+5. Előző érkezési kikötő: ……………………………………………………………...
 
-7. A hajón keletkező hulladék utolsó ürítésének kikötője és időpontja:
+6. Következő érkezési kikötő: …………………………………………………………
 
-8. Mennyi hulladékot ürít ki a kikötői befogadó létesítményekbe?
+7. A hajón keletkezett hulladék utolsó ürítésének kikötője és időpontja, beleértve a kiürített hulladék mennyiségét (m3-ben) és típusát: ………………………………………………
 
-mindent ⬜ egy részét ⬜ semmit ⬜
+8. A hajó mennyi hulladékot ürít a kikötői befogadó létesítményekbe? (jelölje be a megfelelő választ): az összes hulladékot □, a hulladék egy részét □, semmilyen hulladékot nem ürít □
 
-(jelölje be a megfelelő választ)
+9. A kiürítendő és/vagy a fedélzeten maradó hulladék és rakománymaradványok típusa és mennyisége, a maximális tárolókapacitás százalékában:
 
-9. A kiürítendő, illetve a hajón maradó hulladék és rakománymaradványok típusa és mennyisége a maximális tárolókapacitás százalékában:
+Ha az összes hulladékot kiüríti, a második és az utolsó oszlopot töltse ki megfelelően.
 
-Ha az összes hulladékot kiüríti, a második oszlopot töltse ki megfelelően!
+Ha csak a hulladék egy részét üríti ki vagy semennyit sem, valamennyi oszlopot töltse ki.
 
-Ha csak a hulladék egy részét üríti ki vagy semennyit sem, valamennyi oszlopot töltse ki!
+| Típus | Kiüríten- dő hulladék (m3-ben) | Maxi- mális tároló- kapacitás (m3) | A fedélzeten visszatartott hulladék mennyisége (m3) | Melyik kikötőben rakja ki a hátra-maradó mennyi- séget? | A bejelentés és a következő kikötő között képződő hulladék becsült mennyisége (m3) | A fenti 7. pontban meghatározott utolsó kirakodási kikötőben kiürített hulladék (m3) |
 
-| Típus | Kiürítendő hulladék m3 | Maximális tárolókapacitás m3 | A hajón visszatartott hulladék mennyisége m3 | Melyik kikötőben rakja ki a hátramaradó mennyiséget | A bejelentés és a következő kikötő között képződő hulladék becsült mennyisége m3 |
+| Olajhulladék |  |  |  |  |
 
-| Hulladék olajok |
+| Olajos fenékvíz |  |  |  |  |  |  |
 
-| Iszap |  |  |  |  |  |
+| Olajos szermaradványok (iszap) |  |  |  |  |  |  |
 
-| Fenékvíz |  |  |  |  |  |
+| Egyéb (pontosítsa) |  |  |  |  |  |  |
 
-| Egyéb (határozza meg) |  |  |  |  |  |
+| Szennyvíz (1) |  |  |  |  |  |  |
 
-| Szemét |
+| Szemét |  |
 
-| Konyhai hulladék |  |  |  |  |  |
+| Műanyagok |  |  |  |  |  |  |
 
-| Műanyag |  |  |  |  |  |
+| Konyhai hulladékok |  |  |  |  |  |  |
 
-| Egyéb |  |  |  |  |  |
+| Háztartási hulladék (pl. papírtermékek, rongyok, üveg, fém, palackok, cserépedények stb.) |  |  |  |  |  |  |
 
-| Szennyvíz1 |  |  |  |  |  |
+| Főzőolaj |  |  |  |  |  |  |
 
-| A rakományhoz kapcsolódó hulladék2 (határozza meg) |  |  |  |  |  |
+| Hulladék-égetőmű hamuja |  |  |  |  |  |  |
 
-| Rakománymaradványok2(határozza meg) |  |  |  |  |  |
+| Üzemeltetésből eredő hulladékok |  |  |  |  |  |  |
 
-| 1 A MARPOL 73/78 Egyezmény IV. melléklet 11. Szabályával összhangban megengedett a szennyvíz tengerbe engedése. Ha ilyen engedélyezett kibocsátást terveznek végrehajtani, ezeket a mezőket nem szükséges kitölteni. 2 Becsült érték is lehet. |
+| Állati tetem(ek) |  |  |  |  |  |  |
 
-Megjegyzés:
+| Rakomány- maradványok (2) (határozza meg) (3) |  |  |  |  |  |  |
 
-1. Ezek az adatok a kikötő szerinti állam által végzett ellenőrzéshez és egyéb vizsgálati célokra is felhasználhatóak.
+|  | (1) A szennyvíz tengerbe engedése a MARPOL-egyezmény IV. mellékletének 11. szabályával összhangban megengedett. Ha ilyen engedélyezett kibocsátást terveznek végrehajtani, nem szükséges kitölteni ezeket a mezőket. (2) Becsült érték is lehet. (3) A rakománymaradványokat a MARPOL-egyezmény vonatkozó mellékletei, különösen az I., a II. és az V. melléklete alapján kell megadni és kategóriákba sorolni. |
 
-2. A tagállamok határozzák meg, hogy mely szervek kapnak másolatot ebből az értesítésből.
+Kijelentem, hogy:
 
-3. Az űrlapot minden esetben ki kell tölteni, ha a hajó nem tartozik a 2000/59/EK irányelv 9. cikkében meghatározott kivételek körébe.
+- a fenti adatok a valóságnak megfelelnek és pontosak,
 
-Kijelentem, hogy
+- elegendő kijelölt fedélzeti tároló hely van azon hulladék számára, amely e jelentés kitöltése és a hulladék kiürítésének helyéül szolgáló következő kikötő között keletkezik.
 
-– a fenti adatok a valóságnak megfelelnek és pontosak,
+Dátum ......................................................... (hely/év/hó/nap)
 
-– a hajón elegendő kijelölt tárolóhely van azon hulladék számára, amely e jelentés kitöltése és a hulladék kiürítésének helyéül szolgáló következő kikötő között keletkezik.
+Időpont ....................................................... (óra/perc)
 
-Kelt
-
-Időpont
+…………………………………………….
 
 Aláírás
 
-–––––––––––––
+Megjegyzések:
 
-INFORMATION TO BE NOTIFIED BEFORE ENTRY INTO THE PORT OF ........................................
+1. Ezek az adatok a kikötő szerinti állam által végzett ellenőrzéshez és egyéb vizsgálati célokra is felhasználhatóak.
+
+2. A tagállamok határozzák meg, mely szervek kapnak másolatot ebből az értesítésből.
+
+3. Az űrlapot minden esetben ki kell tölteni, ha a hajó nem tartozik a 2000/59/EK irányelv 9. cikkében meghatározott kivételek körébe.
+
+INFORMATION TO BE NOTIFIED BEFORE ENTRY INTO THE PORT OF …
 
 (Port of destination as referred to in Article 6 of Directive 2000/59/EC)
 
-1. Name, call sign and, where appropriate, IMO identification number of the ship:
+1. Name, call sign and, where appropriate, IMO identification number of the ship:
 
-2. Flag State: Republic of Hungary
+2. Flag State:
 
-3. Estimated time of arrival (ETA):
+3. Estimated time of arrival (ETA):
 
-4. Estimated time of departure (ETD):
+4. Estimated time of departure (ETD):
 
-5. Previous port of call:
+5. Previous port of call:
 
 6. Next port of call:
 
-7. Last port and date when ship-generated waste was delivered:
+7. Last port and date when ship-generated waste was delivered, including the quantities (in m3) and the types of waste that were delivered:
 
-8. Are you delivering (tick appropriorate box)
+8. Are you delivering (tick appropriate box):
 
-all ⬜ some ⬜ none ⬜
+|  | all □ | some □ | none □ |
 
 of your waste into port reception facilities?
 
 9. Type and amount of waste and residues to be delivered and/or remaining on board, and percentage of maximum storage capacity:
 
-If delivering all waste, complete second column as appropriate.
+If delivering all waste, complete second and last columns as appropriate. If delivering some or no waste, complete all columns.
 
-If delivering some or no waste, complete all columns.
-
-| Type | Waste to be delivered m3 | Maximum dedicated storage capacity m3 | Amount of waste retained on board m3 | Port at which remaining waste will be delivered | Estimated amount of waste to be generated between notification and next port of call m3 |
+| Type | Waste to be delivered (m3) | Maximum dedicated storage capacity (m3) | Amount of waste retained on board (m3) | Port at which remaining waste will be delivered | Estimated amount of waste to be generated between notification and next port of call (m3) | Waste that has been delivered at the last port of delivery identified under point 7 above (m3) |
 
 | Waste oils |
 
-| Sludge |  |  |  |  |  |
+| Oily bilge water |  |  |  |  |  |  |
 
-| Bilge water |  |  |  |  |  |
+| Oily residues (sludge) |  |  |  |  |  |  |
 
-| Others (specify) |  |  |  |  |  |
+| Other (specify) |  |  |  |  |  |  |
+
+| Sewage (1) |  |  |  |  |  |  |
 
 | Garbage |
 
-| Food waste |  |  |  |  |  |
+| Plastics |  |  |  |  |  |  |
 
-| Plastic |  |  |  |  |  |
+| Food Wastes |  |  |  |  |  |  |
 
-| Other |  |  |  |  |  |
+| Domestic wastes (e.g. paper products, rags, glass, metal, bottles, crockery, etc.) |  |  |  |  |  |  |
 
-| Sewage1 |  |  |  |  |  |
+| Cooking Oil |  |  |  |  |  |  |
 
-| Cargo-associated Waste2(specify) |  |  |  |  |  |
+| Incinerator ashes |  |  |  |  |  |  |
 
-| Cargo residues2 (specify) |  |  |  |  |  |
+| Operational wastes |  |  |  |  |  |  |
 
-| 1 Sewage may be discharged at sea in accordance with Regulation 11 of Annex IV of Marpol 73/78. The corresponding boxes do not need to be completed if it is the intention to make an authorised discharge at sea. 2 May be estimates. |
+| Animal carcass(es) |  |  |  |  |  |  |
 
-Notes:
+| Cargo residues (2) (specify) (3) |  |  |  |  |  |  |
 
-1. This information may be used for port State control and other inspection purposes.
+(1) Sewage may be discharged at sea in accordance with Regulation 11 of Marpol Annex IV. The corresponding boxes do not need to be completed if it is the intention to make an authorised discharge at sea.
 
-2. Member States will determine which bodies will receive copies of this notification.
+(2) May be estimates.
 
-3. This form is to be completed unless the ship is covered by an exemption in accordance with Article 9 of Directive 2000/59/EC.
+(3) Cargo residues shall be specified and categorised according to the relevant Annexes of Marpol, in particular Marpol Annexes I, II and V.
 
-I confirm that
+Notes
 
-– the above details are accurate and correct and
+1. This information may be used for port State control and other inspection purposes.
 
-– there is sufficient dedicated onboard capacity to store all waste generated between notification and the next port at which waste will be delivered.
+2. Member States will determine which bodies will receive copies of this notification.
 
-Date
+3. This form is to be completed unless the ship is covered by an exemption in accordance with Article 9 of Directive 2000/59/EC.
 
-Time
+I confirm that:
 
-Signature
+— the above details are accurate and correct, and
+
+— there is sufficient dedicated onboard capacity to store all waste generated between notification and the next port at which waste will be delivered.
+
+Date …
+
+Time …
+
+Signature.
 
 [^1]: A 8. § a 38/2008. (XII. 20.) KHEM rendelet 1. §-ával megállapított szöveg.
-[^2]: A melléklet a 38/2008. (XII. 20.) KHEM rendelet 2. §-ával megállapított, a 91/2011. (XII. 30.) NFM rendelet 46. §-a szerint módosított szöveg.
+[^2]: A 8. § c) pontját az 52/2016. (XII. 9.) NFM rendelet 3. §-a iktatta be.
+[^3]: A melléklet az 52/2016. (XII. 9.) NFM rendelet 4. §-ával megállapított szöveg.
