@@ -192,7 +192,7 @@
 
 ## Bridgewater-csatorna Az egész csatorna
 
-2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^51]
+2. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^53]
 
 Az 1., 2., 3. és 4. zónába sorolt belvízi utakon
 
@@ -2492,7 +2492,7 @@ A vontatásra alkalmas géphajókat és tolóhajókat fel kell szerelni legaláb
 
 (e) Egy csáklya.
 
-(f) Külön jogszabályban[^52] megállapított elsősegélynyújtó felszerelés. Az elsősegélynyújtó felszerelést a lakótérben vagy a kormányállásban kell tartani úgy, hogy szükség esetén könnyen és biztonságosan elérhető legyen. Ha az elsősegélynyújtó felszerelést lefedve tárolják, a fedelet a 10. melléklet 8. ábráján látható, legalább 10 cm oldalhosszúságú jellel meg kell jelölni.
+(f) Külön jogszabályban[^54] megállapított elsősegélynyújtó felszerelés. Az elsősegélynyújtó felszerelést a lakótérben vagy a kormányállásban kell tartani úgy, hogy szükség esetén könnyen és biztonságosan elérhető legyen. Ha az elsősegélynyújtó felszerelést lefedve tárolják, a fedelet a 10. melléklet 8. ábráján látható, legalább 10 cm oldalhosszúságú jellel meg kell jelölni.
 
 (g) Egy távcső, amely legalább 7x50 lencseátmérőjű.
 
@@ -4926,13 +4926,9 @@ Eltérések bizonyos vitorlás személyhajók esetében
 
 Vitorláshajókra vonatkozó stabilitási követelmények
 
-1. A 15.03 cikk 3. pont szerinti billentő nyomaték kiszámításánál a hajó rendszersúlypontjának meghatározásához a behúzott vitorlákat figyelembe kell venni.
-
-2. A 15.03 cikk 2. pontja szerinti valamennyi terhelési eset figyelembevételével, továbbá a vitorlák standard elrendezésének alkalmazásával, a szélnyomás által okozott billentő nyomaték nem lehet olyan magas, hogy túllépje a 20°-os dőlésszöget. Ugyanakkor
-
-[^51]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. §-a, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a szerint módosított szöveg.
+[^53]: A 2. számú mellékletet a 9/2008. (III. 21.) GKM rendelet 12. §-a iktatta be, szövege a 9/2009. (III. 6.) KHEM rendelet 9. §-a, a 11/2009. (III. 18.) KHEM rendelet 3. § (2) bekezdése, valamint 4. § (2) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 13. §-a, a 34/2010. (IV. 22.) KHEM rendelet 6. §-a, a 91/2011. (XII. 30.) NFM rendelet 16. § a) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (2) bekezdése, 11. §-a és 12. §-a, a 10/2015. (III. 11.) NFM rendelet 4. §-a és 6. §-a, az 52/2016. (XII. 9.) NFM rendelet 2. § (1) bekezdése szerint módosított szöveg.
 [^*]: * Kihirdette a 2001. évi XI. törvény
 [^**]: ** Kihirdette a 2003. évi LXV. törvény
 [^***]: *** Kihirdette a 2001. évi X. törvény
 [^*]: * 39/2003. (VI. 13.) GKM rendelet a víziközlekedés rendjéről.
-[^52]: 6/2000. (III. 17.) KHVM rendelet az úszólétesítmények gyógyszerszekrénnyel való felszereléséről és egyes úszólétesítményeken az orvosi szolgálat rendszeresítéséről, 1. számú melléklet II. rész
+[^54]: 6/2000. (III. 17.) KHVM rendelet az úszólétesítmények gyógyszerszekrénnyel való felszereléséről és egyes úszólétesítményeken az orvosi szolgálat rendszeresítéséről, 1. számú melléklet II. rész

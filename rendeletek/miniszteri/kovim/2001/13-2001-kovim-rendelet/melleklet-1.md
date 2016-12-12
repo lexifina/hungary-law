@@ -1,4 +1,4 @@
-1. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^50]
+1. melléklet a 13/2001. (IV. 10.) KöViM rendelethez[^52]
 
 A FÖLDRAJZILAG AZ 1., 2., 3. ÉS 4. HAJÓZÁSI ZÓNÁBA TARTOZÓ KÖZÖSSÉGI BELVÍZI UTAK JEGYZÉKE
 
@@ -878,4 +878,4 @@ III. FEJEZET
 
 4. zóna
 
-[^50]: Az eredeti melléklet számozását 1. mellékletre változtatta és szövegét megállapította a 9/2008. (III. 21.) GKM rendelet 12. §-a. Az 1. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (1) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 12. §-a, 91/2011. (XII. 30.) NFM rendelet 16. § b) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (1) bekezdése szerint módosított szöveg.
+[^52]: Az eredeti melléklet számozását 1. mellékletre változtatta és szövegét megállapította a 9/2008. (III. 21.) GKM rendelet 12. §-a. Az 1. számú melléklet a 11/2009. (III. 18.) KHEM rendelet 3. § (1) bekezdése, az 1/2010. (I. 8.) KHEM rendelet 12. §-a, 91/2011. (XII. 30.) NFM rendelet 16. § b) pontja, a 29/2014. (V. 5.) NFM rendelet 10. § (1) bekezdése szerint módosított szöveg.
