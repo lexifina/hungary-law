@@ -1,3 +1,3 @@
-## 11–12. §[^1]
+## 12. §[^17] E rendelet 1. § (1) és (2) bekezdése, 2. § (1) bekezdés 1. pont b) alpontja és 1a. pontja, 3. §-a, 2/A–2/C. alcíme, 9/A. §-a, 10. § (2) bekezdése és 11. §-a tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535/EU európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-[^1]: A 11–12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^17]: A 12. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 79/2016. (XII. 12.) FM rendelet 7. §-a iktatta be.

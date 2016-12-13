@@ -1,3 +1,5 @@
+## előírt információkat magyar nyelven kell feltüntetni.
+
 ## 3. Tételazonosító jelölés
 
 8. § (1) A (2) bekezdésben foglalt esetek kivételével élelmiszer kizárólag tételazonosító jelöléssel ellátva hozható forgalomba.
