@@ -22,7 +22,7 @@ cc) megfelel az a) pontban foglalt feltételeknek,
 
 cd) a hitelszerződés módosítása esetén annak bekövetkezésétől számított harminc napon belül az új hitelszerződés másolatának megküldését vállalja az MVH részére;
 
-d)[^13] csatolja a kamattámogatási kérelméhez a 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott nyilatkozatokat, valamint a 2. § (2) bekezdés d) pontjában foglalt támogatás igénylése esetén az MVH honlapján elérhető ügyfélkapun keresztül kinyomtatott egységes kérelem ügyfél- és iratazonosításra vonatkozó, valamint az egységes kérelem kockázatkezelés szempontjából releváns terület alapján „ültetvény” besorolású terület területalapú támogatásának tábla adatait tartalmazó adatlapjait vagy a biztosítási díjtámogatás adatlapját, és
+d)[^22] csatolja a kamattámogatási kérelméhez a 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott nyilatkozatokat, valamint a 2. § (2) bekezdés d) pontjában foglalt támogatás igénylése esetén az MVH honlapján elérhető ügyfélkapun keresztül kinyomtatott egységes kérelem ügyfél- és iratazonosításra vonatkozó, valamint az egységes kérelem kockázatkezelés szempontjából releváns terület alapján „ültetvény” besorolású terület területalapú támogatásának tábla adatait tartalmazó adatlapjait vagy a biztosítási díjtámogatás adatlapját, és
 
 e) meghatalmazza a pénzügyi intézményt, hogy a kamattámogatás támogatástartalmának zárolása, lekötése – szükség esetén – felszabadítása érdekében, továbbá a megelőlegezett kamattámogatás lehívásával kapcsolatban az MVH előtt eljárjon.
 
@@ -32,7 +32,7 @@ a) a kamattámogatási kérelem benyújtását követő öt napon belül – a v
 
 b) a kamattámogatási kérelemben megjelölt támogatás támogatástartalmát a 2. mellékletben meghatározott módszertan szerint számolja ki,
 
-c)[^14] a vállalkozás számára rendelkezésre álló szabad csekély összegű keret figyelembevételével – önálló kamattámogatási kérelem és kiegészítő kamattámogatási kérelem esetén az MVH-tól kapott csekély összegű keretre vonatkozó adatok rendelkezésre állását követő öt napon belül, hitelkérelemhez kapcsolódó kamattámogatási kérelem esetén a hitelkérelem pénzügyi intézmény általi elbírálását követő öt napon belül – záradékkal látja el a kamattámogatási kérelmet, és
+c)[^23] a vállalkozás számára rendelkezésre álló szabad csekély összegű keret figyelembevételével – önálló kamattámogatási kérelem és kiegészítő kamattámogatási kérelem esetén az MVH-tól kapott csekély összegű keretre vonatkozó adatok rendelkezésre állását követő öt napon belül, hitelkérelemhez kapcsolódó kamattámogatási kérelem esetén a hitelkérelem pénzügyi intézmény általi elbírálását követő öt napon belül – záradékkal látja el a kamattámogatási kérelmet, és
 
 d) a b) pont szerint kiszámított támogatástartalmat a kamattámogatási kérelem adataival együtt megküldi az MVH részére.
 
@@ -42,5 +42,5 @@ d) a b) pont szerint kiszámított támogatástartalmat a kamattámogatási kér
 
 (5) A pénzügyi intézmény és az MVH az eljárás során megvalósuló adatszolgáltatást elektronikus úton teljesíti.
 
-[^13]: A 4. § (1) bekezdés d) pontja az 51/2016. (VII. 21.) FM rendelet 25. §-ával megállapított szöveg.
-[^14]: A 4. § (2) bekezdés c) pontja a 77/2015. (XII. 1.) FM rendelet 15. § (6) bekezdés a) pontja szerint módosított szöveg.
+[^22]: A 4. § (1) bekezdés d) pontja az 51/2016. (VII. 21.) FM rendelet 25. §-ával megállapított szöveg.
+[^23]: A 4. § (2) bekezdés c) pontja a 77/2015. (XII. 1.) FM rendelet 15. § (6) bekezdés a) pontja szerint módosított szöveg.
