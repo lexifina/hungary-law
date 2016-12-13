@@ -1,3 +1,5 @@
-## 13. § Ez a rendelet – az Msztv.-vel és az R.-rel együtt – a termékek forgalomba hozatalának közös keretrendszeréről, valamint a 93/465/EGK tanácsi határozat hatályon kívül helyezéséről szóló, 2008. július 9-i 768/2008/EK európai parlamenti és tanácsi határozat I. melléklet R15. cikk (3) bekezdésével, R17. cikk (6) bekezdés a) pontjával és (7) bekezdés a) pontjával, R17. cikk (9) és (11) bekezdésével, R20. cikk (1) bekezdésével, R22. cikkével, valamint R28. cikkével összhangban álló szabályozást tartalmaz.
+## 14. §[^9] A nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló rendelet hatályba lépése előtt kiadott engedélyek 2021. augusztus 31-én hatályukat vesztik.
 
 1. melléklet az 5/2010. (I. 14.) NFGM rendelethez
+
+[^9]: A 14. §-t a 44/2016. (XI. 28.) NGM rendelet 50. § (4) bekezdése iktatta be.

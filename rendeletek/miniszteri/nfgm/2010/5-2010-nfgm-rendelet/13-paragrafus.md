@@ -1,3 +1,3 @@
-## 12. §[^4]
+## 12. §[^8]
 
-[^4]: A 12. §-t a (2) bekezdés hatályon kívül helyezte.
+[^8]: A 12. §-t a (2) bekezdés hatályon kívül helyezte.

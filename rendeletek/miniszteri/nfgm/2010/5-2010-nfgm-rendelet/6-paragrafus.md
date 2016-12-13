@@ -1,4 +1,4 @@
-## 5. § Az engedély határozatlan időre szól.
+## 5. §[^5] Az engedély 5 évig hatályos.
 
 ## A felelősségbiztosítási szerződésre vonatkozó követelmények
 
@@ -7,3 +7,5 @@
 (2) A kijelölő hatóság a kérelmezett megfelelőségértékelési terület nagyságától, így a megfelelőségértékelési tevékenységek, termékek és megfelelőségértékelési eljárások számától függően – mérlegelve a kérelmező szervezet korábban történt kijelöléseinek számát is – előírhatja a 2. mellékletben megadott összeghatár legfeljebb 100%-kal való megnövelését.
 
 (3) Ha a kérelmező szervezet a kijelölést több jogszabály szerinti megfelelőségértékelési területre kéri, az egyes jogszabályokhoz tartozó összeghatárokat össze kell adni.
+
+[^5]: Az 5. § a 44/2016. (XI. 28.) NGM rendelet 50. § (2) bekezdésével megállapított szöveg.
