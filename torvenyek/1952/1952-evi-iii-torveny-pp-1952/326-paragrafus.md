@@ -50,7 +50,7 @@ i) az árak megállapításáról szóló törvény,
 
 j) a foglalkoztatás elősegítéséről és a munkanélküliek ellátásáról szóló törvény,
 
-k) a nemzeti akkreditálásról szóló törvény,
+k)
 
 l) a Magyarország címerének és zászlajának használatáról, valamint állami kitüntetéseiről szóló törvény,
 
