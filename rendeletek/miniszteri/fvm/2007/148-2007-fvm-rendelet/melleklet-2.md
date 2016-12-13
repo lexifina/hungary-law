@@ -88,7 +88,7 @@
 
 ## Mintavételi eljárások esetében, amennyiben az állatokat többféle betegség kapcsán szeretnék bevizsgálni, azt csak egyszeri vérvétellel lehet megtenni (többszörös vérvétel nem számolható el).
 
-2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^89]
+2. számú melléklet a 148/2007. (XII. 8.) FVM rendelethez[^95]
 
 ## Jóváhagyási kérelem adattartalma
 
@@ -148,11 +148,11 @@
 
 4.6. arról, hogy az állat-egészségügyi szaktanácsadási tevékenységre vonatkozó támogatás igényelése esetén rendelkezik az állatállomány állat-egészségügyi ellátására vonatkozó írásbeli szerződéssel.
 
-4.7.[^90] arról, hogy a kérelmezővel szemben nincs érvényben valamely támogatás visszafizetésére kötelező olyan európai bizottsági határozat, amely a kérelmező támogatásban részesítését jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította;
+4.7.[^96] arról, hogy a kérelmezővel szemben nincs érvényben valamely támogatás visszafizetésére kötelező olyan európai bizottsági határozat, amely a kérelmező támogatásban részesítését jogellenesnek és a belső piaccal összeegyeztethetetlennek nyilvánította;
 
-4.8.[^91] arról, hogy a mezőgazdasági csekély összegű támogatás igénylése esetén a kérelmező nem minősül a 37/2011. (III. 22.) Korm. rendelet 6. §-a szerinti nehéz helyzetben lévő vállalkozásnak;
+4.8.[^97]
 
-4.9.[^92] arról, hogy ha a 3. pont 3. és 4. alpontjában a D001 és D002 technikai kódú betegség került megjelölésre, akkor
+4.9.[^98] arról, hogy ha a 3. pont 3. és 4. alpontjában a D001 és D002 technikai kódú betegség került megjelölésre, akkor
 
 a) a kérelmező a halászati és akvakultúra-termékek piacának közös szervezéséről, az 1184/2006/EK és az 1224/2009/EK tanácsi rendelet módosításáról, valamint a 104/2000/EK tanácsi rendelet hatályon kívül helyezéséről szóló, 2013. december 11-ei 1379/2013/EU európai parlamenti és tanácsi rendelet 5. cikk b) pontja szerinti terméket előállító vállalkozásnak minősül, és
 
@@ -166,7 +166,7 @@ b) a kérelmező az állategészségügyi szolgáltatást nem genetikailag módo
 
 A hatósági állatorvos igazolása a hazai és közösségi állat-egészségügyi és állatjóléti jogszabályok által előírt feltételek teljesítéséről.
 
-[^89]: A 2. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés b) pontjável megállapított szöveg.
-[^90]: A 2. melléklet 4. pont 4.7. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
-[^91]: A 2. melléklet 4. pont 4.8. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
-[^92]: A 2. melléklet 4. pont 4.9. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^95]: A 2. számú melléklet a 40/2015. (VII. 13.) FM rendelet 2. § (10) bekezdés b) pontjável megállapított szöveg.
+[^96]: A 2. melléklet 4. pont 4.7. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^97]: A 2. melléklet 4. pont 4.8. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 78/2016. (XII. 12.) FM rendelet 9. § d) pontja.
+[^98]: A 2. melléklet 4. pont 4.9. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.

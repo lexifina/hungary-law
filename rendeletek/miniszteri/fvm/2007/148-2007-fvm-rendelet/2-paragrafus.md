@@ -20,7 +20,7 @@ g)[^6] akvakultúra-ágazati vállalkozás: a halászati és akvakultúra-termé
 
 h)[^7] vágóhíd: az állati eredetű élelmiszerek különleges higiéniai szabályainak megállapításáról szóló, 2004. április 29-i 853/2004/EK európai parlamenti és tanácsi rendelet 1. számú mellékletének 1. pont 16. alpontja alapján olyan állatok levágására és zsigerelésére szolgáló létesítmény, amelyek húsát emberi fogyasztásra szánják, és az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 35. § (1) bekezdése szerinti engedéllyel rendelkező létesítmény;
 
-i)[^8] vemhes üsző: tejhasznú vagy kettőshasznú fajtához tartozó, legalább huszonnégy hónapos, vemhes, nőivarú szarvasmarha.
+i)[^8] vemhes üsző: legalább 3 hónapos vemhességű, tejhasznú vagy kettőshasznú fajtához tartozó nőivarú szarvasmarha az első ellésig.
 
 [^1]: A 2. § b) pontja a 22/2014. (III. 14.) VM rendelet 53. § a) pontja szerint módosított szöveg.
 [^2]: A 2. § c) pontját a 23/2011. (III. 28.) VM rendelet 1. §-a iktatta be.
@@ -29,4 +29,4 @@ i)[^8] vemhes üsző: tejhasznú vagy kettőshasznú fajtához tartozó, legalá
 [^5]: A 2. § f) pontját a 40/2015. (VII. 13.) FM rendelet 2. § (1) bekezdése iktatta be.
 [^6]: A 2. § g) pontját a 4/2016. (I. 20.) FM rendelet 1. §-a iktatta be.
 [^7]: A 2. § h) pontját a 65/2016. (IX. 21.) FM rendelet 1. §-a iktatta be.
-[^8]: A 2. § i) pontját a 65/2016. (IX. 21.) FM rendelet 1. §-a iktatta be.
+[^8]: A 2. § i) pontja a 78/2016. (XII. 12.) FM rendelet 1. §-ával megállapított szöveg.
