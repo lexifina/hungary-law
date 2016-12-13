@@ -1,0 +1,19 @@
+## 6. A forgalmazó kötelezettségei
+
+6. § (1) A forgalmazó a termék forgalmazásakor az e rendeletben előírt követelményekkel kapcsolatban kellő gondossággal jár el. A 38. § (1) és (2) bekezdése szerinti nyomástartó berendezés vagy rendszer forgalmazását megelőzően a forgalmazó köteles megbizonyosodni arról, hogy a nyomástartó berendezésen vagy rendszeren fel van-e tüntetve a CE megfelelőségi jelölés, és mellékelték-e hozzá a szükséges dokumentációt, valamint a 3. melléklet 3.3. és 3.4. pontja szerinti használati útmutatót és a biztonsági tájékoztatót magyar nyelven, továbbá arról is, hogy a gyártó és az importőr teljesítette a 3. § (5) és (6) bekezdésében, valamint az 5. § (7) bekezdésében meghatározott, a gyártóra, illetve az importőrre vonatkozó követelményeket.
+
+(2) Ha a termék nem felel meg a 3. mellékletben vagy a 6. mellékletben előírt alapvető biztonsági követelményeknek, a forgalmazó nem forgalmazhatja mindaddig, amíg azt megfelelővé nem tették.
+
+(3) Ha a termék kockázatot jelent, a forgalmazó tájékoztatja erről a gyártót vagy az importőrt, valamint azonnal tájékoztatja azon tagállamok piacfelügyeleti hatóságait, amelyekben a terméket forgalmazzák, részletes tájékoztatást adva a megfelelés hiányáról és valamennyi megtett kiigazító intézkedésről.
+
+(4) A 38. § (3) bekezdése szerinti nyomástartó berendezés vagy rendszer forgalmazását megelőzően a forgalmazó köteles megbizonyosodni arról, hogy a nyomástartó berendezéshez vagy rendszerhez mellékeltek használati útmutatót magyar nyelven, továbbá arról is, hogy a gyártó és az importőr teljesítette a 3. § (5) és (6) bekezdésében, valamint az 5. § (7) bekezdésében meghatározott követelményeket.
+
+(5) A 45. § (1) bekezdésében meghatározott egyszerű nyomástartó edény forgalmazását megelőzően a forgalmazó köteles ellenőrizni, hogy az edényen fel van-e tüntetve a CE megfelelőségi jelölés és a 8. melléklet 1. pontjában előírt feliratok, mellékelték-e hozzá az előírt dokumentációt, a 8. melléklet 3. pontja szerinti használati utasítást és biztonsági tájékoztatót magyar nyelven, továbbá hogy a gyártó megfelelt-e a 3. § (5) és (6) bekezdésében, és az importőr az 5. § (7) bekezdésében meghatározott követelményeknek.
+
+(6) A 45. § (2) bekezdésében meghatározott egyszerű nyomástartó edény forgalmazását megelőzően a forgalmazó köteles ellenőrizni, hogy az edényen fel vannak-e tüntetve a 8. melléklet 2.1. pontjában előírt feliratok, mellékelték-e hozzá a 8. melléklet 3. pontja szerinti használati útmutatót és biztonsági tájékoztatót magyar nyelven, és hogy a gyártó megfelelt-e a 3. § (5) és (6) bekezdésében, és az importőr az 5. § (7) bekezdésében meghatározott követelményeknek.
+
+(7) A forgalmazó biztosítja, hogy a forgalmazás időszaka alatt a termék tárolásának és a szállításának körülményei ne veszélyeztessék a 3. mellékletben, valamint a 6. mellékletben meghatározott követelményeknek való megfelelését.
+
+(8) Az a forgalmazó, aki tudomással bír arról, hogy az általa forgalmazott termék nem felel meg az e rendeletben foglalt követelményeknek, megteszi a szükséges kiigazító intézkedéseket a nyomástartó berendezés vagy rendszer megfelelőségének biztosítására, vagy gondoskodik arról, hogy a terméket kivonják a forgalomból vagy visszahívják azt. A megtett intézkedéseiről haladéktalanul tájékoztatja a gyártót, az importőrt, továbbá a piacfelügyeleti hatóságot is, megjelölve az intézkedések szükségességének okát, a megtett intézkedéseket és azok eredményét.
+
+(9) A forgalmazó a piacfelügyeleti hatóság kérésére a piacfelügyeleti hatóság rendelkezésére bocsátja a termék megfelelőségének igazolásához szükséges összes információt és dokumentációt. Az információt és a dokumentációt a hatóság által kért nyelven és módon kell a hatóság rendelkezésére bocsátani. A forgalmazó köteles együttműködni a piacfelügyeleti hatósággal minden olyan intézkedés terén, amelyet az általa forgalomba hozott termék jelentette kockázat kiküszöbölése érdekében tesz.
