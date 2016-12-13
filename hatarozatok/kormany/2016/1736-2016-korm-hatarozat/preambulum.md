@@ -1,0 +1,1 @@
+A Kormány Modern Városok Program megvalósításáról szóló 250/2016. (VIII. 24.) Korm. rendelet végrehajtása érdekében, az államháztartásról szóló 2011. évi CXCV. törvény 33. § (2) bekezdésében biztosított jogkörében eljárva
