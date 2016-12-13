@@ -1,1 +1,0 @@
-## 2. Az Európai Gazdasági Térség kikötőibe érkező, ott tartózkodó, illetve onnan induló magyar lajstromba bejegyzett tengeri hajókon keletkező hulladékok és rakománymaradványok kiürítéséről szóló 67/2005. (IX. 13.) GKM rendelet módosítása
