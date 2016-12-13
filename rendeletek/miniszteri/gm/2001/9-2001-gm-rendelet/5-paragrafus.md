@@ -1,3 +1,0 @@
-## II. Fejezet
-
-## KÖZÖS SZABÁLYOK
