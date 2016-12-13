@@ -108,8 +108,10 @@ c) a gázt szállítható nyomástartó berendezésből nyomástartó berendezé
 
 33. Üzemeltetői ellenőrző szervezet: a rendelet hatálya alá tartozó nyomástartó berendezések időszakos vizsgálatára az üzemeltető által létrehozott szervezet, amely megfelel e rendeletben foglalt feltételeknek.
 
-34. Veszélyes töltet: R.-ben meghatározott veszélyes töltet.
+34.[^3] Veszélyes töltet: az R. 41. § (3) bekezdésében meghatározott veszélyes töltet.
 
 35. Vizsgáló szakember: a Kormány által rendeletben meghatározott szakirányú szakképzettséggel és szakmai gyakorlattal rendelkező, a nyomástartó berendezések ellenőrzésével, vizsgálatával megbízott személy.
 
 36. Vizsgáló szervezet: a Kormány által rendeletben meghatározott műszaki-biztonsági irányítási rendszer (a továbbiakban: MBIR) működtetésében közreműködő, a nyomástartó berendezések időszakos vizsgálatára a Magyar Kereskedelmi Engedélyezési Hivatal által kijelölt ellenőrző szervezet.
+
+[^3]: A 2. § 34. pontja a 44/2016. (XI. 28.) NGM rendelet 52. § (3) bekezdésével megállapított szöveg.

@@ -10,7 +10,7 @@ c) a kisteljesítményű sűrített gáztöltő berendezés
 
 (a továbbiakban együttesen: berendezés) létesítését tervező, létesítését, üzembe helyezését, üzembe vételét, üzemeltetését, átalakítását, javítását, időszakos ellenőrzését és megszüntetését végző természetes személyre, gazdálkodó szervezetre.
 
-(2) E rendeletnek az időszakos ellenőrzésre, valamint a soron kívüli ellenőrzésre vonatkozó előírásait a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló 9/2001. (IV. 5.) GM rendelet (a továbbiakban: R.) szabályozási körébe tartozó, hordozható tűzoltó készülékek és a légzőkészülékek palackjai esetében is alkalmazni kell.
+(2)[^1] E rendeletnek az időszakos ellenőrzésre, valamint a soron kívüli ellenőrzésre vonatkozó előírásait a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló rendelet (a továbbiakban: R.) szabályozási körébe tartozó, hordozható tűzoltó készülékek és a légzőkészülékek palackjai esetében is alkalmazni kell.
 
 (3) E rendeletnek az autógáz tartályok időszakos ellenőrzésére vonatkozó előírásait a gázüzemű közúti járművek és munkagépek üzemanyag-ellátó berendezésébe épített, az üzemben tartó által tölthető autógáz tartály időszakos ellenőrzése esetében alkalmazni kell.
 
@@ -36,19 +36,19 @@ i) az aeroszol termékek és aeroszol csomagolások forgalmazásának követelm�
 
 j) a járművek működéséhez készült berendezésekre, amelyek a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló 6/1990. (IV. 12.) KÖHÉM rendelet hatálya alá tartoznak, az autógáztartályok kivételével,
 
-k) a berendezésekre, ha az legfeljebb az R. 17. § szerinti I. kategóriába tartozik és a következő jogszabályok egyike vonatkozik rá:
+k)[^2] a berendezésre, ha az legfeljebb az R. 41. § szerinti I. kategóriába tartozik és a következő jogszabályok egyike vonatkozik rá:
 
-ka) a gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló 16/2008. (VIII. 30.) NFGM rendelet,
+ka) a gépek biztonsági követelményeiről és megfelelőségének tanúsításáról szóló NFGM rendelet,
 
-kb) a felvonók biztonsági követelményeiről és megfelelőségének tanúsításáról szóló 108/2001. (XII. 23.) FVM–GM együttes rendelet,
+kb) a felvonók és a felvonókhoz készült biztonsági berendezések biztonsági követelményeiről és megfelelőségének tanúsításáról szóló NGM rendelet,
 
-kc) az egyes villamossági termékek biztonsági követelményeiről és azoknak való megfelelőség-értékeléséről szóló 79/1997. (XII. 31.) IKIM rendelet,
+kc) a meghatározott feszültséghatáron belüli használatra tervezett villamossági termékek forgalmazásáról, biztonsági követelményeiről és az azoknak való megfelelőség értékeléséről szóló NGM rendelet,
 
-kd) az orvostechnikai eszközökről szóló 4/2009. (III. 17.) EüM rendelet,
+kd) az orvostechnikai eszközökről szóló EüM rendelet,
 
-ke) az egyes gázfogyasztó készülékek kialakításáról és megfelelőségének tanúsításáról szóló 22/1998. (IV. 17.) IKIM rendelet,
+ke) az egyes gázfogyasztó készülékek kialakításáról és megfelelőségének tanúsításáról szóló rendelet,
 
-kf) a potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések, védelmi rendszerek vizsgálatáról és tanúsításáról szóló 8/2002. (II. 16.) GM rendelet;
+kf) a potenciálisan robbanásveszélyes környezetben történő alkalmazásra szánt berendezések és védelmi rendszerek vizsgálatáról és tanúsításáról szóló rendelet;
 
 l) a kizárólag haditechnikai célú berendezésekre,
 
@@ -85,3 +85,6 @@ y) azokra az egyszerű nyomástartó edényekre,
 ya) amelyeket kizárólag a nukleáris technika területén használnak, és amelyek sérülése esetén radioaktív anyag szabadulhat ki,
 
 yb) amelyek kizárólag vízi vagy légi közlekedési jármű hajtására szükségesek vagy speciális felszerelésükhöz tartoznak.
+
+[^1]: Az 1. § (2) bekezdése a 44/2016. (XI. 28.) NGM rendelet 52. § (1) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (4) bekezdés k) pontja a 44/2016. (XI. 28.) NGM rendelet 52. § (2) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-## 38. §[^1]
+## 38. §[^4]
 
 1. melléklet a 2/2016. (I. 5.) NGM rendelethez
 
@@ -36,4 +36,4 @@ h) Folyadék töltetű csővezeték, azzal jellemezve, hogy töltete a veszélye
 
 i) Folyadék töltetű csővezeték, azzal jellemezve, hogy töltete nem tartozik a veszélyes anyagok csoportjába: ha a nyomása (PS) nagyobb, mint 10 bar, DN értéke nagyobb, mint 200 és a PS × DN szorzat nagyobb, mint 10 000 bar.
 
-[^1]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 38. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
