@@ -1,0 +1,1 @@
+A Kormány a Nemzeti Tehetség Program elfogadásáról, a Nemzeti Tehetség Program finanszírozásának elveiről, valamint a Nemzeti Tehetségügyi Koordinációs Fórum létrehozásának és működésének elveiről szóló 126/2008. (XII. 4.) OGY határozat 1. számú mellékleteként elfogadott, 2008–2028. évekre vonatkozó Nemzeti Tehetség Programban meghatározott célkitűzések végrehajtása érdekében

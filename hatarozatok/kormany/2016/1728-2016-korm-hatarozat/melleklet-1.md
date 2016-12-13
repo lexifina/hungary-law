@@ -1,0 +1,341 @@
+## 1. elfogadja a Nemzeti Tehetség Program végrehajtásának 2017–2018. évi cselekvési programját (a továbbiakban: Cselekvési Program) az 1. melléklet szerint, azzal, hogy a Cselekvési Programot a rendelkezésre álló források figyelembevételével kell végrehajtani;
+
+## 2. meghatározza a Cselekvési Program kiemelt fejlesztési területeit, amelyek magukban foglalják
+
+## a) egységes, komplex, nemzeti tehetségazonosítási, kiválasztási és az egyéni fejlesztésen alapuló tehetséggondozó rendszer működtetését,
+
+## b) a rendelkezésre álló források költséghatékony felhasználását, a források felhasználásának összehangolását, a tehetséggondozó programok támogatási rendszerének egyszerűsítését, a magyar tehetségsegítés eredményeinek hazai, az Európai Unió tagállamaival és más államokkal való megismertetését, a hazai tehetséggondozó rendszer nemzetközi szerepvállalásának erősítését,
+
+## c) tehetségsegítő programok folyamatos működtetését, a tehetségsegítő hagyományok őrzését és gazdagítását, a hazai, a hazai nemzetiségi és a határon túli magyar tehetségfejlesztő közösségek nemzeti együttműködésének segítését, tudományos tájékozottságuk bővítését, nemzetközi kapcsolatrendszerük fejlesztését,
+
+## d) hosszú távú, kiszámítható és komplex tehetségfejlesztő programok, nagy hagyományú és szakmailag elismert tanulmányi és művészeti versenyek megvalósításának támogatását,
+
+## e) a tehetségazonosítás és tehetséggondozás szervezeti rendszeréhez való hozzáférés esélyeinek javítását, különös tekintettel a kettős vagy többszörös különlegességű és területi fókusz alapján a kedvezményezett járásokban és településeken élő tehetséges fiatalok tehetségsegítő programokba történő bevonására,
+
+## f) a kiemelkedő tehetségek támogatását,
+
+## g) a tehetség fejlesztését és hasznosulását segítő környezet biztosítását, a tehetséges fiatalok társadalmi felelősségvállalásának erősítését és annak elősegítését, hogy a tehetséges magyar fiatalok tudásukat és tehetségüket hosszú távon Magyarországon kamatoztassák,
+
+## h) a külföldi programokban részt vevő tehetséges magyar fiatalok számára tehetségük kibontakoztatására és továbbfejlesztésére szolgáló hazai lehetőségek megtalálásának elősegítését,
+
+## i) a tehetséggondozásban érintett szereplők szakmai tevékenységének fejlesztését, továbbá
+
+## j) a tehetségsegítő személyek és szervezetek fokozottabb megbecsülését, szakmai elismerését;
+
+## 3. felkéri az érdekelt szervezeteket, hogy működjenek közre a Cselekvési Program végrehajtásában.
+
+1. melléklet az 1728/2016. (XII. 13.) Korm. határozathoz
+
+A Nemzeti Tehetség Program végrehajtásának 2017–2018. évi cselekvési programja
+
+I. A hazai és a határon túli magyar tehetségek támogatása
+
+I.1. Támogatni kell
+
+a) a hazai és határon túli matematikai, természettudományos és digitális kompetenciák erősítését segítő tehetséggondozó programokat;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 300 támogatott program
+
+b) a hazai és határon túli köznevelési intézmények tehetséggondozó programjait;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 350 támogatott program
+
+c) a hazai és határon túli művészeti tehetséggondozó programokat;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 300 támogatott program
+
+d) a hazai és határon túli magyar tehetségígéretek óvodai tehetség-kibontakoztató programjait;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 200 támogatott program
+
+e) a hazai és határon túli kulturális intézmények tehetséggondozó programjait;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 100 támogatott program
+
+f) az innovatív tanulási környezet kialakítását segítő programokat az esélynövelés érdekében;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 7 támogatott program
+
+g) a tehetségsegítés feltételrendszerének javítását;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 100 támogatott program
+
+h) a nemek egyenlő esélyű részvételének biztosítását célzó, speciális tehetséggondozó programokat különös tekintettel azon tehetség- és tudományterületeken, ahol hagyományosan a lányok, nők részvétele alulreprezentált;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 20 támogatott program
+
+i) a hazai és határon túli tematikus, tehetségterületekhez kapcsolódó táborok megszervezését és lebonyolítását;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 20 támogatott program
+
+j) a hazai és határon túli magyar sporttehetségeket fejlesztő tehetséggondozó programokat;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 60 támogatott program
+
+k) a hazai és határon túli magyar kettős vagy többszörös különlegességű magyar tehetségeket támogató, integráló környezetben megvalósuló tehetségsegítő programokat;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 200 támogatott program
+
+l) a hazai nagy hagyományú és szakmailag elismert országos vagy Kárpát-medencei szervezésű tanulmányi és művészeti versenyeket;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 150 verseny
+
+m) a hazai tehetséges, országos versenyeken eredményt elért magyar fiatalok nemzetközi tanulmányi és művészeti versenyeken, hivatalos magyar csapat nemzetközi tudományos diákolimpiákon, valamint tantárgyi világversenyeken való részvételét, továbbá nemzetközi tudományos és művészeti versenyek hazai megrendezését;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 100 támogatott program
+
+n) a hazai és határon túli Tudományos Diákkörök műhelyeit és rendezvényeit, továbbá a hallgatók és oktatók részvételét az Országos Tudományos Diákköri Konferencián (OTDK), az OTDK központi szervezési valamint szekció-lebonyolítási feladatainak ellátását és ehhez kapcsolódóan az OTDK online infrastruktúrájának fejlesztését;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 1500 támogatott hallgató és oktató
+
+legalább 80 támogatott műhely
+
+legalább 18 támogatott program
+
+o) a hazai és határon túli magyar nyelvű felsőoktatási intézmények, valamint ezen intézményekhez kapcsolódó szervezetek tehetséggondozó programjait;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 30 támogatott program
+
+p) a hazai és határon túli magyar nyelvű szakkollégiumokat, a szakkollégiumok tehetséggondozó programjait;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 200 támogatott program
+
+q) a hazai és határon túli magyar pályakezdő, kiemelkedően tehetséges fiatalok példaértékű innovációit és erősíteni kell társadalmi felelősségvállalásukat;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 20 támogatott program
+
+r) a határon túli és külföldön létrejött Tehetségsegítő Információs és Programpontokat (TIPP-eket).
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: 2 TIPP iroda folyamatos működtetése
+
+I.2. A minősített tehetséggondozó műhely címmel rendelkezők számára biztosítani kell a folyamatos támogatást.
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 38 támogatott minősített műhely
+
+I.3. Segíteni kell a kiemelkedően tehetséges hazai és határon túli magyar fiatalokat egyéni igényeiknek megfelelően egyedi fejlesztéssel, ösztöndíj típusú támogatással.
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 1000 támogatott tehetség
+
+II. A hazai és a határon túli magyar tehetséggondozó személyek, szervezetek, közösségek támogatása
+
+II.1. Támogatni kell a hazai és határon túli
+
+a) kiemelkedő tehetséggondozó személyek, szervezetek, közösségek, programok szakmai elismerését, média-megjelenését, valamint a tehetséges magyar fiatalok médián keresztüli megismertetését;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 120 szakmai elismerés
+
+legalább 50 média-megjelenés
+
+b) tehetséggondozó szakemberek, pedagógusok, HR szakemberek és vezetők képzését;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 500 fő képzése
+
+c) Tehetségsegítő Tanácsokat, tehetségfejlesztő vagy tehetségfejlesztését is végző szervezeteket és közösségeket, továbbá a tehetségsegítő szervezetek hálózatosodását és működését;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 60 támogatás
+
+d) tehetségek fejlesztését és hasznosulását segítő környezet kialakítását, a családoknak szóló szemléletformáló programok megvalósítását.
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 40 támogatás
+
+III. A Nemzeti Tehetség Program megvalósításának segítése, szakmai, intézményi és információs rendszerének továbbfejlesztése
+
+III.1. Működtetni kell a Nemzeti Tehetségügyi Koordinációs Fórumot.
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: folyamatos
+
+Indikátor: legalább 4 ülés
+
+III.2. Harmonizálni kell a tehetséggondozást segítő jogi szabályozást.
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: folyamatos
+
+Indikátor: –
+
+III.3. Folytatni kell a tehetséggondozó programok támogatási rendszerének egyszerűsítését.
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: folyamatos
+
+Indikátor: –
+
+III.4. Biztosítani kell a tehetséggondozó szolgáltatásokhoz történő egyenlő hozzáférést, kiemelkedően a hátrányos helyzetű gyerekek és fiatalok, és a kedvezményezett járások besorolásáról szóló kormányrendelet alapján a kedvezményezett járásokhoz tartozó települések tekintetében.
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: folyamatos
+
+Indikátor: –
+
+III.5. Támogatni kell a magyar anyanyelvi identitás megőrzését célzó tehetséggondozó programokat.
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: folyamatos
+
+Indikátor: –
+
+III.6. Működtetni kell a tehetségazonosítás és tehetséggondozás koordinációját, a tehetségkövetést támogató információs rendszert, az egységes, nemzeti, komplex tehetségazonosítási rendszert.
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: az információs rendszer működtetése
+
+III.7. Támogatni kell
+
+a) a Budapesti Európai Tehetségközpont működését, stratégiai továbbfejlesztését és európai tehetséghálózati munkáját;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: 1 nemzetközi konferencia;
+
+Európai Tehetségközpontként 25 Európai Tehetségpont akkreditálása
+
+b) a Nemzeti Tehetség Program célkitűzéseit népszerűsítő rendezvényeket, kiadványokat, a program eredményeinek bemutatását;
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 200 köznevelési intézmény megkeresése
+
+legalább 70 életpálya-vizsgálat
+
+1 összefoglaló kiadvány
+
+c) az olyan kezdeményezéseket, amelyek hozzájárulnak a kiemelkedő tehetségű hazai és határon túli magyar diákok és pedagógusok tudományos tájékozottságának bővítéséhez, nemzetközi kapcsolatrendszerük fejlesztéséhez.
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 10 támogatott program
+
+III.8. A tehetségsegítés szakmai színvonalának fejlesztése érdekében fel kell tárni a tehetséggondozást érintő képzések hatékonyságát és eredményességét.
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: 1 tanulmány a tehetségsegítést érintő képzések hatékonyságáról és eredményességéről, valamint kidolgozott javaslat a képzések rendszerének fejlesztésére
+
+III.9. Biztosítani kell a matematikai tehetségazonosító módszertan és eszköztár fejlesztését és a köznevelési matematikai tudásközpontok működését.
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: 7 db matematikai tudásközpont létrehozása és működtetése
+
+III.10. Erősíteni kell a hazai tehetséggondozó rendszer nemzetközi szerepvállalását, népszerűsíteni kell a hazai tehetséggondozási rendszert külföldön, támogatni kell a hazai jó gyakorlatok külföldi megismertetését és elterjesztését, valamint a külföldi jó gyakorlatok hazai adaptációját.
+
+Felelős: emberi erőforrások minisztere
+
+Határidő: 2019. június 30.
+
+Indikátor: legalább 2 nemzetközi konferencia és legalább 5 adaptált külföldi jó gyakorlat
