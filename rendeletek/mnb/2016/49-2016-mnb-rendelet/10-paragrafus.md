@@ -1,0 +1,3 @@
+10. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – a kihirdetését követő napon lép hatályba.
+
+(2) A 6. §, a 2. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–43., 47. és 48. sora, valamint az ott meghatározott felügyeleti jelentések táblái, a 3. melléklet II–VI. és VIII. pontja, a 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–15. sora, valamint az ott meghatározott felügyeleti jelentések táblái, az 5. melléklet II. és III. pontja, a 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–44. sora, valamint az ott meghatározott felügyeleti jelentések táblái, a 7. melléklet II.1–7. pontja, a 8. melléklet és a 9. melléklet 2017. január 1-jén lép hatályba.
