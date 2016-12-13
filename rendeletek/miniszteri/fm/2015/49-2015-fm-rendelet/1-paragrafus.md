@@ -18,23 +18,23 @@ b) a 77/2015. (XII. 1.) FM rendeletnek
 
 ba) kizárólag a 3. mellékletében szereplő településen működő, vagy
 
-bb) az 1. és 3. mellékletében egyaránt szereplő településen működő és 2016. június 30-át követően, de legfeljebb 2016. november 30-áig hatályba lépett hitelszerződéssel rendelkező
+bb)[^2] az 1. és 3. mellékletében egyaránt szereplő településen működő és 2016. június 30-át követően, de legfeljebb 2017. március 31-ig hatályba lépett hitelszerződéssel rendelkező
 
-## termelői szerveződés esetében legfeljebb az egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 51/2016. (VII. 21.) FM rendelet [a továbbiakban: 51/2016. (VII. 21.) FM rendelet] hatálybalépésétől[^2] kezdődően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik;
+## termelői szerveződés esetében legfeljebb az egyes agrártámogatásokat szabályozó rendeletek módosításáról szóló 51/2016. (VII. 21.) FM rendelet [a továbbiakban: 51/2016. (VII. 21.) FM rendelet] hatálybalépésétől[^3] kezdődően esedékes kamatfizetéshez kapcsolódik és a hitel hátralévő futamidejére vonatkozik;
 
-2b.[^3] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem;
+2b.[^4] egységes kérelem: az Európai Mezőgazdasági Garancia Alapból, valamint a központi költségvetésből finanszírozott egyes támogatások igénybevételével kapcsolatos eljárási szabályokról szóló 22/2016. (IV. 5.) FM rendelet 1. § 5. pontja szerinti kérelem;
 
 3. hitelprogram: MFB TÉSZ Forgóeszköz Hitelprogram 2020;
 
-4.[^4] kezességvállaló intézmény: az Agrár-Vállalkozási Hitelgarancia Alapítvány, Garantiqa Hitelgarancia Zrt.;
+4.[^5] kezességvállaló intézmény: az Agrár-Vállalkozási Hitelgarancia Alapítvány, Garantiqa Hitelgarancia Zrt.;
 
-4a.[^5] kedvezőtlen időjárással érintett termelői szerveződés: a 77/2015. (XII. 1.) FM rendelet 1., illetve 3. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen a 77/2015. (XII. 1.) FM rendelet 2. mellékletében meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő hitelfelvevő, aki a hitelprogram keretében
+4a.[^6] kedvezőtlen időjárással érintett termelői szerveződés: a 77/2015. (XII. 1.) FM rendelet 1., illetve 3. mellékletében szereplő település valamelyikén mint székhelyen, telephelyen vagy fióktelepen a 77/2015. (XII. 1.) FM rendelet 2. mellékletében meghatározott TEÁOR' 08 szerinti tevékenység valamelyikét a hitelkérelem beadásakor főtevékenységként folytató vagy a hitelkérelemben hitelcél szerinti tevékenységként megjelölő hitelfelvevő, aki a hitelprogram keretében
 
 a) a 77/2015. (XII. 1.) FM rendeletnek kizárólag az 1. mellékletében szereplő település esetén 2016. június 30-áig,
 
-b) a 77/2015. (XII. 1.) FM rendeletnek kizárólag a 3. mellékletében szereplő település esetén 2016. november 30-áig,
+b)[^7] a 77/2015. (XII. 1.) FM rendeletnek kizárólag a 3. mellékletében szereplő település esetén 2017. március 31-ig,
 
-c) a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szereplő település esetén 2016. november 30-áig
+c)[^8] a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szereplő település esetén 2017. március 31-ig
 
 ## hatályba lépett hitelszerződéssel rendelkezik;
 
@@ -47,7 +47,10 @@ c) a 77/2015. (XII. 1.) FM rendelet 1. és 3. mellékletében egyaránt szerepl�
 8. termelői szerveződés: a termelői csoportokról szóló miniszteri rendelet szerinti elismeréssel rendelkező termelői csoport, a 2015. június 1. előtt minősített elismeréssel rendelkező termelői csoport, és a zöldség-gyümölcs termelői csoportokról és termelői szervezetekről szóló miniszteri rendelet szerinti termelői szervezet, valamint zöldség-gyümölcs termelői csoport.
 
 [^1]: Az 1. § 2a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (2) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^2]: A hatálybalépés időpontja 2016. július 22.
-[^3]: Az 1. § 2b. pontját az 51/2016. (VII. 21.) FM rendelet 26. § (1) bekezdése iktatta be.
-[^4]: Az 1. § 4. pontja a 77/2015. (XII. 1.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^5]: Az 1. § 4a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (3) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^2]: Az 1. § 2a. pont bb) alpontja a 78/2016. (XII. 12.) FM rendelet 19. §-a szerint módosított szöveg.
+[^3]: A hatálybalépés időpontja 2016. július 22.
+[^4]: Az 1. § 2b. pontját az 51/2016. (VII. 21.) FM rendelet 26. § (1) bekezdése iktatta be.
+[^5]: Az 1. § 4. pontja a 77/2015. (XII. 1.) FM rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^6]: Az 1. § 4a. pontját a 77/2015. (XII. 1.) FM rendelet 16. § (3) bekezdése iktatta be, szövege az 51/2016. (VII. 21.) FM rendelet 26. § (2) bekezdésével megállapított szöveg.
+[^7]: Az 1. § 4a. pont b) pontja a 78/2016. (XII. 12.) FM rendelet 19. §-a szerint módosított szöveg.
+[^8]: Az 1. § 4a. pont c) pontja a 78/2016. (XII. 12.) FM rendelet 19. §-a szerint módosított szöveg.

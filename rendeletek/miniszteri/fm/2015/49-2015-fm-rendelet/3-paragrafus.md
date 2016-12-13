@@ -2,7 +2,7 @@
 
 ## 3. § A kamattámogatás igénybevételére az a termelői szerveződés jogosult, amely
 
-a)[^9] kamattámogatási kérelem, kiegészítő kamattámogatási kérelem (a továbbiakban együtt: kamattámogatási kérelem) benyújtásának időpontjában
+a)[^14] kamattámogatási kérelem, kiegészítő kamattámogatási kérelem (a továbbiakban együtt: kamattámogatási kérelem) benyújtásának időpontjában
 
 aa) a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Törvény) szerinti nyilvántartásba vételi kötelezettségének eleget tett, vagy legkésőbb a kamattámogatási kérelem benyújtásával egyidejűleg kérelmezi nyilvántartásba vételét a Törvény alapján vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerben;
 
@@ -18,7 +18,7 @@ bb) milyen mértékű kamattámogatást és mely időponttól kezdődően kívá
 
 bc) megfelel az ab) és ac) alpontban foglalt feltételeknek, és
 
-bd)[^10] a hitelkérelem beadásakor bejegyzett főtevékenységről és a hitelkérelemben hitelcélként megjelölt tevékenységről;
+bd)[^15] a hitelkérelem beadásakor bejegyzett főtevékenységről és a hitelkérelemben hitelcélként megjelölt tevékenységről;
 
 c) nyilatkozatban vállalja, hogy
 
@@ -26,5 +26,5 @@ ca) a hitelszerződés módosítása esetén annak bekövetkezésétől számít
 
 cb) ha a ba) alpont alapján tett nyilatkozat támogatási adataiban változás következik be a kamattámogatási kérelem benyújtását követően – az eljárást lezáró döntés kézhezvételéig – más általános csekély összegű támogatás igénybevétele miatt, úgy arról haladéktalanul, de legfeljebb 5 napon belül írásban tájékoztatja az MVH-t.
 
-[^9]: A 3. § a) pont nyitó szövegrésze a 77/2015. (XII. 1.) FM rendelet 16. § (9) bekezdésével megállapított szöveg.
-[^10]: A 3. § b) pont bd) alpontját a 77/2015. (XII. 1.) FM rendelet 16. § (5) bekezdése iktatta be.
+[^14]: A 3. § a) pont nyitó szövegrésze a 77/2015. (XII. 1.) FM rendelet 16. § (9) bekezdésével megállapított szöveg.
+[^15]: A 3. § b) pont bd) alpontját a 77/2015. (XII. 1.) FM rendelet 16. § (5) bekezdése iktatta be.
