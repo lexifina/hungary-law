@@ -1,0 +1,111 @@
+# A Kormány 1749/2016. (XII. 13.) Korm. határozata
+
+Magyar Közlöny 2016. évi 198. szám, 2016. december 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/087129e253f49e8fe235b06eaf55ff88344882b6/dokumentumok/d577b84e68751fe158faa647c17651748660ecc1/letoltes)
+
+---
+
+A Kormány 1749/2016. (XII. 13.) Korm. határozata
+a Nemzeti Kutatási, Fejlesztési és Innovációs Alap forrásaiból történő finanszírozás biztosítása érdekében
+meghirdetett FIEK_16 kódszámú („Felsőoktatási és Ipari Együttműködési Központ – Kutatási infrastruktúra
+fejlesztése”című) pályázati felhívásra benyújtott, egymilliárd forintot meghaladó támogatási igényű
+projektjavaslatok támogatásának jóváhagyásáról
+A Kormány
+1. jóváhagyja a Nemzeti Kutatási, Fejlesztési és Innovációs Alap forrásaiból történő finanszírozás biztosítása
+érdekében meghirdetett FIEK_16 kódszámú, „Felsőoktatási és Ipari Együttműködési Központ – Kutatási
+infrastruktúra fejlesztése” című pályázati felhívásra benyújtott, 1. mellékletben foglalt táblázat A–C és F oszlopában
+
+meghatározott, egymilliárd forintot meghaladó támogatási igényű projektjavaslatok (a továbbiakban: projektek)
+1. mellékletben foglalt táblázat D és E oszlop szerinti támogatását,
+2. hozzájárul a projektek támogatási szerződésének megkötéséhez.
+Felelős: Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke
+Határidő: azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1749/2016. (XII. 13.) Korm. határozathoz
+A B C D E F
+1. Projekt azonosító száma Projekt címe Támogatást igénylő neve
+Projekt támogatása
+(Ft)
+Támogatás aránya
+(%)
+A projekt rövid bemutatása
+2. FIEK_16-1-2016-0005
+Molekuláris biomarker kutatási
+és szolgáltatási központ
+kialakítása az ipari igények
+kiszolgálása érdekében
+1. Eötvös Loránd Tudományegyetem,
+2. Magyar Tudományos Akadémia
+Természettudományi Kutatóközpont,
+3. Servier Gyógyászati Vegytani
+Kutatóintézet Zártkörűen Működő
+Részvénytársaság,
+4. CRU Hungary Egészségügyi és
+Szolgáltató Korlátolt Felelősségű Társaság
+2 558 627 617 94,34
+Olyan, a kelet-közép-európai régióban egyedülálló, széles metodikai spektrumot
+felölelő és többféle betegségcsoportot elemző, nemzetközileg akkreditált
+laboratórium, biomarker kutató és szolgáltató központ kialakítása, amely
+kiszolgálja és hatékonyabbá teszi a fejlesztők saját gyógyszerkutatási és klinikai
+vizsgálatait, valamint a régióban egyedülálló kapacitásként teljesíti a hazai
+és nemzetközi gyógyszeripari vállalatok, egészségügyi biztosító társaságok
+megrendeléseit.
+3. FIEK_16-1-2016-0007
+Integrált, intelligens
+technológiák–
+szinergiaprogram:
+Fókuszban az energetika és
+a gyógyszeripar Innovatív
+technológiák és szolgáltató
+központ (laboratórium-hálózat)
+létrehozása az IKT, energetika
+és gyógyszergyártás terén
+1. Budapesti Műszaki és
+Gazdaságtudományi Egyetem,
+2. Siemens Termelő, Szolgáltató és
+Kereskedelmi Zártkörűen Működő
+Részvénytársaság,
+3. Richter Gedeon Vegyészeti Gyár
+Nyilvánosan Működő Rt.,
+4. Nokia Solutions and Networks Kft.,
+5. MVM Magyar Villamos Művek
+Zártkörűen Működő Részvénytársaság
+3 959 244 693 66,44
+Nyílt hozzáférésű laboratóriumi infrastruktúra-hálózat kiépítése, amely
+tudásalapú, innovatív, digitalizált eljárásokkal teszi lehetővé biztonságos,
+kontrollált technológiák kifejlesztését és oktatását. Olyan kompetenciaközpont
+kialakítása, amelynek innovatív modelltechnológiája rövid átfutási idővel képes
+az ipari igényeknek megfelelő új szolgáltatásokat nyújtani számos szakterületen.
+A digitalizáció terén egy vezeték nélküli irányításra alkalmas technológia
+kifejlesztése, amely valósidejű analitika és innovatív megoldások alkalmazásával
+teszi lehetővé a hálózati mérések által szolgáltatott nagyméretű adathalmaz
+„okossá”változtatását, beavatkozási döntések meghozatalát. Az energetika terén
+innovatív hajtáslabor és online hálózati szimulátor laboratórium létrehozása.
+A gyógyszertechnológia terén egy gyógyszergyártó modellrendszer kialakítása,
+amely elősegíti a gyógyszergyártás alapvető technológiai megújítását.
+4. FIEK_16-1-2016-0008
+AGIT Agrárinformatikai
+Felsőoktatási és Ipari
+Együttműködési Központ
+létrehozása
+1. Szent István Egyetem,
+2. SKC-Consulting Korlátolt Felelősségű
+Társaság,
+3.„AXIÁL”Javító, Kereskedelmi és
+Szolgáltató Korlátolt Felelősségű Társaság,
+4. Asseco Central Europe Magyarország
+Zártkörűen Működő Részvénytársaság,
+5. ENERGOTEST Diagnosztikai és
+Automatizálási Korlátolt Felelősségű
+Társaság
+1 482 127 690 82,22
+Az agrárium egyes ágazataiban jelenlévő technológiák és munkafolyamatok
+fejlesztéséhez információs technológiai támogatás biztosítása, átfogó
+szakmai kompetenciaközpont kialakítása, digitális termesztéstechnológia
+kifejlesztése. Növénytermesztési eljárások, alkalmazott gépesítési technológiák
+informatikai kiszolgálása, az egyes információs technológiai alkalmazások
+integrálása, a meglévő kommunikációs platformok validálása. Olyan információs
+technológiai termék kifejlesztése, amely a korszerű adatfeldolgozási és gépi
+tanulási módszerek és modellek alkalmazásával valósít meg automatizálható
+folyamatelemeket.

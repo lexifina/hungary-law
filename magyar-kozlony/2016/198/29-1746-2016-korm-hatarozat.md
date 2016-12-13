@@ -1,0 +1,269 @@
+# A Kormány 1746/2016. (XII. 13.) Korm. határozata
+
+Magyar Közlöny 2016. évi 198. szám, 2016. december 13. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/087129e253f49e8fe235b06eaf55ff88344882b6/dokumentumok/d577b84e68751fe158faa647c17651748660ecc1/letoltes)
+
+---
+
+A Kormány 1746/2016. (XII. 13.) Korm. határozata
+egyes, a Környezeti és Energiahatékonysági Operatív Program 4. prioritása keretében megvalósuló
+projektek vonatkozásában kötelezettségvállaláshoz történő hozzájárulásról
+A Kormány
+1. hozzájárul az 1. melléklet szerint az ott felsorolt projektek (a továbbiakban: projektek) vonatkozásában
+a kötelezettségvállaláshoz a Környezeti és Energiahatékonysági Operatív Program éves fejlesztési keretének
+megállapításáról szóló 1084/2016. (II. 29.) Korm. határozat [a továbbiakban: 1084/2016. (II. 29.) Korm. határozat]
+1. pont f) alpontja alapján,
+2. egyetért „A Rába és ártere közösségi jelentőségű természeti értékeinek interaktív bemutatásához szükséges
+infrastruktúra kialakítása” című projektjavaslat (a továbbiakban: projektjavaslat) megvalósításának
+szükségességével, és a megvalósítás érdekében a 2. mellékletben meghatározott forrás biztosításával,
+3. felhívja a nemzeti fejlesztési minisztert, hogy készítse el és terjessze a Kormány elé a Környezeti és
+Energiahatékonysági Operatív Program éves fejlesztési keretének módosítására vonatkozó azon javaslatát, amely
+a projektjavaslat 2. melléklet szerinti nevesítésére irányul,
+Felelős: nemzeti fejlesztési miniszter
+Határidő: 2017. január 31.
+4. egyetért a 3. pont szerinti nevesítést követően a projektjavaslat vonatkozásában a kötelezettségvállalás
+megtételével az 1084/2016. (II. 29.) Korm. határozat 1. pont f) alpontjának megfelelően,
+5. felhívja a nemzetgazdasági minisztert, hogy biztosítsa a projektek és a projektjavaslat megvalósításához szükséges
+kötelezettségvállalások fedezetét,
+Felelős: nemzetgazdasági miniszter
+Határidő: azonnal
+6. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a projektek megvalósításához szükséges
+kötelezettségvállalások megtételéről és a projektek támogatási szerződésének megkötéséről.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: 2017. január 31.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1746/2016. (XII. 13.) Korm. határozathoz
+A B C D E
+1.
+Projekt
+azonosító száma
+Projekt
+megnevezése
+Kedvezményezett
+neve
+Kötelezettségvállalás összege
+(bruttó, Ft)
+Projekt rövid bemutatása
+2.
+KEHOP-4.1.0-15-
+2016-00054
+Kiemelt jelentőségű vizes
+élőhelyek fejlesztése és
+bemutatása Fejér megyében
+Duna–Ipoly Nemzeti Park
+Igazgatóság
+530 000 000
+A projekt célja a Fejér megyében kiemelt jelentőséggel bíró vizes élőhelyeken
+vízkormányzó és vízvisszatartó műtárgy rendszer kiépítése: a sekély vizes
+árasztások lehetőségének kialakítása, kiszáradó láprétek, mocsárrétek megfelelő
+vízháztartásának biztosítása, a víztéren belüli töltésezések és depóniák
+megbontása, átjárhatóság fejlesztése, partközeli zárt nádasokban nyílt vízfelület
+helyreállítása, inváziós faállományok visszaszorítása, költőszigetek létesítése,
+a Velencei-tó térségében eddig hiányos természetvédelmi bemutató tevékenység
+infrastruktúrájának kialakítás valósul meg.
+3.
+KEHOP-4.1.0-15-
+2016-00062
+Őshonos fafajokat a hazai
+erdőkbe – Tájidegen
+erdőállományok és fásítások
+átalakításának megkezdése,
+erdők természetvédelmi
+kezelése a Bükki Nemzeti Park
+Igazgatóság területén
+Bükki Nemzeti Park
+Igazgatóság
+350 000 000
+A projekt célja a Bükki Nemzeti Park Igazgatóság vagyonkezelésében lévő,
+jelentős természetvédelmi értéket képviselő erdőfoltok helyreállítása – őshonos
+fafajúvá és változatos szerkezetűvé alakítása – a természeti értékek megőrzését
+biztosító ökológiai kapcsolatok táji szintű helyreállítása, a közösségi élőhelyek
+természetvédelmi helyzetének javítása, valamint a közösségi jelentőségű fajok
+állományainak stabilizálása, hosszú távú növekedése érdekében.
+4.
+KEHOP-4.1.0-15-
+2016-00070
+Egy fenntartható,
+természetkímélő
+tájhasznosítás újjáélesztése:
+a fokgazdálkodás XXI.
+századi lehetőségeinek
+megteremtése a Mártélyi
+Tájvédelmi Körzetben
+Kiskunsági Nemzeti Park
+Igazgatóság
+200 000 000
+A projekt célja a Mártélyi Tájvédelmi Körzet legértékesebb„magterületének”
+tekinthető Körtvélyes (komplex élőhely-rendszer) kiemelkedő természeti
+értékeinek hosszú távú megőrzése érdekében a Körtvélyesi Holt-Tisza tiszai
+vízállástól független, megújuló energia felhasználásával történő folyamatos
+vízpótlásának biztosítása a holtághoz közvetlenül csatlakozó fokok egyszeri
+felújításával, illetve a Tűfarok (a holtág alsó vége) műtárgyának szabályozhatóvá
+tételével (a tiltó rekonstrukciója). Cél továbbá az élőhely-revitalizáció központi
+műszaki elemeként a víz folyamatos szivattyúzását biztosító„hajómalom”
+Tiszára telepítése, valamint a fejlesztés szerves részeként a helyi kulturális
+programkínálatba integrált, aktív turizmusra és élménypedagógiai módszerekre
+épített, szervezett és irányított bemutatás feltételeinek megteremtése (interaktív
+bemutatóhely kiállítása a műemléki jelentőségű„Körtvélyesi Révházban”és
+környezetében).
+5.
+KEHOP-4.1.0-15-
+2016-00075
+Dávodi Földvári-tó és
+a karapancsai erdei tavak
+rehabilitációja kotrással,
+bioremediációval, kisműtárgy
+építéssel, cserjeirtással
+Duna–Dráva Nemzeti Park
+Igazgatóság
+185 300 000
+A projekt célja a Mohács-sziget északi részén fekvő Dávodi Földvári-tó és
+a karapancsai erdei tavak rehabilitációja (vízkormányzást és vízpótlást biztosító
+műtárgyak átépítése, töltések javítása, kotrás), a környező élőhelyek helyreállítása
+az inváziós fajok visszaszorításával, illetve az alapvető természetvédelmi bemutatási
+infrastruktúra kialakítása az érintett védett természeti területek – Dávodi Földvári-tó
+Természetvédelmi Terület, illetve a Béda–Karapancsa tájegység karapancsai
+területe – állapotának javítása, a két terület közötti ökológiai kapcsolatok
+biztosítása, valamint a területen előforduló védett és közösségi jelentőségű fajok
+költő-, pihenő- és táplálkozóhelye minőségének javítása érdekében.
+
+6.
+KEHOP-4.1.0-15-
+2016-00076
+A Dél-Tiszántúl Natura
+2000 területeinek és
+jelölő fajainak – kiemelten
+az európai túzok – széleskörű
+megismertetéséhez
+szükséges tájékoztatási,
+bemutatási és
+szemléletformálási
+eszközrendszer és
+infrastrukturális háttér
+megteremtése, fejlesztése
+Körös–Maros Nemzeti Park
+Igazgatóság
+236 800 000
+A projekt célja a hálózatos kialakítású, egységes arculatú természetvédelmi
+bemutatási rendszer kialakítása, az ahhoz kapcsolódó szemléletformálási akciók
+megvalósítása és eszközök fejlesztése (természetvédelmi nyílt nap, jeles nap,
+roadshow, tematikus túrák, előadások, kiadvány, multimédiás eszköz, okoseszköz
+applikáció, marketingeszköz) révén a közösségi jelentőségű természeti értékek
+széles körű megismertetése, a Dévaványai–Ecsegi Puszták területén található
+természeti értékek bemutatása érdekében a Réhelyi Látogatóközpont bemutatási
+infrastruktúrájának és szolgáltatásainak fejlesztése.
+7.
+KEHOP-4.1.0-15-
+2016-00077
+Komplex élőhely-
+rekonstrukció
+a Kígyósi-pusztán
+Körös–Maros Nemzeti Park
+Igazgatóság
+233 348 800
+A projekt célja a Kígyósi-puszta változatos domborzatán kialakult változatos
+élőhelyek táji és természeti értékeinek, a puszta két jelölő közösségi jelentőségű
+élőhelyének és fokozottan védett, közösségi jelentőségű fajainak hosszú távú
+megőrzéséhez szükséges feltételek megteremtése: a használaton kívüli árkok
+és csatornák megszüntetése a puszta keleti, Gyulához tartozó részén, tájidegen
+növényfajok állományainak felszámolása, helyükön őshonos fa- és cserjefajok
+alkotta állományok telepítése, a pusztán fekvő, közel száz halom által alkotott ún.
+kétegyházi kurgánmező 1960-as évek végén történt régészeti feltárásuk során
+sérült halmainak helyreállítása, a természetvédelmi kezelés elengedhetetlen részét
+képező legeltetés feltételeinek (nyári tartási helyek) fejlesztése.
+8.
+KEHOP-4.1.0-15-
+2016-00080
+A Péteri-tó természetes
+mederalakulatának
+helyreállítása
+Kiskunsági Nemzeti Park
+Igazgatóság
+300 000 000
+A projekt célja az 1976-ban természetvédelmi oltalom alá helyezett 781 hektáros
+Péteri-tavi Madárrezervátum kiemelkedő természeti értékeinek megőrzése és
+jobb bemutathatósága érdekében a korábbi szikes tó helyén egykor kialakított
+halastó-rendszer természetvédelmi szempontú átalakítása, rekonstrukciója:
+a két legnagyobb tómedret elválasztó töltés és földút felszámolása, egységes
+tómeder kialakítása, a tavat övező töltések megerősítése, felhagyott, leromlott
+állapotú halgazdálkodási létesítmények (zsilipek, ivadéknevelő tavak, gátak,
+épületmaradványok stb.) felszámolása, a természetvédelmi célú vízvisszatartást
+szolgáló műtárgyak felújítása, a fejlesztés eredményeit, és a terület természeti
+értékeit bemutató alapinfrastruktúra kiépítése (kiállítás, tanösvény, kilátó, magasles
+és madármegfigyelő ház).
+9.
+KEHOP-4.1.0-15-
+2016-00082
+Elfelejtett jégkori
+képződmények nyomában
+– Alapszelvények
+rekonstrukciója a Duna–Tisza
+közén
+Kiskunsági Nemzeti Park
+Igazgatóság
+100 000 000
+A projekt célja a Duna–Tisza közén található jégkori képződményeket
+feltáró alapszelvények (Szeged-Öthalom, Katymár, Madaras, Császártöltés)
+állagmegőrzése és feltárása, feltárásban található, országos jelentőségő földtani
+alapszelvények, valamint környezetük természeti állapotának fenntartása, javítása,
+továbbá geoturisztikai, örökségvédelmi célú bemutathatóságának és további
+kutathatóságának fenntartása.
+
+10.
+KEHOP-4.1.0-15-
+2016-00083
+Inváziós növényfajokkal
+fertőzött erdőterületeinek
+és foltszerű, degradált
+élőhelyeinek rehabilitációja,
+valamint természetvédelmi
+szempontból kitüntetett
+jelentőségű növényfajok
+in situ szaporítása
+a Peszéradacsi-rétek területén
+Kiskunsági Nemzeti Park
+Igazgatóság
+380 000 000
+A projekt célja a Peszéradacsi-rétek déli tömbjében található foltszerű degradált,
+inváziós fajok fertőző gócaiként is ható élőhelyek (korábbi tanyahelyek)
+rehabilitációja, a helyreállított területeken Pannon homoki gyepekben társulás-
+alkotó növényfajok, illetve egyéb karakter fajok, valamint természetvédelmi
+szempontból kitüntetett jelentőségű növényfajok (mindösszesen 50 faj) magtermő
+állományainak kialakítása, inváziós fajok visszaszorítása szelektív, a környezetre
+nézve biztonságos módszerekkel a Kiskunsági Nemzeti Park Igazgatóság
+vagyonkezelésében lévő„erdő”művelési ágú területeken.
+2. melléklet az 1746/2016. (XII. 13.) Korm. határozathoz
+A B C D E F
+1.
+Kapcsolódó
+operatív program
+Felhívás
+azonosító jele
+Projekt
+megnevezése
+Támogatást igénylő
+neve
+Projekt támogatása
+(bruttó, Ft)
+Projekt rövid bemutatása
+2.
+Környezet és
+Energiahatékonysági
+Operatív Program
+KEHOP-4.1.0
+A Rába és ártere
+közösségi jelentőségű
+természeti értékeinek
+interaktív bemutatásához
+szükséges infrastruktúra
+kialakítása
+Őrségi Nemzeti Park
+Igazgatóság
+611 000 000
+A projekt a helyi közösség bevonásával a Rába-völgy Natura
+2000 terület közösségi jelentőségű természeti értékeinek
+ismertté tételét célozza. A projekt keretében felépülő
+épületegyüttesben interaktív kiállítás és tematikus játszótér
+létesül, a Rába folyó és -völgyének értékei megismertetése
+céljából kenuk és kerékpárok beszerzése valósul meg.
