@@ -1,4 +1,4 @@
-1. melléklet a 24/2010. (III. 19.) FVM rendelethez[^56]
+1. melléklet a 24/2010. (III. 19.) FVM rendelethez[^58]
 
 ## A támogatási kérelem adattartalma és a csatolandó dokumentumok
 
@@ -42,4 +42,4 @@
 
 6.4. A korábban más termelői csoportban tag termésének az értékesített termék értékébe való beszámításáról szóló 7. § (1) bekezdés szerinti nyilatkozat.
 
-[^56]: Az 1. melléklet a 65/2013. (VII. 29.) VM rendelet 10. §-ával megállapított szöveg.
+[^58]: Az 1. melléklet a 65/2013. (VII. 29.) VM rendelet 10. §-ával megállapított szöveg.

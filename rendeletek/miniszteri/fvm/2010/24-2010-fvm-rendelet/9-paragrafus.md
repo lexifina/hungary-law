@@ -18,13 +18,13 @@ d)[^23] a termelői csoport által a 150/2012. (XII. 28.) VM rendelet 23. § (2)
 
 (6)[^24] Az összevont támogatási kérelemről – a miniszter által jóváhagyott elismerési terv figyelembevételével – az MVH dönt és a támogatást a támogatási kérelem beérkezésétől számított hat hónapon belül, de legkésőbb az elismerési tervben megjelölt időszak évét követő év szeptember 30-áig fizeti ki.
 
-(6a)[^25] Ha az MVH vagy a másodfokon eljáró szerv 2013. január 1-jét követően hozott döntésében a 4. § szerinti támogatás megállapítására irányuló, a bizottsági rendelet 45. cikkében foglalt kérelmet azért utasította el, vagy ilyen kérelem alapján megállapított támogatást azért követelt vissza, mert
+(6a)[^25] Ha az MVH vagy a másodfokon eljáró szerv 2013. január 1-jét követően hozott döntésében a 4. § szerinti támogatás megállapítására irányuló, a bizottsági rendelet 45. cikkében foglalt kérelmet azért utasította el vagy ilyen kérelem alapján megállapított támogatást azért követelt vissza, mert
 
 a) az érintett beruházás nem az elismerési tervben megjelölt időszakban valósult meg, vagy
 
 b) a beruházás megvalósulását alátámasztó bizonylat a megvalósítás idejét tekintve valótlannak bizonyult,
 
-## akkor az MVH a döntését visszavonja, feltéve, hogy az érintett beruházás a tanácsi rendelet 125a. cikk (1) bekezdésében meghatározott átmeneti időszak végéig megvalósult.
+## akkor az MVH a döntését visszavonja, illetve a másodfokú hatóság a helybenhagyó döntését visszavonja, és az elsőfokú döntést megsemmisíti vagy megváltoztatja, feltéve, hogy az érintett beruházás teljesíti a 6. § (1) bekezdésében foglalt feltételeket, és a termelői csoport a termelői szervezetként történő elismerést megszerezte.
 
 (7) Az MVH az összevont támogatási kérelemnek a 3. §-ban, illetve a 4. §-ban meghatározott támogatás iránti részét szétválasztva, külön eljárásban bírálja el.
 
@@ -33,5 +33,5 @@ b) a beruházás megvalósulását alátámasztó bizonylat a megvalósítás id
 [^22]: A 9. § a 65/2013. (VII. 29.) VM rendelet 7. § (1) bekezdésével megállapított szöveg.
 [^23]: A 9. § (2) bekezdés d) pontját a 41/2015. (VII. 20.) FM rendelet 5. §-a iktatta be.
 [^24]: A 9. § (6) bekezdése az 52/2016. (VII. 21.) FM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^25]: A 9. § (6a) bekezdését újonnan az 52/2016. (VII. 21.) FM rendelet 4. § (1) bekezdése iktatta be.
+[^25]: A 9. § (6a) bekezdését újonnan az 52/2016. (VII. 21.) FM rendelet 4. § (1) bekezdése iktatta be, szövege a 78/2016. (XII. 12.) FM rendelet 10. §-ával megállapított szöveg.
 [^26]: A 9. § (8) bekezdését a 97/2013. (X. 22.) VM rendelet 8. §-a iktatta be, szövege az 52/2016. (VII. 21.) FM rendelet 4. § (2) bekezdésével megállapított szöveg.

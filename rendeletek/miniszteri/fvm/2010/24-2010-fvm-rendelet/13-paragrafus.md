@@ -28,6 +28,8 @@
 
 (15)[^54] A zöldség-gyümölcs termelői szerveződéseket szabályozó, egyes miniszteri rendeletek módosításáról szóló 52/2016. (VII. 21.) FM rendelettel [a továbbiakban: 52/2016. (VII. 21.) FM rendelet] megállapított 3. §-t, 4. § (1) bekezdését, 6. § (1) bekezdését és 9. § (8) bekezdését az 52/2016. (VII. 21.) FM rendelet hatálybalépésekor[^55] folyamatban lévő ügyekben is alkalmazni kell.
 
+(16)[^56] E rendeletnek az agrárpolitikáért felelős miniszter feladat- és hatáskörébe tartozó egyes miniszteri rendeletek módosításáról szóló 78/2016. (XII. 12.) FM rendelettel [a továbbiakban: 78/2016. (XII. 12.) FM rendelet] megállapított 9. § (6a) bekezdését a 78/2016. (XII. 12.) FM rendelet hatálybalépésekor[^57] folyamatban lévő közigazgatási és bírósági ügyekben is alkalmazni kell.
+
 [^29]: A 12. §-t a 65/2013. (VII. 29.) VM rendelet 11. §-a hatályon kívül helyezte.
 [^30]: A 13. §-t a 12/2011. (II. 18.) VM rendelet 11. §-a iktatta be.
 [^31]: A 13. § (1)–(3) bekezdését a 65/2013. (VII. 29.) VM rendelet 11. §-a hatályon kívül helyezte.
@@ -55,3 +57,5 @@
 [^53]: A 13. § (14) bekezdését a 41/2015. (VII. 20.) FM rendelet 6. §-a iktatta be.
 [^54]: A 13. § (15) bekezdését az 52/2016. (VII. 21.) FM rendelet 5. §-a iktatta be.
 [^55]: A hatálybalépés időpontja 2016. július 22.
+[^56]: A 13. § (16) bekezdését a 78/2016. (XII. 12.) FM rendelet 11. §-a iktatta be.
+[^57]: A hatálybalépés időpontja 2016. december 13.
