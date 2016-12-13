@@ -26,7 +26,7 @@
 
 ## * Megjegyzés: Amennyiben a Műszaki Biztonsági Szabályzattól eltértek, a nyilatkozatnak ki kell térnie az eltérés lényeges elemeire, valamint mellékelni kell a dokumentumot, amely alapján az eltérés történt.
 
-2. melléklet a 11/2013. (III. 21.) NGM rendelethez[^14]
+2. melléklet a 11/2013. (III. 21.) NGM rendelethez[^15]
 
 Műszaki Biztonsági Szabályzat
 
@@ -1348,4 +1348,4 @@ A nyomásszabályozó állomás biztonsági gyorszárának felső zárási nyom�
 
 A felsorolt feltételektől eltérő kivitelű nyomásszabályozó állomások robbanásveszélyes zónáit egyedileg kell meghatározni.
 
-[^14]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 11. § (11) bekezdésével megállapított szöveg.
+[^15]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 11. § (11) bekezdésével megállapított szöveg.

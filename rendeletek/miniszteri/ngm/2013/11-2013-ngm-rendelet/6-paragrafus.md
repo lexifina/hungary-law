@@ -1,4 +1,4 @@
-6. §[^6] (1) Meglévő gázfogyasztó készülék cseréje egyszerűsített eljárással az alábbi feltételek egyidejű fennállása esetén végezhető:
+6. §[^7] (1) Meglévő gázfogyasztó készülék cseréje egyszerűsített eljárással az alábbi feltételek egyidejű fennállása esetén végezhető:
 
 a) az új készülék legfeljebb 36 kW hőterhelésű,
 
@@ -26,4 +26,4 @@ b) az NFGM rendelet 2. melléklet 2. sora
 
 (4) Az egyszerűsített gázkészülék cserét a Műszaki Biztonsági Szabályzat 5.3. pontjában előírtak szerint kell elvégezni és a Műszaki Biztonsági Szabályzat 7.7. pontja szerinti szerelési nyilatkozat és bejelentő bizonylat megküldésével kell a földgázelosztónak, a vezetékes PB-gáz szolgáltatónak, a telephelyi szolgáltatónak bejelenteni.
 
-[^6]: A 6. § a 7/2016. (II. 22.) NGM rendelet 11. § (5) bekezdésével megállapított szöveg.
+[^7]: A 6. § a 7/2016. (II. 22.) NGM rendelet 11. § (5) bekezdésével megállapított szöveg.
