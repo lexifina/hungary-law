@@ -1,3 +1,3 @@
-6. melléklet a 62/2011. (VI. 30.) VM rendelethez[^17]
+6. melléklet a 62/2011. (VI. 30.) VM rendelethez[^19]
 
-[^17]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^19]: A 6. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

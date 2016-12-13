@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-62-20-2
 | 2013-02-09 | 2011-62-20-2Y.7 | 5/2013. (II. 4.) VM rendelet |
 | 2013-08-01 | 2011-62-20-2Y.8 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2014-12-20 | 2011-62-20-2Y.9 | 36/2014. (XII. 17.) FM rendelet |
+| 2016-12-13 | 2011-62-20-2Y.10 | 79/2016. (XII. 12.) FM rendelet |

@@ -1,8 +1,8 @@
-5. § (1)[^2] A közétkeztetést végző vendéglátók által előállított, valamint a vendéglátók által napi huszonkilenc adagnál nagyobb adagszámban előállított, a végső fogyasztónak szánt ételek összetételére, csomagolására vonatkozó adatoknak az előállítás helyén, a minőségirányítás céljára is alkalmas módon, termékenkénti anyaghányad-nyilvántartásként rendelkezésre kell állniuk. Az anyaghányad nyilvántartásnak az 1. mellékletben felsorolt adatokat kell tartalmaznia.
+5. § (1)[^3] A közétkeztetést végző vendéglátók által előállított, valamint a vendéglátók által napi huszonkilenc adagnál nagyobb adagszámban előállított, a végső fogyasztónak szánt ételek összetételére, csomagolására vonatkozó adatoknak az előállítás helyén, a minőségirányítás céljára is alkalmas módon, termékenkénti anyaghányad-nyilvántartásként rendelkezésre kell állniuk. Az anyaghányad nyilvántartásnak az 1. mellékletben felsorolt adatokat kell tartalmaznia.
 
 (2) Az anyaghányad nyilvántartásban bekövetkező bármely változást haladéktalanul át kell vezetni. Amennyiben egy adott étel előállítását megszüntetik, az arról vezetett anyaghányad-nyilvántartást a megszüntetéstől számított 90 napig meg kell őrizni.
 
-(3)[^3] A vendéglátó-ipari termékek összetevőire vonatkozó információkról – beleértve a fogyasztók élelmiszerekkel kapcsolatos tájékoztatásáról, az 1924/2006/EK és az 1925/2006/EK európai parlamenti és tanácsi rendelet módosításáról és a 87/250/EGK bizottsági irányelv, a 90/496/EGK tanácsi irányelv, az 1999/10/EK bizottsági irányelv, a 2000/13/EK európai parlamenti és tanácsi irányelv, a 2002/67/EK és a 2008/5/EK bizottsági irányelv és a 608/2004/EK bizottsági rendelet hatályon kívül helyezéséről szóló, 2011. október 25-i 1169/2011/EU európai parlamenti és tanácsi rendelet II. melléklete szerinti allergiát vagy intoleranciát okozó anyagokat és termékeket, valamint az egyéb jogszabályok alapján kötelezően alkalmazandó, élelmiszer-összetevőkre vonatkozó kiegészítő információkat is – a végső fogyasztót, annak kérésére a vendéglátónak tájékoztatnia kell.
+(3)[^4]
 
-[^2]: Az 5. § (1) bekezdése az 5/2013. (II. 4.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 5. § (3) bekezdése a 36/2014. (XII. 17.) FM rendelet 14. § a) pontja szerint módosított szöveg.
+[^3]: Az 5. § (1) bekezdése az 5/2013. (II. 4.) VM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^4]: Az 5. § (3) bekezdését a 79/2016. (XII. 12.) FM rendelet 11. § b) pontja hatályon kívül helyezte.
