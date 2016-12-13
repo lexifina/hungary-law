@@ -1,11 +1,11 @@
 ## 9. § Ez a rendelet
 
-a)[^25] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet,
+a)[^29] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1407/2013/EU bizottsági rendelet,
 
-b)[^26] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet, valamint
+b)[^30] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a mezőgazdasági ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2013. december 18-i 1408/2013/EU bizottsági rendelet, valamint
 
-c)[^27] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra- ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet
+c)[^31] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének a halászati és akvakultúra- ágazatban nyújtott csekély összegű támogatásokra való alkalmazásáról szóló, 2014. június 27-i 717/2014/EU bizottsági rendelet
 
-[^25]: A 9. § a) pontja a 36/2014. (IV. 4.) VM rendelet 94. §-ával megállapított szöveg.
-[^26]: A 9. § b) pontja a 36/2014. (IV. 4.) VM rendelet 94. §-ával megállapított szöveg.
-[^27]: A 9. § c) pontja a 18/2014. (X. 29.) FM rendelet 45. §-ával megállapított szöveg.
+[^29]: A 9. § a) pontja a 36/2014. (IV. 4.) VM rendelet 94. §-ával megállapított szöveg.
+[^30]: A 9. § b) pontja a 36/2014. (IV. 4.) VM rendelet 94. §-ával megállapított szöveg.
+[^31]: A 9. § c) pontja a 18/2014. (X. 29.) FM rendelet 45. §-ával megállapított szöveg.
