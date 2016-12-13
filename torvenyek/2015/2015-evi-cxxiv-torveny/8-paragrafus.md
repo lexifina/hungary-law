@@ -12,7 +12,7 @@
 
 (6) A felügyeleti vizsgálati eljárás értékelési és döntéshozatali szakaszból áll. Az értékelési szakasz ügyintézési határideje hatvanöt nap. A döntéshozatali szakasz ügyintézési határideje tizenöt nap.
 
-(7) A felügyeleti vizsgálati eljárás esedékességéről a (4) bekezdésben szabályozott esetben a legutolsó helyszíni szemle után tizenkilenc hónappal, az (5) bekezdésben szabályozott esetben a legutolsó helyszíni szemle után hét hónappal az akkreditáló szerv értesíti az akkreditált szervezetet vagy természetes személyt a felügyeleti vizsgálati eljárás kezdeményezésének kötelezettségéről és a kérelem benyújtásának határidejéről.
+(7) A felügyeleti vizsgálat kezdeményezési kötelezettségének esedékességéről és a felügyeleti vizsgálati kérelem benyújtásának határidejéről a (4) bekezdésben szabályozott esetben az első felügyeleti vizsgálat esetén a legutolsó helyszíni szemle után legfeljebb kilenc hónappal, a további felügyeleti vizsgálatok esetén legfeljebb tizenkilenc hónappal, az (5) bekezdésben szabályozott esetben a legutolsó helyszíni szemle után legfeljebb kilenc hónappal az akkreditáló szerv értesíti az akkreditált szervezetet vagy személyt. Az akkreditáló szerv a felügyeleti vizsgálati eljárások időpontját jogszabály, szabvány vagy nemzetközi előírás szabályozása, a szervezet korábbi tevékenysége, irányítási rendszerének stabilitása és nyújtott teljesítménye alapján határozza meg. Erről az akkreditáló szerv köteles tájékoztatni az akkreditált szervezetet.
 
 (8) Az akkreditáló szerv a felügyeleti vizsgálat eredményétől függően az akkreditált státuszt
 

@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-124-00-00
 | 2016-01-01 | 2015. évi CCXXVIII. törvény | 2015-124-00-00.3 |
 | 2016-01-02 | 2010. évi CXXX. törvény | 2015-124-00-00.4 |
 | 2016-07-01 | 2015. évi CXXIV. törvény | 2015-124-00-00.5 |
+| 2016-12-13 | 2016. évi CXXXIV. törvény | 2015-124-00-00.6 |

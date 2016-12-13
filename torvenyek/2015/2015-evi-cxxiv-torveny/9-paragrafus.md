@@ -18,9 +18,11 @@ b) az akkreditált tevékenységet ellátó személyek létszámában, fél éve
 
 c) az akkreditált szervezeti egység vezetőjének, minőségirányítási vezetőjének vagy olyan munkatársának személyében, aki az adott akkreditálási tevékenységet kizárólagosan végezte,
 
-d) az akkreditált szervezet székhelyében, telephelyében, az akkreditált természetes személy lakcímében, valamint
+d) az akkreditált szervezet székhelyében, telephelyében, az akkreditált természetes személy lakcímében,
 
-e) az akkreditált területben
+e) az akkreditált területben, valamint
+
+f) egyéb, az akkreditált szervezet vagy természetes személy akkreditált státuszára számottevő hatással bíró, a tevékenységére vonatkozó jogszabályokban, az Európai Unió általános hatályú, közvetlenül alkalmazandó jogi aktusaiban, nemzeti szabványként közzétett európai és nemzetközi szabványokban és a rá vonatkozó szakmai szabályokban foglalt lényeges követelményeknek való megfelelésben
 
 bekövetkezett változás.
 

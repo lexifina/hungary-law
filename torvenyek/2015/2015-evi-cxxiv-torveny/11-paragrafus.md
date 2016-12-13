@@ -12,4 +12,4 @@ c) a Nemzetközi Laboratóriumakkreditálási Együttműködés vagy a Nemzetkö
 
 d) az akkreditáló szerv kétoldalú elismerési megállapodást kötött, amelynek feltételeit a megállapodás tartalmazza.
 
-(3) A (2) bekezdés a) pontja szerinti nemzeti akkreditáló testület által lefolytatott akkreditálási eljárás és odaítélt akkreditált státusz tekintetében az egyenértékűség hatóságok általi elismeréséhez nincs szükség az e § szerinti eljárás lefolytatására.
+(3) A (2) bekezdés a) és b) pontja szerinti nemzeti akkreditáló testület által lefolytatott akkreditálási eljárás és odaítélt akkreditált státusz tekintetében az egyenértékűség hatóságok általi elismeréséhez nincs szükség az e § szerinti eljárás lefolytatására.

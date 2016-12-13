@@ -13,3 +13,5 @@
 (7) A döntéshozatali szakaszban az akkreditáló szerv határoz az akkreditálásról vagy az akkreditálás iránti kérelem elutasításáról. Az akkreditált státusz öt évre szól.
 
 (8) Az akkreditáló szervnek az akkreditált státuszra vonatkozó határozata elismeri és igazolja, hogy egy szervezet vagy természetes személy alkalmas meghatározott megfelelőségértékelési feladat elvégzésére.
+
+(9) Az akkreditált státuszra vonatkozó határozat mellékletét képezi a részletező okirat.
