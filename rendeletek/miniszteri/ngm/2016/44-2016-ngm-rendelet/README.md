@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-44-20-2
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-12-13 | 2016-44-20-2X.1 | 44/2016. (XI. 28.) NGM rendelet |
+| 2016-12-14 | 2016-44-20-2X.2 | 2010: CXXX. törvény |

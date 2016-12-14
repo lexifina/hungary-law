@@ -1,4 +1,4 @@
-## 53. § Hatályát veszti a nyomástartó berendezések és rendszerek biztonsági követelményeiről és megfelelőség tanúsításáról szóló 9/2001. (IV. 5.) GM rendelet.
+## 50–53. §[^1]
 
 1. melléklet a 44/2016. (XI. 28.) NGM rendelethez
 
@@ -11,3 +11,5 @@
 2. A jelölés kicsinyítése vagy nagyítása esetében az ábra arányait be kell tartani.
 
 3. A jelölés különböző elemeinek függőleges méretei azonosak, és nem lehetnek kisebbek, mint 5 mm.
+
+[^1]: A 50–53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
