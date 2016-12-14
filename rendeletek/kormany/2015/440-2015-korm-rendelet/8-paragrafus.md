@@ -1,5 +1,3 @@
-## 7. § A Tao. támogatásban részesülő előadó-művészeti szervezet a Tao. támogatás rendeltetésszerű felhasználásáról a 3. mellékletben meghatározottak szerint számol el a kijelölt szervnek.
-
 8. § (1) A 7. § szerinti beszámolásra kötelezett előadó-művészeti szervezet a tárgyévre vonatkozó, e rendelet szerinti beszámolót a tárgyévet követő év június 30-áig köteles megküldeni a kijelölt szervnek. A kijelölt szerv a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szabályai szerinti eljárás keretében
 
 a) dönt a beszámoló elfogadásáról, vagy

@@ -1,5 +1,3 @@
-## 9. § A kijelölt szerv által kiállított támogatási igazolások alapján lehívott támogatások összértéke nem haladhatja meg a támogatási időszak során ténylegesen felmerült költségeket, ráfordításokat. A támogatás intenzitása nem haladhatja meg a 100 százalékot.
-
 10. § (1) A Tao. támogatás felhasználása során kizárólag a támogatás időtartama (tárgyév) alatt, az Emtv.-ben meghatározott támogatási célok megvalósítása során felmerült költségek számolhatók el. Tárgyévnek a Tao. támogatás pénzügyi jóváírásának éve tekintendő.
 
 (2) A tárgyév december 31-éig vállalt kötelezettségek pénzügyi teljesítése a tárgyévet követő év június 30-áig történhet meg.
