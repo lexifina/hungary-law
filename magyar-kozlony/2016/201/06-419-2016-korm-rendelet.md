@@ -1,0 +1,329 @@
+# A Kormány 419/2016. (XII. 14.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 201. szám, 2016. december 14. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/7b36f7b6653d758b048f00aebe0029cf71089323/dokumentumok/cd0e3ab9b0922d966fd9f28c04aedf9c84420fff/letoltes)
+
+---
+
+A Kormány 419/2016. (XII. 14.) Korm. rendelete
+a jövedéki adóról szóló 2016. évi LXVIII. törvény hatálybalépésével összefüggésben egyes
+kormányrendeletek módosításáról
+A Kormány
+a mérésügyről szóló 1991. évi XLV. törvény 15. § (3) bekezdés f) pontjában kapott felhatalmazás alapján,
+a 2. alcím tekintetében a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi
+CXXVII. törvény 129. § (1) bekezdés a) pontjában kapott felhatalmazás alapján,
+a 3. alcím tekintetében a kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (1) bekezdés d) pontjában kapott felhatalmazás
+alapján,
+a 4. alcím, valamint a 2–5. melléklet tekintetében a kereskedelemről szóló 2005. évi CLXIV. törvény 12. § (1) bekezdés a) és
+b) pontjában kapott felhatalmazás alapján,
+az 5. alcím, valamint a 6. melléklet tekintetében a statisztikáról szóló 1993. évi XLVI. törvény 26. § (3) bekezdés c) pontjában
+kapott felhatalmazás alapján,
+a 6. alcím tekintetében a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált
+energia üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvény 13. § (1) bekezdés g) pontjában kapott
+felhatalmazás alapján,
+a 7. alcím, valamint a 7. melléklet tekintetében a szakképzésről szóló 2011. évi CLXXXVII. törvény 88. § (3) bekezdés b) pontjában
+kapott felhatalmazás alapján,
+a 8. alcím, valamint a 8. melléklet tekintetében a nemdohányzók védelméről és a dohánytermékek fogyasztásának,
+forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvény 8. § (5) bekezdés a) pontjában kapott felhatalmazás alapján,
+a 9. alcím, valamint a 9–11. melléklet tekintetében a jövedéki adóról szóló 2016. évi LXVIII. törvény 148. § (1) bekezdésében
+kapott felhatalmazás alapján,
+a 10. alcím tekintetében a Nemzeti Adó- és Vámhivatalról szóló 2010. évi CXXII. törvény 81. § (1) bekezdés b) pontjában és 81. §
+(2) bekezdés a) pontjában kapott felhatalmazás alapján,
+a 12. § b) pontja tekintetében a jogalkotásról szóló 2010. évi CXXX. törvény 31. § (1) bekezdés b) pontjában kapott felhatalmazás
+alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. A mérésügyről szóló törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet módosítása
+1. §
+A mérésügyről szóló törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet 2. számú melléklete
+az 1. melléklet szerint módosul.
+2. A mezőgazdaságban felhasznált gázolaj utáni jövedékiadó-visszatérítés feltételeiről és szabályairól
+szóló 341/2007. (XII. 15.) Korm. rendelet módosítása
+2. § (1) A mezőgazdaságban felhasznált gázolaj utáni jövedékiadó-visszatérítés feltételeiről és szabályairól szóló 341/2007.
+(XII. 15.) Korm. rendelet (a továbbiakban: 341/2007. Korm. rendelet) 5. § (1) bekezdése helyébe a következő
+rendelkezés lép:
+„(1) A jövedékiadó-visszatérítés iránti jog a felhasználás napján keletkezik. Az adó-visszatérítés iránti kérelem
+a visszaigénylésre jogosult választása szerint:
+a) évente, legkorábban a tárgyévet követő hónap 20. napjától,
+b) negyedévente, legkorábban a tárgynegyedévet követő hónap 20. napjától, vagy
+c) havonta, legkorábban a tárgyhót követő hónap 20. napjától
+nyújtható be a ténylegesen felhasznált, 2. § szerinti gázolajmennyiségre.”
+(2) A 341/2007. Korm. rendelet 3. § (1) bekezdés b) pontjában az „az erdészeti hatósági jogkörében eljáró területileg
+illetékes az erdészeti feladatkörében eljáró megyei kormányhivatal”szövegrész helyébe az„a megyei kormányhivatal
+erdészeti feladatkörében eljáró, megyeszékhely szerinti járási hivatala”szöveg lép.
+(3) Hatályát veszti a 341/2007. Korm. rendelet
+a) 5. § (2) bekezdése,
+b) 5. § (3) bekezdésében az „Az éves bevallás a tárgyévet követő év január 15-étől, a féléves bevallás tárgyév
+július 15-étől, a III. negyedéves bevallás tárgyév október 15-étől, a IV. negyedéves bevallás a tárgyévet követő
+év január 15-étől nyújtható be a vámhatósághoz az adóbevallási nyomtatványon.”szövegrész.
+
+3. A vásárokról, a piacokról, és a bevásárlóközpontokról szóló 55/2009. (III. 13.) Korm. rendelet
+módosítása
+3. §
+A vásárokról, a piacokról, és a bevásárlóközpontokról szóló 55/2009. (III. 13.) Korm. rendelet 5. § (3) bekezdése
+helyébe a következő rendelkezés lép:
+„(3) Szeszes ital vásáron, piacon a jövedéki adóról szóló törvényben meghatározott feltételek teljesítése mellett
+árusítható.”
+4. A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet
+módosítása
+4. § (1) A kereskedelmi tevékenységek végzésének feltételeiről szóló 210/2009. (IX. 29.) Korm. rendelet (a továbbiakban:
+Ker. rendelet) 14. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Mozgóbolt útján kereskedelmi tevékenység a termékre vonatkozó jogszabály által előírt feltételek teljesítése
+mellett, valamint a kereskedő nevének és székhelyének a mozgóboltként üzemeltetett járművön, jól látható módon
+történő feltüntetésével végezhető.”
+(2) A Ker. rendelet 15. §-a helyébe a következő rendelkezés lép:
+„15. § Az alkalmi rendezvényen történő árusítás a termékre vonatkozó jogszabály által előírt feltételek teljesítése
+mellett történhet, továbbá a kereskedő jól látható módon köteles feltüntetni nevét, székhelyét az értékesítés
+helyszínén.”
+(3) A Ker. rendelet 21. § (3) bekezdésében az „a vámhatóság” szövegrész helyébe az „az állami adó- és vámhatóság”
+szöveg lép.
+(4) A Ker. rendelet
+a) 1. melléklete a 2. melléklet szerint,
+b) 2. melléklete a 3. melléklet szerint,
+c) 3. melléklete a 4. melléklet szerint,
+d) 6. melléklete az 5. melléklet szerint
+módosul.
+5. Az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló
+288/2009. (XII. 15.) Korm. rendelet módosítása
+5. §
+Az Országos Statisztikai Adatgyűjtési Program adatgyűjtéseiről és adatátvételeiről szóló 288/2009. (XII. 15.)
+Korm. rendelet (a továbbiakban: 288/2009. Korm. rendelet) 1. melléklete a 6. melléklet szerint módosul.
+6. A fenntartható bioüzemanyag-termelés követelményeiről és igazolásáról szóló
+343/2010. (XII. 28.) Korm. rendelet módosítása
+6. §
+A fenntartható bioüzemanyag-termelés követelményeiről és igazolásáról szóló 343/2010. (XII. 28.) Korm. rendelet
+1. 1. § (2) bekezdésében a „jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló
+2003. évi CXXVII. törvényben”szövegrész helyébe a„jövedéki adóról szóló törvényben”szöveg,
+2. 5. § (6) bekezdésében a „megállapítani, a Jöt. 51. § (2) bekezdésének alkalmazásával” szövegrész helyébe
+a„megállapítani a Jöt.-ben meghatározott módon”szöveg
+lép.
+7. Az állam által elismert szakképesítések szakmai követelménymoduljairól szóló
+217/2012. (VIII. 9.) Korm. rendelet módosítása
+7. §
+Az állam által elismert szakképesítések szakmai követelménymoduljairól szóló 217/2012. (VIII. 9.) Korm. rendelet
+(a továbbiakban: 217/2012. Korm. rendelet) 3. melléklete a 7. melléklet szerint módosul.
+
+8. A dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált
+figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló
+39/2013. (II. 14.) Korm. rendelet módosítása
+8. § (1) A dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről,
+valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet
+(a továbbiakban: 39/2013. Korm. rendelet) 2. § 1. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„1. bejegyzett kereskedő: a jövedéki adóról szóló törvény (a továbbiakban: Jöt.) szerinti bejegyzett kereskedő,”
+(2) A 39/2013. Korm. rendelet 2. § 12. és 13. pontja helyébe a következő rendelkezések lépnek:
+(E rendelet alkalmazásában:)
+„12. importálás: a Jöt. szerinti importálás;
+13. importáló: a Jöt. szerinti importáló;”
+(3) A 39/2013. Korm. rendelet 2. § 22. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„22. szabadforgalomba bocsátás: a Jöt. szerinti szabadforgalomba bocsátás,”
+(4) A 39/2013. Korm. rendelet 2. § 27. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában:)
+„27. adóraktár engedélyese: a Jöt. szerinti adóraktár engedélyese;”
+(5) A 39/2013. Korm. rendelet 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az adóraktár engedélyesének, az importálónak és a bejegyzett kereskedőnek a dohánytermék gyártásának
+megkezdése, illetve a dohánytermék szabad forgalomba bocsátása előtt valamennyi dohánytermékről
+az 1. mellékletben szereplő adatokat tartalmazó regisztrációs lapot kell kiállítania.”
+(6) A 39/2013. Korm. rendelet 3. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A regisztrációs lap egy példányát az adóraktárban, az importáló, a bejegyzett kereskedő székhelyén, illetve
+a raktározás helyén a hatósági ellenőrzés számára is hozzáférhető módon meg kell őrizni mindaddig, amíg
+a dohánytermék gyártása, importálása folyik, illetve a dohánytermék forgalomban van.”
+(7) A 39/2013. Korm. rendelet 6/B. § (10) bekezdés c) pontja helyébe a következő rendelkezés lép:
+[Az (1)–(9) bekezdésben foglaltakat nem kell alkalmazni:]
+„c) a zárjegyre.”
+(8) A 39/2013. Korm. rendelet 1. melléklete a 8. melléklet szerint módosul.
+(9) A 39/2013. Korm. rendelet
+a) 3. § (3) bekezdésében és a 17. § (2) bekezdésében az „A gyártó, az importáló” szövegrész helyébe
+az„Az importáló”szöveg,
+b) 6/A. § (4) bekezdésében az„az adójegyeket”szövegrész helyébe az„a zárjegyeket”szöveg,
+c) 6/A. § (5) bekezdésében az„adójegy”szövegrész helyébe a„zárjegy”szöveg,
+d) 13. § (3) bekezdésében, a 21/A. § (13) bekezdés b) pontjában és a 21/A. § (13) bekezdés c) pont
+cc) alpontjában az„az adójegy”szövegrész helyébe az„a zárjegy”szöveg,
+e) 21/A. § (13) bekezdés a) és b) pontjában az„az adójegyek”szövegrész helyébe az„a zárjegyek”szöveg,
+f) 21/A. § (13) bekezdés c) pont cc) alpontjában az„az adójegyet”szövegrész helyébe az„a zárjegyet”szöveg
+lép.
+(10) Hatályát veszti a 39/2013. Korm. rendelet
+a) 4. § (3) bekezdésében az„ , a gyártónak”szövegrész,
+b) 5. § (1) bekezdés nyitó szövegrészében a„vagy gyártott”szövegrész,
+c) 8. § (4) bekezdésében a„gyártó,”szövegrész,
+d) 17. § (2) bekezdésében az„a gyártó,”szövegrész,
+e) 18. § (4) bekezdésében az„a gyártó,”szövegrész.
+
+9. A szárított dohány és a fermentált dohány előállításáról, tárolásáról és kereskedelméről szóló
+557/2013. (XII. 31.) Korm. rendelet módosítása
+9. § (1) A szárított dohány és a fermentált dohány előállításáról, tárolásáról és kereskedelméről szóló 557/2013. (XII. 31.)
+Korm. rendelet (a továbbiakban: 557/2013. Korm. rendelet) 1. §-a helyébe a következő rendelkezés lép:
+„1. § (1) A jövedéki adóról szóló törvény (a továbbiakban: Jöt.) szerinti, a szárított és fermentált dohány belföldre
+történő behozatalához, tárolásához, értékesítéséhez és külföldre történő kiszállításához szükséges regisztrációt
+a regisztrációra kötelezettnek a vámhatóság honlapjáról letölthető, elektronikus regisztrációs adatlap kitöltésével
+a központi elektronikus szolgáltató rendszeren keresztül, legkésőbb a szárított dohánnyal és a fermentált dohánnyal
+kapcsolatos tevékenység megkezdését megelőző 15. napig kell kérelmezni. A regisztrációs adatlap adattartalmát
+az 1. melléklet tartalmazza.
+(2) A vámhatóság a nyilvántartásba vételről a 2. mellékletben meghatározott adattartalmú igazolást ad ki.
+(3) A Jöt. szerinti, a dohányimportáló és dohánykereskedő által teljesítendő bejelentést a vámhatóság honlapjáról
+letölthető, elektronikus bejelentő adatlap kitöltésével a központi elektronikus szolgáltató rendszeren keresztül kell
+megtenni. A bejelentő adatlap adattartalmát a 3. melléklet tartalmazza.
+(4) A regisztráció és a bejelentés elmulasztása esetén igazolásnak nincs helye.”
+(2) Az 557/2013. Korm. rendelet 1/A. §-a helyébe a következő rendelkezés lép:
+„1/A. § (1) A regisztrációra kötelezett termelő a megtermelt dohányt az 1. melléklet szerinti regisztrációs adatlapon
+megadott helyen tárolhatja fajtánként elkülönítetten, a mennyiségi számbavételt lehetővé tevő módon.
+(2) A termelőnek a dohány jogszerű birtokban tartását a termelői, értékesítési szerződésben foglalt utolsó átvételi
+időpontot követően a megsemmisítésig az átvevő által kiállított olyan dokumentummal kell igazolnia, amely
+tartalmazza az át nem vett dohány mennyiségét és az átvétel megtagadásának okát.
+(3) A termelő a (2) bekezdés szerinti megsemmisítés helyszínét, időpontját, a megsemmisíteni tervezett dohány
+mennyiségét legkésőbb a megsemmisítést 3 munkanappal megelőzően bejelenti a vámhatóságnak.
+(4) A tárolt dohány mennyiségéről a vámhatóság kérésére a termelő adatot szolgáltat.”
+(3) Az 557/2013. Korm. rendelet
+a) 1. melléklete a 9. melléklet szerint,
+b) 2. melléklete a 10. melléklet szerint,
+c) 3. melléklete a 11. melléklet szerint
+módosul.
+10. A Nemzeti Adó- és Vámhivatal szerveinek hatásköréről és illetékességéről szóló
+485/2015. (XII. 29.) Korm. rendelet módosítása
+10. § (1) A Nemzeti Adó- és Vámhivatal szerveinek hatásköréről és illetékességéről szóló 485/2015. (XII. 29.) Korm. rendelet
+(a továbbiakban: 485/2015. Korm. rendelet) 5. §-a a következő p)–s) pontokkal egészül ki:
+(A Központi Irányítás)
+„p) közzéteszi a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi
+CXXVII. törvényben (a továbbiakban: Jöt.) előírt, az üzemanyagok adómértékének megállapításához szükséges
+átlagos árat;
+q) közzéteszi a Jöt.-ben előírt, a dohánygyártmányok értékesítése során alkalmazható kiskereskedelmi eladási árat;
+r) közzéteszi az állami adó- és vámhatóság részére jogszabályban meghatározott kötelezettség alapján
+megjelenítendő formanyomtatványokat;
+s) jogszabály erre vonatkozó rendelkezése alapján közzéteszi a közhiteles nyilvántartás adatait.”
+(2) A 485/2015. Korm. rendelet 15. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) A Repülőtéri Igazgatóság az (1) bekezdésben foglalt feladatok vonatkozásában nem végezheti
+a) a jövedéki adóztatással és az adóellenőrzéssel kapcsolatos, jogszabályban meghatározott elsőfokú hatósági
+feladatokat;
+b) – a helyszíni szemle kivételével – a Jöt. szerinti engedélyezéssel és nyilvántartásba vétellel kapcsolatos,
+jogszabályban meghatározott elsőfokú hatósági feladatokat;
+c) a fémkereskedelmi hatósági feladatokat;
+d) a regisztrációs adóról szóló 2003. évi CX. törvényben (a továbbiakban: Rega. tv.) meghatározott adóztatási
+feladatokat;
+
+e) a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvényben (a továbbiakban: Ktdt.) foglalt hatósági
+feladatokat;
+f) a megújuló energia közlekedési célú felhasználásának előmozdításáról és a közlekedésben felhasznált energia
+üvegházhatású gázkibocsátásának csökkentéséről szóló 2010. évi CXVII. törvényben a vámhatóság részére
+meghatározott feladatokat;
+g) a fiatalkorúak dohányzásának visszaszorításáról és a dohánytermékek kiskereskedelméről szóló törvény szerinti
+dohánytermék-kiskereskedelmi tevékenység engedélyezésével kapcsolatos feladatokat;
+h) az EMGA utólagos ellenőrzést, valamint a külön jogszabály szerinti helyszíni szemle lefolytatását; valamint
+i) az AEO feltételek vizsgálatát, az engedélyezett gazdálkodói engedély (a továbbiakban: AEO engedély) kiadását,
+az AEO státus nyomon követését, újraértékelését.”
+(3) A 485/2015. Korm. rendelet 44. § (1)–(2) bekezdése helyébe a következő rendelkezés lép:
+„(1) Jövedéki ügyben az eljárást
+a) az engedélyes, – az e) pontban foglalt kivétellel – a nyilvántartásba vett személy és a hivatalos zár felhasználó
+telephelye,
+b) a Jöt. 43. §-a, 44. § (2) bekezdése, 45–46. §-a, 48. §-a, 50. §-a és 52. §-a szerinti tevékenységet végző személy,
+a jövedéki kiskereskedő, a postai szolgáltató, futár- vagy csomagszállítást végző szolgáltató, a jövedéki termék
+megsemmisítését végző személy és más jogellenes tevékenységet folytató személy tevékenységének helye,
+c) a kenőolaj Jöt. 49. §-a szerinti szállítását végző személy Magyarországra történő belépésének helye,
+d) a magánfőzésben alkalmazott desztillálóberendezésre vonatkozó szakvélemény elkészítése, valamint
+az elkobzott jövedéki termék és desztillálóberendezés megsemmisítése ügyében az eljáró önkormányzati
+adóhatóság helye,
+e) a regisztrált szárított, illetve fermentált dohányt termelő, előállító, tároló azzal kereskedő földterületének,
+telephelyének helye
+szerinti megyei igazgatóság, illetve a Repülőtéri Igazgatóság végzi.
+(2) Az (1) bekezdéstől eltérően a 10. alcímben foglalt általános illetékességi szabályok alkalmazandók:
+a) az adóztatási,
+b) az engedélyezési, nyilvántartásba vételi,
+c) a jövedéki biztosíték nyújtásával kapcsolatos,
+d) a hivatalos zár előállításával kapcsolatos adatszolgáltatási,
+e) a Jöt. 44. § (1) bekezdése, 47. §-a, 62. §-a és 69. §-a szerinti tevékenység bejelentésével kapcsolatos
+ügyekben.”
+(4) A 485/2015. Korm. rendelet 61. § o) pontja helyébe a következő rendelkezés lép:
+(A KAVIG kizárólagos hatáskörébe tartozik)
+„o) a zárjegyekkel kapcsolatos elsőfokú feladatok ellátása, kivéve a zárjegy felhasználásának helyszíni ellenőrzése és
+elszámolása, valamint az azt követő hatósági eljárás;”
+(5) A 485/2015. Korm. rendelet 63. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A KAVIG jogszabályban meghatározottak szerint ellátja a Jöt. szerinti adó diplomáciai és a konzuli képviselet
+és a diplomáciai és konzuli képviselet tagja, valamint a nemzetközi szervezet és a nemzetközi szervezet tagja által
+történő visszaigénylésével kapcsolatos feladatokat.”
+(6) A 485/2015. Korm. rendelet 66. § d) pontja helyébe a következő rendelkezés lép:
+(A KAVIG jogszabályban meghatározott azon kiemelt adózók tekintetében, akiknek a székhelye Budapest, illetve Pest
+megye közigazgatási területén található, első fokon ellátja a vámhatóság hatáskörébe utalt feladatokat, kivéve)
+„d) a 44. § (1) bekezdés szerinti eljárásokat, a helyszíni ellenőrzéssel megvalósuló Jöt. szerinti ellenőrzést, a Jöt.
+44. § (1) bekezdése és a Jöt. 69. §-a szerinti tevékenység bejelentésével kapcsolatos ügyeket, továbbá a Jöt. szerinti
+engedélyezéssel és nyilvántartásba vétellel kapcsolatos helyszíni szemle megtartását, és”
+(7) A 485/2015. Korm. rendelet 75. §-a helyébe a következő rendelkezés lép:
+„75. § A Magyarország területén székhellyel, telephellyel, fiókteleppel, illetve lakóhellyel, tartózkodási hellyel
+nem rendelkező külföldi személy jövedéki ügyében – a 44. § (1) bekezdés c) pontja és a helyszíni ellenőrzéssel
+megvalósuló Jöt. szerinti ellenőrzés kivételével – a KAVIG jár el.”
+(8) A 485/2015. Korm. rendelet 90. § (1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(A Bevetési Igazgatóság)
+„a) ellátja a pénzügyi jogszabálysértések megelőzése és felderítése érdekében a vámhatóság feladatát meghatározó
+jogszabályokban előírt helyszíni ellenőrzéseket;”
+
+(9) A 485/2015. Korm. rendelet 90. § (1) bekezdés g) pontja helyébe a következő rendelkezés lép:
+(A Bevetési Igazgatóság)
+„g) lefolytatja a Jöt. szerinti gyorsított eljárást az általa felderített jogsértések esetén;”
+(10) A 485/2015. Korm. rendelet 91. § b) pontja helyébe a következő rendelkezés lép:
+(A Szakértői Intézet)
+„b) a jövedéki termékre és az abból előállított termékre kötelező érvényű KN-kód besorolás határozatot ad ki;”
+(11) A 485/2015. Korm. rendelet 5. § p) pontjában az„és a jövedéki termékek forgalmazásának különös szabályairól szóló
+2003. évi CXXVII.”szövegrész helyébe a„szóló 2016. évi LXVIII.”szöveg lép.
+11. Záró rendelkezések
+11. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2017. január 1-jén lép hatályba.
+(2) Az 1. alcím, a 3–9. alcím, a 10. § (2)–(11) bekezdése és a 12. § 2017. április 1-jén lép hatályba.
+12. §
+Hatályát veszti
+a) a mezőgazdaságban felhasznált gázolaj utáni jövedékiadó-visszatérítés feltételeiről és szabályairól szóló
+341/2007. (XII. 15.) Korm. rendelet,
+b) az egyes folyékony tüzelő- és fűtőanyagok kéntartalmának csökkentéséről szóló 17/2003. (IV. 4.)
+GKM–KvVM–PM együttes rendelet.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet a 419/2016. (XII. 14.) Korm. rendelethez
+A mérésügyről szóló törvény végrehajtásáról szóló 127/1991. (X. 9.) Korm. rendelet 2. számú melléklet 21. sor
+„Megnevezés” oszlopában az „a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló
+jogszabály” szövegrész helyébe az „a jövedéki adóról szóló törvény”, az „adóügyi ellenőrzés” szövegrész helyébe
+az„ellenőrzés”szöveg lép.
+2. melléklet a 419/2016. (XII. 14.) Korm. rendelethez
+A Ker. rendelet 1. melléklet A) alcím I. pont 7. alpont 7.2. pontjában és B) alcím I. pont 5. alpont 5.3 pontjában
+az„a Jöt. 3. § (2) bekezdése szerinti” szövegrész helyébe az„a jövedéki adóról szóló törvény szerinti jövedéki” szöveg
+lép.
+3. melléklet a 419/2016. (XII. 14.) Korm. rendelethez
+A Ker. rendelet 2. melléklet A) alcím 8. pont 8.2 alpontjában és B) alcím 6. pont 6.3 alpontjában az „a Jöt. 3. §
+(2) bekezdése szerinti”szövegrészek helyébe az„a jövedéki adóról szóló törvény szerinti jövedéki”szöveg lép.
+
+4. melléklet a 419/2016. (XII. 14.) Korm. rendelethez
+A Ker. rendelet 3. melléklet 2. és 8. pontjában az „a Jöt. szerinti tüzelőolaj, propán vagy propán-bután gáz”
+szövegrészek helyébe az„a jövedéki adóról szóló törvény szerinti tüzelő-, fűtőanyag célú gázolaj, LPG”szöveg lép.
+5. melléklet a 419/2016. (XII. 14.) Korm. rendelethez
+A Ker. rendelet 6. melléklet 22. pontja helyébe a következő rendelkezés lép:
+„22. Gépjármű-kenőanyag, -hűtőanyag, adalékanyag és a jövedéki adóról szóló törvény szerinti üzemanyag;”
+6. melléklet a 419/2016. (XII. 14.) Korm. rendelethez
+1. A 288/2009. Korm. rendelet 1. melléklet„Országos Statisztikai Adatgyűjtési Program Adatkörök”című táblázata
+a) 2134. nyilvántartási számú sorában a„regisztrációs adó, energia adó” szövegrész helyébe a„regisztrációs adó”
+szöveg,
+b) 2236. nyilvántartási számú sorában az „a realizált regisztrációs, jövedéki és energiaadó” szövegrész helyébe
+az „a realizált regisztrációs és jövedéki adó”, a „felhasználásakor megfizetett jövedéki és energiaadó”
+szövegrész helyébe a„felhasználásakor megfizetett jövedéki adó”szöveg
+lép.
+7. melléklet a 419/2016. (XII. 14.) Korm. rendelethez
+1. A 217/2012. Korm. rendelet 3. melléklet „157. A Jövedéki feladatok ellátása megnevezésű, 10157-12 azonosító
+számú szakmai követelménymodul tartalma:” alcímében az „az adójegyekre” szövegrész helyébe az „a párlat
+adójegyre”szöveg lép.
+2. Hatályát veszti a 217/2012. Korm. rendelet 3. melléklet
+a) „156. A Jogi-, adójogi feladatok ellátása megnevezésű, 10156-12 azonosító számú szakmai
+követelménymodul tartalma:”alcímének„Energiaadóra vonatkozó szabályok”szövegrésze,
+b) „157. A Jövedéki feladatok ellátása megnevezésű, 10157-12 azonosító számú szakmai követelménymodul
+tartalma:” alcímének „– a közösségi adófelfüggesztési eljárásban szállított jövedéki termékek mozgását,
+az azzal kapcsolatban lekötött jövedéki biztosíték alakulását”, „egyes területeken bevezetett”, és
+„ , a felfüggesztés esetei, az adófelfüggesztés megszűnése”szövegrésze,
+c) „755. Az Egyéb adózási feladatok ellátása megnevezésű, 10770-12 azonosító számú szakmai
+követelménymodul tartalma:”alcímének„energiaadó”szövegrésze,
+d) „780. Az Ellenőrzés, adótervezés megnevezésű, 10795-12 azonosító számú szakmai követelménymodul
+tartalma:”alcímének„ ; hatósági felügyelet”szövegrésze.
+8. melléklet a 419/2016. (XII. 14.) Korm. rendelethez
+A 39/2013. Korm. rendelet 1. melléklet 1. pontja helyébe a következő rendelkezés lép:
+„1. Az adóraktár engedélyese, importáló vagy bejegyzett kereskedő neve, címe.”
+
+9. melléklet a 419/2016. (XII. 14.) Korm. rendelethez
+Az 557/2013. Korm. rendelet 1. melléklet II. pont 1. alpontja helyébe a következő rendelkezés lép:
+„1. Típusa a Jöt. szerint:”
+10. melléklet a 419/2016. (XII. 14.) Korm. rendelethez
+Az 557/2013. Korm. rendelet 2. I. pontjában az „és a jövedéki termékek forgalmazásának különös szabályairól szóló
+2003. évi CXXVII. törvény 110/A. § (1) bekezdés”szövegrész helyébe a„szóló törvény”szöveg lép.
+11. melléklet a 419/2016. (XII. 14.) Korm. rendelethez
+Az 557/2013. Korm. rendelet 3. melléklet II. pontja helyébe a következő rendelkezés lép:
+„II. A Jöt. szerinti tevékenység típusa:”
