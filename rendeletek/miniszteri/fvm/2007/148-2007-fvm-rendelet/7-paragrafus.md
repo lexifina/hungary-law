@@ -4,7 +4,7 @@
 
 7. § (1)[^65] A támogatás forrása a Földművelésügyi Minisztérium Folyó kiadások és jövedelem-támogatások előirányzat felhasználási keretszámla, számlaszáma 10032000-01220191- 51200002.
 
-(2)[^66] A 2016. évben rendelkezésre álló keret összege 9000 millió forint, amelyből 2500 millió forint a baromfi ágazatban, 6500 millió forint az egyéb állattenyésztési ágazatban kerül felhasználásra. Ha a baromfi ágazatban vagy az egyéb állattenyésztési ágazatban a jóváhagyott támogatás mértéke meghaladja az adott ágazatra a 2016. évben rendelkezésre álló keretből felhasználható összeget, akkor a 2016. évben elvégzett szolgáltatásokra vonatkozóan benyújtott támogatási kérelmekben foglalt jogos igények a másik ágazatban felhasználható keret terhére is teljesíthetőek. A 2016. évben rendelkezésre álló keret terhére a 2016. évben elvégzett szolgáltatásokra benyújtott támogatási kérelmekben foglalt jogos igények és a 2015. évben elvégzett szolgáltatásokra vonatkozóan benyújtott támogatási kérelmekben foglalt, de még ki nem fizetett jogos igények teljesíthetők.
+(2)[^66] A 2016. évben rendelkezésre álló keret összege 9500 millió forint, amelyből 2500 millió forint a baromfi ágazatban, 7000 millió forint az egyéb állattenyésztési ágazatban kerül felhasználásra. Ha a baromfi ágazatban vagy az egyéb állattenyésztési ágazatban a jóváhagyott támogatás mértéke meghaladja az adott ágazatra a 2016. évben rendelkezésre álló keretből felhasználható összeget, akkor a 2016. évben elvégzett szolgáltatásokra vonatkozóan benyújtott támogatási kérelmekben foglalt jogos igények a másik ágazatban felhasználható keret terhére is teljesíthetőek. A 2016. évben rendelkezésre álló keret terhére a 2016. évben elvégzett szolgáltatásokra benyújtott támogatási kérelmekben foglalt jogos igények és a 2015. évben elvégzett szolgáltatásokra vonatkozóan benyújtott támogatási kérelmekben foglalt, de még ki nem fizetett jogos igények teljesíthetők.
 
 (3)[^67] A (2) bekezdésben meghatározott keretek 50%-os kihasználtságáról és minden további 10%-os mértékű felhasználásáról az MVH köteles a minisztert és a NÉBIH elnökét is tájékoztatni. A miniszter a keretek várható kimerüléséről közleményt ad ki.
 
@@ -14,7 +14,7 @@
 
 [^64]: A 6/C. §-t a 23/2011. (III. 28.) VM rendelet 7. §-a iktatta be, szövege a 40/2015. (VII. 13.) FM rendelet 2. § (11) bekezdés b) pontja szerint módosított szöveg.
 [^65]: A 7. § (1) bekezdése a 24/2014. (XI. 6.) FM rendelet 10. § d) pontja szerint módosított szöveg.
-[^66]: A 7. § (2) bekezdése a 65/2016. (IX. 21.) FM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^66]: A 7. § (2) bekezdése a 65/2016. (IX. 21.) FM rendelet 3. § (1) bekezdésével megállapított, a 80/2016. (XII. 13.) FM rendelet 3. §-a szerint módosított szöveg.
 [^67]: A 7. § (3) bekezdése a 65/2016. (IX. 21.) FM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^68]: A 7. § (4) bekezdését újonnan a 25/2016. (IV. 11.) FM rendelet 13. §-a iktatta be.
 [^69]: A 7. § (5) bekezdését a 65/2016. (IX. 21.) FM rendelet 3. § (2) bekezdése iktatta be.

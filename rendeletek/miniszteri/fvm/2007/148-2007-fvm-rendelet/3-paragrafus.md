@@ -40,7 +40,7 @@ adatot kell szolgáltatni a Támogatásokat Vizsgáló Iroda mint az állami tá
 
 (10)[^18] A (9) bekezdés szerinti adatszolgáltatást a támogatást nyújtó a 37/2011. (III. 22.) Korm. rendelet 18/A–18/D. §-a szerint teljesíti.
 
-[^9]: A 3. § (1) bekezdése a 4/2016. (I. 20.) FM rendelet 2. § (1) bekezdésével megállapított, a nyitó szövegrésze a 78/2016. (XII. 12.) FM rendelet 9. § a) pontja szerint módosított szöveg.
+[^9]: A 3. § (1) bekezdése a 4/2016. (I. 20.) FM rendelet 2. § (1) bekezdésével megállapított, a nyitó szövgerésze a 78/2016. (XII. 12.) FM rendelet 9. § a) pontja szerint módosított szöveg.
 [^10]: A 3. § (1) bekezdés a) pontja a 78/2016. (XII. 12.) FM rendelet 8. § a) pontja szerint módosított szöveg.
 [^11]: A 3. § (2) bekezdése a 77/2012. (VII. 27.) VM rendelet 1. §-ával megállapított, a 24/2014. (XI. 6.) FM rendelet 10. § a) pontja szerint módosított szöveg.
 [^12]: A 3. § (4) bekezdését a 23/2015. (V. 13.) FM rendelet 5. § (1) bekezdése iktatta be.
