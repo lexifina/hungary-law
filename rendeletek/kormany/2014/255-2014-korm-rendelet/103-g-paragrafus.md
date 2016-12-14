@@ -1,4 +1,4 @@
-## 56. [^182] Az agrárerdészeti rendszerhez nyújtott támogatás
+## 56. [^183] Az agrárerdészeti rendszerhez nyújtott támogatás
 
 103/G. § (1) Az agrárerdészeti rendszerhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) a létesítés, fenntartás hektáronkénti éves költségére vehető igénybe.
 
@@ -36,4 +36,4 @@ c) az adott földterület fenntartható mezőgazdasági hasznosításának szük
 
 (7) Az agrárerdészeti rendszer fenntartása vonatkozásában a 702/2014/EU bizottsági rendelet 33. cikk (8) bekezdése szerinti költség számolható el.
 
-[^182]: Az 56. alcímet (103/G. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
+[^183]: Az 56. alcímet (103/G. §) a 271/2015. (IX. 18.) Korm. rendelet 19. §-a iktatta be.
