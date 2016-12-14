@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-75-20-2
 | --- | --- | --- |
 | 2016-04-06 | 2016-75-20-22.1 | 75/2016. (IV. 5.) Korm. rendelet |
 | 2016-04-07 | 2016-75-20-22.2 | 2010: CXXX. törvény |
+| 2016-12-14 | 2016-75-20-22.3 | 411/2016. (XII. 13.) Korm. rendelet |
