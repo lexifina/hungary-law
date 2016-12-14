@@ -1,19 +1,19 @@
-## 18.[^156] Az Európai Unió jogának való megfelelés
+## 18.[^163] Az Európai Unió jogának való megfelelés
 
-## 38. §[^157] Ez a rendelet
+## 38. §[^164] Ez a rendelet
 
 a) az Európai Unió működéséről szóló szerződés 108. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló, 2015. július 13-i 2015/1589/EU tanácsi rendelet (HL L 248., 2015.9.24.),
 
 b) az Európai Unió működéséről szóló szerződés 108. cikkének alkalmazására vonatkozó részletes szabályok megállapításáról szóló (EU) 2015/1589 tanácsi rendelet végrehajtásáról szóló, 2004. április 21-i 794/2004/EK bizottsági rendelet (HL L 140., 2004.4.30.),
 
-c)[^158] a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1. o.),
+c)[^165] a Szerződés 107. és 108. cikke alkalmazásában bizonyos támogatási kategóriáknak a belső piaccal összeegyeztethetővé nyilvánításáról szóló, 2014. június 17-i 651/2014/EU bizottsági rendelet (HL L 187., 2014.6.26., 1. o.),
 
-d)[^159] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet (HL L 193., 2014.7.1.),
+d)[^166] az Európai Unió működéséről szóló szerződés 107. és 108. cikkének alkalmazásában a mezőgazdasági és erdészeti ágazatban, valamint a vidéki térségekben nyújtott támogatások bizonyos kategóriáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. június 25-i 702/2014/EU bizottsági rendelet (HL L 193., 2014.7.1.),
 
-e)[^160] az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. december 16-i 1388/2014/EU bizottsági rendelet (HL L 369., 2014.12.24., 37-63. o.)
+e)[^167] az Európai Unió működéséről szóló szerződés 107. és 108. cikke alkalmazásában a halászati és akvakultúra-termékek előállításával, feldolgozásával és forgalmazásával foglalkozó vállalkozások számára nyújtott támogatások bizonyos fajtáinak a belső piaccal összeegyeztethetőnek nyilvánításáról szóló, 2014. december 16-i 1388/2014/EU bizottsági rendelet (HL L 369., 2014.12.24., 37-63. o.)
 
-[^156]: A 18. alcím címe a 381/2012. (XII. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^157]: A 38. § a 38/2016. (III. 3.) Korm. rendelet 10. §-ával megállapított szöveg.
-[^158]: A 38. § c) pontját a 177/2016. (VII. 1.) Korm. rendelet 6. §-a iktatta be.
-[^159]: A 38. § d) pontját a 177/2016. (VII. 1.) Korm. rendelet 6. §-a iktatta be.
-[^160]: A 38. § e) pontját a 177/2016. (VII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^163]: A 18. alcím címe a 381/2012. (XII. 19.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^164]: A 38. § a 38/2016. (III. 3.) Korm. rendelet 10. §-ával megállapított szöveg.
+[^165]: A 38. § c) pontját a 177/2016. (VII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^166]: A 38. § d) pontját a 177/2016. (VII. 1.) Korm. rendelet 6. §-a iktatta be.
+[^167]: A 38. § e) pontját a 177/2016. (VII. 1.) Korm. rendelet 6. §-a iktatta be.

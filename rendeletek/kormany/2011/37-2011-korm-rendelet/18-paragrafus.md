@@ -1,4 +1,4 @@
-## 7. [^118] Az Európai Bizottság részére történő bejelentési kötelezettség hatálya alá tartozó, létező támogatási programból nyújtott állami támogatásokkal kapcsolatos eljárás
+## 7. [^125] Az Európai Bizottság részére történő bejelentési kötelezettség hatálya alá tartozó, létező támogatási programból nyújtott állami támogatásokkal kapcsolatos eljárás
 
 18. § (1) Létező támogatási programból előzetesen be kell jelenteni a miniszter részére a (2) és (3) bekezdés szerinti állami támogatásokat. A (2) bekezdésben meghatározott állami támogatások esetében a miniszter eljárására az 5. alcímben foglaltakat kell alkalmazni.
 
@@ -22,4 +22,4 @@ c) bármely más állami támogatásról, amely esetében uniós állami támoga
 
 (4) Az uniós állami támogatási szabályok megkerülése érdekében a támogatási programok és a projektek nem darabolhatók fel.
 
-[^118]: A 7. alcím (18. §) a 177/2016. (VII. 1.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^125]: A 7. alcím (18. §) a 177/2016. (VII. 1.) Korm. rendelet 4. §-ával megállapított szöveg.

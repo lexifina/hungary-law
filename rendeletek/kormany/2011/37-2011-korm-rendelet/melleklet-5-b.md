@@ -140,6 +140,6 @@
 
 | A minőségrendszer hatálya alá tartozó gyapottal és élelmiszerekkel kapcsolatos tájékoztatási és promóciós tevékenységekhez nyújtott támogatás (49. cikk) | ...% | ... Ft |
 
-5/B. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^174]
+5/B. melléklet a 37/2011. (III. 22.) Korm. rendelethez[^181]
 
-[^174]: Az 5/B. mellékletet a 38/2016. (III. 3.) Korm. rendelet 11. § (2) bekezdés b) pontja iktatta be.
+[^181]: Az 5/B. mellékletet a 38/2016. (III. 3.) Korm. rendelet 11. § (2) bekezdés b) pontja iktatta be.

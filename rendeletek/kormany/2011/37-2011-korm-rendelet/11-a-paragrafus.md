@@ -1,4 +1,4 @@
-11/A. §[^85] (1) Csekély összegű támogatásként nyújtott agrár és vidékfejlesztési állami támogatások esetében az alábbi, (2)–(12) bekezdések szerinti feltételeknek kell megfelelni.
+11/A. §[^92] (1) Csekély összegű támogatásként nyújtott agrár és vidékfejlesztési állami támogatások esetében az alábbi, (2)–(12) bekezdések szerinti feltételeknek kell megfelelni.
 
 (2) Ha a kedvezményezett más, a tárgyévben vagy az azt megelőző két üzleti évben csekély összegű támogatást igénybe vett kedvezményezettel egy és ugyanazon vállalkozásnak minősül, – az MVH 11. § (5) bekezdésben meghatározott nyilvántartási rendszerének hatálya alá tartozó támogatások esetében – az általános, halászati és mezőgazdasági csekély összegű támogatás igénybevételének feltétele, hogy a kedvezményezett a támogatást nyújtó szervnek nyilatkozzon arról, hogy mely egyéb vállalkozásokkal tekinthető egy és ugyanazon vállalkozásnak. Ezt a nyilatkozatot a támogatást nyújtó szerv továbbítja a csekély összegű támogatásokról nyilvántartási rendszert működtető MVH részére.
 
@@ -26,4 +26,4 @@ b) a szétválást megelőzően nyújtott csekély összegű támogatást a tám
 
 (12) A kedvezményezett, valamint a vele egy és ugyanazon vállalkozásnak minősülő vállalkozás által a tárgyévet és az azt megelőző két üzleti évet magába foglaló időszakban igénybe vett mezőgazdasági és halászati csekély összegű támogatás mértékéről szóló nyilatkozatnak a 11. § (5) bekezdés szerinti nyilvántartási rendszerben szereplő adatok minősülnek.
 
-[^85]: A 11/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 548. §-a iktatta be.
+[^92]: A 11/A. §-t a 221/2014. (IX. 4.) Korm. rendelet 548. §-a iktatta be.

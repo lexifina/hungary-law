@@ -1,4 +1,4 @@
-## 7/A. [^119] Az Európai Bizottság részére történő speciális tájékoztatási és közzétételi kötelezettség hatálya alá tartozó állami támogatásokkal kapcsolatos eljárás
+## 7/A. [^126] Az Európai Bizottság részére történő speciális tájékoztatási és közzétételi kötelezettség hatálya alá tartozó állami támogatásokkal kapcsolatos eljárás
 
 18/A. § (1) A 651/2014/EU bizottsági rendelet hatálya alá tartozó támogatási intézkedések esetében a támogatást nyújtó megküldi a miniszter részére
 
@@ -28,4 +28,4 @@ c) a bejelentéssel egyidejűleg a közzétételi kötelezettség teljesítésé
 
 (5) A 651/2014/EU bizottsági rendelet és a 702/2014/EU bizottsági rendelet hatálya alá tartozó, adózó által érvényesített kedvezmény formájában megvalósuló támogatási programokról az állami adó- és vámhatóság az adózás rendjéről szóló 2003. évi XCII. törvény szerinti tartalommal és határidőben szolgáltat adatot a miniszternek.
 
-[^119]: A 7/A. alcímet (18/A–18/D. §) a 177/2016. (VII. 1.) Korm. rendelet 4. §-a iktatta be.
+[^126]: A 7/A. alcímet (18/A–18/D. §) a 177/2016. (VII. 1.) Korm. rendelet 4. §-a iktatta be.
