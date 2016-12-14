@@ -60,6 +60,6 @@
 
 ## Az adatokat a kárbekövetkezés évére vonatkozóan kell jelenteni.
 
-8–13. melléklet a 48/2016. (XII. 12.) MNB rendelethez[^6]
+8–13. melléklet a 48/2016. (XII. 12.) MNB rendelethez[^7]
 
-[^6]: A 8–13. melléklet a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^7]: A 8–13. melléklet a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

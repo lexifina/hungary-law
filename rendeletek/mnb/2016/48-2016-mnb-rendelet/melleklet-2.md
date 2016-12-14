@@ -100,6 +100,6 @@
 
 ## 4.4. Az egyes (eszköz- és forrás-, illetve eredménykimutatási) tételeket a Számv. tv., valamint a Bszkr. szerinti előírásoknak megfelelően kell részletezni.
 
-2–6. melléklet a 48/2016. (XII. 12.) MNB rendelethez[^4]
+2–6. melléklet a 48/2016. (XII. 12.) MNB rendelethez[^5]
 
-[^4]: A 2–6. melléklet a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^5]: A 2–6. melléklet a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
