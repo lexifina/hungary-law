@@ -16,9 +16,7 @@ a 2015. évben 100 millió forint, a 2016. évben 700 millió forint, a 2017. é
 
 a) a Róheim-villa felújítása és
 
-b) a felújítást követően annak a Magyar Corvin-lánc Testület és a Magyar Corvin-lánc Iroda elhelyezése céljából, az állami vagyonra vonatkozó jogszabályok szerint történő hasznosítása
-
-érdekében.
+b)[^2]
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -27,3 +25,5 @@ Miniszterelnökséget vezető miniszter
 Határidő: az a) alpont tekintetében 2017. június 30.
 
 a b) alpont tekintetében a villa felújítását követően azonnal
+
+[^2]: A 3. pont b) alpontját az 1753/2016. (XII. 14.) Korm. határozat 3. pontja visszavonta.
