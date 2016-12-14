@@ -128,6 +128,6 @@
 
 ## – a tervezéskor figyelembe vett lehetséges alternatívák rövid bemutatása, az előterjesztendő változat indoklása.
 
-8–9. melléklet a 49/2016. (XII. 12.) MNB rendelethez[^8]
+8–9. melléklet a 49/2016. (XII. 12.) MNB rendelethez[^9]
 
-[^8]: A 8–9. melléklet a 10. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^9]: A 8–9. melléklet a 10. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

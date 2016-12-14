@@ -170,6 +170,6 @@
 
 ## – minden olyan információ, amelyet a pénztár fontosnak tart megemlíteni.
 
-6. melléklet a 49/2016. (XII. 12.) MNB rendelethez[^6]
+6. melléklet a 49/2016. (XII. 12.) MNB rendelethez[^7]
 
-[^6]: A 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–44. sora, valamint az ott meghatározott felügyeleti jelentések táblái a 10. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^7]: A 6. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–44. sora, valamint az ott meghatározott felügyeleti jelentések táblái a 10. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

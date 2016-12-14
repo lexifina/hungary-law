@@ -146,6 +146,6 @@
 
 ## – a tervezéskor figyelembe vett lehetséges alternatívák rövid bemutatása, az előterjesztendő változat indoklása.
 
-4. melléklet a 49/2016. (XII. 12.) MNB rendelethez[^4]
+4. melléklet a 49/2016. (XII. 12.) MNB rendelethez[^5]
 
-[^4]: A 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–15. sora, valamint az ott meghatározott felügyeleti jelentések táblái a 10. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^5]: A 4. melléklet „ÖSSZEFOGLALÓ TÁBLA” megnevezésű táblázat 1–15. sora, valamint az ott meghatározott felügyeleti jelentések táblái a 10. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
