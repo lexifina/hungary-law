@@ -4,5 +4,8 @@
 
 (2) E rendeletnek a 25/2016. (IV. 11.) FM rendelettel hatályon kívül helyezett 1. § (6b) bekezdését és 2. § (11) bekezdését a 2016. támogatási évre benyújtott támogatási kérelemre indult eljárásokban sem kell alkalmazni.
 
+(3)[^82] E rendeletnek az egyes agrárgazdasági tárgyú miniszteri rendeletek módosításáról szóló 80/2016. (XII. 13.) FM rendelettel megállapított 1. § (6) bekezdését a 2016. támogatási évre benyújtott támogatási kérelmekre indult eljárásokban is alkalmazni kell.
+
 [^80]: A 12. §-t a 80/2015. (XII. 4.) FM rendelet 17. §-a iktatta be.
 [^81]: A 13. §-t a 25/2016. (IV. 11.) FM rendelet 10. §-a iktatta be.
+[^82]: A 13. § (3) bekezdését a 80/2016. (XII. 13.) FM rendelet 2. §-a iktatta be.
