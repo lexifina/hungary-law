@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-5-20-53
 | 2014-01-01 | 1996-5-20-53.5 | 40/2012. (XII. 20.) NGM rendelet |
 | 2014-12-30 | 1996-5-20-53.6 | 40/2012. (XII. 20.) NGM rendelet |
 | 2015-12-29 | 1996-5-20-53.7 | 40/2012. (XII. 20.) NGM rendelet |
+| 2016-12-14 | 1996-5-20-53.8 | 40/2012. (XII. 20.) NGM rendelet |
