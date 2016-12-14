@@ -1,0 +1,9 @@
+# 1758/2016. (XII. 14.) Korm. határozat
+
+a Budapest Music Center kibővítéseként a Modern Opera – OPERA X megvalósításával összefüggő beruházással kapcsolatos intézkedésekről
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1758-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-12-14 | 2016-1758-30-22.1 | 1758/2016. (XII. 14.) Korm. határozat |
