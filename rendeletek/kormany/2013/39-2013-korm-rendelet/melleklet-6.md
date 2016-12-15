@@ -1,4 +1,4 @@
-6. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^58]
+6. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^75]
 
 Nyomtatásra vonatkozó műszaki előírások
 
@@ -74,4 +74,4 @@ A gyártóknak gondoskodniuk kell arról, hogy a csomagolási egység felnyitás
 
 4. Illusztrációk a kombinált egészségvédő figyelmeztetés elhelyezésére
 
-[^58]: A 6. melléklet a 413/2015. (XII. 23.) Korm. rendelet 53. § (2) bekezdésével megállapított szöveg.
+[^75]: A 6. melléklet a 413/2015. (XII. 23.) Korm. rendelet 53. § (2) bekezdésével megállapított szöveg.

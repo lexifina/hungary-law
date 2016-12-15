@@ -1,4 +1,4 @@
-19/D. §[^46] (1) Az elektronikus cigaretták, a dohányzást imitáló elektronikus eszközök és utántöltő flakonok gyártói és importálói kötelesek a közös adatbeviteli kapun keresztül évente adatokat szolgáltatni a tárgyévet követő év március 31-éig
+19/D. §[^52] (1) Az elektronikus cigaretták, a dohányzást imitáló elektronikus eszközök és utántöltő flakonok gyártói és importálói kötelesek a közös adatbeviteli kapun keresztül évente adatokat szolgáltatni a tárgyévet követő év március 31-éig
 
 a) márkanevenként és terméktípusonként az értékesítési volumenekről,
 
@@ -18,4 +18,4 @@ azzal, hogy a tárgyév a listák benyújtását megelőző év január 1-jétő
 
 (5) Az (1) bekezdés szerint szolgáltatott adatokat és a (4) bekezdés szerint készült tájékoztatást az OGYÉI közzéteszi a honlapján az üzleti titok megsértése nélkül.
 
-[^46]: A 19/D. §-t a 239/2016. (VIII. 16.) Korm. rendelet 16. §-a iktatta be.
+[^52]: A 19/D. §-t a 239/2016. (VIII. 16.) Korm. rendelet 16. §-a iktatta be.

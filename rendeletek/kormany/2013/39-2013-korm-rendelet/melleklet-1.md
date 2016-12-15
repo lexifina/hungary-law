@@ -1,4 +1,6 @@
-1. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^53]
+## 24. §[^68] E rendeletnek a dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet módosításáról szóló 421/2016. (XII. 14.) Korm. rendelettel (a továbbiakban: MódR.2.) megállapított rendelkezéseit a MódR.2. hatálybalépésekor[^69] folyamatban lévő eljárásokban is alkalmazni kell.
+
+1. melléklet a 39/2013. (II. 14.) Korm. rendelethez[^70]
 
 Regisztrációs lap tartalmi elemei
 
@@ -56,4 +58,6 @@ importáló, bejegyzett kereskedő
 
 vagy tároló adóraktár engedélyes neve
 
-[^53]: Az 1. melléklet a 239/2016. (VIII. 16.) Korm. rendelet 19. § (1) bekezdése a 20. § g) pontja szerint módosított szöveg.
+[^68]: A 24. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 421/2016. (XII. 14.) Korm. rendelet 8. §-a iktatta be.
+[^69]: A hatálybalépés időpontja 2016. december 15.
+[^70]: Az 1. melléklet a 239/2016. (VIII. 16.) Korm. rendelet 19. § (1) bekezdése a 20. § g) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-18/A. §[^39] (1) A 18. § (1) bekezdése szerinti adatszolgáltatáson túl a dohánytermék gyártójának és importálójának az Európai Bizottság végrehajtási rendeletében meghatározott prioritási listán szereplő adalékanyagok tekintetében fokozott jelentéstételi kötelezettsége van.
+18/A. §[^43] (1) A 18. § (1) bekezdése szerinti adatszolgáltatáson túl a dohánytermék gyártójának és importálójának az Európai Bizottság végrehajtási rendeletében meghatározott prioritási listán szereplő adalékanyagok tekintetében fokozott jelentéstételi kötelezettsége van.
 
 (2) Az (1) bekezdés szerinti jelentéstételi kötelezettség keretében a dohánytermékek gyártójának és importálójának átfogó tanulmányokat kell végeznie, amelyekben minden egyes érintett adalékanyag vonatkozásában meg kell vizsgálni, hogy az adalékanyag
 
@@ -16,4 +16,4 @@ d) hatására keletkeznek-e CMR tulajdonságokkal rendelkező anyagok, valamint 
 
 (5) Az Európai Bizottság és az ÁNTSZ-OTH a gyártóktól vagy az importálóktól kiegészítő információt kérhet a szóban forgó adalékanyagról. Ez a kiegészítő információ a jelentés részét képezi.
 
-[^39]: A 18/A. §-t a 239/2016. (VIII. 16.) Korm. rendelet 15.-a iktatta be.
+[^43]: A 18/A. §-t a 239/2016. (VIII. 16.) Korm. rendelet 15.-a iktatta be.

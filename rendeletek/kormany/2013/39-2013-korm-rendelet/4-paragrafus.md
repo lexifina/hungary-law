@@ -1,8 +1,8 @@
-4. §[^8] (1) A dohánytermék hozzáadott tiltott adalékanyagokat, idegen anyagokat nem tartalmazhat. A tiltott adalékanyagok listáját a 4. melléklet tartalmazza.
+4. §[^9] (1) A dohánytermék hozzáadott tiltott adalékanyagokat, idegen anyagokat nem tartalmazhat. A tiltott adalékanyagok listáját a 4. melléklet tartalmazza.
 
 (2) Tilos a 4. melléklet szerinti adalékanyagokat tartalmazó dohánytermékek forgalomba hozatala.
 
-(3) Az adalékanyagoknak a dohánytermék gyártásában való felhasználását a felhasználás tervezett kezdő időpontját 6 hónappal megelőzően, de legkésőbb a felhasználás tervezett időpontját 30 nappal megelőzően a felhasználónak, a gyártónak, a bejegyzett kereskedőnek, az importálónak vagy az adóraktár engedélyesének (a továbbiakban együtt: bejelentő) be kell jelentenie az ÁNTSZ-OTH-nak. A bejelentést a 3. melléklet szerinti adattartalommal kell megtenni. A bejelentett adatokról az ÁNTSZ-OTH hatósági nyilvántartást vezet, és azt a honlapján közzéteszi. Nem szükséges bejelenteni a nyersdohány természetes részeinek felhasználását. Nem szükséges újabb bejelentést tenni, ha egy másik bejelentő már bejelentette az adalékanyagot és annak felhasználását az ÁNTSZ-OTH tudomásul vette, valamint a honlapján közzétette.
+(3)[^10] Az új adalékanyagoknak a dohánytermék gyártásában való felhasználását a felhasználás tervezett kezdő időpontját 6 hónappal megelőzően, de legkésőbb a felhasználás tervezett időpontját 30 nappal megelőzően a felhasználónak, a gyártónak, a bejegyzett kereskedőnek, az importálónak vagy az adóraktár engedélyesének (a továbbiakban együtt: bejelentő) be kell jelentenie az ÁNTSZ–OTH-nak. A bejelentést a 3. melléklet szerinti adattartalommal kell megtenni. A bejelentett adatokról az ÁNTSZ–OTH hatósági nyilvántartást vezet, és azt a honlapján közzéteszi. Nem szükséges bejelenteni a nyersdohány természetes részeinek felhasználását.
 
 (4) A bejelentéshez mellékelni kell:
 
@@ -22,4 +22,5 @@ b) az akkreditált laboratórium által kiadott, a bevizsgálás eredményét r�
 
 (10) A határokon átnyúló távértékesítés esetében a terméket abban a tagállamban forgalomba hozott terméknek kell tekinteni ahol a fogyasztó tartózkodik.
 
-[^8]: A 4. § a 239/2016. (VIII. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^9]: A 4. § a 239/2016. (VIII. 16.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^10]: A 4. § (3) bekezdése a 421/2016. (XII. 14.) Korm. rendelet 2. §-ával megállapított szöveg.

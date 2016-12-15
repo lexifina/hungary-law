@@ -40,6 +40,8 @@ g) vízipipadohány: olyan dohánytermék, amely vízipipával fogyasztható,
 
 h) bármely olyan egyéb termék, amelyet dohányzás céljából gyártanak, még abban az esetben is, ha csupán részben tartalmaz – akár géntechnológiával módosított formában, akár nem ilyen formában – dohányt;
 
+3a.[^3] egészségvédő figyelmeztetés: a szöveges figyelmeztetés, a kombinált egészségvédő figyelmeztetés, az általános figyelmeztetés és a tájékoztatás.
+
 4. export: olyan jövedéki terméknek az Európai Unión kívüli államba történő értékesítése, amelyet a vámhatóság végleges rendeltetéssel az Európai Unión kívüli államba kiléptet;
 
 5. forgalomba hozatal: a termék – bármilyen módon történő – hozzáférhetővé tétele az unióbeli fogyasztók számára, tekintet nélkül a termék gyártásának helyére;
@@ -103,3 +105,4 @@ a) amely nem tartozik a következő kategóriák egyikébe sem: cigaretta, cigar
 b) amelyet 2014. május 19-e után hoznak forgalomba.
 
 [^2]: A 2. § a 239/2016. (VIII. 16.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § 3a. pontját a 421/2016. (XII. 14.) Korm. rendelet 1. §-a iktatta be.

@@ -1,4 +1,4 @@
-## 9/A. [^45] Az elektronikus cigarettára, a dohányzást imitáló elektronikus eszközre és az utántöltő flakonra vonatkozó szabályok
+## 9/A. [^49] Az elektronikus cigarettára, a dohányzást imitáló elektronikus eszközre és az utántöltő flakonra vonatkozó szabályok
 
 19/A. § (1) Az Nvt. 7/D. § (1) bekezdése szerinti bejelentést az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI) részére a 2015/2183 bizottsági végrehajtási határozat szerinti közös adatbeviteli kapun keresztül kell benyújtani magyar vagy angol nyelven, a 2015/2183 bizottsági végrehajtási határozat szerinti adattartalommal.
 
@@ -22,4 +22,4 @@ g) nyilatkozatot arról, hogy a gyártó és az importáló teljes felelőssége
 
 (4) A dohányzást imitáló elektronikus eszközök esetében a bejelentést a 2015/2183 bizottsági végrehajtási határozat szerinti közös adatbeviteli kapun keresztül a (2) bekezdés a)–c) és e)–g) pontja szerinti adattartalommal kell megtenni.
 
-[^45]: A 9/A. alcímet (19/A–19/C. §) a 413/2015. (XII. 23.) Korm. rendelet 51. §-a iktatta be, szövege a 239/2016. (VIII. 16.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^49]: A 9/A. alcímet (19/A–19/C. §) a 413/2015. (XII. 23.) Korm. rendelet 51. §-a iktatta be, szövege a 239/2016. (VIII. 16.) Korm. rendelet 16. §-ával megállapított szöveg.

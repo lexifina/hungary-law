@@ -1,6 +1,6 @@
 ## 9. Adatszolgáltatás
 
-18. §[^38] (1) A dohánytermék forgalomba hozatalát megelőzően azok gyártójának és importálójának be kell nyújtania a 2015/2186 bizottsági végrehajtási határozat szerinti közös adatbeviteli kapun keresztül márkanevenként és alfajtánként magyar vagy angol nyelven
+18. §[^42] (1) A dohánytermék forgalomba hozatalát megelőzően azok gyártójának és importálójának be kell nyújtania a 2015/2186 bizottsági végrehajtási határozat szerinti közös adatbeviteli kapun keresztül márkanevenként és alfajtánként magyar vagy angol nyelven
 
 a) a dohánytermékek összetevőire vonatkozó adatokat az egyes összetevők súlyának csökkenő sorrendjében, és
 
@@ -18,4 +18,4 @@ b) a dohánytermékeknek az 5. § (1) bekezdése szerinti kibocsátási szintekr
 
 (7) A közös adatbeviteli kapun keresztül feltöltött adatokat az agrárpolitikáért felelős miniszter minden év április 30-áig, az üzleti titok védelmére tekintettel, az általa vezetett minisztérium honlapján keresztül nyilvánosságra hozza, és elektronikus formában megküldi az egészségügyért felelős miniszter, az ÁNTSZ-OTH és a NEFI DF részére.
 
-[^38]: A 18. § a 239/2016. (VIII. 16.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^42]: A 18. § a 239/2016. (VIII. 16.) Korm. rendelet 14. §-ával megállapított szöveg.

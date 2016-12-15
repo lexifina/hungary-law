@@ -1,5 +1,5 @@
-19/E. §[^47] (1) Az elektronikus cigaretták és utántöltő flakonok gyártói, importőrei és forgalmazói kötelesek adatgyűjtési rendszert kialakítani és fenntartani ezen termékeknek az emberi egészségre gyakorolt valamennyi vélelmezett káros hatásáról.
+19/E. §[^53] (1) Az elektronikus cigaretták és utántöltő flakonok gyártói, importőrei és forgalmazói kötelesek adatgyűjtési rendszert kialakítani és fenntartani ezen termékeknek az emberi egészségre gyakorolt valamennyi vélelmezett káros hatásáról.
 
 (2) Ha a gyártó, az importőr vagy a forgalmazó bármelyike úgy véli, alapos okkal feltételezi, hogy a birtokában lévő, forgalomba hozni kívánt vagy forgalomba hozott termék nem biztonságos vagy nem jó minőségű, vagy más szempontból nem felel meg a vonatkozó jogszabályoknak, haladéktalanul megteszi az ahhoz szükséges korrekciós intézkedéseket, hogy az érintett termék megfeleljen az előírásoknak, illetve hogy azt kivonják a forgalomból vagy visszahívják. A termék gyártója, importőre vagy forgalmazója köteles azon tagállamok piacfelügyeleti hatóságait, ahol a terméket forgalmazzák vagy forgalmazni kívánják, haladéktalanul értesíteni elsősorban az emberi egészségre gyakorolt kockázatokról és biztonsági kockázatokról, valamint az esetlegesen megtett korrekciós intézkedésekről és azok eredményéről.
 
-[^47]: A 19/E. §-t a 239/2016. (VIII. 16.) Korm. rendelet 16. §-a iktatta be.
+[^53]: A 19/E. §-t a 239/2016. (VIII. 16.) Korm. rendelet 16. §-a iktatta be.
