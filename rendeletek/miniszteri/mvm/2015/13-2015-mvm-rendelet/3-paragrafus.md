@@ -12,6 +12,8 @@ cb) a védettség keletkezésének időpontját, ideiglenes védelem esetében a
 
 cc) a védettséget keletkeztető miniszteri döntés, határozat vagy jogszabály számát,
 
+cd)[^4] a védetté nyilvánított régészeti lelőhelyre vonatkozó elővásárlási jog fennállásának tényét,
+
 d) azon ingatlanok ingatlan-nyilvántartási adatait (helyrajzi szám, terület, művelési ág), amelyek területén a lelőhely fekszik,
 
 e) a védetté nyilvánított régészeti lelőhely védőövezetének b) és c) pont szerinti adatait,
@@ -27,3 +29,5 @@ i) az örökségvédelmi bírságkategóriába történő besorolást, valamint
 j) a védettség megszűnése esetén annak időpontját és az arról rendelkező jogszabály számát.
 
 (2) A nyilvántartás az (1) bekezdés d), valamint f)–h) pontja szerinti tartalmi követelményeket jogszabály vagy szolgáltatási szerződés alapján más, jogszabály alapján vezetett nyilvántartás tartalmára hivatkozással, annak közvetlen informatikai elérését biztosítva is teljesítheti.
+
+[^4]: A 3. § (1) bekezdés c) pont cd) alpontját a 32/2016. (XII. 14.) MvM rendelet 1. §-a iktatta be.

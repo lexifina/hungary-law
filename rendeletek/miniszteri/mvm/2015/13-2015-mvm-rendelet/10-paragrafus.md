@@ -4,7 +4,7 @@ a) a műemléki érték földrajzi azonosító adatait, kiterjedésének pontos 
 
 b) a műemlékké nyilvánítás közérdekű célját, tudományos indokolását a védetté nyilvánítandó műemléki érték mindazon jellemzői megjelölésével, amelyek azt hazánk múltja és a közösségi hovatartozás-tudat szempontjából kiemelkedő jelentőségűvé emelik,
 
-c) a nyilvántartott műemléki érték és annak a történeti, művészeti, építészeti, műszaki, tudományos értékeinek, illetve a jellemzőit hordozó alkotórészeinek, tartozékainak, berendezési tárgyainak megnevezését, leírását és az azonosításra alkalmas adatokat, a Korm. rendeletben meghatározott műemléki értékvizsgálat követelményeinek megfelelő tartalommal,
+c)[^37] az értékleltárat,
 
 d) a nyilvántartott műemléki érték aktuális állapotának a Korm. rendeletben meghatározott tartalommal történő felvételét, esetleges veszélyeztetettségének leírását, további értékeinek feltárását célzó kutatásokra tett javaslatot,
 
@@ -18,6 +18,26 @@ h) a fenntartható és méltó használat főbb szempontjait, a hasznosításra 
 
 i) a településrendezési eszközök védetté nyilvánítandó műemléki értékre vonatkozó kivonatát.
 
-(2) A Hivatal a dokumentáció készítése során igénybe veheti az adott szakterületen szakértelemmel rendelkező személy közreműködését.
+(1a)[^38] A védetté nyilvánítási dokumentációt a védetté nyilvánítást befolyásoló egyéb információk és az e rendeletben meghatározott és határidőben beérkezett vélemények figyelembevételével kell véglegesíteni.
 
-(3) A műemlékké nyilvánítás előkészítése során észrevételt tehet, és a dokumentációba betekinthet, aki a védetté nyilvánítási eljárás megindításáról értesült, valamint akinek az adott ingatlanra vonatkozó jogát a védelem érinti.
+(1b)[^39] A műemléki védettség megszüntetését megalapozó tudományos állásfoglalás tartalmazza:
+
+a) a műemlék hatósági nyilvántartási és földrajzi azonosító adatait, kiterjedésének pontos meghatározását, a térképmellékleteket, a tulajdoni lap másolatot, az archív és aktuális fotódokumentációt;
+
+b) a műemlék építészeti leírását, aktuális állapotának bemutatását;
+
+c) a műemlék örökségvédelmi szempontú értékelését;
+
+d) a műemléki védettség megszüntetésének kezdeményezője nevét, a kezdeményezés dátumát, előzményeit és indokait;
+
+e) a műemléki védettség megszüntetésére vonatkozó szakértői véleményt indokolással, továbbá ezen szakértői vélemény tartalmától függően az általános műemléki védelem fenntartására irányuló indokolt javaslatot.
+
+(2)[^40]
+
+(3)[^41] A műemlékké nyilvánítás előkészítése során a 10. § (1) bekezdése szerinti dokumentáció elkészültét követő huszonegy napon belül észrevételt tehet, és a dokumentációba betekinthet, akit a védetté nyilvánítás tudományos előkészítésének befejezéséről hivatalosan értesítettek, valamint akinek az adott ingatlanra vonatkozó és az ingatlan-nyilvántartásba bejegyzett jogát a védelem érinti. A határidőben beérkezett észrevételeket a nyilvántartást vezető hatóság érdemben megvizsgálja.
+
+[^37]: A 10. § (1) bekezdés c) pontja a 32/2016. (XII. 14.) MvM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^38]: A 10. § (1a) bekezdését a 32/2016. (XII. 14.) MvM rendelet 7. § (2) bekezdése iktatta be.
+[^39]: A 10. § (1b) bekezdését a 32/2016. (XII. 14.) MvM rendelet 7. § (2) bekezdése iktatta be.
+[^40]: A 10. § (2) bekezdését a 32/2016. (XII. 14.) MvM rendelet 11. § h) pontja hatályon kívül helyezte.
+[^41]: A 10. § (3) bekezdése a 32/2016. (XII. 14.) MvM rendelet 7. § (3) bekezdésével megállapított szöveg.
