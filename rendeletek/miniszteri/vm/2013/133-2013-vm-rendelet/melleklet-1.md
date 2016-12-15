@@ -1,3 +1,3 @@
-1. melléklet a 133/2013. (XII. 29.) VM rendelethez[^158]
+1. melléklet a 133/2013. (XII. 29.) VM rendelethez[^157]
 
-[^158]: Az 1. melléklet az 56/2015. (IX. 24.) FM rendelet 22. § 40. pontja szerint módosított szöveg.
+[^157]: Az 1. melléklet az 56/2015. (IX. 24.) FM rendelet 22. § 40. pontja szerint módosított szöveg.

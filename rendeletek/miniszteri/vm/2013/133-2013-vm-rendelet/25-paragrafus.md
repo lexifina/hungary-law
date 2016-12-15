@@ -1,6 +1,5 @@
-25. § (1)[^80] A Hhvtv. 41. § (2) bekezdés c), d) vagy e) pontja szerinti személy számára az állami horgászjegy megfizetése alóli mentesség igazolását a lakóhely szerint illetékes halgazdálkodási hatóság állítja ki a számára benyújtott dokumentumok alapján.
+25. §[^80] (1) A Hhvtv. 41. § (2) bekezdés c), d) vagy e) pontja szerinti személy az állami horgászjegy díjának megfizetése alóli mentességét (a továbbiakban: mentesség) az állami horgászjegy váltásakor az állami horgászjegy forgalmazására feljogosított szervezet számára a súlyos fogyatékosság minősítéséről és igazolásáról szóló miniszteri rendeletben meghatározott igazolás benyújtásával igazolja. A mentesség jogosulatlan igénybevétele esetén az állami horgászjegy jogosultja a díj pótlólagos befizetésére köteles.
 
-(2)[^81] Az (1) bekezdés szerinti jogosultság akkor igazolható, ha a halgazdálkodási hatóság számára benyújtott dokumentumokból egyértelműen megállapítható a 25. § (1) bekezdés szerinti fogyatékossági szint.
+(2) Az állami horgászjegy forgalmazására feljogosított szervezet az (1) bekezdés szerinti igazolás számáról és kiállításának dátumáról nyilvántartást vezet.
 
-[^80]: A 25. § (1) bekezdése az 56/2015. (IX. 24.) FM rendelet 9. §-ával megállapított szöveg.
-[^81]: A 25. § (2) bekezdése az 56/2015. (IX. 24.) FM rendelet 22. § 2. pontja szerint módosított szöveg.
+[^80]: A 25. § a 75/2016. (XI. 30.) FM rendelet 1. §-ával megállapított szöveg.

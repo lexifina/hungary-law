@@ -2,7 +2,7 @@
 
 Állami horgászvizsga bizonyítvány adattartalma
 
-1.[^168] Kiállító megyei halgazdálkodási hatóság, illetve az általa vizsgáztatásra feljogosított szervezet megnevezése, címe
+1.[^167] Kiállító megyei halgazdálkodási hatóság, illetve az általa vizsgáztatásra feljogosított szervezet megnevezése, címe
 
 2. Bizonyítvány sorszáma
 
@@ -16,7 +16,7 @@ c) anyja leánykori neve
 
 d) lakóhelye
 
-4.[^169] (vizsga esetén kitöltendő)
+4.[^168] (vizsga esetén kitöltendő)
 
 ## „Igazolom, hogy ................... (név) a mai napon a halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló VM rendelet 21. § (9) bekezdés szerinti ismeretekből, a .......... megyei kormányhivatal, illetve az általa vizsgáztatásra feljogosított szervezet állami horgászvizsga bizottsága előtt sikeres állami horgászvizsgát tett.”
 
@@ -26,8 +26,8 @@ d) lakóhelye
 
 6. Kiállítás helye, időpontja
 
-7.[^170] Kiállító megyei halgazdálkodási hatóság, illetve az általa vizsgáztatásra feljogosított szervezet aláírása, bélyegzője
+7.[^169] Kiállító megyei halgazdálkodási hatóság, illetve az általa vizsgáztatásra feljogosított szervezet aláírása, bélyegzője
 
-[^168]: Az 5. melléklet 1. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
-[^169]: Az 5. melléklet 4. pontja az 56/2015. (IX. 24.) FM rendelet 24. § (1) bekezdése szerint módosított szöveg.
-[^170]: Az 5. melléklet 7. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
+[^167]: Az 5. melléklet 1. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
+[^168]: Az 5. melléklet 4. pontja az 56/2015. (IX. 24.) FM rendelet 24. § (1) bekezdése szerint módosított szöveg.
+[^169]: Az 5. melléklet 7. pontja az 56/2015. (IX. 24.) FM rendelet 22. § 41. pontja szerint módosított szöveg.
