@@ -54,7 +54,7 @@ részletes szabályait,
 
 15d. az állami támogatási programokra és az egyedi állami támogatásokra vonatkozó szabályozásoknak az Európai Unió versenyjogi szabályaival való összehangolása rendjét, beleértve az intézményi és az eljárási szabályokat,
 
-16. a 14. § (3) bekezdése szerinti fejezetben meghatározott támogatások igénylésére, az arról történő lemondásra, az évközi módosításra, az igénylés, igénybevétel évközi felülvizsgálatára, a felülvizsgálati eljárásra, a hatósági eljárásban meghozott határozatok, végzések kötelező tartalmi elemeire vonatkozó részletes szabályokat, valamint az 60/A. § (2) bekezdése szerinti kamat alapját, mértékét, felszámításának szabályait, kezdő és záró napját, valamint a 83. § (5) és (6) bekezdésében a nettó finanszírozás keretében felfüggesztett támogatás visszatérítésének szabályait,
+16. a 14. § (3) bekezdése szerinti fejezetben meghatározott támogatások igénylésére, az arról történő lemondásra, az évközi módosításra, az igénylés, igénybevétel évközi felülvizsgálatára, a felülvizsgálati eljárásra, a hatósági eljárásban meghozott határozatok, végzések kötelező tartalmi elemeire vonatkozó részletes szabályokat, az 58. § (2) bekezdése szerinti önellenőrzési pótlék alapját, mértékét, megállapításának és megfizetésének szabályait, a 60/A. § (2) bekezdése szerinti kamat alapját, mértékét, felszámításának szabályait, kezdő és záró napját, valamint a 83. § (5) és (6) bekezdésében a nettó finanszírozás keretében felfüggesztett támogatás visszatérítésének szabályait,
 
 17. a kormányzati ellenőrzéssel, a belső kontrollrendszerrel, a belső ellenőrzéssel, a belső ellenőrzési tevékenységre vonatkozó jogosultsággal rendelkezőkről vezetett nyilvántartáshoz kapcsolódó bizonyítási eszközökkel, a belső kontrolrendszerrel és a belső ellenőrzéssel kapcsolatos kötelező továbbképzésekkel, a kormányzati szektorba sorolt egyéb szervezetek belső kontrollrendszerével, az önkormányzati biztos kijelöléséhez kapcsolódó, jogállásával, hatáskörével, a gazdálkodási önállóságában korlátozott költségvetési szerv működésével kapcsolatos részletes szabályokat,
 
@@ -120,7 +120,7 @@ b) a kormányzati ellenőrzési szervet, és
 
 c) az európai támogatásokat auditáló szervet
 
-és megállapítsa feladat- és hatáskörét és ellenőrzései részletes szabályait.
+és megállapítsa feladat- és hatáskörét és ellenőrzései, valamint a 109. § (11) bekezdése szerinti Likviditási Bizottság összetételének és működésének részletes szabályait.
 
 (2a)
 

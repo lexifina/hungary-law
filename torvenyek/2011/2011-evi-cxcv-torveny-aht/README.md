@@ -54,3 +54,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-195-00-00
 | 2016-06-18 | 2016. évi LXVII. törvény | 2011-195-00-00.47 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 2011-195-00-00.48 |
 | 2016-09-01 | 2016. évi LXVII. törvény | 2011-195-00-00.49 |
+| 2016-12-15 | 2016. évi CXLII. törvény | 2011-195-00-00.50 |
