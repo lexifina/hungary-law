@@ -1,0 +1,165 @@
+# A Kormány 425/2016. (XII. 15.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 202. szám, 2016. december 15. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/42a16fbf7cd39e157accffb16620a3ddbf9b3bd9/dokumentumok/5ede6b850b697f674b01f5bd3c8ae6e0d291035f/letoltes)
+
+---
+
+A Kormány 425/2016. (XII. 15.) Korm. rendelete
+az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet módosításáról
+A Kormány az államháztartásról szóló 2011. évi CXCV. törvény 109. § (1) bekezdésében kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. §
+Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet a következő 101/A. §-sal
+egészül ki:
+„101/A. § (1) A Kormány egyedi határozata alapján, mérlegelést nem igénylő támogatási döntéssel nyújtott, vissza
+nem térítendő költségvetési támogatásokra
+a) e fejezet rendelkezéseit az e §-ban meghatározott eltérésekkel kell alkalmazni,
+b) a határon túli költségvetési támogatások sajátos szabályairól szóló 98/2012. (V. 15.) Korm. rendelet 3. §
+(1b) bekezdését minden esetben, más rendelkezéseit abban az esetben kell alkalmazni, ha e § eltérően nem
+rendelkezik.
+(2) A támogatási döntés meghozatalához nem szükséges
+a) támogatási kérelmet benyújtani, ha a költségvetési támogatás nem minősül az európai uniós versenyjogi
+értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről szóló 37/2011.
+(III. 22.) Korm. rendelet 2. § 1. pontja szerinti állami támogatásnak,
+b) a támogatónak befogadó nyilatkozatot kibocsátania.
+(3) A 75. § (2) bekezdése szerinti nyilatkozatokat a Kormány egyedi határozata alapján költségvetési támogatás
+igénylésére jogosult szervezet a 7. melléklet szerinti formában és tartalommal teszi meg, azzal, hogy
+a nyilatkozatban
+a) közli a költségvetési támogatás folyósításához szükséges lényeges információkat,
+b) a 75. § (2) bekezdés a) pontja helyett arról nyilatkozik, hogy a nyilatkozatban foglalt adatok, információk
+teljeskörűek, valósak és hitelesek,
+c) a 75. § (2) bekezdés c) pontja szerinti nyilatkozatot nem kell megtennie,
+d) a 75. § (2) bekezdés f) pontja helyett annak vállalásáról nyilatkozik, hogy a biztosítékokat – ha a támogatói okirat
+azt előírja – a támogatás folyósításának napjától számított harminc napon belül rendelkezésre bocsátja,
+e) a 75. § (2) bekezdés h) pontja helyett annak vállalásáról nyilatkozik, hogy a hatósági engedélyeket a támogatott
+tevékenység megvalósítására vonatkozó beszámolóval egyidejűleg a támogatónak megküldi.
+(4) Ha a költségvetési támogatás az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos
+eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 1. pontja szerinti állami
+támogatásnak minősül, a támogatási kérelmet a 7. melléklet szerinti nyilatkozattal – kiegészítve a támogatott
+tevékenység bemutatásával, helyszínének megjelölésével és az elszámolni kívánt költségek részletesebb
+ismertetésével – kell benyújtani.
+(5) A támogató a (3) bekezdés szerinti dokumentumot a támogatói okirat tervezetével együtt elektronikus úton
+vagy papír alapon küldi meg a Kormány egyedi határozata alapján költségvetési támogatás igénylésére jogosult
+szervezetnek, amely a kitöltött és a képviselője aláírásával ellátott dokumentumot – ha a támogató szóbeli vagy
+írásos nyilatkozatában azt lehetővé tette, úgy annak elektronikus úton egyszerű másolatát – a támogatónak
+a támogatói okirat kiadásáig visszaküldi. Ha a támogató a támogatói okiratot a dokumentumok egyszerű másolata
+alapján adta ki, a kedvezményezett az eredeti példányokat a másolatok elektronikus úton történő megküldését
+követő harminc napon belül megküldi a támogatónak.
+(6) A költségvetési támogatás biztosítása támogatói okirat kibocsátásával történik.
+(7) Ha a Kormány egyedi határozata alapján költségvetési támogatás igénylésére jogosult szervezet
+a dokumentumot a támogatónak az (5) bekezdés szerint megküldte, a támogatói okirat annak változatlan tartalmú
+kiadásával és arról a kedvezményezett szóbeli tájékoztatásával közöltnek tekintendő.
+
+(8) A támogatói okirat kibocsátásához a 75. § (3) bekezdése szerinti, harminc napnál régebbi dokumentumok és
+okiratok egyszerű másolata is elfogadható. A kedvezményezett a dokumentumok és okiratok 75. § (3) bekezdése
+szerinti, harminc napnál nem régebbi példányát a támogatói okirat kiadásától számított hatvan napon belül köteles
+a támogató részére megküldeni.
+(9) A támogatói okirat tartalmára a 76. § (1) bekezdését a következő eltérésekkel kell alkalmazni:
+a) a támogatási intenzitást csak az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos
+eljárásról és a regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 2. § 1. pontja szerinti állami
+támogatásnak minősülő költségvetési támogatások esetén kell feltüntetni,
+b) az elszámolható költségek meghatározása a 7. melléklet 9. pontja szerinti adattartalommal történik,
+c) a költségvetési támogatás rendelkezésre bocsátása
+ca) a Kormány egyedi határozata szerinti módon, ennek hiányában
+cb) a 87. § (1) bekezdése szerint, egy összegben, költségterv helyett a kedvezményezett (3) és (4) bekezdés szerinti
+nyilatkozatai alapján
+történik,
+d) a biztosíték teljesítésére a támogatás folyósítását követő harminc napos határidő áll rendelkezésre,
+e) a 76. § (1) bekezdés e) és i) pontját nem kell alkalmazni.
+(10) A kedvezményezett a támogatott tevékenység részletes bemutatását és a 76. § (1) bekezdés d) pontja szerinti
+költségtervet a támogatói okirat kiadásától számított hatvan napon belül küldi meg a támogatónak.
+(11) A kedvezményezett a megvalósításba a támogató előzetes tájékoztatása esetén vonhat be közreműködőket.
+(12) Az e § szerinti költségvetési támogatásokra a 81. § d) pontját és a 85. § (3) bekezdés első mondatát nem kell
+alkalmazni.”
+2. §
+Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet az 1. melléklet szerinti
+7. melléklettel egészül ki.
+3. §
+Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 122/A. §
+(2) bekezdésében a„december 20-át”szövegrész helyébe a„december 15-ét”szöveg lép.
+4. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet a 425/2016. (XII. 15.) Korm. rendelethez
+„7. melléklet a 368/2011. (XII. 31.) Korm. rendelethez
+NYILATKOZAT
+a ………………….. számú
+TÁMOGATÓI OKIRATHOZ1
+A kedvezményezett adatai:
+Név: .............................................................................................................................................................................................................................
+Székhely: ...................................................................................................................................................................................................................
+Képviselő neve és tisztsége: ...............................................................................................................................................................................
+Cégjegyzékszám / egyéb nyilvántartásba vételi szám: ............................................................................................................................
+Nem gazdasági társaság esetén a nyilvántartást vezető szerv neve: ..................................................................................................
+Adószám: ...................................................................................................................................................................................................................
+Bankszámlát vezető pénzintézet neve, számlaszám: ................................................................................................................................
+.........................................................................................................................................................................................................................................
+A támogatást engedményezni kívánom. Az általam igénybe venni kívánt engedményes adatai a következők:
+Név: .............................................................................................................................................................................................................................
+Székhely: ...................................................................................................................................................................................................................
+Képviselő neve és tisztsége: ...............................................................................................................................................................................
+Cégjegyzékszám / egyéb nyilvántartásba vételi szám: ............................................................................................................................
+Nem gazdasági társaság esetén a nyilvántartást vezető szerv neve: ..................................................................................................
+Adószám: ...................................................................................................................................................................................................................
+Bankszámlát vezető pénzintézet neve, számlaszám: ................................................................................................................................
+.........................................................................................................................................................................................................................................
+Alulírott jelen nyilatkozatom aláírásával kijelentem, hogy
+1. e nyilatkozatban foglalt adatok és információk teljeskörűek, valósak és hitelesek,
+2. az általam képviselt szervezet nem áll jogerős végzéssel elrendelt végelszámolás, felszámolás alatt, jogerős
+végzéssel elrendelt csődeljárás vagy egyéb, a megszüntetésre irányuló, jogszabályban meghatározott eljárás
+az általam képviselt szervezettel szemben nincs folyamatban,
+3. az általam képviselt szervezet megfelel az államháztartásról szóló 2011. évi CXCV. törvény 48/B. §-ában és
+50. §-ában meghatározott követelményeknek, kivéve, ha erről a Kormány az 50. § (2) bekezdése szerint egyedi
+határozatban döntött,
+4. nem áll fenn harmadik személy irányában olyan kötelezettség, amely a költségvetési támogatás céljának
+megvalósulását meghiúsíthatja,
+5. az általam képviselt szervezet a költségvetési támogatás tekintetében adólevonási joggal2
+a) rendelkezik
+b) nem rendelkezik, és
+ba) azzal élni kíván, vagy
+bb) azzal nem kíván élni.
+1 A nyilatkozatot kitöltve, aláírva, a támogatói okirat kiadásáig kell megküldeni a támogatónak. Ha a támogató szóbeli vagy írásos nyilatkozatában
+azt lehetővé tette, úgy lehetőség van elektronikus úton egyszerű másolat beküldésére is a támogatói okirat kiadásához. Ebben az esetben az eredeti
+példányt az elektronikus megküldést követő harminc napon belül kell megküldeni a támogatónak.
+Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § (4) bekezdése alapján abban az esetben, ha
+a költségvetési támogatás az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és a regionális támogatási térképről
+szóló 37/2011. (III. 22.) Korm. rendelet 2. § 1. pontja szerinti állami támogatást tartalmazna, külön íven be kell mutatni és a nyilatkozathoz csatolva be kell
+nyújtani a támogatott tevékenység bemutatását, helyszínének megjelölését és az elszámolni kívánt költségek részletesebb ismertetését.
+Államháztartáson kívüli kedvezményezettek esetén a nyilatkozattal együtt benyújtandó a kedvezményezett:
+1. képviselőjeként feltüntetett személy/személyek, mint aláírásra jogosult személy/személyek aláírásmintájának egyszerű másolata,
+2. létesítő okiratának vagy jogszabályban meghatározott nyilvántartásba vételét igazoló okiratának egyszerű másolata.
+Felhívjuk a figyelmet arra, hogy az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § (8) bekezdése
+alapján az aláírásminta pénzügyi intézmény által igazolt, ügyvéd által ellenjegyzett vagy közjegyző által hitelesített példányát, vagy az aláírásminta
+közjegyző által hitesített másolatát, továbbá a létesítő okirat vagy jogszabályban meghatározott nyilvántartásba vételét igazoló okirat eredeti
+példányát a támogatói okirat kiadásától számított hatvan napon belül köteles a támogató részére megküldeni.
+2 A megfelelő rész aláhúzandó.
+
+6. vállalom, hogy – ha a támogatói okirat azt előírja – a biztosítékot a támogatás folyósításának napjától számított
+harminc napon belül az általam képviselt szervezet a támogató rendelkezésre bocsátja,
+7. abban az esetben, ha a támogatott tevékenység hatósági engedélyhez kötött, vállalom, hogy azokat
+a támogatott tevékenység megvalósítására vonatkozó beszámolóval egyidejűleg a támogatónak megküldöm.
+8. A támogatott tevékenységet az általam képviselt szervezet ……………………….-tól ……………………….-ig
+tervezi megvalósítani (a támogatott tevékenység időtartama).
+9. A költségvetési támogatás felhasználása a következő előzetes (egyszerűsített) költségterv alapján történik3:
+Személyi juttatások, munkaadókat terhelő járulékok és
+szociális hozzájárulási adó
+Ft
+Dologi kiadások Ft
+Egyéb működési kiadások Ft
+Beruházások, felújítások (ÁFA nélkül) Ft
+Beruházások, felújítások ÁFA Ft
+Egyéb felhalmozási kiadások Ft
+10. Alulírott jelen nyilatkozatom aláírásával kijelentem, hogy a támogató által megküldött támogatói okirat
+tervezetét megismertem, azt elfogadom, és e nyilatkozatomat annak ismeretében teszem, hogy az államháztartásról
+szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § (7) bekezdése alapján a támogatási
+jogviszony így a támogatói okirat kiadásával és arról a kedvezményezett szóbeli tájékoztatásával közöltnek
+tekintendő.
+Budapest, 20...
+ …….……………………………
+ cégszerű aláírás
+ (P. H.)
+3 Felhívjuk a figyelmet arra, hogy az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 101/A. § (10) bekezdése
+alapján a támogatott tevékenység részletes bemutatását és a végleges költségtervet a támogatói okirat kiadásától számított hatvan napon belül kell
+a támogatónak megküldeni.”
