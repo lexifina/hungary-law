@@ -7,3 +7,5 @@
 (4) Felhatalmazást kap a Kormány, hogy az önsegélyező és az egészségpénztári pénztári kártya kibocsátására, felhasználására, valamint a kártyás elszámoló rendszerek működtetésére vonatkozó szabályokat rendeletben szabályozza.
 
 (5) Felhatalmazást kap a kormány, hogy a nemi hovatartozás szerint eltérő szolgáltatások alapjául szolgáló arányos különbségeket alátámasztó adatok szolgáltatásának rendjét, tartalmát rendeletben szabályozza.
+
+(6) Felhatalmazást kap a Kormány, hogy az egészség- és önsegélyező pénztáraknak a szociális intézményekre vonatkozó működési és üzemeltetési szabályait rendeletben határozza meg.
