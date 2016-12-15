@@ -1,5 +1,0 @@
-## „a) olyan társaság esetén, ahol a tagok felelőssége a társaság tartozásai tekintetében korlátozott, így különösen a részvénytársaság és a korlátolt felelősségű társaság esetében, ha a vállalkozás névértéken felüli befizetést is magában foglaló jegyzett tőkéjének több mint a felét felhalmozott veszteségei miatt elvesztette, különösen amennyiben a felhalmozott veszteségeknek saját forrásnak minősülő elemből történő levonásakor a jegyzett tőke felét meghaladó negatív eredmény keletkezik,
-
-## b) olyan társaság esetén, ahol legalább egyes tagok korlátlan felelősséggel bírnak a társaság tartozásai tekintetében, így különösen a közkereseti társaság, betéti társaság, közös vállalat, egyesülés és egyéni cég esetében, amennyiben a vállalkozás a saját tőkéjének több mint felét felhalmozott veszteségei miatt elvesztette,
-
-## c) olyan vállalkozás, amely ellen a fizetésképtelenségi eljárásról szóló uniós rendelet szerinti fizetésképtelenségi eljárás indult, vagy ellene hitelezői kérelmére a saját joga alapján ilyen fizetésképtelenségi eljárás indítható,”

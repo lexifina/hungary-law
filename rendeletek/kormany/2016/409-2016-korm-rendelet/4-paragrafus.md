@@ -1,13 +1,9 @@
-## 3. § A 37/2011. (III. 22.) Korm. rendelet 6. melléklete az 1. melléklet szerint módosul.
+## 1–3. §[^1]
 
-4. § (1) A 37/2011. (III. 22.) Korm. rendelet
+4. § (1)[^2]
 
-a) 3. § (3) bekezdésében a „Nem” szövegrész helyébe a „Ha uniós jogi aktus másként nem rendelkezik, nem” szöveg,
+(2)[^3]
 
-b) 7. § (2) bekezdésében a „bocsátani” szövegrész helyébe a „bocsátani vagy helyi önkormányzat képviselő-testületének benyújtani” szöveg
-
-## lép.
-
-(2)[^1]
-
-[^1]: A 4. § (2) bekezdése a 18. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^1]: Az 1–3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 4. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 4. § (2) bekezdése a 18. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
