@@ -12,4 +12,6 @@ Felelős: nemzetgazdasági miniszter
 
 Határidő: a felmerülés ütemében
 
-3. visszavonja a H. 3. pont b) alpontját.
+3.[^2]
+
+[^2]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
