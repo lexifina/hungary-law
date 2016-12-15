@@ -1,0 +1,1 @@
+## „(7) A pénzjutalom összegének megállapításánál figyelembe kell venni több darabból álló, összetartozó leletegyüttes, éremkincs, nemesfémből készült tárgy vagy ötvösmunka esetén a Magyar Nemzeti Múzeum szakértői véleményét.”
