@@ -32,7 +32,7 @@
 
 | 15. | A Nemzetközi Egészségügyi Rendszabályok végrehajtása kapcsán felmerülő feladatellátás terve | X | X | – |
 
-2. melléklet a 43/2014. (VIII. 19.) EMMI rendelethez[^23]
+2. melléklet a 43/2014. (VIII. 19.) EMMI rendelethez[^24]
 
 ## A résztervekre vonatkozó részletes előírások
 
@@ -456,4 +456,4 @@
 
 14.3. Kapcsolódó tervek: Riasztási, berendelési Terv, Szállítási terv, Többletfeladatok ellátásának terve.
 
-[^23]: A 2. melléklet a 16/2015. (III. 30.) EMMI rendelet 30. §-a szerint módosított szöveg.
+[^24]: A 2. melléklet a 16/2015. (III. 30.) EMMI rendelet 30. §-a szerint módosított szöveg.
