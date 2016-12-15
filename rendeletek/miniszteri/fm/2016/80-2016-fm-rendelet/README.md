@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-80-20-1
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-12-14 | 2016-80-20-11.1 | 80/2016. (XII. 13.) FM rendelet |
+| 2016-12-15 | 2016-80-20-11.2 | 2010: CXXX. törvény |
