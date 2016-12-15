@@ -34,9 +34,11 @@
 
 ## a 2017. és a 2018. év vonatkozásában: Magyarország 2017. évi, illetve 2018. évi központi költségvetésének tervezése során
 
-## 7. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon a 6. pont szerinti forrás költségvetési gazdálkodás szabályai szerinti, a 6. pontban meghatározott célra történő fordításáról,
+## 7.[^1] felhívja a nemzeti fejlesztési minisztert és a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnökét, hogy gondoskodjanak a 6. pont szerinti forrásnak a költségvetési gazdálkodás szabályai szerinti, a 6. pontban meghatározott célra történő fordításáról,
 
-## Felelős: nemzeti fejlesztési miniszter
+## Felelős: a 2012–2016. évek költségvetési forrásai tekintetében: nemzeti fejlesztési miniszter
+
+## a 2017–2018. évek költségvetési forrásai tekintetében: Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke
 
 ## Határidő: a 2. melléklet szerinti ütemezés alapján
 
@@ -52,8 +54,9 @@
 
 ## Határidő: azonnal
 
-## 10.[^1]
+## 10.[^2]
 
 1. melléklet az 1541/2015. (VIII. 3.) Korm. határozathoz
 
-[^1]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 7. pont az 1777/2016. (XII. 15.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 10. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

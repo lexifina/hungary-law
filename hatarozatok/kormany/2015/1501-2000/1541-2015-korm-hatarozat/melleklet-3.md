@@ -1,8 +1,10 @@
-|  | A | B | C | D | E | F | G | H |
+|  | A | B | C | D | E | F | G | H | I |
 
-| 1. | Költségvetési év | 2012. év | 2013. év | 2014. év | 2015. év | 2016. év | 2017. év | 2018. év |
+| 1. | Jogosult | Költségvetési év | 2012. év | 2013. év | 2014. év | 2015. év | 2016. év | 2017. év | 2018. év |
 
-| 2. | Hazai forrásigény (ezer forintban) | 0 | 81 052 | 93 926 | 163 694 | 335 667 | 423 170 | 263 220 |
+| 2. | NFM | Hazai forrásigény (ezer forintban) | 0 | 81 052 | 93 926 | 163 694 | 335 667 | 0 | 0 |
+
+| 3. | NKFI Hivatal | Hazai forrásigény (ezer forintban) | 0 | 0 | 0 | 0 | 0 | 423 170 | 263 220 |
 
 3. melléklet az 1541/2015. (VIII. 3.) Korm. határozathoz
 
