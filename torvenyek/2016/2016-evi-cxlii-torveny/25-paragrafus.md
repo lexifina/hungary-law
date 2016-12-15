@@ -11,11 +11,3 @@
 (3) A 16. § 2016. december 31-én lép hatályba.
 
 (4) Az 1–13. §, a 14. § 1–5. pontja és 7–10. pontja, a 15. §, a 17. § és a 19. § 2017. január 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
