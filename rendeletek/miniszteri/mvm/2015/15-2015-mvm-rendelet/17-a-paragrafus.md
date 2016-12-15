@@ -1,4 +1,4 @@
-17/A. §[^5] (1) Pro Architectura díj (e § alkalmazásában a továbbiakban: díj) a magyar építészeti kultúra népszerűsítésében, a minőségi épített környezet létrehozásában, az építészeti értékek megóvásában, és az építészeti szemléletformálásban kifejtett tevékenységért, valamint a Nemzeti építészetpolitika céljai érdekében elért kiemelkedő eredmények elismeréseként természetes személy, jogi személy vagy közösség részére adományozható. A díj
+17/A. §[^8] (1) Pro Architectura díj (e § alkalmazásában a továbbiakban: díj) a magyar építészeti kultúra népszerűsítésében, a minőségi épített környezet létrehozásában, az építészeti értékek megóvásában, és az építészeti szemléletformálásban kifejtett tevékenységért, valamint a Nemzeti építészetpolitika céljai érdekében elért kiemelkedő eredmények elismeréseként természetes személy, jogi személy vagy közösség részére adományozható. A díj
 
 a) valamely jeles építészeti alkotás létrehozásában kifejtett építészeti-tervezői tevékenységért,
 
@@ -20,4 +20,4 @@ e) a kiemelkedő építészeti alkotás megvalósításában közreműködő kiv
 
 (5) A díjhoz 1 000 000 Ft összegű pénzjutalom jár.
 
-[^5]: A 17/A. §-t a 26/2016. (VIII. 30.) MvM rendelet 3. §-a iktatta be.
+[^8]: A 17/A. §-t a 26/2016. (VIII. 30.) MvM rendelet 3. §-a iktatta be.
