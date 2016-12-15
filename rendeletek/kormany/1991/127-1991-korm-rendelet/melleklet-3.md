@@ -1,4 +1,4 @@
-## 6K76638M_0
+## 6K81959M_0
 
 | Sor- szám | Megnevezés | A hitelesítés hatálya (év) |
 
@@ -66,7 +66,7 @@
 
 | 12. | Súlyok (E1, E2, F1, F2, M1, M2, M3 pontosságú, valamint a “közepes” pontosságú) | 2 |
 
-| 13. | Közúti kerék- és tengelyterhelés-mérők | 2 |
+| 13. | Közúti kerék- és tengelyterhelés-mérők, tengelyterhelés-mérők alatt értve a mozgásban lévő közúti járművek tengelyterhelésének hatósági ellenőrzésre és bizonyításra használt mérésére szolgáló automatikus működésű mérőeszközöket is | 2 |
 
 | 14. | Közúti ellenőrzésre szolgáló járműsebesség-mérők | 2 |
 

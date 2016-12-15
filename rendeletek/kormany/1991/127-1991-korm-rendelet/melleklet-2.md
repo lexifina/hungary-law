@@ -276,4 +276,4 @@
 
 Kötelező hitelesítésű mérőeszközök
 
-[^79]: A Vhr. eredeti mellékletének számozását a 294/2001. (XII. 26.) Korm. rendelet 7. §-ának (2) bekezdése 2. számú mellékletre változtatta, szövege a 309/2005. (XII. 25.) Korm. rendelet 12. §-ával megállapított, a 266/2006. (XII. 20.) Korm. rendelet 6. § (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 25. §-a, a 247/2012. (VIII. 31.) Korm. rendelet 2. §-a, a 405/2015. Korm. rendelet 1. §-a, a 344/2016. (XI. 17.) Korm. rendelet 2. §-a szerint módosított szöveg.
+[^79]: A Vhr. eredeti mellékletének számozását a 294/2001. (XII. 26.) Korm. rendelet 7. §-ának (2) bekezdése 2. számú mellékletre változtatta, szövege a 309/2005. (XII. 25.) Korm. rendelet 12. §-ával megállapított, a 266/2006. (XII. 20.) Korm. rendelet 6. § (1) bekezdése, a 182/2009. (IX. 10.) Korm. rendelet 25. §-a, a 247/2012. (VIII. 31.) Korm. rendelet 2. §-a, a 405/2015. Korm. rendelet 1. §-a, a 344/2016. (XI. 17.) Korm. rendelet 2. §-a, a 423/2016. (XII. 14.) Korm. rendelet 1. §-a szerint módosított szöveg.
