@@ -56,28 +56,9 @@
 
 ## 2018. év költségvetési forrása tekintetében: a 2018. évi központi költségvetés tervezése során
 
-## 2. Az ELI-ALPS kormányhatározat 7. pontja helyébe a következő rendelkezés lép:
+## 2–3.[^1]
 
-## „7. felhívja a nemzeti fejlesztési minisztert és a Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnökét, hogy gondoskodjanak a 6. pont szerinti forrásnak a költségvetési gazdálkodás szabályai szerinti, a 6. pontban meghatározott célra történő fordításáról,
+1. melléklet a 1777/2016. (XII. 15.) Korm. határozathoz[^2]
 
-## Felelős: a 2012–2016. évek költségvetési forrásai tekintetében: nemzeti fejlesztési miniszter
-
-## a 2017–2018. évek költségvetési forrásai tekintetében: Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal elnöke
-
-## Határidő: a 2. melléklet szerinti ütemezés alapján”
-
-## 3. Az ELI-ALPS kormányhatározat 2. melléklete helyébe az 1. melléklet lép.
-
-1. melléklet a 1777/2016. (XII. 15.) Korm. határozathoz
-
-„2. melléklet az 1541/2015. (VIII. 3.) Korm. határozathoz
-
-|  | A | B | C | D | E | F | G | H | I |
-
-| 1. | Jogosult | Költségvetési év | 2012. év | 2013. év | 2014. év | 2015. év | 2016. év | 2017. év | 2018. év |
-
-| 2. | NFM | Hazai forrásigény (ezer forintban) | 0 | 81 052 | 93 926 | 163 694 | 335 667 | 0 | 0 |
-
-| 3. | NKFI Hivatal | Hazai forrásigény (ezer forintban) | 0 | 0 | 0 | 0 | 0 | 423 170 | 263 220 |
-
-”
+[^1]: A 2–3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: Az 1. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
