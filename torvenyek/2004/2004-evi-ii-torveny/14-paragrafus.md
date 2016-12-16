@@ -28,6 +28,4 @@ i) valamely EGT-államban székhellyel rendelkező jogi személy, amely legkés�
 
 (6) Közvetlen támogatás kizárólag a támogatott és a támogató közötti szerződéskötést követően nyújtható. Ha a támogatott szerződésszegése folytán a támogatott cél nem valósul meg, a támogatás összegét a támogatott köteles a támogatónak visszafizetni.
 
-(7) Az e törvény szerinti közvetett támogatásban részesült filmelőállító vagy filmgyártó vállalkozás a Hivatal által kiállított támogatási igazolásban vagy a Hivatal által lefolytatott, költségellenőrzési eljárásban hozott jogerős határozatban meghatározott közvetlen magyar filmgyártási költség 0,5%-át, de filmalkotásonként legfeljebb tizenötmillió forintot mozgóképszakmai képzési hozzájárulás címén megfizet az e törvényben meghatározott módon. A mozgóképszakmai képzési hozzájárulás a 31/F. § szerinti közvetlen filmgyártási költségnek minősül.
-
-(8) Nem kell mozgóképszakmai képzési hozzájárulást fizetni a tízmillió forintot el nem érő közvetlen filmgyártási költséggel rendelkező filmalkotásra.
+(7)–(8)

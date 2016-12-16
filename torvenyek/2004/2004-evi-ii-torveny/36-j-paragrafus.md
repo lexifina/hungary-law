@@ -9,7 +9,3 @@
 (5) Az (1) bekezdés szerinti jogutódlás alapján az ingatlanokra vonatkozóan a jogutód vagyonkezelői jogát az MNF egyoldalú nyilatkozata alapján, annak kérelmére kell – jogutódlás jogcímén – bejegyezni az ingatlan-nyilvántartásba azon ingatlanok vonatkozásban, amelyek bejegyzett vagyonkezelője a MaNDA vagy annak jogelődje.
 
 (6) A jogutódláshoz kapcsolódó vagyon- és létszámátcsoportosításról, valamint a MaNDA feladatait, kötelezettségvállalásait illetően a MaNDA és az MNF átadás-átvételi megállapodást köt. Az átadás-átvételi eljárásban a feladatok ellátása során keletkezett valamennyi iratot, elektronikusan tárolt adatot és egyéb dokumentumot legkésőbb 2016. december 31-ig át kell adni az MNF részére, amely azokat tárolja és kezeli.
-
-2. CÍM
-
-Felhatalmazó rendelkezések

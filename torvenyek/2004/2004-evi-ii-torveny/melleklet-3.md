@@ -1,14 +1,12 @@
 3. melléklet a 2004. évi II. törvényhez
 
-A települési önkormányzat tulajdonában álló közterületek filmforgatási célú használatának díjai a
-
-használat célja szerint
-
-|
+A települési önkormányzat tulajdonában álló közterületek filmforgatási célú használatának díjai a használat célja szerint
 
 |
 
 A
+
+|
 
 |
 
@@ -36,31 +34,27 @@ F
 
 |
 
-Közterületbesorolás
+Közterület-besorolás
 
 |
 
-forgatási terület
+Forgatási terület (F)
 
 |
 
-technikai terület
+Technikai terület (T)
 
 |
 
-stáb-
-
-parkolási terület
+Stábparkolási terület (P)
 
 |
 
-kiürítési terület
+Kiürítési terület (K)
 
 |
 
-forgalom-
-
-technikai biztonsági terület
+Közlekedés elől elzárt terület (E)
 
 |
 
@@ -88,11 +82,7 @@ Ft/m2/nap
 
 |
 
-A világörökségről szóló
-
-2011. évi LXXVII. törvény
-
-1. mellékletében felsorolt világörökségi területek és Budapest turisztikailag kiemelt központi területei
+A világörökségről szóló 2011. évi LXXVII. törvény 1. mellékletében felsorolt világörökségi területek
 
 |
 
@@ -116,33 +106,27 @@ A világörökségről szóló
 
 |
 
-töredéknap esetén
-
-1042
+Töredék nap esetén az alábbi díjak érvényesek*
 
 |
 
-töredéknap esetén
-
-521
+1042*
 
 |
 
-töredéknap esetén
-
-261
+521*
 
 |
 
-töredéknap esetén
-
-261
+261*
 
 |
 
-töredéknap esetén
+261*
 
-50
+|
+
+50*
 
 |
 
@@ -150,7 +134,7 @@ töredéknap esetén
 
 |
 
-Budapest nagykörúton belüli területei, valamint Budapest Gellérthegy, Krisztinaváros, Rézmál, Rózsadomb, Tabán, Vérhalom,Viziváros városrészei
+Budapest turisztikailag kiemelt területei
 
 |
 
@@ -174,33 +158,27 @@ Budapest nagykörúton belüli területei, valamint Budapest Gellérthegy, Krisz
 
 |
 
-töredéknap esetén
-
-416
+Töredék nap esetén az alábbi díjak érvényesek*
 
 |
 
-töredéknap esetén
-
-208
+416*
 
 |
 
-töredéknap esetén
-
-104
+208*
 
 |
 
-töredéknap esetén
-
-104
+104*
 
 |
 
-töredéknap esetén
+104*
 
-20
+|
+
+20*
 
 |
 
@@ -208,7 +186,7 @@ töredéknap esetén
 
 |
 
-Budapest közigazgatási területe a nagykörúton kívül
+Budapest közigazgatási határán belüli területek az 1–2. kategórián kívül
 
 |
 
@@ -232,33 +210,27 @@ Budapest közigazgatási területe a nagykörúton kívül
 
 |
 
-töredéknap esetén
-
-156
+Töredék nap esetén az alábbi díjak érvényesek*
 
 |
 
-töredéknap esetén
-
-78
+156*
 
 |
 
-töredéknap esetén
-
-52
+78*
 
 |
 
-töredéknap esetén
-
-52
+52*
 
 |
 
-töredéknap esetén
+52*
 
-5
+|
+
+5*
 
 |
 
@@ -266,7 +238,7 @@ töredéknap esetén
 
 |
 
-a város, a megyei jogú város, a járásszékhely város, a község díszburkolatos vagy turisztikailag kiemelt központi területei
+A város, a megyei jogú város, a járásszékhely város, a község turisztikailag kiemelt területei
 
 |
 
@@ -290,33 +262,27 @@ a város, a megyei jogú város, a járásszékhely város, a község díszburk
 
 |
 
-töredéknap esetén
-
-261
+Töredék nap esetén az alábbi díjak érvényesek*
 
 |
 
-töredéknap esetén
-
-104
+261*
 
 |
 
-töredéknap esetén
-
-104
+104*
 
 |
 
-töredéknap esetén
-
-104
+104*
 
 |
 
-töredéknap esetén
+104*
 
-10
+|
+
+10*
 
 |
 
@@ -324,7 +290,7 @@ töredéknap esetén
 
 |
 
-a város, a megyei jogú város, a járásszékhely város, a község nem díszburkolatos vagy nem turisztikailag kiemelt központi területei
+A város, a megyei jogú város, a járásszékhely város, a község nem turisztikailag kiemelt területei
 
 |
 
@@ -348,47 +314,35 @@ a város, a megyei jogú város, a járásszékhely város, a község nem dísz
 
 |
 
-töredéknap esetén
-
-104
+Töredék nap esetén az alábbi díjak érvényesek*
 
 |
 
-töredéknap esetén
-
-78
+104*
 
 |
 
-töredéknap esetén
-
-52
+78*
 
 |
 
-töredéknap esetén
-
-52
+52*
 
 |
 
-töredéknap esetén
-
-5
+52*
 
 |
 
-|
+5*
 
 A melléklet alkalmazásában:
 
-|
-
-a) forgalomtechnika biztonsági terület: A filmforgatás által nem használt, de a filmforgatás érdekében a gyalogos és a járműközlekedés elől elzárt terület. A biztonsági terület nagyságának a forgatási terület nagyságával arányos mértékben kell állnia. Az arányosság mértéke a közútkezelője által elfogadott forgalomtechnikai terv alapján kerül meghatározásra.
+a) közlekedés elől elzárt terület: A filmforgatás által nem használt, de a filmforgatás érdekében a gyalogos és a járműközlekedés elől elzárt terület. A biztonsági terület nagyságának a forgatási terület nagyságával arányos mértékben kell állnia. Az arányosság mértéke a közút kezelője által elfogadott forgalomtechnikai terv alapján kerül meghatározásra.
 
 b) forgatási terület: A filmforgatás során a felvételi képmezőben szereplő színészek, egyéb közreműködők, díszletelemek, berendezési tárgyak, kellékek, járművek által elfoglalt terület.
 
-c) kiürítési terület: A b), d) és e) pont szerinti kategóriákba tartozó területeken, a filmforgatási napot megelőző napon, kifejezetten a filmforgatási, technikai, illetve a parkolási terület kiürítésének szándékával igénybe vett terület, amennyiben a területen a d) pont szerinti tevékenységen kívül más nem történik.
+c) kiürítési terület: A b), d) és e) pont szerinti kategóriákba tartozó területeken, a filmforgatási napot megelőző napon, kifejezetten a forgatási, technikai, illetve a stábparkolási terület kiürítésének szándékával igénybe vett terület, amennyiben a területen a d) pont szerinti tevékenységen kívül más nem történik.
 
 d) stábparkolási terület: A b) és e) pont szerinti kategóriákba nem tartozó, a forgatás és technikai kiszolgálás helyszínétől területileg elválasztható háttérkiszolgáló egységek és járművek által elfoglalt terület.
 

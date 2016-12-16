@@ -26,7 +26,7 @@ h) a mozgóképszakmai támogatási rendszer továbbfejlesztésére vonatkozó k
 
 i) a magyar kultúra terjesztése, illetve Magyarország nemzetközi megítélése szempontjából kiemelkedő jelentőségű, filmforgatásra alkalmas állami és önkormányzati tulajdonban álló helyszínek nyilvántartása, valamint közreműködés filmgyártási célra történő hasznosításukban az azok felett rendelkezésre jogosultakkal kötött megállapodás alapján,
 
-j) a 14. § (7) bekezdése szerinti forrás felhasználásával a mozgóképszakmai képzés támogatása,
+j) a 31/B. § (2c) bekezdése szerinti forrás felhasználásával a mozgóképszakmai képzés támogatása,
 
 k) a IV. fejezet szerinti közterület- és ingatlanhasználatra vonatkozó hatósági ügyekkel kapcsolatos eljárás lefolytatása.
 

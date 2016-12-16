@@ -1,6 +1,6 @@
 31/F. § (1) A közvetlen magyar filmgyártási költségek között az a közvetlen filmgyártási költségnek minősülő filmgyártási és filmgyártás-előkészítési költség vagy ráfordítás ismerhető el,
 
-a) amelyet az Szt. 160. § (3) bekezdés a)–b) pontjában megnevezett számlákon számolnak el,
+a) amelyet az Szt. 160. § (3a) és (3b) bekezdésében megnevezett számlákon számolnak el,
 
 b) amely
 
@@ -10,7 +10,7 @@ bb) a filmgyártással kapcsolatban teljesített személyi juttatások után fiz
 
 bc) az adózás előtti eredmény terhére elszámolt adókötelezettségek teljesítésével keletkezett, ideértve a számlában feltüntetett, a számla kibocsátója által fizetendő adókötelezettséget is, így különösen az előzetesen felszámított, nem levonható általános forgalmi adó vagy egyéb, számlában feltüntetett fogyasztást terhelő és nem visszaigényelhető adó, és
 
-c) megfelel a 31/E. § (2)–(9) bekezdésében foglalt feltételeknek.
+c) amely megfelel a 31/E. § (2)–(10) bekezdésében foglalt feltételeknek.
 
 (2) Az (1) bekezdésben meghatározottakon túl közvetlen magyar filmgyártási költségként számolható el a filmgyártásban közvetlenül közreműködő külföldi előadóművészek és stábtagok javadalmazásának költsége is, akkor is, ha az nem a filmelőállító vagy a filmgyártó vállalkozás könyveiben merül fel, feltéve hogy az így keletkezett jövedelmet az Szja tv. alapján Magyarországon adókötelezettség terheli, és az adót (adóelőleget) a kifizető a kifizetéskor a jogszabályoknak megfelelően levonta és az állami adóhatóságnak befizette, vagy kifizető hiányában a magánszemély ezt a jövedelmét terhelő adót (adóelőleget) az adóhatóságnak befizette. Az adó megfizetését a filmelőállító vagy filmgyártó vállalkozás köteles hitelt érdemlően igazolni.
 

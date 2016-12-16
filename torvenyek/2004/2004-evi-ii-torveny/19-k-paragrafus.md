@@ -1,9 +1,21 @@
 ## 2/A. Cím
 
-## A filmalkotások besorolása
+## Jogosultság magyarországi filmterjesztésre
 
-19/K. § (1) A játékfilmalkotásokat, a kisjátékfilmeket, az animációs filmalkotásokat, dokumentumfilm-alkotásokat és a tudományos ismeretterjesztő filmalkotásokat, az 1. melléklet szerinti táblázat alapján elért pontszámoknak megfelelően kell besorolni a magyar filmalkotás, a magyar részvételű filmalkotás, az egyéb magyar részvételű filmalkotás és az egyéb filmalkotás elnevezésű kategóriák valamelyikébe.
+19/K. § (1) Az e törvény hatálya alá tartozó, Magyarországon letelepedett filmterjesztő által végzett 2. § 15. pont a) alpontja szerinti forgalmazói, illetve 2. § 15. pont b) alpontja szerinti moziüzemeltetési tevékenység bejelentés és a Hatóság általi hatósági nyilvántartásba vétel után végezhető.
 
-(2) A kísérleti filmek és az e törvényben nem szabályozott egyéb műfajok esetében az 1. mellékletnek a dokumentumfilm-alkotások és a tudományos ismeretterjesztő filmalkotások besorolására vonatkozó szempontjait azzal az eltéréssel kell alkalmazni, hogy ha a besorolandó filmalkotás által – a táblázat alapján értékelhető tényleges alkotói részvétel, illetve feltételek alapján – elérhető legmagasabb pontszám 100 pontnál kevesebb, a 2. § 7. pontja szerinti kategóriák valamelyikébe való besorolás feltétele, hogy az elérhető pontszámot 100%-nak tekintve az adott filmalkotás elérje a 2. § 7. pontjában meghatározott pontszámoknak megfelelő százalékot.
+(2) A nyilvántartásba vételt kezdeményező bejelentő – e törvény keretei között – bármely természetes személy és jogi személy lehet.
 
-(3) Az e § szerinti pontszámok kiszámításakor a filmalkotás magyar elemeire adható egyes pontszámokat az egyes elemeken belüli magyar részvétel arányához kell igazítani. Ha a filmalkotásban magyar filmelőállító vagy producer vesz részt, részükre, a magyar hozzájárulás arányától függetlenül a legmagasabb elérhető pontszámot kell adni.
+(3) A bejelentéssel összefüggő eljárásban a Hatóság a filmterjesztőt az (1) bekezdés szerinti bejelentés megérkezését követő naptól számított nyolc napon belül hivatalból nyilvántartásba veszi.
+
+(4) Ha a filmterjesztő filmforgalmazási és moziüzemeltetési tevékenységet is végez, köteles a forgalmazói és moziüzemeltetési tevékenységet külön-külön bejelenteni.
+
+(5) A Hatóság nyilvántartást vezet
+
+a) a forgalmazói tevékenységet folytató szolgáltatókról, valamint
+
+b) a moziüzemeltető tevékenységet folytató szolgáltatókról.
+
+(6) Az (5) bekezdés szerinti nyilvántartásoknak a forgalmazók és a moziüzemeltetők nevére, elérhetőségére, valamint a mozik elnevezésére, címére és teremszámára vonatkozó adatai nyilvánosak és a Hatóság internetes honlapjáról elérhetők. A Hatóság a forgalmazói és moziüzemeltetési tevékenység ellenőrzése céljából a forgalmazói, illetve moziüzemeltetési tevékenységet folytató természetes személy személyazonosító adatait kezeli a nyilvántartásból való törlésig.
+
+(7) Az (5) bekezdés szerinti nyilvántartások a (6) bekezdésben foglalt adatok tekintetében – a természetes személyazonosító, valamint a lakcím-azonosító adatok kivételével – közhiteles hatósági nyilvántartásnak minősülnek.

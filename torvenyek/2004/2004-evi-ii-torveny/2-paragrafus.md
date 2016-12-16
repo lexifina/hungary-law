@@ -42,21 +42,21 @@ b) forgatásának során a szereplők (az utómunka során a narrátor) által h
 
 14. támogató: a mozgóképszakmai célok támogatását végző szervezet vagy intézmény;
 
-15. filmterjesztés: a filmalkotás nyilvános előadása, nyilvánossághoz közvetítése sugárzás útján vagy oly módon, hogy a nyilvánosság tagjai a hozzáférés helyét és idejét egyénileg választhatják meg, továbbá a filmalkotás eredeti példányának vagy többszörözött példányainak a nyilvánosság számára történő hozzáférhetővé tétele, különösen
+15. filmterjesztés: a filmalkotás nyilvános előadása, továbbá a filmalkotás eredeti példányának vagy többszörözött példányainak a nyilvánosság számára történő hozzáférhetővé tétele, különösen
 
-a) forgalmazással, illetve az arra történő felkínálással,
+a) forgalmazással, vagy az arra történő felkínálással,
 
-b) moziüzemeltetéssel,
+b) moziüzemeltetéssel, vagy
 
 c) filmalkotás bármely adathordozón történő kiadásával, értékesítésével, bérbeadásával, haszonkölcsönbe adásával;
 
-16. mozi: filmalkotások belépti díj ellenében történő nyilvános bemutatására rendszeresen vagy alkalomszerűen szolgáló, a 19/A. § (1) bekezdése szerinti Hatóság által ekként nyilvántartott helyiség;
+16. mozi: filmalkotások belépti díj ellenében történő nyilvános bemutatására rendszeresen vagy alkalomszerűen szolgáló, a 19/L. § szerint ekként nyilvántartott helyiség;
 
 17. moziüzemeltetés: filmalkotások közönség előtti, moziban történő bemutatására irányuló üzletszerű tevékenység;
 
 17a. moziüzemeltető: a moziüzemeltetést folytató természetes személy vagy jogi személy;
 
-18. filmterjesztő: filmterjesztéssel üzletszerűen foglalkozó gazdasági társaság vagy egyéb szervezet;
+18. filmterjesztő: filmterjesztéssel üzletszerűen foglalkozó természetes személy, gazdasági társaság vagy egyéb szervezet;
 
 19. filmterv fejlesztés: filmterv és forgatókönyv létrejöttét, eladhatóságát és eladását, illetve megvalósíthatóságát és későbbi megvalósítását célzó kutatói, alkotói, tervezési és szervezési munkák összessége;
 
@@ -80,7 +80,7 @@ c) filmalkotás bármely adathordozón történő kiadásával, értékesítés�
 
 27. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez.
 
-28. kulturális értéket műfaja alapján létrehozó filmalkotás: a játékfilm, a kisjátékfilm, a kísérleti film, a dokumentumfilm, a tudományos ismeretterjesztő film, az animációs film, a rövidfilm, a tv-film és a tv-sorozat, kivéve az olyan film vagy filmsorozat, amely valós szereplők és események elsődlegesen szórakoztató célú nyomon követésén alapul és kulturális értéket nem hoz létre (valóságshow), továbbá az olyan fikciós filmsorozat, amely heti többszöri televíziós bemutatásra készült, több mint húsz epizódból áll, lezáratlan dramaturgiájából adódóan végtelenül folytatható, és kulturális értéket nem hoz létre (szappanopera);
+28. kulturális értéket műfaja alapján létrehozó filmalkotás: a játékfilm, a kisjátékfilm, a kísérleti film, a dokumentumfilm, a tudományos ismeretterjesztő film, az animációs film, a rövidfilm, a tv-film és a tv-sorozat, kivéve az olyan film vagy filmsorozat, amely valós szereplők és események elsődlegesen szórakoztató célú nyomon követésén alapul és kulturális értéket nem hoz létre (valóságshow), az olyan fikciós filmsorozat, amely heti többszöri televíziós bemutatásra készült, több mint húsz epizódból áll, lezáratlan dramaturgiájából adódóan végtelenül folytatható, és kulturális értéket nem hoz létre (szappanopera), továbbá az olyan részben fikciós film vagy filmsorozat, amely a szereplők természetes élethelyzeteit a jelenetek előre meghatározott dramaturgiájával, írásba foglalt és rögtönzött párbeszédekkel mutatja be (scripted reality);
 
 29. közvetlen magyar filmgyártási költség: a közvetlen filmgyártási költségek azon csoportja, amely adó vagy egyéb közteher-fizetési kötelezettség formájában merül fel, vagy amelynek felmerülése Magyarországon adó- vagy járulékfizetési kötelezettséget keletkeztet és megfelel az e törvényben meghatározott követelményeknek.
 

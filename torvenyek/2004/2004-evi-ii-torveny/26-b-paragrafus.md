@@ -10,6 +10,12 @@ c) egyéb magyar részvételű filmalkotás,
 
 d) egyéb filmalkotás.
 
+(1a) A játékfilmalkotásokat, a kisjátékfilmeket, az animációs filmalkotásokat, dokumentumfilm-alkotásokat és a tudományos ismeretterjesztő filmalkotásokat az 1. melléklet szerinti táblázat alapján elért pontszámoknak megfelelően kell besorolni.
+
+(1b) A kísérleti filmek és az e törvényben nem szabályozott egyéb műfajok esetében az 1. mellékletnek a dokumentumfilm-alkotások és a tudományos ismeretterjesztő filmalkotások besorolására vonatkozó szempontjait azzal az eltéréssel kell alkalmazni, hogy ha a besorolandó filmalkotás által – a táblázat alapján értékelhető tényleges alkotói részvétel, illetve feltételek alapján – elérhető legmagasabb pontszám 100 pontnál kevesebb, a 2. § 7. pontja szerinti filmalkotás típusok valamelyikébe való besorolás feltétele, hogy az elérhető pontszámot 100%-nak tekintve az adott filmalkotás elérje a 2. § 7. pontjában meghatározott filmalkotás típusok pontszámainak megfelelő százalékot.
+
+(1c) Az (1a) és (1b) bekezdés szerinti pontszámok kiszámításakor a filmalkotás magyar elemeire adható egyes pontszámokat az egyes elemeken belüli magyar részvétel arányához kell igazítani. Ha a filmalkotásban magyar filmelőállító vagy producer vesz részt, részükre a magyar hozzájárulás arányától függetlenül, a legmagasabb elérhető pontszámot kell adni.
+
 (2) A közvetlen támogatás nyújtásának feltétele a filmalkotások magyar részvételi arányok szerinti besorolása. Az (1) bekezdés szerinti besorolási eljárást lezáró hatósági határozat jogerőre emelkedését követően a Hivatal haladéktalanul bejegyzi – hivatalból indított eljárásban – a besorolt filmalkotást és a hatósági döntés alapjául szolgáló adatokat, illetve tényeket a támogatásra jogosult filmalkotásokról vezetett hatósági nyilvántartásába. Amennyiben a filmalkotás a nyilvántartásban már szerepel, a Hivatal az (1) bekezdés szerinti besorolási eljárást lezáró jogerős hatósági határozatban megállapított adatokkal tényekkel egészíti ki a nyilvántartás adatait.
 
 (3) Az (1) bekezdés szerinti besorolást a Hivatal a filmelőállító által a Hivatalhoz benyújtott, a (4) és (5) bekezdésben meghatározott okiratok alapján végzi el.
