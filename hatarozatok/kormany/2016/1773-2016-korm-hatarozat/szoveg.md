@@ -174,8 +174,6 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: először 2017. január 31-ig, majd minden évben, az éves központi költségvetés tervezésekor
 
-12. visszavonja
+12.[^1]
 
-a) a Nemzeti Kastélyprogramról szóló 1663/2014. (XI. 20.) Korm. határozatot és
-
-b) a Nemzeti Várprogramról szóló 1483/2015. (VII. 21.) Korm. határozatot.
+[^1]: A 12. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
