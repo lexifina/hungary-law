@@ -1,3 +1,0 @@
-## 2. § Az R. 4. § (3) bekezdése helyébe a következő rendelkezés lép:
-
-## „(3) Az új adalékanyagoknak a dohánytermék gyártásában való felhasználását a felhasználás tervezett kezdő időpontját 6 hónappal megelőzően, de legkésőbb a felhasználás tervezett időpontját 30 nappal megelőzően a felhasználónak, a gyártónak, a bejegyzett kereskedőnek, az importálónak vagy az adóraktár engedélyesének (a továbbiakban együtt: bejelentő) be kell jelentenie az ÁNTSZ–OTH-nak. A bejelentést a 3. melléklet szerinti adattartalommal kell megtenni. A bejelentett adatokról az ÁNTSZ–OTH hatósági nyilvántartást vezet, és azt a honlapján közzéteszi. Nem szükséges bejelenteni a nyersdohány természetes részeinek felhasználását.”
