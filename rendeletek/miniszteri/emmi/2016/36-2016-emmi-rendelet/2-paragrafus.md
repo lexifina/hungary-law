@@ -1,0 +1,1 @@
+## „(3) E rendelet rendelkezéseit a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény hatálya alá tartozó ellátások közül a családi bölcsődére, a munkahelyi bölcsődére, a napközbeni gyermekfelügyeletre, az alternatív nappali ellátásra, a helyettes szülői ellátásra, valamint a nevelőszülői ellátásra nem kell alkalmazni.”
