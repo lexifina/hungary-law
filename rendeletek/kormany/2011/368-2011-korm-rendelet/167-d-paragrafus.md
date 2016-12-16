@@ -1,3 +1,3 @@
-167/D. §[^542]
+167/D. §[^545]
 
-[^542]: Az Ávr. 167/D. §-át a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 20. pontja hatályon kívül helyezte.
+[^545]: Az Ávr. 167/D. §-át a 397/2014. (XII. 31.) Korm. rendelet 45. § (2) bekezdés 20. pontja hatályon kívül helyezte.

@@ -1,4 +1,4 @@
-124/A. §[^389] (1) A letéti számlán lévő pénzeszközökkel pénzügyi műveletek a letevő rendelkezése szerint végezhetők.
+124/A. §[^392] (1) A letéti számlán lévő pénzeszközökkel pénzügyi műveletek a letevő rendelkezése szerint végezhetők.
 
 (2) A letéti számlán lebonyolított letéti pénzforgalomról olyan nyilvántartást kell vezetni, amely legalább tartalmazza
 
@@ -24,4 +24,4 @@ engedélyezi.
 
 (6) A (3) bekezdés a) pontja szerinti letéti számla kizárólag a Kincstárban vezethető.
 
-[^389]: Az Ávr. 124/A. §-t a 397/2014. (XII. 31.) Korm. rendelet 30. §-a iktatta be.
+[^392]: Az Ávr. 124/A. §-t a 397/2014. (XII. 31.) Korm. rendelet 30. §-a iktatta be.
