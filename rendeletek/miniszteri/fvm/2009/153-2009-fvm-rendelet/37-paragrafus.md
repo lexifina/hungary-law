@@ -1,4 +1,4 @@
-37. §[^36] (1) Az erdővédelmi mérő- és megfigyelőrendszer működtetése keretében az erdészeti szakszemélyzet köteles a szakirányítási tevékenysége során kezelt erdőt ért károsításokat az erdészeti hatóság központi szerve által rendszeresített, az alábbi adatokat tartalmazó „Erdővédelmi kárbejelentő lap” formanyomtatványon az erdészeti hatóság részére bejelenteni:
+37. §[^37] (1) Az erdővédelmi mérő- és megfigyelőrendszer működtetése keretében az erdészeti szakszemélyzet köteles a szakirányítási tevékenysége során kezelt erdőt ért károsításokat az erdészeti hatóság központi szerve által rendszeresített, az alábbi adatokat tartalmazó „Erdővédelmi kárbejelentő lap” formanyomtatványon az erdészeti hatóság részére bejelenteni:
 
 a) bejelentő személy neve, szakszemélyzeti kódszáma,
 
@@ -24,4 +24,4 @@ k) zárlati károsító megerősítése.
 
 (2) Az Erdővédelmi kárbejelentő lapokat naptári negyedévenkénti bontásban, az adott tárgynegyedévet követő hónap 8. napjáig, míg zárlati károsító esetén a káresemény észlelését követően haladéktalanul meg kell küldeni az erdészeti hatóság részére.
 
-[^36]: A 37. § a 24/2012. (III. 19.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^37]: A 37. § a 24/2012. (III. 19.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.

@@ -1,6 +1,6 @@
 ## A fakitermelés szabályai
 
-42. §[^38] (1) Erdőben jogszerűen végezhető fakitermelés megkezdése előtt – a fásítás és szabad rendelkezésű erdő kivételével – a jogosult erdészeti szakszemélyzet az erdőgazdálkodót vagy annak megbízottját tájékoztatja az elvégzendő munkafolyamatról, valamint a tájékoztatásról erdőrészletenkénti bontásban műveleti lapot állít ki.
+42. §[^39] (1) Erdőben jogszerűen végezhető fakitermelés megkezdése előtt – a fásítás és szabad rendelkezésű erdő kivételével – a jogosult erdészeti szakszemélyzet az erdőgazdálkodót vagy annak megbízottját tájékoztatja az elvégzendő munkafolyamatról, valamint a tájékoztatásról erdőrészletenkénti bontásban műveleti lapot állít ki.
 
 (2) Az (1) bekezdésben meghatározott műveleti lap legalább a következő adatokat tartalmazza:
 
@@ -56,4 +56,4 @@ i) az erdőgazdálkodási tevékenységgel érintett terület és az erdőrészl
 
 j) az ápoló- és tisztítóvágás, a felújítóvágás végvágása és a szálalóvágás végvágása, a tarvágás, valamint – kultúrerdők és faültetvények kivételével – a kivágásra tervezett fák szakszerű megjelölése megtörtént.
 
-[^38]: A 42. § a 27/2016. (IV. 11.) FM rendelet 3. §-ával megállapított szöveg.
+[^39]: A 42. § a 27/2016. (IV. 11.) FM rendelet 3. §-ával megállapított szöveg.

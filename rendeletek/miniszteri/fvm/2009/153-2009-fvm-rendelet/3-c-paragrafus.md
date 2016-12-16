@@ -1,4 +1,4 @@
-## 3/C. §[^13] A közjóléti létesítmény létesítési engedélyezési tervének tartalmaznia kell:
+## 3/C. §[^14] A közjóléti létesítmény létesítési engedélyezési tervének tartalmaznia kell:
 
 a) a tervezési terület jellemzését (lehatárolás, földrajzi elhelyezkedés, megközelítés, meglévő infrastruktúra);
 
@@ -16,4 +16,4 @@ g) pad, erdei bútor garnitúra, tájékoztató tábla, tűzrakóhely kivételé
 
 h) ha a kérelmet nem az erdőgazdálkodó nyújtotta be, az erdőgazdálkodó hozzájáruló nyilatkozatát.
 
-[^13]: A 3/C. §-t a 30/2013. (IV. 30.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^14]: A 3/C. §-t a 30/2013. (IV. 30.) VM rendelet 8. § (2) bekezdése iktatta be.

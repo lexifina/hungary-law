@@ -1,4 +1,4 @@
-3/A. §[^11] (1) Pad, erdei bútor garnitúra, tájékoztató tábla, tűzrakóhely típusú közjóléti berendezés az erdészeti hatósághoz történő (5) bekezdés szerinti, előzetes bejelentést követő 31. naptól létesíthető.
+3/A. §[^12] (1) Pad, erdei bútor garnitúra, tájékoztató tábla, tűzrakóhely típusú közjóléti berendezés az erdészeti hatósághoz történő (5) bekezdés szerinti, előzetes bejelentést követő 31. naptól létesíthető.
 
 (2) A bejelentés időpontjának az erdészeti hatósághoz történő beérkezés napja számít.
 
@@ -16,4 +16,4 @@ c) közjóléti létesítmény, közjóléti berendezés megnevezése;
 
 d) közjóléti berendezés elhelyezkedését legalább 5 m pontossággal megadó EOV koordináta.
 
-[^11]: A 3/A. §-t a 30/2013. (IV. 30.) VM rendelet 8. § (2) bekezdése iktatta be.
+[^12]: A 3/A. §-t a 30/2013. (IV. 30.) VM rendelet 8. § (2) bekezdése iktatta be.

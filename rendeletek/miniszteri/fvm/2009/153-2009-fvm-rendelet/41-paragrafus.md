@@ -1,4 +1,4 @@
-## 40. §[^37] Fakitermelésnek minősül az álló fák tőtől való elválasztása – ideértve a fák behajkolását is –, a fekvő és kitermelt fa feldolgozása, valamint a kitermelt vagy feldolgozott faanyag közelítése.
+## 40. §[^38] Fakitermelésnek minősül az álló fák tőtől való elválasztása – ideértve a fák behajkolását is –, a fekvő és kitermelt fa feldolgozása, valamint a kitermelt vagy feldolgozott faanyag közelítése.
 
 41. § (1) Gomba, vadgyümölcs illetőleg gyógynövény egyéni szükségletet meghaladó, vagy nem állami területen történő gyűjtése csak az erdőgazdálkodó előzetes írásbeli hozzájárulásával gyakorolható.
 
@@ -22,4 +22,4 @@ gyűjtése minősül.
 
 (7) A méhészeti tevékenységet végző az elhelyezett méhcsaládok megközelítési útvonalain a kaptáraktól számított 50 méteres távolságra méhveszélyre figyelmeztető táblát köteles elhelyezni.
 
-[^37]: A 40. § a 27/2016. (IV. 11.) FM rendelet 5. § c) pontja szerint módosított szöveg.
+[^38]: A 40. § a 27/2016. (IV. 11.) FM rendelet 5. § c) pontja szerint módosított szöveg.
