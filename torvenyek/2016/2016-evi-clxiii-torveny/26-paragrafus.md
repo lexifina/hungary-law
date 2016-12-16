@@ -7,11 +7,3 @@
 (4) A 15. § (3) bekezdése az e törvény kihirdetését követő harmincegyedik napon lép hatályba.
 
 (5) Az 5. § 2017. április 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
