@@ -22,8 +22,8 @@
 
 ## 3. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról szóló 1438/2016. (VIII. 17.) Korm. határozat 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 2. Fejezeti általános tartalék alcím javára biztosított 129 144 ezer forintból 70 000 ezer forint a XI. Miniszterelnökség fejezet, 1. Miniszterelnökség cím, K3. Dologi kiadások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 4. A MOB által kiemelt sportágak 2013. évi sportfejlesztési elképzeléseinek támogatásáról, továbbá a 2014–2020. évre vonatkozó sportágfejlesztési igények bemutatásáról szóló 1526/2013. (VIII. 12.) Korm. határozat 2. pontjában a „2016. december 31.” szövegrész helyébe a „2017. június 30.” szöveg lép.
-
-## 5. A bánsági magyarság közösségi célokat szolgáló beruházásának finanszírozása érdekében a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1528/2015. (VII. 31.) Korm. határozat 1. pontjában a „2016. december 31.” szövegrész helyébe a „2017. június 30.” szöveg lép.
+## 4–5.[^1]
 
 1. melléklet az 1771/2016. (XII. 15.) Korm. határozathoz
+
+[^1]: A 4–5. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
