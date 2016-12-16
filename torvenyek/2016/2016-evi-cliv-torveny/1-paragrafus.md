@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és Katar Állam Kormánya közötti légiközlekedési megállapodás (a továbbiakban: Megállapodás) kötelező hatályának elismerésére.
