@@ -1,0 +1,63 @@
+27. § A Tpvt. XIV. Fejezetének helyébe a következő fejezet lép:
+
+„XIV. FEJEZET
+
+A BÍRÓSÁG VERSENYFELÜGYELETI ELJÁRÁSA
+
+86. § (1) A 2–7. §-ban foglalt rendelkezések megsértése miatti eljárás lefolytatása a bíróság hatáskörébe tartozik.
+
+(2) Az érdekelt a keresetben
+
+a) követelheti a jogsértés megtörténtének megállapítását,
+
+b) követelheti a jogsértés abbahagyását és a jogsértő eltiltását a további jogsértéstől,
+
+c) követelheti, hogy a jogsértő – nyilatkozattal vagy más megfelelő módon – adjon elégtételt, és szükség esetén a jogsértő részéről vagy költségén az elégtételnek megfelelő nyilvánosságot biztosítsanak,
+
+d) követelheti a sérelmes helyzet megszüntetését, a jogsértést megelőző állapot helyreállítását, továbbá a jogsértéssel előállított vagy forgalmazott áruk jogsértő jellegétől való megfosztását, vagy – ha ez nem lehetséges – megsemmisítését, továbbá az előállításra szolgáló különleges eszközök megsemmisítését,
+
+e) kártérítést és – személyiségi joga megsértése esetén – sérelemdíjat követelhet a polgári jog szabályai szerint, illetve
+
+f) követelheti, hogy a jogsértő szolgáltasson adatot a jogsértéssel érintett áruk előállításában, forgalmazásában résztvevőkről, valamint az ilyen áruk terjesztésére kialakított üzleti kapcsolatokról.
+
+(3) A 4. § vagy a 6. § rendelkezéseinek megsértése miatt indított perekben az érdekelt fél a (2) bekezdésben foglaltakon túl a keresetben követelheti
+
+a) a jogsértéssel elért gazdagodás visszatérítését,
+
+b) a kizárólag vagy elsősorban a jogsértésre használt eszközök és anyagok, valamint a jogsértéssel érintett termékek lefoglalását, meghatározott személyeknek történő átadását, kereskedelmi forgalomból való visszahívását, onnan való végleges kivonását, illetve megsemmisítését, továbbá
+
+c) a határozatnak a jogsértő költségére történő nyilvánosságra hozatalát.
+
+(4) A (3) bekezdés c) pontja alkalmazásában nyilvánosságra hozatalon kell érteni különösen az országos napilapban, illetve az internet útján történő közzétételt.
+
+87. § A bíróság eljárása a 78. § szerinti bírság kiszabására is kiterjed.
+
+87/A. § A bíróság a még közzé nem tett összehasonlító reklám közzétételét megtiltja, ha megállapítja, hogy az – közzététele esetén – a 6/A. § (1) bekezdésébe ütközne. A közzététel megtiltása ideiglenes intézkedésként is elrendelhető. A közzététel megtiltása mellett bírság kiszabásának nincs helye.
+
+88. § (1) A 2–7. §-ba ütköző magatartásra hivatkozással a magatartás tanúsításától számított hathónapos elévülési határidőn belül indítható per; a magatartás tanúsításától számított három év eltelte után perindításnak nincs helye.
+
+(2) Ha a kifogásolt magatartás folyamatos, az (1) bekezdés szerinti határidők számítása a magatartás abbahagyásakor kezdődik. Ha a kifogásolt magatartás azzal valósul meg, hogy valamely helyzetet vagy állapotot nem szüntetnek meg, a határidők számítása mindaddig nem kezdődik meg, amíg a helyzet (állapot) fennáll.
+
+(3) Az e fejezet alapján indított perekre a törvényszéknek van hatásköre.
+
+(4) A 4. § vagy a 6. § rendelkezéseinek megsértése miatt indított perben az érdekelt – a polgári jogi igényeken felül – az ideiglenes intézkedésre vonatkozó feltételekkel kérheti biztosítási intézkedés elrendelését a bírósági végrehajtásról szóló törvény szabályai szerint, ha valószínűsítette, hogy a kártérítés, illetve a jogsértéssel elért gazdagodás visszatérítése iránti követelésének későbbi kielégítése veszélyben van; továbbá kérheti a jogsértő fél kötelezését banki, pénzügyi és kereskedelmi adatainak közlésére, illetve a rendelkezése alatt álló, ilyen adatot tartalmazó iratoknak a bemutatására a fenti biztosítási intézkedés elrendelése céljából. Az érdekelt – amennyiben a 4. §-ban vagy a 6. §-ban foglalt rendelkezéseket feltételezetten sértő cselekmények folytatásához hozzájárul – a jogsértés abbahagyásának követelése helyett arra is kérheti a bíróságot, hogy a feltételezett jogsértőt biztosíték adására kötelezze. A biztosíték letételét a bíróság az érdekelt erre irányuló kérelme hiányában is elrendelheti, feltéve, hogy az érdekelt előterjesztett kérelmet a jogsértés abbahagyása iránt, és annak a bíróság nem ad helyt.
+
+(5) Ha a 4. § vagy a 6. § rendelkezéseinek megsértése miatt indított perben valamelyik fél tényállításait már elvárható mértékben valószínűsítette, a bíróság a bizonyító fél kérelmére az ellenfelet kötelezheti
+
+a) a rendelkezése alatt álló okirat és egyéb tárgyi bizonyíték bemutatására, valamint a szemle lehetővé tételére,
+
+b) banki, pénzügyi és kereskedelmi adatok közlésére, illetve a rendelkezése alatt álló, ilyen adatot tartalmazó iratok bemutatására.
+
+(6) Előzetes bizonyításnak a per megindítása előtt helye van, ha az érdekelt fél a 4. §-ba vagy a 6. §-ba ütköző magatartás tényét vagy annak veszélyét elvárható mértékben valószínűsítette. Az előzetes bizonyítás elrendelésének kérdésében hozott határozat ellen fellebbezésnek van helye.
+
+(7) A 4. §-ban, illetve a 6. §-ban foglalt rendelkezések megsértése esetén ideiglenes intézkedés iránti kérelem a keresetlevél benyújtását megelőzően is előterjeszthető. Ez az eljárás a törvényszék hatáskörébe tartozik, amely a kérelmet nemperes eljárásban bírálja el. Az ideiglenes intézkedés iránti nemperes eljárásra e törvény, valamint a polgári perrendtartásról szóló törvény általános szabályai – a nemperes eljárás sajátosságaiból fakadó eltérésekkel – megfelelően irányadók. Ha a kérelmező a 4. §-ban vagy a 6. §-ban foglalt rendelkezések megsértése miatt a pert a (8) bekezdésben foglaltak szerint megindította, a peres eljárás illetékeként a nemperes eljárásban lerótt illetéken felüli összeget kell megfizetni.
+
+(8) A bíróság az ideiglenes intézkedés tárgyában soron kívül, legkésőbb az ilyen intézkedés iránti kérelem előterjesztésétől számított tizenöt napon belül határoz. Az ideiglenes intézkedés tárgyában hozott határozat elleni fellebbezést a másodfokú bíróság soron kívül, legkésőbb a fellebbezés benyújtásától számított tizenöt napon belül bírálja el.
+
+(9) A bíróság a keresetlevél benyújtását megelőzően előterjesztett ideiglenes intézkedés – ideértve a (4) bekezdés szerinti biztosítási intézkedést is –, illetve az előzetes bizonyítás tárgyában hozott határozatát az ellenfél kérelmére hatályon kívül helyezi, ha a sértett fél a pert a 4. §-ban vagy a 6. §-ban foglalt rendelkezések megsértése miatt az ideiglenes intézkedéssel érvényesített vagy az előzetes bizonyítás által alátámasztani kívánt követelés tárgyában nem indította meg a határozat közlésétől számított tizenöt napon belül. A bíróság az ideiglenes intézkedés, illetve az előzetes bizonyítást elrendelő határozat hatályon kívül helyezésére irányuló kérelem tárgyában soron kívül, legkésőbb a kérelem előterjesztésétől számított tizenöt napon belül határoz.
+
+(10) Ha a késedelem helyrehozhatatlan károkat okozna, az a rendkívül sürgős szükség esetének minősül, és erre figyelemmel az ideiglenes intézkedés – ideértve a (4) bekezdés szerinti biztosítási intézkedést is – elrendelésének kérdésében az ellenfél meghallgatása mellőzhető. Ha a késedelem helyrehozhatatlan károkat okozna, vagy ha valószínűsíthető a bizonyítékok megsemmisítésének kockázata, az sürgős esetnek minősül, és erre figyelemmel az előzetes bizonyítás elrendelésének kérdésében az ellenfél meghallgatása mellőzhető. Az ellenfél meghallgatásának mellőzésével hozott határozatot az ellenféllel a foganatosításkor kell közölni. A határozat közlését követően az ellenfél kérheti a meghallgatását, és az ideiglenes intézkedést, illetve az előzetes bizonyítást elrendelő határozat megváltoztatását vagy hatályon kívül helyezését.
+
+(11) A bíróság – a (4) bekezdés második és harmadik mondatában foglalt esetet kivéve – az ideiglenes intézkedés, valamint az előzetes bizonyítás elrendelését biztosítékadáshoz kötheti. Ha az e bekezdés, illetve a (4) bekezdés szerinti biztosíték összegéből való kielégítésre jogosult fél igényét az előzetes bizonyítás tárgyában hozott végzést hatályon kívül helyező határozat, az ítélet vagy a pert befejező egyéb határozat jogerőre emelkedésétől vagy a per megszűnésétől számított három hónapon belül nem érvényesíti, a letevő a biztosíték visszaadását kérheti a bíróságtól.
+
+(12) A bíróságnak a 6/A. § (1) bekezdésében foglalt rendelkezések megsértése miatt folytatott eljárásában az összehasonlító reklám részét képező tényállítás valóságának bizonyítása az üzleti gyakorlat alkalmazóját terheli.”
