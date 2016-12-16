@@ -1,6 +1,6 @@
 ## 7. Naponta biztosítandó élelmiszerek, élelmiszercsoportok
 
-7. §[^8] (1) A Közétkeztető az általa ellátott valamennyi korcsoport számára naponta biztosítja a (2)–(6) bekezdésben foglalt élelmiszereket, az ott meghatározottak szerint. E rendelkezést a 15. § szerinti diétás étkeztetésre is alkalmazni kell, ha az adott élelmiszer a diétában alkalmazható.
+7. §[^18] (1) A Közétkeztető az általa ellátott valamennyi korcsoport számára naponta biztosítja a (2)–(6) bekezdésben foglalt élelmiszereket, az ott meghatározottak szerint. E rendelkezést a 15. § szerinti diétás étkeztetésre is alkalmazni kell, ha az adott élelmiszer a diétában alkalmazható.
 
 (2) Egész napos étkeztetés esetén egy főre biztosítandó legalább
 
@@ -24,4 +24,4 @@ b) két adag gabona alapú élelmiszer, melyből legalább egy adagnak teljes ki
 
 (6) A 11. § (3) bekezdésében foglaltakat az egész napos étkeztetés, a bölcsődei étkeztetés és a napi háromszori étkezés szolgáltatása esetén tej, illetve tejtermék naponta történő adásával kell biztosítani.
 
-[^8]: A 7. § az 54/2014. (XII. 29.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^18]: A 7. § az 54/2014. (XII. 29.) EMMI rendelet 2. §-ával megállapított szöveg.

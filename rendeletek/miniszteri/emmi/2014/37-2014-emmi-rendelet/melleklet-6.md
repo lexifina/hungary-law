@@ -8,17 +8,17 @@
 
 | 2. | 1–3 év | 4–6 év | 7–10 év | 11–14 év | 15–18 év | 19–69 év | 70. évtől |
 
-| 3. | Egész napos étkeztetés | 2 | 3 | 5 (legfeljebb: 10) | 5 (legfeljebb: 10) | 5 (legfeljebb: 10) | 5 (legfeljebb: 12) | 5 (legfeljebb: 12) |
+| 3. | Egész napos étkeztetés | 2 (leg- feljebb: 5) | 3 (leg- feljebb: 7) | 5 (legfeljebb: 10) | 5 (legfeljebb: 10) | 5 (legfeljebb: 12) | 5 (legfeljebb: 12) | 5 (legfeljebb: 12) |
 
-| 4. | Bölcsődei étkeztetés | 1,5 | – | – | – | – | – | – |
+| 4. | Bölcsődei étkeztetés | 1,5 (leg- feljebb: 4) | - | - | - | - | - | - |
 
-| 5. | Napi háromszori étkezés szolgáltatása | – | 2 | 3,5 (legfeljebb: 6,6) | 3,5 (legfeljebb: 6,6) | 3,5 (legfeljebb: 6,6) | 3,5 (legfeljebb: 7,9) | 3,5 (legfeljebb: 7,9) |
+| 5. | Napi háromszori étkezés szolgáltatása | - | 2 (leg- feljebb: 5,5) | 3,5 (legfeljebb: 6,6) | 3,5 (legfeljebb: 6,6) | 3,5 (legfeljebb: 7,9) | 3,5 (legfeljebb: 7,9) | 3,5 (legfeljebb: 7,9) |
 
-| 6. | Napi egyszeri étkezés szolgáltatása | – | 1 | 2 (legfeljebb: 3,6) | 2 (legfeljebb: 3,6) | 2 (legfeljebb: 3,6) | 2 (legfeljebb: 4,3) | 2 (legfeljebb: 4,3) |
+| 6. | Napi egyszeri étkezés szolgáltatása | 1 | 1 (leg- feljebb: 3) | 2 (legfeljebb: 4) | 2 (legfeljebb: 4) | 2 (legfeljebb: 4,3) | 2 (legfeljebb: 4,3) | 2 (legfeljebb: 4,3) |
 
 ## ∗ Beleértve az alapanyagok sótartalmát is, nem csak az ételkészítés során felhasznált sómennyiséget.
 
-6. melléklet a 37/2014. (IV. 30.) EMMI rendelethez[^21]
+6. melléklet a 37/2014. (IV. 30.) EMMI rendelethez[^47]
 
 Egyes élelmiszerekre, élelmiszercsoportokra vonatkozó előírások tíz élelmezési napra, egy főre számítva*
 
@@ -52,7 +52,7 @@ Egyes élelmiszerekre, élelmiszercsoportokra vonatkozó előírások tíz élel
 
 | 14. | Édesség, finom pékáru a legalább 1/3 rész gyümölcsöt vagy 1/3 rész tejet vagy tejterméket tartalmazókat kivéve | legfeljebb négy alkalommal | legfeljebb négy alkalommal | legfeljebb négy alkalommal | legfeljebb két alkalommal |
 
-| 15. | Ízesített tejkészítmény | legfeljebb két alkalommal | legfeljebb három alkalommal | legfeljebb két alkalommal | nem adható |
+| 15. | Ízesített tejkészítmény | legfeljebb négy alkalommal | legfeljebb négy alkalommal | legfeljebb négy alkalommal | legfeljebb két alkalommal |
 
 | 16. | Lekvár, mogyorókrém, csokoládékrém | legfeljebb egy alkalommal | legfeljebb egy alkalommal | legfeljebb egy alkalommal | legfeljebb egy alkalommal |
 
@@ -78,4 +78,4 @@ Egyes élelmiszerekre, élelmiszercsoportokra vonatkozó előírások tíz élel
 
 3 Óvodás korosztályban nem adható.
 
-[^21]: A 6. melléklet az 54/2014. (XII. 29.) EMMI rendelet 11. §-a szerint módosított szöveg.
+[^47]: A 6. melléklet az 54/2014. (XII. 29.) EMMI rendelet 11. §-a, a 36/2016. (XII. 8.) EMMI rendelet 13. § (5) bekezdése szerint módosított szöveg.

@@ -10,7 +10,7 @@
 
 | 4. | színhús: 40–60 g | színhús: 60–80 g | színhús: 80–100 g | színhús: 90–110 g | színhús: 100–120 g |
 
-| 5. | darált hús: 30–40 g | darált hús: 40–50 g | darált hús: 50–60 g | darált hús: 60–70 g | darált hús: 60–80 g |
+| 5. | darált hús: 30-40 g | darált hús: 40-60 g | darált hús: 50-90 g | darált hús: 50-90 g | darált hús: 60-100 g |
 
 | 6. | levesekhez: 20–40 g | levesekhez: 30–50 g | levesekhez: 40–60 g | levesekhez: 50–70 g | levesekhez: 60–80 g |
 
@@ -18,7 +18,7 @@
 
 | 8. | Húskészít- mények | 23%-nál magasabb zsírtartalmú termék nem adható | 23% vagy annál kisebb zsírtartalmú termék | 23%-nál magasabb zsírtartalmú termék | 23% vagy annál kisebb zsírtartalmú termék | 23%-nál magasabb zsírtartalmú termék | 23% vagy annál kisebb zsírtartalmú termék | 23%-nál magasabb zsírtartalmú termék | 23% vagy annál kisebb zsírtartalmú termék | 23%-nál magasabb zsírtartalmú termék |
 
-| 9. | hideg- étkezéshez, rakott, töltött ételekhez: 15–25 g | hideg- étkezéshez, rakott, töltött ételekhez: 20–30 g | hideg- étkezéshez, rakott, töltött ételekhez: 0–15 g | hideg- étkezéshez, rakott, töltött ételekhez: 30–40 g | hideg- étkezéshez, rakott, töltött ételekhez: 0–25 g | hideg- étkezéshez, rakott, töltött ételekhez: 40–50 g | hideg- étkezéshez, rakott, töltött ételekhez: 0–25 g | hideg- étkezéshez, rakott, töltött ételekhez: 40–60 g | hideg- étkezéshez, rakott, töltött ételekhez: 0–25 g |
+| 9. | hideg- étkezés- hez, rakott, töltött ételekhez: 15-25 g | hideg- étkezés- hez, rakott, töltött ételekhez: 20-30 g | hideg- étkezés- hez, rakott, töltött ételekhez: 0-15 g | hideg- étkezés- hez, rakott, töltött ételekhez: 30-40 g | hideg- étkezés- hez, rakott, töltött ételekhez: 0-25 g | hideg- étkezés- hez, rakott, töltött ételekhez: 30-50 g | hideg- étkezés- hez, rakott, töltött ételekhez: 0-25 g | hideg- étkezés- hez, rakott, töltött ételekhez: 40-60 g | hideg- étkezés- hez, rakott, töltött ételekhez: 0-25 g |
 
 | 10. | levesekhez: 20–30 g | levesekhez: 30–40 g | levesekhez: 0–20 g | levesekhez: 40–60 g | levesekhez: 0–30 g | levesekhez: 50–60 g | levesekhez: 0–30 g | levesekhez: 50–60 g | levesekhez: 0–30 g |
 
@@ -30,7 +30,7 @@
 
 | 14. | felfújthoz: 20–30 g1 | felfújthoz: 30–40 g | felfújthoz: 40–50 g | felfújthoz: 40–60 g | felfújthoz: 50–60 g |
 
-| 15. | szendvicshez: 15–25 g1 | szendvicshez: 20–30 g | szendvicshez: 30–40 g | szendvicshez: 40–50 g | szendvicshez: 40–60 g |
+| 15. | Szendvicshez: 15-25 g1 | szendvicshez: 20-30 g | szendvicshez: 30-40 g | szendvicshez: 30-50 g | szendvicshez: 40-60 g |
 
 | 16. | levesekhez: 20–40 g1 | levesekhez: 30–50 g | levesekhez: 40–60 g | levesekhez: 50–70 g | levesekhez: 60–80 g |
 
@@ -52,9 +52,9 @@
 
 | 25. | túró ételkészítéshez: 30–50 g | túró ételkészítéshez: 50–70 g | túró ételkészítéshez: 70–100 g | túró ételkészítéshez: 80–110 g | túró ételkészítéshez: 100–150 g |
 
-| 26. | Tejföl | 10–20 g | 20–30 g | 30–40 g | 30–50 g | 30–60 g |
+| 26. | Tejföl | 10-20 g | 20-30 g | 20-40 g | 20-50 g | 20-60 g |
 
-| 27. | Kenőzsiradékok (vaj, vajkrém, margarin) | szendvicshez: 0–10 g | szendvicshez: 0–10 g | szendvicshez: 0–20 g | szendvicshez: 0–20 g | szendvicshez: 0–20 g |
+| 27. | Kenő Zsira- dékok (vaj, vaj- krém, mar- garin) | Szendvicshez: 0-10 g | szendvicshez: 0-15 g | szendvicshez: 0-20 g | szendvicshez: 0-20 g | szendvicshez: 0-20 g |
 
 | 28. | Zsiradék | Ételkészítéshez2: 0–5 g | Ételkészítéshez2: 0–8 g | Ételkészítéshez2: 0–10 g | Ételkészítéshez2: 0–10 g | Ételkészítéshez2: 0–15 g |
 
@@ -74,9 +74,9 @@
 
 | 36. | körethez zöldséggel együtt: 20–30 g | körethez zöldséggel együtt: 20–40 g | körethez zöldséggel együtt: 30–50 g | körethez zöldséggel együtt: 40–60 g | körethez zöldséggel együtt: 50–70 g |
 
-| 37. | teljes kiőrlésű kenyérfélék: 20–40 g | teljes kiőrlésű kenyérfélék: 30–50 g | teljes kiőrlésű kenyérfélék: 40–60 g | teljes kiőrlésű kenyérfélék: 50–70 g | teljes kiőrlésű kenyérfélék: 60–100 g |
+| 37. | teljes kiőrlésű kenyér-félék: 20-40 g | teljes kiőrlésű kenyérfélék: 30-50 g | teljes kiőrlésű kenyérfélék: 50-60 g | teljes kiőrlésű kenyérfélék: 50-70 g | teljes kiőrlésű kenyérfélék: 60-100 g |
 
-| 38. | kenyérfélék, kalács: 30–40 g | kenyérfélék, kalács: 40–50 g | kenyérfélék, kalács: 50–60 g | kenyérfélék, kalács: 60–70 g | kenyérfélék, kalács: 70–100 g |
+| 38. | Kenyér-félék, kalács: 25-40 g | kenyérfélék, kalács: 30-50 g | kenyérfélék, kalács: 40-60 g | kenyérfélék, kalács: 50-70 g | kenyérfélék, kalács: 60-100 g |
 
 | 39. | péksütemény: ½–1 db | péksütemény: ½–1 db | péksütemény: 1–2 db | péksütemény: 1–2 db | péksütemény: 1–3 db |
 
@@ -84,17 +84,17 @@
 
 | 41. | gabonaszelet nem adható | gabonaszelet 1 db | gabonaszelet 1–2 db | gabonaszelet 1–2 db | gabonaszelet 1–2 db |
 
-| 42. | Burgonya | főzelékhez: 100–150 g | főzelékhez: 130–180 g | főzelékhez: 150–200 g | főzelékhez: 180–230 g | főzelékhez: 200–250 g |
+| 42. | Burgonya | Főzelékhez: 100-150 g | főzelékhez: 110-180 g | főzelékhez: 150-200 g | főzelékhez: 150-230 g | főzelékhez: 180-250 g |
 
 | 43. | rakott ételhez, körethez: 100–150 g | rakott ételhez, körethez: 150–200 g | rakott ételhez, körethez: 180–230 g | rakott ételhez, körethez: 200–250 g | rakott ételhez, körethez: 250–300 g |
 
-| 44. | Zöldségek (friss, fagyasztott, konzerv) | nyersen salátákhoz: 40–80 g | nyersen salátákhoz: 60–90 g | nyersen salátákhoz: 70–100 g | nyersen salátákhoz: 80–110 g | nyersen salátákhoz: 100–150 g |
+| 44. | Zöldségek (friss, fagyasztott, konzerv) | nyersen saláták- hoz: 20-70 g | nyersen salátákhoz: 40-90 g | nyersen salátákhoz: 50-100 g | nyersen salátákhoz: 60-110 g | nyersen salátákhoz: 80-150 g |
 
-| 45. | nyersen hidegétkezéshez: 20–50 g | nyersen hidegétkezéshez: 30–70 g | nyersen hidegétkezéshez: 40–80 g | nyersen hidegétkezéshez: 50–90 g | nyersen hidegétkezéshez: 60–100 g |
+| 45. | nyersen hideg- étkezés- hez: 20-40 g | nyersen hidegétkezéshez: 20-50 g | nyersen hidegétkezéshez: 30- 80 g | nyersen hidegétkezéshez: 30-90 g | nyersen hidegétkezéshez: 40-100 g |
 
-| 46. | levesekhez: 30–60 g | levesekhez: 50–80 g | levesekhez: 60–90 g | levesekhez: 70–100 g | levesekhez: 80–120 g |
+| 46. | Levesek- hez: 30-60 g | levesekhez: 40-80 g | levesekhez: 50-90 g | levesekhez: 50-100 g | levesekhez: 70-120 g |
 
-| 47. | főzelékhez, körethez: 80–150 g | főzelékhez, körethez: 130–180 g | főzelékhez, körethez: 150–200 g | főzelékhez, körethez: 180–230 g | főzelékhez, körethez: 200–250 g |
+| 47. | Főzelék- hez, körethez: 60-150 g | főzelékhez, körethez: 110-180 g | főzelékhez, körethez: 130-200 g | főzelékhez, körethez: 130-230 g | főzelékhez, körethez: 160-250 g |
 
 | 48. | Gyümölcsök (friss, fagyasztott, befőtt, kompót) | 40–90 g | 60–110 g | 70–120 g | 70–150 g | 80–150 g |
 

@@ -28,7 +28,7 @@
 
 13. hozzáadott cukor: az élelmiszer jellegéből adódóan abban természetes formában előforduló cukrokon kívül az ételhez vagy élelmiszerhez hozzáadott cukrok, illetve méz;
 
-14.[^4] közétkeztetés: olyan rendszeres étkezést biztosító, szervezett közösségi ellátás, melyet nevelési-oktatási intézményekben, állami és önkormányzati finanszírozású nyári táborokban, fekvőbeteg-szakellátást nyújtó intézményekben, szociális ellátás, gyermekjóléti alapellátás és gyermekvédelmi szakellátás keretében ellátott, különböző korú és egészségi állapotú személyek részére, többnyire előre megrendelés alapján a nap egy meghatározott időszakában, meghatározott időtartamban nyújtanak;
+14.[^6] közétkeztetés: olyan rendszeres étkezést biztosító, szervezett közösségi ellátás, melyet nevelési-oktatási intézményekben, állami és önkormányzati finanszírozású nyári táborokban, fekvőbeteg-szakellátást nyújtó intézményekben, szociális ellátás, gyermekjóléti alapellátás és gyermekvédelmi szakellátás keretében ellátott, különböző korú és egészségi állapotú személyek részére, többnyire előre megrendelés alapján a nap egy meghatározott időszakában, meghatározott időtartamban nyújtanak;
 
 15. nyersanyag: az étel összetevője, olyan élelmiszer, amelynek az étel jellegéhez nem illő részeit konyhatechnológiai előkészítő műveletek alkalmazásával eltávolították, és fogyasztásra vagy ételkészítésre előkészítették;
 
@@ -40,9 +40,25 @@
 
 19. tálalókonyha: a vendéglátó-ipari termékek előállításának és forgalomba hozatalának élelmiszerbiztonsági feltételeiről szóló miniszteri rendeletben meghatározott fogalom;
 
-20.[^5] teljes kiőrlésű gabona alapú élelmiszer: olyan gabona alapú élelmiszer, amely a gabonaszem összes alkotórészét – beleértve a csírát és a korpát is – tartalmazó gabonamag és pszeudo gabonamag, valamint az ezek felhasználásával készült, ezen alkotórészeket legalább 50%-ban tartalmazó, a vonatkozó jogszabályi előírásoknak és a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet (a továbbiakban: Magyar Élelmiszerkönyv) előírásainak megfelelő élelmiszer;
+20.[^7] teljes kiőrlésű gabona alapú élelmiszer: olyan gabona alapú élelmiszer, amely a gabonaszem összes alkotórészét – beleértve a csírát és a korpát is – tartalmazó gabonamag és pszeudo gabonamag, valamint az ezek felhasználásával készült, ezen alkotórészeket legalább 50%-ban tartalmazó, a vonatkozó jogszabályi előírásoknak és a Magyar Élelmiszerkönyv kötelező előírásairól szóló 152/2009. (XI. 12.) FVM rendelet (a továbbiakban: Magyar Élelmiszerkönyv) előírásainak megfelelő élelmiszer;
 
-21. tíz élelmezési nap: tíz egymást követő, étkezést biztosító nap.
+21. tíz élelmezési nap: tíz egymást követő, étkezést biztosító nap;
+
+22.[^8] szakorvos:
+
+a) endokrinológia és anyagcsere-betegségek ráépített szakképesítéssel rendelkező szakorvos,
+
+b) gasztroenterológia alap szakképesítéssel rendelkező szakorvos,
+
+c) diabetológiai szakorvosi licenccel rendelkező szakorvos,
+
+d) allergológia és klinikai immunológia ráépített szakképesítéssel rendelkező szakorvos;
+
+23.[^9] tej: a Magyar Élelmiszerkönyv 13. melléklet A rész
+
+a) II. 5. a) pontja szerinti friss jelzővel használható fogyasztói tej,
+
+b) III. 9. pontja szerinti ultramagas hőmérsékleten végzett hőkezeléssel (UHT-kezelés) vagy nagyon magas hőmérsékleten végzett hőkezeléssel (ESL-kezelés) jelölt tej.
 
 (2) E rendelet alkalmazásában
 
@@ -54,5 +70,7 @@ b) kisétkezésnek minősül a tízórai és az uzsonna.
 
 (4) Ha a fekvőbeteg-gyógyintézeti étkeztetésre vonatkozóan e rendelet külön előírást nem tartalmaz, a fekvőbeteg-gyógyintézeti étkeztetés során az egész napos ellátásra vonatkozó előírásokat kell alkalmazni.
 
-[^4]: A 2. § (1) bekezdés 14. pontja az 54/2014. (XII. 29.) EMMI rendelet 1. § (1) bekezdése szerint módosított szöveg.
-[^5]: A 2. § (1) bekezdés 20. pontja az 54/2014. (XII. 29.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^6]: A 2. § (1) bekezdés 14. pontja az 54/2014. (XII. 29.) EMMI rendelet 1. § (1) bekezdése szerint módosított szöveg.
+[^7]: A 2. § (1) bekezdés 20. pontja az 54/2014. (XII. 29.) EMMI rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^8]: A 2. § (1) bekezdés 22. pontját a 36/2016. (XII. 8.) EMMI rendelet 2. §-a iktatta be.
+[^9]: A 2. § (1) bekezdés 23. pontját a 36/2016. (XII. 8.) EMMI rendelet 2. §-a iktatta be.

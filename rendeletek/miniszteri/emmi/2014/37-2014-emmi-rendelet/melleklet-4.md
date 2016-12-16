@@ -18,4 +18,6 @@
 
 | 7. | Napi egyszeri étkezés szolgáltatása |  | 450–600 | 600–750 | 700– 850 | 700–900 | 700–900 | 700– 850 |
 
-4. melléklet a 37/2014. (IV. 30.) EMMI rendelethez
+4. melléklet a 37/2014. (IV. 30.) EMMI rendelethez[^45]
+
+[^45]: A 4. melléklet a 36/2016. (XII. 8.) EMMI rendelet 13. § (3) bekezdése szerint módosított szöveg.

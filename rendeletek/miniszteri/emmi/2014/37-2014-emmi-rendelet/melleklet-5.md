@@ -20,7 +20,7 @@
 
 | 8. | Zöldség köretek (dkg) | 8–15 | 13–18 | 15–20 | 18–23 | 20–25 |
 
-| 9. | Főzelékek (dl) | 1,5–2 | 2–2,5 | 2–2,5 | 2,5–3 | 3–4 |
+| 9. | Főzelékek (dl) | 1,5-2 | 1,5-2,5 | 2-2,5 | 2,5-3 | 3-4 |
 
 | 10. | Hal (g) | 30–45 | 40–55 | 55–70 | 65–80 | 70–85 |
 
@@ -28,7 +28,7 @@
 
 | 12. | Ragu, tokány, pörkölt hús (g) | 20–35 | 30–45 | 40–55 | 50–65 | 56–70 |
 
-| 13. | Levesek (dl) | 1,5–2 | 2–2,5 | 2,5–3 | 2,5–3,5 | 2,5–4 |
+| 13. | Levesek (dl) | 1,5-2 | 1,5-2,5 | 2,5-3 | 2,5-3,5 | 2,5-4 |
 
 | 14. | Burgonya (dkg) | 10–15 | 15–20 | 18–23 | 20–25 | 25–30 |
 
@@ -38,4 +38,6 @@
 
 | 17. | Tej/ízesített tejkészítmény /tea (dl) | 1–2 | 1–2 | 2–2,5 | 2–2,5 | 2–3 |
 
-5. melléklet a 37/2014. (IV. 30.) EMMI rendelethez
+5. melléklet a 37/2014. (IV. 30.) EMMI rendelethez[^46]
+
+[^46]: Az 5. melléklet a 36/2016. (XII. 8.) EMMI rendelet 13. § (4) bekezdése szerint módosított szöveg.

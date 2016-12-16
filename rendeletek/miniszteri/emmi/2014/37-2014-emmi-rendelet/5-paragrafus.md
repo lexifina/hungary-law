@@ -8,13 +8,21 @@ a) egész napos ellátás esetén a korcsoportonkénti előírt energiaszükség
 
 b) bölcsődei étkeztetés esetén az előírt napi energiaszükséglet 75%-át napi két fő- és két kisétkezéssel,
 
-c)[^6] napi háromszori étkezés szolgáltatása esetén az előírt napi energiaszükséglet 65%-át egy fő- és két kisétkezéssel,
+c)[^11] napi háromszori étkezés szolgáltatása esetén az előírt napi energiaszükséglet 65%-át egy fő- és két kisétkezéssel,
 
 d) napi egyszeri étkezés szolgáltatása esetén az előírt napi energiaszükséglet 35%-át egy ebéddel
 
 ## biztosítani.
 
-(3) Fekvőbeteg-gyógyintézeti étkeztetés esetén a korcsoportonkénti előírt napi energiaszükséglet 100%-a biztosítandó az Szmfr. 4. § (1) bekezdés f) pontjában foglaltak alkalmazásával.
+(2a)[^12] A napi energia- és tápanyag-beviteli értékek teljesítendő aránya a (2) bekezdésben foglalt eseteken kívül:
+
+a) csak reggeli esetén 20%,
+
+b) tízórai és ebéd esetén 50%,
+
+c) csak vacsora esetén 25%.
+
+(3)[^13] Fekvőbeteg-gyógyintézeti étkeztetés esetén a korcsoportonkénti előírt napi energiaszükséglet 100%-a biztosítandó az Szmfr. 4. § (1) bekezdés f) pontjában foglaltak alkalmazásával, az előírt diéta energiatartalmát figyelembe véve.
 
 (4) A 3. mellékletben előírt energiaszükségleti értékek betartása érdekében a Közétkeztető
 
@@ -22,4 +30,6 @@ a) az általa nyújtott közétkeztetési szolgáltatást igénybe vevő valamen
 
 b) az ételek korcsoportok szerinti adagolását a 4. mellékletben foglalt adagolási útmutató alapján végzi.
 
-[^6]: Az 5. § (2) bekezdés c) pontja a 43/2014. (VIII. 19.) EMMI rendelet 10. § a) pontja szerint módosított szöveg.
+[^11]: Az 5. § (2) bekezdés c) pontja a 43/2014. (VIII. 19.) EMMI rendelet 10. § a) pontja szerint módosított szöveg.
+[^12]: Az 5. § (2a) bekezdését a 36/2016. (XII. 8.) EMMI rendelet 4. § (1) bekezdése iktatta be.
+[^13]: Az 5. § (3) bekezdése a 36/2016. (XII. 8.) EMMI rendelet 4. § (2) bekezdésével megállapított szöveg.
