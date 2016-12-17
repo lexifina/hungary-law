@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-329-20-
 | 2016-07-17 | 2007-329-20-22.34 | 186/2016. (VII. 13.) korm. rendelet |
 | 2016-09-01 | 2007-329-20-22.35 | 227/2016. (VII. 29.) Korm. rendelet |
 | 2016-09-30 | 2007-329-20-22.36 | 275/2016. (IX. 15.) Korm. rendelet |
+| 2016-12-17 | 2007-329-20-22.37 | 102/2012. (V. 18.) Korm. rendelet |

@@ -2,7 +2,7 @@
 
 a) részt vesz az előre nem tervezhető, halaszthatatlan beavatkozást és csapaterőt igénylő feladatok végrehajtásában,
 
-b)[^53] részt vesz a védett személyekkel kapcsolatos biztosítási feladatok végrehajtásában, valamint – a legfőbb ügyész és a miniszterelnök védelmével összefüggő feladatok kivételével – ellátja a védett személyek és a kijelölt létesítmények védelméről szóló kormányrendeletben meghatározott feladatait, ennek keretében
+b)[^53] részt vesz a védett személyekkel kapcsolatos biztosítási feladatok végrehajtásában, valamint ellátja – a Honvéd Vezérkar főnöke kivételével – a Honvédelmi Tanács állandó személyvédelemben nem részesülő tagjainak védelmét, továbbá – a legfőbb ügyész és a miniszterelnök védelmével összefüggő feladatok kivételével – ellátja a védett személyek és a kijelölt létesítmények védelméről szóló kormányrendeletben meghatározott feladatait, ennek keretében
 
 ba) végzi a Magyarország érdekei szempontjából jelentős – védett személyek részvételével megtartott – rendezvények biztosításához kapcsolódó rendőrségi feladatok előkészítését,
 
@@ -53,7 +53,7 @@ u)[^63] ellátja a büntetőeljárásról szóló törvényben meghatározott va
 v)[^64] a p)–r) pontban meghatározott feladataival kapcsolatban végrehajtja a körözési eljárással összefüggő feladatokat, illetve a jogszabályban meghatározottak szerint körözési tevékenységet végez.
 
 [^52]: A 9. § nyitó szövegrésze a 227/2012. (VIII. 23.) Korm. rendelet 4. §-a, a 352/2014. (XII. 29.) Korm. rendelet 2. § (5) bekezdés a) pontja szerint módosított szöveg.
-[^53]: A 9. § b) pontja a 102/2012. (V. 18.) Korm. rendelet 15. § (1) bekezdésével megállapított, a 83/2015. (III. 31.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^53]: A 9. § b) pontja a 102/2012. (V. 18.) Korm. rendelet 15. § (1) bekezdésével megállapított, nyitó szövegrésze a 83/2015. (III. 31.) Korm. rendelet 3. §-a, a 441/2016. (XII. 16.) Korm. rendelet 18. §-a szerint módosított szöveg.
 [^54]: A 9. § f) pontja a 102/2012. (V. 18.) Korm. rendelet 15. § (2) bekezdésével megállapított szöveg.
 [^55]: A 9. § h) pontját a 232/2010. (VIII. 19.) Korm. rendelet 17. § b) pontja hatályon kívül helyezte, újonnan a 102/2012. (V. 18.) Korm. rendelet 16. §-a iktatta be.
 [^56]: A 9. § m) pontja a 361/2010. (XII. 30.) Korm. rendelet 18. § (5) bekezdés a) pontja szerint módosított szöveg.
