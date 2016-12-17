@@ -6,7 +6,7 @@ a) együttműködő hatóságok: a polgári légiközlekedés védelmének szab�
 
 b) kötelezett: a légiközlekedésről szóló 1995. évi XCVII. törvény 67. § (2) bekezdésében meghatározott, a légiközlekedés védelmi ellenőrzés végrehajtására kötelezett szervezet,
 
-c) légiközlekedés védelmével kapcsolatos feladat: a védelmi ellenőrzés és a nyilvános repülőtér üzemben tartója által létrehozott biztonsági szolgálatnak a 185/2010/EU bizottsági rendelet Mellékletének 1.5. pontjában meghatározott tevékenysége,
+c)[^1] légiközlekedés védelmével kapcsolatos feladat: a védelmi ellenőrzés és a nyilvános repülőtér üzemben tartója által létrehozott biztonsági szolgálatnak a 2015/1998/EU bizottsági végrehajtási rendelet (a továbbiakban: közös légiközlekedési EU rendelet) Melléklet 1.5. pontjában meghatározott tevékenysége,
 
 d) technológiai utasítás: a kötelezett által a rendőrség jóváhagyásával kiadott szabályokat rögzítő dokumentum, amely a védelmi ellenőrzés egyes munkafolyamatai végrehajtásának eljárási rendjét tartalmazza,
 
@@ -15,3 +15,5 @@ e) védelmi alvállalkozó: olyan gazdálkodó szervezet, amely a védelmi ellen
 f) védelmi ellenőrzés: a Korm. rendelet 2. § 4. pontjában meghatározott tevékenység,
 
 g) védelmi ellenőrzés felügyelete: a Korm. rendelet 14. § 12. pontjában meghatározott tevékenység.
+
+[^1]: Az 1. § c) pontja a 441/2016. (XII. 16.) Korm. rendelet 53. §-ával megállapított szöveg.

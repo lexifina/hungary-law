@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-302-20-
 | --- | --- | --- |
 | 2015-01-04 | 2014-302-20-22.1 | 302/2014. (XII. 5.) Korm. rendelet |
 | 2015-01-05 | 2014-302-20-22.2 | 2010: CXXX. törvény |
+| 2016-12-17 | 2014-302-20-22.3 | 441/2016. (XII. 16.) Korm. rendelet |
