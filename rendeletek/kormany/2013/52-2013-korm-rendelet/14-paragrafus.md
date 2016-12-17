@@ -2,6 +2,6 @@
 
 14. § (1) Ez a rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)–(3)[^5]
+(2)–(3)[^7]
 
-[^5]: A 14. § (2)–(3) bekezdését a 220/2014. (VIII. 29.) Korm. rendelet 31. §-a hatályon kívül helyezte.
+[^7]: A 14. § (2)–(3) bekezdését a 220/2014. (VIII. 29.) Korm. rendelet 31. §-a hatályon kívül helyezte.
