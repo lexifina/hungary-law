@@ -4,7 +4,7 @@
 
 27. § (1) Az e rendelet hatálya alá tartozó közlekedési építmény megszüntetése iránti kérelmet a megszüntetés tervezett időpontja előtt legkésőbb 60 nappal kell a közlekedési hatósághoz benyújtani. A kérelemhez mellékelni kell:
 
-a)[^5] a bontási tervet három példányban; továbbá a szakhatósági állásfoglalást vagy a szakkérdés vizsgálatát igénylő esetekben a szakhatósági megkeresésekhez, a szakkérdés vizsgálatához szükséges tartalommal és részletességgel összeállított tervdokumentációt egy-egy példányban,
+a)[^6] a bontási tervet három példányban; továbbá a szakhatósági állásfoglalást vagy a szakkérdés vizsgálatát igénylő esetekben a szakhatósági megkeresésekhez, a szakkérdés vizsgálatához szükséges tartalommal és részletességgel összeállított tervdokumentációt egy-egy példányban,
 
 b) a tervező nyilatkozatát arról, hogy a tervezett műszaki megoldás megfelel a jogszabályoknak, műszaki előírásoknak és az általános érvényű szakmai követelményeknek,
 
@@ -34,4 +34,4 @@ f) az építtető kötelezését arra, hogy a kivitelezés megkezdésének időp
 
 (6) Az út megszüntetéséről szóló határozat időbeli hatályára a 15. §-ban foglaltak az irányadóak.
 
-[^5]: A 27. § (1) bekezdés a) pontja a 70/2015. (III. 30.) 200. § (3) bekezdésével megállapított szöveg.
+[^6]: A 27. § (1) bekezdés a) pontja a 70/2015. (III. 30.) 200. § (3) bekezdésével megállapított szöveg.

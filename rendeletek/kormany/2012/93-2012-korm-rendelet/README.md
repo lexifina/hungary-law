@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-93-20-2
 | 2015-03-05 | 2012-93-20-22.5 | 439/2013. (XI. 20.) Korm. rendelet |
 | 2015-04-01 | 2012-93-20-22.6 | 439/2013. (XI. 20.) Korm. rendelet |
 | 2015-07-03 | 2012-93-20-22.7 | 171/2015. (VI. 30.) Korm. rendelet |
+| 2016-12-17 | 2012-93-20-22.8 | 337/2016. (XI. 17.) Korm. rendelet |
