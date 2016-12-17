@@ -2,7 +2,7 @@
 
 ## 2. § E rendelet alkalmazásában
 
-1.[^1] elektromos sokkoló: olyan hordozható elektromos eszköz, amely kis áramerősség mellett legfeljebb 10 000 V elektromos feszültség előállítása és közvetítése útján védekezésre képtelen állapot előidézésére alkalmas, nem kizárólagosan, de beleértve az elektromos sokkoló botot, elektromos sokkoló pajzsot, bénító lövedéket kilövő pisztolyt és elektromos sokkoló lövedéket kilövő fegyvert;
+1.[^1] elektromos sokkoló: olyan hordozható elektromos eszköz, amely kis áramerősség mellett elektromos feszültség előállítása és közvetítése útján védekezésre képtelen állapot előidézésére alkalmas, nem kizárólagosan, de beleértve az elektromos sokkoló botot, elektromos sokkoló pajzsot, bénító lövedéket kilövő pisztolyt és elektromos sokkoló lövedéket kilövő fegyvert;
 
 2.[^2] forgalmazás: a közbiztonságra veszélyes eszköz továbbadására irányuló tevékenység, ideértve a kereskedelmi tevékenységet is;
 
@@ -14,7 +14,7 @@
 
 6.[^6] nyilvános hely: a közterületnek nem tekinthető, mindenki számára nyitva álló hely.
 
-[^1]: A 2. § új 1. pontját a 25/2007. (II. 28.) Korm. rendelet 1. §-a iktatta be, egyidejűleg az eredeti 1–5. pont számozását 2–6. pontra változtatva.
+[^1]: A 2. § új 1. pontját a 25/2007. (II. 28.) Korm. rendelet 1. §-a iktatta be, egyidejűleg az eredeti 1–5. pont számozását 2–6. pontra változtatva. A 2. § 1. pontja a 441/2016. (XII. 16.) Korm. rendelet 8. § (2) bekezdése szerint módosított szöveg.
 [^2]: A 2. § eredeti 1. pontjának számozását a 25/2007. (II. 28.) Korm. rendelet 1. §-a 2. pontra változtatta.
 [^3]: A 2. § eredeti 2. pontjának számozását a 25/2007. (II. 28.) Korm. rendelet 1. §-a 3. pontra változtatta.
 [^4]: A 2. § eredeti 3. pontjának számozását a 25/2007. (II. 28.) Korm. rendelet 1. §-a 4. pontra változtatta.
