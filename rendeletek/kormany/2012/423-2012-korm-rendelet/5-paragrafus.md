@@ -30,18 +30,19 @@ l) a képzésen belül, amennyiben van összefüggő szakmai gyakorlat, annak id
 
 m) a képzésen belül az intézmények által indítani tervezett specializációkat.
 
-(3) A felvételi hirdetmény az intézmény döntése alapján a meghirdetett képzéseket intézményenkénti vagy a képzésért felelős karok szerinti bontásban tartalmazza. A több karú intézmények esetén a tanárképzés – összetettségére tekintettel – intézményenként külön egységként is hirdethető.
+(3)[^10] A felvételi hirdetmény az intézmény döntése alapján a meghirdetett képzéseket intézményenkénti vagy karok szerinti bontásban tartalmazza. A több karú intézmények esetén a tanárképzés – összetettségére tekintettel – intézményenként külön egységként is hirdethető.
 
 (4) A felvételi követelmények sajátosságaira tekintettel az egyes meghirdetett képzések felvételi követelményeinek tartalmi ismertetése a felvételi eljárás általános szabályaitól és a jelentkezésre vonatkozó információktól elválasztva – erre történő külön utalás mellett – más kiadványban is megjelentethető.
 
-(5)[^10] A Tájékoztató tartalmazza az elektronikus jelentkezés benyújtásával kapcsolatos adatokat, valamint a Hivatal azon postai címét, ahova a 9. § (1) bekezdés a) pontja szerinti jelentkezési kérelmet be kell küldeni.
+(5)[^11] A Tájékoztató tartalmazza az elektronikus jelentkezés benyújtásával kapcsolatos adatokat, valamint a Hivatal azon postai címét, ahova a 9. § (1) bekezdés a) pontja szerinti jelentkezési kérelmet be kell küldeni.
 
-(6)[^11] Az (1) bekezdés szerinti hallgatói kapacitás összlétszáma nem haladhatja meg a működési engedélyben szereplő maximális hallgatói létszámnak az intézménnyel – a szeptemberben induló képzések esetén legkésőbb szeptemberig, a februárban induló képzések esetében legkésőbb februárig – hallgatói jogviszonyban álló személyek várható számával csökkentett számát.
+(6)[^12] Az (1) bekezdés szerinti hallgatói kapacitás összlétszáma nem haladhatja meg a működési engedélyben szereplő maximális hallgatói létszámnak az intézménnyel – a szeptemberben induló képzések esetén legkésőbb szeptemberig, a februárban induló képzések esetében legkésőbb februárig – hallgatói jogviszonyban álló személyek várható számával csökkentett számát.
 
 (7) A fizetési kötelezettségeket és a lehetséges juttatásokat Magyarország törvényes fizetőeszközében kell közölni.
 
 [^7]: Az 5. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 34. § (1) bekezdésével megállapított, a 169/2016. (VII. 1.) Korm. rendelet 22. § a) pontja szerint módosított szöveg. [Az 59/2016. (III. 25.) Korm. rendelet 10. § a) pontjával elrendelt módosítás, amely szerint a „megelőző év november 15-ig” szövegrész helyébe a „megelőző év november 30-ig” szöveg lép, nem vezethető át.]
 [^8]: Az 5. § (2) bekezdés c) pontja a 345/2015. (XI. 19.) Korm. rendelet 34. § (2) bekezdésével megállapított szöveg.
 [^9]: Az 5. § (2) bekezdés h) pontja az 502/2013. (XII. 29.) Korm. rendelet 24. § b) pontja, a 345/2015. (XI. 19.) Korm. rendelet 46. § 4. pontja szerint módosított szöveg.
-[^10]: Az 5. § (5) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^11]: Az 5. § (6) bekezdése a 47/2013. (II. 20.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: Az 5. § (3) bekezdése a 442/2016. (XII. 16.) Korm. rendelet 30. §-a szerint módosított szöveg.
+[^11]: Az 5. § (5) bekezdése a 335/2014. (XII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^12]: Az 5. § (6) bekezdése a 47/2013. (II. 20.) Korm. rendelet 1. §-ával megállapított szöveg.

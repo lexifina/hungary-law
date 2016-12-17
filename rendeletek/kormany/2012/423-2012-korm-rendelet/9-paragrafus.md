@@ -1,6 +1,6 @@
 ## 5. A felvételi jelentkezési kérelem
 
-9. § (1)[^29] A jelentkezési kérelmet a Hivatalhoz a Hivatal által e célra biztosított informatikai rendszer segítségével kitöltött elektronikus nyomtatványon
+9. § (1)[^31] A jelentkezési kérelmet a Hivatalhoz a Hivatal által e célra biztosított informatikai rendszer segítségével kitöltött elektronikus nyomtatványon
 
 a) kinyomtatva, aláírva, postai úton könyvelt küldeményként beküldve, vagy
 
@@ -8,13 +8,13 @@ b) ügyfélkapun keresztül történő hitelesítéssel
 
 lehet benyújtani.
 
-(2)[^30] A jelentkezési kérelemnek tartalmaznia kell – az Nftv. 3. melléklet II/D. alcímének megfelelően – a jelentkező személyes adatai közül
+(2)[^32] A jelentkezési kérelemnek tartalmaznia kell – az Nftv. 3. melléklet II/D. alcímének megfelelően – a jelentkező személyes adatai közül
 
-a) a nevét,
+a)[^33] a családi és utónevét,
 
-b) a születési nevét,
+b)[^34] a születési családi és utónevét,
 
-c) az anyja születési nevét,
+c)[^35] az anyja születési családi és utónevét,
 
 d) a születési helyét (ország, település),
 
@@ -24,22 +24,25 @@ f) az állampolgárságát,
 
 g) a nemét,
 
-h)[^31] az elérhetőségeit [lakóhelye és tartózkodási helye (értesítési) címe, valamint elektronikus levelezési címe],
+h)[^36] az elérhetőségeit [lakóhelye és tartózkodási helye (értesítési) címe, valamint elektronikus levelezési címe],
 
 i) az oktatási azonosító számát, amennyiben 2005-ben vagy azt követően magyar rendszerű középiskolában érettségizett.
 
-(3)[^32] A jelentkezési kérelemnek tartalmaznia kell továbbá legalább egy jelentkezési hely megjelölését a 10. § (2) bekezdés a) pontja szerint, valamint a kiegészítő díj befizetésének igazolását az átutalás igazolásának a másolatával.
+(3)[^37] A jelentkezési kérelemnek tartalmaznia kell továbbá legalább egy jelentkezési hely megjelölését a 10. § (2) bekezdés a) pontja szerint, valamint a kiegészítő díj befizetésének igazolását az átutalás igazolásának a másolatával.
 
-(4)[^33] A jelentkező a jelentkezési kérelem benyújtásakor rendelkezésére álló (korábban kézhez kapott) – a jelentkezési kérelem elbírálásához benyújtandó – dokumentumokat mellékelni köteles.
+(4)[^38] A jelentkező a jelentkezési kérelem benyújtásakor rendelkezésére álló (korábban kézhez kapott) – a jelentkezési kérelem elbírálásához benyújtandó – dokumentumokat mellékelni köteles.
 
-(5)[^34] A külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzések esetében a jelentkezési kérelmet a felsőoktatási intézménynek kell megküldeni, amelyik gondoskodik a felvételi eljárás lebonyolításáról, továbbá a jelentkezők adatairól és a felvételi eredményekről a képzés indításáig, legkésőbb október 15-éig tájékoztatja a Hivatalt.
+(5)[^39] A külföldi állampolgárok számára hirdetett, idegen nyelven folyó képzések esetében a jelentkezési kérelmet a felsőoktatási intézménynek kell megküldeni, amelyik gondoskodik a felvételi eljárás lebonyolításáról, továbbá a jelentkezők adatairól és a felvételi eredményekről a képzés indításáig, legkésőbb október 15-éig tájékoztatja a Hivatalt.
 
-(6)[^35]
+(6)[^40]
 
-[^29]: A 9. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
-[^30]: A 9. § (2) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 5. §-val megállapított szöveg.
-[^31]: A 9. § (2) bekezdés h) pontja a 335/2014. (XII. 18.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^32]: A 9. § (3) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
-[^33]: A 9. § (4) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 5. §-val megállapított szöveg.
-[^34]: A 9. § (5) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
-[^35]: A 9. § (6) bekezdését a 335/2014. (XII. 18.) Korm. rendelet 18. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^31]: A 9. § (1) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 35. § (1) bekezdésével megállapított szöveg.
+[^32]: A 9. § (2) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 5. §-val megállapított szöveg.
+[^33]: A 9. § (2) bekezdés a) pontja a 442/2016. (XII. 16.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^34]: A 9. § (2) bekezdés b) pontja a 442/2016. (XII. 16.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^35]: A 9. § (2) bekezdés c) pontja a 442/2016. (XII. 16.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^36]: A 9. § (2) bekezdés h) pontja a 335/2014. (XII. 18.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^37]: A 9. § (3) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 35. § (2) bekezdésével megállapított szöveg.
+[^38]: A 9. § (4) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 5. §-val megállapított szöveg.
+[^39]: A 9. § (5) bekezdése az 502/2013. (XII. 29.) Korm. rendelet 24. § c) pontja szerint módosított szöveg.
+[^40]: A 9. § (6) bekezdését a 335/2014. (XII. 18.) Korm. rendelet 18. § (1) bekezdés b) pontja hatályon kívül helyezte.

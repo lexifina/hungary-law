@@ -2,7 +2,7 @@
 
 14. § (1) Felsőoktatási szakképzésre történő jelentkezés esetén a 15–24. §-ban foglalt rendelkezéseket e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2)[^54] A felsőoktatási szakképzésre történő jelentkezés esetén a jelentkező teljesítményét az alábbiak szerint kiszámított felvételi pontszámmal kell értékelni:
+(2)[^60] A felsőoktatási szakképzésre történő jelentkezés esetén a jelentkező teljesítményét az alábbiak szerint kiszámított felvételi pontszámmal kell értékelni:
 
 a) a középiskolai teljesítmény alapján kapott pontok (a továbbiakban: tanulmányi pontok) kétszerezésével,
 
@@ -16,7 +16,7 @@ mindhárom esetben az esetleg szerzett emelt szintű érettségi eredményért v
 
 (4) A felsőoktatási szakképzésre jelentkezők érettségi pontját – ha a felsőoktatási intézmény a 6. § (1) bekezdése alapján másként nem rendelkezik – az érettségi bizonyítványában, illetve a tanúsítványaiban szereplő érettségi vizsgatárgyak közül a két legjobbnak a százalékos eredménye alapján kell megállapítani.
 
-(5)[^55] Felsőoktatási szakképzésre csak az a jelentkező vehető fel, akinek az érettségi többletpontokkal együtt, de a más jogcímen adható többletpontok nélkül számított pontszáma eléri, vagy meghaladja a 240 pontot.
+(5)[^61] Felsőoktatási szakképzésre csak az a jelentkező vehető fel, akinek az érettségi többletpontokkal együtt, de a más jogcímen adható többletpontok nélkül számított pontszáma eléri, vagy meghaladja a 240 pontot.
 
-[^54]: A 14. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 40. §-ával megállapított, záró szövegrésze az 59/2016. (III. 25.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
-[^55]: A 14. § (5) bekezdése a 47/2013. (II. 20.) Korm. rendelet 3. §-ával megállapított, a 47. § (5) bekezdése szerint módosított szöveg.
+[^60]: A 14. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 40. §-ával megállapított, záró szövegrésze az 59/2016. (III. 25.) Korm. rendelet 10. § c) pontja szerint módosított szöveg.
+[^61]: A 14. § (5) bekezdése a 47/2013. (II. 20.) Korm. rendelet 3. §-ával megállapított, a 47. § (5) bekezdése szerint módosított szöveg.

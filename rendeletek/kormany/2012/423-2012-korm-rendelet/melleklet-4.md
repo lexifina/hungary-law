@@ -1,4 +1,6 @@
-4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^157]
+## Megjegyzés: A táblázatban „(2017K)” jelzéssel ellátott szakok, szakirányok utoljára a 2017. évi keresztféléves felsőoktatási felvételi eljárásban hirdethetők meg.
+
+4. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^168]
 
 Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámítás szempontjából
 
@@ -32,7 +34,7 @@ Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámít
 
 | 14. | közlekedés | műszaki |
 
-| 15. | környezetvédelem-vízgazdálkodás | agrár gazdaságtudományok műszaki |
+| 15. | környezetvédelem-vízgazdálkodás környezetvédelem | agrár gazdaságtudományok műszaki |
 
 | 16. | közgazdaság | gazdaságtudományok |
 
@@ -48,10 +50,12 @@ Szakiránynak megfelelő továbbtanulás meghatározása felvételi pontszámít
 
 | 22. | élelmiszeripar | agrár |
 
-| 23. | közszolgálat; egyéb szolgáltatások [az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet hatálybalépése előtti OKJ-rendeletek egyéb szolgáltatások szakmacsoportja szerinti honvéd, rendészeti és privátbiztonsági (pl. személy- és vagyonőr, biztonsági őr) szakképesítések, amelyeket az Oktatási Hivatal a felsőoktatási felvételi eljárás hivatalos honlapján közzétesz] rendészeti asszisztens; társadalombiztosítási és bérügyi szakelőadó szakképesítés | jogi államtudományi |
+| 23. | közszolgálat; egyéb szolgáltatások [az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet hatálybalépése előtti OKJ-rendeletek egyéb szolgáltatások szakmacsoportja szerinti honvéd, rendészeti és privátbiztonsági (pl. személy- és vagyonőr, biztonsági őr) szakképesítések, amelyeket az Oktatási Hivatal a felsőoktatási felvételi eljárás hivatalos honlapján közzétesz] rendészeti asszisztens; társadalombiztosítási és bérügyi szakelőadó szakképesítés rendészet, honvédelem és közszolgálat | jogi államtudományi |
 
 | 24. | sportkommunikátor; fitness-wellness instruktor; sportedző; személyi edző, rekreációs mozgásprogram-vezető | sporttudomány |
 
-| 25. | osztatlan tanári mesterképzési szak: a tanári szakképzettségnek megfelelő alapképzési szak képzési területe az irányadó a szakirányú továbbtanulás meghatározása szempontjából (szakképzettség-páron is csak egyszer kapható többletpont) |
+| 25. | vízügy | agrár gazdaságtudományok műszaki |
 
-[^157]: A 4. mellékletet a 47/2013. (II. 20.) Korm. rendelet 10. §-a iktatta be, szövege a 345/2015. (XI. 19.) Korm. rendelet 45. § (4) bekezdésével megállapított, a 169/2016. (VII. 1.) Korm. rendelet 20. § (2) bekezdése szerint módosított szöveg.
+| 26. | osztatlan tanári mesterképzési szak: a tanári szakképzettségnek megfelelő alapképzési szak képzési területe az irányadó a szakirányú továbbtanulás meghatározása szempontjából (szakképzettségpáron is csak egyszer kapható többletpont) |  |
+
+[^168]: A 4. mellékletet a 47/2013. (II. 20.) Korm. rendelet 10. §-a iktatta be, szövege a 345/2015. (XI. 19.) Korm. rendelet 45. § (4) bekezdésével megállapított, a 169/2016. (VII. 1.) Korm. rendelet 20. § (2) bekezdése, a 442/2016. (XII. 16.) Korm. rendelet 28. § (4) bekezdése szerint módosított szöveg.

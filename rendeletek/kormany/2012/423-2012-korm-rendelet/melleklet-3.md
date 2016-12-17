@@ -1,129 +1,129 @@
-3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^156]
+3. melléklet a 423/2012. (XII. 29.) Korm. rendelethez[^167]
 
-A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű érettségi vizsgák jegyzéke szakonként, képzési területenként
+A felsőoktatási jelentkezés feltételeként meghatározott emelt szintű érettségi vizsgák jegyzéke szakonként, képzési területenként a 2017. évi felsőoktatási felvételi eljárásokban
 
 1. Agrár képzési terület
 
-|  |  | A | B | C |
+|  | A | B | C |
 
-|  | Alapképzési szakok | Osztatlan mester-képzési szakok | Emelt szintű érettségi követelmény |
+| 1. | Alapképzési szakok | Osztatlan szakok | Emelt szintű érettségi követelmény |
 
-|  | 1. |  | állatorvosi | Emelt szinten kell teljesíteni: biológia és kémia |
+| 2. |  | állatorvosi | Emelt szinten kell teljesíteni: biológia és kémia. |
 
-|  | 2. |  | erdőmérnöki | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: biológia, fizika, kémia, matematika, szakmai előkészítő tárgy. |
+| 3. |  | erdőmérnöki | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: biológia, fizika, kémia, matematika, egy szakmai előkészítő tárgy, egy ágazati szakmai érettségi vizsgatárgy. |
 
 2. Bölcsészettudomány képzési terület
 
-|  |  | A | B | C |
+|  | A | B | C |
 
-|  | Alapképzési szakok | Osztatlan mester-képzési szakok | Emelt szintű érettségi követelmény |
+| 1. | Alapképzési szakok | Osztatlan szakok | Emelt szintű érettségi követelmény |
 
-|  | 1. | magyar |  | Emelt szinten kell teljesíteni: magyar nyelv és irodalom. |
+| 2. | andragógia (2017K) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, biológia, francia nyelv, magyar nyelv és irodalom, matematika, német nyelv, orosz nyelv, történelem. |
 
-|  | 2. | történelem (önálló szakképzettséget eredményező szakirányok: történelem, régészet) |  | Emelt szinten kell teljesíteni: történelem. |
+| 3. | anglisztika |  | Emelt szinten kell teljesíteni: angol nyelv. |
 
-|  | 3. | néprajz |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem. |
+| 4. | germanisztika (önálló szakképzettséget eredményező szakirányok: német, német nemzetiségi, néderlandisztika, skandinavisztika) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: német nyelv, német nemzetiségi nyelv, német nemzetiségi nyelv és irodalom, angol nyelv (csak a néderlandisztika és a skandinavisztika szakirányra történő jelentkezés esetén választható). |
 
-|  | 4. | anglisztika (önálló szakképzettséget eredményező szakirányok: angol, amerikanisztika) |  | Emelt szinten kell teljesíteni: angol nyelv. |
+| 5. | keleti nyelvek és kultúrák (önálló szakképzettséget eredményező szakirányok: altajisztika, arab, hebraisztika, indológia, iranisztika, japán, kínai, koreai, mongol, tibeti, török, újgörög) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, arab nyelv, angol nyelv, francia nyelv, héber nyelv, japán nyelv, kínai nyelv, latin nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, újgörög nyelv. |
 
-|  | 5. | germanisztika (önálló szakképzettséget eredményező szakirányok: német, német nemzetiségi, néderlandisztika, skandinavisztika) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: német nyelv, német nemzetiségi nyelv, német nemzetiségi nyelv és irodalom, angol nyelv (csak a néderlandisztika és a skandinavisztika szakirányra történő jelentkezés esetén választható). |
+| 6. | magyar |  | Emelt szinten kell teljesíteni: magyar nyelv és irodalom. |
 
-|  | 6. | romanisztika (önálló szakképzettséget eredményező szakirányok: francia, olasz, portugál, román, román nemzetiségi, spanyol) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: a szakiránynak megfelelően: francia nyelv, olasz nyelv, spanyol nyelv, román nyelv, román nyelv és irodalom; a portugál szakirányon a felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, latin nyelv, magyar nyelv és irodalom, német nyelv, olasz nyelv, portugál nyelv, román nyelv, román nyelv és irodalom, spanyol nyelv, történelem. |
+| 7. | közösségszervezés (önálló szakképzettséget eredményező szakirányok: ifjúsági közösségszervezés, kulturális közösségszervezés, humánfejlesztő) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, biológia, francia nyelv, magyar nyelv és irodalom, matematika, német nyelv, orosz nyelv, társadalomismeret, történelem. |
 
-|  | 7. | romológia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, beás nyelv, magyar nyelv és irodalom, történelem, francia nyelv, latin nyelv, lovári nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv. |
+| 8. | néprajz |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem. |
 
-|  | 8. | szlavisztika (önálló szakképzettséget eredményező szakirányok: orosz, bolgár, cseh, lengyel, horvát/nemzetiségi, szerb/nemzetiségi, szlovák/nemzetiségi, szlovén/nemzetiségi, ukrán/nemzetiségi) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, francia nyelv, horvát nyelv, horvát nyelv és irodalom, latin nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, szerb nyelv, szerb nyelv és irodalom, szlovák nyelv, szlovák nyelv és irodalom, szlovén nemzetiségi nyelv, román nyelv, román nyelv és irodalom. |
+| 9. | ókori nyelvek és kultúrák (önálló szakképzettséget eredményező szakirányok: asszirológia, egyiptológia, klasszika-filológia) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, arab nyelv, francia nyelv, japán nyelv, latin nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, újgörög nyelv. |
 
-|  | 9. | ókori nyelvek és kultúrák (önálló szakképzettséget eredményező szakirányok: klasszika-filológia, asszíriológia, egyiptológia) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, francia nyelv, latin nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, újgörög nyelv, arab nyelv, japán nyelv. |
+| 10. | pedagógia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, biológia, fizika, földrajz, kémia, természettudomány, francia nyelv, magyar nyelv és irodalom, matematika, német nyelv, orosz nyelv, olasz nyelv, spanyol nyelv, bármely nemzetiségi nyelv (és irodalom), történelem. |
 
-|  | 10. | keleti nyelvek és kultúrák (önálló szakképzettséget eredményező szakirányok: altajisztika, arab, indológia, iranisztika, tibeti, mongol, hebraisztika, japán, kínai, koreai, török, újgörög) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, francia nyelv, latin nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, újgörög nyelv, arab nyelv, héber nyelv, japán nyelv, kínai nyelv. |
+| 11. | pszichológia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, biológia, francia nyelv, magyar nyelv és irodalom, matematika, német nyelv, orosz nyelv, történelem. |
 
-|  | 11. | andragógia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, biológia, francia nyelv, magyar nyelv és irodalom, matematika, német nyelv, orosz nyelv, történelem. |
+| 12. | régészet |  | Emelt szinten kell teljesíteni: történelem. |
 
-|  | 12. | pedagógia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, biológia, francia nyelv, magyar nyelv és irodalom, matematika, német nyelv, orosz nyelv, olasz nyelv, spanyol nyelv, bármely nemzetiségi nyelv (és irodalom), történelem. |
+| 13. | romanisztika (önálló szakképzettséget eredményező szakirányok: francia, olasz, román, román nemzetiségi, spanyol) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: a szakiránynak megfelelően: francia nyelv, olasz nyelv, román nyelv, román (nemzetiségi) nyelv és irodalom, spanyol nyelv. |
 
-|  | 13. | pszichológia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, biológia, francia nyelv, magyar nyelv és irodalom, matematika, német nyelv, orosz nyelv, történelem. |
+| 14. | romanisztika (önálló szakképzettséget eredményező szakirány: portugál) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, francia nyelv, latin nyelv, német nyelv, olasz nyelv, spanyol nyelv, portugál nyelv, román nyelv, román (nemzetiségi) nyelv és irodalom. |
 
-|  | 14. | szabad bölcsészet |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, francia nyelv, latin nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv. |
+| 15. | romológia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, beás nyelv, magyar nyelv és irodalom, történelem, francia nyelv, latin nyelv, lovári nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv. |
+
+| 16. | szabad bölcsészet |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, francia nyelv, latin nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv. |
+
+| 17. | szlavisztika (önálló szakképzettséget eredményező szakirányok: bolgár, cseh, lengyel, orosz, horvát, horvát nemzetiségi, szerb, szerb nemzetiségi, szlovák, szlovák nemzetiségi, szlovén, szlovén nemzetiségi, ukrán, ukrán nemzetiségi) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, francia nyelv, horvát nyelv, horvát (nemzetiségi) nyelv és irodalom, latin nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, szerb nyelv, szerb (nemzetiségi) nyelv és irodalom, szlovák nyelv, szlovák (nemzetiségi) nyelv és irodalom, szlovén nemzetiségi nyelv, román nyelv, román (nemzetiségi) nyelv és irodalom. |
+
+| 18. | történelem [önálló szakképzettséget eredményező szakirányok: történelem, régészet (2017K)] |  | Emelt szinten kell teljesíteni: történelem. |
 
 3. Jogi képzési terület
 
-|  |  | A | B | C |
+|  | A | B | C |
 
-|  | Alapképzési szakok | Osztatlan mester-képzési szakok | Emelt szintű érettségi követelmény |
+| 1. | Alapképzési szakok | Osztatlan szakok | Emelt szintű érettségi követelmény |
 
-|  | 1. |  | jogász | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, latin nyelv. |
+| 2. |  | jogász | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: magyar nyelv és irodalom, történelem, angol nyelv, francia nyelv, latin nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv. |
 
 4. Gazdaságtudományok képzési terület
 
-|  |  | A | B | C |
+|  | A | B | C |
 
-|  | Alapképzési szakok | Osztatlan mester-képzési szakok | Emelt szintű érettségi követelmény |
+| 1. | Alapképzési szakok | Osztatlan szakok | Emelt szintű érettségi követelmény |
 
-|  | 1. | alkalmazott közgazdaságtan |  | Emelt szinten kell teljesíteni: matematika. |
+| 2. | alkalmazott közgazdaságtan |  | Emelt szinten kell teljesíteni: matematika. |
 
-|  | 2. | gazdaság- és pénzügy- matematikai elemzés |  | Emelt szinten kell teljesíteni: matematika. |
+| 3. | gazdaság- és pénzügy- matematikai elemzés (2017K) | gazdaság- és pénzügy- matematikai elemzés | Emelt szinten kell teljesíteni: matematika. |
 
 5. Műszaki képzési terület
 
-|  |  | A | B | C |
+|  | A | B | C |
 
-|  | Alapképzési szakok | Osztatlan mester-képzési szakok | Emelt szintű érettségi követelmény |
+| 1. | Alapképzési szakok | Osztatlan szakok | Emelt szintű érettségi követelmény |
 
-|  | 1. | energetikai mérnöki |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: fizika, matematika. |
+| 2. | energetikai mérnöki |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: fizika, matematika. |
 
-|  | 2. | építészmérnöki |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: fizika, matematika, építészeti és építési alapismeretek. |
+| 3. | építészmérnöki |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: fizika, matematika, építészeti és építési alapismeretek, építőipar ismeretek. |
 
-|  | 3. |  | építészmérnöki | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: fizika, matematika, építészeti és építési alapismeretek. |
+| 4. |  | építészmérnöki | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: fizika, matematika, építészeti és építési alapismeretek, építőipar ismeretek, magyar nyelv és irodalom, történelem. |
 
 6. Orvos- és egészségtudomány képzési terület
 
-|  |  | A | B | C |
+|  | A | B | C |
 
-|  | Alapképzési szakok | Osztatlan mester-képzési szakok | Emelt szintű érettségi követelmény |
+| 1. | Alapképzési szakok | Osztatlan szakok | Emelt szintű érettségi követelmény |
 
-|  | 1. |  | általános orvos | Emelt szinten kell teljesíteni: biológia és fizika vagy kémia. |
+| 2. |  | általános orvos | Emelt szinten kell teljesíteni: biológia és fizika vagy kémia. |
 
-|  | 2. |  | fogorvos | Emelt szinten kell teljesíteni: biológia és fizika vagy kémia. |
+| 3. |  | fogorvos | Emelt szinten kell teljesíteni: biológia és fizika vagy kémia. |
 
-|  | 3. |  | gyógyszerész | Emelt szinten kell teljesíteni: biológia és fizika vagy kémia. |
+| 4. |  | gyógyszerész | Emelt szinten kell teljesíteni: biológia és fizika vagy kémia. |
 
-7. Sporttudomány képzési terület
+7. Társadalomtudomány képzési terület
 
-|  |  | A Alapképzési szakok | B Osztatlan mester-képzési szakok | C Emelt szintű érettségi követelmény |
+|  | A | B | C |
 
-|  | 1. | testnevelő-edző |  | Emelt szinten kell teljesíteni: testnevelés |
+| 1. | Alapképzési szakok | Osztatlan szakok | Emelt szintű érettségi követelmény |
 
-8. Társadalomtudomány képzési terület
+| 2. | informatikus könyvtáros |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem, informatikai alapismeretek, informatika, informatika ismeretek. |
 
-|  |  | A | B | C |
+| 3. | kommunikáció és médiatudomány |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
 
-|  | Alapképzési szakok | Osztatlan mester-képzési szakok | Emelt szintű érettségi követelmény |
+| 4. | kulturális antropológia (2017K) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: földrajz, magyar nyelv és irodalom, társadalomismeret, történelem. |
 
-|  | 1. | nemzetközi tanulmányok |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
+| 5. | nemzetközi tanulmányok |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
 
-|  | 2. | politológia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
+| 6. | politológia (politikatudomány) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
 
-|  | 3. | szociális munka |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
+| 7. | szociális munka |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
 
-|  | 4. | szociálpedagógia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
+| 8. | szociálpedagógia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
 
-|  | 5. | informatikus könyvtáros |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem, informatikai alapismeretek, informatika. |
+| 9. | szociológia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
 
-|  | 6. | kommunikáció és médiatudomány |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
+| 10. | társadalmi tanulmányok (2017K) |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
 
-|  | 7. | kulturális antropológia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: földrajz, magyar nyelv és irodalom, társadalomismeret, történelem. |
+8. Természettudomány képzési terület
 
-|  | 8. | szociológia |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
+|  | A | B | C |
 
-|  | 9. | társadalmi tanulmányok |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: angol nyelv, francia nyelv, német nyelv, olasz nyelv, orosz nyelv, spanyol nyelv, magyar nyelv és irodalom, matematika, társadalomismeret, történelem. |
+| 1. | Alapképzési szakok | Osztatlan szakok | Emelt szintű érettségi követelmény |
 
-9. Természettudomány képzési terület
+| 2. | matematika |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: biológia, fizika, földrajz, kémia, matematika. |
 
-|  |  | A | B | C |
-
-|  |  | Alapképzési szakok | Osztatlan mesterképzési szakok | Emelt szintű érettségi követelmény |
-
-|  | 1. | matematika |  | A felsorolt tárgyak közül egyet emelt szinten kell teljesíteni: biológia, fizika, földrajz, kémia, matematika. |
-
-[^156]: A 3. melléklet a 47/2013. (II. 20.) Korm. rendelet 11. §-a, az 502/2013. (XII. 29.) Korm. rendelet 23. § (3) bekezdése, a 345/2015. (XI. 19.) Korm. rendelet 45. § (2)–(3) bekezdése, a 335/2014. (XII. 18.) Korm. rendelet 16. § (1) bekezdése szerint módosított szöveg.
+[^167]: A 3. melléklet a 442/2016. (XII. 16.) Korm. rendelet 28. § (2) bekezdésével megállapított szöveg.
