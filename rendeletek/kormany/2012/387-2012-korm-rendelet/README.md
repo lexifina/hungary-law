@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-387-20-
 | 2013-04-27 | 2012-387-20-22.3 | 121/2013. (IV. 26.) Korm. rendelet |
 | 2015-11-27 | 2012-387-20-22.4 | 345/2015. (XI. 19.) Korm. rendelet |
 | 2016-09-01 | 2012-387-20-22.5 | 266/2016. (VIII. 31.) Korm. rendelet |
+| 2016-12-17 | 2012-387-20-22.6 | 442/2016. (XII. 16.) Korm. rendelet |
