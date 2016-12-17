@@ -13,3 +13,5 @@ a Városliget megújításáról és fejlesztéséről szóló 2013. évi CCXLII
 (2) A vagyonkezelő vagyonkezelői joga tekintetében a nemzeti vagyonról szóló 2011. évi CXCVI. törvény (a továbbiakban: Nvt.) 11. § (8) bekezdés c) és e) pontja, valamint a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 109. § (6) bekezdése nem alkalmazandó.
 
 (3) A vagyonkezelőben az államot megillető társasági részesedés felett a tulajdonosi jogok és kötelezettségek összességét a kultúráért felelős miniszter gyakorolja.
+
+(4) A vagyonkezelő felügyelőbizottsága három, legfeljebb hat természetes személy tagból áll.
