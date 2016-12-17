@@ -1,3 +1,5 @@
+## 7. §[^8]
+
 8. § (1) A felsőoktatási szakképzés a képzési és kimeneti követelmények alapján meghatározott – a felsőoktatási intézmény képzési programjának részét képező – felsőoktatási szakképzési program alapján folyik.
 
 (2) A felsőoktatási szakképzési programnak a képzési és kimeneti követelmények szerinti alapadatai:
@@ -70,6 +72,7 @@ k) teljes idejű képzésre (részidős képzésre, távoktatásra) vonatkozó t
 
 l) a felsőoktatási intézmény minőségbiztosítási rendszerének részeként a felsőoktatási szakképzés minőségbiztosításának bemutatása.
 
+[^8]: A 7. §-t a 345/2015. (XI. 19.) Korm. rendelet 24. § 3. pontja hatályon kívül helyezte.
 [^9]: A 8. § (2) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 23. § 4. pontja szerint módosított szöveg.
 [^10]: A 8. § (2) bekezdés e) pontját a 345/2015. (XI. 19.) Korm. rendelet 24. § 5. pontja hatályon kívül helyezte.
 [^11]: A 8. § (2) bekezdés h) pont hc) alpontja a 345/2015. (XI. 19.) Korm. rendelet 23. § 2. pontja szerint módosított szöveg.

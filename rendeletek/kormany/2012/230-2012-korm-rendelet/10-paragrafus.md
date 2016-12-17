@@ -1,5 +1,5 @@
+## 9. §[^13]
+
 ## 3. A felsőoktatási szakképzés indításának eljárási rendje
 
-10. §[^14]
-
-[^14]: A 10. §-t és az azt megelőző alcímet a 139/2015. (VI. 9.) Korm. rendelet 14. § c) pont cb) alpontja hatályon kívül helyezte.
+[^13]: A 9. §-t a 345/2015. (XI. 19.) Korm. rendelet 24. § 6. pontja hatályon kívül helyezte.
