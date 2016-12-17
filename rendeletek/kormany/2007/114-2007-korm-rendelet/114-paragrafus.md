@@ -4,7 +4,7 @@
 
 114. §[^316] (1) Idegenrendészeti kiutasítás elrendelésére – a (2) bekezdésben meghatározott kivétellel – a regionális igazgatóság jogosult.
 
-(2)[^317] A Tv. 43. § (2) bekezdés a) pontja alapján a Rendőrség jogosult idegenrendészeti kiutasítás elrendelésére, feltéve, hogy Magyarország államhatárának jogellenes átlépését vagy ennek kísérletét a Schengeni határ-ellenőrzési kódex 2. cikk 9. pontjában meghatározott határellenőrzési tevékenysége kapcsán, a határterületen észlelte, és a harmadik országbeli állampolgár kiutasításának végrehajtására visszafogadási egyezmény alapján kerülhet sor.
+(2)[^317] A Tv. 43. § (2) bekezdés a) pontja alapján a Rendőrség jogosult idegenrendészeti kiutasítás elrendelésére, feltéve, hogy Magyarország államhatárának jogellenes átlépését vagy ennek kísérletét a Schengeni határ-ellenőrzési kódex 2. cikk 10. pontjában meghatározott határellenőrzési tevékenysége kapcsán, a határterületen észlelte, és a harmadik országbeli állampolgár kiutasításának végrehajtására visszafogadási egyezmény alapján kerülhet sor.
 
 (2a)[^318] A Tv. 43. § (2) bekezdés b) pontja alapján a menekültügyi hatóság a menedékjogról szóló 2007. évi LXXX. törvényben meghatározott esetekben jogosult kiutasítás elrendelésére.
 
@@ -49,7 +49,7 @@ b) a Tv. 43. § (2) bekezdés e) pontja alapján kizárólag az egészségügyi 
 (7) Amennyiben a külpolitikáért felelős miniszter a vízumeljárás alapján a vízumkérelmezőre vonatkozóan a Tv. 43. § (1) bekezdés c) pontjában foglaltak fennállását valószínűsíti, erről haladéktalanul értesíti a veszélyeztetett érdek védelméért felelős rendvédelmi szervet.
 
 [^316]: A 114. § a 290/2010. (XII. 21.) Korm. rendelet 60. §-ával megállapított szöveg.
-[^317]: A 114. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése szerint módosított szöveg.
+[^317]: A 114. § (2) bekezdése a 276/2011. (XII. 20.) Korm. rendelet 11. § (2) bekezdése, a 441/2016. (XII. 16.) Korm. rendelet 14. § b) pontja szerint módosított szöveg.
 [^318]: A 114. § (2a) bekezdését a 204/2015. (VII. 23.) Korm. rendelet 4. §-a iktatta be.
 [^319]: A 114. § (2b) bekezdését a 204/2015. (VII. 23.) Korm. rendelet 4. §-a iktatta be.
 [^320]: A 114. § (3) bekezdése a 409/2012. (XII. 28.) Korm. rendelet 23. §-ával megállapított szöveg.
