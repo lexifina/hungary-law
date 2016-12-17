@@ -48,7 +48,7 @@
 
 | 1510 | Megállás vasúti átjáróban, valamint a vasúti átjáró előtt [KRESZ 40. § (5) bek. g) pontja]; | 6 |
 
-| 1511 | Gyalogosok elsőbbségére vonatkozó szabályok megsértése [KRESZ 43. § (1) bek.]; | 6 |
+| 1511 |  |  |
 
 | 1512 | A gyermekbiztonsági rendszer , valamint a bukósisak használatának elmulasztása [KRESZ 48. § (7)–(9) bek.]; | 3 |
 
@@ -56,7 +56,7 @@
 
 | 1514 | Nem megfelelő sebesség alkalmazása (relatív sebességtúllépés) [KRESZ 25. § (1) bek.] - csak halmazatként alkalmazható; | 1 |
 
-| 1515 | Egyes jelzőtáblák utasításainak megszegése [KRESZ 14. § (1) bek. e)–m), o)–u), y), valamint z/1) pont]; | 3 |
+| 1515 | Egyes jelzőtáblák utasításainak megszegése [KRESZ 14. § (1) bek. e), h)–m), o)–u), y), valamint z/1) pont]; | 3 |
 
 | 1516 | A kijelölt gyalogos-átkelőhely előtt megálló jármű melletti elhaladás megállás nélkül [KRESZ 43. § (3) bek.]; | 5 |
 
