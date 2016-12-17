@@ -16,8 +16,10 @@ f) az elektronikus kereskedelmi szolgáltatókkal és közvetítő szolgáltató
 
 g) az elektronikus információs rendszer biztonságáért felelős személlyel,
 
-h) a magyar és nemzetközi hálózatbiztonsági és információbiztonsági szervezetekkel, valamint
+h)[^1] a magyar és a nemzetközi hálózatbiztonsági szervekkel, így különösen az Európai Unió számítógép-biztonsági eseményekre reagáló csoportjával, valamint
 
 i) iparági szereplőkkel [a továbbiakban az a)–i) pont együtt: együttműködő szervek].
 
 (2) A Központ a biztonsági eseményre vagy fenyegetésre utaló tevékenységeket kivizsgálhatja és szükség esetén figyelmeztetést ad ki a központosított informatikai és elektronikus hírközlési szolgáltató, a felhasználók, az eseménykezelő központok és a hatóságok felé.
+
+[^1]: A 3. § (1) bekezdés h) pontja a 441/2016. (XII. 16.) Korm. rendelet 56. §-ával megállapított szöveg.
