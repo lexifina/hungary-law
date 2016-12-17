@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-328-20-
 | 2012-01-01 | 2007-328-20-22.5 | 276/2011. (XII. 20.) Korm. rendelet |
 | 2013-11-29 | 2007-328-20-22.6 | 447/2013. (XI. 28.) Korm. rendelet |
 | 2014-07-19 | 2007-328-20-22.7 | 170/2014. (VII. 18.) Korm. rendelet |
+| 2016-12-17 | 2007-328-20-22.8 | 441/2016. (XII. 16.) Korm. rendelet |

@@ -38,6 +38,8 @@ b) Palesztin Hatóság által kiállított magánútlevél (Ordinary passport/Tr
 
 c) Palesztin Hatóság által kiállított VIP útlevél (VIP passport/Travel Document)
 
+d)[^7] nemzeti útlevelet helyettesítő úti okmány (travel document in lieu of national passport)
+
 9. Jordánia – úti okmány palesztin menekültek részére (Travel document for Palestinian refugees)
 
 10. Kelet-Timor – különleges szolgálati útlevél (Special Service Passport)
@@ -66,20 +68,24 @@ g) hajós útlevél (Seafarer's Passport)
 
 15. Szaúd-Arábia – úti okmány palesztin menekültek részére (Travel document for Palestinian refugees)
 
-16.[^7] Szíria – úti okmány palesztin menekült részére (Travel document for Palestinian refugees)
+16.[^8] Szíria – úti okmány palesztin menekült részére (Travel document for Palestinian refugees)
 
-17.[^8] Trinidad és Tobago – útlevél az országgyűlési képviselők számára (Passport for members of parliament)
+17.[^9] Trinidad és Tobago – útlevél az országgyűlési képviselők számára (Passport for members of parliament)
 
-18.[^9] Türkmenisztán – hajós útlevél (Seaman's passport)
+18.[^10] Türkmenisztán – hajós útlevél (Seaman's passport)
 
-19.[^10] Új-Zéland
+19.[^11] Új-Zéland
 
 a) sürgősségi úti okmány (Emergency travel document)
 
 b) sürgősségi útlevél (Emergency passport)
 
+20.[^12] A Vöröskereszt Nemzetközi Bizottság úti okmánya a Magyarország Kormánya külön döntésében meghatározott áttelepítési programban résztvevő harmadik országbeli állampolgárok magyarországi beutazása céljából.
+
 [^6]: A 2. melléklet a 447/2013. (XI. 28.) Korm. rendelet 6. § (3) bekezdés b) pontjával megállapított szöveg.
-[^7]: A 2. melléklet 16. pontja a 170/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^8]: A 2. melléklet 17. pontja a 170/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^9]: A 2. melléklet 18. pontja a 170/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^10]: A 2. melléklet 19. pontját a 170/2014. (VII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^7]: A 2. melléklet 8. pont d) alpontját a 441/2016. (XII. 16.) Korm. rendelet 15. §-a iktatta be.
+[^8]: A 2. melléklet 16. pontja a 170/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^9]: A 2. melléklet 17. pontja a 170/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^10]: A 2. melléklet 18. pontja a 170/2014. (VII. 18.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^11]: A 2. melléklet 19. pontját a 170/2014. (VII. 18.) Korm. rendelet 1. §-a iktatta be.
+[^12]: A 2. melléklet 20. pontját a 441/2016. (XII. 16.) Korm. rendelet 15. §-a iktatta be.
