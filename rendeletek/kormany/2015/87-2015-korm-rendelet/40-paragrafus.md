@@ -1,6 +1,6 @@
 40. § (1) A jogviszony-igazolás tanúsítja a hallgató, a doktorjelölt jogviszonyának fennállását vagy korábbi fennállását.
 
-(2)[^79] A jogviszony-igazolást a hallgató, doktorjelölt kérelemére a felsőoktatási intézmény szabályzatában kijelölt szervezeti egység állítja ki.
+(2)[^83] A jogviszony-igazolást a hallgató, doktorjelölt kérelemére a felsőoktatási intézmény szabályzatában kijelölt szervezeti egység állítja ki.
 
 (3) A jogviszony-igazolást
 
@@ -20,9 +20,9 @@ b) a felsőoktatási intézmény nevét, címét, intézményi azonosító szám
 
 c) a hallgató, doktorjelölt személyes adatait, hallgatói azonosító számát (ennek hiányában a törzslap sorszámát),
 
-d)[^80] a jogviszony kezdetét és a képzési és kimeneti követelmények figyelembevételével a várható befejezés időpontját,
+d)[^84] a jogviszony kezdetét és a képzési és kimeneti követelmények figyelembevételével a várható befejezés időpontját,
 
-e)[^81] a hallgató jogviszonyának aktív vagy passzív státuszát, illetve a doktorjelölti jogviszonyt az igazoláson megjelölt tanulmányi félévben,
+e)[^85] a hallgató jogviszonyának aktív vagy passzív státuszát, illetve a doktorjelölti jogviszonyt az igazoláson megjelölt tanulmányi félévben,
 
 f) a hallgató által folytatott képzés – több képzés esetén a képzések – megnevezését, munkarendjét, nyelvét, helyét, finanszírozási formáját,
 
@@ -36,6 +36,6 @@ i) a 34. § (4) bekezdése szerinti hitelesítést.
 
 (7) A hallgatói jogviszony fennállása alatt minden jogviszony-igazolás kiadása ingyenes.
 
-[^79]: A 40. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 90. § 4. pontja szerint módosított szöveg.
-[^80]: A 40. § (5) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 78. §-ával megállapított szöveg.
-[^81]: A 40. § (5) bekezdés e) pontja a 169/2016. (VII. 1.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.
+[^83]: A 40. § (2) bekezdése a 345/2015. (XI. 19.) Korm. rendelet 90. § 4. pontja szerint módosított szöveg.
+[^84]: A 40. § (5) bekezdés d) pontja a 345/2015. (XI. 19.) Korm. rendelet 78. §-ával megállapított szöveg.
+[^85]: A 40. § (5) bekezdés e) pontja a 169/2016. (VII. 1.) Korm. rendelet 37. § c) pontja szerint módosított szöveg.

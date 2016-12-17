@@ -30,8 +30,8 @@ c) a végzettségi szint, illetve az odaítélt fokozat és a képzés megnevez�
 
 d) a kiállítás helyét, idejét,
 
-e)[^87] a felsőoktatási intézmények vezetőinek (továbbá a megállapodásban meghatározott vezetőknek) az eredeti aláírását.
+e)[^91] a felsőoktatási intézmények vezetőinek (továbbá a megállapodásban meghatározott vezetőknek) az eredeti aláírását.
 
 (11) A nemzeti eltérések egyedi záradékban rögzíthetők, különösen a szak, szakképzettség oktatási hivatalban nyilvántartott megnevezése, a közös oklevél kiadásának jogszabályi felhatalmazása, valamint az adminisztrációért felelős intézmény neve.
 
-[^87]: A 46. § (10) bekezdés e) pontja a 169/2016. (VII. 1.) Korm. rendelet 37. § d) pontja szerint módosított szöveg.
+[^91]: A 46. § (10) bekezdés e) pontja a 169/2016. (VII. 1.) Korm. rendelet 37. § d) pontja szerint módosított szöveg.
