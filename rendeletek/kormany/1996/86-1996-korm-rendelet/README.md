@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1996-86-20-2
 | 2016-07-23 | 1996-86-20-22.44 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-09-01 | 1996-86-20-22.45 | 145/2011. (VII. 27.) Korm. rendelet |
 | 2016-11-30 | 1996-86-20-22.46 | 371/2016. (XI. 29.) Korm. rendelet |
+| 2016-12-17 | 1996-86-20-22.47 | 442/2016. (XII. 16.) Korm. rendelet |
