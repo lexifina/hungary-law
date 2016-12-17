@@ -1,0 +1,1 @@
+## „(8) A pedagógusigazolvány igénylése esetén az adatkezelő az igénylés során feltöltött személyes adatokat összeveti a KIR-ben szereplő adatokkal. Amennyiben a KIR-ben tárolt adatok eltérnek az igénylésben és a közreműködő intézmény nyilvántartásában szereplő adatoktól, akkor a közreműködő intézmény a 34. §-ban foglaltak szerint jár el.”

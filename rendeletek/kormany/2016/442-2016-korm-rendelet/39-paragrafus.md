@@ -1,0 +1,5 @@
+## 38. § Az R6. 22. §-a a következő (10) és (11) bekezdéssel egészül ki:
+
+## „(10) Magyar felsőoktatási intézménynek másik magyar felsőoktatási intézménnyel közös képzésben indítandó szakirányú továbbképzése nyilvántartásba vehető olyan képzésen, amelyen a közös képzés eredményeként közös oklevél kiállítása történik. A közös szakirányú továbbképzés indításának nyilvántartásba vétele során a (7) bekezdésben meghatározottakon túl a kérelemhez mellékelni kell a felsőoktatási intézmények között létrejött együttműködési megállapodás egy eredeti példányát vagy annak a kérelmező felsőoktatási intézmény vezetője által hitelesített másolatát is, amely a 19. § (3) bekezdés a)–c) pontjaiban foglaltakat tartalmazza. A közös képzés tekintetében alkalmazandó továbbá a 19. § (4) bekezdése is.
+
+## (11) Magyar felsőoktatási intézménynek külföldi felsőoktatási intézménnyel együttműködésben szakirányú továbbképzés indításának nyilvántartásba vétele tekintetében a 20. § (1) bekezdésének, (3) és (4) bekezdésének, (5) bekezdés b) és c) pontjának, valamint (6) bekezdésének rendelkezései megfelelően alkalmazandók.”

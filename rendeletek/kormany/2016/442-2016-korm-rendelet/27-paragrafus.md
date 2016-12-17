@@ -1,0 +1,1 @@
+## „(2) Az (1) bekezdés a), b), d), e) és f) pontja alapján végzett vizsgálat, illetve vizsga értékelése „megfelelt” vagy „nem felelt meg” minősítés lehet. A „nem felelt meg” minősítés esetén – az f) pont kivételével – a jelentkező összpontszáma nulla.”

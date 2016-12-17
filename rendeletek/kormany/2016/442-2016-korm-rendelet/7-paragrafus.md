@@ -1,0 +1,1 @@
+## „(5) Ha a jogosult az igazolvány használatára jogosító jogviszony megszűnését követően oktatási igazolványa érvényességi idején belül ugyanazzal a közreműködő intézménnyel létesít új jogviszonyt – és az oktatási igazolványon feltüntetett adattartalom változatlanul megfelel a valóságnak – oktatási igazolványa a továbbiakban is érvényes.”
