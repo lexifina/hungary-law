@@ -2,7 +2,17 @@
 
 2. § (1) Ha a tűzvédelmi hatóság a Kstv. 3. § (2) bekezdés b) pontjában meghatározott tájékoztatást követően megállapítja, hogy az ingatlan használója és az ingatlan tulajdonosa nem azonos, három napon belül írásban értesíti az ingatlan tulajdonosát is az 1. §-ban foglaltakról és az égéstermék-elvezető használatának a Kstv. 5. § (2) bekezdés d) pontja szerinti tilalmáról.
 
-(2) A tűzvédelmi hatóság a Kstv. 3. § (2) bekezdés b) pontjában meghatározott tájékoztatást követő harminc napon belül ellenőrzi az ingatlanhasználó Kstv. 5. § (2) bekezdés d) pontjában meghatározott kötelezettségének teljesítését. Ha a tűzvédelmi hatóság megállapítja, hogy az ingatlan használója az égéstermék-elvezetőt a tilalom ellenére üzemelteti és az üzemeltetés az életet és a vagyonbiztonságot közvetlenül veszélyezteti, az ingatlan tulajdonosával szemben tűzvédelmi bírságot szab ki a tűzvédelmi bírságról szóló kormányrendelet rendelkezései szerint.
+(2)[^1] A tűzvédelmi hatóság a Kstv. 3. § (2) bekezdés b) pontjában meghatározott tájékoztatást követő hatvan napon belül ellenőrzi
+
+a) az ingatlanhasználó Kstv. 5. § (2) bekezdés d) pontjában meghatározott kötelezettségének teljesítését, vagy
+
+b) a Kstv. 2. § (5) bekezdés
+
+ba) b) pontjában meghatározott ellenőrzés vagy
+
+bb) f) pontjában meghatározott vizsgálat
+
+## megrendelésének a szabálytalanság megszüntetését követő megtörténtét. Ha a tűzvédelmi hatóság megállapítja, hogy az ingatlan használója az égéstermék-elvezetőt a tilalom ellenére üzemelteti, és az üzemeltetés az életet és a vagyonbiztonságot közvetlenül veszélyezteti, az ingatlan tulajdonosával szemben tűzvédelmi bírságot szab ki a tűzvédelmi bírságról szóló kormányrendelet rendelkezései szerint.
 
 (3) A tűzvédelmi hatóság megtiltja az égéstermék-elvezető üzemeltetését, ha az ingatlan tulajdonosa a hatóság felhívására az előírt határidőben sem tesz eleget a Kstv. 5. § (3) bekezdés alapján fennálló, a Kstv. 5. § (2) bekezdés a) és e) pontjában foglalt kötelezettségének.
 
@@ -25,3 +35,5 @@ a) eljár az ingatlan használójának, tulajdonosának a kéményseprő-ipari s
 b) kivizsgálja a kéményseprő-ipari szerv által kiállított, a Kstv. 2. § (8) bekezdése szerinti, a kéményseprő-ipari tevékenység elvégzésének eredményét tartalmazó dokumentum kiadásával kapcsolatos vitás ügyeket, valamint annak tartalmát megvizsgálja,
 
 c) megvizsgálja az égéstermék-elvezető használati és műszaki állapota kéményseprő-ipari szerv általi, a Kstv. 3. § (6) bekezdése szerinti felmérésének tartalmát,
+
+[^1]: A 2. § (2) bekezdése a 441/2016. (XII. 16.) Korm. rendelet 62. §-ával megállapított szöveg.
