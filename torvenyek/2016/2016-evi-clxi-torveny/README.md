@@ -6,3 +6,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-161-00-00
 | --- | --- | --- |
 | 2016-12-16 | 2016. évi CLXI. törvény | 2016-161-00-00.0 (közlönyállapot) |
 | 2016-12-16 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-161-00-00.1 |
+| 2016-12-17 | 2010. évi CXXX. törvény | 2016-161-00-00.2 |
