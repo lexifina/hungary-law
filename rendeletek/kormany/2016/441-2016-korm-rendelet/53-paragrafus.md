@@ -1,0 +1,5 @@
+## 52. § Az egyes európai uniós jogi aktusokban rögzített bűnügyi, illetve rendészeti tárgyú együttműködés keretében történő információcsere részletes szabályairól szóló 113/2014. (IV. 3.) Korm. rendelet 4. §-a helyébe a következő rendelkezés lép:
+
+## „4. § A közúti közlekedési nyilvántartásról szóló 1999. évi LXXXIV. törvény (a továbbiakban: Kknyt.) 27/A. § (3) bekezdésében meghatározott szerv a Kknyt. 27/A. § (2) bekezdése szerinti keresést közvetlenül, a központi közúti közlekedési nyilvántartó szerv által fenntartott és erre a célra kialakított biztonságos informatikai kapcsolat útján kezdeményezheti.”
+
+## 19. A légiközlekedés védelmével kapcsolatos feladatoknak az általános rendőrségi feladatok ellátására létrehozott szerv általi átvételéről, a nyilvános repülőtér üzemben tartója részére történő visszaadásáról és az általános rendőrségi feladatok ellátására létrehozott szerv indokolt költségei megtérítésének szabályairól, valamint a védelmi ellenőrzés felügyeletéről szóló 302/2014. (XII. 5.) Korm. rendelet módosítása
