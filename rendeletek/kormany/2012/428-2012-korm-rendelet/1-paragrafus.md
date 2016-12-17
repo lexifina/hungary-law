@@ -16,7 +16,7 @@ b) feladatalapú költségvetési támogatás
 
 (3)[^5] Ha a települési nemzetiségi önkormányzat vagy a területi nemzetiségi önkormányzat megszűnik, a megszűnését követő hónap első napjától nem illeti meg a működési költségvetési támogatás időarányos része és a feladatalapú költségvetési támogatásnak a megszűnés időpontját megelőzően kötelezettségvállalással nem terhelt része.
 
-(4)[^6] A működési költségvetési támogatás a költségvetési évben december 31-éig, a feladatalapú költségvetési támogatás a költségvetési évet követő év április 30-áig használható fel.
+(4)[^6] A működési költségvetési támogatás a költségvetési évben december 31-éig, a feladatalapú költségvetési támogatás a költségvetési évet követő év december 31-éig használható fel.
 
 (5)[^7] A működési költségvetési támogatás és a feladatalapú költségvetési támogatás felhasználásáról szóló beszámoló elfogadásáról a támogató a honlapján történő közzététellel értesíti a helyi nemzetiségi önkormányzatot. Ezen fejezet alkalmazásában az Emberi Erőforrás Támogatáskezelő (a továbbiakban: Támogatáskezelő) a támogató.
 
@@ -24,5 +24,5 @@ b) feladatalapú költségvetési támogatás
 [^3]: Az 1. § (1) bekezdése a 448/2015. (XII. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (2) bekezdése a 448/2015. (XII. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^5]: [Az 1. § (3) bekezdésének a 397/2014. (XII. 31.) Korm. rendelet 85. § 4. pontjával elrendelt módosítása, amely szerint a „települési nemzetiségi önkormányzatok vagy a területi” szövegrész helyébe a „helyi” szöveg lép, nem vezethető át.]
-[^6]: Az 1. § (4) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 80. §-a iktatta be.
+[^6]: Az 1. § (4) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 80. §-a iktatta be, szövege a 442/2016. (XII. 16.) Korm. rendelet 31. §-a szerint módosított szöveg.
 [^7]: Az 1. § (5) bekezdését a 397/2014. (XII. 31.) Korm. rendelet 80. §-a iktatta be, szövege a 448/2015. (XII. 28.) Korm. rendelet 1. § (2) bekezdésével megállapított szöveg.
