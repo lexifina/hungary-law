@@ -1,5 +1,5 @@
 ## 29. §
 
-## 14.[^68]
+## 14.[^84]
 
-[^68]: A 14. alcímet (30–31. §) a 169/2016. (VII. 1.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
+[^84]: A 14. alcímet (30–31. §) a 169/2016. (VII. 1.) Korm. rendelet 6. § c) pontja hatályon kívül helyezte.
