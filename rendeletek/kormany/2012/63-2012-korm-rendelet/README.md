@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-63-20-2
 | 2012-04-16 | 2012-63-20-22.2 | 2010: CXXX. törvény |
 | 2012-09-01 | 2012-63-20-22.3 | 228/2012. (VIII. 23.) Korm. rendelet |
 | 2015-10-16 | 2012-63-20-22.4 | 293/2015. (X. 8.) Korm. rendelet |
+| 2016-12-17 | 2012-63-20-22.5 | 441/2016. (XII. 16.) Korm. rendelet |
