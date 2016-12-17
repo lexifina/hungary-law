@@ -1,1 +1,0 @@
-## „(1a) A fekvőbeteg-gyógyintézeti normál étrend szolgáltatása esetén az étlap kifüggesztése kötelező, a speciális diétás étkeztetés esetén a diétás étrendet tartalmazó étlap kifüggesztésétől el lehet tekinteni, ha annak elektronikus formában történő közzététele biztosított.”
