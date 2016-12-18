@@ -1,13 +1,12 @@
-## 27. § Az R4. 31. §-a a következő (4) bekezdéssel egészül ki:
+## 23–27. §[^20]
 
-## „(4) A nyelvvizsga letételét igazoló okirat hitelességének megállapítására vonatkozó adatokat a Hivatal a nyelvvizsga-bizonyítványt kiállító vizsgaközponttól elektronikusan szerzi be. Az így beszerzett adatok valódiságáért az azt szolgáltató szerv felel.”
+28. § (1)–(2)[^21]
 
-28. § (1) Az R4. 1. melléklete a 2. melléklet szerint módosul.
+(3)[^22]
 
-(2) Az R4. 3. melléklete helyébe a 3. melléklet lép.
+(4)[^23]
 
-(3)[^7]
-
-(4) Az R4. 4. melléklete az 5. melléklet szerint módosul.
-
-[^7]: A 28. § (3) bekezdése a 42. § (4) bekezdése alapján 2017. szeptember 1-jén lép hatályba.
+[^20]: A 23–27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: A 28. § (1)–(2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^22]: A 28. § (3) bekezdése a 42. § (4) bekezdése alapján 2017. szeptember 1-jén lép hatályba.
+[^23]: A 28. § (4) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

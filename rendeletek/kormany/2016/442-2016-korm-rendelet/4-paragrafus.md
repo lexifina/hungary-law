@@ -1,3 +1,3 @@
-## 3. § Az oktatási igazolványokról szóló 362/2011. (XII. 30.) Korm. rendelet (a továbbiakban: R1.) 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+## 3. §[^3]
 
-## „(2) Az oktatási igazolvány a biztonsági okmányok védelmének rendjéről szóló kormányrendelet hatálya alá tartozik.”
+[^3]: A 3. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

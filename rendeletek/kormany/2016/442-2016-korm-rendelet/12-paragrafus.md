@@ -1,3 +1,3 @@
-## 11. §[^2]
+## 11. §[^6]
 
-[^2]: A 11. § a 42. § (2) bekezdése alapján 2017. január 2-án lép hatályba.
+[^6]: A 11. § a 42. § (2) bekezdése alapján 2017. január 2-án lép hatályba.

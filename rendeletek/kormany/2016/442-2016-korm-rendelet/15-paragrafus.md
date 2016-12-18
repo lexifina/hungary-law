@@ -1,25 +1,23 @@
-## 14. § Az R1. melléklete helyébe az 1. melléklet lép.
+## 12–14. §[^7]
 
 ## 15. § Az R1.
 
-a)[^3]
+a)[^8]
 
-b) 12. § (1) bekezdésében az „a mellékletben meghatározott igazolást” szövegrész helyébe az „az 1. mellékletben meghatározott adattartalmú igazolást”,
+b)–c)[^9]
 
-c) 12. § (3) bekezdésében az „– a 21. § (3) bekezdésben” szövegrész helyébe az „– a 21. § (3) bekezdésében és a 26/A. §-ban”,
+d)[^10]
 
-d)[^4]
+e)–f)[^11]
 
-e) 19. § (4) bekezdésében az „Nktv. 46. § (13) bekezdésben” szövegrész helyébe az „Nktv. 46. § (20) bekezdésében”,
+g)[^12]
 
-f) 23. § a) pontjában az „Nktv. 63. § (3) bekezdésében” szövegrész helyébe az „Nktv. 63. § (3) bekezdésében és 65. § (9) bekezdésében”,
+h)–i)[^13]
 
-g)[^5]
-
-h) 35. § (1) bekezdésében a „kiadott oktatási igazolványok” szövegrész helyébe a „kiadott diákigazolványok”,
-
-i) 37. § (1) bekezdésében a „tanköteles kor felső határát” szövegrész helyébe a „16. életévét”
-
-[^3]: A 15. § a) pontja a 42. § (2) bekezdése alapján 2017. január 2-án lép hatályba.
-[^4]: A 15. § d) pontja a 42. § (2) bekezdése alapján 2017. január 2-án lép hatályba.
-[^5]: A 15. § g) pontja a 42. § (2) bekezdése alapján 2017. január 2-án lép hatályba.
+[^7]: A 12–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^8]: A 15. § a) pontja a 42. § (2) bekezdése alapján 2017. január 2-án lép hatályba.
+[^9]: A 15. § b)–c) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^10]: A 15. § d) pontja a 42. § (2) bekezdése alapján 2017. január 2-án lép hatályba.
+[^11]: A 15. § e)–f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: A 15. § g) pontja a 42. § (2) bekezdése alapján 2017. január 2-án lép hatályba.
+[^13]: A 15. § h)–i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

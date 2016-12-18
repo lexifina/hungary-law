@@ -1,3 +1,3 @@
-## 10. § Az R1. a következő 26/A. §-sal egészül ki:
+## 5–10. §[^5]
 
-## „26/A. § A közreműködő intézmény a pedagógusigazolványra jogosult kérelmére az elektronikus igénylés továbbítása nélkül is kiadja a 12. § szerinti igazolást, amely 180 napig érvényes.”
+[^5]: Az 5–10. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

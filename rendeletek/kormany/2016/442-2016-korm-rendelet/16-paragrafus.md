@@ -2,22 +2,12 @@
 
 ## 16. § Hatályát veszti az R1.
 
-a) 9. § a) pontja,
+a)–f)[^14]
 
-b) 16. § (6) bekezdése,
+g)[^15]
 
-c) 17. § (3) bekezdés b) pontja,
+h)–i)[^16]
 
-d) 18. § (3) bekezdés b) pontja,
-
-e) 19. § (3) bekezdés b) pontja,
-
-f) 26. § (3) bekezdés b) pontja,
-
-g)[^6]
-
-h) 35. § (2) bekezdése,
-
-i) 36. § (5) bekezdésében a „(kivéve a jogviszony megszűnésétől az érvényességi idő lejáratáig terjedő időszakot)” szövegrész.
-
-[^6]: A 16. § g) pontja a 42. § (2) bekezdése alapján 2017. január 2-án lép hatályba.
+[^14]: A 16. § a)–f) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^15]: A 16. § g) pontja a 42. § (2) bekezdése alapján 2017. január 2-án lép hatályba.
+[^16]: A 16. § h)–i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
