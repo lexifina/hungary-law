@@ -1,0 +1,5 @@
+## 10. § A Vtv. 115. § (4) bekezdése szerinti továbbképzésen való részvétel teljesítéséről szóló nyilatkozatot a nyilvántartásba vételt végző szervezethez – a kormányzati portálon közzétett tájékoztatóban megjelölt címen – kell benyújtani, amelyhez a továbbképzésen való részvétel 6. § (3) bekezdése szerinti igazolását, illetve a 8. és 9. § szerinti igazolásokat mellékletként csatolni kell.
+
+11. § (1) Az e rendelet szerinti továbbképzések szervezésével és lebonyolításával kapcsolatos tevékenységek helyszíni ellenőrzését, valamint a továbbképzésre vonatkozó követelmények teljesítésének ellenőrzését a nyilvántartásba vételt végző szervezet végzi. Az ellenőrzés során a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény hatósági ellenőrzésre vonatkozó rendelkezéseit kell alkalmazni az e rendeletben foglaltak figyelembevételével.
+
+(2) Ha valószínűsíthető, hogy a továbbképzést végző szervezet a kreditpont minősítési eljárás vagy a működése során megtévesztő vagy valótlan adatokat közölt, a nyilvántartásba vételt végző szervezet soron kívüli hatósági ellenőrzést folytat le.
