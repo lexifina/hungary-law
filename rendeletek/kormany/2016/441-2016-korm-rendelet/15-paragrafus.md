@@ -1,3 +1,5 @@
-## szöveg lép.
+## 11–14. §[^6]
 
 ## 7. A harmadik országbeli állampolgárok részére kiállított, magyarországi beutazás céljából elismert okmányok meghatározásáról szóló 328/2007. (XII. 11.) Korm. rendelet módosítása
+
+[^6]: A 11–14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
