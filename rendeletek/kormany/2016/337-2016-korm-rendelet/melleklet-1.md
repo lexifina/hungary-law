@@ -1,8 +1,4 @@
-## 6. § Az utak építésének, forgalomba helyezésének és megszűntetésének engedélyezéséről szóló 93/2012. (V. 10.) Korm. rendelet 13. § (1) bekezdés c) pontja helyébe a következő rendelkezés lép:
-
-## (Az építési engedélynek – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túlmenően – tartalmaznia kell:)
-
-## „c) az építés feltételeit, a közműszolgáltatók esetleges kikötéseit, az útkezelő nyilatkozatát,”
+## 6. §[^1]
 
 1. melléklet a 337/2016. (XI. 17.) Korm. rendelethez
 
@@ -145,3 +141,5 @@ V. Nevezetes pontok mezői
 | 11. | A hely kerékpárosbarát jelleggel bír |
 
 | 12. | Az információ forrása |
+
+[^1]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
