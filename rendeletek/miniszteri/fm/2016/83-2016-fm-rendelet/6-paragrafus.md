@@ -1,0 +1,3 @@
+## 5. § A Tanyafejlesztési Program előirányzat keretében nyújtott támogatás 2015. évi igénybevételének feltételeiről szóló 35/2015. (VI. 30.) FM rendelet [a továbbiakban: 35/2015. (VI. 30.) FM rendelet] 9. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A nyertes pályázó a pályázatban, az egyedi támogatási kérelmet benyújtó, támogatásban részesülő ügyfél az egyedi támogatási kérelmében foglaltak megvalósítására vonatkozó tartalmat a hatósági vagy támogatási szerződés megkötését követően – pályázat esetében a Herman Ottó Intézet felé fennálló bejelentési kötelezettségének teljesítése mellett – egy alkalommal, a miniszter előzetes jóváhagyásával módosíthatja.”

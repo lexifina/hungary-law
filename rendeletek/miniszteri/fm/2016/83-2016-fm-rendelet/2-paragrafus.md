@@ -1,0 +1,3 @@
+## 1. § A Tanyafejlesztési Program előirányzat keretében nyújtott támogatás 2013. évi igénybevételének feltételeiről szóló 56/2013. (VI. 29.) VM rendelet [a továbbiakban: 56/2013. (VI. 29.) VM rendelet] a következő 19. §-sal egészül ki:
+
+## „19. § E rendeletnek a Tanyafejlesztési Program előirányzat keretében nyújtott támogatás igénybevételének feltételeiről szóló egyes miniszteri rendeletek módosításáról szóló 83/2016. (XII. 16.) FM rendelettel [a továbbiakban: 83/2016. (XII. 16.) FM rendelet] megállapított 9. § (3) bekezdését a 83/2016. (XII. 16.) FM rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”

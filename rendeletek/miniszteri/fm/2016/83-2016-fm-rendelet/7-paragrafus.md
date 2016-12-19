@@ -1,0 +1,3 @@
+## 6. § A 35/2015. (VI. 30.) FM rendelet a következő 21. §-sal egészül ki:
+
+## „21. § E rendeletnek a Tanyafejlesztési Program előirányzat keretében nyújtott támogatás igénybevételének feltételeiről szóló egyes miniszteri rendeletek módosításáról szóló 83/2016. (XII. 16.) FM rendelettel [a továbbiakban: 83/2016. (XII. 16.) FM rendelet] megállapított 9. § (2) és (3) bekezdését a 83/2016. (XII. 16.) FM rendelet hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.”
