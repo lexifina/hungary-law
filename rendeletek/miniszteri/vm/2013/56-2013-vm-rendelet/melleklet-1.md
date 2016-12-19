@@ -1,6 +1,6 @@
-## 18. §[^13] E rendeletnek az egyes agrártámogatási tárgyú miniszteri rendeletek módosításáról szóló 54/2015. (IX. 16.) FM rendelettel [a továbbiakban: 54/2015. (IX. 16.) FM rendelet] megállapított 9. § (3) bekezdést a 54/2015. (IX. 16.) FM rendelet hatályba lépésekor[^14] folyamatban lévő ügyekben is alkalmazni kell.
+## 19. §[^15] E rendeletnek a Tanyafejlesztési Program előirányzat keretében nyújtott támogatás igénybevételének feltételeiről szóló egyes miniszteri rendeletek módosításáról szóló 83/2016. (XII. 16.) FM rendelettel [a továbbiakban: 83/2016. (XII. 16.) FM rendelet] megállapított 9. § (3) bekezdését a 83/2016. (XII. 16.) FM rendelet hatálybalépésekor[^16] folyamatban lévő ügyekben is alkalmazni kell.
 
 1. melléklet az 56/2013. (VI. 29.) VM rendelethez
 
-[^13]: A 18. §-t az 54/2015. (IX. 16.) FM rendelet 4. § (1) bekezdése iktatta be.
-[^14]: A hatálybalépés időpontja 2015. szeptember 17.
+[^15]: A 19. §-t a 83/2016. (XII. 16.) FM rendelet 1. §-a iktatta be.
+[^16]: A hatálybalépés időpontja 2016. december 19.
