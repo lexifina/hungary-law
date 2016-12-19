@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-7-20-2Y
 | --- | --- | --- |
 | 2014-02-07 | 2014-7-20-2Y.1 | 7/2014. (II. 6.) VM rendelet |
 | 2015-09-17 | 2014-7-20-2Y.2 | 54/2015. (IX. 16.) FM rendelet |
+| 2016-12-19 | 2014-7-20-2Y.3 | 83/2016. (XII. 16.) FM rendelet |
