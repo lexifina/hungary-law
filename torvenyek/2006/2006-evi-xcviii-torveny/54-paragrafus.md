@@ -38,13 +38,17 @@ h) a gyógyszertár működtetője jogutód nélkül megszűnik,
 
 i) a gyógyszertár a működését a pályázatban meghatározott határidőben a nyertes pályázónak felróható okból nem kezdte meg,
 
-j) a pályázatban vállalt többletszolgáltatást a pályázat nyertese nem teljesíti.
+j) a pályázatban vállalt többletszolgáltatást a pályázat nyertese nem teljesíti,
+
+k) a közforgalmú gyógyszertárat működtető gazdasági társaság nem felel meg a 74. § (1) bekezdésében foglaltaknak,
+
+l) a gyógyszertár egészségbiztosítási szervvel fennálló ártámogatási szolgáltatói jogviszonya megszűnik.
 
 (3) A működési engedélyt a (2) bekezdés
 
 a)
 
-b) a)–b) pontjában foglalt esetben a változás bekövetkezésének napjával,
+b) a), b) és k) pontjában foglalt esetben a változás bekövetkezésének napjával,
 
 c) c) pontjában foglalt esetben a tudomásszerzés napjával
 
