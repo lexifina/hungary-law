@@ -1,8 +1,8 @@
 ## Az egyéb önálló ingatlanok
 
-12. § A földrészleten kívül önálló ingatlannak kell tekinteni:
+12. § A földrészleten kívül önálló ingatlanként kell nyilvántartani:
 
-a) az épületet, a pincét, a föld alatti garázst és más építményt,
+a) az épületet, a pincét, a föld alatti garázst és más építményt, ide nem értve a nyomvonal jellegű építményt,
 
 aa) ha az nem vagy csak részben a földrészlet tulajdonosának a tulajdona, vagy
 
