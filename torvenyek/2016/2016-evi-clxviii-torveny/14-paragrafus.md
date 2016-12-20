@@ -1,0 +1,11 @@
+14. § (1) Az Eht. 83/A. § (3) bekezdése helyébe a következő rendelkezés lép:
+
+„(3) A felek az egyeztetés lezárásának határidejét írásba foglalt közös megegyezéssel a 83/B. § (1) bekezdésétől eltérően is megállapíthatják. Az e bekezdés szerinti megegyezés létrehozása tárgyában folytatott egyeztetést az (1) bekezdés szerinti ajánlat kézhezvételétől számított 30 napon belül le kell zárni. Ha valamely fél az e bekezdés szerinti megegyezés létrehozását kezdeményezi, arra a másik fél köteles 15 napon belül érdemben nyilatkozni, a kezdeményezés elutasítása esetén a másik fél köteles az elutasítást írásban megindokolni és bizonyítékokkal alátámasztani.”
+
+(2) Az Eht. 83/A. §-a a következő (8)–(10) bekezdéssel egészül ki:
+
+„(8) Amennyiben az (1) bekezdés szerinti ajánlatra a megkeresett fél a (2) bekezdésben meghatározott időtartamon belül nem vagy nem érdemben válaszol vagy egyébként olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, az írásbeli ajánlatot benyújtó fél a felek közti egyeztetés előmozdítása, az érdemi együttműködés elősegítése, valamint a jogsértés megállapítása és jogkövetkezmény alkalmazása érdekében általános hatósági felügyeleti eljárás iránti kérelmet nyújthat be a Hivatalhoz, amennyiben a kérelem tárgyával összefüggésben jogvitás eljárás nem indult.
+
+(9) Abban az esetben, ha az (1) bekezdés szerinti ajánlatra a megkeresett fél a (2) bekezdésben meghatározott időtartamon belül nem vagy nem érdemben válaszol vagy egyébként olyan magatartást tanúsít, amely a felek közti egyeztetés elhúzódását eredményezi, a Hivatal bírságot szab ki, amelynek mértéke a jogsértő nettó árbevételének legfeljebb 0,05%-a, de legalább százezer forint. Árbevételi adatok vagy az árbevétel közlésének hiányában a bírság mértéke legalább ötvenezer forint, legfeljebb százmillió forint. E § alkalmazása szempontjából nettó árbevétel alatt az eljárás résztvevőjének számviteli törvény szerinti nettó árbevételét kell érteni.
+
+(10) A bírság mértékének megállapítása során a 48. § (2) bekezdésében foglaltak alkalmazása mellett a Hivatal mérlegeli az ügy összes körülményét, így különösen a jogsértő árbevételét, a jogsértéssel okozott hátrányok súlyát, a jogsértés ismételtségét.”

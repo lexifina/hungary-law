@@ -1,0 +1,3 @@
+11. § Az Eht. 61/A. §-a helyébe a következő rendelkezés lép:
+
+„61/A. § Az eljáró tanács döntése elleni jogorvoslatra az Elnök döntése elleni jogorvoslatra vonatkozó szabályok alkalmazandók azzal az eltéréssel, hogy a 83/B. § (1) bekezdése, 90. § (7) bekezdése, 94. § (2f) bekezdése és 99/C. § (2) bekezdése szerinti jogvitás eljárásban hozott döntés esetében nincs helye a végrehajtás felfüggesztésének.”

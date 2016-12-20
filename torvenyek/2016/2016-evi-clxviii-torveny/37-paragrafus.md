@@ -1,0 +1,1 @@
+37. § A településkép védelméről szóló 2016. LXXIV. törvény 14. § (2) bekezdésében az „– az (1) bekezdésben foglaltak kivételével –” szövegrész helyébe az „– az (1) és a (2a) bekezdésben foglaltak kivételével –” szöveg lép.
