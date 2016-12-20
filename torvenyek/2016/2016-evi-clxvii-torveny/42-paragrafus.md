@@ -1,0 +1,3 @@
+42. § Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény 4. §-a a következő (1a) bekezdéssel egészül ki:
+
+„(1a) A valorizációs szorzószámok alkalmazásával megállapításra kerülő nyugdíjbiztosítási átutalás esetén az ügyintézési határidő tárgyév április 15-én jár le, ha a nyugdíjbiztosítási átutalás iránti kérelmet a tárgyévi nyugdíj-megállapításhoz tartozó valorizációs szorzószámok hatálybalépését megelőzően nyújtották be, és az általános ügyintézési határidő tárgyév április 15-ét megelőzően telne le.”
