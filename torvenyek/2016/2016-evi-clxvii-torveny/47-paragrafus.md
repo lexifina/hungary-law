@@ -9,11 +9,3 @@
 (4) A 3. § és a 8. § 2017. március 1-jén lép hatályba.
 
 (5) A 27. § 2017. július 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke

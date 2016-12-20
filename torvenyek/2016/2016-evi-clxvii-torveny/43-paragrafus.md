@@ -1,1 +1,0 @@
-43. § Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról, valamint egyes nyugdíjbiztosítási tárgyú és más kapcsolódó törvények módosításáról szóló 2012. évi CXII. törvény 1. alcímének címében az „Értelmező” szövegrész helyébe az „Általános” szöveg lép.

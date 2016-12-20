@@ -1,3 +1,0 @@
-37. § A Cst. 41. §-a a következő (4a) bekezdéssel egészül ki:
-
-„(4a) Ha a szülők egyike jogalap nélkül vett fel a gyermekük után járó gyermekgondozási támogatást vagy a kötelező egészségbiztosítás ellátásairól szóló 1997. évi LXXXIII. törvény szerinti, az egészségbiztosítás pénzbeli ellátásának minősülő ellátást, mindkét szülő erre irányuló egybehangzó nyilatkozata alapján a jogalap nélkül felvett ellátás a másik szülőnek – a közös háztartásban nevelt gyermekükre tekintettel – megállapított gyermekgondozási támogatás összegéből levonható. Ha a szülők nem járulnak hozzá egybehangzó nyilatkozattal a levonáshoz, a jogalap nélkül felvett ellátást – felróhatóságra tekintet nélkül – az a szülő köteles visszafizetni, aki az ellátást felvette.”
