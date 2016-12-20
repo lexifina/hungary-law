@@ -19,3 +19,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2006-97-00-00
 | 2015-07-01 | 2015. évi LXXVII. törvény | 2006-97-00-00.15 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2006-97-00-00.16 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 2006-97-00-00.17 |
+| 2016-12-20 | 2016. évi CLXXII. törvény | 2006-97-00-00.18 |
