@@ -6,8 +6,11 @@
 
 ## Határidő: azonnal
 
-## 3. Az egyes fejezetek közötti előirányzat-átcsoportosításról szóló 1787/2016. (XII. 17.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete helyébe a 2. melléklet lép.
+## 3.[^2]
 
-## 4. A Határozatban a „306.855.352” szövegrész helyébe a „251 359 019” szöveg lép.
+## 4.[^3]
 
 1. melléklet az 1798/2016. (XII. 19.) Korm. határozathoz
+
+[^2]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 3–4. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

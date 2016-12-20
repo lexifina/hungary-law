@@ -1,3 +1,5 @@
+## 6K82834_0
+
 | A 2015. évi költségvetési maradványok átcsoportosítása Ezer forintban |
 
 | Fejezet- szám | Cím- szám | Alcím- szám | Jogcím- csoport szám | Jogcím- szám | Kiemelt előirányzat- szám | Fejezet név | Cím név | Alcím név | Jogcím-csoport név | Jogcím név | Kiemelt előirányzat neve | Átcsoportosítás (+/-) |
@@ -54,6 +56,6 @@
 
 |  |  |  |  |  | B2 |  |  |  |  |  | Felhalmozási célú támogatások államháztartáson belülről | 10 000 000 |
 
-2. melléklet az 1798/2016. (XII. 19.) Korm. határozathoz
+2. melléklet az 1798/2016. (XII. 19.) Korm. határozathoz[^4]
 
-„1. melléklet az 1787/2016. (XII. 17.) Korm. határozathoz
+[^4]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
