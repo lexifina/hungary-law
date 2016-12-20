@@ -4,7 +4,7 @@
 
 (2)
 
-(3) A rádiófrekvencia felhasználásának összhangban kell lennie a nemzeti frekvenciafelosztásra, valamint a sávfelhasználás szabályaira vonatkozó jogszabályokkal – kivéve a kísérleti és a 30 napnál rövidebb felhasználást, valamint a Magyarországon forgalmazott, de üzemszerűen Magyarországon nem használható berendezések kipróbálását – és a külön jogszabályban meghatározott közegészségügyi, zavarsugárzási és zavarvédelmi előírásokkal.
+(3) A rádiófrekvencia felhasználásának összhangban kell lennie a nemzeti frekvenciafelosztásra, valamint a sávfelhasználás szabályaira vonatkozó jogszabályokkal – kivéve a kísérleti és a 30 napnál rövidebb felhasználást, valamint a Magyarországon gyártott vagy forgalmazott, de üzemszerűen Magyarországon nem használható berendezések kipróbálását – és a külön jogszabályban meghatározott közegészségügyi, zavarsugárzási és zavarvédelmi előírásokkal.
 
 (4) Az 55. § (7) bekezdése alapján kiadott frekvenciahasználati jog gyakorlása során a közszolgálati médiaszolgáltató köteles biztosítani a közszolgálati műsorok általános elérhetőségével és minőségével kapcsolatban rárótt közszolgáltatási kötelezettségek teljesítését. Így különösen, hosszú távon köteles biztosítani a médiaszolgáltatási jogosultság meghatározott vételkörzetében a műsorszórás folytonosságát és meghatározott minőségét, a frekvenciahasználati jogot ráruházó engedélyben meghatározott részletes feltételek szerint.
 

@@ -2,11 +2,11 @@
 
 (2) Az (1) bekezdés szerinti eljárásban az 57–61. § szerinti jogvitás eljárás szabályait kell alkalmazni a következő eltérésekkel:
 
-a) a kérelemhez csatolni kell a 83/A. § (1) bekezdése szerinti ajánlatot, az annak kézhezvételét igazoló postai tértivevényt vagy más okiratot, valamint – ha rendelkezésre áll – a másik fél nyilatkozatát,
+a) a kérelemhez csatolni kell a 83/A. § (1) bekezdése szerinti ajánlatot, az annak kézhezvételét igazoló postai tértivevényt vagy más okiratot, valamint – ha rendelkezésre áll – a másik fél nyilatkozatát, illetve az ajánlatra adott érdemi választ és az ajánlat elutasítása esetén az elutasítás okát alátámasztó bizonyítékokat,
 
-b) a Hatóságnak meg kell kísérelnie egyezség létrehozását az ellenérdekű ügyfelek között, ennek érdekében az ajánlatot elutasító felet – 8 napos határidő tűzésével – az eljárás megindításáról szóló értesítésben a 83/A. § (4) bekezdése szerinti érdemi választ alátámasztó körülmények és erre vonatkozó bizonyítékai előterjesztésére hívja fel,
+b) a hálózatüzemeltetőnek kell bizonyítania a 83/A. § (4) bekezdése szerinti valamely feltétel fennállását, valamint az építési munkák összehangolásából eredő többletköltségét.
 
-c) a hálózatüzemeltetőnek kell bizonyítania a 83/A. § (4) bekezdése szerinti valamely feltétel fennállását, valamint az építési munkák összehangolásából eredő többletköltségét.
+(2a) Amennyiben a jogvitás eljárás során feltárt tényállás alapján a Hatóság megállapítja a 83/A. § (8) bekezdésében foglalt jogsértést és ugyanezen jogsértés tárgyában a jogvitás eljárás megindítását megelőzően nem indult általános hatósági felügyeleti eljárás, a Hatóság a jogvitás eljárást érdemben lezáró döntésében a 83/A. § (9)–(10) bekezdésében meghatározott bírság kiszabására is jogosult.
 
 (3) A Hatóság – a kérelem megalapozottsága esetén, az Elnök rendeletében foglalt részletes szabályok szerint – meghatározza az összehangolás érdekében alkalmazandó tisztességes és megkülönböztetéstől mentes feltételeket, így különösen a feleket terhelő méltányos árakat, költségeket.
 

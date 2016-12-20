@@ -6,7 +6,7 @@
 
 (3) E törvényben foglaltaktól a szolgáltató az előfizetői szerződésekben és az általános szerződési feltételekben csak akkor térhet el, ha az eltérést a törvény, illetve a felhatalmazása alapján kiadott Elnök által hozott rendelet kifejezetten megengedi. Az Elnök rendeletben meghatározhatja azon előfizetői szerződésekre és az általános szerződési feltételekre vonatkozó rendelkezések körét, amelyek alkalmazása üzleti előfizetők esetében nem kötelező. Kis- és középvállalkozások az előfizetői szerződés megkötésekor írásbeli nyilatkozattal kérhetik az egyéni előfizetőkre vonatkozó szabályok vonatkozásukban történő alkalmazását, amelyről a szolgáltató köteles részletes – az előnyöket és hátrányokat bemutató – tájékoztatást adni. A tájékoztatás megtörténtét a szolgáltató köteles igazolni. A tájékoztatás elmaradása esetén az előfizetői szerződés semmis.
 
-(4) A felek az egyedi előfizetői szerződésben az e törvényben, illetve az általános szerződési feltételekben foglaltaktól az előfizető javára egyező akarattal eltérhetnek.
+(4) A felek az egyedi előfizetői szerződésben az e törvényben és az általános szerződési feltételekben foglaltaktól az előfizető javára egyező akarattal eltérhetnek.
 
 (4a) Az előfizetői szerződés időtartama a felek megállapodása szerint lehet határozatlan vagy határozott.
 

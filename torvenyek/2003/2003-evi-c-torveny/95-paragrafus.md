@@ -1,14 +1,14 @@
-95. § (1) Ha a nyilvánosan elérhető elektronikus hírközlési szolgáltatás biztosítása érdekében az elektronikus hírközlési építmény elhelyezésére állami tulajdonban álló közterületen, meglévő elektronikus hírközlési építmények közös eszközhasználatával vagy – a 94. § (2a) bekezdése szerinti esetben – a fizikai infrastruktúra felhasználásával nincs lehetőség, az elektronikus hírközlési szolgáltató a hálózatüzemeltetőnél, a helyi önkormányzat vagy a magántulajdonban álló ingatlan tulajdonosánál (kezelőjénél, használójánál) kezdeményezi a elektronikus hírközlési építmény létesítésére irányuló megállapodás megkötését. Amennyiben ezen megállapodás 45 nap alatt nem jön létre, az elektronikus hírközlési építmény e § szerinti eljárásban elsősorban a hálózatüzemeltető fizikai infrastruktúráján, illetve másodsorban helyi önkormányzat tulajdonában vagy magántulajdonban álló ingatlanon (érintett ingatlan) is elhelyezhető.
+95. § (1) Ha a nyilvánosan elérhető elektronikus hírközlési szolgáltatás biztosítása érdekében az elektronikus hírközlési építmény elhelyezésére közterületen, meglévő elektronikus hírközlési építmények közös eszközhasználatával vagy a 94. § (2a) bekezdése szerinti fizikai infrastruktúra felhasználásával nincs lehetőség, az elektronikus hírközlési szolgáltató állami vagy helyi önkormányzati tulajdonban, vagy a magántulajdonban álló ingatlan tulajdonosánál kezdeményezheti az elektronikus hírközlési építmény létesítésére irányuló megállapodás megkötését. Amennyiben ezen megállapodás 30 nap alatt nem jön létre, az elektronikus hírközlési építmény e § szerinti eljárásban állami vagy helyi önkormányzati tulajdonban vagy magántulajdonban álló ingatlanon is elhelyezhető. A 94/A. § (3) bekezdése megfelelően irányadó ez esetben is.
 
-(2) A Hatóság a szolgáltató kérelmére szolgalmi vagy más használati jogot alapító határozatával az érintett ingatlan tulajdonosát – a nyilvánosan elérhető elektronikus hírközlési szolgáltatásokban megtestesülő közérdekből – korlátozhatja az ingatlan használatában, ha a szolgáltató bizonyítja, hogy
+(2) A Hatóság az elektronikus hírközlési szolgáltató kérelmére szolgalmi vagy más használati jogot alapító határozatával az érintett ingatlan tulajdonosát – a nyilvánosan elérhető elektronikus hírközlési szolgáltatásokban megtestesülő közérdekből – korlátozhatja az ingatlan használatában, ha
 
-a) az érintett ingatlan tulajdonosával való megállapodás érdekében minden tőle elvárhatót megtett,
+a) az elektronikus hírközlési szolgáltató bizonyítja, hogy az érintett ingatlan tulajdonosával való megállapodás érdekében minden tőle elvárhatót megtett, valamint
 
-b) az érintett hírközlési építmény elhelyezésére állami tulajdonban álló közterületen vagy meglévő elektronikus hírközlési építmények közös eszközhasználatával vagy más fizikai infrastruktúra elemeinek vagy magántulajdon esetén más hálózatüzemeltető fizikai infrastruktúrájának felhasználásával, környezetvédelmi, közegészségügyi, közbiztonsági, építésügyi vagy a 94. § (2d) bekezdésben meghatározott okok, illetve az elektronikus hírközlő hálózat sajátosságai miatt nincs lehetőség.
+b) az a nagy sebességű elektronikus hírközlő hálózat szükséges fejlesztése érdekében indokolt, és az ingatlan használatát lényegesen nem akadályozza.
 
-(3) A (2) bekezdés szerinti kérelem az elektronikus hírközlési építmény létesítésére vonatkozó engedélyezési eljárásban is előterjeszthető és elbírálható.
+(3) A (2) bekezdés szerinti kérelem az elektronikus hírközlési építmény létesítésére vonatkozó engedélyezési eljárásban is előterjeszthető és elbírálható. A Hatóság az engedélyezési eljárását a (2) bekezdés szerinti kérelem tárgyában folytatott eljárás jogerős befejezéséig felfüggeszti.
 
-(4) Az elektronikus hírközlési szolgáltató (2) bekezdés a) pontjának megfelelő magatartását vélelmezni kell, ha a megállapodás annak ellenére nem jött létre, hogy az érintett ingatlan tulajdonosának a kérelem előterjesztését megelőzően legalább 45 nappal a szolgalmi jog vagy más használati jog megállapodás útján történő alapítására olyan ajánlatot tett, amely tartalmazta
+(4) Az elektronikus hírközlési szolgáltató (2) bekezdés a) pontjának megfelelő magatartását vélelmezni kell, ha a megállapodás annak ellenére nem jött létre, hogy az érintett ingatlan tulajdonosa a (2) bekezdés szerinti kérelem előterjesztését megelőzően legalább 30 nappal a szolgalmi jog vagy más használati jog megállapodás útján történő alapítására tett ajánlatot átvette, és az ajánlat tartalmazta
 
 a) a létesíteni kívánt elektronikus hírközlési építmény megnevezését, annak jellemzőit, elhelyezésének helyét, módját és helyigényét,
 
@@ -24,13 +24,7 @@ f) az e) pont szerinti ellenértékre vonatkozó számításokat, valamint
 
 g) a (2) bekezdés szerinti hatósági eljárás lehetőségére vonatkozó figyelmeztetést.
 
-(4a) Az elektronikus hírközlési szolgáltató (2) bekezdés a) pontjának megfelelő magatartását vélelmezni kell akkor is, ha
-
-a) igazolja, hogy a (4) bekezdés szerinti tájékoztatást és ajánlattételt postai úton megküldte, de a címzett az átvételt megtagadta,
-
-b) igazolja, hogy a (4) bekezdés szerinti tájékoztatást és ajánlattételt postai úton megküldte, de azt a címzett nem vette át, és a kézbesítés megkísérléstől számítva tíz nap eredménytelenül telt el,
-
-c) igazolja, hogy a (4) bekezdés szerinti tájékoztatási és ajánlattételi kötelezettségének eleget tett, de az érintett ingatlan tulajdonosa az ajánlatot kifejezetten elutasította.
+(4a) Az elektronikus hírközlési szolgáltató (2) bekezdés a) pontjának megfelelő magatartását vélelmezni kell akkor is, ha igazolja, hogy a (4) bekezdés szerinti tájékoztatást és ajánlattételt az érintett ingatlan tulajdonosának közhiteles nyilvántartásban szereplő lakcímére vagy székhelyére (telephelyére) postai úton megküldte, de az a postai szolgáltatások nyújtásának és a hivatalos iratokkal kapcsolatos postai szolgáltatás részletes szabályairól, valamint a postai szolgáltatók általános szerződési feltételeiről és a postai szolgáltatásból kizárt vagy feltételesen szállítható küldeményekről szóló kormányrendelet szerinti bármely okból kézbesíthetetlen.
 
 (5) A hatósági határozatban meg kell határozni:
 
@@ -44,4 +38,16 @@ d) az elektronikus hírközlési építményen elhelyezhető elektronikus hírk�
 
 e) a környezet eredeti állapotának helyreállításához szükséges és elégséges feltételeket, valamint
 
-f) a korlátozásért – egy összegben vagy járadékban – fizetendő kártalanítás összegét.
+f)
+
+(6) A Hatóság (5) bekezdés szerinti határozata elleni fellebbezésnek a határozat végrehajthatóságára nincs halasztó hatálya.
+
+(7) A 96. § (1) bekezdés szerinti kártalanítás összegében az elektronikus hírközlési szolgáltató és az ingatlantulajdonos állapodik meg. Megállapodás hiányában, valamint a szolgalmi vagy más használati jog 94/A. § szerinti alapítása esetén a szolgalmi vagy más használati jogot alapító határozat jogerőssé válásától számított 15 napon belül az elektronikus hírközlési szolgáltató köteles a – saját költségére készítendő szakvéleményben foglalt – kártalanítási összeget az ingatlantulajdonos részére átadni vagy – ha ez az ingatlantulajdonos érdekkörében felmerült ok miatt nem lehetséges – annak javára a bíróságon kezelt letétekről szóló külön jogszabály rendelkezéseinek megfelelően bírósági letétbe helyezni és arról az ingatlan tulajdonosát hitelt érdemlően igazolható módon értesíteni. Ha a tájékoztatásra az ingatlantulajdonos érdekkörében felmerült ok miatt nem kerül sor, az elektronikus hírközlési szolgáltató köteles erről a Hatóságot a tájékoztatást kizáró ok igazolásával egyidejűleg tájékoztatni.
+
+(8) Ha a bírósági letétbe helyezést a kártalanítási összeg mértéke nem teszi lehetővé, úgy az elektronikus hírközlési szolgáltató a Hatóságnak igazolja az összeg rendelkezésre állását.
+
+(9) Az elektronikus hírközlési szolgáltató a határozatban foglalt jogainak gyakorlását csak az után kezdheti meg, hogy a kártalanítási összeget a (6)–(7) bekezdés szerint a tulajdonosnak átadta, letétbe helyezte, vagy az összeg rendelkezésre állását igazolta.
+
+(10) A kártalanítás egy összegben, pénzben jár, egyebekben a megtérítés módját illetően az itt nem szabályozott kérdésekben a kisajátítási kártalanításra vonatkozó szabályok szerint kell eljárni.
+
+(11) Ha az elektronikus hírközlési szolgáltató a kártalanítást, vagy a jogai gyakorlása során tevékenységével összefüggő kárt az ingatlan tulajdonosának nem fizeti meg, vagy az általa felajánlott és az ingatlan tulajdonosa által át nem vett összeg, valamint a fizetési biztosíték a kártalanítást nem fedezi, vagy az ingatlan tulajdonosa a kártalanítás összegével nem ért egyet, az ingatlan tulajdonosa az igényét bírósági eljárás során érvényesítheti.
