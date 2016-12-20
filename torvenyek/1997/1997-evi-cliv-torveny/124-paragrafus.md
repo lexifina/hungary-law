@@ -8,4 +8,4 @@
 
 (4) Az akkreditációs felülvizsgálatot a miniszter által kijelölt szerv végzi, a felülvizsgálat alapján az akkreditációs dokumentumot a miniszter adja ki.
 
-(5) Az akkreditációs felülvizsgálati eljárásért a miniszternek az adópolitikáért felelős miniszterrel egyetértésben kiadott rendeletében meghatározott igazgatási szolgáltatási díjat kell fizetni.
+(5) Az akkreditációs felülvizsgálati eljárásért költségtérítést kell fizetni.
