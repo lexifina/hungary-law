@@ -8,13 +8,13 @@
 
 | 3. |  |  | rendészeti | Law Enforcement | bűnügyi igazgatási | Criminal Administration | a) bűnügyi igazgatásszervező, bűnügyi nyomozó szakirányon b) bűnügyi igazgatásszervező, bűnügyi hírszerző szakirányon c) bűnügyi igazgatásszervező, gazdaságvédelmi nyomozó szakirányon d) bűnügyi igazgatásszervező, pénzügyi nyomozó szakirányon | a) Crime Administration Manager in Crime Investigation b) Crime Administration Manager in Criminal Intelligence c) Crime Administration Manager in Economic Crime Investigaton d) Crime Administration Manager in Finance Investigation | 6 |
 
-| 4. |  |  |  |  | bűnügyi | Criminal Policing | a) bűnügyi nyomozó tiszt b) bűnügyi felderítő tiszt c) gazdaságvédelmi nyomozó tiszt d) pénzügyi nyomozó | a) Criminal Investigation Officer b) Criminal Intelligence Officer c) Economic Crime Investigation Officer d) Financial Crime Investigation Officer. | 6 |
+| 4. |  |  |  |  | bűnügyi | Criminal Policing | a) bűnügyi nyomozó tiszt b) bűnügyi felderítő tiszt c) gazdaságvédelmi nyomozó tiszt d) pénzügyi nyomozó | a) Criminal Investigation Officer b) Criminal Intelligence Officer c) Economic Crime Investigation Officer d) Financial Crime Investigation Officer | 6 |
 
 | 5. |  |  |  |  | rendészeti igazgatási | Law Enforcement Administration | a) rendészeti igazgatásszervező, biztonsági szakirányon b) rendészeti igazgatásszervező, büntetés-végrehajtási szakirányon c) rendészeti igazgatásszervező, határrendészeti szakirányon d) rendészeti igazgatásszervező, igazgatásrendészeti szakirányon e) rendészeti igazgatásszervező, közlekedésrendészeti szakirányon f) rendészeti igazgatásszervező, közrendvédelmi szakirányon g) rendészeti igazgatásszervező, migrációs szakirányon h) rendészeti igazgatásszervező, vám- és jövedéki igazgatási szakirányon | a) Law Enforcement Administration Manager in Private Security b) Law Enforcement Administration Manager in Prison Studies c) Law Enforcement Administration Manager in Border Policing d) Law Enforcement Administration Manager in Administrive Policing e) Law Enforcement Administration Manager in Traffic Policing f) Law Enforcement Administration Manager in Public Order Policing g) Law Enforcement Administration Manager in Migration Policing h) Law Enforcement Administration Manager in Customs and Excise Administration | 6 |
 
 | 6. |  |  |  |  | rendészeti | Law Enforcement | a) bevándorlási és állampolgársági ügyintéző b) büntetés-végrehajtási tiszt c) határrendészeti rendőrtiszt d) igazgatásrendészeti rendőrtiszt e) közlekedésrendészeti rendőrtiszt f) közrendvédelmi rendőrtiszt g) vám- és pénzügyőr | a) Official in Charge of Immigration and Nationality Procedures b) Corrections Commissioned Officer c) Border Policing Officer d) Administrative Policing Officer e) Traffic Policing Officer f) Public Order Officer g) Customs and Finance Guard Officer | 6 |
 
-| 7. |  |  | rendészeti | Law Enforcement | katasztrófavédelem | Disaster Management | a) katasztrófavédelmi szervező, katasztrófavédelmi műveleti szakirányon b) katasztrófavédelmi szervező, tűzvédelmi és mentésirányítási szakirányon c) katasztrófavédelmi szervező, iparbiztonsági szakirányon | a) Disaster Manager in Disaster Management Operational b) Disaster Manager in Fire Prevention and Rescue Control c) Disaster Manager in Industry Safety | 6 |
+| 7. |  |  | rendészeti | Law Enforcement | katasztrófa- védelem | Disaster Management | a) katasztrófavédelmi szervező, katasztrófavédelmi műveleti szakirányon b) katasztrófavédelmi szervező, tűzvédelmi és mentésirányítási szakirányon c) katasztrófavédelmi szervező, iparbiztonsági szakirányon | a) Disaster Manager in Disaster Management Operational b) Disaster Manager in Fire Prevention and Rescue Control c) Disaster Manager in Industry Safety | 6 |
 
 | 8. |  |  | nemzetbiztonsági | National Security | nemzetbiztonsági | National Security Studies | nemzetbiztonsági szakértő | National Security Expert | 6 |
 
@@ -28,9 +28,11 @@
 
 | 13. |  |  |  |  | katonai logisztika | Military Logistics | katonai logisztikai vezető | Military Logistic Leader | 6 |
 
-| 14. |  |  | nemzetközi és európai közszolgálati | International and European Public Service | nemzetközi igazgatási | International Public Management | nemzetközi közszolgálati menedzser | International Public Service Manager | 6 |
+| 14. |  |  |  |  | állami légiközlekedési | State Aviation | a) állami légijármű-vezető tiszt b) katonai repülésirányító tiszt | a) State Aviation Pilot b) Military Aerospace Control Officer | 6 |
 
-| 15. |  |  |  |  | nemzetközi biztonság- és védelempolitikai | International Security and Defence Policy | nemzetközi biztonság- és védelempolitikai szakreferens | International Security and Defence Policy Officer | 6 |
+| 15. |  |  | nemzetközi és európai közszolgálati | International and European Public Service | nemzetközi igazgatási | International Public Management | nemzetközi közszolgálati menedzser | International Public Service Manager | 6 |
+
+| 16. |  |  |  |  | nemzetközi biztonság- és védelempolitikai | International Security and Defence Policy | nemzetközi biztonság- és védelempolitikai szakreferens | International Security and Defence Policy Officer | 6 |
 
 ## AZ ALAPKÉPZÉSI SZAKOK KÉPZÉSI ÉS KIMENETI KÖVETELMÉNYEI
 
@@ -3082,6 +3084,342 @@
 
 ## Az alapfokozat megszerzéséhez angol nyelvből államilag elismert legalább STANAG 6001. 2.2.2.2. nyelvvizsga-bizonyítvány szükséges.
 
+## 12/A. ÁLLAMI LÉGIKÖZLEKEDÉSI ALAPKÉPZÉSI SZAK
+
+## 1. Az alapképzési szak megnevezése: állami légiközlekedési
+
+## 1.1. Az alapképzési szak angol nyelvű megjelölése: State Aviation
+
+## 2. Az alapképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése
+
+## 2.1. végzettségi szint: alapfokozat (baccalaureus, bachelor; rövidítve: BSc fokozat)
+
+## EKKR: 6
+
+## MKKR: 6
+
+## 2.2. szakképzettség: szakirányoknak megfelelő
+
+## 2.3. választható szakirányok:
+
+## 2.3.1. állami légijármű-vezető
+
+## 2.3.2. katonai repülésirányító
+
+## 2.4. a választható szakirányok angol nyelvű megjelölése:
+
+## 2.4.1. State Aviation Pilot
+
+## 2.4.2. Military Aerospace Control
+
+## 2.5. szakirány esetén a szakképzettség:
+
+## 2.5.1. állami légijármű-vezető tiszt
+
+## 2.5.2. katonai repülésirányító tiszt
+
+## 2.6. a szakképzettség angol nyelvű megjelölése:
+
+## 2.6.1. State Aviation Pilot
+
+## 2.6.2. Military Aerospace Control Officer
+
+## 3. Képzési terület: államtudományi
+
+## 4. Az NKE tv. 3. §-ában meghatározott felsőoktatási terület: katonai
+
+## 5. A képzési idő félévekben: 8 félév
+
+## 6. Az alapfokozat megszerzéséhez összegyűjtendő kreditek száma: 240 kredit
+
+## 6.1. A szak orientációja: kiegyensúlyozott (~40–60%)
+
+## 6.2. A szakdolgozat elkészítéséhez rendelt kreditérték: 10 kredit
+
+## 6.3. Intézményen kívüli összefüggő gyakorlati képzés minimális kreditértéke: –
+
+## 6.4. A szabadon választható tantárgyakhoz rendelhető minimális kreditérték: 12 kredit
+
+## 6.5. A szak képzési területek egységes osztályozási rendszer szerinti (ISCED) tanulmányi területi besorolása: 863
+
+## 6.6. Szakirány esetén az ahhoz rendelhető minimális kreditérték: 60 kredit
+
+## 7. Az alapképzési szak képzési célja, az általános és a szakmai kompetenciák:
+
+## A képzés célja olyan felsőfokú végzettségű légiközlekedési szakemberek képzése, akik a szükséges általános (katonai) és speciális (légiközlekedési) alapismeretekkel rendelkeznek, képesek az állami célú légiközlekedés nemzeti és nemzetközi elvárások szerinti sajátos (védelmi) feladatainak végrehajtására. Megszerzett ismereteik birtokában alkalmasak az állami szféra repüléssel és légiközlekedéssel foglalkozó szervezeteinél a szakirányuknak megfelelően légijármű-vezetői és repülésirányítói tevékenység ellátására, légijárművek légi és földi üzemeltetésére, légi vezetési, valamint-irányítási rendszerek kezelésére, a repülési feladatok tervezésével, szervezésével, biztosításával kapcsolatos teendők végzésére. A szakon végzettek kellő mélységű elméleti ismeretekkel rendelkeznek a képzés második ciklusban történő folytatásához.
+
+## 7.1. Az elsajátítandó szakmai kompetenciák
+
+## 7.1.1. Tudás:
+
+## 1. Ismeri a közszolgálati alapismereteket, tisztában van a közigazgatás funkcióival, felépítésével és működésével, a közszolgálat más területeivel való együttműködés módjaival.
+
+## 2. Alapvetően ismeri az összfegyvernemi harc megvívásával kapcsolatos alapismereteket, annak főbb jellemzőit, a harctámogatás, a harckiszolgáló támogatás, a haderőnemek és a fegyvernemek szervezeti felépítését, harceljárásait.
+
+## 3. Rendelkezik alapvető vezetői alapismeretekkel, tisztában van a vezetői kompetenciákkal és a beosztottak eredményes irányításához szükséges alapvető ismeretekkel, valamint a beosztottakat motiváló képességekkel.
+
+## 4. Rendelkezik az általános gazdálkodási, jogi, korszerű geoinformációs, infokommunikációs rendszerek alapjaival.
+
+## 5. Ismeri a légiközlekedési terület műveléséhez szükséges általános természettudományos törvényeket, jelenségeket, folyamatokat.
+
+## 6. Ismeri az elektrotechnika, a mechanika alapfogalmait, alaptörvényszerűségeit, az alapjelenségek leírásának módját.
+
+## 7. Behatóan ismeri a repülés (légiközlekedés) történetét, fontosabb eseményeit.
+
+## 8. Ismeri a repülésbiztonságot befolyásoló tényezőket, az SMS (Safety Management System, Repülésbiztonsági Rendszer) alapjait és a repülésbiztonsági előírásokat.
+
+## 9. Ismeri az általános és a légi járművek üzemeltetésével kapcsolatos környezetvédelmi előírásokat, eljárásokat.
+
+## 10. Alapvetően ismeri a repüléselmélethez kapcsolódó alapfogalmakat, összefüggéseket.
+
+## 11. Alapvetően ismeri a légijárművek szerkezetét, fő rendszereit, berendezéseit, azok funkcióit.
+
+## 12. Ismeri a meteorológia alapfogalmait, jelenségeit, azok repülésre gyakorolt hatását és a repülésre veszélyes légköri folyamatokat, valamint a repülésmeteorológiai támogatás alapelveit.
+
+## 13. Ismeri a repülésben alkalmazott navigációs berendezéseket, és a hozzájuk kapcsolódó navigációs eljárásokat.
+
+## 14. Ismeri a repülőtereken folyó légi és földi műveleteket biztosító technikai eszközöket, berendezéseket, azok alkalmazásának módjait.
+
+## 15. Ismeri a légiközlekedés és a repülés nemzetközi és hazai szervezeteit, az általuk kiadott legfontosabb előírásokat, jogszabályokat.
+
+## 16. Ismeri a légtérigénylés és a légtérfelhasználás alapvető módját és módszereit.
+
+## 17. Ismeri a repülés alapvető szabályait, a légiforgalmi és a repülési eljárásokat.
+
+## 18. Ismeri és alkalmazni tudja a nemzetközi rádió-távbeszélő kezelői ismereteket és a rádióforgalmazás szabályait.
+
+## 19. Ismeri az emberi tényezők helyét, szerepét struktúráját a légiközlekedésben.
+
+## 20. Ismeri az állami és a polgári légiközlekedésben alkalmazott repüléstájékoztató rendszereket, adatbázisokat, azok felhasználásának lehetőségeit.
+
+## 21. Ismeri a NATO légi vezetési és irányítási rendszerének elemeit, a légtérellenőrzésre vonatkozó dokumentumok tartalmát a teljesítésben részt vevő erők, eszközöket.
+
+## 22. Ismeri a NATO összhaderőnemi légi műveletek megvalósításának elveit, a végrehajtásban részt vevő erők, eszközök feladatait.
+
+## 23. Kellő mélységű ismeretekkel rendelkezik a képzés második ciklusában történő folytatáshoz.
+
+## 7.1.2. Képesség:
+
+## 1. Képes magas szinten alkalmazni a szakterminológiát magyarul és angolul is.
+
+## 2. Képes idegen nyelvű szakirodalom olvasására, feldolgozására.
+
+## 3. Képes a munkaköréhez kapcsolódó dokumentumok, nyomtatványok, jegyzőkönyvek, feljegyzések és emlékeztetők önálló elkészítésére, okmányok kitöltésére, a munkaköréhez kapcsolódó események szervezésére, technikai előkészítésére.
+
+## 4. Képes a munkájához szükséges módszerek és eljárások kiválasztására, azok egyedi és komplex alkalmazására.
+
+## 5. Képes a munkájával járó pszichikai és fizikai stresszel szemben alkalmazkodásra, illetve ismeri a stresszkezelés intézményi és egyéni megoldásait.
+
+## 6. Képes az együttműködésben folyó munkavégzésre.
+
+## 7. Képes az angol nyelvű rádióforgalmazásra.
+
+## 8. Képes a meteorológiai helyzet elemzésére, értékelésére.
+
+## 9. Képes a repülésbiztonsági szabályok betartására.
+
+## 10. A munkaköri feladatainak ellátásához megfelelő kitartással és monotóniatűréssel rendelkezik.
+
+## 7.1.3. Attitűd:
+
+## 1. Nyitott ismereteinek gyarapítása iránt.
+
+## 2. Feladatai ellátása során együttműködési készség jellemzi, törekszik a beosztottak bevonására a döntési folyamatokba.
+
+## 3. Törekszik feladatellátása során a megfelelő önkontroll, tolerancia, empátia és az előítéletektől mentes gondolkodás és viselkedés tanúsítására.
+
+## 4. Munkájában és emberi kapcsolataiban megbízhatóság jellemzi.
+
+## 5. Elkötelezett a minőségi szakmai munkavégzés iránt, különös tekintettel a légiközlekedés-biztonság szempontjainak figyelembevételére.
+
+## 6. Nyitott szakterülete új eredményei, innovációi iránt, törekszik azok megismerésére, megértésére és alkalmazására, elkötelezett önmaga folyamatos képzésére.
+
+## 7.1.4. Autonómia és felelősség:
+
+## 1. A légiközlekedés területén megjelenő folyamatokban képes önállóan döntéseket hozni, azokat felelősséggel, a jogszabályi keretek figyelembevételével végrehajtani.
+
+## 2. Tisztában van döntéseinek, tevékenységének a légiközlekedés-biztonságra gyakorolt hatásaival, következményeivel.
+
+## 7.2. Szakirány(ok) sajátos kompetenciái
+
+## 7.2.1. Szakirány megnevezése: állami légijármű vezető
+
+## 7.2.1.1. Tudás:
+
+## 1. Ismeri a kiképzésre rendszeresített repülő eszközök felépítését, fedélzeti rendszereit és berendezéseit, azok működését, üzemeltetési rendjét.
+
+## 2. Ismeri a harcászati repülő vagy helikopter erők hadműveleti alkalmazásának elveit, rendszerét.
+
+## 3. Magas szinten ismeri és alkalmazni tudja a navigációs és teljesítményszámításhoz szükséges elméleti alapokat.
+
+## 4. Ismeri és alkalmazni tudja a repülések megszervezéséhez, megtervezéséhez szükséges eljárásokat.
+
+## 5. Ismeri és alkalmazni tudja a látás utáni navigációs eljárásokat és a műszeres navigációs eljárásokat, valamint a modern navigációs eszközök használatát.
+
+## 6. Ismeri az egyéni mentőeszköz felépítését, működését, alkalmazásának feltételeit és végrehajtásának szabályait.
+
+## 7. Ismeri a repülés pillanatnyi és hosszan tartó egészségügyi állapotát befolyásoló tényezőinek hatását a saját munkavégző képességére.
+
+## 7.2.1.2. Képesség:
+
+## 1. Képes látás utáni, műszeres, kötelék és éjszakai repülések végrehajtására.
+
+## 2. Képes a repülés megtervezésére, a repülési terv elkészítésére, leadására, a szükséges léginavigációs és teljesítményszámítás elvégzésére.
+
+## 3. Képes a repülőgép berendezéseinek és rendszereinek, fedélzeti műszereinek és műszerrendszereinek a Légi Üzemeltetési Utasításban leírtak szerinti üzemeltetésére, az esetlegesen bekövetkező meghibásodások és különleges esetek felismerésére és szakszerű kezelésére.
+
+## 4. Képes a fedélzeti rádió- és rádiónavigációs berendezések beállítására, használatára.
+
+## 5. Képes az angol nyelvű rádióforgalmazásra.
+
+## 6. Képes a meteorológiai helyzet elemzésére, értékelésére, a repülést érintő szükséges döntés meghozatalára, a meteorológiai táviratok és jelentések értelmezésére.
+
+## 7. Képes az egyéni mentőeszköz biztonságos használatára.
+
+## 8. Képes a repülési teljesítményét negatívan befolyásoló élettani jelenségek felismerésére (hipoxia), az ennek csökkentéséhez szükséges cselekvéssor végrehajtására.
+
+## 7.2.1.3. Attitűd:
+
+## 1. Nyitott a repüléssel kapcsolatos szakmai ismereteinek gyarapítása iránt.
+
+## 2. Feladatai ellátása során együttműködési készség jellemzi, törekszik a munkatársainak bevonására a döntési folyamatokba.
+
+## 3. Törekszik feladatellátása során a megfelelő önkontroll, tolerancia, empátia és az előítéletektől mentes gondolkodás és viselkedés tanúsítására.
+
+## 4. Munkájában és emberi kapcsolataiban megbízhatóság jellemzi.
+
+## 5. Elkötelezett a precíz, minőségi szakmai munkavégzés iránt, különös tekintettel a repülésbiztonság szempontjainak figyelembevételére.
+
+## 6. Nyitott szakterülete új eredményei, innovációi iránt, törekszik azok megismerésére, megértésére és alkalmazására, elkötelezett önmaga folyamatos képzésére.
+
+## 7.2.1.4. Autonómia és felelősség:
+
+## 1. A repülés során megjelenő folyamatokban képes önállóan döntéseket hozni, azokat felelősséggel, a jogszabályi keretek figyelembevételével végrehajtani.
+
+## 2. Tisztában van döntéseinek, tevékenységének a repülésbiztonságra gyakorolt hatásaival, következményeivel.
+
+## 7.2.2. Szakirány megnevezése: katonai repülésirányító
+
+## 7.2.2.1. Tudás:
+
+## 1. Ismeri a munkaköre ellátásában alkalmazott híradó, informatikai és vezetéstechnikai eszközök kezelését.
+
+## 2. Ismeri az alapvető légiforgalmi és légvédelmi irányítás során alkalmazott eljárásokat.
+
+## 3. Ismeri a radarirányítási eljárásokat és a hozzá kapcsolódó alapvető módszereket.
+
+## 4. Ismeri az irányítás során alkalmazott biztonsági rendszabályokat és elkülönítési módszereket.
+
+## 5. Ismeri a Légierő repülő technikájának főbb harcászat-technikai adatait, harci lehetőségeit.
+
+## 6. Ismeri az alkalmazott radarok alapvető harcászat-technikai adatait, üzemmódjait felhasználásának lehetőségeit.
+
+## 7. Ismeri az irányításhoz szükséges navigációs számvetések végrehajtását.
+
+## 8. Ismeri a NATO-ban alkalmazott rávezetési módszereket, irányítási típusokat, a rávezetések végrehajtásához szükséges szakterminológiát.
+
+## 9. Ismeri a légiforgalmi irányítás és a vadászirányítás során alkalmazott biztonsági rendszabályokat.
+
+## 10. Ismeri a légiforgalmi és a légvédelmi irányító szolgálatok működési gyakorlatát, ellátásának, felelősségük megoszlásának szabályait, a körzeti, a bevezető és a repülőtéri irányító, a repüléstájékoztató, tanácsadó és a riasztó szolgálatok fő feladatait.
+
+## 7.2.2.2. Képesség:
+
+## 1. Képes a repülésirányításban rendszeresített berendezések és technikai eszközök hatékony alkalmazására.
+
+## 2. Képes a légiforgalmi és légvédelmi, valamint a radarirányítás során megismert eljárások hatékony alkalmazására.
+
+## 3. Képes az irányítás során alkalmazott biztonsági rendszabályok figyelembevételével történő elkülönítési eljárások kiválasztására és alkalmazására.
+
+## 4. Képes az alkalmazott radar berendezések által előállított légi helyzetképek alapján történő döntések meghozatalára és ezek végrehajtására.
+
+## 5. Képes navigációs ismereteinek gyakorlati alkalmazására.
+
+## 6. Képes a NATO standard eljárásrend alkalmazására a légiforgalmi és légvédelmi irányítási folyamatban.
+
+## 7. Képes a légiforgalmi és a vadászirányítás biztonsági rendszabályainak betartása mellett végezni feladatát.
+
+## 8. Képes a feladatai végrehajtásának során esetlegesen fellépő teljesítménycsökkenés felismerésére és ennek hatásának csökkentésére.
+
+## 7.2.2.3. Attitűd:
+
+## 1. Nyitott a repülésirányítással kapcsolatos szakmai ismereteinek gyarapítása iránt.
+
+## 2. Feladatai ellátása során együttműködési készség jellemzi, törekszik a munkatársainak bevonására a döntési folyamatokba.
+
+## 3. Törekszik feladatellátása során a megfelelő önkontroll, tolerancia, empátia és az előítéletektől mentes gondolkodás és viselkedés tanúsítására.
+
+## 4. Munkájában és emberi kapcsolataiban megbízhatóság jellemzi.
+
+## 5. Elkötelezett a minőségi szakmai munkavégzés iránt, különös tekintettel a légiközlekedés-biztonság szempontjainak figyelembevételére.
+
+## 6. Nyitott szakterülete új eredményei, innovációi iránt, törekszik azok megismerésére, megértésére és alkalmazására, elkötelezett önmaga folyamatos képzésére.
+
+## 7.2.2.4. Autonómia és felelősség:
+
+## 1. A légiforgalmi irányítás szakterületén megjelenő folyamatokban képes önállóan döntéseket hozni, azokat felelősséggel, a jogszabályi keretek figyelembevételével végrehajtani.
+
+## 2. Tisztában van döntéseinek, tevékenységének a légiközlekedés-biztonságra gyakorolt hatásaival, következményeivel.
+
+## 8. Az alapképzés jellemzői:
+
+## 8.1. Szakmai jellemzők
+
+## 8.1.1. A szakképzettség szempontjából meghatározó diszciplínák, tudományágak, illetve szakterületek, amelyekből a szak felépül:
+
+## 8.1.1.1. Alapozó ismeretek: 77–94 kredit
+
+## – katonai ismeretek: 25–30 kredit
+
+## (szabályzatismeret, lövészeti felkészítés, harcászat, katonai testnevelés)
+
+## – közszolgálati alapismeretek: 28–32 kredit
+
+## (biztonsági tanulmányok, közszolgálati alapismeretek, a közszolgálati alapvizsga ismeretanyaga, közszolgálati életpályák, közszolgálati logisztika, alkotmányjog, az állam szervezete)
+
+## – gazdasági és humán ismeretek: 10–14 kredit
+
+## (hadijog, közgazdaságtan, pszichológia, vezetői és menedzsment ismeretek, minőségbiztosítás, környezetvédelem)
+
+## – természettudományos alapismeretek: 14–18 kredit
+
+## (matematika, fizika, elektrotechnika, mechanika, katonai infokommunikációs rendszerek)
+
+## 8.1.1.2. Szakmai törzsanyag ismeretkörei: 81–99 kredit
+
+## – szakmai törzsanyag kötelező ismeretkörei: 54–66 kredit
+
+## (repüléstörténet, repülésbiztonság, repüléselmélet, emberi tényező, repülés meteorológia, légi navigáció, légijármű általános ismeret, légi jog, szakharcászat)
+
+## – szakmai törzsanyag kötelezően választható ismeretkörei: 27–33 kredit
+
+## (repülőterek és berendezéseik, légtérigénybevétel és légtérfelhasználás, repülési szabályok, légiforgalom szervezés, rádió-távbeszélő kezelői ismeretek, légierő harcászat)
+
+## 8.1.1.3. Differenciált szakmai ismeretek állami légijármű vezető: 54–66 kredit
+
+## [hajózó testnevelés, mentőeszköz ismeret, ATPL elmélet, üzemeltetési (légi, földi) eljárások, repülés gyakorlata, légierő harcászat]
+
+## 8.1.1.4. Differenciált szakmai ismeretek katonai repülésirányító: 54–66 kredit
+
+## (Radarirányítás elmélete és gyakorlata, légiforgalmi/légvédelmi irányítás eljárásai, légiforgalmi/légvédelmi irányítás gyakorlata, kényszerhelyzeti szimuláció, légierő harcászat)
+
+## – szakdolgozat.
+
+## 8.1.1.5. Választható tantárgyak: 12–15 kredit
+
+## (csillagászati földrajz, pszicho-fizikai teljesítmény és korlátai a repülésben, repülő és légvédelmi gyakorlatok tervezése, kényszerhelyzeti kommunikáció, modern légi felderítés, pilóta nélküli repülés, szimulációs rendszerek stb.)
+
+## 8.2. Idegennyelvi követelmény: Az alapfokozat megszerzéséhez angol nyelvből államilag elismert STANAG 6001. szerint 2.2.2.2. nyelvvizsga-bizonyítvány szükséges. A végzettek minimum ICAO LEVEL 4 vizsgával kell, hogy rendelkezzenek.
+
+## 8.3. Szakmai gyakorlatra vonatkozó követelmények:
+
+## Az intézményen kívül teljesítendő szakmai (csapat) gyakorlat kritériumfeltétel. A szakmai és csapatgyakorlatok összegzett időtartama a teljes képzés során: 12–18 hét.
+
+## 8.4. A képzést megkülönböztető speciális jegyek:
+
+## A hivatásos repülőgép-vezető oklevél nem jogosít hivatásos repülőgép-vezető tevékenység ellátására. Repülőgép-vezető tevékenységre jogosultság, szakszolgálati engedély az állami célú légiközlekedésért felelős hatóság akkreditált vizsgarendszerében eredményes elméleti és gyakorlati vizsga letételével szerezhető.
+
+## Az alapfokozatú végzettséget igazoló oklevél kiadásának feltétele a repülőgép-vezető tevékenységre jogosító szakszolgálati engedély megszerzése. A képzés – részben vagy egészében – megszervezhető idegen nyelven is.
+
 ## 13. NEMZETKÖZI IGAZGATÁSI ALAPKÉPZÉSI SZAK
 
 ## 1. Az alapképzési szak megnevezése: nemzetközi igazgatási (International Public Management)
@@ -5531,255 +5869,3 @@ A nemzetbiztonsági feladatok technikai-műveleti támogatása; a nemzetbiztons�
 9.3.3. Terrorelhárítási specializáció
 
 A biztonság és védelem kérdései; a kiber-terrorizmus és az ellene való védekezés; a terrorfenyegetettség-értékelés stratégiai elemző módszerei; hírszerzés vezette műveletek a terrorelhárításban; profilalkotás a terrorfelderítésben; terrorcselekmények nyomozása; titkos információgyűjtés szerepe a terrorelhárításban; válságkezelés és krízis-kommunikáció.
-
-9.4. Szabadon választható tantárgyak: 6–8 kredit
-
-10. Szakmai gyakorlat:
-
-A szakmai gyakorlat időtartamát a felsőoktatási intézmény tanterve határozza meg.
-
-11. Idegennyelvi követelmények:
-
-A mesterfokozat megszerzéséhez legalább egy élő idegen nyelvből államilag elismert, felsőfokú (C1) komplex típusú nyelvvizsga vagy két legalább középfokú (B2) – amelyből az egyik angol nyelvi – komplex típusú államilag elismert nyelvvizsga vagy ezzel egyenértékű érettségi bizonyítvány vagy okirat megszerzése szükséges.
-
-12. A mesterképzésbe való felvétel feltételei:
-
-A hallgatónak a kredit megállapítása alapjául szolgáló ismeretek – felsőoktatási törvényben meghatározott – összevetése alapján elismerhető legyen legalább 60 kredit a korábbi tanulmányai szerint az alábbi ismeretkörökben: társadalomtudományi és természettudományi ismeretek, állam és jogtudományi ismeretek, rendészettudományi ismeretek, hadtudományi ismeretek, vezetési ismeretek, biztonságpolitikai ismeretek, általános igazgatási ismeretek, szakigazgatási ismeretek, közszolgálati ismeretek, európai uniós ismeretek, műszaki ismeretek, haditechnikai ismeretek, informatikai ismeretek, nemzetbiztonsági ismeretek.
-
-A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 30 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított két féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint kell megszerezni.
-
-11. NEMZETKÖZI BIZTONSÁG- ÉS VÉDELEMPOLITIKAI MESTERKÉPZÉSI SZAK
-
-1. A mesterképzési szak megnevezése: nemzetközi biztonság- és védelempolitikai (International Security and Defence Policy)
-
-2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
-
-– végzettségi szint: mesterfokozat (magister, master; rövidítve: MSc)
-
-– szakképzettség: okleveles nemzetközi biztonság- és védelempolitikai szakértő
-
-– a szakképzettség angol nyelvű megjelölése: Expert in International Security and Defence Policy
-
-3. Képzési terület: államtudományi
-
-4. Az NKE tv. 3. §-ában meghatározott felsőoktatási terület: nemzetközi és európai közszolgálati
-
-5. A mesterképzésbe történő belépésnél előzményként elfogadott szakok:
-
-5.1. Teljes kreditérték beszámításával vehető figyelembe: a nemzetközi biztonság- és védelempolitikai alapképzési szak, valamint a biztonság- és védelempolitikai alapképzési szak.
-
-5.2. A bemenethez a 12. pontban meghatározott kreditek teljesítésével elsősorban számításba vehető alapképzési szakok: a nemzetközi tanulmányok szak.
-
-5.3. A 12. pontban meghatározott kreditek teljesítésével vehetők figyelembe továbbá azok a legalább alapfokozatot adó alapképzési szakok, illetve a felsőoktatásról szóló 1993. évi LXXX. törvény szerinti főiskolai szintű szakok, amelyeket a kredit megállapításának alapjául szolgáló ismeretek összevetése alapján a felsőoktatási intézmény kreditátviteli bizottsága elfogad.
-
-6. A képzési idő félévekben: 4 félév
-
-7. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 120 kredit
-
-7.1. Az alapozó ismeretekhez rendelhető kreditérték: 15–30 kredit
-
-7.2. A szakmai törzsanyaghoz rendelhető kreditérték: 40–50 kredit
-
-7.3. A differenciált szakmai anyaghoz rendelhető kreditérték a diplomamunkával együtt: 45–60 kredit
-
-7.4. A szabadon választható tantárgyakhoz rendelhető kreditek minimális értéke: 6 kredit
-
-7.5. A diplomamunkához rendelt kreditérték: 20 kredit
-
-7.6. A gyakorlati ismeretek aránya: az intézményi tanterv szerint legalább 30%
-
-8. A mesterképzési szak képzési célja, az elsajátítandó szakmai kompetenciák:
-
-Olyan megalapozott elméleti tudással rendelkező szakemberek képzése, akik megfelelő ismeretekkel rendelkeznek Magyarország biztonság- és védelmi politikájának tervezéséhez, továbbá a védelmi szervezetekben, a központi és a helyi védelmi közigazgatásban szerepet játszó intézmények és szervek működtetéséhez.
-
-A mesterfokozattal rendelkezők képesek a NATO valamelyik hivatalos nyelvén kommunikálni, ismerik és készség szinten birtokolják az idegen nyelvű érintkezés – a NATO-ban, illetve az Európai Unióban elvárt – hivatalos formáit.
-
-8.1. A mesterképzési szakon szerezhető ismeretek:
-
-– biztonságelméletek,
-
-– biztonsági és védelmi rendszer stratégiai tervezése, értékelése, elemzése,
-
-– védelmi szervezetek működése,
-
-– biztonság- és védelempolitikai döntéshozatali folyamat ismerete,
-
-– döntési alternatívák kidolgozásához szükséges ismeretek.
-
-8.2. A mesterképzési szakon végzettek alkalmasak:
-
-– a komplex biztonságelméleti, stratégiai és katonai ismeretek alkotó alkalmazására,
-
-– az elméleti biztonság- és védelempolitikai ismeretek elemző alkalmazására,
-
-– a biztonságot fenyegető veszélyek és kockázatok elemzésére és értékelésére,
-
-– részvételre a biztonság- és védelempolitikai döntéshozatal folyamataiban,
-
-– kellő gyakorlat megszerzése után irányító, vezető beosztások betöltésére a védelmi igazgatás központi, illetve regionális intézményeiben,
-
-– feladatok meghatározására a végrehajtó apparátus számára,
-
-– a nemzetközi szervezetek és intézmények tevékenységébe való bekapcsolódásra, ismereteik folyamatos fejlesztésére.
-
-8.3. A szakképzettség gyakorlásához szükséges személyes adottságok és készségek:
-
-– elemzőkészség,
-
-– problémafelismerő és -megoldó készség,
-
-– lényeglátás, az összefüggések felismerése,
-
-– széleskörű műveltség (történelem, földrajz),
-
-– információ-feldolgozási képesség,
-
-– a szakmai továbbképzéshez szükséges pozitív hozzáállás,
-
-– kezdeményezés, személyes felelősségvállalás, döntéshozatali képesség.
-
-9. A mesterfokozat és a szakképzettség szempontjából meghatározó ismeretkörök:
-
-9.1. Az alapképzésben megszerzett ismereteket tovább bővítő, mesterfokozathoz szükséges alapozó ismeretkörök:
-
-társadalomtudományi ismeretek: 15–30 kredit
-
-politikatörténet, hadügy, pszichológia, kommunikáció, térképészet.
-
-9.2. A szakmai törzsanyag kötelező ismeretkörei: 40–50 kredit
-
-védelmi szervezetek szociológiai kérdései, katonadiplomácia, nemzetközi és hadijog, hadművelet elmélete, biztonságelméletek, az Európai Unió biztonság- és védelempolitikája, hadászat, nemzetközi biztonsági intézmények, NATO-tanulmányok.
-
-9.3. A szakmai törzsanyag kötelezően választható ismeretkörei: 45–60 kredit
-
-– differenciált szakmai ismeretek:
-
-koalíciós és nemzeti stratégiák, a 21. század biztonsági kihívásai, nemzetközi politikai gazdaságtan, védelmi tervezés, válságkörzetek kutatása;
-
-– diplomamunka: 20 kredit.
-
-10. A képzéshez kapcsolt gyakorlat követelményei:
-
-A szakmai gyakorlat időtartamát a felsőoktatási intézmény tanterve határozza meg.
-
-11. Idegennyelvi követelmények:
-
-A mesterfokozat megszerzéséhez angol nyelvből államilag elismert felsőfokú (C1) komplex típusú nyelvvizsga-bizonyítvány és egy nyelvből legalább középfokú (B2) komplex nyelvvizsga-bizonyítvány vagy azzal egyenértékű érettségi bizonyítvány, illetve okirat szükséges.
-
-12. A mesterképzésbe való felvétel feltételei:
-
-A hallgatónak a kredit megállapítása alapjául szolgáló ismeretek – felsőoktatási törvényben meghatározott – összevetése alapján elismerhető legyen legalább 60 kredit a korábbi tanulmányai szerint az alábbi ismeretkörökben:
-
-– alapozó ismeretek (15 kredit): politikatudományi ismeretek, nemzetközi jogi és közjogi ismeretek
-
-– szakmai ismeretek (45 kredit): nemzetközi kapcsolatokra és nemzetközi intézményekre vonatkozó ismeretek, stratégiai és biztonságpolitikai ismeretek, hadtörténelmi és hadtudományi ismeretek.
-
-A mesterképzésbe való felvétel feltétele, hogy a felsorolt ismeretkörökben legalább 30 kredittel rendelkezzen a hallgató. A hiányzó krediteket a mesterfokozat megszerzésére irányuló képzéssel párhuzamosan, a felvételtől számított két féléven belül, a felsőoktatási intézmény tanulmányi és vizsgaszabályzatában meghatározottak szerint meg kell szerezni.
-
-12. KATONAI VEZETŐI MESTERKÉPZÉSI SZAK
-
-1. Mesterképzési szak megnevezése: katonai vezetői (Military Leadership)
-
-2. A mesterképzési szakon szerezhető végzettségi szint és a szakképzettség oklevélben szereplő megjelölése:
-
-– végzettségi szint: mesterfokozat (magister, master; rövidítve: MSc)
-
-– szakképzettség: okleveles katonai vezető
-
-– a szakképzettség angol nyelvű megjelölése: Military Leader
-
-3. Képzési terület: államtudományi
-
-4. Az NKE tv. 3. §-ában meghatározott felsőoktatási terület: katonai
-
-5. A mesterképzésbe történő belépésnél előzményként elfogadott szakok:
-
-5.1. Teljes kreditérték beszámításával vehetők figyelembe: a katonai vezetői alapképzési szak, a főiskolai szintű katonai vezetői szak.
-
-5.2. A bemenethez a 12. pontban meghatározott kreditek teljesítésével elsősorban számításba vehető alapképzési szakok: a katonai logisztika, a katonai üzemeltetés, a katonai gazdálkodási, a had- és biztonságtechnikai mérnöki.
-
-5.3. A 12. pontban meghatározott kreditek teljesítésével vehetők figyelembe: azok a legalább alapfokozatot adó alapképzési szakok, illetve a felsőoktatásról szóló 1993. évi LXXX. törvény szerinti főiskolai szintű szakok, amelyeket a kredit megállapításának alapjául szolgáló ismeretek összevetése alapján a felsőoktatási intézmény kreditátviteli bizottsága elfogad.
-
-6. A képzési idő félévekben: 2 félév.
-
-7. A mesterfokozat megszerzéséhez összegyűjtendő kreditek száma: 60 kredit
-
-7.1. Az alapozó ismeretekhez rendelhető kreditek száma: 10–20 kredit
-
-7.2. A szakmai törzsanyaghoz rendelhető kreditek száma: 14–22 kredit
-
-7.3. A differenciált szakmai anyaghoz, illetve szakirányhoz rendelhető kreditek száma a diplomával együtt: 18–36 kredit
-
-7.4. A szabadon választható tantárgyakhoz rendelhető kreditek minimális értéke: 3 kredit
-
-7.5. A diplomamunkához rendelt kreditek száma: 10 kredit
-
-7.6. A gyakorlati ismeretek aránya: az intézményi tanterv szerint legalább 30%
-
-8. A mesterképzési szak képzési célja, az elsajátítandó szakmai kompetenciák:
-
-A Magyar Honvédség számára olyan katonai vezetők (főtisztek) képzése, akik az elsajátított korszerű hadtudományi, vezetés- és szervezéstudományi, társadalomtudományi, természettudományi, műszaki tudományi, elméleti és gyakorlati módszertani ismereteik, szakmai képességeik, továbbá legalább egy idegen nyelv (elsősorban angol) ismerete birtokában képesek – békében és minősített időszakban egyaránt – a rájuk bízott katonai szervezetet (törzset) vezetni, katonai szakmai feladataikat maradéktalanul megoldani. Magyarország nemzeti érdekeinek képviselete során képesek nemzetközi törzsekben (NATO, Európai Unió, ENSZ, EBESZ stb.) törzstiszti és egyéb vezetői beosztásokban tevékenykedni.
-
-8.1. A mesterképzési szakon végzettek ismerik:
-
-– a vonatkozó társadalomtudományi, valamint a hadtudományi elméleti és gyakorlati szakismereteket;
-
-– az általános és katonai szakterületen alkalmazható vezetéselméleti és alkalmazott pszichológiai ismereteket;
-
-– az államigazgatási, nemzetközi jogi és hadijogi szabályokat;
-
-– a kutatáshoz és/vagy tudományos munkához szükséges, széles körben alkalmazható problémamegoldó technikákat;
-
-– az alapvető biztonságpolitikai ismereteket (NATO, Európai Unió, ENSZ, EBESZ, Afrikai Unió és egyéb nemzetközi szervezetek ismerete);
-
-– a szakterület információs és média ismereteit;
-
-– interkulturális ismeretek körében más kultúrkörök társadalmi, vallási, ideológiai felépítését, gondolkodásmódját;
-
-– a globális társadalmi és gazdasági folyamatokat;
-
-– az összhaderőnemi műveletek elméleti és gyakorlati problémáit tudományos igényű elemzések és megoldási alternatívák kidolgozásának módszereit;
-
-– az összhaderőnemi műveletekben részt vevő magasabb-egységek, hadműveleti magasabb-egységek tevékenységének tervezési, szervezési és irányítási kérdéseit;
-
-– a különböző szintű harcászati szimulációs rendszerek működési feltételeit, valamint az alárendeltek tevékenységének a begyakorláshoz szükséges előkészítési, tervezési, eljárási módszereket;
-
-– az összhaderőnemi műveletek, illetve saját tevékenységük joganyagát;
-
-– a vezetett részleg (törzs) munkájának, tevékenységének, működési problémáinak tudományos igényű elemzési módszereit, a vezetett szervezet munkarendjének korszerűsítésére, új munkamódszerek, eljárások kidolgozására vonatkozó lehetőségeket;
-
-– a nemzetközi szervezetek (NATO, Európai Unió, ENSZ, EBESZ) döntéshozatali, döntés-előkészítési folyamatait, a katonadiplomácia alapvető rendszerét.
-
-8.2. A mesterképzési szakon végzettek alkalmasak:
-
-– széleskörű általános műveltség és társadalomtudományi ismeretek alapján eligazodásra a nemzetközi, a társadalmi és politikai eseményekben és jelenségekben;
-
-– a honvédség, illetve saját tevékenységük törvényi és jogi alapjainak átfogó megértésére;
-
-– a vezetéselméleti ismeretek és kreatív technika alkalmazására;
-
-– vezetői ismereteik, jártasságuk, valamint szakmai tudásuk birtokában a rájuk bízott szervezet tevékenységeinek megtervezésére, megszervezésére és folyamatos vezetésére, a szervezet tevékenységében való hatékony részvételre;
-
-– konkrét helyzetben a helyi célok és teendők körültekintő meghatározására, a végrehajtás feltételei biztosításának figyelembevételével;
-
-– küldetésorientált vezetés megvalósítására;
-
-– az alárendeltek tevékenységeinek, feladatainak megalapozott, előrelátó és a gyakorlatban végrehajtható meghatározására, a végrehajtás koordinálására, célirányos ellenőrzésére;
-
-– a megszerzett korszerű hadműveletei-harcászati ismeretek birtokában a kialakult helyzet elemzésére, döntések előkészítésére és meghozatalára;
-
-– katonai feladatok végrehajtása érdekében érdemi együttműködés megvalósítására a fegyveres testületek, a polgári szervek vezetőivel (képviselőivel);
-
-– technikai ismereteik alapján a haditechnikai eszközök korszerűségének, harcászati alkalmazásuk lehetőségeinek, korlátainak megítélésére;
-
-– a hivatásos tiszt számára előírt fizikai edzettség és állóképesség követelményeinek folyamatos teljesítésére;
-
-– nemzetközi műveletek, illetve harctéri körülmények között az együttműködésre, annak tervezésére, megszervezésére és fenntartására a napi munka során;
-
-– összfegyvernemi, (össz)haderőnemi műveleti gyakorlatok tervezésére, levezetésére;
-
-– hadműveleti művészet alapvetéseinek gyakorlatban történő alkalmazására;
-
-– megszerzett korszerű hadműveleti, harcászati ismereteik birtokában a kialakult helyzet elemzésére, a harcászati hadműveleti döntések előkészítésére, meghozatalára összhaderőnemi háborús és nem háborús katonai műveletek során;
-
-– törzstájékoztatók, eligazítások anyagainak elkészítésére, azok irányítására, levezetésére, a tervező-kidolgozó munka irányítására;

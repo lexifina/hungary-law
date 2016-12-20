@@ -76,4 +76,6 @@
 
 ## – értékek kialakítására és megtartására törekvő céltudatos magatartással.
 
-2. melléklet a 282/2016. (IX. 21.) Korm. rendelethez
+2. melléklet a 282/2016. (IX. 21.) Korm. rendelethez[^4]
+
+[^4]: A 2. melléklet a 396/2016. (XII. 5.) Korm. rendelet 1. §-a szerint módosított szöveg.
