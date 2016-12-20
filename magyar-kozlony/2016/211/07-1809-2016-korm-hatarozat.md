@@ -1,0 +1,22 @@
+# A Kormány 1809/2016. (XII. 20.) Korm. határozata
+
+Magyar Közlöny 2016. évi 211. szám, 2016. december 20. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/be94a0393ce44358e0c19dad49d6be32d7917298/dokumentumok/645a8388ee7fb8ba072d4330c0a045f73339e9be/letoltes)
+
+---
+
+A Kormány 1809/2016. (XII. 20.) Korm. határozata
+az ATEV Fehérjefeldolgozó Zártkörűen Működő Részvénytársaság részére romániai tevékenysége folytatása
+céljából nyújtandó forrásjuttatásról
+A Kormány
+1. egyetért azzal, hogy az ATEV cégcsoport romániai tevékenysége folytatása céljából 3 milliárd forint tőkejuttatásban
+részesüljön;
+2. felhívja a nemzeti fejlesztési minisztert, hogy az 1. pont szerinti cél megvalósítása érdekében gondoskodjon
+a 3 milliárd forint összegű tőkeemelés végrehajtásáról a Magyarország 2016. évi központi költségvetéséről szóló
+2015. évi C. törvény 1. melléklet XLIII. Az állami vagyonnal kapcsolatos bevételek és kiadások fejezet, 2. Állami
+vagyonnal kapcsolatos kiadások cím, 1. Felhalmozási jellegű kiadások alcím, 4. Állami tulajdoni részesedések
+növekedését eredményező kiadások jogcímcsoport, 1. Részesedésvásárlás, tőkeemelés, pótbefizetés jogcím kiadási
+előirányzata terhére.
+Felelős: nemzeti fejlesztési miniszter
+Határidő: azonnal
+ Orbán Viktor s. k.,
+ miniszterelnök
