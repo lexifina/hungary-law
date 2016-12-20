@@ -27,3 +27,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-47-00-00
 | 2015-11-15 | 2015. évi CLXX. törvény | 1997-47-00-00.42 |
 | 2016-01-01 | 2015. évi CCXXIV. törvény | 1997-47-00-00.43 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 1997-47-00-00.44 |
+| 2016-12-20 | 2016. évi CLXXII. törvény | 1997-47-00-00.45 |
