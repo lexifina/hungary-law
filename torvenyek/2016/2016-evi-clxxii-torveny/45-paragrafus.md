@@ -1,13 +1,9 @@
 45. § A Gyftv.
 
-a) 14. § (1) bekezdésében a „közvetett formában” szövegrészek helyébe az „közvetett formában megvalósított, a 3. § 10. pont szerinti tevékenység esetében” szöveg,
+a)–c)
 
-b) 14. § (10) bekezdésében a „bejelenteni” szövegrész helyébe az „elektronikus úton bejelenteni” szöveg,
+d)
 
-c) 24. § (7) bekezdésében a „23. § (3)–(4) és (6)–(8)” szövegrész helyébe a „23. § (3)–(4) és (6)–(8a)” szöveg,
-
-d) 42. § (4) bekezdésében az „az (5) bekezdésben foglalt kivétellel” szövegrész helyébe az „a (4a) és az (5) bekezdésben foglaltakra figyelemmel” szöveg,
-
-e) 53/B. § (4) bekezdésében a „6 hónapon” szövegrész helyébe az „egy éven” szöveg
+e)
 
 lép.
