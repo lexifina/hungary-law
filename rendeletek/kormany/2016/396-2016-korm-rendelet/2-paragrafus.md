@@ -1,0 +1,1 @@
+## 1. § Az államtudományi képzési terület alap- és mesterképzési szakjainak meghatározásáról és azok képzési és kimeneti követelményeiről, valamint az azzal összefüggő kormányrendeletek módosításáról szóló 282/2016. (IX. 21.) Korm. rendelet (a továbbiakban: Korm. rendelet) 2. melléklete az 1. melléklet szerint módosul.
