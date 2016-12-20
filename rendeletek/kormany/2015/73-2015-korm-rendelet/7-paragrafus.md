@@ -4,6 +4,8 @@
 
 (3) A juttatás fedezetét a volt köztársasági elnök és az Országgyűlés volt elnöke tekintetében az Országgyűlés Hivatala, a volt miniszterelnök tekintetében a Miniszterelnökség, az Alkotmánybíróság volt elnöke tekintetében az Alkotmánybíróság Hivatala, a Legfelsőbb Bíróság, illetve a Kúria volt elnöke tekintetében az Országos Bírósági Hivatal elnöke adja át az ONYF részére.
 
-(4) A köztársasági elnök jogállásáról és javadalmazásáról szóló törvény szerint megállapított hozzátartozói nyugellátás fedezetét a Köztársasági Elnöki Hivatal, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény alapján a miniszterelnök hozzátartozója számára megállapított hozzátartozói nyugellátás fedezetét a Miniszterelnökség adja át az ONYF részére.
+(4)[^1] A köztársasági elnök jogállásáról és javadalmazásáról szóló törvény szerint megállapított hozzátartozói nyugellátás fedezetét az Országgyűlés Hivatala, a központi államigazgatási szervekről, valamint a Kormány tagjai és az államtitkárok jogállásáról szóló törvény alapján a miniszterelnök hozzátartozója számára megállapított hozzátartozói nyugellátás fedezetét a Miniszterelnökség adja át az ONYF részére.
 
 (5) A juttatás és a (4) bekezdés szerinti hozzátartozói nyugellátás fedezetének átadására vonatkozó eljárási szabályokat a fedezetet átadó szervek és az ONYF megállapodásban határozzák meg.
+
+[^1]: A 7. § (4) bekezdése a 449/2016. (XII. 19.) Korm. rendelet 27. §-a szerint módosított szöveg.

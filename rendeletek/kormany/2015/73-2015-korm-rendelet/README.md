@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-73-20-2
 | --- | --- | --- |
 | 2015-04-01 | 2015-73-20-22.1 | 73/2015. (III. 30.) Korm. rendelet |
 | 2015-04-02 | 2015-73-20-22.2 | 2010: CXXX. törvény |
+| 2016-12-20 | 2015-73-20-22.3 | 449/2016. (XII. 19.) Korm. rendelet |
