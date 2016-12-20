@@ -12,7 +12,7 @@
 
 a) a környezet védelmének általános szabályairól szóló törvény szerinti előzetes vizsgálati eljárás esetén az ott meghatározott határidő,
 
-b)
+b) az elektronikus hírközlésről szóló törvény szerinti elektronikus hírközlési építményekkel kapcsolatos építésügyi hatósági eljárások esetén az ott meghatározott határidő,
 
 c) a közúti közlekedésről szóló törvény szerinti közlekedési hatósági engedélyezési eljárások esetén harminc nap,
 
