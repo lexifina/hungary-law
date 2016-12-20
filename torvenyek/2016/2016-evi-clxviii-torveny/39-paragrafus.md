@@ -5,11 +5,3 @@ a) a rádióberendezések forgalmazására vonatkozó tagállami jogszabályok h
 b) az elektromágneses összeférhetőségre vonatkozó tagállami jogszabályok harmonizálásáról szóló, 2014. február 26-i 2014/30/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke

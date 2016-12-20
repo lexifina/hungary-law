@@ -1,6 +1,6 @@
 31. § Az Eht.
 
-1. 56. § (1) bekezdésében a „nagyfrekvenciás berendezést” szövegrész helyébe a „nagyfrekvenciás villamos berendezést” szöveg,
+1.
 
 2. 58. § (4) bekezdésében a „tartalmazza az (1) bekezdésben” szövegrész helyébe a „tartalmazza az e törvényben, valamint – nagy sebességű elektronikus hírközlő hálózatok kiépítésével összefüggő jogvitás eljárás esetében – az Elnök rendeletében” szöveg,
 
