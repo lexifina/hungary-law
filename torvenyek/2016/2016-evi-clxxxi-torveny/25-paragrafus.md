@@ -4,14 +4,6 @@
 
 (2) A 24. § 2017. augusztus 1-jén lép hatályba.
 
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
-
 „1. melléklet a 2016. évi CLXXXI. törvényhez
 
 1. melléklet a 2016. évi LXXIII. törvényhez
