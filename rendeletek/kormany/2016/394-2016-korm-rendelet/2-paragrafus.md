@@ -1,0 +1,3 @@
+## 1. § Az üvegházhatású gázok kibocsátásával kapcsolatos hitelesítési tevékenységet végző szervezetek akkreditálásáról és nyilvántartásáról szóló 295/2012. (X. 16.) Korm. rendelet (a továbbiakban: 295/2012. Kr.) 6. §-a a következő (7) bekezdéssel egészül ki:
+
+## „(7) Ha a hitelesítő szervezet akkreditált státuszát az akkreditáló szerv a Natv. 9. §-a alapján felfüggeszti, illetve a Natv. 10. §-a alapján visszavonja, az akkreditált státusz felfüggesztésének, illetve visszavonásának tényéről az akkreditáló szerv 15 napon belül tájékoztatja az államháztartásért felelős minisztert (a továbbiakban: miniszter) és a klímavédelemért felelős hatóságot.”
