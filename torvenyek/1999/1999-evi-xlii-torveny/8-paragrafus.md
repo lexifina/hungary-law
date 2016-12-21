@@ -20,6 +20,8 @@ rendeletben határozza meg.
 
 (4c) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben az elektronikus cigaretta, az utántöltő flakon és a dohányzást imitáló elektronikus eszköz forgalomba hozatalának és az ezzel kapcsolatos változások bejelentésére vonatkozó igazgatási szolgáltatási díj mértékét, valamint a díj beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
 
+(4d) Felhatalmazást kap az egészségügyért felelős miniszter, hogy az adópolitikáért felelős miniszterrel egyetértésben a módosított hatású terméknek történő minősítésre irányuló eljárás igazgatási szolgáltatási díját, valamint a Bizottság véleményére vonatkozó díj mértékét, továbbá a díjak beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat rendeletben határozza meg.
+
 (5) Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg
 
 a) a kombinált figyelmeztetéseket, egészségvédő figyelmeztetéseket, valamint azok alkalmazásának részletes szabályait, a dohánytermékek fogyasztói csomagolási egységeire és az elektronikus cigaretta, az utántöltő flakon és a dohányzást imitáló elektronikus eszköz csomagolási egységeire vonatkozó részletes szabályokat, a dohányzási korlátozásra, valamint a dohányzóhelyek és elektronikus cigaretta, valamint dohányzást imitáló elektronikus eszköz használatának kijelölésére vonatkozó feliratok és jelzések tartalmát, formáját, továbbá a dohánytermékek, valamint az elektronikus cigaretta,utántöltő flakon és dohányzást imitáló elektronikus eszköz előállításának, forgalmazásának és ellenőrzésének a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvény szabályozási körébe nem tartozó egyéb feltételeit,
@@ -38,7 +40,11 @@ g) a dohánytermékek csomagolására és címkézésére vonatkozó részletes 
 
 h) az új dohánytermékek forgalomba hozatalának szabályait,
 
-i) a dohányzási célú gyógynövénytermékekre vonatkozó részletes szabályokat.
+i) a dohányzási célú gyógynövénytermékekre vonatkozó részletes szabályokat,
+
+j) az új dohánytermék-kategóriák forgalmazásának és ismertetésének különös szabályait,
+
+k) a módosított hatású terméknek történő minősítésre irányuló eljárásban vizsgálandó tudományos és egészségügyi szempontokat, az eljárás részletes szabályai, valamint a Bizottság összetételére és működésére vonatkozó különös szabályokat.
 
 (6) Ez a törvény a következő uniós jogi aktusoknak való megfelelést szolgálja:
 
