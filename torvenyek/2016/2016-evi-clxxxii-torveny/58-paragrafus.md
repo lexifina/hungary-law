@@ -13,11 +13,3 @@
 (5) Az 55. § a törvény kihirdetését követő 30. napon lép hatályba.
 
 (6) A 2–6. §, a 8. § 3. és 5. pontja, a 21. §, a 28. § és a 32. § 2018. január 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
