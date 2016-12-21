@@ -1,0 +1,1 @@
+## „(9) Az elosztási díjrendszer díjtételeit – értékesítési kategóriánként – a Hivatal elnökének a rendszerhasználati díjak, a külön díjak és a csatlakozási díjak mértékéről szóló rendelete, áralkalmazási feltételeit a 23–36. §, az újonnan beépíthető gázmérők meghatározását a 2. melléklet tartalmazza.”
