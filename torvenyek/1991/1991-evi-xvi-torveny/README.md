@@ -15,3 +15,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-16-00-00
 | 2014-12-24 | 2014. évi XCV. törvény | 1991-16-00-00.39 |
 | 2015-11-01 | 2015. évi CXLIII. törvény | 1991-16-00-00.40 |
 | 2015-12-12 | 2015. évi CXCII. törvény | 1991-16-00-00.41 |
+| 2016-12-21 | 2016. évi CXXXV. törvény | 1991-16-00-00.42 |

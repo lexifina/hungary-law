@@ -1,0 +1,1 @@
+30. § Felhatalmazást kap a Kormány, hogy a megbízható dohánykereskedővel vagy e személy legalább többségi tulajdonában álló gazdasági társasággal az ágazati törvényben meghatározott dohánykiskereskedelem-ellátási tevékenység elvégzése céljából megkötött koncessziós szerződés alapján fizetendő koncessziós díj legkisebb mértékét és fizetési ütemezését rendeletben meghatározza.
