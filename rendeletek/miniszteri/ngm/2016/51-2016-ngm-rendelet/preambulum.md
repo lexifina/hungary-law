@@ -1,0 +1,1 @@
+A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény 85. § (4) bekezdésében, valamint (5) bekezdés d) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 2. és 6. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
