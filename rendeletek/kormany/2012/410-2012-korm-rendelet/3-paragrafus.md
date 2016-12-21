@@ -1,12 +1,18 @@
-3. §[^21] (1) Az üzemeltető a harmadik kereskedési időszakban minden tárgyévet követő év január 20-ig
+3. §[^27] (1) Az üzemeltető a harmadik kereskedési időszakban minden tárgyévet követő év január 20-ig
 
 a) a létesítmény kapacitásával, tevékenységi szintjével és működésével kapcsolatos, az Ügkr. tv. 2. § 13., 40. és 41. pontjában foglaltaknak megfelelő jelentős, a tárgyévben bekövetkezett tényleges változásról akkreditált hitelesítő szervezet által hitelesített formanyomtatvány benyújtásával,
 
-b)[^22] az Ügkr. tv. 2. § 12., 13., 40. és 41. pontjában foglaltaknak megfelelő, továbbá a 12. § (1) bekezdése, valamint a 12/A. § (1) és (3) bekezdése szerinti, a tárgyévet követő évre vonatkozó bármely tervezett változásról cégszerű aláírással ellátva, írásban, postai úton, valamint
+b)[^28] az Ügkr. tv. 2. § 12., 13., 40. és 41. pontjában foglaltaknak megfelelő, továbbá a 12. § (1) bekezdése, valamint a 12/A. § (1) és (3) bekezdése szerinti, a tárgyévet követő évre vonatkozó bármely tervezett változásról cégszerű aláírással ellátva, írásban, postai úton, valamint
 
 c) ha a létesítményben a tárgyévre vonatkozóan nem történt a térítésmentesen kiosztandó kibocsátási egységek mennyiségét csökkentő, az a) pontban hivatkozott tényleges jelentős változás, akkor ennek tényéről cégszerű aláírással ellátva, írásban, postai úton
 
 jelentést nyújt be az államháztartásért felelős miniszternek (a továbbiakban: miniszter) az általa vezetett minisztérium (a továbbiakban: Minisztérium) honlapján közzétett módon.
+
+(1a)[^29] Nem kell benyújtani az (1) bekezdés c) pontja szerinti nyilatkozatot
+
+a) annak a létesítménynek, amely az összes hőjét exportálja egy vagy több, az Ügkr. tv. hatálya alá tartozó létesítmény számára, valamint
+
+b) az Ügkr. tv. 17. § (1) bekezdésében foglalt létesítménynek.
 
 (2) A miniszter a tárgyévet követő év január 1-jéig köteles a honlapján közzétenni az (1) bekezdés szerinti kötelezettség határidőben történő teljesítéséhez szükséges követelményeket.
 
@@ -40,8 +46,15 @@ b) ha a létesítményre vonatkozóan jelentős változás miatti adatszolgálta
 
 (10) Az e § szerinti adatszolgáltatási és jelentéstételi kötelezettségek teljesítéséhez a miniszter jogosult önálló elektronikus rendszert létrehozni az üzemeltetők megfelelő tájékoztatása mellett.
 
-(11)[^23] A miniszter az (1) bekezdés a) pontja szerinti kötelezettség megfelelő teljesítésének ellenőrzését a hatósággal együttműködve végzi. A hatóság az együttműködés keretében folyamatosan tájékoztatást ad a miniszternek.
+(11)[^30] A miniszter az (1) bekezdés a) és c) pontjai szerinti kötelezettség teljesítésének ellenőrzését a hatósággal együttműködve végzi. A hatóság az ellenőrzés keretében készült jegyzőkönyvek másolatát a miniszter részére megküldi.
 
-[^21]: A 3. § a 131/2015. (V. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
-[^22]: A 3. § (1) bekezdés b) pontja a 178/2016. (VII. 1.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
-[^23]: A 3. § (11) bekezdését a 178/2016. (VII. 1.) Korm. rendelet 4. §-a iktatta be.
+(12)[^31] A hatóság az (1) bekezdés a) és c) pontja szerinti kötelezettség megfelelő teljesítésének ellenőrzésén túlmenően a miniszterrel együttműködve hatósági ellenőrzés keretében felülvizsgálja a térítésmentes kibocsátási egység kiosztás alapjául szolgáló adatok megfelelőségét is.
+
+(13)[^32] A hatóság a miniszter részére hozzáférést biztosít az 1. § (2) bekezdés, a 4. § (2) és (6) bekezdése szerinti önálló elektronikus rendszer információihoz.
+
+[^27]: A 3. § a 131/2015. (V. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^28]: A 3. § (1) bekezdés b) pontja a 178/2016. (VII. 1.) Korm. rendelet 9. § c) pontja szerint módosított szöveg.
+[^29]: A 3. § (1a) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (1) bekezdése iktatta be.
+[^30]: A 3. § (11) bekezdését a 178/2016. (VII. 1.) Korm. rendelet 4. §-a iktatta be, szövege a 394/2016. (XII. 5.) Korm. rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^31]: A 3. § (12) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (3) bekezdése iktatta be.
+[^32]: A 3. § (13) bekezdését a 394/2016. (XII. 5.) Korm. rendelet 10. § (3) bekezdése iktatta be.

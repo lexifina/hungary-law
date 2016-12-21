@@ -14,9 +14,9 @@
 
 ## A.3.1 A létesítmény telephelyén végzett 2. melléklet szerinti tevékenység (tevékenységek) megnevezése.
 
-## A.3.2.[^80] A létesítmény telephelyére kiadott, a környezethasználat feltételeit megállapító engedély vagy határozat megnevezése, engedély száma, kiadásának dátuma, kiállító hatóság megnevezése és az engedély jogerőre emelkedésének dátuma.
+## A.3.2.[^108] A létesítmény telephelyére kiadott, a környezethasználat feltételeit megállapító határozat megnevezése, engedély száma, kiadásának dátuma, kiállító hatóság megnevezése és az engedély jogerőre emelkedésének dátuma.
 
-## A.3.3[^81] A próbaüzem és az üzemszerű működés megkezdésének tervezett ideje (éééé/hh/nn), a létesítmény státusza és annak leírása (folyamatos működés, tartalék üzemmód, készenléti üzemmód vagy szezonális üzemmód).
+## A.3.3[^109] A próbaüzem és az üzemszerű működés megkezdésének tervezett ideje (éééé/hh/nn), a létesítmény státusza és annak leírása (folyamatos működés, tartalék üzemmód, készenléti üzemmód vagy szezonális üzemmód).
 
 ## A.4 A LÉTESÍTMÉNY KIBOCSÁTÁSI KATEGÓRIÁJA
 
@@ -26,7 +26,7 @@
 
 ## b) B kategóriájú létesítmény: 50 000 tCO2(e) és 500 000 tCO2(e) között
 
-## c)[^82] C kategóriájú létesítmény 500 000 tCO2(e)-nél nagyobb.
+## c)[^110] C kategóriájú létesítmény 500 000 tCO2(e)-nél nagyobb.
 
 ## B. A KIBOCSÁTÁSOK NYOMON KÖVETÉSÉVEL KAPCSOLATOS ADATOK ÉS MÓDSZEREK (Nyomon követési Terv – NykT)
 
@@ -46,7 +46,7 @@
 
 ## B.2.4 Annak megjelölése, hogy a forrásanyag fő vagy kisebb jelentőségű forrásanyag-e figyelembe véve a 601/2012/EU bizottsági rendelet iránymutatásait.
 
-## B.2.5.[^83] A mennyiségi adatokat mérő mőrőberendezés mérési pontossága, és annak megjelölése, hogy rendelkezik-e a fővárosi és megyei kormányhivatal által mérésügyi és műszaki biztonsági feladatkörében eljárva, a 127/1991. Korm. rendelet szerint szükséges, érvényes visszavezetettségű mérőrendszerek hitelességét és kalibrációját igazoló érvényes hitelesítési és kalibrálási bizonyítványokkal.
+## B.2.5.[^111] A mennyiségi adatokat mérő mőrőberendezés mérési pontossága, és annak megjelölése, hogy rendelkezik-e a fővárosi és megyei kormányhivatal által mérésügyi és műszaki biztonsági feladatkörében eljárva, a 127/1991. Korm. rendelet szerint szükséges, érvényes visszavezetettségű mérőrendszerek hitelességét és kalibrációját igazoló érvényes hitelesítési és kalibrálási bizonyítványokkal.
 
 ## B.2.6 Amennyiben a kibocsátási számítása az anyagmérlegen alapuló megközelítéssel történik, akkor meg kell jelölni a létesítmény területére belépő összes karbontartalmú forrásanyagot, a létesítmény területéről kilépő összes karbontartalmú forrásanyagot, valamint létesítményben készletként megmaradó összes karbontartalmú forrásanyagot, valamint mindezek mennyiségének és karbontartalmának meghatározáshoz kiválasztott adatmeghatározási szinteket, módszereket.
 
@@ -106,7 +106,7 @@
 
 ## Hulladékégetés esetén tüzelőanyagként vagy alap-, illetve segédanyagként használatos hulladékok típusát a hulladékok jegyzékéről szóló 16/2001. (VII. 18.) KöM rendeletben meghatározott Európai Hulladék Katalógus szerinti osztályozás (EWC kódszám) alkalmazásával is meg kell jelölni.
 
-2. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^84]
+2. melléklet a 410/2012. (XII. 28.) Korm. rendelethez[^112]
 
 ## A kibocsátási engedélyhez kötött tevékenységek és üvegházhatású gázok
 
@@ -256,11 +256,11 @@
 
 2.2. EKHE sorszám: a környezeti hatásvizsgálati és az egységes környezethasználati engedélyezési eljárásról szóló 314/2005. (XII. 25.) Korm. rendelet 2. számú mellékletében az egyes tevékenységekhez rendelt sorszámok.
 
-2.3. Küszöbértékek értelmezése: a megadott küszöbértékek maximális kapacitásokra vonatkoznak. Ha egy üzemeltető több, azonos római számmal jelölt tevékenységhez tartozó berendezést üzemeltet egy telephelyen, a küszöbérték megállapítása során ezen berendezések kapacitásának összegét kell figyelembe venni. Az oktatási intézmények és egészségügyi szolgáltatók esetében a tüzelő berendezések küszöbértékének számítása során nem kell figyelembe venni a biztonsági tartalék tüzelőberendezések kapacitását.
+2.3. Küszöbértékek értelmezése: a megadott küszöbértékek maximális kapacitásokra vonatkoznak. Ha egy üzemeltető több, azonos római számmal jelölt tevékenységhez tartozó berendezést üzemeltet egy létesítményen belül, a küszöbérték megállapítása során ezen berendezések kapacitásának összegét kell figyelembe venni. Az oktatási intézmények és egészségügyi szolgáltatók esetében a tüzelő berendezések küszöbértékének számítása során nem kell figyelembe venni a biztonsági tartalék tüzelőberendezések kapacitását.
 
 2.4. Ha az egység olyan tevékenységet szolgál, amelynek küszöbértéke nincs teljes névleges bemenő hőteljesítményként kifejezve, akkor az ilyen tevékenység küszöbértéke a közösségi rendszerbe történő beillesztéssel kapcsolatos döntéskor elsőbbséget élvez.
 
-2.5. Ha e mellékletben szereplő bármely tevékenység teljesítményére vonatkozó küszöbértéket túlzónak ítélnek egy létesítmény vonatkozásában, a veszélyes és a települési hulladék égetését végző egységeken kívül valamennyi üzemanyag-égetést folytató egységet szerepeltetni kell az üvegházhatású gázok kibocsátására vonatkozó engedélyben.
+2.5. Ha egy létesítmény tevékenységre vonatkozó kapacitása meghaladja az 1. mellékletben meghatározott küszöbértéket, a veszélyes és a települési hulladék égetését végző egységeken kívül valamennyi, a létesítmény részét képező tüzelőanyag-égetést folytató egységet szerepeltetni kell az üvegházhatású gázok kibocsátására vonatkozó engedélyben.
 
 2.6. Tüzelőberendezés (I): idetartozik minden olyan, a teljesítményhatárt a fenti 2.3. pont szerint elérő berendezés, amelyben tüzelőanyag oxidációja folyik az így termelt hő hasznosítása céljából, függetlenül attól, hogy a termelt hőt energetikai (hő- vagy villamosenergia-termelés) vagy technológiai célra hasznosítják. 2008. január 1-jétől idetartozik a hőbontás (pirolízis, krakkolás) is.
 
@@ -272,8 +272,8 @@
 
 2.10. Üveggyártás (XIII): 2008. január 1-jétől az üveggyártást folytató létesítmény esetében a telephelyen az üvegtermékek előállításakor keletkező valamennyi tüzelési eredetű kibocsátást figyelembe kell venni.
 
-[^80]: Az 1. melléklet A.3.2. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^81]: Az 1. melléklet A.3.3. pontja a 178/2016. (VII. 1.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^82]: Az 1. melléklet 4. pont c) alpontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
-[^83]: Az 1. melléklet B.2.5. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
-[^84]: A 2. melléklet a 178/2016. (VII. 1.) Korm. rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^108]: Az 1. melléklet A.3.2. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^109]: Az 1. melléklet A.3.3. pontja a 178/2016. (VII. 1.) Korm. rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^110]: Az 1. melléklet 4. pont c) alpontja a 329/2013. (IX. 3.) Korm. rendelet 23. § (1) bekezdése szerint módosított szöveg.
+[^111]: Az 1. melléklet B.2.5. pontja a 131/2015. (V. 27.) Korm. rendelet 17. § (1) bekezdésével megállapított szöveg.
+[^112]: A 2. melléklet a 178/2016. (VII. 1.) Korm. rendelet 8. § (2) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 17. §-a és 18. § c) pontja szerint módosított szöveg.

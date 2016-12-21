@@ -6,9 +6,9 @@
 
 (3) Az Ügkr. tv. 4. § (4) bekezdése szerinti esetben az adatokat valamennyi, technológiailag nem egybetartozó – a 2. melléklet szerinti – tevékenységre külön-külön kell megadni.
 
-(4)[^2] A kibocsátási engedély iránti kérelmet a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 66. §-ában meghatározott, a környezethasználat feltételeit megállapító hatósági engedély vagy határozat jogerőre emelkedését követően lehet benyújtani a hatósághoz.
+(4)[^2] A kibocsátási engedély iránti kérelmet a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 66. §-ában meghatározott, a környezethasználat feltételeit megállapító hatósági határozat jogerőre emelkedését követően lehet benyújtani a hatósághoz.
 
-(5)[^3] A hatóság a kibocsátási engedélyt a környezethasználat feltételeit megállapító hatósági engedély vagy határozat alapján adja ki, ha megállapítja, hogy az üzemeltető megfelel az Ügkr. tv.-ben foglalt feltételeknek. A kibocsátási engedély részletes tartalmi követelményeit a 3. melléklet állapítja meg.
+(5)[^3] A hatóság a kibocsátási engedélyt a környezethasználat feltételeit megállapító hatósági határozat alapján adja ki, ha megállapítja, hogy az üzemeltető megfelel az Ügkr. tv.-ben foglalt feltételeknek. A kibocsátási engedély részletes tartalmi követelményeit a 3. melléklet állapítja meg. A hatóság a kibocsátási engedély másolatát megküldi a miniszter részére.
 
 (6)[^4] Az üzemeltető a kibocsátások nyomonkövetését a 601/2012/EU Bizottsági rendeletben meghatározottak szerint végzi az 5. mellékletben meghatározottakkal összhangban.
 
@@ -23,8 +23,8 @@ b) a 127/1991. Korm. rendelet szerint szükséges, etalonra visszavezethető mé
 (9)[^8]
 
 [^1]: Az 1. § (2) bekezdése a 131/2015. (V. 27.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
-[^2]: Az 1. § (4) bekezdése a 131/2015. (V. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (5) bekezdése a 131/2015. (V. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított szöveg.
+[^2]: Az 1. § (4) bekezdése a 131/2015. (V. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított, a 394/2016. (XII. 5.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^3]: Az 1. § (5) bekezdése a 394/2016. (XII. 5.) Korm. rendelet 7. §-ával megállapított szöveg.
 [^4]: Az 1. § (6) bekezdése a 178/2016. (VII. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^5]: Az 1. § (7) bekezdése a 131/2015. (V. 27.) Korm. rendelet 5. § (2) bekezdésével megállapított, nyitó szövegrésze a 178/2016. (VII. 1.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^6]: Az 1. § (7) bekezdés a) pontja a 178/2016. (VII. 1.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

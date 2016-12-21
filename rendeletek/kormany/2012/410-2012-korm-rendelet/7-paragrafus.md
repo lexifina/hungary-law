@@ -1,9 +1,9 @@
-7. §[^32] (1)[^33] A miniszter az ÜHG-egységek értékesítésének pénzügyi teljesítését követő 30 napon belül tájékoztatja az energiapolitikáért felelős minisztert és az MNV Zrt.-t az értékesítés tényéről, az értékesített ÜHG-egységek mennyiségéről és az ÜHG-egység vételáráról.
+7. §[^41] (1)[^42] A miniszter az ÜHG-egységek értékesítésének pénzügyi teljesítését követő 30 napon belül tájékoztatja az energiapolitikáért felelős minisztert és az MNV Zrt.-t az értékesítés tényéről, az értékesített ÜHG-egységek mennyiségéről és az ÜHG-egység vételáráról.
 
-(1a)[^34] A miniszter az ÜHG-egységek értékesítéséből származó, a Magyarország központi költségvetéséről szóló törvény szerint felhasználható összegről minden hónap 20. napjáig tájékoztatja az energiapolitikáért felelős minisztert. Ezen kötelezettség a minisztert az energiapolitikáért felelős miniszter külön kérelme alapján is terheli az előzőekben meghatározott határidőktől eltérően.
+(1a)[^43] A miniszter az ÜHG-egységek értékesítéséből származó, a Magyarország központi költségvetéséről szóló törvény szerint felhasználható összegről minden hónap 20. napjáig tájékoztatja az energiapolitikáért felelős minisztert. Ezen kötelezettség a minisztert az energiapolitikáért felelős miniszter külön kérelme alapján is terheli az előzőekben meghatározott határidőktől eltérően.
 
 (2) Az 1031/2010/EU bizottsági rendelet 18. cikk (2) és (3) bekezdésében hivatkozott személyek ezen cikkek alapján ajánlatot tenni kizárólag a pénzügyi szervezetek felügyeletét ellátó szervnek árutőzsdei szolgáltatás nyújtására irányuló engedélye alapján jogosultak.
 
-[^32]: A 7. § a 329/2013. (IX. 3.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^33]: A 7. § (1) bekezdése a 225/2014. (IX. 4.) Korm. rendelet 3. §-ával megállapított szöveg.
-[^34]: A 7. § (1a) bekezdését a 131/2015. (V. 27.) Korm. rendelet 8. §-a iktatta be.
+[^41]: A 7. § a 329/2013. (IX. 3.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^42]: A 7. § (1) bekezdése a 225/2014. (IX. 4.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^43]: A 7. § (1a) bekezdését a 131/2015. (V. 27.) Korm. rendelet 8. §-a iktatta be.
