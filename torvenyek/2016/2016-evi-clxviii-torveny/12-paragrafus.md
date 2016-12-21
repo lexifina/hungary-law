@@ -1,3 +1,0 @@
-12. § Az Eht. 63. §-a a következő (1a) bekezdéssel egészül ki:
-
-„(1a) Az (1) bekezdés szerint előírt, fenntartott, módosított kötelezettség a jelentős piaci erejű szolgáltatóként azonosított szolgáltatót abban az esetben is terheli, ha a kötelezettséggel érintett elektronikus hírközlő hálózatnak nem a jelentős piaci erővel rendelkező szolgáltató az üzemeltetője. Ebben az esetben a jelentős piaci erejű szolgáltató az (1) bekezdés szerint előírt, fenntartott, módosított kötelezettségét az Elnök 62–65. §-a szerint hozott határozatában meghatározott szabályok szerint és módon köteles teljesíteni.”
