@@ -12,4 +12,4 @@ jogosult végezhesse.
 
 (4) Minden egyes dohánytermék-kiskereskedelmi jogosultság átengedésére külön nyilvános pályázatot kell kiírni.
 
-(5) A település állandó lakosainak számát a Központi Statisztikai Hivatal által a tárgyévet megelőző utolsó három évben közzétett tájékoztatási adatbázis Magyarország lakónépességének továbbszámított, éves és települési bontásban megadott adatainak számtani átlaga alapján kell megállapítani.
+(5) A település állandó lakosainak számát a Központi Statisztikai Hivatal tájékoztatási adatbázisában a tárgyévet megelőző utolsó három évben közzétett, Magyarország lakónépességének továbbvezetett, január 1-jei, települési bontásban megadott adatainak számtani átlaga alapján kell megállapítani.

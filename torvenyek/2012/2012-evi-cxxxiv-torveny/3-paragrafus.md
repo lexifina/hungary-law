@@ -1,8 +1,8 @@
 3. § E törvény alkalmazásában
 
-1. dohánytermék(ek): cigaretta, szivar, szivarka, pipadohány és más fogyasztási dohány, vagy egyéb, külön jogszabály szerint dohányzásra szánt, dohány alapanyagú termék;
+1. dohánytermék(ek): cigaretta, szivar, szivarka, pipadohány és más fogyasztási dohány, továbbá egyéb, külön jogszabály szerinti dohányzásra szánt dohánytermék;
 
-2. dohányterméket kiegészítő termék: olyan áru, amely a dohánytermék fogyasztását közvetlen módon elősegíti, így különösen cigarettahüvely, cigarettapapír, gyújtóeszköz, pipa, dohánylevél-töltő, továbbá az ezen termék használatához, működtetéséhez kapcsolódó termék (alkatrész) is (különösen öngyújtó újratöltő, tűzkő, szivar- és cigarettapiszka);
+2. dohányterméket kiegészítő termék: olyan áru, amely a dohánytermék fogyasztását közvetlen módon elősegíti, így különösen cigarettahüvely, cigarettapapír, gyújtóeszköz, pipa, dohánylevél-töltő, továbbá az ezen termék használatához, működtetéséhez kapcsolódó termék (alkatrész) is (különösen öngyújtó újratöltő, tűzkő);
 
 3. dohánytermékek kiskereskedelme (a továbbiakban: dohánytermék-kiskereskedelem): üzletszerű gazdasági tevékenység keretében dohánytermék forgalmazása, értékesítése és az ezzel közvetlenül összefüggő szolgáltatások nyújtása a fogyasztók részére az e törvényben meghatározott feltételek szerint;
 
@@ -12,13 +12,13 @@
 
 6. fiatalkorú: minden természetes személy, aki a 18. életévét nem töltötte be;
 
-7. fogyasztó: minden természetes személy, függetlenül attól, hogy saját, vagy más nevében jár el, illetve más természetes, vagy jogi személyt, vagy jogi személyiség nélküli szervezetet képvisel;
+7. fogyasztó: minden természetes személy, függetlenül attól, hogy saját vagy más nevében jár el, illetve más természetes vagy jogi személyt, vagy szervezetet képvisel;
 
 8. dohánybolt: nem mozgó (és részekre bontás nélkül nem is mozgatható), más üzlettől elkülönült olyan önálló üzlethelyiség, amelynek külső felületére tekintve dohánytermék nem látható, csak az üzlethelyiségbe belépve, és amelyben kizárólag
 
 a) dohánytermék,
 
-b) dohányterméket kiegészítő termék,
+b) dohányterméket kiegészítő termék, valamint a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvényben (a továbbiakban: Nvt.) meghatározott új dohánytermék-kategóriák kiegészítő terméke,
 
 c) a szerencsejáték szervezéséről szóló 1991. évi XXXIV. törvény Különös Rendelkezések I. fejezet 1. és 4. címében szabályozott sorsolásos játék és fogadás bonyolításával kapcsolatos termék,
 
@@ -40,7 +40,7 @@ k) tömegközlekedési eszközök vonaljegye (gyűjtőjegye),
 
 l) a dohányboltban forgalmazható termékek fogyasztók általi átvételére, szállítására szolgáló csomagolóeszköz, hordtasak vagy hordtáska,
 
-m) a nemdohányzók védelméről és a dohánytermékek fogyasztásának, forgalmazásának egyes szabályairól szóló 1999. évi XLII. törvényben meghatározott elektronikus cigaretta, utántöltő flakon és dohányzást imitáló elektronikus eszköz,
+m) az Nvt.-ben meghatározott elektronikus cigaretta, utántöltő flakon és dohányzást imitáló elektronikus eszköz, füst nélküli dohánytermék, továbbá új dohánytermék-kategóriák, valamint
 
 n) jogszabály által meghatározott más termék
 

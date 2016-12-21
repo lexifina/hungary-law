@@ -6,9 +6,13 @@
 
 (4) A (3) bekezdésben foglalt esetben a 15/A. § (4) bekezdése rendelkezéseit megfelelően alkalmazni kell azzal, hogy – erre vonatkozó elektronikus nyilatkozat hiányában – az adásvételi szerződés a dohánytermék-nagykereskedő és a dohány-kiskereskedelmi ellátó között akkor jön létre, amikor a dohány-kiskereskedelmi ellátó a dohányterméket a C+C raktárba betárolja. Arról a tényről, hogy az adásvételi szerződés a dohányterméknek a C+C raktárba történt betárolásával jött létre a dohány-kiskereskedelmi ellátó a dohánytermék-nagykereskedőt haladéktalanul értesíteni köteles.
 
-(5) A dohány-kiskereskedelmi ellátó a tevékenysége során egyetlen dohányterméket sem részesíthet semmilyen megkülönböztetésben; a dohánytermék-kiskereskedő megrendelését nem bírálhatja felül, vagy helyettesítheti más dohánytermékkel. Ha készlethiány miatt a dohányterméket nem lehet az e törvény által előírt határidőn belül kiszállítani, úgy a dohány-kiskereskedelmi ellátó köteles a dohánytermék beszerzése céljából a dohánytermék-nagykereskedőt megkeresni, egyúttal a készlethiányról a dohánytermék-kiskereskedőt értesíteni. Ebben az esetben a készlethiánnyal érintett dohánytermék beérkezését követően a dohánytermék-ellátó ésszerű időn belül gondoskodik a dohánytermék kiszállításáról.
+(5) A dohány-kiskereskedelmi ellátó a tevékenysége során egyetlen dohányterméket sem részesíthet semmilyen megkülönböztetésben; a dohánytermék-kiskereskedő megrendelését nem bírálhatja felül vagy helyettesítheti más dohánytermékkel. Ha készlethiány miatt a dohányterméket nem lehet az e törvény által előírt határidőn belül kiszállítani, akkor a dohány-kiskereskedelmi ellátó köteles a dohánytermék beszerzése céljából a dohánytermék-nagykereskedőt megkeresni, egyúttal a készlethiányról a dohánytermék-kiskereskedőt értesíteni. Ebben az esetben a készlethiánnyal érintett dohánytermék beérkezését követően a dohány-kiskereskedelmi ellátó ésszerű időn belül gondoskodik a dohánytermék kiszállításáról, feltéve, hogy a dohánytermék-kiskereskedő a készlethiánnyal érintett dohánytermékre a vásárlási szándékát fenntartja és azt a dohány-kiskereskedelmi ellátóval közli.
 
 (6) A dohány-kiskereskedelmi ellátó a tevékenységét – a jogszabályok és a koncessziós szerződés keretei között – maga látja el, melyhez közreműködőt csak akkor vehet igénybe, ha ezt jogszabály, vagy a koncessziós szerződés lehetővé teszi.
+
+(7) A dohány-kiskereskedelmi ellátó tevékenysége során a dohánytermék-nagykereskedőtől csak azon adatok szolgáltatását kérheti, amelyek a tevékenysége ellátásához elengedhetetlenül szükségesek. A dohánytermék-nagykereskedő olyan időben köteles a kért adatokat rendelkezésére bocsátani, hogy az a dohány-kiskereskedelmi ellátó folyamatos működését ne akadályozza, illetve korlátozza.
+
+(8) A dohánykiskereskedelem-ellátással szervesen összefüggő tevékenységnek a 3. § 8. pont b) és m) alpontja szerinti termékek dohány-kiskereskedelmi ellátó általi forgalmazása minősül.
 
 5. CÍM
 

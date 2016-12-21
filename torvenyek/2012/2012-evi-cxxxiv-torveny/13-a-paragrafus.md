@@ -2,4 +2,4 @@
 
 (2) A dohánytermék-kiskereskedő az (1) bekezdésben meghatározott termékek forgalmazását a dohányboltban az (1) bekezdés szerinti bejelentést követően kezdheti meg. Amennyiben a dohánytermék-kiskereskedő az (1) bekezdés szerinti bejelentést a 13. §-ban meghatározott engedélyezési eljárás megkezdésekor vagy annak során nyújtja be, úgy az (1) bekezdésben meghatározott termékek forgalmazását a dohányboltban csak az engedély kézhezvételét követően kezdheti meg.
 
-(3) A vámhatóság az (1) bekezdés szerinti bejelentésről értesíti a bejelentés-köteles kereskedelmi tevékenységet folytató kereskedők nyilvántartását vezető kereskedelmi hatóságot.
+(3)

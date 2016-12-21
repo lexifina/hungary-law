@@ -1,4 +1,4 @@
-16. § (1) A dohánytermék-kiskereskedelmi tevékenység folytatása során törekedni kell arra, hogy fiatalkorú dohánytermékhez ne juthasson.
+16. § (1) A dohánytermék-kiskereskedelmi tevékenység folytatása során fiatalkorú dohánytermékhez nem juthat; fiatalkorú részére dohányterméket értékesíteni, illetve kiszolgálni tilos.
 
 (2) Amennyiben annak gyanúja merül fel, hogy a dohánytermék értékesítési helyére (dohányboltba, elkülönített helyre) fiatalkorú személy lépett be, illetve a dohányterméket fiatalkorú kívánja megvásárolni, a dohánytermék-kiskereskedő köteles a fogyasztót életkora hitelt érdemlő igazolására felhívni.
 

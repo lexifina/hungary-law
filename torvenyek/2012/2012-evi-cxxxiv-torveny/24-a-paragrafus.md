@@ -5,3 +5,7 @@
 (3) A Módtv.-vel megállapított 6. § (2) bekezdés b) pontjában foglaltaktól eltérően, ha a településen legalább két jogosultságot már gyakorolnak és ameddig ezt a forgalmi adatok indokolják, a miniszter dönthet úgy, hogy a településen nem ír ki pályázatot valamennyi jogosultság átengedésére.
 
 (4) A Módtv.-vel megállapított 11. § (2) bekezdés b) pontjában foglaltakat a Módtv. hatálybalépését követően indult pályázati eljárások alapján megkötött koncessziós szerződések esetén kell alkalmazni.
+
+(5) A dohányzás visszaszorításával összefüggő egyes törvények módosításáról szóló 2016. évi CXXXV. törvénnyel (a továbbiakban: Módtv.2.) megállapított 24/F. §-ban foglaltakat a Módtv.2. hatálybalépésekor folyamatban lévő ügyekben is alkalmazni kell.
+
+(6) A Módtv.2.-vel megállapított 15. § (3) bekezdésében foglaltakat 2017. január 31. napjáig azon dohánytermék-kiskereskedelmet folytató is alkalmazhatja, akinek a dohánytermék-kiskereskedelmi jogosultsága a Módtv.2. hatálybalépését megelőzően szűnt meg, és ezt követően árukészlete maradt fent.

@@ -2,6 +2,8 @@
 
 (2) A dohánytermék-nagykereskedők az általuk forgalmazott termékek megrendelésére (megvásárlására) vonatkozó felhívással a dohánytermék-kiskereskedőket közvetlenül is megkereshetik, a dohánytermékek megrendelésére vonatkozó nyilatkozatok megtételében közreműködhetnek, azonban a dohánytermékek megrendelésére vonatkozó nyilatkozatokat csak a dohánytermék-kiskereskedő és kizárólag közvetlenül a dohány-kiskereskedelmi ellátó felé jogosult megtenni. A dohánytermék-nagykereskedő, vagy az általa kijelölt személy részére e bekezdés szerinti nyilatkozatok megtételére meghatalmazás nem adható.
 
+(3) Az (1) bekezdésben foglaltaktól eltérően a dohánytermék-kiskereskedelmet folytató a dohánytermék-kiskereskedelmi jogosultsága megszűnését követő 60 napon belül jogosult a készletében lévő dohányterméket más dohánytermék-kiskereskedelmi jogosultsággal rendelkező részére – a vonatkozó jövedéki szabályok betartása mellett – értékesíteni.
+
 4. CÍM
 
 A dohány-kiskereskedelmi ellátó
