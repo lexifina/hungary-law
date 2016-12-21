@@ -5,3 +5,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-183-00-00
 | Hatályos (In-force) | Módosította (made by) | NJT időállapot |
 | --- | --- | --- |
 | 2016-12-21 | 2016. évi CLXXXIII. törvény | 2016-183-00-00.0 (közlönyállapot) |
+| 2016-12-21 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-183-00-00.1 |

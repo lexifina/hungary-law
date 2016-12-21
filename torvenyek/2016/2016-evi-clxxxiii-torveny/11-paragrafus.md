@@ -6,7 +6,7 @@
 
 3. 103. § (3) bekezdésében a „Hivatal határozatban” szövegrész helyébe a „Hivatal elnöke rendeletben” szöveg,
 
-4. 104. § (4a) bekezdésében az „az árat meghatározó rendelet kihirdetését követő 3 munkanapon belül vagy az árat meghatározó határozat esetében” szövegrész helyébe a „legkésőbb” szöveg és a „20” szövegrész helyébe az „1” szöveg,
+4.
 
 5. 106. § (4) bekezdésében az „Az e §” szövegrész helyébe az „Az (1) és a (2) bekezdés” szöveg,
 

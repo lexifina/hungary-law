@@ -8,7 +8,7 @@
 
 4. 143. § (8) bekezdésében az „Az e §” szövegrész helyébe az „A (2) és a (7) bekezdés” szöveg,
 
-5. 143. § (9) bekezdésében a „határozatában” szövegrész helyébe a „rendeletében” szöveg és a „20” szövegrész helyébe az „1” szöveg,
+5.
 
 6. 144. § (1) bekezdésében a „határozatában” szövegrész helyébe a „rendeletében” szöveg,
 
