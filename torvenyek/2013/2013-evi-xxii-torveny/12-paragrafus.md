@@ -26,6 +26,6 @@ l) ellátja mindazokat a feladatokat, amelyeket törvény, törvény felhatalmaz
 
 m) együttműködési megállapodást köthet más állami szervekkel, tagállami felügyeleti hatóságokkal, társadalmi szervezetekkel,
 
-n) határozatban megállapítja a villamos energia rendszerhasználati díjakat, a villamos energia csatlakozási díjakat, valamint az elosztó által a felhasználó vagy az engedélyes igénye alapján külön díj ellenében végezhető szolgáltatások díját, továbbá az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások díját,
+n) rendeletben megállapítja a villamos energia rendszerhasználati díjakat, a villamos energia csatlakozási díjakat, valamint az elosztó által a felhasználó vagy az engedélyes igénye alapján külön díj ellenében végezhető szolgáltatások díját, továbbá az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végezhető szolgáltatások díját,
 
-o) határozatban megállapítja a földgáz rendszerhasználati díjakat, a földgáz csatlakozási díjakat, valamint a rendszerüzemeltetők által a felhasználók vagy a rendszerhasználó igénye alapján külön díj ellenében végezhető szolgáltatások díját, továbbá a rendszerüzemeltetők által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások díjait.
+o) rendeletben megállapítja a földgáz rendszerhasználati díjakat, a földgáz csatlakozási díjakat, valamint a rendszerüzemeltetők által a felhasználók vagy a rendszerhasználó igénye alapján külön díj ellenében végezhető szolgáltatások díját, továbbá a rendszerüzemeltetők által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások díjait.
