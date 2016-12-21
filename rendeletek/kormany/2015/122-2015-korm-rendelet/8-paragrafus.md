@@ -1,4 +1,4 @@
-## 7. § Az energiapolitikáért felelős miniszter gondoskodik a felújítandó központi kormányzati épületek nyilvántartásában szereplő adatok közzétételéről az általa vezetett minisztérium honlapján.
+## 7/F. § A közintézmények tulajdonában és használatában álló, közfeladat ellátását szolgáló épület üzemeltetéséért felelős az épület energiafogyasztási adatait havi rendszerességgel, a tárgyhónapot követő 5. napon jelenti be.
 
 ## 6. A közintézmények által megkötésre kerülő energiahatékonyság-alapú szerződés kötelező tartalmi elemei
 

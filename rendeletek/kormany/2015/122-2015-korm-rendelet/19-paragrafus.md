@@ -8,7 +8,7 @@ c) akinek az a) vagy b) pont szerinti személy a Polgári Törvénykönyvben meg
 
 (2) Az energetikai audit ellenőrzése során
 
-a) az energetikai audit megállapításai, számítási részeredményei és a végeredmény igazolása, az ezek alapján megfogalmazott javaslat indokoltsága, valamint
+a)[^11] az energetikai auditálás folyamata, az energetikai audit megállapításai, számítási részeredményei és a végeredmény igazolása, az ezek alapján megfogalmazott javaslat indokoltsága, valamint
 
 b) a felhasznált adatok és a teljes számítás megfelelősége
 
@@ -17,3 +17,5 @@ b) a felhasznált adatok és a teljes számítás megfelelősége
 (3) A Hivatal az energetikai audit alapadatait szükség szerinti helyszíni ellenőrzés során azonosítja be.
 
 (4) A Hivatal vagy annak alkalmazottja nem végezhet energetikai auditálási tevékenységet.
+
+[^11]: A 19. § (2) bekezdés a) pontja a 393/2016. (XII. 5.) Korm. rendelet 9. §-ával megállapított szöveg.

@@ -108,9 +108,9 @@ A nemzeti energiahatékonysági cselekvési tervnek információkat kell közöl
 
 3. Különös információk
 
-3.1. Közintézmények:
+3.1.[^36] Közintézmények:
 
-A nemzeti energiahatékonysági cselekvési tervnek tartalmaznia kell az energiahatékonysági tervet kidolgozó közintézmények felsorolását.
+A nemzeti energiahatékonysági cselekvési tervnek tartalmaznia kell az energiamegtakarítási intézkedési tervet kidolgozó közintézmények felsorolását.
 
 3.2. Az energiahatékonyságra vonatkozó kötelezettségek
 
@@ -155,3 +155,5 @@ b) az energiahatékonysági piac aktuális helyzetének és a jövőben várhat�
 A III. Nemzeti Energiahatékonysági Cselekvési Tervnek tartalmaznia kell az energiahatékonyságot akadályozó szabályozási és nem szabályozási korlátokat, és szükség esetén az azok elhárítása érdekében tett intézkedések jegyzékét.
 
 3.10. A nemzeti energiahatékonysági cselekvési tervnek tartalmaznia kell a 2020. évi teljes primerenergia-felhasználásra vonatkozó naprakész becsléseket, valamint az 1. mellékletben megjelölt ágazatok primerenergia-fogyasztására vonatkozó becsléseket.
+
+[^36]: A 2. melléklet 3.1. pontja a 393/2016. (XII. 5.) Korm. rendelet 16. § i) pontja szerint módosított szöveg.

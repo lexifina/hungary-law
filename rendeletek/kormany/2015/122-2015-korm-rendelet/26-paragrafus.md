@@ -1,7 +1,15 @@
-## 25. § A regisztráló szervezetnek rendelkeznie kell az energetikai auditorok és energetikai auditáló szervezetek regisztrálásával kapcsolatos feladatok megfelelő ellátásához szükséges személyzettel és felszereltséggel.
+26. §[^26] (1) A közreműködő szervezeti tevékenység végzéséhez szükséges engedély iránti kérelemben meg kell jelölni a közreműködő szervezetek nyilvántartásában feltüntetendő adatokat, a kérelemhez mellékelni kell:
 
-26. § (1) A regisztráló szervezeti tevékenység végzéséhez szükséges engedély iránti kérelemben meg kell jelölni a regisztráló szervezetek nyilvántartásában feltüntetendő adatokat, a kérelemhez mellékelni kell a működési és eljárási szabályzatot, a szakmai vizsga tartalmáról és eljárásrendjéről, valamint a felkészítő tanfolyam tananyagáról és a részletes oktatási módszertanról szóló szabályzatot és nyilatkozatot a regisztrálással kapcsolatos feladatok megfelelő ellátásához szükséges személyzet és felszereltség rendelkezésre állásáról.
+a) a működési és eljárási szabályzatot,
 
-(2)[^8]
+b) a szakmai vizsga és a megújító vizsga tartalmáról és eljárásrendjéről szóló szabályzatot,
 
-[^8]: A 26. § (2) bekezdését a 441/2015. (XII. 28.) Korm. rendelet 252. §-a hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+c) a felkészítő tanfolyam és a továbbképzés tananyagáról és a részletes oktatási módszertanról szóló szabályzatot és
+
+d) nyilatkozatot a 25. §-ban meghatározott feltételek rendelkezésre állásáról.
+
+(2) Az (1) bekezdés a)–c) pontjában meghatározott szabályzatok nélkül benyújtott kérelmet a Hivatal érdemi vizsgálat nélkül elutasítja.
+
+(3) A közreműködő szervezet a felkészítő tanfolyam és a továbbképzés dokumentációját, valamint a vizsgadokumentációt a tanfolyam, a képzés és a vizsga zárását követő 10 munkanapon belül köteles megküldeni a Hivatal részére.
+
+[^26]: A 26. § a 393/2016. (XII. 5.) Korm. rendelet 14. §-ával megállapított szöveg.

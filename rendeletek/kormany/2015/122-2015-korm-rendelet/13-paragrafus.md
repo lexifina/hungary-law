@@ -20,7 +20,9 @@ b) a fogyasztási trendek, bázisértékek és fajlagos értékek meghatározás
 
 c) az energiapazarlási pontok megkeresésére és bemutatására,
 
-d) a költséghatékonyabb energia-felhasználási módok feltárására és elemzésére, a megújuló energiaforrások alkalmazásának lehetőségére, valamint a fejlettebb üzemeltetési eljárások és esetleges új berendezések bemutatására.
+d) a költséghatékonyabb energia-felhasználási módok feltárására és elemzésére, a megújuló energiaforrások alkalmazásának lehetőségére, valamint a fejlettebb üzemeltetési eljárások és esetleges új berendezések bemutatására,
+
+e)[^7] az energetikai auditban javasolt intézkedések végrehajtása esetén az elért energiamegtakarítás nyomon követésének módszerére.
 
 (5) Az energetikai auditnak részletes és hitelesített számításokat kell lehetővé tennie a javasolt energiahatékonyság-javítási intézkedésekre vonatkozóan és számszerűsítenie kell az energiahatékonysági potenciált (potenciális megtakarításokat). A potenciál kiaknázásához szükséges intézkedéseket az energetikai auditnak legalább a (6) bekezdésben meghatározott beavatkozási kategóriákban kell megfogalmaznia, és az ajánlott intézkedésekre lebontva kell számszerűsítenie a potenciális megtakarítások kiaknázásának ajánlott mértékét, a szükséges beruházási költségeket, valamint a megtérülési időt.
 
@@ -39,3 +41,10 @@ a) az ajánlások megvalósításának lehetséges lépéseire,
 b) a támogatási és finanszírozási programokra, valamint
 
 c) egy már meglévő vagy tervezett távfűtési vagy távhűtési rendszerhez való csatlakozás lehetőségére
+
+## vonatkozó tájékoztatásra.
+
+(8)[^8] Az energetikai auditálás az MSZ EN 16247-1, -2, -3, -4 szabvány alkalmazásával is elkészíthető, az energetikai auditálási tevékenység folytatatására irányuló jogszabályi rendelkezések figyelembevétele mellett.
+
+[^7]: A 13. § (4) bekezdés e) pontját a 393/2016. (XII. 5.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^8]: A 13. § (8) bekezdését a 393/2016. (XII. 5.) Korm. rendelet 6. § (2) bekezdése iktatta be.
