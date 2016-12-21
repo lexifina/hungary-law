@@ -1,40 +1,40 @@
 ## A hitelesítői akkreditáció szakterületei
 
-|  | A | B |
+|  | A | B | C |
 
-| 1 | Szakterület neve és száma | Akkreditálási alkalmazási kör |
+| 1 | Tevékenységcsoport száma | Szakterület neve és száma | Akkreditálási alkalmazási kör |
 
-| 2 | Energetika 1a/1b | Tüzelőanyagok olyan létesítményekben történő elégetése, amelyekben csak az üvegházhatást okozó gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről szóló, 2012. június 21-i 601/2012/EU bizottsági rendeletben meghatározott, kereskedelemben forgalmazott szabványos tüzelőanyagokat használnak, vagy olyan A vagy B kategóriájú létesítményekben, ahol földgázt használnak. |
+| 2 | 1a | Energetika | Tüzelőanyagok olyan létesítményekben történő elégetése, amelyekben csak az üvegházhatást okozó gázok kibocsátásának a 2003/87/EK európai parlamenti és tanácsi irányelvnek megfelelő nyomon követéséről és jelentéséről szóló, 2012. június 21-i 601/2012/EU bizottsági rendeletben meghatározott, kereskedelemben forgalmazott szabványos tüzelőanyagokat használnak vagy olyan A vagy B kategóriájú létesítményekben, ahol földgázt használnak. |
 
-| 3 | Tüzelőanyagok létesítményekben történő elégetése, korlátozások nélkül |
+| 3 | 1b | Energetika | Tüzelőanyagok létesítményekben történő elégetése, korlátozások nélkül |
 
-| 4 | Ásványolaj finomítása 2 | Ásványolaj finomítása |
+| 4 | 2 | Ásványolaj finomítása | Ásványolaj finomítása |
 
-| 5 | Koksz, fémek előállítása 3/4/5 | – Koksz előállítása – Fémérc (beleértve a szulfidércet is) pörkölése vagy szinterelése, ideértve a pelletezést is – Nyersvas vagy acél gyártása (elsődleges vagy másodlagos olvasztás), beleértve a folyamatos öntést is |
+| 5 | 3 | Koksz, fémek előállítása | a) Koksz előállítása b) Fémérc (beleértve a szulfidércet is) pörkölése vagy szinterelése, ideértve a pelletezést is c) Nyersvas vagy acél gyártása (elsődleges vagy másodlagos olvasztás), beleértve a folyamatos öntést is |
 
-| 6 | – Vasfémek előállítása és feldolgozása (beleértve a vasötvözeteket is) – Másodlagos alumínium előállítása – Vasfémek előállítása és feldolgozása, beleértve a vasötvözetek előállítását is |
+| 6 | 4 | a) Vasfémek előállítása és feldolgozása (beleértve a vasötvözeteket is) b) Másodlagos alumínium előállítása c) Vasfémek előállítása és feldolgozása, beleértve a vasötvözetek előállítását is |
 
-| 7 | Elsődleges alumínium előállítása (CO2- és PFC-kibocsátás) |
+| 7 | 5 | Elsődleges alumínium előállítása (CO2- és PFC-kibocsátás) |
 
-| 8 | Cement, üveg, kerámia stb. gyártása 6 | – Cement-klinker előállítása – Mész előállítása, valamint dolomit és magnezit kalcinálása – Üveg gyártása, beleértve az üvegszálgyártást is – Kerámiatermékek égetéses előállítása – Ásványi gyapot szigetelőanyag előállítása – Gipszszárítás vagy kalcinálás, illetve gipszkarton és más gipsztermékek előállítása |
+| 8 | 6 | Cement, üveg, kerámia stb. gyártása | a) Cementklinker előállítása b) Mész előállítása, valamint dolomit és magnezit kalcinálása c) Üveg gyártása, beleértve az üvegszálgyártást is d) Kerámiatermékek égetéses előállítása e) Ásványi gyapot szigetelőanyag előállítása f) Gipszszárítás vagy kalcinálás, illetve gipszkarton és más gipsztermékek előállítása |
 
-| 9 | Papírgyártás 7 | – Faanyagból származó pép vagy egyéb szálas anyagok gyártása – Papír vagy karton gyártása |
+| 9 | 7 | Papírgyártás | a) Faanyagból származó pép vagy egyéb szálas anyagok gyártása b) Papír vagy karton gyártása |
 
-| 10 | Vegyipari tevékenységek 8/9 | – Ipari korom előállítása – Ammónia előállítása – Ömlesztett szerves vegyszerek előállítása krakkolással, reformálással, részleges vagy teljes oxidálással vagy hasonló eljárásokkal – Hidrogén (H2) és szintetikus gáz előállítása reformálással vagy részleges oxidálással – Nátrium-karbonát (Na2CO3) és nátrium-hidrogén-karbonát (NaHCO3) előállítása |
+| 10 | 8 | Vegyipari tevékenységek | a) Ipari korom előállítása b) Ammónia előállítása c) Ömlesztett szerves vegyszerek előállítása krakkolással, reformálással, részleges vagy teljes oxidálással vagy hasonló eljárásokkal d) Hidrogén (H2) és szintetikus gáz előállítása reformálással vagy részleges oxidálással e) Nátrium-karbonát (Na2CO3) és nátrium-hidrogén-karbonát (NaHCO3) előállítása |
 
-| 11 | – Salétromsav előállítása (CO2- és N2O-kibocsátás) – Adipinsav előállítása (CO2- és N2O-kibocsátás) – Glioxál és glioxilsav előállítása (CO2- és N2O-kibocsátás) – Kaprolaktám előállítása |
+| 11 | 9 9 | a) Salétromsav előállítása (CO2- és N2O-kibocsátás) b) Adipinsav előállítása (CO2- és N2O-kibocsátás) c) Glioxál és glioxilsav előállítása (CO2- és N2O-kibocsátás) d) Kaprolaktám előállítása |
 
-| 12 | CO2 elkülönítés és szállítás 10 | – Üvegházhatású gázoknak szállítás és a bányászatról szóló 1993. évi XLVIII. törvény alapján engedélyezett tárolóhelyen történő geológiai tárolás céljából való elkülönítése olyan létesítményekben, amelyekre az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény hatálya kiterjed – Üvegházhatású gázoknak a bányászatról szóló 1993. évi XLVIII. törvény alapján engedélyezett tárolóhelyen történő geológiai tárolás céljából való csővezetékek révén történő szállítása |
+| 12 | 10 | CO2-elkülönítés és -szállítás | a) Üvegházhatású gázoknak szállítás és a bányászatról szóló 1993. évi XLVIII. törvény alapján engedélyezett tárolóhelyen történő geológiai tárolás céljából való elkülönítése olyan létesítményekben, amelyekre az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény hatálya kiterjed b) Üvegházhatású gázoknak a bányászatról szóló 1993. évi XLVIII. törvény alapján engedélyezett tárolóhelyen történő geológiai tárolás céljából való csővezetékek révén történő szállítása |
 
-| 13 | CO2 geológiai tárolás 11 | Üvegházhatású gázoknak a bányászatról szóló 1993. évi XLVIII. törvény alapján engedélyezett tárolóhelyen történő geológiai tárolása |
+| 13 | 11 | CO2 geológiai tárolás | Üvegházhatású gázoknak a bányászatról szóló 1993. évi XLVIII. törvény alapján engedélyezett tárolóhelyen történő geológiai tárolása |
 
-| 14 | Légiközlekedés 12 | Légiközlekedési tevékenységek (kibocsátás és tonnakilométer-adatok) |
+| 14 | 12 | Légiközlekedés | Légiközlekedési tevékenységek (kibocsátás- és tonnakilométer-adatok) |
 
-| 15 | 98 egyéb | Az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti egyéb tevékenységek |
+| 15 | 98 | Egyéb | A 2003/87/EK európai parlamenti és tanácsi irányelv 10a. cikke szerinti egyéb tevékenységek |
 
-| 16 | 99 egyéb | Egyéb, a tagállam által a 2003/87/EK európai parlamenti és tanácsi irányelv 24. cikkének megfelelően felvett tevékenységek, amelyeket az akkreditálási okiratban kell részletesen meghatározni |
+| 16 | 99 | Egyéb | A 2003/87/EK európai parlamenti és tanácsi irányelv 24. cikkének megfelelően az irányelv I. mellékletében meghatározottakon túlmenően a tagállam által az EU ETS hatálya alá vont egyéb tevékenységek, amelyeket az akkreditálási okiratban kell részletesen meghatározni |
 
-2. melléklet a 295/2012. (X. 16.) Korm. rendelethez
+2. melléklet a 295/2012. (X. 16.) Korm. rendelethez[^38]
 
 Az EU ETS hitelesítő szakértőre vonatkozó szakmai követelmények
 
@@ -48,29 +48,43 @@ I.2 Az EUETS vezető hitelesítő szakértőnek az I.1 pontban megjelölteken t�
 
 I.3 Az az EU ETS hitelesítő szakértő, aki csak a II.1.3 b) pont szerinti ipari eljárástechnológiai végzettséggel rendelkezik, csak a képesítésének megfelelő kibocsátásokra irányuló hitelesítési tevékenységben vehet részt.
 
+I.4. Az 1. mellékletben található 98-as tevékenységi csoport esetén a hitelesítőnek az alábbi feltételek mindegyikének meg kell felelnie:
+
+a) Az 1. melléklet 1–9 és 12 tevékenységi csoportok valamennyi, a 600/2012/EU bizottsági rendelet 35–39. cikkén alapuló kompetenciájával rendelkezik.
+
+b) Bemutatja a kibocsátási egységekre vonatkozó harmonizált ingyenes kiosztás uniós szintű átmeneti szabályainak a 2003/87/EK európai parlamenti és tanácsi irányelv 10a. cikke értelmében történő meghatározásáról szóló 2011. április 27-i 2011/278/EK európai bizottsági határozat teljes mélységű ismeretét az akkreditáló szerv számára, beleértve a kibocsátási egységek 2012 utáni harmonizált ingyenes kiosztására vonatkozó módszertani segédletek ismeretét is.
+
+c) Bemutatja a létesítményre vonatkozó teljes mélységű ismeretét az akkreditáló szerv számára, beleértve annak tervezett normál üzemelését, karbantartását, az általános termelési ciklusait, a bemenetek emisszióintenzitását és az érintett ágazatbeli jellemző kapacitáskihasználást a szektorspecifikus információkkal összehasonlítva.
+
+d) Szükség esetén képes az alkalmazott energia vagy üvegházhatású gáz hatékonysági és csökkentési műszaki technológiák nemzetközi viszonylatban vett helyzetének megítélésére.
+
 II. Szakirányú felsőfokú végzettség
 
-II.1 Kötelező felsőfokú végzettség EU ETS hitelesítő szakértő esetén:
+II.1. Kötelező felsőfokú végzettség EU ETS hitelesítő szakértő esetén:
 
-II.1.1 Energetika területén:
+II.1.1. Energetika területén:
 
-aa) energetikai mérnök vagy szakmérnök;
+a) energetikai mérnök vagy szakmérnök;
 
-ab) hőerőgépész-mérnök vagy szakmérnök.
+b) gépészmérnök vagy -szakmérnök (folyamattervező szak, géptervező szak, gépipari technológia szak, termelési rendszer szak, vegyipari és élelmiszer-ipari gépész szak, matematikusmérnök szak, járműgépész szak, gépesítési szak, gépgyártás-technológiai szak, vegyipari gépész szak; gépészeti rendszertechnika szak, gépipari automatizálási szak, épületgépészeti szak, autógépész szak, vasútgépész szak, járműgyártási szak, hajógépész szak, építőgépész szak, gyárszerelő szak, műanyag alkalmazástechnikai szak, üzemgépészeti szak, szilikát- és vegyipari szak);
 
-II.1.2 Analitika területén:
+c) villamos mérnök vagy szakmérnök (híradástechnikai szak, erősáramú szak, műszer- és irányítástechnikai szak, mikroelektronikai és technológiai szak, mikroelektronikai alkatrész- és készüléktechnológia szak, műszeripari és automatizálási szak, híradásipari szak, villamosenergetika szak, villamos gépek és készülékek szak, erősáramú automatika szak, számítástechnikai eszközök szak, épületvillamosítási szak, vezetékes távközléstechnikai szak, vezeték nélküli távközléstechnikai szak, közlekedési automatika szak, mérés és automatizálási szak);
 
-ba) vegyész;
+d) vegyészmérnök vagy szakmérnök (szerves és biológiai vegyipari szak, vegyipari szervező szak, nehézvegyipari szak, szervező vegyészmérnöki szak, vegyipari műszer- és méréstechnikai szak, agrárkémiai szak, szerves és biológiai vegyipari üzemmérnöki szak, vegyipari szervező üzemmérnöki szak, szervező vegyész üzemmérnöki szak).
 
-bb) vegyészmérnök;
+II.1.2. Analitika területén:
 
-bc) műszeres analitikai mérnök.
+a) vegyész;
 
-II.1.3 Ipari eljárástechnológia területen:
+b) vegyészmérnök; (szerves és biológiai vegyipari szak, vegyipari szervező szak, nehézvegyipari szak, szervező vegyészmérnöki szak, vegyipari műszer- és méréstechnikai szak, agrárkémiai szak, szerves és biológiai vegyipari üzemmérnöki szak, vegyipari szervező üzemmérnöki szak, szervező vegyész üzemmérnöki szak);
+
+c) műszeres analitikai mérnök.
+
+II.1.3. Ipari eljárástechnológia területen:
 
 a) az Ükt. 1. számú mellékletében szereplő valamennyi tevékenységre nézve:
 
-aa) vegyészmérnök vagy szakmérnök (mérnök és üzemmérnök);
+aa) vegyészmérnök vagy szakmérnök (mérnök és üzemmérnök); (szerves és biológiai vegyipari szak, vegyipari szervező szak, nehézvegyipari szak, szervező vegyészmérnöki szak, vegyipari műszer- és méréstechnikai szak, agrárkémiai szak, szerves és biológiai vegyipari üzemmérnöki szak, vegyipari szervező üzemmérnöki szak, szervező vegyész üzemmérnöki szak);
 
 ab) vegyipari gépészmérnök vagy szakmérnök (mérnök és üzemmérnök);
 
@@ -82,17 +96,17 @@ ae) környezetmérnök és -szakmérnök, környezetvédelmi mérnök és -szakm
 
 b) az Ükt. 1. számú mellékletében szereplő egyes tevékenységekre nézve:
 
-ba) ásványolaj-feldolgozás: olaj- és gázipari mérnök;
+ba) ásványolaj-feldolgozás: olaj- és gázipari mérnök; (fluidumbányászati szak, kőolaj- és földgázipari szak);
 
-bb) kokszolás: kohómérnök;
+bb) kokszolás: kohómérnök; (metallurgus szak, fémalakító szak, metallurgiai szak, alakítástechnológiai szak);
 
-bc) fémércek pörkölése és zsugorítása: kohómérnök;
+bc) fémércek pörkölése és zsugorítása: kohómérnök; (metallurgus szak, fémalakító szak, metallurgiai szak, alakítástechnológiai szak);
 
-bd) vas- és acéltermelés: kohómérnök;
+bd) vas- és acéltermelés: kohómérnök; (metallurgus szak, fémalakító szak, metallurgiai szak, alakítástechnológiai szak);
 
-be) ásványanyag-ipar: kohómérnök.
+be) ásványanyagipar: kohómérnök; (metallurgus szak, fémalakító szak, metallurgiai szak, alakítástechnológiai szak).
 
-II.1.4 Légiközlekedési területen
+II.1.4. Légiközlekedési területen:
 
 a) közlekedésmérnök, légiközlekedési szakirány;
 
@@ -104,23 +118,25 @@ d) PPL(A) (Private Pilot License) magánpilóta;
 
 e) CPL (Commercial Pilot License) kereskedelmi pilóta.
 
-II.2 Kötelező felsőfokú végzettség vezető hitelesítő szakértő esetén:
+II.2. Kötelező felsőfokú végzettség vezető hitelesítő szakértő esetén:
 
-II.2.1 Minőségbiztosítási területen:
+II.2.1. Minőségbiztosítási területen:
 
-a) minőségbiztosítási mérnök;
+a) minőségbiztosítási vagy minőségmenedzsment mérnök, vagy szakmérnök;
 
-b) műszaki menedzser minőségbiztosítás szakterületen;
+b) műszaki menedzser vagy műszaki képzési területen és a gazdaságtudományok képzési területen szerzett minőségbiztosítási tárgyú szakirányú továbbképzések;
 
-c) gazdaságmérnök, ideértve a mérnök-közgazdász másoddiplomát is.
+c) gazdaságmérnök, ideértve a mérnök-közgazdász másoddiplomát is;
 
-II.2.2 Kockázatkezelési területen:
+d) MBA (Master of Business Administration).
+
+II.2.2. Kockázatkezelési területen:
 
 a) aktuárius (biztosítási matematikus);
 
 b) közgazdász, pénzügyi szakirány.
 
-II.2.3 Audit területen:
+II. 2.3. Audit területen:
 
 a) könyvvizsgáló;
 
@@ -133,3 +149,5 @@ III. Szakmai gyakorlat
 III.1 A 6. § (1) bekezdés szerinti megfelelő szakmai gyakorlatnak minősül a II.1.1, II.1.2 és II.1.3 pont szerinti iparági technológiai szakterületen vagy légiközlekedési szakterületen eltöltött, legalább ötéves szakmai gyakorlat, továbbá az ezen szakterületekkel kapcsolatos legalább ötéves tudományos és oktatói tevékenység.
 
 III.2 Az EU ETS vezető hitelesítő igazolhatja az I.2 pont szerinti szaktudását minőségbiztosítási, kockázatkezelési vagy audit szakterületen eltöltött, legalább ötéves szakmai gyakorlattal is.
+
+[^38]: A 2. melléklet a 394/2016. (XII. 5.) Korm. rendelet 4. § (2) bekezdése szerint módosított szöveg.
