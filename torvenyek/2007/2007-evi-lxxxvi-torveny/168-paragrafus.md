@@ -52,7 +52,7 @@ k) az árszabályozási ciklus indulását megelőzően lefolytatott, 141. § (1
 
 (9) A Hivatal köteles határozatait nyilvánosan közzétenni.
 
-(10) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat, a más engedélyes kijelölési eljárás során hozott határozat, továbbá a rendszerhasználati díjakat, az elosztó által külön díj ellenében végezhető szolgáltatások díjait, a csatlakozási díjakat megállapító határozat, továbbá a végső menedékes kijelölési eljárásban hozott határozat kivételével – a határozatot jogosult megváltoztatni.
+(10) A közigazgatási ügyekben eljáró bíróság a Hivatal határozatának bírósági felülvizsgálata során – a villamosenergia-rendszer jelentős zavara és a villamosenergia-ellátási válsághelyzet esetén szükséges intézkedésekről szóló kormányrendelet alapján meghozott döntés, valamint a tanúsítási eljárás eredményeképpen hozott határozat, a más engedélyes kijelölési eljárás során hozott határozat, továbbá a végső menedékes kijelölési eljárásban hozott határozat kivételével – a határozatot jogosult megváltoztatni.
 
 (11) A Hivatal jogerős határozatával lezárt ügyben nem nyújtható be újrafelvételi kérelem.
 
@@ -78,7 +78,7 @@ e) a folyamatos ellátás vagy a folyamatos közvilágítás biztosítása érde
 
 f) a más engedélyes kijelölése érdekében a korábbi engedélyes vagy az eszköz tulajdonosának jogait, kötelezettségeit korlátozza,
 
-g) rendszerhasználati díjakat, az elosztó által külön díj ellenében végezhető szolgáltatások díjait vagy csatlakozási díjakat állapít meg.
+g)
 
 (16) A Hivatal engedélyezési eljárásai során hirdetményt tesz közzé az eljárás megindításáról.
 

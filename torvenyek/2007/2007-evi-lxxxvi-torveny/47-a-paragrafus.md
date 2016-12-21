@@ -2,7 +2,7 @@
 
 (2) Az egyetemes szolgáltatásra jogosult nem lakossági felhasználóval a kikapcsolásra és az azzal járó szolgáltatásszüneteltetésre vonatkozó értesítést tértivevényes levélben vagy az egyetemes szolgáltatásra jogosult nem lakossági felhasználó általi átvétel igazolására alkalmas más módon kell közölni.
 
-(3) Amennyiben a villamosenergia-ellátásból kikapcsolt, egyetemes szolgáltatásra jogosult nem lakossági felhasználó rendezi valamennyi lejárt tartozását, valamint a 146. § (1) bekezdése szerinti rendeletben és 146. § (4) bekezdése szerinti határozatban meghatározott díjat is megfizeti, a villamosenergia-kereskedő annak tudomására jutását követően 24 órán belül köteles kezdeményezni az egyetemes szolgáltatásra jogosult nem lakossági felhasználó ellátásba történő ismételt bekapcsolását.
+(3) Amennyiben a villamosenergia-ellátásból kikapcsolt, egyetemes szolgáltatásra jogosult nem lakossági felhasználó rendezi valamennyi lejárt tartozását, valamint a 146. § (1) bekezdése szerinti rendeletben és a 146. § (4) bekezdése szerinti rendeletben meghatározott díjat is megfizeti, a villamosenergia-kereskedő annak tudomására jutását követően 24 órán belül köteles kezdeményezni az egyetemes szolgáltatásra jogosult nem lakossági felhasználó ellátásba történő ismételt bekapcsolását.
 
 (4) Az elosztó az (1) és (3) bekezdés szerinti kezdeményezésnek legkésőbb annak kézhezvételét követő munkanapon köteles eleget tenni.
 

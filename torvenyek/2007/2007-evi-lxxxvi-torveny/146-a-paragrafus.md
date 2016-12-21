@@ -2,7 +2,7 @@
 
 (2) A Hivatal elnöke rendeletben állapítja meg a csatlakozási díj fizetésére kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.
 
-(3) A csatlakozási díjak mértékét a Hivatal határozatban állapítja meg legkésőbb a díjak tervezett alkalmazhatósága előtt 45 nappal. A Hivatal a határozatát a csatlakozási díjak alkalmazhatósága előtt legalább 25 nappal a honlapján közzéteszi.
+(3) A csatlakozási díjak mértékét a Hivatal elnöke rendeletben állapítja meg.
 
 (4) A Hivatal az (1) bekezdésben meghatározott rendelet előkészítése során kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleti szerveinek véleményét.
 

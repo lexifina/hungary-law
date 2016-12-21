@@ -178,9 +178,9 @@ rendeletben állapítsa meg.
 
 (5) Felhatalmazást kap a Hivatal elnöke, hogy rendeletben állapítsa meg
 
-1. az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjfizetésre kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait,
+1. az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjfizetésre kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait, valamint a rendszerhasználati díjak mértékét,
 
-2. a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait,
+2. a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díjfizetésre kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, valamint a csatlakozási díjak mértékét,
 
 3. az elosztók közötti kiegyenlítő fizetések mértékét,
 
@@ -188,4 +188,4 @@ rendeletben állapítsa meg.
 
 5. a hálózathasználati szerződés és az egyetemes szolgáltatásra jogosult felhasználó esetén a villamosenergia-vásárlási szerződés engedélyes általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket;
 
-9. az elosztó által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végzett szolgáltatások körét, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait.
+9. az elosztó által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végzett szolgáltatások körét, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait, valamint a külön díjak mértékét.

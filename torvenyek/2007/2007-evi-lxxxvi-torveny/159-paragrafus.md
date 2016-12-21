@@ -8,15 +8,15 @@
 
 4. ellenőrzi az e törvényben, a végrehajtására kiadott külön jogszabályokban, 714/2009/EK rendeletben, valamint az annak felhatalmazása alapján kiadott európai bizottsági rendeletben, a Hivatal által kiadott határozatokban, a villamosenergia-ellátási szabályzatokban, valamint az üzletszabályzatokban meghatározott kötelezettségek betartását,
 
-5. rendeletben határozza meg az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjak fizetésére kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait,
+5. rendeletben határozza meg az egyes rendszerhasználati díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a rendszerhasználati díjak fizetésére kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait, valamint a rendszerhasználati díjak mértékét,
 
-6. rendeletben határozza meg a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díj fizetésére kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait.
+6. rendeletben határozza meg a csatlakozási díjak elemeit, a díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, a csatlakozási díj fizetésére kötelezettek körét és a csatlakozási díjak alkalmazásának szabályait, valamint a csatlakozási díjak mértékét,
 
 7. előkészíti az egyetemes szolgáltatás árképzésére vonatkozó szabályokat,
 
 8. javaslatot tesz az egyetemes szolgáltató által a felhasználók igénye alapján külön díj ellenében végzett szolgáltatások körére, azok külön díjaira és ezen külön díjak alkalmazásának szabályaira, valamint az egyetemes szolgáltató által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások körére, azok külön díjaira és ezen külön díjak alkalmazásának szabályaira,
 
-8a. rendeletben határozza meg az elosztó által a felhasználó vagy az engedélyes igénye alapján külön díj ellenében, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét a külön díjak megállapításának kereteit, valamint a külön díjak alkalmazásának szabályait,
+8a. rendeletben határozza meg az elosztó által a felhasználó vagy az engedélyes igénye alapján külön díj ellenében, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét a külön díjak megállapításának kereteit, valamint a külön díjak alkalmazásának szabályait és a külön díjak mértékét,
 
 9. dönt a közcélúvá, ezen belül átviteli vagy elosztó hálózati elemmé történő minősítésről vagy átminősítésről,
 

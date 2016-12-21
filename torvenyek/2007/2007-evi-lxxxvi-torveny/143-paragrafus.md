@@ -18,12 +18,12 @@ b) a (3) bekezdés b) pontja szerinti útmutatót a következő árszabályozás
 
 a honlapján közzéteszi.
 
-(5) A rendszerhasználati díjak mértékét a Hivatal – figyelemmel a (2) bekezdés szerinti rendeletre és a módszertani útmutatókra – határozatban állapítja meg, legkésőbb a díjak alkalmazhatósága előtt 45 nappal. A Hivatal a határozatát a rendszerhasználati díjak alkalmazhatósága előtt legalább 25 nappal a honlapján közzéteszi.
+(5) A rendszerhasználati díjak mértékét a Hivatal elnöke – figyelemmel a (2) bekezdés szerinti rendeletre és módszertani útmutatókra – rendeletben állapítja meg.
 
-(6) A 142. § (6) bekezdése szerinti kiegyenlítő fizetések mértékét a Hivatal a rendszerhasználati díjakról kiadott határozatában – a rendszerhasználati díjakkal egyidejűleg – állapítja meg.
+(6) A 142. § (6) bekezdése szerinti kiegyenlítő fizetések mértékét a Hivatal elnöke a rendszerhasználati díjakat megállapító rendeletében – a rendszerhasználati díjakkal egyidejűleg – állapítja meg.
 
 (7) A rendszerhasználati díjak fizetésére kötelezettek körét és a rendszerhasználati díjak alkalmazásának szabályait a Hivatal elnöke rendeletben állapítja meg, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.
 
-(8) Az e § szerinti rendeletek, valamint a módszertani útmutatóinak előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
+(8) A (2) és a (7) bekezdés szerinti rendeletek, valamint a módszertani útmutatóinak előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
 
 (9) A hálózati engedélyesek a Hivatal elnökének határozatában meghatározott rendszerhasználati díjakat és áralkalmazási feltételeket kötelesek a honlapjukon 3 munkanapon belül közzétenni.

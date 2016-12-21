@@ -38,6 +38,6 @@ c) munkaszüneti napot vagy ünnepnapot közvetlenül megelőző munkanapon,
 
 d) külön jogszabályban meghatározott pihenőnapon.
 
-(9) Amennyiben a villamosenergia-ellátásból kikapcsolt lakossági fogyasztó rendezi valamennyi lejárt tartozását, valamint a 146. § (1) bekezdése szerinti rendeletben és 146. § (4) bekezdése szerinti határozatban meghatározott külön díjat is megfizeti, a villamosenergia- kereskedő annak tudomására jutását követően 24 órán belül köteles kezdeményezni a lakossági fogyasztónak az ellátásba történő ismételt bekapcsolását.
+(9) Amennyiben a villamosenergia-ellátásból kikapcsolt lakossági fogyasztó rendezi valamennyi lejárt tartozását, valamint a 146. § (1) bekezdése szerinti rendeletben és a 146. § (4) bekezdése szerinti rendeletben meghatározott külön díjat is megfizeti, a villamosenergia- kereskedő annak tudomására jutását követően 24 órán belül köteles kezdeményezni a lakossági fogyasztónak az ellátásba történő ismételt bekapcsolását.
 
 (10) Az elosztó a (7) és a (9) bekezdés szerinti kezdeményezésnek köteles 24 órán belül eleget tenni.
