@@ -1,4 +1,4 @@
-## 34. §[^15]
+## 34. §[^14]
 
 ## 6. Záró rendelkezések
 
@@ -12,4 +12,4 @@
 
 (5) Az 1. § (3) bekezdése, a 22. § (2) bekezdése, a 23. § (2) bekezdése, a 24. § (2) bekezdése, a 28. § (1) és (8)–(10) bekezdése, valamint a 30. § hatálybalépésének naptári napját az energiapolitikáért felelős miniszter annak ismertté válását követően a Magyar Közlönyben haladéktalanul közzétett egyedi határozatával állapítja meg.
 
-[^15]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^14]: A 34. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

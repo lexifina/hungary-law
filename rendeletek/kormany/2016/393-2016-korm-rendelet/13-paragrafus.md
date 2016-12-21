@@ -1,0 +1,1 @@
+## „(3) Szakmai gyakorlati időként a felsőfokú végzettség szint szerint a 12. mellékletben meghatározott időtartamú, a szakirányú szakképzettség megszerzését követően teljesített energetikai területen végzett mérnöki szakmai gyakorlat fogadható el.”
