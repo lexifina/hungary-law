@@ -1,6 +1,6 @@
 ## A Nemzeti Éghajlatváltozási Stratégia
 
-3. § (1) Az Országgyűlés az éghajlatváltozással kapcsolatos célok, eszközök, prioritások, így különösen az éghajlatváltozással, az azt kiváltó folyamatokkal és a hatásokkal kapcsolatos hazai kutatásokkal, az üvegházhatású gázok hazai kibocsátásainak csökkentésével és az éghajlatváltozás hazai hatásaihoz való alkalmazkodással, valamint a hazai hatásokra való felkészüléssel kapcsolatos feladatok, és ezen célok végrehajtásához szükséges eszközök meghatározása érdekében Nemzeti Éghajlatváltozási Stratégiát (a továbbiakban: Éghajlatváltozási Stratégia) fogad el.
+3. § (1) Az Országgyűlés az éghajlatváltozással kapcsolatos célok, eszközök, prioritások, így különösen az éghajlatváltozással, az azt kiváltó folyamatokkal és a hatásokkal kapcsolatos hazai kutatásokkal, az üvegházhatású gázok hazai kibocsátásainak csökkentésével és az alkalmazkodással, valamint a hazai hatásokra való felkészüléssel kapcsolatos feladatok, és ezen célok végrehajtásához szükséges eszközök meghatározása érdekében Nemzeti Éghajlatváltozási Stratégiát (a továbbiakban: Éghajlatváltozási Stratégia) fogad el.
 
 (2) Az Éghajlatváltozási Stratégiát első alkalommal a 2008–2025-ig tartó időszakra kell kidolgozni a nemzetközi kötelezettségvállalásoknak megfelelően. A Kormány az Éghajlatváltozási Stratégiát a Keretegyezményből fakadó 2018. évi döntésekre tekintettel 2019-ben, majd a nemzetközi döntésekben meghatározott ütemezés szerint, de legkésőbb ötévente felülvizsgálja. A felülvizsgálat előkészítéséről az energiapolitikáért felelős miniszter (a továbbiakban: miniszter) gondoskodik. A felülvizsgált Éghajlatváltozási Stratégiát az Országgyűlés fogadja el. Az Éghajlatváltozási Stratégia különösen az alábbiakat tartalmazza:
 
@@ -8,9 +8,9 @@ a) az éghajlatváltozás várható magyarországi hatásainak, természeti és 
 
 b) az üvegházhatású gázok kibocsátáscsökkentésének céljait, prioritásait és cselekvési irányait tartalmazó hazai dekarbonizációs útitervet az alacsony karbontartalmú, versenyképes gazdaságra történő, 2050-ig tartó átmenetről, figyelembe véve az Európai Bizottság hasonló időtávú stratégiai dokumentumait;
 
-c) egy nemzeti alkalmazkodás stratégiai keretrendszert, különös tekintettel az éghajlatváltozással és a klímabiztonsággal összefüggő kockázatok megelőzésére és károk mérséklésére; a stratégiai keretrendszer támogatásául a nemzeti alkalmazkodási térinformatikai rendszer és az arra épülő területi és ágazati éghajlati sérülékenységvizsgálatok eredményei szolgálnak;
+c) a nemzeti alkalmazkodás stratégiai keretrendszerét, különös tekintettel az éghajlatváltozással és a klímabiztonsággal összefüggő kockázatok megelőzésére és károk mérséklésére, valamint a kitettségre; a stratégiai keretrendszer támogatásául a nemzeti alkalmazkodási térinformatikai rendszer és az arra épülő területi és ágazati éghajlati sérülékenység vizsgálatok eredményei szolgálnak;
 
-d) az éghajlatváltozás megelőzését, valamint az éghajlatváltozásra való felkészülést és alkalmazkodást szolgáló szemléletformálási tevékenységek célrendszerét.
+d) az éghajlatváltozás megelőzését, valamint az éghajlatváltozásra való felkészülést és az alkalmazkodást szolgáló szemléletformálási tevékenységek célrendszerét.
 
 (3) A miniszter az Éghajlatváltozási Stratégia elfogadását követően annak végrehajtásáról szükség szerint, de legalább háromévente beszámol a Kormánynak, valamint az Országgyűlés hatáskörrel rendelkező szakbizottságának.
 

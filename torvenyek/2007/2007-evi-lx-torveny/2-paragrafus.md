@@ -46,4 +46,6 @@
 
 22. kibocsátási jogosultság: a kiotói egység, valamint az üvegházhatású gázok közösségi kereskedelmi rendszerében és az erőfeszítés-megosztási határozat végrehajtásában történő részvételről szóló törvény szerinti ÜHG-egység és ESD-egység;
 
-23.
+23. alkalmazkodás: olyan átfogó intézkedések összessége, amelynek célja az éghajlatváltozás káros hatásainak megelőzése, csökkentése, terjedésének korlátozása, a környezeti egyensúly helyreállítása, valamint az éghajlatváltozásból eredő előnyös hatások kiaknázása;
+
+24. kitettség: olyan állapotleírás, amely azt mutatja meg, hogy a vizsgált földrajzi területre a földrajzi adottságaiból eredően milyen mértékben gyakorol hatást az egyes éghajlati tényezők változása, valamint a veszélyforrások.

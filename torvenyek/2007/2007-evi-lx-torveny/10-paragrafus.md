@@ -6,7 +6,7 @@ b) Magyarország mint fogadó ország területén megvalósuló együttes végre
 
 (2) A nemzetközi és európai kibocsátás-kereskedelem keretében az államháztartásért felelős miniszter az állam nevében kibocsátási jogosultságokat értékesíthet és vehet e törvény céljának hatékonyabb elérése céljából. Az értékesítés a Vtv. és az értékesítés részletszabályait meghatározó jogszabály rendelkezéseinek megfelelően, árverésen, versenyeztetés mellőzésével vagy közvetetten végezhető.
 
-(3) A kiotói egységek átruházásából származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az éghajlatváltozás hatásaihoz való alkalmazkodásra kell fordítani külön jogszabály rendelkezéseinek megfelelően.
+(3) A kiotói egységek átruházásából származó bevételt az üvegházhatású gázok hazai kibocsátásának csökkentését célzó tevékenységek, intézkedések támogatására, nyelők általi eltávolításának növelésére, az alkalmazkodásra kell fordítani külön jogszabály rendelkezéseinek megfelelően.
 
 (4) A (3) bekezdés szerinti kiotói egységek átruházásából 2015. január 1-jét követően keletkezett bevétel
 
@@ -18,6 +18,6 @@ az Éghajlatváltozási Stratégiával összhangban gondoskodik.
 
 (4a)
 
-(5) A bevételek felhasználásáról a Kormány évente beszámol az Országgyűlésnek.
+(5) A bevételek felhasználásáról a Kormány a bevétel keletkezését követő évben beszámol az Országgyűlésnek.
 
 A fluortartalmú üvegházhatású gázokra vonatkozó általános szabályok

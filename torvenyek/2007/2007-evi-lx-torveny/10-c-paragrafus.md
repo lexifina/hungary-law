@@ -1,14 +1,14 @@
 10/C. § (1) A fluortartalmú üvegházhatású gázokat tartalmazó vagy azzal működtetett termékeknek, berendezéseknek és létesítményeknek az e törvény végrehajtására kiadott kormányrendeletben meghatározott tulajdonosai, üzemeltetői, valamint az e gázokkal tevékenységet folytató vállalkozások az 517/2014/EU európai parlamenti és tanácsi rendelet, az e törvény, valamint e törvény végrehajtására kiadott kormányrendelet szerinti nyilvántartásokat vezetik.
 
-(2) Minden olyan vállalkozás, amely fluortartalmú üvegházhatású gázokkal kapcsolatos, az 517/2014/EU európai parlamenti és tanácsi rendelet szerinti tevékenységet végez, köteles
+(2) Minden olyan vállalkozás, amely fluortartalmú üvegházhatású gázokkal kapcsolatos, az 517/2014/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó gázt tartalmazó hűtőkört, terméket, berendezést gyárt, az 517/2014/EU európai parlamenti és tanácsi rendelet hatálya alá tartozó gázt gyárt, ártalmatlanít, regenerál, valamint az 517/2014/EU európai parlamenti és tanácsi rendelet szerinti egyéb tevékenységet végez, köteles
 
 a) a klímavédelemért felelős hatóság által üzemeltetett adatbázisban regisztrálni,
 
-b) – a 10/G. §-ban és az e törvény végrehajtására kiadott kormányrendeletben meghatározott adattartalommal és módon – adatszolgáltatási és jelentéstételi kötelezettségének eleget tenni és
+b) adatszolgáltatási és jelentéstételi kötelezettségének eleget tenni – a 10/G. §-ban és az e törvény végrehajtására kiadott kormányrendeletben meghatározott adattartalommal és módon –, valamint
 
 c) éves klímavédelmi felügyeleti díjat fizetni.
 
-(3) A fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendeletben meghatározott HR szektorban az 517/2014/EU európai parlamenti és tanácsi rendelet 4. cikk (1) és (2) bekezdése szerint szivárgásvizsgálatra kötelezett alkalmazások üzemeltetői és tulajdonosai kötelesek
+(3) A fluortartalmú üvegházhatású gázokkal és az ózonréteget lebontó anyagokkal kapcsolatos tevékenységek végzésének feltételeiről szóló kormányrendeletben meghatározott HR szektorban és MR szektorban az 517/2014/EU európai parlamenti és tanácsi rendelet 4. cikk (1) és (2) bekezdése szerint szivárgásvizsgálatra kötelezett alkalmazások, valamint üvegházhatású gázokkal töltött elektromos kapcsolóberendezések üzemeltetői és tulajdonosai kötelesek
 
 a) a klímavédelemért felelős hatóság által üzemeltetett adatbázisban regisztrálni és
 
@@ -38,6 +38,8 @@ e) tulajdonos és üzemeltető esetében hűtőkörönként 30 Ft/F-ÜHG tCO2 eg
 
 (8)
 
-(9) A felügyeleti díj határidőben történő megfizetésének elmulasztása esetén, a klímavédelemért felelős hatóság a határidő lejártát követő 15 napon belül fizetési kötelezettség teljesítésének elmulasztását megállapító és a felügyeleti díj megfizetésére kötelező határozatot hoz. A felügyeleti díjat esedékességétől a jegybanki alapkamat kétszeresének megfelelő mértékű késedelmi pótlék terheli. A jogerős határozatban megállapított teljesítési határidő eredménytelen elteltét követően a klímavédelemért felelős hatóság a felügyeleti díj behajtása érdekében soron kívül megkeresi az illetékes adóhatóságot. A felügyeleti díj és a késedelmi pótlék megfizetéséig a klímavédelemért felelős hatóság az adatbázison keresztül korlátozza a vállalkozás tevékenységét oly módon, hogy a vállalkozás az 517/2014/EU európai parlamenti és tanácsi rendelet szerint képesített személy által végezhető tevékenység tekintetében új megbízást nem fogadhat el. A klímavédelemért felelős hatóság a fizetési kötelezettség teljesítését követően haladéktalanul, de legkésőbb 8 napon belül intézkedik a korlátozás adatbázison keresztül történő megszüntetése iránt.
+(9) A felügyeleti díj határidőben történő megfizetésének elmulasztása esetén, a klímavédelemért felelős hatóság a határidő lejártát követő 15 napon belül fizetési kötelezettség teljesítésének elmulasztását megállapító és a felügyeleti díj megfizetésére kötelező határozatot hoz. A jogerős határozatban megállapított teljesítési határidő eredménytelen elteltét követően a klímavédelemért felelős hatóság a felügyeleti díj behajtása érdekében soron kívül megkeresi az illetékes adóhatóságot. A felügyeleti díj és a késedelmi pótlék megfizetéséig a klímavédelemért felelős hatóság az adatbázison keresztül korlátozza a vállalkozás tevékenységét oly módon, hogy a vállalkozás az 517/2014/EU európai parlamenti és tanácsi rendelet szerint képesített személy által végezhető tevékenység tekintetében új megbízást nem fogadhat el. A klímavédelemért felelős hatóság a fizetési kötelezettség teljesítését követően haladéktalanul, de legkésőbb 8 napon belül intézkedik a korlátozás adatbázison keresztül történő megszüntetése iránt.
 
-(10) A meg nem fizetett felügyeleti díj, és az emiatt jogerősen kiszabott és meg nem fizetett késedelmi pótlék adók módjára behajtandó köztartozásnak minősül.
+(10) A meg nem fizetett felügyeleti díj adók módjára behajtandó köztartozásnak minősül.
+
+(11) Felügyeleti díj, valamint klímavédelmi bírság megfizetésének elmulasztása esetén késedelmi pótlék felszámításának nincs helye.
