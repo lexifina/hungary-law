@@ -12,4 +12,4 @@ b) a (4) bekezdés szerinti értékesítésre.
 
 (5) A (4) bekezdés szerinti értékesítési bevétel felhasználásáról a miniszter előterjesztése alapján a Kormány dönt.
 
-(6) A bevételek felhasználásáról a miniszter évente beszámol az Országgyűlésnek.
+(6) A bevételek felhasználásáról a miniszter a bevétel keletkezését követő évben beszámol az Országgyűlésnek.

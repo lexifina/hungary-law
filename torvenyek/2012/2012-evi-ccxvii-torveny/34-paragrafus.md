@@ -4,6 +4,10 @@
 
 (3) A 32. § és 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül, amennyiben az üzemeltető vagy a légi jármű üzembentartó a jelentési vagy hitelesítési kötelezettségének, vagy az ÜHG-egységek visszaadására irányuló kötelezettségének részben vagy egészben nem tesz eleget, a hatóság az üzemeltető vagy a légi jármű üzembentartó nevét és a kötelességszegés tényét honlapján nyilvánosságra hozza.
 
-(4) A 32. § és 33. § (1) bekezdése szerinti bírság megfizetésére tekintet nélkül az üzemeltető és a légi jármű üzembentartó köteles az elmulasztott ÜHG-egységekkel egyező mennyiségű ÜHG-egységet a tárgyévet követő második év április 30-ig az állam részére visszaadni. Ennek elmulasztása esetén a tárgyévet követő harmadik évben az üzemeltető és a légi jármű üzembentartó számláján a mulasztással érintett mennyiséggel csökkentett mennyiségű ÜHG-egység kerül jóváírásra.
+(4)
 
 (5) A visszaadás elmulasztása esetén a hatóság zárolja az üzemeltető vagy a légi jármű üzembentartó forgalmi jegyzékbeli számláját. A zárolást a jegyzékkezelő akkor oldja fel, ha a (4) bekezdésben előírt ÜHG-egység visszaadásra kerül.
+
+(6) Ha az üzemeltető vagy a légi jármű üzembentartó a felügyeleti díjat határidőben nem fizeti meg, a hatóság a határidő lejártát követő 8 napon belül fizetési kötelezettség teljesítésének elmulasztását megállapító és a felügyeleti díj megfizetésére kötelező határozatot hoz. A jogerős határozatban megállapított teljesítési határidő eredménytelen elteltét követően a hatóság a felügyeleti díj behajtása érdekében soron kívül megkeresi az állami adóhatóságot. A felügyeleti díj megfizetéséig a hatóság zárolja az üzemeltető vagy a légi jármű üzembentartó forgalmi jegyzékbeli számláját, és arról tájékoztatást nyújt a miniszter részére. A számla zárolásának feloldását a jegyzékkezelő a követelés beérkezését követő 15 napon belül végzi el. A felügyeleti díj üzemeltetői és légi jármű üzembentartói teljesítéséhez kapcsolódó zárolásról és a zárolás feloldás tényéről a jegyzékkezelő minden esetben értesíti az érintetteket, és arról tájékoztatást nyújt a miniszter részére a zárolást és a zárolás feloldását követő 8 napon belül.
+
+(7) A (6) bekezdés alapján jogerősen kiszabott és meg nem fizetett felügyeleti díj adók módjára behajtandó köztartozásnak minősül.

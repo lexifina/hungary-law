@@ -12,6 +12,8 @@ c) az engedély kiadásához szükséges valamennyi feltétel változatlanul fen
 
 (3a) A hatóság a kibocsátási engedélyben végrehajtott módosításról, illetve az engedély visszavonásáról tájékoztatja az államháztartásért felelős minisztert (a továbbiakban: miniszter). A miniszter tájékoztatja a hatóságot minden olyan, az üzemeltetők és a légi jármű üzembentartók működésével kapcsolatos adatról, amely adatot közvetlenül a miniszterhez nyújtottak be, és az adat megismerése a hatóság e törvény és a végrehajtására kiadott kormányrendelet szerinti feladat- és hatáskörébe tartozik.
 
+(3b) A hatóság a térítésmentes kiosztásra megállapított ÜHG-egységek mennyiségének alapjául szolgáló adatok megfelelőségének felülvizsgálatát a miniszterrel együttműködve, hatósági ellenőrzés keretében végzi.
+
 (4) A kibocsátási engedély egyazon üzemeltető által egy – a társasági adóról és az osztalékadóról szóló törvény szerinti – telephelyen üzemeltetett egy vagy több létesítményre is vonatkozhat.
 
 (5) A kibocsátási engedély kötelező tartalmi elemei:
