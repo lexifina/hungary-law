@@ -1,0 +1,1 @@
+1. § Az Országgyűlés e törvénnyel felhatalmazást ad a Magyarország Kormánya és az Ománi Szultánság Kormánya között a jövedelemadók területén a kettős adóztatás elkerüléséről és az adóztatás kijátszásának megakadályozásáról szóló Egyezmény (a továbbiakban: Egyezmény) kötelező hatályának elismerésére.
