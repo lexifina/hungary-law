@@ -4,7 +4,7 @@
 
 a) felsőfokú iskolai végzettség,
 
-b) miniszteri rendeletben szabályozott külügyi szakmai alapvizsga legalább „megfelelt” eredménnyel történő letétele,
+b) miniszteri rendeletben szabályozott külügyi szakmai vizsga legalább „megfelelt” eredménnyel történő letétele,
 
 c) egy felsőfokú általános, „C” típusú és egy középfokú általános „C” típusú állami – vagy jogszabály alapján azzal egyenértékű – nyelvvizsga, amelyekből az egyik minden esetben angol nyelvből szükséges.
 

@@ -1,6 +1,6 @@
 ## 13. A külképviselet vezetőjének feladatai, helyettesítésének rendje
 
-39. § A 6. §-tól és a 9. § (2) bekezdésétől eltérően a külképviselet vezetője
+39. § A 6. §-tól, a 9. § (2) bekezdésétől és a 9/A § (2) bekezdésétől eltérően a külképviselet vezetője
 
 a) a külképviselet tagjai tekintetében gondoskodik a nemzetközi jogi normák, valamint a fogadó állam és Magyarország jogszabályai és egyéb normái betartásáról és az azoknak megfelelő külképviseleti működésről, továbbá azok megsértése esetén gondoskodik a jogsértés kivizsgálásáról és megteszi a jogkörébe tartozó egyéb szükséges intézkedéseket,
 
@@ -8,7 +8,7 @@ b) írásban – a közszolgálati tisztviselőkről szóló törvénnyel, valam
 
 c) gyakorolja a diplomaták és szakdiplomaták, valamint az adminisztratív és technikai személyzet tekintetében az európai uniós ügyek koordinációjáért felelős miniszter által átruházott munkáltatói jogokat,
 
-d) az európai uniós ügyek koordinációjáért felelős miniszter által átruházott hatáskörben munkaszerződést köt a külképviselet által foglalkoztatott munkavállalóval és gyakorolja felette a munkáltatói jogokat,
+d) az európai uniós ügyek koordinációjáért felelős miniszter által átruházott hatáskörben munkaszerződést köt a külképviselet által foglalkoztatott munkavállalóval, valamint a külképviselet által foglalkoztatott házastárssal, és gyakorolja felette a munkáltatói jogokat,
 
 e) az európai uniós ügyek koordinációjáért felelős miniszter által meghatározott körben dönt a külképviselet feladatkörébe tartozó ügyekben,
 

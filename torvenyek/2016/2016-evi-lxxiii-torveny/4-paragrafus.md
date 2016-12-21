@@ -6,6 +6,8 @@ b) a diplomáciai és hivatásos konzuli személyzet tagjai,
 
 c) a szakdiplomáciai személyzet tagjai,
 
-d) az adminisztratív és technikai személyzet tagjai, valamint
+d) az adminisztratív és technikai személyzet tagja,
 
-e) a külképviselet által foglalkoztatott munkavállalók.
+e) a külképviselet által foglalkoztatott munkavállaló, valamint
+
+f) a külképviselet által foglalkoztatott házastárs.

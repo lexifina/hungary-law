@@ -8,7 +8,7 @@ c) a kihelyező szervnél működő foglalkozás-egészségügyi szolgálat ált
 
 d) a kihelyező szerv által előírt, a tartós külszolgálat során ellátandó munkakörének megfelelő szintű, az adott külképviselet vonatkozásában releváns idegennyelv-ismerettel, valamint – diplomata munkakörök vonatkozásában – a 14. § (2) bekezdés c) pontja szerinti nyelvvizsgával rendelkezik,
 
-e) a kihelyező szerv által jogszabályban előírt szakmai vizsgakövetelményeknek eleget tett,
+e) a kihelyező szerv vezetője által jogszabályban előírt szakmai vizsgakövetelményeknek – ideértve a részben vagy egészben európai uniós feladatokat magában foglaló munkakörök ellátására kihelyezésre kerülő kormánytisztviselők és kormányzati ügykezelők esetében az európai uniós szakmai vizsgakövetelményeket is – eleget tett,
 
 f) érvényes és kockázatmentes nemzetbiztonsági szakvéleménnyel rendelkezik,
 

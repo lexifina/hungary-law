@@ -16,7 +16,7 @@ szűnik meg.
 
 (3) A tartós külszolgálat
 
-a) a kihelyezett és a kihelyező vezető közös megegyezésével,
+a) a kihelyezett és a kihelyező szerv közös megegyezésével,
 
 b) a kihelyezés visszavonásával,
 

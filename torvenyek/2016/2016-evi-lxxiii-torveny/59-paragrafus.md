@@ -2,9 +2,9 @@
 
 59. § (1) Felhatalmazást kap a Kormány, hogy
 
-a) a szakdiplomata, valamint az adminisztratív és technikai személyzet felkészítése és szakmai irányítása, továbbá a szakdiplomata és a szaktárca közötti kapcsolattartás, valamint
+a) a szakdiplomata-álláshely létesítésére vonatkozó, Kormánynak benyújtandó előterjesztés, a szakdiplomata felkészítése és szakmai irányítása, továbbá a szakdiplomata és a szaktárca közötti kapcsolattartás,
 
-b) a szakdiplomata-álláshely létesítésére vonatkozó, a Kormánynak benyújtandó előterjesztés, továbbá
+b) a diplomata, valamint az adminisztratív és technikai személyzet felkészítése, valamint
 
 c) a külképviselet költségvetése tervezésének, pénzellátásának, előirányzat-felhasználásának, gazdálkodásának és nyilvántartásának az államháztartásról szóló törvény végrehajtására kiadott rendeletben meghatározott rendjétől, illetve az államháztartási számvitel általános előírásaitól eltérő
 
@@ -14,15 +14,15 @@ részletes szabályait rendeletben állapítsa meg.
 
 a) a kihelyezettel életvitelszerűen a tartós külszolgálat helyén tartózkodó, jövedelemszerző tevékenységet nem folytató házastárssal kapcsolatos nyilatkozat és annak megtételének,
 
-b) az EU ÁK tekintetében az európai uniós ügyek koordinációjáért felelős miniszterrel egyetértésben a rangadományozás és ranghasználat,
+b) – az EU ÁK tekintetében az európai uniós ügyek koordinációjáért felelős miniszterrel egyetértésben – a rangadományozás és ranghasználat,
 
-c) a kihelyező szerv által támasztott szakmai követelmények és azok teljesítésének,
+c) a kihelyezés szakmai követelményeinek és azok teljesítésének,
 
 d) a kihelyezett tartós külszolgálata alatt harmadik országban történő ideiglenes kiküldetés teljesítésének,
 
 e)–f)
 
-g) a külképviselet által foglalkoztatott munkavállalóval kötött munkaszerződés,
+g) a külképviselet által foglalkoztatott munkavállaló foglalkoztatásának,
 
 h) az egészségügyért felelős miniszterrel egyetértésben a kihelyezett és hozzátartozói tartós külszolgálata alatt az állomáshelyen való egészségügyi ellátás igénybevételének,
 
@@ -34,15 +34,17 @@ k)
 
 l) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
 
-m) kihelyezett részére nyújtható kamatmentes illetményelőlegnek és nyújtásának, valamint
+m) kihelyezett részére nyújtható kamatmentes illetmény- és költségtérítés-előlegnek és nyújtásának,
 
-n) kizárólag gépkocsi vásárlás céljára nyújtható kölcsön
+n) kizárólag gépkocsivásárlás céljára nyújtható kölcsön, valamint
+
+o) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
 
 részletes szabályait rendeletben állapítsa meg.
 
 (3) Felhatalmazást kap az európai uniós ügyek koordinációjáért felelős miniszter, hogy az EU ÁK tekintetében
 
-a) a kihelyező szerv által támasztott szakmai követelmények és azok teljesítésének,
+a) a kihelyezés szakmai követelményeinek és azok teljesítésének,
 
 b) a tartós külszolgálata alatt harmadik országban történő ideiglenes kiküldetés teljesítésének,
 
@@ -54,9 +56,11 @@ f)
 
 g) a kihelyezett munkarendjének, valamint a rendkívüli munkavégzés, az ügyelet és a készenlét elrendelésének, nyilvántartásának és elszámolásának, továbbá a szabadság kiadásának,
 
-h) a kizárólag gépkocsi vásárlás céljára nyújtható kölcsön, valamint
+h) a kizárólag gépkocsivásárlás céljára nyújtható kölcsön,
 
-i) az állandó képviseleti devizapótlék megállapításának további feltételeire, mértékére vonatkozó
+i) az állandó képviseleti devizapótlék megállapításának további feltételeire, mértékére vonatkozó, valamint
+
+j) a külképviselet által foglalkoztatott házastárs foglalkoztatásának
 
 részletes szabályait rendeletben állapítsa meg.
 

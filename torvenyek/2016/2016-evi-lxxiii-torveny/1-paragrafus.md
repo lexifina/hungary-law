@@ -8,9 +8,11 @@
 
 a)
 
-b) a III. fejezetben meghatározott eltérésekkel Magyarország Európai Unió melletti Állandó Képviseletére, továbbá az oda kihelyezett kormánytisztviselőkre és kormányzati ügykezelőkre, valamint
+b) a III. fejezetben meghatározott eltérésekkel Magyarország Európai Unió melletti Állandó Képviseletére, továbbá az oda kihelyezett kormánytisztviselőkre és kormányzati ügykezelőkre,
 
-c) a 4. § és 9. § tekintetében a külképviselet által foglalkoztatott munkavállalókra
+c) a 4. § és 9. § tekintetében a külképviselet által foglalkoztatott munkavállalókra, valamint
+
+d) a 4. § és 9/A. § tekintetében a külképviselet által foglalkoztatott házastársra
 
 terjed ki.
 
