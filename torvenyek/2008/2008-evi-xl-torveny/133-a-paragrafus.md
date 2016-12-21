@@ -2,15 +2,15 @@
 
 1. a rendszerhasználati díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat,
 
-2. a rendszerhasználati díjak elemeit, a rendszerhasználati díjak fizetésére kötelezettek körét, a rendszerhasználati díjak alkalmazásának szabályait, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjszabályozás kereteit, valamint alkalmazásának feltételeit,
+2. a rendszerhasználati díjak elemeit, a rendszerhasználati díjak fizetésére kötelezettek körét, a rendszerhasználati díjak alkalmazásának szabályait, a rendszerüzemeltető által nyújtott szolgáltatás minőségének a rendszerhasználati díjakon keresztül történő ösztönzésének szabályait, a nyújtott szolgáltatás minőségétől függően alkalmazható rendszerhasználati díjszabályozás kereteit, valamint alkalmazásának feltételeit és a rendszerhasználati díjak mértékét,
 
 3. a csatlakozási díjak meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat,
 
-4. a csatlakozási díjak elemeit, a csatlakozási díjak fizetésére kötelezettek körét, a csatlakozási díjak alkalmazásának feltételeit,
+4. a csatlakozási díjak elemeit, a csatlakozási díjak fizetésére kötelezettek körét, a csatlakozási díjak alkalmazásának feltételeit és a csatlakozási díjak mértékét,
 
 5. a külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit,
 
-6. a külön díjak fizetésére kötelezettek körét, a külön díjak alkalmazásának szabályait,
+6. a külön díjak fizetésére kötelezettek körét, a külön díjak alkalmazásának szabályait és a külön díjak mértékét,
 
 7. a felhasználók és földgáztermelők földgázrendszerre történő csatlakozásának részletes szabályait, ezen belül a csatlakozás műszaki-gazdasági feltételeit, és azok közzétételét, a földgázelosztó és a földgázszállító csatlakozással kapcsolatos együttműködésének szabályait,
 

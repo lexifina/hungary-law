@@ -1,6 +1,6 @@
 72. § (1) A rendszerüzemeltető a rendszerhasználó részére a rendszerhez való hozzáférést a kapacitáslekötéssel érintett időszakra rendszerhasználati szerződés alapján biztosítja.
 
-(2) A rendszerhasználó a rendszerhasználati szerződés megkötését követően jogosult a betáplálási-kiadási pont vagy a földgáztároló lekötött kapacitásait, valamint az összekapcsolási pont technikai kapacitásait a rendszerhasználati szerződésben foglaltak szerint igénybe venni. A rendszerhasználó köteles a lekötött kapacitás után a Hivatal határozatában meghatározott rendszerhasználati díjat megfizetni.
+(2) A rendszerhasználó a rendszerhasználati szerződés megkötését követően jogosult a betáplálási-kiadási pont vagy a földgáztároló lekötött kapacitásait, valamint az összekapcsolási pont technikai kapacitásait a rendszerhasználati szerződésben foglaltak szerint igénybe venni. A rendszerhasználó köteles a lekötött kapacitás után a Hivatal elnökének rendeletében meghatározott rendszerhasználati díjat megfizetni.
 
 (3) Elosztóvezetékhez csatlakozó felhasználó részére az adott felhasználási helyen legfeljebb a felhasználási hely vásárolt kapacitásának mértékéig köthető le kapacitás. A szállítóvezetékhez csatlakozó felhasználó részére az érintett gázátadó állomáson mint kiadási ponton legfeljebb a felhasználási hely vásárolt kapacitásának mértékéig köthető le kapacitás.
 

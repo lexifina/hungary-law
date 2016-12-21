@@ -8,6 +8,6 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
 
 (2) A Hivatal elnöke rendeletben állapítja meg a külön díjak fizetésére kötelezettek körét és a külön díjak alkalmazásának feltételeit, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.
 
-(3) Az (1) bekezdés szerinti külön díjak mértékét a Hivatal – figyelemmel az (1) bekezdés szerinti rendeletre – határozatban állapítja meg, legkésőbb a díjak alkalmazhatósága előtt 45 nappal. A Hivatal a határozatát a díjak alkalmazhatósága előtt legalább 25 nappal a honlapján közzéteszi.
+(3) Az (1) bekezdés szerinti külön díjak mértékét a Hivatal elnöke rendeletben állapítja meg.
 
-(4) Az e § szerinti rendeletek előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
+(4) Az (1) és a (2) bekezdés szerinti rendeletek előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.

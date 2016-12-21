@@ -61,3 +61,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2008-40-00-00
 | 2016-07-01 | 2016. évi LXXXI. törvény | 2008-40-00-00.59 |
 | 2016-07-08 | 2016. évi LXXXIII. törvény | 2008-40-00-00.60 |
 | 2016-10-01 | 2016. évi LIX. törvény | 2008-40-00-00.61 |
+| 2016-12-21 | 2016. évi CLXXXIII. törvény | 2008-40-00-00.62 |
