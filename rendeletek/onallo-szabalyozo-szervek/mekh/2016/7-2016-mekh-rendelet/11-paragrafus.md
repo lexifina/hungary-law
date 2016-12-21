@@ -2,7 +2,7 @@
 
 ## A CSATLAKOZÁSI DÍJ MEGÁLLAPÍTÁSÁNAK KERETSZABÁLYAI
 
-11. § (1) A csatlakozási díj megállapítása során – a 3. § (2) bekezdéssel összhangban – a következő szempontok és célkitűzések is figyelembevételre kerülnek:
+11. § (1)[^3] A csatlakozási díj megállapítása során – a 3. § rendelkezéseivel összhangban – a következő szempontok és célkitűzések is figyelembevételre kerülnek:
 
 a) a csatlakozási igények kielégítéséhez szükséges fejlesztések indokolt átlagos ráfordításai,
 
@@ -49,3 +49,5 @@ b) a meglévő közcélú elosztó hálózat nem nyomvonalas létesítményeinek
 (7) A (3) és (4) bekezdés szerinti díjelemeket a Hivatal országosan egységesen állapítja meg.
 
 (8) A csatlakozási díjak mértéke az árszabályozási cikluson belül módosítható.
+
+[^3]: A 11. § (1) bekezdés nyitó szövegrésze a 16/2016. (XII. 20.) MEKH rendelet 5. §-a szerint módosított szöveg.

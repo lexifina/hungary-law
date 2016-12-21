@@ -6,7 +6,7 @@
 
 (2) A külön díj ellenében végzett szolgáltatások díjait a Hivatal tételesen vagy a kiszámítására vonatkozó módszer előírásával határozza meg.
 
-(3) A külön díjak megállapítása során – a 3. § (2) bekezdéssel összhangban – a következő célkitűzések is figyelembevételre kerülnek:
+(3)[^4] A külön díjak megállapítása során – a 3. § rendelkezéseivel összhangban – a következő célkitűzések is figyelembevételre kerülnek:
 
 a) az elosztókkal szemben felmerülő, túlzott rendszerhasználói igények korlátozása, és
 
@@ -15,3 +15,5 @@ b) az egyedi rendszerhasználói igények kielégítésének máshogy nem fedeze
 (4) A külön díjakat a Hivatal országosan egységesen állapítja meg.
 
 (5) A külön díjak mértéke az árszabályozási cikluson belül módosítható.
+
+[^4]: A 12. § (3) bekezdés nyitó szövegrésze a 16/2016. (XII. 20.) MEKH rendelet 5. §-a szerint módosított szöveg.
