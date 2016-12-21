@@ -28,7 +28,7 @@ j) az energetikai auditok ellenőrzésére, valamint a kötelező energetikai au
 
 k) az energetikai auditorok és energetikai auditáló szervezetek energetikai auditálási tevékenység folytatására vonatkozó bejelentésének, valamint névjegyzékbe vételének részletes szabályait,
 
-l) a regisztráló szervezetekkel szemben támasztott engedélyezési követelményeket, az engedély kiadásának és visszavonásának általános eljárási szabályait, a regisztráló szervezetek tevékenységének végzésére vonatkozó szabályokat,
+l) a közreműködő szervezetekkel szemben támasztott engedélyezési követelményeket, az engedély kiadásának és visszavonásának általános eljárási szabályait, a közreműködő szervezetek tevékenységének végzésére vonatkozó szabályokat,
 
 m) Magyarországnak az Európai Bizottság felé teljesítendő energiahatékonysági jelentéstételi, értékeléskészítési és adatszolgáltatási kötelezettségének teljesítésére vonatkozó részletes szabályokat,
 
@@ -37,5 +37,11 @@ n) az energiamegtakarítás összehasonlításakor és összevethető mértékeg
 o) a 7. § f) pontja szerinti költség-haszon elemzéssel kapcsolatos kötelezettségek megszegése esetén a kiszabható bírság mértékét,
 
 p) a távhűtés mérésével, elszámolásával, a díjfizetéssel, a számlázással és a felhasználók tájékoztatásával kapcsolatos rendelkezéseket, a felek jogait és kötelezettségeit;
+
+q) az energetikai szakreferens igénybevételére köteles nagyvállalat energiafogyasztási szintjére, az energetikai szakreferens által ellátandó tevékenységre, a természetes személy energetikai szakreferens szükséges szakmai képesítésére és gyakorlatára, a szakreferens igénybevételével kapcsolatos adatszolgáltatási kötelezettségre, valamint az energetikai szakreferens tevékenységével kapcsolatos jelentéstételre – ide nem értve a személyes adatokat – vonatkozó részletes szabályokat,
+
+r) a Nemzeti Energetikusi Hálózat irodáit működtető szervezet kijelölését, a Nemzeti Energetikusi Hálózat által alkalmazható, szakmai tanácsadást végző természetes személyek szakmai végzettségére vonatkozó követelményeket, az irodák illetékességi területét, valamint a szakmai tanácsadásra vonatkozó részletes szabályokat,
+
+s) a közintézmények tulajdonában és használatában álló, közfeladat ellátását szolgáló épület energiafogyasztási adatainak bejelentésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.

@@ -26,4 +26,6 @@ i) elkészíti a nemzeti energiahatékonysági célkitűzés felé tett előrel�
 
 j) biztosítja az Európai Bizottság felé fennálló energiahatékonysági jelentéstételi, értékeléskészítési és adatszolgáltatási kötelezettségek teljesítését;
 
-k) meghatározza az energiamegtakarítás összehasonlításakor és összevethető mértékegységre történő átváltásakor alkalmazandó átváltási tényezőket.
+k) meghatározza az energiamegtakarítás összehasonlításakor és összevethető mértékegységre történő átváltásakor alkalmazandó átváltási tényezőket;
+
+l) működteti a Nemzeti Energetikusi Hálózatot.

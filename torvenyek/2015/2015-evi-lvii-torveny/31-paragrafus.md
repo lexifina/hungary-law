@@ -1,1 +1,1 @@
-31. § A Hivatal névjegyzéket vezet az energetikai auditálási tevékenység folytatásának szándékára vonatkozó bejelentést tett energetikai auditorokról és energetikai auditáló szervezetekről.
+31. § A Hivatal névjegyzéket vezet a jogerős határozat útján névjegyzéki jelöléssel rendelkező energetikai auditorokról és energetikai auditáló szervezetekről.

@@ -1,5 +1,15 @@
-22/B. § (1) A nagyvállalat köteles minden év június 30-áig a Hivatal honlapján erre a célra kialakított felületen regisztrálni.
+22/B. § (1) A nagyvállalatnak minden év június 30-áig a Hivatal honlapján erre a célra kialakított felületen regisztrálnia kell.
 
-(2) A Hivatal a regisztráció nem teljesítése, vagy késedelmes teljesítése esetén egymillió forintig terjedő bírsággal sújtja a nagyvállalatot és elvégzi a regisztrációját.
+(2) Az (1) bekezdés szerinti kötelezettség nem teljesítése vagy nem megfelelő teljesítése esetén a Hivatal
 
-(3) A Hivatal a bírság összegének megállapítása során figyelembe veszi a nagyvállalat utolsó összevont (konszolidált) beszámolója szerinti, ennek hiányában a nagyvállalat nyilvántartása szerinti nettó árbevételét vagy mérlegfőösszegét.
+a) határidő tűzésével írásban felszólítja a nagyvállalatot a kötelezettsége teljesítésére, és
+
+b) egymillió forintig terjedő bírságot szabhat ki.
+
+(3) A (2) bekezdés szerinti jogkövetkezmények együttesen is alkalmazhatók. A bírság ismételten kiszabható.
+
+(4) A regisztráló nagyvállalat százezer forint regisztrációs díjat fizet a Hivatal részére. A regisztrációs díj a Hivatal bevételét képezi.
+
+(5) A Hivatal a regisztráló nagyvállalatokról nyilvántartást vezet, amelyet a Hivatal honlapján közzétesz. A nyilvántartás tartalmazza a nagyvállalat cégnevét és székhelyét.
+
+(6) A regisztrációs díj köztartozásnak minősül és adók módjára kell behajtani.

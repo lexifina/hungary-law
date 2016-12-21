@@ -1,8 +1,8 @@
 ## 22. Határon átnyúló energetikai auditálási szolgáltatásnyújtás
 
-35. § (1) Az EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor vagy energetikai auditáló szervezet az energetikai auditálás határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles valamely regisztráló szervezet útján a Hivatalnak bejelenteni.
+35. § (1) Az EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor vagy energetikai auditáló szervezet az energetikai auditálás határon átnyúló szolgáltatásnyújtás keretében történő folytatására irányuló szándékát köteles a Hivatalnak bejelenteni.
 
-(2) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor Magyarország területén letelepedés nélkül, szabad szolgáltatásnyújtás keretében történő energetikai auditálási tevékenységet akkor folytathat, ha a szakmai vizsga teljesítésének kivételével megfelel a 28. § (1) bekezdésében foglalt követelményeknek.
+(2) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditor Magyarország területén letelepedés nélkül, szabad szolgáltatásnyújtás keretében történő energetikai auditálási tevékenységet akkor folytathat, ha megfelel a 28. § (1) bekezdésében foglalt követelményeknek azzal, hogy nem kell teljesítenie a 28. § (3) bekezdése szerinti éves továbbképzést és 39. § szerinti megújító szakmai vizsgát.
 
 (3) EGT-tagállamban letelepedett és ott jogszerűen energetikai auditálási tevékenység végzésére jogosult energetikai auditáló szervezet Magyarország területén történő letelepedés nélkül, szabad szolgáltatásnyújtás keretében energetikai auditálási tevékenységet az energetikai auditorok névjegyzékében szereplő vagy Magyarország területén energetikai auditálásra a (2) bekezdés szerint jogosult tagja vagy alkalmazottja útján folytathatja.
 

@@ -4,8 +4,6 @@ a) az energiahatékonysággal kapcsolatos, az energiafogyasztók és a piaci sze
 
 b) az energiahatékonyság növelésével kapcsolatos energiahatékonysági tájékoztató honlap tartalmával és üzemeltetésével kapcsolatos részletes szabályokat,
 
-c) a regisztráló szervezetek éves jelentésének tartalmi követelményeit, benyújtásának idejét és módját,
-
-d) az energetikai auditból származó, adatszolgáltatási kötelezettség alá eső adatok körét és az adatszolgáltatás módját
+c)–d)
 
 rendeletben állapítsa meg.

@@ -1,19 +1,29 @@
-26. § (1) A Hivatal éves ellenőrzési tervben határozza meg a tárgyévet megelőző évben elvégzett kötelező auditok statisztikailag jelentős hányadát, amely vonatkozásában ellenőrzést köteles elvégezni.
+26. § (1) A nagyvállalat és az energetikai auditor, valamint energetikai auditáló szervezet általi auditálás esetén az energetikai auditáló szervezet az ellenőrzés során együttműködik az ellenőrzés lefolytatójával. Az együttműködési kötelezettség megsértése esetén a Hivatal ötszázezer forintig terjedő bírságot szabhat ki, amely bírság ismételten kiszabható.
 
-(2) A megbízó és az energetikai auditor, valamint az energetikai auditáló szervezet az ellenőrzés során köteles együttműködni az ellenőrzés lefolytatójával.
+(2) Ha az energetikai auditor, valamint az energetikai auditáló szervezet a megbízást nem közvetlenül a nagyvállalattól kapta, az (1) bekezdést a megbízóra is alkalmazni kell.
 
-(3) Ha a Hivatal az ellenőrzés eredményeként megállapítja, hogy az energetikai audit nem felel meg a jogszabályban meghatározott feltételeknek, felhívja az energetikai auditort, energetikai auditáló szervezet által végzett auditálás esetében az energetikai auditáló szervezetet a feltárt hibák kijavítására, aki köteles a feltárt hibát a Hivatal felhívásának kézhezvételétől számított 3 hónapon belül kijavítani.
+(3) Ha a Hivatal az ellenőrzés eredményeként megállapítja, hogy az energetikai audit nem felel meg a jogszabályban meghatározott feltételeknek, felhívja az energetikai auditort, energetikai auditáló szervezet által végzett auditálás esetében az energetikai auditáló szervezetet a feltárt hibák kijavítására. A feltárt hibát a Hivatal felhívásának kézhezvételétől számított 90 napon belül kell kijavítani.
 
-(4) Szakszerűtlen vagy valótlan tartalmú energetikai audit esetén a Hivatal felhívja az energetikai auditort, energetikai auditáló szervezet által végzett auditálás esetében az energetikai auditáló szervezetet, hogy a Hivatal felhívásának kézhezvételétől számított 3 hónapon belül adjon új, szakszerű és valós szakvéleményt.
+(4) A Hivatal az energetikai auditort vagy energetikai auditáló szervezet általi auditálás esetén az energetikai auditáló szervezetet egymillió forintig terjedő, ismételten kiszabható bírsággal sújthatja, ha a feltárt hibát vagy hiányosságot felhívás ellenére a megadott határidőben nem javítja ki, vagy nem pótolja.
 
-(5) A Hivatal az energetikai auditort vagy energetikai auditáló szervezet általi auditálás esetén az energetikai auditáló szervezetet 100 000 forint bírsággal sújtja, ha
+(5) A (4) bekezdés szerinti jogkövetkezmény alkalmazásával egyidejűleg a Hivatal az energetikai auditot érvénytelennek minősíti és ennek tényéről a nagyvállalatot értesíti. A nagyvállalatnak az értesítés kézhezvételétől számított 180 napon belül új, a jogszabálynak megfelelő energetikai auditálást kell elvégeztetnie.
 
-a) az audit ellenőrzése során együttműködési kötelezettségének – az audit Hivatal felé történő megküldési kötelezettséget is beleértve – nem tesz eleget,
+(6) Ha az energetikai auditorral vagy energetikai auditáló szervezettel szemben 2 éven belül ismét a (4) bekezdés alapján bírság kiszabásának lenne helye, a Hivatal a bírság kiszabása helyett a névjegyzékből törléssel egyidejűleg megtilthatja az energetikai auditor vagy energetikai auditáló szervezet általi auditálás esetén az energetikai auditáló szervezet számára az energetikai auditálási tevékenység folytatását. Erre az érintettet a (4) bekezdés szerinti bírság kiszabásakor figyelmeztetni kell.
 
-b) a feltárt hibát az energetikai auditban a Hivatal felhívására és határidőben nem javítja ki vagy
+(7) Ha a nagyvállalat az (5) bekezdésben meghatározott kötelezettségének nem tesz eleget, a Hivatal a 25. § szerinti bírsággal sújthatja.
 
-c) szakszerűtlen vagy valótlan tartalmú energetikai audit esetén a Hivatal felhívására nem ad új, szakszerű és valós szakvéleményt.
+(8) A 23. § (3) bekezdésében, a 25. § (1) és (3) bekezdésében, az (1), (4), (6) és (7) bekezdésében meghatározott jogkövetkezmények alkalmazása során az alábbi szempontokat mérlegeli a Hivatal:
 
-(6) Ha az energetikai auditorral vagy energetikai auditáló szervezettel szemben 5 éven belül legalább 5 alkalommal szabtak ki bírságot és az újabb ellenőrzés során is bírság kiszabásának lenne helye, a Hivatal a bírság kiszabása helyett megtiltja az energetikai auditor vagy az energetikai auditáló szervezet számára az energetikai auditálási tevékenység folytatását. Erre az érintettet a bírság ötödik alkalommal történő kiszabásakor figyelmeztetni kell.
+a) a jogsértés súlya;
 
-(7) A feltárt hibák kijavításának elmaradása esetén, valamint szakszerűtlen vagy valótlan tartalmú energetikai audit készítését követően a Hivatal felhívása ellenére az új, szakszerű és valós szakvélemény adásának elmaradása esetén az energetikai audit érvénytelennek minősül, ennek tényéről a megbízót a Hivatal értesíti. A nagyvállalat az értesítés kézhezvételétől számított 6 hónapon belül köteles új energetikai auditot beszerezni.
+b) a jogsértő állapot fennállásának időtartama;
+
+c) a jogsértéssel okozott vagyoni hátrány mértéke, illetve a jogsértéssel elért vagyoni előny mértéke;
+
+d) a jogsértő piaci helyzete, befolyása;
+
+e) a magatartás felróhatósága;
+
+f) korábbi jogsértő magatartás;
+
+g) a jogsértő állapot megszüntetése érdekében kifejtett tevékenység.

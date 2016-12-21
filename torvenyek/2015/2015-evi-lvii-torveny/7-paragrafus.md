@@ -2,11 +2,11 @@
 
 7. § A Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal)
 
-a) adatokat gyűjt az energiahatékony beszerzések lefolytatására köteles szervezetek energiahatékonysági célú beszerzéseiről;
+a) adatokat kezel az energiahatékony beszerzések lefolytatására köteles szervezetek energiahatékonysági célú beszerzései vonatkozásában;
 
 b) nyilvántartja és közzéteszi a végfelhasználási energiamegtakarítás összesítéséhez szükséges, az egyes szakpolitikai intézkedések révén elért energiamegtakarítási adatokat;
 
-c) névjegyzéket (a továbbiakban: névjegyzék) vezet az energetikai auditorokról és energetikai auditáló szervezetekről, nyilvántartást vezet az energetikai auditorokat regisztráló szervezetekről, ellátja e személyek és szervezetek felügyeletét; valamint elvégzi az energetikai auditálás ellenőrzését;
+c) névjegyzéket (a továbbiakban: névjegyzék) vezet az energetikai auditorokról és energetikai auditáló szervezetekről, nyilvántartást vezet a közreműködő szervezetekről, ellátja e személyek és szervezetek felügyeletét; valamint elvégzi az energetikai auditálás ellenőrzését;
 
 d) a 20. § szerinti energiahatékonysági tájékoztató honlapot tart fenn;
 
@@ -28,4 +28,6 @@ g) jóváhagyja az f) pont szerinti költség-haszon elemzést;
 
 h) felmentést ad az f) pont szerinti költség-haszon elemzés elkészítésének kötelezettsége alól;
 
-i) meghatározza a nem kötelező energetikai audit ellenőrzésére vonatkozó igazgatási szolgáltatási díj mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat.
+i) meghatározza a nem kötelező energetikai audit ellenőrzésére vonatkozó igazgatási szolgáltatási díj mértékét, valamint a beszedésével, kezelésével, nyilvántartásával, visszatérítésével kapcsolatos részletes szabályokat;
+
+j) nyilvántartást vezet a regisztrált nagyvállalatokról és a regisztrált nagyvállalatok nevét és székhelyét a Hivatal honlapján közzéteszi.

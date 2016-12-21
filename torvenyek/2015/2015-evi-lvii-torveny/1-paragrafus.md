@@ -6,7 +6,7 @@
 
 1. § E törvény alkalmazásában:
 
-1. bázisévekben értékesített energiamennyiség: az összes kiskereskedelmi energiaértékesítő által a végső felhasználónak a villamosenergia-, a földgáz- és a távhőszektorban 2010-től 2012-ig évente értékesített energiamennyiség számtani átlaga;
+1. bázisévekben értékesített energiamennyiség: a végfelhasználási energiamegtakarítás számításának alapját képező számérték, amely az összes kiskereskedelmi energiaértékesítő által a végső felhasználónak 2010-től 2012-ig értékesített éves energiamennyiség számtani átlaga;
 
 2. egyéni fellépés: olyan fellépés, amely ellenőrizhető, és mérhető vagy megbecsülhető energiahatékonysági javulást eredményez és arra egy szakpolitikai intézkedés nyomán került sor;
 
@@ -46,7 +46,7 @@
 
 20. kis- és középvállalkozás: a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény (a továbbiakban: Kkvtv.) 3. § (4) bekezdésének kivételével a Kkvtv. alapján mikro-, kis- és középvállalkozásnak minősülő vállalkozás;
 
-21. kiskereskedelmi energiaértékesítő vállalat: az a gazdálkodó szervezet, amely villamos energiát, földgázt értékesít, valamint távhőt szolgáltat a végső felhasználó számára;
+21. kiskereskedelmi energiaértékesítő vállalat: az a gazdálkodó szervezet, amely energiát értékesít a végső felhasználó számára;
 
 22. komplex korszerűsítés: az épülethatároló szerkezetek és az épületgépészeti rendszerek többségét érintő korszerűsítés, amely a korszerűsítés előtti szinthez képest jelentős energiahatékonyság-javulást eredményez;
 

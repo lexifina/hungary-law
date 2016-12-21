@@ -1,9 +1,9 @@
-25. § (1) A Hivatal az ellenőrzést követően legfeljebb tízmillió forint bírsággal sújtja azt a nagyvállalatot, amely
+25. § (1) Az energetikai auditálási kötelezettség nem teljesítése esetén a Hivatal
 
-a) a kötelező energetikai auditálást a Hivatal felhívását követő 90 napon belül sem teljesíti, vagy
+a) írásban felszólítja a nagyvállalatot a kötelezettség 180 napon belüli teljesítésére, és
 
-b) a kötelező energetikai auditálás ellenőrzése során az együttműködési kötelezettségét – az audit Hivatal felé történő megküldési kötelezettséget is beleértve – nem teljesíti.
+b) 10 millió forintig terjedő bírságot szabhat ki.
 
-(2) A Hivatal a bírság összegének megállapítása során figyelembe veszi a nagyvállalat ellenőrzést megelőző évi, összevont (konszolidált) beszámolója szerinti, ennek hiányában a nagyvállalat nyilvántartása szerinti nettó árbevételét vagy mérlegfőösszegét, továbbá a mulasztás időtartamát.
+(2) Az (1) bekezdés szerinti jogkövetkezmények együttesen is alkalmazhatók.
 
 (3) A bírság ismételten is kiszabható, az ismételt bírság legkisebb összege az előzőleg megállapított bírság 150%-a, legmagasabb összege tizenötmillió forint lehet.
