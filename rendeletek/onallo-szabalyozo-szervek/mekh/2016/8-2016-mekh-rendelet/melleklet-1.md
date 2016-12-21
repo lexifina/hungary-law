@@ -1,4 +1,4 @@
-## 18. §[^1]
+## 18. §[^3]
 
 1. melléklet a 8/2016. (X. 13.) MEKH rendelethez
 
@@ -78,4 +78,4 @@ A visszatérítés alapjául szolgáló számlák adatai:
 
 |  | 9. | Érvényesíthető kedvezmény alapja és értéke összesen: |  |  |  |  |
 
-[^1]: A 18. § a 16. § alapján 2018. január 1-jén lép hatályba.
+[^3]: A 18. § a 16. § alapján 2018. január 1-jén lép hatályba.
