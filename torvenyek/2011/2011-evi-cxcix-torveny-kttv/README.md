@@ -48,3 +48,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-199-00-00
 | 2016-08-01 | 2016. évi LXXIII. törvény | 2011-199-00-00.41 |
 | 2016-11-26 | 2016. évi CXXI. törvény | 2011-199-00-00.42 |
 | 2016-11-30 | 2016. évi CXXVI. törvény | 2011-199-00-00.43 |
+| 2016-12-21 | 2016. évi CLXXXI. törvény | 2011-199-00-00.44 |

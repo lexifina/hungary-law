@@ -27,7 +27,3 @@
 ## 3. anyja születési családi és utóneve
 
 ## 4. fényképe
-
-## II.
-
-## 1. a kormánytisztviselő lakóhelye, lakáscíme, tartózkodási helye, telefonszáma
