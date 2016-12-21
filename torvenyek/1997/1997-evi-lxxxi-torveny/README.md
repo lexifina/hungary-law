@@ -30,3 +30,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-81-00-00
 | 2015-07-01 | 2015. évi XLII. törvény | 1997-81-00-00.62 |
 | 2016-01-01 | 2015. évi CCXXIII. törvény | 1997-81-00-00.63 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 1997-81-00-00.64 |
+| 2016-12-21 | 2016. évi CLXXXII. törvény | 1997-81-00-00.65 |
