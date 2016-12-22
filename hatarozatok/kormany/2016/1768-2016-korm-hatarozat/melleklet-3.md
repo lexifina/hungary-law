@@ -60,7 +60,7 @@
 
 | Mindösszesen | 12 831 949 |
 
-3. melléklet az 1768/2016. (XII. 15.) Korm. határozathoz
+3. melléklet az 1768/2016. (XII. 15.) Korm. határozathoz[^1]
 
 | A 2015. évi költségvetési maradványok átcsoportosítása Ezer forintban |
 
@@ -408,15 +408,15 @@
 
 |  |  |  | 2 |  |  |  |  |  | Oktatási, kulturális és sport PPP programok |  |  |
 
-|  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások | -209 770 |
+|  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások | -189 845 |
 
 |  |  |  | 6 |  |  |  |  |  | Hozzájárulás a Mûvészetek Palotájának működtetéséhez |  |
 
-|  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások | -162 069 |
+|  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások | -263 475 |
 
 |  |  |  | 7 |  |  |  |  |  | Hozzájárulás a sportlétesítmények PPP bérleti díjához |  |  |
 
-|  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások | -299 675 |
+|  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások | -218 194 |
 
 | XVIII. |  |  |  |  |  | Külgazdasági és Külügyminisztérium |  |  |  |  |  |
 
@@ -759,3 +759,5 @@
 |  |  | 7 |  |  |  |  |  | Pályázati alapok |  |  |  |  |
 
 |  |  |  |  |  | K5 |  |  |  |  |  | Egyéb működési célú kiadások | -334 |
+
+[^1]: A 3. melléklet az 1822/2016. (XII. 22.) Korm. határozat 11. pontja szerint módosított szöveg.
