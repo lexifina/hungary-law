@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2015-102-00-00
 | 2015-07-18 | 2015. évi CII. törvény | 2015-102-00-00.0 (közlönyállapot) |
 | 2015-07-18 | Nemzeti Jogszabálytár (egységes szerkezet) | 2015-102-00-00.1 |
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2015-102-00-00.2 |
+| 2016-12-22 | 2016. évi CXLIV. törvény | 2015-102-00-00.3 |

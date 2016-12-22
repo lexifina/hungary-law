@@ -18,9 +18,9 @@ rendeletben állapítsa meg.
 
 (2) Felhatalmazást kap a miniszter, hogy
 
-a) a vasútnak nem minősülő egyéb kötöttpályás közlekedési rendszerekkel kapcsolatos tevékenység megkezdésének bejelentésére vonatkozó szabályokat,
+a) az alsó kötélvezetésű sífelvonó tevékenysége megkezdésének és tevékenységével való felhagyás bejelentésére vonatkozó szabályokat, valamint az egyéb kötöttpályás közlekedési rendszer üzemszünet bejelentésének részletes szabályait,
 
-b) a közlekedési hatóság eljárásáért fizetendő igazgatási szolgáltatási díjak körét és mértékét, valamint az azok megfizetésére vonatkozó részletes szabályokat az adópolitikáért felelős miniszterrel egyetértésben,
+b)
 
 c) a vasútnak nem minősülő egyéb kötöttpályás közlekedési rendszerek és a rendszereken közlekedő járművek műszaki engedélyezésének szabályait,
 
