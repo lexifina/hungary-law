@@ -26,7 +26,13 @@ k) családi gyermekfelügyelet
 
 ## esetén naponta, az adott napot követő munkanap 24 óráig, azt követően kell teljesíteni, hogy a szolgáltatást az adott napon az igénybevevőnek nyújtották.
 
-(3) Az időszakos jelentési kötelezettséget a (2) bekezdésben nem említett, adatszolgáltatási kötelezettséggel érintett szolgáltatások esetén legalább havonta, az adott hónap minden napjára, az adott hónap utolsó napját követő harmadik munkanap 24 óráig kell teljesíteni.
+(3)[^1] Az időszakos jelentési kötelezettséget
+
+a) pszichiátriai betegek nappali ellátása és szenvedélybetegek nappali ellátása esetén legalább havonta, az adott hónap minden – szakmai program szerinti – nyitvatartási napjára,
+
+b) a (2) bekezdésben és az a) pontban nem említett, adatszolgáltatási kötelezettséggel érintett szolgáltatások esetén legalább havonta, az adott hónap minden napjára,
+
+az adott hónap utolsó napját követő harmadik munkanap 24 óráig kell teljesíteni.
 
 (4) Ha az igénybevevő nem rendelkezik TAJ-jal, és a TAJ igénylésére jogosult
 
@@ -49,3 +55,5 @@ b) a hibás adatot,
 c) a helyes adatot és
 
 d) a hiba okát.
+
+[^1]: A 7. § (3) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 61. §-ával megállapított szöveg.

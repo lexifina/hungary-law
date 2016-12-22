@@ -1,4 +1,4 @@
-## 19. §[^1]
+## 19. §[^2]
 
 1. melléklet a 415/2015. (XII. 23.) Korm. rendelethez
 
@@ -104,4 +104,4 @@
 
 3.2. Jelentési időszak: a január 1-je és június 30-a, valamint a július 1-je és december 31-e közötti időszak.
 
-[^1]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^2]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
