@@ -9,11 +9,3 @@
 (4) A 4. §, a 33. § (2) bekezdése, a 34. § (2) bekezdése és a 45. § 2018. január 1-jén lép hatályba.
 
 (5) A 23. § (3) bekezdése 2023. január 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
