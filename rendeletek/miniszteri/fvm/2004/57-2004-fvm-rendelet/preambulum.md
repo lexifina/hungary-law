@@ -1,1 +1,0 @@
-Az élelmiszerekről szóló 2003. évi LXXXII. törvény 20. §-ának (5) bekezdésében foglalt felhatalmazás alapján – a gazdasági és közlekedési miniszterrel, valamint az egészségügyi, szociális és családügyi miniszterrel egyetértésben – a következőket rendelem el:
