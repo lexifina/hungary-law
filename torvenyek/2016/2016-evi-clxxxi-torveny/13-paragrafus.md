@@ -1,3 +1,0 @@
-13. § A Külszoltv. 35. §-a helyébe a következő rendelkezés lép:
-
-„35. § A külképviselet-vezető indokolt esetben, az állami vagyonnal és a költségvetési előirányzatokkal való felelős gazdálkodás elvének tiszteletben tartásával, a külképviselet kiadási előirányzatai terhére, a külpolitikáért felelős miniszter által vezetett minisztérium hivatali szervezetének vezetője előzetes engedélyével, az engedélyben foglalt feltételek szerint támogatást, adományt, segélyt, felajánlást és más ellenérték nélküli kötelezettséget vállalhat és kifizetést teljesíthet.”
