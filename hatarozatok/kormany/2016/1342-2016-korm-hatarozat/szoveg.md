@@ -22,7 +22,7 @@ d) a nemzeti pénzügyi szolgáltatások rendszere hitelintézeti hálózata kia
 
 e) a miniszter helyett és nevében az ENKSZ Első Nemzeti Közműszolgáltató Zártkörűen Működő Részvénytársaság (a továbbiakban: ENKSZ Zrt.) feletti tulajdonosi jogok gyakorlását, ideértve az ENKSZ Zrt.-re vonatkozó jogszabályok által a miniszter hatáskörébe utalt feladatokat,
 
-f) a miniszter helyett és nevében a KAF Központi Adatgyűjtő és Feldolgozó Zártkörűen Működő Részvénytársaság (a továbbiakban: KAF Zrt.) feletti tulajdonosi jogok gyakorlását, ideértve a KAF Zrt.-re vonatkozó jogszabályok által a miniszter hatáskörébe utalt feladatokat,
+f)[^2]
 
 g) a miniszter helyett és nevében egyes, jogszabály vagy kormányhatározat által a postaügyért felelős miniszter feladatkörébe tartozó társaságok állami tulajdonú részesedései feletti tulajdonosi jogok gyakorlását, valamint szabályozott piacra bevezetett és nem bevezetett kibocsátók által kibocsátott pénzügyi eszközök (többek között, de nem kizárólagosan hitelviszonyt megtestesítő értékpapírok) vagyonkezelését,
 
@@ -32,11 +32,11 @@ i) az egyetemes postai szolgáltatással kapcsolatos kötelezettségek általán
 
 j) a miniszter helyett és nevében az Egyetemes Postai Közszolgáltatási Szerződés megkötésével, módosításával és megszüntetésével, valamint az abban foglaltak végrehajtásával kapcsolatos feladatokat,
 
-k) a miniszter helyett és nevében az MFB Zrt., a Magyar Posta Zrt., az ENKSZ Zrt. és a KAF Zrt. tevékenységét érintő, kötelezettségvállalást nem tartalmazó nemzetközi megállapodások, nyilatkozatok aláírásával, végrehajtásával kapcsolatos feladatokat.
+k)[^3] a miniszter helyett és nevében az MFB Zrt., a Magyar Posta Zrt. és az ENKSZ Zrt. tevékenységét érintő, kötelezettségvállalást nem tartalmazó nemzetközi megállapodások, nyilatkozatok aláírásával, végrehajtásával kapcsolatos feladatokat.
 
-4–6.[^2]
+4–6.[^4]
 
-7.[^3] A kormánybiztos tevékenységét a Nemzeti Fejlesztési Minisztérium szervezetében működő titkárság segíti.
+7.[^5] A kormánybiztos tevékenységét a Nemzeti Fejlesztési Minisztérium szervezetében működő titkárság segíti.
 
 8. A kormánybiztos tevékenységét a miniszterelnök irányítja.
 
@@ -46,7 +46,7 @@ Határidő: 2016. szeptember 15.
 
 Felelős: a kormánybiztos
 
-10.[^4] A Kormány felhívja a minisztert, hogy a kormánybiztos 1–9. pontban foglalt feladatai ellátása érdekében a szükséges információkat bocsássa a kormánybiztos rendelkezésére, valamint – a kormánybiztossal egyeztetve – gondoskodjon a Nemzeti Fejlesztési Minisztérium Szervezeti és Működési Szabályzatának szükséges módosításáról a feladatellátás megkönnyítése érdekében.
+10.[^6] A Kormány felhívja a minisztert, hogy a kormánybiztos 1–9. pontban foglalt feladatai ellátása érdekében a szükséges információkat bocsássa a kormánybiztos rendelkezésére, valamint – a kormánybiztossal egyeztetve – gondoskodjon a Nemzeti Fejlesztési Minisztérium Szervezeti és Működési Szabályzatának szükséges módosításáról a feladatellátás megkönnyítése érdekében.
 
 Felelős: a miniszter
 
@@ -55,6 +55,8 @@ Határidő: azonnal
 11. Ez a határozat a közzétételét követő napon lép hatályba.
 
 [^1]: A 2. pont a) alpontja az 1423/2016. (VII. 29.) Korm. határozat 2. pont a) alpontja szerint módosított szöveg.
-[^2]: A 4–6. pontot az 1423/2016. (VII. 29.) Korm. határozat 3. pontja hatályon kívül helyezte.
-[^3]: A 7. pont az 1423/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
-[^4]: A 10. pont az 1423/2016. (VII. 29.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
+[^2]: A 3. pont f) alpontját az 1754/2016. (XII. 14.) Korm. határozat 2. pontja hatályon kívül helyezte.
+[^3]: A 3. pont k) alpontja az 1754/2016. (XII. 14.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^4]: A 4–6. pontot az 1423/2016. (VII. 29.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^5]: A 7. pont az 1423/2016. (VII. 29.) Korm. határozat 1. pontjával megállapított szöveg.
+[^6]: A 10. pont az 1423/2016. (VII. 29.) Korm. határozat 2. pont b) alpontja szerint módosított szöveg.
