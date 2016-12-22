@@ -1,0 +1,9 @@
+# 1822/2016. (XII. 22.) Korm. határozat
+
+egyes fejezetek közötti előirányzat-átcsoportosításról, a 2015. évi költségvetési maradványok egy részének felhasználásáról és egyes Korm. határozatok módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-1822-30-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-12-22 | 2016-1822-30-22.1 | 1822/2016. (XII. 22.) Korm. határozat |
