@@ -12,7 +12,7 @@ ba) a hatályos létesítő okirat másolatát, és
 
 bb) a fogadó szervezet adatairól a nyilvántartást vezető bíróság által kiállított, harminc napnál nem régebbi kivonatot, a cégkivonat kivételével;
 
-c) az egyházi jogi személy esetében a nyilvántartásba vett adataira vonatkozóan kiállított, harminc napnál nem régebbi igazolást.
+c) nyilvántartásba nem vett belső egyházi jogi személy esetén a lelkiismereti és vallásszabadság jogáról, valamint az egyházak, vallásfelekezetetek és vallási közösségek jogállásáról szóló 2011. évi CCVI. törvény 16. § (2) bekezdése szerinti igazolás másolatát,
 
 d) egyéni vállalkozó esetén az egyéni vállalkozók nyilvántartásába történő bejelentkezésről, illetve a változás-bejelentésről kiadott, az egyéni vállalkozó hatályos adatait tartalmazó igazolás (igazolások) másolatát, vagy az egyéni vállalkozónak az egyéni vállalkozók nyilvántartásában szereplő hatályos adatait igazoló, harminc napnál nem régebbi hatósági bizonyítványt;
 
@@ -20,7 +20,7 @@ e) fogadó intézmény, illetve annak fenntartója esetén annak igazolását, h
 
 (4) Ha a bejelentéshez
 
-a) a civil szervezet, közhasznú szervezet nem csatolta a (3) bekezdés b) pont bb) alpontja szerinti iratot, a miniszter a civil szervezet, közhasznú szervezet bírósági nyilvántartásba vett adatait a bíróság nyilvántartásából szerzi be, illetve ellenőrzi,
+a) a civil szervezet, közhasznú szervezet nem csatolta a (3) bekezdés b) pont bb) alpontja szerinti iratot, a miniszter a civil szervezet, közhasznú szervezet bírósági nyilvántartásba vett adatait a civil és egyéb, bírósági bejegyzéssel létrejött, cégnek nem minősülő szervezetek országos névjegyzékéből szerzi be, illetve ellenőrzi,
 
 b) az egyéni vállalkozó nem csatolta a (3) bekezdés d) pontja szerinti iratot, a miniszter az adatokat az egyéni vállalkozók nyilvántartásából szerzi be, illetve ellenőrzi.
 
@@ -33,3 +33,5 @@ b) az egyéni vállalkozó nem csatolta a (3) bekezdés d) pontja szerinti irato
 (6) Közhasznú szervezet esetén az adatváltozás bejelentésekor a létesítő okirat másolatát csak akkor kell mellékelni, ha az abban megjelölt cél, illetve tevékenységi kör megváltozott.
 
 (7) Az (1)–(2) bekezdések szerinti változásbejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a fogadó szervezet kéri – az (2) bekezdésben meghatározott határidőn belül értesíti a családpolitikáért felelős minisztert.
+
+(8) A fogadó szervezetek bejelentésére, az adatváltozás bejelentésére és a fogadó szervezetek nyilvántartásából történő törlésre irányuló eljárások költségmentesek.

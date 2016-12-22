@@ -12,7 +12,7 @@ e) a magyarországi székhelyű egyházi jogi személy vagy vallási tevékenys�
 
 f) a jogszabályban meghatározott közszolgáltatásai, vagy e közszolgáltatásokhoz kapcsolódóan a közszolgáltatásait igénybevevőknek nyújtott többletszolgáltatások körében a magyarországi székhelyű, illetve magyar hatóság által kiadott működési engedéllyel rendelkező, jogképes
 
-fa) szociális, gyermekjóléti, gyermekvédelmi szolgáltató, illetve intézmény,
+fa) szociális, gyermekjóléti, gyermekvédelmi szolgáltató, intézmény vagy hálózat,
 
 fb) egészségügyi szolgáltató,
 
