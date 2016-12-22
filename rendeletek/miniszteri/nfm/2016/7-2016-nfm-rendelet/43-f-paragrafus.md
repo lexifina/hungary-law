@@ -1,4 +1,4 @@
-## 24. [^59] Tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás
+## 24. [^63] Tudástranszferhez és tájékoztatási tevékenységekhez nyújtott támogatás
 
 43/F. § (1) A tudástranszferhez és tájékoztatási tevékenységhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében
 
@@ -14,4 +14,4 @@ c) a résztvevők távolléte idejére felmerült helyettesítéssel kapcsolatos
 
 (3) Az (1) bekezdés a) és c) pontja szerinti támogatás vonatkozásában közvetlen kifizetés a tudástranszfert vagy a tájékoztatási tevékenységet megvalósító szolgáltató részére teljesíthető.
 
-[^59]: A 24. alcímet (43/F. §) a 39/2016. (IX. 20.) NFM rendelet 9. §-a iktatta be.
+[^63]: A 24. alcímet (43/F. §) a 39/2016. (IX. 20.) NFM rendelet 9. §-a iktatta be.

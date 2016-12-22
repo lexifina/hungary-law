@@ -1,4 +1,4 @@
-## 8. §[^52] E rendelet alapján
+## 8. §[^56] E rendelet alapján
 
 a) a 651/2014/EU bizottsági rendelet szerinti támogatás esetén – a regionális beruházási támogatás kivételével – 2021. június 30-ig,
 
@@ -12,4 +12,4 @@ e) az agrár- és erdészeti ágazatban nyújtott állami támogatásokról szó
 
 f) az SA.37599 sz. határozat szerinti támogatás esetében 2019. december 31-ig
 
-[^52]: A 8. § a 39/2016. (IX. 20.) NFM rendelet 6. §-ával megállapított szöveg.
+[^56]: A 8. § a 39/2016. (IX. 20.) NFM rendelet 6. §-ával megállapított szöveg.

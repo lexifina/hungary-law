@@ -98,11 +98,7 @@ kj) 2. pont g) alpontja alapján személyszállítási közszolgáltatásért j�
 
 kk) 2. pont e) alpontja alapján a kezdeményezések tartalmától függően és a vonatkozó európai uniós jogszabályok előírásainak betartása mellett a k) pontban meghatározott valamennyi támogatási kategória,
 
-l) 49–53., 56., 63–65., 91–105., 107., 111–122. sora alapján
-
-la) csekély összegű támogatás,
-
-lb) sportlétesítményhez és multifunkcionális szabadidő létesítményhez nyújtott támogatás,
+l)[^2] 49–53., 55a., 56., 56a–56e., 63–65., 91–105., 107., 111–122. sora alapján
 
 m) 73. sora alapján
 
@@ -132,6 +128,24 @@ pe) 1. pont g) alpontja alapján az uniós szabvány túlteljesítését, illetv
 
 pf) 1. pont g) alpontja alapján személyszállítási közszolgáltatásért járó ellentételezés,
 
-q) 90. sora alapján a kezdeményezések tartalmától függően és a vonatkozó európai uniós jogszabályok előírásainak betartása mellett az a)–p) pontban meghatározott valamennyi támogatási kategória
+q) 90. sora alapján a kezdeményezések tartalmától függően és a vonatkozó európai uniós jogszabályok előírásainak betartása mellett az a)–p) pontban meghatározott valamennyi támogatási kategória,
+
+r)[^3] 31a. sor
+
+ra) 1. pont a)–d) és f) alpontja alapján csekély összegű támogatás, környezetvédelmi tanulmányhoz nyújtott támogatás, energetikai célú infrastruktúrához nyújtott beruházási támogatás, induló vállalkozásnak nyújtott támogatás,
+
+rb) 1. pont c)–d) alpontja alapján uniós szabvány túlteljesítését, illetve uniós szabvány hiányában a környezetvédelem szintjének emelését szolgáló beruházási támogatás, jövőbeni uniós szabványhoz idő előtt történő alkalmazkodáshoz nyújtott beruházási támogatás,
+
+rc) 1. pont a) és b) alpontja alapján megújuló energia termeléséhez nyújtott beruházási támogatás, kutatás-fejlesztési projektekhez nyújtott támogatás, kutatási infrastruktúrához nyújtott támogatás, kis- és középvállalkozásnak nyújtott innovációs támogatás,
+
+rd) 1. pont c)–d) és f) alpontjai alapján energiahatékonysági intézkedéshez nyújtott beruházási támogatás,
+
+s)[^4] 17a. és 47a. sora alapján közszolgáltatásért járó ellentételezés,
+
+t)[^5] 17.c. sora alapján személyszállítási közszolgáltatásért járó ellentételezés
 
 [^1]: A 3. § a 39/2016. (IX. 20.) NFM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 3. § l) pontja az 54/2016. (XII. 21.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 3. § r) pontját az 54/2016. (XII. 21.) NFM rendelet 1. § (2) bekezdése iktatta be.
+[^4]: A 3. § s) pontját az 54/2016. (XII. 21.) NFM rendelet 1. § (2) bekezdése iktatta be.
+[^5]: A 3. § t) pontját az 54/2016. (XII. 21.) NFM rendelet 1. § (2) bekezdése iktatta be.

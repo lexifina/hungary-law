@@ -1,4 +1,4 @@
-45. §[^62] (1) Az e rendelet hatálya alá tartozó,
+45. §[^66] (1) Az e rendelet hatálya alá tartozó,
 
 a) 500 000 eurónak megfelelő forintösszeget meghaladó támogatásokról a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából,
 
@@ -28,4 +28,4 @@ g) támogatás célja,
 
 h) támogatást nyújtó hatóság megnevezése.
 
-[^62]: A 45. § a 39/2016. (IX. 20.) NFM rendelet 10. §-ával megállapított szöveg.
+[^66]: A 45. § a 39/2016. (IX. 20.) NFM rendelet 10. §-ával megállapított szöveg.
