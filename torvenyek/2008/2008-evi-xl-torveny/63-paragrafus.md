@@ -10,4 +10,10 @@
 
 (6) A földgázelosztó köteles az ügyfélszolgálatok működtetésére telefonos és elektronikus eléréssel, valamint az ügyfelek részére nyitva álló helyiségben azzal, hogy állandó ügyfélszolgálati irodát kell létesítenie minden megyeszékhelyen és megyei jogú városban vagy – ha működési területén ilyen város nincs – a legtöbb felhasználóval rendelkező településen.
 
-(7) Ha a felhasználó elosztóhálózat-használati szerződését a földgázkereskedő a 28/A. § (5) bekezdésének megfelelően megbízottként kezeli, az (1)–(2) bekezdésben meghatározott ügyfélszolgálatokon biztosítja az elosztóhálózat-használattal kapcsolatos ügyintézést is.
+(7) Ha a felhasználó elosztóhálózat-használati szerződését a földgázkereskedő a 28/A. § (4) bekezdésének megfelelően megbízottként kezeli,
+
+a) az egyetemes szolgáltatásra jogosult felhasználókat ellátó kereskedő az (1)–(2) bekezdésben meghatározott ügyfélszolgálatokon,
+
+b) a kizárólag egyetemes szolgáltatásra nem jogosult felhasználókat ellátó kereskedő az általa meghatározott kapcsolattartási módokon
+
+biztosítja az elosztóhálózat-használattal kapcsolatos ügyintézést is.

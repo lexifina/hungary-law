@@ -36,19 +36,15 @@ b) a havi 200 000 darabot meg nem haladó mennyiségű számlát kibocsátó eng
 
 kiállított számla érvénytelen.
 
-(2) A szállítási rendszerüzemeltető és a földgázelosztó – az e törvény rendelkezéseinek végrehajtásáról szóló jogszabályokban rögzített módon és formában – gondoskodik a kereskedelmi számlakiállítás alapjául szolgáló, kezdő és záró mérőállást is tartalmazó mérési adatoknak és az elszámolási adatok kiszámításához szükséges adatoknak a rögzítéséről, és a szállítóvezetékhez közvetlenül kapcsolódó felhasználókra vonatkozó adatok kivételével a központi adatgyűjtő és feldolgozó rendszert működtető engedélyesnek történő megküldéséről.
+(2) A szállítási rendszerüzemeltető és a földgázelosztó – a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben, üzletszabályzatban és a földgázkereskedővel kötött egyedi megállapodásban rögzített módon – gondoskodik a kereskedelmi számlakiállítás alapjául szolgáló – kezdő és záró mérőállást is tartalmazó-fogyasztási adatok összegyűjtéséről, a szükséges átszámítások és korrekciók elvégzéséről, és az adatoknak az Üzemi és Kereskedelmi Szabályzat szerinti tartalommal és formában az érintett földgázkereskedőnek történő továbbításáról. A mérési adatokat a földgázkereskedő – természetes személy esetén az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint – az érintett felhasználó számára köteles hozzáférhetővé tenni.
 
-(2a) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes gondoskodik:
+(2a)
 
-a) a (2) bekezdés alapján megküldött adatok nyilvántartásáról, valamint – figyelemmel a (2b) bekezdésben foglaltakra – az átszámítás és a korrekció e törvény végrehajtásáról szóló kormányrendeletben meghatározottak szerinti elvégzéséről, és a kiszámított elszámolási adatok nyilvántartásáról, és
+(2b)
 
-b) a kereskedelmi számlakiállítás alapjául szolgáló, kezdő és záró mérőállást is tartalmazó elszámolási adatok e törvény végrehajtására kiadott jogszabályokban meghatározott módon és formában történő továbbításáról az érintett rendszerüzemeltetők és rendszerhasználók részére.
+(2c)
 
-(2b) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes a (2) bekezdés alapján megküldött adatok központi adatgyűjtő és feldolgozó rendszer szabályzatában meghatározott eljárásrend szerinti ellenőrzését követően elvégzi a szükséges számításokat, és az e törvény végrehajtására kiadott jogszabályokban és az Üzemi és Kereskedelmi Szabályzat szerinti módon és formában meghatározza az elszámolási adatokat.
-
-(2c) A mérési és az elszámolási adatokat a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes az érintett felhasználó számára a földgázelosztó közreműködésével – természetes személy esetén az információs önrendelkezési jogról és az információszabadságról szóló törvényben előírtak szerint – az e törvény végrehajtásáról szóló kormányrendeletben meghatározott módon, a Hivatal elnökének rendeletében meghatározott díj ellenében köteles hozzáférhetővé tenni.
-
-(2d) A szállítási rendszerüzemeltető – a földgázellátásról szóló törvény rendelkezéseinek végrehajtásáról szóló kormányrendeletben, üzletszabályzatban vagy a földgázkereskedővel kötött egyedi megállapodásban rögzített módon – gondoskodik a kereskedelmi számlakiállítás alapjául szolgáló – kezdő és záró mérőállást is tartalmazó – szállítóvezetékhez közvetlenül kapcsolódó felhasználókra vonatkozó fogyasztási adatok összegyűjtéséről, a szükséges átszámítások és korrekciók elvégzéséről, és az adatoknak az Üzemi és Kereskedelmi Szabályzat szerinti tartalommal és formában az érintett földgázkereskedőnek történő továbbításáról. A szállítóvezetékhez közvetlenül kapcsolódó felhasználók mérési adatait a földgázkereskedő – természetes személy esetén az információs önrendelkezési jogról és az információszabadságról szóló törvény rendelkezései szerint – az érintett felhasználó számára külön díj rendeletben meghatározottak szerint köteles hozzáférhetővé tenni.
+(2d)
 
 (3) Az elszámolás során a számlában fel kell tüntetni az adott elszámolási időszakra vonatkozóan a fogyasztásmérő berendezés által tárolt kezdő és záró mérőállást is.
 

@@ -8,11 +8,11 @@
 
 (5) A felhasználási hely vásárolt kapacitását és a rendszerhasználó által lekötött kapacitást az a rendszerüzemeltető köteles nyilvántartani, amelynek szállító- vagy elosztóvezetékéhez a felhasználó csatlakozott és amelyen a rendszerhasználó kapacitást kötött le.
 
-(5a) Az elosztóvezetékhez közvetlenül csatlakozó felhasználó, valamint a telephelyi vezetékhez közvetlenül csatlakozó, a földgázt közvetlenül földgázkereskedőtől beszerző telephelyi felhasználó által lekötött kapacitás adatait a földgázelosztó köteles a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes részére megküldeni.
+(5a)
 
 (6) A felhasználó kérésére a vásárolt kapacitásról, a lekötött kapacitásról, a felhasználói profilba történő besorolásról, továbbá a felhasználási hely – e törvény végrehajtásáról szóló kormányrendeletben meghatározott – jellemző adatairól a felhasználó csatlakozását biztosító rendszerüzemeltető köteles igazolást kiadni.
 
-(6a) A saját jogon eljáró felhasználó vagy a felhasználó hozzájáruló nyilatkozatával rendelkező földgázkereskedő kérésére – ide nem értve a szállítóvezetékhez közvetlenül csatlakozó felhasználót vagy ezen felhasználó hozzájáruló nyilatkozatával rendelkező földgázkereskedőt – a lekötött kapacitásról, a felhasználói profilba történő besorolásról, továbbá a felhasználási hely – e törvény végrehajtásáról szóló kormányrendeletben meghatározott – jellemző adatairól a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes köteles igazolást kiadni.
+(6a)
 
 (7) A saját jogon eljáró felhasználó a betáplálási-kiadási ponton a saját földgáz felhasználása mértékéig kapacitást köthet le. Ha a felhasználó ezen kapacitáslekötési jogát átadta a földgázkereskedő részére, akkor a felhasználó rendszerhasználati szerződés megkötésére, valamint a betáplálási-kiadási ponton kapacitás lekötésére nem jogosult.
 
@@ -32,4 +32,12 @@
 
 (15) Az összekapcsolási pont nem minősül betáplálási-kiadási pontnak, azon kapacitás nem köthető le. Az összekapcsolási pontra vonatkozóan a szállítási rendszerüzemeltetők egymással együttműködési megállapodásban szabályozzák a feladataikat és vállalnak kötelezettséget a földgázellátás megfelelő és folyamatos biztosítására, amelynek részletszabályait e törvény és az e törvény végrehajtásáráról szóló kormányrendelet, valamint az Üzemi és Kereskedelmi Szabályzat tartalmazza.
 
-(16) A földgáztermelő a betáplálási-kiadási ponton jogosult az általa termelt földgáz értékesítése érdekében kapacitást lekötni, amelyre a kapacitáslekötés és a rendszerhez való hozzáférés szabályait kell megfelelően alkalmazni.
+(16) A földgáztermelő
+
+a) a hazai termelésű földgáz földgázkereskedő részére történő értékesítése, valamint a kitermelt földgáz Magyarország területéről történő kivitele, és
+
+b) amennyiben a földgázkereskedőre vonatkozóan, e törvényben és az e törvény végrehajtására kiadott jogszabályban foglalt feltételeknek – a tevékenység folytatáshoz szükséges külön engedély kiváltására vonatkozó kötelezettség kivételével – megfelel, a kitermelt földgáz értékesítése
+
+érdekében, a kitermelés mértékéig jogosult kapacitást lekötni, amelyre a kapacitáslekötés és a rendszerhez való hozzáférés szabályait kell megfelelően alkalmazni.
+
+(17) A (16) bekezdés b) pont szerinti esetben a földgázkereskedőre vonatkozó kötelezettségek földgáztermelő általi betartását a Hivatal a földgázkereskedőkre vonatkozó szabályok szerint ellenőrzi.

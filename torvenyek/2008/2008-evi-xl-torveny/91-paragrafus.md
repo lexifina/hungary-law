@@ -12,6 +12,6 @@
 
 (3) A szállítási rendszerüzemeltető a hidraulikai egyensúly biztosításához saját egyensúlyozó eszközöket, a kereskedési platformról, az egyensúlyozó platformról és a szervezett földgázpiacról beszerzett vagy ott értékesített földgázmennyiségeket, továbbá más, az Üzemi és Kereskedelmi Szabályzatban meghatározott, átlátható módon beszerzett rendszeregyensúlyozási szolgáltatásokat vehet igénybe, valamint újranominálással vagy korlátozással élhet az egyensúly fenntartásához szükséges mértékig.
 
-(4) Az együttműködő földgázrendszer egyensúlyának biztosítása érdekében a szállítási rendszerirányító, a rendszerüzemeltetők, a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes és a rendszerhasználók folyamatosan együttműködnek.
+(4) Az együttműködő földgázrendszer egyensúlyának biztosítása érdekében a szállítási rendszerirányító, a rendszerüzemeltetők és a rendszerhasználók folyamatosan együttműködnek.
 
 (5) Az egyensúlytartásra alkalmazott szabályoknak meg kell felelniük az objektivitás, átláthatóság és megkülönböztetés-mentesség elvének.

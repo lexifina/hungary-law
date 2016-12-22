@@ -8,11 +8,11 @@ c) elosztási átszállítási díjat,
 
 d) földgáztárolási díjat és
 
-e) földgáz elszámolási díjat
+e)
 
 (a továbbiakban együtt: rendszerhasználati díjak) kell fizetni. Az egyes rendszerhasználati díjak a díj alapjául szolgáló költségszerkezetnek megfelelő díjelemekből állhatnak.
 
-(2) Az (1) bekezdés a), d) és e) pontjai szerinti díjak országosan egységes mértékűek. Az (1) bekezdés b) és c) pontja szerinti díj mértéke földgázelosztónként kerül megállapításra.
+(2) Az (1) bekezdés a) és d) pontjai szerinti díjak országosan egységes mértékűek. Az (1) bekezdés b) és c) pontja szerinti díj mértéke földgázelosztónként kerül megállapításra.
 
 (3) A rendszerhasználati díjaknak, a csatlakozási díjnak és a külön díj ellenében végezhető szolgáltatások díjainak meg kell felelniük az átláthatóság, a nyilvánosság és az arányosság elvének, valamint azokat objektív módon, megkülönböztetés nélkül kell alkalmazni.
 

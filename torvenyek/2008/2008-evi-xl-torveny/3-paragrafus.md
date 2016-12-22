@@ -122,7 +122,7 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 46. Korlátozás: földgázellátási zavar esetén az egyes korlátozási kategóriákba besorolt felhasználók gázfogyasztásának csökkentése vagy megszüntetése annak érdekében, hogy az együttműködő földgázrendszeren vagy annak egy részén a hidraulikai egyensúly fenntartható vagy helyreállítható legyen.
 
-46a. Központi adatgyűjtő és feldolgozó rendszer: az együttműködő földgázrendszerben az e törvényben meghatározott elszámolási és egyéb feladatok – ideértve a földgázfelhasználás felosztását felhasználási hely egyedi azonosítónként (POD), a felhasználási hely egyedi azonosítónkénti tényleges földgázvételezés és a felhasználási hely egyedi azonosítónként felosztott földgázmennyiség különbségéből adódó eltérések korrekcióját, valamint a mérési adatok átszámítását – elvégzése érdekében létrehozott, és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes által működtetett adatforgalmi és informatikai rendszer.
+46a.
 
 47. Lakossági fogyasztó: az a felhasználó, aki saját háztartása – egy felhasználási helyet képező egy vagy több lakóépület, lakás, üdülő vagy hétvégi ház, továbbá lakossági célra használt garázs – fogyasztása céljára vásárol földgázt földgáz vételezésére megkötött szerződés alapján, és az így vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet. Ha a lakóépületben a műszakilag megosztott, önálló lakások száma meghaladja az épületben lévő önálló nem lakás céljára szolgáló helyiségek számát, a lakóépületet, mint felhasználót a közös fogyasztás vonatkozásában úgy kell tekinteni, hogy saját háztartás céljára vételez és a vásárolt földgázzal nem folytat jövedelemszerzés céljából gazdasági tevékenységet.
 
@@ -138,7 +138,7 @@ b) Horizontálisan integrált vállalkozás: olyan földgázipari vállalkozás,
 
 51. Rendszerhasználati szerződés: a rendszerhasználó által a szállítási rendszerüzemeltetővel, a földgázelosztóval vagy a földgáztárolói engedélyessel az e törvényben, az e törvény végrehajtására kiadott rendeletekben, az Üzemi és Kereskedelmi Szabályzatban, a kapacitáslekötési platform szabályzatában, valamint a rendszerüzemeltető működési engedélyében és üzletszabályzatában meghatározott tevékenységek végzésére és szolgáltatások biztosítására kötött szerződés.
 
-51a. Rendszerhasználó: az a felhasználó, földgáztermelő, földgázkereskedő – beleértve a korlátozott földgázkereskedelmi engedélyest és az egyetemes szolgáltatót is –, illetve rendszerüzemeltető, aki rendszerhasználati szerződés alapján a földgázrendszer kapacitását leköti, vagy azt földgáz betáplálására vagy vételezésére igénybe veszi.
+51a. Rendszerhasználó: az a felhasználó, földgáztermelő, földgázkereskedő – beleértve a korlátozott földgázkereskedelmi engedélyest és az egyetemes szolgáltatót is –, illetve rendszerüzemeltető – beleértve a határkeresztező gázvezetéken földgázt átszállító külföldi székhelyű szállítási rendszerüzemeltetőt is –, aki rendszerhasználati szerződés alapján a földgázrendszer kapacitását leköti, vagy azt földgáz betáplálására vagy vételezésére igénybe veszi.
 
 52. Rendszerirányítás: az együttműködő földgázrendszer e törvényben meghatározott irányítási és koordinációs feladatainak ellátása.
 

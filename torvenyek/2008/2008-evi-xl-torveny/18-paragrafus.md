@@ -1,1 +1,1 @@
-18. § Ha a felhasználó közvetlenül a szállítóvezetékre csatlakozik, részére a földgázelosztói feladatokat a szállítási rendszerüzemeltető biztosítja.
+18. § A szállítóvezetékről közvetlenül ellátott felhasználó részére a földgázelosztói feladatokat – ideértve az ellátást biztosító vezeték üzemeltetését – a szállítási rendszerüzemeltető biztosítja a felhasználási hely telekhatáráig.

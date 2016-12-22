@@ -6,4 +6,4 @@
 
 (2) A kijelölés legfeljebb kormányrendeletben meghatározott időtartamra hatályos, azonban a kijelölés az időtartam lejártát megelőzően hatályát veszti, ha a kormányrendeletben meghatározott feltételek teljesülnek.
 
-(3) A végső menedékes kijelölését követően a Hivatal a korábbi földgázkereskedő engedélyét visszavonja.
+(3) A végső menedékes kijelölését követően a Hivatal a korábbi földgázkereskedő engedélyét visszavonja a földgáz végső menedékes szolgáltatásról és a földgázkereskedő működésének lehetetlenülése esetén a felhasználók földgázellátását veszélyeztető helyzet fennállása következtében alkalmazandó eljárásról szóló kormányrendeletben szabályozott esetben.

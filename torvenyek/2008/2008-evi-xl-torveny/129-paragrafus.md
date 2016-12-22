@@ -8,13 +8,13 @@ a) a 64. § (2) bekezdése, a 67. § (3) bekezdése, valamint a 127. § m) és n
 
 b) a 82. § (5) bekezdés szerinti eljárásban négy hónap,
 
-c) a korlátozott földgáz-kereskedelmi engedély kiadására irányuló eljárásban 25 nap,
+c)
 
 d) a 128. § (1) bekezdés a)–c) és e) pontja, valamint a 128/A. § (5) bekezdése szerinti eljárásokban négy hónap,
 
 e) a 128/A. § (6) bekezdése szerinti eljárásban két hónap.
 
-(2a) A (2) bekezdés a), c) és e) pontjában meghatározott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
+(2a) A (2) bekezdés a) és e) pontjában meghatározott eljárásokban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 (3)
 

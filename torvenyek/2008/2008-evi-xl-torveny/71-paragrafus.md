@@ -8,7 +8,7 @@
 
 (4) A szabad kapacitások lekötésének rendszerüzemeltetőkre vonatkozóan egységesített szabályait az Üzemi és Kereskedelmi Szabályzat tartalmazza.
 
-(5) A szállítási rendszerüzemeltető és a földgázelosztó szabad kapacitásait gázévre, gázév negyedévére, hónapjára, napjára és a felhasználási hely szabad kapacitásának kivételével gáznapon belül a gáznap hátralevő részére vonatkozóan, egész órában meghatározott időtartamokra ajánlja fel lekötésre.
+(5) A szállítási rendszerüzemeltető és a földgázelosztó szabad kapacitásait gázévre, gázév negyedévére, hónapjára, napjára és gáznapon belül a gáznap hátralevő részére vonatkozóan, egész órában meghatározott időtartamokra ajánlja fel lekötésre.
 
 (6) A szállítási rendszerüzemeltető megszakítható kapacitást csak abban az esetben ajánlhat fel, amennyiben az adott betáplálási-kiadási ponton a nem megszakítható kapacitás kapacitástermékenként a Hivatal elnökének rendeletében meghatározott mértékben lekötésre került. Megszakítható kapacitás nem kínálható fel a felkínált nem megszakítható kapacitás terhére. A szállítási rendszerüzemeltető nem különíthet el nem megszakítható kapacitásként felkínálható kapacitást megszakítható kapacitásként való felkínálás céljából.
 

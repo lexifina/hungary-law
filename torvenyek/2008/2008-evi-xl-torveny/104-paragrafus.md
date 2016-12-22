@@ -6,7 +6,7 @@
 
 (4) A hatósági ár megállapítása hivatalból történik.
 
-(4a) Az engedélyesek az általuk alkalmazott hatósági árat az árat meghatározó rendelet kihirdetését vagy az árat meghatározó határozat kézhezvételét követő három munkanapon belül kötelesek honlapjukon nyilvánosságra hozni.
+(4a) Az engedélyesek az általuk alkalmazott hatósági árat és alkalmazásuk szabályait az árat meghatározó rendelet kihirdetését követő 3 munkanapon belül vagy az árat meghatározó határozat esetében az árak alkalmazhatósága előtt 20 nappal kötelesek honlapjukon és ügyfélszolgálat fenntartása esetén az ügyfélszolgálatukon nyilvánosságra hozni.
 
 (5) A hatósági ár megállapításakor rendelkezni kell arról, hogy a hatósági árat mikortól kell alkalmazni. E rendelkezésnek visszamenőleges hatálya nem lehet.
 

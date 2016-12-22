@@ -22,7 +22,7 @@ b) bírságot szabhat ki a tulajdonosra, vagy az üzemeltetőre,
 
 c) a határidő eredménytelen eltelte után más engedélyest jelölhet ki a jogszabályban előírt feladatok teljesítésére, és az engedélyes tevékenység folytatására.
 
-(2a) A Hivatal az (1) bekezdés a) és b) pontja szerinti jogkövetkezményeket alkalmazhatja a hazai termelésű földgázt termelőre is, ha az a jogszabályban foglalt kötelezettségét nem teljesíti.
+(2a) A Hivatal az (1) bekezdés a) és b) pontja szerinti jogkövetkezményeket alkalmazhatja a hazai termelésű földgázt termelőre és a 72. § (16) bekezdés b) pontja szerint eljáró földgáztermelőre is, ha az a jogszabályban foglalt kötelezettségét nem teljesíti.
 
 (2b) A Hivatal a szállítóvezeték tulajdonosával szemben az (1) bekezdésben meghatározott jogszabályokban és uniós jogi aktusokban, valamint a Hivatal által kiadott határozatokban foglalt kötelezettségeinek megszegése esetén az (1) bekezdés a) és b) pontjában foglalt jogkövetkezményeket alkalmazhatja.
 

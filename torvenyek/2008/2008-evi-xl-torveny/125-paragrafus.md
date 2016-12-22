@@ -10,7 +10,7 @@
 
 (1c) Az átvevő egyetemes szolgáltató az átadó egyetemes szolgáltató egyetemes szolgáltatói engedélye visszavonásának az e törvény 115/A. § szerinti kezdeményezése esetén az e törvény 115/B. § (1) bekezdése szerinti visszavonó és a kijelölő határozat kézhezvételének napjától az érintett felhasználók átvétele, földgázellátásuk biztosításához szükséges teendők elvégzése céljából kezelheti az érintett felhasználók azonosításához szükséges és elégséges, az (1) bekezdésben, valamint a külön jogszabályban meghatározott személyes adatokat, továbbá adott felhasználóval kapcsolatban az átadó egyetemes szolgáltató által kezelt egyéb személyes adatokat.
 
-(1d) A központi adatgyűjtő és feldolgozó rendszert működtető engedélyes az e törvényben meghatározott engedélyköteles tevékenysége körében, az e törvényben és a végrehajtására kiadott jogszabályokban előírt feladatainak ellátása céljából, az ahhoz szükséges mértékben kezelheti az elosztóvezetékhez vagy a telephelyi vezetékhez közvetlenül csatlakozó felhasználók felhasználási helyének egyedi azonosítóit, a felhasználási hely fogyasztásmérő berendezésének adatait, mérési, elszámolási és lekötött kapacitás adatait, valamint a felhasználót ellátó rendszerhasználó e törvény végrehajtására kiadott jogszabályokban meghatározott adatait.
+(1d)
 
 (2) Az adatkezelő a kezelt személyes adatokat haladéktalanul köteles törölni, ha az adatkezelés nem az (1) bekezdésben meghatározott célból történt, vagy az adatkezelés célja megszűnt.
 
@@ -48,11 +48,11 @@ c) az azonos típusú működési engedéllyel rendelkező engedélyesekkel és 
 
 (7) A rendszerüzemeltetők és a telephelyi szolgáltatók nem élhetnek vissza azokkal az üzleti érdeket érintő információkkal, amelyekhez a rendszerhasználóktól az együttműködő földgázrendszerhez való hozzáférés megvalósítása vagy tárgyalása során jutottak, és kötelesek továbbá mindazon üzleti titoknak nem minősülő információkat az összes érdekelt rendelkezésére bocsátani, amelyeket bármelyik érdekelt részére eljuttattak.
 
-(8) A rendszerhasználók, a rendszerüzemeltetők és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes kötelesek a rendszeregyensúly fenntartásához szükséges operatív jellegű, az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat folyamatosan szolgáltatni. Az adatforgalomban résztvevők kötelesek biztosítani az üzleti titoknak minősülő információk bizalmas kezelését.
+(8) A rendszerhasználók és a rendszerüzemeltetők kötelesek a rendszeregyensúly fenntartásához szükséges operatív jellegű, az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat folyamatosan szolgáltatni. Az adatforgalomban résztvevők kötelesek biztosítani az üzleti titoknak minősülő információk bizalmas kezelését.
 
-(9) A szállítási rendszerüzemeltető köteles a rendszerüzemeltetőknek, a szállítóvezetékhez közvetlenül kapcsolódó felhasználóknak, a földgáztermelőnek és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyesnek a földgázszállítási alapszolgáltatás keretében a szállított földgáz minőségére vonatkozó napi elszámolási adatot szolgáltatni.
+(9) A szállítási rendszerüzemeltető köteles a rendszerüzemeltetőknek, a szállítóvezetékhez közvetlenül kapcsolódó felhasználóknak és a földgáztermelőnek a földgázszállítási alapszolgáltatás keretében a szállított földgáz minőségére vonatkozó napi elszámolási adatot szolgáltatni.
 
-(10) A rendszerüzemeltetők kötelesek más rendszerüzemeltetők, a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes, a rendszerhasználók, valamint a Hivatal, továbbá a miniszter számára külön jogszabályban és az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat szolgáltatni.
+(10) A rendszerüzemeltetők kötelesek más rendszerüzemeltetők, a rendszerhasználók, valamint a Hivatal, továbbá a miniszter számára külön jogszabályban és az Üzemi és Kereskedelmi Szabályzatban meghatározott adatokat szolgáltatni.
 
 (11) Az adatszolgáltatásra vonatkozó részletszabályokat külön jogszabály, és az Üzemi és Kereskedelmi Szabályzat tartalmazza.
 
@@ -60,7 +60,7 @@ c) az azonos típusú működési engedéllyel rendelkező engedélyesekkel és 
 
 (13) A rendszerirányító biztosítja az üzleti titoknak minősülő információk bizalmas kezelését.
 
-(14) A rendszerüzemeltető és a központi adatgyűjtő és feldolgozó rendszert működtető engedélyes az információ közreadására vonatkozó jogi kötelezettség sérelme nélkül köteles megőrizni azoknak a gazdasági szempontból érzékeny információknak a titkosságát, amelyekhez üzleti tevékenysége során hozzájut, továbbá megakadályozni, hogy a saját tevékenységével kapcsolatos – üzleti szempontból előnyös – információ megkülönböztető módon kerüljön nyilvánosságra.
+(14) A rendszerüzemeltető az információ közreadására vonatkozó jogi kötelezettség sérelme nélkül köteles megőrizni azoknak a gazdasági szempontból érzékeny információknak a titkosságát, amelyekhez üzleti tevékenysége során hozzájut, továbbá megakadályozni, hogy a saját tevékenységével kapcsolatos – üzleti szempontból előnyös – információ megkülönböztető módon kerüljön nyilvánosságra.
 
 (15) Az engedélyesek külön jogszabályban meghatározott informatikai rendszert működtetnek az együttműködés biztosítása érdekében.
 
