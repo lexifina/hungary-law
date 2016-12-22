@@ -12,7 +12,7 @@
 
 6. 116. § (1) bekezdésében az „és a közvetlen vezeték” szövegrész helyébe a „ , közvetlen vezeték és az ideiglenes vezeték” szöveg,
 
-7. 116. § (1) bekezdésében az „és a közvetlen vezeték” szövegrész helyébe a „ , közvetlen vezeték és az ideiglenes vezeték” szöveg,
+7.
 
 8. 116. § (3) bekezdés e) pontjában az „és a kisfeszültségű közvetlen vezetékre,” szövegrész helyébe az „ , a kisfeszültségű közvetlen vezetékre és a kisfeszültségű ideiglenes vezetékre,” szöveg,
 
@@ -30,9 +30,9 @@
 
 15. 146. § (5) bekezdésében az „Az e § szerinti rendeletek” szövegrész helyébe az „A (2) és (3) bekezdés szerinti rendelet és az (1) bekezdés szerinti rendeletre vonatkozó javaslat” szöveg,
 
-16. 148. § (2) bekezdésében a „0,25 Ft/kWh” szövegrész helyébe a „0,16 Ft/kWh” szöveg,
+16.
 
-17. 148. § (3) bekezdésében a „0,07 Ft/kWh” szövegrész helyébe a „0,10 Ft/kWh” szöveg,
+17.
 
 18. 170. § (5) bekezdés 5. pontjában az „engedélyes” szövegrész helyébe a „felek” szöveg
 

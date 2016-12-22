@@ -15,11 +15,3 @@ a) 2. §-a a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tan�
 b) 4. § (1) bekezdése és a 15. § a) pontja az ionizáló sugárzás miatti sugárterhelésből származó veszélyekkel szembeni védelmet szolgáló alapvető biztonsági előírások megállapításáról, valamint a 89/618/Euratom, a 90/641/Euratom, a 96/29/Euratom, a 97/43/Euratom és a 2003/122/Euratom irányelv hatályon kívül helyezéséről szóló, 2013. december 5-i 2013/59/Euratom tanácsi irányelv 4. cikk 76. és 78. pontjának és az 5. cikk a) pontjának
 
 való megfelelést szolgálja.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Lezsák Sándor s. k.,
-
-az Országgyűlés alelnöke
