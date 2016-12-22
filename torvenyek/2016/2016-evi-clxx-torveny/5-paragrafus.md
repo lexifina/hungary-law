@@ -1,0 +1,5 @@
+## 3. Állami tulajdonú ingatlan ingyenes egyházi tulajdonba adása
+
+5. § (1) A nemzeti vagyonról szóló 2011. évi CXCVI. törvény 13. § (3) bekezdése és az állami vagyonról szóló 2007. évi CVI. törvény 36. § (1) bekezdése alapján a Budapest III. kerület Árpád fejedelem út 108. szám alatt található, az ingatlan-nyilvántartás szerint Budapest III. kerület 17927 helyrajzi szám alatt nyilvántartott ingatlan állam tulajdonában lévő 57/100 tulajdoni hányada ingyenesen – szociális, oktatási, kulturális és hitéleti feladatainak elősegítése érdekében – az Egységes Magyarországi Izraelita Hitközség tulajdonába kerül, azzal a feltétellel, hogy az Egységes Magyarországi Izraelita Hitközség az ingatlant terhelő kötelezettségeket a (2) bekezdés szerinti szerződés szerint teljeskörűen átvállalja.
+
+(2) Az (1) bekezdés szerinti tulajdon átruházásnak az ingatlan-nyilvántartásba történő bejegyzésére alkalmas szerződést az állam nevében az MNV Zrt. készíti el és köti meg. A szerződésben az ingatlan forgalmi értékeként az MNV Zrt. által megállapított értéket kell megjelölni.

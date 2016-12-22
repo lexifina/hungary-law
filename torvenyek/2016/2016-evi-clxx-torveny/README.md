@@ -1,0 +1,7 @@
+# 2016. évi CLXX. törvény egyes állami és önkormányzati tulajdonú ingatlanok ingyenes átadásáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-170-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2016-12-22 | 2016. évi CLXX. törvény | 2016-170-00-00.0 (közlönyállapot) |
