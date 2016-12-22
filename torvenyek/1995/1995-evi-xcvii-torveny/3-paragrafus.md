@@ -2,7 +2,7 @@
 
 3. § (1) A légiközlekedés hatósági feladatait légiközlekedési hatóság látja el.
 
-(2) Az állami célú légiközlekedéssel kapcsolatos hatósági feladatokat katonai légügyi hatóság látja el.
+(2) Az állami célú légiközlekedéssel összefüggő hatósági feladatokat katonai légügyi hatóság látja el.
 
 (2a) A gazdasági célú légiközlekedési tevékenység első alkalommal történő engedélyezésével kapcsolatos közigazgatási hatósági eljárás esetén az ügyintézési határidő 45 nap.
 

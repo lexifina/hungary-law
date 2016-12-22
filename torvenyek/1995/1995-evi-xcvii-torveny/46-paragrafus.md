@@ -14,7 +14,7 @@ a) típusalkalmassági tanúsítvánnyal vagy
 
 b) egyedi repülési engedéllyel.
 
-(2) Az állami célú légiközlekedésben légijármű és egyes légiközlekedéssel kapcsolatos eszköz abban az esetben tartható üzemben, ha olyan típushoz tartozik, amelyre a katonai légügyi hatóság típusalkalmassági bizonyítványt adott ki.
+(2) Az állami célú légiközlekedésben légijármű, valamint egyes légiközlekedéssel kapcsolatos eszköz abban az esetben tartható üzemben, ha olyan típushoz tartozik, amelyre a katonai légügyi hatóság típusalkalmassági bizonyítványt adott ki.
 
 (3) A típusalkalmassági tanúsítvány és a katonai légügyi hatóság által kiadott típusalkalmassági bizonyítvány igazolja, hogy a légijármű, vagy a légiközlekedéssel kapcsolatos eszköz típusa megfelel a légiközlekedés-biztonság előírásainak.
 

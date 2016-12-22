@@ -1,6 +1,6 @@
 ## A nyilvános repülőrendezvény
 
-33. § (1) A nyilvános repülőrendezvény megtartására vagy e tevékenység rendszeres folytatása céljából vállalkozás létrehozására a légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság ad engedélyt.
+33. § (1) A nyilvános repülőrendezvény megtartására, illetve e tevékenység rendszeres folytatása céljából vállalkozás létrehozására a légiközlekedési hatóság, az állami célú légiközlekedéssel összefüggő feladatok tekintetében a katonai légügyi hatóság ad engedélyt.
 
 (2) A nyilvános repülőrendezvényt a rendező köteles a rendezvény területe szerint illetékes rendőrhatóságnak és légiforgalmi szolgálatnak előzetesen bejelenteni.
 

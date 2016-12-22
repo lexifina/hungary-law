@@ -4,7 +4,7 @@
 
 71. § A törvény alkalmazásában
 
-1. állami célú légiközlekedés: a honvédelmi, a vámhatósági, a rendőrségi és határőrizeti célú légiközlekedés, mely végezhető állami légijárművel, valamint lajstromba, vagy lajstromozásra nem kötelezett légijármű esetében a légiközlekedési hatóság nyilvántartásába felvett polgári légijárművel abban az esetben, ha a repülés honvédelmi, vámhatósági, rendőrségi vagy határőrizeti célt szolgál;
+1. állami célú légiközlekedés: a honvédelmi, a vámhatósági, a rendőrségi és határőrizeti célú légiközlekedés, amely végezhető állami légijárművel, valamint lajstromba, vagy lajstromozásra nem kötelezett légijármű esetében a légiközlekedési hatóság nyilvántartásába felvett polgári légijárművel abban az esetben, ha a repülés honvédelmi, vámhatósági, rendőrségi vagy határőrizeti célt szolgál;
 
 2. állami légijármű: a honvédelmi, vámhatósági, rendőrségi és határőrizeti szervek céljára szolgáló légijármű;
 

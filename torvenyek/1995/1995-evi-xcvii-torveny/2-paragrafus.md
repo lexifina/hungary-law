@@ -42,7 +42,7 @@ c)
 
 d) az f) pontjában említett feladatot – a honvédelemért felelős miniszter által ellátott katonai légtérrendészeti feladat kivételével – a rendészetért felelős miniszter és a közlekedésrendészetért felelős miniszter;
 
-e) a h) pontjában említett feladatot a honvédelemért felelős miniszter a miniszterrel, a rendészetért felelős miniszterrel és az adópolitikáért felelős miniszterrel együttesen;
+e) a h) pontjában említett feladatot a honvédelemért felelős miniszter a miniszterrel, a rendészetért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel együttesen;
 
 f) az i) és az m) pontjában említett feladatot a miniszter a honvédelemért felelős miniszterrel együttesen;
 

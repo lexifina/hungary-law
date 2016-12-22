@@ -12,7 +12,7 @@ b) egyedi repülési engedélyével.
 
 (4) A légialkalmassági tanúsítvány határozatlan időtartamig hatályos. Az állami célú légiközlekedésben a légialkalmassági bizonyítvány határozott időtartamig hatályos, időbeli hatályát a katonai légügyi hatóság időszakos alkalmassági vizsgálat után meghosszabbíthatja.
 
-(5) A légialkalmassági tanúsítvány és a katonai légügyi hatóság által kiadott légialkalmassági bizonyítvány hatályának fennállása alatt biztosítani kell a légijármű jogszabályban meghatározott folyamatos légialkalmasságának fenntartását. A légialkalmassági vizsgálatot soron kívül akkor is el kell végezni, ha a légijárművön a légialkalmasságot befolyásoló – külön jogszabályban meghatározott – javítást vagy módosítást végeztek.
+(5) A légialkalmassági tanúsítvány, valamint a katonai légügyi hatóság által kiadott légialkalmassági bizonyítvány hatályának fennállása alatt biztosítani kell a légijármű jogszabályban meghatározott folyamatos légialkalmasságának fenntartását. A légialkalmassági vizsgálatot soron kívül akkor is el kell végezni, ha a légijárművön a légialkalmasságot befolyásoló – külön jogszabályban meghatározott – javítást vagy módosítást végeztek.
 
 (6) Amennyiben a légijárművet a lajstromból törlik, a légialkalmassági tanúsítványa vagy a katonai légügyi hatóság által kiadott légialkalmassági bizonyítványa hatályát veszti.
 
