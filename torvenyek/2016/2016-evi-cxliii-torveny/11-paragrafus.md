@@ -1,0 +1,3 @@
+11. § Az Atv. 18. §-a helyébe a következő rendelkezés lép:
+
+„18. § A radioaktív anyagok, valamint az ionizáló sugárzást létrehozó berendezések, továbbá az üzemeltetésnek helyt adó létesítmény tulajdonjogának átruházására, a használat bármilyen jogcímen való átengedésére irányuló szerződést írásban kell megkötni.”

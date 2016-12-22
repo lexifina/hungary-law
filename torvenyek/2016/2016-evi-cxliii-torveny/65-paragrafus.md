@@ -1,0 +1,7 @@
+65. § A Get. 127. § s) pontja helyébe a következő rendelkezés lép, és a § a következő sz) ponttal egészül ki:
+
+(A Hivatal a földgázellátással, a földgázellátás biztonságának és a földgázpiac hatékony működésének felügyeletével, továbbá az egyenlő bánásmód követelményének érvényesítésével, és a hatásos verseny elősegítésével kapcsolatos feladatai körében)
+
+„s) jogosult feladatának ellátása érdekében – jogszabályban meghatározott módon – az engedélyes társaság, a PB-gáz forgalmazó, a PB-gáz kiskereskedő, a mintaprojektet végző társaság, valamint a hazai termelésű földgázt termelő irataiba betekinteni – ideértve a Ptk. 2:47. § (1) bekezdése szerinti üzleti és egyéb törvény által védett titkot tartalmazó iratokat is – a tevékenységekre vonatkozó iratokról másolatot, kivonatot készíteni vagy készíttetni, feladatai ellátásához az engedélyes társaságtól, a PB-gáz forgalmazótól, a PB-gáz kiskereskedőtől, a mintaprojektet végző társaságtól, valamint a hazai termelésű földgázt termelőtől eseti és rendszeres információkat kérni, amelyeket köteles a Ket. adatkezelésre vonatkozó szabályai szerint kezelni; továbbá jogosult állami vagy közfeladata ellátása során engedély nélkül minősített adat felhasználására, minősített adatot tartalmazó iratba való betekintésre, másolat, kivonat készítésére vagy készíttetésére;
+
+sz) jogalkalmazási gyakorlatának alapjait ismertető, kötelező erővel nem rendelkező ajánlást ad ki;”
