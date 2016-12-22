@@ -18,7 +18,7 @@ ea) a vonat teljesítménye például a vonalsebesség és a megbízhatóság sz
 
 eb) hálózati kapacitás leírását;
 
-ec) vagyonkezelés feltételeit;
+ec) vagyonkezelés (vagyonműködtetés) feltételeit;
 
 ed) a tevékenységek mennyiségére vonatkozó adatokat;
 

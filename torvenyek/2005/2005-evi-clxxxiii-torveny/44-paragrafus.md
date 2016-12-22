@@ -10,8 +10,8 @@ b) a GSM-R rendszerhálózat létesítését az a) pontban meghatározottakon k�
 
 (3) A fejlesztési közreműködőként eljáró NIF Nemzeti Infrastruktúra Fejlesztő Zrt. (a továbbiakban: NIF Zrt.) mint építtető az országos jelentőségű vasútvonalakon, valamint az azokhoz kapcsolódó ingatlanokon központi költségvetési és uniós támogatásból létesítési, felújítási és fejlesztési feladatokat lát el az állam nevében és állami tulajdonon megvalósuló fejlesztés esetén az állam javára, amely tevékenység fontos közérdekű és közcélú tevékenységnek minősül.
 
-(4) A vasúti társaság tulajdonában vagy vagyonkezelésében álló területen megvalósuló vasútfejlesztés esetén a vasúti társaság a beruházás jogerős használatbavételéig a beruházás megvalósításához szükséges beavatkozásokat tűrni köteles.
+(4) A vasúti társaság a tulajdonosi jogkörében, vagyonkezelésében vagy vagyonműködtetésében álló területen megvalósuló vasútfejlesztés esetén a beruházás jogerős használatbavételéig a beruházás megvalósításához szükséges beavatkozásokat tűrni köteles.
 
-(5) Az e §-ban valamint a 44/A. §-ban szabályozott vagyonkezelői jog ingatlan-nyilvántartásban történő bejegyzésére, törlésére, egyéb módon történő átvezetésére irányuló eljárások mentesek az igazgatási szolgáltatási díj fizetése alól.
+(5) Az e §-ban valamint a 44/A. §-ban szabályozott vagyonkezelői, vagyonműködtetési jog ingatlan-nyilvántartásban történő bejegyzésére, törlésére, egyéb módon történő átvezetésére irányuló eljárások mentesek az igazgatási szolgáltatási díj fizetése alól.
 
 (6) A (2)–(4) bekezdésben meghatározott rendelkezéseket alkalmazni kell azon önkormányzati fejlesztésekre is, amelyek során fejlesztési közreműködő jár el.

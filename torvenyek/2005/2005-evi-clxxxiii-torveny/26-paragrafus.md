@@ -12,7 +12,7 @@ d) az állam 100%-os tulajdonába tartozó más nem pályahálózat-működtető
 
 a vagyonkezelési szerződést – a miniszter és az állami vagyon felügyeletéért felelős miniszter egyetértésével – a magyar állam nevében eljáró Magyar Nemzeti Vagyonkezelő Zrt.-vel (a továbbiakban: MNV Zrt.) köti meg.
 
-(2) A vasúti pályahálózatra vonatkozó vagyonkezelési tevékenység közfeladatnak minősül.
+(2)
 
 (3) A magyar állam nevében – e törvényben foglalt kivétellel – az MNV Zrt. jogosult megkötni a vasúti pályahálózat működtetéséhez szükséges valamennyi vagyonelemnek az állam tulajdonába kerülésére vonatkozó szerződéseket és vasúti pályahálózat működtetéséhez szükséges valamennyi vagyonelem vagyonkezelésbe adására vonatkozó szerződéseket.
 

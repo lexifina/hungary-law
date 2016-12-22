@@ -4,7 +4,9 @@
 
 ## A magyar állam és a vasúti társaságok közötti szerződések
 
-25. § (1) A magyar állam az állami tulajdonban lévő vasúti pályahálózatok vagyonkezelésére a vasúti pályahálózatot működtető pályahálózat-működtetővel vagyonkezelési szerződést (a továbbiakban: vagyonkezelési szerződés) köt.
+25. § (1) A magyar állam a pályahálózat-működtetővel az állami tulajdonban lévő vasúti pályahálózatok vagyonkezelésére vagyonkezelési szerződést vagy az állami vagyonról szóló 2007. évi CVI. törvény 26. § (1) bekezdésében meghatározott tevékenység (a továbbiakban: vagyonműködtetés) érdekében – a legalább többségi állami tulajdonú pályahálózat-működtető gazdasági társasággal – vagyonműködtetési szerződést köt.
+
+(1a) A vasúti pályahálózatra vonatkozó, (1) bekezdés szerinti vagyonkezelési, vagyonműködtetési tevékenység közfeladatnak minősül.
 
 (2) A magyar állam az országos jelentőségű vasútvonalak, valamint az állami tulajdonban lévő vasúti pályát tartalmazó térségi vagy elővárosi vasúti pályahálózat működtetésére szerződést (a továbbiakban: pályahálózat-működtetési szerződés) köt.
 

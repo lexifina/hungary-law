@@ -156,7 +156,7 @@ e) vállalkozó vasúti társaságok nemzetközi csoportosulása;
 
 4.12. vasúti pályahálózat működtetése:
 
-a) a vasúti pályahálózat üzemeltetése (beleértve a vagyonkezelési tevékenységeket is), létesítése, felújítása, fejlesztése, amely utóbbi a hálózattervezést, pénzügyi és beruházástervezést, valamint az infrastruktúra építését és korszerűsítését foglalja magában,
+a) a vasúti pályahálózat üzemeltetése (beleértve a vagyonkezelési, vagyonműködtetési tevékenységeket is), létesítése, felújítása, fejlesztése, amely utóbbi a hálózattervezést, pénzügyi és beruházástervezést, valamint az infrastruktúra építését és korszerűsítését foglalja magában,
 
 b) a vasúti pályahálózat karbantartása, amely a vasúti pályahálózat rendeltetésszerű használatának biztosítását és az ahhoz szükséges tevékenységeket jelenti,
 
@@ -194,7 +194,7 @@ b) mezőgazdasági-erdészeti társaságként áruszállítás végzése vagy il
 
 5.6. nem független pályahálózat-működtető: az a pályahálózat-működtető, amely a pályahálózat-működtető függetlenségét biztosító jogi, szervezeti és döntéshozatali függetlenségi feltételekről szóló rendeletben meghatározott feltételeknek nem felel meg;
 
-5.7. pályahálózat-működtető: olyan gazdálkodó szervezet, amely vasúti pályahálózat működtetését végzi, valamint – tulajdonosként vagy vagyonkezelési szerződés alapján – a pálya és annak tartozékai vagyonkezelését látja el;
+5.7. pályahálózat-működtető: azon gazdálkodó szervezet, amely vasúti pályahálózat működtetését végzi, ideértve – a tulajdonosi jogok gyakorlójaként, vagyonkezelőként vagy vagyonműködtetőként – a vasúti pálya és annak tartozékai vagyonkezelését, vagyonműködtetését is;
 
 5.8. vasúti társaság: a pályahálózat-működtető, a vállalkozó vasúti társaság, valamint a vasúti tevékenységet bejelentés alapján végző gazdálkodó szervezet;
 

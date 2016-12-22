@@ -4,7 +4,7 @@
 
 ## A VASÚTI PÁLYA TULAJDONJOGA
 
-38. § (1) Az országos törzshálózati vasúti pályákkal és azok tartozékaival történő rendelkezésre, a vagyonkezelésére, használatára, a hasznosítás részletes feltételeire, tulajdonjogának átruházására – a 4. mellékletben meghatározott vasútvonalak kivételével – a nemzeti vagyonról szóló törvényben foglaltakat kell alkalmazni.
+38. § (1) Az országos törzshálózati vasúti pályákkal és azok tartozékaival történő rendelkezésre, a vagyonkezelésére, vagyonműködtetésére, használatára, a hasznosítás részletes feltételeire, tulajdonjogának átruházására – a 4. mellékletben meghatározott vasútvonalak kivételével – a nemzeti vagyonról szóló törvényben, valamint az állami vagyonról szóló törvényben foglaltakat kell alkalmazni.
 
 (2) Nem vonható ki az országos törzshálózati vasúti pályák köréből a transzeurópai vasúti közlekedési hálózat részeként működő vasútvonal.
 
