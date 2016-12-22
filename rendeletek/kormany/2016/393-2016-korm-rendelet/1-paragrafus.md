@@ -6,6 +6,6 @@
 
 (4)–(6)[^3]
 
-[^1]: Az 1. § (1)–(2) bekezdése a 35. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^1]: Az 1. § (1)–(2) a 35. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
 [^2]: Az 1. § (3) bekezdése a 35. § (4) bekezdése alapján az Európai Bizottság – az Európai Unió működéséről szóló szerződés 108. cikke szerinti – jóváhagyó határozatának meghozatalát követő 8. napon lép hatályba.
-[^3]: Az 1. § (4)–(6) bekezdése a 35. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^3]: Az 1. § (4)–(6) a 35. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.

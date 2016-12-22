@@ -14,6 +14,6 @@
 
 ## d) nem áll fenn a 20. § (1) bekezdése szerinti kizáró ok.”
 
-(2)[^5]
+(2)[^6]
 
-[^5]: A 22. § (2) bekezdése a 35. § (4) bekezdése alapján az Európai Bizottság – az Európai Unió működéséről szóló szerződés 108. cikke szerinti – jóváhagyó határozatának meghozatalát követő 8. napon lép hatályba.
+[^6]: A 22. § (2) bekezdése a 35. § (4) bekezdése alapján az Európai Bizottság – az Európai Unió működéséről szóló szerződés 108. cikke szerinti – jóváhagyó határozatának meghozatalát követő 8. napon lép hatályba.

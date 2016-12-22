@@ -1,3 +1,5 @@
+## 4–17. §
+
 ## 3. A megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 165/2016. (VI. 23.) Korm. rendelet módosítása
 
 ## 18. § Nem lép hatályba a megújuló energiaforrásból termelt villamos energia kötelező átvételi és prémium típusú támogatásáról szóló 165/2016. (VI. 23.) Korm. rendelet (a továbbiakban: Metár Kr.)

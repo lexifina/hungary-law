@@ -1,1 +1,0 @@
-## „(8) Az energetikai auditálás az MSZ EN 16247-1, -2, -3, -4 szabvány alkalmazásával is elkészíthető, az energetikai auditálási tevékenység folytatatására irányuló jogszabályi rendelkezések figyelembevétele mellett.”
