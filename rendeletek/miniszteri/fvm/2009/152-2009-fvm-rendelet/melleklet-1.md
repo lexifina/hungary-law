@@ -1,6 +1,6 @@
-## 4. §[^50] A 12. és 13. mellékleteknek a műszaki szabványok és szabályok, valamint az információs társadalom szolgáltatásaira vonatkozó szabályok terén információszolgáltatási eljárás megállapításáról szóló, – a 98/48/EK európai parlamenti és tanácsi irányelvvel módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelv 8–10. cikkében előírt egyeztetése megtörtént.
+## 5. §[^54] E rendelet 39. melléklete tervezetének a műszaki szabályokkal és az információs társadalom szolgáltatásaira vonatkozó szabályokkal kapcsolatos információszolgáltatási eljárás megállapításáról szóló, 2015. szeptember 9-i 2015/1535/EU európai parlamenti és tanácsi irányelv 5–7. cikke szerinti előzetes bejelentése megtörtént.
 
-1–2. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^51]
+1–2. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^55]
 
-[^50]: A 4. § a 37/2010. (IV. 13.) FVM rendelet 4. §-ával megállapított szöveg.
-[^51]: Az 1–2. mellékletet a 36/2014. (XII. 17.) FM rendelet 15. § c) pontja hatályon kívül helyezte.
+[^54]: Az 5. §-t a 85/2016. (XII. 19.) FM rendelet 3. §-a iktatta be.
+[^55]: Az 1–2. mellékletet a 36/2014. (XII. 17.) FM rendelet 15. § c) pontja hatályon kívül helyezte.

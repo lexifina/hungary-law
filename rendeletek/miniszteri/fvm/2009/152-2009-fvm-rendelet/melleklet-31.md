@@ -1,4 +1,4 @@
-31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^77]
+31. melléklet a 152/2009. (XI. 12.) FVM rendelethez[^81]
 
 A Magyar Élelmiszerkönyv 3-1-79/796 számú előírása a cukortermékek vizsgálati módszereiről
 
@@ -248,12 +248,4 @@ A szárítószekrény olyan felépítésű legyen, hogy a hő gyorsan átjárja 
 
 6.2. Óvatosan növeljük a száraz levegő mennyiségét a külső légnyomás értékéig. Ekkor a bemérőedényt – az üvegbottal együtt – az exszikkátorba (5.6.) helyezzük. Lehűlés után megmérjük.
 
-6.3. Gondosan bemérünk – 1 mg pontossággal – kb. 10 g vizsgálandó mintát egy 100 cm3-es főzőpohárba.
-
-6.4. 10 cm3 meleg vízzel hígítjuk a mintát, és átmossuk az egész mennyiséget az üvegbot segítségével a bemérőedénybe.
-
-6.5. A vizsgálati mintát tartalmazó bemérőedényt az üvegbottal együtt helyezzük a szárítószekrénybe, és csökkentsük a nyomást 3,3 kPa (34 mbar)-ig vagy annál kisebbre. Szárítsuk 70 ±1 °C-on, a száraz levegő lassú áramlását biztosítva a szárítószekrényen keresztül. A szárítási műveletet 20 órán át kell folytatni. A vákuumszivattyút egész éjszaka üzemeltetni kell, hogy a kb. 3,3 kPa (34 mbar) nyomást biztosítsuk, és a száraz levegő lassú áramlással keringjen.
-
-6.6. Óvatosan növeljük a száraz levegő mennyiségét a külső légnyomás értékéig. Ezután a bemérőedényt tartalmával együtt gyorsan exszikkátorba helyezzük. Lehűtjük és megmérjük 1 mg pontossággal.
-
-[^77]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.
+[^81]: A 31. mellékletet a 26/2011. (IV. 7.) VM rendelet 4. § (1) bekezdése iktatta be.

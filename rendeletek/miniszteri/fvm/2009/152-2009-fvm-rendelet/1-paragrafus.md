@@ -62,7 +62,9 @@
 
 a)[^17] a húskészítményekről és egyes előkészített húsokról szóló 12. melléklet,
 
-b) a tejtermékekről szóló 13. melléklet.
+b) a tejtermékekről szóló 13. melléklet,
+
+c)[^18] a sütőipari termékekről szóló 39. melléklet.
 
 [^1]: Az 1. § (1) bekezdése az 5/2012. (II. 10.) VM rendelet 46. §-a szerint módosított szöveg.
 [^2]: Az 1. § (2) bekezdése a 65/2010. (V. 12.) FVM rendelet 1. §-ával megállapított szöveg.
@@ -81,3 +83,4 @@ b) a tejtermékekről szóló 13. melléklet.
 [^15]: Az 1. § (2) bekezdés 36. pontját a 10/2014. (IX. 18.) FM rendelet 1. §-a iktatta be.
 [^16]: Az 1. § (3) bekezdése a 37/2010. (IV. 13.) FVM rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^17]: Az 1. § (3) bekezdés a) pontja a 48/2016. (VII. 18.) FM rendelet 1. §-ával megállapított szöveg.
+[^18]: Az 1. § (3) bekezdés c) pontját a 85/2016. (XII. 19.) FM rendelet 1. §-a iktatta be.

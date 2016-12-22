@@ -35,3 +35,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-152-20-
 | 2015-12-01 | 2009-152-20-82.28 | 26/2011. (IV. 7.) VM rendelet |
 | 2016-06-09 | 2009-152-20-82.29 | 38/2016. (VI. 6.) FM rendelet |
 | 2016-07-21 | 2009-152-20-82.30 | 48/2016. (VII. 18.) FM rendelet |
+| 2016-12-22 | 2009-152-20-82.31 | 85/2016. (XII. 19.) FM rendelet |
