@@ -1,4 +1,4 @@
-1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^146]
+1. melléklet a 369/2013. (X. 24.) Korm. rendelethez[^147]
 
 A szolgáltatói nyilvántartás adatai
 
@@ -328,7 +328,7 @@ A szolgáltatói nyilvántartás adatai
 
 3.7. valamennyi szolgáltatás esetén az ellátási terület,
 
-3.8. az Szt. vagy a Gyvt. alapján befogadásra köteles szolgáltatás, illetve ellátotti létszám, férőhelyszám, feladatmutató esetén a szolgáltatás befogadására és a befogadott ellátotti létszámra, férőhelyszámra, feladatmutatóra vonatkozó adatok, illetve az arra a szolgáltatásra, ellátotti létszámra, férőhelyszámra, feladatmutatóra vonatkozó adat, amely után a fenntartó az Szt. vagy a Gyvt. alapján befogadás nélkül jogosult költségvetési támogatásra azzal, hogy a befogadott és befogadás nélkül költségvetési támogatásra jogosító ellátotti létszám, férőhelyszám összesen nem lehet magasabb a bejegyzett ellátotti létszámnál, férőhelyszámnál,
+3.8. az Szt. vagy a Gyvt. alapján befogadásra köteles szolgáltatás, illetve ellátotti létszám, férőhelyszám, feladatmutató esetén a szolgáltatás befogadására és a befogadott ellátotti létszámra – ezen belül a személyi gondozásban ellátott személyek befogadott számára –, férőhelyszámra, feladatmutatóra vonatkozó adatok, illetve az arra a szolgáltatásra, ellátotti létszámra – ezen belül a személyi gondozásban ellátott személyek befogadott számára –, férőhelyszámra, feladatmutatóra vonatkozó adat, amely után a fenntartó az Szt. vagy a Gyvt. alapján befogadás nélkül jogosult költségvetési támogatásra azzal, hogy a befogadott és befogadás nélkül költségvetési támogatásra jogosító ellátotti létszám, férőhelyszám összesen nem lehet magasabb a bejegyzett ellátotti létszámnál, férőhelyszámnál,
 
 3.9. egyházi fenntartó és nem állami fenntartó esetén – ha a fenntartó az engedélyes által nyújtott szolgáltatásra ellátási szerződést kötött – az ellátási szerződést megkötő helyi önkormányzat, társulás, illetve állami szerv neve, székhelye, valamint az a szolgáltatás és – olyan szolgáltatás esetén, amelynél a szolgáltatói nyilvántartás ezt az adatot tartalmazza – ellátotti létszám, jelzőkészülékszám, férőhelyszám, amelyre az ellátási szerződés kiterjed, továbbá az ellátási szerződés megszűnésének időpontja, ha az ellátási szerződést határozott időre kötötték.
 
@@ -360,4 +360,4 @@ A szolgáltatói nyilvántartás adatai
 
 6.3.3. a 6.3.1. és a 6.3.2. pontban nem említett szolgáltatás esetén település, fővárosi kerület, a fővárosi önkormányzat által közvetlenül igazgatott terület, járás, megye, régió megnevezésével vagy annak feltüntetésével, hogy az ellátási terület az ország egész területe.
 
-[^146]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) és (3) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdés, a 419/2015. (XII. 23.) Korm. rendelet 39. §-a szerint módosított szöveg.
+[^147]: Az 1. melléklet a 69/2014. (III. 13.) Korm. rendelet 18. §-a, a 353/2014. (XII. 29.) Korm. rendelet 75. § (1) bekezdése, a 70/2015. (III. 30.) Korm. rendelet 234. § (11) bekezdés t) pontja, a 221/2015. (VIII. 7.) Korm. rendelet 20. § (1) és (3) bekezdése, a 284/2015. (IX. 29.) Korm. rendelet 16. § (1) bekezdés, a 419/2015. (XII. 23.) Korm. rendelet 39. §-a, a 448/2016. (XII. 19.) Korm. rendelet 55. § (1) bekezdése szerint módosított szöveg.
