@@ -1,3 +1,0 @@
-8. § A Dohánytörvény 15/D. § (1) bekezdése helyébe a következő rendelkezés lép:
-
-„(1) A dohánytermék-kiskereskedő köteles valamennyi általa forgalmazott dohánytermékből – a szivarokat kivéve – típusonként, márkajelzésenként, illetve – ha ilyen van – a márkajelzések minden alfajtája után egyet-egyet a dohányboltban a pultvonal felett, illetve az elkülönített helyen belül a fogyasztók számára jól láthatóan megjeleníteni. A szivarok kivételével minden olyan dohánytermék, amelynek csomagolása képpel kombinált figyelmeztetést tartalmaz, csak olyan módon helyezhető az értékesítési csatornába (polchelyre), hogy a képpel kombinált figyelmeztetés a fogyasztó felé láthatóvá váljék; minden más esetben a terméket a csomagolás előlapjával kell megjeleníteni.”
