@@ -1,10 +1,12 @@
 ## A működési támogatás visszafizetése
 
-19. § (1)–(2)[^138]
+19. § (1)[^137] Ha fejlesztő foglalkoztatás esetén a finanszírozási szerződésben vállalt feladatmutatót nem teljesítik, a tárgyévi működési támogatás arányos részét vissza kell fizetni.
+
+(2)[^138]
 
 (3)[^139] Ha alacsonyküszöbű ellátás, illetve utcai szociális munka esetén a szolgáltatást nem nyújtják a működési támogatás alapjául szolgáló ellátási terület egészén, vagy nem látják el a finanszírozási szerződésben meghatározott valamennyi feladatot, a tárgyévi működési támogatás arányos részét vissza kell fizetni.
 
-(3a)[^140] Ha krízisközpont esetén nem nyújtják a finanszírozási szerződésben meghatározott valamennyi szolgáltatást, a tárgyévi működési támogatás időarányos részét vissza kell fizetni.
+(3a)[^140] Ha krízisközpont, illetve titkos menedékház esetén nem nyújtják a finanszírozási szerződésben meghatározott valamennyi szolgáltatást, a tárgyévi működési támogatás időarányos részét vissza kell fizetni.
 
 (3b)[^141] Ha a Biztos Kezdet Gyerekházban a szolgáltatást adott hónapban átlagosan heti
 
@@ -30,9 +32,10 @@ b)[^143] a pályázatban vagy az ahhoz csatolt, illetve a finanszírozási szerz
 
 (8)[^145] A fenntartó a visszafizetendő működési támogatás összege után a folyósítás időpontjától a visszafizetés időpontjáig – részletfizetési kedvezmény vagy az e rendelet alapján folyósításra kerülő támogatásból részletekben történő levonás (a továbbiakban együtt: fizetési kedvezmény) engedélyezése esetén az engedélyezés napjáig – az államháztartásról szóló törvény végrehajtásáról szóló kormányrendeletben foglaltak szerint ügyleti kamatot, késedelem esetén késedelmi kamatot fizet.
 
-[^138]: A 19. § (1)–(2) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 24. § 30. pontja hatályon kívül helyezte.
+[^137]: A 19. § (1) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 24. § 30. pontja hatályon kívül helyezte, újonnan a 448/2016. (XII. 19.) Korm. rendelet 37. §-a iktatta be.
+[^138]: A 19. § (2) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 24. § 30. pontja hatályon kívül helyezte.
 [^139]: A 19. § (3) bekezdése a 140/2011. (VII. 21.) Korm. rendelet 14. § v) pontja szerint módosított szöveg.
-[^140]: A 19. § (3a) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be.
+[^140]: A 19. § (3a) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 11. § (1) bekezdése iktatta be, szövege a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdés o) pontja szerint módosított szöveg.
 [^141]: A 19. § (3b) bekezdését a 322/2013. (VIII. 28.) Korm. rendelet 5. §-a iktatta be, szövege a 489/2013. (XII. 18.) Korm. rendelet 33. §-ával megállapított, nyitó szövegrésze a 353/2014. (XII. 29.) Korm. rendelet 58. § e) pontja szerint módosított szöveg.
 [^142]: A 19. § (4) bekezdését a 419/2015. (XII. 23.) Korm. rendelet 24. § 30. pontja hatályon kívül helyezte.
 [^143]: A 19. § (6) bekezdés b) pontja a 140/2011. (VII. 21.) Korm. rendelet 11. § (2) bekezdésével megállapított szöveg.
