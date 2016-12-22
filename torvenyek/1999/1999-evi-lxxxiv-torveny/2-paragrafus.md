@@ -2,9 +2,9 @@
 
 2. § E törvény alkalmazása során
 
-1. Engedély-nyilvántartás: a járművezető és a járművezetésre jogosító okmány adatait, továbbá a járművezető forgalomban való részvételével összefüggő egyes jogosultságok és kötelezettségek fennállását igazoló adatokat tartalmazó nyilvántartás.
+1. Engedély-nyilvántartás: a járművezető és a járművezetésre jogosító okmány adatait, továbbá a járművezető forgalomban való részvételével összefüggő egyes jogosultságok és kötelezettségek fennállását igazoló adatokat tartalmazó elektronikus nyilvántartás.
 
-2. Járműnyilvántartás: a járműtulajdonos (üzembentartó), a közúti közlekedésről szóló külön törvény alapján nyilvántartott jármű, illetve a járműokmány adatait, valamint az adatokban bekövetkezett változásokat (történeti állomány) tartalmazó nyilvántartás.
+2. Járműnyilvántartás: a járműtulajdonos (üzembentartó), a közúti közlekedésről szóló külön törvény alapján nyilvántartott jármű, illetve a járműokmány adatait, valamint az adatokban bekövetkezett változásokat (történeti állomány) tartalmazó elektronikus nyilvántartás.
 
 3. Okmánytár: a nyilvántartás alapiratainak, a nyilvántartásban szereplő adatok változását igazoló okmányok, a cserélt, leadott és a visszavont okmányok nyilvántartása.
 
@@ -22,14 +22,14 @@
 
 10. A jármű előzetes eredetiségvizsgálata: olyan hatósági eljárás, melynek célja a járművek azonosító adatai és a jármű okmányok valódiságának megállapítása.
 
-11. Származás-ellenőrzési nyilvántartás: a külföldről belföldi forgalomba helyezés céljából behozott használt járművek és azok tulajdonosai (üzembentartói) adatainak, valamint a jármű származását igazoló okmányok adatainak és a származás-ellenőrzés eredményének nyilvántartása.
+11. Származás-ellenőrzési nyilvántartás: a külföldről belföldi forgalomba helyezés céljából behozott használt járművek és azok tulajdonosai (üzembentartói) adatainak, valamint a jármű származását igazoló okmányok adatainak és a származás-ellenőrzés eredményének elektronikus nyilvántartása.
 
-12. Előzetes eredetiségvizsgálati nyilvántartás: az előzetes eredetiségvizsgálat során a vizsgált jármű megállapított műszaki és azonosító adatait, rögzített képi adatait, a kérelmező nevét és lakcímét, a vizsgálat eredményét, valamint a vizsgáló jogosultságazonosítóját tartalmazó nyilvántartás.
+12. Előzetes eredetiségvizsgálati elektronikus nyilvántartás: az előzetes eredetiségvizsgálat során a vizsgált jármű megállapított műszaki és azonosító adatait, rögzített képi adatait, a kérelmező nevét és lakcímét, a vizsgálat eredményét, valamint a vizsgáló jogosultságazonosítóját tartalmazó elektronikus nyilvántartás.
 
 13. Történeti állomány: a járműnyilvántartás történeti állománya tartalmazza a járműnyilvántartás hatálya alá tartozó járműtulajdonos (üzembentartó) és a jármű minden eddigi, e törvény hatálya alá tartozó adatát és adatváltozását.
 
 14. Automatizált keresés: egy másik szerv automatizált állományaihoz való közvetlen hozzáférés, amely eljárás során a válasz is teljesen automatizált módon érkezik.
 
-15. Parkolási igazolvány nyilvántartása: az igazolvány használatára a mozgásában korlátozott személy parkolási igazolványáról szóló kormányrendeletben meghatározott jogosultak, valamint az igazolvány adatait tartalmazó közhiteles hatósági nyilvántartás.
+15. Parkolási igazolvány nyilvántartása: az igazolvány használatára a mozgásában korlátozott személy parkolási igazolványáról szóló kormányrendeletben meghatározott jogosultak, valamint az igazolvány adatait tartalmazó közhiteles hatósági elektronikus nyilvántartás.
 
-16. Útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, valamint az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett nyilvántartás.
+16. Útdíjköteles elemi útszakaszok és úthasználati díj ellenében használható közutak díjmentes használatára jogosultak nyilvántartása: az autópályák, autóutak és főutak használatáért fizetendő, megtett úttal arányos díjról szóló törvény, valamint az autópályák, autóutak és főutak használati díjáról szóló miniszteri rendelet alapján mentességet élvező szervezetekről és járművekről vezetett elektronikus nyilvántartás.

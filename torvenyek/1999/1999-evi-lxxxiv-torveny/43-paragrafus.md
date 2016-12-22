@@ -12,7 +12,9 @@ bc) az egyrészről az Európai Unió, másrészről Izland és Norvégia közö
 
 c) 27/B–27/C. §-a, 32. § (5)–(8) bekezdése és 32/A. §-a a közúti közlekedésbiztonságot veszélyeztető közlekedési jogsértésekre vonatkozó információk határokon átnyúló cseréjének elősegítéséről szóló, 2015. március 11-i, 2015/413/EU európai parlamenti és tanácsi irányelv 4. és 7. cikkének, valamint I. Mellékletének
 
-d) 27/D. §-a a vezetői engedélyekről szóló, 2006. december 20-ai 2006/126/EK európai parlamenti és tanácsi irányelv 7. cikk (5) bekezdésének
+d) 27/D. §-a a vezetői engedélyekről szóló, 2006. december 20-ai 2006/126/EK európai parlamenti és tanácsi irányelv 7. cikk (5) bekezdésének,
+
+e) a járművek nyilvántartásba vételéhez kapcsolódó okmányokról szóló 1999/37/EK tanácsi irányelv módosításáról szóló, 2014. április 3-i 2014/46/EU európai parlamenti és tanácsi irányelvnek
 
 való megfelelést szolgálja.
 

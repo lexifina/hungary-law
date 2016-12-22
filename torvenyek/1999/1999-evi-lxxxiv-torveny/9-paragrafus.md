@@ -20,7 +20,7 @@ dc) cégjegyzék-, vagy nyilvántartási számát.
 
 (2) A járműnyilvántartás a külön jogszabályban meghatározottak szerint tartalmazza a jármű
 
-a) azonosító és műszaki adatait, valamint motorjának egyedi azonosító jelét, illetve kódját,
+a) azonosító és műszaki adatait, a műszaki érvényesség időtartamának végét vagy a műszaki alkalmatlanságának tényét, valamint motorkódját,
 
 b) forgalomban tarthatóságának feltételeit,
 
