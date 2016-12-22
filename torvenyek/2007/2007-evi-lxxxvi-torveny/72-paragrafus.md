@@ -4,7 +4,7 @@
 
 (2) Az üzletszabályzat tartalmazza az engedélyesek által nyújtott szolgáltatások általános műszaki, kereskedelmi, elszámolási és fizetési szerződési feltételeit.
 
-(3) A (4a) bekezdésben foglaltak szerinti eltéréssel a felhasználókkal reprezentatív érdekképviseleteik útján egyeztetett, az engedélyes által kidolgozott üzletszabályzatot a fogyasztóvédelmi hatóság előzetes véleményének kikérését követően a Hivatal hagyja jóvá. A Hivatal megtagadja az üzletszabályzatnak vagy az üzletszabályzat részének a jóváhagyását, ha az jogszabályba, villamosenergia-ellátási szabályzatba ütközik, vagy lényeges jogos érdeket sért.
+(3) A (4a) bekezdésben foglaltak szerinti eltéréssel az engedélyes által kidolgozott és a felhasználókkal reprezentatív érdekképviseleteik útján egyeztetett, valamint – a lakossági fogyasztókat ellátó engedélyes tekintetében – a fogyasztóvédelmi hatósággal előzetesen véleményeztetett üzletszabályzatot a Hivatal hagyja jóvá. A Hivatal megtagadja az üzletszabályzatnak vagy az üzletszabályzat részének a jóváhagyását, ha az jogszabályba, villamosenergia-ellátási szabályzatba ütközik, vagy lényeges jogos érdeket sért.
 
 (4) A Hivatal az engedélyesekkel és a rendszerhasználókkal történő egyeztetés mellett, annak eredménytelensége esetén határozattal hivatalból kötelezheti az érintett engedélyeseket az üzletszabályzatuk módosítására az e törvényben, valamint az e törvény végrehajtására kiadott rendeletben foglaltak érvényre juttatása érdekében.
 

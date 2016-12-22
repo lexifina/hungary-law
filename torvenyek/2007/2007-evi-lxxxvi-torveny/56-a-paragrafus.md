@@ -8,4 +8,4 @@
 
 (4) A Hivatal honlapján folyamatos tájékoztatást nyújt a felhasználók részére a villamos energia hatékony felhasználására, az energiatakarékos eszközök használatával járó előnyökre vonatkozó ismeretekről, adatokról. A tájékoztatás módjára és tartalmára vonatkozó részletes szabályokat a miniszter rendeletben határozza meg.
 
-(5) Az Európai Bizottság által létrehozott, a felhasználói jogokról tájékoztatást nyújtó energiafogyasztói ellenőrző listát a fogyasztóvédelmi hatóság szükség szerint frissíti a Hivatallal és az engedélyesekkel együttműködve. Az energiafogyasztói ellenőrző listát a fogyasztóvédelmi hatóság megküldi a villamosenergia-kereskedőnek, aki azt honlapján és az ügyfélszolgálatán közzéteszi.
+(5) Az Európai Bizottság által létrehozott, a felhasználói jogokról tájékoztatást nyújtó energiafogyasztói ellenőrző listát a fogyasztóvédelmi hatóság szükség szerint frissíti a Hivatallal együttműködve. Az energiafogyasztói ellenőrző listát a fogyasztóvédelmi hatóság megküldi a villamosenergia-kereskedőnek, amely azt honlapján és az ügyfélszolgálatán közzéteszi.

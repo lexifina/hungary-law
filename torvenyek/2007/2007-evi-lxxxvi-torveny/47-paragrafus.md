@@ -2,7 +2,7 @@
 
 (2) Az (1) bekezdésen túlmenően az egyetemes szolgáltatásra jogosult felhasználókat ellátó villamosenergia-kereskedő az e törvényben és a Vhr.-ben meghatározottak szerint ügyfélszolgálatot működtet állandó ügyfélszolgálati irodában vagy ügyfélszolgálati fiókirodában (a továbbiakban együtt: ügyfélszolgálat), és biztosítja a felhasználók részére az írásban, telefonon és elektronikus úton történő ügyintézés lehetőségét. Az ügyfélszolgálatok típusára, elhelyezésére és működtetésére vonatkozó részletes szabályokat a Vhr. és a villamosenergia-kereskedő üzletszabályzata tartalmazza.
 
-(3) A felhasználói kapcsolattartás szervezetének és az ügyfélszolgálatnak a működési rendjét, a félfogadási idejét a villamosenergia-kereskedő úgy köteles megállapítani, és a működésének feltételeiről oly módon köteles gondoskodni, hogy az lehetővé tegye a felhasználók jogainak megfelelő érvényesítését. Ezen kötelezettség keretein belül az egyetemes szolgáltatásra jogosultakat ellátó villamosenergia-kereskedő köteles
+(3) A felhasználói kapcsolattartás szervezetének működési rendjét a villamosenergia-kereskedő, valamint az ügyfélszolgálat működési rendjét félfogadási idejét az egyetemes szolgáltatásra jogosultakat ellátó villamosenergia-kereskedő úgy köteles megállapítani, és a működésének feltételeiről oly módon köteles gondoskodni, hogy az lehetővé tegye a felhasználók jogainak megfelelő érvényesítését. Ezen kötelezettség keretein belül az egyetemes szolgáltatásra jogosultakat ellátó villamosenergia-kereskedő köteles
 
 a) állandó ügyfélszolgálati irodáit a hét legalább egy napján 20 óráig nyitva tartani,
 

@@ -14,7 +14,9 @@ c) magánvezeték engedélyese vagy
 
 d) közvetlen vezeték engedélyese,
 
-e) a töltőállomás-üzemeltető
+e) a töltőállomás-üzemeltető,
+
+f) villamosenergia-tárolói engedélyes
 
 esetében.
 
@@ -30,6 +32,8 @@ c) magánvezeték engedélyese vagy
 
 d) közvetlen vezeték engedélyese,
 
-e) a töltőállomás-üzemeltető
+e) a töltőállomás-üzemeltető,
+
+f) villamosenergia-tárolói engedélyes
 
 esetében.

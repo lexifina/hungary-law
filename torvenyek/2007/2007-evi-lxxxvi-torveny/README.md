@@ -58,3 +58,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2007-86-00-00
 | 2016-07-01 | 2016. évi LXXXI. törvény | 2007-86-00-00.63 |
 | 2016-10-01 | 2016. évi LIX. törvény | 2007-86-00-00.64 |
 | 2016-12-21 | 2016. évi CLXXXIII. törvény | 2007-86-00-00.65 |
+| 2016-12-22 | 2016. évi CXLIII. törvény | 2007-86-00-00.66 |

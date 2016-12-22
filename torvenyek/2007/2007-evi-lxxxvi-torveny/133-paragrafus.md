@@ -1,6 +1,6 @@
 ## ÜZEMELTETÉSI ENGEDÉLYEZÉSI ELJÁRÁSOK
 
-133. § (1) A közcélú hálózat, termelői vezeték, magánvezeték, a közvetlen vezeték, és a tartószerkezeten, valamint nem tartószerkezeten elhelyezett külön jogszabályban meghatározott átalakító- és kapcsolóberendezés megépítését követően a műszaki biztonsági követelményekre vonatkozó külön jogszabályban meghatározott eljárás lefolytatását követően üzembe helyezhető.
+133. § (1) A közcélú hálózat, a termelői vezeték, a magánvezeték, a közvetlen vezeték, az ideiglenes vezeték, és a tartószerkezeten, valamint nem tartószerkezeten elhelyezett külön jogszabályban meghatározott átalakító- és kapcsolóberendezés megépítését követően a műszaki biztonsági követelményekre vonatkozó külön jogszabályban meghatározott eljárás lefolytatását követően üzembe helyezhető.
 
 (2) Az üzembe helyezést követően az üzemeltető az (1) bekezdésben felsorolt építmények – bele nem értve a kisfeszültségű hálózati elemeket – üzemeltetésére a Hatósághoz 90 napon belül üzemeltetési engedély iránti kérelmet köteles benyújtani.
 

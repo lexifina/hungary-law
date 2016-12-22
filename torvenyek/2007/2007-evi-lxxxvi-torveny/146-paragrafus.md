@@ -14,10 +14,10 @@ b) a felhasználó szerződésszegése esetén
 
 külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét és a külön díjak megállapításának kereteit a következő árszabályozási ciklus kezdetét megelőző év május 15-ig.
 
-(3) A Hivatal elnöke rendeletben állapítja meg a külön díjak fizetésére kötelezettek körét és a külön díjak alkalmazásának szabályait, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.
+(3) A Hivatal elnöke rendeletben állapítja meg a a (2) bekezdés szerinti külön díjak fizetésére kötelezettek körét és a külön díjak alkalmazásának szabályait, amely rendelet kihirdetése és hatálybalépése között legalább 45 napnak el kell telnie.
 
 (4) A Hivatal elnöke rendeletben állapítja meg a (2) bekezdés a) és b) pontjában meghatározott szolgáltatások külön díjait.
 
-(5) Az e § szerinti rendeletek előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
+(5) A (2) és (3) bekezdés szerinti rendelet és az (1) bekezdés szerinti rendeletre vonatkozó javaslat előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
 
-(6) Az egyetemes szolgáltató és az elosztó az e § szerinti külön díjakat és alkalmazásuk szabályait kötelesek a honlapjukon közzétenni.
+(6) Az egyetemes szolgáltató az (1) bekezdés szerinti külön díjakat és alkalmazásuk szabályait a külön díjak kihirdetését követő 3 munkanapon belül, az elosztó a (4) bekezdés szerinti külön díjakat legkésőbb azok alkalmazhatósága előtt 20 nappal a honlapján és az ügyfélszolgálaton közzéteszi.

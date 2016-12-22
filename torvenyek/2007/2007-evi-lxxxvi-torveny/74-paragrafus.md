@@ -26,7 +26,9 @@ i) a közvetlen vezeték létesítése és megszüntetése, az erőmű telephely
 
 j) közvilágítási berendezések üzemeltetése a közvilágítási elosztó hálózat közvilágítási berendezései kivételével,
 
-k) elektromos gépjármű töltése a 3. § 7b. pont b) és c) alpontjának kivételével.
+k) elektromos gépjármű töltése a 3. § 7b. pont b) és c) alpontjának kivételével,
+
+l) a 0,5 MW és az ezt meghaladó névleges kimeneti teljesítőképességű villamosenergia-tároló üzemeltetése.
 
 (2)
 

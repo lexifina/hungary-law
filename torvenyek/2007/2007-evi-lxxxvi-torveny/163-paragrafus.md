@@ -10,4 +10,4 @@ a) szervezi és működteti a felhasználói érdekek képviseletét ellátó eg
 
 b) átadja a felhasználói érdekek képviseletét ellátó egyesületeknek és a fogyasztóvédelmi hatóságnak a külön jogszabályban meghatározott mindazon adatokat és információkat, melyek az engedélyes engedélyhez kötött tevékenységével és a felhasználói, illetve lakossági fogyasztói érdek érvényesítésével egyaránt kapcsolatosak.
 
-(4) A Hivatal működteti az Energetikai Érdekegyeztető Tanácsot.
+(4)

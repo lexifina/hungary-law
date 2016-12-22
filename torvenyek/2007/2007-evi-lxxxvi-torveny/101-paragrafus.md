@@ -18,4 +18,4 @@ f) az elosztó megfelelési programot dolgoz ki, amelyben bemutatja azokat az in
 
 (3) A megfelelési program végrehajtásának figyelemmel kíséréséért, valamint a megfelelési jelentés elkészítéséért az elosztó által kijelölt, független megfelelési ellenőr felel. A megfelelési ellenőr jogszabályban meghatározott feladatai elvégzéséhez szükséges mértékig az elosztó és kapcsolt vállalkozása valamennyi információjához hozzáférhet. A megfelelési jelentést jóváhagyásra be kell nyújtani a Hivatalhoz, majd a jóváhagyást követően az elosztó azt a honlapján közzéteszi.
 
-(4) A megfelelési ellenőr jogi személy vagy büntetlen előéletű természetes személy lehet, és rá – a függetlenség biztosítása érdekében – a 102/A. § (3) bekezdés a) pontját és a 102/B. § (1) és (2) bekezdését kell megfelelően alkalmazni.
+(4) A megfelelési ellenőr jogi személy vagy büntetlen előéletű természetes személy lehet, és rá – a függetlenség biztosítása érdekében – a 102/A. § (4) bekezdés a) pontját és a 102/B. § (1) és (2) bekezdését kell megfelelően alkalmazni.
