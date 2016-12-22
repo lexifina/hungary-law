@@ -10,7 +10,7 @@
 
 ## Felelős: Miniszterelnökséget vezető miniszter, nemzeti fejlesztési miniszter, emberi erőforrások minisztere
 
-## Határidő: 2017. január 31.
+## Határidő: 2017. január 31., a XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 2. Gyógyító-megelőző ellátás intézetei alcím javára biztosított 170 000 ezer forint tekintetében 2017. június 30.[^1]
 
 1. melléklet az 1180/2016. (IV. 11.) Korm. határozathoz
 
@@ -107,3 +107,5 @@
 | Nemzetgazdasági Minisztérium |  |  | 2 példány |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
 | * Az összetartozó előirányzat-változásokat (+/-) egymást követően kell szerepeltetni. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+
+[^1]: Az 1822/2016. (XII. 22.) Korm. határozat 10. pontja szerint módosított szöveg.
