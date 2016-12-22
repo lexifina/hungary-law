@@ -10,7 +10,7 @@ d) panaszjoguk gyakorlásának módjáról;
 
 e) az intézményi jogviszony megszűnésének eseteiről;
 
-f) az intézmény házirendjéről;
+f) az intézmény házirendjéről, támogatott lakhatás esetén az együttélés szabályairól;
 
 g) a fizetendő térítési díjról, teljesítési feltételeiről, továbbá a mulasztás következményeiről.
 

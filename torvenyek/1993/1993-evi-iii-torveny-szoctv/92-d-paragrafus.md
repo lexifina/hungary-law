@@ -4,4 +4,4 @@
 
 (3) Azt a személyes gondoskodást végző személyt, aki szociális szakvizsgát tett, az ezt igazoló oklevél bemutatását követő harmadik hónap első napjától kezdődően a szakvizsga figyelembevételével kell besorolni.
 
-(4) Megszüntethető – a munka törvénykönyvéről szóló 2012. évi I. törvény 66. § (2) bekezdése, illetve a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 30. §-a (1) bekezdésének c) pontjára hivatkozással – annak a személyes gondoskodást végző személynek a munkaviszonya, illetve közalkalmazotti jogviszonya, aki a továbbképzési kötelezettséget a külön jogszabályban meghatározott időtartam alatt nem teljesíti.
+(4) Megszüntethető – az Mt. 66. § (2) bekezdése, illetve a közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény (a továbbiakban: Kjt.) 30. §-a (1) bekezdésének c) pontjára hivatkozással – annak a személyes gondoskodást végző személynek a munkaviszonya, illetve közalkalmazotti jogviszonya, aki a továbbképzési kötelezettséget a külön jogszabályban meghatározott időtartam alatt nem teljesíti.

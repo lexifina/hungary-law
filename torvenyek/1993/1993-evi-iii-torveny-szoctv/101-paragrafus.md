@@ -18,13 +18,17 @@ a) az ellátott másik intézményben történő elhelyezése indokolt vagy tov�
 
 b) az ellátott a házirendet súlyosan megsérti,
 
-c) az ellátott, a törvényes képviselője vagy a térítési díjat megfizető személy térítésidíj-fizetési kötelezettségének – a 102. § szerint – nem tesz eleget.
+c) az ellátott, a törvényes képviselője vagy a térítési díjat megfizető személy térítésidíj-fizetési kötelezettségének – a 102. § szerint – nem tesz eleget,
+
+d) az ellátott jogosultsága megszűnik.
 
 (3) A felmondási idő, ha a 94/C. § szerinti megállapodás másként nem rendelkezik
 
 a) alapszolgáltatás esetén tizenöt nap,
 
 b) bentlakásos intézmény esetén három hónap.
+
+(3a) Ha a jogosultság jogszabályváltozás miatt szűnik meg, alapszolgáltatás esetén a megállapodást a jogszabályban megjelölt időponttal a (3) bekezdés a) pontja szerinti időtartamon belül is fel lehet mondani.
 
 (4) Az (1) bekezdés b) pontja szerinti esetben, ha a felmondás jogszerűségét az ellátott, a törvényes képviselője, a térítési díjat vagy az egyszeri hozzájárulást megfizető személy vitatja, az arról szóló értesítés kézhezvételétől számított nyolc napon belül a fenntartóhoz fordulhat.
 

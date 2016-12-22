@@ -2,7 +2,7 @@
 
 63. § (1) Házi segítségnyújtás keretében a szolgáltatást igénybe vevő személy saját lakókörnyezetében kell biztosítani az önálló életvitel fenntartása érdekében szükséges ellátást.
 
-(2) A házi segítségnyújtás keretében szociális segítést vagy személyi gondozást kell nyújtani.
+(2) A házi segítségnyújtás keretében szociális segítést vagy – a szociális segítés tevékenységeit is magába foglaló – személyi gondozást kell nyújtani.
 
 (3) Szociális segítés keretében biztosítani kell
 

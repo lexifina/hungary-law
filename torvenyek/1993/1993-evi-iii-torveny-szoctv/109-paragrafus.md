@@ -6,7 +6,9 @@ a) egészségi állapotának megváltozása miatt indokolt, vagy nem egészségi
 
 b) az adott intézményben állapotára tekintettel tovább nem rehabilitálható,
 
-c) a házirendet többször, súlyosan megsérti és emiatt az érdekképviseleti fórum a jogosult áthelyezését javasolja.
+c) a házirendet többször, súlyosan megsérti és emiatt az érdekképviseleti fórum a jogosult áthelyezését javasolja,
+
+d) támogatott lakhatás esetében az együttélés szabályait olyan súlyosan megszegi, hogy azzal az igénybevevők testi és lelki épségét vagy vagyonát veszélyezteti.
 
 (3) Ha az intézményi jogviszonyt
 
