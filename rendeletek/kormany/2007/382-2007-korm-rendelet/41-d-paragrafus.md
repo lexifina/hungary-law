@@ -1,4 +1,4 @@
-## 41/C. §[^102] E rendeletnek a szélerőművekre vonatkozó szabályok módosításáról szóló 277/2016. (IX. 15.) Korm. rendelettel (a továbbiakban: Mód. Kr3.) megállapított 23. § (2a) és (2b) bekezdését, 23/A., 23/B., 29/A. és 29/B. §-át, valamint a Mód. Kr3.-mal módosított 20. § (3) bekezdését, 3. és 4. számú mellékletét a Mód. Kr3. hatálybalépésekor[^103] folyamatban lévő eljárásokban is alkalmazni kell.
+## 41/C. §[^101] E rendeletnek a szélerőművekre vonatkozó szabályok módosításáról szóló 277/2016. (IX. 15.) Korm. rendelettel (a továbbiakban: Mód. Kr3.) megállapított 23. § (2a) és (2b) bekezdését, 23/A., 23/B., 29/A. és 29/B. §-át, valamint a Mód. Kr3.-mal módosított 20. § (3) bekezdését, 3. és 4. számú mellékletét a Mód. Kr3. hatálybalépésekor[^102] folyamatban lévő eljárásokban is alkalmazni kell.
 
-[^102]: A 41/C. §-t a 277/2016. (IX. 15.) Korm. rendelet 6. § (4) bekezdése iktatta be.
-[^103]: A hatálybalépés napja 2016. szeptember 23.
+[^101]: A 41/C. §-t a 277/2016. (IX. 15.) Korm. rendelet 6. § (4) bekezdése iktatta be.
+[^102]: A hatálybalépés napja 2016. szeptember 23.

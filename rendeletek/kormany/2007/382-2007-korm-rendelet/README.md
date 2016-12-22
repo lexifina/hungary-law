@@ -32,3 +32,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-382-20-
 | 2016-09-01 | 2007-382-20-22.28 | 267/2016. (VIII. 31.) Korm. rendelet |
 | 2016-09-23 | 2007-382-20-22.29 | 277/2016. (IX. 15.) Korm. rendelet |
 | 2016-09-30 | 2007-382-20-22.30 | 295/2016. (IX. 29.) Korm. rendelet |
+| 2016-12-22 | 2007-382-20-22.31 | 267/2016. (VIII. 31.) Korm. rendelet |

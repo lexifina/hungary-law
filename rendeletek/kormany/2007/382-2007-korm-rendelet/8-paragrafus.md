@@ -1,3 +1,5 @@
+## 7/A. §[^19]
+
 ## ELVI ÉPÍTÉSI ENGEDÉLYEZÉSI ELJÁRÁS
 
 8. § (1) Az építési engedély megkérése előtt a kérelmező a villamosenergia-ipari építmény műszaki megvalósíthatóságának, továbbá műemléki, régészeti, településképi, természet és környezetvédelmi követelmények előzetes tisztázása céljából a Hatóságtól elvi építési engedélyt kérhet.
@@ -10,6 +12,7 @@
 
 (5)[^23]
 
+[^19]: A 7/A. §-t a 267/2016. (VIII. 31.) Korm. rendelet 1. §-a iktatta be, hatályon kívül helyezte a 454/2016. (XII. 19.) Korm. rendelet 2. § a) pontja. Alkalmazására lásd e hatályon kívül helyező rendelet 3. § (2) bekezdését.
 [^20]: A 8. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 608. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^21]: A 8. § (3) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 607. §-a, a 245/2012. (VIII. 31.) Korm. rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^22]: A 8. § (4) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 607. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
