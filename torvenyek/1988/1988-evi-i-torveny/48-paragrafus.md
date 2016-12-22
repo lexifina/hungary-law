@@ -34,7 +34,7 @@ a) a Kormány, hogy
 
 14. a 7500 kg megengedett legnagyobb össztömeget meghaladó járművel történő közlekedés időszakos és területi korlátozására vonatkozó szabályokat,
 
-15. a közúti árufuvarozásra, személyszállításra, a vizsgálóállomás által végzett közúti jármű vizsgálatára, az ömlesztett áruk szállítására, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértése, valamint a jogosulatlan úthasználat esetén kiszabható bírságok összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
+15. a közúti árufuvarozásra, személyszállításra, a vizsgálóállomás által végzett közúti jármű vizsgálatára, az ömlesztett áruk szállítására, az egyes közúti közlekedési szabályokra vonatkozó rendelkezések megsértése, valamint a jogosulatlan úthasználat esetén kiszabható bírságok összegét, a pénzkövetelés biztosítása elrendelése esetén ennek összegét, továbbá az ezek megfizetésével kapcsolatos költség összegét, valamint a bírságolással összefüggő hatósági feladatok általános szabályait,
 
 16. a veszélyes áruk közúti szállításának ellenőrzésére vonatkozó egységes eljárás szabályait,
 
