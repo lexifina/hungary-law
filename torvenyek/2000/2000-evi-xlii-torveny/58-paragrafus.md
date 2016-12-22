@@ -1,4 +1,4 @@
-58. § (1) A Balatonon, a Velencei-tó és a Fertő tó teljes területén, továbbá a Ráckevei-Dunaág és a Tisza-tó a víziközlekedés egyes belvízi utakon környezetvédelmi okokból való korlátozásáról és a korlátozás alá eső területeken kiadható üzemeltetési engedélyről szóló Kormány rendeletben meghatározott részein belső égésű motorral hajtott kishajót és csónakot üzemeltetni tilos.
+58. § (1) A Balatonon, a Velencei-tó és a Fertő tó teljes területén, továbbá a Ráckevei (Soroksári)–Dunaágnak és a Tisza-tónak a víziközlekedés egyes belvízi utakon környezetvédelmi okokból való korlátozásáról és a korlátozás alá eső területeken kiadható üzemeltetési engedélyről szóló kormányrendeletben meghatározott részein belső égésű motorral hajtott kishajót és csónakot üzemeltetni tilos.
 
 (2) Motoros vízi sporteszközt a hajózási hatóság által – a illetékes települési önkormányzat egyetértésével – kijelölt pálya kivételével tilos üzemeltetni. Az (1) bekezdésben feltüntetett belvízi utakon, továbbá a határvízen motoros vízi sporteszköz pályát kijelölni tilos.
 
@@ -14,4 +14,6 @@ d) a víziút fenntartását, valamint a természet- és környezetvédelmi fela
 
 e) a hajózási hatóság által a Kormány rendeletében kiadott üzemeltetési engedéllyel rendelkező vízijárművekre,
 
-f) a Magyar Honvédség lőszerek, robbanótestek felkutatását, hatástalanítását és megsemmisítését végző katonai úszólétesítményeire.
+f) a Magyar Honvédség lőszerek, robbanótestek felkutatását, hatástalanítását és megsemmisítését végző katonai úszólétesítményeire,
+
+g) az országos illetékességgel eljáró halgazdálkodási hatóság ellenőrzési tevékenysége során e célra rendszeresített szolgálati célú vízijárműveire.

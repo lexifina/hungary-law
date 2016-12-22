@@ -16,7 +16,7 @@ b) szélerővel vagy gépi berendezéssel hajtott vízijármű, amelynek hossza 
 
 4. egyéb úszólétesítmény: vízijárműnek, úszómunkagépnek vagy úszóműnek nem minősülő úszólétesítmény;
 
-4a. fejlesztési közreműködő: központi költségvetési és európai uniós támogatásból az állam tulajdonában lévő víziút, meder, parton lévő létesítmény és kapcsolódó ingatlanok, továbbá az országos közforgalmú kikötők létesítését, felújítását és fejlesztését, valamint ezekkel összefüggő úszólétesítmény- és egyéb eszközbeszerzéseket és -felújításokat célzó projektjavaslatok megvalósítójaként kormányhatározatban kijelölt NIF Zrt.;
+4a. fejlesztési közreműködő: központi költségvetési és európai uniós támogatásból az állam tulajdonában lévő víziút, meder, parton lévő létesítmény és kapcsolódó ingatlanok, továbbá az országos közforgalmú kikötők létesítését, felújítását és fejlesztését, valamint ezekkel összefüggő úszólétesítmény- és egyéb eszközbeszerzéseket és -felújításokat célzó projektjavaslatok megvalósítójaként jogszabályban vagy kormányhatározatban kijelölt szervezet;
 
 5. fordítóhely: az úszólétesítmény megfordulására alkalmas hely;
 

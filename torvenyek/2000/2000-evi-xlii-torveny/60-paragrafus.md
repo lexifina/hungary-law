@@ -20,7 +20,9 @@ i) hajózási tevékenység végzésére,
 
 j) belvízi utakon közlekedési korlátozás alá eső területen üzemeltetett belsőégésű motorral hajtott kishajó, csónak és motoros vízi sporteszköz használatára,
 
-k) úszólétesítmény rendeltetésszerű üzemeltetéséhez előírt személyzet létszámára és képesítésére
+k) úszólétesítmény rendeltetésszerű üzemeltetéséhez előírt személyzet létszámára és képesítésére,
+
+l) úszólétesítményen a munkarendre, a munkavállaló munkaidő-beosztására, valamint munkaidejére és pihenőidejére
 
 vonatkozó rendelkezések megsértőit a hajózási hatóság – a hajózási bírság mértékéről és kivetésének szabályairól szóló kormányrendeletben előírtak szerint – bírság megfizetésére kötelezheti.
 

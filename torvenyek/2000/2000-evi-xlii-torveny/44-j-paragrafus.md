@@ -1,0 +1,1 @@
+44/J. § Ha belvízi hajózási tevékenységet folytató úszólétesítményen a munkavállaló számára havária vagy más úszólétesítmény mentése esetén rendkívüli munkavégzést rendeltek el, a munkavállaló részére a normál üzemelési körülmények helyreállítását követően a 44/H. §-ban meghatározott pihenőidőt kell biztosítani.
