@@ -1,0 +1,3 @@
+## 52. § Az Sznyr. 50. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+## „(1) A működést engedélyező szerv a 2016. december 31-én vagy azt követően hatályukat veszítő ideiglenes hatályú bejegyzések hatályát hivatalból, kizárólag ellátási érdekből 2018. december 31-éig más jogszabályi felhatalmazás hiányában is meghosszabbíthatja, ha a fenntartó benyújtja a határozatlan vagy határozott idejű bejegyzéshez szükséges feltételek megteremtésére vonatkozó szakmai tervét vagy az ennek érdekében igényelt európai uniós forrás felhasználására megkötött támogatási szerződés másolatát. A működést engedélyező szerv a meghosszabbítás kérdésében 2017. március 31-éig dönt. A döntés jogerőre emelkedéséig az ideiglenes hatályú bejegyzés hatálya meghosszabbodik.”
