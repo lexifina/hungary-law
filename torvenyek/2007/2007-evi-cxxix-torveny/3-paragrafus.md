@@ -6,4 +6,4 @@
 
 ## A művelési ág megváltoztatása
 
-3. § A termőföld művelési ágának megváltoztatását – az erre vonatkozó külön jogszabály rendelkezéseinek megfelelően – be kell jelenteni az ingatlanügyi hatóságnak, amely a bejelentés elmulasztása esetén földvédelmi bírsággal sújtja a földhasználót.
+3. § A termőföld művelési ágának megváltoztatását – az erre vonatkozó jogszabály rendelkezéseinek megfelelően – be kell jelenteni az ingatlanügyi hatóságnak, amely a bejelentés elmulasztása esetén földvédelmi bírságot szab ki.

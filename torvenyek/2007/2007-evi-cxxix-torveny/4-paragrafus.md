@@ -1,1 +1,1 @@
-4. § Ha a földhasználati nyilvántartásban nincs bejegyzett földhasználó, a földvédelmi bírságot a tulajdonossal (az állam tulajdonosi jogait gyakorló szervvel, vagyonkezelővel) szemben kell kiszabni. Ha az érintett földrészletnek a földhasználati nyilvántartás szerint több földhasználója van, illetőleg az érintett földrészlet közös tulajdonban áll, a földvédelmi bírság megfizetésének kötelezettsége a földhasználókat, illetőleg a tulajdonosokat egyetemlegesen terheli.
+4. §
