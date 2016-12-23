@@ -74,7 +74,7 @@ Felelős: Miniszterelnökséget vezető miniszter a feladatkörükben érintett 
 
 Határidő: 2016. november 30.
 
-10.[^3] felhívja a Miniszterelnökséget vezető minisztert, hogy az emberi erőforrások miniszterével és a nemzetgazdasági miniszterrel közös munkacsoportot alakítson a Makovecz Imre Pályázati Alap elindítása érdekében annak vizsgálatára, hogy melyek azok a Makovecz Imre életművébe tartozó projektek, amelyek megvalósítása a hazai költségvetés, illetve európai uniós forrás terhére megvalósuló programok keretében lehetséges, valamint dolgozza ki ezen források bevonásának egyes lépéseit;
+10.[^3] felhívja a Miniszterelnökséget vezető minisztert, hogy az emberi erőforrások miniszterével és a nemzetgazdasági miniszterrel közös munkacsoportot alakítson a Makovecz Imre Alap elindítása érdekében annak vizsgálatára, hogy melyek azok a Makovecz Imre életművébe tartozó projektek, amelyek megvalósítása a hazai költségvetés, illetve európai uniós forrás terhére megvalósuló programok keretében lehetséges, valamint dolgozza ki ezen források bevonásának egyes lépéseit;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -84,7 +84,7 @@ nemzetgazdasági miniszter
 
 Határidő: a munkacsoport megalakítására: 2016. január 31.
 
-a Makovecz Imre Pályázati Alap elindítására: 2016. november 30.
+a Makovecz Imre Alap elindítására: 2016. november 30.
 
 11. felkéri a Makovecz-életmű méltó megőrzésében kiemelkedő szerepet betöltő alábbi szervezeteket, hogy a feladatok végrehajtása érdekében működjenek együtt a Miniszterelnökséget vezető miniszterrel és az emberi erőforrások miniszterével:
 
@@ -94,29 +94,32 @@ b) a 7. pontban meghatározott feladat kapcsán a Nemzeti Művelődési Intézet
 
 c) a 8. pontban meghatározott feladat kapcsán a Magyar Művészeti Akadémiát, a Makovecz Imre Alapítványt, a Kós Károly Egyesülést, a Nemzeti Művelődési Intézetet, a Magyar Természetjáró Szövetséget, a Magyar Urbanisztikai Társaságot, a Falufejlesztési Társaságot, a Magyar Katolikus Egyházat, a Magyarországi Református Egyházat, a Magyarországi Evangélikus Egyházat, a Magyarországi Zsidó Hitközségek Szövetségét, a Hetednapi Adventista Egyházat, a Magyarországi Unitárius Egyházat, a Gyulafehérvári Érsekséget, a Királyhágómelléki Református Egyházkerületet, az Erdélyi Református Egyházkerületet, a Magyarországi Egyházak Ökumenikus Tanácsát, a Települési Önkormányzatok Országos Szövetségét, a Megyei Jogú Városok Szövetségét, a Kisvárosi Önkormányzatok Országos Érdekszövetségét, a Budapesti Önkormányzatok Szövetségét, a Megyei Önkormányzatok Országos Szövetségét, a Magyar Önkormányzatok Szövetségét, a Községek, Kistelepülések és Kistérségek Országos Önkormányzati Szövetségét, a Magyar Faluszövetséget, a Magyar Tájépítészek Szövetségét és a Magyar Építőművészek Szövetségét;
 
-12. felhívja a nemzetgazdasági minisztert, hogy
+12.[^4] felhívja a nemzetgazdasági minisztert, hogy az emberi erőforrások minisztere, a Miniszterelnökséget vezető miniszter és a Magyar Művészeti Akadémia elnöke, bevonásával
 
-a) a 2016. évben a 8. pontban rögzített feladat teljesítését követően, annak megvalósítására és további előkészítésére legfeljebb 500,0 millió, a 10. pontban rögzített feladat teljesítését követően legfeljebb 5500,0 millió forint,
+a) a 3. pontban rögzített feladat előkészítésére a 2018. évben legfeljebb 15,0 millió forint, a 2019. évben legfeljebb 25,0 millió forint, a 2020. évben legfeljebb 40,0 millió forint,
 
-b) a 2016. évben a 3. pontban rögzített feladat teljesítésére 80,0 millió forint, a 2017. évben a 7. pontban rögzített oktatási segédanyag elkészítésére 10,0 millió forint,
+b) az 5. pontban rögzített ötéves feladatterv végrehajtásához a 2016. évben legfeljebb 42,0 millió forint, a 2017. évben legfeljebb 82,0 millió forint, 2018. évben legfeljebb 63,0 millió forint, a 2019. évben legfeljebb 95,0 millió forint, a 2020. évben legfeljebb 109,0 millió forint,
 
-c) a 2018–2020. évek között a 7. pontban rögzített gyakorlati rendszer kialakítására, működtetésének megalapozására évente 30,0 millió forint,
+c) a 2017. évben a 7. pontban rögzített oktatási segédanyag elkészítésére legfeljebb 10,0 millió forint, a 2018–2020. évek között a 7. pontban rögzített gyakorlati rendszer kialakítására, működtetésének megalapozására évente legfeljebb 30,0 millió forint összegben biztosítson forrást a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 12. Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra alcím, 7. Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra támogatása jogcímcsoport, 2. Közművelődési szakmai feladatok jogcím javára,
 
-d) a 2017–2020. évek között a 10. pontban rögzített feladat teljesülését követően, annak megvalósítására évente legfeljebb 1400,0 millió forint
+d) a 10. pontban rögzített, az egyes projektek lehetséges forrásainak meghatározását követően, a fejlesztések támogatása érdekében gondoskodjon a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcímen belül a 10. Makovecz Imre Alap jogcímcsoport megnyitásáról, továbbá annak javára a 2016. évben 7000,0 millió forint, a 2017–2020. évek között évente legfeljebb 1400,0 millió forint összegben biztosítson forrást a XX. Emberi Erőforrások Minisztériuma fejezetben, valamint,
 
-összegben biztosítson forrást az Emberi Erőforrások Minisztériuma fejezetben.
+e) az 5. pontban rögzített ötéves feladatterv szerint Makovecz Imre Emlékközpont kialakítására, működtetésére a 2017. évben legfeljebb 141,0 millió forint, valamint a 2018. évtől kezdődően tartós jelleggel legfeljebb 106,0 millió forint összegben biztosítson forrást a XXXIV. Magyar Művészeti Akadémia fejezetben;
 
 Felelős: nemzetgazdasági miniszter
 
 emberi erőforrások minisztere
 
-Határidő: a 2016. évben a költségek felmerülése ütemében
+Miniszterelnökséget vezető miniszter
 
-a 2017–2020. évek között a központi költségvetés tervezése során
+Magyar Művészeti Akadémia elnökének felkérésével
 
-13.[^4]
+Határidő: a felmerülés ütemében
+
+13.[^5]
 
 [^1]: Az 5. pont az 1710/2016. (XII. 5.) Korm. határozat 1. pontja szerint módosított szöveg.
 [^2]: A 9. pont az 1710/2016. (XII. 5.) Korm. határozat 2. pontja szerint módosított szöveg.
-[^3]: A 10. pont az 1710/2016. (XII. 5.) Korm. határozat 3. pontja szerint módosított szöveg.
-[^4]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^3]: A 10. pont az 1710/2016. (XII. 5.) Korm. határozat 3. pontja, az 1850/2016. (XII. 23.) Korm. határozat 1. pontja szerint módosított szöveg.
+[^4]: A 12. pont az 1850/2016. (XII. 23.) Korm. határozat 2. pontjával megállapított szöveg.
+[^5]: A 13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
