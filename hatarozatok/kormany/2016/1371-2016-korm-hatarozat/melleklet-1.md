@@ -52,7 +52,7 @@
 
 ## 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-1. melléklet az 1371/2016. (VII. 15.) Korm. határozathoz
+1. melléklet az 1371/2016. (VII. 15.) Korm. határozathoz[^1]
 
 Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások projektlistája
 
@@ -94,7 +94,7 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 17. | 62. sz. főút Szabadegyháza-ipartelep elkerülő szakasz megvalósítása |
 
-| 18. | Mogyoród térség közúti kapcsolatainak fejlesztése, M3–M31-es autópálya átkötés, 20101 j. út – tervezett M3-as autópálya csomópont átkötése |
+| 18. | Mogyoród térség közúti kapcsolatainak fejlesztése, M3–M31-es autópálya átkötés, 2101 j. út – tervezett M3-as autópálya csomópont átkötése |
 
 | 19. | M7–710 sz. főút csomópont, 710 sz. főút bekötéssel projekt megvalósítása |
 
@@ -192,7 +192,7 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 16. | 471. sz. főút Debrecen–Hajdúsámson projekt megvalósítása |
 
-| 17. | Sopron északnyugati elkerülő megvalósítása |
+| 17. |  |
 
 | 18. | 8518 j. út átépítése a fertődi Esterházy-kastély körül |
 
@@ -204,15 +204,15 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 22. | Békéscsaba megközelítése, M8 Kecskemét–Nagykőrös közötti szakasz |
 
-| 23. | Sopron megközelítése, M85 Csorna II. – Fertőd-Endrédmajor csomópont |
+| 23. | Sopron megközelítése, M85 autóút Csorna II. – Sopron-kelet szakasz |
 
-| 24. | Sopron megközelítése, M85 Fertőd-Endrédmajor csomópont – Fertőrákos csomópont |
+| 24. | Sopron megközelítése, M85 autóút Sopron-kelet – Fertőrákos csomópont szakasz |
 
 | 25. | Szolnok megközelítése, M4 gyorsf. Cegléd–Abony közötti szakasz |
 
 | 26. | Szolnok megközelítése, M4 Abony (Kelet) – Törökszentmiklós közötti szakasz (Szolnok északi elkerülő) megvalósítása új Tisza-híd megépítésével, előzmény lezárása, elszámolás |
 
-| 27. | Sopron megközelítése M85 Fertőrákos csomópont – országhatár |
+| 27. | Sopron megközelítése M85 autóút Fertőrákos csomópont – Sopron oh. szakasz a 8647. jelű Sopron Ény-i elkerülő úttal |
 
 | 28. | Zalaegerszeg megközelítése, 76. sz. főút Keszthely–Fenékpuszta-Balatonszentgyörgy–M7 közötti szakasz gyorsúttá fejlesztése |
 
@@ -233,3 +233,9 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 | 36. | 471. sz. főút Debrecen belterület (1+000-2+850 km sz.) – építési engedély megszerzése |
 
 | 37. | Nagykanizsa délkeleti elkerülő–Tanulmány terv, előzetes vizsgálati dokumentáció |
+
+| 38. | M2 gyorsforgalmi út Dunakeszi északi csomópont és a 2. számú főút közötti összekötő út megvalósítása |
+
+| 39. | M3 gyorsforgalmi út Vásárosnamény (M3–M34 gyf út elválási csomópont) – Beregdaróc (országhatár) közötti szakasz 2×1 sávos autópályává fejleszthető út kiépítésének előkészítése |
+
+[^1]: Az 1. melléklet az 1833/2016. (XII. 23.) Korm. határozat 4., 7., 12. pontja és 14. pont b) alpontja szerint módosított szöveg.
