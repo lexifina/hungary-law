@@ -1,16 +1,9 @@
-## 53. § Az Sznyr. 50/B. §-a helyébe a következő rendelkezés lép:
+## 52–53. §[^20]
 
-## „50/B. § (1) Fejlesztő foglalkoztatás esetén az engedélyes bejegyzése vagy adatmódosítás iránti, 2017. április 1-jét megelőzően indult eljárást az egyes szociális és gyermekvédelmi tárgyú kormányrendeletek módosításáról szóló 448/2016. (XII. 19.) Korm. rendelettel megállapított szabályok alapján kell lefolytatni, ha az engedélyes működésének kezdő időpontja, illetve az az időpont, amelytől kezdődően az engedélyes az adatmódosításnak megfelelően működtethető, 2017. március 31-ét követően van.
+54. § (1)[^21]
 
-## (2) Az Szt. 138. § (5) bekezdése szerint befogadott ellátotti számot a működést engedélyező szerv az igénybevevői nyilvántartásból számára megküldött adatok alapján – 2016. december 31-éig, 2017. január 1-jei hatállyal – hivatalból jegyzi be a szolgáltatói nyilvántartásba.
+(2)–(3)[^22]
 
-## (3) Ha a fenntartó helyi önkormányzat vagy azok társulása és a befogadásról szóló szakhatósági állásfoglalás, előzetes szakhatósági állásfoglalás nem tartalmazza a személyi gondozásban ellátott személyek befogadott számát, a működést engedélyező szerv a személyi gondozásban ellátott személyek befogadott számaként – 2017. január 31-éig, 2017. január 1-jei hatállyal – hivatalból a teljes befogadott ellátotti létszámot jegyzi be.
-
-## (4) Az Szt. 138. § (6) bekezdése alapján, a közleményben meghatározott határidőig benyújtott befogadási kérelmek elbírálása – a 19/A. § (2) bekezdésében foglaltaktól eltérően – nem a szakhatósági eljárások megindulásának sorrendjében történik. A kérelem a 29. § (1) bekezdés szerinti korlátozásra tekintet nélkül benyújtható, az ilyen okból történő adatmódosítás a 29. § (1) bekezdésének alkalmazása során nem vehető figyelembe. Az Szt. 138. § (6) bekezdése alapján történő befogadást 2017. január 1-jei hatállyal kell bejegyezni a szolgáltatói nyilvántartásba.”
-
-54. § (1)[^17]
-
-(2)–(3)[^18]
-
-[^17]: Az 54. § (1) bekezdése a 64. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^18]: Az 54. § (2)–(3) bekezdése a 64. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^20]: Az 52–53. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^21]: Az 54. § (1) bekezdése a 64. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^22]: Az 54. § (2)–(3) bekezdése a 64. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.

@@ -1,16 +1,9 @@
-## 61. § Az Nyr. 7. § (3) bekezdése helyébe a következő rendelkezés lép:
+## 61. §[^31]
 
-## „(3) Az időszakos jelentési kötelezettséget
+62. § (1)[^32]
 
-## a) pszichiátriai betegek nappali ellátása és szenvedélybetegek nappali ellátása esetén legalább havonta, az adott hónap minden – szakmai program szerinti – nyitvatartási napjára,
+(2)[^33]
 
-## b) a (2) bekezdésben és az a) pontban nem említett, adatszolgáltatási kötelezettséggel érintett szolgáltatások esetén legalább havonta, az adott hónap minden napjára,
-
-## az adott hónap utolsó napját követő harmadik munkanap 24 óráig kell teljesíteni.”
-
-62. § (1)[^26]
-
-(2)[^27]
-
-[^26]: A 62. § (1) bekezdése a 64. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^27]: A 62. § (2) bekezdése a 64. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^31]: A 61. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^32]: A 62. § (1) bekezdése a 64. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^33]: A 62. § (2) bekezdése a 64. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.

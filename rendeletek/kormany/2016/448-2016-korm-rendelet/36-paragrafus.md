@@ -1,5 +1,3 @@
-## 35. § A Tkr. 10. § (6) bekezdése a következő e) ponttal egészül ki:
+## 29–35. §[^9]
 
-## (A finanszírozási szerződés tartalmazza különösen)
-
-## „e) fejlesztő foglalkoztatás esetén a foglalkoztatási hely címét, a vállalt feladatmutatót és a feladatmutató számításának módját,”
+[^9]: A 29–35. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

@@ -1,8 +1,9 @@
-55. § (1) Az Sznyr. 1. melléklet 3.8. pontjában az „ellátotti létszámra” szövegrészek helyébe az „ellátotti létszámra – ezen belül a személyi gondozásban ellátott személyek befogadott számára –” szöveg lép.
+55. § (1)[^23]
 
-(2)[^19]
+(2)[^24]
 
-(3)[^20]
+(3)[^25]
 
-[^19]: Az 55. § (2) bekezdése a 64. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^20]: Az 55. § (3) bekezdése a 64. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
+[^23]: Az 55. § (1) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^24]: Az 55. § (2) bekezdése a 64. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^25]: Az 55. § (3) bekezdése a 64. § (4) bekezdése alapján 2017. április 1-jén lép hatályba.
