@@ -48,8 +48,8 @@
 
 ## 9. A Kormány egyetért azzal, hogy a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1180/2016. (IV. 11.) Korm. határozat (a továbbiakban: Határozat) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 2. Gyógyító-megelőző ellátás intézetei alcím, K6. Beruházások kiemelt előirányzat javára átcsoportosított 170 000 ezer forintból 30 000 ezer forint a K7. Felújítások kiemelt előirányzaton kerüljön felhasználásra és elszámolásra.
 
-## 10. A Határozat „2017. január 31.” szövegrésze helyébe a „2017. január 31., a XX. Emberi Erőforrások Minisztériuma fejezet, 10. Gyógyító-megelőző ellátás szakintézetei cím, 2. Gyógyító-megelőző ellátás intézetei alcím javára biztosított 170 000 ezer forint tekintetében 2017. június 30.” szöveg lép.
-
-## 11. A Kormány egyetért azzal, hogy a 2015. évi kötelezettségvállalással nem terhelt költségvetési maradványok felhasználásáról szóló 1768/2016. (XII. 15.) Korm. határozat 3. mellékletében – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 36. PPP programok alcím, 2. Oktatási, kulturális és sport PPP programok jogcímcsoport, K5. Egyéb működési kiadások kiemelt előirányzat sorban levő „–209 770” szövegrész helyébe a „–189 845” szöveg, a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 36. PPP programok alcím, 6. Hozzájárulás a Művészetek Palotájának működtetéséhez jogcímcsoport, K5. Egyéb működési kiadások kiemelt előirányzat sorban levő „–162 069” szövegrész helyébe a „–263 475” szöveg, a XVII. Nemzeti Fejlesztési Minisztérium fejezet, 20. Fejezeti kezelésű előirányzatok cím, 36. PPP programok alcím, 7. Hozzájárulás a sportlétesítmények PPP bérleti díjához jogcímcsoport, K5. Egyéb működési kiadások kiemelt előirányzat sorban levő „–299 675” szövegrész helyébe a „–218 194” szöveg lép.
+## 10–11.[^1]
 
 1. melléklet az 1822/2016. (XII. 22.) Korm. határozathoz
+
+[^1]: A 10–11. pont a 2010: CXXX. 12. § (2) bekezdése alapján hatályát vesztette.
