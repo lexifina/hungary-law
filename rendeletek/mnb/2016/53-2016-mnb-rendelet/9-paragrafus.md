@@ -1,4 +1,4 @@
-## 2–8. §[^1]
+## 2–8. §[^2]
 
 ## 3. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) A 2–8. § 2017. január 1-jén lép hatályba.
 
-[^1]: A 2–8. § a 9. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^2]: A 2–8. § a 9. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
