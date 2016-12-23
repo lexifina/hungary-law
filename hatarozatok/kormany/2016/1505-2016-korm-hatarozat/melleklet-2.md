@@ -1,24 +1,24 @@
 ## Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások 2022-ig történő megvalósításához biztosított forráskeret éves felosztása
 
-|  | A | B | C | D | E | F | G | H |
+|  | A | B | C | D | E | F | G | H | I |
 
 | 1. | Az előirányzat megnevezése | A projektek megvalósításához szükséges források éves keretösszege (bruttó, millió Ft) |
 
-| 2. | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
+| 2. | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | Összesen: |
 
-| 3. | IKOP 1. prioritása | 167 913 | 220 474 | 111 071 | 112 029 | 80 876 | 29 390 | 11 551 |
+| 3. | IKOP 1. prioritása | 167 913 | 220 474 | 111 071 | 112 029 | 80 876 | 29 390 | 11 551 | 733 304 |
 
-| 4. | IKOP 4. prioritása | 77 690 | 76 976 | 64 872 | 77 246 | 44 108 | 34 213 | 6 960 |
+| 4. | IKOP 4. prioritása | 77 690 | 76 976 | 64 872 | 77 246 | 44 108 | 34 213 | 6 960 | 382 065 |
 
-| 5. | Európai Hálózatfinanszírozási Eszköz | 5 675 | 27 130 | 26 370 | 10 073 | 0 | 0 | 0 |
+| 5. | Európai Hálózatfinanszírozási Eszköz | 5 675 | 27 130 | 26 370 | 10 073 | 0 | 0 | 0 | 69 248 |
 
-| 6. | Magyarország központi költségvetés hazai forrás | 102 133 | 210 384 | 250 098 | 356 369 | 175 266 | 126 915 | 57 950 |
+| 6. | Magyarország központi költségvetés hazai forrás | 97 787 | 212 200 | 252 312 | 367 653 | 180 779 | 126 915 | 57 950 | 1 295 596 |
 
-| 7. | Összesen | 353 411 | 534 964 | 452 411 | 555 717 | 300 250 | 190 518 | 76 461 |
+| 7. | Összesen | 349 065 | 536 780 | 454 625 | 567 001 | 305 763 | 190 518 | 76 461 |  |
 
-| 8. | Mindösszesen | 2 463 732 |
+| 8. | Mindösszesen | 2 480 213 |  |
 
-2. melléklet az 1505/2016. (IX. 21.) Korm. határozathoz
+2. melléklet az 1505/2016. (IX. 21.) Korm. határozathoz[^5]
 
 Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások megvalósításának tervezett ütemezése
 
@@ -62,7 +62,7 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 18. | 62. sz. főút Szabadegyháza-ipartelep elkerülő szakasz megvalósítása | 2016. IV. negyedév | 2018. II. negyedév |
 
-| 19. | Mogyoród térség közúti kapcsolatainak fejlesztése, M3 – M31-es autópálya átkötés, 20101 j. út – tervezett M3-as autópálya csomópont átkötése | 2016. IV. negyedév | 2018. II. negyedév |
+| 19. | Mogyoród térség közúti kapcsolatainak fejlesztése, M3 – M31-es autópálya átkötés, 2101 j. út – tervezett M3-as autópálya csomópont átkötése | 2016. IV. negyedév | 2018. II. negyedév |
 
 | 20. | M7-710 sz. főút csomópont, 710 sz. főút bekötéssel projekt megvalósítása | 2016. IV. negyedév | 2018. IV. negyedév |
 
@@ -166,7 +166,7 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 17. | 471. sz. főút Debrecen–Hajdúsámson projekt megvalósítása | 2017. I. negyedév | 2018. II. negyedév |
 
-| 18. | Sopron északnyugati elkerülő megvalósítása | 2018. III. negyedév | 2020. I. negyedév |
+| 18. |  |  |  |
 
 | 19. | 8518 j. út átépítése a fertődi Esterházy-kastély körül | 2017. I. negyedév | 2018. I. negyedév |
 
@@ -178,17 +178,17 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 
 | 23. | Békéscsaba megközelítése, M8 Kecskemét – Nagykőrös közötti szakasz | 2019. I. negyedév | 2022. II. negyedév |
 
-| 24. | Sopron megközelítése, M85 Csorna II. – Fertőd-Endrédmajor csomópont | 2018. III. negyedév | 2021. II. negyedév |
+| 24. | Sopron megközelítése, M85 autóút Csorna II. – Sopron-kelet szakasz | 2017. III. negyedév | 2020. IV. negyedév |
 
-| 25. | Sopron megközelítése, M85 Fertőd-Endrédmajor csomópont – Fertőrákos csomópont | 2017. II. negyedév | 2019. III. negyedév |
+| 25. | Sopron megközelítése, M85 autóút Sopron-kelet – Fertőrákos csomópont | 2018. I. negyedév | 2020. IV. negyedév |
 
 | 26. | Szolnok megközelítése, M4 Cegléd – Abony közötti szakasz | 2019. I. negyedév | 2021. II. negyedév |
 
 | 27. | Szolnok megközelítése, M4 Abony (Kelet) – Törökszentmiklós közötti szakasz (Szolnok északi elkerülő) megvalósítása új Tisza-híd megépítésével, előzmény lezárása, elszámolás | 2017. III. negyedév | 2019. IV. negyedév |
 
-| 28. | Sopron megközelítése M85 Fertőrákos csomópont – Oh. | 2018. I. negyedév | 2022. I. negyedév |
+| 28. | Sopron megközelítése M85 autóút Fertőrákos csomópont-oh. – Sopron oh. szakasz a 8647. jelű Sopron Ény-i elkerülő úttal | 2018. I. negyedév | 2021. IV. negyedév |
 
-| 29. | Zalaegerszeg megközelítése, 76. sz. főút Keszthely – Fenékpuszta-Balatonszentgyörgy – M7 közötti szakasz gyorsúttá fejlesztése | 2017. III. negyedév | 2019. III. negyedév |
+| 29. | Zalaegerszeg megközelítése, 76. sz. főút Keszthely – Fenékpuszta-Balatonszentgyörgy – M7 közötti szakasz gyorsúttá fejlesztése | 2017. II. negyedév | 2022. IV. negyedév |
 
 | 30. | Esztergom megközelítése, 102. sz. út Esztergom – M1 közötti szakasz fejlesztése | 2019. I. negyedév | 2021. II. negyedév |
 
@@ -207,3 +207,9 @@ Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó inf
 | 37. | 471. sz. főút Debrecen belterület (1+000-2+850 kmsz.) – építési engedély megszerzése | 2015. III. negyedév | 2016. III. negyedév |
 
 | 38. | Nagykanizsa délkeleti elkerülő – Tanulmány terv, EVD | 2016. I. negyedév | 2016. III. negyedév |
+
+| 39. | M2 gyorsforgalmi út Dunakeszi északi csomópont és a 2. számú főút közötti összekötő út megvalósítása | 2017. I. negyedév | 2018. II. negyedév |
+
+| 40. | M3 gyorsforgalmi út Vásárosnamény (M3–M34 gyf út elválási csomópont) – Beregdaróc (országhatár) közötti szakasz 2×1 sávos autópályává fejleszthető út kiépítésének előkészítése | 2017. II. negyedév | 2020. IV. negyedév |
+
+[^5]: A 2. melléklet az 1833/2016. (XII. 23.) Korm. határozat 6., 11., 13. pontja és 14. pont c) alpontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 1. felhívja a nemzetgazdasági minisztert, a nemzeti fejlesztési minisztert és a Miniszterelnökséget vezető minisztert, hogy biztosítsanak a Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások összehangolásáról és azok 2022-ig történő megvalósításáról szóló 1371/2016. (VII. 15.) Korm. határozat 1. mellékletében meghatározott közútfejlesztési projektek (a továbbiakban: projektek) megvalósítása érdekében 2 463 732 millió forint költségvetési forrást az 1. melléklet szerint,
+## 1.[^1] felhívja a nemzetgazdasági minisztert, a nemzeti fejlesztési minisztert és a Miniszterelnökséget vezető minisztert, hogy biztosítsanak a Magyarország rövid- és középtávú közútfejlesztéséhez kapcsolódó infrastrukturális beruházások összehangolásáról és azok 2022-ig történő megvalósításáról szóló 1371/2016. (VII. 15.) Korm. határozat 1. mellékletében meghatározott közútfejlesztési projektek (a továbbiakban: projektek) megvalósítása érdekében 2 480 213 millió forint költségvetési forrást az 1. melléklet szerint,
 
 ## Felelős: nemzetgazdasági miniszter
 
@@ -38,4 +38,17 @@
 
 ## Határidő: 2016. november 30.
 
-1. melléklet az 1505/2016. (IX. 21.) Korm. határozathoz
+## 6.[^2] az államháztartásról szóló 2011. évi CXCV. törvény 36. § (4a) bekezdésében biztosított jogkörében eljárva engedélyezi, hogy a projektek megvalósítása érdekében, kizárólag azok finanszírozása céljából a nemzeti fejlesztési miniszter a központi költségvetés XVII. Nemzeti Fejlesztési Minisztérium fejezet, Fejezeti kezelésű előirányzatok cím, Közlekedési ágazati programok alcím, Kiemelt közúti projektek jogcímcsoportja, valamint Közútfejlesztési feladatok végrehajtása jogcímcsoportja (a továbbiakban együttesen: közútfejlesztési előirányzatok) terhére – a közútfejlesztési előirányzatok terhére már megtörtént kötelezettségvállalások és a kapcsolódó pénzügyi tranzakciós illetékek és kincstári díjak összegének figyelembe vétele mellett – a 2016–2022. évek tekintetében összesen legfeljebb 1 295 596 millió forint összegben kötelezettséget vállaljon azzal, hogy a 2016. évi költségvetési kiadási előirányzat terhére vállalt kötelezettségvállalás mértéke a már meglévő kötelezettségvállalásokkal együtt nem haladhatja meg a 97 787 millió forintot, valamint a 2017. évi költségvetési kiadási előirányzat terhére vállalt kötelezettségvállalás mértéke a már meglévő kötelezettségvállalásokkal együtt nem haladhatja meg a 212 200 millió forintot,
+
+## 7.[^3] felhívja a nemzeti fejlesztési minisztert, hogy a 6. pontban meghatározott összegnek megfelelő, a közútfejlesztési előirányzatok terhére, a NIF Zrt.-vel megkötött támogatási szerződés módosításáról, szükség esetén megkötéséről gondoskodjon.
+
+## Felelős: nemzeti fejlesztési miniszter
+
+## Határidő: 2017. március 31.
+
+1. melléklet az 1505/2016. (IX. 21.) Korm. határozathoz[^4]
+
+[^1]: Az 1. pont az 1833/2016. (XII. 23.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^2]: A 6. pontot az 1833/2016. (XII. 23.) Korm. határozat 5. pontja iktatta be.
+[^3]: A 7. pontot az 1833/2016. (XII. 23.) Korm. határozat 5. pontja iktatta be.
+[^4]: Az 1. melléklet az 1833/2016. (XII. 23.) Korm. határozat 9–10. pontja szerint módosított szöveg.
