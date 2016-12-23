@@ -10,18 +10,21 @@ ab) a munkába járással összefüggő terhek csökkentését célzó támogat�
 
 b) 4. sora alapján a Nemzeti Foglalkoztatási Alap képzési alaprészéből a szakképzésért és felnőttképzésért felelős miniszter egyedi döntésével nyújtható képzési, továbbá tanműhely-létesítési és -fejlesztési támogatások részletes szabályairól szóló 3/2015. (II. 13.) NGM rendelet 1. § a) pontja,
 
-c) 12. sora alapján
+c)[^2] 11. sora alapján
 
 ca) a 6/1996. (VII. 16.) MüM rendelet 8/A. §-a, 11. §-a, 27. § (3) és (4) bekezdése,
 
 cb) a 39/1998. (III. 4.) Korm. rendelet 5/A. §-a,
 
-d) 13. sora alapján a Társadalmi Megújulás Operatív Program prioritásaira rendelt források felhasználásának részletes szabályairól és egyes támogatási jogcímeiről szóló 32/2012. (VI. 8.) NFM rendelet 6. §-a,
+d)[^3] 12. sora alapján a Társadalmi Megújulás Operatív Program prioritásaira rendelt források felhasználásának részletes szabályairól és egyes támogatási jogcímeiről szóló 32/2012. (VI. 8.) NFM rendelet 6. §-a,
 
-e) 14. sora alapján
+e)[^4] 13. sora alapján
 
 ea) a GINOP 5. prioritás keretében megvalósuló állami foglalkoztatási szerv uniós foglalkoztatási programjainak előfinanszírozásához a 2014–2020 programozási időszakra rendelt források felhasználására vonatkozó uniós versenyjogi értelemben vett állami támogatási szabályokról szóló 255/2014. (X. 10.) Korm. rendelet [a továbbiakban: 255/2014. (X. 10.) Korm. rendelet] 6. § 12. és 14. pontja, 58–62. §-a valamint 100. §-a,
 
 eb) a VEKOP 8. prioritás keretében megvalósuló állami foglalkoztatási szerv uniós foglalkoztatási programjainak előfinanszírozásához a 255/2014. (X. 10.) Korm. rendelet 8. § 17. és 22. pontja, 61. §-a valamint 100. §-a
 
 [^1]: Az 1. § a 4. §-sal megállapított szöveg.
+[^2]: A 2. § c) pont nyitó szövegrésze az 57/2016. (XII. 22.) NGM rendelet 5. § a) pontja szerint módosított szöveg.
+[^3]: A 2. § d) pontja az 57/2016. (XII. 22.) NGM rendelet 5. § b) pontja szerint módosított szöveg.
+[^4]: A 2. § e) pont nyitó szövegrésze az 57/2016. (XII. 22.) NGM rendelet 5. § c) pontja szerint módosított szöveg.
