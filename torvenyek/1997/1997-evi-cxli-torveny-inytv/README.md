@@ -47,3 +47,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1997-141-00-00
 | 2016-11-12 | 2016. évi CXI. törvény | 1997-141-00-00.64 |
 | 2016-11-26 | 2016. évi CXXI. törvény | 1997-141-00-00.65 |
 | 2016-12-20 | 2016. évi CLXVIII. törvény | 1997-141-00-00.66 |
+| 2016-12-23 | 2016. évi CLXXXVII. törvény | 1997-141-00-00.67 |
