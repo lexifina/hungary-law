@@ -2,7 +2,7 @@
 
 140. § (1) A végrehajtó az ingatlan értékesítése előtt a 6 hónapnál nem régebbi adó- és értékbizonyítványt is figyelembe véve vagy – bármelyik fél erre irányuló kérelmére – igazságügyi szakértő szakvéleménye alapján megállapítja az ingatlan becsértékét mind a beköltözhető, mind pedig a lakott állapotban történő értékesítés esetére. Az adó- és értékbizonyítványnak, illetve a igazságügyi szakértő szakvéleményének tartalmaznia kell azt, hogy az ingatlan a 147. § (3) bekezdése szerint lakóingatlannak minősül-e.
 
-(2) A végrehajtó az ingatlan becsértékét közli a felekkel és azokkal, akiknek az ingatlanra vonatkozóan az ingatlan-nyilvántartásba bejegyzett joguk van.
+(2) A végrehajtó az ingatlan becsértékét közli a felekkel és azokkal, akiknek az ingatlanra vonatkozóan az ingatlan-nyilvántartásba bejegyzett joguk van, valamint föld értékesítése esetében a Nemzeti Földalappal is.
 
 (3) Ha nem állnak fenn a 141. § (3) bekezdésének a)–d) pontjában foglalt feltételek, a végrehajtó a becsérték közlésével egyidejűleg tájékoztatja a végrehajtást kérőt arról, hogy az ingatlan lakott állapotban történő értékesítésére akkor kerül sor, ha az erre irányuló kérelmét a tájékoztatás kézhezvételétől számított 15 napon belül előterjeszti a végrehajtónál.
 
