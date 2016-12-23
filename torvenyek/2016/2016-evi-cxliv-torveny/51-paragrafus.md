@@ -1,3 +1,1 @@
-51. § A Gfbt. 56. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) A (2) bekezdésben meghatározott szervezeti egység vezetésére a Bit. 53. § (4)–(5) bekezdésében és 54. §-ában meghatározott feltételeknek megfelelő, felelős vezetőt (a továbbiakban: felelős vezető) kell kijelölni, akit a MABISZ ügyvezető és képviseleti szerve jelölhet ki, továbbá aki e minőségében csak a jogszabályoknak, az alapszabálynak, valamint a MABISZ legfőbb szerve határozatainak van alávetve, és a MABISZ tagjai által nem utasítható. A MABISZ az elkülönített szervezeti egységet érintő kérdésekben az alapszabályban meghatározott módon, a (3) bekezdésben meghatározott biztosítók képviselői közül, a felelős vezető vezetésével működő döntést hozó testületet hozhat létre, amely esetben a felelős vezető a testület döntéseinek is alá van vetve.”
+51. §
