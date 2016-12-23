@@ -30,4 +30,4 @@ e) ha e törvény kifejezetten így rendelkezik.
 
 (10) A tolmácsolási és fordítási díj megfizetésére a támogatás visszatérítésére vonatkozó szabályokat kell megfelelően alkalmazni.
 
-(11) A jogi segítségnyújtó szolgálatnak a jogi segítői névjegyzék vezetésével kapcsolatos hatósági döntéseivel szemben fellebbezésnek nincs helye.
+(11)

@@ -8,7 +8,7 @@
 
 (2) A támogatás iránti kérelmet a büntetőeljárásban – ha a büntetőeljárásról szóló törvény másként nem rendelkezik – legkésőbb a bíróság ügydöntő határozata meghozatalának céljából tartott tanácsüléséig lehet előterjeszteni a jogi segítségnyújtó szolgálathoz. A támogatás hatálya
 
-a) a támogatás iránti kérelem előterjesztésétől a büntetőeljárás megszüntetéséig, a vádemelés részbeni mellőzéséig vagy az eljárás jogerős befejezéséig,
+a) a támogatás iránti kérelem előterjesztésétől a büntetőeljárás megszüntetéséig, a nyomozás részbeni mellőzéséig, a vádemelés részbeni mellőzéséig, a vádemelés elhalasztásáig vagy az eljárás jogerős befejezéséig,
 
 b) a rendkívüli jogorvoslati eljárásokban és a különleges eljárásokban a kérelem előterjesztésétől az eljárás jogerős befejezéséig
 

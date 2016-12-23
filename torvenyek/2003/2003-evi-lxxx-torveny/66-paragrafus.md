@@ -18,4 +18,4 @@ b) fegyelmi eljárás során tevékenységének gyakorlását nem függesztetté
 
 c) nem áll fegyelmi büntetés hatálya alatt.
 
-(5) A jogi segítő a pénzforgalmi számlaszámát a szolgáltatási szerződés megkötése előtt köteles bejelenteni.
+(5) A jogi segítő a pénzforgalmi számlaszámát, valamint adószámát a szolgáltatási szerződés megkötése előtt köteles bejelenteni.
