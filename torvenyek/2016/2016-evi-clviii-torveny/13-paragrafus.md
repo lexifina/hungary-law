@@ -1,0 +1,3 @@
+13. § A Jst. 63/A. § (5) bekezdése helyébe a következő rendelkezés lép:
+
+„(5) A pártfogó ügyvéd a díjának megállapítása iránti kérelmét a büntetőeljárás megszüntetését, a nyomozás részbeni mellőzését, a vádemelés részbeni mellőzését, a vádemelés elhalasztását vagy az eljárás jogerős befejezését követő 6 hónapon belül terjesztheti elő, ezt követően pedig akkor, ha igazolja, hogy a pártfogó ügyvédi díj viseléséről szóló határozatot 6 hónapon belül vette kézhez. Ha a perben a fél képviseletét több pártfogó ügyvéd látta el, a korábban eljárt pártfogó ügyvéd a jogi segítségnyújtó szolgálat felhívására díjának megállapítására irányuló kérelmét a felhívás kézhezvételétől számított 30 napos jogvesztő határidővel terjesztheti elő.”

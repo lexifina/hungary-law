@@ -1,0 +1,7 @@
+# 2016. évi CLVIII. törvény a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény és egyes törvények eljárásjogi kérdésekkel összefüggő módosításáról
+
+Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-158-00-00
+
+| Hatályos (In-force) | Módosította (made by) | NJT időállapot |
+| --- | --- | --- |
+| 2016-12-23 | 2016. évi CLVIII. törvény | 2016-158-00-00.0 (közlönyállapot) |
