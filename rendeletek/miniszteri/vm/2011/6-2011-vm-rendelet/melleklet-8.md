@@ -2,55 +2,61 @@
 
 ## 1. Referencia-módszerek
 
-## 1.1. Referencia-módszer a kén-dioxid vizsgálatára: ultraibolya fluoreszcenciás módszer a vonatkozó szabvány szerint (MSZ EN 14212:2005)
+## 1.1. Referencia-módszer a környezeti levegőben található kén-dioxid vizsgálatára: ultraibolya-fluoreszcenciás módszer a vonatkozó szabvány szerint (MSZ EN 14212:2013)
 
-## 1.2. Referencia-módszer a nitrogén-dioxid és nitrogén-oxidok vizsgálatára: kemilumineszcenciás módszer a vonatkozó szabvány szerint (MSZ EN 14211:2005)
+## 1.2. Referencia-módszer a nitrogén-dioxid és nitrogén-oxidok vizsgálatára: kemilumineszcenciás módszer a vonatkozó szabvány szerint (MSZ EN 14211:2013)
 
-## 1.3.1. Referencia-módszer az ólom mintavételezésére: a lebegő por tömegkoncentrációjának meghatározása gravimetriás módszerrel a vonatkozó szabvány szerint (MSZ EN12341:2001)
+## 1.3.1. Referencia-módszer az ólom mintavételezésére: a szálló por tömegkoncentrációjának meghatározása gravimetriás módszerrel a vonatkozó szabvány szerint (MSZ EN 12341:2014)
 
 ## 1.3.2. Referencia-módszer az ólom vizsgálatára: atomabszorpciós spektrometriás módszer a vonatkozó szabvány szerint (MSZ EN 14902:2006)
 
-## 1.4. Referencia-módszer a PM10 mintavételére és mérésére: a lebegő porban a PM10 frakciójának tömegkoncentrációjának meghatározása gravimetriás módszerrel a vonatkozó szabványok szerint (MSZ EN 12341:2001)
+## 1.4. Referencia-módszer a PM10 mintavételére és mérésére: a szálló por PM10 tömegkoncentrációjának meghatározása gravimetriás módszerrel a vonatkozó szabvány szerint (MSZ EN 12341:2014)
 
-## 1.5. Referencia-módszer a benzol meghatározására: gázkromatográfiás módszer a vonatkozó szabvány szerint (MSZ EN 14662 1–5:2005)
+## 1.5. Referencia-módszer a benzol meghatározására: gázkromatográfiás módszer a vonatkozó szabvány szerint (MSZ EN 14662 1-5:2005)
 
-## 1.6. Referencia-módszer a szén-monoxid meghatározására: nemdiszperzív infravörös spektroszkópiás módszer a vonatkozó szabvány szerint (MSZ EN 14626:2005)
+## 1.6. Referencia-módszer a szén-monoxid meghatározására: nem diszperzív infravörös spektroszkópiás módszer a vonatkozó szabvány szerint (MSZ EN 14626:2013)
 
-## 1.7. Referencia-módszer az ózon meghatározására: UV fotometriás módszerrel a vonatkozó szabvány szerint (MSZ EN 14625:2005)
+## 1.7. Referencia-módszer az ózon koncentrációjának mérésére: szabványos ultraibolya-fotometriás módszer a vonatkozó szabvány szerint (MSZ EN 14625:2013)
 
-## 1.8. Referencia módszer az arzén, kadmium és nikkel meghatározására a levegőben: mintavétel (MSZ EN 12341:2001) és elemzés a vonatkozó szabvány szerint (MSZ EN 14902:2006)
+## 1.8. Referencia-módszer a környezeti levegőben található arzén, kadmium és nikkel meghatározására: mintavétel (MSZ EN 12341:2014) és elemzés az „A környezeti levegő minősége. A Pb, a Cd, az As és a Ni mérése szabványos módszerrel a szálló por PM10 frakciójában” című szabvány szerint (MSZ EN 14902:2006)
 
-## 1.9. Referencia-módszer a levegő policiklusos aromás szénhidrogén tartalmának meghatározására: mintavétel (MSZ EN 12341:2001) és elemzés a vonatkozó szabvány szerint (MSZ ISO 12884:2003)
+## 1.9. Referencia-módszer a környezeti levegő policiklusos aromás szénhidrogén tartalmának meghatározására: mintavétel (MSZ EN 12341:2014) az elemzés pedig benzo(a)pirén esetén a „Levegőminőség. A benzo(a)pirén koncentrációjának mérése szabványos módszerrel környezeti levegőben” című MSZ EN 15549:2008 szabvány szerint, a 3. § (4) bekezdésben meghatározott egyéb vegyületek esetén az MSZ ISO 12884:2003 szabvány szerint
 
-## 1.10. Referencia-módszer a PM2,5 mintavételére és mérésére: a lebegő porban a PM2,5 frakciójának tömegkoncentrációjának meghatározása gravimetriás módszerrel a vonatkozó szabványok szerint (MSZ EN 14907:2006)
+## 1.10. Referencia-módszer a PM2,5 mintavételére és mérésére: a szálló porban a PM2,5 tömegkoncentrációjának meghatározása gravimetriás módszerrel a vonatkozó szabvány szerint (MSZ EN 12341:2014)
+
+## 1.11. Referencia-módszer a környezeti levegőben található összes gáz-halmazállapotú higany meghatározására: mintavétel és vizsgálati módszer az „A környezeti levegő minősége. Az összes gáz-halmazállapotú higany meghatározása szabványos módszerrel” című szabvány szerint (MSZ EN 15852:2010)
+
+## 1.12. Referencia-módszer az arzén, a kadmium és a nikkel kiülepedésének vizsgálatára: vizsgálati módszer az „A környezeti levegő minősége. A kiülepedett arzén, a kadmium, az ólom és a nikkel meghatározása szabványos módszerrel” című szabvány szerint (MSZ EN 15841:2010)
+
+## 1.13. Referencia-módszer a környezeti levegőben található higany kiülepedésének vizsgálatára: vizsgálati módszer az „A környezeti levegő minősége. A kiülepedett higany meghatározása szabványos módszerrel” című szabvány szerint (MSZ EN 15853:2010)
+
+## 1.14. Referencia-módszer policiklusos aromás szénhidrogének kiülepedésének vizsgálatára: vizsgálati módszer a „Levegőminőség. A kiülepedett benzo(a) antracén, benzo(b)fluorantén, benzo(j)florantén, benzo(k)fluorantén, benzo(a)pirén, dibenz(a,h)antracén és indeno(1,2,3-cd) pirén meghatározása” című szabvány szerint (MSZ EN 15980:2012)
 
 ## 2. Az egyenértékűség kimutatása
 
-## 2.1. Bármely olyan egyéb módszer alkalmazható, amely az 1. pontban felsorolt módszerek bármelyikével bizonyítottan egyenértékű eredményt ad, vagy szálló por esetében bármely olyan egyéb módszer, amely bizonyíthatóan szorosan kapcsolódik a referencia módszerhez. Ebben az esetben az ilyen módszerrel mért eredményeket a környezetvédelmi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: kormányhivatal) a Levegőtisztaság-védelmi Referencia Központtal egyeztetve korrigálja annak érdekében, hogy egyenértékű eredményt kapjon azzal, amit a referenciamódszerrel kapott volna.
+## 2.1. Bármely olyan egyéb módszer alkalmazható, amely az 1. pontban felsorolt módszerek bármelyikével bizonyítottan egyenértékű eredményt ad, vagy szálló por esetében bármely olyan egyéb módszer, amely bizonyíthatóan szorosan kapcsolódik a referencia-módszerhez. Ebben az esetben az ilyen módszerrel mért eredményeket a környezetvédelmi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: kormányhivatal) a Levegőtisztaság-védelmi Referencia Központtal egyeztetve korrigálja annak érdekében, hogy egyenértékű eredményt kapjon azzal, amit a referencia-módszerrel kapott volna.
 
 ## 2.2. Ha a Bizottság arra kötelezi Magyarországot, hogy nyújtson be jelentést az egyenértékűség 2.1. pontnak megfelelő kimutatásáról, az egyenértékűség közelítésére használt átmeneti tényezőket a Bizottság által közétett, a környezeti levegő monitoring módszerek egyenértékűségének kimutatásáról szóló útmutatónak megfelelően a Levegőtisztaság-védelmi Referencia Központ a kormányhivatallal egyeztetve módosítja vagy megerősíti.
 
-## 2.3. Ha a 2.1. vagy 2.2. pont szerinti rendelkezés alapján szükségessé válik a mérési eredmények korrekciója, azt a kormányhivatal az adatok jobb összehasonlíthatósága érdekében a régi mérési eredményeken is végrehajtja.
+## 2.3. Ha a 2.1. vagy 2.2. pont szerinti rendelkezés alapján szükségessé válik a mérési eredmények korrekciója, azt a kormányhivatal az adatok jobb összehasonlíthatósága érdekében a korábbi mérési eredményeken is végrehajtja.
 
 ## 3. Egységesítés
 
-## A gáz-halmazállapotú légszennyező anyagok térfogatát 293 K hőmérsékletre és 101,3 kPa légnyomásra kell átszámolni A szálló por és a szálló porban lévő elemzendő anyagok mintatérfogatát a mérés időpontja szerinti hőmérséklet és légnyomás értelmében vett környezeti feltételek határozzák meg.
+## A gáz-halmazállapotú légszennyező anyagok térfogatát 293 K hőmérsékletre és 101,3 kPa légnyomásra kell átszámolni. A szálló por és a szálló porban lévő elemzendő anyagok mintatérfogatát a mérés időpontja szerinti hőmérséklet és légnyomás értelmében vett környezeti feltételek határozzák meg.
 
-## 4. Berendezésekre vonatkozó követelmények
+## 4. Az adatok kölcsönös elismerése
 
-## 4.1. A jogszabály hatálybalépése után vásárolt valamennyi új mérőberendezésnek 2011. június 10-ig meg kell felelnie a referenciamódszernek vagy az azzal bizonyítottan egyenértékű módszernek.
+## 4.1. Annak igazolására, hogy egy adott berendezés megfelel az 1. pontban felsorolt referencia-módszerekben meghatározott követelményeknek a Levegőtisztaság-védelmi Referencia Központ elfogadja a más EU tagállamokban kibocsátott vizsgálati jelentéseket, amennyiben azokat a vizsgáló- és kalibráló- laboratóriumokra vonatkozó megfelelő harmonizált szabvány szerint akkreditált laboratórium bocsátotta ki.
 
-## 4.2 A helyhez kötött mérések során használt valamennyi berendezésnek 2013. június 10-ig meg kell felelnie a referenciamódszernek vagy az azzal bizonyítottan egyenértékű módszernek.
+## 4.2. A részletes vizsgálati jelentéseket és a vizsgálatok eredményeit más illetékes hatóságok vagy azok által kijelölt szervek számára elérhetővé kell tenni. A vizsgálati jelentéseknek be kell mutatniuk, hogy a berendezés megfelel valamennyi teljesítménybeli követelménynek, olyan esetben is, amikor egy tagállamban olyan speciális környezeti és helyi feltételek uralkodnak, amelyek eltérnek azoktól, amelyek mellett a berendezést másik tagállamban már vizsgálták és típusjóváhagyását megadták.
 
-## 5. Egy adott berendezésnek az 1. pontban felsorolt referenciamódszerekben meghatározott követelményeknek való megfelelését bizonyító típusjóváhagyás során az Országos Meteorológiai Szolgálat elfogadja a más EU tagállamok ilyen vizsgálatok végzésére az MSZ EN ISO/IEC 17025:2005 szabvány szerint akkreditált laboratóriumai által kibocsátott vizsgálati jelentéseket.
-
-8. melléklet a 6/2011. (I. 14.) VM rendelethez[^12]
+8. melléklet a 6/2011. (I. 14.) VM rendelethez[^31]
 
 ## Adatminőségi követelmények és a dokumentálás szempontjai
 
 1. Adatminőségi célkitűzések
 
-1.1. A benzolra, ólomra és a szálló porra vonatkozóan a folyamatos mérések helyett időszakos mérések is végezhetők, amennyiben igazolható, hogy a bizonytalanság – többek között az időszakos mintavétel okozta bizonytalanság – eléri a 25%-os minőségi célkitűzést, és a mérési időszak hosszabb, mint az indikatív mérésekre vonatkozó minimális mérési időszak. Az időszakos mintavételt az év folyamán egyenletesen kell elosztani az eredmények torzulásának elkerülése érdekében. Az időszakos mintavétel okozta bizonytalanságot az MSZ EN ISO 11222:2002 „Levegőminőség – a levegőminőségi mérések időátlagára vonatkozó bizonytalanság meghatározása” című szabványban megállapított eljárással lehet meghatározni. Ha a PM10-határértékre vonatkozó követelményeket időszakos mérésekkel vizsgálják, akkor a 90,4%-os percentilis értéket (amely 50 μg/m3 vagy annál kevesebb) kell értékelni a túllépések száma helyett, amelyet erősen befolyásol az adatfedezet.
+1.1. A benzolra, ólomra és a szálló porra vonatkozóan a folyamatos mérések helyett véletlenszerű mérések is végezhetők, amennyiben igazolható, hogy a bizonytalanság – többek között a véletlenszerű mintavétel okozta bizonytalanság – eléri a 25%-os minőségi célkitűzést, és a mérési időszak hosszabb, mint az indikatív mérésekre vonatkozó minimális mérési időszak. A véletlenszerű mintavételt az év folyamán egyenletesen kell elosztani az eredmények torzulásának elkerülése érdekében. A véletlenszerű mintavétel okozta bizonytalanságot az ISO 11222:2002 „Levegőminőség – a levegőminőségi mérések időátlagára vonatkozó mérési bizonytalanság meghatározása” című szabványban megállapított eljárással lehet meghatározni. Ha a PM10-határértékre vonatkozó követelményeket véletlenszerű mérésekkel vizsgálják, akkor a 90,4%-os percentilis értéket kell értékelni a túllépések száma helyett. A napi határértékek szempontjából a terület akkor megfelelő, ha a 90,4%-os percentilis érték 50 μg/m3 vagy annál kisebb.
 
 1.2. A vizsgálati módszer elfogadható bizonytalansága (%) és az értékeléshez minimálisan szükséges adatmennyiség, adatrendelkezésre állás (%), valamint a minimálisan szükséges vizsgálati időtartam (%):
 
@@ -112,17 +118,21 @@
 
 3. A környezeti levegőminőség vizsgálatának minőségbiztosítása: adathitelesítés
 
-3.1. A mérések pontosságának és az 1. pontban meghatározott adatminőségi célkitűzéseknek való megfelelés biztosítása érdekében az Lvr. szerinti környezetvédelmi hatóságok biztosítják, hogy:
+3.1. A mérések pontosságának és az 1. pontban meghatározott adatminőségi célkitűzéseknek való megfelelés biztosítása érdekében a Levegőtisztaság-védelmi Referencia Központ biztosítja, hogy:
 
-3.1.1. a levegő minőségének a vizsgálatával kapcsolatosan végzett valamennyi mérés nyomon követhető legyen, az MSZ EN ISO/IEC 17025:2005 5.6.2.2. szakaszában meghatározott követelményeknek megfelelően
+3.1.1. a környezeti levegő minőségének a vizsgálatával kapcsolatosan végzett valamennyi mérés nyomon követhető legyen a vizsgáló- és kalibrálólaboratóriumokra vonatkozó harmonizált szabvány követelményeknek megfelelően
 
-3.1.2. a hálózatokat és egyedi mérőállomásokat működtető intézmények rendelkezzenek kidolgozott minőségbiztosítási és minőség-ellenőrzési rendszerrel, amelyek rendszeres karbantartást írnak elő a mérési eszközök pontosságának biztosítása érdekében
+3.1.2. az adatgyűjtési és jelentéstételi folyamatokra minőségbiztosítási és minőségellenőrzési eljárás kerüljön kialakításra és vegyenek részt az ehhez kapcsolódó, a közösség egész területére kiterjedő minőségbiztosítási programokban
 
-3.1.3. az adatgyűjtési és jelentéstételi folyamatokra vonatkozóan minőség-ellenőrzési eljárást dolgozzanak ki, és hogy az erre a feladatra kijelölt intézmények aktívan részt vegyenek az ehhez kapcsolódó, a közösség egész területére kiterjedő minőségbiztosítási programokban
+3.1.3. az Európai Közösség egész területére kiterjedő, az Lvr. hatálya alá tartozó szennyező anyagokra vonatkozó kölcsönös összehasonlításokban részt vevő, a Levegőtisztaság-védelmi Referencia Központ által működtetett nemzeti referencialaboratórium az 5. mellékletben említett referencia-módszerek tekintetében legalább azon szennyezőanyagok vizsgálatára, amelyek koncentrációja meghaladja az alsó vizsgálati küszöbértéket rendelkezzen akkreditációval a [vizsgáló- és kalibrálólaboratóriumokra vonatkozó, az Európai Unió Hivatalos Lapjában közölt hivatkozás szerinti, az akkreditálás és piacfelügyelet előírásainak megállapításáról szóló 765/2008/EK rendelet 2. cikke (9) bekezdésének megfelelő] harmonizált szabvány szerint. Ez a laboratórium felelős a Bizottság Közös Kutatóközpontja által szervezendő, az Unió egész területére kiterjedő minőségbiztosítási programoknak a magyarországi koordinálásáért, valamint nemzeti szinten a referencia-módszerek megfelelő használatának koordinálásáért és a referencia módszerektől eltérő eljárások egyenértékűségének kimutatásáért. A nemzeti szintű összehasonlítást szervező nemzeti referencialaboratóriumnak rendelkeznie kell a jártassági vizsgálatokra vonatkozó harmonizált szabvány szerinti akkreditációval is
 
-3.1.4. az Európai Közösség egész területére kiterjedő, az Lvr. hatálya alá tartozó szennyező anyagokra vonatkozó kölcsönös összehasonlításokban részt vevő, az Lvr. szerinti környezetvédelmi hatóság által kinevezett nemzeti laboratóriumok az 5. mellékletben említett referencia-módszerek tekintetében az MSZ EN ISO/IEC 17025:2005 szabványnak megfelelően 2010-ig akkreditáltak legyenek. Ezeket a laboratóriumokat bevonják a Bizottság által szervezendő, a közösség egész területére kiterjedő minőségbiztosítási programoknak a tagállamok területén történő koordinálásába, és ezek a laboratóriumok koordinálják továbbá nemzeti szinten a referencia-módszerek megfelelő megvalósítását és a referencia-módszerektől eltérő eljárások egyenértékűségének kimutatását.
+3.1.4. a nemzeti referencialaboratórium legalább háromévente vegyen részt a Bizottság Közös Kutatóközpontja által szervezett, az Unió egész területére kiterjedő minőségbiztosítási programokban. Amennyiben e részvétel eredményei kedvezőtlenek, a nemzeti referencialaboratóriumnak a következő összehasonlító körmérés során be kell mutatnia és jelentésben összefoglalnia azokat az intézkedéseket, amelyek a kedvezőtlen eredményekért felelős problémák megoldását szolgálják
 
-3.2. Valamennyi, az Lvr. szerint jelentett adatot hitelesnek kell tekinteni, kivéve az ideiglenesként megjelölt adatokat.
+3.1.5. a nemzeti referencialaboratórium támogassa a Bizottság által felállított nemzeti referencialaboratóriumok európai hálózatának munkáját.
+
+3.2. A mérések pontosságának és az 1. pontban meghatározott adatminőségi célkitűzéseknek való megfelelés biztosítása érdekében a területi környezetvédelmi hatóság biztosítja, hogy az egyedi mérőállomásokat működtető intézmények rendelkezzenek kidolgozott minőségbiztosítási és minőségellenőrzési rendszerrel, amelyek rendszeres karbantartást írnak elő a mérési eszközök folyamatos pontosságának biztosítása érdekében. A minőségbiztosítási rendszert a Levegőtisztaság-védelmi Referencia Központnak szükség szerint, de legalább ötévente felül kell vizsgálnia.
+
+3.3. Valamennyi, az Lvr. szerint jelentett adatot hitelesnek kell tekinteni, kivéve az ideiglenesként megjelölt adatokat.
 
 4. A vizsgálati módszer dokumentálásának szempontjai
 
@@ -186,4 +196,4 @@
 
 |  | 6 | éves középérték | az egész évben mért 1 órás értékek vagy (ha ez nem áll rendelkezésre) 24 órás értékek 90%-a (az éves középérték kiszámítására vonatkozó követelmények nem foglalja magában a kalibrálás vagy az eszközök szokásos karbantartása miatt bekövetkezett adatveszteséget) |
 
-[^12]: A 8. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § c) pontja szerint módosított szöveg.
+[^31]: A 8. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § c) pontja, a 84/2016. (XII. 16.) FM rendelet 15. § c) pontja szerint módosított szöveg.

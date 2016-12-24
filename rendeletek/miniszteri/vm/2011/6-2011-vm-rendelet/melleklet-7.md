@@ -1,3 +1,3 @@
-7. melléklet a 6/2011. (I. 14.) VM rendelethez[^11]
+7. melléklet a 6/2011. (I. 14.) VM rendelethez[^30]
 
-[^11]: A 7. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § b) pontja szerint módosított szöveg.
+[^30]: A 7. melléklet a 84/2016. (XII. 16.) FM rendelet 13. §-ával megállapított szöveg.

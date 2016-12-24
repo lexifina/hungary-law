@@ -1,6 +1,6 @@
 10. § (1) Egyes légszennyező anyagok felső és alsó vizsgálati küszöbértékeit, valamint a vizsgálati küszöbértékek túllépésének feltételeit az 9. melléklet tartalmazza.
 
-(2)[^4] A 3. § (3)–(5) bekezdésében felsorolt légszennyező anyagokat rendszeresen kell vizsgálni és értékelni.
+(2)[^9] A 3. § (3)–(5) bekezdésében felsorolt légszennyező anyagokat rendszeresen kell vizsgálni és értékelni.
 
 (3) A (2) bekezdésbe nem foglalt határértékkel szabályozott légszennyező anyagok tekintetében a várhatóan határérték-közeli (a határérték 80%-át meghaladó) levegőterheltségi szint vizsgálatára eseti méréseket kell végezni.
 
@@ -8,4 +8,4 @@
 
 (5) Az arzén, kadmium, nikkel, benz(a)pirén meghatározása ezen elemek és vegyületeik összes mennyiségét jelenti a PM10 frakcióban.
 
-[^4]: A 10. § (2) bekezdése a 33/2015. (VI. 25.) FM rendelet 3. §-ával megállapított szöveg.
+[^9]: A 10. § (2) bekezdése a 33/2015. (VI. 25.) FM rendelet 3. §-ával megállapított szöveg.

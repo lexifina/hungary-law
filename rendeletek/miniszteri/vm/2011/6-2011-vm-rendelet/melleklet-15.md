@@ -1,4 +1,4 @@
-15. melléklet a 6/2011. (I. 14.) VM rendelethez
+15. melléklet a 6/2011. (I. 14.) VM rendelethez[^38]
 
 ## Az időszakos kibocsátás mérés szükséges időtartama
 
@@ -12,6 +12,8 @@
 
 1.1.3. Ha a vizsgált légszennyezőanyag koncentrációja nagyságrendileg azonos a kimutatási határral, akkor a mintavételi időt úgy kell megnövelni, hogy a vonatkozó határérték betartása a mérési hiba figyelembevétele esetén is egyértelműen eldönthető legyen.
 
-1.2. Az időszakos mérés szükséges időtartama időben ciklikusan változó kibocsátású technológiák esetén: a mérések időtartamát, a mintavételek számát – a ciklusok időtartamától függően – úgy kell megválasztani, hogy a mérési eredmények reprezentatívak legyenek, de lehetőleg három ciklus kibocsátása kerüljön meghatározásra.
+1.2. Ciklikusan változó kibocsátású technológiák esetén az időszakos mérések szükséges időtartamát, a mintavételek számát – a ciklusok időtartamától függően – úgy kell megválasztani, hogy a mérési eredmények reprezentatívak legyenek. Amennyiben egy ciklus időtartama a 16 órát nem haladja meg három, amennyiben egy ciklus időtartama 16 és 24 óra közé esik kettő, amennyiben 24 óránál hosszabb, egy ciklus kibocsátása kerüljön meghatározásra.
 
 1.3. Az időszakos mérés szükséges időtartama időben rendszertelenül változó kibocsátások esetén legalább 6 óra.
+
+[^38]: A 15. melléklet a 84/2016. (XII. 16.) FM rendelet 15. § f) pontja szerint módosított szöveg.

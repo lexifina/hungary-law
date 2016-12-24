@@ -1,16 +1,4 @@
-## Folyamatos kibocsátásmérésre kötelezett légszennyező technológiák és a mérendő légszennyező anyagok
-
-|  | A | B |
-
-| 1 | Cementipari technológiák klinkerégető kemencék | szilárd anyag |
-
-| 2 | Kohászati technológiák kupolókemencék 8 t/óra kapacitás felett | szilárd anyag, CO |
-
-| 3 | Titán-dioxid gyártás szulfát eljárás esetében | kén-oxidok (SO2, SO3) SO2-ben megadva, szilárd anyag |
-
-| 4 | Titán-dioxid gyártás klór eljárás esetében | klór, szilárd anyag |
-
-14. melléklet a 6/2011. (I. 14.) VM rendelethez
+14. melléklet a 6/2011. (I. 14.) VM rendelethez[^37]
 
 ## A légszennyező anyagok időszakos kibocsátás mérésére kötelezett tevékenységek esetében a mérések gyakorisága
 
@@ -30,7 +18,7 @@
 
 1.1.6. titán-dioxid gyártás szulfát eljárás esetén,
 
-1.1.7. helyhez kötött biogáz- és depóniagáz előállítás;
+1.1.7. helyhez kötött gázüzemű motorok működése esetén;
 
 1.2. kétévenként javasolt a mérés a következő, a technológiákra jellemző mértékadó pontforrásoknál (a folyamatosan mértek kivételével):
 
@@ -74,8 +62,10 @@
 
 1.2.20. aszfaltkeverés és -gyártás esetén,
 
-1.2.21. helyhez kötött gázüzemű motorok működése esetén;
+1.2.21.
 
 1.3. ötévenként javasolt a mérés minden egyéb technológiánál, amelynél a kibocsátás méréssel egyértelműen meghatározható.
 
-2. A légszennyező kérelme alapján, az alkalmazott technológiára való hivatkozással, a környezetvédelmi hatóság a kétévenként és az ötévenként javasolt időszakos mérés helyett ennél hosszabb időszakot is megállapíthat.
+2. A légszennyező kérelme alapján, az alkalmazott technológia egyenletes működésére vagy nem jelentős környezeti hatására való hivatkozással, a környezetvédelmi hatóság a kétévenként és az ötévenként javasolt időszakos mérés helyett ennél hosszabb időszakot is megállapíthat.
+
+[^37]: A 14. melléklet a 84/2016. (XII. 16.) FM rendelet 15. § e) pontja szerint módosított szöveg.

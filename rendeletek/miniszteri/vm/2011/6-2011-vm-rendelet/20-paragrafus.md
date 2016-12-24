@@ -1,1 +1,3 @@
-## 11. Diffúz források vizsgálata
+## 11.[^20]
+
+[^20]: A 11. alcímet (20. §) a 84/2016. (XII. 16.) FM rendelet 17. §-a hatályon kívül helyezte.

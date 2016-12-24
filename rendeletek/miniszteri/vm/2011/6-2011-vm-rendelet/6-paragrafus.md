@@ -6,4 +6,6 @@
 
 (4) A mérőrendszerek tervszerű, rendszeres megelőző karbantartását a gyártó által meghatározott gyakorisággal az üzemeltetőnek kell elvégezni.
 
-(5) A mérőeszközök ellenőrző kalibrálását évente el kell végezni. A mérőeszközök, mérőrendszerek üzembe helyezése, átalakítása vagy javítása után minden esetben ellenőrző kalibrálást kell végezni. Az ellenőrző kalibrálás a helyszínen is elvégezhető. A beépített folyamatos kibocsátásmérő rendszerek esetében legalább évente egy alkalommal a mérési módszer követelményeire akkreditált mérőeszközökkel összehasonlító kibocsátásmérést kell végezni.
+(5)[^8] A mérőeszközök ellenőrző kalibrálását évente el kell végezni. A mérőeszközök, mérőrendszerek üzembe helyezése, átalakítása vagy javítása után minden esetben ellenőrző kalibrálást kell végezni. Az ellenőrző kalibrálás a helyszínen is elvégezhető. A beépített folyamatos kibocsátásmérő rendszerek esetében legalább évente egy alkalommal az adott komponensre használt mérési módszer követelményeire akkreditált mérőszervezettel összehasonlító kibocsátásmérést kell végezni.
+
+[^8]: A 6. § 5) bekezdése a 84/2016. (XII. 16.) FM rendelet 4. §-ával megállapított szöveg.

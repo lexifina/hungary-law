@@ -36,38 +36,42 @@
 
 ## 3.4. Az ÁEM-t kell alkalmazni annak vizsgálatára, hogy teljesülnek-e az expozíciókoncentrációra vonatkozó kötelezettségek.
 
-11. melléklet a 6/2011. (I. 14.) VM rendelethez[^15]
+11. melléklet a 6/2011. (I. 14.) VM rendelethez[^34]
 
 ## Adatminőségi célkitűzések és a levegőminőségi modell követelményei a levegő arzén, kadmium, nikkel, benz(a)pirén tartalmának meghatározásához
 
 1. Adatminőségi célkitűzés
 
-1.1. A PM10 porfrakció vizsgálata során a mintavételi térfogatot 293 K hőmérsékletre és 101,3 kPa nyomásra kell vonatkoztatni.
+1.1. A PM10 frakcióban található anyagok elemzésénél a mintavételi térfogatot a mérés időpontja szerinti hőmérséklet- és légnyomásértékekre kell vonatkoztatni.
 
 |  |  | A | B | C | D | E |
 
 |  | 1 |  | Benz(a)pirén | Arzén, kadmium és nikkel | A benz(a)piréntől eltérő, policiklusos aromás szénhidrogének, összes gáznemű higany | Teljes ülepedés |
 
-|  | 2 | Mérési bizonytalanság Helyhez kötött és időszakos mérések | 50% | 40% | 50% | 70% |
+|  | 2 | Mérési bizonytalanság: Helyhez kötött és indikatív mérések | 50% | 40% | 50% | 70% |
 
-|  | 3 | Modellezés | 60% | 60% | 60% | 60% |
+|  | 3 | Mérési bizonytalanság: Modellezés | 60% | 60% | 60% | 60% |
 
 |  | 4 | Minimálisan szükséges adatmennyiség | 90% | 90% | 90% | 90% |
 
-|  | 5 | Minimálisan vizsgált időtartam Helyhez kötött mérések | 33% | 50% |  |  |
+|  | 5 | Minimális mérési időtartam: Helyhez kötött mérések | 33% | 50% |  |  |
 
-|  | 6 | Időszakos mérések (nem rendszeresen elvégzett mérés, amely a többi adatminőségi követelménynek megfelel) | 14% | 14% | 14% | 33% |
+|  | 6 | Minimális mérési időtartam: Indikatív mérések (csökkentett rendszerességgel elvégzett mérés, amely a többi adatminőségi követelménynek megfelel) | 14% | 14% | 14% | 33% |
 
-1.2. A megadott bizonytalansági százalékok a jellemző mintavételi időpontokra átlagolt egyedi mérésekre vonatkoznak 95%-os megbízhatósági intervallumban. A mérések bizonytalanságát úgy kell értelmezni, hogy az a megfelelő célérték tartományában alkalmazandó. Az eredmények torzításának elkerülése érdekében a helyhez kötött és az időszakos méréseket az év folyamán egyenletes eloszlásban kell elvégezni.
+1.1.1. A helyhez kötött méréseket és az indikatív méréseket egy évre elosztva úgy kell végrehajtani, hogy a különböző időjárási viszonyok és emberi tevékenységek vonatkozásában reprezentatív legyen.
 
-1.3. A minimális adatrögzítésre és minimális mérési időszakra vonatkozó követelmények nem tartalmazzák a műszerek rendszeres kalibrálásából vagy rendes karbantartásából származó adatvesztést. A benz(a)pirén és más policiklusos aromás szénhidrogének mérését 24 órás mintavétellel kell elvégezni. A legfeljebb egy hónapon keresztül vett egyedi minták összevonhatók és összetett mintaként elemezhetők, feltéve, hogy a módszer biztosítja, az adott időszakra a minták stabilitását. A három egynemű anyag, a benz(b)fluorantén, benz(j)fluorantén és a benz(k)fluorantén analitikus szétválasztása nehézséget okozhat. Ilyen esetekben a jelentés azok összegére is vonatkozhat. A 24 órás mintavétel az arzén-, kadmium- és nikkelkoncentráció mérésénél is javasolt. A mintavételt a munkanapok és a teljes év vonatkozásában, egyenletes eloszlásban kell elvégezni. Az ülepedés mérésére havi vagy heti mintavétel javasolt az év során.
+1.2. A megadott bizonytalansági százalékok a jellemző mintavételi időpontokra átlagolt egyedi mérésekre vonatkoznak 95%-os megbízhatósági intervallumban. A mérések bizonytalanságát úgy kell értelmezni, hogy az a megfelelő célérték tartományában alkalmazandó. Az eredmények torzításának elkerülése érdekében a helyhez kötött és az indikatív méréseket az év folyamán egyenletes eloszlásban kell elvégezni.
+
+1.3. A minimális adatrögzítésre és minimális mérési időszakra vonatkozó követelmények nem tartalmazzák a műszerek rendszeres kalibrálásából vagy rendes karbantartásából származó adatvesztést. A benz(a)pirén és más policiklusos aromás szénhidrogének mérését 24 órás mintavétellel kell elvégezni. A legfeljebb egy hónapon keresztül vett egyedi minták összevonhatók és összetett mintaként elemezhetők, feltéve, hogy a módszer biztosítja, az adott időszakra a minták stabilitását. A három egynemű anyag, a benz(b)fluorantén, benz(j)fluorantén és a benz(k)fluorantén analitikus szétválasztása nehézséget okozhat. Ilyen esetekben a jelentés azok összegére is vonatkozhat. A mintavételt a munkanapok és a teljes év vonatkozásában, egyenletes eloszlásban kell elvégezni. Az ülepedés mérésére havi vagy heti mintavétel javasolt az év során.
+
+1.3.1. Az 1.3. pont egyedi mintákra vonatkozó rendelkezései az arzén, kadmium, a nikkel és az összes gáznemű higany esetében is alkalmazandók. Megengedett továbbá a PM10 szűrők fémek tekintetében történő részmintavételezése utólagos elemzés céljából, amennyiben bizonyítható, hogy a részminta az egészre nézve reprezentatív, és a kimutatási érzékenység így is megfelel a vonatkozó adatminőségi célkitűzéseknek. A PM10 frakció fémtartalma tekintetében a napi mintavétel helyett heti mintavétel alkalmazható, amennyiben ez nem befolyásolja az adatgyűjtés jellemzőit.
 
 1.4. A teljes ülepedéssel végzett mintavételi módszer helyett kizárólag nedves mintavétel is alkalmazható, ha bizonyított, hogy a két módszer közti különbség 10%-nál kevesebb. Az ülepedést általában (μg/m2/nap mértékegységben kell megadni).
 
-1.5. A táblázatban meghatározottnál rövidebb minimális mérési időtartamot is lehet alkalmazni, ami azonban a helyhez kötött mérések esetén nem lehet 14%-nál, az időszakos mérések esetén pedig 6%-nál kevesebb, amennyiben bizonyított az MSZ ISO 11222:2002 – „A levegőminőségi mérések időátlagára vonatkozó bizonytalanság meghatározása” elnevezésű táblázatban meghatározott adatminőségi célkitűzések betartása.
+1.5. A táblázatban meghatározottnál rövidebb minimális mérési időtartamot is lehet alkalmazni, ami azonban a helyhez kötött mérések esetén nem lehet 14%-nál, az indikatív mérések esetén pedig 6%-nál kevesebb, amennyiben bizonyított az MSZ ISO 11222:2002 – „A levegőminőségi mérések időátlagára vonatkozó bizonytalanság meghatározása” elnevezésű táblázatban meghatározott adatminőségi célkitűzések betartása.
 
 2. A levegőminőségi modellezés bizonytalanságát a mért és a számított koncentrációk legnagyobb eltérésével kell meghatározni egy teljes év vonatkozásában, és figyelmen kívül kell hagyni az események időpontját.
 
 3. Az objektív becslési módszerek alkalmazása esetén a bizonytalanság nem érheti el a ±100%-ot.
 
-[^15]: A 11. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § f) pontja szerint módosított szöveg.
+[^34]: A 11. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § f) pontja, a 84/2016. (XII. 16.) FM rendelet 15. § d) pontja szerint módosított szöveg.

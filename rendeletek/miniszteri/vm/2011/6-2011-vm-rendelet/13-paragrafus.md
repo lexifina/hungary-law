@@ -1,4 +1,4 @@
-13. § (1) Folyamatos méréssel kell végezni a kibocsátás ellenőrzését azoknál a légszennyező tevékenységeknél és azokra a légszennyező anyagokra, amelyeket a 13. melléklet, valamint az 50MWth és annál nagyobb névleges bemenő hőteljesítményű tüzelőberendezések működési feltételeiről és légszennyező anyagainak kibocsátási határértékeiről szóló jogszabály és a hulladékok égetésének műszaki követelményeiről, működési feltételeiről és a hulladékégetés technológiai kibocsátási határértékeiről szóló jogszabály meghatároz.
+13. § (1)[^12] Folyamatos méréssel kell végezni a kibocsátás ellenőrzését azoknál a légszennyező tevékenységeknél és azokra a légszennyező anyagokra, amelyeket a 13. melléklet meghatároz.
 
 (2) A környezetvédelmi hatóság folyamatos kibocsátás ellenőrzést írhat elő:
 
@@ -11,3 +11,5 @@ c) a levegőterheltségi szintre vonatkozó határértékekről és a helyhez k�
 d) ha légszennyező anyagok kibocsátásának meghatározása megbízhatóan csak folyamatos méréssel történhet.
 
 (3) A légszennyező anyagok folyamatos ellenőrzése során az üzemeltetőnek biztosítani kell a környezetvédelmi hatóság részére a beépített műszerek mérési adatainak folyamatos ellenőrzését, a környezetvédelmi hatóság által meghatározott módon.
+
+[^12]: A 13. § (1) bekezdése a 84/2016. (XII. 16.) FM rendelet 6. §-ával megállapított szöveg.

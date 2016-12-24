@@ -14,6 +14,8 @@ d) felszín közeli ózon esetén a nitrogén-dioxidot a vidéki hátterű mér�
 
 (4) A nemzetközi adatszolgáltatás teljesítése érdekében az Országos Légszennyezettségi Mérőhálózat Üzemeltetési Ügyrendjében kijelölt levegőterheltségi szint mérőpont üzemeltetőjének a kijelölésben előírt mérési programot kell végrehajtania. A programban a PM10 mellett a PM2,5 frakciók vizsgálatát szükséges szerepeltetni.
 
-(5) Országosan egy kijelölt háttér mérőponton időszakos mintavétellel vizsgálni kell a levegőben található arzén, kadmium, nikkel, benz(a)pirén és a 3. § (4) bekezdésben előírt policiklusos aromás szénhidrogének koncentrációja mellett ezen légszennyezők teljes kiülepedését. Ahol erre lehetőség van, a méréseket a nagy távolságra jutó légszennyező anyagok megfigyelésére és értékelésére létrehozott Európai Megfigyelő és Értékelő Program (a továbbiakban: EMEP) keretében kell végezni.
+(5)[^7] Országosan egy kijelölt háttér mérőponton indikatív mintavétellel vizsgálni kell a levegőben található arzén, kadmium, nikkel, benz(a)pirén és a 3. § (4) bekezdésben előírt policiklusos aromás szénhidrogének koncentrációja mellett ezen légszennyezők teljes kiülepedését. Ahol erre lehetőség van, a méréseket a nagy távolságra jutó légszennyező anyagok megfigyelésére és értékelésére létrehozott Európai Megfigyelő és Értékelő Program (a továbbiakban: EMEP) keretében kell végezni.
 
 (6) Az ökológiai rendszereket érő regionális léptékű hatások bioindikátorok alkalmazásával is vizsgálhatók.
+
+[^7]: A 4. § (5) bekezdése a 84/2016. (XII. 16.) FM rendelet 16. § b) pontja szerint módosított szöveg.

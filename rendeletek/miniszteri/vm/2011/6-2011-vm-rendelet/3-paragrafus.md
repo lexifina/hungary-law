@@ -1,6 +1,6 @@
 ## 3. A levegőterheltségi szint mérése
 
-3. § (1) A levegőterheltségi szint mérését a (2) bekezdésben foglaltak figyelembevételével a kijelölt mérőponton állandó helyre telepített mérőrendszerrel vagy időszakosan, ismételt, illetve eseti méréssel kell végezni folyamatos vagy szakaszos mintavételi és mérési módszerek alkalmazásával. A mérőpontokat az 1., 2., 3. és 4. mellékletnek megfelelő helymegválasztással és sűrűséggel kell a környezetvédelmi hatóságnak kijelölni.
+3. § (1)[^5] A levegőterheltségi szint mérését a (2) bekezdésben foglaltak figyelembevételével a kijelölt mérőponton állandó helyre telepített mérőrendszerrel vagy időszakosan, ismételt, illetve eseti méréssel kell végezni folyamatos vagy szakaszos mintavételi és mérési módszerek alkalmazásával. A mérőpontokat az 1., 2., 3. és 4. mellékletnek megfelelő helymegválasztással és sűrűséggel kell a levegő védelméről szóló kormányrendeletben foglaltaknak megfelelő eljárás szerint meghatározni.
 
 (2) A kén-dioxid, nitrogén-dioxid és nitrogén-oxidok, PM10 és PM2,5, ólom, benzol és szén-monoxid mérésére kijelölt mérőpontok elhelyezésére vonatkozó követelményeket a 2. melléklet, a levegő ózontartalmát vizsgáló mérőpontok helykijelölésének szempontjait a 4. melléklet tartalmazza. A mérőpontok kijelölését rendszeresen, legalább 5 évenként felül kell vizsgálni, a kijelölést és a felülvizsgálatot a 2. melléklet szerint dokumentálni kell. A levegő arzén, kadmium, nikkel, benz(a)pirén koncentrációjának és az ülepedésnek a mérésére szolgáló mintavételi pontok elhelyezésének követelményeit az 5. melléklet határozza meg.
 
@@ -10,10 +10,11 @@
 
 (5) Az ózon előanyagokat (prekurzorokat) legalább egy helyen mérni kell. A méréssel, ellenőrzéssel kapcsolatos előírásokat a 6. melléklet tartalmazza.
 
-(6)[^3] A levegőterheltségi szint mérése során
+(6)[^6] A levegőterheltségi szint mérése során
 
 a) a 7. mellékletben meghatározott referencia-módszert, a mellékletben nem szabályozott légszennyező anyagokra a nemzeti szabványban rögzített mérési módszert kell alkalmazni;
 
 b) az a) pontban meghatározott módszerekkel egyenértékű módszer is alkalmazható a 7. melléklet 2. pontjában foglalt követelmények teljesülése esetén.
 
-[^3]: A 3. § (6) bekezdése a 33/2015. (VI. 25.) FM rendelet 2. §-ával megállapított szöveg.
+[^5]: A 3. § (1) bekezdése a 84/2016. (XII. 16.) FM rendelet 16. § a) pontja szerint módosított szöveg.
+[^6]: A 3. § (6) bekezdése a 33/2015. (VI. 25.) FM rendelet 2. §-ával megállapított szöveg.

@@ -14,10 +14,12 @@ b) a 300 MWth és az ennél nagyobb bemenő, névleges hőteljesítményű tüze
 
 (3) Az adatátviteli rendszer kiépítése és működtetése az üzemeltető feladata, az adatok fogadási feltételeit a hatóság biztosítja.
 
-(4) A hordozógázban mérni kell a légszennyező anyagok és az oxigén koncentrációját, valamint a hordozógáz térfogatáramát és hőmérsékletét.
+(4)[^13] A hordozógázban mérni kell a légszennyező anyagok, oxigénelvonással járó technológiák esetén az oxigén koncentrációját, valamint a hordozógáz térfogatáramát és hőmérsékletét.
 
 (5) A mérőrendszert úgy kell kialakítani, hogy az gátolja meg az illetéktelen hozzáférést és az eredmények megváltoztatását.
 
 (6) A mérőrendszer meghibásodását az üzemeltetőnek a környezetvédelmi hatóság részére 24 órán belül jelenteni kell.
 
 (7) A környezetvédelmi hatóság kötelezése alapján a folyamatos kibocsátásmérés adatait is be kell mutatni az értékeléssel együtt.
+
+[^13]: A 14. § (4) bekezdése a 84/2016. (XII. 16.) FM rendelet 7. §-ával megállapított szöveg.
