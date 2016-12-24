@@ -1,3 +1,1 @@
-9. § A Vht. Átmeneti rendelkezések alcíme a következő 306/W. §-sal egészül ki:
-
-„306/W. § E törvénynek a jogi segítségnyújtásról szóló 2003. évi LXXX. törvény és egyes törvények eljárásjogi kérdésekkel összefüggő módosításáról szóló 2016. évi CLVIII. törvénnyel (a továbbiakban: Módtv.) megállapított 140. § (2) bekezdését azokban a Módtv. hatálybalépésekor folyamatban lévő végrehajtási eljárásokban is alkalmazni kell, amelyekben a Módtv. hatálybalépését megelőzően a becsérték közlésére már sor került, de a végrehajtó még nem küldte meg a mező- és erdőgazdasági hasznosítású földek végrehajtási, felszámolási vagy önkormányzati adósságrendezési eljárás keretében árverés útján történő értékesítésének szabályairól szóló 191/2014. (VII. 31.) Korm. rendelet 1. §-a szerinti megkeresést az árverés lefolytatása érdekében a föld fekvése szerint illetékes mezőgazdasági igazgatási szervnek.”
+9. §
