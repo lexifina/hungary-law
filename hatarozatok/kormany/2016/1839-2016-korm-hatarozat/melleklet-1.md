@@ -102,8 +102,8 @@
 
 ## Határidő: a 7. ponthoz igazodva
 
-## 12. visszavonja a csepeli evezős és kajak-kenu központ megvalósításához szükséges egyes kérdésekről, valamint a rendkívüli kormányzati intézkedésekre szolgáló tartalékból történő előirányzat-átcsoportosításról szóló 1564/2014. (X. 2.) Korm. határozatot;
-
-## 13. visszavonja az egy budapesti kajak-kenu szlalom pálya megvalósíthatóságáról és lehetséges helyszíneinek vizsgálatáról szóló 1239/2016. (V. 13.) Korm. határozatot.
+## 12–13.[^1]
 
 1. melléklet az 1839/2016. (XII. 23.) Korm. határozathoz
+
+[^1]: A 12–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
