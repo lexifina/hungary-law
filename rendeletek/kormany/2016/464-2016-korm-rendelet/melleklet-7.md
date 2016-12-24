@@ -1,0 +1,3 @@
+7–11. melléklet a 464/2016. (XII. 23.) Korm. rendelethez[^36]
+
+[^36]: A 7–11. melléklet a 49. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
