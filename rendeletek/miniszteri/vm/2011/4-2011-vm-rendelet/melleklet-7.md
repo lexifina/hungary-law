@@ -2,7 +2,7 @@
 
 ## 1. A kibocsátási határérték tüzelési és termikus (a levegőből tényleges oxigén-elvonás történik) technológiáknál – ha jogszabály vagy hatósági határozat másként nem rendelkezik – a száraz véggáz 5 tf%-os O2 tartalmára, 273 K hőmérsékletre és 101,3 kPa nyomásra vonatkozik. A technológiai kibocsátási határérték légszennyező pontforrásonként értelmezendő.
 
-## 2. Tömegárammal szabályozott technológiai kibocsátási határértékek esetében, ha a légszennyező anyag kibocsátása a tömegáram alsó határa (küszöbértéke) alá esik, a kibocsátási határérték a tömegáram alsó határához hozzárendelt, mg/m3-ben megadott légszennyező anyag koncentráció, amelyet a küszöbérték alatt nem kell alkalmazni. Levegőtisztaság-védelmi alapbejelentést (LAL) a tömegáram küszöbérték alatti kibocsátásokkal működő technológiák esetén is kell tenni. Amennyiben a légszennyező anyag kibocsátása eléri vagy meghaladja a küszöbértéket, a légszennyezés éves mértékét (éves levegőtisztaság-védelmi jelentést) is be kell jelenteni. Ha jogszabály másként nem rendelkezik, a légszennyezőanyag koncentrációra meghatározott kibocsátási határértékek 273 K hőmérsékletű és 101,3 kPa nyomású száraz véggázra vonatkoznak.
+## 2. Tömegárammal szabályozott technológiai kibocsátási határértékek esetében, ha a légszennyező anyag kibocsátása a tömegáram alsó határa (küszöbértéke) alá esik, a kibocsátási határérték a tömegáram alsó határához hozzárendelt, mg/m3-ben megadott légszennyező anyag koncentráció, amelyet a küszöbérték alatt nem kell alkalmazni. Tömegáram küszöbérték alatti kibocsátással működő technológiák esetén levegőtisztaság-védelmi alapbejelentést (LAL) minden esetben tenni kell és az üzemeltetőnek a levegő védelméről szóló kormányrendelet szerinti éves levegőtisztaság-védelmi jelentés (LM) borítólapján évente nyilatkoznia kell, hogy a tevékenység a megelőző évben tömegáram küszöbérték alatti kibocsátással működött. Azokról a tömegáram küszöbérték alatti kibocsátással működő technológiákról, amelyeknél az engedélyezésnél figyelembe vett kibocsátási koncentráció meghaladja az e jogszabályban a tömegáram küszöb feletti tevékenységekre vonatkozó kibocsátási határértéket a levegő védelméről szóló kormányrendelet szerinti teljes adattartalmú éves levegőtisztaság-védelmi jelentést (LM) kell benyújtani. Amennyiben a légszennyező anyag kibocsátása eléri vagy meghaladja a küszöbértéket, a légszennyezés éves mértékét (éves levegőtisztaság-védelmi jelentést) is be kell jelenteni. Ha jogszabály másként nem rendelkezik, a légszennyezőanyag koncentrációra meghatározott kibocsátási határértékek 273 K hőmérsékletű és 101,3 kPa nyomású száraz véggázra vonatkoznak.
 
 ## 2.1.1. Szilárd anyag és por alakú szervetlen anyagok
 
@@ -576,7 +576,7 @@
 
 | 3 | Azbeszt | 0,0005 vagy ennél nagyobb | 1000 |
 
-7. melléklet a 4/2011. (I. 14.) VM rendelethez[^16]
+7. melléklet a 4/2011. (I. 14.) VM rendelethez[^17]
 
 Eljárásspecifikus technológiai kibocsátási határértékek és egyéb előírások
 
@@ -1360,4 +1360,4 @@ Szilárd anyag (festék és lakk részecskék) kibocsátási határértéke: 3 m
 
 2.56.2. A kibocsátási határérték 11 tf% O2-tartalmú, 273 K hőmérsékletű, 101,3 kPa nyomású száraz véggázra vonatkozik.
 
-[^16]: A 7. melléklet a 71/2012. (VII. 16.) VM rendelet 7. §-a, a 33/2015. (VI. 25.) FM rendelet 5. §-a, a 12/2016. (II. 29.) FM rendelet 5–6. §-a szerint módosított szöveg.
+[^17]: A 7. melléklet a 71/2012. (VII. 16.) VM rendelet 7. §-a, a 33/2015. (VI. 25.) FM rendelet 5. §-a, a 12/2016. (II. 29.) FM rendelet 5–6. §-a szerint módosított szöveg.
