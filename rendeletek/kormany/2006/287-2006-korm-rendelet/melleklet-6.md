@@ -1,3 +1,5 @@
+## Kötelezően vezetendő intézményi várólisták köre
+
 | Várólista azonosító | Várólista megnevezés | Beavatkozás OENO kódja | Beavatkozás megnevezés |
 
 | 001 | Szürkehályog műtétei | 51460 | Phakoemulsificatio |
@@ -392,6 +394,6 @@
 
 | 026 | Jelentős kiterjesztett gerincműtétek | 5812K | Kombinált ventro-dorsalis gerincműtét |
 
-6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^67]
+6. számú melléklet a 287/2006. (XII. 23.) Korm. rendelethez[^66]
 
-[^67]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
+[^66]: A 6. számú mellékletet a 8/2008. (I. 23.) Korm. rendelet 5. § (2) bekezdése iktatta be, szövege a 92/2012. (IV. 27.) Korm. rendelet 21. § (1) bekezdésével megállapított szöveg.
