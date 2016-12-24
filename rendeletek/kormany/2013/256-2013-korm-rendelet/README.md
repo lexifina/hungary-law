@@ -25,3 +25,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-256-20-
 | 2016-08-17 | 2013-256-20-22.17 | 205/2016. (VII. 21.) Korm. rendelet |
 | 2016-09-16 | 2013-256-20-22.18 | 276/2016. (IX. 15.) Korm. rendelet |
 | 2016-11-24 | 2013-256-20-22.19 | 359/2016. (XI. 23.) Korm. rendelet |
+| 2016-12-24 | 2013-256-20-22.20 | 162/2015. (VI. 30.) Korm. rendelet |
