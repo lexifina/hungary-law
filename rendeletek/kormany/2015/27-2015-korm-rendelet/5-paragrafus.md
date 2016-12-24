@@ -1,4 +1,4 @@
-## 4. § A MÖKtv., a Ttv., az Esztergom Város Önkormányzata egyes intézményeinek átvételéről szóló 2011. évi CLXXXVI. törvény, valamint az egészségügyi ellátórendszer fejlesztéséről szóló 2006. évi CXXXII. törvény alapján átvett, és a miniszter irányítása alá tartozó gyógyintézetek, valamint az Országos Vérellátó Szolgálat tekintetében középirányító szervként az ÁEEK gyakorolja az államháztartásról szóló 2011. évi CXCV. törvény 9. § b) és g)–j) pontja szerinti irányítási hatásköröket.
+## 4/A. §[^1] A 3. § a) és b) pontja, valamint a 4. § nem alkalmazható azon kórházakra, amelyek tekintetében a miniszter a nemzeti felsőoktatásról szóló 2011. évi CCIV. törvény 97. § (2) vagy (3) bekezdése alapján egészségügyi felsőoktatási intézményre ruházta át az irányítási hatásköröket.
 
 5. § (1) Az ÁEEK a 4. § szerinti intézmények vonatkozásában
 
@@ -26,7 +26,7 @@ k) előkészíti és jóváhagyás céljából megküldi a miniszternek a minisz
 
 l) jogosult a közbeszerzéseket összevontan lefolytatni, valamint az intézmények közbeszerzési eljárásaival kapcsolatban folyamatba épített és utóellenőrzéseket végezni,
 
-m)[^1] jogosult
+m)[^2] jogosult
 
 ma) az egészségügyi tevékenység végzésének egyes kérdéseiről szóló 2003. évi LXXXIV. törvény 15/D. §-ában foglalt tartalommal a munkáltató által adott írásbeli meghatalmazás alapján, a munkáltató helyett és nevében kollektív szerződés megkötésére,
 
@@ -34,7 +34,8 @@ mb) az ma) alpont alapján kötött kollektív szerződést a munkáltatók ált
 
 (2) Az az egészségügyi szolgáltató, amelynek fenntartói jogait az ÁEEK gyakorolja, a finanszírozási szerződés megkötéséről, módosításáról, megszűnéséről az ÁEEK-et tájékoztatja.
 
-(3)[^2] Az ÁEEK által kötött kollektív szerződés hatálya a meghatalmazást adó munkáltatónál közalkalmazotti jogviszonyban álló egészségügyi dolgozókra terjed ki és a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 276. § (5) bekezdése szerint több munkáltatós kollektív szerződésnek minősül az egészségügyi ágazatban. A meghatalmazást adó munkáltató a kollektív szerződést magára kiterjedő hatállyal az Mt. 280. §-a szerint mondhatja fel.
+(3)[^3] Az ÁEEK által kötött kollektív szerződés hatálya a meghatalmazást adó munkáltatónál közalkalmazotti jogviszonyban álló egészségügyi dolgozókra terjed ki és a munka törvénykönyvéről szóló 2012. évi I. törvény (a továbbiakban: Mt.) 276. § (5) bekezdése szerint több munkáltatós kollektív szerződésnek minősül az egészségügyi ágazatban. A meghatalmazást adó munkáltató a kollektív szerződést magára kiterjedő hatállyal az Mt. 280. §-a szerint mondhatja fel.
 
-[^1]: Az 5. § (1) bekezdés m) pontját a 172/2016. (VII. 1.) Korm. rendelet 70. § (1) bekezdése iktatta be.
-[^2]: Az 5. § (3) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 70. § (2) bekezdése iktatta be.
+[^1]: A 4/A. §-t a 464/2016. (XII. 23.) Korm. rendelet 39. §-a iktatta be.
+[^2]: Az 5. § (1) bekezdés m) pontját a 172/2016. (VII. 1.) Korm. rendelet 70. § (1) bekezdése iktatta be.
+[^3]: Az 5. § (3) bekezdését a 172/2016. (VII. 1.) Korm. rendelet 70. § (2) bekezdése iktatta be.

@@ -20,14 +20,14 @@ g) 1/H. § (3) és (7) bekezdése,
 
 h) 1/I. § (3), (6) és (7) bekezdése
 
-szerinti feladatok ellátására.
+## szerinti feladatok ellátására.
 
-(4)[^3] A Kormány az ÁEEK-et jelöli ki az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 35/A. §-a szerinti Elektronikus Egészségügyi Szolgáltatási Tér működtetőjeként.
+(4)[^4] A Kormány az ÁEEK-et jelöli ki az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 35/A. §-a szerinti Elektronikus Egészségügyi Szolgáltatási Tér működtetőjeként.
 
-(5)[^4] A Kormány az ÁEEK-et jelöli ki az Eüak. 35/H. §-a szerinti önrendelkezési nyilvántartást vezető szervként.
+(5)[^5] A Kormány az ÁEEK-et jelöli ki az Eüak. 35/H. §-a szerinti önrendelkezési nyilvántartást vezető szervként.
 
-(6)[^5] A Kormány az ÁEEK-et jelöli ki az Eüak. 35/L. §-a szerinti feladatok ellátására kapcsolati kódot kezelő szervként.
+(6)[^6] A Kormány az ÁEEK-et jelöli ki az Eüak. 35/L. §-a szerinti feladatok ellátására kapcsolati kódot kezelő szervként.
 
-[^3]: A 6. § (4) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
-[^4]: A 6. § (5) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
-[^5]: A 6. § (6) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
+[^4]: A 6. § (4) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
+[^5]: A 6. § (5) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
+[^6]: A 6. § (6) bekezdését a 413/2015. (XII. 23.) Korm. rendelet 75. §-a iktatta be.
