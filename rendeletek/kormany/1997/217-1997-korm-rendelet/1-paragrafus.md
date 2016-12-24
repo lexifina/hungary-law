@@ -30,7 +30,7 @@ j)[^12] rendeltetési csoport: az MSZ EN ISO 9999 szabvány szerinti negyedik sz
 
 k)[^13] rövid használati idejű eszköz: hat hónapnál nem hosszabb kihordási idejű, egyszer használatos eszköznek nem minősülő gyógyászati segédeszköz,
 
-l)[^14] kombinált kiszerelés: olyan gyógyászati segédeszköz, amely úgy jön létre, hogy a forgalomba hozó kettő vagy több, általa forgalomba hozott, azonos kihordási idejű, egyszer használatos vagy rövid használati idejű eszközt – az eszközök csomagolására vonatkozó szabályok betartásával – gyárilag egy kiszerelésbe helyez, és e kiszerelésre vonatkozóan a Gyftv. 32. §-a szerinti külön kérelmet nyújt be az OEP-hez,
+l)[^14] kombinált kiszerelés: olyan gyógyászati segédeszköz, amely úgy jön létre, hogy a forgalomba hozó kettő vagy több, általa forgalomba hozott, azonos kihordási idejű, egyszer használatos vagy rövid használati idejű eszközt – az eszközök csomagolására vonatkozó szabályok betartásával – gyárilag egy kiszerelésbe helyez, és e kiszerelésre vonatkozóan a biztonságos és gazdaságos gyógyszer- és gyógyászatisegédeszköz-ellátás, valamint a gyógyszerforgalmazás általános szabályairól szóló 2006. évi XCVIII. törvény (a továbbiakban: Gyftv.) 32. §-a szerinti külön kérelmet nyújt be az OEP-hez,
 
 m)[^15] baleset: balesetnek minősül az emberi szervezetet ért olyan egyszeri külső hatás, amely a sérült akaratától függetlenül, hirtelen vagy rövid idő alatt következik be, és sérülést, mérgezést, más (testi, lelki) egészségkárosodást vagy halált okoz,
 
@@ -69,7 +69,7 @@ p)[^18] keresőtevékenység: a társadalombiztosítás ellátásaira és a mag�
 [^11]: A Vhr. 1. § (2) bekezdés i) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
 [^12]: A Vhr. 1. § (2) bekezdés j) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
 [^13]: A Vhr. 1. § (2) bekezdés k) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
-[^14]: A Vhr. 1. § (2) bekezdés l) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be.
+[^14]: A Vhr. 1. § (2) bekezdés l) pontját a 151/2010. (IV. 30.) Korm. rendelet 1. §-a iktatta be, szövege a 464/2016. (XII. 23.) Korm. rendelet 3. § a) pontja szerint módosított szöveg.
 [^15]: A Vhr. 1. § (2) bekezdés m) pontját a 254/2013. (VII. 5.) Korm. rendelet 1. § (2) bekezdése iktatta be.
 [^16]: A Vhr. 1. § (2) bekezdés n) pontját az 520/2013. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
 [^17]: A Vhr. 1. § (2) bekezdés o) pontját az 520/2013. (XII. 30.) Korm. rendelet 1. §-a iktatta be.
