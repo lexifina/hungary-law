@@ -1,30 +1,4 @@
-## 1. A Makovecz Imre életművének gondozásáról szóló 2022/2015. (XII. 29.) Korm. határozat (a továbbiakban: Határozat) 10. pontjában a „Makovecz Imre Pályázati Alap” szövegrész helyébe „Makovecz Imre Alap” szöveg lép.
-
-## 2. A Határozat 12. pontja helyébe a következő rendelkezés lép:
-
-## (A Kormány)
-
-## „12. felhívja a nemzetgazdasági minisztert, hogy az emberi erőforrások minisztere, a Miniszterelnökséget vezető miniszter és a Magyar Művészeti Akadémia elnöke, bevonásával
-
-## a) a 3. pontban rögzített feladat előkészítésére a 2018. évben legfeljebb 15,0 millió forint, a 2019. évben legfeljebb 25,0 millió forint, a 2020. évben legfeljebb 40,0 millió forint,
-
-## b) az 5. pontban rögzített ötéves feladatterv végrehajtásához a 2016. évben legfeljebb 42,0 millió forint, a 2017. évben legfeljebb 82,0 millió forint, 2018. évben legfeljebb 63,0 millió forint, a 2019. évben legfeljebb 95,0 millió forint, a 2020. évben legfeljebb 109,0 millió forint,
-
-## c) a 2017. évben a 7. pontban rögzített oktatási segédanyag elkészítésére legfeljebb 10,0 millió forint, a 2018–2020. évek között a 7. pontban rögzített gyakorlati rendszer kialakítására, működtetésének megalapozására évente legfeljebb 30,0 millió forint összegben biztosítson forrást a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 12. Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra alcím, 7. Közkultúra, kulturális vidékfejlesztés és nemzetiségi kultúra támogatása jogcímcsoport, 2. Közművelődési szakmai feladatok jogcím javára,
-
-## d) a 10. pontban rögzített, az egyes projektek lehetséges forrásainak meghatározását követően, a fejlesztések támogatása érdekében gondoskodjon a XX. Emberi Erőforrások Minisztériuma fejezet, 20. Fejezeti kezelésű előirányzatok cím, 50. Kulturális szakmai feladatok támogatása alcímen belül a 10. Makovecz Imre Alap jogcímcsoport megnyitásáról, továbbá annak javára a 2016. évben 7000,0 millió forint, a 2017–2020. évek között évente legfeljebb 1400,0 millió forint összegben biztosítson forrást a XX. Emberi Erőforrások Minisztériuma fejezetben, valamint,
-
-## e) az 5. pontban rögzített ötéves feladatterv szerint Makovecz Imre Emlékközpont kialakítására, működtetésére a 2017. évben legfeljebb 141,0 millió forint, valamint a 2018. évtől kezdődően tartós jelleggel legfeljebb 106,0 millió forint összegben biztosítson forrást a XXXIV. Magyar Művészeti Akadémia fejezetben;
-
-## Felelős: nemzetgazdasági miniszter
-
-## emberi erőforrások minisztere
-
-## Miniszterelnökséget vezető miniszter
-
-## Magyar Művészeti Akadémia elnökének felkérésével
-
-## Határidő: a felmerülés ütemében”
+## 1–2.[^1]
 
 ## 3. A Kormány felhívja a Miniszterelnökséget vezető minisztert, hogy – a nemzeti fejlesztési miniszter, a nemzetgazdasági miniszter és az emberi erőforrások minisztere bevonásával – vizsgálja meg az 1. mellékletben foglalt célok megvalósulása érdekében azok 2016. évi finanszírozásának esetleges lehetőségét.
 
@@ -81,3 +55,5 @@
 | Zalaegerszeg | Boldogasszony kápolna építése a Gébárti-tónál | Zalaegerszeg 8900, Gébárti tó | Zalaegerszeg, hrsz. 737/50 | Önkormányzat | 60 000 000 | 60 000 000 |
 
 |  |  |  |  |  | 7 000 000 000 | 8 400 000 000 |
+
+[^1]: Az 1–2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
