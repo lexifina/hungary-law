@@ -1,5 +1,5 @@
-## 26–27. §[^20]
+## 26–27. §[^22]
 
 ## 10. A dohánytermékek előállításáról, forgalomba hozataláról és ellenőrzéséről, a kombinált figyelmeztetésekről, valamint az egészségvédelmi bírság alkalmazásának részletes szabályairól szóló 39/2013. (II. 14.) Korm. rendelet módosítása
 
-[^20]: A 26–27. § a 49. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^22]: A 26–27. § a 49. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

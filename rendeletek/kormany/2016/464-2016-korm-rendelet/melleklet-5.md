@@ -1,3 +1,3 @@
-5. melléklet a 464/2016. (XII. 23.) Korm. rendelethez[^34]
+5. melléklet a 464/2016. (XII. 23.) Korm. rendelethez[^37]
 
-[^34]: Az 5. melléklet a 49. § (4) bekezdése alapján 2017. március 1-jén lép hatályba.
+[^37]: Az 5. melléklet a 49. § (4) bekezdése alapján 2017. március 1-jén lép hatályba.

@@ -1,3 +1,3 @@
-1. melléklet a 464/2016. (XII. 23.) Korm. rendelethez[^31]
+1. melléklet a 464/2016. (XII. 23.) Korm. rendelethez[^34]
 
-[^31]: Az 1. melléklet a 49. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^34]: Az 1. melléklet a 49. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

@@ -1,4 +1,4 @@
-## 29–32. §[^22]
+## 29–32. §[^24]
 
 ## 12. A közforgalmú gyógyszertári tulajdoni hányadra vonatkozó elővásárlási jog
 
@@ -6,4 +6,4 @@
 
 ## 331/2013. (IX. 5.) Korm. rendelet módosítása
 
-[^22]: A 29–32. § a 49. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^24]: A 29–32. § a 49. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
