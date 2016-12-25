@@ -1,1 +1,3 @@
-## 8. § A 256/2013. (VII. 5.) Korm. rendelet 2. melléklete az 1. melléklet szerint módosul.
+## 8. §[^5]
+
+[^5]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

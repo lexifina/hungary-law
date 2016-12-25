@@ -1,9 +1,3 @@
-## 6. § A 256/2013. (VII. 5.) Korm. rendelet 9. §-a helyébe a következő rendelkezés lép:
+## 6. §[^3]
 
-## „9. § (1) A 2. mellékletben foglalt táblázat 255–257. sora szerinti egészségügyi szolgáltatónak az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó, az egyes egészségügyi dolgozók és egészségügyben dolgozók illetmény- vagy bérnövelésének, valamint az ahhoz kapcsolódó támogatás igénybevételének részletes szabályairól szóló 256/2013. (VII. 5.) Korm. rendelet módosításáról szóló 461/2016. (XII. 23.) Korm. rendelet hatálybalépésének napján jogviszonyban álló foglalkoztatottja bérkiegészítésre 2016. szeptember 1-jétől, de legfeljebb a munkáltatónál fennálló, az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó foglalkoztatási jogviszonya időtartamára jogosult.
-
-## (2) Az (1) bekezdés szerinti bérkiegészítés megvalósítása során a foglalkoztatottat a 2016. augusztus 1-jén hatályos jogszabályi rendelkezések és a munkaszerződése alapján megillető alapbér, valamint rendszeres pótlék vagy pótlékok együttes összegét 2016. szeptember 1-jével a 3. mellékletben szereplő összeggel meg kell emelni.
-
-## (3) Az (1) bekezdés szerint bérkiegészítésre jogosult foglalkoztatott részére – legfeljebb az egészségügyi ágazati előmeneteli rendszer hatálya alá tartozó munkakörben történő foglalkoztatásának időtartamára – a (2) bekezdés szerinti havi béremelési összeget egy összegű bérkülönbözetként kell megállapítani, és azt a 2016. december havi munkabér kifizetésével egyidejűleg kell kifizetni.
-
-## (4) A munkáltató által, a (3) bekezdés szerinti időszakra vonatkozóan kifizetendő bérkülönbözet biztosítása érdekében igényelhető támogatás összege megegyezik a munkáltató által kifizetendő bérkülönbözetnek a kifizetőt terhelő adókkal és járulékokkal megnövelt mértékével, amelyet részletesen a 4. melléklet tartalmaz.”
+[^3]: A 6. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
