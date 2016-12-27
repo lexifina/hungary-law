@@ -19,3 +19,11 @@ Felelős: nemzeti fejlesztési miniszter
 nemzetgazdasági miniszter
 
 Határidő: 2016. május 31.
+
+4.[^1] felhívja a nemzetgazdasági minisztert, hogy az elektromos üzemű gépjárművek használatához szükséges töltő-infrastruktúra fejlesztése érdekében intézkedjen arra vonatkozóan, hogy a Közbeszerzési és Ellátási Főigazgatóság a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V. 25.) Korm. rendelet szabályainak alkalmazásával folytasson le központosított közbeszerzési eljárást elektromos üzemű gépjárművek töltő berendezéseinek beszerzésére.
+
+Felelős: nemzetgazdasági miniszter
+
+Határidő: 2017. július 31.
+
+[^1]: A 4. pontot az 1855/2016. (XII. 27.) Korm. határozat iktatta be.
