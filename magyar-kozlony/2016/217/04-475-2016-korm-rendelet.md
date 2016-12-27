@@ -1,0 +1,252 @@
+# A Kormány 475/2016. (XII. 27.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 217. szám, 2016. december 27. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/c922ee1bc164325a91a5aa8cc41b40a4ef09d9d8/dokumentumok/b0fc22f8aeeb558d7f32cd4eef8fd06e0a0ea8a7/letoltes)
+
+---
+
+A Kormány 475/2016. (XII. 27.) Korm. rendelete
+egyes sport tárgyú kormányrendeletek módosításáról
+A Kormány a sportról szóló 2004. évi I. törvény 79. § (1) bekezdés b) pont bd) alpontjában,
+a 2. alcím tekintetében a sportról szóló 2004. évi I. törvény 79. § (1) bekezdés b) pont bb) alpontjában kapott felhatalmazás
+alapján,
+a 3. és 4. alcím tekintetében a sportról szóló 2004. évi I. törvény 79. § (1) bekezdés b) pont be) alpontjában kapott felhatalmazás
+alapján,
+az 5. alcím tekintetében a sportról szóló 2004. évi I. törvény 79. § (1) bekezdés b) pont bg) alpontjában kapott felhatalmazás
+alapján,
+a 6. alcím tekintetében a sportról szóló 2004. évi I. törvény 79. § (1) bekezdés b) pont ba) alpontjában kapott felhatalmazás
+alapján,
+a 7. alcím tekintetében a sportról szóló 2004. évi I. törvény 79. § (1) bekezdés b) pont bj) alpontjában kapott felhatalmazás
+alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
+1. Az olimpiai központokról szóló 38/2004. (III. 12.) Korm. rendelet módosítása
+1. §
+Az olimpiai központokról szóló 38/2004. (III. 12.) Korm. rendelet (a továbbiakban: R1.) 7. §-a helyébe a következő
+rendelkezés lép:
+„7. § Az olimpiai központokat sportszakmai szempontból a Magyar Olimpiai Bizottság és a Magyar Paralimpiai
+Bizottság közreműködésével a sportpolitikáért felelős miniszter, vagyongazdálkodási és létesítményfejlesztési
+szakmai szempontból az állami vagyon felügyeletéért felelős miniszter felügyeli.”
+2. §
+Az R1. 6. §-ában a „sportigazgatási szerv vezetője” szövegrész helyébe a „sportpolitikáért felelős miniszter” szöveg
+lép.
+2. A sportfegyelmi felelősségről szóló 39/2004. (III. 12.) Korm. rendelet módosítása
+3. §
+A sportfegyelmi felelősségről szóló 39/2004. (III. 12.) Korm. rendelet 1. §-a helyébe a következő rendelkezés lép:
+„1. § E rendelet alkalmazásában sportszervezet: a sportról szóló 2004. évi I. törvény 15. § (1) bekezdésében
+meghatározott szervezet.”
+3. A Nemzet Sportolója címről szóló 40/2004. (III. 12.) Korm. rendelet módosítása
+4. §
+A Nemzet Sportolója címről szóló 40/2004. (III. 12.) Korm. rendelet (a továbbiakban: R2.)
+a) 2. § (4) bekezdés b) pontjában a„MOB-nak”szövegrész helyébe a„miniszternek”szöveg,
+b) 4. § (4) és (7) bekezdésében a„MOB”szövegrész helyébe a„miniszter”szöveg
+lép.
+5. §
+Hatályát veszti az R2. 2. § (3) bekezdésében az „és a Magyar Olimpiai Bizottság (a továbbiakban: MOB) képviselője”
+szövegrész.
+4. Az olimpiai járadékról szóló 41/2004. (III. 12.) Korm. rendelet módosítása
+6. §
+Az olimpiai járadékról szóló 41/2004. (III. 12.) Korm. rendelet (a továbbiakban: R3.) 1. §-a helyébe a következő
+rendelkezések lépnek:
+„1. § (1) E rendelet hatálya a sportról szóló 2004. évi I. törvény (a továbbiakban: Stv.) 59. §-ában meghatározott
+olimpiai, paralimpiai és Siketlimpián, Sakkolimpián érmes helyezést elért személyre (a továbbiakban: érmes), annak
+özvegyére és edzőjére terjed ki.
+(2) E rendelet rendelkezései nem érintik az Stv. alapján olimpiai, paralimpiai, illetve Siketlimpia-, Sakkolimpia-
+járadékra (a továbbiakban: járadék) jogosult érmesnek az egyéni, illetve csapatverseny számban szerzett
+világbajnoki címe alapján – az egyes nyugdíjak felülvizsgálatáról, illetőleg egyes nyugdíj-kiegészítések
+megszüntetéséről szóló 1991. évi XII. törvény szerint – járó pótléka folyósítását.”
+
+7. §
+Az R3. 7. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Annak a fogyatékos sportolónak, aki olimpiai helyezés, valamint paralimpiai helyezés vagy Siketlimpián,
+Sakkolimpián elért helyezés alapján is járadékra jogosult, csak a választása szerinti egyik jogcímen lehet a járadékot
+folyósítani.”
+8. §
+Az R3.
+a) 2. § (1) bekezdésében a„sportigazgatási szervhez” szövegrész helyébe a„sportpolitikáért felelős miniszterhez
+(a továbbiakban: miniszter)”szöveg,
+b) 2. § (2) bekezdésében, valamint 3. § (1) bekezdésében a „sportigazgatási szervhez” szövegrész helyébe
+a„miniszterhez”szöveg,
+c) 2. § (3) bekezdésében a„sportigazgatási szervet”szövegrész helyébe a„minisztert”szöveg,
+d) 3. § (2) és (3) bekezdésében, 6. § (2), (4) és (5) bekezdésében, 9. § (1) és (3) bekezdésében, valamint 10. §-ában
+a„sportigazgatási szerv”szövegrész helyébe a„miniszter”szöveg,
+e) 6. § (1) bekezdésében a„sportigazgatási szervtől”szövegrész helyébe a„minisztertől”szöveg,
+f) 11. § (2) bekezdésében a„sportigazgatási szervnél”szövegrész helyébe a„miniszternél”szöveg,
+g) 1. számú melléklet 8. pontjában, 2. számú melléklet 9. pontjában, valamint 3. számú melléklet 8. pontjában
+az „Olimpiai, Paralimpiai Játékokon, a Siketek Világjátékain” szövegrész helyébe az „Olimpiai Játékokon,
+Paralimpiai Játékokon, Siketlimpián, Sakkolimpián”szöveg,
+h) 1. számú mellékletében, 2. számú mellékletében, valamint 3. számú mellékletében a „Fogyatékosok Nemzeti
+Sportszövetségével”szövegrész helyébe a„Nemzeti Versenysport Szövetséggel”szöveg
+lép.
+5. A sportorvoslás szabályairól és a sportegészségügyi hálózatról szóló 215/2004. (VII. 13.) Korm.
+rendelet módosítása
+9. §
+A sportorvoslás szabályairól és a sportegészségügyi hálózatról szóló 215/2004. (VII. 13.) Korm. rendelet
+(a továbbiakban: R4.) 4. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A sportpolitikáért felelős miniszter minden év február 28-áig a tárgyévre vonatkozó támogatási szerződést
+köt az OSEI-vel – a sportpolitikáért felelős miniszter, a Magyar Olimpiai Bizottság, a Magyar Paralimpiai Bizottság,
+valamint a Nemzeti Versenysport Szövetség által meghatározott – kiemelkedő sportteljesítményt nyújtó versenyzők
+speciális (2) bekezdés szerinti sportegészségügyi ellátása érdekében.”
+10. §
+Az R4. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Biliárd, bridzs, darts, golf, modellezés, sakk, petanque sportágakban, valamint a rádióamatőr sportág
+gyorstávírász és rádióforgalmazás szakágaiban a versenyzéshez sportorvosi engedély nem szükséges. A versenyző
+ezen sportágakban és szakágakban sportorvosi vizsgálaton nem köteles részt venni.”
+6. A doppingellenes tevékenység szabályairól szóló 43/2011. (III. 23.) Korm. rendelet módosítása
+11. §
+A doppingellenes tevékenység szabályairól szóló 43/2011. (III. 23.) Korm. rendelet (a továbbiakban: R5.) 1. §
+(1) bekezdés a) pontja helyébe a következő rendelkezés lép:
+(E rendelet hatálya kiterjed)
+„a) az országos sportági szakszövetségekre, az országos sportági szövetségekre és a fogyatékosok országos
+szövetségeire (a továbbiakban együtt: szövetség), a Magyar Olimpiai Bizottságra (a továbbiakban: MOB), a Magyar
+Paralimpiai Bizottságra és a Nemzeti Versenysport Szövetségre (a továbbiakban együtt: sportköztestület), a nemzeti
+doppingellenes szervezetre (Hungarian National Anti-doping Organization, a továbbiakban: HUNADO), az igazolt,
+a verseny- vagy rajtengedéllyel rendelkező sportolóra, az eltiltás hatálya alatt álló versenyzőre és az eltiltás leteltét
+vagy visszavonulását követően a versenyszerű sporttevékenység folytatását bejelentő sportolóra (a továbbiakban
+együtt: versenyző), a sportszakemberekre, valamint a versenyszerű sportban részt vevő sportszervezetekre;”
+12. §
+Az R5. 2. § 18. pontja helyébe a következő rendelkezés lép:
+(E rendelet alkalmazásában)
+„18. sportszervezet: a sportról szóló 2004. évi I. törvény 15. § (1) bekezdésében meghatározott szervezet;”
+
+13. §
+Az R5. 4. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A sportköztestületek együttműködnek a HUNADO-val és a további doppingellenes tevékenységben részt
+vevő szervezetekkel, valamint a nemzetközi doppingellenes szervezetekkel a doppingellenes tevékenység
+eredményessége érdekében, ennek keretében
+a) saját és tagságuk doppingellenes tevékenységét e rendelettel, a nemzetközi követelményekkel, valamint
+a HUNADO szakmai ajánlásaival összhangban végzik, szervezik, amelyről tájékoztatják a HUNADO-t,
+b) véleményezik a HUNADO által összeállításra kerülő vizsgálat-eloszlási tervet,
+c) közreműködnek a HUNADO által a sportágakra egységesen előírt általános felvilágosítási, nyilvántartási,
+ellenőrzési és szankcionálási elvek összeállításában,
+d) ellátják a nemzetközi követelményekben részükre meghatározott feladatokat,
+e) azon sport-világesemények vonatkozásában, ahol a sportköztestületek a versenyzők nevezésével és
+versenyeztetésével kapcsolatos egyes feladatokat ellátják, a sportköztestületeket megfelelően megilletik és terhelik
+a szövetségekre e rendeletben és más jogszabályokban, valamint a vonatkozó nemzetközi követelményekben
+meghatározott jogok és kötelezettségek.”
+14. §
+Az R5. 6. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A TUE Bizottság elnökét és tagjait nyilvános pályáztatás útján a HUNADO választja ki. A kiválasztásban
+az Országos Sportegészségügyi Intézetnek és a Sportegészségügyi Szakmai Kollégiumnak javaslattételi joga van.
+A TUE Bizottság elnökét és tagjait a HUNADO vezetője kéri fel a tisztség ellátására. A TUE Bizottság belgyógyász,
+pulmonológus és sebész szakorvosokból áll. A TUE Bizottság legalább egy tagjának rendelkeznie kell a fogyatékos
+versenyzők speciális egészségügyi ellátására, kezelésére vonatkozó ismeretekkel.”
+15. §
+Az R5. 7. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A doppingbizottság három tagból áll. Állandó tagja a HUNADO erre a feladatra kijelölt munkatársa, továbbá
+a miniszter által vezetett minisztérium képviselője, eseti tagja annak a szövetségnek az alkalmazottja, amelynek
+sportágában az eljárás alá vont versenyző a sporttevékenységét folytatja, vagy az eljárás alá vont sportszakember
+a szakmai tevékenységét gyakorolja. A doppingbizottság elnöke a szövetség által delegált tag.”
+16. §
+Az R5. 9. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A doppingbizottság és a dopping fellebbviteli bizottság tagja csak olyan személy lehet, aki jogász, orvos,
+más egészségügyi felsőfokú vagy a sport területén képesítéshez kötött tevékenységek gyakorlásáról szóló
+kormányrendeletben meghatározott felsőfokú szakirányú végzettséggel és a doppingellenes tevékenység területén
+legalább hároméves szakmai tapasztalattal rendelkezik.”
+17. §
+Az R5. 21. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) A doppingbizottság határozatával meghozott büntetés ellen benyújtott fellebbezésnek halasztó hatálya nincs,
+de a dopping fellebbviteli bizottság elnöke a büntetés végrehajtását indokolt esetben, kérelemre felfüggesztheti.
+A doppingeljárásban a MOB tanácskozási joggal részt vesz. A doppingeljárást lezáró indokolt határozatot
+a HUNADO a doppingeljárásban érintett felek mellett 8 napon belül megküldi a miniszter és a MOB részére.”
+18. §
+Az R5. 32. § (5) bekezdése helyébe a következő rendelkezés lép:
+„(5) Az eltiltás hatálya alatt álló vagy az eltiltását letöltött versenyző szervezett sporttevékenységbe való
+visszatérésének feltétele a sportág nemzetközi szövetsége vonatkozó szabályzatában meghatározott számú, de
+legalább 1 negatív eredményű mintaszolgáltatás teljesítése.”
+19. §
+Az R5.
+a) 2. § 4. pontjában a„MOB, az MPB”szövegrész helyébe a„sportköztestületek”szöveg,
+b) 4. alcímének címében az„a Magyar Olimpiai Bizottság és a Magyar Paralimpiai Bizottság” szövegrész helyébe
+az„és a sportköztestületek”szöveg,
+c) 4. § (1) bekezdésében a„MOB és az MPB”szövegrész helyébe a„sportköztestületek”szöveg,
+d) 4. § (2) bekezdés h) pontjában az„a MOB-ot”szövegrész helyébe az„az érintett sportköztestületet”szöveg,
+e) 5. § (2) bekezdés a) pontjában, valamint 5. § (5) bekezdésében a „MOB-nak” szövegrész helyébe
+a„sportköztestületeknek”szöveg,
+
+f) 5. § (2) bekezdés h) és m) pontjában a„MOB”szövegrész helyébe a„sportköztestületek”szöveg,
+g) 9. § (2) bekezdésében a„MOB-ot”szövegrész helyébe a„minisztert”szöveg
+lép.
+20. §
+Hatályát veszti az R5. 3. § a) pontjában az„a MOB-on keresztül”szövegrész.
+7. Az egyes kimagasló sporteredmények állami jutalmáról szóló 200/2013. (VI. 13.) Korm. rendelet
+módosítása
+21. §
+Az egyes kimagasló sporteredmények állami jutalmáról szóló 200/2013. (VI. 13.) Korm. rendelet (a továbbiakban:
+R6.) 3. § (3) bekezdése helyébe a következő rendelkezés lép:
+„(3) Az (1) és (2) bekezdésben foglaltakra figyelemmel az állami jutalomnak a 4. § (5) bekezdése szerint
+meghatározott jogosultanként számított mértékét
+a) a Magyar Olimpiai Bizottság (a továbbiakban: MOB),
+b) a Magyar Paralimpiai Bizottság (a továbbiakban: MPB) vagy
+c) a Nemzeti Versenysport Szövetség (a továbbiakban: NVESZ)
+[a továbbiakban a)–c) pont együtt: sportköztestület] ügyintéző-képviseleti szerve a jogosultaknak a versenyző
+felkészítésében végzett szakmai munkája mértékére, valamint a versenyző sporttevékenységével kapcsolatban
+közvetlenül vagy közvetett módon végzett tevékenységben való közreműködése arányára, továbbá
+a (4) bekezdésben foglaltakra tekintettel állapítja meg, a 4. § (4) bekezdése szerinti javaslatok figyelembevételével.”
+22. § (1) Az R6. 4. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az edző, a sportszakember és a nevelőedző személyéről a (4) bekezdés szerinti szervezetek írásban tesznek
+nyilatkozatot (a továbbiakban: személyi nyilatkozat) a sportköztestületnek – a (4) bekezdés b) pontja szerinti
+esetben, amennyiben a sportágban nem működik országos sportági szakszövetség, sportági szövetség,
+fogyatékosok országos sportszövetsége, a sportpolitikáért felelős miniszternek – a versenyző sport világeseményre
+történő kiutazását megelőzően, a sport világeseményre történő utolsó versenyzői nevezéstől számított hét
+napon belül. A személyi nyilatkozatban az edző és a nevelőedző személyét a versenyzői javaslat (a továbbiakban:
+versenyzői javaslat) alapján kell meghatározni. A versenyzői javaslatot a személyi nyilatkozathoz csatolni kell.
+A személyi nyilatkozat a versenyzői javaslat nélkül érvénytelen.”
+(2) Az R6. 4. § (4) bekezdés helyébe a következő rendelkezés lép:
+„(4) A sport világeseményt követő harminc napon belül az állami jutalomban részesíthető edzőket,
+sportszakembereket és nevelőedzőket, valamint azok jutalmának összegét
+a) az IOC által szervezett olimpiai játékok esetében az országos sportági szakszövetség, sportági szövetség
+ügyintéző-képviseleti szerve javasolja a (2) bekezdés szerinti személyi nyilatkozatnak megfelelően a MOB-nak;
+b) az IPC által szervezett paralimpiai játékok esetében az országos sportági szakszövetség, sportági szövetség,
+fogyatékosok országos sportszövetsége ügyintéző-képviseleti szerve javasolja a (2) bekezdés szerinti személyi
+nyilatkozatnak megfelelően az MPB-nek, az országos sportági szakszövetség, sportági szövetség, fogyatékosok
+országos sportszövetsége hiányában közvetlenül az MPB javasolja a sportpolitikáért felelős miniszternek;
+c) az IWGA által szervezett Világjátékok esetében az országos sportági szakszövetség, sportági szövetség ügyintéző-
+képviseleti szerve javasolja a (2) bekezdés szerinti személyi nyilatkozatnak megfelelően az NVESZ-nek;
+d) a FIDE által szervezett Sakkolimpia esetében a Magyar Sakkszövetség ügyintéző-képviseleti szerve javasolja
+a (2) bekezdés szerinti személyi nyilatkozatnak megfelelően az NVESZ-nek;
+e) az ICSD által szervezett siketlimpiai játékok esetében a Magyar Hallássérültek Sportszövetségének ügyintéző-
+képviseleti szerve javasolja a (2) bekezdés szerinti személyi nyilatkozatnak megfelelően az MPB-nek;
+f) az ICCD által szervezett Sakkolimpia esetében a Magyar Hallássérültek Sportszövetségének ügyintéző-képviseleti
+szerve javasolja a (2) bekezdés szerinti személyi nyilatkozatnak megfelelően az MPB-nek;
+g) az IBCA által szervezett Sakkolimpia esetében a Fogyatékkal Élők Sportszervezeteinek Magyarországi
+Szövetségének ügyintéző-képviseleti szerve javasolja a (2) bekezdés szerinti személyi nyilatkozatnak megfelelően
+az MPB-nek;
+h) a Szervátültetettek Világjátékai esetében a Magyar Szervátültetettek Szövetségének ügyintéző-képviseleti szerve
+javasolja a (2) bekezdés szerinti személyi nyilatkozatnak megfelelően az MPB-nek;
+i) a Speciális Olimpia esetében a Magyar Speciális Olimpia Szövetség ügyintéző-képviseleti szerve javasolja
+a (2) bekezdés szerinti személyi nyilatkozatnak megfelelően az MPB-nek.”
+
+23. §
+Az R6. 5. § (6) bekezdése helyébe a következő rendelkezés lép:
+„(6) Az eredményességi támogatásban részesítendő személyekre és a támogatás összegére
+a) olimpiai versenyszám esetén az országos sportági szakszövetség tesz javaslatot a MOB-nak,
+b) paralimpiai versenyszám esetén az országos sportági szakszövetség, sportági szövetség, fogyatékosok országos
+sportszövetsége tesz javaslatot az MPB-nek, vagy amennyiben a sportágban nem működik országos sportági
+szakszövetség, sportági szövetség, fogyatékosok országos sportszövetsége, az MPB tesz javaslatot a sportpolitikáért
+felelős miniszternek,
+c) a sakk világbajnokságon és Európa-bajnokságon klasszikus (sztenderd) versenyszám esetén az országos sportági
+szakszövetség tesz javaslatot az NVESZ-nek
+az (1)–(5), a (7) és (8) bekezdés, a 4. melléklet, valamint a 6. § alapján a sporteseményt követő harminc napon
+belül. A javaslathoz elektronikus adathordozón csatolni kell a világbajnokságon, Európa-bajnokságon elért,
+eredményességi támogatásra jogosító eredmény versenyszámainak versenykiírását, rajtlistáját és az eredményeket
+tartalmazó hivatalos jegyzőkönyvet, valamint az edző és a sportszakember esetében a felkészítésben való
+részvételről szóló sportszakmai beszámolót és az eredményességi támogatást alátámasztó indoklást. A javaslatot
+a sportköztestület ügyintéző-képviseleti szerve hagyja jóvá és a 3. melléklet szerint továbbítja a sportpolitikáért
+felelős miniszter részére a jóváhagyást követő tizenöt napon belül. A sportpolitikáért felelős miniszter
+a sportköztestület által jóváhagyott javaslat alapján határozza meg a támogatandók névsorát és az eredményességi
+támogatás összegét.”
+24. §
+Az R6.
+a) 4. § (3) és (6) bekezdésében a„MOB”szövegrész helyébe a„sportköztestület”szöveg,
+b) 4. § (5) bekezdésében a„MOB”szövegrészek helyébe a„sportköztestület”szöveg,
+c) 4. § (7) bekezdésében
+ca) a„MOB-nak”szövegrész helyébe a„sportköztestületnek”szöveg,
+cb) a„MOB-ot”szövegrész helyébe a„sportköztestületet”szöveg, valamint
+d) 7. § (1) bekezdésében a„MOB”szövegrész helyébe a„sportpolitikáért felelős miniszter”szöveg
+lép.
+25. §
+Hatályát veszti az R6. 7. § (2) bekezdése.
+8. Záró rendelkezések
+26. §
+Ez a rendelet 2017. január 1-jén lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök
