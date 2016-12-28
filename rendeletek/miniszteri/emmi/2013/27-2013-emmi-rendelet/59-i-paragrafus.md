@@ -2,6 +2,6 @@
 
 (2) A Diósgyőri Stadion fejlesztésének támogatása előirányzat terhére egyedi döntés alapján nyújtható költségvetési támogatás. A költségvetési támogatás teljes összege támogatási előlegként is nyújtható. A költségvetési támogatás kedvezményezettje helyi önkormányzat, gazdasági társaság és civil szervezet lehet.
 
-20/J. Budafoki Munkás Testedző Egyesület Sportcsarnoka fejlesztésének támogatása[^92]
+20/J. Budafoki Munkás Testedző Egyesület Sportcsarnoka fejlesztésének támogatása[^93]
 
-[^92]: A 20/J. alcímet (59/J. §) a 39/2014. (V. 5.) EMMI rendelet 24. §-a iktatta be.
+[^93]: A 20/J. alcímet (59/J. §) a 39/2014. (V. 5.) EMMI rendelet 24. §-a iktatta be.

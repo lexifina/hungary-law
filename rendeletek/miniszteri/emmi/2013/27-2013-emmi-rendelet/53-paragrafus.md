@@ -1,6 +1,6 @@
 ## 14. Diák- és hallgatói sport támogatása
 
-53. § (1)[^56] A miniszter az iskolai, diák- és felsőoktatási sport fejlesztése érdekében a Diák- és hallgatói sport támogatása előirányzat terhére támogatja:
+53. § (1)[^57] A miniszter az iskolai, diák- és felsőoktatási sport fejlesztése érdekében a Diák- és hallgatói sport támogatása előirányzat terhére támogatja:
 
 a) a diáksport rendezvényeket, diák szabadidősport-rendezvényeket, programokat,
 
@@ -36,7 +36,7 @@ p) az iskolai, diák- és felsőoktatási sporttal összefüggő szakmai feladat
 
 q) az iskolai, diák- és felsőoktatási sport népszerűsítésével összefüggő feladatokat.
 
-(2)[^57] Az (1) bekezdés alapján szakmai feladatok ellátására nyújtott költségvetési támogatás tekintetében:
+(2)[^58] Az (1) bekezdés alapján szakmai feladatok ellátására nyújtott költségvetési támogatás tekintetében:
 
 a) a sportegészségügyi ellátás (a rendezvényeken, eseményeken részt vevő személyek sporttevékenységével összefüggő sport- és egyéb egészségügyi szolgáltatások, táplálkozási tanácsadás, sportegészségügyi eszközök, műszerek, gyógyszerek, étrend-kiegészítők, vitaminok vásárlása) költségei,
 
@@ -64,8 +64,8 @@ k) pálya- és létesítménybérleti, -használati díjak
 
 (3) Az (1) bekezdés szerinti költségvetési támogatás kedvezményezettje a MOB.
 
-(4)[^58] A Diák- és hallgatói sport támogatása előirányzat terhére egyedi döntés alapján nyújtható költségvetési támogatás. A költségvetési támogatás teljes összege támogatási előlegként is nyújtható.
+(4)[^59] A Diák- és hallgatói sport támogatása előirányzat terhére egyedi döntés alapján nyújtható költségvetési támogatás. A költségvetési támogatás teljes összege támogatási előlegként is nyújtható.
 
-[^56]: Az 53. § (1) bekezdése a 39/2014. (V. 5.) EMMI rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^57]: Az 53. § (2) bekezdése a 39/2014. (V. 5.) EMMI rendelet 16. § (2) bekezdésével megállapított szöveg.
-[^58]: Az 53. § (4) bekezdése a 39/2014. (V. 5.) EMMI rendelet 16. § (3) bekezdésével megállapított szöveg.
+[^57]: Az 53. § (1) bekezdése a 39/2014. (V. 5.) EMMI rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^58]: Az 53. § (2) bekezdése a 39/2014. (V. 5.) EMMI rendelet 16. § (2) bekezdésével megállapított szöveg.
+[^59]: Az 53. § (4) bekezdése a 39/2014. (V. 5.) EMMI rendelet 16. § (3) bekezdésével megállapított szöveg.

@@ -1,4 +1,4 @@
-25. § (1)[^28] A miniszter a Versenysport támogatása előirányzat terhére költségvetési támogatást nyújthat a sportszövetség, annak jogi személyiséggel felruházott szervezeti egysége, a sportszövetséggel tagsági viszonyban álló sportszervezet, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány, a MOB, az a)–d) pont szerinti esemény megvalósításában résztvevő gazdasági társaság, valamint a testkultúrával kapcsolatos felsőoktatási képzésben részt vevő felsőoktatási intézmények részére az a)–d) pont szerinti kiemelt hazai rendezésű, nemzetközi jelentőségű sport- és sportdiplomáciai események rendezésével összefüggő költségek legfeljebb nyolcvanöt százalékának fedezetéhez:
+25. § (1)[^28] A miniszter a Versenysport támogatása előirányzat terhére költségvetési támogatást nyújthat a sportszövetség, annak jogi személyiséggel felruházott szervezeti egysége, a sportszövetséggel tagsági viszonyban álló sportszervezet, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány, a MOB, az a)–d) pont szerinti esemény megvalósításában résztvevő gazdasági társaság, valamint a testkultúrával kapcsolatos felsőoktatási képzésben részt vevő felsőoktatási intézmények részére az a)–d) pont szerinti kiemelt hazai rendezésű, nemzetközi jelentőségű sport- és sportdiplomáciai események rendezésével összefüggő költségek fedezetéhez:
 
 a) a felnőtt és az az alatti első utánpótlás korosztály világbajnoksága,
 
@@ -12,5 +12,8 @@ d) világ- és európai sportági szövetség által rendezett kongresszus, konf
 
 (3) Az Európa- és világbajnoki versenysorozaton belül megrendezett mérkőzés, verseny, futam nem minősül az (1) bekezdés szerinti sporteseménynek.
 
-[^28]: A 25. § (1) bekezdés nyitó szövegrésze a 39/2014. (V. 5.) EMMI rendelet 28. § b), d) és e) pontja szerint módosított szöveg.
+(4)[^30] A miniszter az (1) bekezdés szerinti költségvetési támogatás feltételeként a sportesemény teljes költségvetésének legfeljebb tizenöt százalékát kitevő saját forrás biztosítását írhatja elő.
+
+[^28]: A 25. § (1) bekezdés nyitó szövegrésze a 39/2014. (V. 5.) EMMI rendelet 28. § b), d) és e) pontja, a 474/2016. (XII. 27.) Korm. rendelet 55. §-a szerint módosított szöveg.
 [^29]: A 25. § (2) bekezdése a 39/2014. (V. 5.) EMMI rendelet 28. § b) pontja szerint módosított szöveg.
+[^30]: A 25. § (4) bekezdését a 474/2016. (XII. 27.) Korm. rendelet 53. §-a iktatta be.

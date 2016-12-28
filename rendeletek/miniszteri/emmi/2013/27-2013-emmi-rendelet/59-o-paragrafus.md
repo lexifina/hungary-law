@@ -4,6 +4,6 @@
 
 20/P. Tornaterem-építési program
 
-[^98]
+[^99]
 
-[^98]: A 20/P. alcímet (59/P. §) a 39/2014. (V. 5.) EMMI rendelet 24. §-a iktatta be.
+[^99]: A 20/P. alcímet (59/P. §) a 39/2014. (V. 5.) EMMI rendelet 24. §-a iktatta be.

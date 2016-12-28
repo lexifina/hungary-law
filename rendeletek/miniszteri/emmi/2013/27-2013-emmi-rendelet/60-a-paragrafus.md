@@ -1,4 +1,4 @@
-## IV/A. Fejezet[^101]
+## IV/A. Fejezet[^102]
 
 ## LÁTVÁNYCSAPAT-SPORT TÁMOGATÁSA
 
@@ -10,4 +10,4 @@
 
 (3) A látvány-csapatsport támogatásával összefüggő feladatok előirányzat terhére egyedi döntés alapján nyújtható költségvetési támogatás. A költségvetési támogatás teljes összege támogatási előlegként is nyújtható.
 
-[^101]: A IV/A fejezetez (60/A. §) a 39/2014. (V. 5.) EMMI rendelet 26. §-a iktatta be.
+[^102]: A IV/A fejezetez (60/A. §) a 39/2014. (V. 5.) EMMI rendelet 26. §-a iktatta be.

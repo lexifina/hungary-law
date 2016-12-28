@@ -1,4 +1,4 @@
-39. §[^39] (1) A miniszter a Doppingellenes tevékenység sportszakmai feladatai előirányzat terhére támogatja a nemzeti doppingellenes szervezet (Hungarian National Anti-doping Organization, a továbbiakban: HUNADO) által ellátott következő doppingellenes feladatokat:
+39. §[^40] (1) A miniszter a Doppingellenes tevékenység sportszakmai feladatai előirányzat terhére támogatja a nemzeti doppingellenes szervezet (Hungarian National Anti-doping Organization, a továbbiakban: HUNADO) által ellátott következő doppingellenes feladatokat:
 
 a) a doppingellenes tevékenység szabályairól szóló kormányrendeletben meghatározottak szerint a versenyzők doppingellenőrzése;
 
@@ -14,4 +14,4 @@ f) egyéb, a doppingellenes tevékenységgel összefüggő feladatok.
 
 (2) Az (1) bekezdés szerinti előirányzat terhére költségvetési támogatás nyújtható a doppingellenes tevékenységet végző szervezetek részére doppingellenes feladataik ellátásához.
 
-[^39]: [A 39/2014. (V. 5.) EMMI rendelet 30. § i) pontjával elrendelt módosítás, amely szerint a 39. § e) pontja hatályát veszti, nem vezethető át.]
+[^40]: [A 39/2014. (V. 5.) EMMI rendelet 30. § i) pontjával elrendelt módosítás, amely szerint a 39. § e) pontja hatályát veszti, nem vezethető át.]

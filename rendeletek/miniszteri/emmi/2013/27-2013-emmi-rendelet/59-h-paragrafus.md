@@ -2,6 +2,6 @@
 
 (2) A Székesfehérvári Sóstói Stadion fejlesztésének támogatása előirányzat terhére egyedi döntés alapján nyújtható költségvetési támogatás. A költségvetési támogatás teljes összege támogatási előlegként is nyújtható. A költségvetési támogatás kedvezményezettje helyi önkormányzat, gazdasági társaság és civil szervezet lehet.
 
-20/I. Diósgyőri Stadion fejlesztésének támogatása[^91]
+20/I. Diósgyőri Stadion fejlesztésének támogatása[^92]
 
-[^91]: A 20/I. alcímet (59/I. §) a 39/2014. (V. 5.) EMMI rendelet 24. §-a iktatta be.
+[^92]: A 20/I. alcímet (59/I. §) a 39/2014. (V. 5.) EMMI rendelet 24. §-a iktatta be.
