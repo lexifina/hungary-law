@@ -1,0 +1,129 @@
+# A nemzetgazdasági miniszter 58/2016. (XII. 28.) NGM rendelete
+
+Magyar Közlöny 2016. évi 219. szám, 2016. december 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/6029af73aebc858aa35f2a35ad233fcfe30c074c/dokumentumok/d181bb1955438b4f83213462b30abd3f9cace9ae/letoltes)
+
+---
+
+A nemzetgazdasági miniszter 58/2016. (XII. 28.) NGM rendelete
+az adójegy igénylésére, visszavételére, alkalmazására vonatkozó részletes szabályokról szóló
+14/1998. (IV. 30.) PM rendelet módosításáról
+A jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló 2003. évi CXXVII. törvény 129. §
+(2) bekezdés f) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.)
+Korm. rendelet 90. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
+1. §
+Az adójegy igénylésére, visszavételére, alkalmazására vonatkozó részletes szabályokról szóló 14/1998. (IV. 30.)
+PM rendelet (a továbbiakban: Adójegy Vhr.) 3. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az adójegyeket az adójegy-felhasználó személyesen, meghatalmazott képviselője (megbízottja) vagy – jogi
+személyiséggel rendelkező és jogi személyiség nélküli szervezet esetén – törvényes képviselője útján veheti át, ha
+az adójegy-előállítási költség összegének megfizetését igazoló bizonylat eredeti példányát bemutatja. Igazolásként
+a fizetésiszámla-kivonat másolata vagy a terhelés megtörténtéről szóló banki igazolás fogadható el. A közösségi
+kereskedelmi tevékenységet folytató jövedéki engedélyes kereskedőnek a beszerzett dohánygyártmány adójának
+megfizetéséről a vámhatóság igazolását kell az adójegy kiadásához bemutatnia.”
+2. §
+Az Adójegy Vhr. a 3. §-t követően a következő alcímmel, valamint 3/A. §-sal egészül ki:
+„Az adójegyek előállítási költségének megfizetése
+3/A. § (1) A vámhatóság az adójegyek egységnyi fizetendő előállítási költségét úgy határozza meg, hogy
+az a hamisítás elleni megfelelő szintű védelmet a legkisebb költségterhelés mellett biztosítsa.
+(2) A vámhatóság az átadás-átvételre kerülő adójegyekről számlát állít ki, amelyet az átadás-átvétellel egy időben
+átad vagy megküld az adójegy-felhasználónak.
+(3) Az adójegy-felhasználó az adójegy-előállítási költség megfizetését átutalással teljesíti.
+(4) Ha a (3) bekezdés szerint megfizetett adójegy-előállítási költség meghaladja a (2) bekezdés szerinti számlán
+szereplő összeget, az adójegy-felhasználó kérésének megfelelően a vámhatóság
+a) 5 munkanapon belül intézkedik a különbözetnek az adójegy-felhasználó által megjelölt fizetési számlára történő
+visszautalásáról, vagy
+b) a különbözetet az adójegy-felhasználó következő adójegy megrendelése során beszámítja.
+(5) A vámhatóság intézkedik a visszaküldött minőséghibás adójegyek után megfizetett adójegy-előállítási
+költségnek az − adójegyek visszavételét követő 15 munkanapon belül történő − visszatérítéséről.
+
+(6) Ha az adójegy-felhasználó a megrendelt adójegyet – a megrendelés visszaigazolásában – az átadásra-
+átvételre megjelölt napot követő 10. munkanapig nem veszi át, a vámhatóság az adójegy-felhasználót megterheli
+az adójegyek előállítási költségével, de legalább 1000 forint összegű költségtérítéssel.”
+3. § (1) Az Adójegy Vhr. 4. számú melléklete helyébe az 1. melléklet lép.
+(2) Az Adójegy Vhr. 5. számú melléklete helyébe a 2. melléklet lép.
+4. §
+Hatályát veszti az Adójegy Vhr.
+ 1. 2. §-t megelőző alcím címe,
+ 2. 2. § (3)–(9) bekezdése,
+ 3. 3. § (4) és (5) bekezdésében a„kiskereskedelmi eladási árát,”szövegrész,
+ 4. 3. § (7) bekezdése,
+ 5. 5. § (1) bekezdésében a„kiskereskedelmi eladási ár,”szövegrész,
+ 6. 8. § (1) bekezdésében az„ , ezen belül kiskereskedelmi eladási árak”szövegrész,
+ 7. 8. § (2) bekezdése,
+ 8. 9. § (2) bekezdésében az „A megsérült adójegy csökkentő tételként csak akkor fogadható el, ha a gyűjtőívre
+felragasztott darabból egyértelműen megállapítható az adójegy adóértéke.” szövegrész, valamint az „ , azon
+belül azonos adóértékű”szövegrész,
+ 9. 9. § (3) bekezdésében az „ezen belül kiskereskedelmi eladási áranként,” szövegrész, valamint az „az általuk
+képviselt jövedéki adó és általános forgalmi adó értékét,”szövegrész,
+10. 10. §-a és az azt megelőző alcím címe,
+11. 11. § (1)–(7) és (9) bekezdése,
+12. 12. § (1) bekezdésében az„és adóértékének megállapítása”szövegrész,
+13. 12. § (6) bekezdésében az „ezen belül kiskereskedelmi eladási áranként,” szövegrész, valamint az „ , az általa
+képviselt jövedéki adó és általános forgalmi adó összegét”szövegrész,
+14. 2. számú melléklet 1. pont 1.12. alpontja és 2. pont 2.3. alpontja,
+15. 3. számú melléklet 1. pont 1.1. alpontjában a„kiskereskedelmi eladási árát,”, valamint 2. pont 2.1. alpontjában
+az„és a kiskereskedelmi eladási ár”szövegrész.
+5. §
+Ez a rendelet 2017. január 1-jén lép hatályba.
+ Varga Mihály s. k.,
+ nemzetgazdasági miniszter
+1. melléklet az 58/2016. (XII. 28.) NGM rendelethez
+„4. számú melléklet a 14/1998. (IV. 30.) PM rendelethez
+Havi adójegy-elszámolás (adójegyfajtánként)
+........ év ...................... hó
+I. Nyitó készlet tárgyhó első napján [mennyiség (db)]
+a) raktározott, még fel nem ragasztott adójegykészlet
+b) dohánygyártmány készárun található, felragasztott adójegyek
+c) minőséghibás adójegyek
+d) gyártás közben megsérült adójegyek
+e) tagállamba kiszállított (tagállami adóraktár-engedélyesnél vagy úton lévő) adójegyek
+Összesen
+II. Növekedés [mennyiség (db)]
+Tárgyhóban átvett adójegyek
+III. Leírható (a vámhatósághoz visszaküldött, megsemmisített, elszámolt) adójegyek [mennyiség (db)]
+a) minőséghibás, vámhatósághoz visszaküldött adójegyek
+
+b) sértetlen, vámhatósághoz visszaküldött adójegyek
+c) gyártás közben megsérült, adóraktárban megsemmisített adójegyek
+d) adóraktárban megsemmisült adójegyek
+e) adóraktárban megsemmisített adójegyes dohánygyártmány készárun lévő adójegyek
+f) adóraktárban vagy adófelfüggesztéssel végzett szállítás során megsemmisült adójegyes dohánygyártmányok
+adójegye
+g) adóraktárban minőségellenőrzéshez vagy adóhatóság ellenőrzéséhez felhasznált adójegyes
+dohánygyártmányok adójegye
+h) adóraktáron kívül végzett minőségellenőrzés céljaira átadott adójegyes dohánygyártmányok adójegye
+Összesen
+IV. Záró készlet tárgyhó utolsó napján [mennyiség (db)]
+a) raktározott, még fel nem ragasztott adójegykészlet
+b) dohánygyártmány készárun található, felragasztott adójegyek
+c) minőséghibás adójegyek
+d) gyártás közben megsérült adójegyek
+e) tagállamba kiszállított (tagállami adóraktár-engedélyesnél vagy úton lévő) adójegyek
+Összesen
+V. Le nem írható adójegyek [mennyiség (db)]:
+VI. Tárgyhóban szabadforgalomba került dohánygyártmányokon lévő adójegyek (I.+II.–III.–IV.–V.)”
+2. melléklet az 58/2016. (XII. 28.) NGM rendelethez
+„5. számú melléklet a 14/1998. (IV. 30.) PM rendelethez
+A bejegyzett kereskedő havi adójegy-elszámolása (adójegyfajtánként)
+........ év ...................... hó
+1. Nyitó készlet tárgyhó első napján összesen [mennyiség (db)]
+1.1. bejegyzett kereskedőnél fogadóhelyen lévő
+1.1.1. még fel nem ragasztott adójegyek
+1.1.2. minőséghibás adójegyek
+1.2. tagállamba kiszállított (tagállami adóraktár-engedélyesnél vagy úton lévő) adójegyek
+2. Növekedés, tárgyhónapban átvett adójegyek [mennyiség (db)]
+3. Leírható (a vámhatósághoz visszaküldött, megsemmisített vagy elszámolt) adójegyek összesen [mennyiség (db)]
+3.1. a megsérült és megsemmisített adójegyek
+3.2. a vámhatósági ellenőrzés céljaira a külön jogszabály előírásai szerint felhasznált dohánygyártmányon lévő
+adójegyek
+3.3. minőséghibás, vámhatósághoz visszaküldött adójegyek
+3.4. sértetlen, vámhatósághoz visszaküldött adójegyek
+3.5. közösségi adófelfüggesztési eljárással végzett szállítás során megsemmisült adójegyes dohánygyártmányok
+adójegye
+3.6. minőség-ellenőrzés céljaira az illetékes hatóságnak átadott adójegyes dohánygyártmányok adójegye
+4. Záró készlet tárgyhó utolsó napján [mennyiség (db)]
+4.1. bejegyzett kereskedőnél fogadóhelyen lévő
+4.1.1. még fel nem ragasztott adójegyek
+4.1.2. minőséghibás adójegyek
+4.2. tagállamba kiszállított (tagállami adóraktár-engedélyesnél vagy úton lévő) adójegyek
+5. Le nem írható adójegyek [mennyiség (db)]:
+6. Tárgyhóban szabadforgalomba került dohánygyártmányokon lévő adójegyek (1.+2.–3.–4.–5.)”

@@ -1,0 +1,111 @@
+# A Kormány 498/2016. (XII. 28.) Korm. rendelete
+
+Magyar Közlöny 2016. évi 219. szám, 2016. december 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/6029af73aebc858aa35f2a35ad233fcfe30c074c/dokumentumok/d181bb1955438b4f83213462b30abd3f9cace9ae/letoltes)
+
+---
+
+A Kormány 498/2016. (XII. 28.) Korm. rendelete
+a közgyűjteményekben őrzött kulturális javak méltányosságból történő birtokba adásának rendjéről és
+a hasznosításukra vonatkozó szerződésekkel kapcsolatos szabályokról
+A Kormány
+a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi CXL. törvény 100. § (1) bekezdés
+n) pontjában kapott felhatalmazás alapján,
+az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva
+a következőket rendeli el:
+1. § (1) Az állami vagy helyi önkormányzati fenntartású közgyűjteményekben őrzött kulturális javaknak (a továbbiakban:
+vagyontárgy) a muzeális intézményekről, a nyilvános könyvtári ellátásról és a közművelődésről szóló 1997. évi
+CXL. törvény 38/D. §-a szerinti hasznosítása céljából történő birtokba adása (a továbbiakban: hasznosítás)
+a kulturális örökség védelméért felelős miniszterhez (a továbbiakban: miniszter) benyújtott írásbeli kérelemmel
+(a továbbiakban: kérelem) kezdeményezhető.
+(2) A kérelmet az a természetes személy nyújthatja be, aki a vagyontárgyat hasznosítani kívánja (a továbbiakban:
+Igénylő).
+
+(3) A kérelem tartalmazza
+a) a vagyontárgy – azonosításra alkalmas – megjelölését,
+b) a hasznosítás kérelmezett időtartamát,
+c) az Igénylő által relevánsnak tartott, különös méltánylást érdemlő körülményeket,
+d) a kérelem mellékleteként az őrzési helyre vonatkozó elhelyezési dokumentációt (a továbbiakban: elhelyezési
+dokumentáció).
+(4) Az elhelyezési dokumentáció tartalmazza
+a) az őrzési hely alaprajzát, műszaki adatait és a tűzvédelmi előírásokat,
+b) a vagyontárgy számára biztosítandó állományvédelmi, vagyonbiztonsági feltételeket.
+(5) Különös méltánylást érdemlő körülménynek minősül különösen, ha a vagyontárgy a XX. századi sorstragédiák
+áldozatától, mint örökhagyótól, annak közeli hozzátartozójától, vagy megbízottjától a XX. századi önkényuralmi
+politikai rendszer jogtiprásával összefüggésben került a közgyűjtemény őrizetébe és a vagyontárgy állami
+tulajdonba tartozása kétséget kizáróan megállapítható.
+2. § (1) A miniszter beszerzi a vagyonkezelőtől, annak hiányában a tulajdonosi joggyakorlótól (a továbbiakban együtt:
+birtokba adó) a vagyontárgyra vonatkozó, leltári számmal ellátott jegyzéket, a fizikai állapotot dokumentáló
+szakleírást és képi ábrázolást.
+(2) A miniszter a kérelmet, annak mellékletét, valamint az (1) bekezdésben meghatározott dokumentumokat – azok
+rendelkezésre állásától számítva haladéktalanul – megküldi a kultúráért felelős miniszternek előzetes vélemény
+kikérése céljából.
+(3) A kultúráért felelős miniszter a kérelem vonatkozásában kialakított előzetes véleményét 8 napon belül megküldi
+a miniszter részére.
+(4) A miniszter a kultúráért felelős miniszter előzetes véleményének megérkezését követő 8 napon belül megteszi
+a hasznosításra vonatkozó javaslatát a birtokba adó felé.
+(5) Ha a kultúráért felelős miniszter előzetes véleményét a (3) bekezdésben meghatározott határidőben nem küldi meg
+a miniszternek, akkor a miniszter a rendelkezésére álló adatok alapján teszi meg javaslatát.
+3. § (1) A hasznosítási szerződés megkötése, módosítása, megszüntetése, alkalmazása és értelmezése tekintetében
+az állami vagyonról szóló 2007. évi CVI. törvényben, valamint az állami vagyonnal való gazdálkodásról szóló
+254/2007. (X. 4.) Korm. rendeletben (a továbbiakban: Vhr.) foglaltakat kell alkalmazni azzal, hogy a birtokba adó
+a döntése meghozatalát megelőzően figyelembe veszi
+a) az őrzés helyét,
+b) az Igénylő által biztosítandó állományvédelmi, vagyonbiztonsági feltételeket,
+c) a kultúráért felelős miniszter előzetes véleményét,
+d) a miniszter javaslatát,
+e) az Igénylő által megjelölt különös méltánylást érdemlő körülményt,valamint
+f) jogszabály által meghatározott, a vagyontárggyal kapcsolatos egyéb követelményeket.
+(2) A birtokba adó a döntését a miniszter javaslatának kézhezvételét követő 15 napon belül hozza meg, majd
+döntéséről haladéktalanul írásban tájékoztatja a minisztert, a kultúráért felelős minisztert és az Igénylőt.
+(3) A szerződésmódosításhoz, ha az a 4. § (1) bekezdésében meghatározott valamely szerződéses feltétel
+megváltoztatására irányul, a miniszter – kultúráért felelős miniszter előzetes véleményének kikérését követően
+megadott – egyetértése szükséges.
+4. § (1) A hasznosítási szerződés tartalmazza különösen
+a) a vagyontárgy megjelölését, a hasznosításba adáskor fennálló fizikai állapot rögzítésével,
+b) a hasznosító természetes személy (a továbbiakban: hasznosító) által előterjesztett kérelemre vonatkozó
+birtokba adói döntésre történő hivatkozást,
+c) a hasznosítás ellenértékét,
+d) a vagyontárgy őrzési helyét,
+e) ha a vagyontárgy a nyilvánosság számára bemutatásra kerül, akkor a bemutatás
+ea) helyét,
+eb) vagyonbiztonsági követelményeit,
+ec) egyéb feltételeit,
+f) a hasznosítás időtartamát,
+
+g) a vagyontárgy állományvédelme és vagyonbiztonsága érdekében biztosítandó feltételeket,
+h) a vagyontárgy fizikai állapotában bekövetkezett változás esetén követendő eljárást, valamint
+i) a hasznosítási szerződésben foglaltak ellenőrzésének az eljárásrendjét.
+(2) A hasznosítási szerződésben pénzügyi biztosíték kikötésének nincs helye.
+5. § (1) A határozott időre szóló hasznosítási szerződés időtartama a hasznosító kérelme alapján hosszabbítható meg.
+(2) A szerződés meghosszabbítását – annak lejáratát megelőzően legalább 90 nappal – a miniszterhez benyújtott
+írásbeli kérelmével kezdeményezheti a hasznosító.
+(3) A hasznosítási szerződés meghosszabbítására irányuló ügyekben az 1–4. § rendelkezései alkalmazandóak azzal,
+hogy az 1. § (4) bekezdésében meghatározott elhelyezési dokumentációt – ha az őrzési hely nem változik – nem kell
+ismételten benyújtani.
+6. § (1) A hasznosítás időtartama alatt a hasznosító viseli a vagyontárgy állományvédelmét és vagyonbiztonságát szolgáló,
+valamint a bekövetkezett károsodásából adódó, másra át nem hárítható kárveszélyt és költségeket.
+(2) A vagyontárgy fizikai állapotában bekövetkezett változásról a hasznosító legkésőbb a tudomására jutástól számított
+8 napon belül tájékoztatja a birtokba adót.
+(3) A hasznosítási szerződés tárgyával kapcsolatos tisztítási, konzerválási vagy restaurálási munkák elvégzéséhez
+a birtokba adó előzetes egyetértése szükséges.
+7. § (1) A kultúráért felelős miniszter a vagyontárgy fizikai állapotának felmérése céljából – a Vhr.-ben meghatározottak
+szerint – helyszíni ellenőrzést tarthat. A hasznosító köteles az ellenőrzést tűrni és az ellenőrzés lefolytatása során
+együttműködni.
+(2) Az (1) bekezdés szerinti ellenőrzés eredményét (a jegyzőkönyvben foglaltakat) kötelező megismertetni a birtokba
+adóval. Ha az ellenőrzés során megállapításra kerül, hogy a hasznosító a szerződésben foglalt kötelezettségét
+megszegi, illetve nem teljesíti a hasznosítási szerződésben megjelölt valamely feltételt, a kultúráért felelős miniszter
+ennek tényéről haladéktalanul értesíti a birtokba adót.
+8. § (1) A hasznosítási szerződés megszűnik
+a) ha a hasznosító meghal,
+b) a határozott időtartamú hasznosítási szerződős esetén, ha a hasznosítás időtartama lejárt és a szerződés
+meghosszabbítására eddig az időpontig nem került sor,
+c) ha a hasznosítási szerződés jogszabályt sért, és a szerződés tartalma módosítással nem helyrehozható vagy
+az vagyongazdálkodási szempontból nem indokolt.
+(2) A hasznosítási szerződést a birtokba adó köteles felmondani, ha a hasznosító a szerződésben foglalt kötelezettségét
+súlyosan megszegi, illetve nem teljesíti a hasznosítási szerződésben megjelölt valamely feltételt.
+(3) A hasznosítási szerződést a hasznosító, illetve a birtokba adó a másik szerződő félhez intézett írásbeli nyilatkozatával
+15 napos határidővel indokolás nélkül felmondhatja.
+9. §
+Ez a rendelet a kihirdetését követő napon lép hatályba.
+ Orbán Viktor s. k.,
+ miniszterelnök

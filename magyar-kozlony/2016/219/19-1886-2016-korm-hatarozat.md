@@ -1,0 +1,187 @@
+# A Kormány 1886/2016. (XII. 28.) Korm. határozata
+
+Magyar Közlöny 2016. évi 219. szám, 2016. december 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/6029af73aebc858aa35f2a35ad233fcfe30c074c/dokumentumok/d181bb1955438b4f83213462b30abd3f9cace9ae/letoltes)
+
+---
+
+A Kormány 1886/2016. (XII. 28.) Korm. határozata
+az„Egészséges Magyarország 2014–2020”Egészségügyi Ágazati Stratégia 2017–2018 évekre vonatkozó
+cselekvési tervéről
+A Kormány
+a) elfogadja az „Egészséges Magyarország 2014–2020” Egészségügyi Ágazati Stratégia végrehajtása érdekében
+készített, az 1. mellékletben foglalt cselekvési tervet,
+b) felhívja az emberi erőforrások miniszterét, hogy az a) pont szerint elfogadott cselekvési tervben foglalt
+feladatok végrehajtásáról évente készítsen jelentést a Kormány számára.
+Felelős: emberi erőforrások minisztere
+Határidő: 2018. március 31., ezt követően 2019. március 31.
+ Orbán Viktor s. k.,
+ miniszterelnök
+1. melléklet az 1886/2016. (XII. 28.) Korm. határozathoz
+Az„Egészséges Magyarország 2014–2020”Egészségügyi Ágazati Stratégia 2017–2018 évekre
+vonatkozó cselekvési terve
+A Kormány az „Egészséges Magyarország 2014–2020” Egészségügyi Ágazati Stratégia elfogadásáról szóló
+1039/2015. (II. 10.) Korm. határozatával jóváhagyta az egészségügyi ágazat stratégiáját. A stratégiában foglaltak
+kijelölik az ágazat számára a 2014–2020-as időszakra vonatkozó fő célkitűzéseket, melyek között szerepel
+az egészségügy működési hatékonyságának növelése, az így felszabaduló források prevencióra és ellátásfejlesztésre
+való átcsoportosítása, a meglévő források optimális felhasználásával a legtöbb egészségérték megőrzése.
+Kormányzati prioritás az egészségügyi alapellátás új alapokra helyezése, prevenciós tevékenységének erősítése,
+a járóbeteg-szakellátás megerősítése, egy fenntartható, jól működő intézményrendszer kialakítása.
+Mindezen célok megvalósulásához a következő intézkedések szükségesek:
+1. STRATÉGIAI PILLÉR: ÁGAZATI GAZDÁLKODÁS
+1.1. Elő kell segíteni a prioritási területek hatékonyságnövelő strukturális átalakításai és fejlesztési területei
+számára belső forrásallokáción keresztül a megfelelő források biztosítását
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+1.2. Elő kell segíteni a közfinanszírozás forrásainak szélesítését a népegészségügyi termékadó rendszerének
+kibővítésével
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+2. STRATÉGIAI PILLÉR: ALAPELLÁTÁSI KOMPETENCIA MEGERŐSÍTÉSE
+2.1. Biztosítani kell az alapellátás és a járóbeteg-szakellátás funkcionális integrációjának kialakítását a definitív
+ellátás népegészségügyi szemléletű biztosítása mentén
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+2.2. Elő kell segíteni a finanszírozási rendszer átalakítását a kapuőr érdekeltségi rendszer és a minőségi elvárások
+megerősítése érdekében
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+
+2.3. Elő kell segíteni közösségi szinten a szükségletek szerinti ellátási kompetenciák és kapacitások kialakítását
+a területi egyenlőtlenségek figyelembevételével
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+2.4. Biztosítani kell a szakmai támogatási rendszer területi (TIG) szintű működését kapacitások és források
+allokációjának biztosításával, minőségmenedzsmentjével
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+2.5. Biztosítani kell a technológiai fejlesztés, telehealth és telecare szemlélet megteremtését, a módszertan
+gyakorlati kivitelezésével
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+2.6. Biztosítani kell a vonzó életpályát a háziorvosi szakterület választásának ösztönzésével a szakorvosjelöltek és
+más területen dolgozó szakorvosok körében, az adminisztratív és anyagi korlátok oldásával
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+2.7. Biztosítani kell a háziorvosi ellátás humánerőforrás ellátottságának javítását
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+2.8. Biztosítani kell célzott intézkedésekkel az orvosi elfoglaltságot csökkentő, a hatékonyságot növelő és
+az egészségfejlesztést, közösségi ellátást biztosító munkakörök és munkahelyek megteremtését erőforrások
+biztosításával
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+3. STRATÉGIAI PILLÉR: INTÉZMÉNYIRÁNYÍTÁS PROFESSZIONÁLIS MŰKÖDTETÉSE
+3.1. Biztosítani kell az egészségügyi szolgáltatók fenntartásával, felügyeletével kapcsolatos módszertani és
+szakmai fejlesztéseket
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+3.2. Biztosítani kell a betegpanaszok kezelését végző intézményi rendszer továbbfejlesztését
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+3.3. Fejleszteni és támogatni kell a személyi feltételek rendszerének kidolgozását a progresszivitási szintnek
+megfelelően, az ágazati munkakörök, végzettséghez igazodó kompetenciák meghatározásával
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+3.4. Elő kell segíteni és támogatni kell az átlátható foglalkoztatási struktúra kialakítását, az egészségügyi dolgozók
+érdekeltté tételét a szolgáltatói működésben, a maximális teljesítmény nyújtásában
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+3.5. Biztosítani kell az egészségügyi dolgozók együttműködésének, fizikai és mentális állapotának javítását
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+4. STRATÉGIAI PILLÉR: BETEGSÉGMENEDZSMENT RENDSZER, KAPACITÁS TERVEZÉS KIALAKÍTÁSA
+4.1. Célzott intézkedésekkel támogatni kell a humánerőforrás területi egyenlőtlenségeinek csökkentését
+az országon belüli mobilitás elősegítésével
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+4.2. Biztosítani kell a megfelelő létszámú és képzettségű emberi erőforrást, az egészségügyi dolgozók
+megtartását az egészségügyi ellátórendszerben
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+
+4.3. Elő kell segíteni az emberi erőforrás tervezését, központi ágazati humánerőforrás irányítását
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+4.4. Fejleszteni és támogatni kell a térségi menedzsment kapacitások és kompetenciák pontosítását a térségi
+szintű egészségszervezés, várólista menedzsment és beutalási rend jogszabályi kereteinek kialakításával
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+4.5. Elő kell segíteni a szolgáltatásokhoz való hozzáférés egyenlőtlenségeinek csökkentését az egységes betegút-
+szervezési módszertan és technikák alkalmazása révén
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+4.6. Biztosítani kell az egészségügyi ellátórendszer épített és az orvostechnikai infrastruktúra készültségi
+szintjének javítását az eredményesség, valamint a technikai és allokációs hatékonyság növelése érdekében
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+4.7. Elő kell segíteni a rehabilitációs szolgáltatások és krónikus ellátások esetében a szociális területtel közös
+feladatok közös ellátásából fakadó előnyök kiaknázását és ezáltal az erőforrásokkal való gazdálkodás
+hatékonyságának javítását
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+4.8. Elő kell mozdítani a ritkabetegségek korai felismerését, kiszűrését a betegek és családjuk minél teljesebb
+életének elősegítése érdekében
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+5. STRATÉGIAI PILLÉR: SPECIFIKUS NÉPEGÉSZSÉGÜGYI CÉLKITŰZÉSEK
+5.1. Célzott beavatkozásokkal javítani kell a keringési betegségek, a cukorbetegség, a krónikus légzőszervi és
+mozgásszervi betegségek megelőzését és gondozását
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+5.2. Célzott beavatkozásokkal javítani kell a daganatos betegségek kockázatának csökkentését, korai felismerését
+és kezelését
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+5.3. Elő kell segíteni a lelki egészség fejlesztését, fenntartását, helyreállítását, valamint a mentális zavarok
+megelőzését
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+5.4. Szükséges biztosítani a lakosság egészségkultúrájának fejlesztését
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+5.5. Támogatni kell a népegészségügyi szolgáltatások összehangolását
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+5.6. Célzott intézkedésekkel elő kell segíteni a népegészségügyi szolgáltatásokhoz való általános hozzáférés
+javítását
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+5.7. Elő kell segíteni az egészséges választást támogató környezet kialakítását
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+5.8. Biztosítani kell a járványügyi és a környezet-egészségügyi biztonság fejlesztését
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+
+5.9. Elő kell segíteni további népegészségügyi prioritást jelentő beavatkozások megtételét
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+6. STRATÉGIAI PILLÉR: E-EGÉSZSÉGÜGY
+6.1. Támogatni kell az egészségügyi intézmények informatizáltsági szintjének magasabb (funkcionális) szintre
+emelését
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+6.2. Támogatni kell az egészségügyi ellátórendszeri folyamatok hatékonyságának növelését, az intézményi
+működési kiadásoknak az infokommunikációs eszközökkel támogatott integráció növelése általi
+csökkentésével
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+6.3. Elő kell segíteni a stratégiai tervező képesség növelését, az operatív gazdasági és minőségirányítás
+hatékonyságának növelését a rendszer eredményességének javításával
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+6.4. Elő kell segíteni a betegút-szervezés támogatását a közösségi egészségfejlesztési központok működési
+hatékonyságának erősítésével
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+6.5. Biztosítani kell az egészségmagatartás és felelős társadalmi hozzáállás támogatását, az egyéni
+felelősségvállalás erősítését az egészségfejlesztésben, az egyéni felelős döntéshozatali szint emelését
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+6.6. Informatikai fejlesztések révén támogatni kell az egészségügyi rendszer áteresztő képességének,
+a megelőzés, ellátás, gyógyítás hatékonyságának javítását
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
+6.7. Támogatni kell a nemzetközi elektronikus egészségügyi rendszerekhez, azok szabványaihoz való illeszkedést
+Felelős: emberi erőforrások minisztere
+Határidő: folyamatos
