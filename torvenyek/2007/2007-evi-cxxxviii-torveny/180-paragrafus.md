@@ -6,7 +6,7 @@
 
 180. § (1) Felhatalmazást kap a Kormány arra, hogy
 
-a) a befektetési szolgáltatási tevékenység végzésének, a kiegészítő szolgáltatás nyújtásának és az árutőzsdei szolgáltatás nyújtásának személyi, tárgyi, technikai és biztonsági feltételeit,
+a) a befektetési szolgáltatási tevékenység végzésének, a kiegészítő szolgáltatás nyújtásának és az árutőzsdei szolgáltatás nyújtásának személyi, tárgyi, technikai, biztonsági feltételeit és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott feltételeit,
 
 b) a befektetési szolgáltatási tevékenységet végző, a kiegészítő szolgáltatást nyújtó és az árutőzsdei szolgáltató üzletszabályzatának, valamint a befektetési szolgáltatási tevékenység, a kiegészítő szolgáltatás, illetőleg az árutőzsdei szolgáltatás keretében kötött szerződések kötelező tartalmi elemeit,
 
