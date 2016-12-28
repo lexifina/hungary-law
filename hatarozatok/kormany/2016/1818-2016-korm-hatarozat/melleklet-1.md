@@ -6,7 +6,7 @@
 
 ## Határidő: azonnal
 
-## 2. a Kvtv. 19. § (2) bekezdésében meghatározott jogkörében eljárva – az egyes települési önkormányzatok feladatainak támogatása érdekében – LXXII. Egészségbiztosítási Alap fejezet, 2. Egészségbiztosítási ellátások kiadásai cím, 2. Egészségbiztosítás pénzbeli ellátásai alcím, 7. Rokkantsági, rehabilitációs ellátások jogcímcsoport terhére 5700,0 millió forint, valamint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet
+## 2.[^1] a Kvtv. 19. § (2) bekezdésében meghatározott jogkörében eljárva – az egyes települési önkormányzatok feladatainak támogatása érdekében – LXXII. Egészségbiztosítási Alap fejezet, 2. Egészségbiztosítási ellátások kiadásai cím, 2. Egészségbiztosítás pénzbeli ellátásai alcím, 7. Rokkantsági, rehabilitációs ellátások jogcímcsoport terhére 5700,0 millió forint, valamint a Kvtv. 1. melléklet IX. Helyi önkormányzatok támogatásai fejezet
 
 ## a) 1. A helyi önkormányzatok általános működésének és ágazati feladatainak támogatása cím, 1. A helyi önkormányzatok működésének általános támogatása alcím terhére 1430,0 millió forint,
 
@@ -68,7 +68,7 @@
 
 | 20. | Bánokszentgyörgy Község feladatainak támogatása | út- és járdafelújítás | 10,0 |
 
-| 21. | Baracska Község feladatainak támogatása II. | tornaterem építése | 203,0 |
+| 21. | Csabdi Község feladatainak támogatása | települési sportlétesítmény fejlesztése | 203,0 |
 
 | 22. | Bárdudvarnok Község feladatainak támogatása | önkormányzati hivatal épületének felújítása | 65,0 |
 
@@ -710,4 +710,7 @@
 
 ## 8. egyetért azzal, hogy ha az 2–5. pont szerinti költségvetési támogatás az érintett települési önkormányzatok számára a 2016. évben nem vagy nem teljes összegben kerül folyósításra, a 2017. évben a IX. Helyi önkormányzatok támogatásai fejezetben azonos néven létrehozott címekre, alcímekre e határozatot kell alkalmazni.
 
-1. melléklet az 1818/2016. (XII. 22.) Korm. határozathoz
+1. melléklet az 1818/2016. (XII. 22.) Korm. határozathoz[^2]
+
+[^1]: A 2. pont az 1883/2016. (XII. 28.) Korm. határozat 3. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 1. melléklet az 1883/2016. (XII. 28.) Korm. rendelet 3. pont b) alpontja szerint módosított szöveg.
