@@ -1,1 +1,0 @@
-178/T. § (1) E törvénynek az energetikai tárgyú törvények jogharmonizációs célú módosításáról szóló 2016. évi LIX. törvény 4. §-ával megállapított 141. § (10) bekezdése szerinti árszabályozási ciklus kezdő időpontja 2017. január 1.

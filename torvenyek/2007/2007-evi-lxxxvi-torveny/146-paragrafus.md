@@ -20,4 +20,4 @@ külön díj ellenében végzett szolgáltatások meghatározására és szabál
 
 (5) A (2) és (3) bekezdés szerinti rendelet és az (1) bekezdés szerinti rendeletre vonatkozó javaslat előkészítése során a Hivatal kikéri az érintett engedélyesek és a felhasználók reprezentatív érdekképviseleteinek véleményét.
 
-(6) Az egyetemes szolgáltató az (1) bekezdés szerinti külön díjakat és alkalmazásuk szabályait a külön díjak kihirdetését követő 3 munkanapon belül, az elosztó a (4) bekezdés szerinti külön díjakat legkésőbb azok alkalmazhatósága előtt 20 nappal a honlapján és az ügyfélszolgálaton közzéteszi.
+(6) Az egyetemes szolgáltató az (1) bekezdés szerinti külön díjakat és alkalmazásuk szabályait legkésőbb a külön díjak alkalmazhatósága előtt 1 nappal a honlapján és az ügyfélszolgálaton közzéteszi.
