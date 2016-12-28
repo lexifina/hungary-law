@@ -6,7 +6,7 @@ a) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésének a) és d) pon
 
 b) az egységesített betéti kamatláb mutató számítására és közzétételére,
 
-c) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésében meghatározott pénzügyi szolgáltatások, illetve kiegészítő pénzügyi szolgáltatások folytatásához szükséges személyi és tárgyi feltételekre,
+c) a 3. § (1) bekezdésében, valamint a 3. § (2) bekezdésében meghatározott pénzügyi szolgáltatások, illetve kiegészítő pénzügyi szolgáltatások folytatásához szükséges személyi és tárgyi feltételekre, továbbá a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott feltételekre,
 
 d) a hitelintézet nyilvánosságra hozatali követelményeinek teljesítésére,
 

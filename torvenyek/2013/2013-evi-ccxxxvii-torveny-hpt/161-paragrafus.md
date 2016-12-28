@@ -4,7 +4,9 @@ a) a pénzügyi intézmény ügyfele, annak törvényes képviselője a rá vona
 
 b) e törvény a banktitok megtartásának kötelezettsége alól felmentést ad,
 
-c) a pénzügyi intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy lejárt követelése érvényesítéséhez szükségessé teszi.
+c) a pénzügyi intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy lejárt követelése érvényesítéséhez szükségessé teszi,
+
+d) a pénzügyi intézmény által megbízott tanúsító szervezet és alvállalkozója ezt a tanúsítási eljárás lefolytatása keretében ismeri meg.
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a banktitok megtartásának kötelezettsége nem áll fenn
 
