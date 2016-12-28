@@ -1,0 +1,5 @@
+## 8. § Az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény végrehajtásáról szóló 219/2012. (VIII. 13.) Korm. rendelet 1. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Az uniós tisztviselő, illetve túlélő hozzátartozója a nyugdíjbiztosítási átutalás, illetve visszautalás elbírálásához szükséges adatokat az Országos Nyugdíjbiztosítási Főigazgatóság Központja által – az elektronikus űrlap tekintetében a közigazgatás-fejlesztésért felelős miniszterrel egyetértésben – e célra rendszeresített és az Országos Nyugdíjbiztosítási Főigazgatóság honlapján, továbbá a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon, a megállapító szerv felhívásának kézhezvételétől számított huszonöt napon belül jelenti be a megállapító szervnek. Az adatlap és az elektronikus űrlap adattartalmát az 1. melléklet határozza meg.”
+
+## 9. A komplex szakmai vizsgáztatás szabályairól szóló 315/2013. (VIII. 28.) Korm. rendelet módosítása
