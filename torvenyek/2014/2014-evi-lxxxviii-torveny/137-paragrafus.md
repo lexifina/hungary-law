@@ -2,4 +2,6 @@
 
 a) a biztosító vagy a viszontbiztosító ügyfele vagy annak képviselője a kiszolgáltatható biztosítási titokkört pontosan megjelölve, erre vonatkozóan írásban felmentést ad,
 
-b) e törvény alapján a titoktartási kötelezettség nem áll fenn.
+b) e törvény alapján a titoktartási kötelezettség nem áll fenn,
+
+c) a biztosító vagy a viszontbiztosító által megbízott tanúsító szervezet és alvállalkozója ezt a tanúsítási eljárás lefolytatása keretében ismeri meg.

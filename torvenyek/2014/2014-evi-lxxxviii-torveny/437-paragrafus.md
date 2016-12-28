@@ -10,7 +10,7 @@ a)
 
 b) a biztosítók és a viszontbiztosítók szavatolótőkéjére és biztosítástechnikai tartalékaira,
 
-c) a biztosítók és viszontbiztosítók informatikai rendszere védelmének követelményeire,
+c) a biztosítók és viszontbiztosítók informatikai rendszere védelmének követelményeire és a tanúsítási eljárás – általános forgalmi adó nélkül számított – maximális díjával szemben támasztott követelményeire,
 
 d)
 

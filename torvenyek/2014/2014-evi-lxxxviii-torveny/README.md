@@ -16,3 +16,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2014-88-00-00
 | 2016-06-04 | 2016. évi XLIV. törvény | 2014-88-00-00.9 |
 | 2016-07-01 | 2016. évi LIII. törvény | 2014-88-00-00.10 |
 | 2016-11-26 | 2016. évi CXXI. törvény | 2014-88-00-00.11 |
+| 2016-12-28 | 2016. évi CLXXXII. törvény | 2014-88-00-00.12 |
