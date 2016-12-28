@@ -1,0 +1,3 @@
+4. § A Mötv. a következő 146/C. §-sal egészül ki:
+
+„146/C. § A 2016. december 31-én hatályos 71. § (4) és (5) bekezdés szerinti polgármesteri illetmény és a tiszteletdíj, és a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény módosításáról szóló 2016. évi CLXXXV. törvénnyel módosított 71. § (4) bekezdés szerinti polgármesteri illetmény és a 71. § (5) bekezdése szerinti tiszteletdíj összegének különbözetét az állam a központi költségvetésből – a települési önkormányzat egy lakosra jutó adóerő-képességének figyelembevételével – a Magyarország központi költségvetéséről szóló törvényben meghatározott mértékben a helyi önkormányzatok számára évente megtéríti.”
