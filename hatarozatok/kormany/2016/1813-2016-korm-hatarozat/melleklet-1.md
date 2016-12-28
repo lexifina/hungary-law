@@ -20,7 +20,7 @@
 
 ## Határidő: 2016. december 30.
 
-1. melléklet az 1813/2016. (XII. 20.) Korm. határozathoz
+1. melléklet az 1813/2016. (XII. 20.) Korm. határozathoz[^1]
 
 | A támogatási cél/fejlesztés megnevezése | A támogatás célja | A támogatás összege (M Ft) | Kedvezményezett |
 
@@ -60,7 +60,7 @@
 
 | egyházi célú támogatások | fejlesztési támogatás | 2 440,0 | Magyar Katolikus Egyház – Veszprémi Főegyházmegye |
 
-| egyházi célú támogatások | fejlesztési támogatás | 400,0 | Magyar Katolikus Püspöki Konferencia |
+| egyházi célú támogatások | fejlesztési támogatás | 400,0 | Kolping Oktatási és Szociális Intézményfenntartó Szervezet |
 
 | egyházi célú támogatások | fejlesztési támogatás | 55,0 | Katonai Ordinariátus |
 
@@ -92,7 +92,7 @@
 
 | egyházi célú támogatások | egyházi tankönyvfejlesztés | 650,0 | Szeged-Csanádi Egyházmegye Gelsey Vilmos Pedagógiai Intézete |
 
-| egyházi célú támogatások | egyházi tankönyvfejlesztés | 650,0 | Katolikus Pedagógiai Szervezési és Továbbképzési Intézet |
+| egyházi célú támogatások | egyházi tankönyvfejlesztés | 650,0 | Magyar Katolikus Püspöki Konferencia |
 
 | egyházi célú támogatások | működési támogatás | 200,0 | Magyar Pünkösdi Egyház |
 
@@ -109,3 +109,5 @@
 | egyházi célú támogatások | működési támogatás | 3,0 | Omega Hálózat |
 
 | egyházi célú támogatások | működési támogatás | 1,0 | Magyarországi Názáreti Gyülekezetek Hitéleti Egyesülete |
+
+[^1]: Az 1. melléklet az 1883/2016. (XII. 28.) Korm. határozat 2. pontja szerint módosított szöveg.
