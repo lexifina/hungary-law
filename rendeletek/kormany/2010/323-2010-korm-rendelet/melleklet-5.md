@@ -1,36 +1,4 @@
-## A sugáregészségügyi feladatokat ellátó kormányhivatalok és az Országos Tisztifőorvosi Hivatal atomenergiával kapcsolatos eljárásaiban közreműködő szakhatóságok, szakértők
-
-## I. A radioaktív anyag tárolása, használata, felhasználása, szállítása és átalakítása tekintetében
-
-|  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban és ha az OTH jár el első fokon |
-
-| 1. | Nyitott sugárforrás esetén. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi hatósági jogkörében eljáró kormányhivatal részére adandó jelentések rendszerének a meghatározása. | környezetvédelmi feladatkörében eljáró megyei kormányhivatal szakkérdésként vizsgálja | - szakértőként, ha nem az OTH jár el első fokon az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség jelölhető ki, - szakhatóságként, ha az OTH jár el első fokon az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség vizsgálja |
-
-| 2. | Nyitott sugárforrás esetén. | Tűzvédelmi követelményeknek való megfelelés. | megyei katasztrófavédelmi igazgatóság, a fővárosban Fővárosi Katasztrófa-védelmi Igazgatóság | BM Országos Katasztrófa-védelmi Főigazgatóság |
-
-| 3. | Nyitott sugárforrás esetén. | A lakosságra való veszélyesség megítélése. | megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófa-védelmi Igazgatóság | BM Országos Katasztrófa-védelmi Főigazgatóság |
-
-## II. A radioaktív anyag termelése, előállítása, forgalmazása tekintetében
-
-|  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
-
-| 1. | Minden esetben. | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi hatósági jogkörében eljáró kormányhivatal részére adandó jelentések rendszerének a meghatározása. | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség, |  |
-
-| 2. | Nyitott sugárforrás esetén. | Tűzvédelmi követelményeknek való megfelelés. | BM Országos Katasztrófavédelmi Főigazgatóság |  |
-
-| 3. | Nyitott sugárforrás esetén. | A lakosságra való veszélyesség megítélése. | BM Országos Katasztrófavédelmi Főigazgatóság |  |
-
-## III. A radioaktív anyag termelését, előállítását, tárolását, használatát, felhasználását, átalakítását szolgáló nem nukleáris létesítmény létesítése, üzembe helyezése, üzemeltetése, átalakítása, javítása, megszüntetése tekintetében
-
-|  | Bevonás és közreműködés feltétele | Szakkérdés | Első fokú eljárásban | Másodfokú eljárásban |
-
-| 1. | Nyitott sugárforrás esetén | A radioaktív anyagoknak a levegőbe és vízbe történő kibocsátásának, a vizek és víztartó képződmények radioaktív és hőszennyezés elleni védelmének, valamint a levegő és a vízi környezet radioaktív szennyeződése ellenőrzésének vizsgálata, a kibocsátási határértékek, valamint az ellenőrzési követelményeknek és a környezetvédelmi hatósági jogkörében eljáró kormányhivatal részére adandó jelentések rendszerének a meghatározása. | környezetvédelmi feladatkörében eljáró megyei kormányhivatal szakkérdésként vizsgálja, ha az OTH jár el első fokon, a szakhatóság az első fokú eljárásban az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség | ha nem az OTH jár el első fokon szakértőként az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség jelölhető ki, |
-
-| 2. | Nyitott sugárforrás esetén. | Tűzvédelmi követelményeknek való megfelelés. | megyei katasztrófavédelmi igazgatóság, a fővárosban Fővárosi Katasztrófavédelmi Igazgatóság | BM Országos Katasztrófavédelmi Főigazgatóság |
-
-| 3. | Nyitott sugárforrás esetén. | A lakosságra való veszélyesség megítélése. | megyei katasztrófavédelmi igazgatóság, a fővárosban a Fővárosi Katasztrófavédelmi Igazgatóság; ha az OTH jár el első fokon, a szakhatóság az első fokú eljárásban az BM Országos Katasztrófavédelmi Főigazgatóság | ha nem az OTH jár el első fokon: BM Országos Katasztrófavédelmi Főigazgatóság |
-
-5. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^140]
+5. melléklet a 323/2010. (XII. 27.) Korm. rendelethez[^141]
 
 ADATLAP
 
@@ -156,4 +124,4 @@ Name (in capital letters)
 
 of the person acting on behalf of the Hungarian National Blood Transfusion Service
 
-[^140]: Az 5. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 85. § (3) bekezdése iktatta be.
+[^141]: Az 5. mellékletet a 325/2011. (XII. 28.) Korm. rendelet 85. § (3) bekezdése iktatta be.

@@ -1,4 +1,4 @@
-## 26/B. §[^123] Ez a rendelet a kiégett fűtőelemek és a radioaktív hulladékok felelősségteljes és biztonságos kezelését szolgáló közösségi keret létrehozásáról szóló, 2011. július 19-i 2011/70/Euratom tanácsi irányelvnek való megfelelést szolgálja.
+## 26/B. §[^124] Ez a rendelet a kiégett fűtőelemek és a radioaktív hulladékok felelősségteljes és biztonságos kezelését szolgáló közösségi keret létrehozásáról szóló, 2011. július 19-i 2011/70/Euratom tanácsi irányelvnek való megfelelést szolgálja.
 
 ## 14. Jogutódlás
 
@@ -14,18 +14,18 @@ a) a Szolgálat regionális intézete számára megállapított hatásköröket 
 
 b) a regionális tisztifőorvos számára megállapított hatásköröket a megyei tisztifőorvos,
 
-c)[^124] a regionális tisztifőgyógyszerész számára megállapított hatásköröket a megyei, illetve fővárosi tisztifőgyógyszerész
+c)[^125] a regionális tisztifőgyógyszerész számára megállapított hatásköröket a megyei, illetve fővárosi tisztifőgyógyszerész
 
 ## gyakorolja.
 
-(5)[^125] Az (1) és (2) bekezdéstől eltérően a korábban a regionális intézetek által végzett egyes feladatok részleges átvevője az alapító okirat szerint az OTH, melynek tekintetében a számára jogszabályban megállapított feladat- és hatáskörök és a feladatellátáshoz kapcsolódó jogviszonyokat illetően a regionális intézet jogutódjának tekintendő.
+(5)[^126] Az (1) és (2) bekezdéstől eltérően a korábban a regionális intézetek által végzett egyes feladatok részleges átvevője az alapító okirat szerint az OTH, melynek tekintetében a számára jogszabályban megállapított feladat- és hatáskörök és a feladatellátáshoz kapcsolódó jogviszonyokat illetően a regionális intézet jogutódjának tekintendő.
 
-(6)[^126] Ha jogszabály az Állami Népegészségügyi és Tisztiorvosi Szolgálat (ÁNTSZ) egésze számára állapít meg feladat- és hatáskört, a feladat- és hatáskör címzettjének – jogszabály eltérő rendelkezése hiányában – a Szolgálatot, valamint a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt, továbbá a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát együttesen kell tekinteni.
+(6)[^127] Ha jogszabály az Állami Népegészségügyi és Tisztiorvosi Szolgálat (ÁNTSZ) egésze számára állapít meg feladat- és hatáskört, a feladat- és hatáskör címzettjének – jogszabály eltérő rendelkezése hiányában – a Szolgálatot, valamint a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatalt, továbbá a fővárosi és megyei kormányhivatal népegészségügyi feladatkörében eljáró járási (fővárosi kerületi) hivatalát együttesen kell tekinteni.
 
-(7)[^127] A Pest Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szervét a számára e rendeletben meghatározott, 2013. január 1-jét megelőzően Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve által ellátott feladat- és hatáskörök, valamint azok ellátásához kapcsolódó jogviszonyok tekintetében jogutódnak kell tekinteni.
+(7)[^128] A Pest Megyei Kormányhivatal Népegészségügyi Szakigazgatási Szervét a számára e rendeletben meghatározott, 2013. január 1-jét megelőzően Budapest Főváros Kormányhivatala Népegészségügyi Szakigazgatási Szerve által ellátott feladat- és hatáskörök, valamint azok ellátásához kapcsolódó jogviszonyok tekintetében jogutódnak kell tekinteni.
 
-[^123]: A 26/B. §-t a 216/2013. (VI. 21.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^124]: A 27. § (4) bekezdés c) pontja a 73/2011. (IV. 29.) Korm. rendelet 15. § g) pontja szerint módosított szöveg.
-[^125]: A 27. § (5) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § h) pontja szerint módosított szöveg.
-[^126]: A 27. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 165. § (3) bekezdés e) pontja szerint módosított szöveg.
-[^127]: A 27. § (7) bekezdését a 414/2012. (XII. 29.) Korm. rendelet 7. § (2) bekezdése iktatta be.
+[^124]: A 26/B. §-t a 216/2013. (VI. 21.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^125]: A 27. § (4) bekezdés c) pontja a 73/2011. (IV. 29.) Korm. rendelet 15. § g) pontja szerint módosított szöveg.
+[^126]: A 27. § (5) bekezdése a 73/2011. (IV. 29.) Korm. rendelet 15. § h) pontja szerint módosított szöveg.
+[^127]: A 27. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 165. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^128]: A 27. § (7) bekezdését a 414/2012. (XII. 29.) Korm. rendelet 7. § (2) bekezdése iktatta be.

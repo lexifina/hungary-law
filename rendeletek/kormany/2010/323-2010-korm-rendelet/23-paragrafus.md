@@ -32,7 +32,7 @@ f)[^103] a vízi út 50 méteres körzetében és a kikötő, átkelőhely, haj�
 
 (5) A Kormány a természetes vizek minőségének védelme érdekében a vizek állapota, valamint a lehetséges szennyezések megállapításának kérdésében első fokú eljárásban a vízvédelmi feladatkörében eljáró megyei katasztrófavédelmi igazgatóságot, másodfokú eljárásban a vízvédelmi feladatkörében eljáró BM Országos Katasztrófavédelmi Főigazgatóságot szakhatóságként jelöli ki.
 
-(6) A Kormány a kormányhivatal sugáregészségügyi feladataival összefüggő és az OTH hatáskörébe tartozó atomenergiával kapcsolatos első és másodfokú engedélyezési eljárásokban a 4. mellékletben meghatározott hatóságokat – az ott megjelölt feltételek fennállása esetén és szakkérdésben – szakhatóságként jelöli ki, vagy szakértőként jelöli meg. Környezetvédelmi szakkérdés vizsgálata esetén a sugáregészségügyi feladatokat ellátó kormányhivatalok által folytatott, 4. mellékletben meghatározott eljárások ügyintézési határideje 50 nap. Az ügyfélnek az eljárás megindítása előtt benyújtott kérelmére a szakhatóságként kijelölt hatóság egy évig felhasználható előzetes szakhatósági állásfoglalást ad ki.
+(6)[^104]
 
 (7) A Kormány
 
@@ -68,3 +68,4 @@ első fokú eljárásban az Egészségügyi Tudományos Tanács (a továbbiakban
 [^101]: A 23. § (1) bekezdés d) pontja a 259/2016. (VIII. 31.) Korm. rendelet 70. §-a szerint módosított szöveg.
 [^102]: A 23. § (2) bekezdés d) pontja a 259/2016. (VIII. 31.) Korm. rendelet 70. §-a szerint módosított szöveg.
 [^103]: A 23. § (2) bekezdés f) pontja a 379/2016. (XII. 2.) Korm. rendelet 165. § (2) bekezdésével megállapított szöveg.
+[^104]: A 23. § (6) bekezdését a 473/2016. (XII. 27.) Korm. rendelet 7. § a) pontja hatályon kívül helyezte.
