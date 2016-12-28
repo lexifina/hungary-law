@@ -1,0 +1,880 @@
+# A Kormány 1863/2016. (XII. 28.) Korm. határozata
+
+Magyar Közlöny 2016. évi 218. szám, 2016. december 28. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/89732b6172b7cb78353127567004472921733a19/dokumentumok/261e56f2af241e3fb53b13a7a83745e88214638f/letoltes)
+
+---
+
+A Kormány 1863/2016. (XII. 28.) Korm. határozata
+a 2017. évi határátlépéssel járó csapatmozgások engedélyezéséről
+1. A Kormány a határátlépéssel járó csapatmozgások engedélyezésének kormányzati feladatairól szóló
+190/2000. (XI. 14.) Korm. rendelet 2. § (1) bekezdése alapján engedélyezi az 1. melléklet szerinti 2017. évi
+gyakorlatokhoz, kiképzésekhez és egyéb katonai tevékenységekhez (a továbbiakban együtt: gyakorlatok)
+kapcsolódó csapatmozgásokat.
+2. Az engedély a Magyar Honvédség gyakorlatokon való részvételének, a gyakorlatokon részt vevő külföldi fegyveres
+erők országhatáron való átlépésének és az ország területén történő átvonulásának, illetve átrepülésének
+engedélyezését is jelenti, amennyiben az engedélyezés feltételei egyébként fennállnak.
+3. Az 1. mellékletben megjelölt, a Magyar Honvédség állományába és külföldi fegyveres erőkhöz tartozó kontingensek
+küldése, fogadása, illetve átvonulása – az adott gyakorlaton való részvételhez szükséges és indokolt mennyiségű –
+saját rendszeresített gép- és harcjárműveikkel, híradó és kommunikációs eszközeikkel, fegyverzetükkel, lőszer- és
+robbanóanyag ellátmányukkal, felszerelésükkel és a szállításukhoz szükséges járművekkel történhet.
+4. Ha az egyes gyakorlatok jellege azt indokolja, az engedély az 1. mellékletben meghatározott időtartamokon
+belül, a résztvevők – a vonatkozó összlétszám kereteit meg nem haladó – váltása érdekében történő, többszöri
+határátlépésére is vonatkozik.
+5. Ez a határozat 2017. január 1-jén lép hatályba.
+6. Hatályát veszti a 2016. évi határátlépéssel járó csapatmozgások engedélyezéséről szóló 1987/2015. (XII. 28.)
+Korm. határozat.
+ Orbán Viktor s. k.,
+ miniszterelnök
+
+1. melléklet az 1863/2016. (XII. 28.) Korm. határozathoz
+A 2017. évi tervezett határátlépéssel járó csapatmozgások jegyzéke
+1. Magyar részvétellel tervezett, külföldi fegyveres erők esetleges átvonulásával járó
+NATO/EU gyakorlatok és kiképzési rendezvények
+Fsz.
+A gyakorlat
+megnevezése
+Felelős A gyakorlat tervezett helye
+A gyakorlat
+tervezett
+időpontja
+Létszám
+(fő)
+legfeljebb
+1.
+SMART DEFENCE
+
+HVK
+HTCSF
+Lengyelország/
+NATO tagállamok
+I-IV. n. é. 15
+2.
+SOFEVAL
+rendezvények
+HVK
+HTCSF
+NATO tagállamok I-IV. n. é. 10
+3. ALLIED SPIRIT MH ÖHP
+Németország,
+Magyarország
+I-II. n. é. 100
+4. ARGONAUT MH ÖHP Ciprus I-IV. n. é. 30
+5.
+TRIDENT JAVELIN
+
+MH HFKP NATO EU tagállamok III-IV. n. é. 30
+6. NOBLE JUMP 2017 MH ÖHP NATO EU tagállamok I-IV. n. é. 135
+7.
+TRIDENT JOUST
+
+MH ÖHP NATO EU tagállamok I-III. n. é. 15
+8.
+NOBLE/BRILLIANT
+BLISTER
+MH ÖHP
+Németország/
+NATO EU tagállamok
+III. n. é. 10
+9.
+TRIDENT JAGUAR
+
+MH ÖHP
+Norvégia/
+NATO EU
+tagállamok
+II-III. n. é. 20
+10.
+STEADFAST
+INTEREST 2017
+KNBSZ/
+MH ÖHP
+Románia, Törökország,
+Olaszország, Szlovákia/
+NATO EU tagállamok
+I-IV. n. é. 60
+11.
+COMBINED
+RESOLVE
+MH ÖHP
+Németország/
+Magyarország
+II-III. n. é. 350
+12.
+BRAVE BEDUIN
+
+MH ÖHP Dánia I-II. n. é. 10
+13.
+RSM-KFOR MRE,
+MRAP, HMMWV
+2017 felkészítések
+MH ÖHP
+Németország/
+NATO EU tagállamok
+I-IV. n. é. 100
+14.
+CIMIC/PSYOPS
+felkészítési
+rendezvények 2017
+MH ÖHP
+NATO EU
+tagállamok/
+Magyarország
+I-IV. n. é. 200
+15.
+NRF ABV felderítő
+szakasz szintentartó
+rendezvényei 2017
+MH ÖHP NATO EU tagállamok I-IV. n. é. 50
+16.
+NRF Víztisztító
+szakasz felkészítési
+rendezvényei 2017
+MH ÖHP NATO EU tagállamok I-IV. n. é. 100
+
+Fsz.
+A gyakorlat
+megnevezése
+Felelős A gyakorlat tervezett helye
+A gyakorlat
+tervezett
+időpontja
+Létszám
+(fő)
+legfeljebb
+17.
+NRF-JAT 2017
+felkészítési
+rendezvényei
+MH ÖHP NATO EU tagállamok I-IV. n. é. 70
+18.
+TAAC/RS
+felkészítések I-
+IV.2017
+MH ÖHP Lengyelország I-IV. n. é. 100
+19.
+NATO C-IED
+felkészítések 2017
+MH ÖHP NATO tagállamok I-IV. n. é. 60
+20.
+JFO felkészítések
+(DYNAMIC FRONT
+2017)
+MH ÖHP
+Németország/
+NATO és EU tagállamok
+I-IV. n. é. 70
+21.
+SABER JUNCTION
+
+MH ÖHP
+Németország,
+Magyarország
+II. n. é. 320
+22.
+HUN-US kiajánlás I.
+– V. 2017
+MH ÖHP Magyarország I-IV. n. é. 1000
+23.
+CBRN First Response
+
+MH ÖHP Egyesült Királyság I. n. é. 5
+24.
+RAMSTEIN
+ASPECT 2017 repülő
+harcászati gyakorlat
+MH ÖHP
+Spanyolország,
+Magyarország
+IV. n. é. 60
+25.
+NEWFIP 2017.
+elektronikai
+hadviselés gyakorlat
+MH ÖHP
+Olaszország, Szlovénia,
+Magyarország
+II. n. é. 220
+26.
+RAMSTEIN
+AMBITION I-II.
+MH ÖHP NATO tagállamok II-III. n. é. 50
+27.
+Légierő nemzetközi
+kiképzések I-III
+MH ÖHP
+NATO és EU
+tagállamok
+I-IV. n. é. 50
+28.
+NATINAMDS
+gyakorlatokon való
+részvétel
+MH ÖHP
+NATO és EU
+tagállamok
+I-IV. n. é. 100
+29.
+RSM AAT 2017
+felkészítés
+MH ÖHP
+Horvátország,
+Csehország
+I-IV. n. é. 100
+30.
+JTAC/TACP 2017
+előretolt/harcászati
+repülésirányító
+kiképzés
+MH ÖHP
+NATO, EU és CEDC
+tagállamok
+I-IV. n. é. 30
+31.
+NATO Kiképzési
+rendezvények
+MH ÖHP
+NATO és EU
+tagállamok
+I-IV. n. é. 50
+32.
+MOVCON MILU
+2017 közlekedés
+koordináló gyakorlat
+MH ÖHP
+NATO és EU
+tagállamok
+I-IV. n. é. 20
+
+Fsz.
+A gyakorlat
+megnevezése
+Felelős A gyakorlat tervezett helye
+A gyakorlat
+tervezett
+időpontja
+Létszám
+(fő)
+legfeljebb
+33.
+NATO felajánlott
+KM tö.ti. csoport
+felkészítési
+rendezvények
+MH ÖHP
+NATO és EU
+tagállamok
+I-IV. n. é. 50
+34.
+SOCC/ Különleges
+Műveleti Komponens
+Parancsnokság
+felkészítés 2017
+MH ÖHP
+Magyarország/
+NATO és EU
+tagállamok
+I-IV. n. é. 270
+35.
+NSHQ hibrid
+hadviselés
+szeminárium 2017
+Assymmetric Warfare
+Course 2017
+MH ÖHP
+Magyarország/ NATO és EU
+tagállamok
+I-IV. n. é. 100
+36. DRAGON 2017 MH ÖHP Lengyelország III-IV. n. é. 100
+37.
+CYBER
+COALITION
+HVK
+HIICSF/MH
+BHD
+NATO tagállamok/
+Magyarország
+I-IV. n. é. 50
+38. LOCKED SHIELD
+HVK
+HIICSF/MH
+BHD
+NATO és EU tagállamok I-IV. n. é. 25
+39.
+CENTRAL
+EUROPEAN
+CYBER SECURITY
+PLATFORM
+(CECSP)
+HVK
+HIICSF/MH
+BHD
+V4 országok/
+Ausztria
+I-IV. n. é. 25
+40. CYBER EUROPE
+HVK
+HIICSF/
+MH BHD
+EU tagállamok I-IV. n. é. 20
+41.
+SABER GUARDIAN
+
+HVK
+KIKOCSF
+NATO és EU tagállamok II-III. n. é. 1500
+42.
+SWIFT RESPONSE
+
+HVK
+KIKOCSF
+NATO és EU tagállamok II-III. n. é. 3500
+43.
+NATO C-IED
+Képezd a Kiképzőt
+(C-IED Train the
+Trainer) nemzetközi
+tanfolyam
+MH AA Magyarország II-IV. n. é. 24
+44.
+NATO Nemzetközi
+Hadszíntéri
+Helyszínelő
+Tanfolyam (WIT)
+MH AA Hollandia I-III. n. é. 40
+45.
+STEADFAST FLOW MH KKK Törökország II. n. é. 3
+46.
+STEADFAST
+FOUNT
+MH KKK Törökország III. n. é. 3
+
+Fsz.
+A gyakorlat
+megnevezése
+Felelős A gyakorlat tervezett helye
+A gyakorlat
+tervezett
+időpontja
+Létszám
+(fő)
+legfeljebb
+47.
+NRF/VJTF készenlét
+szintentartó
+gyakorlat/felkészülési
+rendezvény
+MH EK
+NATO és EU tagállamok/
+NATO partnerországok
+I-IV. n. é. 18
+48.
+VIGOROUS
+WARRIOR 2017
+MH EK Németország III-IV. n. é. 32
+49. NATO MEDEVAL MH EK
+NATO és EU tagállamok/
+NATO partnerországok
+III-IV. n. é. 2
+50.
+NATO Emergency
+Medical
+Multinational Team
+(EMMT) TRNG
+MH EK Németország I-IV. n. é. 2
+51.
+OPCW körkontrol
+gyakorlat
+MH EK Hollandia I-IV. n. é. 2
+52.
+Medical
+Predeployment trng
+MH EK
+NATO és EU tagállamok/
+NATO partnerországok
+I-IV. n. é. 8
+53. NAT GEO MH LZ Grúzia III-IV. n. é. 20
+54.
+SABER STRIKE
+
+MH HFKP
+NATO és EU tagállamok/
+NATO partnerországok
+I-IV. n. é. 25
+55.
+PRECISE
+RECEPTION 2017
+MH HFKP Magyarország I-IV. n. é. 50
+56.
+BRILLANT
+LEDGER 2017
+MH ÖHP
+NATO és EU tagállamok/
+NATO partnerországok
+III. n. é. 150
+
+2. A Magyar Honvédség és a külföldi fegyveres erők részvételével tervezett két- és
+többoldalú megállapodásokon alapuló gyakorlatok és kiképzések.
+Fsz. A gyakorlat megnevezése Felelős
+A gyakorlat tervezett
+helye
+A
+gyakorlat
+tervezett
+időpontja
+Létszám
+(fő)
+leg-
+feljebb
+1.
+WISE FORESIGHT 2017
+HUN-ROU többnemzetiségű
+zászlóalj közös gyakorlat
+MH ÖHP
+Románia,
+Magyarország
+I-IV. n. é. 250
+2.
+BLONDE AVALANCHE
+2017 Többnemzetiségű
+katasztrófa elhárító gyakorlat
+MH ÖHP
+Szlovákia,
+Románia, Ukrajna,
+Magyarország
+III-IV. n. é. 40
+3. SZENTESI FOKOS I-II MH ÖHP Magyarország II-III. n. é. 350
+4. PURPLE FIELD 2017 MH ÖHP
+Szerbia,
+Magyarország
+I-II. n. é. 90
+5.
+BALKAN RESPONSE 2017
+Nemzetközi Vegyivédelmi
+gyakorlat
+MH ÖHP
+Szerbia,
+Magyarország
+IV. n. é. 10
+6. TISZA 2017 MH ÖHP
+Szerbia, Románia,
+Magyarország
+III-IV. n. é. 100
+7.
+BRAVE WARRIOR 2017
+(BÁTOR HARCOS) zászlóalj
+harccsoport gyakorlat
+MH ÖHP
+Magyarország/
+NATO és EU
+tagállamok
+III-IV. n. é. 3500
+8. MLF felkészítések MHÖHP
+Olaszország,
+Magyarország,
+Szlovénia
+I-IV. n. é. 50
+9. BOLD QUEST 2017 MH ÖHP
+NATO és EU
+tagállamok
+I-IV. n. é. 150
+10.
+TOXIC VALLEY 2017
+gyakorlat
+MHÖHP Szlovákia I-IV. n. é. 35
+11.
+BIZTOS AKARAT (STRONG
+WILL) 2017 magyar-francia-
+amerikai felderítő kiképzés
+MH ÖHP Magyarország II-IV. n. é. 200
+12.
+NEIGHBOURS 2017 szerb-
+magyar – Ohio National Guard
+gyakorlat
+MH
+ÖHP
+Magyarország,
+Szerbia
+III-IV. n. é. 250
+13. KHAAN QUEST MH ÖHP Mongólia I-IV. n. é. 5
+14.
+IRON CAT 2017 magyar-
+szerb közös flottilla kiképzés
+MH
+ÖHP
+Szerbia III-IV. n. é. 150
+15.
+SÁRARANY MEZŐ 2017
+ABV védelmi kiképzés
+MH
+ÖHP
+Szlovákia III-IV. n. é. 80
+16.
+IANUS 2017 HUMINT
+gyakorlat
+MH
+ÖHP
+Magyarország/
+NATO EU tagállamok
+III-IV. n. é. 120
+17.
+Tűzszerész hadszíntéri
+felkészítés érdekében történő
+rendezvények
+MH
+ÖHP
+Németország/
+NATO és EU
+tagállamok
+I-IV. n. é. 10
+
+Fsz. A gyakorlat megnevezése Felelős
+A gyakorlat tervezett
+helye
+A
+gyakorlat
+tervezett
+időpontja
+Létszám
+(fő)
+leg-
+feljebb
+18. GATOR kiképzés
+MH
+ÖHP
+USA I-IV. n. é. 5
+19.
+Szlovák-magyar közös búvár
+kiképzés
+MH
+ÖHP
+Szlovákia,
+Magyarország
+I-III. n. é. 50
+20. DETONATOR 2017 MH ÖHP Lettország III-IV. n. é. 30
+21.
+BLASTING CAP amerikai-
+magyar tűzszerész felkészítés
+MH ÖHP
+Németország,
+Magyarország
+II-III. n. é. 30
+22.
+HUN-US közös kiképzés
+(BALATON BLANKET)
+MH ÖHP Magyarország I-IV. n. é. 1000
+23. FEKETE FOLYÓ 2017 MH ÖHP Magyarország II-III. n. é. 300
+24. REJTETT PORTYA 2017 MH ÖHP Magyarország III-IV. n. é. 300
+25.
+AMPLE STRIKE 2017
+JTAC/repülő harcászati
+gyakorlat
+MH
+ÖHP
+Csehország III-IV. n. é. 30
+26. Pásztázott Légtér 2017
+MH
+ÖHP
+Magyarország,
+Spanyolország
+I-IV. n. é. 2*300
+27. EHV kiképzés MH ÖHP
+Magyarország,
+Spanyolország
+I-II. n. é. 350
+28.
+TOBRUK LEGACY
+légvédelmi rakéta gyakorlat
+MH ÖHP Csehország I-IV. n. é. 150
+29.
+CJPRSC 2017
+(APROC 17)
+MH ÖHP
+Olaszország/
+NATO és EU
+tagállamok
+II-IV. n. é. 50
+30. European Air Transport Fleet MH ÖHP
+NATO és EU
+tagállamok
+I-II. n. é. 50
+31.
+HUN-Colorado-New York –
+Ohio-Indiana NG felkészítési
+rendezvények
+MH ÖHP NATO EU tagállamok I-IV. n. é. 1100
+32. Air to Air Refuelling
+MH
+ÖHP
+NATO és EU
+tagállamok
+I-IV. n. é. 100
+33.
+European Air Transport
+Training 2017
+MH ÖHP NATO EU tagállamok I-IV. n. é. 50
+34. LOAD DIFFUSER 2017 MH ÖHP
+Magyarország/
+NATO és EU
+tagállamok
+I-II. n. é. 1000
+35.
+CROSS LANDING 2017
+román-magyar légi kutató-
+mentő gyakorlat
+MH ÖHP
+Románia,
+Magyarország
+III-IV. n. é. 70
+
+Fsz. A gyakorlat megnevezése Felelős
+A gyakorlat tervezett
+helye
+A
+gyakorlat
+tervezett
+időpontja
+Létszám
+(fő)
+leg-
+feljebb
+36. BLUE HORIZONT
+MH
+ÖHP
+Magyarország/
+NATO tagállamok
+IV. n. é. 120
+37.
+Ejtőernyős nemzetközi
+kiképzések
+MH ÖHP
+NATO és EU
+tagállamok
+I-IV. n. é. 100
+38.
+LORD MOUNTAIN 2017
+szlovén-magyar helikopter
+kiképzés
+MH
+ÖHP
+Szlovénia,
+Magyarország
+I-IV. n. é. 50
+39.
+Helikopter hajózó állomány
+szimulátoros felkészítése 2017
+MH
+ÖHP
+Szlovákia/
+NATO EU tagállamok
+I-IV. n. é. 50
+40.
+EDA
+FIRE BLADE 2017
+helikopteres program
+MH
+ÖHP
+Magyarország I-II. n. é. 1250
+41.
+Personnel Recovery
+kiképzések 2017
+MH ÖHP
+NATO és EU
+tagállamok
+I-IV. n. é. 50
+42.
+ADRIATIC STRIKE 2017
+gyakorlat
+MH ÖHP Szlovénia II. n. é. 50
+43.
+Magyar-amerikai közös
+kiképzések
+MH ÖHP
+Magyarország/
+NATO tagállamok
+I-IV n. é. 2000
+44. TLP gyakorlat MH ÖHP Spanyolország II. n. é. 100
+45. TOBRUQ ARROW 2017 MH ÖHP Csehország I-III. n. é. 200
+46. Gripen display pilot kiképzés MH ÖHP Svédország I-IV. n. é. 10
+47. SAFETY TRANSPORT MH ÖHP Magyarország II-III.. n. é. 80
+48.
+VÁRPALOTA CHALLENGE
+Nemzetközi térítéses
+gyakorlatok
+MH ÖHP Magyarország I-IV. n. é. 50
+49.
+BLACK SWAN 2017
+Nemzetközi Különleges
+Műveleti Gyakorlat
+MH ÖHP
+Magyarország/
+NATO EU tagállamok
+III-IV. n. é. 3000
+50.
+Horvát-magyar búvár
+különleges műveleti kiképzés
+MH ÖHP
+Horvátország,
+Magyarország
+III-IV. n. é. 100
+51.
+JCET magyar-amerikai közös
+KM felkészítés I-III 2017
+MH ÖHP
+Magyarország/
+NATO és EU
+tagállamok
+I-IV. n. é. 50
+52.
+Francia-magyar közös
+különleges műveleti kiképzés
+MH
+ÖHP
+Franciaország,
+Magyarország
+I-IV. n. é. 70
+53. SAFETY FUEL MH LK Németország III-IV. n. é. 60
+
+Fsz. A gyakorlat megnevezése Felelős
+A gyakorlat tervezett
+helye
+A
+gyakorlat
+tervezett
+időpontja
+Létszám
+(fő)
+leg-
+feljebb
+54.
+Combined Joint European
+Exercise (CJEX)
+NKE HHK Olaszország II. n. é. 5
+55. COALITION 2017 NKE HHK Franciaország II-III. n. é. 5
+56. COMMIT NKE HHK Franciaország II-III. n. é. 10
+57. COMMON TRAIL NKE HHK Németország IV. n. é. 10
+58. FOURLOG 2017 NKE HHK
+Ausztria,
+Magyarország, Cseh
+Köztársaság
+I. n. é. 60
+59. MAGLITE 2017 NKE HHK Egyesült Királyság II. n. é. 50
+60. TRAINING BRIDGE
+MH HFKP
+balti államok III. n. é. 250
+
+3. Magyarország területén és légterén történő áthaladások és átrepülések
+Fsz. A tevékenység megnevezése
+A feladat tervezett
+időpontja
+Engedélyezett létszám
+1.
+KFOR (NATO) Koszovó békefenntartó
+misszió keretében történő áthaladások
+I–IV. n. é.
+egyidejűleg legfeljebb
+1000 fő
+2.
+EUFOR ALTHEA misszió keretében történő
+áthaladások
+I–IV. n. é.
+egyidejűleg legfeljebb
+1000 fő
+3.
+NATO RSM misszió keretében történő
+áthaladások
+I–IV. n. é.
+egyidejűleg legfeljebb
+1000 fő
+4.
+Iszlám Állam elnevezésű terrorszervezet elleni
+nemzetközi fellépés keretében történő
+áthaladások
+I–IV. n. é.
+egyidejűleg legfeljebb
+1000 fő
+5.
+UNFICYP misszió keretében történő
+áthaladások
+I–IV. n. é.
+egyidejűleg legfeljebb
+1000 fő
+6.
+EUTM Mali misszió keretében történő
+áthaladások
+I–IV. n. é.
+egyidejűleg legfeljebb
+200 fő
+7.
+EUTM Somalia misszió keretében történő
+áthaladások
+I–IV. n. é.
+egyidejűleg legfeljebb
+200 fő
+8.
+MINURSO Nyugat-Szahara misszió keretében
+történő áthaladások
+I–IV. n. é.
+egyidejűleg legfeljebb
+200 fő
+9.
+MINUSCA Közép-afrikai Köztársaság misszió
+keretében történő áthaladások
+I–IV. n. é.
+egyidejűleg legfeljebb
+500 fő
+10.
+EUNAVFOR MED misszió keretében történő
+áthaladások
+I–IV. n. é.
+egyidejűleg legfeljebb
+500 fő
+11.
+ENSZ UNIFIL békefenntartó misszió
+keretében történő áthaladások
+I–IV. n. é.
+egyidejűleg legfeljebb
+500 fő
+12.
+MFO békefenntartó misszió keretében történő
+áthaladások
+I–IV. n. é.
+egyidejűleg legfeljebb
+1000 fő
+13.
+EUFOR RCA Közép-afrikai Köztársaság
+misszió keretében történő áthaladások
+I–II. n. é.
+egyidejűleg legfeljebb
+500 fő
+14.
+EUMM Grúzia misszió keretében történő
+áthaladások
+I–IV. n. é.
+egyidejűleg legfeljebb
+200 fő
+15.
+A Pápán települő Stratégiai Légiszállítási
+Képességgel kapcsolatos katonai szállítás
+jellegű csapatmozgások
+I–IV. n. é.
+egyidejűleg legfeljebb
+1000 fő
+16.
+A Pápán települő Stratégiai Légiszállítási
+Képességgel kapcsolatos, a magyar felségjelű
+légijárművekhez kötődő kiképzési jellegű
+csapatmozgások
+I–IV. n. é.
+egyidejűleg legfeljebb
+500 fő
+17.
+Szövetséges felderítő légijárművek áthaladása
+a magyar légtérben
+I–IV. n. é. –
+18.
+Joint Combined Exchange Training
+szövetségesi gyakorlatok
+Románia/Bulgária/Görögország
+I–IV. n. é.
+egyidejűleg legfeljebb
+1000 fő
