@@ -24,7 +24,7 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2016. szeptember 30.
 
-2. A Kormány Békéscsaba gazdasági versenyképességének erősítése keretében támogatja a városi ipari park bővítését, iparfejlesztési célra alkalmas további területek kialakítását és fejlesztését, amely érdekében felhívja a nemzeti fejlesztési minisztert, a nemzetgazdasági minisztert és a földművelésügyi minisztert, hogy tegyék meg, illetve kezdeményezzék a Kormánynál azon intézkedéseket, amelyek a fejlesztésekhez szükségesek.
+2.[^1] A Kormány Békéscsaba gazdasági versenyképességének erősítése keretében támogatja a városi ipari park bővítését, iparfejlesztési célra alkalmas további területek kialakítását, valamint a városban működő termelőüzemek további fejlődéséhez szükséges, a meglévő iparterületeket érintő komplex infrastrukturális fejlesztéseket, amely érdekében felhívja a nemzeti fejlesztési minisztert, a nemzetgazdasági minisztert és a földművelésügyi minisztert, hogy tegyék meg, illetve kezdeményezzék a Kormánynál azon intézkedéseket, amelyek a fejlesztésekhez szükségesek.
 
 Felelős: nemzeti fejlesztési miniszter
 
@@ -32,7 +32,7 @@ nemzetgazdasági miniszter
 
 földművelésügyi miniszter
 
-Határidő: azonnal
+Határidő: 2017. március 31.
 
 3. A Kormány a térségi élelmiszeripar újjáélesztésének elősegítése érdekében felhívja a földművelésügyi minisztert, hogy az Önkormányzattal együttműködve vizsgálja meg a Békéscsabán tervezett
 
@@ -159,3 +159,5 @@ b) felhívja az 1–8. pontban felelősként megjelölt minisztereket, hogy – 
 Felelős: az 1–8. pontban felelősként megjelölt miniszterek
 
 Határidő: azonnal
+
+[^1]: A 2. pont az 1878/2016. (XII. 28.) Korm. határozat szerint módosított szöveg.
