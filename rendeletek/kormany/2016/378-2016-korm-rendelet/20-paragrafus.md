@@ -6,10 +6,6 @@
 
 (3) A NEFI egészségügyi szolgáltatói feladatai tekintetében az ÁEEK a jogutód.
 
-(4) A NEFI
+(4)[^5] A NEFI európai uniós projektjei megvalósításával és az e feladat menedzsmentjével kapcsolatos feladatai tekintetében jogutód az Országos Közegészségügyi Intézet.
 
-a) TÁMOP-6.1.3/B/12/1 „Népegészségügyi kommunikáció fejlesztése”,
-
-b) TÁMOP-6.1.1/12/1 „Egészségfejlesztési szakmai hálózat létrehozása”,
-
-c) TÁMOP-6.1.2.A -14/1 „Teljes körű Iskolai Egészségfejlesztés”
+[^5]: A 20. § (4) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.

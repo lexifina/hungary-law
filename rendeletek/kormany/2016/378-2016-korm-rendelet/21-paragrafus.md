@@ -1,5 +1,3 @@
-## elnevezésű európai uniós projektjei megvalósításával és az e feladat menedzsmentjével kapcsolatos feladatok tekintetében jogutód az ÁEEK.
-
 ## 20. Az Országos Epidemiológiai Központ megszüntetése
 
 21. § (1) Az Országos Epidemiológiai Központ (a továbbiakban: OEK) 2017. március 31. napjával az Áht. 11. § (3b) bekezdés b) pontja alapján beolvadásos különválás útján jogutódlással megszűnik.
