@@ -18,7 +18,7 @@
 
 ## Határidő: 2016. december 30.
 
-1. melléklet az 1802/2016. (XII. 20.) Korm. határozathoz
+1. melléklet az 1802/2016. (XII. 20.) Korm. határozathoz[^1]
 
 | A támogatási cél/fejlesztés megnevezése | Kedvezményezett | Igényelt összeg (Ft) |
 
@@ -100,7 +100,7 @@
 
 | vajdasági ingatlanberuházási támogatás | Tanyaszínház | 65 000 000 |
 
-| vajdasági szervezet programjának, célitűzéseinek és ingatlanberuházásának támogatása | Doo Magyar Szó Kft. | 95 000 000 |
+| vajdasági szervezet programjának, célitűzéseinek és ingatlanberuházásának támogatása | Magyar Nemzeti Tanács | 95 000 000 |
 
 | vajdasági szervezet programjának, célitűzéseinek és ingatlanberuházásának támogatása | Magyar Nemzeti Tanács | 80 000 000 |
 
@@ -124,9 +124,9 @@
 
 | muravidéki ingatlanberuházási támogatás | Muravidéki Magyar Önkormányzati Nemzeti Közösség | 50 000 000 |
 
-| muravidéki ingatlanberuházási támogatás | Dobronak Községi Magyar Önkormányzati Nemzeti Közösség | 50 000 000 |
+| muravidéki ingatlanberuházási támogatás | Dobronak Községi Magyar Önkormányzati Nemzeti Közöség | 50 000 000 |
 
-| muravidéki ingatlanberuházási támogatás | Muravidéki Magyar Önkormányzati Nemzeti Közösség | 30 000 000 |
+| muravidéki ingatlanberuházási támogatás | Muravidéki Magyar Önkormányzati Nemzeti Közöség | 30 000 000 |
 
 | diaszpóra ingatlanberuházási támogatás | Magyar Katolikus Püspöki Konferencia | 2 500 000 000 |
 
@@ -146,7 +146,9 @@
 
 | kárpátaljai ingatlanberuházási támogatás | Kárpátaljai Magyar Pedagógusszövetség | 45 000 000 |
 
-| kárpátaljai ingatlanberuházási támogatás | Pannónia Szociokulturális Fejlődés Társaság | 25 000 000 |
+| kárpátaljai ingatlanberuházási támogatás | M.Pokrova Jótékonysági Alapítvány (Oltalom Jótékonysági Alapítvány) | 19 500 000 |
+
+| kárpátaljai ingatlanberuházási támogatás | Pannónia Szociokulturális Fejlődés Társaság | 5 500 000 |
 
 | kárpátaljai ingatlanberuházási támogatás | Kárpátaljai Magyar Tanárképző Főiskoláért Jótékonysági Alapítvány | 110 000 000 |
 
@@ -170,7 +172,7 @@
 
 | kárpátaljai ingatlanberuházási támogatás | Sztojka Sándor Jótékonysági Alapítvány | 600 000 000 |
 
-| kárpátaljai ingatlanberuházási támogatás | Munkácsi Görög Katolikus Egyházmegye | 46 000 000 |
+| kárpátaljai ingatlanberuházási támogatás | Munkácsi Görög Katolikus Egyházmegye Beregszászi Esperesi Kerület | 46 000 000 |
 
 | kárpátaljai ingatlanberuházási támogatás | Nagydobronyi Református Egyházközség | 10 000 000 |
 
@@ -182,7 +184,7 @@
 
 | felvidéki ingatlanberuházási támogatás | Ilosvai Néptáncegyüttes | 118 000 000 |
 
-| felvidéki szervezet programjának, célkitűzéseinek és ingatlanberuházásának támogatása | Márai Sándor Gimnázium és Alapiskola | 98 000 000 |
+| felvidéki szervezet programjának, célkitűzéseinek és ingatlanberuházásának támogatása | Márai Sándor Gimnázim és Alapiskola | 98 000 000 |
 
 | felvidéki ingatlanberuházási támogatás | Csemadok Kassai Városi Választmánya | 129 000 000 |
 
@@ -204,7 +206,17 @@
 
 | felvidéki ingatlanberuházási támogatás | Szlovákiai Református Keresztyén Egyház | 428 350 000 |
 
-| felvidéki ingatlanberuházási támogatás | Fegyverneki Ferenc Közös Igazgatású Katolikus Iskola, Palásthy Pál Egyházi Alapiskola, Szent Imre Egyházi Óvoda, Magyar Tannyelvű Szent János Egyházi Alapiskola, Szent Rita Egyházi Alapiskola, Szent István Egyházi Alapiskola | 57 000 000 |
+| felvidéki ingatlanberuházási támogatás | Fegyverneki Ferenc Közös Igazgatású Katolikus Iskola | 21 000 000 |
+
+| felvidéki ingatlanberuházási támogatás | Palásthy Pál Egyházi Alapiskola | 6 000 000 |
+
+| felvidéki ingatlanberuházási támogatás | Szent Imre Egyházi Óvoda | 5 000 000 |
+
+| felvidéki ingatlanberuházási támogatás | Magyar Tannyelvű Szent János Egyházi Alapiskola | 15 000 000 |
+
+| felvidéki ingatlanberuházási támogatás | Szent Rita Egyházi Alapiskola | 5 000 000 |
+
+| felvidéki ingatlanberuházási támogatás | Szent István Egyházi Alapiskola | 5 000 000 |
 
 | felvidéki ingatlanberuházási támogatás | Marianum MTNy Egyházi Iskolaközpont | 186 000 000 |
 
@@ -225,3 +237,5 @@
 | felvidéki ingatlanberuházási támogatás | Görögkatolikus Magyar Esperesség | 4 500 000 |
 
 | felvidéki ingatlanberuházási támogatás | a komáromi római katolikus plébánia hivatala | 20 000 000 |
+
+[^1]: Az 1. melléklet az 1883/2016. (XII. 28.) Korm. határozat 1. pontjával megállapított szöveg.
