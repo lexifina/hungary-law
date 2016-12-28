@@ -4,7 +4,9 @@ a) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény ügyfe
 
 b) e törvény a fizetési titok megtartásának kötelezettsége alól felmentést ad,
 
-c) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy lejárt követelése érvényesítéséhez szükségessé teszi.
+c) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény érdeke ezt az ügyféllel szemben fennálló követelése eladásához vagy lejárt követelése érvényesítéséhez szükségessé teszi,
+
+d) a pénzforgalmi intézmény, elektronikuspénz-kibocsátó intézmény által megbízott tanúsító szervezet és alvállalkozója ezt a tanúsítási eljárás lefolytatása keretében ismeri meg.
 
 (2) Az (1) bekezdés b) pontjában foglaltak alapján a fizetési titok megtartásának kötelezettsége nem áll fenn
 
