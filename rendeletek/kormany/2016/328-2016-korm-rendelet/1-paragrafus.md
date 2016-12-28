@@ -6,11 +6,11 @@
 
 (3)[^2]
 
-(4)[^3] A területi kezelésű kérelemkezelési, helyszíni ellenőrzési, megyei ügyfélszolgálati feladatok, továbbá a kölcsönös megfeleltetéssel összefüggő ellenőrzési feladatok tekintetében az MVH feladatait 2017. január 1-jétől a megyei kormányhivatalok látják el. E feladatkijelölés nem érinti a Kincstár kifizető ügynökségi feladatkörébe tartozó feladatait.
+(4)[^3] A területi kezelésű kérelemkezelési, helyszíni ellenőrzési, megyei ügyfélszolgálati feladatokat 2017. január 1-jétől a megyei kormányhivatalok, a kölcsönös megfeleltetéssel összefüggő helyszíni ellenőrzési feladatokat a megyei kormányhivatalok megyeszékhely szerinti járási hivatalai látják el. E feladatkijelölés nem érinti a Kincstár kifizető ügynökségi feladatkörébe tartozó feladatait.
 
 (5)–(6)[^4]
 
 [^1]: Az 1. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 326. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^2]: Az 1. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 326. § (3) bekezdése hatályon kívül helyezte.
-[^3]: Az 1. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 326. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^3]: Az 1. § (4) bekezdése a 473/2016. (XII. 27.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
 [^4]: Az 1. § (5)–(6) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 326. § (3) bekezdése hatályon kívül helyezte.
