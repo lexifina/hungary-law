@@ -1,0 +1,9 @@
+# 494/2016. (XII. 28.) Korm. rendelet
+
+a Modern Városok Program keretében Kaposváron megvalósuló sportinfrastruktúra-fejlesztések megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-494-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-12-29 | 2016-494-20-22.1 | 494/2016. (XII. 28.) Korm. rendelet |
