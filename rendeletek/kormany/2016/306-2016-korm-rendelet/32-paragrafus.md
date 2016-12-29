@@ -1,3 +1,3 @@
 ## 31. §[^14]
 
-[^14]: A 31. § a 43. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^14]: A 31. § a 496/2016. (XII. 28.) Korm. rendelet 86. § (1) bekezdés a) pontja alapján nem lép hatályba.
