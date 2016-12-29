@@ -46,6 +46,6 @@
 
 | 7 | gyakorlati oktatásvezető | tagintézményenként 200-nál több tanuló | 1 |
 
-4. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^184]
+4. melléklet a 326/2013. (VIII. 30.) Korm. rendelethez[^187]
 
-[^184]: A 4. melléklet a 89/2015. (IV. 9.) Korm. rendelet 22. §-a szerint módosított szöveg.
+[^187]: A 4. melléklet a 89/2015. (IV. 9.) Korm. rendelet 22. §-a szerint módosított szöveg.

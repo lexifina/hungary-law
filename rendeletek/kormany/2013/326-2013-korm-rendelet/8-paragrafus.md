@@ -10,9 +10,9 @@ d)[^24] az információk értékelése, felkészülés a portfólióvédés lebo
 
 e) a portfólióvédés.
 
-(1a)[^25] A Gyakornok fokozatba besorolt, pedagógus szakképzettséggel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott a nevelési, vagy tanítási félévenként legalább öt, a pedagógus szakképzettségének, szakképesítésének megfelelő tanórát, vagy foglalkozást köteles látogatni (a továbbiakban: hospitálás), amelyről a szakmai megállapításait is magában foglaló hospitálási naplót vezet.
+(1a)[^25] A Gyakornok fokozatba besorolt, pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatott a nevelési, vagy tanítási félévenként legalább öt, a pedagógus szakképzettségének, szakképesítésének megfelelő tanórát, vagy foglalkozást köteles látogatni (a továbbiakban: hospitálás), amelyről a szakmai megállapításait is magában foglaló hospitálási naplót vezet.
 
-(1b)[^26] A pedagógus szakképzettséggel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottak esetében a minősítő vizsga – az (1) bekezdésben foglaltaktól eltérően – magában foglalja
+(1b)[^26] A pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottak esetében a minősítő vizsga – az (1) bekezdésben foglaltaktól eltérően – magában foglalja
 
 a) az intézményvezető által a helyi értékelési szabályzatban a nevelő és oktató munkát közvetlenül segítő munkakörhöz igazodóan meghatározott, a munkakör ellátásának célkitűzéseit, tervezését magában foglaló helyi minősítési, vagy gyakornoki követelmények teljesítését, valamint
 
@@ -39,8 +39,8 @@ b)[^27] a Kutatótanári pályázat benyújtása és bírálata.
 (6) Ha a Mesterpedagógus és a Kutatótanár fokozatot szerzett pedagógus a pályázatát nem újítja meg, őt vissza kell sorolni a Mesterpedagógus és a Kutatótanár fokozatba történt besorolását megelőzően elért legmagasabb fokozatba és a fizetési kategória megállapításához figyelembe vehető jogviszonyának megfelelő kategóriába kell besorolni.
 
 [^24]: A 8. § (1) bekezdés d) pontja a 249/2015. (IX. 8.) Korm. rendelet 16. § a) pontja szerint módosított szöveg.
-[^25]: A 8. § (1a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
-[^26]: A 8. § (1b) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be.
+[^25]: A 8. § (1a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be, szövege a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
+[^26]: A 8. § (1b) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 6. § (1) bekezdése iktatta be, nyitó szövegrésze a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
 [^27]: A 8. § (3) bekezdés b) pontja a 235/2016. (VII. 29.) Korm. rendelet 6. § (2) bekezdésével megállapított szöveg.
 [^28]: A 8. § (4) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 38. § b) pontja szerint módosított szöveg.
 [^29]: A 8. § (5) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.

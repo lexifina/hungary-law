@@ -1,4 +1,4 @@
-12/C. §[^80] (1) A minősítő vizsgát, a minősítési eljárást, valamint a bírálati eljárást meg kell szüntetni, ha
+12/C. §[^82] (1) A minősítő vizsgát, a minősítési eljárást, valamint a bírálati eljárást meg kell szüntetni, ha
 
 a) az OH vagy a minősítő, illetve bíráló bizottság az eljárás bármely szakaszában észleli, hogy a pedagógus a jogszabályi feltételek hiányában nem szerepelhetett volna a minősítési tervben – ideértve azt az esetet is, ha a vezetői, magasabb vezetői feladatok ellátáshoz kapcsolódó programot megvalósítani kívánó pedagógus vezetői, magasabb vezetői megbízása az eljárás alatt bármely okból megszűnik –, vagy a pedagógus munkakörben való foglalkoztatás jogszabályi követelményeinek nem felel meg,
 
@@ -28,4 +28,4 @@ c) a 4. § (1a) bekezdésében meghatározott pedagógus-továbbképzés elvégz
 
 (5) Ha a minősítő vizsga, minősítési vagy bírálati eljárás az (1) bekezdés d) pontja alapján szűnt meg, és a megszűnés időpontjától számított három hónapon belül új munkaviszonyt vagy közalkalmazotti jogviszonyt létesít, a jogviszony létesítését követő tizenöt napon belül kérheti az OH-tól, hogy szervezze meg a megszűnt minősítő vizsga, minősítési vagy bírálati eljárás követelményei szerinti minősítését. Ennek során a 11/A. § (4) bekezdésében foglalt kérelmet is előterjesztheti. Az OH a kérelmet csak akkor utasíthatja el, ha a megszervezés a 11/B. § (5) bekezdés alkalmazásával sem lehetséges.
 
-[^80]: A 12/C. § a 235/2016. (VII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^82]: A 12/C. § a 235/2016. (VII. 29.) Korm. rendelet 20. §-ával megállapított szöveg.

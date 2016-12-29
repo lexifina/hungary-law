@@ -1,6 +1,6 @@
 9. §[^30] (1) A pedagógusértékelési eszközök – így különösen a minősítő vizsga és a minősítési eljárás során használt értékelőlapok, megfigyelési, értékelési szempontok, feldolgozási segédletek, a portfólió, a Mesterpedagógus és Kutatótanár pályázat részletes követelményei – egységesek és nyilvánosak. A pedagógusértékelési eszközöket – a Gyvt. hatálya alá tartozó intézménynél foglalkoztatott pedagógusok munkaköri feladatainak sajátosságaira is figyelemmel – az OH dolgozza ki, a miniszter hagyja jóvá.
 
-(2) A pedagógus szakképzettséggel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra irányadó helyi értékelési szabályzat tartalmazza legalább
+(2)[^31] A pedagógus szakképzettséggel vagy szakképesítéssel rendelkező nevelő és oktató munkát közvetlenül segítő munkakörben foglalkoztatottakra irányadó helyi értékelési szabályzat tartalmazza legalább
 
 a) a minősítés alapjául szolgáló, a munkáltató szervezetéhez és a betöltött munkakör követelményeihez kapcsolódó szakmai követelményrendszert,
 
@@ -13,3 +13,4 @@ c) a minősítési követelmények teljesítésével és a teljesítmény méré
 (4) A helyi értékelési szabályzat kiadása előtt az intézmény vezetője kikéri az alkalmazotti közösség véleményét. A szabályzatot az intézmény honlapján közzé kell tenni.
 
 [^30]: A 9. § a 235/2016. (VII. 29.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^31]: A 9. § (2) bekezdés nyitó szövegrésze a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.

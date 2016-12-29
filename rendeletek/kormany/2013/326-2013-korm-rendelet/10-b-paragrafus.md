@@ -1,4 +1,4 @@
-10/B. §[^46] (1) Az OH az intézményvezető által az informatikai rendszerben rögzített adatok alapján ellenőrzi, hogy a pedagógus megfelel-e a minősítő vizsga, illetve a minősítési eljárás lefolytatása feltételeinek.
+10/B. §[^47] (1) Az OH az intézményvezető által az informatikai rendszerben rögzített adatok alapján ellenőrzi, hogy a pedagógus megfelel-e a minősítő vizsga, illetve a minősítési eljárás lefolytatása feltételeinek.
 
 (2) Ha az intézményvezető a minősítő vizsgát, a kötelező minősítési eljárást, vagy – a pedagógus határidőig megtett kezdeményezése ellenére – a nem kötelező minősítési eljárásra való jelentkezést nem vagy hibásan rögzítette az informatikai rendszerben, a pedagógus
 
@@ -10,4 +10,4 @@ b) év közben keletkező jogviszonnyal, vagy a pedagógus előmeneteli rendszer
 
 (3) A kérelmet az OH-n keresztül kell benyújtani.
 
-[^46]: A 10/B. § a 235/2016. (VII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^47]: A 10/B. § a 235/2016. (VII. 29.) Korm. rendelet 12. §-ával megállapított szöveg.

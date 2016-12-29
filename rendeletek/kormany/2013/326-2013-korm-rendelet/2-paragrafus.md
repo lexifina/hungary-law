@@ -4,7 +4,7 @@
 
 ## 1/B. [^5] A köznevelési intézményben pedagógus-munkakörben foglalkoztatottak fokozatokba történő besorolásához szükséges követelmények
 
-2. § (1)[^6] A köznevelési intézményben a pedagógus előmeneteli rendszer hatálya alá tartozó munkakör betöltéséhez előírt végzettséggel és szakképzettséggel, valamint két évnél kevesebb szakmai gyakorlattal rendelkező pedagógust, továbbá a (3) és (4) bekezdés, valamint a 13. § (3) bekezdése szerinti esetben a pedagógust Gyakornok fokozatba kell besorolni, kivéve abban az esetben, ha korábban már ennél magasabb fokozatba való besorolásra jogosultságot szerzett. A gyakornok számára a foglalkoztatási jogviszony létesítésekor, vagy a pedagógus előmeneteli rendszer hatálya alá történő átkerülés esedékességének időpontjában a kinevezésben, munkaszerződésben két év gyakornoki idő kikötése kötelező.
+2. § (1)[^6] A köznevelési intézményben a pedagógus előmeneteli rendszer hatálya alá tartozó munkakör betöltéséhez előírt végzettséggel és szakképzettséggel vagy szakképesítéssel, valamint két évnél kevesebb szakmai gyakorlattal rendelkező pedagógust, továbbá a (3) és (4) bekezdés, valamint a 13. § (3) bekezdése szerinti esetben a pedagógust Gyakornok fokozatba kell besorolni, kivéve abban az esetben, ha korábban már ennél magasabb fokozatba való besorolásra jogosultságot szerzett. A gyakornok számára a foglalkoztatási jogviszony létesítésekor, vagy a pedagógus előmeneteli rendszer hatálya alá történő átkerülés esedékességének időpontjában a kinevezésben, munkaszerződésben két év gyakornoki idő kikötése kötelező.
 
 (2) A két év gyakornoki időbe a foglalkoztatási jogviszony létesítése előtt megszerzett szakmai gyakorlat idejét be kell számítani azzal, hogy gyakornoki időként a két évből hátra levő időt kell – a (3) bekezdésben foglaltakra is figyelemmel – a kinevezésben, a munkaszerződésben rögzíteni. Ha az ilyen módon számított gyakornoki idő lejárta és a minősítő vizsga között kevesebb, mint egy hónap lenne hátra, a gyakornoki időt egy hónappal vagy a pedagógus kérésére legfeljebb hat hónappal meg kell hosszabbítani.
 
@@ -33,5 +33,5 @@ tesz minősítő vizsgát.
 (11) A munkáltató a foglalkoztatási jogviszony létesítésekor köteles írásban tájékoztatni a gyakornokot a minősítő vizsga esedékességének időpontjáról. Ha a minősítő vizsga időpontja – különösen a foglalkoztatási jogviszony szünetelése miatt – módosul, erről a gyakornokot írásban tájékoztatni kell.
 
 [^5]: Az 1/B. alcímet (2–5. §-t) a 249/2015. (IX. 8.) Korm. rendelet 2. §-a iktatta be. A II. fejezet eredeti 1. alcímét a 249/2015. (IX. 8.) Korm. rendelet 17. § a) pontja hatályon kívül helyezte.
-[^6]: A 2. § (1) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. § (1) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 2. § (1) bekezdésével megállapított, a 486/2016. (XII. 28.) Korm. rendelet 14. § a) pontja szerint módosított szöveg.
 [^7]: A 2. § (3) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.

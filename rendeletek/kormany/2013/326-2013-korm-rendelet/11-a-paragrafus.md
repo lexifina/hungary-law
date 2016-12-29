@@ -1,10 +1,10 @@
-11/A. § (1)[^58] A pedagógus legkésőbb a minősítés évét megelőző év november 25. napjáig tölti fel portfólióját vagy pályázatát az informatikai rendszerbe.
+11/A. § (1)[^60] A pedagógus legkésőbb a minősítés évét megelőző év november 25. napjáig tölti fel portfólióját vagy pályázatát az informatikai rendszerbe.
 
-(1a)[^59] A portfólió, pályázat feltöltésére szolgáló informatikai hozzáférést a minősítés évét megelőző év június 30-ától – vagy év közben létesített munkaviszony, közalkalmazotti jogviszony esetén ettől eltérő időpontban – kell biztosítani úgy, hogy a portfólió, pályázat feltöltésére legalább negyvenöt nap álljon rendelkezésre.
+(1a)[^61] A portfólió, pályázat feltöltésére szolgáló informatikai hozzáférést a minősítés évét megelőző év június 30-ától – vagy év közben létesített munkaviszony, közalkalmazotti jogviszony esetén ettől eltérő időpontban – kell biztosítani úgy, hogy a portfólió, pályázat feltöltésére legalább negyvenöt nap álljon rendelkezésre.
 
-(1b)[^60] A portfóliót feltöltöttnek kell tekinteni, ha az tartalmazza – a 9/B. § (1) bekezdés e) pontja kivételével – a 9/B. § (1) bekezdése szerinti kötelező elemeket. Pályázat esetén hiánypótlásra nincs lehetőség.
+(1b)[^62] A portfóliót feltöltöttnek kell tekinteni, ha az tartalmazza – a 9/B. § (1) bekezdés e) pontja kivételével – a 9/B. § (1) bekezdése szerinti kötelező elemeket. Pályázat esetén hiánypótlásra nincs lehetőség.
 
-(1c)[^61] Ha a portfólió feltöltése az (1) bekezdésben foglalt időpontig
+(1c)[^63] Ha a portfólió feltöltése az (1) bekezdésben foglalt időpontig
 
 a) a pedagógus jogviszonya keletkezésének időpontjára tekintettel vagy
 
@@ -12,15 +12,15 @@ b) minősítő vizsga vagy kötelező minősítési eljárás esetén az eljár�
 
 ## nem lehetséges, az OH más időpontot jelöl ki és biztosítja a portfólió feltöltésének technikai feltételeit.
 
-(2)[^62] Ha a pedagógus a portfólió vagy a pályázat feltöltésére vonatkozó, az (1) vagy (1c) bekezdésben előírt határidőt elmulasztja, az OH megállapítja a minősítő vizsga, a minősítési vagy bírálati eljárás sikertelenségét.
+(2)[^64] Ha a pedagógus a portfólió vagy a pályázat feltöltésére vonatkozó, az (1) vagy (1c) bekezdésben előírt határidőt elmulasztja, az OH megállapítja a minősítő vizsga, a minősítési vagy bírálati eljárás sikertelenségét.
 
 (3) Ha az (1) bekezdés alapján sikeresen feltöltött portfólió tekintetében hiánypótlás szükséges, a minősítő bizottság elnökének felszólítására a pedagógus azt legkésőbb a portfólióvédést megelőző huszadik nap előtt megteheti. Ennek hiányában az OH megállapítja a minősítő vizsga, a minősítési eljárás sikertelenségét.
 
-(4)[^63] Ha a minősítési tervbe való felvételt követően a pedagógus munkaköre vagy – tanár munkakörben foglalkoztatott pedagógus esetében – az általa tanított tantárgy megváltozik, és ennek következtében a pedagógus véleménye szerint a minősítő vizsga, a minősítési eljárás a jelentkezéskor betöltött munkakör vagy megjelölt tantárgy vonatkozásában nem valósítható meg, a pedagógus a változástól számított öt napon belül, de – minősítési eljárás esetében – legkésőbb a portfólióvédés, pályázat védése időpontja előtti harmincötödik napig kezdeményezi az OH-nál portfóliójának vagy pályázatának a változás miatti módosítását. A portfólió vagy pályázat módosítására az OH-nak a kezdeményezés tudomásulvételéről szóló, az informatikai rendszerben megküldött értesítését követő harmincadik napig kerülhet sor. A minősítő vizsgát, a minősítési eljárást a megváltozott munkakör vagy a tanított tantárgy tekintetében kell lefolytatni.
+(4)[^65] Ha a minősítési tervbe való felvételt követően a pedagógus munkaköre vagy – tanár munkakörben foglalkoztatott pedagógus esetében – az általa tanított tantárgy megváltozik, és ennek következtében a pedagógus véleménye szerint a minősítő vizsga, a minősítési eljárás a jelentkezéskor betöltött munkakör vagy megjelölt tantárgy vonatkozásában nem valósítható meg, a pedagógus a változástól számított öt napon belül, de – minősítési eljárás esetében – legkésőbb a portfólióvédés, pályázat védése időpontja előtti harmincötödik napig kezdeményezi az OH-nál portfóliójának vagy pályázatának a változás miatti módosítását. A portfólió vagy pályázat módosítására az OH-nak a kezdeményezés tudomásulvételéről szóló, az informatikai rendszerben megküldött értesítését követő harmincadik napig kerülhet sor. A minősítő vizsgát, a minősítési eljárást a megváltozott munkakör vagy a tanított tantárgy tekintetében kell lefolytatni.
 
-(5)[^64] A (4) bekezdésben foglaltakon felül, ha a minősítési eljárás kijelölt időpontja a minősítési év szeptember 1-jét követő időszakra esik, a pedagógus – a portfólió vagy pályázat tartalmát érintő változás bekövetkezése esetében – a minősítés évének augusztus 15. napjáig módosíthatja, kiegészítheti portfólióját vagy pályázatát.
+(5)[^66] A (4) bekezdésben foglaltakon felül, ha a minősítési eljárás kijelölt időpontja a minősítési év szeptember 1-jét követő időszakra esik, a pedagógus – a portfólió vagy pályázat tartalmát érintő változás bekövetkezése esetében – a minősítés évének augusztus 15. napjáig módosíthatja, kiegészítheti portfólióját vagy pályázatát.
 
-(6)[^65] Ha a pedagógus az OH-t a (4) bekezdésben meghatározott határidőt követően értesíti, a nem kötelező minősítési eljárásra csak a következő minősítési évben kerülhet sor.
+(6)[^67] Ha a pedagógus az OH-t a (4) bekezdésben meghatározott határidőt követően értesíti, a nem kötelező minősítési eljárásra csak a következő minősítési évben kerülhet sor.
 
 (7) Ha a munkakör, illetve tantárgy megváltozása a minősítő vizsga, a minősítési eljárás OH által kitűzött időpontját megelőző harmincötödik napot követően következik be,
 
@@ -28,11 +28,11 @@ a) a minősítő vizsga, valamint a kötelező minősítési eljárás időpontj
 
 b) a nem kötelező minősítési eljárásra – ha az a minősítés évében már nem valósítható meg – csak a következő minősítési évben kerülhet sor.
 
-[^58]: A 11/A. § (1) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
-[^59]: A 11/A. § (1a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 16. § (2) bekezdése iktatta be.
-[^60]: A 11/A. § (1b) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 16. § (3) bekezdése iktatta be.
-[^61]: A 11/A. § (1c) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 16. § (3) bekezdése iktatta be.
-[^62]: A 11/A. § (2) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.
-[^63]: A 11/A. § (4) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 37. § 4. és 7–8. pontja szerint módosított szöveg.
-[^64]: A 11/A. § (5) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 37. § 9. pontja szerint módosított szöveg.
-[^65]: A 11/A. § (6) bekezdése a 324/2016. (X. 27.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
+[^60]: A 11/A. § (1) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 16. § (1) bekezdésével megállapított szöveg.
+[^61]: A 11/A. § (1a) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 16. § (2) bekezdése iktatta be.
+[^62]: A 11/A. § (1b) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 16. § (3) bekezdése iktatta be.
+[^63]: A 11/A. § (1c) bekezdését a 235/2016. (VII. 29.) Korm. rendelet 16. § (3) bekezdése iktatta be.
+[^64]: A 11/A. § (2) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 16. § (4) bekezdésével megállapított szöveg.
+[^65]: A 11/A. § (4) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 37. § 4. és 7–8. pontja szerint módosított szöveg.
+[^66]: A 11/A. § (5) bekezdése a 235/2016. (VII. 29.) Korm. rendelet 37. § 9. pontja szerint módosított szöveg.
+[^67]: A 11/A. § (6) bekezdése a 324/2016. (X. 27.) Korm. rendelet 4. § a) pontja szerint módosított szöveg.
