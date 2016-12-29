@@ -55,3 +55,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-368-20-
 | 2016-09-01 | 2011-368-20-22.47 | 358/2015. (XII. 2.) Korm. rendelet |
 | 2016-09-30 | 2011-368-20-22.48 | 295/2016. (IX. 29.) Korm. rendelet |
 | 2016-12-16 | 2011-368-20-22.49 | 425/2016. (XII. 15.) Korm. rendelet |
+| 2016-12-29 | 2011-368-20-22.50 | 499/2016. (XII. 28.) Korm. rendelet |
