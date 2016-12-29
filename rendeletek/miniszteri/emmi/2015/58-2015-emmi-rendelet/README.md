@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-58-20-5
 | 2016-01-01 | 2015-58-20-5H.2 | 2010: CXXX. törvény |
 | 2016-08-31 | 2015-58-20-5H.3 | 24/2016. (VIII. 30.) EMMI rendelet |
 | 2016-09-01 | 2015-58-20-5H.4 | 24/2016. (VIII. 30.) EMMI rendelet |
+| 2016-12-29 | 2015-58-20-5H.5 | 47/2016. (XII. 28.) EMMI rendelet |

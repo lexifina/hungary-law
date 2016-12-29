@@ -1,5 +1,3 @@
-## nyújtható.
-
 5. § (1)[^7] A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet, a 2012/21/EU bizottsági határozat, a 360/2012/EU bizottsági rendelet és a SA.38425 (2014/N). számú bizottsági határozat hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
 (2) A kedvezményezett köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
