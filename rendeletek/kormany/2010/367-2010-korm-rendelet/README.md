@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-367-20-
 | 2015-02-18 | 2010-367-20-22.14 | 20/2015. (II. 17.) Korm. rendelet |
 | 2015-10-16 | 2010-367-20-22.15 | 301/2015. (X. 15.) Korm. rendelet |
 | 2016-02-10 | 2010-367-20-22.16 | 301/2015. (X. 15.) Korm. rendelet |
+| 2016-12-29 | 2010-367-20-22.17 | 500/2016. (XII. 28.) Korm. rendelet |
