@@ -26,7 +26,9 @@ k) egy új, korszerű kerékpárcsarnok megvalósítása;
 
 l) a Sorsok Háza – Holokauszt Gyermekáldozatainak Emlékhelye – Európai Oktatási Központ megvalósítása;
 
-m) további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
+m)[^1] Kemény Ferenc Sportlétesítmény-fejlesztési Program megvalósítása;
+
+n)[^2] további, külön kormányhatározatban meghatározott beruházások, illetve feladatok.
 
 3. A Kormány a kormánybiztos feladatkörébe utalja a 2024-ben sorra kerülő XXXIII. Olimpiai Játékok, valamint a XVII. Paralimpiai Játékok Budapesten történő megrendezése érdekében benyújtásra kerülő pályázat elkészítésével kapcsolatos kormányzati feladatok ellátását.
 
@@ -62,6 +64,8 @@ i) a vonatkozó kormányhatározatok, jogszabályok végrehajtását, illetve az
 
 10. Ez a határozat 2016. július 1-jén lép hatályba.
 
-11–13.[^1]
+11–13.[^3]
 
-[^1]: A 11–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^1]: A 2. pont m) alpontja az 1874/2016. (XII. 28.) Korm. határozat 1. pontjával megállapított szöveg.
+[^2]: A 2. pont n) alpontját az 1874/2016. (XII. 28.) Korm. határozat 2. pontja iktatta be.
+[^3]: A 11–13. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
