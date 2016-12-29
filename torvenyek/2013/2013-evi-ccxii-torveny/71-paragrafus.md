@@ -1,8 +1,10 @@
-71. § (1) A közös tulajdonban álló földön a 70. § szerinti használati rend kialakításához az e §-ban meghatározottak szerint valamennyi tulajdonostárs egyhangú döntése szükséges. A használati rendet a használati megosztásról szóló megállapodásban kell rögzíteni.
+71. § (1) A közös tulajdonban álló földön a 70. § szerinti használati rend kialakításához az e §-ban meghatározottak szerint a tulajdonostársak tulajdoni hányad alapján számított többségi döntése szükséges azzal, hogy ha a tulajdonostársak tulajdoni hányad alapján számított legalább egytizede a használati megosztásról szóló (5) bekezdés szerinti ajánlatban foglaltakkal nem ért egyet, akkor a használati rend kialakításához a tulajdonostársak tulajdoni hányad alapján számított kétharmados döntése szükséges. A használati rendet a használati megosztásról szóló megállapodásban kell rögzíteni.
+
+(1a) Mellőzhető a használati megosztásáról szóló megállapodás, ha a földrészlet teljes területét egyetlen személy használatába adják.
 
 (2) A használati megosztásról szóló megállapodásban rögzíteni kell a megállapodás időtartamát, vagy ha azt a tulajdonostársak határozatlan időre hozták létre, akkor ennek tényét.
 
-(2a) A használati megosztásról szóló megállapodásban a használati rend meghatározása során több tulajdonostárs tulajdoni hányadának megfelelő vagy attól eltérő mértékű terület is kijelölhető, ha a tulajdoni hányaduknak megfelelő vagy attól eltérő mértékű területet közülük valamelyik tulajdonostárs használja vagy annak használatát harmadik személy részére kívánják átengedni.
+(2a) A használati megosztásról szóló megállapodásban a használati rend meghatározása során több tulajdonostárs tulajdoni hányadának megfelelő mértékű terület egyben is kijelölhető, ha annak használatát egységesen egy harmadik személy részére kívánják átengedni.
 
 (3) A használati megosztáshoz való hozzájárulást megadottnak kell tekinteni az olyan tulajdonostárs esetében, akinek a részére a használati megosztásról szóló ajánlat vagy a tervezett megállapodás közlése
 
@@ -28,7 +30,7 @@ b) természetes személy esetén örököse, gazdálkodó szervezet esetén jogu
 
 (5) A használati rend kialakítását kezdeményező tulajdonostársnak a használati megosztásról szóló ajánlatot vagy tervezett megállapodást írásban, igazolt módon kell közölnie a tulajdonostársakkal. Az ajánlat vagy a tervezett megállapodás elfogadására biztosított határidő nem lehet kevesebb 30 napnál.
 
-(6) A használati megosztásról szóló megállapodást egységes okiratba kell foglalni. A megállapodást valamennyi tulajdonostársnak alá kell írnia, ide nem értve azt a tulajdonostársat, akinek esetében a használati megosztáshoz való hozzájárulást – a (3) bekezdésben foglaltak alapján, az ott meghatározott valamely körülmény miatt – megadottnak kell tekinteni. A használati megosztásról szóló megállapodás valamennyi tulajdonostársra kiterjed.
+(6) A használati megosztásról szóló megállapodást egységes okiratba kell foglalni. A megállapodást legalább azoknak a tulajdonostársaknak alá kell írnia, akik az (1) bekezdés szerinti döntést jóváhagyták, ide nem értve azt a tulajdonostársat, akinek esetében a használati megosztáshoz való hozzájárulást – a (3) bekezdésben foglaltak alapján, az ott meghatározott valamely körülmény miatt – megadottnak kell tekinteni. A használati megosztásról szóló megállapodás valamennyi tulajdonostársra kiterjed.
 
 (7) A (6) bekezdésben meghatározott egységes okiratnak minősül az is, ha a használati megállapodás több példányban készül és az egyes példányokat a (6) bekezdésben meghatározott tulajdonostársak (e fejezetben a továbbiakban: a használati megállapodásban részes tulajdonostársak) külön-külön írják alá.
 

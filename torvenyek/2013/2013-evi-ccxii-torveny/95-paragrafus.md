@@ -8,7 +8,7 @@ a) a hatósági jóváhagyáshoz kötött földhasználati szerződés esetén a
 
 b) a hatósági jóváhagyáshoz nem kötött földhasználati szerződés esetén a szerződés eredeti példányát vagy annak közjegyző által hitelesített másolatát,
 
-c) közös tulajdonban álló föld használata esetén a 71. §-ban meghatározott használati megosztásról szóló megállapodás eredeti példányát vagy annak közjegyző által hitelesített másolatát, vagy a 76. §-ban meghatározott sorsolás eredményéről szóló jegyzőkönyv eredeti vagy hitelesített másolatát és az ezekhez – szükség esetén – csatolt térképi kimutatást.
+c) közös tulajdonban álló föld használata esetén a 71. §-ban meghatározott használati megosztásról szóló megállapodás vagy többlethasználati megállapodás eredeti példányát vagy annak közjegyző által hitelesített másolatát, vagy a 76. §-ban meghatározott sorsolás eredményéről szóló jegyzőkönyv eredeti vagy hitelesített másolatát és az ezekhez – szükség esetén – csatolt térképi kimutatást.
 
 (4) A (3) bekezdés b) pontjában meghatározott esetben a földhasználó, részesművelés esetén a képviselő (e fejezet alkalmazásában a továbbiakban együtt: földhasználó) a bejelentési adatlapon köteles nyilatkozni arról, hogy a földhasználata a törvényben meghatározott korlátozásokat nem sérti.
 
