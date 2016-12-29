@@ -1,0 +1,3 @@
+## 16–18. §[^3]
+
+[^3]: A 16–18. § a 33. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

@@ -1,0 +1,3 @@
+## 15. § Az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendelet 167/B. §-a a következő (7) bekezdéssel egészül ki:
+
+## „(7) A Kincstár hivatalból intézkedik a törzskönyvi nyilvántartásba bejegyzett adatok módosításáról, ha a fővárosi és megyei kormányhivatal a Magyarország helyi önkormányzatairól szóló 2011. évi CLXXXIX. törvény 85. § (3a) bekezdésében foglalt döntése alapján valamely települést vagy településeket egy már működő közös önkormányzati hivatalhoz jelöli ki és az alapító szervek a döntés kézhezvételét követően nem tesznek eleget a 167/C. § (5) bekezdésében előírtaknak.”
