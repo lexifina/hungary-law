@@ -1,0 +1,9 @@
+# 496/2016. (XII. 28.) Korm. rendelet
+
+a kulturális örökség védelmével kapcsolatos szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-496-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-12-29 | 2016-496-20-22.1 | 496/2016. (XII. 28.) Korm. rendelet |
