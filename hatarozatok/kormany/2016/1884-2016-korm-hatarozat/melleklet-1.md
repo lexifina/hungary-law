@@ -30,12 +30,17 @@
 
 ## Határidő: azonnal
 
-## 6. a Kvtv. 19. § (7) bekezdésében biztosított jogkörében eljárva és az Ávr. 34. § (2) bekezdése értelmében felhívja a Nemzeti Kutatási, Fejlesztési és Innovációs Alap kezelőjét, hogy a LXII. Nemzeti Kutatási, Fejlesztési és Innovációs Alap fejezet, 7. Fejezeti stabilitási tartalék cím előirányzaton lévő 624 500 ezer forintot utalja át a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok, 1. Célelőirányzatok, 67. Egyes megyei jogú városok fejlesztési célú támogatása jogcímcsoport javára;
+## 6.[^1] a Kvtv. 19. § (7) bekezdésében biztosított jogkörében eljárva és az Ávr. 34. § (2) bekezdése értelmében felhívja a Nemzeti Kutatási, Fejlesztési és Innovációs Alap kezelőjét, hogy a LXII. Nemzeti Kutatási, Fejlesztési és Innovációs Alap fejezet, 7. Fejezeti stabilitási tartalék cím előirányzaton lévő 624 500 ezer forintot utalja át a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok, 1. Célelőirányzatok, 84. Területi infrastrukturális fejlesztések jogcímcsoport javára;
 
-## 7. a Kvtv. 19. § (7) bekezdésében biztosított jogkörében eljárva és az Ávr. 34. § (2) bekezdése értelmében felhívja a Nemzeti Foglalkoztatási Alap kezelőjét, hogy a LXIII. Nemzeti Foglalkoztatási Alap fejezet, 15. Fejezeti stabilitási tartalék cím előirányzaton lévő 389 500 ezer forintot utalja át a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok, 1. Célelőirányzatok, 67. Egyes megyei jogú városok fejlesztési célú támogatása jogcímcsoport javára;
+## 7.[^2] a Kvtv. 19. § (7) bekezdésében biztosított jogkörében eljárva és az Ávr. 34. § (2) bekezdése értelmében felhívja a Nemzeti Foglalkoztatási Alap kezelőjét, hogy a LXIII. Nemzeti Foglalkoztatási Alap fejezet, 15. Fejezeti stabilitási tartalék cím előirányzaton lévő 389 500 ezer forintot utalja át a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok, 1. Célelőirányzatok, 84. Területi infrastrukturális fejlesztések jogcímcsoport javára;
 
-## 8. a Kvtv. 19. § (7) bekezdésében biztosított jogkörében eljárva és az Ávr. 34. § (2) bekezdése értelmében felhívja a Központi Nukleáris Pénzügyi Alap kezelőjét, hogy a LXVI. Központi Nukleáris Pénzügyi Alap fejezet, 10. Fejezeti stabilitási tartalék cím előirányzaton lévő 134 400 ezer forintot utalja át a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok, 1. Célelőirányzatok, 67. Egyes megyei jogú városok fejlesztési célú támogatása jogcímcsoport javára;
+## 8.[^3] a Kvtv. 19. § (7) bekezdésében biztosított jogkörében eljárva és az Ávr. 34. § (2) bekezdése értelmében felhívja a Központi Nukleáris Pénzügyi Alap kezelőjét, hogy a LXVI. Központi Nukleáris Pénzügyi Alap fejezet, 10. Fejezeti stabilitási tartalék cím előirányzaton lévő 134 400 ezer forintot utalja át a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok, 1. Célelőirányzatok, 84. Területi infrastrukturális fejlesztések jogcímcsoport javára;
 
-## 9. a Kvtv. 19. § (7) bekezdésében biztosított jogkörében eljárva és az Ávr. 34. § (2) bekezdése értelmében felhívja a Nemzeti Kulturális Alap kezelőjét, hogy a LXVII. Nemzeti Kulturális Alap fejezet, 14. Fejezeti stabilitási tartalék cím előirányzaton lévő 93 500 ezer forintot utalja át a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok, 1. Célelőirányzatok, 67. Egyes megyei jogú városok fejlesztési célú támogatása jogcímcsoport javára.
+## 9.[^4] a Kvtv. 19. § (7) bekezdésében biztosított jogkörében eljárva és az Ávr. 34. § (2) bekezdése értelmében felhívja a Nemzeti Kulturális Alap kezelőjét, hogy a LXVII. Nemzeti Kulturális Alap fejezet, 14. Fejezeti stabilitási tartalék cím előirányzaton lévő 93 500 ezer forintot utalja át a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok, 1. Célelőirányzatok, 84. Területi infrastrukturális fejlesztések jogcímcsoport javára.
 
 1. melléklet az 1884/2016. (XII. 28.) Korm. határozathoz
+
+[^1]: A 6. pont az 1889/2016. (XII. 29.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^2]: A 7. pont az 1889/2016. (XII. 29.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^3]: A 8. pont az 1889/2016. (XII. 29.) Korm. határozat 2. pontja szerint módosított szöveg.
+[^4]: A 9. pont az 1889/2016. (XII. 29.) Korm. határozat 2. pontja szerint módosított szöveg.
