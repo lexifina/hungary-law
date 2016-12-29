@@ -1,0 +1,9 @@
+# 486/2016. (XII. 28.) Korm. rendelet
+
+egyes európai uniós projektekkel kapcsolatos jogutódlásról, valamint egyes oktatási tárgyú kormányrendeletek módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-486-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-12-29 | 2016-486-20-22.1 | 486/2016. (XII. 28.) Korm. rendelet |
