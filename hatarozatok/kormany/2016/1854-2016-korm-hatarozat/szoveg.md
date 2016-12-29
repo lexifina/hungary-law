@@ -26,4 +26,6 @@ d) felkéri a Nemzeti Média- és Hírközlési Hatóság elnökét, hogy műkö
 
 2. Ez a határozat a közzétételét követő napon lép hatályba.
 
-3. Hatályát veszti az egységes digitális rádió-távközlő rendszer (EDR) folyamatos működtetéséhez kapcsolódó feladatokról szóló 1032/2007. (V. 15.) Korm. határozat.
+3.[^1]
+
+[^1]: A 3. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
