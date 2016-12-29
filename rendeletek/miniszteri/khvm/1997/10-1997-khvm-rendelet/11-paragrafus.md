@@ -1,12 +1,18 @@
 ## Jelentések, tájékoztatások
 
-11. § (1)[^26] A vízállásokat és a védekezéssel kapcsolatos egyéb adatokat a védekező szervezet saját ügyeletére jelenti. A mértékadó árvizi vízmércék vízállásait – az egyéb adatokkal együtt – a VIZIG ügyelete az OVF ügyeletének jelenti.
+11. § (1)[^34] A vízállásokat és a védekezéssel kapcsolatos egyéb adatokat a védekező szervezet saját ügyeletére jelenti. A mértékadó árvizi vízmércék vízállásait – az egyéb adatokkal együtt – a VIZIG ügyelete az OVF ügyeletének jelenti.
 
 (2) A vízügyi igazgató az R. 18. § (1) bekezdése szerinti napi jelentést II. fokú vagy annál magasabb készültség esetén az illetékes védelmi bizottság elnökének tájékoztatásul megküldi.
 
-(3)[^27] Védekezési készültség ideje alatt az OVF, illetőleg a Törzs napi tájékoztatót készít, és azt az állandó tárcamegbízottaknak is megküldi.
+(3)[^35] A védekező szervezetek a fokozatok elrendeléséről, módosításáról és megszüntetéséről haladéktalanul tájékoztatni kötelesek a működési területével érintett VIZIG ügyeletét.
+
+(3a)[^36] A védekező önkormányzatok és vízitársulatok a napi jelentésüket a működési területével érintett VIZIG ügyeletének a védekezés ideje alatt minden nap 7:00 óráig megküldik.
+
+(3b)[^37] A Törzs működési ideje alatt a Törzs műszaki ügyelete napi jelentést készít a vízügyi igazgatási szervek irányításáért felelős miniszter részére.
 
 (4) A védekező szervezetek felelős vezetői és a Törzs – a jelentősebb védekezési eseményekről – a sajtó, a rádió, a televízió számára, szervezett keretek között tájékoztatást adnak.
 
-[^26]: A 11. § (1) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés i) pontja szerint módosított szöveg.
-[^27]: A 11. § (3) bekezdése a 132/2013. (XII. 23.) VM rendelet 3. § b) pontja szerint módosított szöveg.
+[^34]: A 11. § (1) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés i) pontja szerint módosított szöveg.
+[^35]: A 11. § (3) bekezdése a 49/2016. (XII. 14.) BM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^36]: A 11. § (3a) bekezdését a 49/2016. (XII. 14.) BM rendelet 5. § (2) bekezdése iktatta be.
+[^37]: A 11. § (3b) bekezdését a 49/2016. (XII. 14.) BM rendelet 5. § (2) bekezdése iktatta be.

@@ -1,6 +1,6 @@
 ## Különleges védekezési feladatok
 
-8. § (1)[^20] Különleges felkészültséget és felszerelést igénylő védekezési feladatok elvégzésére a VIZIG-eken helyi, a kijelölt vízügyi igazgatóságoknál regionális védelmi osztag működik.
+8. § (1)[^27] Különleges felkészültséget és felszerelést igénylő védekezési feladatok elvégzésére a VIZIG-eken helyi, a kijelölt vízügyi igazgatóságoknál regionális védelmi osztag működik.
 
 (2) A védelmi osztagok feladata különösen:
 
@@ -20,13 +20,13 @@ g) a robbantás,
 
 h) a búvármunka.
 
-(3)[^21] Az egyes védelmi osztagok által elvégezhető különleges védekezési feladatokat, az ahhoz szükséges létszámot és felszerelést az OVF főigazgatójának javaslatára a miniszter állapítja meg.
+(3)[^28] Az egyes védelmi osztagok által elvégezhető különleges védekezési feladatokat, az ahhoz szükséges létszámot és felszerelést az OVF főigazgatójának javaslatára a miniszter állapítja meg.
 
-(4)[^22] A jeges árvíz elleni védekezés céljából a miniszter által kijelölt VIZIG-ek jégtörő hajókat tartanak fenn.
+(4)[^29] A jeges árvíz elleni védekezés céljából a miniszter által kijelölt VIZIG-ek jégtörő hajókat tartanak fenn.
 
-(5)[^23] A vízrajzi adatok gyűjtését, feldolgozását, értékelését, az előrejelzések készítését, a földi jégmegfigyelő szolgálat megszervezését a VIZIG-ek és a Vízgazdálkodási Tudományos Kutató Részvénytársaság keretében az Országos Vízjelző Szolgálat (a továbbiakban: Vízjelző Szolgálat) végzik.
+(5)[^30] A vízrajzi adatok gyűjtését, feldolgozását, értékelését, az előrejelzések készítését, a földi jégmegfigyelő szolgálat megszervezését a VIZIG-ek és az Országos Vízjelző Szolgálat (a továbbiakban: Vízjelző Szolgálat) végzik.
 
-[^20]: A 8. § (1) bekezdése 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés g) pontja szerint módosított szöveg.
-[^21]: A 8. § (3) bekezdése a 132/2013. (XII. 23.) VM rendelet 3. § b) pontja szerint módosított szöveg.
-[^22]: A 8. § (4) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés d) pontja szerint módosított szöveg.
-[^23]: A 8. § (5) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^27]: A 8. § (1) bekezdése 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés g) pontja szerint módosított szöveg.
+[^28]: A 8. § (3) bekezdése a 132/2013. (XII. 23.) VM rendelet 3. § b) pontja szerint módosított szöveg.
+[^29]: A 8. § (4) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^30]: A 8. § (5) bekezdése a 147/2011. (XII. 23.) VM rendelet 4. § (3) bekezdés d) pontja, a 49/2016. (XII. 14.) BM rendelet 13. §-a szerint módosított szöveg.

@@ -10,4 +10,8 @@ a) a védvonalak fegyveres őrzésére, járőrszolgálat megszervezésére, a v
 
 b) a védvonalon a védekezést ellátók kimentéséhez szükséges szállítóeszközök és mentőfelszerelés helyszíni készenlétben tartására;
 
-c) a veszélyeztetett területről a lakosság és az anyagi javak kimenekítésére.
+c) a veszélyeztetett területről a lakosság és az anyagi javak kimenekítésére;
+
+d)[^44] a VIZIG működési területén lévő árvízi tározó igénybevételére.
+
+[^44]: A 16. § (3) bekezdés d) pontját a 49/2016. (XII. 14.) BM rendelet 7. §-a iktatta be.
