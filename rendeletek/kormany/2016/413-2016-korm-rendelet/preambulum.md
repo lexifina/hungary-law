@@ -1,0 +1,1 @@
+A Kormány a kisajátításról szóló 2007. évi CXXIII. törvény 41. § (3) bekezdés a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
