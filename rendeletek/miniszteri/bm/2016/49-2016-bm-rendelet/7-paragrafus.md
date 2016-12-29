@@ -1,0 +1,1 @@
+## „(8) Az árvízi tározókra vonatkozó fokozatelrendelés az üzemeltetési szabályzatukban foglaltak szerint vagy – ha a felkészülési idő növelése szükséges – a Törzs engedélye alapján történik. A készültségi fokozatokhoz tartozó tevékenységeket az üzemeltetési szabályzat rögzíti.”
