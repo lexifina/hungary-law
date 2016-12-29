@@ -1,4 +1,4 @@
-## 5. § E rendeletet a hatálybalépésekor folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
+## 6. §[^3] E rendeletnek a Károlyi-Csekonics Palotaegyüttes felsőoktatási célú hasznosítása érdekében a Károlyi-Csekonics Palotaegyüttes átfogó, állagmegóvó felújítási feladatainak megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 482/2015. (XII. 29.) Korm. rendelet módosításáról szóló 495/2016. (XII. 28.) Korm. rendelettel (a továbbiakban: Módr.) megállapított 1. § (2) bekezdés c) pontját és 3/A. §-át a Módr. hatálybalépésekor[^4] folyamatban lévő közigazgatási hatósági ügyekben is alkalmazni kell.
 
 1. melléklet a 482/2015. (XII. 29.) Korm. rendelethez
 
@@ -41,3 +41,6 @@
 18. azok az 1–17. pontban nem szereplő hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához és használatbavételéhez szükségesek,
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^3]: A 6. §-t a 495/2016. (XII. 28.) Korm. rendelet 3. §-a iktatta be.
+[^4]: A hatálybalépés időpontja 2016. december 29.
