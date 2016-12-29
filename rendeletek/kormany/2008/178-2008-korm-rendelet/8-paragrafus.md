@@ -22,4 +22,7 @@ b) a 3. § (2) bekezdés szerinti esetben az ingatlan-nyilvántartási térképe
 
 (6) A záradékoló szerv a záradékolás lefolytatása mellett tájékoztatást ad a kisajátítást kérő részére továbbá arról, hogy a visszamaradó ingatlan a telekalakítás általános követelményeinek – a telekméretet ide nem értve – megfelel-e.
 
+(7)[^15] A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházás esetében az 5/A. § (1) bekezdés a) és b) pontjait úgy kell alkalmazni, hogy abban az esetben is el kell látni záradékkal a kisajátítási tervet, ha a záradékoló szerv az eljárása során megállapítja a 8. § (1) bekezdés a) pontja szerinti egyezőség hiányát, azonban a kérelem a nemzetgazdasági szempontból kiemelt jelentőségű beruházások megvalósításának gyorsításáról és egyszerűsítéséről szóló 2006. évi LIII. törvény 6/D. §-a szerinti kormányrendeletben meghatározott közlekedési infrastruktúra-beruházás megvalósításához szükséges területsávnak vagy nyomvonalnak, és a záradékolás egyéb feltételeinek megfelel.
+
 [^14]: A 8. § a 70/2015. (III. 30.) Korm. rendelet 122. § (2) bekezdésével megállapított szöveg.
+[^15]: A 8. § (7) bekezdését a 413/2016. (XII. 14.) Korm. rendelet 1. §-a iktatta be.
