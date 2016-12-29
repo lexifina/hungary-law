@@ -1,0 +1,626 @@
+# A földművelésügyi miniszter 89/2016. (XII. 29.) FM rendelete
+
+Magyar Közlöny 2016. évi 220. szám, 2016. december 29. · [hiteles PDF](https://magyarkozlony.hu/hivatalos-lapok/3f7d05d5d616653e127ec1588f9cdf732e41e6f8/dokumentumok/24a170c9d918900eda00503917fb2f9223746248/letoltes)
+
+---
+
+A földművelésügyi miniszter 89/2016. (XII. 29.) FM rendelete
+a központi hivatalok és a költségvetési szerv formában működő minisztériumi háttérintézmények
+felülvizsgálatával összefüggő egyes környezet- és természetvédelmi, erdészeti, halgazdálkodási és vadászati
+tárgyú miniszteri rendeletek módosításáról
+A természet védelméről szóló 1996. évi LIII. törvény 85. § (2) bekezdés 30. pontjában,
+a 2. alcím tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (8) bekezdés
+a) pontjában,
+a 3. alcím tekintetében a természet védelméről szóló 1996. évi LIII. törvény 85. § (2) bekezdés 21–24. pontjában,
+a 4. alcím tekintetében a katasztrófavédelemről és a hozzá kapcsolódó egyes törvények módosításáról szóló 2011. évi
+CXXVIII. törvény 82. § (3) bekezdés c) és d) pontjában,
+az 5. alcím tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (8) bekezdés
+b) pontjában,
+a 6. alcím tekintetében az atomenergiáról szóló 1996. évi CXVI. törvény 68. § (3) bekezdésében,
+a 7. alcím tekintetében a munkavédelemről szóló 1993. évi XCIII. törvény 88. § (3) bekezdés a) pontjában,
+a 8. alcím tekintetében a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 100. §
+(1) bekezdés c) pont 2., 3., 5., 16., 17., 24., 32. és 36. alpontjában,
+a 9. alcím tekintetében a természet védelméről szóló 1996. évi LIII. törvény 85. § (2) bekezdés 16. pontjában,
+a 10. alcím tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (13) bekezdés
+b) pontjában,
+a 11. alcím tekintetében az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 112. §
+(2) bekezdés 1–3. és 6. pontjában, a 112. § (3) bekezdés 1. pontjában, valamint a 112. § (4) bekezdés 2. pontjában,
+a 12. alcím tekintetében a mezőgazdasági termékpiacok szervezésének egyes kérdéseiről, a termelői és a szakmaközi
+szervezetekről szóló 2015. évi XCVII. törvény 28. § (2) bekezdésében,
+a 13. alcím tekintetében az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény 112. §
+(2) bekezdés 5. és 6. pontjában,
+a 14. alcím tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (8a) bekezdés
+a) pontjában,
+a 15. alcím tekintetében az élelmiszerláncról és hatósági felügyeletéről szóló 2008. évi XLVI. törvény 76. § (2) bekezdésének
+40. pontjában,
+a 16. alcím tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (8e) bekezdés
+b) pontjában,
+a 17. alcím tekintetében a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (2) bekezdés 6. pontjában,
+a 18. alcím tekintetében a hulladékgazdálkodási közszolgáltatási tevékenység minősítéséről szóló 2013. évi CXXV. törvény
+20. §-ában,
+a 19. alcím tekintetében a hulladékról szóló 2012. évi CLXXXV. törvény 88. § (2) bekezdés 10. pontjában,
+a 20. alcím tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (8a) bekezdés
+a) pontjában, és a (15) bekezdés a) pontjában,
+a 21. alcím tekintetében a vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény 100. §
+(1) bekezdés c) pont 9. alpontjában,
+a 22. alcím tekintetében a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény 72. § (1) bekezdés 3., 6., 9., 10., 19.,
+24., 27. pontjában,
+
+a 23. alcím tekintetében a környezet védelmének általános szabályairól szóló 1995. évi LIII. törvény 110. § (13) bekezdés
+a) pontjában,
+a 24. alcím tekintetében a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény 72. § (1) bekezdés 32. pontjában,
+a 25. alcím tekintetében a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény 72. § (1) bekezdés 5. pontjában,
+a 26. alcím tekintetében a halgazdálkodásról és a hal védelméről szóló 2013. évi CII. törvény 72. § (1) bekezdés 37. pontjában
+kapott felhatalmazás alapján,
+az 1., 3. és 9. alcím tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. §
+9. pontjában meghatározott feladatkörömben eljárva,
+a 2., 5., 16. és 17. alcím tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. §
+8. pontjában meghatározott feladatkörömben eljárva,
+a 4. alcím tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 8. pontjában
+meghatározott feladatkörömben eljárva, – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet
+21. § 10. pontjában meghatározott feladatkörében eljáró belügyminiszterrel egyetértésben,
+a 6. alcím tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 8. pontjában
+meghatározott feladatkörömben eljárva – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet
+109. § 7. pontjában meghatározott feladatkörében eljáró nemzeti fejlesztési miniszterrel, a 21. § 29. pontjában meghatározott
+feladatkörében eljáró belügyminiszterrel, továbbá a 48. § 3. pontjában meghatározott feladatkörében eljáró emberi erőforrások
+miniszterével egyetértésben,
+a 7. alcím tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 1. és
+4. pontjában meghatározott feladatkörömben eljárva,
+a 8. és 21. alcím tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. §
+11. pontjában meghatározott feladatkörömben eljárva,
+a 10. és a 13. alcím tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. §
+4. pontjában meghatározott feladatkörömben eljárva,
+a 10., 18., 19. és 23. alcím tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. §
+8. pontjában meghatározott feladatkörömben eljárva, – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.)
+Korm. rendelet 90. § 1. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben,
+a 11. alcím tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 4. és
+9. pontjában meghatározott feladatkörömben eljárva,
+a 12. alcím tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 1. pontjában
+meghatározott feladatkörömben eljárva, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 4. §
+7. pontjában meghatározott feladatkörében eljáró Miniszterelnökséget vezető miniszterrel egyetértésben,
+a 14. és a 20. alcím tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. §
+8. pontjában meghatározott feladatkörömben eljárva, – a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.)
+Korm. rendelet 48. § 3. pontjában meghatározott feladatkörében eljáró emberi erőforrások miniszterével egyetértésben,
+a 15. alcím tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. § 2. pontjában
+meghatározott feladatkörömben eljárva,
+a 22., 24., 25. és 26. alcím tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 65. §
+6. pontjában meghatározott feladatkörömben eljárva
+a következőket rendelem el:
+1. Az elkobzott védett természeti értékekkel kapcsolatos intézkedésekről szóló
+19/1997. (VII. 4.) KTM rendelet módosítása
+1. §
+Az elkobzott védett természeti értékekkel kapcsolatos intézkedésekről szóló 19/1997. (VII. 4.) KTM rendelet
+a) 13. § (2) és (3) bekezdésében a „természetvédelmi hatósági jogkörében eljáró kormányhivatal” szövegrész
+helyébe a„területi természetvédelmi hatóság”szöveg,
+b) 13. § (2) bekezdésében az „a Főfelügyelőség” szövegrész helyébe az „az országos természetvédelmi hatóság”
+szöveg
+lép.
+
+2. A környezetbarát, környezetkímélő megkülönböztető jelzés használatának feltételrendszeréről
+szóló 29/1997. (VIII. 29.) KTM rendelet módosítása
+2. §
+A környezetbarát, környezetkímélő megkülönböztető jelzés használatának feltételrendszeréről szóló 29/1997.
+(VIII. 29.) KTM rendelet
+a) 1. § (4) bekezdésében, 4. § (2) bekezdés i) pontjában a „Vidékfejlesztési Minisztérium” szövegrész helyébe
+a„környezetvédelemért felelős miniszter által vezetett minisztérium”szöveg,
+b) 3. § (11) bekezdés a) pont ag) alpontjában a „Nemzeti Fogyasztóvédelmi Hatóság” szövegrész helyébe
+a„fogyasztóvédelemért felelős miniszter által vezetett minisztérium”szöveg
+lép.
+3. A barlangok nyilvántartásáról, a barlangok látogatásának és kutatásának egyes feltételeiről,
+valamint a barlangok kiépítéséről szóló 13/1998. (V. 6.) KTM rendelet módosítása
+3. § (1) A barlangok nyilvántartásáról, a barlangok látogatásának és kutatásának egyes feltételeiről, valamint a barlangok
+kiépítéséről szóló 13/1998. (V. 6.) KTM rendelet [a továbbiakban: 13/1998. (V. 6.) KTM rendelet] 4. számú melléklete
+helyébe az 1. melléklet lép.
+(2) A 13/1998. (V. 6.) KTM rendelet
+a) 4. § (5) bekezdésben a „természetvédelmi hatósági jogkörében eljáró kormányhivatal, az Országos
+Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: Főfelügyelőség)” szövegrész
+helyébe a„területi természetvédelmi hatóság, az országos természetvédelmi hatóság”szöveg,
+b) 7. § (6) bekezdésben a „természetvédelmi hatósági jogkörében eljáró kormányhivatal és a Főfelügyelőség”
+szövegrész helyébe a„területi természetvédelmi hatóság, az országos természetvédelmi hatóság”szöveg,
+c) 17. § (3) és (5) bekezdésben, 3. melléklet V. alcímben az „a Főfelügyelőség” szövegrészek helyébe az „az
+országos természetvédelmi hatóság”szöveg,
+d) 3. melléklet V. alcímben az „a Főfelügyelőséget” szövegrész helyébe az „az országos természetvédelmi
+hatóságot”szöveg,
+e) 3. melléklet V. alcímben az„A Főfelügyelőség” szövegrész helyébe az„Az országos természetvédelmi hatóság”
+szöveg,
+f) 3. mellékelt VI. alcímben az „a Főfelügyelőség Magyar Államkincstárnál vezetett 10032000-00287261-
+00000000 számú előirányzat-felhasználási számlájára” szövegrész helyébe az „az országos természetvédelmi
+hatóság Magyar Államkincstárnál vezetett 10023002-00333489-00000000 számú előirányzat-felhasználási
+számlájára”szöveg
+lép.
+4. A környezetvédelmi és területfejlesztési miniszter felügyelete alatt álló szervek polgári védelemmel
+kapcsolatos tevékenységének irányításáról szóló 15/1998. (VI. 3.) KTM rendelet módosítása
+4. §
+Hatályát veszti a környezetvédelmi és területfejlesztési miniszter felügyelete alatt álló szervek polgári védelemmel
+kapcsolatos tevékenységének irányításáról szóló 15/1998. (VI. 3.) KTM rendelet 4. §-ában az „a HM Védelmi
+Hivatalával,”szövegrész.
+5. A környezetvédelmi hatósági nyilvántartás vezetésének szabályairól szóló
+7/2000. (V. 18.) KöM rendelet módosítása
+5. §
+A környezetvédelmi hatósági nyilvántartás vezetésének szabályairól szóló 7/2000. (V. 18.) KöM rendelet 1. §
+(1) bekezdésben az „A környezetvédelmi hatóság, a természetvédelmi hatóság, a vízvédelmi hatóság, valamint
+ezek országos illetékességű központi szervei” szövegrész helyébe az „Az országos és a területi környezetvédelmi és
+természetvédelmi hatóság, valamint a vízvédelmi hatóság és országos illetékességű központi szerve”szöveg lép.
+6. Az atomenergia alkalmazása során a levegőbe és vízbe történő radioaktív kibocsátásokról és azok
+ellenőrzéséről szóló 15/2001. (VI. 6.) KöM rendelet módosítása
+6. § (1) Az atomenergia alkalmazása során a levegőbe és vízbe történő radioaktív kibocsátásokról és azok ellenőrzéséről
+szóló 15/2001. (VI. 6.) KöM rendelet [a továbbiakban: 15/2001. (VI. 6.) KöM rendelet] 13. § (3) bekezdésében az
+
+„a Környezet- és Természetvédelmi Főfelügyelőség” szövegrész helyébe az „az országos környezetvédelmi hatóság”
+szöveg lép.
+(2) Hatályát veszti a 15/2001. (VI. 6.) KöM rendelet 3. § (1) bekezdés a) pontjában az„Országos Tisztifőorvosi Hivatal által”
+szövegrész.
+7. A mezőgazdasági és erdészeti gépkezelői jogosítvány bevezetéséről és kiadásának szabályairól
+szóló 83/2003. (VII. 16.) FVM rendelet módosítása
+7. § (1) A mezőgazdasági és erdészeti gépkezelői jogosítvány bevezetéséről és kiadásának szabályairól szóló 83/2003.
+(VII. 16.) FVM rendelet [a továbbiakban: 83/2003. (VII. 16.) FVM rendelet]
+a) 1. § (1) bekezdésében a „Herman Ottó Intézet” szövegrész helyébe a „Pest Megyei Kormányhivatal
+(a továbbiakban: Kormányhivatal)”szöveg,
+b) 4. § (1) bekezdésében a„Herman Ottó Intézethez”szövegrész helyébe a„Kormányhivatalhoz”szöveg,
+c) 6. § (1) és 7. § (1) bekezdésében a„Herman Ottó Intézet”szövegrész helyébe a„Kormányhivatal”szöveg
+lép.
+(2) Hatályát veszti a 83/2003. (VII. 16.) FVM rendelet 6. § (2) bekezdésének első mondata, valamint 7. § (3) bekezdése.
+8. A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény
+végrehajtásának szabályairól szóló 79/2004. (V. 4.) FVM rendelet módosítása
+8. §
+A vad védelméről, a vadgazdálkodásról, valamint a vadászatról szóló 1996. évi LV. törvény végrehajtásának
+szabályairól szóló 79/2004. (V. 4.) FVM rendelet
+a) 2. § (2) bekezdésében a „Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH)” szövegrész
+helyébe a„Pest Megyei Kormányhivatal”szöveg,
+b) 2/A. § (1) bekezdésében a„NÉBIH”szövegrész helyébe a„Pest Megyei Kormányhivatal”szöveg,
+c) 4. számú mellékletében és 18. számú melléklet II. pontjában a „Megyei Kormányhivatal” szövegrész helyébe
+a„vadászati hatóság”szöveg,
+d) 6. számú melléklet 6. pontjában a „vadgazdálkodási hatáskörében eljáró megyei kormányhivatal” szövegrész
+helyébe a„vadászati hatóság”szöveg,
+e) 9. számú mellékletében a „VADGAZDÁLKODÁSI HATÁSKÖRÉBEN ELJÁRÓ MEGYEI KORMÁNYHIVATAL”
+szövegrész helyébe a„TERÜLETI VADÁSZATI HATÓSÁG”szöveg,
+f) 10. számú melléklet II. pontjában, 13. számú melléklet I. és II. pontjában, valamint 21. számú melléklet
+I. pontjában a„MEGYEI”szövegrész helyébe a„TERÜLETI”szöveg,
+g) 11. számú melléklet III. pontjában a „MEGYEI VADÁSZHATÓSÁG” szövegrész helyébe a „TERÜLETI VADÁSZATI
+HATÓSÁG”szöveg
+lép.
+9. Az éti csiga gyűjtéséről és hasznosításáról szóló 19/2006. (III. 31.) KvVM rendelet módosítása
+9. §
+Az éti csiga gyűjtéséről és hasznosításáról szóló 19/2006. (III. 31.) KvVM rendelet 1. § (3) bekezdésben az „Országos
+Környezetvédelmi és Természetvédelmi Főfelügyelőségnek” szövegrész helyébe az „országos természetvédelmi
+hatóságnak”szöveg lép.
+10. Az egységes környezethasználati engedélyhez kötött tevékenységekkel kapcsolatos felügyeleti díj
+megfizetésének részletes szabályairól szóló 4/2007. (II. 21.) KvVM rendelet módosítása
+10. § (1) Az egységes környezethasználati engedélyhez kötött tevékenységekkel kapcsolatos felügyeleti díj megfizetésének
+részletes szabályairól szóló 4/2007. (II. 21.) KvVM rendelet [a továbbiakban: 4/2007. (II. 21.) KvVM rendelet] Melléklete
+helyébe a 2. melléklet lép.
+(2) A 4/2007. (II. 21.) KvVM rendelet 1. § (1) bekezdésében a „környezetvédelmi hatóság” szövegrész helyébe
+a „környezetvédelmi hatóság részére, a környezetvédelmi hatóság illetékességi területe szerinti megyei
+kormányhivatal”szöveg lép.
+
+11. Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény
+végrehajtásáról szóló 153/2009. (XI. 13.) FVM rendelet módosítása
+11. §
+Az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló 2009. évi XXXVII. törvény végrehajtásáról szóló
+153/2009. (XI. 13.) FVM rendelet
+a) 3/A. § (5) bekezdés nyitó szövegrészében az „az erdészeti hatóság központi szerve” szövegrész helyébe az
+„a Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH)”szöveg,
+b) 11. § (4) bekezdés nyitó szövegrészében a „Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban:
+az erdészeti hatóság központi szerve)”szövegrész helyébe a„NÉBIH”szöveg,
+c) 3/D. §-ában, 18. § nyitó szövegrészében, 22. § (5) bekezdés nyitó szövegrészében, 23. § (3) bekezdés nyitó
+szövegrészében, 24. § (2) bekezdés nyitó szövegrészében, 26. § (3) bekezdés nyitó szövegrészében, 37. §
+(1) bekezdés nyitó szövegrészében, 43. § (1) és (3) bekezdés nyitó szövegrészében, és 59. § (1) bekezdés nyitó
+szövegrészében az„az erdészeti hatóság központi szerve”szövegrész helyébe az„a NÉBIH”szöveg
+lép.
+12. Az agrárgazdasági és agrár-vidékfejlesztési szakterületeken a szakértői tevékenység végzésének
+feltételeiről szóló 1/2010. (I. 14.) FVM rendelet módosítása
+12. §
+Az agrárgazdasági és agrár-vidékfejlesztési szakterületeken a szakértői tevékenység végzésének feltételeiről szóló
+1/2010. (I. 14.) FVM rendelet
+a) 2. § (1) bekezdésében a „Herman Ottó Intézet” szövegrész helyébe a „Pest Megyei Kormányhivatal
+(a továbbiakban: Kormányhivatal)”szöveg,
+b) 3. § (1) bekezdésében a„Herman Ottó Intézet”szövegrész helyébe a„Kormányhivatal”szöveg,
+c) 3. § (2) bekezdésében a„Herman Ottó Intézet”szövegrészek helyébe a„Kormányhivatal”szöveg,
+d) 4. § (2) bekezdésében a „Herman Ottó Intézet (1223 Budapest, Park u. 2.) 10032000-01743276-00000000
+számú számlájára vagy a Herman Ottó Intézet” szövegrész helyébe a „Kormányhivatal 10023002-00299671-
+00000000 számú számlájára vagy a Kormányhivatal”szöveg
+lép.
+13. Az erdőterv rendelet előkészítésének, és a körzeti erdőterv készítésének szabályairól szóló
+11/2010. (II. 4.) FVM rendelet módosítása
+13. § (1) Az erdőterv rendelet előkészítésének, és a körzeti erdőterv készítésének szabályairól szóló 11/2010. (II. 4.)
+FVM rendelet [a továbbiakban: 11/2010. (II. 4.) FVM rendelet] 12/A. § (3) bekezdés c) és d) pontja helyébe
+a következő rendelkezések lépnek:
+(A Körzeti Erdőterv Bizottság tagjai)
+„c) az erdészeti feladatkörében eljáró NÉBIH részéről 1 fő,
+d) az országos természetvédelmi hatóság részéről 1 fő, valamint”
+(2) A 11/2010. (II. 4.) FVM rendelet
+a) 3. § (4) bekezdés j) pontjában a „fővárosi és megyei kormányhivatal járási hivatala járási (fővárosi kerületi)
+népegészségügyi intézetét”szövegrész helyébe a„népegészségügyi hatóságot”szöveg,
+b) 8. § (7) bekezdésében az „az erdészeti hatóság központi szerve” szövegrész helyébe az „a Nemzeti
+Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH)”szöveg,
+c) 12/A. § (6) bekezdésében és 13. § (2) bekezdésében az „az erdészeti hatóság központi szerve” szövegrész
+helyébe az„a NÉBIH”szöveg,
+d) 13. § (1) bekezdésében az„az erdészeti hatóság központi szervének”szövegrész helyébe az„a NÉBIH”szöveg,
+e) 1. számú mellékletének címében a„megyei kormányhivatalok”szövegrész helyébe a„járási hivatalok”szöveg,
+f) 1. számú mellékletének 1. pontjában a „Pest Megyei Kormányhivatal” szövegrész helyébe a „Pest Megyei
+Kormányhivatal Érdi Járási Hivatala”szöveg,
+g) 1. számú mellékletének 2. pontjában a „Veszprém Megyei Kormányhivatal” szövegrész helyébe a „Veszprém
+Megyei Kormányhivatal Veszprémi Járási Hivatala”szöveg,
+h) 1. számú mellékletének 3. pontjában a „Vas Megyei Kormányhivatal” szövegrész helyébe a „Vas Megyei
+Kormányhivatal Szombathelyi Járási Hivatala”szöveg,
+i) 1. számú mellékletének 4. pontjában a „Zala Megyei Kormányhivatal” szövegrész helyébe a „Zala Megyei
+Kormányhivatal Zalaegerszegi Járási Hivatala”szöveg,
+
+j) 1. számú mellékletének 5. pontjában a „Somogy Megyei Kormányhivatal” szövegrész helyébe a „Somogy
+Megyei Kormányhivatal Kaposvári Járási Hivatala”szöveg,
+k) 1. számú mellékletének 6. pontjában a „Baranya Megyei Kormányhivatal” szövegrész helyébe a „Baranya
+Megyei Kormányhivatal Pécsi Járási Hivatala”szöveg,
+l) 1. számú mellékletének 7. pontjában a „Bács-Kiskun Megyei Kormányhivatal” szövegrész helyébe
+a„Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala”szöveg,
+m) 1. számú mellékletének 8. pontjában a „Hajdú-Bihar Megyei Kormányhivatal” szövegrész helyébe
+a„Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala”szöveg,
+n) 1. számú mellékletének 9. pontjában a „Borsod-Abaúj-Zemplén Megyei Kormányhivatal” szövegrész helyébe
+a„Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala”szöveg,
+o) 1. számú mellékletének 10. pontjában a„Heves Megyei Kormányhivatal” szövegrész helyébe a„Heves Megyei
+Kormányhivatal Egri Járási Hivatala”szöveg
+lép.
+14. A levegőterheltségi szint és a helyhez kötött légszennyező források kibocsátásának vizsgálatával,
+ellenőrzésével, értékelésével kapcsolatos szabályokról szóló 6/2011. (I. 14.) VM rendelet módosítása
+14. §
+A levegőterheltségi szint és a helyhez kötött légszennyező források kibocsátásának vizsgálatával, ellenőrzésével,
+értékelésével kapcsolatos szabályokról szóló 6/2011. (I. 14.) VM rendelet
+a) 7. melléklet 2.1. pontjában a„környezetvédelmi hatáskörében eljáró megyei kormányhivatal (a továbbiakban:
+kormányhivatal)”szövegrész helyébe a„környezetvédelmi hatóság”szöveg,
+b) 7. melléklet 2.2. pontjában a„kormányhivatallal”szövegrész helyébe a„környezetvédelmi hatósággal”szöveg,
+c) 7. melléklet 2.3. pontjában a„kormányhivatal”szövegrész helyébe a„környezetvédelmi hatóság”szöveg
+lép.
+15. Az élelmiszer-vállalkozás működéséhez szükséges szakképesítés meghatározásáról szóló
+47/2011. (V. 31.) VM rendelet módosítása
+15. § (1) Az élelmiszer-vállalkozás működéséhez szükséges szakképesítés meghatározásáról szóló 47/2011. (V. 31.)
+VM rendelet [a továbbiakban: 47/2011. (V. 31.) VM rendelet] 6. § (2) bekezdése helyébe a következő rendelkezés lép:
+„(2) Az élelmiszer-vállalkozó felelőssége, hogy az élelmiszerlánc-felügyeleti szerv kérésére igazolja
+az (1) bekezdésben foglaltaknak való megfelelést.”
+(2) A 47/2011. (V. 31.) VM rendelet 6. §-a a következő (3) bekezdéssel egészül ki:
+„(3) Az (1) bekezdésben foglalt egyenértékűség
+a) kiadott szakképesítés tekintetében a Herman Ottó Intézet Nonprofit Kft.,
+b) megszerzett szakirányú felsőfokú végzettség tekintetében az oklevelet kiállító intézmény vagy annak jogutódja,
+c) a külföldön megszerzett képesítések vagy végzettségek tekintetében az annak elismerésére vagy honosítására
+jogosult intézmény
+által kiadott okirattal igazolható.”
+16. A benzin tárolásából, elosztásából és töltőállomáson a gépjármű feltöltéséből származó illékony
+szerves vegyület (VOC) csökkentéséről szóló 118/2011. (XII. 15.) VM rendelet módosítása
+16. §
+A benzin tárolásából, elosztásából és töltőállomáson a gépjármű feltöltéséből származó illékony szerves
+vegyület (VOC) csökkentéséről szóló 118/2011. (XII. 15.) VM rendelet 6. § (2) bekezdésében a „fővárosi és megyei
+kormányhivatallal” szövegrész helyébe a „fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatalával”
+szöveg lép.
+17. A PCB, valamint a PCB-t tartalmazó berendezések kezelésének részletes szabályairól szóló
+144/2012. (XII. 27.) VM rendelet módosítása
+17. § (1) A PCB, valamint a PCB-t tartalmazó berendezések kezelésének részletes szabályairól szóló 144/2012. (XII. 27.)
+VM rendelet [a továbbiakban: 144/2012. (XII. 27.) VM rendelet]
+a) 9. § (4) bekezdésében az „Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban:
+OKTF)”szövegrész helyébe az„országos környezetvédelmi hatóság”szöveg,
+
+b) 9. § (5) bekezdésében az„OKTF”szövegrész helyébe az„országos környezetvédelmi hatóság”szöveg
+lép.
+(2) Hatályát veszti a 144/2012. (XII. 27.) VM rendelet 13. §-a.
+18. A hulladékgazdálkodási közszolgáltatási tevékenység minősítése iránti eljárásokért,
+valamint az igazgatási jellegű szolgáltatásért fizetendő igazgatási szolgáltatási díjakról szóló
+71/2013. (VIII. 15.) VM rendelet módosítása
+18. §
+A hulladékgazdálkodási közszolgáltatási tevékenység minősítése iránti eljárásokért, valamint az igazgatási jellegű
+szolgáltatásért fizetendő igazgatási szolgáltatási díjakról szóló 71/2013. (VIII. 15.) VM rendelet
+a) 1. § nyitó szövegrészében az „Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség
+(a továbbiakban: OKTF) hatáskörébe tartozó, a” szövegrész helyébe az „országos környezetvédelmi hatóság
+hatáskörébe tartozó,”szöveg,
+b) 2. § (1) és (3) bekezdésben, 3. § (2) bekezdésében, 4. § (2) bekezdésében, 5. § (1) és (2) bekezdésében, 6. §
+(1) bekezdésében az„OKTF”szövegrész helyébe az„országos környezetvédelmi hatóság”szöveg,
+c) 2. § (2) bekezdésében az„OKTF”szövegrészek helyébe az„országos környezetvédelmi hatóság”szöveg,
+d) 5. § (1) bekezdésében az„OKTF-nek”szövegrész helyébe az„országos környezetvédelmi hatóságnak”szöveg,
+e) 6. § (2) bekezdés záró szövegrészében az „OKTF-et” szövegrész helyébe az „országos környezetvédelmi
+hatóságot”szöveg
+lép.
+19. A hulladékgazdálkodási engedélyhez vagy nyilvántartásba vételhez kötött tevékenységekkel
+kapcsolatos felügyeleti díj megfizetésének részletes szabályairól szóló 95/2013. (X. 14.) VM rendelet
+módosítása
+19. § (1) A hulladékgazdálkodási engedélyhez vagy nyilvántartásba vételhez kötött tevékenységekkel kapcsolatos felügyeleti
+díj megfizetésének részletes szabályairól szóló 95/2013. (X. 14.) VM rendelet [a továbbiakban: 95/2013. (X. 14.)
+VM rendelet] 1. melléklete helyébe a 3. melléklet lép.
+(2) A 95/2013. (X. 14.) VM rendelet 1. § (1) bekezdésében a „környezetvédelmi hatóság” szövegrész helyébe
+a „környezetvédelmi hatóság részére, a környezetvédelmi hatóság illetékességi területe szerinti megyei
+kormányhivatal”szöveg lép.
+20. Az 50 MW
+th
+és annál nagyobb teljes névleges bemenő hőteljesítményű tüzelőberendezések
+működési feltételeiről és légszennyező anyagainak kibocsátási határértékeiről szóló 110/2013. (XII. 4.)
+VM rendelet módosítása
+20. §
+Az 50 MW
+th
+és annál nagyobb teljes névleges bemenő hőteljesítményű tüzelőberendezések működési feltételeiről
+és légszennyező anyagainak kibocsátási határértékeiről szóló 110/2013. (XII. 4.) VM rendelet
+a) 12. § (1) bekezdésében az„Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban:
+Főfelügyelőség)”szövegrész helyébe az„országos környezetvédelmi hatóság”szöveg,
+b) 12. § (1) bekezdésében az „A Főfelügyelőség a tüzelőberendezésre” szövegrész helyébe az „Az országos
+környezetvédelmi hatóság a tüzelőberendezésre”szöveg,
+c) 12. § (2) bekezdésében az „a Főfelügyelőségnél” szövegrész helyébe az „az országos környezetvédelmi
+hatóságnál”szöveg,
+d) 12. § (2) bekezdésében, 17. § (3) és (4) bekezdésében az „A Főfelügyelőség” szövegrész helyébe az
+„Az országos környezetvédelmi hatóság”szöveg,
+e) 12. § (3) és (4) bekezdésében, 17. § (2) bekezdésében és 23. § (2) bekezdésében az „a Főfelügyelőség”
+szövegrész helyébe az„az országos környezetvédelmi hatóság”szöveg,
+f) 23. § (3) és (4) bekezdésben az „a Főfelügyelőséghez” szövegrész helyébe az „az országos környezetvédelmi
+hatósághoz”szöveg
+lép.
+
+21. A vadászvizsgát megelőző tanfolyamról és a vadászvizsgáról szóló 126/2013. (XII. 17.) VM rendelet
+módosítása
+21. § (1) A vadászvizsgát megelőző tanfolyamról és a vadászvizsgáról szóló 126/2013. (XII. 17.) VM rendelet [a továbbiakban:
+126/2013. (XII. 17.) VM rendelet] 7. § (4) és (5) bekezdése helyébe a következő rendelkezések lépnek:
+„(4) A vadászvizsga jogszabályban foglalt menetének és szakszerű lefolyásának biztosítása érdekében a vadászati
+hatóság a vadászvizsga lebonyolításának szabályszerűségét és szakmaiságát előzetes bejelentés nélkül ellenőrizheti.
+(5) A vadászati hatóság – a közigazgatási hatósági eljárás általános szabályai szerint – a vadászvizsga eredményét
+megsemmisíti, valamint érvénytelenné nyilvánítja a kiállított bizonyítványt, ha bebizonyosodik, hogy a vadászvizsgát
+jogellenesen szervezték meg, vagy a bizonyítványt jogellenesen állították ki. Az érvénytelenné nyilvánított
+bizonyítványt be kell vonni és meg kell semmisíteni. A vadászati hatóság az e bekezdés szerint meghozott
+határozatát – indokolás nélkül – a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben közzéteszi.”
+(2) A 126/2013. (XII. 17.) VM rendelet
+a) 2. § (1) bekezdésében a „Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH)” szövegrész
+helyébe a„vadászati hatóság”szöveg,
+b) 2. § (3)–(6) bekezdésében, 3. § (2), (4)–(6) bekezdésében, 4. § (8) bekezdésében a„NÉBIH” szövegrész helyébe
+a„vadászati hatóság”szöveg,
+c) 3. § (1) bekezdésében a„NÉBIH”szövegrészek helyébe a„vadászati hatóság”szöveg,
+d) 7. § (3) bekezdésében és 10. § (3) bekezdésében a „NÉBIH-et” szövegrész helyébe a „vadászati hatóságot”
+szöveg,
+e) 8. § (1) bekezdésében az„az illetékes”szövegrész helyébe az„a területi”szöveg,
+f) 13. § (2) bekezdésében a„miniszter”szövegrészek helyébe a„vadászati hatóság”szöveg
+lép.
+(3) Hatályát veszíti a 126/2013. (XII. 17.) VM rendelet 3. § (1) bekezdésében az„(a továbbiakban: miniszter)”szövegrész.
+22. A halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló 133/2013. (XII. 29.)
+VM rendelet módosítása
+22. § (1) A halgazdálkodás és a halvédelem egyes szabályainak megállapításáról szóló 133/2013. (XII. 29.) VM rendelet
+[a továbbiakban: 133/2013. (XII. 29.) VM rendelet] 11. §-a helyébe a következő rendelkezés lép:
+„11. § (1) Tömeges hal-, illetve más hasznos víziállat-pusztulás (a továbbiakban együtt: halpusztulás) észlelése esetén
+a halgazdálkodási hatóság értesíti a növény- és talajvédelmi hatáskörében eljáró járási hivatalt (a továbbiakban:
+növény- és talajvédelmi hatóság). A tömeges halpusztulásról a vízvédelmi hatóságot is tájékoztatni kell.
+(2) A növény- és talajvédelmi hatóság vízmintavételt végez. Ha a halpusztulás feltételezhető oka felszíni vízbe való
+szennyvízbevezetés, a szennyvízből, illetve a befogadó vízből a szennyvíz betorkollása alatt és felett 3-3 hatósági
+vízmintát kell gyűjteni a halgazdálkodási hatóság képviselőjének jelenlétében. Egy-egy sorozat vízminta
+a halgazdálkodásra jogosultnál, illetve a feltételezett károkozónál marad, a minta harmadik sorozata a vizsgálatok
+elvégzésére szolgál.
+(3) A Hhvtv. 18. § (3) bekezdése szerinti vízélettani laboratórium feladatait a NÉBIH vízélettani laboratóriuma,
+valamint a Nemzeti Agrárkutatási és Innovációs Központ szarvasi telephelyének laboratóriuma látja el.
+(4) A vízszennyezés vizsgálata érdekében végzett mintavételezés és laborvizsgálat, valamint a halpusztulás
+kivizsgálása körében felmerült további költségek egyéb eljárási költségnek minősülnek.
+(5) Fertőző halbetegség gyanúja esetén a halgazdálkodásra jogosult köteles értesíteni az élelmiszerlánc-biztonsági
+és állategészségügyi hatáskörében eljáró járási hivatalt (a továbbiakban: állategészségügyi hatóság), amely
+megteszi a szükséges intézkedéseket.
+(6) Az állategészségügyi hatóság az (5) bekezdés szerinti esetben a vízből, a haltetemből és szükség szerint
+a takarmányból mintát vesz. A minták laboratóriumi vizsgálatát a NÉBIH állategészségügyi diagnosztikai
+laboratóriuma végzi.”
+(2) A 133/2013. (XII. 29.) VM rendelet 19/A. § (2)–(5) bekezdése helyébe a következő rendelkezések lépnek, és a §
+a következő (6) bekezdéssel egészül ki:
+„(2) A 12. mellékletben foglalt táblázat 1. és 4–6. sorában meghatározott díjat a 13. melléklet 2. pontjában
+meghatározott, a halgazdálkodási hatóság illetékességi területe szerinti megyei kormányhivatal számlájára kell
+befizetni. A hatóság a 12. mellékletben foglalt táblázat 1. sora szerinti díjat a Magyar Államkincstárnál vezetett
+„halgazdálkodási bevétel”számlára utalja tovább.
+
+(3) A vizsgáztatásra feljogosított szervezet a 12. mellékletben foglalt táblázat 5. és 6. sora szerinti díj összegét
+havonta, a tárgyhót követő 5. napig köteles átutalni a 13. melléklet 2. pontjában meghatározott számú számlára.
+A vizsgáztatásra feljogosított szervezet a kiadott állami horgászvizsga bizonyítványokkal negyedévenként,
+a negyedévet követő hónap 15. napjáig a halgazdálkodási hatóság felé, a halgazdálkodási hatóság pedig a tárgyévet
+követő év január 31-ig köteles a Pest Megyei Kormányhivatal felé, a miniszter egyidejű tájékoztatása mellett
+elszámolni.
+(4) Az állami horgászjegy díját a Hhvtv. 40. § (1) bekezdése alapján feljogosított szervezet (a továbbiakban:
+Megbízott) részére kell befizetni. A Megbízott a befolyt díj forgalmazói jutalékkal csökkentett összegét a Magyar
+Államkincstár„halgazdálkodási bevétel”számlájára utalja tovább.
+(5) A 12. mellékletben foglalt táblázat 7. sora szerinti díjat az igénylőnek az online vásárlást megelőzően bankkártyás
+fizetéssel kell átutalnia a 13. melléklet 1. pontjában meghatározott számlára.
+(6) A 12. mellékletben foglalt táblázat 8. és 9. sora szerinti díjat negyedévente, a tárgynegyedévet követő hónap
+20. napjáig át kell utalni a 13. melléklet 1. pontjában meghatározott számlára.”
+(3) A 133/2013. (XII. 29.) VM rendelet 33. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) A földművelésügyi hatósági és igazgatási feladatokat ellátó szervek kijelöléséről szóló kormányrendeletben
+foglalt, a halgazdálkodási hatósági eljárások során vizsgálandó szakkérdések tekintetében a halállomány
+mennyiségének, összetételének, illetve a hasznosítás jelentős változásának minősül az a módosítás, amely
+a halgazdálkodási tevékenység olyan megváltozását idézi elő, mely az elérhető legújabb tudományos eredmények
+alapján veszélyeztethet közösségi jelentőségű fajt vagy élőhelyet.”
+(4) A 133/2013. (XII. 29.) VM rendelet 36. § (2) bekezdése helyébe a következő rendelkezés lép, és a § a következő
+(2a) bekezdéssel egészül ki:
+„(2) A miniszter az Adattár működtetésével kapcsolatos feladatok ellátására a NÉBIH-et jelöli ki. A NÉBIH – a miniszter
+szakmai iránymutatásai alapján – felelős az Adattár üzemeltetéséért és karbantartásáért, az adatok védelméért,
+az információs rendszer számítógépparkjának és programjainak folyamatos fejlesztéséért.
+(2a) A miniszter ellátja az Adattár fejlesztési irányainak meghatározásával kapcsolatos feladatokat, valamint a Hhvtv.
+54. § (6) bekezdése alapján az Adattár felhasználásával értékeléseket végez.”
+(5) A 133/2013. (XII. 29.) VM rendelet 20. § (1) bekezdése helyébe a következő rendelkezés lép:
+„(1) Az állami horgászjegy kiadásával kapcsolatos feladatokat a Megbízott is elláthatja.”
+(6) A 133/2013. (XII. 29.) VM rendelet
+a) 18. § (6) bekezdésében a„Földművelésügyi Minisztérium (a továbbiakban: minisztérium) a NÉBIH” szövegrész
+helyébe a „halgazdálkodásért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium
+(a továbbiakban: minisztérium) a Pest Megyei Kormányhivatal”szöveg,
+b) 21. § (11) bekezdésében a „kormányhivatal földművelésügyi igazgatósága” szövegrész helyébe
+a„halgazdálkodási hatóság”szöveg,
+c) 37. § (8) bekezdés nyitó szövegrészében a „területileg illetékes” szövegrész helyébe a „működési területe
+szerint érintett”szöveg,
+d) 41. § (5) bekezdésében a „jogosultnál és a kormányhivatal földművelésügyi igazgatóságánál” szövegrész
+helyébe a„jogosultnak és a halgazdálkodási hatóságnak”szöveg,
+e) 5. melléklet 1. és 7. pontjában a„megyei”szövegrész helyébe a„területi”szöveg,
+f) 5. melléklet 4. pontjában a „megyei kormányhivatal” szövegrész helyébe a „területi halgazdálkodási hatóság”
+szöveg,
+g) 13. melléklet 2. pontjában a „Halgazdálkodási hatóságok” szövegrész helyébe a „Halgazdálkodási hatóságok
+illetékességi területe szerinti megyei kormányhivatalok”szöveg,
+h) 13. melléklet 2. pontjában foglalt táblázat A) oszlopában a „Halgazdálkodási hatóság” szövegrész helyébe
+a„Halgazdálkodási hatóság illetékességi területe szerinti megyei kormányhivatal”szöveg
+lép.
+(7) Hatályát veszti a 133/2013. (XII. 29.) VM rendelet 20. § (3) bekezdésében az„(a továbbiakban: Megbízott)”szövegrész.
+23. A környezetvédelmi és természetvédelmi hatósági eljárások igazgatási szolgáltatási díjairól szóló
+14/2015. (III. 31.) FM rendelet módosítása
+23. § (1) A környezetvédelmi és természetvédelmi hatósági eljárások igazgatási szolgáltatási díjairól szóló 14/2015. (III. 31.)
+FM rendelet [a továbbiakban: 14/2015. (III. 31.) FM rendelet] 7. melléklete helyébe a 4. melléklet lép.
+
+(2) A 14/2015. (III. 31.) FM rendelet
+a) 1. § (1) bekezdésben az „az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség,
+a környezetvédelmi, illetve természetvédelmi hatáskörben eljáró fővárosi és megyei kormányhivatalok”
+szövegrész helyébe a „Pest Megyei Kormányhivatal, a környezetvédelmi, illetve természetvédelmi
+hatáskörben eljáró járási hivatalok”szöveg,
+b) 5. § (1) bekezdésében és 6. § (1) bekezdésében a „környezetvédelmi és természetvédelmi hatóságnak a”
+szövegrész helyébe a „környezetvédelmi és természetvédelmi hatóság részére, a környezetvédelmi és
+természetvédelmi hatóság illetékességi területe szerinti megyei kormányhivatal, vagy a Földművelésügyi
+Minisztérium”szöveg,
+c) 1. mellékletben foglalt táblázat A:17 és A:18 mezőjében a „fővárosi vagy megyei kormányhivatal” szövegrész
+helyébe a„járási hivatal”szöveg,
+d) 6. mellékletben foglalt táblázat A:3 mezőjében az„a Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.)
+Korm. rendelet”szövegrész helyébe az„a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat
+ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet”szöveg
+lép.
+(3) Hatályát veszti a 14/2015. (III. 31.) FM rendelet 6. mellékletben foglalt táblázat 3.2 sora.
+24. A halgazdálkodási vízterület különleges rendeltetésűvé nyilvánításának szabályairól
+44/2015. (VII. 28.) FM rendelet módosítása
+24. § (1) A halgazdálkodási vízterület különleges rendeltetésűvé nyilvánításának szabályairól szóló 44/2015. (VII. 28.)
+FM rendelet [a továbbiakban: 44/2015. (VII. 28.) FM rendelet]
+a) 1. § (1) bekezdésében a „Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH)” szövegrész
+helyébe a„halgazdálkodásért felelős miniszter (a továbbiakban: miniszter) szöveg,
+b) 1. § (3) bekezdésében, 2. § (1) és (2) bekezdésében, 3. § (1) bekezdésében, 5. §-ában, 6. § (1) bekezdés
+nyitó szövegrészében, (2) és (3) bekezdésében, 8. § (1) bekezdés nyitó szövegrészében, (2) bekezdésében,
+(3) bekezdés a) és b) pontjában, (4) bekezdésében, valamint 9. § (2) bekezdésében a „NÉBIH” szövegrész
+helyébe a„miniszter”szöveg
+lép.
+(2) Hatályát veszti a 44/2015. (VII. 28.) FM rendelet 6. § (2) bekezdésében az „a halgazdálkodásért felelős miniszterrel,”
+szövegrész.
+25. Az államot megillető halgazdálkodási jog vagyonkezelésbe, pályázati úton történő haszonbérbe,
+valamint alhaszonbérbe adásának egyes szabályairól szóló 89/2015. (XII. 22.) FM rendelet módosítása
+25. §
+Az államot megillető halgazdálkodási jog vagyonkezelésbe, pályázati úton történő haszonbérbe, valamint
+alhaszonbérbe adásának egyes szabályairól szóló 89/2015. (XII. 22.) FM rendelet 15. § (3) bekezdés h) pontja helyébe
+a következő rendelkezés lép:
+(Érvénytelen a pályázat, ha)
+„h) a pályázónak vagy annak a gazdasági társaságnak, amelyben a pályázó többségi befolyással rendelkezik,
+a minisztériummal, az országos illetékességű halgazdálkodási hatósággal, a területi halgazdálkodási hatósággal
+vagy a Nemzeti Élelmiszerlánc-biztonsági Hivatallal szemben 120 napot meghaladó, lejárt tartozása van.”
+26. Az államot megillető halgazdálkodási jog kijelöléssel történő átengedésének, valamint
+alhaszonbérbe adásának részletes feltételeiről 90/2015. (XII. 22.) FM rendelet módosítása
+26. §
+Az államot megillető halgazdálkodási jog kijelöléssel történő átengedésének, valamint alhaszonbérbe adásának
+részletes feltételeiről szóló 90/2015. (XII. 22.) FM rendelet 4. § f) pontja helyébe a következő rendelkezés lép:
+(Érvénytelen a kezdeményezés, ha)
+„f) a kezdeményezőnek a minisztériummal, az országos illetékességű halgazdálkodási hatósággal, a területi
+halgazdálkodási hatósággal vagy a Nemzeti Élelmiszerlánc-biztonsági Hivatallal szemben 120 napot meghaladó,
+lejárt tartozása van.”
+
+27. Záró rendelkezés
+27. §
+Ez a rendelet 2017. január 1-jén lép hatályba.
+ Dr. Fazekas Sándor s. k.,
+ földművelésügyi miniszter
+
+1. melléklet a 89/2016. (XII. 29.) FM rendelethez
+„4. számú melléklet a 13/1998. (V. 6.) KTM rendelethez
+A barlangi túravezetői és a barlangi kutatásvezetői igazolványok mintája
+
+1. melléklet a /2016. (...) FM rendelethez
+„4. számú melléklet a 13/1998. (V. 6.) KTM rendelethez
+A barlangi túravezetői és a barlangi kutatásvezetői igazolványok mintája
+Kiállítás ideje:
+P. H.
+…………………………………….
+kormánymegbízott
+Ezen igazolvány tulajdonosa
+a törvényes rendelkezések betartása
+mellett barlangi túra és kutatás
+vezetésére jogosult.
+Pest Megyei Kormányhivatal
+BARLANGI KUTATÁSVEZETŐI
+IGAZOLVÁNY
+Név:
+Ig. sz.:
+Szül. hely, idő:
+Anyja neve:
+Kiállítás ideje:
+P. H.
+…………………………………….
+kormánymegbízott
+Ezen igazolvány tulajdonosa
+a törvényes rendelkezések betartása
+mellett barlangi túra vezetésére
+jogosult.
+Pest Megyei Kormányhivatal
+BARLANGI TÚRAVEZETŐI
+IGAZOLVÁNY
+Név:
+Ig. sz.:
+Szül. hely, idő:
+Anyja neve:
+„
+”
+
+2. melléklet a 89/2016. (XII. 29.) FM rendelethez
+„Melléklet a 4/2007. (II. 21.) KvVM rendelethez
+A közigazgatási szervek előirányzat-felhasználási számláinak megnevezése
+A B
+Sorszám A számla felett rendelkezésre jogosult közigazgatási szerv Előirányzat-felhasználási számlák
+1. Baranya Megyei Kormányhivatal 10024003-00299585-00000000
+2. Bács-Kiskun Megyei Kormányhivatal 10025004-00299657-00000000
+3. Békés Megyei Kormányhivatal 10026005-00299578-00000000
+4. Borsod-Abaúj-Zemplén Megyei Kormányhivatal 10027006-00299561-00000000
+5. Csongrád Megyei Kormányhivatal 10028007-00299664-00000000
+6. Fejér Megyei Kormányhivatal 10029008-00299640-00000000
+7. Győr-Moson-Sopron Megyei Kormányhivatal 10033001-00299633-00000000
+8. Hajdú-Bihar Megyei Kormányhivatal 10034002-00299626-00000000
+9. Heves Megyei Kormányhivatal 10035003-00299619-00000000
+10. Jász-Nagykun-Szolnok Megyei Kormányhivatal 10045002-00299602-00000000
+11. Komárom-Esztergom Megyei Kormányhivatal 10036004-00299554-00000000
+12. Nógrád Megyei Kormányhivatal 10037005-00299547-00000000
+13. Pest Megyei Kormányhivatal 10023002-00333489-00000000
+14. Somogy Megyei Kormányhivatal 10039007-00299688-00000000
+15. Szabolcs-Szatmár-Bereg Megyei Kormányhivatal 10044001-00299695-00000000
+16. Tolna Megyei Kormányhivatal 10046003-00299530-00000000
+17. Vas Megyei Kormányhivatal 10047004-00299523-00000000
+18. Veszprém Megyei Kormányhivatal 10048005-00299516-00000000
+19. Zala Megyei Kormányhivatal 10049006-00303066-00000000
+”
+3. melléklet a 89/2016. (XII. 29.) FM rendelethez
+„1. melléklet a 95/2013. (X. 14.) VM rendelethez
+A közigazgatási szervek előirányzat-felhasználási számláinak megnevezése
+A B
+Sorszám A számla felett rendelkezésre jogosult közigazgatási szerv Előirányzat-felhasználási számlák
+1. Baranya Megyei Kormányhivatal 10024003-00299585-00000000
+2. Bács-Kiskun Megyei Kormányhivatal 10025004-00299657-00000000
+3. Békés Megyei Kormányhivatal 10026005-00299578-00000000
+4. Borsod-Abaúj-Zemplén Megyei Kormányhivatal 10027006-00299561-00000000
+5. Csongrád Megyei Kormányhivatal 10028007-00299664-00000000
+6. Fejér Megyei Kormányhivatal 10029008-00299640-00000000
+7. Győr-Moson-Sopron Megyei Kormányhivatal 10033001-00299633-00000000
+8. Hajdú-Bihar Megyei Kormányhivatal 10034002-00299626-00000000
+9. Heves Megyei Kormányhivatal 10035003-00299619-00000000
+10. Jász-Nagykun-Szolnok Megyei Kormányhivatal 10045002-00299602-00000000
+11. Komárom-Esztergom Megyei Kormányhivatal 10036004-00299554-00000000
+
+12. Nógrád Megyei Kormányhivatal 10037005-00299547-00000000
+13. Pest Megyei Kormányhivatal 10023002-00333489-00000000
+14. Somogy Megyei Kormányhivatal 10039007-00299688-00000000
+15. Szabolcs-Szatmár-Bereg Megyei Kormányhivatal 10044001-00299695-00000000
+16. Tolna Megyei Kormányhivatal 10046003-00299530-00000000
+17. Vas Megyei Kormányhivatal 10047004-00299523-00000000
+18. Veszprém Megyei Kormányhivatal 10048005-00299516-00000000
+19. Zala Megyei Kormányhivatal 10049006-00303066-00000000
+”
+4. melléklet a 89/2016. (XII. 29.) FM rendelethez
+„7. melléklet a 14/2015. (III. 31.) FM rendelethez
+A közigazgatási szervek előirányzat-felhasználási számláinak megnevezése
+A B
+Sorszám A számla felett rendelkezésre jogosult közigazgatási szerv Előirányzat-felhasználási számlák
+1. Földművelésügyi Minisztérium 10032000-01494549-00000000
+2. Baranya Megyei Kormányhivatal 10024003-00335649-00000000
+3. Bács-Kiskun Megyei Kormányhivatal 10025004-00299657-00000000
+4. Békés Megyei Kormányhivatal 10026005-00299578-00000000
+5. Borsod-Abaúj-Zemplén Megyei Kormányhivatal 10027006-00335656-00000000
+6. Csongrád Megyei Kormányhivatal 10028007-00335663-00000000
+7. Fejér Megyei Kormányhivatal 10029008-00335670-00000000
+8. Győr-Moson-Sopron Megyei Kormányhivatal 10033001-00299633-00000000
+9. Hajdú-Bihar Megyei Kormányhivatal 10034002-00335687-00000000
+10. Heves Megyei Kormányhivatal 10035003-00299619-00000000
+11. Jász-Nagykun-Szolnok Megyei Kormányhivatal 10045002-00335694-00000000
+12. Komárom-Esztergom Megyei Kormányhivatal 10036004-00299554-00000000
+13. Nógrád Megyei Kormányhivatal 10037005-00299547-00000000
+14. Pest Megyei Kormányhivatal 10023002-00335728-00000000
+15. Somogy Megyei Kormányhivatal 10039007-00299688-00000000
+16. Szabolcs-Szatmár-Bereg Megyei Kormányhivatal 10044001-00299695-00000000
+17. Tolna Megyei Kormányhivatal 10046003-00299530-00000000
+18. Vas Megyei Kormányhivatal 10047004-00335711-00000000
+19. Veszprém Megyei Kormányhivatal 10048005-00299516-00000000
+20. Zala Megyei Kormányhivatal 10049006-00303066-00000000
+”
