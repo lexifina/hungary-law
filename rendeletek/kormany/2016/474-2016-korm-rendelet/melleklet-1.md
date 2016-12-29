@@ -1,3 +1,5 @@
-## 55. § Hatályát veszti az R. 25. § (1) bekezdésében a „legfeljebb nyolcvanöt százalékának” szövegrész.
+## 53–55. §[^3]
 
 1. melléklet a 474/2016. (XII. 27.) Korm. rendelethez
+
+[^3]: Az 53–55. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
