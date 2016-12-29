@@ -1,0 +1,3 @@
+## 1. § Az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaságot (a továbbiakban: MFB Zrt.) a Gazdaságfejlesztési és Innovációs Operatív Program pénzügyi eszközökről szóló 8. prioritásában és a Versenyképes Közép-Magyarország Operatív Program által finanszírozott kockázati tőkeprogramok megvalósítása során a 2014–2020-as programozási időszak zárásáig keletkező és az állam tulajdonába kerülő ideiglenes befektetési jegyek és befektetési jegyek feletti tulajdonosi jogok és kötelezettségek összességének gyakorlására az ezen kockázati tőkeprogramok keretében létrehozott kockázati tőkealapok fennállásáig kijelölöm.
+
+2. § Ez a rendelet a kihirdetését követő napon lép hatályba.
