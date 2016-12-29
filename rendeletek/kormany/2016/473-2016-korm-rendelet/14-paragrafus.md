@@ -1,5 +1,5 @@
-## 13. §[^18]
+## 13. §[^20]
 
 ## 14. Az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatalok általánostól eltérő illetékességi területéről szóló 67/2015. (III. 30.) Korm. rendelet módosítása
 
-[^18]: A 13. § a 24. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^20]: A 13. § a 24. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.

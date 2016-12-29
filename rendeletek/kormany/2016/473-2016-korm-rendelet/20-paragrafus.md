@@ -1,4 +1,4 @@
-## lép.
+## 19. §[^24]
 
 ## 20. A központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 379/2016. (XII. 2.) Korm. rendelet módosítása
 
@@ -33,3 +33,5 @@ k) 293. § (1), (12), (13) bekezdése,
 l) 293. § (18) bekezdés 4. pontjában a „ , 35. § (4) bekezdésben” szövegrész,
 
 m) 27. melléklete.
+
+[^24]: A 19. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
