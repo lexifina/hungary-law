@@ -1,0 +1,9 @@
+# 482/2016. (XII. 28.) Korm. rendelet
+
+egyes kormányrendeleteknek az egyszerű bejelentés körének kiterjesztésével és az építésügy területén érvényesítendő további bürokráciacsökkentéssel összefüggő módosításáról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-482-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-12-29 | 2016-482-20-22.1 | 482/2016. (XII. 28.) Korm. rendelet |
