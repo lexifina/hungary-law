@@ -1,0 +1,9 @@
+# 62/2016. (XII. 28.) NFM rendelet
+
+a megújuló energiaforrásból származó villamos energia termelési támogatás korlátairól és a prémium típusú támogatásra irányuló pályázati eljárásról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-62-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2016-12-29 | 2016-62-20-2W.1 | 62/2016. (XII. 28.) NFM rendelet |
