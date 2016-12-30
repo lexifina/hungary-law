@@ -1,4 +1,4 @@
-## 21/B. [^55] A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
+## 21/B. [^59] A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
 
 38/B. § (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) beruházási, működési vagy zenei és irodalmi alkotások kiadásához nyújtott támogatásként nyújtható.
 
@@ -16,4 +16,4 @@ e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezés
 
 f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
 
-[^55]: A 21/B. alcímet (38/B–38/F. §) a 42/2016. (XI. 17.) NGM rendelet 11. §-a iktatta be.
+[^59]: A 21/B. alcímet (38/B–38/F. §) a 42/2016. (XI. 17.) NGM rendelet 11. §-a iktatta be.

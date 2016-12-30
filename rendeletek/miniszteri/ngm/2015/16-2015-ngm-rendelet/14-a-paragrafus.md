@@ -1,4 +1,4 @@
-## 9/A. [^49] Az eljárási innováció és szervezési innováció támogatása
+## 9/A. [^53] Az eljárási innováció és szervezési innováció támogatása
 
 14/A. § (1) Az eljárási innováció és szervezési innováció támogatása (ezen alcím vonatkozásában a továbbiakban: támogatás) keretében elszámolható
 
@@ -14,4 +14,4 @@ d) a további általános és egyéb működési költség, ideértve az anyagok
 
 (3) Nagyvállalkozásnak akkor nyújtható támogatás, ha az a támogatott tevékenység során ténylegesen együttműködik kis- és középvállalkozással és, ha az együttműködő kis- és középvállalkozás viseli az összes elszámolható költség legalább 30%-át.
 
-[^49]: A 9/A. alcímet (14/A. §) a 42/2016. (XI. 17.) NGM rendelet 8. §-a iktatta be.
+[^53]: A 9/A. alcímet (14/A. §) a 42/2016. (XI. 17.) NGM rendelet 8. §-a iktatta be.

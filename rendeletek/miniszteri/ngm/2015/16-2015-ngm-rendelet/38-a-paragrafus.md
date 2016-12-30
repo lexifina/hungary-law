@@ -1,4 +1,4 @@
-## 21/A. [^54] A szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás
+## 21/A. [^58] A szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás
 
 38/A. § (1) A szennyezett terület szennyeződésmentesítéséhez nyújtott beruházási támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) a környezeti károk (pl. a talaj, a felszíni vagy felszín alatti vizek károsodása) helyreállításához nyújtható.
 
@@ -8,4 +8,4 @@
 
 (4) A támogatás keretében a terület szennyeződésmentesítéséhez kapcsolódó, a szennyeződésmentesített földterület független szakértő által meghatározott értéknövekedésével csökkentett költsége számolható el, függetlenül attól, hogy az adott költség tárgyi eszközként feltüntethető-e a kedvezményezett mérlegében.
 
-[^54]: A 21/A. alcímet (38/A. §) a 42/2016. (XI. 17.) NGM rendelet 11. §-a iktatta be.
+[^58]: A 21/A. alcímet (38/A. §) a 42/2016. (XI. 17.) NGM rendelet 11. §-a iktatta be.

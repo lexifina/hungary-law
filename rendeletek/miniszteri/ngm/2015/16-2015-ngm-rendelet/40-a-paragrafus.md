@@ -1,5 +1,5 @@
 ## kell levonni az elszámolható költségekből.
 
-## 23.[^57]
+## 23.[^61]
 
-[^57]: A 23. alcímet (40/A. §) a 30/2015. (XI. 19.) NGM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés b) pontja.
+[^61]: A 23. alcímet (40/A. §) a 30/2015. (XI. 19.) NGM rendelet 7. §-a iktatta be, hatályon kívül helyezte a 42/2016. (X. 17.) NGM rendelet 15. § (2) bekezdés b) pontja.

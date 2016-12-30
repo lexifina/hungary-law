@@ -1,6 +1,6 @@
 ## számolható el.
 
-## 21/C. [^56] A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás
+## 21/C. [^60] A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás
 
 38/G. § (1) A sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás)
 
@@ -18,4 +18,4 @@ b) működési támogatásként sportlétesítmény működéséhez
 
 (5) Ha a támogatott sportlétesítményt hivatásos csapat használja, a hivatásos csapat esetén alkalmazott díjszámítási feltételeket nyilvánossá kell tenni.
 
-[^56]: A 21/C. alcímet (38/G–38/I. §) a 42/2016. (XI. 17.) NGM rendelet 11. §-a iktatta be.
+[^60]: A 21/C. alcímet (38/G–38/I. §) a 42/2016. (XI. 17.) NGM rendelet 11. §-a iktatta be.
