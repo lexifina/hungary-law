@@ -10,9 +10,11 @@ d) kizárólag saját célú vasúti pályahálózaton, iparvágányon közleked
 
 e) keskeny nyomtávú vasúti pályahálózaton, kisvasúton, múzeumvasúton közlekedő vasúti járművek karbantartására, javítására, felújítására, korszerűsítésére, vagy
 
-f) nem helyhez kötött (mobil) karbantartási, javítási tevékenységre.
+f) nem helyhez kötött (mobil) karbantartási, javítási tevékenységre,
 
-(2) A műszaki engedély az (1) bekezdés a)–f) pontjaiban meghatározott tevékenységek vonatkozásában egy vagy több járműtípusra, egy vagy több műhelyre is kiadható.
+g)[^1] kizárólag helyi, városi vagy elővárosi vasúti pályahálózaton közlekedő vasúti járművek javítására, karbantartására, felújítására, korszerűsítésére.
+
+(2)[^2] A műszaki engedély az (1) bekezdés a)–g) pontjaiban meghatározott tevékenységek vonatkozásában egy vagy több járműtípusra, egy vagy több műhelyre is kiadható.
 
 (3) A műszaki engedély tartalmazza:
 
@@ -39,3 +41,6 @@ e) a tevékenység szüneteltetésének időtartamát vagy a tevékenység felf�
 (5) A közlekedési hatóság a (4) bekezdésben meghatározott nyilvántartás adatait – a személyes adatok kivételével – a honlapján közzéteszi és naprakészen tartja.
 
 (6) A közlekedési hatóság a műszaki engedély visszavonásával egyidejűleg az engedélyest és a műhelyeit a nyilvántartásból törli.
+
+[^1]: Az 5. § (1) bekezdés g) pontját az 59/2016. (XII. 28.) NFM rendelet 2. §-a iktatta be.
+[^2]: Az 5. § (2) bekezdése az 59/2016. (XII. 28.) NFM rendelet 4. § a) pontja szerint módosított szöveg.

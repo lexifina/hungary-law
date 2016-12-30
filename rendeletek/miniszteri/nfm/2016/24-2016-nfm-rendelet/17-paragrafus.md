@@ -1,6 +1,6 @@
 ## 5. Vasúti járművek időszakos és rendkívüli vizsgálatának engedélyezése
 
-17. § (1) Vasúti járművek időszakos vizsgálatát végző műhely engedélyezése iránti kérelmet csak az nyújthat be, aki rendelkezik az 5. § (1) bekezdés a), d) és e) pontjában meghatározott műszaki engedéllyel. A közlekedési hatóság egy eljárásban is elbírálhatja az 5. § (1) bekezdés a), d) és e) pontjában meghatározott és a vasúti járművek időszakos vizsgálatának végzésére vonatkozó engedély iránti kérelmet.
+17. § (1)[^3] Vasúti járművek időszakos vizsgálatát végző műhely engedélyezése iránti kérelmet csak az nyújthat be, aki rendelkezik az 5. § (1) bekezdés a), d), e) és g) pontjában meghatározott műszaki engedéllyel. A közlekedési hatóság egy eljárásban is elbírálhatja az 5. § (1) bekezdés a), d), e) és g) pontjában meghatározott és a vasúti járművek időszakos vizsgálatának végzésére vonatkozó engedély iránti kérelmet.
 
 (2) Az időszakos vizsgálatra feljogosító engedély iránti kérelemhez – eredetiben vagy hiteles másolatban – a 4. § (2) bekezdésében meghatározottakon túl csatolni kell a kérelmező
 
@@ -29,3 +29,5 @@ a) szünetelésére a 6. § (3) bekezdésében,
 b) felfüggesztése vonatkozásában – a 7. § (1) bekezdés c) pont kivételével – a 7. és 8. §-ban foglaltakat kell alkalmazni.
 
 (6) A műszaki engedély visszavonásával kapcsolatban a 9. § rendelkezéseit kell alkalmazni.
+
+[^3]: A 17. § (1) bekezdése az 59/2016. (XII. 28.) NFM rendelet 4. § b) pontja szerint módosított szöveg.
