@@ -1,5 +1,3 @@
 ## 34. §
 
-## 8.[^10]
-
-[^10]: A 8. alcím (35. §) a 64. § (2) bekezdése alapján 2016. december 30-án lép hatályba.
+## 8. A településfejlesztési koncepcióról, az integrált településfejlesztési stratégiáról és a településrendezési eszközökről, valamint egyes településrendezési sajátos jogintézményekről szóló 314/2012. (XI. 8.) Korm. rendelet módosítása
