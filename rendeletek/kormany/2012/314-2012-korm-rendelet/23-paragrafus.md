@@ -1,37 +1,37 @@
-## 17. Településképi bejelentési eljárás
+## 17/A. A településképi rendeletek a fővárosban
 
-23. § (1)[^18] A polgármester – a nyilvántartott műemléki értéket, a műemléket érintő vagy műemléki környezetben, műemléki jelentőségű területen az örökségvédelmi hatósághoz történő bejelentéshez vagy örökségvédelmi engedélyhez kötött tevékenység kivételével – településképi bejelentési eljárást (a továbbiakban: bejelentési eljárás) folytathat le
+23. § (1) A fővárosban a településképi rendelet
 
-a) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben építési engedélyhez nem kötött azon építési tevékenységek tekintetében, melynek megkezdését,
+a) a kerületi önkormányzat részéről a kerület teljes közigazgatási területére, és
 
-b) azon reklámok elhelyezése tekintetében melyek elhelyezését,
+b) a főváros önkormányzat részéről a főváros teljes közigazgatási területére
 
-c) azon építmények rendeltetésének megváltoztatása tekintetében, melyek rendeltetésének megváltoztatását
+## készül.
 
-a települési önkormányzat helyi önkormányzati rendeletben bejelentési eljárás lefolytatásához kötötte, és az eljárás részletes szabályairól, valamint a 24. § (1) bekezdés a) pontja szerinti igazolás érvényességi idejéről helyi rendeletet alkotott.
+(2) A fővárosi önkormányzat településképi rendeletében
 
-(2) A bejelentés tartalmazza:
+a) a fővárosi önkormányzat által közvetlenül igazgatott terület teljes területére a 22. § (3) bekezdése szerinti településképi követelményeket teljeskörűen,
 
-a) a bejelentő nevét,
+b) a főváros településképi szempontból meghatározó területeire
 
-b) a bejelentő lakcímét, szervezet esetén székhelyét,
+ba) helyi egyedi védelmi követelményt, és
 
-c) a folytatni kívánt építési tevékenység, reklámelhelyezés vagy rendeltetésváltoztatás megjelölését,
+bb) területi építészeti követelményt, valamint
 
-d) a tervezett építési tevékenység, reklámelhelyezés vagy rendeltetésváltoztatás helyét, a telek helyrajzi számát,
+c) a főváros teljes közigazgatási területére helyi egyedi védelmi követelményt
 
-e) az építési tevékenység elvégzése, a rendeltetésváltozás megvalósítása vagy a reklámozás tervezett időtartamát.
+## állapíthat meg.
 
-(3) A bejelentéshez dokumentációt kell mellékelni. A dokumentációnak – a kérelem tárgyának megfelelően – a következő munkarészeket kell tartalmaznia:
+(3) A főváros esetében a fővárosi önkormányzat településképi rendeletben állapítja meg az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) szerinti helyi építészeti örökség egyedi védelmére, védetté nyilvánítására és a védettség megszüntetésére vonatkozó követelményeket, valamint a fővárosi helyi védelem alá vont építményekre a településképi véleményezési és bejelentési eljárás részletes szabályait. A fővárosi önkormányzat emellett a (2) bekezdés szerinti követelményekhez megállapítja a településkép-érvényesítési eszközöket, továbbá az egyéb kapcsolódó követelményeket.
 
-a) műszaki leírást, a telepítésről és az építészeti kialakításról,
+(4) A kerületi önkormányzat településképi rendeletében állapítja meg a helyi védelmet és a településképi követelményeket azzal, hogy
 
-b) helyszínrajzot a szomszédos építmények és a terepviszonyok feltüntetésével,
+a) a kerületi önkormányzat egyedi védelmet a főváros által megállapított helyi egyedi védelemmel érintett elemre nem,
 
-c) alaprajzot,
+b) a fővárosi egyedi védelemmel érintett helyi építészeti örökségre is megállapíthat a kerületi önkormányzat helyi területi védelmet,
 
-d) homlokzatot,
+c) a fővárosi önkormányzat által meghatározott településképi szempontból meghatározó területre a kerületi önkormányzat az építészeti követelmények közül csak egyedi építészeti követelményt
 
-e) utcaképi vázlatot, színtervet, látványtervet.
+## állapíthat meg.
 
-[^18]: A 23. § (1) bekezdés nyitó szövegrésze a 62/2014. (III. 6.) Korm. rendelet 24. §-a, a 38/2015. (III. 11.) Korm. rendelet 20. § (4) bekezdés a) pontja szerint módosított szöveg.
+(5) A kerületi településképi rendeletben meghatározott településképi követelmény a fővárosi településképi rendeletben foglalt területi építészeti követelménnyel összhangban kerülhet megállapításra.

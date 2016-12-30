@@ -21,3 +21,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-314-20-
 | 2015-07-01 | 2012-314-20-22.13 | 168/2015. (VI. 30.) Korm. rendelet |
 | 2015-12-11 | 2012-314-20-22.14 | 385/2015. (XII. 8.) Korm. rendelet |
 | 2016-09-01 | 2012-314-20-22.15 | 70/2015. (III. 30.) Korm. rendelet |
+| 2016-12-30 | 2012-314-20-22.16 | 400/2016. (XII. 5.) Korm. rendelet |

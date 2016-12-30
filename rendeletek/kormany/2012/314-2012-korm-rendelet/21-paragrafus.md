@@ -1,39 +1,19 @@
-## V. Fejezet
+## V. Fejezet[^48]
 
-## EGYÉB TELEPÜLÉSRENDEZÉSI SAJÁTOS JOGINTÉZMÉNYEK
+## A TELEPÜLÉSKÉPI KÖVETELMÉNYEK ÉS EGYES EGYÉB TELEPÜLÉSRENDEZÉSI SAJÁTOS JOGINTÉZMÉNYEK
 
-## 16. Településképi véleményezési eljárás
+## 16. A településképi arculati kézikönyvre vonatkozó általános szabályok
 
-21. § (1) Az építési tevékenységgel érintett telek helye szerinti település polgármestere településképi véleményezési eljárást (a továbbiakban: véleményezési eljárás) folytathat le
+21. § (1) A kézikönyv szemléletformáló célt szolgál, amelyet a települési önkormányzat normatív határozata mellékleteként fogad el.
 
-a) az építésügyi és építésfelügyeleti hatósági eljárásokról és ellenőrzésekről, valamint az építésügyi hatósági szolgáltatásról szóló kormányrendeletben meghatározott azon engedélyezési eljárásokat megelőzően,
+(2) A kézikönyv – a 21/A. §-ban a fővárosra vonatkozó kivételekkel – a település teljes közigazgatási területére készül.
 
-aa) amelynél a településrendezési és építészeti-műszaki tervtanácsokról szóló kormányrendelet szerinti területi építészeti-műszaki tervtanácsnak nincs hatásköre, és
+(3) A kézikönyvben – a településképi követelmények megalapozására – meg kell határozni a település településkaraktert meghatározó településképi jellemzőit, a településképi szempontból egymástól jól elkülönülő településrészeket arculati jellemzőikkel és értékeikkel, a településkép minőségi formálására vonatkozó javaslatokat, valamint a településképhez illeszkedő építészeti elemeket.
 
-ab) amennyiben összevont telepítési eljárást, ezen belül telepítési hatásvizsgálati szakaszt nem kezdeményezett az építtető; és
+(4) A kézikönyv a (3) bekezdésben foglaltak figyelembevételével készül és legalább a 12. mellékletben meghatározott fejezeteket tartalmazza azzal, hogy a beépítési vázlat nem kötelező.
 
-b) ha az eljárás lefolytatásának részletes szabályairól az önkormányzat rendeletet alkotott, amelyben meghatározta, hogy
+(5) A beépítési vázlat tartalmát a megalapozni kívánt településképi követelmények határozzák meg, a 7. mellékletben meghatározott beépítési tervre vonatkozó tartalmi követelmények irányadók.
 
-ba) véleményét mely esetekben alapozza önkormányzati főépítész vagy helyi építészeti-műszaki tervtanács (a továbbiakban: helyi tervtanács) szakmai álláspontjára,
+(6) A kézikönyv szerkeszthető – e rendeletben meghatározott egyeztetésre és külön jogszabályban meghatározottak szerinti nyilvántartásra alkalmas – digitális formátumban készül, papír formátumú dokumentálásra is alkalmas módon.
 
-bb) melyek a véleményezés részletes szempontjai, és
-
-bc) helyi tervtanács működtetése esetén melyek a működés és az eljárás részletes szabályai.
-
-(2)[^12] A polgármester építmény építésére, bővítésére, településképet érintő átalakítására irányuló építési, összevont vagy fennmaradási engedélyezési eljárásokhoz adhat településképi véleményt. A fővárosban az Étv. rendelkezései alapján fővárosi helyi építészeti értékvédelem alá vont építmények esetében az első fokú építésügyi hatósági eljárásokhoz a főpolgármester adhat településképi véleményt.
-
-(3) A véleményezési eljárás során vizsgálni kell
-
-a) a telepítés (a környezetbe illeszkedés, a beépítés vagy az építészeti jellegzetesség és látvány, a helyi jelleg védelme) településképbe való illesztését, a helyi építészeti érték védelmének érvényre juttatását, azokra gyakorolt hatását,
-
-b) a településrendezési eszközöknek való megfelelést, a rálátás és kilátás követelményeinek való megfelelést,
-
-c) az épület homlokzatának és tetőzetének kialakítási módját,
-
-d) a közterület mentén az épület kialakításának módját és feltételeit,
-
-e) az építmény takaratlanul maradó és közterületről közvetlenül látható határfelületeinek kialakítási módját és feltételeit, valamint
-
-f) közterületen folytatott építési tevékenység végzése esetén a közterület burkolatának, műtárgyainak, köztárgyainak, növényzetének, továbbá a díszvilágító és hirdető-berendezések kialakítását.
-
-[^12]: A 21. § (2) bekezdése a 394/2012. (XII. 20.) Korm. rendelet 68. §-ával megállapított szöveg.
+[^48]: Az V. fejezet (21–27. §) a 400/2016. (XII. 5.) Korm. rendelet 15. §-ával megállapított szöveg.

@@ -1,11 +1,13 @@
-## 21. A partnerségi egyeztetés
+## 21. [^51] A partnerségi egyeztetés
 
-## 29. § Az önkormányzat – a teljes körű nyilvánosság biztosításával, az e fejezetben meghatározott határidők figyelembevételével – a tervezés előtt dönt a partnerségi egyeztetés szabályairól, amelynek során meghatározza:
+## 29. § Az önkormányzat – a teljes körű nyilvánosság biztosításával, a 29/A. § és az e fejezetben meghatározott határidők figyelembevételével – az egyeztetési eljárást megelőzően dönt a partnerségi egyeztetés szabályairól, amelynek során meghatározza:
 
-a) az egyeztetésben résztvevők (a továbbiakban: partnerek) tájékoztatásának módját és eszközeit,
+a) a partnerek tájékoztatásának módját és eszközeit,
 
-b) a javaslatok, vélemények dokumentálásának, nyilvántartásának módját,
+b) a partnerek által adott javaslatok, vélemények megadásának módját és határidejét, továbbá nyilvántartásának módját,
 
-c) az el nem fogadott javaslatok, vélemények indokolásának módját, a dokumentálásuk, nyilvántartásuk rendjét,
+c) az el nem fogadott partnerségi javaslatok, vélemények indokolásának módját, a dokumentálásuk, nyilvántartásuk rendjét,
 
-d) az elfogadott koncepció, stratégia és településrendezési eszközök nyilvánosságát biztosító intézkedéseket.
+d) az elfogadott koncepció, stratégia, településrendezési eszközök, kézikönyv és településképi rendelet nyilvánosságát biztosító intézkedéseket.
+
+[^51]: A 21. alcím (29–29/A. §) a 400/2016. (XII. 5.) Korm. rendelet 17. §-ával megállapított szöveg.

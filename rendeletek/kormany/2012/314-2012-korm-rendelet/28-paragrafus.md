@@ -1,16 +1,24 @@
 ## VI. Fejezet
 
-## A TELEPÜLÉSFEJLESZTÉSI KONCEPCIÓ, AZ INTEGRÁLT TELEPÜLÉSFEJLESZTÉSI STRATÉGIA ÉS A TELEPÜLÉSRENDEZÉSI ESZKÖZÖK EGYEZTETÉSÉNEK ÉS ELFOGADÁSÁNAK ELJÁRÁSI SZABÁLYAI
+## A TELEPÜLÉSFEJLESZTÉSI KONCEPCIÓ, AZ INTEGRÁLT TELEPÜLÉSFEJLESZTÉSI STRATÉGIA, A TELEPÜLÉSRENDEZÉSI ESZKÖZÖK, A TELEPÜLÉSKÉPI ARCULATI KÉZIKÖNYV ÉS A TELEPÜLÉSKÉPI RENDELET EGYEZTETÉSÉNEK ÉS ELFOGADÁSÁNAK ELJÁRÁSI SZABÁLYAI[^49]
 
-## 20. A településfejlesztési koncepció, az integrált településfejlesztési stratégia és a településrendezési eszközök egyeztetésének és elfogadásának közös szabályai
+## 20. [^50] A településfejlesztési koncepció, az integrált településfejlesztési stratégia, a településrendezési eszközök, a településképi arculati kézikönyv és a településképi rendelet készítése, módosítása egyeztetésének és elfogadásának közös szabályai
 
-28. § (1) A koncepciót, a stratégiát és a településrendezési eszközöket a polgármester, illetve a főpolgármester (a továbbiakban együtt: polgármester) egyezteti a partnerségi egyeztetés szerinti érintettekkel a helyi adottságoknak megfelelően, az államigazgatási szervekkel, az érintett területi és települési önkormányzatokkal.
+28. § (1) A koncepciót, a stratégiát, a településrendezési eszközöket, a kézikönyvet és a településképi rendeletet a polgármester, illetve a főpolgármester (a továbbiakban együtt: polgármester) egyezteti a partnerségi egyeztetés szerinti érintettekkel, a 9. melléklet szerinti érintett államigazgatási szervekkel, az érintett területi és települési önkormányzatokkal.
 
-(2) Koncepció, stratégia, településrendezési eszköz vagy azok módosítása véleményezési eljárás lefolytatása nélkül nem fogadható el, kivéve a magasabb szintű jogszabály rendelkezésének változása miatti ellentétes – helyi önkormányzati – előírás hatályon kívül helyezése esetén.
+(2) A lakossággal, érdekképviseleti, civil és gazdálkodó szervezetekkel, vallási közösségekkel (a továbbiakban: partnerek) történő véleményeztetés a helyi adottságoknak megfelelően, a feladat jellegének figyelembevételével a partnerségi egyeztetés szabályai szerint történik.
 
-(3)[^19] A lakossággal, érdekképviseleti, civil és gazdálkodó szervezetekkel, vallási közösségekkel történő véleményeztetés a helyi adottságoknak megfelelően, a feladat jellegének figyelembevételével a partnerségi egyeztetés szabályai szerint történik.
+(3) A településrendezési eszköz az országos településrendezési és építési követelményekben megállapított településrendezési követelményeknél megengedőbb követelményeket az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) 111. §-ában felsorolt feltételeken túl akkor határozhat meg, ha ahhoz az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal, a 40. § (8) bekezdése szerinti esetben a településfejlesztésért és a településrendezésért felelős miniszter záró szakmai véleményében hozzájárul.
 
-(4)[^20] A településrendezési eszköz az országos településrendezési és építési követelményekben megállapított településrendezési követelményeknél megengedőbb követelményeket az országos településrendezési és építési követelményekről szóló 253/1997. (XII. 20.) Korm. rendelet (a továbbiakban: OTÉK) 111. §-ában felsorolt feltételeken túl akkor határozhat meg, ha ahhoz az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal, a 40. § (8) bekezdése szerinti esetben a településfejlesztésért és a településrendezésért felelős miniszter záró szakmai véleményében hozzájárul.
+(4) Koncepció, stratégia, településrendezési eszköz, kézikönyv, településképi rendelet vagy azok módosítása véleményezési eljárás lefolytatása nélkül nem fogadható el, kivéve ha a módosításra a magasabb szintű jogszabállyal ellentétes helyi önkormányzati előírás hatályon kívül helyezése miatt van szükség.
 
-[^19]: A 28. § (3) bekezdése a 297/2013. (VII. 29.) Korm. rendelet 84. § a) pontja szerint módosított szöveg.
-[^20]: A 28. § (4) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés j) pontja, a 70/2015. (III. 30.) Korm. rendelet 208. § (1) bekezdés a) pontja szerint módosított szöveg.
+(5) A koncepció és a stratégia egyszerre történő készítése vagy módosítása esetén az egyeztetési eljárás történhet párhuzamosan vagy egy eljárásban, de a koncepcióról szóló döntés meg kell, hogy előzze a stratégia elfogadását.
+
+(6) A koncepció, a stratégia, a településrendezési eszköz egyszerre történő készítése vagy módosítása esetén az egyeztetési eljárás történhet párhuzamosan vagy egy eljárásban. Az egy eljárásban történő véleményeztetés során a településrendezési eszköz egyeztetési szabályai szerint kell az egyeztetési eljárást lefolytatni.
+
+(7) A koncepció vagy módosításának elfogadása meg kell, hogy előzze a stratégia és a településszerkezeti terv vagy azok módosításának elfogadását. A településszerkezeti terv vagy módosításának elfogadása meg kell, hogy előzze a helyi építési szabályzat elfogadását.
+
+(8) Párhuzamos egyeztetési eljárás esetén a kézikönyv és a településképi rendelet vagy azok módosításának elfogadása meg kell, hogy előzze a helyi építési szabályzat vagy módosításának elfogadását.
+
+[^49]: A VI. fejezet címe a 400/2016. (XII. 5.) Korm. rendelet 16. §-ával megállapított szöveg.
+[^50]: A 20. alcím (28. §) a 400/2016. (XII. 5.) Korm. rendelet 17. §-ával megállapított szöveg.

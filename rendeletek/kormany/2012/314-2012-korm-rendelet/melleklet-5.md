@@ -10,7 +10,7 @@
 
 1.1.2. Közterület alakításra vonatkozó előírások
 
-1.1.3. Az épített környezet és a településkép alakítására vonatkozó előírások
+1.1.3.[^111] Az épített környezet alakítására vonatkozó előírások
 
 1.1.4. A táj és a természeti környezet védelmére vonatkozó előírások
 
@@ -69,3 +69,5 @@
 2.3.1. Védelmi-korlátozás jegyzékek
 
 2.2.2. Mintakeresztszelvények
+
+[^111]: Az 5. melléklet 1.1.3. pontja a 400/2016. (XII. 5.) Korm. rendelet 29. § g) pontja szerint módosított szöveg.

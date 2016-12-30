@@ -1,51 +1,33 @@
-22. § (1) A véleményezési eljárás lefolytatásához a kérelmező (építtető) kérelmét papíralapon nyújtja be, és a véleményezendő építészeti-műszaki dokumentációt elektronikus formában az építésügyi hatósági eljáráshoz biztosított elektronikus tárhelyre feltölti, melyhez a polgármesternek hozzáférést biztosít.
+## 17. A településképi rendeletre vonatkozó általános szabályok
 
-(2) A kérelemnek tartalmaznia kell az építtető vagy kérelmező nevét és címét, valamint a tervezett és véleményezésre kért építési tevékenység helyét, az érintett telek helyrajzi számát. A kérelemhez csak az (1) bekezdés szerinti építészeti-műszaki dokumentációt kell mellékelni.
+22. § (1) A településképi rendelet – a 23. §-ban a fővárosra vonatkozó kivételekkel – a település teljes közigazgatási területére készül.
 
-(3) Az építészeti-műszaki dokumentációnak a véleményezéshez az alábbi munkarészeket kell tartalmaznia:
+(2) A településképi rendelet állapítja meg
 
-a) helyszínrajzi elrendezés ábrázolása, a szomszédos beépítés bemutatása, védettség lehatárolása, terepviszonyok megjelenítése szintvonalakkal,
+a) a helyi építészeti örökség területi és egyedi védelmét (a továbbiakban: helyi védelem), illetve a védelem megszüntetését,
 
-b) településképet befolyásoló tömegformálás, homlokzatkialakítás, utcakép, illeszkedés ábrázolása (lehet makett, fotómontázs, digitális megjelenítés is),
+b) a településszerkezet, településkarakter, tájképi elem és egyéb helyi adottság alapján a településképi szempontból meghatározó területeket,
 
-c) reklámelhelyezés ábrázolása,
+c) a településképi követelményeket.
 
-d) rendeltetés meghatározása, valamint
+(3) A településképi követelmény lehet
 
-e) rövid műszaki leírás a különböző védettségek bemutatásával, a telepítésről és az építészeti kialakításról.
+a) területi építészeti,
 
-(4)[^13] A polgármester vagy főpolgármester a kérelem beérkezését követően haladéktalanul – határidő megjelölésével – bekéri
+b) egyedi építészeti és
 
-a) az önkormányzati főépítész szakmai álláspontját, vagy
+c) a reklámhordozókra, reklámberendezésekre, cégérekre és reklámhordozásra alkalmas egyéb műszaki berendezésre (a továbbiakban együtt: reklámhordozók), továbbá az egyéb műszaki berendezésekre vonatkozó
 
-b) helyi tervtanács működtetése esetén annak szakmai álláspontját.
+## követelmény.
 
-(4a)[^14] A polgármester vagy főpolgármester a kérelem beérkezését követően – határidő megjelölésével – bekérheti a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ Műemléki Tanácsadó Testületének szakértői véleményét.
+(4) A helyi területi vagy egyedi védelemmel érintett területre és elemre vonatkozó (3) bekezdés b) és c) pontja szerinti településképi követelmény megengedő, tiltó vagy kötelező követelményként egyaránt meghatározható.
 
-(5)[^15] A polgármester vagy főpolgármester véleményében
+(5) A településképi szempontból meghatározó területre vonatkozó (3) bekezdés b) és c) pontja szerinti településképi követelmény csak megengedő vagy tiltó követelményként határozható meg.
 
-a) engedélyezésre – feltétellel vagy anélkül – javasolja a tervezett építési tevékenységet, vagy
+(6) A (4) és (5) bekezdés szerinti területre és elemre – tartalmi keretet meghatározva – a területi építészeti követelmény csak kötelező követelményként határozható meg.
 
-b) engedélyezésre nem javasolja a tervezett építési tevékenységet, ha
+(7) A (4)–(6) bekezdés alá nem tartozó egyéb területek esetében csak egyedi építészeti követelmény, ezen belül is csak építmény anyaghasználatára vonatkozó, tiltó építészeti követelmény határozható meg.
 
-ba) a kérelem vagy melléklete nem felel meg az e rendeletben és az önkormányzat rendeletében meghatározottaknak, vagy
+(8) A településképi követelmény a nyilvántartott műemléki értékre, műemléki környezetre és műemléki jelentőségű területre vonatkozóan az örökségvédelmi jogszabályban vagy hatósági döntésben foglaltnál szigorúbb helyi követelményt is előírhat, de azokkal nem lehet ellentétes.
 
-bb) a tervezett építési tevékenység nem felel meg a településképi illeszkedési követelményeknek.
-
-(6)[^16] A polgármester vagy főpolgármester véleménye tartalmazza:
-
-a) a kérelmező (építtető) adatait,
-
-b) a tervezett építési tevékenység rövid leírását, helyét, címét és a telek helyrajzi számát,
-
-c) az (5) bekezdés szerinti véleményét és annak részletes indoklását.
-
-(7)[^17] A polgármester vagy főpolgármester a kérelem beérkezésétől számított 15 napon belül megküldi véleményét az építtetőnek vagy a kérelmezőnek, továbbá véleményét elektronikus formában feltölti az elektronikus tárhelyre.
-
-(8) A településképi vélemény ellen önálló jogorvoslatnak nincs helye, az csak az építésügyi hatósági ügyben hozott döntés keretében vitatható.
-
-[^13]: A 22. § (4) bekezdés nyitó szövegrésze a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés i) pontja szerint módosított szöveg.
-[^14]: A 22. § (4a) bekezdését a 38/2015. (III. 11.) Korm. rendelet 20. § (1) bekezdése iktatta be.
-[^15]: A 22. § (5) bekezdés nyitó szövegrésze a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés i) pontja szerint módosított szöveg.
-[^16]: A 22. § (6) bekezdés nyitó szövegrésze a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés i) pontja szerint módosított szöveg.
-[^17]: A 22. § (7) bekezdése a 266/2013. (VII. 11.) Korm. rendelet 54. § (3) bekezdés i) pontja szerint módosított szöveg.
+(9) A településképi követelmény a helyi építési szabályzatban meghatározható helyi követelményeket, jogokat és kötelezettségeket nem tartalmazhat.

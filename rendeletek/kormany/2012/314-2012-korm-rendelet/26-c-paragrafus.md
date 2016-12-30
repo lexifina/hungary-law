@@ -1,0 +1,5 @@
+## 26/C. § A polgármester a bejelentés megérkezésétől számított 15 napon belül hatósági határozatban
+
+a) a tervezett építési tevékenységet, reklámhordozó elhelyezését vagy rendeltetésváltoztatást – feltétel meghatározásával vagy anélkül – tudomásul veszi, ha a bejelentés megfelel a 26/B. § (2) és (3) bekezdésben meghatározott követelményeknek és a tervezett építési tevékenység, reklámhordozó vagy rendeltetésváltoztatás illeszkedik a településképbe, megfelel a településképi követelményeknek,
+
+b) megtiltja az építési tevékenységet, reklámhordozó elhelyezését vagy rendeltetésváltoztatás megkezdését és – a megtiltás indokainak ismertetése mellett – figyelmezteti a bejelentőt a tevékenység bejelentés nélküli elkezdésének és folytatásának jogkövetkezményeire, ha a bejelentés nem felel meg a 26/B. § (2) és (3) bekezdésében meghatározott követelményeknek, vagy a tervezett építési tevékenység, reklámhordozó vagy rendeltetésváltoztatás nem illeszkedik a településképbe, vagy nem felel meg a településképi és rendeltetésváltozás esetén a településrendezési eszközben foglalt követelménynek.

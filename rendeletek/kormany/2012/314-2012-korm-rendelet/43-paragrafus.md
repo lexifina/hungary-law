@@ -6,15 +6,33 @@ a) teljes eljárás esetén a településrendezési eszköz (2) bekezdés szerin
 
 b) az egyszerűsített eljárás esetén a településrendezési eszköz (2) bekezdés szerinti közlését követő 5. napon, de leghamarabb az elfogadástól számított 15. napon,
 
-c) a tárgyalásos eljárás esetén az elfogadást követő napon
+c)[^85] a tárgyalásos eljárás és az állami főépítészi eljárás esetén az elfogadást követő napon
 
 ## lép hatályba.
 
-(2)[^39] A polgármester a településrendezési eszközt – az elfogadásáról szóló jegyzőkönyvvel együtt – a képviselő-testületi döntést követő 15 napon belül megküldi az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalnak és az eljárásban részt vevő összes államigazgatási szervnek, vagy az elektronikus úton hitelesített dokumentumok elérését biztosítva 15 napon belül értesíti az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatalt és az eljárásban részt vevő összes államigazgatási szervet annak elérési lehetőségéről.
+(2)[^86] A polgármester gondoskodik a településrendezési eszköz Étv. 8. § (4) bekezdése szerinti nyilvánosságáról, továbbá az elfogadott településrendezési eszközt vagy módosítását az elfogadást követő 15 napon belül
 
-(3)[^40] Amennyiben az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal vagy az eljárásban részt vevő államigazgatási szerv jogszabályi ütközést észlel, haladéktalanul kezdeményezi a fővárosi és megyei kormányhivatalnál – a polgármester egyidejű tájékoztatása mellett – a településrendezési döntés jogszerűségével kapcsolatos törvényességi felügyeleti eljárás lefolytatását.
+a) rövid, közérthető összefoglaló kíséretében közzéteszi
 
-(4) A polgármester gondoskodik a településrendezési eszköz Étv. 8. § (4) bekezdése szerinti nyilvánosságáról.
+aa) az önkormányzati honlapon hirdetményben és
 
-[^39]: A 43. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 208. § (1) bekezdés b) és h) pontja szerint módosított szöveg.
-[^40]: A 43. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 208. § (1) bekezdés a) pontja szerint módosított szöveg.
+ab) az önkormányzati hivatalban nyomtatásban, és
+
+b) megküldi hitelesített pdf és a ba) és bb) alpont szerinti szervnek szerkeszthető – jogszabályban meghatározottak szerinti nyilvántartásra alkalmas – digitális formátumban az elfogadásáról szóló jegyzőkönyvvel együtt
+
+ba) a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Korlátolt Felelősségű Társaság részére (a továbbiakban: Lechner Tudásközpont),
+
+bb) az állami főépítész hatáskörében eljáró fővárosi és megyei kormányhivatalnak,
+
+bc) az eljárásban részt vevő összes államigazgatási szervnek vagy
+
+c) a megküldés helyett digitális formátumban a jegyzőkönyvvel együtt mint elektronikus úton hitelesített dokumentumot elérhetővé teszi a b) pont ba)–bc) alpontja szerinti szerveknek.
+
+(3)[^87] Amennyiben az állami főépítészi hatáskörében eljáró fővárosi és megyei kormányhivatal vagy az eljárásban részt vevő államigazgatási szerv jogszabályi ütközést észlel, haladéktalanul kezdeményezi a fővárosi és megyei kormányhivatalnál – a polgármester egyidejű tájékoztatása mellett – a településrendezési döntés jogszerűségével kapcsolatos törvényességi felügyeleti eljárás lefolytatását.
+
+(4)[^88]
+
+[^85]: A 43. § (1) bekezdés c) pontja a 400/2016. (XII. 5.) Korm. rendelet 28. § o) pontja szerint módosított szöveg.
+[^86]: A 43. § (2) bekezdése a 400/2016. (XII. 5.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^87]: A 43. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 208. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^88]: A 43. § (4) bekezdését a 400/2016. (XII. 5.) Korm. rendelet 29. § f) pontja hatályon kívül helyezte.
