@@ -2,9 +2,9 @@
 
 (2) A szaküzletben a forgalmazott gyógyászati segédeszközök – az egyedi méretvétel alapján gyártott termékek kivételével – fogyasztói árát, javítási és kölcsönzési díját a fogyasztó számára jól látható és hozzáférhető módon közzé kell tenni.
 
-(3)[^15] A (2) bekezdés szerinti információkat nagybetűs, kontrasztos írásmóddal is hozzáférhetővé kell tenni.
+(3)[^16] A (2) bekezdés szerinti információkat nagybetűs, kontrasztos írásmóddal is hozzáférhetővé kell tenni.
 
-(4)[^16] A (2) bekezdés szerint közzétett információról az eszköz gyártójának és elérhetőségének megjelölésével, továbbá a használati útmutatóban foglaltakról vakok és gyengénlátók részére kérésükre szóbeli tájékoztatást kell adni.
+(4)[^17] A (2) bekezdés szerint közzétett információról az eszköz gyártójának és elérhetőségének megjelölésével, továbbá a használati útmutatóban foglaltakról vakok és gyengénlátók részére kérésükre szóbeli tájékoztatást kell adni.
 
-[^15]: Az 5. § (3) bekezdése a 27/2006. (VI. 29.) EüM rendelet 5. § (3) bekezdésének b) pontja szerint módosított szöveg.
-[^16]: Az 5. § (4) bekezdését a 27/2006. (VI. 29.) EüM rendelet 3. §-a iktatta be.
+[^16]: Az 5. § (3) bekezdése a 27/2006. (VI. 29.) EüM rendelet 5. § (3) bekezdésének b) pontja szerint módosított szöveg.
+[^17]: Az 5. § (4) bekezdését a 27/2006. (VI. 29.) EüM rendelet 3. §-a iktatta be.

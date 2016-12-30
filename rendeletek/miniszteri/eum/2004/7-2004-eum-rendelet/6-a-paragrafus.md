@@ -1,4 +1,4 @@
-## 6/A. §[^20] Külön jogszabályban foglalt ápolási gyógyászati segédeszköz kölcsönbe adása esetében a 6. §-ban foglaltakon túl a kölcsönbe adó biztosítja
+## 6/A. §[^21] Külön jogszabályban foglalt ápolási gyógyászati segédeszköz kölcsönbe adása esetében a 6. §-ban foglaltakon túl a kölcsönbe adó biztosítja
 
 a) telefonos ügyfélszolgálat működtetését,
 
@@ -10,4 +10,4 @@ d) az eszköz visszaszállítását,
 
 e) az ügyfélszolgálat keretében munkaidőben a szakmai tanácsadást.
 
-[^20]: A 6/A. §-t a 8/2008. (III. 4.) EüM rendelet 10. §-a iktatta be. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően benyújtott gyógyászati segédeszköz vények esetében kell alkalmazni.
+[^21]: A 6/A. §-t a 8/2008. (III. 4.) EüM rendelet 10. §-a iktatta be. E módosító rendelet 18. § (1) bekezdése alapján a rendelkezést a 2008. március 12. napját követően indult eljárásokban, illetve az ezen időpontot követően benyújtott gyógyászati segédeszköz vények esetében kell alkalmazni.
