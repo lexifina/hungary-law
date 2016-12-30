@@ -2,7 +2,7 @@
 
 ## Alapképzés
 
-## I. A Bizottság 185/2010/EU rendelete Mellékletének (a továbbiakban: Melléklet) 11.2.2. részében megjelölt Alapelméleti képzés 30 óra. Alapelméleti képzést a VÉD-I., VÉD-IV. és a FEL kategóriáknál kell elvégezni.
+## I. A közös légiközlekedési EU rendelet Mellékletének (a továbbiakban: Melléklet) 11.2.2. részében megjelölt Alapelméleti képzés 30 óra. Alapelméleti képzést a VÉD-I., VÉD-IV. és a FEL kategóriáknál kell elvégezni.
 
 ## I.1. A VÉD-I. kategória munkakör-specifikus képzésének minimális időtartama ezen felül:
 
