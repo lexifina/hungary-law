@@ -1,3 +1,0 @@
-2. § A Támtv. 90. §-a a következő (3) bekezdéssel egészül ki:
-
-„(3) E törvény 44. § (7) bekezdése c) és d) pontjának a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény és a mező- és erdőgazdasági földek forgalmáról szóló 2013. évi CXXII. törvénnyel összefüggő egyes rendelkezésekről és átmeneti szabályokról szóló 2013. évi CCXII. törvény módosításáról szóló 2016. évi CXLIX. törvénnyel megállapított rendelkezéseit a 2014. évben és a 2015. évben benyújtott egységes kérelem alapján folyamatban levő eljárásokban és a 2016. évben benyújtott egységes kérelmekre induló eljárásokban is alkalmazni kell.”
