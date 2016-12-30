@@ -1,0 +1,5 @@
+31. § (1) A támogatói döntést követően a folyamatos szakmai és pénzügyi ellenőrzés biztosítása érdekében a KFI program pályázati kiírásában meghatározott időszakonként és a projekt befejezésekor a kedvezményezettnek a KFI program pályázati kiírásában és a támogatási szerződésben meghatározottak szerint szakmai és pénzügyi beszámolót kell benyújtania az NKFI Hivatal részére.
+
+(2) A szakmai és pénzügyi beszámoló értékelésének szempontrendszerét a 2. mellékletben meghatározottak figyelembevételével a KFI program pályázati kiírása tartalmazza.
+
+(3) A jelen szakasz szerinti értékelésnek ki kell terjednie a projekt szakmai előrehaladásának vizsgálatára és a tervezett munkatervi ütemezéssel való összhangjára, valamint a projekt megvalósítása során felmerült költségeknek a projekt céljához illeszkedő felhasználására és számviteli megfelelőségének vizsgálatára. Az értékelés kiterjedhet továbbá a projekt eredményének szellemitulajdon-védelmi oltalmáról való gondoskodás vizsgálatára, amennyiben a szellemitulajdon-védelmi oltalom az adott projektre értelmezhető.

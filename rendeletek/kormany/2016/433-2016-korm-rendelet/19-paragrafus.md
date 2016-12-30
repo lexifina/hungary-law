@@ -1,0 +1,1 @@
+## 18. § A 21–23. §-okban meghatározottak szerinti, valamint a KFI programok pályázati felhívásaira benyújtott és elfogadott projektjavaslatok alapján megvalósított KFI projektek értékeléséből álló utólagos (ex-post) értékelést minden KFI program tekintetében el kell végezni.
