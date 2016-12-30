@@ -1,6 +1,6 @@
 ## Az Európai Unió jogának való megfelelés
 
-8. § E rendelet a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és tanácsi rendelet VI. számú mellékletének 1.2.1., 3.1.1., valamint 4.3. pontja végrehajtásához szükséges rendelkezéseket állapítja meg.
+8. §[^14] E rendelet a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i 2016/399/EU európai parlamenti és tanácsi rendelet VI. számú melléklet 1.2.1., 3.1.1., valamint 4.3. pontja végrehajtásához szükséges rendelkezéseket állapítja meg.
 
 Melléklet a 68/2007. (XII. 28.) IRM rendelethez
 
@@ -65,3 +65,5 @@ Menet közbeni ellenőrzésre kijelölt vasútvonalak
 _______
 
 * Belső határon a határellenőrzés ideiglenes visszaállítása esetére.
+
+[^14]: A 8. § a 60/2016. (XII. 29.) BM rendelet 5. §-ával megállapított szöveg.
