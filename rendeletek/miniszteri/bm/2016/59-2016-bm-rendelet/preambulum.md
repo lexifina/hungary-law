@@ -1,0 +1,3 @@
+A központosított informatikai és elektronikus hírközlési szolgáltatásokról szóló 309/2011. (XII. 23.) Korm. rendelet 12/A. § a) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 21. § 5., 8., 21., 22. és 26. pontjában meghatározott feladatkörömben eljárva,
+
+az 1. §, valamint az 1. melléklet 3. és 5. pontja tekintetében a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendelet 90. § 1. pontjában meghatározott feladatkörében eljáró nemzetgazdasági miniszterrel egyetértésben a következőket rendelem el:
