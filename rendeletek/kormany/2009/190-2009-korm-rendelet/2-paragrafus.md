@@ -22,7 +22,7 @@ f) gondoskodik a központi tervtanácsok üléseinek és nyilvántartásának ve
 
 (4) A miniszter az e rendeletben és a külön jogszabályban meghatározott egyes feladatait az országos főépítész útján látja el. Az országos főépítészt a miniszter – az általa vezetett minisztérium állományába tartozó személyek közül – bízza meg.
 
-(5) A területfejlesztéssel és -rendezéssel, a településfejlesztéssel és -rendezéssel, továbbá az épített környezet alakításával és védelmével, valamint az építésüggyel kapcsolatos
+(5)[^11] A területfejlesztéssel és -rendezéssel, a településfejlesztéssel és -rendezéssel, a településkép-védelemmel, továbbá az épített környezet alakításával és védelmével, valamint az építésüggyel kapcsolatos
 
 a) megyei önkormányzati feladatokkal kapcsolatos döntéseket a megye közigazgatási területére kiterjedő illetékességgel a megyei főépítész,
 
@@ -39,3 +39,4 @@ c) települési önkormányzati feladatokkal kapcsolatos döntéseket a települ
 [^8]: A 2. § (3) bekezdés a) pontját a 70/2015. (III. 30.) Korm. rendelet 138. § (6) bekezdés b) pontja hatályon kívül helyezte.
 [^9]: A 2. § (3) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 138. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^10]: A 2. § (3) bekezdés c) pontját a 322/2012. (XI. 16.) Korm. rendelet 54. § b) pontja hatályon kívül helyezte.
+[^11]: A 2. § (5) bekezdés nyitó szövegrésze a 400/2016. (XII. 5.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
