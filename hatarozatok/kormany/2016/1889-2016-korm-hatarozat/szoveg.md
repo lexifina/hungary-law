@@ -6,7 +6,7 @@ Miniszterelnökséget vezető miniszter
 
 Határidő: azonnal
 
-2. Az egyes fejezetek közötti előirányzat-átcsoportosításról szóló 1884/2016. (XII. 28.) Korm. határozat (a továbbiakban: Határozat) 6–9. pontjában a „67. Egyes megyei jogú városok fejlesztési célú támogatása” szövegrész helyébe a „84. Területi infrastrukturális fejlesztések” szöveg lép.
+2.[^1]
 
 3. A Kormány egyetért azzal, hogy a Határozat végrehajtása során a Határozat
 
@@ -15,3 +15,5 @@ a) 1. melléklete szerint – az egyszeri előirányzat-átcsoportosítás össz
 b) 3. melléklete szerint – az egyszeri előirányzat-átcsoportosítás összesen összegének változatlanul hagyása mellett – a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok, 1. Célelőirányzatok, 67. Egyes megyei jogú városok fejlesztési célú támogatása jogcímcsoport, B2. Felhalmozási célú támogatások államháztartáson belülről kiemelt előirányzat javára átcsoportosított 1 362 100,0 ezer forint a XI. Miniszterelnökség fejezet, 30. Fejezeti kezelésű előirányzatok cím, 1. Célelőirányzatok alcím, 84. Területi infrastrukturális fejlesztések jogcímcsoport, B2. Felhalmozási célú támogatások államháztartáson belülről
 
 kiemelt előirányzat javára kerüljön felhasználásra és elszámolásra.
+
+[^1]: A 2. pont a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
