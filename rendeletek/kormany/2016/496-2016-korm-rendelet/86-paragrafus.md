@@ -8,6 +8,7 @@ b) 41. § (5) bekezdése és
 
 c) 42. § a) pontja.
 
-(2) Hatályát veszti az R. 43. § (2) bekezdésében az „ , a 31. §, a 41. § (5) bekezdése, valamint a 42. § a) pontja” szövegrész.
+(2)[^47]
 
 [^46]: A 83–85. § a 82. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^47]: A 86. § (2) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
