@@ -18,13 +18,13 @@ g) megbetegedését, felgyógyulását.
 
 (2) Az alárendelt szolgálati elöljárójának írásban jelenti
 
-a)[^84] a személyi és családi körülményeiben beállott, a Hszt. 1. mellékletében meghatározott adatokkal kapcsolatos változásokat, valamint
+a)[^85] a személyi és családi körülményeiben beállott, a Hszt. 1. mellékletében meghatározott adatokkal kapcsolatos változásokat, valamint
 
 b) ha bűncselekmény, szabálysértés vagy a helyszínen közigazgatási bírsággal sújtható szabályszegés miatt vele szemben intézkedés történt.
 
 (3) Ha más jogszabály jelentési kötelezettséget ír elő, a jelentést írásban kell megtenni.
 
-(4)[^85] A rendőri intézkedéssel összefüggő rendkívüli eseményről írásban kell jelentést tenni, amelyet a szolgálati elöljáró köteles kivizsgálni. Az elfogással és előállítással, az idegenrendészeti hatáskörben elrendelt személyes szabadságot korlátozó kényszerintézkedéssel, illetve az elővezetéssel összefüggő rendkívüli eseményről haladéktalanul jelentést kell tenni a rendőri szerv székhelye szerint illetékes megyei (fővárosi) főügyészség büntetés-végrehajtási felügyeleti feladatot ellátó ügyészének.
+(4)[^86] A rendőri intézkedéssel összefüggő rendkívüli eseményről írásban kell jelentést tenni, amelyet a szolgálati elöljáró köteles kivizsgálni. Az elfogással és előállítással, az idegenrendészeti hatáskörben elrendelt személyes szabadságot korlátozó kényszerintézkedéssel, illetve az elővezetéssel összefüggő rendkívüli eseményről haladéktalanul jelentést kell tenni a rendőri szerv székhelye szerint illetékes megyei (fővárosi) főügyészség büntetés-végrehajtási felügyeleti feladatot ellátó ügyészének.
 
-[^84]: A 89. § (2) bekezdés a) pontja a 37/2015. (VI. 16.) BM rendelet 46. § (1) bekezdés c) pontja szerint módosított szöveg.
-[^85]: A 89. § (4) bekezdését a 18/2013. (V. 9.) BM rendelet 14. §-a iktatta be.
+[^85]: A 89. § (2) bekezdés a) pontja a 37/2015. (VI. 16.) BM rendelet 46. § (1) bekezdés c) pontja szerint módosított szöveg.
+[^86]: A 89. § (4) bekezdését a 18/2013. (V. 9.) BM rendelet 14. §-a iktatta be.

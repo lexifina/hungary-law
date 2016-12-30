@@ -18,6 +18,7 @@ d) – több személy részére kiállított úti okmány használata esetén �
 
 e) a más határátlépésre jogosító úti okmány meglétére utaló jelzést.
 
-(6) Amennyiben a harmadik országbeli állampolgár a tartózkodás időtartamára vonatkozó feltételek meglétét bizonyítja, úgy úti okmányába az általános rendőrségi feladatok ellátására létrehozott szerv a határátkelőhelyen kívül, utólag is köteles bejegyezni a határátlépés tényét, helyét és időpontját, valamint köteles ezzel egyidejűleg a harmadik országbeli állampolgár részére kiállítani a személyek határátlépésére irányadó szabályok közösségi kódexének (Schengeni határ-ellenőrzési kódex) létrehozásáról szóló, 2006. március 15-i 562/2006/EK európai parlamenti és a tanácsi rendelet VIII. melléklete szerinti formanyomtatványt.
+(6)[^75] Ha a harmadik országbeli állampolgár a tartózkodás időtartamára vonatkozó feltételek meglétét bizonyítja, úti okmányába az általános rendőrségi feladatok ellátására létrehozott szerv a határátkelőhelyen kívül, utólag is köteles bejegyezni a határátlépés tényét, helyét és időpontját, valamint köteles ezzel egyidejűleg a harmadik országbeli állampolgár részére kiállítani a személyek határátlépésére irányadó szabályok uniós kódexéről (Schengeni határ-ellenőrzési kódex) szóló, 2016. március 9-i 2016/399/EU európai parlamenti és tanácsi rendelet (a továbbiakban: Schengeni határ-ellenőrzési kódex) VIII. melléklete szerinti formanyomtatványt.
 
 [^74]: A 64. § (5) bekezdés c) pontját a 61/2015. (XI. 24.) BM rendelet 18. § (1) bekezdés b) pontja hatályon kívül helyezte.
+[^75]: A 64. § (6) bekezdése a 60/2016. (XII. 29.) BM rendelet 6. §-ával megállapított szöveg.
