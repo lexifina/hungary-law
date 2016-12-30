@@ -1,8 +1,10 @@
-2. § (1) Az a hitelintézet, amely a munkáltató megbízásából a támogatás átutalását indította, vagy a támogatás átutalását indító kincstár az 1. § (1) bekezdés a) pontjában meghatározott igazolást akkor adja ki, ha a munkáltató megbízásából a támogatás összegét
+2. § (1)[^1] Az a hitelintézet, amely a munkáltató megbízásából a támogatás átutalását indította, vagy a támogatás átutalását indító kincstár az 1. § (1) bekezdés a) pontjában meghatározott igazolást akkor adja ki, ha a munkáltató megbízásából a támogatás összegét
 
-a) a magánszemélynek bármely hitelintézetnél vezetett fizetési vagy hitelszámlájára, vagy
+a) a magánszemélynek bármely hitelintézetnél vezetett fizetési vagy hitelszámlájára,
 
-b) a magánszemély javára a hitelt nyújtó hitelintézet törlesztéshez használt központi elszámoló számlájára
+b) a magánszemély javára a hitelt nyújtó hitelintézet törlesztéshez használt központi elszámoló számlájára vagy
+
+c) a belföldön levő lakás tulajdonjogának és a lakáshoz kapcsolódó földhasználati jognak adásvétel vagy más visszterhes szerződés keretében történő megszerzéséhez nyújtott támogatás esetén az eladó által adásvételi vagy más visszterhes szerződésben megjelölt pénzforgalmi számlára
 
 ## folyósítja, függetlenül attól, hogy a hitelintézet vagy a kincstár a támogatás átutalását a munkáltató támogatási célból nyitott elkülönített fizetési számlájáról teljesítette-e.
 
@@ -14,7 +16,7 @@ a) a saját önálló (giro-képes) hitelszámláját,
 
 b) a hitelt nyújtó hitelintézet törlesztéshez használt központi elszámoló számláját, vagy
 
-c)[^1] a saját, a hitel törlesztésére használt folyószámláját
+c)[^2] a saját, a hitel törlesztésére használt folyószámláját
 
 ## jelölheti meg.
 
@@ -26,4 +28,5 @@ c)[^1] a saját, a hitel törlesztésére használt folyószámláját
 
 (7) A munkáltató megbízásából a támogatást folyósító hitelintézet vagy kincstár a támogatás magánszemély részére való átutalásának évét követő év január 31-éig az e célra az állami adóhatóság által előírt formában, az ügyfélkapun keresztül adatot szolgáltat az állami adóhatóság részére a magánszemély nevéről, adóazonosító jeléről és a támogatás összegéről.
 
-[^1]: A 2. § (3) bekezdés c) pontja a 48/2014. (XII. 30.) NGM rendelet 8. §-ával megállapított szöveg.
+[^1]: A 2. § (1) bekezdése a 66/2016. (XII. 29.) NGM rendelet 1. §-ával megállapított szöveg.
+[^2]: A 2. § (3) bekezdés c) pontja a 48/2014. (XII. 30.) NGM rendelet 8. §-ával megállapított szöveg.

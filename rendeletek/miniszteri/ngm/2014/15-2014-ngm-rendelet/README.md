@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-15-20-2
 | --- | --- | --- |
 | 2014-04-04 | 2014-15-20-2X.1 | 15/2014. (IV. 3.) NGM rendelet |
 | 2014-12-31 | 2014-15-20-2X.2 | 48/2014. (XII. 30.) NGM rendelet |
+| 2016-12-30 | 2014-15-20-2X.3 | 66/2016. (XII. 29.) NGM rendelet |
