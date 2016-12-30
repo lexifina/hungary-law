@@ -1,6 +1,6 @@
-37. § (1)[^68] A 445/2011/EU bizottsági rendelet hatálya alá nem tartozó karbantartásért felelős szervezetnek legkésőbb 2017. január 1-jétől kell jelen rendelet 7. mellékletében foglaltaknak megfelelni.
+37. § (1)[^68] A 445/2011/EU bizottsági rendelet hatálya alá nem tartozó karbantartásért felelős szervezetnek legkésőbb 2018. január 1-jétől kell jelen rendelet 7. mellékletében foglaltaknak megfelelni.
 
-(2)[^69] Az e rendeletnek az egyes vasúti közlekedési tárgyú miniszteri rendeletek módosításáról szóló 23/2016. (VII. 18.) NFM rendelet 7. §-ával megállapított 14. alcímében foglalt időszakos vizsgálatra vonatkozó előírásoknak 2017. január 1-jétől kell megfelelni.
+(2)[^69] Az e rendeletnek az egyes vasúti közlekedési tárgyú miniszteri rendeletek módosításáról szóló 23/2016. (VII. 18.) NFM rendelet 7. §-ával megállapított 14. alcímében foglalt időszakos vizsgálatra vonatkozó előírásoknak 2018. január 1-jétől kell megfelelni.
 
 (3)–(5)[^70]
 
@@ -18,8 +18,8 @@
 
 (12)[^75] Az egyes vasúti közlekedési tárgyú miniszteri rendeletek jogharmonizációs célú módosításáról szóló 55/2014. (XII. 23.) NFM rendelet hatálybalépése előtt a 15. § (7) bekezdése alapján bérleti szerződés alapján határozott időre – legfeljebb 2 éves időtartamra – kiadott üzembehelyezési engedély az engedélyben megállapított határidő lejártáig hatályban marad.
 
-[^68]: A 37. § (1) bekezdését a 82/2013. (XII. 29.) NFM rendelet 24. § a) pontja hatályon kívül helyezte, újonnan a 23/2016. (VII. 18.) NFM rendelet 8. §-a iktatta be.
-[^69]: A 37. § (2) bekezdését a 82/2013. (XII. 29.) NFM rendelet 24. § a) pontja hatályon kívül helyezte, újonnan a 23/2016. (VII. 18.) NFM rendelet 8. §-a iktatta be.
+[^68]: A 37. § (1) bekezdését a 82/2013. (XII. 29.) NFM rendelet 24. § a) pontja hatályon kívül helyezte, újonnan a 23/2016. (VII. 18.) NFM rendelet 8. §-a iktatta be, szövege az 59/2016. (XII. 28.) NFM rendelet 1. § a) pontja szerint módosított szöveg.
+[^69]: A 37. § (2) bekezdését a 82/2013. (XII. 29.) NFM rendelet 24. § a) pontja hatályon kívül helyezte, újonnan a 23/2016. (VII. 18.) NFM rendelet 8. §-a iktatta be, szövege az 59/2016. (XII. 28.) NFM rendelet 1. § b) pontja szerint módosított szöveg.
 [^70]: A 37. § (3)–(5) bekezdését a 82/2013. (XII. 29.) NFM rendelet 24. § a) pontja hatályon kívül helyezte.
 [^71]: A 37. § (6) bekezdését az 55/2014. (XII. 23.) NFM rendelet 14. § c) pontja hatályon kívül helyezte.
 [^72]: A 37. § (8) bekezdését a 82/2013. (XII. 29.) NFM rendelet 24. § a) pontja hatályon kívül helyezte.
