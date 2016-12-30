@@ -1,0 +1,1 @@
+A személyi jövedelemadóról szóló 1995. évi CXVII. törvény 81. § b) pontjában kapott felhatalmazás alapján, a Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VII. 1.) Korm. rendelet 90. § 1. pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
