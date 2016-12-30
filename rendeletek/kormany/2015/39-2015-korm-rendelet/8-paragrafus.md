@@ -1,6 +1,6 @@
 ## megakadályozza.
 
-8. § (1)[^10] A régészeti feltárásról jelentést kell készíteni, mely tartalmazza
+8. § (1)[^11] A régészeti feltárásról jelentést kell készíteni, mely tartalmazza
 
 a) a 3. mellékletben meghatározott tartalmú lelőhely-bejelentő adatlapot,
 
@@ -8,7 +8,7 @@ b) a szöveges ismertetést és
 
 c) a feltárás helyszínrajzát.
 
-(2)[^11] Az (1) bekezdés a) pontja szerinti adatlapot minden lelőhelyről külön kell kitölteni.
+(2)[^12] Az (1) bekezdés a) pontja szerinti adatlapot minden lelőhelyről külön kell kitölteni.
 
 (3) Az (1) bekezdés b) pontja szerinti szöveges ismertetés tartalmazza:
 
@@ -34,7 +34,7 @@ a) papír alapon és elektronikus adathordozón
 
 aa) a hatóságnak,
 
-ab)[^12] a nyilvántartást vezető hatóságnak és
+ab)[^13] a nyilvántartást vezető hatóságnak és
 
 ac) a Magyar Nemzeti Múzeumnak,
 
@@ -48,6 +48,6 @@ bc) az illetékes környezetvédelmi és természetvédelmi felügyelőségnek �
 
 (5) A jelentés további egy példányát abban az intézményben kell elhelyezni, amelyik a feltárási engedélyt kapta.
 
-[^10]: A 8. § (1) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^11]: A 8. § (2) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^12]: A 8. § (4) bekezdés a) pont ab) alpontja a 306/2016. (X. 13.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^11]: A 8. § (1) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^12]: A 8. § (2) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^13]: A 8. § (4) bekezdés a) pont ab) alpontja a 306/2016. (X. 13.) Korm. rendelet 20. §-ával megállapított szöveg.

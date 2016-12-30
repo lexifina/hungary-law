@@ -8,6 +8,6 @@
 
 (2) A bejelentést, a kérelmet papíralapon vagy elektronikus adathordozón lehet benyújtani a 9. mellékletben meghatározott tartalommal és mellékletekkel ellátott formanyomtatványon.
 
-(3)[^85] A megbízó a végezni kívánt tevékenységre vonatkozó bejelentésben kérheti, hogy a hatóság a tudomásulvétel tényének igazolását is foglalja írásba.
+(3)[^86] A megbízó a végezni kívánt tevékenységre vonatkozó bejelentésben kérheti, hogy a hatóság a tudomásulvétel tényének igazolását is foglalja írásba.
 
-[^85]: A 47. § (3) bekezdése a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 17. pontja szerint módosított szöveg.
+[^86]: A 47. § (3) bekezdése a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 17. pontja szerint módosított szöveg.

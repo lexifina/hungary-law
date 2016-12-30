@@ -1,6 +1,6 @@
-## 35. [^130] Az örökségvédelmi fennmaradási tudomásulvétel a védett műemléki értéket érintő beavatkozások esetén
+## 35. [^134] Az örökségvédelmi fennmaradási tudomásulvétel a védett műemléki értéket érintő beavatkozások esetén
 
-75. §[^131] (1) A védett műemléki érték szabályos vagy szabályossá tett állapotát a hatóság jogszerű hallgatással tudomásul veszi.
+75. §[^135] (1) A védett műemléki érték szabályos vagy szabályossá tett állapotát a hatóság jogszerű hallgatással tudomásul veszi.
 
 (2) Ha a védett műemléki érték szabálytalan állapota helyreállítással nem orvosolható, a hatóság – a (4) bekezdésben meghatározott esetek kivételével – a 74. §-ban meghatározott helyszíni szemlét követő tizenöt napon belül jogszerű hallgatással tudomásul veszi a védett műemléki értéket érintő bejelentéshez vagy örökségvédelmi engedélyhez kötött, de a hatósághoz benyújtott bejelentés vagy engedélykérelem mellékleteitől eltérően végzett tevékenységek befejezésével megvalósult állapot fennmaradását.
 
@@ -22,5 +22,5 @@ bb) olyan állapot jön létre, amely a védett érték érvényesülését és 
 
 c) műemléki jelentőségű területen, műemlék történeti tájon a védettséget megalapozó értéket veszélyeztető és sértő, valamint az érték, műemléki környezetben a műemlék zavartalan érvényesülését gátló állapot jött létre.
 
-[^130]: A 35. alcím címe a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 32. pontja szerint módosított szöveg.
-[^131]: A 75. § a 306/2016. (X. 13.) Korm. rendelet 39. §-ával megállapított szöveg.
+[^134]: A 35. alcím címe a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 32. pontja szerint módosított szöveg.
+[^135]: A 75. § a 306/2016. (X. 13.) Korm. rendelet 39. §-ával megállapított szöveg.

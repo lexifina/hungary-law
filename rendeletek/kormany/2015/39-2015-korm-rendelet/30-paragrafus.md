@@ -2,7 +2,7 @@
 
 (2) A műemléket fizikai valójában, anyagi és eszmei értékei összefüggéseire tekintettel kell megőrizni, védett értékeit hitelesen és meghatározó módon érvényre kell juttatni. A műemlék hasznosítása, használata a 28. § (2) bekezdésében megfogalmazott követelményen túlmenően nem járhat a védettséget megalapozó műemléki érték veszélyeztetésével.
 
-(2a)[^56] A nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő, műemléki védelem alatt álló építményekben és építményegyüttesekben vagy azok területén, telkén még a tömeges bevándorlás okozta válsághelyzetben sem alakítható ki a menedékjogról szóló törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogva tartására szolgáló rendeltetés vagy ilyen rendeltetésű építmény.
+(2a)[^57] A nemzetgazdasági szempontból kiemelt jelentőségű nemzeti vagyonnak minősülő, műemléki védelem alatt álló építményekben és építményegyüttesekben vagy azok területén, telkén még a tömeges bevándorlás okozta válsághelyzetben sem alakítható ki a menedékjogról szóló törvény és a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény hatálya alá tartozó személyek elhelyezésére, ellátására és fogva tartására szolgáló rendeltetés vagy ilyen rendeltetésű építmény.
 
 (3) A műemlék esetén az építészeti–műszaki beavatkozás, különösen az energetikai követelmények betartása, az energia-megtakarítási célú felújítás során a műemléki érték megjelenését és érvényesülését nem sértő megoldásokat kell alkalmazni.
 
@@ -12,11 +12,11 @@
 
 (6) Az (5) bekezdés szerinti áthelyezés csak szakértői jogosultsággal rendelkező restaurátor közreműködésével végezhető.
 
-(7)[^57] Műemléken a külső homlokzat 30%-ánál nagyobb felületet eltakaró reklám nem helyezhető el, kivéve
+(7)[^58] Műemléken a külső homlokzat 30%-ánál nagyobb felületet eltakaró reklám nem helyezhető el, kivéve
 
 a) az építmény külső homlokzatán folyamatban lévő, a hatóság által tudomásul vett vagy jogerős engedély alapján végzett építési tevékenység vagy egyéb munkálatok időszakát, vagy
 
 b) időszaki kulturális rendezvény vagy program hirdetményét.
 
-[^56]: A 30. § (2a) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 6. §-a iktatta be.
-[^57]: A 30. § (7) bekezdését a 306/2016. (X. 13.) Korm. rendelet 28. §-a iktatta be.
+[^57]: A 30. § (2a) bekezdését a 260/2015. (IX. 14.) Korm. rendelet 6. §-a iktatta be.
+[^58]: A 30. § (7) bekezdését a 306/2016. (X. 13.) Korm. rendelet 28. §-a iktatta be.

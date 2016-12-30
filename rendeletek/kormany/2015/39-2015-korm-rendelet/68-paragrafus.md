@@ -1,31 +1,37 @@
 ## 31. Az örökségvédelmi hatástanulmány
 
-68. § (1) Az örökségvédelmi hatástanulmányt
+68. §[^116] (1) Az örökségvédelmi hatástanulmányt
 
-a) a Kötv. 85/A. §-ában meghatározott esetekben a településfejlesztési koncepció vagy a településrendezési eszköz megalapozó vizsgálata keretében,
+a) a Kötv. 85/A. §-ában meghatározott esetekben a településfejlesztési koncepció vagy a településrendezési eszköz megalapozó vizsgálata keretében, települési örökségvédelmi hatástanulmányként a 13. melléklet szerinti tartalommal,
 
-b) a 63. § (4) bekezdésében meghatározott esetekben az engedély iránti kérelmet benyújtónak a 12. melléklet szerinti tartalommal a (2) bekezdés alapján kell elkészíttetni.
+b) a 63. § (4) bekezdésében meghatározott esetekben az engedély iránti kérelmet benyújtónak a 12. melléklet szerinti tartalommal a (2) bekezdés alapján
+
+## kell elkészíttetni.
 
 (2) Az örökségvédelmi hatástanulmány kidolgozása során
 
 a) a településfejlesztési koncepcióhoz
 
-aa) a 12. melléklet 1–3. pontja alatti vizsgálatokat és elemzéseket teljes körűen,
+aa) a 13. melléklet 1. pont a) alpontja szerinti tartalmat teljeskörűen,
 
-ab) a 12. melléklet 6. pontjában meghatározott értékleltárt és a 12. melléklet 7. pontjában meghatározott értékvédelmi tervet – a 12. melléklet 7. pont f) alpontja kivételével – a koncepció meghatározásához szükséges részletezettséggel,
+ab) a 13. melléklet 1. pont b) alpontjában meghatározott értékleltárt a koncepció meghatározásához szükséges részletezettséggel;
 
-b) a településrendezési eszközök kidolgozásához a 12. melléklet 1–3. pontja alatti vizsgálatokat és elemzéseket, továbbá a 12. melléklet 6. pontjában meghatározott értékleltárt és a 12. melléklet 7. pontjában meghatározott értékvédelmi tervet – a 12. melléklet 7. pont e) és f) alpontja kivételével – teljes körűen,
+b) a településrendezési eszközök kidolgozásához – amennyiben az a koncepcióhoz nem készült el –, a 13. melléklet 1. pont a) és b) alpontjaiban meghatározott vizsgálatot, továbbá az 1. pont c) alpontjában meghatározott értékleltárt, valamint a 2. pont szerinti hatáselemzést a településrendezési eszköz meghatározásához szükséges részletezettséggel;
 
-c) a 63. § (4) bekezdés b)–c) pontjában meghatározott esetekben
+c) településképi rendelet helyi védelmi előírásainak meghatározásához a 13. melléklet 1. pont c) alpontjában meghatározott értékleltárt teljeskörűen;
 
-ca) régészeti örökség felmérése esetén a 12. melléklet 1–3. pontja alatti vizsgálatokat és elemzéseket,
+d) a 63. § (4) bekezdés b)–c) pontjában meghatározott esetekben
 
-cb) műemléki érték felmérése esetén a 12. melléklet 1–3. pontja alatti vizsgálatokat és elemzéseket, továbbá a 12. melléklet 6. pontjában meghatározott értékleltárt és a 12. melléklet 7. pontjában meghatározott értékvédelmi tervet teljes körűen
+da) régészeti örökség felmérése esetén a 12. melléklet 1–3. pontja alatti vizsgálatokat és elemzéseket,
+
+db) műemléki érték felmérése esetén a 12. melléklet 1–3. pontja alatti vizsgálatokat és elemzéseket, továbbá a 12. melléklet 6. pontjában meghatározott értékleltárt és a 12. melléklet 7. pontjában meghatározott értékvédelmi tervet teljeskörűen
 
 ## a tervezés alá vont terület és a tervezett rendezési cél által megkövetelt mértékben kell elkészíteni.
 
-(3) A 12. melléklet 4–5. pontja szerinti összefoglalót és nyilatkozatot a (2) bekezdésben meghatározott minden esetben el kell készíteni.
+(3) A 12. melléklet 4–5. pontja szerinti összefoglalót és nyilatkozatot a (2) bekezdés d) pontjában meghatározott esetekben kell elkészíteni.
 
-(4) Az örökségvédelmi hatástanulmány régészeti szakterületi munkarésze a 12. mellékletben meghatározott tartalmi elemek közül a régészeti örökség tárgykörével foglalkozó tartalmi elemek összessége.
+(4) Az örökségvédelmi hatástanulmány régészeti szakterületi munkarésze a 12. és 13. mellékletben meghatározott tartalmi elemek közül a régészeti örökség tárgykörével foglalkozó tartalmi elemek összessége.
 
-(5) Az örökségvédelmi hatástanulmány műemléki szakterületi munkarésze a 12. mellékletben meghatározott tartalmi elemek közül a műemlékvédelem tárgykörével foglalkozó tartalmi elemek összessége.
+(5) Az örökségvédelmi hatástanulmány műemléki szakterületi munkarésze a 12. és 13. mellékletben meghatározott tartalmi elemek közül a műemlékvédelem tárgykörével foglalkozó tartalmi elemek összessége.
+
+[^116]: A 68. § a 400/2016. (XII. 5.) Korm. rendelet 30. §-ával megállapított szöveg.

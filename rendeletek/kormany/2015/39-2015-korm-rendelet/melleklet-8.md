@@ -4,9 +4,9 @@
 
 ## 2. A feltárást végzők adatai
 
-## 2.1.[^141] A feltárási engedélyt kérő intézmény neve, székhelyének címe
+## 2.1.[^146] A feltárási engedélyt kérő intézmény neve, székhelyének címe
 
-## 2.2.[^142] A feltárásba bevont intézmény vagy szervezet neve, székhelyének címe
+## 2.2.[^147] A feltárásba bevont intézmény vagy szervezet neve, székhelyének címe
 
 ## 2.3. A feltárás vezetőjének neve, beosztása, szakterülete
 
@@ -78,5 +78,5 @@
 
 8. melléklet a 39/2015. (III. 11.) Korm. rendelethez
 
-[^141]: A 7. melléklet 2. pont 2.1. alpontja a 171/2015. (VI. 30.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
-[^142]: A 7. melléklet 2. pont 2.2. alpontja a 171/2015. (VI. 30.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
+[^146]: A 7. melléklet 2. pont 2.1. alpontja a 171/2015. (VI. 30.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.
+[^147]: A 7. melléklet 2. pont 2.2. alpontja a 171/2015. (VI. 30.) Korm. rendelet 44. § (2) bekezdésével megállapított szöveg.

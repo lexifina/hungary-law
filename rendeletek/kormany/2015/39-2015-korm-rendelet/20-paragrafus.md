@@ -1,4 +1,4 @@
-20. §[^34] (1) Egyszerűsített előzetes régészeti dokumentáció készíthető, ha
+20. §[^35] (1) Egyszerűsített előzetes régészeti dokumentáció készíthető, ha
 
 a) a nyomvonalas létesítmény esetén a tervezett földmunkák által érintett terület szélessége nem éri el a 3,5 métert,
 
@@ -10,4 +10,4 @@ d) az előzetes régészeti dokumentáció készítése során elvégzett roncso
 
 (2) Egyszerűsített előzetes régészeti dokumentáció készítésére – a próbafeltárás végzésének kivételével – a Kötv. 23/C. §-át kell alkalmazni.
 
-[^34]: A 20. § a 306/2016. (X. 13.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^35]: A 20. § a 306/2016. (X. 13.) Korm. rendelet 22. §-ával megállapított szöveg.

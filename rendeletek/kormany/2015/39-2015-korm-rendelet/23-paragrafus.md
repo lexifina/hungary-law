@@ -1,4 +1,4 @@
-23. §[^46] (1) Nagyberuházást megelőző feltárást a régészeti feladatellátás megyére kiterjedő területi szakaszán a közlekedési infrastruktúra-beruházás kivételével
+23. §[^47] (1) Nagyberuházást megelőző feltárást a régészeti feladatellátás megyére kiterjedő területi szakaszán a közlekedési infrastruktúra-beruházás kivételével
 
 a) az akkreditált megyei hatókörű városi múzeum, Budapesten a Budapesti Történeti Múzeum, ha akkreditált,
 
@@ -22,4 +22,4 @@ b) az akkreditált intézmény nyilatkozata szerint a nagyberuházáshoz kapcsol
 
 (5) Ha az (1) bekezdés szerinti feltárásra jogosult akkreditált intézmény a (4) bekezdésben foglalt kötelezettségének nem tesz eleget, elveszíti akkreditációját és újabb akkreditáció iránti kérelmet három éven belül nem nyújthat be.
 
-[^46]: A 23. § a 306/2016. (X. 13.) Korm. rendelet 26. §-ával megállapított szöveg.
+[^47]: A 23. § a 306/2016. (X. 13.) Korm. rendelet 26. §-ával megállapított szöveg.

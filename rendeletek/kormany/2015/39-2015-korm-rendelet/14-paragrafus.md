@@ -8,17 +8,17 @@ c) a résztevékenységek egységnyi költsége mind területegység, mind időe
 
 d) az egységre nem vetíthető résztevékenységek tételes költsége,
 
-e)[^28] az egységnyi költség mértékét befolyásoló tényezők, így különösen: régészeti rétegek várható száma, réteg jelentkezésének mélysége, rétegsor mélysége, régészeti emlékek várható száma, kiterjedése, leletsűrűség,
+e)[^29] az egységnyi költség mértékét befolyásoló tényezők, így különösen: régészeti rétegek várható száma, réteg jelentkezésének mélysége, rétegsor mélysége, régészeti emlékek várható száma, kiterjedése, leletsűrűség,
 
-f)[^29] járulékos (infrastrukturális, logisztikai, koordinációs) költségek,
+f)[^30] járulékos (infrastrukturális, logisztikai, koordinációs) költségek,
 
-g)[^30] az elsődleges leletfeldolgozás költségei, legfeljebb a régészeti feltárás költségeinek harminc százaléka.
+g)[^31] az elsődleges leletfeldolgozás költségei, legfeljebb a régészeti feltárás költségeinek harminc százaléka.
 
-(2)[^31] A régészeti feladatellátás költségeire alkalmazható legmagasabb hatósági árakat az 5. melléklet tartalmazza.
+(2)[^32] A régészeti feladatellátás költségeire alkalmazható legmagasabb hatósági árakat az 5. melléklet tartalmazza.
 
 (3) Az elfedést vizsgáló talajtani fúrások költségeinek meghatározása a beruházóval egyeztetett költségtétel alapján történik.
 
-[^28]: A 14. § (1) bekezdés e) pontja a 171/2015. (VI. 30.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^29]: A 14. § (1) bekezdés f) pontja a 171/2015. (VI. 30.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^30]: A 14. § (1) bekezdés g) pontját a 171/2015. (VI. 30.) Korm. rendelet 24. §-a iktatta be.
-[^31]: A 14. § (2) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 45. § a) pontja szerint módosított szöveg.
+[^29]: A 14. § (1) bekezdés e) pontja a 171/2015. (VI. 30.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^30]: A 14. § (1) bekezdés f) pontja a 171/2015. (VI. 30.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^31]: A 14. § (1) bekezdés g) pontját a 171/2015. (VI. 30.) Korm. rendelet 24. §-a iktatta be.
+[^32]: A 14. § (2) bekezdése a 171/2015. (VI. 30.) Korm. rendelet 45. § a) pontja szerint módosított szöveg.

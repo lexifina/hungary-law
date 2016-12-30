@@ -1,4 +1,4 @@
-## 24/A. §[^48]
+## 24/A. §[^49]
 
 25. § (1) Elfedésre olyan műszaki megoldás alkalmazható, amely biztosítja a lelőhely tartós állapotmegóvását mind a kivitelezés során jelentkező, mind a kivitelezés megvalósulása után fellépő fizikai és kémiai hatásoktól.
 
@@ -16,4 +16,4 @@ c) teherelosztásra alkalmas anyagú, vastagságú és szilárdságú takaróré
 
 (5) Az elfedés régészeti előkészítését végző régész köteles az elfedést megelőző termőréteg-letermelést is figyelemmel kísérni, és ha a régészeti leletek jelentkezésének az előzetes régészeti dokumentáció, illetve a próbafeltárások során meghatározott felső síkjánál magasabban kerül elő régészeti lelet vagy emlék, annak feltárását a régészeti megfigyelés keretén belül elvégezni.
 
-[^48]: A 24/A. §-t a 171/2015. (VI. 30.) Korm. rendelet 31. §-a iktatta be, hatályon kívül helyezte a 306/2016. (X. 13.) Korm. rendelet 42. § c) pontja.
+[^49]: A 24/A. §-t a 171/2015. (VI. 30.) Korm. rendelet 31. §-a iktatta be, hatályon kívül helyezte a 306/2016. (X. 13.) Korm. rendelet 42. § c) pontja.

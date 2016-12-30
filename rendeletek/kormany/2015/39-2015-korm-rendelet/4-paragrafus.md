@@ -1,4 +1,4 @@
-## 3/B. §[^7] A Kötv. szerinti, jogszabályban kijelölt örökségvédelmi szerv a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ.
+## 3/B. §[^8] A Kötv. szerinti, jogszabályban kijelölt örökségvédelmi szerv a Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ.
 
 ## II. Fejezet
 
@@ -20,4 +20,4 @@ c) az eredeti összefüggéseiben megmaradt, helyben és fizikai állapotromlás
 
 (4) A lelőhely állapotváltozásával járó régészeti feltárás esetén előnyben kell részesíteni az eredeti rétegsort és történeti összefüggést tartalmazó lelőhelyrész megtartását.
 
-[^7]: A 3/B. §-t a 306/2016. (X. 13.) Korm. rendelet 19. §-a iktatta be.
+[^8]: A 3/B. §-t a 306/2016. (X. 13.) Korm. rendelet 19. §-a iktatta be.

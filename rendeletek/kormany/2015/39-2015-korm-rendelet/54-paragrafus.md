@@ -12,6 +12,6 @@ ca) érint-e az értékleltárba felvett értéket, azt roncsolja-e, műemlék e
 
 cb) megfelel-e a Kötv.-ben, valamint az e rendeletben meghatározott követelményeknek, továbbá műemlék esetén a védetté nyilvánítás céljának.
 
-(2)[^88] A hatóság az (1) bekezdés a) pontja szerinti esetben, ha az azonosítás vonatkozásában a valóságtól eltérő adatot talál, azt haladéktalanul jelzi a nyilvántartást vezető hatóságnak.
+(2)[^89] A hatóság az (1) bekezdés a) pontja szerinti esetben, ha az azonosítás vonatkozásában a valóságtól eltérő adatot talál, azt haladéktalanul jelzi a nyilvántartást vezető hatóságnak.
 
-[^88]: Az 54. § (2) bekezdése a 306/2016. (X. 13.) Korm. rendelet 41. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^89]: Az 54. § (2) bekezdése a 306/2016. (X. 13.) Korm. rendelet 41. § (3) bekezdés c) pontja szerint módosított szöveg.

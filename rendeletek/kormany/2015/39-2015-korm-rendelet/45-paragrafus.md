@@ -16,11 +16,11 @@ g) a feltárásra vonatkozó jogszabályi követelményekre való hivatkozást �
 
 (2) Az engedély a határozat jogerőre emelkedésétől számított kétéves időtartamban jogosít feltárás végzésére. A megelőző feltárásra vonatkozó feltárási engedély hatálya kérelemre egy évvel, nagyberuházás esetén két évvel meghosszabbítható.
 
-(3)[^71] A hatóság a jogerős engedélyt megküldi a nyilvántartást vezető hatóságnak a jogerőre emelkedést követő harminc napon belül.
+(3)[^72] A hatóság a jogerős engedélyt megküldi a nyilvántartást vezető hatóságnak a jogerőre emelkedést követő harminc napon belül.
 
 (4) Az (1) bekezdés c) és e) pontja alapján az engedélyben meghatározottaktól eltérni csak a hatóság módosított engedélyével lehet.
 
-(5)[^72] Közlekedési infrastruktúra-beruházás esetén a feltárási engedélyt azonnal végrehajthatóvá kell nyilvánítani.
+(5)[^73] Közlekedési infrastruktúra-beruházás esetén a feltárási engedélyt azonnal végrehajthatóvá kell nyilvánítani.
 
-[^71]: A 45. § (3) bekezdése a 306/2016. (X. 13.) Korm. rendelet 41. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^72]: A 45. § (5) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 37. §-a iktatta be, szövege a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 12. pontja szerint módosított szöveg.
+[^72]: A 45. § (3) bekezdése a 306/2016. (X. 13.) Korm. rendelet 41. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^73]: A 45. § (5) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 37. §-a iktatta be, szövege a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 12. pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 31. §[^58] A műemlék vagyonátruházására vonatkozó, a Kötv. 44. § (1) és (4) bekezdésében meghatározott jóváhagyást vagy hozzájáruló jognyilatkozatot a miniszter a kérelem beérkezésétől számított harminc napon belül adja meg.
+## 31. §[^59] A műemlék vagyonátruházására vonatkozó, a Kötv. 44. § (1) és (4) bekezdésében meghatározott jóváhagyást vagy hozzájáruló jognyilatkozatot a miniszter a kérelem beérkezésétől számított harminc napon belül adja meg.
 
 ## 11. A műemlékvédelem sajátos tárgyai védelmére vonatkozó különleges követelmények
 
@@ -10,4 +10,4 @@
 
 (4) Védett temetők és temetkezési emlékhelyek esetén a műemléki értékek fennmaradását, érvényesülését a nem védett építményeket érintő tevékenységek és új építmény elhelyezése során is biztosítani kell.
 
-[^58]: A 31. § a 441/2015. (XII. 28.) Korm. rendelet 241. §-a szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^59]: A 31. § a 441/2015. (XII. 28.) Korm. rendelet 241. §-a szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

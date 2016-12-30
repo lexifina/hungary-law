@@ -12,7 +12,7 @@ b) a beruházó arra vonatkozó nyilatkozatát, hogy a beruházás nagyberuház�
 
 c) a beruházásnak a Kötv. 23/F. § (4) bekezdése alapján tervezett teljes bekerülési költségének tervezett összegéről szóló nyilatkozatot.
 
-(3)[^35] A próbafeltárás a bejelentés megtételére a 10. § (1) bekezdésében előírt határidő leteltét követően kezdhető meg, ha
+(3)[^36] A próbafeltárás a bejelentés megtételére a 10. § (1) bekezdésében előírt határidő leteltét követően kezdhető meg, ha
 
 a) jogszabály alapján egyéb engedélyre nincs szükség,
 
@@ -20,7 +20,7 @@ b) a próbafeltárás területe a 16. § (3) bekezdése szerint régészeti munk
 
 c) a hatóság a tevékenység végzése ellen nem emelt kifogást.
 
-(4)[^36] Az előzetes régészeti dokumentáció keretében végzett próbafeltáráshoz kapcsolódó földmunka elvégzéséről a beruházó költségén a jogszabályban kijelölt örökségvédelmi szerv gondoskodik.
+(4)[^37] Az előzetes régészeti dokumentáció keretében végzett próbafeltáráshoz kapcsolódó földmunka elvégzéséről a beruházó költségén a jogszabályban kijelölt örökségvédelmi szerv gondoskodik.
 
-[^35]: A 21. § (3) bekezdése a 306/2016. (X. 13.) Korm. rendelet 23. §-ával megállapított szöveg.
-[^36]: A 21. § (4) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 28. §-a iktatta be, szövege a 306/2016. (X. 13.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^36]: A 21. § (3) bekezdése a 306/2016. (X. 13.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^37]: A 21. § (4) bekezdését a 171/2015. (VI. 30.) Korm. rendelet 28. §-a iktatta be, szövege a 306/2016. (X. 13.) Korm. rendelet 23. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 36. [^132] A helyreállítási kötelezés védett műemléki érték esetén
+## 36. [^136] A helyreállítási kötelezés védett műemléki érték esetén
 
 76. § (1) A hatóság műemlékvédelmi érdekből a sérült védett műemléki érték haladéktalan helyreállítását írhatja elő.
 
@@ -16,4 +16,4 @@ c) olyan munkálatok elvégzését, amelyek a műemlék történeti állapotána
 
 (5) A kötelezettséget úgy kell elrendelni, hogy teljesítése a kötelezett méltánylást érdemlő életviszonyaiban zavart ne okozzon.
 
-[^132]: A 36. alcím (76. §) a 306/2016. (X. 13.) Korm. rendelet 40. §-ával megállapított szöveg.
+[^136]: A 36. alcím (76. §) a 306/2016. (X. 13.) Korm. rendelet 40. §-ával megállapított szöveg.

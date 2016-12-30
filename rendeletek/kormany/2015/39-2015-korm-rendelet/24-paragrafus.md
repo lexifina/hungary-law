@@ -1,4 +1,4 @@
-## 23/A. §[^47] A jogszabályban kijelölt örökségvédelmi szerv Kötv. 23/G. § (1c) bekezdése szerinti megkeresésére a feltáró intézmény vagy akkreditált szervezet öt napon belül válaszol.
+## 23/A. §[^48] A jogszabályban kijelölt örökségvédelmi szerv Kötv. 23/G. § (1c) bekezdése szerinti megkeresésére a feltáró intézmény vagy akkreditált szervezet öt napon belül válaszol.
 
 24. § (1) A beruházó és a feltárást végző intézmény a megelőző feltárásra vonatkozó szerződést a feltárási projektterv adataira figyelemmel köti meg.
 
@@ -8,4 +8,4 @@
 
 (4) A szerződésben a régészeti feladatellátásra, valamint a hatósági eljárás megindítására irányuló kérelem benyújtására meghatározott határidők késedelmes teljesítése esetére a feltárást végző intézményt terhelő kötbért kell kikötni. A kötbér mértéke – ettől eltérő megállapodás hiányában – a régészeti feladatellátás nettó díjának a késedelem időtartamára számított napi egy százaléka, legfeljebb azonban tizenöt százalék.
 
-[^47]: A 23/A. §-t a 306/2016. (X. 13.) Korm. rendelet 27. §-a iktatta be.
+[^48]: A 23/A. §-t a 306/2016. (X. 13.) Korm. rendelet 27. §-a iktatta be.

@@ -26,6 +26,6 @@ c) az értékleltár elkészült.
 
 (4) Ha a nyilvántartott műemléki érték értékleltára vagy feltárása még nem teljes körű, a közérdekűség megállapítására akkor kerülhet sor, ha a kiemelkedő és országos jelentőség a feltárt tudományos tények alapján legalább valószínűsíthető.
 
-(5)–(8)[^55]
+(5)–(8)[^56]
 
-[^55]: A 28. § (5)–(8) bekezdését a 306/2016. (X. 13.) Korm. rendelet 42. § e) pontja hatályon kívül helyezte.
+[^56]: A 28. § (5)–(8) bekezdését a 306/2016. (X. 13.) Korm. rendelet 42. § e) pontja hatályon kívül helyezte.

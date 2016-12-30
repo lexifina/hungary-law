@@ -1,8 +1,8 @@
 ## 14. Veszélyeztetett műemlékek megőrzése
 
-36. § (1)[^60] A fennmaradásukban veszélyeztetett műemlékek jegyzékének elkészítéséről a nyilvántartást vezető hatóság gondoskodik.
+36. § (1)[^61] A fennmaradásukban veszélyeztetett műemlékek jegyzékének elkészítéséről a nyilvántartást vezető hatóság gondoskodik.
 
-(2)[^61] A nyilvántartást vezető hatóság kezdeményezésére a jogszabályban kijelölt örökségvédelmi szer
+(2)[^62] A nyilvántartást vezető hatóság kezdeményezésére a jogszabályban kijelölt örökségvédelmi szer
 
 a) kidolgozza és közreadja a veszélyeztetett műemlékek esetében a műemléket súlyosan veszélyeztető állapotot megszüntető módszereket és műszaki megoldásokat,
 
@@ -14,5 +14,5 @@ bb) részt vehet a súlyosan veszélyeztető események által okozott, műemlé
 
 bc) a tulajdonos helyett és annak terhére a további állagromlás megakadályozása érdekében szükséges állagmegóvási munkákat a hatóság jogerős döntését követően elvégezheti.
 
-[^60]: A 36. § (1) bekezdése a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 9. pontja szerint módosított szöveg.
-[^61]: A 36. § (2) bekezdés nyitó szövegrésze a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 10. pontja szerint módosított szöveg.
+[^61]: A 36. § (1) bekezdése a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 9. pontja szerint módosított szöveg.
+[^62]: A 36. § (2) bekezdés nyitó szövegrésze a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 10. pontja szerint módosított szöveg.

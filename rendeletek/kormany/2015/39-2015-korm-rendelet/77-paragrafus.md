@@ -8,7 +8,7 @@
 
 (2) A szakmai véleményezés során a 33. §-ban meghatározottakon túl a következő szempontokat kell különösen érvényesíteni:
 
-a)[^133] a műemléki környezet, a műemléki jelentőségű terület, a történeti táj vagy világörökségi és világörökségi várományos helyszín vagy terület egyedi szabályozását lehetővé tevő különleges építési övezeti, övezeti előírások és paraméterek, egyéb rendelkezések megléte és minősége,
+a)[^137] a műemléki környezet, a műemléki jelentőségű terület, a történeti táj vagy világörökségi és világörökségi várományos helyszín vagy terület egyedi szabályozását lehetővé tevő különleges építési övezeti, övezeti előírások és paraméterek, egyéb rendelkezések megléte és minősége,
 
 b) a település (településrész) történelmileg kialakult tagozódása, szerkezete, beépítési módja, jellemző épületmagassága, hagyományos jellege,
 
@@ -24,4 +24,4 @@ a) nyilvántartott vagy védetté nyilvánított régészeti lelőhelyet és vé
 
 b) országos védelem alatt álló műemléket, műemléki környezetet, műemléki jelentőségű területet, történeti tájat érintő esetben a Testület
 
-[^133]: A 77. § (2) bekezdés a) pontja a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 33. pontja szerint módosított szöveg.
+[^137]: A 77. § (2) bekezdés a) pontja a 306/2016. (X. 13.) Korm. rendelet 41. § (1) bekezdés 33. pontja szerint módosított szöveg.
