@@ -7,3 +7,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-499-20-
 | Időállapot | NJT | Módosította |
 | --- | --- | --- |
 | 2016-12-29 | 2016-499-20-22.1 | 499/2016. (XII. 28.) Korm. rendelet |
+| 2016-12-30 | 2016-499-20-22.2 | 2010: CXXX. törvény |

@@ -1,3 +1,3 @@
-## 2–3. §[^1]
+## 2–3. §[^2]
 
-[^1]: A 2–3. § a 33. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^2]: A 2–3. § a 33. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
