@@ -1,0 +1,1 @@
+## „(9) A kerületi építési szabályzat a fővárosi önkormányzat és a kerületi önkormányzat által elfogadott kézikönyvekkel és településképi rendeletekkel összhangban, a fővárosi településszerkezeti terv és a fővárosi rendezési szabályzat alapján készül.”
