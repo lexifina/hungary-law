@@ -1,3 +1,3 @@
-## 5. § A Rendelet 5/A. § (1) bekezdése helyébe a következő rendelkezés lép:
+## 5. §[^3]
 
-## „(1) A támogatást nyújtó adatot szolgáltat a Támogatásokat Vizsgáló Iroda, mint az állami támogatások európai uniós versenyszempontú vizsgálatáért felelős szervezet részére a 651/2014/EU bizottsági rendelet 9. cikke szerinti közzététel céljából a 3–5/A. alcím hatálya alá tartozó, 500 000 eurónak megfelelő forintösszeget meghaladó egyedi támogatásokról.”
+[^3]: Az 5. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
