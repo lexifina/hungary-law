@@ -1,7 +1,0 @@
-14. § (1) A támogatást a helyi önkormányzat esetében a költségvetési törvény 1. melléklet IX. fejezet 5. cím Központosított előirányzatok alatti forrás terhére a helyi önkormányzatokért felelős miniszter utalványozása alapján a Magyar Államkincstár a 2011. augusztus havi nettó finanszírozás keretében, a fenntartói támogatás esetében a (4) bekezdésben meghatározott ütemezés szerint folyósítja.
-
-(2) A közoktatási feladatot ellátó nem állami intézmény fenntartója esetében a költségvetési törvény 1. melléklet XX. fejezet 20. cím 2. alcím 3. jogcímcsoport Közoktatási célú humánszolgáltatás és kiegészítő támogatás jogcím előirányzat terhére a Magyar Államkincstáron keresztül a miniszter intézkedik a támogatás folyósításáról a döntést követő húsz munkanapon belül.
-
-(3) A központi költségvetési szervként működő felsőoktatási intézmények esetében a XX. fejezet 20. cím 2. alcím 17. jogcímcsoport Gyakorlóiskolák normatív támogatása előirányzat terhére a Magyar Államkincstáron keresztül a miniszter intézkedik előirányzat átcsoportosítással a támogatás folyósításáról a (4) bekezdésben meghatározott ütemezés figyelembevételével, a döntést követő húsz munkanapon belül.
-
-(4) A fenntartói támogatás esetében a megítélt összeg hatvan százaléka 2011 augusztusában, a fennmaradó összeg ezt követően négy egyenlő részletben havonta kerül folyósításra, a tankönyvtámogatás és a szakmai szolgáltatás támogatása egy összegben történik.
