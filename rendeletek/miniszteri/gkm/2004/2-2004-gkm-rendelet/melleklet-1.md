@@ -44,11 +44,11 @@
 
 3.5. A szervezetnek olyan nyilvántartást kell vezetnie, amelyből megállapítható a vizsgálatok során észlelt hiányosságok kiküszöbölése.
 
-3.6.[^34] Csak az ügyfél beleegyezésével lehet a tevékenységet alvállalkozásba adni.
+3.6.[^34] Csak az ügyfél beleegyezésével lehet a tevékenységet alvállalkozásba adni vagy leányvállalattal elvégeztetni..
 
 [^29]: Az 1. számú melléklet címe a 28/2010. (IV. 2.) KHEM rendelet 13. § (1) bekezdés f) pontjával megállapított szöveg.
 [^30]: Az 1. számú melléklet 1. pontját a 28/2010. (IV. 2.) KHEM rendelet 14. § d) pontja hatályon kívül helyezte.
 [^31]: Az 1. számú melléklet 2. pontjának címe a 28/2010. (IV. 2.) KHEM rendelet 13. § (1) bekezdés g) pontjával megállapított szöveg.
 [^32]: Az 1. számú melléklet 2. pont 2.4. alpontja a 28/2010. (IV. 2.) KHEM rendelet 9. § (1) bekezdésével megállapított szöveg.
 [^33]: Az 1. számú melléklet 2. pont 2.5. alpontja a 28/2010. (IV. 2.) KHEM rendelet 9. § (2) bekezdésével megállapított szöveg.
-[^34]: Az 1. melléklet 3.6. pontját a 45/2016. (XI. 11.) NFM rendelet 32. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 30. §-át.
+[^34]: Az 1. számú melléklet 3.6. pontját a 45/2016. (XI. 11.) NFM rendelet 32. § (4) bekezdése iktatta be. Alkalmazására lásd e módosító rendelet 30. §-át. Az 1. számú melléklet 3.6. pontja az 58/2016. (XII. 23.) NFM rendelet 10. §-a szerint módosított szöveg.
