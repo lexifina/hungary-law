@@ -16,6 +16,14 @@
 
 | 7. | Polibrómozott difenil-éterek (PBDE) | 0,1 |
 
-2. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^13]
+| 8. | Bisz(2-etilhexil)-ftalát (DEHP) | 0,1 |
 
-[^13]: A 2. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+| 9. | Benzin-butil-ftalát (BBP) | 0,1 |
+
+| 10. | Dibutil-ftalát (DBP) | 0,1 |
+
+| 11. | Diizobutil-ftalát (DIBP) | 0,1 |
+
+2. melléklet a 374/2012. (XII. 18.) Korm. rendelethez[^19]
+
+[^19]: A 2. melléklet a 258/2014. (X. 10.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
