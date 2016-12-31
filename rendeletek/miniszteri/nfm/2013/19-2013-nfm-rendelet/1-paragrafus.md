@@ -1,9 +1,0 @@
-1. § (1)[^2] Az országos közutak használatáért fizetendő, megtett távolsággal arányos útdíjak beszedésére alkalmas, az ellenőrzést is magában foglaló integrált elektronikus díjszedési rendszer kiépítése és működtetése során az állam tulajdonába kerülő vagyonelemek (a továbbiakban: ED-rendszer) feletti tulajdonosi jogok és kötelezettségek összességének gyakorlására 2022. október 31. napjáig terjedő időtartamra a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaságot (a továbbiakban: NÚSz Zrt.) jelölöm ki.
-
-(2)[^3] Az ED-rendszer részét képezi a NÚSz Zrt. által az „Elektronikus útdíj rendszer (UD) bevezetése” elnevezéssel lefolytatott beszerzés, valamint az ahhoz kapcsolódó közbeszerzési eljárások tárgyát képező, annak eredményeként létrejövő dolgok (így különösen az ED-rendszer felépítményei, infokommunikációs infrastruktúrája, gépjárművei, mindezek eszközei, a fedélzeti berendezések, az ügyfélszolgálati irodák és ügyfélszolgálati pontok infrastruktúra eszközei) és vagyoni értékű jogok.
-
-(3)[^4] Az ED-rendszernek az Országos Rendőr-főkapitányság középirányítói hatáskörébe tartozó rendőri szerv, mint díjellenőrzési hatóság feladatellátásához szükséges vagyonelemei (a továbbiakban: díjellenőrzési eszközök) felett a tulajdonosi joggyakorlás kizárólag a díjellenőrzési eszközök állam javára történő megszerzésére terjed ki. A díjellenőrzési eszközök beszerzését követően a tulajdonosi joggyakorló az eszközöket az állami vagyonról szóló 2007. évi CVI. törvény 3. § (1) bekezdés a) pontja szerinti tulajdonosi joggyakorló részére átadja.
-
-[^2]: Az 1. § (1) bekezdése a 20/2014. (IV. 14.) NFM rendelet 3. § a) pontja szerint módosított szöveg.
-[^3]: Az 1. § (2) bekezdése a 20/2014. (IV. 14.) NFM rendelet 3. § b) pontja szerint módosított szöveg.
-[^4]: Az 1. § (3) bekezdését a 20/2014. (IV. 14.) NFM rendelet 2. §-a iktatta be.
