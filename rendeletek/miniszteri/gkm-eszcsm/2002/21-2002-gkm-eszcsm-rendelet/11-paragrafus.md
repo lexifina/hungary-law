@@ -1,4 +1,4 @@
-## 10. § A vizsgálatért a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjára vonatkozó jogszabályban[^26] megállapított térítési díjat kell fizetni.
+## 10. § A vizsgálatért a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjára vonatkozó jogszabályban[^27] megállapított térítési díjat kell fizetni.
 
 ## Záró és átmeneti rendelkezések
 
@@ -14,7 +14,7 @@ d) az egyes közlekedési, hírközlési és vízügyi miniszteri rendeletek mó
 
 (2) Az e rendelet hatálybalépését megelőzően kiállított egészségi alkalmassági igazolások az igazolásban megállapított időpontig érvényesek.
 
-(3)[^27] A hajózási hatóság honlapján az egyes víziközlekedési tárgyú miniszteri rendeletek módosításáról szóló 23/2015. (V. 8.) NFM rendelet kihirdetését követő 31. napjáig közzétett névjegyzékben szereplő foglalkozás-egészségügyi alapszolgáltatás nyújtására jogosult orvos a hajózási hatósági nyilvántartásba vétele nélkül 2015. december 31-éig végezheti az 1. számú melléklet szerinti vizsgálatot.
+(3)[^28] A hajózási hatóság honlapján az egyes víziközlekedési tárgyú miniszteri rendeletek módosításáról szóló 23/2015. (V. 8.) NFM rendelet kihirdetését követő 31. napjáig közzétett névjegyzékben szereplő foglalkozás-egészségügyi alapszolgáltatás nyújtására jogosult orvos a hajózási hatósági nyilvántartásba vétele nélkül 2015. december 31-éig végezheti az 1. számú melléklet szerinti vizsgálatot.
 
-[^26]: Lásd a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló 284/1997. (XII. 23.) Korm. rendelet 2. számú mellékletét.
-[^27]: A 11. § (3) bekezdését a 23/2015. (V. 8.) NFM rendelet 14. §-a iktatta be.
+[^27]: Lásd a térítési díj ellenében igénybe vehető egyes egészségügyi szolgáltatások térítési díjáról szóló 284/1997. (XII. 23.) Korm. rendelet 2. számú mellékletét.
+[^28]: A 11. § (3) bekezdését a 23/2015. (V. 8.) NFM rendelet 14. §-a iktatta be.

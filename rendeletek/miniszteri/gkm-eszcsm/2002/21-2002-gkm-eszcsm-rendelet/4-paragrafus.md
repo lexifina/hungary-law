@@ -48,12 +48,15 @@ b) hatvanadik életévének betöltése után évenként
 
 (7) A vizsgálatot végző orvos – a vizsgált személy egészségi állapota alapján – az előírt vizsgálatra rövidebb határidőt is megállapíthat.
 
+(7a)[^7] A munkáltató köteles a belvízi hajózási szolgálatot teljesítő személy részére a víziközlekedésről szóló 2000. évi XLII. törvény 21. § (1a) bekezdése szerinti egészségügyi szűrővizsgálaton való részvételt biztosítani.
+
 (8) A munkáltató köteles a hajózási szolgálatot teljesítő személy egészségi alkalmasságának soron kívüli vizsgálatát kezdeményezni, ha az egészségi alkalmasságot kizáró vagy korlátozó bármilyen körülményt észlel. Soron kívüli vizsgálatot a hajózási szolgálatot teljesítő személy maga is kérhet.
 
 (9) A hajózási hatóság, a hajózási szolgálatot teljesítő, illetve a kedvtelési célú vízijárművet vezető személyt a hajózás biztonságát veszélyeztető egészségi állapot észlelésének esetében határidő tűzésével soron kívüli vizsgálatra hívhatja fel, és az alkalmasság újbóli megállapításáig a hajózási szolgálat ellátásától, illetve a kedvtelési célú vízijármű vezetésétől – a szolgálati könyvbe való bejegyzéssel, illetve a kedvtelési célú vízijárművezetői bizonyítvány bevonásával – ideiglenesen eltilthatja.
 
-(10) Az élelmezéssel kapcsolatos munkakörben foglalkoztatott hajózási dolgozót az e rendeletben meghatározott vizsgálatok nem mentesítik az ilyen munkakörben foglalkoztatott dolgozókra külön jogszabályban[^7] előírt orvosi vizsgálat alól.
+(10) Az élelmezéssel kapcsolatos munkakörben foglalkoztatott hajózási dolgozót az e rendeletben meghatározott vizsgálatok nem mentesítik az ilyen munkakörben foglalkoztatott dolgozókra külön jogszabályban[^8] előírt orvosi vizsgálat alól.
 
 [^5]: A 4. § (2) bekezdése a 94/2011. (XII. 30.) NFM rendelet 11. §-ával megállapított szöveg.
 [^6]: A 4. § (4) bekezdés a) pontját a 66/2015. (XI. 18.) NFM rendelet 12. §-a hatályon kívül helyezte.
-[^7]: Lásd a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendeletet.
+[^7]: A 4. § (7a) bekezdését az 58/2016. (XII. 23.) NFM rendelet 7. §-a iktatta be.
+[^8]: Lásd a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendeletet.
