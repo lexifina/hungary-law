@@ -1,4 +1,4 @@
-15/B. §[^133] (1) Az ORFK-ból az ORFK szervezeti és működési szabályzata alapján
+15/B. §[^134] (1) Az ORFK-ból az ORFK szervezeti és működési szabályzata alapján
 
 a) a Nemzetközi Bűnügyi Együttműködési Központ és
 
@@ -26,4 +26,4 @@ d) a Humánigazgatási Szolgálat Oktatási és Képzési Főosztály
 
 (6) Az (1) és a (3) bekezdés szerinti átalakítással érintett szervezeti elemek, illetve rendőri szerv vonatkozásában az átalakítás időpontja utáni időszakra áthúzódó kötelezettséget az ORFK a rendészetért felelős miniszter egyetértésével vállalhat. Az ORFK az átalakítás időpontjáig a költségvetési kiadási előirányzatainak a kiválással érintett szervezeti elemre jutó arányos része terhére – az európai uniós forrásból megvalósuló beruházások kivételével – beruházást, felújítást érintően új kötelezettséget nem vállalhat, foglalkoztatásra irányuló jogviszonyt nem létesíthet vagy szüntethet meg.
 
-[^133]: A 15/B. §-t a 164/2015. (VI. 30.) Korm. rendelet 3. §-a iktatta be.
+[^134]: A 15/B. §-t a 164/2015. (VI. 30.) Korm. rendelet 3. §-a iktatta be.
