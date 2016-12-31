@@ -54,9 +54,11 @@ III. Fejezet
 
 Kötelező biztonsági ellenőrzések és az Üzemeltetési és karbantartási napló alkalmazása
 
-1. Az autóbusz kormányberendezésének, fékberendezésének, gumiabroncsainak, valamint a kötelezően előírt világító- és fényjelző berendezéseinek biztonsági ellenőrzését 15 000 km-enként, illetőleg az autóbusz típusára a gyártó által előírt szervíz periódusnak megfelelő időközönként, de legalább hat hónaponként gépjárműfenntartó szervezetnél kell elvégeztetni.
+1.[^19] Az autóbusz kormányberendezésének, fékberendezésének, gumiabroncsainak, valamint a kötelezően előírt világító- és fényjelző berendezéseinek biztonsági ellenőrzését 15 000 km-enként vagy az autóbusz típusára a gyártó által előírt szerviz periódusnak megfelelő időközönként, de legalább hat hónaponként gépjárműfenntartó szervezetnél kell elvégeztetni.
 
-2.[^19] Az autóbuszhoz tartozó – a közlekedési hatóságtól a minősítő vizsgálat alkalmával díj ellenében beszerezhető, általa hitelesített – Üzemeltetési és karbantartási naplóba tett bejegyzéssel kell igazolni:
+Ha az autóbusz a gyártó (hazai képviselete) által, az adott alvázszámú járműre igazoltan előírt karbantartási ciklusban meghatározott futásteljesítményt (km) nem éri el, életkora nem több mint 8 év, és az általa megtett km-ek száma kevesebb, mint 600 000 km, az igazoltan elvégzett, előírt szervizciklus szerinti karbantartásról szóló munkalap és számviteli bizonylat helyettesítheti a félévenkénti, karbantartási naplóban rögzítendő szemle elvégzését.
+
+2.[^20] Az autóbuszhoz tartozó – a közlekedési hatóságtól a minősítő vizsgálat alkalmával díj ellenében beszerezhető, általa hitelesített – Üzemeltetési és karbantartási naplóba tett bejegyzéssel kell igazolni:
 
 a) az 1. pont szerinti biztonsági ellenőrzések elvégzését és a megállapított hiba mentességet,
 
@@ -66,7 +68,7 @@ c) az időszakos és a nemzetközi minősítő vizsgálatok elvégzését,
 
 d) az autóbusz biztonsági berendezéseinek műszaki állapotát befolyásoló eseményeket és beavatkozásokat (esetleges meghibásodásokat és az elvégzett karbantartást, javítást).
 
-3. Az 1–2. pontokban meghatározott kötelezettségek elmulasztása esetén az időszakos vizsgálat külön jogszabály[^20] szerinti határidejét hat hónapban kell megállapítani.
+3. Az 1–2. pontokban meghatározott kötelezettségek elmulasztása esetén az időszakos vizsgálat külön jogszabály[^21] szerinti határidejét hat hónapban kell megállapítani.
 
 IV. Fejezet
 
@@ -74,7 +76,7 @@ A Szakértői vizsgálat
 
 1. A Szakértői vizsgálatra történő felhatalmazás
 
-1.1.[^21] Az I. fejezet 1.1. pontjában meghatározott tanúsítást – az autóbusztípus javítására felkészült – olyan gépjárműfenntartó szervezet állíthatja ki, amely erre a közlekedési hatóságtól – a 3. pontban meghatározott feltételek alapján – felhatalmazást kapott (a továbbiakban: felhatalmazott autóbusz-fenntartó). Azon autóbuszhoz, amelynek típusára nincs felhatalmazva autóbusz-fenntartó, a tanúsítást a Nemzeti Közlekedési Hatóság Központi Hivatala által meghatározott eljárásban, a kijelölt közlekedési hatóság – szakértő bevonásával elvégzett – egyedi vizsgálat alapján adja ki.
+1.1.[^22] Az I. fejezet 1.1. pontjában meghatározott tanúsítást – az autóbusztípus javítására felkészült – olyan gépjárműfenntartó szervezet állíthatja ki, amely erre a közlekedési hatóságtól – a 3. pontban meghatározott feltételek alapján – felhatalmazást kapott (a továbbiakban: felhatalmazott autóbusz-fenntartó). Azon autóbuszhoz, amelynek típusára nincs felhatalmazva autóbusz-fenntartó, a tanúsítást a Nemzeti Közlekedési Hatóság Központi Hivatala által meghatározott eljárásban, a kijelölt közlekedési hatóság – szakértő bevonásával elvégzett – egyedi vizsgálat alapján adja ki.
 
 1.2. A gépjárműfenntartó szervezet kérelmére kiadott felhatalmazásban meg kell jelölni:
 
@@ -88,9 +90,9 @@ d) a tanúsítás aláírására jogosult személyt.
 
 1.3. A felhatalmazott autóbusz-fenntartó az – általa a 2. pontban meghatározott vizsgálati módszer alkalmazásával megvizsgált – autóbuszra abban az esetben ad ki tanúsítást, ha annak vizsgált fődarabjai és szerkezeti egységei a vizsgált jellemzőik, valamint az állapotuk tekintetében megfelelnek a külön jogszabályban foglalt követelményeknek.
 
-1.4.[^22] A felhatalmazott autóbusz-fenntartó tevékenységét a közlekedési hatóság rendszeresen ellenőrzi. Ha az ellenőrzés során a regionális igazgatóság megállapítja, hogy a vizsgálat elvégzésekor a jogszabályban előírt feltételeket megsértették, a felhatalmazást a feltételek teljesítéséig felfüggeszti, illetőleg indokolt esetben visszavonja.
+1.4.[^23] A felhatalmazott autóbusz-fenntartó tevékenységét a közlekedési hatóság rendszeresen ellenőrzi. Ha az ellenőrzés során a regionális igazgatóság megállapítja, hogy a vizsgálat elvégzésekor a jogszabályban előírt feltételeket megsértették, a felhatalmazást a feltételek teljesítéséig felfüggeszti, illetőleg indokolt esetben visszavonja.
 
-1.5.[^23] A vizsgálatot csak olyan személy végezheti, aki a Nemzeti Közlekedési Hatóság Központi Hivatala által a tanúsítási tevékenység végzésére felkészítő tanfolyamot elvégezte és eredményes vizsgát tett.
+1.5.[^24] A vizsgálatot csak olyan személy végezheti, aki a Nemzeti Közlekedési Hatóság Központi Hivatala által a tanúsítási tevékenység végzésére felkészítő tanfolyamot elvégezte és eredményes vizsgát tett.
 
 2. A felhatalmazott autóbusz-fenntartó által végzett Szakértői vizsgálat terjedelme, a vizsgálat módszere és az értékelés szempontjai
 
@@ -252,7 +254,7 @@ A fékhatás megfelelő, ha a mért kerékfékerők a határgörbék által mega
 
 2.2.1.3.3. A vizsgálat módszere az Egységes Fékvizsgálati Technológia alapján
 
-A közúti járművek műszaki megvizsgálásáról szóló külön jogszabályban meghatározott Egységes Fékvizsgálati Technológia alkalmazásnak elrendelését követően a görgős fékpadi vizsgálatot a 2.2.1.3.1. és 2.2.1.3.2. pontokban meghatározott vizsgálati módszer helyett a külön jogszabályban[^24] előírt módon, az autóbusz kategóriájának megfelelő fékvizsgálati technológia szerint kell elvégezni.
+A közúti járművek műszaki megvizsgálásáról szóló külön jogszabályban meghatározott Egységes Fékvizsgálati Technológia alkalmazásnak elrendelését követően a görgős fékpadi vizsgálatot a 2.2.1.3.1. és 2.2.1.3.2. pontokban meghatározott vizsgálati módszer helyett a külön jogszabályban[^25] előírt módon, az autóbusz kategóriájának megfelelő fékvizsgálati technológia szerint kell elvégezni.
 
 2.2.2. Rögzítőfék-rendszer
 
@@ -626,9 +628,10 @@ Kiállítás kelte: ........ év ........... hó ......... nap
 
 [^17]: A 2. számú mellékletet beiktatta, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatta a 105/2004. (IX. 11.) GKM rendelet 2. §-a.
 [^18]: A 2. számú melléklet I. Fejezetének 4. pontja a Magyar Közlöny 2004. évi 141. számában megjelent helyesbítésnek megfelelő szöveg.
-[^19]: A 2. melléklet III. fejezetének 2. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § d) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § c) pontja szerint módosított szöveg.
-[^20]: A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 11. §.
-[^21]: A 2. melléklet IV. fejezetének 1.1. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § b) és d)–e) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § c) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § d) pontja szerint módosított szöveg.
-[^22]: A 2. melléklet IV. fejezetének 1.4. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § b) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § d) pontja szerint módosított szöveg.
-[^23]: A 2. melléklet IV. fejezetének 1.5. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § e) pontja szerint módosított szöveg.
-[^24]: A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének IV. fejezete.
+[^19]: A 2. számú melléklet III. fejezet 1. pontja az 58/2016. (XII. 23.) NFM rendelet 9. §-ával megállapított szöveg.
+[^20]: A 2. melléklet III. fejezetének 2. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § d) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § c) pontja szerint módosított szöveg.
+[^21]: A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 11. §.
+[^22]: A 2. melléklet IV. fejezetének 1.1. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § b) és d)–e) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § c) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § d) pontja szerint módosított szöveg.
+[^23]: A 2. melléklet IV. fejezetének 1.4. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § b) pontja, a 72/2015. (XII. 29.) NFM rendelet 13. § d) pontja szerint módosított szöveg.
+[^24]: A 2. melléklet IV. fejezetének 1.5. pontja a 95/2006. (XII. 27.) GKM rendelet 52. § e) pontja szerint módosított szöveg.
+[^25]: A közúti járművek műszaki megvizsgálásáról szóló 5/1990. (IV. 12.) KöHÉM rendelet 5. számú mellékletének IV. fejezete.
