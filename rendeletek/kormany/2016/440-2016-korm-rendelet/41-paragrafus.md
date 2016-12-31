@@ -1,0 +1,5 @@
+41. § (1) Az e kormányrendelettel módosított rendelkezéseket a hatálybalépésüket követően indult eljárásokban kell alkalmazni.
+
+(2) A Kormány tagjainak feladat- és hatásköréről szóló 152/2014. (VI. 6.) Korm. rendeletnek a központi hivatalok felülvizsgálatával és a járási (fővárosi kerületi) hivatalok megerősítésével összefüggő egyes kormányrendeletek módosításáról szóló 379/2016. (XII. 2.) Korm. rendelettel megállapított 4. § 17. pontjában, valamint a külön jogszabályban meghatározott feladatkör ellátása érdekében az anyakönyvi ügyekért felelős miniszter által vezetett minisztérium kormánytisztviselője az e rendeletben foglalt képesítési követelményeket 2018. január 1. napjáig köteles teljesíteni.
+
+(3) A közigazgatási bürokráciacsökkentést érintő egyes kormányrendeletek módosításáról szóló 440/2016. (XII. 16.) Korm. rendelet 23. § és 38. §-ának hatálybalépésekor a közszolgálati tisztviselőt és az állami tisztviselőt feladatköre ellátására képesítettnek kell tekinteni azzal, hogy a feladatkör ellátásához szükséges anyakönyvi szakvizsgát 2018. január 1. napjáig köteles teljesíteni.
