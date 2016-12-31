@@ -1,0 +1,7 @@
+## 33. §[^33]
+
+## 34. Az értesítési címnek a polgárok személyi és lakcím adatait tartalmazó nyilvántartásba vétele igényléséért, a bejelentett értesítési cím megújításáért, megváltoztatásáért és törléséért fizetendő igazgatási szolgáltatási díj mértékéről és megfizetésének szabályairól szóló 56/2012. (XII. 28.)
+
+## KIM rendelet módosítása
+
+[^33]: A 33. § a 62. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
