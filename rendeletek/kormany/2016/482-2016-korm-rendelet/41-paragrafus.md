@@ -1,3 +1,3 @@
-## 40. §[^12]
+## 40. §[^13]
 
-[^12]: A 40. § a 64. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^13]: A 40. § a 64. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
