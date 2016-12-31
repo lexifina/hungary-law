@@ -1,1 +1,0 @@
-## „(7a) A településszerkezeti terv szerkeszthető – e rendeletben meghatározott egyeztetésre és külön jogszabályban meghatározottak szerinti nyilvántartásra alkalmas – digitális formátumban készül, papír formátumú dokumentálásra is alkalmas módon.”
