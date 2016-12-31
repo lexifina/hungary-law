@@ -1,1 +1,0 @@
-51. § A 2013 januárjában a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény 62. § (1)–(2) bekezdése alapján esedékes nyugdíjemelés meghatározásánál 5,2%-os fogyasztói árnövekedést kell figyelembe venni.
