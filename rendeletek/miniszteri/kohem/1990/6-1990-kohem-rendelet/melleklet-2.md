@@ -108,9 +108,9 @@
 
 | 8. | 2007/46 661/2009 |  | 46 | 02 | Visszapillantó tükrök | + | + | K |
 
-| 9A. | 2007/46 661/2009 |  | 13 | 10 | Fékezési tulajdonságok | + | + | K |
+| 9A. | 2007/46 661/2009 |  | 13 | 11 | Fékezési tulajdonságok | + | + | K |
 
-| 90 | 01 | Pótalkatrész– fékbetét |
+| 90 | 02 | Pótalkatrész– fékbetét |
 
 | 9B. | 2007/46 661/2009 |  | 13 H | 00 | Személygépjármű fékezés | + | + | K |
 
@@ -138,7 +138,7 @@
 
 | 18A. | 2007/46 661/2009 19/2011 | 249/2012 | – | – | Gyári tábla | + | + | C |
 
-| 19A. | 2007/46 661/2009 |  | 14 | 06 | A biztonsági öv rögzítési pontjai, ISOFIX rögzítési rendszerek | + | + | – |
+| 19A. | 2007/46 661/2009 |  | 14 | 07 | Biztonsági öv bekötése | + | + | – |
 
 | 20A. | 2007/46 661/2009 |  | 48 | 04 | Világító- berendezések | + | + | K (6) |
 
@@ -176,11 +176,11 @@
 
 | 30A. | 2007/46 661/2009 |  | 77 | 00 | Parkoló lámpa | + | + | K |
 
-| 31A. | 2007/46 661/2009 |  | 16 | 04 | Biztonsági övek és utasbiztonsági rendszerek | + | + | K |
+| 31A. | 2007/46 661/2009 |  | 16 | 06 | Biztonsági övek és utasbiztonsági rendszerek | + | + | K |
 
 | 32A. | 2007/46 661/2009 |  | 125 | 00 | Látómező | + |  | – |
 
-| 33A. | 2007/46 661/2009 |  | 121 | 00 | Működtető berendezések megjelölése, ellenőrző lámpák | + | + | – |
+| 33A. | 2007/46 661/2009 |  | 121 | 01 | Működtető berendezések megjelölése, ellenőrző lámpák | + | + | – |
 
 | 34A. | 2007/46 661/2009 672/2010 |  | – | – | Jég- és páramentesítő rendszerek | + | – | – |
 
@@ -226,15 +226,15 @@
 
 | 50B. | 2007/46 661/2009 |  | 102 | 00 | Rövid vonószerkezetek |  | + | K |
 
-| 51A. | 2007/46 661/2009 |  | 118 | 00 | Beltéri anyagok égési tulajdonságai |  | + | – |
+| 51A. | 2007/46 661/2009 |  | 118 | 02 | Beltéri anyagok égési tulajdonságai |  | + | – |
 
-| 52A. | 2007/46 661/2009 |  | 107 | 03 | Autóbuszokra vonatkozó követelmények |  | + | K |
+| 52A. | 2007/46 661/2009 |  | 107 | 06 | Autóbuszokra vonatkozó követelmények |  | + | K |
 
-| 52B. | 2007/46 661/2009 |  | 66 | 01 |
+| 52B. | 2007/46 661/2009 |  | 66 | 02 |
 
 | 53A. | 2007/46 661/2009 |  | 94 | 01 | Homlokütközés | + |  | – |
 
-| 54A. | 2007/46 661/2009 |  | 95 | 02 | Oldalról történő ütközés | + |  | – |
+| 54A. | 2007/46 661/2009 |  | 95 | 03 | Oldalról történő ütközés | + |  | – |
 
 | 56A. | 2007/46 661/2009 |  | 105 | 04 | Veszélyes árut szállító gépkocsik és pótkocsijuk | + | + | – (3) |
 
@@ -260,9 +260,9 @@
 
 | 68. | 661/2009 |  | 97 | 01 | Járműriasztók | + |  |  |
 
-| 69. | 661/2009 |  | 100 | 01 | Elektromos biztonság | + | + | K |
+| 69. | 661/2009 |  | 100 | 02 | Elektromos biztonság | + | + | K |
 
-| 70. | 661/2009 |  | 110 | 00 | Nagy nyomású földgázzal (CNG) üzemelő rendszerek különleges alkatrészei és azok beszerelése a járműbe |  | + | C |
+| 70. | 661/2009 |  | 110 | 01 | Nagy nyomású földgázzal (CNG) üzemelő rendszerek különleges alkatrészei és azok beszerelése a járműbe | + | + | C |
 
 | 71. | 661/2009 |  | 29 |  | Vezető- fülke szilárdsága |  | + | C |
 
@@ -292,7 +292,7 @@
 
 ## 1. Az e rendelet szerint jóváhagyandó motorkerékpárokra és segédmotoros kerékpárokra vonatkozó jóváhagyási kötelezettségek
 
-## 6K08747M_1
+## 6K83880O_1
 
 | MR | EK (EGK) | ENSZ-EGB | Műszaki terület | A | B |
 
@@ -508,7 +508,7 @@
 
 ## 1. Az e rendelet szerint jóváhagyandó traktorokra vonatkozó jóváhagyási kötelezettségek
 
-## 6K08747M_6
+## 6K83880O_6
 
 | MR | ENSZ-EGB | EK (EGK) | Műszaki terület | A | B |
 
@@ -794,6 +794,6 @@
 
 ## ** A gyermekülésnek/gyermek visszatartó rendszernek a 44. számú, vagy a 129 számú ENSZ-EGB előírás szerint kell jóváhagyottnak lennie.
 
-2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^256]
+2. számú melléklet a 6/1990. (IV. 12.) KöHÉM rendelethez[^257]
 
-[^256]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.
+[^257]: A 2. számú melléklet a 12/2000. (V. 24.) KHVM rendelet 16. §-ával megállapított szöveg. A mellékletet a 44/2001. (XII. 18.) KöViM rendelet 16. § (2) bekezdése, illetve 2. számú melléklete kiegészítette.

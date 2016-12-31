@@ -96,7 +96,9 @@
 
 47.[^252] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására vonatkozó funkcionális járműbiztonsági követelményekre való tekintettel történő kiegészítéséről szóló, 2014. december 8-i 2015/208 bizottsági (EU) felhatalmazáson alapuló rendelet;
 
-48.[^253] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására és piacfelügyeletére vonatkozó közigazgatási követelmények tekintetében történő végrehajtásáról szóló, 2015. március 11-i 2015/504 bizottsági (EU) végrehajtási rendelet
+48.[^253] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására és piacfelügyeletére vonatkozó közigazgatási követelmények tekintetében történő végrehajtásáról szóló, 2015. március 11-i 2015/504 bizottsági (EU) végrehajtási rendelet;
+
+49.[^254] a 661/2009/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2016. június 22-i (EU) 2016/1004 bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -122,3 +124,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^251]: A 121. § 46. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
 [^252]: A 121. § 47. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
 [^253]: A 121. § 48. pontját a 27/2016. (VII. 22.) NFM rendelet 3. §-a iktatta be.
+[^254]: A 121. § 49. pontját az 58/2016. (XII. 23.) NFM rendelet 4. §-a iktatta be.
