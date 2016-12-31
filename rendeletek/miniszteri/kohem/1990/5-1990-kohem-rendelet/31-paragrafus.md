@@ -100,7 +100,9 @@ való megfelelést szolgálja.
 
 41.[^363] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására vonatkozó funkcionális járműbiztonsági követelményekre való tekintettel történő kiegészítéséről szóló, 2014. december 8-i 2015/208 bizottsági (EU) felhatalmazáson alapuló rendelet;
 
-42.[^364] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására és piacfelügyeletére vonatkozó közigazgatási követelmények tekintetében történő végrehajtásáról szóló, 2015. március 11-i 2015/504 bizottsági (EU) végrehajtási rendelet
+42.[^364] a 167/2013/EU európai parlamenti és tanácsi rendeletnek a mezőgazdasági és erdészeti járművek jóváhagyására és piacfelügyeletére vonatkozó közigazgatási követelmények tekintetében történő végrehajtásáról szóló, 2015. március 11-i 2015/504 bizottsági (EU) végrehajtási rendelet;
+
+43.[^365] a 661/2009/EK európai parlamenti és tanácsi rendelet módosításáról szóló, 2016. június 22-i 2016/1004 (EU) bizottsági rendelet
 
 végrehajtásához szükséges rendelkezéseket állapít meg.
 
@@ -152,3 +154,4 @@ végrehajtásához szükséges rendelkezéseket állapít meg.
 [^362]: A 31. § (2) bekezdés 40. pontját a 26/2016. (VII. 22.) NFM rendelet 5. §-a iktatta be.
 [^363]: A 31. § (2) bekezdés 41. pontját a 26/2016. (VII. 22.) NFM rendelet 5. §-a iktatta be.
 [^364]: A 31. § (2) bekezdés 42. pontját a 26/2016. (VII. 22.) NFM rendelet 5. §-a iktatta be.
+[^365]: A 31. § (2) bekezdés 43. pontját az 58/2016. (XII. 23.) NFM rendelet 1. §-a iktatta be.
