@@ -32,9 +32,11 @@ a) a harmadik fél részére történő földi kiszolgálást végzők, valamint
 
 b) a repülőtér zajgátló védőövezetének kijelölésére irányuló,
 
-c) a légiközlekedési szakszemélyzet szakirányú képzéséhez szükséges engedélyek, képző szervezet engedélyek kiadására és módosítására irányuló, valamint
+c) a légiközlekedési szakszemélyzet szakirányú képzéséhez szükséges engedélyek, képző szervezet engedélyek kiadására és módosítására irányuló,
 
-d) repülésszimulációs oktatóeszköz engedélyének kiadására és módosítására irányuló
+d) repülésszimulációs oktatóeszköz engedélyének kiadására és módosítására irányuló,
+
+e) a léginavigációs szolgálatok tanúsítására irányuló hatósági eljárásokban.
 
 hatósági eljárásokban.
 
@@ -46,13 +48,15 @@ a) állami légi jármű és légijármű-berendezés karbantartó szervezetek j
 
 b) az állami légijárművekkel előforduló légiközlekedési balesetekkel és repülőeseményekkel kapcsolatos közigazgatási hatósági eljárás lefolytatása,
 
-c) az állami repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése, valamint
+c) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér létesítésének, fejlesztésének és megszüntetésének engedélyezése, valamint
 
-d) az állami repülések célját szolgáló repülőtér zajgátló védőövezetének kijelölése.
+d) az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér zajgátló védőövezetének kijelölése.
 
 (2g) A (2a) bekezdésben meghatározott eljárásban a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti függő hatályú döntésben nem kell rendelkezni a kérelmezett jog gyakorlásáról.
 
 (3) A légiközlekedési hatóságok eljárásáért jogszabályban meghatározott igazgatási szolgáltatási díjat kell fizetni. Az igazgatási szolgáltatási díj fizetésének feltételeit, módját és a díj összegét a miniszter az államháztartásért felelős miniszterrel egyetértésben rendeletben állapítja meg.
+
+(3a) A légiközlekedési hatósági eljárással összefüggő igazgatási szolgáltatási díj fizetése alól mentesül a Magyar Honvédség.
 
 (4) A katonai légügyi hatósági eljárással összefüggő igazgatási szolgáltatási díj megfizetése alól mentesül:
 

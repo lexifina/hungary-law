@@ -2,4 +2,4 @@
 
 54. § (1) A légijármű parancsnoka (a továbbiakban: parancsnok) a szakszemélyzetnek az az előírt szakszolgálati engedéllyel rendelkező tagja, akit e feladat ellátására a légijármű üzemben tartója jelöl ki.
 
-(2) A lajstromozásra nem kötelezett légijármű parancsnoka a légijármű vezetője.
+(2) A repülőeszköz parancsnoka a légijármű vezetője.

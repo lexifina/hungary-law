@@ -6,23 +6,17 @@ b) a katonai légügyi hatóság feladat- és hatáskörét,
 
 c) a nemzetközi repülések végrehajtásával összefüggésben a repülőterek igénybevételének általános szabályait,
 
-d)
+d) a 61. § (5) bekezdésben meghatározott költségátalány tekintetében a tényleges költségek és a terv költségek közötti lényeges eltérés esetére vonatkozó elszámolási szabályokat,
 
-e) az üzemben tartási engedély kötelező tartalmi elemeit,
-
-f) a légiközlekedési, valamint a légiközlekedéssel összefüggő tevékenységekre vonatkozó engedély tartalmával összefüggő általános szabályokat,
-
-g) a polgári légijármű és a polgári légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának általános szabályait,
-
-h) a légiközlekedési szakszemélyzet tagjainak körét, akiknek képzéséhez a légiközlekedési hatóság engedélye szükséges, továbbá a képzési engedély tartalmára vonatkozó általános szabályokat,
+e)–h)
 
 i) a bérbeadott légijármű üzemben tartásával kapcsolatos általános szabályokat,
 
 j) a nemzetközi repülőtérré nyilvánítás szabályait,
 
-k) a polgári légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassági bizonyítványa felfüggesztésének és bevonásának általános szabályait,
+k)
 
-l) a légialkalmassági bizonyítvány kötelező tartalmi elemeit, valamint az üzemben tartónak a légialkalmasság fenntartásával és igazolásával összefüggő általános feladatait,
+l)
 
 m) a polgári légiközlekedési balesetek esetére szóló nemzeti vészhelyzeti tervre és a polgári légiközlekedési balesetek áldozataira és azok hozzátartozóira vonatkozó légitársasági segítségnyújtási tervre vonatkozó szabályokat,
 
@@ -30,9 +24,9 @@ n) a légvédelmi készenléti gyakorlórepülések végrehajtásának általán
 
 o) a légijármű fel- és leszállásának, valamint a leszállóhely létesítésének engedélyezésére vonatkozó szabályokat,
 
-p) a külföldi szakszolgálati engedélyek elfogadásának általános szabályait és a gazdasági célú légiközlekedési tevékenység ellátásához a szakszolgálati engedéllyel rendelkező által teljesítendő általános feltételeket,
+p) a gazdasági célú légiközlekedési tevékenység ellátásához a szakszolgálati engedéllyel rendelkező által teljesítendő általános feltételeket,
 
-q) a légijármű parancsnoka kijelölésének módját, valamint a légijármű parancsnokának a repülés megkezdésével összefüggő általános feladatait,
+q)
 
 r) a magyar légtér igénybevételének, felügyeletének, az igénybevétel korlátozásának és tiltásának a szabályait,
 

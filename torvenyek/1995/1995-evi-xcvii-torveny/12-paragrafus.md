@@ -8,7 +8,7 @@
 
 ## A légijármű lajstrom
 
-12. § (1) A magyar polgári légijármű – a repülőmodell, a pilóta nélküli légijármű és a repülőeszköz kivételével – a légiközlekedésben akkor vehet részt, ha a légiközlekedési hatóság Magyarország Légijármű Lajstromába (a továbbiakban: lajstrom) felvette. A légiközlekedési hatóság a lajstromba vételről lajstromozási bizonyítványt és lajstromjelet ad ki.
+12. § (1) A magyar polgári légijármű – a pilóta nélküli légijármű és a repülőeszköz kivételével – a légiközlekedésben akkor vehet részt, ha a légiközlekedési hatóság Magyarország Légijármű Lajstromába (a továbbiakban: lajstrom) felvette. A légiközlekedési hatóság a lajstromba vételről lajstromozási bizonyítványt és lajstromjelet ad ki.
 
 (2) A magyar állami légijárművet a katonai légügyi hatóság veszi nyilvántartásba.
 

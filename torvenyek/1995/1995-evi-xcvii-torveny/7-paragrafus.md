@@ -10,4 +10,4 @@
 
 (3) NATO tagország, valamint az Európai Unió tagállama állami légijárművének a magyar légtérbe való belépéséhez nem szükséges az (1) bekezdésben meghatározott engedély kérése. A NATO tagállam, valamint az Európai Unió tagállama állami légijárművének a magyar légtérbe való belépése a nemzetközi előírásoknak megfelelő repülési terv benyújtásával történik.
 
-(4) A NATO műveleti alárendeltségű légvédelmi készenléti szolgálatot teljesítő külföldi állami légijárműnek feladata végrehajtásával összefüggésben repülési tervet nem kell benyújtania, a magyar légtérbe történő berepülését – a Kormány előzetes döntése alapján – a Magyar Honvédség Légierő Parancsnokság Ügyeletes Tábornoka engedélyezi.
+(4) A NATO műveleti alárendeltségű légvédelmi készenléti szolgálatot teljesítő külföldi állami légijárműnek feladata végrehajtásával összefüggésben repülési tervet nem kell benyújtania, a magyar légtérbe történő berepülését – a Kormány előzetes döntése alapján – a Magyar Honvédség Légierő Ügyeletes Parancsnoka engedélyezi.

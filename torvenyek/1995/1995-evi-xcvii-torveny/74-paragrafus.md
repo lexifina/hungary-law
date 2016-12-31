@@ -4,13 +4,13 @@ a) az agrárpolitikáért felelős miniszter, hogy a miniszterrel és a környez
 
 b) a miniszter, hogy a légiközlekedés biztonságos és zavartalan végrehajtását biztosító léginavigációs, távközlő, meteorológiai és egyéb berendezések létesítésének, megváltoztatásának, megszüntetésének, üzemben tartásának a részletes szabályait, valamint hatósági felügyeletének szabályait és rendjét,
 
-c) a miniszter, hogy – az állami repülések céljára szolgáló repülőtér kivételével – Magyarország területén lévő repülőtereket használó légijárművek földi ellenőrzései végrehajtásának a részletes szabályait,
+c) a miniszter, hogy a légijármű parancsnoka kijelölésének módját, valamint a légijármű parancsnokának a repülés megkezdésével összefüggő általános feladatait,
 
 d) az egészségügyért felelős miniszter, hogy a miniszterrel egyetértésben az ország területére légiközlekedési úton bejutó fertőző betegségek megelőzése érdekében történő ideiglenes korlátozások szabályait,
 
 e)
 
-f) a miniszter, hogy a repülőmodellek és repülőeszközök körét és engedélyezésük részletes szabályait,
+f)
 
 g) az egészségügyért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel és a miniszterrel egyetértésben a közegészségügyi légi beavatkozás szabályait,
 
@@ -22,7 +22,7 @@ j) a miniszter, hogy a környezetvédelemért felelős miniszterrel egyetértés
 
 k) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben a légtér-igénybevételi díj fizetésének feltételeit, mértékét és a díj fizetése alóli mentesség eseteit,
 
-l) a miniszter, hogy a polgári légiközlekedés tekintetében a légiközlekedési szakszemélyzet körét, a szakszemélyzetre vonatkozó részletes szabályokat, a szakszemélyzet képzésének a részletes szabályait, továbbá a szakszolgálati engedélyek fajtáinak, kiadásának, meghosszabbításának, felfüggesztésének és visszavonásának a részletes szabályait, a szakszolgálati engedélyek időbeni hatályát, a szakszolgálati engedélybe tehető bejegyzéseket, a szakszolgálati tevékenység ellátásával összefüggő jogokat és kötelezettségeket, a szakszolgálati engedélyek helyszíni elvételének és visszavonásának a szabályait – a rádiószolgálatok állomáskezelőire vonatkozó szabályok tekintetében az elektronikus hírközlésért felelős miniszterrel egyetértésben –,
+l) a miniszter, hogy a polgári légiközlekedés tekintetében a légiközlekedési szakszemélyzet körét, a szakszemélyzetre vonatkozó részletes szabályokat, a szakszemélyzet képzésének részletes szabályait, a képzés engedélyezésének szabályait, a képzési engedély tartalmára, kiadására, felfüggesztésére és visszavonására vonatkozó szabályokat, továbbá a szakszolgálati engedélyek fajtáinak, kiadásának, meghosszabbításának, felfüggesztésének és visszavonásának részletes szabályait, a szakszolgálati engedélyek időbeni hatályát, a szakszolgálati engedélybe tehető bejegyzéseket, a szakszolgálati tevékenység ellátásával összefüggő jogokat és kötelezettségeket, a szakszolgálati engedélyek helyszíni elvételének és visszavonásának a szabályait – a rádiószolgálatok állomáskezelőire vonatkozó szabályok tekintetében az elektronikus hírközlésért felelős miniszterrel egyetértésben –,
 
 m) a miniszter, hogy az érintett önkormányzatok véleményének kikérésével a környezetvédelemért felelős miniszterrel, valamint – állami repülések céljára szolgáló repülőtér esetében a honvédelmért felelős miniszterrel – egyetértésben a repülőtér környezetét a repülés káros hatásaival szemben kímélő eljárásokat, a zajszintkövetelményeket és a környezet védelme érdekében szükséges intézkedéseket,
 
@@ -58,7 +58,7 @@ rendeletben állapítsa meg.
 
 a) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértésben a légiközlekedési hatóságok eljárási díjai fizetésének feltételeit, módját és a díj összegét,
 
-b) a miniszter a 19. § (1) és (3) bekezdésében meghatározott esetekben, hogy az üzemben tartás feltételeit, az üzemben tartási engedély kiadásának, felfüggesztésének és visszavonásának a részletes szabályait,
+b) a miniszter, hogy a 19. § (1) és (3) bekezdésében meghatározott esetekben az üzemben tartás feltételeit, az üzemben tartási engedély tartalmi elemeit, valamint kiadásának, felfüggesztésének és visszavonásának részletes szabályait
 
 c) a honvédelemért felelős miniszter a miniszterrel és a rendészetért felelős miniszterrel egyetértésben, hogy a 19. § (4) bekezdésében meghatározott esetben az üzemben tartás feltételeinek a részletes szabályait, és az üzemben tartási engedély kiadásának, felfüggesztésének és visszavonásának a szabályait,
 
@@ -70,13 +70,13 @@ f) a miniszter, hogy a nyilvános és a polgári célú nem nyilvános repülőt
 
 g) a honvédelemért felelős miniszter, hogy az állami repülések céljára szolgáló repülőtér esetében a miniszterrel és a tűzvédelmi feltételek tekintetében a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a zajgátló védőövezetre vonatkozóan a környezetvédelemért felelős miniszterrel is egyetértésben – a 39. § (1) bekezdésében említett tevékenységek részletes műszaki követelményeit, továbbá az üzemben tartás és üzemeltetés feltételeinek a részletes szabályait,
 
-h) a miniszter, hogy a 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatának a részletes szabályait,
+h) a miniszter, hogy a 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó esetekben a légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek, típusalkalmassági vizsgálatának és a típusalkalmassági bizonyítvány kiadásának, felfüggesztésének és bevonásának részletes szabályait,
 
 i) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetért felelős miniszterrel egyetértésben az állami légijármű jelzéseinek és nyilvántartásának részletes szabályait, az állami légijármű és légiközlekedéssel kapcsolatos eszköz gyártásának, javításának és karbantartásának a légiközlekedéssel összefüggő részletes szabályait, az állami légijármű, illetve a légiközlekedéssel kapcsolatos eszköz típusalkalmassága feltételeinek és típusalkalmassági vizsgálatának a részletes szabályait,
 
 j) a honvédelemért felelős miniszter, hogy az állami célú légiközlekedés tekintetében a miniszterrel és a rendészetért felelős miniszterrel – a rádiószolgálatok állomáskezelőire vonatkozó szabályok vonatkozásában az elektronikus hírközlésért felelős miniszterrel is – egyetértésben a szakszolgálati engedélyek fajtáinak, szakmai feltételeinek, kiadásának, felfüggesztésének, valamint helyszíni elvételük és visszavonásuk szabályait,
 
-k) a miniszter, hogy egészségügyért felelős miniszterrel egyetértésben a szakszolgálati engedélyek kiadásának egészségügyi feltételeit,
+k) a miniszter, hogy az egészségügyért felelős miniszterrel egyetértésben a szakszolgálati engedélyek és a légiutas-kísérői tanúsítvány kiadásának egészségügyi feltételeit, a repülőeszközök vezetőire vonatkozó egészségügyi feltételeket, valamint a légiközlekedési szakszemélyzet tagjai és a repülőeszközök vezetői egészségügyi alkalmasságának megállapítását végző szervek kijelölésének és tevékenységének szabályait,
 
 l) a honvédelemért felelős miniszter, hogy egészségügyért felelős miniszterrel egyetértésben az állami célú légiközlekedés tekintetében a szakszolgálati engedélyek kiadásának egészségügyi feltételeit,
 
@@ -84,7 +84,7 @@ m) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetér
 
 n) a honvédelemért felelős miniszter, hogy a miniszterrel egyetértésben a Magyar Honvédség légvédelmi készenléti repüléseinek a részletes szabályait,
 
-o) a miniszter, hogy a polgári légijármű légialkalmassági követelményeinek, légialkalmassági vizsgálatának, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány kiadásának, felfüggesztésének a részletes szabályait, valamint helyszíni elvételének és visszavonásának a szabályait,
+o) a miniszter, hogy a 216/2008/EK európai parlamenti és tanácsi rendelet hatálya alá nem tartozó polgári légijármű légialkalmassági követelményeinek, légialkalmassági vizsgálatának szabályait, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány kötelező tartalmi elemeit, a légialkalmassági bizonyítvány és a légialkalmassági tanúsítvány kiadására, helyszíni elvételére és visszavonására vonatkozó szabályokat, továbbá a légialkalmasság fenntartásával és igazolásával összefüggő általános feladatokat és a feladat végrehajtásának felelősét,
 
 p) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetért felelős miniszterrel egyetértésben az állami légijármű légialkalmassági feltételeinek, a légialkalmassági vizsgálat rendjének, a légialkalmassági bizonyítvány kiadásának, felfüggesztésének a részletes szabályait, valamint helyszíni elvételének és visszavonásának a szabályait,
 
@@ -98,13 +98,13 @@ t) a miniszter, hogy az államháztartásért felelős miniszterrel egyetértés
 
 u) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben Magyarország légterében és repülőterein történő repülések végrehajtásának és a légiforgalmi szolgálatok ellátásának és eljárásainak a részletes szabályait
 
-v) a miniszter, hogy a repülésbiztonság összehangolt irányítása érdekében szükséges Nemzeti Repülésbiztonsági Programra és a Repülésbiztonság-irányítási Rendszer működtetésére vonatkozó részletes szabályokat
+v)
 
 w) a honvédelemért felelős miniszter, hogy – a külpolitikáért felelős miniszterrel egyetértésben – az állami szerv által igazolt állami célú nemzetközi repülésekhez és a magyar állami légijárművek nemzetközi repüléseihez szükséges engedélyezési eljárásrend részletes szabályait,
 
-x) a miniszter, hogy az egészségügyért felelős miniszterrel egyetértésben a lajstromozásra nem kötelezett légijárművek vezetőire vonatkozó egészségügyi feltételeket,
+x)
 
-y) a miniszter, hogy az egészségügyért felelős miniszterrel egyetértésben a légiközlekedési szakszemélyzet tagjai és a lajstromozásra nem kötelezett légijárművek vezetői egészségügyi alkalmasságának megállapítását végző szervek kijelölésének és tevékenységének szabályait,
+y)
 
 z) a miniszter, hogy a veszélyes áruk légi úton történő továbbítására használt csomagolóeszközök megfelelőség-értékelésének szabályait
 
@@ -120,12 +120,14 @@ c) a miniszter, hogy a lajstromba vétel feltételeit, a bejegyzés tartalmának
 
 d) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben Magyarország légiközlekedési terep és akadály adatbázisa adattartalmára vonatkozó szabályokat,
 
-e) a miniszter, hogy a honvédelemért felelős miniszterrel egyetértésben a pilóta nélküli légijárművek és a pilóta nélküli légijármű rendszerek gyártásának, engedélyezésének, üzemben tartásának, az azokkal végrehajtott repülések, a vezetőik képesítésének és az egészségügyért felelős miniszterrel egyetértésben a vezetőik egészségügyi alkalmasságának szabályait,
+e) a miniszter, hogy a honvédelemért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben a pilóta nélküli légijárművekkel végrehajtott repülések szabályait, a nyilvántartás részletes szabályait, a légialkalmassági vizsgálat rendjének, a légialkalmassági tanúsítvány kiadásának, felfüggesztésének részletes szabályait, a pilóta nélküli légijárművet vezetők képzésének részletes szabályait, a képzést végző szervezetek kijelölésének szabályait, a pilóta nélküli légijárművel végzett tevékenység részletes szabályait és az üzemben tartásának szabályait,
 
 f) a honvédelemért felelős miniszter, hogy a miniszterrel, az adópolitikáért felelős miniszterrel és a rendészetért felelős miniszterrel egyetértésben a pilóta nélküli állami légijárművek repülésének, illetve légijármű rendszerek üzemeltetésének, a vezetőik képesítésének és az egészségügyért felelős miniszterrel egyetértésben a vezetőik egészségügyi alkalmasságának szabályait, valamint az azokkal kapcsolatos hatósági eljárás részletes szabályait,
 
 g) a honvédelemért felelős miniszter, hogy a miniszterrel és a rendészetért felelős miniszterrel egyetértésben az egyes védett személyek állami légijárművel történő szállításának részletes szabályait,
 
-h) a honvédelemért felelős miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állami célú légiközlekedésben a földi kiszolgálás feltételeit és engedélyezésének rendjét
+h) a honvédelemért felelős miniszter, hogy a rendészetért felelős miniszterrel egyetértésben az állami célú légiközlekedésben a földi kiszolgálás feltételeit és engedélyezésének rendjét,
+
+i) a miniszter, hogy a repülőeszköz azonosító jelzéseinek és nyilvántartásának részletes szabályait,
 
 rendeletben állapítsa meg.

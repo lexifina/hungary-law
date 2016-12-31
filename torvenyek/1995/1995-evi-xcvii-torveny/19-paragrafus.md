@@ -18,7 +18,7 @@ c) a légiközlekedést szolgáló légiforgalmi földi berendezés
 
 (3) Az üzemben tartási engedélyt a légiközlekedési hatóság adja ki. Ha az üzemben tartási engedély tárgya rádióberendezés vagy rádióberendezést foglal magában, abban az esetben a légiközlekedési hatóság az engedélyt a Nemzeti Média- és Hírközlési Hatóság által külön jogszabály alapján kiadott rádióengedély megléte esetén adja ki.
 
-(4) Az állami repülések célját szolgáló repülőtér és a katonai repülések céljaira légiközlekedést szolgáló légiforgalmi földi berendezés üzemben tartására a katonai légügyi hatóság ad engedélyt.
+(4) Az állami repülések céljára szolgáló repülőtér, valamint a közös felhasználású repülőtér és az állami repülések céljaira légiközlekedést szolgáló légiforgalmi földi berendezés üzemben tartására a katonai légügyi hatóság ad engedélyt.
 
 (5) Ha az üzemben tartó az engedélyben és a jogszabályban előírt feltételeket súlyosan vagy tartósan megszegi, akkor az üzemben tartási engedélyt a kiadó hatóság felfüggeszti, vagy visszavonja.
 

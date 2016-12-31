@@ -18,7 +18,7 @@ h) az Európai Parlament és a Tanács 1008/2008/EK rendelete (2008. szeptember 
 
 i) a Bizottsági 859/2008/EK rendelete (2008. augusztus 20.) a 3922/91/EGK tanácsi rendeletnek a kereskedelmi célú repülőgépes közlekedési szolgáltatásokra alkalmazandó közös műszaki követelmények és közigazgatási eljárások tekintetében történő módosításáról, Melléklet Q rész,
 
-j) a Bizottság 185/2010/EU rendelete (2010. március 4.) a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról;
+j) a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló 2015. november 5-i (EU) 2015/1998 bizottsági végrehajtási rendelet a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról;
 
 k) a Bizottsági 255/2010/EU rendelete (2010. március 25.) a légiforgalomáramlás-szervezésre vonatkozó közös szabályok megállapításáról, 15. cikk;
 
@@ -30,7 +30,7 @@ n) a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedé
 
 o) az Európai Parlament és a Tanács 1070/2009/EK rendelete (2009. október 21.) az 549/2004/EK, az 550/2004/EK, az 551/2004/EK és az 552/2004/EK rendeletnek az európai légiközlekedési rendszer teljesítményének és fenntarthatóságának javítását célzó módosításáról;
 
-p) a 185/2010/EU rendeletnek az uniós légiközlekedés-védelmi ellenőrzés tekintetében történő módosításáról szóló 2012. november 9-ei 1082/2012/EU bizottsági végrehajtási rendelet,
+p)
 
 q) a légiforgalmi adatok és légiforgalmi tájékoztatások minőségével kapcsolatos követelményeknek az egységes európai égbolt keretében történő meghatározásáról szóló, 2010. január 26-ai 73/2010/EU bizottsági rendelet,
 

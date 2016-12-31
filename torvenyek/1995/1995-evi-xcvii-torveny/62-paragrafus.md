@@ -17,3 +17,5 @@ e) a légiforgalmi távközlési szolgálat ellátása,
 f) riasztó szolgálat ellátása,
 
 g) repüléstájékoztató szolgálat ellátása.
+
+h) légijármű eltűnése vagy kényszerhelyzetbe kerülése esetén a szükséges intézkedés kezdeményezése.

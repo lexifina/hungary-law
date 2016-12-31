@@ -8,7 +8,7 @@
 
 2. állami légijármű: a honvédelmi, vámhatósági, rendőrségi és határőrizeti szervek céljára szolgáló légijármű;
 
-3. ellenőrzött repülőtér: olyan repülőtér, ahol a repülőtéri forgalom részére légiforgalmi irányító szolgálatot, állami repülések céljára szolgáló repülőtér esetében katonai légiforgalmi irányító szolgálatot biztosítanak;
+3. ellenőrzött repülőtér: olyan repülőtér, ahol a repülőtéri forgalom részére légiforgalmi irányító szolgálatot, állami repülések céljára szolgáló repülőtér esetében katonai légiforgalmi irányító szolgálatot, közös felhasználású repülőtér esetében olyan légiforgalmi irányító szolgálatot biztosítanak, amely mind a polgári, mind a katonai előírásoknak megfelel;
 
 3a. gazdálkodó szervezet: a polgári perrendtartásról szóló törvény szerinti gazdálkodó szervezet;
 
@@ -84,13 +84,13 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 
 24. légifuvarozó: az, aki a gazdasági célú légiközlekedési tevékenység végzésére jogosult;
 
-25. légtérrendészeti feladat: harcászati repülőgép alkalmazása békeidőben a légtér-szuverenitás védelme és a légiközlekedés szabályainak betartása érdekében;
+25. légvédelmi készenléti légtérfelügyelet: harcászati repülőgép vagy a feladat végrehajtására alkalmas állami légijármű alkalmazása békeidőben a légtér-szuverenitás védelme és a légiközlekedés szabályainak betartása érdekében;
 
 26. nemzetbiztonsági érdek: a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 74. §-ának a) pontjában meghatározott érdek;
 
 27. gazdasági célú légiközlekedési tevékenység: személyek, áruk és postai küldemények ellenérték fejében légi úton történő továbbítása;
 
-28. légvédelmi készenléti repülés: a légvédelmi készenléti szolgálatot ellátó állami légijárművek valós és gyakorló repülése;
+28. légvédelmi készenléti repülés: a légvédelmi készenléti szolgálatot ellátó állami légijárművek valós, gyakorló és ellenőrző repülése;
 
 29. légi cél: azon légijármű, amely vonatkozásában a légvédelmi készenléti szolgálat számára elfogási feladat került meghatározásra.
 
@@ -104,14 +104,20 @@ g) veszélyes áru feladása légi úton történő továbbításra;
 
 34. komplex motoros meghajtású légijármű: a 216/2008/EK európai parlamenti és tanácsi rendelet 3. cikk j) pontjában meghatározott légijármű.
 
-35. pilóta nélküli légijármű: olyan – a pilóta nélküli légijármű rendszer elemét képző – távvezérelt légijármű, amelynek vezetését nem a fedélzeten tartózkodó személy végzi. Pilóta nélküli légijárműnek minősül az előző feltételeknek megfelelő önálló repülésre – részben, vagy teljesen – alkalmas és az önálló repülésre nem alkalmas távvezérelt légijármű is;
+35. pilóta nélküli légijármű: olyan polgári légijármű, amelyet úgy terveztek és úgy tartanak üzemben, hogy vezetését nem a fedélzeten tartózkodó személy végzi,
 
 36. pilóta nélküli légijármű rendszer: a légijárművet, a légijármű vezetéséhez szükséges távvezérlő munkaállomást és az ezek közötti folyamatos adatkapcsolatot nyújtó berendezést, valamint a légijárművel végrehajtott repüléshez szükséges egyéb berendezéseket magában foglaló rendszer;
 
-37. repülőmodell: olyan önálló repülésre nem képes, távvezérelt merev- vagy forgószárnyú légijármű, valamint ballon, amelynek vezetését nem a fedélzeten tartózkodó személy végzi, felhasználása kizárólag hobbi vagy szabadidő eltöltése céljából történik, továbbá a fedélzetén nincs adatrögzítésre, adatátvitelre, valamint helymeghatározásra alkalmas eszköz;
+37.
 
 38. katonai körzet: az a légtér, ahol a katonai repülésirányító szolgálatok nyújtanak szolgáltatást;
 
-39. repülőeszköz: a siklórepülő eszköz, a polgári ejtőernyő és a 216/2008/EK európai parlamenti és tanácsi rendelet II. Melléklet e) pontjában meghatározott egyszemélyes vagy 300 kg legnagyobb felszálló tömeget el nem érő repülőgép együttes megnevezése;
+39. repülőeszköz: siklórepülő eszköznek, ejtőernyőnek és a 216/2008/EK európai parlamenti és tanácsi rendelet II. Melléklet e) pontjában meghatározott egyszemélyes vagy 300 kg legnagyobb felszálló tömeget el nem érő repülőgépnek minősülő légijármű;
 
-40. siklórepülő eszköz: a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló miniszteri rendeletben meghatározott sárkányrepülő eszköz vagy siklóernyő.
+40. siklórepülő eszköz: a légijárművek gyártásáról, építéséről és műszaki alkalmasságáról szóló miniszteri rendeletben meghatározott sárkányrepülő eszköz vagy siklóernyő;
+
+41. közös felhasználású repülőtér: olyan, elsősorban az általános légiforgalomtól eltérő légijármű-mozgásokat kiszolgáló nem nyilvános repülőtér, amely kialakítása folytán rendelkezik a polgári légiközlekedés szabályainak megfelelő, polgári légiközlekedési tevékenység céljára szolgáló területtel, és amelyre eltérő rendelkezés hiányában az állami repülések céljára szolgáló repülőterekre vonatkozó jogszabályokat kell alkalmazni.
+
+42. pilóta nélküli állami légijármű: a honvédelmi, a vámhatósági, a rendőrségi és határőrizeti szervek céljára szolgáló olyan légijármű, amelyet úgy terveztek és úgy tartanak üzemben, hogy vezetését nem a fedélzeten tartózkodó személy végzi.
+
+43. harmadik országbeli állampolgár: a harmadik országbeli állampolgárok beutazásáról és tartózkodásáról szóló törvény 2. § a) pontjában meghatározott személy.

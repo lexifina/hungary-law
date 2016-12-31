@@ -26,7 +26,7 @@ vonatkozó rendelkezések megsértőivel szemben – a légiközlekedési bírs�
 
 a) a légiközlekedési hatóság,
 
-b) az (1) bekezdés g) pontjába tartozó esetekben – amennyiben az eljárás az általános rendőrségi feladatok ellátására létrehozott szervnél indult – az általános rendőrségi feladatok ellátására létrehozott szerv
+b) az (1) bekezdés g) pontjába tartozó esetekben, valamint a pilóta nélküli légijárművekre vonatkozó szabályok megsértése esetén – amennyiben az eljárás az általános rendőrségi feladatok ellátására létrehozott szervnél indult – az általános rendőrségi feladatok ellátására létrehozott szerv
 
 folytatja le.
 

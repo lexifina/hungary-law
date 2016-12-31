@@ -40,7 +40,7 @@ b) a d), az l), az n) és az o) pontjaiban felsorolt feladatokat a közlekedés�
 
 c)
 
-d) az f) pontjában említett feladatot – a honvédelemért felelős miniszter által ellátott katonai légtérrendészeti feladat kivételével – a rendészetért felelős miniszter és a közlekedésrendészetért felelős miniszter;
+d) az f) pontjában említett feladatot – a honvédelemért felelős miniszter által a légtér-szuverenitás védelme érdekében ellátott légvédelmi készenléti légtérfelügyelet kivételével – a rendészetért felelős miniszter és a közlekedésrendészetért felelős miniszter együttesen
 
 e) a h) pontjában említett feladatot a honvédelemért felelős miniszter a miniszterrel, a rendészetért felelős miniszterrel, valamint az adópolitikáért felelős miniszterrel együttesen;
 

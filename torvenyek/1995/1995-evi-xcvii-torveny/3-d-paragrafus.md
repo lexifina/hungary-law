@@ -16,7 +16,7 @@ g) légijármű légialkalmassági felülvizsgálata,
 
 h) légijárművet terhelő jelzálogjog és egyéb jog bejegyzése,
 
-i) szakszolgálati engedély kiadása, módosítása, hatályának meghosszabbítása,
+i)
 
 j) a léginavigációs szolgálatok tanúsítása a léginavigációs szolgálatoknak az egységes európai égbolt keretében történő ellátásáról szóló, 2004. március 10-i 550/2004/EK európai parlamenti és tanácsi rendelet alapján,
 
