@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-441-20-
 | --- | --- | --- |
 | 2016-12-17 | 2016-441-20-22.1 | 441/2016. (XII. 16.) Korm. rendelet |
 | 2016-12-18 | 2016-441-20-22.2 | 2010: CXXX. törvény |
+| 2016-12-31 | 2016-441-20-22.3 | Nemzeti Jogszabálytár (egységes szerkezet) |
