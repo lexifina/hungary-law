@@ -1,3 +1,0 @@
-## 14/B. §[^7] A hitelintézet a 8. melléklet I. pontjában foglalt „Összefoglaló tábla” megnevezésű táblázat 26. sora szerinti „Termékismertető – Számla” (Jelentéskód: 9SE) megnevezésű felügyeleti jelentést a pénz- és hitelpiaci szervezetek által a jegybanki információs rendszerhez elsődlegesen a Magyar Nemzeti Bank felügyeleti feladatai ellátása érdekében teljesítendő adatszolgáltatási kötelezettségekről szóló 51/2015. (XII. 9.) MNB rendelet módosításáról szóló 38/2016. (IX. 29.) MNB rendelet 2. mellékletével megállapított tartalommal első alkalommal a 2016. október 15-ei állapotra vonatkozóan teljesíti, a teljesítési határidő 2016. október 28.
-
-[^7]: A 14/B. §-t a 38/2016. (IX. 29.) MNB rendelet 1. §-a iktatta be.
