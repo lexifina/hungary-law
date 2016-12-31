@@ -1,0 +1,3 @@
+## 1. § Az energetikai auditorok és energetikai auditáló szervezetek által fizetendő regisztrációs és nyilvántartási díj összegére, megfizetésének módjára és visszatérítésére vonatkozó szabályokról szóló 7/2015. (X. 16.) MEKH rendelet (a továbbiakban: R.) 3. §-a helyébe a következő rendelkezés lép:
+
+## „3. § A regisztrációs díjat az energetikai auditálási tevékenység folytatásának szándékára vonatkozó bejelentéssel egyidejűleg a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: Hivatal) 10032000-01714373-00000000 számú fizetési számlájára (a továbbiakban: fizetési számla) történő készpénzbefizetéssel vagy az arra történő átutalással kell megfizetni.”
