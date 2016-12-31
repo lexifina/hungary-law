@@ -1,3 +1,0 @@
-30. § (1) A költségvetési támogatás jogszerű felhasználását a kincstár ellenőrizheti. Az ellenőrzéshez szükséges adatokat, dokumentumokat a kincstár írásos megkeresésére az OFI – a megkeresésnek az OFI-hoz történő beérkezésétől számított – tíz munkanapon belül a kincstárnak átadja.
-
-(2) A költségvetési támogatásban részesült fenntartótól a költségvetési támogatás folyósítását követő öt évig a költségvetési támogatás céljának szakmai megvalósulására vonatkozóan az OFI tájékoztatást kérhet és azt – előzetes egyeztetés alapján – a helyszínen és a költségvetési támogatásban részesült fenntartóval kötött szerződés szerinti módon is ellenőrizheti.
