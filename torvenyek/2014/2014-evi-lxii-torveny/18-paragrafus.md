@@ -1,1 +1,0 @@
-18. § Az Országgyűlés elrendeli, hogy az Ny. Alap a 10. § c) pontban megállapított 1298,5 millió forint összegű többletét a XLII. A költségvetés közvetlen bevételei és kiadásai fejezet, 5. Költségvetési befizetések cím, 5. Nyugdíjbiztosítási Alap befizetése alcím javára 2014. december 31-éig fizesse be.

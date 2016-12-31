@@ -1,5 +1,0 @@
-9. § (1) Az Országgyűlés az Egészségbiztosítási Alapnak (a továbbiakban: E. Alap) a 12. § c) pontjában megállapított 512,8 millió forint összegű hiányát az E. Alap KESZ hitelállományából 2014. december 29-ei hatállyal elengedi.
-
-(2) Az Országgyűlés elengedi a fővárosi és megyei kormányhivatal ingatlanügyi szakigazgatási szerve 2013. december 31-én fennálló, a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 10. § (4) bekezdésében és a Kvtv. 10. § (4) bekezdésében előírt, a központi költségvetés javára történő befizetési kötelezettségből eredő, együttesen 9 892 654 ezer forint tartozását.
-
-(3) A Kormány a Magyarország 2012. évi központi költségvetéséről szóló 2011. évi CLXXXVIII. törvény 27. § (1) bekezdésében meghatározott jogkörében eljárva hozta létre ugyanezen törvény 1. melléklete IX. Helyi önkormányzatok támogatásai és helyben maradó személyi jövedelemadója fejezetén belül a 82. Belterületi utak szilárd burkolattal való ellátása egyes fővárosi kerületi önkormányzatoknál címet. Az ezen címen kapott támogatás felhasználásának és elszámolásának határideje 2014. december 31.
