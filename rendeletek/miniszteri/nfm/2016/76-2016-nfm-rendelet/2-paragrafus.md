@@ -1,0 +1,1 @@
+## felett az államot megillető tulajdonosi jogok és kötelezettségek összességének gyakorlójaként 2026. október 31-ig a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaságot jelölöm ki.
