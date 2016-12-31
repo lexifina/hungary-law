@@ -46,3 +46,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1994-34-00-00
 | 2016-07-01 | 2016. évi LXIV. törvény | 1994-34-00-00.77 |
 | 2016-07-17 | 2016. évi LXIX. törvény | 1994-34-00-00.78 |
 | 2016-11-26 | 2016. évi CXVI. törvény | 1994-34-00-00.79 |
+| 2016-12-31 | 2016. évi CXXXVI. törvény | 1994-34-00-00.80 |
