@@ -1,3 +1,0 @@
-## 16. § A védelmi ellenőrzést végző személyek képzésének és vizsgáztatásának rendjéről szóló 69/2014. (XII. 18.) BM rendelet (a továbbiakban: Ver.) 2. § (3) bekezdésének helyébe a következő rendelkezés lép:
-
-## „(3) A védelmi ellenőrzést végző személynek (a továbbiakban: védelmi ellenőr) jelentkező a védelmi ellenőri felkészítést, a közös légiközlekedés-védelmi alapkövetelmények végrehajtásához szükséges részletes intézkedések meghatározásáról szóló, 2015. november 5-i 2015/1998/EU európai bizottsági végrehajtási rendelet (a továbbiakban: közös légiközlekedési EU rendelet) Melléklet 11.1.5. pontjára figyelemmel, a légiközlekedésről szóló törvényben meghatározott védelmi háttérellenőrzést követően kezdheti meg.”

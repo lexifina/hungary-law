@@ -1,4 +1,4 @@
-## 21–22. §[^5]
+## 21–22. §[^9]
 
 ## 10. Záró rendelkezések
 
@@ -6,4 +6,4 @@
 
 (2) Az 1. §, a 8–15. §, a 20–22. § 2017. január 1-jén lép hatályba.
 
-[^5]: A 21–22. § a 23. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^9]: A 21–22. § a 23. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
