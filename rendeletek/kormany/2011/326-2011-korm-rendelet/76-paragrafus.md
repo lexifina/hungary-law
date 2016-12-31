@@ -4,24 +4,24 @@
 
 76. §[^152] (1) A jármű műszaki alkalmasságának érvényességi idejét
 
-a) a forgalmi engedély „Műszaki érvényessége” rovatba bejegyzett időpont és a berögzített – egyedi sorszámmal ellátott – jelzőcsík (a továbbiakban: címke), illetve a bejegyzett időpont és a (3) bekezdés alapján a forgalmi engedélybe a közlekedési igazgatási hatóság által hitelesítetten bejegyzett címke sorszáma,
+a) a forgalmi engedély „Műszaki érvényessége” rovatba bejegyzett időpont és az időszakos vagy forgalomba helyezés előtti vizsgálat azonosítója,
 
-b) forgalomba nem helyezett jármű esetében – a jármű forgalomba helyezéséig – a közlekedési hatóság által kiadott „Műszaki Adatlap”, vagy
+b) forgalomba nem helyezett jármű esetében – a jármű forgalomba helyezéséig – a közlekedési hatóság által kiadott „Műszaki vizsgálati bizonyítvány”, vagy
 
 c) a forgalmi engedéllyel rendelkező jármű esetében – szabad érvényesítési hely hiányában – időszakos vizsgálat alapján a közlekedési hatóság által kiadott Műszaki vizsgálati bizonyítvány – a Műszaki vizsgálati bizonyítványban „Következő időszakos vizsgálat időpontja”-ként meghatározva –
 
 ## igazolja.
 
-(2) A címkével a jármű forgalmi engedélyét
+(2) Az időszakos vagy forgalomba helyezés előtti vizsgálat azonosítóját és a műszaki érvényességi időt a jármű forgalmi engedélyébe
 
 a) az időszakos vizsgálata során a közlekedési hatóság,
 
-b) egyéb esetekben a közlekedési igazgatási hatóság a közlekedési hatóság igazolása vagy a nyilvántartásban szereplő adatok alapján látja el.
+b) egyéb esetekben a közlekedési igazgatási hatóság a Műszaki vizsgálati bizonyítványban vagy a nyilvántartásban szereplő adatok alapján
 
-(3) A (2) bekezdés b) pontja esetében a címke sorszámát a forgalmi engedélybe be kell jegyezni.
+## jegyzi be.
 
-(4) A forgalmi engedély cseréjekor a közlekedési igazgatási hatóság az új típusú forgalmi engedélybe a címke sorszámát, a lejárati hónapot, valamint napot bejegyzi, és a bejegyzést lebélyegzi.
+(3) A (2) bekezdés a) és b) pontja szerinti bejegyzést le kell bélyegezni.
 
 [^150]: A 75/A. §-t a 15/2013. (I. 28.) Korm. rendelet 38. § (4) bekezdése iktatta be, az 544/2013. (XII. 30.) Korm. rendelet 26. §-ával megállapított szöveg.
 [^151]: A 17. alcím címe a 441/2015. (XII. 28.) Korm. rendelet 154. § (9) bekezdésével megállapított szöveg.
-[^152]: A 76. § a 441/2015. (XII. 28.) Korm. rendelet 154. § (10) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^152]: A 76. § a 440/2016. (XII. 16.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.

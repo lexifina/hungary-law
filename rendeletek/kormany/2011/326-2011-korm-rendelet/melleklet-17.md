@@ -196,7 +196,7 @@ Műszaki lap második oldalán:
 
 H – műszaki érvényessége
 
-– érvényesítő címke sorszáma
+– időszakos vagy forgalomba helyezés előtti vizsgálat azonosítója
 
 vontatásra vonatkozó adatokat***.
 
@@ -398,7 +398,7 @@ A forgalmi engedély második oldalán (Az irányelvben külön nem nevesített 
 
 – műszaki érvényességi idő
 
-érvényesítő címke sorszáma
+időszakos vagy forgalomba helyezés előtti vizsgálat azonosítója
 
 – Hivatalos feljegyzések
 
@@ -406,4 +406,4 @@ regisztrációs matrica rendszámot tartalmazó vonalkódja
 
 – A harmonizált közösségi kódok magyarázata
 
-[^246]: A 17. melléklet a 441/2015. (XII. 28.) Korm. rendelet 154. § (20) bekezdése szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^246]: A 17. melléklet a 441/2015. (XII. 28.) Korm. rendelet 154. § (20) bekezdése, a 440/2016. (XII. 16.) Korm. rendelet 20. §-a szerint módosított szöveg.

@@ -1,4 +1,4 @@
-84. § (1)[^158] A törzskönyvet a kérelmező a kérelem benyújtásakor tett, a közlekedési igazgatási hatóságnál történő átvételre vagy a kézbesítési címre vonatkozó nyilatkozatában foglaltaknak megfelelően a közlekedési igazgatási hatóságnál személyesen vagy postai úton veheti át.
+84. § (1)[^157] A törzskönyvet a kérelmező a kérelem benyújtásakor tett, a közlekedési igazgatási hatóságnál történő átvételre vagy a kézbesítési címre vonatkozó nyilatkozatában foglaltaknak megfelelően a közlekedési igazgatási hatóságnál személyesen vagy postai úton veheti át.
 
 (2) Az át nem vett törzskönyvet az értesítési cím szerint illetékes közlekedési igazgatási hatóság az okmány kiállításától számított egy évig megőrzi, ezt követően a Hivatalnak megsemmisítés céljából megküldi.
 
@@ -10,11 +10,11 @@
 
 a) a súlyos mozgáskorlátozott személyek közlekedési kedvezményeiről szóló rendeletben meghatározott időpontig, ha a járművet a tulajdonos az állam által nyújtott járművásárlási támogatás felhasználásával vette,
 
-b)[^159] a jármű V betűjelű ideiglenes rendszámtáblával történő ellátása során,
+b)[^158] a jármű V betűjelű ideiglenes rendszámtáblával történő ellátása során,
 
 c) a jármű DT, CK betűjelű különleges rendszámtáblával történő ellátása során,
 
-d)[^160] a jármű Z és SP betűjelű ideiglenes rendszámtáblával történő ellátása során, és
+d)[^159] a jármű Z és SP betűjelű ideiglenes rendszámtáblával történő ellátása során, és
 
 e) a négykerekű segédmotoros kerékpárok rendszámtáblával történő ellátása során.
 
@@ -26,9 +26,9 @@ b) a „haszonélvezeti joggal terhelt” bejegyzés, ha a járműre haszonélve
 
 c) a „közös tulajdon” bejegyzés, ha a jármű tulajdonjoga több személyt is megillet;
 
-d)[^161] az „előzetes eredetiségvizsgálat alól mentesült” bejegyzés, ha a jármű forgalomba helyezése vagy tulajdonjogában bekövetkezett változás nyilvántartásba vétele előzetes eredetiségvizsgálat elvégzése nélkül történik.
+d)[^160] az „előzetes eredetiségvizsgálat alól mentesült” bejegyzés, ha a jármű forgalomba helyezése vagy tulajdonjogában bekövetkezett változás nyilvántartásba vétele előzetes eredetiségvizsgálat elvégzése nélkül történik.
 
-[^158]: A 84. § (1) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
-[^159]: A 84. § (5) bekezdés b) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § p) pontja szerint módosított szöveg.
-[^160]: A 84. § (5) bekezdés d) pontja a 15/2013. (I. 28.) Korm. rendelet 38. § (5) bekezdésével megállapított szöveg.
-[^161]: A 84. § (6) bekezdés d) pontja az 544/2013. (XII. 30.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^157]: A 84. § (1) bekezdése a 418/2012. (XII. 29.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^158]: A 84. § (5) bekezdés b) pontja a 467/2015. (XII. 27.) Korm. rendelet 29. § p) pontja szerint módosított szöveg.
+[^159]: A 84. § (5) bekezdés d) pontja a 15/2013. (I. 28.) Korm. rendelet 38. § (5) bekezdésével megállapított szöveg.
+[^160]: A 84. § (6) bekezdés d) pontja az 544/2013. (XII. 30.) Korm. rendelet 30. §-ával megállapított szöveg.

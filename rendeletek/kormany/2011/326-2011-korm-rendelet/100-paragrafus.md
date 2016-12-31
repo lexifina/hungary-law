@@ -2,7 +2,7 @@
 
 100. § (1)[^177] A forgalmi engedély jogosultjaként nevesített üzemben tartó kérelmére a közlekedési igazgatási hatóság a járműnyilvántartásba való bejegyzéssel intézkedik a jármű ideiglenes forgalomból történő kivonásáról.
 
-(2)[^178] A jármű közúti forgalomból történő ideiglenes kivonása esetén a közlekedési igazgatási hatóság a kérelemben meghatározott időtartamra, de legfeljebb hat hónapra a rendszámtáblán lévő címke érvénytelenítése nélkül bejegyzi a kivonás időtartamát a járműnyilvántartásba. A kivonás időtartama újabb kérelemre, a kérelem benyújtásától vagy a kérelemben megjelölt időponttól számított legfeljebb 6 hónapra, ismételten meghosszabbítható. A forgalomból kivonás kezdő időpontjaként a kérelem benyújtásánál korábbi időpont nem vehető nyilvántartásba.
+(2)[^178] A jármű közúti forgalomból történő ideiglenes kivonása esetén a közlekedési igazgatási hatóság a kérelemben meghatározott időtartamra, de legfeljebb hat hónapra bejegyzi a kivonás időtartamát a járműnyilvántartásba.
 
 (3)[^179] Ha a gépjármű tulajdonosa, az üzemben tartója és a gépjármű törzskönyvével jogszerűen rendelkező érintett nem ugyanaz a személy, a tulajdonos vagy a törzskönyvvel jogszerűen rendelkező más ügyfél kérelmére a közlekedési igazgatási hatóság a jármű ideiglenes forgalomból történő kivonásáról, meghosszabbításáról és forgalomba történő visszahelyezéséről határozatot hoz.
 
@@ -17,6 +17,6 @@
 (8) A közúti forgalomból történő ideiglenes kivonás időtartamának lejáratát követően a jármű a közúti forgalomban külön közlekedési igazgatási eljárás nélkül részt vehet, feltéve, hogy az ahhoz szükséges egyéb jogszabályi feltételeknek megfelel.
 
 [^177]: A 100. § (1) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 20. §-ával megállapított szöveg.
-[^178]: A 100. § (2) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 20. §-ával megállapított szöveg.
+[^178]: A 100. § (2) bekezdése a 440/2016. (XII. 16.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
 [^179]: A 100. § (3) bekezdése a 280/2013. (VII. 24.) Korm. rendelet 20. §-ával megállapított szöveg.
 [^180]: A 100. § (6) bekezdése az 5/2013. (I. 16.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
