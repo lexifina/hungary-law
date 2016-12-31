@@ -52,3 +52,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1998-19-00-00
 | 2016-01-01 | 2015. évi CCXXII. törvény | 1998-19-00-00.81 |
 | 2016-10-28 | 2016. évi CIII. törvény | 1998-19-00-00.82 |
 | 2016-11-26 | 2016. évi CXXI. törvény | 1998-19-00-00.83 |
+| 2016-12-31 | 15/2016. (IX. 21.) AB határozat | 1998-19-00-00.84 |
