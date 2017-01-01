@@ -1,4 +1,4 @@
-14. §[^38] (1) A hatóság a felső küszöbértékű veszélyes anyagokkal foglalkozó üzemeket legalább évente, az alsó küszöbértékű veszélyes anyagokkal foglalkozó üzemeket legalább háromévente egyszer a biztonsági irányítási rendszerre vagy az irányítási rendszerre, azon belül az üzemeltető által hozott intézkedésekre, jelentésekre és egyéb nyomon követési dokumentumokra is kiterjedően ellenőrzi (a továbbiakban: időszakos hatósági ellenőrzés).
+14. §[^39] (1) A hatóság a felső küszöbértékű veszélyes anyagokkal foglalkozó üzemeket legalább évente, az alsó küszöbértékű veszélyes anyagokkal foglalkozó üzemeket legalább háromévente egyszer a biztonsági irányítási rendszerre vagy az irányítási rendszerre, azon belül az üzemeltető által hozott intézkedésekre, jelentésekre és egyéb nyomon követési dokumentumokra is kiterjedően ellenőrzi (a továbbiakban: időszakos hatósági ellenőrzés).
 
 (2) Az előre meghatározott ellenőrző vizsgálati program szerinti időszakos hatósági ellenőrzés esetében az (1) bekezdésben foglaltakon túl különös figyelemmel kell lenni arra, hogy:
 
@@ -12,4 +12,4 @@ b) a biztonsági jelentésben, a biztonsági elemzésben vagy a belső védelmi 
 
 (5) A hatósági ellenőrzés során feltárt súlyos hiányosság esetén a hatósági ellenőrzést követő hat hónapon belül a hatóság utólagos hatósági ellenőrzést tart.
 
-[^38]: A 14. § a 34/2015. (II. 27.) Korm. rendelet 9. §-áva megállapított szöveg.
+[^39]: A 14. § a 34/2015. (II. 27.) Korm. rendelet 9. §-áva megállapított szöveg.

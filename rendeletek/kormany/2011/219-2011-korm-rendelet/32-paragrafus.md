@@ -1,6 +1,6 @@
-## 31/A. §[^82] Ha valamely üzemeltető úgy ítéli meg, hogy a veszélyes anyagok vagy keverékek valamelyike a besorolása ellenére nem hordozza magában a súlyos baleset veszélyét, annak egészségi, fizikai és környezeti veszéllyel kapcsolatos tulajdonságainak értékeléséhez a 13. melléklet szerinti információkat megküldi a hatóság részére.
+## 31/A. §[^83] Ha valamely üzemeltető úgy ítéli meg, hogy a veszélyes anyagok vagy keverékek valamelyike a besorolása ellenére nem hordozza magában a súlyos baleset veszélyét, annak egészségi, fizikai és környezeti veszéllyel kapcsolatos tulajdonságainak értékeléséhez a 13. melléklet szerinti információkat megküldi a hatóság részére.
 
-## 13.[^83] A hatóság nemzetközi feladatai
+## 13.[^84] A hatóság nemzetközi feladatai
 
 32. § (1) A hatóság a veszélyes anyagokkal foglalkozó üzemekről és a küszöbérték alatti üzemekről és a 30–31. §-ban foglaltak szerint kapott információkról nyilvántartást vezet. A hatóság központi szerve a nyilvántartásban szereplő adatokról az Európai Bizottság vonatkozó előírásainak figyelembevételével tájékoztatja az Európai Unió illetékes szervét.
 
@@ -12,5 +12,5 @@
 
 (5) A hatóság központi szerve az Európai Unió döntéshozatali tevékenységében történő magyar részvétel szabályainak megfelelően a 31/A. § szerint az üzemeltető által megküldött információkat, azok megalapozottsága esetén továbbítja az Európai Bizottság részére.
 
-[^82]: A 31/A. §-t a 34/2015. (II. 27.) Korm. rendelet 22. §-a iktatta be.
-[^83]: A 13. alcím (32. §) a 34/2015. (II. 27.) Korm. rendelet 23. §-ával megállapított szöveg.
+[^83]: A 31/A. §-t a 34/2015. (II. 27.) Korm. rendelet 22. §-a iktatta be.
+[^84]: A 13. alcím (32. §) a 34/2015. (II. 27.) Korm. rendelet 23. §-ával megállapított szöveg.

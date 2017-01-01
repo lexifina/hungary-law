@@ -1,4 +1,4 @@
-7. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^150]
+7. melléklet a 219/2011. (X. 20.) Korm. rendelethez[^156]
 
 A hatósági engedélyezési és felügyeleti tevékenység során alkalmazott követelmények,
 
@@ -224,7 +224,7 @@ ab) felsőfokú katasztrófavédelmi, polgári védelmi vagy tűzvédelmi szakma
 
 ac) az a) pont aa) és ab) alpont szerinti szakterületen legalább ötéves szakmai gyakorlattal rendelkező szakembert foglalkoztatni,
 
-b) a veszélyes anyagokkal kapcsolatos súlyos baleset által való veszélyeztetés értékeléséhez az általánosan elismert nemzetközi gyakorlatban alkalmazott és a hatóság által elfogadott szoftvert alkalmazni.
+b) a veszélyes anyagokkal kapcsolatos súlyos baleset által való veszélyeztetés értékeléséhez az általánosan elismert nemzetközi gyakorlatban alkalmazott és a hatóság központi szerve által elfogadott szoftvert alkalmazni.
 
 6.2. A veszélyes anyagokkal foglalkozó üzem üzemeltetője veszélyes ipari védelmi ügyintézőt köteles alkalmazni vagy megbízni, aki legalább középfokú műszaki végzettséggel, és
 
@@ -250,4 +250,4 @@ f) részt vesz a hatósági ellenőrzéseken és a helyszíni szemléken.
 
 6.5. A veszélyes ipari védelmi ügyintéző alkalmazását vagy megbízását követően a veszélyes anyagokkal foglalkozó üzem üzemeltetője 8 napon belül a hatóság felé bejelenti a veszélyes ipari védelmi ügyintéző nevét, telefonszámát.
 
-[^150]: A 7. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (5) bekezdése, a 34/2015. (II. 27.) Korm. renedelet 30. § (4) bekezdése szerint módosított szöveg.
+[^156]: A 7. melléklet a 476/2013. (XII. 17.) Korm. rendelet 23. § (5) bekezdése, a 34/2015. (II. 27.) Korm. renedelet 30. § (4) bekezdése, a 441/2016. (XII. 16.) Korm. rendelet 43. § d) pontja szerint módosított szöveg.
