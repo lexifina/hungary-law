@@ -10,7 +10,7 @@
 
 ## e) szájpadhasadék műtéti korrekciója,
 
-## f)[^47] gége-garat, légcső és tüdő speciális műtéti beavatkozásai,
+## f)[^53] gége-garat, légcső és tüdő speciális műtéti beavatkozásai,
 
 ## g) nyelőcső elváltozások műtéti beavatkozásai,
 
@@ -22,7 +22,7 @@
 
 ## k) keringési rendszer veleszületett rendellenességeinek műtéti beavatkozásai,
 
-## l)[^48] szív ingerképzési és vezetési zavarok gyógyszeres, pacemaker vagy ICD (Implantable Cardioverter Defibrillator) általi kezelése,
+## l)[^54] szív ingerképzési és vezetési zavarok gyógyszeres, pacemaker vagy ICD (Implantable Cardioverter Defibrillator) általi kezelése,
 
 ## m) csont-ízületi fejlődési rendellenességek műtéti ellátása,
 
@@ -34,13 +34,13 @@
 
 ## q) a beavatkozást követő hazaszállítás költségeinek határig történő biztosítása,
 
-## r)[^49] az endokrin szervek veleszületett rendellenességeinek műtéti beavatkozással történő kezelése,
+## r)[^55] az endokrin szervek veleszületett rendellenességeinek műtéti beavatkozással történő kezelése,
 
-## s)[^50] az a)-r) pont szerinti kórképek megállapítására irányuló, a beteg lakóhelye szerinti országban megkezdett diagnosztika kiegészítése a magyarországi szakmai irányelveknek megfelelően,
+## s)[^56] az a)-r) pont szerinti kórképek megállapítására irányuló, a beteg lakóhelye szerinti országban megkezdett diagnosztika kiegészítése a magyarországi szakmai irányelveknek megfelelően,
 
-## t)[^51] az a)-r) pont szerinti – e rendelet alapján engedélyezett és támogatott – ellátásokhoz kapcsolódó, szakmai irányelvek alapján indokolt kontroll végzése.
+## t)[^57] az a)-r) pont szerinti – e rendelet alapján engedélyezett és támogatott – ellátásokhoz kapcsolódó, szakmai irányelvek alapján indokolt kontroll végzése.
 
-3. számú melléklet az 59/2007. (XII. 29.) EüM rendelethez[^52]
+3. számú melléklet az 59/2007. (XII. 29.) EüM rendelethez[^58]
 
 ADATLAP
 
@@ -300,9 +300,9 @@ A felvétel dátuma (óra, perc pontossággal). Az a regisztrált időpont, amik
 
 A távozás tervezett dátuma (év, hó, nap pontossággal).
 
-[^47]: A 2. számú melléklet f) pontja az 52/2014. (XII. 19.) EMMI rendelet 8. §-ával megállapított szöveg.
-[^48]: A 2. számú melléklet l) pontja az 52/2014. (XII. 19.) EMMI rendelet 8. §-ával megállapított szöveg.
-[^49]: A 2. számú melléklet r) pontja az 52/2014. (XII. 19.) EMMI rendelet 8. §-ával megállapított szöveg.
-[^50]: A 2. számú melléklet s) pontja az 52/2014. (XII. 19.) EMMI rendelet 8. §-ával megállapított szöveg.
-[^51]: A 2. számú melléklet t) pontját az 52/2014. (XII. 19.) EMMI rendelet 8. §-a iktatta be.
-[^52]: A 3. számú mellékletet a 9/2012. (VII. 13.) EMMI rendelet 8. § (3) bekezdése iktatta be.
+[^53]: A 2. számú melléklet f) pontja az 52/2014. (XII. 19.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^54]: A 2. számú melléklet l) pontja az 52/2014. (XII. 19.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^55]: A 2. számú melléklet r) pontja az 52/2014. (XII. 19.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^56]: A 2. számú melléklet s) pontja az 52/2014. (XII. 19.) EMMI rendelet 8. §-ával megállapított szöveg.
+[^57]: A 2. számú melléklet t) pontját az 52/2014. (XII. 19.) EMMI rendelet 8. §-a iktatta be.
+[^58]: A 3. számú mellékletet a 9/2012. (VII. 13.) EMMI rendelet 8. § (3) bekezdése iktatta be.
