@@ -12,7 +12,7 @@ b) a haszonbérbe adandó védett területek együttes térmértéke nem haladja
 
 (5) A pályázati eljárásban résztvevő pályázókra vonatkozó előírások kapcsán a 26. § (2) bekezdés b) pontját nem kell alkalmazni.
 
-(6)[^114] A pályázó a pályázatát zárt borítékban, legalább két példányban – ebből egy példányt minden oldalon eredetiben cégszerű aláírással, természetes személyeknél eredeti aláírással, illetve a meghatalmazott aláírásával ellátva – köteles a pályázat benyújtására nyitva álló határidőben, a megadott helyen, az adott pályázati azonosítószám feltüntetésével, személyesen vagy meghatalmazott útján benyújtani.
+(6)[^114] A pályázó a pályázatát köteles a pályázat benyújtására nyitva álló határidőben, a pályázati azonosítószám feltüntetésével elektronikus úton benyújtani.
 
 (7) A 14. § (1) bekezdésében foglaltakon túl érvénytelen az a pályázat is, ha a pályázati eljárás kezdő napját megelőző
 
@@ -35,6 +35,6 @@ b)[^116]
 c) a régi magyar háziállatfajták tartását, tenyésztését és genetikai állományának megőrzését végzi, különös tekintettel a legeltetett fajokra és fajtákra.
 
 [^113]: A 43/D. § (2) bekezdés a) pontját a 153/2013. (V. 24.) Korm. rendelet 20. § f) pontja hatályon kívül helyezte.
-[^114]: A 43/D. § (6) bekezdése a 91/2014. (III. 20.) Korm. rendelet 12. § m) pontja szerint módosított szöveg.
+[^114]: A 43/D. § (6) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 49. § (2) bekezdésével megállapított szöveg.
 [^115]: A 43/D. § (10) bekezdés a) pontja a 91/2014. (III. 20.) Korm. rendelet 12. § n) pontja szerint módosított szöveg.
 [^116]: A 43/D. § (10) bekezdés b) pontját a 405/2012. (XII. 28.) Korm. rendelet 33. § d) pontja hatályon kívül helyezte.

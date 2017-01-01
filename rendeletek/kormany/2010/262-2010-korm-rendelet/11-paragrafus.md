@@ -1,6 +1,6 @@
 ## A pályázat és az ajánlati kötöttség
 
-11. § (1)[^39] A pályázó a pályázatát zárt borítékban, egy példányban – minden oldalon eredetiben cégszerű aláírással, természetes személyeknél eredeti aláírással, illetve a meghatalmazott aláírásával ellátva – köteles a pályázat benyújtására nyitva álló határidőben, a megadott helyen, az adott pályázati azonosítószám feltüntetésével, személyesen vagy meghatalmazott útján benyújtani.
+11. § (1)[^39] A pályázó a pályázatát köteles a pályázat benyújtására nyitva álló határidőben, a pályázati azonosítószám feltüntetésével elektronikus úton benyújtani.
 
 (2) A pályázó meghatalmazottja köteles közokirattal vagy ügyvéd által ellenjegyzett magánokirattal igazolni képviseleti jogosultságát, illetve annak terjedelmét.
 
@@ -36,5 +36,5 @@ e) hamis adat szolgáltatása miatt nem zárták ki állami vagyon hasznosítás
 
 (11) A pályázó az NFA felhívására, a megjelölt határidőig köteles a pályázatában foglaltakat igazolni.
 
-[^39]: A 11. § (1) bekezdése a 153/2013. (V. 24.) Korm. rendelet 5. §-ával megállapított, a 91/2014. (III. 20.) Korm. rendelet 12. § e) pontja szerint módosított szöveg.
+[^39]: A 11. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 49. § (1) bekezdésével megállapított szöveg.
 [^40]: A 11. § (6) bekezdése a 161/2011. (VIII. 18.) Korm. rendelet 11. §-ával megállapított szöveg.
