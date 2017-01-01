@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-34-20-1
 | 2012-12-19 | 2009-34-20-1X.6 | 35/2012. (XII. 14.) NGM rendelet |
 | 2014-01-01 | 2009-34-20-1X.7 | 35/2012. (XII. 14.) NGM rendelet |
 | 2016-08-23 | 2009-34-20-1X.8 | 35/2012. (XII. 14.) NGM rendelet |
+| 2017-01-01 | 2009-34-20-1X.9 | 56/2016. (XII. 22.) NGM rendelet |
