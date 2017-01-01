@@ -1,12 +1,12 @@
-10/E. §[^85] (1)[^86] Az első, a Tfr. 7. § (8) bekezdése szerinti hasonló biológiai gyógyszer (a továbbiakban: hasonló biológiai gyógyszer) befogadásával egy időben az OEP kialakítja – a 10/G. §-ban meghatározott indikációs pontok alá befogadott, illetve a 10/G. §-ban meghatározott indikációs pontok szerinti feltételeknek megfelelő gyógyszerek kivételével – a biológiai gyógyszerek csoportját.
+10/E. §[^100] (1)[^101] Az első, a Tfr. 7. § (8) bekezdése szerinti hasonló biológiai gyógyszer (a továbbiakban: hasonló biológiai gyógyszer) befogadásával egy időben a NEAK kialakítja – a 10/G. §-ban meghatározott indikációs pontok alá befogadott, illetve a 10/G. §-ban meghatározott indikációs pontok szerinti feltételeknek megfelelő gyógyszerek kivételével – a biológiai gyógyszerek csoportját.
 
-(2)[^87] Az OEP az OGYTT véleményét figyelembe véve a honlapján folyamatosan közzéteszi az egyes biológiai gyógyszerek szakmai szempontok alapján meghatározott csoportjait, jelöli a csoport egyes készítményei esetében a preferált biológiai gyógyszereket, valamint a (12)–(14) bekezdés alapján meghatározott kötelező minimális rendelési arányt.
+(2)[^102] A NEAK az OGYTT véleményét figyelembe véve a honlapján folyamatosan közzéteszi az egyes biológiai gyógyszerek szakmai szempontok alapján meghatározott csoportjait, jelöli a csoport egyes készítményei esetében a preferált biológiai gyógyszereket, valamint a (12)–(14) bekezdés alapján meghatározott kötelező minimális rendelési arányt.
 
 (3) Azonos csoportba kerülnek azok a gyógyszerek, amelyek a finanszírozott indikációs körben orvosszakmai szempontok alapján egyaránt választhatóak a korábban kezelésben nem részesülő beteg részére. A csoportképzés során meghatározásra kerül gyógyszerenként az adott gyógyszer támogatásának alapjául szolgáló terápiás egység, és annak mértéke, hogy az adott gyógyszer hány napra elegendő terápiás egységet tartalmaz. Ezek alapján kerül meghatározásra a készítmény közfinanszírozás alapjául elfogadott bruttó fogyasztói árából számított napi terápiás költség. Ennek során figyelembe kell venni a gyógyszer alkalmazási előírását és a DDD-t.
 
-(4) Az OEP az (1)–(2) bekezdésben meghatározott csoportok közül azokban, amelyek legalább 3 hónapja kialakításra kerültek, minden naptári év március 1-jével hivatalból eljárást indít, amelynek keretében meghatározza a július 1-jétől egy éven keresztül érvényes preferált biológiai gyógyszerek körét és a csoportba tartozó készítmények támogatását.
+(4)[^103] A NEAK az (1)–(2) bekezdésben meghatározott csoportok közül azokban, amelyek legalább 3 hónapja kialakításra kerültek, minden naptári év március 1-jével hivatalból eljárást indít, amelynek keretében meghatározza a július 1-jétől egy éven keresztül érvényes preferált biológiai gyógyszerek körét és a csoportba tartozó készítmények támogatását.
 
-(5) Az eljárás során az adott gyógyszer forgalomba hozatali engedélyének jogosultja, forgalmazója március 20. napjáig teheti meg az OEP honlapján működtetett nyilvántartásában árcsökkentési ajánlatát.
+(5)[^104] Az eljárás során az adott gyógyszer forgalomba hozatali engedélyének jogosultja, forgalmazója március 20. napjáig teheti meg a NEAK honlapján működtetett nyilvántartásában árcsökkentési ajánlatát.
 
 (6) A megtett árajánlatok az árváltoztatásra nyitva álló határidő lejártát követő első munkanapon válnak nyilvánossá. Az eljárás során az ajánlattevő a nyitva álló határidőben tett utolsó ajánlatához kötve marad.
 
@@ -16,7 +16,7 @@
 
 (9) Amennyiben a nem preferált biológiai gyógyszer napi terápiás költsége alacsonyabb vagy legfeljebb 10%-kal haladja meg a legalacsonyabb napi terápiás költségű preferált biológiai gyógyszer napi terápiás költségét, a (7) bekezdés szerint meghatározott támogatási összeget kapja terápiás egységenként oly módon, hogy a kiszerelési egységre meghatározott térítési díj nem lehet kevesebb, mint 1500 Ft.
 
-(10)[^88] Amennyiben a nem preferált biológiai gyógyszer napi terápiás költsége több mint 10%-kal, de legfeljebb 50%-kal haladja meg a legalacsonyabb napi terápiás költségű preferált biológiai gyógyszer napi terápiás költségét, úgy a kiszerelési egységre meghatározott térítési díja minimálisan 1500 Ft, de legfeljebb a maximált térítési díj, amely 3500 Ft. A forgalomba hozatali engedély jogosultja a Gyftv. 26. § (5) bekezdés a) pontja szerint dobozonként, havi összesítésben megtéríti a legalacsonyabb napi terápiás költségű preferált biológiai gyógyszer fogyasztói áránál 10%-kal magasabb árhoz nyújtható támogatás és a maximált térítési díj együttes összegének a fogyasztói árhoz viszonyított különbözetét.
+(10)[^105] Amennyiben a nem preferált biológiai gyógyszer napi terápiás költsége több mint 10%-kal, de legfeljebb 50%-kal haladja meg a legalacsonyabb napi terápiás költségű preferált biológiai gyógyszer napi terápiás költségét, úgy a kiszerelési egységre meghatározott térítési díja minimálisan 1500 Ft, de legfeljebb a maximált térítési díj, amely 3500 Ft. A forgalomba hozatali engedély jogosultja a Gyftv. 26. § (5) bekezdés a) pontja szerint dobozonként, havi összesítésben megtéríti a legalacsonyabb napi terápiás költségű preferált biológiai gyógyszer fogyasztói áránál 10%-kal magasabb árhoz nyújtható támogatás és a maximált térítési díj együttes összegének a fogyasztói árhoz viszonyított különbözetét.
 
 (11) Az a hasonló biológiai gyógyszer, amelynek a befogadására év közben kerül sor, a preferált biológiai gyógyszerek közé kerül besorolásra, kivéve ha a Gyftv. 29. § (4) bekezdés b) pontja szerinti bejelentés alapján társadalombiztosítási támogatással nem rendelkező gyógyszerek közé sorolt biológiai gyógyszer egy éven belül ismételt befogadását kéri. Ebben az esetben a gyógyszer nem preferált biológia gyógyszerré válik és a térítési díjának számításához a (7) bekezdésben foglaltakat kell értelemszerűen alkalmazni.
 
@@ -28,10 +28,12 @@ a) a preferált biológiai gyógyszer első alkalommal történő meghatározás
 
 b) a preferált biológiai gyógyszer első alkalommal történő meghatározását követő második évben és azt követően minden év július 1-je és az azt követő év július 1. napja közötti időszakban legalább 70%.
 
-(14)[^89] A (12)–(13) bekezdésben foglaltaktól eltérően a növekedési hormonok esetén az első hasonló biológiai gyógyszer befogadását követően az adott csoportba tartozó minden további hasonló biológiai gyógyszer együttes, a rendelésére jogosult orvosokra vonatkozó biológiai gyógyszerekre meghatározott terápiás egységben számolt kötelező minimális rendelési aránya a befogadást követően legalább 10%.
+(14)[^106] A (12)–(13) bekezdésben foglaltaktól eltérően a növekedési hormonok esetén az első hasonló biológiai gyógyszer befogadását követően az adott csoportba tartozó minden további hasonló biológiai gyógyszer együttes, a rendelésére jogosult orvosokra vonatkozó biológiai gyógyszerekre meghatározott terápiás egységben számolt kötelező minimális rendelési aránya a befogadást követően legalább 10%.
 
-[^85]: A 10/E. §-t a 2/2012. (I. 3.) NEFMI rendelet iktatta be.
-[^86]: A 10/E. § (1) bekezdése a 38/2015. (VIII. 17.) EMMI rendelet 1. §-ával megállapított szöveg.
-[^87]: A 10/E. § (2) bekezdése a 10/2013. (I. 31.) EMMI rendelet 12. § d) pontja szerint módosított szöveg.
-[^88]: A 10/E. § (10) bekezdése a 7/2014. (I. 29.) EMMI rendelet 8. § h) pontja szerint módosított szöveg.
-[^89]: A 10/E. § (14) bekezdését a 10/2013. (I. 31.) EMMI rendelet 6. §-a iktatta be.
+[^100]: A 10/E. §-t a 2/2012. (I. 3.) NEFMI rendelet iktatta be.
+[^101]: A 10/E. § (1) bekezdése a 38/2015. (VIII. 17.) EMMI rendelet 1. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 35. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^102]: A 10/E. § (2) bekezdése a 10/2013. (I. 31.) EMMI rendelet 12. § d) pontja, az 54/2016. (XII. 30.) EMMI rendelet 35. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^103]: A 10/E. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 35. § (1) bekezdés d) pontja szerint módosított szöveg.
+[^104]: A 10/E. § (5) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 35. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^105]: A 10/E. § (10) bekezdése a 7/2014. (I. 29.) EMMI rendelet 8. § h) pontja szerint módosított szöveg.
+[^106]: A 10/E. § (14) bekezdését a 10/2013. (I. 31.) EMMI rendelet 6. §-a iktatta be.

@@ -1,4 +1,4 @@
-17. §[^113][^114]
+17. §[^137][^138]
 
-[^113]: A 16–18. §-t az 53/2006. (XII. 28.) EüM rendelet 19. § – a 6/2007. (I. 31.) EüM rendelet 6. § (6) bekezdése szerint átszámozott – (6) bekezdése hatályon kívül helyezte.
-[^114]: A 16–18. §-t az 53/2006. (XII. 28.) EüM rendelet 19. § – a 6/2007. (I. 31.) EüM rendelet 6. § (6) bekezdése szerint átszámozott – (6) bekezdése hatályon kívül helyezte.
+[^137]: A 16–18. §-t az 53/2006. (XII. 28.) EüM rendelet 19. § – a 6/2007. (I. 31.) EüM rendelet 6. § (6) bekezdése szerint átszámozott – (6) bekezdése hatályon kívül helyezte.
+[^138]: A 16–18. §-t az 53/2006. (XII. 28.) EüM rendelet 19. § – a 6/2007. (I. 31.) EüM rendelet 6. § (6) bekezdése szerint átszámozott – (6) bekezdése hatályon kívül helyezte.

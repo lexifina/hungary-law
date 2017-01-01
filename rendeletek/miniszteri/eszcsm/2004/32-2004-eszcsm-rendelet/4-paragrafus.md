@@ -4,7 +4,7 @@
 
 4. §[^30] (1) A gyógyszerek társadalombiztosítási támogatásba történő befogadása során a Gyftv. 26. §-ának (1) bekezdése szerinti támogatási összegek számítása az 1. számú melléklet táblázatában feltüntetett maximálisan adható százalékos mértékeket alapul véve történik. Az E. Alapból támogatott gyógyszerek a (2)–(8) bekezdések szerinti támogatási kategóriákba sorolhatók be.
 
-(2)[^31] 100%-os támogatási kategóriába sorolható be az a gyógyszer, amelyet az OEP a Gyftv. 28. § (1) bekezdésének d) pontja szerinti támogatási módszerrel finanszíroz, és amely
+(2)[^31] 100%-os támogatási kategóriába sorolható be az a gyógyszer, amelyet a NEAK a Gyftv. 28. § (1) bekezdésének d) pontja szerinti támogatási módszerrel finanszíroz, és amely
 
 a) kizárólag indikációhoz kötötten súlyos, általában folyamatos vagy élethossziglan tartó kezelést igénylő krónikus betegségek és rendellenességek legeredményesebb és leghatékonyabb kezelésére, illetve megelőzésére (a továbbiakban együtt: kezelés) szolgál, amely betegségek, illetve rendellenességek:
 
@@ -64,8 +64,9 @@ c) krónikus és heveny betegségek és rendellenességek kiegészítő terápi�
 
 a) a kizárólag az egészségügyi szolgáltatók számára rendelhető, illetve kiadható gyógyszerek,
 
-b) azon gyógyszerek, melyeket – ez irányú kérelemre – az OEP támogatási érték nélkül fogad be.
+b)[^33] azon gyógyszerek, melyeket – ez irányú kérelemre – a NEAK támogatási érték nélkül fogad be.
 
 [^30]: A 4. § az 53/2006. (XII. 28.) EüM rendelet 2. §-ával megállapított szöveg. E módosító rendelet 19. § (3) bekezdése alapján a rendelkezést a folyamatban lévő ügyekre is alkalmazni kell.
-[^31]: A 4. § (2) bekezdés nyitó szövegrésze a 10/2013. (I. 31.) EMMI rendelet 14. § (1) bekezdés a) pontja szerint módosított szöveg.
+[^31]: A 4. § (2) bekezdés nyitó szövegrésze a 10/2013. (I. 31.) EMMI rendelet 14. § (1) bekezdés a) pontja, az 54/2016. (XII. 30.) EMMI rendelet 35. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^32]: A 4. § (5) bekezdése a 6/2009. (III. 20.) EüM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 6. § (1) bekezdése alapján a rendelkezést a 2009. március 21. napját követően indult eljárásokban kell alkalmazni.
+[^33]: A 4. § (8) bekezdés b) pontja az 54/2016. (XII. 30.) EMMI rendelet 35. § (1) bekezdés b) pontja szerint módosított szöveg.
