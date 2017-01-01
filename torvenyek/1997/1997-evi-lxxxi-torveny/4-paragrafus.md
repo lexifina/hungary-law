@@ -16,7 +16,7 @@ g) szülői nyugdíj: az elhunyt biztosított (nyugdíjas) szülőjének, nagysz
 
 h) szolgálati idő: az az időszak, amely alatt a biztosított nyugdíjjárulék fizetésére kötelezett volt, illetve megállapodás alapján nyugdíjjárulékot fizetett. A nyugdíjjárulék-fizetési kötelezettség nélkül szolgálati időnek minősülő időszakokat e törvény külön határozza meg;
 
-i) nyugdíj alapjául szolgáló havi átlagkereset: a biztosított nyugdíjjárulék-fizetési kötelezettségének külön törvényben meghatározott alapját képező keresetnek, jövedelemnek az e törvény rendelkezései szerint számított átlaga;
+i)
 
 j) EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 

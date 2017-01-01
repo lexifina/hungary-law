@@ -32,9 +32,11 @@ d) a prémiumévek programról és a különleges foglalkoztatási állományró
 
 e) a rehabilitációs ellátás összegét,
 
-f) a rehabilitációs járadék összegét, valamint
+f) a rendvédelmi egészségkárosodási keresetkiegészítés, a rendvédelmi egészségkárosodási járadék, a honvédelmi egészségkárosodási keresetkiegészítés vagy a honvédelmi egészségkárosodási járadék összegét,
 
-g) az a)–e) pont szerinti ellátások folyósításának időtartama alatt szerzett, biztosítással járó jogviszonyból származó jövedelmet, keresetet
+g) a rehabilitációs járadék összegét, valamint
+
+h) az a)–f) pont szerinti ellátások folyósításának időtartama alatt szerzett, biztosítással járó jogviszonyból származó jövedelmet, keresetet
 
 – a kifizetésük, folyósításuk időpontjától függetlenül – csak akkor kell figyelembe venni, ha az az igénylőre kedvezőbb.
 

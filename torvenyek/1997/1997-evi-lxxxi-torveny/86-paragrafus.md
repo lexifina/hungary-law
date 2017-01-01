@@ -1,9 +1,7 @@
-86. § (1) A 84. § (1) bekezdésében megjelölt határidőn belül a jogalap nélkül felvett nyugellátással kapcsolatban a foglalkoztató és az egyéb szerv abban az esetben kötelezhető a megtérítésre, ha
+86. § (1) Ha a nyugellátás jogalap nélküli megállapítása, folyósítása vagy felvétele a foglalkoztatónak vagy egyéb szervnek, személynek és a nyugellátásban részesülőnek is felróható, a jogalap nélkül felvett nyugellátást közrehatásuk arányában kötelesek megtéríteni, illetve visszafizetni.
 
-a) a nyugellátás jogalap nélküli felvevője meghal, mielőtt visszafizetési kötelezettségének eleget tett, vagy
+(2) Ha a közrehatások aránya nem állapítható meg, a foglalkoztatót vagy egyéb szervet, személyt és a nyugellátásban részesülőt egyetemlegesen kell megtérítésre, illetve visszafizetésre kötelezni.
 
-b) a nyugellátás jogalap nélküli felvétele kizárólag a foglalkoztató, illetőleg az egyéb szerv mulasztásának vagy a valóságtól eltérő adatszolgáltatásának a következménye, és a visszafizetésre kötelezettől a jogalap nélkül felvett nyugellátás nem hajtható be.
+(3) A közrehatás arányában megállapított megtérítési és visszafizetési kötelezettség nem módosítható amiatt, mert valamelyik kötelezettet terhelő rész nem hajtható be, vagy azt mérsékelték vagy elengedték.
 
-(2) Ha az nyugellátás jogalap nélküli megállapításáért, illetőleg a felvételéért több foglalkoztatót vagy egyéb szervet terhel felelősség, a jogalap nélkül felvett nyugellátás megtérítéséért egyetemlegesen felelnek.
-
-(3) A jogalap nélkül felvett nyugellátással kapcsolatban a közrehatás arányában megállapított megtérítési kötelezettség nem módosítható azon a címen, hogy a visszafizetésre kötelezettől az őt terhelő rész nem hajtható be, illetőleg azt mérsékelték, vagy elengedték.
+(4) Ha a jogalap nélkül felvett ellátás teljes összege nem éri el az öregségi nyugdíj legkisebb összegét, a visszafizetést és a megtérítést nem kell elrendelni.

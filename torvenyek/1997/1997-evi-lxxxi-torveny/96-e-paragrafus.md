@@ -7,3 +7,5 @@ a) a nyilvántartásban nem szereplő szolgálati idő, jogosultsági idő elism
 b) 1954. december 31-ét követően született, és vele egyeztetési eljárást még nem folytattak le,
 
 a hatósági bizonyítvány kiadása iránti eljárást fel kell függeszteni, és hivatalból egyeztetési eljárást kell lefolytatni.
+
+(3) Nem kell adategyezetési eljárást lefolytatni, ha a mezőgazdasági őstermelő a Tbj. 5. § (1) bekezdés i) pontja szerinti feltétel vizsgálatához kéri a hatósági bizonyítvány kiállítását.

@@ -11,3 +11,5 @@ c) a Tbj. 34. §-a alapján kötött megállapodás alapján fizetett nyugdíjj�
 d) a rehabilitációs járadék, rehabilitációs ellátás összegéből levont nyugdíjjárulék összegét, és az ellátás folyósításának időtartamát.
 
 (2) Az (1) bekezdés c) és d) pontja szerinti adatok a tárgyévet követően kerülnek feltüntetésre a társadalombiztosítási egyéni számlán.
+
+(3) A társadalombiztosítási egyéni számlát a központi nyugdíjbiztosítási szerv vezeti.

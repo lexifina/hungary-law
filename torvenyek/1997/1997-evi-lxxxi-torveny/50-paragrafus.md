@@ -2,13 +2,13 @@
 
 (2) Az özvegyi nyugdíj mértéke
 
-a) a 47. § (2) bekezdés a)–b) pontja szerinti feltétellel rendelkező, de rokkantsági ellátásban, rehabilitációs ellátásban, saját jogú nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban és átmeneti bányászjáradékban nem részesülő özvegy esetében hatvan százaléka,
+a) a 47. § (2) bekezdés a)–b) pontja szerinti feltétellel rendelkező, de rokkantsági ellátásban, rehabilitációs ellátásban, saját jogú nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban és átmeneti bányászjáradékban nem részesülő özvegy esetében hatvan százaléka,
 
-b) a 47. § (2) bekezdés a)–b) pontja szerinti feltétellel rendelkező és egyidejűleg rokkantsági ellátásban, rehabilitációs ellátásban, saját jogú nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő, továbbá a 47. § (2) bekezdés c) pont szerinti feltétellel rendelkező özvegy esetében harminc százaléka
+b) a 47. § (2) bekezdés a)–b) pontja szerinti feltétellel rendelkező és egyidejűleg rokkantsági ellátásban, rehabilitációs ellátásban, saját jogú nyugellátásban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesülő, továbbá a 47. § (2) bekezdés c) pont szerinti feltétellel rendelkező özvegy esetében harminc százaléka
 
 annak az öregségi nyugdíjnak, amely az elhunytat halála időpontjában megillette, vagy megillette volna.
 
-(3) A (2) bekezdés a) pontja szerint hatvanszázalékos mértékben megállapított özvegyi nyugdíj helyett harminc százalékos mértékű özvegyi nyugdíjat kell megállapítani attól az időponttól, amelytől az özvegy saját jogú nyugellátásban, rokkantsági ellátásban, rehabilitációs ellátásban, korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül. A (2) bekezdés b) pontja szerint megállapított özvegyi nyugdíj az özvegy ellátásának összegére tekintet nélkül jár.
+(3) A (2) bekezdés a) pontja szerint hatvanszázalékos mértékben megállapított özvegyi nyugdíj helyett harminc százalékos mértékű özvegyi nyugdíjat kell megállapítani attól az időponttól, amelytől az özvegy saját jogú nyugellátásban, rokkantsági ellátásban, rehabilitációs ellátásban, korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül. A (2) bekezdés b) pontja szerint megállapított özvegyi nyugdíj az özvegy ellátásának összegére tekintet nélkül jár.
 
 (4)
 

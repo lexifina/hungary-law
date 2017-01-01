@@ -1,12 +1,12 @@
 ## A nyilvántartás adatainak egyeztetése és a szolgálati idő, jogosultsági idő igazolása
 
-96/B. § (1) A nyugdíjbiztosítási igazgatási szerv a biztosított, volt biztosított biztosítási kötelezettséggel járó jogviszonyaira és kereseteire, jövedelmeire vonatkozó, nyilvántartásba bejelentett adatokat a biztosítottal, volt biztosítottal hatósági eljárás keretében egyezteti.
+96/B. § (1) A nyugdíjbiztosítási igazgatási szerv a biztosított, volt biztosított biztosítási kötelezettséggel járó jogviszonyaira és kereseteire, jövedelmeire vonatkozó, nyilvántartásba bejelentett adatokat az öregségi nyugdíjasnak nem minősülő biztosítottal, volt biztosítottal hatósági eljárás keretében egyezteti.
 
 (2) Az egyeztetési eljárás a biztosított, volt biztosított elektronikus ügyintézés keretében benyújtott kérelmére vagy hivatalból indul. A biztosított, volt biztosított egyeztetési eljárás lefolytatását naptári évenként egyszer kérelmezheti.
 
 (3) A kérelem benyújtását, illetve az egyeztetési eljárás hivatalbóli megindítását követő tíz napon belül a nyugdíjbiztosítási igazgatási szerv a biztosítottat, volt biztosítottat – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben meghatározottakon túl – értesíti az eljárás menetéről, továbbá részletes kimutatást küld az általa nyilvántartott következő adatokról:
 
-a) a biztosításban töltött időszakok, egyéb szolgálati idők, nő esetén a 18. § (2b)–(2d) bekezdése szerinti jogosultsági idők, valamint a korhatár előtti ellátás, az átmeneti bányászjáradék és a balettművészeti életjáradék igénybevételéhez szükséges, foglalkozáshoz kötött kedvezményre jogosító idők,
+a) a biztosításban töltött időszakok, egyéb szolgálati idők, nő esetén a 18. § (2b)–(2d) bekezdése szerinti jogosultsági idők, valamint a korhatár előtti ellátás, az átmeneti bányászjáradék és a táncművészeti életjáradék igénybevételéhez szükséges, foglalkozáshoz kötött kedvezményre jogosító idők,
 
 b) a foglalkoztatók adatai,
 

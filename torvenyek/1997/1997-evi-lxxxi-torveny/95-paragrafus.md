@@ -4,7 +4,7 @@
 
 (2) A nyugdíjbiztosítási igazgatási szervek eljárásában újrafelvételi eljárásnak nincs helye.
 
-(3)
+(3) Ha e törvény másként nem rendelkezik, a nyugdíjbiztosítási igazgatási szervek hatósági eljárásaiban fellebbezésnek akkor van helye, ha elsőfokon a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala jár el.
 
 (4) A méltányossági jogkörben – a kivételes nyugellátás megállapítása, a kivételes nyugellátás-emelés és az egyszeri segély engedélyezése, valamint a 94. § rendelkezései alapján a tartozás mérséklése, elengedése, illetőleg a fizetési könnyítés engedélyezése tárgyában – hozott döntéssel szemben jogorvoslatnak helye nincs.
 

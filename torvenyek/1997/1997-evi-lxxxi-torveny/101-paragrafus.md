@@ -4,7 +4,7 @@
 
 101. § (1) A Kormány felhatalmazást kap arra, hogy
 
-a) az öregségi nyugdíj alapját képező havi átlagkereset, valamint a saját jogú nyugdíjasként történt foglalkoztatás után járó nyugdíjnövelés alapjául szolgáló kereset, jövedelem meghatározásánál a növelés mértékét a Központi Statisztikai Hivatal által utoljára közzétett adatok alapulvételével minden év márciusában,
+a) az öregségi nyugdíj alapját képező havi átlagkereset meghatározásánál a növelés mértékét a Központi Statisztikai Hivatal által utoljára közzétett adatok alapulvételével minden év márciusában,
 
 b) a külföldön élők nyugellátásának folyósítását,
 
@@ -28,7 +28,7 @@ k)
 
 l) az adatszolgáltatásra és bejelentési kötelezettségre vonatkozó eljárási rendelkezéseket,
 
-m) a nyugdíj-biztosítási igazgatási szervek hivatalos iratainak a közigazgatási hatósági eljárásokban elektronikus úton történő teljesítésével kapcsolatos részletes szabályokat,
+m)
 
 n) a kivételes nyugellátás megállapításának, továbbá a kivételes nyugdíjemelés és az egyszeri segély engedélyezésének részletes szabályait,
 

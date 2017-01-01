@@ -10,7 +10,7 @@
 
 (4) Az igénybejelentő lap benyújtásával egyidejűleg az igénylőnek közölnie kell az azonosításához szükséges adatokat, a társadalombiztosítási azonosító jelét, valamint csatolnia kell a társadalombiztosítási nyilvántartásban nem szereplő jogviszonyok bizonyításához felhasználni kívánt iratokat, továbbá egészségi állapottól függő ellátás esetén az egészségi állapottal összefüggő iratokat.
 
-(5) A nyugellátás iránti igényt a nyugdíj-megállapító szervnél, illetve – ha az elhunyt jogszerző korábban nyugellátásban részesült – a nyugdíjfolyósító szervnél kell érvényesíteni.
+(5)
 
 (6)
 

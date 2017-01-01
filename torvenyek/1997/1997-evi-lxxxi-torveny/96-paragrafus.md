@@ -10,6 +10,8 @@ a) a nyugellátások, illetőleg a nyugdíjbiztosítás szerveinek hatásköréb
 
 b) a nyugdíjbiztosítást illető befizetések érdekében
 
+c) az egyeztetési eljárás és a nyugdíjbiztosítási igazgatási szervek hatáskörébe tartozó, jogszabályban meghatározott más eljárások lefolytatása céljából
+
 tarthat nyilván.
 
 (1a) A nyugdíjbiztosítási igazgatási szervek a nyugdíjbiztosítás szervei közreműködésével nyújtott juttatások nyújtása, valamint a nyugdíjfolyósító szerv által folyósított ellátásokkal és a nyugdíjbiztosítás szervei közreműködésével nyújtott juttatásokkal kapcsolatos kormányzati tájékoztatás céljából, a tájékoztatás teljesítéséhez, valamint a juttatás nyújtásához és nyújtásának ellenőrzéséhez szükséges időtartamban kezelhetik az ellátásban, juttatásban részesülő személyek nevére, lakcímére, nyugdíjfolyósítási törzsszámára és a folyósított ellátásra, nyújtott juttatásra vonatkozó adatokat.
@@ -34,7 +36,11 @@ h) a megállapított, illetve folyósított ellátásra vonatkozó adatok,
 
 i) a Pénzügyi Szervezetek Állami Felügyeletétől átvett adatok, továbbá – ha azt az államháztartás részére utalták át – a visszalépő tagi kifizetések összege,
 
-j) a magánynyugdíjpénztár felszámolással, végelszámolással történő megszűnése esetén a társadalombiztosítási nyugdíjrendszerbe visszalépő tagokra vonatkozóan a felszámolótól, végelszámolóktól átvett adatok
+j) a magánynyugdíjpénztár felszámolással, végelszámolással történő megszűnése esetén a társadalombiztosítási nyugdíjrendszerbe visszalépő tagokra vonatkozóan a felszámolótól, végelszámolóktól átvett adatok,
+
+k) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerint a Kormány által kötelezően nyújtandó azonosítási szolgáltatáshoz kapcsolódó egyedi azonosító,
+
+l) a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti személyre szabott ügyintézési felület szolgáltatáshoz kapcsolódó azonosító
 
 tarthatók nyilván.
 
@@ -64,7 +70,7 @@ szerinti adatok igénylésére jogosultak.
 
 (6) A (4) bekezdésben nem szabályozott esetben adatok közlésének csak akkor van helye, ha ahhoz az érintett írásban hozzájárult.
 
-(7) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai és szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését. Az érintett személy vagy képviselője azonban a nyilvántartásba betekinthet, az iratokról illetőleg nyilvántartott adatairól felvilágosítást kérhet.
+(7) A központi nyugdíjbiztosítási szerv vezetője a polgárok személyes adatai védelméért való felelősségének körében köteles olyan technikai és szervezési intézkedéseket tenni, ellenőrzési rendszert kialakítani és adatvédelmi szabályzatot kiadni, amely biztosítja az adatvédelmi követelmények teljesülését. Az érintett személy vagy képviselője azonban a nyilvántartásba betekinthet, az iratokról illetőleg nyilvántartott adatairól felvilágosítást kérhet.
 
 (8) Az érintett személy vagy képviselője a nyugdíjbiztosítási igazgatási szervek által vezetett nyilvántartásba betekinthet, kérelmére a róla nyilvántartott adatokról a nyugdíjbiztosítási igazgatási szerv kivonatot állít ki.
 

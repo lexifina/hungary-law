@@ -6,6 +6,6 @@ a) a Tbj. szabályai alapján biztosítottnak minősülő személyekre és a fog
 
 b) az e törvényben meghatározott saját jogú és hozzátartozói nyugellátásban részesülő személyekre, valamint
 
-c) a nyugdíjmegállapító szervre és a nyugdíjfolyósító szervre (a továbbiakban együtt: nyugdíjbiztosítási igazgatási szerv), valamint a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervre.
+c) a nyugdíjfolyósító szervre, a központi nyugdíjbiztosítási szervre, valamint a nyugdíj-megállapítás során és az e törvény szerinti egyéb eljárásokban eljáró szervekre (a továbbiakban együtt: nyugdíjbiztosítási igazgatási szerv).
 
 d)

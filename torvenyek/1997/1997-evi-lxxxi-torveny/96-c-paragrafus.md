@@ -1,9 +1,11 @@
-96/C. § (1) A nyugdíjbiztosítási igazgatási szerv – a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv vezetője által jóváhagyott ütemterv szerint – 2014. december 31-éig köteles hivatalból megindítani az egyeztetési eljárást az 1955. és 1959. között született biztosítottak, volt biztosítottak esetében. Az 1960. évben vagy azt követően született biztosítottak, volt biztosítottak esetében 2017. január 1-jétől ötéves korcsoportonként kell – a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv vezetője által jóváhagyott ütemterv szerint – az egyeztetési eljárást hivatalból megindítani. Egy ötéves korcsoport kiértesítésére két év áll rendelkezésre.
+96/C. § (1) A nyugdíjbiztosítási igazgatási szerv – a központi nyugdíjbiztosítási szerv vezetője által jóváhagyott ütemterv szerint – 2014. december 31-éig köteles hivatalból megindítani az egyeztetési eljárást az 1955. és 1959. között született biztosítottak, volt biztosítottak esetében. Az 1960. évben vagy azt követően született biztosítottak, volt biztosítottak esetében 2017. január 1-jétől ötéves korcsoportonként kell – a központi nyugdíjbiztosítási szerv vezetője által jóváhagyott ütemterv szerint – az egyeztetési eljárást hivatalból megindítani. Egy ötéves korcsoport kiértesítésére két év áll rendelkezésre.
 
-(2) Nem kell az egyeztetési eljárást az (1) bekezdés alapján megindítani, ha
+(2) Az (1) bekezdés szerint az egyeztetési eljárással érintett korcsoportokba tartozó biztosítottak, volt biztosítottak esetében a korábbi kiértesítési időszak lezárását követő két év elteltével hivatalból újabb adategyeztetési eljárást kell lefolytatni. Az egyeztetési eljárást akkor is le kell folytatni, ha a korábbi egyeztetési eljárásra azóta megszűnt kizáró ok miatt nem került sor.
 
-a) a biztosított, volt biztosított szolgálati idejét 2009. december 31-ét követően határozattal megállapították, vagy ilyen eljárás folyamatban van,
+(3) Nem kell az (1) és (2) bekezdés alapján hivatalból egyeztetési eljárást lefolytatni, ha
 
-b) a biztosított, volt biztosított részére saját jogú nyugdíjat, korhatár előtti öregségi nyugdíjat, korhatár előtti ellátást, szolgálati járandóságot, átmeneti bányászjáradékot, balettművészeti életjáradékot vagy más, szolgálati idő alapján kiszámított ellátást állapítottak meg, vagy ilyen eljárás folyamatban van, vagy
+a) a biztosított, volt biztosított öregségi nyugdíjasnak minősül,
 
-c) az egyeztetési eljárást már megindították.
+b) egyeztetési eljárás van folyamatban, vagy
+
+c) öregségi nyugdíj, korhatár előtti ellátás, szolgálati járandóság, átmeneti bányászjáradék, táncművészeti életjáradék, vagy más, szolgálati idő és az öregségi nyugdíj alapját képező havi átlagkereset alapján kiszámított ellátás megállapítása iránti eljárás van folyamatban.

@@ -14,13 +14,15 @@ f) az álláskeresési támogatás folyósításának időtartamát, ha az elő�
 
 g) azt az időt, amely az 1997. december 31-én hatályos rendelkezések szerint szolgálati időnek minősült,
 
-h) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti munka-rehabilitáció keretében foglalkoztatott személy tekintetében a munka-rehabilitációs díj folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
+h) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény szerinti fejlesztési jogviszonyban foglalkoztatott személy tekintetében a fejlesztési foglalkoztatási óradíj folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
 
 i) az Rjtv. szerinti rehabilitációs járadék folyósításának időtartamát, ha az előírt nyugdíjjárulékot megfizették,
 
 j) az Európai Unió tisztviselőinek és más alkalmazottainak nyugdíjbiztosítási átutalásáról és visszautalásáról szóló törvény alapján a nyugdíjbiztosítási visszautalás során elismert szolgálati időt, ha a Nyugdíjbiztosítási Alapot megillető összeget a Nyugdíjbiztosítási Alapnak átutalták,
 
-k) a szociális szövetkezeti tag tagi munkavégzésének időtartamát, ha az előírt nyugdíjjárulékot megfizették.
+k) a szociális szövetkezeti tag tagi munkavégzésének időtartamát, ha az előírt nyugdíjjárulékot megfizették,
+
+l) a rendvédelmi egészségkárosodási járadék vagy a honvédelmi egészségkárosodási járadék folyósításának időtartamát.
 
 (2) Szolgálati időként nem lehet figyelembe venni
 

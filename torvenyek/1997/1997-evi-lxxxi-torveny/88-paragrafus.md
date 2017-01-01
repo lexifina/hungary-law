@@ -1,4 +1,4 @@
-88. § (1) Aki a nyugellátásra jogosult haláláért felelős, köteles az emiatt nyújtott nyugellátást megtéríteni. A megtérítési kötelezettség olyan mértékben áll fenn, amilyen mértékben a felelősség megállapítható.
+88. § (1) Aki az elhunyt jogszerző haláláért felelős, köteles az emiatt nyújtott nyugellátást megtéríteni. A megtérítési kötelezettség olyan mértékben áll fenn, amilyen mértékben a felelősség megállapítható.
 
 (2) A felelősség megállapítására a Polgári Törvénykönyvről szóló törvénynek a szerződésen kívül okozott károkért való felelősségre vonatkozó szabályait kell megfelelően alkalmazni azzal az eltéréssel, hogy a felelősség abban az esetben is fennáll, ha a nyugellátásra jogosultnak kára nincs.
 

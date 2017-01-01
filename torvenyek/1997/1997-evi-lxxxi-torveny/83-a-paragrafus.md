@@ -1,4 +1,4 @@
-83/A. § (1) Az öregségi, valamint a 6. § (4) bekezdése szerinti nyugdíj tárgyhónapra (tárgyhónapokra) járó folyósítását a jogosult kérelmére mindaddig szüneteltetni kell, amíg annak újbóli folyósítását nem kéri.
+83/A. § (1) Az öregségi nyugdíj tárgyhónapra (tárgyhónapokra) járó folyósítását a jogosult kérelmére mindaddig szüneteltetni kell, amíg annak újbóli folyósítását nem kéri.
 
 (2) A nyugellátás szüneteltetésének időtartama alatt az érintett nyugdíjasnak minősül.
 
