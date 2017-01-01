@@ -1,14 +1,14 @@
-## 2. § A hulladékgazdálkodási közszolgáltatás ideiglenes ellátását (a továbbiakban: ideiglenes ellátás) és a szükségellátást megelőzően a településen hulladékgazdálkodási közszolgáltatást végző gazdálkodó szervezet a folyamatos ellátás biztosítása érdekében – a személyes adatok kivételével – az ideiglenes ellátáshoz vagy a szükségellátáshoz kapcsolódó, hulladékszállításhoz és hulladékkezelésre történő átadáshoz szükséges adatokat a katasztrófavédelmi szerv részére annak felhívására haladéktalanul átadja.
+## 2. §[^5] A hulladékgazdálkodási közszolgáltatás ideiglenes ellátását (a továbbiakban: ideiglenes ellátás) és a szükségellátást megelőzően a településen hulladékgazdálkodási közszolgáltatást végző gazdálkodó szervezet a folyamatos ellátás biztosítása érdekében – a személyes adatok kivételével – az ideiglenes ellátáshoz vagy a szükségellátáshoz kapcsolódó, hulladékszállításhoz és hulladékkezelésre történő átadáshoz szükséges adatokat a katasztrófavédelmi szerv – és ideiglenes ellátás esetén – a Koordináló szerv részére annak felhívására haladéktalanul átadja.
 
 ## 2. Az ideiglenes ellátás
 
-3. § (1) A katasztrófavédelmi szerv az ideiglenes ellátásra elsődlegesen az önkéntesen kötelezettséget vállaló, más településen hulladékgazdálkodási közszolgáltatást végző gazdálkodó szervezetet jelöli ki, ha az megfelel a Tv. 1. § (6) bekezdésében foglalt szempontoknak.
+3. § (1)[^6] A katasztrófavédelmi szerv az ideiglenes ellátásra a Koordináló szerv 1. § (5) bekezdése szerinti javaslatában szereplő szolgáltatót jelöli ki. A kijelölő döntés nem lehet ellentétes a Tv. 1. § (3), (6) és (9) bekezdésében foglaltakkal.
 
 (2) Az ideiglenes ellátásra kijelölő döntés tartalmazza:
 
 a) a kijelölt közérdekű szolgáltató azonosító adatait (név, cím, KÜJ- és KTJ-azonosítók, statisztikai számjel),
 
-b) az ideiglenes ellátás keretében végzendő hulladékgazdálkodási tevékenység megnevezését, a tevékenység végzésének gyakoriságát, a szolgáltatás díját,
+b)[^7] a Koordináló szerv javaslatának megfelelően az ideiglenes ellátás keretében végzendő hulladékgazdálkodási tevékenység megnevezését, a tevékenység végzésének gyakoriságát és minimális műszaki tartalmát, valamint a kötelezően igénybe veendő hulladékkezelő létesítmény megnevezését,
 
 c) az ideiglenes ellátás körébe tartozó hulladékfajtát, típusát, jellegét, mennyiségét és összetételét,
 
@@ -30,14 +30,27 @@ b) az érintett települési önkormányzattal,
 
 c) az ideiglenes ellátást megelőzően a településen hulladékgazdálkodási közszolgáltatást végző gazdálkodó szervezettel,
 
-d) a Magyar Energetikai és Közmű-szabályozási Hivatallal,
+d)[^8] a Koordináló szervvel,
 
-e)[^4] az illetékes környezetvédelmi hatósággal,
+e)–f)[^9]
 
-f)[^5] az OKTF-fel, valamint
+g)[^10]
 
-g)[^6] a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős miniszterrel.
+(5)[^11] Az ideiglenes ellátás kijelölése tárgyában hozott döntésről értesíteni kell
 
-[^4]: A 3. § (4) bekezdés e) pontja a 221/2014. (IX. 4.) Korm. rendelet 745. § (1) bekezdésével megállapított szöveg.
-[^5]: A 3. § (4) bekezdés f) pontja a 221/2014. (IX. 4.) Korm. rendelet 745. § (1) bekezdésével megállapított, a 368/2014. (XII. 30.) Korm. rendelet 6. § (5) bekezdése szerint módosított szöveg.
-[^6]: A 3. § (4) bekezdés g) pontját a 221/2014. (IX. 4.) Korm. rendelet 745. § (2) bekezdése iktatta be.
+a) a Magyar Energetikai és Közmű-szabályozási Hivatalt (a továbbiakban: MEKH),
+
+b) az illetékes környezetvédelmi hatóságot,
+
+c)[^12] országos környezetvédelmi hatóságot, valamint
+
+d) a hulladékgazdálkodási közszolgáltatási díj megállapításáért felelős minisztert.
+
+[^5]: A 2. § a 330/2016. (XI. 4.) Korm. rendelet 7. § b) pontja szerint módosított szöveg.
+[^6]: A 3. § (1) bekezdése a 330/2016. (XI. 4.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
+[^7]: A 3. § (2) bekezdés b) pontja a 330/2016. (XI. 4.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
+[^8]: A 3. § (4) bekezdés d) pontja a 330/2016. (XI. 4.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^9]: A 3. § (4) bekezdés e)–f) pontját a 330/2016. (XI. 4.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^10]: A 3. § (4) bekezdés g) pontját a 221/2014. (IX. 4.) Korm. rendelet 745. § (2) bekezdése iktatta be, a 330/2016. (XI. 4.) Korm. rendelet 8. § a) pontja hatályon kívül helyezte.
+[^11]: A 3. § (5) bekezdését a 330/2016. (XI. 4.) Korm. rendelet 2. § (4) bekezdése iktatta be.
+[^12]: A 3. § (5) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 238. § b) pontja szerint módosított szöveg.

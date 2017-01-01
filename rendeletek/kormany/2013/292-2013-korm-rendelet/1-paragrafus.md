@@ -20,7 +20,7 @@ d) a hulladékszállítására alkalmas eszközök számát és kapacitását.
 
 (3) A (2) bekezdés szerinti adatszolgáltatás valóságtartalmát a katasztrófavédelmi szerv ellenőrzi.
 
-(4)[^3] Az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség (a továbbiakban: OKTF) a katasztrófavédelmi szervet folyamatosan, heti rendszerességgel elektronikus úton tájékoztatja
+(4)[^3] A környezetvédelmi feladatkörében eljáró Pest Megyei Kormányhivatal (a továbbiakban: országos környezetvédelmi hatóság) a katasztrófavédelmi szervet folyamatosan, heti rendszerességgel elektronikus úton tájékoztatja
 
 a) a hulladékgazdálkodási engedéllyel rendelkező közszolgáltatókról,
 
@@ -32,6 +32,9 @@ d) a minősítési engedéllyel rendelkező közszolgáltatók listájáról, é
 
 e) a minősítési engedély iránti kérelmet benyújtó közszolgáltatók listájáról.
 
+(5)[^4] A katasztrófavédelmi szerv a 2013. évi CXXXIV. törvény 1. § (2) bekezdés szerinti értesítést követően haladéktalanul megkeresi az NHKV Nemzeti Hulladékgazdálkodási Koordináló és Vagyonkezelő Zrt.-t (a továbbiakban: Koordináló szerv), amely a megkeresést követő 8 napon belül javaslatot tesz a kijelölendő közérdekű szolgáltató személyére, az ideiglenes ellátás keretében végzendő hulladékgazdálkodási tevékenység megnevezésére, a tevékenység végzésének gyakoriságára és minimális műszaki tartalmára, valamint a kötelezően igénybe veendő hulladékkezelő létesítmény megnevezésére.
+
 [^1]: Az 1. § az 505/2013. (XII. 29.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (4) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (4) bekezdése a 368/2014. (XII. 30.) Korm. rendelet 6. § (3) bekezdésével megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 238. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. § (5) bekezdését a 330/2016. (XI. 4.) Korm. rendelet 1. §-a iktatta be.

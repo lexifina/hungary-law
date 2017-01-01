@@ -1,18 +1,10 @@
-14. §[^10] (1) Az ideiglenes ellátás díjának a Tv. 1. § (3) bekezdésének való megfelelését, az ideiglenes ellátás díjából nem fedezhető többletköltségek indokoltságát és a többletköltségek elszámolását a (7)–(10) bekezdés szerint a Magyar Energetikai és Közmű-szabályozási Hivatal (a továbbiakban: MEKH) ellenőrzi.
+14. §[^19] (1)[^20] Az ideiglenes ellátás ingatlanhasználó által fizetett díja a Tv. 1. § (3) bekezdésének való megfelelését, valamint e díjból a Koordináló szerv részéről nem fedezhető többletköltségei indokoltságát és azok elszámolását a (7)–(10) bekezdés szerint a MEKH ellenőrzi.
 
-(2) A kijelölt közérdekű szolgáltató a hulladéklerakási járulék előirányzat kezelőjétől (a továbbiakban: előirányzat kezelője) az ideiglenes ellátás díjából nem fedezhető indokolt többletköltségei megtérítését kérheti. Ha a kijelölés időtartama a 12 hónapot meghaladja, az indokolt többletköltségek finanszírozására a (8) bekezdés szerinti támogatási szerződés alapján, legfeljebb 12 havonta kerülhet sor. Az indokolt többletköltség alapján a támogatás utófinanszírozásként, 90%-a előlegként igényelhető. Az előleg nyújtását követően fennmaradó 10% támogatás vagy az elfogadott elszámolt többletköltség előleggel nem fedezett része a (9) bekezdés szerinti beszámoló elfogadását követően utólag folyósítható.
+(2)[^21] A Koordináló szerv a fejezeti kezelésű előirányzat kezelőjétől (a továbbiakban: előirányzat kezelője) a szolgáltatási díj és az ideiglenes ellátás ingatlanhasználó részére kiszámlázott díja közötti negatív különbözet, valamint a Koordináló szerv – az ellátás rendszerének működtetésével összefüggő – igazolt többletköltségei megtérítését kérheti. Ha a kijelölés időtartama a 12 hónapot meghaladja, az indokolt többletköltségek finanszírozására a (8) bekezdés szerinti támogatási szerződés alapján, legfeljebb 12 havonta kerülhet sor. Az indokolt többletköltség alapján a támogatás utófinanszírozásként, 90%-a előlegként igényelhető. Az előleg nyújtását követően fennmaradó 10% támogatás vagy az elfogadott elszámolt többletköltség előleggel nem fedezett része a (9) bekezdés szerinti beszámoló elfogadását követően utólag folyósítható.
 
-(3) Az indokolt többletköltségek megállapítása során
+(3)[^22]
 
-a) a hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék átvételének, gyűjtésének, elszállításának és kezelésének költsége (a hulladéklerakási járulék nélkül),
-
-b) a hulladék gyűjtéséhez szükséges fogyó eszközök, valamint a biztonságos munkavégzéséhez szükséges eszközök költsége, valamint
-
-c) az a) és b) pont szerinti tevékenységhez közvetlenül kapcsolódó bérköltség és munkaadót terhelő járulék költsége
-
-vehető figyelembe, ha e költségek az ideiglenes ellátás díjából nem fedezhetők.
-
-(4) A kijelölt közérdekű szolgáltató a (2) és (3) bekezdés szerinti – részletesen és teljes körűen alátámasztott – igényét a MEKH útján terjeszti elő az előirányzat kezelőjéhez, az ideiglenes ellátásra kijelölő döntés jogerőre emelkedésétől számított tizenöt napon belül.
+(4)[^23] A Koordináló szerv a (2) és (3) bekezdés szerinti – részletesen és teljes körűen alátámasztott – igényét a MEKH útján terjeszti elő az előirányzat kezelőjéhez, az ideiglenes ellátásra kijelölő döntés jogerőre emelkedésétől számított tizenöt napon belül.
 
 (5) A MEKH meghatározza, és a honlapján közzéteszi az ellenőrzéshez szükséges kötelezően benyújtandó adatok tartalmát és formáját, továbbá a benyújtott adatok valóságtartalmát ellenőrizheti.
 
@@ -24,9 +16,9 @@ a) ellenőrzi annak indokoltságát, valamint a (2) és (3) bekezdésnek való m
 
 b) – a (12) bekezdésben meghatározott kivétellel – az egy évre vonatkozóan indokolt többletköltség alapján javaslatot tesz a támogatás összegére az előirányzat kezelőjének.
 
-(8) Az előirányzat kezelője a kijelölt közérdekű szolgáltatóval – a (12) bekezdésben meghatározott kivétellel – legfeljebb 12 hónapos időtartamra köt támogatási szerződést és a vonatkozó indokolt többletköltség 90%-át két egyenlő részletben előlegként folyósítja a közérdekű szolgáltató részére a támogatási szerződés aláírását követően, valamint legkésőbb a támogatási szerződésben rögzített finanszírozási időszak második felének első napjától.
+(8)[^24] Az előirányzat kezelője a Koordináló szervvel – a (12) bekezdésben meghatározott kivétellel – legfeljebb 12 hónapos időtartamra köt támogatási szerződést és a vonatkozó indokolt többletköltség 90%-át két egyenlő részletben előlegként folyósítja a Koordináló szerv részére a támogatási szerződés aláírását követően, valamint legkésőbb a támogatási szerződésben rögzített finanszírozási időszak második felének első napjától.
 
-(9) Az előlegként nyújtott támogatás elszámolásáról a kijelölt közérdekű szolgáltató a támogatás teljes összegére vonatkozóan a MEKH által meghatározott formában szakmai és pénzügyi beszámolót készít, amelyet a támogatási szerződés lejártát követő tizenötödik napig a MEKH útján terjeszt elő az előirányzat kezelőjéhez.
+(9)[^25] Az előlegként nyújtott támogatás elszámolásáról a Koordináló szerv a támogatás teljes összegére vonatkozóan a MEKH által meghatározott formában szakmai és pénzügyi beszámolót készít, amelyet a támogatási szerződés lejártát követő tizenötödik napig a MEKH útján terjeszt elő az előirányzat kezelőjéhez.
 
 (10) A MEKH a (9) bekezdés szerinti beszámoló beérkezését követő harminc napon belül
 
@@ -46,10 +38,18 @@ b) gondoskodik a MEKH által elfogadott elszámolt többletköltség előleggel 
 
 a) a (7) bekezdés szerinti eljárásban a MEKH a kijelölés időtartamára tesz javaslatot az indokolt többletköltség alapján a támogatás összegére az előirányzat kezelőjének,
 
-b) a (8) bekezdés szerinti eljárásban az előirányzat kezelője a kijelölt közérdekű szolgáltatóval a kijelölés időtartamára köt támogatási szerződést és a vonatkozó indokolt többletköltség 90%-át előlegként, – amennyiben az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet lehetővé teszi – egy részletben folyósítja a közérdekű szolgáltató részére.
+b)[^26] a (8) bekezdés szerinti eljárásban az előirányzat kezelője a Koordináló szervvel a kijelölés időtartamára köt támogatási szerződést és a vonatkozó indokolt többletköltség 90%-át előlegként, – amennyiben az államháztartásról szóló törvény végrehajtásáról szóló kormányrendelet lehetővé teszi – egy részletben folyósítja a Koordináló szerv részére.
 
 (13) Ha az ideiglenes ellátásra kijelölés időtartama a 12 hónapot meghaladja, de a 12 hónapot meghaladó időtartam nem éri el az újabb 12 hónapot (a továbbiakban: tört év), a tört évre a (12) bekezdésben foglaltakat kell megfelelően alkalmazni.
 
-(14) Ha a (9) bekezdés szerinti beszámoló alapján megállapítható, hogy a MEKH által elfogadott elszámolt többletköltség meghaladja a (8) bekezdés szerinti támogatási szerződésben meghatározott támogatás összegét, a kijelölt közérdekű szolgáltató kérelmére és a MEKH javaslatára az előirányzat kezelője a különbözetet – a (8) bekezdés szerinti támogatási szerződés módosítását vagy a kijelölt közérdekű szolgáltatóval történő új támogatási szerződés kötését követően – támogatásként folyósítja a (8) bekezdésben foglalt határidőben a kijelölt közérdekű szolgáltató részére.
+(14)[^27] Ha a (9) bekezdés szerinti beszámoló alapján megállapítható, hogy a MEKH által elfogadott elszámolt többletköltség meghaladja a (8) bekezdés szerinti támogatási szerződésben meghatározott támogatás összegét, a Koordináló szerv kérelmére és a MEKH javaslatára az előirányzat kezelője a különbözetet – a (8) bekezdés szerinti támogatási szerződés módosítását vagy a kijelölt közérdekű szolgáltatóval történő új támogatási szerződés kötését követően – támogatásként folyósítja a (8) bekezdésben foglalt határidőben a Koordináló szerv részére.
 
-[^10]: A 14. § a 180/2015. (VII. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^19]: A 14. § a 180/2015. (VII. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^20]: A 14. § (1) bekezdése a 330/2016. (XI. 4.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^21]: A 14. § (2) bekezdése a 330/2016. (XI. 4.) Korm. rendelet 5. § (2) bekezdése szerint módosított szöveg.
+[^22]: A 14. § (3) bekezdését a 330/2016. (XI. 4.) Korm. rendelet 8. § c) pontja hatályon kívül helyezte.
+[^23]: A 14. § (4) bekezdése a 330/2016. (XI. 4.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^24]: A 14. § (8) bekezdése a 330/2016. (XI. 4.) Korm. rendelet 7. § e) és f) pontja szerint módosított szöveg.
+[^25]: A 14. § (9) bekezdése a 330/2016. (XI. 4.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^26]: A 14. § (12) bekezdés b) pontja a 330/2016. (XI. 4.) Korm. rendelet 7. § e) és f) pontja szerint módosított szöveg.
+[^27]: A 14. § (14) bekezdése a 330/2016. (XI. 4.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
