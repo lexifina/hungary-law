@@ -6,7 +6,7 @@ b)[^23] a halált, illetve a három munkanapot meghaladó munkaképtelenséget o
 
 c)[^24] külföldi kiküldetés, külszolgálat, munkaerő-kölcsönzés esetén a magyarországi székhelyű munkáltató munkavállalójának a b) pont szerinti munkabalesetéről a munkáltató székhelye szerint illetékes munkavédelmi hatóságnak, illetve bányafelügyeletnek;
 
-d)[^25] a társadalombiztosítási kifizetőhelynek, ennek hiányában az egészségbiztosítási pénztári feladatkörében eljáró illetékes fővárosi és megyei kormányhivatalnak;
+d)[^25] a társadalombiztosítási kifizetőhelynek, ennek hiányában a fővárosi és megyei kormányhivatal egészségbiztosítási pénztári feladatkörében eljáró járási (fővárosi kerületi) hivatalának;
 
 e) munkaerő-kölcsönzés, kirendelés esetén a kölcsönbeadó, kirendelő munkáltatónak.
 
@@ -35,5 +35,5 @@ i) a belső szabályzatok vonatkozó részeit.
 [^22]: A Vhr. 9. §-a az 5/2010. (III. 9.) SZMM rendelet 5. §-ával megállapított szöveg.
 [^23]: A Vhr. 9. § (1) bekezdés b) pontja a 9/2015. (III. 31.) NGM rendelet 3. § c) pontja, a 33/2016. (IX. 8.) NGM rendelet 3. §-a szerint módosított szöveg.
 [^24]: A Vhr. 9. § (1) bekezdés c) pontja a 63/2013. (XII. 17.) NGM rendelet 4. §-a, a 9/2015. (III. 31.) NGM rendelet 3. § d) pontja szerint módosított szöveg.
-[^25]: A Vhr. 9. § (1) bekezdés d) pontja a 33/2016. (IX. 8.) NGM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^25]: A Vhr. 9. § (1) bekezdés d) pontja a 33/2016. (IX. 8.) NGM rendelet 1. § (2) bekezdésével megállapított, a 62/2016. (XII. 29.) NGM rendelet 45. § (2) bekezdése szerint módosított szöveg.
 [^26]: A Vhr. 9. § (3) bekezdés nyitó szövegrésze a 9/2015. (III. 31.) NGM rendelet 3. § e) pontja szerint módosított szöveg.

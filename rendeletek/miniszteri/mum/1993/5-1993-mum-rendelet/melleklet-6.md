@@ -4,7 +4,7 @@
 
 ## A munkabaleset kivizsgálása során nyert adatok alapján a munkáltatónak - számítógéppel, írógéppel vagy nyomtatott betűvel - kell kitölteni a munkabaleseti jegyzőkönyv (a továbbiakban: jegyzőkönyv) valamennyi rovatát az (E) blokk „A munkabalesettel kapcsolatos egyéb információk:” 1-6 pontjaihoz tartozó kódnégyzetek, továbbá az (F) és a (G) blokkban lévő kódnégyzet, valamint a (J) blokk kivételével. Az (E) blokkban lévő sorokba a szöveges meghatározást, választ a munkáltatónak kell megadni. Az (E), (F), (G) blokkokban lévő kódnégyzeteket (az (E) blokk 7 pont kivételével), valamint a jegyzőkönyv (J) blokkját az illetékes hatóság (munkavédelmi hatóság, illetve a bányafelügyeleti hatáskörében eljáró megyei kormányhivatal) tölti ki.
 
-## A munkabaleset kivizsgálása során a munkáltatónak figyelemmel kell lennie a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 57. §-a (3) bekezdésének h) pontjában foglalt előírásra, amely szerint a munkáltató által kijelölt (vagy foglalkoztatott, megbízott) személy feladata a munkabalesetek kivizsgálása, valamint az Mvt. 65. §-ának (2) bekezdésében foglalt azon előírásra, amely munkabiztonsági szaktevékenységnek minősíti a súlyos munkabaleset, valamint az olyan - munkaeszköz, illetve technológia által okozott - munkabaleset kivizsgálását, amely kettőnél több személy egyszerre (egy időben), azonos helyen történő sérülését vagy más egészségkárosodását okozta.
+## A munkabaleset kivizsgálása során a munkáltatónak figyelemmel kell lennie a munkavédelemről szóló 1993. évi XCIII. törvény (a továbbiakban: Mvt.) 57. § (3) bekezdés h) pontjában foglalt előírásra, amely szerint a munkáltató által kijelölt (vagy foglalkoztatott, megbízott) személy feladata a munkabalesetek kivizsgálása, valamint az Mvt. 65. § (2) bekezdésében foglalt azon előírásra, amely munkabiztonsági szaktevékenységnek minősíti a munkabaleset kivizsgálását.
 
 ## Nyilvántartási szám: A bejelentésre kötelezett munkabalesetre vonatkozóan a munkáltató által vezetett munkabaleseti nyilvántartás szerinti évszám utolsó két számjegyét és a sorszámát kell beírni.
 
@@ -192,7 +192,7 @@
 
 ## A kódnégyzetekbe a sérült munkavállaló foglalkoztatási jogviszonyának jellegét (önfoglalkoztató, munkaviszony, egyéb foglalkozási jogviszony, ismeretlen), tartamát (határozott vagy határozatlan idejű), valamint a munkaidő mértékét (rész- vagy teljes munkaidő) kifejező kódszámot kell beírni.
 
-## 5K04458M_3
+## 6K86206M_3
 
 | Kód | Megjelölés |
 
@@ -215,6 +215,62 @@
 ## Részmunkaidőnek kell tekinteni az Munka törvénykönyvében meghatározott teljes munkaidő mértékét el nem érő munkaidőt és a rövidebb teljes napi munkaidőt is. Például, egyszerűsített foglalkoztatás esetében, ha a sérült a baleset napján négy órában volt foglalkoztatva, a foglalkoztatási jogviszonyt jelölő kódnégyzetekbe 322 kódszámot kell írni. Határozatlan időtartamra kötött teljes munkaidős munkavállaló balesete esetén a 311 kódszámot kell szerepeltetni.
 
 ## Egyéb foglalkoztatási jogviszonynak kell tekinteni minden olyan, a fenti táblázaton kívüli jogviszonyt is, melynek keretében a munkát az Mvt. 87. § 8. pontjában foglaltak figyelembevételével szervezetten végzik.
+
+## 13. Foglalkoztatás jellege:
+
+## A kódnégyzetekbe a sérült munkavállaló foglalkoztatási jogviszonyának jellegét kifejező kódszámot kell beírni.
+
+| 01 | Munkaviszony (kivéve: a természetes személy munkáltató háztartásában egyszerűsített foglalkoztatás keretében történő munkavégzés) |
+
+| 02 | Közfoglalkoztatási jogviszony |
+
+| 03 | Kormányzati szolgálati jogviszony |
+
+| 04 | Állami szolgálati jogviszony |
+
+| 05 | Közszolgálati jogviszony |
+
+| 06 | Közalkalmazotti jogviszony |
+
+| 07 | Bíró szolgálati jogviszony |
+
+| 08 | Igazságügyi alkalmazottak szolgálati jogviszonya |
+
+| 09 | Ügyészségi szolgálati jogviszony |
+
+| 10 | Rendvédelmi és katonai feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya |
+
+| 11 | Szövetkezeti tagság esetén a munkaviszony jellegű jogviszony |
+
+| 12 | Szakképző iskolákban a tanulói jogviszony keretében a szakmai képzési követelmények teljesülése során végzett munka |
+
+| 13 | Tanulószerződés alapján végzett munka |
+
+| 14 | Hallgatói jogviszonyban a gyakorlati képzés során végzett munka |
+
+| 15 | Elítéltként vagy egyéb jogcímen fogvatartottként végzett munka |
+
+| 16 | Szabálysértési eljárás során alkalmazott közérdekű munka |
+
+| 17 | Büntetőügyben kiszabott közérdekű munka |
+
+| 18 | Közérdekű önkéntes tevékenység |
+
+| 19 | Munkáltató által szervezett (kezdeményezett, irányított vagy jóváhagyott) társadalmi munka |
+
+| 20 | Távmunkavégzés |
+
+| 21 | Bedolgozói munkaviszony |
+
+| 22 | Egyszerűsített foglalkoztatásra vagy alkalmi munkára irányuló munkaviszony |
+
+| 23 | Köztulajdonban álló munkáltatóval fennálló munkaviszony |
+
+| 24 | Munkaerő-kölcsönzés keretében végzett munka |
+
+| 25 | Szociális szövetkezetben tagi munkavégzési jogviszony |
+
+| 26 | Iskolaszövetkezetben külső szolgáltatás teljesítésére irányuló megállapodás alapján történő személyes közreműködés |
 
 ## (C) A munkabaleset adatai:
 
@@ -248,7 +304,7 @@
 
 ## Annak a sérülésnek a típusát kell megjelölni, amely a munkaképtelenséget okozta. Többszörös sérülés esetén a legsúlyosabb sérülést kell figyelembe venni. Például: ha a munkavállaló elesés következtében ficamot és zárt törést szenvedett, akkor a „Zárt törések” elnevezésű (021) kódot kell beírni. Amennyiben az egyéb típusú kódok és megjelölések kerülnek kiválasztásra (019, 029, 039, 059, 069, 079, 089, 099, 109, 119, 999), akkor a (H) blokk „Mellékletek, megjegyzések” rovatában kell a sérülést pontosan feltüntetni.
 
-## 5K04458M_5
+## 6K86206M_6
 
 | Kód | Megjelölés | Ide tartozik | Nem tartozik ide |
 
@@ -348,7 +404,7 @@
 
 ## Azt a testrészt kell pontosan megjelölni, amely a baleset során a legsúlyosabb mértékben sérült. Például: ha a bal kézen a mutató ujj sérült meg, akkor az „Ujj(ak)” elnevezésű (54-es) kódot kell beírni. Amennyiben az egyéb típusú kódok és megjelölések kerülnek kiválasztásra (19, 29, 39, 49, 59, 69, 99), akkor a (H) blokk „Mellékletek, megjegyzések” rovatában kell a sérült testrészt pontosan feltüntetni.
 
-## 5K04458M_6
+## 6K86206M_7
 
 | Kód | Megjelölés |
 
@@ -486,9 +542,9 @@
 
 | Kód | Megjelölés |
 
-| 0 | Nem súlyos munkabaleset, a munkaképtelenség időtartama 1-3 nap |
+| 0 | Nem súlyos munkabaleset, a munkaképtelenség időtartama 1-3 munkanap |
 
-| 1 | Nem súlyos munkabaleset, a munkaképtelenség időtartama meghaladja a 3 napot |
+| 1 | Nem súlyos munkabaleset, a munkaképtelenség időtartama meghaladja a 3 munkanapot |
 
 | 2 | Nem súlyos csonkulással járó munkabaleset |
 
@@ -506,21 +562,21 @@
 
 ## 9. A munkaképtelenség időtartama:
 
-## A munkaképtelenség időtartama azon teljes naptári napok száma, amíg a munkavállaló a munkabalesetből kifolyólag munkaképtelen volt. A munkaképtelen napok számának meghatározásánál valamennyi kieső napot figyelembe kell venni még akkor is, ha azok pihenőnapra (például: szombat, vasárnap) vagy munkaszüneti napra esnek, függetlenül attól, hogy a sérült teljes- vagy részmunkaidőben dolgozik. Amennyiben a munkavállaló hetente vagy havonta csak néhány napot dolgozik, akkor munkaképtelen napoknak kell tekinteni az olyan napokat is, amikor a munkavállaló rendszerint nem dolgozik.
+## A munkaképtelenség időtartama azon teljes munkanapok száma, amíg a munkavállaló a munkabalesetből kifolyólag munkaképtelen volt.
 
-## A kódnégyzetekbe a munkaképtelenséggel járó napokra vonatkozó számot három számjegyes formátumban kell megadni. Jelentésre csak azok a munkabalesetek kötelezettek, amelyek több mint három teljes naptári napig tartó munkaképtelenséget okoztak, ennek megfelelően 004-182 közé eső (a két szélsőértéket is beleértve) munkaképtelen napok esetén a konkrét kiesett napok számát kell beírni. Például: 15 munkaképtelen nap esetén a 015 kódot, 96 munkaképtelen nap esetén a 096 kódot kell feltüntetni. Speciális kó dokkal kell jelölni a 183 napot (legalább 6 hónapot) elérő, vagy azt meghaladó, továbbá a tartós munkaképtelenséget (997) és a halálos kimenetelű balesetet (998). A tartós munkaképtelenség megállapításáig vagy a halál bekövetkeztéig kieső napokat nem kell figyelembe venni.
+## A kódnégyzetekbe a munkaképtelenséggel járó munkanapokra vonatkozó számot három számjegyes formátumban kell megadni. Jelentésre csak azok a munkabalesetek kötelezettek, amelyek több mint három teljes munkanapig tartó munkaképtelenséget okoztak, ennek megfelelően 004-125 közé eső (a két szélsőértéket is beleértve) munkaképtelen munkanapok esetén a konkrét kiesett munkanapok számát kell beírni. Például: 15 munkaképtelen munkanap esetén a 015 kódot, 96 munkaképtelen munkanap esetén a 096 kódot kell feltüntetni. Speciális kódokkal kell jelölni a 126 munkanapot elérő vagy azt meghaladó, továbbá a tartós munkaképtelenséget (997) és a halálos kimenetelű balesetet (998). A tartós munkaképtelenség megállapításáig vagy a halál bekövetkeztéig kieső munkanapokat nem kell figyelembe venni.
 
-## Amennyiben a munkaképtelenség időtartama a jegyzőkönyv beküldési határidejéig nem állapítható meg, a kódnégyzetbe az „A” betűjelzést kell beírni. A munkaképtelenség időtartamának ismertté válását követően haladéktalanul, de legkésőbb a tárgyhónapot követő hónap 8 napjáig kell a munkaképtelen napok számát közlő jegyzőkönyv (adatszolgáltatás: 4-es kód) egy-egy példányát megküldenie mindazon helyekre, ahova a vonatkozó jogszabály az eredeti jegyzőkönyv megküldésére kötelezte. Ebben az esetben a munkaképtelen napok számát közlő jegyzőkönyvnek az első jegyzőkönyv adatai közül - a munkaképtelen napok számán túl - legalább az (A), (B), (C), (I) blokkokban leírtakat kell tartalmaznia.
+## Amennyiben a munkaképtelenség időtartama a jegyzőkönyv beküldési határidejéig nem állapítható meg, a kódnégyzetbe az „A” betűjelzést kell beírni. A munkaképtelenség időtartamának ismertté válását követően haladéktalanul, de legkésőbb az ismertté válást követő hónap 8. napjáig kell a munkaképtelen napok számát közlő jegyzőkönyv (adatszolgáltatás: 4-es kód) egy-egy példányát megküldenie mindazon helyekre, ahová a vonatkozó jogszabály az eredeti jegyzőkönyv megküldésére kötelezte. Postai úton történő megküldés esetén a munkaképtelen napok számát közlő jegyzőkönyvnek az első jegyzőkönyv adatai közül – a munkaképtelen napok számán túl – legalább az (A), (B), (C), (I) blokkokban leírtakat kell tartalmaznia.
 
-## Amennyiben a munkavállaló a felgyógyulását követően a munkabalesetéből eredően ismét munkaképtelenné válik, akkor egy munkaképtelen napok számát közlő jegyzőkönyvet kell kitölteni és az összes munkaképtelen napok számát kell beírni. Ebben az esetben a munkaképtelenség időtartamát úgy kell meghatározni, hogy a korábban bejelentett munkaképtelen napok számához hozzá kell adni az újabb munkaképtelen napok számát. A jegyzőkönyvben a munkaképtelen napok számán túl legalább az (A), (B), (C), (I) blokkokat kell kitölteni, valamint a (H) blokk „Mellékletek, megjegyzés” rovatában az ismételt jegyzőkönyv megküldésének okát is jelezni kell.
+## Amennyiben a munkavállaló a felgyógyulását követően a munkabalesetéből eredően ismét munkaképtelenné válik, akkor egy munkaképtelen munkanapok számát közlő jegyzőkönyvet kell kitölteni és az összes munkaképtelen munkanapok számát kell beírni. Ebben az esetben a munkaképtelenség időtartamát úgy kell meghatározni, hogy a korábban bejelentett munkaképtelen munkanapok számához hozzá kell adni az újabb munkaképtelen munkanapok számát. Postai úton történő megküldés esetén a jegyzőkönyvben a munkaképtelen napok számán túl legalább az (A), (B), (C), (I) blokkokat kell kitölteni, valamint a (H) blokk „Mellékletek, megjegyzés” rovatában az ismételt jegyzőkönyv megküldésének okát is jelezni kell.
 
-## Például: a sérült munkavállaló első alkalommal 10 teljes naptári napot esett ki a munkából, amelyet bejelentett a munkáltató. Felgyógyulását követően munkába állt, de későbbiekben kiderült, hogy a munkabalesetéből eredően műtétre van szüksége és emiatt további 13 teljes naptári napra esett ki a munkából. Ebben az esetben a munkáltató egy munkaképtelen napok számát közlő jegyzőkönyvet tölt ki, amelyben a munkaképtelenség időtartamra vonatkozó kódnégyzetekbe a 023 (azaz 010+013) kódot írja.
+## Például: a sérült munkavállaló első alkalommal 10 teljes munkanapot esett ki a munkából, amelyet bejelentett a munkáltató. Felgyógyulását követően munkába állt, de későbbiekben kiderült, hogy a munkabalesetéből eredően műtétre van szüksége és emiatt további 13 teljes munkanapra esett ki a munkából. Ebben az esetben a munkáltató egy munkaképtelen munkanapok számát közlő jegyzőkönyvet tölt ki, amelyben a munkaképtelenség időtartamra vonatkozó kódnégyzetekbe a 023 (azaz 010+013) kódot írja.
 
 | Kód | Megjelölés |
 
-| 004-182 | Munkaképtelen napok száma (hat hónapnál rövidebb munkaképtelenség) |
+| 004-125 | Munkaképtelen munkanapok száma |
 
-| 997 | 183 napot (legalább hat hónapot) elérő, vagy azt meghaladó, továbbá tartós munkaképtelenség |
+| 997 | 126 munkanapot elérő vagy azt meghaladó, továbbá tartós munkaképtelenség |
 
 | 998 | Halálos kimenetelű munkabaleset |
 
@@ -724,15 +780,19 @@
 
 ## A balesetet kivizsgáló személy nevét, valamint a baleset kivizsgálás lezárásának dátumát kell beírni. A balesetet vizsgáló személy a baleset kivizsgálását lezáró jegyzőkönyvet aláírásával köteles ellátni. Amennyiben rendelkezik a balesetet vizsgáló személy munkavédelmi szakképzettséggel, akkor a munkavédelmi képzettséget igazoló okirat számát is fel kell tüntetni. Szolgáltatás keretében végzett balesetvizsgálat esetén a szolgáltatást végző cég (vállalkozás) nevét, címét is fel kell tüntetni a (H) blokk „Mellékletek, megjegyzés” rovatában.
 
-## 3. Munkáltató képviselője:
+## 3. Résztvevő foglalkozás-egészségügyi orvos:
 
-## A munkáltató vezetőjének vagy az általa írásban (egyedileg vagy belső szabályzatban) feljogosított személynek a nevét és beosztását, egyéni vállalkozó esetén a vállalkozónak, magánszemély munkáltató esetén a munkáltatói jogkört gyakorló személynek a nevét kell beírni. Az aláírás dátumát követően a jegyzőkönyvet az a személy írhatja alá, akit a név és a beosztás rovatba beírtak. Bélyegzővel rendelkező munkáltató esetén az aláírást a munkáltató működése során jogszerűen használt bélyegzőjével hitelesíteni kell.
+## Amennyiben a foglalkozás-egészségügyi orvos a baleset kivizsgálásában részt vett, a kivizsgálást lezáró jegyzőkönyvet aláírásával köteles ellátni, valamint a pecsétszámát is fel kell tüntetni. A baleset kivizsgálásban részt vevő foglalkozás-egészségügyi orvos nevét, valamint a baleset kivizsgálásában történő részvétel lezárásának dátumát kell beírni. Szolgáltatás keretében végzett balesetvizsgálat esetén a FESZ szolgáltatást végző cég (vállalkozás) nevét, címét is fel kell tüntetni a (H) blokk „Mellékletek, megjegyzés” rovatában.
 
-## (J) A jegyzőkönyvet ellenőrző munkavédelmi felügyelő:
+## 4. Munkáltató képviselője:
+
+## A munkáltató vezetőjének vagy az általa írásban (egyedileg vagy belső szabályzatban) feljogosított személynek a nevét és beosztását, egyéni vállalkozó esetén a vállalkozónak, magánszemély munkáltató esetén a munkáltatói jogkört gyakorló személynek a nevét kell beírni. Az aláírás dátumát követően a jegyzőkönyvet az a személy írhatja alá, akit a név és a beosztás rovatba beírtak. Bélyegzővel rendelkező munkáltató esetén az aláírást a munkáltató működése során jogszerűen használt bélyegző lenyomatával kell ellátni.
+
+## (J) A jegyzőkönyvet ellenőrző munkavédelmi hatóság:
 
 ## Az adott munkabaleset vizsgálatával, jegyzőkönyv kitöltésével kapcsolatos észrevételek, intézkedések feljegyzésére e rovatban van lehetőség.
 
-## A munkabaleseti esemény elemzését (vizsgálatát, kódolását) követően a felügyelő köteles a nevét, felügyelői igazolvány számát, a felülvizsgálat lezárásának napját beírni, majd ezt követően a jegyzőkönyvet aláírni.
+## A munkabaleseti esemény elemzését (vizsgálatát, kódolását) követően a munkavédelmi hatóság részéről eljáró személy köteles a nevét, igazolvány számát, a felülvizsgálat lezárásának napját beírni, majd ezt követően a jegyzőkönyvet aláírni.
 
 6. számú melléklet az 5/1993. (XII. 26.) MüM rendelethez[^41]
 
