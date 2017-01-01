@@ -4,7 +4,7 @@
 
 a) országgyűlési, európai parlamenti vagy helyi, nemzetiségi önkormányzati képviselő, nemzetiségi szószóló, miniszter, polgármester, főpolgármester, alpolgármester, főpolgármester-helyettes;
 
-b) az ellenőrző bizottságának tagja;
+b)
 
 c) olyan gazdálkodó szervezet tagja vagy vezető tisztségviselője, illetve olyan magánszemély, vagy ezek jogi képviselője, aki az NFA-val a Nemzeti Földalapba tartozó földrészletet érintően szerződéses viszonyban áll.
 

@@ -14,7 +14,7 @@ f) elkészíti az 5. § szerinti beszámolót, az NFA államháztartási számvi
 
 g) képviseli az NFA-t harmadik személyekkel szemben;
 
-h) kapcsolatot tart az ellenőrző bizottsággal;
+h)
 
 i) felelős a Tanács döntéseinek végrehajtásáért;
 

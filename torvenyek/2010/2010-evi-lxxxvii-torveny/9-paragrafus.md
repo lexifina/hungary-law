@@ -4,7 +4,7 @@
 
 (3) A Tanács tagja személyesen köteles eljárni, képviseletnek vagy helyettesítésnek a Tanács működése során nincs helye.
 
-(4) A Tanács ülésein tanácskozási joggal vehet részt az ellenőrző bizottság tagja.
+(4)
 
 (5) A Tanács működésével kapcsolatos költségeket az NFA működési költségeitől elkülönítetten kell kezelni.
 
