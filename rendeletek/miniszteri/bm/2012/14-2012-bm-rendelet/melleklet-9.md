@@ -1,4 +1,4 @@
-9. melléklet a 14/2012. (III. 30.) BM rendelethez[^38]
+9. melléklet a 14/2012. (III. 30.) BM rendelethez[^40]
 
 ## A Terrorelhárítási Információs és Bűnügyi Elemző Központ hivatásos állományú tagjai szolgálati igazolványának leírása
 
@@ -16,4 +16,4 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID-1 méretű, világ
 
 ”
 
-[^38]: A 9. mellékletet a 29/2016. (VII. 15.) BM rendelet 18. § c) pontja iktatta be.
+[^40]: A 9. mellékletet a 29/2016. (VII. 15.) BM rendelet 18. § c) pontja iktatta be.

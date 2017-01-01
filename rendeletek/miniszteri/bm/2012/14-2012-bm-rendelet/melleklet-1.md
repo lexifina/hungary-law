@@ -1,4 +1,4 @@
-1. melléklet a 14/2012. (III. 30.) BM rendelethez[^34]
+1. melléklet a 14/2012. (III. 30.) BM rendelethez[^36]
 
 ## A Rendőrségről szóló törvényben meghatározott általános rendőrségi feladatok ellátására létrehozott szervnél szolgálatot teljesítő hivatásos állományúak szolgálati igazolványának leírása
 
@@ -30,7 +30,7 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, töb
 
 | 6. |  | 166. | Rendőrségi Oktatási és Kiképző Központ |
 
-| 7. |  | 183. | Bűnügyi Szakértői és Kutatóintézet |
+| 7. |  |  |  |
 
 | 7a. |  | 321. | Nemzetközi Oktatási Központ |
 
@@ -74,4 +74,4 @@ Az igazolvány az ISO 7810 (1995) szabványnak megfelelő, ID–1 méretű, töb
 
 | 27. |  | 320. | Zala Megyei Rendőr-főkapitányság |
 
-[^34]: Az 1. melléklet a 31/2012. (VI. 28.) BM rendelet 23. §-a, a 43/2012. (VIII. 23.) BM rendelet 18. §-a, az 50/2012. (X. 11.) BM rendelet 4. § (3) bekezdése, a 37/2015. (VI. 16.) BM rendelet 59. § (1) és (3) bekezdése, a 37/2016. (IX. 1.) BM rendelet 7. §-a szerint módosított szöveg.
+[^36]: Az 1. melléklet a 31/2012. (VI. 28.) BM rendelet 23. §-a, a 43/2012. (VIII. 23.) BM rendelet 18. §-a, az 50/2012. (X. 11.) BM rendelet 4. § (3) bekezdése, a 37/2015. (VI. 16.) BM rendelet 59. § (1) és (3) bekezdése, a 37/2016. (IX. 1.) BM rendelet 7. §-a, az 58/2016. (XII. 22.) BM rendelet 30. §-a szerint módosított szöveg.
