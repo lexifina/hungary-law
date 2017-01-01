@@ -1,6 +1,6 @@
 ## Az alkalmazandó eljárásrend
 
-21. § (1) Az uniós értékhatárokat elérő vagy meghaladó értékű közbeszerzési eljárásokra a Második Részt, az ezek alatti és egyben a nemzeti értékhatárokat elérő értékű közbeszerzési eljárásokra a Harmadik Részt alkalmazva kell eljárni, kivéve, ha e törvény másként rendelkezik.
+21. § (1) Az uniós értékhatárokat elérő vagy meghaladó értékű közbeszerzési eljárásokra a Második Részt, az ezek alatti és egyben a nemzeti értékhatárokat elérő értékű közbeszerzési eljárásokra a Harmadik Részt alkalmazva kell eljárni, kivéve, ha e törvény másként rendelkezik. Jogszerűen jár el az ajánlatkérő akkor is, ha e törvény valamely közbeszerzés megvalósítására a Harmadik Rész alkalmazását rendeli, az ajánlatkérő azonban a Második Rész szabályait alkalmazva folytatja le a közbeszerzési eljárást.
 
 (2) A 3. melléklet szerinti szociális és egyéb szolgáltatások igénybevételére irányuló közbeszerzési eljárások esetében – ide nem értve a koncessziós beszerzési eljárásokat – a Harmadik Részt alkalmazva kell eljárni.
 

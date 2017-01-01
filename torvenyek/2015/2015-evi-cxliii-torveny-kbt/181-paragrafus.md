@@ -2,7 +2,7 @@
 
 (2) A Hatóság elnökére a közszolgálati tisztviselőkről szóló törvényt (a továbbiakban: Kttv.) az e törvény szerinti eltérésekkel kell alkalmazni.
 
-(3) A Hatóság elnöke a közigazgatási államtitkárt megillető illetményre, valamint egyéb juttatásokra jogosult.
+(3) A Hatóság elnökének a tárgyév március 1-jétől a következő év február végéig terjedő időszakra megállapított havi illetménye a Központi Statisztikai Hivatal által hivatalosan közzétett, a tárgyévet megelőző évre vonatkozó nemzetgazdasági havi átlagos bruttó kereset nyolcszorosa. Egyebekben a Közbeszerzési Hatóság elnöke a minisztert megillető juttatásokra jogosult.
 
 (4) A Hatóság elnöke felett a munkáltatói jogokat a Tanács gyakorolja, az elnök az összeférhetetlenségével kapcsolatos bejelentést a Tanácsnak köteles megtenni.
 

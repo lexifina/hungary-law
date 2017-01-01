@@ -1,4 +1,4 @@
-184. § (1) A Tanács testületi üléseit szükség szerint, de évente legalább hat alkalommal tartja.
+184. § (1) A Tanács testületi üléseit szükség szerint, de évente legalább tíz alkalommal tartja.
 
 (2) A Tanács határozatképes, ha a tagok kétharmada jelen van.
 

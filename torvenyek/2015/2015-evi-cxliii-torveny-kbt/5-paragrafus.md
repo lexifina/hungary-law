@@ -12,7 +12,7 @@ d) a 9. § (1) bekezdés h)–i) pontja szerinti jogi személyek,
 
 e) az a jogképes szervezet, amelyet nem ipari vagy kereskedelmi jellegű, kifejezetten közérdekű tevékenység folytatása céljából hoznak létre, vagy amely bármilyen mértékben ilyen tevékenységet lát el, feltéve, hogy e szervezet felett az a)–e) pontban meghatározott egy vagy több szervezet, az Országgyűlés vagy a Kormány közvetlenül vagy közvetetten meghatározó befolyást képes gyakorolni vagy működését többségi részben egy vagy több ilyen szervezet (testület) finanszírozza.
 
-(2) A támogatásból megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet, amelynek uniós közbeszerzési értékhatárokat elérő vagy meghaladó becsült értékű beszerzését többségi részben, uniós értékhatárokat el nem érő, de a nemzeti közbeszerzési értékhatárokat elérő vagy meghaladó becsült értékű beszerzését 75%-ot meghaladó mértékben az (1) bekezdésben meghatározott egy vagy több szervezet közvetlenül támogatja, feltéve, hogy a beszerzés tárgya
+(2) A támogatásból megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet vagy személy, amelynek uniós közbeszerzési értékhatárokat elérő vagy meghaladó becsült értékű beszerzését többségi részben, uniós értékhatárokat el nem érő, de a nemzeti közbeszerzési értékhatárokat elérő vagy meghaladó becsült értékű beszerzését 75%-ot meghaladó mértékben az (1) bekezdésben meghatározott egy vagy több szervezet vagy személy közvetlenül támogatja, feltéve, hogy a beszerzés tárgya
 
 a) olyan építési beruházás, amely az 1. melléklet szerinti mélyépítési tevékenységet foglal magában,
 
@@ -20,7 +20,7 @@ b) olyan építési beruházás, amely kórház, sportlétesítmény, szabadidő
 
 c) olyan szolgáltatás megrendelése, amely az a) vagy a b) pont szerinti építési beruházáshoz kapcsolódik.
 
-(3) A (2) bekezdésben foglaltak mellett a vissza nem térítendő támogatásból – ide nem értve a kombinált pénzügyi eszközöket – megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet, amelynek szolgáltatás megrendelését, árubeszerzését vagy építési beruházását az (1) bekezdésben meghatározott egy vagy több szervezet legalább huszonötmillió forint összegben közvetlenül támogatja, kivéve, ha a beszerzés
+(3) A (2) bekezdésben foglaltak mellett a vissza nem térítendő támogatásból – ide nem értve a pénzügyi eszközzel kombinált vissza nem térítendő támogatásokat – megvalósuló beszerzés vonatkozásában közbeszerzési eljárás lefolytatására kötelezett az az (1) bekezdés hatálya alá nem tartozó szervezet vagy személy, amelynek szolgáltatás megrendelését, árubeszerzését vagy építési beruházását az (1) bekezdésben meghatározott egy vagy több szervezet vagy személy legalább negyvenmillió forint összegben közvetlenül támogatja, kivéve, ha a beszerzés
 
 a) egyedi kormánydöntésben megállapított beruházási támogatásból,
 
@@ -30,10 +30,12 @@ c) képzési, továbbá tanműhely-létesítési és -fejlesztési támogatásb�
 
 d) kutatás-fejlesztési és innovációs célú támogatásból,
 
-e) nagyvállalkozások újraiparosítási célt szolgáló beruházásainak támogatásából, vagy
+e) vállalkozások újraiparosítási célt szolgáló beruházásainak támogatásából, vagy
 
 f) bármely, 2015. november 1-jét megelőzően igényelt uniós, illetve hazai költségvetési forrásból származó támogatásból
 
 valósul meg.
 
 (4) E törvény rendelkezését köteles betartani az az (1)–(2) bekezdés hatálya alá nem tartozó szervezet, amely e törvény szerinti közbeszerzési eljárás lefolytatását önként vagy szerződésben vállalja, illetve számára jogszabály közbeszerzési eljárás lefolytatását kötelezővé teszi.
+
+(5) A (3) bekezdést nem kell alkalmazni, ha a Kormány annak alkalmazása alól a közbeszerzésekért felelős miniszter előterjesztése alapján hozott egyedi határozatában felmentést adott. A felmentés akkor kérhető, ha a támogatásból megvalósuló beszerzés sajátosságaira tekintettel a közbeszerzési eljárás alkalmazása nem szolgálná a közpénzek hatékony felhasználásának célját és a támogatási összeg gazdaságilag legkedvezőbb módon történő felhasználását a (3) bekezdés szerinti szervezet eljárása biztosítja. Az előző évben meghozott, felmentést tartalmazó egyedi határozatok szövegét a Kormány minden év március 31-ig, a Magyar Közlönyben egy tájékoztatóban egyszerre is közzéteszi.

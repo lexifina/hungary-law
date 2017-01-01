@@ -20,7 +20,7 @@ e) ha az ajánlatkérő – nemzetközi jogi kötelezettség alapján – nemzet
 
 f) nemzetközi szervezet vagy nemzetközi finanszírozó intézmény által meghatározott külön eljárás szerinti beszerzésre, ha a beszerzést teljes mértékben az adott szervezet vagy intézmény finanszírozza, vagy abban az esetben, ha a beszerzést legnagyobb arányban az adott szervezet vagy intézmény finanszírozza, és a felek e törvénytől eltérő közbeszerzési szabályok alkalmazásában állapodnak meg;
 
-g) olyan beszerzésre, amelynek kizárólagos rendeltetése, hogy az ajánlatkérő számára lehetővé tegye nyilvános elektronikus hírközlő hálózat rendelkezésre bocsátását vagy igénybevételét, illetve a nyilvánosság irányában egy vagy több elektronikus hírközlési szolgáltatás nyújtását;
+g) olyan beszerzésre, amelynek kizárólagos rendeltetése, hogy az ajánlatkérő számára lehetővé tegye nyilvános elektronikus hírközlő hálózat rendelkezésre bocsátását vagy hasznosítását, illetve a nyilvánosság irányában egy vagy több elektronikus hírközlési szolgáltatás nyújtását;
 
 h) az 5. § (1) bekezdésében meghatározott ajánlatkérő szervezet olyan jogi személlyel kötött szerződésére, amely felett az ajánlatkérő a saját szervezeti egységei felettihez hasonló kontrollt gyakorol, döntő befolyással rendelkezik annak stratégiai céljai meghatározásában és működésével kapcsolatos jelentős döntéseinek meghozatalában, valamint amelyben közvetlen magántőke-részesedés nincsen, és amely éves nettó árbevételének több mint 80%-a a kontrollt gyakorló ajánlatkérővel vagy az ajánlatkérő által e pont szerint kontrollált más jogi személlyel kötött vagy kötendő szerződések teljesítéséből származik;
 
@@ -46,7 +46,7 @@ k) a központi beszerző szerv által közbeszerzési eljárás útján beszerze
 
 a) meglévő építmény vagy egyéb ingatlan vétele, illetve az arra vonatkozó egyéb jog megszerzése;
 
-b) audiovizuális vagy rádiós médiaszolgáltató olyan beszerzése, amelynek tárgya audiovizuális vagy rádiós médiaszolgáltatásra szánt műsorszám vétele, fejlesztése, előállítása, illetve audiovizuális vagy rádiós médiaszolgáltatók általi közös előállítása; valamint bármely ajánlatkérőnek az audiovizuális vagy rádiós médiaszolgáltatótól megrendelt műsorszám szolgáltatására vagy műsoridőre vonatkozó szerződése;
+b) audiovizuális vagy rádiós médiaszolgáltató olyan beszerzése, amelynek tárgya audiovizuális vagy rádiós médiaszolgáltatásra szánt műsorszám vétele, fejlesztése, előállítása, illetve audiovizuális vagy rádiós médiaszolgáltatók általi közös előállítása; valamint bármely ajánlatkérőnek az audiovizuális vagy rádiós médiaszolgáltatótól megrendelt műsorszám szolgáltatására vagy műsoridőre vonatkozó szerződése, továbbá az audiovizuális vagy rádiós médiaszolgáltatásra szánt műsorszám vételére, fejlesztésére, előállítására, közös előállítására vagy műsoridő vásárlásra vonatkozó szerződések;
 
 c) választottbírósági, közvetítői és békéltetői tevékenység;
 
@@ -60,11 +60,11 @@ dc) jogszabály alapján vagy bíróság által kirendelt vagyonkezelő, gyám v
 
 dd) tagállami hatósági hatáskör gyakorlását megtestesítő szolgáltatások;
 
-e) értékpapírok vagy egyéb pénzügyi eszközök kibocsátásával, eladásával, vételével vagy átruházásával kapcsolatos, a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott pénzügyi szolgáltatások, jegybanki szolgáltatások, valamint az Európai Pénzügyi Stabilitási Eszköz és az Európai Stabilitási Mechanizmus keretében végzett műveletek;
+e) értékpapírok vagy a befektetési vállalkozásokról és az árutőzsdei szolgáltatókról, valamint az általuk végezhető tevékenységek szabályairól szóló törvényben meghatározott egyéb pénzügyi eszközök kibocsátásával, eladásával, vételével vagy átruházásával kapcsolatos, a CPV-ben a 66100000-1 CPV kód alá tartozó (a 66110000-4 CPV kódtól a 66190000-8 CPV kódig megjelölt) pénzügyi szolgáltatások, jegybanki szolgáltatások, valamint az Európai Pénzügyi Stabilitási Eszköz és az Európai Stabilitási Mechanizmus keretében végzett műveletek;
 
 f) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény szerinti hitel- és kölcsönszerződések;
 
-g) munkaszerződés, közszolgálati, kormányzati szolgálati, állami szolgálati, vagy közalkalmazotti jogviszony, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony, ügyészségi szolgálati jogviszony, bírói szolgálati jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonya;
+g) munkaviszony, közszolgálati, kormányzati szolgálati, állami szolgálati, vagy közalkalmazotti jogviszony, a közszolgálati tisztviselőkről szóló törvény szerinti ösztöndíjas foglalkoztatási jogviszony, az állami projektértékelői jogviszony, ügyészségi szolgálati jogviszony, bírói szolgálati jogviszony, igazságügyi alkalmazotti szolgálati jogviszony, a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonya, valamint a Magyar Honvédség hivatásos, szerződéses és önkéntes tartalékos állományának szolgálati viszonya;
 
 h) nonprofit szervezetek vagy egyesületek által nyújtott, az állampolgárok védelmét szolgáló 75250000-3, 75251000-0, 75251100-1, 75251110-4, 75251120-7, 75252000-7, 75222000-8, 98113100-9, 85143000-3 CPV kódok által meghatározott polgári védelmi és veszélymegelőzési szolgáltatás, kivéve a betegszállítási mentőszolgáltatás;
 

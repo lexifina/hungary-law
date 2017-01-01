@@ -62,13 +62,15 @@ c) amely a közszolgáltató ajánlatkérővel közösen egy másik vállalkozá
 
 20. koncessziós jogosult: olyan gazdasági szereplő, amellyel az ajánlatkérő építési vagy szolgáltatási koncesszióra vonatkozó szerződést kötött;
 
-21. közbeszerzési dokumentum: minden olyan dokumentum, amelyet az ajánlatkérő a közbeszerzés vagy a koncesszió tárgya, illetve a közbeszerzési vagy koncessziós beszerzési eljárás leírása vagy meghatározása érdekében hoz létre, illetve amelyre ennek érdekében hivatkozik, így különösen az eljárást megindító hirdetmény, az eljárást megindító felhívásként alkalmazott előzetes tájékoztató, műszaki leírás, ismertető, kiegészítő tájékoztatás, javasolt szerződéses feltételek, a gazdasági szereplők által benyújtandó dokumentumok mintái, részletes ártáblázat vagy árazatlan költségvetés;
+21. közbeszerzési dokumentum: minden olyan dokumentum, amelyet az ajánlatkérő a közbeszerzés vagy a koncesszió tárgya, illetve a közbeszerzési vagy koncessziós beszerzési eljárás leírása vagy meghatározása érdekében hoz létre, illetve amelyre ennek érdekében hivatkozik, így különösen az eljárást meghirdető hirdetmény, az eljárást meghirdető felhívásként alkalmazott előzetes tájékoztató, műszaki leírás, ismertető, kiegészítő tájékoztatás, javasolt szerződéses feltételek, a gazdasági szereplők által benyújtandó dokumentumok mintái, részletes ártáblázat vagy árazatlan költségvetés;
 
 22. közbeszerzés előkészítése: az adott közbeszerzési vagy koncessziós beszerzési eljárás megkezdéséhez szükséges cselekmények elvégzése, így különösen az adott közbeszerzéssel kapcsolatos helyzet- és piacfelmérés, előzetes piaci konzultáció, a közbeszerzés becsült értékének felmérése, a közbeszerzési dokumentumok előkészítése;
 
 23. közbeszerzés megkezdése: a közbeszerzési vagy koncessziós beszerzési eljárást megindító vagy meghirdető hirdetmény feladásának időpontja, a hirdetmény nélkül induló eljárás esetében pedig az eljárást megindító felhívás vagy a tárgyalási meghívó megküldésének, ennek hiányában a tárgyalás megkezdésének időpontja;
 
 24. közbeszerzési szerződés: e törvény szerinti ajánlatkérő által, írásban megkötött, árubeszerzésre, szolgáltatás megrendelésre vagy építési beruházásra irányuló visszterhes szerződés;
+
+24a. közbeszerzési szolgáltató: olyan szervezet vagy személy, amely járulékos közbeszerzési szolgáltatást kínál a piacon, különösen a felelős akkreditált közbeszerzési szaktanácsadó;
 
 25. központi beszerző szerv: a központosított közbeszerzés során ajánlatkérésre feljogosított szervezet;
 
@@ -112,7 +114,7 @@ b) az a) pontban nem szereplő postai küldeményekhez, különösen címzés n�
 
 38. szociális foglalkoztatási engedéllyel rendelkező szervezet: a szociális igazgatásról és a szociális ellátásokról szóló törvényben kapott felhatalmazás alapján készült, a szociális foglalkoztatás engedélyezésének és ellenőrzésének, valamint a szociális foglalkoztatási támogatás igénylésének és a támogatás felhasználása ellenőrzésének szabályait tartalmazó kormányrendelet szerinti szociális foglalkoztatási engedéllyel rendelkező szervezet;
 
-39. támogatás: a közbeszerzésre irányuló szerződés teljesítéséhez pénzeszköz vagy egyéb anyagi előny juttatása az ajánlatkérő részére, ide nem értve az adókedvezményt és a kezességvállalást;
+39. támogatás: a közbeszerzésre irányuló szerződés teljesítéséhez pénzeszköz vagy egyéb anyagi előny juttatása az ajánlatkérő részére, ide nem értve az adókedvezményt, a kezességvállalást, és az adózó a társasági adóról és az osztalékadóról szóló törvényben meghatározott célra nyújtott támogatását, valamint az adózó a társasági adóról és az osztalékadóról szóló törvényben meghatározott kedvezményezett célra történő felajánlását;
 
 40. tervpályázat: olyan jogszabályban részletesen szabályozott eljárás, amely lehetővé teszi az ajánlatkérő szerv számára – főként a település- és területrendezés, építészet és építés, illetve adatfeldolgozás területén – olyan tervnek vagy tervrajznak a megszerzését, amelyet díjazásos vagy díjazás nélküli pályáztatás után egy bírálóbizottság választott ki;
 

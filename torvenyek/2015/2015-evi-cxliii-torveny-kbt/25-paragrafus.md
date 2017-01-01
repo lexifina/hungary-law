@@ -6,7 +6,7 @@
 
 25. § (1) Az ajánlatkérő köteles minden szükséges intézkedést megtenni annak érdekében, hogy elkerülje az összeférhetetlenséget és a verseny tisztaságának sérelmét eredményező helyzetek kialakulását.
 
-(2) Összeférhetetlen és nem vehet részt az eljárás előkészítésében és lefolytatásában az ajánlatkérő nevében olyan személy vagy szervezet, amely funkcióinak pártatlan és tárgyilagos gyakorlására bármely okból, így különösen gazdasági vagy más érdek vagy az eljárásban részt vevő gazdasági szereplővel fennálló más közös érdek miatt nem képes.
+(2) Összeférhetetlen és nem vehet részt az eljárás előkészítésében és lefolytatásában az ajánlatkérő nevében olyan személy vagy szervezet – ide értve a közbeszerzési szolgáltatót, valamint az általa foglalkoztatottakat is –, amely funkcióinak pártatlan és tárgyilagos gyakorlására bármely okból, így különösen gazdasági vagy más érdek vagy az eljárásban részt vevő gazdasági szereplővel fennálló más közös érdek miatt nem képes.
 
 (3) Összeférhetetlen és nem vehet részt az eljárásban ajánlattevőként, részvételre jelentkezőként, alvállalkozóként vagy az alkalmasság igazolásában részt vevő szervezetként
 

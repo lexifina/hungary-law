@@ -36,7 +36,7 @@ f) tevékenységét a jogi személlyel szemben alkalmazható büntetőjogi inté
 
 g) közbeszerzési eljárásokban való részvételtől a 165. § (2) bekezdés f) pontja alapján jogerősen eltiltásra került, a Közbeszerzési Döntőbizottság vagy – a Közbeszerzési Döntőbizottság határozatának felülvizsgálata esetén – a bíróság által jogerősen megállapított időtartam végéig;
 
-h) korábbi közbeszerzési vagy koncessziós beszerzési eljárásban hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, ezért az eljárásból kizárták, és a kizárás tekintetében jogorvoslatra nem került sor az érintett közbeszerzési eljárás lezárulásától számított három évig;
+h) korábbi közbeszerzési vagy koncessziós beszerzési eljárásban hamis adatot szolgáltatott vagy hamis nyilatkozatot tett, ezért az eljárásból kizárták, és a kizárás tekintetében jogorvoslatra nem került sor, az érintett közbeszerzési eljárás lezárulásától számított három évig, vagy amennyiben a kizárás tekintetében sor került jogorvoslatra és az ajánlatkérő kizárásról hozott döntését – a hamis adat szolgáltatásának megállapítása mellett – a Közbeszerzési Döntőbizottság, a Döntőbizottság határozatának bírósági felülvizsgálata esetén a bíróság három évnél nem régebben meghozott határozata jogerősen jogszerűnek mondta ki;
 
 i) az adott eljárásban előírt adatszolgáltatási kötelezettség teljesítése során a valóságnak nem megfelelő adatot szolgáltat (a továbbiakban: hamis adat), illetve hamis adatot tartalmazó nyilatkozatot tesz, vagy a közbeszerzési eljárásban előzetes igazolásként benyújtott nyilatkozata ellenére nem tud eleget tenni az alkalmasságot, a kizáró okokat vagy a 82. § (5) bekezdése szerinti kritériumokat érintő igazolási kötelezettségének (a továbbiakban együtt: hamis nyilatkozat), amennyiben
 
@@ -62,7 +62,9 @@ n) a Tpvt. 11. §-a, vagy az EUMSZ 101. cikke szerinti – három évnél nem r�
 
 o) esetében az ajánlatkérő bizonyítani tudja, hogy az adott közbeszerzési eljárásban az ajánlattevő a Tpvt. 11. §-a, vagy az EUMSZ 101. cikkébe ütköző jogsértést követett el, kivéve, ha a gazdasági szereplő az ajánlat, tárgyalásos eljárásban és versenypárbeszédben végleges ajánlat benyújtását megelőzően a Gazdasági Versenyhivatal számára a Tpvt. 11. §-ába vagy az EUMSZ 101. cikkébe ütköző magatartást feltárja és a Tpvt. 78/A. § (2) bekezdésében foglalt, a bírság mellőzésére vonatkozó feltételek fennállását a Gazdasági Versenyhivatal a Tpvt. 78/C. § (2) bekezdése szerinti végzésében megállapította;
 
-p) a 135. § (7)–(9) bekezdése szerinti előleget nem a szerződésnek megfelelően használta fel, és ezt három évnél nem régebben meghozott, jogerős bírósági, közigazgatási (vagy annak felülvizsgálata esetén bírósági határozat) megállapította.
+p) a közbeszerzési vagy koncessziós beszerzési eljárás eredményeként kötött szerződésben részére biztosított előleget nem a szerződésnek megfelelően használta fel, és ezt három évnél nem régebben meghozott, jogerős bírósági, közigazgatási vagy annak felülvizsgálata esetén bírósági határozat megállapította;
+
+q) súlyosan megsértette a közbeszerzési eljárás vagy koncessziós beszerzési eljárás eredményeként kötött szerződés teljesítésére e törvényben előírt rendelkezéseket, és ezt a Közbeszerzési Döntőbizottság, vagy a Döntőbizottság határozatának bírósági felülvizsgálata esetén a bíróság 90 napnál nem régebben meghozott, jogerős határozata megállapította.
 
 (2) A gazdasági szereplő akkor sem lehet ajánlattevő, részvételre jelentkező, alvállalkozó, és nem vehet részt alkalmasság igazolásában, amennyiben
 

@@ -24,4 +24,4 @@ rendelkezik.
 
 (6) A Döntőbizottság elnökének közszolgálati jogviszonyára a Kttv.-t a közbeszerzési biztosok közszolgálati jogviszonyára vonatkozó, e törvényben foglalt eltérésekkel kell alkalmazni.
 
-(7) A Döntőbizottság elnöke a helyettes államtitkárt megillető illetményre, valamint egyéb juttatásokra jogosult. Az elnökhelyettes főosztályvezetői illetményre jogosult.
+(7) A Döntőbizottság elnöke az államtitkárt megillető illetményre, valamint egyéb juttatásokra jogosult. Az elnökhelyettes főosztályvezetői illetményre jogosult.

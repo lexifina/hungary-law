@@ -1,6 +1,6 @@
 63. § (1) Az ajánlatkérő az eljárást megindító felhívásban előírhatja, hogy az eljárásban nem lehet ajánlattevő, részvételre jelentkező, alvállalkozó, illetve nem vehet részt alkalmasság igazolásában olyan gazdasági szereplő, aki
 
-a) megszegte a 73. § (4) bekezdésében említett környezetvédelmi, szociális és munkajogi követelményeket és ezt három évnél nem régebben meghozott, jogerős bírósági, közigazgatási vagy annak felülvizsgálata esetén bírósági határozat megállapította;
+a) a 73. § (4) bekezdésében említett környezetvédelmi, szociális és munkajogi követelményeket súlyosan megszegte, és ezt három évnél nem régebben meghozott, jogerős bírósági, közigazgatási vagy annak felülvizsgálata esetén bírósági határozat megállapította;
 
 b) három évnél nem régebben hozott jogerős bírósági, közigazgatási vagy annak felülvizsgálata esetén bírósági határozat megállapította, hogy jogszabályban meghatározott szakmai kötelezettségét – a c) pontban meghatározott eset kivételével – súlyosan megszegte vagy külön jogszabályban meghatározott szakmai szervezet etikai eljárása által megállapított, súlyos, szakmai etikai szabályokba ütköző cselekedetet követett el;
 

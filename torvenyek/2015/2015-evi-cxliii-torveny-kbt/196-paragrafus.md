@@ -4,4 +4,4 @@
 
 (2)
 
-(3) A 40. § 2017. február 1-jén lép hatályba.
+(3) A 40. § 2017. december 31-én lép hatályba.

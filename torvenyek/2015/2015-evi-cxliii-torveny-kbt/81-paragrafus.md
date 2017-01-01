@@ -14,7 +14,7 @@
 
 (5) Az ajánlatkérő nyílt eljárásban az eljárást megindító felhívásban rendelkezhet úgy is, hogy az ajánlatok bírálatát – az egységes európai közbeszerzési dokumentumban foglalt nyilatkozat alapján – az ajánlatok értékelését követően végzi el. Ebben az esetben csak az értékelési sorrendben legkedvezőbb vagy a legkedvezőbb és az azt követő egy vagy több legkedvezőbb ajánlattevő tekintetében végzi el a bírálatot. A 69. § rendelkezéseit megfelelően alkalmazni kell azzal, hogy a bírálat során ilyenkor is biztosítani kell, hogy az összegezésben megnevezett nyertes – és ha az összegezésben meg kívánja nevezni, a második legkedvezőbb ajánlatot tett – ajánlattevő ajánlatának érvényességét az eljárást lezáró döntést megelőzően az ajánlatkérő az ajánlattevő nyilatkozatát alátámasztó igazolások vizsgálatára is kiterjedően teljeskörűen elbírálja.
 
-(6) A (4)–(5) bekezdés szerinti lehetőséggel az ajánlatkérő csak akkor élhet, ha az értékelés alkalmazott szempontjait és módszerét figyelembe véve valamely ajánlat érvénytelensége esetén a többi ajánlat egymáshoz viszonyított sorrendje egyébként nem változna.
+(6)
 
 (7) Az ajánlati felhívásban az ajánlatkérő nem határozhatja meg az ajánlattételi határidőt az ajánlati felhívást tartalmazó hirdetmény feladásának napjától számított harmincöt napnál rövidebb időtartamban. Az ajánlattételi határidőt az ajánlati felhívást tartalmazó hirdetmény feladásának napjától számított legalább harminc napban lehet meghatározni, ha a közbeszerzési eljárásban az ajánlatok elektronikus úton is benyújthatóak.
 

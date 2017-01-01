@@ -1,36 +1,28 @@
 ## A Hatóság keretében működő Tanács
 
-182. § (1) A Tanács tizenkilenc tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
+182. § (1) A Tanács tizenhárom tagból áll. A Tanács tagjai az egyes közérdekű célokat, az ajánlatkérőket és az ajánlattevőket képviselik.
 
 (2) A törvény alapelveinek, az egyes közérdekű céloknak, az ajánlatkérők, valamint az ajánlattevők érdekeinek az érvényesítése a Tanácsban a következő személyek feladata:
 
-a) az állami vagyon felügyeletéért felelős miniszter által kijelölt személy;
+a) a gazdaságpolitikáért felelős miniszter által kijelölt személy;
 
-b) a gazdaságpolitikáért felelős miniszter által kijelölt személy;
+b) a közbeszerzésekért felelős miniszter által kijelölt személy;
 
-c) az agrárpolitikáért felelős miniszter és a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara elnöke által közösen kijelölt személy;
+c) az építésügyért felelős miniszter által kijelölt személy;
 
-d) a közbeszerzésekért felelős miniszter által kijelölt személy;
+d) az állami vagyon felügyeletéért felelős miniszter által kijelölt személy;
 
-e) az építésügyért felelős miniszter által kijelölt személy;
+e) a Gazdasági Versenyhivatal elnöke vagy az általa kijelölt személy;
 
-f) az Állami Számvevőszék elnöke vagy az általa kijelölt személy;
+f) a Kormányzati Ellenőrzési Hivatal elnöke vagy az általa kijelölt személy;
 
-g) a Gazdasági Versenyhivatal elnöke vagy az általa kijelölt személy;
+g) a helyi önkormányzatok országos szövetségei által együttesen kijelölt személy;
 
-h) a Kormányzati Ellenőrzési Hivatal elnöke vagy az általa kijelölt személy;
+h) a munkáltatók országos érdekképviseletei és az országos gazdasági kamarák – köztük a Magyar Agrár, Élelmiszergazdasági és Vidékfejlesztési Kamara – által kijelölt három személy;
 
-i) a Nemzeti Fogyasztóvédelmi Hatóság vezetője vagy az általa kijelölt személy;
+i) a Magyar Mérnöki Kamara elnöke és a Magyar Építész Kamara elnöke által közösen kijelölt személy;
 
-j) a Magyar Nemzeti Bank elnöke vagy az általa kijelölt személy;
-
-k) a helyi önkormányzatok országos szövetségei által együttesen kijelölt személy;
-
-l) a munkáltatók országos érdekképviseletei és az országos gazdasági kamarák által kijelölt négy személy;
-
-m) a Magyar Mérnöki Kamara elnöke és a Magyar Építész Kamara elnöke által közösen kijelölt személy;
-
-n) a felelős akkreditált közbeszerzési szaktanácsadók szakmai testülete által kijelölt két személy.
+j) a felelős akkreditált közbeszerzési szaktanácsadók szakmai testülete által kijelölt személy.
 
 (3) A Tanács elnöke a Hatóság elnöke. A Tanács alelnöke a Hatóság alelnöke.
 
@@ -52,4 +44,4 @@ b) büntetett előéletű.
 
 (10) A tagok kijelölésének és visszahívásának a (7)–(9) bekezdés esetén kívüli szabályait a kijelölő szervezetek állapítják meg úgy, hogy a Tanács működőképessége állandóan biztosítható legyen.
 
-(11) A tagok megbízatásukat személyesen kötelesek ellátni.
+(11) A tagok megbízatásukat személyesen kötelesek ellátni. A tagok tiszteletdíjra jogosultak, amelynek havi mértékét a Hatóság szervezeti és működési szabályzata rögzíti.

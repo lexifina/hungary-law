@@ -1,4 +1,4 @@
-39. § (1) Az ajánlatkérő köteles a közbeszerzési dokumentumokat a gazdasági szereplők számára elektronikus úton, – a regisztrálási adatok megkérésének kivételével – korlátlanul és teljeskörűen, térítésmentesen hozzáférhetővé tenni.
+39. § (1) Az ajánlatkérő köteles a közbeszerzési dokumentumokat a gazdasági szereplők számára elektronikus úton, – a regisztrálási adatok megkérésének kivételével – közvetlenül, korlátlanul és teljeskörűen, térítésmentesen hozzáférhetővé tenni.
 
 (2) Amennyiben egyes közbeszerzési dokumentumok elektronikus, korlátlan, teljes körű, térítésmentes hozzáférhetővé tétele nem lehetséges, mert
 

@@ -6,4 +6,4 @@
 
 a) az ajánlatkérőnek nem szükséges indokolnia, ha eltekint alkalmassági követelmény előírásától,
 
-b) az ajánlatkérő elfogadhatja az ajánlattevő egységes európai közbeszerzési dokumentumba foglalt nyilatkozatát – a rendelkezésre álló elektronikus nyilvántartások ajánlatkérő általi ellenőrzése mellett – a kizáró okok fenn nem állásának végleges igazolásaként.
+b) az ajánlatkérő elfogadhatja az ajánlattevő (adott esetben az egységes európai közbeszerzési dokumentumba foglalt) nyilatkozatát – a rendelkezésre álló elektronikus nyilvántartások ajánlatkérő általi ellenőrzése mellett – a kizáró okok fenn nem állásának végleges igazolásaként.

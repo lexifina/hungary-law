@@ -28,7 +28,7 @@ j) a szerződés módosításáról szóló tájékoztatót.
 
 (2) Az (1) bekezdés h)–i) pontja szerinti eljárás eredményéről szóló tájékoztatót az ajánlatkérő legkésőbb a szerződéskötést, ennek hiányában az eljárás eredménytelenné nyilvánításáról vagy a szerződés megkötésének megtagadásáról [131. § (9) bekezdés] szóló ajánlatkérői döntést követő tíz munkanapon belül köteles megküldeni közzétételre. A közbeszerzési eljárás e hirdetmény közzétételével zárul le.
 
-(3) Az ajánlatkérő – amennyiben az eljárást megindító felhívást előzetes tájékoztató formájában tette közzé – köteles az eljárás eredményéről szóló tájékoztatóban feltüntetni, ha az előzetes tájékoztatóban meghatározott időszak alatt további szerződést nem kíván kötni.
+(3) Az ajánlatkérő köteles az eljárás eredményéről szóló tájékoztatóban feltüntetni, ha az előzetes tájékoztatóban meghatározott időszak alatt további szerződést nem kíván kötni.
 
 (4) Az ajánlatkérő a (2) bekezdéstől eltérően az eljárás eredményéről szóló tájékoztatót keretmegállapodás vagy dinamikus beszerzési rendszer alkalmazása esetén a keretmegállapodás alapján, vagy a dinamikus beszerzési rendszer keretében kötött szerződésekről együttesen is közzéteheti. Ebben az esetben a hirdetményt a megelőző negyedév során kötött szerződésekről a naptári negyedév utolsó napját követő tíz munkanapon belül kell megküldeni közzétételre.
 

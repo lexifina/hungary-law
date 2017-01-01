@@ -14,7 +14,9 @@ db) kőolaj vagy földgáz kitermelése céljából, vagy
 
 dc) szén vagy más tüzelőanyag feltárása és kitermelése céljából;
 
-e) postai szolgáltatás vagy a postai szolgáltató által nyújtott postai szolgáltatásoktól eltérő szolgáltatás nyújtása.
+e) postai szolgáltatás nyújtása,
+
+f) postai szolgáltatásoktól eltérő szolgáltatás nyújtása, feltéve, hogy az ajánlatkérő az e) pont szerinti olyan postai szolgáltatásokat is nyújt, amelyek nem tartoznak a 13. § hatálya alá.
 
 (2) Közszolgáltató tevékenységnek minősül, ha a (1) bekezdés a) pontjában meghatározott, ivóvízzel kapcsolatos tevékenységet folytató közszolgáltató ajánlatkérő közbeszerzési eljárása
 

@@ -28,7 +28,7 @@ l) a hitelintézetekről és a pénzügyi vállalkozásokról szóló törvény 
 
 m) a postai szolgáltatást vagy a postai szolgáltató által nyújtott postai szolgáltatásoktól eltérő szolgáltatást nyújtó szervezet beszerzései vonatkozásában;
 
-n) kulturális javak körébe tartozó tárgyak vételére és a rájuk vonatkozó egyéb jogok megszerzésére;
+n) kulturális javak körébe tartozó tárgyak vételére és a rájuk vonatkozó egyéb jogok megszerzésére, valamint hangszerek, hangszertartozékok és hangszeralkatrészek beszerzésére;
 
 o) az Országgyűlésről szóló 2012. évi XXXVI. törvény 113. §-ában és 114. § (3) bekezdésében meghatározott keret terhére történő beszerzések vonatkozásában;
 
@@ -36,8 +36,14 @@ p) olyan szolgáltatás megrendelése esetében, amely a pártok működését s
 
 q) a külképviselet számára történő beszerzés esetén;
 
-r) a 71221000-3, 71222000-0, 71223000-7, 71243000-3, 71245000-7, 71410000-5, 71420000-8, 79932000-6 CPV kódok által meghatározott tervezési szolgáltatásokra;
+r) az épített környezet alakításáról és védelméről szóló törvény szerinti épületre vonatkozó építészeti-műszaki tervezési szolgáltatás, belsőépítészeti tervezési szolgáltatás, településtervezési vagy tájrendezési tervezési szolgáltatás megrendelésére – az ezekhez kapcsolódó szakági tervezési tevékenységekre kizárólag akkor, ha annak megrendelésére építészeti, belsőépítészeti, településtervezési vagy tájrendezési tervezéssel együttesen, ugyanazon tervezett építési beruházás tekintetében kerül sor;
 
 s) a 71241000-9, 71242000-6, 71244000-0, 71246000-4, 71247000-1 CPV kódok által meghatározott szolgáltatásokra, feltéve, hogy a szolgáltatás megrendelésére az r) pontban meghatározott tervezési szolgáltatással együttesen, ugyanazon építési beruházás tekintetében kerül sor;
 
-t) a védett munkahelyen, megváltozott munkaképességű személyek által előállított áruk, vagy teljesített szolgáltatások beszerzésére.
+t) a védett munkahelyen, megváltozott munkaképességű személyek által előállított áruk, vagy teljesített szolgáltatások beszerzésére;
+
+u) mezőgazdasági termelő, kutató tevékenység során felhasználásra kerülő 24400000-8-tól 24457000-2-ig tartó CPV kódok által meghatározott termésnövelő anyagok és engedélyezett növényvédő szerek beszerzésére;
+
+v) a kutatás-fejlesztési és innovációs célú támogatásból megvalósuló beszerzésekre a 24000000-4-tól 24327500-7-ig és 24500000-9-tól 24965000-6-ig tartó CPV kódok által meghatározott áruk vonatkozásában;
+
+x) olyan beszerzés esetén, ahol a szerződésben foglalt feladatot az 5. § (1) bekezdése vagy a 7. § (2) bekezdése szerinti ajánlatkérő vagy az említett ajánlatkérők társulása jogszabályban vagy hatósági határozatban – az EUMSZ-szel összhangban – meghatározott kizárólagos jog alapján teljesíti.

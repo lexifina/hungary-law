@@ -10,7 +10,7 @@ aa) a törvény hatálya alá tartozó ajánlatkérők listáját,
 
 ab) a minősített ajánlattevők Hatóság által létrehozott hivatalos jegyzékét,
 
-ac) a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékét,
+ac) a 62. § (1) bekezdés h) pontja szerinti kizárást megalapozó döntőbizottsági és bírósági határozatok számát és a határozathozatal napját, valamint – a jogsértés súlyosságának mérlegelése nélkül – minden olyan döntőbizottsági, vagy annak felülvizsgálata esetén jogerős bírósági határozat számát és a határozathozatal napját, amely megalapozhatja a 62. § (1) bekezdés q) pontja szerinti kizárást;
 
 ad) a közbeszerzési eljárásban való részvételtől eltiltott ajánlattevők listáját, amely lista tartalmazza az eltiltás idejét is,
 
@@ -44,7 +44,7 @@ l) a közbeszerzési szabályozás széles körű megismertetése érdekében ko
 
 m) a közbeszerzési eljárások előkészítése és lebonyolítása során az ajánlatkérők segítése érdekében – elvi jelentőségű jogértelmezési kérdésekben a közbeszerzésekért felelős miniszterrel szükség szerint egyeztetve – állásfoglalásokat ad;
 
-n) az Európai Unió más tagállamainak közbeszerzési szervezeteivel való kapcsolattartás keretében – különösen a közbeszerzési eljárások során alkalmazandó igazolásokról, Magyarországon nyilvánosan elérhető adatbázisokról, nyilvántartásokról – információt szolgáltat, gondoskodik a vonatkozó nyilvántartások listájának az e-Certis rendszerben való közzétételéről, és teljesíti különösen a 2014/24/EU irányelv 44. cikk (3) bekezdésében, 59. cikk (6) bekezdésében, 60. cikk (5) bekezdésében, 61. cikk (1) bekezdésében, 62. cikk (3) bekezdésében, 64. cikk. (1) és (8) bekezdésében, valamint 69. cikk (5) bekezdésében foglalt kötelezettségeket, továbbá a 2014/25/EU irányelv 62. cikk (3) bekezdésében, 81. cikk (3) bekezdésében, valamint 84. cikk (5) bekezdésében foglalt kötelezettségeket;
+n) az Európai Unió más tagállamainak közbeszerzési szervezeteivel való kapcsolattartás keretében – különösen a közbeszerzési eljárások során alkalmazandó igazolásokról, Magyarországon nyilvánosan elérhető adatbázisokról, nyilvántartásokról – információt szolgáltat, gondoskodik a vonatkozó nyilvántartások listájának az e-Certis rendszerben való közzétételéről, és teljesíti különösen a 2014/24/EU irányelv 44. cikk (3) bekezdésében, 59. cikk (6) bekezdésében, 60. cikk (5) bekezdésében, 61. cikk (1) bekezdésében, 62. cikk (3) bekezdésében, 64. cikk (1) és (8) bekezdésében, valamint 69. cikk (5) bekezdésében foglalt kötelezettségeket, továbbá a 2014/25/EU irányelv 62. cikk (3) bekezdésében, 81. cikk (3) bekezdésében, 84. cikk (5) bekezdésében, 86. cikk (1) és (4) bekezdésében foglalt kötelezettségeket;
 
 o) figyelemmel kíséri e törvény szabályainak érvényesülését, kezdeményezi az arra jogosultnál a közbeszerzésekkel kapcsolatos jogszabályok megalkotását, módosítását;
 
@@ -58,7 +58,7 @@ s) statisztikai adatokat gyűjt a közbeszerzési eljárásokról, melyeket felh
 
 t) elkészíti a Hatóság szervezeti és működési, valamint más, a Hatóság működését érintő belső szabályzatát, továbbá költségvetési javaslatát és éves költségvetési beszámolóját, jóváhagyja a Közbeszerzési Döntőbizottság szervezeti és működési szabályzatát;
 
-u) ellátja az elektronikus közbeszerzési rendszer fenntartásával és működtetésével kapcsolatos feladatokat;
+u) honlapján közzéteszi a közbeszerzésekért felelős miniszter által nyilvántartott felelős akkreditált közbeszerzési szaktanácsadóknak a felelős akkreditált közbeszerzési szaktanácsadói tevékenységről szóló miniszteri rendeletben meghatározott adatait;
 
 v) ellátja a részére törvényben előírt egyéb feladatokat.
 
@@ -68,22 +68,14 @@ v) ellátja a részére törvényben előírt egyéb feladatokat.
 
 (5) A Hatóság, a gazdasági, valamint szakmai kamara a minősített ajánlattevők hivatalos jegyzékének vezetése céljából jogosult a kérelmező által megnevezett személyek természetes személyazonosító adatait, valamint képzettségre és végzettségre, szakmai gyakorlatra vonatkozó adatait kezelni.
 
-(6) A Hatóság a felelős akkreditált közbeszerzési szaktanácsadók névjegyzékének vezetése céljából jogosult a felelős akkreditált közbeszerzési szaktanácsadó természetes személyazonosító adatait, elérhetőségi címét, végzettségét, a cselekvőképességére és büntetett előéletre vonatkozó adatokat, a munkáltatóra és a felelős akkreditált közbeszerzési szaktanácsadó közbeszerzési gyakorlatára vonatkozó adatokat, valamint azt nyilvántartani, hogy a felelős akkreditált közbeszerzési szaktanácsadó jogosult-e az ügyvédekről szóló 1998. évi XI. törvény 5. § (1) és (2) bekezdésében meghatározott tevékenység folytatására.
+(6)
 
-(7) A Hatóság a (6) bekezdésben foglalt adatokat a felelős akkreditált közbeszerzési szaktanácsadó jegyzékből történő törlését követően egy évig kezelheti. Törölni kell a névjegyzékből a felelős akkreditált közbeszerzési szaktanácsadót, ha nem felel meg a külön jogszabályban meghatározott bejegyzési feltételeknek, ha a (8) bekezdésben foglalt valamely kizáró ok bekövetkezik vagy jogerős határozattal megállapították, hogy a felelős akkreditált közbeszerzési szaktanácsadó ilyen minőségében szándékos jogszabálysértést követett el, ha a névjegyzékbe vétel hatálya lejárt és nem nyújtottak be megújítási kérelmet vagy azt elutasították, ha azt a felelős akkreditált közbeszerzési szaktanácsadó kéri, valamint a névjegyzékben szereplő személy halála esetén.
+(7)
 
-(8) Nem lehet felelős akkreditált közbeszerzési szaktanácsadó, aki
+(8)
 
-a) cselekvőképtelen vagy cselekvőképességében részlegesen korlátozott;
-
-b) a büntetett előélethez fűződő hátrányok alól nem mentesült;
-
-c) közbeszerzési biztos;
-
-d) a Közbeszerzési Hatóság elnöke vagy alelnöke.
-
-(9) A bejegyzés iránti kérelemhez csatolni kell azokat az okiratokat vagy azok hiteles másolatát is, amelyek a (8) bekezdés szerinti kizáró ok fenn nem állását igazolják. A névjegyzékbe történő felvételért, a bejegyzés megújításáért, illetve a névjegyzékbe bejelentett adatok kiegészítéséért külön jogszabályban meghatározott mértékű igazgatási szolgáltatási díjat kell fizetni.
+(9)
 
 (10) A Hatóság a közbeszerzések terén fennálló nemzetközi szerződésekről, továbbá azokról az államokról, amelyekkel Magyarországnak kettős adózás elkerüléséről szóló egyezménye van, a külpolitikáért felelős miniszterrel egyeztetve útmutatót ad ki.
 
-(11) A Hatóság a (2) bekezdés a) pont ab) és ac) alpontja szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a Hatóság elnökének köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A Hatóság feladatkörében hozott határozatával és végzésével szemben nincs helye fellebbezésnek, kivéve, ha e törvény eltérően rendelkezik. A (2) bekezdés a) pont ab) alpontja szerinti eljárás esetében a kérelmező, illetve az érintett minősített ajánlattevő, a (2) bekezdés a) pont ac) alpontja szerinti eljárás esetében pedig a kérelmező, illetve az érintett felelős akkreditált közbeszerzési szaktanácsadó a határozat felülvizsgálatát kérheti a bíróságtól a határozat kézhezvételétől számított tizenöt napon belül. A kérelemről a közigazgatási és munkaügyi bíróság nemperes eljárásban, a kérelem benyújtásától számított hatvan napon belül határoz, a Hatóság határozatát megváltoztathatja. A bíróság végzése ellen fellebbezésnek és felülvizsgálatnak nincs helye. A bíróság eljárására a Pp. XX. fejezetét kell megfelelően alkalmazni, ha e törvényből, illetve a nemperes eljárás jellegéből más nem következik.
+(11) A Hatóság (2) bekezdés a) pont ab) alpontja szerinti eljárásában vagy annak előkészítésében nem vehet részt olyan személy, akinek az eljárással érintettekhez személyi vagy vagyoni érdekeltsége fűződik. Ezzel az összeférhetetlenségi okkal érintett személy a Hatóság elnökének köteles ezt haladéktalanul bejelenteni, és köteles a folyamatban levő eljárásban vagy előkészítésében való részvételét azonnal megszüntetni. A Hatóság feladatkörében hozott határozatával és végzésével szemben nincs helye fellebbezésnek, kivéve, ha e törvény eltérően rendelkezik. A kérelmező, illetve az érintett minősített ajánlattevő a határozat felülvizsgálatát kérheti a bíróságtól a határozat kézhezvételétől számított tizenöt napon belül. A kérelemről a közigazgatási és munkaügyi bíróság nemperes eljárásban, a kérelem benyújtásától számított hatvan napon belül határoz, a Hatóság határozatát megváltoztathatja. A bíróság végzése ellen fellebbezésnek és felülvizsgálatnak nincs helye. A bíróság eljárására a Pp. XX. fejezetét kell megfelelően alkalmazni, ha e törvényből, illetve a nemperes eljárás jellegéből más nem következik.

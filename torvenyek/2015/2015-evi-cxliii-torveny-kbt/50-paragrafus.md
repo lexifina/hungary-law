@@ -28,9 +28,9 @@ k) a részajánlattétel lehetőségét vagy annak kizárását. Ha részajánla
 
 l) az ajánlatok értékelési szempontjait. Ha a gazdaságilag legelőnyösebb ajánlatot nem kizárólag az ár vagy kizárólag a 78. § szerint meghatározott költség alapján választják ki, a gazdaságilag legelőnyösebb ajánlatra vonatkozó értékelési szempontok súlyozását (kivételesen sorrendjét) is fel kell tüntetni;
 
-m) a kizáró okokat és a megkövetelt igazolási módokat;
+m) a kizáró okokat és utalást a megkövetelt igazolási módokra;
 
-n) az alkalmassági követelményeket, az alkalmasság megítéléséhez szükséges adatokat és a megkövetelt igazolási módot;
+n) az alkalmassági követelményeket és utalást a megkövetelt igazolási módokra;
 
 o) az ajánlattételi határidőt vagy részvételi felhívás esetén a részvételi határidőt;
 

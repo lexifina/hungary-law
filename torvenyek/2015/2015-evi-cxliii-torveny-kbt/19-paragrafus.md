@@ -6,7 +6,7 @@
 
 (4) Ha a közbeszerzés (3) bekezdés szerint megállapított becsült értéke eléri vagy meghaladja az e törvény szerinti uniós értékhatárokat, a (3) bekezdéstől eltérően a Harmadik Rész szerinti eljárás alkalmazható olyan szerződések megkötésére, amelyek
 
-a) önmagában vett becsült értéke szolgáltatás megrendelése és árubeszerzés esetében 23 455 200 forintnál, építési beruházások esetében pedig 293 190 000 forintnál kevesebb, és
+a) önmagában vett becsült értéke szolgáltatás megrendelése és árubeszerzés esetében 80 000 eurónál, építési beruházások esetében pedig 1 000 000 eurónál kevesebb, és
 
 b) a leválasztott részek összértéke nem haladja meg a (3) bekezdés alkalmazásával megállapított teljes becsült érték 20%-át.
 

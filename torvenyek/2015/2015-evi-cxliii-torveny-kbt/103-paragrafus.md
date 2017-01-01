@@ -4,4 +4,8 @@
 
 (3) A 98. § (4) bekezdés c) és d) pontja szerinti tárgyalásos eljárás megkezdése napján az ajánlatkérő köteles a Közbeszerzési Hatósághoz benyújtani a tárgyalásos eljárás alkalmazását megalapozó körülményekről szóló tájékoztatást, a d) pont szerinti esetben továbbá az érintett szervezet nevét és címét.
 
-(4) A 98. § (2) bekezdés e) pontja szerinti tárgyalásos eljárás esetében a Közbeszerzési Hatóság részletes indokolással ellátott döntést hoz, amely alapján a tárgyalásos eljárás jogalapjának megalapozottsága egyértelműen megállapítható. A Közbeszerzési Hatóság döntését honlapján is közzéteszi.
+(4) A Közbeszerzési Hatóság részletes indokolással ellátott döntést hoz, amelynek alapján a tárgyalásos eljárás jogalapjának megalapozottsága egyértelműen megállapítható. A Közbeszerzési Hatóság döntését honlapján is közzéteszi.
+
+(5) Az ajánlatkérő a 98. § (2) bekezdés c) pontja szerinti hirdetmény nélküli tárgyalásos eljárás alkalmazása esetén legalább tíz nappal a szerződés megkötését megelőzően köteles a 137. § (2) bekezdésében meghatározott hirdetményt közzétenni.
+
+(6) Az ajánlatkérő a hirdetmény nélküli tárgyalásos eljárás megkezdése napján köteles a Közbeszerzési Adatbázisban és honlapján is közzétenni az (1) bekezdés szerint a Közbeszerzési Hatóságnak megküldött minden dokumentumot, valamint a közbeszerzési dokumentumokat és az ajánlatok bontását követően a bontásról készült jegyzőkönyvet.

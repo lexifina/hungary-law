@@ -6,11 +6,11 @@
 
 a) az uniós értékhatárt elérő értékű eredeti szerződés esetén az uniós értékhatárt;
 
-b) szolgáltatás és árubeszerzés esetén az eredeti szerződés értékének 10%-át, építési beruházás, építési vagy szolgáltatási koncesszió esetén az eredeti szerződéses érték 15%-át;
+b) szolgáltatás, árubeszerzés és építési vagy szolgáltatási koncesszió esetén az eredeti szerződés értékének 10%-át, építési beruházás esetén az eredeti szerződéses érték 15%-át;
 
 valamint a módosítás nem változtatja meg a szerződés általános jellegét és illeszkedik az eredeti szerződés jellegéhez.
 
-(3) A (2) bekezdést arra a szerződésmódosításra lehet alkalmazni, amely a szerződés értékének változásával jár, a szerződéses jogviszony több elemét érintő módosítás esetén a módosítás azon elemeire, amelyek az érték változásával összefüggenek.
+(3) A (2) bekezdést arra a szerződésmódosításra lehet alkalmazni, amely a szerződés értékének változásával jár, a szerződéses jogviszony több elemét érintő módosítás esetén a módosítás azon elemeire, amelyek az érték változásával összefüggenek. Nem alkalmazható a (2) bekezdés a szerződésmódosításra akkor, ha a szerződéskötést megelőző közbeszerzési eljárást az ajánlatkérő olyan szabályok szerint indította meg, amelyek nem lettek volna jogszerűen alkalmazhatóak, ha az ajánlatkérő az eljárás becsült értékét a szerződésmódosítást követő értékét figyelembe véve határozta volna meg.
 
 (4) A (2) bekezdésben szabályozott esetek mellett a szerződés – a (6) bekezdésben foglalt feltételek vizsgálata nélkül – új közbeszerzési eljárás lefolytatása nélkül módosítható, illetve módosulhat az alábbiak közül bármely esetben:
 
