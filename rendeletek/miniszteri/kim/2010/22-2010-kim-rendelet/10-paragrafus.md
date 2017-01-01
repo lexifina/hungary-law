@@ -1,14 +1,14 @@
 ## 9. § Ez a rendelet 2011. január 1. napján lép hatályba.
 
-10–11. §[^9]
+10–11. §[^10]
 
-Melléklet a 22/2010. (XII. 28.) KIM rendelethez
+Melléklet a 22/2010. (XII. 28.) KIM rendelethez[^11]
 
 | ................................................................................................ Vizsgabizottság |
 
 | Szám: ............................ |
 
-| VIZSGALAP |
+| TANÚSÍTVÁNY |
 
 | A ..................................................................................................................................................................... Vizsgabizottság tanúsítja, hogy ............................................................................., aki .......... év .............. hó ........ napján született, ............................... ügyviteli vizsgát ......................................... eredménnyel letette. |
 
@@ -20,4 +20,5 @@ Melléklet a 22/2010. (XII. 28.) KIM rendelethez
 
 | ...................................................... ...................................................... a vizsgabizottság tagja a vizsgabizottság tagja |
 
-[^9]: A 10–11. §-t a 8/2015. (IV. 14.) IM rendelet 15. §-a hatályon kívül helyezte.
+[^10]: A 10–11. §-t a 8/2015. (IV. 14.) IM rendelet 15. §-a hatályon kívül helyezte.
+[^11]: A Melléklet a 26/2016. (XII. 27.) IM rendelet 15. § (4) bekezdés g) pontja szerint módosított szöveg.

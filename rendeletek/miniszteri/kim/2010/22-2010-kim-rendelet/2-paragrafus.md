@@ -1,14 +1,14 @@
-2. § (1)[^4] A kormányhivatal alkalmazottainak közvetlen vezetőjük útján, a Hivatal alkalmazottainak közvetlenül a Hivatal vezetőjénél kell a vizsgára írásban jelentkezniük. A kérelemben a beosztás és a munkavégzés helyét fel kell tüntetni.
+2. § (1)[^4] A vizsgára a miniszternél kell írásban jelentkezni. A kérelemben a beosztást, a munkavégzés helyét és a munkakörbe történt kinevezés időpontját fel kell tüntetni.
 
-(2)[^5] A vizsga helyét és időpontját a Hivatal vezetője állapítja meg, és arról a vizsga időpontja előtt legalább tizenöt nappal a jelentkezőt írásban értesíti.
+(2)[^5] A vizsga helyét és időpontját a miniszter állapítja meg, és arról a vizsga időpontja előtt legalább tizenöt nappal a jelentkezőt írásban értesíti.
 
-(3)[^6] A Hivatalnál ügyviteli vizsgabizottságokat kell alakítani. A vizsgabizottságok számát a Hivatal vezetője határozza meg.
+(3)[^6] A minisztériumnál ügyviteli vizsgabizottságokat kell alakítani. A vizsgabizottságok számát a miniszter határozza meg.
 
 (4) A vizsgát háromtagú bizottság előtt kell letenni.
 
-(5)[^7] A Hivatal vezetője az ügyviteli vizsgabizottság elnökét ötéves időtartamra a Hivatalnál a vizsgával érintett szakmai területen tevékenykedő személyek közül nevezi ki, a vizsgabizottsági tagsági feladatok ellátására pedig az érintett szakmai terület felügyeletét ellátó minisztérium képviselőjét is felkéri.
+(5)[^7] A miniszter az ügyviteli vizsgabizottság elnökét ötéves időtartamra a minisztériumnál a vizsgával érintett szakmai területen tevékenykedő személyek közül nevezi ki, a vizsgabizottsági tagsági feladatok ellátására pedig az érintett szakmai terület felügyeletét ellátó minisztérium képviselőjét is felkéri.
 
-[^4]: A 2. § (1) bekezdése a 43/2012. (IX. 18.) KIM rendelet 4. § (1) bekezdésével megállapított, a 8/2015. (IV. 14.) IM rendelet 14. § b) pontja szerint módosított szöveg.
-[^5]: A 2. § (2) bekezdése a 43/2012. (IX. 18.) KIM rendelet 4. § (3) bekezdés d) pontja szerint módosított szöveg.
-[^6]: A 2. § (3) bekezdése a 43/2012. (IX. 18.) KIM rendelet 4. § (3) bekezdés c)–d) pontja szerint módosított szöveg.
-[^7]: A 2. § (5) bekezdése a 43/2012. (IX. 18.) KIM rendelet 4. § (3) bekezdés c)–d) pontja szerint módosított szöveg.
+[^4]: A 2. § (1) bekezdése a 26/2016. (XII. 27.) IM rendelet 15. § (2) bekezdésével megállapított szöveg.
+[^5]: A 2. § (2) bekezdése a 26/2016. (XII. 27.) IM rendelet 15. § (4) bekezdés c) pontja szerint módosított szöveg.
+[^6]: A 2. § (3) bekezdése a 26/2016. (XII. 27.) IM rendelet 15. § (4) bekezdés c)–e) pontja szerint módosított szöveg.
+[^7]: A 2. § (5) bekezdése a 26/2016. (XII. 27.) IM rendelet 15. § (4) bekezdés c)–e) pontja szerint módosított szöveg.
