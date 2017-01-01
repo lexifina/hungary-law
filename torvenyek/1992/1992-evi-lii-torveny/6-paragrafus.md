@@ -4,10 +4,10 @@
 
 (2) A kérelmet a kárpótlási hatóság bírálja el.
 
-(3) A méltányossági jogkörben hozott határozat ellen nincs helye fellebbezésnek. A méltányossági jogkörben hozott határozat bírósági felülvizsgálatát kizárólag semmisségére hivatkozva lehet kérni.
+(3) A kárpótlási hatóság határozatának felülvizsgálata iránti perben a kárpótlásra jogosult lakóhelye szerint illetékes közigazgatási és munkaügyi bíróság jár el. Ha a kárpótlásra jogosultnak belföldi lakóhelye nincs, a perben a Fővárosi Közigazgatási és Munkaügyi Bíróság jár el.
 
 (4) Az (1)—(3) bekezdésben említett eljárás ügyintézési határideje három hónap, amelyet a a kárpótlási hatóság vezetője egy ízben legfeljebb három hónappal meghosszabbíthat.
 
 (5) A jogosultság elbírálásához szükséges orvosi szakértői véleményt — amennyiben az nem áll az érintett rendelkezésére, vagy nem tükrözi a véglegesen kialakult állapotot — orvosszakértői szerv adja ki.
 
-(6) A kérelmező nem jogosult a kárpótlási hatósággal elektronikus úton kapcsolatot tartani.
+(6)
