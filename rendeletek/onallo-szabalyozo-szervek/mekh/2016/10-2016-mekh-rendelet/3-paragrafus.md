@@ -1,0 +1,9 @@
+## MÁSODIK RÉSZ
+
+## RENDSZERHASZNÁLATI DÍJAK
+
+## I. Fejezet
+
+## A RENDSZERHASZNÁLATI DÍJAK FIZETÉSÉRE KÖTELEZETTEK KÖRE
+
+## 2. Általános szabályok
