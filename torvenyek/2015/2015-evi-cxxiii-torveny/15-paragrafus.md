@@ -20,7 +20,7 @@ g) a tanulók szakmai alkalmasságának orvosi, védőnői vizsgálata,
 
 h) a fertőző betegségek megelőzésével kapcsolatos feladatok, az iskolai életkorhoz kötött és önkéntesen igénybe vehető kampányoltások elvégzése,
 
-i) együttműködés a köznevelés szereplőivel, szülőkkel, az alapellátás más szereplőivel, gyermekjóléti szolgálattal a gyermekek egészséges fejlődésének biztosítása érdekében.
+i) együttműködés a köznevelés szereplőivel, szülőkkel, az alapellátás más szereplőivel, család- és gyermekjóléti szolgálattal, a család- és gyermekjóléti központtal a gyermekek egészséges fejlődésének biztosítása érdekében.
 
 (3) Az iskola-egészségügyi ellátás megszervezése során gondoskodni kell arról, hogy álljon rendelkezésre a vizsgálatok elvégzésére alkalmas, miniszteri rendeletben meghatározott feltételekkel rendelkező helyiség.
 

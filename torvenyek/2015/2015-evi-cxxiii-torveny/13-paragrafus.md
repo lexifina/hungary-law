@@ -20,9 +20,9 @@ f) az oktatási intézménybe nem járó otthon gondozott tanköteles korú gyer
 
 g) családgondozás,
 
-h) a gyermek családban való nevelkedésének elősegítése, együttműködés a háziorvossal, házi gyermekorvossal, a gyermekjóléti szolgálattal a gyermek veszélyeztetettségének megelőzése és megszüntetése érdekében,
+h) a gyermek családban való nevelkedésének elősegítése, együttműködés a háziorvossal, házi gyermekorvossal, a család- és gyermekjóléti szolgálattal, a család- és gyermekjóléti központtal a gyermek veszélyeztetettségének megelőzése és megszüntetése érdekében,
 
-i) a gyermekvédelmi jelzőrendszer részeként a gyermek veszélyeztetettségének jelzése a háziorvosnak, házi gyermekorvosnak, a gyermekjóléti szolgálatnak, valamint a gyermekek védelméről és a gyámügyi igazgatásról szóló törvényben meghatározott esetekben hatósági eljárás kezdeményezése,
+i) a gyermekvédelmi jelzőrendszer részeként a gyermek veszélyeztetettségének jelzése a háziorvosnak, házi gyermekorvosnak, a család- és gyermekjóléti szolgálatnak, valamint a Gyvt.-ben meghatározott esetekben hatósági eljárás kezdeményezése, amelynek során a Gyvt. 11. § (1a) bekezdésében és 17. § (2)–(3a) bekezdésében foglaltak alkalmazásával kell eljárni,
 
 j) az egyéni és közösségi egészségfejlesztési, egészségvédelmi programok tervezésében, szervezésében és megvalósításában részvétel.
 
@@ -37,5 +37,7 @@ c) a tartós megbetegedésben, fogyatékkal, hátrányos helyzetben élő szemé
 d) együttműködik a szociális, köznevelési, család- és ifjúságügyi, felzárkózási, civil- és egyházi, a kulturális és további érintett ágazatokkal.
 
 (5) A várandós és gyermekágyas anya, a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú gondozója és törvényes képviselője a gyermek egészséges fejlődése érdekében köteles a védőnővel a (3) és (4) bekezdésben meghatározott feladatai ellátása során együttműködni.
+
+(5a) Ha a korlátozottan cselekvőképes vagy cselekvőképtelen kiskorú törvényes képviselője nem gondoskodik a kiskorúnak a kötelező egészségbiztosítás keretében igénybe vehető betegségek megelőzését és korai felismerését szolgáló egészségügyi szolgáltatásokról és a szűrővizsgálatok igazolásáról szóló jogszabály szerint a védőnő feladatkörébe tartozó szűrővizsgálaton való megjelenéséről, valamint a védőnő feladatkörébe tartozó szolgáltatások igénybevételéről, a védőnő kezdeményezésére az egészségügyi államigazgatási szerv határozattal intézkedik. Az egészségügyi államigazgatási szerv a határozatot megküldi a család- és gyermekjóléti központnak, valamint a gyámhatóságnak.
 
 (6) A védőnői ellátás részletes szakmai szabályait a miniszter rendeletben határozza meg.
