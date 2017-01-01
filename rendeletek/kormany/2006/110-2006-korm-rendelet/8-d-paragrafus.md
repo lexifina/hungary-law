@@ -6,7 +6,7 @@
 
 (4) A (3) bekezdés szerinti behajtás során befolyt összegből először a jogosultnál ténylegesen felmerült, e követelés behajtásával közvetlenül összefüggő, igazolt behajtási költségeket kell elszámolni.
 
-(5)[^98] A behajtás során befolyt összegből a központi költségvetést megillető összeget a jogosult 15 munkanapon belül utalja át a 10032000-01907003 NAV állami kezességbeváltás folyósítási számlára.
+(5)[^98] A behajtás során befolyt összegből a központi költségvetést megillető összeget a jogosult 15 munkanapon belül utalja át a 10032000-01907003 NAV Állami kezességbeváltás megtérülése bevételi számlára.
 
 (6) A jogosult a központi költségvetés által kifizetett összeg behajtásáról elszámolást készít, amelyben feltünteti a behajtás során befolyt összeget, a ténylegesen felmerült és elszámolt behajtási költségeket és az átutalandó összeget. Az elszámolást az átutalás időpontjában meg kell küldeni az állami adóhatóságnak.
 
@@ -15,4 +15,4 @@
 (8) Az állami viszontgaranciák beváltásánál, valamint az állami viszontgarancia-érvényesítésből keletkezett, az állami viszontgarancia jogosultja által behajtott, de a központi költségvetésbe be nem fizetett követelés behajtásánál az állami adóhatóság az adózás rendjéről szóló 2003. évi XCII. törvény szerint jár el.
 
 [^97]: A 8/D. §-t a 40/2007. (III. 13.) Korm. rendelet 12. §-a iktatta be.
-[^98]: A 8/D. § (5) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
+[^98]: A 8/D. § (5) bekezdése a 486/2015. (XII. 29.) Korm. rendelet 16. § b) pontja, a 481/2016. (XII. 28.) Korm. rendelet 2. § a) pontja szerint módosított szöveg.
