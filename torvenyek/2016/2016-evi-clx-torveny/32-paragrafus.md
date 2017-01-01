@@ -1,0 +1,11 @@
+32. § (1) A Kbt. 114. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) Az ajánlatkérő az eljárást megindító felhívásban jogosult a 62–63. § szerinti kizáró okok közül egynek vagy többnek a közbeszerzési eljárásban való érvényesítését előírni, valamint köteles a 62. § (1) bekezdés g)–k), m) és q) pontja szerinti kizáró ok érvényesítését előírni.”
+
+(2) A Kbt. 114. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+„(2) A 67. § (1) bekezdése szerinti nyilatkozat tekintetében az Európai Bizottság által meghatározott egységes formanyomtatvány nem alkalmazandó, ahol e törvény Második Része „egységes európai közbeszerzési dokumentumot” említ, az alatt a 67. § (1) bekezdése szerinti nyilatkozatot kell érteni. A 67. § (1) bekezdése szerinti nyilatkozatban az ajánlattevőnek és a részvételre jelentkezőnek a 62. § (1) bekezdés k) pont kb) alpontjára vonatkozóan a külön jogszabályban meghatározottak szerint kell a részletes adatokat megadnia. Az ajánlatkérő a Kormány rendeletében részletezettek szerint ellenőrzi továbbá a kizáró ok hiányát a rendelkezésre álló elektronikus nyilvántartásokból is. A 67. § (1) bekezdése szerinti nyilatkozatban a gazdasági szereplő csupán arról köteles nyilatkozni, hogy az általa igazolni kívánt alkalmassági követelmények teljesülnek, az alkalmassági követelmények teljesítésére vonatkozó részletes adatokat nem köteles megadni. A gazdasági szereplő az alkalmassági követelmények teljesítésére vonatkozó részletes adatokat tartalmazó, az eljárást megindító felhívásban előírt saját nyilatkozatait az alkalmassági követelmények, valamint – adott esetben – a 82. § (5) bekezdése szerinti objektív kritériumok tekintetében az eljárást megindító felhívásban előírt igazolások benyújtására vonatkozó szabályok szerint, az ajánlatkérő 69. § szerinti felhívására köteles benyújtani. Amennyiben az ajánlatkérő az eljárásban nem határoz meg alkalmassági követelményt, a 69. § (4) bekezdése szerinti felhívást nem kell alkalmaznia.”
+
+(3) A Kbt. 114. §-a a következő (14) bekezdéssel egészül ki:
+
+„(14) A 3. melléklet szerinti szolgáltatások esetén a 76. § (9) bekezdésében foglalt adatok az eljárást megindító felhívás helyett a közbeszerzési dokumentumokban is megadhatóak.”

@@ -1,0 +1,3 @@
+3. § A Kbt. 5. §-a a következő (5) bekezdéssel egészül ki:
+
+„(5) A (3) bekezdést nem kell alkalmazni, ha a Kormány annak alkalmazása alól a közbeszerzésekért felelős miniszter előterjesztése alapján hozott egyedi határozatában felmentést adott. A felmentés akkor kérhető, ha a támogatásból megvalósuló beszerzés sajátosságaira tekintettel a közbeszerzési eljárás alkalmazása nem szolgálná a közpénzek hatékony felhasználásának célját és a támogatási összeg gazdaságilag legkedvezőbb módon történő felhasználását a (3) bekezdés szerinti szervezet eljárása biztosítja. Az előző évben meghozott, felmentést tartalmazó egyedi határozatok szövegét a Kormány minden év március 31-ig, a Magyar Közlönyben egy tájékoztatóban egyszerre is közzéteszi.”

@@ -1,0 +1,3 @@
+25. § A Kbt. 76. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+„(8) Az adott építési beruházás, áru vagy szolgáltatás előállításának vagy nyújtásának folyamatához kapcsolódóan értékelhető különösen a munkanélküli vagy tartósan munkanélküliek – ideértve a megelőzően a közfoglalkoztatásról és a közfoglalkoztatáshoz kapcsolódó, valamint egyéb törvények módosításáról szóló törvényben meghatározott közfoglalkoztatási jogviszony, valamint az Európai Unió más tagállamában ahhoz hasonló jogviszony keretében foglalkoztatott természetes személyek nem közfoglalkoztatottként történő – foglalkoztatásának megajánlott mértéke, valamint az adott szerződés teljesítésének keretében munkanélküliek képzését célzó intézkedések végrehajtása.”
