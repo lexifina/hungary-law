@@ -16,7 +16,7 @@ ellátására vagy a feladatellátás feltételeinek megteremtésére irányul, 
 
 (2a) Közfoglalkoztatási jogviszony kormányrendeletben meghatározott feltételek mellett közhasznú kölcsönzés céljára is létesíthető.
 
-(2b) Közfoglalkoztatási jogviszonynak minősül, ha közfoglalkoztatási program keretében a közfoglalkoztatott a munkaerő-piaci alkalmazkodását, munkához jutását szolgáló képzésben, illetve a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződést megkötő hatóság jóváhagyásával, naptári évenként legfeljebb 3 nap időtartamú munkaerő-piaci szolgáltatásban vesz részt.
+(2b) Közfoglalkoztatási jogviszonynak minősül, ha közfoglalkoztatási program keretében a közfoglalkoztatott a munkaerő-piaci alkalmazkodását, munkához jutását szolgáló képzésben, illetve a közfoglalkoztatás támogatásáról szóló jogszabály alapján nyújtott támogatásról szóló hatósági szerződést megkötő hatóság jóváhagyásával, naptári évenként legfeljebb 15 nap időtartamú munkaerő-piaci szolgáltatásban, valamint a mentális, szociális, egészségügyi problémákkal küzdő álláskereső naptári évenként legfeljebb 15 nap időtartamú egészségügyi és szociális szolgáltatásban vesz részt.
 
 (3) Közfoglalkoztató lehet:
 
@@ -86,20 +86,24 @@ c) a számára az Flt. alapján felajánlott az álláskeresőkre vonatkozó ren
 
 d) a számára egyszerűsített foglalkoztatás keretében felajánlott munkát nem fogadja el, vagy
 
-e) a közfoglalkoztatáson kívüli egyéb foglalkoztatási jogviszonya munkavállalói felmondással vagy a munkáltató azonnali hatályú felmondásával szűnt meg.
+e) a közfoglalkoztatási jogviszony létesítését megelőző három hónapon belül a közfoglalkoztatáson kívüli egyéb foglalkoztatási jogviszonya munkavállalói felmondással vagy a munkáltató azonnali hatályú felmondásával – ide nem értve a próbaidő alatti azonnali hatályú felmondást – szűnt meg,
 
-(4b) A hivatalból folytatott közigazgatási eljáráshoz megkeresésre a (4a) bekezdés b) pontja szerinti esetben az álláskereső lakóhelye szerint illetékes jegyző 3 napon belül adatot szolgáltat az állami foglalkoztatási szerv járási szerve (a továbbiakban: járási foglalkoztatási szerv) részére.
+f) a közfoglalkoztatási jogviszonya a közfoglalkoztató azonnali hatályú felmondásával szűnik meg,
 
-(4c) A (4a) bekezdés a) pont ab) alpontjában meghatározott kizárási ok fennállásának ellenőrzése érdekében a közfoglalkoztatási jogviszonyba történő kiközvetítés előtt a járási foglalkoztatási szerv adatot közvetlenül vehet át a szabálysértési nyilvántartásból.
+g) a számára az Flt. alapján felajánlott az álláskeresőkre vonatkozó rendelkezések szerinti képzési lehetőséget nem fogadja el.
 
-(4d) A kizárás kérdésében első fokon a járási foglalkoztatási szerv, másodfokon az állami foglalkoztatási szerv megyei szerve (a továbbiakban: megyei foglalkoztatási szerv) hatósági határozattal dönt.
+(4b) A hivatalból folytatott közigazgatási eljáráshoz megkeresésre a (4a) bekezdés b) pontja szerinti esetben az álláskereső lakóhelye szerint illetékes jegyző 3 napon belül adatot szolgáltat az állami foglalkoztatási szervként eljáró járási (fővárosi kerületi) hivatal (a továbbiakban: járási hivatal) részére.
 
-(4e) Ha a közfoglalkoztatási jogviszony létrehozását követően értesül a járási foglalkoztatási szerv a közfoglalkoztatást kizáró okról, a kizárásról szóló döntését közli a közfoglalkoztatóval. A közfoglalkoztató a közfoglalkoztatási jogviszonyt a jogerős döntés alapján azonnali felmondással megszünteti.
+(4c) A (4a) bekezdés a) pont ab) alpontjában meghatározott kizárási ok fennállásának ellenőrzése érdekében a közfoglalkoztatási jogviszonyba történő kiközvetítés előtt a járási hivatal adatot közvetlenül vehet át a szabálysértési nyilvántartásból.
+
+(4d) A kizárás kérdésében első fokon a járási hivatal, másodfokon az állami foglalkoztatási szervként eljáró fővárosi és megyei kormányhivatal (a továbbiakban: megyei kormányhivatal) hatósági határozattal dönt.
+
+(4e) Ha a közfoglalkoztatási jogviszony létrehozását követően értesül a járási hivatal a közfoglalkoztatást kizáró okról, a kizárásról szóló döntését közli a közfoglalkoztatóval. A közfoglalkoztató a közfoglalkoztatási jogviszonyt a jogerős döntés alapján azonnali felmondással megszünteti.
 
 (4f) A (4a) bekezdés b) pontja szerinti esetben a megkeresésre nincsen szükség, amennyiben a közfoglalkoztatást a közfoglalkoztatott lakóhelye szerinti helyi önkormányzat, annak intézménye, vagy a helyi önkormányzat által alapított gazdálkodó szervezet valósítja meg, vagy az önkormányzatnak nincs a (4a) bekezdés b) pont szerinti hatályos rendelete.
 
 (4g) A (4f) bekezdés hatálya alá tartozó közfoglalkoztató megtagadhatja a közfoglalkoztatási jogviszony létesítését, amennyiben a közfoglalkoztatottal szemben a (4a) bekezdés b) pontja szerinti kizárási ok fennállásáról van tudomása.
 
-(4h) A (4a) bekezdés d) pontja szerinti kizárási ok esetén a járási foglalkoztatási szerv a döntése meghozatala előtt ellenőrzi a rendelkezésére álló – különösen az állami adóhatóság által az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint megküldött – adatokat.
+(4h) A (4a) bekezdés d) pontja szerinti kizárási ok esetén a járási hivatal a döntése meghozatala előtt ellenőrzi a rendelkezésére álló – különösen az állami adóhatóság által az egyszerűsített foglalkoztatásról szóló törvény szabályai szerint megküldött – adatokat.
 
-(4i) A járási foglalkoztatási szerv a (4a) bekezdés e) pontjában meghatározott feltétel fennállását az Flt. 36/A. §-a szerinti, a munkáltató által kiállított igazolólapból állapítja meg.
+(4i) A járási hivatal a (4a) bekezdés e) pontjában meghatározott feltétel fennállását az Flt. 36/A. §-a szerinti, a munkáltató által kiállított igazolólapból állapítja meg.
