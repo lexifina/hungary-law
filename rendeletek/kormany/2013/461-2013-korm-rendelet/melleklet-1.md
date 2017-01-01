@@ -4,4 +4,4 @@
 
 [^6]: Az 5. §-t a 12/2015. (II. 9.) Korm. rendelet 2. §-a iktatta be.
 [^7]: A hatálybalépés időpontja 2015. február 10.
-[^8]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 62. § (1) bekezdés a) pontjával megállapított szöveg, alkalmazására lásd e módosító rendelet 114. §-át.
+[^8]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 56. § (1) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
