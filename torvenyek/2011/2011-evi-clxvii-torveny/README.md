@@ -20,3 +20,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2011-167-00-00
 | 2015-01-01 | 2014. évi XCVII. törvény | 2011-167-00-00.13 |
 | 2015-07-01 | 2015. évi XLII. törvény | 2011-167-00-00.14 |
 | 2016-06-18 | 2016. évi LXVII. törvény | 2011-167-00-00.15 |
+| 2017-01-01 | 2016. évi CLXIV. törvény | 2011-167-00-00.16 |

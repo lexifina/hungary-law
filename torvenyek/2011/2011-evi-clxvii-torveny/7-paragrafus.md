@@ -18,7 +18,7 @@ e) az, aki 2011. december 31-éig az egyes művészeti tevékenységeket folytat
 
 f) az, aki esetében a biztosítással járó jogviszonyának megszüntetéséhez szükséges egyoldalú jognyilatkozatot 2012. január 1-jét megelőzően a másik féllel írásban közölték, vagy a jogviszonyt megszüntető megállapodást 2012. január 1-jét megelőzően írásban megkötötték, feltéve, hogy a biztosítással járó jogviszony megszűnését követő nap 2012. évben van, és a jogosult a biztosítással járó jogviszony megszűnését követő napon a 2011. december 31-én hatályos szabályok szerint az 1. § c) pont ca), cb), cd), ce) vagy cf) alpontja szerinti korhatár előtti nyugellátásra jogosult lett volna,
 
-feltéve, hogy a korhatár előtti ellátás kezdő napjáig az öregségi nyugdíjkorhatárt nem töltötte be, a korhatár előtti ellátás kezdő napján biztosítással járó jogviszonyban nem áll, átmeneti bányászjáradékra vagy balettművészeti életjáradékra nem jogosult, és a korhatár előtti ellátás kezdő napján rendszeres pénzellátásban nem részesül.
+feltéve, hogy a korhatár előtti ellátás kezdő napjáig az öregségi nyugdíjkorhatárt nem töltötte be, a korhatár előtti ellátás kezdő napján biztosítással járó jogviszonyban nem áll, átmeneti bányászjáradékra vagy táncművészeti életjáradékra nem jogosult, és a korhatár előtti ellátás kezdő napján rendszeres pénzellátásban nem részesül.
 
 (2) Az (1) bekezdés c) pontja szerinti esetben – az ott meghatározott eltéréssel – a jogosult a korhatár előtti ellátást az öregségi nyugdíjkorhatár betöltése előtt annyi évvel kérheti, ahány év korkedvezményt a 2011. december 31-én hatályos szabályok szerint
 
