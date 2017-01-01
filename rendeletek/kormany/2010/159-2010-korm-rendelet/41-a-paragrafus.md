@@ -1,4 +1,4 @@
-## 18/a. [^57] Leszállóhely bejelentése
+## 18/a. [^64] Leszállóhely bejelentése
 
 41/A. § (1) „C” osztályú leszállóhely létesítését a tevékenységi engedély jogosultjának az első tervezett használatot megelőzően a légiközlekedési hatóság részére kell bejelentenie a légiközlekedési hatóság által rendszeresített és a honlapján közzétett nyomtatványon. A légiközlekedési hatóság a bejelentést követően a „C” osztályú leszállóhelyet nyilvántartásba veszi.
 
@@ -34,4 +34,4 @@ k) – védett természeti területen létesíteni kívánt leszállóhely eset�
 
 (6) Amennyiben a légiközlekedési hatóság megbizonyosodik arról, hogy egy adott „C” osztályú leszállóhely esetében nem teljesülnek a (3) bekezdésben vagy a 2. § (2) bekezdés c) pontjában meghatározott feltételek, a leszállóhely használatát a légiközlekedési hatóság megtiltja.
 
-[^57]: A 18a. alcímet (41/A. §) a 207/2014. (VIII. 15.) Korm. rendelet 16. §-a iktatta be.
+[^64]: A 18a. alcímet (41/A. §) a 207/2014. (VIII. 15.) Korm. rendelet 16. §-a iktatta be.

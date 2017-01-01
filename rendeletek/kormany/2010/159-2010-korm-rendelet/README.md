@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-159-20-
 | 2014-08-23 | 2010-159-20-22.16 | 207/2014. (VIII. 15.) Korm. rendelet |
 | 2015-04-01 | 2010-159-20-22.17 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-01-01 | 2010-159-20-22.18 | 441/2015. (XII. 28.) Korm. rendelet |
+| 2017-01-01 | 2010-159-20-22.19 | 477/2016. (XII. 27.) Korm. rendelet |

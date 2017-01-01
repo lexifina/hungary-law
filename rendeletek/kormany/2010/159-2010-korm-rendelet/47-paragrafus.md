@@ -1,5 +1,5 @@
-## 45–46. §[^69]
+## 45–46. §[^78]
 
 ## 22. Hatályon kívül helyezés
 
-[^69]: A 45–46. §-t a 48. § (1) bekezdése hatályon kívül helyezte.
+[^78]: A 45–46. §-t a 48. § (1) bekezdése hatályon kívül helyezte.

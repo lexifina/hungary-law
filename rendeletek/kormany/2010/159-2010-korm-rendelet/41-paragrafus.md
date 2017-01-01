@@ -1,6 +1,6 @@
 ## 18. A határozat tartalma
 
-## 41. §[^56] A leszállóhely létesítéséről rendelkező határozat – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túlmenően – tartalmazza:
+## 41. §[^63] A leszállóhely létesítéséről rendelkező határozat – a közigazgatási hatósági eljárás általános szabályairól szóló törvényben foglaltakon túlmenően – tartalmazza:
 
 a) a leszállóhely leírását, rendeltetését, osztályát,
 
@@ -12,4 +12,4 @@ d) a leszállóhely létesítési engedély hatályának lejártát követően s
 
 e) más jogszabályokban előírt engedélyek beszerzésének kötelezettségére történő figyelemfelhívást.
 
-[^56]: A 41. § a 207/2014. (VIII. 15.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^63]: A 41. § a 207/2014. (VIII. 15.) Korm. rendelet 15. §-ával megállapított szöveg.

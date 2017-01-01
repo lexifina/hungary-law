@@ -12,7 +12,7 @@ c) nem változtatja meg az alkalmazott berendezéseket, és
 
 d) nem létesítési engedélyköteles.
 
-(2) Az eltérés engedélyezése iránti kérelemhez 7 példányban kell csatolni az eltérés jellegétől függően
+(2)[^34] Az eltérés engedélyezése iránti kérelemhez kell csatolni az eltérés jellegétől függően
 
 a) a helyszínrajzi elhelyezés változása esetén módosított helyszínrajzot,
 
@@ -25,3 +25,5 @@ d) – ha az eltérés a repülőtér védelmi szintjének és módjának megvá
 (3) A légiközlekedési hatóság újonnan készített – teljes körű – műszaki tervek bemutatására kötelezheti a kérelmezőt, ha a módosítás az engedélyezett műszaki tervek több részletére terjed ki.
 
 (4) Az eltérés engedélyezése során – az eltérés jellegétől függően – a létesítési engedély módosítható.
+
+[^34]: A 23. § (2) bekezdés nyitó szövegrésze a 477/2016. (XII. 27.) Korm. rendelet 48. § (2) bekezdés d) pontja szerint módosított szöveg.

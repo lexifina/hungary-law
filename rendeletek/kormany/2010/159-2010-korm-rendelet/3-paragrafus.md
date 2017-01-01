@@ -1,4 +1,4 @@
-3. §[^9] (1) A légiközlekedési hatóság engedélye szükséges
+3. §[^10] (1) A légiközlekedési hatóság engedélye szükséges
 
 a) a 12. § (1) bekezdésében foglaltakra figyelemmel a repülőtér elvi létesítéséhez, valamint a repülőtér létesítéséhez, használatbavételéhez, fejlesztéséhez és megszüntetéséhez;
 
@@ -44,4 +44,4 @@ c) az engedélyezett tevékenységnek megfelelő műszaki jellemzőkkel és para
 
 d) ha a létesítési engedély időbeli hatályának tartama alatt az engedélyes helyébe a polgári jog szerinti jogutódja lép.
 
-[^9]: A 3. § a 207/2014. (VIII. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^10]: A 3. § a 207/2014. (VIII. 15.) Korm. rendelet 3. §-ával megállapított szöveg.
