@@ -1,6 +1,6 @@
 ## 3. § A gépkezelői jogosítvány jármű vezetésére nem jogosít.
 
-4. § (1)[^4] A jogosítvány kiadása iránti kérelem egyénileg vagy csoportosan a Herman Ottó Intézethez nyújtható be.
+4. § (1)[^4] A jogosítvány kiadása iránti kérelem egyénileg vagy csoportosan a Kormányhivatalhoz nyújtható be.
 
 (2) A kérelemhez csatolni kell:
 
@@ -20,7 +20,7 @@ d)[^5]
 
 (6)[^8]
 
-[^4]: A 4. § (1) bekezdése a 36/2015. (VI. 30.) FM rendelet 3. § b) pontja szerint módosított szöveg.
+[^4]: A 4. § (1) bekezdése a 89/2016. (XII. 29.) FM rendelet 7. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^5]: A 4. § (2) bekezdés d) pontját a 8/2016. (II. 11.) FM rendelet 3. § a) pontja hatályon kívül helyezte.
 [^6]: A 4. § (3) bekezdését a 8/2016. (II. 11.) FM rendelet 3. § b) pontja hatályon kívül helyezte.
 [^7]: A 4. § (5) bekezdése a 8/2016. (II. 11.) FM rendelet 3. § c) pontja szerint módosított szöveg.
