@@ -8,7 +8,7 @@
 
 |  |  | Működési engedély száma: |  |
 
-|  |  | OEP szerződés száma: |  |
+|  |  | NEAK szerződés száma: |  |
 
 |  | Dátum ........................................... |  |
 
