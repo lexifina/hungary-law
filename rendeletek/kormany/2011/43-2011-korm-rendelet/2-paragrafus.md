@@ -8,7 +8,7 @@
 
 3. doppingellenes tevékenység: az az ellenőrző, felvilágosító és nevelő tevékenység, amelynek célja, hogy a versenyző sportteljesítménye fokozása érdekében doppingot ne használjon vagy ne alkalmazzon;
 
-4. doppingellenes tevékenységben részt vevő szervezetek: a sportszervezetek, a szövetségek, a MOB, az MPB, a HUNADO, valamint a sportpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium;
+4.[^3] doppingellenes tevékenységben részt vevő szervezetek: a sportszervezetek, a szövetségek, a sportköztestületek, a HUNADO, valamint a sportpolitikáért felelős miniszter (a továbbiakban: miniszter) által vezetett minisztérium;
 
 5. doppingellenőrzés: a vizsgálat-eloszlási tervezést, a mintavételt és -kezelést, a laboratóriumi elemzést, az előzetes felülvizsgálati eljárást, a doppingeljárást és a jogorvoslatot magába foglaló eljárás;
 
@@ -36,7 +36,7 @@
 
 17. pozitív vizsgálati eredmény: laboratóriumból vagy más akkreditált vizsgálati intézményből származó jelentés, amely a mintában tiltott szert vagy annak metabolitját, markerét (beleértve endogén anyagok emelkedett szintjét), vagy tiltott módszer használatát mutatja ki;
 
-18. sportszervezet: a sportról szóló 2004. évi I. törvény 15. § (1) bekezdésében, valamint (2) bekezdés c) pontjában meghatározott szervezetek;
+18.[^4] sportszervezet: a sportról szóló 2004. évi I. törvény 15. § (1) bekezdésében meghatározott szervezet;
 
 19. származék: bármely biológiai átalakulási folyamat során képződött anyag;
 
@@ -51,3 +51,5 @@
 24. vizsgálat: a doppingellenőrzési folyamat része, beleértve a versenyző mintavételre történő kijelölését és erről való értesítését, a mintavételt és -kezelést, a minták laboratóriumba történő szállítását és analízisét.
 
 [^2]: A 2. § a 324/2014. (XII. 15.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^3]: A 2. § 4. pontja a 475/2016. (XII. 27.) Korm. rendelet 19. § a) pontja szerint módosított szöveg.
+[^4]: A 2. § 18. pontja a 475/2016. (XII. 27.) Korm. rendelet 12. §-ával megállapított szöveg.

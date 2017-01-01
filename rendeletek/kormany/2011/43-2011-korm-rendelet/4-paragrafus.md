@@ -1,6 +1,6 @@
-## 4.[^5] A sportszervezetek, a szövetségek, a Magyar Olimpiai Bizottság és a Magyar Paralimpiai Bizottság feladatai
+## 4. [^7] A sportszervezetek, a szövetségek, és a sportköztestületek feladatai
 
-4. § (1)[^6] A sportszervezetek, a szövetségek, a MOB és az MPB részt vesznek a doppingellenes tevékenységben, ellátják a részükre jogszabályokban, alapszabályukban, a nemzetközi doppingellenes szervezetek doppingellenes szabályzataiban és a nemzetközi követelményekben meghatározott feladatokat, a HUNADO 5. § (2) bekezdés f) pontjában meghatározott feladatával összhangban a felvilágosítással és neveléssel kapcsolatos feladatokat, kezdeményezik versenyzőik doppingellenőrzését, valamint együttműködnek a doppingellenes tevékenységben részt vevő egyéb szervezetekkel.
+4. § (1)[^8] A sportszervezetek, a szövetségek, a sportköztestületek részt vesznek a doppingellenes tevékenységben, ellátják a részükre jogszabályokban, alapszabályukban, a nemzetközi doppingellenes szervezetek doppingellenes szabályzataiban és a nemzetközi követelményekben meghatározott feladatokat, a HUNADO 5. § (2) bekezdés f) pontjában meghatározott feladatával összhangban a felvilágosítással és neveléssel kapcsolatos feladatokat, kezdeményezik versenyzőik doppingellenőrzését, valamint együttműködnek a doppingellenes tevékenységben részt vevő egyéb szervezetekkel.
 
 (2) A szövetség érvényesíti a doppingtilalmat, amely során e rendelettel, a nemzetközi doppingellenes szervezetek doppingellenes szabályaival, a nemzetközi követelményekkel, valamint a HUNADO szakmai ajánlásaival összhangban
 
@@ -20,24 +20,24 @@ e) doppingellenes feladatai ellátásának koordinációjára, a doppingellenes 
 
 f) minden év január 15-éig megküldi a HUNADO és – tájékoztatásul – a miniszter részére az előző évi doppingellenes tevékenységéről készített beszámolóját.
 
-g)[^7] a nem a nemzeti doppingellenes szervezet által kezdeményezett doppingellenőrzésekről értesíti a nemzeti doppingellenes szervezetet,
+g)[^9] a nem a nemzeti doppingellenes szervezet által kezdeményezett doppingellenőrzésekről értesíti a nemzeti doppingellenes szervezetet,
 
-h)[^8] a nemzetközi szövetség által lefolytatásra kerülő doppingeljárás megindításáról és annak eredményéről értesíti a nemzeti doppingellenes szervezetet, a minisztert és a MOB-ot.
+h)[^10] a nemzetközi szövetség által lefolytatásra kerülő doppingeljárás megindításáról és annak eredményéről értesíti a nemzeti doppingellenes szervezetet, a minisztert és az érintett sportköztestületet.
 
-(3)[^9] A MOB együttműködik a HUNADO-val és a további doppingellenes tevékenységben részt vevő szervezetekkel, valamint a nemzetközi doppingellenes szervezetekkel a doppingellenes tevékenység eredményessége érdekében, ennek keretében
+(3)[^11] A sportköztestületek együttműködnek a HUNADO-val és a további doppingellenes tevékenységben részt vevő szervezetekkel, valamint a nemzetközi doppingellenes szervezetekkel a doppingellenes tevékenység eredményessége érdekében, ennek keretében
 
-a) saját és tagsága doppingellenes tevékenységét e rendelettel, a nemzetközi követelményekkel, valamint a HUNADO szakmai ajánlásaival összhangban végzi, szervezi, amelyről tájékoztatja a HUNADO-t,
+a) saját és tagságuk doppingellenes tevékenységét e rendelettel, a nemzetközi követelményekkel, valamint a HUNADO szakmai ajánlásaival összhangban végzik, szervezik, amelyről tájékoztatják a HUNADO-t,
 
-b) véleményezi a HUNADO által összeállításra kerülő vizsgálat-eloszlási tervet,
+b) véleményezik a HUNADO által összeállításra kerülő vizsgálat-eloszlási tervet,
 
-c) közreműködik a HUNADO által a sportágakra egységesen előírt általános felvilágosítási, nyilvántartási, ellenőrzési és szankcionálási elvek összeállításában,
+c) közreműködnek a HUNADO által a sportágakra egységesen előírt általános felvilágosítási, nyilvántartási, ellenőrzési és szankcionálási elvek összeállításában,
 
-d) ellátja a nemzetközi követelményekben részükre meghatározott feladatokat,
+d) ellátják a nemzetközi követelményekben részükre meghatározott feladatokat,
 
-e) azon sport-világesemények vonatkozásában, ahol a MOB a versenyzők nevezésével és versenyeztetésével kapcsolatos egyes feladatokat ellátja, a MOB-ot megfelelően megilletik és terhelik a szövetségekre e rendeletben és más jogszabályokban, valamint a vonatkozó nemzetközi követelményekben meghatározott jogok és kötelezettségek.
+e) azon sport-világesemények vonatkozásában, ahol a sportköztestületek a versenyzők nevezésével és versenyeztetésével kapcsolatos egyes feladatokat ellátják, a sportköztestületeket megfelelően megilletik és terhelik a szövetségekre e rendeletben és más jogszabályokban, valamint a vonatkozó nemzetközi követelményekben meghatározott jogok és kötelezettségek.
 
-[^5]: A 4. alcím címe a 324/2014. (XII. 15.) Korm. rendelet 20. § a) pontja szerint módosított szöveg.
-[^6]: A 4. § (1) bekezdése a 324/2014. (XII. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^7]: A 4. § (2) bekezdés g) pontját a 324/2014. (XII. 15.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^8]: A 4. § (2) bekezdés h) pontját a 324/2014. (XII. 15.) Korm. rendelet 4. § (2) bekezdése iktatta be.
-[^9]: A 4. § (3) bekezdése a 324/2014. (XII. 15.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^7]: A 4. alcím címe a 324/2014. (XII. 15.) Korm. rendelet 20. § a) pontja, a 475/2016. (XII. 27.) Korm. rendelet 19. § b) pontja szerint módosított szöveg.
+[^8]: A 4. § (1) bekezdése a 324/2014. (XII. 15.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 475/2016. (XII. 27.) Korm. rendelet 19. § c) pontja szerint módosított szöveg.
+[^9]: A 4. § (2) bekezdés g) pontját a 324/2014. (XII. 15.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^10]: A 4. § (2) bekezdés h) pontját a 324/2014. (XII. 15.) Korm. rendelet 4. § (2) bekezdése iktatta be, szövege a 475/2016. (XII. 27.) Korm. rendelet 19. § d) pontja szerint módosított szöveg.
+[^11]: A 4. § (3) bekezdése a 475/2016. (XII. 27.) Korm. rendelet 13. §-ával megállapított szöveg.

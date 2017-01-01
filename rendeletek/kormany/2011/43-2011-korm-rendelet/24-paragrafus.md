@@ -1,4 +1,4 @@
-## 17.[^48] A büntetések
+## 17.[^53] A büntetések
 
 24. § (1) Az eljáró doppingbizottság, illetve dopping fellebbviteli bizottság a tiltólista, valamint a doppingolás körülményeinek figyelembevételével – a (2) bekezdésben meghatározott kivétellel, a 27. §-ban foglaltakra is figyelemmel – a versenyzőre az alábbi büntetéseket szabhatja ki:
 
@@ -42,4 +42,4 @@ c) legfeljebb a hivatásos versenyző sporttevékenységből származó előző 
 
 (5) A versenyző részére az (1) és (3) bekezdés szerinti doppingbüntetések időtartama alatt nem állítható ki versenyengedély.
 
-[^48]: A 17. alcím (24–31. §) a 324/2014. (XII. 15.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^53]: A 17. alcím (24–31. §) a 324/2014. (XII. 15.) Korm. rendelet 17. §-ával megállapított szöveg.
