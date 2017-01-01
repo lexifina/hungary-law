@@ -4,7 +4,7 @@
 
 a) az Országos Rendőr-főkapitányság,
 
-b) a Bevándorlási és Állampolgársági Hivatal,
+b)[^1] a Bevándorlási és Menekültügyi Hivatal,
 
 c) a Büntetés-végrehajtás Országos Parancsnoksága,
 
@@ -16,9 +16,9 @@ f) az Alkotmányvédelmi Hivatal,
 
 g) a Nemzeti Védelmi Szolgálat,
 
-h)[^1] a Terrorelhárítási Információs és Bűnügyi Elemző Központ,
+h)[^2] a Terrorelhárítási Információs és Bűnügyi Elemző Központ,
 
-i) a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala,
+i)[^3]
 
 j) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság,
 
@@ -28,7 +28,7 @@ l) az Országos Mentőszolgálat,
 
 m) a legfőbb ügyész,
 
-n) a Nemzeti Közlekedési Hatóság,
+n)[^4]
 
 o) a Nemzeti Útdíjfizetési Szolgáltató Zártkörűen Működő Részvénytársaság,
 
@@ -40,7 +40,7 @@ r) a Nemzeti Adó- és Vámhivatal,
 
 s) a Szociális és Gyermekvédelmi Főigazgatóság,
 
-t) az Egészségügyi Készletgazdálkodási Intézet;
+t)[^5] az Állami Egészségügyi Ellátó Központ;
 
 2. ajánlattevő: az a gazdasági szereplő, aki (amely) a beszerzési eljárásban ajánlatot nyújt be;
 
@@ -62,4 +62,8 @@ c) amennyiben a b) alpont szerinti feladatkörrel rendelkező miniszter nem áll
 
 8. tömeges bevándorlás okozta válsághelyzet: a menedékjogról szóló 2007. évi LXXX. törvény (a továbbiakban: Met.) 80/A. §-ában foglaltak alapján, a Kormány által elrendelt helyzet.
 
-[^1]: A 2. § 1. pont h) alpontja a 186/2016. (VII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^1]: A 2. § 1. pont b) alpontja a 379/2016. (XII. 2.) Korm. rendelet 306. § (1) bekezdés a) pontjával megállapított szöveg.
+[^2]: A 2. § 1. pont h) alpontja a 186/2016. (VII. 13.) Korm. rendelet 17. §-ával megállapított szöveg.
+[^3]: A 2. § 1. pont i) alpontját a 379/2016. (XII. 2.) Korm. rendelet 306. § (2) bekezdése hatályon kívül helyezte.
+[^4]: A 2. § 1. pont n) alpontját a 379/2016. (XII. 2.) Korm. rendelet 306. § (2) bekezdése hatályon kívül helyezte.
+[^5]: A 2. § 1. pont t) alpontja a 379/2016. (XII. 2.) Korm. rendelet 306. § (1) bekezdés b) pontjával megállapított szöveg.
