@@ -10,9 +10,9 @@ c) az Fktv. 9. §-a szerinti Felnőttképzési Szakértői Bizottságra (a tová
 
 d) az Fktv. 19. § (3) bekezdésében meghatározott jogalanyra (a továbbiakban: javaslatot benyújtó),
 
-e)[^1] a Nemzeti Szakképzési és Felnőttképzési Hivatalra (a továbbiakban: NSZFH).
+e)[^1] a Pest Megyei Kormányhivatalra (a továbbiakban: kormányhivatal).
 
 (2)[^2]
 
-[^1]: Az 1. § (1) bekezdés e) pontja a 4/2015. (II. 19.) NGM rendelet 5. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § (1) bekezdés e) pontja a 62/2016. (XII. 29.) NGM rendelet 68. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdését a 42/2015. (XII. 30.) NGM rendelet 20. §-a hatályon kívül helyezte.

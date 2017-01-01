@@ -18,7 +18,7 @@
 
 | Összesen | – | – | 300 |
 
-3. melléklet a 16/2014. (IV. 4.) NGM rendelethez[^24]
+3. melléklet a 16/2014. (IV. 4.) NGM rendelethez[^26]
 
 | Száma: ……/…….év |
 
@@ -44,4 +44,4 @@
 
 | P. H. a felnőttképzést folytató intézmény vezetője |
 
-[^24]: A 3. melléklet a 4/2015. (II. 19.) NGM rendelet 9. § (3) bekezdése szerint módosított szöveg.
+[^26]: A 3. melléklet a 4/2015. (II. 19.) NGM rendelet 9. § (3) bekezdése szerint módosított szöveg.
