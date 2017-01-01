@@ -28,6 +28,8 @@ f) a pályázóval szemben a pályázati felhívás közzétételét megelőző 
 
 g) a pályázóval szemben az államot megillető halgazdálkodási jog gyakorlásával összefüggésben a pályázati felhívás közzétételét megelőző öt évben – ideértve az f) pont szerinti bírságokat kiszabó határozatokat is – legalább három jogerős, kötelezettséget megállapító hatósági döntést hoztak;
 
-h) a pályázónak vagy annak a gazdasági társaságnak, amelyben a pályázó többségi befolyással rendelkezik, a minisztériummal, a megyei halgazdálkodási hatósággal vagy a Nemzeti Élelmiszerlánc-biztonsági Hivatallal szemben 120 napot meghaladó, lejárt tartozása van.
+h)[^3] a pályázónak vagy annak a gazdasági társaságnak, amelyben a pályázó többségi befolyással rendelkezik, a minisztériummal, az országos illetékességű halgazdálkodási hatósággal, a területi halgazdálkodási hatósággal vagy a Nemzeti Élelmiszerlánc-biztonsági Hivatallal szemben 120 napot meghaladó, lejárt tartozása van.
 
 (4) A pályázatok benyújtására nyitva álló határidő lejártát követően az érvénytelen pályázatot benyújtó pályázó a pályázati eljárásban, illetve annak további szakaszában nem vehet részt. Erről – az érvénytelenség okának megjelölésével – a minisztérium írásban értesíti a pályázót.
+
+[^3]: A 15. § (3) bekezdés h) pontja a 89/2016. (XII. 29.) FM rendelet 25. §-ával megállapított szöveg.

@@ -106,6 +106,6 @@
 
 | MINDÖSSZESEN |  | 1–100 |
 
-2. melléklet a 89/2015. (XII. 22.) FM rendelethez[^5]
+2. melléklet a 89/2015. (XII. 22.) FM rendelethez[^6]
 
-[^5]: A 2. melléklet a 75/2016. (XI. 30.) FM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^6]: A 2. melléklet a 75/2016. (XI. 30.) FM rendelet 3. § (1) bekezdésével megállapított szöveg.

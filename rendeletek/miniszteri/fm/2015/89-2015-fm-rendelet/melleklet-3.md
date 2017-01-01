@@ -76,7 +76,7 @@
 
 | tenyész | kg | 1000 |
 
-3. melléklet a 89/2015. (XII. 22.) FM rendelethez[^6]
+3. melléklet a 89/2015. (XII. 22.) FM rendelethez[^7]
 
 A haszonbérleti díj, valamint a vagyonkezelési díj mértéke
 
@@ -108,4 +108,4 @@ A haszonbérleti díj, valamint a vagyonkezelési díj mértéke
 
 | 13 | Balaton | 200 |
 
-[^6]: A 3. melléklet a 75/2016. (XI. 30.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^7]: A 3. melléklet a 75/2016. (XI. 30.) FM rendelet 3. § (2) bekezdésével megállapított szöveg.
