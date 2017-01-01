@@ -1,1 +1,0 @@
-## 6. § A miniszter az MVH jelentése alapján a megfelelő támogatási összegeket biztosítja az 10032000-00287560- 00000017 számú MVH Agrártámogatások lebonyolítási számlán, és erről haladéktalanul értesíti az MVH-t. Az MVH a forrás rendelkezésére bocsátásától számított tizenöt napon belül folyósítja a támogatást a hitelezők részére.

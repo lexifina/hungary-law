@@ -1,3 +1,0 @@
-4. § (1) Az MVH a támogatási kérelmeket a 2. számú mellékletben foglalt adatok, valamint a Tv. 26. § (1) bekezdésének e) pontja szerinti nyilvántartási rendszer adatai alapján ellenőrzi. A mezőgazdasági, halászati, erdészeti és vidékfejlesztési állami támogatások Európai Bizottság részére történő bejelentési rendjéről szóló 46/2005. (III. 11.) Korm. rendelet (a továbbiakban: mezőgazdasági bejelentési rendelet) 5. §-ának (3) bekezdése szerinti egyéni keret túllépése esetén a támogatás összegét – a túllépés mértékével megegyezően – csökkenti.
-
-(2) Az MVH az igénybe vehető támogatás mértékéről határozatban dönt. Ezzel egyidejűleg a jóváhagyott támogatási összegekről hitelezőnkénti bontásban tájékoztatja a minisztert és a pénzügyminisztert.
