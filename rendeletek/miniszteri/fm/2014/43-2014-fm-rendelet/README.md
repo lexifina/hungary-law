@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-43-20-1
 | 2015-01-01 | 2014-43-20-11.3 | 2010: CXXX. törvény |
 | 2015-05-14 | 2014-43-20-11.4 | 23/2015. (V. 13.) FM rendelet |
 | 2016-01-01 | 2014-43-20-11.5 | 76/2015. (XI. 24.) FM rendelet |
+| 2017-01-01 | 2014-43-20-11.6 | 88/2016. (XII. 29.) FM rendelet |

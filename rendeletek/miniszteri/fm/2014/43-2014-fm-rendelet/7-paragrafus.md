@@ -12,4 +12,6 @@ d) nem áll csőd-, felszámolási vagy végelszámolási eljárás alatt, és
 
 e) nincs lejárt köztartozása.
 
-(2) A tenyésztőszervezet a kedvezményezettek összesített igényeit tartalmazó, és az elvégzett szolgáltatások támogatástartalmára vonatkozó kifizetési kérelmét a Mezőgazdasági és Vidékfejlesztési Hivatalhoz (a továbbiakban: MVH) az adott naptári évben elvégzett szolgáltatás után, legkésőbb az adott naptári évet követő március 10-ig az MVH által rendszeresített és az MVH honlapján közzétett nyomtatványon nyújtja be.
+(2)[^2] A tenyésztőszervezet a kedvezményezettek összesített igényeit tartalmazó, és az elvégzett szolgáltatások támogatástartalmára vonatkozó kifizetési kérelmét a Magyar Államkincstárhoz (a továbbiakban: Kincstár) az adott naptári évben elvégzett szolgáltatás után, legkésőbb az adott naptári évet követő március 10-ig a Kincstár által rendszeresített és a Kincstár honlapján közzétett nyomtatványon nyújtja be.
+
+[^2]: A 7. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 74. § a)–b) pontja szerint módosított szöveg.
