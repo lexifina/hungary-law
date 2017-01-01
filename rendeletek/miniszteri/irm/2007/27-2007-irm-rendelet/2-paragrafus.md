@@ -4,6 +4,6 @@
 
 (3) A befogadást meg kell tagadni az (1) bekezdésben meghatározott határozat hiánya esetén.
 
-(4)[^4]
+(4)[^5]
 
-[^4]: A 2. § (4) bekezdését a 8/2015. (III. 24.) BM rendelet 16. § (2) bekezdés a) pontja hatályon kívül helyezte.
+[^5]: A 2. § (4) bekezdését a 8/2015. (III. 24.) BM rendelet 16. § (2) bekezdés a) pontja hatályon kívül helyezte.

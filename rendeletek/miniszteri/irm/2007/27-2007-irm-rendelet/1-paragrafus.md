@@ -6,7 +6,7 @@
 
 a) az őrzött szálláson a bv. intézetet, az őrzött szállás vezetőjén a bv. intézet parancsnokát kell érteni,
 
-b) az 5. § (1) bekezdésétől eltérően a napirendet a bv. intézet parancsnoka – az országos rendőr-főkapitány, a büntetés-végrehajtás országos parancsnoka és a Bevándorlási és Állampolgársági Hivatal főigazgatójának jóváhagyásával – határozza meg,
+b)[^4] az 5. § (1) bekezdésétől eltérően a napirendet a bv. intézet parancsnoka – az országos rendőr-főkapitány, a büntetés-végrehajtás országos parancsnoka és a Bevándorlási és Menekültügyi Hivatal főigazgatójának jóváhagyásával – határozza meg,
 
 c) a 11. § (2) bekezdésétől eltérően az őrizetes a döntés ellen a büntetés-végrehajtás országos parancsnokához fordulhat,
 
@@ -15,3 +15,4 @@ d) a 26. § (3) bekezdésétől eltérően az őrizetes által a bv. intézetnek
 [^1]: Az 1. § (1) bekezdése a 76/2012. (XII. 19.) BM rendelet 1. §-ával megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése az 51/2007. (XII. 11.) IRM rendelet 5. §-a szerint módosított szöveg.
 [^3]: Az 1. § (3) bekezdését a 23/2016. (VI. 29.) BM rendelet 11. §-a iktatta be.
+[^4]: Az 1. § (3) bekezdés b) pontja az 58/2016. (XII. 22.) BM rendelet 21. §-a szerint módosított szöveg.

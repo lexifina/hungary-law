@@ -1,4 +1,4 @@
-20. § (1)[^27] Ha az őrizet foganatosításának tartama alatt
+20. § (1)[^29] Ha az őrizet foganatosításának tartama alatt
 
 a) büntetőeljárás során elrendelt előzetes letartóztatás, kiszabott elzárás vagy szabadságvesztés,
 
@@ -10,4 +10,4 @@ végrehajtása érdekében értesítés érkezik, az értesítés beérkezésén
 
 (2) Az őrizet (1) bekezdésben meghatározott célból és időtartamra történő megszakítása az őrizet időtartamába nem számít bele. Az őrizet foganatosítását a megszakítás időtartamának lejártakor tovább kell folytatni, kivéve, ha az őrizetet megszüntették, vagy annak időtartama lejárt.
 
-[^27]: A 20. § (1) bekezdése a 33/2013. (VI. 28.) BM rendelet 4. §-ával megállapított szöveg.
+[^29]: A 20. § (1) bekezdése a 33/2013. (VI. 28.) BM rendelet 4. §-ával megállapított szöveg.

@@ -1,5 +1,5 @@
 ## 28. § Ez a rendelet 2007. július 1-jén lép hatályba, ezzel egyidejűleg az idegenrendészeti eljárásban elrendelt őrizet végrehajtásának szabályairól szóló 27/2001. (XI. 29.) BM–IM együttes rendelet, az idegenrendészeti eljárásban elrendelt őrizet végrehajtásának szabályairól szóló 27/2001. (XI. 29.) BM–IM együttes rendelet módosításáról szóló 28/2004. (VI. 12.) BM–IM együttes rendelet, valamint az egyes miniszteri rendeleteknek a Bevándorlási és Állampolgársági Hivatal és a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala megjelölésére vonatkozó módosításáról szóló 8/2007. (III. 6.) IRM rendelet 1. § (5) bekezdése hatályát veszti.
 
-29. §[^35] E rendelet 5/B. §-a, 6. §-a, 14. §-a, valamint 17. §-a a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
+29. §[^37] E rendelet 5/B. §-a, 6. §-a, 14. §-a, valamint 17. §-a a harmadik országok illegálisan tartózkodó állampolgárainak visszatérésével kapcsolatban a tagállamokban használt közös normákról és eljárásokról szóló, 2008. december 16-i 2008/115/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja.
 
-[^35]: A 29. §-t a 12/2010. (XII. 23.) BM rendelet 20. §-a iktatta be.
+[^37]: A 29. §-t a 12/2010. (XII. 23.) BM rendelet 20. §-a iktatta be.

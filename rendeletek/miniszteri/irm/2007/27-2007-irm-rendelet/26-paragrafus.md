@@ -2,9 +2,9 @@
 
 (2) Az őrizetes által okozott kár megtérítése iránti igényt az őrzött szállás vezetője a kár bekövetkezésétől számított három munkanapon belül az őrizetessel írásban közli. Ha a kár okozásában több őrizetes vett részt, felelősségüket egy eljárásban kell elbírálni.
 
-(3)[^33] Az őrizetes által az őrzött szállás fenntartójának vagy a szállítást végző szervnek szándékosan okozott kár, továbbá az őrzött szállás fenntartója vagy a szállító által az őrizetesnek okozott kár megtérítése tárgyában az eljárást az országos rendőrfőkapitány intézkedésében kijelölt kárbiztos folytatja le.
+(3)[^35] Az őrizetes által az őrzött szállás fenntartójának vagy a szállítást végző szervnek szándékosan okozott kár, továbbá az őrzött szállás fenntartója vagy a szállító által az őrizetesnek okozott kár megtérítése tárgyában az eljárást az országos rendőrfőkapitány intézkedésében kijelölt kárbiztos folytatja le.
 
-(4)[^34] A kártérítési eljárásra vonatkozó feladatokat az országos rendőrfőkapitány intézkedésben állapítja meg.
+(4)[^36] A kártérítési eljárásra vonatkozó feladatokat az országos rendőrfőkapitány intézkedésben állapítja meg.
 
 (5) Az őrzött szállás vezetője az őrizetes bejelentését, illetve az őrizetessel szembeni igényét haladéktalanul továbbítja a kijelölt kárbiztosnak. Az eljárás azon a napon indul, amelyen a kárigény bejelentése a kárbiztoshoz megérkezett.
 
@@ -14,5 +14,5 @@
 
 (8) A kártérítési eljárásban az őrizetes használhatja az anyanyelvét vagy bármely más nyelvet, amelyet megért és amelyen képes magát megértetni. Szükség esetén a tolmács kirendeléséről az őrzött szállás vezetője gondoskodik.
 
-[^33]: A 26. § (3) bekezdése az 51/2007. (XII. 11.) IRM rendelet 5. §-a szerint módosított szöveg.
-[^34]: A 26. § (4) bekezdése az 51/2007. (XII. 11.) IRM rendelet 5. §-a szerint módosított szöveg.
+[^35]: A 26. § (3) bekezdése az 51/2007. (XII. 11.) IRM rendelet 5. §-a szerint módosított szöveg.
+[^36]: A 26. § (4) bekezdése az 51/2007. (XII. 11.) IRM rendelet 5. §-a szerint módosított szöveg.
