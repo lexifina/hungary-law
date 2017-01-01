@@ -2,8 +2,8 @@
 
 1.
 
-2.
+2. 2. számú melléklete a 3. melléklet szerint,
 
-3.
+3. 3. számú melléklete a 4. melléklet szerint
 
 módosul.

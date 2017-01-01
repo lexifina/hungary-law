@@ -1,0 +1,3 @@
+160. § Az Szftv. 6/A. § (6) bekezdés helyébe a következő rendelkezés lép:
+
+„(6) Az állami adóhatóság a kérelem benyújtását követő 30 napon belül, de legkorábban október 15-től elektronikus úton tájékoztatja az 1. § (6) bekezdése szerinti adatokról azokat a 4. § (1) bekezdése szerinti kedvezményezetteket, akik elektronikus úton benyújtott nyilatkozatuk alapján igényt tartanak ezen adatszolgáltatásra. A tájékoztatás a magánszemély adott rendelkező évi érvényes nyilatkozata alapján történik. A kedvezményezett az ily módon rendelkezésre álló adatokat kizárólag a közhasznú tevékenységével kapcsolatban a magánszeméllyel történő kapcsolatfelvételre, tájékoztatás nyújtására használhatja fel, és az adatokat kizárólag az adatszolgáltatást követő 5 évig kezelheti.”

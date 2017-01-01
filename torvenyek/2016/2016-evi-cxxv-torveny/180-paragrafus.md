@@ -1,0 +1,3 @@
+180. § Az Art. 43. § (2a) bekezdése helyébe a következő rendelkezés lép:
+
+„(2a) Ha a (2) bekezdés szerinti átvezetésnek lenne helye, de az bármely okból nem lehetséges – különösen, ha az adózó megszűnt, vagy ha az adózóval szemben nem folytatott az állami adó- és vámhatóság a büntetőeljárással érintett adónemmel és időszakkal összefüggésben ellenőrzést, vagy ha a terhére nem tett megállapítást –, az elkülönített számlára megfizetett összeget – a (2b) bekezdésben meghatározott eset kivételével – át kell utalni a kincstár által vezetett külön költségvetési számlára. A kincstár számlájára átutalt összeg a központi költségvetés bevételét képezi.”

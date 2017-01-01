@@ -1,0 +1,7 @@
+165. § (1) Az Art. 6/D. § (1) bekezdése helyébe a következő rendelkezés lép:
+
+„(1) A megbízható adózó részére az állami adó- és vámhatóság az általa nyilvántartott adótartozásra – kivéve a 133. § (3) bekezdésében meghatározott tartozásokat – az adózó elektronikus úton benyújtott kérelmére évente egy alkalommal legfeljebb 12 havi pótlékmentes fizetési könnyítést engedélyez a 133. § (1)–(2) bekezdésében foglalt feltételek vizsgálata nélkül (a továbbiakban: automatikus fizetési könnyítés). Az eljárás illetékmentes. Az automatikus fizetési könnyítésről az állami adó- és vámhatóság a kérelem beérkezésétől számított 15 napon belül határozatot hoz, amelyet elektronikus úton kézbesít. Az automatikus fizetési könnyítés kizárólag akkor engedélyezhető, ha a kérelmező nettó módon számított adótartozása az elbírálás időpontjában nem haladja meg a 1,5 millió forintot. Amennyiben a megbízható adózó az automatikus fizetési könnyítés feltételeinek nem felel meg, úgy kérelmét az állami adó- és vámhatóság az általános szabályok szerint bírálja el.”
+
+(2) Az Art. 6/D. § (4) bekezdése helyébe a következő rendelkezés lép:
+
+„(4) Ha az adózó az esedékes részlet befizetését nem teljesíti, az automatikus fizetési könnyítés érvényét veszti, és a tartozás egy összegben esedékessé válik. Ez esetben az állami adó- és vámhatóság a fennmaradó tartozásra az eredeti esedékességtől késedelmi pótlékot számít fel.”

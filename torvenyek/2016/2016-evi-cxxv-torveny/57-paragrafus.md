@@ -1,0 +1,3 @@
+57. § A Katv. 8. § (6) bekezdése helyébe a következő rendelkezés lép:
+
+„(6) Azon kisadózó vállalkozás, amely a naptári év minden hónapjára köteles az (1)–(2), valamint a (4a) bekezdés szerinti adót megfizetni, a kisadózó vállalkozás bevételének naptári évben elért összegéből a 12 millió forintot meghaladó rész után 40 százalékos mértékű adót fizet. Ha a kisadózó vállalkozás nem köteles a naptári év minden hónapjára az (1)–(2), valamint a (4a) bekezdés szerinti adót megfizetni, a 40 százalékos mértékű adót a kisadózó vállalkozás bevételének a kisadózó vállalkozási jogállás fennállásának az (1)–(2), valamint a (4a) bekezdés szerinti adófizetési kötelezettséggel érintett hónapjai és 1 millió forint szorzatát meghaladó része után fizeti meg.”
