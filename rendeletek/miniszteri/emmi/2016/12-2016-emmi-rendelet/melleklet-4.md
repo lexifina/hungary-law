@@ -148,7 +148,7 @@
 
 | 74. | V. Országos Néptáncverseny (kamaracsoport) |
 
-| 75. | A művészeti szakközépiskolák és szakiskolák részére |
+| 75. | A művészeti szakgimnáziumok és szakközépiskolák részére |
 
 | 76. |  | XVI. Országos Hegedűverseny |
 

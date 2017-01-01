@@ -26,7 +26,7 @@ b) az Oktatási Hivatalra (a továbbiakban: Hivatal),
 
 c) a fővárosi és megyei kormányhivatalokra, a járási (fővárosi kerületi) hivatalokra,
 
-d) az állami intézményfenntartó központra és annak területi szerveire,
+d)[^1] az oktatási központra és a tankerületi központokra,
 
 e) a Nemzeti Szakképzési és Felnőttképzési Hivatalra,
 
@@ -37,3 +37,5 @@ g) a pedagógusokra,
 h) a nevelő és oktató munkát végző más szakemberekre és a nem pedagógus-munkakört betöltőkre, valamint
 
 i) a tanulók és a jelentkezők törvényes képviselőire.
+
+[^1]: Az 1. § d) pontja a 46/2016. (XII. 28.) EMMI rendelet 9. § a) pontja szerint módosított szöveg.

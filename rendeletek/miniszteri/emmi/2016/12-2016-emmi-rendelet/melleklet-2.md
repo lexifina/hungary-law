@@ -80,7 +80,7 @@
 
 | 11. | társadalomismeret | – | 2017. május 16., 14.00 |
 
-| 12. | ágazati és ágazaton kívüli szakmai vizsgatárgyak | – | 2017. május 17., 8.00 |
+| 12. | ágazati és ágazaton kívüli szakmai vizsgatárgyak | ágazati és ágazaton kívüli szakmai vizsgatárgyak | 2017. május 17., 8.00 |
 
 | 13. | – | informatika | 2017. május 18., 8.00 |
 
@@ -170,4 +170,6 @@
 
 ## 7. A HÍD II. keretében megszerezhető részszakképesítések írásbeli vizsgatevékenységeinek időpontja 2017. június 14., a további vizsgatevékenységeket 2017. június 30-ig kell megszervezni.
 
-2. melléklet a 12/2016. (VI. 27.) EMMI rendelethez
+2. melléklet a 12/2016. (VI. 27.) EMMI rendelethez[^3]
+
+[^3]: A 2. melléklet a 46/2016. (XII. 28.) EMMI rendelet 9. § b)–d) pontja szerint módosított szöveg.

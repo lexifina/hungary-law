@@ -50,9 +50,9 @@
 
 | 24. | 2017. 03. 23. | A Hivatal elektronikus formában megküldi a középfokú iskoláknak a hozzájuk jelentkezettek listáját ABC sorrendben. |
 
-| 25. | 2017. 03. 30. | Az állami intézményfenntartó központ kijelöli a Köznevelési Hídprogramot a következő tanévtől megvalósító középfokú intézményt vagy intézményeket, és erről tájékoztatja az általános iskolákat. |
+| 25. | 2017. 03. 30. | Az oktatási központ kijelöli a Köznevelési Hídprogramot a következő tanévtől megvalósító középfokú intézményt vagy intézményeket, és erről tájékoztatja az általános iskolákat. |
 
-| 26. | 2017. 03. 30. | A szakképzésért és felnőttképzésért felelős miniszter, valamint az agrárpolitikáért felelős miniszter kijelöli a Szakképzési Hídprogramot a következő tanévtől megvalósító középfokú tagintézményt vagy intézményeket, és erről az állami intézményfenntartó központon keresztül tájékoztatja az általános iskolákat. |
+| 26. | 2017. 03. 30. | A szakképzésért és felnőttképzésért felelős miniszter, valamint az agrárpolitikáért felelős miniszter kijelöli a Szakképzési Hídprogramot a következő tanévtől megvalósító középfokú tagintézményt vagy intézményeket, és erről az oktatási központ on keresztül tájékoztatja az általános iskolákat. |
 
 | 27. | 2017. 04. 04. | A Hivatal a módosító tanulói adatlapok alapján kiegészíti a jelentkezettek listáját. |
 
@@ -70,7 +70,7 @@
 
 | 34. | 2017. 06. 01. | A benyújtott kérelmek alapján lefolytatott jogorvoslati eljárás befejezése a fenntartónál. |
 
-| 35. | 2017. 06. 19. | Az általános iskola értesítést küld a tanulóról a tanuló állandó lakhelye, ennek hiányában tartózkodási helye szerint illetékes járási (fővárosi kerületi) hivatal, valamint az állami intézményfenntartó központ részére, amennyiben kezdeményezi a tanköteles tanuló felvételét a Köznevelési Hídprogramba. Az állami intézményfenntartó központ kijelöl legalább egy, a megye területén működő Köznevelési Hídprogramban részt vevő köznevelési intézményt, amely a tanulót felveszi tankötelezettségének teljesítése érdekében. |
+| 35. | 2017. 06. 19. | Az általános iskola értesítést küld a tanulóról a tanuló állandó lakhelye, ennek hiányában tartózkodási helye szerint illetékes járási (fővárosi kerületi) hivatal, valamint az oktatási központ részére, amennyiben kezdeményezi a tanköteles tanuló felvételét a Köznevelési Hídprogramba. Az oktatási központ kijelöl legalább egy, a megye területén működő Köznevelési Hídprogramban részt vevő köznevelési intézményt, amely a tanulót felveszi tankötelezettségének teljesítése érdekében. |
 
 | 36. | 2017. 06. 19. | Az általános iskola értesítést küld a tanulóról a tanuló állandó lakhelye, ennek hiányában tartózkodási helye szerint illetékes járási (fővárosi kerületi) hivatal, valamint a Nemzeti Szakképzési és Felnőttképzési Hivatal részére, amennyiben kezdeményezi a tanköteles tanuló felvételét a Szakképzési Hídprogramba. A Nemzeti Szakképzési és Felnőttképzési Hivatal kijelöl legalább egy, a megye területén működő Szakképzési Hídprogramban részt vevő középfokú intézményt, tagintézményt, amely a tanulót felveszi tankötelezettségének teljesítése érdekében. |
 
@@ -82,4 +82,6 @@
 
 | 40. | 2017. 08. 31. | Pótbeiratkozás a Köznevelési és a Szakképzési Hídprogramra. |
 
-3. melléklet a 12/2016. (VI. 27.) EMMI rendelethez
+3. melléklet a 12/2016. (VI. 27.) EMMI rendelethez[^4]
+
+[^4]: A 3. melléklet az 53/2016. (XII. 29.) EMMI rendelet 52. § (2) bekezdése szerint módosított szöveg.
