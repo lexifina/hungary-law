@@ -1,0 +1,3 @@
+## 20. § Az R3. 34. §-a helyébe a következő rendelkezés lép:
+
+## „34. § Ha az állomány tagja első alkalommal költözik önálló lakásba, részére az állományilletékes parancsnok engedélyezheti a 20. § és a 21. § szerinti költözködési költségtérítés kifizetését a közigazgatási határon belüli helyi, valamint helyközi költözködés esetén is. E rendelkezés értelmében önálló lakásnak – a lakhatás jogcímétől és a tulajdoni viszonyok helyzetétől függetlenül – azt a lakóingatlant vagy lakrészt kell tekinteni, amely megfelel az önálló életvitel folytatásához szükséges feltételeknek. Nem minősül önálló lakásnak a helyőrségi szálló – ideértve a helyőrségi szállóként hasznosított lakást is – és a laktanyai szállás.”

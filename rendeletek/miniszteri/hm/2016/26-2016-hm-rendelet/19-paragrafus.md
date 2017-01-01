@@ -1,0 +1,3 @@
+## 18. § Az R3. 23. § (8) bekezdése helyébe a következő rendelkezés lép:
+
+## „(8) Az állomány áthelyezett tagja részére teljes összegű munkába járási költségtérítés a Lakásrendeletben meghatározott helyi lakásgazdálkodási szerv által kiállított igazolás alapján állapítható meg, amelyet az állomány tagja a 15. § (3) bekezdése szerinti kérelemmel együtt nyújt be az állományilletékes parancsnok részére. Az igazolásnak bizonyítania kell, hogy az állomány áthelyezett tagja a szolgálatteljesítési hely szerinti településen és annak vonzáskörzetében a Lakásrendelet és a Lakáspénzrendelet alapján nem részesül a család együttélését lehetővé tevő lakhatási támogatásban.”

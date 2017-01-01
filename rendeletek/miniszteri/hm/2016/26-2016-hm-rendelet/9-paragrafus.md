@@ -1,0 +1,1 @@
+## „(6) Az (1) bekezdés a) pont aa) alpontjától eltérően, a tárgyévi nevelési támogatásra jogosult az állomány tagja és a közalkalmazott akkor is, ha az (1) bekezdés a) pontja szerinti gyermek a tárgyév szeptember 30-ig megszületik, örökbefogadásra vagy nevelésbe vételre kerül.”

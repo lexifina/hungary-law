@@ -1,0 +1,3 @@
+## 15. § Az R3. 18. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) A helyi szolgálati utazás végrehajtásához elsősorban közösségi közlekedési eszközt kell igénybe venni. Az állományilletékes parancsnok a szolgálati, munkaköri feladat jellegétől függően a vonaljegy, a menetjegy vagy a helyi bérlet és a számla pénzügyi és számviteli szerv részére történő leadása ellenében engedélyezheti a vonaljegy, a menetjegy vagy a helyi bérlet árának a megtérítését. Nem téríthető meg a vonaljegy, a menetjegy és a helyi bérlet ára az állomány tagja és a közalkalmazott részére, ha a helyi szolgálati utazás időpontjában a szolgálatteljesítési hely szerinti településre érvényes helyi bérlet megvásárlásához a 17. § szerinti költségtérítésben részesül.”
