@@ -4,4 +4,4 @@
 
 (3) Igazgatói munkakörbe az nevezhető ki, aki felsőfokú igazgatásszervezői, okleveles jogász képesítéssel vagy okleveles közigazgatási menedzser, illetve egyetemi vagy főiskolai szintű közgazdász szakképesítéssel, valamint jogi vagy közigazgatási szakvizsgával, vagy kormányzati tanulmányok szakirányú szakképzettséggel és legalább 5 év közigazgatási szakmai gyakorlattal rendelkezik.
 
-(4) Az igazgató minisztériumi főosztályvezető-helyettesi besorolású, határozatlan időre kinevezett kormánytisztviselő. Az igazgató illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény az illetményalap huszonnégyszeresét nem haladhatja meg.
+(4) Az igazgató minisztériumi főosztályvezető-helyettesi besorolású, határozatlan időre kinevezett kormánytisztviselő. Az igazgató illetményét a munkáltatói jogkör gyakorlója állapítja meg azzal, hogy az illetmény az illetményalap huszonnégyszeresét nem haladhatja meg. Az igazgatóra a Kttv. 151. §-a nem alkalmazható.

@@ -12,6 +12,8 @@ d) az 1. § 3. pontjában meghatározott rendelkezéstől eltérő szakmai irán
 
 e) a fővárosi és megyei kormányhivatal funkcionális feladatait, valamint az azok irányítását ellátó szervet vagy szerveket,
 
-f) a fővárosi és megyei kormányhivatalra vonatkozó gazdálkodási szabályokat
+f) a fővárosi és megyei kormányhivatalra vonatkozó gazdálkodási szabályokat,
+
+g) a fővárosi és megyei kormányhivatal elektronikus űrlapra épülő ügyintézésnél alkalmazott egyedi eljárásrendjének, az automatikus döntéshozatalnak, a kapcsolódó nyilvántartási és ügyfélkapcsolati szolgáltatásoknak a részletes szabályait
 
 rendeletben határozza meg.

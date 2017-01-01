@@ -26,3 +26,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2010-126-00-00
 | 2016-01-01 | 2015. évi CLXXXVI. törvény | 2010-126-00-00.19 |
 | 2016-07-01 | 2016. évi LII. törvény | 2010-126-00-00.20 |
 | 2016-10-21 | 2016. évi CIV. törvény | 2010-126-00-00.21 |
+| 2017-01-01 | 2016. évi CIV. törvény | 2010-126-00-00.22 |

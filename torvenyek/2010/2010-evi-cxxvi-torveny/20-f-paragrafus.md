@@ -1,1 +1,1 @@
-20/F. §
+20/F. § A Kormány rendeletben jelöli ki Pest megyében a megyeszékhely járási hivatalának feladatait ellátó járási hivatalt, illetve a fővárosban a megyeszékhely járási hivatalának feladatait ellátó kerületi hivatalt.

@@ -14,4 +14,8 @@ e) közigazgatási informatikai közreműködői tevékenységet lát el,
 
 f) ügyfélszolgálatot működtethet,
 
-g) ellátja a jogszabályban meghatározott egyéb feladatait.
+g) jogszabályban meghatározottak szerint nyilvántartást vezet,
+
+h) – jogszabályban meghatározott szolgáltató feladatkörébe tartozó informatikai szolgáltatások kivételével – ügyintézéshez kapcsolódó informatikai szolgáltatást biztosít,
+
+i) ellátja a jogszabályban meghatározott egyéb feladatait.
