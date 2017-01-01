@@ -1,3 +1,5 @@
+## nyújtható.
+
 5. § (1)[^7] A 651/2014/EU bizottsági rendelet, az 1407/2013/EU bizottsági rendelet, a 2012/21/EU bizottsági határozat, a 360/2012/EU bizottsági rendelet és a SA.38425 (2014/N). számú bizottsági határozat hatálya alá tartozó támogatás kizárólag átlátható formában nyújtható.
 
 (2) A kedvezményezett köteles a támogatással kapcsolatos okiratokat és dokumentumokat a támogatási döntés meghozatala napjától számított tíz évig megőrizni.
@@ -42,23 +44,29 @@ b) megváltozott munkaképességű munkavállaló foglalkoztatásához bértámo
 
 c) megváltozott munkaképességű munkavállaló foglalkoztatásával járó többletköltség ellentételezéséhez nyújtott támogatás esetén vállalkozásonként és évenként meghaladja a 10 millió eurónak megfelelő forintösszeget,
 
-d)[^10] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 100 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente az 50 millió eurónak megfelelő forintösszeget.
+d)[^10] a kultúrát és a kulturális örökség megőrzését előmozdító beruházási támogatás esetén projektenként meghaladja a 100 millió eurónak megfelelő forintösszeget, a kultúrát és a kulturális örökség megőrzését előmozdító működési támogatás esetén vállalkozásonként évente az 50 millió eurónak megfelelő forintösszeget,
+
+e)[^11] sportlétesítményhez és multifunkcionális szabadidős létesítményhez nyújtott támogatás esetén meghaladja a 15 millió eurónak megfelelő forintösszeget, vagy a projekt teljes költsége meghaladja az 50 millió eurónak megfelelő forintösszeget.
 
 (10) E rendelet alapján
 
-a)[^11]
+a)[^12]
 
 b) a 4. § b) pontja szerinti támogatás esetén 2019. december 31-ig,
 
 c) a 4. § c) pontja szerinti támogatás esetén 2021. június 30-ig,
 
-d)[^12] a 4. § a), d)–f) pontja szerinti támogatás esetén 2021. június 30-ig,
+d)[^13] a 4. § a), d)–f) pontja szerinti támogatás esetén 2021. június 30-ig,
 
-e) a 4. § h) pontja szerinti támogatás esetén 2019. június 30-ig
+e) a 4. § h) pontja szerinti támogatás esetén 2019. június 30-ig,
+
+f)[^14] a 4. § i) pontja szerinti támogatás esetén 2021. június 30-ig
 
 [^7]: Az 5. § (1) bekezdése a 24/2016. (VIII. 30.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^8]: Az 5. § (3) bekezdés a) pontja a 24/2016. (VIII. 30.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^9]: Az 5. § (4) bekezdése a 24/2016. (VIII. 30.) EMMI rendelet 9. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^10]: Az 5. § (9) bekezdés d) pontját a 24/2016. (VIII. 30.) EMMI rendelet 4. §-a iktatta be.
-[^11]: Az 5. § (10) bekezdés a) pontját a 24/2016. (VIII. 30.) EMMI rendelet 10. § a) pontja hatályon kívül helyezte.
-[^12]: Az 5. § (10) bekezdés d) pontja a 24/2016. (VIII. 30.) EMMI rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^11]: Az 5. § (9) bekezdés e) pontját a 47/2016. (XII. 28.) EMMI rendelet 3. §-a iktatta be.
+[^12]: Az 5. § (10) bekezdés a) pontját a 24/2016. (VIII. 30.) EMMI rendelet 10. § a) pontja hatályon kívül helyezte.
+[^13]: Az 5. § (10) bekezdés d) pontja a 24/2016. (VIII. 30.) EMMI rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^14]: Az 5. § (10) bekezdés f) pontját a 47/2016. (XII. 28.) EMMI rendelet 4. §-a iktatta be.

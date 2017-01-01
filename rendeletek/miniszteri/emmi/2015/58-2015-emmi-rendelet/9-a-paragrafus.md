@@ -1,4 +1,4 @@
-## 5/A. [^15] A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
+## 5/A. [^18] A kultúrát és a kulturális örökség megőrzését előmozdító támogatás
 
 9/A. § (1) A kultúrát és a kulturális örökség megőrzését előmozdító támogatás (ezen alcím vonatkozásában a továbbiakban: támogatás) beruházási, működési vagy zenei és irodalmi alkotások kiadásához nyújtott támogatásként nyújtható.
 
@@ -16,4 +16,4 @@ e) kulturális és művészeti oktatási tevékenység, a kulturális kifejezés
 
 f) zenei és irodalmi alkotások írása, szerkesztése, gyártása, terjesztése, digitalizálása, kiadása és fordítása.
 
-[^15]: Az 5/A. alcímet (9/A–9/E. §) a 24/2016. (VIII. 30.) EMMI rendelet 6. §-a iktatta be.
+[^18]: Az 5/A. alcímet (9/A–9/E. §) a 24/2016. (VIII. 30.) EMMI rendelet 6. §-a iktatta be.
