@@ -2,7 +2,7 @@
 
 a) versenyszabályzat,
 
-b) igazolási (nyilvántartási) és átigazolási szabályzat, amely tartalmazza a versenyzők sporttevékenységére és érdekvédelmére vonatkozó szakmai és etikai előírásokat is, kiemelt figyelemmel a kiskorú versenyzőkre,
+b) igazolási (nyilvántartási) és átigazolási szabályzat, amely tartalmazza a versenyzők sporttevékenységére és érdekvédelmére vonatkozó szakmai előírásokat is,
 
 c) sportfegyelmi szabályzat,
 
@@ -10,9 +10,13 @@ d) a sportrendezvény biztonságos lebonyolításával kapcsolatos előírásoka
 
 e) doppingszabályzat,
 
-f) gazdálkodási, pénzügyi szabályzat, amely tartalmazza az állami sportcélú támogatások e törvénynek, valamint az államháztartás működésére vonatkozó jogszabályoknak és az állami sportcélú támogatások felhasználásáról és elosztásáról szóló miniszteri rendeletnek megfelelő felhasználására vonatkozó előírásokat is,
+f) gazdálkodási, pénzügyi szabályzat, amely tartalmazza az állami sportcélú támogatások e törvénynek, valamint az államháztartás működésére vonatkozó jogszabályoknak és az állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletnek megfelelő felhasználására vonatkozó előírásokat is,
 
-g) a sportszakemberek képesítési követelményeit és feladatait tartalmazó szabályzat.
+g) a sportszakemberek képesítési követelményeit és feladatait tartalmazó szabályzat,
+
+h) etikai és gyermekvédelmi szabályzat,
+
+i) sportegészségügyi szabályzat, amely tartalmazza különösen a sportsérülések megelőzésére, a sportegészségügyi ellátás biztosítására és a sportbiztosításra vonatkozó sportági előírásokat is.
 
 (2) Amennyiben a szakszövetség hivatásos vagy vegyes (nyílt) versenyrendszert (bajnokságot) működtet, úgy a versenyszabályzatban külön rendelkeznie kell a hivatásos vagy a vegyes bajnokságban részt vevő sportszervezetekkel, illetve sportolókkal szemben támasztott követelményekről.
 

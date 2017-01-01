@@ -14,9 +14,9 @@ b) az a sportszövetség vagy sportegyesület, amelynek működését a bírós�
 
 c) az a sportszövetség vagy sportegyesület, amellyel szemben a Cstv. szerint a bíróság elrendelte a csődeljárást vagy a sportszövetség vagy sportegyesület felszámolását,
 
-d) a sportegyesület, a sportvállalkozás, a sportiskola, az utánpótlás-nevelés fejlesztését végző alapítvány, a sportszövetség, a MOB, valamint a helyi önkormányzat, ha nem tesz eleget a nemzeti sportinformációs rendszer részére való adatszolgáltatási kötelezettségének,
+d) a sportszervezet, a sportszövetség, a sportköztestület, valamint a helyi önkormányzat, ha nem tesz eleget a nemzeti sportinformációs rendszer részére való adatszolgáltatási kötelezettségének,
 
-e) a sportegyesület, a sportvállalkozás, a sportiskola, az utánpótlás-nevelés fejlesztését végző alapítvány, sportszövetség, valamint a MOB, ha nem teljesíti a doppingellenes tevékenységről szóló kormányrendeletben meghatározott doppingellenes feladatait,
+e) a sportszervezet, a sportszövetség, valamint a sportköztestület, ha nem teljesíti a doppingellenes tevékenységről szóló kormányrendeletben meghatározott doppingellenes feladatait,
 
 f) az a sportegyesület, sportvállalkozás, sportiskola, utánpótlás-nevelés fejlesztését végző alapítvány és sportszövetség, amely az e törvényben és a sportrendezvények biztonságáról rendelkező kormányrendeletben meghatározott, a sportrendezvények biztonságos lebonyolításával összefüggő kötelezettségeinek nem tesz eleget,
 
@@ -42,4 +42,4 @@ d) a támogatást nem a szerződésben megjelölt célra használta fel.
 
 (4) A sportpolitikáért felelős minisztérium írásbeli megkeresésére, annak kézhezvételétől számított harminc napon belül az állami adóhatóság tájékoztatást köteles nyújtani a sportszervezetek, illetve a sportszövetségek köztartozásairól.
 
-(5) A sportszövetség minden év június 15-ig elkészíti és megküldi a MOB részére a működésével összefüggő, valamint szakmai feladatai ellátásának következő évi szakmai tervét, valamint annak finanszírozási koncepcióját. A MOB a sportszövetség által megküldött szakmai tervek és finanszírozási koncepciók figyelembevételével dönt a sportszövetség állami sportcélú támogatások felhasználásáról és elosztásáról szóló miniszteri rendeletben meghatározottak szerinti támogatásáról.
+(5) A sportszövetség a sportköztestület – sportpolitikáért felelős miniszter által meghatározott időpontban tett – felhívására elkészíti és megküldi a sportköztestület részére a működésével összefüggő, valamint szakmai feladatai ellátásának következő évi szakmai tervét, valamint annak finanszírozási koncepcióját. A sportköztestület a sportszövetség által megküldött szakmai tervek és finanszírozási koncepciók figyelembevételével az államháztartásért felelős miniszter által meghatározott, a sportpolitikáért felelős miniszter által a sportköztestület részére megadott határidőben javaslatot tesz a miniszter részére a sportszövetség állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletben meghatározottak szerinti támogatásáról.

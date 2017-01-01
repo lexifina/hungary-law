@@ -45,3 +45,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-1-00-00
 | 2016-04-12 | 2016. évi XVIII. törvény | 2004-1-00-00.52 |
 | 2016-06-18 | 2016. évi LXVII. törvény | 2004-1-00-00.53 |
 | 2016-11-19 | 2016. évi CXIX. törvény | 2004-1-00-00.54 |
+| 2017-01-01 | 2016. évi CXIX. törvény | 2004-1-00-00.55 |

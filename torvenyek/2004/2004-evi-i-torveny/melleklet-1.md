@@ -84,7 +84,7 @@ Ferencvárosi Torna Club
 
 |
 
-Budapest, 74333
+Budapest, 74333/1
 
 |
 

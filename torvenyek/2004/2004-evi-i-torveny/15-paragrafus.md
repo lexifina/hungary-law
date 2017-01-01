@@ -4,7 +4,7 @@
 
 ## A sportszervezetek típusai
 
-15. § (1) Sportszervezetek a sportegyesületek és a sportvállalkozások.
+15. § (1) Sportszervezetek a sportegyesületek, a sportvállalkozások, a sportiskolák, valamint az utánpótlás-nevelés fejlesztését végző alapítványok.
 
 (2) A sportszervezetekre vonatkozó szabályokat megfelelően alkalmazni kell:
 
@@ -12,6 +12,6 @@ a) a nemzeti válogatott sportolók, illetve válogatott csapatok (keretek) műk
 
 b) a fogyatékosok sportja, illetve a szabadidősport területén működő azon sportszövetségekre, amelyek keretében sportolók közvetlenül – a sportszövetség alapszabályában biztosított lehetőség alapján – sporttevékenységet fejtenek ki,
 
-c) a sportiskolákra, valamint az utánpótlás-nevelés fejlesztését végző alapítványokra.
+c)
 
-(3) A sportszervezetek, a sportiskolák, valamint az utánpótlás-nevelés fejlesztését végző alapítványok a nemzeti sportinformációs rendszerről szóló kormányrendeletben foglaltak szerint adatokat szolgáltatnak a nemzeti sportinformációs rendszerbe.
+(3)

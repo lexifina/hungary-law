@@ -2,17 +2,17 @@
 
 (2) A sportpolitikáért felelős miniszter:
 
-a) A MOB által a sport valamennyi területére nézve előkészített, a sport állami támogatásának is alapjául szolgáló sportfejlesztési stratégia, és a sportszövetségek által elkészített, a MOB egyes szakmai tagozatai által összehangolt, a MOB-on keresztül a sportpolitikáért felelős minisztériumhoz benyújtott sportágfejlesztési tervek alapján előkészíti a sporttal kapcsolatos kormányzati döntéseket,
+a) a sportszövetségek által elkészített sportágfejlesztési tervek alapján előkészíti a sporttal kapcsolatos kormányzati döntéseket,
 
-b) az 56. § (3) bekezdésében foglaltakra is figyelemmel ellátja a sportcélú központi állami pénzeszközök tervezésével, elosztásával kapcsolatos, e törvényben és az államháztartás működésére, valamint az állami sportcélú támogatásra vonatkozó jogszabályokban meghatározott feladatokat, – a MOB-bal történő, e törvényben meghatározott együttműködés alapján – meghatározza a pénzeszközök elosztásának részletes előírásait, ellenőrzi a pénzeszközök felhasználását, gondoskodik a jogosulatlanul igénybe vett állami támogatás visszafizettetéséről,
+b) ellátja a sportcélú központi állami pénzeszközök tervezésével, elosztásával kapcsolatos, e törvényben és az államháztartás működésére, valamint az állami sportcélú támogatásra vonatkozó jogszabályokban meghatározott feladatokat, ellenőrzi a pénzeszközök felhasználását, gondoskodik a jogosulatlanul igénybe vett állami támogatás visszafizettetéséről,
 
 c) gondoskodik a sporttal kapcsolatos kormányzati döntések végrehajtásáról,
 
 d) szakmai támogatást nyújt a helyi önkormányzatok sporttal összefüggő feladatainak ellátásához,
 
-e) együttműködik az Országos Területfejlesztési Tanáccsal, az érintett megyei önkormányzatokkal, a főváros esetén a fővárosi önkormányzattal és a térségi fejlesztési tanácsokkal,
+e) együttműködik az Országos Területfejlesztési Érdekegyeztető Fórummal, az érintett megyei önkormányzatokkal, a főváros esetén a fővárosi önkormányzattal,
 
-f) együttműködik a MOB-bal, valamint kapcsolatot tart a sport területén működő civil, érdek-képviseleti szervekkel,
+f) együttműködik a sportköztestületekkel, valamint kapcsolatot tart a sport területén működő civil szervekkel,
 
 g) a látvány-csapatsportok támogatásával összefüggésben – a ga) és gb) alpontban meghatározott feladatok esetén a Ket. rendelkezései alapján közigazgatási hatósági jogkörben – ellátja a sportfejlesztési programok jóváhagyásával és a támogatási igazolásokkal kapcsolatban a hatáskörébe utalt feladatokat, valamint a látvány-csapatsport támogatás felhasználásának ellenőrzésével kapcsolatos elszámolással, részelszámolással összefüggő feladatokat:
 
@@ -26,7 +26,7 @@ gd) a Tao. 22/C. § (1) bekezdés a) és e) pontjában, valamint a Tao. 22/C. §
 
 ge) a szakszövetség kezdeményezésére intézkedik a Tao. 22/C. § (6) bekezdés a) és d) pontjában meghatározott jelzálogjognak az állam javára az ingatlan-nyilvántartásba történő bejegyeztetésére vonatkozó kérelem benyújtásáról;
 
-gf) kötelezi a támogatott szervezetet a Tao. 4. § 44. pontja, a 24/A. §-a és 22/C. §-a szerinti támogatás, valamint annak a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben meghatározottak szerinti kamata állam részére történő befizetésére, ha a támogatás felhasználásának ellenőrzése során megállapítja, hogy a támogatott szervezet a támogatást nem rendeltetésszerűen vette igénybe;
+gf) kötelezi a támogatott szervezetet a Tao. 4. § 44. pontja, a 22/C. §-a és 24/A. §-a szerinti támogatás, valamint annak a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben meghatározottak szerinti kamata állam részére történő befizetésére, ha a támogatás felhasználásának ellenőrzése során megállapítja, hogy a támogatott szervezet a támogatást nem rendeltetésszerűen vette igénybe;
 
 gg) kezdeményezi az adók módjára behajtandó köztartozásnak minősülő, szabálytalanul igénybe vett és be nem fizetett támogatás, valamint annak a látvány-csapatsport támogatását biztosító támogatási igazolás kiállításáról, felhasználásáról, a támogatás elszámolásának és ellenőrzésének, valamint visszafizetésének szabályairól szóló kormányrendeletben meghatározottak szerint megnövelt összege és kamata behajtását, ha a gf) pont szerinti kötelezés ellenére a támogatott szervezet a nem rendeltetésszerűen igénybe vett támogatást és annak kamatát nem fizeti be az állam részére;
 
@@ -36,15 +36,15 @@ gi) kapcsolatot tart az állami adóhatósággal, a Tao. szerint nyújtott támo
 
 gj) ellátja a Tao. 24/A. § (19) bekezdésében meghatározott igazolás kiállításával összefüggő feladatokat;
 
-h) gyakorolja az e törvényben, valamint külön jogszabályokban meghatározott hatósági jogköröket,
+h) gyakorolja az e törvényben, valamint külön jogszabályokban meghatározott hatósági jogköröket, különösen az olimpiai járadékkal és a Nemzet Sportolója Címmel összefüggő, e törvényben, továbbá az olimpiai járadékról és a Nemzet Sportolója Cím adományozásáról szóló kormányrendeletekben meghatározott közigazgatási hatósági feladatokat;
 
-i) a MOB-bal együttműködve programokat dolgoz ki
+i) programokat dolgoz ki:
 
 ia) a versenysportnak,
 
 ib) az utánpótlás-nevelésnek,
 
-ic) a diák- és főiskolai-egyetemi sportnak,
+ic) a diák- és egyetemi-főiskolai sportnak,
 
 id) a fogyatékosok sportjának,
 
@@ -60,13 +60,15 @@ ii) a sportpiac fejlődésének,
 
 ij) a sport egyéb területeinek
 
-támogatására és e programokban elősegíti az esélyegyenlőséget, továbbá a programok kidolgozását a népegészségügyi érdekek hatékony érvényesítése céljából az illetékes miniszterekkel együttműködve végzi,
+támogatására és e programokban elősegíti az esélyegyenlőséget, továbbá a programok kidolgozását a népegészségügyi érdekek hatékony érvényesítése céljából a feladat- és hatáskörrel rendelkező miniszterekkel együttműködve végzi,
 
-j) biztosítja a nemzeti sportinformációs rendszer döntés-előkészítési, statisztikai, valamint sportszakmai, továbbá szolgáltató elemeinek működési feltételeit, üzemeltetését és fejlesztését azzal, hogy biztosítja a nemzeti sportinformációs rendszerben nyilvántartott adatok statisztikai célokra történő felhasználását és statisztikai felhasználás céljából a hivatalos statisztikai szolgálat részére történő átadását,
+j) közreműködik a sportszakember-képzésben és -továbbképzésben a hatáskörébe tartozó feladatok teljesítésében, valamint a sport szakmai (oktatási, továbbképzési, kutatási, sporttudományos, sportegészségügyi) hátterének biztosítása érdekében együttműködik az e feladatokat ellátó intézmények felügyeletét ellátó minisztériumokkal,
 
-k) közreműködik a sportszakember-képzésben és -továbbképzésben a hatáskörébe tartozó feladatok teljesítésében, valamint a sport szakmai (oktatási, továbbképzési, kutatási, sporttudományos, sportegészségügyi) hátterének biztosítása érdekében együttműködik az e feladatokat ellátó intézmények felügyeletét ellátó minisztériumokkal,
+k) meghatározza az állami sportcélú támogatásban részesülő kiemelkedő jelentőségű sportegészségügyi és sporttudományos feladatokat, javaslatot tesz a sportegészségügyi és a sporttudományos feladatok ellátásának szervezeti kereteire, és figyelemmel kíséri a feladatok megvalósítását,
 
-l) a MOB-bal együttműködésben meghatározza az állami sportcélú támogatásban részesülő kiemelkedő jelentőségű sportegészségügyi és sporttudományos feladatokat, javaslatot tesz a sportegészségügyi és a sporttudományos feladatok ellátásának szervezeti kereteire, és figyelemmel kíséri a feladatok megvalósítását.
+l) az országos sportági szakszövetségi és az országos sportági szövetségi jogállás bírósági bejegyzését megelőzően igazolja a 20. § (4)–(5) bekezdésében és a 28. § (1)–(2) bekezdésében meghatározott feltételek fennállását,
+
+m) meghatározza a támogatási rendszerek minőségbiztosítási rendszerét (benchmark-rendszer) és követelményeit.
 
 (2a)
 

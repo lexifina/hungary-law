@@ -14,8 +14,8 @@ b) nevét, székhelyét, képviselőjének nevét és lakóhelyét a bíróság 
 
 (4) A sportegyesület jogutód nélküli megszűnése esetén a szakosztály jogi személyisége is megszűnik. A jogi személy szakosztály kötelezettségeiért a sportegyesület kezesi felelősséggel tartozik.
 
-(5) A sportegyesület alapszabálya vagy a jogvitában érintett személyek megállapodása a tagsági jogviszonyból, továbbá a sportegyesület vagy önálló jogi személy szervezeti egységei és a tagok egymás közötti jogviszonyából eredő jogvitákra a Sport Állandó Választottbíróság eljárását kötheti ki.
+(5) A sportegyesület alapszabálya vagy a jogvitában érintett személyek megállapodása a tagsági jogviszonyból, továbbá a sportegyesület vagy önálló jogi személy szervezeti egységei és a tagok egymás közötti jogviszonyából eredő jogvitákra a választottbíróság eljárását kötheti ki.
 
 (6) A sportegyesület bírósági feloszlatása esetén a hitelezők kielégítése után fennmaradó vagyon állami tulajdonba kerül, és azt a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetésében az utánpótlás-nevelés támogatására kell fordítani.
 
-(7) A sportegyesületnek a bírósági nyilvántartásból való törlésére akkor kerülhet sor, ha a MOB igazolja, hogy a sportegyesület az állami sportcélú támogatás felhasználásával e törvényben, valamint az államháztartás működésére vonatkozó jogszabályokban foglaltaknak megfelelően elszámolt, vagy azt, hogy a sportegyesület állami sportcélú támogatásban nem részesült.
+(7) A sportegyesületnek a bírósági nyilvántartásból való törlésére akkor kerülhet sor, ha a sportpolitikáért felelős miniszter igazolja, hogy a sportegyesület az állami sportcélú támogatás felhasználásával e törvényben, valamint az államháztartás működésére vonatkozó jogszabályokban foglaltaknak megfelelően elszámolt, vagy azt, hogy a sportegyesület állami sportcélú támogatásban nem részesült.

@@ -18,4 +18,4 @@ c) megfelel a környezet- és természetvédelmi követelményeknek.
 
 (4) Sportlétesítményben sportszövetségi versenyt rendezni csak a sportszövetség által évente az első verseny megkezdése előtt kiadott engedély alapján lehet. Az engedély megtagadásával szemben az üzemeltető a sportszövetség elnökségénél 15 napon belül panasszal élhet.
 
-(5) A sportlétesítmény tulajdonosa, illetve üzemeltetője vagy használója a nemzeti sportinformációs rendszerről szóló kormányrendeletben foglaltak szerint adatot szolgáltat a nemzeti sportinformációs rendszerbe.
+(5)

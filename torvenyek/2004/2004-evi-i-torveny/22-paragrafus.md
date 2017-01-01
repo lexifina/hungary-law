@@ -10,7 +10,7 @@ d) működtetni a nemzeti válogatott kereteket, elősegíteni a sportágához t
 
 e) meghatározni a sportág stratégiai fejlesztési koncepcióit (ideértve az utánpótlás-nevelés fejlesztését is) és gondoskodni ezek megvalósításáról,
 
-f) képviselni a sportág érdekeit az állami szervek, a MOB és annak szakmai tagozatai, a többi sportszövetség, más egyesületek, szövetségek előtt, valamint a nemzetközi sportéletben,
+f) képviselni a sportág érdekeit az állami szervek, a sportköztestületek, a többi sportszövetség, más egyesületek, szövetségek előtt, valamint a nemzetközi sportéletben,
 
 g) az alapszabályában meghatározott módon szolgáltatásokat nyújtani tagjainak, közreműködni a tagok közötti viták rendezésében, elősegíteni a sportágában működő sportszakemberek képzését és továbbképzését,
 
@@ -22,7 +22,7 @@ j) nyertes pályázat esetén a kiemelt nemzetközi sportrendezvények magyarors
 
 (2) A szakszövetség ellátja az alapszabályában, a sportága nemzetközi szövetségének szabályzataiban, illetve a jogszabályokban meghatározott feladatokat. Ennek keretében különösen:
 
-a) gondoskodik a sportágában a versenyzők nyilvántartásáról, igazolásáról, átigazolásáról, valamint nyilvántartási rendszere alapján adatokat szolgáltat az állami sportinformációs rendszernek,
+a) gondoskodik a sportágában a versenyzők nyilvántartásáról, igazolásáról, átigazolásáról,
 
 b) megadja vagy megtagadja a sportági nemzetközi szövetsége, illetve a külföldi sportszövetség által megkívánt hozzájárulást magyar versenyzők külföldi, valamint a külföldi versenyzők Magyarországon történő versenyzéséhez,
 
@@ -52,7 +52,9 @@ fh) ellátja a Tao. 24/A. § (20) bekezdésében meghatározott igazolás kiáll
 
 g) sportágában elláthatja a sportág fogyatékosok sportjával összefüggő feladatait, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni,
 
-h) sportágában elláthat szabadidős sporttevékenységgel összefüggő feladatokat is, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni.
+h) sportágában elláthat szabadidős sporttevékenységgel összefüggő feladatokat is, amit az állami sportcélú támogatás elosztásáról szóló döntés során figyelembe kell venni,
+
+i) stratégiai jellegű feladatai körében meghatározza a versenyzők minősítési szintjeit.
 
 (3) A látvány-csapatsportban működő szakszövetség a (2) bekezdés f) pont fa) és fb) alpontjában meghatározott feladatok ellátása során közigazgatási hatósági jogkörben jár el a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) rendelkezései alapján.
 

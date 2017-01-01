@@ -22,7 +22,7 @@ c) segíti a sportági és iskolai területi versenyrendszerek kialakítását, 
 
 d) adottságainak megfelelően részt vesz a nemzetközi sportkapcsolatokban,
 
-e) ellátja a nemzeti sportinformációs adatszolgáltatással összefüggő területi feladatokat,
+e)
 
 f) közreműködik a sport népszerűsítésében, a mozgásgazdag életmóddal kapcsolatos sporttudományos felvilágosító tevékenység szervezésében,
 

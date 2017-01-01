@@ -1,10 +1,8 @@
 42. § (1) A MOB tagjai
 
-a) azok a büntetlen előéletű magyar állampolgárok, valamint az olimpiai sportágak azon képviselői, akik elismerik és magukénak vallják az olimpiai eszmét, készek elősegíteni a MOB működését, akiket a MOB alapszabályában felsorolt szervek és szervezetek képviselőiként taggá delegálnak, illetve akik a MOB alapszabályában foglaltak szerint személyes jogosultság alapján válnak tagokká
+a) azok a büntetlen előéletű magyar állampolgárok, valamint az olimpiai sportágak azon képviselői, akik elismerik és magukénak vallják az olimpiai eszmét, készek elősegíteni a MOB működését, akiket a MOB alapszabályában felsorolt szervek és szervezetek képviselőiként taggá delegálnak, illetve akik a MOB alapszabályában foglaltak szerint személyes jogosultság alapján válnak tagokká,
 
-b) – a MOB alapszabályának elfogadása esetén – alanyi jogon a szakszövetségek, az országos sportági szövetségek, az országos szabadidősport-szövetségek, valamint az országos diák- és hallgatói sportszövetségek,
-
-c) alanyi jogon a fogyatékosok országos sportszövetségei, azok a szakszövetségek és országos sportági szövetségek, amelyek sportága szerepel a Paralimpia, illetve a Siketlimpia programjában vagy tevékenységi köre kiterjed a fogyatékossággal élők versenysportjára, vagy amelyek integrált versenyrendszert működtetnek, vagy amelyeknél az épek versenyrendszerében fogyatékos sportolók is részt vesznek.
+b) – a MOB alapszabályának elfogadása esetén – alanyi jogon az olimpiai sportágak országos sportági szakszövetségei.
 
 (2) A MOB tagjait a főtitkár vagy az azzal azonos jogállású tisztségviselő (a továbbiakban együtt: MOB-főtitkár) tartja nyilván.
 

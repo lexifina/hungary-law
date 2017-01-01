@@ -8,11 +8,11 @@
 
 a) meghatározza a szervezett formában történő sporttevékenység gyakorlásának jogszabályi feltételeit,
 
-b) gondoskodik – a köznevelésről szóló törvényben meghatározottak szerint – a mindennapos testedzés feltételeinek megteremtéséről a közoktatásban, továbbá közreműködik ezek biztosításában a felsőoktatási intézményekben és a felsőoktatási kollégiumokban,
+b) gondoskodik – a nemzeti köznevelésről szóló törvényben meghatározottak szerint – a mindennapos testnevelés feltételeinek megteremtéséről a köznevelésben, továbbá közreműködik ezek biztosításában a felsőoktatási intézményekben és a felsőoktatási kollégiumokban,
 
 c) elősegíti az egészséges életmód és a szabadidősport gyakorlása feltételeinek megteremtését,
 
-d) az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, valamint az állami sportcélú támogatásokról szóló miniszteri rendeletben meghatározottak szerint – elsősorban a sportfejlesztési programokon alapuló támogatás előtérbe helyezésével, pályázati úton történő források rendelkezésre bocsátásával – részt vesz a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, a főiskolai-egyetemi sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok finanszírozásában,
+d) az e törvényben, a költségvetési törvényben, az államháztartás működésére vonatkozó jogszabályokban, valamint az állami sportcélú támogatásokról szóló kormányrendeletben meghatározottak szerint – elsősorban a sportfejlesztési programokon alapuló támogatás előtérbe helyezésével, pályázati úton történő források rendelkezésre bocsátásával – részt vesz a versenysport, az utánpótlás-nevelés, az iskolai és diáksport, az egyetemi-főiskolai sport, a szabadidősport és a fogyatékosok sportja, valamint a helyi önkormányzatok által ellátott sportfeladatok finanszírozásában,
 
 e) az esélyegyenlőség jegyében támogatja a gyermek- és ifjúsági sportot, a nők és a családok sportját, a hátrányos helyzetű társadalmi csoportok, valamint a fogyatékosok sportját,
 

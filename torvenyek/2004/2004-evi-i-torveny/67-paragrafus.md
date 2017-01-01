@@ -6,4 +6,4 @@
 
 (4) A szervező a sportrendezvény jellegének megfelelően köteles a fogyatékos résztvevőknek a helyszínre való akadálymentes bejutását és távozását, ott az akadálymentes közlekedést biztosítani, és a helyszín kommunikációs akadálymentesítését elvégezni.
 
-(5) A fogyatékos sportolók részvételével tartandó sportrendezvények szervezésénél figyelembe kell venni a fogyatékos személyek különleges szükségleteit, amelyeket a MOB állapít meg.
+(5) A fogyatékos sportolók részvételével tartandó sportrendezvények szervezésénél figyelembe kell venni a fogyatékos személyek különleges szükségleteit, amelyeket az MPB állapít meg.

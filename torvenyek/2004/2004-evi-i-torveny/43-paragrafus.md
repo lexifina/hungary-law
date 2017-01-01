@@ -1,4 +1,4 @@
-43. § (1) A MOB legfelsőbb szerve a közgyűlés, amely a tagok összességéből áll. A közgyűlésben az alapszabályban rögzített számú helyet kell biztosítani az olimpiai sportágak országos szakszövetségei által jelölt személyeknek azzal, hogy számuknak meg kell haladnia a MOB tagjai létszámának felét. A MOB alapszabálya lehetővé teheti, hogy – az arányosság elvének betartásával – egy tag több képviselőt is küldjön – tagsági jogokkal – a közgyűlésbe. A MOB közgyűlésének részletes összetételét a MOB alapszabálya határozza meg.
+43. § (1) A MOB legfelsőbb szerve a közgyűlés, amely a tagok összességéből áll. A közgyűlésben a MOB alapszabályában rögzített számú helyet kell biztosítani az olimpiai sportágak szakszövetségei által jelölt személyeknek azzal, hogy számuknak meg kell haladnia a MOB tagjai létszámának felét. A MOB alapszabálya lehetővé teheti, hogy – az arányosság elvének betartásával – egy tag több képviselőt is küldjön – tagsági jogokkal – a közgyűlésbe. A MOB közgyűlésének részletes összetételét a MOB alapszabálya határozza meg.
 
 (2) A közgyűlés kizárólagos hatáskörébe tartozik:
 
@@ -14,6 +14,6 @@ e) döntés minden olyan ügyben, amelyet az alapszabály a közgyűlés kizár�
 
 (3) A MOB közgyűlésén a sportpolitikáért felelős miniszter által vezetett minisztérium képviselője, valamint a felügyelőbizottság elnöke tanácskozási joggal vehetnek részt.
 
-(4) A MOB-ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül vagy közvetett úton választott testület (elnökség). A MOB elnökségének tagjai: az elnök, alelnökökként a 45. § (2) bekezdés szerinti tagozatok vezetői, valamint a MOB alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. A MOB elnökségének tagja nem lehet állami vezető.
+(4) A MOB-ügyintéző és képviseleti szerve a tagok által ilyen célból – az alapszabályban meghatározottak szerint – közvetlenül választott testület (elnökség). A MOB elnökségének tagjai: az elnök, valamint a MOB alapszabályában meghatározott további személyek és szervezetek képviselői. Az elnökség tagja büntetlen előéletű magyar állampolgár lehet. A MOB elnökségének tagja nem lehet állami vezető.
 
 (5) Az elnökség ülésére – tanácskozási joggal – meg kell hívni a felügyelőbizottság tagjait, valamint a sportpolitikáért felelős miniszter által vezetett minisztérium képviselőjét.

@@ -1,21 +1,21 @@
-41. § A MOB feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből származó állami sportcélú támogatások tervezésével, elosztásával, felhasználásával, elszámolásával és ellenőrzésével kapcsolatos – az e törvényben és az állami sportcélú támogatások felhasználásáról és elosztásáról szóló miniszteri rendeletben meghatározottak szerint – a következők:
+41. § A MOB feladatai a sportpolitikáért felelős miniszter által vezetett minisztérium költségvetési fejezetéből származó, az olimpiai mozgalommal kapcsolatos szervezett versenysporttal összefüggő állami sportcélú támogatások tervezésével, elosztásával, felhasználásával, elszámolásával és ellenőrzésével kapcsolatos – az e törvényben és az állami sportcélú támogatások felhasználásáról és elosztásáról szóló kormányrendeletben meghatározottak szerint – a következők:
 
-a) a központi költségvetés tervezésének időszakában – az 57. § (5) bekezdésében foglaltakra figyelemmel, minden év június 30-ig – a központi költségvetési támogatások elosztásának irányaira és arányaira vonatkozó javaslatot küld a sportpolitikáért felelős miniszter részére a 39. § c) pontja szerinti sportági stratégiai fejlesztési koncepciók figyelembevételével,
+a) az államháztartásért felelős miniszter által meghatározott, a sportpolitikáért felelős miniszter által a MOB részére megadott határidőben a központi költségvetési támogatások elosztásának irányaira és arányaira vonatkozó javaslatot küld a sportpolitikáért felelős miniszter részére a 39. § b) pontja szerinti sportági stratégiai fejlesztési koncepciók figyelembevételével,
 
-b) meghatározza az állami sportcélú támogatások felosztási elveit,
+b) javaslatot tesz az olimpiai mozgalommal kapcsolatos szervezett versenysporttal összefüggő állami sportcélú támogatások felosztási elveire,
 
-c) dönt a feladatkörébe tartozó, költségvetési törvényben meghatározott állami sportcélú támogatások felhasználásáról és folyósítja a támogatásokat,
+c) dönt a részére rendelkezésre bocsátott állami sportcélú támogatások felhasználásáról és folyósítja a támogatásokat,
 
-d) koordinálja és folyamatosan nyomon követi az állami sportcélú támogatás felhasználását,
+d) koordinálja és folyamatosan nyomon követi a rendelkezésére bocsátott állami sportcélú támogatás felhasználását,
 
-e) ellenőrzi az éves támogatási programok megvalósításának folyamatában (az adminisztratív célú támogatások kivételével) benyújtott negyedéves szakmai előrehaladási jelentéseket és azok eredményéről tájékoztatja a sportpolitikáért felelős minisztert,
+e) szakmailag véleményezi az éves támogatási programok megvalósításának folyamatában (az adminisztratív célú támogatások kivételével) benyújtott negyedéves szakmai előrehaladási jelentéseket és azok eredményéről tájékoztatja a sportpolitikáért felelős minisztert,
 
-f) részt vesz az állami sportcélú támogatás felhasználásával kapcsolatos elszámolási feladatokban, ennek keretében:
+f) részt vesz a részére juttatott állami sportcélú támogatás felhasználásával kapcsolatos elszámolási feladatokban, ennek keretében
 
 fa) elszámoltatja a kedvezményezettet a továbbadott állami sportcélú támogatásról,
 
-fb) elszámol a 46/A. § (1) bekezdésében meghatározott állami sportcélú támogatással,
+fb) elszámol a 46. § (1) bekezdésében meghatározott állami sportcélú támogatással,
 
-g) működteti a sportösztöndíjrendszert,
+g) az 58. § (2) bekezdésében meghatározottak szerint részt vesz a Gerevich Aladár-sportösztöndíj működtetésében,
 
-h) a sportpolitikáért felelős miniszter közreműködésével ellátja a nyugdíjas olimpiai és világbajnoki érmes sportolók, azok özvegyei, valamint a kiemelkedő sporteredmények elérésében közreműködő nyugdíjas sportszakemberek erkölcsi és anyagi megbecsülését, gondozza a sporttémájú művészeti pályázati programokat.
+h) ellátja a nyugdíjas olimpiai és világbajnoki érmes sportolók, azok özvegyei, valamint a kiemelkedő sporteredmények elérésében közreműködő nyugdíjas sportszakemberek erkölcsi és anyagi megbecsülését, gondozza a sporttémájú művészeti pályázati programokat.
