@@ -4,7 +4,7 @@
 
 ## 1.1. a miniszter kabinetfőnöke, a miniszteri kabinet munkaköre,
 
-## 1.2. a Honvéd Vezérkar főnöke, a helyettese és a törzsigazgató tevékenységét közvetlenül segítő szervezeti elem munkaköre,
+## 1.2.[^3] a Honvéd Vezérkar főnöke és helyettesei tevékenységét közvetlenül segítő szervezeti elem munkaköre,
 
 ## 1.3. az állami vezetők titkárságának munkaköre,
 
@@ -16,7 +16,7 @@
 
 ## 1.7. a rendszeradminisztrátor,
 
-## 1.8. a titkos ügykezelő,
+## 1.8.[^4]
 
 ## 1.9. a politikai főtanácsadó, a politikai tanácsadó,
 
@@ -24,7 +24,7 @@
 
 ## 1.11. az integritás tanácsadó,
 
-## 1.12. a belső adatvédelmi felelős,
+## 1.12.[^5] a belső adatvédelmi felelős, az adatvédelmi felügyeleti feladatokat ellátó munkakör,
 
 ## 1.13. a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény egyes rendelkezéseinek végrehajtásáról szóló 290/2011. (XII. 22.) Korm. rendelet 18. § (1) bekezdésében meghatározott védelmi igazgatási munkában részt vevő munkakör,
 
@@ -40,7 +40,7 @@
 
 ## 1.19. a védelmi tervezési rendszer keretein belül stratégiai tervek, valamint nemzeti tervek kidolgozásában részt vevő munkakör.
 
-## 2.[^2] A miniszter közvetlen alárendeltségébe tartozó szervezet és az MH katonai szervezete
+## 2.[^6] A miniszter közvetlen alárendeltségébe tartozó szervezet és az MH katonai szervezete
 
 ## 2.1. a szervezet parancsnoka vagy vezetője, helyettese és törzsfőnöke,
 
@@ -62,7 +62,7 @@
 
 ## 2.10. a fejezet költségvetési gazdálkodásának tervezési, koordinálási és ellenőrzési feladatait végző szervezetnél a NATO és az EU műveletek, valamint a Katonai Nemzetbiztonsági Szolgálat költségvetésének tervezésében, elszámoltatásában, járandóságai megállapításában, ellenőrzésében és az előbbiekben felsoroltak informatikai támogatásában a teljes körű adatállományhoz való hozzáférési jogosultsággal rendelkező munkakör,
 
-## 2.11. az adatvédelmi felügyeleti feladatokat ellátó munkakör,
+## 2.11.[^7]
 
 ## 2.12. a minősített adat védelméről szóló 2009. évi CLV. törvény 5. § (4) bekezdés a)–c) pontja szerinti minősítési jelölésű információt kezelő elektronikus rendszereket üzemeltető munkakör, valamint az MH szintű elektronikus hitelesítés-szolgáltatás fejlesztője, programozója és operátora,
 
@@ -86,9 +86,15 @@ A 2. § (2) bekezdés b) pontja szerinti nemzetbiztonsági ellenőrzés alá es�
 
 1.5. a kontrolling, az államháztartási belső ellenőrzési, a vagyonfelügyeleti, a gazdasági-tervezési és a szabályozási feladatokat, valamint a közbeszerzés-felügyeleti tevékenységet ellátó szervezeti elem munkaköre,
 
-1.6. a tervezési és koordinációs feladatokat ellátó szervezeti elem munkaköre.
+1.6. a tervezési és koordinációs feladatokat ellátó szervezeti elem munkaköre,
 
-2.[^3] A miniszter közvetlen alárendeltségébe tartozó szervezet és az MH katonai szervezete
+1.7.[^8] a védett objektumok szakmai irányítását, felügyeletét, támogatását, ellenőrzését végző szervezeti elem munkaköre, valamint a létesítmények vonatkozásában a beruházások lebonyolításában részt vevő munkakör,
+
+1.8.[^9] a honvédelmi igazgatás központi döntés-előkészítő feladatai végrehajtásában részt vevő szervezeti elem munkaköre,
+
+1.9.[^10] a katonai hatóságok hatósági, valamint szakhatósági döntést előkészítő feladatokat ellátó munkaköre.
+
+2.[^11] A miniszter közvetlen alárendeltségébe tartozó szervezet és az MH katonai szervezete
 
 2.1. az MH katonai szervezet ügyeleti szolgálatának munkaköre,
 
@@ -98,7 +104,7 @@ A 2. § (2) bekezdés b) pontja szerinti nemzetbiztonsági ellenőrzés alá es�
 
 2.4. a helyszínen feladatot végrehajtó, a Honvédelmi Tanács és a Kormány speciális működési feltételeinek biztosításában részt vevő munkakör,
 
-2.5. a védett objektumok szakmai irányítását, felügyeletét, támogatását, ellenőrzését végző szervezet munkaköre, valamint a létesítmények vonatkozásában a beruházások lebonyolításában részt vevő munkakör,
+2.5.[^12]
 
 2.6. a középszintű vezető szerv hadműveleti, műveleti, kiképzési, tervezési, szervezési, jogi és logisztikai munkaköre,
 
@@ -108,7 +114,7 @@ A 2. § (2) bekezdés b) pontja szerinti nemzetbiztonsági ellenőrzés alá es�
 
 2.9. a katonai hatóságok hatósági, szakhatósági, valamint légügyi szakirányítási döntést előkészítő feladatokat ellátó munkaköre,
 
-2.10. a honvédelmi igazgatás központi döntés-előkészítő feladatai végrehajtásában részt vevő szervezet munkaköre,
+2.10.[^13]
 
 2.11. a központi irattár és levéltár munkaköre,
 
@@ -120,5 +126,14 @@ A 2. § (2) bekezdés b) pontja szerinti nemzetbiztonsági ellenőrzés alá es�
 
 2.15. az MH Altiszti Akadémia oktatási tevékenységet folytató katona állománya, továbbá a honvéd tisztjelölt, a honvéd altiszt-jelölt és az önkéntes tartalékos.
 
-[^2]: Az 1. melléklet 2. pont nyitó szövegrésze a 16/2016. (VIII. 31.) HM rendelet 8. § b) pontja szerint módosított szöveg.
-[^3]: A 2. melléklet 2. pont nyitó szövegrésze a 16/2016. (VIII. 31.) HM rendelet 8. § c) pontja szerint módosított szöveg.
+[^3]: Az 1. melléklet 1. pont 1.2. alpontja a 25/2016. (XII. 22.) HM rendelet 79. § a) pontja szerint módosított szöveg.
+[^4]: Az 1. melléklet 1. pont 1.8. alpontját a 25/2016. (XII. 22.) HM rendelet 80. § a) pontja hatályon kívül helyezte.
+[^5]: Az 1. melléklet 1. pont 1.12. alpontja a 25/2016. (XII. 22.) HM rendelet 79. § b) pontja szerint módosított szöveg.
+[^6]: Az 1. melléklet 2. pont nyitó szövegrésze a 16/2016. (VIII. 31.) HM rendelet 8. § b) pontja szerint módosított szöveg.
+[^7]: Az 1. melléklet 2. pont 2.11. alpontját a 25/2016. (XII. 22.) HM rendelet 80. § b) pontja hatályon kívül helyezte.
+[^8]: A 2. melléklet 1. pont 1.7. alpontját a 25/2016. (XII. 22.) HM rendelet 78. §-a iktatta be.
+[^9]: A 2. melléklet 1. pont 1.8. alpontját a 25/2016. (XII. 22.) HM rendelet 78. §-a iktatta be.
+[^10]: A 2. melléklet 1. pont 1.9. alpontját a 25/2016. (XII. 22.) HM rendelet 78. §-a iktatta be.
+[^11]: A 2. melléklet 2. pont nyitó szövegrésze a 16/2016. (VIII. 31.) HM rendelet 8. § c) pontja szerint módosított szöveg.
+[^12]: A 2. melléklet 2. pont 2.5. alpontját a 25/2016. (XII. 22.) HM rendelet 80. § c) pontja hatályon kívül helyezte.
+[^13]: A 2. melléklet 2. pont 2.10. alpontját a 25/2016. (XII. 22.) HM rendelet 80. § c) pontja hatályon kívül helyezte.
