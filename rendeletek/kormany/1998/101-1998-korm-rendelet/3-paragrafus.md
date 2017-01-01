@@ -1,51 +1,37 @@
 ## ÚTLEVÉL HATÓSÁGOK ÉS HATÁSKÖRÜK
 
-3. § (1)[^6] A magánútlevéllel, a szolgálati és a hajós szolgálati útlevéllel, valamint a határátlépési igazolvánnyal összefüggő hatósági ügyben elsőfokú útlevélhatóságként a Kormány a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát (a továbbiakban: Hivatal) jelöli ki.
+3. §[^6] (1) A magánútlevéllel, a szolgálati és a hajós szolgálati útlevéllel, valamint a határátlépési igazolvánnyal összefüggő hatósági ügyben elsőfokú útlevélhatóságként a Kormány a külföldre utazás szabályozásáért felelős minisztert (a továbbiakban: általános hatáskörű útlevélhatóság) jelöli ki.
 
-(2) Az (1) bekezdésben meghatározott feladatain túl a Hivatal feladata és hatásköre:
+(2) A Kormány az útiokmány-nyilvántartás és az útlevélhatósági eljárásban keletkezett iratok tekintetében központi adatkezelő szervként az általános hatáskörű útlevélhatóságot jelöli ki.
 
-a)–b)[^7]
+(3) A (2) bekezdésben meghatározott feladatain túl az általános hatáskörű útlevélhatóság:
 
-c)[^8] a hatáskörébe tartozó úti okmányok soron kívüli, sürgősségi, valamint azonnali eljárás keretében történő kiállítására vonatkozó kérelmek átvételére és az ilyen eljárásban kiállított úti okmányok kiadására ügyfélszolgálati irodát tart fenn;
+a) az úti okmányokkal és a külföldre utazásra felhasznált személyazonosító igazolványokkal összefüggő feladatok ellátásában közreműködő szervekkel és a konzuli tisztviselőkkel való kapcsolattartásra ügyeleti szolgálatot működtet;
 
-d)[^9] az úti okmányokkal és a külföldre utazásra felhasznált személyazonosító igazolványokkal összefüggő feladatok ellátásában közreműködő szervekkel és a konzuli tisztviselőkkel való kapcsolattartásra ügyeleti szolgálatot működtet;
+b) az ideiglenes magánútlevelek kivételével végzi az útlevelek megszemélyesítését és a biometrikus azonosítót tartalmazó tároló elem (a továbbiakban: tároló elem) adatokkal történő feltöltését;
 
-e)[^10]
+c) ellátja a nemzeti dokumentum-aláíró hatósági és az országos aláíró hitelesítő hatósági feladatokat;
 
-f)[^11] végzi az útlevelek megszemélyesítését és a biometrikus azonosítót tartalmazó tároló elem (a továbbiakban: tároló elem) adatokkal történő feltöltését;
+d) ellátja az országos ellenőrzőhitelesítő hatósági, valamint a nemzeti dokumentumellenőrző-hitelesítő hatósági feladatokat.
 
-g)[^12] ellátja a nemzeti dokumentum-aláíró hatósági és az országos aláíró hitelesítő hatósági feladatokat;
+(4) Az általános hatáskörű útlevélhatóság nemzeti dokumentum-aláíró hatóságként létrehozza a dokumentum-aláíró tanúsítványt és elhelyezi azt a tároló elemben.
 
-h)[^13] ellátja az országos ellenőrzőhitelesítő hatósági, valamint a nemzeti dokumentumellenőrző-hitelesítő hatósági feladatokat.
+(5) Az általános hatáskörű útlevélhatóság aláíró hitelesítő hatóságként
 
-(3)[^14] A Hivatal nemzeti dokumentum-aláíró hatóságként létrehozza a dokumentum-aláíró tanúsítványt és elhelyezi azt a tároló elemben.
+a) kiadja a (4) bekezdés szerinti tanúsítványt,
 
-(4)[^15] A Hivatal aláíró hitelesítő hatóságként
+b) létrehozza és kezeli – a biometrikus azonosítót tartalmazó tároló elemmel ellátott útlevelek és úti okmányok ellenőrzése céljából – a Nemzetközi Polgári Repülési Szervezet (a továbbiakban: ICAO) összes tagországa nemzeti dokumentum-aláíró hatóságának tanúsítványait és visszavonási listáit tartalmazó tanúsítvány- és visszavonási listatárat,
 
-a) kiadja a (3) bekezdés szerinti tanúsítványt,
+c) az általa kibocsátott CSCA és CVCA tanúsítványokat, valamint az azokhoz kapcsolódó visszavonási listákat elektronikus dokumentum formájában eljuttatja a többi ICAO tagország országos aláíró hitelesítő hatóságához,
 
-b) létrehozza és kezeli – a biometrikus azonosítót tartalmazó tároló elemmel ellátott útlevelek és úti okmányok ellenőrzése céljából – a Nemzetközi Polgári Repülési Szervezet (ICAO) összes tagországa nemzeti dokumentum-aláíró hatóságának tanúsítványait és visszavonási listáit tartalmazó tanúsítványt és visszavonási listatárat,
+d) igazolja az úti okmányok hitelességét, működteti a magyar és külföldi útlevél ellenőrző szervek felé történő publikálás megvalósítására felállított Nemzeti Publikus Kulcs Adattárat, illetve ebben a feladatkörében kapcsolatot tart az ICAO Public Key Directory (PKD) központtal.
 
-c)[^16] az általa kibocsátott tanúsítványokat, valamint az azokhoz kapcsolódó visszavonási listákat elektronikus dokumentum formájában a konzuli tisztviselőkön keresztül eljuttatja a többi ICAO tagország országos aláíró hitelesítő hatóságához.
-
-(5)[^17] A Hivatal országos ellenőrzőhitelesítő hatóságként
+(6) Az általános hatáskörű útlevélhatóság országos ellenőrzőhitelesítő hatóságként
 
 a) tanúsítványt bocsát ki a nemzeti dokumentumellenőrző-hitelesítő hatóság számára,
 
 b) tanúsítványt ad ki a bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására feljogosított külföldi hatóságok ellenőrző eszközei számára tanúsítványt kibocsátó külföldi dokumentumellenőrző-hitelesítő hatóságok számára.
 
-(6)[^18] A Hivatal nemzeti dokumentumellenőrző-hitelesítő hatóságként biztosítja az útlevélben elektronikusan tárolt, bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult magyar hatóságok ellenőrző eszközei számára a hozzáféréshez szükséges tanúsítványok kiállítását.
+(7) Az általános hatáskörű útlevélhatóság nemzeti dokumentumellenőrző-hitelesítő hatóságként biztosítja az útlevélben elektronikusan tárolt, bővített hozzáférés-ellenőrzéssel védett adatok kiolvasására jogosult magyar hatóságok valamint az európai uniós és a schengeni megállapodásban részes tagállamok jogosult hatóságai számára a hozzáféréshez szükséges tanúsítványok kiállítását.
 
-[^6]: A 3. § (1) bekezdése a 197/2006. (IX. 27.) Korm. rendelet 14. §-a, a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének d) pontja, a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése szerint módosított szöveg.
-[^7]: A 3. § (2) bekezdésének a)–b) pontját a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
-[^8]: A 3. § (2) bekezdés c) pontja a 360/2011. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
-[^9]: A 3. § (2) bekezdésének d) pontja a 122/2004. (IV. 29.) Korm. rendelet 2. §-ával megállapított, valamint a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
-[^10]: A 3. § (2) bekezdésének e) pontját a 117/2009. (VI. 4.) Korm. rendelet 13. § (1) bekezdése hatályon kívül helyezte.
-[^11]: A 3. § (2) bekezdésének f) pontját a 197/2006. (IX. 27.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^12]: A 3. § (2) bekezdésének g) pontját a 197/2006. (IX. 27.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^13]: A 3. § (2) bekezdésének h) pontját a 117/2009. (VI. 4.) Korm. rendelet 2. § (1) bekezdése iktatta be.
-[^14]: A 3. § (3) bekezdését a 145/2003. (IX. 9.) Korm. rendelet 2. §-a iktatta be, szövege a 197/2006. (IX. 27.) Korm. rendelet 2. § (2) bekezdésével megállapított szöveg.
-[^15]: A 3. § (4) bekezdését a 197/2006. (IX. 27.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^16]: A 3. § (4) bekezdésének c) pontja a 117/2009. (VI. 4.) Korm. rendelet 12. § (1) bekezdése szerint módosított szöveg.
-[^17]: A 3. § (5) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^18]: A 3. § (6) bekezdését a 117/2009. (VI. 4.) Korm. rendelet 2. § (2) bekezdése iktatta be.
+[^6]: A 3. § a 379/2016. (XII. 2.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.

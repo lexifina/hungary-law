@@ -1,7 +1,7 @@
-6. §[^28] (1)[^29] A Kormány a Bevándorlási és Állampolgársági Hivatal kérelmező lakóhelye szerint illetékes területi szervét jelöli ki elsőfokú útlevélhatóságként a menekültként elismert személyek kétnyelvű úti okmányával, az oltalmazottként elismert személyek úti okmányával, továbbá a menedékesek úti okmányával összefüggő hatósági ügyekben.
+6. §[^16] (1)[^17] A Kormány a Bevándorlási és Menekültügyi Hivatal kérelmező lakóhelye szerint illetékes területi szervét jelöli ki elsőfokú útlevélhatóságként a menekültként elismert személyek kétnyelvű úti okmányával, az oltalmazottként elismert személyek úti okmányával, továbbá a menedékesek úti okmányával összefüggő hatósági ügyekben.
 
-(2)[^30]
+(2)[^18]
 
-[^28]: A 6. § a 122/2004. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^29]: A 6. § (1) bekezdése a 278/2004. (X. 12.) Korm. rendelet 19. §-a (4) bekezdésének c) pontja, a 197/2006. (IX. 27.) Korm. rendelet 14. §-a, a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének d) pontja, a 301/2007. (XI. 9.) Korm. rendelet 111. § (9) bekezdése szerint módosított szöveg.
-[^30]: A 6. § (2) bekezdését a 197/2006. (IX. 27.) Korm. rendelet 13. § (2) bekezdésének a) pontja hatályon kívül helyezte.
+[^16]: A 6. § a 122/2004. (IV. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^17]: A 6. § (1) bekezdése a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének d) pontja, a 301/2007. (XI. 9.) Korm. rendelet 111. § (9) bekezdése, a 379/2016. (XII. 2.) Korm. rendelet 31. § (6) bekezdés b) pontja szerint módosított szöveg.
+[^18]: A 6. § (2) bekezdését a 197/2006. (IX. 27.) Korm. rendelet 13. § (2) bekezdésének a) pontja hatályon kívül helyezte.
