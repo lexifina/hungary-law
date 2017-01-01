@@ -6,7 +6,7 @@ a) környezettanulmány: az Are. tv. 22. § (3) bekezdése alapján és az Are. 
 
 b) egyszerűsített környezettanulmány: az Are. tv. 71. § (2) bekezdése szerint készítendő olyan dokumentum, amelynek célja az adósságtörlesztési terv előkészítéséhez az a) pont szerint korábban készített környezettanulmány adataihoz képest a változások rögzítése.
 
-(2) Ha az adósságrendezés kezdeményezésekor a hitelezők nem kérték a környezettanulmány elkészítését, az adósságtörlesztési terv előkészítéséhez a környezettanulmányt az Are. tv. és az e rendelet szerinti teljes tartalommal kell elkészíteni.
+(2)[^2] Ha az adósságrendezés kezdeményezésekor nem került sor környezettanulmány készítésére, de az adósságtörlesztési terv elkészítéséhez környezettanulmány készítése indokolt, a környezettanulmányt az Are. tv. és az e rendelet szerinti teljes tartalommal kell elkészíteni.
 
 (3) A Családi Csődvédelmi Szolgálat az (1) bekezdés a) pontja szerinti környezettanulmány elvégzésére vonatkozóan beszerzi az ismert hitelezők írásbeli nyilatkozatát, ha ezek a hitelezők erre vonatkozóan korábban még nem nyilatkoztak. A nyilatkozatot a felkérés kézhezvételétől számított 8 napon belül kell megtenni. A nyilatkozattételre vonatkozó felhívás és a nyilatkozat faxon vagy elektronikus levélben is megküldhető. Az Are. tv. 5. § 24. pontja szerinti főhitelező a környezettanulmány elvégzésére vonatkozó megkeresését az Are. tv. 20. § (5) bekezdése, illetve 21. § (3) bekezdése szerinti iratokkal együtt küldi meg az adós lakóhelye szerint illetékes Családi Csődvédelmi Szolgálat területi szervéhez.
 
@@ -29,3 +29,5 @@ e) akitől a pártatlan feladatellátás egyéb okból nem várható el.
 (7) A környezettanulmány jegyzőkönyvére a Családi Csődvédelmi Szolgálat formanyomtatványt alakít ki, amelyet közzétesz a honlapján.
 
 (8) A környezettanulmány elkészítéséhez az adós, adóstárs lakóhelyéül szolgáló ingatlant, – ha az adós vagy az adóstárs lakóhelye nem a jelzálogjoggal terhelt vagy a pénzügyi lízingszerződéssel érintett lakóingatlanban van, akkor ez utóbbi ingatlanra vonatkozó adatokat is – a helyszíni megtekintés alapján kell a környezettanulmányban rögzíteni.
+
+[^2]: Az 1. § (2) bekezdése a 26/2016. (XII. 27.) IM rendelet 24. § (1) bekezdésével megállapított szöveg.
