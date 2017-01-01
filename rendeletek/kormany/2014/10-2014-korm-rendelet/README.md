@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-10-20-2
 | --- | --- | --- |
 | 2014-01-21 | 2014-10-20-22.1 | 10/2014. (I. 20.) Korm. rendelet |
 | 2015-04-01 | 2014-10-20-22.2 | 72/2015. (III. 30.) Korm. rendelet |
+| 2017-01-01 | 2014-10-20-22.3 | 380/2016. (XII. 2.) Korm. rendelet |
