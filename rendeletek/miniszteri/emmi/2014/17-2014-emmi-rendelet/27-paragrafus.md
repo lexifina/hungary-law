@@ -8,6 +8,9 @@
 
 (4) A Könyvtárellátó a 10. mellékletben meghatározottak szerint
 
-a) az állami intézményfenntartó központ (a továbbiakban: központ) fenntartásában működő iskolák tankönyvellátása vonatkozásában a központtal,
+a)[^18] a tankerületi központ fenntartásában működő iskolák tankönyvellátása vonatkozásában a tankerületi központtal,
 
-b) a nem a központ által fenntartott iskolák ellátása vonatkozásában az iskolákkal
+b)[^19] a nem a tankerületi központ által fenntartott iskolák ellátása vonatkozásában az iskolákkal
+
+[^18]: A 27. § (4) bekezdés a) pontja a 46/2016. (XII. 28.) EMMI rendelet 4. § a)–b) pontja szerint módosított szöveg.
+[^19]: A 27. § (4) bekezdés b) pontja a 46/2016. (XII. 28.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.

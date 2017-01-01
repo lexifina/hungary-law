@@ -10,6 +10,6 @@
 
 ## 5. A kiadó a tankönyv megrendelésével a tárgyév december 15-éig köteles a visszáru átvételére.
 
-10. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^27]
+10. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^39]
 
-[^27]: A 10. melléklet a 21/2015. (IV. 17.) EMMI rendelet 11. §-ával megállapított szöveg.
+[^39]: A 10. melléklet a 21/2015. (IV. 17.) EMMI rendelet 11. §-ával megállapított szöveg.

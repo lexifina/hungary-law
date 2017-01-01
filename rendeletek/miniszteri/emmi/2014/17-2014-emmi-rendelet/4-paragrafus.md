@@ -2,7 +2,7 @@
 
 4. § (1) Ha a tankönyvet, pedagógus-kézikönyvet tartalmában vagy kivitelében megváltoztatták, ide nem értve az 5. § (5) bekezdése szerint egybeszerkesztett könyveket, a tankönyvvé, pedagógus-kézikönyvvé nyilvánítási eljárást ismételten le kell folytatni az igazgatási szolgáltatási díj újbóli megfizetését követően.
 
-(2)[^1] Nem jelenti a könyv tartalmi változtatását a benne szereplő helyesírási és nyomdahibáknak, továbbá a tankönyvvé, pedagógus-kézikönyvvé nyilvánítás ideje alatt megváltozott tényeknek, adatoknak a tankönyv, pedagógus-kézikönyv adott oldalain történő javítása, a tartós tankönyvvel kapcsolatos jelölés, feltéve, hogy a javítás miatt nem változik meg a lapok számozása, és a javításról készült jegyzéket a kérelmező – saját költségén – megküldi a hivatalnak és azoknak az iskoláknak, amelyek az adott tankönyvből, pedagógus-kézikönyvből a javítás évét megelőző három évben rendeltek.
+(2)[^2] Nem jelenti a könyv tartalmi változtatását a benne szereplő helyesírási és nyomdahibáknak, továbbá a tankönyvvé, pedagógus-kézikönyvvé nyilvánítás ideje alatt megváltozott tényeknek, adatoknak a tankönyv, pedagógus-kézikönyv adott oldalain történő javítása, a tartós tankönyvvel kapcsolatos jelölés, feltéve, hogy a javítás miatt nem változik meg a lapok számozása, és a javításról készült jegyzéket a kérelmező – saját költségén – megküldi a hivatalnak és azoknak az iskoláknak, amelyek az adott tankönyvből, pedagógus-kézikönyvből a javítás évét megelőző három évben rendeltek.
 
 (3) Javítási kérelmet kell benyújtani akkor, ha a jóváhagyott tankönyvben, pedagógus-kézikönyvben a jóváhagyási eljárásban a szakértők által feltárt, helyesírási és nyomdahibának nem minősülő hibákat javítani kívánják. A kérelemhez – a hibák jellegétől, mennyiségétől függően – csatolni kell
 
@@ -16,4 +16,4 @@ d) nyilatkozatot arról, hogy a jóváhagyott tankönyvet, pedagógus-kéziköny
 
 (4) A javítás tényét a benyújtott tankönyvben, pedagógus-kézikönyvben fel kell tüntetni.
 
-[^1]: A 4. § (2) bekezdése a 21/2015. (IV. 17.) EMMI rendelet 1. §-ával megállapított szöveg.
+[^2]: A 4. § (2) bekezdése a 21/2015. (IV. 17.) EMMI rendelet 1. §-ával megállapított szöveg.

@@ -406,6 +406,6 @@
 
 ## l) beválásvizsgálata (amennyiben volt ilyen) tapasztalatainak összegzése.
 
-2. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^22]
+2. melléklet a 17/2014. (III. 12.) EMMI rendelethez[^34]
 
-[^22]: A 2. melléklet a 21/2015. (IV. 17.) EMMI rendelet 12. § h) pontja szerint módosított szöveg.
+[^34]: A 2. melléklet a 21/2015. (IV. 17.) EMMI rendelet 12. § h) pontja szerint módosított szöveg.

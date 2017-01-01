@@ -8,7 +8,7 @@ c) a sajátos nevelési igényű tanuló esetén a szakértői bizottság szakv�
 
 d) rendszeres gyermekvédelmi kedvezmény esetén az erről szóló határozat,
 
-e)[^15] a gyermekvédelmi gondoskodás keretében nevelésbe vett vagy utógondozói ellátásban részesülő tanuló esetén a számára gyámhatósági határozat alapján gondozási helyet biztosító intézmény vezetője által a 11. melléklet szerint kiállított igazolás.
+e)[^17] a gyermekvédelmi gondoskodás keretében nevelésbe vett vagy utógondozói ellátásban részesülő tanuló esetén a számára gyámhatósági határozat alapján gondozási helyet biztosító intézmény vezetője által a 11. melléklet szerint kiállított igazolás.
 
 (2) A családi pótlék folyósításáról szóló igazolásként el kell fogadni a bérjegyzéket, a lakossági folyószámla-kivonatot, a postai igazolószelvényt.
 
@@ -22,4 +22,4 @@ e)[^15] a gyermekvédelmi gondoskodás keretében nevelésbe vett vagy utógondo
 
 (7) Az iskola – az (5) bekezdésben meghatározott ideig – kezdeményezheti a tankönyvellátás támogatásának megállapítását a fenntartónál az állami tankönyvtámogatásra nem jogosult tanulók részére, egyidejűleg jelenti a fenntartó részére a 25. § (2) bekezdése szerinti támogatásra jogosultak számát.
 
-[^15]: A 26. § (1) bekezdés e) pontját a 45/2015. (X. 6.) EMMI rendelet 1. §-a iktatta be.
+[^17]: A 26. § (1) bekezdés e) pontját a 45/2015. (X. 6.) EMMI rendelet 1. §-a iktatta be.

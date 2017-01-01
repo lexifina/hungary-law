@@ -32,10 +32,10 @@ bd) az új jogosult nyilatkozatát arról, hogy a tankönyvet, pedagógus-kézik
 
 a) tartalma érdemben nem módosult, továbbá
 
-b)[^2] ára nem haladja meg a miniszter által rendeletben meghatározott legmagasabb fogyasztói árat (a továbbiakban: árkorlát),
+b)[^3] ára nem haladja meg a miniszter által rendeletben meghatározott legmagasabb fogyasztói árat (a továbbiakban: árkorlát),
 
 a jogosult erre irányuló kérelmére a hivatal – külön tankönyvvé nyilvánítási eljárás lefolytatása nélkül – a tankönyvet a tankönyvjegyzékre felveszi.
 
 (7) Az (5) bekezdés alapján egybeszerkesztett új tankönyv tankönyvvé nyilvánításának időtartama nem haladhatja meg az alapul szolgáló tankönyvek közül a legkorábban lejáró tankönyv tankönyvvé nyilvánítási engedélyében meghatározott időpontot.
 
-[^2]: Az 5. § (6) bekezdés b) pontja a 21/2015. (IV. 17.) EMMI rendelet 2. §-ával megállapított szöveg.
+[^3]: Az 5. § (6) bekezdés b) pontja a 21/2015. (IV. 17.) EMMI rendelet 2. §-ával megállapított szöveg.
