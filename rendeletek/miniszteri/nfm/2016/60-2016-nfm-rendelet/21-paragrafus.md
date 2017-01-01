@@ -1,0 +1,3 @@
+## VI. Fejezet
+
+## AZ E-I. KÉPESÍTÉSI KATEGÓRIA MEGSZERZÉSE

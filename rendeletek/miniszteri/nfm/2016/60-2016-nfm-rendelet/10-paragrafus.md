@@ -1,0 +1,9 @@
+10. § (1) A Hatóság a 8. § (2) bekezdése szerinti dokumentumok Adatbázisban való rögzítését követő 15 napon belül megvizsgálja a jelentkező által megadott adatokat és a szakmai előképzettséget igazoló iratokat, és dönt az előjelentkezés elfogadhatóságáról.
+
+(2) Ha a jelentkező által benyújtott dokumentumok alapján a Hatóság megállapítja, hogy a jelentkező szakmai előképzettsége nem megfelelő a kiválasztott képesítési kategória megszerzéséhez, a Hatóság az Adatbázison keresztül tájékoztatja a jelentkezőt és hiánypótlásra hívja fel. Ha lehetséges, a Hatóság felkínál a jelentkező számára a szakmai előképzettségének megfelelő más képesítési kategória megszerzésére irányuló képzést, amelyet a Hatóság az Adatbázisban a jelentkező ügyféli oldalán is feltüntet. Ha a jelentkező által benyújtott dokumentumok alapján más képzés felajánlására nincs lehetőség, a jelentkezést a Hatóság elutasítja.
+
+(3) Ha a jelentkező a Hatóság által elektronikus úton küldött díjbekérőben foglalt díjfizetési kötelezettségét az értesítő megnyitásától számított 5 munkanapon belül nem teljesíti, a Hatóság a fizetési határidő leteltét követő 5 munkanapon belül a jelentkező előjelentkezését hivatalból törli és erről a jelentkezőt az Adatbázison keresztül is értesíti.
+
+(4) Miután a jelentkező a képzési díjat megfizette, a képzési díj Adatbázisban történő jóváírását követő 6 hónapon belül köteles a jelentkezés véglegesítése során az Adatbázisban kiválasztani azt a képzést, amelyen részt kíván venni (a továbbiakban: jelentkezés).
+
+(5) Ha a jelentkező által az Adatbázisban a jelentkezési folyamat során megjelölt képző szerveknél képzés a kiválasztott időpontban nem indul, a Hatóság – a jelentkezők egyidejű értesítésével – a képzésre jelentkezéseket törli és lehetővé teszi a más képző szerv által szervezett képzésre való jelentkezést.
