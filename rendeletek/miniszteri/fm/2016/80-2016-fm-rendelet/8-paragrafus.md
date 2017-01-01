@@ -1,0 +1,1 @@
+## „(6) Ha az e rendelet keretében megállapított jogos támogatás a 37/2011. (III. 22.) Korm. rendelet 11. § (8) bekezdésében foglaltak szerint meghaladja a mezőgazdasági termelő részére rendelkezésre álló szabad csekély összegű támogatási keretet, akkor az azt meghaladó részt a Kincstár elutasítja.”
