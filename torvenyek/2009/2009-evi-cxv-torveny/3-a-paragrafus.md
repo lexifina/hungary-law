@@ -1,6 +1,6 @@
 ## A nyilvántartást vezető szerv és a Hatóság feladatai
 
-3/A. § (1) A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala (a továbbiakban: nyilvántartást vezető szerv)
+3/A. § (1) A nyilvántartást vezető szerv
 
 a) vezeti az egyéni vállalkozók nyilvántartását,
 
@@ -10,11 +10,11 @@ c) a 19/B. § szerint hatósági ellenőrzést végez, valamint
 
 d) ellátja a jogszabály által hatáskörébe utalt egyéb feladatokat.
 
-(2) A fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala (a továbbiakban: Hatóság)
+(2) Az egyéni vállalkozói tevékenységgel kapcsolatos ügyekben eljáró, Kormány által rendeletben kijelölt szerv (a továbbiakban: Hatóság)
 
 a) országos illetékességgel ellátja az egyéni vállalkozói tevékenység megkezdésének és megszüntetésének 5. § (2) bekezdés a) pontja szerinti bejelentésével kapcsolatos feladatokat,
 
-b) ügyfélkaput létesít a bejelentést személyesen kezdeményező és ügyfélkapuval nem rendelkező bejelentő számára,
+b) a Kormány által nyújtott elektronikus azonosítási szolgáltatáshoz és biztonságos kézbesítési szolgáltatáshoz regisztrációt biztosít a bejelentést személyesen kezdeményező, elektronikus azonosítással és biztonságos kézbesítési szolgáltatással nem rendelkező bejelentő számára,
 
 c) tájékoztatást nyújt az egyéni vállalkozói tevékenység folytatásához szükséges információkról, az egyéni vállalkozói tevékenység folytatásáról, a képesítéshez, valamint a hatósági engedélyhez vagy bejelentéshez kötött gazdasági tevékenységekről,
 

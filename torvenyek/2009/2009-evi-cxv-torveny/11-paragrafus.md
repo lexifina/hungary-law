@@ -24,7 +24,9 @@ j) ha az egyéni vállalkozó halála esetén a 17. § (1) bekezdése szerint a 
 
 k) ha az egyéni vállalkozó gondnokság alá helyezése esetén az egyéni vállalkozói tevékenységet a 17. § (2) bekezdése szerint a törvényes képviselő folytatja, a tevékenység folytatásának tényét, a törvényes képviselő természetes személyazonosító adatait, lakcímét, valamint
 
-l) elektronikus dokumentumtárként a megtett bejelentéseket és az azokkal összefüggésben kiállított értesítéseket.
+l) elektronikus dokumentumtárként a megtett bejelentéseket és az azokkal összefüggésben kiállított értesítéseket,
+
+m) az egyéni vállalkozónak az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény (a továbbiakban: E-ügyintézési tv.) szerinti hivatalos elérhetőségét.
 
 (1a) Az egyéni vállalkozók nyilvántartása az (1) bekezdés b)–k) pontjában meghatározott adatok tekintetében közhiteles hatósági nyilvántartásnak minősül.
 
@@ -34,4 +36,6 @@ l) elektronikus dokumentumtárként a megtett bejelentéseket és az azokkal ös
 
 (4) A személyiadat- és lakcímnyilvántartást, valamint a központi idegenrendészeti nyilvántartást vezető szerv haladéktalanul értesíti a nyilvántartást vezető szervet az egyéni vállalkozó halálának tényéről, valamint időpontjáról.
 
-(5)–(6)
+(5) A nyilvántartást vezető szerv az (1) bekezdés m) pontja szerinti adatot az E-ügyintézési tv. szerinti rendelkezési nyilvántartásból átveszi, ha azt az egyéni vállalkozó oda jelentette be.
+
+(6) Ha az egyéni vállalkozó az (1) bekezdés m) pontja szerinti adatot a nyilvántartást vezető szerv felé jelentette be, a nyilvántartást vezető szerv azt az (5) bekezdés szerinti nyilvántartásnak haladéktalanul átadja.

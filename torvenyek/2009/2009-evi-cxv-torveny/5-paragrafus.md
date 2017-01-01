@@ -4,6 +4,6 @@
 
 a) a Hatóság útján vagy
 
-b) ügyfélkapun keresztül az erre a célra rendszeresített űrlapon (a továbbiakban: elektronikus bejelentés)
+b) elektronikus azonosítást követően az erre a célra rendszeresített űrlapon (a továbbiakban: elektronikus bejelentés)
 
 kell megtenni.

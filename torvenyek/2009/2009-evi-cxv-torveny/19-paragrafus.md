@@ -14,7 +14,7 @@ e) ha az adóhatóság törölte az egyéni vállalkozó adószámát, a törlé
 
 f) a 3. § (2) bekezdés b), illetve c) pontjaiban meghatározott kizáró ok bekövetkezése esetén, a 19/B. §-ban foglalt összeférhetetlenség megállapításakor, valamint
 
-g) ha az egyéni vállalkozó a 18. § (1) bekezdésben foglalt időpontig nem jelentette be az egyéni vállalkozói tevékenység folytatását vagy megszüntetését, a szünetelés kezdőnapját követő öt év elteltét követő napon.
+g) ha az egyéni vállalkozó a 18. § (1) bekezdésben foglalt időpontig nem jelentette be az egyéni vállalkozói tevékenység folytatását vagy megszüntetését, a szünetelés kezdőnapját követő két év elteltét követő napon.
 
 (2) Az egyéni vállalkozói tevékenységre való jogosultság megszűnése alapjául szolgáló tényről
 

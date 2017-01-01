@@ -18,3 +18,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2009-115-00-00
 | 2015-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-115-00-00.12 |
 | 2015-01-02 | Nemzeti Jogszabálytár (egységes szerkezet) | 2009-115-00-00.13 |
 | 2015-09-01 | 2015. évi CV. törvény | 2009-115-00-00.14 |
+| 2017-01-01 | 2016. évi CXXI. törvény | 2009-115-00-00.15 |
