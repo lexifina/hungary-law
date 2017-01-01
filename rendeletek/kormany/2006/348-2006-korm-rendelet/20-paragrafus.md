@@ -1,4 +1,4 @@
-20. § (1)[^56] A természetvédelmi hatóság a tartási, hasznosítási, valamint bemutatási engedélyt visszavonja, ha az alábbiak közül valamelyik feltétel megvalósul:
+20. § (1)[^54] A természetvédelmi hatóság a tartási, hasznosítási, valamint bemutatási engedélyt visszavonja, ha az alábbiak közül valamelyik feltétel megvalósul:
 
 a) az engedélyezés feltételei már nem állnak fenn;
 
@@ -20,4 +20,4 @@ c) tevékenységével más védelemben részesülő állatfaj egyedét vagy él�
 
 (3) A természetvédelmi hatóság az engedély kiadását legfeljebb két évre megtagadhatja, ha az (1)–(2) bekezdésben foglaltak alapján az engedélyt visszavonták. Az engedély kiadásának megtagadásánál a hatóságnak figyelemmel kell lennie a jogsértés súlyára, céljára, időtartamára, a jogsértő magatartás ismételt tanúsítására.
 
-[^56]: A 20. § (1) bekezdésének bevezető szövegrésze a 325/2007. (XII. 11.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^54]: A 20. § (1) bekezdésének bevezető szövegrésze a 325/2007. (XII. 11.) Korm. rendelet 5. §-ával megállapított szöveg.

@@ -64,6 +64,6 @@
 
 | a vizsgabizottság tagja | a vizsgabizottság tagja |
 
-3. számú melléklet a 348/2006. (XII. 23.) Korm. rendelethez[^65]
+3. számú melléklet a 348/2006. (XII. 23.) Korm. rendelethez[^62]
 
-[^65]: A 3. számú melléklet a 441/2015. (XII. 28.) Korm. rendelet 85. § (1) bekezdés b) pontjával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^62]: A 3. számú melléklet a 441/2015. (XII. 28.) Korm. rendelet 85. § (1) bekezdés b) pontjával megállapított szöveg, e módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
