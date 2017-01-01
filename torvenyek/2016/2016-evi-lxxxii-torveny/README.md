@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-82-00-00
 | 2016-06-24 | 2016. évi LXXXII. törvény | 2016-82-00-00.0 (közlönyállapot) |
 | 2016-06-24 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-82-00-00.1 |
 | 2016-12-06 | 2016. évi CXXXVIII. törvény | 2016-82-00-00.2 |
+| 2017-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-82-00-00.3 |
