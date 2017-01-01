@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-29-20-9
 | 2014-07-16 | 2001-29-20-93.10 | 27/2012. (V. 25.) NFM rendelet |
 | 2015-02-16 | 2001-29-20-93.11 | 27/2012. (V. 25.) NFM rendelet |
 | 2015-06-08 | 2001-29-20-93.12 | 27/2012. (V. 25.) NFM rendelet |
+| 2017-01-01 | 2001-29-20-93.13 | 27/2012. (V. 25.) NFM rendelet |
