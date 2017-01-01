@@ -8,4 +8,4 @@
 
 (5) A hitelbiztosítéki rendszert úgy kell kialakítani, hogy ha a jogerősen megállapított jogutódlás folytán a hitelbiztosítéki nyilatkozattal érintett fél vagy az állandó képviselő személye változik, a jogutód, illetve képviselője, valamint az új képviselő a korábbi regisztrált felhasználó hitelbiztosítéki rendszerben tárolt adataihoz hozzáférjen.
 
-(6) A MOKK a közigazgatási hatósági ügynek nem minősülő hitelbiztosítéki eljárásaiban is lehetővé teheti a közigazgatási hatósági eljárás általános szabályairól szóló törvény (a továbbiakban: Ket.) szerinti elektronikus kapcsolattartás szabályainak alkalmazását, valamint a szabályozott elektronikus ügyintézési szolgáltatásokról és az állam által kötelezően nyújtandó szolgáltatásokról szóló kormányrendeletben meghatározott szabályozott elektronikus ügyintézési szolgáltatások igénybevételét.
+(6)
