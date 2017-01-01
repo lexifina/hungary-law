@@ -1,0 +1,3 @@
+## 13. § A 370/2011. (XII. 31.) Korm. rendelet 49. §-a a következő (1a) bekezdéssel egészül ki:
+
+## „(1a) Ha a költségvetési szerv belső ellenőrzését az irányító szerve látja el, az irányító szervnek az éves ellenőrzési jelentésben elkülönítetten kell bemutatnia az irányító szervként, illetve a költségvetési szerv belső ellenőreként végzett ellenőrzéseket. Az irányító szerv az éves ellenőrzési jelentésben az irányított költségvetési szervre vonatkozóan is értékeli a 48. § b) pontjában meghatározottakat. Az éves ellenőrzési jelentés rá vonatkozó részét az irányított szerv vezetőjének is jóvá kell hagynia.”
