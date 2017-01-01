@@ -12,11 +12,11 @@
 
 | 2.2. | Használatbavételi engedélyezési eljárás | 8 500 |
 
-| 3. | Közlekedési hatósági eljárások [a Nemzeti Közlekedési Hatóságról szóló 263/2006. (XII. 20.) Korm. rendelet] |  |
+| 3. | Közlekedési hatósági eljárások [a közlekedési igazgatási feladatokkal összefüggő hatósági feladatokat ellátó szervek kijelöléséről szóló 382/2016. (XII. 2.) Korm. rendelet] |  |
 
 | 3.1. | Légiközlekedési hatósági engedélyezési eljárás | 18 000 |
 
-| 3.2. | Hajózási hatósági engedélyezési eljárás | 14 000 |
+| 3.2. |  |  |
 
 | 3.3. | Vasúti közlekedési hatósági engedélyezési eljárás | 14 000 |
 
@@ -58,19 +58,19 @@
 
 | 11. | Az országos vízügyi hatóságnak a víziközmű-szolgáltatásról szóló 2011. évi CCIX. törvény egyes rendelkezéseinek végrehajtásáról szóló 58/2013. (II. 27.) Korm. rendelet 51. § (2) bekezdése szerinti eljárásában a gördülő fejlesztési terv 2015. évben és minden további alkalommal történő benyújtása esetén | 36 600 |
 
-7. melléklet a 14/2015. (III. 31.) FM rendelethez[^4]
+7. melléklet a 14/2015. (III. 31.) FM rendelethez[^8]
 
 A közigazgatási szervek előirányzat-felhasználási számláinak megnevezése
 
 |  | A | B |
 
-| Sorszám | Eljáró szerv | Előirányzat-felhasználási számlák megnevezése |
+| Sorszám | A számla felett rendelkezésre jogosult közigazgatási szerv | Előirányzat-felhasználási számlák |
 
 | 1. | Földművelésügyi Minisztérium | 10032000-01494549-00000000 |
 
-| 2. | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség | 10032000-00287261-00000000 |
+| 2. | Baranya Megyei Kormányhivatal | 10024003-00335649-00000000 |
 
-| 3. | Baranya Megyei Kormányhivatal | 10024003-00335649-00000000 |
+| 3. | Bács-Kiskun Megyei Kormányhivatal | 10025004-00299657-00000000 |
 
 | 4. | Békés Megyei Kormányhivatal | 10026005-00299578-00000000 |
 
@@ -84,12 +84,26 @@ A közigazgatási szervek előirányzat-felhasználási számláinak megnevezés
 
 | 9. | Hajdú-Bihar Megyei Kormányhivatal | 10034002-00335687-00000000 |
 
-| 10. | Jász-Nagykun-Szolnok Megyei Kormányhivatal | 10045002-00335694-00000000 |
+| 10. | Heves Megyei Kormányhivatal | 10035003-00299619-00000000 |
 
-| 11. | Pest Megyei Kormányhivatal | 10023002-00335728-00000000 |
+| 11. | Jász-Nagykun-Szolnok Megyei Kormányhivatal | 10045002-00335694-00000000 |
 
-| 12. | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal | 10044001-00299695-00000000 |
+| 12. | Komárom-Esztergom Megyei Kormányhivatal | 10036004-00299554-00000000 |
 
-| 13. | Vas Megyei Kormányhivatal | 10047004-00335711-00000000 |
+| 13. | Nógrád Megyei Kormányhivatal | 10037005-00299547-00000000 |
 
-[^4]: A 7. melléklet a 75/2015. (XI. 24.) FM rendelet 6. § (3) bekezdése szerint módosított szöveg.
+| 14. | Pest Megyei Kormányhivatal | 10023002-00335728-00000000 |
+
+| 15. | Somogy Megyei Kormányhivatal | 10039007-00299688-00000000 |
+
+| 16. | Szabolcs-Szatmár-Bereg Megyei Kormányhivatal | 10044001-00299695-00000000 |
+
+| 17. | Tolna Megyei Kormányhivatal | 10046003-00299530-00000000 |
+
+| 18. | Vas Megyei Kormányhivatal | 10047004-00335711-00000000 |
+
+| 19. | Veszprém Megyei Kormányhivatal | 10048005-00299516-00000000 |
+
+| 20. | Zala Megyei Kormányhivatal | 10049006-00303066-00000000 |
+
+[^8]: A 7. melléklet a 89/2016. (XII. 29.) FM rendelet 23. § (1) bekezdésével megállapított szöveg.
