@@ -18,12 +18,12 @@ f) a 9. melléklet 1. pontjában,
 
 g) a 10. melléklet 1. pontjában
 
-## meghatározott okmány hiányát állapítja meg, de a hiányzó okmány megléte a Nemzeti Közlekedési Hatóság (a továbbiakban: NKH) nyilvántartásából megállapítható, vagy a nyilvántartásban nem szereplő, az ellenőrzés időpontjában minden kétséget kizáróan érvényes okmányt az ellenőrző hatóságnak – az ellenőrzés napját követő 8 napon belül – bemutatják, a bírság összege a mellékletek megfelelő sorában meghatározott összeg fele, de legfeljebb 30 000 forint.
+## meghatározott okmány hiányát állapítja meg, de a hiányzó okmány megléte a közlekedésért felelős miniszter nyilvántartásából megállapítható, vagy a nyilvántartásban nem szereplő, az ellenőrzés időpontjában minden kétséget kizáróan érvényes okmányt az ellenőrző hatóságnak – az ellenőrzés napját követő 8 napon belül – bemutatják, a bírság összege a mellékletek megfelelő sorában meghatározott összeg fele, de legfeljebb 30 000 forint.
 
 (2)[^39] Ha az ellenőrző hatóság ugyanazon ellenőrzés keretében és az annak alapján indult közigazgatási eljárásban a 2–11. §-ban meghatározott több – a hatóság hatáskörébe tartozó – szabályszegést állapít meg, akkor a bírság kiszabására irányuló eljárást ugyanazon szabályszegővel szemben egy eljárásban kell lefolytatni. A bírság mértéke az egyes szabályszegések miatt megállapított bírságok összege, amely azonban nem haladhatja meg a megállapított legsúlyosabb szabályszegés miatt kiszabható bírság háromszorosát, de legfeljebb a 2 200 000 forintot, járművezető esetén a másfélszeresét, de legfeljebb a 800 000 forintot.
 
 [^35]: A 12/C. §-t a 138/2013. (V. 10.) Korm. rendelet – a 175/2013. (V. 31.) Korm. rendelet 8. §-ával megállapított – 8. §-a iktatta be.
-[^36]: A 13. § (1) bekezdés záró szövegrésze a 488/2013. (XII. 17.) Korm. rendelet 4. §-a szerint módosított szöveg.
+[^36]: A 13. § (1) bekezdés záró szövegrésze a 488/2013. (XII. 17.) Korm. rendelet 4. §-a, a 379/2016. (XII. 2.) Korm. rendelet 137. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^37]: A 13. § (1) bekezdés a) pontja a 228/2012. (VIII. 23.) Korm. rendelet 4. § (3) bekezdésével megállapított, a 8/2016. (II. 9.) Korm. rendelet 12. §-a, a 164/2016. (VI. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
 [^38]: A 13. § (1) bekezdés b1) pontját a 228/2012. (VIII. 23.) Korm. rendelet 4. § (3) bekezdése iktatta be.
 [^39]: A 13. § (2) bekezdése a 171/2014. (VII. 18.) Korm. rendelet 8. §-ával megállapított szöveg.

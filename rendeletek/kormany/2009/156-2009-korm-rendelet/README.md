@@ -33,3 +33,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-156-20-
 | 2016-07-14 | 2009-156-20-22.29 | 192/2016. (VII. 13.) Korm. rendelet |
 | 2016-07-24 | 2009-156-20-22.30 | 228/2012. (VIII. 23.) Korm. rendelet |
 | 2016-09-17 | 2009-156-20-22.31 | 246/2016. (VIII. 17.) Korm. rendelet |
+| 2017-01-01 | 2009-156-20-22.32 | 379/2016. (XII. 2.) Korm. rendelet |

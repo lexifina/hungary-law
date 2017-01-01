@@ -128,7 +128,7 @@
 
 | M7 | Menetíró készüléket befolyásoló eszköz járműbe vagy menetíró készülékbe történő beépítése | 300 000 | a menetíró szerelőműhely üzemeltetője |
 
-5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^58]
+5. melléklet a 156/2009. (VII. 29.) Korm. rendelethez[^59]
 
 1. táblázat
 
@@ -312,4 +312,4 @@ A mezőgazdasági vegyszerek és üzemanyagok mezőgazdasági vontatóval vagy l
 
 | 16. | A járművezetőnek nincs érvényes vizsga igazolása | 40 000 | szállító (fuvarozó), járművezető |
 
-[^58]: Az 5. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
+[^59]: Az 5. melléklet a 228/2012. (VIII. 23.) Korm. rendelet 4. § (6) bekezdésével megállapított szöveg.
