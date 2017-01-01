@@ -1,4 +1,4 @@
-1. § (1) Hivatásos gondnok lehet minden nagykorú, cselekvőképes, büntetlen előéletű magyar állampolgár, akivel szemben a gyámhatóságokról, valamint a gyermekvédelmi és gyámügyi eljárásról szóló 149/1997. (IX. 10.) Korm. rendelet 134. §-ának (6) bekezdésében meghatározott kizáró körülmény nem áll fenn, és az e rendelet szerinti képesítési előírásoknak megfelel.
+1. § (1)[^1]
 
 (2) Hivatásos gondnokká csak olyan személy nevezhető ki, aki legalább középfokú iskolai végzettséggel rendelkezik, és az e rendeletben meghatározott képzésen eredményesen részt vett.
 
@@ -7,3 +7,5 @@
 (4) A hivatásos gondnoki képzés (a továbbiakban: képzés) térítésköteles.
 
 (5) A képzés tematikáját a melléklet tartalmazza.
+
+[^1]: Az 1. § (1) bekezdését a 43/2016. (XII. 27.) EMMI rendelet 14. §-a hatályon kívül helyezte.
