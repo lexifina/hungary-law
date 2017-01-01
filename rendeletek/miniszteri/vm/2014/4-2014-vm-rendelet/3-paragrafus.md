@@ -8,19 +8,19 @@ c) akinek az üzemeltetésében lévő méhészeti eszközhordozó jármű, ille
 
 d) aki a támogatási kérelem benyújtásának időpontjában
 
-da)[^5]
+da)[^6]
 
 db) nem áll felszámolási, végelszámolási eljárás, csődeljárás alatt,
 
-dc)[^6]
+dc)[^7]
 
 dd) megfelel a rendezett munkaügyi kapcsolatok feltétel követelményeinek, és
 
 e) aki a d) pontban foglaltakról a támogatási kérelem benyújtásával egyidejűleg nyilatkozik,
 
-f)[^7] aki megfelel az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
+f)[^8] aki megfelel az európai uniós versenyjogi értelemben vett állami támogatásokkal kapcsolatos eljárásról és regionális támogatási térképről szóló 37/2011. (III. 22.) Korm. rendelet 11/A. §-ában meghatározott feltételeknek.
 
-(2)[^8] A kérelmezőnek az MVH által rendszeresített és honlapján közzétett támogatási kérelmét évente egy alkalommal, a tárgyévet követő év február 15. és április 15. között az MVH-hoz kell benyújtania.
+(2)[^9] A kérelmezőnek a Kincstár által rendszeresített és honlapján közzétett támogatási kérelmét évente egy alkalommal, a tárgyévet követő év február 15. és április 15. között a Kincstárhoz kell benyújtania.
 
 (3) A támogatási kérelemhez a kérelmezőnek mellékelnie kell
 
@@ -32,12 +32,13 @@ c) a tárgyévben befizetendő gépjárműadót megállapító határozat és an
 
 d) az (1) bekezdés c) pontja szerinti, tárgyévet követő évben kiállított igazolást,
 
-e)[^9] OBU fedélzeti rendszer vásárlása esetén a tárgyévben kiállított számla másolatát és a befizetést igazoló szelvény vagy banki átutalást igazoló számlakivonat másolatát.
+e)[^10] OBU fedélzeti rendszer vásárlása esetén a tárgyévben kiállított számla másolatát és a befizetést igazoló szelvény vagy banki átutalást igazoló számlakivonat másolatát.
 
-(4) A méhcsaládok számát a Nemzeti Élelmiszerlánc-biztonsági Hivatal az MVH felé a TIR adatbázisában nyilvántartott adatok alapján igazolja azzal, hogy a támogatási kérelem elbírálásához szükséges adatokat minden év november 30-ig – 2014. évben január 31-ig – az MVH rendelkezésére bocsátja.
+(4)[^11] A méhcsaládok számát a Nemzeti Élelmiszerlánc-biztonsági Hivatal a Kincstár felé a TIR adatbázisában nyilvántartott adatok alapján igazolja azzal, hogy a támogatási kérelem elbírálásához szükséges adatokat minden év november 30-ig – 2014. évben január 31-ig – a Kincstár rendelkezésére bocsátja.
 
-[^5]: A 3. § (1) bekezdés d) pont da) alpontját a 4/2016. (I. 20.) FM rendelet 15. §-a hatályon kívül helyezte.
-[^6]: A 3. § (1) bekezdés d) pont dc) alpontját a 36/2014. (IV. 4.) VM rendelet 108. §-a hatályon kívül helyezte.
-[^7]: A 3. § (1) bekezdés f) pontját a 36/2014. (IV. 4.) VM rendelet 106. §-a iktatta be, szövege a 4/2016. (I. 20.) FM rendelet 14. §-a szerint módosított szöveg.
-[^8]: A 3. § (2) bekezdése a 13/2015. (III. 30.) FM rendelet 9. § (3) bekezdés b) pontja szerint módosított szöveg.
-[^9]: A 3. § (3) bekezdés e) pontját a 13/2015. (III. 30.) FM rendelet 9. § (2) bekezdése iktatta be.
+[^6]: A 3. § (1) bekezdés d) pont da) alpontját a 4/2016. (I. 20.) FM rendelet 15. §-a hatályon kívül helyezte.
+[^7]: A 3. § (1) bekezdés d) pont dc) alpontját a 36/2014. (IV. 4.) VM rendelet 108. §-a hatályon kívül helyezte.
+[^8]: A 3. § (1) bekezdés f) pontját a 36/2014. (IV. 4.) VM rendelet 106. §-a iktatta be, szövege a 4/2016. (I. 20.) FM rendelet 14. §-a szerint módosított szöveg.
+[^9]: A 3. § (2) bekezdése a 13/2015. (III. 30.) FM rendelet 9. § (3) bekezdés b) pontja, a 88/2016. (XII. 29.) FM rendelet 64. § b) és c) pontja szerint módosított szöveg.
+[^10]: A 3. § (3) bekezdés e) pontját a 13/2015. (III. 30.) FM rendelet 9. § (2) bekezdése iktatta be.
+[^11]: A 3. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 64. § d) pontja szerint módosított szöveg.
