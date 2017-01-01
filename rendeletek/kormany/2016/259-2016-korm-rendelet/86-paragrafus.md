@@ -2,6 +2,6 @@
 
 ## 248/2008. (X. 14.) Korm. rendelet módosítása
 
-86. §[^86]
+86. §[^85]
 
-[^86]: A 86. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^85]: A 86. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

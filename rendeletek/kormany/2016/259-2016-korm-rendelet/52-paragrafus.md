@@ -4,7 +4,8 @@
 
 52. § (1)–(3)[^51]
 
-(4)[^52]
+(4) A Hvt. vhr. 6. § (1) bekezdése a következő 44. ponttal egészül ki:
+
+(A közigazgatási államtitkár szakirányítja)
 
 [^51]: Az 52. § (1)–(3) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^52]: Az 52. § (4) bekezdése a 105. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
