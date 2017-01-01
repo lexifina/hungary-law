@@ -4,4 +4,4 @@
 
 [^17]: A 8. §-t a 467/2015. (XII. 29.) Korm. rendelet 32. §-a iktatta be.
 [^18]: A hatálybalépés napja 2016. január 1.
-[^19]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 25. § a) pontjával megállapított, a 372/2015. (XII. 2.) Korm. rendelet 3. § b) pontja és 4. § b) pontja szerint módosított szöveg.
+[^19]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 24. § (1) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
