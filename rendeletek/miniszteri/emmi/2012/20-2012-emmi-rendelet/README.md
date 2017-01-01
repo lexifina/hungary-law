@@ -24,3 +24,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-20-20-5
 | 2015-09-01 | 2012-20-20-5H.16 | 32/2015. (VI. 19.) EMMI rendelet |
 | 2016-01-01 | 2012-20-20-5H.17 | 22/2015. (IV. 21.) EMMI rendelet |
 | 2016-09-01 | 2012-20-20-5H.18 | 20/2016. (VIII. 24.) EMMI rendelet |
+| 2017-01-01 | 2012-20-20-5H.19 | 51/2016. (XII. 29.) EMMI rendelet |

@@ -10,4 +10,7 @@ b) iskolai nevelése és oktatása esetén a helyi tanterv a fogyatékosság tí
 
 (2) A helyi tanterv, a szakmai program az egyes évfolyamok követelményeinek teljesítéséhez egy tanítási évnél hosszabb időt is megjelölhet.
 
+(3)[^27] A sajátos nevelési igényű tanuló részére, a szakértői bizottság szakértői véleménye alapján az iskola igazgatója a tanuló egyéni adottságához, fejlettségéhez igazodó egyéni előrehaladású nevelést és oktatást engedélyez. Az engedélyben meg kell határozni, melyik tárgyból, melyik évfolyam utolsó tanítási napjáig kell a tanulónak a tanulmányi követelményeket teljesítenie. Az egyéni továbbhaladás – valamennyi vagy egyes tantárgyakból – különböző évfolyamokig, de legkésőbb – az e bekezdésben foglalt kivétellel – a negyedik évfolyam végéig tarthat. A súlyos és halmozottan fogyatékos tanuló esetében az egyéni előrehaladású nevelés és oktatás a fejlesztő nevelés-oktatás teljes időtartamára engedélyezhető.
+
 [^26]: A 11. § (1) bekezdése a 45/2014. (X. 27.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^27]: A 11. § (3) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 1. §-a iktata be.

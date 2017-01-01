@@ -1,12 +1,12 @@
 ## 18. Az óvodai elhelyezés, a tanulói jogviszony, a kollégiumi, externátusi elhelyezés, a kollégiumi tagság megszűnése
 
-50. § (1)[^105]
+50. § (1)[^112]
 
 (2) A gyermek óvodai jogviszonyának megszűnéséről az óvoda írásban értesíti a gyermek állandó lakóhelye, ennek hiányában tartózkodási helye szerint illetékes települési önkormányzat jegyzőjét.
 
 (3) Ha az óvodai jogviszony megszűnik, a gyermek adatait a jogviszony megszűnésével egyidejűleg az óvoda nyilvántartásából törölni kell.
 
-(4)[^106] A tanköteles tanuló kivételével megszűnik a tanulói jogviszonya annak, aki egy tanítási éven belül igazolatlanul harminc tanítási óránál – alapfokú művészeti iskolában tíz tanítási óránál – többet mulaszt, feltéve, hogy az iskola a tanulót, kiskorú tanuló esetén a szülőt legalább két alkalommal írásban figyelmeztette az igazolatlan mulasztás következményeire. A gyakorlati képzés esetén az igazolatlan mulasztás jogkövetkezményeire a szakképzésről szóló törvény vonatkozó rendelkezéseit is alkalmazni kell. A tanulói jogviszony megszűnéséről az iskola írásban értesíti a tanulót, önálló jövedelemmel nem rendelkező és a szülővel közös háztartásban élő nagykorú tanuló esetén a szülőt is, kiskorú tanuló esetén a szülőt.
+(4)[^113] A tanköteles tanuló kivételével megszűnik a tanulói jogviszonya annak, aki egy tanítási éven belül igazolatlanul harminc tanítási óránál – alapfokú művészeti iskolában tíz tanítási óránál – többet mulaszt, feltéve, hogy az iskola a tanulót, kiskorú tanuló esetén a szülőt legalább két alkalommal írásban figyelmeztette az igazolatlan mulasztás következményeire. A gyakorlati képzés esetén az igazolatlan mulasztás jogkövetkezményeire a szakképzésről szóló törvény vonatkozó rendelkezéseit is alkalmazni kell. A tanulói jogviszony megszűnéséről az iskola írásban értesíti a tanulót, önálló jövedelemmel nem rendelkező és a szülővel közös háztartásban élő nagykorú tanuló esetén a szülőt is, kiskorú tanuló esetén a szülőt.
 
 (5) Ha a tanulói jogviszony megszűnik, a tanuló adatait a jogviszony megszűnésével egyidejűleg az iskola nyilvántartásából törölni kell.
 
@@ -18,5 +18,5 @@
 
 (9) Ha a kollégiumi tagsági jogviszony megszűnik, a tanuló adatait a jogviszony megszűnésével egyidejűleg a kollégium tanulói nyilvántartásából törölni kell.
 
-[^105]: Az 50. § (1) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 25. § b) pontja hatályon kívül helyezte.
-[^106]: Az 50. § (4) bekezdése a 45/2014. (X. 27.) EMMI rendelet 19. §-ával megállapított szöveg.
+[^112]: Az 50. § (1) bekezdését a 22/2015. (IV. 21.) EMMI rendelet 25. § b) pontja hatályon kívül helyezte.
+[^113]: Az 50. § (4) bekezdése a 45/2014. (X. 27.) EMMI rendelet 19. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 26. [^154] A tanulók fizikai állapotának és edzettségének (fizikai fittségének) mérése
+## 26. [^167] A tanulók fizikai állapotának és edzettségének (fizikai fittségének) mérése
 
 81. § (1) Az iskola testnevelés tantárgyat tanító pedagógusa – az adott tanév rendjéről szóló miniszteri rendeletben meghatározott mérési időszakban – az (5) bekezdésben meghatározott országosan egységes mérési módszer és az annak alkalmazásához kifejlesztett eszközök alkalmazásával a nappali rendszerű iskolai oktatás rendje szerinti tanulók részvételével ellátja a tanulók fizikai állapotának és edzettségének (a továbbiakban együtt: fizikai fittség) mérésével kapcsolatos feladatokat. A tanulók fizikai fittségi mérésének célja a tanulók egészsége megőrzésének, javításának, fenntartásának előmozdítása, és a tanulók egészségi állapotának nyomon követése a tanulók fizikai fittségi szintjének feltárásával.
 
@@ -14,4 +14,4 @@
 
 (7) A tanulók fizikai fittségi mérésének részletes szabályait az oktatásért felelős miniszter az általa vezetett minisztérium honlapján teszi közzé.
 
-[^154]: A 26. alcím (81. §) a 45/2014. (X. 27.) EMMI rendelet 24. §-ával megállapított szöveg.
+[^167]: A 26. alcím (81. §) a 45/2014. (X. 27.) EMMI rendelet 24. §-ával megállapított szöveg.
