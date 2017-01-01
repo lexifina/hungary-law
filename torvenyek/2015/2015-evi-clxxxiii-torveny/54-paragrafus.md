@@ -26,7 +26,9 @@ szövegrész.
 
 12.
 
-13–14.
+13. 45. § (1) bekezdés b) és e) pontja,
+
+14. 47. § (2) bekezdés e) pontja,
 
 15.
 
