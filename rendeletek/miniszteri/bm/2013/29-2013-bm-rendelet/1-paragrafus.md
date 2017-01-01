@@ -2,7 +2,7 @@
 
 ## 1. § E rendelet alkalmazásában
 
-a) menekültügyi őrzött befogadó központ: a Bevándorlási és Állampolgársági Hivatal által fenntartott, a menekültügyi őrizet (a továbbiakban: őrizet) végrehajtására szolgáló intézmény;
+a)[^1] menekültügyi őrzött befogadó központ: a Bevándorlási és Menekültügyi Hivatal által fenntartott, a menekültügyi őrizet (a továbbiakban: őrizet) végrehajtására szolgáló intézmény;
 
 b) lakótér: az őrizettel érintett, menekültkénti vagy oltalmazottkénti elismerését kérő külföldi (a továbbiakban: elismerését kérő) elhelyezésére, biztonságos őrzésére szolgáló, huzamos emberi tartózkodásra alkalmas épület vagy épületrész, amely magában foglalja a lakóhelyiséget, az étkezésre, a szabadidő eltöltésére alkalmas közösségi, mosdó-, zuhanyozó-, WC-, valamint az elkülönítő helyiségeket;
 
@@ -17,3 +17,5 @@ cc) a menekültügyi őrzött befogadó központ rendjének csoportos megzavará
 cd) az elismerését kérő öngyilkossági kísérlete vagy szándékos egészségkárosítása, avagy halála, valamint
 
 ce) az elismerését kérő sérelmére elkövetett bűncselekmény.
+
+[^1]: Az 1. § a) pontja az 58/2016. (XII. 22.) BM rendelet 39. §-a szerint módosított szöveg.

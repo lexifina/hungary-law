@@ -1,6 +1,6 @@
 ## 2. § A befogadáskor az elismerését kérőt szállító, az általános rendőrségi feladatok ellátására létrehozott szerv (a továbbiakban: Rendőrség) a menekültügyi őrzött befogadó központ részére átadja a menekültügyi hatóság által átadott iratokat és tárgyakat, így különösen az elismerését kérő jegyzék szerinti értéktárgyait és készpénzét, az értéktárgyairól és pénzéről készített jegyzék másolatát, továbbá – ha az elismerését kérőn külsérelmi nyom található –, az annak megállapítására szolgáló orvosi látleletet (a továbbiakban: látlelet), abban az esetben, ha a látlelet felvételére az idegenrendészeti eljárás során került sor.
 
-3. § (1)–(3)[^1]
+3. § (1)–(3)[^2]
 
 (4) A származási országában vagy azon kívül kínzást, nemi erőszakot vagy egyéb erőszakos cselekményeket elszenvedett különleges bánásmódot igénylő elismerését kérőnek a befogadáshoz szükséges vizsgálatot végző orvos véleménye alapján biztosítani kell az említett cselekményekkel okozott sérülések megfelelő szakorvosi kezelését.
 
@@ -12,4 +12,4 @@
 
 (8) A családok, illetve házastársak számára a családi együttélés alapvető feltételeinek megfelelő elkülönített lakóteret kell biztosítani.
 
-[^1]: A 3. § (1)–(3) bekezdését a 8/2015. (III. 24.) BM rendelet 16. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^2]: A 3. § (1)–(3) bekezdését a 8/2015. (III. 24.) BM rendelet 16. § (2) bekezdés b) pontja hatályon kívül helyezte.
