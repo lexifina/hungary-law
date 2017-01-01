@@ -8,7 +8,7 @@ b) a jogcím nélküli használó – törvény rendelkezése alapján – mási
 
 (3) A kisajátításra kerülő épületben lévő nem lakás céljára szolgáló helyiség esetén a tulajdonos vagy a használó nem kérhet cserehelyiséget, ha
 
-a) a helyiségben gyakorolt tevékenységét – a kisajátítási tárgyaláson tett nyilatkozata szerint – tovább nem folytatja;
+a) a helyiségben gyakorolt tevékenységét – legkésőbb a kisajátítási tárgyaláson tett nyilatkozata szerint – tovább nem folytatja;
 
 b) tulajdonában (vagyonkezelésében, használatában) ugyanabban a városban (községben) olyan más, nem lakás céljára szolgáló helyiség van, amely megfelelő a tevékenység folytatására.
 

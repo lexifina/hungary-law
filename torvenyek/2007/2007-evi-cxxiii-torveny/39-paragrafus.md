@@ -1,6 +1,6 @@
 39. § (1) Ha az előmunkálatok engedélyezésekor azok megkezdésének időpontja megállapítható, azt a kérelemnek helyt adó határozatban kell megjelölni.
 
-(2) Az előmunkálatokat végző szerv az előmunkálatok megkezdése előtt legalább tizenöt nappal köteles a kezdés időpontját a kisajátítási hatóságnak bejelenteni. A kisajátítási hatóság az előmunkálatok megkezdésének időpontja előtt legalább öt munkanappal a 38. § (2) bekezdésében említett érdekelteket az előmunkálatokról és azok megkezdésének időpontjáról írásban értesíti.
+(2) Az előmunkálatokat végző szerv az előmunkálatok megkezdése előtt legalább tizenöt nappal köteles a kezdés időpontját a kisajátítási hatóságnak bejelenteni. A kisajátítási hatóság az előmunkálatok megkezdésének időpontja előtt legalább öt munkanappal a 38. § (2) bekezdésében említett érdekelteket az előmunkálatokról és azok megkezdésének időpontjáról értesíti.
 
 (3) Az ingatlan tulajdonosa (vagyonkezelője, használója) köteles tűrni, hogy az engedélyezett előmunkálatokat elvégezzék, az ezzel okozott kár megtérítéséért a kisajátítást kérő és az előmunkálatokat végző egyetemlegesen felelős.
 

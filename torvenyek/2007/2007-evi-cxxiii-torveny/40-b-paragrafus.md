@@ -2,7 +2,7 @@
 
 (2) Az előzetes eljárásban ügyfél kizárólag a kérelmező és az igénylő.
 
-(3) A kérelmet írásban, formanyomtatvány alkalmazása nélkül kell benyújtani.
+(3) A kérelmet formanyomtatvány alkalmazása nélkül kell benyújtani.
 
 (4) A kérelemben meg kell jelölni azt is, hogy annak célja a kisajátítás jogalapjának és a kártalanítás összegének előzetes megállapítása. A kérelemhez mellékelni kell a tulajdoni per megindítását igazoló iratot is, valamint meg kell jelölni az igénylő nevét, lakcímét (székhelyét) is.
 

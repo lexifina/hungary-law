@@ -12,4 +12,4 @@ e) mindazon egyéb jogosult, akinek az ingatlanra vonatkozó jogát a kisajátí
 
 (2) Az e törvény szerinti eljárásokban szükséges ügygondnokot, illetve eseti gondnokot a kisajátítási hatóság rendeli ki. Ügygondnokot vagy eseti gondnokot kell kirendelni abban az esetben is, ha a tulajdonos vagy más kártalanításra jogosult személye nem állapítható meg egyértelműen.
 
-(3) Az ügyfeleket az eljárás megindításáról postai úton kell értesíteni.
+(3)

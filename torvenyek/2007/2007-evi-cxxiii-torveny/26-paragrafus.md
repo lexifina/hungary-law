@@ -2,9 +2,9 @@
 
 (2) A szakértői véleménynek a kisajátítási hatóság részére történő megküldése és a tárgyalás között legalább 10, legfeljebb 15 napnak kell eltelnie.
 
-(3) A szakértői véleménnyel kapcsolatos kérdéseket és észrevételeket az ügyfelek – elektronikus vagy postai úton, telefaxon vagy személyesen – legkésőbb a tárgyaláson tehetik meg.
+(3) A szakértői véleménnyel kapcsolatos kérdéseket és észrevételeket az ügyfelek legkésőbb a tárgyaláson tehetik meg.
 
-(4) Ha a kérdések és észrevételek olyan időben érkeznek meg, hogy azok szakértő általi megismerése még a tárgyalás előtt lehetségesnek mutatkozik, a beérkezett kérdéseket és észrevételeket a kisajátítási hatóság – elektronikus vagy postai úton, vagy telefaxon – továbbítja a szakértő részére.
+(4) Ha a kérdések és észrevételek olyan időben érkeznek meg, hogy azok szakértő általi megismerése még a tárgyalás előtt lehetségesnek mutatkozik, a beérkezett kérdéseket és észrevételeket a kisajátítási hatóság továbbítja a szakértő részére.
 
 (5) Mellőzhető a tárgyalás kitűzése, ha a rendelkezésre álló adatok alapján a kisajátítási hatóság arra a következtetésre jut, hogy a kisajátítás jogalapja nem áll fenn.
 

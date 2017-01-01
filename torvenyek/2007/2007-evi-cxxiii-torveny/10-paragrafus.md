@@ -14,7 +14,7 @@ bb) amelynek a lebontását az építésügyi vagy az építésfelügyeleti hat�
 
 (4) Ha a kisajátítást kérő a kisajátított épületre vagy annak tartozékaira nem tart igényt, a tulajdonos azokat az (1) bekezdés b) pontjában nem említett esetben is lebontathatja, és anyagukat elviheti. A bontási anyagnak és tartozékoknak a bontási költséggel csökkentett értékét a kártalanításból le kell vonni.
 
-(5) A kisajátítást kérőnek a tárgyaláson nyilatkoznia kell arról, hogy az épületre és annak tartozékaira igényt tart-e. Ha a kisajátítást kérő az épületre vagy annak tartozékaira nem tart igényt, a tárgyaláson a tulajdonosnak nyilatkoznia kell arról, hogy azokat lebontja és anyagukat elviszi-e, vagy kártalanításra tart igényt.
+(5) A kisajátítást kérőnek legkésőbb a tárgyaláson nyilatkoznia kell arról, hogy az épületre és annak tartozékaira igényt tart-e. Ha a kisajátítást kérő az épületre vagy annak tartozékaira nem tart igényt, legkésőbb a tárgyaláson a tulajdonosnak nyilatkoznia kell arról, hogy azokat lebontja és anyagukat elviszi-e, vagy kártalanításra tart igényt.
 
 (6) Az (1)–(5) bekezdésben foglalt rendelkezéseket megfelelően alkalmazni kell az épületnek nem minősülő építményekre, továbbá az építményrészekre is.
 

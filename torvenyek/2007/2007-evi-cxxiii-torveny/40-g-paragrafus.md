@@ -1,0 +1,1 @@
+40/G. § A kisajátítást kérő, illetve annak képviselője az e törvény hatálya alá tartozó hatósági eljárásokban, e hatósági eljárásokban hozott döntések bírósági felülvizsgálati eljárásában, valamint a kisajátítási terv záradékolására irányuló eljárásban elektronikus ügyintézésre köteles.

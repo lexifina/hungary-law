@@ -1,6 +1,6 @@
 32/A. § (1) A nemzetgazdasági szempontból kiemelt jelentőségű közlekedési infrastruktúra-beruházással összefüggésben hozott kisajátítási határozat bírósági felülvizsgálatára a 32. §-ban foglaltakat az e §-ban foglalt eltérésekkel kell alkalmazni.
 
-(2) A kisajátítási hatóság a keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt 3 napon belül továbbítja a bírósághoz, a továbbításra elektronikus úton is sor kerülhet.
+(2) A kisajátítási hatóság a keresetlevelet az ügy irataival és a keresetlevélben foglaltakra vonatkozó nyilatkozatával együtt 3 napon belül továbbítja a bírósághoz.
 
 (3) Az eljárásra
 
