@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-409-20-
 | --- | --- | --- |
 | 2016-12-14 | 2016-409-20-22.1 | 409/2016. (XII. 13.) Korm. rendelet |
 | 2016-12-15 | 2016-409-20-22.2 | 2010: CXXX. törvény |
+| 2017-01-01 | 2016-409-20-22.3 | 2010: CXXX. törvény |
