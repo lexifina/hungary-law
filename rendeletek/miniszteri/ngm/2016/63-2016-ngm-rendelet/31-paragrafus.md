@@ -1,0 +1,5 @@
+## 30. § A Nemzeti Adó- és Vámhivatal bűnmegelőzési, bűnüldözési, valamint szabálysértési tevékenységével összefüggésben keletkezett adatok kezelésére jogosult szervek meghatározásáról és az adatok kezelésének technikai szabályairól szóló 46/2015. (XII.30.) NGM rendelet (a továbbiakban: R6.) 1. §-a helyébe a következő rendelkezés lép:
+
+## „1. § (1) A Nemzeti Adó- és Vámhivatal (a továbbiakban: NAV) törvényben meghatározott bűnmegelőzési, bűnüldözési és szabálysértési adatok kezelésére a rendeletben meghatározott informatikai rendszereket működteti.
+
+## (2) Az (1) bekezdés szerinti informatikai rendszerek és a RobotzsaruNeo integrált ügyviteli és ügyfeldolgozó rendszer a Nemzeti Adó- és Vámhivatal nyomozóhatósági, szabálysértési hatósági, valamint a pénzmosás és a terrorizmus finanszírozása megelőzésével és megakadályozásával kapcsolatos tevékenységének támogatásán túl az állami adó-és vámhatósági és más feladatok ellátása során észlelt bűncselekmények kapcsán a büntető feljelentések, valamint az adózás rendjéről szóló 2003. évi XCII. törvény 54. § (8) bekezdés szerinti tájékoztatások megtételére, megkeresések teljesítésére is szolgál.”
