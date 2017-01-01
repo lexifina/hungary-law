@@ -2,11 +2,11 @@
 
 2. § (1) Az Eüak. 35/B. § (1) bekezdés d) pontja szerint az EESZT-hez informatikai rendszer útján csatlakozásra köteles államigazgatási szervek:
 
-a) az Országos Egészségbiztosítási Pénztár,
+a)[^1] a Nemzeti Egészségbiztosítási Alapkezelő,
 
 b) az Országos Tisztifőorvosi Hivatal,
 
-c) az Egészségügyi Nyilvántartási és Képzési Központ,
+c)[^2]
 
 d) az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet.
 
@@ -25,3 +25,6 @@ b) a szolgáltatások leírását, műszaki specifikációját, a tipikus folyam
 c) a csatlakozás folyamatát, pontos rendjét meghatározó dokumentumokat, és
 
 d) a követelmények ellenőrzésének menetét.
+
+[^1]: A 2. § (1) bekezdés a) pontja a 23. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § (1) bekezdés c) pontját a 24. § hatályon kívül helyezte.
