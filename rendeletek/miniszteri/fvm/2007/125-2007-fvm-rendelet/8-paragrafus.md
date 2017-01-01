@@ -4,6 +4,8 @@
 
 (3) Ha a kedvezményes hitel támogatástartalma túllépi az általános de minimis rendelet 2. cikkének (1) bekezdésében meghatározott vállalkozásonkénti 200 000 eurós összegű felső határt, nem nyújtható támogatás a kereskedelmi vállalkozás részére.
 
-(4) A túllépés tényéről az MVH elutasító határozatban értesíti a kereskedelmi vállalkozást, a pénzügyi intézményt és a kezességvállaló intézményt.
+(4)[^9] A túllépés tényéről a Kincstár elutasító határozatban értesíti a kereskedelmi vállalkozást, a pénzügyi intézményt és a kezességvállaló intézményt.
 
 (5) A csekély összegű támogatás ugyanazon elszámolható költségek vonatkozásában nem halmozható állami támogatással, amennyiben az így halmozott összeg meghaladná a támogatási intenzitás csoportmentességi rendeletekben vagy az Európai Bizottság jóváhagyó határozatában meghatározott mértékét.
+
+[^9]: A 8. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 18. § d) pontja szerint módosított szöveg.

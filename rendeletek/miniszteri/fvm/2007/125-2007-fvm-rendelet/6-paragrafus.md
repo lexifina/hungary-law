@@ -1,5 +1,6 @@
 6. § (1)[^2] A kamattámogatást a kereskedelmi vállalkozás negyedévente igényelheti az Adó- és Pénzügyi Ellenőrzési Hivataltól (a továbbiakban: APEH). A támogatás forrása a Vidékfejlesztési Minisztérium fejezeti kezelésű Folyó kiadások és jövedelemtámogatások előirányzat-felhasználási keretszámla. A támogatás kifizetését a forrás rendelkezésre állását követő harminc napon belül az APEH a 10032000-01905616 számú „Agrárfinanszírozás támogatása” folyósítási számláról teljesíti.
 
-(2) A kamattámogatás igényléséhez a kereskedelmi vállalkozásnak mellékelnie kell a pénzügyi intézmény kamat megfizetéséről szóló igazolását, valamint első igényléskor a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) támogatástartalom meghatározásáról szóló határozatát, a záradékkal ellátott hitelkérelmet és a hitelszerződést.
+(2)[^3] A kamattámogatás igényléséhez a kereskedelmi vállalkozásnak mellékelnie kell a pénzügyi intézmény kamat megfizetéséről szóló igazolását, valamint első igényléskor a Magyar Államkincstár (a továbbiakban: Kincstár) támogatástartalom meghatározásáról szóló határozatát, a záradékkal ellátott hitelkérelmet és a hitelszerződést.
 
 [^2]: A 6. § (1) bekezdése a 70/2013. (VII. 31.) VM rendelet 81. § b) pontja szerint módosított szöveg.
+[^3]: A 6. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 18. § a) pontja szerint módosított szöveg.
