@@ -1,0 +1,3 @@
+1. § (1) E rendelet hatálya a részben vagy egészben központi költségvetési forrásból – ideértve az európai uniós forrásokat is – a Kormány vagy a miniszter irányítása vagy felügyelete alá tartozó központi költségvetési szerv vagy az állam többségi befolyása alatt álló gazdasági társaság által megvalósított építésiengedély-köteles, valamint a bruttó 20 millió forintos bekerülési értéket meghaladó nem építésiengedély-köteles építési beruházásokra (a továbbiakban együtt: Beruházás) terjed ki.
+
+(2) E rendelet hatálya nem terjed ki a minősített adat védelméről szóló 2009. évi CLV. törvény 3. § 1. pontja szerinti adatot tartalmazó, továbbá a honvédelmi, katonai, valamint nemzetbiztonsági célú és rendeltetésű építményeket érintő beruházásokra.
