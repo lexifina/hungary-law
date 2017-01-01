@@ -24,7 +24,7 @@ Az 1. § (1) bekezdésében foglalt beruházással összefüggő kiemelt jelent�
 
 9. útügyi hatósági eljárások,
 
-10.[^7] az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
+10.[^7] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 11. műszaki biztonsági engedélyezési eljárások,
 
@@ -49,4 +49,4 @@ Az 1. § (1) bekezdésében foglalt beruházással összefüggő kiemelt jelent�
 21. az 1–20. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
 [^6]: Az 1. melléklet 8. sorát a 271/2016. (IX. 1.) Korm. rendelet 59. § (3) bekezdése hatályon kívül helyezte.
-[^7]: Az 1. melléklet 10. pontja a 72/2015. (III. 30.) Korm. rendelet 88. § (2) bekezdésével megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^7]: Az 1. melléklet 10. pontja a 380/2016. (XII. 2.) Korm. rendelet 79. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
