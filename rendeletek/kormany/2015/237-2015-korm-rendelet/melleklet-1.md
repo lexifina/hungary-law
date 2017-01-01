@@ -26,7 +26,7 @@
 
 11. útügyi hatósági eljárások,
 
-12. az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi hatósági engedélyezési eljárásai,
+12.[^1] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 13. műszaki biztonsági engedélyezési eljárások,
 
@@ -41,3 +41,5 @@
 18. azok az 1–17. pontban nem szereplő további hatósági engedélyezési eljárások, amelyek a Beruházás megvalósításához közvetlenül szükségesek,
 
 19. az 1–18. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
+
+[^1]: Az 1. melléklet 12. pontja a 380/2016. (XII. 2.) Korm. rendelet 103. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
