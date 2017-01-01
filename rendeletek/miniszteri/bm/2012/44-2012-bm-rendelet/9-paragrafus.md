@@ -1,6 +1,6 @@
 ## 9. § A munkáltatói kölcsön
 
-a)[^13] lakásépítés és lakásbővítés esetén
+a)[^15] lakásépítés és lakásbővítés esetén
 
 aa) – ha az engedély– vagy bejelentésköteles – legkésőbb a használatbavételi engedély kiadásáig,
 
@@ -10,4 +10,4 @@ b) lakásvásárlás és a 4. § (1) bekezdés d) pontjában foglalt esetben leg
 
 c) lakáskorszerűsítés esetén az üzembe helyezéshez szükséges hatósági engedély kiadását vagy a költségvetésben jelzett munkálatok elvégzését megelőzően
 
-[^13]: A 9. § a) pontja a 75/2012. (XII. 18.) BM rendelet 3. §-ával megállapított szöveg.
+[^15]: A 9. § a) pontja a 75/2012. (XII. 18.) BM rendelet 3. §-ával megállapított szöveg.
