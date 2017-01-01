@@ -8,9 +8,9 @@
 
 a) törvényes képviselőjénél, gyermekvédelmi gyámjánál,
 
-b) a lakóhelye szerint illetékes gyermekjóléti szolgálatnál,
+b)[^27] a lakóhelye szerint illetékes család- és gyermekjóléti szolgálatnál, valamint család- és gyermekjóléti központnál,
 
-c) nevelésbe vett gyermek esetén a területi gyermekvédelmi szakszolgálatnál
+c)[^28] nevelésbe vett gyermek esetén a a lakóhelye szerint illetékes gyermekvédelmi szakszolgálatnál
 
 ## a gyermekkorú, illetve a fiatalkorú jelenlegi, esetleges korábbi gondozásának, gyermekvédelmi gondoskodásban részesítésének tapasztalatairól.
 
@@ -19,3 +19,5 @@ c) nevelésbe vett gyermek esetén a területi gyermekvédelmi szakszolgálatná
 [^24]: A 18. § a 19/2014. (XII. 22.) IM rendelet 12. §-ával megállapított szöveg.
 [^25]: A 8. alcím címe a 19/2014. (XII. 22.) IM rendelet 34. § 5. pontja szerint módosított szöveg.
 [^26]: A 19. § a 19/2014. (XII. 22.) IM rendelet 13. §-ával megállapított szöveg.
+[^27]: A 19. § (2) bekezdés b) pontja a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^28]: A 19. § (2) bekezdés c) pontja a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés c) pontja szerint módosított szöveg.

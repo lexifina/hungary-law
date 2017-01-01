@@ -24,7 +24,7 @@
 
 ## A tájékoztató megküldését mellőzöm, mert azt .......................................................................... elítélt ügyében Kmv ............................................................. szám alatt már megküldtem.
 
-## Az elítélt jogaira és kötelezettségeire az 1979. évi 11. tvr. 60-67/D. §-aiban írtak irányadók. A közérdekű munka végrehajtásáért a munkáltató szerv vezetője felelős.
+## Az elítélt jogaira és kötelezettségeire a büntetések, az intézkedések, egyes kényszerintézkedések és a szabálysértési elzárás végrehajtásáról szóló 2013. évi CCXL. törvényben foglaltak az irányadók. A közérdekű munka végrehajtásáért a munkáltató szerv vezetője felelős.
 
 ## ..................................., 20......... évi .............................. hó ....... napján.
 
@@ -36,6 +36,6 @@
 
 ## .................................................................................
 
-3. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^119]
+3. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^145]
 
-[^119]: A 3. melléklet a 19/2014. (XII. 22.) IM rendelet 35. §-ával megállapított szöveg.
+[^145]: A 3. melléklet a 19/2014. (XII. 22.) IM rendelet 35. §-ával megállapított szöveg.

@@ -8,12 +8,12 @@
 
 (4) A pártfogó felügyeletet a (2) bekezdés alapján illetékes bv. intézet vezetője által kijelölt büntetés-végrehajtási pártfogó felügyelő látja el. A (3) bekezdésben foglalt esetben a büntetés-végrehajtás országos parancsnoka határozza meg a pártfogó felügyelet végrehajtásának illetékességi helyét.
 
-(5)[^108] A büntetés-végrehajtási pártfogó felügyelő az (1) bekezdésben meghatározott esetben a bv. bíró határozatának kézhezvételét követően a bv. intézet útján továbbítja a 42. § (1) bekezdés b) pontja szerinti felhívást a pártfogolt számára.
+(5)[^125] A büntetés-végrehajtási pártfogó felügyelő az (1) bekezdésben meghatározott esetben a bv. bíró határozatának kézhezvételét követően a bv. intézet útján továbbítja a 42. § (1) bekezdés b) pontja szerinti felhívást a pártfogolt számára.
 
-(6)[^109] A Btk. 119. § (1) bekezdés a) pontja szerinti pártfogó felügyelet végrehajtása során a fiatalkorú pártfogó felügyeletét olyan büntetés-végrehajtási pártfogó felügyelő láthatja el, aki a fiatalkorú életkori sajátosságait figyelembe véve speciális képesítéssel és e területen megszerzett szakmai tapasztalattal rendelkezik.
+(6)[^126] A Btk. 119. § (1) bekezdés a) pontja szerinti pártfogó felügyelet végrehajtása során a fiatalkorú pártfogó felügyeletét olyan büntetés-végrehajtási pártfogó felügyelő láthatja el, aki a fiatalkorú életkori sajátosságait figyelembe véve speciális képesítéssel és e területen megszerzett szakmai tapasztalattal rendelkezik.
 
-(7)[^110] A büntetés-végrehajtási pártfogó felügyelő az 59. §-ban meghatározott kockázatelemzést, illetve kockázatértékelést a bűnismétlési kockázatok megállapítása érdekében is végzi.
+(7)[^127] A büntetés-végrehajtási pártfogó felügyelő az 59. §-ban meghatározott kockázatelemzést, illetve kockázatértékelést a bűnismétlési kockázatok megállapítása érdekében is végzi.
 
-[^108]: A 62/B. § (5) bekezdését a 6/2015. (III. 30.) IM rendelet 2. §-a iktatta be.
-[^109]: A 62/B. § (6) bekezdését a 6/2015. (III. 30.) IM rendelet 2. §-a iktatta be.
-[^110]: A 62/B. § (7) bekezdését a 6/2015. (III. 30.) IM rendelet 2. §-a iktatta be.
+[^125]: A 62/B. § (5) bekezdését a 6/2015. (III. 30.) IM rendelet 2. §-a iktatta be.
+[^126]: A 62/B. § (6) bekezdését a 6/2015. (III. 30.) IM rendelet 2. §-a iktatta be.
+[^127]: A 62/B. § (7) bekezdését a 6/2015. (III. 30.) IM rendelet 2. §-a iktatta be.

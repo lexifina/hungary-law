@@ -18,4 +18,6 @@
 
 ## ..................................................................
 
-2. melléklet a 8/2013. (VI. 29.) KIM rendelethez
+2. melléklet a 8/2013. (VI. 29.) KIM rendelethez[^144]
+
+[^144]: A 2. melléklet a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés q) pontja szerint módosított szöveg.

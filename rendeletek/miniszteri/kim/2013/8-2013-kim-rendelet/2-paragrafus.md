@@ -1,4 +1,4 @@
-## 1. §[^1] A rendelet hatálya a Pártfogó Felügyelői Szolgálatként kijelölt Igazságügyi Hivatalnak (a továbbiakban: Hivatal) és a pártfogó felügyelői feladatkörében eljáró fővárosi és megyei kormányhivatalokra (a továbbiakban: kormányhivatal), valamint a büntetés-végrehajtási pártfogó felügyelőkre terjed ki.
+## 1. §[^1] A rendelet hatálya a Pártfogó Felügyelői Szolgálatként kijelölt Igazságügyi Minisztériumra (a továbbiakban: minisztérium) és a pártfogó felügyelői feladatkörében eljáró fővárosi és megyei kormányhivatalokra (a továbbiakban: kormányhivatal), valamint a büntetés-végrehajtási pártfogó felügyelőkre terjed ki.
 
 ## II. Fejezet
 
@@ -8,9 +8,9 @@
 
 2. §[^2] (1)[^3] Ha a nyomozó hatóság, az ügyész, a bíróság, vagy – fiatalkorúnak javítóintézetből való ideiglenes elbocsátásának előkészítése során – a büntetés-végrehajtási bíró (a továbbiakban: bv. bíró) pártfogó felügyelői vélemény vagy környezettanulmány beszerzését rendeli el, vagy a gyámhatóság megkeresést intéz környezettanulmány beszerzése céljából, annak elkészítésére a tényállásszerű magatartást megvalósító gyermekkorú személy (a továbbiakban: gyermekkorú), a terhelt, illetve az eljárás alá vont fiatalkorú magyarországi lakóhelye vagy tartózkodási helye szerint illetékes kormányhivatalt rendeli ki, illetve keresi meg. A pártfogó felügyelői véleményt vagy környezettanulmányt a kormányhivatal által kijelölt pártfogó felügyelő készíti el.
 
-(2)[^4] Ha a gyermekkorúnak, a terheltnek, illetve az eljárás alá vont fiatalkorúnak Magyarországon nincs ismert lakóhelye, sem ismert tartózkodási helye, a feladat végrehajtására Budapest Főváros Kormányhivatala az illetékes.
+(2)[^4]
 
-[^1]: Az 1. § a 8/2015. (IV. 14.) IM rendelet 19. § (1) bekezdésével megállapított szöveg.
+[^1]: Az 1. § a 8/2015. (IV. 14.) IM rendelet 19. § (1) bekezdésével megállapított, a 26/2016. (XII. 27.) IM rendelet 16. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^2]: A 2. § a 19/2014. (XII. 22.) IM rendelet 2. §-ával megállapított szöveg.
 [^3]: A 2. § (1) bekezdése a 8/2015. (IV. 14.) IM rendelet 20. § a) és b) pontja szerint módosított szöveg.
-[^4]: A 2. § (2) bekezdése a 8/2015. (IV. 14.) IM rendelet 21. §-a szerint módosított szöveg.
+[^4]: A 2. § (2) bekezdését a 26/2016. (XII. 27.) IM rendelet 16. § (5) bekezdés a) pontja hatályon kívül helyezte.
