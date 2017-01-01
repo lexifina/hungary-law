@@ -4,4 +4,4 @@
 
 (3) Fogvatartott és katonai szolgálatot töltő személyen kutatás beleegyezésével sem végezhető. Az e törvény alapján szabadságában korlátozott, de cselekvőképes személy csak akkor lehet kutatás alanya, ha az saját, közeli hozzátartozója vagy a hasonló helyzetű személyek egészségét közvetlenül és jelentős mértékben szolgálja, és hasonló kutatási eredmények szabadságukban e törvény alapján nem korlátozott személyek bevonásától nem várható.
 
-(4) Az (1) és a (3) bekezdés szerinti kutatást az elsőfokú eljárásban az ETT bizottságának, a másodfokú eljárásban az ETT Elnökségének a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján az egészségügyi államigazgatási szerv engedélyezi.
+(4) Az (1) és a (3) bekezdés szerinti kutatást az elsőfokú eljárásban az ETT bizottságának a szakmai-etikai szakkérdésekben kiadott szakhatósági állásfoglalása alapján az egészségügyi államigazgatási szerv engedélyezi.

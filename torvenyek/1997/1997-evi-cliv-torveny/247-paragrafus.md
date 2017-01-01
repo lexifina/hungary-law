@@ -8,7 +8,7 @@ c) a meghatározott időtartamra és helyszínre szóló, egészségügyi tevék
 
 d) a nemzeti vérkészlettel való gazdálkodás, különös tekintettel a vérkészítmények külföldről történő behozatalára, illetőleg külföldre történő kivitelére vonatkozó szabályokat,
 
-e) az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra, az egészségügyi válsághelyzet és veszélyhelyzet kezelésére vonatkozó részletes szabályokat, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátás során megtehető intézkedésekre, az egészségügyi dolgozók kirendelésére, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra való felkészülésre, az egészségügyi válsághelyzet és veszélyhelyzet kihirdetésére, megszüntetésére vonatkozó részletes szabályokat,
+e) az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra, az egészségügyi válsághelyzet és veszélyhelyzet kezelésére vonatkozó részletes szabályokat, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátás során megtehető intézkedésekre, az egészségügyi dolgozók kirendelésére, az egészségügyi válsághelyzeti és veszélyhelyzeti ellátásra való felkészülésre, az egészségügyi válsághelyzet és veszélyhelyzet kihirdetésére, megszüntetésére, az egészségügyi válsághelyzet és veszélyhelyzet esetén nyújtott egészségügyi ellátások finanszírozására, továbbá az egészségügyi válsághelyzet és veszélyhelyzet esetén az Állami Egészségügyi Tartalék feltöltésére vonatkozó részletes szabályokat,
 
 f) az egészségügyi szolgáltatók felelősségbiztosítására vonatkozó részletes szabályokat,
 
@@ -20,7 +20,7 @@ i) az állami mentőszolgálat vagy mentőszolgálatok kijelölését és az ál
 
 j) az állami vérellátó szolgálat vagy szolgálatok kijelölését és az állami vérellátó szolgálat működésére vonatkozó részletes szabályokat,
 
-k) a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató, az egészségügyi dokumentációt kezelő és a betegjogok érvényesülését elősegítő szervet kijelölje, valamint jogállását, feladat- és hatáskörét, a betegjogi, ellátottjogi és gyermekjogi képviselő jogállását és eljárását, a jogviszonyára, képzettségére, a tevékenysége végzésének feltételeire, az összeférhetetlenségére vonatkozó szabályokat, a betegjogi, ellátottjogi és gyermekjogi képviselői szervezetre vonatkozó részletes szabályokat, valamint a betegjogi, ellátottjogi és gyermekjogi nyilvántartás vezetésének szabályait, továbbá a betegjogi, ellátottjogi és gyermekjogi képviselők továbbképzésére vonatkozó szabályokat,
+k) a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató, továbbá a jogutód nélkül megszűnt egészségügyi intézmények egészségügyi dokumentációjának kezeléséért, valamint az egészségügyi minőségfejlesztési feladatok és az egészségügyi szolgáltatók akkreditációs tevékenységének koordinálásáért felelős, illetve a betegjog-, -biztonság érvényesülését elősegítő szerv feladat- és hatáskörét, a betegjogi, ellátottjogi és gyermekjogi képviselő jogállását és eljárását, a jogviszonyára, a képzettségére, a tevékenysége végzésének feltételeire, az összeférhetetlenségére vonatkozó szabályokat, a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szervre vonatkozó részletes szabályokat, a szervvel kapcsolatos munkáltatói jogok gyakorlásának módját, valamint a betegjogi, ellátottjogi és gyermekjogi nyilvántartás vezetésének szabályait, továbbá a betegjogi, ellátottjogi és gyermekjogi képviselők továbbképzésére vonatkozó szabályokat,
 
 l) a külön jogszabály szerinti beavatkozással nem járó vizsgálat esetében a szakmai-etikai engedélyt kiadó szervet,
 
@@ -256,7 +256,7 @@ na) a fertőzés kockázatának csökkentésére és megelőzésére irányuló 
 
 nb) a kockázatbecslés, kockázatelemzés szabályait,
 
-o) az egészségfejlesztési irodák jogállására, feladat- és hatáskörére vonatkozó szabályokat, valamint a járási (fővárosi kerületi) egészségterv tartalmi követelményeit,
+o) az egészségfejlesztési irodák jogállására, feladat- és hatáskörére, finanszírozására vonatkozó részletszabályokat, valamint a járási (fővárosi kerületi) egészségterv tartalmi követelményeit,
 
 p) az állami és nem állami szervezetek hazai és nemzetközi egészségügyi segítségnyújtásra vonatkozó szabályokat, valamint az ilyen tevékenységet végzők nyilvántartására és felkészítésére vonatkozó szabályokat,
 
@@ -306,7 +306,9 @@ e) a miniszter, hogy a rendészetért felelős miniszterrel egyetértésben a ta
 
 f) a miniszter, hogy – a rendészetért felelős miniszterrel egyetértésben – a rendőri intézkedések kapcsán szükségessé váló, az intézkedéstaktikába épített elsősegélynyújtás képzések részletes tematikáját, az oktatásra jogosultak körét, az oktatásban részt vevők kompetenciáit;
 
-g) a miniszter, hogy – a rendészetért felelős miniszterrel egyetértésben – a halálos tömegszerencsétlenségek áldozatainak nemzetközi szervezetek szabványai szerinti azonosítására irányuló szervezett tevékenységben részt vevők körét, oktatását, feladatrendszerét, riasztási rendjét, tevékenységét, felszerelését, az együttműködés rendjét, a működtetés és a tevékenység részletes szabályait
+g) a miniszter, hogy – a rendészetért felelős miniszterrel egyetértésben – a halálos tömegszerencsétlenségek áldozatainak nemzetközi szervezetek szabványai szerinti azonosítására irányuló szervezett tevékenységben részt vevők körét, oktatását, feladatrendszerét, riasztási rendjét, tevékenységét, felszerelését, az együttműködés rendjét, a működtetés és a tevékenység részletes szabályait;
+
+h) a miniszter, hogy a terrorizmus elleni küzdelemért felelős miniszterrel egyetértésben az egészségügyi intézmények terrorveszély idején ellátandó feladatait, működési és jelentési rendjét, a terrorizmus elleni védelmével kapcsolatos intézkedések körét és az erre való felkészülés részletes szabályait
 
 rendeletben állapítsa meg.
 
@@ -317,9 +319,3 @@ a) – szabályozási tárgykörben – az Európai Parlament és a Tanács 2005
 b) a Tanács 93/42/EGK irányelve (1993. június 14.) az orvostechnikai eszközökről;
 
 c) az Európai Parlament és a Tanács 2007/47/EK irányelve (2007. szeptember 5.) az aktív beültethető orvostechnikai eszközökre vonatkozó tagállami jogszabályok közelítéséről szóló 90/385/EGK tanácsi irányelv, az orvostechnikai eszközökről szóló 93/42/EGK tanácsi irányelv, valamint a biocid termékek forgalomba hozataláról szóló 98/8/EK irányelv módosításáról;
-
-d) az Európai Parlament és a Tanács 2004/23/EK irányelve (2004. március 31.) az emberi szövetek és sejtek adományozására, gyűjtésére, vizsgálatára, feldolgozására, megőrzésére, tárolására és elosztására vonatkozó minőségi és biztonsági előírások megállapításáról;
-
-e) az Európai Parlament és a Tanács 2010/53/EU irányelve (2010. július 7.) az átültetésre szánt emberi szervekre vonatkozó minőségi és biztonsági előírások megállapításáról;
-
-f) az emberi felhasználásra szánt gyógyszerek közösségi kódexéről szóló 2001/83/EK európai parlamenti és tanácsi irányelvnek a farmakovigilancia tekintetében történő módosításáról szóló 2010. december 15-i 2010/84/EU európai parlamenti és tanácsi irányelv. 107m. cikk (1)–(4) és (8) bekezdések, 107n. cikk (2) bekezdés;

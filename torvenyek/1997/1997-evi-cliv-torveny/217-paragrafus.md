@@ -34,7 +34,7 @@ e) munkahelyét, munkahelyének címét, a munkavégzésre irányuló egyéb jog
 
 f) szaktanácsadói névjegyzékbe történő felvételének időpontját.
 
-(9) A halottvizsgálati szaktanácsadó az adatváltozást követő 15 napon belül köteles bejelenteni a szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szervnek a névjegyzékben nyilvántartott adataiban bekövetkezett változást.
+(9) A halottvizsgálati szaktanácsadó az adatváltozást követő 12 napon belül köteles bejelenteni a szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szervnek a névjegyzékben nyilvántartott adataiban bekövetkezett változást.
 
 (9a) A (9) bekezdés szerinti bejelentés azon adatok tekintetében, amelyeket más nyilvántartás közhitelesen tartalmaz, úgy is teljesíthető, hogy az adatváltozásról a közhiteles nyilvántartást vezető szerv – ha ezt tőle a halottvizsgálati szaktanácsadó kéri – a (9) bekezdés szerinti határidőben értesíti a szaktanácsadói névjegyzéket vezető egészségügyi államigazgatási szervet.
 

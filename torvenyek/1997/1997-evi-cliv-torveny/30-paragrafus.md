@@ -1,6 +1,6 @@
 ## A betegjogi képviselő és a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv
 
-30. § (1) A betegjogi képviselő a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv keretei között látja el feladatait.
+30. § (1) A betegjogi képviselőt az egészségügyért felelős miniszter által vezetett minisztérium (a továbbiakban: a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szerv) foglalkoztatja.
 
 (1a) A betegjogi képviselő csak olyan személy lehet, aki büntetlen előéletű, nem áll egészségügyi tevékenység gyakorlását kizáró foglalkozástól eltiltás hatálya alatt, felsőfokú végzettséggel rendelkezik, valamint megfelel a jogszabályban meghatározott képesítési és összeférhetetlenségi szabályoknak. A betegjogi képviselő a (2)–(5) bekezdésben foglaltaknak megfelelően ellátja a betegek e törvényben és a betegjogi, ellátottjogi és gyermekjogi képviselőt foglalkoztató szervről szóló jogszabályban meghatározott jogainak védelmét és segíti őket e jogaik megismerésében és érvényesítésében.
 

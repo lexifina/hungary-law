@@ -12,7 +12,7 @@ b) aki a (4) bekezdés foglalt adatok közlését megtagadja,
 
 c) aki – jogszabályban meghatározott esetekben – a megfelelő szakmai nyelvismeret meglétét, vagy aki a 113. § (6) bekezdés esetében a továbbképzési kötelezettsége teljesítését nem igazolja,
 
-d) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fűződő hátrányos jogkövetkezmények hatálya alatt, amely miatt egy évet meghaladó végrehajtandó szabadságvesztésre ítélték, vagy aki az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll, illetve aki az ezen tények fenn nem állása tekintetében a 112/A. § (1) bekezdés szerinti igazolási kötelezettségét nem teljesíti,
+d) aki olyan bűncselekménnyel kapcsolatosan áll a büntetett előélethez fűződő hátrányos jogkövetkezmények hatálya alatt, amely miatt egy évet meghaladó végrehajtandó szabadságvesztésre ítélték, vagy aki az egészségügyi tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll,
 
 e) akit egészségi állapota következtében az egészségügyi államigazgatási szerv az egészségügyi tevékenység folytatására véglegesen alkalmatlanná nyilvánított,
 
@@ -22,13 +22,13 @@ g) aki a 113. § (5) bekezdése szerinti nyilatkozattételi kötelezettségét n
 
 h) aki a 112/A. § (3) bekezdésében foglalt hozzájárulást nem adja meg,
 
-i) akit korábban azért töröltek a működési nyilvántartásból, mert
+i) akit korábban azért töröltek a működési nyilvántartásból, illetve akinek a működési nyilvántartásba vétel iránti kérelmét az egészségügyi államigazgatási szerv azért utasította el, mert
 
-ia) felróható magatartásával a működési nyilvántartást vezető szervvel a nyilvántartás körébe tartozó valótlan adatot közöl,
+ia) felróható magatartásával a működési nyilvántartást vezető szervvel a nyilvántartás körébe tartozó valótlan adatot közölt,
 
 ib) szakirányú szakképesítéshez kötött tevékenységet – ha jogszabály eltérően nem rendelkezik – a megfelelő szakképesítés, illetve szakirányú szakképesítés működési nyilvántartásba történő bejelentése nélkül vagy azt megelőzően kezd meg
 
-a törléstől számított egy évig,
+a törléstől, illetve a kérelem elutasításától számított egy évig,
 
 j) aki cselekvőképességében bármely ügycsoport tekintetében részlegesen korlátozó vagy cselekvőképességét teljesen korlátozó gondnokság alatt áll,
 
@@ -82,8 +82,8 @@ használja. Ennek keretében az egészségügyi dolgozó az egészségügyi tev�
 
 (7) A működési nyilvántartást vezető szerv az egészségügyi dolgozó működési nyilvántartásból való törlésének tényéről, valamint az egészségügyi dolgozók (4) bekezdés a), b) és e)–g) pontja szerinti adatairól a működési nyilvántartásból való törlést vagy az abba történő felvételt követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokról havi rendszerességgel – törvény szerinti hatósági ellenőrzés elvégzése céljából – elektronikus úton tájékoztatást nyújt az egészségbiztosítási szerv részére.
 
-(7a) A működési nyilvántartást vezető szerv az egészségügyi dolgozók működési nyilvántartásából az (5) bekezdés szerinti – bárki számára megismerhető – adatokat a nyilvántartásba történő felvételt követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokat havi rendszerességgel – a jogszabályban előírt feladatai ellátása érdekében – elektronikus úton megküldi az országos tisztifőorvosi hivatal részére.
+(7a) A működési nyilvántartást vezető szerv az egészségügyi dolgozók működési nyilvántartásából az (5) bekezdés szerinti – bárki számára megismerhető – adatokat a nyilvántartásba történő felvételt követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokat havi rendszerességgel – a jogszabályban előírt feladatai ellátása érdekében – elektronikus úton megküldi az országos tisztifőorvosi feladatokat ellátó szerv részére.
 
-(8) A működési nyilvántartást vezető szerv az egészségügyi dolgozó működési nyilvántartásból való törlésének tényéről, valamint az egészségügyi dolgozók (4) bekezdés b) és e)–g) pontja szerinti adatairól a működési nyilvántartásból való törlést követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokról – az egészségügyi tevékenység végzéséhez szükséges feltételek fennálltával kapcsolatos adategyeztetés céljából –, annak a működési nyilvántartásba történt bejegyzését követő 15 napon belül elektronikus úton tájékoztatja az illetékes szakmai kamarát. A működési nyilvántartást vezető szerv a szakmai kamara megkeresésére, a kamarai tagság létesítéséhez jogszabály alapján szükséges, a (4) bekezdés b) és k) pontja szerinti adatairól 15 napon belül elektronikus úton tájékoztatja a szakmai kamarát.
+(8) A működési nyilvántartást vezető szerv az egészségügyi dolgozó működési nyilvántartásból való törlésének tényéről, elhalálozás esetén annak dátumáról,, valamint az egészségügyi dolgozók (4) bekezdés b) és e)–g) pontja szerinti adatairól a működési nyilvántartásból való törlést követő naptári hónap során, továbbá az ezen adatokban bekövetkezett változásokról – az egészségügyi tevékenység végzéséhez szükséges feltételek fennálltával kapcsolatos adategyeztetés céljából –, annak a működési nyilvántartásba történt bejegyzését követő 15 napon belül elektronikus úton tájékoztatja az illetékes szakmai kamarát. A működési nyilvántartást vezető szerv a szakmai kamara megkeresésére, a kamarai tagság létesítéséhez jogszabály alapján szükséges, a (4) bekezdés b) és k) pontja szerinti adatairól 15 napon belül elektronikus úton tájékoztatja a szakmai kamarát.
 
 (9) Az illetékes egészségügyi szakmai kamara a (4) bekezdés i) és j) pontja szerinti adatokról – annak keletkezésétől vagy változásától számított 15 napon belül – a (4) bekezdés k) pontja szerinti azonosító megjelölésével elektronikus úton tájékoztatja a működési nyilvántartást vezető szervet.

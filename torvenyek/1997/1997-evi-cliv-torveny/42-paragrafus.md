@@ -26,7 +26,7 @@ a) ellenőrizni kell
 
 aa) a közegészségügyi, valamint a balesetmegelőzési követelmények érvényesülését a gondozó és a nevelő-oktató intézményekben, az elméleti és gyakorlati képzésre szolgáló helyiségekben, továbbá a szabadtéri foglalkoztatási és rekreációs területeken,
 
-ab) a bölcsődében, a nevelési-oktatási intézményben folyó étkeztetést,
+ab) a bölcsődében, mini bölcsődében, a nevelési-oktatási intézményben folyó étkeztetést,
 
 ac) a járványügyi előírások betartását,
 
@@ -42,4 +42,4 @@ c) biztosítani kell a nevelési-oktatási intézményekben a gyermekek és tanu
 
 (4) Az ifjúság-egészségügyi gondozás részét képezi – a külön jogszabályban meghatározottak szerint – az iskola-egészségügyi ellátás.
 
-(5) Az egészségügyi alapellátás és szakellátás területén működő egészségügyi szolgáltatók feladataik ellátása során kiemelt figyelmet fordítanak a gyermekek egészségét veszélyeztető tényezők megelőzésére, felismerésére és megszüntetésére. Ennek érdekében együttműködnek a közoktatási, a szociális és családsegítő, valamint a gyermekek védelmét ellátó intézményekkel, személyekkel, és szükség esetén megfelelő intézkedést kezdeményeznek.
+(5) Az egészségügyi alapellátás és szakellátás területén működő egészségügyi szolgáltatók feladataik ellátása során kiemelt figyelmet fordítanak a gyermekek egészségét veszélyeztető tényezők megelőzésére, felismerésére és megszüntetésére, amelynek során a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény 11. § (1a) bekezdésében és 17. § (2)–(3a) bekezdésében foglaltak alkalmazásával járnak el.

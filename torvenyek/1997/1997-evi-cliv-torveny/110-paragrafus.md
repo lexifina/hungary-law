@@ -18,6 +18,8 @@ d) aki külön törvény szerint, megfelelő szakképesítés nélkül az egész
 
 (4b) A (4a) bekezdés szerinti engedélyezési eljárás ügyintézési határideje két hónap, a szakhatósági eljárás ügyintézési határideje harminc nap.
 
+(4c) A (4a) bekezdés szerinti nyilvántartásban szereplő személyek neve, a számukra engedélyezett tevékenység megnevezése, az engedély időtartama, valamint az engedély száma bárki számára megismerhető adat.
+
 (5) Egészségügyi tevékenységben a (3) bekezdés a)–d) pontjában említett személy a (2) bekezdésben foglalt feltételeknek megfelelő személy felügyelete mellett, annak utasítása szerint működhet közre. A felügyeletet gyakorló személy utasítási joga – ide nem értve a munkáltatói utasítási joggyakorlást – csak a szakképesítésének megfelelő körben gyakorolható.
 
 (6) Az az (5) bekezdésben meghatározott személy, aki az egészségügyi tevékenységben nem a szakképesítésének megfelelő körben működik közre, tevékenységét csak előzetes és megfelelő oktatását követően kezdheti meg, illetve folytathatja.

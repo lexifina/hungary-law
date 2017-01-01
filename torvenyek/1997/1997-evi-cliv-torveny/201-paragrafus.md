@@ -28,7 +28,7 @@ e) a szóban előterjesztett szakvélemény teljes tartalmát, illetve az írás
 
 f) a meghallgatáson tett észrevételeket.
 
-(8) Az eljárás során hozott határozat ellen a közléstől számított 8 napon belül lehet fellebbezni.
+(8) Az eljárás során hozott határozat ellen a közléstől számított 8 napon belül lehet fellebbezni, a másodfokú eljárásban a bíróság soron kívül jár el.
 
 (9) A sürgősségi gyógykezelés során a kötelező intézeti gyógykezelést elrendelő határozat ellen benyújtott fellebbezésnek a határozat végrehajtására nincs halasztó hatálya.
 

@@ -1,4 +1,4 @@
-222/A. § (1) Egészségügyi intézményben végezhető, temetkezési szolgáltatásnak nem minősülő halottkezelési tevékenység a holttest:
+222/A. § (1) Egészségügyi intézményben végezhető, temetkezési szolgáltatásnak nem minősülő halottkezelési tevékenység a holttest
 
 a) hűtése azt a naptári napot követő naptól, amely naptári napon a holttest eltemetésére a temetésre kötelezett engedélyt kapott,
 
@@ -8,7 +8,7 @@ c) mosdatása,
 
 d) öltöztetése,
 
-e) borotválása,
+e) borotválása, valamint
 
 f) rekonstruálása.
 

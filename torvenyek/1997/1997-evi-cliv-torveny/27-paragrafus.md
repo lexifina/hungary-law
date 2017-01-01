@@ -2,7 +2,7 @@
 
 (2) A beteg és hozzátartozói jogainak gyakorlása nem sértheti az egészségügyi dolgozóknak törvényben foglalt jogait.
 
-(3) A betegjogok gyakorlásának módját – e törvény keretei között – a szolgáltató működési rendje (gyógyintézeti házirendje) szabályozza.
+(3) A betegjogok gyakorlásának módját – e törvény keretei között, ideértve a leletkiadás rendjét is – a szolgáltató működési rendje (gyógyintézeti házirendje) szabályozza.
 
 3. CÍM
 

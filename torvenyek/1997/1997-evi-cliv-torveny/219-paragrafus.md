@@ -4,7 +4,7 @@ a) a halál oka klinikai vizsgálatokkal nem volt megállapítható,
 
 b) perinatális halál esetén,
 
-c) az elhunyt szervátültetés donora vagy recipiense volt,
+c) az elhunyt szerv- vagy szövetátültetés donora vagy recipiense volt,
 
 d) az elhunyt foglalkozási eredetű megbetegedésben szenvedett, és annak gyanúja merült föl, hogy a halál oka ezzel van összefüggésben,
 

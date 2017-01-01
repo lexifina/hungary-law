@@ -18,13 +18,13 @@ b) az a) pontban meghatározott eseteken kívül bármely olyan körülmény kia
 
 a) ha a (2) bekezdés a) pontja szerinti egészségügyi válsághelyzet
 
-aa) egy megye területét érinti – az egészségügyi államigazgatási szerv javaslatára a megyei vagy fővárosi védelmi bizottság elnöke,
+aa) egy megye területét érinti, az egészségügyi államigazgatási szerv javaslatára a miniszter,
 
 ab) több megyét érint, az országos tisztifőorvos javaslatára a miniszter,
 
 b) ha a (2) bekezdés b) pontja szerinti egészségügyi válsághelyzet
 
-ba) egy megye területét érinti – az országos tisztifőorvos egyetértésével az egészségügyi államigazgatási szerv,
+ba) egy megye területét érinti, az országos tisztifőorvos egyetértésével az egészségügyi államigazgatási szerv a miniszter azonnali tájékoztatása mellett,
 
 bb) több megyét érint, az országos tisztifőorvos javaslatára a miniszter
 
