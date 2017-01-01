@@ -1,3 +1,0 @@
-9. § Az Lt. 39. § (2) bekezdése helyébe a következő rendelkezés lép:
-
-„(2) Az (1) bekezdésben foglalt szabályok részletes műszaki követelményeit, továbbá az üzemben tartás és az üzemeltetés részletes szabályait a nyilvános repülőtér és a polgári célú nem nyilvános repülőtér vonatkozásában a miniszter, az állami repülések céljára szolgáló repülőtér és a közös felhasználású repülőtér esetében a honvédelemért felelős miniszter a miniszterrel és a tűzvédelmi, valamint katasztrófavédelmi feltételek tekintetében a katasztrófák elleni védekezésért felelős miniszterrel egyetértésben – a zajgátló védőövezetre vonatkozóan a környezetvédelemért felelős miniszterrel egyetértésben – rendeletben állapítja meg.”

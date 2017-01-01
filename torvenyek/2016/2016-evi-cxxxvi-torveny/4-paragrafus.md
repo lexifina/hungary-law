@@ -1,3 +1,0 @@
-4. § Az Lt. 6. § (4) bekezdése helyébe a következő rendelkezés lép:
-
-„(4) Az ellenőrzött légtérben történő repülésekhez – ideértve az olyan külföldi légijárműnek a magyar légtérbe való berepülését is, amely számára a magyar légtér használatát nemzetközi szerződés, vagy a (3) bekezdésben meghatározott engedély lehetővé teszi – légiforgalmi irányítói engedély szükséges. Az ellenőrzött légtérbe való berepüléshez nincs szükség légiforgalmi irányítói engedélyre a légvédelmi készenléti valós repülés esetében. A pilóta nélküli légijárművel végrehajtott, ellenőrzött légtérben történő repüléshez a pilóta nélküli légijárművekről szóló miniszteri rendeletben meghatározott feltételek megléte esetén nincs szükség légiforgalmi irányítói engedélyre.”
