@@ -14,7 +14,7 @@
 
 |  |  | anyja születési neve: …………………………………………. |
 
-## A járási (fővárosi kerületi) gyámhivatal, mint I. fokú gyámhatóság igazolása
+## A fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala igazolása
 
 | Eljáró hatóság megnevezése és címe: ......................................................................................................................................... |
 

@@ -14,13 +14,13 @@
 
 |  |  | anyja születési neve: …………………………………………. |
 
-## A települési önkormányzat jegyzője, mint gyámhatóság igazolása
+## A fővárosi és megyei kormányhivatal gyermekvédelmi és gyámügyi feladatkörében eljáró járási (fővárosi kerületi) hivatala igazolása
 
 | Eljáró hatóság megnevezése és címe: ........................................................................................................................................ |
 
 | .................................................................................................................................................................................................... |
 
-## Igazolom, hogy fent nevezett gyermek a ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ és a ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ közötti időszakban a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerint rendszeres gyermekvédelmi kedvezményre volt jogosult.
+## Igazolom, hogy fent nevezett gyermek a és a közötti időszakban a gyermekek védelméről és a gyámügyi igazgatásról szóló 1997. évi XXXI. törvény szerint rendszeres gyermekvédelmi kedvezményre volt jogosult.
 
 ## __________________, 201__________________
 
@@ -38,4 +38,6 @@
 
 ## A támogatást a Start-számla vezetője ezen igazolás alapján igényli a Magyar Államkincstártól (a továbbiakban: kincstár), illetve amennyiben a Start-számlát a kincstár vezeti, akkor a támogatást a kincstár az igazolás alapján írja jóvá a számlán.
 
-2. melléklet a 43/2013. (X. 1.) NGM rendelethez
+2. melléklet a 43/2013. (X. 1.) NGM rendelethez[^3]
+
+[^3]: A 2. melléklet a 62/2016. (XII. 29.) NGM rendelet 69. § b) pontja szerint módosított szöveg.
