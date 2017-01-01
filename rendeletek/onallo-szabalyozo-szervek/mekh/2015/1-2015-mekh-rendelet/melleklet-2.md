@@ -88,4 +88,4 @@
 
 2. melléklet az 1/2015. (II. 13.) MEKH rendelethez[^24]
 
-[^24]: A 2. mellékletet a 4/2015. (VII. 27.) MEKH rendelet 10. § (2) bekezdése iktatta be, szövege a 14/2015. (XII. 11.) MEKH rendelet 2. §-ával megállapított szöveg.
+[^24]: A 2. mellékletet a 4/2015. (VII. 27.) MEKH rendelet 10. § (2) bekezdése iktatta be, szövege a 12/2016. (XII. 14.) MEKH rendelet 1. §-ával megállapított szöveg.
