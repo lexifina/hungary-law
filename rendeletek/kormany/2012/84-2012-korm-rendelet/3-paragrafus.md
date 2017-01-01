@@ -2,23 +2,20 @@
 
 ## 3. Az ügyintézési rendelkezést nyilvántartó szerv
 
-3. §[^2] (1) A Kormány az ügyintézési rendelkezést nyilvántartó szervként a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát jelöli ki.
+3. §[^2] (1) A Kormány az ügyfél ügyintézési rendelkezését nyilvántartó szervként a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t jelöli ki.
 
-(2)[^3] Az ügyfél ügyintézési rendelkezést tehet az ügyintézési rendelkezést nyilvántartó szervnél és
+(2) A Kormány a rendelkezési nyilvántartás regisztrációs szerveiként a következő szerveket jelöli ki:
 
-a) a kormányablakban,
+a) az e-közigazgatásért felelős miniszter által irányított szervezeti egység,
 
-b) a fővárosi és megyei kormányhivatalok járási (fővárosi kerületi) hivatala illetékességi területén működő okmányirodában,
+b) a Kormány rendeletében kijelölt kormányhivatal, a fővárosi és megyei kormányhivatal járási (fővárosi kerületi) hivatala okmányirodai feladatokat ellátó szervezeti egysége,
 
-c) a Magyar Posta Zrt. által Általános Szerződési Feltételeiben meghatározott állandó postai szolgáltatóhelyeken,
+c) a kormányablak,
 
-d) – az első ügyintézési rendelkezés kivételével – az integrált ügyintézési és tájékoztatási pont keretében biztosított telefonos ügyfélszolgálaton,
+d) az országos telefonos ügyfélszolgálat,
 
-e)[^4] a Nemzeti Adó- és Vámhivatalnál.
+e) a Magyar Posta Zrt. által az Általános Szerződési Feltételeiben meghatározott állandó postai szolgáltatóhely,
 
-(3)[^5]
+f) a Nemzeti Adó- és Vámhivatal.
 
-[^2]: A 3. § az 515/2013. (XII. 30.) Korm. rendelet 31. § (1) bekezdésével megállapított szöveg.
-[^3]: A 3. § (2) bekezdése a 169/2015. (VI. 30.) Korm. rendelet 2. § (1) bekezdésével megállapított szöveg.
-[^4]: A 3. § (2) bekezdés e) pontját a 169/2015. (VI. 30.) Korm. rendelet 2. § (2) bekezdése iktatta be.
-[^5]: A 3. § (3) bekezdését a 169/2015. (VI. 30.) Korm. rendelet 2. § (5) bekezdése hatályon kívül helyezte.
+[^2]: A 3. § a 379/2016. (XII. 2.) Korm. rendelet 200. § (1) bekezdésével megállapított szöveg.

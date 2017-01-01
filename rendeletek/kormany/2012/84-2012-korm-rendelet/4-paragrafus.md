@@ -1,68 +1,74 @@
-## 4. Az állam által kötelezően nyújtandó szabályozott elektronikus ügyintézési szolgáltatások szolgáltatói
+## 4. [^3] A Kormány által kötelezően biztosított szabályozott elektronikus ügyintézési szolgáltatások és a központi elektronikus ügyintézési szolgáltatások szolgáltatói
 
-## 4. § A Kormány a szabályozott elektronikus ügyintézési szolgáltatások szolgáltatóiként az alábbi szervezeteket jelöli ki:
+## 4. §[^4] A Kormány a szabályozott elektronikus ügyintézési szolgáltatások, illetve a központi elektronikus ügyintézési szolgáltatások szolgáltatóiként az alábbi szervezeteket jelöli ki:
 
-a) az ügyfél elektronikus ügyintézési cselekményekről történő időszaki értesítése vonatkozásában a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát,
+a)[^5] az ügyfél elektronikus ügyintézési cselekményekről történő időszaki értesítése vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
 
-b)[^6] az összerendelési nyilvántartás szolgáltatás vonatkozásában a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát, amely e feladatának ellátásához az IdomSoft Zrt. közreműködését igénybe veheti,
+b)[^6] a személyazonosító jel helyébe lépő azonosítási módokról és az azonosító kódok használatáról szóló 1996. évi XX. törvény szerinti összerendelési nyilvántartás szolgáltatás vonatkozásában az e-közigazgatásért felelős minisztert, aki e feladatának ellátásához az IdomSoft Zrt. közreműködését igénybe veheti,
 
-c) a biztonságos kézbesítési szolgáltatás vonatkozásában a Magyar Posta Zrt.-t,
+c)[^7] a biztonságos kézbesítési szolgáltatás vonatkozásában a Magyar Posta Zrt.-t, valamint a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
 
-d)[^7] az ÁNYK űrlap benyújtás támogatási szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t, valamint a külön jogszabályban meghatározott szervet,
+d)[^8] az űrlapbenyújtás támogatási szolgáltatás esetében
 
-e)[^8] az elektronikus dokumentumtárolási szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
+da) az ÁNYK űrlapbenyújtás támogatási szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
 
-f)[^9]
+db) az elektronikus űrlapkitöltés-támogatási szolgáltatás tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
+
+e)[^9] az elektronikus dokumentumtárolási szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
+
+f)[^10] a Kormány által kötelezően biztosított elektronikus azonosítási szolgáltatás természetes személy ügyfelek részére történő szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
 
 g) a kormányzati hitelesítés-szolgáltatás vonatkozásában
 
 ga) a nemzetbiztonsági szolgálatok, a Terrorelhárítási Központ, valamint a Rendőrség tanúvédelemmel foglalkozó munkatársai tekintetében az irányító minisztert, a tanúsítvány-igénylő regisztrációjával kapcsolatos feladatok tekintetében az érintett nemzetbiztonsági szolgálat, a Terrorelhárítási Központ, illetve a Rendőrség közreműködésével,
 
-gb)[^10] egyéb esetekben a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t, a tanúsítvány-igénylő regisztrációjával kapcsolatos feladatok tekintetében a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala és a Magyar Posta Zrt., valamint a közigazgatási szervek személyügyi szervezeti egységeinek közreműködésével,
+gb)[^11] egyéb esetekben a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t, a tanúsítvány-igénylő regisztrációjával kapcsolatos feladatok tekintetében a közigazgatási szervek személyügyi szervezeti egységeinek közreműködésével,
 
-h)[^11] az elektronikus tájékoztatási szolgáltatás vonatkozásában
+h)[^12] a központi dokumentumhitelesítési ügynök szolgáltatás tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
 
-ha) az egyablakos központi tájékoztatási felület, valamint a kormányzati szintű hivatali tájékoztatás tekintetében az e-közigazgatásért felelős minisztert, aki e feladatának ellátásához a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. közreműködését igénybe veheti,
+i)[^13] az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
 
-hb) az általános országinformációk és az ÁNYK űrlap benyújtás támogatási szolgáltatás keretében intézhető elektronikus ügyekre vonatkozó tájékoztatás tekintetében az e-közigazgatásért felelős minisztert, aki e feladatának ellátásához a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. közreműködését igénybe veheti,
+j)[^14] az iratérvényességi nyilvántartás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
 
-i)[^12] az azonosításra visszavezetett dokumentumhitelesítés szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
+k)[^15] a kormányzati elektronikus aláírás ellenőrzési szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
 
-j) az iratérvényességi nyilvántartás vonatkozásában a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát,
+l)[^16] a központi azonosítási ügynök szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
 
-k)[^13] a kormányzati elektronikus aláírás ellenőrzési szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
+m)[^17] az általános célú elektronikus kéreleműrlap szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
 
-l)[^14] a központi azonosítási ügynök szolgáltatás vonatkozásában a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
+n)[^18] a papíralapú irat átalakítása hiteles elektronikus irattá, valamint az elektronikus irat hiteles papír alapú irattá alakítása szolgáltatás vonatkozásában a Magyar Posta Zrt.-t,
 
-m)[^15] az ügyfelek részére nyújtott teljeskörű azonosítás szolgáltatás vonatkozásában a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát és a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t, valamint
+o)[^19]
 
-n) a papír alapú irat hiteles elektronikus irattá alakítása, valamint az elektronikus irat hiteles papír alapú irattá alakítása szolgáltatás vonatkozásában a Magyar Posta Zrt.-t,
+p)[^20]
 
-o)[^16] az interaktív virtuális ügyfélszolgálat szolgáltatás vonatkozásában a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát,
+q)[^21] a személyre szabott ügyintézési felület szolgáltatás tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
 
-p)[^17] az elektronikus űrlapok kezelése keretében elektronikus űrlap tervezését és kitöltését segítő szolgáltatás vagy program biztosítása tekintetében a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát, amely feladatának ellátásába bevonja a KOPINT-DATORG Informatikai és Vagyonkezelő Kft.-t,
+r)[^22] az iratkezelő rendszerek közötti iratáthelyezés szolgáltatás tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
 
-q)[^18] a személyre szabott ügyintézési felület szolgáltatás tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
+s)[^23] a központi érkeztetési ügynök szolgáltatás tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
 
-r)[^19] az iratkezelő rendszerek közötti iratáthelyezés szolgáltatás tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
+t)[^24] a központi kézbesítési ügynök szolgáltatás tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t.
 
-s)[^20] a központi érkeztetési ügynök szolgáltatás tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t,
-
-t)[^21] a központi kézbesítési ügynök szolgáltatás tekintetében a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt.-t.
-
-[^6]: A 4. § b) pontja a 252/2013. (VII. 4.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^7]: A 4. § d) pontja a 169/2013. (V. 29.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
-[^8]: A 4. § e) pontja a 169/2013. (V. 29.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
-[^9]: A 4. § f) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (4) bekezdése hatályon kívül helyezte.
-[^10]: A 4. § g) pont gb) alpontja a 252/2013. (VII. 4.) Korm. rendelet 3. § (2) bekezdésével megállapított szöveg.
-[^11]: A 4. § h) pontja a 221/2014. (IX. 4.) Korm. rendelet 663. §-ával megállapított szöveg.
-[^12]: A 4. § i) pontja a 169/2013. (V. 29.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
-[^13]: A 4. § k) pontja a 169/2013. (V. 29.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
-[^14]: A 4. § l) pontja a 252/2013. (VII. 4.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
-[^15]: A 4. § m) pontja a 252/2013. (VII. 4.) Korm. rendelet 3. § (4) bekezdésével megállapított, az 515/2013. (XII. 30.) Korm. rendelet 31. § (3) bekezdése szerint módosított szöveg.
-[^16]: A 4. § o) pontját a 252/2013. (VII. 4.) Korm. rendelet 3. § (5) bekezdése iktatta be.
-[^17]: A 4. § p) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be.
-[^18]: A 4. § q) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be.
-[^19]: A 4. § r) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be.
-[^20]: A 4. § s) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be.
-[^21]: A 4. § t) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^3]: A 4. alcím címe a 379/2016. (XII. 2.) Korm. rendelet 200. § (2) bekezdésével megállapított szöveg.
+[^4]: A 4. § nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 200. § (14) bekezdés a) pontjával megállapított szöveg.
+[^5]: A 4. § a) pontja a 379/2016. (XII. 2.) Korm. rendelet 200. § (14) bekezdés b) pontja szerint módosított szöveg.
+[^6]: A 4. § b) pontja a 379/2016. (XII. 2.) Korm. rendelet 200. § (3) bekezdésével megállapított szöveg.
+[^7]: A 4. § c) pontja a 379/2016. (XII. 2.) Korm. rendelet 200. § (14) bekezdés c) pontja szerint módosított szöveg.
+[^8]: A 4. § d) pontja a 379/2016. (XII. 2.) Korm. rendelet 200. § (4) bekezdésével megállapított szöveg.
+[^9]: A 4. § e) pontja a 169/2013. (V. 29.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
+[^10]: A 4. § f) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (4) bekezdése hatályon kívül helyezte, újonnan a 379/2016. (XII. 2.) Korm. rendelet 200. § (5) bekezdése iktatta be.
+[^11]: A 4. § g) pont gb) alpontja a 252/2013. (VII. 4.) Korm. rendelet 3. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 200. § (15) bekezdés b) pontja szerint módosított szöveg.
+[^12]: A 4. § h) pontja a 379/2016. (XII. 2.) Korm. rendelet 200. § (6) bekezdésével megállapított szöveg.
+[^13]: A 4. § i) pontja a 169/2013. (V. 29.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
+[^14]: A 4. § j) pontja a 379/2016. (XII. 2.) Korm. rendelet 200. § (14) bekezdés b) pontja szerint módosított szöveg.
+[^15]: A 4. § k) pontja a 169/2013. (V. 29.) Korm. rendelet 38. § a) pontja szerint módosított szöveg.
+[^16]: A 4. § l) pontja a 252/2013. (VII. 4.) Korm. rendelet 3. § (4) bekezdésével megállapított szöveg.
+[^17]: A 4. § m) pontja a 379/2016. (XII. 2.) Korm. rendelet 200. § (7) bekezdésével megállapított szöveg.
+[^18]: A 4. § n) pontja a 379/2016. (XII. 2.) Korm. rendelet 200. § (14) bekezdés d) pontja szerint módosított szöveg.
+[^19]: A 4. § o) pontját a 252/2013. (VII. 4.) Korm. rendelet 3. § (5) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 200. § (15) bekezdés c) pontja.
+[^20]: A 4. § p) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be, hatályon kívül helyezte a 379/2016. (XII. 2.) Korm. rendelet 200. § (15) bekezdés c) pontja.
+[^21]: A 4. § q) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^22]: A 4. § r) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^23]: A 4. § s) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be.
+[^24]: A 4. § t) pontját az 515/2013. (XII. 30.) Korm. rendelet 31. § (2) bekezdése iktatta be.

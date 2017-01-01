@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-84-20-2
 | 2016-05-15 | 2012-84-20-22.15 | 255/2015. (IX. 10.) Korm. rendelet |
 | 2016-06-08 | 2012-84-20-22.16 | 323/2014. (XII. 15.) Korm. rendelet |
 | 2016-07-01 | 2012-84-20-22.17 | 123/2016. (VI. 7.) Korm. rendelet |
+| 2017-01-01 | 2012-84-20-22.18 | 379/2016. (XII. 2.) Korm. rendelet |

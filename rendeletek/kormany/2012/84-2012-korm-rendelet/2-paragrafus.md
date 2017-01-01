@@ -1,5 +1,5 @@
-## 1. §[^1] A Kormány a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló 2004. évi CXL. törvény (a továbbiakban: Ket.) 169/A. § (3) bekezdése alapján a 169/A. § (1) bekezdés b) és c) pontjában és a (2) bekezdés a) és b) pontjában meghatározott, az ügyfél számára nyújtott hatósági szolgáltatás nyújtására a Magyar Posta Zrt.-t, valamint a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát jelöli ki.
+## 1. §[^1]
 
 ## 2. Az elektronikus ügyintézési felügyelet
 
-[^1]: A 1. § a 414/2015. (XII. 23.) Korm. rendelet 74. § (4) bekezdése szerint módosított szöveg.
+[^1]: Az 1. §-t a 379/2016. (XII. 2.) Korm. rendelet 200. § (15) bekezdés a) pontja hatályon kívül helyezte.
