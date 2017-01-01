@@ -10,7 +10,7 @@
 
 (5) Amennyiben a nyertes pályázó a támogatási előleg felhasználásával egyidejűleg a teljes támogatási tartalmat megvalósította, akkor lehetősége van a támogatási előleggel történő elszámolás során a teljes támogatási összeggel is egyidejűleg elszámolni.
 
-(6) Előlegfizetés esetén a NAKVI előlegfizetési utasítást küld – a megkötött hatósági szerződés NAKVI-hoz történő hiánytalan megérkezését követő nyolc naptári napon belül – az MVH és a minisztérium részére az alábbi adattartalommal:
+(6)[^7] Előlegfizetés esetén a NAKVI előlegfizetési utasítást küld – a megkötött hatósági szerződés NAKVI-hoz történő hiánytalan megérkezését követő nyolc naptári napon belül – a Kincstár és a minisztérium részére az alábbi adattartalommal:
 
 a) nyertes pályázó neve, születési neve,
 
@@ -28,4 +28,7 @@ g) a nyertes pályázó részére támogatási célonként összesen megállapí
 
 h) a megállapított támogatásból támogatási célonként kifizetendő előleg forintban és euróban meghatározott összege.
 
-(7) Az MVH – a Tv. 60. §-ában foglaltakra is figyelemmel – az előlegfizetési utasítás kézhezvételétől számított tizenöt naptári napon belül, de legkésőbb a forrás rendelkezésre állását követő tizenöt naptári napon belül gondoskodik az előleg – nyertes pályázó Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe bejelentett fizetési számlaszámára történő – átutalásáról.
+(7)[^8] A Kincstár – a Tv. 60. §-ában foglaltakra is figyelemmel – az előlegfizetési utasítás kézhezvételétől számított tizenöt naptári napon belül, de legkésőbb a forrás rendelkezésre állását követő tizenöt naptári napon belül gondoskodik az előleg – nyertes pályázó Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe bejelentett fizetési számlaszámára történő – átutalásáról.
+
+[^7]: A 10. § (6) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 65. § b) pontja szerint módosított szöveg.
+[^8]: A 10. § (7) bekezdése a 88/2016. (XII. 29.) FM rendelet 65. § c) pontja szerint módosított szöveg.

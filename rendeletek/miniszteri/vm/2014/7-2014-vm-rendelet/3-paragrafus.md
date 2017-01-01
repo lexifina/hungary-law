@@ -16,4 +16,6 @@ a) aki a tanyás települések valamelyikén e rendelet hatálybalépését mege
 
 b) akinek az ingatlan-nyilvántartásban feltüntetett tanyai lakás céljára használt épülete sem közcélú villamos hálózati csatlakozással, sem sziget üzemű villamosenergia-termelő berendezéssel nem rendelkezik.
 
-(3) A támogatás igénybevételének előfeltétele, hogy a pályázó legkésőbb a pályázat benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti nyilvántartásba vételi kötelezettségének eleget tegyen, vagy igazolja, hogy kérelmezte nyilvántartásba vételét a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe.
+(3)[^1] A támogatás igénybevételének előfeltétele, hogy a pályázó legkésőbb a pályázat benyújtásáig a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: Tv.) szerinti nyilvántartásba vételi kötelezettségének eleget tegyen, vagy igazolja, hogy kérelmezte nyilvántartásba vételét a Magyar Államkincstár (a továbbiakban: Kincstár) által vezetett Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe.
+
+[^1]: A 3. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 65. § a) pontja szerint módosított szöveg.
