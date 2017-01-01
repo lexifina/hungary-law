@@ -1,4 +1,4 @@
-## 11. §[^24] Ahol a közbeszerzési törvény a hirdetmény nélküli tárgyalásos eljárás megkezdésével összefüggően a Közbeszerzési Döntőbizottság értesítésének kötelezettségét írja elő, ez a kötelezettség elektronikus úton a Közbeszerzési Döntőbizottság által meghatározott és közzétett módon is teljesíthető.
+## 11. §[^24] Ahol a közbeszerzési törvény a hirdetmény nélküli tárgyalásos eljárás megkezdésével összefüggően a Közbeszerzési Hatóság értesítésének kötelezettségét írja elő, ez a kötelezettség elektronikus úton a Közbeszerzési Hatóság által meghatározott és közzétett módon is teljesíthető.
 
 ## Az ajánlattételi dokumentumokra vonatkozó különös követelmények
 
@@ -12,5 +12,5 @@
 
 (5) Az elektronikusan beadott ajánlatban a közbeszerzési törvény 66. § (5) bekezdése szerinti felolvasólap adatait az ajánlattevőnek az ajánlatkérő által rendelkezésre bocsátott elektronikus űrlapba kell beírni, vagy – ha ilyen nem áll rendelkezésre – a felolvasólapot önálló elektronikus dokumentumba kell foglalni.
 
-[^24]: A 11. § a 287/2011. (XII. 22.) Korm. rendelet 7. §-ával megállapított szöveg. E módosító rendelet 30. §-a alapján a 2012. január 1-je után megkezdett közbeszerzésekre kell alkalmazni.
+[^24]: A 11. § a 487/2016. (XII. 28.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^25]: A 12. § a 323/2015. (X. 30.) Korm. rendelet 4. § (5) bekezdésével megállapított szöveg.
