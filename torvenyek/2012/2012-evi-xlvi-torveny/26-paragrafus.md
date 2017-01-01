@@ -6,7 +6,7 @@
 
 a) az államhatár érintett földmérési jelei (határjelei), valamint az aktív GNSS hálózat vonatkozásában a földmérési és térinformatikai államigazgatási szerv gyakorolja, és gondoskodik azok kezeléséről, nyilvántartásáról és időszakos karbantartásáról,
 
-b) az Országos Gravimetriai Hálózat pontjai kivételével az alapponthálózati pontok vonatkozásában a fővárosi és megyei kormányhivatalok az ingatlanügyi hatóságon keresztül gyakorolják,
+b) az Országos Gravimetriai Hálózat pontjai kivételével az alapponthálózati pontok vonatkozásában az ingatlanügyi hatóságok gyakorolják,
 
 c) a katonai tájékozási hálózat pontjai vonatkozásában a honvédelem térképészeti támogatásáért felelős szerv,
 

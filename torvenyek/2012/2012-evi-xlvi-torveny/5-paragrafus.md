@@ -16,7 +16,7 @@
 
 (6a) Az ingatlan-nyilvántartási térképi adatbázisból elektronikus és papír alapú másolatot a miniszter által rendeletben meghatározott tartalommal kell kiadni. Ha a hitelesített térképmásolat szolgáltatása elektronikus dokumentumként történik, e tényre a hitelesítési záradékban utalni kell.
 
-(6b) Az ingatlan-nyilvántartási térképi adatbázisból elektronikus formában szolgáltatott hitelesített másolat olyan elektronikus okirat, amelyet hitelesítési záradékkal láttak el, és amelyet a földmérési és térinformatikai államigazgatási szerv fokozott biztonságú elektronikus intézményi aláírással és időbélyegzővel hitelesített. Az ilyen módon szolgáltatott térképmásolat kizárólag elektronikus formában rendelkezik a (6c) bekezdés szerinti tanúsító erővel.
+(6b) Az ingatlan-nyilvántartási térképi adatbázisból elektronikus formában szolgáltatott hitelesített másolat olyan elektronikus okirat, amelyet hitelesítési záradékkal láttak el, és amelyet a földmérési és térinformatikai államigazgatási szerv fokozott biztonságú elektronikus bélyegzővel és időbélyegzővel hitelesített. Az ilyen módon szolgáltatott térképmásolat kizárólag elektronikus formában rendelkezik a (6c) bekezdés szerinti tanúsító erővel.
 
 (6c) A (6b) bekezdés szerint elektronikusan kiadott dokumentum elektronikus formában hitelesen tanúsítja, hogy a másolat a kiadást megelőző napig az eredetivel megegyezik. Ezt a dokumentum záradékában fel kell tüntetni.
 
