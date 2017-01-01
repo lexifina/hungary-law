@@ -18,9 +18,10 @@ a) a közösségi rendelet 7. cikkében megszabott határidők elmulasztása ese
 
 b) az Szt.-nek a nyilvánosságra vonatkozó szabályait (53. §) a bejelentés benyújtásának napjától alkalmazni kell;
 
-c) a tanúsítványokkal kapcsolatos ügyek elektronikus úton nem intézhetők.
+c)[^34]
 
 [^30]: Az 5. § a 264/2007. (X. 10.) Korm. rendelet 6. §-ával megállapított szöveg. E módosító rendelet 10. § (1) bekezdése alapján a rendelkezést csak a 2007. október 25. napját követően indult eljárásokban lehet alkalmazni.
 [^31]: Az 5. § (1) bekezdés nyitó szövegrésze a 341/2010. (XII. 28.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
 [^32]: Az 5. § (2) bekezdése a 341/2010. (XII. 28.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
 [^33]: Az 5. § (3) bekezdés nyitó szövegrésze a 341/2010. (XII. 28.) Korm. rendelet 27. § (1) bekezdése szerint módosított szöveg.
+[^34]: Az 5. § (3) bekezdés c) pontját a 477/2016. (XII. 27.) Korm. rendelet 28. § (2) bekezdése hatályon kívül helyezte.

@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-26-20-2
 | 2011-01-01 | 2004-26-20-22.4 | 341/2010. (XII. 28.) Korm. rendelet |
 | 2012-01-01 | 2004-26-20-22.5 | 272/2011. (XII. 20.) Korm. rendelet |
 | 2014-05-08 | 2004-26-20-22.6 | 138/2014. (IV. 30.) Korm. rendelet |
+| 2017-01-01 | 2004-26-20-22.7 | 477/2016. (XII. 27.) Korm. rendelet |
