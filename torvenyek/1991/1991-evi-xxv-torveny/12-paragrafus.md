@@ -6,6 +6,6 @@
 
 (4)
 
-(5) A kárpótlási hatóság a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint jár el, azzal az eltéréssel, hogy az ügyintézési határidő a kérelem benyújtásától számított hat hónap, amelyet a hivatal vezetője egy ízben legfeljebb három hónappal meghosszabbíthat.
+(5) A kárpótlási hatóság a közigazgatási hatósági eljárás általános szabályairól szóló törvény szabályai szerint jár el, azzal az eltéréssel, hogy az ügyintézési határidő a kérelem benyújtásától számított hat hónap.
 
 (6) Az e törvény alapján a kárpótlási hatóság előtt induló eljárások illetékmentesek.

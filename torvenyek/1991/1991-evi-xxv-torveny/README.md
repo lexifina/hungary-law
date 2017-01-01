@@ -8,3 +8,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1991-25-00-00
 | 2011-01-01 | 2010. évi CLIII. törvény | 1991-25-00-00.16 |
 | 2014-05-01 | 2013. évi CCXII. törvény | 1991-25-00-00.17 |
 | 2016-10-20 | 2016. évi CII. törvény | 1991-25-00-00.18 |
+| 2017-01-01 | 2016. évi CXXI. törvény | 1991-25-00-00.19 |
