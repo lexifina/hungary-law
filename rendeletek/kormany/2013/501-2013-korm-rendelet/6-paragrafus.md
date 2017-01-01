@@ -1,4 +1,4 @@
-6. § (1) A tankönyvellátási szerződés – a 8. §-ban foglalt kivétellel – a Könyvtárellátó és az Ntt.-ben meghatározott iskola – az állami intézményfenntartó központ fenntartásában álló iskola esetén az állami intézményfenntartó központ – között jön létre.
+6. § (1)[^5] A tankönyvellátási szerződés – a 8. §-ban foglalt kivétellel – a Könyvtárellátó és az Ntt.-ben meghatározott iskola – a tankerületi központ fenntartásában álló iskola esetén a tankerületi központ – között jön létre. A tankerületi központok tekintetében a tankönyvellátási szerződés hatályosulásához az oktatási központ jóváhagyása szükséges.
 
 (2) A tankönyvellátási szerződésnek tartalmaznia kell:
 
@@ -17,3 +17,5 @@ f) az előzetes megállapodást az iskola legalacsonyabb évfolyamára belépő 
 (3) A tankönyvellátási szerződés keretei között a tanulók Ntt. 3. § (12) és (13) bekezdése szerinti személyes adatai kezelhetők.
 
 (4) Az e §-ban foglalt rendelkezések megsértésével kötött tankönyvellátási szerződés semmis.
+
+[^5]: A 6. § (1) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 16. §-ával megállapított szöveg.

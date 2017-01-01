@@ -6,6 +6,6 @@
 
 a) nyilvános pályázatot írhat ki szakképzési tankönyv megírására, tankönyvkiadás támogatására, illetve
 
-b)[^2] megállapodást köthet az Intézettel – az agrárpolitikáért felelős miniszter esetében a Herman Ottó Intézettel – a szakképzési tankönyv előállítására.
+b)[^7] megállapodást köthet az EKE-vel – az agrárpolitikáért felelős miniszter esetében a Herman Ottó Intézet Nonprofit Kft.-vel – a szakképzési tankönyv előállítására.
 
-[^2]: A 9. § (2) bekezdés b) pontja a 221/2014. (IX. 4.) Korm. rendelet 789. §-a, a 147/2015. (VI. 12.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^7]: A 9. § (2) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 256. § (2) bekezdésével megállapított szöveg.

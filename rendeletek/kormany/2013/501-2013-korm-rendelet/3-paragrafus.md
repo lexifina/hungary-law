@@ -10,6 +10,8 @@ d) az a)–c) pont alapján szerzett tapasztalatok figyelembevételével éves t
 
 e) jogszabályban meghatározottak szerint közreműködik a tankönyvvé nyilvánítási eljárásban.
 
-(2) A Tanács felhívására az Intézet és a köznevelés tankönyvellátásában érintett tankönyvkiadó a tárgyévet követő évben kezdődő tanévre vonatkozó – tankönyvfejlesztési, pedagóguskézikönyv-fejlesztési – javaslatát január 15-ig küldhetik meg a Tanács részére.
+(2)[^3] A Tanács felhívására az EKE és a köznevelés tankönyvellátásában érintett tankönyvkiadó a tárgyévet követő évben kezdődő tanévre vonatkozó – tankönyvfejlesztési, pedagóguskézikönyv-fejlesztési – javaslatát január 15-ig küldhetik meg a Tanács részére.
 
 (3) A Tanács a (2) bekezdés szerinti javaslatok figyelembevételével elkészíti az éves tankönyvfejlesztési, pedagóguskézikönyv-fejlesztési tervet, amelyet március 1-jéig jóváhagyásra megküld a miniszter részére.
+
+[^3]: A 3. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 256. § (3) bekezdés a) pontja szerint módosított szöveg.
