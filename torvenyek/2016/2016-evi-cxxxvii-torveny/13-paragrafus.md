@@ -1,0 +1,3 @@
+13. § A Tvt. a következő 85/A. §-sal egészül ki:
+
+„85/A. § Ez a törvény az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezeléséről szóló, 2014. október 22-i, 1143/2014/EU európai parlamenti és tanácsi rendelet végrehajtásához szükséges rendelkezéseket állapít meg.”
