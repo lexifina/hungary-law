@@ -8,6 +8,6 @@ c) a kormányrendelet szerint társadalombiztosítási támogatással történő
 
 d) gyógyszerárhoz nyújtott, támogatással történő gyógyszer kiszolgáltatásra jogosító szerződéssel rendelkező gyógyszertárakra, és
 
-e)[^1] az Országos Egészségbiztosítási Pénztár központi szervére (a továbbiakban: OEP).
+e)[^1] a Nemzeti Egészségbiztosítási Alapkezelőre (a továbbiakban: NEAK).
 
-[^1]: Az 1. § e) pontja a 70/2015. (III. 30.) Korm. rendelet 166. § (2) bekezdése szerint módosított szöveg.
+[^1]: Az 1. § e) pontja a 379/2016. (XII. 2.) Korm. rendelet 167. § a) pontjával megállapított szöveg.
