@@ -8,7 +8,7 @@ a)[^2]
 
 b) lefolytatják az eljárást a hajózással összefüggő, valamint a víziközlekedési szabályok megszegésével elkövetett szabálysértések esetén, és intézkedéseket foganatosítanak a bűncselekmények és szabálysértések megelőzése érdekében;
 
-c)[^3] vizsgálják a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben meghatározott vízi közlekedési baleseteket és a vízi közlekedés biztonságát veszélyeztető vízi közlekedési eseményeket a felelősség és vétkesség megállapítása céljából. Az eljáró rendőri szerv az eseményről haladéktalanul értesíti a hajózási hatóságot, amely három órán belül nyilatkozik a vizsgálaton való részvételi szándékáról és az úszólétesítmény visszatartásának szükségességéről. A vizsgálatot a nagyhajókon (beleértve az úszó munkagépet és az önjáró kompot) a nagyhajók által okozott, vagy sérelmére történt, illetve a hajóút forgalmának korlátozását eredményező baleset (havaria) esetében a Nemzeti Közlekedési Hatóság bevonásával végzik.
+c)[^3] vizsgálják a légi-, a vasúti és a víziközlekedési balesetek és egyéb közlekedési események szakmai vizsgálatáról szóló törvényben meghatározott vízi közlekedési baleseteket és a vízi közlekedés biztonságát veszélyeztető vízi közlekedési eseményeket a felelősség és vétkesség megállapítása céljából. Az eljáró rendőri szerv az eseményről haladéktalanul értesíti a hajózási hatóságot, amely három órán belül nyilatkozik a vizsgálaton való részvételi szándékáról és az úszólétesítmény visszatartásának szükségességéről. A vizsgálatot a nagyhajókon (beleértve az úszó munkagépet és az önjáró kompot) a nagyhajók által okozott, vagy sérelmére történt, illetve a hajóút forgalmának korlátozását eredményező baleset (havaria) esetében Budapest Főváros Kormányhivatala bevonásával végzik.
 
 d) ellenőrzik:
 
@@ -60,7 +60,7 @@ l)[^14] ismeretterjesztő tevékenységet fejtenek ki – az országos és helyi
 
 [^1]: Az 1. §-t az 58/2004. (X. 11.) BM rendelet 6. §-a hatályon kívül helyezte.
 [^2]: A 2. § a) pontját az 50/2012. (X. 11.) BM rendelet 9. § (1) bekezdés a) pontja hatályon kívül helyezte.
-[^3]: A 2. § c) pontja az 50/2012. (X. 11.) BM rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^3]: A 2. § c) pontja az 50/2012. (X. 11.) BM rendelet 1. § (1) bekezdésével megállapított, az 58/2016. (XII. 22.) BM rendelet 2. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § d) pontjának első franciabekezdése a 41/2009. (IX. 15.) IRM rendelet 8. §-a, az 50/2012. (X. 11.) BM rendelet 9. § (1) bekezdés b) pontja szerint módosított szöveg.
 [^5]: A 2. § d) pontjának második franciabekezdése a 41/2009. (IX. 15.) IRM rendelet 8. §-a szerint módosított szöveg. E módosító rendelet 55. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^6]: A 2. § d) pontjának hatodik gondolatjeles bekezdése az 58/2004. (X. 11.) BM rendelet 1. §-ának (2) bekezdésével megállapított szöveg.
