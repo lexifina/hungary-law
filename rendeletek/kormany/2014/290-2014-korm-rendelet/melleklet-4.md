@@ -250,6 +250,6 @@
 
 | 124. | Kedvezményezett járás összesen |  | 109 |  |
 
-4. melléklet a 290/2014. (XI. 26.) Korm. rendelethez[^11]
+4. melléklet a 290/2014. (XI. 26.) Korm. rendelethez[^12]
 
-[^11]: A 4. melléklet a 106/2015. (IV. 23.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.
+[^12]: A 4. melléklet a 106/2015. (IV. 23.) Korm. rendelet 3. § (3) bekezdésével megállapított szöveg.

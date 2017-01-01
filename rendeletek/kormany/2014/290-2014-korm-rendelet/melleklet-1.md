@@ -1,6 +1,6 @@
 ## 8. §[^8]
 
-1. melléklet a 290/2014. (XI. 26.) Korm. rendelethez
+1. melléklet a 290/2014. (XI. 26.) Korm. rendelethez[^9]
 
 ## A térségek társadalmi-gazdasági és infrastrukturális fejlettségét mérő komplex mutató kiszámításánál használt adatok köre és a számítás módszertana
 
@@ -14,7 +14,7 @@ Halálozási ráta (az ezer lakosra jutó halálozások száma) (az utolsó öt 
 
 Vándorlási különbözet ezer lakosra (az utolsó öt év átlaga), fő
 
-Tízezer 0-2 éves állandó lakosra jutó bölcsődei és családi napközis férőhelyek száma, db
+Tízezer 0-2 éves állandó lakosra jutó bölcsődei ellátást és napközbeni gyermekfelügyelet szolgáltatást nyújtó férőhelyek száma, db
 
 Rendszeres gyermekvédelmi kedvezményben részesítettek aránya a 0-24 éves állandó népességből, %
 
@@ -95,3 +95,4 @@ max(): az alapindikátor legnagyobb értéke
 : csoportindikátorok száma
 
 [^8]: A 8. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: Az 1. melléklet a 290/2016. (VII. 13.) Korm. rendelet 22. §-a szerint módosított szöveg.
