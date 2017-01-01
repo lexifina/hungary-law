@@ -1,6 +1,6 @@
 ## 4. Minősítési eljárás
 
-4. § (1) A kérelmező a minősítési eljárást a hatóság által rendszeresített – a (2) bekezdésben meghatározott adattartalmú – formanyomtatvány benyújtásával kérelmezi. A kérelem szóbeli benyújtásának nincs helye. A kérelmet és mellékleteit a kérelmező egy papír alapú példányban nyújtja be a minősítő részére. A kérelmező a kérelmet és mellékleteit a minősítő részére elektronikus adathordozón is megküldi.
+4. § (1) A kérelmező a minősítési eljárást a hatóság által rendszeresített – a (2) bekezdésben meghatározott adattartalmú – formanyomtatvány benyújtásával kérelmezi. A kérelem szóbeli benyújtásának nincs helye.
 
 (2) A kérelem tartalma:
 
@@ -60,7 +60,7 @@ bb) az ISO 14001 szerinti tanúsítvánnyal egyenértékű, a közösségi körn
 
 (5) A kérelmezőnek csatolnia kell a kérelemhez – a (3) és (4) bekezdésben foglaltak mellett – az 5. mellékletben meghatározott környezetvédelmi bírságfizetési kötelezettség hiányáról szóló nyilatkozatát és a 2–4. mellékletben meghatározott környezetirányítási programokat.
 
-(6) A kérelmet, továbbá a kérelmező törvényes vagy meghatalmazott képviselőjétől származó, az (5) bekezdésben meghatározott nyilatkozatot eredeti példányban kell benyújtani.
+(6) A kérelmet, továbbá a kérelmező törvényes vagy meghatalmazott képviselőjétől származó, az (5) bekezdésben meghatározott nyilatkozatot eredeti vagy hiteles másolati példányban kell benyújtani.
 
 (7) A 2–4. mellékletben meghatározott környezetirányítási program minimális tartalma:
 

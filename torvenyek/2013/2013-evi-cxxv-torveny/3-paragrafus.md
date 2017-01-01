@@ -2,7 +2,7 @@
 
 3. § (1) A kérelmező hulladékgazdálkodási közszolgáltatási tevékenységét a minősítő a szolgáltatás biztonsága és a szolgáltatás színvonala alapján minősítési osztályba sorolja, továbbá előírja a hulladékgazdálkodási közszolgáltatási tevékenység végzésével összefüggő feltételeket.
 
-(1a) A minősítőt a minősítési eljárásban a céginformáció beszerzése során a cégnyilvánosságról, a bírósági cégeljárásról és a végelszámolásról szóló törvény szerinti közigazgatási szervnek kell tekinteni.
+(1a)
 
 (2) A minősítő a kérelmezőt csak a kérelemben megjelölt minősítési osztályba sorolhatja.
 
