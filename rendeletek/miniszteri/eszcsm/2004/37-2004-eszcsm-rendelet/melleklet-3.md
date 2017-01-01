@@ -1,3 +1,3 @@
-3. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^20]
+3. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^22]
 
-[^20]: A 3. számú mellékletet a 24/2010. (V. 7.) EüM rendelet 1. § (7) bekezdés b) pontja hatályon kívül helyezte.
+[^22]: A 3. számú mellékletet a 24/2010. (V. 7.) EüM rendelet 1. § (7) bekezdés b) pontja hatályon kívül helyezte.

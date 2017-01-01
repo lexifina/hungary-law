@@ -1,4 +1,4 @@
-2. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^19]
+2. számú melléklet a 37/2004. (IV. 26.) ESZCSM rendelethez[^21]
 
 ## Étrend-kiegészítők gyártásához felhasználható vitamin és ásványi anyag vegyületek
 
@@ -468,4 +468,4 @@
 
 3.7. (7) Krómmal dúsított élesztő, melyet króm(III)-klorid – mint krómforrás – jelenlétében, Saccharomyces cerevisiae tenyészetben állítanak elő, és amely szárított, forgalmazott formában 230–300 mg/kg krómot tartalmaz. A króm(VI)-tartalom nem haladhatja meg a teljes krómtartalom 0,2%-át.
 
-[^19]: A 2. számú melléklet a 24/2010. (V. 7.) EüM rendelet 1. § (5) bekezdésével megállapított, a 15/2012. (III. 12.) NEFMI rendelet 4. §-a, a 32/2014. (IV. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 25. §-a szerint módosított szöveg.
+[^21]: A 2. számú melléklet a 24/2010. (V. 7.) EüM rendelet 1. § (5) bekezdésével megállapított, a 15/2012. (III. 12.) NEFMI rendelet 4. §-a, a 32/2014. (IV. 18.) EMMI rendelet 13. §-a, az 54/2015. (XI. 24.) EMMI rendelet 25. §-a szerint módosított szöveg.

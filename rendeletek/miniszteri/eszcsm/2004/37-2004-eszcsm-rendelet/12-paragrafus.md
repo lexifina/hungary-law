@@ -4,8 +4,10 @@
 
 (2) Az előírások betartásának ellenőrzése érdekében vagy azok megsértése, illetve egészségi ártalom lehetőségének gyanúja esetén a laboratóriumi vizsgálatokat a népegészségügyi feladatkörükben eljáró megyei és fővárosi kormányhivatalok (a továbbiakban: kormányhivatal) laboratóriumai, az OGYÉI, a Nemzeti Élelmiszerlánc-biztonsági Hivatal laboratóriumai, illetve étrend-kiegészítő vizsgálatára akkreditált laboratórium végzi.
 
-(3) A termék minőségi követelményeknek meg nem felelését észlelő személy, illetve az előállító vagy forgalmazó a tudomására jutást követően haladéktalanul köteles erről értesíteni a kormányhivatalt.
+(3)[^9] A termék minőségi követelményeknek meg nem felelését észlelő személy, illetve az előállító vagy forgalmazó a tudomására jutást követően haladéktalanul köteles erről értesíteni a járási hivatalt.
 
-(4) A kormányhivatal a (3) bekezdés szerinti bejelentést kivizsgálja és annak eredményéről gyorsjelentésben értesíti az OGYÉI-t, valamint tájékoztatja az Országos Tisztifőorvosi Hivatalt.
+(4)[^10] A járási hivatal a (3) bekezdés szerinti bejelentést kivizsgálja és annak eredményéről gyorsjelentésben értesíti az OGYÉI-t, valamint tájékoztatja az országos tisztifőorvost.
 
 [^8]: A 12. § a 23/2015. (IV. 28.) EMMI rendelet 57. §-ával megállapított szöveg.
+[^9]: A 12. § (3) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 37. § a) pontja szerint módosított szöveg.
+[^10]: A 12. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 37. § b) és c) pontja szerint módosított szöveg.
