@@ -1,3 +1,3 @@
-11. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^44]
+11. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^45]
 
-[^44]: A 11. számú mellékletet a 26/2007. (VI. 7.) EüM rendelet 4. § (1) bekezdése hatályon kívül helyezte.
+[^45]: A 11. számú mellékletet a 26/2007. (VI. 7.) EüM rendelet 4. § (1) bekezdése hatályon kívül helyezte.

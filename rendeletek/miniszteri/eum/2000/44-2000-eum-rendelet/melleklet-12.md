@@ -1,3 +1,3 @@
-12. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^45]
+12. számú melléklet a 44/2000. (XII. 27.) EüM rendelethez[^46]
 
-[^45]: A 12. számú melléklet a 21/2012. (IV. 4.) NEFMI rendelet 41. § (2) bekezdésével megállapított szöveg.
+[^46]: A 12. számú melléklet a 21/2012. (IV. 4.) NEFMI rendelet 41. § (2) bekezdésével megállapított szöveg.
