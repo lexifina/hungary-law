@@ -1,5 +1,5 @@
-8. § (1)[^7]
+8. § (1)[^8]
 
 (2) Az állami adóhatóság – az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról szóló 1083/2006/EK tanácsi rendelet, valamint az Európai Regionális Fejlesztési Alapról szóló 1080/2006/EK európai parlamenti és a tanácsi rendelet végrehajtására vonatkozó szabályok megállapításáról szóló 1828/2006/EK (2006. december 8.) Bizottsági rendeletben – a tájékoztatásra és nyilvánosságra vonatkozóan meghatározott előírásoknak való megfelelést oly módon biztosítja, hogy a kártya igénylésére rendszeresített adatlapon és a kártya kiadásánál alkalmazott formalevélen feltünteti az Európai Unió és az Új Széchenyi Terv logóját. A kártya igénylésére rendszeresített adatlaphoz tartozó kitöltési útmutatóban az állami adóhatóság tájékoztatást nyújt a START BÓNUSZ kártyákkal történő foglalkoztatáshoz kapcsolódó uniós támogatásról.
 
-[^7]: A 8. § (1) bekezdését a 18/2016. (VI. 9.) NGM rendelet 10. § b) pontja hatályon kívül helyezte.
+[^8]: A 8. § (1) bekezdését a 18/2016. (VI. 9.) NGM rendelet 10. § b) pontja hatályon kívül helyezte.
