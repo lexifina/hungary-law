@@ -62,6 +62,8 @@ u) az egészségügyi szakellátási intézményműködtetési kötelezettség, 
 
 v) az órában és ágyszámban ki nem fejezhető szakellátási kapacitások mértékegységének meghatározására irányuló eljárás szabályait;
 
+v) az egészségügyi ellátási szerződés és a 2. § (1) bekezdés a) pontja szerinti megállapodás tartalmi elemeit.
+
 x) azt a szervet, amelynek a jóváhagyása szükséges az egészségügyi szakellátási intézményműködtetési kötelezettséggel rendelkező egészségügyi közszolgáltatásért felelős szerv által kötött 2. § (3) bekezdés szerinti megállapodás, illetve egészségügyi ellátási szerződés érvényességéhez;
 
 y) a szakellátási feladatnak és vagyonnak a 2. § (2)–(2b) bekezdés szerinti állam általi átvételére és a feladatról való állam általi gondoskodásra vonatkozó eljárási szabályokat, ideértve az eljáró szerv kijelölését is.
