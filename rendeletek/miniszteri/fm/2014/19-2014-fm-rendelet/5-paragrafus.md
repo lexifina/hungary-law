@@ -8,10 +8,10 @@ a) jégesőkár,
 
 b) téli fagykár,
 
-c)[^16] viharkár,
+c)[^24] viharkár,
 
 d) tűzkár.
 
 (3) A biztosító a mezőgazdasági biztosítási szerződésben rögzített biztosítási események bekövetkeztét és valamely érintett, az (1) bekezdés szerinti növénykultúra károsodását a káraktával igazolja.
 
-[^16]: Az 5. § (2) bekezdés c) pontja a 27/2014. (XI. 25.) FM rendelet 20. § (3) bekezdésével megállapított szöveg.
+[^24]: Az 5. § (2) bekezdés c) pontja a 27/2014. (XI. 25.) FM rendelet 20. § (3) bekezdésével megállapított szöveg.

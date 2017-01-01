@@ -28,6 +28,6 @@
 
 ## 14. tavaszi búza
 
-3. melléklet a 19/2014. (X. 29.) FM rendelethez[^29]
+3. melléklet a 19/2014. (X. 29.) FM rendelethez[^44]
 
-[^29]: A 3. melléklet a 20/2015. (IV. 27.) FM rendelet 6. § b) pontjával megállapított szöveg.
+[^44]: A 3. melléklet a 20/2015. (IV. 27.) FM rendelet 6. § b) pontjával megállapított szöveg.

@@ -16,7 +16,7 @@
 
 ## 3.3. táblasorszám;
 
-## 4. a biztosítani kívánt növénykultúra termelési adatai a tárgyévet megelőző 5 évben évenkénti bontásban[^27]:
+## 4. a biztosítani kívánt növénykultúra termelési adatai a tárgyévet megelőző 5 évben évenkénti bontásban[^42]:
 
 ## 4.1. terület (ha) a tárgyévet megelőző 5 évben, évenkénti bontásban
 
@@ -24,7 +24,7 @@
 
 ## 4.3. hozam (t/ha) a tárgyévet megelőző 5 évben évenkénti bontásban
 
-2. melléklet a 19/2014. (X. 29.) FM rendelethez[^28]
+2. melléklet a 19/2014. (X. 29.) FM rendelethez[^43]
 
-[^27]: Amennyiben a mezőgazdasági termelő nem rendelkezik ilyen adatokkal, úgy a 3. § (7) bekezdés szerint kell eljárni.
-[^28]: A 2. melléklet a 20/2015. (IV. 27.) FM rendelet 6. § a) pontjával megállapított szöveg.
+[^42]: Amennyiben a mezőgazdasági termelő nem rendelkezik ilyen adatokkal, úgy a 3. § (7) bekezdés szerint kell eljárni.
+[^43]: A 2. melléklet a 20/2015. (IV. 27.) FM rendelet 6. § a) pontjával megállapított szöveg.
