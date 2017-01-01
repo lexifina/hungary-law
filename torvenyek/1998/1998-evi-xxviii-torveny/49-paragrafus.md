@@ -22,7 +22,7 @@ h) az eb okozta fizikai sérülés, illetve ennek veszélye keletkezésekor felm
 
 i) a transzponderrel megjelölt ebek adatait nyilvántartó országos adatbázis működési feltételeit, valamint az adatbázisba történő regisztráció díját,
 
-j) az ebek viselkedésének megítélésében jártas szakértők engedélyezésére vonatkozó részletes szabályokat
+j) az ebek viselkedésének megítélésében jártas szakértői tevékenység bejelentésére vonatkozó részletes szabályokat
 
 rendeletben állapítsa meg.
 
