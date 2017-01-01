@@ -60,9 +60,9 @@
 
 ## 6. Nyilatkozatok.
 
-## 6.1. Tudomásul veszi, hogy az MVH-val a kapcsolattartás a mezőgazdasági, agrár-vidékfejlesztés, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) 28. § (1) bekezdése szerinti Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe bejelentett adatok alapján történik.
+## 6.1. Tudomásul veszi, hogy a Kincstárral a kapcsolattartás a mezőgazdasági, agrár-vidékfejlesztés, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) 28. § (1) bekezdése szerinti Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe bejelentett adatok alapján történik.
 
-## 6.2. Tudomásul veszi, hogy az adatok megváltozása esetében a 2007. évi XVII. törvény 29. § (1) bekezdése alapján a változást köteles az MVH felé tizenöt napon belül bejelenteni, és amennyiben ezen bejelentési kötelezettséget elmulasztja, az ebből adódó - a 2007. évi XVII. törvény 29. § (5) bekezdésében, valamint 30/A. §-ában foglalt - jogkövetkezmények terhelik.
+## 6.2. Tudomásul veszi, hogy az adatok megváltozása esetében a 2007. évi XVII. törvény 29. § (1) bekezdése alapján a változást köteles a Kincstár felé tizenöt napon belül bejelenteni, és amennyiben ezen bejelentési kötelezettséget elmulasztja, az ebből adódó - a 2007. évi XVII. törvény 29. § (5) bekezdésében, valamint 30/A. §-ában foglalt - jogkövetkezmények terhelik.
 
 ## 6.3. Tudomásul veszi, hogy a jogosulatlanul igénybe vett támogatás és az egyéb fizetési kötelezettség adók módjára behajtandó köztartozásnak minősül, melyet az állami adóhatóság hajt be.
 

@@ -16,12 +16,16 @@ c) tájékoztató és promóciós anyagok készítése.
 
 (4) A támogatás további céljairól és a támogatható egyéb tevékenységekről, a pályázók lehetséges köréről, a pénzügyi feltételekről és a benyújtási határidőről a miniszter pályázatot ad ki.
 
-(5) A miniszter a pályázatokra vonatkozó döntés előkészítése érdekében véleményező szervként az MVH, a miniszter által vezetett minisztérium, valamint a Tej Szakmaközi Szervezet és Terméktanács szakértőiből álló Bíráló Bizottságot állít fel. A Bíráló Bizottság tagjait a miniszter ideiglenes hatállyal nevezi ki, és működési rendjét a miniszter állapítja meg.
+(5)[^44] A miniszter a pályázatokra vonatkozó döntés előkészítése érdekében véleményező szervként a Kincstár, a miniszter által vezetett minisztérium, valamint a Tej Szakmaközi Szervezet és Terméktanács szakértőiből álló Bíráló Bizottságot állít fel. A Bíráló Bizottság tagjait a miniszter ideiglenes hatállyal nevezi ki, és működési rendjét a miniszter állapítja meg.
 
 (6) A Bíráló Bizottság a pályázatok között a pályázati kiírásban meghatározott feltételek alapján rangsort állít fel, és támogatási javaslatot tesz a miniszter részére.
 
 (7) A támogatásra vonatkozó döntést a Bíráló Bizottság javaslata alapján és bevonásával a miniszter hozza meg. A programot népszerűsítő edukációs program végrehajtása vonatkozásában a miniszter jogosult szerződést kötni.
 
-(8) A támogatási döntésről – annak meghozatalát követő tíz napon belül – a miniszter írásban értesíti a pályázót, és ezzel egyidejűleg értesítést küld az MVH részére.
+(8)[^45] A támogatási döntésről – annak meghozatalát követő tíz napon belül – a miniszter írásban értesíti a pályázót, és ezzel egyidejűleg értesítést küld a Kincstár részére.
 
-(9) A kifizetési kérelmet az MVH-hoz kell benyújtani a megvalósítást alátámasztó dokumentumokkal, kifizetési bizonylatokkal. A kifizetési kérelemhez csatolni kell a megbízási vagy vállalkozási szerződést, és a miniszter arról szóló igazolását, hogy a nyertes pályázó által történt megvalósítást teljesítettnek ítéli (teljesítés-igazolás).
+(9)[^46] A kifizetési kérelmet a Kincstárhoz kell benyújtani a megvalósítást alátámasztó dokumentumokkal, kifizetési bizonylatokkal. A kifizetési kérelemhez csatolni kell a megbízási vagy vállalkozási szerződést, és a miniszter arról szóló igazolását, hogy a nyertes pályázó által történt megvalósítást teljesítettnek ítéli (teljesítés-igazolás).
+
+[^44]: A 23. § (5) bekezdése a 88/2016. (XII. 29.) FM rendelet 84. § c) pontja szerint módosított szöveg.
+[^45]: A 23. § (8) bekezdése a 88/2016. (XII. 29.) FM rendelet 84. § c) pontja szerint módosított szöveg.
+[^46]: A 23. § (9) bekezdése a 88/2016. (XII. 29.) FM rendelet 84. § g) pontja szerint módosított szöveg.

@@ -216,13 +216,13 @@
 
 ## 6. Minőségi kifogások
 
-## A felek kötelezik magukat arra, hogy amennyiben az átvételkor megállapítást nyer, hogy a termék minősége nem felel meg a rendelet 2. mellékletben előírtaknak, az átvételért felelős személy köteles azt a szállító felé jelezni, és a szállító köteles … napon belül a kifogásolt terméket kicserélni. Abban az esetben, ha a szállító a fenti kötelezettségének nem tesz határidőben eleget, úgy az átvételért felelős személy köteles a minőségi kifogást jegyzőkönyvben rögzíteni és azt a szállító képviselőjével aláíratni, valamint a jegyzőkönyv másolatát a szállító részére átadni. A szállító köteles együttműködni a nevelési-oktatási intézménnyel és fenntartójával vagy annak képviselőjével a minőségi kifogás jegyzőkönyvezése során. A szállító tudomásul veszi, hogy a minőségi kifogásról a fenntartó/működtető köteles az MVH-t értesíteni.
+## A felek kötelezik magukat arra, hogy amennyiben az átvételkor megállapítást nyer, hogy a termék minősége nem felel meg a rendelet 2. mellékletben előírtaknak, az átvételért felelős személy köteles azt a szállító felé jelezni, és a szállító köteles … napon belül a kifogásolt terméket kicserélni. Abban az esetben, ha a szállító a fenti kötelezettségének nem tesz határidőben eleget, úgy az átvételért felelős személy köteles a minőségi kifogást jegyzőkönyvben rögzíteni és azt a szállító képviselőjével aláíratni, valamint a jegyzőkönyv másolatát a szállító részére átadni. A szállító köteles együttműködni a nevelési-oktatási intézménnyel és fenntartójával vagy annak képviselőjével a minőségi kifogás jegyzőkönyvezése során. A szállító tudomásul veszi, hogy a minőségi kifogásról a fenntartó/működtető köteles a Kincstárt értesíteni.
 
 ## 7. Számlázás és fizetési feltételek
 
 ## A leszállított termékről a szállító a fenntartó/működtető részére hetente/havonta/szállítási időszakonként egy, az átadott termék adagban kifejezett mennyiségét teljesítési helyszínenként, az ellátott intézményegység nevét, címét, OM azonosítóját, és feladat ellátási hely kódját, a leszállított termék megnevezését, termékkategóriáját, tej, illetve ízesített tej esetében annak zsírtartalmát, a termékek ellenértékét, továbbá, amennyiben a szállító az előfinanszírozó, úgy tételesen a leszállított termék ellenértékének támogatástartalmát, valamint az egyes szállítások időpontjait, továbbá a szállítólevelek számát is tartalmazó számlát állít ki.
 
-## A szállítónak tudomása van arról, hogy amennyiben a szállító vállalta az előfinanszírozó szerepét, úgy a rendelet értelmében a leszállított és a kedvezményezettek részére kiosztott termék mennyisége alapján, a rendelet 16-18. §-ának figyelembe vételével támogatást igényelhet az MVH-n keresztül. A termékek után járó támogatás összegét az MVH a rendeletben szabályozott módon, a szállító, mint kérelmező számlájára közvetlenül, utólag téríti meg. Fenntartó/működtető a rendelet 16. § (2)-(3) bekezdésében, 17. § (1) bekezdésében, továbbá a 18. §-ban megjelölt esetekben a számla bruttó értéke és a támogatástartalom különbözetét köteles a szállítónak megtéríteni.
+## A szállítónak tudomása van arról, hogy amennyiben a szállító vállalta az előfinanszírozó szerepét, úgy a rendelet értelmében a leszállított és a kedvezményezettek részére kiosztott termék mennyisége alapján, a rendelet 16-18. §-ának figyelembe vételével támogatást igényelhet a Kincstáron keresztül. A termékek után járó támogatás összegét a Kincstár a rendeletben szabályozott módon, a szállító, mint kérelmező számlájára közvetlenül, utólag téríti meg. Fenntartó/működtető a rendelet 16. § (2)-(3) bekezdésében, 17. § (1) bekezdésében, továbbá a 18. §-ban megjelölt esetekben a számla bruttó értéke és a támogatástartalom különbözetét köteles a szállítónak megtéríteni.
 
 ## Abban az esetben, ha a leszállított termékek bruttó vételára meghaladja a rendelet 15. §-ában megjelölt maximum támogatási mértéket, a támogatás és a bruttó vételár különbözetét a fenntartó/működtető köteles megtéríteni a szállítónak.
 
@@ -302,7 +302,7 @@
 
 ## 6. selejtezési jegyzőkönyvet vezetni azon termékekről, amelyek a nevelési-oktatási intézményben történő tárolás alatt romlottak meg, vagy sérülésük, szennyeződésük miatt emberi fogyasztásra nem használhatóak fel;
 
-## 7. a termékek átvételekor emelt minőségi kifogást jegyzőkönyvben rögzíteni, és minőségi kifogásról a fenntartón/működtetőn keresztül az MVH-t értesíteni;
+## 7. a termékek átvételekor emelt minőségi kifogást jegyzőkönyvben rögzíteni, és minőségi kifogásról a fenntartón/működtetőn keresztül a Kincstárt értesíteni;
 
 ## 8. az óvoda-, és iskolatej programot népszerűsítő plakátot a program teljes időtartama alatt a főbejáratánál elhelyezni.
 
@@ -356,4 +356,6 @@
 
 | 4. | Intézmény-egység neve és címe: Feladat ellátási hely kód: ⬜⬜⬜ |  |  |  |  |  |  |  |  |  |  |
 
-4. melléklet a 19/2015. (IV. 24.) FM rendelethez
+4. melléklet a 19/2015. (IV. 24.) FM rendelethez[^52]
+
+[^52]: A 4. melléklet a 88/2016. (XII. 29.) FM rendelet 84. § c) pontja szerint módosított szöveg.

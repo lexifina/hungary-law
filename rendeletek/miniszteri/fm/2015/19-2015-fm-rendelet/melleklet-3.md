@@ -26,4 +26,6 @@
 
 ## 3.5. Nagyobb kiszerelési egységű termék (ún. lédig termék) kiosztását az élelmiszerbiztonság veszélyeztetése nélkül úgy kell elvégezni, hogy a termékben minőségi romlás ne következzék be.
 
-3. melléklet a 19/2015. (IV. 24.) FM rendelethez
+3. melléklet a 19/2015. (IV. 24.) FM rendelethez[^51]
+
+[^51]: A 3. melléklet a 88/2016. (XII. 29.) FM rendelet 84. § c), j) és m) pontja szerint módosított szöveg.

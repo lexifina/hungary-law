@@ -48,8 +48,10 @@ s) iratmegőrzési hely meghatározása.
 
 (6) A szállítási szerződésnek a kérelmező személyére vonatkozó eleme nem módosítható.
 
-(7) Ha a szállító az előfinanszírozó, a szállítási szerződés megköthető a nevelési-oktatási intézmény működtetőjével. A szerződéskötés fenntartó általi jóváhagyásról szóló dokumentumot a szerződéssel együtt – a 11. § (1) bekezdésében meghatározott határidő szerint – kell a szállítónak megküldenie az MVH részére.
+(7)[^17] Ha a szállító az előfinanszírozó, a szállítási szerződés megköthető a nevelési-oktatási intézmény működtetőjével. A szerződéskötés fenntartó általi jóváhagyásról szóló dokumentumot a szerződéssel együtt – a 11. § (1) bekezdésében meghatározott határidő szerint – kell a szállítónak megküldenie a Kincstár részére.
 
 (8) A (7) bekezdés szerint megkötött szállítási szerződések esetén a számlákat a szállítónak a nevelési-oktatási intézmény működtetője részére kell kiállítania a 13. § (2) bekezdése szerinti adattartalommal, továbbá a 13. § (4) bekezdése szerinti esetben a bruttó számlaérték és a támogatástartalom különbözetét a nevelési-oktatási intézmény működtetőjének kell megfizetni a szállító részére.
 
 (9) A (7) bekezdés szerint megkötött szállítási szerződések esetében az e rendelet szerinti, fenntartóra vonatkozó szabályok a nevelési-oktatási intézmény működtetőjére is alkalmazandóak.
+
+[^17]: A 10. § (7) bekezdése a 88/2016. (XII. 29.) FM rendelet 84. § c) pontja szerint módosított szöveg.

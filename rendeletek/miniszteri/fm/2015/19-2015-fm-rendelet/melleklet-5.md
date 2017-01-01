@@ -46,12 +46,14 @@
 
 ## 5.5. Kijelenti, hogy a helyszíni ellenőrzés lefolytatása során az ellenőrzéssel kapcsolatos feladatok elvégzését elősegíti, valamint az általa vezetett nyilvántartásokat és az ezzel kapcsolatos valamennyi iratot szükség esetén az ellenőrök rendelkezésre bocsátja.
 
-## 5.6. Kijelenti, hogy haladéktalanul az MVH tudomására hoz mindennemű, a szállítási szerződésben szereplő adatokkal kapcsolatos változást, a változástól számított tizenöt napon belül.
+## 5.6. Kijelenti, hogy haladéktalanul a Kincstár tudomására hoz mindennemű, a szállítási szerződésben szereplő adatokkal kapcsolatos változást, a változástól számított tizenöt napon belül.
 
-## .5.7. Tudomásul veszi, hogy amennyiben az intézkedéssel kapcsolatban lejárt tartozása áll fenn, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatáshoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) 38. § (9) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a fizetési számlavezető pénzforgalmi szolgáltató a végrehajtható okirat csatolása nélkül köteles teljesíteni. Tudomásul veszi, hogy e nyilatkozat hiányában a kérelmet az MVH a 2007. évi XVII. törvény alapján érdemi vizsgálat nélkül elutasítja.
+## 5.7. Tudomásul veszi, hogy amennyiben az intézkedéssel kapcsolatban lejárt tartozása áll fenn, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatáshoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) 38. § (9) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a fizetési számlavezető pénzforgalmi szolgáltató a végrehajtható okirat csatolása nélkül köteles teljesíteni. Tudomásul veszi, hogy e nyilatkozat hiányában a kérelmet a Kincstár a 2007. évi XVII. törvény alapján érdemi vizsgálat nélkül elutasítja.
 
 ## 5.8. Kijelenti, hogy az 5.1. és 5.3. pontokban részletezett kötelezettségeket a támogatott termékekkel ellátott intézmény fenntartójával vagy működtetőjével megismertette, és gondoskodott ezen kötelezettségek szállítási szerződésben való rögzítéséről.
 
 ## 5.9. Alulírott büntetőjogi felelőssége tudatában kijelenti, hogy a szállítási szerződés jóváhagyása iránti kérelemben és a csatolt mellékletekben feltüntetett adatok a valóságnak megfelelnek.
 
-5. melléklet a 19/2015. (IV. 24.) FM rendelethez
+5. melléklet a 19/2015. (IV. 24.) FM rendelethez[^53]
+
+[^53]: Az 5. melléklet a 88/2016. (XII. 29.) FM rendelet 84. § c) és h) pontja szerint módosított szöveg.

@@ -22,9 +22,9 @@
 
 ## 6.5. Kijelenti, hogy a helyszíni ellenőrzés lefolytatása során az ellenőrzéssel kapcsolatos feladatok elvégzését elősegíti, valamint az általa vezetett nyilvántartásokat és az ezzel kapcsolatos valamennyi iratot szükség esetén az ellenőrök rendelkezésre bocsátja.
 
-## 6.6. Kijelenti, hogy az MVH tudomására hoz mindennemű, az előzetes jóváhagyási kérelemben szereplő adatokkal kapcsolatos változást, a változástól számított tizenöt napon belül.
+## 6.6. Kijelenti, hogy a Kincstár tudomására hoz mindennemű, az előzetes jóváhagyási kérelemben szereplő adatokkal kapcsolatos változást, a változástól számított tizenöt napon belül.
 
-## 6.7. Tudomásul veszi, hogy amennyiben az intézkedéssel kapcsolatban lejárt tartozása áll fenn, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatáshoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) 38. § (9) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a fizetési számláját vezető pénzforgalmi szolgáltató a végrehajtható okirat csatolása nélkül köteles teljesíteni. Tudomásul veszi, hogy e nyilatkozat hiányában a kérelmet az MVH a 2007. évi XVII. törvény alapján érdemi vizsgálat nélkül elutasíthatja.
+## 6.7. Tudomásul veszi, hogy amennyiben az intézkedéssel kapcsolatban lejárt tartozása áll fenn, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatáshoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: 2007. évi XVII. törvény) 38. § (9) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a fizetési számláját vezető pénzforgalmi szolgáltató a végrehajtható okirat csatolása nélkül köteles teljesíteni. Tudomásul veszi, hogy e nyilatkozat hiányában a kérelmet a Kincstár a 2007. évi XVII. törvény alapján érdemi vizsgálat nélkül elutasíthatja.
 
 ## 6.8. Kijelenti, hogy a 6.1. és 6.3. pontokban részletezett kötelezettségeket a támogatott termékekkel ellátott intézmény fenntartójával/működtetőjével megismerteti, és gondoskodik ezen kötelezettségek szállítási szerződésben való rögzítéséről.
 
