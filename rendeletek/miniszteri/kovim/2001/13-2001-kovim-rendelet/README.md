@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-13-20-9
 | 2015-03-12 | 2001-13-20-93.17 | 10/2015. (III. 11.) NFM rendelet |
 | 2016-12-01 | 2001-13-20-93.18 | 9/2008. (III. 21.) GKM rendelet |
 | 2016-12-12 | 2001-13-20-93.19 | 52/2016. (XII. 9.) NFM rendelet |
+| 2017-01-01 | 2001-13-20-93.20 | 1/2010. (I. 8.) KHEM rendelet |
