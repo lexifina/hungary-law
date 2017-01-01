@@ -1,6 +1,6 @@
 ## Az erdészeti szaporítóanyagokkal kapcsolatos jogszabálysértések
 
-7. § (1)[^14] Az erdészeti szaporítóanyagokról szóló 110/2003. (X. 21.) FVM rendeletben foglaltak megsértése esetén a NÉBIH, illetve a megyei kormányhivatal a minőségvédelmi bírságot az e §-ban foglaltak szerint szabja ki.
+7. § (1)[^14] Az erdészeti szaporítóanyagokról szóló 110/2003. (X. 21.) FVM rendeletben foglaltak megsértése esetén a NÉBIH, illetve a járási hivatal a minőségvédelmi bírságot az e §-ban foglaltak szerint szabja ki.
 
 (2) A minőségvédelmi bírság mértéke legalább 50 000 forint, de legfeljebb 1 500 000 forint azzal szemben, aki
 
@@ -32,4 +32,4 @@ d) az importelőírásokat megsérti, a belföldiesítést elkerüli, vagy
 
 e) zárlati termesztés esetén a ki nem szállított szaporítóanyagot forgalomba hozza, ha a faj, származás vagy fajta Magyarországon nem szaporítható és nem használható fel.
 
-[^14]: A 7. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 130. § (5) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 11. § d) pontja, a 70/2015. (III. 30.) Korm. rendelet 69. § b) pontja szerint módosított szöveg.
+[^14]: A 7. § (1) bekezdése a 351/2010. (XII. 30.) Korm. rendelet 130. § (5) bekezdésével megállapított, a 23/2012. (II. 29.) Korm. rendelet 11. § d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 62. § b) pontja szerint módosított szöveg.
