@@ -1,22 +1,25 @@
-## 9. §[^7]
+## 9. §[^5]
 
 10. § (1) Az Áhsz.
 
-1.[^8]
+1.[^6]
 
-2.[^9]
+2. 4. melléklete a 4. melléklet,
 
-3–4.[^10]
+3–4.[^7]
 
-5–6.[^11]
+5. 15. melléklete a 7. melléklet,
+
+6. 16. melléklete a 8. melléklet
 
 ## szerint módosul.
 
-(2)[^12]
+(2) Az Áhsz.
 
-[^7]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^8]: A 10. § (1) bekezdés 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^9]: A 10. § (1) bekezdés 2. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^10]: A 10. § (1) bekezdés 3–4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^11]: A 10. § (1) bekezdés 5–6. pontja a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
-[^12]: A 10. § (2) bekezdése a 13. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+1. 1. melléklete helyébe az 1. melléklet,
+
+2. 2. melléklete helyébe a 2. melléklet
+
+[^5]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^6]: A 10. § (1) bekezdés 1. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^7]: A 10. § (1) bekezdés 3–4. pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
