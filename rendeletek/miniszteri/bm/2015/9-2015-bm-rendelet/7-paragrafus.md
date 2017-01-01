@@ -2,7 +2,7 @@
 
 7. § (1)[^6] A gazdálkodó szervezeteknél tűzvédelmi szakágazatban foglalkoztatottak közül legalább középszintű tűzvédelmi szakképesítéssel rendelkező személyt minimum havi 8 órában kell foglalkoztatni vagy megbízni abban az esetben, ha:
 
-a)[^7] a gazdálkodó szervezet robbanásveszélyes osztályba tartozó anyagot állít elő, dolgoz fel, forgalomba hoz, tárol és az egy telephelyen előállított, feldolgozott, forgalmazott, tárolt anyag együttes, egyidejű mennyisége meghaladja az 5000 kg vagy 5000 liter, kivéve az üzemanyagtöltő állomást üzemeltető gazdálkodó szervezetet,
+a)[^7] a gazdálkodó szervezet robbanásveszélyes osztályba tartozó anyagot állít elő, dolgoz fel, tárol és az egy telephelyen előállított, feldolgozott, tárolt anyag együttes, egyidejű mennyisége meghaladja az 1000 kg-ot vagy 1000 litert, de legfeljebb 5000 kg vagy 5000 liter, kivéve az üzemanyagtöltő állomást üzemeltető gazdálkodó szervezetet,
 
 b) a gazdálkodó szervezet tűzveszélyes osztályba tartozó anyagot, terméket tárol és az egy telephelyen a szabadtéri és az épületen belüli tárolásra szolgáló, összesített alapterület meghaladja az 1000 m2-t, de legfeljebb 10 000 m2,
 
@@ -48,7 +48,7 @@ dc) amelyben menekülésben korlátozott személyek elhelyezése, ellátása, ke
 
 [^5]: A 6. § a 46/2016. (XI. 23.) BM rendelet 5. §-ával megállapított szöveg.
 [^6]: A 7. § (1) bekezdése a 46/2016. (XI. 23.) BM rendelet 13. § a) pontja szerint módosított szöveg.
-[^7]: A 7. § (1) bekezdés a) pontja a 46/2016. (XI. 23.) BM rendelet 13. § b) pontja szerint módosított szöveg.
+[^7]: A 7. § (1) bekezdés a) pontja az 58/2016. (XII. 22.) BM rendelet 48. §-ával megállapított szöveg.
 [^8]: A 7. § (2) bekezdése a 46/2016. (XI. 23.) BM rendelet 13. § a) pontja szerint módosított szöveg.
 [^9]: A 7. § (2) bekezdés b) pontja a 46/2016. (XI. 23.) BM rendelet 13. § c) pontja szerint módosított szöveg.
 [^10]: A 7. § (3) bekezdése a 46/2016. (XI. 23.) BM rendelet 13. § a) pontja szerint módosított szöveg.

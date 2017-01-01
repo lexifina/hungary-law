@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2015-9-20-0A
 | 2015-04-02 | 2015-9-20-0A.1 | 9/2015. (III. 25.) BM rendelet |
 | 2015-04-03 | 2015-9-20-0A.2 | 2010: CXXX. törvény |
 | 2016-12-01 | 2015-9-20-0A.3 | 46/2016. (XI. 23.) BM rendelet |
+| 2017-01-01 | 2015-9-20-0A.4 | 58/2016. (XII. 22.) BM rendelet |
