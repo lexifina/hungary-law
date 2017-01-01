@@ -1,3 +1,0 @@
-68. § (1) Abban az esetben, ha e törvény hatálybalépésének napja előtt a szolgáltatásnyújtás teljesítését megelőzően olyan előlegfizetés történt, amelyhez fizetendőadó-megállapítási kötelezettség kapcsolódott, de e törvény hatálybalépésének napján vagy azt követően a szolgáltatásnyújtás teljesítése már nem esik az Áfa tv. területi hatálya alá, az előleg utáni fizetendőadó-megállapítási kötelezettség és az ehhez fűződő egyéb, az Áfa tv.-ben szabályozott kötelezettség és jogosultság megszűnik.
-
-(2) Abban az esetben, ha az (1) bekezdés végrehajtása önellenőrzést igényel, az önellenőrzés pótlékmentesen végezhető el.
