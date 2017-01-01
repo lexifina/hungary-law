@@ -1,1 +1,0 @@
-## 1. § A Kormány az MVH Szolgáltató Nonprofit Korlátolt Felelősségű Társaságot (székhelye: 1095 Budapest, Soroksári út 22–24., cégjegyzékszáma: 01-09-973105, főtevékenysége: TEÁOR 6201 '08- Számítógépes programozás, adószáma: 23595820-2-43) az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 11/A. §-a alapján 2015. február 25. napjával megszünteti.
