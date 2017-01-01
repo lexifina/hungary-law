@@ -2,7 +2,7 @@
 
 ## Kereskedelem
 
-20. §[^98] (1) A földgáz-kereskedelmi működési engedélyt kérelmezőnek rendelkeznie kell:
+20. §[^96] (1) A földgáz-kereskedelmi működési engedélyt kérelmezőnek rendelkeznie kell:
 
 a) 1 évre szóló, könyvvizsgáló által a 7. számú mellékletben megadott szempontok szerint ellenőrzött üzleti tervvel, amely a kérelmező egyéb tevékenységeitől elkülönítve tartalmazza a földgáz-kereskedelmi tevékenységet, a hozzá kapcsolódó költségeket, a pénzforgalmat,
 
@@ -12,9 +12,9 @@ c) az engedélyköteles tevékenység folytatásához szükséges, földgázell�
 
 d) az ÜKSZ vonatkozó rendelkezéseit kielégítő adatforgalmi és informatikai rendszerrel,
 
-e)[^99] az engedélyes tevékenység végzéséhez a szállítási rendszerüzemeltetővel való folyamatos kapcsolattartásra alkalmas személyi és tárgyi feltételekkel,
+e)[^97] az engedélyes tevékenység végzéséhez a szállítási rendszerüzemeltetővel való folyamatos kapcsolattartásra alkalmas személyi és tárgyi feltételekkel,
 
-f)[^100]
+f)[^98]
 
 (2) A földgáz kereskedelemre vonatkozó engedély iránti kérelemhez az e rendelet 5. számú mellékletének VI. fejezetében meghatározott iratokat kell benyújtani.
 
@@ -24,6 +24,6 @@ a) a felhasználók hozzáférhessenek a saját adataikhoz, valamint a közérde
 
 b) kapcsolt vállalkozása sem közvetlenül, sem közvetve ne részesüljön előnyben.
 
-[^98]: A Vhr. 20. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^99]: A Vhr. 20. § (1) bekezdés e) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (2) bekezdése szerint módosított szöveg.
-[^100]: A Vhr. 20. § (1) bekezdés f) pontját a 254/2015. (IX. 10.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.
+[^96]: A Vhr. 20. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^97]: A Vhr. 20. § (1) bekezdés e) pontja a 378/2011. (XII. 31.) Korm. rendelet 79. § (2) bekezdése szerint módosított szöveg.
+[^98]: A Vhr. 20. § (1) bekezdés f) pontját a 254/2015. (IX. 10.) Korm. rendelet 22. § a) pontja hatályon kívül helyezte.

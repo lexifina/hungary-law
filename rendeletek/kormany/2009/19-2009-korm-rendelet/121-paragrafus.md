@@ -1,7 +1,7 @@
-121. §[^410] (1)[^411] Az engedélyes az üzletszabályzatát évente köteles felülvizsgálni. Az üzletszabályzat felülvizsgálatának ki kell terjednie a jogszabályok és a kapcsolódó szabályzatok változására és az engedélyes által alkalmazott működési gyakorlatból eredő változásokra és szerződéses rendszerekre. Ha a felülvizsgálat során az engedélyes megállapítja, hogy a változás a jóváhagyott üzletszabályzat tartalmát lényegesen érinti, köteles a módosítást átvezetni, és a változásokkal egységes szerkezetbe foglalt alkalmazni kívánt üzletszabályzatát haladéktalanul benyújtani a Hivatalhoz jóváhagyásra.
+121. §[^417] (1)[^418] Az engedélyes az üzletszabályzatát legalább félévente köteles felülvizsgálni. Az üzletszabályzat felülvizsgálatának ki kell terjednie a jogszabályok és a kapcsolódó szabályzatok változására és az engedélyes által alkalmazott működési gyakorlatból eredő változásokra és szerződéses rendszerekre. Ha a felülvizsgálat során az engedélyes megállapítja, hogy a változás a jóváhagyott üzletszabályzat tartalmát lényegesen érinti, köteles a módosítást átvezetni, és a változásokkal egységes szerkezetbe foglalt alkalmazni kívánt üzletszabályzatát haladéktalanul benyújtani a Hivatalhoz jóváhagyásra.
 
-(2)[^412]
+(2)[^419]
 
-[^410]: A Vhr. 121. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^411]: A Vhr. 121. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése szerint módosított szöveg.
-[^412]: A Vhr. 121. § (2) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.
+[^417]: A Vhr. 121. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
+[^418]: A Vhr. 121. § (1) bekezdése a 378/2011. (XII. 31.) Korm. rendelet 79. § (9) bekezdése, a 458/2016. (XII. 23.) Korm. rendelet 23. § d) pontja szerint módosított szöveg.
+[^419]: A Vhr. 121. § (2) bekezdését a 378/2011. (XII. 31.) Korm. rendelet 80. § (1) bekezdése hatályon kívül helyezte.

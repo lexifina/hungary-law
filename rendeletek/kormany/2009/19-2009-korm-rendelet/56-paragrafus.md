@@ -8,7 +8,7 @@ a) a szociális igazgatásról és szociális ellátásokról szóló 1993. évi
 
 b) a Szoctv. 33. §-a szerinti aktív korúak ellátására jogosult,
 
-c)[^218] a Szoctv. 38. §-a szerinti lakásfenntartási támogatásban vagy a Szoctv. 45. § (1) bekezdés a) pontja szerint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül,
+c)[^218] a Szoctv. 45. § (1) bekezdés a) pontja szerint a lakhatáshoz kapcsolódó rendszeres kiadások viseléséhez nyújtott települési támogatásban részesül,
 
 d) a Szoctv. 40–44. §-a szerinti ápolási díjban részesül,
 
@@ -43,5 +43,5 @@ eredeti példányának bemutatásával igazolhatja. A földgázelosztó az igazo
 (9) Jogosultságának a GET 66. § (6) bekezdése szerinti ismételt igazolására a szociálisan rászoruló fogyasztó első ízben a nyilvántartásba történő felvételét követő naptári évben köteles.
 
 [^217]: A Vhr. 56. §-a a 165. §-ának (3) bekezdése alapján 2009. július 1-jén lép hatályba.
-[^218]: A Vhr. 56. § (1) bekezdés c) pontja a 24/2015. (II. 20.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^218]: A Vhr. 56. § (1) bekezdés c) pontja a 24/2015. (II. 20.) Korm. rendelet 33. §-ával megállapított, a 458/2016. (XII. 23.) Korm. rendelet 24. § b) pontja szerint módosított szöveg.
 [^219]: A Vhr. 56. § (1) bekezdés h) pontját a 130/2013. (V. 2.) Korm. rendelet 4. §-a iktatta be.

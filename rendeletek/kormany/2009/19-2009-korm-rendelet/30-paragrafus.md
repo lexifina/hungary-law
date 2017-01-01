@@ -1,6 +1,6 @@
 ## (A GET 39. §-ához)
 
-30. §[^144] (1) Az egyetemes szolgáltatónak biztosítania kell a szolgáltatási területén vele szerződést kötő egyetemes szolgáltatásra jogosult felhasználók folyamatos gázellátását legalább
+30. §[^142] (1) Az egyetemes szolgáltatónak biztosítania kell a szolgáltatási területén vele szerződést kötő egyetemes szolgáltatásra jogosult felhasználók folyamatos gázellátását legalább
 
 a) az elmúlt százhúsz hónap téli időszakai közül a szolgáltatási terület vonatkozásában a legmagasabb napfok számúnak megfelelő mértékig, és
 
@@ -18,4 +18,4 @@ a) március 31-ig a lekötött tárolói és szállítói kapacitásokat,
 
 b) október 1-jéig a betárolt mobilkészlet mértékét.
 
-[^144]: A Vhr. 30. §-a az 56/2016. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^142]: A Vhr. 30. §-a az 56/2016. (III. 25.) Korm. rendelet 2. §-ával megállapított szöveg.

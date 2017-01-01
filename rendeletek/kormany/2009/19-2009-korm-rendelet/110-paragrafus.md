@@ -1,4 +1,4 @@
-110. §[^370] (1) A kereskedési platformon forgalmazott termékeket a kereskedési platform szabályzata tartalmazza. A szabályozást úgy kell kialakítani a 312/2014/EU bizottsági rendeletben meghatározott rendelkezések alkalmazásával, hogy a gázforgalmazás előkészítését, de legalább a gáznapi egyensúlyozást és annak gáznapot követő elszámolásához szükséges fizikai termékek kereskedelmét lehetővé tegye a földgázszállító rendszer fizikai korlátainak figyelembevétele mellett.
+110. §[^376] (1) A kereskedési platformon forgalmazott termékeket a kereskedési platform szabályzata tartalmazza. A szabályozást úgy kell kialakítani a 312/2014/EU bizottsági rendeletben meghatározott rendelkezések alkalmazásával, hogy a gázforgalmazás előkészítését, de legalább a gáznapi egyensúlyozást és annak gáznapot követő elszámolásához szükséges fizikai termékek kereskedelmét lehetővé tegye a földgázszállító rendszer fizikai korlátainak figyelembevétele mellett.
 
 (2) A kereskedési platformon minden szereplő csak olyan tranzakcióra adhat be ajánlatot és köthet le, amelyet a kereskedési platform szabályzata lehetővé tesz.
 
@@ -44,4 +44,4 @@ q) egyéb, a kereskedési platform működését meghatározó szabályokat.
 
 (6) A kereskedési platform szabályzatát az azt működtető társaság és az elszámolást végző vállalkozás a Hivatal jóváhagyását követően köteles a honlapján közzétenni.
 
-[^370]: A Vhr. 110. §-át a 265/2009. (XII. 1.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte, újonnan a 91/2015. (IV. 9.) Korm. rendelet 17. § (2) bekezdése iktatta be.
+[^376]: A Vhr. 110. §-át a 265/2009. (XII. 1.) Korm. rendelet 18. § (2) bekezdése hatályon kívül helyezte, újonnan a 91/2015. (IV. 9.) Korm. rendelet 17. § (2) bekezdése iktatta be.

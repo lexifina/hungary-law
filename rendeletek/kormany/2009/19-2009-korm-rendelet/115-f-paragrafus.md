@@ -1,4 +1,4 @@
-115/F. §[^393] (1) A 20 m3/h feletti névleges összteljesítményű fogyasztásmérő berendezéssel rendelkező felhasználási helyen
+115/F. §[^399] (1) A 20 m3/h feletti névleges összteljesítményű fogyasztásmérő berendezéssel rendelkező felhasználási helyen
 
 a) nem távlehívható fogyasztásmérő berendezéssel ellátott fogyasztási hely esetén,
 
@@ -8,4 +8,4 @@ a földgázelosztó köteles a fogyasztásmérő berendezést havonta leolvasni 
 
 (2) Az (1) bekezdés szerint leolvasott mérőállás képezi az elszámolás alapját.
 
-[^393]: A Vhr. 115/F. §-át a 254/2015. (IX. 10.) Korm. rendelet 17. §-a iktatta be.
+[^399]: A Vhr. 115/F. §-át a 254/2015. (IX. 10.) Korm. rendelet 17. §-a iktatta be.

@@ -1,4 +1,4 @@
-96. §[^314] (1)[^315] A rendszerhasználó – azon rendszerüzemeltetők részére, amelyek rendszerére az általa ellátott felhasználók csatlakoznak – tájékoztató jelleggel minden évben legkésőbb április 30-ig megadja a felhasználók várható 10 éves kapacitásigényét az első 5 évre éves, azt követően 5 éves megosztásban.
+96. §[^320] (1)[^321] A rendszerhasználó – azon rendszerüzemeltetők részére, amelyek rendszerére az általa ellátott felhasználók csatlakoznak – tájékoztató jelleggel minden évben legkésőbb április 30-ig megadja a felhasználók várható 10 éves kapacitásigényét az első 5 évre éves, azt követően 5 éves megosztásban.
 
 (2) A rendszerüzemeltető évente az igénybejelentések alapján köteles elvégezni a rendszer technikai rendelkezésre állásának számításos ellenőrzését. Az ellenőrzés során figyelembe kell venni, hogy a nyilvántartott szerződéses és nyilvántartásba vételt kezdeményező felhasználók ellátása legalább –12 °C-ig fenntartható legyen.
 
@@ -10,22 +10,22 @@ b) a fejlesztési javaslatát a szállítási rendszerirányítónak megküldi.
 
 (4) A fejlesztési javaslatnak tartalmaznia kell a kapacitásigény indokolását, az elvégzett érzékenységi vizsgálatokat, a javasolt fejlesztéseket és azok hatásait, valamint a becsült fejlesztési költségeket kiemelt figyelemmel a szigetüzemben működő rendszerekre.
 
-(4a)[^316] A szállítási rendszerirányító a 10 éves fejlesztési tervben – a 98/C. § alapján megküldött együttműködési megállapodás, valamint a 98/C. § (5) bekezdése szerinti nyilatkozat felhasználásával – bemutatja a szállítóvezeték-létesítési engedéllyel érintett szállítóvezeték rendszer-összekötési vagy összekapcsolási pontjainak fejlesztését, valamint az emiatt szükséges, az együttműködő földgázrendszert érintő, egyéb fejlesztéseket is.
+(4a)[^322] A szállítási rendszerirányító a 10 éves fejlesztési tervben – a 98/C. § alapján megküldött együttműködési megállapodás, valamint a 98/C. § (5) bekezdése szerinti nyilatkozat felhasználásával – bemutatja a szállítóvezeték-létesítési engedéllyel érintett szállítóvezeték rendszer-összekötési vagy összekapcsolási pontjainak fejlesztését, valamint az emiatt szükséges, az együttműködő földgázrendszert érintő, egyéb fejlesztéseket is.
 
-(4b)[^317] A rendszer-összekötési pont és összekapcsolási pont technikai kapacitása fejlesztésének mértékét a szállítási rendszerüzemeltető a kapcsolódó rendszerüzemeltetővel közösen állapítja meg. A kapcsolódó szállítási rendszerüzemeltetők fejlesztési együttműködési megállapodása alapján szükséges szállítóvezetéki fejlesztéseket a 10 éves fejlesztési tervnek tartalmaznia kell.
+(4b)[^323] A rendszer-összekötési pont és összekapcsolási pont technikai kapacitása fejlesztésének mértékét a szállítási rendszerüzemeltető a kapcsolódó rendszerüzemeltetővel közösen állapítja meg. A kapcsolódó szállítási rendszerüzemeltetők fejlesztési együttműködési megállapodása alapján szükséges szállítóvezetéki fejlesztéseket a 10 éves fejlesztési tervnek tartalmaznia kell.
 
 (5) A szállítási rendszerirányító a GET 82. § (2) bekezdés szerinti összehangolt kapacitás-felülvizsgálat eredményét és a 10 éves fejlesztési tervet minden év december 31-ig küldi meg a Hivatalnak.
 
-(5a)[^318] Új szállítóvezetéknek a meglévő szállítóvezetékhez történő kapcsolódása esetében az üzemeltetési határon kiépítésre kerülő technikai kapacitás mértékét úgy kell meghatározni, hogy az megegyezzen a meglévő szállítóvezetékek – beleértve a Hivatalnak a (7) bekezdés szerint megküldött vagy a Hivatal által jóváhagyott fejlesztéseket is – együttes működtetése során elérhető legnagyobb teljesítőképességgel.
+(5a)[^324] Új szállítóvezetéknek a meglévő szállítóvezetékhez történő kapcsolódása esetében az üzemeltetési határon kiépítésre kerülő technikai kapacitás mértékét úgy kell meghatározni, hogy az megegyezzen a meglévő szállítóvezetékek – beleértve a Hivatalnak a (7) bekezdés szerint megküldött vagy a Hivatal által jóváhagyott fejlesztéseket is – együttes működtetése során elérhető legnagyobb teljesítőképességgel.
 
-(6)[^319] A GET 82. § (5) bekezdése szerinti kétirányú kapacitásbővítésre vonatkozó javaslat vagy mentességi kérelem az (5) bekezdés szerinti fejlesztési terv külön fejezetét képezi.
+(6)[^325] A GET 82. § (5) bekezdése szerinti kétirányú kapacitásbővítésre vonatkozó javaslat vagy mentességi kérelem az (5) bekezdés szerinti fejlesztési terv külön fejezetét képezi.
 
-(7)[^320] A rendszerüzemeltető – a fejlesztési javaslat GET 82. § (4) bekezdés szerinti felülvizsgálatát megelőzően – jogosult a Hivatalt előzetesen tájékoztatni a 10 éves hálózatfejlesztési terv jóváhagyását követően felmerült vagy módosult fejlesztési igényről.
+(7)[^326] A rendszerüzemeltető – a fejlesztési javaslat GET 82. § (4) bekezdés szerinti felülvizsgálatát megelőzően – jogosult a Hivatalt előzetesen tájékoztatni a 10 éves hálózatfejlesztési terv jóváhagyását követően felmerült vagy módosult fejlesztési igényről.
 
-[^314]: A Vhr. 96. §-a a 100/2011. (VI. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
-[^315]: A Vhr. 96. § (1) bekezdése a 281/2016. (IX. 21.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
-[^316]: A Vhr. 96. § (4a) bekezdését a 384/2014. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
-[^317]: A Vhr. 96. § (4b) bekezdését a 91/2015. (IV. 9.) Korm. rendelet 12. §-a iktatta be.
-[^318]: A Vhr. 96. § (5a) bekezdését a 212/2014. (VIII. 27.) Korm. rendelet 4. § (1) bekezdése iktatta be.
-[^319]: A Vhr. 96. § (6) bekezdését a 293/2011. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
-[^320]: A Vhr. 96. § (7) bekezdését a 212/2014. (VIII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be.
+[^320]: A Vhr. 96. §-a a 100/2011. (VI. 29.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^321]: A Vhr. 96. § (1) bekezdése a 281/2016. (IX. 21.) Korm. rendelet 10. § a) pontja szerint módosított szöveg.
+[^322]: A Vhr. 96. § (4a) bekezdését a 384/2014. (XII. 31.) Korm. rendelet 2. §-a iktatta be.
+[^323]: A Vhr. 96. § (4b) bekezdését a 91/2015. (IV. 9.) Korm. rendelet 12. §-a iktatta be.
+[^324]: A Vhr. 96. § (5a) bekezdését a 212/2014. (VIII. 27.) Korm. rendelet 4. § (1) bekezdése iktatta be.
+[^325]: A Vhr. 96. § (6) bekezdését a 293/2011. (XII. 22.) Korm. rendelet 1. §-a iktatta be.
+[^326]: A Vhr. 96. § (7) bekezdését a 212/2014. (VIII. 27.) Korm. rendelet 4. § (2) bekezdése iktatta be.
