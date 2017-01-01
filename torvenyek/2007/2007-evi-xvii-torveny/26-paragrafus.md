@@ -20,7 +20,7 @@ h) Tevékenységihely-nyilvántartási Rendszer [az a)–h) pontok a továbbiakb
 
 (2) A mezőgazdasági és vidékfejlesztési támogatási szerv a nyilvántartási rendszerek működtetéséhez kapcsolódó adatfeldolgozási feladatok ellátásával csak államigazgatási szervet vagy kizárólagos állami tulajdonú gazdálkodó szervezetet bízhat meg.
 
-(3) A mezőgazdasági és vidékfejlesztési támogatási szerv részére az intézkedések végrehajtása során a vonatkozó feltételek, illetve kötelezettségek betartásának ellenőrzése, továbbá az ügyfelek azonosítása céljából adatokat kell átadni:
+(3) Az adatkezelő szerv részére az intézkedések végrehajtása során a vonatkozó feltételek, illetve kötelezettségek betartásának ellenőrzése, továbbá az ügyfelek azonosítása céljából adatokat kell átadni:
 
 1. a vámhatóság által kezelt vámadatbázisból,
 
@@ -66,7 +66,7 @@ h) Tevékenységihely-nyilvántartási Rendszer [az a)–h) pontok a továbbiakb
 
 22. a hatáskörrel rendelkező hatóság nyilvántartási rendszereiből,
 
-23. az Országos Nyugdíjbiztosítási Főigazgatóság adattárából az ügyfelek sajátjogú nyugellátásáról,
+23. a nyugdíjbiztosítási nyilvántartásból az ügyfelek sajátjogú nyugellátásáról,
 
 24. az egyéni vállalkozók nyilvántartásából,
 
@@ -96,7 +96,7 @@ h) Tevékenységihely-nyilvántartási Rendszer [az a)–h) pontok a továbbiakb
 
 (3a) A mezőgazdasági és vidékfejlesztési támogatási szerv a személyiadat- és lakcímnyilvántartásból a (3) bekezdésben meghatározott feladata ellátása céljából az ügyfél-nyilvántartási rendszerben nyilvántartott természetes személy ügyfél természetes személyazonosító adatai, állampolgársága, lakóhelyének címe, elhalálozására vonatkozó adata igénylésére jogosult, amely adatokat természetes személyazonosító adattal, a lakóhely címével, illetve kapcsolati kód alkalmazásával igényelheti.
 
-(4) A mezőgazdasági és vidékfejlesztési támogatási szerv az ügyfélre vonatkozó támogatási adatokat egymással, valamint az e törvény alapján átvett adatokkal a feladatkörében végzendő ellenőrzés céljából köteles összevetni, illetve felhasználhatja.
+(4) Az adatkezelő szerv az ügyfélre vonatkozó támogatási adatokat egymással, valamint az e törvény alapján átvett adatokkal a feladatkörében végzendő ellenőrzés céljából köteles összevetni, illetve felhasználhatja.
 
 (5) A mezőgazdasági és vidékfejlesztési támogatási szerv a kölcsönös megfeleltetés körébe tartozó ellenőrzésekhez kapcsolódó nyilvántartási rendszerek működtetése érdekében a hatáskörrel rendelkező hatóság részére a 26. § (1) bekezdés b) pontja szerinti nyilvántartási rendszerekben szereplő adatokat az ellenőrzések lefolytatásához és kiértékeléséhez szükséges mértékben átadja.
 
@@ -104,4 +104,4 @@ h) Tevékenységihely-nyilvántartási Rendszer [az a)–h) pontok a továbbiakb
 
 (7) A mezőgazdasági és vidékfejlesztési támogatási szerv az egyablakos vámügyintézés körébe tartozó eljárásokhoz kapcsolódó nyilvántartási rendszerek működtetése érdekében a vámhatóság részére a 26. § (1) bekezdés a)–b) pontja szerinti nyilvántartási rendszerekben szereplő adatokat az eljárások lefolytatásához és kiértékeléséhez szükséges mértékben átadja.
 
-(8) A mezőgazdasági és vidékfejlesztési támogatási szerv a kedvezőtlen éghajlati jelenségekre és más káreseményekre kötött mezőgazdasági biztosítás díjához nyújtott támogatással összefüggő biztosítási díj, illetve kár megállapítása érdekében a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló törvény szerint mezőgazdasági biztosítási szerződést kötő biztosító (a továbbiakban: biztosító) részére, a mezőgazdasági termelő hozzájárulása esetén, a biztosító kérelmére adatot szolgáltat a mezőgazdasági termelő által a tárgyévben benyújtott egységes kérelemben megjelölt területekről, valamint azok növénykultúrák szerinti hasznosításáról és MePAR szerinti azonosítóiról.
+(8) Az adatkezelő szerv a kedvezőtlen éghajlati jelenségekre és más káreseményekre kötött mezőgazdasági biztosítás díjához nyújtott támogatással összefüggő biztosítási díj, illetve kár megállapítása érdekében a mezőgazdasági termelést érintő időjárási és más természeti kockázatok kezeléséről szóló törvény szerint mezőgazdasági biztosítási szerződést kötő biztosító (a továbbiakban: biztosító) részére, a mezőgazdasági termelő hozzájárulása esetén, a biztosító kérelmére adatot szolgáltat a mezőgazdasági termelő által a tárgyévben benyújtott egységes kérelemben megjelölt területekről, valamint azok növénykultúrák szerinti hasznosításáról és MePAR szerinti azonosítóiról.

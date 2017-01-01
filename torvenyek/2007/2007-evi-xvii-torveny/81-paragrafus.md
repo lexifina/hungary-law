@@ -22,6 +22,8 @@ rendeletben állapítsa meg.
 
 (1b) Felhatalmazást kap a Kormány, hogy az EMVA, az EHA és az ETHA tekintetében rendeletben állapítsa meg a III. Fejezet végrehajtásával kapcsolatos részletes szabályokat.
 
+(1c) Felhatalmazást kap a Kormány, hogy az agrárpolitikáért felelős miniszternek és az agrár-vidékfejlesztésért felelős miniszternek a mezőgazdasági és vidékfejlesztési támogatási szerv szakmai irányítására vonatkozó szabályait rendeletben állapítsa meg.
+
 (2) Felhatalmazást kap a Kormány, hogy a mezőgazdasági és vidékfejlesztési támogatási szervet rendeletben kijelölje.
 
 (3) Felhatalmazást kap az agrár-vidékfejlesztésért felelős miniszter, hogy az agrárpolitikáért felelős miniszterrel egyetértésben
@@ -43,6 +45,10 @@ g) az EMVA-ból és az EHA-ból támogatott intézkedések esetében a legkisebb
 h) az EMVA-ból és az EHA-ból támogatott intézkedések esetében az elektronikus úton teljesítendő kérelem-, pályázatbenyújtás, valamint adatszolgáltatási kötelezettség eseteit, az elektronikus kapcsolattartás feltételeit, valamint az elektronikus kapcsolattartással kapcsolatos részletes szabályokat,
 
 i) az EMVA-ból és az EHA-ból támogatott intézkedések esetében a mesterséges körülmények megállapításának eseteit
+
+j) az EMVA-ból finanszírozott egységes kérelemmel érintett támogatások benyújtásának általános szabályait,
+
+k) az EMVA-ból finanszírozott támogatások esetén a kedvezményezett mezőgazdasági bevételének nyilvántartásával kapcsolatos szabályait
 
 rendeletben állapítsa meg.
 

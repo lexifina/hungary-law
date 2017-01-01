@@ -1,4 +1,4 @@
-25. § (1) A nem nyilvános támogatási adat a mezőgazdasági és vidékfejlesztési támogatási szerven kívüli más szerv által csak alapos okkal használható fel. A nem nyilvános támogatási adatot alapos okkal használják fel, ha:
+25. § (1) A nem nyilvános támogatási adat az adatkezelő szerven kívüli más szerv által csak alapos okkal használható fel. A nem nyilvános támogatási adatot alapos okkal használják fel, ha:
 
 a) az a támogatás ellenőrzését, vagy
 
@@ -8,11 +8,11 @@ c) azt törvény előírja vagy megengedi, illetve
 
 d) a felhasználáshoz az érintett ügyfél hozzájárul.
 
-(2) Az egyes intézkedésekben való részvétellel összefüggő adatot a mezőgazdasági és vidékfejlesztési támogatási szerv és a hivatalos statisztikai szolgálathoz tartozó szervek statisztikai célra felhasználhatják, ha a titoktartási kötelezettség megtartását a feldolgozás során biztosítják és – amennyiben a statisztikáról szóló törvény másként nem rendelkezik – azt a későbbi egyedi azonosításra alkalmatlanná teszik.
+(2) Az egyes intézkedésekben való részvétellel összefüggő adatot az adatkezelő szerv és a hivatalos statisztikai szolgálathoz tartozó szervek statisztikai célra felhasználhatják, ha a titoktartási kötelezettség megtartását a feldolgozás során biztosítják és – amennyiben a statisztikáról szóló törvény másként nem rendelkezik – azt a későbbi egyedi azonosításra alkalmatlanná teszik.
 
-(3) A mezőgazdasági és vidékfejlesztési támogatási szerv a intézkedésben való jogosulatlan részvétel végrehajtásához való jogra vonatkozó elévülési időn belül kérelemre tájékoztatja az adóhatóságot, illetve a vámhatóságot a nem nyilvános támogatási adatról, ha az adó-, illetve vámteher vagy adóhiány feltárását, behajthatóságának megállapítását szolgálja, továbbá vám-, illetve adóigazgatási eljárás lefolytatásához szükséges.
+(3) Az adatkezelő szerv a intézkedésben való jogosulatlan részvétel végrehajtásához való jogra vonatkozó elévülési időn belül kérelemre tájékoztatja az adóhatóságot, illetve a vámhatóságot a nem nyilvános támogatási adatról, ha az adó-, illetve vámteher vagy adóhiány feltárását, behajthatóságának megállapítását szolgálja, továbbá vám-, illetve adóigazgatási eljárás lefolytatásához szükséges.
 
-(4) A mezőgazdasági és vidékfejlesztési támogatási szerv – ha az adott szerv az adat kezelésére törvény alapján egyébként jogosult – tájékoztatja a nem nyilvános támogatási adatról:
+(4) Az adatkezelő szerv – ha az adott szerv az adat kezelésére törvény alapján egyébként jogosult – tájékoztatja a nem nyilvános támogatási adatról:
 
 a) a bíróságot;
 
@@ -32,7 +32,7 @@ h) a költségvetési fejezetet irányító szervet, ha a tájékoztatás az ál
 
 i) közfeladatot ellátó szervet a feladatainak ellátásához szükséges körben;
 
-j) a Magyar Államkincstárat az országos támogatási monitoringrendszer működtetése céljából, a Szerződés 87. és 88. cikkének a de minimis támogatásokra való alkalmazásáról szóló 1998/2006/EK bizottsági rendelet (2006. december 15.) végrehajtásához kapcsolódóan.
+j) az országos támogatási monitoringrendszer működtetőjét.
 
 (5) A mezőgazdasági és vidékfejlesztési támogatási szerv jogosult a nem nyilvános támogatási adatról az utólagos vállalat-ellenőrzések végrehajtásáért felelős hatóságot tájékoztatni, ha az az ügyfél intézkedésben való részvétele során tanúsított eljárásának utólagos ellenőrzéséhez szükséges.
 

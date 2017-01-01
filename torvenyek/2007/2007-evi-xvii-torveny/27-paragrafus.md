@@ -4,4 +4,4 @@
 
 (2) Az intézkedések hatékony végrehajtása érdekében az intézkedések végrehajtása során kezelt adatokból a mezőgazdasági és vidékfejlesztési támogatási szerv elkülönült nyilvántartásokat hozhat létre. Az integrált informatikai rendszer részét képező elkülönült nyilvántartások esetén biztosítani kell az adatoknak a nyilvántartások közötti átadását.
 
-(3) A mezőgazdasági és vidékfejlesztési támogatási szerv az 1782/2003/EK tanácsi rendelet II. Cím 4. fejezete szerinti integrált igazgatási és ellenőrzési rendszert az általa működtetett integrált informatikai rendszer részeként alakítja ki.
+(3) A mezőgazdasági és vidékfejlesztési támogatási szerv az 1306/2013/EU európai parlamenti és tanácsi rendelet VII. Cím II. fejezete szerinti integrált igazgatási és ellenőrzési rendszert az általa működtetett integrált informatikai rendszer részeként alakítja ki.

@@ -12,7 +12,7 @@ d) irányító hatóság: az agrár-vidékfejlesztésért felelős miniszter min
 
 da) a 2007–2013 programozási időszakban az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról szóló 1698/2005/EK tanácsi rendelet (2005. szeptember 20.) 75. cikke és az Európai Halászati Alapról szóló 1198/2006/EK tanácsi rendelet (2006. július 27.) 58. cikk (1) bekezdés a) pontja,
 
-db) a 2014–2020 programozási időszakban az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló 1305/2013/EU európai parlamenti és tanácsi rendelet (2013. december 17.) 65. cikk (2) bekezdése és az Európai Halászati Alappal összefüggésben a 2014–2020 programozási időszakra vonatkozó közösségi jogi aktus
+db) a 2014–2020 programozási időszakban az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásról és az 1698/2005/EK tanácsi rendelet hatályon kívül helyezéséről szóló 1305/2013/EU európai parlamenti és tanácsi rendelet (2013. december 17.) (a továbbiakban: 1305/2013/EU rendelet) 65. cikk (2) bekezdése és az Európai Halászati Alappal összefüggésben a 2014–2020 programozási időszakra vonatkozó közösségi jogi aktus
 
 alapján kijelölt hatóság;
 
@@ -70,4 +70,6 @@ x) monitoringrendszer: a monitoringrendszer a monitoring tevékenység folytatá
 
 y) pénzügyi kapcsolat: olyan gazdasági kapcsolat a mezőgazdasági és vidékfejlesztési támogatási szerv és a vele kapcsolatban álló ügyfél között, amelynek alapján közöttük tartozások és követelések keletkeznek, azaz elszámolási viszony jön létre;
 
-z) szakrendszer: az ügyfél-nyilvántartáshoz a regisztrációs számmal kapcsolódó, a mezőgazdasági és vidékfejlesztési támogatási szerv, valamint a hatáskörrel rendelkező hatóság hatáskörébe tartozó, általuk működtetett (vezetett) nyilvántartás.
+z) szakrendszer: az ügyfél-nyilvántartáshoz a regisztrációs számmal kapcsolódó, a mezőgazdasági és vidékfejlesztési támogatási szerv, valamint a hatáskörrel rendelkező hatóság hatáskörébe tartozó, általuk működtetett (vezetett) nyilvántartás;
+
+zs) adatkezelő: a mezőgazdasági és vidékfejlesztési támogatási szerv, a 9. § d) pont db) alpont szerinti irányító hatóság, valamint az 1305/2013/EU rendelet 66. cikk (2) bekezdés szerinti közbenső szervezet.
