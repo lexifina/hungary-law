@@ -1,6 +1,6 @@
 6. § (1) A szolgálati kiküldetéssel összefüggő költségek elszámolása az állományilletékes parancsnok vagy az általa kijelölt személy által kiadott kiküldetési rendelvény alapján történik. Ha az egymást követő szolgálati kiküldetések közötti időtartam nem haladja meg a négy naptári napot, folyamatos kiküldetési rendelvény is alkalmazható.
 
-(2)[^9] Saját gépjárművel végrehajtott szolgálati kiküldetés esetén a 12. § (1) bekezdés szerinti összeg kiszámítása érdekében a kiküldetési rendelvényen a szilárd burkolatú közforgalmú úton mért, időben vagy távolságban legrövidebb oda-vissza távolságot kell meghatározni.
+(2)[^12] Saját személygépkocsival végrehajtott szolgálati kiküldetés esetén a 12. § (1) bekezdés szerinti összeg kiszámítása érdekében a kiküldetési rendelvényen a szilárd burkolatú közforgalmú úton mért, időben vagy távolságban legrövidebb oda-vissza távolságot kell meghatározni.
 
 (3) A szolgálati kiküldetés megkezdését megelőző 5 munkanapon belül a kiküldött kérésére az állományilletékes parancsnok engedélye alapján a pénzügyi és számviteli szerv a várható kiadások összegének megfelelő mértékű előleget fizet ki.
 
@@ -8,4 +8,4 @@
 
 (5) A (4) bekezdés szerinti határidőtől eltérést az állományilletékes parancsnok egyedi elbírálás alapján engedélyezhet. Ha a kiküldött a szolgálati kiküldetéssel összefüggő költségekkel és a felvett előleggel az előírt határidőre nem számol el, a pénzügyi és számviteli szerv vezetője írásban, legfeljebb 8 napos póthatáridő kitűzésével figyelmezteti a határidő lejártára. Ha a kiküldött a figyelmeztetés ellenére sem tesz eleget elszámolási kötelezettségének, a pénzügyi és számviteli szerv vezetője az állományilletékes parancsnoknál kezdeményezi az előleg illetményből történő levonását.
 
-[^9]: A 6. § (2) bekezdése a 4/2014. (III. 20.) HM rendelet 7. § d) pontja szerint módosított szöveg.
+[^12]: A 6. § (2) bekezdése a 4/2014. (III. 20.) HM rendelet 7. § d) pontja, a 26/2016. (XII. 22.) HM rendelet 24. § a) pontja szerint módosított szöveg.

@@ -4,8 +4,9 @@
 
 18. § (1) A honvéd és a közalkalmazott jogosult a szolgálatteljesítési hely szerinti település közigazgatási határán belül a szolgálati, munkaköri feladat elvégzésével kapcsolatosan felmerülő, számlával igazolt utazási és utazással összefüggő egyéb költségei, így különösen a parkolási díjak megtérítésére. Az állományilletékes parancsnok engedélyezheti a parkolási költség elszámolását a parkolójegy alapján is, ha a számla beszerzése többletköltséggel jár.
 
-(2)[^11] A helyi szolgálati utazás végrehajtásához elsősorban közösségi közlekedési eszközt kell igénybe venni. Az állományilletékes parancsnok a szolgálati, munkaköri feladat jellegétől függően, a vonaljegy, a menetjegy vagy a bérlet és a számla pénzügyi és számviteli szerv részére történő leadása ellenében engedélyezheti a vonaljegy, a menetjegy vagy a helyi bérlet árának megtérítését.
+(2)[^24] A helyi szolgálati utazás végrehajtásához elsősorban közösségi közlekedési eszközt kell igénybe venni. Az állományilletékes parancsnok a szolgálati, munkaköri feladat jellegétől függően a vonaljegy, a menetjegy vagy a helyi bérlet és a számla pénzügyi és számviteli szerv részére történő leadása ellenében engedélyezheti a vonaljegy, a menetjegy vagy a helyi bérlet árának a megtérítését. Nem téríthető meg a vonaljegy, a menetjegy és a helyi bérlet ára az állomány tagja és a közalkalmazott részére, ha a helyi szolgálati utazás időpontjában a szolgálatteljesítési hely szerinti településre érvényes helyi bérlet megvásárlásához a 17. § szerinti költségtérítésben részesül.
 
-(3) A helyi szolgálati utazáshoz szolgálati gépjármű, taxi, valamint a 12. §-ban foglaltak figyelembevételével saját gépjármű az állományilletékes parancsnok előzetes engedélyével vehető igénybe.
+(3)[^25] A helyi szolgálati utazáshoz szolgálati gépjármű, taxi, valamint a 12. §-ban foglaltak figyelembevételével saját személygépkocsi az állományilletékes parancsnok előzetes engedélyével vehető igénybe.
 
-[^11]: A 18. § (2) bekezdése a 4/2014. (III. 20.) HM rendelet 7. § e) pontja szerint módosított szöveg.
+[^24]: A 18. § (2) bekezdése a 26/2016. (XII. 22.) HM rendelet 15. §-ával megállapított szöveg.
+[^25]: A 18. § (3) bekezdése a 26/2016. (XII. 22.) HM rendelet 24. § e) pontja szerint módosított szöveg.

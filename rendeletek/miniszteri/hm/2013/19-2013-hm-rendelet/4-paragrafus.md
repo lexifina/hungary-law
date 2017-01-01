@@ -1,4 +1,4 @@
-## 3/A. §[^8] Ha az e rendelet szerinti juttatásokra biztosított összegek és azok közterhei beletartoznak a tárgyévi központi költségvetésről szóló törvényben e célra meghatározott éves keretbe, a juttatásokra a személyi állomány tagja az éves keret összegéig jogosult.
+## 3/A. §[^10] Ha az e rendelet szerinti juttatásokra biztosított összegek és azok közterhei beletartoznak a tárgyévi központi költségvetésről szóló törvényben e célra meghatározott éves keretbe, a juttatásokra a személyi állomány tagja az éves keret összegéig jogosult.
 
 ## II. Fejezet
 
@@ -8,4 +8,4 @@
 
 ## általános szabályai
 
-[^8]: A 3/A. §-t a 24/2013. (XII. 20.) HM rendelet 23. §-a iktatta be.
+[^10]: A 3/A. §-t a 24/2013. (XII. 20.) HM rendelet 23. §-a iktatta be.
