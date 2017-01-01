@@ -1,0 +1,1 @@
+## 3. § Ez a rendelet a kihirdetését követő 30. napon lép hatályba. Ezzel egyidejűleg a Magyar Honvédség Öltözködési Szabályzatának kiadásáról szóló 19/1998. (XII. 16.) HM rendelet és a módosításáról szóló 21/2001. (VIII. 31.) HM rendelet hatályát veszti.
