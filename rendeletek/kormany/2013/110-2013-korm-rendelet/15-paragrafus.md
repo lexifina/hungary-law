@@ -8,9 +8,9 @@
 
 (4) A kibocsátó szervek adatbázisának és annak a központi adatbázissal történő adatkapcsolatának a kialakításáig a lóútlevelek kiadását a NÉBIH végzi.
 
-(5)[^43] Ez a rendelet a 90/427/EGK és a 2009/156/EK tanácsi irányelv alapján a lófélék azonosítási módszerei tekintetében alkalmazandó szabályok meghatározásáról szóló, 2015. február 17-i 2015/262/EU bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
+(5)[^44] Ez a rendelet a 90/427/EGK és a 2009/156/EK tanácsi irányelv alapján a lófélék azonosítási módszerei tekintetében alkalmazandó szabályok meghatározásáról szóló, 2015. február 17-i 2015/262/EU bizottsági végrehajtási rendelet végrehajtásához szükséges rendelkezéseket állapítja meg.
 
-(6)[^44]
+(6)[^45]
 
-[^43]: A 15. § (5) bekezdése a 320/2016. (X. 25.) Korm. rendelet 9. §-ával megállapított szöveg.
-[^44]: A 15. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^44]: A 15. § (5) bekezdése a 320/2016. (X. 25.) Korm. rendelet 9. §-ával megállapított szöveg.
+[^45]: A 15. § (6) bekezdése a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
