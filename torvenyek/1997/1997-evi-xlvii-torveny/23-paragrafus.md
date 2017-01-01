@@ -1,6 +1,6 @@
 ## Adattovábbítás az egészségügyi ellátóhálózaton kívüli szerv megkeresésére
 
-23. § (1) A következő szervek írásbeli megkeresésére a kezelést végző orvos, valamint az egészségbiztosítási szerv az érintett egészségügyi és a megkereső szerv által törvény alapján kezelhető, az azonosításhoz szükséges személyazonosító adatait átadja a megkereső szervnek. A megkeresésben a 4. § (4) bekezdésének megfelelően fel kell tüntetni a megismerni kívánt egészségügyi és személyazonosító adatokat. A megkereső szervek a következők lehetnek:
+23. § (1) A következő szervek írásbeli megkeresésére a kezelést végző orvos, valamint az egészségbiztosítási szerv az érintett egészségügyi és a megkereső szerv által törvény alapján kezelhető, az azonosításhoz szükséges személyazonosító adatait átadja a megkereső szervnek. A megkeresésben a 4. § (4) bekezdésének megfelelően fel kell tüntetni a megismerni kívánt egészségügyi és személyazonosító adatokat, ideértve azon adatokat is, amelyek az egészségügyi szolgáltató által felvett látlelet alapján állnak rendelkezésre. A megkereső szervek a következők lehetnek:
 
 a) büntetőügyben a nyomozó hatóság, az ügyészség, a bíróság, az igazságügyi szakértő, polgári peres és nemperes, valamint közigazgatási hatósági ügyben a közigazgatási hatóság, az ügyészség a bíróság, az igazságügyi szakértő,
 

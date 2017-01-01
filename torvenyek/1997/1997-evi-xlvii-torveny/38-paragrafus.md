@@ -44,7 +44,9 @@ t) az EESZT útján a működtető részére megküldendő egészségügyi dokum
 
 u) az EESZT útján elektronikus úton működtetendő betegségregiszterek körét, a kapcsolati kód képzésére és az elektronikus betegségregiszterekre vonatkozó részletes szabályokat,
 
-v) az elektronikus konzílium és digitális képtovábbítás részletes szabályait, valamint a 35/N. § szerinti jelentéstételi és adatszolgáltatási kötelezettségeket és azok teljesítésének rendjét
+v) az elektronikus konzílium és digitális képtovábbítás részletes szabályait, valamint a 35/N. § szerinti jelentéstételi és adatszolgáltatási kötelezettségeket és azok teljesítésének rendjét,
+
+w) a látlelet tartalmi és formai követelményeit, kiadásának rendjét
 
 rendeletben állapítsa meg.
 
