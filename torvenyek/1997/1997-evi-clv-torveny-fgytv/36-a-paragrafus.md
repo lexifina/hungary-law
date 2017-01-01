@@ -1,4 +1,4 @@
-36/A. § (1) A békéltető testület tevékenységéről évente összefoglaló tájékoztatót készít, és azt a tárgyévet követő év január 31-éig megküldi a fogyasztóvédelemért felelős miniszternek, valamint azt külön kérésre az igénylő számára elektronikus úton rendelkezésre bocsátja.
+36/A. § (1) A békéltető testület tevékenységéről évente összefoglaló tájékoztatót készít, és azt a tárgyévet követő év március 1-jéig megküldi a fogyasztóvédelemért felelős miniszternek, valamint azt külön kérésre az igénylő számára elektronikus úton rendelkezésre bocsátja.
 
 (2) A békéltető testület éves tevékenységéről elkészült összefoglaló tartalmazza legalább:
 

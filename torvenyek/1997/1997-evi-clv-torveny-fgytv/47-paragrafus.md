@@ -32,7 +32,7 @@ i) fogyasztóvédelmi bírságot (a továbbiakban: bírság) szabhat ki.
 
 (7) Nincs helye az (1) bekezdés szerinti jogkövetkezmény alkalmazásának a fogyasztóvédelmi hatósággal hatósági szerződést kötő ügyféllel szemben a szerződésben megállapított teljesítési határidőn belül azon jogsértés miatt, amelynek megszüntetése érdekében a szerződés megkötésére sor került.
 
-(8) A fogyasztóvédelmi hatóság az (1) bekezdés d), g), illetve h) pontja szerinti jogkövetkezmény megállapításáról szóló döntését közli a vállalkozásról, illetve az üzletről nyilvántartást vezető kereskedelmi hatósággal.
+(8) A fogyasztóvédelmi hatóság az (1) bekezdés g), illetve h) pontja szerinti jogkövetkezmény megállapításáról szóló döntését közli a vállalkozásról, illetve az üzletről nyilvántartást vezető kereskedelmi hatósággal.
 
 (9) A hatósági ellenőrzés, illetve a fogyasztóvédelmi hatóság eljárása során a vállalkozás köteles közölni a tevékenységével kapcsolatos – az ellenőrzés lefolytatásához, illetve az érdemi döntéshez szükséges – adatokat a nyilvános vagy valamely hatóság, bíróság vagy a Magyar Országos Közjegyzői Kamara jogszabállyal rendszeresített nyilvántartásában szereplő adatok kivételével. Ha a fogyasztóvédelmi hatóság felhívására a vállalkozás az adatokat nem közli, vagy valótlan adatot közöl, vele szemben eljárási bírság kiszabásának van helye.
 

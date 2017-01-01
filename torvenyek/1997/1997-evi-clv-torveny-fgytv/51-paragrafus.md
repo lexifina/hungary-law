@@ -8,7 +8,7 @@ c)
 
 (2) A fogyasztóvédelmi hatóság közzéteszi a 49. § (1) bekezdése szerinti végzését.
 
-(3) A fogyasztóvédelmi hatóság jogerős határozatát közzéteszi.
+(3) A fogyasztóvédelmi hatóság jogerős határozatát közzéteszi, ide nem értve az 51/B. §-ban meghatározott közzétételi kötelezettséggel érintett határozatokat.
 
 (4) A döntés közzététele a fogyasztóvédelmi hatóság honlapján, továbbá – amennyiben szükséges – a fogyasztóvédelmi hatóság által célszerűnek tartott egyéb módon történik. A közzétett döntésről a fogyasztóvédelmi hatóság a nemzeti hírügynökséget is tájékoztathatja.
 

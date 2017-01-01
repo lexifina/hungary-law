@@ -6,7 +6,9 @@ a)
 
 b) a mintavételi költség, továbbá a laboratóriumi, illetve az egyéb vizsgálatok költségének mértékére és megfizetésére,
 
-c)–e)
+c) az elektronikus kereskedelmi szolgáltatással összefüggő, az 51/B. § (1) bekezdésében előírt közzétételi kötelezettséggel járó súlyos jogsértések eseteire,
+
+d)–e)
 
 f) a fogyasztóvédelmi hatóság által kiszabott bírságok befizetésére és a jogszabály alapján az eljáró hatóságot megillető eljárási költség felhasználására,
 
