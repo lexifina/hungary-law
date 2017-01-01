@@ -114,11 +114,11 @@
 
 |  | 4 ismételt mérés szükséges |
 
-6. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^40]
+6. számú melléklet a 27/1996. (VIII. 28.) NM rendelethez[^42]
 
 Értesítés
 
-Kormányhivatal mint munkavédelmi hatóság
+Járási Hivatal mint munkavédelmi hatóság
 
 Értesítés
 
@@ -156,4 +156,4 @@ Dátum:………………………………….
 
 aláírás, pecsét
 
-[^40]: A 6. számú mellékletet a 69/2003. (XII. 16.) ESZCSM rendelet 2. §-a iktatta be, szövege a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított, a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés k) pontja és (2) bekezdése, a 9/2015. (III. 31.) Korm. rendelet 10. § (2) bekezdése szerint módosított szöveg.
+[^42]: A 6. számú mellékletet a 69/2003. (XII. 16.) ESZCSM rendelet 2. §-a iktatta be, szövege a 18/2007. (V. 10.) SZMM rendelet 21. § (1) bekezdésével megállapított, a 3/2012. (II. 10.) NGM rendelet 4. § (1) bekezdés k) pontja és (2) bekezdése, a 9/2015. (III. 31.) NGM rendelet 10. § (2) bekezdése, a 62/2016. (XII. 29.) NGM rendelet 48. § (2) bekezdés e) pontja szerint módosított szöveg.
