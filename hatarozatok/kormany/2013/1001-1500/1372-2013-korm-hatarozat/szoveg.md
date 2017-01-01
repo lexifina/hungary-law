@@ -12,7 +12,7 @@ b) a 479/2008/EK rendelet 51. cikke alapján közösségi oltalmat élvező ered
 
 a) 1 főt a borászati hatóságtól,
 
-b) 1 főt a Földmérési és Távérzékelési Intézettől,
+b)[^1] 1 főt a földmérési és térinformatikai államigazgatási szervként eljáró Budapest Főváros Kormányhivatalától,
 
 c) 1 főt, mint titkárt az agrárpolitikáért felelős miniszter által vezetett minisztérium (a továbbiakban: minisztérium) részéről nevez ki, továbbá
 
@@ -63,3 +63,5 @@ A BET üléseiről jegyzőkönyv készül, amelyet az ülést követő 5 munkana
 15. A BET működésének e határozatban nem részletezett szabályait a miniszter által megállapított ügyrendben szabályozhatja.
 
 16. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 4. pont b) pontja az 1853/2016. (XII. 27.) Korm. határozat 26. pontja szerint módosított szöveg.
