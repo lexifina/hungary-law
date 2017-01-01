@@ -1,6 +1,6 @@
-## 9. §[^20]
+## 9. §[^24]
 
-1. számú melléklet a 311/2006. (XII. 23.) Korm. rendelethez[^21]
+1. számú melléklet a 311/2006. (XII. 23.) Korm. rendelethez[^25]
 
-[^20]: A 9. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 204. pontja hatályon kívül helyezte.
-[^21]: Az 1. számú melléklet a 271/2010. (XII. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
+[^24]: A 9. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 204. pontja hatályon kívül helyezte.
+[^25]: Az 1. számú melléklet a 271/2010. (XII. 8.) Korm. rendelet 2. §-ával megállapított szöveg.
