@@ -1,1 +1,0 @@
-## 8. § Az elháríthatatlan külső ok (vis maior) eseteire, és annak igazolására az 1122/2009/EK bizottsági rendelet 75. cikk (2) bekezdésében, valamint az elháríthatatlan külső ok (vis maior) esetén alkalmazandó egyes szabályokról, valamint egyes agrár tárgyú miniszteri rendeletek módosításáról szóló 44/2007. (VI. 8.) FVM rendeletben foglaltakat kell alkalmazni.
