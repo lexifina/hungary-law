@@ -1,4 +1,4 @@
-3. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^56]
+3. számú melléklet a 30/2000. (III. 10.) Korm. rendelethez[^59]
 
 ## Beszámoló jelentés a mezőgazdasági termelők gazdahitel program keretében nyújtott támogatásból eredő kötelezettségeinek teljesítéséről
 
@@ -58,4 +58,4 @@ Dátum: ....................
 
 cégszerű aláírás
 
-[^56]: A 3. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta a szövegbe.
+[^59]: A 3. számú mellékletet a 85/2001. (V. 30.) Korm. rendelet 3. §-a iktatta a szövegbe.
