@@ -12,7 +12,7 @@ d) az a)–c) pont hatálya alá nem tartozó egyéb ok
 
 (2) Az OKJ 6. mellékletében foglalt szakképesítések és az ezeket megalapozó ágazatok esetén az (1) bekezdés szerinti keretszámra az Szt. 4/A. § (2) bekezdése szerinti miniszter jogosult.
 
-(3) A munkaerő-piaci relevanciával nem rendelkező művészeti, kulturális, kézműves, hagyományőrző szakképesítések és az ezeket megalapozó ágazatok esetén az (1) bekezdés szerinti keretszám ötven százalékára az állami intézményfenntartó központ jogosult.
+(3)[^2] A munkaerő-piaci relevanciával nem rendelkező művészeti, kulturális, kézműves, hagyományőrző szakképesítések és az ezeket megalapozó ágazatok esetén az (1) bekezdés szerinti keretszám ötven százalékára a tankerületi központ jogosult.
 
 (4) A fenntartók között – a 7. §-ban foglalt kivétellel – keretszám-átadásra nincs lehetőség.
 
@@ -20,6 +20,9 @@ d) az a)–c) pont hatálya alá nem tartozó egyéb ok
 
 (6) A korlátozottan támogatott szakképesítések és ágazatok tekintetében a szakmaszerkezeti döntésben meghatározott keretszám és az (5) bekezdés szerinti adatszolgáltatásban feltüntetett beiskolázott és beiskolázandó létszám különbsége 2017. augusztus 31-től, a 2. § (1) bekezdése szerinti képzések esetén 2018. január 15-től az állami fenntartót illeti meg. Az állami szakképzési és felnőttképzési szerv az e bekezdésben meghatározottakon túl jogosult a szakmaszerkezeti döntést megalapozó adatoknak a személyes adatok védelmére vonatkozó jogszabályok megtartásával történő bekérésére a fenntartó által működtetett iskola tekintetében.
 
-(7) Az állami szakképzési és felnőttképzési szerv a (6) bekezdésben szereplő határidőt követő 5 napon belül tájékoztatja az Szt. 4/A. § (2) bekezdése szerinti minisztert, illetve az állami intézményfenntartó központot a (2) bekezdés, illetve a (3) bekezdés alapján a hatáskörükbe tartozó szakképesítések és az ezeket megalapozó ágazatok fel nem használt keretszámairól.
+(7)[^3] Az állami szakképzési és felnőttképzési szerv a (6) bekezdésben szereplő határidőt követő 5 napon belül tájékoztatja az Szt. 4/A. § (2) bekezdése szerinti minisztert, illetve a tankerületi központot a (2) bekezdés, illetve a (3) bekezdés alapján a hatáskörükbe tartozó szakképesítések és az ezeket megalapozó ágazatok fel nem használt keretszámairól.
 
 (8) Az (5) bekezdés szerinti adatszolgáltatás elmulasztása vagy a ténylegesen beiskolázott létszámmal meg nem egyező adatok szolgáltatása esetén a nem állami fenntartó a mulasztással vagy a nem egyező adatszolgáltatással érintett megye vagy a főváros és azon belül az érintett szakképesítés vagy ágazat esetén a következő két tanévben a korlátozottan támogatott keretszámok elosztásakor nem vehető figyelembe. Az adatszolgáltatás hitelességét az állami szakképzési és felnőttképzési szerv – a költségvetési hozzájárulást folyósító szerv adatai alapján – ellenőrzi.
+
+[^2]: A 4. § (3) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
+[^3]: A 4. § (7) bekezdése a 486/2016. (XII. 28.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.

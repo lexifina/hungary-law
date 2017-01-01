@@ -660,7 +660,7 @@
 
 ## K: korlátozottan támogatott [1. § (2) bekezdés c) pontja szerint]
 
-2. melléklet a 317/2016. (X. 25.) Korm. rendelethez
+2. melléklet a 317/2016. (X. 25.) Korm. rendelethez[^4]
 
 1. A korlátozottan támogatott szakképesítések keretszámai fenntartónként és megyénként
 
@@ -670,7 +670,7 @@ A korlátozottan támogatott szakképesítések keretszámai fenntartóként Bá
 
 |  | A | B | C | D | E | F | G | H | I | J | K |
 
-| 1 | Szakképesítés megnevezése (száma) | Keretszám | NGM | FM | KLIK | EJSZ13 | EJSZ15 | EJSZ20 | EJSZ5 | EJSZ9 | KA8 |
+| 1 | Szakképesítés megnevezése (száma) | Keretszám | NGM | FM | illetékes TK | EJSZ13 | EJSZ15 | EJSZ20 | EJSZ5 | EJSZ9 | KA8 |
 
 | 2 | Ács (34-582-01) | 160 | 160 |  |  |  |  |  |  |  |  |
 
@@ -971,3 +971,5 @@ A korlátozottan támogatott szakképesítések keretszámai fenntartóként Bá
 2. táblázat
 
 A korlátozottan támogatott szakképesítések keretszámai fenntartóként Baranya megyében
+
+[^4]: A 2. melléklet a 486/2016. (XII. 28.) Korm. rendelet 23. § c) pont ca) alpontja és d)–e) pontja szerint módosított szöveg.
