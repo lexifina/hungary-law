@@ -42,7 +42,7 @@
 
 | 4. | XX. kerület | I. |
 
-| 5. | XXIII. kerület | I. |
+| 5. | XXIII. | II. |
 
 ## Észak-budai katasztrófavédelmi kirendeltség
 
@@ -1078,7 +1078,7 @@
 
 | 6. | Ecsegfalva | II. |
 
-| 7. | Füzesgyarmat | II. |
+| 7. | Füzesgyarmat | I. |
 
 | 8. | Gyomaendrőd | I. |
 
@@ -1088,7 +1088,7 @@
 
 | 11. | Kertészsziget | II. |
 
-| 12. | Kondoros | I. |
+| 12. | Kondoros | II. |
 
 | 13. | Körösladány | I. |
 
@@ -1098,9 +1098,9 @@
 
 | 16. | Szarvas | I. |
 
-| 17. | Szeghalom | II. |
+| 17. | Szeghalom | I. |
 
-| 18. | Vésztő | II. |
+| 18. | Vésztő | I. |
 
 ## BORSOD-ABAÚJ-ZEMPLÉN MEGYE
 
@@ -2156,7 +2156,7 @@
 
 | 45. | Sárszentmihály | II. |
 
-| 46. | Seregélyes | II. |
+| 46. | Seregélyes | III. |
 
 | 47. | Soponya | II. |
 
@@ -2230,7 +2230,7 @@
 
 | 16. | Fenyőfő | III. |
 
-| 17. | Gönyű | I. |
+| 17. | Gönyű | II. |
 
 | 18. | Gyömöre | III. |
 
@@ -2248,7 +2248,7 @@
 
 | 25. | Győrszemere | II. |
 
-| 26. | Győrújbarát | III. |
+| 26. | Győrújbarát | II. |
 
 | 27. | Győrújfalu | II. |
 
@@ -2808,7 +2808,7 @@
 
 | 24. | Felsőtárkány | III. |
 
-| 25. | Füzesabony | II. |
+| 25. | Füzesabony | I. |
 
 | 26. | Hevesaranyos | III. |
 
@@ -3138,7 +3138,7 @@
 
 | 4. | Hunyadfalva | II. |
 
-| 5. | Kengyel | III. |
+| 5. | Kengyel | II. |
 
 | 6. | Kőtelek | I. |
 
@@ -3228,7 +3228,7 @@
 
 | 21. | Tát | II. |
 
-| 22. | Tokod | III. |
+| 22. | Tokod | II. |
 
 | 23. | Tokodaltáró | III. |
 
@@ -3698,7 +3698,7 @@
 
 | 7. | Délegyháza | III. |
 
-| 8. | Diósd | I. |
+| 8. | Diósd | III. |
 
 | 9. | Dömsöd | III. |
 
@@ -3840,7 +3840,7 @@
 
 | Sorszám | Település | Katasztrófavédelmi osztály |
 
-| 1. | Alsónémedi | III. |
+| 1. | Alsónémedi | II. |
 
 | 2. | Bénye | III. |
 
@@ -5080,7 +5080,7 @@
 
 | 39. | Szakadát | II. |
 
-| 40. | Szakály | II. |
+| 40. | Szakály | I. |
 
 | 41. | Szakcs | III. |
 
@@ -5508,7 +5508,7 @@
 
 | 50. | Porpác | III. |
 
-| 51. | Pósfa | II. |
+| 51. | Pósfa | III. |
 
 | 52. | Rábapaty | II. |
 
