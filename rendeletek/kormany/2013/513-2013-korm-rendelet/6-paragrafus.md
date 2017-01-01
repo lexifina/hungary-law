@@ -18,11 +18,11 @@ d)[^4] a nevelőszülő magatartása
 
 (4) Ha a működtető a nevelőszülő alkalmasságának hiányát észleli, a nevelőszülőt orvosi, pszichológiai vizsgálaton való részvételre kötelezheti.
 
-(5)[^5] Ha a működtető arról tájékoztatja a nevelőszülőnek jelentkező személyt vagy a nevelőszülőt, hogy pszichológiai szempontból nem tartja alkalmasnak a nevelőszülői feladat ellátására, a nevelőszülő a Nemzeti Rehabilitációs és Szociális Hivatalnál kérelmezheti pszichológiai alkalmasságának ismételt vizsgálatát. A pszichológiai alkalmasság ismételt vizsgálatának költségei a nevelőszülőt terhelik.
+(5)[^5] Ha a működtető arról tájékoztatja a nevelőszülőnek jelentkező személyt vagy a nevelőszülőt, hogy pszichológiai szempontból nem tartja alkalmasnak a nevelőszülői feladat ellátására, a nevelőszülő az Országos Gyermekvédelmi Szakértői Bizottságnál kérelmezheti pszichológiai alkalmasságának ismételt vizsgálatát. A pszichológiai alkalmasság ismételt vizsgálatának költségei a nevelőszülőt terhelik.
 
-(6)[^6] A pszichológiai alkalmasság ismételt vizsgálatát a Nemzeti Rehabilitációs és Szociális Hivatal felkérésére két, az Országos Gyermekvédelmi Szakértői Névjegyzék „Gyermekek, illetve a gyámhatósági eljárásban érintett személyek személyiségvizsgálata” szakterületére felvett pszichológus szakértő végzi. A működtető a pszichológus szakértők írásbeli véleményének figyelembevételével ismételten dönt az alkalmasságról, amelynek eredményéről írásban értesíti a nevelőszülőnek jelentkező személyt vagy a nevelőszülőt.
+(6)[^6] A pszichológiai alkalmasság ismételt vizsgálatát az Országos Gyermekvédelmi Szakértői Bizottság felkérésére két, az Országos Gyermekvédelmi Szakértői Névjegyzék „Gyermekek, illetve a gyámhatósági eljárásban érintett személyek személyiségvizsgálata” szakterületére felvett pszichológus szakértő végzi. A működtető a pszichológus szakértők írásbeli véleményének figyelembevételével ismételten dönt az alkalmasságról, amelynek eredményéről írásban értesíti a nevelőszülőnek jelentkező személyt vagy a nevelőszülőt.
 
 [^3]: A 6. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 239. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^4]: A 6. § (2) bekezdés d) pontja a 353/2014. (XII. 29.) Korm. rendelet 90. § a) pontja szerint módosított szöveg.
-[^5]: A 6. § (5) bekezdése a 221/2015. (VIII. 7.) Korm. rendelet 23. § a) pontja szerint módosított szöveg.
-[^6]: A 6. § (6) bekezdése a 221/2015. (VIII. 7.) Korm. rendelet 23. § b) pontja szerint módosított szöveg.
+[^5]: A 6. § (5) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 257. § a) pontja szerint módosított szöveg.
+[^6]: A 6. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 257. § b) pontja szerint módosított szöveg.

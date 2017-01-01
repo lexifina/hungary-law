@@ -22,7 +22,7 @@ ba) a nevelőszülő szakképesítés megszerzéséről szóló oklevél számá
 
 bb) – a ba) alpontban meghatározott oklevél hiányában – a nevelőszülő szakképesítés első modulzáró vizsgájának eredményes letételéről szóló igazolás számát, keltét, az igazolást kiállító szerv nevét és címét, vagy
 
-bc)[^9] – a ba) és a bb) alpontban meghatározott oklevél vagy igazolás hiányában – a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló 29/2003. (V. 20.) ESZCSM rendelet alapján a nevelőszülői tanfolyam sikeres elvégzéséről kiadott tanúsítvány számát és keltét, valamint a tanúsítvány kiállítójának nevét, címét vagy a szakképesítés megszerzése alóli felmentés tényét a felmentés alapjául szolgáló ok megjelölésével,
+bc)[^10] – a ba) és a bb) alpontban meghatározott oklevél vagy igazolás hiányában – a helyettes szülők, a nevelőszülők, a családi napközit működtetők képzésének szakmai és vizsgakövetelményeiről, valamint az örökbefogadás előtti tanácsadásról és felkészítő tanfolyamról szóló 29/2003. (V. 20.) ESZCSM rendelet alapján a nevelőszülői tanfolyam sikeres elvégzéséről kiadott tanúsítvány számát és keltét, valamint a tanúsítvány kiállítójának nevét, címét vagy a szakképesítés megszerzése alóli felmentés tényét a felmentés alapjául szolgáló ok megjelölésével,
 
 c) a nevelőszülői hálózat fenntartójának nevét és címét,
 
@@ -46,7 +46,7 @@ l) a nevelőszülő helyettesítésének és segítésének módját, eseteit,
 
 m) azt, hogy a nevelőszülő speciális vagy különleges nevelőszülő, valamint azt a tényt, hogy a nevelőszülő a 9. § (1) bekezdése alapján kizárólag hozzátartozója tekintetében lát el nevelőszülői feladatokat,
 
-n)[^10] a nevelőszülő és a működtető megállapodását arról, hogy
+n)[^11] a nevelőszülő és a működtető megállapodását arról, hogy
 
 na) a nevelőszülőnél – saját gyermekeit is beszámítva – hány gyermek, fiatal felnőtt helyezhető el,
 
@@ -56,7 +56,7 @@ nc) a nevelőszülő – feltéve, hogy nem jogosult a Gyvt. 66/G. § (1) bekezd
 
 o) indokolt esetben a működtető hozzájárulását ahhoz, hogy a nevelőszülő helyettes szülői feladatokat is elláthat,
 
-p)[^11] a működtető hozzájárulását a nevelőszülő Gyvt. 66/B. § (4) bekezdésében foglaltak szerinti időkorlátozás nélküli keresőtevékenységéhez, indokolt esetben megjelölve azokat a feltételeket, amelyek biztosítják, hogy a keresőtevékenység a nála elhelyezett gyermek, fiatal felnőtt ellátását nem veszélyezteti,
+p)[^12] a működtető hozzájárulását a nevelőszülő Gyvt. 66/B. § (4) bekezdésében foglaltak szerinti időkorlátozás nélküli keresőtevékenységéhez, indokolt esetben megjelölve azokat a feltételeket, amelyek biztosítják, hogy a keresőtevékenység a nála elhelyezett gyermek, fiatal felnőtt ellátását nem veszélyezteti,
 
 q) a nevelőszülő és a működtető kapcsolattartásának módját,
 
@@ -70,13 +70,13 @@ u) a nevelőszülő, a nevelőszülő házastársa vagy élettársa és a műkö
 
 (2) Az (1) bekezdés h) pontja szerinti napi összeget a havi összeg harminc nappal való elosztásával kell megállapítani.
 
-(3)[^12] Az (1) bekezdés k) pontja szerinti bankszámlán kizárólag a gyermek, a fiatal felnőtt ellátására szolgáló nevelési díjat, külön ellátmányt és családi pótlékot lehet fogadni.
+(3)[^13] Az (1) bekezdés k) pontja szerinti bankszámlán kizárólag a gyermek, a fiatal felnőtt ellátására szolgáló nevelési díjat, külön ellátmányt és családi pótlékot lehet fogadni.
 
 (4) Ha az (1) bekezdésben meghatározott adatokban, tényekben változás következik be, a működtető az azokról való tudomásszerzést követő tizenöt napon belül módosítási záradékkal látja el a keretmegállapodást vagy gondoskodik az új keretmegállapodás elkészítéséről. A módosítási záradékban a keretmegállapodás módosuló pontjait kell feltüntetni. A módosítási záradékot a nevelőszülő és a működtető képviselője aláírja.
 
 (5) A nevelőszülői foglalkoztatási jogviszony megszűnése vagy megszüntetése esetén a működtető haladéktalanul megszüntetési záradékkal látja el a keretmegállapodást. A záradékban fel kell tüntetni a nevelőszülőt a nevelőszülői díjazás keretében megillető alapdíj folyósítása megszüntetésének időpontját. A megszüntetési záradékot a nevelőszülő és a működtető képviselője aláírja.
 
-[^9]: A 11. § (1) bekezdés b) pont bc) alpontja a 353/2014. (XII. 29.) Korm. rendelet 90. § b) pontja szerint módosított szöveg.
-[^10]: A 11. § (1) bekezdés n) pontja a 353/2014. (XII. 29.) Korm. rendelet 82. § (1) bekezdésével megállapított szöveg.
-[^11]: A 11. § (1) bekezdés p) pontja a 353/2014. (XII. 29.) Korm. rendelet 82. § (2) bekezdésével megállapított szöveg.
-[^12]: A 11. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 83. §-ával megállapított szöveg.
+[^10]: A 11. § (1) bekezdés b) pont bc) alpontja a 353/2014. (XII. 29.) Korm. rendelet 90. § b) pontja szerint módosított szöveg.
+[^11]: A 11. § (1) bekezdés n) pontja a 353/2014. (XII. 29.) Korm. rendelet 82. § (1) bekezdésével megállapított szöveg.
+[^12]: A 11. § (1) bekezdés p) pontja a 353/2014. (XII. 29.) Korm. rendelet 82. § (2) bekezdésével megállapított szöveg.
+[^13]: A 11. § (3) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 83. §-ával megállapított szöveg.
