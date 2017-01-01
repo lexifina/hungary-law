@@ -6,15 +6,15 @@ a) az Állami Népegészségügyi és Tisztiorvosi Szolgálat,
 
 b) a honvédelemről és a Magyar Honvédségről, valamint a különleges jogrendben bevezethető intézkedésekről szóló 2011. évi CXIII. törvény szerinti megyei védelmi bizottságok,
 
-c) a Bevándorlási és Állampolgársági Hivatal,
+c)[^1] a Bevándorlási és Menekültügyi Hivatal,
 
 d) a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság,
 
-e)[^1] a megyei és fővárosi kormányhivatalok, valamint azok járási és fővárosi kerületi hivatalai,
+e)[^2] a megyei és fővárosi kormányhivatalok, valamint azok járási és fővárosi kerületi hivatalai,
 
 f) a Nemzeti Élelmiszerlánc-biztonsági Hivatal,
 
-g) a Nemzeti Fogyasztóvédelmi Hatóság,
+g)[^3] a fogyasztóvédelemért felelős miniszter,
 
 h) a Nemzeti Adó- és Vámhivatal,
 
@@ -30,4 +30,6 @@ k) a Magyar Honvédség Közegészségügyi-járványügyi Szolgálat.
 
 (4) A NER szerinti feladatok végrehajtásában az (1) bekezdés a) vagy e) pontja szerinti szerv megkeresésére az (1) bekezdés szerinti szervek – különösen az (1) bekezdés d), h) és j) pontja szerinti szervek – területi szervei is részt vesznek.
 
-[^1]: A 3. § (1) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 227. § a) pontja szerint módosított szöveg.
+[^1]: A 3. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 237. § (4) bekezdés b) pontja szerint módosított szöveg.
+[^2]: A 3. § (1) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 227. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § (1) bekezdés g) pontja a 379/2016. (XII. 2.) Korm. rendelet 237. § (4) bekezdés c) pontja szerint módosított szöveg.
