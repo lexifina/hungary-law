@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-8-20-83
 | 2011-01-01 | 2001-8-20-83.4 | 27/2010. (XII. 31.) NGM rendelet |
 | 2015-04-01 | 2001-8-20-83.5 | 27/2010. (XII. 31.) NGM rendelet |
 | 2016-09-22 | 2001-8-20-83.6 | 34/2016. (IX. 14.) NGM rendelet |
+| 2017-01-01 | 2001-8-20-83.7 | 62/2016. (XII. 29.) NGM rendelet |
