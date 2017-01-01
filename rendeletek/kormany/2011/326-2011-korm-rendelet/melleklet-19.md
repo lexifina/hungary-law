@@ -16,11 +16,11 @@ a) a Műszaki Adatlapot,
 
 b) a kötelező gépjármű-felelősségbiztosítás meglétéről, vagy a mentességről szóló igazolást,
 
-c)[^247] az E betűjelű ideiglenes rendszámtábla, az ideiglenes forgalomban tartási engedély, igazgatási szolgáltatási díjának befizetéséről szóló igazolást,
+c)[^304] az E betűjelű ideiglenes rendszámtábla, az ideiglenes forgalomban tartási engedély, igazgatási szolgáltatási díjának befizetéséről szóló igazolást,
 
 d) személyes megjelenés esetén az ügyfél, képviseleti eljárás esetén a meghatalmazott személyazonosságát igazoló okmányt, illetve képviseleti eljárás esetén meghatalmazást, valamint
 
-e)[^248] jogi személy esetében
+e)[^305] jogi személy esetében
 
 ea) ha a közlekedési igazgatási hatóság a kérelemről azonnal dönt a közjegyzői aláírás-hitelesítéssel ellátott címpéldányt, avagy ennek közjegyző által hitelesített másolatát vagy az ügyvéd által ellenjegyzett aláírás-mintát,
 
@@ -48,9 +48,9 @@ bd) ha a származás szerinti tagállamban csak I. részből áll a forgalmi eng
 
 c) ha a jármű ideiglenes forgalomban tartását engedélyezték, a korábban kiadott ideiglenes forgalomban tartási engedélyt, valamint az E betűjelű ideiglenes rendszámtáblát,
 
-d)[^249] a forgalmi engedély és a törzskönyv illetékének, az állandó rendszámtábla igazgatási szolgáltatási díjának befizetéséről szóló igazolást,
+d)[^306] a forgalmi engedély és a törzskönyv illetékének, az állandó rendszámtábla igazgatási szolgáltatási díjának befizetéséről szóló igazolást,
 
-e)[^250]
+e)[^307]
 
 f) a tulajdonjog megszerzését igazoló okirat eredeti vagy hitelesített másolati példányát, illetve ha az nem magyar nyelven került kiállításra, annak hiteles, magyar nyelvű fordítását is.
 
@@ -60,13 +60,13 @@ a) a kötelező gépjármű-felelősségbiztosítás meglétéről, vagy a mente
 
 b) a vagyonszerzési illeték megfizetését tanúsító igazolást, ha a tulajdonszerzés és a jármű birtokba vétele a Magyarország területén történt,
 
-c) [^251]
+c) [^308]
 
 d) az ügyfél-azonosító okmányt,
 
-e)[^252] a 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsi, vontató, pótkocsi és autóbusz esetén – a külön jogszabályban meghatározottak szerint – a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének igazolását.
+e)[^309] a 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsi, vontató, pótkocsi és autóbusz esetén – a külön jogszabályban meghatározottak szerint – a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének igazolását.
 
-f)[^253] a bizalmi vagyonkezelői minőséget igazoló okiratot.
+f)[^310] a bizalmi vagyonkezelői minőséget igazoló okiratot.
 
 2. Az EGT valamely más tagállamából származó használt jármű forgalomba helyezése során
 
@@ -74,9 +74,9 @@ A) A forgalomba helyezésre irányuló kérelemhez csatolni kell:
 
 a) a származási tagállam hatósága által kiadott, nem harmonizált adattartalmú forgalmi engedélyt vagy annak a kiállító hatóság által hitelesített másolatát vagy a harmonizált adattartalmú forgalmi engedély I. és II. részének eredeti példányát, feltéve, hogy a jármű származási tagállamában a forgalmi engedély II. része kiállításra került, valamint a külföldi hatósági jelzést, feltéve, hogy azt a külföldi hatóság nem vonta vissza,
 
-b)[^254] a forgalmi engedély és a törzskönyv illetékének, az állandó rendszámtábla igazgatási szolgáltatási díjának befizetéséről szóló igazolást,
+b)[^311] a forgalmi engedély és a törzskönyv illetékének, az állandó rendszámtábla igazgatási szolgáltatási díjának befizetéséről szóló igazolást,
 
-c)[^255]
+c)[^312]
 
 d) a tulajdonjog megszerzését igazoló okirat eredeti vagy hitelesített másolati példányát, illetve ha az nem magyar nyelven került kiállításra, annak hiteles, magyar nyelvű fordítását is.
 
@@ -86,25 +86,25 @@ a) a kötelező gépjármű-felelősségbiztosítás meglétéről vagy a mentes
 
 b) a vagyonszerzési illeték megfizetését tanúsító igazolást, ha a tulajdonszerzés és a jármű birtokba vétele a Magyarország területén történt,
 
-c)[^256]
+c)[^313]
 
 d) az ügyfél-azonosító okmányt,
 
-e)[^257] a 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsi, vontató, pótkocsi és autóbusz esetében – a külön jogszabályban meghatározottak szerint – a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének igazolását.
+e)[^314] a 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsi, vontató, pótkocsi és autóbusz esetében – a külön jogszabályban meghatározottak szerint – a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének igazolását.
 
-f)[^258] a bizalmi vagyonkezelői minőséget igazoló okiratot.
+f)[^315] a bizalmi vagyonkezelői minőséget igazoló okiratot.
 
 3. Új jármű forgalomba helyezése során
 
 A) Az első forgalomba helyezésre irányuló kérelemhez csatolni kell:
 
-a)[^259]
+a)[^316]
 
 b) a forgalmi engedély és a törzskönyv illetékének megfizetését tanúsító igazolást,
 
 c) a tulajdonjog megszerzését igazoló okirat eredeti vagy hitelesített másolati példányát, illetve ha az nem magyar nyelven került kiállításra, annak hiteles, magyar nyelvű fordítását is,
 
-d)[^260] a rendszámtábla igazgatási szolgáltatási díjának befizetéséről szóló igazolásokat.
+d)[^317] a rendszámtábla igazgatási szolgáltatási díjának befizetéséről szóló igazolásokat.
 
 B) A kérelem benyújtásakor be kell mutatni:
 
@@ -114,13 +114,13 @@ b) a kötelező gépjármű-felelősségbiztosítás meglétéről, vagy a mente
 
 c) a vagyonszerzési illeték megfizetését tanúsító igazolást, ha a tulajdonszerzés és a jármű birtokba vétele a Magyarország területén történt,
 
-d)[^261]
+d)[^318]
 
 e) az ügyfél-azonosító okmányt,
 
-f)[^262] a 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsi, vontató, pótkocsi és autóbusz esetén – a külön jogszabályban meghatározottak szerint – a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének igazolását.
+f)[^319] a 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsi, vontató, pótkocsi és autóbusz esetén – a külön jogszabályban meghatározottak szerint – a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének igazolását.
 
-g)[^263] a bizalmi vagyonkezelői minőséget igazoló okiratot
+g)[^320] a bizalmi vagyonkezelői minőséget igazoló okiratot
 
 III. A járművek tulajdonjog-változásának nyilvántartásba vételéhez (a továbbiakban: átírás) szükséges okmányok
 
@@ -134,9 +134,9 @@ b) a forgalmi engedély és törzskönyv illetékének megfizetését tanúsít�
 
 c) a tulajdonjog megszerzését igazoló okiratot,
 
-d)[^264]
+d)[^321]
 
-e)[^265] ha új rendszámtábla kiadására is sor kerül, a rendszámtábla igazgatási szolgáltatási díjának befizetéséről szóló igazolást.
+e)[^322] ha új rendszámtábla kiadására is sor kerül, a rendszámtábla igazgatási szolgáltatási díjának befizetéséről szóló igazolást.
 
 B) A kérelem benyújtásakor be kell mutatni:
 
@@ -148,9 +148,9 @@ c) a vagyonszerzési illeték megfizetését tanúsító igazolást,
 
 d) az ügyfél-azonosító okmányt,
 
-e)[^266] a 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsi, vontató, pótkocsi és autóbusz esetében – a külön jogszabályban meghatározottak szerint – a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének igazolását.
+e)[^323] a 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsi, vontató, pótkocsi és autóbusz esetében – a külön jogszabályban meghatározottak szerint – a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének igazolását.
 
-f)[^267] a bizalmi vagyonkezelői minőséget igazoló okiratot.
+f)[^324] a bizalmi vagyonkezelői minőséget igazoló okiratot.
 
 2. Az új típusú forgalmi engedélyek (17. melléklet B. és C. pont) esetében szükséges okmányok
 
@@ -164,9 +164,9 @@ c) a forgalmi engedély, illetve a törzskönyv illetékének megfizetését tan
 
 d) a tulajdonjog megszerzését igazoló okiratot,
 
-e)[^268]
+e)[^325]
 
-f)[^269] ha új rendszámtábla kiadására is sor kerül, a rendszámtábla igazgatási szolgáltatási díjának befizetéséről szóló igazolást.
+f)[^326] ha új rendszámtábla kiadására is sor kerül, a rendszámtábla igazgatási szolgáltatási díjának befizetéséről szóló igazolást.
 
 B) A kérelem benyújtásakor be kell mutatni:
 
@@ -178,9 +178,9 @@ c) a vagyonszerzési illeték megfizetését tanúsító igazolást,
 
 d) az ügyfél-azonosító okmányt,
 
-e)[^270] a 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsi, vontató, pótkocsi és autóbusz esetén – a külön jogszabályban meghatározottak szerint – a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének igazolását.
+e)[^327] a 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsi, vontató, pótkocsi és autóbusz esetén – a külön jogszabályban meghatározottak szerint – a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének igazolását.
 
-f)[^271] a bizalmi vagyonkezelői minőséget igazoló okiratot.
+f)[^328] a bizalmi vagyonkezelői minőséget igazoló okiratot.
 
 IV. A járművek forgalomból történő kivonásához szükséges okmányok
 
@@ -188,7 +188,7 @@ IV. A járművek forgalomból történő kivonásához szükséges okmányok
 
 A kérelem benyújtásakor be kell mutatni:
 
-a)[^272]
+a)[^329]
 
 b) az igazgatási szolgáltatási díj befizetéséről szóló igazolást,
 
@@ -246,7 +246,7 @@ d) az ügyfél-azonosító okmányt.
 
 C) A járműnek az ügyfél kérelmére átmeneti időszakra történő forgalomból kivonása során a kérelemben megjelölt indok igazolására különösen az alábbi okiratok alkalmasak:
 
-a)[^273] jármű 2016. január 1-jét megelőző eltulajdonítása esetén a rendőrség által érkeztetett feljelentés, a nyomozás elrendeléséről vagy a nyomozás felfüggesztéséről szóló határozat,
+a)[^330] jármű 2016. január 1-jét megelőző eltulajdonítása esetén a rendőrség által érkeztetett feljelentés, a nyomozás elrendeléséről vagy a nyomozás felfüggesztéséről szóló határozat,
 
 b) a járművel külföldön történő letelepedés vagy tartós külföldi tartózkodás esetén a külföldi hatóság letelepedési vagy tartózkodásra jogosító engedélye,
 
@@ -256,7 +256,7 @@ d) a jármű muzeális előminősítése esetén a Muzeális Minősítő Bizotts
 
 e) a versenyjárművé történő átalakítást igazoló Műszaki Adatlap,
 
-f)[^274] külföldi fegyveres erő állományának tagja magyarországi szolgálati helye megszűnését igazoló okirat.
+f)[^331] külföldi fegyveres erő állományának tagja magyarországi szolgálati helye megszűnését igazoló okirat.
 
 V. Az ügyintézés során szükséges egyéb okmányok
 
@@ -266,7 +266,7 @@ A) A kérelemhez csatolni kell:
 
 a) az előző rendszámtáblát, illetve forgalmi engedélyt,
 
-b)[^275] a forgalmi engedély illetékének megfizetését tanúsító igazolást, illetve a rendszámtábla igazgatási szolgáltatási díjának befizetéséről szóló igazolást.
+b)[^332] a forgalmi engedély illetékének megfizetését tanúsító igazolást, illetve a rendszámtábla igazgatási szolgáltatási díjának befizetéséről szóló igazolást.
 
 2. Üzemben tartói jog bejegyzése, illetve változása esetén
 
@@ -282,7 +282,7 @@ a) fődarab származását igazoló okiratot vagy számlát,
 
 b) külföldről származó használt alváz beépítése esetén a származás-ellenőrzés megtörténtét igazoló határozatot,
 
-c)[^276]
+c)[^333]
 
 d) a jármű forgalmi engedélyét,
 
@@ -294,7 +294,7 @@ f) a forgalmi engedély, illetve törzskönyv illetékének megfizetését tanú
 
 a) az engedélyező határozatot,
 
-b)[^277]
+b)[^334]
 
 c) a jármű forgalmi engedélyét,
 
@@ -312,7 +312,7 @@ b) a vámhatóság engedélyét.
 
 a) a motor tulajdonjogának jogszerű megszerzését igazoló okiratot,
 
-b)[^278]
+b)[^335]
 
 c) a jármű forgalmi engedélyét,
 
@@ -332,7 +332,7 @@ d) a mezőgazdasági erőgép gépkönyvéről, típusbizonyítványáról vagy 
 
 8. Forgalmi engedély vagy törzskönyv pótlása esetén
 
-a)[^279] az okmány eltulajdonítása esetén a rendőrségi feljelentést, elvesztése vagy megsemmisülése esetén az erről szóló jegyzőkönyvet,
+a)[^336] az okmány eltulajdonítása esetén a rendőrségi feljelentést, elvesztése vagy megsemmisülése esetén az erről szóló jegyzőkönyvet,
 
 b) a forgalmi engedély vagy törzskönyv illetékének megfizetését tanúsító igazolást.
 
@@ -342,7 +342,7 @@ a) az igazgatási szolgáltatási díj megfizetését tanúsító igazolást,
 
 b) a rövid szöveges üzenet fogadására szolgáló elérhetőség, telefonszám vagy elektronikus levélcím bejegyzésére irányuló kérelmet.
 
-10.[^280] Az opciós jog vagy a tulajdonjogot érintő korlátozás nyilvántartásba vétele vagy törlése esetén a bejegyzés vagy a törlés alapjául szolgáló okirat eredeti példányát.
+10.[^337] Az opciós jog vagy a tulajdonjogot érintő korlátozás nyilvántartásba vétele vagy törlése esetén a bejegyzés vagy a törlés alapjául szolgáló okirat eredeti példányát.
 
 B) A kérelem benyújtásakor be kell mutatni:
 
@@ -358,9 +358,9 @@ e) az A/3. és A/6. pontban meghatározott esetben – a regisztrációs adóró
 
 f) az A/7. pontban meghatározott esetben a mezőgazdasági és vidékfejlesztési támogatási szerv által külön jogszabály alapján megállapított regisztrációs számot, valamint a kötelező gépjármű-felelősségbiztosítás megkötésének igazolását,
 
-g)[^281]
+g)[^338]
 
-h)[^282] a 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsi, vontató, pótkocsi és autóbusz esetén a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének a közúti közlekedési nyilvántartásról szóló törvény szerinti igazolását.
+h)[^339] a 3,5 tonna megengedett legnagyobb össztömeget meghaladó tehergépkocsi, vontató, pótkocsi és autóbusz esetén a jármű tényleges tárolási helyéül szolgáló székhely/telephely szerinti települési önkormányzat jegyzőjének a közúti közlekedési nyilvántartásról szóló törvény szerinti igazolását.
 
 VI. A vezetői engedélyekkel kapcsolatos ügyintézés során szükséges okmányok
 
@@ -374,7 +374,7 @@ b) a vezetői engedély kiállítása illetékének megfizetését tanúsító i
 
 2. Csere, illetve új kategória megszerzése esetén
 
-a)[^283] a kiadás alapjául szolgáló előző vezetői engedélyt vagy a 2. § 10. pont b) alpontjában meghatározott eljárásban a vezetői engedély eltulajdonítása esetén a rendőrségi feljelentést, elvesztése vagy megsemmisülése esetén az erről szóló jegyzőkönyvet,
+a)[^340] a kiadás alapjául szolgáló előző vezetői engedélyt vagy a 2. § 10. pont b) alpontjában meghatározott eljárásban a vezetői engedély eltulajdonítása esetén a rendőrségi feljelentést, elvesztése vagy megsemmisülése esetén az erről szóló jegyzőkönyvet,
 
 b) az egészségügyi alkalmassági véleményt,
 
@@ -382,7 +382,7 @@ c) a vezetői engedély kiállítása illetékének megfizetését tanúsító i
 
 3. Pótlás esetén
 
-a)[^284] a vezetői engedély eltulajdonítása esetén a rendőrségi feljelentést, elvesztése vagy megsemmisülése esetén az erről szóló jegyzőkönyvet,
+a)[^341] a vezetői engedély eltulajdonítása esetén a rendőrségi feljelentést, elvesztése vagy megsemmisülése esetén az erről szóló jegyzőkönyvet,
 
 b) a vezetői engedély kiállítása illetékének megfizetését tanúsító igazolást.
 
@@ -396,53 +396,60 @@ b) az e rendeletben meghatározott esetben egészségügyi alkalmassági vélem�
 
 c) a vezetői engedély kiadását megalapozó nyilatkozatot tartalmazó okiratot.
 
+6.[^342] A nemzetközi vezetői engedély iránti kérelem személyesen történő benyújtása esetén:
+
+a) 2 db, a vonatkozó szabványoknak megfelelő, fotópapírra nyomtatott igazolványképet,
+
+b) a nemzetközi vezetői engedély kiállítása díjának megfizetését tanúsító igazolást.
+
 B) A vezetői engedélyekkel kapcsolatos ügyintézés során be kell mutatni:
 
 a) a személyazonosításra alkalmas okmányt,
 
-b)[^285] a személyi azonosítót és lakcímet igazoló hatósági igazolványt,
+b)[^343] a személyi azonosítót és lakcímet igazoló hatósági igazolványt,
 
 c) külföldi esetén a szokásos tartózkodási hely országát igazoló okmányt,
 
-d)[^286]
+d)[^344]
 
-[^247]: A 19. melléklet I. fejezet 2. pont c) alpontja a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ca) alpontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^248]: A 19. melléklet I. rész 2. pont e) alpontja az 544/2013. (XII. 30.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg.
-[^249]: A 19. melléklet II. fejezet 1. pont A) pont d) alpontja a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cb) alpontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^250]: A 19. melléklet II. fejezet 1. pont A) pont e) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cc) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^251]: A 19. melléklet II. fejezet 1. pont B) pont c) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § d) pontja hatályon kívül helyezte.
-[^252]: A 19. melléklet II. Fejezet 1. B) pont e) alpontja a 467/2015. (XII. 29.) Korm. rendelet 29. § r) pontja szerint módosított szöveg.
-[^253]: A 19. melléklet II. fejezet 1. pont B) pont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 41. § (3) bekezdése iktatta be.
-[^254]: A 19. melléklet II. fejezet 2. pont A) pont b) alpontja a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cb) alpontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^255]: A 19. melléklet II. fejezet 2. pont A) pont c) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cd) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^256]: A 19. melléklet II. fejezet 2. pont B) pont c) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § e) pontja hatályon kívül helyezte.
-[^257]: A 19. melléklet II. Fejezet 2. B) pont e) alpontja a 467/2015. (XII. 29.) Korm. rendelet 29. § r) pontja szerint módosított szöveg.
-[^258]: A 19. melléklet II. fejezet 2. pont B) pont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 41. § (3) bekezdése iktatta be.
-[^259]: A 19. melléklet II. fejezet 3. pont A) pont a) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ce) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^260]: A 19. melléklet II. fejezet 3. pont A) pont d) alpontja a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cb) alpontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^261]: A 19. melléklet II. fejezet 3. pont B) pont d) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § f) pontja hatályon kívül helyezte.
-[^262]: A 19. melléklet II. Fejezet 3. B) pontja a 467/2015. (XII. 29.) Korm. rendelet 29. § r) pontja szerint módosított szöveg.
-[^263]: A 19. melléklet II. fejezet 3. pont B) alpont g) pontját az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
-[^264]: A 19. melléklet III. fejezet 1. pont A) pont d) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cf) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^265]: A 19. melléklet III. fejezet 1. pont A) pont e) alpontja a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ca) alpontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^266]: A 19. melléklet III. Fejezet 1. B) pont e) alpontja a 467/2015. (XII. 29.) Korm. rendelet 29. § r) pontja szerint módosított szöveg.
-[^267]: A 19. melléklet III. fejezet 1. pont B) alpont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
-[^268]: A 19. melléklet III. fejezet 2. pont A) pont e) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cg) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^269]: A 19. melléklet III. fejezet 2. pont A) pont f) alpontja a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ca) alpontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^270]: A 19. melléklet III. Fejezet 2. B) pont e) alpontja a 467/2015. (XII. 29.) Korm. rendelet 29. § r) pontja szerint módosított szöveg.
-[^271]: A 19. melléklet III. fejezet 2. pont B) alpont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
-[^272]: A 19. melléklet IV. fejezet 1. pont a) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § g) pontja hatályon kívül helyezte.
-[^273]: A 19. melléklet IV. fejezet 4. pont C) alpont a) alpontja a 441/2015. (XII. 28.) Korm. rendelet 155. §-a szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^274]: A 19. melléklet IV. fejezet 4. pont C. pont f) alpontját a 319/2016. (X. 25.) Korm. rendelet 8. §-a iktatta be.
-[^275]: A 19. melléklet V. fejezet A) pont 1. pont b) alpontja a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ca) alpontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^276]: A 19. melléklet V. fejezet A) pont 3. pont c) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ch) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^277]: A 19. melléklet V. fejezet A) pont 4. pont b) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ci) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^278]: A 19. melléklet V. fejezet A) pont 6. pont b) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cj) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^279]: A 19. melléklet V. Fejezet A) 8. pont a) pontja a 467/2015. (XII. 29.) Korm. rendelet 28. § (3) bekezdésével megállapított szöveg.
-[^280]: A 19. melléklet V. fejezet A) pont 10) pontja az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
-[^281]: A 19. melléklet V. fejezet B) pont g) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ck) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^282]: A 19. melléklet V. Fejezet B) pont h) alpontja a 467/2015. (XII. 29.) Korm. rendelet 29. § r) pontja szerint módosított szöveg.
-[^283]: A 19. melléklet VI. Fejezet A) 2. pont a) pontja a 467/2015. (XII. 29.) Korm. rendelet 28. § (3) bekezdésével megállapított szöveg.
-[^284]: A 19. melléklet VI. Fejezet A) 3. pont a) pontja a 467/2015. (XII. 29.) Korm. rendelet 28. § (3) bekezdésével megállapított szöveg.
-[^285]: A 19. melléklet VI. alcím B) pont b) alpontja az 515/2013. (XII. 30.) Korm. rendelet 29. § (2) bekezdése szerint módosított szöveg.
-[^286]: A 19. melléklet VI. fejezet B) pont d) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés b) pontja hatályon kívül helyezte.
+[^304]: A 19. melléklet I. fejezet 2. pont c) alpontja a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ca) alpontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^305]: A 19. melléklet I. rész 2. pont e) alpontja az 544/2013. (XII. 30.) Korm. rendelet 41. § (3) bekezdésével megállapított szöveg.
+[^306]: A 19. melléklet II. fejezet 1. pont A) pont d) alpontja a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cb) alpontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^307]: A 19. melléklet II. fejezet 1. pont A) pont e) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cc) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^308]: A 19. melléklet II. fejezet 1. pont B) pont c) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § d) pontja hatályon kívül helyezte.
+[^309]: A 19. melléklet II. Fejezet 1. B) pont e) alpontja a 467/2015. (XII. 29.) Korm. rendelet 29. § r) pontja szerint módosított szöveg.
+[^310]: A 19. melléklet II. fejezet 1. pont B) pont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 41. § (3) bekezdése iktatta be.
+[^311]: A 19. melléklet II. fejezet 2. pont A) pont b) alpontja a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cb) alpontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^312]: A 19. melléklet II. fejezet 2. pont A) pont c) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cd) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^313]: A 19. melléklet II. fejezet 2. pont B) pont c) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § e) pontja hatályon kívül helyezte.
+[^314]: A 19. melléklet II. Fejezet 2. B) pont e) alpontja a 467/2015. (XII. 29.) Korm. rendelet 29. § r) pontja szerint módosított szöveg.
+[^315]: A 19. melléklet II. fejezet 2. pont B) pont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 41. § (3) bekezdése iktatta be.
+[^316]: A 19. melléklet II. fejezet 3. pont A) pont a) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ce) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^317]: A 19. melléklet II. fejezet 3. pont A) pont d) alpontja a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cb) alpontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^318]: A 19. melléklet II. fejezet 3. pont B) pont d) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § f) pontja hatályon kívül helyezte.
+[^319]: A 19. melléklet II. Fejezet 3. B) pontja a 467/2015. (XII. 29.) Korm. rendelet 29. § r) pontja szerint módosított szöveg.
+[^320]: A 19. melléklet II. fejezet 3. pont B) alpont g) pontját az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
+[^321]: A 19. melléklet III. fejezet 1. pont A) pont d) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cf) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^322]: A 19. melléklet III. fejezet 1. pont A) pont e) alpontja a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ca) alpontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^323]: A 19. melléklet III. Fejezet 1. B) pont e) alpontja a 467/2015. (XII. 29.) Korm. rendelet 29. § r) pontja szerint módosított szöveg.
+[^324]: A 19. melléklet III. fejezet 1. pont B) alpont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
+[^325]: A 19. melléklet III. fejezet 2. pont A) pont e) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cg) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^326]: A 19. melléklet III. fejezet 2. pont A) pont f) alpontja a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ca) alpontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^327]: A 19. melléklet III. Fejezet 2. B) pont e) alpontja a 467/2015. (XII. 29.) Korm. rendelet 29. § r) pontja szerint módosított szöveg.
+[^328]: A 19. melléklet III. fejezet 2. pont B) alpont f) pontját az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
+[^329]: A 19. melléklet IV. fejezet 1. pont a) alpontját az 544/2013. (XII. 30.) Korm. rendelet 43. § g) pontja hatályon kívül helyezte.
+[^330]: A 19. melléklet IV. fejezet 4. pont C) alpont a) alpontja a 441/2015. (XII. 28.) Korm. rendelet 155. §-a szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^331]: A 19. melléklet IV. fejezet 4. pont C. pont f) alpontját a 319/2016. (X. 25.) Korm. rendelet 8. §-a iktatta be.
+[^332]: A 19. melléklet V. fejezet A) pont 1. pont b) alpontja a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ca) alpontja szerint módosított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^333]: A 19. melléklet V. fejezet A) pont 3. pont c) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ch) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^334]: A 19. melléklet V. fejezet A) pont 4. pont b) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ci) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^335]: A 19. melléklet V. fejezet A) pont 6. pont b) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont cj) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^336]: A 19. melléklet V. Fejezet A) 8. pont a) pontja a 467/2015. (XII. 29.) Korm. rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^337]: A 19. melléklet V. fejezet A) pont 10) pontja az 544/2013. (XII. 30.) Korm. rendelet 4. pontja iktatta be.
+[^338]: A 19. melléklet V. fejezet B) pont g) alpontját a 441/2015. (XII. 28.) Korm. rendelet 156. § c) pont ck) alpontja hatályon kívül helyezte. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^339]: A 19. melléklet V. Fejezet B) pont h) alpontja a 467/2015. (XII. 29.) Korm. rendelet 29. § r) pontja szerint módosított szöveg.
+[^340]: A 19. melléklet VI. Fejezet A) 2. pont a) pontja a 467/2015. (XII. 29.) Korm. rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^341]: A 19. melléklet VI. Fejezet A) 3. pont a) pontja a 467/2015. (XII. 29.) Korm. rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^342]: A 19. melléklet VI. fejezet A) pont 6. alpontját a 477/2016. (XII. 27.) Korm. rendelet 57. § (9) bekezdése iktatta be.
+[^343]: A 19. melléklet VI. alcím B) pont b) alpontja az 515/2013. (XII. 30.) Korm. rendelet 29. § (2) bekezdése szerint módosított szöveg.
+[^344]: A 19. melléklet VI. fejezet B) pont d) alpontját az 5/2013. (I. 16.) Korm. rendelet 23. § (2) bekezdés b) pontja hatályon kívül helyezte.

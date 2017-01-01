@@ -1,6 +1,6 @@
-## is jogosult eljárni.
+## kapcsolatos feladatokat.
 
-2. §[^7] (1) E rendelet alkalmazásában:
+2. §[^11] (1) E rendelet alkalmazásában:
 
 1. EGT-állam: az Európai Unió tagállama és az Európai Gazdasági Térségről szóló megállapodásban részes más állam, továbbá az az állam, amelynek állampolgára az Európai Közösség és tagállamai, valamint az Európai Gazdasági Térségről szóló megállapodásban nem részes más állam között létrejött nemzetközi szerződés alapján az Európai Gazdasági Térségről szóló megállapodásban részes állam állampolgárával azonos jogállást élvez;
 
@@ -14,7 +14,7 @@
 
 4. használt jármű: az új járműnek nem minősülő jármű;
 
-5.[^8] lakcím: a természetes személy ügyfél lakóhelye, tartózkodási helye, mindezek hiányában szálláshelye;
+5.[^12] lakcím: a természetes személy ügyfél lakóhelye, tartózkodási helye, mindezek hiányában szálláshelye;
 
 6. nyilvántartás: a közúti közlekedési nyilvántartás;
 
@@ -28,7 +28,7 @@
 
 9. új jármű: a gyártótól, forgalmazótól vagy kereskedelmi szervezettől közvetlenül megszerzett, a nyilvántartásba még ideiglenesen sem vett jármű;
 
-10.[^9] vezetői engedély cseréje:
+10.[^13] vezetői engedély cseréje:
 
 a) vezetői engedély kiállítása egy korábban magyar vagy egy más EGT-állam hatósága által kiadott vezetői engedély helyett,
 
@@ -36,17 +36,17 @@ b) vezetői engedély cseréjének kell tekinteni az eljárást abban az esetben
 
 11. vezetői engedély honosítása: vezetői engedély kiállítása egy harmadik ország hatósága által kiadott vezetői engedély helyett;
 
-12.[^10] vezetői engedély pótlása: vezetői engedély kiállítása egy korábban magyar vagy egy más EGT-állam hatósága által kiadott, elveszett, eltulajdonított vagy megsemmisült vezetői engedély helyett, annak érvényességi idején belül – az okmányazonosító adat és a kiállítás dátumának kivételével – a korábbi vezetői engedéllyel megegyező adattartalommal;
+12.[^14] vezetői engedély pótlása: vezetői engedély kiállítása egy korábban magyar vagy egy más EGT-állam hatósága által kiadott, elveszett, eltulajdonított vagy megsemmisült vezetői engedély helyett, annak érvényességi idején belül – az okmányazonosító adat és a kiállítás dátumának kivételével – a korábbi vezetői engedéllyel megegyező adattartalommal;
 
-13.[^11] forgalmi engedély, törzskönyv pótlása: az elveszett, eltulajdonított vagy megsemmisült okmány helyett új okmány kiállítása – az okmányazonosító adat és a kiállítás dátumának kivételével – a korábbi okmánnyal megegyező adattartalommal;
+13.[^15] forgalmi engedély, törzskönyv pótlása: az elveszett, eltulajdonított vagy megsemmisült okmány helyett új okmány kiállítása – az okmányazonosító adat és a kiállítás dátumának kivételével – a korábbi okmánnyal megegyező adattartalommal;
 
-14.[^12] rendszámtábla cseréje: a rendszámtáblának az eredeti karakterekkel azonos, eltérő színben történő legyártását követő kiadása.
+14.[^16] rendszámtábla cseréje: a rendszámtáblának az eredeti karakterekkel azonos, eltérő színben történő legyártását követő kiadása.
 
 (2) Ha e rendelet viszonosságról rendelkezik, akkor a viszonosság fennállása tekintetében a közlekedésért felelős miniszter és a külpolitikáért felelős miniszter nyilatkozata az irányadó.
 
-[^7]: A 2. § az 544/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^8]: A 2. § (1) bekezdés 5. pontja a 467/2015. (XII. 29.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
-[^9]: A 2. § (1) bekezdés 10. pontja a 467/2015. (XII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^10]: A 2. § (1) bekezdés 12. pontja a 467/2015. (XII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^11]: A 2. § (1) bekezdés 13. pontját a 467/2015. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
-[^12]: A 2. § (1) bekezdés 14. pontját a 467/2015. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^11]: A 2. § az 544/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^12]: A 2. § (1) bekezdés 5. pontja a 467/2015. (XII. 29.) Korm. rendelet 30. § a) pontja szerint módosított szöveg.
+[^13]: A 2. § (1) bekezdés 10. pontja a 467/2015. (XII. 29.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^14]: A 2. § (1) bekezdés 12. pontja a 467/2015. (XII. 29.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^15]: A 2. § (1) bekezdés 13. pontját a 467/2015. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.
+[^16]: A 2. § (1) bekezdés 14. pontját a 467/2015. (XII. 29.) Korm. rendelet 4. § (3) bekezdése iktatta be.

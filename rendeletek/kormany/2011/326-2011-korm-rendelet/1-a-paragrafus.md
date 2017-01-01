@@ -1,11 +1,9 @@
-## 1/A. §[^5] A megye területére kiterjedő illetékességgel a megyeszékhelyen működő járási hivatal hatáskörébe tartozik
+## 1/A. §[^8] Az ország területére kiterjedő illetékességgel a fővárosi és megyei kormányhivatal megyeszékhely szerinti járási (fővárosi kerületi) hivatala, Pest megyében a Pest Megyei Kormányhivatal Érdi Járási Hivatala, Budapesten a Budapest Főváros Kormányhivatala XIII. Kerületi Hivatala (a továbbiakban: XIII. Kerületi Hivatal) hatáskörébe tartozik
 
 a) a „P” és a „Z” betűjelű ideiglenes rendszámtábla kiadásával,
 
 b) a külön jogszabályban meghatározott közúti közlekedési szolgáltatást végző járműre a szabványtól eltérő alapszínű (sárga) rendszámtábla kiadásával, és
 
-c) a b) pont szerinti járművek üzemeltetési jellegével, annak változásával, üzembentartói és tulajdonjogának változásával
+c) a b) pont szerinti járművek üzemeltetési jellegével, annak változásával
 
-kapcsolatos feladatok ellátása.
-
-[^5]: Az 1/A. § az 544/2013. (XII. 30.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: Az 1/A. § a 379/2016. (XII. 2.) Korm. rendelet 186. § (3) bekezdésével megállapított szöveg.

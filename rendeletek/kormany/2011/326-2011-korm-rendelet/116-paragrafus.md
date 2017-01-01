@@ -10,14 +10,24 @@ b) a jármű azonosító jele gyártásra visszavezethető okból hibás vagy hi
 
 c) az előzetes eredetiség vizsgálat eredménye alapján indult büntetőeljárást a rendőrség, ügyészség, bíróság bűncselekmény hiányában megszünteti, megtagadja vagy a feljelentést elutasítja;
 
-d) a Hivatal a jármű azonosító jellel történő ellátását engedélyezte.
+d)[^259] a közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala a jármű azonosító jellel történő ellátását engedélyezte.
 
-(2) Az (1) bekezdés d) pontja esetén a Hivatal, az engedélyező határozat 90 napos érvényességi idővel történő megállapításával akkor engedélyezi a jármű azonosító jellel történő ellátását, ha
+(2)[^260] Az (1) bekezdés d) pontja esetén a közlekedési igazgatási hatósági feladatkörében eljáró Budapest Főváros Kormányhivatala az engedélyező határozat 90 napos érvényességi idővel történő megállapításával akkor engedélyezi a jármű azonosító jellel történő ellátását, ha a jármű jogi helyzete tisztázott, és a jármű tulajdonjogát eredeti okirattal vagy annak hiteles másolatával igazolták, továbbá
 
-a) a jármű azonosító jelét bűncselekmény útján megváltoztatták,
+a) a jármű azonosító jelét bűncselekmény útján megváltoztatták, vagy
 
-b) az egyedi azonosító jel meghamísítását a cselekmény bűncselekménnyé minősítésének hatálybalépését megelőzően követték el, illetve az elkövetés időpontja nem állapítható meg.
+b) az egyedi azonosító jel meghamisítását a cselekmény bűncselekménnyé minősítésének hatálybalépését megelőzően követték el, vagy az elkövetés időpontja nem állapítható meg.
+
+(2a)[^261] A jármű jogi helyzete a (2) bekezdésben foglaltak szerinti eljárásban akkor tekinthető tisztázottnak, ha
+
+a) a jármű eredeti azonosító jele megállapításra került, és a megállapított azonosító jelű jármű feletti tulajdonjog került igazolásra, vagy
+
+b) a jármű eredeti azonosító jele nem került megállapításra, de a jármű jogszerű birtoklását valószínűsítették.
 
 (3) Az (1) bekezdés b) pontjában meghatározott esetekben a járművet azonosító jellel (rekonstruált alvázszám) a járműgyártó – közlekedési hatóság által arra feljogosított – magyarországi képviselője is elláthatja.
 
 (4) A közlekedési igazgatási hatóság a jármű azonosító jellel történő ellátását követően, – az azonosító jel nyilvántartásba vételével egyidejűleg – a büntetőeljárás befejezéséről hozott határozat alapján intézkedik a törzskönyv kiadásáról vagy annak megtagadásáról.
+
+[^259]: A 116. § (1) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés m) pontja szerint módosított szöveg.
+[^260]: A 116. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (8) bekezdésével megállapított szöveg.
+[^261]: A 116. § (2a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 186. § (9) bekezdése iktatta be.

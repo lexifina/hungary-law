@@ -1,14 +1,14 @@
 16. § (1) Járművezetésre jogosító okmányt a közlekedési igazgatási hatóság nem adhat annak, aki járművezetésre közlekedésbiztonsági szempontból alkalmatlan. E rendelet alkalmazásában közlekedésbiztonsági szempontból járművezetésre alkalmatlannak kell tekinteni azt a személyt,
 
-a)[^31] akit a bíróság vagy a szabálysértési hatóság a járművezetéstől jogerősen eltiltott, a határozatban meghatározott ideig, kivéve a 37. §-ban szabályozott eseteket,
+a)[^37] akit a bíróság vagy a szabálysértési hatóság a járművezetéstől jogerősen eltiltott, a határozatban meghatározott ideig, kivéve a 37. §-ban szabályozott eseteket,
 
-b)[^32] akinek kényszergyógykezelését a bíróság elrendelte, annak időtartamára,
+b)[^38] akinek kényszergyógykezelését a bíróság elrendelte, annak időtartamára,
 
 c) akinek a vezetési jogosultsága szünetelését a hatóság jogerős és végrehajtható határozatával elrendelte, annak időtartama alatt,
 
-d)[^33] akit a bíróság cselekvőképességet teljesen vagy részlegesen korlátozó gondnokság alá helyezett,
+d)[^39] akit a bíróság cselekvőképességet teljesen vagy részlegesen korlátozó gondnokság alá helyezett,
 
-e)[^34] akinek a vezetői engedélyét a közúti közlekedési előéleti pontrendszerről szóló törvény alapján a közlekedési igazgatási hatóság ideiglenesen visszavonta, a határozat jogerőre emelkedésétől kezdődően a visszavonást követően elkezdett utánképzés elvégzését tanúsító igazolásnak az engedély-nyilvántartásba elektronikus úton történő beérkezéséig, de legalább a vezetői engedély leadása napjától számított hat hónapig,
+e)[^40] akinek a vezetői engedélyét a közúti közlekedési előéleti pontrendszerről szóló törvény alapján a közlekedési igazgatási hatóság ideiglenesen visszavonta, a határozat jogerőre emelkedésétől kezdődően a visszavonást követően elkezdett utánképzés elvégzését tanúsító igazolásnak az engedély-nyilvántartásba elektronikus úton történő beérkezéséig, de legalább a vezetői engedély leadása napjától számított hat hónapig,
 
 f) akinek az egészségi alkalmatlanságát a közúti járművezetők egészségi alkalmasságának megállapításáról szóló miniszteri rendelet alapján megállapították, az egészségi alkalmasság igazolásáig.
 
@@ -24,7 +24,7 @@ c) egészségi alkalmasság vagy
 
 d) a pályaalkalmasság igazolásához
 
-[^31]: A 16. § (1) bekezdés a) pontja az 544/2013. (XII. 30.) Korm. rendelet 42. § a) pontja szerint módosított szöveg.
-[^32]: A 16. § (1) bekezdés b) pontja az 544/2013. (XII. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.
-[^33]: A 16. § (1) bekezdés d) pontja az 544/2013. (XII. 30.) Korm. rendelet 42. § c) pontja szerint módosított szöveg.
-[^34]: A 16. § (1) bekezdés e) pontja a 441/2015. (XII. 28.) Korm. rendelet 154. § (1) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^37]: A 16. § (1) bekezdés a) pontja az 544/2013. (XII. 30.) Korm. rendelet 42. § a) pontja szerint módosított szöveg.
+[^38]: A 16. § (1) bekezdés b) pontja az 544/2013. (XII. 30.) Korm. rendelet 42. § b) pontja szerint módosított szöveg.
+[^39]: A 16. § (1) bekezdés d) pontja az 544/2013. (XII. 30.) Korm. rendelet 42. § c) pontja szerint módosított szöveg.
+[^40]: A 16. § (1) bekezdés e) pontja a 441/2015. (XII. 28.) Korm. rendelet 154. § (1) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.

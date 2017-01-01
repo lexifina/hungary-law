@@ -1,4 +1,4 @@
-57. § (1)[^117] Az A típusú rendszámtáblát kell felszerelni a személygépkocsira, az autóbuszra, a tehergépkocsira, a vontatóra, a nyerges vontatóra, a mezőgazdasági vontatóra és a lassú járműre előre, továbbá a felsorolt járművekre, valamint a pótkocsira, a félpótkocsira és a lassújármű pótkocsijára hátulra akkor, ha az elhelyezésre elegendő hely áll rendelkezésre, és a rendszámtábla jogszabályban előírt módon megvilágítható.
+57. § (1)[^140] Az A típusú rendszámtáblát kell felszerelni a személygépkocsira, az autóbuszra, a tehergépkocsira, a vontatóra, a nyerges vontatóra, a mezőgazdasági vontatóra és a lassú járműre előre, továbbá a felsorolt járművekre, valamint a pótkocsira, a félpótkocsira és a lassújármű pótkocsijára hátulra akkor, ha az elhelyezésre elegendő hely áll rendelkezésre, és a rendszámtábla jogszabályban előírt módon megvilágítható.
 
 (2) C típusú rendszámtáblát kell felszerelni az (1) bekezdésben felsorolt járművekre hátulra, ha az A típusú rendszámtábla felszerelésére nincs elegendő hely, vagy, ha az A típusú tábla nem világítható meg.
 
@@ -12,6 +12,7 @@
 
 (7) A rendszámtáblák típusai közötti váltást a közlekedési igazgatási hatóság az (1)–(5) bekezdésben meghatározott rendelkezések szerint engedélyezi.
 
-(8) A korábban kiadott rendszámtáblát az új rendszámtábla kiadásával, vagy a jármű végleges kivonásával egyidejűleg be kell vonni. A bevont rendszámtáblák selejtezéséről a közlekedési igazgatási hatóság, megsemmisítéséről a Hivatal gondoskodik.
+(8)[^141] A korábban kiadott rendszámtáblát az új rendszámtábla kiadásával, vagy a jármű végleges kivonásával egyidejűleg be kell vonni. A bevont rendszámtáblák selejtezéséről a közlekedési igazgatási hatóság, megsemmisítéséről a Nyilvántartó gondoskodik.
 
-[^117]: Az 57. § (1) bekezdése a 467/2015. (XII. 27.) Korm. rendelet 29. § k) pontja szerint módosított szöveg.
+[^140]: Az 57. § (1) bekezdése a 467/2015. (XII. 27.) Korm. rendelet 29. § k) pontja szerint módosított szöveg.
+[^141]: Az 57. § (8) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 186. § (11) bekezdés b) pontja szerint módosított szöveg.

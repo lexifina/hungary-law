@@ -4,9 +4,9 @@
 
 (2) A rendszámtábla sárga színben történő kiadását a nyilvántartásban és a forgalmi engedélyben jelölni kell.
 
-(3)[^131] A 60. § (2) bekezdés g) pontjában megjelölt világoszöld alapszínű, sorozatban előállított rendszámtáblát kell kiadni a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendeletben meghatározott környezetkímélő gépkocsira.
+(3)[^158] A 60. § (2) bekezdés g) pontjában megjelölt világoszöld alapszínű, sorozatban előállított rendszámtáblát kell kiadni a közúti járművek forgalomba helyezésének és forgalomban tartásának műszaki feltételeiről szóló miniszteri rendeletben meghatározott környezetkímélő gépkocsira.
 
-(4)[^132] A rendszámtábla világoszöld színben történő kiadását a nyilvántartásban és a forgalmi engedélyben jelölni kell.
+(4)[^159] A rendszámtábla világoszöld színben történő kiadását a nyilvántartásban és a forgalmi engedélyben jelölni kell.
 
-[^131]: A 65. § (3) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
-[^132]: A 65. § (4) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
+[^158]: A 65. § (3) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
+[^159]: A 65. § (4) bekezdését a 467/2015. (XII. 29.) Korm. rendelet 18. §-a iktatta be.
