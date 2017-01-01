@@ -1,4 +1,4 @@
-10. § (1)[^17] Az OTH országos tisztifőorvos által kijelölt intézete az ajánlott postai küldemény formájában a hozzájáruló nyilatkozattal együtt beérkezett tiltakozó nyilatkozatot – az érkezéstől számított három munkanapon belül – felveszi az OTNY-be. A tiltakozó nyilatkozatnak az OTNY-be történő felvétele, az OTNY-be történt bejegyzés időpontjától érvényes.
+10. § (1)[^17] Az országos tisztifőorvos az ajánlott postai küldemény formájában a hozzájáruló nyilatkozattal együtt beérkezett tiltakozó nyilatkozatot – az érkezéstől számított három munkanapon belül – felveszi az OTNY-be. A tiltakozó nyilatkozatnak az OTNY-be történő felvétele, az OTNY-be történt bejegyzés időpontjától érvényes.
 
 (2) Az OTNY a hozzájáruló nyilatkozatot és a beérkezés időpontját tartalmazza, valamint gondoskodik az Eütv. 211. §-ában meghatározott teljes bizonyító erejű magánokirat, illetve közokirat megőrzéséről.
 
@@ -16,4 +16,4 @@
 
 (9) Az OTNY adatszolgáltatása 24 órás.
 
-[^17]: A 10. § (1) bekezdése a 74/2003. (XII. 23.) ESZCSM rendelet 2. §-a (2) bekezdésének a) pontja, a 20/2007. (IV. 19.) EüM rendelet 13. § (1) bekezdésének b) pontja szerint módosított szöveg.
+[^17]: A 10. § (1) bekezdése a 74/2003. (XII. 23.) ESZCSM rendelet 2. §-a (2) bekezdésének a) pontja, a 20/2007. (IV. 19.) EüM rendelet 13. § (1) bekezdésének b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 11. § c) pontja szerint módosított szöveg.
