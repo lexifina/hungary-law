@@ -12,7 +12,7 @@ b) a külön jogszabály[^2] hatálya alá tartozó nagyon mérgező, mérgező,
 
 c) az emberre vagy a környezetre jelentős károsodást okozó eljárással előállított, vagy használata során a fogyasztóra nézve károsító hatású termékekre.
 
-(4)[^3] A forgalomba vagy használatba kerülő termékek és szolgáltatások (a továbbiakban együtt: termékek) környezetbarát vagy környezetkímélő (a továbbiakban együtt: környezetbarát) minőségét környezetbarát megkülönböztető jelzésként a Vidékfejlesztési Minisztérium által megbízott szervezet (a továbbiakban: Szervezet) javára a Szellemi Tulajdon Nemzeti Hivatalánál lajstromozott – e rendelet 1. számú melléklete szerinti – védjegy mint megkülönböztető jelzés (a továbbiakban együtt: védjegy) tanúsítja.
+(4)[^3] A forgalomba vagy használatba kerülő termékek és szolgáltatások (a továbbiakban együtt: termékek) környezetbarát vagy környezetkímélő (a továbbiakban együtt: környezetbarát) minőségét környezetbarát megkülönböztető jelzésként a környezetvédelemért felelős miniszter által vezetett minisztérium által megbízott szervezet (a továbbiakban: Szervezet) javára a Szellemi Tulajdon Nemzeti Hivatalánál lajstromozott – e rendelet 1. számú melléklete szerinti – védjegy mint megkülönböztető jelzés (a továbbiakban együtt: védjegy) tanúsítja.
 
 (5) A védjegy használatára az a gyártó, szolgáltató vagy forgalmazó jogosult, akinek terméke az e rendeletben szabályozottak szerint környezetbarát minősítést kapott, és aki a Szervezettel védjegyhasználati szerződést kötött.
 
@@ -28,4 +28,4 @@ c) az emberre vagy a környezetre jelentős károsodást okozó eljárással el�
 
 [^1]: Az 1. § a 9/2004. (V. 25.) KvVM rendelet 1. §-ával megállapított szöveg.
 [^2]: A kémiai biztonságról szóló 2000. évi XXV. törvény.
-[^3]: Az 1. § (4) bekezdése a 132/2013. (XII. 23.) VM rendelet 6. § a) pontja, a 31/2014. (IV. 3.) VM rendelet 1. § (2) bekezdése szerint módosított szöveg.
+[^3]: Az 1. § (4) bekezdése a 31/2014. (IV. 3.) VM rendelet 1. § (2) bekezdése, a 89/2016. (XII. 29.) FM rendelet 2. § a) pontja szerint módosított szöveg.

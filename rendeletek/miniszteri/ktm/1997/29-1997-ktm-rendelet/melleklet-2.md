@@ -4,7 +4,7 @@
 
 ## Betűtípus: Helvetica normál.
 
-2. számú melléklet a 29/1997. (VIII. 29.) KTM rendelethez[^15]
+2. számú melléklet a 29/1997. (VIII. 29.) KTM rendelethez[^16]
 
 A környezetbarát jelzés és tulajdonságok feltüntetésének módja
 
@@ -16,4 +16,4 @@ A) Az 1. mezőben kell feltüntetni a termék/szolgáltatás/csomagolás fogalma
 
 B) A 2. mezőben kell feltüntetni a védjegyhasználati szerződésben meghatározott környezetbarát tulajdonságokat.
 
-[^15]: A 2. számú mellékletet a 9/2004. (V. 25.) KvVM rendelet 5. §-a iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva.
+[^16]: A 2. számú mellékletet a 9/2004. (V. 25.) KvVM rendelet 5. §-a iktatta be, egyidejűleg az eredeti melléklet számozását 1. számú mellékletre változtatva.
