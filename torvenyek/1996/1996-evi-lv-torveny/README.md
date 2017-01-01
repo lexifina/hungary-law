@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1996-55-00-00
 | 2015-05-05 | 2015. évi L. törvény | 1996-55-00-00.36 |
 | 2016-01-01 | 2015. évi CLXXXIII. törvény | 1996-55-00-00.37 |
 | 2016-07-01 | 2015. évi CLXXXIII. törvény | 1996-55-00-00.38 |
+| 2017-01-01 | 2015. évi CLXXXIII. törvény | 1996-55-00-00.39 |

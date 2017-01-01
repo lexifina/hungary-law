@@ -1,4 +1,4 @@
-89. § (1) A vadászati hatósági feladatokat ellátó személy feladatainak ellátása során jogosult:
+89. § (1) A vadászati hatósági feladatokat ellátó személy, illetve a tájegységi fővadász feladatainak ellátása során jogosult:
 
 a) külön térítés fizetése nélkül magánúton közlekedni, a vadászterületet bejárni;
 

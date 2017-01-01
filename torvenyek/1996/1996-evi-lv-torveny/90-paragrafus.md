@@ -16,6 +16,8 @@ e) ellátja a nemzetközi vadászati együttműködésből adódó kormányzati 
 
 f)
 
+(3a) A miniszter a fenntartható és szakszerű vadgazdálkodással és vadvédelemmel összefüggő feladatokat tájegységenként tájegységi fővadászok útján látja el.
+
 (4) A miniszter a vadgazdálkodással, a vad, valamint élőhelyének védelmével, továbbá a vadászattal összefüggő szervezési feladatkörében:
 
 a)
