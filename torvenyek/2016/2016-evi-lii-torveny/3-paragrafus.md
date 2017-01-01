@@ -34,7 +34,7 @@ szabható ki.
 
 (5) Az állami tisztviselő a (4) bekezdésben meghatározott büntetésnél két évig áll a fegyelmi büntetés hatálya alatt.
 
-(6) Nem kell alkalmazni az állami szolgálati jogviszonyra a Kttv. 37. § (1) bekezdését, 43. § (1) és (2) bekezdését, 48. §-át, 63. § (2) bekezdés a) és e) pontját, 64. §-át, 69. § (1) és (2) bekezdését, 101. § (1)–(5) bekezdését, 116–117. §-át, 118. § (1), (2) és (7)–(12) bekezdését, 119–123. §-át, 126–128. §-át, 129. § (2) és (3) bekezdését, 130–139. §-át, 140. § (4)–(6) bekezdését, 141–143. §-át, 150. § (1) és (2) bekezdését, 152. § (1)–(3) bekezdését, 185–188. §-át, VII–VII/A. Fejezetét és Negyedik Részét.
+(6) Nem kell alkalmazni az állami szolgálati jogviszonyra a Kttv. 37. § (1) bekezdését, 43. § (1) és (2) bekezdését, 48. §-át, 63. § (2) bekezdés a) és e) pontját, 64. §-át, 69. § (1) és (2) bekezdését, 93. § (2) bekezdését,101. § (1)–(5) bekezdését, 116–117. §-át, 118. § (1), (2) és (7)–(12) bekezdését, 119–123. §-át, 126–128. §-át, 129. § (2) és (3) bekezdését, 130–139. §-át, 140. § (4)–(6) bekezdését, 141–143. §-át, 150. § (1) és (2) bekezdését, 151. §-át, 152. § (1)–(3) bekezdését, 185–188. §-át, VII–VII/A. Fejezetét és Negyedik Részét.
 
 (7) Az érettségi végzettségű állami tisztviselőre – az állami ügykezelő kivételével – a Kttv. közigazgatási alapvizsgára vonatkozó 118. § (3)–(6) bekezdését alkalmazni kell.
 
