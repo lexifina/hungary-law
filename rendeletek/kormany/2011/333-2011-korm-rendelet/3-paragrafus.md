@@ -1,6 +1,6 @@
 3. § (1) A 2. §-ban nem említett esetekben az ellátás megállapítása a jogosult kérelmére történik.
 
-(2)[^6] A kérelmező a kérelmet az Országos Nyugdíjbiztosítási Főigazgatóság (a továbbiakban: ONYF) főigazgatója által e célra rendszeresített, és az ONYF, valamint a nyugdíjbiztosítási igazgatási szervek honlapján, továbbá a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon nyújthatja be.
+(2)[^8] A kérelmező a kérelmet az Országos Nyugdíjbiztosítási Főigazgatóság (a továbbiakban: ONYF) Központja által – az elektronikus űrlap tekintetében a közigazgatás-fejlesztésért felelős miniszterrel egyetértésben – e célra rendszeresített, és az ONYF, valamint a nyugdíjbiztosítási igazgatási szervek honlapján, továbbá a kormányzati portálon közzétett adatlapon vagy elektronikus űrlapon nyújthatja be.
 
 (3) A (2) bekezdés szerinti adatlap és elektronikus űrlap az öregségi nyugdíj iránti kérelem adatain kívül tartalmazza a jogosult nyilatkozatát
 
@@ -10,7 +10,7 @@ b) szolgálati járandóság esetén a T. 5. § (3) bekezdése szerinti mentesü
 
 (4) A kérelemhez az öregségi nyugdíj igényléséhez szükséges iratokon kívül csatolni kell
 
-a) balettművészeti életjáradék esetén a törvényben meghatározott balett-társulat igazolását a nála magántáncosként vagy tánckari tagként töltött időről,
+a)[^9] táncművészeti életjáradék esetén a törvényben meghatározott balett-társulat igazolását a nála magántáncosként vagy tánckari tagként töltött időről,
 
 b) átmeneti bányászjáradék esetén a bányavállalkozó igazolását a kérelmezőnek a föld alatti munkakörben eltöltött szolgálati idejéről és a műszakok számáról,
 
@@ -18,4 +18,5 @@ c) a bányavállalkozó igazolását a kérelmezőnek a szénkülfejtéses bány
 
 d) a biztosítással járó jogviszony megszüntetésének időpontját igazoló okirat másolatát, ha a kérelmező a korhatár előtti ellátás megállapítását a T. 7. § (1) bekezdés f) pontja alapján kéri.
 
-[^6]: A 3. § (2) bekezdése a 353/2014. (XII. 29.) Korm. rendelet 60. § a) pontja szerint módosított szöveg.
+[^8]: A 3. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 188. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^9]: A 3. § (4) bekezdés a) pontja a 449/2016. (XII. 19.) Korm. rendelet 21. § a) pontja szerint módosított szöveg.

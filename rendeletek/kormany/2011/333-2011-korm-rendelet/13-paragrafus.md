@@ -1,3 +1,3 @@
-## 12. §[^14]
+## 12. §[^22]
 
-[^14]: A 12. §-t a 425/2012. (XII. 29.) Korm. rendelet 27. § (3) bekezdése hatályon kívül helyezte.
+[^22]: A 12. §-t a 425/2012. (XII. 29.) Korm. rendelet 27. § (3) bekezdése hatályon kívül helyezte.
