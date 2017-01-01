@@ -14,7 +14,7 @@ c) a feladatra szerződött foglalkozás-egészségügyi szakellátó hely szako
 
 (3) A szakvélemény a közérdekű munka megkezdésének kötelező feltétele.
 
-(4) A szakvélemény kiadásának díját a Közigazgatási és Igazságügyi Hivatal viseli.
+(4)[^103] A szakvélemény kiadásának díját az Igazságügyi Minisztérium viseli.
 
 (5) A foglalkoztathatósági szakvélemény a kiállításától számított egy évig érvényes.
 
@@ -22,3 +22,4 @@ Záró és átmeneti rendelkezések
 
 [^101]: A 16/D. §-t megelőző alcímet az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
 [^102]: A 16/D. §-t az 55/2013. (XII. 4.) NGM rendelet 2. § (4) bekezdése iktatta be.
+[^103]: A 16/D. § (4) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 10. § (2) bekezdés a) pontja szerint módosított szöveg.

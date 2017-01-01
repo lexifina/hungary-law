@@ -1,4 +1,4 @@
-## 1M38876M_0
+## 6K86528M_0
 
 | Kóroki tényező | Időszakos munkaalkalmassági vizsgálatok gyakorisága | Megjegyzés |
 
@@ -126,7 +126,7 @@
 
 | trinitro-toluol (trotyl) | félévenként |  |
 
-| tüdőfibrózist okozó porok | a vizsgálatok gyakoriságát az illetékes munkavédelmi felügyelőség állapíthatja meg, a munkáltató által előzetesen megszerzett, a munkahigiénés és foglalkozás- egészségügyi szerv által kiállított szakvélemény alapján (a szakvéleményhez a por mérési ered- mények csatolása szükséges) | az ernyőszűrő állomásokon készített tüdőfelvételek értékelése, ezt követően szükségessé váló klinikai vizsgálatok a munkahigiénés és foglalkozás-egészségügyi szerv szakrendelésén, valamint a pécsi Megyei Tüdőgyógyintézetben történnek |
+| tüdőfibrózist okozó porok | a vizsgálatok gyakoriságát az illetékes fővárosi és megyei kormányhivatal munkavédelmi hatósági és munkaügyi hatósági feladatkörében eljáró járási (fővárosi kerületi) hivatala állapíthatja meg, a munkáltató által előzetesen megszerzett, a munkahigiénés és foglalkozás- egészségügyi szerv által kiállított szakvélemény alapján (a szakvéleményhez a por mérési ered- mények csatolása szükséges) | az ernyőszűrő állomásokon készített tüdőfelvételek értékelése, ezt követően szükségessé váló klinikai vizsgálatok a munkahigiénés és foglalkozás-egészségügyi szerv szakrendelésén, valamint a pécsi Megyei Tüdőgyógyintézetben történnek |
 
 | vanádium | évenként |  |
 
@@ -160,6 +160,6 @@
 
 | 100 dBAeq zajexpozíció felett | évenként | halláspanasz esetén soron kívül |
 
-4. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^108]
+4. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^109]
 
-[^108]: A 4. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdésével megállapított szöveg.
+[^109]: A 4. számú melléklet a 18/2007. (V. 10.) SZMM rendelet 21. § (2) bekezdésével megállapított szöveg.

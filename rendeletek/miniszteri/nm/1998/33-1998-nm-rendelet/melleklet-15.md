@@ -58,6 +58,6 @@
 
 |  | ……………………………………….. munkáltató aláírása |  |
 
-15. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^114]
+15. számú melléklet a 33/1998. (VI. 24.) NM rendelethez[^115]
 
-[^114]: A 15. számú melléklet a 41/2012. (XII. 20.) NGM rendelet 12. §-ával megállapított szöveg.
+[^115]: A 15. számú melléklet a 41/2012. (XII. 20.) NGM rendelet 12. §-ával megállapított szöveg.
