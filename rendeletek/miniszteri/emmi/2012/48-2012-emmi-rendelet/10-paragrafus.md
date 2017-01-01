@@ -1,6 +1,6 @@
 ## 3. Az országos pedagógiai-szakmai szolgáltatások
 
-10. § (1)[^19] A Hivatal országos pedagógiai-szakmai szolgáltatásként szervezi meg
+10. § (1)[^21] A Hivatal országos pedagógiai-szakmai szolgáltatásként szervezi meg
 
 a) a nemzetiségi óvodai nevelést, iskolai nevelés-oktatást, kollégiumi nevelést segítő (a továbbiakban együtt: nemzetiségi pedagógiai-szakmai szolgáltatások),
 
@@ -14,4 +14,4 @@ c) az országos pedagógiai mérés-értékelési eredmények alapján az intéz
 
 (3) Nemzetiségi pedagógiai-szakmai szolgáltatásban szaktanácsadói feladatot az láthat el, aki az Nkt. 3. mellékletében meghatározott feltételeknek megfelel, pedagógus szakvizsgával rendelkezik és a nemzetiségi nevelés-oktatásban pedagógus munkakörben legalább öt éves szakmai gyakorlatot, továbbá bármilyen köznevelési intézményben további öt éves szakmai gyakorlatot szerzett.
 
-[^19]: A 10. § (1) bekezdése a 26/2015. (V. 22.) EMMI rendelet 9. §-ával megállapított szöveg.
+[^21]: A 10. § (1) bekezdése a 26/2015. (V. 22.) EMMI rendelet 9. §-ával megállapított szöveg.

@@ -4,9 +4,9 @@ a) pedagógiai tárgyú tanácskozások, pedagógiai szakmai napok szervezése,
 
 b) bekapcsolódás az országos pedagógus-továbbképzés rendszerébe,
 
-c)[^16]
+c)[^18]
 
-(2)[^17] A Hivatal együttműködési megállapodás keretében bevonhatja az állami feladatellátás keretei között ellátott pedagógiai-szakmai szolgáltatásokba a pedagógusképző felsőoktatási intézmény által fenntartott pedagógiai intézetet, a pedagógiai tárgyú továbbképzések, pedagógiai kísérletek köznevelés-fejlesztéssel összefüggő megszervezésébe.
+(2)[^19] A Hivatal együttműködési megállapodás keretében bevonhatja az állami feladatellátás keretei között ellátott pedagógiai-szakmai szolgáltatásokba a pedagógusképző felsőoktatási intézmény által fenntartott pedagógiai intézetet, a pedagógiai tárgyú továbbképzések, pedagógiai kísérletek köznevelés-fejlesztéssel összefüggő megszervezésébe.
 
-[^16]: A 7. § (1) bekezdés c) pontját a 26/2015. (V. 22.) EMMI rendelet 17. § f) pontja hatályon kívül helyezte.
-[^17]: A 7. § (2) bekezdése a 26/2015. (V. 22.) EMMI rendelet 16. § b) pontja szerint módosított szöveg.
+[^18]: A 7. § (1) bekezdés c) pontját a 26/2015. (V. 22.) EMMI rendelet 17. § f) pontja hatályon kívül helyezte.
+[^19]: A 7. § (2) bekezdése a 26/2015. (V. 22.) EMMI rendelet 16. § b) pontja szerint módosított szöveg.
