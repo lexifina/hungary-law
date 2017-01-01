@@ -16,13 +16,14 @@
 
 (9)[^5]
 
-(10) A hitelviszonyt megtestesítő értékpapírok eladásakor, beváltásakor az eladási, beváltási árban lévő kamatot az Szt. 84. § (3) bekezdés a) pontjától és (5) bekezdés a) pontjától eltérően nem kell külön, kapott kamatként kimutatni.
+(10)[^6] A hitelviszonyt megtestesítő értékpapírok eladásakor, beváltásakor az eladási, beváltási árban lévő kamatot az Szt. 84. § (5) bekezdés a) pontjától eltérően nem kell külön, kapott kamatként kimutatni.
 
 (11) A kapcsolt vállalkozásokkal, egyéb részesedési viszonyban lévő vállalkozásokkal kapcsolatos információkat – a 4. § (3) bekezdés c) pontjában meghatározott kivétellel – a mikrogazdálkodói beszámolóban nem kell külön bemutatni.
 
-(12)[^6]
+(12)[^7]
 
 [^3]: Az 5. § (1) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 76. § 1. pontja szerint módosított szöveg.
 [^4]: Az 5. § (3) bekezdése az 518/2013. (XII. 30.) Korm. rendelet 68. § (1) bekezdésével megállapított szöveg.
 [^5]: Az 5. § (9) bekezdését a 362/2014. (XII. 30.) Korm. rendelet 56. §-a hatályon kívül helyezte.
-[^6]: Az 5. § (12) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 68. § (2) bekezdése iktatta be, hatályon kívül helyezte a 484/2015. (XII. 29.) Korm. rendelet 99. §-a.
+[^6]: Az 5. § (10) bekezdése a 480/2016. (XII. 28.) Korm. rendelet 97. § 1. pontja szerint módosított szöveg.
+[^7]: Az 5. § (12) bekezdését az 518/2013. (XII. 30.) Korm. rendelet 68. § (2) bekezdése iktatta be, hatályon kívül helyezte a 484/2015. (XII. 29.) Korm. rendelet 99. §-a.
