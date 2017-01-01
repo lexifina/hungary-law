@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-42-20-0
 | --- | --- | --- |
 | 2008-11-30 | 2008-42-20-0B.2 | 42/2008. (XI. 14.) EüM–SZMM együttes rendelet |
 | 2013-11-16 | 2008-42-20-0B.3 | 68/2013. (XI. 15.) EMMI rendelet |
+| 2017-01-01 | 2008-42-20-0B.4 | 54/2016. (XII. 30.) EMMI rendelet |
