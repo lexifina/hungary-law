@@ -26,6 +26,6 @@ b) azokat az egészségügyi dolgozó szakképesítésével ellátható munkakö
 
 c) az eljárásban részt vevő igazságügyi orvosszakértő nevét és véleményét eredeti formában,
 
-d)[^1] az a)–b) pontokban foglaltak tekintetében a működési nyilvántartást vezető szerv, továbbá az Ettv. 24. § esetén az Országos Egészségbiztosítási Pénztár értesítésének tényét.
+d)[^1] az a)–b) pontokban foglaltak tekintetében a működési nyilvántartást vezető szerv, továbbá az Ettv. 24. § esetén a Nemzeti Egészségbiztosítási Alapkezelő értesítésének tényét.
 
-[^1]: A 10. § (3) bekezdés d) pontja a 10/2011. (III. 30.) NEFMI rendelet 41. §-a szerint módosított szöveg.
+[^1]: A 10. § (3) bekezdés d) pontja a 10/2011. (III. 30.) NEFMI rendelet 41. §-a szerint, az 54/2016. (XII. 30.) EMMI rendelet 38. §-a szerint módosított szöveg.
