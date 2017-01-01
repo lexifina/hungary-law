@@ -8,7 +8,7 @@ c) a keszthelyi Festetics-kastély legyen az elsődleges őrzési és bemutatás
 
 2. Az 1. pont megvalósulása érdekében a Kormány elrendeli, hogy a hazai közgyűjtemények adják át
 
-a) az Eszterháza Kulturális, Kutató- és Fesztiválközpontnak (a továbbiakban: Eszterháza Központ) a fertődi Esterházy-kastélyegyüttesből elszármazott vagy az Esterházy család fraknói hercegi ágához kötődő vagy vélelmezhetően egykor hozzájuk tartozott,
+a)[^1] a „NISTEMA” Kereskedelmi és Szolgáltató Nonprofit Korlátolt Felelősségű Társaságnak (a továbbiakban: „NISTEMA” Nonprofit Kft.) a fertődi Esterházy-kastélyegyüttesből elszármazott vagy az Esterházy család fraknói hercegi ágához kötődő vagy vélelmezhetően egykor hozzájuk tartozott,
 
 b) a pápai Esterházy-kastély fenntartójának vagy használójának a kastélyban való elhelyezésre az Esterházy család ifjabb fraknói grófi ágának pápai kastélyából elszármazott vagy vélelmezhetően egykor ott őrzött,
 
@@ -20,8 +20,11 @@ Felelős: Miniszterelnökséget vezető miniszter, az emberi erőforrások minis
 
 Határidő: folyamatos
 
-3. A Kormány felhívja a Miniszterelnökséget vezető minisztert, hogy az Eszterháza Központ, a Helikon Nonprofit Kft., valamint a pápai Esterházy-kastély fenntartójának vagy használójának bevonásával folytasson kutatást a hazai közgyűjteményekben az 1. pont szerinti kulturális javak és műkincsek azonosítása érdekében, és a kutatások eredményéről évente készítsen jelentést a Kormány számára.
+3.[^2] A Kormány felhívja a Miniszterelnökséget vezető minisztert, hogy az „NISTEMA” Nonprofit Kft., a Helikon Nonprofit Kft., valamint a pápai Esterházy-kastély fenntartójának vagy használójának bevonásával folytasson kutatást a hazai közgyűjteményekben az 1. pont szerinti kulturális javak és műkincsek azonosítása érdekében, és a kutatások eredményéről évente készítsen jelentést a Kormány számára.
 
 Felelős: Miniszterelnökséget vezető miniszter
 
 Határidő: 2016. december 31., majd ezt követően minden év december 31.
+
+[^1]: A 2. pont a) alpontja az 1853/2016. (XII. 27.) Korm. határozat 74. pont a) alpontja szerint módosított szöveg.
+[^2]: A 3. pont az 1853/2016. (XII. 27.) Korm. határozat 74. pont b) alpontja szerint módosított szöveg.
