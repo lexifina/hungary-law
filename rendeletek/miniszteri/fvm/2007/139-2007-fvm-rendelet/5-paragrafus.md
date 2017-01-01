@@ -2,7 +2,7 @@
 
 ## Kíméletes állatmozgatás és szállítás biztosítása
 
-5. § (1)[^65] E jogcím alapján az az igénylő jogosult támogatásra, aki vagy amely teljesíti a kíméletes állatmozgatás és szállítás következő követelményeit:
+5. § (1)[^66] E jogcím alapján az az igénylő jogosult támogatásra, aki vagy amely teljesíti a kíméletes állatmozgatás és szállítás következő követelményeit:
 
 a) a 3 kg-nál nem nehezebb baromfinál felülrakható mobil ketrecek használata,
 
@@ -12,7 +12,7 @@ c) rakodó személyzet oktatása, és
 
 d) takarmánymegvonási és vízmegvonási terv megléte.
 
-(2)[^66] A támogatás mértéke:
+(2)[^67] A támogatás mértéke:
 
 a) növendék csirke (vágócsirke) esetén 633,00 Ft állategységenként,
 
@@ -38,11 +38,11 @@ k) növendék pulyka esetén 2 324,00 Ft állategységenként.
 
 (3) Az igénylő által a vágóhídra leadott állatoknál a törött végtagú állatok aránya állományonként nem haladhatja meg az 5%-ot.
 
-(4)[^67] A 7. számú mellékletben meghatározott adattartalmú kifizetési kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a törött végtagú állatok (3) bekezdésben meghatározott arányára vonatkozó igazolása eredeti példányát is, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
+(4)[^68] A 7. számú mellékletben meghatározott adattartalmú kifizetési kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a törött végtagú állatok (3) bekezdésben meghatározott arányára vonatkozó igazolása eredeti példányát is, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
 
-(5)[^68] A kifizetési kérelemhez csatolni kell a kezelő állatorvos igazolásának eredeti példányát az (1) bekezdésben meghatározott feltételek teljesítéséről.
+(5)[^69] A kifizetési kérelemhez csatolni kell a kezelő állatorvos igazolásának eredeti példányát az (1) bekezdésben meghatározott feltételek teljesítéséről.
 
-[^65]: Az 5. § (1) bekezdése a 33/2014. (IV. 4.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^66]: Az 5. § (2) bekezdése a 68/2011. (VII. 14.) VM rendelet 13. §-ával megállapított szöveg.
-[^67]: Az 5. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (4) bekezdésével megállapított, a 80/2015. (XII. 4.) FM rendelet 9. § d) pontja, a 25/2016. (IV. 11.) FM rendelet 6. § g) pontja szerint módosított szöveg.
-[^68]: Az 5. § (5) bekezdését a 33/2014. (IV. 4.) VM rendelet 4. § (2) bekezdése iktatta be, szövege a 80/2015. (XII. 4.) FM rendelet 9. § b) pontja, a 25/2016. (IV. 11.) FM rendelet 6. § f) pontja szerint módosított szöveg.
+[^66]: Az 5. § (1) bekezdése a 33/2014. (IV. 4.) VM rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^67]: Az 5. § (2) bekezdése a 68/2011. (VII. 14.) VM rendelet 13. §-ával megállapított szöveg.
+[^68]: Az 5. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (4) bekezdésével megállapított, a 80/2015. (XII. 4.) FM rendelet 9. § d) pontja, a 25/2016. (IV. 11.) FM rendelet 6. § g) pontja szerint módosított szöveg.
+[^69]: Az 5. § (5) bekezdését a 33/2014. (IV. 4.) VM rendelet 4. § (2) bekezdése iktatta be, szövege a 80/2015. (XII. 4.) FM rendelet 9. § b) pontja, a 25/2016. (IV. 11.) FM rendelet 6. § f) pontja szerint módosított szöveg.

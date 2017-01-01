@@ -1,8 +1,8 @@
 ## Mechanikai sérülés megelőzése
 
-4. § (1)[^61] E jogcím alapján az az igénylő jogosult támogatásra, aki teljesíti a baromfiállományban a mellsérülés megelőzéséhez szükséges, a 6. számú mellékletben foglalt követelményeket.
+4. § (1)[^62] E jogcím alapján az az igénylő jogosult támogatásra, aki teljesíti a baromfiállományban a mellsérülés megelőzéséhez szükséges, a 6. számú mellékletben foglalt követelményeket.
 
-(2)[^62] A támogatás mértéke:
+(2)[^63] A támogatás mértéke:
 
 a) növendék csirke (vágócsirke) esetén 4 736,00 Ft állategységenként,
 
@@ -28,9 +28,9 @@ k) növendék pulyka esetén 9 822,00 Ft állategységenként.
 
 (3) Az igénylő által a vágóhídra leadott állatoknál a mellsérülést szenvedő állatok aránya állományonként nem haladhatja meg az 5%-ot.
 
-(4)[^63] A 7. számú mellékletben meghatározott adattartalmú kifizetési kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a mellsérülések (3) bekezdésben meghatározott arányára vonatkozó igazolása eredeti példányát, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
+(4)[^64] A 7. számú mellékletben meghatározott adattartalmú kifizetési kérelemhez csatolni kell a vágóhídnak és a felügyelő jogosult állatorvosnak a mellsérülések (3) bekezdésben meghatározott arányára vonatkozó igazolása eredeti példányát, amely tartalmazza a levágott baromfi darabszámát és vágásának időpontját.
 
-(5)[^64] A kifizetési kérelemhez csatolni kell a kezelő állatorvos igazolásának eredeti példányát a 6. számú mellékletben foglalt,
+(5)[^65] A kifizetési kérelemhez csatolni kell a kezelő állatorvos igazolásának eredeti példányát a 6. számú mellékletben foglalt,
 
 a) az etetőre,
 
@@ -44,7 +44,7 @@ e) a kifutó felületre, és
 
 f) a termelő által vezetett mérési naplóban szereplő mikroklíma és fényerősség adatokra
 
-[^61]: A 4. § (1) bekezdése a 33/2014. (IV. 4.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^62]: A 4. § (2) bekezdése a 68/2011. (VII. 14.) VM rendelet 12. §-ával megállapított szöveg.
-[^63]: A 4. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (3) bekezdésével megállapított, a 80/2015. (XII. 4.) FM rendelet 9. § d) pontja, a 25/2016. (IV. 11.) FM rendelet 6. § g) pontja szerint módosított szöveg.
-[^64]: A 4. § (5) bekezdését a 33/2014. (IV. 4.) VM rendelet 3. § (2) bekezdése iktatta be, nyitó szövegrésze a 80/2015. (XII. 4.) FM rendelet 9. § b) pontja, a 25/2016. (IV. 11.) FM rendelet 6. § f) pontja szerint módosított szöveg.
+[^62]: A 4. § (1) bekezdése a 33/2014. (IV. 4.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
+[^63]: A 4. § (2) bekezdése a 68/2011. (VII. 14.) VM rendelet 12. §-ával megállapított szöveg.
+[^64]: A 4. § (4) bekezdése a 19/2010. (III. 11.) FVM rendelet 5. § (3) bekezdésével megállapított, a 80/2015. (XII. 4.) FM rendelet 9. § d) pontja, a 25/2016. (IV. 11.) FM rendelet 6. § g) pontja szerint módosított szöveg.
+[^65]: A 4. § (5) bekezdését a 33/2014. (IV. 4.) VM rendelet 3. § (2) bekezdése iktatta be, nyitó szövegrésze a 80/2015. (XII. 4.) FM rendelet 9. § b) pontja, a 25/2016. (IV. 11.) FM rendelet 6. § f) pontja szerint módosított szöveg.

@@ -52,6 +52,6 @@
 
 |  | e) csökkent értékű értékesítés száma (ÁE) |
 
-3. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^93]
+3. számú melléklet a 139/2007. (XI. 28.) FVM rendelethez[^94]
 
-[^93]: A 3. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^94]: A 3. számú mellékletet a 81/2008. (VI. 24.) FVM rendelet 6. § (2) bekezdése iktatta be, szövege a 80/2012. (VII. 30.) VM rendelet 9. § (2) bekezdésével megállapított szöveg.
