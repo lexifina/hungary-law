@@ -6,7 +6,8 @@
 
 (4)[^2] Vizsgára jelentkezés esetében a vizsgadíjnak az eljáró hatóságot illető része a képző szerv útján a vizsgára való jelentkezésig fizetendő meg. A közúti közlekedési szakemberek vizsgáztatása esetén a közlekedési hatóság megbízása alapján a vizsgaszervezésben közreműködő képző szervet a vizsga díjának 78%-a, a közlekedési hatóságot a vizsga díjának 22%-a illeti meg.
 
-(5) Elektronikus ügyintézés esetén a díjat a külön jogszabályban meghatározott módon és határidőn belül kell megfizetni.
+(5)[^3]
 
 [^1]: Az 1. § (2) bekezdése a 46/2013. (VIII. 7.) NFM rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (4) bekezdése a 46/2013. (VIII. 7.) NFM rendelet 1. § (2) bekezdésével megállapított szöveg.
+[^3]: Az 1. § (5) bekezdését a 66/2016. (XII. 29.) NFM rendelet 11. §-a hatályon kívül helyezte.

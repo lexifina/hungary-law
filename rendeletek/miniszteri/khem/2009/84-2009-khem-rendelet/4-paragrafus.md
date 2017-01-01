@@ -1,6 +1,6 @@
 ## 3. § A szakoktatói, az utánképzési foglalkozásvezetői, az iskolavezetői és a vizsgabiztosi tevékenységek engedélyezésének igazgatási szolgáltatási díja tartalmazza a névjegyzékbe való felvétel díját. A díjat a felvételt kérőnek a kérelem benyújtásakor kell a közlekedési hatóság részére az 1. § (2) bekezdésében megjelölt előirányzat-felhasználási keretszámlájára befizetni.
 
-## 4. §[^6] Az e rendeletben meghatározott díjakra
+## 4. §[^7] Az e rendeletben meghatározott díjakra
 
 a) a díjfizetés tárgya tekintetében az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2)–(3) bekezdésében foglaltakat,
 
@@ -12,4 +12,4 @@ d) a mulasztási bírságra az Itv. 82. §-ában foglaltakat,
 
 e) a jogorvoslati eljárásra az Itv. 32. §-ában foglaltakat
 
-[^6]: A 4. § a 46/2013. (VIII. 7.) NFM rendelet 3. §-ával megállapított szöveg.
+[^7]: A 4. § a 46/2013. (VIII. 7.) NFM rendelet 3. §-ával megállapított szöveg.
