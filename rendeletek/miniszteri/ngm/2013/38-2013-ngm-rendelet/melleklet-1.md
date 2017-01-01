@@ -2472,41 +2472,69 @@ EGYÉB GAZDASÁGI ESEMÉNYEK ELSZÁMOLÁSAI
 
 ## L) Származékos ügyletek (fedezeti célú ügyletek) elszámolása
 
-| 1. A fedezeti ügylet a költségvetési számvitel szerint |
+| 1. A fedezeti célú ügylet a költségvetési számvitel szerint |
 
 | a) Függő követelésként | T032 | – | K006 |
 
 | b) Függő kötelezettségként | T045 | – | K006 |
 
-| 2. Mérlegforduló napjáig lezárt fedezeti ügylet nyereségének elszámolása a költségvetési számvitel szerint |
+| 2. Mérlegforduló napjáig lezárt fedezeti célú kamat swap ügylet nyereségének elszámolása a költségvetési számvitel szerint |
 
 | a) Követelésként | T0940822 | – | K0041 |
 
 | b) Teljesítésként | T005 | – | K0940823 |
 
-| 3. Mérlegforduló napjáig lezárt fedezeti ügylet nyereségének elszámolása a pénzügyi számvitel szerint |
+| 3. Mérlegforduló napjáig lezárt fedezeti célú kamat swap ügylet nyereségének elszámolása a pénzügyi számvitel szerint |
 
 | a) Követelésként | T3514 | – | K934 |
 
 | b) Teljesítésként | T32/33 | – | K3514 |
 
-| 4. Mérlegforduló napjáig le nem lezárt fedezeti ügylet nyereségének elszámolása a pénzügyi számvitel szerint (időarányos nyereség, legfeljebb a fedezett alapügylet időarányos veszteségének összegéig) | T371 | – | K934 |
+| 4. Mérlegforduló napjáig lezárt fedezeti célú kamat swap ügyletnek nem minősülő fedezeti ügylet nyereségének elszámolása a költségvetési számvitel szerint |
 
-| 5. Mérlegforduló napjáig lezárt fedezeti ügylet veszteségének elszámolása a költségvetési számvitel szerint |
+| a) Követelésként | T09832 | – | K0041 |
 
-| a) Végleges kötelezettségvállalásként, más fizetési kötelezettségként | T0022 | – | K053542 |
+| b) Teljesítésként | T005 | – | K09833 |
 
-| b) Teljesítésként | T053543 | – | K003 |
+| 5. Mérlegforduló napjáig lezárt fedezeti célú kamat swap ügyletnek nem minősülő fedezeti ügylet nyereségének elszámolása a pénzügyi számvitel szerint |
 
-| 6. Mérlegforduló napjáig lezárt fedezeti ügylet veszteségének elszámolása a pénzügyi számvitel szerint |
+| a) Követelésként | T3518 | – | K9353 |
+
+| b) Teljesítésként | T32/33 | – | K3518 |
+
+| 6. Mérlegforduló napjáig le nem zárt fedezeti célú kamat swap ügylet Szt. 32. § (5) bekezdés a) pontja szerinti értékének, valamint b) és e) pontja szerint nyereségének elszámolása a pénzügyi számvitel szerint | T371 | – | K934 |
+
+| 7. Mérlegforduló napjáig le nem zárt fedezeti célú kamat swap ügyletnek nem minősülő fedezeti ügylet Szt. 32. § (5) bekezdés a) pontja szerinti értékének, és e) pontja szerint nyereségének elszámolása a pénzügyi számvitel szerint | T371 | – | K9335 |
+
+| 8. Mérlegforduló napjáig lezárt fedezeti célú kamat swap ügylet veszteségének elszámolása a költségvetési számvitel szerint |
+
+| a) Végleges kötelezettségvállalásként, más fizetési kötelezettségként | T0022 | – | K053532 |
+
+| b) Teljesítésként | T053533 | – | K003 |
+
+| 9. Mérlegforduló napjáig lezárt fedezeti célú kamat swap ügylet veszteségének elszámolása a pénzügyi számvitel szerint |
 
 | a) Kötelezettségként | T853 | – | K4213 |
 
 | b) Teljesítésként | T4213 | – | K32/33 |
 
-| 7. Mérlegforduló napjáig le nem lezárt fedezeti ügylet veszteségének (időarányos veszteség) elszámolása a pénzügyi számvitel szerint, legfeljebb a fedezett alapügylet időarányos veszteségének összegéig | T442 | – | K853 |
+| 10. Mérlegforduló napjáig lezárt fedezeti célú kamat swap ügyletnek nem minősülő fedezeti ügylet veszteségének elszámolása a költségvetési számvitel szerint |
 
-| 8. A fedezeti ügylet kivezetése a költségvetési számvitel szerint |
+| a) Végleges kötelezettségvállalásként, más fizetési kötelezettségként | T0022 | – | K05932 |
+
+| b) Teljesítésként | T05933 | – | K003 |
+
+| 11. Mérlegforduló napjáig lezárt fedezeti célú kamat swap ügyletnek nem minősülő fedezeti ügylet veszteségének elszámolása a pénzügyi számvitel szerint |
+
+| a) Kötelezettségként | T8553 | – | K4219 |
+
+| b) Teljesítésként | T4219 | – | K33 |
+
+| 12. Mérlegforduló napjáig le nem zárt fedezeti célú kamat swap ügylet Szt. 44. § (5) bekezdés a) pontja szerinti értékének, valamint a b) és e) pontja szerinti veszteségének elszámolása a pénzügyi számvitel szerint | T853 | – | K442 |
+
+| 13. Mérlegforduló napjáig le nem zárt fedezeti célú kamat swap ügyletnek nem minősülő fedezeti ügylet Szt. 44. § (5) bekezdés a) pontja szerinti értékének és e) pontja szerinti veszteségének elszámolása a pénzügyi számvitel szerint | T8553 | – | K442 |
+
+| 14. A fedezeti célú ügylet kivezetése a költségvetési számvitel szerint |
 
 | a) Függő követelésként | T006 | – | K032 |
 
@@ -2982,4 +3010,4 @@ G) Központi kezelésű előirányzat, fejezeti kezelésű előirányzat esetén
 
 | 3. Kapcsolódó tételek: a fejezeti kezelésű előirányzat, központi kezelésű előirányzat korrigált záró pénzkészletének elszámolása az e fejezet C) cím 20–22. pontja szerint [megjegyzés: az új fejezetet irányító szervnek a fentiek szerint nyilvántartásba vett adatokról adatot kell szolgáltatni az időközi mérlegjelentés C) űrlapján] |
 
-[^1]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5. és 7. §-a szerint módosított szöveg.
+[^1]: Az 1. melléklet a 75/2013. (XII. 31.) NMG rendelet 7–8. §-a, a 37/2014. (XII. 10.) NGM rendelet 4–6. §-a, a 34/2015. (XII. 16.) NGM rendelet 3–4. §-a, a 49/2016. NGM rendelet 5–7. §-a szerint módosított szöveg.
