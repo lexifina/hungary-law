@@ -66,6 +66,6 @@
 
 | 3.2. |  | A munkáltató által munkaviszony keretében foglalkoztatott átlagos statisztikai állományi létszám a kérelem benyújtását (adatszolgáltatás időpontját) megelőző évben |
 
-2. számú melléklet a 22/2009. (IX. 30.) SZMM rendelethez[^26]
+2. számú melléklet a 22/2009. (IX. 30.) SZMM rendelethez[^27]
 
-[^26]: A 2. melléklet a 17/2012. (VII. 5.) NGM rendelet 5. § (13) bekezdésével megállapított szöveg.
+[^27]: A 2. melléklet a 17/2012. (VII. 5.) NGM rendelet 5. § (13) bekezdésével megállapított szöveg.

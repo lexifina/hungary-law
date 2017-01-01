@@ -10,13 +10,13 @@ a) az ÁPB-ben tag érdekképviseletek adatainak összehasonlítása alapján ho
 
 b) az eljárást az ÁRMB hivatalból indítja meg.
 
-(5) Az érdekképviselet a kérelemhez az ÁPBtv. 6–7. §-ában, 12. §-ában, valamint 1. és 2. számú mellékletében foglaltak igazolására elektronikusan, vagy – az ÁRMB kérelme esetén – eredetiben vagy hiteles másolatban az alábbi okmányokat köteles mellékelni:
+(5)[^7] Az érdekképviselet a kérelemhez az ÁPBtv. 6–7. §-ában, 12. §-ában, valamint 1. és 2. számú mellékletében foglaltak igazolására elektronikusan az alábbi okmányokat köteles mellékelni:
 
-a)[^7] az érdekképviselet nemzetközi munkavállalói, illetőleg munkáltatói szervezeti tagságáról szóló, a nemzetközi szervezet által kiadott, 90 napnál nem régebbi igazolást,
+a)[^8] az érdekképviselet nemzetközi munkavállalói, illetőleg munkáltatói szervezeti tagságáról szóló, a nemzetközi szervezet által kiadott, 90 napnál nem régebbi igazolást,
 
 b) munkáltatói érdekképviseletben való többes tagság esetén az ÁPBtv. 7. § (3) bekezdése szerinti munkáltatói, illetve munkáltatói érdekképviseleti nyilatkozatot,
 
-c)[^8] munkavállalói érdekképviseleti szövetségben való többes tagság esetén az ÁPBtv. 7. § (3) bekezdése szerinti munkavállalói érdekképviseleti nyilatkozatot,
+c)[^9] munkavállalói érdekképviseleti szövetségben való többes tagság esetén az ÁPBtv. 7. § (3) bekezdése szerinti munkavállalói érdekképviseleti nyilatkozatot,
 
 d) amennyiben az ÁPBtv. 7. § (6) bekezdése alapján a feltételek elérése érdekében az érdekképviseletek egymással koalícióra léptek, a koalíció kötéséről szóló megállapodást.
 
@@ -38,9 +38,10 @@ c) a megváltozott munkaképességű munkavállalókat foglalkoztató munkáltat
 
 d) költségvetési szervként működő szociális foglalkoztatókról a szociális igazgatásról szóló törvényben meghatározott, szociális foglalkoztatásról szóló nyilvántartást vezető szervtől.
 
-e)[^9] az üzemi tanács választáson elért eredményekkel kapcsolatos adatokat az üzemi tanács választási eredményeket nyilvántartó szervtől.
+e)[^10] az üzemi tanács választáson elért eredményekkel kapcsolatos adatokat az üzemi tanács választási eredményeket nyilvántartó szervtől.
 
 [^6]: Az 5. § (1) bekezdése a 3/2012. (II. 10.) NGM rendelet 18. § (4) bekezdésével megállapított, az 55/2014. (XII. 31.) NGM rendelet 9. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^7]: Az 5. § (5) bekezdés a) pontja a 17/2012. (VII. 5.) NGM rendelet 5. § (14) bekezdés a) pontja szerint módosított szöveg.
-[^8]: Az 5. § (5) bekezdés c) pontját a 3/2012. (II. 10.) NGM rendelet 18. § (7) bekezdése hatályon kívül helyezte, újonnan a 17/2012. (VII. 5.) NGM rendelet 5. § (3) bekezdése iktatta be.
-[^9]: Az 5. § (8) bekezdés e) pontját a 17/2012. (VII. 5.) NGM rendelet 5. § (4) bekezdse iktatta be.
+[^7]: Az 5. § (5) bekezdés nyitó szövegrésze a 62/2016. (XII. 29.) NGM rendelet 62. §-a szerint módosított szöveg.
+[^8]: Az 5. § (5) bekezdés a) pontja a 17/2012. (VII. 5.) NGM rendelet 5. § (14) bekezdés a) pontja szerint módosított szöveg.
+[^9]: Az 5. § (5) bekezdés c) pontját a 3/2012. (II. 10.) NGM rendelet 18. § (7) bekezdése hatályon kívül helyezte, újonnan a 17/2012. (VII. 5.) NGM rendelet 5. § (3) bekezdése iktatta be.
+[^10]: Az 5. § (8) bekezdés e) pontját a 17/2012. (VII. 5.) NGM rendelet 5. § (4) bekezdse iktatta be.
