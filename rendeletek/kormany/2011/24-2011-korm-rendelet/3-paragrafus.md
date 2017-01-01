@@ -1,4 +1,4 @@
-3. §[^4] (1) A területi (megyei) vagy települési szintű reprezentativitás megállapítása érdekében a munkáltatóval közalkalmazotti jogviszonyban álló szakszervezeti tagok létszámát
+3. §[^5] (1) A területi (megyei) vagy települési szintű reprezentativitás megállapítása érdekében a munkáltatóval közalkalmazotti jogviszonyban álló szakszervezeti tagok létszámát
 
 a) a munkavállalói tagdíjfizetés önkéntességéről szóló törvény alapján a munkavállalónak a szakszervezeti tagdíj munkabérből való levonására a munkáltatónak adott megbízása alapján összesített taglétszám, valamint
 
@@ -20,7 +20,7 @@ rendelkező munkáltatóknál közalkalmazotti jogviszonyban foglalkoztatott sza
 
 (5) Az országos reprezentativitás megállapítása érdekében a szakszervezeti tagok létszámát szakszervezeti konföderációk szerint kell összesíteni.
 
-(6)[^5] A rendvédelmi feladatokat ellátó szerveknél foglalkoztatott szakszervezeti tag közalkalmazottak létszámát az 1. § (5) bekezdésében foglaltakra tekintettel kell megállapítani.
+(6)[^6] A rendvédelmi feladatokat ellátó szerveknél foglalkoztatott szakszervezeti tag közalkalmazottak létszámát az 1. § (5) bekezdésében foglaltakra tekintettel kell megállapítani.
 
-[^4]: A 3. § a 89/2014. (III. 20.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^5]: A 3. § (6) bekezdése a 157/2015. (VI. 25.) Korm. rendelet 25. §-a szerint módosított szöveg.
+[^5]: A 3. § a 89/2014. (III. 20.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^6]: A 3. § (6) bekezdése a 157/2015. (VI. 25.) Korm. rendelet 25. §-a szerint módosított szöveg.
