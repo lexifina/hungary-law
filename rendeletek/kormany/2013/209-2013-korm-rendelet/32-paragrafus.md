@@ -1,6 +1,6 @@
 32. § (1) Az egyeztető szerv elnökből, – szükség szerint – elnökhelyettesből és tagokból (a továbbiakban együtt: tagok) áll.
 
-(2) A tagokat a közlekedésért felelős miniszter (a továbbiakban: miniszter) jelöli ki. A tagok száma legalább tíz, legfeljebb harminc fő. A kijelölés során biztosítani kell, hogy a testületnek legyen olyan tagja, aki jogi végzettséggel rendelkezik.
+(2)[^20] A tagokat a miniszter jelöli ki. A tagok száma legalább tíz, legfeljebb harminc fő. A kijelölés során biztosítani kell, hogy a testületnek legyen olyan tagja, aki jogi végzettséggel rendelkezik.
 
 (3) A tagok megbízatása három évre szól. A tagok ismételten kijelölhetőek.
 
@@ -10,7 +10,7 @@
 
 (6) Nem lehet tag,
 
-a)[^16] aki a polgári jog szabályai szerint cselekvőképességet érintő gondnokság alatt áll,
+a)[^21] aki a polgári jog szabályai szerint cselekvőképességet érintő gondnokság alatt áll,
 
 b) akit bűncselekmény elkövetése miatt jogerősen szabadságvesztés büntetésre ítéltek, amíg a büntetett előélethez fűződő hátrányok alól nem mentesült, vagy
 
@@ -20,4 +20,5 @@ c) akivel szemben a 35. § (2) bekezdésében meghatározott összeférhetetlens
 
 (8) Az egyeztető szerv elnöke – ha az egyeztető szerv munkaterhe azt indokolja – elnökhelyettest jelölhet ki a tagok közül. Az elnököt akadályoztatása esetén az elnökhelyettes teljes jogkörrel helyettesíti. Elnökhelyettes hiányában az elnököt szükség esetén az általa az adott alkalommal történő helyettesítésre kijelölt tag a kijelölésben meghatározott körben helyettesítheti.
 
-[^16]: A 32. § (6) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
+[^20]: A 32. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 232. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^21]: A 32. § (6) bekezdés a) pontja az 53/2014. (III. 3.) Korm. rendelet 41. § c) pontja szerint módosított szöveg.
