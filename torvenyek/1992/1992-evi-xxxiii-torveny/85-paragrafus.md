@@ -96,7 +96,7 @@ da) a magyar állampolgárság feltételét a közalkalmazotti jogviszony létes
 
 db) a gyakornoki idő kikötése alól mentes munkaköröket,
 
-dc) az illetménytöbblet mértékét és juttatásának szabályait,
+dc)
 
 dd) az 1. számú mellékletben szereplő minősítési szempontokhoz az ágazatba tartozó munkakörhöz kapcsolódó további vagy eltérő szempontokat, illetve az egyes munkakörökben foglalkoztatott közalkalmazott minősítésénél kizárt szempontokat,
 
@@ -120,7 +120,7 @@ ee) a teljes munkaidőből kötelezően a munkahelyen töltendő idő tartamát,
 
 ef) a tudományos kutatói közalkalmazotti jogviszony létesítésénél a magyar állampolgársággal rendelkezés alóli felmentésnek, a szabad mozgás és tartózkodás jogával rendelkezés alóli felmentésnek a feltételeit, illetve bevándorolt vagy letelepedett státusz feltétele alóli mentesítésnek a feltételét;
 
-eg) az illetménytöbblet mértékét és juttatásának szabályait;
+eg)
 
 f) a művészeti, a közművelődési és a közgyűjteményi intézményeknél foglalkoztatott, illetve más költségvetési szervnél ilyen tevékenységet végző közalkalmazottak tekintetében
 
@@ -165,6 +165,8 @@ e)
 f) a magasabb vezető, illetve vezető megbízással rendelkező közalkalmazott vezetői pótlékának mértékét,
 
 g) az ágazati, szakmai sajátosságokra tekintettel fizetendő illetménypótlékokat és azok mértékét.
+
+(4a) Felhatalmazást kap a honvédelemért, a büntetés-végrehajtásért, a katasztrófák elleni védekezésért, a polgári nemzetbiztonsági szolgálatok irányításáért és a rendészetért felelős miniszter, hogy rendeletben szabályozza a (4) bekezdés g) pontja alapján megállapításra kerülő, ágazati, szakmai sajátosságokra figyelemmel fizetendő pótlékoknak a jubileumi jutalom alapját képező illetménybe való beszámíthatóságát.
 
 (5) A (4) bekezdésben foglaltakon túlmenően felhatalmazást kap
 

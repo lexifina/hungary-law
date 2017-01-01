@@ -38,6 +38,6 @@ b) középfokú vagy magasabb iskolai végzettséget, illetve középfokú vagy 
 
 megfelelő összeg illeti meg.
 
-(10) A garantált illetmény összegét a kerekítés általános szabályai szerint száz forintra kerekítve kell megállapítani.
+(10) A garantált illetmény összegét a kerekítés általános szabályai szerint száz forintra kerekítve kell megállapítani, azzal, hogy a kerekítésre egy alkalommal, a garantált illetmény végösszegének megállapítása során kerül sor.
 
 (11) A (2)–(4) bekezdésben említett illetményrész azon időszak alatt illeti meg a közalkalmazottat, amely alatt a további szakképesítést alkalmazza. Ez az időszak azonban egy hónapnál rövidebb nem lehet.

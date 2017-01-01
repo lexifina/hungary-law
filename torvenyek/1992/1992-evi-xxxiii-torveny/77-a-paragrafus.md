@@ -1,1 +1,1 @@
-77/A. §
+77/A. § A közszolgálati tisztviselőkről szóló törvény szerinti célfeladat végrehajtásában a közszolgálati tisztviselőkről szóló törvényben és végrehajtására kiadott rendeletben foglalt feltételekkel és korlátozásokkal a közalkalmazott is részt vehet és a kormánytisztviselőkkel azonos feltételek szerint a célfeladat eredményes végrehajtásáért céljuttatásra jogosult.

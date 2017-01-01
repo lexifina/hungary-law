@@ -1,1 +1,1 @@
-93/A. § A 66. § (1) bekezdésétől eltérően a fizetési osztályok első fizetési fokozatához tartozó illetmény garantált összegét, valamint a növekvő számú fizetési fokozatokhoz tartozó – az első fizetési fokozat garantált illetményére épülő – legkisebb szorzószámokat 2016-ra nézve a 3. melléklet állapítja meg.
+93/A. §

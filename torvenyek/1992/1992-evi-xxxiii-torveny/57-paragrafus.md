@@ -2,7 +2,7 @@
 
 (2) A magasabb vezető megbízású közalkalmazottat évi tíz munkanap, a vezető megbízásút évi öt munkanap pótszabadság illeti meg.
 
-(3) A bölcsődékben, a nevelési-oktatási és a pedagógiai szakszolgálati intézményekben, a felsőfokú oktatás keretében, valamint az egészségügyi ágazatban a nevelő, nevelő-oktató, oktató munkát, pedagógiai szakszolgálati tevékenységet végző közalkalmazottakat évi huszonöt munkanap pótszabadság illeti meg, amelyből legfeljebb tizenöt munkanapot a munkáltató nevelő, nevelő-oktató, oktató, illetőleg a neveléssel, oktatással, pedagógiai szakszolgálati tevékenységgel összefüggő munkára igénybe vehet. Az oktatással és neveléssel kapcsolatos munkák körét végrehajtási rendelet állapítja meg.
+(3) A bölcsődékben, mini bölcsődékben, a nevelési-oktatási és a pedagógiai szakszolgálati intézményekben, a felsőfokú oktatás keretében, valamint az egészségügyi ágazatban a nevelő, nevelő-oktató, oktató munkát, pedagógiai szakszolgálati tevékenységet végző közalkalmazottakat évi huszonöt munkanap pótszabadság illeti meg, amelyből legfeljebb tizenöt munkanapot a munkáltató nevelő, nevelő-oktató, oktató, illetőleg a neveléssel, oktatással, pedagógiai szakszolgálati tevékenységgel összefüggő munkára igénybe vehet. Az oktatással és neveléssel kapcsolatos munkák körét végrehajtási rendelet állapítja meg.
 
 (3a) A gyermekvédelmi szakellátási intézményekben, javítóintézetekben jogszabályban meghatározott pedagógus-munkakörben foglalkoztatott közalkalmazottakat évi huszonöt munkanap pótszabadság illeti meg. A pótszabadságból legfeljebb tizenöt munkanapot vehet igénybe a munkáltató
 
@@ -12,7 +12,7 @@ b) a gyermekek, fiatal felnőttek és a velük kapcsolatos intézkedések meghoz
 
 c) az a) és b) pontban foglalt tevékenységgel összefüggő feladatok ellátására.
 
-(4)
+(4) A bölcsődékben, mini bölcsődékben jogszabályban meghatározott pedagógus-munkakörben foglalkoztatott közalkalmazottakat évi huszonöt munkanap pótszabadság illeti meg. A pótszabadságból legfeljebb tizenöt munkanapot vehet igénybe a munkáltató nevelő, nevelő-oktató, illetve a neveléssel-oktatással összefüggő feladatok ellátására.
 
 (5) A föld alatt állandó jelleggel dolgozó, illetve az ionizáló sugárzásnak kitett munkahelyen naponta legalább három órát töltő munkavállalót évenként öt munkanap pótszabadság illeti meg. Ha a közalkalmazott ilyen munkahelyen legalább öt évet eltöltött, évenként tíz munkanap pótszabadságra jogosult.
 
