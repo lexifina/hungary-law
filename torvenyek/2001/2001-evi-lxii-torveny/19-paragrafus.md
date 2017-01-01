@@ -6,7 +6,7 @@
 
 19. § (1) Az e törvényben meghatározott egyes kedvezményekre való jogosultságot az 1. § (1) és (2) bekezdésének hatály alá tartozó személyek esetében a ,,Magyar igazolvány'', illetőleg a ,,Magyar hozzátartozói igazolvány'' igazolja.
 
-(2) A Kormány által erre kijelölt magyar központi közigazgatási szervtől (a továbbiakban: elbíráló hatóság)
+(2) A Kormány által erre kijelölt közigazgatási szervtől (a továbbiakban: elbíráló hatóság)
 
 a) arcképes ,,Magyar igazolvány'' kiadását kérheti az 1. § (1) bekezdésének hatálya alá tartozó, magát magyar nemzetiségűnek valló személy, kiskorú esetén törvényes képviselője útján;
 
