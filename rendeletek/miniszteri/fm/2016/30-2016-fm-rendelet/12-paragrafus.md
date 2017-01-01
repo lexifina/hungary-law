@@ -4,7 +4,7 @@
 
 (3) Pályázat esetében a Herman Ottó Intézet, egyedi támogatási kérelem esetében a miniszter a jogosultságot a támogatásban részesült ügyfél által benyújtott számlák, bizonylatok és dokumentumok alapján ellenőrzi – amennyiben szükséges hiánypótlásra szólítja fel a pályázót – és dönt a kifizetésről, vagy ha a támogatásban részesült ügyfél a részére teljesített előleggel történő elszámolási kötelezettségének – a hiánypótlási felhívás ellenére – nem tett eleget, dönt az intézkedésben való jogosulatlan részvételről.
 
-(4) Az 1–3. célterület esetében a támogatási jogosultság megállapításakor a Herman Ottó Intézet a hatósági szerződésre hivatkozva – a döntéshozatalt követő nyolc naptári napon belül – értesítést küld az elfogadott elszámolásokról az MVH és a miniszter részére az alábbi adattartalommal:
+(4)[^14] Az 1–3. célterület esetében a támogatási jogosultság megállapításakor a Herman Ottó Intézet a hatósági szerződésre hivatkozva – a döntéshozatalt követő nyolc naptári napon belül – értesítést küld az elfogadott elszámolásokról a Kincstár és a miniszter részére az alábbi adattartalommal:
 
 a) a nyertes pályázó neve, születési neve,
 
@@ -24,4 +24,7 @@ h) az összesen megállapított támogatásból az elszámolások alapján jogos
 
 (5) A támogatási szerződésbe, valamint a 2. § (4) bekezdésében meghatározott célra irányuló fejlesztés támogatása esetén a hatósági szerződésbe bele kell foglalni a támogatás összegéről és annak mezőgazdasági csekély összegű jellegéről szóló tájékoztatást. A szerződésben utalni kell a mezőgazdasági csekély összegű rendelet címére, az Európai Unió Hivatalos Lapjában való kihirdetése napjára, továbbá meg kell határozni a támogatás összegét támogatástartalomban (euróban) kifejezve.
 
-(6) Az 1–3. célterület esetében az MVH, a 4. célterület esetében a miniszter – a Tv. 60. §-ában foglaltakra is figyelemmel – legkésőbb a forrás rendelkezésre állását követő tizenöt naptári napon belül gondoskodik a támogatásnak a támogatásban részesült ügyfél Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe bejelentett, támogatási szerződés esetében a támogatási szerződésben feltüntetett fizetési számlaszámára történő átutalásáról.
+(6)[^15] Az 1–3. célterület esetében a Kincstár, a 4. célterület esetében a miniszter – a Tv. 60. §-ában foglaltakra is figyelemmel – legkésőbb a forrás rendelkezésre állását követő tizenöt naptári napon belül gondoskodik a támogatásnak a támogatásban részesült ügyfél Egységes Mezőgazdasági Ügyfél-nyilvántartási Rendszerbe bejelentett, támogatási szerződés esetében a támogatási szerződésben feltüntetett fizetési számlaszámára történő átutalásáról.
+
+[^14]: A 12. § (4) bekezdés nyitó szövegrésze a 88/2016. (XII. 29.) FM rendelet 114. § b) pontja szerint módosított szöveg.
+[^15]: A 12. § (6) bekezdése a 88/2016. (XII. 29.) FM rendelet 114. § b) pontja szerint módosított szöveg.
