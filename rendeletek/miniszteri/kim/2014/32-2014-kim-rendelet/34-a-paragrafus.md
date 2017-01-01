@@ -1,8 +1,8 @@
-## 14/A. [^51] A családi név korrekciója
+## 14/A. [^56] A családi név korrekciója
 
 34/A. § (1) Az At. 44. §-a, és 55–55/A. §-a szerinti családi név korrekciójára irányuló kérelmet annyi példányban kell felvenni, ahány anyakönyvi bejegyzést az eljárás érint.
 
-(2) A hivatásos konzuli tisztviselő a központi anyakönyvi szervhez továbbítja a családi név korrekciójára irányuló kérelmet. A központi anyakönyvi szerv a kérelmező születési helye szerinti anyakönyvvezető részére küldi meg az összes iratot, aki gondoskodik valamennyi adatváltozás átvezetéséről.
+(2)[^57] A hivatásos konzuli tisztviselő a születés helye szerint illetékes anyakönyvvezetőhöz továbbítja a családi név korrekciójára irányuló kérelmet, aki gondoskodik valamennyi adatváltozás átvezetéséről.
 
 (3) Ha a családi név korrekciójára irányuló kérelmet anyakönyvvezetőnél terjesztették elő, úgy a kérelem benyújtásának helye szerinti anyakönyvvezető vezeti át az adatváltozásokat az elektronikus anyakönyvben.
 
@@ -54,4 +54,5 @@ ce) a korlátozottan cselekvőképes kiskorú hozzájáruló nyilatkozatát.
 
 (5) A családi név korrekciójára irányuló kérelemben meg kell jelölni azt a családi nevet, amelyet a kérelmező új névként kíván viselni.
 
-[^51]: A 14/A. alcímet (34/A. §) a 43/2015. (VII. 15.) BM rendelet 17. §-a iktatta be.
+[^56]: A 14/A. alcímet (34/A. §) a 43/2015. (VII. 15.) BM rendelet 17. §-a iktatta be.
+[^57]: A 34/A. § (2) bekezdése az 58/2016. (XII. 22.) BM rendelet 44. § (7) bekezdésével megállapított szöveg.

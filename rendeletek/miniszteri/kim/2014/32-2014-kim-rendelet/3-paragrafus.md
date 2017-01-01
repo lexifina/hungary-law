@@ -1,4 +1,4 @@
-## aki az anyakönyvi igazgatási feladatok ellátásához szükséges, jogszabályban meghatározott képesítéssel rendelkezik.
+## 1–2. §
 
 ## 3. Az anyakönyvvezető illetékességi területe
 

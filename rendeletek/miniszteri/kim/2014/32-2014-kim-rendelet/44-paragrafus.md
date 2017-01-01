@@ -4,8 +4,8 @@
 
 (3) Házasság hazai anyakönyvezése során a felek házassági neveként a külföldi házassági anyakönyvi kivonatban, ennek hiányában más külföldi okiratban szereplő nevet kell az elektronikus anyakönyvbe házassági névként bejegyezni.
 
-(4)[^63] Ha a külföldi házassági okirat házassági nevet nem tartalmaz, a magyar állampolgárságú fél a Ptk.-ban felsorolt házassági névviselési formák közül választhat. Ha a nyilatkozata nem szerezhető be, a házassági név elektronikus anyakönyvbe történő bejegyzését mellőzni kell. Ha a fél a későbbiekben az anyakönyvvezetőnél a Ptk.-ban felsorolt házassági névviselési formák közüli választást tartalmazó nyilatkozatot tesz, az ennek megfelelő házassági nevét az elektronikus anyakönyvbe adatváltozásként be kell jegyezni.
+(4)[^79] Ha a külföldi házassági okirat házassági nevet nem tartalmaz, a magyar állampolgárságú fél a Ptk.-ban felsorolt házassági névviselési formák közül választhat. Ha a nyilatkozata nem szerezhető be, a házassági név elektronikus anyakönyvbe történő bejegyzését mellőzni kell. Ha a fél a későbbiekben az anyakönyvvezetőnél a Ptk.-ban felsorolt házassági névviselési formák közüli választást tartalmazó nyilatkozatot tesz, az ennek megfelelő házassági nevét az elektronikus anyakönyvbe adatváltozásként be kell jegyezni.
 
 (5) Ha a külföldi házassági okirat házassági nevet nem tartalmaz, a külföldi fél házassági nevét a rendelkezésre álló egyéb külföldi okirat alapján lehet a hazai anyakönyvbe bejegyezni.
 
-[^63]: A 44. § (4) bekezdése a 43/2015. (VII. 15.) BM rendelet 20. §-ával megállapított szöveg.
+[^79]: A 44. § (4) bekezdése a 43/2015. (VII. 15.) BM rendelet 20. §-ával megállapított szöveg.

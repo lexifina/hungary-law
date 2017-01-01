@@ -1,11 +1,13 @@
 ## 14. A névváltoztatási kérelem
 
-## 34. § A név megváltoztatása iránti kérelmet
+34. §[^55] (1) A név megváltoztatása iránti kérelmet
 
 a) az anyakönyvvezető az EAK rendszerben rögzíti és a kérelem benyújtásától számított öt napon belül,
 
-b)[^50] a hivatásos konzuli tisztviselő az első diplomáciai postával
+b) a hivatásos konzuli tisztviselő az első diplomáciai postával
 
-megküldi a központi anyakönyvi szervnek, amely a b) pont szerinti esetben a kérelmet rögzíti az EAK rendszerben.
+megküldi a névváltoztatásért felelős anyakönyvi szervnek, amely a b) pont szerinti esetben a kérelmet rögzíti az EAK rendszerben.
 
-[^50]: A 34. § b) pontja a 38/2014. (VII. 16.) BM rendelet 3. § e) pontja szerint módosított szöveg.
+(2) Hazai vagy külföldi hatóságok vagy más szervek részére megszemélyesítetlen vagy fiktív adatokkal megszemélyesített specimen névváltoztatási okiratot a névváltoztatásért felelős anyakönyvi szerv továbbíthat.
+
+[^55]: A 34. § az 58/2016. (XII. 22.) BM rendelet 44. § (6) bekezdésével megállapított szöveg.

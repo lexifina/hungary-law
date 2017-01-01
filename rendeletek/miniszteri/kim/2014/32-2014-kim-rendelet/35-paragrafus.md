@@ -10,7 +10,7 @@
 
 (5) Az apai elismerő nyilatkozat megtételekor az anya nyilatkozik
 
-a) arról, hogy tudomása szerint a gyermek apaságával összefüggő per más férfival szemben nincs folyamatban,
+a)[^58] arról, hogy tudomása szerint a gyermek apaságával összefüggő per más férfival szemben folyamatban van-e, ha igen, akkor az eljáró bíróság megnevezéséről és a per ügyszámáról,
 
 b) arról, hogy a gyermek reprodukciós eljárásból származik-e, és
 
@@ -23,3 +23,5 @@ c) ha a gyermek reprodukciós eljárásból származik, arról, hogy a reprodukc
 (8) Ha az anya korábban házasságban élt, a nyilatkozatot felvevő anyakönyvvezető vagy a hivatásos konzuli tisztviselő a jegyzőkönyvben feltünteti a korábbi házasság megszűnésének tényét és ennek időpontját.
 
 (9) Ha az apai elismerő nyilatkozathoz hozzájáruló nyilatkozat szükséges, és az nem áll rendelkezésre, az anyakönyvvezető intézkedik a hozzájáruló nyilatkozat beszerzése érdekében, szükség esetén a gyámhivatal megkeresésével.
+
+[^58]: A 35. § (5) bekezdés a) pontja az 58/2016. (XII. 22.) BM rendelet 44. § (8) bekezdésével megállapított szöveg.
