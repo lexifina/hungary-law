@@ -1,6 +1,6 @@
-## 12. §[^43] A Nemzetközi Közlekedési Fórum (ITF) határozata alapján a 4. számú mellékletben felsorolt ITF államok hatóságai által a mozgásában korlátozott személy részére kiállított parkolókártya az e rendeletben meghatározott parkolási igazolvánnyal azonos kedvezményekre jogosít.
+## 12. §[^45] A Nemzetközi Közlekedési Fórum (ITF) határozata alapján a 4. számú mellékletben felsorolt ITF államok hatóságai által a mozgásában korlátozott személy részére kiállított parkolókártya az e rendeletben meghatározott parkolási igazolvánnyal azonos kedvezményekre jogosít.
 
-12/A. §[^44] (1) Az intézményi igazolvány esetében
+12/A. §[^46] (1) Az intézményi igazolvány esetében
 
 a) a 3. § (2) bekezdésében foglaltaktól eltérően
 
@@ -20,5 +20,5 @@ a) a kiadásához szükséges feltételek már nem teljesülnek, ebben az esetbe
 
 b) azt az igazolványt kiadó hatóság visszavonja.
 
-[^43]: A 12. § a 204/2013. (VI. 14.) Korm. rendelet 6. §-a szerint módosított szöveg.
-[^44]: A 12/A. §-t a 204/2013. (VI. 14.) Korm. rendelet 4. §-a iktatta be.
+[^45]: A 12. § a 204/2013. (VI. 14.) Korm. rendelet 6. §-a szerint módosított szöveg.
+[^46]: A 12/A. §-t a 204/2013. (VI. 14.) Korm. rendelet 4. §-a iktatta be.
