@@ -1,6 +1,6 @@
 15/B. § Az agrárkamara ellátja:
 
-a) a mezőgazdasági, vidékfejlesztési szaktanácsadói engedély kiadásával,
+a) a mezőgazdasági, vidékfejlesztési szaktanácsadói tevékenység végzésére irányuló szándék bejelentésével,
 
 b) a mezőgazdasági, vidékfejlesztési szaktanácsadói névjegyzék vezetésével,
 
