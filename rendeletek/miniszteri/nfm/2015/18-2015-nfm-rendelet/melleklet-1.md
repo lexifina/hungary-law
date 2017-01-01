@@ -60,9 +60,7 @@ C) Központi hivatalok
 
 1.[^2]
 
-2. A Nemzeti Fogyasztóvédelmi Hatóságnál
-
-2.1. a gazdasági vezető.
+2.[^3]
 
 3. A Nemzeti Közlekedési Hatóságnál
 
@@ -102,7 +100,7 @@ C) Központi hivatalok
 
 4.2. a főosztályvezető,
 
-4.3.[^3]
+4.3.[^4]
 
 4.4. az informatikai és adatvédelmi feladatokat, az adattári és információs feladatokat, a humánpolitikai és igazgatási feladatokat ellátó szervezeti egység vezetője,
 
@@ -138,14 +136,10 @@ D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
 2.3. a főosztályvezető.
 
-3. A Közlekedésfejlesztési Koordinációs Központnál
-
-3.1. a főigazgató,
-
-3.2. a gazdasági vezető,
-
-3.3. a műszaki igazgató.
+3.[^5]
 
 [^1]: A 1. melléklet A) rész 1. pont 1.16. alpontját a 46/2016. (XI. 17.) NFM rendelet 6. §-a iktatta be.
 [^2]: A 1. melléklet C) rész 1. pontját a 46/2016. (XI. 17.) NFM rendelet 7. §-a hatályon kívül helyezte.
-[^3]: Az 1. melléklet C) rész 4. pont 4.3. alpontját a 38/2015. (VI. 30.) NFM rendelet 1. §-a hatályon kívül helyezte.
+[^3]: Az 1. melléklet C) rész 2. pontját a 78/2016. (XII. 30.) NFM rendelet 2. § a) pontja hatályon kívül helyezte.
+[^4]: Az 1. melléklet C) rész 4. pont 4.3. alpontját a 38/2015. (VI. 30.) NFM rendelet 1. §-a hatályon kívül helyezte.
+[^5]: Az 1. melléklet D) rész 3. pontját a 78/2016. (XII. 30.) NFM rendelet 2. § b) pontja hatályon kívül helyezte.
