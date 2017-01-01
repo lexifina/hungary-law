@@ -10,4 +10,4 @@
 
 (5) Ha a személyi, tárgyi vagy a tényállásbeli elemek bármelyike megváltozik az alapeljáráshoz képest, a vámhatóság által hozott határozat nem módosításnak, hanem új határozatnak minősül.
 
-(6) A vámhatóság az áruátengedést követően végzett ellenőrzés szakszerűségének és törvényességének vizsgálata céljából felülellenőrzést folytathat le.
+(6)

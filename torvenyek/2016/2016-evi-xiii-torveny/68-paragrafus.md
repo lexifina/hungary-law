@@ -12,11 +12,11 @@
 
 (6) A túlfizetésként vagy tartozatlan befizetésként nyilvántartott pénzösszeg visszafizetését az állami adó- és vámhatóság a kérelem benyújtásától számított harminc napon belül kamatmentesen teljesítheti.
 
-(7) A vámhatóság megkövetelheti, hogy a vám és egyéb terhek megfizetését az adós – a pénzforgalmi bizonylat eredeti példányának bemutatásával – igazolja.
+(7) A vámhatóság megkövetelheti, hogy a vám és egyéb terhek, a Vámkódex 112. cikk (2) bekezdése szerinti hitelkamat, 114. cikke szerinti késedelmi kamat, továbbá a vámigazgatási bírság megfizetését az adós – a pénzforgalmi bizonylat eredeti példányának bemutatásával – igazolja.
 
-(8) A vám és egyéb terhek megfizetésére szolgáló és azt igazoló okmányoknak a pénzforgalom lebonyolításáról szóló MNB rendeletben meghatározott adatokon túl tartalmazniuk kell a vámadós
+(8) A vám és egyéb terhek, a Vámkódex 112. cikk (2) bekezdése szerinti hitelkamat, 114. cikke szerinti késedelmi kamat, továbbá a vámigazgatási bírság megfizetésére szolgáló és azt igazoló okmányoknak a pénzforgalom lebonyolításáról szóló MNB rendeletben meghatározott adatokon túl tartalmazniuk kell
 
-a) EORI számát, adószámát vagy adóazonosító jelét, külföldi személy esetében a személyi okmány számát,
+a) a vámadós EORI számát, adószámát vagy adóazonosító jelét, külföldi személy esetében a személyi okmány számát,
 
 b) a terhelendő számla számát,
 
@@ -30,6 +30,6 @@ f) a befizetés vagy terhelés dátumát,
 
 g) a fizetési kötelezettséget közlő határozat számát, valamint
 
-h) a fizetési kötelezettséghez tartozó pénzügyi azonosítószámot.
+h) a fizetési kötelezettséghez tartozó pénzügyi azonosító számot.
 
-(9) A befizetési bizonylatnak nem kell tartalmaznia a (8) bekezdés e) és h) pontjában meghatározott adatokat, ha a halasztott vámfizetésről szóló engedély – az ügyfél kérelmére – az összevont fizetés lehetőségét tartalmazza.
+(9) A vám és egyéb terhek megfizetését igazoló befizetési bizonylatnak nem kell tartalmaznia a (8) bekezdés h) pontjában meghatározott adatot, ha a halasztott vámfizetésről szóló engedély – az ügyfél kérelmére – az összevont fizetés lehetőségét tartalmazza.

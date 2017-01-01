@@ -12,6 +12,6 @@ b) az a nemzetközi áruforgalmat elősegíti, és
 
 c) a gazdasági igények és az igazgatási költségek észszerű arányát eredményezi.
 
-(2) Az (1) bekezdés szerinti döntés érdekében a kérelmet a vámszabad terület üzemeltetését végző személy a vámhatósághoz elektronikus úton vagy papír alapon nyújtja be. A kérelem tartalmi elemeit a miniszter rendeletben állapítja meg.
+(2) Az (1) bekezdés szerinti döntés érdekében a kérelmet a vámszabad terület üzemeltetését végző személy a vámhatósághoz elektronikus úton vagy papír alapon nyújtja be.
 
 (3)

@@ -12,7 +12,7 @@ a) a vámhatóság az előzetes értékelés alapján a kérelmet nem támogatja
 
 b) a kérelem benyújtásával egyidejűleg az eljárási illetéket nem fizették meg,
 
-c) a kérelem benyújtásával egyidejűleg az ügyfél az e törvényben meghatározott képviseletről nem gondoskodik.
+c)
 
 (6) A vámszabad terület kijelölés iránti kérelem érdemi vizsgálat nélküli elutasításáról a miniszter az ügyfelet határozat meghozatala nélkül értesíti a kérelem felterjesztését követő 8 napon belül.
 

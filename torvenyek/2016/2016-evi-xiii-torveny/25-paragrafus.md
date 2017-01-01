@@ -1,6 +1,6 @@
 ## 11. A Vámkódex 42. cikkéhez
 
-25. § (1) Az eljáró vámhivatal vámigazgatási bírságot szab ki az alábbi tárgykörökbe tartozó, a vámjogszabályokban meghatározott
+25. § (1) Az eljáró vámszerv vámigazgatási bírságot szab ki az alábbi tárgykörökbe tartozó, a vámjogszabályokban meghatározott
 
 a) árunyilatkozat-adással, értesítéssel, okmánymegőrzéssel összefüggő,
 

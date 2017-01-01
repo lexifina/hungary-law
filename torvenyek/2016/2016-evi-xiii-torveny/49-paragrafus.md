@@ -8,6 +8,6 @@
 
 (4) A vámhivatal engedélyezheti, hogy a díjat vagy költséget hónaponként összesítve fizesse meg az a személy, aki számára rendszeres házi szemlét engedélyezett. Ebben az esetben a vámhivatal a tárgyhónapban végzett eljárásai után fizetendő díjról vagy költségről szóló határozatát a tárgyhónapot követő öt napon belül közli a fizetésre kötelezettel.
 
-(5) A díjak és költségek késedelmes megfizetése esetén a Vámkódex 114. cikke szerinti késedelmi kamat mértékével megegyező mértékű késedelmi kamatot kell fizetni. A Vámkódex 114. cikke alkalmazása során a nemzeti központi bank kamatlábaként a jegybanki alapkamatot kell figyelembe venni.
+(5) A díjak és költségek késedelmes megfizetése esetén a Vámkódex 114. cikke szerinti késedelmi kamatot csak akkor kell fizetni, ha annak számított értéke meghaladja a 2000 forintot. A Vámkódex 114. cikke alkalmazása során a nemzeti központi bank kamatlábaként a jegybanki alapkamatot kell figyelembe venni.
 
 (6) A díjak meg nem fizetése esetén a vámhatóság a 73. § alapján jár el.

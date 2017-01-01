@@ -8,7 +8,7 @@ c) az érintett személynek a cégjegyzékből való törlését a cégbírósá
 
 d) az érintett személy által a rá irányadó szabályoknak megfelelően bejelentett székhelye nem valós cím,
 
-e) az érintett személy vámellenőrzése alapján hitelt érdemlően tudomást szerez arról, hogy a bejelentett szervezeti képviselő nem valós személy, vagy
+e) hitelt érdemlően tudomást szerez arról, hogy a bejelentett szervezeti képviselő nem valós személy, vagy
 
 f) a gazdálkodónak nem minősülő személy meghal.
 

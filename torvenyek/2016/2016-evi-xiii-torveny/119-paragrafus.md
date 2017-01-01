@@ -1,6 +1,6 @@
 119. § (1) Felhatalmazást kap a miniszter, hogy
 
-1. a gazdálkodó számítógépesített rendszerének működési zavara esetén alkalmazandó részletszabályokat,
+1. a vámhatóság és a gazdálkodó számítógépesített rendszerének működési zavara esetén alkalmazandó részletszabályokat
 
 2. az EORI nyilvántartásba vételre vonatkozó szabályokat,
 
@@ -16,11 +16,11 @@
 
 8. az áruk származására vonatkozó részletes szabályokat,
 
-9. a kezességvállalás részletes szabályait,
+9. a kötelezettségvállalási engedély alkalmazásának részletes szabályait,
 
 10. a készpénz letétbe helyezés vámbiztosítékként történő egyedi azonosításának részletes szabályait,
 
-11. a kezességtől és készpénzletéttől eltérő biztosíték részletes szabályait,
+11. a banki fedezetigazolás, garanciavállalói nyilatkozat és a készfizető kezesi szerződés részletes szabályait,
 
 12. a fizetési könnyítés részletes szabályait,
 
@@ -42,15 +42,15 @@
 
 21. az export-visszatérítésre vonatkozó részletes szabályokat,
 
-22. a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó, a szükséges elektronikus rendszerek működésbe lépéséig alkalmazandó átmeneti szabályok tekintetében történő kiegészítéséről, valamint a 2446/2015/EU felhatalmazáson alapuló rendelet módosításáról szóló, 2015. december 17-i 341/2016/EU bizottsági rendelet (a továbbiakban: ÁFJA) 9. melléklet A., C1. és D1. függelékéhez, valamint az FJA A és B mellékletéhez szükséges magyarázó jegyzeteket,
+22.
 
 23. az átmeneti megőrzési létesítmény üzemeltetője által küldendő garanciajelentésben szereplő adatok körét,
 
 24. a vámmentes vámeljárás végrehajtásának részletes szabályait,
 
-25. a vámtanácsadói és vámügynöki nyilvántartásba történő felvétel és törlés végrehajtását, a nyilvántartás vezetésének szabályait, az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, valamint a nyilvántartásba vett személyek kötelező továbbképzésére vonatkozó részletes szabályokat,
+25. a vámtanácsadói és vámügynöki nyilvántartásba történő felvétel és törlés végrehajtását, a nyilvántartás vezetésének szabályait, az eljárásért fizetendő igazgatási szolgáltatási díj mértékét, a nyilvántartásba vett személyek kötelező továbbképzésére, valamint a kreditpont minősítési eljárásra és az eljárásért fizetendő igazgatási szolgáltatási díjra vonatkozó részletes szabályokat és
 
-26. a vámjogi szakértői hatósági képzés és hatósági vizsga részletszabályait, továbbá a vámjogi szakértői hatósági képzést lebonyolító képző szervek, valamint a hatósági vizsga lebonyolítására megbízással foglalkoztatható vizsgabiztosok nyilvántartásba-vételi eljárásának szabályait
+26. a vámjogi szakértői hatósági képzés és hatósági vizsga részletszabályait, továbbá a vámjogi szakértői hatósági képzést lebonyolító képző szervek, és a hatósági vizsga lebonyolítására megbízással foglalkoztatható vizsgabiztosok nyilvántartásba-vételi eljárásának szabályait, valamint a hatósági vizsga és a vizsgabizottság díjának mértékére és megfizetésére vonatkozó szabályokat
 
 rendeletben állapítsa meg.
 

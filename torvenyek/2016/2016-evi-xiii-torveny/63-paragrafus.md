@@ -5,3 +5,5 @@
 (2) A könyv szerinti nyilvántartásba vett vámösszegről és egyéb terhekről szóló, a kérelemnek helyt adó döntés egyszerűsített határozatba foglalható.
 
 (3) Az adatfeldolgozási technika alkalmazásával benyújtott árunyilatkozatok esetében, ha a technikai feltételek adottak, a vámhatóság a vám és egyéb terhek összegét közlő határozatát elektronikus dokumentum formájában hozhatja meg. Az e bekezdésben meghatározott döntések kiadmányozása személy által felügyelt automatizált aláírással, elektronikus formában történik.
+
+(4) A vámhatóság az FJA 88. cikk (2) bekezdésében meghatározott esetben eltekint a vámtartozás közlésétől.

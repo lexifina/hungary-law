@@ -6,9 +6,9 @@
 
 1. adószabályok: adót, adófizetési kötelezettséget, költségvetési támogatást a központi költségvetés javára megállapító törvények,
 
-2. egyéb terhek: valamennyi olyan, az áru behozatalához kapcsolódó fizetési kötelezettség, amelynek kiszabása, beszedése, ellenőrzése a vámhatóság hatáskörébe tartozik, így különösen a jövedéki adó, az általános forgalmi adó, a regisztrációs adó, energiaadó,
+2. egyéb terhek: valamennyi olyan, az áru behozatalához kapcsolódó fizetési kötelezettség, amelynek kiszabása, beszedése, ellenőrzése a vámhatóság hatáskörébe tartozik, így különösen a jövedéki adó, az általános forgalmi adó, energiaadó,
 
-3. jövedéki termék: a jövedéki adóról és a jövedéki termékek forgalmazásának különös szabályairól szóló törvényben (a továbbiakban: Jöt.) ekként meghatározott termék,
+3. jövedéki termék: a jövedéki adóról szóló törvényben (a továbbiakban: Jöt.) ekként meghatározott termék,
 
 4. postai küldemény: a 952/2013/EU európai parlamenti és tanácsi rendeletnek az Uniós Vámkódex egyes rendelkezéseire vonatkozó részletes szabályok tekintetében történő kiegészítéséről szóló, 2015. július 28-i 2446/2015/EU felhatalmazáson alapuló bizottsági rendelet (a továbbiakban: FJA) 1. cikk 24. pontja szerinti küldemény,
 

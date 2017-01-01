@@ -1,4 +1,4 @@
-40. § (1) Ha a vámhatóság jogsértést állapít meg a vámellenőrzés során, e törvény eltérő rendelkezése hiányában a megállapításokat jegyzőkönyvbe foglalja. Ha a vámellenőrzést lefolytató vámszerv nem azonos a további intézkedés megtételére jogosult vámszervvel, a vámellenőrzést lefolytató vámszerv a tisztázott tényállásról szóló megállapításait szintén jegyzőkönyvbe foglalja.
+40. § (1) Ha a vámhatóság jogsértést állapít meg a vámellenőrzés során, e törvény eltérő rendelkezése hiányában a megállapításokat jegyzőkönyvbe foglalja. Ha a vámellenőrzést lefolytató vámszerv nem azonos a további intézkedés megtételére jogosult vámszervvel, a vámellenőrzést lefolytató vámszerv a megállapításait szintén jegyzőkönyvbe foglalja.
 
 (2) A jegyzőkönyvnek tartalmaznia kell
 

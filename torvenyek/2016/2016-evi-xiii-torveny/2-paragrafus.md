@@ -12,4 +12,4 @@
 
 (7) Ha vámjogszabály az áru tulajdonosáéhoz hasonló rendelkezési jogot említ, a rendelkezési jog tekintetében a Ptk. rendelkezéseit kell alkalmazni.
 
-(8) A postai küldemények vámeljárás alá vonásának részletes szabályait az adópolitikáért felelős miniszter (a továbbiakban: miniszter) rendeletben állapítja meg.
+(8)

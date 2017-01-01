@@ -60,7 +60,7 @@ q) a hagyatéki eljárásban eljáró közjegyzőt a közjegyzői hatáskörbe t
 
 r) a Magyar Export-Import Bank Zártkörűen Működő Részvénytársaságot és a Magyar Exporthitel Biztosító Zártkörűen Működő Részvénytársaságot az áruk, szolgáltatások és anyagi értéket képviselő jogok kereskedelmi forgalomban történő kiviteli tevékenység folytatására jogosultnak az általa igénybe vehető szolgáltatásokról történő tájékoztatása céljából,
 
-s) a közlekedési hatóságot az Uniós Vámkódex létrehozásáról szóló 952/2013/EU európai parlamenti és tanácsi rendelet egyes rendelkezéseinek végrehajtására vonatkozó részletes szabályok megállapításáról szóló, 2015. november 24-i 2447/2015/EU bizottsági rendelet (a továbbiakban: VA) 28. cikk (3) bekezdése és 30. cikk (2) bekezdése szerinti feladatok ellátása céljából.
+s) a közlekedési hatóságot a Vámkódex 39. cikk e) pontja szerinti biztonsági és védelmi szabványokkal kapcsolatban a vámhatóság által lefolytatott eljárásának eredményéről a meghatalmazott ügynök vagy ismert szállító minősítésével kapcsolatos feladatok ellátása céljából.
 
 (2) A vámtitokról való tájékoztatás azon adatokra terjedhet ki, amelyek kezelésére az (1) bekezdés szerinti szervek jogosultak.
 

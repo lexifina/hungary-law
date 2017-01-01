@@ -38,6 +38,6 @@ d) (1) bekezdés h) pontja alapján került sor, az adott igazolvány szerinti t
 
 e) (1) bekezdés i) pontja alapján került sor, a gondnokság alá helyezés megszüntetését követően
 
-kérheti az igazolvány újbóli kiadását és a nyilvántartásba történő ismételt felvételét, feltéve, hogy teljesítette a visszavonást megelőző továbbképzési időszak minden megkezdett évére vonatkozó, 115. § (4) bekezdése szerinti továbbképzési kötelezettség arányos részét.
+kérheti az igazolvány újbóli kiadását és a nyilvántartásba történő ismételt felvételét, feltéve, hogy teljesítette a visszavonást megelőző továbbképzési időszakra vonatkozó 115. § (4) bekezdése szerinti továbbképzési kötelezettségét.
 
-(6) A nyilvántartásba vétellel és az onnan való törléssel, valamint az igazolvány pótlásával, cseréjével, a nyilvántartásba vett adatok módosításával összefüggő, továbbá a tevékenységek határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárásért igazgatási szolgáltatási díjat kell fizetni.
+(6) A nyilvántartásba vétellel és az onnan való törléssel, az igazolvány pótlásával, cseréjével, a nyilvántartásba vett adatok módosításával összefüggő, továbbá a tevékenységek határon átnyúló jelleggel történő megkezdésének és folytatásának bejelentésével összefüggő eljárásért, valamint a továbbképzéshez kapcsolódó kreditpont minősítési eljárásért igazgatási szolgáltatási díjat kell fizetni.

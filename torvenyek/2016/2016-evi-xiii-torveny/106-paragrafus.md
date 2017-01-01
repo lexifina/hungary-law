@@ -6,4 +6,4 @@
 
 (4) A kiegészítő ellenőrzésről kiegészítő jegyzőkönyvet kell készíteni, amelyre a jegyzőkönyv szabályait alkalmazni kell, azzal az eltéréssel, hogy az ellenőrzött ügyfél észrevételt a kiegészítő ellenőrzésről szóló jegyzőkönyv közlésétől számított 8 napos jogvesztő határidőn belül tehet. A megtett észrevételt az EMGA utólagos ellenőrzést végző szerv vizsgálja meg és értékeli.
 
-(5) A hatóság az EMGA utólagos ellenőrzésről készült, illetve a kiegészítő ellenőrzésről készült jegyzőkönyvet a Mezőgazdasági és Vidékfejlesztési Hivatal részére megküldi.
+(5) A hatóság az EMGA utólagos ellenőrzésről készült, illetve a kiegészítő ellenőrzésről készült jegyzőkönyvet a mezőgazdasági és vidékfejlesztési támogatási szerv részére megküldi.

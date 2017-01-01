@@ -26,7 +26,7 @@ bb) az adóalany a vámhatóság hatáskörébe tartozó fizetési kötelezetts�
 
 c) az a tartozás, amelynél a vámhatóság igazolási kérelem alapján megállapítja, hogy a késedelmes fizetés vis maior eredménye.
 
-(3) A vámhatóság kérelemre engedélyezi, hogy az általános forgalmi adó összegének 50%-át kell biztosítania a vámigazgatási eljárásban annak a saját nevében eljáró adóalanynak, akire folyamatos működés mellett csak a tárgyévet megelőző naptári évre teljesül az (1) bekezdés b)–d) pontjában meghatározott feltétel.
+(3) A vámhatóság kérelemre engedélyezi, hogy az általános forgalmi adó összegének 50%-át kell biztosítania a vámigazgatási eljárásban annak a saját nevében eljáró adóalanynak, akire folyamatos működés mellett csak a tárgyévet megelőző naptári évre teljesül az (1) bekezdés a)–d) pontjában meghatározott feltétel.
 
 (4) A (3) bekezdés alkalmazásában a (2) bekezdés b) pontját azzal az eltéréssel kell alkalmazni, hogy a vizsgálandó időszak a tárgyévet megelőző naptári év.
 
@@ -34,6 +34,6 @@ c) az a tartozás, amelynél a vámhatóság igazolási kérelem alapján megál
 
 (6) Az (1) és (3) bekezdés szerinti engedély alapján az általános forgalmi adó biztosítása alóli mentesség vagy kedvezmény nem engedélyezhető, ha a szabad forgalomba bocsátásra bejelentett áruk vonatkozásában a vámeljárás során a vámhatóság a megállapított általános forgalmi adó megfizetésének felfüggesztéséről rendelkezik.
 
-(7) Az (1) és (3) bekezdés szerinti biztosítéknyújtás alóli mentesség, illetve kedvezmény engedélyezése iránti kérelmet március 31-ig kell benyújtani. A meghatározott feltételek fennállása esetén a vámhatóság által kiadott engedély a jogerőre emelkedést követő egyéves időtartamra érvényes.
+(7) Az (1) bekezdésben meghatározott feltételek teljesítése esetén a vámhatóság által kiadott engedély a hatályba lépést követő egyéves időtartamra érvényes.
 
 (8) Az (1)–(3) és (5) bekezdés szerinti mentesség, illetve kedvezmény vonatkozik az energiaadó biztosítására is.
