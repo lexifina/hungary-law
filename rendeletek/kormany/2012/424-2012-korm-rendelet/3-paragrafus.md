@@ -8,7 +8,7 @@ c)[^21] a magánszemély természetes személyazonosító adatait (ideértve az 
 
 d) a magánszemély társadalombiztosítási azonosító jelét,
 
-e)[^22] a biztosításban töltött idő tartamát, az alkalmazás minőségét, jogcímének kódját, valamint a magánszemély nyugdíjas státuszát, gyed vagy gyes folyósítása melletti munkavégzés tényét, és azt, hogy korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő naptári napjainak számát,
+e)[^22] a biztosításban töltött idő tartamát, az alkalmazás minőségét, jogcímének kódját, valamint a magánszemély nyugdíjas státuszát, gyed vagy gyes folyósítása melletti munkavégzés tényét, és azt, hogy korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő naptári napjainak számát,
 
 f)[^23] a nyugdíjjárulék alapját képező jövedelmet, a nyugdíjjárulék-köteles jutalom összegét, a levont nyugdíjjárulék összegét és a levonás elmaradásának okát, valamint családi járulékkedvezmény igénybevétele esetén annak összegét,
 
@@ -27,7 +27,7 @@ l)[^27] az adott hónapban történt egyszerűsített foglalkoztatás napjára (
 m)[^28] a felszolgálási díj után fizetett nyugdíjjárulék alapját és levont összegét.
 
 [^21]: A 3. § c) pontja az 59/2015. (III. 24.) Korm. rendelet 5. § l) pontja szerint módosítot szöveg.
-[^22]: A 3. § e) pontja az 538/2013. (XII. 30.) Korm. rendelet 2. § 3. pontja szerint módosított szöveg.
+[^22]: A 3. § e) pontja az 538/2013. (XII. 30.) Korm. rendelet 2. § 3. pontja, a 449/2016. (XII. 19.) Korm. rendelet 23. §-a szerint módosított szöveg.
 [^23]: A 3. § f) pontja az 59/2015. (III. 24.) Korm. rendelet 5. § m) pontja szerint módosítot szöveg.
 [^24]: A 3. § g) pontja az 59/2015. (III. 24.) Korm. rendelet 5. § n) pontja szerint módosítot szöveg.
 [^25]: A 3. § h) pontját az 59/2015. (III. 24.) Korm. rendelet 6. § h) pontja hatályon kívül helyezte.
