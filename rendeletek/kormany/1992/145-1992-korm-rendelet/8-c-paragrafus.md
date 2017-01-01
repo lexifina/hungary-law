@@ -1,4 +1,4 @@
-## 8/B. §[^16] A gazdálkodó szervezet a Mód. Kr. hatálybalépését[^17] követően újonnan jogosultakká váltak tekintetében köteles beszerezni a jogosult személyes adatai kezeléséhez történő hozzájárulását.
+## 8/B. §[^15] A gazdálkodó szervezet a az egyes energetikai tárgyú kormányrendeletek módosításáról szóló 75/2011. (V. 2.) Korm. rendelet hatálybalépését[^16] követően újonnan jogosultakká váltak tekintetében köteles beszerezni a jogosult személyes adatai kezeléséhez történő hozzájárulását.
 
-[^16]: A 8/B. §-t a 75/2011. (V. 2.) Korm. rendelet 30. § (4) bekezdése iktatta be.
-[^17]: A hatálybalépés napja: 2011. május 3.
+[^15]: A 8/B. §-t a 75/2011. (V. 2.) Korm. rendelet 30. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 8. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^16]: A hatálybalépés napja: 2011. május 3.
