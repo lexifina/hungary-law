@@ -28,7 +28,7 @@ d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, továbbá a 
 
 e) a bírósági végrehajtásról szóló 1994. évi LIII. törvény előírásai szerint a végrehajtónak,
 
-f) a Nemzeti Fogyasztóvédelmi Hatóságnak,
+f) a fogyasztóvédelmi hatóságnak,
 
 g) a védendő fogyasztók esetében az őt megillető kedvezménynek vagy különleges bánásmódnak az egy felhasználási helyen való igénybevételének ellenőrzése céljából a földgázelosztónak és az őt megillető kedvezménynek vagy különleges bánásmódnak a biztosítása érdekében a földgázkereskedőnek, valamint
 
