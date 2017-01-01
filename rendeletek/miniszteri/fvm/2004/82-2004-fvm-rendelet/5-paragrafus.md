@@ -40,15 +40,15 @@ r) együttműködés keretében adatot szolgáltat az Agrárgazdasági Kutató �
 
 s) kapcsolatot tart a Magyar Élelmiszer-biztonsági Hivatallal,
 
-t) kapcsolatot tart a Mezőgazdasági és Vidékfejlesztési Hivatallal,
+t)[^11] kapcsolatot tart a Magyar Államkincstárral,
 
 u) kapcsolatot tart a vámhatóságokkal, igény esetén megszervezi az ellenőrök részvételét közös ellenőrzési akciókban,
 
 v) kidolgozza a minőségügyi rendszerek alkalmazásának kockázat csökkentésre ható értékelési szempontjait, irányítja a felülvizsgálatot, és az eredményeket alkalmazza az ellenőrzések gyakoriságának meghatározásánál,
 
-w)[^11] javaslatot tesz a befolyt bírságok fejlesztési célú felhasználására.
+w)[^12] javaslatot tesz a befolyt bírságok fejlesztési célú felhasználására.
 
-(3)[^12] A vidékfejlesztési miniszter a minisztérium ellenőrzést felügyelő részlegén keresztül irányítja a zöldség és gyümölcs ellenőrzést, továbbá ellátja annak szakmai felügyeletét, melynek keretében:
+(3)[^13] A vidékfejlesztési miniszter a minisztérium ellenőrzést felügyelő részlegén keresztül irányítja a zöldség és gyümölcs ellenőrzést, továbbá ellátja annak szakmai felügyeletét, melynek keretében:
 
 a) érvényesíti a Koordinációs Központ irányításával a zöldség-gyümölcs ágazat stratégiai koncepcióit,
 
@@ -71,5 +71,6 @@ i) a Koordinációs Központ javaslata alapján a 2. számú melléklet feltéte
 [^8]: Az 5. § (1) bekezdése a 63/2005. (VII. 12.) FVM rendelet 2. § (1) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 41. § d)–e) pontja, a 19/2014. (III. 12.) VM rendelet 15. § a) pontja szerint módosított szöveg.
 [^9]: Az 5. § (2) bekezdés nyitó szövegrésze a 63/2005. (VII. 12.) FVM rendelet 2. § (2) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 41. § g) pontja szerint módosított szöveg.
 [^10]: Az 5. § (2) bekezdés a) pontja a 63/2005. (VII. 12.) FVM rendelet 2. § (2) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 41. § f) pontja, a 19/2014. (III. 12.) VM rendelet 15. § a) pontja szerint módosított szöveg.
-[^11]: Az 5. § (2) bekezdésének w) pontját a 63/2005. (VII. 12.) FVM rendelet 2. §-ának (3) bekezdése iktatta a szövegbe.
-[^12]: Az 5. § (3) bekezdés nyitó szövegrésze a 63/2005. (VII. 12.) FVM rendelet 2. § (4) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 41. § h) pontja szerint módosított szöveg.
+[^11]: Az 5. § (2) bekezdés t) pontja a 88/2016. (XII. 29.) FM rendelet 6. §-a szerint módosított szöveg.
+[^12]: Az 5. § (2) bekezdésének w) pontját a 63/2005. (VII. 12.) FVM rendelet 2. §-ának (3) bekezdése iktatta a szövegbe.
+[^13]: Az 5. § (3) bekezdés nyitó szövegrésze a 63/2005. (VII. 12.) FVM rendelet 2. § (4) bekezdésével megállapított, a 70/2013. (VII. 31.) VM rendelet 41. § h) pontja szerint módosított szöveg.
