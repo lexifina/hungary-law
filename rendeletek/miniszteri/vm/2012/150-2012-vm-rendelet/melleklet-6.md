@@ -422,7 +422,7 @@
 
 ## Az elvárt eredmény mindenképpen a piaci egyensúly fenntartása vagy annak létrehozása, a kereslet és kínálat összhangjának fenntartása vagy összehangolása.
 
-## A szükséges információk birtokában (termesztett mennyiség, keresett mennyiség) valószínűsíthető, hogy az értékesítés során ár és/vagy mennyiségi problémák lesznek, a probléma megoldására alkalmazni kell ezt az intézkedést. Az intézkedés végrehajtása során elvégzett feladatokat, munkafolyamatokat, az intézkedéssel érintett termékeket, azok mennyiségét, minőségét, a felmerült költségeket rögzíteni kell. A Mezőgazdasági és Vidékfejlesztési Hivatal (MVH) által, az ellenőrzés során kiállított dokumentációk is bizonyítékként szolgálnak.
+## A szükséges információk birtokában (termesztett mennyiség, keresett mennyiség) valószínűsíthető, hogy az értékesítés során ár és/vagy mennyiségi problémák lesznek, a probléma megoldására alkalmazni kell ezt az intézkedést. Az intézkedés végrehajtása során elvégzett feladatokat, munkafolyamatokat, az intézkedéssel érintett termékeket, azok mennyiségét, minőségét, a felmerült költségeket rögzíteni kell. A Kincstár által, az ellenőrzés során kiállított dokumentációk is bizonyítékként szolgálnak.
 
 ## Ezt követően meg kell vizsgálni, hogy az intézkedés milyen hatással volt a piacra. A piaci információk segítségével az árak növekedését, vagy az értékesített mennyiségek növekedését egyértelműen igazolni kell.
 
@@ -490,7 +490,7 @@
 
 ## Az intézkedés elvárt eredménye, hogy a termelői szervezet az említett tevékenységek esetében a vonatkozó rendeletekben előírt kötelezettségeken túlmutató kötelezettségeket vállaljanak és teljesítsenek. Az ellenőrzés során először is tudni kell igazolni ezt a kitételt. Ennek egy lehetséges módja lehet, hogy az intézkedés meghatározásakor a vonatkozó rendelet előírásaiból készítenek egy feljegyzést, majd meghatározzák, hogy mi az a többletfeladat, amit ezen felül fognak teljesíteni.
 
-## Az agrár-környezetvédelmi programban való részvétel egy intézkedésnek elfogadható, a fentebb említett feltételek teljesítése esetén. Annak igazolására, hogy tagjaik részt vesznek a programban, az MVH által küldött elfogadó határozat használható bizonyítékként, valamint az évente beadott támogatásigénylő nyomtatvány másolata szükséges annak igazolására, hogy szántóföldi zöldségtermesztés esetén, az adott gazdasági évben a tag milyen kultúrát választott és az hogyan illeszkedik a termelői szervezet értékesítési rendszerébe.
+## Az agrár-környezetvédelmi programban való részvétel egy intézkedésnek elfogadható, a fentebb említett feltételek teljesítése esetén. Annak igazolására, hogy tagjaik részt vesznek a programban, a Kincstár által küldött elfogadó határozat használható bizonyítékként, valamint az évente beadott támogatásigénylő nyomtatvány másolata szükséges annak igazolására, hogy szántóföldi zöldségtermesztés esetén, az adott gazdasági évben a tag milyen kultúrát választott és az hogyan illeszkedik a termelői szervezet értékesítési rendszerébe.
 
 ## A külső szolgáltatásokról a megrendelést igazoló dokumentációt, az eredményeket, a kifizetést igazoló dokumentumokat kell bizonyítékként felmutatni. Amennyiben a termelő szervezet saját maga kívánja ezeket a szolgáltatásokat végezni, az ehhez szükséges tárgyi eszközök beszerzését igazoló számlák, bizonylatok, számviteli bizonylatok szolgálnak bizonyítékul.
 
@@ -572,6 +572,6 @@
 
 ## Bár a válság-megelőzési és kezelési tevékenységek elsősorban az időszakosan kialakuló, rövid időtartamú piaci krízisek megelőzését és kezelését szolgálják, azonnali kontroll hiányában hatásuk csak középtávon értékelhető.
 
-6. melléklet a 150/2012. (XII. 28.) VM rendelethez[^70]
+6. melléklet a 150/2012. (XII. 28.) VM rendelethez[^79]
 
-[^70]: A 24. § (6) bekezdése a 65/2013. (VII. 29.) VM rendelet 26. §-ával megállapított szöveg.
+[^79]: A 24. § (6) bekezdése a 65/2013. (VII. 29.) VM rendelet 26. §-ával megállapított szöveg.

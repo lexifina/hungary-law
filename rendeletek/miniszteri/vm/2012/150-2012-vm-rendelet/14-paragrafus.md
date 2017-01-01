@@ -12,8 +12,9 @@
 
 (6) A működési alaphoz tartozó gazdasági eseményeket úgy kell könyvelni, hogy egyértelműen megállapítható legyen, hogy azok a működési alap, és a működési program mely intézkedéséhez kapcsolódnak. A működési alapot külső könyvvizsgáló évente megvizsgálja, ellenőrzi és hitelesíti annak kiadásait és bevételeit.
 
-(7) A működési alap támogatásáról a működési programban foglalt intézkedések végrehajtását követően, a bizottsági rendelet 69. cikke alapján benyújtott támogatási kérelem alapján az MVH dönt.
+(7)[^26] A működési alap támogatásáról a működési programban foglalt intézkedések végrehajtását követően, a bizottsági rendelet 69. cikke alapján benyújtott támogatási kérelem alapján a Kincstár dönt.
 
 [^23]: A 14. § (1) bekezdése a 41/2015. (VII. 20.) FM rendelet 13. §-ával megállapított szöveg.
 [^24]: A 14. § (2) bekezdése a 22/2014. (III. 14.) VM rendelet 90. § b) pontja szerint módosított szöveg.
 [^25]: A 14. § (4) bekezdése a 8/2016. (II. 11.) FM rendelet 13. §-ával megállapított szöveg.
+[^26]: A 14. § (7) bekezdése a 88/2016. (XII. 29.) FM rendelet 58. § d) pontja szerint módosított szöveg.
