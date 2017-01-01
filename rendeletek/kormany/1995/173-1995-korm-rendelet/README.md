@@ -17,3 +17,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1995-173-20-
 | 2015-04-01 | 1995-173-20-22.39 | 387/2007. (XII. 23.) Korm. rendelet |
 | 2016-01-01 | 1995-173-20-22.40 | 357/2015. (XII. 2.) Korm. rendelet |
 | 2016-07-21 | 1995-173-20-22.41 | 200/2016. (VII. 20.) Korm. rendelet |
+| 2017-01-01 | 1995-173-20-22.42 | 416/2016. (XII. 14.) Korm. rendelet |
