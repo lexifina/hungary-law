@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2001-27-20-1
 | --- | --- | --- |
 | 2009-03-01 | 2001-27-20-15.5 | 27/2001. (XI. 23.) HM rendelet |
 | 2010-03-17 | 2001-27-20-15.6 | 5/2010. (III. 9.) HM rendelet |
+| 2017-01-01 | 2001-27-20-15.7 | 22/2008. (IX. 23.) HM rendelet |
