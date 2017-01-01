@@ -11,3 +11,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-209-20-
 | 2011-01-01 | 2006-209-20-22.6 | 365/2007. (XII. 23.) Korm. rendelet |
 | 2012-01-01 | 2006-209-20-22.7 | 333/2011. (XII. 29.) Korm. rendelet |
 | 2015-04-01 | 2006-209-20-22.8 | 351/2010. (XII. 30.) Korm. rendelet |
+| 2017-01-01 | 2006-209-20-22.9 | 379/2016. (XII. 2.) Korm. rendelet |
