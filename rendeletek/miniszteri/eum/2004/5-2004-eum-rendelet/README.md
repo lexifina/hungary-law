@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2004-5-20-0B
 | 2014-07-01 | 2004-5-20-0B.12 | 41/2014. (VI. 30.) EMMI rendelet |
 | 2015-02-01 | 2004-5-20-0B.13 | 27/2005. (VII. 18.) EüM rendelet |
 | 2015-10-20 | 2004-5-20-0B.14 | 47/2015. (X. 19.) EMMI rendelet |
+| 2017-01-01 | 2004-5-20-0B.15 | 54/2016. (XII. 30.) EMMI rendelet |
