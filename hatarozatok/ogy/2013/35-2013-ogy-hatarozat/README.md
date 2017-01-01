@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-35-30-4
 | --- | --- | --- |
 | 2013-05-21 | 2013-35-30-41.1 | 35/2013. (V. 16.) OGY határozat |
 | 2013-05-22 | 2013-35-30-41.2 | 2010: CXXX. törvény |
+| 2017-01-01 | 2013-35-30-41.3 | 35/2016. (XII. 19.) OGY határozat |
