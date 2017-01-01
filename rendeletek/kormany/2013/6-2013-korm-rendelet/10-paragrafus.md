@@ -6,23 +6,23 @@
 
 10. § (1) A vámhatóság a nem megfelelő vagy okmányhiányos importtermék esetén, telefaxon vagy elektronikus levélben haladéktalanul értesíti a feladat- és hatáskörrel rendelkező piacfelügyeleti hatóságot, így különösen:
 
-a)[^3] biocid hatóanyagok és termékek, biociddal kezelt termékek, kozmetikai termékek, valamint a vegyi anyagok, készítmények, keverékek, egyes korlátozással érintett termékek esetében az OTH-t, valamint a fővárosi és megyei kormányhivatal népegészségügyi feladatkörben eljáró járási (fővárosi kerületi) hivatalát,
+a)[^4] biocid hatóanyagok és termékek, biociddal kezelt termékek, kozmetikai termékek, valamint a vegyi anyagok, készítmények, keverékek, egyes korlátozással érintett termékek esetében az OTH-t, valamint a fővárosi és megyei kormányhivatal népegészségügyi feladatkörben eljáró járási (fővárosi kerületi) hivatalát,
 
-b)[^4] orvostechnikai eszközök esetében az ENKK-t,
+b)[^5]
 
-c)[^5]
+c)[^6]
 
-d)[^6] gyógyszer és gyógyszernek nem minősülő gyógyhatású készítmény esetében az OGYÉI-t,
+d)[^7] gyógyszer, gyógyszernek nem minősülő gyógyhatású készítmény és orvostechnikai eszközök esetében az OGYÉI-t,
 
 e) bányászati alkalmazásra szánt gépek, berendezések, külfejtésben alkalmazott rakodógépek bányamentő és egyéni önmentő készülékek, oxigénpalackok és a bányákba szánt robbanásbiztos berendezések esetében az MBFH-t,
 
-f)[^7] gazdasági célfelhasználású gépek és villamossági termékek, egyes nyomástartó edények és rendszerek, egyes szállítható nyomástartó edények, bányáktól eltérő környezetbe szánt robbanásbiztos berendezések, gázfogyasztó készülékek, egyes kötelező hitelesítésű mérőeszközök, egyes környezetbarát tervezéssel és energiafogyasztási címkézéssel kapcsolatos termékek, továbbá a mozgólépcsők, mozgójárdák és felvonók esetében az MKEH-t,
+f)[^8] gazdasági célfelhasználású gépek és villamossági termékek, egyes nyomástartó edények és rendszerek, egyes szállítható nyomástartó edények, bányáktól eltérő környezetbe szánt robbanásbiztos berendezések, gázfogyasztó készülékek, egyes kötelező hitelesítésű mérőeszközök, egyes környezetbarát tervezéssel és energiafogyasztási címkézéssel kapcsolatos termékek, továbbá a mozgólépcsők, mozgójárdák és felvonók esetében a Kormányhivatalt,
 
-g) fogyasztói forgalomba szánt villamossági termékek, gépek és egyéni védőeszközök, ruházati termékek, lábbelik, játszótéri eszközök, öngyújtók, gyermekjátékok, bútorok, mosó- és tisztítószerek, építési termékek, festékek és lakkok, valamint minden egyéb a fogyasztói forgalomba szánt termék esetében az NFH-t,
+g)[^9] fogyasztói forgalomba szánt villamossági termékek, gépek és egyéni védőeszközök, ruházati termékek, lábbelik, játszótéri eszközök, öngyújtók, gyermekjátékok, bútorok, mosó- és tisztítószerek, építési termékek, festékek és lakkok, valamint minden egyéb a fogyasztói forgalomba szánt termék esetében a fogyasztóvédelemért felelős minisztert,
 
-h) járművek, járműtartozékok és alkatrészek esetében az NKH-t,
+h)[^10] járművek, járműtartozékok és alkatrészek esetében a közlekedésért felelős minisztert, valamint Budapest Főváros Kormányhivatalát,
 
-i)[^8] gazdasági célfelhasználású egyéni védőeszközök esetében a foglalkoztatáspolitikáért felelős minisztert,
+i)[^11] gazdasági célfelhasználású egyéni védőeszközök esetében a foglalkoztatáspolitikáért felelős minisztert,
 
 j) rádióberendezések, elektronikus hírközlő végberendezések, továbbá olyan berendezések esetében, amelyek elektromágneses zavart okoznak, az NMHH-t,
 
@@ -34,9 +34,11 @@ l) pirotechnikai termékek esetében a Rendőrséget.
 
 (3) Az importtermékek piacfelügyeleti ellenőrzésével kapcsolatos vizsgálatok költségei, valamint a felmerülő tárolási és megsemmisítési költségek a vámkezelést kérőt terhelik.
 
-[^3]: A 10. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 218. § (2) bekezdése szerint módosított szöveg.
-[^4]: A 10. § (1) bekezdés b) pontja a 30/2015. (II. 25.) Korm. rendelet 76. § a) pontja szerint módosított szöveg.
-[^5]: A 10. § (1) bekezdés c) pontját a 146/2014. (V. 5.) Korm. rendelet 37. § b) pontja hatályon kívül helyezte.
-[^6]: A 10. § (1) bekezdés d) pontja a 30/2015. (II. 25.) Korm. rendelet 76. § b) pontja szerint módosított szöveg.
-[^7]: A 10. § (1) bekezdés f) pontja a 146/2014. (V. 5.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^8]: A 10. § (1) bekezdés i) pontja a 318/2014. (XII. 13.) Korm. rendelet 21. § (2) bekezdése szerint módosított szöveg.
+[^4]: A 10. § (1) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 218. § (2) bekezdése szerint módosított szöveg.
+[^5]: A 10. § (1) bekezdés b) pontját a 379/2016. (XII. 2.) Korm. rendelet 221. § (4) bekezdése hatályon kívül helyezte.
+[^6]: A 10. § (1) bekezdés c) pontját a 146/2014. (V. 5.) Korm. rendelet 37. § b) pontja hatályon kívül helyezte.
+[^7]: A 10. § (1) bekezdés d) pontja a 379/2016. (XII. 2.) Korm. rendelet 221. § (2) bekezdésével megállapított szöveg.
+[^8]: A 10. § (1) bekezdés f) pontja a 146/2014. (V. 5.) Korm. rendelet 36. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés d) pontja szerint módosított szöveg.
+[^9]: A 10. § (1) bekezdés g) pontja a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^10]: A 10. § (1) bekezdés h) pontja a 379/2016. (XII. 2.) Korm. rendelet 221. § (3) bekezdés f) pontja szerint módosított szöveg.
+[^11]: A 10. § (1) bekezdés i) pontja a 318/2014. (XII. 13.) Korm. rendelet 21. § (2) bekezdése szerint módosított szöveg.
