@@ -4,4 +4,4 @@
 
 [^10]: A 7. §-t a 376/2016. (XI. 29.) Korm. rendelet 2. §-a iktatta be.
 [^11]: A hatálybalépés időpontja 2016. november 30.
-[^12]: Az 1. melléklet a 115/2015. (IV. 30.) Korm. rendelet 4. §-ával megállapított, a 376/2016. (XI. 29.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^12]: Az 1. melléklet a 380/2016. (XII. 2.) Korm. rendelet 59. § (1) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
