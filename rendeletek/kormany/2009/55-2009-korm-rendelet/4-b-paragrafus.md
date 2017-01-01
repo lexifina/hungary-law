@@ -24,15 +24,15 @@ g) a piac nyitva tartási idejét.
 
 (5)[^43] A jegyző a bejelentés másolatát a nyilvántartásba vételt követően a nyilvántartási számmal együtt megküldi:
 
-a) a népegészségügyi, élelmiszerlánc-biztonsági és állategészségügyi, növény- és talajvédelmi, valamint fogyasztóvédelmi feladatkörben eljáró fővárosi és megyei kormányhivatalnak,
+a)[^44] a fővárosi és megyei kormányhivatal népegészségügyi, élelmiszerlánc-biztonsági és állategészségügyi, növény- és talajvédelmi, valamint fogyasztóvédelmi feladatkörében eljáró járási (fővárosi kerületi) hivatalának,
 
-b) a Magyar Kereskedelmi Engedélyezési Hivatalnak,
+b)[^45] a kereskedelmi feladatkörében eljáró Budapest Főváros Kormányhivatalának,
 
 c) az illetékes rendőrkapitányságnak és
 
 d) a Nemzeti Adó- és Vámhivatalnak.
 
-(6)[^44] A helyi termelői piac fenntartója a (2) bekezdésben meghatározott adatokban bekövetkezett változásokat haladéktalanul köteles bejelenteni a jegyzőnek. A jegyző a változást a nyilvántartásba bejegyzi.
+(6)[^46] A helyi termelői piac fenntartója a (2) bekezdésben meghatározott adatokban bekövetkezett változásokat haladéktalanul köteles bejelenteni a jegyzőnek. A jegyző a változást a nyilvántartásba bejegyzi.
 
 [^38]: A 4/B. §-t a 260/2011. (XII. 7.) Korm. rendelet 4. §-a iktatta be.
 [^39]: A 4/B. § (1) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 5. § (3) bekezdésével megállapított, a 255/2013. (VII. 5.) Korm. rendelet 27. § (3) bekezdése szerint módosított szöveg.
@@ -40,4 +40,6 @@ d) a Nemzeti Adó- és Vámhivatalnak.
 [^41]: A 4/B. § (3a) bekezdését a 203/2013. (VI. 14.) Korm. rendelet 14. § (3) bekezdése iktatta be.
 [^42]: A 4/B. § (4) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (1) bekezdés g) pont gb) alpontja szerint módosított szöveg.
 [^43]: A 4/B. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 131. § (5) bekezdésével megállapított szöveg.
-[^44]: A 4/B. § (6) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^44]: A 4/B. § (5) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 130. § (1) bekezdésével megállapított szöveg.
+[^45]: A 4/B. § (5) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 130. § (1) bekezdésével megállapított szöveg.
+[^46]: A 4/B. § (6) bekezdése a 414/2012. (XII. 29.) Korm. rendelet 15. § (2) bekezdés b) pontja szerint módosított szöveg.
