@@ -6,4 +6,4 @@
 
 (4) Az úszólétesítmény vezetője az (1) bekezdés szerinti jegyzőkönyvet és hagyatéki tárgyakról készített leltárjegyzéket, továbbá a tengeri nagyhajón a közreműködésével készített vagy részére átadott végrendeletet köteles a hajó útjába eső első, arra alkalmas kikötőben a magyar külképviselet konzuli tisztviselőjéhez eljuttatni.
 
-(5) Az anyakönyvi események anyakönyvezésére a hazai anyakönyvezést végző hatóság rendelkezik hatáskörrel.
+(5) Az anyakönyvi események anyakönyvezésére a hazai anyakönyvezésre kijelölt anyakönyvi szerv rendelkezik hatáskörrel.
