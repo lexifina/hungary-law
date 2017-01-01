@@ -32,7 +32,7 @@ b) a tárgyévet megelőző évi egységes kérelemben az ügyfél bejelentett t
 
 13. Központi Elektronikus Szolgáltató Rendszer: az elektronikus közszolgáltatások nyújtását, illetve igénybevételét támogató központi informatikai és kommunikációs rendszer;
 
-14. KR dokumentum: az ügyfél által ügyfélkapun benyújtott vagy az ügyfél részére ügyfélkapun keresztül továbbított dokumentum tartalmát, valamint az elektronikus benyújtás vagy továbbítás adatait tartalmazó elektronikus dokumentum, amelyet a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) az ügyfél ügyfélkapuján található értesítési tárhelyre a Központi Elektronikus Szolgáltató Rendszeren (a továbbiakban: KR) keresztül megküld;
+14.[^1] KR dokumentum: az ügyfél által ügyfélkapun benyújtott vagy az ügyfél részére ügyfélkapun keresztül továbbított dokumentum tartalmát, valamint az elektronikus benyújtás vagy továbbítás adatait tartalmazó elektronikus dokumentum, amelyet a Magyar Államkincstár (a továbbiakban: Kincstár) az ügyfél ügyfélkapuján található értesítési tárhelyre a Központi Elektronikus Szolgáltató Rendszeren (a továbbiakban: KR) keresztül megküld;
 
 15. mezőgazdasági parcella: az 1306/2013/EU európai parlamenti és tanácsi rendelet 67. cikk (4) bekezdés a) pontja szerinti földterület, figyelemmel az adott támogatási jogcím sajátosságaira;
 
@@ -85,3 +85,5 @@ f) MePAR-ban lehatárolt ökológiai jelentőségű terület mérete;
 27. vélelmezett örökös: a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény (a továbbiakban: eljárási törvény) 45. § (9) bekezdésében meghatározott azon személy, aki az e rendelet szerinti eljárást megindítja, és a hagyatéki eljárás jogerőslezárásáig eljárási cselekményeket végez;
 
 28. termőképes terület: azon mezőgazdasági parcella, ahol a növényegyedek legalább 50%-a terméshozásra képes.
+
+[^1]: Az 1. § 14. pontja a 88/2016. (XII. 29.) FM rendelet 109. § a) pontja szerint módosított szöveg.
