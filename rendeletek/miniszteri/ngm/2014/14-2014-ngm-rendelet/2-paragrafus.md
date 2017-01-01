@@ -2,7 +2,7 @@
 
 ## 2. A felnőttképzési szakértői és a felnőttképzési programszakértői tevékenység folytatásának feltételei
 
-2. § (1)[^1] Felnőttképzési szakértői vagy felnőttképzési programszakértői tevékenység folytatására – a felnőttképzésről szóló 2013. évi LXXVII. törvényben (a továbbiakban: Fktv.) meghatározott feltételeken túl – az jogosult, aki rendelkezik a bejelentésében, aki rendelkezik a kérelmében szereplő szakterülethez
+2. § (1)[^1] Felnőttképzési szakértői vagy felnőttképzési programszakértői tevékenység folytatására – a felnőttképzésről szóló 2013. évi LXXVII. törvényben (a továbbiakban: Fktv.) meghatározott feltételeken túl – az jogosult, aki rendelkezik a bejelentésében szereplő szakterülethez
 
 a) felnőttképzési szakértői tevékenység esetén a (2) vagy (3) bekezdésben,
 
@@ -58,7 +58,7 @@ c) felnőttképzési programkészítési, oktatási, gyakorlatvezetési, oktatá
 
 (6) A (4) bekezdés a) pontjának alkalmazásában felnőttképzési oktatási gyakorlatnak minősül a köznevelési, felsőoktatási vagy felnőttképzési területen munkaviszony, vagy közalkalmazotti jogviszony keretében folytatott oktatási tevékenység, vagy a felsorolt területeken munkavégzésre irányuló egyéb jogviszony keretében két éven belül legalább kétszáz igazolt órában folytatott oktatási tevékenység.
 
-[^1]: A 2. § (1) bekezdés nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 15. § a)–b) pontja szerint módosított szöveg.
+[^1]: A 2. § (1) bekezdés nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 15. § a)–b) pontja, a 62/2016. (XII. 29.) NGM rendelet 67. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^2]: A 2. § (2) bekezdés b) pont ba) alpontja a 42/2015. (XII. 30.) NGM rendelet 15. § c) pontja szerint módosított szöveg.
 [^3]: A 2. § (3) bekezdés a) pont aa) alpontja a 42/2015. (XII. 30.) NGM rendelet 15. § c) pontja szerint módosított szöveg.
 [^4]: A 2. § (3) bekezdés a) pont ab) alpontja a 42/2015. (XII. 30.) NGM rendelet 15. § c) pontja szerint módosított szöveg.

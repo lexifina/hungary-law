@@ -1,6 +1,6 @@
 ## 3. [^11] A bejelentéssel összefüggő eljárás
 
-5. § (1)[^12] A felnőttképzési szakértői tevékenység folytatására irányuló bejelentést az NSZFH-hoz, a felnőttképzési programszakértői tevékenység folytatására irányuló bejelentést a Magyar Kereskedelmi és Iparkamarához (a továbbiakban: Kamara) kell benyújtani (a továbbiakban együtt: hatóság).
+5. § (1)[^12] A felnőttképzési szakértői tevékenység folytatására irányuló bejelentést a Pest Megyei Kormányhivatalhoz (a továbbiakban: kormányhivatal), a felnőttképzési programszakértői tevékenység folytatására irányuló bejelentést a Magyar Kereskedelmi és Iparkamarához (a továbbiakban: Kamara) kell benyújtani (a továbbiakban együtt: hatóság).
 
 (2)[^13] Az (1) bekezdés szerinti bejelentés tartalmazza
 
@@ -49,7 +49,7 @@ d)[^17] az illetékekről szóló törvény szerinti általános tételű eljár
 (6)[^20] Az (1) bekezdés szerinti bejelentés több – az 1. § (1)–(3) bekezdése szerinti – szakterületre és rész-szakterületre is benyújtható.
 
 [^11]: A 3. alcím címe a 42/2015. (XII. 30.) NGM rendelet 11. §-ával megállapított szöveg.
-[^12]: Az 5. § (1) bekezdése a 42/2015. (XII. 30.) NGM rendelet 12. §-ával megállapított szöveg.
+[^12]: Az 5. § (1) bekezdése a 42/2015. (XII. 30.) NGM rendelet 12. §-ával megállapított, a 62/2016. (XII. 29.) NGM rendelet 67. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^13]: Az 5. § (2) bekezdés nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 15. § d) pontja szerint módosított szöveg.
 [^14]: Az 5. § (2) bekezdés a) pont nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 15. § e) pontjával megállapított szöveg.
 [^15]: Az 5. § (3) bekezdés nyitó szövegrésze a 42/2015. (XII. 30.) NGM rendelet 15. § f) pontja szerint módosított szöveg.
