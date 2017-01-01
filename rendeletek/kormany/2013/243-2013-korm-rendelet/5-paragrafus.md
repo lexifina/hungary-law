@@ -14,4 +14,6 @@ d) az arra vonatkozó rendelkezést, hogy mely terményt szállíthatja, valamin
 
 e) a termék betakarításának legfeljebb 30 napos időtartamának kezdő- és végnapját.
 
-(3) A Közlekedésfejlesztési Koordinációs Központ a honlapján történő közzététel útján a jegyző rendelkezésére bocsátja a települési önkormányzatok e rendelet hatálya alá tartozó útdíjköteles útszakaszokra vonatkozó hatályos jegyzékét.
+(3)[^2] A közlekedésért felelős miniszter a honlapján történő közzététel útján a jegyző rendelkezésére bocsátja a települési önkormányzatok e rendelet hatálya alá tartozó útdíjköteles útszakaszokra vonatkozó hatályos jegyzékét.
+
+[^2]: Az 5. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 235. §-a szerint módosított szöveg.
