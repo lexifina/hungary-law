@@ -40,12 +40,12 @@ j)[^30] krízisközpont és titkos menedékház esetén a támogatás alapjául 
 
 (6) A pályázat benyújtásának határidejét a pályázati kiírásban úgy kell meghatározni, hogy a pályázat beadására a pályázat közzétételét követően legalább 30 nap álljon rendelkezésre.
 
-(7)[^31] A pályázati kiírást közzé kell tenni a minisztérium, valamint a Nemzeti Rehabilitációs és Szociális Hivatal (a továbbiakban: Hivatal) honlapján.
+(7)[^31] A pályázati kiírást közzé kell tenni a Szociális Ágazati Portálon és a minisztérium honlapján.
 
 [^25]: A 4. § (1) bekezdése a 174/2009. (VIII. 29.) Korm. rendelet 36. § (4) bekezdésének ca) alpontja szerint módosított szöveg. E módosító rendelet 35. § (4) bekezdése alapján a rendelkezést a 2009. szeptember 30-át követően indult vagy megismételt eljárásokban kell alkalmazni.
 [^26]: A 4. § (2) bekezdés b) pontja a 140/2011. (VII. 21.) Korm. rendelet 15. § a) pontja szerint módosított szöveg.
 [^27]: A 4. § (4) bekezdése a 140/2011. (VII. 21.) Korm. rendelet 14. § d) pontja szerint módosított szöveg.
 [^28]: A 4. § (5) bekezdés d) pontját a 419/2015. (XII. 23.) Korm. rendelet 24. § 5. pontja hatályon kívül helyezte, újonnan a 448/2016. (XII. 19.) Korm. rendelet 31. §-a iktatta be.
 [^29]: A 4. § (5) bekezdés e) pontja a 140/2011. (VII. 21.) Korm. rendelet 14. § c) pontja szerint módosított szöveg.
-[^30]: A 4. § (5) bekezdés j) pontját a 140/2011. (VII. 21.) Korm. rendelet 4. §-a iktatta be, szövege a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdés g) pontja szerint módosított szöveg.
-[^31]: A 4. § (7) bekezdése a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^30]: A 4. § (5) bekezdés j) pontját a 140/2011. (VII. 21.) Korm. rendelet 4. §-a iktatta be, szövege a 448/2016. (XII. 19.) Korm. rendelet 39. § (1) bekezdése g) pontja szerint módosított szöveg.
+[^31]: A 4. § (7) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés b) pontja szerint módosított szöveg.

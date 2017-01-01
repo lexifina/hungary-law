@@ -26,3 +26,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2008-191-20-
 | 2015-09-01 | 2008-191-20-22.24 | 221/2015. (VIII. 7.) Korm. rendelet |
 | 2016-01-01 | 2008-191-20-22.25 | 419/2015. (XII. 23.) Korm. rendelet |
 | 2016-12-22 | 2008-191-20-22.26 | 419/2015. (XII. 23.) Korm. rendelet |
+| 2017-01-01 | 2008-191-20-22.27 | 379/2016. (XII. 2.) Korm. rendelet |

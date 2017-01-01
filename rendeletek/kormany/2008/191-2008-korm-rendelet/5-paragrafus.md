@@ -1,4 +1,4 @@
-5. § (1)[^32] A pályázatot a szolgáltató fenntartója – a Hivatal elektronikus pályázatkezelő rendszere útján – nyújthatja be.
+5. § (1)[^32] A pályázatot a szolgáltató fenntartója – a Főigazgatóság elektronikus pályázatkezelő rendszere útján – nyújthatja be.
 
 (2)[^33] Pályázatot – a 8. § (4) bekezdése és a 9. § (3) bekezdése szerinti esetek kivételével – csak olyan szolgáltató támogatására lehet benyújtani, amely a pályázatban foglaltaknak megfelelően be van jegyezve a szociális, gyermekjóléti és gyermekvédelmi szolgáltatók, intézmények és hálózatok hatósági nyilvántartásába (a továbbiakban: szolgáltatói nyilvántartás), vagy amely esetében a megfelelő bejegyzés vagy adatmódosítás iránti kérelmet benyújtották.
 
@@ -32,13 +32,13 @@ h)[^41] a pályázónak a közpénzekből nyújtott támogatások átláthatós�
 
 i)[^42] Biztos Kezdet Gyerekház esetén a pályázó nyilatkozatát, hogy vállalja a központi dokumentációs rendszer használatát, és a statisztikai célú adatszolgáltatást a Központi Statisztikai Hivatal felé.
 
-(6)[^43] Hiányosan beadott pályázat esetén a Hivatal a pályázót egy alkalommal az elektronikus pályázatkezelő rendszere útján – a felhívásnak az elektronikus pályázatkezelő rendszerben a pályázó számára rendelkezésre álló értesítési tárhelyre érkezésétől (a továbbiakban: tárhelyre érkezés) számított 8 napos határidővel – hiánypótlásra hívja fel.
+(6)[^43] Hiányosan beadott pályázat esetén a Főigazgatóság a pályázót egy alkalommal az elektronikus pályázatkezelő rendszere útján – a felhívásnak az elektronikus pályázatkezelő rendszerben a pályázó számára rendelkezésre álló értesítési tárhelyre érkezésétől (a továbbiakban: tárhelyre érkezés) számított 8 napos határidővel – hiánypótlásra hívja fel.
 
 (7) A postai úton benyújtott jognyilatkozatokat és más dokumentumokat határidőben benyújtottnak kell tekinteni, ha a határidő lejártáig ajánlott küldeményként postára adták.
 
-(8)[^44] Ha a Hivatal felhívást, értesítést vagy más dokumentumot küld az elektronikus pályázatkezelő rendszerében a pályázó számára rendelkezésre álló értesítési tárhelyre, erről egyidejűleg elektronikus levélben értesíti a pályázót.
+(8)[^44] Ha a Főigazgatóság felhívást, értesítést vagy más dokumentumot küld az elektronikus pályázatkezelő rendszerében a pályázó számára rendelkezésre álló értesítési tárhelyre, erről egyidejűleg elektronikus levélben értesíti a pályázót.
 
-[^32]: Az 5. § (1) bekezdése a 279/2009. (XII. 9.) Korm. rendelet 22. § (1) bekezdésével megállapított, a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja, a 419/2015. (XII. 23.) Korm. rendelet 24. § 6. pontja szerint módosított szöveg.
+[^32]: Az 5. § (1) bekezdése a 279/2009. (XII. 9.) Korm. rendelet 22. § (1) bekezdésével megállapított, a 419/2015. (XII. 23.) Korm. rendelet 24. § 6. pontja, a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja szerint módosított szöveg.
 [^33]: Az 5. § (2) bekezdése a 369/2013. (X. 24.) Korm. rendelet 56. § (1) bekezdésével megállapított, a 419/2015. (XII. 23.) Korm. rendelet 24. § 7. pontja szerint módosított szöveg.
 [^34]: Az 5. § (3) bekezdése a 419/2051. (XII. 23.) Korm. rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^35]: Az 5. § (3a) bekezdését a 140/2011. (VII. 21.) Korm. rendelet 5. § (1) bekezdése iktatta be, szövege a 448/2016. (XII. 19.) Korm. rendelet 32. §-ával megállapított szöveg.
@@ -49,5 +49,5 @@ i)[^42] Biztos Kezdet Gyerekház esetén a pályázó nyilatkozatát, hogy váll
 [^40]: Az 5. § (5) bekezdés g) pontját a 140/2011. (VII. 21.) Korm. rendelet 5. § (2) bekezdése iktatta be, hatályon kívül helyezte a 419/2015. (XII. 23.) Korm. rendelet 24. § 8. pontja.
 [^41]: Az 5. § (5) bekezdés h) pontját a 140/2011. (VII. 21.) Korm. rendelet 5. § (2) bekezdése iktatta be.
 [^42]: Az 5. § (5) bekezdés i) pontját a 322/2013. (VIII. 28.) Korm. rendelet 3. §-a iktatta be, szövege a 419/2051. (XII. 23.) Korm. rendelet 19. § (3) bekezdésével megállapított szöveg.
-[^43]: Az 5. § (6) bekezdése a 279/2009. (XII. 9.) Korm. rendelet 22. § (2) bekezdésével megállapított, a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^44]: Az 5. § (8) bekezdését a 279/2009. (XII. 9.) Korm. rendelet 22. § (3) bekezdése iktatta be, szövege a 332/2010. (XII. 27.) Korm. rendelet 30. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^43]: Az 5. § (6) bekezdése a 279/2009. (XII. 9.) Korm. rendelet 22. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja szerint módosított szöveg.
+[^44]: Az 5. § (8) bekezdését a 279/2009. (XII. 9.) Korm. rendelet 22. § (3) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 117. § (3) bekezdés c) pontja szerint módosított szöveg.
