@@ -1,6 +1,6 @@
 21/B. §[^245] (1)[^246] A 21. § (3), (6)–(10) és (13) bekezdésében foglalt visszafizetési kötelezettséget a „10032000-01034080 Lakástámogatások visszafizetése bevételi számla” kincstári számlára kell teljesíteni.
 
-(2)[^247] Az (1) bekezdés szerinti visszafizetési kötelezettség teljesítését követően a kormányhivatal dönt
+(2)[^247] Az (1) bekezdés szerinti visszafizetési kötelezettség teljesítését követően a járási hivatal dönt
 
 a)[^248] – a 21. § (3) és (6) bekezdése esetén – a támogatás visszafizetését biztosító jelzálogjognak valamint elidegenítési és terhelési tilalomnak az ingatlan-nyilvántartásból történő törléséről,
 
@@ -16,5 +16,5 @@ b) azzal az összeggel, melyet az adós az elidegenítésből származó bevéte
 
 [^245]: A 21/B. §-t a 253/2012. (IX. 11.) Korm. rendelet 2. §-a iktatta be.
 [^246]: A 21/B. § (1) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 11. § h) pontja szerint módosított szöveg.
-[^247]: A 21/B. § (2) bekezdés nyitó szövegrésze a 379/2012. (XII. 19.) Korm. rendelet 12. § a) pontja, a 70/2015. (III. 30.) Korm. rendelet 48. § (9) bekezdés 41. pontja szerint módosított szöveg.
+[^247]: A 21/B. § (2) bekezdés nyitó szövegrésze a 379/2012. (XII. 19.) Korm. rendelet 12. § a) pontja, a 379/2016. (XII. 2.) Korm. rendelet 43. § (5) bekezdés 1. pontja szerint módosított szöveg.
 [^248]: A 21/B. § (2) bekezdés a) pontja a 379/2012. (XII. 19.) Korm. rendelet 11. § g) pontja szerint módosított szöveg.
