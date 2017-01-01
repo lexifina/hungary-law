@@ -12,7 +12,7 @@
 
 4. útügyi hatósági engedélyezési eljárások,
 
-5. az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó sajátos építményfajták építésügyi eljárásai,
+5.[^4] műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások,
 
 6. vízügyi és vízvédelmi hatósági engedélyezési eljárások,
 
@@ -31,3 +31,5 @@
 13. tűzvédelmi hatósági eljárások,
 
 14. közegészségügyi hatósági eljárások.
+
+[^4]: Az 1. melléklet 5. pontja a 380/2016. (XII. 2.) Korm. rendelet 98. §-ával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
