@@ -2,7 +2,7 @@
 
 a) szántó, kert, gyümölcsös, szőlő és gyep (rét, legelő) művelési ágú földterület van, és ott mezőgazdasági termelőtevékenységet folytat,
 
-b)[^1] erdő van, és ott erdőgazdálkodási tevékenységet folytat,
+b)[^2] erdő van, és ott erdőgazdálkodási tevékenységet folytat,
 
 c) vízjogi üzemeltetési engedély szerinti halastó van, és halgazdálkodási tevékenységet folytat.
 
@@ -10,4 +10,4 @@ c) vízjogi üzemeltetési engedély szerinti halastó van, és halgazdálkodás
 
 (2) A családi gazdaság esetében a jövedékiadó-visszatérítés igénylésére a termőföldről szóló 1994. évi LV. törvény 3. §-ának i) pontja szerinti családi gazdálkodó jogosult.
 
-[^1]: Az 1. § (1) bekezdés b) pontja a 281/2012. (X. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
+[^2]: Az 1. § (1) bekezdés b) pontja a 281/2012. (X. 1.) Korm. rendelet 1. §-ával megállapított szöveg.
