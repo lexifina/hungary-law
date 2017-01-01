@@ -14,19 +14,15 @@ e) fogyatékos személyek nappali ellátása,
 
 f) hajléktalan személyek nappali ellátása,
 
-g) éjjeli menedékhely,
+g)[^7] éjjeli menedékhely és
 
-h) bölcsőde,
+h)[^8] bölcsődei ellátás
 
-i) hetes bölcsőde,
-
-j) családi napközi és
-
-k) családi gyermekfelügyelet
+i)–k)[^9]
 
 ## esetén naponta, az adott napot követő munkanap 24 óráig, azt követően kell teljesíteni, hogy a szolgáltatást az adott napon az igénybevevőnek nyújtották.
 
-(3)[^1] Az időszakos jelentési kötelezettséget
+(3)[^10] Az időszakos jelentési kötelezettséget
 
 a) pszichiátriai betegek nappali ellátása és szenvedélybetegek nappali ellátása esetén legalább havonta, az adott hónap minden – szakmai program szerinti – nyitvatartási napjára,
 
@@ -56,4 +52,7 @@ c) a helyes adatot és
 
 d) a hiba okát.
 
-[^1]: A 7. § (3) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 61. §-ával megállapított szöveg.
+[^7]: A 7. § (2) bekezdés g) pontja a 191/2016. (VII. 13.) korm. rendelet 24. §-ával megállapított szöveg.
+[^8]: A 7. § (2) bekezdés h) pontja a 191/2016. (VII. 13.) korm. rendelet 24. §-ával megállapított szöveg.
+[^9]: A 7. § (2) bekezdés i)–k) pontját a 191/2016. (VII. 13.) korm. rendelet 26. § a) pontja hatályon kívül helyezte.
+[^10]: A 7. § (3) bekezdése a 448/2016. (XII. 19.) Korm. rendelet 61. §-ával megállapítot szöveg.
