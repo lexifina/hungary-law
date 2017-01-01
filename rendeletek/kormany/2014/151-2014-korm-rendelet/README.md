@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-151-20-
 | 2014-09-13 | 2014-151-20-22.2 | 229/2014. (IX. 5.) Korm. rendelet |
 | 2015-02-12 | 2014-151-20-22.3 | 16/2015. (II. 11.) Korm. rendelet |
 | 2015-04-01 | 2014-151-20-22.4 | 72/2015. (III. 30.) Korm. rendelet |
+| 2017-01-01 | 2014-151-20-22.5 | 380/2016. (XII. 2.) Korm. rendelet |
