@@ -38,7 +38,7 @@ I. Központi finanszírozásúak
 
 | 1.10. Rendészeti szakközépiskolák | X |
 
-| 1.11. Bevándorlási és Állampolgársági Hivatal | X |
+| 1.11. Bevándorlási és Menekültügyi Hivatal | X |
 
 | 1.12. Köztársasági Elnöki Hivatal | X |
 
@@ -92,9 +92,9 @@ I. Központi finanszírozásúak
 
 | 10.2. A Nemzeti Adó- és Vámhivatal irányítását ellátó miniszter e feladatot ellátó minisztériumi munkaszervezeti egységei, veszélyhelyzetben és katasztrófaveszély esetén az irányításban közreműködő más minisztériumi szervezeti. | X |
 
-| 11. Nemzeti Közlekedési Hatóság /NKH VPN/ | X | 11.1. Nemzeti Közlekedési Hatóság |  |
+| 11. közlekedésért felelős miniszter által vezetett minisztérium /közlekedési VPN/ | X | 11.1. |  |
 
-| 11.2. Nemzeti Közlekedési Hatóság Központ, Útügyi, Vasúti és Hajózási Hivatal, Közúti Gépjármű-közlekedési Hivatal, Légügyi Hivatal | X |
+| 11.2. |  |
 
 | 11.3. A fővárosi és megyei kormányhivatalban működő közlekedési igazgatási szervezeti egységek. | X |
 
@@ -121,4 +121,4 @@ II. Egyedi finanszírozásúak
 [^122]: A 2. melléklet c) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § a) pontja szerint módosított szöveg.
 [^123]: A 2. melléklet d) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § b) pontja szerint módosított szöveg.
 [^124]: A 2. melléklet e) pontja a 221/2014. (IX. 4.) Korm. rendelet 531. § c) pontja szerint módosított szöveg.
-[^125]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^125]: A 3. melléklet a 188/2016. (VII. 13.) Korm. rendelet 14. §-ával megállapított, a 227/2016. (VII. 29.) Korm. rendelet 3. §-a, a 379/2016. (XII. 2.) Korm. rendelet 166. § (1) bekezdés a) és c) pontja, (2) bekezdés a)–b) pontja szerint módosított szöveg.
