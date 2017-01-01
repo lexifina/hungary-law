@@ -6,6 +6,7 @@
 
 (3) A támogatás alapját képező tejmennyiség alapján kiszámított támogatási összeg a termelői csoportokról szóló 81/2004. (V. 4.) FVM rendelet és a termelői csoportok elismeréséről szóló 42/2015. (VII. 22.) FM rendelet alapján elismert termelői csoport tagjai közé tartozó tejtermelők esetén 1,3-es szorzó alkalmazásával kerül megállapításra.
 
-(4) A termelői csoportban fennálló tagságot a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) a Földművelésügyi Minisztérium által megadott adatok alapján ellenőrzi.
+(4)[^4] A termelői csoportban fennálló tagságot a Magyar Államkincstár (a továbbiakban: Kincstár) a Földművelésügyi Minisztérium által megadott adatok alapján ellenőrzi.
 
 [^3]: A 2. § (1a) bekezdését a 25/2016. (IV. 11.) FM rendelet 77. §-a iktatta be.
+[^4]: A 2. § (4) bekezdése a 88/2016. (XII. 29.) FM rendelet 106. § a) pontja szerint módosított szöveg.
