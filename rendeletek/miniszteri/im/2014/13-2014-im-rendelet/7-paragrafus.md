@@ -6,7 +6,7 @@ a) az elrendelő bíróságot,
 
 b) a beteg lakóhelye (tartózkodási helye) szerint illetékes rendőrkapitányságot,
 
-c) a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatalát (a továbbiakban: KEKKH),
+c)[^1] a bűnügyi nyilvántartó szervet (a továbbiakban: KEKKH),
 
 d) pártfogó felügyelet alatt álló beteg esetén a pártfogó felügyelőt, illetve a büntetés-végrehajtási pártfogó felügyelőt,
 
@@ -17,3 +17,5 @@ e) fiatalkorú esetén a fiatalkorú lakóhelye szerint illetékes gyámhatósá
 (3) Ha a beteg nem magyar állampolgár, akkor befogadásáról késedelem nélkül értesíteni kell az állampolgársága szerint illetékes külképviseletet. Az értesítés csak akkor mellőzhető, ha a beteg írásbeli nyilatkozatában ezt kifejezetten kéri. Ha a külföldi beteg többes állampolgár, az általa megjelölt külképviseletet kell értesíteni.
 
 (4) A Magyar Honvédség hivatásos vagy szerződéses állományú, valamint a rendvédelmi szervek hivatásos állományú tagja szolgálati igazolványát a beteg befogadásától számított három munkanapon belül meg kell küldeni az azt kiállító szervnek.
+
+[^1]: A 7. § (1) bekezdés c) pontja a 28/2016. (XII. 27.) IM rendelet 11. §-a szerint módosított szöveg.

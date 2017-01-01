@@ -9,3 +9,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2014-13-20-0
 | 2015-01-01 | 2014-13-20-06.1 | 13/2014. (XII. 16.) IM rendelet |
 | 2015-01-02 | 2014-13-20-06.2 | 2010: CXXX. törvény |
 | 2015-11-01 | 2014-13-20-06.3 | 31/2015. (X. 30.) IM rendelet |
+| 2017-01-01 | 2014-13-20-06.4 | 28/2016. (XII. 27.) IM rendelet |
