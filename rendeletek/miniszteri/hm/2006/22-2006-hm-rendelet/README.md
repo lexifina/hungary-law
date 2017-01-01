@@ -15,3 +15,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-22-20-1
 | 2014-09-01 | 2006-22-20-15.12 | 11/2014. (VIII. 1.) HM rendelet |
 | 2015-12-22 | 2006-22-20-15.13 | 16/2015. (XII. 21.) HM rendelet |
 | 2016-01-01 | 2006-22-20-15.14 | 24/2013. (XII. 20.) HM rendelet |
+| 2017-01-01 | 2006-22-20-15.15 | 14/2018. (IX. 17.) HM rendelet |

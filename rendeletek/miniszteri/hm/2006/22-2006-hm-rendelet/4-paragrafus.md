@@ -1,8 +1,8 @@
-4. §[^8] (1) A szerződéses legénységi állományú katona választása szerint jogosult
+4. §[^9] (1) A szerződéses legénységi állományú katona választása szerint jogosult
 
 a) a szolgálatteljesítés napján a napi egyszeri térítésmentesen, természetben biztosított, az I. számú élelmezési norma részértékének megfelelő ebédre, vagy
 
-b) az étkezési utalvánnyal való ellátásról szóló HM rendeletben meghatározott étkezési hozzájárulásra.
+b)[^10] a pénzösszeg juttatás és a Széchenyi Pihenő Kártya juttatás biztosításáról szóló HM rendeletben meghatározott béren kívüli juttatásra.
 
 (2) Azoknál a honvédelmi szervezeteknél, ahol az üzemi étkeztetés feltételei nem biztosítottak, a szerződéses legénységi állományú katona részére az (1) bekezdés b) pontja szerinti ellátást kell biztosítani.
 
@@ -28,4 +28,5 @@ c) a várhatóan 30 napot meghaladó egészségügyi szabadság esetén
 
 (9) A nyilatkozat tartalmát érintő, a jogszabályi környezetben évközben bekövetkező változás esetén a honvédelmi szervezetek személyügyi szervei a szerződéses legénységi állományú katonát a változás hatálybalépésétől számított 30. napig ismételten nyilatkoztatják. A nyilatkozat alapján az új ellátási forma szerinti ellátásra az érintett a módosítást tartalmazó parancs, határozat kiadását követő hónap első napjától jogosult.
 
-[^8]: A 4. § a 11/2014. (VIII. 1.) HM rendelet 1. §-ával megállapított szöveg.
+[^9]: A 4. § a 11/2014. (VIII. 1.) HM rendelet 1. §-ával megállapított szöveg.
+[^10]: A 4. § (1) bekezdés b) pontja a 22/2016. (XII. 21.) HM rendelet 5. §-ával megállapított szöveg.
