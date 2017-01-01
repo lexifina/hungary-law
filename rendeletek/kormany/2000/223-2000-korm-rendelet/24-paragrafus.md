@@ -50,7 +50,7 @@ kell megképezni.
 
 Az elszámoló egységekre épülő nyilvántartási rendszert alkalmazó pénztár esetében a tárgynegyedév végéig, illetve a mérleg fordulónapjáig előírt, de a tárgynegyedév végéig, illetve a mérlegfordulónapig pénzügyileg nem rendezett tagdíjak ráfordításként elszámolt összegét kell a negyedéves jelentésben, illetve a mérlegben meg nem fizetett tagdíjak céltartalékaként kimutatni.
 
-(16)[^59] Az elszámoló egységekre épülő nyilvántartási rendszert alkalmazó pénztárnak az egyéni számlákról olyan analitikus nyilvántartást kell vezetni, amelyből egyértelműen megállapíthatók és nyomon követhetők az egyéni számlákon történt jóváírások és terhelések forintban és elszámoló egységben is.
+(16)[^59] Az elszámoló egységekre épülő nyilvántartási rendszert alkalmazó pénztárnak az egyéni és a szolgáltatási számlákról olyan analitikus nyilvántartást kell vezetni, amelyből egyértelműen megállapíthatók és nyomon követhetők az egyéni számlákon történt jóváírások és terhelések forintban és elszámoló egységben is, a szolgáltatási számlákon történt jóváírások és terhelések forintban.
 
 (17)[^60] Az elszámoló egységekre épülő nyilvántartási rendszert alkalmazó pénztárnak az egyéni számlákon elkülönítetten kell kimutatni:
 
@@ -64,5 +64,5 @@ c) az elszámoló egység záró darabszámát és az elszámoló egység záró
 [^56]: A 24. § (4) bekezdésének első mondata a 396/2007. (XII. 27.) Korm. rendelet 48. § (1) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
 [^57]: A 24. § (12) bekezdésének első mondata a 396/2007. (XII. 27.) Korm. rendelet 48. § (2) bekezdésével megállapított szöveg, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
 [^58]: A 24. § (15) bekezdésének harmadik mondatát a 396/2007. (XII. 27.) Korm. rendelet 48. § (3) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 77. § (1) és (3) bekezdését.
-[^59]: A 24. § (16) bekezdését a 396/2007. (XII. 27.) Korm. rendelet 48. § (4) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.
+[^59]: A 24. § (16) bekezdését a 396/2007. (XII. 27.) Korm. rendelet 48. § (4) bekezdése iktatta be, szövege a 480/2016. (XII. 28.) Korm. rendelet 29. §-ával megállapított szöveg.
 [^60]: A 24. § (17) bekezdését a 396/2007. (XII. 27.) Korm. rendelet 48. § (4) bekezdése iktatta be, alkalmazására lásd e módosító rendelet 77. § (1) bekezdését.

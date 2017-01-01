@@ -654,7 +654,7 @@
 
 ## Cash-flow kimutatás
 
-1.[^221] Működés és kiegészítő vállalkozási tevékenység tárgyévi eredménye (±)±
+1.[^228] Működés és kiegészítő vállalkozási tevékenység tárgyévi eredménye (±)±
 
 2. Immateriális javak nettó értékében bekövetkezett állományváltozás (±)
 
@@ -738,4 +738,4 @@
 
 40.2. Számlapénz (pénztári elszámolási számla, éven belüli lejáratú forint és deviza betétszámlák, egyéb elkülönített betétszámlák) állomány változása
 
-[^221]: Az 5. számú melléklet 1. pontja a 484/2015. (XII. 29.) Korm. rendelet 43. § (5) bekezdésével megállapított szöveg.
+[^228]: Az 5. számú melléklet 1. pontja a 484/2015. (XII. 29.) Korm. rendelet 43. § (5) bekezdésével megállapított szöveg.
