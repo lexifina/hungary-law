@@ -1,5 +1,5 @@
-2. § (1) Az Egészségbiztosítási Alap kezelését az egészségbiztosítási szerv, a Nyugdíjbiztosítási Alap kezelését a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv (a továbbiakban együtt: alap kezeléséért felelős társadalombiztosítási szerv) végzi.
+2. § (1) Az Egészségbiztosítási Alap kezelését az egészségbiztosításért felelős miniszter – mint fejezetet irányító szerv – az államháztartásról szóló 2011. évi CXCV. törvény 6/B. § (3) bekezdése alapján jogszabályban kijelölt kezelő szerv közreműködésével, a Nyugdíjbiztosítási Alap kezelését a központi nyugdíjbiztosítási szerv (a továbbiakban együtt: alap kezeléséért felelős társadalombiztosítási szerv) végzi.
 
-(2)
+(2) Az Egészségbiztosítási Alap kezelésével kapcsolatos költségek fedezetét az Egészségbiztosítási Alap költségvetésében kell meghatározni.
 
-(3) A Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv és az Egészségbiztosítási Alap kezeléséért felelős egészségbiztosítási szerv központi költségvetési szervek, amelyek költségvetését – a fővárosi és megyei kormányhivatalok kivételével – a társadalombiztosítás pénzügyi alapjainak költségvetésében kell meghatározni.
+(3) A központi nyugdíjbiztosítási szerv központi költségvetési szerv, amelynek költségvetését a Nyugdíjbiztosítási Alap költségvetésében kell meghatározni.
