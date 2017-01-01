@@ -118,6 +118,6 @@
 
 ## Cégszerű aláírás
 
-5. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^78]
+5. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^80]
 
-[^78]: Az 5. számú melléklet a 22/2015. (VIII. 28.) NGM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^80]: Az 5. számú melléklet a 22/2015. (VIII. 28.) NGM rendelet 7. § (3) bekezdésével megállapított szöveg.

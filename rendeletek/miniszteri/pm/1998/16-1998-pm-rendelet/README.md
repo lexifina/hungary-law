@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-16-20-5
 | 2014-05-01 | 1998-16-20-53.12 | 54/2012. (XII. 29.) NGM rendelet |
 | 2014-12-31 | 1998-16-20-53.13 | 48/2014. (XII. 30.) NGM rendelet |
 | 2015-08-31 | 1998-16-20-53.14 | 22/2015. (VIII. 28.) NGM rendelet |
+| 2017-01-01 | 1998-16-20-53.15 | 63/2016. (XII. 29.) NGM rendelet |

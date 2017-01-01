@@ -1,4 +1,4 @@
-11. melléklet a 16/1998. (V. 20.) PM rendelethez[^84]
+11. melléklet a 16/1998. (V. 20.) PM rendelethez[^86]
 
 1. táblázat
 
@@ -328,4 +328,4 @@ Készítette: ................................
 
 | ............................................................... Cégszerű aláírás | ............................................................................. Igazgatóság elnökének aláírása |
 
-[^84]: A 11. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés b) pontja, a 20/2014. (IV. 30.) NGM rendelet 1. § 13. pontja és 2. § 3. pontja, a 22/2015. (VIII. 28.) NGM rendelet 7. § (4) bekezdése szerint módosított szöveg.
+[^86]: A 11. mellékletet újonnan a 16/2012. (VI. 28.) NGM rendelet 11. §-a iktatta be, szövege az 54/2012. (XII. 29.) NGM rendelet 5. § (2) bekezdés b) pontja, a 20/2014. (IV. 30.) NGM rendelet 1. § 13. pontja és 2. § 3. pontja, a 22/2015. (VIII. 28.) NGM rendelet 7. § (4) bekezdése szerint módosított szöveg.

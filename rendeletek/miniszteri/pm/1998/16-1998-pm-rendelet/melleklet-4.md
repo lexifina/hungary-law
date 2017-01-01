@@ -16,19 +16,19 @@
 
 ## 1.5. A globállimit és a fennálló kötelezettségvállalás különbözete jelenti a mindenkori vállalási lehetőséget.
 
-## 2.1.[^74] A globállimit nyilvántartása és kihasználásának mérése forintban történik.
+## 2.1.[^76] A globállimit nyilvántartása és kihasználásának mérése forintban történik.
 
-## 2.2.[^75] Az éves költségvetésről szóló törvényben forintban meghatározott globállimitnek megfelelő devizaösszeget a Mehib évente két alkalommal, a Magyar Nemzeti Bank által az adott évben először és az adott évben utoljára közzétett hivatalos USD árfolyamon is megállapítja.
+## 2.2.[^77] Az éves költségvetésről szóló törvényben forintban meghatározott globállimitnek megfelelő devizaösszeget a Mehib évente két alkalommal, a Magyar Nemzeti Bank által az adott évben először és az adott évben utoljára közzétett hivatalos USD árfolyamon is megállapítja.
 
-## 2.3.[^76] A tárgyév első és utolsó munkanapján devizában fennálló kötelezettségek forintértékének megállapítása a 2.2. pont szerinti árfolyamokon történik.
+## 2.3.[^78] A tárgyév első és utolsó munkanapján devizában fennálló kötelezettségek forintértékének megállapítása a 2.2. pont szerinti árfolyamokon történik.
 
 ## 2.4. A vállalási lehetőség forintértékét a fennálló biztosítással csökkentett globállimit összege adja meg.
 
 ## 2.5. A nyilvántartási számlaosztály kezelésére ez a mérési módszer nem vonatkozik.
 
-4. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^77]
+4. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^79]
 
-[^74]: A 3. számú melléklet 2.1. pontja a 48/2014. (XII. 30.) NGM rendelet 5. §-ával megállapított szöveg.
-[^75]: A 3. számú melléklet 2.2. pontja a 48/2014. (XII. 30.) NGM rendelet 5. §-ával megállapított szöveg.
-[^76]: A 3. számú melléklet 2.3. pontja a 48/2014. (XII. 30.) NGM rendelet 5. §-ával megállapított szöveg.
-[^77]: A 4. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (2) bekezdésével megállapított, a 22/2015. (VIII. 28.) NGM rendelet 7. § (2) bekezdése szerint módosított szöveg.
+[^76]: A 3. számú melléklet 2.1. pontja a 48/2014. (XII. 30.) NGM rendelet 5. §-ával megállapított szöveg.
+[^77]: A 3. számú melléklet 2.2. pontja a 48/2014. (XII. 30.) NGM rendelet 5. §-ával megállapított szöveg.
+[^78]: A 3. számú melléklet 2.3. pontja a 48/2014. (XII. 30.) NGM rendelet 5. §-ával megállapított szöveg.
+[^79]: A 4. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (2) bekezdésével megállapított, a 22/2015. (VIII. 28.) NGM rendelet 7. § (2) bekezdése szerint módosított szöveg.

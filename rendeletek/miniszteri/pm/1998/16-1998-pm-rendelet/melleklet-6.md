@@ -26,6 +26,6 @@
 
 ## Cégszerű aláírás
 
-6. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^79]
+6. számú melléklet a 16/1998. (V. 20.) PM rendelethez[^81]
 
-[^79]: A 6. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (4) bekezdésével megállapított szöveg.
+[^81]: A 6. számú melléklet a 9/2010. (III. 23.) PM rendelet 10. § (4) bekezdésével megállapított szöveg.
