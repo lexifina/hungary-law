@@ -14,7 +14,7 @@ b) egy adott jogszabály vonatkozásában már kijelölt szervezet esetében 32 
 
 (3) Bármely egyéb nyilvántartott és közzétett adat módosítására irányuló kérelem esetén az igazgatási szolgáltatási díj mértéke 10 000 Ft.
 
-(4)[^7] Az igazgatási szolgáltatási díjat az eljárás megkezdése előtt kell megfizetni a Magyar Kereskedelmi Engedélyezési Hivatal Magyar Államkincstárnál vezetett 10032000-00282448-00000000 számú számlájára, a „megfelelőségértékelő szervezetek kijelölése” kifejezésnek a befizetési bizonylat közlemény rovatában való feltüntetésével.
+(4)[^7] Az igazgatási szolgáltatási díjat az eljárás megkezdése előtt kell megfizetni Budapest Főváros Kormányhivatala Magyar Államkincstárnál vezetett 10023002-00309653-00000000 számú számlájára, a „megfelelőségértékelő szervezetek kijelölése” kifejezésnek a befizetési bizonylat közlemény rovatában való feltüntetésével.
 
 (5) A befizetett igazgatási szolgáltatási díjat a megfelelőségértékelő szervezetek kijelölésével kapcsolatban felmerülő személyi és tárgyi költségekre lehet felhasználni.
 
@@ -24,8 +24,9 @@ a) a díjfizetési kötelezettségre az illetékekről szóló 1990. évi XCIII.
 
 b) a díjfizetésre kötelezettek körének megállapítására az Itv. 31. § (1) bekezdése első mondatában, valamint a 31. § (2), (4) és (5) bekezdésében,
 
-c) a jogorvoslati eljárás díjának visszatérítése tekintetében az Itv. 32. § (1) bekezdésében foglaltakat
+c)[^8]
 
 kell alkalmazni.
 
-[^7]: A 10. § (4) bekezdése a 10/2012. (V. 18.) NGM rendelet 6. § (2) bekezdésével megállapított szöveg.
+[^7]: A 10. § (4) bekezdése a 10/2012. (V. 18.) NGM rendelet 6. § (2) bekezdésével megállapított, a 62/2016. (XII. 29.) NGM rendelet 21. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^8]: A 10. § (6) bekezdés c) pontját a 62/2016. (XII. 29.) NGM rendelet 21. § (2) bekezdése hatályon kívül helyezte.

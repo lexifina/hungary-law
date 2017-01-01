@@ -226,7 +226,7 @@
 
 ## 3 Ennek kitöltése a kérelem papíralapú beküldése esetén szükséges.
 
-2. melléklet az 5/2010. (I. 14.) NFGM rendelethez[^10]
+2. melléklet az 5/2010. (I. 14.) NFGM rendelethez[^11]
 
 | A felelősségbiztosítási szerződésben biztosítandó fedezet legkisebb mértéke |
 
@@ -274,4 +274,4 @@
 
 | 21. | az egyes szállítható nyomástartó berendezések üzemeltetésével kapcsolatos műszaki biztonsági követelményekről és a Gázpalack Biztonsági Szabályzatról szóló jogszabály | 50 000 000 |
 
-[^10]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 9. §-ával megállapított szöveg.
+[^11]: A 2. melléklet a 7/2016. (II. 22.) NGM rendelet 9. §-ával megállapított szöveg.
