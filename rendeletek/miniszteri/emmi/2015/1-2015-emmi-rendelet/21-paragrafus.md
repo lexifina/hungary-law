@@ -2,7 +2,7 @@
 
 ## 11. Az együttes elhelyezés
 
-21. § (1)[^6] A fiatalkorú és gyermeke együttes elhelyezéséről a javítóintézet értesíti a fiatalkorú lakóhelye szerint illetékes gyámhivatalt, és kéri a gyámrendelés szükségességének vizsgálatát.
+21. § (1)[^7] A fiatalkorú és gyermeke együttes elhelyezéséről a javítóintézet értesíti a fiatalkorú lakóhelye szerint illetékes gyámhivatalt, és kéri a gyámrendelés szükségességének vizsgálatát.
 
 (2) Együttes elhelyezés esetén a javítóintézet biztosítja
 
@@ -28,4 +28,4 @@ bc) a gyermek ellátásához szükséges biztonságos, célszerű berendezési �
 
 (5) Együttes elhelyezés esetén a fiatalkorú gyermeke számára biztosítani kell a gyermek életkorának megfelelő ellátásához szükséges eszközöket, ruhaneműt, tisztálkodási és testápolási szereket, valamint textíliákat, továbbá gyermekenként három váltás ágyneműt.
 
-[^6]: A 21. § (1) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
+[^7]: A 21. § (1) bekezdése a 24/2015. (IV. 30.) EMMI rendelet 18. §-a szerint módosított szöveg.
