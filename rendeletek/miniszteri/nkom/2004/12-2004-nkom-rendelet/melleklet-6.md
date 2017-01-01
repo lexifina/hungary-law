@@ -40,7 +40,7 @@
 
 ## 2.5. DÁTUM, PECSÉTNYOMAT, A ZSŰRI NEVÉBEN ALÁÍRÁS
 
-6. számú melléklet a 12/2004. (V. 21.) NKÖM rendelethez[^21]
+6. számú melléklet a 12/2004. (V. 21.) NKÖM rendelethez[^23]
 
 A „Népi Iparművész” minősítéshez szükséges alkotások kategóriánkénti megoszlása
 
@@ -112,4 +112,4 @@ Minden műfajban az 5 db „HA”, „MA” kategóriát elért tárgy, valamint
 
 Az ajándéktárgy nem népi iparművész címre jogosító kategória, azonban 10 db ajándéktárgy zsűriszám kivált 1 db „MB” kategóriás zsűriszámot.
 
-[^21]: A 6. számú melléklet a 21/2013. (III. 19.) EMMI rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^23]: A 6. számú melléklet a 21/2013. (III. 19.) EMMI rendelet 4. § (2) bekezdésével megállapított szöveg.

@@ -84,6 +84,6 @@
 
 ## 2.16. Benyújtó aláírása
 
-5. számú melléklet a 12/2004. (V. 21.) NKÖM rendelethez[^20]
+5. számú melléklet a 12/2004. (V. 21.) NKÖM rendelethez[^22]
 
-[^20]: Az 5. számú melléklet a 35/2011. (VI. 27.) NEFMI rendelet 7. §-ával megállapított szöveg.
+[^22]: Az 5. számú melléklet a 35/2011. (VI. 27.) NEFMI rendelet 7. §-ával megállapított szöveg.
