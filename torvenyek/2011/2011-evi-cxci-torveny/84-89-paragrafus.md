@@ -1,3 +1,3 @@
-## 26. A munkaügyi ellenőrzésről szóló 1996. évi LXXV. törvény módosítása
+## 26.
 
 ### 84–89. §

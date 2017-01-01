@@ -1,4 +1,4 @@
-25. § (1) A rehabilitációs hatóság az akkreditált munkáltató részére a Kormány rendeletében meghatározottak szerint pályázati úton
+25. § (1) A szociál- és nyugdíjpolitikáért felelős miniszter az akkreditált munkáltató részére a Kormány rendeletében meghatározottak szerint pályázati úton
 
 a) támogatást nyújthat a munkahely rehabilitációs célú átalakításához,
 

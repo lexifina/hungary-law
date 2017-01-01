@@ -28,7 +28,7 @@ f) a nevelőszülői foglalkoztatási jogviszonyban álló személyt annál a mu
 
 (4a) Munkaerő-kölcsönzés esetén a (4) bekezdésben foglaltakat azzal az eltéréssel kell alkalmazni, hogy a kölcsönzött munkavállalót a kikölcsönzés tartama alatt a kölcsönvevőnél, – a kölcsönbeadónak a kölcsönvevő felé tett erre irányuló nyilatkozata esetén a kölcsönbeadónál – kell a rehabilitációs hozzájárulás alapjául szolgáló statisztikai létszám számítása során figyelembe venni.
 
-(5) A rehabilitációs hozzájárulás mértéke 964 500 Ft/fő/év.
+(5) A rehabilitációs hozzájárulás mértéke a tárgyév első napján a teljes munkaidőben foglalkoztatott munkavállaló részére megállapított alapbér kötelező legkisebb összegének kilencszerese/fő/év.
 
 (6) Az (1) bekezdéstől eltérően mentesül a rehabilitációs hozzájárulás fizetésének kötelezettsége alól különösen
 
