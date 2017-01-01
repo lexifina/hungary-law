@@ -36,7 +36,7 @@
 
 17. Szerelvények és tartozékok: mindazon kézi vagy segédenergiával működő szerkezetek, részegységek összessége, amelyek a tároló létesítmény biztonságos üzemeltetését hivatottak közvetlen vagy közvetett módon biztosítani.
 
-18. Tanúsító szervezet: a műszaki biztonsági hatóságok műszaki biztonsági tevékenységének és a Magyar Kereskedelmi Engedélyezési Hivatal piacfelügyeleti eljárásának részletes szabályairól szóló 321/2010. (XII. 27.) Korm. rendelet 4/A. §-a alapján a Magyar Kereskedelmi Engedélyezési Hivatal piacfelügyeleti és műszaki felügyeleti hatósága által kijelölt szervezet.
+18.[^1] Tanúsító szervezet: a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló 365/2016. (XI. 29.) Korm. rendelet 18. § (1) bekezdése alapján a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: Kormányhivatal) által kijelölt szervezet.
 
 19. Tárolótartály: nyomástartó edénynek nem minősülő, veszélyes töltet befogadására és tárolására tervezett és gyártott berendezés, konténerben elhelyezett tartály; beleértve a működéshez szükséges berendezések, szerelvények és tartozékaik, valamint csővezetékek összességét is.
 
@@ -48,7 +48,7 @@
 
 23. Töltő berendezés: a veszélyes töltetnek a tároló tartályból szállító tartályba, üzemanyag tartályba, szállító edénybe, stb. történő töltésére szolgáló, kézi-, mechanikus- vagy automatikus töltőeszközzel ellátott berendezés.
 
-24. Üzembe helyezés: a Magyar Kereskedelmi Engedélyezési Hivatalról és a területi mérésügyi és műszaki biztonsági hatóságokról szóló 320/2010. (XII. 27.) Korm. rendeletben meghatározott műszaki biztonsági hatóság (a továbbiakban: Hatóság) engedélye alapján a létesítmény használatba vétele, üzemeltetésének megkezdése.
+24.[^2] Üzembe helyezés: a műszaki biztonsági hatóság (a továbbiakban: Hatóság) engedélye alapján a létesítmény használatba vétele, üzemeltetésének megkezdése.
 
 25. Üzembevétel: javítást követően a Hatóság jóváhagyásával az érintett tároló-létesítmény vagy elem üzemeltetésének újraindítása.
 
@@ -63,3 +63,6 @@
 30. Veszélyes töltet: rendeltetésszerű használat során a tárolótartályban, tároló létesítményben lévő veszélyes folyadék vagy olvadék az együttesen kialakuló gáz és gőztérrel.
 
 31. Védőtávolság: a veszélyforrás és a védendő létesítmény legközelebbi pontja közötti távolság.
+
+[^1]: A 2. § 18. pontja a 62/2016. (XII. 29.) NGM rendelet 32. § (1) bekezdésével megállapított szöveg.
+[^2]: A 2. § 24. pontja a 62/2016. (XII. 29.) NGM rendelet 32. § (2) bekezdésével megállapított szöveg.

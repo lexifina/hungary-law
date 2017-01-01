@@ -2,7 +2,7 @@
 
 ## 13. Eljárás rendkívüli esemény alkalmával
 
-18. § (1) A tárolótartályokkal és tároló létesítményekkel kapcsolatos rendkívüli események kivizsgálása tekintetében a műszaki biztonsági hatóságok műszaki biztonsági tevékenységének és a Magyar Kereskedelmi Engedélyezési Hivatal piacfelügyeleti eljárásának részletes szabályairól szóló 321/2010. (XII. 27.) Korm. rendeletben foglaltakat az e rendeletben meghatározott kiegészítésekkel kell alkalmazni.
+18. § (1)[^3] A tárolótartályokkal és tároló létesítményekkel kapcsolatos rendkívüli események kivizsgálása tekintetében a Budapest Főváros Kormányhivatalának egyes ipari és kereskedelmi ügyekben eljáró hatóságként történő kijelöléséről, valamint a területi mérésügyi és műszaki biztonsági hatóságokról szóló kormányrendeletben foglaltakat az e rendeletben meghatározott kiegészítésekkel kell alkalmazni.
 
 (2) A tárolótartály, tároló-létesítmény üzemeltetése során az (1) bekezdés szerinti jogszabályban meghatározottakon kívül rendkívüli eseménynek kell tekinteni
 
@@ -33,3 +33,5 @@ b) a rendkívüli eseménnyel összefüggésben álló szabályszegéseket;
 ## egyidejűleg megszabhatja az ismételt üzembe helyezés iránti eljárás érdemi lefolytatásához szükséges feltételeket, és hatáskörében intézkedik hasonló esetek megelőzésére.
 
 (11) A rendkívüli esemény hatósági vizsgálatával kapcsolatban felmerülő eljárási költségek az üzemeltetőt terhelik. Az üzemeltető köteles gondoskodni a vizsgálattal kapcsolatban szükségessé váló szállítási, tárolási, őrzési feladatok teljesítéséről.
+
+[^3]: A 18. § (1) bekezdése a 62/2016. (XII. 29.) NGM rendelet 32. § (3) bekezdésével megállapított szöveg.

@@ -6,6 +6,9 @@
 
 (2) A Műszaki Biztonsági Szabályzat módosításának előzetes szakmai egyeztetését a Tárolótartály Műszaki Szakbizottság (a továbbiakban: Szakbizottság) végzi. A Szakbizottság a Műszaki Biztonsági Szabályzatot szükség szerinti gyakorisággal, de legalább évente felülvizsgálja, és véleményezi a Szakbizottsághoz beérkezett módosítási javaslatokat. A Műszaki Biztonsági Szabályzat felülvizsgálatára vagy módosítására vonatkozó javaslatát a Szakbizottság az iparügyekért felelős miniszter részére megküldi.
 
-(3) A Szakbizottság összetételét a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hivatal) főigazgatójának javaslatára az iparügyekért felelős miniszter határozza meg. A szakbizottsági tagokat az iparügyekért felelős miniszter a Hivatal főigazgatójának javaslatára öt év időtartamra bízza meg.
+(3)[^4] A Szakbizottság összetételét a Kormányhivatal javaslatára az iparügyekért felelős miniszter határozza meg. A szakbizottsági tagokat az iparügyekért felelős miniszter a Kormányhivatal javaslatára öt év időtartamra bízza meg.
 
-(4) A Szakbizottság maga dolgozza ki működési szabályzatát és tagjai közül öt év időtartamra megválasztja a Szakbizottság elnökét. A titkársági feladatok ellátásáról a Hivatal gondoskodik.
+(4)[^5] A Szakbizottság maga dolgozza ki működési szabályzatát és tagjai közül öt év időtartamra megválasztja a Szakbizottság elnökét.
+
+[^4]: A 21. § (3) bekezdése a 62/2016. (XII. 29.) NGM rendelet 32. § (4) bekezdésével megállapított szöveg.
+[^5]: A 21. § (4) bekezdése a 62/2016. (XII. 29.) NGM rendelet 32. § (4) bekezdésével megállapított szöveg.
