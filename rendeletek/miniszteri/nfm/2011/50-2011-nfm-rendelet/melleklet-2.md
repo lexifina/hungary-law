@@ -62,11 +62,11 @@
 
 | 30 | Dunakeszi | DK Gázmotor Kft. | Dunakeszi Közüzemi Nonprofit Kft. | 0 | 3 312 |
 
-| 31 | Dunaújváros | Perkons DHŐ Kft. | Dunaújvárosi Víz-, Csatorna-Hőszolgáltató Kft. | 0 | 2 815 |
+| 31 | Dunaújváros | Perkons DHŐ Kft. | Dunaújvárosi Víz-, Csatorna-Hőszolgáltató Kft. | 0 | 1 937 |
 
-| 32 | Dunaújváros | Energott Fejlesztő és Vagyonkezelő Kft. | Dunaújvárosi Víz-, Csatorna-Hőszolgáltató Kft. | 14 506 | 1 867 |
+| 32 | Dunaújváros | Energott Fejlesztő és Vagyonkezelő Kft. | Dunaújvárosi Víz-, Csatorna-Hőszolgáltató Kft. | 17252 | 1 962 |
 
-| 33 | Dunaújváros | HF. Formula Kft. | Dunaújvárosi Víz-, Csatorna-Hőszolgáltató Kft. | 4 053 | 1 901 |
+| 33 | Dunaújváros | HF. Formula Kft. | Dunaújvárosi Víz-, Csatorna-Hőszolgáltató Kft. | 5 288 | 1 937 |
 
 | 34 | Eger | VPP ENERGY Zrt. | EVAT Zrt. | 0 | 2 926 |
 
@@ -92,7 +92,7 @@
 
 | 45 | Kiskunhalas | Halas-T Kft. | Halasi Városgazda Zrt. | 0 | 3 930 |
 
-| 46 | Kiskunfélegyháza | Perkons SKL Kft. | Perkons DHŐ Kft. | 0 | 2 848 |
+| 46 | Kiskunfélegyháza | Perkons SKL Kft. | Perkons DHŐ Kft. | 0 | 2 603 |
 
 | 47 | Makó | Materm Hőszolgáltató, Befektető Kft. | Makói Városgazdálkodási Nonprofit Kft. | 0 | 2 170 |
 
@@ -142,7 +142,7 @@
 
 | 70 | Sátoraljaújhely | Sátoraljaújhely Város Önkormányzat Erzsébet Kórháza | Cothec Kft. | 0 | 3 066 |
 
-| 71 | Siklós | Perkons SKL Kft. | SIKLÓSI TÁVHŐ Nonprofit Kft. | 0 | 2 992 |
+| 71 | Siklós | Perkons SKL Kft. | SIKLÓSI TÁVHŐ Nonprofit Kft. | 0 | 2 139 |
 
 | 72 | Sopron | Veolia Energia Magyarország Zrt. | SOPRON Holding Zrt. | 14 125 | 2 081 |
 
