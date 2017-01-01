@@ -14,6 +14,7 @@ amely a tevékenységét egyéni egészségügyi vállalkozóként, társas vál
 
 (5) A támogatással beszerzett eszközt a beszerzésétől számított három évig csak abban az esetben lehet elidegeníteni, ha az – a beszerzésétől számított három évig – az elidegenítését követően is az adott praxis betegeinek ellátását szolgálja.
 
-(6) A támogatás fedezetét az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) által kezelt elkülönített előirányzat tartalmazza.
+(6)[^2] A támogatás fedezetét a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) által kezelt elkülönített előirányzat tartalmazza.
 
 [^1]: Az 1. § (1) bekezdés a) pontja a 325/2011. (XII. 28.) Korm. rendelet 98. §-ával megállapított szöveg.
+[^2]: Az 1. § (6) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 181. § a) pontja szerint módosított szöveg.
