@@ -8,9 +8,9 @@
 
 ## I. A Területi Vízgazdálkodási Tanács
 
-## 5.[^1] A TVT működési területe megegyezik a vízügyi igazgatóság működési területével.
+## 5.[^2] A TVT működési területe megegyezik a vízügyi igazgatóság működési területével.
 
-## 6.[^2] A TVT legfeljebb 25 tagból áll, tagjai:
+## 6.[^3] A TVT legfeljebb 25 tagból áll, tagjai:
 
 ## a) a vízgazdálkodásért felelős miniszternek,
 
@@ -20,17 +20,17 @@
 
 ## d) az illetékes vízügyi hatóságnak,
 
-## e) az illetékes környezetvédelmi és természetvédelmi felügyelőségnek,
+## e) az illetékes területi környezetvédelmi és természetvédelmi hatóságnak,
 
-## f) a Nemzeti Környezetügyi Intézet működési terület szerinti területi kirendeltségének,
+## f) a Herman Ottó Intézet Nonprofit Korlátolt Felelősségű Társaságnak (a továbbiakban: Herman Ottó Intézet Nonprofit Kft.),
 
 ## g) a működési terület szerinti nemzeti park igazgatóságnak, helyi jelentőségű védett természetvédelmi terület esetén a települési önkormányzatnak,
 
-## h) a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szervének, valamint földművelésügyi igazgatóságának,
+## h) a népegészségügyi, valamint földművelésügyi hatáskörében eljáró fővárosi és megyei kormányhivatalnak,
 
 ## i) a megyei önkormányzatnak,
 
-## j)[^3] a TVT működési területén működő, a turizmusért felelős miniszter által vezetett minisztérium által regisztrált turisztikai desztináció menedzsment szervezeteknek (TDM szervezet),
+## j) a TVT működési területén működő, a turizmusért felelős miniszter által vezetett minisztérium által regisztrált turisztikai desztináció menedzsment szervezeteknek (TDM szervezet),
 
 ## k) az agrár-, az ipar-, valamint a mérnöki kamarának,
 
@@ -40,13 +40,13 @@
 
 ## n) a TVT működési területén és annak feladatköréhez kapcsolódóan tevékenységet folytató civil szervezeteknek, valamint szakmai-tudományos szervezeteknek
 
-## 1-1 kijelölt képviselője.
+## egy-egy kijelölt képviselője.
 
-## 7. Amennyiben a TVT működési területén világörökségi terület található, a TVT ülésein a Forster Gyula Nemzeti Örökséggazdálkodási és Szolgáltatási Központ képviselője állandó meghívottként, tanácskozási joggal vesz részt.
+## 7.[^4] Amennyiben a TVT működési területén világörökségi terület található, a TVT ülésein a kulturális örökség védelméért felelős miniszter által kijelölt személy állandó meghívottként, tanácskozási joggal vesz részt.
 
 ## 8. A TVT
 
-## a)[^4] a tevékenységét önállóan, a megyei önkormányzattal összehangoltan végzi;
+## a)[^5] a tevékenységét önállóan, a megyei önkormányzattal összehangoltan végzi;
 
 ## b) elősegíti a területi szintű vízgazdálkodás szakmai feladatainak egységes végrehajtását, valamint a vízügyi tervezés, a vízépítés és a szolgáltató tevékenység összehangolt működését;
 
@@ -76,33 +76,31 @@
 
 ## dd) Magyarország települési ivóvízminőség – javító, valamint szennyvízelvezetési és szennyvíztisztítási programjának irányelvei alapján – a programok összehangolására.
 
-## 9.[^5] A TVT tagjai az elnököt maguk közül, a tagok többségének szavazatával választják meg.
+## 9.[^6] A TVT tagjai az elnököt maguk közül, a tagok többségének szavazatával választják meg.
 
 ## 10. A TVT feladatai teljesítésének elősegítése érdekében állandó vagy eseti bizottságokat hozhat létre.
 
-## 11.[^6] A TVT a vízgyűjtő-gazdálkodási tervezés során a társadalmi részvétel biztosítása érdekében egy vagy – ha a helyi területi, társadalmi viszonyok indokolják – több vízgyűjtő-gazdálkodási tervezési bizottságot hoz létre, amely 18 tagból áll. Tagjai:
+## 11.[^7] A TVT a vízgyűjtő-gazdálkodási tervezés során a társadalmi részvétel biztosítása érdekében egy vagy – ha a helyi területi, társadalmi viszonyok indokolják – több vízgyűjtő-gazdálkodási tervezési bizottságot hoz létre, amely 18 tagból áll. Tagjai:
 
-## a) a közigazgatás részéről
+## a)[^8] a közigazgatás részéről
 
 ## aa) a működési terület szerinti vízügyi igazgatóság,
 
 ## ab) az illetékes vízügyi hatóság,
 
-## ac) a Nemzeti Környezetügyi Intézet működési terület szerinti kirendeltsége,
+## ac) az illetékes területi környezetvédelmi és természetvédelmi hatóság,
 
-## ad) az illetékes környezetvédelmi és természetvédelmi felügyelőség,
+## ad) a Herman Ottó Intézet Nonprofit Kft.,
 
 ## ae) a működési terület szerinti nemzeti park igazgatóság,
 
-## af) a fővárosi és megyei kormányhivatal népegészségügyi szakigazgatási szerve,
+## af) a népegészségügyi hatáskörében eljáró fővárosi és megyei kormányhivatal,
 
-## ag) a fővárosi és megyei kormányhivatal földművelésügyi igazgatósága,
+## ag) a földművelésügyi hatáskörében eljáró megyei kormányhivatal megyeszékhely szerinti járási hivatala,
 
 ## ah) a megyei önkormányzat, valamint
 
 ## ai) a helyi önkormányzatok
-
-## által a TVT elnökének felkérése alapján kijelölt 1-1 fő;
 
 ## b) a működési területen tevékenységet folytató
 
@@ -114,7 +112,7 @@
 
 ## által a TVT elnökének felkérése alapján kijelölt 3-3, szervezetenként legfeljebb 1 fő.
 
-## 12.[^7] A 11. pont szerinti bizottság az 1. pont szerinti szempontok érvényesítése érdekében –
+## 12.[^9] A 11. pont szerinti bizottság az 1. pont szerinti szempontok érvényesítése érdekében –
 
 ## a működési területét érintően – állást foglal a vízgyűjtő-gazdálkodás egyes szabályairól szóló 221/2004. (VII. 21.) Korm. rendelet (a továbbiakban: R.) 19. § (2) bekezdése szerinti dokumentumokról.
 
@@ -124,11 +122,11 @@
 
 ## b) a közvéleményt az üléseket követő 30 napon belül.
 
-## 14.[^8] A TVT titkársági feladatait a működési terület szerinti vízügyi igazgatóság látja el.
+## 14.[^10] A TVT titkársági feladatait a működési terület szerinti vízügyi igazgatóság látja el.
 
 ## II. A Részvízgyűjtő Vízgazdálkodási Tanács
 
-## 15.[^9] Az RVT működési területe megegyezik a Duna közvetlen, a Tisza, a Dráva és a Balaton részvízgyűjtőjének
+## 15.[^11] Az RVT működési területe megegyezik a Duna közvetlen, a Tisza, a Dráva és a Balaton részvízgyűjtőjének
 
 ## az R. szerinti területével.
 
@@ -136,7 +134,7 @@
 
 ## a) a részvízgyűjtő területén működő TVT-k által kijelölt 1-1 fő,
 
-## b)[^10] a 11. pontban meghatározott, az RVT működési területén lévő államigazgatási szervek által kijelölt 9 fő,
+## b)[^12] a 11. pontban meghatározott, az RVT működési területén lévő államigazgatási szervek által kijelölt 9 fő,
 
 ## c) a működési területen tevékenységet folytató, részvízgyűjtő-gazdálkodással érintett civil szervezetek által kijelölt 3 fő,
 
@@ -154,17 +152,17 @@
 
 ## d) ellenőrzi a civil szervezetek és egyéb érdekeltek részéről érkezett észrevételek figyelembevételét,
 
-## e)[^11] az 1. pont szerinti szempontok érvényesítése érdekében – a működési területét érintően – állást foglal az R. 19. § (2) bekezdése szerinti dokumentumokról.
+## e)[^13] az 1. pont szerinti szempontok érvényesítése érdekében – a működési területét érintően – állást foglal az R. 19. § (2) bekezdése szerinti dokumentumokról.
 
-## 18.[^12] Az RVT tagjai az elnököt maguk közül, a tagok többségének szavazatával választják meg.
+## 18.[^14] Az RVT tagjai az elnököt maguk közül, a tagok többségének szavazatával választják meg.
 
-## 19.[^13] Az RVT titkársági feladatait a részvízgyűjtő szintű vízgyűjtő-gazdálkodási terv készítésére az R.-ben kijelölt vízügyi igazgatóság látja el.
+## 19.[^15] Az RVT titkársági feladatait a részvízgyűjtő szintű vízgyűjtő-gazdálkodási terv készítésére az R.-ben kijelölt vízügyi igazgatóság látja el.
 
 ## III. Az Országos Vízgazdálkodási Tanács
 
 ## 20. Az OVT a vízgyűjtő-gazdálkodási tervezéssel kapcsolatos feladatait országos szinten látja el.
 
-## 21.[^14] Az OVT tagjai
+## 21.[^16] Az OVT tagjai
 
 ## a) a vízgazdálkodásért felelős miniszter által kijelölt állami vezető,
 
@@ -176,9 +174,9 @@
 
 ## d) az Országos Vízügyi Hatóság képviselője,
 
-## e) a Nemzeti Környezetügyi Intézet képviselője,
+## e)[^17] a Herman Ottó Intézet Nonprofit Kft. képviselője,
 
-## f) az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség képviselője,
+## f)[^18]
 
 ## g) a vízgazdálkodásért felelős miniszter e szakterületről kijelölt képviselője,
 
@@ -230,7 +228,7 @@
 
 ## IV. A vízgazdálkodási tanácsok működésének közös szabályai
 
-## 26.[^15] A vízgazdálkodási tanács e kormányhatározat, a vízgazdálkodásért felelős miniszter által jóváhagyott szervezeti és működési szabályzat, valamint az éves munkaterv alapján működik.
+## 26.[^19] A vízgazdálkodási tanács e kormányhatározat, a vízgazdálkodásért felelős miniszter által jóváhagyott szervezeti és működési szabályzat, valamint az éves munkaterv alapján működik.
 
 ## 27. A vízgazdálkodási tanács az üléseit szükség szerint, de évente legalább két alkalommal tartja. Az ülést a vízgazdálkodási tanács elnöke vagy öt tagja hívhatja össze. A meghívóhoz mellékelni kell mindazokat a dokumentumokat, amelyeknek ismerete a tanácskozáshoz szükséges. A vízgazdálkodási tanács elnöke meghívhatja az ülésre az egyes napirendi pontok tárgyalásában érdekelt szervezetek képviselőit. A szervezetek meghívott képviselői az ülésen tanácskozási joggal vesznek részt.
 
@@ -246,7 +244,7 @@
 
 ## 33. Ez a határozat a közzétételét követő napon lép hatályba.
 
-## 34.[^16] E kormányhatározatnak a vízgazdálkodási tanácsokról szóló 1382/2013. (VI. 27.) Korm. határozat módosításáról szóló 1153/2014. (III. 20.) Korm. határozattal (a továbbiakban: Korm.határozat mód.) megállapított rendelkezéseinek végrehajtása érdekében
+## 34.[^20] E kormányhatározatnak a vízgazdálkodási tanácsokról szóló 1382/2013. (VI. 27.) Korm. határozat módosításáról szóló 1153/2014. (III. 20.) Korm. határozattal (a továbbiakban: Korm.határozat mód.) megállapított rendelkezéseinek végrehajtása érdekében
 
 ## a) a TVT és az RVT összehívásáról az elnök, elnök hiányában a titkársági feladatokat ellátó vízügyi igazgatóság igazgatója
 
@@ -328,19 +326,22 @@ Székhelye: Pécs
 
 Székhelye: Székesfehérvár
 
-[^1]: Az 5. pont az 1153/2014. (III. 20.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 6. pont az 1153/2014. (III. 20.) Korm. határozat 2. pontjával megállapított szöveg.
-[^3]: A 6. pont j) alpontja az 1372/2015. (VI. 9.) Korm. határozat 1. pontjával megállapított szöveg.
-[^4]: A 8. pont a) alpontja az 1153/2014. (III. 20.) Korm. határozat 14. pont a) alpontja szerint módosított szöveg.
-[^5]: A 9. pont az 1153/2014. (III. 20.) Korm. határozat 3. pontjával megállapított szöveg.
-[^6]: A 11. pont az 1153/2014. (III. 20.) Korm. határozat 4. pontjával megállapított szöveg.
-[^7]: A 12. pont az 1153/2014. (III. 20.) Korm. határozat 5. pontjával megállapított szöveg.
-[^8]: A 14. pont az 1153/2014. (III. 20.) Korm. határozat 6. pontjával megállapított szöveg.
-[^9]: A 15. pont az 1153/2014. (III. 20.) Korm. határozat 7. pontjával megállapított szöveg.
-[^10]: A 16. pont b) alpontja az 1153/2014. (III. 20.) Korm. határozat 14. pont b) alpontja szerint módosított szöveg.
-[^11]: A 17. pont e) alpontja az 1153/2014. (III. 20.) Korm. határozat 8. pontjával megállapított szöveg.
-[^12]: A 18. pont az 1153/2014. (III. 20.) Korm. határozat 9. pontjával megállapított szöveg.
-[^13]: A 19. pont az 1153/2014. (III. 20.) Korm. határozat 10. pontjával megállapított szöveg.
-[^14]: A 21. pont az 1153/2014. (III. 20.) Korm. határozat 11. pontjával megállapított szöveg.
-[^15]: A 26. pont az 1153/2014. (III. 20.) Korm. határozat 12. pontjával megállapított szöveg.
-[^16]: A 34. pontot az 1153/2014. (III. 20.) Korm. határozat 13. pontja iktatta be.
+[^2]: Az 5. pont az 1153/2014. (III. 20.) Korm. határozat 1. pontjával megállapított szöveg.
+[^3]: A 6. pont az 1853/2016. (XII. 27.) Korm. határozat 32. pontjával megállapított szöveg.
+[^4]: A 7. pont az 1853/2016. (XII. 27.) Korm. határozat 33. pontja szerint módosított szöveg.
+[^5]: A 8. pont a) alpontja az 1153/2014. (III. 20.) Korm. határozat 14. pont a) alpontja szerint módosított szöveg.
+[^6]: A 9. pont az 1153/2014. (III. 20.) Korm. határozat 3. pontjával megállapított szöveg.
+[^7]: A 11. pont az 1153/2014. (III. 20.) Korm. határozat 4. pontjával megállapított szöveg.
+[^8]: A 11. pont a) alpontja az 1853/2016. (XII. 27.) Korm. határozat 34. pontjával megállapított szöveg.
+[^9]: A 12. pont az 1153/2014. (III. 20.) Korm. határozat 5. pontjával megállapított szöveg.
+[^10]: A 14. pont az 1153/2014. (III. 20.) Korm. határozat 6. pontjával megállapított szöveg.
+[^11]: A 15. pont az 1153/2014. (III. 20.) Korm. határozat 7. pontjával megállapított szöveg.
+[^12]: A 16. pont b) alpontja az 1153/2014. (III. 20.) Korm. határozat 14. pont b) alpontja szerint módosított szöveg.
+[^13]: A 17. pont e) alpontja az 1153/2014. (III. 20.) Korm. határozat 8. pontjával megállapított szöveg.
+[^14]: A 18. pont az 1153/2014. (III. 20.) Korm. határozat 9. pontjával megállapított szöveg.
+[^15]: A 19. pont az 1153/2014. (III. 20.) Korm. határozat 10. pontjával megállapított szöveg.
+[^16]: A 21. pont az 1153/2014. (III. 20.) Korm. határozat 11. pontjával megállapított szöveg.
+[^17]: A 21. pont e) alpontja az 1853/2016. (XII. 27.) Korm. határozat 35. pontjával megállapított szöveg.
+[^18]: A 21. pont f) alpontját az 1853/2016. (XII. 27.) Korm. határozat 36. pontja hatályon kívül helyezte.
+[^19]: A 26. pont az 1153/2014. (III. 20.) Korm. határozat 12. pontjával megállapított szöveg.
+[^20]: A 34. pontot az 1153/2014. (III. 20.) Korm. határozat 13. pontja iktatta be.
