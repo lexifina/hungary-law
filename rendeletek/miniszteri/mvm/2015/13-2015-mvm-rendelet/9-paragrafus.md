@@ -18,11 +18,11 @@ h) a nyilvántartott régészeti lelőhelyre vonatkozó szakirodalmi, múzeumi, 
 
 i) a nyilvántartott régészeti lelőhely és tervezett védőövezete fekvése szerinti ingatlan ingatlan-nyilvántartási adatait (helyrajzi szám, terület, művelési ág, tulajdonos, vagyonkezelő) a védetté nyilvánítás előkészítésének megindításához képest harminc napnál nem régebbi, a tulajdoni lapról elektronikus dokumentumként szolgáltatott nem hiteles másolat alapján, valamint az ingatlanügyi hatóság által hitelesített térképmásolatot.
 
-(2)[^35] A nyilvántartott régészeti lelőhely védetté nyilvánításának előkészítése során a nyilvántartást vezető hatóság figyelembe veszi a régészeti lelőhelyek nyilvántartásának adatait, továbbá – szükség esetén – más feltárásra jogosult intézmény, különösen a gyűjtőterületén érintett múzeum adatait.
+(2)[^38] A nyilvántartott régészeti lelőhely védetté nyilvánításának előkészítése során a nyilvántartást vezető hatóság figyelembe veszi a régészeti lelőhelyek nyilvántartásának adatait, továbbá – szükség esetén – más feltárásra jogosult intézmény, különösen a gyűjtőterületén érintett múzeum adatait.
 
-(3)[^36] A nyilvántartást vezető hatóság a dokumentáció készítése során igénybe veheti az adott szakterületen szakértelemmel rendelkező személy vagy más feltárásra jogosult intézmény közreműködését.
+(3)[^39] A nyilvántartást vezető hatóság a dokumentáció készítése során igénybe veheti az adott szakterületen szakértelemmel rendelkező személy vagy más feltárásra jogosult intézmény közreműködését.
 
 (4) A védetté nyilvánítás előkészítése során észrevételt tehet, és a dokumentációba betekinthet, aki a védetté nyilvánítási eljárás megindításáról értesült, valamint akinek az adott ingatlanra vonatkozó jogát a védelem érinti.
 
-[^35]: A 9. § (2) bekezdése a 32/2016. (XII. 14.) MvM rendelet 10. § (2) bekezdés f) pontja szerint módosított szöveg.
-[^36]: A 9. § (3) bekezdése a 32/2016. (XII. 14.) MvM rendelet 10. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^38]: A 9. § (2) bekezdése a 32/2016. (XII. 14.) MvM rendelet 10. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^39]: A 9. § (3) bekezdése a 32/2016. (XII. 14.) MvM rendelet 10. § (2) bekezdés f) pontja szerint módosított szöveg.
