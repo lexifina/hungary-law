@@ -7,3 +7,5 @@ b) az elítélt a végrehajtás átengedéséhez hozzájárult, feltéve, hogy a
 (2) Magyar állampolgárral szemben kiszabott szabadságvesztés végrehajtása akkor adható át, ha állandó lakóhelye vagy szokásos tartózkodási helye külföldön van.
 
 (3) Az (1) bekezdés b) pontja szerinti hozzájárulás nem vonható vissza.
+
+(4) A magyar bíróság által kiszabott szabadságvesztés büntetés végrehajtásának átadásával összefüggésben a fordítással, valamint a terhelt szállításával kapcsolatban felmerült bűnügyi költséget az állam viseli.

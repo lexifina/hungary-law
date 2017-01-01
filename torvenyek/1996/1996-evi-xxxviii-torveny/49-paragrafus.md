@@ -1,6 +1,6 @@
 ## 2. Cím KÜLFÖLDI BÍRÓSÁG ÁLTAL KISZABOTT SZABADSÁGVESZTÉS VÉGREHAJTÁSÁNAK ÁTVÉTELE
 
-49. § (1) Külföldi bíróság által kiszabott végrehajtandó, szabadságvesztés végrehajtását át lehet venni, ha az elítélt a végrehajtás átvételéhez hozzájárult, és az átvétel iránti kérelemnek az igazságügyért felelős miniszterhez történő érkezésekor az elítéltnek legalább egy év letöltendő büntetése van hátra, vagy ha a büntetés határozatlan időre szól, feltéve, hogy az elítélt magyar állampolgár és állandó lakóhelye Magyarországon van, illetve Magyarországra bevándorolt, letelepedett, vagy Magyarország által menekültként elismert nem magyar állampolgár.
+49. § (1) Külföldi bíróság által kiszabott végrehajtandó, szabadságvesztés végrehajtását át lehet venni, ha az elítélt a végrehajtás átvételéhez hozzájárult, és az átvétel iránti kérelemnek a miniszterhez történő érkezésekor az elítéltnek legalább egy év letöltendő büntetése van hátra, vagy ha a büntetés határozatlan időre szól, feltéve, hogy az elítélt magyar állampolgár és állandó lakóhelye Magyarországon van, illetve Magyarországra bevándorolt, letelepedett, vagy Magyarország által menekültként elismert nem magyar állampolgár.
 
 (2) Azt a külföldi bíróság által végrehajtandó szabadságvesztésre elítélt magyar állampolgárt, illetve Magyarországra bevándorolt, letelepedett, vagy Magyarország által menekültként elismert nem magyar állampolgárt, aki a büntetés végrehajtása előtt Magyarországra visszatért, úgy kell tekinteni, mint aki a végrehajtás átvételéhez hozzájárult.
 

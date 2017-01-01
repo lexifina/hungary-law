@@ -10,7 +10,7 @@ d) a megkeresés teljesítésére nyitva álló határidőt.
 
 (2) Az (1) bekezdésben meghatározott megkeresésekhez mellékelni kell a bíróság elrendelő határozatának kiadmányát vagy hiteles másolatát.
 
-(3) Ha nemzetközi szerződés lehetővé teszi, az (1) bekezdésben meghatározott megkereséseket sürgős esetben az igazságügyért felelős miniszter vagy a legfőbb ügyész
+(3) Ha nemzetközi szerződés lehetővé teszi, az (1) bekezdésben meghatározott megkereséseket sürgős esetben a miniszter vagy a legfőbb ügyész
 
 a) a megkeresett állam igazságügyi hatóságánál közvetlenül, vagy
 
@@ -18,4 +18,4 @@ b) az Interpol útján
 
 is előterjesztheti.
 
-(4) Ha a megkeresés előterjesztése a (3) bekezdés a) pontja szerint történik, az igazságügyért felelős miniszter vagy a legfőbb ügyész a megkeresés előterjesztésével egyidejűleg a külföldi állam központi hatóságának megküldi az iratok másolatát.
+(4) Ha a megkeresés előterjesztése a (3) bekezdés a) pontja szerint történik, a miniszter vagy a legfőbb ügyész a megkeresés előterjesztésével egyidejűleg a külföldi állam központi hatóságának megküldi az iratok másolatát.

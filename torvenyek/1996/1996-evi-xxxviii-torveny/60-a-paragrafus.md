@@ -4,4 +4,4 @@
 
 (2) A külföldi bíróság által elrendelt intézkedés akkor vehető át, ha a magyar jog ismer azonos vagy hasonló intézkedést vagy büntetést.
 
-(3) Az intézkedés átvételére, illetve átadására az 1. és 2. Cím rendelkezéseit értelemszerűen alkalmazni kell.
+(3) Az intézkedés átvételére, illetve átadására a 2. és 3. Cím rendelkezéseit értelemszerűen alkalmazni kell.

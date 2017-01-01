@@ -11,3 +11,5 @@
 (6) Ha a külföldi bíróság olyan szabadságvesztést szabott ki, amely tartamának meghatározott részét rendelte végrehajtani, és a fennmaradó rész végrehajtását az ítélkező külföldi bíróság felfüggesztette, a bíróság az ilyen szabadságvesztést úgy ismeri el, mintha a végrehajtandó szabadságvesztésből az elítéltet feltételes szabadságra bocsátották volna. Ebben az esetben a feltételes szabadságra bocsátás időpontjának meghatározásakor a Btk. 38. § (2) bekezdésétől, valamint – ha a feltételes szabadságnak a Btk. 39. § (1) bekezdés szerinti tartama meghaladná a külföldi bíróság ítéletében meghatározott felfüggesztés tartamát – a Btk. 39. § (1) bekezdésétől el lehet tekinteni. Ebben az esetben a feltételes szabadság tartama megegyezik a külföldi bíróság ítéletében megállapított felfüggesztés tartamával, a büntetést pedig a feltételes szabadság így megállapított utolsó napjával kell kitöltöttnek tekinteni.
 
 (7) A bíróság a külföldi ítélet érvényének elismeréséről értesíti a bűnügyi nyilvántartó szervet.
+
+(8) A külföldi ítélet elismerése során felmerült bűnügyi költséget az állam viseli.

@@ -10,8 +10,12 @@ d) a tárgyalásról az ügyészt értesíti, kötelező védelem esetén a véd
 
 e) a kiadni kért személyt meghallgatja, különösen személyazonosságára, állampolgárságára; és a kiadatás feltételeit e törvény alapján befolyásoló körülményekre, ha erre nyilatkozni kíván;
 
-f)–g)
+f) tájékoztatja a kiadni kért személyt a 16. §-ban meghatározott szabályokról, a lemondás lehetőségéről, és a kiadni kért személyt erre nézve nyilatkoztatja, továbbá a kioktatást és a kiadni kért személy nyilatkozatát jegyzőkönyvben rögzíti;
+
+g)
 
 h) amennyiben a kiadatás feltételei fennállnak, elrendeli a kiadni kért személy kiadatási letartóztatását.
 
 (2) Ha a kiadni kért személy nem tartózkodik Magyarországon, vagy a felkutatására tett intézkedés nem vezetett eredményre, értesíteni kell a minisztert, aki erről tájékoztatja a megkeresést előterjesztő államot.
+
+(3) A kiadatási eljárás során felmerült bűnügyi költséget az állam viseli.

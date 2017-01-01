@@ -1,3 +1,5 @@
 29. § (1) Ha a kiadott személy ellen Magyarországon más bűncselekmény miatt eljárás van folyamatban, vagy a kiadott személy szabadságvesztését vagy elzárását tölti, az eljárás befejezéséig, illetve a büntetés végrehajtásának befejezéséig az átadását a miniszter elhalaszthatja.
 
 (2) Ha a kiadott személy átadását a miniszter az (1) bekezdés rendelkezései alapján elhalasztotta, a megkereső állam kérésére engedélyezheti, hogy sürgős eljárási cselekmény lefolytatása érdekében ideiglenesen átadják a megkereső államnak. A kiadni kért személy akkor adható át ideiglenesen, ha biztosított, hogy őt a megkereső államban őrizetben tartják, és meghatározott időn belül visszaadják.
+
+(3) A külföldi fogvatartás teljes időtartamát a Btk.-nak az előzetes fogvatartás és a házi őrizet beszámítására vonatkozó szabályai szerint, a külföldi szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jellegére figyelemmel kell beszámítani a bíróság által kiszabott büntetésbe vagy szabadságelvonással járó intézkedésbe.
