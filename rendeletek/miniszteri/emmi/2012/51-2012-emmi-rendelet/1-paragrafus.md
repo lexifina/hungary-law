@@ -6,4 +6,6 @@ a) a nemzeti köznevelésről szóló 2011. évi CXC. törvény (a továbbiakban
 
 b) a pedagógus és a nevelő és oktató munkát közvetlenül segítő munkakörben alkalmazottakra, az óraadókra,
 
-c) az Oktatáskutató és Fejlesztő Intézetre (a továbbiakban: OFI).
+c)[^1] az Eszterházy Károly Egyetemre (a továbbiakban: EKE).
+
+[^1]: Az 1. § c) pontja a 45/2016. (XII. 28.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.

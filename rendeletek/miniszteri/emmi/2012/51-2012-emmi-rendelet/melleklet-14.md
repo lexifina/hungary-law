@@ -1,4 +1,4 @@
-14. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^53]
+14. melléklet az 51/2012. (XII. 21.) EMMI rendelethez[^61]
 
 Kerettanterv a szakgimnáziumok 9-12. évfolyama számára
 
@@ -428,4 +428,4 @@ Képző- és iparművészet V.,
 
 Hang-, film és színháztechnika VI., ágazatok esetében
 
-[^53]: A 14. mellékletet a 22/2016. (VIII. 25.) EMMI rendelet 5. § (1) bekezdése iktatta be.
+[^61]: A 14. mellékletet a 22/2016. (VIII. 25.) EMMI rendelet 5. § (1) bekezdése iktatta be.
