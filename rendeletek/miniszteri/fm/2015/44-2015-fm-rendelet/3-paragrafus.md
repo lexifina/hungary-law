@@ -1,4 +1,4 @@
-3. § (1) A NÉBIH a halgazdálkodási vízterületet a (2) bekezdésben felsorolt szempontokhoz rendelt valamely ok fennállása alapján határozatában különleges rendeltetésűvé nyilvánítja.
+3. § (1)[^6] A miniszter a halgazdálkodási vízterületet a (2) bekezdésben felsorolt szempontokhoz rendelt valamely ok fennállása alapján határozatában különleges rendeltetésűvé nyilvánítja.
 
 (2) A halgazdálkodási vízterület különleges rendeltetésűvé nyilvánítható
 
@@ -41,3 +41,5 @@ da) a halgazdálkodási vízterületen történő horgászturisztikai fejleszté
 db) a halgazdálkodási vízterület jelentős természetes fürdővízként különleges halgazdálkodási kezelést igényel,
 
 dc) a halgazdálkodási vízterület kimagasló tájképi, természeti értéke olyan turisztikai vonzerő, melynek fenntartása különleges halgazdálkodási kezelést igényel.
+
+[^6]: A 3. § (1) bekezdése a 89/2016. (XII. 29.) FM rendelet 24. § (1) bekezdés b) pontja szerint módosított szöveg.
