@@ -4,7 +4,7 @@ a) egészségügyi hulladék: az egészségügyi ellátásban keletkező humán 
 
 b) veszélyes hulladék: az egészségügyi ellátásban keletkező veszélyes hulladékok a 18 01 06 kódszámú veszélyes anyagokat tartalmazó vagy abból álló vegyszerek, a 18 01 08 kódszámú citotoxikus és citosztatikus gyógyszerek és a 18 01 10 kódszámú fogászati célokra használt amalgám hulladékai;
 
-c)[^2] különleges kezelést igénylő (fertőző) 18 01 03 kódszámú veszélyes hulladékok:
+c)[^3] különleges kezelést igénylő (fertőző) 18 01 03 kódszámú veszélyes hulladékok:
 
 ca) azok a használt éles, hegyes eszközök, amelyek szúrt vagy vágott sérülést okozhatnak, fertőző mikroorganizmusokkal szennyezettek vagy feltételezhetően szennyezettek, (injekciós tűk, injekciós fecskendők tűvel, infúziós és transzfúziós szerelékek, vágó, szúró, éles eszközök, ampullák, tárgylemezek, egyéb eszközök),
 
@@ -26,4 +26,4 @@ e) másodlagos csomagolás: az elsődleges csomagolásban lévő hulladékok gy�
 
 f) újrahasznált edényzet: kiürített, tisztított és fertőtlenített rendszerint másodlagos csomagolás.
 
-[^2]: A 2. § c) pontja a 85/2004. (X. 1.) ESZCSM rendelet 4. §-ának (2) bekezdése szerint módosított szöveg.
+[^3]: A 2. § c) pontja a 85/2004. (X. 1.) ESZCSM rendelet 4. §-ának (2) bekezdése szerint módosított szöveg.

@@ -4,6 +4,6 @@
 
 (3) A hulladékkezelésnek a betegeket, illetve a látogatókat érintő szabályait az egészségügyi intézményben jól látható helyen ki kell függeszteni.
 
-(4)[^12] A hulladékkezelési utasításban foglaltak végrehajtását a környezetvédelmi hatóság és a járási hivatal ellenőrzi.
+(4)[^13] A hulladékkezelési utasításban foglaltak végrehajtását a környezetvédelmi hatóság és a járási hivatal ellenőrzi.
 
-[^12]: A 8. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 33. § c) pontja szerint módosított szöveg.
+[^13]: A 8. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 33. § c) pontja szerint módosított szöveg.
