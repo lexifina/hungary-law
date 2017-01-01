@@ -12,12 +12,13 @@ c) a címzett természetes személy bérbeadója vagy szállásadója,
 
 d) e rendeletben megjelölt egyéb személy.
 
-(3)[^23] A helyettes átvevő köteles az átvett bírósági iratot a címzettnek az első lehetséges alkalommal átadni; az átadásért a Ptk. szerződésen kívül okozott károkért való felelősség általános szabályai szerint felel.
+(3)[^30] A helyettes átvevő köteles az átvett bírósági iratot a címzettnek az első lehetséges alkalommal átadni; az átadásért a Ptk. szerződésen kívül okozott károkért való felelősség általános szabályai szerint felel.
 
 (4) Ha kétség merül fel a helyettes átvevő és a címzett közötti hozzátartozói vagy egyéb kapcsolatot illetően, a végrehajtó dönthet úgy is, hogy nem adja át a helyettes átvevő részére a bírósági iratot. Ilyenkor úgy kell eljárni, mint ha a kézbesítés helyén a végrehajtó nem talált volna senkit és a kézbesítés megkísérléséről a címzettnek szóló értesítést (26. §) kell a helyettes átvevőnek átadni.
 
 (5) A (4) bekezdés szerint kell eljárni akkor is, ha a helyettes átvevő megtagadja a bírósági irat átvételét.
 
-(6) A (4) és (5) bekezdésben foglalt esetben a végrehajtó intézkedik a bírósági iratnak a címzett részére postai úton, a hivatalos iratok kézbesítésére vonatkozó szabályok szerinti kézbesítése iránt is.
+(6)[^31] A (4) és (5) bekezdésben foglalt esetben a végrehajtó intézkedik a bírósági iratnak a címzett részére, a hivatalos iratok kézbesítésére vonatkozó szabályok szerinti kézbesítése iránt is.
 
-[^23]: A 16. § (3) bekezdése a 142/2010. (IV. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^30]: A 16. § (3) bekezdése a 142/2010. (IV. 28.) Korm. rendelet 5. § b) pontja szerint módosított szöveg.
+[^31]: A 16. § (6) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 31. § (7) bekezdés b) pontja szerint módosított szöveg.

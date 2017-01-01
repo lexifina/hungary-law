@@ -64,6 +64,6 @@
 
 | 3 A megfelelő aláhúzandó. 4-5 Ezeket a szerződés megszűnését eredményező nyilatkozat végrehajtói kézbesítésekor kell kitölteni. |
 
-2. számú melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^42]
+2. számú melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^58]
 
-[^42]: A 2. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 66. § (3) bekezdés b) pontjával megállapított szöveg.
+[^58]: A 2. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 66. § (3) bekezdés b) pontjával megállapított szöveg.

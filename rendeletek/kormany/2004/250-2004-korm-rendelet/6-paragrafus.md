@@ -1,8 +1,8 @@
 6. § (1) A végrehajtó a kérelem hiányosságairól, illetve a kérelem megtagadásának egyéb okáról annak átvételekor tájékoztatja a kérelmezőt és felhívja a hiány pótlására. Ha a hiánypótlás a felhívást követően nem történik meg, a kérelem teljesítése megtagadásának okát a kérelemre feljegyzi, és a kérelmet – a csatolt iratokkal együtt – a kérelmezőnek visszaadja.
 
-(2) Ha a kérelmet postai úton küldi meg a kérelmező, a végrehajtó azt 3 munkanapon belül megvizsgálja. A hiányos kérelemre a hiányokat, illetve a kérelem teljesítése megtagadásának okát feljegyzi és azt – a kézbesítési díjnak a postaköltséggel és a díj visszaküldésének költségével csökkentett összegével, továbbá a csatolt iratokkal együtt – visszaküldi a kérelmezőnek.
+(2)[^23] Ha a kérelmet elektronikus vagy postai úton küldi meg a kérelmező, a végrehajtó azt 3 munkanapon belül megvizsgálja. A hiányos kérelemre a hiányokat, illetve a kérelem teljesítése megtagadásának okát feljegyzi, és azt – a kézbesítési díjnak a díj visszaküldésének költségével, illetve a postaköltséggel csökkentett összegével, valamint a csatolt iratokkal együtt – visszaküldi a kérelmezőnek.
 
-(3) Ha a postai úton megküldött kérelem nem tartalmazza a kézbesítési díj befizetéséről szóló igazolást, a végrehajtó a kérelem megtagadásának okát feljegyzi a kérelemre; az további ügyintézést nem igényel.
+(3)[^24] Ha a postai vagy elektronikus úton megküldött kérelem nem tartalmazza a kézbesítési díj befizetéséről szóló igazolást, a végrehajtó a kérelem megtagadásának okát feljegyzi a kérelemre; az további ügyintézést nem igényel.
 
 (4) A végrehajtó a kérelem teljesítését akkor tagadja meg, ha
 
@@ -19,3 +19,6 @@ e) a kérelmező a határozat alapján már végrehajtást kezdeményezett a cí
 f) természeti, földrajzi, biztonsági stb. okból a kérelemben megjelölt kézbesítési hely megközelíthetetlen, vagy
 
 g) hivatalos tudomása van arról, hogy a címzett vagy a megjelölt kézbesítési cím nem létezik vagy beazonosíthatatlan.
+
+[^23]: A 6. § (2) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 31. § (4) bekezdésével megállapított szöveg.
+[^24]: A 6. § (3) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 31. § (6) bekezdés a) pontja szerint módosított szöveg.

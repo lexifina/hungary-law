@@ -8,7 +8,7 @@ c) a természetes személy címzett nevét és különleges kézbesítés eseté
 
 d) ha a címzett szervezet: nevét, székhelyét és – ha a kézbesítést kérő arról tudomással bír – vezetőjének vagy képviselőjének a nevét, továbbá különleges kézbesítés esetén, vagy ha azt a végrehajtó egyébként kéri, az azonosítására szolgáló egyéb adatait (nyilvántartási szám, adószám stb.),
 
-e)[^19] ha a kérelmezőnek tudomása van róla, annak tényét, ha a címzett
+e)[^21] ha a kérelmezőnek tudomása van róla, annak tényét, ha a címzett
 
 ea) 14 év alatti személy (a törvényes képviselő nevét és címét is meg kell jelölni),
 
@@ -32,6 +32,7 @@ h) ha a kérelem különleges kézbesítésre irányul, az ahhoz szükséges ada
 
 (3) A kérelemhez mellékelni kell a jogerős bírósági határozat kiadmányát (szükség esetén a jogerőre emelkedését megállapító végzés kiadmányát) és a kézbesítési vélelem beálltáról szóló bírósági értesítés másolatát.
 
-(4) A kérelem előterjesztésével egyidejűleg meg kell fizetni a végrehajtó részére a kézbesítés külön jogszabályban meghatározott díját (a továbbiakban: kézbesítési díj), és nyilatkozni kell arról, hogy a kérelmező nem kért bírósági végrehajtást a címzett ellen. Ha a kérelem postai úton kerül megküldésre, ahhoz csatolni kell a kézbesítési díj megfizetését igazoló átutalási megbízás vagy postai feladóvevény másolatát.
+(4)[^22] A kérelem előterjesztésével egyidejűleg meg kell fizetni a végrehajtó részére a kézbesítés külön jogszabályban meghatározott díját (a továbbiakban: kézbesítési díj), és nyilatkozni kell arról, hogy a kérelmező nem kért bírósági végrehajtást a címzett ellen. Ha a kérelem postai vagy elektronikus úton kerül megküldésre, ahhoz csatolni kell a kézbesítési díj megfizetését igazoló átutalási megbízás vagy postai feladóvevény másolatát.
 
-[^19]: Az 5. § (1) bekezdése e) pontjának bevezető szövegrésze a 11/2008. (I. 26.) Korm. rendelet 4. § (2) bekezdésének e) pontjával megállapított szöveg.
+[^21]: Az 5. § (1) bekezdése e) pontjának bevezető szövegrésze a 11/2008. (I. 26.) Korm. rendelet 4. § (2) bekezdésének e) pontjával megállapított szöveg.
+[^22]: Az 5. § (4) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 31. § (6) bekezdés a) pontja szerint módosított szöveg.

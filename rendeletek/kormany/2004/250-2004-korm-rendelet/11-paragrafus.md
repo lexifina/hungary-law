@@ -4,6 +4,6 @@
 
 11. § (1) A kézbesítés során e rendelet szerint használandó nyomtatványokat a végrehajtó biztosítja a kérelem előterjesztése, illetve a kézbesítés céljára.
 
-(2)[^22] A kérelem előterjesztésére szolgáló nyomtatvány a Karnál is átvehető, és a Kar azt – letölthető formában – a világhálón is közzéteszi.
+(2)[^29] A kérelem előterjesztésére szolgáló nyomtatvány a Karnál is átvehető, és a Kar azt – letölthető formában – a világhálón is közzéteszi.
 
-[^22]: A 11. § (2) bekezdése a 242/2015. (IX. 8.) Korm. rendelet 2. § a)–b) pontja szerint módosított szöveg.
+[^29]: A 11. § (2) bekezdése a 242/2015. (IX. 8.) Korm. rendelet 2. § a)–b) pontja szerint módosított szöveg.

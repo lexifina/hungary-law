@@ -48,7 +48,7 @@
 
 | 3 A megfelelő aláhúzandó. 4 A megfelelő aláhúzandó. |
 
-3. számú melléklet a 250/2007. (VIII. 27.) Korm. rendelethez[^43]
+3. számú melléklet a 250/2007. (VIII. 27.) Korm. rendelethez[^59]
 
 ## önálló bírósági végrehajtó
 
@@ -98,4 +98,4 @@ Ezen értesítés szerint a kézbesítési végrehajtó a címzett, mint kötele
 
 A fizetési meghagyással szemben a fizetési meghagyásos eljárásról szóló 2009. évi L. törvény 28–31. §-a szerint lehet ellentmondást előterjeszteni.
 
-[^43]: A 3. számú mellékletet a 142/2010. (IV. 28.) Korm. rendelet 6. § (2) bekezdése iktatta be.
+[^59]: A 3. számú mellékletet a 142/2010. (IV. 28.) Korm. rendelet 6. § (2) bekezdése iktatta be.

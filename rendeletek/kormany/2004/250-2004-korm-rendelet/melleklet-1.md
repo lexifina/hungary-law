@@ -1,6 +1,6 @@
-## 48. §[^40] A végrehajtó a felszámolói értesítés kézbesítése iránti kérelem teljesítését – a 6. § (4) bekezdés b)–g) pontjában és a 46/B. § (4) bekezdésében foglaltakon túl – abban az esetben tagadhatja meg, ha a kérelemből megállapítható, hogy a felszámolási eljárás a végrehajtói kézbesítés részletes eljárási szabályairól szóló 250/2004. (VIII. 27.) Korm. rendelet módosításáról szóló 238/2009. (X. 20.) Korm. rendelet hatálybalépését megelőzően indult.
+## 49. §[^56] Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e kormányrendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-1. számú melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^41]
+1. számú melléklet a 250/2004. (VIII. 27.) Korm. rendelethez[^57]
 
-[^40]: A 48. §-t a 221/2014. (IX. 4.) Korm. rendelet 281. §-a iktatta be.
-[^41]: Az 1. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 66. § (3) bekezdés a) pontjával megállapított szöveg.
+[^56]: A 49. §-t a 477/2016. (XII. 27.) Korm. rendelet 31. § (5) bekezdése iktatta be.
+[^57]: Az 1. számú melléklet a 70/2015. (III. 30.) Korm. rendelet 66. § (3) bekezdés a) pontjával megállapított szöveg.
