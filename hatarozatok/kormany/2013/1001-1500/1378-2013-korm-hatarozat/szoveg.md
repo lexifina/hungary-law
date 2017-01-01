@@ -36,7 +36,7 @@ d) az erdők ügyével alapszabályuk szerint foglalkozó környezet- és termé
 
 10. A Tanács a döntéseit egyszerű szótöbbséggel hozza meg. Szavazategyenlőség esetén az elnök szavazata dönt.
 
-11. A Tanács működésével kapcsolatos titkársági feladatokat a Vidékfejlesztési Minisztérium látja el.
+11.[^1] A Tanács működésével kapcsolatos titkársági feladatokat a miniszter által vezetett minisztérium látja el.
 
 12. A Tanács elnöke és tagjai tiszteletdíjat, költségtérítést nem kapnak.
 
@@ -53,3 +53,5 @@ c) a delegálásra jogosult szervezet új tagot delegál.
 15. A Tanács működési költségeit a miniszter által vezetett minisztérium költségvetésében külön címen kell biztosítani.
 
 16. Ez a határozat a közzétételét követő napon lép hatályba.
+
+[^1]: A 11. pont az 1853/2016. (XII. 27.) Korm. rendelet 31. pontja szerint módosított szöveg.
