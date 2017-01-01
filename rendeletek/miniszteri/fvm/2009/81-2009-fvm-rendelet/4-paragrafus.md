@@ -1,4 +1,4 @@
-## 3. §[^3] Az ellenőrzés alá vont ügyfeleket a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) választja ki a 809/2014/EU bizottsági végrehajtási rendelet 69. cikkében foglaltak figyelembevételével.
+## 3. §[^3] Az ellenőrzés alá vont ügyfeleket a Magyar Államkincstár (a továbbiakban: Kincstár) választja ki a 809/2014/EU bizottsági végrehajtási rendelet 69. cikkében foglaltak figyelembevételével.
 
 ## A jogkövetkezmény alkalmazása
 
@@ -6,7 +6,7 @@
 
 (2)[^5] A hatáskörrel rendelkező hatóság az ellenőrzés során tett megállapításokról és azok e rendelet szerinti értékeléséről határozatot hoz. Ha meg nem felelés nem kerül megállapításra, a hatáskörrel rendelkező hatóság a határozathozataltól eltekinthet.
 
-(3)[^6] A véglegesített jegyzőkönyv és az (1) bekezdés szerint értékelt meg nem felelések alapján a hatáskörrel rendelkező hatóság elkészíti a 809/2014/EU bizottsági végrehajtási rendelet 72. cikk (2) bekezdése szerinti ellenőrzési jelentést, és azt megküldi az MVH részére.
+(3)[^6] A véglegesített jegyzőkönyv és az (1) bekezdés szerint értékelt meg nem felelések alapján a hatáskörrel rendelkező hatóság elkészíti a 809/2014/EU bizottsági végrehajtási rendelet 72. cikk (2) bekezdése szerinti ellenőrzési jelentést, és azt megküldi a Kincstár részére.
 
 (4) Az ellenőrzés során feltárt meg nem felelés (3) bekezdés szerinti megállapítása az ügyfél számára folyósított vagy folyósítandó támogatás részleges vagy teljes összegének csökkentését, visszavonását vagy az ügyfél támogatottak köréből történő kizárását vonja maga után.
 
@@ -34,9 +34,9 @@ d) az ellenőrzendő időszak alatt a tenyészet állomány-nyilvántartó köny
 
 e) az ellenőrzendő időszak alatt a központi ENAR adatbázisban és a tenyészet állomány-nyilvántartó könyvében regisztrált beérkezéseken összesen legfeljebb 10 db beérkezett állat szerepel.
 
-[^3]: A 3. § az 55/2010. (V. 6.) FVM rendelet 2. § (2) bekezdésével megállapított, a 17/2015. (IV. 9.) FM rendelet 6. § a) pontja szerint módosított szöveg.
+[^3]: A 3. § az 55/2010. (V. 6.) FVM rendelet 2. § (2) bekezdésével megállapított, a 17/2015. (IV. 9.) FM rendelet 6. § a) pontja, a 88/2016. (XII. 29.) FM rendelet 37. § a) pontja szerint módosított szöveg.
 [^4]: A 4. § (1) bekezdése a 17/2015. (IV. 9.) FM rendelet 2. §-ával megállapított szöveg.
 [^5]: A 4. § (2) bekezdése az 55/2010. (V. 6.) FVM rendelet 2. § (3) bekezdésével megállapított szöveg.
-[^6]: A 4. § (3) bekezdése az 55/2010. (V. 6.) FVM rendelet 2. § (8) bekezdés b) pontja, a 17/2015. (IV. 9.) FM rendelet 6. § b) pontja szerint módosított szöveg.
+[^6]: A 4. § (3) bekezdése az 55/2010. (V. 6.) FVM rendelet 2. § (8) bekezdés b) pontja, a 17/2015. (IV. 9.) FM rendelet 6. § b) pontja, a 88/2016. (XII. 29.) FM rendelet 37. § b) pontja szerint módosított szöveg.
 [^7]: A 4. § (5) bekezdését az 55/2010. (V. 6.) FVM rendelet 2. § (4) bekezdése iktatta be, nyitó szövegrésze a 17/2015. (IV. 9.) FM rendelet 6. § c) pontja szerint módosított szöveg.
 [^8]: A 4. § (6) bekezdését az 55/2010. (V. 6.) FVM rendelet 2. § (4) bekezdése iktatta be, nyitó szövegrésze a 17/2015. (IV. 9.) FM rendelet 6. § d) pontja szerint módosított szöveg.

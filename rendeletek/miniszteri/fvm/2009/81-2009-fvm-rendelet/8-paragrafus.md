@@ -2,7 +2,7 @@
 
 ## Az Európai Unió jogának való megfelelés
 
-8. §[^18] (1) Ez a rendelet
+8. §[^19] (1) Ez a rendelet
 
 a) az Európai Mezőgazdasági Vidékfejlesztési Alapból (EMVA) nyújtandó vidékfejlesztési támogatásokról szóló, 2005. szeptember 20-i 1698/2005/EK tanácsi rendelet,
 
@@ -24,4 +24,4 @@ b) a borjak védelmére vonatkozó minimumkövetelmények megállapításáról 
 
 c) a sertések védelmére vonatkozó minimumkövetelmények megállapításáról szóló, 2008. december 18-i 2008/120/EK tanácsi irányelvnek
 
-[^18]: A 8. § a 17/2015. (IV. 9.) FM rendelet 4. §-ával megállapított szöveg.
+[^19]: A 8. § a 17/2015. (IV. 9.) FM rendelet 4. §-ával megállapított szöveg.
