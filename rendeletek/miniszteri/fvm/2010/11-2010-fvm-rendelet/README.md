@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-11-20-8
 | 2015-08-05 | 2010-11-20-82.10 | 45/2015. (VII. 28.) FM rendelet |
 | 2015-12-02 | 2010-11-20-82.11 | 75/2015. (XI. 24.) FM rendelet |
 | 2016-10-22 | 2010-11-20-82.12 | 69/2016. (X. 14.) FM rendelet |
+| 2017-01-01 | 2010-11-20-82.13 | 89/2016. (XII. 29.) FM rendelet |

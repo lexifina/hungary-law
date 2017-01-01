@@ -26,7 +26,7 @@ h) az Evt. 24. §-ának (2) bekezdése m) pontja szerinti esetben a kulturális 
 
 i) az Evt. 24. §-ának (2) bekezdése n) pontja szerinti esetben a bányászati hatóságot,
 
-j)[^3] az Evt. 25. §-ának a) pontja szerinti esetben a fővárosi és megyei kormányhivatal járási hivatala járási (fővárosi kerületi) népegészségügyi intézetét,
+j)[^4] az Evt. 25. §-ának a) pontja szerinti esetben a népegészségügyi hatóságot,
 
 k) az Evt. 25. §-ának e) pontja és a 26. § c) pontja szerinti esetben a vadászati hatóságot,
 
@@ -42,4 +42,4 @@ hívja meg.
 
 (8) Az erdészeti hatóság az előzetes tárgyalásra a védett természeti területnek nem minősülő Natura 2000 erdő esetében meghívja a természetvédelmi hatóságot.
 
-[^3]: A 3. § (4) bekezdés j) pontja a 151/2012. (XII. 29.) VM rendelet 43. §-a szerint módosított szöveg.
+[^4]: A 3. § (4) bekezdés j) pontja a 89/2016. (XII. 29.) FM rendelet 13. § (2) bekezdés a) pontja szerint módosított szöveg.

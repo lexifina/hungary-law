@@ -1,6 +1,6 @@
-## Az erdőtervezési körzetek, valamint a körzeteket alkotó helységek (név, erdészeti azonosító) listája a körzeti erdőtervezést végző megyei kormányhivatalok szerint
+## Az erdőtervezési körzetek, valamint a körzeteket alkotó helységek (név, erdészeti azonosító) listája a körzeti erdőtervezést végző járási hivatalok szerint[^24]
 
-## 1. Pest Megyei Kormányhivatal
+## 1.[^25] Pest Megyei Kormányhivatal Érdi Járási Hivatala
 
 ## 1.1. Alsó-Tápió-vidéki erdőtervezési körzet
 
@@ -762,7 +762,7 @@
 
 ## 1.17.5. Szigetmonostor (5550)
 
-## 2. Veszprém Megyei Kormányhivatal
+## 2.[^26] Veszprém Megyei Kormányhivatal Veszprémi Járási Hivatala
 
 ## 2.1. Bakonyszentlászlói erdőtervezési körzet
 
@@ -1286,7 +1286,7 @@
 
 ## 2.10.12. Zirc (8522)
 
-## 3. Vas Megyei Kormányhivatal
+## 3.[^27] Vas Megyei Kormányhivatal Szombathelyi Járási Hivatala
 
 ## 3.1. Alpokaljai erdőtervezési körzet
 
@@ -2106,7 +2106,7 @@
 
 ## 3.15.33. Zsira (3158)
 
-## 4. Zala Megyei Kormányhivatal
+## 4.[^28] Zala Megyei Kormányhivatal Zalaegerszegi Járási Hivatala
 
 ## 4.1. Baki erdőtervezési körzet
 
@@ -2644,7 +2644,7 @@
 
 ## 4.11.31. Zalavár (9418)
 
-## 5. Somogy Megyei Kormányhivatal
+## 5.[^29] Somogy Megyei Kormányhivatal Kaposvári Járási Hivatala
 
 ## 5.1. Barcsi erdőtervezési körzet
 
@@ -3180,7 +3180,7 @@
 
 ## 5.13.41. Zics (6091)
 
-## 6. Baranya Megyei Kormányhivatal
+## 6.[^30] Baranya Megyei Kormányhivatal Pécsi Járási Hivatala
 
 ## 6.1. Bátaszék-Bonyhádi erdőtervezési körzet
 
@@ -4038,7 +4038,7 @@
 
 ## 6.17.79. Villánykövesd (189)
 
-## 7. Bács-Kiskun Megyei Kormányhivatal
+## 7.[^31] Bács-Kiskun Megyei Kormányhivatal Kecskeméti Járási Hivatala
 
 ## 7.1. Alsó-Duna-menti erdőtervezési körzet
 
@@ -4576,7 +4576,7 @@
 
 ## 7.14.39. Újszentiván (2051)
 
-## 8. Hajdú-Bihar Megyei Kormányhivatal
+## 8.[^32] Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala
 
 ## 8.1. Baktalórántházai erdőtervezési körzet
 
@@ -5378,7 +5378,7 @@
 
 ## 8.10.51. Zagyvarékas (7048)
 
-## 9. Borsod-Abaúj-Zemplén Megyei Kormányhivatal
+## 9.[^33] Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala
 
 ## 9.1. Alsó-Hegyközi erdőtervezési körzet
 
@@ -5534,7 +5534,7 @@
 
 ## 9.4.23. Viszló (1713)
 
-## 9.5.[^18] Dél-Borsodi erdőtervezési körzet
+## 9.5.[^34] Dél-Borsodi erdőtervezési körzet
 
 ## 9.5.1. Alsózsolca (1774)
 
@@ -5660,7 +5660,7 @@
 
 ## 9.5.62. Vatta (1838)
 
-## 9.6.[^19]
+## 9.6.[^35]
 
 ## 9.7. Dél-Bükki erdőtervezési körzet
 
@@ -6106,7 +6106,7 @@
 
 ## 9.21.14. Varbóc (1724)
 
-## 10. Heves Megyei Kormányhivatal
+## 10.[^36] Heves Megyei Kormányhivatal Egri Járási Hivatala
 
 ## 10.1. Berceli erdőtervezési körzet
 
@@ -6758,8 +6758,19 @@
 
 ## 10.21.5. Verpelét (4102)
 
-2. számú melléklet a 11/2010. (II. 4.) FVM rendelethez[^20]
+2. számú melléklet a 11/2010. (II. 4.) FVM rendelethez[^37]
 
-[^18]: Az 1. melléklet 9.5. pontja a 69/2016. (X. 14.) FM rendelet 10. §-ával megállapított szöveg.
-[^19]: Az 1. melléklet 9.6. pontját a 69/2016. (X. 14.) FM rendelet 12. § (1) bekezdése hatályon kívül helyezte.
-[^20]: A 2. számú melléklet a 96/2011. (X. 17.) VM rendelet 13. §-a, a 69/2016. (X. 14.) FM rendelet 11. § és 12. § (2) bekezdése szerint módosított szöveg.
+[^24]: Az 1. számú melléklet címe a 89/2016. (XII. 29.) FM rendelet 13. § (2) bekezdés e) pontja szerint módosított szöveg.
+[^25]: Az 1. számú melléklet 1. pontja a 89/2016. (XII. 29.) FM rendelet 13. § (2) bekezdés f) pontja szerint módosított szöveg.
+[^26]: Az 1. számú melléklet 2. pontja a 89/2016. (XII. 29.) FM rendelet 13. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^27]: Az 1. számú melléklet 3. pontja a 89/2016. (XII. 29.) FM rendelet 13. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^28]: Az 1. számú melléklet 4. pontja a 89/2016. (XII. 29.) FM rendelet 13. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^29]: Az 1. számú melléklet 5. pontja a 89/2016. (XII. 29.) FM rendelet 13. § (2) bekezdés j) pontja szerint módosított szöveg.
+[^30]: Az 1. számú melléklet 6. pontja a 89/2016. (XII. 29.) FM rendelet 13. § (2) bekezdés k) pontja szerint módosított szöveg.
+[^31]: Az 1. számú melléklet 7. pontja a 89/2016. (XII. 29.) FM rendelet 13. § (2) bekezdés l) pontja szerint módosított szöveg.
+[^32]: Az 1. számú melléklet 8. pontja a 89/2016. (XII. 29.) FM rendelet 13. § (2) bekezdés m) pontja szerint módosított szöveg.
+[^33]: Az 1. számú melléklet 9. pontja a 89/2016. (XII. 29.) FM rendelet 13. § (2) bekezdés n) pontja szerint módosított szöveg.
+[^34]: Az 1. melléklet 9.5. pontja a 69/2016. (X. 14.) FM rendelet 10. §-ával megállapított szöveg.
+[^35]: Az 1. melléklet 9.6. pontját a 69/2016. (X. 14.) FM rendelet 12. § (1) bekezdése hatályon kívül helyezte.
+[^36]: Az 1. számú melléklet 10. pontja a 89/2016. (XII. 29.) FM rendelet 13. § (2) bekezdés o) pontja szerint módosított szöveg.
+[^37]: A 2. számú melléklet a 96/2011. (X. 17.) VM rendelet 13. §-a, a 69/2016. (X. 14.) FM rendelet 11. § és 12. § (2) bekezdése szerint módosított szöveg.

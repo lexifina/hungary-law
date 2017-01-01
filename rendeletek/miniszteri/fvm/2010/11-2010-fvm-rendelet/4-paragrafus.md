@@ -2,6 +2,6 @@
 
 (2) Az erdőtervezés alá vont védett természeti területnek nem minősülő, külön jogszabály szerinti Natura 2000 területeken a Natura 2000 fenntartási tervek, valamint Natura 2000 fenntartási terv hiányában vagy ha a természetvédelmi célokban, illetve az erdő állapotában bekövetkezett, a Natura fenntartási terv elkészítésekor előre nem látott változás ezt indokolja a Natura 2000 javaslat beszerzése érdekében az erdészeti hatóság – az előzetes tárgyalást megelőzően legalább 30 nappal – megkeresi a védett természeti területek természetvédelmi kezeléséért felelős szervet.
 
-(3)[^4] Az erdészeti hatóság az erdőtervezés alá vont területen lévő védett természeti terület és Natura 2000 terület vonatkozásában a védett természeti területek természetvédelmi kezeléséért felelős szervvel az előzetes tárgyalást megelőzően egyezteti az (1) bekezdésben foglalt adatok beépítését az erdőtervrendelet javaslatba.
+(3)[^5] Az erdészeti hatóság az erdőtervezés alá vont területen lévő védett természeti terület és Natura 2000 terület vonatkozásában a védett természeti területek természetvédelmi kezeléséért felelős szervvel az előzetes tárgyalást megelőzően egyezteti az (1) bekezdésben foglalt adatok beépítését az erdőtervrendelet javaslatba.
 
-[^4]: A 4. § (3) bekezdése a 96/2011. (X. 17.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.
+[^5]: A 4. § (3) bekezdése a 96/2011. (X. 17.) VM rendelet 10. § (2) bekezdésével megállapított szöveg.

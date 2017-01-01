@@ -1,6 +1,6 @@
 ## A körzeti erdőtervezés terepi munkái
 
-7. §[^6] (1) Az erdészeti hatóság az erdőtervezés alá vont területen a terepi bejárás során:
+7. §[^7] (1) Az erdészeti hatóság az erdőtervezés alá vont területen a terepi bejárás során:
 
 a) méréssel, adatgyűjtéssel meghatározza az Evt. 33. § (2) bekezdés c) pontja szerinti adatokat,
 
@@ -10,4 +10,4 @@ c) rögzíti az általa észlelt védett természeti értékekre vonatkozó adat
 
 (2) Az Egységes Országos Vetületi rendszerű erdészeti nyilvántartási térképek készítése során az erdőrészlet határainak meghatározásához csak olyan terepi adatgyűjtési eljárás során felvett adat, illetve az állami távérzékelési adatbázisban tárolt távérzékelési anyag használható fel, amelyeknél a pontmeghatározás pontossága legalább 3 méter.
 
-[^6]: A 7. § a 75/2015. (XI. 24.) FM rendelet 4. §-ával megállapított szöveg.
+[^7]: A 7. § a 75/2015. (XI. 24.) FM rendelet 4. §-ával megállapított szöveg.
