@@ -14,6 +14,4 @@
 
 61/C. § A 61/B. § szerinti jogról az érintettet az intézkedés során, vagy a kényszerítő eszköz alkalmazását követően megfelelően tájékoztatni kell.”
 
-(2) A Hvt. 61/B. § (6) bekezdése helyébe a következő rendelkezés lép:
-
-„(6) A panasz elbírálásáról hozott döntés közigazgatási perben támadható meg.”
+(2)
