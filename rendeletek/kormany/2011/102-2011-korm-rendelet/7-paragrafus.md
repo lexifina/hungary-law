@@ -1,6 +1,6 @@
 ## 4. A jogosultság megállapítása
 
-7. § (1)[^28] A közlekedési kedvezmény iránti kérelmet a lakóhely szerint illetékes, szociális hatóságként eljáró fővárosi és megyei kormányhivatalnál (a továbbiakban: hivatal) minden év március 31-éig és szeptember 30-áig lehet benyújtani.
+7. § (1)[^28] A közlekedési kedvezmény iránti kérelmet a lakóhely szerint illetékes hivatalnál minden év március 31-éig és szeptember 30-áig lehet benyújtani.
 
 (2) A kérelemben fel kell tüntetni
 
@@ -16,7 +16,7 @@ aa) a Fot. szerinti fogyatékossági támogatás megállapításáról szóló h
 
 ab) az Mr. 3. számú mellékletében meghatározott, hatályos igazolás másolatát, vagy
 
-ac)[^30] a rehabilitációs szakértői szerv vagy jogelődje által a közlekedőképesség minősítéséről kiadott, a 2. § a) pont ac) alpontjában meghatározott állapotot igazoló hatályos szakvélemény másolatát, vagy
+ac)[^30] a 8/A. § (1a) bekezdése szerinti szerv vagy jogelődje által a közlekedőképesség minősítéséről kiadott, a 2. § a) pont ac) alpontjában meghatározott állapotot igazoló hatályos szakvélemény másolatát, vagy
 
 ad)[^31] a súlyos mozgáskorlátozott személy közlekedőképességének minősítését elősegítő, rendelkezésre álló orvosi dokumentációt és egyéb iratokat, ha az aa)–ac) alpont szerinti iratok nem állnak rendelkezésre és a szükséges adatok a hivatal nyilvántartásában sem szerepelnek, vagy
 
@@ -34,7 +34,7 @@ db) b) pontja szerinti esetben a tanulói, képzési jogviszony fennállását i
 
 dc) c) pontja szerinti esetben a kérelmező nyilatkozatát a gyermek egyedülállóként nevelésének tényéről,
 
-dd)[^32] d) pontja szerinti esetben a rehabilitációs szakértői szervnek vagy jogelődjének a hadigondozásról szóló törvény szerinti hadieredetű fogyatkozás fennállását igazoló szakvéleményét, és
+dd)[^32] d) pontja szerinti esetben a hadigondozásról szóló törvény szerinti hadieredetű fogyatkozás fennállását igazoló szakvéleményt, és
 
 e) a súlyos mozgáskorlátozott, illetve az egyéb fogyatékossággal élő és a szállítást végző személy nyilatkozatát arról, hogy a 6. § (1) bekezdés a) pontja, (1a) bekezdés a) pontja és (2) bekezdése szerint nem részesült ő maga vagy más személy rá tekintettel közlekedési kedvezményben, és
 
@@ -56,11 +56,11 @@ b) az érvényes vezetői engedély fénymásolatát vagy a tanulói, képzési 
 
 (6)[^35] A (3) bekezdés b), c) és d) pontja, valamint a (4) bekezdés szerint igazolandó körülményeknek a kérelem benyújtásának időpontjában kell fennállniuk.
 
-[^28]: A 7. § (1) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 172. § (8) bekezdés c) pontja szerint módosított szöveg.
+[^28]: A 7. § (1) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 174. § (8) bekezdés a) pontja szerint módosított szöveg.
 [^29]: A 7. § (3) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^30]: A 7. § (3) bekezdés a) pont ac) alpontja a 70/2015. (III. 30.) Korm. rendelet 172. § (8) bekezdés d) pontja szerint módosított szöveg.
+[^30]: A 7. § (3) bekezdés a) pont ac) alpontja a 379/2016. (XII. 2.) Korm. rendelet 174. § (3) bekezdésével megállapított szöveg.
 [^31]: A 7. § (3) bekezdés a) pont ad) alpontja a 70/2015. (III. 30.) Korm. rendelet 172. § (1) bekezdésével megállapított szöveg.
-[^32]: A 7. § (3) bekezdés d) pont dd) alpontja a 70/2015. (III. 30.) Korm. rendelet 172. § (8) bekezdés e) pontja szerint módosított szöveg.
+[^32]: A 7. § (3) bekezdés d) pont dd) alpontja a 379/2016. (XII. 2.) Korm. rendelet 174. § (4) bekezdésével megállapított szöveg.
 [^33]: A 7. § (4) bekezdés nyitó szövegrésze az 509/2013. (XII. 29.) Korm. rendelet 19. §-a szerint módosított szöveg.
 [^34]: A 7. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 172. § (2) bekezdésével megállapított szöveg.
 [^35]: A 7. § (6) bekezdését a 61/2012. (III. 30.) Korm. rendelet 11. § (2) bekezdése iktatta be.

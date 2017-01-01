@@ -38,7 +38,7 @@ f)[^8] önálló személygépkocsi használó: az a súlyos mozgáskorlátozott,
 
 fa) a 4. § (1) bekezdés c) pontja esetében három- vagy négykerekű segédmotoros kerékpár vezetésére jogosító érvényes vezetői engedéllyel rendelkezik, vagy
 
-fb)[^9] az 5. § (1) bekezdés a) pontja szerinti esetben gépjárművezetői alkalmasságát az átalakítás előírásával a rehabilitációs szakértői szervként eljáró fővárosi és megyei kormányhivatal, a Nemzeti Rehabilitációs és Szociális Hivatal (a továbbiakban együtt: szakértői szerv) vagy jogelődje megállapította,
+fb)[^9] az 5. § (1) bekezdés a) pontja szerinti esetben a gépjárművezetői alkalmasságának az átalakítás előírása mellett történő megállapításáról szóló irattal rendelkezik,
 
 és nem áll járművezetéstől eltiltó jogerős bírói ítélet vagy szabálysértési határozat hatálya alatt;
 
@@ -63,7 +63,7 @@ hb)[^14] a 18. életévét nem töltötte be, és magasabb összegű családi p�
 [^6]: A 2. § a) pont ac) alpontja a 70/2015. (III. 30.) Korm. rendelet 172. § (9) bekezdése szerint módosított szöveg.
 [^7]: A 2. § e) pontja a 61/2012. (III. 30.) Korm. rendelet 16. § b) pontja szerint módosított szöveg.
 [^8]: A 2. § f) pontja a 250/2012. (IX. 7.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^9]: A 2. § f) pont fb) alpontja a 70/2015. (III. 30.) Korm. rendelet 172. § (8) bekezdés a) pontja szerint módosított szöveg.
+[^9]: A 2. § f) pont fb) alpontja a 379/2016. (XII. 2.) Korm. rendelet 174. § (1) bekezdésével megállapított szöveg.
 [^10]: A 2. § g) pont nyitó szövegrésze a 250/2012. (IX. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.
 [^11]: A 2. § g) pont gb) alpontja a 250/2012. (IX. 7.) Korm. rendelet 9. § b) pontja szerint módosított szöveg.
 [^12]: A 2. § g) pont gc) alpontját a 189/2011. (IX. 19.) Korm. rendelet 1. §-a iktatta be, szövege a 250/2012. (IX. 7.) Korm. rendelet 9. § a) pontja szerint módosított szöveg.

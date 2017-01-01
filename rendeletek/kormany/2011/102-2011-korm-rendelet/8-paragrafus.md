@@ -16,7 +16,7 @@ b) a tárgyév szeptember 30-áig benyújtott kérelmek esetén a tárgyév dece
 
 a) a MEOSZ elnöke által meghatalmazott képviselő,
 
-b)[^40] az első fokú rehabilitációs szakértői szerv által felkért vagy kijelölt személy,
+b)[^40] a 8/A. § (1a) bekezdés a) pontja szerinti szerv által felkért vagy kijelölt személy,
 
 c) a hivatal által felkért személy.
 
@@ -32,5 +32,5 @@ b) szállítást végző személy esetén fel kell tüntetni a szállítást vé
 [^37]: A 8. § (2) bekezdése a 250/2012. (IX. 7.) Korm. rendelet 5. § (1) bekezdésével megállapított szöveg.
 [^38]: A 8. § (2a) bekezdését a 61/2012. (III. 30.) Korm. rendelet 12. § 2) bekezdése iktatta be, szövege a 250/2012. (IX. 7.) Korm. rendelet 9. § g) pontja szerint módosított szöveg.
 [^39]: A 8. § (2b) bekezdését a 250/2012. (IX. 7.) Korm. rendelet 5. § (2) bekezdése iktatta be.
-[^40]: A 8. § (3) bekezdés b) pontja a 70/2015. (III. 30.) Korm. rendelet 172. § (8) bekezdés f) pontja szerint módosított szöveg.
+[^40]: A 8. § (3) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 174. § (8) bekezdés b) pontja szerint módosított szöveg.
 [^41]: A 8. § (5) bekezdés a) pontja a 189/2011. (IX. 19.) Korm. rendelet 11. § (1) bekezdés e) pontja szerint módosított szöveg.

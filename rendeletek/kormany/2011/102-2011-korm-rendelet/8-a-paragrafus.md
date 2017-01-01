@@ -2,7 +2,15 @@
 
 8/A. § (1)[^43] Ha a kérelmező a 7. § (3) bekezdés a) pont aa)–ac) alpontja szerinti iratok egyikét sem csatolta, és a szükséges adatok a hivatal nyilvántartásában sem szerepelnek, a hivatal – a 7. § (3) bekezdés a) pont ad) alpontja szerinti iratok figyelembevételével – a közlekedőképesség szakkérdését is vizsgálja.
 
-(2)[^44] Közlekedőképességében súlyosan akadályozott az a személy, akinek a komplex minősítésre vonatkozó részletes szabályokról szóló 7/2012. (II. 14.) NEFMI rendelet 1. melléklete szerinti
+(1a)[^44] A közlekedőképességet
+
+a) első fokon a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló kormányrendeletben első fokon eljáró rehabilitációs szakértői szervként kijelölt szerv,
+
+b) másodfokon a fővárosi és megyei kormányhivatal
+
+## vizsgálja.
+
+(2)[^45] Közlekedőképességében súlyosan akadályozott az a személy, akinek a komplex minősítésre vonatkozó részletes szabályokról szóló 7/2012. (II. 14.) NEFMI rendelet 1. melléklete szerinti
 
 a) mozgásszervi részkárosodása,
 
@@ -16,21 +24,22 @@ e) az egészségi állapot meghatározásának módszerére vonatkozó szabályo
 
 eléri vagy meghaladja a 40%-ot, közlekedési képessége a d4452, d4500, d4501 vagy d4702 FNO kódok szerint legalább súlyosan nehezített, és ezen állapota várhatóan legalább három éven keresztül fennáll.
 
-(3)[^45] Az (1) bekezdés szerinti szakkérdés vizsgálatában rehabilitációs szakértői szervként eljáró hivatal egyéb támogatás, mentesség, kedvezmény igénylése céljából, erre irányuló kérelem esetén szakvéleményt ad a közlekedőképességről is. A szakvélemény a jogszabályban meghatározottakon túl tartalmazza
+(3)[^46] Az (1) bekezdés szerinti szakkérdés vizsgálatában rehabilitációs szakértői szervként eljáró hivatal egyéb támogatás, mentesség, kedvezmény igénylése céljából, erre irányuló kérelem esetén szakvéleményt ad a közlekedőképességről is. A szakvélemény a jogszabályban meghatározottakon túl tartalmazza
 
 a) a közlekedőképesség súlyos akadályozottságának fennállását vagy fenn nem állását,
 
 b) a következő felülvizsgálat időpontját.
 
-(3a)[^46] A közlekedőképesség minősítését a közlekedési kedvezmény tárgyában hozott, a közlekedőképesség súlyos akadályozottságának hiányára alapozott elutasító döntés jogerőre emelkedését, vagy – más szerv megkeresésére vagy a komplex minősítés keretében elvégzett minősítés esetén – a rehabilitációs hatóság vagy rehabilitációs szakértői szerv közlekedőképesség minősítésére vonatkozó szakvéleménye kiállítását követő 12 hónapon belül csak akkor kell elvégezni, ha a kezelőorvos igazolja, hogy az igénylő állapota az elutasítás óta rosszabbodott; egyébként a kérelmet érdemi vizsgálat nélkül el kell utasítani.
+(3a)[^47] A közlekedőképesség minősítését a közlekedési kedvezmény tárgyában hozott, a közlekedőképesség súlyos akadályozottságának hiányára alapozott elutasító döntés jogerőre emelkedését, vagy – más szerv megkeresésére vagy a komplex minősítés keretében elvégzett minősítés esetén – a 8/A. § (1a) bekezdése szerinti szerv közlekedőképesség minősítésére vonatkozó szakvéleménye kiállítását követő 12 hónapon belül csak akkor kell elvégezni, ha a kezelőorvos igazolja, hogy az igénylő állapota az elutasítás óta rosszabbodott; egyébként a kérelmet érdemi vizsgálat nélkül el kell utasítani.
 
 (4) A közlekedőképesség vizsgálata a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló törvény szerinti komplex minősítés keretében is kérhető.
 
-(5)[^47]
+(5)[^48]
 
 [^42]: A 4/A. alcímet (8/A. §) a 61/2012. (III. 30.) Korm. rendelet 13. §-a iktatta be.
 [^43]: A 8/A. § (1) bekezdése a 70/2015. (III. 30.) Korm. rendelet 172. § (3) bekezdésével megállapított szöveg.
-[^44]: A 8/A. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 172. § (4) bekezdésével megállapított szöveg.
-[^45]: A 8/A. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 139. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
-[^46]: A 8/A. § (3a) bekezdését a 247/2015. (IX. 8.) Korm. rendelet 6. §-a iktatta be.
-[^47]: A 8/A. § (5) bekezdését az 509/2013. (XII. 29.) Korm. rendelet 20. §-a hatályon kívül helyezte.
+[^44]: A 8/A. § (1a) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 174. § (5) bekezdése iktatta be.
+[^45]: A 8/A. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 172. § (4) bekezdésével megállapított szöveg.
+[^46]: A 8/A. § (3) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 139. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^47]: A 8/A. § (3a) bekezdését a 247/2015. (IX. 8.) Korm. rendelet 6. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 174. § (8) bekezdés c) pontja szerint módosított szöveg.
+[^48]: A 8/A. § (5) bekezdését az 509/2013. (XII. 29.) Korm. rendelet 20. §-a hatályon kívül helyezte.
