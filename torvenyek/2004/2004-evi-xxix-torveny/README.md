@@ -11,3 +11,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2004-29-00-00
 | 2012-01-01 | 2011. évi CCI. törvény | 2004-29-00-00.15 |
 | 2013-07-01 | 2007. évi LXXXII. törvény | 2004-29-00-00.16 |
 | 2014-01-01 | 2013. évi CLXV. törvény | 2004-29-00-00.17 |
+| 2017-01-01 | 2016. évi CIII. törvény | 2004-29-00-00.18 |
