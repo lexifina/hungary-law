@@ -10,4 +10,4 @@ d) megküldi a miniszternek a közgyűlés határozatát, valamint a miniszterne
 
 e) ha e törvény másképpen nem rendelkezik, képviseli a Szövetséget,
 
-f)
+f) megbízást ad a tagvállalatok, valamint a készletek ellenőrzésére.

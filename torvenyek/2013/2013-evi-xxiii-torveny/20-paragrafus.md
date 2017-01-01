@@ -2,7 +2,7 @@
 
 (2) Rendkívüli közgyűlést kell összehívni, ha az összes szavazatok legalább 15%-ával rendelkező tagok – ok és cél megjelölésével – írásban kérik.
 
-(3) A közgyűlés összehívásáról az igazgató értesíti a tagokat – a közgyűlés időpontját megelőzően legalább 4 héttel – a napirendi javaslat egyidejű megküldésével.
+(3) A közgyűlés összehívásáról az igazgató értesíti a tagokat – a közgyűlés időpontját megelőzően legalább 15 nappal – a napirendi javaslat egyidejű megküldésével.
 
 (4) A közgyűlés határozatképes, ha azon mindkét szekcióban az összes szavazatok több mint 50%-át képviselő tag jelen van.
 

@@ -1,6 +1,6 @@
 21. § A közgyűlés feladata
 
-a) a Szövetség alapszabályának elfogadása és módosítása,
+a) az alapszabály elfogadása és módosítása,
 
 b) az igazgatótanács és a felügyelő bizottság tagjainak megválasztása, felmentése, tagjai díjazásának megállapítása, az igazgató és az igazgatóhelyettes megválasztása, és felmentése,
 

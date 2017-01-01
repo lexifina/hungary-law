@@ -18,7 +18,7 @@ c) a számvitelről szóló 2000. évi C. törvény (a továbbiakban: Számvtv.)
 
 (6) A felügyelő bizottság tagjai személyesen kötelesek eljárni. A Szövetség vezetőitől felvilágosítást, jelentést kérhetnek, a Szövetség könyveit és iratait megvizsgálhatják.
 
-(7) Amennyiben a Szövetség tevékenysége jogszabályba, a Szövetség alapszabályába vagy határozatába ütközik, a felügyelő bizottság jogosult rendkívüli közgyűlést összehívni és annak napirendjére javaslatot tenni.
+(7) Amennyiben a Szövetség tevékenysége jogszabályba, az alapszabályba vagy határozatába ütközik, a felügyelő bizottság jogosult rendkívüli közgyűlést összehívni és annak napirendjére javaslatot tenni.
 
 (8) Ha a felügyelő bizottság tagjának megbízatása az (1) bekezdésben meghatározott időtartam letelte előtt megszűnik, a hátralévő időre új tagot kell választani. Az új tagot a legközelebbi közgyűlésen választják meg.
 

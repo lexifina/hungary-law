@@ -14,7 +14,7 @@ e) javaslatot tesz a közgyűlésnek e törvényben meghatározott feladatainak 
 
 f) felügyeli az igazgatóság tevékenységét,
 
-g) megbízást ad az e törvényben meghatározott ellenőrzés folytatására,
+g) megbízást adhat az e törvényben meghatározott ellenőrzés folytatására,
 
 h) megvitat minden olyan kérdést, amelyet az igazgatóság számára előterjeszt,
 

@@ -1,9 +1,11 @@
-41. § (1) Nem kell tagi hozzájárulást fizetni vagy a befizetett tagi hozzájárulás a 42. § (3) bekezdése szerint visszaigényelhető a 4. mellékletben meghatározott kőolajtermékek azon mennyisége után, amelyet a tag
+41. § (1) Az alapszabályban meghatározott feltételekkel visszaigényelhető a 4. mellékletben meghatározott kőolajtermékek után bevallott tagi hozzájárulásnak az a része, amelyet a tag igazoltan
 
-a) katonai célra,
+a) katonai célra hoz be, vagy értékesít közvetlenül a végső felhasználó számára,
 
-b) Magyarország vagy az Európai Unió más tagállamának készletezési kötelezettsége teljesítése érdekében, vagy
+b) gazdasági célú légiközlekedési tevékenységet végző szervezet nemzetközi légiforgalomban részt vevő – külföldi vagy magyar lajstromjelű – légijárművek üzemeltetésére használ fel, vagy számára ilyen célra értékesítenek, vagy a légitársaság saját felhasználásra tartalékol,
 
-c) igazoltan vegyipari, kenéstechnikai, illetve korrózióvédelmi célokra hoz be, vagy értékesít közvetlenül a végső felhasználó számára.
+c) vegyipari, kenéstechnikai, illetve korrózióvédelmi célokra hoz be, vagy értékesít közvetlenül a végső felhasználó számára.
 
-(2) Nem kell tagi hozzájárulást fizetni vagy a tagi hozzájárulás a 42. § (3) bekezdése szerint visszaigényelhető a 4. mellékletben meghatározott kőolajtermékek azon mennyisége után, amelyet a gazdasági célú légiközlekedési tevékenységet végző szervezet nemzetközi légiforgalomban részt vevő – külföldi vagy magyar lajstromjelű – légijárműve üzemeltetésére használ fel, vagy számára ilyen célra értékesítenek, vagy a légitársaság saját felhasználásra tartalékol.
+(2) Az alapszabályban meghatározottak szerint, az ott rögzített feltételek fennállása esetén a tag évente kérelmet terjeszthet elő a Szövetséghez, amely alapján a Szövetség igazgatója engedélyezheti, hogy a tag az (1) bekezdés szerinti esetekben a kőolajtermékek után fizetendő tagi hozzájárulás összegét havonta csökkentse a visszaigényelhető tagi hozzájárulás összegével.
+
+(3) Nem kell tagi hozzájárulást fizetni a 4. mellékletben meghatározott kőolajtermékek azon mennyisége után, amelyet a tag Magyarország vagy nemzetközi megállapodás alapján más állam készletezési kötelezettsége teljesítése érdekében hoz be vagy értékesít.

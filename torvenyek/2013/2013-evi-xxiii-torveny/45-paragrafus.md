@@ -4,7 +4,7 @@
 
 (2) A miniszter felügyeleti jogkörében:
 
-a) jóváhagyja a Szövetség alapszabályát és annak módosítását,
+a) közzéteszi az alapszabályt és annak módosítását,
 
 b) kötelezheti az igazgatótanácsot a közgyűlés összehívására, ha a Szövetség testületeinek jogszabálysértő határozatát észleli,
 

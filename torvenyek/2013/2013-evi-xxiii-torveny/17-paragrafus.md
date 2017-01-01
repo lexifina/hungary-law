@@ -1,6 +1,6 @@
 17. § (1) A Szövetség a miniszter által jóváhagyott alapszabály alapján működik.
 
-(2) A Szövetség alapszabályában meg kell határozni:
+(2) Az alapszabályban meg kell határozni:
 
 a) a Szövetség székhelyét,
 
@@ -32,12 +32,12 @@ k) a földgázkészletezés rendszerének részletes szabályait,
 
 l) a Szövetség adatszolgáltatási kötelezettségét,
 
-m) a 38. § (3) bekezdése szerinti fizetési haladék esetén alkalmazandó kamat és biztosíték összegét, valamint a fizetési haladék iránti kérelem elbírálása során alkalmazandó mérlegelési szempontokat,
+m)
 
-n) a 40. § (6) bekezdése szerinti vagyoni biztosítékadás részletszabályait,
+n)
 
 o) mindazokat a kérdéseket, amelyeket e törvény és az Fbkt. kötelezően előír.
 
-(3) A Szövetség alapszabályát a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a Szövetség honlapján közzé kell tenni.
+(3) Az alapszabályt a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben és a Szövetség honlapján közzé kell tenni.
 
-(4) A Szövetség alapszabálya és annak módosítása a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben való közzétételtől kezdődően alkalmazandó.
+(4) Az alapszabály és annak módosítása a Magyar Közlöny mellékleteként megjelenő Hivatalos Értesítőben való közzétételtől kezdődően alkalmazandó.

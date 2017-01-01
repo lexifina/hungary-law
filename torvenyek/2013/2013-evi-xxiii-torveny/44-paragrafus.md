@@ -8,7 +8,7 @@ b) a tagi hozzájárulás befizetésének ellenőrzéséhez,
 
 c) a Szövetség adatszolgáltatási kötelezettségének teljesítéséhez
 
-a tagok által szabad forgalomba bocsátott, kitárolt, behozott, feladott, beszerzett, felhasznált, hajók üzemanyag-tartályba betöltött, kivitt, szabad forgalomból visszavont – a törvény hatálya alá tartozó termékkörbe tartozó – kőolaj és kőolajtermékek mennyiségéről.
+a tagok által szabad forgalomba bocsátott, kitárolt, behozott, feladott, beszerzett, felhasznált, hajók és légi járművek üzemanyag-tartályba betöltött, kivitt, szabad forgalomból visszavont – a törvény hatálya alá tartozó termékkörbe tartozó – kőolaj és kőolajtermékek mennyiségéről.
 
 (2) A Központi Statisztikai Hivatal adatszolgáltatása nem terjedhet ki a statisztikáról szóló törvény szerinti egyedi adatokra.
 
