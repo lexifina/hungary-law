@@ -14,8 +14,8 @@ a) a légiközlekedési célra igényelt légtérben a légiforgalom biztonságo
 
 b) a nem légiközlekedési célra igényelt légtérben a tevékenységnek a légtér határain belül történő végrehajtásáért.
 
-(5)[^3] A légtérnek a (3) bekezdésben meghatározott igénybevételéhez a katonai légügyi hatóság ad engedélyt.
+(5)[^3]
 
 [^1]: Az 1. § (3) bekezdése a 177/2011. (IX. 1.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (4) bekezdését a 177/2011. (IX. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^3]: Az 1. § (5) bekezdését a 177/2011. (IX. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^3]: Az 1. § (5) bekezdését a 177/2011. (IX. 1.) Korm. rendelet 1. § (2) bekezdése iktatta be, hatályon kívül helyezte a 382/2016. (XII. 2.) Korm. rendelet 28. § a) pontja.
