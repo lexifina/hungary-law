@@ -24,4 +24,4 @@ a közgyűlés által erre kijelölt lakásszövetkezeti szerv (a továbbiakban:
 
 (5) A (4) bekezdésben meghatározott személyes adatokat a lakásszövetkezeti szerv a tisztségviselő választásának időpontjáig vagy – a megbízatás elfogadása esetén – a tisztségviselői megbízatás megszűnéséig kezeli.
 
-(6) A tisztségviselő a megbízatás elfogadását megelőzően, illetve a közgyűlés felhívására a megbízásának időtartama alatt a lakásszövetkezetnél folytatott tevékenységével összefüggésben a nemleges köztartozásról szóló igazolást a lakásszövetkezeti szerv részére köteles bemutatni.
+(6) A tisztségviselő a megbízatás elfogadását megelőzően, illetve a közgyűlés felhívására a megbízásának időtartama alatt a lakásszövetkezetnél folytatott tevékenységével összefüggésben a nemleges köztartozásról szóló igazolást – amennyiben a köztartozásmentes adózói adatbázisban nem szerepel – a lakásszövetkezeti szerv részére köteles bemutatni.
