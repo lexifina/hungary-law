@@ -1,6 +1,6 @@
 ## Az Európai Unió jogának való megfelelés
 
-27. § (1)[^14] Ez a rendelet a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló, – az Európai Parlament és Tanács 1025/2012/EU rendeletével (2012. október 25.) módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja, az 1. cikk 6–10. pontja, a 2–7. cikk, valamint az I. melléklet kivételével.
+27. § (1)[^15] Ez a rendelet a műszaki szabványok és szabályok terén történő információszolgáltatási eljárás és az információs társadalom szolgáltatásaira vonatkozó szabályok megállapításáról szóló, – az Európai Parlament és Tanács 1025/2012/EU rendeletével (2012. október 25.) módosított – 1998. június 22-i 98/34/EK európai parlamenti és tanácsi irányelvnek való megfelelést szolgálja, az 1. cikk 6–10. pontja, a 2–7. cikk, valamint az I. melléklet kivételével.
 
 (2) Ez a rendelet a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg
 
@@ -8,4 +8,4 @@ a) a Tanács 2679/98/EK rendelete (1998. december 7.) az áruknak a tagállamok 
 
 b) az Európai Parlament és a Tanács 764/2008/EK rendelete (2008. július 9.) az egyes nemzeti műszaki szabályoknak a valamely másik tagállamban jogszerűen forgalmazott termékekre történő alkalmazására vonatkozó eljárások megállapításáról és a 3052/95/EK határozat hatályon kívül helyezéséről – 3. cikk, 9. cikk (1) bekezdés, 10. cikk, 12. cikk (1) bekezdés és 14. cikk [a III. Fejezet és a 25. § a) pont].
 
-[^14]: A 27. § (1) bekezdése a 78/2013. (III. 13.) Korm. rendelet 25. §-ával megállapított szöveg.
+[^15]: A 27. § (1) bekezdése a 78/2013. (III. 13.) Korm. rendelet 25. §-ával megállapított szöveg.

@@ -16,13 +16,13 @@ ac) az aa) és ab) alpontban említett jogszabályi rendelkezések végrehajtás
 
 b) a hatóságok és a fellebbezés elbírálására jogosult hatóságok, továbbá a felügyeleti szervek elérhetőségi adataiban bekövetkező változásokat a az érintett hatóság, illetve szerv;
 
-c)[^7] az igazságügyért felelős miniszter a hatósági eljárásban rendelkezésre álló jogorvoslatokra vonatkozó általános tájékoztatást;
+c)[^8] az igazságügyért felelős miniszter a hatósági eljárásban rendelkezésre álló jogorvoslatokra vonatkozó általános tájékoztatást;
 
-d)[^8] az igazságügyért felelős miniszter
+d)[^9] az igazságügyért felelős miniszter
 
 da) a kölcsönös elismerés elvére vonatkozó általános tájékoztatást, valamint
 
-db)[^9] a 764/2008/EK rendeletnek a Magyarországon történő alkalmazására vonatkozó általános tájékoztatást.
+db)[^10] a 764/2008/EK rendeletnek a Magyarországon történő alkalmazására vonatkozó általános tájékoztatást.
 
 (3) A (2) bekezdés a) pontjában előírt tájékoztatás adattartalmát a 6. melléklet határozza meg.
 
@@ -42,6 +42,6 @@ c) c) és d) pontja szerinti tájékoztatások tartalmában bekövetkező válto
 
 (7) Az adatbázis nyilvános, azt a termékinformációs kapcsolattartó pont honlapján magyar és angol nyelven, bárki által hozzáférhető és kereshető módon közzé kell tenni.
 
-[^7]: A 19. § (2) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 446. § c) pontja szerint módosított szöveg.
-[^8]: A 19. § (2) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 446. § a) pontja szerint módosított szöveg.
-[^9]: A 19. § (2) bekezdés d) pont db) alpontja a 144/2012. (VII. 3.) Korm. rendelet 8. §-a szerint módosított szöveg.
+[^8]: A 19. § (2) bekezdés c) pontja a 221/2014. (IX. 4.) Korm. rendelet 446. § c) pontja szerint módosított szöveg.
+[^9]: A 19. § (2) bekezdés d) pontja a 221/2014. (IX. 4.) Korm. rendelet 446. § a) pontja szerint módosított szöveg.
+[^10]: A 19. § (2) bekezdés d) pont db) alpontja a 144/2012. (VII. 3.) Korm. rendelet 8. §-a szerint módosított szöveg.
