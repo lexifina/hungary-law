@@ -1,11 +1,5 @@
-## 6. Egyszerűsített átadás
+12. § (1) A terhelttel szemben elrendelt ideiglenes kényszerintézkedésről a miniszter értesíti a tagállami igazságügyi hatóságot az európai elfogatóparancs haladéktalan megküldése érdekében.
 
-12. § (1) A Fővárosi Törvényszék elrendeli a keresett személy átadási letartóztatását és átadását (egyszerűsített átadás), ha
+(2) Az európai elfogatóparancsot, illetve a tagállami igazságügyi hatóság által megküldött kiegészítő információkat a miniszter fogadja, és azt haladéktalanul megküldi a bíróságnak.
 
-a) az európai elfogatóparancs végrehajtásának és az átadásnak a feltételei fennállnak, és
-
-b) a keresett személy – a megfelelő figyelmeztetést követően – az átadásába beleegyezik, ebben az esetben a figyelmeztetést és a beleegyezést, valamint adott esetben a 30. §-ban említett specialitás szabálya alkalmazásának jogáról való kifejezett lemondást jegyzőkönyvben rögzíti.
-
-(2) Az (1) bekezdésben meghatározott beleegyezés nem vonható vissza.
-
-(3) Az egyszerűsített átadás elrendelése ellen fellebbezésnek nincs helye.
+(3) Az európai elfogatóparancs, illetve a tagállami igazságügyi hatóság által megküldött kiegészítő információk megérkezését követően a bíróság tárgyalást tart. A bíróság a terhelt részére átadja az európai elfogatóparancs másolatát, ha arra az átadási eljárás során még nem került sor.

@@ -1,4 +1,4 @@
-77. § (1) A nyomozási bíró a felügyeleti intézkedést elrendelő tagállami határozat elismerését és a végrehajtását megtagadja, ha
+77. § (1) A nyomozási bíró a felügyeleti intézkedést elrendelő tagállami határozat elismerését és a végrehajtását megtagadhatja, ha
 
 a) a határozat alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény;
 
@@ -16,7 +16,9 @@ g) ha a magyar törvény szerint a büntethetőség elévült, feltéve, hogy a 
 
 h) a végrehajtás ellenőrzését magyar törvény kizárja;
 
-i) a keresett személy gyermekkor miatt nem büntethető.
+i) a keresett személy gyermekkor miatt nem büntethető;
+
+j) a felügyeleti intézkedés megsértése miatt kibocsátott európai elfogatóparanccsal kapcsolatos eljárásban a keresett személy átadása az 5. §-ban meghatározott okból megtagadható.
 
 (2) A nyomozási bíró a felügyeleti intézkedést elrendelő tagállami határozat elismerését és végrehajtását nem tagadhatja meg az adókkal és az illetékekkel, a vámokkal és a devizával kapcsolatos bűncselekmények esetén amiatt, hogy a magyar jog nem ismer ugyanolyan adót, illetéket, valamint vámmal, illetve adóval, illetékkel azonos hatású díjat, vagy nem tartalmaz ugyanolyan típusú szabályokat az adó-, illeték-, valamint vám- és devizaszabályozás terén, mint a kibocsátó tagállam joga.
 

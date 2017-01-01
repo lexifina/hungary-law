@@ -1,5 +1,13 @@
-## 9. Eljárás mentességet élvező személyek esetében
+## 8. Egyszerűsített átadás
 
-18. § (1) Ha a keresett személyt nemzetközi jogon vagy közjogi tisztség betöltésén alapuló mentesség illeti meg Magyarország területén, a 16. §-ban előírt határidőket attól a naptól kell számítani, amelyen a Fővárosi Törvényszékre érkezik a mentesség felfüggesztéséről, illetve a büntetőeljárás megindításához való előzetes hozzájárulásról szóló értesítés.
+18. § (1) Ha a terhelt az átadásba beleegyezik, és az átadás feltételei fennállnak, a Fővárosi Törvényszék elrendeli a terhelt átadási letartóztatását és egyszerűsített átadását.
 
-(2) A mentesség felfüggesztése érdekében a Fővárosi Törvényszék haladéktalanul megkeresi a nemzetközi jogon vagy a közjogi tisztség betöltésén alapuló mentesség ügyében döntési jogkörrel rendelkező szervet, illetve személyt. Ha a mentesség felfüggesztése egy másik állam vagy valamely nemzetközi szervezet hatáskörébe tartozik, e tényről a szükséges intézkedés megtétele érdekében – a miniszter útján – értesíti a kibocsátó tagállami igazságügyi hatóságot.
+(2) A Fővárosi Törvényszék az átadási letartóztatás és egyszerűsített átadás elrendeléséről az európai elfogatóparancs megérkezését megelőzően is rendelkezhet.
+
+(3) Ha a terhelt az átadásba beleegyezik, a Fővárosi Törvényszék az átadási letartóztatásról és egyszerűsített átadásról a terhelt beleegyezésétől számított tíz napon belül dönt.
+
+(4) Ha kivételes esetben az átadási letartóztatásról és egyszerűsített átadásról szóló határozat az (3) bekezdésben meghatározott határidőn belül nem hozható meg, a 16. § (2) és (3) bekezdését megfelelően alkalmazni kell azzal, hogy a Fővárosi Törvényszék a határidőt legfeljebb tíz nappal hosszabbíthatja meg.
+
+(5) Az átadási letartóztatás és egyszerűsített átadás elrendelése ellen fellebbezésnek nincs helye.
+
+(6) Az átadási letartóztatás és egyszerűsített átadás elrendelése esetén az egyszerűsített átadás végrehajtására e törvénynek az átadás végrehajtására vonatkozó szabályait megfelelően alkalmazni kell.

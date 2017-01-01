@@ -1,4 +1,4 @@
-139. § (1) A bíróság az alternatív szankciót kiszabó tagállami határozat elismerését és végrehajtását megtagadja, ha
+139. § (1) A bíróság az alternatív szankciót kiszabó tagállami határozat elismerését és végrehajtását megtagadhatja, ha
 
 a) az alternatív szankciót kiszabó tagállami határozat alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény;
 
@@ -20,11 +20,11 @@ i) a tagállami hatóság által megküldött tanúsítvány hiányos, pontatlan
 
 j) az alternatív szankciót kiszabó tagállami határozat olyan orvosi kezelést rendel el, amelyet Magyarország a magyar jognak megfelelő átalakítása ellenére sem tud végrehajtani;
 
-k) az alternatív szankciót kiszabó tagállami határozat alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik, és a bűncselekményre a magyar törvény szerint közkegyelem terjed ki;
+k) az alternatív szankciót kiszabó tagállami határozat alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik;
 
 l) a felfüggesztett szabadságvesztés, a próbára bocsátás, vagy a feltételes szabadságra bocsátás tagállami határozatban megállapított próbaideje, tartama, illetve a sportrendezvények látogatásától való eltiltás tartama nem éri el a hat hónapot.
 
-(2) A bíróság az alternatív szankciót kiszabó tagállami határozat elismerését és végrehajtását megtagadja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami joggal összhangban
+(2) A bíróság az alternatív szankciót kiszabó tagállami határozat elismerését és végrehajtását megtagadhatja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami joggal összhangban
 
 a) a terheltet megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra vagy arról más módon hivatalosan tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
 
@@ -42,4 +42,4 @@ c) az alternatív szankciót kiszabó tagállami határozat kézbesítése megt�
 
 (4)
 
-(5) A bíróság haladéktalanul tájékoztatja a tagállami hatóságot, ha az alternatív szankciót kiszabó tagállami határozat végrehajtásának megkezdése akadályba ütközik, különösen, ha az elítélt Magyarország területén lakóhellyel vagy tartózkodási hellyel már nem rendelkezik.
+(5) A bíróság írásban, haladéktalanul tájékoztatja a tagállami hatóságot, ha az alternatív szankciót kiszabó tagállami határozat végrehajtásának megkezdése akadályba ütközik, különösen, ha az elítélt Magyarország területén lakóhellyel vagy tartózkodási hellyel már nem rendelkezik.

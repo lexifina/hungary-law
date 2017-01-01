@@ -1,4 +1,4 @@
-95. § (1) A biztosítási intézkedést elrendelő tagállami határozat elismerését és végrehajtását a magyar igazságügyi hatóság megtagadja, ha
+95. § (1) A biztosítási intézkedést elrendelő tagállami határozat elismerését és végrehajtását a magyar igazságügyi hatóság megtagadhatja, ha
 
 a) a 94. § (2)–(3) bekezdés szerinti esetben a határozat alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény;
 

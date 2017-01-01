@@ -10,4 +10,4 @@ d) a tagállami hatóság a határozat hatályon kívül helyezéséről, vissza
 
 (2) Az alternatív szankciót kiszabó tagállami határozat végrehajtását a bíróság haladéktalanul megszünteti, ha a tagállamban az elítélt ellen új büntetőeljárás indult, és a végrehajtás megszüntetését a tagállami hatóság kéri.
 
-(3) A végrehajtás megszüntetéséről a bíróság haladéktalanul értesíti a tagállami hatóságot.
+(3) A végrehajtás megszüntetéséről a bíróság írásban, haladéktalanul értesíti a tagállami hatóságot.

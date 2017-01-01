@@ -1,19 +1,13 @@
-6. § (1) Az európai elfogatóparancs végrehajtását a Fővárosi Törvényszék megtagadja, ha azt olyan határozat végrehajtása céljából bocsátották ki, amelyet a keresett személy távollétében hoztak.
+## 3. Eljárás több európai elfogatóparancs, vagy harmadik ország kiadatási kérelmének egyidejű elbírálása esetén
 
-(2) Az (1) bekezdés nem alkalmazható, ha a kibocsátó tagállam jogával összhangban
+6. § (1) Ha ugyanazon terhelt ellen két vagy több tagállam bocsátott ki európai elfogatóparancsot, és az átadás feltételei több tagállam vonatkozásában is fennállnak, a bíróság az összes körülmény mérlegelésével dönt arról, hogy a terhelt melyik európai elfogatóparancs alapján kerüljön átadásra. A bíróság a döntés meghozatalakor figyelemmel van különösen a bűncselekmény súlyára és elkövetési helyére, az európai elfogatóparancsok kibocsátásának időpontjára, valamint arra, hogy az európai elfogatóparancsot büntetőeljárás lefolytatása vagy szabadságvesztés büntetés, illetve szabadságelvonással járó intézkedés végrehajtása céljából bocsátották-e ki.
 
-a) a keresett személyt megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra, vagy arról más módon hivatalos tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
+(2) A bíróság a terhelttel szemben egyidejűleg kibocsátott további európai elfogatóparancs vonatkozásában – ha az átadás feltételei fennállnak – az átadásról rendelkező határozatában előzetesen hozzájárul ahhoz, hogy a terheltet átvevő tagállam a terheltet a további európai elfogatóparancsot kibocsátó harmadik tagállamnak átadja, ellenkező esetben a további európai elfogatóparancs végrehajtását megtagadja. Ha a bíróság a terhelt átadását az (1) bekezdés alapján az egyik európai elfogatóparancs alapján elrendeli, a további elfogatóparancs tárgyában az e bekezdés szerinti határozatát az átadás elrendelését követően is meghozhatja.
 
-b) a kitűzött tárgyalás ismeretében a keresett személy a tárgyaláson való képviseletére
+(3) Az (1) bekezdés szerinti döntéshez a bíróság – szükség esetén – beszerzi az Európai Unió Működéséről szóló Szerződés 85. cikke szerinti Európai Igazságügyi Együttműködési Egység (a továbbiakban: Eurojust) véleményét.
 
-ba) védőt hatalmazott meg vagy
+(4) Ha egy európai elfogatóparancs és egy harmadik ország kiadatási kérelme ütközik, az eljárásra a nemzetközi bűnügyi jogsegélyről szóló törvény rendelkezései az irányadóak.
 
-bb) számára védőt rendeltek ki, és a kirendelés ismeretében annak személyét nem kifogásolta,
+(5) A (4) bekezdésben meghatározott esetben az európai elfogatóparancs végrehajtása feltételei vonatkozásában e törvény rendelkezéseit megfelelően alkalmazni kell.
 
-és a meghatalmazott vagy a kirendelt védő a keresett személy érdekében a tárgyaláson eljárt,
-
-c) a határozat kézbesítése megtörtént, a keresett személy tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot, vagy
-
-d) a határozatot nem kézbesítették a keresett személynek, de az átadását követően haladéktalanul kézbesítik számára, tájékoztatják a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, és az erre rendelkezésre álló határidőről.
-
-(3) Ha az európai elfogatóparancsot a (2) bekezdés d) pontjában meghatározottak szerint bocsátották ki, az európai elfogatóparancs tartalmáról való tájékoztatás alkalmával a keresett személy kérheti, hogy az átadását megelőzően bocsássák rendelkezésére a kibocsátó tagállami határozat egy példányát. Ezt a Fővárosi Törvényszék a kézhezvételt követően haladéktalanul továbbítja – kizárólag tájékoztatás céljából – a keresett személynek. A keresett személy kérésének nincs halasztó hatálya az átadási eljárásra és az európai elfogatóparancs végrehajtására.
+(6) E § nem érinti Magyarországnak a Nemzetközi Büntetőbíróság Statútumából eredő kötelezettségeit.

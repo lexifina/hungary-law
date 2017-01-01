@@ -19,3 +19,5 @@ d) a magatartási szabályok megszegése miatt a felfüggesztett szabadságveszt
 és a tagállami hatóság a végrehajtást ez alapján megszüntette, a továbbiakban a bíróság a végrehajtást a magyar szabályok szerint folytatja.
 
 (3) A (2) bekezdés d) pontjában foglalt határozatok meghozataláról, valamint a végrehajtás idejének leteltéről a bíróság haladéktalanul tájékoztatja a tagállami hatóságot.
+
+(4) Ha a (2) bekezdés alapján a továbbiakban a végrehajtást a magyar szabályok szerint a bíróság folytatja, akkor a 145. § (1) bekezdésében meghatározott, a magatartási szabályok alapjául szolgáló pártfogó felügyeletnek vagy az alternatív szankcióknak a bíróság által meghatározott tartamába a tagállami végrehajtás teljes tartamát be kell számítani.

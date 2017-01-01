@@ -2,7 +2,9 @@
 
 154. § (1) A pénzbüntetésnek egy másik tagállamban való végrehajtása iránt a bíróság, amelynek eljárásában a pénzbüntetés, a bűnügyi költség végrehajthatóvá válik, a hatáskörrel rendelkező és illetékes tagállami hatósághoz címzett közvetlen megkeresés útján intézkedhet, feltéve, hogy a pénzbüntetés összege a határozat jogerőre emelkedésének napján érvényes, a Magyar Nemzeti Bank által közzétett hivatalos devizaárfolyamon átszámítva meghaladja a 70 eurót.
 
-(2) A bíróság kiállítja a 13. számú mellékletben szereplő tanúsítványt, amelyet a végrehajtó tagállam hivatalos nyelvére vagy a tagállam által megjelölt nyelvre lefordítva posta, telefax vagy számítástechnikai rendszer útján továbbít. A számítástechnikai rendszer útján továbbított határozatot minősített elektronikus aláírással kell ellátni.
+(2) A bíróság kiállítja a 13. számú mellékletben szereplő tanúsítványt, amelyet – a megkeresés alapjául szolgáló határozattal vagy annak hitelesített másolatával együtt – a végrehajtó tagállam hivatalos nyelvére vagy a tagállam által megjelölt nyelvre lefordítva posta, telefax vagy számítástechnikai rendszer útján továbbít a hatáskörrel rendelkező és illetékes tagállami hatósághoz. A számítástechnikai rendszer útján továbbított határozatot minősített elektronikus aláírással kell ellátni.
+
+(2a) Ha a bíróság a határozatot és a tanúsítványt nem postai úton küldte meg, akkor kérelemre a határozat és a tanúsítvány eredeti példányát megküldi a tagállami hatóság számára.
 
 (3) Ha a pénzbüntetés, a bűnügyi költség végrehajtása egyidejűleg több tagállamban is lehetséges, a bíróság az összes körülmény mérlegelésével határoz arról, hogy a végrehajtás iránti megkeresést melyik tagállamba küldi meg. A megkeresést egyidejűleg csak egy tagállamba lehet továbbítani.
 

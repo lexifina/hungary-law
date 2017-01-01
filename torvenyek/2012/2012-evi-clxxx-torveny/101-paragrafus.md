@@ -4,10 +4,12 @@
 
 (2) Az (1) bekezdésben meghatározott esetben a határozatot a tanúsítvánnyal együtt le kell fordítani annak a tagállamnak a hivatalos nyelvére vagy hivatalos nyelveinek egyikére, amelynek területén a bizonyítási eszköz, az elkobzás alá eső dolog, illetve a vagyonelkobzás alá eső vagyon található (végrehajtó tagállam). A magyar igazságügyi hatóság a lefordított határozatot és tanúsítványt a tagállam hatáskörrel és illetékességgel rendelkező igazságügyi hatósága számára közvetlenül küldi meg.
 
-(3) A határozat rendelkező része – a Be.-ben foglaltakon kívül – szükség szerint tartalmazza,
+(3) A határozat rendelkező része – a Be.-ben foglaltakon kívül – szükség szerint tartalmazza
 
-a) a lefoglalni kért bizonyítási eszköz átadása iránti kérelmet a magyar igazságügyi hatóság részére, vagy
+a) a lefoglalni kért bizonyítási eszköz átadása iránti kérelmet a magyar igazságügyi hatóság részére,
 
-b) rendelkezést arra vonatkozóan, hogy a kényszerintézkedéssel érintett bizonyítási eszközt, elkobzás alá eső dolgot, illetve vagyonelkobzás alá eső vagyont az a) pont szerinti kérelem, illetve az elkobzására, illetve vagyonelkobzásra vonatkozó határozat végrehajtása iránti kérelem továbbításáig a végrehajtó tagállamban kell tartani.
+b) az elkobzás iránti kérelmet, amely vagy a kibocsátó tagállamban kibocsátott, elkobzást elrendelő határozat végrehajtását, vagy a végrehajtó tagállamban foganatosított elkobzást és egy ilyen határozat későbbi időpontban való végrehajtását kéri, vagy
+
+c) a rendelkezést arra vonatkozóan, hogy a kényszerintézkedéssel érintett bizonyítási eszközt, elkobzás alá eső dolgot, illetve vagyonelkobzás alá eső vagyont az a) vagy b) pont szerinti kérelem, illetve az elkobzására vagy vagyonelkobzásra vonatkozó határozat végrehajtása iránti kérelem továbbításáig a végrehajtó tagállamban kell tartani.
 
 (4) Ha a nyomozó hatóság lefoglalás vagy információs rendszerben tárolt adatok megőrzésére kötelezés elrendelését, illetve zár alá vétel alkalmazását tartja szükségesnek olyan bizonyítási eszköz, elkobzás alá eső dolog vagy vagyonelkobzás alá eső vagyon tekintetében, amely egy másik tagállam területén található, előterjesztést tesz az ügyésznek az (1) bekezdésben meghatározott határozat meghozatala vagy annak bíróságnál történő indítványozása iránt.

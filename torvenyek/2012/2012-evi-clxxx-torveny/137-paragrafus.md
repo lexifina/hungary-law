@@ -52,4 +52,4 @@ határoz meg, rendel el, illetve szab ki.
 
 (6) Ha az alternatív szankciót kiszabó tagállami határozat nem postai úton érkezett, a bíróság kérheti a tagállami hatóságot, hogy a határozat és a tanúsítvány eredeti példányát küldje meg számára.
 
-(7) Ha a bírósághoz valamely tagállamból olyan megkeresés érkezik, amelynek elintézésére nem illetékes vagy nem rendelkezik hatáskörrel, a megkeresést haladéktalanul továbbítja az illetékes törvényszék székhelyén működő járásbíróságra vagy a Budai Központi Kerületi Bíróságra, és erről a tagállami hatóságot tájékoztatja.
+(7) Ha a bírósághoz valamely tagállamból olyan megkeresés érkezik, amelynek elintézésére nem illetékes vagy nem rendelkezik hatáskörrel, a megkeresést haladéktalanul továbbítja az illetékes törvényszék székhelyén működő járásbíróságra vagy a Budai Központi Kerületi Bíróságra, és erről a tagállami hatóságot írásban, haladéktalanul tájékoztatja.

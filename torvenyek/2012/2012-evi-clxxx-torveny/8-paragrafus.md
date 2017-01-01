@@ -1,9 +1,25 @@
-8. § (1) Ha az európai elfogatóparancsot szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtása céljából bocsátották ki, és a keresett személy olyan magyar állampolgár, aki Magyarország területén lakóhellyel rendelkezik, a Fővárosi Törvényszék az európai elfogatóparancs végrehajtását megtagadja, és – ha az előzetes adatok alapján nem áll fenn a végrehajtás átvételének egyetlen megtagadási oka sem – elrendeli a keresett személy ideiglenes végrehajtási letartóztatását, és az erről szóló határozatát haladéktalanul megküldi az igazságügyért felelős miniszternek (a továbbiakban: miniszter). A miniszter kezdeményezi a tagállamnál az elítélt szabadságvesztés büntetése vagy szabadságelvonással járó intézkedése végrehajtásának átvételét.
+8. § (1) A Fővárosi Törvényszék az európai elfogatóparancs végrehajtása tárgyában tárgyalást tart.
 
-(2) Az ideiglenes végrehajtási letartóztatás legfeljebb a szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés végrehajtására vonatkozó határozat meghozataláig tart, és nem lehet hosszabb, mint a tagállami határozatban szereplő büntetés vagy intézkedés tartama.
+(2) A Fővárosi Törvényszék meghatározza a tárgyalás határnapját. A terhelt elfogása esetén a tárgyalást az őrizet határidején belül kell megtartani.
 
-(3) Az ideiglenes végrehajtási letartóztatás teljes időtartamát be kell számítani a bíróság által elismert és végrehajtásra átvett szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés tartamába.
+(3) A Fővárosi Törvényszék a tárgyalásról – a rendelkezésre álló iratok Nemzetközi Bűnügyi Együttműködési Központ (továbbiakban: NEBEK) közreműködésével történő megküldésével együtt – az ügyészt értesíti, a tárgyalásra a védőt idézi. Ha a terheltnek nincs meghatalmazott védője és a 7. § (2) bekezdése alapján kirendelt védő megjelenése a tárgyaláson aránytalan nehézséggel járna, a Fővárosi Törvényszék a terhelt részére új védőt rendel ki, egyidejűleg a korábban eljárt védőt a kirendelés alól felmenti. A Fővárosi Törvényszék – a terhelt elfogása esetén a NEBEK útján, az őrizetbe vételt foganatosító szerv kísérési feladatainak meghatározásával – gondoskodik a terhelt megjelenéséről.
 
-(4) A tárgyaláson ügyész és védő részvétele kötelező.
+(4) A tárgyaláson az ügyész és a védő részvétele kötelező. Ha a terhelt a magyar nyelvet nem ismeri, a bíróság tolmácsot rendel ki a részére.
 
-(5) Ha az európai elfogatóparancsot büntetőeljárás lefolytatása céljából bocsátották ki, és a keresett személy olyan magyar állampolgár, aki Magyarország területén lakóhellyel rendelkezik, csak akkor adható át, ha a kibocsátó tagállami igazságügyi hatóság megfelelő jogi garanciát nyújt arra, hogy szabadságvesztés büntetés vagy szabadságelvonással járó intézkedés jogerős kiszabása esetén a keresett személyt kérelmére a büntetés vagy az intézkedés végrehajtására visszaszállítják Magyarország területére.
+(5) A tárgyalás megkezdését követően a Fővárosi Törvényszék ismerteti az európai elfogatóparancsot, majd felhívására az ügyész ismerteti indítványát. Ezt követően a Fővárosi Törvényszék
+
+a) megállapítja a terhelt személyazonosságát,
+
+b) tájékoztatja a terheltet az eljárás lényegéről, eljárási jogairól – beleértve a 7. § (4) bekezdésében megjelölt tájékoztatást –, valamint az egyszerűsített átadás lehetőségéről és annak jogkövetkezményeiről, továbbá a specialitás szabályáról és annak alkalmazhatóságáról, valamint
+
+c) a törvényes figyelmeztetéseket követően a terheltet kihallgatja.
+
+(6) Ha a terhelt vallomást tesz, a Fővárosi Törvényszék a terheltet különösen az átadás feltételeit e törvény alapján befolyásoló körülményekre nézve hallgatja ki.
+
+(7) A Fővárosi Törvényszék a terheltet nyilatkoztatja arra nézve, hogy
+
+a) az átadásába beleegyezik-e, valamint
+
+b) a specialitás szabályának alkalmazásáról lemond-e.
+
+(8) A (7) bekezdés a) pontja szerinti beleegyezés, valamint a (7) bekezdés b) pontja szerinti lemondás nem vonható vissza.

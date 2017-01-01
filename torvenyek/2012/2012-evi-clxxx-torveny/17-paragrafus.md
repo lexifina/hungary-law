@@ -1,3 +1,1 @@
-## 8. Menekültügyi hatóság értesítése
-
-17. § Ha a keresett személy menekültkénti vagy menedékeskénti elismerését kéri, a bíróság haladéktalanul értesíti a menekültügyi hatóságot arról, hogy a keresett személlyel szemben átadási eljárás van folyamatban.
+17. § Ha a terhelt az átadási letartóztatás elrendelésekor előzetes letartóztatásban van, ideiglenes kényszergyógykezelés alatt áll, szabadságvesztését vagy elzárását tölti, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, vagy az átadási letartóztatás elrendelését követően előzetes letartóztatását, ideiglenes kényszergyógykezelését rendelik el, szabadságvesztés vagy elzárás letöltését kezdi meg, illetve vele szemben szabadságelvonással járó intézkedést hajtanak végre, és ezért az átadási letartóztatás foganatosítását félbeszakítják, a 9/B. §-t megfelelően alkalmazni kell.

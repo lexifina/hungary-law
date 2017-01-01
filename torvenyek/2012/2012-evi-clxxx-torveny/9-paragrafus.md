@@ -1,7 +1,15 @@
-9. § (1) Ha ugyanazon személy ellen két vagy több tagállam bocsátott ki európai elfogatóparancsot, a Fővárosi Törvényszék határoz az európai elfogatóparancsok végrehajtásáról, és az összes körülmény mérlegelésével dönt arról, hogy melyik európai elfogatóparancs alapján kerüljön a keresett személy először átadásra. A Fővárosi Törvényszék a döntés meghozatalakor figyelemmel van különösen a bűncselekmény súlyára és elkövetési helyére, az európai elfogatóparancsok kibocsátásának időpontjára, valamint arra, hogy az európai elfogatóparancsot büntetőeljárás lefolytatása vagy szabadságvesztés büntetés, illetve szabadságelvonással járó intézkedés végrehajtása céljából bocsátották-e ki.
+## 5. Ideiglenes átadási letartóztatás vagy más kényszerintézkedés elrendelése
 
-(2) Az (1) bekezdés szerinti döntéshez a Fővárosi Törvényszék – szükség esetén – beszerezi az Európai Unió Működéséről szóló szerződés 85. cikke szerinti Európai Igazságügyi Együttműködési Egység (a továbbiakban: Eurojust) véleményét.
+9. § (1) A bíróság az európai elfogatóparancs végrehajtásának biztosítása céljából elrendeli a terhelt ideiglenes átadási letartóztatását, ha
 
-(3) Ha egy európai elfogatóparancs és egy harmadik ország kiadatási kérelme ütközik, az eljárásra a nemzetközi bűnügyi jogsegélyről szóló törvény rendelkezései az irányadóak.
+a) a bíróság megállapítja, hogy nem áll fenn az európai elfogatóparancs megtagadási okainak valamelyike, és
 
-(4) E § nem érinti Magyarországnak a Nemzetközi Büntetőbíróság Statútumából eredő kötelezettségeit.
+b) a rendelkezésre álló adatok alapján a terhelt átadásáról nem lehet dönteni.
+
+(2) Az ideiglenes átadási letartóztatás a terhelt átadási letartóztatásának elrendeléséig tart.
+
+(3) Az ideiglenes átadási letartóztatás elrendelése esetén óvadék alkalmazásának nincs helye.
+
+(4) Az ideiglenes átadási letartóztatást meg kell szüntetni, ha annak elrendelésétől számított negyven napon belül az európai elfogatóparancs nem érkezik meg.
+
+(5) A bíróság a kényszerintézkedés tárgyában hozott határozatát haladéktalanul megküldi a miniszternek.

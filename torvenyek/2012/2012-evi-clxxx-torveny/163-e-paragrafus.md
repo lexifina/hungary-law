@@ -1,6 +1,6 @@
 ## 55/D. Az elismerés és végrehajtás megtagadása
 
-163/E. § (1) A bíróság vagy az ügyész az európai védelmi határozat elismerését és végrehajtását megtagadja, ha
+163/E. § (1) A bíróság vagy az ügyész az európai védelmi határozat elismerését és végrehajtását megtagadhatja, ha
 
 a) az európai védelmi határozat hiányos vagy pontatlan, és a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el vagy a kiegészített, javított európai védelmi határozat elismerése, végrehajtása továbbra sem lehetséges;
 

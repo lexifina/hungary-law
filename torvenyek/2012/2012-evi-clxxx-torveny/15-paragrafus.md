@@ -1,5 +1,17 @@
-15. § (1) A 11. § (1) bekezdés c) pontja szerint elrendelt ideiglenes átadási letartóztatást meg kell szüntetni, ha annak elrendelésétől számított negyven napon belül az európai elfogatóparancs nem érkezik meg.
+15. § (1) A bíróság az átadási eljárást megszünteti,
 
-(2) A 12. § (1) bekezdése és a 13. § (4) bekezdése szerint elrendelt átadási letartóztatás a keresett személy átadásáig tart.
+a) ha az őrizetbe vett személy nem azonos azzal a személlyel, akivel szemben az európai elfogatóparancsot kibocsátották,
 
-(3) Az átadási, az ideiglenes átadási, vagy az ideiglenes végrehajtási letartóztatás helyett más személyi szabadságot korlátozó kényszerintézkedés nem alkalmazható, illetve óvadék ellenében a keresett személy átadási, ideiglenes átadási vagy ideiglenes végrehajtási letartóztatása nem szüntethető meg.
+b) ha a terhelt tartózkodási helye ismeretlenné vált,
+
+c) ha a terhelt átadási letartóztatása az e törvényben meghatározott határidők elmulasztása miatt megszűnik,
+
+d) ha a kibocsátó tagállami igazságügyi hatóság az európai elfogatóparancsot visszavonta, vagy
+
+e) az e törvényben meghatározott egyéb okból.
+
+(2) A bíróság az átadási eljárás megszüntetéséről az iratok alapján is határozhat.
+
+(3) A miniszter a bíróság jogerős határozata alapján tájékoztatja a kibocsátó tagállami igazságügyi hatóságot, ha a bíróság az európai elfogatóparancs végrehajtását megtagadja, vagy az átadási eljárást megszünteti.
+
+(4) Ha a bíróság az európai elfogatóparancs végrehajtását az 5. § (4) bekezdése alapján tagadta meg, a bíróság a miniszter útján tájékoztatja a kibocsátó tagállami igazságügyi hatóságot a 126/A. § alapján elrendelt kényszerintézkedésről, valamint a 109. § (1) bekezdésben meghatározott iratok megküldésére rendelkezésére álló határidőről.

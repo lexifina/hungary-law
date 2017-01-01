@@ -1,4 +1,4 @@
-158. § (1) A bíróság a vagyonelkobzást elrendelő tagállami határozat elismerését és végrehajtását megtagadja,
+158. § (1) A bíróság a vagyonelkobzást elrendelő tagállami határozat elismerését és végrehajtását megtagadhatja,
 
 a) a 156. § (7) bekezdésében meghatározott esetben, ha a vagyonelkobzást elrendelő tagállami határozat alapjául szolgáló cselekmény a magyar törvény szerint nem bűncselekmény;
 
@@ -12,9 +12,11 @@ e) ha a terhelt közjogi tisztség betöltésén alapuló mentességet, illetve 
 
 f) ha a vagyonelkobzást a tagállami határozathoz csatolt tanúsítvány i. pont 1.2. iii vagy iv alpontja szerinti vagyonra kell elrendelni, de a Btk. 74. § (1) bekezdés b) pontja a vagyonelkobzásra nem ad lehetőséget;
 
-g) ha a vagyonelkobzást elrendelő tagállami határozat alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik, és a bűncselekményre a magyar törvény szerint közkegyelem terjed ki.
+g) ha a vagyonelkobzást elrendelő tagállami határozat alapjául szolgáló bűncselekmény magyar joghatóság alá tartozik, és a bűncselekményre a magyar törvény szerint közkegyelem terjed ki;
 
-(2) A bíróság a vagyonelkobzást elrendelő tagállami határozat elismerését és végrehajtását megtagadja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami joggal összhangban
+h) ha a vagyonelkobzás elrendelésére a Btk. 74. § (5) bekezdése alapján nincs lehetőség.
+
+(2) A bíróság a vagyonelkobzást elrendelő tagállami határozat elismerését és végrehajtását megtagadhatja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami joggal összhangban
 
 a) a terheltet megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra vagy arról más módon hivatalosan tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
 
@@ -26,6 +28,10 @@ bb) számára védőt rendeltek ki, és a kirendelés ismeretében annak személ
 
 c) a vagyonelkobzást elrendelő tagállami határozat kézbesítése megtörtént, az elítélt tájékoztatást kapott a rendes, illetve a rendkívüli jogorvoslati lehetőségekről, de a rendelkezésre álló határidőn belül erre irányuló indítványt nem tett, vagy jelezte, hogy nem vitatja a távollétében hozott határozatot.
 
-(3) A bíróság a vagyonelkobzást elrendelő tagállami határozat elismerését és végrehajtását megtagadja, ha a tagállami bíróság által megküldött tanúsítvány hiányos, vagy a tanúsítvány hiányzik, és a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el, illetve a kiegészített tanúsítvány végrehajtása továbbra sem lehetséges. A hiánypótlásra a 96. § (2)–(4) bekezdésének rendelkezéseit értelemszerűen alkalmazni kell.
+(3) A bíróság a vagyonelkobzást elrendelő tagállami határozat elismerését és végrehajtását megtagadhatja, ha a tagállami bíróság által megküldött tanúsítvány hiányos, vagy a tanúsítvány hiányzik, és a hiánypótlásra, kijavításra tűzött határidő eredménytelenül telt el, illetve a kiegészített tanúsítvány végrehajtása továbbra sem lehetséges. A hiánypótlásra a 96. § (2)–(4) bekezdésének rendelkezéseit értelemszerűen alkalmazni kell.
+
+(3a) A vagyonelkobzást elrendelő tagállami határozat elismerése és végrehajtása nem tagadható meg az adókkal és az illetékekkel, a vámokkal és a devizával kapcsolatos bűncselekmények esetén amiatt, hogy a magyar jog nem ismer ugyanolyan adót, illetéket, valamint vámmal, illetve adóval, illetékkel azonos hatású díjat, vagy nem tartalmaz ugyanolyan típusú szabályokat az adó-, illeték-, valamint vám- és devizaszabályozás terén, mint a kibocsátó tagállam joga.
+
+(3b) A bíróság a vagyonelkobzást elrendelő tagállami határozat végrehajtásának megtagadásáról szóló határozat meghozatala előtt konzultációt folytat a tagállami hatósággal, ha valószínűsíthető, hogy a megtagadásra az (1) bekezdés c), f) és g) pontja, a (2) bekezdés vagy a (3) bekezdés miatt kerülne sor, valamint az (1) bekezdés h) pontja esetében is, ha nem került sor a tagállami hatóság 159. § (7) bekezdése szerinti értesítésére.
 
 (4) A vagyonelkobzást elrendelő tagállami határozat végrehajtásának megtagadásáról a bíróság indokolt határozatot hoz, amelyet a tagállami hatóság részére megküld.

@@ -1,3 +1,1 @@
-## 2. Az eljáró bíróság
-
-4. § E fejezet alapján, mint végrehajtó igazságügyi hatóság kizárólag a Fővárosi Törvényszék jár el egyesbíróként. Határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a Fővárosi Ítélőtábla bírál el tanácsülésen. A fellebbezésnek a határozat végrehajtására nincs halasztó hatálya.
+4. § Az átadási eljárásban, mint végrehajtó igazságügyi hatóság, a Fővárosi Törvényszék rendelkezik hatáskörrel és kizárólagos illetékességgel. A Fővárosi Törvényszék az átadási eljárásban egyesbíróként jár el. Határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a Fővárosi Ítélőtábla bírál el tanácsülésen. A fellebbezésnek a határozat végrehajtására nincs halasztó hatálya.

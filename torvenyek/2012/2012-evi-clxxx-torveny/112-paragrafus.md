@@ -1,4 +1,4 @@
-112. § (1) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását a Fővárosi Törvényszék megtagadja, ha
+112. § (1) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását a Fővárosi Törvényszék megtagadhatja, ha
 
 a) az elítélt gyermekkor miatt nem büntethető,
 
@@ -24,7 +24,7 @@ k) a tagállami igazságügyi hatóság a 118. § (2) bekezdés g) pontja és (3
 
 l) a tagállami határozat olyan pszichiátriai vagy orvosi kezelésre irányuló, vagy más, szabadságelvonással járó intézkedést tartalmaz, amelyet Magyarország nem tud végrehajtani.
 
-(2) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását a Fővárosi Törvényszék megtagadja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami igazságügyi hatóság államának jogával összhangban
+(2) A jogerős szabadságvesztés büntetést kiszabó vagy szabadságelvonással járó intézkedést alkalmazó tagállami határozat elismerését és végrehajtását a Fővárosi Törvényszék megtagadhatja, ha azt a terhelt távollétében hozták, kivéve, ha a tanúsítványból egyértelműen megállapítható, hogy a tagállami igazságügyi hatóság államának jogával összhangban
 
 a) a terheltet megfelelő időben, határnapot és helyet megjelölve, közvetlenül idézték a tárgyalásra vagy arról más módon hivatalosan tudomást szerzett, továbbá tájékoztatták arról, hogy a tárgyalás a távollétében is megtartható, vele szemben az eljárás határozattal befejezhető,
 

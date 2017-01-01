@@ -11,3 +11,5 @@ c) a keresett személyre a 30. § (2) bekezdésének a), e), f) és g) pontja sz
 (2) Az (1) bekezdés b) pontja szerinti beleegyezés során a beleegyező nyilatkozatot bíróság előtt kell megtenni, és azt jegyzőkönyvbe kell venni, amelyet mind a bírónak, mind a nyilatkozattevőnek alá kell írnia. A lemondó nyilatkozatot úgy kell megfogalmazni, hogy abból egyértelműen kitűnjön, hogy azt az érintett személy önként és az abból adódó következmények teljes tudatában tette. A személy védőt vehet igénybe.
 
 (3) Az (1) bekezdésben foglalt eseteket kivéve az európai elfogatóparancs alapján átadott személy nem adható ki harmadik államnak azon tagállam illetékes hatóságának hozzájárulása nélkül, amely őt átadta.
+
+(4) Ha a keresett személy Magyarországra történt átadásának elrendelésekor az átadó tagállam több európai elfogatóparancs tárgyában hozott döntést, a harmadik tagállam által kibocsátott európai elfogatóparancs vonatkozásában az átadási eljárást a Fővárosi Törvényszék haladéktalanul megindítja.

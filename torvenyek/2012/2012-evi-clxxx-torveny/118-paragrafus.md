@@ -20,4 +20,4 @@ h) az elítélt Magyarországra szökött vagy ide visszatért.
 
 (3) A (2) bekezdés f) pontja szerinti lemondó nyilatkozatot a büntetés-végrehajtási bíró előtt kell megtenni, és azt jegyzőkönyvbe kell foglalni, amelyet mind a bírónak, mind a nyilatkozattevőnek alá kell írnia. A lemondó nyilatkozatot úgy kell megfogalmazni, hogy abból egyértelműen kitűnjék, miszerint azt az elítélt önként és az abból adódó következmények teljes tudatában tette. Az elítélt védőt vehet igénybe.
 
-(4) A (2) bekezdés g) pont szerinti hozzájárulás iránti kérelmet a (3) bekezdés szerinti jegyzőkönyv és a 25. § (3) bekezdése szerinti európai elfogatóparancs kíséretében, a 25. § (4) bekezdése szerint kell a tagállami igazságügyi hatósághoz előterjeszteni.
+(4) A (2) bekezdés g) pont szerinti hozzájárulás iránti kérelmet a (3) bekezdés szerinti jegyzőkönyv és a 25. § (5) bekezdése szerinti európai elfogatóparancs kíséretében, a 25. § (6) bekezdése szerint kell a tagállami igazságügyi hatósághoz előterjeszteni.

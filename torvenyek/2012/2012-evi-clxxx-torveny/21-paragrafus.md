@@ -1,7 +1,9 @@
-21. § (1) Ha a keresett személy nem mondott le a 30. §-ban meghatározott specialitás szabályának alkalmazásáról, az átadását követően kibocsátott európai elfogatóparancs végrehajtásához a hozzájárulást a Fővárosi Törvényszék megadja, ha az európai elfogatóparancs alapjául szolgáló bűncselekmény e törvény rendelkezései szerint önmagában is átadási kötelezettséget von maga után. A 8. § (5) bekezdésében az átadás feltételeként megszabott jogi garanciákat ebben az esetben is meg kell követelni.
+## 11. Hozzájárulás, átadás végrehajtásának elhalasztása, ideiglenes átadás
 
-(2) A Fővárosi Törvényszék az erre vonatkozó határozatot legkésőbb a kérelem kézhezvételét követő harminc napon belül hozza meg.
+21. § (1) Ha a terhelt nem mondott le a 30. §-ban meghatározott specialitás szabályának alkalmazásáról, a Fővárosi Törvényszék hozzájárul, hogy a kibocsátó tagállam a terhelt átadásának alapjául szolgáló bűncselekménytől különböző, az átadás előtt elkövetett egyéb bűncselekmény miatt büntetőeljárást folytasson le, illetve szabadságvesztés büntetést vagy szabadságelvonással járó intézkedést hajtson végre, ha ennek érdekében a kibocsátó tagállam által megküldött újabb európai elfogatóparancs vagy hozzájárulás iránti kérelem alapjául szolgáló bűncselekmény e törvény rendelkezései szerint önmagában is átadási kötelezettséget von maga után. Az 5. § (1) bekezdés e) pontjában az átadás feltételeként megszabott jogi garanciát ebben az esetben is meg kell követelni.
+
+(2) A Fővárosi Törvényszék a hozzájárulásról az iratok alapján dönt, határozatát legkésőbb a kérelem kézhezvételét követő harminc napon belül hozza meg.
 
 (3) A (2) bekezdés szerinti határozat ellen fellebbezésnek nincs helye.
 
-(4) Az (1) bekezdés szerinti eljárást kell lefolytatni további átadás esetén is, ha a keresett személy nem mondott le a specialitás szabályának alkalmazásáról, és az átadását követően egy másik tagállam bocsát ki ellene európai elfogatóparancsot. A hozzájárulást e törvény rendelkezéseivel, valamint a vonatkozó egyezményekkel összhangban kell elbírálni.
+(4) Az (1)–(3) bekezdés szerinti eljárást kell lefolytatni a további átadás esetén is, ha a terhelt nem mondott le a specialitás szabályának alkalmazásáról, és az átadását követően egy másik tagállam által az átadást megelőzően elkövetett bűncselekmény miatt kibocsátott európai elfogatóparancs vagy hozzájárulás iránti kérelem tárgyában kell döntést hozni.

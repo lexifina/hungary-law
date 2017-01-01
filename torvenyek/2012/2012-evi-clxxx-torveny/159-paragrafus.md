@@ -21,3 +21,5 @@ b) azonos természetes vagy jogi személyre nézve pénzösszegben meghatározva
 tartalmaz rendelkezést, és a b) pont esetében a természetes vagy a jogi személy Magyarország területén nem rendelkezik elegendő vagyonnal valamennyi vagyonelkobzást elrendelő tagállami határozat végrehajtásához, akkor a bíróság az eset összes körülményének mérlegelésével dönt arról, hogy melyik tagállam határozatát hajtja végre. A döntés meghozatalakor a bíróság különösen a bűncselekmény súlyát és elkövetési helyét, a határozat kibocsátásának időpontját veszi figyelembe.
 
 (7) A bíróság határozata ellen, ha e törvény nem zárja ki, fellebbezésnek van helye, amelyet a törvényszék tanácsülésen bírál el. A fellebbezésnek a határozat végrehajtására halasztó hatálya van. A fellebbezésben a vagyonelkobzást elrendelő tagállami határozat nem támadható. A fellebbezés tényéről az első fokon eljárt bíróság értesíti a tagállami hatóságot.
+
+(8) A bíróság a pénzösszeg megfizetéséről, illetve a meghatározott vagyontárgyra vonatkozó végrehajtási eljárás eredményéről tájékoztatja a tagállami hatóságot.
