@@ -1,6 +1,6 @@
-54. § (1)[^251] Ez a rendelet 2001. január 1-jén lép hatályba.
+54. § (1)[^255] Ez a rendelet 2001. január 1-jén lép hatályba.
 
-(2)[^252]
+(2)[^256]
 
-[^251]: Az 54. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 1124. pontja szerint módosított szöveg.
-[^252]: Az 54. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1124. pontja hatályon kívül helyezte.
+[^255]: Az 54. § (1) bekezdése a 118/2008. (V. 8.) Korm. rendelet 1. § 1124. pontja szerint módosított szöveg.
+[^256]: Az 54. § (2) bekezdését a 118/2008. (V. 8.) Korm. rendelet 1. § 1124. pontja hatályon kívül helyezte.
