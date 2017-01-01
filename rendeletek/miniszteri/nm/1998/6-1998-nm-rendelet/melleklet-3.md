@@ -100,6 +100,6 @@
 
 | Megjegyzés |
 
-3. számú melléklet a 6/1998. (III. 11.) NM rendelethez[^26]
+3. számú melléklet a 6/1998. (III. 11.) NM rendelethez[^28]
 
-[^26]: A 3. számú mellékletet a 26/2001. (VIII. 2.) EüM rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte.
+[^28]: A 3. számú mellékletet a 26/2001. (VIII. 2.) EüM rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte.

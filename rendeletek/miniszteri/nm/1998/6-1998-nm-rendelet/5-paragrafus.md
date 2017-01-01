@@ -1,6 +1,6 @@
-## 4. §[^19]
+## 4. §[^21]
 
-## 5. §[^20] A Munkabizottság
+## 5. §[^22] A Munkabizottság
 
 a) végzi az Egészségbiztosítási Alap terhére finanszírozható járóbeteg-szakellátási tevékenységek meghatározásáról, az igénybevétel során alkalmazandó elszámolhatósági feltételekről és szabályokról, valamint a teljesítmények elszámolásáról szóló miniszteri rendeletben foglaltak általános revízióját – az adott szakmában használt beavatkozások meghatározásait alapul véve –, amelynek során:
 
@@ -12,5 +12,5 @@ ac) végső állásfoglalást alakít ki, és
 
 b) tanulmányozza, összehasonlítja, elemzi a más országokban alkalmazott finanszírozási rendszereket.
 
-[^19]: A 4. §-t az 55/2012. (XII. 28.) EMMI rendelet 9. § b) pontja hatályon kívül helyezte.
-[^20]: Az 5. § az 55/2012. (XII. 28.) EMMI rendelet 7. §-ával megállapított szöveg.
+[^21]: A 4. §-t az 55/2012. (XII. 28.) EMMI rendelet 9. § b) pontja hatályon kívül helyezte.
+[^22]: Az 5. § az 55/2012. (XII. 28.) EMMI rendelet 7. §-ával megállapított szöveg.
