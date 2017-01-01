@@ -22,7 +22,7 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 
 | 8. | vasúti hatósági eljárások |
 
-| 9. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások |
+| 9. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások |
 
 | 10. | hírközlési hatósági eljárások |
 
@@ -44,4 +44,4 @@ A nemzetgazdasági szempontból kiemelt jelentőségű beruházással összefüg
 
 | 19. | azon beépített tűzoltó berendezések létesítési és használatbavételi ügyeivel kapcsolatos eljárások, amelyek tervezése, kivitelezése jogszabályban, nemzeti szabványban teljes körűen nem szabályozott |
 
-[^6]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 34. § (2) bekezdése szerint módosított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^6]: Az 1. melléklet a 72/2015. (III. 30.) Korm. rendelet 34. § (2) bekezdése, a 380/2016. (XII. 2.) Korm. rendelet 33. §-a szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 119. §-át.
