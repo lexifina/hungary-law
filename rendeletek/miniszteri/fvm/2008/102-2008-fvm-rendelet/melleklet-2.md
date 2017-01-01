@@ -44,7 +44,7 @@
 
 | 4.1.3. | agyag | 94 | 80 |  |  |  |  |  |
 
-2. számú melléklet a 102/2008. (VIII. 8.) FVM rendelethez[^35]
+2. számú melléklet a 102/2008. (VIII. 8.) FVM rendelethez[^41]
 
 ## Támogatási kérelem az erdők felújításának csekély összegű (de minimis) támogatásához
 
@@ -218,7 +218,7 @@ c) az általános de minimis támogatásokkal kapcsolatos jogosultságokat, köt
 
 Tudomásul veszem, hogy amennyiben az intézkedésekkel kapcsolatban lejárt tartozásom áll fenn, a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény 38. § (9) bekezdése alapján a mezőgazdasági és vidékfejlesztési támogatási szerv hatósági átutalási megbízását a fizetési számlámat vezető pénzforgalmi szolgáltató végrehajtható okirat csatolása nélkül köteles teljesíteni. Tudomásul veszem, hogy e nyilatkozat hiányában a kérelmem érdemi vizsgálat nélkül elutasításra kerül.
 
-Kérem, hogy az erdészeti hatóság kérelmemet és annak elbírálásához szükséges adataimat továbbítsa a Mezőgazdasági és Vidékfejlesztési Hivatal részére.
+Kérem, hogy az erdészeti hatóság kérelmemet és annak elbírálásához szükséges adataimat továbbítsa a Magyar Államkincstár részére.
 
 A fenti adatok a valóságnak megfelelnek. A fenti nyilatkozatok a kérelem elválaszthatatlan részét képezik.
 
@@ -232,4 +232,4 @@ ____________________
 
 1 A megfelelő négyzetbe tegyen X-et!
 
-[^35]: A 2. számú melléklet a 24/2011. (III. 28.) VM rendelet 4. §-ával megállapított, a 36/2014. (IV. 4.) VM rendelet 32. § c) pontja. és 33–34. §-a szerint módosított szöveg.
+[^41]: A 2. számú melléklet a 24/2011. (III. 28.) VM rendelet 4. §-ával megállapított, a 36/2014. (IV. 4.) VM rendelet 32. § c) pontja. és 33–34. §-a, a 88/2016. (XII. 29.) FM rendelet 33. § d) pontja szerint módosított szöveg.
