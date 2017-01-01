@@ -8,6 +8,6 @@
 
 (5) A szakképzésért és felnőttképzésért felelős miniszter az Oktatási Hivatallal és a kormányhivatalokkal együttműködve, az általuk használt informatikai rendszerhez és feltételekhez igazodva, annak jelen feladatra hasznosítható funkcióit kiegészítve, a szakképzési megállapodások megkötését és nyilvántartását segítő informatikai rendszert 2013. október 31-től az állami szakképzési és felnőttképzési szerven keresztül működteti.
 
-(6)[^9] Az agrárpolitikáért felelős miniszter 2013. október 31-ig kidolgozza és a honlapján nyilvánosságra hozza a szakképzési megállapodások megkötésével kapcsolatos egyetértési jogának gyakorlására vonatkozó szempontokat.
+(6)[^14] Az agrárpolitikáért felelős miniszter 2013. október 31-ig kidolgozza és a honlapján nyilvánosságra hozza a szakképzési megállapodások megkötésével kapcsolatos egyetértési jogának gyakorlására vonatkozó szempontokat.
 
-[^9]: A 12. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 752. § c) pontja szerint módosított szöveg.
+[^14]: A 12. § (6) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 752. § c) pontja szerint módosított szöveg.

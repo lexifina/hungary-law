@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-314-20-
 | --- | --- | --- |
 | 2013-09-01 | 2013-314-20-22.1 | 314/2013. (VIII. 28.) Korm. rendelet |
 | 2014-09-05 | 2013-314-20-22.2 | 221/2014. (IX. 4.) Korm. rendelet |
+| 2017-01-01 | 2013-314-20-22.3 | 477/2016. (XII. 27.) Korm. rendelet |

@@ -40,9 +40,9 @@ c) a kapcsolattartáshoz szükséges adatokra
 
 a) a fenntartó
 
-aa) az állami intézményfenntartó központ képviseletében a megyeközponti tankerületi igazgató,
+aa)[^2] a tankerületi központ képviseletében a tankerületi központ igazgatója,
 
-ab)[^1] az OKJ 6. mellékletében szereplő szakképesítés esetén az agrárpolitikáért felelős miniszter
+ab)[^3] az OKJ 6. mellékletében szereplő szakképesítés esetén az agrárpolitikáért felelős miniszter
 
 által előzetesen jóváhagyott tartalommal kérelmezi a szakképzési megállapodás kiegészítését,
 
@@ -52,4 +52,5 @@ c) nem korlátozza a szakmaszerkezeti döntésnek az Szt. 84. § (5) bekezdés a
 
 d) nem keletkeztet az Nkt. 88. § (4) bekezdése szerinti költségvetési hozzájáruláson felüli, kiegészítő támogatási jogosultságot.
 
-[^1]: A 3. § (3) bekezdés a) pont ab) alpontja a 221/2014. (IX. 4.) Korm. rendelet 752. § a) pontja szerint módosított szöveg.
+[^2]: A 3. § (3) bekezdés a) pont aa) alpontja a 486/2016. (XII. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
+[^3]: A 3. § (3) bekezdés a) pont ab) alpontja a 221/2014. (IX. 4.) Korm. rendelet 752. § a) pontja szerint módosított szöveg.

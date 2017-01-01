@@ -12,8 +12,8 @@ c) a szakképzési megállapodás tervezetében foglaltak nincsenek összhangban
 
 (4) Az állami szakképzési és felnőttképzési szerv az egyetértés megtagadását írásban indokolja.
 
-(5)[^5] Az agrárpolitikáért felelős miniszter a honlapján nyilvánosságra hozott szempontok alapján, kizárólag az OKJ 6. mellékletében foglalt szakképesítések tekintetében tagadhatja meg az egyetértést, amelyet írásban indokol.
+(5)[^10] Az agrárpolitikáért felelős miniszter a honlapján nyilvánosságra hozott szempontok alapján, kizárólag az OKJ 6. mellékletében foglalt szakképesítések tekintetében tagadhatja meg az egyetértést, amelyet írásban indokol.
 
 (6) Az állami szakképzési és felnőttképzési szerv a hatályos szakképzési megállapodásokat a honlapján nyilvánosságra hozza.
 
-[^5]: A 6. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 752. § c) pontja szerint módosított szöveg.
+[^10]: A 6. § (5) bekezdése a 221/2014. (IX. 4.) Korm. rendelet 752. § c) pontja szerint módosított szöveg.
