@@ -1,4 +1,4 @@
-38/B. §[^61] (1)[^62] Az érkeztető rendszerben a postai szolgáltatótól a papíralapú küldeményt az 1. mellékletben felsorolt szervek címére érkezett postai papíralapú küldeményeken szereplő címhez rendelt, az érkeztető rendszer működtetője iratkezelési szabályzatában meghatározott kézbesítési ponton az érkeztető rendszer működtetője iratkezelési szabályzatában arra feljogosított személy veszi át.
+38/B. §[^61] (1)[^62] Az érkeztető rendszerben a postai szolgáltatótól a papíralapú küldeményt az 1. mellékletben felsorolt szervek címére érkezett postai papíralapú küldeményeken szereplő címhez rendelt, az érkeztető rendszer működtetője szervezeti és működési szabályzatában meghatározott kézbesítési ponton az érkeztető rendszer működtetője szervezeti és működési szabályzatában arra feljogosított személy veszi át.
 
 (2) Ha az érkeztető rendszerhez olyan küldemény érkezik, amelynek nem az 1. mellékletben felsorolt szerv a címzettje, az érkeztető rendszer működtetője a küldeményeket dokumentáltan, felbontás nélkül, kézbesítés céljából a postai szolgáltatónak haladéktalanul visszaadja.
 
@@ -9,6 +9,6 @@
 (5)[^64] A (4) bekezdés szerinti küldeményeket az 1. melléklet szerinti szerv köteles átvenni, illetve ha a küldemények között tévesen továbbított küldemény található, azt haladéktalanul továbbítja a helyes címzett részére.
 
 [^61]: A 38/B. §-t a 323/2014. (XII. 15.) Korm. rendelet 4. §-a iktatta be.
-[^62]: A 38/B. § (1) bekezdése a 34/2015. (II. 27.) Korm. rendelet 33. §-ával megállapított szöveg.
+[^62]: A 38/B. § (1) bekezdése a 34/2015. (II. 27.) Korm. rendelet 33. §-ával megállapított, a 379/2016. (XII. 2.) Korm. rendelet 71. § (6) bekezdés a) pontja szerint módosított szöveg.
 [^63]: A 38/B. § (4) bekezdése a 34/2015. (II. 27.) Korm. rendelet 34. §-ával megállapított szöveg.
 [^64]: A 38/B. § (5) bekezdését a 113/2015. (IV. 30.) Korm. rendelet 1. §-a iktatta be.

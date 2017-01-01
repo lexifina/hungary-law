@@ -23,3 +23,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-335-20-
 | 2016-07-17 | 2005-335-20-22.19 | 186/2016. (VII. 13.) Korm. rendelet |
 | 2016-09-01 | 2005-335-20-22.20 | 251/2016. (VIII. 24.) Korm. rendelet |
 | 2016-12-03 | 2005-335-20-22.21 | 379/2016. (XII. 2.) Korm. rendelet |
+| 2017-01-01 | 2005-335-20-22.22 | 379/2016. (XII. 2.) Korm. rendelet |

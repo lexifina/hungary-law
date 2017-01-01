@@ -1,4 +1,4 @@
-1. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^159]
+1. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^160]
 
 ## Az egységes kormányzati ügyiratkezelő rendszer érkeztető rendszerébe bevont szervek
 
@@ -18,116 +18,77 @@
 
 8. Nemzeti Fejlesztési Minisztérium
 
-9. Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ
+9. Kormányzati Ellenőrzési Hivatal
 
-10. Kormányzati Ellenőrzési Hivatal
+10. Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal
 
-11.[^160]
+11. Nemzetstratégiai Kutatóintézet
 
-12.[^161] Nemzeti Kutatási, Fejlesztési és Innovációs Hivatal
+12. Nemzeti Örökség Intézete
 
-13. Nemzetstratégiai Kutatóintézet
+13. Magyar Nyelvstratégiai Intézet
 
-14. Nemzeti Örökség Intézete
+14. Információs Hivatal
 
-15. Magyar Nyelvstratégiai Intézet
+15. Rendszerváltás Történetét Kutató Intézet és Archívum
 
-16. Információs Hivatal
+16. VERITAS Történetkutató Intézet
 
-17. Rendszerváltás Történetét Kutató Intézet és Archívum
+17. Fővárosi és megyei kormányhivatalok, valamint járási (fővárosi kerületi) hivatalaik
 
-18. VERITAS Történetkutató Intézet
+18. Bevándorlási és Menekültügyi Hivatal
 
-19.[^162] Fővárosi és megyei kormányhivatalok, valamint járási (fővárosi kerületi) hivatalaik
+19. Nemzeti Védelmi Szolgálat
 
-20. Bevándorlási és Állampolgársági Hivatal
+20.Terrorelhárítási Információs és Bűnügyi Elemző Központ
 
-21. Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala
+21. Rendőrség, Független Rendészeti Panasztestület
 
-22. Nemzeti Védelmi Szolgálat
+22. Nemzetbiztonsági Szakszolgálat
 
-23.[^163] Terrorelhárítási Információs és Bűnügyi Elemző Központ
+23. Alkotmányvédelmi Hivatal
 
-24. Rendőrség, Független Rendészeti Panasztestület
+24. BM Országos Katasztrófavédelmi Főigazgatóság és területi, helyi szervei
 
-25. Nemzetbiztonsági Szakszolgálat
+25. Büntetés-végrehajtási Szervezet
 
-26. Alkotmányvédelmi Hivatal
+26. Terrorelhárítási Központ
 
-27. BM Országos Katasztrófavédelmi Főigazgatóság és területi, helyi szervei
+27. Nemzetközi Oktatási Központ
 
-28. Büntetés-végrehajtási Szervezet
+28. Országos Vízügyi Főigazgatóság
 
-29. Terrorelhárítási Központ
+29.[^161]
 
-30. Nemzetközi Oktatási Központ
+30. Emberi Erőforrás Támogatáskezelő
 
-31.[^164]
+31. Oktatási Hivatal
 
-32. Országos Vízügyi Főigazgatóság
+32. Nemzeti Egészségbiztosítási Alapkezelő
 
-33.[^165] Egészségügyi Nyilvántartási és Képzési Központ
+33. Országos Nyugdíjbiztosítási Főigazgatóság
 
-34. Emberi Erőforrás Támogatáskezelő
+34. Országos Tisztifőorvosi Hivatal
 
-35.[^166]
+35. Nemzeti Élelmiszerlánc-biztonsági Hivatal
 
-36. Nemzeti Rehabilitációs és Szociális Hivatal
+36. Nemzeti park igazgatóságok
 
-37. Oktatási Hivatal
+37. Nemzeti Földalapkezelő Szervezet
 
-38. Országos Egészségbiztosítási Pénztár
+38. Országos Meteorológiai Szolgálat
 
-39. Országos Nyugdíjbiztosítási Főigazgatóság
+39. Európai Támogatásokat Auditáló Főigazgatóság
 
-40. Országos Tisztifőorvosi Hivatal
+40. Közbeszerzési és Ellátási Főigazgatóság
 
-41. Földmérési és Távérzékelési Intézet
+41. Kormányzati Informatikai Fejlesztési Ügynökség
 
-42. Mezőgazdasági és Vidékfejlesztési Hivatal
+42. Magyar Bányászati és Földtani Hivatal
 
-43.[^167] Herman Ottó Intézet
+43. Országos Atomenergia Hivatal
 
-44. Nemzeti Élelmiszerlánc-biztonsági Hivatal
+44. Nemzeti Szakképzési és Felnőttképzési Hivatal
 
-45. Nemzeti park igazgatóságok
-
-46. Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség
-
-47. Nemzeti Földalapkezelő Szervezet
-
-48. Országos Meteorológiai Szolgálat
-
-49. Igazságügyi Hivatal
-
-50. Európai Támogatásokat Auditáló Főigazgatóság
-
-51. Magyar Kereskedelmi Engedélyezési Hivatal
-
-52. Közbeszerzési és Ellátási Főigazgatóság
-
-53.[^168]
-
-54. Kormányzati Informatikai Fejlesztési Ügynökség
-
-55. Magyar Bányászati és Földtani Hivatal
-
-56. Nemzeti Fogyasztóvédelmi Hatóság
-
-57. Nemzeti Közlekedési Hatóság
-
-58. Országos Atomenergia Hivatal
-
-59.[^169] Nemzeti Szakképzési és Felnőttképzési Hivatal
-
-[^159]: Az 1. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
-[^160]: Az 1. melléklet 11. pontját a 251/2016. (VIII. 24.) Korm. rendelet 4. §-a hatályon kívül helyezte.
-[^161]: Az 1. melléklet 12. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^162]: Az 1. melléklet 19. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
-[^163]: Az 1. melléklet 23. pontja a 186/2016. (VII. 13.) Korm. rendelet 2. §-a szerint módosított szöveg.
-[^164]: Az 1. melléklet 31. pontját a 379/2016. (XII. 2.) Korm. rendelet 71. § (8) bekezdés a) pontja hatályon kívül helyezte.
-[^165]: Az 1. melléklet 33. pontja a 30/2015. (II. 25.) Korm. rendelet 19. §-a szerint módosított szöveg.
-[^166]: Az 1. melléklet 35. pontját a 244/2016. (VIII. 17.) Korm. rendelet 2. §-a hatályon kívül helyezte.
-[^167]: Az 1. melléklet 43. pontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (6) bekezdés c) pontjával megállapított szöveg.
-[^168]: Az 1. melléklet 53. pontját a 230/2016. (VII. 29.) Korm. rendelet 7. § b) pontja hatályon kívül helyezte.
-[^169]: Az 1. melléklet 59. pontja a 34/2015. (II. 27.) Korm. rendelet 36. §-ával megállapított szöveg.
+[^160]: Az 1. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (7) bekezdésével megállapított szöveg.
+[^161]: Az 1. melléklet 29. pontja a 464/2016. (XII. 23.) Korm. rendelet 48. § (2) bekezdés c) pontja alapján nem lép hatályba.

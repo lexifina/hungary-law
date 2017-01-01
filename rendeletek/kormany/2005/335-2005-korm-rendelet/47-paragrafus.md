@@ -4,13 +4,13 @@ a) könyveket, tananyagokat;
 
 b) reklámanyagokat, tájékoztatókat;
 
-c)[^90] meghívókat, üdvözlő lapokat;
+c)[^91] meghívókat, üdvözlő lapokat;
 
 d) nem szigorú számadású bizonylatokat;
 
 e) bemutatásra vagy jóváhagyás céljából visszavárólag érkezett iratokat;
 
-f)[^91] nyugtákat, pénzügyi kimutatásokat, fizetésiszámla-kivonatokat, számlákat;
+f)[^92] nyugtákat, pénzügyi kimutatásokat, fizetésiszámla-kivonatokat, számlákat;
 
 g) munkaügyi nyilvántartásokat;
 
@@ -20,8 +20,8 @@ i) közlönyöket, sajtótermékeket;
 
 j) visszaérkezett tértivevényeket és elektronikus visszaigazolásokat;
 
-k)[^92] iratkezelési szabályzatban meghatározott elektronikus küldeményeket.
+k)[^93] iratkezelési szabályzatban meghatározott elektronikus küldeményeket.
 
-[^90]: A 47. § c) pontja a 196/2013. (VI. 13.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
-[^91]: A 47. § f) pontja a 64/2010. (III. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
-[^92]: A 47. § k) pontját a 196/2013. (VI. 13.) Korm. rendelet 26. § (2) bekezdése iktatta be.
+[^91]: A 47. § c) pontja a 196/2013. (VI. 13.) Korm. rendelet 26. § (1) bekezdésével megállapított szöveg.
+[^92]: A 47. § f) pontja a 64/2010. (III. 18.) Korm. rendelet 18. §-ával megállapított szöveg.
+[^93]: A 47. § k) pontját a 196/2013. (VI. 13.) Korm. rendelet 26. § (2) bekezdése iktatta be.

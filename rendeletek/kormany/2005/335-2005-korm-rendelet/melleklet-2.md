@@ -1,4 +1,4 @@
-2. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^170]
+2. melléklet a 335/2005. (XII. 29.) Korm. rendelethez[^162]
 
 Az egységes kormányzati ügyiratkezelő rendszerben nem érkeztethető és nem kézbesíthető küldemények
 
@@ -34,13 +34,13 @@ a) a büntetés-végrehajtási intézetben fogvatartottak, továbbá az idegenre
 
 b) a Magyar Közlöny Szerkesztőség küldeményei;
 
-c) az Országos Nyugdíjbiztosítási Főigazgatóság és a nyugdíjbiztosítási igazgatási szervek nyugdíjmegállapítási, nyugdíjfolyósítási és adategyeztetési eljárásaiban keletkezett küldemények;
+c)[^163] az Országos Nyugdíjbiztosítási Főigazgatóság (a továbbiakban: ONYF) és a nyugdíjbiztosítási igazgatási szervként, illetve a családtámogatásokkal, a fogyatékossági támogatással, a vakok személyi járadékával, a bányászati keresetkiegészítéssel vagy a nagycsaládos gázdíjkedvezménnyel kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok és járási (fővárosi kerületi) hivatalok eljárásaiban keletkezett küldemények, amelyeknek – kormányrendeletben meghatározott esetben – a központilag történő érkeztetését, digitalizálását, iktatását, illetve kézbesítését az ONYF végzi;
 
 d) diplomáciai és konzuli küldemények, valamint a Magyarországon akkreditált diplomáciai testületek küldeményei;
 
 e) különleges digitalizálási eljárást igénylő küldemények;
 
-f)[^171] a biztonsági okmányok védelmének rendjéről szóló kormányrendeletben meghatározott biztonsági okmányok;
+f)[^164] a biztonsági okmányok védelmének rendjéről szóló kormányrendeletben meghatározott biztonsági okmányok;
 
 g) kegyelmi ügyek;
 
@@ -48,21 +48,24 @@ h) nemzetközi elfogató parancs;
 
 i) nemzetbiztonsági kérdőív, nemzetbiztonsági ellenőrzés eredményeit tartalmazó dokumentumok;
 
-j) az 1. mellékletben meghatározott szervek iratkezelési szabályzatában meghatározott egyes iratok;
+j)[^165] az 1. mellékletben meghatározott szervek iratkezelési szabályzatában – egységes iratkezelési szabályzat alkalmazása esetén kizárólag az abban – meghatározott egyes iratok;
 
-k) az 1. mellékletben felsorolt szervek iratkezelési szabályzatában meghatározott azon küldemények, amelyek kezelésére a szerv iratkezelési szabályzata speciális rendelkezéseket tartalmaz és digitalizálásukról a szerv gondoskodik.
+k)[^166] az 1. mellékletben felsorolt szervek iratkezelési szabályzatában – egységes iratkezelési szabályzat alkalmazása esetén kizárólag az abban – meghatározott azon küldemények, amelyek kezelésére a szerv iratkezelési szabályzata speciális rendelkezéseket tartalmaz és digitalizálásukról a szerv gondoskodik;
 
-l)[^172] sikertelen kézbesítés miatt a feladónak visszaküldött küldemények;
+l)[^167] sikertelen kézbesítés miatt a feladónak visszaküldött küldemények;
 
-m)[^173] feladóhoz visszaérkezett tértivevények;
+m)[^168] feladóhoz visszaérkezett tértivevények;
 
-n)[^174] a fővárosi és megyei kormányhivatal családtámogatási és lakáscélú állami támogatási feladataival kapcsolatos küldemények;
+n)[^169] a fővárosi és megyei kormányhivatal és járási (kerületi) hivatala lakáscélú állami támogatási feladataival kapcsolatos küldemények;
 
-o)[^175]
+o)[^170]
 
-[^170]: A 2. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
-[^171]: A 2. melléklet II. pont f) alpontja a 34/2015. (II. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
-[^172]: A 2. melléklet II. pont l) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
-[^173]: A 2. melléklet II. pont m) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
-[^174]: A 2. melléklet II. pont n) alpontját a 62/2015. (III. 24.) Korm. rendelet 11. § (5) bekezdése iktatta be.
-[^175]: A 2. melléklet II. pont o) alpontját a 113/2015. (IV. 30.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte ugyanezen módosító rendelet 7. §-a.
+[^162]: A 2. mellékletet a 323/2014. (XII. 15.) Korm. rendelet 8. §-a iktatta be.
+[^163]: A 2. melléklet II. pont c) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (3) bekezdésével megállapított szöveg.
+[^164]: A 2. melléklet II. pont f) alpontja a 34/2015. (II. 27.) Korm. rendelet 37. §-ával megállapított szöveg.
+[^165]: A 2. melléklet II. pont j) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (4) bekezdésével megállapított szöveg.
+[^166]: A 2. melléklet II. pont k) alpontja a 379/2016. (XII. 2.) Korm. rendelet 71. § (5) bekezdésével megállapított szöveg.
+[^167]: A 2. melléklet II. pont l) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
+[^168]: A 2. melléklet II. pont m) alpontját a 34/2015. (II. 27.) Korm. rendelet 37. §-a iktatta be.
+[^169]: A 2. melléklet II. pont n) alpontját a 62/2015. (III. 24.) Korm. rendelet 11. § (5) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 71. § (6) bekezdés d) pontja és (9) bekezdése szerint módosított szöveg.
+[^170]: A 2. melléklet II. pont o) alpontját a 113/2015. (IV. 30.) Korm. rendelet 5. §-a iktatta be, hatályon kívül helyezte ugyanezen módosító rendelet 7. §-a.
