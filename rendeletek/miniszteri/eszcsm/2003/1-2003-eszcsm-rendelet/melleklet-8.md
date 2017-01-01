@@ -6,6 +6,6 @@
 
 ## Infúzió és injekció készítésénél az előírt Aqua destillata pro injectione csak Aqua destillata áron számítható fel a kétszeres magisztrális díjtétel elkerülése érdekében.
 
-8–9. számú melléklet az 1/2003. (I. 21.) ESZCSM rendelethez[^31]
+8–9. számú melléklet az 1/2003. (I. 21.) ESZCSM rendelethez[^32]
 
-[^31]: A 8–9. számú mellékletet a 10/2004. (XII. 15.) EüM rendelet 19. § (3) bekezdésének c) pontja hatályon kívül helyezte.
+[^32]: A 8–9. számú mellékletet a 10/2004. (XII. 15.) EüM rendelet 19. § (3) bekezdésének c) pontja hatályon kívül helyezte.

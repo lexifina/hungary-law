@@ -1,4 +1,4 @@
-2. számú melléklet az 1/2003. (I. 21.) ESZCSM rendelethez[^28]
+2. számú melléklet az 1/2003. (I. 21.) ESZCSM rendelethez[^29]
 
 ## Adatlap gyógyszeranyag közzétételéhez
 
@@ -38,4 +38,4 @@ b) Kiszerelési egység:
 
 * Amennyiben az alapanyag már rendelkezik TTT kóddal.
 
-[^28]: A 2. számú mellékletet a 91/2004. (IV. 26.) Korm. rendelet 9. § (2) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 6/2007. (I. 31.) EüM rendelet 5. §-a iktatta be.
+[^29]: A 2. számú mellékletet a 91/2004. (IV. 26.) Korm. rendelet 9. § (2) bekezdésének c) pontja hatályon kívül helyezte, újonnan a 6/2007. (I. 31.) EüM rendelet 5. §-a iktatta be.

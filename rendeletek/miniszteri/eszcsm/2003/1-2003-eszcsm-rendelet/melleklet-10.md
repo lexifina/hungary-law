@@ -1,4 +1,4 @@
-10. számú melléklet az 1/2003. (I. 21.) ESZCSM rendelethez[^32]
+10. számú melléklet az 1/2003. (I. 21.) ESZCSM rendelethez[^33]
 
 A házi oxigénellátáshoz szükséges speciális, árunak minősülő csomagolások és letéti díjak
 
@@ -18,4 +18,4 @@ Tartós oxigén terápia indikációban oxigénpalack esetén belgyógyász szak
 
 Megjegyzés: a palack, illetve tartály visszavételekor a forgalmazó a tb támogatás összegét a gyógyszer költségvetési alapba, a beteg által fizetett térítési díjat a betegnek visszafizeti.
 
-[^32]: A 10. számú melléklet a 83/2003. (XII. 26.) ESZCSM rendelet 6. §-ának f) pontjával, felvezető mondata a 13/2004. (III. 3.) ESZCSM rendelet 2. §-ával megállapított, a 33/2013. (V. 10.) EMMI rendelet 28. §-a szerint módosított szöveg.
+[^33]: A 10. számú melléklet a 83/2003. (XII. 26.) ESZCSM rendelet 6. §-ának f) pontjával, felvezető mondata a 13/2004. (III. 3.) ESZCSM rendelet 2. §-ával megállapított, a 33/2013. (V. 10.) EMMI rendelet 28. §-a szerint módosított szöveg.

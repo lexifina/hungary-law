@@ -1,6 +1,6 @@
 1. §[^1] (1) Járóbeteg részére társadalombiztosítási támogatással – ha jogszabály másként nem rendelkezik – csak az emberi felhasználásra kerülő gyógyszerek rendeléséről és kiadásáról szóló 44/2004. (IV. 28.) ESZCSM rendeletben (a továbbiakban: GYR) meghatározottak szerint rendelhető és szolgáltatható ki gyógyszer.
 
-(2)[^2] Olyan gyógyszert, amelynek a közfinanszírozás alapjául elfogadott árához (a továbbiakban: ár) a járóbeteg-ellátás keretében az Országos Egészségbiztosítási Pénztár (a továbbiakban: OEP) támogatást nyújt, az orvos csak az OEP által e célra rendszeresített, a (3) bekezdés szerint kitöltött vényen rendelhet.
+(2)[^2] Olyan gyógyszert, amelynek a közfinanszírozás alapjául elfogadott árához (a továbbiakban: ár) a járóbeteg-ellátás keretében a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: NEAK) támogatást nyújt, az orvos csak a NEAK által e célra rendszeresített, a (3) bekezdés szerint kitöltött vényen rendelhet.
 
 (3)[^3] Társadalombiztosítási támogatás csak olyan – a (2) bekezdésben meghatározott – vény alapján számolható el,
 
@@ -23,7 +23,7 @@ e)[^5] amelyről – a 2. §-ban foglaltak kivételével – az erre rendszeres�
 (7) Ha a gyógyszert kiadó meggyőződött arról, hogy a vényen feltüntetett és a jogosultságot igazoló hatósági igazolványon szereplő TAJ szám eltér egymástól, a vény hátoldalán az igazolványon szereplő adatokat (TAJ szám, közgyógyellátási igazolvány száma) rögzíti, azok helyességét a gyógyszert kiváltó és a gyógyszert kiadó az aláírásával igazolja.
 
 [^1]: Az 1. § a 38/2006. (IX. 27.) EüM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (1) bekezdése alapján a rendelkezést a 2006. október 16. napját követően kiállított vények beváltásakor kell alkalmazni.
-[^2]: Az 1. § (2) bekezdése a 9/2009. (IV. 8.) EüM rendelet 1. §-ával megállapított, a 7/2016. (III. 30.) EMMI rendelet 2. § a) pontja és 3. §-a szerint módosított szöveg.
+[^2]: Az 1. § (2) bekezdése a 9/2009. (IV. 8.) EüM rendelet 1. §-ával megállapított, a 7/2016. (III. 30.) EMMI rendelet 2. § a) pontja és 3. §-a, az 54/2016. (XII. 30.) EMMI rendelet 27. § a) és b) pontja szerint módosított szöveg.
 [^3]: Az 1. § (3) bekezdése a 6/2007. (I. 31.) EüM rendelet 1. §-ával megállapított szöveg.
 [^4]: Az 1. § (3) bekezdés d) pontja a 38/2009. (XI. 6.) EüM rendelet 8. § (4) bekezdése szerint módosított szöveg.
 [^5]: Az 1. § (3) bekezdés e) pontja a 7/2016. (III. 30.) EMMI rendelet 1. §-ával megállapított szöveg.
