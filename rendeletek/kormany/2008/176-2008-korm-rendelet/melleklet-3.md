@@ -1,4 +1,4 @@
-3. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^60]
+3. melléklet a 176/2008. (VI. 30.) Korm. rendelethez[^62]
 
 ## Épületenergetikai minőség szerinti besorolás (az energetikai minőségi osztályok)
 
@@ -46,4 +46,4 @@
 
 | 13. | JJ | >500 | Kiemelkedően rossz |
 
-[^60]: A 3. melléklet a 261/2015. (IX. 14.) Korm. rendelet 6. § c) pontjával megállapított szöveg.
+[^62]: A 3. melléklet a 261/2015. (IX. 14.) Korm. rendelet 6. § c) pontjával megállapított szöveg.
