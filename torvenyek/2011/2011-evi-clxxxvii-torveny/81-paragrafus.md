@@ -10,6 +10,6 @@
 
 (5) A bizottság a szakképzést érintő (3) bekezdés szerinti javaslatát a javaslattal érintett tanévet megelőző évben március utolsó munkanapjáig teszi meg elsősorban a munkaerő-piaci kereslet, a hiány-szakképesítések és a 82. § a) pontjában meghatározott szakképzés-fejlesztési koncepciója alapján.
 
-(6) A bizottság a szakképzést érintő (3) bekezdés szerinti javaslatát az állami szakképzési és felnőttképzési szerv készíti elő a Kormány 84. §-ban meghatározott döntésének meghozatala céljából.
+(6) A bizottságnak a szakképzést érintő (3) bekezdés szerinti, a szakképzési feladatot ellátó hatóság által összesített javaslatát az állami szakképzési és felnőttképzési szerv a Kormány 84. § (5) bekezdése szerinti döntésének meghozatala céljából előkészíti, és megküldi a szakképzésért és felnőttképzésért felelős miniszternek.
 
 (7) A bizottság az iskolarendszeren kívüli szakmai képzéseket érintő (3) bekezdés szerinti javaslatát a szakképesítésekre vonatkozó munkaerő-piaci kereslet és a hiány-szakképesítések figyelembevétele alapján, de évente legalább egy alkalommal teszi meg.

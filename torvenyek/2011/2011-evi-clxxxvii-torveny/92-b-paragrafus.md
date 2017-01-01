@@ -2,7 +2,7 @@
 
 (1a)
 
-(2) Az állami intézményfenntartó központ által fenntartott intézmény esetében az oktatásért felelős miniszter a nemzeti köznevelésről szóló 2011. évi CXC. törvény 84. § (7) bekezdése szerinti, szakképzési feladatellátást érintő döntést kizárólag a szakképzésért és felnőttképzésért felelős miniszter egyetértésével hozhat.
+(2) A tankerületi központ által fenntartott intézmény esetében az oktatásért felelős miniszter a nemzeti köznevelésről szóló 2011. évi CXC. törvény 84. § (7) bekezdése szerinti, szakképzési feladatellátást érintő döntést kizárólag a szakképzésért és felnőttképzésért felelős miniszter egyetértésével hozhat.
 
 (3) Az önkormányzat tulajdonosi részesedésével működő gazdasági társaság a térségi integrált szakképző központ feladatait és az ezzel összefüggő projekt-végrehajtási és projekt-fenntartási kötelezettségeit 2015. július 1-jei hatállyal átadja a szakképzési centrum részére.
 

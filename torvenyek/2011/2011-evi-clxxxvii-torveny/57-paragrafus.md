@@ -22,4 +22,4 @@ i) az együttműködési megállapodást kötő felek között a gyakorlati kép
 
 j) a szakképző iskola nyilatkozatát arra vonatkozóan, hogy az együttműködés keretében megszervezett képzés az iskolai rendszerű szakképzésben a nappali, az esti vagy a levelező oktatás, vagy az oktatás egyéb sajátos munkarendjében, vagy a nappali oktatás munkarendje szerint szervezett felnőttoktatásban folyik,
 
-k) ha az együttműködési megállapodás nem állami fenntartású szakképző iskolával jön létre, a szakképző iskola nyilatkozatát arra vonatkozóan, hogy a képzés megszervezésére szakképzési megállapodás alapján, az állam által költségvetési hozzájárulásban részesített iskolai rendszerű szakképzés keretében kerül sor.
+k) nem állami fenntartású szakképző iskolával létrejött együttműködési megállapodás esetén a szakképző iskola nyilatkozatát arra vonatkozóan, hogy a képzés megszervezésére a Kormány 84. § (5) bekezdése szerinti döntése alapján, az állam által költségvetési hozzájárulásban részesített iskolai rendszerű szakképzés keretében kerül sor.

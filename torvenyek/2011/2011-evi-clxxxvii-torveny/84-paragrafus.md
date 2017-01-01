@@ -32,15 +32,11 @@ c) költségvetési hozzájárulást korlátozott keretszámok alapján igényel
 
 (5d) A Kormány (5) bekezdés c) pontja szerinti, a keretszámok fenntartónkénti elosztására vonatkozóan megyénként és a fővárosra tekintettel hozott döntését az iskolai rendszerű szakképzés tekintetében az (5a)–(5c) bekezdés alapján tett javaslatok alapján hozza meg az érintett tanévet megelőző év szeptember utolsó munkanapjáig. A Kormány (5) bekezdés szerinti döntése nem terjed ki a honvédelemért felelős miniszter hatáskörébe tartozó szakképesítésekre.
 
-(6) A Kormány (5) bekezdés szerinti döntése kiterjed minden olyan szakképző iskolai fenntartóra, amelynek a fővárosban vagy a megyében e törvény vagy a nemzeti köznevelésről szóló törvény alapján szakképzési feladatellátási kötelezettsége van, továbbá amely szakképzési megállapodást kötött a szakképzési feladatok ellátására. A szakképző iskolai fenntartó a Kormány (5) bekezdés szerinti döntése alapján a döntéssel érintett tanévtől kezdődő képzés tekintetében az adott képzés kifutásáig jogosult költségvetési hozzájárulásra.
+(6) A szakképző iskolai fenntartó a Kormány (5) bekezdés szerinti döntése alapján a döntéssel érintett tanévtől kezdődő képzés tekintetében az adott képzés kifutásáig, az ingyenes képzésben való részvétéire jogosult tanulói után jogosult költségvetési hozzájárulásra.
 
-(7) Az iskolai rendszerű szakképzésben ellátott feladatok után a szakképző iskola nem állami fenntartója akkor jogosult költségvetési hozzájárulásra, ha a fővárosi, megyei kormányhivatallal szakképzési megállapodást kötött.
+(7)–(9)
 
-(8) A fővárosi, megyei kormányhivatal – a szakképzésért és felnőttképzésért felelős miniszter egyetértésével – legfeljebb öt évre szakképzési megállapodást köthet a szakképző iskola azon nem állami fenntartójával, amelynek nincs jogszabály alapján feladatellátási kötelezettsége az e törvény szerint ellátott vagy ellátni kívánt feladatok tekintetében az adott megyében vagy a fővárosban. A szakképzésért és felnőttképzésért felelős miniszter egyetértési jogát az állami szakképzési és felnőttképzési szerv vezetője útján gyakorolja. A szakképzési megállapodás alapján a szakképző iskola nem állami fenntartója költségvetési hozzájárulásra csak az (5) bekezdés szerinti döntésnek megfelelő képzések után, az ingyenes képzésben való részvételre jogosult tanulói után jogosult.
-
-(9) Amennyiben a szakképző iskola szakképzési megállapodással rendelkező nem állami fenntartója a szakképző iskolának a nemzeti köznevelésről szóló törvény szerinti átszervezéséről dönt, a fenntartó kezdeményezésére a szakképzési megállapodást a döntést követő harminc napon belül felül kell vizsgálni, és szükség esetén módosítani kell.
-
-(10) A költségvetési hozzájárulást folyósító szerv, valamint a kormányhivatal hatósági ellenőrzése keretében ellenőrzi a szakképzési megállapodásban foglaltak és az (5) bekezdésben foglalt döntés betartását.
+(10) A költségvetési hozzájárulást folyósító szerv, valamint a kormányhivatal hatósági ellenőrzése keretében a (6) bekezdésben foglaltak figyelembevételével ellenőrzi az (5) bekezdésben foglalt döntés betartását.
 
 (11) Az állam az e törvény értelmében ingyenesen biztosítandó képzésekhez költségvetési hozzájárulást biztosít.
 

@@ -30,7 +30,7 @@ kötelező szakképzési kerettanterveit,
 
 f) kezdeményezi a közismereti tárgyak oktatásához a szakközépiskolákban, továbbá a szakgimnáziumokban kötelezően alkalmazandó ágazatonként differenciált kerettantervek elkészítését és kiadását az oktatásért felelős miniszternél,
 
-g) közvetlenül – vagy az állami szakképzési és felnőttképzési szerv vezetője útján, a 14. § (2) bekezdésében foglaltak figyelembevételével – valamennyi szakképesítés tekintetében megbízza a szakmai vizsgabizottság elnökét,
+g) közvetlenül – vagy a szakképzési feladatot ellátó hatóság vezetője útján, a 14. § (2) bekezdésében foglaltak figyelembevételével – valamennyi szakképesítés tekintetében megbízza a szakmai vizsgabizottság elnökét,
 
 h) kidolgoztatja és működteti a 16. § szerinti, a komplex szakmai vizsgák lebonyolításának és az adatszolgáltatásnak az informatikai támogatását és a 9. § szerinti, a komplex szakmai vizsgán kiadott bizonyítványok központi elektronikus nyilvántartását.
 

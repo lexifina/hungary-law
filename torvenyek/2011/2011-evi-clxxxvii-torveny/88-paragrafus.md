@@ -6,6 +6,8 @@
 
 88. § (1) Felhatalmazást kap a Kormány, hogy az állami szakképzési és felnőttképzési szervet rendeletben jelölje ki.
 
+(1a) Felhatalmazást kap a Kormány, hogy a szakképzési feladatot ellátó hatóságot rendeletben kijelölje és a feladatait meghatározza.
+
 (2) Felhatalmazást kap a Kormány, hogy rendeletben határozza meg
 
 a) a gyakorlati képzés folytatására jogosult szervezetek nyilvántartása tartalmának és a nyilvántartásba-vételi eljárásnak a részletes szabályait, a nyilvántartásba vétel részletes feltételeit, valamint a 26. § (1) bekezdésében meghatározott, a gyakorlati képzés folytatására jogosult szervezet kizárólag gyakorlati képzési célt szolgáló tanműhelyként történő nyilvántartásba vétel részletes feltételeit,
@@ -26,7 +28,7 @@ d) a szakmai vizsgadíj és a vizsgáztatási díjak kereteit,
 
 e) a szakképzés megkezdésének és folytatásának feltételeit,
 
-f) a szakképzési megállapodás tartalmát és megkötésének részletes szabályait,
+f)
 
 g) a pályaorientációval és az egész életen át tartó életpálya-tanácsadással kapcsolatos szolgáltatások részletes szabályait, valamint a pályaorientációval és az egész életen át tartó életpálya-tanácsadással kapcsolatos szolgáltatásokat koordináló szervezetet, továbbá az életpálya-tanácsadást nyújtó szervezetek feladatait,
 
