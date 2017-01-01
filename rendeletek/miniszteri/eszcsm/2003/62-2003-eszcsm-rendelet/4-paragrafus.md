@@ -2,6 +2,6 @@
 
 (2) Gombamérgezés, vagy annak gyanúja esetén a vizsgálati anyagokhoz a 3. számú melléklet szerinti mintavételi jegyzőkönyvet kell kitöltve csatolni.
 
-(3)[^2] A gombamérgezésre gyanús eset klinikai diagnózisának felállításához szükséges laboratóriumi vizsgálatok elvégeztetéséről vagy elvégzéséről a beteget ellátó egészségügyi intézmény gondoskodik saját vagy arra alkalmas vizsgáló laboratórium, illetve a Mezőgazdasági Szakigazgatási Hivatal (a továbbiakban: MgSzH) gombavizsgálati referencialaboratóriumának igénybevételével.
+(3)[^2] A gombamérgezésre gyanús eset klinikai diagnózisának felállításához szükséges laboratóriumi vizsgálatok elvégeztetéséről vagy elvégzéséről a beteget ellátó egészségügyi intézmény gondoskodik saját vagy arra alkalmas vizsgáló laboratórium, illetve Nemzeti Élelmiszerlánc-biztonsági Hivatal (a továbbiakban: NÉBIH) gombavizsgálati referencialaboratóriumának igénybevételével.
 
-[^2]: A 4. § (3) bekezdése a 12/2008. (III. 26.) EüM rendelet 2. § (1) bekezdésével megállapított, a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés b) pontja szerint módosított szöveg.
+[^2]: A 4. § (3) bekezdése a 12/2008. (III. 26.) EüM rendelet 2. § (1) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 33. § (1) bekezdés a) pontja szerint módosított szöveg.

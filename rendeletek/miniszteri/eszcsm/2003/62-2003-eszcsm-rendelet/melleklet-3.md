@@ -4,7 +4,7 @@
 
 | Botulizmus | vér | OEK |
 
-|  | élelmiszer | MgSzH |
+|  | élelmiszer | NÉBIH |
 
 | Baktérium, | hányadék | kormányhivatal |
 
@@ -20,7 +20,7 @@
 
 |  | élelmiszer |  |
 
-| Mérgező gomba | hányadék | kórházi laboratóriumok, illetve az MgSzH gombavizsgálati |
+| Mérgező gomba | hányadék | kórházi laboratóriumok, illetve a NÉBIH gombavizsgálati |
 
 |  | gyomormosó folyadék | referencia laboratóriuma |
 

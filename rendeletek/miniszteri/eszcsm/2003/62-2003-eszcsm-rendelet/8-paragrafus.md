@@ -38,7 +38,7 @@ d) a megtett intézkedéseket.
 
 (6)[^17] A súlyos vagy tömeges élelmiszer eredetű megbetegedés veszélyével fenyegető [(1) bekezdés] vagy külföldi vonatkozással bíró élelmiszer-szennyezettség észleléséről és egyéb veszélyhelyzetekről a kormányhivatal haladéktalanul értesíti az OTH-t és az OEK-et.
 
-(7)[^18] A (6) bekezdés szerinti esetekről az OTH a gyors vészjelző rendszer keretében értesíti a Nemzeti Élelmiszerlánc-biztonsági Hivatalt.
+(7)[^18] A (6) bekezdés szerinti esetekről az OTH a gyors vészjelző rendszer keretében értesíti a NÉBIH-et és a Pest Megyei Kormányhivatalt.
 
 (8)[^19] Az (1) bekezdés szerinti esemény vizsgálat lezárásakor a kormányhivatal tesz összefoglaló jelentést az OTH és az OEK részére.
 
@@ -47,5 +47,5 @@ d) a megtett intézkedéseket.
 [^15]: A 8. § (4) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 54. § c) és g) pontja szerint módosított szöveg.
 [^16]: A 8. § (5) bekezdése a 10/2011. (III. 30.) NEFMI rendelet 35. § (1) bekezdés e) pont ec) alpontja szerint módosított szöveg.
 [^17]: A 8. § (6) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 54. § c) és g) pontja szerint módosított szöveg.
-[^18]: A 8. § (7) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 22. § b) pontja szerint módosított szöveg.
+[^18]: A 8. § (7) bekezdése az 54/2015. (XI. 24.) EMMI rendelet 22. § b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 33. § (1) bekezdés f) pontja szerint módosított szöveg.
 [^19]: A 8. § (8) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 54. § c) és h) pontja szerint módosított szöveg.
