@@ -1,0 +1,1 @@
+## 15. § Az elsődleges leletfeldolgozási, továbbá a muzeális intézményekre vonatkozó állományvédelmi és nyilvántartási követelményeknek nem megfelelő, valamint rendezetlen régészeti leletanyagot – a 7. §-ban meghatározott esetek kivételével – a befogadó múzeum nem veszi át végleges gyűjteményi elhelyezésre.

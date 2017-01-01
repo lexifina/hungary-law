@@ -1,0 +1,3 @@
+19. § (1) A végleges leletbefogadás lefolytatása érdekében a régészeti feltárást végző intézmény köteles az előkerült leletanyag mennyiségének ismeretében az elsődleges leletfeldolgozás vagy – a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendeletben meghatározott esetben – a teljes tudományos feldolgozás befejezését követő 30 napon belül végleges leletbefogadási szerződést kötni a befogadó múzeummal.
+
+(2) A szerződő felek a végleges leletbefogadási szerződés megkötésének tényéről a leletbefogadási szerződés megkötését követő 15 napon belül közös írásos nyilatkozatban értesítik a régészeti feltárások ellenőrzésére jogszabályban kijelölt örökségvédelmi szervet.
