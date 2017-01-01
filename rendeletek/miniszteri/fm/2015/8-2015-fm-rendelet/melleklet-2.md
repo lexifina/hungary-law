@@ -16,7 +16,7 @@
 
 ## 9603 temetkezés, temetkezést kiegészítő szolgáltatás
 
-2. melléklet a 8/2015. (III. 13.) FM rendelethez[^11]
+2. melléklet a 8/2015. (III. 13.) FM rendelethez[^15]
 
 ## ÖVTJ kódok
 
@@ -82,4 +82,4 @@ V. Vízmű üzemeltetése:
 
 429101 vízi létesítmény építése
 
-[^11]: A 2. melléklet a 25/2016. (IV. 11.) FM rendelet 41. § b) pontjával megállapított szöveg.
+[^15]: A 2. melléklet a 25/2016. (IV. 11.) FM rendelet 41. § b) pontjával megállapított szöveg.

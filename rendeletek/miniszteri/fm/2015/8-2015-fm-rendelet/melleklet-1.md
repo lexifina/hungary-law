@@ -1,6 +1,6 @@
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. melléklet a 8/2015. (III. 13.) FM rendelethez[^10]
+1. melléklet a 8/2015. (III. 13.) FM rendelethez[^14]
 
 ## TEÁOR 08 kódok
 
@@ -58,4 +58,4 @@ IV. Vasúttársaság üzemeltetése:
 
 V. Vízmű üzemeltetése:
 
-[^10]: Az 1. melléklet a 25/2016. (IV. 11.) FM rendelet 41. § a) pontjával megállapított szöveg.
+[^14]: Az 1. melléklet a 25/2016. (IV. 11.) FM rendelet 41. § a) pontjával megállapított szöveg.
