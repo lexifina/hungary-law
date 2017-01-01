@@ -66,15 +66,15 @@ b)[^18]
 
 15. szolgáltatás: minden olyan műszaki támogató tevékenység, amely a haditechnikai eszköz fejlesztésével, gyártásával, összeszerelésével, minőségi vizsgálatával, üzemeltetésével, karbantartásával, javításával vagy bármely más műszaki szolgáltatással kapcsolatos, ideértve a bérmunkát, továbbá az eszközök kezelésének és alkalmazásának oktatását, és amely megvalósulhat műszaki-technológiai utasítás, elméleti és gyakorlati oktatás, gyártási ismeret és tapasztalat átadása vagy konzultáció útján szóban, írásban és elektronikus úton is;
 
-16. tanúsított vállalat: olyan vállalkozás, amely rendelkezik a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: Hatóság) által kiadott tanúsítással, továbbá az Európai Unió más tagállamában letelepedett, a tagállam hatósága által tanúsított gyártó;
+16.[^19] tanúsított vállalat: olyan vállalkozás, amely rendelkezik a külkereskedelmi államigazgatási feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: Hatóság) által kiadott tanúsítással, továbbá az Európai Unió más tagállamában letelepedett, a tagállam hatósága által tanúsított gyártó;
 
 17. transzfer: haditechnikai eszköz átadása vagy szállítása egy Európai Unió tagállamában lévő szállító és egy valamely másik tagállamban található címzett között, amely lehet:
 
-a)[^19] kiszállítás: olyan kereskedelmi ügylet, amelynek során a haditechnikai eszköz vagy szolgáltatás Magyarország területéről az Európai Unió valamely tagállamába kerül, beleértve az ideiglenes árumozgást,
+a)[^20] kiszállítás: olyan kereskedelmi ügylet, amelynek során a haditechnikai eszköz vagy szolgáltatás Magyarország területéről az Európai Unió valamely tagállamába kerül, beleértve az ideiglenes árumozgást,
 
-b)[^20] beérkezés: olyan kereskedelmi ügylet, amelynek során a haditechnikai eszköz vagy szolgáltatás az Európai Unió valamely tagállamából érkezik Magyarország területére; beleértve az ideiglenes árumozgást;
+b)[^21] beérkezés: olyan kereskedelmi ügylet, amelynek során a haditechnikai eszköz vagy szolgáltatás az Európai Unió valamely tagállamából érkezik Magyarország területére; beleértve az ideiglenes árumozgást;
 
-18.[^21] transzfert végrehajtó: olyan vállalkozás,
+18.[^22] transzfert végrehajtó: olyan vállalkozás,
 
 a) amelynek nevében a 17. pont szerinti kiszállításról vagy beérkezésről szóló nyilatkozatot teszik,
 
@@ -82,7 +82,7 @@ b) amely a nyilatkozat elfogadásakor az Európai Unió egyik tagállamában bej
 
 c) amely szoftver vagy technológia szóban, írásos formában, elektronikus úton, faxon vagy telefonon való továbbításáról rendelkezik az Európai Unió vámterületén belül;
 
-19.[^22] tranzit: olyan szállítási folyamat, amelynek során haditechnikai eszközt Magyarország területén keresztül
+19.[^23] tranzit: olyan szállítási folyamat, amelynek során haditechnikai eszközt Magyarország területén keresztül
 
 a) az Európai Unió külső határszakaszai között,
 
@@ -94,17 +94,17 @@ c) az Európai Unió tagállamainak belső határszakaszai között
 
 20. újra kivitel:
 
-a)[^23] a Vámkódex 197., 199., és 270. cikkében foglalt újra kivitel vagy
+a)[^24] a Vámkódex 197., 199., és 270. cikkében foglalt újra kivitel vagy
 
-b)[^24] szoftver és technológia szóban, írásos formában, elektronikus úton, telefaxon vagy telefonon történő továbbítása harmadik országba, technológia telefonon történő szóbeli továbbítása akkor, ha egy dokumentumban leírt technológia vonatkozó részét beolvassák, vagy telefonon keresztül oly módon írják le, ami alapvetően azonos eredményhez vezet;
+b)[^25] szoftver és technológia szóban, írásos formában, elektronikus úton, telefaxon vagy telefonon történő továbbítása harmadik országba, technológia telefonon történő szóbeli továbbítása akkor, ha egy dokumentumban leírt technológia vonatkozó részét beolvassák, vagy telefonon keresztül oly módon írják le, ami alapvetően azonos eredményhez vezet;
 
 21. vállalkozás: az olyan jogi személy vagy jogi személyiség nélküli jogalany, amely elsődlegesen üzletszerű gazdasági tevékenység folytatása céljából jött létre, továbbá az egyéni vállalkozó, valamint költségvetési szerv;
 
 22. Végfelhasználói Nyilatkozat: az exportőr ország kérésére a végfelhasználó, vagy a végfelhasználó országának nyilatkozata arról, hogy a megvásárolt eszközök a végfelhasználó országában a megjelölt céllal kerülnek felhasználásra, továbbá az áru nukleáris, biológiai, illetve vegyi fegyverek fejlesztésére, gyártására és használatára, vagy ilyen fegyverek célba juttatására szolgáló eszköz részeként nem kerül felhasználásra; tartalmazhat újra kiviteli tilalmat, illetve nyilatkozatot arról, hogy nem kerül továbbértékesítésre az eredeti exportőr ország hozzájárulása nélkül.
 
-23.[^25] belépési vámhivatal: az a vámhivatal, ahová a harmadik országból az Európai Unió vámterületére belépő, valamint azon átszállítandó árukat késedelem nélkül tovább kell szállítani, és ahol azokat megfelelő kockázatalapú beléptetési ellenőrzésnek vetik alá;
+23.[^26] belépési vámhivatal: az a vámhivatal, ahová a harmadik országból az Európai Unió vámterületére belépő, valamint azon átszállítandó árukat késedelem nélkül tovább kell szállítani, és ahol azokat megfelelő kockázatalapú beléptetési ellenőrzésnek vetik alá;
 
-24.[^26] kiléptető vámhivatal: az a vámhivatal, ahol az Európai Unió vámterületét elhagyó áruk vámjogi sorsának meghatározásával kapcsolatos alakiságokat és a tranzitáruk kiléptetését elvégzik, beleértve a megfelelő kockázatalapú ellenőrzéseket is.
+24.[^27] kiléptető vámhivatal: az a vámhivatal, ahol az Európai Unió vámterületét elhagyó áruk vámjogi sorsának meghatározásával kapcsolatos alakiságokat és a tranzitáruk kiléptetését elvégzik, beleértve a megfelelő kockázatalapú ellenőrzéseket is.
 
 [^1]: Az 1. § 1. pontja a 78/2013. (III. 13.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § 1. pont a) alpontja a 88/2016. (IV. 29.) Korm. rendelet 28. § (1) bekezdésével megállapított szöveg.
@@ -124,11 +124,12 @@ b)[^24] szoftver és technológia szóban, írásos formában, elektronikus úto
 [^16]: Az 1. § 12. pontja a 78/2013. (III. 13.) Korm. rendelet 1. § (3) bekezdésével megállapított szöveg.
 [^17]: Az 1. § 12. pont a) alpontja a 88/2016. (IV. 29.) Korm. rendelet 28. § (2) bekezdés f) pontja szerint módosított szöveg.
 [^18]: Az 1. § 12. pont b) alpontját a 80/2015. (III. 31.) Korm. rendelet 11. § (1) bekezdés b) pontja hatályon kívül helyezte.
-[^19]: Az 1. § 17. pont a) alpontja a 144/2012. (VII. 3.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^20]: Az 1. § 17. pont b) alpontja a 144/2012. (VII. 3.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
-[^21]: Az 1. § 18. pontja a 78/2013. (III. 13.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^22]: Az 1. § 19. pontja a 78/2013. (III. 13.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
-[^23]: Az 1. § 20. pont a) alpontja a 88/2016. (IV. 29.) Korm. rendelet 28. § (2) bekezdés g) pontja szerint módosított szöveg.
-[^24]: Az 1. § 20. pont b) alpontja a 78/2013. (III. 13.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
-[^25]: Az 1. § 23. pontját a 78/2013. (III. 13.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 88/2016. (IV. 29.) Korm. rendelet 28. § (2) bekezdés h) pontja szerint módosított szöveg.
-[^26]: Az 1. § 24. pontját a 78/2013. (III. 13.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 88/2016. (IV. 29.) Korm. rendelet 28. § (2) bekezdés i) pontja szerint módosított szöveg.
+[^19]: Az 1. § 16. pontja a 379/2016. (XII. 2.) Korm. rendelet 178. §-a szerint módosított szöveg.
+[^20]: Az 1. § 17. pont a) alpontja a 144/2012. (VII. 3.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^21]: Az 1. § 17. pont b) alpontja a 144/2012. (VII. 3.) Korm. rendelet 12. § a) pontja szerint módosított szöveg.
+[^22]: Az 1. § 18. pontja a 78/2013. (III. 13.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^23]: Az 1. § 19. pontja a 78/2013. (III. 13.) Korm. rendelet 1. § (4) bekezdésével megállapított szöveg.
+[^24]: Az 1. § 20. pont a) alpontja a 88/2016. (IV. 29.) Korm. rendelet 28. § (2) bekezdés g) pontja szerint módosított szöveg.
+[^25]: Az 1. § 20. pont b) alpontja a 78/2013. (III. 13.) Korm. rendelet 15. § b) pontja szerint módosított szöveg.
+[^26]: Az 1. § 23. pontját a 78/2013. (III. 13.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 88/2016. (IV. 29.) Korm. rendelet 28. § (2) bekezdés h) pontja szerint módosított szöveg.
+[^27]: Az 1. § 24. pontját a 78/2013. (III. 13.) Korm. rendelet 1. § (5) bekezdése iktatta be, szövege a 88/2016. (IV. 29.) Korm. rendelet 28. § (2) bekezdés i) pontja szerint módosított szöveg.
