@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2003-78-20-0
 | 2012-05-18 | 2003-78-20-0L.6 | 7/2012. (IV. 18.) NGM rendelet |
 | 2014-01-17 | 2003-78-20-0L.7 | 64/2013. (XII. 18.) NGM rendelet |
 | 2015-04-01 | 2003-78-20-0L.8 | 9/2015. (III. 31.) NGM rendelet |
+| 2017-01-01 | 2003-78-20-0L.9 | 62/2016. (XII. 29.) NGM rendelet |
