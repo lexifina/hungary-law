@@ -2,7 +2,7 @@
 
 ## A kármentesítési monitoring jelentés, illetve záródokumentáció tartalma
 
-1.[^370] Alapadatok
+1.[^371] Alapadatok
 
 A szennyezett terület, a szennyezett környezeti elemek pontos térbeli lehatárolása, a szennyezettség felszíni metszetének sarokponti EOV koordinátája, a helyrajzi szám(ok), az ingatlan-nyilvántartási, továbbá az áttekintő 1:10 000 méretarányú térkép, valamint a szennyezett területre vonatkozóan a település neve, az ingatlan fekvése, a belterületen lévő ingatlannál az utca neve és a házszám, a területnagyság, a művelési ág és a művelés alól kivett terület elnevezése.
 
@@ -30,7 +30,7 @@ a) A már elvégzett kármentesítési szakaszok.
 
 b) A kiindulási szennyezettségi állapot rövid bemutatása.
 
-c)[^371] A kármentesítési eljárás során kiadott határozatok [különösen: tényfeltárás elrendelése, tényfeltárási terv elfogadása, tényfeltárási záródokumentáció elfogadása, (D) kármentesítési célállapot határérték megállapítása, beavatkozás elrendelése, beavatkozási terv elfogadása, beavatkozási záródokumentáció elfogadása] ismertetése.
+c)[^372] A kármentesítési eljárás során kiadott határozatok [különösen: tényfeltárás elrendelése, tényfeltárási terv elfogadása, tényfeltárási záródokumentáció elfogadása, (D) kármentesítési célállapot határérték megállapítása, beavatkozás elrendelése, beavatkozási terv elfogadása, beavatkozási záródokumentáció elfogadása] ismertetése.
 
 3. A kármentesítés korábbi szakaszaiban kialakított kármentesítési monitoring bemutatása (amennyiben készült)
 
@@ -76,11 +76,11 @@ i) Monitoring eredményeinek rövid, összefoglaló bemutatása, külön részle
 
 7. Egyebek
 
-8.[^372] A 21. § (10) bekezdés alapján a külön jogszabály szerinti adatlapok
+8.[^373] A 21. § (10) bekezdés alapján a külön jogszabály szerinti adatlapok
 
-A 2. b), 3. a), 3. b), 3. gg), 3. gh), 3. i), 5. és 6. pontok szerinti adatokat és információkat térképen és ábrán (pl. vízföldtani szelvényen) is be kell mutatni. A bemutatás – a vizsgált terület és a szennyezettség változékonyságától függően – történhet egy-egy térképen és ábrán összevont formában vagy külön-külön annyi térképen és ábrán, amennyi az egyértelmű szemléltetéshez szükséges.[^373]
+A 2. b), 3. a), 3. b), 3. gg), 3. gh), 3. i), 5. és 6. pontok szerinti adatokat és információkat térképen és ábrán (pl. vízföldtani szelvényen) is be kell mutatni. A bemutatás – a vizsgált terület és a szennyezettség változékonyságától függően – történhet egy-egy térképen és ábrán összevont formában vagy külön-külön annyi térképen és ábrán, amennyi az egyértelmű szemléltetéshez szükséges.[^374]
 
-[^370]: A 10. számú melléklet 1. pontja a 182/2009. (IX. 10.) Korm. rendelet 357. § (15) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^371]: A 10. számú melléklet 2. pontjának c) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
-[^372]: A 10. számú melléklet 8. pontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
-[^373]: A 10. számú melléklet záró szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^371]: A 10. számú melléklet 1. pontja a 182/2009. (IX. 10.) Korm. rendelet 357. § (15) bekezdésével megállapított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^372]: A 10. számú melléklet 2. pontjának c) alpontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (1) bekezdése szerint módosított szöveg.
+[^373]: A 10. számú melléklet 8. pontja a 92/2007. (IV. 26.) Korm. rendelet 9. § (2) bekezdése szerint módosított szöveg.
+[^374]: A 10. számú melléklet záró szövegrésze a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.

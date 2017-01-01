@@ -30,7 +30,7 @@ c) az a) és b) pontokban meghatározott szakaszokban, illetve azokat követően
 
 (11)[^154] A kármentesítés bármely szakaszának végrehajtására vonatkozó határozatban megállapított határideje az ügy összetettségére tekintettel, kivételes esetben módosítható.
 
-(12)[^155] A (4) bekezdésében meghatározott kármentesítési szakaszok eredményeit tartalmazó dokumentációkat egy példányban, papír alapon és számítógépes adathordozón kell benyújtani.
+(12)[^155] A (4) bekezdésében meghatározott kármentesítési szakaszok eredményeit tartalmazó dokumentációkat elektronikusan kell benyújtani.
 
 (13)[^156] A kármentesítés (4) bekezdésben meghatározott szakaszaira, valamint a (7) bekezdés szerint összevont határozat alapján tervezett kármentesítés engedélyezésére irányuló kérelmekhez csatolt dokumentációt, továbbá a kármentesítési szakasz elvégzéséről szóló jelentést (zárójelentést) a szakértők is elkészíthetik.
 
@@ -43,5 +43,5 @@ c) az a) és b) pontokban meghatározott szakaszokban, illetve azokat követően
 [^152]: A 21. § eredeti (8) bekezdésének számozását a 92/2007. (IV. 26.) Korm. rendelet 5. § (3) bekezdése (9) bekezdésre változtatta, szövege a 221/2014. (IX. 4.) Korm. rendelet 275. § d) pontja szerint módosított szöveg.
 [^153]: A 21. § eredeti (9) bekezdésének számozását a 92/2007. (IV. 26.) Korm. rendelet 5. § (3) bekezdése (10) bekezdésre változtatta, szövege a 302/2008. (XII. 17.) Korm. rendelet 12. § (1) bekezdésével megállapított, a 221/2014. (IX. 4.) Korm. rendelet 275. § d) pontja szerint módosított szöveg.
 [^154]: A 21. § eredeti (10) bekezdésének számozását (11) bekezdésre változtatta és szövegét megállapította a 92/2007. (IV. 26.) Korm. rendelet 5. § (3) illetve (4) bekezdése. E módosító rendelet 9. § (3) bekezdése alapján a rendelkezést a 2007. április 30. napja után megvalósított környezetkárosításokra, valamint környezetveszélyeztető magatartásokra kell alkalmazni. Mulasztás által megvalósított környezetkárosítás vagy környezetveszélyeztetés esetén az akkor hatályos szabályokat kell alkalmazni, amikor a környezethasználó a környezetkárosodást vagy környezetveszélyeztetést megakadályozhatta volna.
-[^155]: A 21. § (12) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 358. §-a szerint módosított szöveg. Ez utóbbi módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^155]: A 21. § (12) bekezdését a 302/2008. (XII. 17.) Korm. rendelet 12. § (2) bekezdése iktatta be, szövege a 182/2009. (IX. 10.) Korm. rendelet 358. §-a, a 477/2016. (XII. 27.) Korm. rendelet 30. § (2) bekezdése szerint módosított szöveg.
 [^156]: A 21. § (13) bekezdését a 182/2009. (IX. 10.) Korm. rendelet 357. § (6) bekezdése iktatta be. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
