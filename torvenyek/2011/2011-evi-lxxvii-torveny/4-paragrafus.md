@@ -26,4 +26,4 @@ k) gondoskodik a világörökség állapotának figyelemmel kísérése, érték
 
 l) gondoskodik a hazai Világörökségi Várományos Helyszínek Jegyzékének vezetéséről,
 
-m) Kormányrendeletben kijelölt szerv útján gondoskodik a világörökségi és a világörökségi várományos területek adatainak nyilvántartásáról.
+m) jogszabályban meghatározott módon gondoskodik a világörökségi és a világörökségi várományos területek adatainak nyilvántartásáról.
