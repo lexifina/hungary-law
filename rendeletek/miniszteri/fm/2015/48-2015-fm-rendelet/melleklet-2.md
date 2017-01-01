@@ -8,7 +8,7 @@
 
 ## TTE – támogatástartalom, a támogatások jelenértékének összege euróban,
 
-## Q – adott évben a hitelhez nyújtott – egyéni referencia kamatláb alapján számított kamattámogatást meg nem haladó – kamattámogatás összege a kamattámogatásról szóló MVH határozatban megjelölt százalékpont és a hitel törlesztési ütemterve alapján számítva, forintban.
+## Q – adott évben a hitelhez nyújtott – egyéni referencia kamatláb alapján számított kamattámogatást meg nem haladó – kamattámogatás összege a kamattámogatásról szóló Kincstár határozatban megjelölt százalékpont és a hitel törlesztési ütemterve alapján számítva, forintban.
 
 ## Ha iH >= iER és iER > iF , akkor Q = (iER – iF)*H,
 
@@ -32,6 +32,6 @@
 
 ## r – a kamattámogatási kérelem benyújtása hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam.
 
-2. melléklet a 48/2015. (VIII. 12.) FM rendelethez[^2]
+2. melléklet a 48/2015. (VIII. 12.) FM rendelethez[^13]
 
-[^2]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^13]: A 2. melléklet a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

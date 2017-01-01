@@ -20,4 +20,6 @@
 
 7. támogatástartalom: az élelmiszeripari vállalkozás számára nyújtott állami támogatás forint fizetőeszközben számolt támogatási egyenértéke;
 
-8. támogatástartalom-igazolás: a kamattámogatás támogatástartalmáról szóló, a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által kiállított igazolás, amely a hitelcél szerint megállapított támogatás csekély összegű támogatás kategóriáját is megjelöli.
+8.[^1] támogatástartalom-igazolás: a kamattámogatás támogatástartalmáról szóló, a Magyar Államkincstár (a továbbiakban: Kincstár) által kiállított igazolás, amely a hitelcél szerint megállapított támogatás csekély összegű támogatás kategóriáját is megjelöli.
+
+[^1]: Az 1. § 8. pontja a 88/2016. (XII. 29.) FM rendelet 91. § a) pontja szerint módosított szöveg.

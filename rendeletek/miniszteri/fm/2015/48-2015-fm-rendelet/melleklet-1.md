@@ -1,5 +1,6 @@
-## 14. §[^1]
+## 14. §[^11]
 
-1. melléklet a 48/2015. (VIII. 12.) FM rendelethez
+1. melléklet a 48/2015. (VIII. 12.) FM rendelethez[^12]
 
-[^1]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^11]: A 14. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^12]: Az 1. melléklet a 88/2016. (XII. 29.) FM rendelet 91. § g) pontja szerint módosított szöveg.
