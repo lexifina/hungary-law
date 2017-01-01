@@ -24,7 +24,7 @@
 
 | 11. | őstermelő | Adóazonosító jel: |
 
-| 12. | szövetkezet | MVH ügyfél-azonosító szám: |
+| 12. | szövetkezet | Ügyfél-azonosító: |
 
 | 13. | korlátolt felelősségű társaság | Adóraktári engedélyszám: |
 
@@ -278,6 +278,6 @@
 
 ## Hegyközségi tag/Adatszolgáltató aláírása
 
-3. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^218]
+3. számú melléklet a 127/2009. (IX. 29.) FVM rendelethez[^220]
 
-[^218]: A 3. számú mellékletet a 20/2014. (X. 31.) FM rendelet 33. § f) pontja hatályon kívül helyezte.
+[^220]: A 3. számú mellékletet a 20/2014. (X. 31.) FM rendelet 33. § f) pontja hatályon kívül helyezte.

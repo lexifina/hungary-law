@@ -8,9 +8,9 @@ a)[^137] a hegybíró által nyilvántartott 2. számú melléklet „C” és �
 
 b)[^138] a telepítési jogokról vezetett nyilvántartás adatait,
 
-c) az MVH által a 436/2009/EK rendeletének 3. cikk (1) bekezdés a) pontjának (v) és (vi) alpontjaiban meghatározott adatokat,
+c)[^139] a Kincstár által a 436/2009/EK rendeletének 3. cikk (1) bekezdés a) pontjának (v) és (vi) alpontjaiban meghatározott adatokat,
 
-d)[^139] a NÉBIH által kiadott forgalomba hozatali engedélyeket és a 20. § (1) bekezdése szerint kiadott igazolásokat, valamint
+d)[^140] a NÉBIH által kiadott forgalomba hozatali engedélyeket és a 20. § (1) bekezdése szerint kiadott igazolásokat, valamint
 
 e) a FÖMI által a VINGIS-ből biztosított országos térinformatikai alapú adatokat.
 
@@ -18,4 +18,5 @@ e) a FÖMI által a VINGIS-ből biztosított országos térinformatikai alapú a
 
 [^137]: A 40. § (1) bekezdés a) pontja a 128/2012. (XII. 14.) VM rendelet 19. § (1) bekezdésével megállapított, a 20/2014. (X. 31.) FM rendelet 32. § m) pontja szerint módosított szöveg.
 [^138]: A 40. § (1) bekezdés b) pontja a 128/2012. (XII. 14.) VM rendelet 19. § (1) bekezdésével megállapított szöveg.
-[^139]: A 40. § (1) bekezdés d) pontja a 20/2014. (X. 31.) FM rendelet 26. §-ával megállapított szöveg.
+[^139]: A 40. § (1) bekezdés c) pontja a 88/2016. (XII. 29.) FM rendelet 39. § b) pontja szerint módosított szöveg.
+[^140]: A 40. § (1) bekezdés d) pontja a 20/2014. (X. 31.) FM rendelet 26. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 ## EGYÉB RENDELKEZÉSEK
 
-## Pezsgőspalackba tölthető italok[^178]
+## Pezsgőspalackba tölthető italok[^180]
 
 ## 58. § A 607/2009/EK bizottsági rendelet 69. cikk (1) bekezdésében meghatározott palackban a pezsgőn, minőségi pezsgőn és illatos minőségi pezsgőn kívül az alábbi termékek hozhatók forgalomba:
 
@@ -14,7 +14,7 @@ c) széndioxid hozzáadásával készült gyöngyözőbor,
 
 d) ízesített boralapú koktélok,
 
-e)[^179] 1,2 %vol-nál kisebb alkoholtartalmú italok.
+e)[^181] 1,2 %vol-nál kisebb alkoholtartalmú italok.
 
-[^178]: Az 58. §-t megelőző alcím a 64/2010. (V. 12.) FVM rendelet 18. §-ával megállapított szöveg.
-[^179]: Az 58. § e) pontja a 64/2010. (V. 12.) FVM rendelet 27. § (5) bekezdése szerint módosított szöveg.
+[^180]: Az 58. §-t megelőző alcím a 64/2010. (V. 12.) FVM rendelet 18. §-ával megállapított szöveg.
+[^181]: Az 58. § e) pontja a 64/2010. (V. 12.) FVM rendelet 27. § (5) bekezdése szerint módosított szöveg.

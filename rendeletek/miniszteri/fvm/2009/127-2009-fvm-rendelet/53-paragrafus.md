@@ -1,3 +1,3 @@
-## Több fajta nevének jelölése a címkén[^165]
+## Több fajta nevének jelölése a címkén[^167]
 
-[^165]: Az 53. §-t megelőző alcímet a 128/2012. (XII. 14.) VM rendelet 25. §-a iktatta be.
+[^167]: Az 53. §-t megelőző alcímet a 128/2012. (XII. 14.) VM rendelet 25. §-a iktatta be.
