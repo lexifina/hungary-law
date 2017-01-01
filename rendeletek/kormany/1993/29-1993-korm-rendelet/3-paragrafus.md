@@ -12,7 +12,9 @@ d) támogató szolgáltatás esetén szolgálati órára és szállítási kilom
 
 e) nappali ellátás esetén ellátási napra,
 
-f) bentlakásos intézményi ellátás esetén ellátási napra és hónapra
+f) bentlakásos intézményi ellátás esetén ellátási napra és hónapra,
+
+g)[^14] a támogatott lakhatásban igénybe vett, az Szt. 75. § (1) bekezdés d) pont db) alpontja szerinti esetben ellátási napra, dh) pontja szerinti esetben szállítási kilométerre, da), dc)–dg) és di) alpontja szerinti esetben órára
 
 vetítve kell meghatározni.
 
@@ -30,3 +32,4 @@ a hónapok naptári napjainak számától függetlenül.
 
 [^12]: A 3. § a 357/2010. (XII. 30.) Korm. rendelet 1. §-ával megállapított szöveg.
 [^13]: A 3. § (1) bekezdés b) pontja a 419/2015. (XII. 23.) Korm. rendelet 3. §-a szerint módosított szöveg.
+[^14]: A 3. § (1) bekezdés g) pontját a 448/2016. (XII. 19.) Korm. rendelet 1. §-a iktatta be.
