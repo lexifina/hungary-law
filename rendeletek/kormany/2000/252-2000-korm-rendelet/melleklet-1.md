@@ -1,6 +1,4 @@
-## 44. §[^72] A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 362/2014. (XII. 30.) Korm. rendelet 37. §-ával megállapított 2. § b) pontját először a 2015. évben induló üzleti évről készített beszámolóra kell alkalmazni, de az már a 2014. évben induló üzleti évről készített beszámolóra is alkalmazható.
-
-1. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^73]
+1. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^78]
 
 ## A mérleg előírt tagolása
 
@@ -136,5 +134,4 @@ I. Rövid lejáratú kötelezettségek
 
 II. Egyéb passzív pénzügyi elszámolások
 
-[^72]: A 44. §-t a 118/2008. (V. 8.) Korm. rendelet 1. § 1106. pontja hatályon kívül helyezte, újonnan a 362/2014. (XII. 30.) Korm. rendelet 38. §-a iktatta be.
-[^73]: Az 1. számú melléklet a 358/2006. (XII. 27.) Korm. rendelet 42. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.
+[^78]: Az 1. számú melléklet a 358/2006. (XII. 27.) Korm. rendelet 42. §-a szerint módosított szöveg, alkalmazására lásd e módosító rendelet 49. § (1) bekezdését.

@@ -1,3 +1,3 @@
-13. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^84]
+13. számú melléklet a 252/2000. (XII. 24.) Korm. rendelethez[^91]
 
-[^84]: A 13. számú mellékletet a 358/2006. (XII. 27.) Korm. rendelet 48. §-a iktatta be, a 345/2010. (XII. 28.) Korm. rendelet 21. §-a hatályon kívül helyezte.
+[^91]: A 13. számú mellékletet a 358/2006. (XII. 27.) Korm. rendelet 48. §-a iktatta be, a 345/2010. (XII. 28.) Korm. rendelet 21. §-a hatályon kívül helyezte.

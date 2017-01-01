@@ -10,6 +10,6 @@
 
 (5) A számlarend összeállításáért, annak folyamatos karbantartásáért, a naprakész könyvvezetés helyességéért a pénztár igazgatótanácsának elnöke vagy az általa megbízott ügyvezető a felelős.
 
-(6)[^70] Az újonnan alakuló pénztár köteles szálarendjét az alakuló közgyűlés napjától számított 90 napon belül elkészíteni. E rendelet változása esetén a számlarend szükséges módosítását a módosított rendelkezések hatálybalépését követő 90 napon belül kell elvégezni.
+(6)[^74] Az újonnan alakuló pénztár köteles szálarendjét az alakuló közgyűlés napjától számított 90 napon belül elkészíteni. E rendelet változása esetén a számlarend szükséges módosítását a módosított rendelkezések hatálybalépését követő 90 napon belül kell elvégezni.
 
-[^70]: A 39. § (6) bekezdése a 352/2004. (XII. 22.) Korm. rendelet 19. §-ának (6) bekezdése szerint módosított szöveg, e módosító rendelet 18. §-ának (1) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+[^74]: A 39. § (6) bekezdése a 352/2004. (XII. 22.) Korm. rendelet 19. §-ának (6) bekezdése szerint módosított szöveg, e módosító rendelet 18. §-ának (1) bekezdése alapján a rendelkezést először a 2005. évben induló üzleti évről készített beszámolóra kell alkalmazni.
