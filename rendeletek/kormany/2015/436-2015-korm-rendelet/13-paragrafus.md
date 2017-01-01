@@ -1,10 +1,10 @@
 ## 5. Az igazolvány használatának ellenőrzése
 
-13. § (1) A megyei kormányhivatal az igazolvány használata jogszerűségének, valamint a Nyilvántartásban szereplő adatok valódiságának ellenőrzése során jogosult:
+13. § (1)[^12] A megyei kormányhivatal járási hivatala az igazolvány használata jogszerűségének, valamint a Nyilvántartásban szereplő adatok valódiságának ellenőrzése során jogosult:
 
 a) a mezőgazdasági őstermelő által értékesíteni kívánt, vagy értékesített őstermelői termék származását ellenőrizni;
 
-b)[^9] a mezőgazdasági őstermelő igazolványát és értékesítési betétlapját, valamint a személyazonosító igazolványát vagy egyéb, a személyazonosság igazolására alkalmas okmányát elkérni, abba betekinteni;
+b)[^13] a mezőgazdasági őstermelő igazolványát és értékesítési betétlapját, valamint a személyazonosító igazolványát vagy egyéb, a személyazonosság igazolására alkalmas okmányát elkérni, abba betekinteni;
 
 c) az őstermelői tevékenység végzésének helyszínén és az értékesítés helyszínén ellenőrzést tartani;
 
@@ -22,6 +22,8 @@ ed) olyan terméket értékesített vagy kívánt értékesíteni, amit a Nyilv�
 
 ee) a 12. § (1)–(3) bekezdése alapján rá vonatkozó előírások valamelyikét megszegi.
 
-(2) Az (1) bekezdés d) pontja szerinti visszatartás tényét a megyei kormányhivatal haladéktalanul rögzíti a Nyilvántartásban.
+(2)[^14] Az (1) bekezdés d) pontja szerinti visszatartás tényét a megyei kormányhivatal járási hivatala haladéktalanul rögzíti a Nyilvántartásban.
 
-[^9]: A 13. § (1) bekezdés b) pontja a 203/2016. (VII. 21.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^12]: A 13. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 313. §-a szerint módosított szöveg.
+[^13]: A 13. § (1) bekezdés b) pontja a 203/2016. (VII. 21.) Korm. rendelet 7. § d) pontja szerint módosított szöveg.
+[^14]: A 13. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 313. §-a szerint módosított szöveg.

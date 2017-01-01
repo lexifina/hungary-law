@@ -1,6 +1,6 @@
 ## A mezőgazdasági őstermelő és a mezőgazdasági őstermelővel közös igazolványt igénylő nyilvántartásba vétele, valamint a nyilvántartásba vett adatok módosítása iránti kérelem adattartalma
 
-## 1.[^18] A 3. melléklet 1–4., 6–11., 16–25. és 29. pontja szerinti adatok
+## 1.[^26] A 3. melléklet 1–4., 6–11., 16–25. és 29. pontja szerinti adatok
 
 ## 2. A kérelem típusa
 
@@ -16,7 +16,7 @@
 
 ## 8. Közös igazolvány esetén:
 
-## 8.1. Nyilatkozat a közösen választott adózási módról
+## 8.1.[^27] Nyilatkozat a közösen választott adózási módról
 
 ## 8.2. Nyilatkozat a lakcím egyezéséről
 
@@ -24,19 +24,5 @@
 
 5. melléklet a 436/2015. (XII. 28.) Korm. rendelethez
 
-Az ideiglenes igazolvány adattartalma
-
-1.[^19] A 3. melléklet 1–29. pontja szerinti adatok
-
-2. Az igazolvány típusa (őstermelői igazolvány vagy közös őstermelői igazolvány)
-
-3. Tájékoztatás az ideiglenes igazolvány hatályáról
-
-4. Tájékoztatás az igazolvány megküldéséről, átvételéről és az átvétel elmaradása esetén a megsemmisítés szabályairól
-
-5. Nyilatkozat betétlapok átvételéről
-
-6. Tájékoztatás elveszett, megtalált igazolvány leadására vonatkozóan
-
-[^18]: A 4. melléklet 1. pontja a 203/2016. (VII. 21.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
-[^19]: Az 5. melléklet 1. pontja a 203/2016. (VII. 21.) Korm. rendelet 6. § i) pontja szerint módosított szöveg.
+[^26]: A 4. melléklet 1. pontja a 203/2016. (VII. 21.) Korm. rendelet 6. § h) pontja szerint módosított szöveg.
+[^27]: A 4. melléklet 8. pont 8.1. alpontját a 420/2016. (XII. 14.) Korm. rendelet 2. § (4) bekezdése hatályon kívül helyezte.
