@@ -18,7 +18,7 @@ c) a tudomására jutott adatok arra utalnak, hogy a gyógyszerrel kapcsolatban 
 
 d) a gyógyszer mennyiségi és minőségi összetétele nem felel meg a forgalomba hozatali engedélyben meghatározott követelményeknek,
 
-e) a gyógyszer összetevőinek ellenőrzését, továbbá a gyártási folyamat közbenső fázisában szükséges ellenőrzést nem végezték el, vagy ha a gyógyszer nem felel meg az egyéb, a gyártási engedély kiállításával vagy a gyógyszer hatóanyagával kapcsolatos követelményeknek vagy kötelezettségeknek,
+e) a gyógyszer összetevőinek ellenőrzését, továbbá a gyártási folyamat közbenső fázisában szükséges ellenőrzést nem végezték el, vagy ha a gyógyszer nem felel meg az egyéb, a gyártási engedély kiállításával vagy a gyógyszer hatóanyagával kapcsolatos követelményeknek vagy kötelezettségeknek, ideértve, ha a gyógyszer vagy hatóanyagának gyártása nem a helyes gyártási gyakorlatnak megfelelően történt,
 
 f) a forgalomba hozatali engedély vagy annak megújítása iránti kérelem alátámasztására benyújtott adatok pontatlanok, vagy nem módosították azokat,
 

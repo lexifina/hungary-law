@@ -22,6 +22,10 @@ b) amennyiben hasonszenvinek jelzett és ilyen eljárással készült gyógyszer
 
 (6) A díjat a kérelem benyújtásakor, az évenkénti fenntartási díjat a tárgyév január hó 31-ig kell az egészségügyért felelős miniszter rendeletében meghatározott módon a gyógyszerészeti államigazgatási szerv részére megfizetni.
 
+(6a) A gyógyszerészeti államigazgatási szerv a gyógyszer forgalmazását felfüggeszti, ha a forgalomba hozatali engedély jogosultja az (1) bekezdés alapján fennálló fenntartási díj megfizetésére vonatkozó kötelezettségének a (6) bekezdésben foglalt határidőben nem tesz eleget. A fenntartási díj határidőben történő meg nem fizetése miatti felfüggesztés a gyógyszer-nagykereskedőkhöz és az egészségügyi szolgáltatókhoz a felfüggesztés előtt már kiszállított gyógyszereket nem érinti.
+
+(6b) A (6a) bekezdésben meghatározott felfüggesztés a forgalomba hozatali engedély fenntartási díjának megfizetését követően szüntethető meg.
+
 (7) A befizetett díj – jogszabályban foglaltak kivételével – a gyógyszerészeti államigazgatási szerv, valamint az eljárásában jogszabály szerint közreműködő szakhatóság bevétele. A díjak nyilvántartására, elszámolására az államháztartás számviteléről szóló jogszabályokat kell alkalmazni. A befizetett díjból a gyógyszerészeti államigazgatási szerv és a szakhatóság az egészségügyért felelős miniszter rendeletében meghatározott megosztás szerint részesül.
 
 (8) A díjfizetés tárgya tekintetében az illetékekről szóló 1990. évi XCIII. törvény (a továbbiakban: Itv.) 28. § (2)–(3) bekezdésében foglaltakat, a díjfizetésre kötelezettek tekintetében az Itv. 31. § (1) bekezdés első mondatában foglaltakat kell megfelelően alkalmazni azzal, hogy ahol az Itv. illetéket említ, azon díjat kell érteni.

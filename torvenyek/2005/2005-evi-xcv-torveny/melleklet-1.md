@@ -3898,11 +3898,7 @@ III.L.
 
 |
 
-Szakértői tevékenység végzése, szaktanácsadás, konzultáció óradíja
-
 |
-
-8 000
 
 |
 

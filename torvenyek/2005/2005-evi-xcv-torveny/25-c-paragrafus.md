@@ -12,7 +12,7 @@ b) a gyógyszer alkalmazását a kezelőorvos olyan beteg kezelése érdekében 
 
 c) a beteg vagy annak törvényes képviselője az engedélyezés előtti gyógyszeralkalmazáshoz a kockázatokra is kiterjedő tájékoztatáson alapuló írásos beleegyezését adja, és
 
-d) az engedélyezés előtti gyógyszeralkalmazáshoz a gyógyszer gyártója hozzájárul és vállalja, hogy a gyógyszert térítésmentesen rendelkezésre bocsátja a kezelés teljes időtartama alatt és garantálja annak minőségét a helyes gyártási gyakorlatnak megfelelően,
+d) az engedélyezés előtti gyógyszeralkalmazáshoz a gyógyszer gyártója hozzájárul és vállalja, hogy a gyógyszert térítésmentesen rendelkezésre bocsátja a kezelés teljes időtartama alatt, vagy ha az korábban bekövetkezik, a gyógyszer társadalombiztosítási támogatásba történő befogadásáig, és garantálja annak minőségét a helyes gyártási gyakorlatnak megfelelően,
 
 e) az engedélyezés előtti gyógyszeralkalmazás nem valósít meg a Gyftv. alapján tiltott kereskedelmi gyakorlatot.
 

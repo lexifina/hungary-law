@@ -1,4 +1,4 @@
-15/C. § (1) Az új pszichoaktív anyaggá minősítést követő egy éven belül el kell végezni az új pszichoaktív anyag kockázatértékelését, amennyiben azt az Európai Unió Tanácsa vagy az Egészségügyi Világszervezet nem kezdeményezte.
+15/C. § (1) Az új pszichoaktív anyaggá minősítést követő egy éven belül el kell végezni az új pszichoaktív anyag kockázatértékelését a kormányrendeletben meghatározott véleményekre figyelemmel, amennyiben azt az Európai Unió Tanácsa vagy az Egészségügyi Világszervezet nem kezdeményezte.
 
 (2) Ha a vizsgált új pszichoaktív anyagról a magyarországi, európai uniós, vagy az ENSZ szakosodott szervei által végzett kockázatértékelés eredményeképpen bebizonyosodik, hogy hasonló mértékű fenyegetést jelenthet a közegészségügyre, mint az 1. § 4. pontjában meghatározott kábítószerek vagy a pszichotróp anyagokról szóló, Bécsben az 1971. évi február hó 21. napján aláírt egyezmény kihirdetéséről szóló 1979. évi 25. törvényerejű rendelet I–II. jegyzékén, valamint a 2. számú melléklet A) és B) jegyzékén szereplő anyagok, a megfelelő pszichotróp anyag jegyzékre kell felvenni, és meg kell szüntetni az új pszichoaktív anyaggá minősítését.
 
