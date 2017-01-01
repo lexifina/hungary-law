@@ -1,0 +1,3 @@
+## 106. § A Belügyminisztérium budai Várnegyedben történő elhelyezésével kapcsolatos beruházás megvalósításával összefüggő közigazgatási hatósági ügyek nemzetgazdasági szempontból kiemelt jelentőségű üggyé nyilvánításáról szóló 410/2015. (XII. 15.) Korm. rendelet 2. § d) pontjában a „Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ” szövegrész helyébe a „kulturális örökség védelméért felelős miniszter” szöveg lép.
+
+## 107. A Budapesten megrendezendő Úszó-, Vízilabda-, Műugró-, Műúszó és Nyíltvízi Világbajnokság megvalósításához szükséges létesítményfejlesztés megvalósításával összefüggő közigazgatási hatósági ügyek kiemelt jelentőségű üggyé nyilvánításáról és az eljáró hatóságok kijelöléséről szóló 452/2015. (XII. 28.) Korm. rendelet módosítása
