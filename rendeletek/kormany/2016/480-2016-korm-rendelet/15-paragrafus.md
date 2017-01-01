@@ -1,0 +1,1 @@
+## „a) a nem leszállítási opciós ügyletek, valamint az eladási opciós ügyletek esetén az opció vevője által fizetett opciós díjat a pénzügyi műveletek ráfordításaként kell elszámolni, és ha az a mérleg fordulónapja után jár le és jelentős összegű, akkor az ügylet zárásáig időbelileg elhatárolható;”

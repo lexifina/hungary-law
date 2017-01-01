@@ -1,0 +1,3 @@
+## 31. § Az Önykr. 35. § (2) bekezdése helyébe a következő rendelkezés lép:
+
+## „(2) Egyéni számlán elszámolt szolgáltatási célú egyéb ráfordítások között kell kimutatni a pénztártag más pénztárba történő átlépésekor vagy tagsági viszonyának egyéb módon történő megszűnésekor a pénztárnál kimutatott, nyugdíj-szolgáltatási célú tagdíjhátralékának az üzleti évben leírt összegét, az Öpt. 14. § (3) bekezdése alapján a tagdíjat nem fizető pénztártag egyéni számlája befektetésének hozamából a működési és a likviditási tartalék javára levont összeget, valamint a külön soron nem nevesített egyéb szolgáltatási célú ráfordítások összegét.”

@@ -1,0 +1,5 @@
+## 72. § Az önkéntes kölcsönös egészség- és önsegélyező pénztárak beszámolókészítési és könyvvezetési kötelezettségének sajátosságairól szóló 252/2000. (XII. 24.) Korm. rendelet (a továbbiakban: Öpkr.) a következő 45. §-sal egészül ki:
+
+## „45. § (1) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 480/2016. (XII. 28.) Korm. rendelet 73. §-ával megállapított 6. számú mellékletét; 74. § 1. pontjával megállapított 1. § (1) bekezdését; 74. § 2. pontjával megállapított 7. § (2) és (4) bekezdését; 74. § 3. pontjával megállapított 32. § (6) bekezdését először a 2017. évben induló üzleti évről készített beszámolóra kell alkalmazni.
+
+## (2) A számviteli törvényhez kapcsolódó, sajátos számviteli szabályokat tartalmazó kormányrendeletek módosításáról szóló 480/2016. (XII. 28.) Korm. rendelet 73. §-ával megállapított 6. számú mellékletét; 74. § 1. pontjával megállapított 1. § (1) bekezdését; 74. § 2. pontjával megállapított 7. § (2) és (4) bekezdését; 74. § 3. pontjával megállapított 32. § (6) bekezdését a 2016. évben induló üzleti évről készített beszámolóra is alkalmazni lehet.”
