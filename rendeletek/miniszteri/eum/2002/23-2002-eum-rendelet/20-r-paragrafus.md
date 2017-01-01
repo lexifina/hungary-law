@@ -24,7 +24,7 @@ c)[^95] az a)–b) pontba nem tartozó esetekben 294 000 Ft.
 
 (4) A díjat a kérelmező a kérelem benyújtásakor köteles a 3. számú mellékletben feltüntetett számlára postai befizetéssel vagy átutalással, vagy a bankszámla-tulajdonos intézet házipénztárába befizetni.
 
-(5)[^96] A díj az igazgatási szolgáltatást nyújtó engedélyező hatóság bevétele. A (3) bekezdés a) pontjában foglalt díj 46%-a az OGYÉI, 54%-a az ETT TUKEB bevétele. A (3) bekezdés b) pontjában foglalt engedélyezésért és a vizsgálati terv lényeges módosítása engedélyezéséért befizetett díj 80%-a az ETT TUKEB, 20%-a az Egészségügyi Nyilvántartási és Képzési Központ bevétele. A (3) bekezdés a) pontjában említett módosítás díja az eljáró engedélyező hatóságok között egyenlő arányban oszlik meg.
+(5)[^96] A díj az igazgatási szolgáltatást nyújtó engedélyező hatóság bevétele. A (3) bekezdés a) pontjában foglalt díj 46%-a az OGYÉI, 54%-a az ETT TUKEB bevétele. A (3) bekezdés b) pontjában foglalt engedélyezésért és a vizsgálati terv lényeges módosítása engedélyezéséért befizetett díj 80%-a az ETT TUKEB, 20%-a az OGYÉI bevétele. A (3) bekezdés a) pontjában említett módosítás díja az eljáró engedélyező hatóságok között egyenlő arányban oszlik meg.
 
 (6) A jogorvoslati eljárásban fizetett díjat a kérelmező részére vissza kell téríteni, ha a felülvizsgált határozat vagy intézkedés az ügyfél hátrányára részben vagy egészben jogszabálysértőnek bizonyult.
 
@@ -64,7 +64,7 @@ d) 86. §-ában foglaltakat az elévülés
 [^93]: A 20/R. § (3) bekezdés a) pont aa) alpontja a 3/2014. (I. 16.) EMMI rendelet 2. §-a szerint módosított szöveg.
 [^94]: A 20/R. § (3) bekezdés b) pontja az 57/2012. (XII. 29.) EMMI rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^95]: A 20/R. § (3) bekezdés c) pontja a 34/2009. (X. 20.) EüM rendelet 3. § (3) bekezdésével megállapított szöveg.
-[^96]: A 20/R. § (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 39. §-ával megállapított szöveg.
+[^96]: A 20/R. § (5) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 39. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 23. § (1) bekezdés c) pontja szerint módosított szöveg.
 [^97]: A 20/R. § (8) bekezdés záró szövegrésze a 15/2012. (VIII. 22.) EMMI rendelet 25. § e) pontja szerint módosított szöveg.
 [^98]: A 20/R. § (8) bekezdés b) pontja a 34/2009. (X. 20.) EüM rendelet 4. § (2) bekezdése szerint módosított szöveg.
 [^99]: A 20/R. § (10) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 25. § f) pontja szerint módosított szöveg.

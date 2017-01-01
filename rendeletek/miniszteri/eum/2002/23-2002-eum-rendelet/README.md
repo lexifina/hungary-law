@@ -19,3 +19,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-23-20-0
 | 2015-03-13 | 2002-23-20-0B.20 | 9/2015. (II. 10.) EMMI rendelet |
 | 2015-04-29 | 2002-23-20-0B.21 | 23/2015. (IV. 28.) EMMI rendelet |
 | 2015-10-20 | 2002-23-20-0B.22 | 47/2015. (X. 19.) EMMI rendelet |
+| 2017-01-01 | 2002-23-20-0B.23 | 54/2016. (XII. 30.) EMMI rendelet |

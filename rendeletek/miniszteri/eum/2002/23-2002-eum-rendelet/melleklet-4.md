@@ -26,7 +26,7 @@
 
 | 12. Gyógyszerrel végzett beavatkozással nem járó vizsgálatok az emberi felhasználásra kerülő vizsgálati készítmények klinikai vizsgálata, valamint az emberen történő alkalmazásra szolgáló, klinikai vizsgálatra szánt orvostechnikai eszközök klinikai vizsgálata engedélyezési eljárásának szabályairól szóló kormányrendeletben meghatározott esetekben | Országos Gyógyszerészeti és Élelmezés- egészségügyi Intézet (OGYÉI) | 10032000-00290050- 00000000 |
 
-| 13. Orvostechnikai eszközzel végzett klinikai vizsgálatok és beavatkozással nem járó vizsgálatok | Egészségügyi Nyilvántartási és Képzési Központ | 10032000-00285788- 00000000 |
+| 13. Orvostechnikai eszközzel végzett klinikai vizsgálatok és beavatkozással nem járó vizsgálatok | Országos Gyógyszerészeti és Élelmezés- egészségügyi Intézet | 10032000-00290050- 00000000 |
 
 4. számú melléklet a 23/2002. (V. 9.) EüM rendelethez[^115]
 
