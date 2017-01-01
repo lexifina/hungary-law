@@ -1,1 +1,0 @@
-A közalkalmazottak jogállásáról szóló 1992. évi XXXIII. törvény ( a továbbiakban Kjt. ) 85. §-ának (4) bekezdésében, valamint, az oktatási és kulturális miniszter feladat- és hatásköréről szóló 167/2006. (VII. 28.) Korm. rendelet 1. §-ának a) és d) pontjában meghatározott feladatkörömben eljárva a következőket rendelem el:
