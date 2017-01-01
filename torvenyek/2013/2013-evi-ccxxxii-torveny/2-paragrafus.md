@@ -6,7 +6,7 @@ a) közreműködik a miniszter által jóváhagyott tankönyvfejlesztési terv v
 
 aa) elkészíti az új fejlesztésű tankönyvek imprimatúráját,
 
-ab) az adott tanév tankönyvellátásának biztosítása céljából az általa kiadott tankönyveket, pedagógus-kézikönyveket a szükséges példányszámban, elektronikus, vagy nyomdai úton előállítja, terjesztésre átadja,
+ab) az adott tanév tankönyvellátásának biztosítása céljából az általa kiadott tankönyvek, pedagógus-kézikönyvek engedélyezett imprimatúráját, a tankönyvellátás további teendőinek ellátása érdekében, elektronikus úton vagy egyéb nyomtatható formában átadja a Kormány rendeletében kijelölt nonprofit gazdasági társaság (a továbbiakban: könyvtárellátó) részére,
 
 ac) részt vesz a miniszter által kezdeményezett kísérletitankönyv-fejlesztési programokban,
 
@@ -22,7 +22,7 @@ e) kiadói feladatokat lát el, kutatási és felmérési eredményeit kiadvány
 
 f) folyamatosan tájékoztatja a minisztert a tevékenységével összefüggő feladatokról és a miniszter egyidejű tájékoztatása mellett ellátja a tevékenységével összefüggő kommunikációs feladatokat.
 
-(2) A tankönyvek országos megrendelése, beszerzése és az iskolák számára történő eljuttatásának megszervezése, a tankönyvek vételárának beszedése (a továbbiakban: tankönyvellátás) állami feladat, amelyet az állam a Kormány rendeletében kijelölt nonprofit gazdasági társaság (a továbbiakban: könyvtárellátó) útján látja el.
+(2) A tankönyvek országos megrendelése, beszerzése és az iskolák számára történő eljuttatásának megszervezése, a tankönyvek vételárának beszedése, (a továbbiakban: tankönyvellátás) állami feladat, amelyet az állam a könyvtárellátó útján lát el. Az (1) bekezdés a) pont ab) alpontja szerint átvett imprimatúrák alapján – a tankönyvellátás keretében – a könyvtárellátó végzi el az 1. § (4) bekezdés a) pontja szerinti szerv által kiadott tankönyvek engedélyezett sokszorosítását, és e tankönyvekkel kapcsolatos készletraktározási és kereskedelmi feladatokat is.
 
 (3) A könyvtárellátó
 
