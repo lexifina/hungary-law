@@ -2,17 +2,17 @@
 
 22. § (1) A forgalmazónak felajánlott használt elektromos, elektronikus berendezés visszavételére a 3. § rendelkezéseit, a forgalmazónak felajánlott hulladékká vált elektromos, elektronikus berendezés átvételére és gyűjtésére a 4. § rendelkezéseit kell megfelelően alkalmazni.
 
-(2)[^35] A forgalmazó a hulladékbirtokos által felajánlott olyan elektromos, elektronikus berendezés háztartásban képződő hulladékát, amelynek egyik oldala sem haladja meg a 25 cm-t, a hulladékbirtokostól a legalább 400 m2 alapterületű elektromos, elektronikus berendezés értékesítésére alkalmas eladótérrel rendelkező kiskereskedelmi tevékenységet végző üzletében vagy az üzlet előtt, mellett kialakított speciális gyűjtőhelyre telepített gyűjtőedényben, vagy az üzletben közvetlenül veszi át.
+(2)[^53] A forgalmazó a hulladékbirtokos által felajánlott olyan elektromos, elektronikus berendezés háztartásban képződő hulladékát, amelynek egyik oldala sem haladja meg a 25 cm-t, a hulladékbirtokostól a legalább 400 m2 alapterületű elektromos, elektronikus berendezés értékesítésére alkalmas eladótérrel rendelkező kiskereskedelmi tevékenységet végző üzletében vagy az üzlet előtt, mellett kialakított speciális gyűjtőhelyre telepített gyűjtőedényben, vagy az üzletben közvetlenül veszi át.
 
-(3)[^36] A gyűjtőedényt jól látható és könnyen hozzáférhető helyen kell elhelyezni.
+(3)[^54] A gyűjtőedényt jól látható és könnyen hozzáférhető helyen kell elhelyezni.
 
-(4)[^37] Ha a fogyasztó a forgalmazótól új elektromos, elektronikus berendezést vásárol, és azt a forgalmazó a fogyasztónak házhoz szállítja, a forgalmazó a fogyasztó által felajánlott, a vásárolt berendezéssel azonos mennyiségű és azonos használati célú elektromos, elektronikus berendezés háztartásban képződő hulladékát a nem természetes személy fogyasztótól (hulladékbirtokostól) legalább ingyenesen, a természetes személy fogyasztótól, hulladékbirtokostól vásárlási utalvány ellenében átveszi és elszállítja.
+(4)[^55] Ha a fogyasztó a forgalmazótól új elektromos, elektronikus berendezést vásárol, és azt a forgalmazó a fogyasztónak házhoz szállítja, a forgalmazó a fogyasztó által felajánlott, a vásárolt berendezéssel azonos mennyiségű és azonos használati célú elektromos, elektronikus berendezés háztartásban képződő hulladékát a nem természetes személy fogyasztótól (hulladékbirtokostól) legalább ingyenesen, a természetes személy fogyasztótól, hulladékbirtokostól vásárlási utalvány ellenében átveszi és elszállítja.
 
 (5) Ha a forgalmazó a hulladék kezeléséről nem saját maga gondoskodik, a visszavitt elektromos, elektronikus berendezést és annak valamennyi alkotóelemét, illetve az átvett, hulladékká vált elektromos, elektronikus berendezést és annak valamennyi alkotóelemét elkülönítetten és hiánytalanul át kell adnia a gyártó vagy az átvételre hulladékgazdálkodási engedéllyel rendelkező jogosult részére.
 
-(6)[^38] A forgalmazó a vásárlási utalvány, a kedvezmény összegét a gyártóra nem háríthatja át.
+(6)[^56] A forgalmazó a vásárlási utalvány, a kedvezmény összegét a gyártóra nem háríthatja át.
 
-[^35]: A 22. § (2) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
-[^36]: A 22. § (3) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
-[^37]: A 22. § (4) bekezdése a 37. § (2) bekezdése szerint módosított szöveg.
-[^38]: A 22. § (6) bekezdését a 370/2014. (XII. 30.) Korm. rendelet 34. § (2) bekezdése iktatta be.
+[^53]: A 22. § (2) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^54]: A 22. § (3) bekezdése a 370/2014. (XII. 30.) Korm. rendelet 34. § (1) bekezdésével megállapított szöveg.
+[^55]: A 22. § (4) bekezdése a 37. § (2) bekezdése szerint módosított szöveg.
+[^56]: A 22. § (6) bekezdését a 370/2014. (XII. 30.) Korm. rendelet 34. § (2) bekezdése iktatta be.

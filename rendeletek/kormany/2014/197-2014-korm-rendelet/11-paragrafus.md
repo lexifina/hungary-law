@@ -8,8 +8,12 @@ c) az átvállalt kötelezettséggel érintett elektromos, elektronikus berendez
 
 d) az átvállalóra átruházott kötelezettség ellátásához kapcsolódó tevékenységének leírását.
 
-(2) A gyártó az átvállalóval kötött megállapodást a megállapodás létrejöttét követő 15 napon belül az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőségnek (a továbbiakban: OKTF) jóváhagyásra megküldi.
+(2)[^19] A gyártó az átvállalóval kötött megállapodást a megállapodás létrejöttét követő 15 napon belül az országos környezetvédelmi hatóságnak (a továbbiakban: országos környezetvédelmi hatóság) jóváhagyásra megküldi.
 
-(3) A gyártó a megállapodás módosítását vagy megszűnését a módosítást vagy megszűnést követő 15 napon belül az OKTF-nek bejelenti.
+(3)[^20] A gyártó a megállapodás módosítását vagy megszűnését a módosítást vagy megszűnést követő 15 napon belül az országos környezetvédelmi hatóságnak bejelenti.
 
-(4) Az OKTF a megállapodást vagy annak módosítását határozatban jóváhagyja, ha a megállapodás vagy a megállapodás módosításának tartalma megfelel a 10. §-ban és az (1) bekezdésben előírt követelményeknek.
+(4)[^21] Az országos környezetvédelmi hatóság a megállapodást vagy annak módosítását határozatban jóváhagyja, ha a megállapodás vagy a megállapodás módosításának tartalma megfelel a 10. §-ban és az (1) bekezdésben előírt követelményeknek.
+
+[^19]: A 11. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 275. § a) pontja szerint módosított szöveg.
+[^20]: A 11. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 275. § b) pontja szerint módosított szöveg.
+[^21]: A 11. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 275. § c) pontja szerint módosított szöveg.
