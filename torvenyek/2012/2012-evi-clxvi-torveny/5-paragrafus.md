@@ -8,7 +8,7 @@ c) a nemzeti létfontosságú rendszerelemek és azon európai létfontosságú 
 
 d) az üzemeltetői biztonsági tervet,
 
-e) az ágazati kijelölő hatóságnak az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem kijelölése visszavonásáról szóló határozatát.
+e) az ágazati kijelölő hatóságnak az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem kijelöléséről és a kijelölés visszavonásáról szóló határozatát.
 
 (2) Az (1) bekezdésben meghatározott adatok kezelésének célja
 
@@ -28,7 +28,11 @@ b) az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú ren
 
 c) az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem helyszíni ellenőrzését lefolytató szerv (a továbbiakban: helyszíni ellenőrzést lefolytató szerv) részére a helyszíni ellenőrzés lefolytatása céljából,
 
-d) az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem hatósági ellenőrzésére jogszabály alapján feladat- és hatáskörrel rendelkező hatóságok részére a hatósági ellenőrzések lefolytatása céljából.
+d) az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem hatósági ellenőrzésére jogszabály alapján feladat- és hatáskörrel rendelkező hatóságok részére a hatósági ellenőrzések lefolytatása céljából,
+
+e) rendkívüli esemény bekövetkezése esetén az eseménykezelésben és a helyreállításban részt vevő szervek tevékenységének támogatása céljából,
+
+f) a hivatásos katasztrófavédelmi szerv területi és helyi szervei részére hatósági, megelőzési, kapcsolattartási és tájékoztatási feladatai elvégzése, illetve rendkívüli esemény kezelése céljából.
 
 (5) Az európai létfontosságú rendszerelem vagy a nemzeti létfontosságú rendszerelem adatait az (1) bekezdésben meghatározott nyilvántartásból, valamint a kijelölési eljárásban érintett valamennyi hatóság nyilvántartásából
 
@@ -38,4 +42,8 @@ b) a kijelölést elutasító határozat jogerőre emelkedésekor
 
 törölni kell, és erről az üzemeltetőt írásban értesíteni kell.
 
-(6) Az ágazati kijelölő hatóság a kijelölés visszavonására, vagy elutasítására vonatkozó jogerős határozatot haladéktalanul köteles megküldeni a nyilvántartó hatóságnak és valamennyi érintett hatóságnak.
+(6) Az ágazati kijelölő hatóság haladéktalanul köteles megküldeni
+
+a) a kijelölés visszavonására vagy elutasítására vonatkozó jogerős határozatot a kijelölési eljárásban érintett valamennyi hatóságnak,
+
+b) a kijelölés visszavonására vonatkozó jogerős határozatot a nyilvántartó hatóságnak.

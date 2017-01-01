@@ -22,7 +22,7 @@ ALÁGAZAT
 
 |
 
-24
+26
 
 |
 
@@ -30,23 +30,7 @@ Infokommunikációs technológiák
 
 |
 
-információs rendszerek és hálózatok
-
-|
-
-25
-
-|
-
-eszköz-, automatikai és ellenőrzési rendszerek
-
-|
-
-26
-
-|
-
-internet-infrastruktúra és hozzáférés
+internet-infrastruktúra és internet hozzáférés szolgáltatás
 
 |
 
@@ -54,7 +38,7 @@ internet-infrastruktúra és hozzáférés
 
 |
 
-vezetékes és mobil távközlési szolgáltatások
+vezetékes és vezeték nélküli elektronikus hírközlési szolgáltatások, vezetékes és vezeték nélküli hírközlő hálózatok
 
 |
 
@@ -62,7 +46,7 @@ vezetékes és mobil távközlési szolgáltatások
 
 |
 
-rádiós távközlés és navigáció
+rádiós távközlés
 
 |
 
@@ -70,7 +54,7 @@ rádiós távközlés és navigáció
 
 |
 
-műholdas távközlés és navigáció
+űrtávközlés
 
 |
 
@@ -183,6 +167,10 @@ rendvédelmi szervek infrastruktúrái
 |
 
 42
+
+|
+
+Honvédelem
 
 |
 
