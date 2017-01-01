@@ -4,47 +4,49 @@
 
 A vízpart-rehabilitációs tanulmányterv, valamint a partvonal-szabályozási és vízpart-rehabilitációs terv egyeztetési eljárásában résztvevő államigazgatási szervek
 
-|  |  | A |  | B |
+|  | A | B |
 
-| 1. |  | EGYEZTETÉSI ELJÁRÁSBAN RÉSZT VEVŐ SZERV |  | EGYEZTETÉSI SZAKTERÜLET |
+| 1. | EGYEZTETÉSI ELJÁRÁSBAN RÉSZT VEVŐ SZERV | EGYEZTETÉSI SZAKTERÜLET |
 
-| 2. |  | Balaton Fejlesztési Tanács |  | területfejlesztés, településfejlesztés |
+| 2. | Balaton Fejlesztési Tanács | területfejlesztés, településfejlesztés |
 
-| 3. |  | állami főépítészi hatáskörében eljáró megyei kormányhivatal |  | területrendezés, településrendezés |
+| 3. | állami főépítészi hatáskörében eljáró megyei kormányhivatal | területrendezés, településrendezés |
 
-| 4. |  | környezetvédelmi és természetvédelmi hatáskörben eljáró megyei kormányhivatal |  | környezetvédelem, természet- és tájvédelem |
+| 4. | megyei kormányhivatal környezetvédelmi és természetvédelmi hatáskörében eljáró járási hivatala | környezetvédelem, természet- és tájvédelem |
 
-| 5. |  | Balaton-felvidéki Nemzeti Park Igazgatóság |  | természet- és tájvédelem |
+| 5. | Balaton-felvidéki Nemzeti Park Igazgatóság | természet- és tájvédelem |
 
-| 6. |  | Közép-dunántúli Vízügyi Igazgatóság |  | vízgazdálkodás |
+| 6. | Közép-dunántúli Vízügyi Igazgatóság | vízgazdálkodás |
 
-| 7. |  | megyei katasztrófavédelmi igazgatóság |  | tűzvédelem, polgári védelem |
+| 7. | megyei katasztrófavédelmi igazgatóság | tűzvédelem, polgári védelem |
 
-| 8. |  | népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal |  | közegészségügy |
+| 8. | népegészségügyi hatáskörében eljáró fővárosi és megyei kormányhivatal | közegészségügy |
 
-| 9. |  | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala |  | közlekedés: gyorsforgalmi úttal, közúti határátkelőhellyel, víziúttal és vasúti pályahálózattal, különösen szintbeli közúti-vasúti átjáróval érintett település esetében |
+| 9. | közlekedésért felelős miniszter | közlekedés: vasúti pályahálózattal, különösen szintbeli közúti-vasúti átjáróval érintett település esetében |
 
-| 10. |  | Nemzeti Közlekedési Hatóság Légügyi Hivatala |  | közlekedés: légi közlekedéssel érintett település esetében |
+| 10. | Budapest Főváros Kormányhivatala | közlekedés: gyorsforgalmi úttal, közúti határátkelőhellyel, víziúttal érintett település esetében |
 
-| 11. |  | közlekedési hatósági hatáskörében eljáró fővárosi és megyei kormányhivatal |  | közlekedés: minden más esetben |
+| 11. | légiközlekedési hatóság | közlekedés: légi közlekedéssel érintett település esetében |
 
-| 12. |  | Forster Gyula Nemzeti Örökségvédelmi és Vagyongazdálkodási Központ |  | örökségvédelem |
+| 12. | fővárosi és megyei kormányhivatal közlekedési hatósági hatáskörében eljáró járási (fővárosi kerületi) hivatala | közlekedés: minden más esetben |
 
-| 13. |  | ingatlanügyi hatáskörében eljáró fővárosi és megyei kormányhivatal |  | földvédelem |
+| 13. | kulturális örökség védelméért felelős miniszter | kulturális örökségvédelem |
 
-| 14. |  | erdészeti hatósági hatáskörében eljáró megyei kormányhivatal |  | erdőrendezés, erdővédelem |
+| 14. | ingatlanügyi hatáskörében eljáró fővárosi és megyei kormányhivatal | földvédelem |
 
-| 15. |  | talajvédelmi hatáskörben eljáró megyei kormányhivatal |  | talajvédelem |
+| 15. | megyei kormányhivatal erdészeti hatáskörében eljáró járási hivatala | erdőrendezés, erdővédelem |
 
-| 16. |  | honvédelemért felelős miniszter |  | honvédelem |
+| 16. | megyei kormányhivatal talajvédelmi hatáskörében eljáró járási hivatala | talajvédelem |
 
-| 17. |  | bányafelügyeleti hatáskörben eljáró megyei kormányhivatal |  | bányászat, geológia, morfológia, csúszásveszély |
+| 17. | honvédelemért felelős miniszter | honvédelem |
 
-| 18. |  | Nemzeti Média- és Hírközlési Hatóság Hivatala |  | hírközlés |
+| 18. | bányafelügyeleti hatáskörében eljáró megyei kormányhivatal | bányászat, geológia, morfológia, csúszásveszély |
 
-| 19. |  | Országos Tisztifőorvosi Hivatal |  | természetes gyógytényezők, gyógyhelyek természeti adottságainak védelme |
+| 19. | Nemzeti Média- és Hírközlési Hatóság Hivatala | hírközlés |
 
-| 20. |  | Magyar Építész Kamara, megyei építész kamara |  | településtervezés |
+| 20. | Országos Tisztifőorvosi Hivatal | természetes gyógytényezők, gyógyhelyek természeti adottságainak védelme |
+
+| 21. | Magyar Építész Kamara, megyei építész kamara | településtervezés |
 
 [^48]: A 21. §-t a 213/2003. (XII. 10.) Korm. rendelet 4. §-ának (2) bekezdése hatályon kívül helyezte, újonnan a 201/2013. (VI. 13.) Korm. rendelet 16. §-a iktatta be.
-[^49]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 59. § (2) bekezdésével megállapított, a 385/2015. (XII. 8.) Korm. rendelet 1. §-a, a 259/2016. (VIII. 31.) Korm. rendelet 101. §-a szerint módosított szöveg.
+[^49]: Az 1. mellékletet a 201/2013. (VI. 13.) Korm. rendelet 17. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 53. § (1) bekezdésével megállapított szöveg.
