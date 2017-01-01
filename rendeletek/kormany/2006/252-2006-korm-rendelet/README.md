@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2006-252-20-
 | 2015-04-01 | 2006-252-20-22.12 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-09-27 | 2006-252-20-22.13 | 38/2015. (III. 11.) Korm. rendelet |
 | 2016-10-14 | 2006-252-20-22.14 | 306/2016. (X. 13.) Korm. rendelet |
+| 2017-01-01 | 2006-252-20-22.15 | 477/2016. (XII. 27.) Korm. rendelet |

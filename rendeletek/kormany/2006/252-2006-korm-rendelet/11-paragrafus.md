@@ -1,6 +1,6 @@
 ## A tervtanácshoz benyújtandó tervdokumentumok
 
-11. §[^33] (1) A 8. § (1) bekezdése szerinti esetben a településrendezési tervtanácshoz a dokumentációt olyan állapotban (munkafázisban) kell benyújtani, hogy arról egyértelmű vélemény legyen alkotható.
+11. §[^34] (1) A 8. § (1) bekezdése szerinti esetben a településrendezési tervtanácshoz a dokumentációt olyan állapotban (munkafázisban) kell benyújtani, hogy arról egyértelmű vélemény legyen alkotható.
 
 (2) A településrendezési tervtanácshoz benyújtandó dokumentáció – annak jellegétől függően – tartalmazza:
 
@@ -30,7 +30,7 @@ e) az esztétikus megjelenést – tömegalakítást, színezést, anyaghasznál
 
 f) a szabályozási tervnek és a helyi építési szabályzatnak a tervezéssel érintett telekre vonatkozó kivonata,
 
-g)[^34]
+g)[^35]
 
-[^33]: A 11. § a 322/2012. (XI. 16.) Korm. rendelet 24. §-ával megállapított szöveg.
-[^34]: A 11. § (3) bekezdés g) pontját a 67/2013. (III. 8.) Korm. rendelet 2. § (3) bekezdés a) pontja hatályon kívül helyezte.
+[^34]: A 11. § a 322/2012. (XI. 16.) Korm. rendelet 24. §-ával megállapított szöveg.
+[^35]: A 11. § (3) bekezdés g) pontját a 67/2013. (III. 8.) Korm. rendelet 2. § (3) bekezdés a) pontja hatályon kívül helyezte.

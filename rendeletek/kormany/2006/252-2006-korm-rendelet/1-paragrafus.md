@@ -8,7 +8,7 @@
 
 (3)[^4] Nem terjed ki a rendelet hatálya
 
-a) a régészeti örökség és a műemléki érték védelmével kapcsolatos szabályokról szóló kormányrendelet hatálya alá tartozó tevékenységek,
+a)[^5] a kulturális örökség védelmével kapcsolatos szabályokról szóló kormányrendelet hatálya alá tartozó tevékenységek,
 
 b) az örökségvédelmi hatósághoz történő bejelentéshez vagy az örökségvédelmi engedélyhez szükséges terv,
 
@@ -18,3 +18,4 @@ c) a 9. § (4) bekezdés b) pontjában foglaltak kivételével a nyilvántartott
 [^2]: Az 1. § (1a) bekezdését a 394/2012. (XII. 20.) Korm. rendelet 12. § (1) bekezdése iktatta be, hatályon kívül helyezte a 38/2015. (III. 11.) Korm. rendelet 7. § (2) bekezdés a) pontja.
 [^3]: Az 1. § (2) bekezdését a 207/2008. (VIII. 27.) Korm. rendelet 6. §-a iktatta be, egyidejűleg a § eredeti szövegének jelölését (1) bekezdésre változtatva. Az 1. § (2) bekezdése a 196/2009. (IX. 15.) Korm. rendelet 62. § (12) bekezdésének a) pontja, a 67/2013. (III. 8.) Korm. rendelet 2. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^4]: Az 1. § (3) bekezdését a 38/2015. (III. 11.) Korm. rendelet 7. § (1) bekezdése iktatta be.
+[^5]: Az 1. § (3) bekezdés a) pontja a 497/2016. (XII. 28.) Korm. rendelet 2. §-a szerint módosított szöveg.
