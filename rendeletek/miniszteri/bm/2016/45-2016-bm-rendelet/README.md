@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-45-20-0
 | --- | --- | --- |
 | 2016-11-24 | 2016-45-20-0A.1 | 45/2016. (XI. 23.) BM rendelet |
 | 2016-11-25 | 2016-45-20-0A.2 | 2010: CXXX. törvény |
+| 2017-01-01 | 2016-45-20-0A.3 | 2010: CXXX. törvény |
