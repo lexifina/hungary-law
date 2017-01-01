@@ -8,7 +8,7 @@
 
 ## 2. Házi segítségnyújtás
 
-## a) házi segítségnyújtás keretében végzett személyi gondozás során ellátottak száma szerint (5 ellátottra vetítve)
+## a) házi segítségnyújtás 5. számú melléklet A) pontja szerinti tevékenységnaplóban összesített óraszám alapján
 
 ## – szociális gondozó 1 fő
 
@@ -426,7 +426,7 @@
 
 ## 2. Azon munkaköröknél, ahol alternatíva szerepel – pl. ápoló és szociális gondozó –, az intézmény-, szolgáltatásvezető hatásköre a konkrét munkakör meghatározása. Az ápoló, gondozó és a szociális, mentálhigiénés munkakörök átcsoportosíthatók a rájuk meghatározott és együttesen számított létszámminimumon belül azzal, hogy az így meghatározott ápoló, gondozó létszám nem csökkenhet az intézmény számára előírt ápoló, gondozó létszám 50%-a alá.
 
-## 3. Házi segítségnyújtás keretében nyújtott személyi gondozás esetén a szociális gondozók számát a személyi gondozást is tartalmazó szolgáltatás nyújtására irányuló megállapodások száma alapján kell meghatározni.
+## 3. Házi segítségnyújtás keretében nyújtott személyi gondozás esetén a szociális gondozók havi számát az 5. számú melléklet A) pontja szerinti tevékenységnaplókban ellátottanként, havonta rögzített időtartamok összesítése alapján kell meghatározni. A tevékenység megkezdésének első hónapjában a megállapodásokban rögzített időtartamok összesítése az irányadó. Egy gondozó közvetlen gondozásra fordított havi órakerete 147 óra. Ellátotti szám számítása: 21 óra = 1 fő ellátott.
 
 ## 4. A létszámigényt – ha a létszámnorma ellátotti számra vagy férőhelyekre vetítve van meghatározva – főben kell meghatározni, a kerekítés általános szabályának figyelembevételével.
 
@@ -496,7 +496,7 @@
 
 ## 13.
 
-3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^289]
+3. számú melléklet az 1/2000. (I. 7.) SZCSM rendelethez[^291]
 
 A személyes gondoskodást nyújtó szociális intézményekben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimumelőírásai
 
@@ -1736,4 +1736,4 @@ Kiegészítő szabályok:
 
 3. A mellékletben szereplő képesítések alatt az alábbi, az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 133/2010. (IV. 22.) Korm. rendeletben meghatározott számú szakképesítések értendők.
 
-[^289]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a, a 2/2015. (I. 14.) EMMI rendelet 12. § (2) bekezdése, a 24/2015. (IV. 30.) EMMI rendelet 9. § b) pontja, az 55/2015. (XI. 30.) EMMI rendelet 30. § g) pontja szerint módosított szöveg.
+[^291]: A 3. számú melléklet a 26/2010. (XII. 30.) NEFMI rendelet 9. § (1) bekezdésével megállapított, a 78/2011. (XII. 30.) NEFMI rendelet 8. §-a, a 2/2015. (I. 14.) EMMI rendelet 12. § (2) bekezdése, a 24/2015. (IV. 30.) EMMI rendelet 9. § b) pontja, az 55/2015. (XI. 30.) EMMI rendelet 30. § g) pontja szerint módosított szöveg.

@@ -16,11 +16,13 @@ c) száz százalékának szakképzettnek kell lennie családsegítés és gyerme
 
 (4) A gazdasági, pénzügyi feladatok ellátására a 2. számú mellékletben megállapított létszám ajánló jellegű.
 
-(5)[^38] A személyes gondoskodást nyújtó szociális intézményben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimumelőírásait a 3. számú melléklet tartalmazza. A családsegítés és gyermekjóléti szolgáltatás képesítési minimumelőírásait a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet 2. számú melléklete tartalmazza. A munkakör betöltéséhez szükséges képesítési előírások alól – ide nem értve a vezető beosztású, megbízású vagy munkakörű személyeket, valamint a családsegítés és gyermekjóléti szolgáltatás keretében foglalkoztatott és a házi segítségnyújtás keretében személyi gondozást végző személyeket – a munkáltatói jogkör gyakorlója határozott időre, de legfeljebb öt évre felmentést adhat, ha
+(5)[^38] A személyes gondoskodást nyújtó szociális intézményben foglalkoztatottaknak az adott munkakör betöltéséhez szükséges képesítési minimumelőírásait a 3. számú melléklet tartalmazza. A családsegítés és gyermekjóléti szolgáltatás képesítési minimumelőírásait a személyes gondoskodást nyújtó gyermekjóléti, gyermekvédelmi intézmények, valamint személyek szakmai feladatairól és működésük feltételeiről szóló 15/1998. (IV. 30.) NM rendelet 2. számú melléklete tartalmazza. A munkakör betöltéséhez szükséges képesítési előírások alól – ide nem értve a vezető beosztású, megbízású vagy munkakörű személyeket – a munkáltatói jogkör gyakorlója határozott időre, de legfeljebb öt évre, házi segítségnyújtás esetén két évre felmentést adhat, ha
 
-a) a munkakört betölteni kívánó személy a képesítés megszerzése érdekében már oktatásban vesz részt, vagy
+a) a munkakört betölteni kívánó személy a képesítés megszerzése érdekében már szakirányú oktatásban vesz részt,
 
-b) az adott munkakör betöltésére nem áll rendelkezésre a képesítési előírásoknak megfelelő személy, és a munkakört betölteni kívánó személy vállalja a szükséges képesítés megszerzését.
+b) az adott munkakör betöltésére nem áll rendelkezésre a képesítési előírásoknak megfelelő személy, és a munkakört betölteni kívánó személy vállalja a szükséges szakirányú képesítés megszerzését, vagy
+
+c) családsegítés és gyermekjóléti szolgáltatás esetén a munkavállaló az előírt végzettséget a nyelvvizsga hiánya miatt nem szerezte még meg.
 
 (6)[^39] Szociális szakvizsga letételére köteles – az államháztartás működési rendjéről szóló kormányrendelet szerinti gazdasági vezető kivételével –
 
@@ -54,7 +56,7 @@ d) az a)–c) pontok szerinti egyházi, nem állami fenntartású személyes gon
 [^35]: A 6. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 19. § (1) bekezdésével megállapított szöveg.
 [^36]: A 6. § (2) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 19. § (2) bekezdésével megállapított szöveg.
 [^37]: A 6. § (3) bekezdése a 26/2010. (XII. 30.) NEFMI rendelet 10. § a) pontja szerint módosított szöveg.
-[^38]: A 6. § (5) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 19. § (3) bekezdésével megállapított szöveg.
+[^38]: A 6. § (5) bekezdése a 40/2016. (XII. 21.) EMMI rendelet 1. §-ával megállapított szöveg.
 [^39]: A 6. § új (6) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének a) pontja iktatta be, egyidejűleg az eredeti (6) bekezdés számozását (9) bekezdésre változtatva. A 6. § (6) bekezdése a 2/2006. (IV. 14.) ICSSZEM rendelet 5. § (2) bekezdésével megállapított, bevezető szövegrésze a 35/2009. (XII. 30.) SZMM rendelet 23. § (4) bekezdés b) pont ba) alpontja szerint módosított szöveg.
 [^40]: A 6. § (6) bekezdésének a) pontja a 7/2008. (VI. 3.) SZMM rendelet 9. § (4) bekezdése szerint módosított szöveg. E módosító rendelet 9. § (2) bekezdése alapján a vezetői megbízásra, illetve annak feltételeire vonatkozó új szabályokat a 2008. július 1. napját követően kiírásra kerülő pályázatok alapján adott vezetői megbízásokra kell alkalmazni.
 [^41]: A 6. § (6) bekezdés c) pontja az 55/2015. (XI. 30.) EMMI rendelet 19. § (4) bekezdésével megállapított szöveg.
