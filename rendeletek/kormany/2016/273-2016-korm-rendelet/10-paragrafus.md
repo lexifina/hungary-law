@@ -1,3 +1,3 @@
-## 9. §[^2]
+## 9. § Az R1. 37. § (1a) bekezdése helyébe a következő rendelkezés lép:
 
-[^2]: A 9. § a 28. § (2) bekezdése alapján 2017. január 1-jén lép hatályba.
+## „(1a) A családi otthonteremtési kedvezmény a kérelem benyújtásakor az épület készültségi fokának megfelelő, az építési költségvetésből még fennmaradó bekerülési költségre igényelhető.”
