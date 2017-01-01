@@ -12,9 +12,9 @@
 
 | Hová szállítandó: |
 
-|  | A szállítást végző szolgáltató OEP kódja: |
+|  | A szállítást végző szolgáltató NEAK kódja: |
 
-|  | A kúraszerű kezelést végző szolgáltató OEP kódja: |
+|  | A kúraszerű kezelést végző szolgáltató NEAK kódja: |
 
 | Beszállítás (ez a gyógyintézettel egyeztetett időpontok listája), illetve a visszaszállítás időopontjai: |
 

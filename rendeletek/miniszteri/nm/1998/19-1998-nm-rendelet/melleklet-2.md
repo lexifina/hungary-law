@@ -97,4 +97,4 @@
 [^48]: Az 1. számú melléklet II/B. pont 2. alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított, nyitó szövegrésze a 37/2011. (VI. 28.) NEFMI rendelet 17. § (3) bekezdése, a 6/2013. (I. 18.) EMMI rendelet 6. § (2) bekezdés c) pontja szerint módosított szöveg.
 [^49]: Az 1. számú melléklet II/B. 2. pont a) alpontja a 6/2013. (I. 18.) EMMI rendelet 6. § (2) bekezdés d) pontja szerint módosított szöveg.
 [^50]: Az 1. számú melléklet II. pont II/B. 4. alpontja a 15/2011. (IV. 27.) NEFMI rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^51]: A 2. számú melléklet a 60/2007. (XII. 29.) EüM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^51]: A 2. számú melléklet a 60/2007. (XII. 29.) EüM rendelet 8. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 9. § h) pontja szerint módosított szöveg.

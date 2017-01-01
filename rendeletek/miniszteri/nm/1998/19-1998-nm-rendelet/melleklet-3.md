@@ -8,7 +8,7 @@
 
 ## Lakcím: (település) (utca) (hsz.)
 
-## Költségviselő: OEP ⬜
+## Költségviselő: NEAK ⬜
 
 ## A beteg kérésére történő fizetésköteles szállítás ⎕
 
@@ -52,7 +52,7 @@
 
 ## Szolgáltató neve,
 
-## OEP-kódja:
+## NEAK-kódja:
 
 | A megrendelés időpont | év |  |  |  |  | hó |  |  | nap |  |  | óra |  |  | perc |  |  |
 
@@ -60,4 +60,4 @@
 
 3. számú melléklet a 19/1998. (VI. 3.) NM rendelethez[^52]
 
-[^52]: A 3. számú melléklet a 15/2011. (IV. 27.) NEFMI rendelet 7. § (2) bekezdésével megállapított szöveg.
+[^52]: A 3. számú melléklet a 15/2011. (IV. 27.) NEFMI rendelet 7. § (2) bekezdésével megállapított, az 54/2016. (XII. 30.) EMMI rendelet 9. § i)–j) pontja szerint módosított szöveg.

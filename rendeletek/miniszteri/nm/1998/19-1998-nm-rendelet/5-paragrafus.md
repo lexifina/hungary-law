@@ -1,4 +1,4 @@
-## 4/A. §[^16] A betegszállító szervezet saját maga vagy megbízottja útján folyamatos ellátás biztosítására kötelezett. Ha a betegszállító szervezet más betegszállító szervezet közreműködésével biztosítja a folyamatos működését, akkor a feladatot átadó betegszállító szervezet köteles írásban megállapodást kötni a területi ellátási kötelezettség átvállalásáról és az átvállalás időtartamáról a feladatot átvállaló másik betegszállító szervezettel, és erről tájékoztatni az OMSZ-ot, az OEP-et, valamint az Országos Tisztifőorvosi Hivatalt.
+## 4/A. §[^16] A betegszállító szervezet saját maga vagy megbízottja útján folyamatos ellátás biztosítására kötelezett. Ha a betegszállító szervezet más betegszállító szervezet közreműködésével biztosítja a folyamatos működését, akkor a feladatot átadó betegszállító szervezet köteles írásban megállapodást kötni a területi ellátási kötelezettség átvállalásáról és az átvállalás időtartamáról a feladatot átvállaló másik betegszállító szervezettel, és erről tájékoztatni az OMSZ-ot, a NEAK-ot, valamint az Országos Tisztifőorvosi Hivatalt.
 
 5. § (1) Ülőbeteg-szállító kocsival az a beteg szállítható, aki
 
@@ -40,7 +40,7 @@ ac) 24 órát üzemelő diagnosztikai vizsgálatra (pl. CT, MRI), kezelésre
 
 b) akik sürgősségi ellátás keretében kerültek ellátásra.
 
-[^16]: A 4/A. §-t az 50/2008. (XII. 31.) EüM rendelet 3. §-a iktatta be, szövege a 15/2011. (IV. 27.) NEFMI rendelet 3. §-ával megállapított szöveg.
+[^16]: A 4/A. §-t az 50/2008. (XII. 31.) EüM rendelet 3. §-a iktatta be, szövege a 15/2011. (IV. 27.) NEFMI rendelet 3. §-ával megállapított, az 54/2016. (XII. 30.) EMMI rendelet 9. § d) pontja szerint módosított szöveg.
 [^17]: Az 5. § (1) bekezdésének a) pontja az 50/2008. (XII. 31.) EüM rendelet 4. § (1) bekezdésével megállapított szöveg.
 [^18]: Az 5. § (2) bekezdése az 50/2008. (XII. 31.) EüM rendelet 4. § (2) bekezdésével megállapított szöveg.
 [^19]: Az 5. § (3) bekezdése a 60/2007. (XII. 29.) EüM rendelet 5. §-ával megállapított szöveg.
