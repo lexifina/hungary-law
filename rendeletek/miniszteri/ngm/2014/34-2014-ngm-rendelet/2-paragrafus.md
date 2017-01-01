@@ -34,6 +34,8 @@ e) olyan adagoló szerkezettel (szeleppel) rendelkezik, amely lehetővé teszi a
 
 10. nyomásállósági vizsgálat: hidraulikus úton, 20—5 °C-on végzett deformációs és roncsoló vizsgálat;
 
-11. piacfelügyeleti hatóság: fogyasztóknak szánt termékek esetében a fogyasztóvédelmi hatóság, gazdasági célfelhasználású termékek esetében a Magyar Kereskedelmi Engedélyezési Hivatal;
+11.[^1] piacfelügyeleti hatóság: fogyasztóknak szánt termékek esetében a fogyasztóvédelmi hatóság, gazdasági célfelhasználású termékek esetében a piacfelügyeleti feladatkörében eljáró Budapest Főváros Kormányhivatala;
 
 12. roncsolási vizsgálati nyomás: az a legkisebb nyomás, amely a palackot megrepeszti vagy eltöri.
+
+[^1]: A 2. § 11. pontja a 62/2016. (XII. 29.) NGM rendelet 29. § a) pontja szerint módosított szöveg.
