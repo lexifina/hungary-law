@@ -1,0 +1,3 @@
+13. § (1) Az áldozatsegítési szolgáltatás iránti kérelmet az a járási hivatal bírálja el, amelynél a kérelmet az áldozat először benyújtotta. Ha az áldozat kéri, az ügyet a lakóhelye vagy a tartózkodási helye szerint illetékes járási hivatalhoz kell áttenni. Ha az áldozatnak a támogatást vissza kell térítenie, erre az a járási hivatal kötelezi, amelyik a támogatást engedélyezte.
+
+(2) A járadékra való jogosultságot a járadékra jogosult lakóhelye szerint illetékes járási hivatal ellenőrzi. Ha a járadék felülvizsgálata során a járási hivatal arról szerez tudomást, hogy a bűncselekmények áldozatainak segítéséről és az állami kárenyhítésről szóló törvény szerinti megszüntető ok áll fenn, akkor a járadék megszüntetését kezdeményezi a döntő hatóságnál.
