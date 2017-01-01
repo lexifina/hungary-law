@@ -8,7 +8,7 @@ a) továbbítja a szavazatszámláló bizottság (a továbbiakban: SZSZB) rész�
 
 b) az informatikai rendszerben biztosítja a szavazóköri névjegyzék megtekinthetőségét,
 
-c)[^6] a szavazóköri névjegyzékkel kapcsolatos döntését a kérelmező lakcímére is megküldi.
+c)[^7] a szavazóköri névjegyzékkel kapcsolatos döntését a kérelmező lakcímére is megküldi.
 
 (2) A HVI – a Ve.-ben foglalt feladatain túl –
 
@@ -42,8 +42,9 @@ l) gondoskodik a megfelelő szavazóhelyiség és a szavazáshoz szükséges egy
 
 (3) A HVI vezetője – a Ve.-ben foglalt feladatain túl –
 
-a) a szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzékének nyomtatásával megbízhatja a TVI-t, amely a feladatot a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala vagy a fővárosi és megyei kormányhivatal, illetve annak járási hivatala útján is elláthatja; a nyomtatás megtörténtéről haladéktalanul értesíteni kell az NVI-t,
+a)[^8] a szavazóköri névjegyzék és a mozgóurnát igénylő választópolgárok jegyzékének nyomtatásával megbízhatja a TVI-t, amely a feladatot a fővárosi és megyei kormányhivatal, illetve annak járási hivatala útján is elláthatja; a nyomtatás megtörténtéről haladéktalanul értesíteni kell az NVI-t,
 
 b) a kinyomtatott névjegyzéket és a mozgóurnát igénylő választópolgárok kinyomtatott jegyzékét az utolsó oldalon aláírásával és lebélyegzéssel hitelesíti.
 
-[^6]: A 9. § (1) bekezdés c) pontját a 2/2014. (I. 16.) KIM rendelet 3. §-a iktatta be.
+[^7]: A 9. § (1) bekezdés c) pontját a 2/2014. (I. 16.) KIM rendelet 3. §-a iktatta be.
+[^8]: A 9. § (3) bekezdés a) pontja a 28/2016. (XII. 27.) IM rendelet 7. §-a szerint módosított szöveg.

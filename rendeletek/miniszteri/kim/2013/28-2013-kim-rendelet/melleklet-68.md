@@ -90,7 +90,7 @@
 
 ## p.h.
 
-68. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^25]
+68. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^27]
 
 Szavazóköri jegyzőkönyv az egy szavazókörös településen és a kijelölt szavazókörben
 
@@ -266,4 +266,4 @@ A SZAVAZATOK SZÁMA JELÖLTENKÉNT
 
 p.h.
 
-[^25]: A 68. mellékletet a 6/2014. (IX. 19.) IM rendelet 11. § (2) bekezdése iktatta be.
+[^27]: A 68. mellékletet a 6/2014. (IX. 19.) IM rendelet 11. § (2) bekezdése iktatta be.

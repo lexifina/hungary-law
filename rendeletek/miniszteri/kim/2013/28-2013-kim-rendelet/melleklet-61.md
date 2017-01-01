@@ -30,6 +30,6 @@
 
 |  | AE |
 
-61. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^18]
+61. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^20]
 
-[^18]: A 61. mellékletet a 6/2014. (IX. 19.) IM rendelet 11. § (2) bekezdése iktatta be.
+[^20]: A 61. mellékletet a 6/2014. (IX. 19.) IM rendelet 11. § (2) bekezdése iktatta be.

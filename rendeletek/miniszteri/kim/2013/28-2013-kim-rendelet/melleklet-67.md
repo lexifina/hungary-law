@@ -60,6 +60,6 @@
 
 ## Helyi Választási Iroda
 
-67. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^24]
+67. melléklet a 28/2013. (XI. 15.) KIM rendelethez[^26]
 
-[^24]: A 67. mellékletet a 6/2014. (IX. 19.) IM rendelet 11. § (2) bekezdése iktatta be.
+[^26]: A 67. mellékletet a 6/2014. (IX. 19.) IM rendelet 11. § (2) bekezdése iktatta be.

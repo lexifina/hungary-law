@@ -1,10 +1,10 @@
 ## érvénytelen szavazólapokra vonatkozó adatokat.
 
-## 4/A. [^3] A fővárosi és megyei kormányhivatalok feladatai
+## 4/A. [^4] A fővárosi és megyei kormányhivatalok feladatai
 
 7/A. § (1) A fővárosi és megyei kormányhivatal (a továbbiakban: kormányhivatal) a választási feladatok ellátása érdekében a TVI, az OEVI, valamint a HVI vezetője számára biztosítja
 
-a)[^4] a megfelelő számú, a kormányhivatallal kormányzati szolgálati jogviszonyban álló kormánytisztviselő vagy állami szolgálati jogviszonyban álló állami tisztviselő választási iroda tagjává történő megbízásának lehetőségét, és
+a)[^5] a megfelelő számú, a kormányhivatallal állami szolgálati jogviszonyban álló állami tisztviselő választási iroda tagjává történő megbízásának lehetőségét, és
 
 b) a választási iroda tagjának közreműködését a választási feladatok ellátásában, a választási iroda vezetőjének rendelkezése szerint.
 
@@ -20,7 +20,7 @@ d) biztosítja az a)–c) pontokban foglaltakhoz szükséges kiemelt rendelkezé
 
 (3) A (2) bekezdés c) pontja szerinti eszközök körének meghatározását az NVI és a kormányhivatal a szavazás napját megelőző hatvanadik napig írásos megállapodásban rögzíti.
 
-(4)[^5] A választási iroda tagjává történő megbízása esetén a kormányhivatallal kormányzati szolgálati jogviszonyban álló kormánytisztviselő vagy állami szolgálati jogviszonyban álló állami tisztviselő is a választási iroda tagjával megegyező díjazásra jogosult.
+(4)[^6] A választási iroda tagjává történő megbízása esetén a kormányhivatallal állami szolgálati jogviszonyban álló állami tisztviselő is a választási iroda tagjával megegyező díjazásra jogosult.
 
 (5) Az (1) és (2) bekezdésben foglaltak különösen a következő állandó választási feladatok elvégzését szolgálhatják:
 
@@ -52,6 +52,6 @@ h) a választások pénzügyi és logisztikai elszámolási feladatai informatik
 
 (9) A választási iroda és a kormányhivatal együttműködik a választási feladatok határidőre történő elvégzése érdekében. A választási feladatok határidőre történő elvégzése elsőbbséget élvez a fővárosi és megyei kormányhivatal egyéb feladataival szemben.
 
-[^3]: A 4/A. alcímet (7/A. §) a 38/2013. (XII. 30.) KIM rendelet 11. §-a iktatta be.
-[^4]: A 7/A. § (1) bekezdés a) pontja a 17/2016. (VIII. 2.) IM rendelet 4. §-a szerint módosított szöveg.
-[^5]: A 7/A. § (4) bekezdése a 17/2016. (VIII. 2.) IM rendelet 4. §-a szerint módosított szöveg.
+[^4]: A 4/A. alcímet (7/A. §) a 38/2013. (XII. 30.) KIM rendelet 11. §-a iktatta be.
+[^5]: A 7/A. § (1) bekezdés a) pontja a 23/2016. (XII. 21.) IM rendelet 2. §-a szerint módosított szöveg.
+[^6]: A 7/A. § (4) bekezdése a 23/2016. (XII. 21.) IM rendelet 2. §-a szerint módosított szöveg.
