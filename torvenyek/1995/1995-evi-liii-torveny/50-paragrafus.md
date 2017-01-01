@@ -1,6 +1,6 @@
 50. § (1) A környezethasználó köteles a tevékenysége során okozott környezetterhelést, környezet-igénybevételt — jogszabályban meghatározott módon — mérni, vagy technológiai számítással alátámasztani, nyilvántartani, nyilvántartását a hatáskörrel és illetékességgel rendelkező hatóságok rendelkezésére bocsátani, illetőleg adatszolgáltatást teljesíteni.
 
-(1a) A környezethasználó az Információs Rendszerrel kapcsolatos adatszolgáltatási kötelezettségeit – ha kormányrendelet vagy miniszteri rendelet eltérően nem rendelkezik – a közigazgatási hatósági eljárás általános szabályairól szóló törvény elektronikus kapcsolattartásra vonatkozó szabályai szerint teljesíti.
+(1a) Az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény szerinti gazdálkodó szervezet környezethasználó az Információs Rendszerrel kapcsolatos adatszolgáltatási kötelezettségeit elektronikusan teljesíti.
 
 (1b) Az (1a) bekezdés szerinti adatszolgáltatás rendjét meghatározó tájékoztatót, továbbá az adatszolgáltatás teljesítéséhez szükséges elektronikus űrlapokat az 51/A. § szerinti publikus felületen közzé kell tenni.
 
