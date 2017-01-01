@@ -4,8 +4,8 @@
 
 (3) A (2) bekezdésben meghatározott határidő elmulasztása jogvesztéssel jár, a mulasztás miatt igazolásnak nincs helye.
 
-(4) A kárpótlási hatóság határozatának felülvizsgálata során eljáró bíróság illetékességére a Kpt. 14. §-ának d) pontját kell alkalmazni.
+(4)
 
 (5) A kárpótlási hatóság által hozott jogerős és végrehajtható határozat alapján a kárpótlási összeg kifizetését a Hadigondozottak Közalapítványa végzi.
 
-(6) A kérelmező nem jogosult a kárpótlási hatósággal elektronikus úton kapcsolatot tartani.
+(6)
