@@ -1,6 +1,6 @@
 ## A tervtérkép
 
-17. § (1)[^27] A tervtérkép a bányaművelési térkép adatállományának felhasználásával készített térkép. A jóváhagyott tervtérkép egy kinyomtatott példányát a bányaüzemben kell őrizni.
+17. § (1)[^28] A tervtérkép a bányaművelési térkép adatállományának felhasználásával készített térkép. A jóváhagyott tervtérkép egy kinyomtatott példányát a bányaüzemben kell őrizni.
 
 (2) A tervtérképen a 16. § (2) bekezdésében előírtakon túlmenően fel kell tüntetni
 
@@ -36,4 +36,4 @@ d) a többi fő bányaveszélyek ellen tervezett állandó létesítményeket é
 
 e) a tervezett és ütemezett tájrendezési feladatokat.
 
-[^27]: A 17. § (1) bekezdése a 82/2012. (XII. 28.) NFM rendelet 11. §-ával megállapított szöveg.
+[^28]: A 17. § (1) bekezdése a 82/2012. (XII. 28.) NFM rendelet 11. §-ával megállapított szöveg.

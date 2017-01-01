@@ -1,4 +1,4 @@
-1. Melléklet a 10/2010. (II. 26.) KHEM rendelethez[^38]
+1. Melléklet a 10/2010. (II. 26.) KHEM rendelethez[^39]
 
 ## A bányászati térképezés egyes jelkulcsaihoz kapcsolódó szabványok
 
@@ -12,4 +12,4 @@
 
 5. OKGT 1976-ban kiadott Gázipari térképjelkulcsa.
 
-[^38]: Az eredeti melléklet megjelölését 1. mellékletre változtatta, és szövegét megállapította a 82/2012. (XII. 28.) NFM rendelet 16. § (1) bekezdése.
+[^39]: Az eredeti melléklet megjelölését 1. mellékletre változtatta, és szövegét megállapította a 82/2012. (XII. 28.) NFM rendelet 16. § (1) bekezdése.

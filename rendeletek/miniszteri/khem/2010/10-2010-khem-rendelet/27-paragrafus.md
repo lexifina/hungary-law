@@ -1,4 +1,4 @@
-## 26. §[^36]
+## 26. §[^37]
 
 ## A tervtérkép
 
@@ -12,4 +12,4 @@ b) az üzemi létesítményeket, az állandó jellegű kőolaj-, kőolajtermék-
 
 c) az ütemezett tájrendezési feladatokat.
 
-[^36]: A 26. §-t és az azt megelőző alcímet a 82/2012. (XII. 28.) NFM rendelet 19. § d) pontja hatályon kívül helyezte.
+[^37]: A 26. §-t és az azt megelőző alcímet a 82/2012. (XII. 28.) NFM rendelet 19. § d) pontja hatályon kívül helyezte.

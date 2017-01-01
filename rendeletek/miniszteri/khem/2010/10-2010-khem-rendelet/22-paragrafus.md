@@ -1,8 +1,8 @@
-## 21. §[^29]
+## 21. §[^30]
 
 ## A bányaművelési térkép
 
-22. §[^30] (1) A külfejtéses bányák bányaművelési térképei terepi mérések alapján készített vektoros formátumú digitális adatbázisok, amelyek a térképi megjelenítésen túl alkalmasak a bánya háromdimenziós térmodelljének előállítására is.
+22. §[^31] (1) A külfejtéses bányák bányaművelési térképei terepi mérések alapján készített vektoros formátumú digitális adatbázisok, amelyek a térképi megjelenítésen túl alkalmasak a bánya háromdimenziós térmodelljének előállítására is.
 
 (2) Az (1) bekezdés szerinti digitális állományból összevonás (generalizálás) útján nyomtatásra alkalmas példányt is elő kell állítani. A papír vagy képi megjelenítésű bányaművelési térképet 1:1000, nagy kiterjedésű bánya esetében 1:2000 méretarányban kell készíteni. Az előírtnál nagyobb méretarány is megengedett.
 
@@ -60,10 +60,10 @@ b) a méréseket olyan alapadatokkal, eszközökkel és módszerekkel kell elvé
 
 (7) A digitális állományt nem újraírható adathordozón kell tárolni.
 
-(8)[^31] A bányaművelési térképet és az (5)–(7) bekezdés szerinti munkarészeket szükség szerint, de legalább a tárgyév január 1. napja és április 1. napja között ki kell egészíteni és minden év április 20-ig digitálisan és papír alapon, nyomtatott formátumban a Magyar Bányászati és Földtani Hivatalnak meg kell küldeni a helyszíni mérések időpontjának megjelölésével. Az éves leadások között eltelt időszak 14 hónapnál hosszabb nem lehet.
+(8)[^32] A bányaművelési térképet és az (5)–(7) bekezdés szerinti munkarészeket szükség szerint, de legalább a tárgyév január 1. napja és április 1. napja között ki kell egészíteni és minden év április 20-ig digitálisan és papír alapon, nyomtatott formátumban a Magyar Bányászati és Földtani Hivatalnak meg kell küldeni a helyszíni mérések időpontjának megjelölésével. Az éves leadások között eltelt időszak 14 hónapnál hosszabb nem lehet.
 
 (9) A bányaművelési térkép egy kinyomtatott példányát a bányaüzemben kell tartani. Ha a bányaüzemben nincs állandó tárolásra alkalmas hely, akkor a bányaművelési térkép egy példányát a műszaki felügyeleti személy által hozzáférhető helyen kell tartani.
 
-[^29]: A 21. §-t és az azt megelőző alcímet a 82/2012. (XII. 28.) NFM rendelet 19. § c) pontja hatályon kívül helyezte.
-[^30]: A 22. § a 82/2012. (XII. 28.) NFM rendelet 13. §-ával megállapított szöveg.
-[^31]: A 22. § (8) bekezdése a 15/2015. (III. 31.) NFM rendelet 20. §-ával megállapított szöveg.
+[^30]: A 21. §-t és az azt megelőző alcímet a 82/2012. (XII. 28.) NFM rendelet 19. § c) pontja hatályon kívül helyezte.
+[^31]: A 22. § a 82/2012. (XII. 28.) NFM rendelet 13. §-ával megállapított szöveg.
+[^32]: A 22. § (8) bekezdése a 15/2015. (III. 31.) NFM rendelet 20. §-ával megállapított szöveg.

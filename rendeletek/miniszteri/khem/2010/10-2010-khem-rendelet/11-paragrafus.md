@@ -12,7 +12,7 @@ a) a kutatási terület megnevezését és határvonalát, töréspontjainak sor
 
 b) a kutatási területtel érintett saját és idegen bányatelek, illetve kutatási terület megnevezését, határvonalát,
 
-c)[^13] az állami ingatlan-nyilvántartási térképi adatbázis tartalmát,
+c)[^14] az állami ingatlan-nyilvántartási térképi adatbázis tartalmát,
 
 d) koncesszió esetén a koncessziós terület határvonalát töréspontjaival és azok sorszámával,
 
@@ -24,19 +24,19 @@ eb) kutatófúrásokat,
 
 ec) geofizikai mérések nyomvonalát és állomáspontját, valamint a korábbi értelmezés alapján valószínűsíthető földtani alakzatokat,
 
-ed)[^14] korábban telepített kutató létesítményeket,
+ed)[^15] korábban telepített kutató létesítményeket,
 
 f) a kutatási tevékenységgel érintett, a bányászatról szóló törvényben meghatározott kivett helyeket, a Natura 2000 területeket, a barlangokat és védőterületeket,
 
-g)[^15] az állami topográfiai térképi adatbázis tartalmát,
+g)[^16] az állami topográfiai térképi adatbázis tartalmát,
 
 h) a felhasznált vízszintes és magassági alappontokat azonosító számukkal, magassági adataikkal együtt és
 
-i)[^16] a megvalósult kutatási létesítményeket, a kutatás során végzett kitermelés helyét.
+i)[^17] a megvalósult kutatási létesítményeket, a kutatás során végzett kitermelés helyét.
 
 (3) A kutatási térképet szükség szerint, de legalább évente kétszer, a június 30-i és a december 31-i, valamint a kutatás befejezési állapotának megfelelően ki kell egészíteni. Ha nincs a térképi tartalomban változás, akkor a meglévő kutatási térképen – hites bányamérővel újból hitelesítve – az utolsó kiegészítés dátumát kell feltüntetni.
 
-[^13]: A 11. § (2) bekezdés c) pontja a 82/2012. (XII. 28.) NFM rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^14]: A 11. § (2) bekezdés e) pont ed) alpontját a 82/2012. (XII. 28.) NFM rendelet 8. § (2) bekezdése iktatta be.
-[^15]: A 11. § (2) bekezdés g) pontja a 82/2012. (XII. 28.) NFM rendelet 8. § (3) bekezdésével megállapított szöveg.
-[^16]: A 11. § (2) bekezdés i) pontja a 82/2012. (XII. 28.) NFM rendelet 8. § (4) bekezdésével megállapított szöveg.
+[^14]: A 11. § (2) bekezdés c) pontja a 82/2012. (XII. 28.) NFM rendelet 8. § (1) bekezdésével megállapított szöveg.
+[^15]: A 11. § (2) bekezdés e) pont ed) alpontját a 82/2012. (XII. 28.) NFM rendelet 8. § (2) bekezdése iktatta be.
+[^16]: A 11. § (2) bekezdés g) pontja a 82/2012. (XII. 28.) NFM rendelet 8. § (3) bekezdésével megállapított szöveg.
+[^17]: A 11. § (2) bekezdés i) pontja a 82/2012. (XII. 28.) NFM rendelet 8. § (4) bekezdésével megállapított szöveg.

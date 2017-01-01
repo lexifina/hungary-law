@@ -1,6 +1,6 @@
 ## A légvezetési térkép
 
-18. § (1)[^28] A légvezetési térképet a bányaművelési térkép állományának felhasználásával kell készíteni és 1:2000 vagy nagyobb méretarányban kell kinyomtatni, és a bányaüzemben a műszaki felügyelet által hozzáférhetően kell őrizni. A légvezetési térkép egy példányát a szellőztetési megbízott irodájában ki kell függeszteni.
+18. § (1)[^29] A légvezetési térképet a bányaművelési térkép állományának felhasználásával kell készíteni és 1:2000 vagy nagyobb méretarányban kell kinyomtatni, és a bányaüzemben a műszaki felügyelet által hozzáférhetően kell őrizni. A légvezetési térkép egy példányát a szellőztetési megbízott irodájában ki kell függeszteni.
 
 (2) A légvezetési térképen fel kell tüntetni
 
@@ -32,4 +32,4 @@ j) a hírközlő és a riasztó berendezések (műszerek), valamint a veszélyes
 
 (6) Szükség szerint, de legalább évenként, az első negyedévben új légvezetési térképet kell készíteni.
 
-[^28]: A 18. § (1) bekezdése a 82/2012. (XII. 28.) NFM rendelet 12. §-ával megállapított szöveg.
+[^29]: A 18. § (1) bekezdése a 82/2012. (XII. 28.) NFM rendelet 12. §-ával megállapított szöveg.
