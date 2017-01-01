@@ -8,7 +8,7 @@ c)[^74] a pályáztatás, a szerződéskötés és a hitelesítés folyamataiban
 
 d) gondoskodni az ellenőrzési nyomvonal, a szabálytalanságkezelési és a kockázatkezelési, követeléskezelési eljárásrend kialakításáról, továbbá a közbeszerzési eljárások ellenőrzése belső eljárásrendjének szabályozásáról, valamint az esetleges változások haladéktalan átvezetéséről,
 
-e)[^75] az e rendeletben foglalt feladataik ellátására kizárólagosan a monitoring és információs rendszert használni, az e rendeletben foglalt feladataik ellátásánál bármely adat vagy tény megismerését követően 3 napon belül rögzíteni azt az EMIR rendszerben.
+e)[^75] az e rendeletben foglalt feladataik ellátására kizárólagosan a monitoring és információs rendszert használni, az e rendeletben foglalt feladataik ellátásánál bármely adat vagy tény megismerését követően 3 napon belül rögzíteni azt a monitoring és információs rendszerben.
 
 (2) A lebonyolításban érintett szervezet a közreműködő szervezeti tevékenység bevételei és kiadásai tekintetében operatív programonként elkülönülő nyilvántartás vezetését köteles biztosítani.
 

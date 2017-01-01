@@ -4,9 +4,9 @@
 
 (3)[^285] A fejezetet irányító szerv vezetője a programszámla felett a forráskezelő szervezetnek rendelkezési jogot biztosíthat. A programszámla feletti rendelkezési jogosultságot két bejelentett személy együttes aláírásával lehet gyakorolni.
 
-(4)[^286] A programszámlának az év végén is maradhat egyenlege. A programszámla forgalmáról a kincstár a bankszámlakivonatot két eredeti, sorszámozott példányban állítja ki, amelynek első példányát az irányító hatóság részére, második példányát pedig a forráskezelő szervezet részére, a jóváírást vagy terhelést követő 5 napon belül küldi meg.
+(4)[^286] A programszámlának az év végén is maradhat egyenlege. A programszámla forgalmáról a kincstár a bankszámlakivonatot elektronikusan állítja ki és küldi meg az irányító hatóság, valamint a forráskezelő szervezet részére, a jóváírást vagy terhelést követő 5 napon belül.
 
 [^283]: A 49. § (1) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 82. pontja szerint módosított szöveg.
 [^284]: A 49. § (2) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 83. pontja szerint módosított szöveg.
 [^285]: A 49. § (3) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 84. pontja szerint módosított szöveg.
-[^286]: A 49. § (4) bekezdése az 548/2013. (XII. 30.) Korm. rendelet 43. § 85. pontja szerint módosított szöveg.
+[^286]: A 49. § (4) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 51. § (1) bekezdésével megállapított szöveg.
