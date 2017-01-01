@@ -8,4 +8,4 @@ Ha jogszabály a jogszerűen okozott kárért kártalanítási kötelezettséget
 
 ## XXIX. CÍM
 
-ÁLTALÁNOS SZABÁLYOK
+AZ ÉRTÉKPAPÍR FOGALMA ÉS ALAKI LEGITIMÁCIÓS HATÁSA

@@ -1,9 +1,5 @@
-### 6:571. § [Az okirati formában előállított értékpapírok alaki legitimációs hatása]
+### 6:571. § [Az értékpapírok semmissé nyilvánítása]
 
-(1) A bemutatóra szóló értékpapír esetén az értékpapír birtokosát kell az értékpapírban rögzített jog gyakorlására vagy követelés érvényesítésére jogosult személynek tekinteni.
+(1) Ha az értékpapír azonosíthatatlanná válik, elvész, fizikailag megsemmisül, vagy oly mértékben megrongálódik, hogy tartalma nem ismerhető meg, erre irányuló eljárás eredményeként az értékpapír semmissé nyilvánítására kerülhet sor.
 
-(2) Névre szóló értékpapír esetén az értékpapírnak azt a birtokosát kell az értékpapírban rögzített jog gyakorlására vagy követelés érvényesítésére jogosult személynek tekinteni, akit az értékpapír szövege jogosultként megjelöl, vagy akit a forgatmányok megszakítatlan láncolata jogosultként igazol. Ha az utolsó forgatmány üres, az értékpapír birtokosát kell jogosultnak tekinteni, feltéve, hogy a forgatmányok láncolata megszakítatlan. Ha valamely üres forgatmányra újabb forgatmány következik, az utóbbi aláíróját úgy kell tekinteni, mint aki az értékpapírt üres forgatmány útján szerezte meg.
-
-(3) A jogosultnak tekintendő jóhiszemű személynek az értékpapírból eredő jogosultságát nem befolyásolja az, ha valamely korábbi átruházásnak vagy más tulajdonszerzésnek nem volt jogcíme, vagy ha a jogcím érvénytelen vagy hatálytalan volt.
-
-(4) Ha a névre szóló értékpapír jogosultjának személye nem átruházás útján változik meg, az új jogosult a jogszerzését igazolni köteles. A nem átruházás útján való jogszerzést követően az értékpapírra vezetett forgatmányok megszakítatlan láncolata az értékpapír birtokosát a nem átruházás útján való jogszerzés igazolásától függően igazolja jogosultként. Ha jogszabály meghatározott személyt feljogosít a nem átruházás útján való igazolt jogszerzésnek a forgatmányi láncolatban való feltüntetésére, az ilyen bejegyzés biztosítja a forgatmányi láncolat megszakítatlanságát, és a jogszerzés hiánya, érvénytelensége vagy hatálytalansága az értékpapír jogosultjának tekintendő jóhiszemű harmadik személynek az értékpapírból eredő jogosultságát nem befolyásolja.
+(2) Az értékpapír semmissé nyilvánítása esetén a semmissé nyilvánított értékpapírhoz nem fűződnek többé értékpapírjogi joghatások; az értékpapírba foglalt jogot az e jogra irányadó általános szabályok szerint lehet érvényesíteni.

@@ -1,3 +1,7 @@
-### 6:568. § [Az okirati formában előállított értékpapír kibocsátásának hibája]
+### 6:568. § [Az e részben foglalt szabályoktól való eltérés lehetősége]
 
-Az okirati formában előállított értékpapír kiállítóját az értékpapír jóhiszemű jogosultjával szemben akkor is terhelik az értékpapírban rögzített kötelezettségek, ha az értékpapír kibocsátás nélkül vagy érvénytelen ügylettel került forgalomba.
+Az e részben foglalt rendelkezésektől annyiban lehet eltérni, amennyiben azt más jogszabály lehetővé teszi.
+
+## XXX. CÍM
+
+AZ ÉRTÉKPAPÍROK ÁTRUHÁZÁSÁNAK MÓDJA ÉS SEMMISSÉ NYILVÁNÍTÁSA

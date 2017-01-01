@@ -1,7 +1,13 @@
-### 3:72. § [Közgyűlés, küldöttgyűlés]
+### 3:72. § [A közgyűlés összehívása és napirendje]
 
-(1) Az egyesület döntéshozó szerve a közgyűlés.
+(1) A közgyűlés évente legalább egy alkalommal ülésezik. Az alapszabály négy évnél ritkább ülésezést előíró rendelkezése semmis. A közgyűlési meghívó elküldése és a közgyűlés napja között legalább tizenöt napnak kell eltelnie.
 
-(2) A tag jogosult a közgyűlésen részt venni, szavazati jogát gyakorolni, a közgyűlés rendjének megfelelően felszólalni, kérdéseket feltenni, javaslatokat és észrevételeket tenni.
+(2) A közgyűlési meghívó az általános tartalmi elemeken túl tartalmazza
 
-(3) Ha az alapszabály küldöttgyűlés működését írja elő, meg kell határoznia a küldöttek választásának módját. A küldöttgyűlésre egyebekben a közgyűlés szabályait kell megfelelően alkalmazni.
+a) határozatképtelenség esetére a megismételt közgyűlés időpontját, helyét és az eltérő határozatképességi szabályokra vonatkozó figyelemfelhívást; és
+
+b) küldöttgyűlés tartása esetén az erre a körülményre történő utalást.
+
+(3) A közgyűlés helyszínét elegendő a meghívóban megjelölni akkor is, ha az eltér az egyesület székhelyétől.
+
+(4) A közgyűlés napirendjére tűzött ügyekre vonatkozóan az ügyvezetés a tagnak – kérelmére – köteles felvilágosítást adni.

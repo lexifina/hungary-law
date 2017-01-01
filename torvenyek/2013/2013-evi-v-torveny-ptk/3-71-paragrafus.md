@@ -1,15 +1,9 @@
-### 3:71. § [Az alapszabály tartalmi elemei és értelmezése]
+### 3:71. § [Közgyűlés, a közgyűlés hatásköre. A küldöttgyűlés]
 
-(1) A jogi személy létesítő okiratának általános kötelező tartalmi elemein túl az egyesület alapszabályában meg kell határozni
+(1) Az egyesület döntéshozó szerve a közgyűlés.
 
-a) a tag jogait és kötelezettségeit;
+(2) A tag jogosult a közgyűlésen részt venni, szavazati jogát gyakorolni, a közgyűlés rendjének megfelelően felszólalni, kérdéseket feltenni, javaslatokat és észrevételeket tenni.
 
-b) az egyesület szerveit és azok hatáskörét, továbbá a tagokra, a vezető tisztségviselőkre és a felügyelőbizottsági tagokra vonatkozó kizáró és összeférhetetlenségi szabályokat;
+(3) A közgyűlés hatáskörébe tartozik az alapszabály módosítása; az alapszabály ettől eltérő rendelkezése semmis.
 
-c) a jogszabályt, az alapszabályt vagy az egyesületi határozatot sértő vagy az egyesület céljával összeegyezhetetlen tagi magatartás esetén alkalmazható jogkövetkezményeket és a taggal szembeni eljárás szabályait vagy mindezeknek a mellőzését;
-
-d) a közgyűlés összehívásának és lebonyolításának, a közgyűlés helye meghatározásának, a közgyűlési meghívó tartalmának, a napirendnek, a közgyűlés tisztségviselőinek, a levezető elnöknek, a szavazatszámlálók megválasztásának, a határozatképességnek, a szavazásnak, a jegyzőkönyvvezetésnek, valamint a határozatok kihirdetésének szabályait; és
-
-e) a szavazati jog gyakorlásának feltételeit.
-
-(2) Az alapszabályt az egyesület céljának figyelembevételével kell értelmezni.
+(4) Ha az alapszabály küldöttgyűlés működését írja elő, meg kell határoznia a küldöttek választásának módját. A küldöttgyűlésre egyebekben a közgyűlés szabályait kell megfelelően alkalmazni.

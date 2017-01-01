@@ -1,6 +1,6 @@
 ### 3:78. § [Elnökség]
 
-(1) Az elnökség három tagból áll. Az elnökség az elnökét maga választja tagjai közül.
+(1) Az elnökség három tagból áll. Semmis az alapszabály olyan rendelkezése, amely háromnál kevesebb tagú elnökség felállítását írja elő.
 
 (2) Az elnökség tagjai kötelesek a közgyűlésen részt venni, a közgyűlésen az egyesülettel kapcsolatos kérdésekre válaszolni, az egyesület tevékenységéről és gazdasági helyzetéről beszámolni.
 

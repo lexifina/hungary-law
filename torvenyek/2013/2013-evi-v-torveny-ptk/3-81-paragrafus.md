@@ -9,3 +9,5 @@ b) az egyesület előreláthatólag nem lesz képes a tartozásokat esedékessé
 c) az egyesület céljainak elérése veszélybe került.
 
 (2) Az (1) bekezdés alapján összehívott közgyűlésen a tagok kötelesek az összehívásra okot adó körülmény megszüntetése érdekében intézkedést tenni vagy az egyesület megszüntetéséről dönteni.
+
+(3) Semmis az alapszabály olyan rendelkezése, amely az (1) és a (2) bekezdésben foglalt szabályoknál az egyesületre nézve enyhébb követelményeket ír elő.

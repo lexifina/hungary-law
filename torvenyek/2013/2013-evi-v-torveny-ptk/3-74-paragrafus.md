@@ -1,25 +1,11 @@
-### 3:74. § [A közgyűlés hatásköre]
+### 3:74. § [A közgyűlés ülésezése]
 
-A közgyűlés hatáskörébe tartozik
+(1) A közgyűlés nem nyilvános; azon a tagokon és az ügyvezetésen kívül a közgyűlés összehívására jogosult által meghívottak és az alapszabály vagy a közgyűlés határozata alapján tanácskozási joggal rendelkező személyek vehetnek részt.
 
-a) az alapszabály módosítása;
+(2) A tag a közgyűlés ülésén tagsági jogait személyes részvétel helyett elektronikus hírközlő eszközök igénybevételével akkor gyakorolhatja, ha az alapszabály az igénybe vehető elektronikus hírközlő eszközöket, valamint azok alkalmazásának feltételeit és módját úgy határozza meg, hogy a tagok azonosítása és a tagok közötti kölcsönös és korlátozásmentes kommunikáció biztosított legyen.
 
-b) az egyesület megszűnésének, egyesülésének és szétválásának elhatározása;
+(3) Ha a közgyűlést nem szabályszerűen hívták össze, az ülést akkor lehet megtartani, ha az ülésen a részvételre jogosultak legalább háromnegyede jelen van, és egyhangúlag hozzájárul az ülés megtartásához.
 
-c) a vezető tisztségviselő megválasztása, visszahívása és díjazásának megállapítása;
+(4) A szabályszerűen közölt napirenden szereplő kérdésben hozható határozat, kivéve, ha a részvételre jogosultak legalább háromnegyede jelen van és a napirenden nem szereplő kérdés megtárgyalásához egyhangúlag hozzájárul.
 
-d) az éves költségvetés elfogadása;
-
-e) az éves beszámoló – ezen belül az ügyvezető szervnek az egyesület vagyoni helyzetéről szóló jelentésének – elfogadása;
-
-f) a vezető tisztségviselő feletti munkáltatói jogok gyakorlása, ha a vezető tisztségviselő az egyesülettel munkaviszonyban áll;
-
-g) az olyan szerződés megkötésének jóváhagyása, amelyet az egyesület saját tagjával, vezető tisztségviselőjével, a felügyelőbizottság tagjával vagy ezek hozzátartozójával köt;
-
-h) a jelenlegi és korábbi egyesületi tagok, a vezető tisztségviselők és a felügyelőbizottsági tagok vagy más egyesületi szervek tagjai elleni kártérítési igények érvényesítéséről való döntés;
-
-i) a felügyelőbizottság tagjainak megválasztása, visszahívásuk és díjazásuk megállapítása;
-
-j) a választott könyvvizsgáló megválasztása, visszahívása és díjazásának megállapítása; és
-
-k) a végelszámoló kijelölése.
+(5) A (3) és (4) bekezdésekben foglalt esetek körébe nem eső, nem szabályosan összehívott vagy megtartott közgyűlésen elfogadott és ebből az okból érvénytelen határozat az elfogadásának időpontjára visszamenő hatállyal érvényessé válik, ha a határozatot a közgyűlés napjától számított harminc napon belül valamennyi tag egyhangúlag érvényesnek ismeri el. Semmis az alapszabály olyan rendelkezése, amely az egyhangúságra vonatkozó feltételtől eltér.

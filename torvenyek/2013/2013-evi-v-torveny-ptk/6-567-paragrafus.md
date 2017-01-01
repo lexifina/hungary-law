@@ -1,7 +1,3 @@
-### 6:567. § [Az eltérő szabályozás lehetősége]
+### 6:567. § [Kifogáskorlátozás]
 
-Jogszabály az értékpapírokra nemzetközi egyezmény alapján az e részben foglalt rendelkezésektől eltérő szabályokat állapíthat meg.
-
-## XXX. CÍM
-
-AZ OKIRATI FORMÁBAN ELŐÁLLÍTOTT ÉRTÉKPAPÍROK
+Az értékpapír kötelezettje a jóhiszemű jogosulttal szemben az értékpapír vagy az értékpapírszámla tartalmából kitűnő kifogásokon kívül nem hivatkozhat olyan kifogásokra, amelyek valamely korábbi jogosulttal szembeni jogviszonyán alapulnak.

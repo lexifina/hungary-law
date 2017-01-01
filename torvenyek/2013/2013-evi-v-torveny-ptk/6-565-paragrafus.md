@@ -1,14 +1,10 @@
 ### 6:565. § [Az értékpapír fogalma]
 
-(1) Ha valaki írásban, nem elektronikus formában vagy elektronikus formában rögzített és értékpapírszámlán nyilvántartott (dematerializált) módon egyoldalúan kötelezettséget vállal arra, hogy ő maga vagy a nyilatkozatában megjelölt más személy a nyilatkozatban rögzített jog gyakorlását a nyilatkozatban meghatározott feltételek szerint az okirat vagy az értékpapírszámla által jogosultként igazolt személy részére biztosítja, vagy az okiratban, illetve az elektronikus úton rögzített nyilatkozat szerinti szolgáltatást az okirat vagy az értékpapírszámla által jogosultként igazolt személy részére teljesíti, az okirat, illetve a nyilatkozatot rögzítő elektronikus jelsorozat értékpapírnak minősül.
+(1) Az értékpapír olyan egyoldalú jognyilatkozat, amely papíralapú okiratként vagy jogszabályban megjelölt más módon létrehozott, rögzített, nyilvántartott és továbbított adatösszességként (dematerializált értékpapírként) a benne foglalt jogot úgy testesíti meg, hogy azt a jogot gyakorolni, arról rendelkezni csak az értékpapír által, annak birtokában lehet.
 
-(2) Aki a kötelezettségvállalását tartalmazó értékpapírt a kötelezettség vállalásának céljával más birtokába adja, vagy intézkedik annak érdekében, hogy a dematerializált értékpapír a jogosult értékpapírszámláján nyilvántartásba vételre kerüljön, az értékpapír tartalma szerint válik kötelezetté az értékpapír által jogosultként igazolt személlyel szemben.
+(2) Ha jogszabály meghatározza egyes értékpapírfajták kötelező tartalmi elemeit, kizárólag az ezeknek megfelelő okiratot vagy dematerializált értékpapírt lehet az adott értékpapírfajtába tartozó értékpapírnak tekinteni.
 
-(3) Az értékpapírban rögzített jog gyakorlása vagy követelés érvényesítése, továbbá a jog vagy követelés bizonyítása, illetve átruházása kizárólag az értékpapír által lehetséges.
-
-(4) Ha jogszabály meghatározza egyes értékpapírfajták kötelező tartalmi elemeit, kizárólag az ezeknek megfelelő okiratot vagy számítógépes jelet lehet az adott értékpapírfajtába tartozó értékpapírnak tekinteni.
-
-(5) Jogszabály által nem szabályozott értékpapírfajta estében az okirat vagy számítógépes jel akkor minősül értékpapírnak, ha a kibocsátója az értékpapírban legalább az alábbi tartalmi elemeket feltünteti:
+(3) Ha az adott értékpapírfajta kötelező tartalmi elemeit más jogszabály nem határozza meg, az csak akkor minősül értékpapírnak, ha azon a kibocsátója legalább az alábbiakat feltünteti:
 
 a) a kibocsátó nevét és címét;
 
@@ -22,4 +18,10 @@ e) a kibocsátás helyét és időpontját;
 
 f) okirati formában kibocsátott értékpapír esetén a kibocsátó aláírását.
 
-(6) Az értékpapír átruházható. A kibocsátó az értékpapír átruházását - a tilalomnak az értékpapírban való feltüntetésével - megtilthatja.
+(4) Okirati formában egyedileg vagy sorozatban kibocsátott értékpapírt lehet előállítani. Értékpapírnak minősülő okiratot bemutatóra vagy névre szólóan lehet kiállítani.
+
+(5) Dematerializált értékpapírként sorozatban kibocsátott, névre szóló értékpapírt lehet előállítani.
+
+(6) Az értékpapír átruházható. A kibocsátó az értékpapír átruházását – a tilalomnak az értékpapírban való feltüntetésével – megtilthatja.
+
+(7) Nem szünteti meg az értékpapír által megtestesített kötelmet az, ha az értékpapírt annak kibocsátója szerzi meg.

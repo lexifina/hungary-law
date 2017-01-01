@@ -10,3 +10,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-5-00-00
 | 2016-03-24 | 2016. évi IX. törvény | 2013-5-00-00.3 |
 | 2016-07-01 | 2016. évi LXXVII. törvény | 2013-5-00-00.4 |
 | 2016-10-01 | 2016. évi LXXVII. törvény | 2013-5-00-00.5 |
+| 2017-01-01 | 2016. évi CLXXIX. törvény | 2013-5-00-00.6 |
