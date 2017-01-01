@@ -20,6 +20,4 @@ b) az adott felhasználási helyre történő bejutási kísérlete sikertelen v
 
 (9) A polgári nemperes eljárásra egyebekben a polgári perrendtartásról szóló 1952. évi III. törvény – a nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadó.”
 
-(3) A GET. 99. §-a a következő (5a) bekezdéssel egészül ki:
-
-„(5a) A szállítási rendszerüzemeltető és a földgázelosztó, az egyetemes villamosenergia-szolgáltató, a távhőszolgáltató, valamint a víziközmű-szolgáltató együttműködik az azonos lakossági felhasználónál történő mérőeszköz-leolvasás egy időben történő elvégzése érdekében, azon esetekben, ahol a mérőeszköz leolvasásához a lakossági felhasználó személyes közreműködése szükséges.”
+(3)

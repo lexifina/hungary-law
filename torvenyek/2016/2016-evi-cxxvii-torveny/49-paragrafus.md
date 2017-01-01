@@ -1,8 +1,6 @@
 ## 29. A távhőszolgáltatásról szóló 2005. évi XVIII. törvény módosítása
 
-49. § (1) A távhőszolgáltatásról szóló 2005. évi XVIII. törvény (a továbbiakban: Távhőtv.) „Mérés, elszámolás, díjfizetés” alcíme a következő 48/A. §-sal egészül ki:
-
-„48/A. § A távhőszolgáltató, az egyetemes villamosenergia-szolgáltató, a földgázszállítási rendszerüzemeltető és a földgázelosztó, valamint a víziközmű-szolgáltató (a továbbiakban együtt: közműszolgáltató) együttműködik az azonos lakossági felhasználónál történő mérőeszköz-leolvasás egy időben történő elvégzése érdekében, azon esetekben, ahol a mérőeszköz leolvasásához a lakossági felhasználó személyes közreműködése szükséges.”
+49. § (1)
 
 (2) A Távhőtv. 51. § (9) bekezdése helyébe a következő rendelkezés lép, és a § a következő (10)–(14) bekezdésekkel egészül ki:
 
@@ -22,6 +20,4 @@ b) az adott felhasználási helyre történő bejutási kísérlete sikertelen v
 
 (14) A polgári nemperes eljárásra egyebekben a polgári perrendtartásról szóló 1952. évi III. törvény – a nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadó.”
 
-(3) A Távhőtv. 60. §-a a következő (4) bekezdéssel egészül ki:
-
-„(4) A Hivatal elnöke – felügyeleti jogkörében – rendeletben állapítja meg a közműszolgáltatóknak az azonos lakossági felhasználónál történő mérőeszköz-leolvasás egy időben történő elvégzése érdekében fennálló együttműködési kötelezettségével összefüggő rendszeres és rendkívüli adatszolgáltatás keretében szolgáltatandó adatok körét, a teljesítés módjára vonatkozó követelményeket, valamint az adatszolgáltatási kötelezettség határidejét.”
+(3)

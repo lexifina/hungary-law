@@ -20,6 +20,4 @@ b) az adott felhasználási helyre történő bejutási kísérlete sikertelen v
 
 (11) A polgári nemperes eljárásra egyebekben a polgári perrendtartásról szóló 1952. évi III. törvény – a nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadó.”
 
-(2) A Vksztv. a következő 55/G. §-sal egészül ki:
-
-„55/G. § A víziközmű-szolgáltató, az egyetemes villamosenergia-szolgáltató, a távhőszolgáltató, valamint a földgázszállítási rendszerüzemeltető és a földgázelosztó együttműködik az azonos lakossági felhasználónál történő mérőeszköz-leolvasás egy időben történő elvégzése érdekében, azon esetekben, ahol a mérőeszköz leolvasásához a lakossági felhasználó személyes közreműködése szükséges.”
+(2)

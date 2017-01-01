@@ -9,11 +9,3 @@
 (4) A 10. § b) és d) pontja, valamint a 23. § 2017. július 1-jén lép hatályba.
 
 (5) A 49. § (1) és (3) bekezdése, az 51. § (3) bekezdése, az 55. § (3) bekezdése, valamint a 68. § (2) bekezdése 2018. január 1-jén lép hatályba.
-
-Áder János s. k.,
-
-köztársasági elnök
-
-Kövér László s. k.,
-
-az Országgyűlés elnöke
