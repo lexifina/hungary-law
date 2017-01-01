@@ -32,10 +32,12 @@ fc) a nemzeti filmvagyonba tartozó,
 
 fd) a moziban megrendezésre kerülő, nemzetközi egyezmény vagy szakmai szervezet által szervezett filmnap, filmhét vagy filmfesztivál programjába tartozó,
 
-fe) a Magyar Nemzeti Digitális Archívum és Filmintézettől kölcsönzött, vagy
+fe)[^1] a Magyar Nemzeti Filmalap Közhasznú Nonprofit Zártkörűen Működő Részvénytársaságtól kölcsönzött, vagy
 
 ff) nemzetközileg elismert, a mozgóképszakmai hatóság által közzétett jegyzékben meghatározott nemzetközi filmfesztivál verseny- vagy versenyen kívüli valamely programjában szerepel.
 
 (2) Rövidfilmeket – ideértve a kisjáték-, dokumentum-, animációs, tudományos ismeretterjesztő és kísérleti filmet – tartalmazó összeállítás akkor tekinthető az (1) bekezdés e) pontja szerinti előadásnak, ha időtartama legalább 60 perc.
 
 (3) A mozgóképszakmai hatóság az (1) bekezdés e) és f) pontjában meghatározott feltételek alól indokolt esetben meghatározott időtartamra felmentést adhat. Felmentési oknak minősül különösen a bejelentett műszaki ok, az előre nem tervezhető felújítási munkálat, vagy ha a mozi vagy „art” terem egyéb kulturális programnak ad helyszínt.
+
+[^1]: Az 1. § (1) bekezdés f) pont fe) alpontja az 50/2016. (XII. 28.) EMMI rendelet 18. §-a szerint módosított szöveg.
