@@ -1,4 +1,4 @@
-## 9. §[^1]
+## 9. §[^4]
 
 1. melléklet a 181/2016. (VII. 1.) Korm. rendelethez
 
@@ -58,4 +58,4 @@
 
 27. az 1–26. pontban felsorolt ügyfajtákban kiadott hatósági döntések módosítására irányuló hatósági eljárások.
 
-[^1]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^4]: A 9. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
