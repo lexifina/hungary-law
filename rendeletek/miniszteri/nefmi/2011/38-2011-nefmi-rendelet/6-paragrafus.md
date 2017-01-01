@@ -1,7 +1,9 @@
 ## 3. A Névjegyzék vezetése, változások bejelentése
 
-6. § (1) A jelnyelvi tolmács a 4. § szerinti továbbképzés, valamint szakmai gyakorlat teljesítését a Névjegyzékbe történő felvétel időpontjától számítva háromévenként, igazolás benyújtásával köteles bejelenteni a Hivatalnak.
+6. §[^10] (1) A jelnyelvi tolmács köteles bejelenteni a Hivatalnak az e rendeletben előírt továbbképzés és szakmai gyakorlat teljesítését.
 
-(2) A továbbképzés teljesítését a továbbképzést végző szervezet által kiadott igazolással kell igazolni. Az igazolás tartalmazza a továbbképzést végző szervezet megnevezését, a továbbképzés helyét, időpontját, időtartamát, valamint a továbbképzésen részt vett jelnyelvi tolmács nevét, lakcímét. A szakmai gyakorlat igazolására a 2. § (2) és (4) bekezdését kell alkalmazni.
+(2) A továbbképzés teljesítésének bejelentéséhez mellékelni kell a továbbképzést szervező személy vagy szervezet által kiállított igazolást. A szakmai gyakorlat teljesítésének igazolása tekintetében a 2. § (2) és (4) bekezdését kell alkalmazni.
 
-(3) A bejelentés elmaradása esetén, vagy ha a benyújtott igazolások hiányosak, a Hivatal határidő tűzésével és a jogkövetkezmények megjelölésével felhívja a jelnyelvi tolmácsot a továbbképzés, illetve a szakmai gyakorlat teljesítésének igazolására. Az igazolásra a (2) bekezdésben foglaltakat kell alkalmazni.
+(3) Ha a bejelentést a jelnyelvi tolmács nem teljesíti, vagy az általa benyújtott igazolások hiányosak, a Hivatal határidő tűzésével és a jogkövetkezmények megjelölésével felhívja a jelnyelvi tolmácsot a továbbképzés, illetve a szakmai gyakorlat teljesítésének igazolására.
+
+[^10]: A 6. § a 43/2016. (XII. 27.) EMMI rendelet 23. §-ával megállapított szöveg.

@@ -1,13 +1,23 @@
-## 4. Az igazgatási szolgáltatási díj megfizetésének szabályai
+## 4. [^11] Továbbképzés és szakmai gyakorlat
 
-9. § (1) A jelnyelvi tolmácsnak a Névjegyzékbe történő felvételéért igazgatási szolgáltatási díjat (a továbbiakban: díj) kell fizetnie. A díj mértéke 8000 Ft.
+9. § (1) A jelnyelvi tolmács köteles továbbképzési időszakonként
 
-(2) A díjat a Hivatal 10032000-01493043 számú számlájára átutalással vagy fizetési számlára történő készpénzbefizetéssel kell megfizetni.
+a) legalább 60 órában a jelnyelvi tolmácsok szakmai konzultációja, tapasztalatcseréje, illetve képzése érdekében szervezett továbbképzésen részt venni, és
 
-(3) A díj megfizetését a fizetési számla megterhelését tartalmazó napi kivonattal, a fizetési számlára történő készpénzbefizetést igazoló szelvényrésszel, vagy ezek másolatával kell igazolni.
+b) legalább 300 tolmácsolt óra gyakorlatot végezni.
 
-(4) Túlfizetés esetén a díjtöbbletet harminc napon belül vissza kell téríteni.
+(2) Az első továbbképzési időszak a Névjegyzékbe történő felvétellel kezdődik. A további továbbképzési időszakok az előző továbbképzési időszak leteltét követő napon kezdődnek.
 
-(5) A díj nyilvántartására, kezelésére és elszámolására az államháztartás szervezetei beszámolási és könyvvezetési kötelezettségének sajátosságairól szóló rendelet rendelkezéseit kell alkalmazni.
+(3) Az egyes továbbképzési időszakok tartama három év akkor is, ha a jelnyelvi tolmács az előírt továbbképzést és szakmai gyakorlatot korábban teljesíti.
 
-(6) A díjfizetéssel kapcsolatos – e rendeletben nem szabályozott – kérdésekben az illetékekről szóló 1990. évi CXIII. törvény 28. § (2) bekezdésében és 31. § (1) bekezdés első mondatában foglaltakat kell alkalmazni.
+(4) A jelnyelvi tolmácsszolgálat fenntartója éves továbbképzési tervet készít, amely tartalmazza
+
+a) a továbbképzésen részt vevők helyettesítésére vonatkozó tervet,
+
+b) a továbbképzésre fordítható összeg megjelölését,
+
+c) a továbbképzési kötelezettségüket teljesítők számát és
+
+d) a tervezett továbbképzéseket, valamint azok óraszámát.
+
+[^11]: A 4. alcím (9–9/C. §) a 43/2016. (XII. 27.) EMMI rendelet 24. §-ával megállapított szöveg.
