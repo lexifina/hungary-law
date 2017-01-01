@@ -36,6 +36,8 @@ f) a kérelmező nyilatkozatát arra vonatkozóan, hogy képes teljesíteni a t�
 
 g) a részletes műszaki tervdokumentációt.
 
-(4) A részletes műszaki tervdokumentációt a kérelmező papír alapon, összefűzve és lezárt dobozban adja át a légiközlekedési hatóságnak, aki azt lezáró pecséttel látja el, és az eljárás befejezésével a kérelmező részére visszaadja. A kérelmező a műszaki tervdokumentációt köteles megőrizni.
+(4)[^5] A részletes műszaki tervdokumentációt a kérelmező elektronikus úton vagy papír alapon, összefűzve és lezárt dobozban adja át a légiközlekedési hatóságnak, aki azt lezáró pecséttel látja el, és az eljárás befejezésével a kérelmező részére visszaadja. A kérelmező a műszaki tervdokumentációt köteles megőrizni.
 
 (5) Amennyiben a kérelmező az Lt. 46. § (5) bekezdése alapján valamely állam illetékes hatósága által kiadott igazolás alapján kéri a könnyű légijármű típusalkalmassági tanúsítványának kiadását, a kérelemnek a (2) bekezdés a) pontjában meghatározott feltételt kell tartalmaznia, valamint a kérelemhez mellékelni kell a másik állam által kiadott igazolást.
+
+[^5]: A 3. § (4) bekezdése a 66/2016. (XII. 29.) NFM rendelet 15. §-a szerint módosított szöveg.
