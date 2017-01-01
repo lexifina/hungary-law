@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-91-20-2
 | 2015-04-01 | 2007-91-20-22.8 | 70/2015. (III. 30.) Korm. rendelet |
 | 2015-07-01 | 2007-91-20-22.9 | 300/2011. (XII. 22.) Korm. rendelet |
 | 2016-01-01 | 2007-91-20-22.10 | 70/2015. (III. 30.) Korm. rendelet |
+| 2017-01-01 | 2007-91-20-22.11 | 300/2011. (XII. 22.) Korm. rendelet |
