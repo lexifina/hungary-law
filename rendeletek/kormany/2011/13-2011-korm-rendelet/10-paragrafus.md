@@ -14,7 +14,7 @@ b) a számlákon és a szállítási okmányokon feltünteti a Globális Exporte
 
 c) a szerződéskötésnél vagy annak visszaigazolásánál bekéri a címzett, a végfelhasználó a 9. § (3) bekezdésében meghatározott tartalmú Végfelhasználói Nyilatkozatát.
 
-(5)[^18] A globális exportengedélyek alapján lebonyolított ügyletekről – ha a globális exportengedélyről szóló határozat másképpen nem rendelkezik – az exportőr minden év július 31. napjáig az adott naptári év első hat hónapjában, minden év január 31. napjáig az előző naptári év utolsó hat hónapjában folytatott tevékenységéről megküldi összesítését a Hivatalnak, mely összesítés tartalmazza:
+(5)[^25] A globális exportengedélyek alapján lebonyolított ügyletekről – ha a globális exportengedélyről szóló határozat másképpen nem rendelkezik – az exportőr minden év július 31. napjáig az adott naptári év első hat hónapjában, minden év január 31. napjáig az előző naptári év utolsó hat hónapjában folytatott tevékenységéről megküldi összesítését a Kormányhivatalnak, mely összesítés tartalmazza:
 
 a) az értékesített termék megnevezését, mennyiségét és értékét;
 
@@ -30,4 +30,4 @@ f) az értékesítés dátumát; és
 
 g) a kivitel ideiglenes vagy végleges jellegét.
 
-[^18]: A 10. § (5) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^25]: A 10. § (5) bekezdése a 209/2012. (VII. 27.) Korm. rendelet 4. §-ával megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés d) pontja szerint módosított szöveg.

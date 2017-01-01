@@ -80,10 +80,10 @@
 
 ## 7. A címzett, a végfelhasználó igazolása:
 
-## Igazoljuk, hogy minden feltüntetett adat a valóságnak megfelel, és nem ismerünk semmilyen, velük ellentétes más információt. Azonnal kiegészítő nyilatkozatot küldünk a Magyar Kereskedelmi Engedélyezési Hivatalnak, amennyiben bármilyen ténybeli vagy tervezett változás merül fel a nyilatkozatban rögzítettekhez képest annak elkészítése után. Vállaljuk, hogy a 4. pontban leírt termék (termékek) nem kerül (kerülnek) reexportra, újraértékesítésre vagy eladásra (1) egyetlen olyan országba sem, ahová az export nem engedélyezett, vagy (2) egyetlen olyan személynek sem, amennyiben joggal feltételezhető, hogy a terméket (termékeket) közvetve vagy közvetlenül a fenti nyilatkozattal vagy vonatkozó jogszabállyal ellentétesen birtokolnák.
+## Igazoljuk, hogy minden feltüntetett adat a valóságnak megfelel, és nem ismerünk semmilyen, velük ellentétes más információt. Azonnal kiegészítő nyilatkozatot küldünk a külkereskedelmi államigazgatási és hadiipari gyártás- és szolgáltatásfelügyeleti feladatkörében eljáró Budapest Főváros Kormányhivatalának, amennyiben bármilyen ténybeli vagy tervezett változás merül fel a nyilatkozatban rögzítettekhez képest annak elkészítése után. Vállaljuk, hogy a 4. pontban leírt termék (termékek) nem kerül (kerülnek) reexportra, újraértékesítésre vagy eladásra (1) egyetlen olyan országba sem, ahová az export nem engedélyezett, vagy (2) egyetlen olyan személynek sem, amennyiben joggal feltételezhető, hogy a terméket (termékeket) közvetve vagy közvetlenül a fenti nyilatkozattal vagy vonatkozó jogszabállyal ellentétesen birtokolnák.
 
 ## 8. A címzett, a végfelhasználó aláírása, dátum
 
-5. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^47]
+5. melléklet a 13/2011. (II. 22.) Korm. rendelethez[^77]
 
-[^47]: Az 5. mellékletet a 209/2012. (VII. 27.) Korm. rendelet 15. §-a hatályon kívül helyezte.
+[^77]: Az 5. mellékletet a 209/2012. (VII. 27.) Korm. rendelet 15. §-a hatályon kívül helyezte.

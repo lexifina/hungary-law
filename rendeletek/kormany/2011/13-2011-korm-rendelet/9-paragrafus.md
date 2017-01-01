@@ -16,4 +16,6 @@ c) a termék felhasználásának egyértelmű meghatározását és pontos rende
 
 d) a kifejezett kötelezettségvállalást arról, hogy az importált termék a fuvarozás során nem kerül reexportálásra, átadásra vagy út közbeni eltérítésre.
 
-(4) A Hivatal az exportőrtől kérhet Nemzetközi Importigazolást, vagy a címzett, végfelhasználó megfelelő külföldi szervezete, a magyar külképviselet által érvényesített Végfelhasználói Nyilatkozatot.
+(4)[^24] A Kormányhivatal az exportőrtől kérhet Nemzetközi Importigazolást, vagy a címzett, végfelhasználó megfelelő külföldi szervezete, a magyar külképviselet által érvényesített Végfelhasználói Nyilatkozatot.
+
+[^24]: A 9. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés c) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 9. [^23] Uniós Általános Exportengedély
+## 9. [^32] Uniós Általános Exportengedély
 
 13. § (1) Az Uniós Általános Exportengedély kiadására jogosult szervezet az Európai Unió.
 
@@ -6,7 +6,7 @@
 
 (3) Az Uniós Általános Exportengedély alapján lebonyolított kettős felhasználású termék kiviteléhez kapcsolódó fuvarokmányon vagy a szállítmányt végigkísérő kereskedelmi számlán a 3. melléklet szerinti nyilatkozatot kell feltüntetni.
 
-(4) Az Uniós Általános Exportengedély alapján lebonyolított ügyletekről az exportőr minden év július 31. napjáig az adott naptári év első hat hónapjában, minden év január 31. napjáig az előző naptári év utolsó hat hónapjában folytatott tevékenységéről megküldi összesítését a Hivatalnak, mely összesítés tartalmazza:
+(4)[^33] Az Uniós Általános Exportengedély alapján lebonyolított ügyletekről az exportőr minden év július 31. napjáig az adott naptári év első hat hónapjában, minden év január 31. napjáig az előző naptári év utolsó hat hónapjában folytatott tevékenységéről megküldi összesítését a Kormányhivatalnak, mely összesítés tartalmazza:
 
 a) a termék megnevezését, mennyiségét és értékét;
 
@@ -26,4 +26,5 @@ h) a kivitel végleges vagy ideiglenes jellegét; és
 
 i) ideiglenes kivitel esetében a visszaszállítás dátumát.
 
-[^23]: A 9. alcím (13. §) a 209/2012. (VII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^32]: A 9. alcím (13. §) a 209/2012. (VII. 27.) Korm. rendelet 6. §-ával megállapított szöveg.
+[^33]: A 13. § (4) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 170. § (2) bekezdés d) pontja szerint módosított szöveg.
