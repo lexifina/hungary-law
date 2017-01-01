@@ -6,6 +6,6 @@ b) meghatározhatók a közterület felhasználásának zajvédelmi szabályai, 
 
 (2) Olyan létesítmény, amely új környezeti zajforrás keletkezésével jár, csak akkor létesíthető, ha a létesítmény és a hatásterülete a fokozottan védett területen vagy csendes területen kívül esik.
 
-(3)[^25] Csendes övezet vagy zajvédelmi szempontból fokozottan védett terület kijelöléséről a jegyző értesíti a környezetvédelmi hatáskörében eljáró megyei kormányhivatalt.
+(3)[^25] Csendes övezet vagy zajvédelmi szempontból fokozottan védett terület kijelöléséről a jegyző értesíti a területi környezetvédelmi hatóságot.
 
-[^25]: A 16. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 108. § (2) bekezdés f) pontja, a 427/2015. (XII. 23.) Korm. rendelet 10. § b) pontja szerint módosított szöveg. Alkalmazására lásd ez utóbbi módosító rendelet 11. §-át.
+[^25]: A 16. § (3) bekezdése a 427/2015. (XII. 23.) Korm. rendelet 10. § b) pontja, a 379/2016. (XII. 2.) Korm. rendelet 106. § d) pontja szerint módosított szöveg.
