@@ -1,1 +1,0 @@
-## 8. § A Kormány az ENKK-t jelöli ki az Országos Képzési Jegyzékről és az Országos Képzési Jegyzék módosításának eljárásrendjéről szóló 150/2012. (VII. 6.) Korm. rendelet (a továbbiakban: Kr.) 9. § (8) bekezdése alapján, a Kr. 9. § (8) bekezdésében meghatározott szakképesítések tekintetében az iskolarendszeren kívüli szakképzés megindítására jogosult intézményként.

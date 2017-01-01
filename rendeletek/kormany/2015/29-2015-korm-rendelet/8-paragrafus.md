@@ -1,1 +1,0 @@
-## 7. § A Kormány az Eütv. 234. §-a és 234/A. §-a szerinti szakértői tevékenység tekintetében az ENKK-t jelöli ki a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény szerinti, a szolgáltatás felügyeletét ellátó hatóságként.

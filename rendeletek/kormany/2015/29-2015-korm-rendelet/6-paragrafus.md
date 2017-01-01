@@ -1,1 +1,0 @@
-## 5. § A Kormány egészségügyi államigazgatási szervként az ENKK-t jelöli ki az emberi alkalmazásra kerülő gyógyszerekről és egyéb, a gyógyszerpiacot szabályozó törvények módosításáról szóló 2005. évi XCV. törvény 15. §-a szerinti feladatok ellátására.
