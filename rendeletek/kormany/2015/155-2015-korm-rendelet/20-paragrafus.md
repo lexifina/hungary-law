@@ -1,3 +1,1 @@
 ## 19. § Ha a bíróság a jegyzőt jogosította fel a közgyűlés összehívására, a jegyző a döntés jogerőre emelkedésétől számított 15 napon belül a társasházban jól látható helyen kifüggesztett hirdetmény útján gondoskodik a közgyűlés összehívásáról, valamint a hirdetményként kifüggesztett meghívóban megjelöli a közgyűlés összehívásának okát, továbbá azokat a napirendi pontokat és közgyűlési határozati javaslatokat, amelyek megtárgyalása a törvényes működés biztosítása érdekében indokolt.
-
-20. § Ez a rendelet 2015. július 1-jén lép hatályba.
