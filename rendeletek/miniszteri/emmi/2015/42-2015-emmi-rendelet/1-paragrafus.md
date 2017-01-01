@@ -1,4 +1,4 @@
-1. § (1) Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 110. § (4a) bekezdése szerinti tevékenységre jogosító engedély iránti, az Egészségügyi Nyilvántartási és Képzési Központ (a továbbiakban: ENKK) részére benyújtott kérelemnek tartalmaznia kell
+1. § (1)[^2] Az egészségügyről szóló 1997. évi CLIV. törvény (a továbbiakban: Eütv.) 110. § (4a) bekezdése szerinti tevékenységre jogosító engedély iránti, az Állami Egészségügyi Ellátó Központ (a továbbiakban: ÁEEK) részére benyújtott kérelemnek tartalmaznia kell
 
 a) a kérelmező nevét, születési nevét, születési helyét, idejét és állampolgárságát,
 
@@ -37,3 +37,5 @@ g) az a) és b), valamint a d)–f) pontban megjelölt okiratok és igazolások 
 h) hitelt érdemlő igazolást arról, hogy a kérelmező megfelel a tevékenység végzéséhez előírt egészségügyi alkalmassági feltételeknek,
 
 i) az eljárás igazgatási szolgáltatási díjának megfizetéséről szóló igazolást.
+
+[^2]: Az 1. § (1) bekezdés nyitó szövegrésze az 54/2016. (XII. 30.) EMMI rendelet 99. § (1) bekezdés a) pontja szerint módosított szöveg.

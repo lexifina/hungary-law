@@ -1,1 +1,3 @@
-## 6. § Az e rendelet hatálybalépése előtt benyújtott, 1. § szerinti kérelmeket az ENKK e rendelet hatálybalépését követő három hónapon belül bírálja el.
+## 6. §[^9]
+
+[^9]: A 6. §-t az 54/2016. (XII. 30.) EMMI rendelet 99. § (2) bekezdése hatályon kívül helyezte.
