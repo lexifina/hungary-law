@@ -1,4 +1,4 @@
-## 2. §[^1] A munkagépek gáz-üzemanyag ellátó berendezéseivel kapcsolatos első fokú hatósági jogköröket a mérésügyi és műszaki biztonsági feladatkörében eljáró fővárosi és megyei kormányhivatal (a továbbiakban: területi hatóság) gyakorolja. A területi hatóság első fokú közigazgatási döntése ellen benyújtott fellebbezéseket másodfokon a Magyar Kereskedelmi Engedélyezési Hivatal bírálja el.
+## 2. §[^1] A munkagépek gáz-üzemanyag ellátó berendezéseivel kapcsolatos elsőfokú hatósági jogköröket a fővárosi és megyei kormányhivatal műszaki biztonsági feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: területi hatóság) gyakorolja. A területi hatóság elsőfokú közigazgatási döntése ellen benyújtott fellebbezéseket másodfokon a műszaki biztonsági feladatkörében eljáró Budapest Főváros Kormányhivatala bírálja el.
 
 3. § (1)[^2] Aki gázüzemű munkagép gáz-üzemanyag ellátó berendezésének beszerelésére, megbontásával járó javítására, karbantartására, a belső égésű motorral üzemelő munkagép gázüzeműre történő utólagos átalakítására (a továbbiakban együtt: szerelési tevékenység) irányuló tevékenységet kíván folytatni, köteles az erre irányuló szándékot a területi hatóságnak a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. A bejelentést a műhely üzemeltetőjének kell megtennie.
 
@@ -22,7 +22,7 @@ d) ha az ingatlan tulajdonosa és az üzemeltetője nem azonos, akkor a tulajdon
 
 (7)[^7] Ha a szerelést végző rendelkezik a gépjárműfenntartó tevékenység személyi és dologi feltételeiről szóló 1/1990. (IX. 29.) KHVM rendelet szerinti szakvéleménnyel, akkor a (6) bekezdés szerinti helyszíni ellenőrzést a területi hatóságnak nem kell elvégeznie.
 
-[^1]: A 2. § a 27/2010. (XII. 31.) NGM rendelet 60. § (1) bekezdésével megállapított, a 9/2015. (III. 31.) NGM rendelet 43. §-a szerint módosított szöveg.
+[^1]: A 2. § a 62/2016. (XII. 29.) NGM rendelet 19. §-ával megállapított szöveg.
 [^2]: A 3. § (1) bekezdése a 35/2015. (XII. 23.) NGM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^3]: A 3. § (3) bekezdése a 35/2015. (XII. 23.) NGM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^4]: A 3. § (4) bekezdése a 35/2015. (XII. 23.) NGM rendelet 3. § (2) bekezdésével megállapított szöveg.
