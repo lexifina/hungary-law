@@ -14,7 +14,7 @@ A) Igazságügyi Minisztérium hivatali szervezete
 
 1.3. a minisztérium szóvivője és annak munkáját közvetlenül segítő munkakör, a miniszter nyilvános szereplései előkészítéséhez kapcsolódó munkakör és az ilyen feladatoknak a Polgári Törvénykönyv szerinti szerződéses jogviszony alapján személyes közreműködőként történő ellátása
 
-1.4. az állami vezetők titkárságának valamennyi munkaköre és az állami vezető titkárságának a tevékenységéhez kapcsolódó, jogellenes befolyással vagy leplezett támadással fenyegetett feladatoknak a Polgári Törvénykönyv szerinti szerződéses jogviszony alapján személyes közreműködőként történő ellátása
+1.4.[^1] az állami vezetők titkárságának – a digitális szerkesztői munkakör kivételével – valamennyi munkaköre és az állami vezető titkárságának a tevékenységéhez kapcsolódó, jogellenes befolyással vagy leplezett támadással fenyegetett feladatoknak a Polgári Törvénykönyv szerinti szerződéses jogviszony alapján személyes közreműködőként történő ellátása
 
 1.5. a főosztályvezető, a főosztályvezető helyettesítésére kijelölt főosztályvezető-helyettes vagy osztályvezető
 
@@ -64,36 +64,17 @@ A) Igazságügyi Minisztérium hivatali szervezete
 
 B) Kormányhivatalok
 
-1. A Szellemi Tulajdon Nemzeti Hivatalánál
-
-1.1. a gazdasági vezető
-
-1.2. a szabadalmi ügyekért, a hatósági ügyvitelért felelős szervezeti egység vezetője, az iparjogvédelmi lajstromvezetésért felelős szervezeti egység vezetője
-
-1.3. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
-
-1.4. a nemzetbiztonsági ellenőrzéssel kapcsolatban kijelölt biztonsági megbízotti, ügyintézői, adminisztratív feladatokat ellátó munkakör
+1.[^2]
 
 C) Központi hivatalok
 
-1. Az Igazságügyi Hivatalnál
-
-1.1. a nemzetbiztonsági ellenőrzéssel kapcsolatban kijelölt biztonsági megbízotti, ügyintézői, adminisztratív feladatokat ellátó munkakör
-
-1.2. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
-
-1.3. a végrehajtók ellenőrzésére irányuló ellenőri és a panaszügyek felügyeletére irányuló munkakör
+1.[^3]
 
 D) Központi államigazgatási szervnek nem minősülő költségvetési szervek
 
-1. Az Igazságügyi Szakértői és Kutató Intézetnél
+1.[^4]
 
-1.1. a főigazgató és helyettesei
-
-1.2. a gazdasági vezető
-
-1.3. az igazgató
-
-1.4. a nemzetbiztonsági ellenőrzéssel kapcsolatban kijelölt biztonsági megbízotti, ügyintézői, adminisztratív feladatokat ellátó munkakör
-
-1.5. az elektronikus információs rendszer biztonságáért, üzemeltetéséért és fejlesztéséért felelős munkakör
+[^1]: Az 1. melléklet A) rész 1. pont 1.4. alpontja a 27/2016. (XII. 27.) IM rendelet 8. § (1) bekezdése szerint módosított szöveg.
+[^2]: Az 1. melléklet B) rész 1. pontját a 26/2016. (XII. 27.) IM rendelet 20. §-a hatályon kívül helyezte.
+[^3]: Az 1. melléklet C) rész 1. pontját a 26/2016. (XII. 27.) IM rendelet 20. §-a hatályon kívül helyezte.
+[^4]: Az 1. melléklet D) rész 1. pontját a 27/2016. (XII. 27.) IM rendelet 8. § (2) bekezdése hatályon kívül helyezte.
