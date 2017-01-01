@@ -30,10 +30,10 @@ d)[^30] a kifejtetlen ipari máktok teljes mennyiségét a termesztető részér
 
 e)[^31] a betakarítás után a kifejtetlen ipari máktok termesztető általi átvételét követően az általa az a) pontban meghatározott adattartalommal vezetett nyilvántartást a 7. § (2) bekezdése szerint aláíratni.
 
-(2)[^32] A termesztő köteles továbbá minden, az általános termesztési gyakorlattól eltérő különleges esetet, így különösen a zöld tok megkarcolását, a tokok károsítását, lopását a rendőrségnek, valamint a termesztővel szerződésben álló termesztetőnek haladéktalanul írásban bejelenteni. Az ügyészség a nyomozás eredményéről értesíti a kormányhivatalt, valamint az ENKK-t.
+(2)[^32] A termesztő köteles továbbá minden, az általános termesztési gyakorlattól eltérő különleges esetet, így különösen a zöld tok megkarcolását, a tokok károsítását, lopását a rendőrségnek, valamint a termesztővel szerződésben álló termesztetőnek haladéktalanul írásban bejelenteni. Az ügyészség a nyomozás eredményéről értesíti a megyeszékhely szerinti járási hivatalt, valamint az OGYÉI-t.
 
 [^28]: A 6. § (1) bekezdés a) pontja a 62/2010. (III. 18.) Korm. rendelet 4. § (1) bekezdésével megállapított, a 296/2012. (X. 17.) Korm. rendelet 6. § (1) bekezdés a) pontja szerint módosított szöveg.
 [^29]: A 6. § (1) bekezdés a) pont aj) alpontja a 19/2015. (II. 16.) Korm. rendelet 9. § 6. pontja szerint módosított szöveg.
 [^30]: A 6. § (1) bekezdés d) pontja a 62/2010. (III. 18.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 7. pontja szerint módosított szöveg.
 [^31]: A 6. § (1) bekezdés e) pontja a 62/2010. (III. 18.) Korm. rendelet 4. § (2) bekezdésével megállapított, a 19/2015. (II. 16.) Korm. rendelet 9. § 8. pontja szerint módosított szöveg.
-[^32]: A 6. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 61. § (1) bekezdésével megállapított szöveg.
+[^32]: A 6. § (2) bekezdése a 70/2015. (III. 30.) Korm. rendelet 61. § (1) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 58. § g)–h) pontja szerint módosított szöveg.
