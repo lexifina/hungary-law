@@ -1,0 +1,1 @@
+39. § Hatályát veszti a Cst. 2. § e) pontjában az „és a polgárok személyi adatainak és lakcímének nyilvántartásáról szóló törvény szerint bejelentett lakóhellyel vagy tartózkodási hellyel rendelkező” szövegrész.
