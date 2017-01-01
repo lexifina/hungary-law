@@ -1,6 +1,6 @@
 ## 1. § Az állami adóhatóság az illetékekkel kapcsolatos ügyiratok kezelése, valamint az illetékek kiszabása és könyvelése során az e rendeletben foglaltakat köteles figyelembe venni.
 
-2. §[^1] (1)[^2] Az 1. §-ban foglalt feladatok végrehajtása során, az e rendelet szerinti adatszolgáltatás teljesítése érdekében a nyilvántartást úgy kell kialakítani, hogy abból kitűnjön valamennyi illetékügyben az illeték fajtája, vagyonszerzési illeték esetében a megszerzett vagyontárgy(ak) jellege, valamint a központi költségvetést megillető illetékbevétel.
+2. §[^1] (1)[^2] Az 1. §-ban foglalt feladatok végrehajtása során a nyilvántartást úgy kell kialakítani, hogy abból kitűnjön valamennyi illetékügyben az illeték fajtája, vagyonszerzési illeték esetében a megszerzett vagyontárgy(ak) jellege, valamint a központi költségvetést megillető illetékbevétel.
 
 (2) E rendelet alkalmazásában
 
@@ -37,7 +37,7 @@ c) a fel nem használt illetékbélyeg megtérítésére irányuló kérelem ala
 (4) A központi költségvetést megillető illetékbevételt csökkenteni kell a tárgyhónapban a (3) bekezdés szerint követeléssel szemben elszámolt, az ügyfél folyószámláján más adónemre átvezetett, társhatóságnak utalt, visszatérített összeggel.
 
 [^1]: A 2. § a 31/2007. (XII. 21.) PM rendelet 1. §-ával megállapított szöveg. E módosító rendelet 3. § (5) bekezdése alapján a 2007. évre vonatkozó éves zárási összesítőt a 40/2006. (XII. 25.) PM rendelet 2007. december 31-én hatályos rendelkezései szerint kell elkészíteni.
-[^2]: A 2. § (1) bekezdése a 46/2012. (XII. 27.) NGM rendelet 22. § (1) bekezdés 1. pontja szerint módosított szöveg.
+[^2]: A 2. § (1) bekezdése a 46/2012. (XII. 27.) NGM rendelet 22. § (1) bekezdés 1. pontja, a 60/2016. (XII. 29.) NGM rendelet 5. § a) pontja szerint módosított szöveg.
 [^3]: A 2. § (2) bekezdés a) pontja a 31/2009. (XII. 18.) PM rendelet 11. § a) pontja szerint módosított szöveg.
 [^4]: A 2. § (2) bekezdés b) pontja a 31/2009. (XII. 18.) PM rendelet 11. § b) pontja szerint módosított szöveg.
 [^5]: A 2. § (2) bekezdés c) pontja a 46/2012. (XII. 27.) NGM rendelet 21. § 1. pontja szerint módosított szöveg.
