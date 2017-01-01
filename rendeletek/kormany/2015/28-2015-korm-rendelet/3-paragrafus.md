@@ -28,4 +28,11 @@ l) az élelmezés- és táplálkozás-egészségügy szakterületén szakmai-mó
 
 m) jogszabályban foglalt feladatkörében statisztikai adatokat gyűjt és elemez,
 
-n) ellátja a jogszabályban, az alapító okiratában vagy hatósági határozatban meghatározott egyéb feladatokat.
+n) ellátja a jogszabályban, az alapító okiratában vagy hatósági határozatban meghatározott egyéb feladatokat,
+
+o)[^1] ellátja az orvostechnikai eszközökkel kapcsolatos hatósági, piacfelügyeleti hatósági, az orvostechnikai eszközök klinikai vizsgálatának engedélyezésével kapcsolatos hatósági, valamint az orvostechnikai eszközök megfelelőség-értékelésére jogosult szervek kijelölésével kapcsolatos kijelölő hatósági feladatokat,
+
+p)[^2] lefolytatja a kábítószerekkel és pszichotróp anyagokkal, valamint az új pszichoaktív anyagokkal végezhető tevékenységekkel kapcsolatos engedélyezési eljárásokat és vezeti az ezzel összefüggő nyilvántartásokat.
+
+[^1]: A 3. § o) pontját a 379/2016. (XII. 2.) Korm. rendelet 290. § (1) bekezdése iktatta be.
+[^2]: A 3. § p) pontját a 379/2016. (XII. 2.) Korm. rendelet 290. § (1) bekezdése iktatta be.
