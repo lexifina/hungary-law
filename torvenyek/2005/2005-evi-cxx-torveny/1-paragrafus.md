@@ -4,6 +4,6 @@
 
 (2) Az ekho az e törvényben meghatározott megoszlásban a központi költségvetést és a társadalombiztosítás pénzügyi alapjait – magánnyugdíjpénztár-tag magánszemély esetében a magánszemély javára a magánnyugdíjpénztárát is – illeti meg.
 
-(3) A kifizető és a magánszemély az ekhóval összefüggő adókötelezettségeit e törvény, valamint az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései szerint teljesíti.
+(3) A kifizető és a magánszemély az ekhóval összefüggő adókötelezettségeit e törvény, a személyi jövedelemadóról szóló törvény (a továbbiakban: Szja tv.) és az adózás rendjéről szóló törvény (a továbbiakban: Art.) rendelkezései szerint teljesíti.
 
 (4) Az ekhóval összefüggő adóztatási feladatok az állami adóhatóság hatáskörébe tartoznak.

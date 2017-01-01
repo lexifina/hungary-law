@@ -10,7 +10,7 @@ ab) egyéni vállalkozóként vállalkozói kivét címén,
 
 ac) társas vállalkozás tagjaként személyes közreműködés ellenértéke címén,
 
-ad) vállalkozási, megbízási szerződés alapján a személyi jövedelemadóról szóló törvény (a továbbiakban: Szja tv.) szerint egyéni vállalkozónak nem minősülő magánszemélyként
+ad) vállalkozási, megbízási szerződés alapján az Szja tv. szerint egyéni vállalkozónak nem minősülő magánszemélyként
 
 olyan jövedelmet szerez, amely után a közteherviselési kötelezettségek (EGT-államban biztosított személy esetében a személyi jövedelemadó fizetési kötelezettség) teljesítése az általános szabályok szerint történik, vagy
 
