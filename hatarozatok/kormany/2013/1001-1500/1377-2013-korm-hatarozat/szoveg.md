@@ -24,13 +24,13 @@ i) nemzetközi kapcsolatokat épít más országok hasonló testületeivel.
 
 4. A Tanács 23 tagból áll, melyben
 
-a) a Vidékfejlesztési Minisztérium képviseletében 3 fő,
+a)[^2] a miniszter által vezetett minisztérium képviseletében 4 fő,
 
 b) a Nemzeti Élelmiszerlánc-biztonsági Hivatal képviseletében 1 fő,
 
 c) az Állatkísérleti Tudományos Etikai Tanács képviseletében 1 fő,
 
-d) az Országos Környezetvédelmi, Természetvédelmi és Vízügyi Főfelügyelőség képviseletében 1 fő,
+d)[^3]
 
 e) az Országos Rendőr-főkapitányság képviseletében 1 fő,
 
@@ -42,7 +42,7 @@ h) a Magyar Tudományos Akadémia képviseletében 1 fő,
 
 i) a Magyar Rektori Konferencia képviseletében 1 fő,
 
-j) a Szent István Egyetem Állatorvosi-tudományi Karának képviseletében 1 fő,
+j)[^4] az Állatorvostudományi Egyetem képviseletében 1 fő,
 
 k) a Magyar Állatorvosi Kamara képviseletében 1 fő,
 
@@ -66,9 +66,9 @@ vesz részt.
 
 5. A Tanács tagjait a delegáló szervezetek és intézmények javaslatai alapján a miniszter kéri fel.
 
-6.[^1] A Tanács tagjainak megbízatása 5 évre szól.
+6.[^5] A Tanács tagjainak megbízatása 5 évre szól.
 
-7.[^2] A Tanács tagjának tagsága megszűnik, amennyiben
+7.[^6] A Tanács tagjának tagsága megszűnik, amennyiben
 
 a) lemond,
 
@@ -84,25 +84,28 @@ d) elhalálozik.
 
 10. A Tanács tagjai sorából elnököt választ.
 
-11.[^3]
+11.[^7]
 
 12. A Tanács üléseit szükség szerint, de félévente legalább egy alkalommal az elnök hívja össze.
 
-13.[^4]
+13.[^8]
 
 14. A Tanács ülései nem nyilvánosak, azokon csak a tagok, illetve a meghívottak vehetnek részt.
 
-15–17.[^5]
+15–17.[^9]
 
-18.[^6] A Tanács működésével kapcsolatos titkársági feladatokat a miniszter által vezetett minisztérium állatvédelemért és állatjólétért első helyen felelős főosztálya látja el.
+18.[^10] A Tanács működésével kapcsolatos titkársági feladatokat a miniszter által vezetett minisztérium állatvédelemért és állatjólétért első helyen felelős főosztálya látja el.
 
 19. A Tanács elnöke és tagjai, valamint a meghívott személyek tiszteletdíjban, költségtérítésben nem részesülnek.
 
 20. Ez a határozat a közzétételét követő napon lép hatályba.
 
-[^1]: A 6. pont az 1466/2013. (VII. 24.) Korm. határozat 1. pontjával megállapított szöveg.
-[^2]: A 7. pont az 1466/2013. (VII. 24.) Korm. határozat 1. pontjával megállapított szöveg.
-[^3]: A 11. pontot az 1466/2013. (VII. 24.) Korm. határozat 3. pontja hatályon kívül helyezte.
-[^4]: A 13. pontot az 1466/2013. (VII. 24.) Korm. határozat 3. pontja hatályon kívül helyezte.
-[^5]: A 15–17. pontot az 1466/2013. (VII. 24.) Korm. határozat 3. pontja hatályon kívül helyezte.
-[^6]: A 18. pont az 1466/2013. (VII. 24.) Korm. határozat 2. pontjával megállapított szöveg.
+[^2]: A 4. pont a) alpontja az 1853/2016. (XII. 27.) Korm. határozat 28. pontjával megállapított szöveg.
+[^3]: A 4. pont d) alpontját az 1853/2016. (XII. 27.) Korm. határozat 30. pontja hatályon kívül helyezte.
+[^4]: A 4. pont j) alpontja az 1853/2016. (XII. 27.) Korm. határozat 29. pontja szerint módosított szöveg.
+[^5]: A 6. pont az 1466/2013. (VII. 24.) Korm. határozat 1. pontjával megállapított szöveg.
+[^6]: A 7. pont az 1466/2013. (VII. 24.) Korm. határozat 1. pontjával megállapított szöveg.
+[^7]: A 11. pontot az 1466/2013. (VII. 24.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^8]: A 13. pontot az 1466/2013. (VII. 24.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^9]: A 15–17. pontot az 1466/2013. (VII. 24.) Korm. határozat 3. pontja hatályon kívül helyezte.
+[^10]: A 18. pont az 1466/2013. (VII. 24.) Korm. határozat 2. pontjával megállapított szöveg.
