@@ -10,4 +10,4 @@
 
 (5) Az előmunkálati jog időbeli hatálya egyszer, további egy évvel meghosszabbítható.
 
-(6) Az előmunkálati jogot a műszaki biztonsági szerv engedélyezi. Az eljárásban az ügyfél nem jogosult és a hatóság nem köteles elektronikus úton kapcsolatot tartani. Az eljárás részletes szabályait a Kormány rendeletben határozza meg.
+(6) Az előmunkálati jogot a műszaki biztonsági szerv engedélyezi. Az eljárás részletes szabályait a Kormány rendeletben határozza meg.

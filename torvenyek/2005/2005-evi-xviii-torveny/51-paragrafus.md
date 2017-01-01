@@ -24,7 +24,7 @@ c) a közszolgáltatási szerződést felmondhatja, ha a felhasználó vagy a d�
 
 (7) A távhőszolgáltatás felfüggesztésével, valamint a felfüggesztés megszüntetésével felmerült költségeket a távhőszolgáltató jogosult a szerződésszegés elkövetőjére áthárítani. A közszolgáltatási szerződés nélküli távhőfogyasztás esetén – az ebből származó jogkövetkezményekért – az érintett ingatlan ingatlan-nyilvántartás szerinti tulajdonosa felel.
 
-(8) A járási hivatal elrendelheti a távhőszolgáltató bejutását a felhasználási helyre, ha a felhasználó, illetve díjfizető nem teszi lehetővé:
+(8) A járásbíróság nemperes eljárásban elrendelheti a távhőszolgáltató bejutását a felhasználási helyre, ha a felhasználó, illetve díjfizető nem teszi lehetővé:
 
 a) a távhőelszámolási vagy költségmegosztó mérőeszköz leolvasását, ellenőrzését,
 
@@ -32,4 +32,18 @@ b) szerződésszegés vagy szabálytalan vételezés esetén a távhőszolgálta
 
 c) a felhasználói berendezés ellenőrzését.
 
-(9) A járási hivatal a (8) bekezdés szerinti határozatát az energiaellátás folyamatos biztosítása érdekében fellebbezésre tekintet nélkül végrehajthatóvá nyilváníthatja.
+(9) A távhőszolgáltató akkor kezdeményezheti a felhasználási helyre való bejutás biztosítása iránti kérelem elbírálását, ha
+
+a) a felhasználót a felhasználási helyre történő bejutás lehetőségének biztosítására legalább két alkalommal írásban felhívta, és
+
+b) az adott felhasználási helyre történő bejutási kísérlete sikertelen volt.
+
+(10) A nemperes eljárásban bírósági titkár első fokon önállóan eljárhat.
+
+(11) A nemperes eljárásban a bíróság elsődlegesen a rendelkezésre álló iratok és adatok alapján dönt.
+
+(12) A bíróság – ha a döntéséhez szükséges – a feleket meghallgathatja és a felek indítványára további bizonyítást rendelhet el.
+
+(13) A polgári nemperes eljárásban nincs helye perújításnak és felülvizsgálatnak.
+
+(14) A polgári nemperes eljárásra egyebekben a polgári perrendtartásról szóló 1952. évi III. törvény – a nemperes eljárás sajátosságaiból eredő eltérésekkel – megfelelően irányadó.

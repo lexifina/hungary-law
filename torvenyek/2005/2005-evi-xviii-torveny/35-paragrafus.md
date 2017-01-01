@@ -4,4 +4,10 @@
 
 ## A távhőtermelő és a távhőszolgáltató közötti jogviszony
 
-35. § A távhőtermelőt és a távhőszolgáltatót egymással a polgári jog szabályai szerinti, éves és hosszú távú szerződéskötési kötelezettség terheli a távhőellátás biztonságát garantáló kapacitás mértékéig.
+35. § A távhőtermelőt és a távhőszolgáltatót egymással a polgári jog szabályai szerinti
+
+a) éves és
+
+b) az éves szerződés lejártát követő legalább további két évre szóló
+
+szerződéskötési kötelezettség terheli a távhőellátás biztonságát garantáló kapacitás mértékéig.
