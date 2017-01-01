@@ -1,6 +1,6 @@
 ## 58. § Az a harmadik országbeli állampolgár, aki tartózkodási vízumát vagy tartózkodási engedélyét családi együttélés biztosítása céljából kapta, köteles házassága felbontását, illetve házastársa halálát, a házasság felbontására vonatkozó jogerős ítélet kézhezvételétől, illetve a halotti anyakönyvi kivonat kiállításától számított harminc napon belül a szálláshelye szerint illetékes regionális igazgatóságnál az okiratok egyidejű csatolásával bejelenteni.
 
-59. §[^157] (1) Ha a beutazás és tartózkodás célja jövedelemszerzés, a Tv. 13. § (1) bekezdés d) pontjában foglalt feltétel fennállása különösen az alábbiakkal igazolható:
+59. §[^159] (1) Ha a beutazás és tartózkodás célja jövedelemszerzés, a Tv. 13. § (1) bekezdés d) pontjában foglalt feltétel fennállása különösen az alábbiakkal igazolható:
 
 a) egyéni vállalkozói igazolvánnyal, ennek hiányában az egyéni vállalkozói nyilvántartási számmal;
 
@@ -24,4 +24,4 @@ b) a kérelmező harmadik országbeli állampolgár tartózkodása Magyarország
 
 (5) A Tv. 20. § (2) bekezdés b) pontjában meghatározott esetben a (4) bekezdésben foglalt okirat mellett a regionális igazgatóság a (2) és (3) bekezdésben meghatározott feltételek igazolását is kérheti.
 
-[^157]: Az 59. § a 113/2016. (V. 30.) Korm. rendelet 30. §-ával megállapított szöveg.
+[^159]: Az 59. § a 113/2016. (V. 30.) Korm. rendelet 30. §-ával megállapított szöveg.

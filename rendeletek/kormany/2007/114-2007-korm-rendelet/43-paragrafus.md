@@ -1,10 +1,10 @@
-## 42. §[^116] A kilencven napot meghaladó tartózkodásra jogosító vízum visszavonásáról a harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóság dönt.
+## 42. §[^117] A kilencven napot meghaladó tartózkodásra jogosító vízum visszavonásáról a harmadik országbeli állampolgár szálláshelye szerint illetékes regionális igazgatóság dönt.
 
-## 43. §[^117] A kilencven napot meghaladó tartózkodásra jogosító vízumokmány érvénytelen, ha
+## 43. §[^118] A kilencven napot meghaladó tartózkodásra jogosító vízumokmány érvénytelen, ha
 
-a)[^118] a vízum – érvényességi idejére, az engedélyezett tartózkodási napok és beutazások számára tekintettel – a Magyarországra történő beutazásra, illetve a Magyarország területén történő tartózkodásra nem használható fel;
+a)[^119] a vízum – érvényességi idejére, az engedélyezett tartózkodási napok és beutazások számára tekintettel – a Magyarországra történő beutazásra, illetve a Magyarország területén történő tartózkodásra nem használható fel;
 
-b)[^119] a kilencven napot meghaladó tartózkodásra jogosító vízumot jogerősen visszavonták;
+b)[^120] a kilencven napot meghaladó tartózkodásra jogosító vízumot jogerősen visszavonták;
 
 c) helyette a harmadik országbeli állampolgár – a vízumokmány cseréjére vagy pótlására irányuló eljárásban – új vízumokmányt kapott;
 
@@ -16,10 +16,10 @@ f) a jogosultja tartózkodási engedély okmányt, letelepedett státuszt igazol
 
 g) jogosultja meghalt.
 
-h)[^120] jogosultja magyar állampolgárságot szerzett.
+h)[^121] jogosultja magyar állampolgárságot szerzett.
 
-[^116]: A 42. § a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
-[^117]: A 43. § nyitó szövegrésze a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
-[^118]: A 43. § a) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) és (4) bekezdése szerint módosított szöveg.
-[^119]: A 43. § b) pontja a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
-[^120]: A 43. § h) pontját a 290/2010. (XII. 21.) Korm. rendelet 36. §-a iktatta be.
+[^117]: A 42. § a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
+[^118]: A 43. § nyitó szövegrésze a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
+[^119]: A 43. § a) pontja a 276/2011. (XII. 20.) Korm. rendelet 11. § (1) és (4) bekezdése szerint módosított szöveg.
+[^120]: A 43. § b) pontja a 447/2013. (XI. 28.) Korm. rendelet 5. § (9) bekezdése szerint módosított szöveg.
+[^121]: A 43. § h) pontját a 290/2010. (XII. 21.) Korm. rendelet 36. §-a iktatta be.

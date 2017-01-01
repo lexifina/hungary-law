@@ -1,4 +1,4 @@
-## 52. §[^145] A tartózkodási engedély iránti kérelemnek helyt adó határozat esetén a harmadik országbeli állampolgár részére a tartózkodási engedélyt – a 72/I. §-ban foglalt kivétellel – a II. melléklet 2. pontja szerinti formában és adattartalommal kell kiállítani.
+## 52. §[^146] A tartózkodási engedély iránti kérelemnek helyt adó határozat esetén a harmadik országbeli állampolgár részére a tartózkodási engedélyt – a 72/I. §-ban foglalt kivétellel – a II. melléklet 2. pontja szerinti formában és adattartalommal kell kiállítani.
 
 ## 53. § A tartózkodási engedély okmány érvénytelen, ha
 
@@ -16,7 +16,7 @@ f) a jogosultja letelepedett státuszt igazoló okmányt, vagy a szabad mozgás 
 
 g) jogosultja meghalt;
 
-h)[^146] jogosultja magyar állampolgárságot szerzett.
+h)[^147] jogosultja magyar állampolgárságot szerzett.
 
-[^145]: Az 52. § a 446/2013. (XI. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
-[^146]: Az 53. § h) pontját a 290/2010. (XII. 21.) Korm. rendelet 40. §-a iktatta be.
+[^146]: Az 52. § a 446/2013. (XI. 28.) Korm. rendelet 4. §-ával megállapított szöveg.
+[^147]: Az 53. § h) pontját a 290/2010. (XII. 21.) Korm. rendelet 40. §-a iktatta be.

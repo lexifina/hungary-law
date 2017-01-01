@@ -1,6 +1,6 @@
-## Az Európai Unió tagállamai területének önkéntes elhagyása[^311]
+## Az Európai Unió tagállamai területének önkéntes elhagyása[^314]
 
-113. §[^312] (1) A harmadik országbeli állampolgár tartózkodása jogszerűségét az önkéntes távozásra nyitva álló határidő leteltéig
+113. §[^315] (1) A harmadik országbeli állampolgár tartózkodása jogszerűségét az önkéntes távozásra nyitva álló határidő leteltéig
 
 a) a tartózkodási engedély iránti kérelmet elutasító határozattal,
 
@@ -14,16 +14,16 @@ e) a teljesítési határidő meghosszabbításáról hozott végzéssel
 
 ## igazolja.
 
-(2)[^313] Az idegenrendészeti vagy menekültügyi hatóság a Tv. 42. § (8) bekezdésének alkalmazása során az önkéntes távozás határidejének megállapítása során vizsgálni köteles, hogy a különleges bánásmódot igénylő személyre vonatkozó szabályok alkalmazásának van-e helye.
+(2)[^316] Az idegenrendészeti vagy menekültügyi hatóság a Tv. 42. § (8) bekezdésének alkalmazása során az önkéntes távozás határidejének megállapítása során vizsgálni köteles, hogy a különleges bánásmódot igénylő személyre vonatkozó szabályok alkalmazásának van-e helye.
 
-(3)[^314] Kétség esetén az idegenrendészeti vagy menekültügyi hatóság orvos- vagy pszichológus szakértő segítségét veheti igénybe annak megállapítása érdekében, hogy a kiutasított különleges bánásmódot igényel-e. Szakértői vizsgálat csak az érintett személy hozzájárulásával végezhető.
+(3)[^317] Kétség esetén az idegenrendészeti vagy menekültügyi hatóság orvos- vagy pszichológus szakértő segítségét veheti igénybe annak megállapítása érdekében, hogy a kiutasított különleges bánásmódot igényel-e. Szakértői vizsgálat csak az érintett személy hozzájárulásával végezhető.
 
-(4)[^315] Az idegenrendészeti vagy menekültügyi hatóság köteles a kiutasítottat – az anyanyelvén vagy az általa értett más nyelven – közérthető módon tájékoztatni a szakértő által elvégzendő vizsgálatról, a szakértői vizsgálat eredményének jelentőségéről, továbbá a vizsgálat elvégzéséhez való hozzájárulás megtagadásának – az (5) bekezdésben meghatározott – következményeiről.
+(4)[^318] Az idegenrendészeti vagy menekültügyi hatóság köteles a kiutasítottat – az anyanyelvén vagy az általa értett más nyelven – közérthető módon tájékoztatni a szakértő által elvégzendő vizsgálatról, a szakértői vizsgálat eredményének jelentőségéről, továbbá a vizsgálat elvégzéséhez való hozzájárulás megtagadásának – az (5) bekezdésben meghatározott – következményeiről.
 
 (5) Ha a kiutasított a vizsgálathoz nem járul hozzá, rá nézve a különleges bánásmódot igénylő személyre vonatkozó rendelkezések nem alkalmazhatók.
 
-[^311]: A 113. §-t megelőző alcím a 290/2010. (XII. 21.) Korm. rendelet 59. § (1) bekezdésével megállapított szöveg.
-[^312]: A 113. § a 409/2012. (XII. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
-[^313]: A 113. § (2) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 13. §-a szerint módosított szöveg.
-[^314]: A 113. § (3) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 13. §-a szerint módosított szöveg.
-[^315]: A 113. § (4) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^314]: A 113. §-t megelőző alcím a 290/2010. (XII. 21.) Korm. rendelet 59. § (1) bekezdésével megállapított szöveg.
+[^315]: A 113. § a 409/2012. (XII. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
+[^316]: A 113. § (2) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^317]: A 113. § (3) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 13. §-a szerint módosított szöveg.
+[^318]: A 113. § (4) bekezdése a 204/2015. (VII. 23.) Korm. rendelet 13. §-a szerint módosított szöveg.

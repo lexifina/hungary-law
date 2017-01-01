@@ -1,4 +1,4 @@
-50. §[^142] (1) A regionális igazgatóság a tartózkodási engedély iránti kérelemről a közbiztonság és a nemzetbiztonság védelme érdekében meghatározott esetekben az Alkotmányvédelmi Hivatal, a Terrorelhárítási Központ és a Rendőrség véleményét kéri.
+50. §[^143] (1) A regionális igazgatóság a tartózkodási engedély iránti kérelemről a közbiztonság és a nemzetbiztonság védelme érdekében meghatározott esetekben az Alkotmányvédelmi Hivatal, a Terrorelhárítási Központ és a Rendőrség véleményét kéri.
 
 (2) Az Alkotmányvédelmi Hivatal, a Terrorelhárítási Központ és a Rendőrség köteles a megkeresésnek
 
@@ -8,4 +8,4 @@ b) a 49. § (3) bekezdésében foglalt esetben nyolc,
 
 c) egyéb esetben tizenöt
 
-[^142]: Az 50. § a 113/2016. (V. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
+[^143]: Az 50. § a 113/2016. (V. 30.) Korm. rendelet 28. §-ával megállapított szöveg.
