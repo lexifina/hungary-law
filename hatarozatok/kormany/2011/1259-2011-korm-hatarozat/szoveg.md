@@ -18,11 +18,11 @@ e) figyelemmel kíséri a Kormány fogyasztóvédelmi politikájának és cselek
 
 5. A Tanács további tagjai:
 
-a) a Gazdasági Versenyhivatal, a Nemzeti Fogyasztóvédelmi Hatóság és a Pénzügyi Szervezetek Állami Felügyeletének egy-egy képviselője, valamint
+a)[^1] a Gazdasági Versenyhivatal, a Magyar Nemzeti Bank egy-egy képviselője, valamint
 
 b) az elnök felkérése alapján:
 
-ba) a Magyar Agrárkamara képviselője,
+ba)[^2] a Nemzeti Agrárgazdasági Kamara képviselője,
 
 bb) a Magyar Kereskedelmi és Iparkamara képviselője,
 
@@ -54,10 +54,14 @@ c) a megbízatás visszavonásával.
 
 12. A Tanács tagjait és az ülésen részt vevőket díjazás, költségtérítés nem illeti meg.
 
-13. A Tanács szükség szerint, de legalább évente két alkalommal ülésezik.
+13.[^3] A Tanács szükség szerint, de legalább évente egy alkalommal ülésezik.
 
 14. A Tanács működésének részletes szabályait, valamint az elnök, a titkár és a tagok helyettesítésének rendjét az ügyrend tartalmazza. A Tanács ügyrendjét a tagok véleményének kikérését követően a fogyasztóvédelemért felelős miniszter állapítja meg.
 
 15. A Tanács tagjainak névsorát, ügyrendjét, valamint az ülésekről készült emlékeztetőt a fogyasztóvédelemért felelős miniszter által vezetett minisztérium honlapján közzé kell tenni.
 
 16. Ez a határozat a közzétételét követő 3. napon lép hatályba, hatálybalépésével egyidejűleg a Fogyasztóvédelmi Tanács létrehozásáról szóló 1023/2008. (IV. 17.) Korm. határozat hatályát veszti, és egyidejűleg a tagok megbízatása megszűnik. Az új tagok felkéréséről az elnök a határozat hatálybalépését követő 30 napon belül gondoskodik.
+
+[^1]: Az 5. pont a) pontja az 1853/2016. (XII. 27.) Korm. határozat 8. pont a) alpontja szerint módosított szöveg.
+[^2]: Az 5. pont b) pont ba) alpontja az 1853/2016. (XII. 27.) Korm. határozat 8. pont b) alpontja szerint módosított szöveg.
+[^3]: A 13. pont az 1853/2016. (XII. 27.) Korm. határozat 8. pont c) alpontja szerint módosított szöveg.
