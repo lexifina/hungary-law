@@ -18,7 +18,7 @@ d)[^52] abban az esetben, ha Magyarországgal GMP elfogadásáról kölcsönös 
 
 (5)[^55] Az OGYÉI értékelő jelentést készít az 5. § (2) bekezdése szerint kérelmezett gyógyszer gyógyszerészeti, preklinikai, valamint klinikai vizsgálatainak eredményei, kockázatkezelési rendszere és farmakovigilancia-rendszere tekintetében összeállított dokumentációról, és megjegyzésekkel látja el azt. Az értékelő jelentést – valahányszor új, a készítmény minőségét, biztonságosságát vagy hatásosságát érintő adat jut tudomására – megfelelően módosítja.
 
-(6)[^56] Ha az OGYÉI az értékelés során megállapítja, hogy a gyógyszer megfelel a Gytv. 5. § (2) bekezdésében és az e rendeletben meghatározott feltételeknek, a gyógyszer forgalomba hozatalát engedélyezi. Az engedélyezési eljárás során hozott határozatot az OGYÉI elektronikus úton is közli az Országos Egészségbiztosítási Pénztárral (a továbbiakban: OEP), valamint – immunológiai gyógyszer esetén – az OEK-kal.
+(6)[^56] Ha az OGYÉI az értékelés során megállapítja, hogy a gyógyszer megfelel a Gytv. 5. § (2) bekezdésében és az e rendeletben meghatározott feltételeknek, a gyógyszer forgalomba hozatalát engedélyezi. Az engedélyezési eljárás során hozott határozatot az OGYÉI elektronikus úton is közli a Nemzeti Egészségbiztosítási Alapkezelővel (a továbbiakban: NEAK), valamint – immunológiai gyógyszer esetén – az OEK-kal.
 
 (7) Az immunológiai gyógyszer forgalomba hozatali engedélyében – a Gytv. 5. § (5) bekezdésben meghatározottakon túl – rendelkezni kell arról is, hogy a készítmény egyes gyártási tételei csak akkor kerülhetnek forgalomba, ha azokat az OEK megvizsgálta és felhasználásra alkalmasnak találta, kivéve, ha más tagállam megvizsgálta és felhasználásra alkalmasnak találta.
 
@@ -31,5 +31,5 @@ d)[^52] abban az esetben, ha Magyarországgal GMP elfogadásáról kölcsönös 
 [^53]: A 15. § (3) bekezdése a 20/2010. (IV. 29.) EüM rendelet 3. § d) pontja, a 23/2015. (IV. 28.) EMMI rendelet 76. § g) pontja szerint módosított szöveg.
 [^54]: A 15. § (4) bekezdését a 20/2010. (IV. 29.) EüM rendelet 4. § c) pontja hatályon kívül helyezte.
 [^55]: A 15. § (5) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 35. § (1) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 76. § b) pontja szerint módosított szöveg.
-[^56]: A 15. § (6) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (9) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 76. § g) pontja, a 7/2016. (III. 30.) EMMI rendelet 10. § a) pontja szerint módosított szöveg.
+[^56]: A 15. § (6) bekezdése a 20/2010. (IV. 29.) EüM rendelet 1. § (9) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 76. § g) pontja, az 54/2016. (XII. 30.) EMMI rendelet 48. § b) pontja szerint módosított szöveg.
 [^57]: A 15. § (8) bekezdése a 15/2012. (VIII. 22.) EMMI rendelet 35. § (2) bekezdésével megállapított, a 23/2015. (IV. 28.) EMMI rendelet 76. § d) pontja szerint módosított szöveg.
