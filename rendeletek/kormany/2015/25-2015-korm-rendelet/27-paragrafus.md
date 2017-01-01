@@ -18,8 +18,10 @@ d) más elháríthatatlan ok
 
 ## az ellenőrzés folytatását akadályozza.
 
-(3) Az ellenőrzési vezető az ellenőrzés megszakítása vagy felfüggesztése esetén ennek tényéről tértivevény többletszolgáltatással feladott postai küldeményként írásban vagy az elektronikus kézbesítési rendszer útján tájékoztatja az ellenőrzött végrehajtót, és az ellenőrzés felfüggesztése esetén határidő megállapításával felhívja az akadály megszüntetésére. Az ellenőrzés megszakításáról vagy felfüggesztéséről az ellenőrzési vezető egyidejűleg írásban tájékoztatja a főigazgatót.
+(3)[^34] Az ellenőrzési vezető az ellenőrzés megszakítása vagy felfüggesztése esetén ennek tényéről tértivevény többletszolgáltatással feladott postai küldeményként írásban vagy az elektronikus kézbesítési rendszer útján tájékoztatja az ellenőrzött végrehajtót, és az ellenőrzés felfüggesztése esetén határidő megállapításával felhívja az akadály megszüntetésére. Az ellenőrzés megszakításáról vagy felfüggesztéséről az ellenőrzési vezető egyidejűleg írásban tájékoztatja a hivatalvezetőt.
 
 (4) A megszakított, illetve felfüggesztett ellenőrzést az elrendelése okául szolgáló akadály elhárulásától számított 15 napon belül folytatni kell. Ennek időpontjáról az ellenőrzési vezető dönt, és az ellenőrzés folytatásáról tértivevény többletszolgáltatással feladott postai küldeményként írásban vagy az elektronikus kézbesítési rendszer útján értesíti az ellenőrzött végrehajtót.
 
 (5) Az ellenőrzés megszakításának vagy felfüggesztésének időtartama nem számít bele az ellenőrzési határidőbe.
+
+[^34]: A 27. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 288. § (23) bekezdésével megállapított szöveg.

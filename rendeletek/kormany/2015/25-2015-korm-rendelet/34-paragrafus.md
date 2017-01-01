@@ -1,8 +1,8 @@
 ## 21. Az éves ellenőrzési jelentés
 
-34. § (1) Az éves ellenőrzési jelentés elkészítéséért az ellenőrzési vezető felelős, amelyet jóváhagyásra megküld a főigazgatónak.
+34. § (1)[^41] Az éves ellenőrzési jelentés elkészítéséért az ellenőrzési vezető felelős, amelyet jóváhagyásra megküld a hivatalvezetőnek.
 
-(2)[^23] A főigazgató az éves ellenőrzési jelentést a tárgyévet követő év március 1-ig megküldi a miniszternek és a Kar hivatali szerve vezetőjének.
+(2)[^42] A hivatalvezető az éves ellenőrzési jelentést a tárgyévet követő év március 15. napjáig megküldi a miniszternek.
 
 (3) Az éves ellenőrzési jelentés tartalmazza:
 
@@ -16,4 +16,5 @@ d) tájékoztatást az ellenőrzés során feltárt büntető-, szabálysértés
 
 e) az ellenőrzések személyi és tárgyi feltételeit, az ellenőrzési tevékenységet elősegítő és akadályozó tényezőket.
 
-[^23]: A 34. § (2) bekezdése a 242/2015. (IX. 8.) Korm. rendelet 3. § (3) bekezdés e) pontja szerint módosított szöveg.
+[^41]: A 34. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 288. § (27) bekezdésével megállapított szöveg.
+[^42]: A 34. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 288. § (27) bekezdésével megállapított szöveg.

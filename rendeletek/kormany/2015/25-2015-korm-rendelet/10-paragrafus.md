@@ -6,7 +6,7 @@ a) az ellenőrzési kézikönyv elkészítése,
 
 b) az ellenőrzési kézikönyv rendszeres, de legalább kétévente történő felülvizsgálata, és a módosítások átvezetése,
 
-c) a kockázatelemzéssel alátámasztott stratégiai és éves ellenőrzési tervek összeállítása, a főigazgató jóváhagyása után a tervek végrehajtása, valamint azok megvalósításának nyomon követése,
+c)[^16] a kockázatelemzéssel alátámasztott stratégiai és éves ellenőrzési tervek összeállítása, a hivatalvezető jóváhagyása után a tervek végrehajtása, valamint azok megvalósításának nyomon követése,
 
 d) az ellenőrzési tevékenység megszervezése, az ellenőrzések végrehajtásának irányítása,
 
@@ -28,6 +28,9 @@ a) gondoskodni az ellenőrzési dokumentumok megőrzéséről, illetve a dokumen
 
 b) biztosítani az ellenőrök szakmai továbbképzését, ennek érdekében éves képzési tervet készíteni és gondoskodni annak megvalósításáról,
 
-c) tájékoztatni a főigazgatót az éves ellenőrzési terv megvalósításáról és az attól való eltérésekről,
+c)[^17] tájékoztatni a hivatalvezetőt az éves ellenőrzési terv megvalósításáról és az attól való eltérésekről,
 
 d) betartani az ellenőrzési tevékenység során kezelt adatokat illetően a titokvédelmi előírásokat, valamint gondoskodni arról, hogy az ellenőrzést végzők tevékenységüket ezek figyelembevételével végezzék.
+
+[^16]: A 10. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 288. § (10) bekezdésével megállapított szöveg.
+[^17]: A 10. § (2) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 288. § (11) bekezdésével megállapított szöveg.
