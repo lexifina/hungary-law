@@ -4,4 +4,6 @@
 
 5. § (1) Az 5/2015. (II. 19.) FM rendelet 19–23. §-a alapján anyajuhok után összesen legfeljebb 19 544 800 Ft, egyedenként legfeljebb 21,90 Ft támogatás vehető igénybe. Ha a mezőgazdasági termelő juhtejet vagy juhtejterméket értékesít, akkor a támogatás mértéke anyajuh egyedenként legfeljebb 15,60 Ft.
 
-(2) A támogatási összeg kifizetését az MVH – a jogosultsági ellenőrzések befejezését követően – a 2015. évben megkezdi.
+(2)[^3] A támogatási összeg kifizetését a Magyar Államkincstár (a továbbiakban: Kincstár) – a jogosultsági ellenőrzések befejezését követően – a 2015. évben megkezdi.
+
+[^3]: Az 5. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 98. § a) pontja szerint módosított szöveg.
