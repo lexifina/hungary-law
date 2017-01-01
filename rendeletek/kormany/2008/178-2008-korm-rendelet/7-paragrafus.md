@@ -1,7 +1,7 @@
-7. §[^13] (1) A kettős vizsgálatú kisajátítási tervhez az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység szabályait tartalmazó miniszteri rendeletben (a továbbiakban: földmérési rendelet) meghatározott megosztási változási vázrajzra vonatkozó előírások szerinti munkarészeket kell becsatolni, a földmérési rendelet területkimutatásra vonatkozó előírásait ide nem értve.
+7. §[^17] (1) A kettős vizsgálatú kisajátítási tervhez az ingatlan-nyilvántartási célú földmérési és térképészeti tevékenység szabályait tartalmazó miniszteri rendeletben (a továbbiakban: földmérési rendelet) meghatározott megosztási változási vázrajzra vonatkozó előírások szerinti munkarészeket kell becsatolni, a földmérési rendelet területkimutatásra vonatkozó előírásait ide nem értve.
 
 (2) Az ingatlanügyi szempontú vizsgálat során a járási hivatal az 1. számú melléklet II/7. pontja szerint jár el. Ha a kisajátítás mező-, erdőgazdasági művelés alatt álló földnek minősülő területet érint, akkor az ingatlanügyi szempontú vizsgálat során a kisajátítási vázrajzot a művelési ágak, a minőségi osztályok és a földminősítési mintaterek feltüntetése, valamint a földminősítési adatok számítása és ábrázolása helyességére vonatkozó mezőgazdászi szempontok szerint is vizsgálni kell. A kettős vizsgálatú kisajátítási terv záradéka egy évig hatályos.
 
 (3) Az ingatlanügyi szempontból megfelelőnek talált kisajátítási vázrajzot és területkimutatást „A helyrajzi számozás és a területszámítás helyes.” záradékszöveggel kell ellátni. A mezőgazdászi szempontoknak is megfelelő kisajátítási vázrajzot az „A művelési ágak, minőségi osztályok és a földminősítési mintaterek feltüntetése, valamint a földminősítési adatok számítása és ábrázolása helyes.” záradékszöveggel kell ellátni.
 
-[^13]: A 7. § a 70/2015. (III. 30.) Korm. rendelet 122. § (2) bekezdésével megállapított szöveg.
+[^17]: A 7. § a 70/2015. (III. 30.) Korm. rendelet 122. § (2) bekezdésével megállapított szöveg.
