@@ -6,7 +6,7 @@ b) a tárgy megnevezését, azonosításra alkalmas adatait,
 
 c) a kiviteli kérelemben megjelölt célországot,
 
-d)[^5]
+d)[^7]
 
 e) a visszaszállítás határidejét, annak megtörténte esetén annak tényét, továbbá
 
@@ -20,7 +20,7 @@ b) a tárgy megnevezését, azonosításra alkalmas adatait,
 
 c) a kiviteli kérelemben megjelölt célországot,
 
-d)[^6]
+d)[^8]
 
 e) a kiviteli engedély időbeli hatályát, továbbá
 
@@ -32,5 +32,5 @@ a) a tárgy megnevezését, azonosításra alkalmas adatait,
 
 b) a műtárgykísérő igazolás számát és időbeli hatályát.
 
-[^5]: A 4. § (1) bekezdés d) pontját a 9/2015. (II. 27.) MvM rendelet 6. § a) pontja hatályon kívül helyezte.
-[^6]: A 4. § (2) bekezdés d) pontját a 9/2015. (II. 27.) MvM rendelet 6. § b) pontja hatályon kívül helyezte.
+[^7]: A 4. § (1) bekezdés d) pontját a 9/2015. (II. 27.) MvM rendelet 6. § a) pontja hatályon kívül helyezte.
+[^8]: A 4. § (2) bekezdés d) pontját a 9/2015. (II. 27.) MvM rendelet 6. § b) pontja hatályon kívül helyezte.

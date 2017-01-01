@@ -1,4 +1,4 @@
-5/A. §[^8] (1) A nemzeti érdekű nyilvános gyűjtemény és a közérdekű kulturális érték nyilvántartásba vétele iránti kérelmet a Központnak kell benyújtani. A kérelemnek tartalmaznia kell az 1. mellékletben meghatározott adatokat.
+5/A. §[^11] (1)[^12] A nemzeti érdekű nyilvános gyűjtemény és a közérdekű kulturális érték nyilvántartásba vétele iránti kérelmet a kulturális javak hatóságának kell benyújtani. A kérelemnek tartalmaznia kell az 1. mellékletben meghatározott adatokat.
 
 (2) A nemzeti érdekű nyilvános gyűjtemény nyilvántartása tartalmazza:
 
@@ -22,4 +22,5 @@ c) a tárgyjegyzéket, a tárgyak azonosításra alkalmas adatait, fényképeit,
 
 d) a kulturális érték nyilvános bemutatásának helyét és módját.
 
-[^8]: Az 5/A. §-t a 9/2015. (II. 27.) MvM rendelet 1. §-a iktatta be.
+[^11]: Az 5/A. §-t a 9/2015. (II. 27.) MvM rendelet 1. §-a iktatta be.
+[^12]: Az 5/A. § (1) bekezdése a 37/2016. (XII. 29.) MvM rendelet 4. § c) pontja szerint módosított szöveg.

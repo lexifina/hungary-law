@@ -1,4 +1,4 @@
-1. melléklet a 45/2012. (XI. 30.) EMMI rendelethez[^14]
+1. melléklet a 45/2012. (XI. 30.) EMMI rendelethez[^35]
 
 1. A nemzeti érdekű nyilvános gyűjtemény nyilvántartásba vétele iránti kérelem tartalma
 
@@ -32,4 +32,4 @@
 
 2.6. A kulturális érték nyilvánosság számára történő hozzáférésének módja és időpontja (rendszeressége)
 
-[^14]: Az 1. mellékletet a 9/2015. (II. 27.) MvM rendelet 4. §-a iktatta be.
+[^35]: Az 1. mellékletet a 9/2015. (II. 27.) MvM rendelet 4. §-a iktatta be.
