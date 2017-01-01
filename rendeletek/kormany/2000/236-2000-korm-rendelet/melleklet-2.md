@@ -112,18 +112,18 @@ A Kpt. 4. § (2) bekezdés szerinti halmazati összpontszám:
 
 |  | .................................................................... |
 
-| A Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala tölti ki! |
+| A Nyilvántartó tölti ki! |
 
 | Ügyfél azonosító: |  |  |  |  |  |  |  |  |  |  |  |
 
 | Iktatószám: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-| KH-ba érkezés ideje: |  |  |  |  | . |  |  | . |  |  |  |
+| Nyilvántartóhoz érkezés ideje |  |  |  |  | . |  |  | . |  |  |  |
 
 | Pontszám megállapítás időpontja: |  |  |  |  | . |  |  | . |  |  |  |
 
 | Megállapított összpontszám: |  |  |  | .......................................................................... |
 
-|  |  |  |  | KH ügyintéző |
+|  |  |  |  | Nyilvántartó ügyintézője |
 
-[^16]: Az eredeti melléklet számozását 2. számú mellékletre változtatta és szövegét megállapította a 8/2004. (I. 22.) Korm. rendelet 3. §-a. A 2. számú melléklet a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének u) pontja szerint módosított szöveg.
+[^16]: Az eredeti melléklet számozását 2. számú mellékletre változtatta és szövegét megállapította a 8/2004. (I. 22.) Korm. rendelet 3. §-a. A 2. számú melléklet a 276/2006. (XII. 23.) Korm. rendelet 18. § (2) bekezdésének u) pontja, a 379/2016. (XII. 2.) Korm. rendelet 42. §-a szerint módosított szöveg.
