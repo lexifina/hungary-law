@@ -1,4 +1,4 @@
-## 12–15. §[^12]
+## 12–15. §[^9]
 
 ## 6. Záró rendelkezések
 
@@ -10,4 +10,4 @@
 
 (4) E rendelet 5. alcíme, valamint 2. és 3. melléklete a szén-dioxid geológiai tárolásáról, valamint a 85/337/EGK tanácsi irányelv, a 2000/60/EK, a 2001/80/EK, a 2004/35/EK, a 2006/12/EK és a 2008/1/EK európai parlamenti és tanácsi irányelv, valamint az 1013/2006/EK rendelet módosításáról szóló, 2009. április 23-i 2009/31/EK európai parlamenti és tanácsi irányelv 5. cikkének, valamint I. és II. mellékletének való megfelelést szolgálja.
 
-[^12]: A 12–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^9]: A 12–15. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
