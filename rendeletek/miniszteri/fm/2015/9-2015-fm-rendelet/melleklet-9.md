@@ -1,10 +1,10 @@
 ## 20151120000009_1
 
-9. melléklet a 9/2015. (III. 13.) FM rendelethez
+9. melléklet a 9/2015. (III. 13.) FM rendelethez[^111]
 
 Tárolási napló
 
-| Név: | Cím: | MVH ügyfélazonosító: | Év: |
+| Név: | Cím: | ügyfél-azonosító: | Év: |
 
 | Megnevezés, méret, minőség: | Nyilvántartási szám: | Oldalszám: |
 
@@ -23,3 +23,5 @@ Tárolási napló
 Dátum:
 
 Aláírás
+
+[^111]: A 9. melléklet a 88/2016. (XII. 29.) FM rendelet 80. § g) pontja szerint módosított szöveg.
