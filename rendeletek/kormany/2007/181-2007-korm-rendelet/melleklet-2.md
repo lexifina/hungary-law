@@ -1,4 +1,4 @@
-2. melléklet a 181/2007. (VII. 6.) Korm. rendelethez[^21]
+2. melléklet a 181/2007. (VII. 6.) Korm. rendelethez[^23]
 
 AKKREDITÁCIÓS TANÚSÍTVÁNY
 
@@ -60,4 +60,4 @@ elnöke
 
 * A szögletes zárójelben található szövegrészt csak a kérelemre induló eljárás során kiállított akkreditációs tanúsítványnak kell tartalmaznia.
 
-[^21]: A 2. melléklet a 182/2009. (IX. 10.) Korm. rendelet 551. §-a, a 303/2010. (XII. 23.) Korm. rendelet 10. § (4) bekezdés c) pontja, a 80/2014. (III. 14.) Korm. rendelet 16. § d) pontja, a 381/2014. (XII. 31.) Korm. rendelet 12. § f) pontja szerint módosított szöveg.
+[^23]: A 2. melléklet a 182/2009. (IX. 10.) Korm. rendelet 551. §-a, a 303/2010. (XII. 23.) Korm. rendelet 10. § (4) bekezdés c) pontja, a 80/2014. (III. 14.) Korm. rendelet 16. § d) pontja, a 381/2014. (XII. 31.) Korm. rendelet 12. § f) pontja szerint módosított szöveg.

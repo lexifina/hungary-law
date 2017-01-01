@@ -1,4 +1,4 @@
-1. melléklet a 181/2007. (VII. 6.) Korm. rendelethez[^20]
+1. melléklet a 181/2007. (VII. 6.) Korm. rendelethez[^22]
 
 ## Formanyomtatvány az akkreditációs eljárás lefolytatásához
 
@@ -120,4 +120,4 @@ Bélyegző:
 
 7. Melléklet: a rendelet 5. §-ának (2) bekezdésében meghatározottak szerint
 
-[^20]: Az 1. számú melléklet a 314/2009. (XII. 28.) Korm. rendelet 47. §-a, a 303/2010. (XII. 23.) Korm. rendelet 10. § (4) bekezdés b) pontja, a 381/2014. (XII. 31.) Korm. rendelet 12. § f) pontja szerint módosított szöveg.
+[^22]: Az 1. számú melléklet a 314/2009. (XII. 28.) Korm. rendelet 47. §-a, a 303/2010. (XII. 23.) Korm. rendelet 10. § (4) bekezdés b) pontja, a 381/2014. (XII. 31.) Korm. rendelet 12. § f) pontja szerint módosított szöveg.
