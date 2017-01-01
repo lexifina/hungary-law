@@ -1,8 +1,4 @@
-9. § (1) A pályázó a pályázatát zárt borítékban, egy példányban, minden oldalon eredeti aláírással ellátva, az adott pályázati azonosítószám feltüntetésével köteles a pályázat benyújtására nyitva álló határidőben
-
-a) a megadott helyen, személyesen benyújtani vagy
-
-b) postai úton, tértivevénnyel megküldeni.
+9. § (1)[^9] A pályázó a pályázatát a pályázati azonosítószám feltüntetésével köteles a pályázat benyújtására nyitva álló határidőben elektronikus úton megküldeni.
 
 (2) A pályázatnak minden esetben tartalmaznia kell a pályázó
 
@@ -25,3 +21,5 @@ ce) a pályázati felhívással érintett közforgalmú gyógyszertárat működ
 cf) vele szemben a Gyftv. 75. §-a szerinti összeférhetetlenségi ok nem áll fenn.
 
 (3) A pályázó ajánlati kötöttsége – ha a pályázati felhívás másként nem rendelkezik – akkor kezdődik, amikor a pályázatok benyújtására nyitva álló határidő lejárt.
+
+[^9]: A 9. § (1) bekezdése a 477/2016. (XII. 27.) Korm. rendelet 70. § (1) bekezdésével megállapított szöveg.
