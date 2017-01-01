@@ -1,0 +1,9 @@
+# 63/2016. (XII. 28.) NFM rendelet
+
+a megújuló energiaforrásokból nyert energiával termelt villamos energia működési támogatásának finanszírozásához szükséges pénzeszköz mértékének megállapítási módjára és megfizetésére vonatkozó részletes szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-63-20-2W
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-01-01 | 2016-63-20-2W.1 | 63/2016. (XII. 28.) NFM rendelet |
