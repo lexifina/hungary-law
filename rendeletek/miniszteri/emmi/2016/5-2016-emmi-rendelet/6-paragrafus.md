@@ -8,6 +8,8 @@ ab) Traumatológia és kézsebészet tagozata, valamint
 
 ac) Fizikális medicina, rehabilitáció és gyógyászati segédeszköz tagozata,
 
-b) az Egészségügyi Nyilvántartási és Képzési Központ (a továbbiakban: ENKK), továbbá
+b)[^2] az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: OGYÉI), továbbá
 
 c) az egészségügyért felelős miniszter
+
+[^2]: A 6. § b) pontja az 54/2016. (XII. 30.) EMMI rendelet 103. § b) pontja szerint módosított szöveg.

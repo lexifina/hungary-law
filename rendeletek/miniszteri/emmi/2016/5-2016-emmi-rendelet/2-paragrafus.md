@@ -1,4 +1,4 @@
-## 1. § A Nemzeti Csípő- és Térdízületi Endoprotézis Beültetés Regisztert (a továbbiakban: Protézis Regiszter) az Országos Egészségbiztosítási Pénztár (a továbbiakban: működtető szerv) működteti.
+## 1. §[^1] A Nemzeti Csípő- és Térdízületi Endoprotézis Beültetés Regisztert (a továbbiakban: Protézis Regiszter) a Nemzeti Egészségbiztosítási Alapkezelő (a továbbiakban: működtető szerv) működteti.
 
 2. § (1) A Protézis Regiszter részére az 1. melléklet szerinti beavatkozást (a továbbiakban: beavatkozás) végző egészségügyi szolgáltató továbbítja az egészségügyi és a hozzájuk kapcsolódó személyes adatok kezeléséről és védelméről szóló 1997. évi XLVII. törvény (a továbbiakban: Eüak.) 16/B. § (2) bekezdése szerinti adatokat.
 
@@ -9,3 +9,5 @@
 a) az egy ellátási esethez kapcsolódó, több független időpontban végzett beavatkozásról, valamint
 
 b) az egy időpontban végzett protézis kivétel és ismételt beültetés vonatkozásában is
+
+[^1]: Az 1. § az 54/2016. (XII. 30.) EMMI rendelet 103. § a) pontja szerint módosított szöveg.
