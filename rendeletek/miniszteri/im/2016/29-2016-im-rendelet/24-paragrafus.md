@@ -1,0 +1,7 @@
+## szövegrész.
+
+## 13. Záró rendelkezések
+
+24. § (1) Ez a rendelet – a (2) bekezdésben foglalt kivétellel – 2017. január 1-jén lép hatályba.
+
+(2) A 8–10. § és a 12. § 2017. október 1-jén lép hatályba.
