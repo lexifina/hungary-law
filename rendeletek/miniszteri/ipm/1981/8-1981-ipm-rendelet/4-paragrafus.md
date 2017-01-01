@@ -1,4 +1,4 @@
-## 3. §[^2] A KLÉSZ előírásai megtartásának hatósági ellenőrzése – külön jogszabály értelmében – a fővárosi és megyei kormányhivatal mérésügyi és műszaki biztonsági hatósága (a továbbiakban: hatóság) hatáskörébe tartozik.
+## 3. §[^3] A KLÉSZ előírásai megtartásának hatósági ellenőrzése – külön jogszabály értelmében – a fővárosi és megyei kormányhivatal műszaki biztonsági feladatkörében eljáró járási (fővárosi kerületi) hivatala (a továbbiakban: hatóság) hatáskörébe tartozik.
 
 4. § (1) Ez a rendelet a kihirdetése napján lép hatályba; egyidejűleg az 1/1964. (IX. 9.) NIM rendelet, valamint az azt módosító 7/1978. (X. 25.) NIM rendelet és az azzal kiadott „Érintésvédelmi Rendszabály” hatályát veszti.
 
@@ -18,7 +18,7 @@ I. FEJEZET
 
 (2) A KLÉSZ-t együtt kell alkalmazni a vonatkozó állami szabványokkal és műszaki előírásokkal.
 
-2. § (1) A KLÉSZ alkalmazásánál irányadó fogalmakat a (2)-(6) bekezdések, továbbá az MSZ 172/1 és az MSZ 477 szabványok, valamint a Villamos-Energia Közszolgáltatási Szabályzat (a továbbiakban: VKSZ) tartalmazzák.[^3]
+2. § (1) A KLÉSZ alkalmazásánál irányadó fogalmakat a (2)-(6) bekezdések, továbbá az MSZ 172/1 és az MSZ 477 szabványok, valamint a Villamos-Energia Közszolgáltatási Szabályzat (a továbbiakban: VKSZ) tartalmazzák.[^4]
 
 (2) A KLÉSZ alkalmazásában:
 
@@ -84,7 +84,7 @@ c) Önállóan is számottevő földelés:
 
 d) Egyenpotenciálra hozó vezetékrendszer: (a továbbiakban: EPH) az a vezetékrendszer, amely a védővezetőt igénylő érintésvédelemmel ellátott készülékek testét, a házi fémhálózatokat, valamint az önállóan is számottevően földelt fémtárgyakat - közvetlenül vagy közvetve - villamosan hatásosan összeköti.
 
-e) Nullavezetővel egyesített földelőhálózat: (a továbbiakban: NEFH) a KLÉSZ és a vonatkozó műszaki előírás[^4] valamennyi előírásait kielégítő olyan EPH, amelyet nullázott villamos fogyasztóberendezések épületében építettek ki, és az a hálózat nullavezetőjével is össze van kötve.
+e) Nullavezetővel egyesített földelőhálózat: (a továbbiakban: NEFH) a KLÉSZ és a vonatkozó műszaki előírás[^5] valamennyi előírásait kielégítő olyan EPH, amelyet nullázott villamos fogyasztóberendezések épületében építettek ki, és az a hálózat nullavezetőjével is össze van kötve.
 
 f) A nullázás külső feltételei: azok az elosztóhálózati feltételek, amelyek maradéktalan teljesülése szükséges ahhoz, hogy a nullázásos érintésvédelem az adott elosztóhálózatra csatlakozó valamennyi fogyasztói vezetékhálózaton - a „nullázás belső feltételei”-nek az egyes fogyasztói vezetékhálózatokon való teljesülése nélkül is - alkalmazható legyen.
 
@@ -168,7 +168,7 @@ c) az áram-védőkapcsoló a fogyasztásmérő berendezés közvetlen közeléb
 
 d) a fogyasztási helyen egyidejűleg vételezhető maximális teljesítménynek (az egyes fogyasztásmérőkön vételezhető névleges csatlakozási teljesítmények összegének) megfelelő áram-védőkapcsoló rendelkezésre áll.
 
-(8) A méretlen fővezetékbe iktatott áram-védőkapcsoló szerelésére a szabálytalan áramvételezés megakadályozására vonatkozó szabvány[^5] előírásait, valamint a (9) bekezdésben foglaltakat is alkalmazni kell.
+(8) A méretlen fővezetékbe iktatott áram-védőkapcsoló szerelésére a szabálytalan áramvételezés megakadályozására vonatkozó szabvány[^6] előírásait, valamint a (9) bekezdésben foglaltakat is alkalmazni kell.
 
 (9) Nullázásos érintésvédelem esetén a védővezetőt a nullavezetőről - annak keresztmetszetétől függetlenül - az áram-védőkapcsoló előtt kell leágaztatni.
 
@@ -202,7 +202,7 @@ b) földeléses érintésvédelem esetén az érintésvédelmi védővezetővel.
 
 (6) Az EPH-ba be kell kötni a fürdőkádakat, fémből készült mosdóvályukat és más olyan üzemszerűen érinthető nagy kiterjedésű fémtárgyakat, amelyeknek felszerelési módjukból következően viszonylag jó vezető villamos kapcsolata lehet a földdel.
 
-(7) Az EPH kialakításának egyéb kérdéseire és szerkezeti megoldására a vonatkozó műszaki előírás[^6] az irányadó.
+(7) Az EPH kialakításának egyéb kérdéseire és szerkezeti megoldására a vonatkozó műszaki előírás[^7] az irányadó.
 
 III. FEJEZET
 
@@ -348,7 +348,7 @@ Az érintésvédelem ellenőrzéseivel és hibaelhárításával kapcsolatos fel
 
 A kivitelező feladatai
 
-22. § A rendelet hatálya alá tartozó fogyasztói vezetékhálózatot, illetve annak részét képező érintésvédelmi rendszert - ideértve az EPH-t is - létesítő, bővítő, átalakító vagy javító kivitelező vállalat köteles a munkálatok befejező műveleteként a vonatkozó szabvány[^7] előírásainak megfelelően
+22. § A rendelet hatálya alá tartozó fogyasztói vezetékhálózatot, illetve annak részét képező érintésvédelmi rendszert - ideértve az EPH-t is - létesítő, bővítő, átalakító vagy javító kivitelező vállalat köteles a munkálatok befejező műveleteként a vonatkozó szabvány[^8] előírásainak megfelelően
 
 - „az érintésvédelem szerelői ellenőrzését” elvégezni, illetve
 
@@ -398,7 +398,7 @@ kivizsgálni, illetve kivizsgáltatni és hiba esetén annak kijavítása érdek
 
 25. § (1) A feltárt hiányosságok kiküszöbölését az MSZ 172/1 szerinti „szerelői ellenőrzéssel”, illetve „szabványossági felülvizsgálattal” kell igazolni. Az erre vonatkozó bizonylatokra is a 23. § (6) bekezdésének az előírásait kell alkalmazni.
 
-(2)[^8] Amennyiben az épület érintésvédelmi rendszerén feltárt hibák kijavítására előírt határidők műszaki-gazdasági okok miatt nem teljesíthetők, az ingatlankezelő kellő indokolással határidő módosítást kérhet a hatóságtól.
+(2)[^9] Amennyiben az épület érintésvédelmi rendszerén feltárt hibák kijavítására előírt határidők műszaki-gazdasági okok miatt nem teljesíthetők, az ingatlankezelő kellő indokolással határidő módosítást kérhet a hatóságtól.
 
 A fogyasztó feladatai
 
@@ -512,10 +512,10 @@ A karbantartó vállalat feladatai
 
 (5) Amennyiben a villamos készülék, fogyasztóberendezés a javítás - esetleg a vizsgálatot követő ismételt javítás - után sem lenne érintésvédelem szempontjából megfelelő, a karbantartó vállalat köteles erre a veszélyhelyzetre írásban felhívni a megrendelő figyelmét, a készülékre „Javíthatatlan, bekapcsolása életveszélyes” feliratot ragasztani.
 
-[^2]: A 3. § a 127/2005. (XII. 29.) GKM rendelet 2. § (1) bekezdésével megállapított, a 27/2010. (XII. 31.) NGM rendelet 1. § a) pontja szerint módosított szöveg.
-[^3]: Lásd az 1994: XLVIII. törvényt.
-[^4]: ME-04 115 Az egyenlő potenciálra hozás hálózatának a kialakítása.
-[^5]: MSZ-09 0163 Szerelési előírások a szabálytalan áramelvezetés megakadályozására.
-[^6]: ME-04 115 Az egyenlő potenciálra hozás hálozatának kialakítása.
-[^7]: MSZ 172/1. Érintésvédelmi Szabályzat 1000 V-nál nem nagyobb feszültségű erősáramú villamos berendezések számára.
-[^8]: A melléklet 25. § (2) bekezdése a 127/2005. (XII. 29.) GKM rendelet 2. § (2) bekezdésével megállapított, a 27/2010. (XII. 31.) NGM rendelet 1. § b) pontja szerint módosított szöveg.
+[^3]: A 3. § a 127/2005. (XII. 29.) GKM rendelet 2. § (1) bekezdésével megállapított, a 27/2010. (XII. 31.) NGM rendelet 1. § a) pontja, a 62/2016. (XII. 29.) NGM rendelet 1. §-a szerint módosított szöveg.
+[^4]: Lásd az 1994: XLVIII. törvényt.
+[^5]: ME-04 115 Az egyenlő potenciálra hozás hálózatának a kialakítása.
+[^6]: MSZ-09 0163 Szerelési előírások a szabálytalan áramelvezetés megakadályozására.
+[^7]: ME-04 115 Az egyenlő potenciálra hozás hálozatának kialakítása.
+[^8]: MSZ 172/1. Érintésvédelmi Szabályzat 1000 V-nál nem nagyobb feszültségű erősáramú villamos berendezések számára.
+[^9]: A melléklet 25. § (2) bekezdése a 127/2005. (XII. 29.) GKM rendelet 2. § (2) bekezdésével megállapított, a 27/2010. (XII. 31.) NGM rendelet 1. § b) pontja szerint módosított szöveg.
