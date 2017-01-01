@@ -1,3 +1,3 @@
-10. melléklet a 6/2011. (I. 14.) VM rendelethez[^33]
+10. melléklet a 6/2011. (I. 14.) VM rendelethez[^36]
 
-[^33]: A 10. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § e) pontja szerint módosított szöveg.
+[^36]: A 10. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § e) pontja szerint módosított szöveg.

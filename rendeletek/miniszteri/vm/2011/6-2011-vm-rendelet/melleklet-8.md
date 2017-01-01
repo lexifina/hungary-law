@@ -34,11 +34,11 @@
 
 ## 2. Az egyenértékűség kimutatása
 
-## 2.1. Bármely olyan egyéb módszer alkalmazható, amely az 1. pontban felsorolt módszerek bármelyikével bizonyítottan egyenértékű eredményt ad, vagy szálló por esetében bármely olyan egyéb módszer, amely bizonyíthatóan szorosan kapcsolódik a referencia-módszerhez. Ebben az esetben az ilyen módszerrel mért eredményeket a környezetvédelmi hatáskörében eljáró megyei kormányhivatal (a továbbiakban: kormányhivatal) a Levegőtisztaság-védelmi Referencia Központtal egyeztetve korrigálja annak érdekében, hogy egyenértékű eredményt kapjon azzal, amit a referencia-módszerrel kapott volna.
+## 2.1.[^31] Bármely olyan egyéb módszer alkalmazható, amely az 1. pontban felsorolt módszerek bármelyikével bizonyítottan egyenértékű eredményt ad, vagy szálló por esetében bármely olyan egyéb módszer, amely bizonyíthatóan szorosan kapcsolódik a referencia-módszerhez. Ebben az esetben az ilyen módszerrel mért eredményeket a környezetvédelmi hatóság a Levegőtisztaság-védelmi Referencia Központtal egyeztetve korrigálja annak érdekében, hogy egyenértékű eredményt kapjon azzal, amit a referencia-módszerrel kapott volna.
 
-## 2.2. Ha a Bizottság arra kötelezi Magyarországot, hogy nyújtson be jelentést az egyenértékűség 2.1. pontnak megfelelő kimutatásáról, az egyenértékűség közelítésére használt átmeneti tényezőket a Bizottság által közétett, a környezeti levegő monitoring módszerek egyenértékűségének kimutatásáról szóló útmutatónak megfelelően a Levegőtisztaság-védelmi Referencia Központ a kormányhivatallal egyeztetve módosítja vagy megerősíti.
+## 2.2.[^32] Ha a Bizottság arra kötelezi Magyarországot, hogy nyújtson be jelentést az egyenértékűség 2.1. pontnak megfelelő kimutatásáról, az egyenértékűség közelítésére használt átmeneti tényezőket a Bizottság által közétett, a környezeti levegő monitoring módszerek egyenértékűségének kimutatásáról szóló útmutatónak megfelelően a Levegőtisztaság-védelmi Referencia Központ a környezetvédelmi hatósággal egyeztetve módosítja vagy megerősíti.
 
-## 2.3. Ha a 2.1. vagy 2.2. pont szerinti rendelkezés alapján szükségessé válik a mérési eredmények korrekciója, azt a kormányhivatal az adatok jobb összehasonlíthatósága érdekében a korábbi mérési eredményeken is végrehajtja.
+## 2.3.[^33] Ha a 2.1. vagy 2.2. pont szerinti rendelkezés alapján szükségessé válik a mérési eredmények korrekciója, azt a környezetvédelmi hatóság az adatok jobb összehasonlíthatósága érdekében a korábbi mérési eredményeken is végrehajtja.
 
 ## 3. Egységesítés
 
@@ -50,7 +50,7 @@
 
 ## 4.2. A részletes vizsgálati jelentéseket és a vizsgálatok eredményeit más illetékes hatóságok vagy azok által kijelölt szervek számára elérhetővé kell tenni. A vizsgálati jelentéseknek be kell mutatniuk, hogy a berendezés megfelel valamennyi teljesítménybeli követelménynek, olyan esetben is, amikor egy tagállamban olyan speciális környezeti és helyi feltételek uralkodnak, amelyek eltérnek azoktól, amelyek mellett a berendezést másik tagállamban már vizsgálták és típusjóváhagyását megadták.
 
-8. melléklet a 6/2011. (I. 14.) VM rendelethez[^31]
+8. melléklet a 6/2011. (I. 14.) VM rendelethez[^34]
 
 ## Adatminőségi követelmények és a dokumentálás szempontjai
 
@@ -196,4 +196,7 @@
 
 |  | 6 | éves középérték | az egész évben mért 1 órás értékek vagy (ha ez nem áll rendelkezésre) 24 órás értékek 90%-a (az éves középérték kiszámítására vonatkozó követelmények nem foglalja magában a kalibrálás vagy az eszközök szokásos karbantartása miatt bekövetkezett adatveszteséget) |
 
-[^31]: A 8. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § c) pontja, a 84/2016. (XII. 16.) FM rendelet 15. § c) pontja szerint módosított szöveg.
+[^31]: A 7. melléklet 2. pont 2.1. alpontja a 89/2016. (XII. 29.) FM rendelet 14. § a) pontja szerint módosított szöveg.
+[^32]: A 7. melléklet 2. pont 2.2. alpontja a 89/2016. (XII. 29.) FM rendelet 14. § b) pontja szerint módosított szöveg.
+[^33]: A 7. melléklet 2. pont 2.3. alpontja a 89/2016. (XII. 29.) FM rendelet 14. § c) pontja szerint módosított szöveg.
+[^34]: A 8. melléklet a 33/2015. (VI. 25.) FM rendelet 4. § c) pontja, a 84/2016. (XII. 16.) FM rendelet 15. § c) pontja szerint módosított szöveg.
