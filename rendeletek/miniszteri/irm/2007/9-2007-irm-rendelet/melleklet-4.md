@@ -1,12 +1,12 @@
 ## Az anyakönyvi szakvizsga vizsgaszabályzata
 
-## 1. Egy-egy tanfolyami csoportba legfeljebb húsz főt lehet beosztani. Ettől eltérést a központi anyakönyvi szerv vezetője engedélyezhet.
+## 1. Egy-egy tanfolyami csoportba legfeljebb húsz főt lehet beosztani. Ettől eltérést az anyakönyvi ügyekért felelős miniszter engedélyezhet.
 
 ## 2. A szóbeli vizsgabizottság munkáját az elnök vezeti, aki gondoskodik a szóbeli vizsga jogszerűségéről és zavartalan lebonyolításáról. A vizsgabizottság elnöke kizárja a vizsgából azt, aki a vizsga rendjét megzavarja, vagy szabálytalanságot, illetve visszaélést követ el. A vizsgából történt kizárást jegyzőkönyvezni kell. A gyakorlati vizsgán a tagok gondoskodnak a vizsga jogszerűségéről és zavartalan lebonyolításáról. A gyakorlati vizsgabizottság tagja kizárja a vizsgából azt, aki a vizsga rendjét megzavarja, vagy szabálytalanságot, illetve visszaélést követ el. A vizsgából történt kizárást jegyzőkönyvezni kell.
 
 ## 3. A vizsgabizottság mellett jegyzőkönyvvezető működik, aki vezeti a jegyzőkönyvet, és a vizsgával járó adminisztrációs feladatokat végzi.
 
-## 4. A gyakorlati vizsgafeladatok megoldására 240 percet kell biztosítani, amelybe a feladatok ismertetésének ideje nem számít bele. A gyakorlati vizsgát a vizsgabizottság két tagja jelenlétében kell teljesíteni az EAK oktatórendszerében. A gyakorlati vizsgán elvégzett feladatokat az EAK oktatórendszerben a szóbeli vizsgán közölt döntésnek a vizsgázó részéről történő tudomásul vételéig meg kell őrizni, azt papírra ki kell nyomtatni és a vizsgázóval alá kell íratni. Az oktatórendszert a Közigazgatási és Elektronikus Közszolgáltatások Központi Hivatala működteti.
+## 4. A gyakorlati vizsgafeladatok megoldására 240 percet kell biztosítani, amelybe a feladatok ismertetésének ideje nem számít bele. A gyakorlati vizsgát a vizsgabizottság két tagja jelenlétében kell teljesíteni az EAK oktatórendszerében. A gyakorlati vizsgán elvégzett feladatokat az EAK oktatórendszerben a szóbeli vizsgán közölt döntésnek a vizsgázó részéről történő tudomásul vételéig meg kell őrizni, azt papírra ki kell nyomtatni és a vizsgázóval alá kell íratni. Az oktatórendszert a NISZ Nemzeti Infokommunikációs Szolgáltató Zrt. működteti.
 
 ## 5. A szóbeli vizsgán a jelöltnek egy tételt kell húznia. Egy tétel három kérdésből áll. A jelölt részére a felkészüléshez legalább húsz percet kell biztosítani. A bizottság a kihúzott tételhez közvetlenül nem kapcsolódó, de a szakvizsga tételei között szereplő további kérdések feltevésével is tájékozódhat a jelölt felkészültségéről.
 
@@ -30,6 +30,6 @@
 
 ## 10. A gyakorlati vizsga eredményének megállapítása elleni kifogást az eredmény közlésétől számított három napon belül a gyakorlati vizsgabizottság tagjainál, a szóbeli vizsga eredményének megállapítása elleni kifogást pedig a vizsgabizottság elnökénél lehet benyújtani, aki arról három munkanapon belül dönt, és erről a jelöltet írásban tájékoztatja.
 
-4. melléklet a 9/2007. (III. 6.) IRM rendelethez[^19]
+4. melléklet a 9/2007. (III. 6.) IRM rendelethez[^21]
 
-[^19]: A 4. melléklet az 54/2012. (XII. 28.) KIM rendelet 22. § (2) bekezdésével megállapított szöveg.
+[^21]: A 4. melléklet az 54/2012. (XII. 28.) KIM rendelet 22. § (2) bekezdésével megállapított szöveg.

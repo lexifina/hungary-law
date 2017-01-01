@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-9-20-1U
 | 2015-03-09 | 2007-9-20-1U.10 | 6/2015. (III. 6.) BM rendelet |
 | 2016-07-01 | 2007-9-20-1U.11 | 6/2015. (III. 6.) BM rendelet |
 | 2016-10-26 | 2007-9-20-1U.12 | 54/2012. (XII. 28.) KIM rendelet |
+| 2017-01-01 | 2007-9-20-1U.13 | 6/2015. (III. 6.) BM rendelet |

@@ -1,6 +1,6 @@
-7. §[^11] (1) A gyakorlati vizsgát két tagból álló bizottság előtt kell letenni. A tagokat a fővárosi és megyei kormányhivatal (a továbbiakban: szervező) vezetője jelöli ki. A gyakorlati vizsgabizottság tagja lehet a szervező munkatársa, az oktatáson oktatóként közreműködő más személy, valamint a szóbeli vizsgabizottság bármely tagja.
+7. §[^12] (1) A gyakorlati vizsgát két tagból álló bizottság előtt kell letenni. A tagokat a fővárosi és megyei kormányhivatal (a továbbiakban: szervező) vezetője jelöli ki. A gyakorlati vizsgabizottság tagja lehet a szervező munkatársa, az oktatáson oktatóként közreműködő más személy, valamint a szóbeli vizsgabizottság bármely tagja.
 
-(2) A szóbeli vizsgát háromtagú bizottság előtt kell letenni, amelynek elnökét a központi anyakönyvi szerv vezetője, tagjait a szervező vezetője úgy választja ki, hogy legalább egy tagot a gyakorlati vizsgabizottság tagjai közül kell kijelölnie.
+(2)[^13] A szóbeli vizsgát háromtagú bizottság előtt kell letenni, amelynek elnökét az anyakönyvi ügyekért felelős miniszter, tagjait a szervező vezetője úgy választja ki, hogy legalább egy tagot a gyakorlati vizsgabizottság tagjai közül kell kijelölnie.
 
 (3) A szóbeli vizsgabizottság elnöke és a szóbeli vagy gyakorlati vizsgabizottság tagja nem lehet
 
@@ -18,4 +18,5 @@ c) az, akitől a jelölt elfogulatlan vizsgáztatása nem várható.
 
 (7) A vizsga végeredményét a szóbeli és a gyakorlati vizsga részosztályzatainak átlaga adja ki. A vizsgázó végül egyetlen összesített osztályzatot kap. A végső osztályzat megállapítása során e rendelet 3. mellékletében foglalt vizsgaszabályzatban meghatározott kerekítési szabályok szerint kell eljárni.
 
-[^11]: A 7. § a 6/2015. (III. 6.) BM rendelet 4. §-ával megállapított szöveg.
+[^12]: A 7. § a 6/2015. (III. 6.) BM rendelet 4. §-ával megállapított szöveg.
+[^13]: A 7. § (2) bekezdése az 58/2016. (XII. 22.) BM rendelet 17. § a) pontja szerint módosított szöveg.

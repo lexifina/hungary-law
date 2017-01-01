@@ -54,6 +54,6 @@
 
 | vizsgabizottság tagja | vizsgabizottság tagja |
 
-7. melléklet a 9/2007. (III. 6.) IRM rendelethez[^22]
+7. melléklet a 9/2007. (III. 6.) IRM rendelethez[^24]
 
-[^22]: A 7. mellékletet a 6/2015. (III. 6.) BM rendelet 7. § (6) bekezdése iktatta be, a 18/2016. (V. 24.) BM rendelet 5. §-a hatályon kívül helyezte.
+[^24]: A 7. mellékletet a 6/2015. (III. 6.) BM rendelet 7. § (6) bekezdése iktatta be, a 18/2016. (V. 24.) BM rendelet 5. §-a hatályon kívül helyezte.

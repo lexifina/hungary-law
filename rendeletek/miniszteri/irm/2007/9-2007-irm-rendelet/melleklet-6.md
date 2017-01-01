@@ -6,6 +6,6 @@
 
 | neve, születési neve | szül. helye, ideje, anyja születési neve | munkáltatója |
 
-6. melléklet a 9/2007. (III. 6.) IRM rendelethez[^21]
+6. melléklet a 9/2007. (III. 6.) IRM rendelethez[^23]
 
-[^21]: A 6. melléklet a 18/2016. (V. 24.) BM rendelet 3. §-ával megállapított, a 43/2016. (X. 25.) BM rendelet 1. § b) pontja szerint módosított szöveg.
+[^23]: A 6. melléklet a 18/2016. (V. 24.) BM rendelet 3. §-ával megállapított, a 43/2016. (X. 25.) BM rendelet 1. § b) pontja szerint módosított szöveg.

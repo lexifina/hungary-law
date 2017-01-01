@@ -60,7 +60,7 @@
 
 ## 18. Okirat és személyes nyilatkozat az anyakönyvi eljárásokban, külföldi okiratok elfogadhatósága (hiteles fordítások, Apostille és diplomáciai felülhitelesítés), hamis okmányok felismerése
 
-## 19. A biztonsági okmány fogalma, személyazonosító okmányok, a Bevándorlási és Állampolgársági Hivatal által külföldiek és hontalanok részére kiállított okmányok
+## 19. A biztonsági okmány fogalma, személyazonosító okmányok, a Bevándorlási és Menekültügyi Hivatal által külföldiek és hontalanok részére kiállított okmányok
 
 ## 20. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény alkalmazása az anyakönyvi igazgatásban
 
@@ -174,6 +174,6 @@
 
 ## 75. Illeték- és díjfizetési szabályok az anyakönyvi és házasságkötési eljárásokban
 
-3. melléklet a 9/2007. (III. 6.) IRM rendelethez[^18]
+3. melléklet a 9/2007. (III. 6.) IRM rendelethez[^20]
 
-[^18]: A 3. melléklet a 6/2015. (III. 6.) BM rendelet 7. § (3) bekezdésével megállapított, a 18/2016. (V. 24.) BM rendelet 2. §-a szerint módosított szöveg.
+[^20]: A 3. melléklet a 6/2015. (III. 6.) BM rendelet 7. § (3) bekezdésével megállapított, a 18/2016. (V. 24.) BM rendelet 2. §-a, az 58/2016. (XII. 22.) BM rendelet 17. § c)–d) pontja szerint módosított szöveg.

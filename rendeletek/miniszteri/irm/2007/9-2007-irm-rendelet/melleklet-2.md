@@ -28,6 +28,6 @@
 
 | munkáltató | jelölt |
 
-2. melléklet a 9/2007. (III. 6.) IRM rendelethez[^17]
+2. melléklet a 9/2007. (III. 6.) IRM rendelethez[^19]
 
-[^17]: A 2. melléklet a 6/2015. (III. 6.) BM rendelet 7. § (2) bekezdésével megállapított, a 18/2016. (V. 24.) BM rendelet 1. §-a szerint módosított szöveg.
+[^19]: A 2. melléklet a 6/2015. (III. 6.) BM rendelet 7. § (2) bekezdésével megállapított, a 18/2016. (V. 24.) BM rendelet 1. §-a, az 58/2016. (XII. 22.) BM rendelet 17. § b) pontja szerint módosított szöveg.

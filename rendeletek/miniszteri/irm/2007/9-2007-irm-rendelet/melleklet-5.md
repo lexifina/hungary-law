@@ -26,6 +26,6 @@
 
 | ....................................................... vizsgabizottság tagja |  | ......................................................... vizsgabizottság tagja |
 
-5. melléklet a 9/2007. (III. 6.) IRM rendelethez[^20]
+5. melléklet a 9/2007. (III. 6.) IRM rendelethez[^22]
 
-[^20]: Az 5. melléklet a 6/2015. (III. 6.) BM rendelet 7. § (4) bekezdésével megállapított szöveg.
+[^22]: Az 5. melléklet a 6/2015. (III. 6.) BM rendelet 7. § (4) bekezdésével megállapított szöveg.
