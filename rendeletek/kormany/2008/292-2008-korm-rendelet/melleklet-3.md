@@ -16,7 +16,7 @@
 
 | Megjegyzés / Remarks CITES függelék / App.: EU melléklet / Annex*: Eredet / Source: |
 
-| Kiállítás helye és ideje / Place and date of issue | .................  természetvédelmi feladatkörében eljáró megyei kormányhivatal (Issuing Authority) |
+| Kiállítás helye és ideje / Place and date of issue | .................  területi természetvédelmi hatóság (Issuing Authority) |
 
 | .................................................................... | .................................................................... aláírás, P. H. / stamp and signature |
 
@@ -26,6 +26,6 @@
 
 ## A DOKUMENTUM ÉRVÉNYESSÉGÉRE VONATKOZÓ SPECIÁLIS FELTÉTELEK / SPECIAL CONDITIONS FOR THE VALIDITY OF THE DOCUMENT:
 
-3. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^59]
+3. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^57]
 
-[^59]: A 3. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 10. § g) pontja, a 70/2015. (III. 30.) Korm. rendelet 127. § d) pontja szerint módosított szöveg.
+[^57]: A 3. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 10. § g) pontja, a 379/2016. (XII. 2.) Korm. rendelet 123. § (4) bekezdés i) pontja szerint módosított szöveg.

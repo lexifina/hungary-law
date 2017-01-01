@@ -1,6 +1,6 @@
 ## végrehajtásához szükséges rendelkezéseket állapít meg.
 
-1. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^57]
+1. számú melléklet a 292/2008. (XII. 10.) Korm. rendelethez[^55]
 
 ## A bejelentési kötelezettség alól kivont fajok
 
@@ -174,4 +174,4 @@
 
 | Poephila cincta cincta | Szakállas amandina törzsalakja |
 
-[^57]: Az 1. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.
+[^55]: Az 1. számú melléklet a 41/2013. (II. 14.) Korm. rendelet 12. § (2) bekezdése szerint módosított szöveg.

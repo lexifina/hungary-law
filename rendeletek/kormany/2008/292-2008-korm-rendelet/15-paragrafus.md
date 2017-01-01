@@ -20,6 +20,6 @@ b) a bejelentett példányokról, valamint
 
 c) a tokfajokkal és a kaviárral kapcsolatos tevékenységekről.
 
-(2)[^28] Az (1) bekezdés szerinti nyilvántartások alapján az igazgatási hatóság országos adatbázist működtet.
+(2)[^26] Az (1) bekezdés szerinti nyilvántartások alapján az igazgatási hatóság országos adatbázist működtet.
 
-[^28]: A 15. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 650. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^26]: A 15. § (2) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 650. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
