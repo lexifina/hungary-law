@@ -4,8 +4,8 @@
 
 (2) Az (1) bekezdésben meghatározott személy
 
-a)[^47] által ellátandó feladatot és a feladatellátás helyét az egészségügyi válsághelyzet által érintett területen működő megyei kormányhivatal jelöli ki,
+a)[^48] által ellátandó feladatot és a feladatellátás helyét az egészségügyi válsághelyzet által érintett területen működő megyei kormányhivatal jelöli ki,
 
 b) megfelelő helyre történő eljuttatásáról, elhelyezéséről és ellátásáról a 17. §-ban meghatározottak szerint kell gondoskodni.
 
-[^47]: A 18. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés n) pontja szerint módosított szöveg.
+[^48]: A 18. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés n) pontja szerint módosított szöveg.

@@ -12,7 +12,7 @@
 
 (7)[^22] Az országos tisztifőorvos tárgyév május 30-áig terjeszti fel jóváhagyásra az egészségügyért felelős miniszter részére az Állami Népegészségügyi és Tisztifőorvosi Szolgálatnak az egészségügyi válsághelyzeti feladatok ellátására vonatkozó résztervét.
 
-(8)[^23] Az OMSZ főigazgatója, az EKI főigazgatója, az Országos Egészségbiztosítási Pénztár főigazgatója, az Állami Egészségügyi Ellátó Központ főigazgatója, valamint az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet főigazgatója tárgyév május 30-áig terjeszti fel jóváhagyásra az egészségügyért felelős miniszter részére az egészségügyi válsághelyzeti feladatok ellátására vonatkozó résztervét.
+(8)[^23] Az OMSZ főigazgatója, a Nemzeti Egészségbiztosítási Alapkezelő főigazgatója az Állami Egészségügyi Ellátó Központ főigazgatója, valamint az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet főigazgatója tárgyév május 30-áig terjeszti fel jóváhagyásra az egészségügyért felelős miniszter részére az egészségügyi válsághelyzeti feladatok ellátására vonatkozó résztervét.
 
 (9)[^24] A (7)–(8) bekezdés szerinti jóváhagyott résztervek alapján az egészségügyért felelős miniszter gondoskodik az Egészségügyi Válsághelyzetek Kezelésének Országos Tervének (a továbbiban: Országos Terv) előkészítéséről.
 
@@ -27,7 +27,7 @@
 [^20]: A 10. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 241. § (5) bekezdésével megállapított szöveg.
 [^21]: A 10. § (6) bekezdését a 70/2015. (III. 30.) Korm. rendelet 241. § (9) bekezdés b) pontja hatályon kívül helyezte.
 [^22]: A 10. § (7) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 120. § (2) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés j) pontja szerint módosított szöveg.
-[^23]: A 10. § (8) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 120. § (2) bekezdése iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 98. § (2) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés j) és k) pontja szerint módosított szöveg.
+[^23]: A 10. § (8) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 120. § (2) bekezdése iktatta be, szövege a 30/2015. (II. 25.) Korm. rendelet 98. § (2) bekezdésével megállapított, a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés j) pontja, a 379/2016. (XII. 2.) Korm. rendelet 259. § (2) bekezdés b) pontja szerint módosított szöveg.
 [^24]: A 10. § (9) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 120. § (2) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 241. § (8) bekezdés l) pontja szerint módosított szöveg.
 [^25]: A 10. § (10) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 120. § (2) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 241. § (6) bekezdésével megállapított szöveg.
 [^26]: A 10. § (11) bekezdését a 364/2014. (XII. 30.) Korm. rendelet 120. § (2) bekezdése iktatta be.
