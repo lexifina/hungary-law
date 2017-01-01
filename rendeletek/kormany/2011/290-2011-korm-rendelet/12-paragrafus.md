@@ -1,4 +1,4 @@
-12. §[^37] (1) A Honvéd Vezérkar főnökének helyettesei
+12. §[^42] (1) A Honvéd Vezérkar főnökének helyettesei
 
 a) szolgálati elöljárói a Honvéd Vezérkar főnökének alárendelt szervek és szervezetek állományába tartozó katonáknak,
 
@@ -28,4 +28,4 @@ i) koordinálja a Honvéd Vezérkar egységes szakmai véleményének kialakít�
 
 j) vezeti, felügyeli a katonai igazgatással kapcsolatos stratégiai szintű feladatok tervezését.
 
-[^37]: A 12. § a 168/2016. (VII. 1.) Korm. rendelet 5. §-ával megállapított szöveg.
+[^42]: A 12. § a 168/2016. (VII. 1.) Korm. rendelet 5. §-ával megállapított szöveg.

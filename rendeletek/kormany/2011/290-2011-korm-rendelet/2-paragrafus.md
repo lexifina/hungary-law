@@ -26,7 +26,7 @@
 
 9. végrehajtja a befogadó nemzeti támogatás hatáskörébe tartozó feladatait,
 
-10. felelős nemzeti katonai stratégia, a Honvédség és a külföldi fegyveres erők következő évre tervezett csapatmozgásai jegyzékének előkészítéséért,
+10.[^6] felelős nemzeti katonai stratégia, a Honvédség és a külföldi fegyveres erők következő évre tervezett csapatmozgásai jegyzékének előkészítéséért,
 
 11. felelős a Hvt. 19. § (1) bekezdése szerinti határozati javaslatok és a Hvt. 21. § (4) bekezdés szerinti beszámoló előkészítéséért, a más jogszabályokban előírt beszámolási kötelezettség teljesítéséért,
 
@@ -36,7 +36,7 @@
 
 14. irányítja a honvédelmi katasztrófavédelmi rendszer működését,
 
-15.[^6] a Hvt. 37. § (3) bekezdésében meghatározott létszámot vagy időtartamot meghaladóan engedélyezi a Honvédségnek a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdése szerinti feladatok végrehajtására történő igénybevételét, engedélyezi a Honvédség fegyverzeti szakanyagnak nem minősülő szaktechnikai eszközeinek ideiglenes átengedését,
+15.[^7] a Hvt. 37. § (3) bekezdésében meghatározott létszámot vagy időtartamot meghaladóan engedélyezi a Honvédségnek a Hvt. 36. § (1) bekezdés h) pontja, valamint (2) bekezdése szerinti feladatok végrehajtására történő igénybevételét, engedélyezi a Honvédség fegyverzeti szakanyagnak nem minősülő szaktechnikai eszközeinek ideiglenes átengedését,
 
 16. irányítja a katonai légiforgalmi irányító és a légvédelmi irányító szolgálatokat,
 
@@ -48,13 +48,13 @@
 
 20. irányítja a NATO és az Európai Unió védelmi tervezési feladataival kapcsolatos magyarországi feladatok ellátását, összehangolja az érintett szervezetek ezzel kapcsolatos tevékenységét,
 
-21.[^7] tömeges bevándorlás okozta válsághelyzet esetén dönt a Honvédség menedékjogról szóló törvény szerinti közreműködéséről.
+21.[^8] tömeges bevándorlás okozta válsághelyzet esetén dönt a Honvédség menedékjogról szóló törvény szerinti közreműködéséről.
 
 (3) A miniszter a Honvédség irányításáért és vezetéséért, valamint törvényes működéséért viselt felelőssége körében
 
 1. meghatározza a Honvédség vezetési szintjeit, azok feladat- és hatásköreit,
 
-2.[^8]
+2.[^9] dönt a Hvt. 61/B. § (1) bekezdésében meghatározott panaszokról,
 
 3. előkészíti a Honvédség létszámára, állományarányaira, felépítésére, felszerelésére, és az ország területének védelmi célú előkészítésére vonatkozó javaslatokat, gondoskodik a döntések végrehajtásáról,
 
@@ -106,6 +106,7 @@ jogszabályokat és – jogszabályi rendezést nem igénylő kérdésekben – 
 
 [^4]: A II. Fejezet (2–15. §) a 267/2013. (VII. 11.) Korm. rendelet 2. §-ával megállapított szöveg.
 [^5]: A 2. § (1) bekezdését a 152/2014. (VI. 6.) Korm. rendelet 136. § (2) bekezdése hatályon kívül helyezte.
-[^6]: A 2. § (2) bekezdés 15. pontja a 273/2015. (IX. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^7]: A 2. § (2) bekezdés 21. pontját a 273/2015. (IX. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
-[^8]: A 2. § (3) bekezdés 2. pontját a 259/2016. (VIII. 31.) Korm. rendelet 64. § a) pontja hatályon kívül helyezte.
+[^6]: [A 489/2016. (XII. 28.) Korm. rendelet 18. § a) pontjával elrendelt módosítás, amely szerint a „tervezet csapatmozgásai” szövegrész helyébe a „tervezett, határátlépéssel járó csapatmozgásai” szöveg lép, nem vezethető át.]
+[^7]: A 2. § (2) bekezdés 15. pontja a 273/2015. (IX. 21.) Korm. rendelet 1. § (1) bekezdésével megállapított szöveg.
+[^8]: A 2. § (2) bekezdés 21. pontját a 273/2015. (IX. 21.) Korm. rendelet 1. § (2) bekezdése iktatta be.
+[^9]: A 2. § (3) bekezdés 2. pontját a 259/2016. (VIII. 31.) Korm. rendelet 64. § a) pontja hatályon kívül helyezte, újonnan a 489/2016. (XII. 28.) Korm. rendelet 11. §-a iktatta be.

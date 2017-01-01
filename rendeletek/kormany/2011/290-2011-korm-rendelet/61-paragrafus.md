@@ -20,8 +20,8 @@ f) a szolgáltatás ellenértékeként a kártalanítási határozat meghozatal�
 
 (4) A kártalanítást Magyarország hivatalos pénznemében kell megállapítani és megfizetni.
 
-(5)[^81]
+(5)[^91]
 
 (6) A kártalanítás megfizetésére kötelezett a jogerős határozat vagy bírósági ítélet kézhezvételétől számított 15 napon belül köteles a kártalanítási összeget kifizetni.
 
-[^81]: A 61. § (5) bekezdését a 259/2016. (VIII. 31.) Korm. rendelet 64. § d) pontja hatályon kívül helyezte.
+[^91]: A 61. § (5) bekezdését a 259/2016. (VIII. 31.) Korm. rendelet 64. § d) pontja hatályon kívül helyezte.
