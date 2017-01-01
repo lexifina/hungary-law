@@ -1,4 +1,4 @@
-15. §[^10] (1) A mintavételező szervezet az e rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról – a tárgyév folyamán a 12. és 13. §-nak megfelelően végzett mintavételezés és a 14. § szerinti elemzés eredményeire alapozottan – a tárgyévet követő év június 15-ig jelentést küld a miniszternek.
+15. §[^12] (1) A mintavételező szervezet az e rendelet hatálya alá tartozó termékek kéntartalmának megállapított alakulásáról – a tárgyév folyamán a 12. és 13. §-nak megfelelően végzett mintavételezés és a 14. § szerinti elemzés eredményeire alapozottan – a tárgyévet követő év június 15-ig jelentést küld a miniszternek.
 
 (2) A jelentésnek a következő adatokat kell tartalmaznia:
 
@@ -36,4 +36,4 @@ c) az egyes hajók kapcsán a hajónapló és a tüzelőanyagok szállítójegye
 
 (4) A jelentést a tárgyévet követő június 30. napjáig a miniszter megküldi elektronikusan az Európai Bizottságnak.
 
-[^10]: A 15. § a 12/2015. (III. 31.) NFM rendelet 7. §-ával megállapított szöveg.
+[^12]: A 15. § a 12/2015. (III. 31.) NFM rendelet 7. §-ával megállapított szöveg.
