@@ -1,4 +1,4 @@
-1. számú melléklet a 27/2002. (XII. 5.) GKM rendelethez[^41]
+1. számú melléklet a 27/2002. (XII. 5.) GKM rendelethez[^42]
 
 ## A víziközlekedés irányítására szolgáló jelek kialakítása, méretei
 
@@ -144,4 +144,4 @@ B.1
 
 B.2 a
 
-[^41]: Az 1. számú melléklet a 107/2007. (XII. 23.) GKM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^42]: Az 1. számú melléklet a 107/2007. (XII. 23.) GKM rendelet 5. § (1) bekezdése szerint módosított szöveg.

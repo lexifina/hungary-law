@@ -10,3 +10,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-27-20-0
 | 2011-01-01 | 2002-27-20-0L.12 | 16/2006. (IV. 6.) GKM rendelet |
 | 2012-01-04 | 2002-27-20-0L.13 | 24/2004. (III. 10.) GKM–KvVM együttes rendelet |
 | 2015-04-01 | 2002-27-20-0L.14 | 16/2006. (IV. 6.) GKM rendelet |
+| 2017-01-01 | 2002-27-20-0L.15 | 66/2016. (XII. 29.) NFM rendelet |
