@@ -1,4 +1,4 @@
-2. számú melléklet az 53/2007. (XII. 7.) EüM rendelethez[^47]
+2. számú melléklet az 53/2007. (XII. 7.) EüM rendelethez[^49]
 
 A gyógyszertörzs adatállományának leírása
 
@@ -34,7 +34,7 @@ A gyógyszertörzs adatállományának leírása
 
 | TIPUS | A készítmény típusának kategóriája: G: gyógyszer, T: tápszer, R: radiofarmakon, H: homeopátiás szer, A: alapanyag,, F: FoNo készítmény, C: csomagolóanyag, K: készítési díj, S: gyógyászati segédeszköz, F: gyógyfürdő. |  |
 
-| OEP_TTT | A készítmény azonosítására az OEP által használt kód (TTT). | 2. § c); 4. § (5) aa) |
+| OEP_TTT | A készítmény azonosítására a NEAK által használt kód (TTT). | 2. § c); 4. § (5) aa) |
 
 | OEP_EAN | A termék EAN kódja. |  |
 
@@ -48,7 +48,7 @@ A gyógyszertörzs adatállományának leírása
 
 | OEP_KSZ | A készítmény kiszerelése. | 4. § (5) ad) |
 
-| OEP_ATC | OEP által meghatározott ATC kód. | 4. § (5) ae) |
+| OEP_ATC | NEAK által meghatározott ATC kód. | 4. § (5) ae) |
 
 | HATOANYAG | A készítmény fő hatóanyagának neve. | 4. § (5) ae) |
 
@@ -60,7 +60,7 @@ A gyógyszertörzs adatállományának leírása
 
 | RENDELHET | A készítmény rendelhetőségének azonosítója: V: vényköteles gyógyszerek VN: vény nélküli gyógyszerek I: rendelőintézeti járóbeteg-szakellátást vagy fekvőbeteg-szakellátást nyújtó szolgáltatók által biztosított körülmények között alkalmazható gyógyszerek J: a szakorvosi/kórházi diagnózist követő járóbeteg-ellátásban alkalmazható gyógyszerek SZ: szakorvos által rendelhető gyógyszerek | 4. § (5) ah) |
 
-| EGYENID | AZ OGYÉI által megállapított egyenértékűség esetén az OEP által adott csoport azonosító száma, ha nincs ilyen, akkor –1. | 4. § (5) ai) |
+| EGYENID | AZ OGYÉI által megállapított egyenértékűség esetén a NEAK által adott csoport azonosító száma, ha nincs ilyen, akkor –1. | 4. § (5) ai) |
 
 | OHATO_MENNY | Összes hatóanyag tartalom. |  |
 
@@ -282,4 +282,4 @@ BESOROLAS = 10000 * njk + 100 * eejk + ekjk
 
 | EUPONTOK EUPONTOK BNOKODOK GYOGYSZ EUPONTOK SZAKVKODOK EUPONTOK KIINTOR | ID ID ID ID ID ID ID ID | EUHOZZAR BNOHOZZAR BNOHOZZAR EUHOZZAR SZAKVHOZZAR SZAKVHOZZAR KIINTHOZZAR KIINTHOZZAR | EUPONT_ID EUPONT_ID BNO_ID GYOGYSZ_ID EUPONT_ID SZAKV_ID EUPONT_ID KIINT_ID |
 
-[^47]: A 2. számú mellékletet a 46/2008. (XII. 3.) EüM rendelet 5. § (2) bekezdése iktatta be, szövege a 41/2014. (VI. 30.) EMMI rendelet 18. §-a, a 23/2015. (IV. 28.) EMMI rendelet 93. § c)–d) pontja szerint módosított szöveg.
+[^49]: A 2. számú mellékletet a 46/2008. (XII. 3.) EüM rendelet 5. § (2) bekezdése iktatta be, szövege a 41/2014. (VI. 30.) EMMI rendelet 18. §-a, a 23/2015. (IV. 28.) EMMI rendelet 93. § c)–d) pontja, az 54/2016. (XII. 30.) EMMI rendelet 57. § g)–h) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-1. számú melléklet az 53/2007. (XII. 7.) EüM rendelethez[^46]
+1. számú melléklet az 53/2007. (XII. 7.) EüM rendelethez[^48]
 
 ## Az extra vonalkód adattartalma és műszaki leírása
 
@@ -64,7 +64,7 @@ h) A külön jogszabály szerint szakorvosi javaslatra rendelhető készítmény
 
 i) A külön jogszabály szerint szakorvosi javaslatra rendelhető készítmények esetén a szakorvosi javaslat időpontja és a vényfelírás időpontja között eltelt idő hónapban kifejezve, egész hónapra lefelé kerekítve, 2 számjegy hosszúságban. Amennyiben olyan gyógyszerről van szó, amely esetében a szakorvosi javaslat alapján határozatlan ideig lehet gyógyszert felírni és a javaslat 96 hónapnál régebbi, minden esetben a „99” számjegyeket kell használni. Amennyiben a gyógyszer rendelése szakorvosi javaslathoz nem kötött, akkor 2 karakter hosszúságban nullával feltöltve.
 
-j) Az OEP által a szoftver minősítésekor adott 3 számjegyből álló szám.
+j) A NEAK által a szoftver minősítésekor adott 3 számjegyből álló szám.
 
 k) A program által a vénynyomtatás során használt gyógyszertörzs érvényességi ideje kezdő dátumának hónapja és a vényfelírás dátumának hónapja között eltelt hónapok száma, egész hónapban számítva, lefelé kerekítve, 1 számjegy hosszúságban. Ha a két dátumban a hónapok megegyeznek, akkor a karakter értéke „0”; ha a gyógyszertörzs érvényességi ideje kezdő dátumából a hónap egy hónappal korábbi, mint a vényfelírás dátuma, akkor a karakter értéke „1” és így tovább.
 
@@ -102,7 +102,7 @@ mc) Amennyiben a h) pont szerinti orvos pecsétszáma hat számjegyű és els�
 
 | 37–38 | szakorvosi javaslat dátuma (relatív módon) | 2 | 2006.01.30 | 12 |
 
-| 39–41 | az OEP által minősítéskor adott szám | 3 | 020 | 020 |
+| 39–41 | a NEAK által minősítéskor adott szám | 3 | 020 | 020 |
 
 | 42–42 | törzs érvényességének kezdő hónapja (relatív módon) | 1 | 2006.12.01 | 2 |
 
@@ -116,4 +116,4 @@ mc) Amennyiben a h) pont szerinti orvos pecsétszáma hat számjegyű és els�
 
 4. Az „extra vonalkód” műszaki leírása: Code–128 jelkép MSZ EN 799:2001 számú szabvány 4.6 pontja alapján a jelkép méreteit és tűréseit az adott alkalmazási környezet határozza meg. A megfelelő leolvashatóság érdekében – figyelembe véve az olvashatóságot és a dekódolhatóságot – az X=0,33–0,495 mm közötti modulméret javasolt. Ugyancsak az alkalmazási környezet alapján a javasolt minimális vonalmagasság 12 mm (MSZ EN 799:2001 számú szabvány 4.6 pontja alapján). A jelkép előtt és mögött megjelenő világos nyugalmi mező X=0,33 mm esetén minimum 3,4 mm (MSZ EN 799:2001 számú szabvány 4.6.3.1 pontja alapján). A vonalkódba bekódolt adatok szemmel olvasható módon történő feltüntetése az adott alkalmazási környezetben tiltott.
 
-[^46]: Az eredeti melléklet megjelölését 1. számú mellékletre változatta és szövegét megállapította a 46/2008. (XII. 3.) EüM rendelet 5. § (1) bekezdése. Az 1. számú melléklet a 9/2009. (IV. 8.) EüM rendelet 4. § (3) bekezdése, a 38/2009. (XI. 6.) EüM rendelet 6. § (7) bekezdése, a 4/2010. (VIII. 12.) NEFMI rendelet 3. § (3) bekezdés a)–b) pontja szerint módosított szöveg.
+[^48]: Az eredeti melléklet megjelölését 1. számú mellékletre változatta és szövegét megállapította a 46/2008. (XII. 3.) EüM rendelet 5. § (1) bekezdése. Az 1. számú melléklet a 9/2009. (IV. 8.) EüM rendelet 4. § (3) bekezdése, a 38/2009. (XI. 6.) EüM rendelet 6. § (7) bekezdése, a 4/2010. (VIII. 12.) NEFMI rendelet 3. § (3) bekezdés a)–b) pontja, az 54/2016. (XII. 30.) EMMI rendelet 57. § c)–d) pontja szerint módosított szöveg.
