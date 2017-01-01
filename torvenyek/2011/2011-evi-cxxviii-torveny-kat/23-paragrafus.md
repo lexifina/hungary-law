@@ -30,7 +30,7 @@ h) biztosítja a védelmi igazgatás szerveinek működéséhez szükséges szak
 
 i) együttműködik az országos illetékességgel eljáró szervek ágazati katasztrófaelhárítási szervezeteivel,
 
-j) feladatai ellátásához az ingatlanügyi hatóságtól a számítógépes ingatlan-nyilvántartási rendszerből, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervtől adatot, a földmérési és térképészeti állami alapadatok kezelésére jogosult szervtől földmérési és térképészeti állami alapadatokat, termékeket kér,
+j) feladatai ellátásához az ingatlanügyi hatóságtól a számítógépes ingatlan-nyilvántartási rendszerből, a polgárok személyi adatainak és lakcímének nyilvántartását kezelő szervtől adatot, a földmérési és térképészeti állami alapadatok kezelésére jogosult szervtől földmérési és térképészeti állami alapadatokat, termékeket kér,
 
 k) gondoskodik a közfoglalkoztatás feltételeinek rendelkezésre állásáról a katasztrófák elleni védekezésre való felkészüléssel, a védekezéssel és a helyreállítással összefüggő katasztrófavédelmi feladatok hatékonyabb ellátása érdekében,
 
@@ -61,3 +61,5 @@ j) szükség esetén – a külpolitikáért felelős miniszterrel együttműkö
 k) szükség esetén – a külpolitikáért felelős miniszterrel együttműködve – biztosítja a nemzetközi segítség fogadását, elősegíti kapacitásai függvényében a nemzetközi segítségnek a veszélyhelyzet vagy a katasztrófa károsító hatása által érintett területre való eljuttatását, és szétosztását,
 
 l) végzi az Európai Unió kötelező jogi aktusából vagy nemzetközi szerződésből eredő katasztrófavédelmi feladatokat.
+
+(6) A hivatásos katasztrófavédelmi szerv központi szerve vezetője irányítja az országos szúnyoggyérítési program keretében a szúnyoggyérítéssel kapcsolatos feladatok ellátását.

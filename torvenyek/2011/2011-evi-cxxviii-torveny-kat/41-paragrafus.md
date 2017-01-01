@@ -6,7 +6,7 @@ b) a súlyos káresemény-elhárítási terv részeként súlyos balesetek megel
 
 c) a súlyos káresemény-elhárítási tervben megjelölt feladatok végrehajtásához szükséges feltételeket biztosítani,
 
-d) a súlyos káresemény-elhárítási tervet a külön jogszabályban meghatározott esetekben, de legalább háromévenként felülvizsgálni, és szükség szerint módosítani,
+d) a súlyos káresemény-elhárítási tervet a külön jogszabályban meghatározott esetekben, de legalább ötévenként felülvizsgálni, és szükség szerint módosítani,
 
 e) a súlyos káresemény-elhárítási terv végrehajthatóságát a külön jogszabályban meghatározott módon gyakorlattal ellenőrizni,
 

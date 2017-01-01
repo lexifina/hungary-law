@@ -18,7 +18,7 @@ b) a hadkiegészítő parancsnokság nyilvántartása,
 
 c) a személyi adat- és lakcímnyilvántartás,
 
-d) a központi közúti közlekedési nyilvántartó szerv által vezetett járműnyilvántartás.
+d) a közúti közlekedési nyilvántartó szerv által vezetett járműnyilvántartás.
 
 (4) A (3) bekezdésben meghatározott adatszolgáltató az adatszolgáltatást 15 napon belül térítésmentesen teljesíti.
 

@@ -82,7 +82,7 @@ d) oxidáló, tűz- vagy környezetre veszélyes tulajdonságú folyadék halmaz
 
 e) egyéb veszélyes anyag kikerülése legalább a felső küszöbérték 0,1%-át elérő mennyiségben,
 
-f) veszélyes anyagokkal foglalkozó létesítmény leállítása.
+f)
 
 31. Veszélyes tevékenység: olyan, veszélyes anyagok jelenlétében végzett tevékenység, amely ellenőrizhetetlenné válása esetén tömeges méretekben veszélyeztetheti, illetve károsíthatja az emberi egészséget, a környezetet, az élet- és vagyonbiztonságot.
 
