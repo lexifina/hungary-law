@@ -2,4 +2,16 @@
 
 71. § (1)
 
-(2)–(3)
+(2) Az Ütv. IV/A. Fejezete helyébe a következő fejezet lép:
+
+„IV/A. FEJEZET
+
+ELEKTRONIKUS ÜGYINTÉZÉS
+
+30/A. § (1) Az ügyész hivatali elektronikus aláírása a Legfőbb Ügyészség által rendszeresített elektronikus aláírás. Az ügyész a hatáskörébe tartozó ügyben elkészített, a kiadmányozási jogkörébe tartozó elektronikus okiratot elektronikus aláírásával látja el.
+
+(2) Az ügyészség által szabályozott vagy központi elektronikus ügyintézési szolgáltatás során kiállított, minősített vagy minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással ellátott irat közokirat.”
+
+(3) Az Ütv. „Átmeneti rendelkezések” alcíme a következő 41/A. §-sal egészül ki:
+
+„41/A. § E törvénynek az egységes elektronikus ügyintézési rendszer kialakításához szükséges egyes törvények módosításáról szóló 2016. évi CXXI. törvénnyel megállapított IV/A. Fejezetét 2017. december 31-ig csak akkor kell alkalmazni, ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően vállalta. Ezen vállalás hiányában 2017. december 31-ig az érintett szerv vonatkozásában az elektronikus kapcsolattartásra e törvény 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.”

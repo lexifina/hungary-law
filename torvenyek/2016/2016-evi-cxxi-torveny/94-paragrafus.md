@@ -158,7 +158,11 @@ o) összerendelési nyilvántartás.”
 
 (15)
 
-(16)
+(16) Az E-ügyintézési tv. 105. § (1) bekezdése a következő n) ponttal egészül ki:
+
+(Felhatalmazást kap a Kormány, hogy rendeletben állapítsa meg)
+
+„n) a papír alapú dokumentumokról elektronikus úton történő másolat készítésére vonatkozó részletes szabályokat.”
 
 (17)–(18)
 
@@ -166,7 +170,33 @@ o) összerendelési nyilvántartás.”
 
 „(2) Az 1. § 17. pont a)–k) alpontja szerinti jogalanyok – a (2b) és (2c) bekezdésben foglalt ügyek kivételével – 2017. január 1-jétől az (1) bekezdés szerinti határidőig a Felügyeletnél az elektronikus ügyintézési szolgáltatás megkezdését megelőzően, a 17. alcím szerinti adatszolgáltatás teljesítésével bejelenthetik, hogy a feladat- és hatáskörükbe tartozó egyes ügyek vagy valamennyi ügy tekintetében az (1) bekezdés szerinti határidőt megelőzően is vállalják az e törvény szabályainak megfelelő elektronikus ügyintézés biztosítását.”
 
-(20)–(22)
+(20) Az E-ügyintézési tv. 108. §-a a következő (2a)–(2c) bekezdéssel egészül ki:
+
+„(2a) A Felügyelet a (2) bekezdés szerinti jogalanynak a Kormány rendeletében meghatározott adatait, valamint (2) bekezdés szerint a bejelentéssel érintett ügyeket – ha a jogalany valamennyi feladat- és hatáskörébe tartozó ügy tekintetében vállalta, akkor ennek megjelölését – a Hivatalos Értesítőben a bejelentést követő 8 napon belül közzéteszi.
+
+(2b) 2017. december 31-ig a polgári perrendtartásról szóló 1952. évi III. törvény (a továbbiakban: Pp.) hatálya alá tartozó ügyekben e törvény Második, Harmadik és Ötödik Részének rendelkezései közül csak azokat kell alkalmazni, amelyet a Pp. megjelöl.
+
+(2c) 2017. december 31-ig a büntetőeljárásról szóló 1998. évi XIX. törvény (a továbbiakban: Be.) hatálya alá tartozó ügyekben e törvény Második, Harmadik és Ötödik Részének rendelkezései közül csak azokat kell alkalmazni, amelyet a Be. megjelöl.”
+
+(21) Az E-ügyintézési tv. a következő 108/A. és 108/B. §-sal egészül ki:
+
+„108/A. § (1) 2019. december 31-ig, ha az ügyfél által elektronikusan benyújtani kívánt nyilatkozat vagy mellékletének (a továbbiakban e § alkalmazásában együtt: nyilatkozat) mérete az elektronikus ügyintézést biztosító szerv által megjelölt méretkorlátot meghaladja, elektronikus a kapcsolattartás akkor is, ha az ügyfél a nyilatkozatát tartós adathordozón nyújtja be és a nyilatkozat megfelel a 17. § (1) bekezdés b) pontjában foglaltaknak.
+
+(2) Ha jogszabály eltérően nem rendelkezik, tartós adathordozón történő benyújtás esetén az ügyfél a (3) bekezdésben foglalttól eltérő elektronikus kapcsolattartás keretében tájékoztatja az elektronikus ügyintézést biztosító szervet arról, hogy nyilatkozatát tartós adathordozón nyújtja be. Ha jogszabály eltérően nem rendelkezik, az ügyfél ezen nyilatkozata megtételének visszaigazolását követő 3 munkanapon belül köteles a tartós adathordozót benyújtani személyesen vagy postai úton.
+
+(3) Ha jogszabály eltérően nem rendelkezik, a (3) bekezdés esetén a nyilatkozat benyújtási idejének az ügyfél (4) bekezdés szerinti tájékoztatása időpontját, az ügyintézési határidő tekintetében pedig nyilatkozat beérkezési idejének a (3) bekezdés szerinti adathordozó beérkezési idejét kell tekinteni.
+
+(4) Ha jogszabály eltérően nem rendelkezik, az elektronikus ügyintézést biztosító szerv a (1) bekezdés szerinti méretkorlát meghaladása esetén jogosult az ügyfél részére a (1)–(3) bekezdés megfelelő alkalmazásával a nyilatkozatot tartós adathordozón is továbbítani.
+
+108/B. § (1) 2019. december 31-ig kivételt képez az elektronikus kapcsolattartás alól, ha a kézbesítendő, illetve továbbítandó irat, okirat, egyéb papír alapú beadvány (e § alkalmazásban a továbbiakban: beadvány) papír alapú bemutatása, megtekintése azért szükséges, mert az eredetileg papír alapú beadványok nagy mennyisége, illetve sajátos alakja miatt azok digitalizálása aránytalan nehézséggel járna.”
+
+(22) Az E-ügyintézési tv. 62. alcíme a következő 110/A. és 110/B. §-sal egészül ki:
+
+„110/A. § (1) 2017. január 31-ig a Központi Ügyfél-regisztrációs Nyilvántartásban szereplő személyek természetes személyazonosító adatait a Központi Ügyfél-regisztrációs Nyilvántartást vezető szerv megfeleltethetőség és kapcsolati kód képzése céljából átadja a 31. § (2) bekezdése szerinti nyilvántartást vezető szerveknek a 31. § (2) bekezdés a)–c) pontja szerinti sorrendben.
+
+(2) Az (1) bekezdés szerinti adatátadást követő 15 napon belül a 31. § (2) bekezdése szerinti nyilvántartást vezető szerv megfeleltethetőség esetén a kapcsolati kódot a hozzá tartozó természetes személyazonosító adatokkal átadja a Központi Ügyfél-regisztrációs Nyilvántartást vezető szervnek bejegyzés céljából.
+
+110/B. § 2017. december 31-ig, ha jogszabály alapján az ügyfél elektronikus ügyintézésre köteles és a 14. § szerinti elektronikus elérhetősége az elektronikus ügyintézést biztosító szerv számára nem ismert, az elektronikus ügyintézést biztosító szerv az ügyféllel első alkalommal papír alapon veszi fel a kapcsolatot, és ezzel egyidejűleg felhívja az ügyfelet arra, hogy beadványait, iratait, okirati bizonyítékait kizárólag elektronikus úton nyújthatja be, és tájékoztatja a nem elektronikus úton történő benyújtás jogkövetkezményeiről.”
 
 (23) Az E-ügyintézési tv.
 
