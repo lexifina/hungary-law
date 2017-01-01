@@ -40,9 +40,9 @@ r) meghatározza az örökségvédelmi engedélyhez vagy tudomásulvételhez kö
 
 s) meghatározza a műemlékek tudományos kutatásának, értékvizsgálatának szabályait, az építéstörténeti kutatási dokumentáció kötelező tartalmi elemeit;
 
-t) állapítsa meg a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzését akadályozó tevékenység megelőzésének és az ellenőrzés rendjét,
+t) állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján és véleményének kikérésével – a kiemelt nemzeti emlékhely nemzeti kulturális értéke megőrzését akadályozó tevékenység megelőzésének és az ellenőrzésnek a rendjét, a kiemelt nemzeti emlékhely területére vonatkozó közterület-használat szabályait és díjait;
 
-u) állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság véleményének kikérésével – a kiemelt nemzeti emlékhely területére vonatkozó közterület-használat szabályait és díjait.
+u) állapítsa meg – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján és véleményének kikérésével – a 61/L. § szerinti közigazgatási bírság, helyszíni bírság megállapításának és megfizetése módjának részletszabályait;
 
 v)
 

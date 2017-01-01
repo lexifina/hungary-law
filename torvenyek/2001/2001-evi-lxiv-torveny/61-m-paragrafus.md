@@ -1,0 +1,1 @@
+61/M. § A 61/L. § szerinti közigazgatási bírság, helyszíni bírság megállapításának és megfizetése módjának részletszabályait a Kormány – a Kiemelt Nemzeti Emlékhely Bizottság javaslata alapján és véleményének kikérésével – rendeletben határozza meg.
