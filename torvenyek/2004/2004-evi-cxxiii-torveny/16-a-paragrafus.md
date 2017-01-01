@@ -2,19 +2,11 @@
 
 ## A megváltozott munkaképességű személyek foglalkoztatása
 
-16/A. § (1) Rehabilitációs kártyára az a megváltozott munkaképességű személy jogosult, akinek a rehabilitációs hatóság által végzett komplex minősítés szerint
+16/A. § (1) Rehabilitációs kártyára az a megváltozott munkaképességű személy jogosult, aki a rehabilitációs hatóság által végzett hatályos komplex minősítés szerint a megváltozott munkaképességű személyek ellátásairól és egyes törvények módosításáról szóló 2011. évi CXCI. törvény 3. § (2) bekezdés a) pontjában, vagy b) pont ba) vagy bb) alpontjában foglalt minősítési kategóriába tartozik.
 
-a) foglalkoztathatósága rehabilitációval helyreállítható, vagy
+(2) Rehabilitációs kártyára az a személy is jogosult, aki 2011. december 31-én III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban vagy rendszeres szociális járadékban részesült.
 
-b) tartós foglalkozási rehabilitációt igényel.
-
-(2) Rehabilitációs kártyára az a személy is jogosult, aki
-
-a) 2011. december 31-én III. csoportos rokkantsági, baleseti rokkantsági nyugdíjban, rendszeres szociális járadékban részesült, vagy
-
-b) rehabilitációs járadékban részesül.
-
-(3) A rehabilitációs kártyára való jogosultság megszűnik, ha a rehabilitációs hatóság megállapítja, hogy az (1) bekezdés vagy a (2) bekezdés b) pontja szerinti feltétel nem teljesül.
+(3) A rehabilitációs kártyára való jogosultság megszűnik, ha a rehabilitációs hatóság megállapítja, hogy az (1) bekezdés szerinti feltétel nem teljesül.
 
 (4) A jogosult kérelmére a rehabilitációs hatóság gondoskodik a Rehabilitációs kártya igénylésével kapcsolatos eljárás megindításáról, ennek keretében adatot szolgáltat az állami adóhatóság részére a rehabilitációs kártyára való jogosultság fennállásáról.
 
