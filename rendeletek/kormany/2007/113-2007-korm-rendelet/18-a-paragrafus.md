@@ -1,9 +1,9 @@
-## A harmadik ország állampolgárságával rendelkező családtag számára kiadott kishatárforgalmi engedély[^49]
+## A harmadik ország állampolgárságával rendelkező családtag számára kiadott kishatárforgalmi engedély[^50]
 
-18/A. §[^50] (1) A tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i, 1931/2006/EK európai parlamenti és tanácsi rendeletben meghatározott, külön nemzetközi szerződés szerinti kishatárforgalmi engedély (a továbbiakban: kishatárforgalmi engedély) kiadására irányuló közigazgatási hatósági eljárás a nemzetközi szerződésben meghatározott konzuli szolgálat konzuli tisztviselőjének a hatáskörébe tartozik.
+18/A. §[^51] (1) A tagállamok külső szárazföldi határain való kishatárforgalom szabályainak meghatározásáról, valamint a Schengeni Egyezmény rendelkezéseinek módosításáról szóló, 2006. december 20-i, 1931/2006/EK európai parlamenti és tanácsi rendeletben meghatározott, külön nemzetközi szerződés szerinti kishatárforgalmi engedély (a továbbiakban: kishatárforgalmi engedély) kiadására irányuló közigazgatási hatósági eljárás a nemzetközi szerződésben meghatározott konzuli szolgálat konzuli tisztviselőjének a hatáskörébe tartozik.
 
-(2)[^51] A kishatárforgalmi engedélyt a hatóságnak a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerint kártya formátumban kell kiállítani.
+(2)[^52] A kishatárforgalmi engedélyt a hatóságnak a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 2002. június 13-i 1030/2002/EK tanácsi rendelet, valamint a harmadik országok állampolgárai tartózkodási engedélye egységes formátumának megállapításáról szóló 1030/2002/EK rendelet módosításáról szóló, 2008. április 18-i 380/2008/EK tanácsi rendelet szerint kártya formátumban kell kiállítani.
 
-[^49]: A 18/A. §-t megelőző alcímet a 327/2007. (XII. 11.) Korm. rendelet 1. §-a iktatta be.
-[^50]: A 18/A. §-t a 327/2007. (XII. 11.) Korm. rendelet 1. §-a iktatta be.
-[^51]: A 18/A. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
+[^50]: A 18/A. §-t megelőző alcímet a 327/2007. (XII. 11.) Korm. rendelet 1. §-a iktatta be.
+[^51]: A 18/A. §-t a 327/2007. (XII. 11.) Korm. rendelet 1. §-a iktatta be.
+[^52]: A 18/A. § (2) bekezdése a 290/2010. (XII. 21.) Korm. rendelet 6. § (1) bekezdésével megállapított szöveg.
