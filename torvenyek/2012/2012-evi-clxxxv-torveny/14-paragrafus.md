@@ -1,4 +1,4 @@
-14. § (1) Hulladékot csak hulladékgazdálkodási engedély birtokában lehet szállítani, kivéve ha
+14. § (1) Hulladékot csak hulladékgazdálkodási engedély birtokában vagy nyilvántartásba vétel alapján lehet szállítani, kivéve ha
 
 a) a természetes személy ingatlanhasználó az elkülönítetten gyűjtött háztartási hulladékot hulladékgyűjtő pontra, hulladékgyűjtő udvarba, átvételi helyre vagy hulladékkezelő létesítménybe szállítja, valamint
 

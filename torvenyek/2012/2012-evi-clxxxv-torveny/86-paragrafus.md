@@ -26,4 +26,6 @@ jogsértés esetén nem mérsékelhető.
 
 (6) A hulladékgazdálkodási bírság megfizetése nem mentesít a büntetőjogi,, továbbá a kártérítési felelősség, valamint a tevékenység korlátozására, felfüggesztésére, tiltására vagy a megfelelő védekezés kialakítására, a természetes vagy eredeti környezeti állapot helyreállítására vonatkozó kötelezettség teljesítése alól.
 
+(6a) Nincs helye közigazgatási bírság alkalmazásának települési hulladék közterületen engedély nélkül történő lerakása, elhelyezése miatt.
+
 (7) A jogerősen kiszabott hulladékgazdálkodási bírság adók módjára behajtandó köztartozás.

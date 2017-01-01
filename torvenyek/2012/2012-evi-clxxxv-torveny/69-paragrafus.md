@@ -22,6 +22,20 @@ b) az állam vagy az Európai Unió által támogatott kármentesítés során k
 
 c) 5000 lakosegyenérték szennyezőanyag-terhelést meg nem haladó szennyvíztisztító telepen képződött települési szennyvíziszapot helyeznek el hulladéklerakóban, és a szennyvíziszapban lévő anyagok a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet mellékletében meghatározott határértékeket meghaladják, és ennek következtében a szennyvíziszap mezőgazdasági célú felhasználása termőföldön nem lehetséges,
 
-d) a hulladéklerakóban települési szennyvíziszapkomposztot helyeznek el takarórétegként, amelyből a biogázt és a növények számára hasznosítható tápanyagokat előzetesen kinyerték, majd a kinyerést követően visszamaradt szennyvíziszapot komposztálták, és a szennyvíziszapkomposztban található anyagok a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet mellékletében meghatározott szennyvíziszapkomposztra vonatkozó határértékeket meghaladják, és ennek következtében a szennyvíziszapkomposzt mezőgazdasági célú felhasználása termőföldön nem lehetséges.
+d) a hulladéklerakóban települési szennyvíziszapkomposztot helyeznek el takarórétegként, amelyből a biogázt és a növények számára hasznosítható tápanyagokat előzetesen kinyerték, majd a kinyerést követően visszamaradt szennyvíziszapot komposztálták, és a szennyvíziszapkomposztban található anyagok a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet mellékletében meghatározott szennyvíziszapkomposztra vonatkozó határértékeket meghaladják, és ennek következtében a szennyvíziszapkomposzt mezőgazdasági célú felhasználása termőföldön nem lehetséges,
 
-(6) A járulékfizetésre kötelezett a települési szennyvíziszap hulladéklerakóban történő lerakása után az 5. melléklet 2. pontjában foglalt táblázat 4. pontjában meghatározott mértékű hulladéklerakási járulék 50%-át fizeti meg, ha a szennyvíziszapból a biogázt és a növények számára hasznosítható tápanyagokat előzetesen kinyerték és a kinyerést követően visszamaradt szennyvíziszapban található anyagok a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet mellékletében meghatározott szennyvíziszapra vonatkozó határértékeket meghaladják.
+e) azbesztet tartalmazó, lakosságnál képződött építőanyag hulladék lerakása valósul meg,
+
+f) erőművi és hulladékégetésből származó nem veszélyes
+
+fa) salak, pernye,
+
+fb) egyéb füstgáz tisztításából származó hulladék
+
+lerakása valósul meg,
+
+g) nem veszélyes kohászati salak hulladék lerakása valósul meg,
+
+h) a 15. § (6) bekezdése szerinti építési célú felhasználás valósul meg.
+
+(6) A járulékfizetésre kötelezett a települési szennyvíziszap hulladéklerakóban történő lerakása után 68. § (2) bekezdésében meghatározott mértékű hulladéklerakási járulék 50%-át fizeti meg, ha a szennyvíziszapból a biogázt és a növények számára hasznosítható tápanyagokat előzetesen kinyerték és a kinyerést követően visszamaradt szennyvíziszapban található anyagok a szennyvizek és szennyvíziszapok mezőgazdasági felhasználásának és kezelésének szabályairól szóló kormányrendelet mellékletében meghatározott szennyvíziszapra vonatkozó határértékeket meghaladják.

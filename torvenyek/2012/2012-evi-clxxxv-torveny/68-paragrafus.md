@@ -2,7 +2,7 @@
 
 68. § (1) A hulladéklerakó üzemeltetője, illetve a (2) bekezdésben meghatározott ártalmatlanítási művelet végzője (a továbbiakban együtt: járulékfizetésre kötelezett) a hulladéklerakás csökkentése, valamint az e törvényben meghatározott hasznosítási arányok teljesítése érdekében hulladéklerakási járulékot fizet. A hulladéklerakási járulék adók módjára behajtandó köztartozás. A hulladéklerakási járulék nem áthárítható.
 
-(2) A hulladéklerakási járulékot a 2. mellékletben meghatározott D1, D2, D3, D4, D5 és D12 kóddal ellátott ártalmatlanítási művelet után kell befizetni az 5. mellékletben meghatározott hulladékfajta, -jelleg, illetve -típus esetében és számítási mód szerint. A hulladéklerakási járulék megfizetésének kötelezettsége az 5. mellékletben meghatározott hulladék lerakásával keletkezik.
+(2) Hulladéklerakási járulékot – a 69. § (5) bekezdésében meghatározott kivételekkel – a hulladékgazdálkodással kapcsolatos ártalmatlanítási és hasznosítási műveletek felsorolásáról szóló miniszteri rendeletben meghatározott D1, D2, D3, D4, D5 és D12 kóddal ellátott ártalmatlanítási művelettel ártalmatlanított hulladék után kell fizetni. A hulladéklerakási járulék megfizetésének kötelezettsége a hulladék elhelyezésével keletkezik. A járulék mértékét 6000 Ft/tonna egységár alapulvételével a negyedévenkénti járulékfizetéssel érintett hulladék tömege alapján kell meghatározni.
 
 (3) A járulékfizetésre kötelezett a járulékfizetési kötelezettségét annak keletkezésétől számított 15 napon belül a környezetvédelmi hatóságnak – az e célra készített formanyomtatványon – bejelenti (bejelentés).
 
@@ -12,7 +12,7 @@
 
 a) a járulékfizetés alapjára és a megfizetett járulék összegére, valamint
 
-b) a hulladéklerakóban elhelyezett hulladék mennyiségére, fajtájára, jellegére és típusára
+b) a hulladéklerakóban elhelyezett hulladék mennyiségére, jellegére és típusára
 
 vonatkozó adatokat.
 

@@ -22,4 +22,4 @@
 
 (9) Az e törvény végrehajtására kiadott kormányrendelet vagy miniszteri rendelet a (4)–(7) bekezdésben foglalt feltételekhez kapcsolódó szabályokat részletesen meghatározhatja.
 
-(10) Az Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség a veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló kormányrendelet 15. § (1) bekezdés d) pontjában meghatározott minősítés tárgyában a döntését a kérelem benyújtását követő 50 napon belül hozza meg.
+(10) A veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló kormányrendelet szerinti minősítés ügyintézési határideje 50 nap.
