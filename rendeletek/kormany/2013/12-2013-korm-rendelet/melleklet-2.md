@@ -24,4 +24,4 @@
 
 2. melléklet a 12/2013. (I. 22.) Korm. rendelethez[^9]
 
-[^9]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 40. § (1) bekezdés a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 114. §-át.
+[^9]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 37. § a) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
