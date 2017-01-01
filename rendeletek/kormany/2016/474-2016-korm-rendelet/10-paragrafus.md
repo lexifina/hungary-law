@@ -1,0 +1,5 @@
+## 9. § Az előirányzatokból nyújtott költségvetési támogatások tekintetében – a sportról szóló 2004. évi I. törvény (a továbbiakban: Stv.) 41. § c) pontjában a Magyar Olimpiai Bizottság (a továbbiakban: MOB), az Stv. 46/A. § (6) bekezdés c) pontjában a Magyar Paralimpiai Bizottság, az Stv. 46/G. § (5) bekezdés c) pontjában a Nemzeti Versenysport Szövetség, az Stv. 46/M. § (6) bekezdés c) pontjában a Nemzeti Diák, Hallgatói és Szabadidősport Szövetség (a továbbiakban együtt: sportköztestület) tekintetében meghatározott feladatra is tekintettel – az előirányzatok kezelő szerve a miniszter által vezetett minisztérium (a továbbiakban: minisztérium).
+
+10. § (1) A kommunikációs feladatok ellátására legfeljebb a kedvezményezettnek nyújtott támogatás öt százaléka fordítható, kivéve a „Szabadidősport támogatása”, valamint a „Sport népszerűsítésével összefüggő kiadások” előirányzatok terhére nyújtott támogatásokat.
+
+(2) Az előirányzatokon összesen rendelkezésre álló összeg öt százaléka az előirányzatok pályázat útján történő felhasználására, a pályáztatás lebonyolítására, valamint a költségvetési támogatások szerződésszerű felhasználásának ellenőrzésére is fordítható.
