@@ -1,5 +1,3 @@
 ## 1–2. §
 
-## 2–3.[^2]
-
-[^2]: A 2–3. alcím (3–20. §) a 64. § (3) bekezdése alapján 2017. január 1-jén lép hatályba.
+## 2. Az építésügyi és az építésfelügyeleti hatóságok kijelöléséről és működési feltételeiről szóló 343/2006. (XII. 23.) Korm. rendelet módosítása
