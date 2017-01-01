@@ -20,7 +20,7 @@ g) az állami fenntartású szakképző iskolák felnőttoktatási tevékenység
 
 h) a központi keretösszeget,
 
-i) a 19/A. § (2) bekezdés b) pontja és (3) bekezdése szerinti feladatokra elkülönített keretösszeget,
+i)
 
 j) az állami fenntartású szakképző iskolák működési költségéhez való hozzájárulásra biztosítható keretösszeget,
 

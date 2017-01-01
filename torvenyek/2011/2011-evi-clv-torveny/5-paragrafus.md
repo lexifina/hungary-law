@@ -24,6 +24,6 @@ d) a hozzájárulásra kötelezett saját munkavállalói számára a felnőttk�
 
 e) a d) pont szerinti teljesítés esetén a bruttó kötelezettség csökkenthető az 5. § ab) pontja szerinti gyakorlati képzésre a 8. § (1) bekezdése alapján számított csökkentő tétel, de legfeljebb a bruttó kötelezettség 16,5 százaléka mértékéig, feltéve, hogy a hozzájárulásra kötelezett
 
-ea) az 5. § ab) alpontja szerint, havonta legalább – a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 4. § (2)–(6) bekezdése szerinti partner- vagy kapcsolódó vállalkozás esetében együttesen számított – 45 fő tanulószerződéses tanuló gyakorlati képzésével teljesíti részben a hozzájárulási kötelezettségét, és
+ea) az 5. § ab) alpontja szerint, az év 1–6. és 9–12. hónapjában legalább – a kis- és középvállalkozásokról, fejlődésük támogatásáról szóló 2004. évi XXXIV. törvény 4. § (2)–(6) bekezdése szerinti partner- vagy kapcsolódó vállalkozás esetében együttesen számított – 30 fő tanulószerződéses tanuló gyakorlati képzésével teljesíti részben a hozzájárulási kötelezettségét, és
 
 eb) az elszámolt képzésről a jogszabályban előírt adatszolgáltatást az állami szakképzési és felnőttképzési szervhez a 9. § (1) bekezdés c) pontjában meghatározott határidőig teljesítette. A határidő elmulasztása esetén igazolási kérelem benyújtásának helye nincs.

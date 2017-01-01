@@ -35,3 +35,7 @@ d) a szakképző iskolákra vonatkozó adatfeldolgozás tekintetében az inform�
 (16) Az oktatásért felelős miniszternek a (15) bekezdésben meghatározott feladatai ellátásához szükséges forrás biztosítására az oktatásért felelős miniszter és a szakképzésért felelős miniszter évente külön megállapodást köthet.
 
 (17) Az alaprész központi keretéből támogatás nyújtható a szomszédos államokban élő magyarokról szóló törvény szerinti szomszédos államban működő, magyar nyelvű szakképző iskolában folytatott képzésnek az állami szakképzési és felnőttképzési szerv koordinációjával megvalósuló fejlesztésére.
+
+(18) Az alaprész központi keretéből támogatás nyújtható az állami szakképzési és felnőttképzési szerv részére a Nemzeti Szakképzési és Felnőttképzési Tanács működtetésével, valamint szakképzési és felnőttképzési szaklapok szerkesztésével, kiadásával összefüggő feladataira.
+
+(19) A WorldSkills és EuroSkills versenyeken érmet szerző magyar versenyzőket – az eredmények elismeréseként, miniszteri rendeletben meghatározottak szerint – díjazás illeti meg, amelyhez a pénzügyi forrást az alaprész központi keretéből szükséges biztosítani.
