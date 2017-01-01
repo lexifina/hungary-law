@@ -1,4 +1,4 @@
-## 83. §[^3]
+## 83. §[^38]
 
 1. melléklet a 10/2015. (VII. 30.) HM rendelethez
 
@@ -2580,42 +2580,4 @@ b) Részletes fizikális lehet, műtéti leírás.
 
 c) 134.1. alszakasz szerint minősítendők a kisfokú, mozgást nem gátló, műtétet nem igénylő esetek. 134.2. alszakasz szerint minősítendők a műtéti correctióra szoruló esetek. A 134.3. alszakasz szerint kell minősíteni a súlyos és jelentős kiterjedésű vagy ismételten műtött eseteket. Hivatásos és szerződéses állománybavételkor a minősítés 134.2 „E”.
 
-d) K: 11; F: 1.
-
-e) Egyes esetekben, mint pl. a szolgálati feladat teljesítése közben egy nagy súly megemelése hatására kialakuló sérv esetén, felmerülhet a katonai kötelmekkel való összefüggés lehetősége.
-
-| 135 A húgyszervek sebészi kezelésének következményei | A3 | A4 | A5 | A6 | BNO |
-
-| 1. | működési zavarok nélkül | KLGS | A | A | A | N32, N99, T83 |
-
-| 2. | mérsékelt működési zavarral | E | KLGS | K | K |
-
-| 3. | kp. súlyos működési zavarral | E | E | K | K |
-
-| 4. | súlyos működési zavarral | E | E | E | KLGS |
-
-a) Itt minősítendők a húgyszervek külső nyílásának szövődményei, húgyszervek (belső) anastomosisának és „elterelő áthidalás”-ának (bypass shunt) szövődményei, implantált és átültetett húgyszervi eszközök mechanicus szövődményei, egyéb húgyszervi műtét utáni szövődmények.
-
-b) Műtéti leírás, részletes fizikális lelet, We, teljes vérkép és vizelet, Se kreatinin, UN, vizelet bact. tenyésztés, iv. pyelographia CT, kontrasztanyagos CT vizsgálat.
-
-c) 135.1. alszakasz szerint minősítendők a pyelotomia, ureterotomia utáni állapot pyuria, recidiva nélkül, műtét után 1 évvel. 135.2. alszakasz szerint minősítendők a pyuria, haematuria, üregi deformitás, ürülési zavarok. 135.3. alszakasz szerint minősítendők a nephrectomia,a veseresectio, pyeloplastica. 135.4. alszakasz szerint minősítendők a húgyszervi műtétek utáni súlyos szövődmények. Hivatásos és szerződéses állományba vételkor a minősítés 135.1 és 2 „E”.
-
-d) K: 3, 4, 6, 11, 12, 14, 21; F:1, 2.
-
-e) A katonai kötelmekkel való összefüggés nem vélelmezhető.
-
-| 136 A méh, petevezeték, petefészek, medencei kötőszövet és hashár- tya gyulladásos betegségei | A3 | A4 | A5 | A6 | BNO |
-
-| 1. | enyhe | I | I | K | K | N70–N71, N73 |
-
-| 2. | súlyos | E | E | K | K |
-
-a) Salpingo-oophoritis chronica, abscessus ovarii, salpingitis, pyosalpinx, abscessus cavi Douglasi, peritonitis chronica pelvicis femininae, adhaesiones peritoneales pelvicis femininae, endomyometritis, uterus abscessus.
-
-b) We, teljes vérkép és vizelet, máj- és vesefunctios laboratóriumi vizsgálatok, váladék bacteriológiai és cytológiai vizsgálata, kismedencei és hasi UH, szükség szerint laparoscopia.
-
-c) Nőgyógyászati elbírálást minden esetben nőgyógyász szakorvos végezze. A minősítéshez nélkülözhetetlen a 2 hétnél nem régebbi laborvizsgálati leletek, 1 hónapnál nem régebbi váladék és 2 hónapnál nem régebbi colposcopos és cytologiai lelet. Hivatásos és szerződéses állományba vételkor a minősítés a 136.1 „E”.
-
-d) K: 3, 4, 6, 11, 12, 14, 15, 21; F: 1–2.
-
-[^3]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
+[^38]: A 83. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

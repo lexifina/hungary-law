@@ -10,10 +10,17 @@ a) a honvéd beosztásának pontos megnevezését,
 
 b) a honvéd által ellátott szolgálat során tanúsított magatartásának – az abban bekövetkezett változások bemutatásával való – jellemzését,
 
-c) a honvéd által a véleményezés évében, és az azt megelőző 2 évben kivett éves rendes szabadság időtartamát, és
+c)[^30] a honvéd által a véleményezés évében, és az azt megelőző 2 évben kivett éves rendes szabadság időtartamát,
 
-d) az arra vonatkozó álláspontot, hogy a honvéd a jelenlegi beosztásának megfelel-e, vagy a beosztás változtatása javasolt.
+d)[^31] az arra vonatkozó álláspontot, hogy a honvéd a jelenlegi beosztásának megfelel-e, vagy a beosztás változtatása javasolt, és
 
-(4) Az alapellátást végző orvos a beteg állapotáról, szolgálati körülményeiről és orvosi szempontból értékelhető rendellenességéről orvosi véleményt készít, amelyet két példányban megküld az MH központi egészségügyi szerv járó-, fekvőbeteg ellátást végző szakrendelés osztályvezető főorvosának.
+e)[^32] az arra vonatkozó tájékoztatást, hogy a parancsnoknak van-e tudomása a Hjt. 68/A. § (4) bekezdése szerinti körülményről.
+
+(4)[^33] Az alapellátást végző orvos a beteg állapotáról, szolgálati körülményeiről és orvosi szempontból értékelhető rendellenességéről orvosi véleményt készít, melyben tájékoztatást ad arról, hogy van-e tudomása a Hjt. 68/A. § (4) bekezdése szerinti körülményről. Az alapellátást végző orvos a véleményt két példányban megküldi az MH központi egészségügyi szerv járó-, fekvőbeteg ellátást végző szakrendelés osztályvezető főorvosának.
 
 (5) Ha a felülvizsgálati eljárás kórházi kezelés, vagy járóbeteg-szakellátás során válik szükségessé, a parancsnoki véleményt és az alapellátást végző orvos véleményét a felülvizsgálatot előkészítő főorvos szerzi be az állományilletékes parancsnoktól, aki a véleményt a kérelem kézhezvételétől számított 8 napon belül megküldi.
+
+[^30]: Az 59. § (3) bekezdés c) pontja a 25/2016. (XII. 22.) HM rendelet 108. § (1) bekezdésével megállapított szöveg.
+[^31]: Az 59. § (3) bekezdés d) pontja a 25/2016. (XII. 22.) HM rendelet 108. § (1) bekezdésével megállapított szöveg.
+[^32]: Az 59. § (3) bekezdés e) pontját a 25/2016. (XII. 22.) HM rendelet 108. § (2) bekezdése iktatta be.
+[^33]: Az 59. § (4) bekezdése a 25/2016. (XII. 22.) HM rendelet 108. § (3) bekezdésével megállapított szöveg.

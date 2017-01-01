@@ -1,4 +1,4 @@
-54. § (1) Az önkéntes tartalékos katonai szolgálatra jelentkezők esetében előzetes alkalmasság-vizsgálatot is kell végezni.
+54. § (1)[^26] Az önkéntes tartalékos katonai szolgálatra jelentkezők esetében – az önkéntes területvédelmi tartalékos katonának jelentkezők kivételével – előzetes alkalmasság-vizsgálatot is kell végezni.
 
 (2) Az önkéntes tartalékos katonai állományba jelentkező előzetes alkalmasság-vizsgálatát az MH egészségügyi főnöke által a vizsgálat végrehajtására kijelölt orvosi rendelő orvosa, illetve az MH egészségügyi szervezete alkalmasság-vizsgálatot végző szervének orvosa végzi.
 
@@ -55,3 +55,5 @@ b) „Nem javasolt önkéntes tartalékosként próbaidőre felvenni.”
 (10) Ha a (8) és (9) bekezdés szerinti alkalmasság-vizsgálat alkalmatlan minősítéssel zárul, a jelentkező ennek közlésétől számított 15 napon belül fellebbezéssel élhet a MAV-nál, melynek döntése jogerős.
 
 (11) Annál az önkéntes tartalékos állományba jelentkező személynél, akinek a szerződéskötéstől számított 1 éven belül az MHközponti egészségügyi szervezete alkalmasság-vizsgálatot végző szerve által kiállított alkalmassági véleménye van, vagy részt vett az elmúlt 1 éven belül az MH egészségügyi szolgálatánál elvégzett kötelező éves orvosi vizsgálaton és érvényes fizikai állapotfelméréssel rendelkezik, nem szükséges előszűrést és alkalmasság-vizsgálatot végezni.
+
+[^26]: Az 54. § (1) bekezdése a 25/2016. (XII. 22.) HM rendelet 104. §-ával megállapított szöveg.

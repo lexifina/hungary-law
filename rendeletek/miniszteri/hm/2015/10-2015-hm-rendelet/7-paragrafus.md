@@ -10,9 +10,11 @@ d) „Honvéd altiszt-jelöltnek alkalmas”,
 
 e) „Önkéntes tartalékos katonai szolgálatra alkalmas”,
 
-f) „Tervezett beosztásra alkalmas”, vagy
+f)[^11] „Tervezett beosztásra alkalmas”,
 
-g) „Honvédségi ösztöndíjasnak alkalmas”
+g)[^12] „Honvédségi ösztöndíjasnak alkalmas”, vagy
+
+h)[^13] „Önkéntes területvédelmi tartalékos szolgálatra alkalmas”
 
 ## minősítés adható a 3. § szerinti követelményekre és a vizsgálat céljára figyelemmel.
 
@@ -53,3 +55,7 @@ e) „Honvédségi ösztöndíjasnak alkalmatlan”
 (6) Az összesített alkalmassági minősítéseket az EPAB, a MAV, MFÜV és KFÜV , a speciális fegyvernemi összesített alkalmassági minősítést az EROB állapítják meg. Az összesített alkalmassági minősítések érvényességét a személy aktuális egészségi, pszichés és fizikai állapotát figyelembe véve az EPAB, MAV, MFÜV és KFÜV szakmai döntése határozza meg.
 
 (7) A „Katonai szolgálatra alkalmatlan” minősítést első fokon a katonai szolgálatra jelentkezőkre az EPAB, honvédek esetében csak az MH egészségügyi szervezete MFÜV, másodfokon a KFÜV hozhat.
+
+[^11]: A 7. § (1) bekezdés f) pontja a 25/2016. (XII. 22.) HM rendelet 97. § (1) bekezdésével megállapított szöveg.
+[^12]: A 7. § (1) bekezdés g) pontja a 25/2016. (XII. 22.) HM rendelet 97. § (1) bekezdésével megállapított szöveg.
+[^13]: A 7. § (1) bekezdés h) pontját a 25/2016. (XII. 22.) HM rendelet 97. § (2) bekezdése iktatta be.

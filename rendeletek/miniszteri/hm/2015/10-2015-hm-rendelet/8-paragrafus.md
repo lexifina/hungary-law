@@ -22,10 +22,14 @@ db) 45 éves életkorig 5 évre,
 
 e) honvéd tisztjelölti és honvéd altiszt-jelölti katonai szolgálatra jelentkezők esetében legfeljebb 1 évre,
 
-f) honvédségi ösztöndíjasnak jelentkezettek esetében a tanulmányok időtartamára
+f) honvédségi ösztöndíjasnak jelentkezettek esetében a tanulmányok időtartamára,
+
+g)[^14] önkéntes területvédelmi tartalékos katonák esetében a 4. § (1) bekezdésben meghatározott alkalmassági vélemény érvényességi idejéig
 
 ## adható.
 
 (2) Az alkalmas minősítés érvényességét a honvéd aktuális egészségi, pszichés és fizikai állapotát figyelembe véve az (1) bekezdésben rögzített időtartamon belül az EPAB vagy a MAV szakmai döntése határozza meg. A minősítés érvényességét a pályaalkalmasság-vizsgálati lapon (a továbbiakban: PAV lap) fel kell tüntetni.
 
 (3) A minősítés érvényességének letelte után az alkalmasságot ismételten minősíteni kell.
+
+[^14]: A 8. § (1) bekezdés g) pontját a 25/2016. (XII. 22.) HM rendelet 98. §-a iktatta be.
