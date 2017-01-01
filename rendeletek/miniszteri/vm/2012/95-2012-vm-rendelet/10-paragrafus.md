@@ -1,14 +1,14 @@
-## 9/A. §[^20] A támogatáshoz kapcsolódó iratokat az odaítélést követő 10 évig meg kell őrizni, és a támogatást nyújtó ilyen irányú felhívása esetén a támogatás kedvezményezettje köteles azokat bemutatni. A csekély összegű támogatási jogcímen nyújtott támogatásokról az Európai Bizottság kérésére 20 munkanapon belül információt kell szolgáltatni.
+## 9/A. §[^26] A támogatáshoz kapcsolódó iratokat az odaítélést követő 10 évig meg kell őrizni, és a támogatást nyújtó ilyen irányú felhívása esetén a támogatás kedvezményezettje köteles azokat bemutatni. A csekély összegű támogatási jogcímen nyújtott támogatásokról az Európai Bizottság kérésére 20 munkanapon belül információt kell szolgáltatni.
 
 10. § (1) E rendelet szerinti intézkedésekkel összefüggő ellenőrzések lefolytatásáról a miniszter gondoskodik.
 
-(2) A miniszter az intézkedésben való jogosulatlan részvétel megállapítása esetén – a visszafizetés elrendeléséről szóló határozat alapján – tájékoztatja az MVH-t az alábbi adattartalom megküldésével:
+(2)[^27] A miniszter az intézkedésben való jogosulatlan részvétel megállapítása esetén – a visszafizetés elrendeléséről szóló határozat alapján – tájékoztatja a Kincsárt az alábbi adattartalom megküldésével:
 
 a) a nyertes pályázó neve, születési neve,
 
 b) a nyertes pályázó lakóhelye vagy székhelye,
 
-c)[^21] a nyertes pályázó ügyfél-azonosítója,
+c)[^28] a nyertes pályázó ügyfél-azonosítója,
 
 d) nyertes pályázó adószáma vagy adóazonosító jele,
 
@@ -20,5 +20,6 @@ g) a nyertes pályázótól támogatási célonként visszakövetelendő támoga
 
 h) a Tv. 69. § (5) bekezdésének megfelelően számított kamat forintban meghatározott összege.
 
-[^20]: A 9/A. §-t a 27/2015. (V. 27.) FM rendelet 5. §-a iktatta be.
-[^21]: A 10. § (2) bekezdés c) pontja a 36/2014. (IV. 4.) VM rendelet 75. § e) pontja szerint módosított szöveg.
+[^26]: A 9/A. §-t a 27/2015. (V. 27.) FM rendelet 5. §-a iktatta be.
+[^27]: A 10. § (2) bekezdés nyitó szövgerésze a 88/2016. (XII. 29.) FM rendelet 53. § d) pontja szerint módosított szöveg.
+[^28]: A 10. § (2) bekezdés c) pontja a 36/2014. (IV. 4.) VM rendelet 75. § e) pontja szerint módosított szöveg.
