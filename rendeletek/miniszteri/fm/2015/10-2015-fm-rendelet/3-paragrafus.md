@@ -6,9 +6,9 @@
 
 (3)[^25] Ha a mezőgazdasági termelő párhuzamos gazdálkodást folytat, vagy az ökológiai tanúsító szervezet szerint nem a földterület egésze felel meg a (2) bekezdésben foglaltaknak, akkor a mezőgazdasági termelő a támogatási kérelmében ökológiai gazdálkodásban részt vevő területként nem jelölt terület és az ökológiai tanúsító szervezet által nem igazolt földterület tekintetében nem mentesül az e rendeletben előírt kötelezettségek alól.
 
-(4)[^26] Az ökológiai tanúsító szervezet évente, az adott év augusztus 31-éig a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) adatszolgáltatása alapján az MVH részére tájékoztatást nyújt a mezőgazdasági termelő támogatási kérelmében megjelölt ökológiai gazdálkodásba vont terület (2) bekezdésben foglaltaknak való megfeleléséről.
+(4)[^26] Az ökológiai tanúsító szervezet évente, az adott év augusztus 31-éig a Magyar Államkincstár (a továbbiakban: Kincstár) adatszolgáltatása alapján a Kincstár részére tájékoztatást nyújt a mezőgazdasági termelő támogatási kérelmében megjelölt ökológiai gazdálkodásba vont terület (2) bekezdésben foglaltaknak való megfeleléséről.
 
-(5)[^27] Ha az e rendelet szerinti támogatással érintett földterület ökológiai státusza megszüntetésre vagy visszaminősítésre kerül, akkor az ökológiai tanúsító szervezet nyolc napon belül megküldi az MVH-nak az érintett földterület és a mezőgazdasági termelő azonosító adatait. A mezőgazdasági termelő tárgyéven belüli ökológiai státusz megszüntetéssel vagy visszaminősítéssel érintett terület tekintetében nem mentesül az e rendeletben előírt kötelezettségek alól.
+(5)[^27] Ha az e rendelet szerinti támogatással érintett földterület ökológiai státusza megszüntetésre vagy visszaminősítésre kerül, akkor az ökológiai tanúsító szervezet nyolc napon belül megküldi a Kincstárnak az érintett földterület és a mezőgazdasági termelő azonosító adatait. A mezőgazdasági termelő tárgyéven belüli ökológiai státusz megszüntetéssel vagy visszaminősítéssel érintett terület tekintetében nem mentesül az e rendeletben előírt kötelezettségek alól.
 
 (6)[^28] Támogatás igénybevételére jogosult az a mezőgazdasági termelő is, aki felszámolási, végelszámolási vagy adósságrendezési eljárás alatt áll feltéve, hogy a támogatás feltételeinek egyébként megfelel.
 
@@ -17,7 +17,7 @@
 [^23]: A 3. § (1) bekezdése a 72/2016. (XI. 3.) FM rendelet 11. § e) pontja szerint módosított szöveg.
 [^24]: A 3. § (2) bekezdése az 52/2015. (IX. 7.) FM rendelet 29. § (1) bekezdésével megállapított, a 72/2016. (XI. 3.) FM rendelet 11. § c) pontja szerint módosított szöveg.
 [^25]: A 3. § (3) bekezdése az 52/2015. (IX. 7.) FM rendelet 29. § (1) bekezdésével megállapított szöveg.
-[^26]: A 3. § (4) bekezdése az 52/2015. (IX. 7.) FM rendelet 29. § (1) bekezdésével megállapított, a 72/2016. (XI. 3.) FM rendelet 11. § f) pontja szerint módosított szöveg.
-[^27]: A 3. § (5) bekezdése az 52/2015. (IX. 7.) FM rendelet 29. § (1) bekezdésével megállapított szöveg.
+[^26]: A 3. § (4) bekezdése az 52/2015. (IX. 7.) FM rendelet 29. § (1) bekezdésével megállapított, a 72/2016. (XI. 3.) FM rendelet 11. § f) pontja, a 88/2016. (XII. 29.) FM rendelet 81. § a)–b) pontja szerint módosított szöveg.
+[^27]: A 3. § (5) bekezdése az 52/2015. (IX. 7.) FM rendelet 29. § (1) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 81. § c) pontja szerint módosított szöveg.
 [^28]: A 3. § (6) bekezdését a 17/2015. (IV. 9.) FM rendelet 17. §-a iktatta be.
 [^29]: A 3. § (7) bekezdését az 52/2015. (IX. 7.) FM rendelet 29. § (2) bekezdése iktatta be.
