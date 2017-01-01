@@ -7652,23 +7652,7 @@ Apaj
 
 |
 
-Délegyháza
-
-|
-
 Dömsöd
-
-|
-
-Dunaharaszti
-
-|
-
-Dunavarsány
-
-|
-
-Halásztelek
 
 |
 
@@ -7677,10 +7661,6 @@ Kiskunlacháza
 |
 
 Lórév
-
-|
-
-Majosháza
 
 |
 
@@ -7700,27 +7680,11 @@ Szigetcsép
 
 |
 
-Szigethalom
-
-|
-
 Szigetszentmárton
 
 |
 
-Szigetszentmiklós
-
-|
-
 Szigetújfalu
-
-|
-
-Taksony
-
-|
-
-Tököl
 
 |
 
@@ -7974,11 +7938,51 @@ Törökbálint
 
 |
 
-14/13. Budapest Környéki Közigazgatási és Munkaügyi Bíróság
+14/13. Szigetszentmiklósi Járásbíróság
+
+|
+
+Délegyháza
+
+|
+
+Dunaharaszti
+
+|
+
+Dunavarsány
+
+|
+
+Halásztelek
+
+|
+
+Majosháza
+
+|
+
+Szigethalom
+
+|
+
+Szigetszentmiklós
+
+|
+
+Taksony
+
+|
+
+Tököl
+
+14/14. Budapest Környéki Közigazgatási és Munkaügyi Bíróság
 
 |
 
 Pest megye
+
+|
 
 |
 

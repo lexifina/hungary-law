@@ -10,19 +10,11 @@ Budapest főváros
 
 |
 
-Fejér megye
-
-|
-
 Nógrád megye
 
 |
 
 Pest megye
-
-|
-
-|
 
 2. SZEGEDI ÍTÉLŐTÁBLA
 
@@ -88,6 +80,10 @@ Heves megye
 
 |
 
+Fejér megye
+
+|
+
 Győr-Moson-Sopron megye
 
 |
@@ -101,7 +97,5 @@ Vas megye
 |
 
 Veszprém megye
-
-|
 
 |
