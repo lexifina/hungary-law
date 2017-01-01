@@ -14,3 +14,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2013-506-20-
 | 2015-04-01 | 2013-506-20-22.6 | 72/2015. (III. 30.) Korm. rendelet |
 | 2016-01-01 | 2013-506-20-22.7 | 441/2015. (XII. 28.) Korm. rendelet |
 | 2016-09-09 | 2013-506-20-22.8 | 72/2015. (III. 30.) Korm. rendelet |
+| 2017-01-01 | 2013-506-20-22.9 | 380/2016. (XII. 2.) Korm. rendelet |
