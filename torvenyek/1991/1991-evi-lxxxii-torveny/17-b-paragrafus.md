@@ -2,7 +2,7 @@
 
 17/B. § (1) Az adó alanya a – (2)–(4) bekezdésben foglaltak kivételével – személygépkocsi hatósági nyilvántartás szerinti tulajdonosa. Több tulajdonos esetén a tulajdonostársak tulajdoni hányadaik arányában adóalanyok.
 
-(2) Pénzügyi lízingbe vagy tartós bérletbe adott, hatósági nyilvántartásba bejegyzett személygépkocsi esetén az adó alanya a pénzügyi lízingbe vevő, tartós bérletbe vevő.
+(2) Pénzügyi lízingbe adott, hatósági nyilvántartásba bejegyzett személygépkocsi esetén az adó alanya a pénzügyi lízingbe vevő.
 
 (3) A magyar állam tulajdonában álló, hatósági nyilvántartásba bejegyzett személygépkocsi esetén az adó alanya az a személy vagy szervezet, amely a személygépkocsi vagyonkezelői jogával rendelkezik. Amennyiben a személygépkocsi kapcsán a vagyonkezelői jog mellett használati jog is fennáll, az adó alanya a használati jog jogosítottja.
 

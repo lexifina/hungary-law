@@ -12,7 +12,7 @@
 
 – gyártási évet követő 16. naptári évben és az azt követő naptári években 140 Ft/kilowatt.
 
-(2) Az adó mértéke a 6. § (2)–(3) bekezdései szerinti adóalap esetén az adóalap minden megkezdett 100 kilogrammja után:
+(2) Az adó mértéke az adóalap minden megkezdett 100 kilogrammja után:
 
 a) a légrugós vagy azzal egyenértékű rugózási rendszerű tehergépjármű, nyergesvontató, autóbusz esetén 850 Ft,
 

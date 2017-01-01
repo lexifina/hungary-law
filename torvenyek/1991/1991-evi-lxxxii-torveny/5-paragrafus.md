@@ -12,7 +12,7 @@ d) az egyházi jogi személy tulajdonában lévő gépjármű,
 
 e) a létesítményi tűzoltóságot fenntartó gazdasági szervezetek azon tűzoltó szerkocsinak minősülő gépjárművei, melyek riasztás esetén részt vesznek a tűz elleni védekezésben, illetve a műszaki mentésben,
 
-f) a súlyos mozgáskorlátozott személy, a súlyos mozgáskorlátozott kiskorú, a cselekvőképességet korlátozó (kizáró) gondnokság alatt álló súlyos mozgáskorlátozott nagykorú személyt rendszeresen szállító, vele közös háztartásban élő szülő – ideértve a nevelő-, mostoha- vagy örökbefogadó szülőt is – (a továbbiakban együtt: mentességre jogosult adóalany) egy darab, 100 kW teljesítményt el nem érő, nem személytaxiként üzemelő személygépkocsija után legfeljebb 13 000 forint erejéig. Ha a mentességre jogosult adóalany adóalanyisága és adókötelezettsége az adóévben több személygépkocsi után is fenn áll, akkor a mentesség kizárólag egy, a legkisebb teljesítményű személygépkocsi után jár.
+f) a súlyos mozgáskorlátozott vagy egyéb fogyatékossággal élő adóalany, valamint a súlyos mozgáskorlátozott vagy egyéb fogyatékossággal élő személyt rendszeresen szállító, vele közös háztartásban élő közeli hozzátartozó adóalany (a továbbiakban együtt: mentességre jogosult adóalany) egy darab – 100 kW teljesítményt meg nem haladó, nem a külön jogszabály szerinti személytaxi-szolgáltatásra és személygépkocsis személyszállító szolgáltatásra használt – személygépkocsija után legfeljebb 13 000 forint/adóév erejéig. Ha a mentességre jogosult adóalany adóalanyisága és adókötelezettsége az adóévben több személygépkocsi után is fenn áll, akkor a mentesség kizárólag egy, a legkisebb teljesítményű személygépkocsi után jár,
 
 g) a környezetkímélő gépkocsi,
 
