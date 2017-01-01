@@ -2,7 +2,7 @@
 
 ## A hatósági engedély iránti kérelem feltételei
 
-16. § (1)[^12] A vizsgálat csak az Egészségügyi Nyilvántartási és Képzési Központ (a továbbiakban: engedélyező) határozatában meghatározott feltételek, valamint az engedélyezett vizsgálati terv előírásai szerint folytatható. A vizsgálatot engedélyező határozatban meghatározott feltételek, valamint az engedélyezett vizsgálati terv előírásai, továbbá a vizsgálat megkezdésének és ellenőrzésének előírásai foglalkozási szabálynak minősülnek.
+16. § (1)[^12] A vizsgálat csak az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (a továbbiakban: engedélyező) határozatában meghatározott feltételek, valamint az engedélyezett vizsgálati terv előírásai szerint folytatható. A vizsgálatot engedélyező határozatban meghatározott feltételek, valamint az engedélyezett vizsgálati terv előírásai, továbbá a vizsgálat megkezdésének és ellenőrzésének előírásai foglalkozási szabálynak minősülnek.
 
 (2) Klinikai vizsgálat I. osztálynál magasabb kockázati osztályba sorolt, és steril eszköz esetén csak egészségügyi intézményben végezhető.
 
@@ -12,4 +12,4 @@
 
 (5) A klinikai vizsgálatok tekintetében az IKEB feladata a vizsgálati alanyok jogainak, biztonságának védelme. Az IKEB a klinikai vizsgálatokkal kapcsolatban szakmai-etikai véleményt nem adhat ki.
 
-[^12]: A 16. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 109. §-a szerint módosított szöveg.
+[^12]: A 16. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 109. §-a, az 54/2016. (XII. 30.) EMMI rendelet 67. §-a szerint módosított szöveg.
