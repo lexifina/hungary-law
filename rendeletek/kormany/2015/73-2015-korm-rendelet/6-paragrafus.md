@@ -4,10 +4,15 @@ a) ellátja a köztársasági elnök jogállásáról és javadalmazásáról sz
 
 b) folyósítja az egészségügyről szóló 1972. évi II. törvény 1998. július 1-je előtt hatályos 22. §-a alapján megállapított kártalanítási járadékot,
 
-c) az a) és b) pontban foglaltakon túl további első fokú ellátásmegállapítási és -folyósítási feladat- és hatáskörrel rendelkezik,
+c)[^4] az a) és b) pontban foglaltakon túl további ellátásmegállapítási és -folyósítási feladat- és hatáskörrel rendelkezik,
 
-d) ellátja az ONYF és a nyugdíjbiztosítási igazgatási szervek nyugdíjmegállapítási, nyugdíjfolyósítási és adategyeztetési eljárásaiban keletkezett küldeményeinek érkeztetésével és kézbesítésével, valamint a nyugdíjbiztosítási igazgatási szervek elektronikus aláírással kiadmányozott döntéseinek központilag történő nyomtatásával és postai úton történő közlésével kapcsolatos feladatokat.
+d)[^5]
 
-(2) A főigazgató és a Központ más kormánytisztviselője a Nyugdíjfolyósító Igazgatóság igazgatóját, más vezetőit és ügyintézőit az első fokú közigazgatási hatósági eljárásban nem utasíthatja. E rendelkezés nem vonatkozik arra az esetre, ha a Nyugdíjfolyósító Igazgatóság igazgatóját, más vezetőjét vagy ügyintézőjét felügyeleti hatáskörben eljárva feladat ellátására vagy mulasztás pótlására utasítják.
+(2)[^6] A főigazgató és a Központ más kormánytisztviselője a Nyugdíjfolyósító Igazgatóság igazgatóját, más vezetőit és ügyintézőit a közigazgatási hatósági eljárásban nem utasíthatja. E rendelkezés nem vonatkozik arra az esetre, ha a Nyugdíjfolyósító Igazgatóság igazgatóját, más vezetőjét vagy ügyintézőjét felügyeleti hatáskörben eljárva feladat ellátására vagy mulasztás pótlására utasítják.
 
-(3) A Nyugdíjfolyósító Igazgatóság hatáskörébe utalt, az egészségi állapottól vagy az egészségkárosodás mértékétől függő ellátásokra való jogosultság elbírálására, felülvizsgálatára irányuló eljárásokban a rehabilitációs szakértői, orvosszakértői szervként eljáró fővárosi és megyei kormányhivatal szakértőként szakvéleményt ad az egészségi állapotról, az egészségkárosodás mértékéről és a hatáskörébe tartozó, jogszabályban meghatározott más szakkérdésekről.
+(3)[^7]
+
+[^4]: A 6. § (1) bekezdés c) pontja a 379/2016. (XII. 2.) Korm. rendelet 294. § (4) bekezdés a) pontja szerint módosított szöveg.
+[^5]: A 6. § (1) bekezdés d) pontját a 379/2016. (XII. 2.) Korm. rendelet 294. § (4) bekezdés b) pontja hatályon kívül helyezte.
+[^6]: A 6. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 294. § (3) bekezdés b) pontja szerint módosított szöveg.
+[^7]: A 6. § (3) bekezdését a 379/2016. (XII. 2.) Korm. rendelet 294. § (4) bekezdés c) pontja hatályon kívül helyezte.

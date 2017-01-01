@@ -1,37 +1,45 @@
 ## 2. Az ONYF feladat- és hatáskörei
 
-5. § (1) A nyugdíjbiztosítási igazgatási szervként, illetve a családtámogatásokkal, a fogyatékossági támogatással, a vakok személyi járadékával, a bányászati keresetkiegészítéssel vagy a nagycsaládos gázdíjkedvezménnyel kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok, továbbá a Nyugdíjfolyósító Igazgatóság hatósági ügyeiben a fellebbezés elbírálására jogosult hatóság és a felügyeleti szerv a Központ.
+5. §[^3] (1) Az ONYF a nyugellátásokkal, az egészségbiztosítás pénzbeli ellátásaival, a baleseti táppénzzel, az utazási költségtérítéssel, a családtámogatásokkal, a fogyatékossági támogatással, a vakok személyi járadékával, a bányászati keresetkiegészítéssel és a nagycsaládos gázdíjkedvezménnyel kapcsolatos, valamint egyéb, az ONYF feladat- és hatáskörébe tartozó ügyekben közreműködik a szakmai irányító miniszternek a fővárosi és megyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok törvényességi és szakszerűségi ellenőrzésével kapcsolatos feladatellátásában, valamint a szakmai irányító miniszter – a fővárosi és megyei kormányhivatalokkal összefüggő, az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköreivel kapcsolatos – intézkedéseinek és döntéseinek előkészítésében.
 
-(2) A fővárosi és megyei kormányhivatal nyugdíjbiztosítási, valamint családtámogatásokkal, fogyatékossági támogatással, vakok személyi járadékával, bányászati keresetkiegészítéssel és nagycsaládos gázdíjkedvezménnyel kapcsolatos hatáskörébe tartozó közigazgatási hatósági ügyekkel összefüggésben az államháztartásról szóló 2011. évi CXCV. törvény (a továbbiakban: Áht.) 9. § f) és g) pontjában és kizárólag ezekhez kapcsolódva az Áht. 9. § h) pontjában meghatározott hatásköröket az ONYF gyakorolja.
-
-(3) Az ONYF a feladat- és hatáskörébe tartozó ügyekben közreműködik a szakmai irányító miniszternek a fővárosi és megyei kormányhivatalok törvényességi és szakszerűségi ellenőrzésével kapcsolatos feladatellátásában, valamint a szakmai irányító miniszter – a fővárosi és megyei kormányhivatalokkal összefüggő, az Áht. 9. § f)–i) pontjában meghatározott, valamint a törvényességi és a szakszerűségi ellenőrzési hatásköreivel kapcsolatos – intézkedéseinek és döntéseinek előkészítésében.
-
-(4) A Központ
+(2) A Központ
 
 a) gondoskodik a Nyugdíjbiztosítási Alappal kapcsolatos tervezési, gazdálkodási, beszámolási és adatszolgáltatási feladatok ellátásáról,
 
-b) gondoskodik az ellátások megállapításához, folyósításához szükséges adatok begyűjtéséről, feldolgozásáról és kezeléséről, valamint a beérkezett adatok ellenőrzéséről,
+b) közreműködik az egészségbiztosítás pénzbeli ellátásaival, a baleseti táppénzzel és az utazási költségtérítéssel összefüggésben az Egészségbiztosítási Alappal kapcsolatos tervezési, gazdálkodási, beszámolási és adatszolgáltatási feladatok ellátásában,
 
-c) biztosítja a nem a Nyugdíjbiztosítási Alapból finanszírozott ellátások fedezetének elszámolásával, a Nyugdíjfolyósító Igazgatóság tekintetében az ellátások megállapításával, folyósításával kapcsolatos működési költségek megtérítésével összefüggő feladatok ellátását,
+c) gondoskodik az ellátások megállapításához, folyósításához szükséges adatok begyűjtéséről, feldolgozásáról és kezeléséről, valamint a beérkezett adatok ellenőrzéséről, ellátja a társadalombiztosítási jogszerzési nyilvántartással és a folyósításra kerülő ellátások nyilvántartásával kapcsolatos feladatokat,
 
-d) működteti és fejleszti a nyugdíjbiztosítás felügyeleti, költségvetési, szakmai ellenőrzési, belső ellenőrzési és központi nyilvántartási rendszerét,
+d) biztosítja a nem a Nyugdíjbiztosítási Alapból finanszírozott ellátások fedezetének elszámolásával, valamint az általa folyósított egyéb ellátások megállapításával, folyósításával kapcsolatos működési költségek megtérítésével összefüggő feladatok ellátását,
 
-e) működteti és fejleszti a szakmai feladatok ellátásához szükséges informatikai rendszereket, gondoskodik a statisztikai adatok gyűjtéséről és közzétételéről,
+e) működteti és fejleszti a nyugdíjbiztosításnak, a családtámogatásoknak, az egészségbiztosítás pénzbeli ellátásainak, a baleseti táppénznek és az utazási költségtérítésnek a felügyeleti, költségvetési, szakmai ellenőrzési, belső ellenőrzési és központi nyilvántartási rendszerét,
 
-f) meghatározza a nyugdíjbiztosítási igazgatási szervek nyugdíj-megállapítási, nyugdíjfolyósítási és adategyeztetési eljárásaiban keletkezett küldeményeinek érkeztetésével és kézbesítésével, valamint a nyugdíjbiztosítási igazgatási szervek elektronikus aláírással kiadmányozott döntéseinek központilag történő nyomtatásával és postai úton történő közlésével kapcsolatos eljárásrendeket,
+f) működteti és fejleszti a szakmai feladatok ellátásához szükséges, illetve jogszabály által a feladat- és hatáskörébe tartozó egyéb informatikai rendszereket, vezeti a jogszabályban meghatározott nyilvántartásokat, meghatározza a szakmai informatikai rendszerek követelményeit, gondoskodik a statisztikai adatok gyűjtéséről és közzétételéről,
 
-g) közreműködik a fővárosi és megyei kormányhivatalok – az ONYF feladat- és hatáskörébe tartozó – jogalkalmazói feladatellátásának támogatására szolgáló módszertani útmutatók kiadásában,
+g) ellátja
 
-h) ellátja a családtámogatási ellátásokkal kapcsolatos fellebbezések elbírálására jogosult hatóság és a fogyatékossági támogatás ügyében másodfokon eljáró hatóság számára jogszabályban meghatározott feladatokat,
+ga) az ONYF és a nyugdíjbiztosítási igazgatási szervként eljáró fővárosi és megyei kormányhivatalok és járási (fővárosi kerületi) hivatalok eljárásaiban keletkezett küldemények központilag történő érkeztetésével, digitalizálásával, iktatásával és kézbesítésével, valamint ezen ügyekben az elektronikus aláírással kiadmányozott döntések központilag történő nyomtatásával és postai úton történő közlésével kapcsolatos feladatokat,
 
-i) közreműködik a nyugdíjbiztosítással és a családtámogatásokkal kapcsolatos nemzetközi szerződések előkészítésében és végrehajtásában, kapcsolatot tart fenn a kijelölt illetékes teherviselővel, illetve szervekkel, végzi az uniós tagságból és a szociális biztonsági, (szociálpolitikai) tárgyú nemzetközi egyezmények végrehajtása során adódó koordinációs feladatokat, továbbá részt vesz az uniós szakbizottságok és nemzetközi szervezetek szakmai munkájában,
+gb) a családtámogatási ellátásokkal, a fogyatékossági támogatással és a vakok személyi járadékával kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok és járási (fővárosi kerületi) hivatalok eljárásaiban keletkezett küldemények központilag történő érkeztetésével, digitalizálásával, valamint ezen ügyekben az elektronikus aláírással kiadmányozott döntések központilag történő nyomtatásával és postai úton történő közlésével kapcsolatos feladatokat,
 
-j) ellátja az 5. § (3) bekezdése szerinti feladatokat,
+gc) a bányászati keresetkiegészítéssel és a nagycsaládos gázdíjkedvezménnyel kapcsolatos feladatkörükben eljáró fővárosi és megyei kormányhivatalok és járási (fővárosi kerületi) hivatalok eljárásaiban keletkezett küldemények központilag történő érkeztetésével kapcsolatos feladatokat,
 
-k) részt vesz a nyugdíjbiztosítást érintő folyamatok elemzésében és értékelésében, valamint a nyugdíj-stratégiai és fejlesztési koncepciók kidolgozásában,
+h) felügyeli a kormányhivatalok és a társadalombiztosítás ellátásaira és a magánnyugdíjra jogosultakról, valamint e szolgáltatások fedezetéről szóló 1997. évi LXXX. törvény végrehajtásáról szóló 195/1997. (XI. 5.) Korm. rendelet 5/D. §-a szerinti szervek kifizetőhelyeinek tevékenységét, valamint a kormányhivatalok egészségbiztosítási pénztári feladatai keretében ellátott foglalkoztatók és a kifizetőhelyek felügyeletével kapcsolatos feladatok ellátását,
 
-l) javaslatot tesz a miniszternek az ONYF feladat- és hatáskörét érintő jogszabályok megalkotására és módosítására, közreműködik előkészítésükben, és véleményezi azok tervezetét,
+i) közreműködik a fővárosi és megyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok – a nyugellátásokkal, az egészségbiztosítás pénzbeli ellátásaival, a baleseti táppénzzel, az utazási költségtérítéssel, a családtámogatásokkal, a fogyatékossági támogatással, a vakok személyi járadékával, a bányászati keresetkiegészítéssel és a nagycsaládos gázdíjkedvezménnyel kapcsolatos, valamint egyéb, az ONYF feladat- és hatáskörébe tartozó – jogalkalmazói feladatellátásának támogatására szolgáló módszertani útmutatók, szakmai eljárásrendek, szabályzatok és körlevelek kiadásában,
 
-m) gondoskodik az ONYF feladat- és hatáskörébe tartozó ellátásokkal kapcsolatos központi és helyi tájékoztatásról, valamint az igényérvényesítést segítő szolgáltatások fejlesztéséről.
+j) a feladat- és hatáskörébe tartozó ügyekben közreműködik a szakmai irányító miniszternek a fővárosi és megyei kormányhivatalok, valamint a járási (fővárosi kerületi) hivatalok törvényességi és szakszerűségi ellenőrzésével kapcsolatos feladatellátásában, valamint a szakmai irányító miniszter intézkedéseinek és döntéseinek előkészítésében,
 
-(5) A Központ hatáskörébe utalt, az egészségi állapottól, az egészségkárosodás mértékétől vagy a súlyos fogyatékosság fennállásától függő ellátásokra való jogosultság elbírálására, felülvizsgálatára irányuló eljárásokban a Nemzeti Rehabilitációs és Szociális Hivatal szakértőként szakvéleményt ad az egészségi állapotról, az egészségkárosodás mértékéről, illetve a súlyos fogyatékosság fennállásáról, valamint a hatáskörébe tartozó, jogszabályban meghatározott más szakkérdésekről. Ha a fellebbezés nem érinti az első fokú határozatban a szakkérdéssel kapcsolatban tett megállapításokat, a Központ a szakkérdés vizsgálatát és a Nemzeti Rehabilitációs és Szociális Hivatal szakértőként történő kirendelését mellőzheti.
+k) szervezi a feladat- és hatáskörébe tartozó ellátások elbírálását,
+
+l) közreműködik a feladat- és hatáskörét érintő nemzetközi szerződések előkészítésében és végrehajtásában, kapcsolatot tart fenn a kijelölt illetékes teherviselővel, illetve szervekkel, végzi az európai uniós tagságból és a szociális biztonsági, szociálpolitikai tárgyú nemzetközi egyezmények végrehajtása során adódó koordinációs feladatokat, továbbá részt vesz az európai uniós szakbizottságok és nemzetközi szervezetek szakmai munkájában,
+
+m) részt vesz a feladat- és hatáskörébe tartozó ellátásokat érintő folyamatok elemzésében és értékelésében, valamint a stratégiai és fejlesztési koncepciók kidolgozásában,
+
+n) javaslatot tesz a miniszternek az ONYF feladat- és hatáskörét érintő jogszabályok megalkotására és módosítására, közreműködik előkészítésükben, és véleményezi azok tervezetét,
+
+o) gondoskodik a feladat- és hatáskörébe tartozó ügyekben eljáró vezetők és ügyintézők – ideértve a kifizetőhelyek ügyintézőit is – képzéséről, továbbképzéséről és vizsgáztatásáról, szakmai értekezleteket szervez a feladatkörébe tartozó ellátások megállapítási vagy folyósítási feladatait ellátó szervek számára,
+
+p) gondoskodik a feladat- és hatáskörébe tartozó ellátásokkal kapcsolatos központi és helyi tájékoztatásról, valamint az igényérvényesítést segítő szolgáltatások fejlesztéséről, meghatározza és rendszeresíti az alkalmazandó nyomtatványokat, iratmintákat.
+
+[^3]: Az 5. § a 379/2016. (XII. 2.) Korm. rendelet 294. § (1) bekezdésével megállapított szöveg.
