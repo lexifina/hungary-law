@@ -1,6 +1,6 @@
 ## 5. § Az egészségügyi szakértő vizsgálatának az ügy minden lényeges körülményére ki kell terjednie, a szakértőnek a tudomány mindenkori állásának figyelembevételével a szóba jövő vizsgálati eljárásokat és módszereket alkalmaznia kell, és azok alapján körültekintően és részrehajlás nélkül kell megadnia szakvéleményét.
 
-6. § (1)[^6] Ha a szakértő tevékenysége során olyan körülmény merül fel, amely a szakértő engedélyének megvonását vonhatja maga után, az ezt észlelő köteles tájékoztatni az ENKK-t.
+6. § (1)[^6] Ha a szakértő tevékenysége során olyan körülmény merül fel, amely a szakértő engedélyének megvonását vonhatja maga után, az ezt észlelő köteles tájékoztatni Budapest Főváros Kormányhivatalát.
 
 (2) Az engedélyt meg kell vonni és a szakértőt a nyilvántartásból törölni kell, ha
 
@@ -12,4 +12,4 @@ c) a szakértő a szakértői tevékenység végzésére vonatkozó kirendelésn
 
 d) a szakértő meghalt.
 
-[^6]: A 6. § (1) bekezdése a 23/2015. (IV. 28.) EMMI rendelet 110. § c) pontja szerint módosított szöveg.
+[^6]: A 6. § (1) bekezdése az 54/2016. (XII. 30.) EMMI rendelet 68. § (1) bekezdés d) pontja szerint módosított szöveg.
