@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2007-119-20-
 | 2013-08-01 | 2007-119-20-82.6 | 70/2013. (VII. 31.) VM rendelet |
 | 2013-10-10 | 2007-119-20-82.7 | 88/2013. (X. 2.) VM rendelet |
 | 2014-03-15 | 2007-119-20-82.8 | 22/2014. (III. 14.) VM rendelet |
+| 2017-01-01 | 2007-119-20-82.9 | 88/2016. (XII. 29.) FM rendelet |

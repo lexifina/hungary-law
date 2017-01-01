@@ -1,6 +1,6 @@
 ## Az állattartó feladatai
 
-10. § (1) A 4. § szerint tenyészetének bejelentésére kötelezett állattartó köteles adatait bejelenteni a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti ügyfél-nyilvántartási rendszerbe, amelyet a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) kezel.
+10. § (1)[^42] A 4. § szerint tenyészetének bejelentésére kötelezett állattartó köteles adatait bejelenteni a mezőgazdasági, agrár-vidékfejlesztési, valamint halászati támogatásokhoz és egyéb intézkedésekhez kapcsolódó eljárás egyes kérdéseiről szóló 2007. évi XVII. törvény szerinti ügyfél-nyilvántartási rendszerbe, amelyet a Magyar Államkincstár (a továbbiakban: Kincstár) kezel.
 
 (2) Új tenyészet vagy tartási hely bejelentése, vagy már regisztrált tenyészet, illetve tartási hely bármelyik adatának módosítása csak akkor regisztrálható, ha az állattartó ügyfél-regisztrációs száma szerepel az Országos Adatbázisban. Ennek hiányában az állattartónak az Útmutatóban szereplő formanyomtatványon be kell jelentenie regisztrációs számát az Országos Adatbázishoz.
 
@@ -16,9 +16,10 @@ c) új állattartó esetén az új állattartó és a tartóváltás adatait;
 
 d) tenyészetének vagy tartási helyének bármely adatában bekövetkezett változást.
 
-(5)[^42] Az állattartó köteles a TIR szerinti tenyészetkódot a kaptárak külső felületén, jól láthatóan, legalább 20 milliméteres számokkal, roncsolás nélkül nem eltávolítható módon, égetéssel, vagy korróziónak ellenálló hordozón feltüntetni.
+(5)[^43] Az állattartó köteles a TIR szerinti tenyészetkódot a kaptárak külső felületén, jól láthatóan, legalább 20 milliméteres számokkal, roncsolás nélkül nem eltávolítható módon, égetéssel, vagy korróziónak ellenálló hordozón feltüntetni.
 
-(6)[^43] Az e rendelet hatálya alá eső tenyészet állattartója az önálló tenyészetbe való besorolást, illetve ENAR-felelős személyének megváltozását követő 10 napon belül írásban tájékoztatja az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot az ENAR-felelős személyéről.
+(6)[^44] Az e rendelet hatálya alá eső tenyészet állattartója az önálló tenyészetbe való besorolást, illetve ENAR-felelős személyének megváltozását követő 10 napon belül írásban tájékoztatja az élelmiszerlánc-biztonsági és állategészségügyi igazgatóságot az ENAR-felelős személyéről.
 
-[^42]: A 10. § (5) bekezdését a 38/2012. (IV. 25.) VM rendelet 1. §-a iktatta be.
-[^43]: A 10. § (6) bekezdését a 88/2013. (X. 2.) VM rendelet 40. §-a iktatta be.
+[^42]: A 10. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 17. § a) pontja szerint módosított szöveg.
+[^43]: A 10. § (5) bekezdését a 38/2012. (IV. 25.) VM rendelet 1. §-a iktatta be.
+[^44]: A 10. § (6) bekezdését a 88/2013. (X. 2.) VM rendelet 40. §-a iktatta be.

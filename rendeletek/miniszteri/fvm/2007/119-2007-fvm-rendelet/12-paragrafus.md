@@ -2,10 +2,11 @@
 
 a) az OÁIR,
 
-b) az MVH Integrált Igazgatási és Ellenőrzési Rendszere (IIER),
+b)[^50] a Kincstár Integrált Igazgatási és Ellenőrzési Rendszere (IIER),
 
 c) a tenyésztési hatóságnál működő állattenyésztési rendszerek, valamint
 
-d)[^49] a NÉBIH Országos Vágóállat Minősítés-nyilvántartási Rendszere (OVMR)
+d)[^51] a NÉBIH Országos Vágóállat Minősítés-nyilvántartási Rendszere (OVMR)
 
-[^49]: A 12. § d) pontja a 88/2013. (X. 2.) VM rendelet 41. §-ával megállapított szöveg.
+[^50]: A 12. § b) pontja a 88/2016. (XII. 29.) FM rendelet 17. § b) pontja szerint módosított szöveg.
+[^51]: A 12. § d) pontja a 88/2013. (X. 2.) VM rendelet 41. §-ával megállapított szöveg.
