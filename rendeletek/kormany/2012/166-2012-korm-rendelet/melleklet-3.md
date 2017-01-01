@@ -2,15 +2,15 @@
 
 |  | A | B | C |
 
-| 1. | Szakhatósági közreműködés tárgya | Elsőfokú szakhatóság | Másodfokú szakhatóság |
+| 1. | Szakhatósági közreműködése tárgya | Első fokú szakhatóság | Másodfokú szakhatóság |
 
-| 2. | építésügy | Debreceni Járási Hivatal | Hajdú-Bihar Megyei Kormányhivatal |
+| 2. | építésügy | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala | Hajdú-Bihar Megyei Kormányhivatal |
 
-| 3. | környezet- és természetvédelem | Hajdú-Bihar Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 3. | környezet- és természetvédelem | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 4. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 4. | vízügy és vízvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 5. | közlekedés: közút | Hajdú-Bihar Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 5. | közlekedés: közút | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala | Hajdú-Bihar Megyei Kormányhivatal |
 
 | 6. | rendészet – gyorsforgalmi utak esetén | megyei rendőr-főkapitányság | Országos Rendőr-főkapitányság |
 
@@ -20,17 +20,17 @@
 
 | 9. | katasztrófavédelem | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 10. | földművelésügy: talajvédelem | Hajdú-Bihar Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 10. | földművelésügy: talajvédelem | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala | Hajdú-Bihar Megyei Kormányhivatal |
 
 | 11. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 12. | műszaki biztonság | Hajdú-Bihar Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 12. | műszaki biztonság | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 13. | egészségügy | Hajdú-Bihar Megyei Kormányhivatal | Országos Tisztifőorvosi Hivatal |
+| 13. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
 
 | 14. | területrendezés | Hajdú-Bihar Megyei Kormányhivatal | területrendezésért felelős miniszter |
 
-| 15. | régészet és műemlékvédelem | Debreceni Járási Hivatal | Budapest Főváros Kormányhivatala |
+| 15. | régészet és műemlékvédelem | Hajdú-Bihar Megyei Kormányhivatal Debreceni Járási Hivatala | Budapest Főváros Kormányhivatala |
 
 | 16. | helyi védelem (természetvédelem) | Debrecen Megyei Jogú Város Önkormányzatának jegyzője | Hajdú-Bihar Megyei Kormányhivatal |
 
