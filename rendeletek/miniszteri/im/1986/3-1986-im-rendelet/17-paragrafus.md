@@ -166,5 +166,5 @@ IV. számú melléklet a 3/1986. (II. 21.) IM rendelethez[^76]
 [^72]: Az I. melléklet 92. pontját a 65/2007. (XII. 23.) IRM rendelet 12. § (4) bekezdésének i) pontja hatályon kívül helyezte.
 [^73]: Az I. melléklet 93. pontja a 65/2007. (XII. 23.) IRM rendelet 9. § (7) bekezdésével megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.
 [^74]: A II. számú melléklet a 65/2007. (XII. 23.) IRM rendelet 11. §-ával megállapított szöveg. E módosító rendelet 12. § (1) bekezdése alapján a rendelkezést azokban az ügyekben kell alkalmazni, amelyekben a szakértő kirendelésére 2008. január 1. napját követően került sor.
-[^75]: A III. mellékletet az 5/2000. (II. 29.) IM rendelet 4. §-ának (3) bekezdése hatályon kívül helyezte.
+[^75]: A III. számú mellékletet az 5/2000. (II. 29.) IM rendelet 4. §-ának (3) bekezdése hatályon kívül helyezte.
 [^76]: A IV. számú mellékletet az 5/2000. (II. 29.) IM rendelet 4. §-ának (3) bekezdése hatályon kívül helyezte.
