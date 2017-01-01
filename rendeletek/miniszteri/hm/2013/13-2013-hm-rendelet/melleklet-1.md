@@ -1,6 +1,6 @@
-## 27. §[^52] Az MH központi személyügyi szerv vezetője e rendeletnek az egyes honvédelmi miniszteri rendeletek módosításáról szóló 9/2016. (VI. 29.) HM rendelettel megállapított 20/A. §-át a 2016. május 30-ától megállapított belföldi egyéni és családos igényjogosulti térítési díj esetében alkalmazhatja.
+## 27. §[^57] Az MH központi személyügyi szerv vezetője e rendeletnek az egyes honvédelmi miniszteri rendeletek módosításáról szóló 9/2016. (VI. 29.) HM rendelettel megállapított 20/A. §-át a 2016. május 30-ától megállapított belföldi egyéni és családos igényjogosulti térítési díj esetében alkalmazhatja.
 
-1. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^53]
+1. melléklet a 13/2013. (VIII. 21.) HM rendelethez[^58]
 
 1. Belföldi egyéni, családos igényjogosulti térítési díjak a Magyar Honvédség (a továbbiakban: MH) rekreációt végző szervezeténél
 
@@ -138,5 +138,5 @@
 
 | 3. | Gyermektábor (2 hét/13 éjszaka) | 27 100 |
 
-[^52]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 9/2016. (VI. 29.) HM rendelet 4. §-a iktatta be.
-[^53]: Az 1. melléklet a 6/2016. (IV. 15.) HM rendelet 15. §-a, 16. § i) pontja és 17. § e) pontja szerint módosított szöveg.
+[^57]: A 27. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 9/2016. (VI. 29.) HM rendelet 4. §-a iktatta be.
+[^58]: Az 1. melléklet a 6/2016. (IV. 15.) HM rendelet 15. §-a, 16. § i) pontja és 17. § e) pontja szerint módosított szöveg.

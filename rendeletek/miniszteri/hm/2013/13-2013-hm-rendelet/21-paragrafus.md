@@ -1,4 +1,4 @@
-## 20/A. §[^44] Az MH központi személyügyi szerv vezetője az 1. melléklet szerinti belföldi egyéni és családos igényjogosulti térítési díj összegét legfeljebb 20%-os mértékben csökkentheti, ha az igénybevett szolgáltatás ideje alatt az MH rekreációt végző szervezeténél olyan zajártalommal járó tevékenységek – különösen építési, felújítási munkálatok – folynak, amelyek korlátozzák a szolgáltatások zavartalan igénybevételét.
+## 20/A. §[^49] Az MH központi személyügyi szerv vezetője az 1. melléklet szerinti belföldi egyéni és családos igényjogosulti térítési díj összegét legfeljebb 20%-os mértékben csökkentheti, ha az igénybevett szolgáltatás ideje alatt az MH rekreációt végző szervezeténél olyan zajártalommal járó tevékenységek – különösen építési, felújítási munkálatok – folynak, amelyek korlátozzák a szolgáltatások zavartalan igénybevételét.
 
 21. § (1) A szolgáltatást nyújtó szervezet a befizetett térítési díjat – az a) pont szerinti lemondó nyilatkozat, illetve a b) pont szerinti igazolás kézhezvételét követő 20 napon belül – teljes összegben visszatéríti, ha
 
@@ -10,4 +10,4 @@ b) az állományilletékes parancsnok, illetve az orvos igazolja, hogy a befizet
 
 (3) Ha a térítési díj ellenében nyújtott szolgáltatást az igényjogosult nem veszi igénybe, azt nem mondja vissza, és korábban térítési díjat nem fizetett, a szolgáltatást nyújtó szervezet felhívásától számított 20 napon belül köteles az 1. melléklet 1–4. pontja és a 2. melléklet szerinti térítési díj 20%-át megfizetni a szolgáltatást nyújtó szervezet számlájára.
 
-[^44]: A 20/A. §-t a 9/2016. (VI. 29.) HM rendelet 3. §-a iktatta be.
+[^49]: A 20/A. §-t a 9/2016. (VI. 29.) HM rendelet 3. §-a iktatta be.

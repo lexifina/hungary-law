@@ -20,14 +20,22 @@ h) a honvédségi nyugdíjas,
 
 i) az MH nemzeti gondozottja,
 
-j) az állomány szolgálatteljesítés során elhunyt tagjának és a nyugállományú katona özvegye és árvaellátásra jogosult családtagja, és
+j)[^17] az állomány elhunyt tagja, a nyugállományú katona, a honvédségi nyugdíjas özvegye vagy élettársa és árvaellátásra jogosult családtagja,
 
-k) az állomány volt tagja, akit a miniszter rehabilitált, és erre külön határozatban igényjogosultságot szerzett.
+k)[^18] az állomány volt tagja, akit a miniszter rehabilitált és erre külön határozatban igényjogosultságot szerzett, valamint e személy özvegye, és
+
+l)[^19] az MH személyi állományába tartozásra figyelemmel a „Közszolgálat halottjává”, illetve a „Honvédelmi szervezet saját halottjává” nyilvánított elhunyt özvegye, élettársa és árvaellátásra jogosult hozzátartozói.
 
 (2) A rekreációs szolgáltatáson az (1) bekezdés szerinti igényjogosult és családtagja, valamint unokája a 16. életévének betöltéséig az 1. melléklet 1. pontja szerinti térítési díj ellenében vehet részt.
 
-(3)[^16] A rekreációs szolgáltatás az MH rekreációt végző szervezetében, elő-, utó- és főszezonban vehető igénybe, időtartama 6 vendégéjszaka, vagy az igényjogosult kérelme alapján és a rendelkezésre álló szabad férőhelyek függvényében évente legfeljebb 13 vendégéjszaka. Az MH rekreációt végző szervezete által üzemeltetett Honvéd Kempingben a rekreációs szolgáltatás elő-, utó- és főszezonban a szervezet által közzétett tájékoztató szerint vehető igénybe.
+(3)[^20] A rekreációs szolgáltatás az MH rekreációt végző szervezetében, elő-, utó- és főszezonban vehető igénybe, időtartama 6 vendégéjszaka, vagy az igényjogosult kérelme alapján és a rendelkezésre álló szabad férőhelyek függvényében évente legfeljebb 13 vendégéjszaka. Az MH rekreációt végző szervezete által üzemeltetett Honvéd Kempingben a rekreációs szolgáltatás elő-, utó- és főszezonban a szervezet által közzétett tájékoztató szerint vehető igénybe.
 
 (4) A (3) bekezdést az (1) bekezdés g)–k) pontjai szerinti igényjogosultak esetén azzal az eltéréssel kell alkalmazni, hogy főszezonban csak a szabad férőhely terhére jogosultak rekreációs szolgáltatás igénybe vételére.
 
-[^16]: A 12. § (3) bekezdése a 6/2016. (IV. 15.) HM rendelet 5. §-ával megállapított szöveg.
+(5)[^21] Ha a honvédelmi szervezetnél foglalkoztatott kormánytisztviselő, közalkalmazott, munkavállaló jogviszonya a Hjt. 68/B. § (4) bekezdése alapján, egészségkárosodási keresetkiegészítésre való jogosulttá válásával egyidejűleg létesült, az (1) bekezdés d) pontja szerinti időtartamba a jogviszony létesítését megelőzően szolgálati viszonyban töltött időt is be kell számítani.
+
+[^17]: A 12. § (1) bekezdés j) pontja a 25/2016. (XII. 22.) HM rendelet 59. § (1) bekezdésével megállapított szöveg.
+[^18]: A 12. § (1) bekezdés k) pontja a 25/2016. (XII. 22.) HM rendelet 59. § (1) bekezdésével megállapított szöveg.
+[^19]: A 12. § (1) bekezdés l) pontját a 25/2016. (XII. 22.) HM rendelet 59. § (2) bekezdése iktatta be.
+[^20]: A 12. § (3) bekezdése a 6/2016. (IV. 15.) HM rendelet 5. §-ával megállapított szöveg.
+[^21]: A 12. § (5) bekezdéséta 25/2016. (XII. 22.) HM rendelet 59. § (3) bekezdése iktatta be.

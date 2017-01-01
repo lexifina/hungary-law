@@ -1,4 +1,4 @@
-11/A. §[^15] (1) A 8. § (1) bekezdése szerinti állomány részére különleges regeneráló pihenés biztosítható, amelynek igénybevétele nem kötelező. A különleges regeneráló pihenésre a 8–11. §-ban meghatározott szabályokat a (2)–(8) bekezdésben meghatározott eltérésekkel kell alkalmazni.
+11/A. §[^16] (1) A 8. § (1) bekezdése szerinti állomány részére különleges regeneráló pihenés biztosítható, amelynek igénybevétele nem kötelező. A különleges regeneráló pihenésre a 8–11. §-ban meghatározott szabályokat a (2)–(8) bekezdésben meghatározott eltérésekkel kell alkalmazni.
 
 (2) A különleges regeneráló pihenés biztosításának lehetőségét
 
@@ -24,4 +24,4 @@ b) az MH regenerálódást és kiképzést segítő vagy az MH rekreációt vég
 
 (8) A különleges regeneráló pihenést az állomány éves alap- és pótszabadsága terhére veheti igénybe.
 
-[^15]: A 11/A. §-t a 6/2016. (IV. 15.) HM rendelet 4. §-a iktatta be.
+[^16]: A 11/A. §-t a 6/2016. (IV. 15.) HM rendelet 4. §-a iktatta be.
