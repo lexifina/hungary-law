@@ -1,1 +1,0 @@
-## 21. § A szállítási rendszerüzemeltető és a földgázelosztó üzletszabályzatát e rendeletnek megfelelően átdolgozza és e rendelet kihirdetését követő 2 hónapon belül a Hivatal részére jóváhagyásra benyújtja.
