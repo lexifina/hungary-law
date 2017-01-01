@@ -26,7 +26,7 @@
 
 | 1 | 08 | Vizsgálja meg, hogy az elfogadó nyilatkozat megfelel-e az előírásoknak, ill. megtörtént-e a megválasztás cégbírósági bejegyzése? Értelmezés: Az elfogadó nyilatkozatok • időtartama és dátuma összhangban van-e a taggyűlési/közgyűlési határozattal? • ha nem történt meg a cégbírósági bejelentés, a könyvvizsgáló jelezte-e írásban az ügyfél vezetésének? |  |  |  |
 
-| 1 | 09 | Ellenőrizték és betartották-e hitelintézetek és pénzügyi vállalkozások esetén a Hpt. 260. §-ban, a befektetési alapok esetén a Tpt. 358. §-ban, valamint a befektetési alapkezelőkről és kollektív befektetési formákról szóló 2014. évi XVI. tv. 193. §-ban, továbbá biztosítók esetén a Bit. 149. §-ban foglalt korlátozásokat (megfelelő minősítés, függetlenség, 5 éves rotáció, maximális ügyfélszám, egy típusú ügyféltől származó maximális díjbevétel, stb.) | Hpt. 260. §, Tpt. 358. §, 2014. évi XVI. tv. 193. §, Bit. 149. § |  |  |
+| 1 | 09 | Ellenőrizték és betartották-e hitelintézetek és pénzügyi vállalkozások esetén a Hpt. 260. §-ban, a befektetési alapok esetén a Tpt. 358. §-ban, valamint a befektetési alapkezelőkről és kollektív befektetési formákról szóló 2014. évi XVI. tv. 193. §-ban, továbbá biztosítók és viszontbiztosítók esetén a Bit. 70. §-ban foglalt korlátozásokat (megfelelő minősítés, függetlenség, 5 éves rotáció, maximális ügyfélszám, egy típusú ügyféltől származó maximális díjbevétel stb.) | Hpt. 260. §, Tpt. 358. §, 2014. évi XVI. tv. 193. §, Bit. 70. § |  |  |
 
 | 1 | 10 | A könyvvizsgálati megbízás elfogadása és/vagy végrehajtása során betartotta-e a könyvvizsgáló a releváns jogszabályokat? |  |  |  |
 
@@ -54,7 +54,7 @@
 
 | 2 | 09 | Tartalmaz-e a dosszié egy végleges aláírt éves beszámolót, üzleti jelentést és könyvvizsgálói jelentést? |  |  |  |
 
-| 2 | 10 | Történt-e külön jelentéstétel a felügyeletnek a Hpt. 261. §, valamint a befektetési alapkezelőkről és kollektív befektetési formákról szóló 2014. évi XVI. tv. 194. §-ban, illetve a Bit. 151. § (1)-(2) bekezdése alapján (bűncselekmény, szabályok megsértése, stb. esetén)? Amennyiben igen, megfelelően dokumentálták-e az esetet? | Hpt. 261. §, 2014. évi XVI. tv. 194. §, Bit. 151. § |  |  |
+| 2 | 10 | Történt-e külön jelentéstétel a felügyeletnek a Hpt. 261. §, valamint a befektetési alapkezelőkről és kollektív befektetési formákról szóló 2014. évi XVI. tv. 194. §-ban, illetve a Bit. 71. § (1)–(2) bekezdése alapján (bűncselekmény, szabályok megsértése stb. esetén)? Amennyiben igen, megfelelően dokumentálták-e az esetet? | Hpt. 261. §, 2014. évi XVI. tv. 194. §, Bit. 71. § |  |  |
 
 | 3 |  | A könyvvizsgáló csalással összefüggő felelőssége a pénzügyi kimutatások könyvvizsgálatánál |  | Megfelel? | Megjegyzés |
 
