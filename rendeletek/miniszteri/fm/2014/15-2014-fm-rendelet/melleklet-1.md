@@ -1,6 +1,6 @@
-## 15. §[^15] E rendeletnek az MFB TÉSZ Forgóeszköz Hitelprogram 2020 kapcsán kamat megfizetéséhez igénybe vehető csekély összegű támogatásról szóló 49/2015. (VIII. 12.) FM rendelettel [a továbbiakban: 49/2015. (VIII. 12.) FM rendelet] megállapított 2. § (3) bekezdését a 49/2015. (VIII. 12.) FM rendelet hatálybalépésekor[^16] folyamatban lévő ügyekben is alkalmazni kell.
+## 15. §[^23] E rendeletnek az MFB TÉSZ Forgóeszköz Hitelprogram 2020 kapcsán kamat megfizetéséhez igénybe vehető csekély összegű támogatásról szóló 49/2015. (VIII. 12.) FM rendelettel [a továbbiakban: 49/2015. (VIII. 12.) FM rendelet] megállapított 2. § (3) bekezdését a 49/2015. (VIII. 12.) FM rendelet hatálybalépésekor[^24] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 15/2014. (X. 9.) FM rendelethez[^17]
+1. melléklet a 15/2014. (X. 9.) FM rendelethez[^25]
 
 A hitelhez kapcsolódó kamattámogatásból származó támogatástartalom képlete
 
@@ -36,6 +36,6 @@ n – évek száma, a támogatástartalom a kamattámogatási kérelem beérkez�
 
 r – a kamattámogatási kérelem benyújtása hónapját közvetlenül megelőző hónap első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam.
 
-[^15]: A 15. §-t a 49/2015. (VIII. 12.) FM rendelet 15. § (11) bekezdése iktatta be.
-[^16]: A hatálybalépés időpontja 2015. augusztus 27.
-[^17]: Az 1. melléklet a 49/2015. (VIII. 12.) FM rendelet 15. § (12) bekezdése szerint módosított szöveg.
+[^23]: A 15. §-t a 49/2015. (VIII. 12.) FM rendelet 15. § (11) bekezdése iktatta be.
+[^24]: A hatálybalépés időpontja 2015. augusztus 27.
+[^25]: Az 1. melléklet a 49/2015. (VIII. 12.) FM rendelet 15. § (12) bekezdése szerint módosított szöveg.
