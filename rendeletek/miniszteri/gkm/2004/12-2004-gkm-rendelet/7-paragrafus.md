@@ -2,9 +2,9 @@
 
 7. § (1) E rendelet a kihirdetését követő 8. napon lép hatályba.
 
-(2)–(3)[^9]
+(2)–(3)[^10]
 
-Melléklet a 12/2004. (II. 13.) GKM rendelethez[^10]
+Melléklet a 12/2004. (II. 13.) GKM rendelethez[^11]
 
 Műszaki biztonsági szempontból jelentős egyes gázipari tevékenységek jegyzéke
 
@@ -94,5 +94,5 @@ Cseppfolyós propán-bután gázok és ezek elegyeinek tartályban vagy palackba
 
 | 6. |  |  |  |
 
-[^9]: A 7. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 187. pontja hatályon kívül helyezte.
-[^10]: A melléklet a 86/2007. (X. 31.) GKM rendelet 4. §-ával megállapított, valamint a 60/2009. (XI. 3.) KHEM rendelet 4. § (3) bekezdésének c) pontja, a 21/2010. (V. 14.) NFGM rendelet 3. § (2) bekezdés d) pontja szerint módosított szöveg.
+[^10]: A 7. § (2)–(3) bekezdését a 118/2008. (V. 8.) Korm. rendelet 10. §-ának 187. pontja hatályon kívül helyezte.
+[^11]: A melléklet a 86/2007. (X. 31.) GKM rendelet 4. §-ával megállapított, valamint a 60/2009. (XI. 3.) KHEM rendelet 4. § (3) bekezdésének c) pontja, a 21/2010. (V. 14.) NFGM rendelet 3. § (2) bekezdés d) pontja szerint módosított szöveg.
