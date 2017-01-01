@@ -1,0 +1,1 @@
+216/A. § A kormányhivatalnak vagy járási hivatalnak – az e rendelkezés hatálybalépése előtt – az önkormányzati adóhatósághoz adók módjára behajtandó köztartozás végrehajtása céljából érkezett – be nem hajtott – megkeresései tekintetében – a 146. § (2) bekezdés a) pontjától eltérően – az állami adóhatóság jár el.

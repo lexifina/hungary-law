@@ -178,11 +178,11 @@ c) azon helyi/kisebbségi önkormányzat megnevezését, ahol az adózó tiszts�
 
 P)
 
-R) A Klebelsberg Intézményfenntartó Központ és a települési önkormányzat adatszolgáltatása
+R) A tankerületi központ és a települési önkormányzat adatszolgáltatása
 
 1. Az állami adó- és vámhatósághoz a köznevelési feladatot ellátó egyes önkormányzati fenntartású intézmények állami feladatellátásba vételével kapcsolatos állami adó- és vámhatósági feladatok ellátása céljából
 
-a) a Klebelsberg Intézményfenntartó Központ adatot szolgáltat a beolvadó intézmény nevének, adószámának feltüntetésével azon települési önkormányzatok nevéről és adószámáról, amelyek a köznevelési feladatot ellátó egyes önkormányzati fenntartású intézmények állami fenntartásba vételéről szóló 2012. évi CLXXXVIII. törvény szerint intézményt működtetnek, a működtetés kezdetének napja megjelölésével, és
+a) a tankerületi központ adatot szolgáltat a beolvadó intézmény nevének, adószámának feltüntetésével azon települési önkormányzatok nevéről és adószámáról, amelyek a köznevelési feladatot ellátó egyes önkormányzati fenntartású intézmények állami fenntartásba vételéről szóló 2012. évi CLXXXVIII. törvény szerint intézményt működtetnek, a működtetés kezdetének napja megjelölésével, és
 
 b) azon települési önkormányzat, amely az a) pont szerinti intézményt nem maga működteti, a működtetett intézmény nevének, adószámának feltüntetésével adatot szolgáltat az intézményt működtető, jogutódnak tekintendő költségvetési szerv, gazdasági társaság adószámáról, nevéről a működtetett intézmény működtetése kezdetének napja megjelölésével.
 
@@ -193,3 +193,5 @@ b) azon települési önkormányzat, amely az a) pont szerinti intézményt nem 
 4. Amennyiben az 1. pontban említett adatok tekintetében változás következik be, akkor a változással érintett adatok vonatkozásában az adatszolgáltatást a tárgyhónapot követő hónap 25. napjáig kell teljesíteni.
 
 S)
+
+T) A nyugdíjbiztosítási igazgatási szerv, valamint a fővárosi és megyei kormányhivatal a tárgyévet követő év január 31-éig adatot szolgáltat a rokkantsági járadék és a fogyatékossági támogatás megállapításáról szóló határozat tartalmáról.

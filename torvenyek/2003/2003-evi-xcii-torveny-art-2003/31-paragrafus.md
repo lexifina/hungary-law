@@ -12,7 +12,7 @@
 
 4. a magánszemély adóazonosító jeléről,
 
-5. a biztosításban töltött idő tartamáról, az alkalmazás minőségének, jogcímének kódjáról, valamint a magánszemély nyugdíjas státuszáról, a gyermekgondozási díj vagy a gyermekgondozást segítő ellátás folyósítása melletti munkavégzésének tényéről, illetve arról, hogy korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő naptári napjainak számáról,
+5. a biztosításban töltött idő tartamáról, az alkalmazás minőségének, jogcímének kódjáról, valamint a magánszemély nyugdíjas státuszáról, a gyermekgondozási díj vagy a gyermekgondozást segítő ellátás folyósítása melletti munkavégzésének tényéről, illetve arról, hogy korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, továbbá az arányos szolgálati idő számításának szükségességéről,
 
 6. a magánszemély tekintetében a személyi jövedelemadóról szóló törvény 29/A. § és 29/B. § szerinti kedvezmény érvényesítéséhez szükséges következő adatokról:
 
@@ -104,7 +104,7 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 (3) Az adózó az adóbevallásban az adózó azonosításához szükséges adatok között feltünteti adóazonosító számát. Az adózó adóazonosító szám birtokában olyan időszakról is tehet adóbevallást, amelyben adóazonosító számmal nem rendelkezett, adó-visszaigénylést, adó- visszatérítést ezen időszakra csak a 24. § (7) bekezdésében foglalt korlátokkal érvényesíthet.
 
-(4) Az adóbevallás benyújtásában akadályozott adózó az akadályoztatás megszűnését követő 15 napon belül tesz adóbevallást. A késedelem igazolására vonatkozó kérelmet (a továbbiakban: igazolási kérelem) a bevallással egyidejűleg kell benyújtani. Ha a vállalkozási tevékenységet nem folytató és általános forgalmi adó fizetésére nem kötelezett magánszemélynek a személyi jövedelemadó-bevallás elkészítéséhez szükséges iratok, igazolások önhibáján kívül nem állnak rendelkezésére és ezért bevallását előreláthatóan nem tudja határidőben benyújtani, a bevallási késedelemről a bevallás benyújtására előírt határidőn belül bejelentést tesz. A magánszemély adózó a bejelentéshez kapcsolódó adóbevallást a bevallási késedelmet kimentő igazolási kérelemmel együtt nyújtja be. Az igazolási kérelem nem utasítható el, ha a magánszemély külföldről származó jövedelemmel is rendelkezik és a határidő mulasztását azzal menti ki, hogy az adókötelezettségének megállapításához nemzetközi egyezmény, viszonosság, vagy külföldi adójog vizsgálata szükséges.
+(4) Az adóbevallás benyújtásában akadályozott adózó az akadályoztatás megszűnését követő 15 napon belül tesz adóbevallást. A késedelem igazolására vonatkozó kérelmet (a továbbiakban: igazolási kérelem) a bevallással egyidejűleg kell benyújtani. Ha a vállalkozási tevékenységet nem folytató és általános forgalmi adó fizetésére nem kötelezett magánszemélynek a személyi jövedelemadó-bevallás elkészítéséhez, az adóbevallási tervezet adatainak felülvizsgálatához szükséges iratok, igazolások önhibáján kívül nem állnak rendelkezésére és ezért bevallását előreláthatóan nem tudja határidőben benyújtani, illetve az adóbevallási tervezetet nem tudja határidőben felülvizsgálni, a bevallási késedelemről a bevallás benyújtására előírt határidőn belül bejelentést tesz. A magánszemély adózó a bejelentéshez kapcsolódó adóbevallást a bevallási késedelmet kimentő igazolási kérelemmel együtt nyújtja be. Az igazolási kérelem nem utasítható el, ha a magánszemély külföldről származó jövedelemmel is rendelkezik és a határidő mulasztását azzal menti ki, hogy az adókötelezettségének megállapításához nemzetközi egyezmény, viszonosság, vagy külföldi adójog vizsgálata szükséges.
 
 (5) A társasági adóbevallás helyett az adóévet követő év május 31-éig – bevallást helyettesítő nyomtatványon – nyilatkozatot tesz az alapítvány, a közalapítvány, az egyesület, a köztestület, az egyházi jogi személy, a lakásszövetkezet, az önkéntes kölcsönös biztosítópénztár, a közhasznú szervezetként besorolt felsőoktatási intézmény, az európai területi társulás, foglalkoztatói nyugdíjszolgáltató intézmény, feltéve, hogy az adóévben vállalkozási tevékenységből (az önkéntes kölcsönös biztosítópénztár kiegészítő vállalkozási tevékenységéből) származó bevételt nem ér el, vagy e tevékenységéhez kapcsolódóan költséget, ráfordítást nem számol el.
 
@@ -118,7 +118,7 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 (9) A foglalkoztatónak nem minősülő biztosított mezőgazdasági őstermelő nem kötelezett a (2) bekezdés szerinti bevallás és adatszolgáltatás benyújtására, ha a tárgyévet megelőző évben bevétele nem volt, kivéve, ha a tevékenységét a tárgyévben kezdte, vagy az adóévre vonatkozóan nyilatkozatban vállalta, hogy a Tbj. 30/A. §-ának (1)–(2) bekezdésében meghatározott járulékalapnál magasabb összeg után fizeti meg a járulékokat.
 
-(10) A nyugdíjfolyósító szervet nem terheli havi adó- és járulék bevallási kötelezettség az általa kifizetett nyugdíj, rehabilitációs járadék, korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék, átmeneti bányászjáradék, illetőleg a nyugdíjast megillető baleseti járadék, és egyéb más folyósított ellátás tekintetében.
+(10) A nyugdíjfolyósító szervet nem terheli havi adó- és járulék bevallási kötelezettség az általa kifizetett nyugdíj, rehabilitációs járadék, korhatár előtti ellátás, szolgálati járandóság, táncművészeti életjáradék, átmeneti bányászjáradék, illetőleg a nyugdíjast megillető baleseti járadék, és egyéb más folyósított ellátás tekintetében.
 
 (11)
 
@@ -128,4 +128,14 @@ e) amely után az adó megfizetése a kifizetőt terheli,
 
 (14) Az adóbevallást, illetőleg az adóbevallással egyenértékű nyilatkozatot adótanácsadó, adószakértő, okleveles adószakértő ellenjegyezheti. Az ellenjegyzett hibás adóbevallás, illetőleg adóbevallással egyenértékű nyilatkozat esetén a mulasztási bírságot az adóhatóság az adótanácsadó, adószakértő, okleveles adószakértő terhére állapítja meg.
 
-(15) Az a munkáltató, amely (aki) a tárgyhóban az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerint foglalkoztat munkavállalót, a 31. § (2) bekezdése szerinti adatokból kizárólag a következő adatok megadására köteles: a munkáltató adóazonosító száma, a magánszemély neve, adóazonosító jele, a magánszemély nyugdíjas státusza, illetve hogy a magánszemély korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, valamint a 27. pont szerinti adatok.
+(15) Az a munkáltató, amely (aki) a tárgyhóban az egyszerűsített foglalkoztatásról szóló törvény rendelkezései szerint foglalkoztat munkavállalót, a 31. § (2) bekezdése szerinti adatokból kizárólag a következő adatok megadására köteles: a munkáltató adóazonosító száma, a magánszemély neve, adóazonosító jele, a magánszemély nyugdíjas státusza, illetve hogy a magánszemély korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban vagy átmeneti bányászjáradékban részesül-e, valamint a 27. pont szerinti adatok.
+
+(16) Ha a belföldi illetőségű magánszemély a kifizetőtől kizárólag a személyi jövedelemadóról szóló törvény szerinti osztalékjövedelmet szerez, akkor a (2) bekezdés szerinti bevallásban és adatszolgáltatásban a magánszemély tekintetében azonosító adatként
+
+a) a nevét,
+
+b) a születési dátumát, és
+
+c) adóazonosító jelét
+
+kell szerepeltetni.

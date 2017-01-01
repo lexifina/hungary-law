@@ -12,7 +12,7 @@ b) a postai kézbesítés második megkísérlését követő ötödik munkanapo
 
 (4) Ha törvény egyidejűleg több adózó fizetési kötelezettségét írja elő, az adóhatóság az adómegállapításról szóló határozatot a közös képviselőnek, ennek hiányában valamennyi adózónak külön-külön kézbesíti.
 
-(5) Adóügyekben az elektronikus úton kézbesített adóhatósági irat az átvétel napján kézbesítettnek minősül, ha a központi elektronikus szolgáltató rendszer az irat kézhezvételét igazolja vissza. Az elektronikus úton kézbesített adóhatósági irat vonatkozásában a kézbesítési vélelem az iratnak az elektronikus kézbesítési tárhelyen történő ismételt elhelyezésétől számított ötödik napot követő munkanapon áll be.
+(5) Adóügyekben az elektronikus úton kézbesített adóhatósági irat az átvétel napján kézbesítettnek minősül, ha a központi elektronikus szolgáltató rendszer az irat kézhezvételét igazolja vissza. Az elektronikus úton kézbesített adóhatósági irat vonatkozásában a kézbesítési vélelem az iratnak az elektronikus kézbesítési tárhelyen történő elhelyezésről szóló második értesítést követő ötödik munkanapon áll be.
 
 (6) Amennyiben az adózónak több meghatalmazott képviselője van, az adóhatóság az iratot az adózó által az iratok átvételére írásban kijelölt képviselőnek kézbesíti, ilyen kijelölés hiányában az adóhatóság az iratot az adózó általa választott meghatalmazott képviselőjének kézbesíti.
 

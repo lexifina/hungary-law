@@ -110,7 +110,7 @@ a negyedévet követő hó 20. napjáig
 
 fizeti meg. Az adóév utolsó havi, negyedévi előlegét a társasági adóról és az osztalékadóról szóló törvény szerinti előlegkiegészítésre kötelezettek a b) pontban előírt előlegkiegészítéssel egyidejűleg teljesítik.
 
-b) Az adózónak az 1. számú melléklet I/B/2./c) pontja szerint bevallott társasági adóelőleg-kiegészítést a tárgyév utolsó hónapjának 20. napjáig kell megfizetnie.
+b) Az adózónak az 1. számú melléklet I/B/2./d) pontja szerint bevallott társasági adóelőleg-kiegészítést a tárgyév utolsó hónapjának 20. napjáig kell megfizetnie.
 
 B) A társasági adó
 
@@ -254,7 +254,7 @@ szeptember 15-éig
 
 fizet.
 
-c) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak az iparűzési adóelőleget a várható éves fizetendő adó összegére az adóév december 20. napjáig
+c) A társasági adóelőlegének az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak az iparűzési adóelőleget a várható éves fizetendő adó összegére az adóév december 20. napjáig
 
 kell kiegészítenie.
 
@@ -358,6 +358,8 @@ B) Jövedéki adó
 
 Az adózó a jövedéki adó előlegének és a megállapított nettó jövedéki adónak a különbözetét havonta,
 
-a tárgyhót követő hó 20. napjáig
+a) a tárgyhót követő hó 20. napjáig,
 
-fizeti meg, illetve ettől az időponttól igényelheti. Az előbbi rendelkezések a dohánygyártmányok esetében csak arra az adóra vonatkoznak, amelyet nem adójeggyel fizetnek meg.
+b) az a) ponttól eltérően a kizárólag dohánygyártmányt előállító, forgalmazó adózó a 2 milliárd forintot meg nem haladó adó összegét a tárgyhót követő második hónap 20. napjáig
+
+fizeti meg, illetve ettől az időponttól igényelheti.

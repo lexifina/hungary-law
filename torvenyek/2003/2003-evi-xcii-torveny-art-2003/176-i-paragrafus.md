@@ -2,7 +2,7 @@
 
 176/I. § (1) A felügyeleti szolgáltatói tevékenység hatósági engedélyhez kötött tevékenység.
 
-(2) A felügyeleti szolgáltatói engedélyezési eljárás tekintetében a Magyar Kereskedelmi Engedélyezési Hivatal (a továbbiakban: engedélyező hatóság) jár el.
+(2) A felügyeleti szolgáltatói engedélyezési eljárás tekintetében a mérésügyi feladatkörében eljáró Budapest Főváros Kormányhivatala (a továbbiakban: engedélyező hatóság) jár el.
 
 (3) A felügyeleti szolgáltatói tevékenységre vonatkozó engedélyezési eljárás lefolytatásához szükséges, adótitoknak minősülő adatokról az állami adó- és vámhatóság tájékoztatja az engedélyező hatóságot.
 

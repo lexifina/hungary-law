@@ -2,7 +2,9 @@
 
 108. § (1) A becslés olyan bizonyítási módszer, amely a törvényeknek megfelelő, a valós adó, illetve költségvetési támogatás alapját valószínűsíti.
 
-(2) Az adóhatóság bizonyítja, hogy a becslés alkalmazásának a feltételei fennállnak, továbbá azt, hogy a becslés alapjául szolgáló adatok, tények, körülmények, valamint a becslés során alkalmazott módszerek az adó alapját valószínűsítik. Kizárólag közérdekű bejelentésből származó, ellenőrizhető bizonyítékkal alá nem támasztott adatok alapján becslés nem alkalmazható.
+(1a) Ha az adóhatóság az adó alapját is becsléssel állapítja meg, írásban tájékoztatja az adózót a becslés alkalmazásáról és határidő tűzésével felhívja észrevételei, bizonyítási indítványai megtételére, továbbá az 1. § (5) bekezdésében foglaltak alapján tájékoztatja arról, hogy mely tények bizonyítása szükséges a becsléssel megállapított adóalaptól való eltéréshez.
+
+(2) Az adóhatóság bizonyítja és legkésőbb az ellenőrzés befejezésekor készített jegyzőkönyvben számot ad arról, hogy a becslés alkalmazásának a feltételei fennállnak, továbbá azt, hogy a becslés alapjául szolgáló adatok, tények, körülmények, valamint a becslés során alkalmazott módszerek az adó alapját valószínűsítik. Kizárólag közérdekű bejelentésből származó, ellenőrizhető bizonyítékkal alá nem támasztott adatok alapján becslés nem alkalmazható.
 
 (3) Becslés alkalmazható
 

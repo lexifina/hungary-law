@@ -79,3 +79,5 @@ d)
 kizárólag ügyvéd, adótanácsadó, adószakértő, okleveles adószakértő vagy könyvvizsgáló képviseletével járhat el.
 
 (7) A (6) bekezdés szerinti képviselet a saját ügyben nem kötelező, ha a magánszemély vagy a jogi személy, jogi személyiséggel nem rendelkező egyéb szervezet vezető tisztségviselője jogi szakvizsgával rendelkezik vagy könyvvizsgálónak, adótanácsadónak, adószakértőnek, okleveles adószakértőnek minősül. A jogi szakvizsga megszerzését, a könyvvizsgálói, az adótanácsadói, adószakértői, okleveles adószakértői minőséget a (6) bekezdésben meghatározott hatósági eljárások megindítására irányuló kérelemmel egyidejűleg kell igazolni.
+
+(8) Nem járhat el meghatalmazottként az adóhatóság előtti eljárásban az eltiltás hatálya alatt az a magánszemély, akit a cégbíróság vagy a bíróság jogerősen eltiltott a vezető tisztségviselői tisztség gyakorlásától.

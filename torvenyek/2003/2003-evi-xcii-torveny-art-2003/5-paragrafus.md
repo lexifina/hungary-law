@@ -18,10 +18,12 @@ vonatkozó szabályait.
 
 (2b) Az adóhatóság a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény szerinti ideiglenes biztosítási intézkedés elrendelése esetén e törvény biztosítási intézkedésre vonatkozó rendelkezéseit alkalmazza. Adóügyekben az ideiglenes biztosítási intézkedés a határozat jogerőre emelkedésével nem veszti hatályát.
 
-(3) Adóügyben az elektronikus kapcsolattartásra és elektronikus ügyintézésre akkor van lehetőség, ha azt jogszabály az ügy típusának megjelölésével lehetővé teszi. A közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvény elektronikus kapcsolattartásra és elektronikus ügyintézésre vonatkozó szabályait az ügyre vonatkozó jogszabályban meghatározott eltérésekkel kell alkalmazni.
+(3)
+
+(3a) Az állami adó- és vámhatóság telefonos ügyféltájékoztató és ügyintéző rendszert működtet, amelynek keretében az adózó vagy képviselője számára az állami adó- és vámhatóság vezetője által meghatározott ügyek intézését biztosítja. A rendszerbe történő bejelentkezéshez az adózónak vagy képviselőjének ügyfélazonosító számmal kell rendelkeznie, az ügyintézés azonosítást követően folytatható.
 
 (4) Adóügyekben a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól szóló törvénynek a kérelemre vonatkozó szabályait azzal az eltéréssel kell alkalmazni, hogy – jogszabály eltérő rendelkezése hiányában – az adózó nem kérheti az adóhatóságnál, hogy az más szervet adatszolgáltatás iránt keressen meg.
 
 (5) E törvénytől eltérni az (1) bekezdésben foglaltakon túl az Európai Unió kötelező jogi aktusa, törvénnyel, kormányrendelettel kihirdetett nemzetközi szerződés vagy viszonosság alapján lehet. A viszonosság kérdésében az adópolitikáért felelős miniszter és a külpolitikáért felelős miniszter együttes állásfoglalása az irányadó.
 
-(6) A 4. § (4) bekezdés c) pontjában foglaltakra figyelemmel a jogszabályban ügyfélnek minősülő személyre a fizetési kötelezettségével kapcsolatban e törvény adózóra vonatkozó rendelkezései is megfelelően alkalmazandóak.
+(6) A 4. § (4) bekezdés b) pontjában foglaltakra figyelemmel a jogszabályban ügyfélnek minősülő személyre a fizetési kötelezettségével kapcsolatban e törvény adózóra vonatkozó rendelkezései is megfelelően alkalmazandóak.

@@ -10,4 +10,4 @@ b) nem áll gazdasági, pénzügyi-számviteli vagy jogi végzettséghez kötöt
 
 c) rendelkezik az e törvényben és az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott szakmai képesítéssel, szakképzettséggel és gyakorlattal, valamint megfelel az e törvény felhatalmazása alapján kiadott jogszabályban meghatározott egyéb feltételeknek.
 
-(3) Jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenységet – az (1) bekezdés szerinti bejelentést követően – akkor folytathat, ha legalább egy tagja vagy alkalmazottja az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásában szerepel.
+(3) Jogi személy vagy jogi személyiséggel nem rendelkező egyéb szervezet adótanácsadói, adószakértői, illetve okleveles adószakértői tevékenységet akkor folytathat, ha legalább egy tagja vagy alkalmazottja – az (1) bekezdés szerinti bejelentést követően – az adótanácsadók, adószakértők és okleveles adószakértők nyilvántartásában szerepel.

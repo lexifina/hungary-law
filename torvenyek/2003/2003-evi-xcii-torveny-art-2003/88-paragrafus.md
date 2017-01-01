@@ -26,6 +26,8 @@ e) – ha a kirakodási cím nem az általános forgalmi adóalany székhelye, t
 
 (6d) Ha a közúti fuvarozással járó tevékenység során a hatósági zár baleset vagy egyéb tevékenységi körén kívül álló elháríthatatlan ok miatt megsérült, vagy az áru megrongálódott, illetve megsemmisült, a fuvarozó köteles erről az állami adó- és vámhatóságot haladéktalanul értesíteni.
 
+(6e) A hatósági zár alkalmazása ellen az adózó, valamint az, akinek jogát, jogos érdekét az intézkedés sérti, az intézkedéstől számított 8 napon belül panasszal élhet, amelyet a felettes szerv bírál el. A panasznak az intézkedés végrehajtására nincs halasztó hatálya.
+
 (7) Az Európai Közösség más tagállamában nyilvántartásba vett távolsági tömegközlekedési eszköz vezetőjét az állami adó- és vámhatóság ellenőrizheti annak megállapítása érdekében, hogy végez-e belföldön helyközi személyszállítási szolgáltatást és az üzemben tartó eleget tett-e bejelentkezési kötelezettségének.
 
 (8) Az állami adó- és vámhatóság a (6) bekezdés szerinti esetben az ellenőrzésről nem készít jegyzőkönyvet, ha jogszabálysértést nem állapít meg, kivéve, ha a termék fuvarozását végző személy jegyzőkönyv felvételét kéri.

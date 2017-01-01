@@ -18,7 +18,7 @@ esetén a támogatást nyújtó, a felajánló adózó megnevezése, az általa 
 
 (4) Az (1) bekezdésben meghatározott adatkörön belül nem minősül adótitoknak a nyilvános cégadat, a céginformációs és az elektronikus cégeljárásban közreműködő szolgálattól kérhető adat, valamint az az adat, amely alanyával (adóalannyal vagy adózóval) nem hozható kapcsolatba.
 
-(5) Az (1) bekezdésben meghatározott adatkörön belül nem minősül adótitoknak alapítvány, egyesület esetében a 16. § (3) bekezdés szerinti adata, a bírósági nyilvántartás nyilvános adata, valamint az alapítvány, egyesület bírósági nyilvántartásának üzemeltetőjétől kérhető adat, valamint az az adat, amely alanyával (adóalannyal vagy adózóval) nem hozható kapcsolatba.
+(5) Az (1) bekezdésben meghatározott adatkörön belül nem minősül adótitoknak bíróság által nyilvántartandó jogi személy esetében a 16. § (3) bekezdés szerinti adata, a bírósági nyilvántartás nyilvános adata, valamint a bíróság által nyilvántartandó jogi személy bírósági nyilvántartásának üzemeltetőjétől kérhető adat, valamint az az adat, amely alanyával (adóalannyal vagy adózóval) nem hozható kapcsolatba.
 
 (6) Az (1) bekezdésben meghatározott adatkörön belül nem minősül adótitoknak
 

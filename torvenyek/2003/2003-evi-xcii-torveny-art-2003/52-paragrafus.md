@@ -28,7 +28,7 @@ f) külön törvény szerint befektetési szolgáltatási tevékenység végzés
 
 g) a jegyző,
 
-h) nyugdíjat, rehabilitációs járadékot, korhatár előtti ellátást, szolgálati járandóságot, balettművészeti életjáradékot, átmeneti bányászjáradékot folyósító szerv,
+h) nyugdíjat, rehabilitációs járadékot, korhatár előtti ellátást, szolgálati járandóságot, táncművészeti életjáradékot, átmeneti bányászjáradékot folyósító szerv,
 
 i) az engedélyt kiadó hatóság,
 
@@ -56,7 +56,7 @@ u) a járási hivatal,
 
 v) a szociális szövetkezet,
 
-w) a Klebelsberg Intézményfenntartó Központ és a települési önkormányzat.
+w) a tankerületi központ és a települési önkormányzat.
 
 (5) Az adatszolgáltatásra kötelezett személy adatszolgáltatásának tartalmaznia kell a magánszemély adóazonosító számát.
 
@@ -64,9 +64,9 @@ w) a Klebelsberg Intézményfenntartó Központ és a települési önkormányza
 
 (7) Az állami adó- és vámhatóság
 
-a) megkeresésre adatot szolgáltat
+a) megkeresésre 15 napon belül adatot szolgáltat
 
-aa) a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, rehabilitációs hatóság és az egészségbiztosítási szerv, az állami foglalkoztatási szerv, a munkaügyi hatóság, valamint a menekültügyi és idegenrendészeti hatóság részére az adóval összefüggő adatról, tényről, körülményről, ha az valamely ellátás vagy támogatás megállapítása, valamint a folyósítás és a jogviszonyok jogszerűségének ellenőrzése érdekében, idegenrendészeti feladatai ellátásához, továbbá
+aa) a központi nyugdíjbiztosítási szerv, a nyugdíjbiztosítási igazgatási szerv, rehabilitációs hatóság, a szociális hatáskört gyakorló szerv és az egészségbiztosítási szerv, az állami foglalkoztatási szerv, a munkaügyi hatóság, valamint a menekültügyi és idegenrendészeti hatóság részére az adóval összefüggő adatról, tényről, körülményről, ha az valamely ellátás vagy támogatás megállapítása, valamint a folyósítás és a jogviszonyok jogszerűségének ellenőrzése érdekében, idegenrendészeti feladatai ellátásához, továbbá
 
 ab) az állami foglalkoztatási szerv részére, ha statisztikai célú adatfeldolgozás érdekében
 
@@ -74,7 +74,7 @@ szükséges,
 
 b) elektronikus úton hivatalból átadja a (4) bekezdésben meghatározott bevallásra kötelezettek és a mezőgazdasági őstermelő által benyújtott, 31. § (2) bekezdése szerinti bevallásban szereplő adatok közül
 
-ba) a nyugdíjjogosultsághoz, nyugdíj-megállapításhoz, valamint a nyugdíjfolyósító szerv által folyósított ellátások jogszerűségének vizsgálatához szükséges adatokat a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére;
+ba) a nyugdíjjogosultsághoz, nyugdíj-megállapításhoz, valamint a nyugdíjfolyósító szerv által folyósított ellátások jogszerűségének vizsgálatához szükséges adatokat a központi nyugdíjbiztosítási szerv részére;
 
 bb) az egészségbiztosítási ellátások, valamint a rehabilitációs hatóság által folyósított ellátások utólagos ellenőrzéséhez szükséges adatokat az egészségbiztosítási szerv, és a rehabilitációs hatóság részére;
 
@@ -82,11 +82,11 @@ bc) az álláskeresési támogatások és a foglalkoztatást elősegítő támog
 
 c)
 
-d) a társadalombiztosítási ellátások és a foglalkoztatást elősegítő támogatások megállapítása és ellenőrzése céljából elektronikus úton hivatalból átadja a vendéglátó üzlet felszolgálója által a személyi jövedelemadóról benyújtott bevallásban bevallott borravaló után fizetett nyugdíjjárulék alapjára és összegére vonatkozó adatokat a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv részére.
+d) a társadalombiztosítási ellátások és a foglalkoztatást elősegítő támogatások megállapítása és ellenőrzése céljából elektronikus úton hivatalból átadja a vendéglátó üzlet felszolgálója által a személyi jövedelemadóról benyújtott bevallásban bevallott borravaló után fizetett nyugdíjjárulék alapjára és összegére vonatkozó adatokat a központi nyugdíjbiztosítási szerv részére.
 
-e) a bevallásra előírt határidőt követő hónap utolsó napjáig, a nyugdíjfolyósító szerv részére elektronikus úton hivatalból átadja a 31. § (2) bekezdés 5. pontja szerinti nyugdíjas státusszal rendelkező vagy korhatár előtti ellátásban, szolgálati járandóságban, balettművészeti életjáradékban, átmeneti bányászjáradékban részesülő magánszemélyre vonatkozó tárgyévi nyugdíjjárulék-alapot képező összesített jövedelmi adatokat ahhoz az időponthoz igazodva, amikor a magánszemély tárgyévi nyugdíjjárulék-alapot képező jövedelme meghaladja a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (továbbiakban: Tny. törvény) 83/B. §-ában meghatározott éves keretösszeget;
+e) a bevallásra előírt határidőt követő hónap utolsó napjáig, az ellátás folyósításának szüneteltetésére hatáskörrel rendelkező nyugdíjbiztosítási igazgatási szerv részére elektronikus úton hivatalból átadja a 31. § (2) bekezdés 5. pontja szerinti nyugdíjas státusszal rendelkező vagy korhatár előtti ellátásban, szolgálati járandóságban, táncművészeti életjáradékban, átmeneti bányászjáradékban részesülő magánszemélyre vonatkozó tárgyévi nyugdíjjárulék-alapot képező összesített jövedelmi adatokat ahhoz az időponthoz igazodva, amikor a magánszemély tárgyévi nyugdíjjárulék-alapot képező jövedelme meghaladja a társadalombiztosítási nyugellátásról szóló 1997. évi LXXXI. törvény (továbbiakban: Tny. törvény) 83/B. §-ában meghatározott éves keretösszeget;
 
-f) elektronikus úton hivatalból átadja a személyi jövedelemadóról szóló törvény hatálya alá tartozó kiegészítő tevékenységet folytató egyéni vállalkozó által a személyi jövedelemadó-bevallásban bevallott valamint az egyszerűsített vállalkozói adóról szóló törvény hatálya alá tartozó kiegészítő tevékenységet folytató egyéni vállalkozó által az eva-bevallásban bevallott nyugdíjjárulék alapját és összegét a Nyugdíjbiztosítási Alap kezeléséért felelős szerv részére az adóévet követő év augusztus 31. napjáig.
+f) elektronikus úton hivatalból átadja a személyi jövedelemadóról szóló törvény hatálya alá tartozó kiegészítő tevékenységet folytató egyéni vállalkozó által a személyi jövedelemadó-bevallásban bevallott valamint az egyszerűsített vállalkozói adóról szóló törvény hatálya alá tartozó kiegészítő tevékenységet folytató egyéni vállalkozó által az eva-bevallásban bevallott nyugdíjjárulék alapját és összegét a központi szerv részére az adóévet követő év augusztus 31. napjáig.
 
 g) a foglalkoztató megszűnésének, a vállalkozási tevékenység megszüntetésének, az őstermelői igazolvány visszaadásának, visszavonásának időpontjáról, az egyéni vállalkozói, illetve az ügyvédi, szabadalmi ügyvivői tevékenység, valamint a közjegyzői szolgálat szünetelésének időtartamáról hivatalból tájékoztatja az egészségbiztosítási szervet, a nyugdíjbiztosítási szervet, ha a magánszemélyre vonatkozóan a munkáltató, kifizető (ideértve a saját biztosítási jogviszonyának tekintetében az egyéni vállalkozót, a biztosított mezőgazdasági őstermelőt és a Tbj. 56/A. § (4) bekezdése szerinti kötelezettet is) biztosítási jogviszony létesítésével kapcsolatos adatot közölt (bejelentést tett), de a biztosítási jogviszony megszűnésének időpontját a foglalkoztatónak minősülő személy nem jelentette be és arról az adóhatóságnak hivatalos tudomása van.
 
@@ -108,7 +108,9 @@ k)
 
 l)
 
-m) elektronikus úton negyedévente, a negyedévet követő hó utolsó napjáig hivatalból átadja a szociális szövetkezet által benyújtott, 31. § (2) bekezdése szerinti bevallásban szereplő adatok közül az egészségügyi szolgáltatási járulékkülönbözet összegére vonatkozó – negyedéves – adatokat a különbözetet az Egészségbiztosítási Alapnak megtérítő Nemzeti Foglalkoztatási Alap részére, az Egészségbiztosítási Alap részére megtérítendő járulékkülönbözet összegének meghatározása érdekében.
+m) elektronikus úton negyedévente, a negyedévet követő hó utolsó napjáig hivatalból átadja a szociális szövetkezet által benyújtott, 31. § (2) bekezdése szerinti bevallásban szereplő adatok közül az egészségügyi szolgáltatási járulékkülönbözet összegére vonatkozó – negyedéves – adatokat a különbözetet az Egészségbiztosítási Alapnak megtérítő Nemzeti Foglalkoztatási Alap részére, az Egészségbiztosítási Alap részére megtérítendő járulékkülönbözet összegének meghatározása érdekében,
+
+n) elektronikus úton havonta a bevallás benyújtására előírt határidőt követő hónap utolsó napjáig a gazdasági kamarák részére – a szakképzésről szóló törvény 42. § (2a) és (6) bekezdésében előírt feladatainak ellátása céljából – hivatalból átadja a szakképzési hozzájárulásra kötelezett által benyújtott bevallásban szereplő azon adatot, amely szerint a szakképzési hozzájárulásra kötelezett nem minősül a szakképzési hozzájárulásról és a képzés fejlesztésének támogatásáról szóló törvény 3. § d) pontjában meghatározott szervezetnek.
 
 (7a) Az állami adó- és vámhatóság vezetője a nemzetbiztonsági szolgálatokról szóló 1995. évi CXXV. törvény 28. § (5) bekezdésével összhangban a nemzetbiztonsági szolgálatok hivatásos állományának tagját érintő biztosítotti bejelentés szabályait, az adózással kapcsolatos bevallások, adatszolgáltatások rendjét és az azzal összefüggő eljárási szabályokat – a törvényi előírások keretei között – a nemzetbiztonsági szolgálattal külön megállapodásban rögzíti.
 

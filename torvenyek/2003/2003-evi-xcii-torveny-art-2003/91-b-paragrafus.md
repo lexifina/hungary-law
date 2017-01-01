@@ -1,6 +1,6 @@
 ## Felhívás önellenőrzésre
 
-91/B. § (1) Az adóhatóság a vállalkozói tevékenységet nem folytató magánszemély adózót – önellenőrzésre történő felhívás útján – önellenőrzés elvégzésére hívhatja fel, ha az adózó bevallásának adatai és az állami adó- és vámhatóság rendelkezésére álló adatok alapján az adózó terhére mutatkozó eltérést állapít meg.
+91/B. § (1) Az adóhatóság az adózót – önellenőrzésre történő felhívás útján – önellenőrzés elvégzésére hívhatja fel, ha az adózó bevallásának adatai és az állami adó- és vámhatóság rendelkezésére álló adatok alapján az adózó terhére mutatkozó eltérést állapít meg.
 
 (2) Az elektronikus vagy postai úton megküldött felhívás tartalmazza
 
@@ -8,7 +8,7 @@ a) az adózó nevét, lakcímét, adóazonosító jelét,
 
 b) az önellenőrzésre felhívással érintett időszakot és adónem megjelölését,
 
-c) a havi adó- és járulékbevallásra, valamint adatszolgáltatásra kötelezettek bevallása, illetve adatszolgáltatása alapján számított adó alapját, az adót, a visszatérítendő adót, a befizetendő adót, valamint az adatok alapjául szolgáló, az adóhatóság nyilvántartásában szereplő adatokat, továbbá az eltérés összegét.
+c) vállalkozási tevékenységet nem folytató magánszemélyek esetében a havi adó- és járulékbevallásra, valamint adatszolgáltatásra kötelezettek bevallása, illetve adatszolgáltatása alapján számított adó alapját, az adót, a visszatérítendő adót, a befizetendő adót, valamint az adatok alapjául szolgáló, az adóhatóság nyilvántartásában szereplő adatokat, továbbá az eltérés összegét.
 
 (3) Az önellenőrzésre való felhívásnak az adózó nem köteles eleget tenni, az önellenőrzés elmulasztása esetén mulasztási bírság kiszabásának nincs helye.
 

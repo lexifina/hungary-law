@@ -112,10 +112,16 @@ terjedő mulasztási bírsággal sújtható.
 
 (20g) Az állami adó- és vámhatóság
 
-a) pénztárgép, taxaméter forgalmazási engedély nélküli forgalmazása, a forgalmazási engedély visszavonását követő továbbforgalmazása, továbbá engedélyezettől eltérő pénztárgép, taxaméter forgalmazása esetén 10 millió forintig terjedő mulasztási bírságot szab ki,
+a) a forgalmazó terhére a pénztárgép, taxaméter forgalmazási engedély nélküli forgalmazása, a pénztárgép, taxaméter forgalmazási engedély visszavonását követő továbbforgalmazása, engedélyezettől eltérő pénztárgép, taxaméter forgalmazása esetén 10 millió forintig terjedő mulasztási bírságot szab ki,
 
-b) a pénztárgép, taxaméter forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos, jogszabályban meghatározott kötelezettségek egyéb módon történő megszegése esetén a magánszemély kötelezettet (forgalmazót, üzemeltetőt, szervizt, műszerészt) 500 ezer forintig, nem magánszemély kötelezettet 1 millió forintig terjedő mulasztási bírsággal sújthatja.
+b) a pénztárgép, taxaméter kötelező használatával, forgalmazásával, üzemeltetésével, szervizelésével kapcsolatos, jogszabályban meghatározott kötelezettségek megszegése esetén a magánszemély kötelezettet (forgalmazót, üzemeltetőt, szervizt, műszerészt) 500 ezer forintig, nem magánszemély kötelezettet 1 millió forintig terjedő mulasztási bírsággal sújthatja.
 
 (20h) Ha a fuvarozó az Art. 88. § (6c) bekezdésében meghatározott kötelezettségeinek nem tesz eleget, az állami adó- és vámhatóság a magánszemély terhére legalább 200 000 Ft, legfeljebb 500 000 Ft, magánszemélynek nem minősülő fuvarozó terhére legalább 500 000 Ft, legfeljebb 1 000 000 Ft mulasztási bírságot szabhat ki.
+
+(20i) Az állami adó- és vámhatóság
+
+a) a felügyeleti szolgáltatói engedély nélküli AFE forgalmazása, a felügyeleti szolgáltatói engedély visszavonását követően az AFE továbbforgalmazása, továbbá a felügyeleti szolgáltatói engedélytől eltérő AFE forgalmazása, felügyeleti szolgáltatói engedély nélküli szolgáltatásnyújtás, felügyeleti szolgáltatói engedély visszavonását követő szolgáltatásnyújtás esetén 10 millió forintig terjedő mulasztási bírságot szab ki a forgalmazó, illetve a szolgáltatásnyújtó terhére,
+
+b) az automataberendezés üzemeltetésével, az AFE forgalmazásával, szervizelésével kapcsolatos, jogszabályban meghatározott kötelezettségek egyéb módon történő megszegése esetén a magánszemély kötelezettet (forgalmazót, üzemeltetőt, szervizt, műszerészt) 500 ezer forintig, nem magánszemély kötelezettet 1 millió forintig terjedő mulasztási bírsággal sújthatja.
 
 (21) A mulasztási bírság kiszabásánál – különös tekintettel a (4) és (5) bekezdésben meghatározott esetekre – az adóhatóság mérlegeli az eset összes körülményét, az adózó jogellenes magatartásának (tevékenységének vagy mulasztásának) súlyát, gyakoriságát, továbbá azt, hogy az adózó, illetve intézkedő képviselője, alkalmazottja, tagja vagy megbízottja az adott helyzetben a tőle elvárható körültekintéssel járt-e el. A körülmények mérlegelése alapján az adóhatóság a mulasztás súlyához igazodó az adózási érdeksérelemmel arányos bírságot szab ki, vagy a bírság kiszabását mellőzi.

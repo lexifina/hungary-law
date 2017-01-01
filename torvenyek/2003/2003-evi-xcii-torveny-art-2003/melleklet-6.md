@@ -30,7 +30,7 @@ b) A társasági adóelőlegnek az adóévi várható fizetendő adó összegér
 
 a) A vállalkozó a helyi iparűzési adó előlegét két részletben, az adóév harmadik hónapjának 15. napjáig, illetve kilencedik hónapjának 15. napjáig fizeti meg.
 
-b) A társasági adóelőlegnek az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak a helyi iparűzési adóelőleget a várható éves fizetendő adó összegére az adóév utolsó hónapjának 20. napjáig kell kiegészítenie.
+b) A társasági adóelőlegének az adóévi várható fizetendő adó összegére történő kiegészítésére kötelezett vállalkozónak a helyi iparűzési adóelőleget a várható éves fizetendő adó összegére az adóév utolsó hónapjának 20. napjáig kell kiegészítenie.
 
 c) A vállalkozó a megfizetett adóelőleg és az adóévre megállapított tényleges adó különbözetét az adóév utolsó napját követő ötödik hónap utolsó napjáig fizeti meg, illetőleg ettől az időponttól igényelheti vissza
 

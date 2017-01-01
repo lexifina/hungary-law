@@ -42,7 +42,7 @@ b) tartós feltételes adómegállapítás iránti kérelem esetén 8 millió fo
 
 (7) A kérelmet el kell utasítani, ha
 
-a) az adózó nem teljesíti az (1)–(5a) és a (14) bekezdésben meghatározott feltételeket;
+a) az adózó nem teljesíti az (1)–(5b) és a (14) bekezdésben meghatározott feltételeket;
 
 b) alaposan lehet attól tartani, hogy a közölt tényállás valamely más szerződést, ügyletet vagy cselekményt leplez, illetve a rendeltetésszerű joggyakorlás elvébe ütközik;
 

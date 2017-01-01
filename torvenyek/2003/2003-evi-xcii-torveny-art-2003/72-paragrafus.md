@@ -28,7 +28,7 @@ az állami adó- és vámhatóság jár el.
 
 (5) A lakáscélú állami támogatások igénylésével összefüggésben a számlák valódiságát, valamint ezzel kapcsolatosan a támogatások igénybevételének jogszerűségét – a hitelintézet megkeresése alapján – az állami adó- és vámhatóság ellenőrzi.
 
-(6) A lakáscélú állami támogatásokkal összefüggő – (5) bekezdésben meghatározottakon kívül eső – állami követeléseket a kormányhivatal érvényesíti. A közigazgatási hatósági eljárás keretében hozott jogerős határozatban szereplő követelés köztartozásnak minősül, amit az állami adó- és vámhatóság adók módjára hajt be.
+(6) A lakáscélú állami támogatásokkal összefüggő – (5) bekezdésben meghatározottakon kívül eső – állami követeléseket a lakáscélú állami támogatások ügyében eljáró szerv érvényesíti. A közigazgatási hatósági eljárás keretében hozott jogerős határozatban szereplő követelés köztartozásnak minősül, amit az állami adó- és vámhatóság adók módjára hajt be.
 
 (7) Az állami adó- és vámhatóság hatáskörébe tartozik a fémkereskedelemről szóló törvényben meghatározott bírság és egyéb költség végrehajtása.
 

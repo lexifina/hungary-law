@@ -34,7 +34,7 @@ részletes szabályait rendeletben határozza meg.
 
 (8) Az állami adóhatóság meghatározza és közzéteszi a rendszeresített nyomtatványok tartalmát és formáját, gondoskodik arról, hogy azok az adózók számára megfelelő időben, könnyen elérhető helyen álljanak rendelkezésre. A bevallási és adatszolgáltatási nyomtatványokat – ideértve az adóhatóság honlapján közzétett informatikai alkalmazásokat – a benyújtásukra előírt határidőt megelőzően legalább 30 nappal kell közzétenni. A térítés ellenében beszerezhető nyomtatványok gyártói kiválasztásának és forgalmazásának részletes szabályait a kormány rendeletben határozza meg.
 
-(9) A 31. § (2) bekezdésében meghatározott bevallás, valamint a 31/B. § szerinti általános forgalmi adó összesítő jelentés benyújtására, illetve a 8. számú melléklet szerint összesítő nyilatkozat benyújtására kötelezett adózó az e kötelezettség keletkezése időpontjától az állami adó- és vámhatósághoz teljesítendő valamennyi bevallási és adatszolgáltatási kötelezettségét, valamint fizetési könnyítési és adómérséklési tárgyú kérelmének előterjesztését, módosítását, kiegészítését és visszavonását, továbbá adóhatósági igazolás kiadására irányuló kérelmének előterjesztését – a 85/A. § (11) bekezdése szerinti igazolás iránti kérelem kivételével – elektronikus úton teljesíti. Az 5/A. § (6) bekezdésében meghatározott, sürgősségi eljárást kérő adózó fizetési könnyítési, valamint adómérséklési tárgyú kérelmének előterjesztését – a 85/A. § (11) bekezdése szerinti igazolás iránti kérelem kivételével – elektronikus úton teljesíti.
+(9) A 31. § (2) bekezdésében meghatározott bevallás, valamint a 31/B. § szerinti általános forgalmi adó összesítő jelentés benyújtására, illetve a 8. számú melléklet szerint összesítő nyilatkozat benyújtására kötelezett adózó az e kötelezettség keletkezése időpontjától, továbbá a kiegészítő tevékenységet folytató egyéni vállalkozó az állami adó- és vámhatósághoz teljesítendő valamennyi bevallási és adatszolgáltatási kötelezettségét, valamint fizetési könnyítési és adómérséklési tárgyú kérelmének előterjesztését, módosítását, kiegészítését és visszavonását, továbbá adóhatósági igazolás kiadására irányuló kérelmének előterjesztését – a 85/A. § (11) bekezdése szerinti igazolás iránti kérelem kivételével – elektronikus úton teljesíti. Az 5/A. § (6) bekezdésében meghatározott, sürgősségi eljárást kérő adózó fizetési könnyítési, valamint adómérséklési tárgyú kérelmének előterjesztését – a 85/A. § (11) bekezdése szerinti igazolás iránti kérelem kivételével – elektronikus úton teljesíti.
 
 (10) Az adóazonosító számmal rendelkező adózó az állami adó- és vámhatósághoz teljesítendő bejelentési, változásbejelentési kötelezettségének elektronikus úton is eleget tehet, illetőleg adóügyeiben az adóhatóságnál a (13) bekezdés szerinti beadványait elektronikus úton is előterjesztheti.
 
@@ -64,7 +64,7 @@ f) az adóhatóság által nyilvántartott adatok megtekintésének, illetőleg 
 
 g) a végrehajtás során teljesítendő fizetési kötelezettségek teljesítésének,
 
-h) egyes adóügyek távbeszélőn történő ügyintézésének, az elektronikus kézbesítés szabályainak,
+h) adóügyek távbeszélőn történő ügyintézésének, az elektronikus kézbesítés szabályainak,
 
 i) végrehajtási eljárás során az elektronikus ügyintézés,
 
@@ -118,7 +118,7 @@ módjára és az adóhatóság rendelkezésére bocsátandó fájlok adatszerkez
 
 (29) Felhatalmazást kap a Kormány arra, hogy rendeletben állapítsa meg:
 
-a) a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szerv,
+a) a központi nyugdíjbiztosítási szerv,
 
 b) az egészségbiztosítási szerv,
 

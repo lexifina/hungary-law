@@ -14,21 +14,7 @@ c) az ellenőrzési típusok tervezett arányszámait, különös tekintettel a 
 
 (5) Az állami adó- és vámhatóság becslési adatbázist tart fenn kiválasztási és ellenőrzési tevékenysége támogatása céljából. A becslési adatbázis tartalmazza a korábban lefolytatott ellenőrzési tapasztalatok, megállapítások alapján az egyes tevékenységi körök vonatkozásában, területi bontásban a forgalmi, létszám és egyéb, az adókötelezettséget megalapozó adatokat. A becslési adatbázis évenkénti aktualizálása során az állami adó- és vámhatóság figyelembe veszi a bevallásokban közölt, valamint a Központi Statisztikai Hivatal által tájékoztatás keretében rendelkezésére bocsátott, illetve hivatalosan közzétett adatokat is.
 
-(6) Az állami adó- és vámhatóság az adózókat – a kötelezően, illetőleg a kiválasztás alapján lefolytatandó ellenőrzéseken túl – célzott kiválasztási rendszerek alkalmazásával választja ki ellenőrzésre. A célzott kiválasztási rendszerben az állami adó- és vámhatóság
-
-a) az adózó által benyújtott bevallások,
-
-b) az adatszolgáltatások,
-
-c) az adózó adófizetéseit, a részére teljesített kiutalásokat tartalmazó nyilvántartások,
-
-d) az adózónál korábban végzett ellenőrzések tapasztalatai,
-
-e) más hatóságtól, más adózóktól szerzett adatok, adatállományok, valamint
-
-f) nyilvánosan elérhető adatok
-
-feldolgozásával és egybevetésével választja ki az adózót ellenőrzésre.
+(6)
 
 (7) Az állami adó- és vámhatóság minden naptári évben az adott évben jogelőd nélkül alakult gazdasági társaságok legalább 10%-át kockázatelemzés alapján ellenőrzésre választja ki. A kiválasztott adózóknál az adóhatóság az adószám megállapítását követő 90 napon belül helyszíni ellenőrzés keretében az adózó által bejelentett adatok (így különösen a székhelyre, a központi ügyintézés helyére, a szervezeti képviselőre vonatkozó adatok) valóságtartalmát, hitelességét, valamint az egyes adókötelezettségek teljesítését vizsgálja. Amennyiben az ellenőrzés keretében az adóhatóság az adószám felfüggesztésére okot adó mulasztást állapít meg, úgy az e törvény 24/A. §-ában foglalt jogkövetkezményeket alkalmazza. Az e bekezdés szerinti kockázatelemzés keretében az adóhatóság a gazdasági társaság tagjainak, vezető tisztségviselőinek korábbi gazdasági tevékenységével, adózói múltjával kapcsolatban rendelkezésére álló adatokat dolgozza fel és veti egybe.
 

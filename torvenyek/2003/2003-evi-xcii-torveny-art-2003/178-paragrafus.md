@@ -6,7 +6,7 @@
 
 2. adóév: az a naptári év, amelyre az adókötelezettség vonatkozik, továbbá a számvitelről szóló törvényben meghatározott beszámoló adataira épülő adó és adó jellegű kötelezettségek tekintetében a számvitelről szóló törvény szerinti üzleti év,
 
-3. adókülönbözet: a bevallott (bejelentett), bevallani (bejelenteni) elmulasztott vagy a bevallás (bejelentés) alapján kivetett, kiszabott és az adóhatóság által utólag megállapított adó, költségvetési támogatás különbözete vagy a büntetőeljárás során jogerősen megállapított – és a bíróság vagy az ügyészség jogerős határozata alapján az adóhatóság által határozattal megfizetni rendelt – adóbevétel-csökkenés, vagyoni hátrány, és a jogosulatlanul igénybe vett költségvetési támogatás, ide nem értve a következő időszakra átvihető követelés különbözetét,
+3. adókülönbözet: a bevallott (bejelentett), bevallani (bejelenteni) elmulasztott vagy a bevallás (bejelentés) alapján kivetett, kiszabott és az adóhatóság által utólag megállapított adó, költségvetési támogatás különbözete, ide nem értve a következő időszakra átvihető követelés különbözetét,
 
 3a. adószámla: az állami adó- és vámhatóság, illetve az önkormányzati adóhatóság által vezetett, a fizetési kötelezettség, a költségvetési támogatás elszámolására szolgáló nyilvántartás.
 
@@ -75,6 +75,8 @@ f) az adózó és más személy, ha köztük az ügyvezetés egyezőségére tek
 24. romlandó élelmiszer: az élelmiszerekről szóló törvény és az állategészségügyről szóló törvény végrehajtási rendelete szerint meghatározott gyorsan romló, továbbá minőségmegőrzési határidővel ellátott termék,
 
 25. székhely: eltérő rendelkezés hiányában a jogi személy alapszabályában, a cégbejegyzésben ekként megjelölt hely, ilyen hely hiányában, vagy ha több ilyen hely van, a központi ügyvezetés helye. Ha nemzetközi szerződés az adóügyi illetőséget az üzletvezetés helye szerint állapítja meg, az üzletvezetés helye szerint belföldi illetőségű adózónak minősülő külföldi személy esetén e törvény alkalmazása szempontjából az üzletvezetés helye székhelynek minősül,
+
+25a. székhelyszolgáltató: aki az adózó megbízásából gondoskodik az adózó üzleti és hivatalos iratainak munkaidőben történő átvételéről, érkeztetéséről, megőrzéséről, rendelkezésre tartásáról, valamint a külön jogszabályban meghatározott, a székhellyel összefüggő kötelezettségek teljesítéséről, így különösen a cég székhelyéhez és a cégiratokhoz kapcsolódó hatósági kényszerintézkedések tűréséről,
 
 26. szokásos tartózkodási hely: a magánszemélynek akkor van Magyarország területén szokásos tartózkodási helye, ha az adott naptári évben – a ki- és beutazás napját is egész napnak tekintve – legalább 183 napot belföldön tartózkodott,
 

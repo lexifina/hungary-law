@@ -10,6 +10,6 @@ a) vállalkozó, az építményadó, a telekadó, a gépjárműadó, a vagyonsze
 
 b) az általános forgalmi adó alanya,
 
-c) a személyi jövedelemadóját nem a munkáltatója (kifizető) állapítja meg,
+c) a személyi jövedelemadóját nem a munkáltatója (kifizető) állapítja meg.
 
-d) személyi jövedelemadója tekintetében nem tesz bevallási nyilatkozatot.
+d)

@@ -54,7 +54,7 @@ a) A havi, illetőleg évközi adóbevallásra nem kötelezett adózónak – a 
 
 az adóévet követő év február 25-éig,
 
-b) a magánszemélyek jövedelemadójáról a vállalkozási tevékenységet nem folytató magánszemélynek, ha általános forgalmi adó fizetésére nem kötelezett
+b) a magánszemélyek jövedelemadójáról az adóév utolsó napján vállalkozási tevékenységet nem folytató magánszemélynek, – ideértve a vállalkozási tevékenységét az adóév utolsó napján szüneteltető magánszemélyt is – ha általános forgalmi adó fizetésére nem kötelezett
 
 az adóévet követő év május 20-áig,
 
@@ -62,7 +62,7 @@ c)
 
 d) a társasági adóelőleg-kiegészítés összegéről
 
-a tárgyév utolsó hónapjának 20. napjáig
+a tárgyév utolsó hónapja 20. napjáig
 
 e) a társasági adóról, az osztalékadóról
 

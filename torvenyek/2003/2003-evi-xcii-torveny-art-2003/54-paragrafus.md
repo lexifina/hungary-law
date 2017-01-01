@@ -86,7 +86,7 @@ m) a közbeszerzési hatóságot, ha a tájékoztatás a törvényben meghatáro
 
 (14) Ha az állami adó- és vámhatóság az adózónál be nem jelentett alkalmazottat talál, a foglalkoztatotti jogviszony rendezése érdekében a jogerős határozata egy példányának megküldésével tájékoztatja a munkaügyi hatóságot és az egészségbiztosítási szervet. Az adóhatóság a hónap folyamán jogerőssé vált határozatokat a következő hónap 10. napjáig elektronikus úton továbbítja a munkaügyi hatóságnak és az egészségbiztosítási szervnek.
 
-(15) Ha az állami adó- és vámhatóság a biztosítottat terhelő járulékkötelezettséget a magánszeméllyel szemben állapítja meg, akkor annak megtérülése esetén az erről szóló határozatot a megtérüléstől számított 30 napon belül, a nyugellátás, illetve a korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék, átmeneti bányászjáradék megállapítása céljából megküldi a Nyugdíjbiztosítási Alap kezeléséért felelős nyugdíjbiztosítási szervnek.
+(15) Ha az állami adó- és vámhatóság a biztosítottat terhelő járulékkötelezettséget a magánszeméllyel szemben állapítja meg, akkor annak megtérülése esetén az erről szóló határozatot a megtérüléstől számított 30 napon belül, a nyugellátás, illetve a korhatár előtti ellátás, szolgálati járandóság, táncművészeti életjáradék, átmeneti bányászjáradék megállapítása céljából megküldi a központi nyugdíjbiztosítási szervnek.
 
 (16) Az állami adó- és vámhatóság az adóazonosító jelet megkeresésre, elektronikus úton átadja a polgárok személyi adatainak és lakcímének nyilvántartását kezelő központi szervnek az adóazonosító jelnek az állandó személyazonosító igazolvány tároló elemén történő elhelyezése céljából.
 

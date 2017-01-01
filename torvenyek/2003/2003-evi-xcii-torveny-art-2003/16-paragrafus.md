@@ -12,7 +12,7 @@
 
 a) nevét (elnevezését), rövidített cégnevét, a magánszemély adóazonosító jelét, külföldi vállalkozás esetén az illetősége szerinti állam hatósága által megállapított adóazonosító számát;
 
-b) címét, székhelyét, a cég székhelyétől különböző központi ügyintézés helyét, telephelyét vagy telephelyeit, illetve a cég honlapján való közzététel esetén a cég elektronikus elérhetőségét (honlapját), több államban illetőséggel rendelkező gazdasági társaság esetén a tényleges üzletvezetés helyét;;
+b) címét, székhelyét, a cég székhelyétől különböző központi ügyintézés helyét, telephelyét vagy telephelyeit, illetve a cég honlapján való közzététel esetén a cég elektronikus elérhetőségét (honlapját), több államban illetőséggel rendelkező gazdasági társaság esetén a tényleges üzletvezetés helyét, székhelyszolgáltatás igénybevétele esetén a székhelyszolgáltató elnevezését, székhelyét, adószámát, e jogviszony keletkezésének – és határozott idejű jogviszony esetén – megszűnésének időpontját;;
 
 c) létesítő okiratának (alapító okirat, társasági-társulati szerződés, alapszabály) keltét, számát, a rá vonatkozó jogszabály szerinti képviselőjének, könyvvizsgálójának nevét (elnevezését), lakóhelyét (székhelyét), e jogviszony keletkezésének – és határozott idejű jogviszony esetén – megszűnésének időpontját, a képviselő adóazonosító számát, könyvvizsgáló szervezet esetén annak a személynek a nevét és lakóhelyét is, aki a könyvvizsgálatért személyében felelős;
 
@@ -26,7 +26,7 @@ g) iratai, elektronikus alapon rendelkezésre álló bizonylatai és nyilvántar
 
 h) jogelődjét és jogelődjének adóazonosító számát;
 
-i) az önálló tevékenységet folytató magánszemély tevékenysége gyakorlását, körülményét (fő-, mellékfoglalkozás, nyugdíj melletti kiegészítő tevékenység, korhatár előtti ellátás, szolgálati járandóság, balettművészeti életjáradék vagy átmeneti bányászjáradék mellett folytatott tevékenység);
+i) az önálló tevékenységet folytató magánszemély tevékenysége gyakorlását, körülményét (fő-, mellékfoglalkozás, nyugdíj melletti kiegészítő tevékenység, korhatár előtti ellátás, szolgálati járandóság, táncművészeti életjáradék vagy átmeneti bányászjáradék mellett folytatott tevékenység);
 
 j) a 22. § (1) bekezdésében előírt nyilatkozatot;
 
@@ -42,7 +42,7 @@ o) külföldi vállalkozás magyarországi fióktelepe esetén a külföldi vál
 
 p) magyarországi tényleges üzletvezetési helyét, ha magyar adóügyi illetőségét a tényleges üzletvezetési hely alapozza meg;
 
-q) alapítvány, egyesület esetében a bírósági nyilvántartási számát, a főtevékenységet és a ténylegesen végzett tevékenységet.
+q) bíróság által nyilvántartandó jogi személy esetében a bírósági nyilvántartási számát, a főtevékenységet és a ténylegesen végzett tevékenységet.
 
 (3a) A (3) bekezdéstől eltérően a kezelt vagyon esetében kizárólag a (3) bekezdés b), c), g) és l) pontja szerinti adatokat kell bejelenteni az állami adó- és vámhatósághoz.
 
@@ -58,7 +58,7 @@ c) ha a foglalkoztató személyében jogutódlás következik be, a jogutód mun
 
 (4b) Több munkáltató által létesített munkaviszony (a munka törvénykönyvéről szóló 2012. évi I. törvény 195. §) esetén a munkáltatók a munkaviszony létesítésével egyidejűleg kötelesek írásban az adókötelezettségek teljesítésére egy munkáltatót kijelölni, továbbá a kijelölt munkáltató személyéről a munkavállalót tájékoztatni. Kijelölés hiányában a több munkáltató által létesített munkaviszonyból eredő adókötelezettségek teljesítésére a munkaviszonyban érintett bármely munkáltató kötelezhető. A kijelölt munkáltató a munkavállaló tekintetében adókötelezettségeit saját nevében teljesíti. A (4) bekezdés szerinti bejelentésben a kijelölt munkáltató bejelenti az ugyanazon munkaviszony tekintetében a további foglalkoztató (e § alkalmazásában a továbbiakban: további foglalkoztató) adóazonosító számát, nevét, elnevezését, székhelyének címét, valamint a több munkáltató által létesített munkaviszonyban való részvétele kezdetét és a munkaviszonyból való kilépésének idejét. A bejelentés határidejére a (4) bekezdés a) és b) pontja megfelelően alkalmazandó.
 
-(5) Az állami adó- és vámhatóság a (4) és (4b) bekezdésben meghatározott, munkáltató vagy kifizető által elektronikusan bejelentett adatokat azok beérkezését követően elektronikus úton haladéktalanul megküldi az egészségbiztosítás biztosítotti nyilvántartásának. A nyomtatványon teljesített munkáltatói, kifizetői bejelentéseket az állami adó- és vámhatóság soron kívül feldolgozza és elektronikus dokumentum formájában továbbítja az egészségbiztosítás biztosítotti nyilvántartása részére.
+(5) Az állami adó- és vámhatóság a (4) és (4b) bekezdésben meghatározott, munkáltató vagy kifizető által elektronikusan bejelentett adatokat – a biztosított végzettsége, szakképzettsége, szakképesítése, továbbá az ezt igazoló okiratot kibocsátó intézmény neve és az okirat száma kivételével – azok beérkezését követően elektronikus úton haladéktalanul megküldi az egészségbiztosítás biztosítotti nyilvántartásának. A nyomtatványon teljesített munkáltatói, kifizetői bejelentéseket az állami adó- és vámhatóság soron kívül feldolgozza és elektronikus dokumentum formájában továbbítja az egészségbiztosítás biztosítotti nyilvántartása részére.
 
 (5a) Az állami adóhatóság a (4) és (4b) bekezdésben meghatározott, a munkáltató vagy a kifizető által elektronikusan bejelentett adatok közül a foglalkoztatott biztosított családi és utónevét, adóazonosító jelét, születési idejét, biztosítási jogviszonyának kezdetét, kódját, megszűnését, a biztosítás szünetelésének időtartamát, a heti munkaidejét, a FEOR-számát, a végzettségét, szakképzettségét, szakképesítését, továbbá az ezt igazoló okiratot kibocsátó intézmény nevét és az okirat számát azok beérkezését követően elektronikus úton haladéktalanul megküldi az állami szakképzési és felnőttképzési szerv pályakövetési rendszert működtető nyilvántartása részére. A nyomtatványon teljesített munkáltatói, kifizetői bejelentéseket az állami adó- és vámhatóság soron kívül feldolgozza és elektronikus dokumentum formájában továbbítja az állami szakképzési és felnőttképzési szerv pályakövetési rendszert működtető nyilvántartásának.
 
