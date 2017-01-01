@@ -158,7 +158,7 @@ a) a kérelmező a halászati és akvakultúra-termékek piacának közös szerv
 
 b) a kérelmező az állategészségügyi szolgáltatást nem genetikailag módosított szervezetek tartására végezteti el.
 
-5. Kötelezettségvállalás arra vonatkozóan, hogy a támogatási keret kimerülése esetén, valamint a jogosultsági feltételek bármelyikének hiánya esetén az elvégzett állat-egészségügyi szolgáltatás számla szerinti teljes összegét, illetve a jogosulatlanul igénybe vett szolgáltatás kamattal terhelt támogatástartalmának összegét az MVH erre vonatkozó határozata alapján a szolgáltatást nyújtó engedélyes részére megfizeti.
+5.[^100] Kötelezettségvállalás arra vonatkozóan, hogy a támogatási keret kimerülése esetén, valamint a jogosultsági feltételek bármelyikének hiánya esetén az elvégzett állat-egészségügyi szolgáltatás számla szerinti teljes összegét, illetve a jogosulatlanul igénybe vett szolgáltatás kamattal terhelt támogatástartalmának összegét a Kincstár erre vonatkozó határozata alapján a szolgáltatást nyújtó engedélyes részére megfizeti.
 
 6. Keltezés, az ügyfél cégszerű aláírása
 
@@ -170,3 +170,4 @@ A hatósági állatorvos igazolása a hazai és közösségi állat-egészségü
 [^97]: A 2. melléklet 4. pont 4.7. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
 [^98]: A 2. melléklet 4. pont 4.8. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be, hatályon kívül helyezte a 78/2016. (XII. 12.) FM rendelet 9. § d) pontja.
 [^99]: A 2. melléklet 4. pont 4.9. alpontját a 4/2016. (I. 20.) FM rendelet 7. § (2) bekezdése iktatta be.
+[^100]: A 2. számú melléklet 5. pontja a 78/2016. (XII. 12.) FM rendelet 8. § i) pontja szerint módosított szöveg.
