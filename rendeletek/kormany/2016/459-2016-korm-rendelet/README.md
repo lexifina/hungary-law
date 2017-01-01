@@ -1,0 +1,9 @@
+# 459/2016. (XII. 23.) Korm. rendelet
+
+a közbeszerzési értékhatárok alatti értékű beszerzések megvalósításával és ellenőrzésével kapcsolatos szabályokról
+
+Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-459-20-22
+
+| Időállapot | NJT | Módosította |
+| --- | --- | --- |
+| 2017-01-01 | 2016-459-20-22.1 | 459/2016. (XII. 23.) Korm. rendelet |
