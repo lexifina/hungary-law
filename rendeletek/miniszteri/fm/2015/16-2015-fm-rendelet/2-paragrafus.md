@@ -6,7 +6,7 @@
 
 a) a 2015. évben az 1307/2013/EU rendelet 36. cikke szerinti egységes területalapú támogatást igényel,
 
-b) a kistermelői támogatási rendszerben való részvételi szándékát – a teljes támogatási időszakra vonatkozóan – a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) részére ügyfélkapun keresztül, az egységes kérelem benyújtására szolgáló elektronikus felületen legkésőbb 2015. augusztus 15-éig bejelenti, és
+b)[^1] a kistermelői támogatási rendszerben való részvételi szándékát – a teljes támogatási időszakra vonatkozóan – a Magyar Államkincstár (a továbbiakban: Kincstár) részére ügyfélkapun keresztül, az egységes kérelem benyújtására szolgáló elektronikus felületen legkésőbb 2015. augusztus 15-éig bejelenti, és
 
 c) a támogatási időszak minden évében a 2015. évben az egységes területalapú támogatás vonatkozásában igényelt, támogatható területénél nem kisebb területet használ, és azon a mezőgazdasági termelők részére nyújtandó közvetlen támogatás igénybevételére vonatkozó szabályokról szóló 8/2015. (III. 13.) FM rendelet 1. § 8. pontja szerinti mezőgazdasági tevékenységet végez.
 
@@ -14,6 +14,7 @@ c) a támogatási időszak minden évében a 2015. évben az egységes területa
 
 (3) Ha a 2015. évet követő években a mezőgazdasági termelő ki kíván lépni a kistermelői támogatási rendszerből, akkor ezt a szándékát az adott évben beadásra kerülő egységes kérelmében kell jeleznie.
 
-(4)[^1] Az 1307/2013/EU rendelet 62. cikk (3) bekezdésében foglaltak teljesítése érdekében az MVH, a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara, és az Agrárgazdasági Kutató Intézet által működtetett – az agrárpolitikáért felelős miniszter által jóváhagyott, és 2015. július 8-a előtt utoljára frissített, fajlagos támogatási adatok alapján szerkesztett – támogatási kalkulátornak az MVH honlapján biztosított elérhetősége útján teszi lehetővé a mezőgazdasági termelők számára a kistermelői támogatási rendszer keretében elérhető támogatás becsült összegének megismerhetőségét.
+(4)[^2] Az 1307/2013/EU rendelet 62. cikk (3) bekezdésében foglaltak teljesítése érdekében a Kincstár, a Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara, és az Agrárgazdasági Kutató Intézet által működtetett – az agrárpolitikáért felelős miniszter által jóváhagyott, és 2015. július 8-a előtt utoljára frissített, fajlagos támogatási adatok alapján szerkesztett – támogatási kalkulátornak a Kincstár honlapján biztosított elérhetősége útján teszi lehetővé a mezőgazdasági termelők számára a kistermelői támogatási rendszer keretében elérhető támogatás becsült összegének megismerhetőségét.
 
-[^1]: A 2. § (4) bekezdése a 22/2015. (V. 13.) FM rendelet 6. §-a szerint módosított szöveg.
+[^1]: A 2. § (1) bekezdés b) pontja a 88/2016. (XII. 29.) FM rendelet 83. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § (4) bekezdése a 22/2015. (V. 13.) FM rendelet 6. §-a, a 88/2016. (XII. 29.) FM rendelet 83. § b) pontja szerint módosított szöveg.
