@@ -14,6 +14,14 @@ f) vízumának számát, típusát és
 
 g) határátlépés során használt gépjárműve rendszámát.
 
-(2) A rendőrség az (1) bekezdés szerinti nyilvántartásból törvényben meghatározott feladat teljesítése érdekében adatot szolgáltat a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, továbbá a nemzetbiztonsági szolgálatoknak.
+(1a) A rendőrség az (1) bekezdésben meghatározottakon túl, a terrorizmus megelőzése céljából a határátlépéstől számított öt évig a határrendészeti nyilvántartásban kezeli azon harmadik országbeli személyek ujjnyomatát, akik
 
-(3) A rendőrség a határrendészeti adatállományból a 86. § és 87. § figyelembevételével külföldre határrendészeti, bűnüldözési, bűnmegelőzési célból, valamint az érintett vagy mások jogának védelme céljából továbbíthat adatot.
+a) Magyarország államhatárát nem határátkelőhelyen vagy határátlépési ponton lépték át, vagy
+
+b) személyazonosságukat hitelt érdemlően nem tudják igazolni.
+
+(2) A rendőrség az (1) és (1a) bekezdés szerinti nyilvántartásból törvényben meghatározott feladat teljesítése érdekében adatot szolgáltat a bíróságnak, az ügyészségnek, a nyomozó hatóságnak, az idegenrendészeti hatóságnak, a menekültügyi hatóságnak, továbbá a nemzetbiztonsági szolgálatoknak.
+
+(2a) A rendőrség (1) bekezdésben meghatározott nyilvántartásából az (1) bekezdésben meghatározott adatokat az idegenrendészeti hatóság – a huzamos tartózkodás jogszerűségének ellenőrzése céljából – a konkrét cél megjelölésével átveheti.
+
+(3) A rendőrség a határrendészeti adatállományból a 86. § és 87. § figyelembevételével külföldre határrendészeti, bűnüldözési, bűnmegelőzési, terrorelhárítása célból valamint az érintett vagy mások jogának védelme céljából továbbíthat adatot.

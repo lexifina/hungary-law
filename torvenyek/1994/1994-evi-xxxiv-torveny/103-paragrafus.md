@@ -12,4 +12,4 @@ a) lépnek hatályba a törvény 94., 95., 96., 100., 101., 107. és 111. §-áb
 
 b)
 
-(3)
+(3) E törvénynek a Mód. törvénnyel megállapított 80/A. §-át a Mód. törvény hatálybalépését megelőzően benyújtott, közérdekű adat megismerése iránti igénnyel összefüggésben a Mód. törvény hatálybalépésekor folyamatban lévő eljárásokban is alkalmazni kell.

@@ -2,7 +2,7 @@
 
 (2) A rendőrség a feladatának ellátása során
 
-a) együttműködik az állami és a helyi önkormányzati szervekkel, a társadalmi és a gazdálkodó szervezetekkel, az állampolgárokkal és azok közösségeivel;
+a) együttműködik az állami és a helyi önkormányzati szervekkel, a civil szervezetekkel és a gazdálkodó szervezetekkel, az állampolgárokkal és azok közösségeivel;
 
 b) segítséget nyújt — jogszabályban meghatározott esetben — az állami és a helyi önkormányzati szervek hivatalos eljárásának zavartalan lefolytatásához;
 

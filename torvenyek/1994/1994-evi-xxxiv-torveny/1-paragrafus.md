@@ -22,6 +22,8 @@
 
 7. engedélyezi és felügyeli a személy- és vagyonvédelmi, valamint a magánnyomozói tevékenységet,
 
+7a. engedélyezi – nemzetközi megállapodás eltérő rendelkezése hiányában – a szolgálati lőfegyverek és lőszerek szolgálati célból történő külföldre vitelét és az együttműködő, külföldi rendészeti feladatokat ellátó hatóságok szolgálati lőfegyvereinek és lőszereinek az országba történő behozatalát,
+
 8. büntetés-végrehajtási feladatokat lát el,
 
 9. ellátja a rendkívüli állapot, a szükségállapot, a megelőző védelmi helyzet, a terrorveszélyhelyzet, a váratlan támadás és a veszélyhelyzet esetén a hatáskörébe utalt rendvédelmi feladatokat, továbbá rendkívüli állapot idején és váratlan támadás esetén közreműködik az államhatárt fegyveresen vagy felfegyverkezve átlépő személyek kiszorításában, valamint elfogásában és lefegyverzésében,

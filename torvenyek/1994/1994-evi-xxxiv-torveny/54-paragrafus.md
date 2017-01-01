@@ -20,7 +20,7 @@ i) azzal szemben, aki a nála lévő fegyver vagy élet kioltására alkalmas m�
 
 j) az elfogott, bűncselekmény elkövetése miatt őrizetbe vett, vagy bírói döntés alapján fogva tartott személy erőszakos kiszabadításának megakadályozására, az azt megkísérlővel szemben.
 
-k) a saját élete, testi épsége, személyes szabadsága ellen intézett támadás elhárítására.
+k) a saját élete, testi épsége, személyi szabadsága ellen intézett támadás elhárítására.
 
 (2) Nemzetközi szerződés vagy az Európai Unió kötelező jogi aktusa alapján más állam területén szolgálatot ellátó rendőr a nemzetközi szerződésben vagy az Európai Unió kötelező jogi aktusában meghatározott esetekben és módon használhat lőfegyvert.
 
