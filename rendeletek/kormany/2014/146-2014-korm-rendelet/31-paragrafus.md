@@ -1,5 +1,3 @@
-## 30. § Az MKEH e rendelet kihirdetését követő 31. napig nyilatkozik arról, hogy a felvonókkal és mozgólépcsőkkel kapcsolatos szakmai felügyelet és ellenőrzés önálló végzéséhez, továbbá a felvonókról és mozgólépcsőről szóló központi nyilvántartás vezetéséhez szükséges, papír alapon vagy elektronikusan rögzített adatbázisoknak az ÉMI Építésügyi Minőségellenőrző Innovációs Nonprofit Korlátolt Felelősségű Társaságtól történő átvétele megtörtént.
-
 31. § (1) Ez a rendelet a felvonók és a mozgólépcsők építésügyi hatósági engedélyezéséről, üzemeltetéséről, ellenőrzéséről és az ellenőrökről szóló 113/1998. (VI. 10.) Korm. rendelet 13. §-ában foglalt, jelen bekezdésben felsorolt, hatályos európai uniós jogi aktusok rendelkezéseinek:
 
 a) a felvonókra vonatkozó tagállami jogszabályok közelítéséről szóló, 1995. június 29-i 95/16/EK európai parlamenti és tanácsi irányelvnek,

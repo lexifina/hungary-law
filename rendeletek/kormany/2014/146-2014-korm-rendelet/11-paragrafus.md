@@ -1,6 +1,6 @@
 ## 7. Az ellenőri tevékenység gyakorlásának feltételei
 
-11. § (1)[^21] Aki ellenőri tevékenységet kíván folytatni, köteles az erre irányuló szándékát az MKEH részére a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. Ellenőri tevékenységet az folytathat, aki büntetlen előéletű, és
+11. § (1)[^28] Aki ellenőri tevékenységet kíván folytatni, köteles az erre irányuló szándékát a Kormányhivatal részére a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló törvény szerint bejelenteni. Ellenőri tevékenységet az folytathat, aki büntetlen előéletű, és
 
 a) szakirányú felsőfokú (közlekedési, gépészeti vagy villamossági) szakképesítéssel,
 
@@ -12,4 +12,4 @@ c) a külön jogszabályban meghatározott tanfolyami és vizsgakötelezettség�
 
 (3) Az e rendelet hatálybalépése előtt jogszerűen ellenőri tevékenységet folytató ellenőrökre az (1) bekezdés a) pontja nem vonatkozik.
 
-[^21]: A 11. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 226. § (1) bekezdésével megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^28]: A 11. § (1) bekezdése a 441/2015. (XII. 28.) Korm. rendelet 226. § (1) bekezdésével megállapított, nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 271. § (1) bekezdés d) pontja szerint módosított szöveg.

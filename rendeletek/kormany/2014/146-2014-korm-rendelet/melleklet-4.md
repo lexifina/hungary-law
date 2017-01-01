@@ -350,61 +350,77 @@
 
 ## a kitöltő (cége / neve) aláírása
 
-4. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^57]
+4. melléklet a 146/2014. (V. 5.) Korm. rendelethez[^73]
 
 A felvonók és mozgólépcsők kötelező műszaki biztonságtechnikai felülvizsgálatához szükséges ellenőri tevékenység folytatásához szükséges bejelentés adattartalma
 
-1. A bejelentő adatai:
+1. A bejelentő adatai: ...................................................................................................
 
 1.1. Neve:
 
-Születési neve:
+Születési neve: ..............................................................................................................
 
-Anyja neve:
+Anyja neve: ...................................................................................................................
 
-Születési helye, ideje:
+Születési helye, ideje: ....................................................................................................
 
-Lakóhely, székhely:
+Lakóhely, székhely: .....................................................................................................
 
-Személyazonosító igazolvány száma:
+Személyazonosító igazolvány száma: .........................................................................
 
-Adószáma vagy adóazonosító jele:
+Adószáma vagy adóazonosító jele: .............................................................................
 
-Telefon:
+Telefon: .........................................................................................................................
 
-Telefax:
+Telefax: .........................................................................................................................
 
-E-mail:
+E-mail: ...........................................................................................................................
 
 1.2. Szakképesítése:
 
-Végzettsége(i):
+Végzettsége(i): ..............................................................................................................
 
 Oklevél száma, kelte:
 
+.......................................................................................................................................
+
 Az oklevelet kibocsátó felsőfokú oktatási intézmény neve:
+
+.........................................................................................................
 
 1.3. Gyakorlata:
 
 1.3.1. milyen szakterületen szerzett gyakorlatot:
 
+..................................................................................................................
+
 1.3.2. milyen munkakörben:
+
+..................................................................................................................
 
 1.3.3. a szakirányú gyakorlat időtartama:
 
+..................................................................................................................
+
 1.4. Milyen szakirányú tanfolyamot végzett:
+
+..................................................................................................................
 
 1.4.1. száma, kelte:
 
 1.4.2. mire jogosít:
 
+..................................................................................................................
+
 1.5. Korábbi (2 évre visszamenőleg) szakirányú tevékenysége:
+
+..................................................................................................................
 
 1.6. a továbbképzés elvégzésének igazolásával kapcsolatos adatok:
 
-1.6.1. száma, kelte:
+1.6.1. száma, kelte:.....................................................................................
 
-1.6.2. tárgya:
+1.6.2. tárgya: ..............................................................................................
 
 2. Hol kíván ellenőri tevékenységet folytatni:
 
@@ -412,11 +428,17 @@ Az oklevelet kibocsátó felsőfokú oktatási intézmény neve:
 
 2.1.1. az alábbi megyék:
 
+..................................................................................................................
+
 2.1.2. az alábbi települések:
+
+..................................................................................................................
 
 2.2. a főváros
 
 2.2.1. az alábbi fővárosi kerületek:
+
+..................................................................................................................
 
 területén.
 
@@ -426,19 +448,17 @@ területén.
 
 3.2. mozgólépcsőre (mozgójárdára)
 
-4. Igazgatási szolgáltatási díj megfizetésének módja:
+4. Igazgatási szolgáltatási díj megfizetésének módja*:
 
-4.1. átutalással*
+4.1. átutalással (ebben az esetben a banki kivonatot csatolni kell)
 
 4.2. készpénzátutalási-megbízással
 
-* Átutalás esetén kérjük a banki kivonatot csatolni.
+Alulírott, mint az ellenőri tevékenységet folytatni kívánó személy, büntetőjogi felelősségem tudatában kijelentem, hogy az 1-4. pontban közölt válaszok és adatok a valóságnak megfelelnek.
 
-Alulírott mint az ellenőri tevékenységet folytatni kívánó személy büntetőjogi felelősségem tudatában kijelentem, hogy az 1-4. pontban közölt válaszok és adatok a valóságnak megfelelnek.
+Hozzájárulok / Nem járulok hozzá* ahhoz, hogy a Kormányhivatal a honlapján közzéteendő ellenőrök jegyzékében a hatósági nyilvántartásba bejelentett lakcímemet, székhelyemet, telefonszámomat, faxszámomat és elektronikus elérhetőségemet közzétegye.
 
-Hozzájárulok / Nem járulok hozzá** ahhoz, hogy az MKEH a honlapján (http://mkeh.gov.hu) közzéteendő ellenőrök jegyzékében a hatósági nyilvántartásba bejelentett lakcímemet, székhelyemet, a telefonszámomat, a faxszámomat és az elektronikus postacímemet közzétegye.
-
-**A helyes aláhúzandó.
+(*A megfelelő szöveg aláhúzandó.)
 
 Kelt: ...............................................
 
@@ -446,4 +466,4 @@ Kelt: ...............................................
 
 bejelentő aláírása
 
-[^57]: A 4. melléklet a 441/2015. (XII. 28.) Korm. rendelet 228. §-ával megállapított szöveg. E módosító rendelet 263. §-a alapján a 2016. január 1-jét követően indult eljárásokban kell alkalmazni.
+[^73]: A 4. melléklet a 379/2016. (XII. 2.) Korm. rendelet 271. § (2) bekezdésével megállapított szöveg.
