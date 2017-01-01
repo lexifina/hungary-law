@@ -54,7 +54,7 @@
 
 | ..................................................... |
 
-2. melléklet a 30/2011. (IX. 22.) BM rendelethez[^98]
+2. melléklet a 30/2011. (IX. 22.) BM rendelethez[^99]
 
 NYOMTATVÁNY
 
@@ -74,4 +74,4 @@ az előállító helyiségben elhelyezett fogvatartott személy őrzésével és
 
 Az ideiglenes őri feladatok átadása-átvétele szigorú számadásos szolgálati tevékenység!
 
-[^98]: A 2. melléklet a 61/2015. (XI. 24.) BM rendelet 16. §-ával megállapított szöveg.
+[^99]: A 2. melléklet a 61/2015. (XI. 24.) BM rendelet 16. §-ával megállapított szöveg.

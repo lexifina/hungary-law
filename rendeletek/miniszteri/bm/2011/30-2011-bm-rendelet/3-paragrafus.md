@@ -28,7 +28,7 @@ a) az állami futárszolgálat,
 
 b) a bevetési szolgálat,
 
-c) a bűnügyi technikai és szakértői szolgálat,
+c)[^10] a bűnügyi technikai szolgálat,
 
 d) a légirendészeti szolgálat,
 
@@ -40,13 +40,13 @@ g) a tűzszerész szolgálat,
 
 h) az ügyeleti szolgálat,
 
-i)[^10] a védelmi igazgatási szolgálat,
+i)[^11] a védelmi igazgatási szolgálat,
 
 j) a vízirendészeti szolgálat,
 
-k)[^11] a légiközlekedés védelmi szolgálat,
+k)[^12] a légiközlekedés védelmi szolgálat,
 
-l)[^12] a tanúvédelmi szolgálat.
+l)[^13] a tanúvédelmi szolgálat.
 
 (4) A szakszolgálatok:
 
@@ -60,6 +60,7 @@ d) a humánigazgatási szakszolgálat.
 
 [^8]: A 3. § (2) bekezdés g) pontja a 61/2015. (XI. 24.) BM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^9]: A 3. § (2) bekezdés i) pontját a 18/2013. (V. 9.) BM rendelet 2. § (1) bekezdése iktatta be.
-[^10]: A 3. § (3) bekezdés i) pontja a 61/2015. (XI. 24.) BM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^11]: A 3. § (3) bekezdés k) pontját a 18/2013. (V. 9.) BM rendelet 2. § (2) bekezdése iktatta be.
-[^12]: A 3. § (3) bekezdés l) pontját a 61/2015. (XI. 24.) BM rendelet 2. §-a iktatta be.
+[^10]: A 3. § (3) bekezdés c) pontja az 58/2016. (XII. 22.) BM rendelet 27. § b) pontja szerint módosított szöveg.
+[^11]: A 3. § (3) bekezdés i) pontja a 61/2015. (XI. 24.) BM rendelet 18. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^12]: A 3. § (3) bekezdés k) pontját a 18/2013. (V. 9.) BM rendelet 2. § (2) bekezdése iktatta be.
+[^13]: A 3. § (3) bekezdés l) pontját a 61/2015. (XI. 24.) BM rendelet 2. §-a iktatta be.

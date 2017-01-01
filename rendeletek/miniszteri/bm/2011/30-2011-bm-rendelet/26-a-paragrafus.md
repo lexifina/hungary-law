@@ -1,4 +1,4 @@
-## 22/A. [^31] Kiemelt biztonsági intézkedés
+## 22/A. [^32] Kiemelt biztonsági intézkedés
 
 26/A. § (1) Kiemelt biztonsági intézkedés végrehajtását
 
@@ -28,4 +28,4 @@ b) – a Terrorelhárítási Központ főigazgatója által elrendelt kiemelt bi
 
 (6) Az (5) bekezdésben meghatározott közleményben foglalt adatokról az ott megjelölt személy a kiemelt biztonsági intézkedéssel érintett település jegyzőjét haladéktalanul tájékoztatja.
 
-[^31]: A 22/A. alcímet (26/A. §) a 29/2016. (VII. 15.) BM rendelet 6. §-a iktatta be.
+[^32]: A 22/A. alcímet (26/A. §) a 29/2016. (VII. 15.) BM rendelet 6. §-a iktatta be.
