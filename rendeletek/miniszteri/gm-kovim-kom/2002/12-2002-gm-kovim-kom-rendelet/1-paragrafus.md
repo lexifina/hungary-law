@@ -34,9 +34,9 @@ o)[^13] gyártmány: a gyártó kereskedelmi megnevezése, amely a típusjóváh
 
 p)[^14] típus, típusváltozat, kivitel: az ER. ,,A'' függelék A/2. számú mellékletének II. részében meghatározott leírás;
 
-r)[^15] közlekedési hatóság: a Nemzeti Közlekedési Hatóság Közép-magyarországi Regionális Igazgatósága;
+r)[^15]
 
-s)[^16] fogyasztóvédelmi hatóság: a Fogyasztóvédelmi Főfelügyelőség és a területi felügyelőségek.
+s)[^16] fogyasztóvédelmi hatóság: a fogyasztóvédelmi hatóság kijelöléséről szóló kormányrendeletben meghatározott hatóság.
 
 [^1]: Az 1. § új c) pontját a 45/2003. (VII. 18.) GKM–KvVM együttes rendelet 1. §-a iktatta a szövegbe, egyidejűleg az eredeti c) pont megjelölését g) pontra változtatta.
 [^2]: Az 1. § új d) pontját a 45/2003. (VII. 18.) GKM–KvVM együttes rendelet 1. §-a iktatta a szövegbe, egyidejűleg az eredeti d) pont megjelölését h) pontra változtatta.
@@ -52,5 +52,5 @@ s)[^16] fogyasztóvédelmi hatóság: a Fogyasztóvédelmi Főfelügyelőség é
 [^12]: Az 1. § eredeti j) pontjának jelölését a 45/2003. (VII. 18.) GKM–KvVM együttes rendelet 1. §-a n) pontra változtatta.
 [^13]: Az 1. § eredeti k) pontjának jelölését a 45/2003. (VII. 18.) GKM–KvVM együttes rendelet 1. §-a o) pontra változtatta.
 [^14]: Az 1. § eredeti l) pontjának jelölését a 45/2003. (VII. 18.) GKM–KvVM együttes rendelet 1. §-a p) pontra változtatta.
-[^15]: Az 1. § eredeti m) pontjának jelölését a 45/2003. (VII. 18.) GKM–KvVM együttes rendelet 1. §-a r) pontra változtatta. Az 1. § r) pontja a 6/2007. (I. 18.) GKM–KvVM együttes rendelet 2. §-a szerint módosított szöveg.
-[^16]: Az 1. § eredeti n) pontjának jelölését a 45/2003. (VII. 18.) GKM–KvVM együttes rendelet 1. §-a s) pontra változtatta.
+[^15]: Az 1. § eredeti m) pontjának jelölését a 45/2003. (VII. 18.) GKM–KvVM együttes rendelet 1. §-a r) pontra változtatta. Az 1. § r) pontját a 73/2016. (XII. 29.) NFM rendelet 2. § (2) bekezdése hatályon kívül helyezte.
+[^16]: Az 1. § eredeti n) pontjának jelölését a 45/2003. (VII. 18.) GKM–KvVM együttes rendelet 1. §-a s) pontra változtatta. Az 1. § s) pontja a 73/2016. (XII. 29.) NFM rendelet 2. § (1) bekezdés a) pontja szerint módosított szöveg.

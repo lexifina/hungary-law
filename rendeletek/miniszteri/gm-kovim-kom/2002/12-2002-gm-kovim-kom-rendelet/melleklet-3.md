@@ -1,6 +1,6 @@
 3. számú melléklet a 12/2002. (III. 14.) GM–KöViM–KöM
 
-együttes rendelethez[^24]
+együttes rendelethez[^26]
 
 ## Az eladási helyen kiállítandó plakátra, illetve kijelzőre vonatkozó követelmények
 
@@ -60,4 +60,4 @@ c) hivatalos fajlagos CO2-kibocsátása (g/km-ben kifejezve, egész számra kere
 
 *** PB-gáz, biodízel stb., fajtánként elkülönítve.
 
-[^24]: A 3. számú melléklet a 45/2003. (VII. 18.) GKM–KvVM együttes rendelet 6. §-ával megállapított szöveg.
+[^26]: A 3. számú melléklet a 45/2003. (VII. 18.) GKM–KvVM együttes rendelet 6. §-ával megállapított szöveg.
