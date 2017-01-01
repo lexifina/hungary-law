@@ -1,4 +1,6 @@
-17. § (1)[^58] A belső ellenőrzést végző személy munkáját a nemzetközi, valamint az államháztartásért felelős miniszter által közzétett belső ellenőrzési standardok, útmutatók figyelembevételével, valamint a belső ellenőrzési vezető által – az államháztartásért felelős miniszter által közzétett belső ellenőrzési kézikönyv minta alkalmazásával – kidolgozott és a költségvetési szerv vezetője által jóváhagyott belső ellenőrzési kézikönyv szerint végzi.
+17. § (1)[^60] A belső ellenőrzést végző személy munkáját a nemzetközi, valamint az államháztartásért felelős miniszter által közzétett belső ellenőrzési standardok, útmutatók figyelembevételével, valamint a belső ellenőrzési vezető által – az államháztartásért felelős miniszter által közzétett belső ellenőrzési kézikönyv minta alkalmazásával – kidolgozott és a költségvetési szerv vezetője által jóváhagyott belső ellenőrzési kézikönyv szerint végzi.
+
+(1a)[^61] Ha a költségvetési szerv belső ellenőrzését az irányító szerve vagy az irányító szerv által kijelölt szerv látja el, az irányított szervre külön belső ellenőrzési kézikönyvet nem kell készíteni. Az irányító szerv vagy a kijelölt szerv vezetője által az irányított szerv vezetőjének egyetértésével jóváhagyott belső ellenőrzési kézikönyv tartalmazza a (2) bekezdésében meghatározottakat az irányított költségvetési szervek vonatkozásában is.
 
 (2) A belső ellenőrzési kézikönyv tartalmazza:
 
@@ -18,4 +20,5 @@ f) az ellenőrzés során büntető-, szabálysértési, kártérítési, illetv
 
 (4) A belső ellenőrzési vezető köteles a belső ellenőrzési kézikönyvet rendszeresen, de legalább kétévente felülvizsgálni, és a – jogszabályok, módszertani útmutatók változásai, illetve egyéb okok miatt – szükséges módosításokat átvezetni.
 
-[^58]: A 17. § (1) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 35. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^60]: A 17. § (1) bekezdése a 465/2015. (XII. 29.) Korm. rendelet 35. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^61]: A 17. § (1a) bekezdését a 187/2016. (VII. 13.) korm. rendelet 8. §-a iktatta be.
