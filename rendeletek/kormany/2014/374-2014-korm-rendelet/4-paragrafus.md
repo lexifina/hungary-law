@@ -52,7 +52,7 @@ a) a keretmérés,
 
 b) az egyeztetés,
 
-ba)[^20] az illetékes közlekedési hatósági hatáskörében eljáró fővárosi és megyei kormányhivatallal, abban az esetben, ha a mezőgazdasági termelés szállítási és közlekedési feladatainak kiszolgálására, továbbá feltételeinek megteremtése érdekében kialakítandó új út (a továbbiakban: szántóföldi műveleti út) országos, vagy helyi közútra közvetlenül csatlakozik,
+ba)[^20] a fővárosi és megyei kormányhivatal közlekedési feladatkörében eljáró megyeszékhely szerinti járási (fővárosi kerületi) hivatalával, abban az esetben, ha a mezőgazdasági termelés szállítási és közlekedési feladatainak kiszolgálására, továbbá feltételeinek megteremtése érdekében kialakítandó új út (a továbbiakban: szántóföldi műveleti út) országos, vagy helyi közútra közvetlenül csatlakozik,
 
 bb)[^21] az önkormányzattal belterületi megosztás esetén, a helyi építési szabályzat előírásainak az út kialakítására vonatkozó követelményeiről,
 
@@ -101,7 +101,7 @@ i) az ingatlan-nyilvántartási átvezetésre alkalmas sorsolási megállapodás
 [^17]: A 4. § (2) bekezdés a) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
 [^18]: A 4. § (2) bekezdés e) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 7. pontja szerint módosított szöveg.
 [^19]: A 4. § (2) bekezdés f) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
-[^20]: A 4. § (3) bekezdés b) pont ba) alpontja a 478/2015. (XII. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított szöveg.
+[^20]: A 4. § (3) bekezdés b) pont ba) alpontja a 478/2015. (XII. 29.) Korm. rendelet 2. § (3) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 287. § (2) bekezdés a) pontja szerint módosított szöveg.
 [^21]: A 4. § (3) bekezdés b) pont bb) alpontja a 341/2016. (XI. 17.) Korm. rendelet 36. § c) pontja szerint módosított szöveg.
 [^22]: A 4. § (3) bekezdés f) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.
 [^23]: A 4. § (3) bekezdés g) pontja a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.

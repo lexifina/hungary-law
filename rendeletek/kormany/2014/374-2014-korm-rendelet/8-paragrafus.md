@@ -1,4 +1,4 @@
-## 7. §[^31] A járási hivatal a jogi szolgáltató és a földmérő részére történő, a 4. § (1) bekezdés f) pontja szerinti adatszolgáltatásával egy időben a tulajdonosokat postai úton értesíti a földrészlet megosztásának megkezdéséről, a nyertes jogi szolgáltatóról és földmérőről, a megosztási eljárás során az őt megillető lehetőségekről, az eljárás lefolytatásáról, valamint a további értesítések módjáról.
+## 7. §[^31] A járási hivatal a jogi szolgáltató és a földmérő részére történő, a 4. § (1) bekezdés f) pontja szerinti adatszolgáltatásával egy időben a tulajdonosokat postai vagy elektronikus úton értesíti a földrészlet megosztásának megkezdéséről, a nyertes jogi szolgáltatóról és földmérőről, a megosztási eljárás során az őt megillető lehetőségekről, az eljárás lefolytatásáról, valamint a további értesítések módjáról.
 
 8. § (1)[^32] A megosztási eljárás előkészítése mezőgazdászi helyszínelésből és a keretmérésből áll. A keretmérés során – a járási hivatal által esetlegesen biztosított, a keretmérés végrehajtásához technológiát meghatározó vázlatnak megfelelően – a helyszíni állapot műszaki felmérésére kerül sor. A mezőgazdászi helyszínelésről és a keretmérésről a kérelmezőket előzetesen nem kell értesíteni. A mezőgazdászi helyszínelésről és a keretmérésről jegyzőkönyvet kell felvenni.
 
@@ -10,7 +10,7 @@
 
 (5)[^34] Ha a keretmérés eredménye az R.-ben foglalt tűréshatáron túl eltér az ingatlan-nyilvántartási állapottól, és az felmérési, térképezési vagy területszámítási hibából adódik, a járási hivatal a változást soron kívül átvezeti az ingatlan-nyilvántartásban.
 
-[^31]: A 7. § a 478/2015. (XII. 29.) Korm. rendelet 3. §-ával megállapított szöveg.
+[^31]: A 7. § a 478/2015. (XII. 29.) Korm. rendelet 3. §-ával megállapított, a 477/2016. (XII. 27.) Korm. rendelet 77. § (2) bekezdése szerint módosított szöveg.
 [^32]: A 8. § (1) bekezdése a 478/2015. (XII. 29.) Korm. rendelet 4. §-ával megállapított szöveg.
 [^33]: A 8. § (3) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 3. és 11. pontja szerint módosított szöveg.
 [^34]: A 8. § (5) bekezdése a 70/2015. (III. 30.) Korm. rendelet 261. § 3. pontja szerint módosított szöveg.

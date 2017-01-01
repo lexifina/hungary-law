@@ -1,4 +1,4 @@
-9. § (1)[^35] Ha a mezőgazdászi helyszínelés során az adott földrészlet művelési ága tekintetében eltérés tapasztalható és az érintett terület valószínűsíthetően az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény (a továbbiakban: Evt.) hatálya alá tartozik, akkor a járási hivatal belföldi jogsegély keretében megkeresi az erdészeti hatósági hatáskörében eljáró fővárosi és megyei kormányhivatalt, hogy az érintett terület az Evt. szerinti mely területnek felel meg.
+9. § (1)[^35] Ha a mezőgazdászi helyszínelés során az adott földrészlet művelési ága tekintetében eltérés tapasztalható és az érintett terület valószínűsíthetően az erdőről, az erdő védelméről és az erdőgazdálkodásról szóló törvény (a továbbiakban: Evt.) hatálya alá tartozik, akkor a járási hivatal szakkérdésként vizsgálja, hogy az érintett terület az Evt. szerinti mely területnek felel meg.
 
 (2)[^36] Ha az adott földrészleten belül az összefüggő erdő terület a 400 m2 területnagyságot eléri, akkor azt önálló földrészletté kell alakítani. E földrészletek az önálló földrészletté alakítást megelőzővel egyező arányban továbbra is a tulajdonostársak osztatlan közös tulajdonában maradnak, kivéve, ha a tulajdonosok ettől eltérő tulajdoni arányok kialakítására teljes körű egyezséget kötnek.
 
@@ -14,7 +14,7 @@
 
 (5) Ha a kérelemmel érintett földrészlet kisajátítás miatt több részre került megosztásra és a megosztás előtti tulajdoni arányok a megosztás után is azonosak a megosztott földrészletekben, akkor a megosztott földrészletek megosztási eljárását egy eljárásban kell lefolytatni.
 
-[^35]: A 9. § (1) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 29. §-ával megállapított szöveg.
+[^35]: A 9. § (1) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 287. § (1) bekezdésével megállapított szöveg.
 [^36]: A 9. § (2) bekezdése a 341/2016. (XI. 17.) Korm. rendelet 29. §-ával megállapított szöveg.
 [^37]: A 9. § (3a) bekezdését a 478/2015. (XII. 29.) Korm. rendelet 5. § (1) bekezdése iktatta be.
 [^38]: A 9. § (3b) bekezdését a 478/2015. (XII. 29.) Korm. rendelet 5. § (1) bekezdése iktatta be.
