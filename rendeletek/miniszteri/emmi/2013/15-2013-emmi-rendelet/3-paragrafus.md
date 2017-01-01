@@ -2,9 +2,9 @@
 
 (2)[^7] Az Intézmény a feladatait a megyében és a fővárosban a székhelyintézményben és a tagintézményekben látja el. A tagintézmény több tagintézményi telephelyen is működhet.
 
-(3) A tagintézmény neve három részből áll. Az első részben előtagként az Intézmény hivatalos neve, a második részben az első részhez kapcsolódva utótagként az adott tankerület nevével azonos megkülönböztető megjelölés az előtaggal birtokviszonyban, a harmadik részben a tagintézmény megnevezés szerepel. A tagintézmény önálló körbélyegzővel rendelkezik. A körbélyegző a tagintézmény nevét, és annak a telephelynek a címét tartalmazza, ahol a tagintézmény vezetőjének munkahelye található.
+(3)[^8] A tagintézmény neve három részből áll. Az első részben előtagként az Intézmény hivatalos neve, a második részben az első részhez kapcsolódva utótagként az adott járás nevével azonos megkülönböztető megjelölés az előtaggal birtokviszonyban, a harmadik részben a tagintézmény megnevezés szerepel. A tagintézmény önálló körbélyegzővel rendelkezik. A körbélyegző a tagintézmény nevét, és annak a telephelynek a címét tartalmazza, ahol a tagintézmény vezetőjének munkahelye található.
 
-(4)[^8] Pedagógiai szakszolgálati feladatot
+(4)[^9] Pedagógiai szakszolgálati feladatot
 
 a) az Nkt. 18. § (2) bekezdésében foglaltak közül egy vagy több pedagógiai szakszolgálati feladat vonatkozásában az állami felsőoktatási intézmény, az egyházi jogi személy, a vallási tevékenységet végző szervezet, vagy más nem állami, nem önkormányzati köznevelési intézményfenntartó által fenntartott pedagógiai szakszolgálati intézmény,
 
@@ -16,4 +16,5 @@ is elláthat.
 
 [^6]: A 3. § (1) bekezdése a 8/2014. (I. 30.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^7]: A 3. § (2) bekezdése a 8/2014. (I. 30.) EMMI rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^8]: A 3. § (4) bekezdése a 8/2014. (I. 30.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.
+[^8]: A 3. § (3) bekezdése az 53/2016. (XII. 29.) EMMI rendelet 47. § 2. pontja szerint módosított szöveg.
+[^9]: A 3. § (4) bekezdése a 8/2014. (I. 30.) EMMI rendelet 3. § (2) bekezdésével megállapított szöveg.

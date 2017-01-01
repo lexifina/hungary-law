@@ -10,7 +10,7 @@ c) illetve az e rendelet 25. § (3) és (4) bekezdése és 28. §-a alapján.
 
 (3) A pedagógiai szakszolgálat keretében biztosított ellátás az év során bármikor megkezdhető, illetve befejezhető.
 
-(4)[^51] Az Intézmény egész évben folyamatosan működik.
+(4)[^78] Az Intézmény egész évben folyamatosan működik.
 
 (5) Az Intézmény a feladatainak ellátásához évente, a tanév rendjéhez igazodva munkatervet készít. A munkatervnek biztosítania kell, hogy
 
@@ -21,6 +21,8 @@ aa) elvégezzék az iskolába lépéshez szükséges fejlettség megállapítás
 ab) elkészüljenek az iskolai felvételekhez szükséges szakértői vélemények,
 
 b) május utolsó munkanapjáig elkészüljenek azok a szakértői vélemények, amelyek tekintetében közigazgatási hatósági eljárás indult.
+
+(5a)[^79] A tanévben a szakalkalmazotti közösség az Intézmény munkatervében meghatározott pedagógiai szakszolgálati célra hat munkanapot szakszolgálati feladatellátás nélküli munkanapként használhat fel, amelyből két napot a teljes Intézmény, négy napot pedig a székhelyintézmény és a tagintézmények vonatkozásában kell felhasználni.
 
 (6) Ha a (5) bekezdés a) pontban meghatározott időpont lejártát követően kezdeményezik a gyermek, tanuló vizsgálatát, a rendelkezésre álló szabad vizsgálati napokra kell megtervezni a vizsgálatokat a beérkezés sorrendjében.
 
@@ -34,7 +36,7 @@ c) a szülőkkel való kapcsolattartás formáját és rendjét,
 
 d) a vezetők közötti feladatmegosztást, annak megjelölésével, hogy a pedagógiai szakszolgálati intézmény mely szakmai feladatának, tevékenységének szakmai irányításáért felelős,
 
-e)[^52] a pedagógus munkakörben foglalkoztatottaknak és a nevelő és oktató munkát közvetlenül segítő munkakörökben foglalkoztatottaknak – a 6. mellékletben meghatározott képesítési előírásoknak megfelelően – a pedagógiai szakszolgálati intézmény egyes feladatainak ellátásába történő részvételének rendjét,
+e)[^80] a pedagógus munkakörben foglalkoztatottaknak és a nevelő és oktató munkát közvetlenül segítő munkakörökben foglalkoztatottaknak – a 6. mellékletben meghatározott képesítési előírásoknak megfelelően – a pedagógiai szakszolgálati intézmény egyes feladatainak ellátásába történő részvételének rendjét,
 
 f) a belső ellenőrzés rendjét,
 
@@ -44,5 +46,6 @@ h) mindazt, amelynek szabályozását jogszabály előírja.
 
 (8) Az Intézmény a honlapján – tagintézményekre, telephelyekre lebontva – köteles közzétenni az általa nyújtott szolgáltatásokat, a működési körzetét, a gyermekek, tanulók, szülők fogadásának idejét.
 
-[^51]: A 34. § (4) bekezdése a 45/2014. (X. 27.) EMMI rendelet 59. §-ával megállapított szöveg.
-[^52]: A 34. § (7) bekezdés e) pontja a 45/2014. (X. 27.) EMMI rendelet 60. §-ával megállapított szöveg.
+[^78]: A 34. § (4) bekezdése a 45/2014. (X. 27.) EMMI rendelet 59. §-ával megállapított szöveg.
+[^79]: A 34. § (5a) bekezdését az 53/2016. (XII. 29.) EMMI rendelet 40. §-a iktatta be.
+[^80]: A 34. § (7) bekezdés e) pontja a 45/2014. (X. 27.) EMMI rendelet 60. §-ával megállapított szöveg.

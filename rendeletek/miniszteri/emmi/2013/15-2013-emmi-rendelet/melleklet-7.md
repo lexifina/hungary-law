@@ -1,5 +1,5 @@
-7. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^75]
+7. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^112]
 
-A fővárosban, megyében működő Intézményekben foglalkoztatottak
+A fővárosban, megyében működő Intézményekben foglalkoztatottak minimális létszáma
 
-[^75]: A 7. melléklet a 8/2014. (I. 30.) EMMI rendelet 31. § 16. és 17. pontja szerint módosított szöveg.
+[^112]: A 7. melléklet az 53/2016. (XII. 29.) EMMI rendelet 46. §-ával megállapított szöveg.

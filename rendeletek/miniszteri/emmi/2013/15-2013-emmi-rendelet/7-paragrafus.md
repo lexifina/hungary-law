@@ -18,7 +18,7 @@ af) ha a szülő nem ért egyet a hatodik életévét augusztus 31-ig betöltő 
 
 b) a beilleszkedési, a tanulási, a magatartási nehézség megállapítása vagy kizárása,
 
-c) a sajátos nevelési igény – a mozgásszervi-, az érzékszervi- (látási-, hallási-), az értelmi, a beszédfogyatékosság, több fogyatékosság együttes előfordulása esetén a halmozott fogyatékosság, az autizmus spektrum zavar vagy az egyéb pszichés fejlődési zavar: súlyos tanulási, figyelem- vagy magatartásszabályozási zavar – megállapítása vagy kizárása,
+c)[^16] a sajátos nevelési igény – a mozgásszervi, az érzékszervi (a látási, a hallási), az értelmi, a beszédfogyatékosság, több fogyatékosság együttes előfordulása esetén a halmozott fogyatékosság, az autizmus spektrum zavar vagy az egyéb pszichés fejlődési zavar: súlyos tanulási, figyelem- vagy magatartásszabályozási zavar – megállapítása vagy kizárása,
 
 d) sajátos nevelési igényű tanuló esetében
 
@@ -31,3 +31,5 @@ céljából, és a vizsgálatok eredményei alapján javaslatot tesz a beilleszk
 (2) Amennyiben a szakértői bizottság vizsgálata alapján a gyermeknél, a tanulónál sem a beilleszkedési, sem a tanulási, sem a magatartási nehézség, sem a sajátos nevelési igény nem állapítható meg, de eredményes óvodai neveléséhez, iskolai neveléséhez, oktatásához iskolapszichológiai, óvodapszichológiai vagy logopédiai ellátásba vétele indokolt, a szakértői bizottság a megfelelő ellátásba vételét kezdeményezi.
 
 (3) Az (1) bekezdés d) pontjában meghatározott esetekben a szakértői vélemény elkészítésekor – amennyiben a szakértői bizottság rendelkezésére álló vizsgálati dokumentumokból a szakértői vélemény elkészítéséhez szükséges információk egyértelműen megállapíthatóak – a tanuló újabb vizsgálata mellőzhető.
+
+[^16]: A 7. § (1) bekezdés c) pontja az 53/2016. (XII. 29.) EMMI rendelet 47. § 6. pont b) alpontja szerint módosított szöveg.

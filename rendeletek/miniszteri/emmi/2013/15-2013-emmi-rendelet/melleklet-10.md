@@ -218,7 +218,7 @@
 
 ## 8. Ahol a „székhelyen, tagintézményben, telephelyen” megjelölést alkalmazza, azon érteni kell az intézmény székhelyét és valamennyi telephelyét, függetlenül attól, hogy a székhelyen, illetve a telephelyen hány épület van.
 
-10. melléklet a 15/2013. (II. 26.) EMMI rendelethez
+10. melléklet a 15/2013. (II. 26.) EMMI rendelethez[^115]
 
 A nem állami szerv által fenntartott pedagógiai szakszolgálati feladatokat ellátó intézmény létesítéséhez szükséges engedély iránti kérelem adattartalma
 
@@ -256,7 +256,7 @@ g) a pedagógiai szakszolgálati intézmény feladatával, működésével kapcs
 
 II.
 
-A működési engedély iránti kérelemhez eredetiben vagy másolatban – másolat esetén az eljárás során a kormányhivatal kérheti az eredeti dokumentum bemutatását – csatolni kell:
+A működési engedély iránti kérelemhez eredetiben vagy másolatban – másolat esetén az eljárás során a megyeszékhely szerinti járási hivatal kérheti az eredeti dokumentum bemutatását – csatolni kell:
 
 1. a pedagógiai szakszolgálati intézmény alapító okiratát, valamint a nyilvántartásba vételről szóló jogerős határozatot,
 
@@ -281,3 +281,5 @@ A működési engedély iránti kérelemhez eredetiben vagy másolatban – más
 6.2 a fenntartó által jóváhagyott egy évre szóló költségvetést, amely tartalmazza a működéshez szükséges befektetett eszközök és forgóeszközök beszerzési értékét, a dologi és személyi kiadások összegét, utóbbiba beleértve az alkalmazottak bérét, annak közterheit, valamint
 
 6.3 a fenntartó nyilatkozatát arról, hogy a feladatok ellátásához szükséges fedezetet biztosítja.
+
+[^115]: A 10. melléklet az 51/2016. (XII. 29.) EMMI rendelet 8. § 1. pontja szerint módosított szöveg.

@@ -1,4 +1,6 @@
-13. § (1)[^18] A szakértői vizsgálat – a (2) bekezdés a), b) és d) pontjaiban, valamint a 40. § (3) bekezdésében foglalt kivétellel – a szülő kérelmére, illetve, ha az eljárást nem a szülő kezdeményezi, a szülő egyetértésével indul. Az eljárás megindítása az Intézmény szakértői bizottságként eljáró azon feladatellátási helyénél kérhető vagy kezdeményezhető, amelynek működési körzetében a gyermek, tanuló lakóhellyel, ennek hiányában tartózkodási hellyel rendelkezik, vagy amelynek működési körzetében a gyermek, tanuló intézményes ellátásban részesül. A mozgásszervi fogyatékosság, az érzékszervi fogyatékosság, valamint a beszédfogyatékosság megállapítására vagy kizárására irányuló vizsgálat közvetlenül is kérhető, illetve kezdeményezhető az országos szakértői bizottságnál. Ha a gyermek óvodai nevelésben, iskolai nevelésben, oktatásban részesül, az óvoda, az iskola köteles közreműködni az 1. melléklet szerinti vizsgálat iránti kérelem elkészítésében.
+## 12/A. §[^27] Az országos szakértői bizottság tevékenysége körében a 12. § (1) bekezdés c) és d) pontjában, valamint (2) bekezdésében meghatározott feladatokat végzi.
+
+13. § (1)[^28] A szakértői vizsgálat – a (2) bekezdés a), b) és d) pontjaiban, valamint a 40. § (3) bekezdésében foglalt kivétellel – a szülő kérelmére, illetve, ha az eljárást nem a szülő kezdeményezi, a szülő egyetértésével indul. Az eljárás megindítása az Intézmény szakértői bizottságként eljáró azon feladatellátási helyénél kérhető vagy kezdeményezhető, amelynek működési körzetében a gyermek, tanuló lakóhellyel, ennek hiányában tartózkodási hellyel rendelkezik, vagy amelynek működési körzetében a gyermek, tanuló intézményes ellátásban részesül. A mozgásszervi, valamint az érzékszervi (a látási, a hallási) fogyatékosság megállapítására vagy kizárására irányuló vizsgálat közvetlenül is kérhető, illetve kezdeményezhető az országos szakértői bizottságnál. Ha a gyermek óvodai nevelésben, iskolai nevelésben, oktatásban részesül, az óvoda, az iskola köteles közreműködni az 1. melléklet szerinti vizsgálat iránti kérelem elkészítésében.
 
 (2) A szakértői vizsgálat indítható:
 
@@ -12,7 +14,7 @@ d) illetve a szülő egyetértésével
 
 da) a nevelési-oktatási intézmény,
 
-db) a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény hatálya alá tartozó gyámhatóság, gyermekjóléti szolgálat, bölcsőde, gyermekotthon, területi gyermekvédelmi szakszolgálat,
+db)[^29] a gyermekek védelméről és a gyámügyi igazgatásról szóló törvény hatálya alá tartozó család- és gyermekjóléti szolgálat, család- és gyermekjóléti központ, bölcsőde, gyermekotthon, területi gyermekvédelmi szakszolgálat, nevelőszülői hálózat működtetője,
 
 dc) a szociális igazgatásról és szociális ellátásokról szóló törvény hatálya alá tartozó fogyatékosok ápoló, gondozó otthona, fogyatékosok rehabilitációs intézménye, fogyatékosok nappali intézménye
 
@@ -28,7 +30,7 @@ c) halmozottan hátrányos helyzetű gyermek, tanuló vizsgálatának kezdemény
 
 (4) A szülő egyetértése esetén a szakértői vélemény készítésére irányuló – a szülő által aláírt – kérelmet az óvoda, az iskola megküldi
 
-a)[^19] az (1) bekezdésben meghatározott szakértői bizottságnak,
+a)[^30] az (1) bekezdésben meghatározott szakértői bizottságnak,
 
 b) a halmozottan hátrányos helyzetű gyermek, tanuló vizsgálatának kezdeményezése esetén – az (5) bekezdésben foglalt kivétellel – az Oktatási Hivatalnak (a továbbiakban: Hivatal).
 
@@ -36,5 +38,7 @@ b) a halmozottan hátrányos helyzetű gyermek, tanuló vizsgálatának kezdemé
 
 (6) Ha a halmozottan hátrányos helyzetű gyermek, tanuló szülője a szakértői vélemény készítésére irányuló kérelemnyomtatványon olyan nyilatkozatot tesz, hogy gyermeke vizsgálatánál szakszolgálati-esélyegyenlőségi szakértő ne legyen jelen, a (4) bekezdés b) pontjában foglaltakat nem kell alkalmazni.
 
-[^18]: A 13. § (1) bekezdése a 8/2014. (I. 30.) EMMI rendelet 8. § (1) bekezdésével megállapított szöveg.
-[^19]: A 13. § (4) bekezdés a) pontja a 8/2014. (I. 30.) EMMI rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^27]: A 12/A. §-t az 53/2016. (XII. 29.) EMMI rendelet 28. §-a iktatta be.
+[^28]: A 13. § (1) bekezdése a 8/2014. (I. 30.) EMMI rendelet 8. § (1) bekezdésével megállapított, az 53/2016. (XII. 29.) EMMI rendelet 47. § 10. pontja szerint módosított szöveg.
+[^29]: A 13. § (2) bekezdés d) pont db) alpontja az 53/2016. (XII. 29.) EMMI rendelet 47. § 11. pontja szerint módosított szöveg.
+[^30]: A 13. § (4) bekezdés a) pontja a 8/2014. (I. 30.) EMMI rendelet 8. § (2) bekezdésével megállapított szöveg.
