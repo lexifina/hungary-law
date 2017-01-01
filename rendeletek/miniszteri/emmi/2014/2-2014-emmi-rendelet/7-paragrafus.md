@@ -1,3 +1,3 @@
-## 6. §[^8] Az ENKK évente egy alkalommal – szakorvosi szakképesítésenkénti bontásban – az országos, regionális és megyei szakorvos-létszámra vonatkozó jelentést küld a miniszter részére.
+## 6. §[^8] Az ÁEEK évente egy alkalommal – szakorvosi szakképesítésenkénti bontásban – az országos, regionális és megyei szakorvos-létszámra vonatkozó jelentést küld a miniszter részére.
 
-[^8]: A 6. § a 23/2015. (IV. 28.) EMMI rendelet 160. § b) pontja szerint módosított szöveg.
+[^8]: A 6. § az 54/2016. (XII. 30.) EMMI rendelet 94. § (1) bekezdés b) pontja szerint módosított szöveg.

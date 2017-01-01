@@ -1,3 +1,3 @@
-## 9. §[^10] Az 1. § (2) bekezdése szerinti megállapodást az ENKK az adatszolgáltatókkal legkésőbb 2014. március 31-ig megköti.
+## 9. §[^10]
 
-[^10]: A 9. § a 23/2015. (IV. 28.) EMMI rendelet 160. § b) pontja szerint módosított szöveg.
+[^10]: A 9. §-t az 54/2016. (XII. 30.) EMMI rendelet 94. § (2) bekezdése hatályon kívül helyezte.
