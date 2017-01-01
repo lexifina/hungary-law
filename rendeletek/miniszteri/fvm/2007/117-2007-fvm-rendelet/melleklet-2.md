@@ -1,4 +1,4 @@
-2. számú melléklet a 117/2007. (X. 10.) FVM rendelethez[^35]
+2. számú melléklet a 117/2007. (X. 10.) FVM rendelethez[^37]
 
 Kifizetési kérelem adattartalma
 
@@ -28,4 +28,4 @@ Kifizetési kérelem adattartalma
 
 10. Melléklet: az elvégzett szolgáltatásokról kiállított számlák másolatai.
 
-[^35]: A 2. számú melléklet a 6/2015. (III. 10.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.
+[^37]: A 2. számú melléklet a 6/2015. (III. 10.) FM rendelet 8. § (2) bekezdésével megállapított szöveg.

@@ -6,7 +6,7 @@
 
 (3)[^9]
 
-(4)[^10] A (2) bekezdésében meghatározott keretösszeg 80%-os kihasználtságáról a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) köteles a földművelésügyi minisztert tájékoztatni.
+(4)[^10] A (2) bekezdésében meghatározott keretösszeg 80%-os kihasználtságáról a Magyar Államkincstár (a továbbiakban: Kincstár) köteles a földművelésügyi minisztert tájékoztatni.
 
 (5)[^11] A támogatás mértéke
 
@@ -21,7 +21,7 @@ b) a támogatott növényegészségügyi laboratóriumi vizsgálatokkal kapcsola
 [^7]: A 4. § (1) bekezdése a 46/2013. (VI. 3.) VM rendelet 3. § (1) bekezdésével megállapított szöveg. [A 70/2013. (VII. 31.) VM rendelet 78. § b) pontjával elrendelt módosítás, amely szerint „a Földművelésügyi és Vidékfejlesztési Minisztérium” szövegrész helyébe „a Vidékfejlesztési Minisztérium” szöveg lép, nem vezethető át.]
 [^8]: A 4. § (2) bekezdése a 46/2013. (VI. 3.) VM rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^9]: A 4. § új (3) bekezdését a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatta, hatályon kívül helyezte a 46/2013. (VI. 3.) VM rendelet 6. §-a.
-[^10]: A 4. § új (4) bekezdését a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (6) bekezdésre változtatta, szövege a 46/2013. (VI. 3.) VM rendelet 5. § 4. pontja, a 6/2015. (III. 10.) FM rendelet 9. § a) pontja szerint módosított szöveg.
+[^10]: A 4. § új (4) bekezdését a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (6) bekezdésre változtatta, szövege a 46/2013. (VI. 3.) VM rendelet 5. § 4. pontja, a 6/2015. (III. 10.) FM rendelet 9. § a) pontja, a 88/2016. (XII. 29.) FM rendelet 16. § a) pontja szerint módosított szöveg.
 [^11]: A 4. § eredeti (3) bekezdésének számozását (5) bekezdésre változtatta a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése, szövege a 46/2013. (VI. 3.) VM rendelet 3. § (2) bekezdésével megállapított szöveg.
 [^12]: A 4. § eredeti (4) bekezdésének számozását (6) bekezdésre változtatta a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése, szövege a 46/2013. (VI. 3.) VM rendelet 5. § 5. pontja szerint módosított szöveg.
 [^13]: A 4. § eredeti (5) bekezdésének számozását (7) bekezdésre változtatta a 8/2010. (II. 4.) FVM rendelet 3. § (2) bekezdése, hatályon kívül helyezte a 46/2013. (VI. 3.) VM rendelet 6. §-a. Újonnan a 6/2015. (III. 10.) FM rendelet 3. §-a iktatta be.
