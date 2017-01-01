@@ -6,4 +6,6 @@ a) a referencia terület megállapításánál figyelembe vett mezőgazdasági t
 
 b) a termelők az általuk korábban zöldség-, gyümölcs-, dohány termesztésben foglalkoztatott munkavállalók foglalkoztatottsági szintjét a szerkezet átalakítási programban való részvétel teljes időtartama alatt fenntartsák.
 
-(2) A szerkezetátalakítási program által érintett települések listáját a termelők által 2009. évben benyújtott egységes kérelemben szereplő adatok alapján a Mezőgazdasági és Vidékfejlesztési Hivatal központi szerve (a továbbiakban: MVH) tájékoztató jelleggel 2010. április 15-éig internetes honlapján közleményben teszi közzé.
+(2)[^5] A szerkezetátalakítási program által érintett települések listáját a termelők által 2009. évben benyújtott egységes kérelemben szereplő adatok alapján a mezőgazdasági és vidékfejlesztési támogatási szerv tájékoztató jelleggel 2010. április 15-éig internetes honlapján közleményben teszi közzé.
+
+[^5]: A 2. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 44. § a) pontja szerint módosított szöveg.
