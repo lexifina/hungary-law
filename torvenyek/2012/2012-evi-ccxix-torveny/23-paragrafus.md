@@ -1,5 +1,5 @@
 23. § (1) A szőlészeti és borászati szekció azonos számú tagot választ a hegyközségi tanács tagjai közül az igazgatóválasztmányba, és ennek tagjai közül a küldöttek együttes ülésén megválasztja a hegyközségi tanács elnökét és – amennyiben szükséges – alelnökét. Az ügyek viteléért felelős tisztségviselő az elnök.
 
-(2) A hegyközségi tanács javaslata alapján a Hegyközségek Nemzeti Tanácsának főtitkára titkárt nevez ki. A titkár munkáltatója – az 56. § (3) bekezdésben foglalt eltéréssel – a Hegyközségek Nemzeti Tanácsa, felette a munkáltatói jogokat a Hegyközségek Nemzeti Tanácsának főtitkára gyakorolja.
+(2) A hegyközségi tanácsok az érdekvédelmi feladatok ellátására borvidéki titkárt alkalmazhatnak. A borvidéki titkár munkáltatója a hegyközségi tanács, felette a munkáltatói jogokat az elnök gyakorolja. A borvidéki titkár feladatait a hegyközségi tanács alapszabálya határozza meg.
 
-(3) A hegyközségi tanács elnöke feladatainak ellátásával az alapszabály felhatalmazása alapján a titkár is megbízható.
+(3) A hegyközségi tanács elnöke feladatainak ellátásával az alapszabály felhatalmazása alapján a borvidéki titkár is megbízható.

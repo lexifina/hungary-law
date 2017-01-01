@@ -4,7 +4,7 @@
 
 ## 16. A hegyközségi tanács
 
-22. § (1) A hegyközségek borvidékenként hegyközségi tanácsot alakítanak. Amennyiben egy borvidéken csak egy hegyközség alakul meg, a hegyközségi tanácsot nem kell létrehozni, illetve a hegyközségi tanács megszűnik, és a hegyközségi tanácsi feladatokat a hegyközség, a titkári feladatokat pedig a hegyközség elnöke látja el.
+22. § (1) A hegyközségek borvidékenként hegyközségi tanácsot alakítanak. Amennyiben egy borvidéken csak egy hegyközség alakul meg, a hegyközségi tanácsot nem kell létrehozni, illetve a hegyközségi tanács megszűnik, és a hegyközségi tanácsi feladatokat a hegyközség látja el.
 
 (2) A hegyközségi tanács tagjai a 6. § (8) bekezdésében foglaltak alapján megválasztott küldöttek.
 

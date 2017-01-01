@@ -1,6 +1,12 @@
 34. § (1) A hegyközség a hegyközségi rendtartás (hegyszabályok) keretében meghatározza a célszerű telepítés és művelés, az ültetvények rendje, a szőlőkárosító elleni egységes növényvédelem szabályait. Ennek során figyelembe kell venni a természet- és tájvédelemre vonatkozó jogszabályokat is. A rendtartásban meg kell határozni a hegyszabályokat sértő cselekmények e törvény szerinti jogkövetkezményeit.
 
-(2) A hegyközségi rendtartás a hegyközség területén a borszőlő termőhelyi kataszterbe sorolt területre kiterjedő hatállyal határozza meg az ingatlanok, az utak, vízelvezető árkok állapotára és növényvédelmére, valamint az ingatlanok rendeltetésszerű használatával kapcsolatos létesítmények karbantartására vonatkozó szabályokat. A rendtartás ezen előírásait a borszőlő termőhelyi kataszterbe eső, más művelési ágú külterületi ingatlanok használóinak és az utak kezelőinek is be kell tartaniuk.
+(2) A hegyközségi rendtartás a hegyközség területén a borszőlő termőhelyi kataszterbe sorolt területre kiterjedő hatállyal határozza meg
+
+a) az ingatlanok, az utak, vízelvezető árkok állapotára és növényvédelmére, valamint az ingatlanok rendeltetésszerű használatával kapcsolatos létesítmények karbantartására vonatkozó szabályokat;
+
+b) a csemegeszőlő-telepítést kivéve gyümölcsös, erdő telepítése, fásítás, halastó és nádas létesítése, valamint a termőföld más célú hasznosítására vonatkozó hegybírói hozzájárulás megadására vagy elutasítására vonatkozó szabályokat.
+
+(2a) A rendtartás (2) bekezdés szerinti előírásait a borszőlő termőhelyi kataszterbe eső, más művelési ágú külterületi ingatlanok használóinak és az utak kezelőinek is be kell tartaniuk.
 
 (3) Az elfogadott rendtartást meg kell küldeni a hegyközségi tanácsnak, amely kifogást emelhet a rendtartás ellen, ha az törvénysértő, ellentétes a borvidéki rendtartással, ellentétes a Hegyközségek Nemzeti Tanácsának a rendtartás megküldéséig elfogadott határozataival, vagy nyilvánvalóan szakszerűtlen rendelkezést tartalmaz. A hegyközség közgyűlésének a kifogásolt rendelkezést újra kell tárgyalnia. A rendtartást – kifogás híján – a hegyközségi tanácsnak történő megküldését követő harminc nap elteltével közzé kell tenni.
 

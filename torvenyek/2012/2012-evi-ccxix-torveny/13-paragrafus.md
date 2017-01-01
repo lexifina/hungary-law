@@ -20,16 +20,16 @@ e) aki a tisztségviselői tevékenységtől, mint foglalkozástól eltiltó jog
 
 (5) Azt a tényt, hogy a (2) bekezdés d) és e) pontja szerinti kizáró okok nem állnak fenn, a tisztségviselő személy hatósági bizonyítvánnyal igazolja.
 
-(6) A hegyközségi tanács titkára a tisztségviselői megbízatás időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi a tisztségviselő tekintetében a (2) bekezdés d) és e) pontja szerinti kizáró ok fennállását. A hatósági ellenőrzés céljából a hegyközségi tanács titkára adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a tisztségviselő büntetlen előéletű-e, valamint hogy a tisztségviselői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
+(6) A regionális titkár a tisztségviselői megbízatás időtartama alatt lefolytatott hatósági ellenőrzés keretében ellenőrzi a tisztségviselő tekintetében a (2) bekezdés d) és e) pontja szerinti kizáró ok fennállását. A hatósági ellenőrzés céljából a regionális titkár adatot igényelhet a bűnügyi nyilvántartási rendszerből. Az adatigénylés kizárólag azon adatra irányulhat, hogy a tisztségviselő büntetlen előéletű-e, valamint hogy a tisztségviselői tevékenység folytatását kizáró foglalkozástól eltiltás hatálya alatt áll-e.
 
 (7) Az (5) és (6) bekezdés alapján megismert személyes adatokat
 
 a) a hegyközség a tisztségre jelölt személy tekintetében a tisztség betöltéséről határozó közgyűlési szavazás napjáig,
 
-b) a hegyközségi tanács titkára – tisztségviselői megbízatás esetén – a tisztségviselő megbízatásának megszűnéséig
+b) a regionális titkár – tisztségviselői megbízatás esetén – a tisztségviselő megbízatásának megszűnéséig
 
 kezeli.
 
-(8) Ha a hegyközségi tanács titkára a (2) bekezdés d) és e) pontja szerinti kizáró ok fennállását a tisztségviselővel szemben a (6) bekezdés szerinti hatósági ellenőrzés során megállapítja, felhívja a közgyűlést, hogy a tisztségviselő megbízatását haladéktalanul vonja vissza. A tisztségviselő a kizáró ok fennállásáról szóló határozat kézbesítése napjától a tisztségéből fakadó jogait nem gyakorolhatja. A megszüntetést írásban, az ok megjelölésével kell közölni a tisztségviselővel.
+(8) Ha a regionális titkár a (2) bekezdés d) és e) pontja szerinti kizáró ok fennállását a tisztségviselővel szemben a (6) bekezdés szerinti hatósági ellenőrzés során megállapítja, felhívja a közgyűlést, hogy a tisztségviselő megbízatását haladéktalanul vonja vissza. A tisztségviselő a kizáró ok fennállásáról szóló határozat kézbesítése napjától a tisztségéből fakadó jogait nem gyakorolhatja. A megszüntetést írásban, az ok megjelölésével kell közölni a tisztségviselővel.
 
-(9) A 22. § (1) bekezdés szerint működő hegyközség esetén az e §-ban meghatározott, a hegyközségi tanács titkárára vonatkozó feladatokat a Hegyközségek Nemzeti Tanácsának főtitkára látja el.
+(9)

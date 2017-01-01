@@ -10,4 +10,4 @@ b) a származási bizonyítvány kiadásának rendjét,
 
 c) az adópolitikáért felelős miniszterrel egyetértésben a hegyközségi szervezetek által lefolytatott egyes eljárások igazgatási szolgáltatási díjainak mértékét és megfizetésének rendjét,
 
-d) a hegybíró, a titkár és a főtitkár tevékenységének ellenőrzési szabályait rendeletben állapítsa meg.
+d) a hegybíró, a regionális titkár és a főtitkár tevékenységének ellenőrzési szabályait rendeletben állapítsa meg.
