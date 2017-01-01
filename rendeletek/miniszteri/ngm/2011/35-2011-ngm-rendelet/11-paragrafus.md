@@ -1,6 +1,6 @@
 ## 3. A fémjelek, a fémjelzéssel kapcsolatos egyéb hivatalos jelek alakja és rajza, a fémjelzés módszere és részletes szabályai
 
-## 11. §[^5] A fémjelek a következők:
+## 11. §[^6] A fémjelek a következők:
 
 a) az R. 1. mellékletében meghatározott, 950 ezrelék finomsági fokú platina tárgyra kard, felette az évszám betűjele, az évszám betűjel felett 950; a jel mélységében több szintű,
 
@@ -26,4 +26,4 @@ k) az R. 1. mellékletében meghatározott, 835 ezrelék finomsági fokú ezüst
 
 l) az R. 1. mellékletében meghatározott, 800 ezrelék finomsági fokú ezüst tárgyakra stilizált híd (Szabadság-híd), alatta az évszám betűjele, felette 800, a jel mélységében több szintű.
 
-[^5]: A 11. § a 35/2015. (XII. 23.) NGM rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^6]: A 11. § a 35/2015. (XII. 23.) NGM rendelet 9. § (4) bekezdésével megállapított szöveg.

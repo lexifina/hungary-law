@@ -1,4 +1,4 @@
-2. §[^3] (1) Amennyiben a vállalkozás megfelel a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény, valamint e rendeletben előírt követelményeknek, a hatóság a vállalkozót hivatalból nyilvántartásba veszi. A nyilvántartás tartalmazza
+2. §[^4] (1) Amennyiben a vállalkozás megfelel a szolgáltatási tevékenység megkezdésének és folytatásának általános szabályairól szóló 2009. évi LXXVI. törvény, valamint e rendeletben előírt követelményeknek, a hatóság a vállalkozót hivatalból nyilvántartásba veszi. A nyilvántartás tartalmazza
 
 a) a nyilvántartásba vétel számát,
 
@@ -28,4 +28,4 @@ k) a nyilvántartásból való törlés tényét és annak időpontját.
 
 (4) A hatóságnál vezetett hatósági nyilvántartás alapján az (1) bekezdés a)–f), h), i) és k) pontjában meghatározott adatokat a hatóság a Kormányzati Portálon keresztül is elérhető honlapján folyamatos frissítéssel közzéteszi.
 
-[^3]: A 2. § a 35/2015. (XII. 23.) NGM rendelet 9. § (2) bekezdésével megállapított szöveg.
+[^4]: A 2. § a 35/2015. (XII. 23.) NGM rendelet 9. § (2) bekezdésével megállapított szöveg.
