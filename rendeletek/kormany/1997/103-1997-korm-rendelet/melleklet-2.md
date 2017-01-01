@@ -244,7 +244,7 @@
 
 |  | Az adatlappal együtt benyújtott bizonyító okiratok felsorolása |  |
 
-2. számú melléklet a 103/1997. (VI. 13.) Korm. rendelethez[^17]
+2. számú melléklet a 103/1997. (VI. 13.) Korm. rendelethez[^19]
 
 | A hivatal tölti ki! |
 
@@ -296,4 +296,4 @@
 
 | V. A letétbe helyezett kárpótlási jegyeimet átvettem 199 ………..év ……………………………hó …………….nap …………………………………...…………. igénylő (meghatalmazott) aláírása |
 
-[^17]: Lásd: 1997. MK 51. szám 3896. oldal.
+[^19]: Lásd: 1997. MK 51. szám 3896. oldal.
