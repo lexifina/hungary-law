@@ -22,3 +22,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/1999-76-00-00
 | 2015-07-16 | 2015. évi CXXIX. törvény | 1999-76-00-00.29 |
 | 2016-07-01 | 2016. évi LXIV. törvény | 1999-76-00-00.30 |
 | 2016-07-28 | 2016. évi XCIII. törvény | 1999-76-00-00.31 |
+| 2017-01-01 | 2016. évi CXXI. törvény | 1999-76-00-00.32 |
