@@ -1,6 +1,6 @@
-## 6. §[^5] Az e rendelet hatálya alá tartozó források felhasználása tekintetében az államháztartásról szóló törvény végrehajtásáról szóló 368/2011. (XII. 31.) Korm. rendeletet (a továbbiakban: Ávr.) csak akkor kell alkalmazni, ha e rendelet eltérő szabályokat nem állapít meg.
+## 7. §[^6] Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-1. melléklet az 547/2013. (XII. 30.) Korm. rendelethez[^6]
+1. melléklet az 547/2013. (XII. 30.) Korm. rendelethez[^7]
 
 Az egységes működési kézikönyv
 
@@ -300,7 +300,7 @@ A projektkiválasztás
 
 27. Az érkeztetés során a KSZ
 
-a) a pályázati anyagokat postai úton vagy személyesen átveszi,
+a) a pályázati anyagokat elektronikus vagy postai úton vagy személyesen átveszi,
 
 b) a pályázatot iktatja.
 
@@ -1940,7 +1940,7 @@ c) a közbeszerzési eljárás eredményeként kötött, aláírt szállítói s
 
 195.1. Ha a Pályázati e-ügyintézés felület infrastrukturális feltételei nem adottak, a kért dokumentumokat papír alapon és elektronikus adathordozón is be kell kérni. Ebben az esetben az előlegbekérőt a szállító a KSZ-nek és a kedvezményezettnek egyidejűleg köteles megküldeni.
 
-195.2. A 193.2. pont szerinti biztosíték eredeti példányát a Pályázati e-ügyintézés felületen szkennelve – és azt követően minden esetben a KSZ-nek postai úton is megküldve – kell benyújtani. A szállítói előleg jóváhagyásának feltétele a biztosíték eredeti példányának beérkezése a KSZ-hez.
+195.2. A 193.2. pont szerinti biztosíték eredeti példányát elektronikusan, a Pályázati e-ügyintézés felületen kell benyújtani.
 
 195.3. Közvetlen szállítói előleg igénylése esetén a devizában kötött szállítói szerződést a következő árfolyamokon kell nyilvántartásba venni, valamint az előlegbekérőt, az előlegszámlát, a rész- vagy végszámlát átszámítani forintra:
 
@@ -2098,7 +2098,7 @@ e) ha a pályázati felhívás, illetve a támogatási szerződés előírja, z�
 
 204.4. Az 1. függelékben felsorolt – a 204.3. pontban nem rögzített – dokumentum esetében elegendő a hiteles másolat benyújtása. Hiteles másolatként a kedvezményezett részéről cégjegyzésre jogosult vagy az általa meghatalmazott személy által megfelelő módon aláírt másolat fogadható el.
 
-204.5. A biztosítékok iratanyagát az elektronikus benyújtást követően haladéktalanul papíron is be kell nyújtani. A támogatás jóváhagyásának feltétele a biztosítékok eredeti papír alapú példányának KSZ-hez történő beérkezése. Ha a biztosítékok iratanyaga nem érkezik be a KSZ-hez, cégszerűen aláírt eredeti példányban a hiánypótlás kiküldésére rendelkezésre álló határidőig, akkor a biztosítéki iratanyag megküldését a hiánypótlásban elő kell írni a kedvezményezett számára.
+204.5.
 
 204.6. Ha a projekt keretében elszámolható költségről szóló bizonylat eredeti példánya elveszett vagy megsemmisült, és a számlakibocsátó az általa kiállított vagy őrzött bizonylatról másolatként új bizonylatot állít ki, akkor az abban az esetben fogadható el, ha a számlakibocsátó a bizonylat azonosságát szabályszerűen igazolta.
 
@@ -3970,9 +3970,9 @@ c) a fenntartási jelentés elfogadásához szükséges kiegészítések, korrek
 
 392.1. A ZPFJ elfogadásáról a KSZ a döntéstől számított 5 napon belül értesíti a kedvezményezettet.
 
-392.2. A ZPFJ elfogadását követően az IH – vagy ha az IH ezt a feladatot a KSZ-re delegálta, a KSZ – záró jegyzőkönyvben nyilatkozik a biztosíték visszavonhatóságáról és a projekt lezárásáról, amelyet a KSZ a végső pénzügyi zárást követően postai úton küld el a kedvezményezettnek.
+392.2. A ZPFJ elfogadását követően az IH – vagy ha az IH ezt a feladatot a KSZ-re delegálta, a KSZ – záró jegyzőkönyvben nyilatkozik a biztosíték visszavonhatóságáról és a projekt lezárásáról, amelyet a KSZ a végső pénzügyi zárást követően elektronikus vagy postai úton küld el a kedvezményezettnek.
 
-392.3. Ha a kedvezményezettnek fenntartási kötelezettsége nincs, a KSZ a projekt lezárásáról a végső pénzügyi zárás után postai úton értesíti a kedvezményezettet
+392.3. Ha a kedvezményezettnek fenntartási kötelezettsége nincs, a KSZ a projekt lezárásáról a végső pénzügyi zárás után elektronikus vagy postai úton értesíti a kedvezményezettet.
 
 X. Fejezet
 
@@ -4876,5 +4876,5 @@ Szabálytalanságkezelés
 
 209. Értelmező rendelkezések
 
-[^5]: A 6. §-t a 69/2015. (III. 30.) Korm. rendelet 12. §-a iktatta be.
-[^6]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7–8. §-a szerint módosított szöveg.
+[^6]: A 7. §-t a 477/2016. (XII. 27.) Korm. rendelet 73. § (1) bekezdése iktatta be.
+[^7]: Az 1. melléklet a 85/2014. (III. 18.) Korm. rendelet 1. §-ával megállapított, a 203/2014. (VIII. 14.) Korm. rendelet 13–15. §-a, a 272/2014. (XI. 5.) Korm. rendelet 208. §-a, a 69/2015. (III. 30.) Korm. rendelet 13–14. §-a, a 175/2015. (VII. 7.) Korm. rendelet 79. §-a, a 46/2015. (III. 12.) Korm. rendelet 4. §-a, a 323/2015. (X. 30.) Korm. rendelet 11. §-a, a 486/2015. (XII. 29.) Korm. rendelet 44. §-a, a 4/2016. (I. 20.) Korm. rendelet 7–8. §-a, a 477/2016. (XII. 27.) Korm. rendelet 73. § (2) bekezdése szerint módosított szöveg.
