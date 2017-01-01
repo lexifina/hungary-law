@@ -12,10 +12,11 @@ e) Anyajuh Kiegészítő Többletjogosultság (a továbbiakban: AjKTj) esetén j
 
 (2)[^23] Az ügyfél által vállalt foglalkoztatási és szakmai továbbképzési, valamint beruházási, felújítási kötelezettség részleges teljesítése esetén az (1) bekezdésben foglalt összegek a nem teljesítés arányában veendők figyelembe valamennyi, ezen rendelet által szabályozott jogosultság esetében.
 
-(3) A szerkezetátalakítási programban vállalt kötelezettségek megsértése miatt fizetendő nem teljesítési bírságról, valamint a szerkezetátalakítási program teljesítési arányának meghatározásáról az MVH dönt.
+(3)[^24] A szerkezetátalakítási programban vállalt kötelezettségek megsértése miatt fizetendő nem teljesítési bírságról, valamint a szerkezetátalakítási program teljesítési arányának meghatározásáról a Kincstár dönt.
 
-(4)[^24] A (3) bekezdéstől eltérően, amennyiben az MVH a támogatási időszak első évében állapítja meg a szerkezetátalakítási programban vállalt kötelezettségek megsértése miatt fizetendő nem teljesítési bírságot, a termelő mentesül a nem teljesítési bírság befizetése alól. Ha a szerkezetátalakítási programba bejelentkezett termelő a támogatási időszak alatt ismételten megsérti a szerkezetátalakítási programban vállalt kötelezettségeit, akkor az MVH egy alkalommal emelt összegű bírság fizetésére kötelezi.
+(4)[^25] A (3) bekezdéstől eltérően, amennyiben a Kincstár a támogatási időszak első évében állapítja meg a szerkezetátalakítási programban vállalt kötelezettségek megsértése miatt fizetendő nem teljesítési bírságot, a termelő mentesül a nem teljesítési bírság befizetése alól. Ha a szerkezetátalakítási programba bejelentkezett termelő a támogatási időszak alatt ismételten megsérti a szerkezetátalakítási programban vállalt kötelezettségeit, akkor a Kincstár egy alkalommal emelt összegű bírság fizetésére kötelezi.
 
 [^22]: A 4. § (1) bekezdése a 97/2013. (X. 22.) VM rendelet 25. §-ával megállapított szöveg.
 [^23]: A 4. § (2) bekezdése a 97/2013. (X. 22.) VM rendelet 25. §-ával megállapított szöveg.
-[^24]: A 4. § (4) bekezdését a 27/2013. (IV. 26.) VM rendelet 7. §-a iktatta be.
+[^24]: A 4. § (3) bekezdése a 88/2016. (XII. 29.) FM rendelet 48. § b) pontja szerint módosított szöveg.
+[^25]: A 4. § (4) bekezdését a 27/2013. (IV. 26.) VM rendelet 7. §-a iktatta be, szövege a 88/2016. (XII. 29.) FM rendelet 48. § c) pontja szerint módosított szöveg.

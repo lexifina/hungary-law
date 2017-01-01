@@ -10,9 +10,9 @@ bb)[^9] az előző naptári év elismert tevékenységéből származó árbevé
 
 bc)[^10] az ügyfél vagy alkalmazottja, közös őstermelői igazolványban feltüntetett valamely családtag, családi gazdaság esetén annak valamely tagja által egy, a kérelem benyújtása után kezdődő, vagy már a kérelem benyújtását megelőzően megkezdett szakmai továbbképzésen való részvétel, és annak a képzés követelményeinek megfelelő – a tárgyév január 1. és a tárgyévet követő év március 15 között történő – befejezése, illetve az egy évnél hosszabb képzési idővel rendelkező képzések esetében a legutolsó, a kérelem benyújtását követően lezárt félév teljesítése;
 
-c)[^11] 2013-tól kezdődően évente március 15-ig a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített és az MVH honlapján közzétett nyomtatványon a személyi azonosításhoz szükséges adatokon túl nyilatkozni az e bekezdés alapján a megelőző naptári évre vállalt kötelezettség teljesítéséről és annak módjáról.
+c)[^11] 2013-tól kezdődően évente március 15-ig a Magyar Államkincstár (a továbbiakban: Kincstár) által rendszeresített és a Kincstár honlapján közzétett nyomtatványon a személyi azonosításhoz szükséges adatokon túl nyilatkozni az e bekezdés alapján a megelőző naptári évre vállalt kötelezettség teljesítéséről és annak módjáról.
 
-(2)[^12] Az (1) bekezdésben foglaltak szerinti, választott kötelezettség módosítására a támogatással érintett tárgyév vonatkozásában a tárgyévet követő év március 15. napjáig van lehetőség. A módosítás iránti kérelmet az MVH által erre rendszeresített nyomtatványon kell benyújtani.
+(2)[^12] Az (1) bekezdésben foglaltak szerinti, választott kötelezettség módosítására a támogatással érintett tárgyév vonatkozásában a tárgyévet követő év március 15. napjáig van lehetőség. A módosítás iránti kérelmet a Kincstár által erre rendszeresített nyomtatványon kell benyújtani.
 
 (3) Az ügyfélnek a referencia állatállománya alapján végzett számítással meghatározottan, a törtrészek figyelembevételével, arányosan kell az (1) bekezdés b) pont ba) alpontjában foglalt éves kötelezettséget teljesítenie.
 
@@ -46,7 +46,7 @@ b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg
 
 (11)[^18] A forinttól eltérő pénznemben kiállított számla vagy egyéb, a gazdasági eseményt hitelesen dokumentáló bizonylat esetén az általános forgalmi adóról szóló 2007. évi CXXVII. törvény 80–81. §-a által rögzített átváltási eljárást kell alkalmazni.
 
-(12)[^19] Egy adott képzés elvégzésének vagy lezárt félév teljesítésének igazolása a szerkezetátalakítási nemzeti programra vonatkozó kérelemhez kapcsolódóan, az (1) bekezdés b) pont bc) alpontja szerinti nemzeti feltétel teljesítéseként, egy támogatási év vonatkozásában kizárólag egy kérelemhez kapcsolódóan fogadható el. Amennyiben az ügyfél vagy alkalmazottja, közös őstermelői igazolványban feltüntetett valamely családtagja, családi gazdaság esetén annak valamely tagja által végzett képzésről szóló igazolás több kérelemhez kapcsolódóan választott, az (1) bekezdés b) pontjának bc) alpontja szerinti nemzeti feltétel teljesítésének igazolására kerül benyújtásra, azt az MVH csak annál a kérelemnél fogadja el, amelyet a képzésen résztvevő ügyfél saját nevében nyújtott be.
+(12)[^19] Egy adott képzés elvégzésének vagy lezárt félév teljesítésének igazolása a szerkezetátalakítási nemzeti programra vonatkozó kérelemhez kapcsolódóan, az (1) bekezdés b) pont bc) alpontja szerinti nemzeti feltétel teljesítéseként, egy támogatási év vonatkozásában kizárólag egy kérelemhez kapcsolódóan fogadható el. Amennyiben az ügyfél vagy alkalmazottja, közös őstermelői igazolványban feltüntetett valamely családtagja, családi gazdaság esetén annak valamely tagja által végzett képzésről szóló igazolás több kérelemhez kapcsolódóan választott, az (1) bekezdés b) pontjának bc) alpontja szerinti nemzeti feltétel teljesítésének igazolására kerül benyújtásra, azt a Kincstár csak annál a kérelemnél fogadja el, amelyet a képzésen résztvevő ügyfél saját nevében nyújtott be.
 
 (13)[^20] Az ügyfél az (1) bekezdés b) pont bb) alpontja szerinti árbevételhez viszonyított beruházással, felújítással kapcsolatos érvényes számlán, teljesítési igazoláson, használatbavételi engedélyen, illetve adásvételi szerződésen feltüntetett teljesítési időpontnak a tárgyév január 1. és a tárgyévet követő év március 15-e közötti időszakra kell esnie. A beruházással, felújítással kapcsolatos érvényes számla, teljesítési igazolás, használatbavételi engedély, illetve adásvételi szerződés csak egy kérelem és egy támogatási év vonatkozásában fogadható el.
 
@@ -55,14 +55,14 @@ b) az a) pontban meghatározott bevételnél kevesebb bevétel után fizette meg
 [^8]: A 3. § (1) bekezdés b) pont ba) alpontja a 130/2013. (XII. 21.) VM rendelet 32. §-ával megállapított szöveg.
 [^9]: A 3. § (1) bekezdés b) pont bb) alpontja a 8/2013. (II. 18.) VM rendelet 8. § (1) bekezdésével megállapított szöveg.
 [^10]: A 3. § (1) bekezdés b) pont bc) alpontja a 18/2014. (X. 29.) FM rendelet 28. § (1) bekezdésével megállapított szöveg.
-[^11]: A 3. § (1) bekezdés c) pontja a 8/2013. (II. 18.) VM rendelet 15. § (1) bekezdése szerint módosított szöveg.
-[^12]: A 3. § (2) bekezdése a 18/2013. (III. 21.) VM rendelet 10. § (1) bekezdésével megállapított szöveg.
+[^11]: A 3. § (1) bekezdés c) pontja a 8/2013. (II. 18.) VM rendelet 15. § (1) bekezdése, a 88/2016. (XII. 29.) FM rendelet 48. § a) és b) pontja szerint módosított szöveg.
+[^12]: A 3. § (2) bekezdése a 18/2013. (III. 21.) VM rendelet 10. § (1) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 48. § b) pontja szerint módosított szöveg.
 [^13]: A 3. § (4a) bekezdését a 8/2013. (II. 18.) VM rendelet 8. § (2) bekezdése iktatta be.
 [^14]: A 3. § (5) bekezdése a 8/2013. (II. 18.) VM rendelet 8. § (3) bekezdésével megállapított szöveg.
 [^15]: A 3. § (6) bekezdése a 8/2013. (II. 18.) VM rendelet 8. § (4) bekezdésével megállapított szöveg.
 [^16]: A 3. § (8) bekezdése a 18/2014. (X. 29.) FM rendelet 28. § (2) bekezdésével megállapított szöveg.
 [^17]: A 3. § (10) bekezdését a 8/2013. (II. 18.) VM rendelet 8. § (6) bekezdése iktatta be.
 [^18]: A 3. § (11) bekezdését a 8/2013. (II. 18.) VM rendelet 8. § (6) bekezdése iktatta be.
-[^19]: A 3. § (12) bekezdését a 8/2013. (II. 18.) VM rendelet 8. § (6) bekezdése iktatta be, szövege a 18/2014. (X. 29.) FM rendelet 28. § (3) bekezdésével megállapított szöveg.
+[^19]: A 3. § (12) bekezdését a 8/2013. (II. 18.) VM rendelet 8. § (6) bekezdése iktatta be, szövege a 18/2014. (X. 29.) FM rendelet 28. § (3) bekezdésével megállapított, a 88/2016. (XII. 29.) FM rendelet 48. § b) pontja szerint módosított szöveg.
 [^20]: A 3. § (13) bekezdését a 8/2013. (II. 18.) VM rendelet 8. § (6) bekezdése iktatta be, szövege a 18/2014. (X. 29.) FM rendelet 28. § (3) bekezdésével megállapított szöveg.
 [^21]: A 3. § (14) bekezdését a 97/2013. (X. 22.) VM rendelet 24. §-a iktatta be.

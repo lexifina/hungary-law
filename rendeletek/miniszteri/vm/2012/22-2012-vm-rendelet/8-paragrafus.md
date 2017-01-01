@@ -2,12 +2,13 @@
 
 8. § (1) A szerkezetátalakítási programban résztvevő ügyfelet a 2. § (2) bekezdése alapján a szerkezetátalakítási programba bejelentett állatállomány alapján megállapított számú kérődző szerkezetátalakítási támogatási jogosultság illeti meg.
 
-(2) Az ügyfelet megillető kérődző szerkezetátalakítási támogatási jogosultságokat az MVH az ügyfél által 2012-ben, a 2. § (1) bekezdésben foglalt egységes kérelem keretében tett nyilatkozata alapján jogosultság-típusonként külön-külön állapítja meg.
+(2)[^27] Az ügyfelet megillető kérődző szerkezetátalakítási támogatási jogosultságokat a Kincstár az ügyfél által 2012-ben, a 2. § (1) bekezdésben foglalt egységes kérelem keretében tett nyilatkozata alapján jogosultság-típusonként külön-külön állapítja meg.
 
 (3) A (2) bekezdés szerinti határozatnak tartalmaznia kell az ügyfelet megillető kérődző szerkezetátalakítási támogatási jogosultságok darabszámát, valamint azok egységértékét.
 
 (4) A támogatási jogosultság az azt megállapító határozat jogerőre emelkedésével kerül az ügyfél tulajdonába.
 
-(5)[^25] Az MVH a kérődző szerkezetátalakítási támogatási jogosultságok darabszámát, valamint azok egységértékét két tizedesjegy pontossággal tartja nyilván.
+(5)[^28] A Kincstár a kérődző szerkezetátalakítási támogatási jogosultságok darabszámát, valamint azok egységértékét két tizedesjegy pontossággal tartja nyilván.
 
-[^25]: A 8. § (5) bekezdését a 8/2013. (II. 18.) VM rendelet 10. §-a iktatta be.
+[^27]: A 8. § (2) bekezdése a 88/2016. (XII. 29.) FM rendelet 48. § b) pontja szerint módosított szöveg.
+[^28]: A 8. § (5) bekezdését a 8/2013. (II. 18.) VM rendelet 10. §-a iktatta be, szövege a 88/5016. (XII. 29.) FM rendelet 48. § d) pontja szerint módosított szöveg.

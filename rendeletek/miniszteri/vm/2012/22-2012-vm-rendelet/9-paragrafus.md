@@ -1,4 +1,4 @@
-9. § (1)[^26] A támogatási jogosultság egységértékét – a (2)–(4) bekezdésben foglaltakra is figyelemmel – az EMGA-ból a rendeletben meghatározott szerkezetátalakítási programra elkülönített összeg és a tárgyévben az összes ügyfél részére jóváhagyott jogosultságok darabszámának hányadosaként, egyes jogosultság-típusonként külön-külön, a 2. melléklet szerinti képlet alapján euróban az MVH állapítja meg.
+9. § (1)[^29] A támogatási jogosultság egységértékét – a (2)–(4) bekezdésben foglaltakra is figyelemmel – az EMGA-ból a rendeletben meghatározott szerkezetátalakítási programra elkülönített összeg és a tárgyévben az összes ügyfél részére jóváhagyott jogosultságok darabszámának hányadosaként, egyes jogosultság-típusonként külön-külön, a 2. melléklet szerinti képlet alapján euróban a Kincstár állapítja meg.
 
 (2) Az (1) bekezdés alkalmazásakor a HbSzJ egységértékének megállapításához az ATSzJ egységértékét 0,44-dal kell szorozni.
 
@@ -12,4 +12,4 @@
 
 (7) A támogatási jogosultság egységértéke után járó kifizetés az uniós jogi aktusban meghatározott esetben és jogszabályban meghatározottak szerint csökkenthető.
 
-[^26]: A 9. § (1) bekezdése a 45/2014. (IV. 18.) VM rendelet 8. §-a szerint módosított szöveg.
+[^29]: A 9. § (1) bekezdése a 45/2014. (IV. 18.) VM rendelet 8. §-a, a 88/2016. (XII. 29.) FM rendelet 48. § b) pontja szerint módosított szöveg.
