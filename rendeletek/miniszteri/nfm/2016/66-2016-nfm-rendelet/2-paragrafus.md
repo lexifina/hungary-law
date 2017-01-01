@@ -1,0 +1,3 @@
+## lép.
+
+## 2. A belvízi utakon közlekedő úszólétesítmények hajózásra alkalmassága és megfelelősége feltételeiről, az üzemképesség vizsgálatáról és tanúsításáról szóló 13/2001. (IV. 10.) KöViM rendelet módosítása
