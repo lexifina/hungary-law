@@ -2,7 +2,7 @@
 
 77. § (1) Ez a törvény a következő uniós jogi aktusok végrehajtásához szükséges rendelkezéseket állapítja meg:
 
-a)
+a) az idegenhonos inváziós fajok betelepítésének vagy behurcolásának és terjedésének megelőzéséről és kezeléséről szóló, 2014. október 22-i, 1143/2014/EU európai parlamenti és tanácsi rendelet;
 
 b) a Bizottság 98/139/EK határozata (1998. február 4.) a Bizottság szakértői részéről az állat-egészségügy területén végrehajtott helyszíni ellenőrzésekre vonatkozó szabályok megállapításáról;
 

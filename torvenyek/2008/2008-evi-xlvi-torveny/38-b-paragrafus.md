@@ -26,6 +26,6 @@ ab) jogi személy, valamint jogi személyiséggel nem rendelkező szervezet eset
 
 b) honlapján elektronikusan hitelesített módon közzéteszi az a) pontban szereplő adatok mellett az ügyfél által bejelentett tevékenységek és tevékenységi helyek listáját;
 
-c) ügyfélkapun keresztül történő ügyintézés esetén a nyilvántartásba vétel, illetve az adatok módosítása esetén a közigazgatási felhasználásra vonatkozó követelményeknek megfelelő elektronikus aláírással ellátott, az a) és b) pont szerinti adatokat tartalmazó dokumentumot küld az ügyfél központi elektronikus szolgáltató rendszerben fenntartott ügyfélkapus tárhelyére;
+c) elektronikus ügyintézés esetén a nyilvántartásba vétel, illetve az adatok módosítása esetén a közigazgatási felhasználásra vonatkozó követelményeknek megfelelő elektronikus aláírással ellátott, az a) és b) pont szerinti adatokat tartalmazó dokumentumot küld az ügyfélnek az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló törvény szerinti hivatalos elérhetőségére vagy – ha az ügyfél elektronikus ügyintézésre nem köteles – az ennek megfelelő egyéb tárhelyére;
 
 d) az ügyfél írásbeli kérelmére az a) és b) pont szerinti adatok igazolására, a külön jogszabályban foglalt díj ellenében papír alapú igazolást állít ki.
