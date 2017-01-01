@@ -1,4 +1,4 @@
-## 3. §[^5] Az e rendeletben foglaltak munkaegészségügyi vonatkozású előírásai végrehajtásának ellenőrzésére, hiányosságok észlelése esetén pedig a szükséges intézkedések megtételére a fővárosi és megyei kormányhivatal mint munkavédelmi hatóság jogosult.
+## 3. §[^5] Az e rendeletben foglaltak munkaegészségügyi vonatkozású előírásai végrehajtásának ellenőrzésére, hiányosságok észlelése esetén pedig a szükséges intézkedések megtételére a fővárosi és megyei kormányhivatal járási hivatala mint munkavédelmi hatóság jogosult.
 
 4. §[^6] Ez a rendelet 1987. július 1. napján lép hatályba.
 
@@ -12,15 +12,7 @@ Szabályzat a keszonmunkákra
 
 1.2. A munka végrehajtására a munkáltatónak részletes technológiai, műveleti, kezelési, karbantartási utasításokat kell készíteni.
 
-1.3.[^7] A túlnyomásos légtérben végzett tevékenységet, annak megkezdése előtt 15 nappal, a munkáltató bejelenti a területileg illetékes fővárosi és megyei kormányhivatal mint munkavédelmi hatóság felé, megjelölve:
-
-a) a tevékenység megkezdésének helyét és időpontját;
-
-b) a foglalkozás-egészségügyi szolgáltatást nyújtó orvos nevét, címét, elérhetőségeit;
-
-c) a túlnyomásos légtérben dolgozók számát;
-
-d) a gyógyzsilip helyét és a gyógyzsilipet működtető nyilatkozatát a dolgozók fogadásáról.
+1.3.[^7] A túlnyomásos légtérben végzett tevékenységet, annak megkezdése előtt 15 nappal, a munkáltató a területileg illetékes fővárosi és megyei kormányhivatal munkavédelmi hatósági hatáskörében eljáró járási hivatala felé az 1. függelék szerinti bejelentőlapon bejelenti.
 
 1.4. A túlnyomásos munkahelyen a kompresszorgépházakat (légsűrítőgépházakat) a bekövetkezhető talajsüllyedések és omlások övezetén kívül biztonságosan kell elhelyezni.
 
@@ -368,9 +360,59 @@ b) gyógyzsilipelés végrehajtásakor a zsilipben a hőmérsékletnek lehetőle
 
 | 321–340 |  |  |  |  | 5 | 10 | 25 | 40 | 85 | 80 |
 
-[^5]: A 3. § a 27/2010. (XII. 31.) NGM rendelet 2. §-ával megállapított, a 9/2015. (III. 31.) NGM rendelet 1. §-a szerint módosított szöveg.
+1. függelék[^22]
+
+BEJELENTŐ LAP
+
+Túlnyomásos légtérben végzett tevékenységhez
+
+| 1. | Bejelentés dátuma |  |
+
+| 2. | Bejelentő, adatszolgáltató személy neve |  |
+
+| 3. | Bejelentő, adatszolgáltató személy címe |  |
+
+| 4. | Bejelentő, adatszolgáltató személy elérhetősége (telefonszám) |  |
+
+| 5. | Bejelentő, adatszolgáltató személy e-mail címe |  |
+
+| 6. | Munkáltató neve |  |
+
+| 7. | Munkáltató adószáma |  |
+
+| 8. | Munkáltató székhelye |  |
+
+| 9. | Munkavégzés pontos helye |  |
+
+| 10. | Megye (Munkavégzés pontos helye alapján) |  |
+
+| 11. | Munkavégzés megkezdésének ideje |  |
+
+| 12. | Túlnyomásos légtérben dolgozók száma |  |
+
+| 13. | Gyógy zsilip helye |  |
+
+| 14. | Gyógy zsilipet működtető nyilatkozat megléte |  |
+
+| 15. | Foglalkozás-egészségügyi Szolgálat (FESZ) neve |  |
+
+| 16. | FESZ címe |  |
+
+| 17. | Foglalkozás-egészségügyi orvos neve |  |
+
+| 18. | Foglalkozás-egészségügyi orvos pecsétszáma |  |
+
+| 19. | Foglalkozás-egészségügyi orvos elérhetősége |  |
+
+PH.
+
+……………………………………
+
+aláírás
+
+[^5]: A 3. § a 27/2010. (XII. 31.) NGM rendelet 2. §-ával megállapított, a 62/2016. (XII. 29.) NGM rendelet 44. § (1) bekezdése szerint módosított szöveg.
 [^6]: A 4. § második mondatát a 118/2008. (V. 8.) Korm. rendelet 5. §-ának 211. pontja hatályon kívül helyezte.
-[^7]: A melléklet 1.3. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (2) bekezdésével megállapított, nyitó szövegrésze a 9/2015. (III. 31.) NGM rendelet 1. §-a szerint módosított szöveg.
+[^7]: A melléklet 1.3. pontja a 62/2016. (XII. 29.) NGM rendelet 44. § (2) bekezdésével megállapított szöveg.
 [^8]: A melléklet 8.1. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (3) bekezdésével megállapított szöveg.
 [^9]: A munkahelyek kémiai biztonságáról szóló 25/2000. (IX. 30.) EüM–SZCSM együttes rendelet.
 [^10]: A melléklet 8.2. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (4) bekezdésével megállapított szöveg. [E módosító rendelet a melléklet 8.3. pontjáról rendelkezett, azonban a módosítás tartalmilag a 8.2. pontnak felelt meg.]
@@ -385,3 +427,4 @@ b) gyógyzsilipelés végrehajtásakor a zsilipben a hőmérsékletnek lehetőle
 [^19]: A melléklet 9.7. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (6) bekezdésével megállapított szöveg.
 [^20]: A melléklet 9.8. pontja a 18/2007. (V. 10.) SZMM rendelet 7. § (6) bekezdésével megállapított szöveg.
 [^21]: A melléklet 12.4. pontját a 18/2007. (V. 10.) SZMM rendelet 24. § b) pontja hatályon kívül helyezte.
+[^22]: A melléklet 1. függelékét a 62/2016. (XII. 29.) NGM rendelet 44. § (2) bekezdése iktatta be.
