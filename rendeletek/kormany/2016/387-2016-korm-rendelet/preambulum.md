@@ -1,0 +1,1 @@
+A Kormány a fogyasztóvédelemről szóló 1997. évi CLV. törvény 55. § (1) bekezdés h) pontjában, továbbá a közigazgatási hatósági eljárás és szolgáltatás általános szabályairól 2004. évi CXL. törvény 174/A. § a) pontjában kapott felhatalmazás alapján, az Alaptörvény 15. cikk (1) és (2) bekezdésében meghatározott feladatkörében eljárva a következőket rendeli el:
