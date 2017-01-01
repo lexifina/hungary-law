@@ -13,7 +13,7 @@ i)[^19]
 j)–m)[^20]
 
 [^15]: A 17. § a)–e) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
-[^16]: A 17. § f) pontja a 19. § (6) bekezdése alapján 2017. január 1-jén lép hatályba.
+[^16]: A 17. § f) pontja a 480/2016. (XII. 28.) Korm. rendelet 100. § (3) bekezdése alapján nem lép hatályba.
 [^17]: A 17. § g) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^18]: A 17. § h) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.
 [^19]: A 17. § i) pontja a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette.

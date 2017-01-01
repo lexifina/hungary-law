@@ -16,3 +16,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2012-357-20-
 | 2015-01-02 | 2012-357-20-22.8 | 2010: CXXX. törvény |
 | 2015-07-01 | 2012-357-20-22.9 | Nemzeti Jogszabálytár (egységes szerkezet) |
 | 2015-07-02 | 2012-357-20-22.10 | 2010: CXXX. törvény |
+| 2017-01-01 | 2012-357-20-22.11 | 480/2016. (XII. 28.) Korm. rendelet |
