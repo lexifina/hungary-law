@@ -14,16 +14,12 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-3. felhívja az igazságügyi minisztert és a nemzeti fejlesztési minisztert, hogy gondoskodjon az Igazságügyi Szakértői és Kutató Intézetek (ISZKI) Országos Toxikológiai Intézetének megfelelő elhelyezéséről és költözésének lebonyolításáról;
-
-Felelős: igazságügyi miniszter
-
-nemzeti fejlesztési miniszter
-
-Határidő: azonnal
+3.[^1]
 
 4. felhívja az emberi erőforrások miniszterét, hogy készítsen előterjesztést a Fővárosi Nagycirkusz helyzetének rendezése érdekében.
 
 Felelős: emberi erőforrások minisztere
 
 Határidő: azonnal
+
+[^1]: A 3. pontot az 1853/2016. (XII. 27.) Korm. határozat 83. pont n) alpontja visszavonta.
