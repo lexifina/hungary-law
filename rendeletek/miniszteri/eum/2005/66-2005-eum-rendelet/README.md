@@ -12,3 +12,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2005-66-20-0
 | 2012-02-11 | 2005-66-20-0B.6 | 27/2010. (XII. 31.) NGM rendelet |
 | 2015-01-01 | 2005-66-20-0B.7 | 18/2007. (V. 10.) SZMM rendelet |
 | 2015-04-01 | 2005-66-20-0B.8 | 27/2010. (XII. 31.) NGM rendelet |
+| 2017-01-01 | 2005-66-20-0B.9 | 27/2010. (XII. 31.) NGM rendelet |
