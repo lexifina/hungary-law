@@ -1,22 +1,12 @@
 ## Az elektronikus kapcsolattartás szabályai
 
-69/A. § (1) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtási szervezet (e cím alkalmazásában a továbbiakban együtt: kapcsolattartó szervezet) egymással az írásbeli kapcsolatot elektronikus úton tarthatja.
+69/A. § (1) A bíróság, az ügyészség, a nyomozó hatóság és a büntetés-végrehajtási szervezet (e cím alkalmazásában a továbbiakban együtt: kapcsolattartó szervezet) szervezeti keretein belül egymás között és a kapcsolattartó szervezetek egymással az írásbeli kapcsolatot elektronikus úton tarthatják.
 
-(2) Az (1) bekezdés alapján
+(1a) A bíróság, az ügyészség és a nyomozó hatóság a 71. § szerinti megkeresést elektronikus úton is intézheti, ha a 71. § (1) és (2) bekezdése szerinti megkeresendő szerv, illetve szervezet az elektronikus kapcsolattartást vállalja és az ehhez szükséges elérhetőségét a honlapján közzétette. Ez esetben a megkeresett szerv vagy szervezet is elektronikusan küldi meg a válaszát, kivéve, ha az eredetileg papír alapú iratok nagy mennyisége vagy sajátos alakja miatt azok digitalizálása aránytalan nehézséggel járna, vagy a megkeresés az eredeti irat, illetve okirat vagy más adathordozó megküldésére irányult.
 
-a) a bíróságok,
+(2) Az (1) és (1a) bekezdés szerinti elektronikus úton az elektronikus ügyintézés és bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény (a továbbiakban: E-ügyintézési tv.) szerinti biztonságos elektronikus kapcsolattartást kell érteni, azzal hogy a kapcsolattartó szervezetek a hivatalos irat kézbesítését egymás felé az E-ügyintézési tv. szerinti biztonságos kézbesítési szolgáltatás útján végzik.
 
-b) a bíróság és
-
-ba) az ügyészség,
-
-bb) a nyomozó hatóság,
-
-bc) a büntetés-végrehajtási szervezet
-
-közötti elektronikus kapcsolattartás során a hivatalos iratok elektronikus kézbesítését a biztonságos kézbesítési szolgáltatás [70. § (1) bekezdés f) pont] útján (a továbbiakban: kézbesítési rendszer) kell végezni. A kapcsolattartó szervezet az erre szolgáló informatikai rendszer alkalmazásával biztosítja, hogy a kézbesítési rendszer útján folyamatosan lehessen kapcsolatot tartani. Az Országos Bírósági Hivatal a bíróság és más kapcsolattartó szervezet közötti elektronikus kapcsolattartás biztosítása céljából jogosult a hozzá érkezett adatok kezelésére.
-
-(3) A kapcsolattartó szervezetek az elektronikus kapcsolattartásra szolgáló informatikai rendszerük által támogatott dokumentumformátumokat a szervezet központi honlapján közzéteszik.
+(3) Az Országos Bírósági Hivatal az (1) és (1a) bekezdés szerinti elektronikus kapcsolattartás biztosítása céljából jogosult a hozzá érkezett adatok kezelésére.
 
 (4) A kapcsolattartó szervezet a küldendő hivatalos iratot minősített vagy legalább minősített tanúsítványon alapuló fokozott biztonságú elektronikus aláírással vagy bélyegzővel látja el. E törvény minősített elektronikus aláírás alkalmazását kötelezővé teheti. A legalább fokozott biztonságú elektronikus aláírással vagy bélyegzővel ellátott hivatalos irat is közokiratnak minősül.
 

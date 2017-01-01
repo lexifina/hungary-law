@@ -12,7 +12,7 @@ d) a bíróság, az ügyész, illetőleg a nyomozó hatóság kézbesítője út
 
 e) nemzetközi jogsegély keretében,
 
-f) a Ket. és végrehajtási rendeletében szabályozott biztonságos kézbesítési szolgáltatás útján,
+f) törvényben meghatározott feltételek mellett biztonságos kézbesítési szolgáltatás, illetve a biztonságos elektronikus kapcsolattartásra szolgáló elérhetőségre történő kézbesítés útján,
 
 g) az elektronikus adathoz való hozzáférés ideiglenes és végleges megakadályozásáról szóló határozat esetén az NMHH elektronikus kézbesítési rendszerén keresztül.
 
@@ -30,7 +30,7 @@ g) az elektronikus adathoz való hozzáférés ideiglenes és végleges megakad�
 
 (7) A kézbesítési bizonyítvánnyal (tértivevénnyel) feladott hivatalos iratot a kézbesítés második megkísérlésének napját követő ötödik munkanapon kézbesítettnek kell tekinteni, ha a kézbesítés azért volt eredménytelen, mert a címzett az iratot nem vette át.
 
-(7a) A 69/A. § (1) bekezdése alapján létrejött elektronikus kapcsolattartás során a bíróság részére a hivatalos iratot a kézbesítési rendszer alkalmazásával az Országos Bírósági Hivatal útján kell megküldeni.
+(7a) A 69/A. § (1) és (1a) bekezdése és a 69/C–69/D. § szerinti elektronikus kapcsolattartás során a bíróság részére a hivatalos iratot a kézbesítési rendszer alkalmazásával az Országos Bírósági Hivatal útján kell megküldeni.
 
 (7b) Az (1) bekezdés g) pontja esetén a bíróság határozatát az elektronikus hírközlési szolgáltatók részére az NMHH kézbesítési rendszerén keresztül küldött értesítés napját követő munkanapon kell kézbesítettnek tekinteni.
 

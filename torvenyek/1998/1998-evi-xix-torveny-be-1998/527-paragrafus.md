@@ -1,6 +1,6 @@
 ## Nyomozás és vádemelés az ismeretlen helyen tartózkodó terhelttel szemben
 
-527. § (1) A nyomozásnak nem akadálya, hogy a terhelt ismeretlen helyen tartózkodik; ebben az esetben a tartózkodási helyének felkutatása iránt kell intézkedni [73. § (1)–(3) bek.], és gondoskodni kell a bizonyítási eszközök felderítéséről és biztosításáról.
+527. § (1) A nyomozásnak nem akadálya, hogy a terhelt ismeretlen helyen tartózkodik; ebben az esetben a tartózkodási helyének felkutatása iránt kell intézkedni [73. § (1)–(3c) bekezdés], és gondoskodni kell a bizonyítási eszközök felderítéséről és biztosításáról.
 
 (2) Szabadságvesztéssel büntetendő bűncselekmény miatt indult nyomozás során – ha a terhelt tartózkodási helyének felkutatása iránt tett más intézkedés nem vezetett eredményre – elfogatóparancsot kell kibocsátani, ezzel egyidejűleg a terhelt részére, ha nincs meghatalmazott védője, védőt kell kirendelni.
 

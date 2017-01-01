@@ -20,7 +20,7 @@ c) a kirendelt védő díját és költségét az állam viseli.
 
 (4) A személyes költségmentesség tárgyában hozott határozat, illetőleg az okozott költség viselésére kötelező határozatnak a költség viselésére vonatkozó rendelkezése elleni jogorvoslat halasztó hatályú.
 
-(5) Az elővezetéssel (162. §), valamint a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetőleg nyomozó hatóság elé állításával [73. § (3) bek.] felmerült költség nem számolható el bűnügyi költségként, az ilyen eljárási cselekménnyel okozott költség megtérítésére külön jogszabály az irányadó.
+(5) Az elővezetéssel (162. §), valamint a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetőleg nyomozó hatóság elé állításával [73. § (3c) bekezdés] felmerült költség nem számolható el bűnügyi költségként, az ilyen eljárási cselekménnyel okozott költség megtérítésére külön jogszabály az irányadó.
 
 III. CÍM
 

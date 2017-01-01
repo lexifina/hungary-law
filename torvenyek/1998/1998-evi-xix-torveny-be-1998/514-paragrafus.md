@@ -9,3 +9,5 @@
 (4) Ha a másodfokú bíróság határozata ellen kizárólag a magánvádló jelentett be fellebbezést, és az nem vezetett eredményre, a harmadfokú eljárásban felmerült bűnügyi költséget a magánvádló viseli.
 
 (5) Ha a bűnügyi költséget a magánvádlók viselik, a vádat elejtő magánvádlót az eljárásban való részvételéhez igazodóan kell a bűnügyi költség arányos részének megfizetésére kötelezni.
+
+(6) Ha a vádat magánvádló képviselte, és a bíróság a vádlottat felmenti, vagy vele szemben az eljárást a magánvádló vádelejtése miatt megszünteti, a magánvádló a határozat jogerőre emelkedésétől számított harminc napon belül – a külön jogszabályban meghatározott mértékben – megtéríti a vádlott azon költségét, továbbá meghatalmazott védőjének azon díját és költségét, amely a magánvádas eljárásban keletkezett. A megtérítésre a (2)–(5) bekezdés rendelkezéseit megfelelően alkalmazni kell.

@@ -1,11 +1,31 @@
 ## Eljárás a külföldön tartózkodó terhelt távollétében
 
-532. § (1) Ha a terhelt külföldön tartózkodik, és kiadatásának vagy az európai elfogatóparancs alapján történő átadásának nincs helye, illetve kiadatását vagy az európai elfogatóparancs alapján történő átadását megtagadták, és a büntetőeljárás átadására sem került sor, az ügyész a vádiratban indítványozhatja, hogy a tárgyalást a vádlott távollétében tartsák meg.
+532. § (1) Ha a terhelt külföldön ismert helyen tartózkodik, és
 
-(2) Ha a bírósági eljárásban állapítják meg, hogy a vádlott külföldön ismert helyen tartózkodik, a bíróság felhívhatja az ügyészt, hogy kívánja-e indítványozni a tárgyalásnak a vádlott távollétében történő folytatását.
+a) európai vagy nemzetközi elfogatóparancs kibocsátásának nincs helye, vagy arra azért nem kerül sor, mert a vádiratban az ügyész végrehajtandó szabadságvesztés büntetés kiszabására vagy javítóintézeti nevelés alkalmazására nem tesz indítványt, és
 
-(3) Ha az ismeretlen helyen tartózkodó vádlott távollétében megkezdett tárgyalás során állapítják meg, hogy a terhelt külföldön ismert helyen tartózkodik a bíróság az ügyész felhívása nélkül folytatja a tárgyalást.
+aa) a terhelt szabályszerű idézés ellenére nem jelent meg, vagy
 
-(4) Külföldön ismert helyen tartózkodó terhelttel szemben elfogató parancs kibocsátásának nincs helye, ha a vádiratban az ügyész szabadságvesztés büntetés kiszabására nem tett indítványt.
+ab) a terhelt külföldön fogvatartásban van,
+
+b) európai vagy nemzetközi elfogatóparancsot bocsátottak ki, de a terhelt elfogását követően a terhelt átadására vagy kiadatására tizenkét hónapon belül nem került sor, és a büntetőeljárás átadására sem került sor,
+
+c) európai vagy nemzetközi elfogatóparancsot bocsátottak ki, de a terhelt átadását vagy kiadatását megtagadták, és a büntetőeljárás átadására sem került sor,
+
+d) európai vagy nemzetközi elfogatóparancsot bocsátottak ki, és a terhelt halasztott átadását vagy kiadatását rendelték el,
+
+az ügyész a vádiratban indítványozhatja, hogy a tárgyalást a terhelt távollétében tartsák meg.
+
+(2) Ha a bírósági eljárásban állapítják meg, hogy a terhelt külföldön ismert helyen tartózkodik, és
+
+a) a terhelt szabályszerű idézés ellenére nem jelenik meg, vagy
+
+b) külföldön fogvatartásban van,
+
+az (1) bekezdésben meghatározottak megfelelő alkalmazásával a bíróság felhívhatja az ügyészt, hogy az (1) bekezdés alapján kívánja-e indítványozni a tárgyalásnak a terhelt távollétében történő folytatását.
+
+(3) Ha a terhelt külföldön fogvatartásban van, az (1) és (2) bekezdés alapján az eljárás terhelt távollétében történő folytatásának csak a terhelt hozzájárulásával van helye. Ha terhelt az eljárás folytatásához nem járul hozzá, a bíróság az eljárást felfüggeszti.
+
+(4) Ha az ismeretlen helyen tartózkodó vádlott távollétében megkezdett tárgyalás során állapítják meg, hogy a terhelt külföldön ismert helyen tartózkodik, a bíróság az (1)–(3) bekezdés alkalmazásával az ügyész felhívása nélkül folytatja a tárgyalást.
 
 (5) Ha az eljárást a külföldön tartózkodó terhelttel szemben folytatják, illetve, ha a terhelt hazatért, az 527–531. § rendelkezéseit értelemszerűen kell alkalmazni.

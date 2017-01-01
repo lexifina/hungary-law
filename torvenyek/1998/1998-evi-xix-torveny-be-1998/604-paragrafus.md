@@ -16,7 +16,7 @@ a) az ismeretlen helyen tartózkodó terhelt, illetve a bűncselekmény elkövet
 
 b) büntetőeljárás során kirendelt védő, a büntetőeljárásban részt vevő személyek költségeit, e személyek képviselőinek – ide nem értve a pártfogó ügyvédek – díját és költségeit, valamint a terhelt személyes költségmentességével kapcsolatos részletes szabályokat a rendészetért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott,
 
-c) a bűnügyi költségek előlegezésének és az államot illető bűnügyi költségek behajtásának és elszámolásának, valamint a vádlott és a védő készkiadása, illetőleg a védő díja állam általi megtérítésének szabályait az államháztartásért felelős miniszter és a rendészetért felelős miniszter egyetértésével kiadott,
+c) a bűnügyi költségek előlegezésének és az államot illető bűnügyi költségek behajtásának és elszámolásának, valamint a vádlott és a meghatalmazott védő készkiadása, illetve a meghatalmazott védő díja állam, pótmagánvádló vagy magánvádló általi megtérítésének szabályait az államháztartásért felelős miniszter és a rendészetért felelős miniszter egyetértésével kiadott,
 
 d) a szaktanácsadó díjazására, illetve a tanú által felszámítható költségekre vonatkozó részletes szabályokat az államháztartásért felelős miniszterrel egyetértésben,
 
@@ -79,9 +79,3 @@ d) az igazságügyért felelős miniszter, hogy a bíróság büntetés-végreha
 e) a honvédelemért felelős miniszter és a Kormány rendvédelmi feladatokat ellátó szervet irányító minisztere, hogy együttesen a legfőbb ügyésszel egyetértésben a Magyar Honvédség, a Katonai Nemzetbiztonsági Szolgálat és a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló törvény szerinti rendvédelmi feladatokat ellátó szervek tekintetében a parancsnoki nyomozással kapcsolatban utasításban
 
 az idézésekre, értesítésekre, határozatokra, jegyzőkönyvekre és az eljárás során gyakrabban használt más iratokra nyomtatvány rendszeresítését rendelje el.
-
-(6) Felhatalmazást kap az egészségügyért felelős miniszter, hogy a kábítószer-megelőzésért és a kábítószerügyi koordinációs feladatokért felelős miniszter, a rendészetért felelős miniszter, az igazságügyért felelős miniszter egyetértésével kiadott rendeletben meghatározza a kábítószerfüggőséget gyógyító kezelés, kábítószer-használatot kezelő más ellátás vagy megelőző-felvilágosító szolgáltatás szabályait.
-
-(7) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszter és az államháztartásért felelős miniszter egyetértésével kiadott rendeletben szabályozza a büntetőeljárásban elrendelt elővezetés végrehajtásával, valamint a terhelt elfogása és megtalálása esetén meghatározott bíróság, ügyész, illetőleg nyomozó hatóság elé állításával felmerült költség megtérítésének részletes szabályait.
-
-(8) Felhatalmazást kap a rendészetért felelős miniszter, hogy az igazságügyért felelős miniszterrel egyetértésben rendeletben szabályozza az irányítása alá tartozó nyomozó hatóságok hatáskörét és illetékességét.

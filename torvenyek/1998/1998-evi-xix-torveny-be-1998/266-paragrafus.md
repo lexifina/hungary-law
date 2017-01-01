@@ -22,9 +22,11 @@ a) ha a vádlott huzamosabb ideig külföldön tartózkodik,
 
 b) ha az ügyész megkeresése a vádirat hiányosságainak pótlására, a bizonyítási eszköz felkutatására, biztosítására, megvizsgálására és arra irányult, hogy a bizonyítékok a tárgyaláson rendelkezésre álljanak [268. § (1) bek.],
 
-c) a közvetítői eljárás lefolytatása érdekében, legfeljebb hat hónapra.
+c) a közvetítői eljárás lefolytatása érdekében, legfeljebb hat hónapra,
 
-(4) Ha a bíróság a (3) bekezdés a) pontjában meghatározott intézkedést nem tartja indokoltnak, és a vádlott külföldi tartózkodási helye ismert, a bíróság nemzetközi, illetve európai elfogatóparancsot bocsát ki, és a vádlott kiadatása vagy európai elfogatóparancs alapján történő átadása iránti eljárást kezdeményez. Ha a vádlott kiadatását, illetve európai elfogatóparancs alapján történő átadását megtagadták, illetőleg a kiadatásra vagy átadásra nincs lehetőség, a bíróság – ha a feltételek fennállnak – a büntetőeljárás átadását kezdeményezheti.
+d) ha az eljárás azért nem folytatható, mert a külföldi igazságügyi hatóság a vádlott kiadatásának vagy átadásának a végrehajtását a külföldön folyamatban lévő büntetőeljárás lefolytatására vagy a külföldön kiszabott szabadságvesztés, illetve szabadságelvonással járó intézkedés végrehajtására tekintettel elhalasztotta, és az eljárás a vádlott távollétében nem folytatható.
+
+(4) Ha a bíróság a (3) bekezdés a) és d) pontjában meghatározott intézkedést nem tartja indokoltnak, a bíróság a büntetőeljárás átadását kezdeményezheti, vagy az ügyészt tájékoztatja a XXV. Fejezet rendelkezései alapján az eljárás külföldön tartózkodó terhelt távollétében történő lefolytatásának lehetőségéről.
 
 (5) Ha az eljárás felfüggesztésének oka megszűnt, illetve a 188. § (1) bekezdésének g) pontja alapján történt felfüggesztés esetén, ha a nemzetközi büntető bíróság alapokmányát kihirdető, illetve alapokmányából fakadó kötelezettségek végrehajtásáról szóló törvény azt előírja, a bíróság az eljárást folytatja.
 
