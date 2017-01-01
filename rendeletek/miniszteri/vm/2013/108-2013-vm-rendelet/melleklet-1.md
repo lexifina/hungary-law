@@ -1,6 +1,6 @@
-## 11. §[^19] E rendeletnek az agrárágazati szabályozás körébe tartozó egyes rendeletek módosításáról szóló 69/2015. (XI. 2.) FM rendelettel [a továbbiakban: 69/2015. (XI. 2.) FM rendelet] megállapított 3. § (1) bekezdés b) pontját a 69/2015. (XI. 2.) FM rendelet hatálybalépésekor[^20] folyamatban lévő ügyekben is alkalmazni kell.
+## 11. §[^27] E rendeletnek az agrárágazati szabályozás körébe tartozó egyes rendeletek módosításáról szóló 69/2015. (XI. 2.) FM rendelettel [a továbbiakban: 69/2015. (XI. 2.) FM rendelet] megállapított 3. § (1) bekezdés b) pontját a 69/2015. (XI. 2.) FM rendelet hatálybalépésekor[^28] folyamatban lévő ügyekben is alkalmazni kell.
 
-1. melléklet a 108/2013. (XI. 28.) VM rendelethez[^21]
+1. melléklet a 108/2013. (XI. 28.) VM rendelethez[^29]
 
 A hitelhez kapcsolódó kamattámogatásból származó támogatástartalom képlete
 
@@ -36,6 +36,6 @@ n – évek száma, a támogatástartalom a kamattámogatási kérelem beérkez�
 
 r – a kamattámogatási kérelem benyújtása hónapjának első napján érvényes, az Európai Központi Bank által közzétett forint/euró átváltási árfolyam.
 
-[^19]: A 11. §-t a 69/2015. (XI. 2.) FM rendelet 5. §-a iktatta be.
-[^20]: A hatálybalépés időpontja 2015. november 3.
-[^21]: Az 1. melléklet a 48/2015. (VIII. 12.) FM rendelet 14. § (10) bekezdése szerint módosított szöveg.
+[^27]: A 11. §-t a 69/2015. (XI. 2.) FM rendelet 5. §-a iktatta be.
+[^28]: A hatálybalépés időpontja 2015. november 3.
+[^29]: Az 1. melléklet a 48/2015. (VIII. 12.) FM rendelet 14. § (10) bekezdése szerint módosított szöveg.
