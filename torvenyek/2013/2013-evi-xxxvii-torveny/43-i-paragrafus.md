@@ -1,16 +1,16 @@
-43/I. § (1) Az állami adóhatóság automatikus információcsere keretében, a 2016. január 1-jétől kezdődő adatszolgáltatás alapjául szolgáló időszakokat illetően, az adóévet követő év szeptember 30-ig közli az Európai Unió tagállama vagy más állam hatáskörrel rendelkező hatóságával a Jelentendő Pénzügyi Számlákra vonatkozóan a (2) bekezdésben meghatározott információkat. Más állam tekintetében e bekezdés szerinti első információközlésre kizárólag azon adatszolgáltatás alapjául szolgáló időszak adatai vonatkozásában kerülhet sor, amely időszak bármely napján a Pénzügyi Számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodás hatályba lép. Az állami adóhatóság az e bekezdés szabályai szerint nem továbbítható adatokat az információközlés adóévének utolsó napjáig törli a nyilvántartásából.
+43/I. § (1) Az állami adóhatóság automatikus információcsere keretében, a 2016. január 1-jétől kezdődő adatszolgáltatás alapjául szolgáló időszakokat illetően, az adóévet követő év szeptember 30-ig közli az Európai Unió tagállama, más állam vagy az Európai Unióval az 1. melléklet I. pontjában meghatározott adatok automatikus cseréjéről szóló, az V/B. fejezet szabályaihoz képest különös szabálynak minősülő megállapodással rendelkező joghatóság hatáskörrel rendelkező hatóságával a Jelentendő Pénzügyi Számlákra vonatkozóan a (2) bekezdésben meghatározott információkat. Más állam, illetve az Európai Unióval az 1. melléklet I. pontjában meghatározott adatok automatikus cseréjéről szóló, az V/B. fejezet szabályaihoz képest különös szabálynak minősülő megállapodással rendelkező joghatóság tekintetében e bekezdés szerinti első információközlésre kizárólag azon adatszolgáltatás alapjául szolgáló időszak adatai vonatkozásában kerülhet sor, amely időszak bármely napján a Pénzügyi Számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodás vagy az Európai Unió e bekezdésben említett megállapodása hatályba lép. Az állami adóhatóság az e bekezdés szabályai szerint nem továbbítható adatokat az információközlés adóévének utolsó napjáig törli a nyilvántartásából.
 
 (2) Az (1) bekezdés szerinti információk a következők:
 
-1. a Jelentendő Pénzügyi Számla tulajdonosának neve, címe, adóazonosító száma (ha ilyennel rendelkezik), magánszemély esetében születési helye, ideje;
+1. a Jelentendő Pénzügyi Számla tulajdonosának neve, címe, adóazonosító száma (ha ilyennel rendelkezik), magánszemély esetében születési helye, ideje, Passzív Nem Pénzügyi Jogalany esetében e jogalanyiság ténye;
 
-2. a Jelentendő Ellenőrzést gyakorló személy neve, lakcíme adóazonosító száma, születési helye és ideje;
+2. a Jelentendő Ellenőrzést gyakorló személy neve, lakcíme adóazonosító száma, születési helye és ideje, továbbá – amennyiben ez az információ rendelkezésre áll – az Ellenőrzést gyakorló személy típusa;
 
-3. a Jelentendő Pénzügyi Számla száma (vagy annak megfelelő egyéb azonosító);
+3. a Jelentendő Pénzügyi Számla száma (vagy annak megfelelő egyéb azonosító), valamint a számlaszám (vagy azonosító) típusa;;
 
 4. a Jelentő Magyar Pénzügyi Intézmény neve és azonosító száma;
 
-5. a számlának az adóév utolsó napján fennálló egyenlege, továbbá a Visszavásárlási Értékkel rendelkező Biztosítási Szerződés vagy Járadékbiztosítási Szerződés esetén – ideértve a készpénz-egyenértéket vagy Visszavásárlási Értéket – annak értéke. Ha a számlát az adóév folyamán lezárták, akkor a lezárás időpontját megelőző nap és az ebben az időpontban fennálló egyenleg vagy érték;
+5. a számlának az adóév utolsó napján fennálló egyenlege, továbbá a Visszavásárlási Értékkel rendelkező Biztosítási Szerződés vagy Járadékbiztosítási Szerződés esetén – ideértve a készpénz-egyenértéket vagy Visszavásárlási Értéket – annak értéke. Ha a számlát az adóév folyamán lezárták, a lezárás ténye.
 
 6. a Letétkezelői Számla esetében
 

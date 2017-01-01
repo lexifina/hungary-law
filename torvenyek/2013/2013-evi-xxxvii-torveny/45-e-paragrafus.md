@@ -1,0 +1,1 @@
+45/E. § E törvénynek az egyes adótörvények és más kapcsolódó törvények módosításáról szóló 2016. évi CXXV. törvénnyel megállapított 43/I. § (2) bekezdés 2–3. és 5. pontját, valamint az 1. melléklet I.A.1.b), I.A.2. és I.A.4. pontját a 2016. adóévre vonatkozó adatszolgáltatási kötelezettségre is alkalmazni kell.

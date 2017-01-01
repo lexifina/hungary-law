@@ -6,6 +6,8 @@ a) a 2014. adóévre vonatkozóan a FATCA Megállapodás 3. cikk 3. pont a) alpo
 
 b) a 2015. adóévre vonatkozóan a FATCA Megállapodás 3. cikk 3. pont a) alpont (2) bekezdése szerinti adattartalommal,
 
-c) a 2016. adóévre és az azt követő adóévekre vonatkozóan a FATCA Megállapodás 3. cikk 3. pont a) alpont (3) bekezdése szerinti adattartalommal
+c) a 2016. adóévre vonatkozóan a FATCA Megállapodás 3. cikk 3. pont a) alpont (3) bekezdése szerinti adattartalommal
 
 teljesíti a FATCA Megállapodás 3. cikk 4. pontjában foglaltak figyelembe vételével.
+
+(3) A Jelentő Magyar Pénzügyi Intézmény az (1) bekezdés szerinti kötelezettségét a 2017. adóévre és az azt követő adóévekre vonatkozóan a FATCA Megállapodás 2. cikk 2. pont a) alpont(1)–(7) bekezdésben meghatározott adattartalommal teljesíti.

@@ -20,7 +20,9 @@ a) megküldi az Európai Bizottság részére az adómegállapítási jogsegéll
 
 b) tájékoztathatja az Európai Bizottságot az olyan releváns információkról, amelyek az adócsalás és az adóelkerülés elleni küzdelem érdekében az adómegállapítási jogsegély hatékonyságának értékeléséhez szükségesek,
 
-c) tájékoztathatja az Európai Bizottságot és az Európai Unió tagállamainak hatáskörrel rendelkező hatóságait az adómegállapítási jogsegéllyel kapcsolatos tapasztalatokról, gyakorlatról a bevált tapasztalatok és gyakorlatok megosztása iránti eljárásban.
+c) tájékoztathatja az Európai Bizottságot és az Európai Unió tagállamainak hatáskörrel rendelkező hatóságait az adómegállapítási jogsegéllyel kapcsolatos tapasztalatokról, gyakorlatról a bevált tapasztalatok és gyakorlatok megosztása iránti eljárásban,
+
+d) a 19/B. § és a 45/D. § szerinti adatszolgáltatást a 19/B. § (4) bekezdésében meghatározott adattartalommal – a 19/B. § (4) bekezdés 1., 2., 8. és 11. pontjában foglaltak kivételével – az Európai Bizottság részére is teljesíti.
 
 (4) A magyar központi kapcsolattartó iroda tájékoztatja az Európai Bizottságot az automatikus információcsere 19/A. § (2) bekezdés a)–e) pontjában rögzített jövedelemtípusait érintő két- vagy többoldalú nemzetközi megállapodásokról, továbbá a jövedelemtípusok körét érintő változásokról.
 

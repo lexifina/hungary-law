@@ -12,4 +12,4 @@ d) a magyar megkereső hatóság indokoltan feltételezi, hogy a vállalkozáscs
 
 e) az egyik tagállam hatáskörrel rendelkező hatósága által a magyar megkeresett hatóságnak továbbított információ olyan adatokhoz juttatta a magyar megkeresett hatóságot, amely releváns lehet a hatáskörrel rendelkező hatóság tagállamában adókötelezettség megállapítása szempontjából.
 
-(3) Az (1)–(2) bekezdésben foglaltakon kívül a magyar megkereső hatóság előzetes megkeresés nélküli információcserét abban az esetben teljesíthet, ha álláspontja szerint az információ az Európai Unió érintett tagállama hatáskörrel rendelkező hatósága részére hasznos lehet.
+(3) Az (1)–(2) bekezdésben foglaltakon kívül a magyar megkereső hatóság spontán információcserét abban az esetben teljesíthet, ha álláspontja szerint az információ az Európai Unió érintett tagállama hatáskörrel rendelkező hatósága részére hasznos lehet.

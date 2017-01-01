@@ -22,7 +22,7 @@
 
 3. hatáskörrel rendelkező hatóság: az Európai Unió tagállamának hatáskörrel rendelkező hatóságként kijelölt hatósága;
 
-4. magyar hatáskörrel rendelkező hatóság: az adópolitikáért felelős miniszter.
+4. magyar hatáskörrel rendelkező hatóság: az az adópolitikáért felelős miniszter vagy a Kormány által kijelölt hatóság.
 
 (3) E törvény II. Fejezete alkalmazásában
 
@@ -76,7 +76,9 @@ e) a magyar jogszabályok alkalmazásában az a)–d) pont hatálya alá nem tar
 
 16. nyugdíj: az Szja tv. 3. § 23. pontjában meghatározott jövedelem (ide nem értve a 23. pont c) alpontja szerinti nyugdíjszolgáltatást);
 
-17. ingatlan hasznosításából származó jövedelem: az ingatlan birtoklásának, használatának átengedéséből és hasznainak szedéséből, az ingatlan feletti rendelkezési jog gyakorlásából származó jövedelem (így különösen az ingatlan értékesítéséből, bérbeadásából, haszonbérbe adásából, az ingatlanra vonatkozó vagyoni értékű jog ellenérték fejében történő alapításából, az arról való lemondásból, illetve a joggyakorlás átengedéséből származó jövedelem).
+17. ingatlan hasznosításából származó jövedelem: az ingatlan birtoklásának, használatának átengedéséből és hasznainak szedéséből, az ingatlan feletti rendelkezési jog gyakorlásából származó jövedelem (így különösen az ingatlan értékesítéséből, bérbeadásából, haszonbérbe adásából, az ingatlanra vonatkozó vagyoni értékű jog ellenérték fejében történő alapításából, az arról való lemondásból, illetve a joggyakorlás átengedéséből származó jövedelem);
+
+18. központi adattár: az adózás területén való közigazgatási együttműködésről és a 77/799/EGK irányelv hatályon kívül helyezéséről szóló 2011. február 15-i 2011/16/EU tanácsi irányelv 21. cikk (5) bekezdése alapján és ezen irányelv 26. cikk (2) bekezdése szerinti eljárással összhangban az Európai Bizottság által létrehozott, a határokon átnyúló feltételes adómegállapításra és szokásos piaci ár megállapítására vonatkozó határozatokkal kapcsolatos információk rögzítésére szolgáló központi adatbázis.
 
 (4) E törvény III. Fejezete alkalmazásában
 
@@ -150,7 +152,13 @@ e) a hitelintézetekről és a pénzügyi vállalkozásokról szóló 2013. évi
 
 1. adóév: a naptári év;
 
-2. automatikus információcsere: az Európai Unió más tagállamában (a továbbiakban: tagállam) vagy a Pénzügyi Számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodást kihirdető törvény (a továbbiakban: Megállapodást kihirdető törvény) 1. mellékletében felsorolt államban (a továbbiakban: más állam) illetőséggel rendelkező személyekre vonatkozó, előre meghatározott információk előzetes megkeresés nélküli, előre meghatározott időszakonként történő rendszeres közlése e személy illetősége szerinti állam hatáskörrel rendelkező hatóságával;
+2. automatikus információcsere:
+
+a) az Európai Unió más tagállamában (a továbbiakban: tagállam) vagy a Pénzügyi Számlákkal kapcsolatos információk automatikus cseréjéről szóló, illetékes hatóságok közötti többoldalú Megállapodást kihirdető törvény (a továbbiakban: Megállapodást kihirdető törvény) 1. mellékletében felsorolt államban (a továbbiakban: más állam), valamint
+
+b) az Európai Unióval az 1. melléklet I. pontjában meghatározott adatok automatikus cseréjéről szóló, az V/B. fejezet szabályaihoz képest különös szabálynak minősülő hatályos megállapodással rendelkező joghatóság területén
+
+illetőséggel rendelkező személyre vonatkozó, előre meghatározott információk előzetes megkeresés nélküli, előre meghatározott időszakonként történő rendszeres közlése e személy illetősége szerinti állam hatáskörrel rendelkező hatóságával;
 
 3. Betéti Számla: az 1. melléklet VIII/C/2. pontja szerinti Pénzügyi Számla;
 

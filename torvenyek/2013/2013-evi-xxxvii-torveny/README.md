@@ -17,3 +17,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2013-37-00-00
 | 2016-04-12 | 2016. évi XIII. törvény | 2013-37-00-00.10 |
 | 2016-05-01 | 2016. évi XIII. törvény | 2013-37-00-00.11 |
 | 2016-07-16 | 2016. évi LXVI. törvény | 2013-37-00-00.12 |
+| 2017-01-01 | 2016. évi CXXV. törvény | 2013-37-00-00.13 |
