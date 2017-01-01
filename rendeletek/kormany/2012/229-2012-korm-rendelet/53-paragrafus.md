@@ -1,3 +1,3 @@
-## 52. §[^164] A nem az oktatásért felelős miniszterrel kötött pedagógiai szakszolgálati feladat-ellátására vonatkozó közoktatási megállapodások és köznevelési szerződések 2016. december 31. napjával hatályukat vesztik.
+## 52. §[^191] Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
 
-[^164]: Az 52. § a 2010: CXXX. törvény 12. § (2) bekezdése alapján hatályát vesztette, újonnan a 354/2016. (XI. 18.) Korm. rendelet 5. §-a iktatta be.
+[^191]: Az újabb 52. §-t a 477/2016. (XII. 27.) Korm. rendelet 62. § (3) bekezdése iktatta be.

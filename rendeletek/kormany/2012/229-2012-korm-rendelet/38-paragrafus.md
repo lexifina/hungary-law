@@ -1,8 +1,8 @@
-## IV. Fejezet
+## IV. Fejezet[^162]
 
-## AZ ILLETÉKES KORMÁNYHIVATAL ÁLTAL FOLYTATOTT HATÓSÁGI ELLENŐRZÉS TÁRGYKÖREI
+## AZ ILLETÉKES MEGYESZÉKHELY SZERINTI JÁRÁSI (FŐVÁROSI KERÜLETI) HIVATAL ÁLTAL FOLYTATOTT HATÓSÁGI ELLENŐRZÉS TÁRGYKÖREI
 
-38. § (1) Az illetékes kormányhivatal a köznevelési intézményben hatósági ellenőrzés keretében vizsgálja
+38. § (1)[^163] Az illetékes megyeszékhely szerinti járási hivatal a köznevelési intézményben hatósági ellenőrzés keretében vizsgálja
 
 a) az egyenlő bánásmód követelményére,
 
@@ -20,4 +20,8 @@ g) a köznevelési feladatok ingyenességére, a tankönyvek és más tanulói f
 
 vonatkozó rendelkezések megtartását.
 
-(2) Az illetékes kormányhivatal a hatósági ellenőrzési feladatait – a 26. § (1)–(3) bekezdésében meghatározottakra figyelemmel – a miniszter által jóváhagyott munkaterv alapján rendszeresen végzi.
+(2)[^164] Az illetékes megyeszékhely szerinti járási hivatal a hatósági ellenőrzési feladatait – a 26. § (1)–(3) bekezdésében meghatározottakra figyelemmel – a miniszter által jóváhagyott munkaterv alapján rendszeresen végzi.
+
+[^162]: A IV. fejezet címe a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 16. pontja szerint módosított szöveg.
+[^163]: A 38. § (1) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 3. pontja szerint módosított szöveg.
+[^164]: A 38. § (2) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 3. pontja szerint módosított szöveg.

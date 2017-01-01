@@ -10,8 +10,9 @@ c) a munkaterven felüli ellenőrzéssel érintett köznevelési intézmény és
 
 ## rögzíti a KIR-ben.
 
-(3) A miniszter az illetékes kormányhivatal éves munkatervét az (1) bekezdésben meghatározott rendszerben február 20-ig jóváhagyja, és szükség esetén javaslatot tesz a kincstárnak és az illetékes kormányhivatalnak az együttes ellenőrzésre.
+(3)[^57] A miniszter az illetékes megyeszékhely szerinti járási hivatal éves munkatervét az (1) bekezdésben meghatározott rendszerben február 20-ig jóváhagyja, és szükség esetén javaslatot tesz a kincstárnak és az illetékes megyeszékhely szerinti járási hivatalnak az együttes ellenőrzésre.
 
-(4)[^39] Az (1) bekezdés szerinti rendszert úgy kell kiépíteni, hogy a miniszter statisztikai célú jelentéseket készíthessen az ellenőrzések eredményeiről, valamint legalább öt évig tartó időszakban monitorozhassa az ellenőrzési folyamatokat.
+(4)[^58] Az (1) bekezdés szerinti rendszert úgy kell kiépíteni, hogy a miniszter statisztikai célú jelentéseket készíthessen az ellenőrzések eredményeiről, valamint legalább öt évig tartó időszakban monitorozhassa az ellenőrzési folyamatokat.
 
-[^39]: A 26. § (4) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § m) pontja szerint módosított szöveg.
+[^57]: A 26. § (3) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 12. pontja szerint módosított szöveg.
+[^58]: A 26. § (4) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § m) pontja szerint módosított szöveg.

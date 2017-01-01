@@ -22,4 +22,6 @@ a) az OM azonosítóval rendelkező köznevelési intézmény jogutóddal vagy a
 
 b) az OSAP-jelentés vagy a 10. § (1) bekezdése szerinti bejelentés alapján a köznevelési intézmény működése szünetel.
 
-(4) Az OM azonosító visszavonásáról – a döntés jogerőre emelkedését követő öt napon belül – a Hivatal értesíti az illetékes kormányhivatalt, a kincstárt és a minisztert. Ha az e rendeletben előírt módon az adatszolgáltatás megtörtént, a Hivatal az (1) bekezdésben és a 13. § (3) bekezdésében meghatározottak szerint jár el, és értesíti az e bekezdésben felsorolt szerveket az OM azonosító visszaállításáról vagy bevonásáról.
+(4)[^29] Az OM azonosító visszavonásáról – a döntés jogerőre emelkedését követő öt napon belül – a Hivatal értesíti az illetékes megyeszékhely szerinti járási hivatalt, a kincstárt és a minisztert. Ha az e rendeletben előírt módon az adatszolgáltatás megtörtént, a Hivatal az (1) bekezdésben és a 13. § (3) bekezdésében meghatározottak szerint jár el, és értesíti az e bekezdésben felsorolt szerveket az OM azonosító visszaállításáról vagy bevonásáról.
+
+[^29]: A 12. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 5. pontja szerint módosított szöveg.

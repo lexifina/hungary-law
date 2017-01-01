@@ -12,10 +12,12 @@ alapján törli.
 
 a) a kincstár az (1) bekezdés a) vagy c) pontjában meghatározott okirat,
 
-b) az illetékes kormányhivatal az (1) bekezdés b) vagy c) pontjában meghatározott okirat,
+b)[^30] az illetékes megyeszékhely szerinti járási hivatal az (1) bekezdés b) vagy c) pontjában meghatározott okirat,
 
 c) a miniszter az (1) bekezdés b) vagy c) pontjában meghatározott okirat
 
 megküldésével – a döntés jogerőre emelkedését követő öt napon belül – kezdeményezi.
 
 (3) A köznevelési intézmény megszűnésekor, átalakításakor, megszűnés nélküli, több köznevelési intézményt érintő átszervezésekor a Hivatal az átalakítással, megszüntetéssel, átszervezéssel érintett, egymással összefüggő ügyeket együtt kezeli.
+
+[^30]: A 13. § (2) bekezdés b) pontja a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 3. pontja szerint módosított szöveg.

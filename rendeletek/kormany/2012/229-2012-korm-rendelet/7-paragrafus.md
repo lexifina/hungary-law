@@ -2,7 +2,7 @@
 
 7. § (1) Az újonnan létesített köznevelési intézmény számára az OM azonosító kiadását, ha a köznevelési intézmény
 
-a) működéséhez engedély szükséges, az illetékes kormányhivatal,
+a)[^22] működéséhez engedély szükséges, az illetékes megyeszékhely szerinti járási (fővárosi kerületi) hivatal,
 
 b) törzskönyvi nyilvántartásba vétellel kezdheti meg a működését, a Magyar Államkincstár (a továbbiakban: kincstár),
 
@@ -10,9 +10,9 @@ c) nemzetközi, külföldi nevelési-oktatási intézmény vagy a miniszter egye
 
 a KIR-en keresztül kezdeményezi.
 
-(2)[^20] Az állami intézményfenntartó központ által fenntartott köznevelési intézmény OM azonosítójának kiadása iránt a Hivatal – a köznevelési intézmény alapító okiratának kézhezvételét követő tizenöt napon belül – intézkedik.
+(2)[^23] A tankerületi központ által fenntartott köznevelési intézmény OM azonosítójának kiadása iránt a Hivatal – a köznevelési intézmény alapító okiratának kézhezvételét követő tizenöt napon belül – intézkedik.
 
-(3) Az illetékes kormányhivatal és a miniszter a köznevelési intézmény működési engedélyét a jogerőre emelkedését követő öt napon belül küldi meg a Hivatal számára, egyúttal csatolja
+(3)[^24] Az illetékes megyeszékhely szerinti járási hivatal és a miniszter a köznevelési intézmény működési engedélyét a jogerőre emelkedését követő öt napon belül küldi meg a Hivatal számára, egyúttal csatolja
 
 a) a köznevelési intézmény
 
@@ -26,4 +26,6 @@ b) a fenntartónak a köznevelési intézmény alapítására, fenntartására j
 
 (4) A kincstár a köznevelési intézmény egységes szerkezetű alapító okiratát a nyilvántartásba vételt követő öt napon belül juttatja el a KIR részére.
 
-[^20]: A 7. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § g) pontja szerint módosított szöveg.
+[^22]: A 7. § (1) bekezdés a) pontja a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 2. pontja szerint módosított szöveg.
+[^23]: A 7. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § g) pontja, a 486/2016. (XII. 28.) Korm. rendelet 10. § 2. pontja szerint módosított szöveg.
+[^24]: A 7. § (3) bekezdés nyitó szövegrésze a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 3. pontja szerint módosított szöveg.

@@ -40,23 +40,23 @@
 
 16. a tanulói teljesítménymérések lebonyolításához szükséges adatokat, a tanulók teljesítményével kapcsolatos mérési eredményeket,
 
-17. a köznevelési intézmény székhelye szerint illetékes fővárosi és megyei kormányhivatal (a továbbiakban: illetékes kormányhivatal) által megküldött, köznevelési intézmény által felvett baleseti jegyzőkönyvek alapján készített jelentést,
+17.[^3] a köznevelési intézmény fővárosi és megyei kormányhivatal köznevelési feladatkörében eljáró megyeszékhely szerinti járási (fővárosi kerületi) hivatala (a továbbiakban: megyeszékhely szerinti járási hivatal) által megküldött, köznevelési intézmény által felvett baleseti jegyzőkönyvek alapján készített jelentést,
 
-18.[^3] az országos szakértői és érettségi vizsgaelnöki névjegyzéket,
+18.[^4] az országos szakértői és érettségi vizsgaelnöki névjegyzéket,
 
 19. a pedagógus-továbbképzésben részt vevő szervezetek nyilvántartását,
 
-20. az állami intézményfenntartó keretében működő köznevelési intézmények közhiteles nyilvántartását,
+20.[^5] a tankerületi központ keretében működő köznevelési intézmények közhiteles nyilvántartását,
 
-21.[^4] a lemorzsolódással veszélyeztetett tanulók pedagógiai támogatásához kapcsolódó korai jelző- és pedagógiai támogató rendszert a nappali rendszerű oktatást folytató, illetve a felnőttoktatást nappali munkarend szerint folytató nevelési-oktatási intézményektől begyűjtött személyazonosításra alkalmatlan, összesített statisztikai adatok alapján.
+21.[^6] a lemorzsolódással veszélyeztetett tanulók pedagógiai támogatásához kapcsolódó korai jelző- és pedagógiai támogató rendszert a nappali rendszerű oktatást folytató, illetve a felnőttoktatást nappali munkarend szerint folytató nevelési-oktatási intézményektől begyűjtött személyazonosításra alkalmatlan, összesített statisztikai adatok alapján.
 
 (3) A KIR-t úgy kell felépíteni és fejleszteni, hogy
 
-a)[^5] az azonos adatokat csak egyszer lehessen megadni és csak egy – a (2) bekezdés szerinti – rendszerben lehessen megváltoztatni,
+a)[^7] az azonos adatokat csak egyszer lehessen megadni és csak egy – a (2) bekezdés szerinti – rendszerben lehessen megváltoztatni,
 
 b) segítse a hatósági döntéshozatalt, a szakmai feladatok ellátását, az ágazati és a fenntartói tervezés feladatait,
 
-c)[^6] alkalmas legyen a miniszter által engedélyezett, a köznevelési intézmények és fenntartóik által használt vagy a közigazgatási szerv által vezetett elektronikus információs nyilvántartásokkal való együttműködésre,
+c)[^8] alkalmas legyen a miniszter által engedélyezett, a köznevelési intézmények és fenntartóik által használt vagy a közigazgatási szerv által vezetett elektronikus információs nyilvántartásokkal való együttműködésre,
 
 d) a begyűjtött és tárolt adatokból különböző lekérdezésekkel összehasonlító elemzéseket lehessen készíteni,
 
@@ -64,12 +64,14 @@ e) a begyűjtött és tárolt adatokból az Európai Unió közvetlenül alkalma
 
 (4) A KIR adatbázisában tárolt valamennyi adat statisztikai célra feldolgozható, és statisztikai felhasználás céljára személyazonosításra alkalmatlan módon átadható. Az adatkérés módját, a közérdekű adatokat a KIR honlapján közzé kell tenni. A statisztikai céllal készült adatok a KIR honlapján megjeleníthetők.
 
-(5)[^7] A (3) bekezdés c) pontjában meghatározottak megvalósítása érdekében statisztikai adatok, valamint – a kizárólag törvényi felhatalmazás alapján – átadható személyes adatok átadásának módját az adatkezelő és a Hivatal között létrejött írásbeli szerződés határozza meg.
+(5)[^9] A (3) bekezdés c) pontjában meghatározottak megvalósítása érdekében statisztikai adatok, valamint – a kizárólag törvényi felhatalmazás alapján – átadható személyes adatok átadásának módját az adatkezelő és a Hivatal között létrejött írásbeli szerződés határozza meg.
 
 [^1]: Az 1. § (1) bekezdése a 73/2013. (III. 8.) Korm. rendelet 18. § (1) bekezdésével megállapított szöveg.
 [^2]: Az 1. § (2) bekezdése a 73/2013. (III. 8.) Korm. rendelet 18. § (2) bekezdésével megállapított szöveg.
-[^3]: Az 1. § (2) bekezdés 18. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont aa) alpontja szerint módosított szöveg.
-[^4]: Az 1. § (2) bekezdés 21. pontját a 354/2016. (XI. 18.) Korm. rendelet 1. §-a iktatta be.
-[^5]: Az 1. § (3) bekezdés a) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ab) alpontja szerint módosított szöveg.
-[^6]: Az 1. § (3) bekezdés c) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ac) alpontja szerint módosított szöveg.
-[^7]: Az 1. § (5) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ad) alpontja szerint módosított szöveg.
+[^3]: Az 1. § (2) bekezdés 17. pontja a 379/2016. (XII. 2.) Korm. rendelet 202. § (2) bekezdés 1. pontja szerint módosított szöveg.
+[^4]: Az 1. § (2) bekezdés 18. pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont aa) alpontja szerint módosított szöveg.
+[^5]: Az 1. § (2) bekezdés 20. pontja a 486/2016. (XII. 28.) Korm. rendelet 10. § 1. pontja szerint módosított szöveg.
+[^6]: Az 1. § (2) bekezdés 21. pontját a 354/2016. (XI. 18.) Korm. rendelet 1. §-a iktatta be.
+[^7]: Az 1. § (3) bekezdés a) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ab) alpontja szerint módosított szöveg.
+[^8]: Az 1. § (3) bekezdés c) pontja a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ac) alpontja szerint módosított szöveg.
+[^9]: Az 1. § (5) bekezdése a 73/2013. (III. 8.) Korm. rendelet 29. § a) pont ad) alpontja szerint módosított szöveg.

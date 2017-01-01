@@ -1,4 +1,4 @@
-## 37/P. §[^124] A kincstár a támogatások elszámolásának feldolgozása után, a jóváhagyott és az előző évi ténylegesen igénybe vett támogatásokról a tárgyévet követő év július 20-áig adatszolgáltatást nyújt a miniszter és az államháztartásért felelős miniszter részére az általuk meghatározott és a kincstár részére június 1-jéig megküldött formában. Az adatszolgáltatást intézményfenntartó-típusonkénti bontásban kell elkészíteni, egyházi intézmények esetében bevett egyházanként is összesítve, továbbá országos, fővárosi, megyei összesítésben, jogcím szerinti részletezéssel, megadva a fenntartó részére kiutalt támogatások mértékét, a fenntartók, a köznevelési intézmények, a feladatellátási helyek, az alkalmazottak, a gyermekek és a tanulók számát.
+## 37/P. §[^156] A kincstár a támogatások elszámolásának feldolgozása után, a jóváhagyott és az előző évi ténylegesen igénybe vett támogatásokról a tárgyévet követő év július 20-áig adatszolgáltatást nyújt a miniszter és az államháztartásért felelős miniszter részére az általuk meghatározott és a kincstár részére június 1-jéig megküldött formában. Az adatszolgáltatást intézményfenntartó-típusonkénti bontásban kell elkészíteni, egyházi intézmények esetében bevett egyházanként is összesítve, továbbá országos, fővárosi, megyei összesítésben, jogcím szerinti részletezéssel, megadva a fenntartó részére kiutalt támogatások mértékét, a fenntartók, a köznevelési intézmények, a feladatellátási helyek, az alkalmazottak, a gyermekek és a tanulók számát.
 
 ## 16/E. A működési támogatás
 
@@ -18,7 +18,7 @@ b) a bevett egyház részére az egyházi jogi személy fenntartó székhelye sz
 
 (5) A működési támogatásra első alkalommal jogosulttá váló bevett egyház, ha nem tart fenn köznevelési intézményt, a 37/C. § (1) bekezdésében meghatározott határnapig megküldi a kincstár Budapesti és Pest Megyei Igazgatósága számára a nyilvántartásba vételéről szóló igazolást, képviselőjének aláírási címpéldányát, adószámát, a működési támogatással összefüggő valamennyi bankszámlaszerződésének hiteles másolatát, bankszámlaszámát.
 
-(6)[^125] A nemzetiségi önkormányzat és a bevett egyház a működési támogatást köteles elkülönítetten nyilvántartani és a támogatás teljes összegét közneveléssel összefüggő feladatokra fordítani.
+(6)[^157] A nemzetiségi önkormányzat és a bevett egyház a működési támogatást köteles elkülönítetten nyilvántartani és a támogatás teljes összegét közneveléssel összefüggő feladatokra fordítani.
 
-[^124]: A 37/P. § a 3/2015. (I. 28.) Korm. rendelet 19. § j)–k) pontja szerint módosított szöveg.
-[^125]: A 37/Q. § (6) bekezdését a 3/2015. (I. 28.) Korm. rendelet 15. §-a iktatta be.
+[^156]: A 37/P. § a 3/2015. (I. 28.) Korm. rendelet 19. § j)–k) pontja szerint módosított szöveg.
+[^157]: A 37/Q. § (6) bekezdését a 3/2015. (I. 28.) Korm. rendelet 15. §-a iktatta be.
