@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2016-216-20-
 | --- | --- | --- |
 | 2016-08-22 | 2016-216-20-22.1 | 216/2016. (VII. 22.) Korm. rendelet |
 | 2016-08-23 | 2016-216-20-22.2 | 2010: CXXX. törvény |
+| 2017-01-01 | 2016-216-20-22.3 | 477/2016. (XII. 27.) Korm. rendelet |

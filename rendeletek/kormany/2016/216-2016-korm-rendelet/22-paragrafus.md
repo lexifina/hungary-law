@@ -1,1 +1,3 @@
-## 21. § A beadványt az ügyfél vagy képviselője elektronikus úton, a Kormány által biztosított azonosítási szolgáltatáson keresztül történt bejelentkezést követően nyújthatja be az SZTNH elektronikus ügyintézési rendszerén keresztül. Az SZTNH is ilyen úton közli az ügyféllel vagy képviselőjével a döntéseit.
+## 21. §[^2]
+
+[^2]: A 21. §-t a 477/2016. (XII. 27.) Korm. rendelet 87. § (4) bekezdés a) pontja hatályon kívül helyezte.
