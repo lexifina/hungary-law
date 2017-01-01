@@ -4,25 +4,25 @@
 
 a) a minősített adat átvétele, minősített küldemény felbontása,
 
-b)[^21] a minősített adat nyilvántartásba vétele, iktatása,
+b)[^22] a minősített adat nyilvántartásba vétele, iktatása,
 
 c) a minősített adat szerven belül történő átadása és visszavétele,
 
-d)[^22] a felülvizsgálat eredményének rögzítése a minősített adatot tartalmazó adathordozón, az elektronikus adatállományban vagy – ha az adathordozó jellege ezt nem teszi lehetővé – a külön kísérőlapon,
+d)[^23] a felülvizsgálat eredményének rögzítése a minősített adatot tartalmazó adathordozón, az elektronikus adatállományban vagy – ha az adathordozó jellege ezt nem teszi lehetővé – a külön kísérőlapon,
 
 e) a felhasználói jogosultság megszűnése esetén a minősített adat visszavétele,
 
 f) a minősített adat kezeléséhez szükséges iratkezelési segédletek főnyilvántartó könyvben történő nyilvántartásba vétele és megnyitása,
 
-g)[^23] a minősített adat belföldre, valamint külföldre történő továbbítása,
+g)[^24] a minősített adat belföldre, valamint külföldre történő továbbítása,
 
-h)[^24] a minősített adat birtokban tartása, tárolása,
+h)[^25] a minősített adat birtokban tartása, tárolása,
 
 i) a minősített adatot tartalmazó adathordozó megsemmisítésének előkészítése és az abban való részvétel.
 
 (2) A titkos ügykezelő az e rendeletben meghatározott személyi, fizikai és adminisztratív biztonsági feltételek teljesülése esetén egyidejűleg, de egymástól elkülönítve kezelheti a nemzeti és a külföldi minősített adatot.
 
-[^21]: A 8. § (1) bekezdés b) pontja a 243/2016. (VIII. 17.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
-[^22]: A 8. § (1) bekezdés d) pontja a 243/2016. (VIII. 17.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
-[^23]: A 8. § (1) bekezdés g) pontja a 243/2016. (VIII. 17.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
-[^24]: A 8. § (1) bekezdés h) pontja a 243/2016. (VIII. 17.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^22]: A 8. § (1) bekezdés b) pontja a 243/2016. (VIII. 17.) Korm. rendelet 4. § (1) bekezdésével megállapított szöveg.
+[^23]: A 8. § (1) bekezdés d) pontja a 243/2016. (VIII. 17.) Korm. rendelet 4. § (2) bekezdésével megállapított szöveg.
+[^24]: A 8. § (1) bekezdés g) pontja a 243/2016. (VIII. 17.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.
+[^25]: A 8. § (1) bekezdés h) pontja a 243/2016. (VIII. 17.) Korm. rendelet 4. § (3) bekezdésével megállapított szöveg.

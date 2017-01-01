@@ -34,6 +34,6 @@
 
 | 16. | Teljes pontszám: | Minimum 11 | Minimum 14 | Minimum 16 |
 
-3. melléklet a 90/2010. (III. 26.) Korm. rendelethez[^125]
+3. melléklet a 90/2010. (III. 26.) Korm. rendelethez[^130]
 
-[^125]: A 3. melléklet a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés n) és o) pontja szerint módosított szöveg.
+[^130]: A 3. melléklet a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés n) és o) pontja szerint módosított szöveg.

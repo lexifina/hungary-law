@@ -18,3 +18,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2010-90-20-2
 | 2013-08-01 | 2010-90-20-22.10 | 303/2013. (VII. 31.) Korm. rendelet |
 | 2014-09-05 | 2010-90-20-22.11 | 221/2014. (IX. 4.) Korm. rendelet |
 | 2016-08-25 | 2010-90-20-22.12 | 243/2016. (VIII. 17.) Korm. rendelet |
+| 2017-01-01 | 2010-90-20-22.13 | 441/2016. (XII. 16.) Korm. rendelet |

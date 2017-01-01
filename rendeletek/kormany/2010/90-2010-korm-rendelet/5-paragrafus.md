@@ -18,8 +18,11 @@ d) aláírta a titoktartási nyilatkozatot.
 
 (3) A biztonsági vezető a minősített adatot kezelő szervnél egyidejűleg titkos ügykezelői munkakörben nem foglalkoztatható.
 
-(4)[^17] A biztonsági vezető köteles a biztonsági vezetők részére szervezett képzésen és továbbképzésen részt venni.
+(4)[^17] Helyettes biztonsági vezető az lehet, aki az (1)–(3) bekezdésben foglalt feltételeknek megfelel.
+
+(5)[^18] A biztonsági vezető köteles a biztonsági vezetők részére szervezett képzésen és továbbképzésen részt venni.
 
 [^15]: Az 5. § (1) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
 [^16]: Az 5. § (2) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 3. § (1) bekezdésével megállapított szöveg.
-[^17]: Az 5. § (4) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 3. § (2) bekezdése iktatta be.
+[^17]: Az 5. § (4) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 3. § (2) bekezdése iktatta be, szövege a 441/2016. (XII. 16.) Korm. rendelet 24. § (1) bekezdésével megállapított szöveg.
+[^18]: Az 5. § (5) bekezdését a 441/2016. (XII. 16.) Korm. rendelet 24. § (2) bekezdése iktatta be.

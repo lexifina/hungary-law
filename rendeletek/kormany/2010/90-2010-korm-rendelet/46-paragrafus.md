@@ -10,9 +10,9 @@ b) a külső kézbesítőkönyvben vagy a futárjegyzéken szereplő iktatószá
 
 c) a zártan érkezett küldemény csomagolásának sértetlenségét.
 
-(3)[^86] Az átvevő a külső kézbesítőkönyvben vagy a futárjegyzéken dátum és időpont feltüntetése mellett, nevével, saját kezű aláírásával, valamint bélyegzőlenyomattal igazolja a küldemény átvételét. Azokon a rendezvényeken, ahol NATO, NYEU, valamint EU és EU intézményei által minősített „Korlátozott terjesztésű!” minősítési szintű minősített adat átadására kerül sor, a NATO, NYEU, valamint az EU és az EU intézményei „Korlátozott terjesztésű!” minősítési szintű minősített adat átvételét a felhasználásra jogosult személy bélyegzőlenyomat nélkül igazolhatja.
+(3)[^90] Az átvevő a külső kézbesítőkönyvben vagy a futárjegyzéken dátum és időpont feltüntetése mellett, nevével, saját kezű aláírásával, valamint bélyegzőlenyomattal igazolja a küldemény átvételét. Azokon a rendezvényeken, ahol NATO, NYEU, valamint EU és EU intézményei által minősített „Korlátozott terjesztésű!” minősítési szintű minősített adat átadására kerül sor, a NATO, NYEU, valamint az EU és az EU intézményei „Korlátozott terjesztésű!” minősítési szintű minősített adat átvételét a felhasználásra jogosult személy bélyegzőlenyomat nélkül igazolhatja.
 
-(4)[^87] Téves címzés vagy helytelen kézbesítés esetén az átvevő a küldeményt annak felbontása nélkül azonnal továbbküldi a címzettnek, vagy ha ez nem lehetséges, visszajuttatja a feladónak.
+(4)[^91] Téves címzés vagy helytelen kézbesítés esetén az átvevő a küldeményt annak felbontása nélkül azonnal továbbküldi a címzettnek, vagy ha ez nem lehetséges, visszajuttatja a feladónak.
 
-[^86]: A 46. § (3) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 27. §-ával megállapított szöveg.
-[^87]: A 46. § (4) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés g) pontja szerint módosított szöveg.
+[^90]: A 46. § (3) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 27. §-ával megállapított szöveg.
+[^91]: A 46. § (4) bekezdése a 243/2016. (VIII. 17.) Korm. rendelet 35. § (1) bekezdés g) pontja szerint módosított szöveg.

@@ -1,7 +1,7 @@
-## 63. § Ez a rendelet
+## 63. §[^125] Ez a rendelet
 
-1. a Tanács biztonsági szabályzatának elfogadásáról szóló 264/2001. (III. 19.) EK határozat, a Tanács biztonsági szabályzatának elfogadásáról szóló 264/2001. (III. 19.) EK határozat módosításáról szóló 952/2005. (XII. 20.) EK határozat,
+1. az EU-minősített adatok védelmét szolgáló biztonsági szabályokról szóló, 2013. szeptember 23-i 2013/488/EU tanácsi határozat,
 
-2. a Bizottság eljárási szabályzatáról szóló C/3614/2000. határozat módosításáról szóló 844//2001. (XI. 29.) EK, ESZAK, EURATOM határozat, a Bizottság eljárási szabályzatáról szóló C/3614/2000. határozat módosításáról szóló 844/2001. (XI. 19.) EK, ESZAK, EURATOM határozat módosításáról szóló 94/2005 (II. 3.) EK EURATOM határozat, a Bizottság eljárási szabályzatáról szóló C/3614/2000. határozat módosításáról szóló 844//2001. (XI. 29.) EK, ESZAK, EURATOM határozat módosításáról szóló 548/2006. (VIII. 2.) EK EURATOM határozat
+2. az EU-minősített adatok védelmét szolgáló biztonsági szabályokról szóló, 2015. március 13-i 2015/444/EU bizottsági határozat
 
-végrehajtásához szükséges rendelkezéseket állapít meg.
+[^125]: A 63. § a 441/2016. (XII. 16.) Korm. rendelet 26. §-ával megállapított szöveg.

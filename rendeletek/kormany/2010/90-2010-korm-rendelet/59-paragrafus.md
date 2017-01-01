@@ -2,6 +2,6 @@
 
 (2) A minősített adatot kezelő szerv vezetője biztosítja, hogy azok a biztonsági területek, ahol „Titkos!” vagy ennél magasabb minősítési szintű minősített adatokról rendszeresen tárgyalnak, lehallgatás mentesek legyenek.
 
-(3)[^115] A katonai, nemzetbiztonsági és bűnügyi műveletekben a személyi biztonsági tanúsítvánnyal rendelkező személy személyes felügyelete alatt álló minősített adatot tartalmazó technikai eszköz, valamint a művelet végrehajtásához szükséges minősített adat, a minősített adatot kezelő szerv vezetője vagy a biztonsági vezető által meghatározott biztonsági intézkedések betartása mellett biztonsági területen kívül is felhasználható.
+(3)[^119] A katonai, nemzetbiztonsági és bűnügyi műveletekben a személyi biztonsági tanúsítvánnyal rendelkező személy személyes felügyelete alatt álló minősített adatot tartalmazó technikai eszköz, valamint a művelet végrehajtásához szükséges minősített adat, a minősített adatot kezelő szerv vezetője vagy a biztonsági vezető által meghatározott biztonsági intézkedések betartása mellett biztonsági területen kívül is felhasználható.
 
-[^115]: Az 59. § (3) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 33. §-a iktatta be.
+[^119]: Az 59. § (3) bekezdését a 243/2016. (VIII. 17.) Korm. rendelet 33. §-a iktatta be.
