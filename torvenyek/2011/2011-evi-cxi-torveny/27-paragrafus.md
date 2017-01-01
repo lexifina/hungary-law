@@ -4,4 +4,4 @@
 
 (3) Az alapvető jogok biztosának a vizsgálata során beszerzett iratok és tárgyi bizonyítási eszközök nem nyilvánosak.
 
-(4) Az alapvető jogok biztosa és a hatóság, a közreműködésre kötelezett szervezet vagy személy, valamint a kivételes vizsgálattal érintett szervezet között a kapcsolat elektronikus aláírással ellátott elektronikus dokumentum alkalmazásával is fenntartható.
+(4)
