@@ -8,3 +8,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/1998-3-20-80
 | --- | --- | --- |
 | 2008-05-16 | 1998-3-20-80.5 | 3/1998. (I. 12.) IKIM rendelet |
 | 2010-03-05 | 1998-3-20-80.6 | 10/2010. (III. 2.) NFGM rendelet |
+| 2017-01-01 | 1998-3-20-80.7 | 10/2010. (III. 2.) NFGM rendelet |
