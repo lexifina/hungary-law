@@ -2,7 +2,7 @@ A Kormány
 
 1. egyetért azzal, hogy a Fertőd belterület 1229/3 helyrajzi számú ingatlan (a továbbiakban: Ingatlan) a fertődi Esterházy-kastélyhoz szervesen kapcsolódó területként az állam tulajdonába kerüljön;
 
-2. felhívja a Miniszterelnökséget vezető minisztert, hogy az Eszterháza Kulturális, Kutató- és Fesztiválközpont útján gondoskodjon az Ingatlannal kapcsolatos 113,8 millió forint kártalanítás megfizetéséről;
+2.[^1] felhívja a Miniszterelnökséget vezető minisztert, hogy az a „NISTEMA” Kereskedelmi és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság útján gondoskodjon az Ingatlannal kapcsolatos 113,8 millió forint kártalanítás megfizetéséről;
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -14,8 +14,11 @@ Felelős: nemzeti fejlesztési miniszter
 
 Határidő: azonnal
 
-4. felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon az Ingatlan vagyonkezelői jogának az Eszterháza Kulturális, Kutató- és Fesztiválközpont részére történő átruházásáról.
+4.[^2] felhívja a nemzeti fejlesztési minisztert, hogy gondoskodjon az Ingatlan vagyonkezelői jogának a „NISTEMA” Kereskedelmi és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság részére történő átruházásáról.
 
 Felelős: nemzeti fejlesztési miniszter
 
 Határidő: 2016. október 31.
+
+[^1]: A 2. pont az 1853/2016. (XII. 27.) Korm. határozat 82. pontja szerint módosított szöveg.
+[^2]: A 4. pont az 1853/2016. (XII. 27.) Korm. határozat 82. pontja szerint módosított szöveg.
