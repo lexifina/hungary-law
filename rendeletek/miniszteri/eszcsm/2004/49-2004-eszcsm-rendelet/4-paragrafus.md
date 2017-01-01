@@ -14,7 +14,7 @@ d)[^17] a közösségi programokra alkalmas helyszíneken az e rendeletben fogla
 
 (3)[^18] A 3. § a) pont ad) alpontja szerinti tevékenység végzésére az a védőnő jogosult, aki igazolja, hogy az e tevékenység elsajátítására irányuló,
 
-a) az Országos Tisztifőrvosi Hivatal vagy az orvos- és egészségtudományi képzést folytató felsőoktatási intézmény által szervezett, legalább 40 órás időtartamú választható képzést vagy
+a) az Országos Tisztifőorvosi Hivatal vagy az orvos- és egészségtudományi képzést folytató felsőoktatási intézmény által szervezett, legalább 40 órás időtartamú választható képzést vagy
 
 b) egészségügyi szakirányú választható szakmai továbbképzést
 
