@@ -16,7 +16,7 @@
 
 ## 8. Az állatok fajonként megadott darabszáma.
 
-## 9.[^28] Az állandó menazséria szerint illetékes járási hivatal aláírása, bélyegzője, valamint az aláírás kelte.
+## 9.[^26] Az állandó menazséria szerint illetékes járási hivatal aláírása, bélyegzője, valamint az aláírás kelte.
 
 ## 10. Az érvényesítést végző hatósági állatorvos aláírása és bélyegzője, valamint az aláírás kelte.
 
@@ -100,4 +100,4 @@ Emlősök (Mammalia)
 
 | Egyéb patások | Az állatot úgy kell elhelyezni a boxban, amely biztosítja az állat kényelmes elhelyezkedését, de megakadályozza, hogy az állat az utazás során mozgásából eredően sérüléseket szenvedjen | Az állat magassága + 0,2 |
 
-[^28]: A 2. számú melléklet 9. pontja a 174/2012. (VII. 26.) Korm. rendelet 48. § (3) bekezdésével megállapított szöveg.
+[^26]: A 2. számú melléklet 9. pontja a 174/2012. (VII. 26.) Korm. rendelet 48. § (3) bekezdésével megállapított szöveg.

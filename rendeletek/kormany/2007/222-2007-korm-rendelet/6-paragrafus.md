@@ -2,13 +2,13 @@
 
 (2) A veszélyes állatokról és tartásuk engedélyezésének részletes szabályairól szóló külön jogszabályban veszélyes állatnak minősített állatok tartása esetén az ott meghatározott elhelyezési, biztonsági és egyéb feltételeket kell biztosítani.
 
-(3)[^23] Amennyiben a betanított állat télen folyamatosan zárt, fűtött elhelyezést igényel, a járási hivatal engedélyezheti az állat tartását külső kifutó nélkül is. Ebben az esetben a belső férőhely méretét 50%-kal növelni szükséges.
+(3)[^21] Amennyiben a betanított állat télen folyamatosan zárt, fűtött elhelyezést igényel, a járási hivatal engedélyezheti az állat tartását külső kifutó nélkül is. Ebben az esetben a belső férőhely méretét 50%-kal növelni szükséges.
 
 (4) A menazsériához tartozó állatok utaztatására az állatok szállítására vonatkozó külön jogszabályok rendelkezéseit az e rendelet 3. számú melléklete szerinti kiegészítésekkel kell alkalmazni. Tilos az állatokat a cirkusz, illetőleg a menazséria hangszóróval megvalósuló hirdetése során járművön utaztatni.
 
-(5)[^24] Az állatokat legfeljebb 12 óráig lehet a 3. számú mellékletben szereplő feltételek mellett utaztatni. Ezt követően az utazást legalább 24 órára meg kell szakítani, és az állatokat a 8. § szerinti feltételek között kell elhelyezni.
+(5)[^22] Az állatokat legfeljebb 12 óráig lehet a 3. számú mellékletben szereplő feltételek mellett utaztatni. Ezt követően az utazást legalább 24 órára meg kell szakítani, és az állatokat a 8. § szerinti feltételek között kell elhelyezni.
 
-(6)[^25] A kutya kivételével, a 3. számú mellékletben nem szereplő fajok szállítási feltételeit az élelmiszerlánc-biztonsági és állat-egészségügyi, valamint természetvédelmi hatáskörében eljáró megyei kormányhivatal állapítja meg.
+(6)[^23] A kutya kivételével, a 3. számú mellékletben nem szereplő fajok szállítási feltételeit a megyei kormányhivatal és a területi természetvédelmi hatóság állapítja meg.
 
 (7) A fenntartónak gondoskodnia kell továbbá az állatállomány folyamatos állat-egészségügyi felügyeletéről és szükség szerinti állatorvosi kezeléséről.
 
@@ -16,6 +16,6 @@
 
 (9) A menazséria fenntartója minden állatról külön egészségügyi gondozási naplót köteles vezetni, a naplóba a menazséria fenntartója, a szakgondozó és az állatorvos írhat be, az állattal kapcsolatos minden eseményről, betegség, sérülés esetén a gyógymódról és annak betartásáról, illetve az állattal kapcsolatos eseményekről.
 
-[^23]: A 6. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 7. pontja, a 174/2012. (VII. 26.) Korm. rendelet 48. § (2) bekezdés a) pontja szerint módosított szöveg.
-[^24]: A 6. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 564. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
-[^25]: A 6. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 103. § (2) bekezdésével megállapított szöveg.
+[^21]: A 6. § (3) bekezdése a 362/2008. (XII. 31.) Korm. rendelet 44. § (1) bekezdés 7. pontja, a 174/2012. (VII. 26.) Korm. rendelet 48. § (2) bekezdés a) pontja szerint módosított szöveg.
+[^22]: A 6. § (5) bekezdése a 182/2009. (IX. 10.) Korm. rendelet 564. §-a szerint módosított szöveg. E módosító rendelet 687. § (1) bekezdése alapján a rendelkezést a 2009. október 1. napját követően indult vagy megismételt eljárásokban kell alkalmazni.
+[^23]: A 6. § (6) bekezdése a 70/2015. (III. 30.) Korm. rendelet 103. § (2) bekezdésével megállapított, a 379/2016. (XII. 2.) Korm. rendelet 101. § (2) bekezdés e) pontja szerint módosított szöveg.
