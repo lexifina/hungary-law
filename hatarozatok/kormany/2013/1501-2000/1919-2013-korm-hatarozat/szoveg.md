@@ -18,9 +18,9 @@ Határidő: azonnal
 
 a) – a Kultv.-re és különösen annak 38/B. §-ára figyelemmel – dolgozzon ki intézkedési tervet az Esterházy család fraknói hercegi ágához kötődő műtárgyak leltározása, áthelyezése és méltó elhelyezése tárgyában, különös tekintettel a rossz vagy közepes állapotú műtárgyakra,
 
-b) az a) pont szerinti műtárgyak szállításában, gondozásában segítse a megalakuló Eszterháza Kulturális, Kutató- és Fesztiválközpont munkáját,
+b)[^1] az a) pont szerinti műtárgyak szállításában, gondozásában segítse a „NISTEMA” Kereskedelmi és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság munkáját,
 
-c) segítse elő a megalakuló Eszterháza Kulturális, Kutató- és Fesztiválközpont munkájában részt vevő, megfelelő képzettséggel és tapasztalattal rendelkező szakemberek alkalmazását;
+c)[^2] segítse elő a „NISTEMA” Kereskedelmi és Szolgáltató Nonprofit Korlátolt Felelősségű Társaság munkájában részt vevő, megfelelő képzettséggel és tapasztalattal rendelkező szakemberek alkalmazását;
 
 Felelős: Miniszterelnökséget vezető államtitkár
 
@@ -39,3 +39,6 @@ Miniszterelnökséget vezető államtitkár
 emberi erőforrások minisztere
 
 Határidő: azonnal
+
+[^1]: A 3. pont b) alpontja az 1853/2016. (XII. 27.) Korm. határozat 40. pontja szerint módosított szöveg.
+[^2]: A 3. pont c) alpontja az 1853/2016. (XII. 27.) Korm. határozat 40. pontja szerint módosított szöveg.
