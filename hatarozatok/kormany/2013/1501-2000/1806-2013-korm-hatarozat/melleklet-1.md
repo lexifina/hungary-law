@@ -22,9 +22,9 @@
 
 ## Határidő: 2013. november 22.
 
-## 6. felhívja a vidékfejlesztési minisztert, hogy a Hitelprogram keretében hatályos hitelszerződéssel rendelkező vállalkozások esedékessé váló kamatfizetéséhez legfeljebb 50%-os mértékű, maximum évi 4 százalékpont kamattámogatást biztosítson, és tegye meg a szükséges intézkedéseket annak érdekében, hogy a vállalkozás a kamattámogatás figyelembe vétele nélkül számított teljes kamat hitelintézet számára történő megfizetését követően, a kamatfizetésről kapott igazolás alapján benyújtott kérelemmel kezdeményezze a Mezőgazdasági és Vidékfejlesztési Hivatalnál a kamattámogatás kifizetését.
+## 6.[^4] felhívja a földművelésügyi minisztert, hogy a Hitelprogram keretében hatályos hitelszerződéssel rendelkező vállalkozások esedékessé váló kamatfizetéséhez legfeljebb 50%-os mértékű, maximum évi 4 százalékpont kamattámogatást biztosítson, és tegye meg a szükséges intézkedéseket annak érdekében, hogy a vállalkozás a kamattámogatás figyelembevétele nélkül számított teljes kamat hitelintézet számára történő megfizetését követően, a kamatfizetésről kapott igazolás alapján benyújtott kérelemmel kezdeményezze a Magyar Államkincstárnál a kamattámogatás kifizetését.
 
-## Felelős: vidékfejlesztési miniszter
+## Felelős: földművelésügyi miniszter
 
 ## Határidő: folyamatos
 
@@ -63,3 +63,4 @@ A Gazdasági Tevékenységek Egységes Ágazati Osztályozási Rendszere (TEÁOR
 [^1]: Az 1. pont az 1154/2014. (III. 20.) Korm. határozat 6. pontja szerint módosított szöveg.
 [^2]: A 3. pont az 1154/2014. (III. 20.) Korm. határozat 7. pontja szerint módosított szöveg.
 [^3]: A 4. pont a) alpontja az 1154/2014. (III. 20.) Korm. határozat 8. pontja szerint módosított szöveg.
+[^4]: A 6. pont az 1853/2016. (XII. 27.) Korm. határozat 39. pontjával megállapított szöveg.
