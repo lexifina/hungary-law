@@ -1,6 +1,6 @@
 ## 5. A támogatási kérelem benyújtása
 
-5. § (1)[^26] A támogatási kérelmet 2016. szeptember 1. és szeptember 30. között a Mezőgazdasági és Vidékfejlesztési Hivatal (a továbbiakban: MVH) által rendszeresített és a honlapján közzétett nyomtatványon kell postai úton benyújtani az MVH részére.
+5. § (1)[^26]
 
 (2) Az állattartónak a támogatási kérelemben nyilatkoznia kell arról, hogy
 
@@ -14,7 +14,7 @@ c)[^29]
 
 (4)[^30]
 
-[^26]: Az 5. § (1) bekezdése a 22/2014. (XI. 3.) FM rendelet 5. § (1) bekezdésével megállapított, az 51/2016. (VII. 21.) FM rendelet 14. § h) pontja szerint módosított szöveg.
+[^26]: Az 5. § (1) bekezdését a 88/2016. (XII. 29.) FM rendelet 61. §-a hatályon kívül helyezte.
 [^27]: Az 5. § (2) bekezdés a) pontja az 52/2015. (IX. 7.) FM rendelet 18. §-ával megállapított szöveg.
 [^28]: Az 5. § (2) bekezdés b) pontja az 52/2015. (IX. 7.) FM rendelet 18. §-ával megállapított szöveg.
 [^29]: Az 5. § (2) bekezdés c) pontját a 36/2014. (IV. 4.) VM rendelet 91. §-a hatályon kívül helyezte.

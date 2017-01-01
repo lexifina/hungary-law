@@ -1,6 +1,6 @@
 ## 7. Kifizetési kérelem
 
-7. § (1) A kifizetési kérelmet az MVH részére, az általa rendszeresített és honlapján közzétett nyomtatványon a támogatási döntésben jóváhagyott beszerzés megvalósítását követően, de legkésőbb a támogatási döntés kézhezvételétől számított 120 napon belül kell benyújtani.
+7. § (1)[^34] A kifizetési kérelmet a Kincstár részére, az általa rendszeresített és honlapján közzétett nyomtatványon a támogatási döntésben jóváhagyott beszerzés megvalósítását követően, de legkésőbb a támogatási döntés kézhezvételétől számított 120 napon belül kell benyújtani.
 
 (2) A kifizetési kérelemhez mellékelni kell:
 
@@ -10,11 +10,11 @@ b) az elszámolható költség kifizetését igazoló bizonylat másolatát;
 
 c) az idegen nyelven kiállított bármilyen dokumentum esetében a szakfordítói vagy tolmács képesítéssel rendelkező személy által készített magyar nyelvű fordítást, valamint a fordítást végző személy szakfordítói vagy tolmács képesítését igazoló okirat másolatát;
 
-d)[^32] az FSE igazolását az állattartó által beszerzett tenyészsertésekről, szaporítóanyagról és eszközökről, valamint a támogatás igénybevételéhez szükséges tenyésztéssel kapcsolatos feltételek meglétéről, amely tartalmazza, hogy a beszerzett tenyészállatok, szaporítóanyag és eszközök megfelelnek az 1. mellékletben foglalt követelményeknek;
+d)[^35] az FSE igazolását az állattartó által beszerzett tenyészsertésekről, szaporítóanyagról és eszközökről, valamint a támogatás igénybevételéhez szükséges tenyésztéssel kapcsolatos feltételek meglétéről, amely tartalmazza, hogy a beszerzett tenyészállatok, szaporítóanyag és eszközök megfelelnek az 1. mellékletben foglalt követelményeknek;
 
 e) az állattartó nyilatkozatát arról, hogy vállalja a birtokon tartási, illetve az üzemeltetési kötelezettséget a 9. §-ban meghatározottak szerint;
 
-f)[^33] tenyészsertések és szaporítóanyag esetében a 83/2015. (XII. 16.) FM rendelet szerinti sertés szállítólevél másolatát;
+f)[^36] tenyészsertések és szaporítóanyag esetében a 83/2015. (XII. 16.) FM rendelet szerinti sertés szállítólevél másolatát;
 
 g) eszközök esetében, amennyiben az adott eszköznél értelmezhető, a garanciális és szavatossági jogok érvényesítéséhez szükséges okiratok másolatát.
 
@@ -24,7 +24,7 @@ g) eszközök esetében, amennyiben az adott eszköznél értelmezhető, a garan
 
 a) a tenyészsertés, illetve az eszköz pontos megnevezését;
 
-b)[^34] a tenyészsertés és a sperma donor kan fajtáját és egyedi azonosítóját;
+b)[^37] a tenyészsertés és a sperma donor kan fajtáját és egyedi azonosítóját;
 
 c) az eszköz KN kódját, és amennyiben rendelkezik vele, egyedi azonosítóját.
 
@@ -34,6 +34,7 @@ c) az eszköz KN kódját, és amennyiben rendelkezik vele, egyedi azonosítój�
 
 (7) A számla nem képezheti támogatás alapját, ha a számlát más támogatáshoz – részben vagy egészben – elszámolták.
 
-[^32]: A 7. § (2) bekezdés d) pontja a 22/2014. (XI. 3.) FM rendelet 7. § (1) bekezdésével megállapított szöveg.
-[^33]: A 7. § (2) bekezdés f) pontja a 22/2014. (XI. 3.) FM rendelet 7. § (2) bekezdésével megállapított, az 51/2016. (VII. 21.) FM rendelet 14. § i) pontja szerint módosított szöveg.
-[^34]: A 7. § (4) bekezdés b) pontja a 22/2014. (XI. 3.) FM rendelet 7. § (3) bekezdésével megállapított szöveg.
+[^34]: A 7. § (1) bekezdése a 88/2016. (XII. 29.) FM rendelet 60. § b) pontja szerint módosított szöveg.
+[^35]: A 7. § (2) bekezdés d) pontja a 22/2014. (XI. 3.) FM rendelet 7. § (1) bekezdésével megállapított szöveg.
+[^36]: A 7. § (2) bekezdés f) pontja a 22/2014. (XI. 3.) FM rendelet 7. § (2) bekezdésével megállapított, az 51/2016. (VII. 21.) FM rendelet 14. § i) pontja szerint módosított szöveg.
+[^37]: A 7. § (4) bekezdés b) pontja a 22/2014. (XI. 3.) FM rendelet 7. § (3) bekezdésével megállapított szöveg.
