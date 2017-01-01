@@ -350,7 +350,7 @@ Határidő: a Közigazgatás- és Közszolgáltatás-fejlesztés Operatív Progr
 
 Forrás: a KÖFOP 2014–2020 keretein belül tervezett
 
-6.3. Létre kell hozni az E-építési keretrendszert kiszolgáló, az építésügyi adatgyűjtést és megjelenítést támogató 3D Magyarország rendszert, a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Kft. közreműködésével és a Földmérési és Távérzékelési Intézet bevonásával.
+6.3.[^2] Létre kell hozni az E-építési keretrendszert kiszolgáló, az építésügyi adatgyűjtést és megjelenítést támogató 3D Magyarország rendszert, a Lechner Tudásközpont Területi, Építészeti és Informatikai Nonprofit Kft. közreműködésével és a földmérési és térinformatikai államigazgatási szervként eljáró Budapest Főváros Kormányhivatala bevonásával.
 
 Felelős: Miniszterelnökséget vezető miniszter
 
@@ -847,3 +847,5 @@ honvédelmi miniszter
 emberi erőforrások minisztere
 
 Határidő: 2016. június 30.
+
+[^2]: Az 1. melléklet 6. pont 6.3. alpontja az 1853/2016. (XII. 27.) Korm. rendelet 56. pontja szerint módosított szöveg.
