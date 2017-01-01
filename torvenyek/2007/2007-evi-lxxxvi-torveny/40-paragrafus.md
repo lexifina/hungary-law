@@ -16,7 +16,7 @@ d) a villamos energia határon keresztül történő szállítása esetén az á
 
 (3) Az átviteli rendszerirányító és az elosztó hálózati engedélyesek elvégzik a mérőberendezések leolvasását, az elosztó hálózati engedélyesek továbbítják a mérési adatokat az átviteli rendszerirányítónak.
 
-(4) A (3) bekezdésben meghatározott mérőberendezések leolvasását profil alapú elszámolás esetén – a hálózathasználati szerződés eltérő rendelkezése vagy az egyetemes szolgáltatásra jogosult felhasználó (4a) bekezdés szerinti kérésének hiányában – legalább éves gyakorisággal, egyéb esetben a Vhr.-ben előírtak alapján a villamosenergia-ellátási szabályzatokban meghatározott módon és határidőre kell biztosítani. A hálózathasználati szerződés egy évnél hosszabb leolvasási időszakot nem állapíthat meg.
+(4) A (3) bekezdésben meghatározott mérőberendezések leolvasását profil alapú elszámolás esetén – a hálózathasználati szerződés eltérő rendelkezése vagy az egyetemes szolgáltatásra jogosult felhasználó (4b) bekezdés szerinti kérésének hiányában – legalább éves gyakorisággal, egyéb esetben a Vhr.-ben előírtak alapján a villamosenergia-ellátási szabályzatokban meghatározott módon és határidőre kell biztosítani. A hálózathasználati szerződés egy évnél hosszabb leolvasási időszakot nem állapíthat meg.
 
 (4a) Az egyetemes szolgáltatásra jogosult felhasználó kérésére a (3) bekezdésben meghatározott mérőberendezések leolvasását profil alapú elszámolás esetén a hálózati engedélyes negyedévente biztosítja.
 

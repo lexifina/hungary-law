@@ -1,4 +1,4 @@
-13. § (1) Minden mérlegkör-felelős köteles a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának finanszírozásáról szóló miniszteri rendeletben foglaltaknak megfelelően megfizetni az átvételi kötelezettség alá eső villamosenergia-termelés támogatására az átviteli rendszerirányító által meghatározott pénzeszköz ráeső összegét, és erre vonatkozóan szerződést kötni az átviteli rendszerirányítóval.
+13. § (1) Minden mérlegkör-felelős köteles a megújuló energiaforrásokból és a hulladékból nyert energiával termelt villamos energia működési támogatásának finanszírozásáról szóló miniszteri rendeletben foglaltaknak megfelelően megfizetni az átvételi kötelezettség és prémium típusú támogatás alá eső villamosenergia-termelés támogatására az átviteli rendszerirányító által meghatározott pénzeszközök ráeső összegét, és erre vonatkozóan szerződést kötni az átviteli rendszerirányítóval.
 
 (2) A mérlegkör-felelős (1) bekezdés szerinti fizetési kötelezettségének alapját a mérlegkörébe tartozó felhasználók részére értékesített villamos energia képezi.
 
@@ -18,11 +18,11 @@ bb) az egyetemes szolgáltatás keretében ellátott felhasználó által igény
 
 (6) Az átviteli rendszerirányító a 9. §-ban meghatározottak végrehajtása érdekében jogosult és köteles
 
-a) az átvételi kötelezettség alá eső villamos energia elszámolására létrehozott, a kereskedelmi szabályzatban meghatározott mérlegkör működtetésére, kiegyenlítésére,
+a) az átvételi kötelezettség alá eső villamos energia elszámolására létrehozott, a kereskedelmi szabályzatban meghatározott mérlegkör működtetésére, kiegyenlítésére, valamint a prémium típusú támogatási rendszer működtetésére,
 
 b) az átvételi kötelezettség alá eső villamosenergia mennyiségre vonatkozóan a jogszabályi és a villamosenergia-ellátási szabályzatokban foglalt előírásoknak megfelelően azon a szervezett villamosenergia-piacon ügyletet kötni, amelyben részesedéssel rendelkezik, és
 
-c) az átvételi kötelezettség alá eső villamos energia támogatásához szükséges összeget és az (1) bekezdés szerinti pénzeszköz mértékét az (1) bekezdés szerinti miniszteri rendeletben meghatározott részletes szabályok szerint meghatározni,
+c) az átvételi kötelezettség és prémium típusú támogatás alá eső villamos energia támogatásához szükséges összegeket és az (1) bekezdés szerinti pénzeszközök mértékét az (1) bekezdés szerinti miniszteri rendeletben meghatározott részletes szabályok szerint meghatározni,
 
 d) az (1) bekezdés szerinti pénzeszköz befizetésére vonatkozó kötelezettséget mérlegkörönként megállapítani és az érintett mérlegkör-felelősökkel elszámolni, figyelemmel a (2)–(5) bekezdésben foglaltakra.
 

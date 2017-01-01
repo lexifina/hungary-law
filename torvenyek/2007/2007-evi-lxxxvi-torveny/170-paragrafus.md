@@ -192,4 +192,8 @@ rendeletben állapítsa meg.
 
 5. a hálózathasználati szerződés és az egyetemes szolgáltatásra jogosult felhasználó esetén a villamosenergia-vásárlási szerződés felek általi megszegésére vonatkozó jogkövetkezmények mértékére és alkalmazására vonatkozó rendelkezéseket;
 
+6. a kötelező átvételi jogosultságok esetében, a támogatás időtartamának és a kötelező átvétel alá eső villamos energia mennyiségének kiszámítási módszereit és a számítás eredményeit, valamint a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidejét;
+
+7. a pályázati eljárás alá nem tartozó, prémium típusú támogatási jogosultságok esetében a támogatás időtartamának és a támogatás alá eső villamos energia mennyiségének kiszámítási módszereit és eredményeit, valamint a kereskedelmi üzem megkezdésének támogatási jogosultsághoz kapcsolódó határidejét;
+
 9. az elosztó által a felhasználók vagy az engedélyes igénye alapján külön díj ellenében végzett szolgáltatások körét, valamint az elosztó által a felhasználó szerződésszegése esetén külön díj ellenében végzett szolgáltatások meghatározására és szabályozására vonatkozó alapelveket és keretszabályokat, ezen szolgáltatások körét, a külön díjak megállapításának kereteit és a külön díjak alkalmazásának szabályait, valamint a külön díjak mértékét.

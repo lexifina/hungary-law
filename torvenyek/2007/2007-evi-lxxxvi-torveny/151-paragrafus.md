@@ -22,7 +22,7 @@ d) a nemzetbiztonság, a honvédelem és a közbiztonság védelme, a közvádas
 
 e) a bírósági végrehajtásról szóló törvény előírásai szerint a bírósági végrehajtónak,
 
-f) a Nemzeti Fogyasztóvédelmi Hatóságnak,
+f) a fogyasztóvédelmi hatóságnak,
 
 g) a védendő fogyasztó esetében az egy felhasználási helyen való igénybevételének ellenőrzése céljából az elosztónak és a védendő fogyasztót megillető kedvezménynek vagy különleges bánásmódnak a biztosítása érdekében a villamosenergia-kereskedőnek,
 

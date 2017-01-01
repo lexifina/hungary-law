@@ -136,11 +136,11 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 44. Magánvezeték: közcélúnak, termelői vezetéknek vagy közvetlen vezetéknek nem minősülő, a csatlakozási pont után elhelyezkedő hálózati elem, vezeték, vagy átalakító- és kapcsolóberendezés, amely az átviteli vagy elosztó hálózathoz közvetlenül vagy közvetve kapcsolódó felhasználó vagy a vételező ellátására szolgál;
 
-45. Megújuló energiaforrás: nem fosszilis és nem nukleáris energiaforrás (nap, szél, geotermikus energia, hullám-, árapály- vagy vízenergia, biomassza, biomasszából közvetve vagy közvetlenül előállított energiaforrás, továbbá hulladéklerakóból, illetve szennyvízkezelő létesítményből származó gáz, valamint a biogáz);
+45. Megújuló energiaforrás: nem fosszilis és nem nukleáris energiaforrás, amelyből nap-, szél-, légtermikus, geotermikus, hidrotermikus energia, vízenergia, biomasszából nyert energia – beleértve a biogázból (hulladéklerakóból, illetve szennyvízkezelő létesítményből származó, valamint az egyéb szerves anyagokból előállított éghető gázból) nyert energiát – állítható elő;
 
 45a. Menetrend: egy adott naptári napra a kereskedelmi szabályzatban meghatározott elszámolási mérési időegységekre vonatkozó villamos-átlagteljesítmények adatsora;
 
-45b. Megújulóenergia-támogatási rendszer: jogszabállyal létrehozott olyan intézkedés, eszköz, rendszer vagy mechanizmus, amely a megújuló energiaforrásokból előállított energia felhasználására ösztönöz ezen energia költségének csökkentésével, az eladási ár emelésével, vagy a megújuló energiaforrásokból előállított energia megvásárolt mennyiségének – a megújuló energiával kapcsolatos kötelezettség bevezetése révén vagy egyéb módon való – növelésével, ideértve a közvetlenül vagy közvetve nyújtott beruházási és működési támogatásokat, valamint a megújuló energiaforrások alkalmazását elősegítő közvetlen ártámogatásokat, adókedvezményeket, adó-visszatérítéseket, megújuló energiaforrások alkalmazására, annak kötelező átvételére vonatkozó előírásokat is;
+45b. Megújulóenergia-támogatási rendszer: jogszabállyal létrehozott olyan intézkedés, eszköz, rendszer vagy mechanizmus, amely a megújuló energiaforrásokból előállított energia felhasználására ösztönöz ezen energia költségének csökkentésével, az ezen energiát előállítók bevételének emelésével, vagy a megújuló energiaforrásokból előállított energia megvásárolt mennyiségének – a megújuló energiával kapcsolatos kötelezettség bevezetése révén vagy egyéb módon való – növelésével, ideértve a közvetlenül vagy közvetve nyújtott beruházási és működési támogatásokat, valamint a megújuló energiaforrások alkalmazását elősegítő közvetlen ártámogatásokat, adókedvezményeket, adó-visszatérítéseket, megújuló energiaforrások alkalmazására, annak kötelező átvételére vonatkozó előírásokat is;
 
 46. Mérlegkör: a kiegyenlítő energia igénybevételének okozathelyes megállapítására és elszámolására és a kapcsolódó feladatok végrehajtására a vonatkozó felelősségi viszonyok szabályozása érdekében létrehozott, egy vagy több tagból álló elszámolási szerveződés;
 
@@ -206,4 +206,8 @@ d) a közvilágítás ki- és bekapcsolását, továbbá szabályozását biztos
 
 72. Zöld bizonyítvány: olyan forgalomképes okirat, amely igazolja a megújuló energiaforrásból nyert energiával előállított villamos energia mennyiségét a megújuló energiaforrásból nyert energiával termelt villamos energia felhasználására előírt minimális kötelezettség teljesítésére vonatkozó támogatási rendszer esetén;
 
-74. Külön kezelt intézmény: központi költségvetési szerv, központi költségvetési szerv költségvetési intézménye, helyi önkormányzat, helyi önkormányzat költségvetési intézménye, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézmény.
+74. Külön kezelt intézmény: központi költségvetési szerv, központi költségvetési szerv költségvetési intézménye, helyi önkormányzat, helyi önkormányzat költségvetési intézménye, valamint normatív állami támogatásban részesülő, közfeladatot ellátó, nem nyereség- és vagyonszerzési célt szolgáló egyéb intézmény;
+
+75. Prémium típusú támogatás: a prémium típusú támogatási rendszer keretében nyújtott ártámogatás;
+
+76. Prémium típusú támogatási rendszer: olyan támogatási rendszer, amelyben a megújuló energiaforrásból származó villamos energiát a termelő piaci körülmények között értékesíti és emellett az általa termelt villamos energiával arányosan ártámogatásban (prémiumban) részesül;
