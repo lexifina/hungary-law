@@ -14,7 +14,7 @@ d)[^15] a tizenkét férőhely feletti gyermekotthonnál – kivéve a kizáról
 
 e) a területi gyermekvédelmi szakszolgálatnál
 
-betöltő személyek – a (3) bekezdésben foglaltak figyelembevételével – szociális szakvizsga letételére kötelezettek. Ezek a követelmények a bölcsődei igazgatóságoknál és bölcsődék egyesített intézményeinél csak a magasabb vezetőre vonatkoznak.
+betöltő személyek – a (3) bekezdésben foglaltak figyelembevételével – szociális szakvizsga letételére kötelezettek. Ezek a követelmények az önálló bölcsődéknél, a bölcsődei igazgatóságoknál és bölcsődék egyesített intézményeinél csak a magasabb vezetőre vonatkoznak.
 
 (2a)[^16] A személyes gondoskodást végző személyek továbbképzéséről és a szociális szakvizsgáról szóló 9/2000. (VIII. 4.) SZCSM rendelet 5. § (3) bekezdése szerinti esetben a (2) bekezdésben meghatározott szociális szakvizsga kötelezettségnek a pedagógus szakvizsga letételével is eleget lehet tenni.
 
@@ -38,7 +38,7 @@ b) a tanácsadó munkakör munkaviszony vagy munkavégzésre irányuló egyéb j
 
 [^10]: A 2/B. §-t a 19/2014. (III. 13.) EMMI rendelet 1. §-a iktatta be.
 [^11]: A 3. § (1) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 1. § (1) bekezdésével megállapított szöveg.
-[^12]: A 3. § új (2) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének b) pontja iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (5) bekezdésre változtatva. A bekezdés szövege az 1/2005. (I. 26.) ICSSZEM rendelet 5. §-ával megállapított szöveg.
+[^12]: A 3. § új (2) bekezdését a 9/2000. (VIII. 4.) SZCSM rendelet 16. § (2) bekezdésének b) pontja iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (5) bekezdésre változtatva. A bekezdés szövege az 1/2005. (I. 26.) ICSSZEM rendelet 5. §-ával megállapított, záró szövegrésze a 6/2016. (III. 24.) EMMI rendelet 6. § a) pontja szerint módosított szöveg.
 [^13]: A 3. § (2) bekezdés a) pontja az 55/2015. (XI. 30.) EMMI rendelet 1. § (2) bekezdésével megállapított szöveg.
 [^14]: A 3. § (2) bekezdés c) pontja a 19/2014. (III. 13.) EMMI rendelet 2. § (1) bekezdésével megállapított szöveg.
 [^15]: A 3. § (2) bekezdés d) pontja a 46/2015. (X. 12.) EMMI rendelet 1. §-ával megállapított szöveg.

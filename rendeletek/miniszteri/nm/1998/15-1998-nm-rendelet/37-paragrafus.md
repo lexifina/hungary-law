@@ -1,3 +1,13 @@
-37. § (1) A napos bölcsőde a fenntartó által meghatározott napi nyitvatartási időn belül biztosítja a gyermek ellátását. Alapfeladatként nyújtott ellátás esetén egy gyermek napi gondozási ideje a tizenkét órát nem haladhatja meg.
+## 36. § Ha a fenntartó eltérően nem rendelkezik, a keresőtevékenységet folytató vagy folytatni kívánó szülő legkésőbb a gyermek bölcsődei ellátásának megkezdését megelőző két héttel a bölcsődei ellátást nyújtó intézménynek, szolgáltatónak munkáltatói igazolást nyújt be, vagy bemutatja a leendő munkáltatójának igazolását arról, hogy a szülő nála alkalmazásban fog állni, megjelölve annak kezdő időpontját is.
 
-(2) A hetes bölcsőde naptári hetenként legalább százhúsz óra időtartamban bentlakásos formában folyamatos ellátást biztosít.
+37. § (1) A bölcsődei ellátást nyújtó intézmény, szolgáltató a fenntartó által meghatározott napi nyitvatartási időn belül biztosítja a gyermek bölcsődei ellátását.
+
+(2) A Gyvt. 42. § (1) bekezdése szerinti bölcsődei ellátás esetén a gyermek napi gondozási ideje legalább négy óra és legfeljebb tizenkét óra. A sajátos nevelési igényű gyermek napi gondozási ideje négy óránál kevesebb időtartamban is meghatározható.
+
+(3) A fenntartó minden év február 15-éig tájékoztatja a szülőket a bölcsődei ellátást nyújtó intézmény, szolgáltató nyári nyitvatartási rendjéről. A nyári zárva tartás időtartamát a fenntartó legfeljebb öt hétben határozhatja meg.
+
+(4) A bölcsőde, mini bölcsőde vezetője, valamint a munkahelyi bölcsőde és a családi bölcsőde fenntartója minden év április 30-áig tájékoztatást küld a gyermek lakóhelye, annak hiányában tartózkodási helye szerint illetékes települési önkormányzat jegyzőjének azon harmadik életévüket betöltött gyermekekről, akikről a Gyvt. 42/A. § (2) bekezdése szerint, a szülő egyetértésével megállapították, hogy óvodai nevelésre nem érett. A települési önkormányzat jegyzője a tájékoztatást minden év május 15-éig megküldi a gyermek lakóhelye, annak hiányában tartózkodási helye szerint illetékes kötelező felvételt biztosító óvoda vezetőjének.
+
+(5) A (4) bekezdés szerint lejelentett gyermek szülője mentesül a gyermek óvodai beíratásának kötelezettsége alól.
+
+(6) Ha a (4) bekezdés szerint lejelentett gyermek ellátására vonatkozó megállapodás a bölcsődei nevelési év közben megszűnik, arról a bölcsőde, mini bölcsőde vezetője, valamint a munkahelyi bölcsőde és a családi bölcsőde fenntartója haladéktalanul tájékoztatja a gyermek lakóhelye, annak hiányában tartózkodási helye szerint illetékes települési önkormányzat jegyzőjét.

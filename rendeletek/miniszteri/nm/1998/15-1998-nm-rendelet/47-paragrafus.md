@@ -1,18 +1,7 @@
-47. §[^95] (1) Családi napköziben szolgáltatást az biztosíthat, aki – a Gyvt. 43. §-ában meghatározott feltételeknek való megfelelésen túl – a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló 33/1998. (VI. 24.) NM rendelet 2. számú melléklete szerinti érvényes Egészségügyi Nyilatkozattal (a továbbiakban: Egészségügyi Nyilatkozat) rendelkezik.
+47. § (1) A bölcsőde működhet bölcsődének épült épületben vagy a bölcsődei funkciónak megfelelően átalakított épületben.
 
-(1a)[^96] Családi napköziben szolgáltatást azoknak a gyermekeknek, akik az óvodába járási kötelezettségüket családi napköziben teljesítik, csak olyan személy biztosíthat, aki megfelel a nemzeti köznevelésről szóló 2011. évi CXC. törvény 8. § (5) bekezdésében meghatározott követelményeknek.
+(2) A bölcsőde tervezésénél, illetve más épületből történő kialakításánál, átalakításánál az országos településrendezési és építési követelményekről szóló kormányrendelet előírásainak és a nevelési intézmények tervezési előírásairól szóló MSZ 24210 szabványnak vagy azzal egyenértékű más műszaki megoldásnak az alkalmazásával kell eljárni.
 
-(2) A fenntartó döntése alapján a családi napköziben a családi napközi szolgáltatást nyújtó személy foglalkoztatására a 2. számú melléklet II. Része I. Alapellátások 3. Családi napközi pontja alatt meghatározott munkakörök létesíthetők. A munkakört betöltő személynek
+(3)[^57] A bölcsőde egészségügyi tevékenysége tekintetében a hatósági ellenőrzést a népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal végzi. A népegészségügyi feladatkörében eljáró fővárosi és megyei kormányhivatal feladata ellátása érdekében közreműködésre felkérheti a gyermekek napközbeni ellátása tekintetében a bölcsődei módszertani szervezetet vagy az Országos Gyermekvédelmi Szakértői Névjegyzékben szereplő bölcsődei ellátás, csecsemő- és kisgyermekgondozás-, nevelés vagy gyermekek napközbeni ellátása szakterületre bejegyzett szakértőt.
 
-a) eredményesen el kell végeznie a családi napközit működtetők felkészítő tanfolyamát, és
-
-b) rendelkeznie kell a 2. számú melléklet II. Része I. Alapellátások 3. Családi napközi pontjában előírt képesítéssel.
-
-(3) Ha a fenntartó nem létesít a 2. számú melléklet II. Része I. Alapellátások 3. Családi napközi pontja alatt meghatározott munkakört, a családi napközi szolgáltatást nyújtó személynek elegendő a családi napközit működtetők felkészítő tanfolyamát elvégezni.
-
-(4) A családi napközi szolgáltatást nyújtó személynek igazolnia kell, hogy betegsége vagy egyéb váratlan esemény bekövetkezése esetén helyettesítése megoldott olyan személlyel, aki megfelel az (1) bekezdésben megjelölt alkalmassági feltételeknek. A helyettesítésre szociális gondozói díjban részesíthető személy is alkalmazható.
-
-(5) Ha a családi napközi szolgáltatást nyújtó személy az életvitelszerű tartózkodására szolgáló lakásban nyújtja az ellátást, az ellátás megkezdésekor, azt követően pedig évente háziorvosi igazolással tanúsítja, hogy a vele közös háztartásban élő személy egészségi állapota nem veszélyezteti az ellátandó gyermeket.
-
-[^95]: A 47. § a 31/2009. (XII. 22.) SZMM rendelet 8. §-ával megállapított szöveg.
-[^96]: A 47. § (1a) bekezdését a 6/2015. (I. 28.) EMMI rendelet 12. §-a iktatta be.
+[^57]: A 47. § (3) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 4. § a) pontja szerint módosított szöveg.

@@ -1,18 +1,7 @@
-43. § (1)[^85] A bölcsődei ellátás megszűnik
+43. § (1) A bölcsődében és a mini bölcsődében az április 21-én vagy ha az heti pihenőnapra vagy munkaszüneti napra esik, az azt követő legközelebbi munkanapon tartott Bölcsődék Napja minden évben nevelés-gondozás nélküli munkanap.
 
-a) az óvodai nevelésre nem érett gyermek esetén a 36. § (2) bekezdésében meghatározott időpontban,
+(2) Az (1) bekezdés szerinti nevelés-gondozás nélküli munkanap célja a bölcsődében és a mini bölcsődében dolgozók szakmai fejlesztése.
 
-b) a sajátos nevelési igényű gyermek esetén a 41. § (2) bekezdésében meghatározott időpontban,
+(3) A nevelés-gondozás nélküli munkanapon a bölcsődei ellátás keretében – erre irányuló szülői kérés esetén – a gyermek felügyeletét és étkeztetését biztosítani kell.
 
-c) az a) és b) pont alá nem tartozó gyermek esetén, ha a harmadik életévét
-
-ca) január 1-je és augusztus 31-e között tölti be, az adott bölcsődei nevelési év végéig,
-
-cb) ha szeptember 1-je és december 31-e között tölti be, a következő bölcsődei nevelési év végéig.
-
-(2) Meg kell szüntetni annak a gyermeknek az ellátását, aki a bölcsőde orvosának szakvéleménye szerint egészségi állapota miatt bölcsődében nem gondozható, illetőleg magatartászavara veszélyezteti a többi gyermek fejlődését.
-
-(3)[^86] A bölcsőde orvosa a (2) bekezdés szerinti szakvélemény kialakítása előtt más szakember (gyógypedagógus, pszichológus, kisgyermeknevelő stb.) véleményét is kikéri.
-
-[^85]: A 43. § (1) bekezdése a 6/2015. (I. 28.) EMMI rendelet 11. §-ával megállapított szöveg.
-[^86]: A 43. § (3) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 23. § f) pontja szerint módosított szöveg.
+(4) A szülőket február 15-éig tájékoztatni kell a nevelés-gondozás nélküli munkanapról és a nevelés-gondozás nélküli munkanapon a gyermek felügyelete és az étkeztetés biztosítása iránti igény bejelentésének lehetőségéről.

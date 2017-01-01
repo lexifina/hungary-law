@@ -1,4 +1,4 @@
-## 5K23025M_1
+## 6K03897O_1
 
 | Ellátás | Munkakör/fő |
 
@@ -116,6 +116,6 @@
 
 | * Örökbefogadási eset alatt értendő: érvényes alkalmassági határozattal rendelkező örökbefogadásra váró családok száma, a folyamatban lévő alkalmassági vizsgálatok száma (házaspár egynek számít), folyamatban lévő örökbefogadások (beleértve a más megyei örökbefogadás és nyílt örökbefogadás esetén a kötelező gondozási idő figyelemmel kísérését), a nyílt örökbefogadás előkészítésének száma, valamint az örökbefogadás kötelező és önkéntes utánkövetésének száma. |
 
-2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^515]
+2. számú melléklet a 15/1998. (IV. 30.) NM rendelethez[^444]
 
-[^515]: A 2. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (2) és (4) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 17. § (2) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (2) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (2) és (3) bekezdése, a 46/2015. (X. 12.) EMMI rendelet 6. § (2) bekezdése, az 55/2015. (XI. 30.) EMMI rendelet 10. § (2) bekezdése, a 6/2016. (III. 24.) EMMI rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^444]: A 2. számú melléklet a 46/2003. (VIII. 8.) ESZCSM rendelet 97. §-ával megállapított, a 77/2011. (XII. 30.) NEFMI rendelet 12. § (2) bekezdése, a 49/2013. (VII. 10.) EMMI rendelet 22. § (2) és (4) bekezdése, a 83/2013. (XII. 29.) EMMI rendelet 17. § (2) bekezdése, a 19/2014. (III. 13.) EMMI rendelet 36. § (2) bekezdése, a 6/2015. (I. 28.) EMMI rendelet 19. § (2) és (3) bekezdése, a 46/2015. (X. 12.) EMMI rendelet 6. § (2) bekezdése, az 55/2015. (XI. 30.) EMMI rendelet 10. § (2) bekezdése, a 6/2016. (III. 24.) EMMI rendelet 5. § (1) bekezdése és (2) bekezdés b) pontja szerint módosított szöveg.

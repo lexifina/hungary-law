@@ -6,12 +6,12 @@ a) a szolgáltatói nyilvántartásba való bejegyzés kérelmezésének időpon
 
 b) a szolgáltatói nyilvántartásban történő, fenntartóváltozásra irányuló adatmódosítás esetében az adatmódosítás kérelmezésének időpontjában, ide nem értve az általános jogutódlással történő fenntartóváltozást.
 
-(3)[^26] A család-és gyermekjóléti szolgálat és központ, a bölcsőde, a hetes bölcsőde, a családi napközi, a családi gyermekfelügyelet, az alternatív napközbeni ellátás, a gyermekek átmeneti otthona, a családok átmeneti otthona, a gyermekotthon és az utógondozó otthon, a területi gyermekvédelmi szakszolgálat esetében a szolgáltatótevékenység folytatására, illetve az intézmény elhelyezésére szolgáló ingatlannak (ingatlanrésznek) alkalmasnak kell lennie a gyermekek, illetve a fiatal felnőttek ellátására.
+(3)[^26] A család-és gyermekjóléti szolgálat és központ, a bölcsődei ellátás, a napközbeni gyermekfelügyelet, az alternatív napközbeni ellátás, a gyermekek átmeneti otthona, a családok átmeneti otthona, a gyermekotthon és az utógondozó otthon, a területi gyermekvédelmi szakszolgálat esetében a szolgáltatótevékenység folytatására, illetve az intézmény elhelyezésére szolgáló ingatlannak (ingatlanrésznek) alkalmasnak kell lennie a gyermekek, illetve a fiatal felnőttek ellátására.
 
 (4) A helyettes szülő, valamint a nevelőszülő körülményeinek alkalmasnak kell lennie a gyermek ellátására. A külső férőhelynek megfelelő lakhatást kell biztosítania.
 
 (5)[^27] Nevelőszülői hálózat legalább tíz nevelőszülővel vehető szolgáltatói nyilvántartásba.
 
 [^25]: A 3/B. §-t a 83/2013. (XII. 29.) EMMI rendelet 1. §-a iktatta be.
-[^26]: A 3/B. § (3) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 11. § a) pontja szerint módosított szöveg.
+[^26]: A 3/B. § (3) bekezdése az 55/2015. (XI. 30.) EMMI rendelet 11. § a) pontja, a 6/2016. (III. 24.) EMMI rendelet 6. § b) pontja szerint módosított szöveg.
 [^27]: A 3/B. § (5) bekezdését a 48/2015. (X. 28.) EMMI rendelet 1. §-a iktatta be.

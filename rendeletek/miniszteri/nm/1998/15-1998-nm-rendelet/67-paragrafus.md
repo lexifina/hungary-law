@@ -2,7 +2,7 @@
 
 ## Feladatai
 
-67. § (1)[^163] A családok átmeneti otthona megszakítás nélküli munkarend szerint működő bentlakásos intézmény, amely az alapellátás keretében a gyermek és szülője, illetve a várandós anya számára alaptevékenységként biztosítja a Gyvt. 51. §-ának (3) bekezdése szerinti átmeneti gondozást.
+67. § (1)[^89] A családok átmeneti otthona megszakítás nélküli munkarend szerint működő bentlakásos intézmény, amely az alapellátás keretében a gyermek és szülője, illetve a várandós anya számára alaptevékenységként biztosítja a Gyvt. 51. §-ának (3) bekezdése szerinti átmeneti gondozást.
 
 (2) Ha a családok átmeneti otthona más ellátási forma részeként működik, az ellátás jellegének megfelelő személyi és tárgyi feltételeket ellátási formánként külön-külön biztosítani kell.
 
@@ -10,4 +10,4 @@
 
 (4) A családok átmeneti otthona létesítésére a 110. §-ban foglaltak az irányadóak.
 
-[^163]: A 67. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 42. §-ával megállapított szöveg.
+[^89]: A 67. § (1) bekezdése a 46/2003. (VIII. 8.) ESZCSM rendelet 42. §-ával megállapított szöveg.

@@ -2,7 +2,7 @@
 
 ## Javaslat a gondozási hely meghatározásához
 
-136/A. §[^385] (1) A gyermek ideiglenes gondozási helyének meghatározása érdekében a szakszolgálat a Gyvt. 72. § (1) bekezdésében meghatározott, a gyermek ideiglenes hatályú elhelyezésére jogosult szerv, valamint a gyermek nevelésbe vétele iránt eljárást folytató gyámhivatal megkeresésére soron kívül javaslatot tesz
+136/A. §[^313] (1) A gyermek ideiglenes gondozási helyének meghatározása érdekében a szakszolgálat a Gyvt. 72. § (1) bekezdésében meghatározott, a gyermek ideiglenes hatályú elhelyezésére jogosult szerv, valamint a gyermek nevelésbe vétele iránt eljárást folytató gyámhivatal megkeresésére soron kívül javaslatot tesz
 
 a) a gyermek ideiglenes gondozási helyére a Gyvt. 72. § (1) bekezdés b) pontjában foglaltak megvalósítása érdekében,
 
@@ -12,4 +12,4 @@ c) szükség esetén a gyermekvédelmi gyám személyére.
 
 (2) Ha technikai felkészültsége lehetővé teszi, a szakszolgálat a javaslatát elektronikus levélben, telefaxon vagy hangkapcsolatot biztosító elektronikus úton, ideértve a telefont, teszi meg.
 
-[^385]: A 136/A. §-t a 26/2013. (III. 29.) EMMI rendelet 19. §-a iktatta be.
+[^313]: A 136/A. §-t a 26/2013. (III. 29.) EMMI rendelet 19. §-a iktatta be.

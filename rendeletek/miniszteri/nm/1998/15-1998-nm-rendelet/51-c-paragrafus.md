@@ -1,17 +1,13 @@
-51/C. §[^133] (1)[^134] Az 51/A. § (10) bekezdés szerinti foglalkozások vezetését felsőfokú végzettségű szociális vagy mentálhigiénés szakember, valamint a fejleszteni kívánt képesség tekintetében tréning-, illetve csoportvezetésre jogosultságot szerzett személy láthatja el.
+## 51/B. § Munkahelyi bölcsőde elsősorban a munkavégzés helyszínéül szolgáló épületben, a foglalkoztató tulajdonában álló ingatlanban vagy a foglalkoztató által e célra bérelt ingatlanban működhet.
 
-(2)[^135] Az önkéntes segítők, kortárssegítők közreműködésével vagy együttes részvételével működtetett ellátásokban az önkéntesek felkészítéséről, folyamatos szakmai segítéséről és szupervíziójáról a programot működtető felsőfokú szociális alapvégzettséggel vagy mentálhigiénés végzettséggel rendelkező szakember, illetve szupervízió esetén szupervízor útján gondoskodik.
+51/C. § (1) A fenntartó döntése alapján a munkahelyi bölcsődében a szolgáltatást nyújtó személy foglalkoztatására a 2. számú melléklet II. Rész „I. Alapellátások” cím 2.3. pontjában meghatározott munkakörök létesíthetők. A szolgáltatást nyújtó személy munkakört betöltő személynek eredményesen el kell végeznie a bölcsődei szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyamot. A kisgyermeknevelő munkakört betöltő személynek rendelkeznie kell a 2. számú melléklet II. Rész „I. Alapellátások” cím 2.3. pontjában a kisgyermeknevelő munkakör betöltéséhez előírt képesítéssel.
 
-(3)[^136] Az alternatív napközbeni ellátások közegészségügyi követelményei tekintetében a 48. § (2) bekezdés szerinti módszertani útmutatóban foglaltakat kell alkalmazni.
+(2) Ha a fenntartó nem létesít a 2. számú melléklet II. Rész „I. Alapellátások” 2.3. pontjában meghatározott kisgyermeknevelő munkakört, a bölcsődei szolgáltatást nyújtó személynek eredményesen el kell végeznie a bölcsődei szolgáltatást nyújtó személyek képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyamot.
 
-(4)[^137] Nem tartoznak az alternatív napközbeni ellátások közé
+(3) A hat-, a hét- vagy a nyolcfős munkahelyi bölcsődei csoportban segítő személy működik közre a bölcsődei szolgáltatást nyújtó személy irányítása alapján a naponta rendszeresen előforduló tevékenységekben. A segítő személy munkaidejét a gyermekek napirendjéhez igazodóan kell megszervezni.
 
-a) azon intézmények által biztosított ellátások, amelyeknek kötelező alapfeladata szabadidős programok szervezése,
+(4) A bölcsődei szolgáltatást nyújtó személy melletti segítő tevékenységet szociális gondozói díjban részesülő személy, illetve munkaviszonyban vagy más foglalkoztatásra irányuló jogviszonyban foglalkoztatott személy is elláthatja általános teljes napi munkaidőben vagy részmunkaidőben.
 
-b) elnevezésétől függetlenül az az időszakos gyermekfelügyelet, amelyet a kereskedelmi, vendéglátóipari üzletben vagy kulturális intézményben a szülő tehermentesítése érdekében biztosítanak és amelyhez nem kapcsolódik gyermekjóléti, gyermekvédelmi tevékenység.
+(5) A munkahelyi bölcsődében a bölcsődei szolgáltatást nyújtó személynek és a segítő személynek érvényes Egészségügyi Nyilatkozattal kell rendelkeznie.
 
-[^133]: Az 51/C. §-t a 46/2003. (VIII. 8.) ESZCSM rendelet 36. §-a iktatta be.
-[^134]: Az 51/C. § (1) bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 10. §-ával megállapított szöveg.
-[^135]: Az 51/C. § (2) bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 10. §-ával megállapított szöveg.
-[^136]: Az 51/C. § (3) bekezdését a 31/2009. (XII. 22.) SZMM rendelet 12. §-a iktatta be, szövege a 21/2016. (VIII. 24.) EMMI rendelet 2. § c) pontja szerint módosított szöveg.
-[^137]: Az 51/C. § (4) bekezdését a 77/2011. (XII. 30.) NEFMI rendelet 10. §-a iktatta be.
+(6) A munkahelyi bölcsőde fenntartójának igazolnia kell, hogy betegség vagy egyéb váratlan esemény bekövetkezése esetén a bölcsődei szolgáltatást nyújtó személy helyettesítése megoldott olyan személlyel, aki megfelel a Gyvt. 44. § (3) bekezdésében, valamint az (5) bekezdésben foglaltaknak és a 2. számú melléklet II. Rész „I. Alapellátások” cím 2.3. pontjában a szolgáltatást nyújtó személy tekintetében előírt képesítési feltételnek. A helyettesítésre szociális gondozói díjban részesíthető személy is alkalmazható.

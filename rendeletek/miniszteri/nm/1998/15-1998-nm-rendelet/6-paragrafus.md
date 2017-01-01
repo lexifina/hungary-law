@@ -1,4 +1,4 @@
-## 2. CÍM[^54]
+## 2. CÍM[^55]
 
 ## CSALÁDSEGÍTÉS ÉS GYERMEKJÓLÉTI SZOLGÁLTATÁS
 
@@ -6,4 +6,4 @@
 
 (2) A családsegítés és gyermekjóléti szolgáltatás feladatait tájékoztatás nyújtásával, szociális segítőmunkával, valamint más személy, illetve szervezet által nyújtott szolgáltatások, ellátások közvetítésével látja el.
 
-[^54]: A II. Fejezet 2. Címe (6–33. §) az 55/2015. (XI. 30.) EMMI rendelet 3. §-ával megállapított szöveg.
+[^55]: A II. Fejezet 2. Címe (6–33. §) az 55/2015. (XI. 30.) EMMI rendelet 3. §-ával megállapított szöveg.

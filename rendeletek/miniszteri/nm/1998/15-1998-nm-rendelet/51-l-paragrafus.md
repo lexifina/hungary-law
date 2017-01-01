@@ -1,0 +1,3 @@
+51/L. § (1) A napközbeni gyermekfelügyelet keretében szolgáltatást nyújtó személynek érvényes Egészségügyi Nyilatkozattal kell rendelkeznie.
+
+(2) A napközbeni gyermekfelügyelet fenntartójának igazolnia kell, hogy betegség vagy egyéb váratlan esemény bekövetkezése esetén a szolgáltatást nyújtó személy helyettesítése megoldott olyan személlyel, aki megfelel a Gyvt. 44/B. § (5) bekezdésében, valamint az (1) bekezdésben foglaltaknak és a 2. számú melléklet II. Rész „I. Alapellátások” cím 3. pontjában a szolgáltatást nyújtó személy tekintetében előírt képesítési feltételnek. A helyettesítésre szociális gondozói díjban részesíthető személy is alkalmazható.

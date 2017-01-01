@@ -1,20 +1,5 @@
-44. § (1) Ha a bölcsőde alapfeladatát nem veszélyezteti, a bölcsőde térítési díj ellenében külön szolgáltatásként
+44. § (1) Bölcsődében és mini bölcsődében bölcsődei dajka munkakörben az alkalmazható, aki eredményesen elvégezte a bölcsődei dajka képesítési előírásait meghatározó miniszteri rendeletben előírt tanfolyamot.
 
-a) játszócsoportot,
+(2) A bölcsődében és a mini bölcsődében a bölcsődei dajka munkavégzését a nyitvatartási időn belül nyolcórás munkarendben kell megszervezni. Ha a bölcsődében, mini bölcsődében kettőnél több bölcsődei csoport működik, a bölcsődei dajka munkarendje két műszakos munkarendben is megszervezhető.
 
-b) időszakos gyermekfelügyeletet,
-
-c) gyermekhotelt,
-
-d) egyéb, gyermeknevelést segítő szolgáltatást (pl. gyermeknevelési tanácsadást, játék-, eszközkölcsönzést)
-
-működtethet, illetve otthoni gyermekgondozást biztosíthat. A bölcsőde által biztosított külön szolgáltatásokat a gyermek 6. életévének betöltéséig lehet igénybe venni.
-
-(2)[^87] A játszócsoportban szakképzett kisgyermeknevelő segítségével gyermekfelügyelet vagy a gyermek és a szülő (gondozó) együttes játéklehetősége biztosítható.
-
-(3)[^88] Az időszakos gyermekfelügyelet a gyermek számára a szülő (gondozó) által igényelt alkalommal és időtartamban, az e célra kialakított csoportban vagy a normál bölcsődei csoport üres férőhelyein nyújtható szolgáltatás.
-
-(4) A gyermekhotel olyan gyermek részére nyújt 24 órás folyamatos ellátást, akiről szülője (gondozója) elfoglaltsága miatt átmeneti ideig nem tud gondoskodni. Az ellátás hétvégén és ünnepnapon is biztosítható, időtartama azonban egy alkalommal a tizenöt napot nem haladhatja meg.
-
-[^87]: A 44. § (2) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 23. § f) pontja szerint módosított szöveg.
-[^88]: A 44. § (3) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 8. §-ával megállapított szöveg.
+(3) A bölcsőde és a mini bölcsőde a 37. § (1) bekezdése szerinti napi nyitvatartási időn kívül is biztosíthatja a gyermekek felügyeletét ügyelet keretében. Az ügyelet igénybevételére a fenntartó külön térítés díjat állapíthat meg. Az ügyelet időtartama a napi három órát nem haladhatja meg azzal, hogy az ügyelet délután legfeljebb 19 óráig biztosítható.

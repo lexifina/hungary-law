@@ -1,12 +1,17 @@
-49. §[^103] (1)[^104] Az állandó segítő közreműködik a családi napközi szolgáltatást nyújtó személy irányítása alapján a naponta rendszeresen előforduló tevékenységekben. Ha a családi napközi nyitvatartási ideje a napi 5 órát
+## A mini bölcsődére vonatkozó külön rendelkezések
 
-a) meghaladja, legalább heti 30 órában,
+49. § (1) A mini bölcsődében egy bölcsődei csoportban legfeljebb hét gyermek nevelhető, gondozható, kivéve, ha a bölcsődei csoportban
 
-b) nem haladja meg, legalább heti 15 órában
+a) valamennyi gyermek betöltötte a második életévét, vagy
 
-kell az állandó segítőnek rendelkezésre állnia.
+b) sajátos nevelési igényű gyermeket is nevelnek, gondoznak.
 
-(2) Az állandó segítőnek abban az esetben kell elvégeznie a családi napközit működtetők felkészítő tanfolyamát, ha a családi napközi szolgáltatást nyújtó személy helyettesítését is ellátja.
+(2) Az (1) bekezdés a) pontja szerinti esetben egy bölcsődei csoportban legfeljebb nyolc gyermek nevelhető, gondozható.
 
-[^103]: A 49. § a 31/2009. (XII. 22.) SZMM rendelet 10. §-ával megállapított szöveg.
-[^104]: A 49. § (1) bekezdése a 77/2011. (XII. 30.) NEFMI rendelet 6. §-ával megállapított szöveg.
+(3) Az (1) bekezdés b) pontja szerinti esetben egy bölcsődei csoportban, ha
+
+a) egy sajátos nevelési igényű gyermeket látnak el, legfeljebb öt gyermek,
+
+b) kettő vagy három sajátos nevelési igényű gyermeket látnak el, legfeljebb három gyermek
+
+nevelhető, gondozható.

@@ -1,10 +1,17 @@
-42. § (1)[^83] A sajátos nevelési igényű gyermek bölcsődei elhelyezése történhet
+## A bölcsődére és a mini bölcsődére vonatkozó közös rendelkezések
 
-a) egészséges gyermekekkel közös csoportban,
+42. § (1) A gyermek bölcsődébe és mini bölcsődébe történő felvételét a szülő hozzájárulásával
 
-b) speciális bölcsődei csoportban.
+a) a körzeti védőnő,
 
-(2)[^84] A speciális csoportban elhelyezett gyermekek állapotától függően kell meghatározni az egy kisgyermeknevelő által ellátható gyermeklétszámot, ez azonban kisgyermeknevelőnként három gyermeknél több nem lehet.
+b) a házi gyermekorvos vagy a háziorvos,
 
-[^83]: A 42. § (1) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 23. § e) pontja szerint módosított szöveg.
-[^84]: A 42. § (2) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 7. §-ával megállapított szöveg.
+c) a család- és gyermekjóléti szolgálat,
+
+d) a gyámhatóság
+
+is kezdeményezheti.
+
+(2) Ha a bölcsődei nevelési év közben a gyermek bölcsődébe, mini bölcsődébe történő felvételére veszélyeztetettsége miatt kerül sor, a bölcsődére, mini bölcsődére az e rendeletben meghatározott csoportlétszám legfeljebb a bölcsődei nevelési év végéig 1 fővel túlléphető.
+
+(3) Ha a többcélú óvoda-bölcsődeként működő bölcsőde vagy mini bölcsőde az óvoda épületében kerül kialakításra, az udvaron elkülönített játszórészt kell kialakítani a három éven aluli gyermekek számára.

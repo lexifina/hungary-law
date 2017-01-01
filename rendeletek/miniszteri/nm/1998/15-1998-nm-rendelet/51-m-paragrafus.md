@@ -1,0 +1,14 @@
+51/M. § (1) A Gyvt. 44/B. § (3) bekezdés a) pontja alkalmazásában saját otthon alatt a szolgáltatást nyújtó személy életvitelszerű tartózkodására szolgáló lakást kell érteni.
+
+(2) Ha a napközbeni gyermekfelügyelet szolgáltatást nyújtó személy az életvitelszerű tartózkodására szolgáló lakásban nyújtja az ellátást, az ellátás megkezdésekor, azt követően pedig évente háziorvosi igazolással igazolja, hogy a vele közös háztartásban élő személy egészségi állapota nem veszélyezteti az ellátandó gyermekeket.
+
+(3)[^60] A napközbeni gyermekfelügyelet keretében az ellátás a bölcsődei módszertani szervezet szakmai iránymutatása alapján folyik. A bölcsődei módszertani szervezet a szakmai iránymutatást a honlapján közzéteszi, és gondoskodik annak folyamatos frissítéséről.
+
+(4)[^61] A napközbeni gyermekfelügyelet szolgáltatást nyújtó személynek háromévente legalább egy alkalommal részt kell vennie a bölcsődei módszertani szervezet által kijelölt szervezet által tartott
+
+a) szakmai továbbképzésen, vagy
+
+b) sajátos nevelési igényű gyermeket is ellátó napközbeni gyermekfelügyelet esetén speciális szakmai továbbképzésen.
+
+[^60]: Az 51/M. § (3) bekezdése a 43/2016. (XII. 27.) EMMI rendelet 4. § c) pontja szerint módosított szöveg.
+[^61]: Az 51/M. § (4) bekezdés nyitó szövegrésze a 43/2016. (XII. 27.) EMMI rendelet 4. § b) pontja szerint módosított szöveg.

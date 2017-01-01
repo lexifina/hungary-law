@@ -1,32 +1,27 @@
-## 34. § A családban nevelkedő, a szülők munkavégzése, betegsége vagy egyéb ok miatt ellátatlan gyermek nappali felügyeletét, gondozását, nevelését napközbeni ellátás keretében kell biztosítani.
+35. § (1) Ha a bölcsődei ellátást nyújtó intézmény, szolgáltató sajátos nevelési igényű gyermek napközbeni ellátását biztosítja, a gyermek bölcsődei nevelésének, gondozásának megkezdését követő legalább három hónap elteltével
 
-## Bölcsőde
+a) bölcsődében és mini bölcsődében – az intézmény orvosának, gyógypedagógusának, kisgyermeknevelőjének, valamint a család- és gyermekjóléti központ munkatársának a véleménye alapján – az intézmény vezetője a szülővel együtt,
 
-35. § (1) A bölcsőde olyan szolgáltató intézmény, amely az alapellátás keretében alaptevékenységként napközbeni ellátást nyújt a gyermek számára.
+b) munkahelyi bölcsődében és családi bölcsődében a gyermek orvosa, a család- és gyermekjóléti központ munkatársa, a szolgáltatást nyújtó személy vagy a kisgyermeknevelő a szülővel együtt
 
-(2) A bölcsőde feladata a három éven aluli gyermekek gondozása-nevelése, harmonikus testi-szellemi fejlődésének segítése az életkori és egyéni sajátosságok figyelembevételével.
+értékeli a gyermek beilleszkedését, és dönt a gyermek további neveléséről, gondozásáról.
 
-(3)[^55] A bölcsőde vállalhatja a hat éven aluli sajátos nevelési igényű gyermek nevelését, gondozását, amennyiben az ellátáshoz szükséges tárgyi feltételekkel rendelkezik.
+(2) Ha a bölcsődei ellátást nyújtó intézmény, szolgáltató sajátos nevelési igényű gyermek napközbeni ellátását biztosítja, együttműködik a gyermek korai fejlesztését és gondozását vagy a fejlesztő nevelését ellátó, területileg illetékes pedagógiai szakszolgálati intézménnyel.
 
-(4)[^56] A bölcsőde szervezetileg működhet
+(3) A sajátos nevelési igényű gyermek bölcsődei ellátás keretében való nevelése, gondozása történhet
 
-a) önálló bölcsődeként,
+a) a nem sajátos nevelési igényű gyermekekkel közös csoportban, vagy
 
-b) Bölcsődei Igazgatóság, illetve Egyesített Bölcsőde szervezeti formában, annak tagintézményeként,
+b) speciális bölcsődei csoportban.
 
-c) többcélú, közös igazgatású intézmény önálló szervezeti és szakmai egységeként.
+(4) Egy kisgyermeknevelő, szolgáltatást nyújtó személy a speciális bölcsődei csoportban
 
-(5)[^57] A bölcsőde a feladat jellegétől függően
+a) bölcsőde, mini bölcsőde és munkahelyi bölcsőde esetén legfeljebb három gyermeket,
 
-a) napos bölcsőde,
+b) családi bölcsőde esetén legfeljebb kettő gyermeket
 
-b) hetes (5 napos) bölcsőde
+nevelhet, gondozhat.
 
-lehet.
+(5) A sajátos nevelési igényű gyermekek szükségleteihez igazodóan a (4) bekezdésben foglaltnál kevesebb számban is meghatározható az egy kisgyermeknevelő, szolgáltatást nyújtó személy által nevelhető, gondozható gyermekek száma.
 
-(6)[^58] Ha a bölcsőde más intézménnyel összevontan működik, biztosítani kell a bölcsőde önálló szakmai egységként történő működtetését.
-
-[^55]: A 35. § új (3) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 28. §-a iktatta be, egyidejűleg az eredeti (3) bekezdés számozását (5) bekezdésre változtatva. A 35. § (3) bekezdése a 49/2013. (VII. 10.) EMMI rendelet 2. §-ával megállapított szöveg.
-[^56]: A 35. § új (4) bekezdését a 46/2003. (VIII. 8.) ESZCSM rendelet 28. §-a iktatta be, egyidejűleg az eredeti (4) bekezdés számozását (6) bekezdésre változtatva.
-[^57]: A 35. § eredeti (3) bekezdésének számozását (5) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 28. §-a.
-[^58]: A 35. § eredeti (4) bekezdésének számozását (6) bekezdésre változtatta a 46/2003. (VIII. 8.) ESZCSM rendelet 28. §-a.
+(6) Ha a bölcsődei nevelési év közben állapítják meg a gyermek sajátos nevelési igényét, a bölcsődei ellátás egyes formáinál az e rendeletben meghatározott sajátos nevelési igényű gyermekek ellátására vonatkozó csoportlétszám legfeljebb a bölcsődei nevelési év végéig túlléphető.
