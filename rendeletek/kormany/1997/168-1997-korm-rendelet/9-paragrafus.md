@@ -1,3 +1,3 @@
-9. §[^20]
+9. §[^11]
 
-[^20]: A 9. §-t a 333/2011. (XII. 29.) Korm. rendelet 29. § c) pontja hatályon kívül helyezte.
+[^11]: A 9. §-t a 333/2011. (XII. 29.) Korm. rendelet 29. § c) pontja hatályon kívül helyezte.

@@ -1,12 +1,12 @@
-88. § (1)[^291] A nyugíjbiztosítási egyéni nyilvántartó lap kiállítására kötelezett a nyugdíjbiztosítási egyéni nyilvántartó lap adattartalmát az ONYF főigazgatója által rendszeresített számítógépes programmal állítja elő, és adatszolgáltatási kötelezettségét e számítógépes program felhasználásával, elektronikus úton teljesíti.
+88. § (1)[^275] A nyugíjbiztosítási egyéni nyilvántartó lap kiállítására kötelezett a nyugdíjbiztosítási egyéni nyilvántartó lap adattartalmát a Központ által rendszeresített számítógépes programmal állítja elő, és adatszolgáltatási kötelezettségét e számítógépes program felhasználásával, elektronikus úton teljesíti.
 
-(2)–(3)[^292]
+(2)–(3)[^276]
 
-(4)[^293] Az adatszolgáltatás és a nyilvántartás általánostól eltérő rendjére az ONYF az Országos Egészségbiztosítási Pénztárral és a Nemzeti Adó- és Vámhivatallal megállapodást köthet.
+(4)[^277] Az adatszolgáltatás és a nyilvántartás általánostól eltérő rendjére az ONYF a Nemzeti Egészségbiztosítási Alapkezelővel és a Nemzeti Adó- és Vámhivatallal megállapodást köthet.
 
-(5)[^294]
+(5)[^278]
 
-[^291]: A 88. § (1) bekezdése a 172/2009. (VIII. 29.) Korm. rendelet 10. §-ával megállapított, a 354/2010. (XII. 30.) Korm. rendelet 17. § (2) bekezdés e) pontja, a 90/2014. (III. 20.) Korm. rendelet 4. § j), a 353/2014. (XII. 29.) Korm. rendelet 26. § f) pontja pontja szerint módosított szöveg.
-[^292]: A 88. § (2)–(3) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 17. § (2) bekezdés f) pontja hatályon kívül helyezte.
-[^293]: A 88. § (4) bekezdése a 327/2006. (XII. 23.) Korm. rendelet 12. § (4) bekezdésének 12. pontja, a 273/2010. (XII. 9.) Korm. rendelet 86. §-a szerint módosított szöveg.
-[^294]: A 88. § (5) bekezdését a 172/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdés r) pontja hatályon kívül helyezte.
+[^275]: A 88. § (1) bekezdése a 172/2009. (VIII. 29.) Korm. rendelet 10. §-ával megállapított, a 353/2014. (XII. 29.) Korm. rendelet 26. § f) pontja, a 379/2016. (XII. 2.) Korm. rendelet 25. § (9) bekezdés b) pontja szerint módosított szöveg.
+[^276]: A 88. § (2)–(3) bekezdését a 354/2010. (XII. 30.) Korm. rendelet 17. § (2) bekezdés f) pontja hatályon kívül helyezte.
+[^277]: A 88. § (4) bekezdése a 379/2016. (XII. 2.) Korm. rendelet 25. § (9) bekezdés g) pontja szerint módosított szöveg.
+[^278]: A 88. § (5) bekezdését a 172/2009. (VIII. 29.) Korm. rendelet 13. § (1) bekezdés r) pontja hatályon kívül helyezte.
