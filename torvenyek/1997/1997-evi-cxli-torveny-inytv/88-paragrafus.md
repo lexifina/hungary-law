@@ -8,4 +8,4 @@ b) az ingatlan-nyilvántartásba bejegyzett tulajdonos vagy annak hagyatékátad
 
 (3) Ha a közbenső átruházó hatósági határozattal (bírósági ítélettel, hagyatékátadó végzéssel) szerzett tulajdonjogot, csak ettől a szerzéstől kell a további jogszerzést igazolni.
 
-(4) Az eljárás során határozatot kell hozni, amely ellen az érdekeltek az V. fejezetben szabályozott jogorvoslattal élhetnek.
+(4) Az eljárást lezáró döntésnek tartalmaznia kell az ingatlanügyi hatóságnak a rendezetlen tulajdoni állású ingatlanokkal kapcsolatos eljárás lefolytathatóságára vonatkozó döntését is.

@@ -1,1 +1,1 @@
-86. § A rendezetlen tulajdoni állású ingatlanokkal kapcsolatos változás vezetésére irányuló eljárás engedélyezése tárgyában az ügyfél kérelmére az ingatlanügyi hatóság végzéssel dönt. A végzés ellen nincs helye fellebbezésnek és felügyeleti jogkör gyakorlásának.
+86. §

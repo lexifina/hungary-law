@@ -14,7 +14,7 @@ d) ha törvény így rendelkezik.
 
 (1b) Függőben tartja továbbá az ingatlanügyi hatóság a beadvány intézését a felmérési, térképezési és területszámítási hiba kijavítására irányuló eljárás megindítása tényének feljegyzésétől a kijavítás tárgyában hozott döntésben foglaltak ingatlan-nyilvántartási átvezetéséig.
 
-(2) A függőben tartásról az ingatlanügyi hatóság a beadvány beérkezését követő nyolc napon belül értesítés megküldésével tájékoztatja a kérelmezőt.
+(2) A függőben tartásról az ingatlanügyi hatóság – az (1) bekezdés b) pontjában meghatározott eset kivételével – a beadvány beérkezését követő nyolc napon belül értesítés megküldésével tájékoztatja a kérelmezőt.
 
 (3) A függőben tartást a tulajdoni lapra nem kell feljegyezni.
 
