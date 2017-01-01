@@ -1,4 +1,4 @@
-18. §[^32] (1) A miniszter – kiemelkedő természeti érték esetén a természetvédelemért felelős miniszterrel egyetértésben – legalább a Vötv. 5. § c) pontja szerinti felülvizsgálatot követő 90 napon belül javaslatot tesz a Kormánynak a Világörökség Jegyzékbe történő jelölés érdekében
+18. §[^37] (1) A miniszter – kiemelkedő természeti érték esetén a természetvédelemért felelős miniszterrel egyetértésben – legalább a Vötv. 5. § c) pontja szerinti felülvizsgálatot követő 90 napon belül javaslatot tesz a Kormánynak a Világörökség Jegyzékbe történő jelölés érdekében
 
 a) a Világörökség Jegyzékbe jelölendő várományos helyszínre,
 
@@ -24,4 +24,4 @@ c) az 5. mellékletben meghatározott tartalmú – a bejelentési dokumentáci�
 
 (6) A miniszter az (1) bekezdésben foglalt javaslattételt követően a következő felülvizsgálat időpontjáig további javaslatot is tehet a Kormánynak a Világörökség Jegyzékbe történő jelölés érdekében.
 
-[^32]: A 18. § a 279/2015. (IX. 22.) Korm. rendelet 15. §-ával megállapított szöveg.
+[^37]: A 18. § a 279/2015. (IX. 22.) Korm. rendelet 15. §-ával megállapított szöveg.

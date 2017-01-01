@@ -92,6 +92,6 @@
 
 ## 2. Egyéb szempontok
 
-3. melléklet a 315/2011. (XII. 27.) Korm. rendelethez[^36]
+3. melléklet a 315/2011. (XII. 27.) Korm. rendelethez[^41]
 
-[^36]: A 3. melléklet a 279/2015. (IX. 22.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^41]: A 3. melléklet a 279/2015. (IX. 22.) Korm. rendelet 18. § (3) bekezdésével megállapított szöveg.

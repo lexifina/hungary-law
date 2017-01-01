@@ -1,6 +1,6 @@
-4. §[^19] (1)[^20] A Központ az általa vezetett minisztérium honlapján a kezelési terv tervezetét közzéteszi, és erről egyidejűleg elektronikus úton értesítést küld
+4. §[^21] (1)[^22] A miniszter az általa vezetett minisztérium honlapján a kezelési terv tervezetét közzéteszi, és erről egyidejűleg elektronikus úton értesítést küld
 
-a) a miniszternek és az érintett minisztereknek,
+a)[^23] az érintett minisztereknek,
 
 b) a világörökségi terület szerinti helyi önkormányzat képviselő-testületének vagy területi önkormányzat közgyűlésének és amennyiben érintett, az országos nemzetiségi önkormányzatnak,
 
@@ -20,7 +20,7 @@ g) amennyiben a világörökségi terület részben vagy teljes mértékben orsz
 
 (2) A kezelési terv tervezetéről az (1) bekezdés a)–g) pontjában meghatározott szervek és személyek az (1) bekezdés szerinti elektronikus értesítés kiküldésétől számított 20 napon belül jogosultak írásban véleményt nyilvánítani.
 
-(3) Véleménykülönbség esetén az egységes álláspont kialakítása érdekében a (2) bekezdésben meghatározott véleményezési határidő lejártát követő 15 napon belül a Központ egyeztetést hív össze
+(3)[^24] Véleménykülönbség esetén az egységes álláspont kialakítása érdekében a (2) bekezdésben meghatározott véleményezési határidő lejártát követő 15 napon belül a miniszter egyeztetést hív össze
 
 a) az (1) bekezdés a)–g) pontjában meghatározott személyek, szervek képviselőjének,
 
@@ -32,8 +32,10 @@ d) az (1) bekezdés f) pontjában foglalt természetvédelmi érintettségtől f
 
 ## részvételével.
 
-(4)[^21] A kezelési terv elfogadására a továbbiakban a 3. § (2)–(4) bekezdése szerinti eljárást kell megfelelően alkalmazni.
+(4)[^25] A kezelési terv elfogadására a továbbiakban a 3. § (2)–(4) bekezdése szerinti eljárást kell megfelelően alkalmazni.
 
-[^19]: A 4. § a 279/2015. (IX. 22.) Korm. rendelet 7. §-ával megállapított szöveg.
-[^20]: A 4. § (1) bekezdése a 306/2016. (X. 13.) Korm. rendelet 10. § f) pontja szerint módosított szöveg.
-[^21]: A 4. § (4) bekezdése a 306/2016. (X. 13.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.
+[^21]: A 4. § a 279/2015. (IX. 22.) Korm. rendelet 7. §-ával megállapított szöveg.
+[^22]: A 4. § (1) bekezdés nyitó szövegrésze a 306/2016. (X. 13.) Korm. rendelet 10. § b) és f) pontja szerint módosított szöveg.
+[^23]: A 4. § (1) bekezdés a) pontja a 306/2016. (X. 13.) Korm. rendelet 11. § c) pontja szerint módosított szöveg.
+[^24]: A 4. § (3) bekezdés nyitó szövegrésze a 306/2016. (X. 13.) Korm. rendelet 10. § b) pontja szerint módosított szöveg.
+[^25]: A 4. § (4) bekezdése a 306/2016. (X. 13.) Korm. rendelet 10. § g) pontja szerint módosított szöveg.

@@ -1,4 +1,4 @@
-## 11. §[^27] A hatásvizsgálati dokumentáció készítése során
+## 11. §[^32] A hatásvizsgálati dokumentáció készítése során
 
 a) meg kell vizsgálni az érintett területet, és össze kell gyűjteni a világörökségi szempontból jelentős információkat és dokumentumokat, így különösen a terület állapotváltozásáról informáló dokumentációkat, statisztikai adatokat, hatályos településrendezési eszközöket;
 
@@ -12,4 +12,4 @@ e) fel kell mérni a hatásviselőket és az azokat érintő hatások jellegét 
 
 f) látványelemzést kell készíteni a történetileg jelentős rálátásokat is tekintetbe véve, ha a beavatkozással összefüggésben a kiemelkedő egyetemes érték vizuális integritásának kérdése felmerül.
 
-[^27]: A 11. § a 279/2015. (IX. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
+[^32]: A 11. § a 279/2015. (IX. 22.) Korm. rendelet 12. §-ával megállapított szöveg.
