@@ -4,7 +4,7 @@
 
 a) két aktív osztályos esemény között 30 napot meghaladó krónikus ellátásra került sor,
 
-b)[^6] az R. 8. számú melléklet 1., 2., és 8–12. pontja szerinti nagy értékű beavatkozást tartalmazó ellátás és az azt megelőző ellátás önálló finanszírozási esetként számolható el.
+b)[^7] az R. 8. számú melléklet 1., 2., és 8–12. pontja szerinti nagy értékű beavatkozást tartalmazó ellátás és az azt megelőző ellátás önálló finanszírozási esetként számolható el.
 
 (2) Az összevonás – a R. 14. számú mellékletében meghatározott kivételektől eltekintve – az első ellátás elszámolási csoportjának felső határnapját megelőzően ugyanazon kórházba visszavett betegek ellátási eseteire is vonatkozik. Az összevonás elvégzése során érvényesíteni kell a legmagasabb díj elszámolásának szabályát.
 
@@ -18,7 +18,7 @@ c) az a) és b) pontok alól kivételt jelentenek az önálló intenzív osztál
 
 d) ha az intenzív osztályos ápolás „3”, vagy „4”, vagy „5” típusú diagnózisai – a típustól függetlenül – és az elvégzett beavatkozások alapján „súlyos társult betegséggel” minősítésnek megfelelő, akkor a többi osztályos eset adatait ki kell egészíteni az intenzív ellátás jellemzőivel, és ezt követően kell elvégezni a súlyszám értékek alapján történő kiválasztást;
 
-e)[^7] az intenzív ellátás csak akkor nem vehető figyelembe a kiválasztásban, ha
+e)[^8] az intenzív ellátás csak akkor nem vehető figyelembe a kiválasztásban, ha
 
 ea) a fődiagnózis („3”) légzőrendszeri megbetegedés, de a többi osztályos ellátás fődiagnózisa nem légzőrendszeri megbetegedés, vagy
 
@@ -40,5 +40,5 @@ i) a garanciális szabály alkalmazásakor az összevonás előtt történik ann
 
 (7) A HBCs összevonási és garanciális szabályt alkalmazni kell a kúraszerű ellátásra, valamint a fekvőbeteg- és kúraszerű ellátási események között is. A kúraszerű ellátási események kezelése ebben a tekintetben is azonos a kórházi ellátási eseményekkel.
 
-[^6]: A 19. § (1) bekezdés b) pontja a 4/2014. (I. 20.) EMMI rendelet 5. §-ával megállapított szöveg.
-[^7]: A 19. § (3) bekezdés e) pontja a 32/2016. (X. 27.) EMMI rendelet 6. §-ával megállapított szöveg.
+[^7]: A 19. § (1) bekezdés b) pontja a 4/2014. (I. 20.) EMMI rendelet 5. §-ával megállapított szöveg.
+[^8]: A 19. § (3) bekezdés e) pontja a 32/2016. (X. 27.) EMMI rendelet 6. §-ával megállapított szöveg.

@@ -1,4 +1,4 @@
-## 1. § E rendelet hatálya kiterjed az Országos Egészségbiztosítási Pénztárra (a továbbiakban: OEP), valamint a kötelező egészségbiztosítás keretében szolgáltatást nyújtó egészségügyi szolgáltatókra.
+## 1. §[^1] E rendelet hatálya kiterjed az a Nemzeti Egészségbiztosítási Alapkezelőre (a továbbiakban: NEAK), valamint a kötelező egészségbiztosítás keretében szolgáltatást nyújtó egészségügyi szolgáltatókra.
 
 ## 2. Értelmező rendelkezések
 
@@ -36,7 +36,7 @@ lc) sürgősségi jelzéssel minősített csoport: a HBCs kódban a főcsoport j
 
 ld) társult betegséggel minősített csoportok: az ellátás során olyan társult betegségek kezelését jelzi, amely megfelel a 19. §-ban és az 5. mellékletben foglaltaknak;
 
-le)[^1] súlyos társult betegséggel minősített csoport: a HBCs kódban a csoportkód utolsó karakterén „Z” betűvel minősített csoportok, mely alapján a beteg állapota és az elvégzett beavatkozások megfeleltek a 16. §-ban, a 20. §-ban és a 6. mellékletben meghatározott feltételeknek;
+le)[^2] súlyos társult betegséggel minősített csoport: a HBCs kódban a csoportkód utolsó karakterén „Z” betűvel minősített csoportok, mely alapján a beteg állapota és az elvégzett beavatkozások megfeleltek a 16. §-ban, a 20. §-ban és a 6. mellékletben meghatározott feltételeknek;
 
 lf) életkori határral minősített csoport: a 2. melléklet szerinti életkori csoportra meghatározott csoport;
 
@@ -46,4 +46,5 @@ n) garanciális szabály: a Kr. 40. § (13) és (14) bekezdése, valamint az R. 
 
 o) hosszúnap: a Kr. 40. § (8) bekezdése szerinti eset.
 
-[^1]: A 2. § l) pont le) alpontja az 55/2012. (XII. 28.) EMMI rendelet 14. §-a szerint módosított szöveg.
+[^1]: Az 1. § az 54/2016. (XII. 30.) EMMI rendelet 83. § a) pontja szerint módosított szöveg.
+[^2]: A 2. § l) pont le) alpontja az 55/2012. (XII. 28.) EMMI rendelet 14. §-a szerint módosított szöveg.
