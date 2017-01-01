@@ -4,35 +4,35 @@
 
 | 1. | Beruházás megnevezése | Beruházás azonosítója | A beruházás megvalósításával kapcsolatos eljárások | Első fokon eljáró hatóság | Másodfokon eljáró hatóság |
 
-| 2. | Kiemelt beruházásként az Állami Ménesgazdaság Szilvásvárad fejlesztése során létrehozandó Szilvásváradi Lovasközpont építményei | Szilvásvárad község területén fekvő, az ingatlan-nyilvántartás szerinti 448/4, 455, 438/1, 441/3, 447/2, 457/1, 590/1, 441/1, 452/2, 453, 454/1, 454/2 helyrajzi számú földrészletek, illetve az ezekből telekalakítási eljárások jogerős befejezését követően kialakított földrészletek | építésügyi hatósági engedélyezési és tudomásulvételi eljárások | Egri Járási Hivatal | Heves Megyei Kormányhivatal |
+| 2. | Kiemelt beruházásként az Állami Ménesgazdaság Szilvásvárad fejlesztése során létrehozandó Szilvásváradi Lovasközpont építményei | Szilvásvárad község területén fekvő, az ingatlan-nyilvántartás szerinti 448/4, 455, 438/1, 441/3, 447/2, 457/1, 590/1, 441/1, 452/2, 453, 454/1, 454/2 helyrajzi számú földrészletek, illetve az ezekből telekalakítási eljárások jogerős befejezését követően kialakított földrészletek | építésügyi hatósági engedélyezési és tudomásulvételi eljárások | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
 
-| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Egri Járási Hivatal | Budapest Főváros Kormányhivatala |
+| 3. | örökségvédelmi hatósági eljárások, régészeti feltárásokkal kapcsolatos eljárások | Heves Megyei Kormányhivatal Egri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 4. | környezetvédelmi hatósági engedélyezési eljárás | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | környezetvédelmi hatósági engedélyezési eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 5. | természetvédelmi hatósági engedélyezési eljárás | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 5. | természetvédelmi hatósági engedélyezési eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 6. | útügyi hatósági engedélyezési eljárás | Heves Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 6. | útügyi hatósági engedélyezési eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
 
-| 7. | vízjogi engedélyezési eljárás | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 7. | vízjogi engedélyezési eljárás | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 8. | az ágazati jogszabály alapján a fővárosi és megyei kormányhivatalok műszaki biztonsági hatósági feladat- és hatáskörébe tartozó hatósági eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
+| 8. | műszaki biztonsági hatóság hatáskörébe tartozó sajátos építményfajtákra vonatkozó építésügyi hatósági engedélyezési eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 9. | ingatlan-nyilvántartási hatósági eljárás | Egri Járási Hivatal | Heves Megyei Kormányhivatal |
+| 9. | ingatlan- nyilvántartási hatósági eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
 
-| 10. | telekalakítási hatósági eljárás | Egri Járási Hivatal | Heves Megyei Kormányhivatal |
+| 10. | telekalakítási hatósági eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
 
-| 11. | földmérési hatósági eljárás | Egri Járási Hivatal | Heves Megyei Kormányhivatal |
+| 11. | földmérési hatósági eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
 
 | 12. | hírközlési hatósági engedélyezési eljárás | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 13. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 13. | szénhidrogén vezetékkel, valamint annak üzemben tartásához szükséges létesítményekkel kapcsolatos engedélyezésre irányuló hatósági eljárások | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 14. | bányahatósági engedélyezési eljárás | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
+| 14. | bányahatósági engedélyezési eljárás | Borsod-Abaúj- Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
-| 15. | talajvédelmi hatósági engedélyezési eljárás | Heves Megyei Kormányhivatal | Nemzeti Élelmiszerlánc- biztonsági Hivatal |
+| 15. | talajvédelmi hatósági engedélyezési eljárás | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
 
-| 16. | vasúti hatósági engedélyezési eljárás | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 16. | vasúti hatósági engedélyezési eljárás | közlekedésért felelős miniszter | nincs |
 
 | 17. | tűzvédelmi használati előírások és a tűzoltóságok beavatkozásával kapcsolatos követelmények alóli eltérési engedélyezési eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
@@ -40,9 +40,9 @@
 
 | 19. | a jogszabályban rögzített tűzvédelmi hatósági egyeztetésekkel kapcsolatos eljárások | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 19a. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
+| 20. | tűzvédelmi létesítési előírások alóli eltérési engedélyezési eljárások | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság | nincs |
 
-| 20. | a jogszabályban rögzített egészségügyi hatósági eljárások | Heves Megyei Kormányhivatal | Országos Tisztifőorvosi Hivatal |
+| 21. | a jogszabályban rögzített egészségügyi hatósági eljárások | Heves Megyei Kormányhivatal Egri Járási Hivatala | Országos Tisztifőorvosi Hivatal |
 
 2. melléklet a 101/2014. (III. 25.) Korm. rendelethez[^10]
 
@@ -52,19 +52,19 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 1. | Szakhatósági közreműködés tárgyköre | Elsőfokú eljárásban kijelölt szakhatóság | Másodfokú eljárásban kijelölt szakhatóság |
 
-| 2. | építésügy | Egri Járási Hivatal | Heves Megyei Kormányhivatal |
+| 2. | építésügy | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
 
-| 3. | műemlékvédelem és régészet | Egri Járási Hivatal | Budapest Főváros Kormányhivatala |
+| 3. | műemlékvédelem és régészet | Heves Megyei Kormányhivatal Egri Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 4. | környezetvédelem, természetvédelem | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Országos Környezetvédelmi és Természetvédelmi Főfelügyelőség |
+| 4. | környezetvédelem, természetvédelem | Heves Megyei Kormányhivatal Egri Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 5. | vízügy és vízvédelem | illetékes katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
+| 5. | vízügy és vízvédelem | illetékes megyei katasztrófavédelmi igazgatóság | Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság |
 
-| 6. | közúti közlekedés | Heves Megyei Kormányhivatal | Nemzeti Közlekedési Hatóság Központja |
+| 6. | közúti közlekedés | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
 
-| 7. | vasúti közlekedés | Nemzeti Közlekedési Hatóság Útügyi, Vasúti és Hajózási Hivatala | Nemzeti Közlekedési Hatóság Központja |
+| 7. | vasúti közlekedés | közlekedésért felelős miniszter | nincs |
 
-| 8. | légi közlekedés | Nemzeti Közlekedési Hatóság Légügyi Hivatal | Nemzeti Közlekedési Hatóság Központja |
+| 8. | légiközlekedés | a) polgári célú légiközlekedés: közlekedésért felelős miniszter b) állami célú légiközlekedés: honvédelemért felelős miniszter | nincs |
 
 | 9. | földtan | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Bányászati és Földtani Hivatal |
 
@@ -76,16 +76,14 @@ A kiemelt jelentőségű ügyben eljáró szakhatóságok, amennyiben az ügyfaj
 
 | 13. | honvédelem | honvédelemért felelős miniszter | nincs |
 
-| 14. |  |  |  |
+| 14. | talajvédelem | Heves Megyei Kormányhivatal Egri Járási Hivatala | Heves Megyei Kormányhivatal |
 
-| 15. | talajvédelem | Heves Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 15. | erdővédelem | Heves Megyei Kormányhivatal Egri Járási Hivatala | Pest Megyei Kormányhivatal |
 
-| 16. | erdővédelem | Heves Megyei Kormányhivatal | Nemzeti Élelmiszerlánc-biztonsági Hivatal |
+| 16. | egészségügy | illetékes járási hivatal | Országos Tisztifőorvosi Hivatal |
 
-| 17. | egészségügy | Heves Megyei Kormányhivatal | Országos Tisztifőorvosi Hivatal |
+| 17. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
 
-| 18. | hírközlés | Nemzeti Média- és Hírközlési Hatóság Hivatala | Nemzeti Média- és Hírközlési Hatóság elnöke |
+| 18. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal Miskolci Járási Hivatala | Budapest Főváros Kormányhivatala |
 
-| 19. | műszaki biztonság | Borsod-Abaúj-Zemplén Megyei Kormányhivatal | Magyar Kereskedelmi Engedélyezési Hivatal |
-
-[^10]: A 2. melléklet a 72/2015. (III. 30.) Korm. rendelet 79. § (2) bekezdés b) pontjával megállapított, a 259/2016. (VIII. 31.) Korm. rendelet 13. §-a, a 271/2016. (IX. 1.) Korm. rendelet 54. § (3)–(4) bekezdése szerint módosított szöveg.
+[^10]: A 2. melléklet a 380/2016. (XII. 2.) Korm. rendelet 70. § (1) bekezdés b) pontjával megállapított szöveg. Alkalmazására lásd e módosító rendelet 119. §-át.
