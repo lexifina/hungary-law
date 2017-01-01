@@ -1,6 +1,6 @@
-## 57. §[^143] Az 1. mellékletben az Országgyűlési Őrségnél az objektumvédelmi feladatok ellátására rendszeresített szolgálati beosztások esetében megkövetelt testmagasságra vonatkozó követelményt a 2013. március 1-jét követően az Országgyűlési Őrség hivatásos állományába jelentkezők vonatkozásában kell alkalmazni.
+## 58. §[^145] A belügyminiszter irányítása alatt álló rendvédelmi feladatokat ellátó szervek, valamint az Országgyűlési Őrség vonatkozásában e rendeletnek a Nemzeti Rehabilitációs és Szociális Hivatalra vonatkozó rendelkezéseit 2017. január 1-től azzal az eltéréssel kell alkalmazni, hogy a Nemzeti Rehabilitációs és Szociális Hivatal helyett a megváltozott munkaképességű személyek ellátásaival kapcsolatos eljárási szabályokról szóló 327/2011. (XII. 29.) Korm. rendelet 2. § (4) bekezdése, valamint 1. § (1) bekezdés b) pontja szerint kijelölt első, illetve másodfokon eljáró szerv jár el.
 
-1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^144]
+1. melléklet az 57/2009. (X. 30.) IRM–ÖM–PTNM együttes rendelethez[^146]
 
 Táblázat és magyarázat a betegségek és fogyatékosságok alapján
 
@@ -1502,5 +1502,5 @@ Végtagok ismétlődő felületes vénatrombóziasa esetén „AN”.
 
 090.4. alszakaszba tartoznak az előző két alszakaszban említett kórképek, ha secunder varicositas, állandó oedema és trophikus zavar társul.
 
-[^143]: Az 57. §-t az 56. § (3) bekezdése hatályon kívül helyezte, újonnan az 56/2012. (XI. 22.) BM rendelet 157. § (5) bekezdése iktatta be, szövege ez utóbbi módosító rendelet 158. §-ával megállapított szöveg.
-[^144]: Az 1. melléklet a 67/2011. (XII. 30.) BM rendelet 21. § (1) bekezdése és a 23. § n) és p) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § q) pontja szerint módosított szöveg.
+[^145]: Az 58. §-t az 55/2016. (XII. 22.) BM rendelet 2. §-a iktatta be.
+[^146]: Az 1. melléklet a 67/2011. (XII. 30.) BM rendelet 21. § (1) bekezdése és a 23. § n) és p) pontja, az 56/2012. (XI. 22.) BM rendelet 159. § q) pontja szerint módosított szöveg.

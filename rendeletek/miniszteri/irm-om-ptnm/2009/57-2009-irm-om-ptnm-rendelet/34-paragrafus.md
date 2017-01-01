@@ -8,13 +8,13 @@
 
 (4) A közlekedéspszichológiai vizsgálatot
 
-a)[^105] a rendőrség esetében első és másodfokon az ORFK,
+a)[^106] a rendőrség esetében első és másodfokon az ORFK,
 
-b)[^106] a hivatásos katasztrófavédelmi szerv esetében első fokon az Országos Katasztrófavédelmi Főigazgatóság által működtetett pszichológiai alkalmasság-vizsgálóhely, másodfokon az MH Honvédkórház,
+b)[^107] a hivatásos katasztrófavédelmi szerv esetében első fokon az Országos Katasztrófavédelmi Főigazgatóság által működtetett pszichológiai alkalmasság-vizsgálóhely, másodfokon az MH Honvédkórház,
 
-c)[^107] a büntetés-végrehajtási szervezet esetében első és másodfokon az MH Honvédkórház,
+c)[^108] a büntetés-végrehajtási szervezet esetében első és másodfokon az MH Honvédkórház,
 
-d)[^108] az Országgyűlési Őrség esetében első és másodfokon – a rendőrséggel kötött megállapodás alapján –, térítés ellenében az ORFK
+d)[^109] az Országgyűlési Őrség esetében első és másodfokon – a rendőrséggel kötött megállapodás alapján –, térítés ellenében az ORFK
 
 végzi.
 
@@ -22,7 +22,7 @@ végzi.
 
 (6) A közlekedés-pszichológiai vizsgálaton kizárólag „Megfelelő” vagy „Nem megfelelő” értékelés adható.
 
-[^105]: A 34. § (4) bekezdés a) pontja a 10/2010. (XII. 22.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
-[^106]: A 34. § (4) bekezdés b) pontja a 67/2011. (XII. 30.) BM rendelet 23. § k) és m) pontja szerint módosított szöeg.
-[^107]: A 34. § (4) bekezdés c) pontja a 67/2011. (XII. 30.) BM rendelet 23. § m) pontja szerint módosított szöeg.
-[^108]: A 34. § (4) bekezdés d) pontját az 56/2012. (XI. 22.) BM rendelet 157. § (4) bekezdése iktatta be.
+[^106]: A 34. § (4) bekezdés a) pontja a 10/2010. (XII. 22.) BM rendelet 5. § (1) bekezdése szerint módosított szöveg.
+[^107]: A 34. § (4) bekezdés b) pontja a 67/2011. (XII. 30.) BM rendelet 23. § k) és m) pontja szerint módosított szöeg.
+[^108]: A 34. § (4) bekezdés c) pontja a 67/2011. (XII. 30.) BM rendelet 23. § m) pontja szerint módosított szöeg.
+[^109]: A 34. § (4) bekezdés d) pontját az 56/2012. (XI. 22.) BM rendelet 157. § (4) bekezdése iktatta be.

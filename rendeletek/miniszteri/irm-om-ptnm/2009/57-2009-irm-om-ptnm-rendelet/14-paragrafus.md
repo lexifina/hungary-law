@@ -1,4 +1,4 @@
-14. § (1)[^35] A fizikai alkalmassági vizsgálaton – a rendőrség különleges foglalkoztatási állományába történő felvétel előtti alkalmassági vizsgálat kivételével – a 12. § (1) bekezdés g) pontjában meghatározott és további négy választott gyakorlatot kell végrehajtani. A rendőrség különleges foglalkoztatási állományába történő felvétel előtti alkalmassági vizsgálaton öt választott gyakorlatot kell végrehajtani. Az egyes gyakorlatokért legfeljebb 25 pont, az öt gyakorlat végrehajtása esetén összesen 125 pont adható. Az egyes gyakorlatonként többletpont nem adható. A fizikai (erőnléti) alkalmassági követelmények eredmény pontérték táblázatát a 9. melléklet tartalmazza.
+14. § (1)[^36] A fizikai alkalmassági vizsgálaton – a rendőrség különleges foglalkoztatási állományába történő felvétel előtti alkalmassági vizsgálat kivételével – a 12. § (1) bekezdés g) pontjában meghatározott és további négy választott gyakorlatot kell végrehajtani. A rendőrség különleges foglalkoztatási állományába történő felvétel előtti alkalmassági vizsgálaton öt választott gyakorlatot kell végrehajtani. Az egyes gyakorlatokért legfeljebb 25 pont, az öt gyakorlat végrehajtása esetén összesen 125 pont adható. Az egyes gyakorlatonként többletpont nem adható. A fizikai (erőnléti) alkalmassági követelmények eredmény pontérték táblázatát a 9. melléklet tartalmazza.
 
 (2) Az öt gyakorlat végrehajtásának értékelése korcsoportok figyelembevételével, kategóriánként történik a következők szerint:
 
@@ -34,9 +34,9 @@ cd) 101–125 pont esetén „Kiváló”.
 
 (3) Ha a vizsgálaton résztvevő személy az egyes mozgásformák végrehajtása során elért eredményére figyelemmel kéri, a kérdéses mozgásformát az adott fizikai alkalmassági vizsgálat során megismételheti.
 
-(3a)[^36] A végrehajtott gyakorlatot abban az esetben lehet teljesítettnek tekinteni, ha a vizsgált személy a bemutatott teljesítményével legalább egy pontot elér.
+(3a)[^37] A végrehajtott gyakorlatot abban az esetben lehet teljesítettnek tekinteni, ha a vizsgált személy a bemutatott teljesítményével legalább egy pontot elér.
 
 (4) A fizikai alkalmassági vizsgálat során „Fizikailag alkalmas” minősítést kell adni, ha az öt gyakorlatot a felmérésen résztvevő teljesítette, továbbá a gyakorlatok végrehajtásának eredményeként legalább „Megfelelő” értékelést kapott.
 
-[^35]: A 14. § (1) bekezdése a 67/2011. (XII. 30.) BM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^36]: A 14. § (3a) bekezdését a 67/2011. (XII. 30.) BM rendelet 9. § (2) bekezdése iktatta be.
+[^36]: A 14. § (1) bekezdése a 67/2011. (XII. 30.) BM rendelet 9. § (1) bekezdésével megállapított szöveg.
+[^37]: A 14. § (3a) bekezdését a 67/2011. (XII. 30.) BM rendelet 9. § (2) bekezdése iktatta be.

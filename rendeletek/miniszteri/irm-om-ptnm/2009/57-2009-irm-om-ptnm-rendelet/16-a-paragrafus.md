@@ -1,4 +1,4 @@
-16/A. §[^40] (1) A fizikai alkalmassági vizsgálat alapján az I–III. korcsoportban a minősítés lehet:
+16/A. §[^41] (1) A fizikai alkalmassági vizsgálat alapján az I–III. korcsoportban a minősítés lehet:
 
 a) „Fizikailag kiválóan alkalmas”,
 
@@ -24,7 +24,7 @@ a) a vizsgálaton részt vevő személy a kötelező mozgásformák valamelyiké
 
 b) az összpontszám alapján az (5) bekezdésben meghatározottak szerint „Nem megfelelő” értékelést kap.
 
-(5)[^41] Az összpontszám alapján a fizikai alkalmassági vizsgálat értékelése korcsoportonként történik a következők szerint:
+(5)[^42] Az összpontszám alapján a fizikai alkalmassági vizsgálat értékelése korcsoportonként történik a következők szerint:
 
 a) I. korcsoport:
 
@@ -50,5 +50,5 @@ cb) férfiaknál 50–99, nőknél 40–79 pont esetén „Megfelelő”,
 
 cc) férfiaknál 0–49, nőknél 0–39 pont esetén „Nem megfelelő”.
 
-[^40]: A 16/A. §-t az 56/2012. (XI. 22.) BM rendelet 155. §-a iktatta be.
-[^41]: A 16/A. § (5) bekezdése a 47/2016. (XI. 23.) BM rendelet 1. §-ával megállapított szöveg.
+[^41]: A 16/A. §-t az 56/2012. (XI. 22.) BM rendelet 155. §-a iktatta be.
+[^42]: A 16/A. § (5) bekezdése a 47/2016. (XI. 23.) BM rendelet 1. §-ával megállapított szöveg.

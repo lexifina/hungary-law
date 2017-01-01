@@ -1,4 +1,4 @@
-54. § (1)[^139] A hivatásos állomány tagja szolgálatképtelenségének további meghosszabbítására a betegség hatodik hónapjától csak a HOFB tehet javaslatot. A HOFB országos hatáskörrel – a (2) bekezdésben meghatározott kivétellel –, a felülvizsgáló egység szervezetén belül működik.
+54. § (1)[^140] A hivatásos állomány tagja szolgálatképtelenségének további meghosszabbítására a betegség hatodik hónapjától csak a HOFB tehet javaslatot. A HOFB országos hatáskörrel – a (2) bekezdésben meghatározott kivétellel –, a felülvizsgáló egység szervezetén belül működik.
 
 (2) A polgári nemzetbiztonsági szolgálatoknál a HOFB tagjai a szolgálatok vezető főorvosai.
 
@@ -26,9 +26,9 @@ c) a szolgálatképtelenség meghosszabbítására (az esetleges kórházi, gyó
 
 (5) A HOFB véleményezi a betegség további várható alakulását, a felépülés, illetve a végső fogyatékosság kialakulásának feltételezhető időpontját. A HOFB véleményét írásban megküldi az alapellátó orvos részére.
 
-(6)[^140] Ha a hivatásos állomány tagja 365 napnál hosszabb ideig szolgálatképtelen, a társadalombiztosítási jogszabályoknak megfelelően kell eljárni. A szolgálati baleset vagy betegség miatt a szolgálatképtelenség 365 napon túli meghosszabbítását az illetékes NRSZH kirendeltség véleményezi.
+(6)[^141] Ha a hivatásos állomány tagja 365 napnál hosszabb ideig szolgálatképtelen, a társadalombiztosítási jogszabályoknak megfelelően kell eljárni. A szolgálati baleset vagy betegség miatt a szolgálatképtelenség 365 napon túli meghosszabbítását az illetékes NRSZH kirendeltség véleményezi.
 
 (7) Az egészségügyi szabadság a hivatásos állomány tagjának szolgálatképtelensége esetén a felgyógyulásig, illetve a végső fogyatékosság kialakulásáig, de legfeljebb 365 napig engedélyezhető. Ha a hivatásos állomány tagja a szolgálatképtelensége első napját megelőző 365 napon belül már egészségügyi szabadságban részesült, ennek időtartamát az újabb szolgálatképtelenség miatt engedélyezett egészségügyi szabadság időtartamába be kell számítani.
 
-[^139]: Az 54. § (1) bekezdése a 67/2011. (XII. 30.) BM rendelet 23. § j) pontja szerint módosított szöveg.
-[^140]: A 54. § (6) bekezdése a 67/2011. (XII. 30.) BM rendelet 23. § o) pontja szerint módosított szöveg.
+[^140]: Az 54. § (1) bekezdése a 67/2011. (XII. 30.) BM rendelet 23. § j) pontja szerint módosított szöveg.
+[^141]: A 54. § (6) bekezdése a 67/2011. (XII. 30.) BM rendelet 23. § o) pontja szerint módosított szöveg.

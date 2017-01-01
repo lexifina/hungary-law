@@ -1,4 +1,4 @@
-16. §[^39] (1) A fizikai alkalmasság vizsgálatára szolgáló mozgásformák az I–III. korcsoportban a következők:
+16. §[^40] (1) A fizikai alkalmasság vizsgálatára szolgáló mozgásformák az I–III. korcsoportban a következők:
 
 a) kötelezően végrehajtandó mozgásformák:
 
@@ -64,4 +64,4 @@ c) a 15. § (5) bekezdés b) pontja alapján szerzett többletpontok.
 
 (9) Amennyiben a (8) bekezdésben meghatározott pontértékek között tört számok is szerepelnek, azokat kerekítés nélkül kell összeadni. Amennyiben az összeadást követően tört szám keletkezik, az összpontszámot felfelé kerekítve, egész számban kell megállapítani.
 
-[^39]: A 16. §-t a 67/2011. (XII. 30.) BM rendelet 24. § c) pontja hatályon kívül helyezte, újonnan az 56/2012. (XI. 22.) BM rendelet 155. §-a iktatta be.
+[^40]: A 16. §-t a 67/2011. (XII. 30.) BM rendelet 24. § c) pontja hatályon kívül helyezte, újonnan az 56/2012. (XI. 22.) BM rendelet 155. §-a iktatta be.

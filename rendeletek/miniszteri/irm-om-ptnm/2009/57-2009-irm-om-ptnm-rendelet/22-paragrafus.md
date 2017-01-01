@@ -1,23 +1,23 @@
 ## Az időszakos alkalmassági vizsgálatok
 
-22. § (1)[^65] A szolgálati viszony fennállása alatt a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 106. §-ában meghatározottak szerint az alkalmassági követelményeknek megfelelés rendszeres ellenőrzése érdekében – figyelembe véve a személyek életkori, élettani állapotát – el kell végezni a hivatásos állomány tagja rendszeres időszakos alkalmassági vizsgálatát, ennek keretében
+22. § (1)[^66] A szolgálati viszony fennállása alatt a rendvédelmi feladatokat ellátó szervek hivatásos állományának szolgálati jogviszonyáról szóló 2015. évi XLII. törvény (a továbbiakban: Hszt.) 106. §-ában meghatározottak szerint az alkalmassági követelményeknek megfelelés rendszeres ellenőrzése érdekében – figyelembe véve a személyek életkori, élettani állapotát – el kell végezni a hivatásos állomány tagja rendszeres időszakos alkalmassági vizsgálatát, ennek keretében
 
 a) évenként egészségi alkalmassági,
 
-b)[^66] kétévenként pszichikai alkalmassági,
+b)[^67] kétévenként pszichikai alkalmassági,
 
 c) évenként fizikai alkalmassági
 
 vizsgálatát.
 
-(1a)[^67] A rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv főigazgatója az általa vezetett szervnél az általa meghatározott alkalmassági kategóriákba sorolt szolgálati beosztást betöltő vonatkozásában az időszakos alkalmassági vizsgálatra az (1) bekezdésben meghatározott időszakokat legfeljebb a felére csökkentheti.
+(1a)[^68] A rendőrségről szóló törvényben meghatározott terrorizmust elhárító szerv főigazgatója az általa vezetett szervnél az általa meghatározott alkalmassági kategóriákba sorolt szolgálati beosztást betöltő vonatkozásában az időszakos alkalmassági vizsgálatra az (1) bekezdésben meghatározott időszakokat legfeljebb a felére csökkentheti.
 
-(2)[^68] Ha a hivatásos állomány tagja a Hszt. 86. § (5) bekezdésének alkalmazása során nem hivatásos munkakörben kerül foglalkoztatásra, akkor időszakos alkalmassági vizsgálatát – a nem hivatásos munkakörre tekintettel – a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló a foglalkoztatáspolitikáért felelős miniszter rendeletében foglaltak alapján kell végezni.
+(2)[^69] Ha a hivatásos állomány tagja a Hszt. 86. § (5) bekezdésének alkalmazása során nem hivatásos munkakörben kerül foglalkoztatásra, akkor időszakos alkalmassági vizsgálatát – a nem hivatásos munkakörre tekintettel – a munkaköri, szakmai, illetve személyi higiénés alkalmasság orvosi vizsgálatáról és véleményezéséről szóló a foglalkoztatáspolitikáért felelős miniszter rendeletében foglaltak alapján kell végezni.
 
-(3)[^69] A hivatásos állomány tagja az alkalmassági vizsgálatokon a közvetlen szolgálati elöljáró által meghatározott helyen és időben köteles megjelenni.
+(3)[^70] A hivatásos állomány tagja az alkalmassági vizsgálatokon a közvetlen szolgálati elöljáró által meghatározott helyen és időben köteles megjelenni.
 
-[^65]: A 22. § (1) bekezdés nyitó szövegrésze a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 6. § (2) bekezdése, a 37/2015. (VI. 16.) BM rendelet 43. § (2) bekezdés b) pontja szerint módosított szöveg.
-[^66]: A 22. § (1) bekezdés b) pontja az 56. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
-[^67]: A 22. § (1a) bekezdését a 10/2010. (XII. 22.) BM rendelet 3. §-a iktatta be.
-[^68]: A 22. § új (2) bekezdését a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 3. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatta. A 22. § (2) bekezdése a 76/2015. (XII. 22.) BM rendelet 4. §-a szerint módosított szöveg.
-[^69]: A 22. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 3. §-a.
+[^66]: A 22. § (1) bekezdés nyitó szövegrésze a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 6. § (2) bekezdése, a 37/2015. (VI. 16.) BM rendelet 43. § (2) bekezdés b) pontja szerint módosított szöveg.
+[^67]: A 22. § (1) bekezdés b) pontja az 56. § (2) bekezdése alapján 2010. január 1-jén lép hatályba.
+[^68]: A 22. § (1a) bekezdését a 10/2010. (XII. 22.) BM rendelet 3. §-a iktatta be.
+[^69]: A 22. § új (2) bekezdését a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 3. §-a iktatta be, egyidejűleg az eredeti (2) bekezdés számozását (3) bekezdésre változtatta. A 22. § (2) bekezdése a 76/2015. (XII. 22.) BM rendelet 4. §-a szerint módosított szöveg.
+[^70]: A 22. § eredeti (2) bekezdésének számozását (3) bekezdésre változtatta a 78/2009. (XII. 28.) IRM–ÖM–PTNM együttes rendelet 3. §-a.
