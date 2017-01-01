@@ -4240,4 +4240,4 @@ III. Matematika műveltségi terület
 
 – a képzési idő 10 félév
 
-[^11]: A 3. melléklet a 18/2016. (VIII. 5.) EMMI rendelet 15. § (2) és (3) bekezdése szerint módosított szöveg.
+[^11]: A 3. melléklet a 18/2016. (VIII. 5.) EMMI rendelet 15. § (2) és (3) bekezdése, az 53/2016. (XII. 29.) EMMI rendelet 19. § (2) bekezdése szerint módosított szöveg.

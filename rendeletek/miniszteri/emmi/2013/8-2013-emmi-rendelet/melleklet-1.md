@@ -60,7 +60,7 @@ a) az általános iskolai tanári szakképzettséget követően, ugyanazon a sza
 
 b) a felsőoktatásról szóló 1993. évi LXXX. törvény (a továbbiakban: az 1993. évi felsőoktatási törvény) szerinti főiskolai szintű tanári szakképzettséget követően, ugyanazon a szakterületen a középiskolai tanári szakképzettség megszerzésére irányuló képzésben egy szakon 2 félév, 60 kredit, két szakon 4 félév, 120 kredit;
 
-c) az 1993. évi felsőoktatási törvény szerinti egyetemi szintű vagy főiskolai szintű, illetve a mesterfokozatú tanári szakképzettséget követően, újabb tanári szakképzettség megszerzésére irányuló képzésben legfeljebb 4 félév, 120 kredit;
+c) az 1993. évi felsőoktatási törvény szerinti egyetemi szintű vagy főiskolai szintű, illetve a mesterfokozatú tanári szakképzettséget követően, újabb tanári szakképzettség megszerzésére irányuló képzésben 4 félév, 120 kredit;
 
 d) tanító szakképzettség birtokában, ha a tanári szakképzettség szakterületi ismerete 100 kredit, akkor 4 félév 120 kredit, ha a tanári szakképzettség szakterületi ismerete 130 kredit, akkor a képzési idő 5 félév, 150 kredit;
 
@@ -112,9 +112,9 @@ b) az 1993. évi felsőoktatási törvény szerinti egyetemi szintű vagy főisk
 
 c) tanító szakképzettség birtokában:
 
-ca) 120 kredites képzésben a szakterületi elem legfeljebb 90 kredit, a tanári felkészítés 30 kredit, amelyből a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeret 6 kredit, a vezetőpedagógus (vezető tanár) irányításával végzett iskolai tanítási gyakorlat 2 kredit, az összefüggő egyéni iskolai gyakorlathoz közvetlenül kapcsolódó feladatok kreditértéke 2 kredit, az összefüggő egyéni iskolai gyakorlat 20 kredit a portfólió kreditértékével (2 kredit), amely a záróvizsga szakdolgozati eleme;
+ca) 120 kredites képzésben a szakterületi elem 90 kredit, a tanári felkészítés 30 kredit, amelyből a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeret 6 kredit, a vezetőpedagógus (vezető tanár) irányításával végzett iskolai tanítási gyakorlat 2 kredit, az összefüggő egyéni iskolai gyakorlathoz közvetlenül kapcsolódó feladatok kreditértéke 2 kredit, az összefüggő egyéni iskolai gyakorlat 20 kredit a portfólió kreditértékével (2 kredit), amely a záróvizsga szakdolgozati eleme;
 
-cb) 150 kredites képzésben a szakterületi elem legfeljebb 120 kredit, a tanári felkészítés legfeljebb 30 kredit, amelyből a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeret 6 kredit, a vezetőpedagógus (vezető tanár) irányításával végzett iskolai tanítási gyakorlat 2 kredit, az összefüggő egyéni iskolai gyakorlathoz közvetlenül kapcsolódó feladatok kreditértéke 2 kredit, az összefüggő egyéni iskolai gyakorlat 20 kredit a portfólió kreditértékével (2 kredit), amely a záróvizsga szakdolgozati eleme;
+cb) 150 kredites képzésben a szakterületi elem 120 kredit, a tanári felkészítés 30 kredit, amelyből a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeret 6 kredit, a vezetőpedagógus (vezető tanár) irányításával végzett iskolai tanítási gyakorlat 2 kredit, az összefüggő egyéni iskolai gyakorlathoz közvetlenül kapcsolódó feladatok kreditértéke 2 kredit, az összefüggő egyéni iskolai gyakorlat 20 kredit a portfólió kreditértékével (2 kredit), amely a záróvizsga szakdolgozati eleme;
 
 d) szakoktató szakképzettség birtokában, 120 kredites képzésben a szakterületi elem 50 kredit, a tanári felkészítés 70 kredit, amelyből a szakmódszertani (diszciplináris, interdiszciplináris tantárgy-pedagógiai) ismeret 15 kredit, a vezetőpedagógus (vezető tanár) irányításával végzett iskolai tanítási gyakorlat 2 kredit, az összefüggő egyéni iskolai gyakorlat 20 kredit, a portfólió kreditértéke 2 kredit, amely a záróvizsga szakdolgozati eleme.
 
@@ -158,4 +158,4 @@ A mesterfokozat megszerzéséhez az Európai Unió és az Egyesült Nemzetek Sze
 
 6.3. Az 1. § b)–d) pontja szerinti tanári mesterszakokon a 4.5. pont tekintetében a portfólió neveléstudományi szempontú, tudományos alaposságú bemutatása, elemzése, értékelése a tanári képesítés szempontjából meghatározó tapasztalatok rendszerezett összegzése a záróvizsga szakdolgozati eleme.
 
-[^10]: Az 1. melléklet a 18/2016. (VIII. 5.) EMMI rendelet 15. § (1) bekezdése szerint módosított szöveg.
+[^10]: Az 1. melléklet a 18/2016. (VIII. 5.) EMMI rendelet 15. § (1) bekezdése, az 53/2016. (XII. 29.) EMMI rendelet 19. § (1) bekezdése szerint módosított szöveg.
