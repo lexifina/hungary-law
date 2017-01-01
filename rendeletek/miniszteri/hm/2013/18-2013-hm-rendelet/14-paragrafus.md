@@ -6,7 +6,7 @@ b) a 48–53. § és az 54. § (1) bekezdés b) pontja szerinti juttatásokra,
 
 c) magyarországi kiküldetése esetén, a Magyarországon töltött időre – a belföldi napidíj kivételével – a belföldi szolgálati kiküldetésre vonatkozó szabályok szerinti juttatásokra, és
 
-d) ha a kiküldetés alatt az étkezést meghatározott helyen, a gyakorlat jóváhagyott tervezési okmányában előírt kötelező módon kell igénybe venni, az engedélyező elöljáró javaslata alapján étkezési költségeinek megtérítésére
+d)[^36] ha a kiküldetés alatt az étkezést meghatározott helyen, a gyakorlat jóváhagyott tervezési okmányában előírt kötelező módon kell igénybe venni, az engedélyező elöljáró engedélye alapján étkezési költségeinek megtérítésére
 
 ## jogosult.
 
@@ -17,3 +17,5 @@ d) ha a kiküldetés alatt az étkezést meghatározott helyen, a gyakorlat jóv
 a) a külszolgálati ellátmányra jogosító feltételek változatlansága esetén az eredeti állomáshely szerinti beosztása alapján megállapított, változatlan összegű külszolgálati ellátmányra és
 
 b) a vezénylés időtartamától függetlenül a béketámogató műveletben betöltött beosztása alapulvételével a 37. § (3) és (4) bekezdése, valamint a 42. és a 43. § szerinti juttatásokra
+
+[^36]: A 14. § (1) bekezdés d) pontja a 25/2016. (XII. 22.) HM rendelet 76. § c) pontja szerint módosított szöveg.

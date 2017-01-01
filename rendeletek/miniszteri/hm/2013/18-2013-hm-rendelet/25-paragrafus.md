@@ -16,15 +16,15 @@ a) a megfelelő oktatási intézmény képzési nyelve eltér a gyermek korábbi
 
 b) a külföldi szolgálat ideje alatt, nem a kiküldött saját elhatározásán alapuló iskolaváltás esetén a megfelelő oktatási intézmény képzési nyelve eltér a gyermek által az állomáshelyen addig látogatott intézmény képzési nyelvétől,
 
-c) a KNBSZ szakvéleménye alapján a megfelelő oktatási intézmény nem felel meg az állomáshely szerinti országban a diplomaták számára ajánlott biztonsági követelményeknek,
+c)[^59] a KNBSZ szakvéleménye alapján a megfelelő oktatási intézmény nem felel meg az állomáshely szerinti országban a kiküldöttek számára ajánlott biztonsági követelményeknek,
 
 d) a megfelelő oktatási intézmény megközelítésére fordított utazási idő összességében a napi 3 órát meghaladja, vagy
 
 e) a gyermek fogyatékos vagy tartósan beteg, amely miatt különleges odafigyelést, speciális gondoskodást igényel.
 
-(3)[^48] A kiküldött kérelmét a szolgálati elöljáróhoz nyújthatja be.
+(3)[^60] A kiküldött kérelmét a szolgálati elöljáróhoz nyújthatja be.
 
-(4)[^49] A tandíjköltséghez történő hozzájárulásról mérlegelési jogkörben – a kiküldött külszolgálati ellátmánya összegének, valamint a szociális és a gazdaságossági szempontok figyelembevételével – a HM közigazgatási államtitkára, a 2. § (2) bekezdés a) pontja szerinti kiküldöttek esetén a KNBSZ főigazgatója dönt. A tandíjköltséghez történő hozzájárulásra vonatkozó engedély a feltételek változatlansága esetén a külföldi szolgálat teljes időtartamára szól.
+(4)[^61] A tandíjköltséghez történő hozzájárulásról mérlegelési jogkörben – a kiküldött külszolgálati ellátmánya összegének, valamint a szociális és a gazdaságossági szempontok figyelembevételével – a HM közigazgatási államtitkára, a 2. § (2) bekezdés a) pontja szerinti kiküldöttek esetén a KNBSZ főigazgatója dönt. A tandíjköltséghez történő hozzájárulásra vonatkozó engedély a feltételek változatlansága esetén a külföldi szolgálat teljes időtartamára szól.
 
 (5) A tandíjköltséghez történő hozzájárulás mértékét a 4. melléklet határozza meg. A tandíjköltséghez történő hozzájárulás mértékének megállapítása során
 
@@ -36,13 +36,14 @@ c) a családi ellátmánypótlékra jogosító gyermekek számának megállapít
 
 (6) A tandíjköltség tandíjköltség-hozzájáruláson felüli része (a továbbiakban: önerő) a kiküldöttet terheli.
 
-(7)[^50] Ha a kiküldött összes családi ellátmánypótlékra jogosító gyermeke után fizetendő önerő összege meghaladja a kiküldött (3) bekezdés szerinti kérelme benyújtásakor érvényes külszolgálati ellátmánya havi nettó összege 12-szeresének 30%-át, az önerő e feletti részével a Honvédség a 4. melléklet szerinti összeget kiegészíti.
+(7)[^62] Ha a kiküldött összes családi ellátmánypótlékra jogosító gyermeke után fizetendő önerő összege meghaladja a kiküldött (3) bekezdés szerinti kérelme benyújtásakor érvényes külszolgálati ellátmánya havi nettó összege 12-szeresének 30%-át, az önerő e feletti részével a Honvédség a 4. melléklet szerinti összeget kiegészíti.
 
-(8)[^51] Az ugyanazon állomáshelyen külföldi szolgálatot teljesítő házastársak külszolgálati ellátmányát együttesen kell figyelembe venni.
+(8)[^63] Az ugyanazon állomáshelyen külföldi szolgálatot teljesítő házastársak külszolgálati ellátmányát együttesen kell figyelembe venni.
 
 (9) A tandíjköltséghez történő hozzájárulás összegét családi ellátmánypótlékra jogosító gyermekenként EUR-ban kell megállapítani, és folyósítani. Az EUR-tól eltérő pénznemben felmerülő tandíjköltség esetén annak összegét a (3) bekezdés szerinti kérelem benyújtását megelőző hónap 15. napján érvényes MNB devizaárfolyamon kell átszámítani.
 
-[^48]: A 25. § (3) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § d) pontja szerint módosított szöveg.
-[^49]: A 25. § (4) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § f) pontja szerint módosított szöveg.
-[^50]: A 25. § (7) bekezdése a 9/2014. (IV. 30.) HM rendelet 8. § i) pontja szerint módosított szöveg.
-[^51]: A 25. § (8) bekezdése a 9/2014. (IV. 30.) HM rendelet 8. § j) pontja szerint módosított szöveg.
+[^59]: A 25. § (2) bekezdés c) pontja a 25/2016. (XII. 22.) HM rendelet 76. § e) pontja szerint módosított szöveg.
+[^60]: A 25. § (3) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § d) pontja szerint módosított szöveg.
+[^61]: A 25. § (4) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § f) pontja szerint módosított szöveg.
+[^62]: A 25. § (7) bekezdése a 9/2014. (IV. 30.) HM rendelet 8. § i) pontja szerint módosított szöveg.
+[^63]: A 25. § (8) bekezdése a 9/2014. (IV. 30.) HM rendelet 8. § j) pontja szerint módosított szöveg.

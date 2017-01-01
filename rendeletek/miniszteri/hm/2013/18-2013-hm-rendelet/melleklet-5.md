@@ -12,6 +12,6 @@
 
 | 5. | 20.000 EUR felett | 8.500 EUR | 8.500 EUR | 10.500 EUR | 8.500 EUR | 10.500 EUR | 12.500 EUR | 16.000 EUR |
 
-5. melléklet a 18/2013. (IX. 5.) HM rendelethez[^105]
+5. melléklet a 18/2013. (IX. 5.) HM rendelethez[^126]
 
-[^105]: Az 5. melléklet a 6/2015. (VI. 22.) HM rendelet 4. § c) pontja szerint módosított szöveg.
+[^126]: Az 5. melléklet a 6/2015. (VI. 22.) HM rendelet 4. § c) pontja szerint módosított szöveg.

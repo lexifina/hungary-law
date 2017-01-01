@@ -56,7 +56,7 @@
 
 (2)[^15] Engedélyező elöljáró
 
-a) a KNBSZ főigazgatója a Magyarország külképviseletein működő véderő-, katonai és légügyi attaséhivatalok állományában, az Észak-atlanti Szerződés Szervezeténél (a továbbiakban: NATO) biztonságvédelmi főtiszti beosztásban, valamint a Hjt. 196. § (2) bekezdése szerint fedőbeosztásban külföldi szolgálatot teljesítő kiküldöttek esetén,
+a)[^16] a KNBSZ főigazgatója a HM rendelet1 185. § e) pontja szerinti, valamint a Hjt. 196. § (2) bekezdése szerinti fedőbeosztásban külföldi szolgálatot teljesítő kiküldöttek esetén,
 
 b) a miniszter által az adott műveleti típushoz igazodóan a művelet irányítási feladatainak ellátására kijelölt honvédelmi szervezet vezetője a HM rendelet1 1. § 2. pontja szerinti béketámogató műveletben (a továbbiakban: béketámogató művelet) részt vevők, a HM rendelet1 1. § 8. pontja szerinti katonai megfigyelők (a továbbiakban: katonai megfigyelő), a NATO Reagáló Erők (a továbbiakban: NRF), az Európai Unió Harccsoportja (a továbbiakban: EU BG) kötelékébe, valamint az azokhoz hasonló funkciójú, valamely nemzetközi szervezetnek felajánlott egység, alegység állományában külföldi szolgálatot teljesítő kiküldöttek esetén,
 
@@ -66,7 +66,7 @@ d) a tartós külföldi képzésre vezénylésre hatáskörrel rendelkező vezet
 
 e) az állományilletékes parancsnok a Hjt. 46. § (1) bekezdés a) pontja szerinti rendelkezési állományba tartozó, valamint a HM rendelet1 1. § 10. pont o) alpontja szerint külföldi szolgálatot teljesítő kiküldöttek esetén, és
 
-f) a 8. mellékletben meghatározott vezető
+f)[^17] az a) pont szerinti eset kivételével a 8. mellékletben meghatározott vezető
 
 fa) a NATO, valamint az Európai Unió (a továbbiakban: EU) hivatalainál, ügynökségeinél, parancsnokságain és törzseiben a Magyarország részére biztosított beosztást betöltő kiküldöttek esetén,
 
@@ -80,25 +80,25 @@ fe) az egyéb, nem műveleti területen elhelyezkedő nemzetközi katonai paranc
 
 ff) a Magyarország önálló külföldi képviseleteinél és külföldön működő nemzeti szervezeteinél beosztást betöltő kiküldöttek esetén.
 
-(3) Illetékes logisztikai ellátó szerv
+(3)[^18] Illetékes logisztikai ellátó szerv
 
-a) a Honvédség középszintű vezető szervének alárendelt, e tevékenység tekintetében feladat- és hatáskörrel rendelkező honvédelmi szervezet a (2) bekezdés a)–e) és g)–i) pontja szerinti kiküldöttek esetén, és
+a) a Honvédség más magasabb szintű parancsnokságának alárendelt, e tevékenység tekintetében feladat- és hatáskörrel rendelkező honvédelmi szervezet a (2) bekezdés d) és f) pontja szerinti kiküldöttek esetén,
 
-b)[^16] a KNBSZ e tevékenység tekintetében feladat- és hatáskörrel rendelkező szervezeti egysége a (2) bekezdés a) pontja szerinti kiküldöttek esetén.
+b) a KNBSZ e tevékenység tekintetében feladat- és hatáskörrel rendelkező szervezeti egysége a (2) bekezdés a) pontja szerinti kiküldöttek esetén, és
 
-(4) Illetékes pénzügyi ellátó szerv
+c) a Honvédség középszintű vezető szervének alárendelt, e tevékenység tekintetében feladat- és hatáskörrel rendelkező honvédelmi szervezet a (2) bekezdés b), c) és e) pontja szerinti kiküldöttek esetén.
 
-a) a Honvédség pénzügyi feladatokat ellátó központi szervezete a (2) bekezdés a)–e) pontja szerinti tartós külföldi szolgálatot teljesítő kiküldöttek esetén,
+(4)[^19] Illetékes pénzügyi ellátó szerv
 
-b)[^17] a KNBSZ e tevékenység tekintetében feladat- és hatáskörrel rendelkező szervezeti egysége a (2) bekezdés a) pontja szerinti kiküldöttek esetén,
+a) a Honvédség pénzügyi feladatokat ellátó központi szervezete a (2) bekezdés d)–f) pontja szerinti kiküldöttek esetén,
 
-c) a Honvédség pénzügyi feladatokat ellátó központi szervezetének vezetője által az adott művelet vonatkozásában külön intézkedésben kijelölt pénzügyi és számviteli szervezet vagy szervezeti elem – időtartamtól függetlenül – a béketámogató műveletekben részt vevők és a (2) bekezdés g) pontja szerinti tartós külföldi szolgálatot teljesítő kiküldöttek esetén,
+b) a KNBSZ e tevékenység tekintetében feladat- és hatáskörrel rendelkező szervezeti egysége a (2) bekezdés a) pontja szerinti kiküldöttek esetén,
 
-d) a Honvédség pénzügyi feladatokat ellátó központi szervezetének vezetője által külön intézkedésben meghatározott pénzügyi és számviteli szervezet vagy szervezeti elem a (2) bekezdés h) pontja szerinti kiküldöttek esetén, és
+c) a Honvédség pénzügyi feladatokat ellátó központi szervezetének vezetője által az adott művelet vonatkozásában külön intézkedésben kijelölt pénzügyi és számviteli szervezet vagy szervezeti elem – időtartamtól függetlenül – a béketámogató műveletekben részt vevők és a (2) bekezdés b) pontja szerinti tartós külföldi szolgálatot teljesítő kiküldöttek esetén, és
 
-e) a Honvédség pénzügyi feladatokat ellátó központi szervezete a (2) bekezdés i) pontja szerinti kiküldöttek esetén.
+d) a HM védelemgazdaságért felelős helyettes államtitkárának a honvédelmi szervezetek pénzügyi és számviteli ellátási-utaltsági rendjéről szóló szakutasításában meghatározott pénzügyi és számviteli szervezet vagy szervezeti elem a (2) bekezdés c) pontja szerinti kiküldöttek esetén.
 
-(5)[^18] A felszámítási alap összege 38 650 Ft.
+(5)[^20] A felszámítási alap összege 38 650 Ft.
 
 [^7]: A 2. § (1) bekezdés 3. pontja a 9/2014. (IV. 30.) HM rendelet 8. § c) pontja szerint módosított szöveg.
 [^8]: A 2. § (1) bekezdés 4. pontja a 9/2015. (VII. 13.) HM rendelet 17. § a) pontja szerint módosított szöveg.
@@ -109,6 +109,8 @@ e) a Honvédség pénzügyi feladatokat ellátó központi szervezete a (2) beke
 [^13]: A 2. § (1) bekezdés 17. pontja a 17/2014. (XII. 17.) HM rendelet 9. § a) pontja szerint módosított szöveg.
 [^14]: A 2. § (1) bekezdés 18. pontja a 9/2015. (VII. 13.) HM rendelet 17. § b) pontja szerint módosított szöveg.
 [^15]: A 2. § (2) bekezdése a 9/2015. (VII. 13.) HM rendelet 2. §-ával megállapított szöveg.
-[^16]: A 2. § (3) bekezdés b) pontja a 9/2015. (VII. 13.) HM rendelet 17. § f) pontja szerint módosított szöveg.
-[^17]: A 2. § (4) bekezdés b) pontja a 9/2015. (VII. 13.) HM rendelet 17. § f) pontja szerint módosított szöveg.
-[^18]: A 2. § (5) bekezdését a 6/2015. (VI. 22.) HM rendelet 3. § (2) bekezdése iktatta be.
+[^16]: A 2. § (2) bekezdés a) pontja a 25/2016. (XII. 22.) HM rendelet 63. § (1) bekezdésével megállapított szöveg.
+[^17]: A 2. § (2) bekezdés f) pont nyitó szövegrésze a 25/2016. (XII. 22.) HM rendelet 76. § a) pontjával megállapított szöveg.
+[^18]: A 2. § (3) bekezdése a 25/2016. (XII. 22.) HM rendelet 63. § (2) bekezdésével megállapított szöveg.
+[^19]: A 2. § (4) bekezdése a 25/2016. (XII. 22.) HM rendelet 63. § (2) bekezdésével megállapított szöveg.
+[^20]: A 2. § (5) bekezdését a 6/2015. (VI. 22.) HM rendelet 3. § (2) bekezdése iktatta be.

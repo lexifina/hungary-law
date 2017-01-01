@@ -1,34 +1,38 @@
-22. § (1) A Honvédség viseli
+22. § (1)[^48] A Honvédség viseli
 
-a) a lakóingatlan és az ahhoz tartozó garázs bérleti díját legfeljebb a 21. § (3) bekezdés szerinti lakásbérleti díj mértékéig,
+a) a lakóingatlan és az ahhoz tartozó garázs bérleti díját legfeljebb a 21. § (3) és (4) bekezdése szerinti lakásbérleti díj mértékéig,
 
-b) a lakóingatlanban elhelyezett honvédségi tulajdonú berendezési tárgyak biztosítási díját azzal, hogy, ha a lakóingatlanra, valamint annak berendezési tárgyaira kötött biztosítási szerződésben nem különülnek el a honvédségi és a kiküldött tulajdonát képező vagyontárgyak biztosítási összegei, a biztosítási díj megtérítése során csak a honvédségi tulajdonú tárgyakra eső, arányosan megállapított rész számolható el,
+b) a bérleti szerződés megkötéséhez kapcsolódó ügynöki, szakértői díjak költségét,
 
-c) a garázs biztosítási díját,
+c) az ideiglenes elhelyezés költségeit, ideértve a szállásköltség részét képező, a számlán elkülönítve fel nem tüntetett kötelező reggeli árát, azonban ide nem értve a mosatás, valamint egyéb kiegészítő szolgáltatások – így különösen a minibár – igénybevételéből eredő költségeket, és
 
-d) a lakóingatlan és a garázs bérlésével összefüggésben kifizetett letét összegét,
+d) lakásberendezés helyszíni bérlete esetén a be- és kiköltözéskor a lakásberendezés egyszeri össze- és szétszerelésének, továbbá a lakásberendezés egyszeri ki- és elszállításának számlával igazolt költségét.
 
-e) a bérleti szerződés megkötéséhez kapcsolódó ügynöki, szakértői díjak költségét,
+(1a)[^49] A Honvédség megtéríti
 
-f)[^41] a technikai biztosítás költségét, ha a kiküldött és a családi ellátmánypótlékra jogosító hozzátartozói személyi biztonsága érdekében annak szükségességéről az illetékes logisztikai ellátó szerv javaslata alapján a HM közigazgatási államtitkára, a 2. § (2) bekezdés a) pontja szerinti kiküldöttek esetében a KNBSZ főigazgatója dönt,
+a) a lakóingatlanban elhelyezett honvédségi tulajdonú berendezési tárgyak biztosítási díját azzal, hogy, ha a lakóingatlanra, valamint annak berendezési tárgyaira kötött biztosítási szerződésben nem különülnek el a honvédségi és a kiküldött tulajdonát képező vagyontárgyak biztosítási összegei, a biztosítási díj megtérítése során csak a honvédségi tulajdonú tárgyakra eső, arányosan megállapított rész számolható el,
 
-g) a közüzemi szolgáltatások felhasznált mennyiségének mérésére szolgáló mérőkészülékek beszerelésének, cseréjének költségét,
+b) a lakóingatlan és a garázs biztosítási díját,
 
-h) a kiküldött szolgálati célú telefonbeszélgetéseinek részletes számlával igazolt költségét,
+c) a technikai biztosítás költségét, ha a kiküldött és a családi ellátmánypótlékra jogosító hozzátartozói személyi biztonsága érdekében annak szükségességéről az illetékes logisztikai ellátó szerv javaslata alapján a HM közigazgatási államtitkára, a 2. § (2) bekezdés a) pontja szerinti kiküldöttek esetében a KNBSZ főigazgatója dönt,
 
-i) a katonadiplomáciai tevékenységet végző kiküldöttek esetén a vezetékes telefon bekötésének díját, továbbá a telefonállomás- és az internethasználat alapdíját, ha azt az engedélyező elöljáró döntése szerint szolgálati érdek indokolja,
+d) a közüzemi szolgáltatások felhasznált mennyiségének mérésére szolgáló mérőkészülékek beszerelésének, cseréjének költségét,
 
-j)[^42] a HM rendelet1 1. § 10. pont g) alpontja szerinti külföldi szolgálat esetén az attasé beosztást betöltő kiküldött részére a közüzemi szolgáltatások díjának azt a részét, amelynek havi együttes összege meghaladja a kiküldött havi nettó külszolgálati ellátmányának 7%-át,
+e) a kiküldött szolgálati célú telefonbeszélgetéseinek részletes számlával igazolt költségét,
 
-k)[^43] az ideiglenes elhelyezés költségeit, ideértve a szállásköltség részét képező, a számlán elkülönítve fel nem tüntetett kötelező reggeli árát, azonban ide nem értve a mosatás, valamint egyéb kiegészítő szolgáltatások – különösen a minibár – igénybevételéből eredő költségeket,
+f) a HM rendelet1 185. § e) pontja szerinti, valamint a Hjt. 196. § (2) bekezdése szerinti fedőbeosztásban külföldi szolgálatot teljesítő kiküldöttek esetén a vezetékes telefon bekötésének, valamint a kommunikációs szolgáltatások díját – ideértve a telefonállomás- és az internethasználat alapdíját –, ha azt az engedélyező elöljáró döntése szerint szolgálati érdek indokolja,
 
-l)[^44] az MH Katonai Képviselő Hivatala (a továbbiakban: MH KKH) katonai képviselője, az MH Nemzeti Katonai Képviselet (a továbbiakban: MH NKK) katonai képviselője, az MH Nemzeti Összekötő Képviselet (a továbbiakban: MH NÖK) képviseletvezetője, a Magyarország Állandó NATO Képviselet, Védelempolitikai Részleg (a továbbiakban: MÁNK VPR) képviseletvezetője, valamint a Magyarország Állandó EBESZ Képviselet, Katonai Képviselet (a továbbiakban: MÁEK KK) képviseletvezetője esetén a közüzemi szolgáltatások éves díjának a kiküldött tárgyévi nettó külszolgálati ellátmánya 7%-át meghaladó részének 50%-át, és
+g) a HM rendelet1 185. § e) pontja szerinti, valamint a Hjt. 196. § (2) bekezdése szerinti fedőbeosztásban külföldi szolgálatot teljesítő kiküldöttek részére a közüzemi szolgáltatások díjának azt a részét, amelynek havi együttes összege meghaladja a kiküldött havi nettó külszolgálati ellátmányának 7%-át, ha azt az engedélyező elöljáró döntése szerint szolgálati érdek indokolja,
 
-m)[^45] lakásberendezés helyszíni bérlete esetén a be- és kiköltözéskor a lakásberendezés egyszeri össze- és szétszerelésének, továbbá a lakásberendezés egyszeri ki- és elszállításának számlával igazolt költségét.
+h) az MH Katonai Képviselő Hivatala (a továbbiakban: MH KKH) katonai képviselője, az MH Nemzeti Katonai Képviselet (a továbbiakban: MH NKK) katonai képviselője, az MH Nemzeti Összekötő Képviselet (a továbbiakban: MH NÖK) képviseletvezetője, a Magyarország Állandó NATO Képviselet, Védelempolitikai Részleg (a továbbiakban: MÁNK VPR) képviseletvezetője, valamint a Magyarország Állandó EBESZ Képviselet, Katonai Képviselet (a továbbiakban: MÁEK KK) képviseletvezetője esetén a közüzemi szolgáltatások éves díjának a kiküldött tárgyévi nettó külszolgálati ellátmánya 7%-át meghaladó részének 50%-át, és
+
+i) a h) pont szerinti kiküldöttek részére a kertészeti – ideértve a kertrendezés, kertgondozás céljából igénybe vett – szolgáltatás költségét.
+
+(1b)[^50] A Honvédség megfizeti a kiküldött részére a lakóingatlan és a garázs bérlésével összefüggésben felmerült letét összegét.
 
 (2) A kiküldött
 
-a) a Honvédség részére a lakóingatlan és a garázs bérletének megszűnésekor köteles az (1) bekezdés d) pontja szerinti letét összegét 15 munkanapon belül visszafizetni,
+a)[^51] a Honvédség részére köteles az (1b) bekezdés szerinti letét összegét a bérleti szerződés megszűnését követő 60 napon belül visszafizetni,
 
 b) a bérbeadó által kötött lakásbiztosítás hiányában köteles biztosítást kötni a honvédségi tulajdonúnak tekintett lakásberendezési tárgyakra,
 
@@ -44,11 +48,16 @@ a) a bérbeadó tulajdonát képezik, de a bérlés ideje alatt azokat a lakóin
 
 b) külön szolgáltatótól kerülnek bérlésre, és a bérlés díja a biztosítási díjat nem tartalmazza.
 
-(4)[^46] A 2. § (2) bekezdés a) pontja szerinti kiküldöttek tekintetében a 20. és a 21. §-ban foglalt eljárásrendet a KNBSZ főigazgatója intézkedésben határozza meg.
+(4)[^52] A 2. § (2) bekezdés a) pontja szerinti kiküldöttek tekintetében a 20. és a 21. §-ban, valamint a 22. § (1)–(3), (5) és (6) bekezdésében foglaltakhoz kapcsolódó eljárásrendet a KNBSZ főigazgatója intézkedésben határozza meg.
 
-[^41]: A 22. § (1) bekezdés f) pontja a 9/2015. (VII. 13.) HM rendelet 17. § f) pontja szerint módosított szöveg.
-[^42]: A 22. § (1) bekezdés j) pontja a 17/2014. (XII. 17.) HM rendelet 9. § f) pontja szerint módosított szöveg.
-[^43]: A 22. § (1) bekezdés k) pontja a 16/2016. (VIII. 31.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^44]: A 22. § (1) bekezdés l) pontját a 17/2014. (XII. 17.) HM rendelet 3. §-a iktatta be, szövege a 16/2016. (VIII. 31.) HM rendelet 9. § (1) bekezdésével megállapított szöveg.
-[^45]: A 22. § (1) bekezdés m) pontját a 16/2016. (VIII. 31.) HM rendelet 9. § (2) bekezdése iktatta be.
-[^46]: A 22. § (4) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § f) pontja szerint módosított szöveg.
+(5)[^53] A bérleti szerződésben meghatározott, de legfeljebb az (1) bekezdés a) pontja szerinti mértékű bérleti díjnak megfelelő összeg a kiküldött részére a tárgyhónapot megelőzően kiutalásra kerül.
+
+(6)[^54] A kiküldött köteles a bérbeadó javára az (5) bekezdés szerinti összeg terhére kifizetett bérleti díj rendezését igazoló átutalási megbízás vagy átvételi elismervény másolatát utólag – az illetékes logisztikai ellátó szerv által belső rendelkezésben meghatározott rendszerességgel és határidőig – az illetékes logisztikai ellátó szerv részére megküldeni, valamint az (5) bekezdés szerinti összeg fel nem használt részét a Honvédségnek visszafizetni.
+
+[^48]: A 22. § (1) bekezdése a 25/2016. (XII. 22.) HM rendelet 67. § (1) bekezdésével megállapított szöveg.
+[^49]: A 22. § (1a) bekezdését a 25/2016. (XII. 22.) HM rendelet 67. § (2) bekezdése iktatta be.
+[^50]: A 22. § (1b) bekezdését a 25/2016. (XII. 22.) HM rendelet 67. § (2) bekezdése iktatta be.
+[^51]: A 22. § (2) bekezdés a) pontja a 25/2016. (XII. 22.) HM rendelet 67. § (3) bekezdésével megállapított szöveg.
+[^52]: A 22. § (4) bekezdése a 9/2015. (VII. 13.) HM rendelet 17. § f) pontja, a 25/2016. (XII. 22.) HM rendelet 76. § d) pontja szerint módosított szöveg.
+[^53]: A 22. § (5) bekezdését a 25/2016. (XII. 22.) HM rendelet 67. § (4) bekezdése iktatta be.
+[^54]: A 22. § (6) bekezdését a 25/2016. (XII. 22.) HM rendelet 67. § (4) bekezdése iktatta be.

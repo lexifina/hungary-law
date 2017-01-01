@@ -12,6 +12,6 @@
 
 | 5. | altiszti és legénységi állománycsoport | 10,0 USD | 39,0 USD | 30,0 USD |
 
-7. melléklet a 18/2013. (IX. 5.) HM rendelethez[^107]
+7. melléklet a 18/2013. (IX. 5.) HM rendelethez[^128]
 
-[^107]: A 7. melléklet a 9/2015. (VII. 13.) HM rendelet 18. § (3) bekezdésével megállapított szöveg.
+[^128]: A 7. melléklet a 9/2015. (VII. 13.) HM rendelet 18. § (3) bekezdésével megállapított szöveg.

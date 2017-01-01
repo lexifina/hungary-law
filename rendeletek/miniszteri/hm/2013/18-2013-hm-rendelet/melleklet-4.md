@@ -74,6 +74,6 @@
 
 | 36. | Vietnam | EUR | 68 |
 
-4. melléklet a 18/2013. (IX. 5.) HM rendelethez[^104]
+4. melléklet a 18/2013. (IX. 5.) HM rendelethez[^125]
 
-[^104]: A 4. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (4) bekezdésével megállapított szöveg.
+[^125]: A 4. melléklet a 9/2014. (IV. 30.) HM rendelet 9. § (4) bekezdésével megállapított szöveg.
