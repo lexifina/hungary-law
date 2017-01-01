@@ -148,7 +148,7 @@ l) egyéb fűthető helyiség, ide nem értve a gépjárműtárolót és a pince
 
 22.[^18] lakás: az OTÉK rendelkezéseinek megfelelő, az ingatlan-nyilvántartásban lakóház vagy lakás megnevezéssel nyilvántartott vagy – új lakás építése esetén – ilyenként feltüntetésre váró ingatlan a hozzá tartozó földrészlettel;
 
-23.[^19] kormányhivatal: amennyiben e rendelet eltérően nem rendelkezik, a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakás fekvése szerint illetékes megyei kormányhivatal, Pest megye vagy a főváros területén fekvő támogatott ingatlan esetén Budapest Főváros Kormányhivatala.
+23.[^19] járási hivatal: a lakáscélú állami támogatásokkal kapcsolatos feladatkörében eljárva a támogatott lakás fekvése szerint illetékes megyei kormányhivatal megyeszékhely szerinti járási hivatala, Pest megye és a főváros területén fekvő támogatott lakás esetén Budapest Főváros Kormányhivatala XIII. Kerületi Hivatala;
 
 24.[^20] összkomfortos lakás: az a lakás, amely legalább
 
@@ -164,7 +164,7 @@ e) központi fűtési móddal
 
 rendelkezik;
 
-25.[^21] építési engedély: új lakás építése esetén az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) szerinti építési engedély vagy az építési hatóság által kiállított dokumentum arról, hogy az egyszerű bejelentéshez kötött építési tevékenység bejelentése megtörtént, valamint építési engedélyköteles bővítés esetén az építési engedély;
+25.[^21] építési engedély: az épített környezet alakításáról és védelméről szóló 1997. évi LXXVIII. törvény (a továbbiakban: Étv.) szerinti építési engedély vagy a lakóépület építésének egyszerű bejelentéséről szóló 155/2016. (VI. 13.) Korm. rendelet [a továbbiakban: 155/2016. (VI. 13.) Korm. rendelet] 1. § (2) bekezdése szerinti visszaigazolás;
 
 26.[^22] használatbavétel tudomásulvétele: a használatbavétel tudomásulvétele vagy a felépítés megtörténtének hatósági bizonyítvánnyal való tanúsítása.
 
@@ -187,8 +187,8 @@ rendelkezik;
 [^16]: Az 1. § (1) bekezdés 20. pontját az 537/2013. (XII. 30.) Korm. rendelet 68. §-a iktatta be.
 [^17]: Az 1. § (1) bekezdés 21. pontját az 537/2013. (XII. 30.) Korm. rendelet 68. §-a iktatta be.
 [^18]: Az 1. § (1) bekezdés 22. pontját a 331/2014. (XII. 18.) Korm. rendelet 34. §-a iktatta be.
-[^19]: Az 1. § (1) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 187. § (1) bekezdése iktatta be.
+[^19]: Az 1. § (1) bekezdés 23. pontját a 70/2015. (III. 30.) Korm. rendelet 187. § (1) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 189. § (1) bekezdésével megállapított szöveg.
 [^20]: Az 1. § (1) bekezdés 24. pontját a 70/2015. (III. 30.) Korm. rendelet 187. § (1) bekezdése iktatta be, szövege a 455/2015. (XII. 29.) Korm. rendelet 19. § (4) bekezdésével megállapított szöveg.
-[^21]: Az 1. § (1) bekezdés 25. pontját a 455/2015. (XII. 29.) Korm. rendelet 19. § (5) bekezdése iktatta be.
+[^21]: Az 1. § (1) bekezdés 25. pontját a 455/2015. (XII. 29.) Korm. rendelet 19. § (5) bekezdése iktatta be, szövege a 482/2016. (XII. 28.) Korm. rendelet 22. §-ával megállapított szöveg.
 [^22]: Az 1. § (1) bekezdés 26. pontját a 455/2015. (XII. 29.) Korm. rendelet 19. § (5) bekezdése iktatta be.
 [^23]: Az 1. § (2) bekezdése az 537/2013. (XII. 30.) Korm. rendelet 74. § c) pontja, a 455/2015. (XII. 29.) Korm. rendelet 25. § b) pontja szerint módosított szöveg.

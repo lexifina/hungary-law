@@ -26,8 +26,8 @@ bb) nem támogatott személy hiteladósként további otthonteremtési kamattám
 
 bc) az otthonteremtési kamattámogatásos kölcsönnel érintett lakásban lakóhelyet nem létesít.
 
-c)[^26] hozzájárul ahhoz, hogy természetes személyazonosító adatait, az állampolgárságára vagy hontalanságára vonatkozó adatot, lakcímét és postacímét, személyazonosító igazolványának vagy úti okmányának számát, adóazonosító jelét, valamint a kamattámogatásra vonatkozó információkat a kamattámogatás szabályszerű igénybevételének ellenőrzése céljából a hitelintézet átadja a kormányhivatal és a Magyar Államkincstár központja (a továbbiakban: Kincstár) részére.
+c)[^26] hozzájárul ahhoz, hogy természetes személyazonosító adatait, az állampolgárságára vagy hontalanságára vonatkozó adatot, lakcímét és postacímét, személyazonosító igazolványának vagy úti okmányának számát, adóazonosító jelét, valamint a kamattámogatásra vonatkozó információkat a kamattámogatás szabályszerű igénybevételének ellenőrzése céljából a hitelintézet átadja a járási hivatal és a Magyar Államkincstár központja (a továbbiakban: Kincstár) részére.
 
 [^24]: A 2. alcím címe a 331/2014. (XII. 18.) Korm. rendelet 43. § a) pontja szerint módosított szöveg.
 [^25]: A 2. § (3) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 69. §-a iktatta be.
-[^26]: A 2. § (3) bekezdés c) pontját a 455/2015. (XII. 29.) Korm. rendelet 20. §-a iktatta be.
+[^26]: A 2. § (3) bekezdés c) pontját a 455/2015. (XII. 29.) Korm. rendelet 20. §-a iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 189. § (5) bekezdés a) pontja szerint módosított szöveg.

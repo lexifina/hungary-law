@@ -22,3 +22,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2011-341-20-
 | 2015-04-01 | 2011-341-20-22.14 | 70/2015. (III. 30.) Korm. rendelet |
 | 2016-01-01 | 2011-341-20-22.15 | 455/2015. (XII. 29.) Korm. rendelet |
 | 2016-02-11 | 2011-341-20-22.16 | 455/2015. (XII. 29.) Korm. rendelet |
+| 2017-01-01 | 2011-341-20-22.17 | 70/2015. (III. 30.) Korm. rendelet |

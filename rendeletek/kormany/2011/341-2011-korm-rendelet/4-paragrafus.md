@@ -16,7 +16,7 @@ bc)[^38] – a 3. § (1) bekezdés f) pontja szerinti kamattámogatás kivétel�
 
 c)[^39] az eladó és a vevő nem lehetnek egymásnak a Ptk. szerinti hozzátartozói,
 
-d)[^40] az igénylő írásban hozzájárul ahhoz, hogy természetes személyazonosító adatait, az állampolgárságára vagy hontalanságára vonatkozó adatot, lakcímét és postacímét, személyazonosító igazolványának vagy úti okmányának számát, saját és gyermeke adóazonosító jelét, valamint a kamattámogatásra vonatkozó információkat a kamattámogatás szabályszerű igénybevételének ellenőrzése céljából a hitelintézet átadja kormányhivatal, az 5. § (1) bekezdés a)–b) és d) pontja szerinti kamattámogatás esetén a kormányhivatal és a Kincstár és az állami adóhatóság részére, és
+d)[^40] az igénylő írásban hozzájárul ahhoz, hogy természetes személyazonosító adatait, az állampolgárságára vagy hontalanságára vonatkozó adatot, lakcímét és postacímét, személyazonosító igazolványának vagy úti okmányának számát, saját és gyermeke adóazonosító jelét, valamint a kamattámogatásra vonatkozó információkat a kamattámogatás szabályszerű igénybevételének ellenőrzése céljából a hitelintézet átadja a járási hivatal, Budapest Főváros Kormányhivatala, az 5. § (1) bekezdés a)–b) és d) pontja szerinti kamattámogatás esetén a járási hivatal, Budapest Főváros Kormányhivatala és a Kincstár és az állami adóhatóság részére, és
 
 e)[^41]
 
@@ -68,7 +68,7 @@ ba) a Tbj. 5. §-a alapján biztosított, illetve
 
 bb) kereső tevékenysége alapján valamely más állam társadalombiztosítási rendszerének hatálya alá tartozott és ezt az illetékes külföldi hatóság által kiállított igazolás hiteles magyar nyelvű fordításával igazolja.
 
-(2)[^56] A kamattámogatott kölcsönök igénybevételének jogszerűségét – a (7)–(10) bekezdés szerinti számla valódiságára és a számlában szereplő gazdasági esemény megtörténtére irányuló ellenőrzés kivételével – a kormányhivatal ellenőrzi.
+(2)[^56] A kamattámogatott kölcsönök igénybevételének jogszerűségét – a (7)–(10) bekezdés szerinti számla valódiságára és a számlában szereplő gazdasági esemény megtörténtére irányuló ellenőrzés kivételével – a járási hivatal ellenőrzi.
 
 (2a)[^57] Az 5. § (1) bekezdés a), b) és d) pontja esetén az építési engedély kiadását legfeljebb 6 hónappal megelőzően kiállított számla fogadható el.
 
@@ -86,7 +86,7 @@ bb) kereső tevékenysége alapján valamely más állam társadalombiztosítás
 
 (8)[^64] A támogatott személy köteles a költségek igazolásaként bemutatott számlákat az adásvételi szerződés megkötése, a használatbavételi engedély kiadása vagy a használatbavétel tudomásulvétele vagy korszerűsítés, bővítés esetén a munkák elkészülte támogatott személy által történő bejelentése évének utolsó napjától számított öt évig megőrizni.
 
-(9)[^65] Az állami adóhatóság a számlák valódiságát, a bennük foglalt gazdasági esemény megtörténtét és ezekkel összefüggésben az otthonteremtési kamattámogatások igénybevételének jogszerűségét, felhasználásának szabályszerűségét a helyszínen – a lakásban is – ellenőrzi, és annak eredményéről a hitelintézetet tájékoztatja, vagy, ha olyan jogszabálysértést is észlel, amellyel kapcsolatos eljárás a kormányhivatal hatáskörébe tartozik, a kormányhivatalt hivatalból értesíti.
+(9)[^65] Az állami adóhatóság a számlák valódiságát, a bennük foglalt gazdasági esemény megtörténtét és ezekkel összefüggésben az otthonteremtési kamattámogatások igénybevételének jogszerűségét, felhasználásának szabályszerűségét a helyszínen – a lakásban is – ellenőrzi, és annak eredményéről a hitelintézetet tájékoztatja, vagy, ha olyan jogszabálysértést is észlel, amellyel kapcsolatos eljárás a járási hivatal hatáskörébe tartozik, a járási hivatalt hivatalból értesíti.
 
 (10)[^66] Ha az állami adóhatóság vizsgálata során azt állapítja meg, hogy az otthonteremtési kamattámogatás igénybevétele jogosulatlan, vagy a támogatott személy nem a tőle elvárható gondossággal járt el, és ezáltal érdekkörében felmerült ok miatt az igénybevétel szabálytalan, akkor a támogatott személy lakóhelye szerint illetékes állami adóhatóság – jogosulatlanul igénybe vett költségvetési támogatás címén – előírja az igénybe vett otthonteremtési kamattámogatás az igénybevétel napjától számított, a Ptk. szerinti késedelmi kamattal növelt összegének visszatérítését.
 
@@ -96,7 +96,7 @@ bb) kereső tevékenysége alapján valamely más állam társadalombiztosítás
 [^37]: A 4. § (1) bekezdés b) pont ba) alpontja a 331/2014. (XII. 18.) Korm. rendelet 44. § c) pontja szerint módosított szöveg.
 [^38]: A 4. § (1) bekezdés b) pont bc) alpontját a 331/2014. (XII. 18.) Korm. rendelet 36. § (1) bekezdése iktatta be.
 [^39]: A 4. § (1) bekezdés c) pontja a 80/2014. (III. 14.) Korm. rendelet 27. § a) pontja szerint módosított szöveg.
-[^40]: A 4. § (1) bekezdés d) pontja az 537/2013. (XII. 30.) Korm. rendelet 74. § d) pontja, a 70/2015. (III. 30.) Korm. rendelet 187. § (8) bekezdés a) pontja, a 455/2015. (XII. 29.) Korm. rendelet 25. § c) pontja szerint módosított szöveg.
+[^40]: A 4. § (1) bekezdés d) pontja az 537/2013. (XII. 30.) Korm. rendelet 74. § d) pontja, a 379/2016. (XII. 2.) Korm. rendelet 189. § (5) bekezdés b) pontja szerint módosított szöveg.
 [^41]: A 4. § (1) bekezdés e) pontját a 331/2014. (XII. 18.) Korm. rendelet 44. § d) pontja hatályon kívül helyezte.
 [^42]: A 4. § (1) bekezdés f) pontját a 379/2012. (XII. 19.) Korm. rendelet 34. § (2) bekezdése iktatta be, nyitó szövegrésze a 331/2014. (XII. 18.) Korm. rendelet 43. § c) pontja szerint módosított szöveg.
 [^43]: A 4. § (1) bekezdés f) pont fa) alpontja a 455/2015. (XII. 29.) Korm. rendelet 25. § d) pontja szerint módosított szöveg.
@@ -112,7 +112,7 @@ bb) kereső tevékenysége alapján valamely más állam társadalombiztosítás
 [^53]: A 4. § (1d) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 36. § (2) bekezdése iktatta be.
 [^54]: A 4. § (1e) bekezdését a 455/2015. (XII. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be.
 [^55]: A 4. § (1f) bekezdését a 455/2015. (XII. 29.) Korm. rendelet 21. § (2) bekezdése iktatta be.
-[^56]: A 4. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 43. § c) pontja, a 70/2015. (III. 30.) Korm. rendelet 187. § (8) bekezdés b) pontja szerint módosított szöveg.
+[^56]: A 4. § (2) bekezdése a 379/2012. (XII. 19.) Korm. rendelet 43. § c) pontja, a 379/2016. (XII. 2.) Korm. rendelet 189. § (5) bekezdés a) pontja szerint módosított szöveg.
 [^57]: A 4. § (2a) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 36. § (3) bekezdése iktatta be.
 [^58]: A 4. § (3) bekezdését a 331/2014. (XII. 18.) Korm. rendelet 44. § e) pontja hatályon kívül helyezte.
 [^59]: A 4. § (4) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 34. § (4) bekezdése iktatta be, szövege az 537/2013. (XII. 30.) Korm. rendelet 74. § e) pontja szerint módosított szöveg.
@@ -121,5 +121,5 @@ bb) kereső tevékenysége alapján valamely más állam társadalombiztosítás
 [^62]: A 4. § (6a) bekezdését az 537/2013. (XII. 30.) Korm. rendelet 71. § (4) bekezdése iktatta be.
 [^63]: A 4. § (7) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 34. § (4) bekezdése iktatta be.
 [^64]: A 4. § (8) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 34. § (4) bekezdése iktatta be, szövege a 128/2013. (IV. 30.) Korm. rendelet 21. § e) pontja szerint módosított szöveg.
-[^65]: A 4. § (9) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 34. § (4) bekezdése iktatta be, szövege a 70/2015. (III. 30.) Korm. rendelet 187. § (8) bekezdés c) pontja szerint módosított szöveg.
+[^65]: A 4. § (9) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 34. § (4) bekezdése iktatta be, szövege a 379/2016. (XII. 2.) Korm. rendelet 189. § (5) bekezdés a) pontja, a 482/2016. (XII. 28.) Korm. rendelet 24. § (2) bekezdése szerint módosított szöveg.
 [^66]: A 4. § (10) bekezdését a 379/2012. (XII. 19.) Korm. rendelet 34. § (4) bekezdése iktatta be, szövege a 80/2014. (III. 14.) Korm. rendelet 27. § b) pontja szerint módosított szöveg.
