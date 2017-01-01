@@ -6,7 +6,7 @@ a) a Kijelölő Rendelet 1. § (2) bekezdés f) pontjában meghatározott progra
 
 b) ellenőrzi a vezető partner által benyújtott projekt előrehaladási jelentést, a partnerszintű hitelesítési nyilatkozatok és számlaösszesítők alapján projektszinten összesített fizetési kérelmet az IMIR 2007–2013-ban és kezdeményezi a pénzügyi átutalási egységnél a közösségi hozzájárulás visszatérítési folyamatának elindítását.
 
-(2)[^38] A Közös Technikai Titkárság kezdeményezése alapján a pénzügyi átutalási egység összeállítja az IMIR 2007–2013-ban a programonként összesített közösségi hozzájárulás forráslehívási dokumentációt, amely az IMIR 2007–2013-ban rögzített, még le nem hívott közösségi támogatásra jogosult hitelesített költségek és az előlegek adatainak összesítését jelenti, majd elektronikusan és nyomtatott formában benyújtja jóváhagyásra az Irányító Hatósághoz.
+(2)[^38] A Közös Technikai Titkárság kezdeményezése alapján a pénzügyi átutalási egység összeállítja az IMIR 2007–2013-ban a programonként összesített közösségi hozzájárulás forráslehívási dokumentációt, amely az IMIR 2007–2013-ban rögzített, még le nem hívott közösségi támogatásra jogosult hitelesített költségek és az előlegek adatainak összesítését jelenti, majd elektronikus úton benyújtja jóváhagyásra az Irányító Hatósághoz.
 
 (3) Az Irányító Hatóság a hozzá beérkezett dokumentumokat a jóváhagyást követően megküldi az Igazoló Hatóság felé.
 
@@ -22,7 +22,7 @@ b) ellenőrzi a vezető partner által benyújtott projekt előrehaladási jelen
 
 [^36]: A 14. §-t megelőző alcím a 137/2010. (IV. 28.) Korm. rendelet 13. §-ával megállapított szöveg.
 [^37]: A 14. § (1) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
-[^38]: A 14. § (2) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 14. §-ával megállapított szöveg.
+[^38]: A 14. § (2) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 14. §-ával megállapított, a 477/2016. (XII. 27.) Korm. rendelet 45. § (4) bekezdés a) pontja szerint módosított szöveg.
 [^39]: A 14. § (4) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.
 [^40]: A 14. § (5) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 15. §-ával megállapított szöveg.
 [^41]: A 14. § (6) bekezdése a 137/2010. (IV. 28.) Korm. rendelet 28. § (2) bekezdése szerint módosított szöveg.

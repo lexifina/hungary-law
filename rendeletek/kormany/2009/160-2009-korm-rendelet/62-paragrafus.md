@@ -1,3 +1,5 @@
+## 61/A. §[^146] Ha az érintett szerv az elektronikus ügyintézést az elektronikus ügyintézés és a bizalmi szolgáltatások általános szabályairól szóló 2015. évi CCXXII. törvény 108. § (2) bekezdése szerint 2018. január 1-jét megelőzően nem vállalta, 2017. december 31-ig az elektronikus kapcsolattartásra e rendelet 2016. december 31-én hatályos rendelkezéseit kell alkalmazni.
+
 ## 62. § Ez a rendelet a következő közösségi rendeletek végrehajtásához szükséges rendelkezéseket állapítja meg:
 
 a) az Európai Regionális Fejlesztési Alapra, az Európai Szociális Alapra és a Kohéziós Alapra vonatkozó általános rendelkezések megállapításáról és az 1260/1999/EK rendelet hatályon kívül helyezéséről szóló 2006. július 11-i 1083/2006/EK tanácsi rendelet;
@@ -14,6 +16,7 @@ f) az Európai Szomszédsági és Partnerségi Támogatási Eszköz létrehozás
 
 g) az európai szomszédsági és partnerségi támogatási eszköz létrehozására vonatkozó általános rendelkezések meghatározásáról szóló 1638/2006/EK európai parlamenti és tanácsi rendelet keretében finanszírozott, határokon átnyúló együttműködési programok végrehajtási szabályainak megállapításáról szóló 951/2007/EK bizottsági rendelet;
 
-h)[^145] az előcsatlakozási támogatási eszköz (IPA) létrehozásáról szóló 1085/2006/EK tanácsi rendelet végrehajtásáról szóló 718/2007/EK bizottsági rendelet módosításáról szóló 2010. január 28-i 80/2010/EU bizottsági rendelet.
+h)[^147] az előcsatlakozási támogatási eszköz (IPA) létrehozásáról szóló 1085/2006/EK tanácsi rendelet végrehajtásáról szóló 718/2007/EK bizottsági rendelet módosításáról szóló 2010. január 28-i 80/2010/EU bizottsági rendelet.
 
-[^145]: A 62. § h) pontját a 370/2010. (XII. 31.) Korm. rendelet 20. §-a iktatta be.
+[^146]: A 61/A. §-t a 477/2016. (XII. 27.) Korm. rendelet 45. § (3) bekezdése iktatta be.
+[^147]: A 62. § h) pontját a 370/2010. (XII. 31.) Korm. rendelet 20. §-a iktatta be.
