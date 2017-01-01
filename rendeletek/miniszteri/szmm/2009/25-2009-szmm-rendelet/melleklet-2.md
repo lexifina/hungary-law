@@ -68,7 +68,7 @@
 
 ## Elfogadható szakmai gyakorlat: javítóintézetben, speciális gyermekotthonban, ezek fenntartói vagy ágazati irányítása, ellenőrzése, módszertani segítése során szerzett szakmai gyakorlat.
 
-## i)[^6] Fogyatékos gyermekek gondozása, nevelése szakterület
+## i)[^7] Fogyatékos gyermekek gondozása, nevelése szakterület
 
 ## Elfogadható szakképesítés: gyógypedagógus, gyógytornász, konduktor, továbbá bölcsődei ellátás esetében a gyógypedagógiai asszisztens.
 
@@ -132,7 +132,7 @@
 
 ## Elfogadható szakmai gyakorlat: ingatlanok forgalmazásában, pénzügyi befektetésekben, gazdasági társaságok működésében, továbbá a gyermekvédelem, gyámügyi igazgatás területén a gyermekek vagyonának kezelésében szerzett szakmai gyakorlat.
 
-## q)[^7] Gyermekvédelmi és gyámügyi igazgatás szakterület
+## q)[^8] Gyermekvédelmi és gyámügyi igazgatás szakterület
 
 ## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, jogász, igazgatásszervező, szociális igazgatásszervező, felsőfokú pedagógus végzettség.
 
@@ -144,39 +144,39 @@
 
 ## Szociálpolitikai szakértők
 
-## a)[^8] Időskorúak szociális ellátása szakterület
+## a)[^9] Időskorúak szociális ellátása szakterület
 
-## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, diplomás ápoló/ápoló[^9]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus.
+## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, diplomás ápoló/ápoló[^10]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus.
 
 ## Elfogadható szakvizsga: szociális szakvizsga, társadalomorvostani szakorvos képesítésnél az orvosi szakvizsga is, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is.
 
 ## Elfogadható szakmai gyakorlat: a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztériumban vagy a minisztérium felügyelete alá tartozó intézményben folytatott tevékenység, a szociális igazgatásról és szociális ellátásokról szóló 1993. évi III. törvény (Szt.) 57. §-ában meghatározott szociális szolgáltatás körében végzett tevékenység, helyi önkormányzatnál a fenntartói feladatok ellátásával, illetve a szociális igazgatással összefüggésben végzett tevékenység, fővárosi és megyei kormányhivatalnál, illetve települési önkormányzatnál szociális szolgáltatások működési engedélyezésével, illetve a szolgáltatók működésének hatósági ellenőrzésével összefüggő feladatellátás, az Szt. 25. § (3) bekezdése szerinti szociális rászorultságtól függő pénzbeli ellátásokkal összefüggő feladatellátás, nem állami, illetve egyházi fenntartónál szociális szolgáltatással közvetlenül összefüggő feladat ellátása, felsőfokú szociális alapvégzettséget nyújtó felsőoktatási intézményben folytatott oktatói, tudományos tevékenység.
 
-## b)[^10] Fogyatékos személyek szociális ellátása szakterület
+## b)[^11] Fogyatékos személyek szociális ellátása szakterület
 
-## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, audiológus, fül-orr-gégész szakorvos, ortopéd szakorvos, szemész szakorvos, diplomás ápoló/ápoló[^11]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus, konduktor óvodapedagógus, konduktor tanító, gyógypedagógus.
+## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, audiológus, fül-orr-gégész szakorvos, ortopéd szakorvos, szemész szakorvos, diplomás ápoló/ápoló[^12]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus, konduktor óvodapedagógus, konduktor tanító, gyógypedagógus.
 
 ## Elfogadható szakvizsga: szociális szakvizsga, társadalomorvostani szakorvos, audiológus, fül-orr-gégész szakorvos, ortopéd szakorvos, szemész szakorvos képesítésnél az orvosi szakvizsga is, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is, konduktor óvodapedagógus, konduktor tanító, gyógypedagógus képesítésnél a pedagógus-szakvizsga is.
 
 ## Elfogadható szakmai gyakorlat: a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztériumban vagy a minisztérium felügyelete alá tartozó intézményben folytatott tevékenység, az Szt. 57. §-ában meghatározott szociális szolgáltatás körében végzett tevékenység, helyi önkormányzatnál a fenntartói feladatok ellátásával, illetve a szociális igazgatással összefüggésben végzett tevékenység, fővárosi és megyei kormányhivatalnál, illetve települési önkormányzatnál szociális szolgáltatások működési engedélyezésével, illetve a szolgáltatók működésének hatósági ellenőrzésével összefüggő feladatellátás, az Szt. 25. § (3) bekezdése szerinti szociális rászorultságtól függő pénzbeli ellátásokkal összefüggő feladatellátás, nem állami, illetve egyházi fenntartónál szociális szolgáltatással közvetlenül összefüggő feladat ellátása, felsőfokú szociális alapvégzettséget nyújtó felsőoktatási intézményben folytatott oktatói, tudományos tevékenység.
 
-## c)[^12] Pszichiátriai betegek szociális ellátása szakterület
+## c)[^13] Pszichiátriai betegek szociális ellátása szakterület
 
-## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, pszichiáter szakorvos, diplomás ápoló/ápoló[^13]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus, gyógypedagógus.
+## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, pszichiáter szakorvos, diplomás ápoló/ápoló[^14]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus, gyógypedagógus.
 
 ## Elfogadható szakvizsga: szociális szakvizsga, társadalomorvostani szakorvos, pszichiáter szakorvos képesítésnél az orvosi szakvizsga is, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is.
 
 ## Elfogadható szakmai gyakorlat: a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztériumban vagy a minisztérium felügyelete alá tartozó intézményben folytatott tevékenység, az Szt. 57. §-ában meghatározott szociális szolgáltatás körében végzett tevékenység, helyi önkormányzatnál a fenntartói feladatok ellátásával, illetve a szociális igazgatással összefüggésben végzett tevékenység, fővárosi és megyei kormányhivatalnál, illetve települési önkormányzatnál szociális szolgáltatások működési engedélyezésével, illetve a szolgáltatók működésének hatósági ellenőrzésével összefüggő feladatellátás, az Szt. 25. § (3) bekezdése szerinti szociális rászorultságtól függő pénzbeli ellátásokkal összefüggő feladatellátás, nem állami, illetve egyházi fenntartónál szociális szolgáltatással közvetlenül összefüggő feladat ellátása, felsőfokú szociális alapvégzettséget nyújtó felsőoktatási intézményben folytatott oktatói, tudományos tevékenység.
 
-## d)[^14] Szenvedélybetegek szociális ellátása szakterület
+## d)[^15] Szenvedélybetegek szociális ellátása szakterület
 
-## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, addiktológiai szakorvos, diplomás ápoló/ápoló[^15]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus, gyógypedagógus.
+## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, addiktológiai szakorvos, diplomás ápoló/ápoló[^16]/mentálhigiénikus/addiktológiai konzultáns, teológus, pszichológus, gyógypedagógus.
 
 ## Elfogadható szakvizsga: szociális szakvizsga, társadalomorvostani szakorvos, addiktológiai szakorvos képesítésnél az orvosi szakvizsga is, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is.
 
 ## Elfogadható szakmai gyakorlat: a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztériumban vagy a minisztérium felügyelete alá tartozó intézményben folytatott tevékenység, az Szt. 57. §-ában meghatározott szociális szolgáltatás körében végzett tevékenység, helyi önkormányzatnál a fenntartói feladatok ellátásával, illetve a szociális igazgatással összefüggésben végzett tevékenység, fővárosi és megyei kormányhivatalnál, illetve települési önkormányzatnál szociális szolgáltatások működési engedélyezésével, illetve a szolgáltatók működésének hatósági ellenőrzésével összefüggő feladatellátás, az Szt. 25. § (3) bekezdése szerinti szociális rászorultságtól függő pénzbeli ellátásokkal összefüggő feladatellátás, nem állami, illetve egyházi fenntartónál szociális szolgáltatással közvetlenül összefüggő feladat ellátása, felsőfokú szociális alapvégzettséget nyújtó felsőoktatási intézményben folytatott oktatói, tudományos tevékenység.
 
-## e)[^16] Hajléktalan személyek szociális ellátása szakterület
+## e)[^17] Hajléktalan személyek szociális ellátása szakterület
 
 ## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, teológus, pszichológus.
 
@@ -184,7 +184,7 @@
 
 ## Elfogadható szakmai gyakorlat: a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztériumban vagy a minisztérium felügyelete alá tartozó intézményben folytatott tevékenység, az Szt. 57. §-ában meghatározott szociális szolgáltatás körében végzett tevékenység, helyi önkormányzatnál a fenntartói feladatok ellátásával, illetve a szociális igazgatással összefüggésben végzett tevékenység, fővárosi és megyei kormányhivatalnál, illetve települési önkormányzatnál szociális szolgáltatások működési engedélyezésével, illetve a szolgáltatók működésének hatósági ellenőrzésével összefüggő feladatellátás, az Szt. 25. § (3) bekezdése szerinti szociális rászorultságtól függő pénzbeli ellátásokkal összefüggő feladatellátás, nem állami, illetve egyházi fenntartónál szociális szolgáltatással közvetlenül összefüggő feladat ellátása, felsőfokú szociális alapvégzettséget nyújtó felsőoktatási intézményben folytatott oktatói, tudományos tevékenység.
 
-## f)[^17] Családsegítés szakterület
+## f)[^18] Családsegítés szakterület
 
 ## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, teológus, pszichológus.
 
@@ -192,7 +192,7 @@
 
 ## Elfogadható szakmai gyakorlat: a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztériumban vagy a minisztérium felügyelete alá tartozó intézményben folytatott tevékenység, az Szt. 57. §-ában meghatározott szociális szolgáltatás körében végzett tevékenység, helyi önkormányzatnál a fenntartói feladatok ellátásával, illetve a szociális igazgatással összefüggésben végzett tevékenység, fővárosi és megyei kormányhivatalnál, illetve települési önkormányzatnál szociális szolgáltatások működési engedélyezésével, illetve a szolgáltatók működésének hatósági ellenőrzésével összefüggő feladatellátás, az Szt. 25. § (3) bekezdése szerinti szociális rászorultságtól függő pénzbeli ellátásokkal összefüggő feladatellátás, nem állami, illetve egyházi fenntartónál szociális szolgáltatással közvetlenül összefüggő feladat ellátása, felsőfokú szociális alapvégzettséget nyújtó felsőoktatási intézményben folytatott oktatói, tudományos tevékenység.
 
-## g)[^18] Szociális igazgatás szakterület
+## g)[^19] Szociális igazgatás szakterület
 
 ## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, jogász, igazgatásszervező, szociális igazgatásszervező.
 
@@ -200,7 +200,7 @@
 
 ## Elfogadható szakmai gyakorlat: a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztériumban vagy a minisztérium felügyelete alá tartozó intézményben folytatott tevékenység, az Szt. 57. §-ában meghatározott szociális szolgáltatás körében végzett tevékenység, helyi önkormányzatnál a fenntartói feladatok ellátásával, illetve a szociális igazgatással összefüggésben végzett tevékenység, fővárosi és megyei kormányhivatalnál, illetve települési önkormányzatnál szociális szolgáltatások működési engedélyezésével, illetve a szolgáltatók működésének hatósági ellenőrzésével összefüggő feladatellátás, az Szt. 25. § (3) bekezdése szerinti szociális rászorultságtól függő pénzbeli ellátásokkal összefüggő feladatellátás, nem állami, illetve egyházi fenntartónál szociális szolgáltatással közvetlenül összefüggő feladat ellátása, felsőfokú szociális alapvégzettséget nyújtó felsőoktatási intézményben folytatott oktatói, tudományos tevékenység.
 
-## h)[^19] Szociális foglalkoztatás szakterület
+## h)[^20] Szociális foglalkoztatás szakterület
 
 ## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, pszichológus, gyógypedagógus, jogász, igazgatásszervező, szociális igazgatásszervező.
 
@@ -208,7 +208,7 @@
 
 ## Elfogadható szakmai gyakorlat: a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztériumban vagy a minisztérium felügyelete alá tartozó intézményben folytatott tevékenység, a foglalkoztatáspolitikáért felelős miniszter által vezetett minisztériumban, illetve a felügyelete alá tartozó intézményben, továbbá szociális foglalkoztatóban vagy célszervezetnél folytatott tevékenység az Szt. 57. §-ában meghatározott szociális szolgáltatás körében végzett tevékenység, helyi önkormányzatnál a fenntartói feladatok ellátásával, illetve a szociális igazgatással összefüggésben végzett tevékenység, fővárosi és megyei kormányhivatalnál, illetve települési önkormányzatnál szociális szolgáltatások működési engedélyezésével, illetve a szolgáltatók működésének hatósági ellenőrzésével összefüggő feladatellátás, az Szt. 25. § (3) bekezdése szerinti szociális rászorultságtól függő pénzbeli ellátásokkal összefüggő feladatellátás, nem állami, illetve egyházi fenntartónál szociális szolgáltatással közvetlenül összefüggő feladat ellátása, felsőfokú szociális alapvégzettséget nyújtó felsőoktatási intézményben folytatott oktatói, tudományos tevékenység.
 
-## i)[^20] Rehabilitációs utógondozás szakterület
+## i)[^21] Rehabilitációs utógondozás szakterület
 
 ## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, rehabilitációs szakorvos, pszichológus, gyógypedagógus.
 
@@ -216,7 +216,7 @@
 
 ## Elfogadható szakmai gyakorlat: a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztériumban vagy a minisztérium felügyelete alá tartozó intézményben folytatott tevékenység, az Szt. 57. §-ában meghatározott szociális szolgáltatás körében végzett tevékenység, helyi önkormányzatnál a fenntartói feladatok ellátásával, illetve a szociális igazgatással összefüggésben végzett tevékenység, fővárosi és megyei kormányhivatalnál, illetve települési önkormányzatnál szociális szolgáltatások működési engedélyezésével, illetve a szolgáltatók működésének hatósági ellenőrzésével összefüggő feladatellátás, az Szt. 25. § (3) bekezdése szerinti szociális rászorultságtól függő pénzbeli ellátásokkal összefüggő feladatellátás, nem állami, illetve egyházi fenntartónál szociális szolgáltatással közvetlenül összefüggő feladat ellátása, felsőfokú szociális alapvégzettséget nyújtó felsőoktatási intézményben folytatott oktatói, tudományos tevékenység.
 
-## j)[^21] Szociális szolgáltatások tervezése, fejlesztése, szervezése, ideértve a közösségi ellátásokat, a csoportmunkát, valamint a szolgáltatástervezési koncepcióval kapcsolatos tanácsadás szakterület
+## j)[^22] Szociális szolgáltatások tervezése, fejlesztése, szervezése, ideértve a közösségi ellátásokat, a csoportmunkát, valamint a szolgáltatástervezési koncepcióval kapcsolatos tanácsadás szakterület
 
 ## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, pszichológus, jogász, igazgatásszervező, szociális igazgatásszervező.
 
@@ -224,17 +224,17 @@
 
 ## Elfogadható szakmai gyakorlat: a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztériumban vagy a minisztérium felügyelete alá tartozó intézményben folytatott tevékenység, az Szt. 57. §-ában meghatározott szociális szolgáltatás körében végzett tevékenység, helyi önkormányzatnál a fenntartói feladatok ellátásával, illetve a szociális igazgatással összefüggésben végzett tevékenység, fővárosi és megyei kormányhivatalnál, illetve települési önkormányzatnál szociális szolgáltatások működési engedélyezésével, illetve a szolgáltatók működésének hatósági ellenőrzésével összefüggő feladatellátás, az Szt. 25. § (3) bekezdése szerinti szociális rászorultságtól függő pénzbeli ellátásokkal összefüggő feladatellátás, nem állami, illetve egyházi fenntartónál szociális szolgáltatással közvetlenül összefüggő feladat ellátása, felsőfokú szociális alapvégzettséget nyújtó felsőoktatási intézményben folytatott oktatói, tudományos tevékenység.
 
-## k)[^22] Szociális minőségfejlesztési tanácsadás szakterület
+## k)[^23] Szociális minőségfejlesztési tanácsadás szakterület
 
 ## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, szociológus, társadalomorvostani szakorvos, pszichológus, minőségmenedzser, vezető auditor.
 
 ## Elfogadható szakmai gyakorlat: a szociál- és nyugdíjpolitikáért felelős miniszter által vezetett minisztériumban vagy a minisztérium felügyelete alá tartozó intézményben folytatott tevékenység, az Szt. 57. §-ában meghatározott szociális szolgáltatás körében végzett tevékenység, helyi önkormányzatnál a fenntartói feladatok ellátásával, illetve a szociális igazgatással összefüggésben végzett tevékenység, fővárosi és megyei kormányhivatalnál, illetve települési önkormányzatnál szociális szolgáltatások működési engedélyezésével, illetve a szolgáltatók működésének hatósági ellenőrzésével összefüggő feladatellátás, az Szt. 25. § (3) bekezdése szerinti szociális rászorultságtól függő pénzbeli ellátásokkal összefüggő feladatellátás, nem állami, illetve egyházi fenntartónál szociális szolgáltatással közvetlenül összefüggő feladat ellátása, felsőfokú szociális alapvégzettséget nyújtó felsőoktatási intézményben folytatott oktatói, tudományos tevékenység.
 
-## l), m), n)[^23]
+## l), m), n)[^24]
 
 ## Szakértői közreműködés a személyes gondoskodás igénybevételével kapcsolatos eljárásokban, szakértői közreműködés a fogyatékos személyek alapvizsgálatában, a rehabilitációs alkalmassági vizsgálatban, a szociális intézményekben ellátott személyek állapotának felülvizsgálatában, szakértői közreműködés a komplex minősítési eljárásban szakterületek
 
-## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, rehabilitációs szakorvos, pszichiáter szakorvos, addiktológiai szakorvos, diplomás ápoló/ápoló[^24]/mentálhigiénikus/addiktológiai konzultáns, pszichológus, konduktor óvodapedagógus, konduktor tanító, gyógypedagógus.
+## Elfogadható szakképesítés: általános szociális munkás, szociálpedagógus, szociális szervező, szociális menedzser, okleveles szociális munkás, szociálpolitikus, rehabilitációs szakorvos, pszichiáter szakorvos, addiktológiai szakorvos, diplomás ápoló/ápoló[^25]/mentálhigiénikus/addiktológiai konzultáns, pszichológus, konduktor óvodapedagógus, konduktor tanító, gyógypedagógus.
 
 ## Elfogadható szakvizsga: szociális szakvizsga, rehabilitációs szakorvos, pszichiáter szakorvos, addiktológiai szakorvos képesítésnél az orvosi szakvizsga is, pszichológus képesítésnél a klinikai szakpszichológusi szakvizsga is, konduktor óvodapedagógus, konduktor tanító, gyógypedagógus képesítésnél a pedagógus-szakvizsga is.
 
@@ -242,22 +242,22 @@
 
 2. számú melléklet a 25/2009. (XI. 13.) SZMM rendelethez
 
-[^6]: Az 1. számú melléklet I. rész i) pontja a 41/2012. (XI. 28.) EMMI rendelet 15. §-ával megállapított szöveg.
-[^7]: Az 1. számú melléklet I. pont q) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
-[^8]: Az 1. számú melléklet II. pont a) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
-[^9]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
-[^10]: Az 1. számú melléklet II. pont b) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
-[^11]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
-[^12]: Az 1. számú melléklet II. pont c) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
-[^13]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
-[^14]: Az 1. számú melléklet II. pont d) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
-[^15]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
-[^16]: Az 1. számú melléklet II. pont e) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
-[^17]: Az 1. számú melléklet II. pont f) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
-[^18]: Az 1. számú melléklet II. pont g) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
-[^19]: Az 1. számú melléklet II. pont h) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
-[^20]: Az 1. számú melléklet II. pont i) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
-[^21]: Az 1. számú melléklet II. pont j) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
-[^22]: Az 1. számú melléklet II. pont k) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
-[^23]: Az 1. számú melléklet II. pont l)–n) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
-[^24]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
+[^7]: Az 1. számú melléklet I. rész i) pontja a 41/2012. (XI. 28.) EMMI rendelet 15. §-ával megállapított szöveg.
+[^8]: Az 1. számú melléklet I. pont q) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
+[^9]: Az 1. számú melléklet II. pont a) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
+[^10]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
+[^11]: Az 1. számú melléklet II. pont b) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
+[^12]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
+[^13]: Az 1. számú melléklet II. pont c) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
+[^14]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
+[^15]: Az 1. számú melléklet II. pont d) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
+[^16]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.
+[^17]: Az 1. számú melléklet II. pont e) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
+[^18]: Az 1. számú melléklet II. pont f) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
+[^19]: Az 1. számú melléklet II. pont g) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
+[^20]: Az 1. számú melléklet II. pont h) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
+[^21]: Az 1. számú melléklet II. pont i) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
+[^22]: Az 1. számú melléklet II. pont j) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
+[^23]: Az 1. számú melléklet II. pont k) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
+[^24]: Az 1. számú melléklet II. pont l)–n) alpontja a 24/2015. (IV. 30.) EMMI rendelet 15. §-a szerint módosított szöveg.
+[^25]: Felsőfokú ápoló végzettség a felsőoktatási alap- és mesterképzésről, valamint a szakindítás eljárási rendjéről szóló 289/2005. (XII. 22.) Korm. rendeletben meghatározott ápolói képzések alapján szerzett végzettség, az egészségügyi felsőoktatás alapképzési szakjainak képesítési követelményeiről szóló 36/1996. (III. 5.) Korm. rendelet alapján szerzett okleveles ápolói és ápolói végzettség, valamint az okleveles ápolói végzettséggel egyenértékűnek minősített egyetemi okleveles ápolói végzettség.

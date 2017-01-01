@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2009-25-20-1
 | 2015-05-03 | 2009-25-20-1X.5 | 24/2015. (IV. 30.) EMMI rendelet |
 | 2015-09-01 | 2009-25-20-1X.6 | 39/2015. (VIII. 28.) EMMI rendelet |
 | 2016-09-01 | 2009-25-20-1X.7 | 21/2016. (VIII. 24.) EMMI rendelet |
+| 2017-01-01 | 2009-25-20-1X.8 | 43/2016. (XII. 27.) EMMI rendelet |
