@@ -14,7 +14,7 @@ e) a külön jogszabályokban foglaltak szerint a radioaktív anyagokkal és az 
 
 f) a kémiai biztonsággal összefüggő tevékenység körében külön jogszabály által előírt feladatok ellátását;
 
-g) a honvédségi élelmezési létesítmények és az azokban folytatott tevékenységek, valamint a tevékenységeket végzők higiénés ellenőrzését, a személyi állomány körében a táplálkozás-élettani vizsgálatokat. Külön jogszabály[^8] alapján ellenőrzi, hogy a katonai szervezeteknél felhasználásra kerülő élelmiszerek megfelelnek-e a közegészségügyi, élelmiszer-higiéniai és a minőségi előírásoknak;
+g) a honvédségi élelmezési létesítmények és az azokban folytatott tevékenységek, valamint a tevékenységeket végzők higiénés ellenőrzését, a személyi állomány körében a táplálkozás-élettani vizsgálatokat. Külön jogszabály[^10] alapján ellenőrzi, hogy a katonai szervezeteknél felhasználásra kerülő élelmiszerek megfelelnek-e a közegészségügyi, élelmiszer-higiéniai és a minőségi előírásoknak;
 
 h) a speciálisan honvédelmi célokat szolgáló anyagok, eszközök és felszerelések egészségkárosító hatásainak vizsgálatát, és az előírt higiénés határértékek érvényesítését;
 
@@ -32,4 +32,4 @@ n) a honvédelmi ágazat munkavédelmi irányítási és felügyeleti rendszeré
 
 (2) Közreműködik a szolgálati, illetve foglalkozási megbetegedések és fokozott expozíciók megelőzésével kapcsolatos belső előírások kidolgozásában, illetve kezdeményezi ezen előírások kidolgozását.
 
-[^8]: Lásd: az élelmiszerek ellenőrzésének rendjéről szóló 21/1998. (IV. 8.) FM–BM–HM–IKIM–NM együttes rendelet 5. §-át.
+[^10]: Lásd: az élelmiszerek ellenőrzésének rendjéről szóló 21/1998. (IV. 8.) FM–BM–HM–IKIM–NM együttes rendelet 5. §-át.

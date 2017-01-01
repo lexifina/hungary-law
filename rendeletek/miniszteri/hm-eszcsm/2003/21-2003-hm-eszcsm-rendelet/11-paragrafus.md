@@ -1,1 +1,1 @@
-## A Szolgálat és az ÁNTSZ együttműködésének a szabályai
+## A Szolgálat és a népegészségügyi szervek együttműködésének a szabályai
