@@ -7,3 +7,4 @@ Nemzeti Jogszabálytár: https://njt.jog.gov.hu/jogszabaly/2016-69-00-00
 | 2016-07-17 | 2016. évi LXIX. törvény | 2016-69-00-00.0 (közlönyállapot) |
 | 2016-07-17 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-69-00-00.1 |
 | 2016-07-18 | 2010. évi CXXX. törvény | 2016-69-00-00.2 |
+| 2017-01-01 | Nemzeti Jogszabálytár (egységes szerkezet) | 2016-69-00-00.3 |
