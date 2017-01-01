@@ -1,1 +1,0 @@
-A Kormány a további intézkedésig fel nem használható 2012. évi kötelezettségvállalással nem terhelt előirányzat-maradványokból a XII. Nemzeti Fejlesztési Minisztérium fejezetnél keletkezett 470,0 millió forintnak
