@@ -13,3 +13,4 @@ Forrás: Nemzeti Jogszabálytár, https://njt.jog.gov.hu/jogszabaly/2002-99-20-8
 | 2013-08-01 | 2002-99-20-82.9 | 12/2004. (I. 31.) FVM rendelet |
 | 2013-10-10 | 2002-99-20-82.10 | 88/2013. (X. 2.) VM rendelet |
 | 2014-01-01 | 2002-99-20-82.11 | 88/2013. (X. 2.) VM rendelet |
+| 2017-01-01 | 2002-99-20-82.12 | 88/2013. (X. 2.) VM rendelet |
